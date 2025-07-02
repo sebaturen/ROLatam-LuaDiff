@@ -1974,7 +1974,7 @@ SKILL_DESCRIPT = {
     "[Nv 5]: ^77777710 casillas^000000 l ^77777760 segundos^000000"
   },
   [SKID.HT_LANDMINE] = {
-    "Mina terrestre ^777777(Land Mine)^000000",
+    "Mina Terrestre ^777777(Land Mine)^000000",
     "Nv. mßx.: 5",
     "Forma de habilidad: ^993300Activa^000000",
     "Tipo: ^777777Instalaci¾n^000000",
@@ -2162,7 +2162,7 @@ SKILL_DESCRIPT = {
     "^777777Cazadores^000000 l ^777777Halc¾n^000000",
     "^777777Francoatiradores^000000 l ^777777Gavilßn^000000",
     "^777777Errantes^000000 l ^777777B·ho^000000",
-    "^777777Cazador de Vientos^000000 l ^777777┴guila^000000"
+    ""
   },
   [SKID.HT_STEELCROW] = {
     "Cuervo de Acero ^777777(Steel Claw)^000000",
@@ -3050,7 +3050,7 @@ SKILL_DESCRIPT = {
     "Descripci¾n: ^777777Aumenta la probabilidad de Úxito del Cultivo y la resistencia al Fuego del usuario.^000000"
   },
   [SKID.AM_CALLHOMUN] = {
-    "Invocar hom·nculo ^777777(Call Homunculus)^000000",
+    "Invocar Hom·nculo ^777777(Call Homunculus)^000000",
     "Nv. mßx.: 1",
     "Habilidad requerida: ^777777Evaporizaci¾ná1^000000",
     "Forma de habilidad: ^993300Activa^000000",
@@ -4142,11 +4142,11 @@ SKILL_DESCRIPT = {
     "En cada lanzamiento, se usa una flecha, cuya propiedad depende de la propiedad de esta habilidad.^000000",
     "^000088Consume 1 Flecha.^000000",
     "Nivel l ATQ",
-    "[Nv 1]: ^777777150% x2^000000",
-    "[Nv 2]: ^777777190% x2^000000",
-    "[Nv 3]: ^777777230% x2^000000",
-    "[Nv 4]: ^777777270% x2^000000",
-    "[Nv 5]: ^777777310% x2^000000"
+    "[Nv 1]: ^777777150%^000000",
+    "[Nv 2]: ^777777190%^000000",
+    "[Nv 3]: ^777777230%^000000",
+    "[Nv 4]: ^777777270%^000000",
+    "[Nv 5]: ^777777310%^000000"
   },
   [SKID.BA_DISSONANCE] = {
     "Disonancia ^777777(Dissonance)^000000",
@@ -4298,11 +4298,11 @@ SKILL_DESCRIPT = {
     "En cada lanzamiento, se usa una flecha, cuya propiedad depende de la propiedad de esta habilidad.^000000",
     "^000088Consume 1 Flecha.^000000",
     "Nivel l ATQ",
-    "[Nv 1]: ^777777150% x2^000000",
-    "[Nv 2]: ^777777190% x2^000000",
-    "[Nv 3]: ^777777230% x2^000000",
-    "[Nv 4]: ^777777270% x2^000000",
-    "[Nv 5]: ^777777310% x2^000000"
+    "[Nv 1]: ^777777150%^000000",
+    "[Nv 2]: ^777777190%^000000",
+    "[Nv 3]: ^777777230%^000000",
+    "[Nv 4]: ^777777270%^000000",
+    "[Nv 5]: ^777777310%^000000"
   },
   [SKID.DC_UGLYDANCE] = {
     "Baile Feo ^777777(Ugly Dance)^000000",
@@ -4603,7 +4603,7 @@ SKILL_DESCRIPT = {
     "[Nv 10]: ^777777+20%^000000"
   },
   [SKID.HW_MAGICCRASHER] = {
-    "Golpe mßgico ^777777(Magic Crasher)^000000",
+    "Golpe Mßgico ^777777(Magic Crasher)^000000",
     "Nv. mßx.: 1",
     "Habilidad requerida: ^777777Recuperaci¾n de SP mejoradaá1^000000",
     "Forma de habilidad: ^993300Activa^000000",
@@ -5806,9 +5806,9 @@ SKILL_DESCRIPT = {
     "aumentarß la probabilidad del Maestro de Taekwon de lanzar",
     "una Contrapatada.^000000",
     "Nivel l Chance",
-    "[Nv 1] ^777777+100%^000000",
-    "[Nv 2] ^777777+150%^000000",
-    "[Nv 3] ^777777+200%^000000"
+    "[Nv 1] ^777777+10%^000000",
+    "[Nv 2] ^777777+15%^000000",
+    "[Nv 3] ^777777+20%^000000"
   },
   [SKID.SG_KNOWLEDGE] = {
     "Mensajero Solar, Lunar y Estelar",
@@ -6827,8 +6827,8 @@ SKILL_DESCRIPT = {
     "Forma de habilidad: ^777777Ofensiva^000000",
     "Descripci¾n: ^777777Consume 1áMoneda para infligir un 500á%",
     "de da±o a monstruos Semihumanos y Bestias. Ojo de",
-    "toro tiene un 0,1á% de probabilidad de infligir el efecto Coma,",
-    "el cual no tendrß ning·n efecto en los monstruos de tipo Jefe.^000000"
+    "toro tiene un 0,1á% de probabilidad de infligir el efecto Coma.",
+    "No afecta en los monstruos de tipo Jefe.^000000"
   },
   [SKID.GS_MADNESSCANCEL] = {
     "┌ltima LÝnea ^777777(Madness Cancel)^000000",
@@ -6837,8 +6837,7 @@ SKILL_DESCRIPT = {
     "Forma de habilidad:^777777Apoyo^000000",
     "Descripci¾n: ^777777Consume 1áMoneda para activar el estado",
     "┌ltima lÝnea, en el que el lanzador queda inmovilizado,",
-    "pero tiene ATQá+100 y VELAá+20á%. ┌ltima lÝnea tiene",
-    "una duraci¾n de 15ásegundos y no puede usarse con",
+    "pero tiene ATQá+100 y VELAá+20á% por 15 segundos y no puede usarse con",
     "Pßnico de Pistolero, Golpear el barril y Altar platino.^000000"
   },
   [SKID.GS_ADJUSTMENT] = {
@@ -6877,9 +6876,8 @@ SKILL_DESCRIPT = {
     "Forma de habilidad: ^777777Apoyo^000000",
     "Descripci¾n: ^777777Consume 1áMoneda para disparar una bala",
     "que provoca un choque en el enemigo y lo deja en estado",
-    "Aturdimiento. Cuanto mßs cerca estÚ el objetivo del lanzador,",
-    "mayor es la probabilidad de infligir el estado",
-    "Aturdimiento.^000000"
+    "Aturdimiento. Cuanto mßs cerca estÚ el objetivo,",
+    "mayor es la probabilidad de infligir Aturdimiento.^000000"
   },
   [SKID.GS_SINGLEACTION] = {
     "Acci¾n Simple ^777777(Single Action)^000000",
@@ -6964,7 +6962,7 @@ SKILL_DESCRIPT = {
     "un arma de clase Pistola o Rifle.^000000"
   },
   [SKID.GS_PIERCINGSHOT] = {
-    "Disparo Lacerante ^777777(Piercing Shot)^000000",
+    "Disparo Lacerante ^777777(Wounding Shot)^000000",
     "Nv. mßx.: 5",
     "Habilidad requerida: ^777777Seguimientoá5^000000",
     "Forma de habilidad:^777777Ofensiva^000000",
@@ -6987,6 +6985,7 @@ SKILL_DESCRIPT = {
     "Descripci¾n: ^777777Consume 1áBala para realizar un",
     "un ataque rßpido con 5átiros seguidos.",
     "Requiere un arma de la clase Pistola.^000000",
+    "Consume 1 proyectil.^000000",
     "Nivel l ATQ l Costo de SP",
     "[Nv 1]: ^777777550%^000000 l ^77777722^000000",
     "[Nv 2]: ^777777600%^000000 l ^77777724^000000",
@@ -7005,7 +7004,7 @@ SKILL_DESCRIPT = {
     "Habilidad requerida: ^777777Secuencia frenÚticaá5^000000",
     "Forma de habilidad:^777777Ofensiva^000000",
     "Descripci¾n: ^777777Consume 10áBalas para realizar un",
-    "ataque azaroso que puede da±ar a los enemigos dentro de",
+    "ataque al azar que puede da±ar a los enemigos dentro de",
     "un radio de 7ácasillas alrededor del lanzador. Cada lanzamiento tiene",
     "un mßximo de 10ágolpes y requiere un arma de la",
     "clase Pistola.^000000",
@@ -7028,9 +7027,7 @@ SKILL_DESCRIPT = {
     "Desperadoá5^000000",
     "Forma de habilidad:^777777Apoyo^000000",
     "Descripci¾n: ^777777Aumenta temporalmente la velocidad de ataque",
-    "y el da±o a costa de reducir la EVA",
-    "y la velocidad de movimiento. El estado Gatling frenesÝ se",
-    "cancela cuando esta habilidad se lanza dos veces.",
+    "y el da±o a costa de reducir la EVA y la velocidad de movimiento. El estado Gatling frenesÝ se cancela cuando esta habilidad se lanza dos veces.",
     "Requiere un arma de la clase Ametralladora.^000000",
     "[Nv 1]: ^777777VELA +1%^000000 l ^777777Da±o +30^000000",
     "            ^777777EVA -5^000000 l ^77777730 segundos^000000",
@@ -7074,7 +7071,7 @@ SKILL_DESCRIPT = {
     "[Nv 10]: ^777777600%^000000 l ^77777730^000000"
   },
   [SKID.GS_FULLBUSTER] = {
-    "Explosi¾n Total ^777777(Full Buster)^000000",
+    "Explosi¾n Total ^777777(Full Blast)^000000",
     "Nv. mßx.: 10",
     "Habilidad requerida: ^777777Disparo dominanteá3^000000",
     "Forma de habilidad:^777777Ofensiva^000000",
@@ -11567,20 +11564,20 @@ SKILL_DESCRIPT = {
   [SKID.RL_RICHS_COIN] = {
     "Moneda de los Ricos ^777777(Rich's Coin)^000000",
     "Nv. mßx.: 1",
-    "Habilidad requerida: ^777777Cara o cruz de nivel 5^000000",
+    "Habilidad requerida: ^777777Cara o cruz 5^000000",
     "Clase: ^777777Especial^000000",
     "Descripci¾n: ^777777Crea 10áMonedas a la vez a un costo de 100ázeny.^000000",
     "^777777Una vez aprendida, esta habilidad anula las posibles pÚrdidas de monedas de [Cara o cruz].^000000"
   },
   [SKID.RL_MASS_SPIRAL] = {
-    "Espiral de Masas ^777777(Mass Spiral)^000000",
+    "Espiral Perforante ^777777(Mass Spiral)^000000",
     "Nv. mßx.: 5",
-    "Habilidad requerida: ^777777Disparo lacerante de nivel 1^000000",
+    "Habilidad requerida: ^777777Disparo Lacerante 1^000000",
     "Clase: ^777777Ataque/Especial^000000",
     "Descripci¾n: ^777777Una habilidad con rifle.^000000",
     "^777777Dispara una bala perforante que aumenta el ATQ seg·n la DEF del objetivo.^000000",
     "^777777Crea una probabilidad alta de Sangrado del objetivo en el impacto.^000000",
-    "^777777Esta habilidad consume 1áBala encamisada de tu inventario al usarla.^000000",
+    "^777777Esta habilidad consume 1áProyectil Recubierto de tu inventario al usarla.^000000",
     "Nivel l Chance l ATQ",
     "[Nv. 1]: ^77777740%^000000 l ^777777200%^000000",
     "[Nv. 2]: ^77777750%^000000 l ^777777400%^000000",
@@ -11589,9 +11586,9 @@ SKILL_DESCRIPT = {
     "[Nv. 5]: ^77777780%^000000 l ^7777771.000%^000000"
   },
   [SKID.RL_BANISHING_BUSTER] = {
-    "Buster Desvanecedor ^777777(Banishing Buster)^000000",
+    "Disparo Neutralizador ^777777(Vanishing Buster)^000000",
     "Nv. mßx.: 10",
-    "Habilidad requerida: ^777777Tormenta destructora de nivel 1^000000",
+    "Habilidad requerida: ^777777Tormenta destructora 1^000000",
     "Clase: ^777777Ataque/Especial^000000",
     "Descripci¾n: ^777777Una habilidad con escopeta.^000000",
     "^777777Ataca a un objetivo y elimina sus efectos de buff.^000000",
@@ -11610,13 +11607,13 @@ SKILL_DESCRIPT = {
     "[Nv. 10]: ^7777772.500%^000000 l ^777777100%^000000"
   },
   [SKID.RL_B_TRAP] = {
-    "Trampa Vinculante ^777777(Binding Trap)^000000",
+    "Trampa Pegajosa ^777777(Binding Trap)^000000",
     "Nv. mßx.: 5",
-    "Habilidad requerida: ^777777Parpadeo de nivel 1^000000",
+    "Habilidad requerida: ^777777Parpadeo 1^000000",
     "Clase: ^777777Suelo/Especial^000000",
     "Descripci¾n: ^777777Coloca una trampa especial debajo de ti que disminuye considerablemente la velocidad de movimiento.^000000",
     "^777777Esta trampa reduce de manera considerable la velocidad de movimiento de todos los objetivos que entran en su alcance. Su duraci¾n disminuye en funci¾n de la FUE del objetivo.^000000",
-    "^777777Solo se puede colocar 1áTrampa vinculante al mismo tiempo. Se puede usar [Parpadeo] para detonar la Trampa vinculante e infligir da±o adicional a todos los enemigos dentro del alcance de la trampa.^000000",
+    "^777777Solo se puede colocar 1áTrampa Pegajosa al mismo tiempo. Se puede usar [Parpadeo] para detonar la Trampa Pegajosa e infligir da±o adicional a todos los enemigos dentro del alcance de la trampa.^000000",
     "^777777El da±o de esta habilidad aumenta en funci¾n de tu DES, los HP del objetivo y su nivel de habilidad.^000000",
     "^777777La duraci¾n disminuye en funci¾n de la FUE del objetivo, pero no puede ser inferior a 4ásegundos.^000000",
     "^777777Consume 1áTrampa de Aleaci¾n Especial por uso.^000000",
@@ -11630,20 +11627,20 @@ SKILL_DESCRIPT = {
   [SKID.RL_FLICKER] = {
     "Parpadeo ^777777(Flicker)^000000",
     "Nv. mßx.: 1",
-    "Habilidad requerida: ^777777Cara o cruz de nivel 1^000000",
+    "Habilidad requerida: ^777777Cara o cruz 1^000000",
     "Clase: ^777777Especial^000000",
-    "Descripci¾n: ^777777Activa y detona tus [Minas de aullidos] y [Trampas vinculantes] en una pantalla. Solo se puede aplicar a tus propias trampas.^000000",
+    "Descripci¾n: ^777777Activa y detona tus [Lanzar Granada] y [Trampa Pegajosa] en una pantalla. Solo se puede aplicar a tus propias trampas.^000000",
     "^777777Consume 1áMoneda por uso.^000000"
   },
   [SKID.RL_S_STORM] = {
     "Tormenta Destructora ^777777(Shattering Storm)^000000",
     "Nv. mßx.: 5",
-    "^777777Habilidades requeridas: Desarme de nivel 1/Disparo dominante de nivel 1^000000",
+    "^777777Habilidades requeridas: Desarme 1/Disparo dominante 1^000000",
     "Clase: ^777777Ataque/Especial^000000",
     "Descripci¾n: ^777777Una habilidad con escopeta.^000000",
     "^777777Ataca a un objetivo y a todos los enemigos de alrededor dentro del alcance y destruye sus yelmos.^000000",
     "^777777La probabilidad de destrucci¾n del yelmo de esta habilidad aumenta cuanto mayor sea tu DES y su nivel y cuanto menor sea el nivel y la AGI del objetivo.^000000",
-    "^777777Los yelmos recubiertos o indestructibles no pueden destruirse.^000000",
+    "^777777Los yelmos recubiertos o indestructibles.^000000",
     "^777777Consume 1áBala por uso.^000000",
     "Nivel l ATQ l ┴rea l Costo de SP",
     "[Nv. 1]: ^7777771.900%^000000 l ^7777775x5 casillas^000000 l ^77777750^000000",
@@ -11655,7 +11652,7 @@ SKILL_DESCRIPT = {
   [SKID.RL_E_CHAIN] = {
     "Cadena Eterna ^777777(Eternal Chain)^000000",
     "Nv. mßx.: 10",
-    "^777777Habilidades requeridas: Cara o cruz de nivel 1 y Acci¾n en cadena de nivel 10^000000",
+    "^777777Habilidades requeridas: Cara o cruz 1 y Acci¾n en cadena 10^000000",
     "Clase: ^777777Apoyo^000000",
     "Descripci¾n: ^777777[Cadena eterna] siempre activa [Acci¾n en cadena], independientemente de tu equipamiento.^000000",
     "^777777La [Acci¾n en cadena] activada es del mismo nivel que la [Cadena eterna].^000000",
@@ -11694,7 +11691,7 @@ SKILL_DESCRIPT = {
   [SKID.RL_FIREDANCE] = {
     "Baile de Fuego ^777777(Fire Dance)^000000",
     "Nv. mßx.: 10",
-    "Habilidad requerida: ^777777Desperado de nivel 1^000000",
+    "Habilidad requerida: ^777777Desperado 1^000000",
     "Clase: ^777777Ataque^000000",
     "Descripci¾n: ^777777Una habilidad con revolver (pistola).^000000",
     "^777777Ataca a todos los enemigos en 7áxá7ácasillas a tu alrededor.^000000",
@@ -11713,15 +11710,15 @@ SKILL_DESCRIPT = {
     "[Nv. 10]: ^7777771.200%^000000"
   },
   [SKID.RL_H_MINE] = {
-    "Mina de Aullidos ^777777(Howling Mine)^000000",
+    "Lanzar Granada ^777777(Howling Mine)^000000",
     "Nv. mßx.: 5",
-    "Habilidad requerida: ^777777Mina de Pistolero de nivel 1^000000",
+    "Habilidad requerida: ^777777Mina de Pistolero 1^000000",
     "Clase: ^777777Ataque/Especial^000000",
     "Descripci¾n: ^777777Una habilidad con lanzagranadas.^000000",
-    "^777777Dispara una bomba pegajosa a un objetivo, que le inflige da±o. Se pueden disparar hasta 5áminas de aullidos al mismo tiempo.^000000",
-    "^777777Usa [Parpadeo] para detonar Minas de aullidos e infligir da±o de Fuego adicional a los objetivos y alrededor de ellos.^000000",
+    "^777777Dispara una bomba pegajosa a un objetivo, que le inflige da±o. Se pueden disparar hasta 5 granadas al mismo tiempo.^000000",
+    "^777777Usa [Parpadeo] para detonar la granada e infligir da±o de Fuego adicional a los objetivos y alrededor de ellos.^000000",
     "^777777Las Minas de aullidos solo pueden detonarse con [Parpadeo]. Se desprenden de sus objetivos y desaparecen si no se detonan en 50ásegundos.^000000",
-    "^777777Consume 1áMina de proyectil por uso.^000000",
+    "^777777Consume 1áGranada adherente por uso.^000000",
     "Nivel l ATQ l Explosi¾n",
     "[Nv. 1]: ^777777400%^000000 l ^777777800%^000000",
     "[Nv. 2]: ^777777600%^000000 l ^7777771.100%^000000",
@@ -11749,7 +11746,7 @@ SKILL_DESCRIPT = {
   [SKID.RL_FALLEN_ANGEL] = {
     "┴ngel CaÝdo ^777777(Fallen Angel)^000000",
     "Nv. mßx.: 1",
-    "Habilidad requerida: ^777777Desperado de nivel 10^000000",
+    "Habilidad requerida: ^777777Desperado 10^000000",
     "Clase: ^777777Movimiento^000000",
     "Descripci¾n: ^777777Una habilidad con revolver (pistola).^000000",
     "^777777Desplßzate a la ubicaci¾n que desees. Usa Desperado en los 2ásegundos posteriores al movimiento para aumentar el da±o de Desperado.^000000",
@@ -11782,13 +11779,13 @@ SKILL_DESCRIPT = {
   [SKID.RL_D_TAIL] = {
     "Cola de Drag¾n ^777777(Dragon Tail)^000000",
     "Nv. mßx.: 10",
-    "^777777Habilidades requeridas: Marcador carmesÝ de nivel 1, Mina de aullidos de nivel 3^000000",
+    "^777777Habilidades requeridas: Marcador carmesÝ 1, Lanzar Granada 3^000000",
     "Clase: ^777777Ataque^000000",
     "Descripci¾n: ^777777Una habilidad con lanzagranadas.^000000",
     "^777777Dispara misiles a un objetivo y a todos los enemigos que estßn alrededor dentro del alcance.^000000",
     "^777777Esta habilidad inflige mßs da±o a los objetivos afectados por Marcador carmesÝ.^000000",
     "^777777El da±o de esta habilidad tambiÚn aumenta seg·n tu nivel de base.^000000",
-    "^777777Consume 1áMisil de cola de drag¾n por uso.^000000",
+    "^777777Consume 1áMisil Cola de Drag¾n por uso.^000000",
     "Nivel l ATQ l ATQ (Objetivo de Marcador)",
     "[Nv. 1]: ^777777700%^000000 l ^7777771.400%^000000",
     "[Nv. 2]: ^777777900%^000000 l ^7777771.800%^000000",
@@ -11804,7 +11801,7 @@ SKILL_DESCRIPT = {
   [SKID.RL_FIRE_RAIN] = {
     "Lluvia de Fuego ^777777(Fire Rain)^000000",
     "Nv. mßx.: 5",
-    "Habilidad requerida: ^777777FrenesÝ ametrallador de nivel 1^000000",
+    "Habilidad requerida: ^777777Metralleta en FrenesÝ 1^000000",
     "Clase: ^777777Suelo/Ataque^000000",
     "Descripci¾n: ^777777Una habilidad con ametralladora.^000000",
     "^777777Ataca 3áxá10ácasillas frente a ti en orden secuencial.^000000",
@@ -11836,10 +11833,10 @@ SKILL_DESCRIPT = {
   [SKID.RL_AM_BLAST] = {
     "Explosi¾n Antimaterial ^777777(Anti-Material Blast)^000000",
     "Nv. mßx.: 5",
-    "Habilidad requerida: ^777777Espiral de masas de nivel 1^000000",
+    "Habilidad requerida: ^777777Espiral Perforante 1^000000",
     "Clase: ^777777Ataque/Especial^000000",
     "Descripci¾n: ^777777Una habilidad con rifle.^000000",
-    "^777777Inflige da±o y disminuye el da±o del jugador del objetivo [Resistencia].^000000",
+    "^777777Inflige da±o a distancia y disminuye la [Resistencia] del oponente.^000000",
     "^777777Esta habilidad crea una mayor probabilidad del efecto Antimateria a un nivel superior.^000000",
     "^777777Consume 1áBala por uso.^000000",
     "Nivel l Chance l Resistencia l Duraci¾n",
@@ -11852,12 +11849,12 @@ SKILL_DESCRIPT = {
   [SKID.RL_SLUGSHOT] = {
     "Destrucci¾n Primordial ^777777(Slug Shot)^000000",
     "Nv. mßx.: 5",
-    "Habilidad requerida: ^777777Buster desvanecedor de nivel 3^000000",
+    "Habilidad requerida: ^777777Buster desvanecedor 3^000000",
     "Clase: ^777777Ataque/Especial^000000",
     "Descripci¾n: ^777777Una habilidad con escopeta.^000000",
     "^777777Los cartuchos son tan pesados que disminuyen tu PREC cuando estßs a 3 o mßs casillas de tu objetivo.^000000",
     "^777777Esta habilidad derriba al objetivo 6ácasillas hacia atrßs.^000000",
-    "^777777Consume 1áCartucho de tu inventario al usarla.^000000",
+    "^777777Consume 1áProyectil Letal de tu inventario al usarla.^000000",
     "Nivel l ATQ l Precisi¾n",
     "[Nv. 1]: ^7777771.200% em monstruos^000000 l ^777777 -10%^000000",
     "             ^7777772.000% em jugadores^000000",

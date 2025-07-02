@@ -22557,7 +22557,7 @@ tbl = {
     {
       id = 20805,
       prob = 1,
-      name = "Mochila de Amstir ├ügil [1]",
+      name = "Mochila de Amistr ├ügil [1]",
       group = 1
     },
     {
@@ -22581,7 +22581,7 @@ tbl = {
     {
       id = 20809,
       prob = 1,
-      name = "Mochila de Amstir Concentrada [1]",
+      name = "Mochila de Amistr Concentrada [1]",
       group = 1
     },
     {
@@ -28439,7 +28439,7 @@ tbl = {
     {
       id = 4610,
       prob = 1,
-      name = "Unknown Item",
+      name = "Carta Sarah",
       group = 6
     },
     {
@@ -40338,6 +40338,298 @@ tbl = {
       id = 104716,
       prob = 10,
       name = "Selecion├íveis das Nuvens",
+      group = 0
+    }
+  },
+  [200678] = {
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Vida 40",
+      group = 0
+    },
+    {
+      id = 12515,
+      prob = 0,
+      name = "[Evento] Po├º├úo M├®dia de Vida 20",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Evento] Bolinho Divino 20",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Evento] Po├º├úo Ilimitada 20",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Evento] Po├º├úo Infinita 20",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 2",
+      group = 0
+    }
+  },
+  [200679] = {
+    {
+      id = 101238,
+      prob = 0,
+      name = "[Evento] Manual Kafra (7 dias)",
+      group = 0
+    },
+    {
+      id = 25793,
+      prob = 0,
+      name = "Expansor de Invent├írio 2",
+      group = 0
+    },
+    {
+      id = 16823,
+      prob = 0,
+      name = "Caixa Antigravitacional 2",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 5",
+      group = 0
+    }
+  },
+  [200680] = {
+    {
+      id = 16808,
+      prob = 0,
+      name = "Manual de Combate (1) 2",
+      group = 0
+    },
+    {
+      id = 14606,
+      prob = 0,
+      name = "Manual de Classe 2",
+      group = 0
+    },
+    {
+      id = 16810,
+      prob = 0,
+      name = "Goma de Mascar (1) 2",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 3",
+      group = 0
+    }
+  },
+  [200681] = {
+    {
+      id = 7620,
+      prob = 1,
+      name = "Oridecon Enriquecido 50",
+      group = 0
+    },
+    {
+      id = 7619,
+      prob = 1,
+      name = "Elunium Enriquecido 50",
+      group = 0
+    },
+    {
+      id = 9908,
+      prob = 1,
+      name = "[Promo] Po├º├úo Mental 6",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 11",
+      group = 0
+    }
+  },
+  [200682] = {
+    {
+      id = 7619,
+      prob = 1,
+      name = "Elunium Enriquecido 100",
+      group = 0
+    },
+    {
+      id = 9908,
+      prob = 1,
+      name = "[Promo] Po├º├úo Mental 6",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 11",
+      group = 0
+    }
+  },
+  [200683] = {
+    {
+      id = 7619,
+      prob = 0,
+      name = "Elunium Enriquecido 200",
+      group = 0
+    },
+    {
+      id = 9908,
+      prob = 0,
+      name = "[Promo] Po├º├úo Mental 12",
+      group = 0
+    },
+    {
+      id = 6635,
+      prob = 0,
+      name = "B├¬n├º├úo do Ferreiro 5",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 20",
+      group = 0
+    }
+  },
+  [200684] = {
+    {
+      id = 7620,
+      prob = 0,
+      name = "Oridecon Enriquecido 200",
+      group = 0
+    },
+    {
+      id = 9908,
+      prob = 0,
+      name = "[Promo] Po├º├úo Mental 12",
+      group = 0
+    },
+    {
+      id = 6635,
+      prob = 0,
+      name = "B├¬n├º├úo do Ferreiro 5",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 20",
+      group = 0
+    }
+  },
+  [200685] = {
+    {
+      id = 17689,
+      prob = 0,
+      name = "Caixa VIP",
+      group = 0
+    },
+    {
+      id = 17921,
+      prob = 0,
+      name = "Caixa da Kafra",
+      group = 0
+    },
+    {
+      id = 17920,
+      prob = 0,
+      name = "Caixa do Ambulante",
+      group = 0
+    }
+  },
+  [200686] = {
+    {
+      id = 12515,
+      prob = 0,
+      name = "[Evento] Po├º├úo M├®dia de Vida 200",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Evento] Po├º├úo Menor de Vida 200",
+      group = 0
+    },
+    {
+      id = 14537,
+      prob = 0,
+      name = "Po├º├úo de Regenera├º├úo 20",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 0,
+      name = "Passaporte 30",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 11",
+      group = 0
+    }
+  },
+  [200687] = {
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Evento] Bolinho Divino 35",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Evento] Po├º├úo Ilimitada 35",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Evento] Po├º├úo Infinita 35",
+      group = 0
+    },
+    {
+      id = 100061,
+      prob = 0,
+      name = "[Evento] Elixir Rubro 35",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 11",
+      group = 0
+    }
+  },
+  [200688] = {
+    {
+      id = 12208,
+      prob = 0,
+      name = "Manual de Combate 20",
+      group = 0
+    },
+    {
+      id = 14533,
+      prob = 0,
+      name = "Grim├│rio de Combate 10",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefato Oval Ardente 11",
       group = 0
     }
   }

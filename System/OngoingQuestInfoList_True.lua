@@ -3436,6 +3436,42 @@ QuestInfoList = {
     },
     Summary = "Fale com Kiehl"
   },
+  [1505] = {
+    Title = "O Sinal",
+    Description = {
+      "Respondi a todas as perguntas do Jovem. Vamos atÚ Airan ouvir os resultados."
+    },
+    Summary = "Fale com Airan"
+  },
+  [1506] = {
+    Title = "O Sinal",
+    Description = {
+      "A Bruxa enviou vocÛ para onde Serin estß. Pergunte a ela por que ela fez isso."
+    },
+    Summary = "Fale com Serin"
+  },
+  [1507] = {
+    Title = "O Sinal",
+    Description = {
+      "Serin invocou uma IlusÒo das Trevas. Vamos matar os monstros invocados."
+    },
+    Summary = "Elimine monstros"
+  },
+  [1508] = {
+    Title = "O Sinal",
+    Description = {
+      "Derrote todos os monstros invocados. Vamos falar com Serin."
+    },
+    Summary = "Fale com Serin"
+  },
+  [1509] = {
+    Title = "Cavaleiro Vizinho",
+    IconName = "ico_dq.bmp",
+    Description = {
+      "Encomenda do <NAVI>[LÝder dos Cavaleiros Vizinhos]<INFO>mora,116,165,0,101,0</INFO></NAVI>. VocÛ deve coletar 20 <ITEM>[Semente Misteriosa]<INFO>12561</INFO></ITEM>. Dizem que as Sementes Misteriosas sÒo facilmente obtidas no Labirinto da Neblina."
+    },
+    Summary = "20 Semente Misteriosa"
+  },
   [2000] = {
     Title = "Mudanþa de Classe: Ferreiro",
     Description = {
@@ -32621,46 +32657,46 @@ QuestInfoList = {
     Summary = "Reporte o caso a Hugin."
   },
   [12340] = {
-    Title = "MissÒo InvisÝvel",
+    Title = "Mudanþa de Classe: Insurgente",
     Description = {
-      "Reserva de Espaþo"
+      "Me confundiram com um procurado. Preciso visitar o bar secreto em Einbroch, onde o cartaz de procurado foi colocado, e tentar esclarecer isso!"
     },
-    Summary = "Reserva de Espaþo"
+    Summary = "Fale com o [Seguranþa]"
   },
   [12341] = {
-    Title = "MissÒo InvisÝvel",
+    Title = "Mudanþa de Classe: Insurgente",
     Description = {
-      "Reserva de Espaþo"
+      "A ·nica forma de tirar os Insurgentes do meu encalþo Ú me tornando um deles. Bem, vamos lß fazer os testes."
     },
-    Summary = "Reserva de Espaþo"
+    Summary = "Inicie o teste."
   },
   [12342] = {
-    Title = "MissÒo InvisÝvel",
+    Title = "Mudanþa de Classe: Insurgente",
     Description = {
-      "Reserva de Espaþo"
+      "Inicie o processo na Mßquina para coletar ^CD3278 5 Fragmentos de Aþo^000000 da fornalha e usß-los para tentar montar uma arma de fogo na sala de montagem ao lado, clicando na Bigorna. VocÛ terß que repetir o processo se nÒo conseguir terminar a tempo."
     },
-    Summary = "Reserva de Espaþo"
+    Summary = "Realize os procedimentos acima."
   },
   [12343] = {
-    Title = "MissÒo InvisÝvel",
+    Title = "Mudanþa de Classe: Insurgente",
     Description = {
-      "Reserva de Espaþo"
+      "Com o disfarce ativo, ande pelas salas para encontrar atÚ ^CD3278 10 ilus§es^000000 com o nome de Alvo dentro do tempo limite."
     },
-    Summary = "Elimite 10 Alvos"
+    Summary = "Elimine 10 ^CD3278Alvos^000000."
   },
   [12344] = {
-    Title = "MissÒo InvisÝvel",
+    Title = "Mudanþa de Classe: Insurgente ",
     Description = {
-      "Reserva de Espaþo"
+      "Se acertar mais de 3 ilus§es com o nome ^CD3278NÒo-alvo^000000, vocÛ falharß no teste. Evite acertß-las a todo custo!"
     },
-    Summary = "Evite eliminar 3 NÒo-alvos."
+    Summary = "Evite eliminar 3 ^CD3278NÒo-alvos^000000."
   },
   [12345] = {
-    Title = "MissÒo InvisÝvel",
+    Title = "Mudanþa de Classe: Insurgente",
     Description = {
-      "Reserva de Espaþo"
+      "Visite Ivan Sidorenko, o lendßrio Insurgente, e conclua seu processo de Mudanþa de Classe."
     },
-    Summary = "Reserva de Espaþo"
+    Summary = "Fale com Ivan."
   },
   [12346] = {
     Title = "CiÛncia antiga e estranha",
@@ -50575,7 +50611,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
     Title = "ExploraþÒo Assustadora",
     IconName = "ico_dq.bmp",
     Description = {
-      "Derrote 50 monstros no <NAVI>[Castelo de Glastheim]<INFO>gl_cas02,104,193,0,101,0</INFO></NAVI> e reporte a Cabeþaquente no Lago Calmo do Abismo."
+      "Derrote 50 monstros no <NAVI>[Castelo de Glastheim]<INFO>gl_cas02,104,189,0,101,0</INFO></NAVI> e reporte a Cabeþaquente no Lago Calmo do Abismo."
     }
   },
   [23346] = {
@@ -66349,41 +66385,5 @@ NpcSpr = [=[4_M_RACHMAN1]]
       ""
     },
     Summary = "Reseta ap¾s 20 horas"
-  },
-  [1505] = {
-    Title = "O Sinal",
-    Description = {
-      "Respondi a todas as perguntas do Jovem. Vamos atÚ Airan ouvir os resultados."
-    },
-    Summary = "Fale com Airan"
-  },
-  [1506] = {
-    Title = "O Sinal",
-    Description = {
-      "A Bruxa enviou vocÛ para onde Serin estß. Pergunte a ela por que ela fez isso."
-    },
-    Summary = "Fale com Serin"
-  },
-  [1507] = {
-    Title = "O Sinal",
-    Description = {
-      "Serin invocou uma IlusÒo das Trevas. Vamos matar os monstros invocados."
-    },
-    Summary = "Elimine monstros"
-  },
-  [1508] = {
-    Title = "O Sinal",
-    Description = {
-      "Derrote todos os monstros invocados. Vamos falar com Serin."
-    },
-    Summary = "Fale com Serin"
-  },
-  [1509] = {
-    Title = "Cavaleiro Vizinho",
-    IconName = "ico_dq.bmp",
-    Description = {
-      "Encomenda do <NAVI>[LÝder dos Cavaleiros Vizinhos]<INFO>mora,116,165,0,101,0</INFO></NAVI>. VocÛ deve coletar 20 <ITEM>[Semente Misteriosa]<INFO>12561</INFO></ITEM>. Dizem que as Sementes Misteriosas sÒo facilmente obtidas no Labirinto da Neblina."
-    },
-    Summary = "20 Semente Misteriosa"
   }
 }

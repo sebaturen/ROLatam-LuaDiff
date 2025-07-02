@@ -1,6 +1,7 @@
 StartableMap = {
   "prt_mk",
   "prt_mk_a",
+  "pay_mk",
   "abbey01",
   "abbey02",
   "abbey03",
@@ -22,7 +23,6 @@ StartableMap = {
   "amatsu",
   "anthell01",
   "anthell02",
-  "aru_gld",
   "ayo_dun01",
   "ayo_dun02",
   "ayo_fild01",
@@ -355,6 +355,7 @@ StartableMap = {
 EndableMap = {
   "prt_mk",
   "prt_mk_a",
+  "pay_mk",
   "abbey01",
   "abbey02",
   "abbey03",
@@ -376,7 +377,6 @@ EndableMap = {
   "amatsu",
   "anthell01",
   "anthell02",
-  "aru_gld",
   "ayo_dun01",
   "ayo_dun02",
   "ayo_fild01",

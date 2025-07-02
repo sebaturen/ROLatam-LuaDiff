@@ -3045,6 +3045,42 @@ QuestInfoList = {
     },
     Summary = "Habla con Kiel."
   },
+  [1505] = {
+    Title = "Prueba de Arian 7",
+    Description = {
+      "Respondiste a todas las preguntas de Gaanan. Ve con Arian y escucha los resultados."
+    },
+    Summary = "Habla con Arian"
+  },
+  [1506] = {
+    Title = "Deseo Equivocado",
+    Description = {
+      "La Bruja te envi¾ a donde estß Serin. Preg·ntale por quÚ hizo esto."
+    },
+    Summary = "Habla con Serin"
+  },
+  [1507] = {
+    Title = "Para Midgard",
+    Description = {
+      "Serin invoc¾ al Se±or Oscuro. Matemos a los monstruos invocados."
+    },
+    Summary = "Matar a los monstruos invocados"
+  },
+  [1508] = {
+    Title = "Para Midgard",
+    Description = {
+      "Derrota a todos los monstruos invocados por Serin. Hablemos con Serin."
+    },
+    Summary = "Habla con Serin"
+  },
+  [1509] = {
+    Title = "Caballeros del Barrio - Misi¾n del LÝder",
+    IconName = "ico_dq.bmp",
+    Description = {
+      "Orden de <NAVI>[LÝder de los Caballeros del Barrio]<INFO>mora,116,165,0,101,0</INFO></NAVI> <ITEM>[Semilla Misteriosa]<INFO>12561</INFO></ITEM> de la Aldea Mora. Debes recolectar 20. Se dice que las Semillas Misteriosas se consiguen fßcilmente en el Laberinto del Bosque Brumoso."
+    },
+    Summary = "20 Semilla Misteriosa"
+  },
   [2000] = {
     Title = "Cambio de clase a Herrero",
     Description = {
@@ -6332,6 +6368,126 @@ QuestInfoList = {
     Summary = "Se reinicia a las 4:00."
   },
   [3335] = {Title = ""},
+  [3336] = {
+    Title = "MaÝz Dorado",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Elimina 3x Imp Cßlido y 3x Explosi¾n Cßlido y regresa con <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Fiesta de Palomitas"
+  },
+  [3337] = {
+    Title = "MaÝz Dorado",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Elimina 3x Imp Cßlido y 3x Explosi¾n Cßlido y regresa con <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Fiesta de Palomitas"
+  },
+  [3338] = {
+    Title = "[Espera] MaÝz Dorado",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "No olvides repetir la misi¾n con <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Vuelve ma±ana."
+  },
+  [3339] = {
+    Title = "Fiesta de Palomitas",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "RegÝstrate para la Fiesta de Palomitas trayendo ^4d4dff30 Piroclastos^000000 a <NAVI>[Kerline]<INFO>comodo,262,126,0,101,0</INFO></NAVI>."
+    },
+    Summary = "30 piroclastos"
+  },
+  [3340] = {
+    Title = "Volcßn Korodo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Ingresa a la instancia hablando con <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Explora el volcßn"
+  },
+  [3341] = {
+    Title = "Volcßn Korodo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Ingresa a la instancia hablando con <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Explora el volcßn"
+  },
+  [3342] = {
+    Title = "[Espera] Volcßn Korodo",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "No olvides repetir la misi¾n con <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Vuelve ma±ana."
+  },
+  [3343] = {
+    Title = "Hierbas Saludables",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Eliminar 3 Hierbas Mßgicas para <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
+    },
+    Summary = "Fiesta de Palomitas"
+  },
+  [3344] = {
+    Title = "Hierbas Saludables",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Eliminar 3 Hierbas Mßgicas para <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
+    },
+    Summary = "Fiesta de Palomitas"
+  },
+  [3345] = {
+    Title = "[Esperando] Hierbas Saludables",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "No olvides repetir la misi¾n con <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Vuelve ma±ana."
+  },
+  [3346] = {
+    Title = "Fiesta de Palomitas",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Las mejores palomitas de maÝz de Midgard."
+    },
+    Summary = ""
+  },
+  [3347] = {
+    Title = "Hoguera Intensa",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Espera 90 minutos para que se repitan los efectos de <NAVI>[Hoguera Intensa]<INFO>comodo,289,176,0,101,0</INFO></NAVI>."
+    },
+    Summary = "90 minutos"
+  },
+  [3348] = {
+    Title = "Hoguera Mßgica",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Espera 90 minutos para que se repitan los efectos de <NAVI>[Hoguera Mßgica]<INFO>comodo,294,176,0,101,0</INFO></NAVI>."
+    },
+    Summary = "90 minutos"
+  },
+  [3349] = {
+    Title = "Hoguera Especial",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Espere 90 minutos para que se repitan los efectos de <NAVI>[Hoguera Especial]<INFO>comodo,299,176,0,101,0</INFO></NAVI>."
+    },
+    Summary = "90 minutos"
+  },
+  [3350] = {
+    Title = "Fiesta de Palomitas",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Para hacer el Disfraz de la Fiesta de Palomitas, lleva ^4d4dff50 Piroclastos^000000 a <NAVI>[Kerline]<INFO>comodo,262,126,0,101,0</INFO></NAVI>."
+    },
+    Summary = "50 piroclastos"
+  },
   [3364] = {
     Title = "[Evento] Festival del Fuego",
     IconName = "ico_ev.bmp",
@@ -32731,46 +32887,46 @@ QuestInfoList = {
     Summary = "Viaje en el tiempo al antiguo Glastheim."
   },
   [12340] = {
-    Title = "Invisible Quest",
+    Title = "Cambio de clase a Rebelde",
     Description = {
-      "Place Holder"
+      "Me han confundido con otra persona. Tengo que ir al bar secreto de Einbroch, donde se coloc¾ el cartel de 'se busca', e intentar aclararlo."
     },
-    Summary = "Place Holder"
+    Summary = ""
   },
   [12341] = {
-    Title = "Invisible Quest",
+    Title = "Cambio de clase a Rebelde",
     Description = {
-      "Place Holder"
+      "La ·nica forma de quitarme a los Rebelde de encima es convertirme en uno de ellos. Bueno, hagamos las pruebas."
     },
-    Summary = "Place Holder"
+    Summary = ""
   },
   [12342] = {
-    Title = "Invisible Quest",
+    Title = "Cambio de clase a Rebelde",
     Description = {
-      "Place Holder"
+      "Inicia el proceso en la Mßquina para recolectar ^CD32785 Artefacto de acero^000000 del horno y ·salos para intentar montar un arma de fuego en la sala de montaje de al lado pulsando sobre el Yunque. Tendrßs que repetir el proceso si no puedes terminar a tiempo."
     },
-    Summary = "Place Holder"
+    Summary = ""
   },
   [12343] = {
-    Title = "Invisible Quest",
+    Title = "Cambio de clase a Rebelde",
     Description = {
-      "Place Holder"
+      "Con el disfraz activo, recorre las habitaciones para encontrar hasta ^CD3278 10 ilusiones^000000 con el nombre Objetivo Ordinario dentro del tiempo lÝmite."
     },
-    Summary = "Place Holder"
+    Summary = "Elimina 10 Objetivos Ordinarios"
   },
   [12344] = {
-    Title = "Invisible Quest",
+    Title = "Cambio de clase a Rebelde",
     Description = {
-      "Place Holder"
+      "Si matas mßs de 3 ilusiones con el nombre ^CD3278Objetivo Defectuoso^000000, fallarßs la prueba. íEvita golpearlas a toda costa!"
     },
-    Summary = "Place Holder"
+    Summary = "Evita eliminar 3 ^CD3278Objetivo Defectuoso^000000."
   },
   [12345] = {
-    Title = "Invisible Quest",
+    Title = "Cambio de clase a Rebelde",
     Description = {
-      "Place Holder"
+      "Visita a Ivan Sidorenko, el legendario Rebelde, y completa tu proceso de Cambio de Clase."
     },
-    Summary = "Place Holder"
+    Summary = ""
   },
   [12346] = {
     Title = "Extra±a ciencia antigua",
@@ -50980,7 +51136,7 @@ Talk to Kar=],
     Title = "Historia de Exploraci¾n Aterradora de Brutacio",
     IconName = "ico_dq.bmp",
     Description = {
-      "Derrota 50 monstruos en el <NAVI>[Castillo de Glastheim 2F]<INFO>gl_cas02,104,193,0,101,0</INFO></NAVI> e inf¾rmale a Brutacio en el Lago Abismo Sereno."
+      "Derrota 50 monstruos en el <NAVI>[Castillo de Glastheim 2F]<INFO>gl_cas02,104,189,0,101,0</INFO></NAVI> e inf¾rmale a Brutacio en el Lago Abismo Sereno."
     }
   },
   [23346] = {
@@ -68113,161 +68269,5 @@ Talk to Kar=],
     NpcNavi = "geffen",
     NpcPosX = 40,
     NpcPosY = 141
-  },
-  [3336] = {
-    Title = "MaÝz Dorado",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Elimina 3x Imp Cßlido y 3x Explosi¾n Cßlido y regresa con <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Fiesta de Palomitas"
-  },
-  [3337] = {
-    Title = "MaÝz Dorado",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Elimina 3x Imp Cßlido y 3x Explosi¾n Cßlido y regresa con <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Fiesta de Palomitas"
-  },
-  [3338] = {
-    Title = "[Espera] MaÝz Dorado",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "No olvides repetir la misi¾n con <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Vuelve ma±ana."
-  },
-  [3339] = {
-    Title = "Fiesta de Palomitas",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "RegÝstrate para la Fiesta de Palomitas trayendo ^4d4dff30 Piroclastos^000000 a <NAVI>[Kerline]<INFO>comodo,262,126,0,101,0</INFO></NAVI>."
-    },
-    Summary = "30 piroclastos"
-  },
-  [3340] = {
-    Title = "Volcßn Korodo",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Ingresa a la instancia hablando con <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Explora el volcßn"
-  },
-  [3341] = {
-    Title = "Volcßn Korodo",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Ingresa a la instancia hablando con <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Explora el volcßn"
-  },
-  [3342] = {
-    Title = "[Espera] Volcßn Korodo",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "No olvides repetir la misi¾n con <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Vuelve ma±ana."
-  },
-  [3343] = {
-    Title = "Hierbas Saludables",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Eliminar 3 Hierbas Mßgicas para <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
-    },
-    Summary = "Fiesta de Palomitas"
-  },
-  [3344] = {
-    Title = "Hierbas Saludables",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Eliminar 3 Hierbas Mßgicas para <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
-    },
-    Summary = "Fiesta de Palomitas"
-  },
-  [3345] = {
-    Title = "[Esperando] Hierbas Saludables",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "No olvides repetir la misi¾n con <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Vuelve ma±ana."
-  },
-  [3346] = {
-    Title = "Fiesta de Palomitas",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Las mejores palomitas de maÝz de Midgard."
-    },
-    Summary = ""
-  },
-  [3347] = {
-    Title = "Hoguera Intensa",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Espera 90 minutos para que se repitan los efectos de <NAVI>[Hoguera Intensa]<INFO>comodo,289,176,0,101,0</INFO></NAVI>."
-    },
-    Summary = "90 minutos"
-  },
-  [3348] = {
-    Title = "Hoguera Mßgica",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Espera 90 minutos para que se repitan los efectos de <NAVI>[Hoguera Mßgica]<INFO>comodo,294,176,0,101,0</INFO></NAVI>."
-    },
-    Summary = "90 minutos"
-  },
-  [3349] = {
-    Title = "Hoguera Especial",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Espere 90 minutos para que se repitan los efectos de <NAVI>[Hoguera Especial]<INFO>comodo,299,176,0,101,0</INFO></NAVI>."
-    },
-    Summary = "90 minutos"
-  },
-  [3350] = {
-    Title = "Fiesta de Palomitas",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Para hacer el Disfraz de la Fiesta de Palomitas, lleva ^4d4dff50 Piroclastos^000000 a <NAVI>[Kerline]<INFO>comodo,262,126,0,101,0</INFO></NAVI>."
-    },
-    Summary = "50 piroclastos"
-  },
-  [1505] = {
-    Title = "Prueba de Arian 7",
-    Description = {
-      "Respondiste a todas las preguntas de Gaanan. Ve con Arian y escucha los resultados."
-    },
-    Summary = "Habla con Arian"
-  },
-  [1506] = {
-    Title = "Deseo Equivocado",
-    Description = {
-      "La Bruja te envi¾ a donde estß Serin. Preg·ntale por quÚ hizo esto."
-    },
-    Summary = "Habla con Serin"
-  },
-  [1507] = {
-    Title = "Para Midgard",
-    Description = {
-      "Serin invoc¾ al Se±or Oscuro. Matemos a los monstruos invocados."
-    },
-    Summary = "Matar a los monstruos invocados"
-  },
-  [1508] = {
-    Title = "Para Midgard",
-    Description = {
-      "Derrota a todos los monstruos invocados por Serin. Hablemos con Serin."
-    },
-    Summary = "Habla con Serin"
-  },
-  [1509] = {
-    Title = "Caballeros del Barrio - Misi¾n del LÝder",
-    IconName = "ico_dq.bmp",
-    Description = {
-      "Orden de <NAVI>[LÝder de los Caballeros del Barrio]<INFO>mora,116,165,0,101,0</INFO></NAVI> <ITEM>[Semilla Misteriosa]<INFO>12561</INFO></ITEM> de la Aldea Mora. Debes recolectar 20. Se dice que las Semillas Misteriosas se consiguen fßcilmente en el Laberinto del Bosque Brumoso."
-    },
-    Summary = "20 Semilla Misteriosa"
   }
 }

@@ -2316,7 +2316,7 @@ SKILL_DESCRIPT = {
     "^777777Caþadores^000000 l ^777777FalcÒo^000000",
     "^777777Atiradores^000000 l ^777777GaviÒo^000000",
     "^777777Sentinelas^000000 l ^777777Coruja^000000",
-    "^777777Patrulheiros^000000 l ^777777┴guia^000000"
+    ""
   },
   [SKID.HT_STEELCROW] = {
     "Garras de Aþo ^777777(Steel Claw)^000000",
@@ -4442,11 +4442,11 @@ SKILL_DESCRIPT = {
     "a propriedade da Flecha equipada.^000000",
     "^000088Consome 1 Flecha.^000000",
     "NÝvel l ATQ",
-    "[Nv 1]: ^777777150% x2^000000",
-    "[Nv 2]: ^777777190% x2^000000",
-    "[Nv 3]: ^777777230% x2^000000",
-    "[Nv 4]: ^777777270% x2^000000",
-    "[Nv 5]: ^777777310% x2^000000"
+    "[Nv 1]: ^777777150%^000000",
+    "[Nv 2]: ^777777190%^000000",
+    "[Nv 3]: ^777777230%^000000",
+    "[Nv 4]: ^777777270%^000000",
+    "[Nv 5]: ^777777310%^000000"
   },
   [SKID.BA_DISSONANCE] = {
     "DissonÔncia ^777777(Dissonance)^000000",
@@ -4605,11 +4605,11 @@ SKILL_DESCRIPT = {
     "a propriedade da Flecha equipada.^000000",
     "^000088Consome 1 Flecha.^000000",
     "NÝvel l ATQ",
-    "[Nv 1]: ^777777150% x2^000000",
-    "[Nv 2]: ^777777190% x2^000000",
-    "[Nv 3]: ^777777230% x2^000000",
-    "[Nv 4]: ^777777270% x2^000000",
-    "[Nv 5]: ^777777310% x2^000000"
+    "[Nv 1]: ^777777150%^000000",
+    "[Nv 2]: ^777777190%^000000",
+    "[Nv 3]: ^777777230%^000000",
+    "[Nv 4]: ^777777270%^000000",
+    "[Nv 5]: ^777777310%^000000"
   },
   [SKID.DC_UGLYDANCE] = {
     "Danþa do Ventre ^777777(Ugly Dance)^000000",
@@ -6116,9 +6116,9 @@ SKILL_DESCRIPT = {
     "[O ┌ltimo DragÒo], vocÛ terß mais chance",
     "de autoconjurar [Postura do Contrachute].^000000",
     "NÝvel l Chance",
-    "[Nv 1] ^777777+100%^000000",
-    "[Nv 2] ^777777+150%^000000",
-    "[Nv 3] ^777777+200%^000000"
+    "[Nv 1] ^777777+10%^000000",
+    "[Nv 2] ^777777+15%^000000",
+    "[Nv 3] ^777777+20%^000000"
   },
   [SKID.SG_KNOWLEDGE] = {
     "TransmissÒo Solar, Lunar e Estelar",
@@ -7229,7 +7229,7 @@ SKILL_DESCRIPT = {
     "NÒo funciona em monstros Chefes.^000000"
   },
   [SKID.GS_PIERCINGSHOT] = {
-    "Ferir Alvo ^777777(Piercing Shot)^000000",
+    "Ferir Alvo ^777777(Wounding Shot)^000000",
     "NÝvel mßximo: ^7777775^000000",
     "PrÚ requisitos: ^777777Rastrear Alvo 5^000000",
     "Tipo: ^777777Ofensiva^000000",
@@ -7340,7 +7340,7 @@ SKILL_DESCRIPT = {
     "[Nv 10]: ^777777600%^000000 l ^77777730^000000"
   },
   [SKID.GS_FULLBUSTER] = {
-    "Ataque Total ^777777(Full Buster)^000000",
+    "Ataque Total ^777777(Full Blast)^000000",
     "NÝvel mßximo: ^77777710^000000",
     "PrÚ requisitos: ^777777Controle de MultidÒo 3^000000",
     "Tipo: ^777777Ofensiva^000000",
@@ -12859,7 +12859,7 @@ SKILL_DESCRIPT = {
     "[Nv. 5]: ^77777780%^000000 l ^7777771.000%^000000"
   },
   [SKID.RL_BANISHING_BUSTER] = {
-    "Tiro Neutralizante ^777777(Banishing Buster)^000000",
+    "Tiro Neutralizante ^777777(Vanishing Buster)^000000",
     "NÝvel mßximo: ^77777710^000000",
     "PrÚ-requisitos: ^777777Rajada Estilhaþante 1^000000",
     "Tipo: ^777777Ofensiva^000000",

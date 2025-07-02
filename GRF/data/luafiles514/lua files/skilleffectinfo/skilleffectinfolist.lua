@@ -1,12 +1,4 @@
 SKILL_EFFECT_INFO_LIST = {
-  [SKID.NJ_KUNAI] = {
-    waveFileName = "effect\\┤Ð└┌_┤°┴÷▒Ô.wav",
-    effectNum = 1,
-    effectIDs = {
-      EFID.EF_THROWITEM8
-    },
-    onTarget = true
-  },
   [SKID.KO_JYUMONJIKIRI] = {
     beginMotionType = ACTOR_STATE.ST_ATTACK2,
     waveFileName = "effect\\cru_holy cross.wav",
@@ -39,32 +31,6 @@ SKILL_EFFECT_INFO_LIST = {
     },
     onTarget = true
   },
-  [SKID.NPC_ALL_STAT_DOWN] = {
-    targetEffectNum = 1,
-    targetEffectID = {
-      EFID.EF_ENERVATION7
-    },
-    targetWaveFileName = "effect\\EF_DecAgility.wav",
-    onTarget = true
-  },
-  [SKID.NPC_IMMUNE_PROPERTY] = {
-    effectNum = 1,
-    effectID = {
-      EFID.EF_IMMUNE_PROPERTY
-    },
-    onTarget = true
-  },
-  [SKID.NPC_MOVE_COORDINATE] = {
-    effectNum = 1,
-    effectID = {
-      EFID.EF_MOVE_COORDINATE
-    },
-    targetEffectNum = 1,
-    targetEffectID = {
-      EFID.EF_MOVE_COORDINATE
-    },
-    onTarget = true
-  },
   [SKID.KO_HAPPOKUNAI] = {
     beginMotionType = ACTOR_STATE.ST_NINJASKILL2,
     waveFileName = "effect\\T_╚©┐└©«┬¸▒Ô.wav",
@@ -78,13 +44,13 @@ SKILL_EFFECT_INFO_LIST = {
   [SKID.KO_MUCHANAGE] = {
     waveFileName = "effect\\┤Ð└┌_┤°┴÷▒Ô.wav",
     effectNum = 1,
-    effectID = {
-      EFID.EF_THROW_MULTIPLE_COIN
-    },
-    onTarget = true,
     targetEffectNum = 1,
     targetEffectID = {
       EFID.EF_HITLINE
+    },
+    toTargetEffectNum = 2,
+    toTargetEffectID = {
+      EFID.EF_THROW_MULTIPLE_COIN
     }
   },
   [SKID.KO_HUUMARANKA] = {
@@ -290,6 +256,7 @@ SKILL_EFFECT_INFO_LIST = {
     targetEffectID = {
       EFID.EF_FRESHSHRIMP
     },
+    targetWaveFileName = "effect\\su_shrimpparty.wav",
     onTarget = true,
     LaunchZC_USE_SKILL = true
   },
@@ -298,6 +265,7 @@ SKILL_EFFECT_INFO_LIST = {
     targetEffectID = {
       EFID.EF_SU_GROOMING
     },
+    targetWaveFileName = "effect\\su_grooming.wav",
     onTarget = true,
     LaunchZC_USE_SKILL = true
   },
@@ -306,8 +274,74 @@ SKILL_EFFECT_INFO_LIST = {
     targetEffectID = {
       EFID.EF_SU_CHATTERING
     },
+    targetWaveFileName = "effect\\su_chattering.wav",
     onTarget = true,
     LaunchZC_USE_SKILL = true
+  },
+  [SKID.RL_FIREDANCE] = {
+    effectNum = 1,
+    effectID = {
+      EFID.EF_FIREDANCE
+    },
+    targetEffectNum = 1,
+    targetEffectID = {
+      EFID.EF_TRACKING
+    },
+    waveFileName = "effect\\ÁÑ¢║ãõÂ¾ÁÁ.wav"
+  },
+  [SKID.RL_RICHS_COIN] = {
+    effectNum = 1,
+    effectID = {
+      EFID.EF_RICHS_COIN_A
+    },
+    LaunchZC_USE_SKILL = true
+  },
+  [SKID.RL_E_CHAIN] = {
+    effectNum = 1,
+    effectID = {
+      EFID.EF_E_CHAIN
+    },
+    LaunchZC_USE_SKILL = true
+  },
+  [SKID.RL_HEAT_BARREL] = {
+    effectNum = 1,
+    effectID = {
+      EFID.EF_HEAT_BARREL
+    },
+    LaunchZC_USE_SKILL = true
+  },
+  [SKID.RL_FALLEN_ANGEL] = {
+    effectNum = 1,
+    effectID = {
+      EFID.EF_FALLEN_ANGEL
+    },
+    LaunchZC_USE_SKILL = true
+  },
+  [SKID.NPC_ALL_STAT_DOWN] = {
+    targetEffectNum = 1,
+    targetEffectID = {
+      EFID.EF_ENERVATION7
+    },
+    targetWaveFileName = "effect\\EF_DecAgility.wav",
+    onTarget = true
+  },
+  [SKID.NPC_IMMUNE_PROPERTY] = {
+    effectNum = 1,
+    effectID = {
+      EFID.EF_IMMUNE_PROPERTY
+    },
+    onTarget = true
+  },
+  [SKID.NPC_MOVE_COORDINATE] = {
+    effectNum = 1,
+    effectID = {
+      EFID.EF_MOVE_COORDINATE
+    },
+    targetEffectNum = 1,
+    targetEffectID = {
+      EFID.EF_MOVE_COORDINATE
+    },
+    onTarget = true
   },
   [SKID.SJ_LIGHTOFSUN] = {
     effectNum = 1,
@@ -425,16 +459,5 @@ SKILL_EFFECT_INFO_LIST = {
     targetEffectID = {
       EFID.EF_CURSE_EXPLOSION
     }
-  },
-  [SKID.RL_FIREDANCE] = {
-    effectNum = 1,
-    effectID = {
-      EFID.EF_FIREDANCE
-    },
-    targetEffectNum = 1,
-    targetEffectID = {
-      EFID.EF_TRACKING
-    },
-    waveFileName = "effect\\ÁÑ¢║ãõÂ¾ÁÁ.wav"
   }
 }

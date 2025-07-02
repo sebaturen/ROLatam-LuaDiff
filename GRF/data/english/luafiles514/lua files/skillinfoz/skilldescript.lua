@@ -2228,7 +2228,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^7777778 cells^000000"
   },
   [SKID.AS_RIGHT] = {
-    "Right hand Mastery",
+    "Right Hand Mastery",
     "Max. Lv: 5",
     "Skill Type: ^000099Passive^000000",
     "Description : ^777777Restores right-hand damage that is reduced when using two-hand weapons.^000000",
@@ -2240,7 +2240,7 @@ SKILL_DESCRIPT = {
     "[Lv 5]: ^777777100%^000000"
   },
   [SKID.AS_LEFT] = {
-    "Left hand Mastery",
+    "Left Hand Mastery",
     "Max. Lv: 5",
     "Skill Requirement: ^777777Righthand Mastery 2^000000",
     "Skill Type: ^000099Passive^000000",
@@ -2590,7 +2590,7 @@ SKILL_DESCRIPT = {
     "[Lv 10]: ^77777720%^000000"
   },
   [SKID.RG_STEALCOIN] = {
-    "Steal Coin",
+    "Steal Coin ^777777(Gank)^000000",
     "Max. Lv: 10",
     "Skill Requirement: ^777777Snatcher 4^000000",
     "Skill Type: ^993300Active^000000",
@@ -2780,7 +2780,7 @@ SKILL_DESCRIPT = {
     "Description : ^777777Cleans graffiti from the targeted Guild Flag. Each cast consumes 1 Wet Duster^000000"
   },
   [SKID.RG_GANGSTER] = {
-    "GangSter's Paradise",
+    "Gangster's Paradise",
     "Max. Lv: 1",
     "Skill Requirement: ^777777Strip Shield 3^000000",
     "Skill Type: ^000099Passive^000000",
@@ -4145,11 +4145,11 @@ SKILL_DESCRIPT = {
     "Each cast uses one arrow, the property of which depends the property of this skill.^000000",
     "^000088Consumes 1 Arrow.^000000",
     "Level l ATK",
-    "[Lv 1]: ^777777150% x2^000000",
-    "[Lv 2]: ^777777190% x2^000000",
-    "[Lv 3]: ^777777230% x2^000000",
-    "[Lv 4]: ^777777270% x2^000000",
-    "[Lv 5]: ^777777310% x2^000000"
+    "[Lv 1]: ^777777150%^000000",
+    "[Lv 2]: ^777777190%^000000",
+    "[Lv 3]: ^777777230%^000000",
+    "[Lv 4]: ^777777270%^000000",
+    "[Lv 5]: ^777777310%^000000"
   },
   [SKID.BA_DISSONANCE] = {
     "Unchained Serenade (Dissonance)",
@@ -4301,11 +4301,11 @@ SKILL_DESCRIPT = {
     "Each cast uses one arrow, the property of which depends the property of this skill.^000000",
     "^000088Consumes 1 Arrow.^000000",
     "Level l ATK",
-    "[Lv 1]: ^777777150% x2^000000",
-    "[Lv 2]: ^777777190% x2^000000",
-    "[Lv 3]: ^777777230% x2^000000",
-    "[Lv 4]: ^777777270% x2^000000",
-    "[Lv 5]: ^777777310% x2^000000"
+    "[Lv 1]: ^777777150%^000000",
+    "[Lv 2]: ^777777190%^000000",
+    "[Lv 3]: ^777777230%^000000",
+    "[Lv 4]: ^777777270%^000000",
+    "[Lv 5]: ^777777310%^000000"
   },
   [SKID.DC_UGLYDANCE] = {
     "Hip Shaker (Ugly Dance)",
@@ -5798,9 +5798,9 @@ SKILL_DESCRIPT = {
     "increase the Taekwon Master's chance of casting",
     "Counter Kick.^000000",
     "Level l Chance",
-    "[Lv 1] ^777777+100%^000000",
-    "[Lv 2] ^777777+150%^000000",
-    "[Lv 3] ^777777+200%^000000"
+    "[Lv 1] ^777777+10%^000000",
+    "[Lv 2] ^777777+15%^000000",
+    "[Lv 3] ^777777+20%^000000"
   },
   [SKID.SG_KNOWLEDGE] = {
     "Solar, Lunar and Stellar Courier",
@@ -6977,6 +6977,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777Consume 1 bullet to perform a",
     "rapidfire 5 shot attack.",
     "Requires a Pistol Class Weapon.^000000",
+    "Consumes 1 projectile.^000000",
     "Level l ATK l SP",
     "[Lv 1]: ^777777550%^000000 l ^77777722^000000",
     "[Lv 2]: ^777777600%^000000 l ^77777724^000000",
@@ -7018,6 +7019,7 @@ SKILL_DESCRIPT = {
     "Desperado 5^000000",
     "Skill Form:^777777Supportive^000000",
     "Description: ^777777Increase Attack Speed and damage at the cost of reducing Flee Rate and Movement Speed. Gatling Fever status is",
+    "cancelled when this skill is double cast.",
     "Requires Gatling Gun Class Weapon.^000000",
     "[Lv 1]: ^777777ASPD +1%^000000 l ^777777Dmg +30^000000",
     "            ^777777Flee -5^000000 l ^77777730 seconds^000000",
@@ -7063,28 +7065,29 @@ SKILL_DESCRIPT = {
   [SKID.GS_FULLBUSTER] = {
     "Full Blast",
     "Max. Lv: 10",
-    "Skill Requirement: ^777777Crowd Control Shot 3^000000",
+    "Skill Requirement: ^777777 Chain Action 3^000000",
     "Skill Form:^777777Offensive^000000",
     "Description: ^777777Inflict devastating damage to an",
     "enemy by firing multiple bullets at once. This",
     "skill has a small chance of causing the Blind",
     "status to the caster, and consumes",
     "2 bullets per cast.",
-    "Requires a Shotgun Class Weapon.^000000",
+    "Requires a Shotgun Class Weapon^000000",
+    "Consumes 2 projectile.^000000",
     "Level l ATK l SP",
-    "[Lv 1]: ^777777400%^000000 l ^77777720^000000",
-    "[Lv 2]: ^777777500%^000000 l ^77777725^000000",
-    "[Lv 3]: ^777777600%^000000 l ^77777730^000000",
-    "[Lv 4]: ^777777700%^000000 l ^77777735^000000",
-    "[Lv 5]: ^777777800%^000000 l ^77777740^000000",
-    "[Lv 6]: ^777777900%^000000 l ^77777745^000000",
-    "[Lv 7]: ^7777771.000%^000000 l ^77777750^000000",
-    "[Lv 8]: ^7777771.100%^000000 l ^77777755^000000",
-    "[Lv 9]: ^7777771.200%^000000 l ^77777760^000000",
-    "[Lv 10]: ^7777771.300%^000000 l ^77777765^000000"
+    "[Nv 1]: ^777777400%^000000 l ^77777720^000000",
+    "[Nv 2]: ^777777500%^000000 l ^77777725^000000",
+    "[Nv 3]: ^777777600%^000000 l ^77777730^000000",
+    "[Nv 4]: ^777777700%^000000 l ^77777735^000000",
+    "[Nv 5]: ^777777800%^000000 l ^77777740^000000",
+    "[Nv 6]: ^777777900%^000000 l ^77777745^000000",
+    "[Nv 7]: ^7777771.000%^000000 l ^77777750^000000",
+    "[Nv 8]: ^7777771.100%^000000 l ^77777755^000000",
+    "[Nv 9]: ^7777771.200%^000000 l ^77777760^000000",
+    "[Nv 10]: ^7777771.300%^000000 l ^77777765^000000"
   },
   [SKID.GS_SPREADATTACK] = {
-    "Spread Shot",
+    "Spread Attack",
     "Max. Lv: 10",
     "Skill Requirement: ^777777Single Action 5^000000",
     "Skill Form: ^777777Offensive^000000",
@@ -11639,7 +11642,7 @@ SKILL_DESCRIPT = {
   [SKID.RL_S_STORM] = {
     "Shattering Storm",
     "Max Lv: 5",
-    "^777777Skill Requirement: Disarm Lv. 1 / Crowd Control Shot Lv. 1^000000",
+    "^777777Skill Requirement: Disarm Lv. 1 / Dust Lv. 1^000000",
     "Class: ^777777Attack/Special^000000",
     "Description: ^777777A Shotgun skill.^000000",
     "^777777Attack a target and all surrounding enemies within range and destroy their helms.^000000",
@@ -11858,7 +11861,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777A Shotgun skill.^000000",
     "^777777Slug bullets are so heavy that they decrease your HIT when you're 3 or more cells away from your target.^000000",
     "^777777This skill knocks its target 6 cells backward.^000000",
-    "^777777Consumes 1 Slug Bullet in your inventory upon use.^000000",
+    "^777777Consumes 1 Lethal projectile in your inventory upon use.^000000",
     "Level l ATK l Hit",
     "[Lv. 1]: ^7777771.200% in monsters^000000 l ^777777 -10%^000000",
     "             ^7777772.000% in players^000000",

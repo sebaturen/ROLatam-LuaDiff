@@ -3045,6 +3045,42 @@ QuestInfoList = {
     },
     Summary = "Talk to Kiehl"
   },
+  [1505] = {
+    Title = "Arian's Test 7",
+    Description = {
+      "Answered all of Gaanan's questions. Go to Arian and hear the results"
+    },
+    Summary = "Talk to Arian"
+  },
+  [1506] = {
+    Title = "Wrong Desire",
+    Description = {
+      "The Witch sent you to where Serin is. Ask her why she did this."
+    },
+    Summary = "Talk to Serin"
+  },
+  [1507] = {
+    Title = "For Midgard",
+    Description = {
+      "Serin summoned the Dark Lord. Let's kill the summoned monsters."
+    },
+    Summary = "Kill the summoned monsters"
+  },
+  [1508] = {
+    Title = "For Midgard",
+    Description = {
+      "Defeat all the monsters summoned by Serin. Let's talk to Serin."
+    },
+    Summary = "Talk to Serin"
+  },
+  [1509] = {
+    Title = "Neighborhood Knights - Leader's Errand",
+    IconName = "ico_dq.bmp",
+    Description = {
+      "Order from Mora Village's <NAVI>[Neighborhood Knights Leader]<INFO>mora,116,165,0,101,0</INFO></NAVI> <ITEM>[Mysterious Seed]<INFO>12561</INFO></ITEM> You must collect 20 of them. Mysterious Seeds are said to be easily obtainable in the Foggy Forest Maze."
+    },
+    Summary = "20 Mysterious Seed"
+  },
   [2000] = {
     Title = "Job Change to Blacksmith",
     Description = {
@@ -6332,6 +6368,126 @@ QuestInfoList = {
     Summary = "Initialization at 04:00"
   },
   [3335] = {Title = ""},
+  [3336] = {
+    Title = "Golden Corn",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Hunt 3x Warm Imp and 3x Warm Explosion and return to <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Popcorn Party"
+  },
+  [3337] = {
+    Title = "Golden Corn",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Hunt 3x Warm Imp and 3x Warm Explosion and return to <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Popcorn Party"
+  },
+  [3338] = {
+    Title = "[Wait] Golden Corn",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Don't forget to repeat the mission with <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Come back tomorrow."
+  },
+  [3339] = {
+    Title = "Popcorn Party",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Register for the Popcorn Party by bringing ^4d4dff30 Pyroclasts^000000 to <NAVI>[Kerline]<INFO>comodo,262,126,0,101,0</INFO></NAVI>."
+    },
+    Summary = "30 Pyroclasts"
+  },
+  [3340] = {
+    Title = "Korodo Volcano",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Enter the instance by speaking to <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Explore the Volcano"
+  },
+  [3341] = {
+    Title = "Korodo Volcano",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Enter the instance by speaking to <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Explore the Volcano"
+  },
+  [3342] = {
+    Title = "[Wait] Korodo Volcano",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Don't forget to repeat the mission with <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Come back tomorrow."
+  },
+  [3343] = {
+    Title = "Healthy Herbs",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Hunt 3 Magic Herbs for <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
+    },
+    Summary = "Popcorn Party"
+  },
+  [3344] = {
+    Title = "Healthy Herbs",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Hunt 3 Magic Herbs for <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
+    },
+    Summary = "Popcorn Party"
+  },
+  [3345] = {
+    Title = "[Waiting] Healthy Herbs",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Don't forget to repeat the mission with <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI>."
+    },
+    Summary = "Come back tomorrow."
+  },
+  [3346] = {
+    Title = "Popcorn Party",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "The best popcorn in Midgard."
+    },
+    Summary = ""
+  },
+  [3347] = {
+    Title = "Intense Bonfire",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Wait 90 minutes for the effects of <NAVI>[Intense Bonfire]<INFO>comodo,289,176,0,101,0</INFO></NAVI> to repeat."
+    },
+    Summary = "90 minutes"
+  },
+  [3348] = {
+    Title = "Magic Bonfire",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Wait 90 minutes for the effects of <NAVI>[Magic Bonfire]<INFO>comodo,294,176,0,101,0</INFO></NAVI> to repeat."
+    },
+    Summary = "90 minutes"
+  },
+  [3349] = {
+    Title = "Special Bonfire",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Wait 90 minutes for the effects of <NAVI>[Special Campfire]<INFO>comodo,299,176,0,101,0</INFO></NAVI> to repeat."
+    },
+    Summary = "90 minutes"
+  },
+  [3350] = {
+    Title = "Popcorn Party",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "To make the Popcorn Party Costume, bring ^4d4dff50 Pyroclasts^000000 to <NAVI>[Kerline]<INFO>comodo,262,126,0,101,0</INFO></NAVI>."
+    },
+    Summary = "50 Pyroclasts"
+  },
   [3364] = {
     Title = "[Event] Fire Festival",
     IconName = "ico_ev.bmp",
@@ -32730,46 +32886,46 @@ QuestInfoList = {
     Summary = "Time travel to old Glastheim"
   },
   [12340] = {
-    Title = "Invisible Quest",
+    Title = "Job Change to Rebellion",
     Description = {
-      "Place Holder"
+      "I've been mistaken for a wanted man. I need to visit the secret bar in Einbroch, where the wanted poster was put up, and try to clear this up!"
     },
-    Summary = "Place Holder"
+    Summary = ""
   },
   [12341] = {
-    Title = "Invisible Quest",
+    Title = "Job Change to Rebellion",
     Description = {
-      "Place Holder"
+      "The only way to get the Rebellion off my back is to become one of them. Well, let's do the tests."
     },
-    Summary = "Place Holder"
+    Summary = ""
   },
   [12342] = {
-    Title = "Invisible Quest",
+    Title = "Job Change to Rebellion",
     Description = {
-      "Place Holder"
+      "Start the process in the Machine to collect ^CD3278 5 Steel Artifact^000000 from the furnace and use them to try to assemble a firearm in the assembly room next door by clicking on the Anvil. You'll have to repeat the process if you can't finish in time."
     },
-    Summary = "Place Holder"
+    Summary = ""
   },
   [12343] = {
-    Title = "Invisible Quest",
+    Title = "Job Change to Rebellion",
     Description = {
-      "Place Holder"
+      "With the disguise active, walk through the rooms to find up to ^CD3278 10 illusions^000000 with the Regular Shooting Target name on them within the time limit."
     },
-    Summary = "Place Holder"
+    Summary = "Eliminate 10 Shooting Target"
   },
   [12344] = {
-    Title = "Invisible Quest",
+    Title = "Job Change to Rebellion",
     Description = {
-      "Place Holder"
+      "If you hit more than 3 illusions with the name ^CD3278Faulty Shooting Target^000000, you will fail the test. Avoid hitting them at all costs!"
     },
-    Summary = "Place Holder"
+    Summary = "Avoid hitting 3 ^CD3278Faulty Shooting Target^000000."
   },
   [12345] = {
-    Title = "Invisible Quest",
+    Title = "Job Change to Rebellion",
     Description = {
-      "Place Holder"
+      "Visit Ivan Sidorenko, the legendary Rebellion, and complete your Job Change process."
     },
-    Summary = "Place Holder"
+    Summary = "Talk to Ivan."
   },
   [12346] = {
     Title = "Strange Ancient Science",
@@ -32887,7 +33043,7 @@ QuestInfoList = {
     Description = {
       "Get 160 Sweet Potatoes516 from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in big cities."
     },
-    Summary = "160 Sweet Potatoes516"
+    Summary = "160 Sweet Potatoes"
   },
   [12384] = {
     Title = "Meat Delivery",
@@ -50976,7 +51132,7 @@ Talk to Kar=],
     Title = "Ruffnut's Terrifying Exploration Story",
     IconName = "ico_dq.bmp",
     Description = {
-      "Defeat 50 monsters in <NAVI>[Glastheim Castle 2F]<INFO>gl_cas02,104,193,0,101,0</INFO></NAVI> and report to Ruffnut at Serene Abyss Lake."
+      "Defeat 50 monsters in <NAVI>[Glastheim Castle 2F]<INFO>gl_cas02,104,189,0,101,0</INFO></NAVI> and report to Ruffnut at Serene Abyss Lake."
     }
   },
   [23346] = {
@@ -68107,161 +68263,5 @@ Talk to Kar=],
     NpcNavi = "geffen",
     NpcPosX = 40,
     NpcPosY = 141
-  },
-  [3336] = {
-    Title = "Golden Corn",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Hunt 3x Warm Imp and 3x Warm Explosion and return to <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Popcorn Party"
-  },
-  [3337] = {
-    Title = "Golden Corn",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Hunt 3x Warm Imp and 3x Warm Explosion and return to <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Popcorn Party"
-  },
-  [3338] = {
-    Title = "[Wait] Golden Corn",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Don't forget to repeat the mission with <NAVI>[Dr. Korn]<INFO>comodo,159,196,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Come back tomorrow."
-  },
-  [3339] = {
-    Title = "Popcorn Party",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Register for the Popcorn Party by bringing ^4d4dff30 Pyroclasts^000000 to <NAVI>[Kerline]<INFO>comodo,262,126,0,101,0</INFO></NAVI>."
-    },
-    Summary = "30 Pyroclasts"
-  },
-  [3340] = {
-    Title = "Korodo Volcano",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Enter the instance by speaking to <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Explore the Volcano"
-  },
-  [3341] = {
-    Title = "Korodo Volcano",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Enter the instance by speaking to <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Explore the Volcano"
-  },
-  [3342] = {
-    Title = "[Wait] Korodo Volcano",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Don't forget to repeat the mission with <NAVI>[Palquia]<INFO>comodo,264,123,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Come back tomorrow."
-  },
-  [3343] = {
-    Title = "Healthy Herbs",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Hunt 3 Magic Herbs for <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
-    },
-    Summary = "Popcorn Party"
-  },
-  [3344] = {
-    Title = "Healthy Herbs",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Hunt 3 Magic Herbs for <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI."
-    },
-    Summary = "Popcorn Party"
-  },
-  [3345] = {
-    Title = "[Waiting] Healthy Herbs",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Don't forget to repeat the mission with <NAVI>[Yerba]<INFO>comodo,225,187,0,101,0</INFO></NAVI>."
-    },
-    Summary = "Come back tomorrow."
-  },
-  [3346] = {
-    Title = "Popcorn Party",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "The best popcorn in Midgard."
-    },
-    Summary = ""
-  },
-  [3347] = {
-    Title = "Intense Bonfire",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Wait 90 minutes for the effects of <NAVI>[Intense Bonfire]<INFO>comodo,289,176,0,101,0</INFO></NAVI> to repeat."
-    },
-    Summary = "90 minutes"
-  },
-  [3348] = {
-    Title = "Magic Bonfire",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Wait 90 minutes for the effects of <NAVI>[Magic Bonfire]<INFO>comodo,294,176,0,101,0</INFO></NAVI> to repeat."
-    },
-    Summary = "90 minutes"
-  },
-  [3349] = {
-    Title = "Special Bonfire",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "Wait 90 minutes for the effects of <NAVI>[Special Campfire]<INFO>comodo,299,176,0,101,0</INFO></NAVI> to repeat."
-    },
-    Summary = "90 minutes"
-  },
-  [3350] = {
-    Title = "Popcorn Party",
-    IconName = "ico_ev.bmp",
-    Description = {
-      "To make the Popcorn Party Costume, bring ^4d4dff50 Pyroclasts^000000 to <NAVI>[Kerline]<INFO>comodo,262,126,0,101,0</INFO></NAVI>."
-    },
-    Summary = "50 Pyroclasts"
-  },
-  [1505] = {
-    Title = "Arian's Test 7",
-    Description = {
-      "Answered all of Gaanan's questions. Go to Arian and hear the results"
-    },
-    Summary = "Talk to Arian"
-  },
-  [1506] = {
-    Title = "Wrong Desire",
-    Description = {
-      "The Witch sent you to where Serin is. Ask her why she did this."
-    },
-    Summary = "Talk to Serin"
-  },
-  [1507] = {
-    Title = "For Midgard",
-    Description = {
-      "Serin summoned the Dark Lord. Let's kill the summoned monsters."
-    },
-    Summary = "Kill the summoned monsters"
-  },
-  [1508] = {
-    Title = "For Midgard",
-    Description = {
-      "Defeat all the monsters summoned by Serin. Let's talk to Serin."
-    },
-    Summary = "Talk to Serin"
-  },
-  [1509] = {
-    Title = "Neighborhood Knights - Leader's Errand",
-    IconName = "ico_dq.bmp",
-    Description = {
-      "Order from Mora Village's <NAVI>[Neighborhood Knights Leader]<INFO>mora,116,165,0,101,0</INFO></NAVI> <ITEM>[Mysterious Seed]<INFO>12561</INFO></ITEM> You must collect 20 of them. Mysterious Seeds are said to be easily obtainable in the Foggy Forest Maze."
-    },
-    Summary = "20 Mysterious Seed"
   }
 }

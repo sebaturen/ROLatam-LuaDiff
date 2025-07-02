@@ -5059,7 +5059,7 @@ tbl = {
     {
       id = 504,
       prob = 330,
-      name = "Poci├│n blanca 10",
+      name = "Poci├│n Blanca 10",
       group = 1
     },
     {
@@ -5115,7 +5115,7 @@ tbl = {
     {
       id = 504,
       prob = 80,
-      name = "Poci├│n blanca 10",
+      name = "Poci├│n Blanca 10",
       group = 1
     },
     {
@@ -6639,7 +6639,7 @@ tbl = {
     {
       id = 1493,
       prob = 1,
-      name = "Metal Lance [1]",
+      name = "Lanza de Metal [1]",
       group = 0
     },
     {
@@ -10355,7 +10355,7 @@ tbl = {
     {
       id = 505,
       prob = 1,
-      name = "Poci├│n azul 100",
+      name = "Poci├│n Azul 100",
       group = 0
     },
     {
@@ -13285,13 +13285,13 @@ tbl = {
     {
       id = 504,
       prob = 1,
-      name = "Poci├│n blanca 20",
+      name = "Poci├│n Blanca 20",
       group = 0
     },
     {
       id = 505,
       prob = 1,
-      name = "Poci├│n azul 20",
+      name = "Poci├│n Azul 20",
       group = 0
     },
     {
@@ -20181,7 +20181,7 @@ tbl = {
     {
       id = 505,
       prob = 4000,
-      name = "Poci├│n azul 10",
+      name = "Poci├│n Azul 10",
       group = 2
     },
     {
@@ -23161,7 +23161,7 @@ tbl = {
     {
       id = 13196,
       prob = 3,
-      name = "Romper la paz [1]",
+      name = "Rifle de Destrucci├│n [1]",
       group = 6
     },
     {
@@ -23979,7 +23979,7 @@ tbl = {
     {
       id = 20744,
       prob = 2,
-      name = "Capa de Ferlock [1]",
+      name = "Manto de Ferlock [1]",
       group = 6
     },
     {
@@ -28439,7 +28439,7 @@ tbl = {
     {
       id = 4610,
       prob = 1,
-      name = "Unknown Item",
+      name = "Carta Sarah",
       group = 6
     },
     {
@@ -32289,7 +32289,7 @@ tbl = {
     {
       id = 7663,
       prob = 1,
-      name = "Chaqueta met├ílica 500",
+      name = "Proyectil Recubierto 500",
       group = 0
     }
   },
@@ -32297,7 +32297,7 @@ tbl = {
     {
       id = 7664,
       prob = 1,
-      name = "Mina de proyectiles 500",
+      name = "Granada adherente 500",
       group = 0
     }
   },
@@ -32305,7 +32305,7 @@ tbl = {
     {
       id = 7665,
       prob = 1,
-      name = "Misil de Cola de drag├│n 500",
+      name = "Misil Cola de Drag├│n 500",
       group = 0
     }
   },
@@ -40338,6 +40338,298 @@ tbl = {
       id = 104716,
       prob = 10,
       name = "Caja de Selecci├│n de las Nubes",
+      group = 0
+    }
+  },
+  [200678] = {
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Evento] Poci├│n de Vida Peque├▒a 40",
+      group = 0
+    },
+    {
+      id = 12515,
+      prob = 0,
+      name = "[Evento] Poci├│n de Vida Mediana 20",
+      group = 0
+    },
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Evento] Todopoderoso 20",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Evento] Poci├│n Ilimitada 20",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Evento] Poci├│n Infinita 20",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 2",
+      group = 0
+    }
+  },
+  [200679] = {
+    {
+      id = 101238,
+      prob = 0,
+      name = "[Evento] Manual de Kafra [7 D├¡as]",
+      group = 0
+    },
+    {
+      id = 25793,
+      prob = 0,
+      name = "Cup├│n de expansi├│n de inventario 2",
+      group = 0
+    },
+    {
+      id = 16823,
+      prob = 0,
+      name = "Caja de Pase de Gimnasio 2",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 5",
+      group = 0
+    }
+  },
+  [200680] = {
+    {
+      id = 16808,
+      prob = 0,
+      name = "Manual de Combate (1) 2",
+      group = 0
+    },
+    {
+      id = 14606,
+      prob = 0,
+      name = "Manual de Clase 2",
+      group = 0
+    },
+    {
+      id = 16810,
+      prob = 0,
+      name = "Goma de Mascar (1) 2",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 3",
+      group = 0
+    }
+  },
+  [200681] = {
+    {
+      id = 7620,
+      prob = 1,
+      name = "Oridecon Concentrado 50",
+      group = 0
+    },
+    {
+      id = 7619,
+      prob = 1,
+      name = "Elunium Concentrado 50",
+      group = 0
+    },
+    {
+      id = 9908,
+      prob = 1,
+      name = "[Promo] Poci├│n Mental 6",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      group = 0
+    }
+  },
+  [200682] = {
+    {
+      id = 7619,
+      prob = 1,
+      name = "Elunium Concentrado 100",
+      group = 0
+    },
+    {
+      id = 9908,
+      prob = 1,
+      name = "[Promo] Poci├│n Mental 6",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      group = 0
+    }
+  },
+  [200683] = {
+    {
+      id = 7619,
+      prob = 0,
+      name = "Elunium Concentrado 200",
+      group = 0
+    },
+    {
+      id = 9908,
+      prob = 0,
+      name = "[Promo] Poci├│n Mental 12",
+      group = 0
+    },
+    {
+      id = 6635,
+      prob = 0,
+      name = "Bendici├│n del Herrero 5",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 20",
+      group = 0
+    }
+  },
+  [200684] = {
+    {
+      id = 7620,
+      prob = 0,
+      name = "Oridecon Concentrado 200",
+      group = 0
+    },
+    {
+      id = 9908,
+      prob = 0,
+      name = "[Promo] Poci├│n Mental 12",
+      group = 0
+    },
+    {
+      id = 6635,
+      prob = 0,
+      name = "Bendici├│n del Herrero 5",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 20",
+      group = 0
+    }
+  },
+  [200685] = {
+    {
+      id = 17689,
+      prob = 0,
+      name = "Caja Buff Premium",
+      group = 0
+    },
+    {
+      id = 17921,
+      prob = 0,
+      name = "Caja de Kafra",
+      group = 0
+    },
+    {
+      id = 17920,
+      prob = 0,
+      name = "Caja Campana de Comerciante de herramientas",
+      group = 0
+    }
+  },
+  [200686] = {
+    {
+      id = 12515,
+      prob = 0,
+      name = "[Evento] Poci├│n de Vida Mediana 200",
+      group = 0
+    },
+    {
+      id = 12516,
+      prob = 0,
+      name = "[Evento] Poci├│n de Vida Peque├▒a 200",
+      group = 0
+    },
+    {
+      id = 14537,
+      prob = 0,
+      name = "Poci├│n de regeneraci├│n 20",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 0,
+      name = "Boleto de Viaje Mundial 30",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      group = 0
+    }
+  },
+  [200687] = {
+    {
+      id = 23899,
+      prob = 0,
+      name = "[Evento] Todopoderoso 35",
+      group = 0
+    },
+    {
+      id = 23898,
+      prob = 0,
+      name = "[Evento] Poci├│n Ilimitada 35",
+      group = 0
+    },
+    {
+      id = 100333,
+      prob = 0,
+      name = "[Evento] Poci├│n Infinita 35",
+      group = 0
+    },
+    {
+      id = 100061,
+      prob = 0,
+      name = "[Evento] Elixir Rojo 35",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      group = 0
+    }
+  },
+  [200688] = {
+    {
+      id = 12208,
+      prob = 0,
+      name = "Manual de Combate 20",
+      group = 0
+    },
+    {
+      id = 14533,
+      prob = 0,
+      name = "Manual de Combate Avanzado 10",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 0,
+      name = "[Evento] Artefacto Ovalado Ardiente 11",
       group = 0
     }
   }

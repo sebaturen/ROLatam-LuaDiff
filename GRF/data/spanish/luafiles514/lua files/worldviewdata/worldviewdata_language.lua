@@ -374,6 +374,7 @@ WORLD_MSGID = {
   MSI_112_MALANGDO = "Malangdo",
   MSI_DUN43 = "Zona de coral estrellado",
   MSI_43_MAL_DUN01 = "Zona de coral estrellado",
+  MSI_DUN44 = "Fßbrica de Juguetes",
   MSI_101_RA_FILD10 = "CrÝa de lobo gris",
   MSI_101_RA_FILD11 = "Cabra de cenizas",
   MSI_101_GW_FILD01 = "Anillo de cenizas",
