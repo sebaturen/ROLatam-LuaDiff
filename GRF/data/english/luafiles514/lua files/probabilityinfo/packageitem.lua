@@ -40167,9 +40167,9 @@ tbl = {
       group = 0
     },
     {
-      id = 200136,
+      id = 100913,
       prob = 10,
-      name = "Kafra Buff Box (7 Days) 2",
+      name = "Kafra Buff (7 Days) 2",
       group = 0
     },
     {
@@ -40393,9 +40393,9 @@ tbl = {
       group = 0
     },
     {
-      id = 16823,
+      id = 7776,
       prob = 0,
-      name = "Gym Pass Box 2",
+      name = "Gym Pass 2",
       group = 0
     },
     {
@@ -40407,9 +40407,9 @@ tbl = {
   },
   [200680] = {
     {
-      id = 16808,
+      id = 12208,
       prob = 0,
-      name = "Battle Manual (1) 2",
+      name = "Battle Manual 2",
       group = 0
     },
     {
@@ -40419,9 +40419,9 @@ tbl = {
       group = 0
     },
     {
-      id = 16810,
+      id = 12210,
       prob = 0,
-      name = "Bubble Gum (1) 2",
+      name = "Bubble Gum 2",
       group = 0
     },
     {

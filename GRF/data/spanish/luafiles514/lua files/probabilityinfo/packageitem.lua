@@ -40167,9 +40167,9 @@ tbl = {
       group = 0
     },
     {
-      id = 200136,
+      id = 100913,
       prob = 10,
-      name = "Caja de Manual de Kafra (7 D├¡as) 2",
+      name = "Manual de Kafra [7 D├¡as] 2",
       group = 0
     },
     {
@@ -40393,9 +40393,9 @@ tbl = {
       group = 0
     },
     {
-      id = 16823,
+      id = 7776,
       prob = 0,
-      name = "Caja de Pase de Gimnasio 2",
+      name = "Pase de gimnasio 2",
       group = 0
     },
     {
@@ -40407,9 +40407,9 @@ tbl = {
   },
   [200680] = {
     {
-      id = 16808,
+      id = 12208,
       prob = 0,
-      name = "Manual de Combate (1) 2",
+      name = "Manual de Combate 2",
       group = 0
     },
     {
@@ -40419,9 +40419,9 @@ tbl = {
       group = 0
     },
     {
-      id = 16810,
+      id = 12210,
       prob = 0,
-      name = "Goma de Mascar (1) 2",
+      name = "Goma de Mascar 2",
       group = 0
     },
     {
