@@ -3377,7 +3377,23 @@ StateIconList[EFST_IDs.EFST_HELM_ASIR] = {
     }
   }
 }
-StateIconList[EFST_IDs.EFST_RAY_OF_PROTECTION] = {haveTimeLimit = 1, posTimeLimitStr = 2}
+StateIconList[EFST_IDs.EFST_RAY_OF_PROTECTION] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 2,
+  descript = {
+    {
+      "Luz Protectora",
+      COLOR_TITLE_BUFF
+    },
+    {"%s", COLOR_TIME},
+    {
+      "Inmunidad a diversos"
+    },
+    {
+      "efectos negativos"
+    }
+  }
+}
 StateIconList[EFST_IDs.EFST_ANCILLA] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,

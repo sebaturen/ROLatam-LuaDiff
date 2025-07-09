@@ -23746,7 +23746,7 @@ Item = {
       local temp = 0
       temp = GetRefineLevel(10)
       AddExtParam(0, 167, 5)
-      if temp < 9 then
+      if temp > 9 then
         SubSpellCastTime(10)
       else
         SubSpellCastTime(5)

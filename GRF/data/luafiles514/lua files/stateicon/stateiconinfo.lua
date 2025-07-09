@@ -3497,10 +3497,10 @@ StateIconList[EFST_IDs.EFST_RAY_OF_PROTECTION] = {
     },
     {"%s", COLOR_TIME},
     {
-      "Garante imunidade a"
+      "Imunidade a efeitos"
     },
     {
-      "certos efeitos negativos"
+      "negativos diversos"
     }
   }
 }
