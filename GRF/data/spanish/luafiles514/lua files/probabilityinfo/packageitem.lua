@@ -537,7 +537,7 @@ tbl = {
     {
       id = 4094,
       prob = 1,
-      name = "Carta Esqueleto arquero",
+      name = "Carta Esqueleto Arquero",
       group = 6
     },
     {
@@ -831,7 +831,7 @@ tbl = {
     {
       id = 4159,
       prob = 1,
-      name = "Carta Nueve colas",
+      name = "Carta Nueve Colas",
       group = 6
     },
     {
@@ -2721,43 +2721,43 @@ tbl = {
     {
       id = 27082,
       prob = 1,
-      name = "Carta de Nueve colas enfadado",
+      name = "Carta de Nueve Colas Enfadado",
       group = 6
     },
     {
       id = 27083,
       prob = 1,
-      name = "Carta de Bongun resentido",
+      name = "Carta de Bongun Resentido",
       group = 6
     },
     {
       id = 27084,
       prob = 1,
-      name = "Carta de Sohee resentida",
+      name = "Carta de Sohee Resentida",
       group = 6
     },
     {
       id = 27085,
       prob = 1,
-      name = "Carta de Munak resentido",
+      name = "Carta de Munak Resentido",
       group = 6
     },
     {
       id = 27086,
       prob = 1,
-      name = "Carta de Soldado resentido",
+      name = "Carta de Soldado Resentido",
       group = 6
     },
     {
       id = 27087,
       prob = 1,
-      name = "Carta de Hechicero de Veritas",
+      name = "Carta de Hechicero Veritas",
       group = 6
     },
     {
       id = 27088,
       prob = 1,
-      name = "Carta de H├®roe furioso",
+      name = "Carta de H├®roe Furioso",
       group = 6
     },
     {
@@ -6745,7 +6745,7 @@ tbl = {
     {
       id = 18528,
       prob = 150,
-      name = "Tare Neko Cru",
+      name = "Gatito Malhumorado [1]",
       group = 1
     },
     {
@@ -6911,7 +6911,7 @@ tbl = {
     {
       id = 12817,
       prob = 1,
-      name = "Antiguo ├ülbum de Cartas",
+      name = "[Premio] Antiguo ├ülbum de Cartas",
       group = 0
     },
     {
@@ -7501,7 +7501,7 @@ tbl = {
     {
       id = 4094,
       prob = 1,
-      name = "Carta Esqueleto arquero",
+      name = "Carta Esqueleto Arquero",
       group = 6
     },
     {
@@ -7795,7 +7795,7 @@ tbl = {
     {
       id = 4159,
       prob = 1,
-      name = "Carta Nueve colas",
+      name = "Carta Nueve Colas",
       group = 6
     },
     {
@@ -9685,43 +9685,43 @@ tbl = {
     {
       id = 27082,
       prob = 1,
-      name = "Carta de Nueve colas enfadado",
+      name = "Carta de Nueve Colas Enfadado",
       group = 6
     },
     {
       id = 27083,
       prob = 1,
-      name = "Carta de Bongun resentido",
+      name = "Carta de Bongun Resentido",
       group = 6
     },
     {
       id = 27084,
       prob = 1,
-      name = "Carta de Sohee resentida",
+      name = "Carta de Sohee Resentida",
       group = 6
     },
     {
       id = 27085,
       prob = 1,
-      name = "Carta de Munak resentido",
+      name = "Carta de Munak Resentido",
       group = 6
     },
     {
       id = 27086,
       prob = 1,
-      name = "Carta de Soldado resentido",
+      name = "Carta de Soldado Resentido",
       group = 6
     },
     {
       id = 27087,
       prob = 1,
-      name = "Carta de Hechicero de Veritas",
+      name = "Carta de Hechicero Veritas",
       group = 6
     },
     {
       id = 27088,
       prob = 1,
-      name = "Carta de H├®roe furioso",
+      name = "Carta de H├®roe Furioso",
       group = 6
     },
     {
@@ -13519,7 +13519,7 @@ tbl = {
     {
       id = 2277,
       prob = 20,
-      name = "Gorro de enfermera",
+      name = "Gorro de Enfermera",
       group = 1
     },
     {
@@ -18781,7 +18781,7 @@ tbl = {
     {
       id = 12684,
       prob = 1,
-      name = "Poci├│n intensificadora de VELA 10",
+      name = "Poci├│n de Oro 10",
       group = 0
     },
     {
@@ -18795,7 +18795,7 @@ tbl = {
     {
       id = 12684,
       prob = 1,
-      name = "Poci├│n intensificadora de VELA 10",
+      name = "Poci├│n de Oro 10",
       group = 0
     }
   },
@@ -20873,7 +20873,7 @@ tbl = {
     {
       id = 18522,
       prob = 1,
-      name = "Sombrero de la marcha del mal [1]",
+      name = "Sombrero de la Banda Del Mal [1]",
       group = 1
     },
     {
@@ -20885,7 +20885,7 @@ tbl = {
     {
       id = 18528,
       prob = 1,
-      name = "Tare Neko Cru",
+      name = "Gatito Malhumorado [1]",
       group = 1
     },
     {
@@ -22219,7 +22219,7 @@ tbl = {
     {
       id = 18528,
       prob = 1,
-      name = "Tare Neko Cru",
+      name = "Gatito Malhumorado [1]",
       group = 1
     },
     {
@@ -23161,7 +23161,7 @@ tbl = {
     {
       id = 13196,
       prob = 3,
-      name = "Rifle de Destrucci├│n [1]",
+      name = "Escopeta de Destrucci├│n [1]",
       group = 6
     },
     {
@@ -25019,7 +25019,7 @@ tbl = {
     {
       id = 2285,
       prob = 40,
-      name = "Manzana de arquero",
+      name = "Manzana de Arquero",
       group = 6
     },
     {
@@ -25133,7 +25133,7 @@ tbl = {
     {
       id = 2277,
       prob = 50,
-      name = "Gorro de enfermera",
+      name = "Gorro de Enfermera",
       group = 6
     },
     {
@@ -25419,13 +25419,13 @@ tbl = {
     {
       id = 19157,
       prob = 1,
-      name = "Unknown Item",
+      name = "Mu├▒eca Rebelde [1]",
       group = 0
     },
     {
       id = 23100,
       prob = 1,
-      name = "Unknown Item",
+      name = "Pergamino Rebelde",
       group = 0
     }
   },
@@ -25433,13 +25433,13 @@ tbl = {
     {
       id = 28439,
       prob = 1,
-      name = "Unknown Item",
+      name = "Ventilador Port├ítil [1]",
       group = 0
     },
     {
       id = 23170,
       prob = 1,
-      name = "Unknown Item",
+      name = "Combinador de Ventilador",
       group = 0
     }
   },
@@ -26569,13 +26569,13 @@ tbl = {
     {
       id = 19242,
       prob = 1,
-      name = "Unknown Item",
+      name = "Diadema Felina [1]",
       group = 0
     },
     {
       id = 23311,
       prob = 1,
-      name = "Unknown Item",
+      name = "Piedra Felina",
       group = 0
     }
   },
@@ -26631,7 +26631,7 @@ tbl = {
     {
       id = 19268,
       prob = 1,
-      name = "Aliento de serpiente gigante",
+      name = "Aliento de Cara de Gusano",
       group = 1
     }
   },
@@ -28715,7 +28715,7 @@ tbl = {
     {
       id = 4131,
       prob = 340,
-      name = "Carta Flor lunar",
+      name = "Carta Flor Lunar",
       group = 6
     },
     {
@@ -29041,7 +29041,7 @@ tbl = {
     {
       id = 27087,
       prob = 1000,
-      name = "Carta de Hechicero de Veritas",
+      name = "Carta de Hechicero Veritas",
       group = 6
     },
     {
@@ -30391,7 +30391,7 @@ tbl = {
     {
       id = 31518,
       prob = 50,
-      name = "Sombrero de palomitas decorativo",
+      name = "Palomitas Saltarinas",
       group = 6
     }
   },
@@ -36249,7 +36249,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 2",
+      name = "[Limitada] Manual de Combate 2",
       group = 0
     },
     {
@@ -36261,7 +36261,7 @@ tbl = {
     {
       id = 12497,
       prob = 1,
-      name = "[Evento] Chicle 2",
+      name = "[Limitada] Chicle 2",
       group = 0
     }
   },
@@ -36541,7 +36541,7 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Evento] Manual de Combate 2",
+      name = "[Limitada] Manual de Combate 2",
       group = 0
     }
   },
@@ -36573,7 +36573,7 @@ tbl = {
     {
       id = 12497,
       prob = 10,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     }
   },
@@ -36631,7 +36631,7 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Evento] Manual de Combate 2",
+      name = "[Limitada] Manual de Combate 2",
       group = 0
     }
   },
@@ -36651,13 +36651,13 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Evento] Manual de Combate 3",
+      name = "[Limitada] Manual de Combate 3",
       group = 0
     },
     {
       id = 12497,
       prob = 10,
-      name = "[Evento] Chicle 3",
+      name = "[Limitada] Chicle 3",
       group = 0
     }
   },
@@ -36677,13 +36677,13 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Evento] Manual de Combate 4",
+      name = "[Limitada] Manual de Combate 4",
       group = 0
     },
     {
       id = 12497,
       prob = 10,
-      name = "[Evento] Chicle 4",
+      name = "[Limitada] Chicle 4",
       group = 0
     },
     {
@@ -36709,13 +36709,13 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
       id = 12497,
       prob = 10,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37201,7 +37201,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 2",
+      name = "[Limitada] Manual de Combate 2",
       group = 0
     }
   },
@@ -37209,7 +37209,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37235,7 +37235,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 10",
+      name = "[Limitada] Manual de Combate 10",
       group = 0
     },
     {
@@ -37261,7 +37261,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 15",
+      name = "[Limitada] Manual de Combate 15",
       group = 0
     },
     {
@@ -37287,7 +37287,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 20",
+      name = "[Limitada] Manual de Combate 20",
       group = 0
     },
     {
@@ -37313,7 +37313,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 20",
+      name = "[Limitada] Manual de Combate 20",
       group = 0
     },
     {
@@ -37351,7 +37351,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37363,7 +37363,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37389,7 +37389,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37401,7 +37401,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37427,7 +37427,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37439,7 +37439,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37465,7 +37465,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37477,7 +37477,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37503,7 +37503,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37515,7 +37515,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37541,7 +37541,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37553,7 +37553,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37579,7 +37579,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37591,7 +37591,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37617,7 +37617,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37629,7 +37629,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37649,7 +37649,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37661,7 +37661,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37693,7 +37693,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37705,7 +37705,7 @@ tbl = {
     {
       id = 12497,
       prob = 1,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -37767,7 +37767,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -37781,7 +37781,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     }
   },
@@ -38051,93 +38051,93 @@ tbl = {
       group = 0
     },
     {
-      id = 31241,
-      prob = 800,
-      name = "Sol Risue├▒o",
-      group = 6
-    },
-    {
-      id = 31394,
-      prob = 800,
-      name = "Sombrero de Hechicero blanco decorativo",
-      group = 6
-    },
-    {
-      id = 19948,
-      prob = 800,
-      name = "[Disfraz] Planeta Tierra",
-      group = 6
-    },
-    {
-      id = 31260,
-      prob = 800,
-      name = "[Disfraz]Rastreador sofisticado",
-      group = 6
-    },
-    {
-      id = 31036,
-      prob = 650,
-      name = "[Disfraz]Sombrero de ministro",
-      group = 6
-    },
-    {
-      id = 19998,
-      prob = 800,
-      name = "Sombrero de tortuga drag├│n decorativo",
-      group = 6
-    },
-    {
-      id = 19513,
-      prob = 800,
-      name = "Casco de pico de pollo decorativo",
-      group = 6
-    },
-    {
-      id = 19666,
-      prob = 650,
-      name = "[Disfraz] Sombrero de Galleta",
-      group = 6
-    },
-    {
-      id = 19654,
+      id = 19906,
       prob = 900,
-      name = "Sombrero del capit├ín Carocc decorativo",
+      name = "[Disfraz] Tornillos",
       group = 6
     },
     {
-      id = 20145,
+      id = 31163,
       prob = 900,
-      name = "[Disfraz] Ojos Robotizados",
+      name = "[Disfraz] Sombrero de Oveja",
       group = 6
     },
     {
-      id = 20618,
-      prob = 150,
-      name = "[Disfraz] Gran Conejo Negro",
+      id = 19590,
+      prob = 800,
+      name = "[Disfraz] Cinta Roja Gemela",
       group = 6
     },
     {
-      id = 19823,
+      id = 20377,
+      prob = 800,
+      name = "[Disfraz] Casco Volador",
+      group = 6
+    },
+    {
+      id = 31567,
+      prob = 800,
+      name = "[Disfraz] Cuernos de Oveja",
+      group = 6
+    },
+    {
+      id = 20190,
+      prob = 800,
+      name = "[Disfraz] Sombrero de Gallina",
+      group = 6
+    },
+    {
+      id = 19584,
+      prob = 800,
+      name = "[Disfraz] Daga de Pirata",
+      group = 6
+    },
+    {
+      id = 19515,
+      prob = 800,
+      name = "[Disfraz] Sombrero Amarillo",
+      group = 6
+    },
+    {
+      id = 19583,
       prob = 650,
-      name = "[Disfraz] Capucha de Kitsune Decorativa",
+      name = "[Disfraz] M├íscara del Zorro",
       group = 6
     },
     {
-      id = 20481,
+      id = 19924,
+      prob = 650,
+      name = "[Disfraz] M├íscara de Od├¡n",
+      group = 6
+    },
+    {
+      id = 19566,
+      prob = 650,
+      name = "[Disfraz] M├íscara de Samur├íi",
+      group = 6
+    },
+    {
+      id = 20009,
+      prob = 500,
+      name = "[Disfraz] Yelmo del Drag├│n",
+      group = 6
+    },
+    {
+      id = 20405,
+      prob = 500,
+      name = "[Disfraz] Bufanda de Eremes",
+      group = 6
+    },
+    {
+      id = 19721,
       prob = 300,
-      name = "[Disfraz] M├íscara de Ifrit",
+      name = "[Disfraz] Yelmo de la Oscuridad",
       group = 6
     },
     {
-      id = 20464,
-      prob = 500,
-      name = "[Disfraz] Arcos Monocrom├íticos",
-      group = 6
-    },
-    {
-      id = 19526,
-      prob = 500,
-      name = "[Disfraz] Yelmo decorativo",
+      id = 480118,
+      prob = 150,
+      name = "[Disfraz] Espada del General",
       group = 6
     }
   },
@@ -38153,7 +38153,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -38165,7 +38165,7 @@ tbl = {
     {
       id = 12497,
       prob = 1,
-      name = "[Evento] Chicle 5",
+      name = "[Limitada] Chicle 5",
       group = 0
     },
     {
@@ -38359,7 +38359,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Evento] Manual de Combate 2",
+      name = "[Limitada] Manual de Combate 2",
       group = 0
     }
   },
@@ -38545,7 +38545,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 5",
+      name = "[Limitada] Manual de Combate 5",
       group = 0
     },
     {
@@ -38559,7 +38559,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 10",
+      name = "[Limitada] Manual de Combate 10",
       group = 0
     },
     {
@@ -38579,7 +38579,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate 10",
+      name = "[Limitada] Manual de Combate 10",
       group = 0
     },
     {
@@ -38705,13 +38705,13 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Evento] Manual de Combate",
+      name = "[Limitada] Manual de Combate",
       group = 0
     },
     {
       id = 12497,
       prob = 1,
-      name = "[Evento] Chicle",
+      name = "[Limitada] Chicle",
       group = 0
     }
   },
@@ -39394,6 +39394,478 @@ tbl = {
       id = 28953,
       prob = 5,
       name = "Escudo Acorazado [1]",
+      group = 6
+    }
+  },
+  [104902] = {
+    {
+      id = 1000274,
+      prob = 1,
+      name = "Cup├│n de Millas Kachua",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 1613,
+      name = "Boleto de Viaje Mundial 5",
+      group = 6
+    },
+    {
+      id = 23047,
+      prob = 1613,
+      name = "[Evento] Bendici├│n de Tyr 3",
+      group = 6
+    },
+    {
+      id = 12684,
+      prob = 1613,
+      name = "Poci├│n de Oro 3",
+      group = 6
+    },
+    {
+      id = 23048,
+      prob = 1613,
+      name = "[Evento] Poci├│n de Regeneraci├│n 3",
+      group = 6
+    },
+    {
+      id = 9908,
+      prob = 1613,
+      name = "[Promo] Poci├│n Mental 3",
+      group = 6
+    },
+    {
+      id = 22979,
+      prob = 1000,
+      name = "[Evento] Manual y Goma de Mascar",
+      group = 6
+    },
+    {
+      id = 101367,
+      prob = 1000,
+      name = "[Evento] Poci├│n de Mana Peque├▒a 3",
+      group = 6
+    },
+    {
+      id = 14847,
+      prob = 1000,
+      name = "[Promo] Poci├│n de Vida Peque├▒a 3",
+      group = 6
+    },
+    {
+      id = 6413,
+      prob = 1000,
+      name = "Seguro Nuevo 3",
+      group = 6
+    },
+    {
+      id = 7621,
+      prob = 1000,
+      name = "Amuleto de Siegfried",
+      group = 6
+    },
+    {
+      id = 6635,
+      prob = 600,
+      name = "Bendici├│n del Herrero",
+      group = 6
+    },
+    {
+      id = 23284,
+      prob = 600,
+      name = "Kit de Domesticaci├│n III 2",
+      group = 6
+    },
+    {
+      id = 23032,
+      prob = 600,
+      name = "Cj. de Poci├│n Menos",
+      group = 6
+    },
+    {
+      id = 22996,
+      prob = 600,
+      name = "[Evento] Neutralizador",
+      group = 6
+    },
+    {
+      id = 23436,
+      prob = 600,
+      name = "Martillo de Sombra Holgren",
+      group = 6
+    },
+    {
+      id = 24363,
+      prob = 400,
+      name = "Elegantes Guantes de Sombra",
+      group = 6
+    },
+    {
+      id = 24365,
+      prob = 400,
+      name = "Collar de Sombras Elegante",
+      group = 6
+    },
+    {
+      id = 24364,
+      prob = 400,
+      name = "Pendiente Sombr├¡o Elegante",
+      group = 6
+    },
+    {
+      id = 24383,
+      prob = 400,
+      name = "Guantes de Sombras Encantadas",
+      group = 6
+    },
+    {
+      id = 24384,
+      prob = 400,
+      name = "Pendiente de Sombras Encantadora",
+      group = 6
+    },
+    {
+      id = 24385,
+      prob = 400,
+      name = "Collar de Sombras Encantadora",
+      group = 6
+    },
+    {
+      id = 100629,
+      prob = 200,
+      name = "Cubo Sombr├¡o M├ígico",
+      group = 6
+    },
+    {
+      id = 100628,
+      prob = 200,
+      name = "Cubo Sombr├¡o F├¡sico",
+      group = 6
+    },
+    {
+      id = 23161,
+      prob = 200,
+      name = "Caja Rebelde",
+      group = 6
+    },
+    {
+      id = 23310,
+      prob = 200,
+      name = "Cesta Felina",
+      group = 6
+    },
+    {
+      id = 12793,
+      prob = 200,
+      name = "P├¡ldora de Combate (10)",
+      group = 6
+    },
+    {
+      id = 23168,
+      prob = 80,
+      name = "Caja de Ventilador",
+      group = 6
+    },
+    {
+      id = 19268,
+      prob = 80,
+      name = "Aliento de Cara de Gusano",
+      group = 6
+    },
+    {
+      id = 400000,
+      prob = 40,
+      name = "Canci├│n",
+      group = 6
+    },
+    {
+      id = 5593,
+      prob = 70,
+      name = "Capucha de Conejo [1]",
+      group = 6
+    },
+    {
+      id = 18522,
+      prob = 70,
+      name = "Sombrero de la Banda Del Mal [1]",
+      group = 6
+    },
+    {
+      id = 18528,
+      prob = 70,
+      name = "Gatito Malhumorado [1]",
+      group = 6
+    },
+    {
+      id = 19244,
+      prob = 70,
+      name = "Rosario Dorado",
+      group = 6
+    },
+    {
+      id = 6230,
+      prob = 15,
+      name = "Pergamino de Arma +7",
+      group = 6
+    },
+    {
+      id = 6234,
+      prob = 15,
+      name = "Pergamino de Armadura +7",
+      group = 6
+    },
+    {
+      id = 6229,
+      prob = 10,
+      name = "Pergamino de Arma +8",
+      group = 6
+    },
+    {
+      id = 6233,
+      prob = 10,
+      name = "Pergamino de Armadura +8",
+      group = 6
+    },
+    {
+      id = 470033,
+      prob = 5,
+      name = "Bota Elemental [1]",
+      group = 6
+    }
+  },
+  [104903] = {
+    {
+      id = 1000274,
+      prob = 1,
+      name = "Cup├│n de Millas Kachua",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 1613,
+      name = "Boleto de Viaje Mundial 5",
+      group = 6
+    },
+    {
+      id = 23047,
+      prob = 1613,
+      name = "[Evento] Bendici├│n de Tyr 3",
+      group = 6
+    },
+    {
+      id = 12684,
+      prob = 1613,
+      name = "Poci├│n de Oro 3",
+      group = 6
+    },
+    {
+      id = 23048,
+      prob = 1613,
+      name = "[Evento] Poci├│n de Regeneraci├│n 3",
+      group = 6
+    },
+    {
+      id = 9908,
+      prob = 1613,
+      name = "[Promo] Poci├│n Mental 3",
+      group = 6
+    },
+    {
+      id = 22979,
+      prob = 1000,
+      name = "[Evento] Manual y Goma de Mascar",
+      group = 6
+    },
+    {
+      id = 101367,
+      prob = 1000,
+      name = "[Evento] Poci├│n de Mana Peque├▒a 3",
+      group = 6
+    },
+    {
+      id = 14847,
+      prob = 1000,
+      name = "[Promo] Poci├│n de Vida Peque├▒a 3",
+      group = 6
+    },
+    {
+      id = 6413,
+      prob = 1000,
+      name = "Seguro Nuevo 3",
+      group = 6
+    },
+    {
+      id = 7621,
+      prob = 1000,
+      name = "Amuleto de Siegfried",
+      group = 6
+    },
+    {
+      id = 6635,
+      prob = 600,
+      name = "Bendici├│n del Herrero",
+      group = 6
+    },
+    {
+      id = 23284,
+      prob = 600,
+      name = "Kit de Domesticaci├│n III 2",
+      group = 6
+    },
+    {
+      id = 23032,
+      prob = 600,
+      name = "Cj. de Poci├│n Menos",
+      group = 6
+    },
+    {
+      id = 22996,
+      prob = 600,
+      name = "[Evento] Neutralizador",
+      group = 6
+    },
+    {
+      id = 23436,
+      prob = 600,
+      name = "Martillo de Sombra Holgren",
+      group = 6
+    },
+    {
+      id = 24363,
+      prob = 400,
+      name = "Elegantes Guantes de Sombra",
+      group = 6
+    },
+    {
+      id = 24365,
+      prob = 400,
+      name = "Collar de Sombras Elegante",
+      group = 6
+    },
+    {
+      id = 24364,
+      prob = 400,
+      name = "Pendiente Sombr├¡o Elegante",
+      group = 6
+    },
+    {
+      id = 24383,
+      prob = 400,
+      name = "Guantes de Sombras Encantadas",
+      group = 6
+    },
+    {
+      id = 24384,
+      prob = 400,
+      name = "Pendiente de Sombras Encantadora",
+      group = 6
+    },
+    {
+      id = 24385,
+      prob = 400,
+      name = "Collar de Sombras Encantadora",
+      group = 6
+    },
+    {
+      id = 100629,
+      prob = 200,
+      name = "Cubo Sombr├¡o M├ígico",
+      group = 6
+    },
+    {
+      id = 100628,
+      prob = 200,
+      name = "Cubo Sombr├¡o F├¡sico",
+      group = 6
+    },
+    {
+      id = 23161,
+      prob = 200,
+      name = "Caja Rebelde",
+      group = 6
+    },
+    {
+      id = 23310,
+      prob = 200,
+      name = "Cesta Felina",
+      group = 6
+    },
+    {
+      id = 12793,
+      prob = 200,
+      name = "P├¡ldora de Combate (10)",
+      group = 6
+    },
+    {
+      id = 23168,
+      prob = 80,
+      name = "Caja de Ventilador",
+      group = 6
+    },
+    {
+      id = 19268,
+      prob = 80,
+      name = "Aliento de Cara de Gusano",
+      group = 6
+    },
+    {
+      id = 400000,
+      prob = 40,
+      name = "Canci├│n",
+      group = 6
+    },
+    {
+      id = 5593,
+      prob = 70,
+      name = "Capucha de Conejo [1]",
+      group = 6
+    },
+    {
+      id = 18522,
+      prob = 70,
+      name = "Sombrero de la Banda Del Mal [1]",
+      group = 6
+    },
+    {
+      id = 18528,
+      prob = 70,
+      name = "Gatito Malhumorado [1]",
+      group = 6
+    },
+    {
+      id = 19244,
+      prob = 70,
+      name = "Rosario Dorado",
+      group = 6
+    },
+    {
+      id = 6230,
+      prob = 15,
+      name = "Pergamino de Arma +7",
+      group = 6
+    },
+    {
+      id = 6234,
+      prob = 15,
+      name = "Pergamino de Armadura +7",
+      group = 6
+    },
+    {
+      id = 6229,
+      prob = 10,
+      name = "Pergamino de Arma +8",
+      group = 6
+    },
+    {
+      id = 6233,
+      prob = 10,
+      name = "Pergamino de Armadura +8",
+      group = 6
+    },
+    {
+      id = 470033,
+      prob = 5,
+      name = "Bota Elemental [1]",
       group = 6
     }
   },
@@ -40451,9 +40923,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 104903,
       prob = 0,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      name = "[Evento] Artefacto Ovalado Rebelde 11",
       group = 0
     }
   },
@@ -40471,9 +40943,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 104903,
       prob = 0,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      name = "[Evento] Artefacto Ovalado Rebelde 11",
       group = 0
     }
   },
@@ -40497,9 +40969,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 104903,
       prob = 0,
-      name = "[Evento] Artefacto Ovalado Ardiente 20",
+      name = "[Evento] Artefacto Ovalado Rebelde 20",
       group = 0
     }
   },
@@ -40523,9 +40995,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 104903,
       prob = 0,
-      name = "[Evento] Artefacto Ovalado Ardiente 20",
+      name = "[Evento] Artefacto Ovalado Rebelde 20",
       group = 0
     }
   },

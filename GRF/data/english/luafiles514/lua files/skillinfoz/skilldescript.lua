@@ -7879,7 +7879,7 @@ SKILL_DESCRIPT = {
     "Description: ^777777Reduces your HP to 1 and revives all the party members on the screen at the cost of 800 SP. Heals the HP of every revived player by 50%."
   },
   [SKID.MO_KITRANSLATION] = {
-    "Spirit translation",
+    "Spirit Translation",
     "Skill Requirement: ^777777Quest complete^000000",
     "Skill Type: ^993300Active^000000",
     "Type : ^777777Buff^000000",

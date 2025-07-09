@@ -6708,7 +6708,7 @@ SKILL_DESCRIPT = {
     "chico y chica Taekwon.^000000"
   },
   [SKID.SL_HIGH] = {
-    "EspÝritu de EspÝritu de Trascendente",
+    "EspÝritu de Trascendente",
     "Nv. mßx.: 5",
     "Habilidad requerida: ^777777EspÝritu de Superprincipianteá5^000000",
     "Forma de habilidad: ^777777Apoyo^000000",
@@ -8178,7 +8178,7 @@ SKILL_DESCRIPT = {
     "Requiere un cuenco para medicina y un kit de veneno, y cada veneno debe tener los materiales necesarios.",
     "Ademßs, el tiempo de veneno letal aumenta 15ásegundos por nivel a partir de 45ásegundos.^000000",
     "[Nivelá1]: ^777777Probabilidad de Úxitoá35á%/Parßlisis: 20áPieles de sapo venenoso, 1áHierba venenosa amoena^000000",
-    "[Nivelá2]: ^777777Probabilidad de Úxitoá40á%/Pirexia: \t20áPieles de Anolian, 1áHierba venenosa rantana^000000",
+    "[Nivelá2]: ^777777Probabilidad de Úxitoá40á%/Pirexia: 20áPieles de Anolian, 1áHierba venenosa rantana^000000",
     "[Nivelá3]: ^777777Probabilidad de Úxitoá45á%/Herida mortal: 25áU±as descompuestas, 1áHierba venenosa seratum^000000",
     "[Nivelá4]: ^777777Probabilidad de Úxitoá50á%/Sanguijuela letal: 1áHierba venenosa scopolia, 1áHierba venenosa nerium^000000",
     "[Nivelá5]: ^777777Probabilidad de Úxitoá55á%/AntÝdoto: 2áHierbas verdes, 1áHierba azul, 1áHierba blanca^000000",

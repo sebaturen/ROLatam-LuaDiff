@@ -17885,108 +17885,104 @@ QuestInfoList = {
     Summary = "Derrote 100 esporos venenosos na gaiola"
   },
   [7776] = {
-    Title = "Sinal suspeito",
-    IconName = "ico_jq.bmp",
+    Title = "IlusÒo da Lua",
     Description = {
-      "Os anciÒos de Payon estÒo preocupados com o aprendiz do Elo das Almas, Muyeon, que desapareceu durante um ritual. Eu deveria falar com o jovem estudioso na entrada da caverna de Payon."
+      "Os AnciÒos de Payon estÒo preocupados com a Aprendiz de Espiritualista. Converse com o Jovem na entrada da Caverna Payon."
     },
-    Summary = "Converse com o Young Scholar."
+    Summary = "Para a Caverna de Payon"
   },
   [7777] = {
-    Title = "O que aconteceu?",
-    IconName = "ico_jq.bmp",
+    Title = "IlusÒo da Lua",
     Description = {
-      "Muyeon foi para o palßcio isolado. O jovem acadÛmico quer perguntar a ela o que aconteceu."
+      "O jovem quer saber o que aconteceu com a Aprendiz de Espiritualista."
     },
-    Summary = "Fale com Muyeon."
+    Summary = "Fale com Muyeon"
   },
   [7778] = {
-    Title = "O que Muyeon viu",
-    IconName = "ico_jq.bmp",
+    Title = "IlusÒo da Lua",
     Description = {
-      "Muyeon estß agitada com algo que viu durante o ritual de purificaþÒo. Ela disse que eu deveria ver com meus pr¾prios olhos."
+      "Parece que algo foi visto durante o ritual. Vou conferir isso."
     },
-    Summary = "Fale com Muyeon."
+    Summary = "Continue a conversa"
   },
   [7779] = {
-    Title = "Ritual angustiante",
-    IconName = "ico_jq.bmp",
+    Title = "IlusÒo da Lua",
     Description = {
-      "Muyeon disse que poderia me deixar ter uma experiÛncia em primeira mÒo do ritual de purgaþÒo. ╔ melhor eu me preparar e falar com ela."
+      "Se vamos tentar fazer o ritual novamente, melhor me preparar."
     },
-    Summary = "Fale com Muyeon."
+    Summary = "Continue a conversa"
   },
   [7780] = {
-    Title = "Pesadelo na vila em ruÝnas",
-    IconName = "ico_jq.bmp",
+    Title = "IlusÒo da Lua",
     Description = {
-      "Desmaiei durante o ritual e cheguei Ó aldeia em ruÝnas dentro da Payon Cave. Esse portal cintilante Ó minha frente estß relacionado ao pesadelo que Muyeon me contou?"
+      "Desmaiei durante o ritual e cheguei Ó Caverna Payon. Essa energia oscilante na minha frente estß conectada ao pesadelo que me contaram?"
     },
-    Summary = "Investigue o portal cintilante."
+    Summary = "Investigue a Energia"
   },
   [7781] = {
-    Title = "Pesadelo na vila em ruÝnas",
-    IconName = "ico_jq.bmp",
+    Title = "IlusÒo da Lua",
     Description = {
-      "O jovem estudioso foi sugado para dentro do portal cintilante na aldeia em ruÝnas dentro da caverna Payon."
+      "O jovem e o soldado foram sugados pela Energia Oscilante. Devemos investigar."
     },
-    Summary = "Fale com Chunghae do outro lado do portal."
+    Summary = "Vamos investigar"
   },
   [7782] = {
-    Title = "Detenha o Mago!",
-    IconName = "ico_jq.bmp",
+    Title = "A Verdade!",
+    IconName = "ico_dq.bmp",
     Description = {
-      "O acadÛmico Chunghae, na masmorra Pesadelo da Flor do Luar, acha que o ^4d4dffWizard of the Truth^000000 Ú o responsßvel por esse incidente. Ele me pediu que cuidasse dele."
+      "Suspeita-se que ^4d4dffVeritas^000000 seja o responsßvel pelo acidente no Vilarejo Abandonado."
     },
-    Summary = "Elimine 1 Mago da Verdade."
+    Summary = "Elimine 1 Veritas"
   },
   [7783] = {
-    Title = "Detenha o Mago! - Pendente",
-    IconName = "ico_jq.bmp",
+    Title = "[Espera] A Verdade!",
+    IconName = "ico_dq.bmp",
     Description = {
-      "VocÛ pode receber novamente essa missÒo dißria do estudioso Chunghae na masmorra Nightmare of the Moonlight Flower depois que ela esfriar."
+      "Vamos aguardar o tempo de espera para repetir a missÒo."
     },
-    Summary = "Reseta 4 da manhÒ"
+    Summary = "Reseta 4 da manhÒ",
+    CoolTimeQuest = 1
   },
   [7784] = {
-    Title = "No Mercy for Illusions",
-    IconName = "ico_jq.bmp",
+    Title = "Sem Piedade!",
+    IconName = "ico_dq.bmp",
     Description = {
-      "O soldado Junghee, na masmorra Nightmare of the Moonlight Flower, pediu que eu limpasse a ßrea ao redor dele de ^4d4dffAngry Nine Tails^000000."
+      "Vamos atender o pedido e caþar 20 ^4d4dffRaposas Raivosas^000000."
     },
-    Summary = "Eliminar o Angry Nine Tails."
+    Summary = "Elimine 20 Raposas Raivosas"
   },
   [7785] = {
-    Title = "No Mercy for Illusions - Pendente",
-    IconName = "ico_jq.bmp",
+    Title = "[Espera] Sem Piedade!",
+    IconName = "ico_dq.bmp",
     Description = {
-      "VocÛ pode receber novamente essa missÒo dißria do Soldado Junghee na masmorra Nightmare of the Moonlight Flower depois que ela esfriar."
+      "Vamos aguardar o tempo de espera para repetir a missÒo."
     },
-    Summary = "Reseta 4 da manhÒ"
+    Summary = "Reseta 4 da manhÒ",
+    CoolTimeQuest = 1
   },
   [7786] = {
-    Title = "Lembrando meus antepassados",
-    IconName = "ico_jq.bmp",
+    Title = "Lembrando meus Ancestrais",
+    IconName = "ico_dq.bmp",
     Description = {
-      "O soldado Junghee, na masmorra Pesadelo da Flor do Luar, pediu-me para enviar ^4d4dffResentful Soldiers^000000 para o cÚu."
+      "Vamos atender o pedido de caþar 20 ^4d4dffArqueiros CruÚis^000000."
     },
-    Summary = "Eliminar soldados ressentidos."
+    Summary = "Elimine 20 Arqueiros CruÚis"
   },
   [7787] = {
-    Title = "Relembrando meus antepassados - Pendente",
-    IconName = "ico_jq.bmp",
+    Title = "[Espera] Lembrando meus Ancestrais",
+    IconName = "ico_dq.bmp",
     Description = {
-      "VocÛ pode receber novamente essa missÒo dißria do Soldado Junghee na masmorra Nightmare of the Moonlight Flower depois que ela esfriar."
+      "Vamos aguardar o tempo de espera para repetir a missÒo."
     },
-    Summary = "Reseta 4 da manhÒ"
+    Summary = "Reseta 4 da manhÒ",
+    CoolTimeQuest = 1
   },
   [7788] = {
-    Title = "Voltar para Muyeon",
-    IconName = "ico_jq.bmp",
+    Title = "IlusÒo da Lua",
     Description = {
-      "A investigaþÒo de Relay Chunghae resulta em ^4d4dffMuyeon^000000 no ^4d4dffDetached Payon Palace^000000."
+      "Vamos retornar ao ^4d4dffPalacete de Payon^000000 e ^4d4dffcontar o que aconteceu^000000."
     },
-    Summary = "Fale com Muyeon no Detached Palace."
+    Summary = "Fale com Muyeon"
   },
   [7790] = {
     Title = "Rockridge, terra da oportunidade",
@@ -32682,14 +32678,14 @@ QuestInfoList = {
     Description = {
       "Com o disfarce ativo, ande pelas salas para encontrar atÚ ^CD3278 10 ilus§es^000000 com o nome de Alvo dentro do tempo limite."
     },
-    Summary = "Elimine 10 ^CD3278Alvos^000000."
+    Summary = "Elimine 10 Alvos."
   },
   [12344] = {
     Title = "Mudanþa de Classe: Insurgente ",
     Description = {
       "Se acertar mais de 3 ilus§es com o nome ^CD3278NÒo-alvo^000000, vocÛ falharß no teste. Evite acertß-las a todo custo!"
     },
-    Summary = "Evite eliminar 3 ^CD3278NÒo-alvos^000000."
+    Summary = "Evite eliminar 3 NÒo-alvos."
   },
   [12345] = {
     Title = "Mudanþa de Classe: Insurgente",
@@ -33039,35 +33035,39 @@ QuestInfoList = {
     Summary = "Contrato com Emily"
   },
   [12417] = {
-    Title = "[Espera] Superando a fadiga",
+    Title = "[Espera] Vila dos Porings",
     Description = {
       "Parece que vocÛ precisa esperar atÚ as pr¾ximas 4 horas da manhÒ para visitar a Vila Poring."
     },
     Summary = "Reseta 4 da manhÒ."
   },
   [12418] = {
-    Title = "Primeira visita a Vila Poring",
+    Title = "Vila dos Porings",
     Description = {
       "Vamos desenvolver um relacionamento sincero com o pr¾ximo!"
     },
-    Summary = "Limpar."
+    Summary = "Primeira vez!"
   },
   [12419] = {
-    Title = "Aventura Orc's Memory 1F",
+    Title = "Batalha dos Orcs",
     Description = {
-      "Veja o que aconteceu no Orc's Memory Dungeon 1F"
+      "Veja o que acontece na Batalha dos Orcs",
+      "",
+      ""
     },
-    Summary = "Mem¾ria do Orc 1F"
+    Summary = "Complete a instÔncia"
   },
   [12420] = {
-    Title = "[Espera] RecuperaþÒo",
+    Title = "[Espera] Batalha dos Orcs",
     Description = {
-      "Parece difÝcil ver a mem¾ria de Orc novamente, a menos que vocÛ seja aliviado."
+      "Serß complicado entrar na Batalha dos Orcs sem descansar.",
+      "",
+      ""
     },
     Summary = "Reseta 4 da manhÒ."
   },
   [12421] = {
-    Title = "[Espera] Efeito colateral de salvar o mundo",
+    Title = "[Espera] Anomalia Dimensional",
     IconName = "ico_ev.bmp",
     Description = {
       "VocÛ recebeu a recompensa por salvar o mundo. VocÛ nÒo poderß recebÛ-la novamente antes que ela seja reiniciada."
@@ -36972,14 +36972,14 @@ QuestInfoList = {
   [14657] = {
     Title = "IlusÒo do Vampiro",
     Description = {
-      "O membro do grupo que nÒo voltou Ú Jojo. ╔ um Bruxo com roupas tÝpicas."
+      "O membro do grupo que nÒo voltou Ú Jojo. Ele tem roupas tÝpicas de Bruxo."
     },
     Summary = "Encontre Jojo"
   },
   [14658] = {
     Title = "IlusÒo do Vampiro",
     Description = {
-      "O membro do grupo que nÒo voltou Ú Jubilee. ╔ um Monge com roupas tÝpicas."
+      "O membro do grupo que nÒo voltou Ú Jubilee. Ele tem roupas tÝpicas de Monge."
     },
     Summary = "Encontre Jubilee"
   },
@@ -36993,16 +36993,16 @@ QuestInfoList = {
   [14660] = {
     Title = "Sangue falso",
     Description = {
-      "VocÛ precisa de alguns ingredientes para fazer sangue falso. Preciso de 10 Sangues Coagulados e 10 Seivas de Cogumelo."
+      "VocÛ precisa de alguns ingredientes para fazer sangue falso. SÒo eles: 10 Sangues Coagulados e 10 Seivas de Cogumelo."
     },
     Summary = "Coletar itens"
   },
   [14661] = {
     Title = "IlusÒo do Vampiro",
     Description = {
-      "NÒo estamos sozinhos aqui. Se vocÛ estß procurando uma festa, vocÛ deve se apressar."
+      "NÒo estamos sozinhos aqui. Se vocÛ estß procurando um grupo, vocÛ deve se apressar."
     },
-    Summary = "Vamos encontrar o assistente"
+    Summary = "Encontre o Assistente"
   },
   [14662] = {
     Title = "IlusÒo do Vampiro",
@@ -37028,7 +37028,7 @@ QuestInfoList = {
   [14665] = {
     Title = "IlusÒo do Vampiro",
     Description = {
-      "Preciso de um tempo. Aventureiros, por favor, visitem seu grupo."
+      "Preciso de um tempo. Viajante, por favor, visitem nosso grupo."
     },
     Summary = "Para IrmÒ Gemma"
   },
@@ -37041,20 +37041,24 @@ QuestInfoList = {
   },
   [14667] = {
     Title = "Descanso Eterno",
+    IconName = "ico_dq.bmp",
     Description = {
       "DÛ o descanso eterno para os mortos-vivos. Por favor, elimine 10 de todas as 3 espÚcies."
     },
-    Summary = "Elimine os monstros"
+    Summary = "Elimine Zumbis"
   },
   [14668] = {
     Title = "[Espera] Descanso Eterno",
+    IconName = "ico_dq.bmp",
     Description = {
-      "VocÛ fez um trabalho muito bom. AtÚ os aventureiros precisam descansar. Por favor, volte depois do amanhecer. - IrmÒ Gemma"
+      "VocÛ fez um trabalho muito bom. AtÚ os aventureiros precisam descansar. Por favor, volte depois do amanhecer.  - <NAVI>[IrmÒ Gemma]<INFO>gef_d01_i,113,230,0,101,0</INFO></NAVI>"
     },
-    Summary = "Volte amanhÒ"
+    Summary = "Reseta 4 da manhÒ.",
+    CoolTimeQuest = 1
   },
   [14669] = {
     Title = "Doce Sonho",
+    IconName = "ico_dq.bmp",
     Description = {
       "Elimine 10 Doces Pesadelos e traga 20 Crinas de Pesadelo para Ant¶nio."
     },
@@ -37062,17 +37066,20 @@ QuestInfoList = {
   },
   [14670] = {
     Title = "[Espera] Doce Sonho",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Por favor, volte depois do amanhecer. - Ant¶nio"
+      "Por favor, volte depois do amanhecer. - <NAVI>[Ant¶nio]<INFO>gef_d01_i,116,228,0,101,0</INFO></NAVI>"
     },
-    Summary = "Volte amanhÒ"
+    Summary = "Reseta 4 da manhÒ.",
+    CoolTimeQuest = 1
   },
   [14671] = {
     Title = "Coleta de Sangue",
+    IconName = "ico_dq.bmp",
     Description = {
       "Preciso de 10 Sangues Coagulados e 10 Seivas de Cogumelo. TambÚm gostaria que eliminasse 5 Mattiliar e 5 Cogumelos Explosivos."
     },
-    Summary = "Colete os itens"
+    Summary = "10 Sangue e Seiva"
   },
   [14672] = {
     Title = "Preparando-se para o Festival de Fogos de ArtifÝcio",
@@ -37090,13 +37097,16 @@ QuestInfoList = {
   },
   [14674] = {
     Title = "[Espera] Coleta de Sangue",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Ainda assim, nÒo estou com fome. Depois do amanhecer, estarei com fome novamente. Por favor, volte entÒo. - Bomi"
+      "Ainda assim, nÒo estou com fome. Depois do amanhecer, estarei com fome novamente. Por favor, volte entÒo. - <NAVI>[Bomi]<INFO>gef_d01_i,81,135,0,101,0</INFO></NAVI>"
     },
-    Summary = "Volte amanhÒ"
+    Summary = "Reseta 4 da manhÒ.",
+    CoolTimeQuest = 1
   },
   [14675] = {
     Title = "Barulho Irritante",
+    IconName = "ico_dq.bmp",
     Description = {
       "Estou irritado com aquele morcego barulhento. Elimine 10 Mattiliar e traga 20 Cabelos de Morcego."
     },
@@ -37104,38 +37114,46 @@ QuestInfoList = {
   },
   [14676] = {
     Title = "[Espera] Barulho Irritante",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Estß tudo tranquilo agora graþas a vocÛ. Mas com o tempo, eles virÒo novamente. EntÒo volte e me ajude - Qing."
+      "Estß tudo tranquilo agora graþas a vocÛ. Mas com o tempo, eles virÒo novamente. EntÒo volte e me ajude. - <NAVI>[Qing]<INFO>gef_d01_i,185,97,0,101,0</INFO></NAVI>"
     },
-    Summary = "Volte amanhÒ"
+    Summary = "Reseta 4 da manhÒ.",
+    CoolTimeQuest = 1
   },
   [14677] = {
     Title = "Luz para Todos",
+    IconName = "ico_dq.bmp",
     Description = {
       "Preciso de 10 Coßgulos de Pesadelo e 10 Esporos Brilhantes."
     },
-    Summary = "Colete os itens"
+    Summary = "10 Coßgulo e Esporo"
   },
   [14678] = {
     Title = "[Espera] Luz para Todos",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Quando o brilho dos esporos brilhantes desaparecer, por favor, volte. Vou estudar muito com isso. - Jojo"
+      "Quando o brilho dos esporos brilhantes desaparecer, por favor, volte. Vou estudar muito com isso. - <NAVI>[Jojo]<INFO>gef_d01_i,191,96,0,101,0</INFO></NAVI>"
     },
-    Summary = "Volte amanhÒ"
+    Summary = "Reseta 4 da manhÒ.",
+    CoolTimeQuest = 1
   },
   [14679] = {
     Title = "Curiosa e Empolgada",
+    IconName = "ico_dq.bmp",
     Description = {
       "Me traga 10 Folhas Secas de Yggdrasil e 10 Pentßculos Suspeitos. Elimine 5 Mortos-Vivos de cada tipo."
     },
-    Summary = "Colete os itens"
+    Summary = "10 Folha e Pentßculo"
   },
   [14680] = {
     Title = "[Espera] Curiosa e Empolgada",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Eu tenho que estudar isso agora, entÒo eu nÒo tenho tempo para falar. - Mojo"
+      "Eu tenho que estudar isso agora, entÒo eu nÒo tenho tempo para falar. - <NAVI>[Mojo]<INFO>gef_dun01,134,224,0,101,0</INFO></NAVI>"
     },
-    Summary = "Volte amanhÒ"
+    Summary = "Reseta 4 da manhÒ.",
+    CoolTimeQuest = 1
   },
   [14683] = {
     Title = "Dispositivo Misterioso",
@@ -37912,6 +37930,7 @@ QuestInfoList = {
   },
   [15110] = {
     Title = "Combatendo o gelo com fogo",
+    IconName = "ico_dq.bmp",
     Description = {
       "Colete Dry Twigs para descongelar Zeith e Vrid na Ice Cave."
     },
@@ -37919,6 +37938,7 @@ QuestInfoList = {
   },
   [15111] = {
     Title = "Caþa aos furiosos TitÒs de Gelo",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid quer quebrar o gelo com gelo. Caþar 10 Furious Ice Titans."
     },
@@ -37926,6 +37946,7 @@ QuestInfoList = {
   },
   [15112] = {
     Title = "Abordagem direta",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vamos quebrar o gelo batendo nele. Bata primeiro no gelo ao redor de Zeith."
     },
@@ -37933,6 +37954,7 @@ QuestInfoList = {
   },
   [15113] = {
     Title = "Abordagem direta",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vamos quebrar o gelo batendo nele. Bata primeiro no gelo ao redor de Vrid."
     },
@@ -47106,7 +47128,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
   [21405] = {
     Title = "MissÒo Regional: Comodo",
     Description = {
-      "O <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> pediu para ir atÚ <NAVI>[a casa]<INFO>comodo,189,311,0,101,0</INFO></NAVI> dele."
+      "O <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> pediu para ir atÚ <NAVI>[a casa]<INFO>comodo,249,300,0,101,0</INFO></NAVI> dele."
     },
     Summary = "Fale com Bunny"
   },
@@ -47120,7 +47142,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
   [21407] = {
     Title = "MissÒo Regional: Comodo",
     Description = {
-      "Cerabi disse que massagear com os tentßculos da hidra melhorarß a condiþÒo. Elimine 10 <NAVI>[Hidras]<INFO>beach_dun3,23,260,0,101,0</INFO></NAVI> e leve 5 <ITEM>[Tentßculos]<INFO>962</INFO></ITEM> para o <NAVI>[Bunny]<INFO>comodo,249,300,0,101,0</INFO></NAVI> em Comodo."
+      "Cerabi disse que massagear com os tentßculos da hidra melhorarß a condiþÒo. Elimine 10 <NAVI>[Hidras]<INFO>beach_dun3,23,260,0,101,0</INFO></NAVI> e leve 5 <ITEM>[Tentßculos]<INFO>962</INFO></ITEM> para <NAVI>[Bunny]<INFO>comodo,249,300,0,101,0</INFO></NAVI> em Comodo."
     },
     Summary = "5 Tentßculos"
   },
@@ -50515,7 +50537,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
     Description = {
       "Esta Ú uma missÒo dißria. Ap¾s o tempo de espera expirar, vocÛ pode aceitß-la novamente. A missÒo pode ser aceita com Soluþo no Lago Calmo do Abismo."
     },
-    Summary = "Reinicia Ós 4h",
+    Summary = "Reseta Ós 4h",
     CoolTimeQuest = 1
   },
   [23333] = {
@@ -50539,7 +50561,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
     Description = {
       "Esta Ú uma missÒo dißria. Ap¾s o tempo de espera expirar, vocÛ pode aceitß-la novamente. A missÒo pode ser aceita com Banguela no Lago Calmo do Abismo."
     },
-    Summary = "Reinicia Ós 4h",
+    Summary = "Reseta Ós 4h",
     CoolTimeQuest = 1
   },
   [23336] = {
@@ -50583,7 +50605,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
     Description = {
       "Esta Ú uma missÒo dißria. Ap¾s o tempo de espera expirar, vocÛ pode aceitß-la novamente. A missÒo pode ser aceita com Astrid no Lago Calmo do Abismo."
     },
-    Summary = "Reinicia Ós 4h",
+    Summary = "Reseta Ós 4h",
     CoolTimeQuest = 1
   },
   [23342] = {
@@ -50627,7 +50649,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
     Description = {
       "Esta Ú uma missÒo dißria. Ap¾s o tempo de espera expirar, vocÛ pode aceitß-la novamente. A missÒo pode ser aceita com Cabeþaquente no Lago Calmo do Abismo."
     },
-    Summary = "Reinicia Ós 4h",
+    Summary = "Reseta Ós 4h",
     CoolTimeQuest = 1
   },
   [23348] = {
@@ -50643,7 +50665,7 @@ NpcSpr = [=[4_M_RACHMAN1]]
     Description = {
       "Esta Ú uma missÒo dißria. Ap¾s o tempo de espera expirar, vocÛ pode aceitß-la novamente. A missÒo pode ser aceita com Cabeþadura no Lago Calmo do Abismo."
     },
-    Summary = "Reinicia Ós 4h",
+    Summary = "Reseta Ós 4h",
     CoolTimeQuest = 1
   },
   [23350] = {

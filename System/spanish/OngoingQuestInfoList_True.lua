@@ -17862,7 +17862,7 @@ QuestInfoList = {
   [7776] = {
     Title = "Se±al sospechosa",
     Description = {
-      "Los Ancianos de Payon estßn preocupados por Muyeon, el aprendiz de Vinculador de alma, que desapareci¾ durante un ritual. DeberÝa hablar con el joven erudito a la entrada de la Cueva de Payon."
+      "Los Ancianos de Payon estßn preocupados por Muyeon, la aprendiz de Vinculador de alma, que desapareci¾ durante un ritual. DeberÝa hablar con el joven erudito a la entrada de la Cueva de Payon."
     },
     Summary = "Habla con el joven erudito."
   },
@@ -17876,14 +17876,14 @@ QuestInfoList = {
   [7778] = {
     Title = "Lo que vio Muyeon",
     Description = {
-      "Muyeon estß nerviosa por algo que vio durante el ritual de limpieza. Dijo que deberÝa verlo con mis propios ojos."
+      "Muyeon estß nerviosa por algo que vio durante el ritual de purificaci¾n. Dijo que deberÝa verlo con mis propios ojos."
     },
     Summary = "Habla con Muyeon."
   },
   [7779] = {
     Title = "Un ritual abrumador",
     Description = {
-      "Muyeon dice que podrÝa dejarme tener una experiencia directa del ritual de limpieza. Serß mejor que me prepare y hable con ella."
+      "Muyeon dice que podrÝa dejarme tener una experiencia directa del ritual de purificaci¾n. Serß mejor que me prepare y hable con ella."
     },
     Summary = "Habla con Muyeon."
   },
@@ -17903,6 +17903,7 @@ QuestInfoList = {
   },
   [7782] = {
     Title = "íDetengan al Hechicero!",
+    IconName = "ico_dq.bmp",
     Description = {
       "El erudito Chunghae en la mazmorra Pesadilla de la Flor Lunar cree que el ^4d4dffHechicero de la verdad^000000 es el responsable de este incidente. Me pidi¾ que lo cuide."
     },
@@ -17910,6 +17911,7 @@ QuestInfoList = {
   },
   [7783] = {
     Title = "íDetengan al Hechicero! (pendiente)",
+    IconName = "ico_dq.bmp",
     Description = {
       "Puedes volver a recibir esta misi¾n diaria del erudito Chunghae en la mazmorra Pesadilla de la Flor Lunar despuÚs del tiempo de espera."
     },
@@ -17918,6 +17920,7 @@ QuestInfoList = {
   },
   [7784] = {
     Title = "Sin piedad para las ilusiones",
+    IconName = "ico_dq.bmp",
     Description = {
       "El recluta Junghee en la mazmorra Pesadilla de la Flor Lunar me pidi¾ que elimine a los ^4d4dffNueve colas furiosas^000000 de la zona a su alrededor."
     },
@@ -17925,6 +17928,7 @@ QuestInfoList = {
   },
   [7785] = {
     Title = "Sin piedad para las ilusiones (pendiente)",
+    IconName = "ico_dq.bmp",
     Description = {
       "Puedes volver a recibir esta misi¾n diaria del recluta Junghee en la mazmorra Pesadilla de la Flor Lunar despuÚs del tiempo de espera."
     },
@@ -17933,6 +17937,7 @@ QuestInfoList = {
   },
   [7786] = {
     Title = "Recordando a mis antepasados",
+    IconName = "ico_dq.bmp",
     Description = {
       "El recluta Junghee en la mazmorra Pesadilla de la Flor lunar me pidi¾ enviar al cielo a los^4d4dffReclutas resentidos^000000."
     },
@@ -17940,6 +17945,7 @@ QuestInfoList = {
   },
   [7787] = {
     Title = "Recordando a mis antepasados (pendiente)",
+    IconName = "ico_dq.bmp",
     Description = {
       "Puedes volver a recibir esta misi¾n diaria del recluta Junghee en la mazmorra Pesadilla de la Flor Lunar despuÚs del tiempo de espera."
     },
@@ -32919,7 +32925,7 @@ QuestInfoList = {
     Description = {
       "Si matas mßs de 3 ilusiones con el nombre ^CD3278Objetivo Defectuoso^000000, fallarßs la prueba. íEvita golpearlas a toda costa!"
     },
-    Summary = "Evita eliminar 3 ^CD3278Objetivo Defectuoso^000000."
+    Summary = "Evita eliminar 3 Objetivo Defectuoso."
   },
   [12345] = {
     Title = "Cambio de clase a Rebelde",
@@ -37288,144 +37294,151 @@ QuestInfoList = {
     Summary = "Te verÚ en 4ádÝas."
   },
   [14652] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "┐PodrÝas ayudarnos? Esta va a ser una larga historia. DÚjame beber un poco de agua primero."
     },
-    Summary = "Place Holder"
+    Summary = "Habla con Grimm"
   },
   [14653] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "Por favor, lee este cuaderno."
     },
-    Summary = "Place Holder"
+    Summary = "Habla con Grimm"
   },
   [14654] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "Si terminaste de leer el cuaderno, me gustarÝa hablar contigo."
     },
-    Summary = "Place Holder"
+    Summary = "Habla con Grimm"
   },
   [14655] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "AvÝsame cuando estÚs listo."
     },
-    Summary = "Place Holder"
+    Summary = "Habla con Grimm"
   },
   [14656] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "Por favor, ve al lugar mßs allß de este cuaderno y comprueba si Nun Gem y los demßs de mi grupo estßn a salvo."
     },
-    Summary = "Place Holder"
+    Summary = "Encuentra a Gem"
   },
   [14657] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "El mago que no ha regresado se llama Jojo. Es un mago tÝpico, asÝ que estoy bastante seguro de que no lo extra±arßs."
     },
-    Summary = "Place Holder"
+    Summary = "Encuentra a Jojo"
   },
   [14658] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "El sacerdote que no ha regresado se llama Jubilee. Es un sacerdote tÝpico, asÝ que estoy bastante seguro de que no lo extra±arßs."
     },
-    Summary = "Place Holder"
+    Summary = "Encuentra a Jubilee"
   },
   [14659] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "Bomi estß absorta en sus pensamientos. DeberÝa hablar con ella mßs tarde."
     },
-    Summary = "Place Holder"
+    Summary = "Hablar con Bomi"
   },
   [14660] = {
-    Title = "Invisible Quest",
+    Title = "Sangre Falsa",
     Description = {
-      "Place Holder"
+      "Necesito algunas cosas para crear sangre falsa: la sangre pegajosa de los Drainliars Mate y la savia de los Hongos Ne¾n. Solo necesito 10 de cada una."
     },
-    Summary = "Place Holder"
+    Summary = "Recolectar objetos"
   },
   [14661] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "No somos los ·nicos aquÝ. Si buscas a tus amigos, date prisa."
     },
-    Summary = "Place Holder"
+    Summary = "Encuentra a Jojo"
   },
   [14662] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "íTodos, paren lo que estÚn haciendo! Huelo algo..."
     },
-    Summary = "Place Holder"
+    Summary = "Hablar con Rey"
   },
   [14663] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "Huelo sangre. íHa estallado una pelea cerca de aquÝ!"
     },
-    Summary = "Place Holder"
+    Summary = "Ubica la escena de la pelea"
   },
   [14664] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "Bomi tiene sentimientos encontrados al mirar al herido Drßcula. DeberÝa darle un tiempo para recomponerse."
     },
-    Summary = "Place Holder"
+    Summary = "Hablar con Bomi"
   },
   [14665] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "Necesito un tiempo para mÝ. DeberÝas volver con tus amigos."
     },
-    Summary = "Place Holder"
+    Summary = "De vuelta con la Gema"
   },
   [14666] = {
-    Title = "Invisible Quest",
+    Title = "Ilusi¾n de Vampiro",
     Description = {
-      "Place Holder"
+      "Nos quedaremos aquÝ para vigilar a esos vampiros. Por favor, avÝsale al Padre Grimm."
     },
-    Summary = "Place Holder"
+    Summary = "Habla con Grimm"
   },
   [14667] = {
-    Title = "Invisible Quest",
+    Title = "Enviar de Vuelta",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Estas pobres almas necesitan descansar. Por favor, devuelvan a todos los muertos a la tierra. Elimina los 3 tipos, 10 por tipo."
     },
-    Summary = "Place Holder"
+    Summary = "Muertos Inquietos"
   },
   [14668] = {
-    Title = "Invisible Quest",
+    Title = "[Espera] Enviar de Vuelta",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Gracias por tu esfuerzo. DeberÝas descansar un poco. Por favor, regresa despuÚs del amanecer. - <NAVI>[Gema]<INFO>gef_d01_i,113,230,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reinicio a las 4:00 a. m.",
+    CoolTimeQuest = 1
   },
   [14669] = {
-    Title = "Invisible Quest",
+    Title = "Dulces Sue±os",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Quizßs la melena de Dulces Pesadillas sea la causa de las pesadillas. Quiero estudiarla. Por favor, trßeme 20 Crines Onduladas y tambiÚn caza 10 Dulces Pesadillas para que pueda examinar posibles cambios en los patrones de sue±o."
     },
-    Summary = "Place Holder"
+    Summary = "20 Crines Onduladas"
   },
   [14670] = {
-    Title = "Invisible Quest",
+    Title = "[Espera] Dulces Sue±os",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Aventurero, ┐por quÚ no vas a dormir un poco? Puedes volver al amanecer. - <NAVI>[Antone]<INFO>gef_d01_i,116,228,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reinicio a las 4:00 a. m.",
+    CoolTimeQuest = 1
   },
   [14671] = {
-    Title = "Invisible Quest",
+    Title = "Sangre Falsa poco Fiable",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Necesito algunas cosas para crear sangre falsa: la sangre pegajosa de los Drainliars Mate y la savia de los Hongos Ne¾n. Solo necesito 10 de cada una. Puedes conseguirlos si cazas al menos 5 Drainliars Mate y 5 Hongos Ne¾n."
     },
-    Summary = "Place Holder"
+    Summary = "Recoger Sangre Pegajosa y Savia de Hongo"
   },
   [14672] = {
     Title = "Preparativos para el Festival de Fuegos Artificiales",
@@ -37443,53 +37456,64 @@ QuestInfoList = {
     CoolTimeQuest = 1
   },
   [14674] = {
-    Title = "Invisible Quest",
+    Title = "[Espera] Sangre Falsa poco Fiable",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "TodavÝa no tengo hambre, pero la tendrÚ a la ma±ana siguiente. Por favor, vuelve despuÚs del amanecer. - <NAVI>[Bomi]<INFO>gef_d01_i,81,135,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reinicio a las 4:00 a. m.",
+    CoolTimeQuest = 1
   },
   [14675] = {
-    Title = "Invisible Quest",
+    Title = "Vecinos Ruidosos",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Estos ruidosos Drainliars Mate me estßn poniendo de los nervios. Caza 10 de ellos a mi alrededor, ┐quieres? Ah, y este tipo necesita unos 20 pelos de murciÚlago cortos."
     },
-    Summary = "Place Holder"
+    Summary = "20 pelos de murciÚlago cortos"
   },
   [14676] = {
-    Title = "Invisible Quest",
+    Title = "[Espera] Vecinos Ruidosos",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Gracias a ti, ahora estß todo tranquilo, pero esos Drainliars mate no aguantan mucho tiempo. Vuelve mßs tarde y b·scame algunos mßs, ┐quieres? - <NAVI>[Rey]<INFO>gef_d01_i,185,97,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reinicio a las 4:00 a. m.",
+    CoolTimeQuest = 1
   },
   [14677] = {
-    Title = "Invisible Quest",
+    Title = "Estudiando con Luz Tenue",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "He oÝdo que los Grupos de Pesadillas de Sweet Nightmares, al mezclarlos con esporas brillantes de Hongos Ne¾n y pegarlos sobre una superficie, forman una buena luz de lectura. ┐PodrÝas traerme 10 grupos y 10 esporas?"
     },
-    Summary = "Place Holder"
+    Summary = "Esporas Brillantes y Grupos de Pesadillas"
   },
   [14678] = {
-    Title = "Invisible Quest",
+    Title = "[Espera] Estudiando con Luz Tenue",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Estas esporas brillantes no brillarßn para siempre. Por favor, vuelve mßs tarde y ay·dame a reemplazarlas. Mientras tanto, me centrarÚ en mis estudios. - <NAVI>[Jojo]<INFO>gef_d01_i,191,96,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reinicio a las 4:00 a. m.",
+    CoolTimeQuest = 1
   },
   [14679] = {
-    Title = "Invisible Quest",
+    Title = "Curiosa por Naturaleza",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Por favor, trßeme 10 hojas secas de Yggdrasil y 10 pentßculos sospechosos. Quiero estudiarlos y probarlos. Ah, y serÝa genial si pudieras cazar 5 de cada tipo de Muertos Inquietos para el Padre Grimm."
     },
-    Summary = "Place Holder"
+    Summary = "Hojas Secas de Yggdrasil y Pentßculos Sospechosos"
   },
   [14680] = {
-    Title = "Invisible Quest",
+    Title = "[Espera] Curiosa por Naturaleza",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Lo siento, pero necesito concentrarme en mi investigaci¾n. Vuelve mßs tarde. - <NAVI>[Mojo]<INFO>gef_dun01,134,224,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reinicio a las 4:00 a. m.",
+    CoolTimeQuest = 1
   },
   [14683] = {
     Title = "Dispositivo misterioso",
@@ -38268,6 +38292,7 @@ QuestInfoList = {
   },
   [15110] = {
     Title = "Combatir el hielo con fuego",
+    IconName = "ico_dq.bmp",
     Description = {
       "Recolecta Ramitas secas para descongelar a Zeith y Vrid en la Cueva de hielo."
     },
@@ -38275,6 +38300,7 @@ QuestInfoList = {
   },
   [15111] = {
     Title = "CacerÝa de Titßn de hielo furioso",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid quiere romper el hielo con hielo. Caza 10áTitanes de hielo furiosos."
     },
@@ -38282,6 +38308,7 @@ QuestInfoList = {
   },
   [15112] = {
     Title = "Enfoque directo",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vamos a golpear el hielo para romperlo. Primero golpea el hielo alrededor de Zeith."
     },
@@ -38289,6 +38316,7 @@ QuestInfoList = {
   },
   [15113] = {
     Title = "Enfoque directo",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vamos a golpear el hielo para romperlo. Primero golpea el hielo alrededor de Vrid."
     },

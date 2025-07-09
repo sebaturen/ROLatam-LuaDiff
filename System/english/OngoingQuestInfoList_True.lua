@@ -17902,6 +17902,7 @@ QuestInfoList = {
   },
   [7782] = {
     Title = "Stop the Wizard!",
+    IconName = "ico_dq.bmp",
     Description = {
       "Scholar Chunghae in the Nightmare of the Moonlight Flower dungeon thinks the ^4d4dffWizard of the Truth^000000 is responsible for this incident. He asked me to take care of him."
     },
@@ -17909,6 +17910,7 @@ QuestInfoList = {
   },
   [7783] = {
     Title = "Stop the Wizard! - Pending",
+    IconName = "ico_dq.bmp",
     Description = {
       "You can re-receive this Daily quest from Scholar Chunghae in the Nightmare of the Moonlight Flower dungeon after it cools down."
     },
@@ -17917,6 +17919,7 @@ QuestInfoList = {
   },
   [7784] = {
     Title = "No Mercy for Illusions",
+    IconName = "ico_dq.bmp",
     Description = {
       "Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to clear the area around him of ^4d4dffAngry Nine Tails^000000."
     },
@@ -17924,6 +17927,7 @@ QuestInfoList = {
   },
   [7785] = {
     Title = "No Mercy for Illusions - Pending",
+    IconName = "ico_dq.bmp",
     Description = {
       "You can re-receive this Daily quest from Soldier Junghee in the Nightmare of the Moonlight Flower dungeon after it cools down."
     },
@@ -17932,6 +17936,7 @@ QuestInfoList = {
   },
   [7786] = {
     Title = "Remembering My Ancestors",
+    IconName = "ico_dq.bmp",
     Description = {
       "Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to send ^4d4dffResentful Soldiers^000000 to Heaven."
     },
@@ -17939,6 +17944,7 @@ QuestInfoList = {
   },
   [7787] = {
     Title = "Remebering My Ancestors - Pending",
+    IconName = "ico_dq.bmp",
     Description = {
       "You can re-receive this Daily quest from Soldier Junghee in the Nightmare of the Moonlight Flower dungeon after it cools down."
     },
@@ -32918,7 +32924,7 @@ QuestInfoList = {
     Description = {
       "If you hit more than 3 illusions with the name ^CD3278Faulty Shooting Target^000000, you will fail the test. Avoid hitting them at all costs!"
     },
-    Summary = "Avoid hitting 3 ^CD3278Faulty Shooting Target^000000."
+    Summary = "Avoid hitting 3 Faulty Shooting Target."
   },
   [12345] = {
     Title = "Job Change to Rebellion",
@@ -37284,144 +37290,151 @@ QuestInfoList = {
     Summary = "I will see you in 4 days."
   },
   [14652] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "Could you help us? This is going to be a long story. Let me drink some water first."
     },
-    Summary = "Place Holder"
+    Summary = "Talk to Grimm"
   },
   [14653] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "Please read this notebook."
     },
-    Summary = "Place Holder"
+    Summary = "Talk to Grimm"
   },
   [14654] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "If you're done reading the notebook, I'd like to talk to you."
     },
-    Summary = "Place Holder"
+    Summary = "Talk to Grimm"
   },
   [14655] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "Let me know when you're ready."
     },
-    Summary = "Place Holder"
+    Summary = "Talk to Grimm"
   },
   [14656] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "Please go to the place beyond this notebook and see if Nun Gem and the others in my group are safe."
     },
-    Summary = "Place Holder"
+    Summary = "Find Nun Gem"
   },
   [14657] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "The mage who hasn't returned is called Jojo. He's a typical mage, so I'm pretty sure you won't miss him."
     },
-    Summary = "Place Holder"
+    Summary = "Find Jojo"
   },
   [14658] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "The priest who hasn't returned is called Jubilee. He's a typical priest, so I'm pretty sure you won't miss him."
     },
-    Summary = "Place Holder"
+    Summary = "Find Jubilee"
   },
   [14659] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "Bomi is lost in thought. I should talk to her again later."
     },
-    Summary = "Place Holder"
+    Summary = "Talk to Bomi"
   },
   [14660] = {
-    Title = "Invisible Quest",
+    Title = "Fake Blood",
     Description = {
-      "Place Holder"
+      "I need some things to create fake blood: the sticky blood of Matte Drainliars and the sap of Neon Mushrooms. I only need 10 of each."
     },
-    Summary = "Place Holder"
+    Summary = "Collect items"
   },
   [14661] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "We aren't the only ones in here. If you're looking for your friends, then you'd better hurry."
     },
-    Summary = "Place Holder"
+    Summary = "Find Jojo"
   },
   [14662] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "Everyone, stop what you're doing! I smell something..."
     },
-    Summary = "Place Holder"
+    Summary = "Talk to King"
   },
   [14663] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "I smell blood. A fight's broken out near here!"
     },
-    Summary = "Place Holder"
+    Summary = "Locate the fighting scene"
   },
   [14664] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "Bomi is having mixed feelings, looking at the wounded Dracula. I should give her some time to collect herself."
     },
-    Summary = "Place Holder"
+    Summary = "Talk to Bomi"
   },
   [14665] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "I need some time to myself. You should go back to your friends."
     },
-    Summary = "Place Holder"
+    Summary = "Back to Nun Gem"
   },
   [14666] = {
-    Title = "Invisible Quest",
+    Title = "Illusion of Vampire",
     Description = {
-      "Place Holder"
+      "We're going to stay here and keep an eye on those vampires. Please let Father Grimm know."
     },
-    Summary = "Place Holder"
+    Summary = "Talk to Grimm"
   },
   [14667] = {
-    Title = "Invisible Quest",
+    Title = "Send Back",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "These poor souls need rest. Please send all the dead back to the earth. Eliminate all 3 kinds, 10 per kind."
     },
-    Summary = "Place Holder"
+    Summary = "Restless Dead"
   },
   [14668] = {
-    Title = "Invisible Quest",
+    Title = "[Wait] Send Back",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Thank you for your hard work. You should get some rest. Please come back after dawn.  - <NAVI>[Gem]<INFO>gef_d01_i,113,230,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reset at 4:00 a.m.",
+    CoolTimeQuest = 1
   },
   [14669] = {
-    Title = "Invisible Quest",
+    Title = "Sweet Dreams",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Maybe Sweet Nightmares' mane is the source of nightmares. I want to study it. Please bring me 20 Wavy Manes, and also hunt 10 Sweet Nightmares, so I can examine possible changes in dreaming patterns."
     },
-    Summary = "Place Holder"
+    Summary = "20 Wavy Manes"
   },
   [14670] = {
-    Title = "Invisible Quest",
+    Title = "[Wait] Sweet Dreams",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Adventurer, why don't you go catch some Zs? You can come back after dawn.  - <NAVI>[Antone]<INFO>gef_d01_i,116,228,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reset at 4:00 a.m.",
+    CoolTimeQuest = 1
   },
   [14671] = {
-    Title = "Invisible Quest",
+    Title = "Unreliable Fake Blood",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "I need some things to create fake blood: the sticky blood of Matte Drainliars and the sap of Neon Mushrooms. I only need 10 of each. You can get them if you hunt at least 5 Matte Drainliars and 5 Neon Mushrooms."
     },
-    Summary = "Place Holder"
+    Summary = "Collect Sticky Bloods and Mushroom Saps"
   },
   [14672] = {
     Title = "Preparing for the Firework Festival",
@@ -37439,53 +37452,64 @@ QuestInfoList = {
     CoolTimeQuest = 1
   },
   [14674] = {
-    Title = "Invisible Quest",
+    Title = "[Wait] Unreliable Fake Blood",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "I'm not hungry yet, but I will be by the next morning. Please come back after dawn. - <NAVI>[Bomi]<INFO>gef_d01_i,81,135,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reset at 4:00 a.m.",
+    CoolTimeQuest = 1
   },
   [14675] = {
-    Title = "Invisible Quest",
+    Title = "Noisy Neighbors",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "These loud Matte Drainliars are getting on my nerves. Hunt 10 of them around me, will you? Oh, and this guy needs about 20 Short Bat Hairs."
     },
-    Summary = "Place Holder"
+    Summary = "20 Short Bat Hairs"
   },
   [14676] = {
-    Title = "Invisible Quest",
+    Title = "[Wait] Noisy Neighbors",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Thanks to you, it's quiet now, but those Matte Drainliars can't keep themselves quiet for too long. Come back later and hunt a few more for me, will you? - <NAVI>[King]<INFO>gef_d01_i,185,97,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reset at 4:00 a.m.",
+    CoolTimeQuest = 1
   },
   [14677] = {
-    Title = "Invisible Quest",
+    Title = "Studying in Dim Light",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "I've heard Clusters of Nightmares from Sweet Nightmares, when mixed with shining spores from Neon Mushrooms and pasted on a surface, make a decent reading light. Could you bring me 10 clusters and 10 spores?"
     },
-    Summary = "Place Holder"
+    Summary = "Shining Spores and Clusters of Nightmares"
   },
   [14678] = {
-    Title = "Invisible Quest",
+    Title = "[Wait] Studying in Dim Light",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "These shining spores won't be glowing forever. Please come back later and help me replace them. In the meantime, I'll focus on my studies. - <NAVI>[Jojo]<INFO>gef_d01_i,191,96,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reset at 4:00 a.m.",
+    CoolTimeQuest = 1
   },
   [14679] = {
-    Title = "Invisible Quest",
+    Title = "Curious by Nature",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "Please bring me 10 Dried Yggdrasil Leaves and 10 Suspicious Pentacles. I want to study and test them. Oh, and it'll be great if you can hunt 5 of each Restless Dead type for Father Grimm."
     },
-    Summary = "Place Holder"
+    Summary = "Dried Yggdrasil Leaves and Suspicious Pentacles"
   },
   [14680] = {
-    Title = "Invisible Quest",
+    Title = "[Wait] Curious by Nature",
+    IconName = "ico_dq.bmp",
     Description = {
-      "Place Holder"
+      "I'm sorry, but I need to focus on my research. Please come back later. - <NAVI>[Mojo]<INFO>gef_dun01,134,224,0,101,0</INFO></NAVI>"
     },
-    Summary = "Place Holder"
+    Summary = "Reset at 4:00 a.m.",
+    CoolTimeQuest = 1
   },
   [14683] = {
     Title = "Mysterious Device",
@@ -38264,6 +38288,7 @@ QuestInfoList = {
   },
   [15110] = {
     Title = "Fighting Ice with Fire",
+    IconName = "ico_dq.bmp",
     Description = {
       "Collect Dry Twigs to thaw out Zeith and Vrid in the Ice Cave."
     },
@@ -38271,6 +38296,7 @@ QuestInfoList = {
   },
   [15111] = {
     Title = "Hunt Furious Ice Titans",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid wants to break the ice with ice. Hunt 10 Furious Ice Titans."
     },
@@ -38278,6 +38304,7 @@ QuestInfoList = {
   },
   [15112] = {
     Title = "Direct Approach",
+    IconName = "ico_dq.bmp",
     Description = {
       "Let's just break the ice by hitting it. Hit the ice around Zeith first."
     },
@@ -38285,6 +38312,7 @@ QuestInfoList = {
   },
   [15113] = {
     Title = "Direct Approach",
+    IconName = "ico_dq.bmp",
     Description = {
       "Let's just break the ice by hitting it. Hit the ice around Vrid first."
     },

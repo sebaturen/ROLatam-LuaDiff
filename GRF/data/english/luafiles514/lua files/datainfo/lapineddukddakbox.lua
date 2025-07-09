@@ -99,6 +99,20 @@ tblLapineDdukddakBox = {
       },
       NeedSource_String = "Boneca Insurgente"
     },
+    ["Gunslinger_Enchant"] = {
+      ItemID = 23100,
+      NeedCount = 1,
+      NeedRefineMin = 0,
+      NeedRefineMax = 20,
+      SourceItems = {
+        {
+          "Droop_Gunslinger",
+          1,
+          19157
+        }
+      },
+      NeedSource_String = "Boneca Insurgente"
+    },
     ["Magical_Cat_Hand"] = {
       ItemID = 23311,
       NeedCount = 1,

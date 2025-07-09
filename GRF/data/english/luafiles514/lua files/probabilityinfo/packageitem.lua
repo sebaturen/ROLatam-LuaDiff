@@ -4895,7 +4895,7 @@ tbl = {
     {
       id = 23040,
       prob = 10,
-      name = "[[Not for Sale] White Potion Box",
+      name = "[Not for Sale] White Potion Box",
       group = 1
     },
     {
@@ -6745,7 +6745,7 @@ tbl = {
     {
       id = 18528,
       prob = 150,
-      name = "Tare Neko Cru",
+      name = "Tare Neko Cru [1]",
       group = 1
     },
     {
@@ -6911,7 +6911,7 @@ tbl = {
     {
       id = 12817,
       prob = 1,
-      name = "Antique Card Album",
+      name = "[Reward] Antique Card Album",
       group = 0
     },
     {
@@ -11095,7 +11095,7 @@ tbl = {
     {
       id = 7621,
       prob = 50,
-      name = "Token Of Siegfried",
+      name = "Token of Siegfried",
       group = 1
     },
     {
@@ -11207,7 +11207,7 @@ tbl = {
     {
       id = 7621,
       prob = 200,
-      name = "Token Of Siegfried 2",
+      name = "Token of Siegfried 2",
       group = 1
     },
     {
@@ -11251,7 +11251,7 @@ tbl = {
     {
       id = 7621,
       prob = 200,
-      name = "Token Of Siegfried 2",
+      name = "Token of Siegfried 2",
       group = 1
     },
     {
@@ -11803,7 +11803,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried",
+      name = "Token of Siegfried",
       group = 0
     }
   },
@@ -11847,7 +11847,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried",
+      name = "Token of Siegfried",
       group = 0
     }
   },
@@ -11891,7 +11891,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried",
+      name = "Token of Siegfried",
       group = 0
     }
   },
@@ -11941,7 +11941,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried",
+      name = "Token of Siegfried",
       group = 0
     }
   },
@@ -11985,7 +11985,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried 2",
+      name = "Token of Siegfried 2",
       group = 0
     }
   },
@@ -12029,7 +12029,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried 2",
+      name = "Token of Siegfried 2",
       group = 0
     }
   },
@@ -12073,7 +12073,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried 2",
+      name = "Token of Siegfried 2",
       group = 0
     }
   },
@@ -12117,7 +12117,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried 2",
+      name = "Token of Siegfried 2",
       group = 0
     }
   },
@@ -12161,7 +12161,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried 2",
+      name = "Token of Siegfried 2",
       group = 0
     }
   },
@@ -12211,7 +12211,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried 2",
+      name = "Token of Siegfried 2",
       group = 0
     }
   },
@@ -13457,7 +13457,7 @@ tbl = {
     {
       id = 7621,
       prob = 1,
-      name = "Token Of Siegfried",
+      name = "Token of Siegfried",
       group = 0
     },
     {
@@ -13623,7 +13623,7 @@ tbl = {
     {
       id = 7621,
       prob = 100,
-      name = "Token Of Siegfried 15",
+      name = "Token of Siegfried 15",
       group = 1
     },
     {
@@ -13967,7 +13967,7 @@ tbl = {
     {
       id = 7621,
       prob = 50,
-      name = "Token Of Siegfried 10",
+      name = "Token of Siegfried 10",
       group = 1
     },
     {
@@ -14159,7 +14159,7 @@ tbl = {
     {
       id = 7621,
       prob = 60,
-      name = "Token Of Siegfried 10",
+      name = "Token of Siegfried 10",
       group = 1
     },
     {
@@ -15253,7 +15253,7 @@ tbl = {
     {
       id = 7621,
       prob = 100,
-      name = "Token Of Siegfried 3",
+      name = "Token of Siegfried 3",
       group = 1
     },
     {
@@ -17125,7 +17125,7 @@ tbl = {
     {
       id = 7621,
       prob = 150,
-      name = "Token Of Siegfried 10",
+      name = "Token of Siegfried 10",
       group = 1
     },
     {
@@ -17701,7 +17701,7 @@ tbl = {
     {
       id = 7621,
       prob = 10,
-      name = "Token Of Siegfried 5",
+      name = "Token of Siegfried 5",
       group = 0
     }
   },
@@ -17709,7 +17709,7 @@ tbl = {
     {
       id = 7621,
       prob = 10,
-      name = "Token Of Siegfried 20",
+      name = "Token of Siegfried 20",
       group = 0
     }
   },
@@ -20885,7 +20885,7 @@ tbl = {
     {
       id = 18528,
       prob = 1,
-      name = "Tare Neko Cru",
+      name = "Tare Neko Cru [1]",
       group = 1
     },
     {
@@ -22219,7 +22219,7 @@ tbl = {
     {
       id = 18528,
       prob = 1,
-      name = "Tare Neko Cru",
+      name = "Tare Neko Cru [1]",
       group = 1
     },
     {
@@ -25419,13 +25419,13 @@ tbl = {
     {
       id = 19157,
       prob = 1,
-      name = "Unknown Item",
+      name = "Drooping Rebel [1]",
       group = 0
     },
     {
       id = 23100,
       prob = 1,
-      name = "Unknown Item",
+      name = "Rebel Scroll",
       group = 0
     }
   },
@@ -25433,13 +25433,13 @@ tbl = {
     {
       id = 28439,
       prob = 1,
-      name = "Unknown Item",
+      name = "Sea Otter Mini Fan [1]",
       group = 0
     },
     {
       id = 23170,
       prob = 1,
-      name = "Unknown Item",
+      name = "Fan Modification Kit",
       group = 0
     }
   },
@@ -26569,13 +26569,13 @@ tbl = {
     {
       id = 19242,
       prob = 1,
-      name = "Unknown Item",
+      name = "Kitten Headdress [1]",
       group = 0
     },
     {
       id = 23311,
       prob = 1,
-      name = "Unknown Item",
+      name = "Magic Cat Hand",
       group = 0
     }
   },
@@ -26631,7 +26631,7 @@ tbl = {
     {
       id = 19268,
       prob = 1,
-      name = "Giant Snake Breath",
+      name = "Faceworm Breath",
       group = 1
     }
   },
@@ -36249,7 +36249,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 2",
+      name = "[Limited] Combat Manual 2",
       group = 0
     },
     {
@@ -36261,7 +36261,7 @@ tbl = {
     {
       id = 12497,
       prob = 1,
-      name = "[Event] Chewing Gum 2",
+      name = "[Limited] Chewing Gum 2",
       group = 0
     }
   },
@@ -36541,7 +36541,7 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Event] Combat Manual 2",
+      name = "[Limited] Combat Manual 2",
       group = 0
     }
   },
@@ -36573,7 +36573,7 @@ tbl = {
     {
       id = 12497,
       prob = 10,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     }
   },
@@ -36631,7 +36631,7 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Event] Combat Manual 2",
+      name = "[Limited] Combat Manual 2",
       group = 0
     }
   },
@@ -36651,13 +36651,13 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Event] Combat Manual 3",
+      name = "[Limited] Combat Manual 3",
       group = 0
     },
     {
       id = 12497,
       prob = 10,
-      name = "[Event] Chewing Gum 3",
+      name = "[Limited] Chewing Gum 3",
       group = 0
     }
   },
@@ -36677,13 +36677,13 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Event] Combat Manual 4",
+      name = "[Limited] Combat Manual 4",
       group = 0
     },
     {
       id = 12497,
       prob = 10,
-      name = "[Event] Chewing Gum 4",
+      name = "[Limited] Chewing Gum 4",
       group = 0
     },
     {
@@ -36709,13 +36709,13 @@ tbl = {
     {
       id = 100676,
       prob = 10,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
       id = 12497,
       prob = 10,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37201,7 +37201,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 2",
+      name = "[Limited] Combat Manual 2",
       group = 0
     }
   },
@@ -37209,7 +37209,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37235,7 +37235,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 10",
+      name = "[Limited] Combat Manual 10",
       group = 0
     },
     {
@@ -37261,7 +37261,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 15",
+      name = "[Limited] Combat Manual 15",
       group = 0
     },
     {
@@ -37287,7 +37287,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 20",
+      name = "[Limited] Combat Manual 20",
       group = 0
     },
     {
@@ -37313,7 +37313,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 20",
+      name = "[Limited] Combat Manual 20",
       group = 0
     },
     {
@@ -37351,7 +37351,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37363,7 +37363,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37389,7 +37389,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37401,7 +37401,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37427,7 +37427,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37439,7 +37439,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37465,7 +37465,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37477,7 +37477,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37503,7 +37503,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37515,7 +37515,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37541,7 +37541,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37553,7 +37553,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37579,7 +37579,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37591,7 +37591,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37617,7 +37617,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37629,7 +37629,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37649,7 +37649,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37661,7 +37661,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37693,7 +37693,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37705,7 +37705,7 @@ tbl = {
     {
       id = 12497,
       prob = 1,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -37767,7 +37767,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -37781,7 +37781,7 @@ tbl = {
     {
       id = 12497,
       prob = 0,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     }
   },
@@ -38051,93 +38051,93 @@ tbl = {
       group = 0
     },
     {
-      id = 31241,
-      prob = 800,
-      name = "[Costume] Cheerful Sun",
-      group = 6
-    },
-    {
-      id = 31394,
-      prob = 800,
-      name = "[Costume] Master White Arcanist",
-      group = 6
-    },
-    {
-      id = 19948,
-      prob = 800,
-      name = "[Costume] Earth Planet",
-      group = 6
-    },
-    {
-      id = 31260,
-      prob = 800,
-      name = "[Costume] Sophisticated Tracker",
-      group = 6
-    },
-    {
-      id = 31036,
-      prob = 650,
-      name = "[Costume] Minister's hat",
-      group = 6
-    },
-    {
-      id = 19998,
-      prob = 800,
-      name = "[Costume] Thorny hoof",
-      group = 6
-    },
-    {
-      id = 19513,
-      prob = 800,
-      name = "[Costume] Chicken beak",
-      group = 6
-    },
-    {
-      id = 19666,
-      prob = 650,
-      name = "[Costume] Cookie Hat",
-      group = 6
-    },
-    {
-      id = 19654,
+      id = 19906,
       prob = 900,
-      name = "[Costume] Helmsman's hat",
+      name = "[Costume] 24 Bolt",
       group = 6
     },
     {
-      id = 20145,
+      id = 31163,
       prob = 900,
-      name = "[Costume] Cyborg Display",
+      name = "[Costume] Sheep Hat",
       group = 6
     },
     {
-      id = 20618,
-      prob = 150,
-      name = "[Costume] Big Black Rabbit",
+      id = 19590,
+      prob = 800,
+      name = "[Costume] Twin Red Ribbon",
       group = 6
     },
     {
-      id = 19823,
+      id = 20377,
+      prob = 800,
+      name = "[Costume] Flying Helmet",
+      group = 6
+    },
+    {
+      id = 31567,
+      prob = 800,
+      name = "[Costume] Sheep's Horns",
+      group = 6
+    },
+    {
+      id = 20190,
+      prob = 800,
+      name = "[Costume] Chicken Hat",
+      group = 6
+    },
+    {
+      id = 19584,
+      prob = 800,
+      name = "[Costume] Pirate Dagger",
+      group = 6
+    },
+    {
+      id = 19515,
+      prob = 800,
+      name = "[Costume] Yellow Hat",
+      group = 6
+    },
+    {
+      id = 19583,
       prob = 650,
-      name = "[Costume] Fluffy kitten Hoodie",
+      name = "[Costume] Zorro Mask",
       group = 6
     },
     {
-      id = 20481,
+      id = 19924,
+      prob = 650,
+      name = "[Costume] Odin Mask",
+      group = 6
+    },
+    {
+      id = 19566,
+      prob = 650,
+      name = "[Costume] Samurai Mask",
+      group = 6
+    },
+    {
+      id = 20009,
+      prob = 500,
+      name = "[Costume] Dragon Skull",
+      group = 6
+    },
+    {
+      id = 20405,
+      prob = 500,
+      name = "[Costume] Eremes Scarf",
+      group = 6
+    },
+    {
+      id = 19721,
       prob = 300,
-      name = "[Costume] Ifrit Mask",
+      name = "[Costume] Darkness Helm",
       group = 6
     },
     {
-      id = 20464,
-      prob = 500,
-      name = "[Costume] Monochromatic Bows",
-      group = 6
-    },
-    {
-      id = 19526,
-      prob = 500,
-      name = "[Costume] Scrap Helmet",
+      id = 480118,
+      prob = 150,
+      name = "[Costume] General's Sword",
       group = 6
     }
   },
@@ -38153,7 +38153,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -38165,7 +38165,7 @@ tbl = {
     {
       id = 12497,
       prob = 1,
-      name = "[Event] Chewing Gum 5",
+      name = "[Limited] Chewing Gum 5",
       group = 0
     },
     {
@@ -38359,7 +38359,7 @@ tbl = {
     {
       id = 100676,
       prob = 0,
-      name = "[Event] Combat Manual 2",
+      name = "[Limited] Combat Manual 2",
       group = 0
     }
   },
@@ -38545,7 +38545,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 5",
+      name = "[Limited] Combat Manual 5",
       group = 0
     },
     {
@@ -38559,7 +38559,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 10",
+      name = "[Limited] Combat Manual 10",
       group = 0
     },
     {
@@ -38579,7 +38579,7 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual 10",
+      name = "[Limited] Combat Manual 10",
       group = 0
     },
     {
@@ -38705,13 +38705,13 @@ tbl = {
     {
       id = 100676,
       prob = 1,
-      name = "[Event] Combat Manual",
+      name = "[Limited] Combat Manual",
       group = 0
     },
     {
       id = 12497,
       prob = 1,
-      name = "[Event] Chewing Gum",
+      name = "[Limited] Chewing Gum",
       group = 0
     }
   },
@@ -39394,6 +39394,478 @@ tbl = {
       id = 28953,
       prob = 5,
       name = "Armored Shield [1]",
+      group = 6
+    }
+  },
+  [104902] = {
+    {
+      id = 1000274,
+      prob = 1,
+      name = "Kachua Coupon",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 1613,
+      name = "Passport 5",
+      group = 6
+    },
+    {
+      id = 23047,
+      prob = 1613,
+      name = "[Event] Blessing Of Tyr 3",
+      group = 6
+    },
+    {
+      id = 12684,
+      prob = 1613,
+      name = "ASPD Intensifying Potion 3",
+      group = 6
+    },
+    {
+      id = 23048,
+      prob = 1613,
+      name = "[Event] Regenerate Potion 3",
+      group = 6
+    },
+    {
+      id = 9908,
+      prob = 1613,
+      name = "[Scroll] Mental Potion 3",
+      group = 6
+    },
+    {
+      id = 22979,
+      prob = 1000,
+      name = "[Event] Manual & Gum",
+      group = 6
+    },
+    {
+      id = 101367,
+      prob = 1000,
+      name = "[Event] Small Mana Potion 3",
+      group = 6
+    },
+    {
+      id = 14847,
+      prob = 1000,
+      name = "[Scroll] Small Life Potion 3",
+      group = 6
+    },
+    {
+      id = 6413,
+      prob = 1000,
+      name = "New Insurance 3",
+      group = 6
+    },
+    {
+      id = 7621,
+      prob = 1000,
+      name = "Token of Siegfried",
+      group = 6
+    },
+    {
+      id = 6635,
+      prob = 600,
+      name = "Blacksmith Blessing",
+      group = 6
+    },
+    {
+      id = 23284,
+      prob = 600,
+      name = "Advanced Taming Item 2",
+      group = 6
+    },
+    {
+      id = 23032,
+      prob = 600,
+      name = "Stats Soul Potion Box",
+      group = 6
+    },
+    {
+      id = 22996,
+      prob = 600,
+      name = "[Event] Neuralizer",
+      group = 6
+    },
+    {
+      id = 23436,
+      prob = 600,
+      name = "Dark Refining Hammer",
+      group = 6
+    },
+    {
+      id = 24363,
+      prob = 400,
+      name = "Elegant Shadow Weapon",
+      group = 6
+    },
+    {
+      id = 24365,
+      prob = 400,
+      name = "Elegant Shadow Pendant",
+      group = 6
+    },
+    {
+      id = 24364,
+      prob = 400,
+      name = "Elegant Shadow Earring",
+      group = 6
+    },
+    {
+      id = 24383,
+      prob = 400,
+      name = "Enchanting Shadow Weapon",
+      group = 6
+    },
+    {
+      id = 24384,
+      prob = 400,
+      name = "Enchanting Shadow Earring",
+      group = 6
+    },
+    {
+      id = 24385,
+      prob = 400,
+      name = "Enchanting Shadow Pendant",
+      group = 6
+    },
+    {
+      id = 100629,
+      prob = 200,
+      name = "Magical Shadow Cube",
+      group = 6
+    },
+    {
+      id = 100628,
+      prob = 200,
+      name = "Physical Shadow Cube",
+      group = 6
+    },
+    {
+      id = 23161,
+      prob = 200,
+      name = "Rebel Box",
+      group = 6
+    },
+    {
+      id = 23310,
+      prob = 200,
+      name = "Kitten Basket",
+      group = 6
+    },
+    {
+      id = 12793,
+      prob = 200,
+      name = "Combat Pill (10)",
+      group = 6
+    },
+    {
+      id = 23168,
+      prob = 80,
+      name = "Mini Fan Box",
+      group = 6
+    },
+    {
+      id = 19268,
+      prob = 80,
+      name = "Faceworm Breath",
+      group = 6
+    },
+    {
+      id = 400000,
+      prob = 40,
+      name = "Whistle",
+      group = 6
+    },
+    {
+      id = 5593,
+      prob = 70,
+      name = "Rabbit Bonnet [1]",
+      group = 6
+    },
+    {
+      id = 18522,
+      prob = 70,
+      name = "Evil Marching Hat [1]",
+      group = 6
+    },
+    {
+      id = 18528,
+      prob = 70,
+      name = "Tare Neko Cru [1]",
+      group = 6
+    },
+    {
+      id = 19244,
+      prob = 70,
+      name = "Rosary Necklace",
+      group = 6
+    },
+    {
+      id = 6230,
+      prob = 15,
+      name = "Safe to 7 Weapon Certificate",
+      group = 6
+    },
+    {
+      id = 6234,
+      prob = 15,
+      name = "Safe to 7 Armor Certificate",
+      group = 6
+    },
+    {
+      id = 6229,
+      prob = 10,
+      name = "Safe to 8 Weapon Certificate",
+      group = 6
+    },
+    {
+      id = 6233,
+      prob = 10,
+      name = "Safe to 8 Armor Certificate",
+      group = 6
+    },
+    {
+      id = 470033,
+      prob = 5,
+      name = "Elemental Boots [1]",
+      group = 6
+    }
+  },
+  [104903] = {
+    {
+      id = 1000274,
+      prob = 1,
+      name = "Kachua Coupon",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 1613,
+      name = "Passport 5",
+      group = 6
+    },
+    {
+      id = 23047,
+      prob = 1613,
+      name = "[Event] Blessing Of Tyr 3",
+      group = 6
+    },
+    {
+      id = 12684,
+      prob = 1613,
+      name = "ASPD Intensifying Potion 3",
+      group = 6
+    },
+    {
+      id = 23048,
+      prob = 1613,
+      name = "[Event] Regenerate Potion 3",
+      group = 6
+    },
+    {
+      id = 9908,
+      prob = 1613,
+      name = "[Scroll] Mental Potion 3",
+      group = 6
+    },
+    {
+      id = 22979,
+      prob = 1000,
+      name = "[Event] Manual & Gum",
+      group = 6
+    },
+    {
+      id = 101367,
+      prob = 1000,
+      name = "[Event] Small Mana Potion 3",
+      group = 6
+    },
+    {
+      id = 14847,
+      prob = 1000,
+      name = "[Scroll] Small Life Potion 3",
+      group = 6
+    },
+    {
+      id = 6413,
+      prob = 1000,
+      name = "New Insurance 3",
+      group = 6
+    },
+    {
+      id = 7621,
+      prob = 1000,
+      name = "Token of Siegfried",
+      group = 6
+    },
+    {
+      id = 6635,
+      prob = 600,
+      name = "Blacksmith Blessing",
+      group = 6
+    },
+    {
+      id = 23284,
+      prob = 600,
+      name = "Advanced Taming Item 2",
+      group = 6
+    },
+    {
+      id = 23032,
+      prob = 600,
+      name = "Stats Soul Potion Box",
+      group = 6
+    },
+    {
+      id = 22996,
+      prob = 600,
+      name = "[Event] Neuralizer",
+      group = 6
+    },
+    {
+      id = 23436,
+      prob = 600,
+      name = "Dark Refining Hammer",
+      group = 6
+    },
+    {
+      id = 24363,
+      prob = 400,
+      name = "Elegant Shadow Weapon",
+      group = 6
+    },
+    {
+      id = 24365,
+      prob = 400,
+      name = "Elegant Shadow Pendant",
+      group = 6
+    },
+    {
+      id = 24364,
+      prob = 400,
+      name = "Elegant Shadow Earring",
+      group = 6
+    },
+    {
+      id = 24383,
+      prob = 400,
+      name = "Enchanting Shadow Weapon",
+      group = 6
+    },
+    {
+      id = 24384,
+      prob = 400,
+      name = "Enchanting Shadow Earring",
+      group = 6
+    },
+    {
+      id = 24385,
+      prob = 400,
+      name = "Enchanting Shadow Pendant",
+      group = 6
+    },
+    {
+      id = 100629,
+      prob = 200,
+      name = "Magical Shadow Cube",
+      group = 6
+    },
+    {
+      id = 100628,
+      prob = 200,
+      name = "Physical Shadow Cube",
+      group = 6
+    },
+    {
+      id = 23161,
+      prob = 200,
+      name = "Rebel Box",
+      group = 6
+    },
+    {
+      id = 23310,
+      prob = 200,
+      name = "Kitten Basket",
+      group = 6
+    },
+    {
+      id = 12793,
+      prob = 200,
+      name = "Combat Pill (10)",
+      group = 6
+    },
+    {
+      id = 23168,
+      prob = 80,
+      name = "Mini Fan Box",
+      group = 6
+    },
+    {
+      id = 19268,
+      prob = 80,
+      name = "Faceworm Breath",
+      group = 6
+    },
+    {
+      id = 400000,
+      prob = 40,
+      name = "Whistle",
+      group = 6
+    },
+    {
+      id = 5593,
+      prob = 70,
+      name = "Rabbit Bonnet [1]",
+      group = 6
+    },
+    {
+      id = 18522,
+      prob = 70,
+      name = "Evil Marching Hat [1]",
+      group = 6
+    },
+    {
+      id = 18528,
+      prob = 70,
+      name = "Tare Neko Cru [1]",
+      group = 6
+    },
+    {
+      id = 19244,
+      prob = 70,
+      name = "Rosary Necklace",
+      group = 6
+    },
+    {
+      id = 6230,
+      prob = 15,
+      name = "Safe to 7 Weapon Certificate",
+      group = 6
+    },
+    {
+      id = 6234,
+      prob = 15,
+      name = "Safe to 7 Armor Certificate",
+      group = 6
+    },
+    {
+      id = 6229,
+      prob = 10,
+      name = "Safe to 8 Weapon Certificate",
+      group = 6
+    },
+    {
+      id = 6233,
+      prob = 10,
+      name = "Safe to 8 Armor Certificate",
+      group = 6
+    },
+    {
+      id = 470033,
+      prob = 5,
+      name = "Elemental Boots [1]",
       group = 6
     }
   },
@@ -40451,9 +40923,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 104903,
       prob = 0,
-      name = "[Event] Burning Oval Artifact 11",
+      name = "[Event] Rebel Oval Artifact 11",
       group = 0
     }
   },
@@ -40471,9 +40943,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 104903,
       prob = 0,
-      name = "[Event] Burning Oval Artifact 11",
+      name = "[Event] Rebel Oval Artifact 11",
       group = 0
     }
   },
@@ -40497,9 +40969,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 104903,
       prob = 0,
-      name = "[Event] Burning Oval Artifact 20",
+      name = "[Event] Rebel Oval Artifact 20",
       group = 0
     }
   },
@@ -40523,9 +40995,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 104903,
       prob = 0,
-      name = "[Event] Burning Oval Artifact 20",
+      name = "[Event] Rebel Oval Artifact 20",
       group = 0
     }
   },

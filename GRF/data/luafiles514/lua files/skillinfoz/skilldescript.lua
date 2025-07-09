@@ -7196,7 +7196,7 @@ SKILL_DESCRIPT = {
     "da habilidade aumenta a chance de sucesso.^000000"
   },
   [SKID.GS_TRACKING] = {
-    "Rastrear Alvo ^777777(Tracking)^000000",
+    "Rastrear o Alvo ^777777(Tracking)^000000",
     "NÝvel mßximo: ^77777710^000000",
     "PrÚ requisitos: ^777777Ataque Concentrado 5^000000",
     "Tipo: ^777777Ofensiva^000000",
@@ -13031,7 +13031,7 @@ SKILL_DESCRIPT = {
     "[Nv. 5]: ^7777771.200%^000000 l ^7777772.000%^000000"
   },
   [SKID.RL_P_ALTER] = {
-    "ProteþÒo Platina ^777777(Platinum Altar)^000000",
+    "ProteþÒo de Platina ^777777(Platinum Altar)^000000",
     "NÝvel mßximo: ^7777775^000000",
     "PrÚ-requisitos: ^777777Farta Fortuna 1^000000",
     "Tipo: ^777777Suporte^000000",
@@ -13136,7 +13136,7 @@ SKILL_DESCRIPT = {
     "[Nv. 5]: ^7777775.000%^000000 l ^77777740%^000000"
   },
   [SKID.RL_HEAT_BARREL] = {
-    "Furor ^777777(Heat Barrel)^000000",
+    "Furor ^777777(Hit Barrel)^000000",
     "NÝvel mßximo: ^7777775^000000",
     "PrÚ-requisitos: ^777777Farta Fortuna 1^000000",
     "Tipo: ^777777Suporte^000000",
@@ -18625,7 +18625,7 @@ SKILL_DESCRIPT = {
     "Per hit ATK(Revolver)2100+(Aiming count x250)%^000000"
   },
   [SKID.NW_WILD_FIRE] = {
-    "Chuva de Tiros",
+    "Tiroteio",
     "MAX Lv : 5",
     "^777777Skill requirement : P.F.I 3, Intensive Aim 1^000000",
     "Skill form : ^993300Active^000000",
@@ -18651,7 +18651,7 @@ SKILL_DESCRIPT = {
     "ATK(Grenade Launcher) 7000+(Aiming count x2500)%/Range: 11x11 cells^000000"
   },
   [SKID.NW_BASIC_GRENADE] = {
-    "Jogar Granada",
+    "Granada Explosiva",
     "MAX Lv : 5",
     "^777777Skill requirement : Grenade Mastery 3^000000",
     "Skill form : ^993300Active^000000",
@@ -18688,7 +18688,7 @@ SKILL_DESCRIPT = {
     "[Lv 5] : ^777777Per hit ATK 6000+(Grenade Mastery Lv x20)%^000000"
   },
   [SKID.NW_GRENADES_DROPPING] = {
-    "Queda de Granadas",
+    "Chuva de Granadas",
     "MAX Lv : 5",
     "^777777Skill requirement : Hasty Fire in the Hole 3^000000",
     "Skill form : ^993300Active^000000",
