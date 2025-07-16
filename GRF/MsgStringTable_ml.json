@@ -25949,5 +25949,11 @@
         "en": "This is not a valid email format.",
         "pt": "Esse não é um formato de email válido.",
         "es": "Este no es un formato de correo electrónico válido."
+    },
+    "MSI_RESULT_FAIL_CANNOT_LOGIN": {
+        "ko": "이 계정으로는 로그인할 수 없습니다. 자세한 내용은 고객 지원팀에 문의하세요.",
+        "en": "This account cannot log in. For more details, please contact customer support.",
+        "pt": "Esta conta não pode fazer login. Para mais detalhes, entre em contato com a central de suporte.",
+        "es": "Esta cuenta no puede iniciar sesión. Para más detalles, comuníquese con el servicio de atención al cliente."
     }
 }
