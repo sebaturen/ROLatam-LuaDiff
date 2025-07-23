@@ -3841,7 +3841,7 @@ tbl = {
     {
       id = 12549,
       prob = 100,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -4519,7 +4519,7 @@ tbl = {
     {
       id = 12549,
       prob = 1050,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -6043,7 +6043,7 @@ tbl = {
     {
       id = 12549,
       prob = 1200,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -6171,7 +6171,7 @@ tbl = {
     {
       id = 12549,
       prob = 1400,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -6251,25 +6251,25 @@ tbl = {
     {
       id = 12507,
       prob = 500,
-      name = "Yellow Butterfly Wing 5",
+      name = "[Event] Yellow Butterfly Wing 5",
       group = 1
     },
     {
       id = 12508,
       prob = 500,
-      name = "Green Butterfly Wing 5",
+      name = "[Event] Green Butterfly Wing 5",
       group = 1
     },
     {
       id = 12509,
       prob = 500,
-      name = "Red Butterfly Wing 5",
+      name = "[Event] Red Butterfly Wing 5",
       group = 1
     },
     {
       id = 12510,
       prob = 500,
-      name = "Blue Butterfly Wing 5",
+      name = "[Event] Blue Butterfly Wing 5",
       group = 1
     },
     {
@@ -6287,7 +6287,7 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -6553,7 +6553,7 @@ tbl = {
     {
       id = 12549,
       prob = 750,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -6829,25 +6829,25 @@ tbl = {
     {
       id = 12507,
       prob = 500,
-      name = "Yellow Butterfly Wing 5",
+      name = "[Event] Yellow Butterfly Wing 5",
       group = 1
     },
     {
       id = 12508,
       prob = 500,
-      name = "Green Butterfly Wing 5",
+      name = "[Event] Green Butterfly Wing 5",
       group = 1
     },
     {
       id = 12509,
       prob = 500,
-      name = "Red Butterfly Wing 5",
+      name = "[Event] Red Butterfly Wing 5",
       group = 1
     },
     {
       id = 12510,
       prob = 500,
-      name = "Blue Butterfly Wing 5",
+      name = "[Event] Blue Butterfly Wing 5",
       group = 1
     },
     {
@@ -6859,7 +6859,7 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -10465,7 +10465,7 @@ tbl = {
     {
       id = 12549,
       prob = 1700,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -10575,7 +10575,7 @@ tbl = {
     {
       id = 12549,
       prob = 1500,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -10809,7 +10809,7 @@ tbl = {
     {
       id = 12549,
       prob = 1100,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -15407,7 +15407,7 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -18781,7 +18781,7 @@ tbl = {
     {
       id = 12684,
       prob = 1,
-      name = "ASPD Intensifying Potion 10",
+      name = "Golden Potion  10",
       group = 0
     },
     {
@@ -18795,7 +18795,7 @@ tbl = {
     {
       id = 12684,
       prob = 1,
-      name = "ASPD Intensifying Potion 10",
+      name = "Golden Potion  10",
       group = 0
     }
   },
@@ -25433,7 +25433,7 @@ tbl = {
     {
       id = 28439,
       prob = 1,
-      name = "Sea Otter Mini Fan [1]",
+      name = "Portable Fan  [1]",
       group = 0
     },
     {
@@ -25461,7 +25461,7 @@ tbl = {
     {
       id = 12549,
       prob = 1,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 0
     },
     {
@@ -25509,7 +25509,7 @@ tbl = {
     {
       id = 22544,
       prob = 550,
-      name = "[Event]Awakening Potion 10",
+      name = "[Event] Awakening Potion 10",
       group = 1
     },
     {
@@ -25623,25 +25623,25 @@ tbl = {
     {
       id = 12507,
       prob = 80,
-      name = "Yellow Butterfly Wing",
+      name = "[Event] Yellow Butterfly Wing",
       group = 1
     },
     {
       id = 12508,
       prob = 80,
-      name = "Green Butterfly Wing",
+      name = "[Event] Green Butterfly Wing",
       group = 1
     },
     {
       id = 12509,
       prob = 80,
-      name = "Red Butterfly Wing",
+      name = "[Event] Red Butterfly Wing",
       group = 1
     },
     {
       id = 12510,
       prob = 80,
-      name = "Blue Butterfly Wing",
+      name = "[Event] Blue Butterfly Wing",
       group = 1
     },
     {
@@ -25659,7 +25659,7 @@ tbl = {
     {
       id = 22972,
       prob = 1,
-      name = "[Sealed Hat Box",
+      name = "Sealed Hat Box I",
       group = 1
     },
     {
@@ -25673,7 +25673,7 @@ tbl = {
     {
       id = 12549,
       prob = 1,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 0
     },
     {
@@ -25691,13 +25691,13 @@ tbl = {
     {
       id = 16514,
       prob = 1,
-      name = "[Event]Blessing Scroll├ù10",
+      name = "[Event] Blessing Scroll (10)",
       group = 0
     },
     {
       id = 16515,
       prob = 1,
-      name = "[Event]Agility Scroll├ù10",
+      name = "[Event] Agility Scroll (10)",
       group = 0
     },
     {
@@ -25721,7 +25721,7 @@ tbl = {
     {
       id = 22544,
       prob = 1000,
-      name = "[Event]Awakening Potion 12",
+      name = "[Event] Awakening Potion 12",
       group = 1
     },
     {
@@ -25835,25 +25835,25 @@ tbl = {
     {
       id = 12507,
       prob = 160,
-      name = "Yellow Butterfly Wing 3",
+      name = "[Event] Yellow Butterfly Wing 3",
       group = 1
     },
     {
       id = 12508,
       prob = 160,
-      name = "Green Butterfly Wing 3",
+      name = "[Event] Green Butterfly Wing 3",
       group = 1
     },
     {
       id = 12509,
       prob = 160,
-      name = "Red Butterfly Wing 3",
+      name = "[Event] Red Butterfly Wing 3",
       group = 1
     },
     {
       id = 12510,
       prob = 160,
-      name = "Blue Butterfly Wing 3",
+      name = "[Event] Blue Butterfly Wing 3",
       group = 1
     },
     {
@@ -25871,13 +25871,13 @@ tbl = {
     {
       id = 22988,
       prob = 3,
-      name = "[Sealed Hat Box II",
+      name = "Sealed Hat Box II",
       group = 1
     },
     {
       id = 22972,
       prob = 3,
-      name = "[Sealed Hat Box",
+      name = "Sealed Hat Box I",
       group = 1
     },
     {
@@ -25921,13 +25921,13 @@ tbl = {
     {
       id = 16514,
       prob = 1,
-      name = "[Event]Blessing Scroll├ù10",
+      name = "[Event] Blessing Scroll (10)",
       group = 0
     },
     {
       id = 16515,
       prob = 1,
-      name = "[Event]Agility Scroll├ù10",
+      name = "[Event] Agility Scroll (10)",
       group = 0
     },
     {
@@ -25939,7 +25939,7 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Condensed White Potion 200 Box",
+      name = "Condensed White Potion 100 Box",
       group = 1
     },
     {
@@ -25969,7 +25969,7 @@ tbl = {
     {
       id = 22547,
       prob = 1000,
-      name = "[Event]Antipain Mente 10",
+      name = "[Event] Anodyne 10",
       group = 1
     },
     {
@@ -26011,25 +26011,25 @@ tbl = {
     {
       id = 12507,
       prob = 300,
-      name = "Yellow Butterfly Wing 10",
+      name = "[Event] Yellow Butterfly Wing 10",
       group = 1
     },
     {
       id = 12508,
       prob = 300,
-      name = "Green Butterfly Wing 10",
+      name = "[Event] Green Butterfly Wing 10",
       group = 1
     },
     {
       id = 12509,
       prob = 300,
-      name = "Red Butterfly Wing 10",
+      name = "[Event] Red Butterfly Wing 10",
       group = 1
     },
     {
       id = 12510,
       prob = 300,
-      name = "Blue Butterfly Wing 10",
+      name = "[Event] Blue Butterfly Wing 10",
       group = 1
     },
     {
@@ -26047,31 +26047,31 @@ tbl = {
     {
       id = 16506,
       prob = 100,
-      name = "[Event]Scorpion Dish├ù10",
+      name = "[Event] Scorpion Dish (10)",
       group = 1
     },
     {
       id = 16507,
       prob = 100,
-      name = "[Event]Dragon Cocktail├ù10",
+      name = "[Event] Dragon Cocktail (10)",
       group = 1
     },
     {
       id = 16508,
       prob = 100,
-      name = "[Event]Hvergelmir Liquor├ù10",
+      name = "[Event] Hvergelmir Liquor (10)",
       group = 1
     },
     {
       id = 16509,
       prob = 100,
-      name = "[Event]Fox Tail Cuisine├ù10",
+      name = "[Event] Fox Tail Cuisine (10)",
       group = 1
     },
     {
       id = 16510,
       prob = 100,
-      name = "[Event]Immortal Stew├ù10",
+      name = "[Event] Immortal Stew (10)",
       group = 1
     },
     {
@@ -26107,13 +26107,13 @@ tbl = {
     {
       id = 22988,
       prob = 9,
-      name = "[Sealed Hat Box II",
+      name = "Sealed Hat Box II",
       group = 1
     },
     {
       id = 22972,
       prob = 9,
-      name = "[Sealed Hat Box",
+      name = "Sealed Hat Box I",
       group = 1
     },
     {
@@ -26569,7 +26569,7 @@ tbl = {
     {
       id = 19242,
       prob = 1,
-      name = "Kitten Headdress [1]",
+      name = "Feline Headdress [1]",
       group = 0
     },
     {
@@ -39419,7 +39419,7 @@ tbl = {
     {
       id = 12684,
       prob = 1613,
-      name = "ASPD Intensifying Potion 3",
+      name = "Golden Potion  3",
       group = 6
     },
     {
@@ -39497,7 +39497,7 @@ tbl = {
     {
       id = 24363,
       prob = 400,
-      name = "Elegant Shadow Weapon",
+      name = "Elegant Shadow Gloves",
       group = 6
     },
     {
@@ -39515,19 +39515,19 @@ tbl = {
     {
       id = 24383,
       prob = 400,
-      name = "Enchanting Shadow Weapon",
+      name = "Enchanted Shadow Gloves",
       group = 6
     },
     {
       id = 24384,
       prob = 400,
-      name = "Enchanting Shadow Earring",
+      name = "Enchanted Shadow Earring",
       group = 6
     },
     {
       id = 24385,
       prob = 400,
-      name = "Enchanting Shadow Pendant",
+      name = "Enchanted Shadow Pendant",
       group = 6
     },
     {
@@ -39655,7 +39655,7 @@ tbl = {
     {
       id = 12684,
       prob = 1613,
-      name = "ASPD Intensifying Potion 3",
+      name = "Golden Potion  3",
       group = 6
     },
     {
@@ -39733,7 +39733,7 @@ tbl = {
     {
       id = 24363,
       prob = 400,
-      name = "Elegant Shadow Weapon",
+      name = "Elegant Shadow Gloves",
       group = 6
     },
     {
@@ -39751,19 +39751,19 @@ tbl = {
     {
       id = 24383,
       prob = 400,
-      name = "Enchanting Shadow Weapon",
+      name = "Enchanted Shadow Gloves",
       group = 6
     },
     {
       id = 24384,
       prob = 400,
-      name = "Enchanting Shadow Earring",
+      name = "Enchanted Shadow Earring",
       group = 6
     },
     {
       id = 24385,
       prob = 400,
-      name = "Enchanting Shadow Pendant",
+      name = "Enchanted Shadow Pendant",
       group = 6
     },
     {
@@ -39968,6 +39968,34 @@ tbl = {
       id = 100913,
       prob = 1,
       name = "Kafra Buff (7 Days)",
+      group = 0
+    }
+  },
+  [200219] = {
+    {
+      id = 12883,
+      prob = 1,
+      name = "Almighty 100",
+      group = 0
+    },
+    {
+      id = 200220,
+      prob = 1,
+      name = "Unknown Item",
+      group = 0
+    }
+  },
+  [200220] = {
+    {
+      id = 12883,
+      prob = 1,
+      name = "Almighty 100",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 1,
+      name = "[Event] Burning Oval Artifact 11",
       group = 0
     }
   },

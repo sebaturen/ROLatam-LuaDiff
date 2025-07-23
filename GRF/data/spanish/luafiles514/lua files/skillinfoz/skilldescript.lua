@@ -8777,7 +8777,7 @@ SKILL_DESCRIPT = {
     "[Nv 5]: ^77777790%^000000 l ^77777740%^000000 l ^7777771.000%^000000"
   },
   [SKID.WL_CRIMSONROCK] = {
-    "Roca CarmesÝ ^777777(Crimson Rock)^000000",
+    "Meteoro CarmesÝ ^777777(Crimson Rock)^000000",
     "Nv. mßx.: 5",
     "Habilidad requerida: ^777777Invocaci¾n de bola de fuegoá1^000000",
     "Forma de habilidad: ^777777Activa/Da±o^000000",
@@ -8794,7 +8794,7 @@ SKILL_DESCRIPT = {
   [SKID.WL_HELLINFERNO] = {
     "Infierno Abismal ^777777(Hell Inferno)^000000",
     "Nv. mßx.: 5",
-    "Habilidad requerida: ^777777Roca carmesÝá2^000000",
+    "Habilidad requerida: ^777777Meteoro CarmesÝá2^000000",
     "Forma de habilidad: ^777777Activa/Da±o^000000",
     "Descripci¾n: ^777777Inflige da±o mßgico de la propiedad Fuego y Sombra a todos los enemigos alrededor del objetivo.",
     "El da±o aumenta seg·n el nivel de base del lanzador.^000000",
@@ -12578,7 +12578,7 @@ SKILL_DESCRIPT = {
     "[Nv 10]: ^777777100.000^000000 l ^77777750.000 ~ 100.000^000000 l ^7777775x5^000000"
   },
   [SKID.KO_HUUMARANKA] = {
-    "PÚtalo Arremolinado ^777777(Swirling Petal)^000000",
+    "Torbellino de PÚtalos ^777777(Swirling Petal)^000000",
     "Nv. mßx.: 10",
     "Habilidad requerida: ^777777Arrojar Huuma Shuriken de nivel 5^000000",
     "Descripci¾n: ^777777Arroja una Huuma Shuriken a un objetivo e inflige da±o al objetivo y a su alrededor.",
@@ -12758,7 +12758,7 @@ SKILL_DESCRIPT = {
     "Guerrero de las Sombras ^777777(Shadow Warrior)^000000",
     "Nv. mßx.: 5",
     "Habilidad requerida: ^777777Sombra vacÝaá3^000000",
-    "Descripci¾n: Otorga temporalmente [Habilidad: Doble ataque] a 1áobjetivo y aumenta el da±o de Explosi¾n de Kunai, Salpicadura de Kunai, Tajo cruzado y PÚtalo arremolinado.",
+    "Descripci¾n: Otorga temporalmente [Habilidad: Doble ataque] a 1áobjetivo y aumenta el da±o de Explosi¾n de Kunai, Salpicadura de Kunai, Tajo cruzado y Torbellino de PÚtalos.",
     "Esta habilidad consume 1áSP por s mientras dura. Ademßs, consume 1áOrbe sombrÝo por uso.",
     "Nivel l Duraci¾n",
     "[Nv 1]: ^77777760 segundos^000000",
@@ -14064,7 +14064,7 @@ SKILL_DESCRIPT = {
   [SKID.AG_FLORAL_FLARE_ROAD] = {
     "Camino Floral Abrasador",
     "Nv. mßx.: 5",
-    "^777777Condiciones de aprendizaje: Roca carmesÝ de nivel 3^000000",
+    "^777777Condiciones de aprendizaje: Meteoro CarmesÝ 3^000000",
     "Clase: ^993300Activa^000000",
     "Tipo: ^777777Magia^000000",
     "Objetivo: ^7777771Casilla en el suelo^000000",

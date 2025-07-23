@@ -1659,7 +1659,6 @@ Item = {
     },
     OnStartEquip = function()
       AddRaceTolerace(9999, 30)
-      AddExtParam(0, 105, 20)
     end
   },
   [2183] = {
@@ -31434,7 +31433,7 @@ Item = {
       0
     },
     OnStartEquip = function()
-      AddEXPPercent_KillRace(9999, 10)
+      AddEXPPercent_KillRace(9999, 20)
     end
   },
   [5797] = {
@@ -54457,7 +54456,20 @@ Item = {
       0,
       0,
       0
-    }
+    },
+    OnStartEquip = function()
+      local temp = 0
+      temp = GetRefineLevel(6)
+      if temp > 8 then
+        AddExtParam(0, 109, 1300)
+      elseif temp > 6 then
+        AddExtParam(0, 109, 700)
+      else
+        AddExtParam(0, 109, 300)
+      end
+      SubExtParam(0, 110, 50)
+    end,
+    Combiitem = {2000001497}
   },
   [20779] = {
     Type = "armor",
@@ -54472,7 +54484,20 @@ Item = {
       0,
       0,
       0
-    }
+    },
+    OnStartEquip = function()
+      local temp = 0
+      temp = GetRefineLevel(5)
+      if temp > 8 then
+        AddExtParam(0, 109, 1300)
+      elseif temp > 6 then
+        AddExtParam(0, 109, 700)
+      else
+        AddExtParam(0, 109, 300)
+      end
+      SubExtParam(0, 110, 50)
+    end,
+    Combiitem = {2000001497}
   },
   [19033] = {
     Type = "armor",
@@ -54487,7 +54512,19 @@ Item = {
       0,
       0,
       0
-    }
+    },
+    OnStartEquip = function()
+      local temp = 0
+      temp = GetRefineLevel(10)
+      if temp > 8 then
+        AddExtParam(0, 109, 2000)
+      elseif temp > 6 then
+        AddExtParam(0, 109, 1400)
+      else
+        AddExtParam(0, 109, 1000)
+      end
+    end,
+    Combiitem = {2000001496}
   },
   [15141] = {
     Type = "armor",
@@ -54502,7 +54539,20 @@ Item = {
       0,
       0,
       0
-    }
+    },
+    OnStartEquip = function()
+      local temp = 0
+      SubExtParam(0, 110, 100)
+      temp = GetRefineLevel(2)
+      if temp > 8 then
+        AddExtParam(0, 109, 1500)
+      elseif temp > 6 then
+        AddExtParam(0, 109, 900)
+      else
+        AddExtParam(0, 109, 500)
+      end
+    end,
+    Combiitem = {2000001496, 2000001497}
   },
   [19095] = {
     Type = "armor",
@@ -132461,6 +132511,98 @@ Item = {
     Type = "card",
     Combiitem = {2000001434}
   },
+  [4642] = {
+    Type = "card",
+    OnStartEquip = function()
+      local temp = 0
+      temp = GetRefineLevel(6)
+      if temp > 8 then
+        AddExtParam(0, 51, 70)
+      elseif temp > 6 then
+        AddExtParam(0, 51, 40)
+      else
+        AddExtParam(0, 51, 20)
+      end
+    end,
+    Combiitem = {2000001498}
+  },
+  [4643] = {
+    Type = "card",
+    OnStartEquip = function()
+      local temp = 0
+      temp = GetRefineLevel(6)
+      if temp > 8 then
+        AddExtParam(0, 41, 35)
+      elseif temp > 6 then
+        AddExtParam(0, 41, 20)
+      else
+        AddExtParam(0, 41, 10)
+      end
+    end,
+    Combiitem = {2000001499}
+  },
+  [4644] = {
+    Type = "card",
+    OnStartEquip = function()
+      local temp = 0
+      temp = GetRefineLevel(6)
+      if temp > 8 then
+        AddExtParam(0, 47, 30)
+      elseif temp > 6 then
+        AddExtParam(0, 47, 15)
+      else
+        AddExtParam(0, 47, 5)
+      end
+    end,
+    Combiitem = {2000001500}
+  },
+  [4645] = {
+    Type = "card",
+    OnStartEquip = function()
+      local temp = 0
+      temp = GetRefineLevel(6)
+      if temp > 8 then
+        AddExtParam(0, 109, 1000)
+      elseif temp > 6 then
+        AddExtParam(0, 109, 600)
+      else
+        AddExtParam(0, 109, 300)
+      end
+    end,
+    Combiitem = {2000001501}
+  },
+  [4646] = {
+    Type = "card",
+    OnStartEquip = function()
+      AddExtParam(0, 111, 8)
+      AddExtParam(0, 112, 4)
+    end,
+    Combiitem = {
+      2000001498,
+      2000001499,
+      2000001500,
+      2000001501
+    }
+  },
+  [4649] = {
+    Type = "card",
+    OnStartEquip = function()
+      AddExtParam(0, 52, 1000)
+    end
+  },
+  [4650] = {
+    Type = "card",
+    OnStartEquip = function()
+      AddExtParam(0, 105, 3)
+    end
+  },
+  [4651] = {
+    Type = "card",
+    OnStartEquip = function()
+      AddExtParam(0, 109, 10000)
+      SubExtParam(0, 104, 10)
+    end
+  },
   [4700] = {
     Type = "card",
     OnStartEquip = function()
@@ -187171,6 +187313,61 @@ Combiitem = {
       SubSkillSP(28, temp * 10)
       SubSkillSP(2043, temp * 12)
       SubSkillSP(2051, temp * 14)
+    end
+  },
+  [2000001496] = {
+    Item = {19033, 15141},
+    OnStartEquip = function()
+      NoDispell(1)
+      AddExtParam(0, 110, 100)
+    end
+  },
+  [2000001497] = {
+    Item = {
+      15141,
+      22075,
+      20779
+    },
+    OnStartEquip = function()
+      local temp, temp1, temp2, temp3 = 0, 0, 0, 0
+      temp1 = GetRefineLevel(2)
+      temp2 = GetRefineLevel(6)
+      temp3 = GetRefineLevel(5)
+      temp = temp1 + temp2 + temp3
+      if temp > 30 then
+        temp = 30
+      end
+      AddHealValue(5 + temp)
+      AddHealModifyPercent(5 + temp)
+      AddExtParam(0, 109, 1000)
+    end
+  },
+  [2000001498] = {
+    Item = {4642, 4646},
+    OnStartEquip = function()
+      AddExtParam(0, 207, 10)
+      AddExtParam(0, 140, 10)
+    end
+  },
+  [2000001499] = {
+    Item = {4643, 4646},
+    OnStartEquip = function()
+      AddExtParam(0, 207, 10)
+      AddExtParam(0, 140, 10)
+    end
+  },
+  [2000001500] = {
+    Item = {4644, 4646},
+    OnStartEquip = function()
+      AddExtParam(0, 207, 10)
+      AddExtParam(0, 140, 10)
+    end
+  },
+  [2000001501] = {
+    Item = {4645, 4646},
+    OnStartEquip = function()
+      AddExtParam(0, 207, 10)
+      AddExtParam(0, 140, 10)
     end
   }
 }

@@ -32949,24 +32949,33 @@ QuestInfoList = {
     Summary = "Rastros del acceso al laboratorio."
   },
   [12364] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "Colapso en Pharos",
+    Description = {
+      "EscuchÚ la historia de lo que le pas¾ al Faro de Pharos."
+    },
+    Summary = "Para el Arque¾loga"
   },
   [12365] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "[Espera] Espacio Infinito",
+    Description = {
+      "A·n persisten los efectos secundarios de visitar el interior de Pharos. Se recomienda esperar otro dÝa."
+    },
+    Summary = "Vuelve ma±ana.¡",
+    CoolTimeQuest = 1
   },
   [12366] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "Espacio Infinito 1",
+    Description = {
+      "Has recibido una misi¾n para eliminar al monstruo jefe de la dÚcima sala de la instancia."
+    },
+    Summary = "Jefe de la dÚcima."
   },
   [12367] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "Espacio Infinito 2",
+    Description = {
+      "Has recibido una misi¾n para eliminar al monstruo jefe de la trigÚsima sala de la instancia."
+    },
+    Summary = "Jefe de la trigÚsima."
   },
   [12368] = {
     Title = "",
@@ -38331,6 +38340,7 @@ QuestInfoList = {
   },
   [15115] = {
     Title = "Vrid y Zeith",
+    IconName = "ico_dq.bmp",
     Description = {
       "Puedes volver a recibir esta misi¾n despuÚs de las 4:00."
     },
@@ -38344,6 +38354,7 @@ QuestInfoList = {
   },
   [15117] = {
     Title = "CacerÝa de Gazeti furioso",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid quiere romper el hielo con hielo. Caza 10áGazeti furiosos."
     },
@@ -38351,6 +38362,7 @@ QuestInfoList = {
   },
   [15118] = {
     Title = "CacerÝa de NevadÝsimo furioso",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid quiere romper el hielo con hielo. Caza 10áNevadÝsimos furiosos."
     },
@@ -38358,6 +38370,7 @@ QuestInfoList = {
   },
   [15119] = {
     Title = "CacerÝa de Carßmbano duro",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid quiere romper el hielo con hielo. Caza 10áCarßmbanos duros."
     },

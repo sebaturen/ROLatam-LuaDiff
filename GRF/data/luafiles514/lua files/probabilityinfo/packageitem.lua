@@ -6251,25 +6251,25 @@ tbl = {
     {
       id = 12507,
       prob = 500,
-      name = "Asa de Borboleta Amarela 5",
+      name = "[Evento] Asa de Borboleta Amarela 5",
       group = 1
     },
     {
       id = 12508,
       prob = 500,
-      name = "Asa de Borboleta Verde 5",
+      name = "[Evento] Asa de Borboleta Verde 5",
       group = 1
     },
     {
       id = 12509,
       prob = 500,
-      name = "Asa de Borboleta Vermelha 5",
+      name = "[Evento] Asa de Borboleta Vermelha 5",
       group = 1
     },
     {
       id = 12510,
       prob = 500,
-      name = "Asa de Borboleta Azul 5",
+      name = "[Evento] Asa de Borboleta Azul 5",
       group = 1
     },
     {
@@ -6829,25 +6829,25 @@ tbl = {
     {
       id = 12507,
       prob = 500,
-      name = "Asa de Borboleta Amarela 5",
+      name = "[Evento] Asa de Borboleta Amarela 5",
       group = 1
     },
     {
       id = 12508,
       prob = 500,
-      name = "Asa de Borboleta Verde 5",
+      name = "[Evento] Asa de Borboleta Verde 5",
       group = 1
     },
     {
       id = 12509,
       prob = 500,
-      name = "Asa de Borboleta Vermelha 5",
+      name = "[Evento] Asa de Borboleta Vermelha 5",
       group = 1
     },
     {
       id = 12510,
       prob = 500,
-      name = "Asa de Borboleta Azul 5",
+      name = "[Evento] Asa de Borboleta Azul 5",
       group = 1
     },
     {
@@ -10801,7 +10801,7 @@ tbl = {
     {
       id = 12911,
       prob = 50,
-      name = "Caixa de Neuralizador[1]",
+      name = "Caixa de Neuralizador",
       group = 1
     }
   },
@@ -15321,7 +15321,7 @@ tbl = {
     {
       id = 12911,
       prob = 5,
-      name = "Caixa de Neuralizador[1]",
+      name = "Caixa de Neuralizador",
       group = 1
     },
     {
@@ -18335,7 +18335,7 @@ tbl = {
     {
       id = 12911,
       prob = 5,
-      name = "Caixa de Neuralizador[1]",
+      name = "Caixa de Neuralizador",
       group = 1
     },
     {
@@ -25623,25 +25623,25 @@ tbl = {
     {
       id = 12507,
       prob = 80,
-      name = "Asa de Borboleta Amarela",
+      name = "[Evento] Asa de Borboleta Amarela",
       group = 1
     },
     {
       id = 12508,
       prob = 80,
-      name = "Asa de Borboleta Verde",
+      name = "[Evento] Asa de Borboleta Verde",
       group = 1
     },
     {
       id = 12509,
       prob = 80,
-      name = "Asa de Borboleta Vermelha",
+      name = "[Evento] Asa de Borboleta Vermelha",
       group = 1
     },
     {
       id = 12510,
       prob = 80,
-      name = "Asa de Borboleta Azul",
+      name = "[Evento] Asa de Borboleta Azul",
       group = 1
     },
     {
@@ -25659,7 +25659,7 @@ tbl = {
     {
       id = 22972,
       prob = 1,
-      name = "[Caixa Chap├®u Selado",
+      name = "Caixa de Chap├®us Selados I",
       group = 1
     },
     {
@@ -25691,13 +25691,13 @@ tbl = {
     {
       id = 16514,
       prob = 1,
-      name = "[Evento]Pergaminho de B├¬n├º├úo├ù10",
+      name = "[Evento] Pergaminho de B├¬n├º├úo (10)",
       group = 0
     },
     {
       id = 16515,
       prob = 1,
-      name = "[Evento]Pergaminho de Agilidade├ù10",
+      name = "[Evento] Pergaminho de Agilidade (10)",
       group = 0
     },
     {
@@ -25835,25 +25835,25 @@ tbl = {
     {
       id = 12507,
       prob = 160,
-      name = "Asa de Borboleta Amarela 3",
+      name = "[Evento] Asa de Borboleta Amarela 3",
       group = 1
     },
     {
       id = 12508,
       prob = 160,
-      name = "Asa de Borboleta Verde 3",
+      name = "[Evento] Asa de Borboleta Verde 3",
       group = 1
     },
     {
       id = 12509,
       prob = 160,
-      name = "Asa de Borboleta Vermelha 3",
+      name = "[Evento] Asa de Borboleta Vermelha 3",
       group = 1
     },
     {
       id = 12510,
       prob = 160,
-      name = "Asa de Borboleta Azul 3",
+      name = "[Evento] Asa de Borboleta Azul 3",
       group = 1
     },
     {
@@ -25871,13 +25871,13 @@ tbl = {
     {
       id = 22988,
       prob = 3,
-      name = "[Caixa Chap├®u Selado II",
+      name = "Caixa de Chap├®us Selados II",
       group = 1
     },
     {
       id = 22972,
       prob = 3,
-      name = "[Caixa Chap├®u Selado",
+      name = "Caixa de Chap├®us Selados I",
       group = 1
     },
     {
@@ -25921,13 +25921,13 @@ tbl = {
     {
       id = 16514,
       prob = 1,
-      name = "[Evento]Pergaminho de B├¬n├º├úo├ù10",
+      name = "[Evento] Pergaminho de B├¬n├º├úo (10)",
       group = 0
     },
     {
       id = 16515,
       prob = 1,
-      name = "[Evento]Pergaminho de Agilidade├ù10",
+      name = "[Evento] Pergaminho de Agilidade (10)",
       group = 0
     },
     {
@@ -26011,25 +26011,25 @@ tbl = {
     {
       id = 12507,
       prob = 300,
-      name = "Asa de Borboleta Amarela 10",
+      name = "[Evento] Asa de Borboleta Amarela 10",
       group = 1
     },
     {
       id = 12508,
       prob = 300,
-      name = "Asa de Borboleta Verde 10",
+      name = "[Evento] Asa de Borboleta Verde 10",
       group = 1
     },
     {
       id = 12509,
       prob = 300,
-      name = "Asa de Borboleta Vermelha 10",
+      name = "[Evento] Asa de Borboleta Vermelha 10",
       group = 1
     },
     {
       id = 12510,
       prob = 300,
-      name = "Asa de Borboleta Azul 10",
+      name = "[Evento] Asa de Borboleta Azul 10",
       group = 1
     },
     {
@@ -26041,37 +26041,37 @@ tbl = {
     {
       id = 16505,
       prob = 100,
-      name = "[Evento] Caixa de L├¡ngua Grelhada x10",
+      name = "[Evento] L├¡ngua no Vapor (10)",
       group = 1
     },
     {
       id = 16506,
       prob = 100,
-      name = "[Evento]Ensopado de Escorpi├úo├ù10",
+      name = "[Evento] Escorpi├Áes no Vapor (10)",
       group = 1
     },
     {
       id = 16507,
       prob = 100,
-      name = "[Evento]Coquetel de Drag├úo├ù10",
+      name = "[Evento] Coquetel do Drag├úo (10)",
       group = 1
     },
     {
       id = 16508,
       prob = 100,
-      name = "[Evento]Licor de Hvergelmir├ù10",
+      name = "[Evento] T├┤nico de Hwergelmir (10)",
       group = 1
     },
     {
       id = 16509,
       prob = 100,
-      name = "[Evento]Rabo de Raposa Grelhado├ù10",
+      name = "[Evento] Nove Caudas Cozidas",
       group = 1
     },
     {
       id = 16510,
       prob = 100,
-      name = "[Evento]Ensopado Imortal├ù10",
+      name = "[Evento] Cozido Imortal (10)",
       group = 1
     },
     {
@@ -26107,13 +26107,13 @@ tbl = {
     {
       id = 22988,
       prob = 9,
-      name = "[Caixa Chap├®u Selado II",
+      name = "Caixa de Chap├®us Selados II",
       group = 1
     },
     {
       id = 22972,
       prob = 9,
-      name = "[Caixa Chap├®u Selado",
+      name = "Caixa de Chap├®us Selados I",
       group = 1
     },
     {
@@ -30275,7 +30275,7 @@ tbl = {
     {
       id = 22996,
       prob = 300,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -36879,7 +36879,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -37941,7 +37941,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39013,7 +39013,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39249,7 +39249,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39485,7 +39485,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39721,7 +39721,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39968,6 +39968,34 @@ tbl = {
       id = 100913,
       prob = 1,
       name = "Manual Kafra (7 dias)",
+      group = 0
+    }
+  },
+  [200219] = {
+    {
+      id = 12883,
+      prob = 1,
+      name = "Bolinho Divino 100",
+      group = 0
+    },
+    {
+      id = 200220,
+      prob = 1,
+      name = "Unknown Item",
+      group = 0
+    }
+  },
+  [200220] = {
+    {
+      id = 12883,
+      prob = 1,
+      name = "Bolinho Divino 100",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 1,
+      name = "[Evento] Artefato Oval Ardente 11",
       group = 0
     }
   },

@@ -1732,26 +1732,27 @@ QuestInfoList = {
     Summary = "Venda a Lata Vencida"
   },
   [1260] = {
-    Title = "Espadachim Amaldiþoado",
+    Title = "Palßcio das Mßgoas",
     Description = {
       "Entre no Palßcio das Mßgoas por uma passagem secreta."
     }
   },
   [1261] = {
-    Title = "Espadachim Amaldiþoado",
+    Title = "Palßcio das Mßgoas",
     Description = {
       "A entrada no Palßcio das Mßgoas Ú restrita atÚ que o cron¶metro expire."
-    }
+    },
+    Summary = "Volte amanhÒ"
   },
   [1262] = {
-    Title = "Espadachim Amaldiþoado",
+    Title = "Palßcio das Mßgoas",
     Description = {
       "A exploraþÒo do Palßcio das Mßgoas Ú interrompida"
     },
     Summary = "Pare de explorar o Palßcio das Mßgoas"
   },
   [1263] = {
-    Title = "Espadachim Amaldiþoado",
+    Title = "Palßcio das Mßgoas",
     Description = {
       "╔ hora de deixar o Palßcio das Mßgoas. Todos os fantasmas parecem ter desaparecido."
     }
@@ -20271,95 +20272,95 @@ QuestInfoList = {
     Summary = "Aprenda a habilidade ComÚrcio atÚ o nÝvel 4 e volte a falar com Guarnien."
   },
   [8241] = {
-    Title = "ColeþÒo de joias vermelhas",
+    Title = "Anel do Rei Sßbio",
     Description = {
-      "VocÛ tirou a Gema Vermelha de um monte de terra!"
+      "VocÛ tirou a Joia Vermelha de um monte de terra!"
     },
-    Summary = "Leve a Gema de volta ao Mago de Rune-Midgard em Ash Vacuum."
+    Summary = "Joia Vermelha"
   },
   [8242] = {
-    Title = "ColeþÒo de joias azuis",
+    Title = "Anel do Rei Sßbio",
     Description = {
-      "VocÛ tirou a Gema Azul de um monte de terra!"
+      "VocÛ tirou a Joia Azul de um monte de terra!"
     },
-    Summary = "Leve a Gema de volta ao Mago de Rune-Midgard em Ash Vacuum."
+    Summary = "Joia Azul"
   },
   [8243] = {
-    Title = "LÝnguas do Outro Mundo",
+    Title = "Anel do Rei Sßbio",
     Description = {
       "Nos arredores de Ash Vacuum, hß duas tribos que falam lÝnguas estranhas e desconhecidas em Midgard. O Grupo de Pesquisa da Alianþa Tripartite estß pesquisando sobre essas lÝnguas... Como serß que o ^0000ffLinguista de Arunafeltz^000000 estß se saindo com o processo de decodificaþÒo?"
     },
-    Summary = " "
+    Summary = "Ao Linguista"
   },
   [8244] = {
-    Title = "A Fada e o Gigante de Madeira",
+    Title = "Anel do Rei Sßbio",
     Description = {
       "Vß aos arredores do Acampamento da ExpediþÒo, encontre a Fada e o Gigante e conte EXATAMENTE o que disserem."
     },
-    Summary = "Encontre a Fada e o Gigante de Madeira, e entÒo volte a falar com o Linguista de Arunafeltz."
+    Summary = "A Fada e o Gigante"
   },
   [8245] = {
-    Title = "Pesquisa sobre Amostras de Linguagem",
+    Title = "Anel do Rei Sßbio",
     Description = {
       "Ouvi dizer que o ^0000ffMago de Rune-Midgard^000000 sabe como pesquisar com amostras de linguagem, que tal ir vÛ-lo e descobrir como? ╔ difÝcil prosseguir com a pesquisa sem amostras adequadas das lÝnguas."
     },
-    Summary = ""
+    Summary = "Ao Mago"
   },
   [8246] = {
-    Title = "Pesquisa sobre Amostras de Linguagem",
+    Title = "Anel do Rei Sßbio",
     Description = {
-      "EntÒo, vocÛ encontrou as duas raþas do Outro Mundo. Nossos mercenßrios enterraram j¾ias, em segredo, em suas vilas. VocÛ precisa tomar cuidado ao recuperß-las. Os mercenßrios instalaram armadilhas junto com elas."
+      "EntÒo, vocÛ encontrou as duas raþas do Outro Mundo. Nossos mercenßrios enterraram joias, em segredo, em suas vilas. VocÛ precisa tomar cuidado ao recuperß-las. Os mercenßrios instalaram armadilhas junto com elas."
     },
-    Summary = "Recupere as Gemas e volte a falar com o Mago de Rune-Midgard."
+    Summary = "Encontre as Joias"
   },
   [8247] = {
-    Title = "Conferir o Progresso da Pesquisa",
+    Title = "Anel do Rei Sßbio",
     Description = {
-      "Vou extrair as vozes armazenadas nas Gemas e entregß-las ao Linguista de Arunafeltz. Quando puder, visite o Linguista e confira seu progresso."
+      "Vou extrair as vozes armazenadas nas Joias e entregß-las ao Linguista de Arunafeltz. Quando puder, visite o Linguista e confira seu progresso."
     },
-    Summary = ""
+    Summary = "Ao Linguista"
   },
   [8248] = {
-    Title = "Conferir o Progresso da Pesquisa",
+    Title = "Anel do Rei Sßbio",
     Description = {
       "O processo de decodificaþÒo estß indo bem. Mas o problema Ú: como vamos armazenar todas essas informaþ§es?... Pode ir falar com o Engenheiro MecÔnico de Schwartzwald e descobrir o que aconteceu?"
     },
-    Summary = ""
+    Summary = "Ao MecÔnico"
   },
   [8249] = {
-    Title = "Como Armazenar as Informaþ§es",
+    Title = "Anel do Rei Sßbio",
     Description = {
       "Ouvi dizer que, com um feitiþo de Rune-Midgard, podemos converter a informaþÒo em energia mßgica e armazenß-la em uma joia... Quero ouvir a sugestÒo do Mago de Rune-Midgard. Pode ir perguntar a ele?"
     },
-    Summary = ""
+    Summary = "Ao Mago"
   },
   [8250] = {
-    Title = "Gema de armazenamento",
+    Title = "Anel do Rei Sßbio",
     Description = {
       "Ouvi dizer que, na ßrea fria de um dos campos nos arredores do Acampamento da ExpediþÒo, hß ^0000ffum mineral misterioso e desconhecido de Midgard^000000. Talvez eu consiga alguma coisa com esse mineral. Pode ir encontrar esse mineral misterioso para mim?"
     },
-    Summary = "Consiga o mineral misterioso e nÒo-identificado, e volte a falar com o Mago de Rune-Midgard."
+    Summary = "1 Mineral NÒo Identificado"
   },
   [8251] = {
-    Title = "InserþÒo do Poder Mßgico",
+    Title = "Anel do Rei Sßbio",
     Description = {
       "Por favor, espere um pouco. Vou criar uma joia com esse mineral, e inserir as informaþ§es mßgicas. VocÛ parece estar exausto..."
     },
-    Summary = ""
+    Summary = "Aguarde 1 hora"
   },
   [8252] = {
-    Title = "Joia Criada",
+    Title = "Anel do Rei Sßbio",
     Description = {
       "Faþa-me um ·ltimo favor. Entregue esta joia ao Engenheiro MecÔnico de Schwartzwald."
     },
-    Summary = ""
+    Summary = "Ao MecÔnico"
   },
   [8253] = {
-    Title = "Tradutor de LÝnguas do Outro Mundo",
+    Title = "Anel do Rei Sßbio",
     Description = {
       "Precisamos de uma mßquina que leia o poder mßgico imbuÝdo nesta joia e possa aproveitß-lo imediatamente. Jß fiz todos os preparativos, vou levar cerca de uma hora."
     },
-    Summary = "Volte a falar com o Engenheiro MecÔnico de Schwartzwald daqui a uma hora."
+    Summary = "Aguarde 1 hora"
   },
   [8254] = {
     Title = "Mudanþa de Classe: Sentinela",
@@ -32709,24 +32710,33 @@ QuestInfoList = {
     Summary = "VestÝgios do acesso ao laborat¾rio"
   },
   [12364] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "Colapso em Pharos",
+    Description = {
+      "Ouvi a hist¾ria do que aconteceu com o Farol de Pharos."
+    },
+    Summary = "Para a Arque¾loga"
   },
   [12365] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "[Espera] Espaþo Infinito",
+    Description = {
+      "Efeitos colaterais de ter visitado o interior de Pharos ainda permanecem. ╔ recomendßvel esperar outro dia."
+    },
+    Summary = "Volte amanhÒ.¡",
+    CoolTimeQuest = 1
   },
   [12366] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "Espaþo Infinito 1",
+    Description = {
+      "VocÛ recebeu uma missÒo para eliminar o monstro chefe da 10¬ sala da instÔncia."
+    },
+    Summary = "Chefe do 10║."
   },
   [12367] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "Espaþo Infinito 2",
+    Description = {
+      "VocÛ recebeu uma missÒo para eliminar o monstro chefe da 30¬ sala da instÔncia."
+    },
+    Summary = "Chefe do 30║."
   },
   [12368] = {
     Title = "",
@@ -37969,6 +37979,7 @@ QuestInfoList = {
   },
   [15115] = {
     Title = "[Espera] Vrid e Zeith",
+    IconName = "ico_dq.bmp",
     Description = {
       "VocÛ pode receber essa missÒo novamente ap¾s as 4h da manhÒ."
     },
@@ -37979,6 +37990,7 @@ QuestInfoList = {
   },
   [15117] = {
     Title = "Caþa ao Gazetis Furioso",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid quer quebrar o gelo com gelo. Caþar 10 Furious Gazetis."
     },
@@ -37986,6 +37998,7 @@ QuestInfoList = {
   },
   [15118] = {
     Title = "Caþa aos Snowiers Furiosos",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid quer quebrar o gelo com gelo. Caþar 10 Furious Snowiers."
     },
@@ -37993,6 +38006,7 @@ QuestInfoList = {
   },
   [15119] = {
     Title = "Caþa Ós Geadas DifÝceis",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid quer quebrar o gelo com gelo. Caþar 10 Hard Icicles."
     },

@@ -6022,6 +6022,20 @@ tblLapineDdukddakBox = {
         }
       },
       NeedSource_String = "Sombrio de Joias"
+    },
+    ["Fan_Upgrade_Kit"] = {
+      ItemID = 23170,
+      NeedCount = 1,
+      NeedRefineMin = 0,
+      NeedRefineMax = 20,
+      SourceItems = {
+        {
+          "SeeOtter_Fan",
+          1,
+          28439
+        }
+      },
+      NeedSource_String = "Sea Otter Mini Fan"
     }
   },
   get_lapine_box = function(in_box_id)

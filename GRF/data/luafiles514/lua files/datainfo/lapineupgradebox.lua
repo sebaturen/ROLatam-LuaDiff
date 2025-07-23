@@ -34,6 +34,208 @@ tblLapineUpgradeBox = {
       },
       NeedSource_String = "Armadura do Her¾i"
     },
+    Frozen_Box_IL = {
+      ItemID = 9785,
+      NeedRefineMin = 4,
+      NeedRefineMax = 9,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Huuma_Flutter_Snow_IL",
+          13337
+        },
+        {
+          "Combo_Battle_Glove_IL",
+          1846
+        },
+        {"Cap_IL", 19223},
+        {
+          "Clack_Of_Servival_IL",
+          20847
+        },
+        {
+          "Herald_Of_GOD_IL",
+          28922
+        }
+      },
+      NeedSource_String = "Arma Ilusional"
+    },
+    S_Frozen_Box_IL = {
+      ItemID = 100416,
+      NeedRefineMin = 4,
+      NeedRefineMax = 11,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Huuma_Flutter_Snow_IL",
+          13337
+        },
+        {
+          "Combo_Battle_Glove_IL",
+          1846
+        },
+        {"Cap_IL", 19223},
+        {
+          "Clack_Of_Servival_IL",
+          20847
+        },
+        {
+          "Herald_Of_GOD_IL",
+          28922
+        }
+      },
+      NeedSource_String = "Arma Ilusional"
+    },
+    Moonlight_Box_IL = {
+      ItemID = 100391,
+      NeedRefineMin = 4,
+      NeedRefineMax = 9,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Spectral_Spear_IL",
+          26007
+        },
+        {
+          "Moonlight_Sword_IL",
+          28725
+        },
+        {
+          "Long_Mace_IL",
+          16063
+        },
+        {
+          "Staff_Of_Bordeaux_IL",
+          26109
+        },
+        {"Muffler_IL", 20838},
+        {"Shoes_IL", 22133},
+        {
+          "Nurse_Cap_IL",
+          19209
+        },
+        {
+          "Puente_Robe_IL",
+          15195
+        },
+        {
+          "Apple_Of_Archer_IL",
+          19210
+        }
+      },
+      NeedSource_String = "Illusion Equipment"
+    },
+    S_Moonlight_Box_IL = {
+      ItemID = 100392,
+      NeedRefineMin = 4,
+      NeedRefineMax = 11,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Spectral_Spear_IL",
+          26007
+        },
+        {
+          "Moonlight_Sword_IL",
+          28725
+        },
+        {
+          "Long_Mace_IL",
+          16063
+        },
+        {
+          "Staff_Of_Bordeaux_IL",
+          26109
+        },
+        {"Muffler_IL", 20838},
+        {"Shoes_IL", 22133},
+        {
+          "Nurse_Cap_IL",
+          19209
+        },
+        {
+          "Puente_Robe_IL",
+          15195
+        },
+        {
+          "Apple_Of_Archer_IL",
+          19210
+        }
+      },
+      NeedSource_String = "Illusion Equipment"
+    },
+    Vampire_Box_IL = {
+      ItemID = 100414,
+      NeedRefineMin = 4,
+      NeedRefineMax = 9,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Wizardy_Staff_IL",
+          2039
+        },
+        {
+          "Infiltrator_IL",
+          28022
+        },
+        {
+          "Balistar_IL",
+          18149
+        },
+        {
+          "Book_Of_The_Apo_IL",
+          28612
+        },
+        {
+          "Ghoul_Leg_IL",
+          28023
+        },
+        {
+          "Cape_Of_Ancient_Lord_IL",
+          20840
+        }
+      },
+      NeedSource_String = "Illusion Equipment"
+    },
+    S_Vampire_Box_IL = {
+      ItemID = 100415,
+      NeedRefineMin = 4,
+      NeedRefineMax = 11,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = false,
+      TargetItems = {
+        {
+          "Wizardy_Staff_IL",
+          2039
+        },
+        {
+          "Infiltrator_IL",
+          28022
+        },
+        {
+          "Balistar_IL",
+          18149
+        },
+        {
+          "Book_Of_The_Apo_IL",
+          28612
+        },
+        {
+          "Ghoul_Leg_IL",
+          28023
+        },
+        {
+          "Cape_Of_Ancient_Lord_IL",
+          20840
+        }
+      },
+      NeedSource_String = "Illusion Equipment"
+    },
     Time_Unseal_Key = {
       ItemID = 9551,
       NeedRefineMin = 0,
@@ -707,20 +909,6 @@ tblLapineUpgradeBox = {
         }
       },
       NeedSource_String = "Asas Vitoriosas"
-    },
-    Fan_Upgrade_Kit = {
-      ItemID = 23170,
-      NeedRefineMin = 0,
-      NeedRefineMax = 0,
-      NeedOptionNumMin = 0,
-      NotSocketEnchantItem = true,
-      TargetItems = {
-        {
-          "SeeOtter_Fan",
-          28439
-        }
-      },
-      NeedSource_String = "Ventilador Portßtil"
     },
     Lens_Craft_Stone = {
       ItemID = 100823,
@@ -11273,6 +11461,290 @@ tblLapineUpgradeBox = {
         }
       },
       NeedSource_String = "Metal Weapon"
+    },
+    ILL_Piece_A = {
+      ItemID = 100003,
+      NeedRefineMin = 0,
+      NeedRefineMax = 20,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = true,
+      TargetItems = {
+        {
+          "Bazerald_IL",
+          28762
+        },
+        {"Butcher_IL", 28254},
+        {
+          "Gold_Lux_IL",
+          32301
+        },
+        {
+          "Infiltrator_IL",
+          28022
+        },
+        {"War_Axe_IL", 1326},
+        {
+          "Immaterial_Sword_IL",
+          13469
+        },
+        {
+          "Iron_Driver_IL",
+          16065
+        },
+        {
+          "Pole_Axe_IL",
+          32005
+        },
+        {
+          "Book_Of_The_Apo_IL",
+          28612
+        },
+        {
+          "Balistar_IL",
+          18149
+        },
+        {
+          "Huuma_Bird_Wing_IL",
+          13338
+        },
+        {
+          "Wizardy_Staff_IL",
+          2039
+        },
+        {
+          "Long_Mace_IL",
+          16063
+        },
+        {
+          "Huuma_Flutter_Snow_IL",
+          13337
+        },
+        {
+          "Combo_Battle_Glove_IL",
+          1846
+        },
+        {
+          "Spectral_Spear_IL",
+          26007
+        },
+        {
+          "Spectral_Spear_IL",
+          26109
+        },
+        {
+          "Moonlight_Sword_IL",
+          28725
+        },
+        {
+          "Hunter_Bow_IL",
+          18174
+        },
+        {"Tablet_IL", 28626},
+        {
+          "Gate_KeeperDD_IL",
+          28244
+        },
+        {
+          "Counter_Dagger_IL",
+          28745
+        },
+        {
+          "Survival_Staff_IL",
+          2051
+        },
+        {
+          "Taegoolyeon_IL",
+          21050
+        },
+        {
+          "Death_Guidance_IL",
+          600011
+        },
+        {
+          "KatarOfCold_Icicle_IL",
+          610012
+        },
+        {"Brionac_IL", 630006},
+        {
+          "Zephyrus_IL",
+          630007
+        },
+        {
+          "Electronic_Guitar_IL",
+          570008
+        },
+        {
+          "Electric_Eel_IL",
+          580008
+        },
+        {
+          "Doom_Slayer_IL",
+          620010
+        },
+        {
+          "Excalibur_IL",
+          500030
+        },
+        {
+          "Ancient_Dagger_IL",
+          510034
+        },
+        {
+          "Gelerdria_IL",
+          530015
+        },
+        {
+          "Thorn_Staff_IL",
+          550030
+        },
+        {
+          "Dea_Staff_IL",
+          550031
+        }
+      },
+      NeedSource_String = "Arma Ilusional"
+    },
+    ILL_Piece_B = {
+      ItemID = 100004,
+      NeedRefineMin = 0,
+      NeedRefineMax = 20,
+      NeedOptionNumMin = 0,
+      NotSocketEnchantItem = true,
+      TargetItems = {
+        {
+          "Bazerald_IL",
+          28762
+        },
+        {"Butcher_IL", 28254},
+        {
+          "Gold_Lux_IL",
+          32301
+        },
+        {
+          "Infiltrator_IL",
+          28022
+        },
+        {"War_Axe_IL", 1326},
+        {
+          "Immaterial_Sword_IL",
+          13469
+        },
+        {
+          "Iron_Driver_IL",
+          16065
+        },
+        {
+          "Pole_Axe_IL",
+          32005
+        },
+        {
+          "Book_Of_The_Apo_IL",
+          28612
+        },
+        {
+          "Balistar_IL",
+          18149
+        },
+        {
+          "Huuma_Bird_Wing_IL",
+          13338
+        },
+        {
+          "Wizardy_Staff_IL",
+          2039
+        },
+        {
+          "Long_Mace_IL",
+          16063
+        },
+        {
+          "Huuma_Flutter_Snow_IL",
+          13337
+        },
+        {
+          "Combo_Battle_Glove_IL",
+          1846
+        },
+        {
+          "Spectral_Spear_IL",
+          26007
+        },
+        {
+          "Staff_Of_Bordeaux_IL",
+          26109
+        },
+        {
+          "Moonlight_Sword_IL",
+          28725
+        },
+        {
+          "Hunter_Bow_IL",
+          18174
+        },
+        {"Tablet_IL", 28626},
+        {
+          "Gate_KeeperDD_IL",
+          28244
+        },
+        {
+          "Counter_Dagger_IL",
+          28745
+        },
+        {
+          "Survival_Staff_IL",
+          2051
+        },
+        {
+          "Taegoolyeon_IL",
+          21050
+        },
+        {
+          "Death_Guidance_IL",
+          600011
+        },
+        {
+          "KatarOfCold_Icicle_IL",
+          610012
+        },
+        {"Brionac_IL", 630006},
+        {
+          "Zephyrus_IL",
+          630007
+        },
+        {
+          "Electronic_Guitar_IL",
+          570008
+        },
+        {
+          "Electric_Eel_IL",
+          580008
+        },
+        {
+          "Doom_Slayer_IL",
+          620010
+        },
+        {
+          "Excalibur_IL",
+          500030
+        },
+        {
+          "Ancient_Dagger_IL",
+          510034
+        },
+        {
+          "Gelerdria_IL",
+          530015
+        },
+        {
+          "Thorn_Staff_IL",
+          550030
+        },
+        {
+          "Dea_Staff_IL",
+          550031
+        }
+      },
+      NeedSource_String = "Arma Ilusional"
     }
   },
   get_lapine_box = function(in_box_id)

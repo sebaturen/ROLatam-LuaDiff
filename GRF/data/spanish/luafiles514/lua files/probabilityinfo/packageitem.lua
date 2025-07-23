@@ -3841,7 +3841,7 @@ tbl = {
     {
       id = 12549,
       prob = 100,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -4519,7 +4519,7 @@ tbl = {
     {
       id = 12549,
       prob = 1050,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -6043,7 +6043,7 @@ tbl = {
     {
       id = 12549,
       prob = 1200,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -6171,7 +6171,7 @@ tbl = {
     {
       id = 12549,
       prob = 1400,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -6251,25 +6251,25 @@ tbl = {
     {
       id = 12507,
       prob = 500,
-      name = "[Evento] Ala de mariposa amarilla 5",
+      name = "[Evento] Ala de Mariposa Amarilla 5",
       group = 1
     },
     {
       id = 12508,
       prob = 500,
-      name = "Ala de mariposa verde 5",
+      name = "[Evento] Ala de Mariposa Verde 5",
       group = 1
     },
     {
       id = 12509,
       prob = 500,
-      name = "Ala de mariposa roja 5",
+      name = "[Evento] Ala de Mariposa Roja 5",
       group = 1
     },
     {
       id = 12510,
       prob = 500,
-      name = "Ala de mariposa azul 5",
+      name = "[Evento] Ala de Mariposa Azul 5",
       group = 1
     },
     {
@@ -6287,7 +6287,7 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -6553,7 +6553,7 @@ tbl = {
     {
       id = 12549,
       prob = 750,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -6829,25 +6829,25 @@ tbl = {
     {
       id = 12507,
       prob = 500,
-      name = "[Evento] Ala de mariposa amarilla 5",
+      name = "[Evento] Ala de Mariposa Amarilla 5",
       group = 1
     },
     {
       id = 12508,
       prob = 500,
-      name = "Ala de mariposa verde 5",
+      name = "[Evento] Ala de Mariposa Verde 5",
       group = 1
     },
     {
       id = 12509,
       prob = 500,
-      name = "Ala de mariposa roja 5",
+      name = "[Evento] Ala de Mariposa Roja 5",
       group = 1
     },
     {
       id = 12510,
       prob = 500,
-      name = "Ala de mariposa azul 5",
+      name = "[Evento] Ala de Mariposa Azul 5",
       group = 1
     },
     {
@@ -6859,7 +6859,7 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -10465,7 +10465,7 @@ tbl = {
     {
       id = 12549,
       prob = 1700,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -10575,7 +10575,7 @@ tbl = {
     {
       id = 12549,
       prob = 1500,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -10809,7 +10809,7 @@ tbl = {
     {
       id = 12549,
       prob = 1100,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -15407,7 +15407,7 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -23377,7 +23377,7 @@ tbl = {
     {
       id = 13314,
       prob = 25,
-      name = "Shuriken Huuma de cellisca",
+      name = "Shuriken de Nevasca",
       group = 6
     },
     {
@@ -24045,7 +24045,7 @@ tbl = {
     {
       id = 2509,
       prob = 204,
-      name = "Manto de sobreviviente",
+      name = "Manto de Sobreviviente",
       group = 6
     },
     {
@@ -24185,7 +24185,7 @@ tbl = {
     {
       id = 2347,
       prob = 2,
-      name = "Armadura oce├ínica de Saphien [1]",
+      name = "Armadura Oce├ínica de Saphien [1]",
       group = 6
     },
     {
@@ -24663,7 +24663,7 @@ tbl = {
     {
       id = 2128,
       prob = 4,
-      name = "Misi├│n sagrada [1]",
+      name = "Spiritus Sancti [1]",
       group = 6
     },
     {
@@ -25439,7 +25439,7 @@ tbl = {
     {
       id = 23170,
       prob = 1,
-      name = "Combinador de Ventilador",
+      name = "Kit Modificador de ventilador",
       group = 0
     }
   },
@@ -25461,7 +25461,7 @@ tbl = {
     {
       id = 12549,
       prob = 1,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 0
     },
     {
@@ -25551,7 +25551,7 @@ tbl = {
     {
       id = 22545,
       prob = 310,
-      name = "[Poci├│n de velocidad",
+      name = "Poci├│n de Velocidad",
       group = 1
     },
     {
@@ -25623,25 +25623,25 @@ tbl = {
     {
       id = 12507,
       prob = 80,
-      name = "[Evento] Ala de mariposa amarilla",
+      name = "[Evento] Ala de Mariposa Amarilla",
       group = 1
     },
     {
       id = 12508,
       prob = 80,
-      name = "Ala de mariposa verde",
+      name = "[Evento] Ala de Mariposa Verde",
       group = 1
     },
     {
       id = 12509,
       prob = 80,
-      name = "Ala de mariposa roja",
+      name = "[Evento] Ala de Mariposa Roja",
       group = 1
     },
     {
       id = 12510,
       prob = 80,
-      name = "Ala de mariposa azul",
+      name = "[Evento] Ala de Mariposa Azul",
       group = 1
     },
     {
@@ -25659,7 +25659,7 @@ tbl = {
     {
       id = 22972,
       prob = 1,
-      name = "Caja de sombreros sellada I",
+      name = "Caja de Sombreros Sellados I",
       group = 1
     },
     {
@@ -25673,7 +25673,7 @@ tbl = {
     {
       id = 12549,
       prob = 1,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 0
     },
     {
@@ -25685,19 +25685,19 @@ tbl = {
     {
       id = 22545,
       prob = 1,
-      name = "[Poci├│n de velocidad 10",
+      name = "Poci├│n de Velocidad 10",
       group = 0
     },
     {
       id = 16514,
       prob = 1,
-      name = "[Evento] Caja de Pergamino de Bendici├│n(10)",
+      name = "[Evento] Pergamino de Bendici├│n (10)",
       group = 0
     },
     {
       id = 16515,
       prob = 1,
-      name = "[Evento] Aumentar Agilidad Caja de Pergamino(10)",
+      name = "[Evento] Aumentar Agilidad (10)",
       group = 0
     },
     {
@@ -25835,25 +25835,25 @@ tbl = {
     {
       id = 12507,
       prob = 160,
-      name = "[Evento] Ala de mariposa amarilla 3",
+      name = "[Evento] Ala de Mariposa Amarilla 3",
       group = 1
     },
     {
       id = 12508,
       prob = 160,
-      name = "Ala de mariposa verde 3",
+      name = "[Evento] Ala de Mariposa Verde 3",
       group = 1
     },
     {
       id = 12509,
       prob = 160,
-      name = "Ala de mariposa roja 3",
+      name = "[Evento] Ala de Mariposa Roja 3",
       group = 1
     },
     {
       id = 12510,
       prob = 160,
-      name = "Ala de mariposa azul 3",
+      name = "[Evento] Ala de Mariposa Azul 3",
       group = 1
     },
     {
@@ -25871,13 +25871,13 @@ tbl = {
     {
       id = 22988,
       prob = 3,
-      name = "Caja de sombreros sellada II",
+      name = "Caja de Sombreros Sellados II",
       group = 1
     },
     {
       id = 22972,
       prob = 3,
-      name = "Caja de sombreros sellada I",
+      name = "Caja de Sombreros Sellados I",
       group = 1
     },
     {
@@ -25897,7 +25897,7 @@ tbl = {
     {
       id = 22545,
       prob = 1,
-      name = "[Poci├│n de velocidad 30",
+      name = "Poci├│n de Velocidad 30",
       group = 0
     },
     {
@@ -25921,13 +25921,13 @@ tbl = {
     {
       id = 16514,
       prob = 1,
-      name = "[Evento] Caja de Pergamino de Bendici├│n(10)",
+      name = "[Evento] Pergamino de Bendici├│n (10)",
       group = 0
     },
     {
       id = 16515,
       prob = 1,
-      name = "[Evento] Aumentar Agilidad Caja de Pergamino(10)",
+      name = "[Evento] Aumentar Agilidad (10)",
       group = 0
     },
     {
@@ -25939,7 +25939,7 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Caja de 200┬áPociones blancas condensadas",
+      name = "Caja de 100┬áPociones blancas condensadas",
       group = 1
     },
     {
@@ -25969,7 +25969,7 @@ tbl = {
     {
       id = 22547,
       prob = 1000,
-      name = "[Evento] Anti-Pain Med 10",
+      name = "[Evento] Analg├®sico 10",
       group = 1
     },
     {
@@ -26011,25 +26011,25 @@ tbl = {
     {
       id = 12507,
       prob = 300,
-      name = "[Evento] Ala de mariposa amarilla 10",
+      name = "[Evento] Ala de Mariposa Amarilla 10",
       group = 1
     },
     {
       id = 12508,
       prob = 300,
-      name = "Ala de mariposa verde 10",
+      name = "[Evento] Ala de Mariposa Verde 10",
       group = 1
     },
     {
       id = 12509,
       prob = 300,
-      name = "Ala de mariposa roja 10",
+      name = "[Evento] Ala de Mariposa Roja 10",
       group = 1
     },
     {
       id = 12510,
       prob = 300,
-      name = "Ala de mariposa azul 10",
+      name = "[Evento] Ala de Mariposa Azul 10",
       group = 1
     },
     {
@@ -26041,7 +26041,7 @@ tbl = {
     {
       id = 16505,
       prob = 100,
-      name = "[Evento] Caja de Lengua al Vapor(10)",
+      name = "[Evento] Caja de Lengua al Vapor (10)",
       group = 1
     },
     {
@@ -26053,25 +26053,25 @@ tbl = {
     {
       id = 16507,
       prob = 100,
-      name = "[Evento] Caja de C├│ctel de Aliento de Drag├│n(10)",
+      name = "[Evento] Caja de C├│ctel de Aliento de Drag├│n (10)",
       group = 1
     },
     {
       id = 16508,
       prob = 100,
-      name = "[Evento] Caja T├│nica de Hwergelmir(10)",
+      name = "[Evento] Caja de T├│nico de Hwergelmir (10)",
       group = 1
     },
     {
       id = 16509,
       prob = 100,
-      name = "[Evento] Caja de Nueve Colas Cocidas(10)",
+      name = "[Evento] Caja de Nueve Colas Cocidas (10)",
       group = 1
     },
     {
       id = 16510,
       prob = 100,
-      name = "[Evento] Caja de Estofado Inmortal(10)",
+      name = "[Evento] Caja de Estofado Inmortal (10)",
       group = 1
     },
     {
@@ -26107,13 +26107,13 @@ tbl = {
     {
       id = 22988,
       prob = 9,
-      name = "Caja de sombreros sellada II",
+      name = "Caja de Sombreros Sellados II",
       group = 1
     },
     {
       id = 22972,
       prob = 9,
-      name = "Caja de sombreros sellada I",
+      name = "Caja de Sombreros Sellados I",
       group = 1
     },
     {
@@ -28619,7 +28619,7 @@ tbl = {
     {
       id = 27113,
       prob = 90,
-      name = "Carta Ktullanux Despertada",
+      name = "Carta Ktullanux Despierto",
       group = 6
     },
     {
@@ -28781,7 +28781,7 @@ tbl = {
     {
       id = 27104,
       prob = 340,
-      name = "Tarjeta Dr├ícula enfadado",
+      name = "Carta Dr├ícula Ilusorio",
       group = 6
     },
     {
@@ -29035,7 +29035,7 @@ tbl = {
     {
       id = 27103,
       prob = 1000,
-      name = "Carta de Muerto Inquieto",
+      name = "Carta de Muerto Sin Descanso",
       group = 6
     },
     {
@@ -29095,7 +29095,7 @@ tbl = {
     {
       id = 27105,
       prob = 100,
-      name = "Tarjeta Bomi",
+      name = "Carta Bomi",
       group = 6
     },
     {
@@ -30275,7 +30275,7 @@ tbl = {
     {
       id = 22996,
       prob = 300,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -36879,7 +36879,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -37941,7 +37941,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39013,7 +39013,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39249,7 +39249,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39485,7 +39485,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39515,19 +39515,19 @@ tbl = {
     {
       id = 24383,
       prob = 400,
-      name = "Guantes de Sombras Encantadas",
+      name = "Guantes de Sombras Encantados",
       group = 6
     },
     {
       id = 24384,
       prob = 400,
-      name = "Pendiente de Sombras Encantadora",
+      name = "Pendiente de Sombras Encantado",
       group = 6
     },
     {
       id = 24385,
       prob = 400,
-      name = "Collar de Sombras Encantadora",
+      name = "Collar de Sombras Encantado",
       group = 6
     },
     {
@@ -39629,7 +39629,7 @@ tbl = {
     {
       id = 470033,
       prob = 5,
-      name = "Bota Elemental [1]",
+      name = "Botas Elemental [1]",
       group = 6
     }
   },
@@ -39721,7 +39721,7 @@ tbl = {
     {
       id = 22996,
       prob = 600,
-      name = "[Evento] Neutralizador",
+      name = "[Evento] Neuralizador",
       group = 6
     },
     {
@@ -39751,19 +39751,19 @@ tbl = {
     {
       id = 24383,
       prob = 400,
-      name = "Guantes de Sombras Encantadas",
+      name = "Guantes de Sombras Encantados",
       group = 6
     },
     {
       id = 24384,
       prob = 400,
-      name = "Pendiente de Sombras Encantadora",
+      name = "Pendiente de Sombras Encantado",
       group = 6
     },
     {
       id = 24385,
       prob = 400,
-      name = "Collar de Sombras Encantadora",
+      name = "Collar de Sombras Encantado",
       group = 6
     },
     {
@@ -39865,7 +39865,7 @@ tbl = {
     {
       id = 470033,
       prob = 5,
-      name = "Bota Elemental [1]",
+      name = "Botas Elemental [1]",
       group = 6
     }
   },
@@ -39968,6 +39968,34 @@ tbl = {
       id = 100913,
       prob = 1,
       name = "Manual de Kafra [7 D├¡as]",
+      group = 0
+    }
+  },
+  [200219] = {
+    {
+      id = 12883,
+      prob = 1,
+      name = "Todopoderoso 100",
+      group = 0
+    },
+    {
+      id = 200220,
+      prob = 1,
+      name = "Unknown Item",
+      group = 0
+    }
+  },
+  [200220] = {
+    {
+      id = 12883,
+      prob = 1,
+      name = "Todopoderoso 100",
+      group = 0
+    },
+    {
+      id = 104830,
+      prob = 1,
+      name = "[Evento] Artefacto Ovalado Ardiente 11",
       group = 0
     }
   },

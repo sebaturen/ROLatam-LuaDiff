@@ -1007,3 +1007,7 @@ function IsBeHaviorOfWindow(in_HKID)
   end
   return false
 end
+function GetHotKeyDesc(tabNum, idx)
+  key1, key2, desc, exe = GetOriginalHotKeyInfo(tabNum, idx)
+  return exe
+end

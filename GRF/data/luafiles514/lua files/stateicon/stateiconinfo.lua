@@ -4526,16 +4526,19 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
   descript = {
-    {"Festival", COLOR_TITLE_BUFF},
+    {
+      "Festival do MacarrÒo",
+      COLOR_TITLE_BUFF
+    },
     {"%s", COLOR_TIME},
     {
-      "B¶nus de ESQV e E. Perfeita"
+      "Resist. a Fogo"
     },
     {
-      "Reduz Conj. Var."
+      "Aumenta a ASPD"
     },
     {
-      "B¶nus de Vel.Atq"
+      "Reduz Varißvel"
     }
   }
 }
@@ -4558,12 +4561,12 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF3] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Raminho de Flores",
+      "Poder FÝsico",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
     {
-      "HP e SP mßx. +3%."
+      "Dano fÝsico +5%."
     }
   }
 }
@@ -5880,15 +5883,12 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF4] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Bolinho de Cerejeira",
+      "Poder Mßgico",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
     {
-      "Dano fÝsico e mßgico contra"
-    },
-    {
-      "Tamanhos + 5%."
+      "Dano mßgico +5%."
     }
   }
 }

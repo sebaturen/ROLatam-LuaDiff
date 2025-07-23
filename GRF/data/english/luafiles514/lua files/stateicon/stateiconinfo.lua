@@ -3356,7 +3356,7 @@ StateIconList[EFST_IDs.EFST_HELM_ASIR] = {
 StateIconList[EFST_IDs.EFST_RAY_OF_PROTECTION] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
-  {
+  descript = {
     {
       "Light of Protection",
       COLOR_TITLE_BUFF

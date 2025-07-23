@@ -32948,24 +32948,33 @@ QuestInfoList = {
     Summary = "Traces of Laboratory Access"
   },
   [12364] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "Collapse in Pharos",
+    Description = {
+      "I heard the story of what happened to the Pharos Lighthouse."
+    },
+    Summary = "To the Archaeologist"
   },
   [12365] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "[Wait] Infinity Space",
+    Description = {
+      "Side effects of visiting the interior of Pharos still linger. It is recommended to wait another day."
+    },
+    Summary = "Come back tomorrow┬¡",
+    CoolTimeQuest = 1
   },
   [12366] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "Infinity Space 1",
+    Description = {
+      "You have received a quest to eliminate the boss monster of the 10th room of the instance."
+    },
+    Summary = "Boss of the 10th"
   },
   [12367] = {
-    Title = "",
-    Description = {""},
-    Summary = ""
+    Title = "Infinity Space 2",
+    Description = {
+      "You have received a quest to eliminate the boss monster of the 30th room of the instance."
+    },
+    Summary = "Boss of the 30th"
   },
   [12368] = {
     Title = "",
@@ -38327,6 +38336,7 @@ QuestInfoList = {
   },
   [15115] = {
     Title = "Vrid and Zeith",
+    IconName = "ico_dq.bmp",
     Description = {
       "You can re-receive this quest after 4:00 a.m."
     },
@@ -38340,6 +38350,7 @@ QuestInfoList = {
   },
   [15117] = {
     Title = "Hunt Furious Gazetis",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid wants to break the ice with ice. Hunt 10 Furious Gazetis."
     },
@@ -38347,6 +38358,7 @@ QuestInfoList = {
   },
   [15118] = {
     Title = "Hunt Furious Snowiers",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid wants to break the ice with ice. Hunt 10 Furious Snowiers."
     },
@@ -38354,6 +38366,7 @@ QuestInfoList = {
   },
   [15119] = {
     Title = "Hunt Hard Icicles",
+    IconName = "ico_dq.bmp",
     Description = {
       "Vrid wants to break the ice with ice. Hunt 10 Hard Icicles."
     },

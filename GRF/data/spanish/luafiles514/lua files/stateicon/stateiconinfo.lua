@@ -4199,18 +4199,18 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "ííSÚ ßgil!!",
+      "Festival de Fideos",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
     {
-      "Aumentar el Ýndice de evasi¾n y la evasi¾n completa"
+      "Resistencia al Fuego"
     },
     {
-      "Aumento de la velocidad de ataque"
+      "Aumenta el ASPD"
     },
     {
-      "Lanzamiento variable reducido"
+      "Reduce la Variable"
     }
   }
 }
@@ -4220,11 +4220,13 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF3] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Fiesta de fideo - BudÝn de sandÝa",
+      "Poder FÝsico",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
-    {"MATK + 5%"}
+    {
+      "Da±o FÝsico +5%."
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_JP_EVENT01] = {haveTimeLimit = 1, posTimeLimitStr = 3}
@@ -5495,11 +5497,13 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF4] = {
   posTimeLimitStr = 2,
   descript = {
     {
-      "Fiesta de fideo - Fideos a la crema",
+      "Poder Mßgico",
       COLOR_TITLE_BUFF
     },
     {"%s", COLOR_TIME},
-    {"ATK + 5%"}
+    {
+      "Da±o Mßgico +5%."
+    }
   }
 }
 StateIconList[EFST_IDs.EFST_KIEL_CARD] = {haveTimeLimit = 1, posTimeLimitStr = 2}
