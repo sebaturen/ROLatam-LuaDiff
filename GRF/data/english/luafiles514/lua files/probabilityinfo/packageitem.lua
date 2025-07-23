@@ -28781,7 +28781,7 @@ tbl = {
     {
       id = 27104,
       prob = 340,
-      name = "Angry Dracula Card",
+      name = "Illusion Dracula Card",
       group = 6
     },
     {
@@ -29035,7 +29035,7 @@ tbl = {
     {
       id = 27103,
       prob = 1000,
-      name = "Living Dead Card",
+      name = "Restless Dead Card",
       group = 6
     },
     {
@@ -29161,31 +29161,31 @@ tbl = {
     {
       id = 4642,
       prob = 100,
-      name = "Carta Sapo Espacial",
+      name = "Infinite Toad Card",
       group = 6
     },
     {
       id = 4643,
       prob = 100,
-      name = "Carta Errante Espacial",
+      name = "Infinite Vagabond Wolf Card",
       group = 6
     },
     {
       id = 4644,
       prob = 100,
-      name = "Carta Vocal Espacial",
+      name = "Infinite Vocal Card",
       group = 6
     },
     {
       id = 4645,
       prob = 100,
-      name = "Carta Eclipse Espacial",
+      name = "Infinite Eclipse Card",
       group = 6
     },
     {
       id = 4646,
       prob = 100,
-      name = "Carta Quimera Infinita",
+      name = "Infinite Chimera Card",
       group = 6
     },
     {
@@ -40087,9 +40087,9 @@ tbl = {
       group = 6
     },
     {
-      id = 6299,
+      id = 6229,
       prob = 10,
-      name = "Worn Fabric",
+      name = "Safe to 8 Weapon Certificate",
       group = 6
     },
     {
@@ -40323,9 +40323,9 @@ tbl = {
       group = 6
     },
     {
-      id = 6299,
+      id = 6229,
       prob = 10,
-      name = "Worn Fabric",
+      name = "Safe to 8 Weapon Certificate",
       group = 6
     },
     {

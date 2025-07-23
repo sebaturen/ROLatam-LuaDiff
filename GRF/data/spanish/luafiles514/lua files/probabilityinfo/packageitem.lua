@@ -2949,7 +2949,7 @@ tbl = {
     {
       id = 12533,
       prob = 50,
-      name = "Caja de 100┬áHierbas azules",
+      name = "Caja de 100 Hierbas azules",
       group = 6
     },
     {
@@ -3841,19 +3841,19 @@ tbl = {
     {
       id = 12549,
       prob = 100,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
       id = 12550,
       prob = 100,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 1
     },
     {
       id = 12533,
       prob = 100,
-      name = "Caja de 100┬áHierbas azules",
+      name = "Caja de 100 Hierbas azules",
       group = 1
     },
     {
@@ -4507,19 +4507,19 @@ tbl = {
     {
       id = 12533,
       prob = 1000,
-      name = "Caja de 100┬áHierbas azules",
+      name = "Caja de 100 Hierbas azules",
       group = 1
     },
     {
       id = 12550,
       prob = 1050,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 1
     },
     {
       id = 12549,
       prob = 1050,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
@@ -4907,7 +4907,7 @@ tbl = {
     {
       id = 12533,
       prob = 10,
-      name = "Caja de 100┬áHierbas azules",
+      name = "Caja de 100 Hierbas azules",
       group = 1
     },
     {
@@ -4973,7 +4973,7 @@ tbl = {
     {
       id = 7938,
       prob = 50,
-      name = "Gr├ínulo de luz 10",
+      name = "Gr├ínulo de Luz 10",
       group = 1
     },
     {
@@ -5317,7 +5317,7 @@ tbl = {
     {
       id = 732,
       prob = 100,
-      name = "Diamante de 3┬áquilates 2",
+      name = "Diamante de 3 quilates 2",
       group = 2
     },
     {
@@ -6037,13 +6037,13 @@ tbl = {
     {
       id = 12550,
       prob = 1200,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 1
     },
     {
       id = 12549,
       prob = 1200,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
@@ -6135,7 +6135,7 @@ tbl = {
     {
       id = 12550,
       prob = 100,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 1
     },
     {
@@ -6153,7 +6153,7 @@ tbl = {
     {
       id = 6457,
       prob = 100,
-      name = "Certificado de seguridad de armaduras hasta el nivel┬á5",
+      name = "Certificado de seguridad de armaduras hasta el nivel 5",
       group = 1
     },
     {
@@ -6171,7 +6171,7 @@ tbl = {
     {
       id = 12549,
       prob = 1400,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
@@ -6287,13 +6287,13 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
       id = 12550,
       prob = 240,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 1
     },
     {
@@ -6547,13 +6547,13 @@ tbl = {
     {
       id = 12550,
       prob = 750,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 1
     },
     {
       id = 12549,
       prob = 750,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
@@ -6769,7 +6769,7 @@ tbl = {
     {
       id = 6239,
       prob = 1,
-      name = "Certificado de seguridad de armaduras hasta el nivel┬á11",
+      name = "Certificado de seguridad de armaduras hasta el nivel 11",
       group = 1
     },
     {
@@ -6859,13 +6859,13 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
       id = 12550,
       prob = 250,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 1
     },
     {
@@ -6941,7 +6941,7 @@ tbl = {
     {
       id = 732,
       prob = 100,
-      name = "Diamante de 3┬áquilates 2",
+      name = "Diamante de 3 quilates 2",
       group = 2
     },
     {
@@ -9951,7 +9951,7 @@ tbl = {
     {
       id = 13858,
       prob = 1500,
-      name = "Caja de 10┬áDulces brillantes",
+      name = "Caja de 10 Dulces brillantes",
       group = 1
     },
     {
@@ -10405,7 +10405,7 @@ tbl = {
     {
       id = 12680,
       prob = 1000,
-      name = "Caja de 10┬áPociones azules de GdI",
+      name = "Caja de 10 Pociones azules de GdI",
       group = 1
     },
     {
@@ -10435,7 +10435,7 @@ tbl = {
     {
       id = 12550,
       prob = 600,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 1
     },
     {
@@ -10465,7 +10465,7 @@ tbl = {
     {
       id = 12549,
       prob = 1700,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
@@ -10551,7 +10551,7 @@ tbl = {
     {
       id = 12680,
       prob = 1000,
-      name = "Caja de 10┬áPociones azules de GdI",
+      name = "Caja de 10 Pociones azules de GdI",
       group = 1
     },
     {
@@ -10575,7 +10575,7 @@ tbl = {
     {
       id = 12549,
       prob = 1500,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
@@ -10589,7 +10589,7 @@ tbl = {
     {
       id = 14232,
       prob = 1200,
-      name = "Caja de 10┬áBayas de Yggdrasil",
+      name = "Caja de 10 Bayas de Yggdrasil",
       group = 1
     },
     {
@@ -10637,7 +10637,7 @@ tbl = {
     {
       id = 12921,
       prob = 200,
-      name = "Caja de 5┬áunidades de Oridecon Concentrado.",
+      name = "Caja de 5 unidades de Oridecon Concentrado.",
       group = 1
     },
     {
@@ -10649,7 +10649,7 @@ tbl = {
     {
       id = 13858,
       prob = 1200,
-      name = "Caja de 10┬áDulces brillantes",
+      name = "Caja de 10 Dulces brillantes",
       group = 1
     },
     {
@@ -10809,13 +10809,13 @@ tbl = {
     {
       id = 12549,
       prob = 1100,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
       id = 12533,
       prob = 1100,
-      name = "Caja de 100┬áHierbas azules",
+      name = "Caja de 100 Hierbas azules",
       group = 1
     },
     {
@@ -10833,13 +10833,13 @@ tbl = {
     {
       id = 13750,
       prob = 1100,
-      name = "Caja de 30┬áPociones de defensa (G)",
+      name = "Caja de 30 Pociones de defensa (G)",
       group = 1
     },
     {
       id = 13756,
       prob = 1100,
-      name = "Caja de 30┬áPociones de defensa m. (G)",
+      name = "Caja de 30 Pociones de defensa m. (G)",
       group = 1
     },
     {
@@ -10931,7 +10931,7 @@ tbl = {
     {
       id = 14232,
       prob = 1200,
-      name = "Caja de 10┬áBayas de Yggdrasil",
+      name = "Caja de 10 Bayas de Yggdrasil",
       group = 1
     },
     {
@@ -11063,7 +11063,7 @@ tbl = {
     {
       id = 12220,
       prob = 100,
-      name = "Pergamino de Adrenalina de nivel┬á5",
+      name = "Pergamino de Adrenalina de nivel 5",
       group = 1
     },
     {
@@ -11089,7 +11089,7 @@ tbl = {
     {
       id = 12219,
       prob = 100,
-      name = "Pergamino de Caminante del viento de nivel┬á10",
+      name = "Pergamino de Caminante del viento de nivel 10",
       group = 1
     },
     {
@@ -11107,7 +11107,7 @@ tbl = {
     {
       id = 12217,
       prob = 100,
-      name = "Pergamino de Aspersio de nivel┬á5",
+      name = "Pergamino de Aspersio de nivel 5",
       group = 1
     },
     {
@@ -11175,7 +11175,7 @@ tbl = {
     {
       id = 12220,
       prob = 300,
-      name = "Pergamino de Adrenalina de nivel┬á5 2",
+      name = "Pergamino de Adrenalina de nivel 5 2",
       group = 1
     },
     {
@@ -11201,7 +11201,7 @@ tbl = {
     {
       id = 12219,
       prob = 150,
-      name = "Pergamino de Caminante del viento de nivel┬á10 2",
+      name = "Pergamino de Caminante del viento de nivel 10 2",
       group = 1
     },
     {
@@ -11219,7 +11219,7 @@ tbl = {
     {
       id = 12217,
       prob = 200,
-      name = "Pergamino de Aspersio de nivel┬á5 2",
+      name = "Pergamino de Aspersio de nivel 5 2",
       group = 1
     },
     {
@@ -11491,7 +11491,7 @@ tbl = {
     {
       id = 2696,
       prob = 1,
-      name = "N├║cleo de Vesper┬á01 de alquiler (168)",
+      name = "N├║cleo de Vesper 01 de alquiler (168)",
       group = 0
     }
   },
@@ -11499,7 +11499,7 @@ tbl = {
     {
       id = 2697,
       prob = 1,
-      name = "N├║cleo de Vesper┬á02 de alquiler (168)",
+      name = "N├║cleo de Vesper 02 de alquiler (168)",
       group = 0
     }
   },
@@ -11507,7 +11507,7 @@ tbl = {
     {
       id = 2698,
       prob = 1,
-      name = "N├║cleo de Vesper┬á03 de alquiler (168)",
+      name = "N├║cleo de Vesper 03 de alquiler (168)",
       group = 0
     }
   },
@@ -11515,7 +11515,7 @@ tbl = {
     {
       id = 2699,
       prob = 1,
-      name = "N├║cleo de Vesper┬á04 de alquiler (168)",
+      name = "N├║cleo de Vesper 04 de alquiler (168)",
       group = 0
     }
   },
@@ -11529,7 +11529,7 @@ tbl = {
     {
       id = 12219,
       prob = 60,
-      name = "Pergamino de Caminante del viento de nivel┬á10 5",
+      name = "Pergamino de Caminante del viento de nivel 10 5",
       group = 1
     },
     {
@@ -11621,7 +11621,7 @@ tbl = {
     {
       id = 12220,
       prob = 200,
-      name = "Pergamino de Adrenalina de nivel┬á5 5",
+      name = "Pergamino de Adrenalina de nivel 5 5",
       group = 1
     },
     {
@@ -11785,13 +11785,13 @@ tbl = {
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 15",
+      name = "Pergamino de AGI de nivel 10 15",
       group = 0
     },
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 15",
+      name = "Pergamino de Bendici├│n de nivel 10 15",
       group = 0
     },
     {
@@ -11829,13 +11829,13 @@ tbl = {
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 15",
+      name = "Pergamino de AGI de nivel 10 15",
       group = 0
     },
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 15",
+      name = "Pergamino de Bendici├│n de nivel 10 15",
       group = 0
     },
     {
@@ -11873,13 +11873,13 @@ tbl = {
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 15",
+      name = "Pergamino de AGI de nivel 10 15",
       group = 0
     },
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 15",
+      name = "Pergamino de Bendici├│n de nivel 10 15",
       group = 0
     },
     {
@@ -11917,13 +11917,13 @@ tbl = {
     {
       id = 12220,
       prob = 1,
-      name = "Pergamino de Adrenalina de nivel┬á5 24",
+      name = "Pergamino de Adrenalina de nivel 5 24",
       group = 0
     },
     {
       id = 12217,
       prob = 1,
-      name = "Pergamino de Aspersio de nivel┬á5 20",
+      name = "Pergamino de Aspersio de nivel 5 20",
       group = 0
     },
     {
@@ -11967,13 +11967,13 @@ tbl = {
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 30",
+      name = "Pergamino de AGI de nivel 10 30",
       group = 0
     },
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 30",
+      name = "Pergamino de Bendici├│n de nivel 10 30",
       group = 0
     },
     {
@@ -12011,13 +12011,13 @@ tbl = {
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 30",
+      name = "Pergamino de AGI de nivel 10 30",
       group = 0
     },
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 30",
+      name = "Pergamino de Bendici├│n de nivel 10 30",
       group = 0
     },
     {
@@ -12055,13 +12055,13 @@ tbl = {
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 30",
+      name = "Pergamino de AGI de nivel 10 30",
       group = 0
     },
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 30",
+      name = "Pergamino de Bendici├│n de nivel 10 30",
       group = 0
     },
     {
@@ -12099,13 +12099,13 @@ tbl = {
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 30",
+      name = "Pergamino de AGI de nivel 10 30",
       group = 0
     },
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 30",
+      name = "Pergamino de Bendici├│n de nivel 10 30",
       group = 0
     },
     {
@@ -12143,13 +12143,13 @@ tbl = {
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 30",
+      name = "Pergamino de AGI de nivel 10 30",
       group = 0
     },
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 30",
+      name = "Pergamino de Bendici├│n de nivel 10 30",
       group = 0
     },
     {
@@ -12187,13 +12187,13 @@ tbl = {
     {
       id = 12220,
       prob = 1,
-      name = "Pergamino de Adrenalina de nivel┬á5 48",
+      name = "Pergamino de Adrenalina de nivel 5 48",
       group = 0
     },
     {
       id = 12217,
       prob = 1,
-      name = "Pergamino de Aspersio de nivel┬á5 40",
+      name = "Pergamino de Aspersio de nivel 5 40",
       group = 0
     },
     {
@@ -12431,25 +12431,25 @@ tbl = {
     {
       id = 12220,
       prob = 1,
-      name = "Pergamino de Adrenalina de nivel┬á5 20",
+      name = "Pergamino de Adrenalina de nivel 5 20",
       group = 0
     },
     {
       id = 12219,
       prob = 1,
-      name = "Pergamino de Caminante del viento de nivel┬á10 20",
+      name = "Pergamino de Caminante del viento de nivel 10 20",
       group = 0
     },
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 20",
+      name = "Pergamino de Bendici├│n de nivel 10 20",
       group = 0
     },
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 20",
+      name = "Pergamino de AGI de nivel 10 20",
       group = 0
     }
   },
@@ -12551,43 +12551,43 @@ tbl = {
     {
       id = 13553,
       prob = 50,
-      name = "Caja de 5┬áPergaminos de teletransportaci├│n a mazmorra",
+      name = "Caja de 5 Pergaminos de teletransportaci├│n a mazmorra",
       group = 1
     },
     {
       id = 13741,
       prob = 50,
-      name = "Caja de 10┬áPergaminos de armadura sombr├¡a",
+      name = "Caja de 10 Pergaminos de armadura sombr├¡a",
       group = 1
     },
     {
       id = 13744,
       prob = 50,
-      name = "Caja de 10┬áPergaminos de armadura sagrada",
+      name = "Caja de 10 Pergaminos de armadura sagrada",
       group = 1
     },
     {
       id = 13712,
       prob = 100,
-      name = "Caja de 30┬áPociones de vida peque├▒as",
+      name = "Caja de 30 Pociones de vida peque├▒as",
       group = 1
     },
     {
       id = 13715,
       prob = 100,
-      name = "Cada de 30┬áPociones de vida medianas",
+      name = "Cada de 30 Pociones de vida medianas",
       group = 1
     },
     {
       id = 13747,
       prob = 100,
-      name = "Caja de 30┬áPociones de defensa (P)",
+      name = "Caja de 30 Pociones de defensa (P)",
       group = 1
     },
     {
       id = 13753,
       prob = 80,
-      name = "Caja de 30┬áPociones de defensa m. (P)",
+      name = "Caja de 30 Pociones de defensa m. (P)",
       group = 1
     },
     {
@@ -12599,7 +12599,7 @@ tbl = {
     {
       id = 13720,
       prob = 100,
-      name = "Caja de 10┬áPociones de regeneraci├│n",
+      name = "Caja de 10 Pociones de regeneraci├│n",
       group = 1
     }
   },
@@ -12661,43 +12661,43 @@ tbl = {
     {
       id = 13553,
       prob = 50,
-      name = "Caja de 5┬áPergaminos de teletransportaci├│n a mazmorra",
+      name = "Caja de 5 Pergaminos de teletransportaci├│n a mazmorra",
       group = 1
     },
     {
       id = 13741,
       prob = 50,
-      name = "Caja de 10┬áPergaminos de armadura sombr├¡a",
+      name = "Caja de 10 Pergaminos de armadura sombr├¡a",
       group = 1
     },
     {
       id = 13744,
       prob = 50,
-      name = "Caja de 10┬áPergaminos de armadura sagrada",
+      name = "Caja de 10 Pergaminos de armadura sagrada",
       group = 1
     },
     {
       id = 13712,
       prob = 100,
-      name = "Caja de 30┬áPociones de vida peque├▒as",
+      name = "Caja de 30 Pociones de vida peque├▒as",
       group = 1
     },
     {
       id = 13715,
       prob = 100,
-      name = "Cada de 30┬áPociones de vida medianas",
+      name = "Cada de 30 Pociones de vida medianas",
       group = 1
     },
     {
       id = 13747,
       prob = 100,
-      name = "Caja de 30┬áPociones de defensa (P)",
+      name = "Caja de 30 Pociones de defensa (P)",
       group = 1
     },
     {
       id = 13753,
       prob = 80,
-      name = "Caja de 30┬áPociones de defensa m. (P)",
+      name = "Caja de 30 Pociones de defensa m. (P)",
       group = 1
     },
     {
@@ -12709,7 +12709,7 @@ tbl = {
     {
       id = 13720,
       prob = 100,
-      name = "Caja de 10┬áPociones de regeneraci├│n",
+      name = "Caja de 10 Pociones de regeneraci├│n",
       group = 1
     }
   },
@@ -12771,49 +12771,49 @@ tbl = {
     {
       id = 13553,
       prob = 50,
-      name = "Caja de 5┬áPergaminos de teletransportaci├│n a mazmorra",
+      name = "Caja de 5 Pergaminos de teletransportaci├│n a mazmorra",
       group = 1
     },
     {
       id = 13741,
       prob = 50,
-      name = "Caja de 10┬áPergaminos de armadura sombr├¡a",
+      name = "Caja de 10 Pergaminos de armadura sombr├¡a",
       group = 1
     },
     {
       id = 13744,
       prob = 50,
-      name = "Caja de 10┬áPergaminos de armadura sagrada",
+      name = "Caja de 10 Pergaminos de armadura sagrada",
       group = 1
     },
     {
       id = 13712,
       prob = 100,
-      name = "Caja de 30┬áPociones de vida peque├▒as",
+      name = "Caja de 30 Pociones de vida peque├▒as",
       group = 1
     },
     {
       id = 13715,
       prob = 100,
-      name = "Cada de 30┬áPociones de vida medianas",
+      name = "Cada de 30 Pociones de vida medianas",
       group = 1
     },
     {
       id = 13747,
       prob = 100,
-      name = "Caja de 30┬áPociones de defensa (P)",
+      name = "Caja de 30 Pociones de defensa (P)",
       group = 1
     },
     {
       id = 13753,
       prob = 80,
-      name = "Caja de 30┬áPociones de defensa m. (P)",
+      name = "Caja de 30 Pociones de defensa m. (P)",
       group = 1
     },
     {
       id = 13720,
       prob = 100,
-      name = "Caja de 10┬áPociones de regeneraci├│n",
+      name = "Caja de 10 Pociones de regeneraci├│n",
       group = 1
     }
   },
@@ -12869,43 +12869,43 @@ tbl = {
     {
       id = 13553,
       prob = 50,
-      name = "Caja de 5┬áPergaminos de teletransportaci├│n a mazmorra",
+      name = "Caja de 5 Pergaminos de teletransportaci├│n a mazmorra",
       group = 1
     },
     {
       id = 13741,
       prob = 50,
-      name = "Caja de 10┬áPergaminos de armadura sombr├¡a",
+      name = "Caja de 10 Pergaminos de armadura sombr├¡a",
       group = 1
     },
     {
       id = 13744,
       prob = 50,
-      name = "Caja de 10┬áPergaminos de armadura sagrada",
+      name = "Caja de 10 Pergaminos de armadura sagrada",
       group = 1
     },
     {
       id = 13712,
       prob = 100,
-      name = "Caja de 30┬áPociones de vida peque├▒as",
+      name = "Caja de 30 Pociones de vida peque├▒as",
       group = 1
     },
     {
       id = 13715,
       prob = 100,
-      name = "Cada de 30┬áPociones de vida medianas",
+      name = "Cada de 30 Pociones de vida medianas",
       group = 1
     },
     {
       id = 13747,
       prob = 100,
-      name = "Caja de 30┬áPociones de defensa (P)",
+      name = "Caja de 30 Pociones de defensa (P)",
       group = 1
     },
     {
       id = 13753,
       prob = 80,
-      name = "Caja de 30┬áPociones de defensa m. (P)",
+      name = "Caja de 30 Pociones de defensa m. (P)",
       group = 1
     },
     {
@@ -12917,7 +12917,7 @@ tbl = {
     {
       id = 13720,
       prob = 100,
-      name = "Caja de 10┬áPociones de regeneraci├│n",
+      name = "Caja de 10 Pociones de regeneraci├│n",
       group = 1
     }
   },
@@ -12931,13 +12931,13 @@ tbl = {
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 15",
+      name = "Pergamino de Bendici├│n de nivel 10 15",
       group = 0
     },
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 15",
+      name = "Pergamino de AGI de nivel 10 15",
       group = 0
     }
   },
@@ -13561,13 +13561,13 @@ tbl = {
     {
       id = 730,
       prob = 100,
-      name = "Diamante de 1┬áquilate 20",
+      name = "Diamante de 1 quilate 20",
       group = 1
     },
     {
       id = 732,
       prob = 150,
-      name = "Diamante de 3┬áquilates 10",
+      name = "Diamante de 3 quilates 10",
       group = 1
     },
     {
@@ -14129,7 +14129,7 @@ tbl = {
     {
       id = 13639,
       prob = 70,
-      name = "Paquete de Vigoris vol.┬á6",
+      name = "Paquete de Vigoris vol. 6",
       group = 1
     },
     {
@@ -14717,7 +14717,7 @@ tbl = {
     {
       id = 13516,
       prob = 200,
-      name = "Caja de 5┬áunidades de Jalea real",
+      name = "Caja de 5 unidades de Jalea real",
       group = 1
     },
     {
@@ -14729,7 +14729,7 @@ tbl = {
     {
       id = 12968,
       prob = 150,
-      name = "Pergamino de llamada de emergencia de nivel┬á1 10",
+      name = "Pergamino de llamada de emergencia de nivel 1 10",
       group = 1
     }
   },
@@ -14749,7 +14749,7 @@ tbl = {
     {
       id = 14232,
       prob = 150,
-      name = "Caja de 10┬áBayas de Yggdrasil",
+      name = "Caja de 10 Bayas de Yggdrasil",
       group = 1
     },
     {
@@ -14773,7 +14773,7 @@ tbl = {
     {
       id = 13516,
       prob = 200,
-      name = "Caja de 5┬áunidades de Jalea real",
+      name = "Caja de 5 unidades de Jalea real",
       group = 1
     },
     {
@@ -15303,7 +15303,7 @@ tbl = {
     {
       id = 14232,
       prob = 100,
-      name = "Caja de 10┬áBayas de Yggdrasil",
+      name = "Caja de 10 Bayas de Yggdrasil",
       group = 1
     },
     {
@@ -15351,7 +15351,7 @@ tbl = {
     {
       id = 12921,
       prob = 80,
-      name = "Caja de 5┬áunidades de Oridecon Concentrado.",
+      name = "Caja de 5 unidades de Oridecon Concentrado.",
       group = 1
     },
     {
@@ -15407,13 +15407,13 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
       id = 12550,
       prob = 1000,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 1
     },
     {
@@ -16139,19 +16139,19 @@ tbl = {
     {
       id = 12254,
       prob = 100,
-      name = "Nueve colas cocidas┬á60 5",
+      name = "Nueve colas cocidas 60 5",
       group = 1
     },
     {
       id = 12255,
       prob = 100,
-      name = "Guiso de la inmortalidad┬á60 5",
+      name = "Guiso de la inmortalidad 60 5",
       group = 1
     },
     {
       id = 12250,
       prob = 100,
-      name = "Lengua al vapor┬á60 5",
+      name = "Lengua al vapor 60 5",
       group = 1
     },
     {
@@ -16219,7 +16219,7 @@ tbl = {
     {
       id = 14232,
       prob = 245,
-      name = "Caja de 10┬áBayas de Yggdrasil",
+      name = "Caja de 10 Bayas de Yggdrasil",
       group = 1
     },
     {
@@ -16231,67 +16231,67 @@ tbl = {
     {
       id = 14252,
       prob = 50,
-      name = "Caja de anillo neutral┬á2",
+      name = "Caja de anillo neutral 2",
       group = 1
     },
     {
       id = 14253,
       prob = 50,
-      name = "Caja de anillo santo┬á2",
+      name = "Caja de anillo santo 2",
       group = 1
     },
     {
       id = 14254,
       prob = 50,
-      name = "Caja de anillo clamoroso┬á2",
+      name = "Caja de anillo clamoroso 2",
       group = 1
     },
     {
       id = 14255,
       prob = 50,
-      name = "Caja de anillo qu├¡mico┬á2",
+      name = "Caja de anillo qu├¡mico 2",
       group = 1
     },
     {
       id = 14256,
       prob = 50,
-      name = "Caja de anillo insecticida┬á2",
+      name = "Caja de anillo insecticida 2",
       group = 1
     },
     {
       id = 14257,
       prob = 50,
-      name = "Caja de anillo de pesca┬á2",
+      name = "Caja de anillo de pesca 2",
       group = 1
     },
     {
       id = 14258,
       prob = 50,
-      name = "Caja de anillo decusata┬á2",
+      name = "Caja de anillo decusata 2",
       group = 1
     },
     {
       id = 14259,
       prob = 50,
-      name = "Caja de anillo sangriento┬á2",
+      name = "Caja de anillo sangriento 2",
       group = 1
     },
     {
       id = 14260,
       prob = 50,
-      name = "Caja de anillo sat├ínico┬á2",
+      name = "Caja de anillo sat├ínico 2",
       group = 1
     },
     {
       id = 14261,
       prob = 50,
-      name = "Anillo drac├│nico┬á2",
+      name = "Anillo drac├│nico 2",
       group = 1
     },
     {
       id = 13858,
       prob = 50,
-      name = "Caja de 10┬áDulces brillantes",
+      name = "Caja de 10 Dulces brillantes",
       group = 1
     },
     {
@@ -16311,31 +16311,31 @@ tbl = {
     {
       id = 13747,
       prob = 112,
-      name = "Caja de 30┬áPociones de defensa (P)",
+      name = "Caja de 30 Pociones de defensa (P)",
       group = 1
     },
     {
       id = 13753,
       prob = 111,
-      name = "Caja de 30┬áPociones de defensa m. (P)",
+      name = "Caja de 30 Pociones de defensa m. (P)",
       group = 1
     },
     {
       id = 13749,
       prob = 110,
-      name = "Caja de 10┬áPociones de defensa (G)",
+      name = "Caja de 10 Pociones de defensa (G)",
       group = 1
     },
     {
       id = 13755,
       prob = 109,
-      name = "Caja de 10┬áPociones de defensa m. (G)",
+      name = "Caja de 10 Pociones de defensa m. (G)",
       group = 1
     },
     {
       id = 13721,
       prob = 108,
-      name = "Caja de 10┬áPergaminos de teletransportaci├│n a mazmorra",
+      name = "Caja de 10 Pergaminos de teletransportaci├│n a mazmorra",
       group = 1
     },
     {
@@ -16471,7 +16471,7 @@ tbl = {
     {
       id = 13517,
       prob = 191,
-      name = "Caja de 3┬áunidades de Bayas de Yggdrasil",
+      name = "Caja de 3 unidades de Bayas de Yggdrasil",
       group = 1
     },
     {
@@ -16489,13 +16489,13 @@ tbl = {
     {
       id = 13747,
       prob = 105,
-      name = "Caja de 30┬áPociones de defensa (P)",
+      name = "Caja de 30 Pociones de defensa (P)",
       group = 1
     },
     {
       id = 13753,
       prob = 104,
-      name = "Caja de 30┬áPociones de defensa m. (P)",
+      name = "Caja de 30 Pociones de defensa m. (P)",
       group = 1
     },
     {
@@ -16593,7 +16593,7 @@ tbl = {
     {
       id = 13858,
       prob = 103,
-      name = "Caja de 10┬áDulces brillantes",
+      name = "Caja de 10 Dulces brillantes",
       group = 1
     },
     {
@@ -16841,7 +16841,7 @@ tbl = {
     {
       id = 13720,
       prob = 50,
-      name = "Caja de 10┬áPociones de regeneraci├│n",
+      name = "Caja de 10 Pociones de regeneraci├│n",
       group = 1
     }
   },
@@ -16879,7 +16879,7 @@ tbl = {
     {
       id = 13741,
       prob = 80,
-      name = "Caja de 10┬áPergaminos de armadura sombr├¡a",
+      name = "Caja de 10 Pergaminos de armadura sombr├¡a",
       group = 1
     },
     {
@@ -17039,7 +17039,7 @@ tbl = {
     {
       id = 13516,
       prob = 150,
-      name = "Caja de 5┬áunidades de Jalea real",
+      name = "Caja de 5 unidades de Jalea real",
       group = 1
     },
     {
@@ -17119,7 +17119,7 @@ tbl = {
     {
       id = 13858,
       prob = 150,
-      name = "Caja de 10┬áDulces brillantes",
+      name = "Caja de 10 Dulces brillantes",
       group = 1
     },
     {
@@ -17131,7 +17131,7 @@ tbl = {
     {
       id = 13996,
       prob = 155,
-      name = "Caja de Bollos grandes┬á(100)",
+      name = "Caja de Bollos grandes (100)",
       group = 1
     },
     {
@@ -17271,7 +17271,7 @@ tbl = {
     {
       id = 13720,
       prob = 70,
-      name = "Caja de 10┬áPociones de regeneraci├│n",
+      name = "Caja de 10 Pociones de regeneraci├│n",
       group = 1
     },
     {
@@ -17449,13 +17449,13 @@ tbl = {
     {
       id = 13738,
       prob = 100,
-      name = "Caja de 5┬áVasos de ilusi├│n",
+      name = "Caja de 5 Vasos de ilusi├│n",
       group = 1
     },
     {
       id = 13741,
       prob = 50,
-      name = "Caja de 10┬áPergaminos de armadura sombr├¡a",
+      name = "Caja de 10 Pergaminos de armadura sombr├¡a",
       group = 1
     },
     {
@@ -17479,7 +17479,7 @@ tbl = {
     {
       id = 14253,
       prob = 100,
-      name = "Caja de anillo santo┬á2",
+      name = "Caja de anillo santo 2",
       group = 1
     },
     {
@@ -17679,7 +17679,7 @@ tbl = {
     {
       id = 13720,
       prob = 100,
-      name = "Caja de 10┬áPociones de regeneraci├│n",
+      name = "Caja de 10 Pociones de regeneraci├│n",
       group = 1
     },
     {
@@ -17989,7 +17989,7 @@ tbl = {
     {
       id = 13996,
       prob = 100,
-      name = "Caja de Bollos grandes┬á(100)",
+      name = "Caja de Bollos grandes (100)",
       group = 1
     },
     {
@@ -18001,7 +18001,7 @@ tbl = {
     {
       id = 13739,
       prob = 100,
-      name = "Caja de 10┬áVasos de ilusi├│n",
+      name = "Caja de 10 Vasos de ilusi├│n",
       group = 1
     },
     {
@@ -18037,7 +18037,7 @@ tbl = {
     {
       id = 13720,
       prob = 100,
-      name = "Caja de 10┬áPociones de regeneraci├│n",
+      name = "Caja de 10 Pociones de regeneraci├│n",
       group = 1
     },
     {
@@ -18049,7 +18049,7 @@ tbl = {
     {
       id = 14590,
       prob = 100,
-      name = "Pergamino de Assumptio para el grupo de nivel┬á5 10",
+      name = "Pergamino de Assumptio para el grupo de nivel 5 10",
       group = 1
     },
     {
@@ -18249,7 +18249,7 @@ tbl = {
     {
       id = 13858,
       prob = 120,
-      name = "Caja de 10┬áDulces brillantes",
+      name = "Caja de 10 Dulces brillantes",
       group = 1
     },
     {
@@ -18285,7 +18285,7 @@ tbl = {
     {
       id = 12253,
       prob = 70,
-      name = "Elixir de Hwergelmir┬á60",
+      name = "Elixir de Hwergelmir 60",
       group = 1
     },
     {
@@ -18371,7 +18371,7 @@ tbl = {
     {
       id = 13857,
       prob = 100,
-      name = "Caja de 5┬áDulces brillantes",
+      name = "Caja de 5 Dulces brillantes",
       group = 1
     },
     {
@@ -18383,7 +18383,7 @@ tbl = {
     {
       id = 13610,
       prob = 130,
-      name = "Cj de 5┬áunidades de Elunium Concentrado",
+      name = "Cj de 5 unidades de Elunium Concentrado",
       group = 1
     },
     {
@@ -18395,7 +18395,7 @@ tbl = {
     {
       id = 13611,
       prob = 150,
-      name = "Cj de 5┬áunidades de Elunium Concentrado",
+      name = "Cj de 5 unidades de Elunium Concentrado",
       group = 1
     },
     {
@@ -18529,7 +18529,7 @@ tbl = {
     {
       id = 13713,
       prob = 1100,
-      name = "Caja de 50┬áPociones de vida peque├▒as",
+      name = "Caja de 50 Pociones de vida peque├▒as",
       group = 1
     },
     {
@@ -18639,7 +18639,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18653,7 +18653,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18667,7 +18667,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18681,7 +18681,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18695,7 +18695,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18709,7 +18709,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18723,7 +18723,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18737,7 +18737,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18751,7 +18751,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18765,7 +18765,7 @@ tbl = {
     {
       id = 12673,
       prob = 1,
-      name = "Caja de oportunidad con seguridad hasta┬á7",
+      name = "Caja de oportunidad con seguridad hasta 7",
       group = 0
     }
   },
@@ -18811,13 +18811,13 @@ tbl = {
     {
       id = 12215,
       prob = 1,
-      name = "Pergamino de Bendici├│n de nivel┬á10 20",
+      name = "Pergamino de Bendici├│n de nivel 10 20",
       group = 0
     },
     {
       id = 12216,
       prob = 1,
-      name = "Pergamino de AGI de nivel┬á10 20",
+      name = "Pergamino de AGI de nivel 10 20",
       group = 0
     }
   },
@@ -18951,7 +18951,7 @@ tbl = {
     {
       id = 12676,
       prob = 600,
-      name = "Caja de 50┬áPociones violetas de GdI",
+      name = "Caja de 50 Pociones violetas de GdI",
       group = 1
     },
     {
@@ -19481,7 +19481,7 @@ tbl = {
     {
       id = 12766,
       prob = 0,
-      name = "Recompensa de Clase del MB┬á25 3",
+      name = "Recompensa de Clase del MB 25 3",
       group = 0
     },
     {
@@ -20055,109 +20055,109 @@ tbl = {
     {
       id = 4908,
       prob = 1167,
-      name = "Esencia del Se├▒or oscuro de potencia┬á1",
+      name = "Esencia del Se├▒or oscuro de potencia 1",
       group = 1
     },
     {
       id = 4911,
       prob = 1167,
-      name = "Esencia del Se├▒or oscuro de inteligencia┬á1",
+      name = "Esencia del Se├▒or oscuro de inteligencia 1",
       group = 1
     },
     {
       id = 4914,
       prob = 1167,
-      name = "Esencia del Se├▒or oscuro de velocidad┬á1",
+      name = "Esencia del Se├▒or oscuro de velocidad 1",
       group = 1
     },
     {
       id = 4917,
       prob = 1167,
-      name = "Esencia del Se├▒or oscuro de vitalidad┬á1",
+      name = "Esencia del Se├▒or oscuro de vitalidad 1",
       group = 1
     },
     {
       id = 4920,
       prob = 1167,
-      name = "Esencia del Se├▒or oscuro de concentraci├│n┬á1",
+      name = "Esencia del Se├▒or oscuro de concentraci├│n 1",
       group = 1
     },
     {
       id = 4923,
       prob = 1167,
-      name = "Esencia del Se├▒or oscuro de suerte┬á1",
+      name = "Esencia del Se├▒or oscuro de suerte 1",
       group = 1
     },
     {
       id = 4909,
       prob = 416,
-      name = "Esencia del Se├▒or oscuro de potencia┬á2",
+      name = "Esencia del Se├▒or oscuro de potencia 2",
       group = 1
     },
     {
       id = 4912,
       prob = 416,
-      name = "Esencia del Se├▒or oscuro de inteligencia┬á2",
+      name = "Esencia del Se├▒or oscuro de inteligencia 2",
       group = 1
     },
     {
       id = 4915,
       prob = 416,
-      name = "Esencia del Se├▒or oscuro de velocidad┬á2",
+      name = "Esencia del Se├▒or oscuro de velocidad 2",
       group = 1
     },
     {
       id = 4918,
       prob = 416,
-      name = "Esencia del Se├▒or oscuro de vitalidad┬á2",
+      name = "Esencia del Se├▒or oscuro de vitalidad 2",
       group = 1
     },
     {
       id = 4921,
       prob = 416,
-      name = "Esencia del Se├▒or oscuro de concentraci├│n┬á2",
+      name = "Esencia del Se├▒or oscuro de concentraci├│n 2",
       group = 1
     },
     {
       id = 4924,
       prob = 416,
-      name = "Esencia del Se├▒or oscuro de suerte┬á2",
+      name = "Esencia del Se├▒or oscuro de suerte 2",
       group = 1
     },
     {
       id = 4910,
       prob = 83,
-      name = "Esencia del Se├▒or oscuro de potencia┬á3",
+      name = "Esencia del Se├▒or oscuro de potencia 3",
       group = 1
     },
     {
       id = 4913,
       prob = 83,
-      name = "Esencia del Se├▒or oscuro de inteligencia┬á3",
+      name = "Esencia del Se├▒or oscuro de inteligencia 3",
       group = 1
     },
     {
       id = 4916,
       prob = 83,
-      name = "Esencia del Se├▒or oscuro de velocidad┬á3",
+      name = "Esencia del Se├▒or oscuro de velocidad 3",
       group = 1
     },
     {
       id = 4919,
       prob = 83,
-      name = "Esencia del Se├▒or oscuro de vitalidad┬á3",
+      name = "Esencia del Se├▒or oscuro de vitalidad 3",
       group = 1
     },
     {
       id = 4922,
       prob = 83,
-      name = "Esencia del Se├▒or oscuro de concentraci├│n┬á3",
+      name = "Esencia del Se├▒or oscuro de concentraci├│n 3",
       group = 1
     },
     {
       id = 4925,
       prob = 83,
-      name = "Esencia del Se├▒or oscuro de suerte┬á3",
+      name = "Esencia del Se├▒or oscuro de suerte 3",
       group = 1
     },
     {
@@ -23419,7 +23419,7 @@ tbl = {
     {
       id = 1260,
       prob = 25,
-      name = "Hueso de Necr├│fago afilado",
+      name = "Hueso de Necr├│fago Afilado",
       group = 6
     },
     {
@@ -24639,7 +24639,7 @@ tbl = {
     {
       id = 2162,
       prob = 3,
-      name = "Biblia de las promesas (vol.┬á2) [1]",
+      name = "Biblia de las promesas (vol. 2) [1]",
       group = 6
     },
     {
@@ -24687,7 +24687,7 @@ tbl = {
     {
       id = 2156,
       prob = 493,
-      name = "Biblia de las promesas (vol.┬á1) [1]",
+      name = "Biblia de las promesas (vol. 1) [1]",
       group = 6
     },
     {
@@ -25461,7 +25461,7 @@ tbl = {
     {
       id = 12549,
       prob = 1,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 0
     },
     {
@@ -25673,7 +25673,7 @@ tbl = {
     {
       id = 12549,
       prob = 1,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 0
     },
     {
@@ -25787,7 +25787,7 @@ tbl = {
     {
       id = 12766,
       prob = 200,
-      name = "Recompensa de Clase del MB┬á25 2",
+      name = "Recompensa de Clase del MB 25 2",
       group = 1
     },
     {
@@ -25903,7 +25903,7 @@ tbl = {
     {
       id = 12550,
       prob = 1,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 0
     },
     {
@@ -25939,7 +25939,7 @@ tbl = {
     {
       id = 12549,
       prob = 1000,
-      name = "Caja de 100┬áPociones blancas condensadas",
+      name = "Caja de 100 Pociones blancas condensadas",
       group = 1
     },
     {
@@ -26035,7 +26035,7 @@ tbl = {
     {
       id = 12766,
       prob = 300,
-      name = "Recompensa de Clase del MB┬á25 10",
+      name = "Recompensa de Clase del MB 25 10",
       group = 1
     },
     {
@@ -29161,7 +29161,7 @@ tbl = {
     {
       id = 4642,
       prob = 100,
-      name = "Carta Sapo Espacial",
+      name = "Carta Rana Espacial",
       group = 6
     },
     {
@@ -32587,7 +32587,7 @@ tbl = {
     {
       id = 400022,
       prob = 1,
-      name = "Sombrero de Ignis de tipo┬áK [1]",
+      name = "Sombrero de Ignis de tipo K [1]",
       group = 6
     },
     {
@@ -32623,7 +32623,7 @@ tbl = {
     {
       id = 400061,
       prob = 1,
-      name = "Diadema de Sagitario de tipo┬áK [1]",
+      name = "Diadema de Sagitario de tipo K [1]",
       group = 6
     }
   },
@@ -32631,37 +32631,37 @@ tbl = {
     {
       id = 420018,
       prob = 10,
-      name = "Brote del ├ürbol Mundial┬á(DES)",
+      name = "Brote del ├ürbol Mundial (DES)",
       group = 6
     },
     {
       id = 420017,
       prob = 10,
-      name = "Brote del ├ürbol Mundial┬á(FUE)",
+      name = "Brote del ├ürbol Mundial (FUE)",
       group = 6
     },
     {
       id = 420019,
       prob = 10,
-      name = "Brote del ├ürbol Mundial┬á(AGI)",
+      name = "Brote del ├ürbol Mundial (AGI)",
       group = 6
     },
     {
       id = 420020,
       prob = 10,
-      name = "Brote del ├ürbol Mundial┬á(SUE)",
+      name = "Brote del ├ürbol Mundial (SUE)",
       group = 6
     },
     {
       id = 420021,
       prob = 10,
-      name = "Brote del ├ürbol Mundial┬á(VIT)",
+      name = "Brote del ├ürbol Mundial (VIT)",
       group = 6
     },
     {
       id = 420022,
       prob = 10,
-      name = "Brote del ├ürbol Mundial┬á(INT)",
+      name = "Brote del ├ürbol Mundial (INT)",
       group = 6
     }
   },
@@ -33107,7 +33107,7 @@ tbl = {
     {
       id = 24322,
       prob = 10,
-      name = "Pendiente de gema sombr├¡o┬áII",
+      name = "Pendiente de gema sombr├¡o II",
       group = 1
     },
     {
@@ -33629,7 +33629,7 @@ tbl = {
     {
       id = 24322,
       prob = 10,
-      name = "Pendiente de gema sombr├¡o┬áII",
+      name = "Pendiente de gema sombr├¡o II",
       group = 2
     },
     {
@@ -33857,13 +33857,13 @@ tbl = {
     {
       id = 22917,
       prob = 6,
-      name = "Certificado de mejora de arma┬á+13",
+      name = "Certificado de mejora de arma +13",
       group = 6
     },
     {
       id = 22932,
       prob = 6,
-      name = "Certificado de mejora de armadura┬á+13",
+      name = "Certificado de mejora de armadura +13",
       group = 6
     }
   },
@@ -33913,7 +33913,7 @@ tbl = {
     {
       id = 6994,
       prob = 5,
-      name = "Certificado de seguridad de armaduras hasta el nivel┬á10",
+      name = "Certificado de seguridad de armaduras hasta el nivel 10",
       group = 6
     }
   },
@@ -34065,13 +34065,13 @@ tbl = {
     {
       id = 12550,
       prob = 150,
-      name = "Caja de 30┬áBotellas de veneno",
+      name = "Caja de 30 Botellas de veneno",
       group = 6
     },
     {
       id = 13989,
       prob = 150,
-      name = "Caja de Bombas ├ícidas┬á(10)",
+      name = "Caja de Bombas ├ícidas (10)",
       group = 6
     },
     {
@@ -35993,7 +35993,7 @@ tbl = {
     {
       id = 12149,
       prob = 1,
-      name = "Estuche de balas 3",
+      name = "Cartucho 3",
       group = 0
     },
     {
@@ -36049,7 +36049,7 @@ tbl = {
     {
       id = 12149,
       prob = 1,
-      name = "Estuche de balas 3",
+      name = "Cartucho 3",
       group = 0
     },
     {
@@ -36099,7 +36099,7 @@ tbl = {
     {
       id = 12149,
       prob = 1,
-      name = "Estuche de balas 3",
+      name = "Cartucho 3",
       group = 0
     },
     {
@@ -36155,7 +36155,7 @@ tbl = {
     {
       id = 12149,
       prob = 1,
-      name = "Estuche de balas 3",
+      name = "Cartucho 3",
       group = 0
     },
     {
@@ -36205,7 +36205,7 @@ tbl = {
     {
       id = 12149,
       prob = 1,
-      name = "Estuche de balas 3",
+      name = "Cartucho 3",
       group = 0
     },
     {
@@ -40087,9 +40087,9 @@ tbl = {
       group = 6
     },
     {
-      id = 6299,
+      id = 6229,
       prob = 10,
-      name = "Tejido desgastado",
+      name = "Pergamino de Arma +8",
       group = 6
     },
     {
@@ -40323,9 +40323,9 @@ tbl = {
       group = 6
     },
     {
-      id = 6299,
+      id = 6229,
       prob = 10,
-      name = "Tejido desgastado",
+      name = "Pergamino de Arma +8",
       group = 6
     },
     {

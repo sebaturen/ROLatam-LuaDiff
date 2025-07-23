@@ -1071,7 +1071,7 @@ tbl = {
     {
       id = 4209,
       prob = 1,
-      name = "Carta┬áViolinista",
+      name = "Carta Violinista",
       group = 6
     },
     {
@@ -8035,7 +8035,7 @@ tbl = {
     {
       id = 4209,
       prob = 1,
-      name = "Carta┬áViolinista",
+      name = "Carta Violinista",
       group = 6
     },
     {
@@ -40087,9 +40087,9 @@ tbl = {
       group = 6
     },
     {
-      id = 6299,
+      id = 6229,
       prob = 10,
-      name = "Tecido Velho",
+      name = "Pergaminho de Arma +8",
       group = 6
     },
     {
@@ -40323,9 +40323,9 @@ tbl = {
       group = 6
     },
     {
-      id = 6299,
+      id = 6229,
       prob = 10,
-      name = "Tecido Velho",
+      name = "Pergaminho de Arma +8",
       group = 6
     },
     {
