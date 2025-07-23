@@ -4,10 +4,6 @@ tb_cashshop_banner = {
     "https://ro.gnjoylatam.com/pt/news/event/22?type=ACTIVE"
   },
   [2] = {
-    "06_Cashshop_Banner.bmp",
-    "https://ro.gnjoylatam.com/pt/news/event/26?type=ACTIVE"
-  },
-  [3] = {
     "08_Cashshop_Banner.bmp",
     "https://ro.gnjoylatam.com/pt/news/event/24?type=ACTIVE"
   }

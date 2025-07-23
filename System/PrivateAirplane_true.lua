@@ -1,6 +1,5 @@
 StartableMap = {
   "prt_mk",
-  "prt_mk_a",
   "pay_mk",
   "abbey01",
   "abbey02",
@@ -354,7 +353,6 @@ StartableMap = {
 }
 EndableMap = {
   "prt_mk",
-  "prt_mk_a",
   "pay_mk",
   "abbey01",
   "abbey02",

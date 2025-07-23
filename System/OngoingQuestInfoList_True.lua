@@ -17082,6 +17082,7 @@ QuestInfoList = {
   },
   [7611] = {
     Title = "Limpando o Caminho",
+    IconName = "ico_dq.bmp",
     Description = {
       "Nem todo mundo que explora essa ßrea Ú um aventureiro... cientistas, historiadores e atÚ pessoas comuns estÒo se machucando por causa desses rob¶s que estÒo invadindo o t·nel."
     },
@@ -17089,6 +17090,7 @@ QuestInfoList = {
   },
   [7612] = {
     Title = "Limpando o Caminho",
+    IconName = "ico_dq.bmp",
     Description = {
       "Muito obrigado pela sua ajuda! VocÛ deveria descansar, outros aventureiros podem cuidar dos monstros no t·nel por enquanto."
     },
@@ -17096,6 +17098,7 @@ QuestInfoList = {
   },
   [7613] = {
     Title = "Eliminando Rob¶s",
+    IconName = "ico_dq.bmp",
     Description = {
       "A praþa central de Verus estß infestada com criaturas estranhas que parecem viver aqui muito antes de n¾s... Acontece que eles atrapalham o avanþo de outras equipes de escavaþÒo. Por favor, dÛ um jeito neles."
     },
@@ -17103,6 +17106,7 @@ QuestInfoList = {
   },
   [7614] = {
     Title = "Eliminando Rob¶s",
+    IconName = "ico_dq.bmp",
     Description = {
       "VocÛ conseguiu dar um jeito nos rob¶s da praþa central de Verus!"
     },
@@ -17110,6 +17114,7 @@ QuestInfoList = {
   },
   [7615] = {
     Title = "Relat¾rio Dißrio de N·cleos",
+    IconName = "ico_dq.bmp",
     Description = {
       "Esses rob¶s de Verus podem ser a chave para uma civilizaþÒo muito avanþada. VocÛ pode conseguir N·cleos de Energia destruindo qualquer Rob¶ de Reconhecimento, Rob¶ Reparor e Rob¶ Explorador."
     },
@@ -17117,6 +17122,7 @@ QuestInfoList = {
   },
   [7616] = {
     Title = "Relat¾rio Dißrio de N·cleos",
+    IconName = "ico_dq.bmp",
     Description = {
       "O time de escavaþÒo estß focando em estudar os N·cleos de Energia. VocÛ deveria descansar enquanto isso."
     },
@@ -17124,6 +17130,7 @@ QuestInfoList = {
   },
   [7617] = {
     Title = "Relat¾rio Dißrio",
+    IconName = "ico_dq.bmp",
     Description = {
       "Leve o ^CD3278Relat¾rio da EscavaþÒo^000000 para o Comandante Louis na Central de Comando. Depois disso, seu trabalho por hoje acabou!"
     },
@@ -17131,6 +17138,7 @@ QuestInfoList = {
   },
   [7618] = {
     Title = "Relat¾rio Dißrio",
+    IconName = "ico_dq.bmp",
     Description = {
       "VocÛ jß entregou o ^CD3278Relat¾rio da EscavaþÒo^000000 hoje. ╔ necessßrio que outro relat¾ro seja escrito para vocÛ entregß-lo novamente"
     },
@@ -17138,6 +17146,7 @@ QuestInfoList = {
   },
   [7619] = {
     Title = "Recrutamento de Escavadores",
+    IconName = "ico_dq.bmp",
     Description = {
       "Agora vocÛ Ú um membro oficial do time de escavaþÒo de ^CD3278Atnad^000000 e pode participar do projeto 'Fantasmag¾rica'."
     },
@@ -17145,6 +17154,7 @@ QuestInfoList = {
   },
   [7620] = {
     Title = "Recrutamento de Escavadores",
+    IconName = "ico_dq.bmp",
     Description = {
       "O Arqueologista Aureth te pediu para ir atÚ Lloyd e Luke na Praþa Central Verus."
     },
@@ -27589,6 +27599,7 @@ QuestInfoList = {
   },
   [11363] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Parece que vocÛ precisa ter acesso ao elevador antes de usß-lo. Dirija-se ao Quartal General da CorporaþÒo Rekenber em Lighthalzen e converse com Leitner na mesa Ó esquerda do hall de entrada."
     },
@@ -27596,6 +27607,7 @@ QuestInfoList = {
   },
   [11364] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Registro concluÝdo! Retorne ao Planalto de El Mes para usar o elevador que leva direto para Verus."
     },
@@ -27603,6 +27615,7 @@ QuestInfoList = {
   },
   [11365] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Procure pela Guia Scarlet no centro da cidade de Verus, pr¾xima a uma fonte."
     },
@@ -27610,6 +27623,7 @@ QuestInfoList = {
   },
   [11366] = {
     Title = "Fale com Scarlet.",
+    IconName = "ico_ep.bmp",
     Description = {
       "30 Placas de Ferro Usadas"
     },
@@ -27617,6 +27631,7 @@ QuestInfoList = {
   },
   [11367] = {
     Title = "Algo parece ter dado errado com o elevador! Colete 30 Placas de Ferro Usadas para resolver esse problema!",
+    IconName = "ico_ep.bmp",
     Description = {
       "Investigue a Fonte."
     },
@@ -27624,6 +27639,7 @@ QuestInfoList = {
   },
   [11368] = {
     Title = "Du Lian parece ter se impressionado com essa estranha Fonte no meio de Verus...",
+    IconName = "ico_ep.bmp",
     Description = {
       "Investigue as Miudezas."
     },
@@ -27631,6 +27647,7 @@ QuestInfoList = {
   },
   [11369] = {
     Title = "VocÛ nÒo encontrou nada na fonte. Verifique as miudezas ali perto.",
+    IconName = "ico_ep.bmp",
     Description = {
       "Investigue a ┴rvore."
     },
@@ -27638,6 +27655,7 @@ QuestInfoList = {
   },
   [11370] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Aquela casa estranha tem uma placa de aviso bem peculiar pendurado na porta."
     },
@@ -27645,6 +27663,7 @@ QuestInfoList = {
   },
   [11371] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Tem um caminho atrßs da casa! Entre naquele portal e siga para a pr¾xima ßrea."
     },
@@ -27652,6 +27671,7 @@ QuestInfoList = {
   },
   [11372] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Existe uma fonte mais ao norte, ela Ú igual a outra fonte que encontramos."
     },
@@ -27659,6 +27679,7 @@ QuestInfoList = {
   },
   [11373] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Mark vai atÚ o norte desse lugar, serß que ele vai muito longe?"
     },
@@ -27666,6 +27687,7 @@ QuestInfoList = {
   },
   [11374] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "O caminho parece estar bloqueado."
     },
@@ -27673,6 +27695,7 @@ QuestInfoList = {
   },
   [11375] = {
     Title = "Investigando o Passado",
+    IconName = "ico_ep.bmp",
     Description = {
       "Magi estß investigando a entrada da ßrea destruÝda, ela estß um pouco mais afastada do portal."
     },
@@ -35436,7 +35459,7 @@ QuestInfoList = {
   [14189] = {
     Title = "4║ Monstro",
     Description = {
-      "Se vocÛ derrotar 500 Zakudam, 500 Hell Apocalypse e 300 Cobalt Mineral em Nidhoggu, poderß obter um Ganbantein!"
+      "Se vocÛ derrotar 550 Lagarta e 550 Creamy Ameaþador em Nidhoggu, poderß obter um Ganbantein!"
     },
     Summary = "Caþa aos monstros!"
   },
@@ -35492,7 +35515,7 @@ QuestInfoList = {
   [14197] = {
     Title = "4║ Monstro",
     Description = {
-      "VocÛ pode tornar Hervor Alvitr derrotando 550 Aunoe, 550 Banshee Master e 100 Fanat em Valfreyja!"
+      "VocÛ pode tornar Hervor Alvitr derrotando 350 ZangÒo Gigante, 300 Verme AnciÒo e 200 Aranha Gigante em Valfreyja!"
     },
     Summary = "Caþa aos monstros!"
   },

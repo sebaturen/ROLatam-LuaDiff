@@ -17046,6 +17046,7 @@ QuestInfoList = {
   },
   [7611] = {
     Title = "Passage Cleaning",
+    IconName = "ico_dq.bmp",
     Description = {
       "Could you help us take care of monsters in the tunnel and around here?"
     },
@@ -17053,6 +17054,7 @@ QuestInfoList = {
   },
   [7612] = {
     Title = "Passage Cleaning - Down",
+    IconName = "ico_dq.bmp",
     Description = {
       "You should take rest. Our mercenaries can take care of the monsters in the passage."
     },
@@ -17060,6 +17062,7 @@ QuestInfoList = {
   },
   [7613] = {
     Title = "Eliminating Risks",
+    IconName = "ico_dq.bmp",
     Description = {
       "Robots in the main excavation site are getting in our way. Please get rid of them."
     },
@@ -17067,6 +17070,7 @@ QuestInfoList = {
   },
   [7614] = {
     Title = "Eliminating Risks - Down",
+    IconName = "ico_dq.bmp",
     Description = {
       "We're able to clear the excavation site of those robots. Please come back next time."
     },
@@ -17074,6 +17078,7 @@ QuestInfoList = {
   },
   [7615] = {
     Title = "Core Collection",
+    IconName = "ico_dq.bmp",
     Description = {
       "Please collect 20 Power Control Devices from robots. They can be the key to the highly advanced civilization."
     },
@@ -17081,6 +17086,7 @@ QuestInfoList = {
   },
   [7616] = {
     Title = "Core Collection - Down",
+    IconName = "ico_dq.bmp",
     Description = {
       "The Artnard Excavation Team is focusing on studying the Power Control Devices. You should take rest while you can."
     },
@@ -17088,6 +17094,7 @@ QuestInfoList = {
   },
   [7617] = {
     Title = "Turning In Excavation Report",
+    IconName = "ico_dq.bmp",
     Description = {
       "Take the Artnard Excavation Team's daily excavation report to Louis at the Central Command Center. After that your work for the day is done!"
     },
@@ -17095,6 +17102,7 @@ QuestInfoList = {
   },
   [7618] = {
     Title = "Reporting the Results - Down",
+    IconName = "ico_dq.bmp",
     Description = {
       "Wait for the Artnard Excavation Team's next report."
     },
@@ -17102,6 +17110,7 @@ QuestInfoList = {
   },
   [7619] = {
     Title = "Assisting the Excavation Team",
+    IconName = "ico_dq.bmp",
     Description = {
       "You are now an official member of the excavation team. Go to Aureth."
     },
@@ -17109,6 +17118,7 @@ QuestInfoList = {
   },
   [7620] = {
     Title = "Young Blood?",
+    IconName = "ico_dq.bmp",
     Description = {
       "Aureth has asked you to go to Lloyd and Luke at the plaza in the middle of Verus."
     },
@@ -27728,6 +27738,7 @@ QuestInfoList = {
   },
   [11363] = {
     Title = "To Phantasmagorika!",
+    IconName = "ico_ep.bmp",
     Description = {
       "Go to Rekenber Corporation Headquarters in Lighthalzen. Talk to Leitner at the desk on the west side from the main entrance."
     },
@@ -27735,6 +27746,7 @@ QuestInfoList = {
   },
   [11364] = {
     Title = "To Phantasmagorika!",
+    IconName = "ico_ep.bmp",
     Description = {
       "You have registered for the use of the elevator."
     },
@@ -27742,6 +27754,7 @@ QuestInfoList = {
   },
   [11365] = {
     Title = "To Phantasmagorika!",
+    IconName = "ico_ep.bmp",
     Description = {
       "Meet Guide Scarlet by the fountain in the middle of Phantasmagorika."
     },
@@ -27749,6 +27762,7 @@ QuestInfoList = {
   },
   [11366] = {
     Title = "To Phantasmagorika!",
+    IconName = "ico_ep.bmp",
     Description = {
       "Collect 30 Old Steel Plates from Dimiks in Juperos."
     },
@@ -27756,6 +27770,7 @@ QuestInfoList = {
   },
   [11367] = {
     Title = "Looking for the Traces",
+    IconName = "ico_ep.bmp",
     Description = {
       "The first thing you saw in Phantasmagorika is a gigantic fountain in the center. Investigate the fountain with the Deus. "
     },
@@ -27763,6 +27778,7 @@ QuestInfoList = {
   },
   [11368] = {
     Title = "Looking for the Traces",
+    IconName = "ico_ep.bmp",
     Description = {
       "You have found nothing in the fountain. Check the sundries on the left side."
     },
@@ -27770,6 +27786,7 @@ QuestInfoList = {
   },
   [11369] = {
     Title = "Looking for the Traces",
+    IconName = "ico_ep.bmp",
     Description = {
       "Is this environment good for plants? Check the tree on the upper left side."
     },
@@ -27777,6 +27794,7 @@ QuestInfoList = {
   },
   [11370] = {
     Title = "Looking for the Traces",
+    IconName = "ico_ep.bmp",
     Description = {
       "A peculiar-looking sign is hung on the door. Examine it."
     },
@@ -27784,6 +27802,7 @@ QuestInfoList = {
   },
   [11371] = {
     Title = "Looking for the Traces",
+    IconName = "ico_ep.bmp",
     Description = {
       "There's a new path behind the building. Turn around the building and enter the portal."
     },
@@ -27791,6 +27810,7 @@ QuestInfoList = {
   },
   [11372] = {
     Title = "Looking for the Traces",
+    IconName = "ico_ep.bmp",
     Description = {
       "Investigate the fountain on the upper side."
     },
@@ -27798,6 +27818,7 @@ QuestInfoList = {
   },
   [11373] = {
     Title = "Looking for the Traces",
+    IconName = "ico_ep.bmp",
     Description = {
       "Follow Mark to the north."
     },
@@ -27805,6 +27826,7 @@ QuestInfoList = {
   },
   [11374] = {
     Title = "Looking for the Traces",
+    IconName = "ico_ep.bmp",
     Description = {
       "The path is blocked. Talk to Tamarin standing farther in."
     },
@@ -27812,6 +27834,7 @@ QuestInfoList = {
   },
   [11375] = {
     Title = "Looking for the Traces",
+    IconName = "ico_ep.bmp",
     Description = {
       "Talk to Magi down below."
     },
@@ -35777,7 +35800,7 @@ QuestInfoList = {
   [14189] = {
     Title = "4th Monster",
     Description = {
-      "If you defeat 500 Zakudam, 500 Hell Apocalypse, and 300 Cobalt Mineral on Nidhoggu, you can get a Ganbantein!"
+      "If you defeat 550 Caterpillar and 550 Cremy Fear on Nidhoggu, you can get a Ganbantein!"
     },
     Summary = "Hunt Monsters!"
   },
@@ -35833,7 +35856,7 @@ QuestInfoList = {
   [14197] = {
     Title = "4th Monster",
     Description = {
-      "You can make Hervor Alvitr defeating 550 Aunoe, 550 Banshee Master, and 100 Fanat on Valfreyja!"
+      "You can make Hervor Alvitr defeating 350 Giant Hornet, 300 Ancient Worm, and 200 Giant Spider on Valfreyja!"
     },
     Summary = "Hunt Monsters!"
   },

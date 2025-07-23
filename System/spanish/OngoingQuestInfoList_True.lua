@@ -17047,6 +17047,7 @@ QuestInfoList = {
   },
   [7611] = {
     Title = "Limpieza del t·nel",
+    IconName = "ico_dq.bmp",
     Description = {
       "┐PodrÝas ayudarnos a deshacernos de los monstruos del t·nel y de los alrededores?"
     },
@@ -17054,6 +17055,7 @@ QuestInfoList = {
   },
   [7612] = {
     Title = "Limpieza del t·nel: abajo",
+    IconName = "ico_dq.bmp",
     Description = {
       "DeberÝas descansar. Nuestros mercenarios se pueden encargar de los monstruos del t·nel."
     },
@@ -17061,6 +17063,7 @@ QuestInfoList = {
   },
   [7613] = {
     Title = "Eliminaci¾n de riesgos",
+    IconName = "ico_dq.bmp",
     Description = {
       "Los robots de la excavaci¾n principal nos estßn estorbando. Por favor, deshazte de ellos."
     },
@@ -17068,6 +17071,7 @@ QuestInfoList = {
   },
   [7614] = {
     Title = "Eliminaci¾n de riesgos: abajo",
+    IconName = "ico_dq.bmp",
     Description = {
       "Podemos eliminar a los robots del sitio de la excavaci¾n. Por favor, regresa mßs tarde."
     },
@@ -17075,6 +17079,7 @@ QuestInfoList = {
   },
   [7615] = {
     Title = "Recolecci¾n de n·cleos",
+    IconName = "ico_dq.bmp",
     Description = {
       "Recolecta 20áDispositivos de control de potencia de los robots. Pueden ser la clave de una civilizaci¾n sumamente avanzada."
     },
@@ -17082,6 +17087,7 @@ QuestInfoList = {
   },
   [7616] = {
     Title = "Recolecci¾n de n·cleos: abajo",
+    IconName = "ico_dq.bmp",
     Description = {
       "El equipo de excavaci¾n de Atnad se estß centrando en estudiar los Dispositivos de control de potencia. DeberÝas descansar mientras sea posible."
     },
@@ -17089,6 +17095,7 @@ QuestInfoList = {
   },
   [7617] = {
     Title = "Entrega del informe de excavaci¾n",
+    IconName = "ico_dq.bmp",
     Description = {
       "Lleva a Louis el informe diario de excavaci¾n del equipo de excavaci¾n de Atnad, quien estß en el centro de mando. DespuÚs de esto, tu trabajo habrß terminado por hoy."
     },
@@ -17096,6 +17103,7 @@ QuestInfoList = {
   },
   [7618] = {
     Title = "Entrega de los resultados: abajo",
+    IconName = "ico_dq.bmp",
     Description = {
       "Espera el pr¾ximo informe del equipo de excavaci¾n de Atnad."
     },
@@ -17103,6 +17111,7 @@ QuestInfoList = {
   },
   [7619] = {
     Title = "Asistencia al equipo de excavaci¾n",
+    IconName = "ico_dq.bmp",
     Description = {
       "Ya perteneces oficialmente al equipo de excavaci¾n. Anda a ver a Aureth."
     },
@@ -17110,6 +17119,7 @@ QuestInfoList = {
   },
   [7620] = {
     Title = "┐Sangre joven?",
+    IconName = "ico_dq.bmp",
     Description = {
       "Aureth te pidi¾ que vayas con Lloyd y Luke en la plaza que estß en el centro de Verus."
     },
@@ -27729,6 +27739,7 @@ QuestInfoList = {
   },
   [11363] = {
     Title = "íA Fantasmag¾rica!",
+    IconName = "ico_ep.bmp",
     Description = {
       "Ve a la sede de la Corporaci¾n Rekenber en Lighthalzen. Habla con Leitner en el escritorio que estß en el lado oeste de la entrada principal."
     },
@@ -27736,6 +27747,7 @@ QuestInfoList = {
   },
   [11364] = {
     Title = "íA Fantasmag¾rica!",
+    IconName = "ico_ep.bmp",
     Description = {
       "Te registraste para poder usar el ascensor."
     },
@@ -27743,6 +27755,7 @@ QuestInfoList = {
   },
   [11365] = {
     Title = "íA Fantasmag¾rica!",
+    IconName = "ico_ep.bmp",
     Description = {
       "Re·nete con la guÝa Scarlet junto a la fuente en el centro de Fantasmag¾rica."
     },
@@ -27750,6 +27763,7 @@ QuestInfoList = {
   },
   [11366] = {
     Title = "íA Fantasmag¾rica!",
+    IconName = "ico_ep.bmp",
     Description = {
       "Recolecta 30áPlacas de hierro usadas de los Dimik en Juperos."
     },
@@ -27757,6 +27771,7 @@ QuestInfoList = {
   },
   [11367] = {
     Title = "B·squeda de los rastros",
+    IconName = "ico_ep.bmp",
     Description = {
       "Lo primero que viste en Fantasmag¾rica fue una gigantesca fuente en el centro. Investiga la fuente con el Deu. "
     },
@@ -27764,6 +27779,7 @@ QuestInfoList = {
   },
   [11368] = {
     Title = "B·squeda de los rastros",
+    IconName = "ico_ep.bmp",
     Description = {
       "No encontraste nada en la fuente. Comprueba los artÝculos del lado izquierdo."
     },
@@ -27771,6 +27787,7 @@ QuestInfoList = {
   },
   [11369] = {
     Title = "B·squeda de los rastros",
+    IconName = "ico_ep.bmp",
     Description = {
       "┐Es este entorno bueno para las plantas? Revisa el ßrbol de la parte superior izquierda."
     },
@@ -27778,6 +27795,7 @@ QuestInfoList = {
   },
   [11370] = {
     Title = "B·squeda de los rastros",
+    IconName = "ico_ep.bmp",
     Description = {
       "Un cartel extra±o estß colgado en la puerta. ExamÝnalo."
     },
@@ -27785,6 +27803,7 @@ QuestInfoList = {
   },
   [11371] = {
     Title = "B·squeda de los rastros",
+    IconName = "ico_ep.bmp",
     Description = {
       "Hay un nuevo camino detrßs del edificio. Da la vuelta al edificio y entra al portal."
     },
@@ -27792,6 +27811,7 @@ QuestInfoList = {
   },
   [11372] = {
     Title = "B·squeda de los rastros",
+    IconName = "ico_ep.bmp",
     Description = {
       "Investiga la fuente de la parte superior."
     },
@@ -27799,6 +27819,7 @@ QuestInfoList = {
   },
   [11373] = {
     Title = "B·squeda de los rastros",
+    IconName = "ico_ep.bmp",
     Description = {
       "Sigue a Mark hacia el norte."
     },
@@ -27806,6 +27827,7 @@ QuestInfoList = {
   },
   [11374] = {
     Title = "B·squeda de los rastros",
+    IconName = "ico_ep.bmp",
     Description = {
       "El camino estß bloqueado. Habla con Tamarin que estß mßs adelante."
     },
@@ -27813,6 +27835,7 @@ QuestInfoList = {
   },
   [11375] = {
     Title = "B·squeda de los rastros",
+    IconName = "ico_ep.bmp",
     Description = {
       "Habla con Magi abajo."
     },
@@ -35778,7 +35801,7 @@ QuestInfoList = {
   [14189] = {
     Title = "Cuarto monstruo",
     Description = {
-      "Si derrotas a 500áZakudam, 500áApocalipsis infernales y 300áMinerales de cobalto en Nidhogg, íconseguirßs un Ganbantein!"
+      "Si derrotas a 550 Oruga y 550 Creamy furioso en Nidhogg, íconseguirßs un Ganbantein!"
     },
     Summary = "íCaza monstruos!"
   },
@@ -35834,7 +35857,7 @@ QuestInfoList = {
   [14197] = {
     Title = "Cuarto monstruo",
     Description = {
-      "Puedes crear el Hervor Alvitr derrotando a 550áAunoe, 550áMaestras banshee y 100áFante en Valfreyja."
+      "Puedes crear el Hervor Alvitr derrotando a 350 Avisp¾n gigante, 300 Gusano antiguo y 200 Ara±a gigante en Valfreyja."
     },
     Summary = "íCaza monstruos!"
   },
