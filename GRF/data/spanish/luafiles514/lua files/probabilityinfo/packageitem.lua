@@ -10479,7 +10479,7 @@ tbl = {
     {
       id = 18563,
       prob = 100,
-      name = "Cinta para el cabello con plumas de coraz├│n [1]",
+      name = "Tiara de Corazones Alados [1]",
       group = 1
     },
     {
@@ -17173,7 +17173,7 @@ tbl = {
     {
       id = 5420,
       prob = 30,
-      name = "M├íscara de Ifrit",
+      name = "M├íscara de Ifrit [1]",
       group = 1
     },
     {
@@ -21417,13 +21417,13 @@ tbl = {
     {
       id = 24242,
       prob = 5,
-      name = "Armadura sombr├¡a conjuradora ",
+      name = "Malla Oscuro Conjurador",
       group = 1
     },
     {
       id = 24245,
       prob = 5,
-      name = "Armadura sombr├¡a de recarga",
+      name = "Malla Oscuro de Pos-lanzamiento",
       group = 1
     }
   },
@@ -21653,13 +21653,13 @@ tbl = {
     {
       id = 24241,
       prob = 5,
-      name = "Unknown Item",
+      name = "Escudo Oscuro Conjurador",
       group = 1
     },
     {
       id = 24244,
       prob = 5,
-      name = "Escudo sombr├¡o de recarga",
+      name = "Escudo Oscuro de Pos-lanzamiento",
       group = 1
     }
   },
@@ -21853,13 +21853,13 @@ tbl = {
     {
       id = 24240,
       prob = 5,
-      name = "Unknown Item",
+      name = "Greba Oscuro Conjurador",
       group = 1
     },
     {
       id = 24243,
       prob = 5,
-      name = "Calzado sombr├¡o de recarga",
+      name = "Greba Oscura de Pos-lanzamiento",
       group = 1
     }
   },
@@ -22213,7 +22213,7 @@ tbl = {
     {
       id = 18563,
       prob = 1,
-      name = "Cinta para el cabello con plumas de coraz├│n [1]",
+      name = "Tiara de Corazones Alados [1]",
       group = 1
     },
     {
@@ -22237,7 +22237,7 @@ tbl = {
     {
       id = 5420,
       prob = 1,
-      name = "M├íscara de Ifrit",
+      name = "M├íscara de Ifrit [1]",
       group = 1
     }
   },
@@ -23131,7 +23131,7 @@ tbl = {
     {
       id = 16033,
       prob = 3,
-      name = "Unknown Item",
+      name = "Bra├ºo Rob├│tico [2]",
       group = 6
     },
     {
@@ -23173,7 +23173,7 @@ tbl = {
     {
       id = 28101,
       prob = 3,
-      name = "Unknown Item",
+      name = "Tuf├úo [1]",
       group = 6
     },
     {
@@ -24003,13 +24003,13 @@ tbl = {
     {
       id = 20733,
       prob = 3,
-      name = "Unknown Item",
+      name = "Autope├ºa - Motor [1]",
       group = 6
     },
     {
       id = 20732,
       prob = 3,
-      name = "Unknown Item",
+      name = "Pe├ºa de VIT Suplementar [1]",
       group = 6
     },
     {
@@ -24493,13 +24493,13 @@ tbl = {
     {
       id = 22044,
       prob = 3,
-      name = "Unknown Item",
+      name = "Autope├ºa - Acelerador [1]",
       group = 6
     },
     {
       id = 22043,
       prob = 3,
-      name = "Unknown Item",
+      name = "Pe├ºa de AGI Suplementar [1]",
       group = 6
     },
     {
@@ -26555,13 +26555,13 @@ tbl = {
     {
       id = 19241,
       prob = 1,
-      name = "Aumento m├ígico [1]",
+      name = "Auriculares Amplificadores [1]",
       group = 0
     },
     {
       id = 23308,
       prob = 1,
-      name = "Unknown Item",
+      name = "Amplificador de Auriculares",
       group = 0
     }
   },
@@ -26619,13 +26619,13 @@ tbl = {
     {
       id = 19266,
       prob = 1,
-      name = "Unknown Item",
+      name = "Diadema de Superviviente [1]",
       group = 1
     },
     {
       id = 19267,
       prob = 1,
-      name = "Unknown Item",
+      name = "Orbes de Superviviente",
       group = 1
     },
     {
@@ -29161,31 +29161,31 @@ tbl = {
     {
       id = 4642,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Sapo Espacial",
       group = 6
     },
     {
       id = 4643,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Errante Espacial",
       group = 6
     },
     {
       id = 4644,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Vocal Espacial",
       group = 6
     },
     {
       id = 4645,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Eclipse Espacial",
       group = 6
     },
     {
       id = 4646,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Quimera Infinita",
       group = 6
     },
     {
@@ -29527,38 +29527,38 @@ tbl = {
     {
       id = 15278,
       prob = 1,
-      name = "Armadura abrumadora de FUE [1]",
-      group = 1
+      name = "Armadura Temporal FUE [1]",
+      group = 6
     },
     {
       id = 15347,
       prob = 1,
-      name = "Armadura abrumadora de VIT [1]",
-      group = 1
+      name = "Armadura Temporal VIT [1]",
+      group = 6
     },
     {
       id = 15354,
       prob = 1,
-      name = "Armadura abrumadora de DES [1]",
-      group = 1
+      name = "Armadura Temporal DES [1]",
+      group = 6
     },
     {
       id = 15279,
       prob = 1,
-      name = "Armadura abrumadora de INT [1]",
-      group = 1
+      name = "Armadura Temporal INT [1]",
+      group = 6
     },
     {
       id = 15353,
       prob = 1,
-      name = "Armadura abrumadora de AGI [1] [1]",
-      group = 1
+      name = "Armadura Temporal AGI [1]",
+      group = 6
     },
     {
       id = 15346,
       prob = 1,
-      name = "Armadura abrumadora de SUE [1]",
-      group = 1
+      name = "Armadura Temporal SUE [1]",
+      group = 6
     }
   },
   [23767] = {
@@ -39869,6 +39869,478 @@ tbl = {
       group = 6
     }
   },
+  [105029] = {
+    {
+      id = 1000274,
+      prob = 0,
+      name = "Cup├│n de Millas Kachua",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 1613,
+      name = "Boleto de Viaje Mundial 5",
+      group = 6
+    },
+    {
+      id = 23047,
+      prob = 1613,
+      name = "[Evento] Bendici├│n de Tyr 3",
+      group = 6
+    },
+    {
+      id = 12684,
+      prob = 1613,
+      name = "Poci├│n de Oro 3",
+      group = 6
+    },
+    {
+      id = 23048,
+      prob = 1613,
+      name = "[Evento] Poci├│n de Regeneraci├│n 3",
+      group = 6
+    },
+    {
+      id = 9908,
+      prob = 1613,
+      name = "[Promo] Poci├│n Mental 3",
+      group = 6
+    },
+    {
+      id = 22979,
+      prob = 1000,
+      name = "[Evento] Manual y Goma de Mascar",
+      group = 6
+    },
+    {
+      id = 101367,
+      prob = 1000,
+      name = "[Evento] Poci├│n de Mana Peque├▒a 3",
+      group = 6
+    },
+    {
+      id = 14847,
+      prob = 1000,
+      name = "[Promo] Poci├│n de Vida Peque├▒a 3",
+      group = 6
+    },
+    {
+      id = 6413,
+      prob = 1000,
+      name = "Seguro Nuevo 3",
+      group = 6
+    },
+    {
+      id = 7621,
+      prob = 1000,
+      name = "Amuleto de Siegfried 3",
+      group = 6
+    },
+    {
+      id = 6635,
+      prob = 600,
+      name = "Bendici├│n del Herrero",
+      group = 6
+    },
+    {
+      id = 12791,
+      prob = 600,
+      name = "P├¡ldora de Combate 3",
+      group = 6
+    },
+    {
+      id = 23032,
+      prob = 600,
+      name = "Cj. de Poci├│n Menos",
+      group = 6
+    },
+    {
+      id = 22996,
+      prob = 600,
+      name = "[Evento] Neuralizador",
+      group = 6
+    },
+    {
+      id = 23436,
+      prob = 600,
+      name = "Martillo de Sombra Holgren",
+      group = 6
+    },
+    {
+      id = 24240,
+      prob = 400,
+      name = "Greba Oscuro Conjurador",
+      group = 6
+    },
+    {
+      id = 24241,
+      prob = 400,
+      name = "Escudo Oscuro Conjurador",
+      group = 6
+    },
+    {
+      id = 24242,
+      prob = 400,
+      name = "Malla Oscuro Conjurador",
+      group = 6
+    },
+    {
+      id = 24243,
+      prob = 400,
+      name = "Greba Oscura de Pos-lanzamiento",
+      group = 6
+    },
+    {
+      id = 24244,
+      prob = 400,
+      name = "Escudo Oscuro de Pos-lanzamiento",
+      group = 6
+    },
+    {
+      id = 24245,
+      prob = 400,
+      name = "Malla Oscuro de Pos-lanzamiento",
+      group = 6
+    },
+    {
+      id = 23309,
+      prob = 200,
+      name = "Caja de Amplificadores",
+      group = 6
+    },
+    {
+      id = 18572,
+      prob = 200,
+      name = "Sombrero de Juicio [1]",
+      group = 6
+    },
+    {
+      id = 19177,
+      prob = 200,
+      name = "Corona de los Elementos",
+      group = 6
+    },
+    {
+      id = 19267,
+      prob = 200,
+      name = "Orbes de Superviviente",
+      group = 6
+    },
+    {
+      id = 19266,
+      prob = 200,
+      name = "Diadema de Superviviente [1]",
+      group = 6
+    },
+    {
+      id = 23766,
+      prob = 80,
+      name = "Caja de Armadura Temporal",
+      group = 6
+    },
+    {
+      id = 19364,
+      prob = 80,
+      name = "Sombrero de Viaje [1]",
+      group = 6
+    },
+    {
+      id = 18597,
+      prob = 70,
+      name = "Casco de Mercurio [1]",
+      group = 6
+    },
+    {
+      id = 19134,
+      prob = 70,
+      name = "Orejas de Wickebine [1]",
+      group = 6
+    },
+    {
+      id = 410016,
+      prob = 70,
+      name = "Procesador de Batalla",
+      group = 6
+    },
+    {
+      id = 5420,
+      prob = 70,
+      name = "M├íscara de Ifrit [1]",
+      group = 6
+    },
+    {
+      id = 18563,
+      prob = 40,
+      name = "Tiara de Corazones Alados [1]",
+      group = 6
+    },
+    {
+      id = 6230,
+      prob = 15,
+      name = "Pergamino de Arma +7",
+      group = 6
+    },
+    {
+      id = 6234,
+      prob = 15,
+      name = "Pergamino de Armadura +7",
+      group = 6
+    },
+    {
+      id = 6299,
+      prob = 10,
+      name = "Tejido desgastado",
+      group = 6
+    },
+    {
+      id = 6233,
+      prob = 10,
+      name = "Pergamino de Armadura +8",
+      group = 6
+    },
+    {
+      id = 20940,
+      prob = 5,
+      name = "Espinhas Violetas [1]",
+      group = 6
+    }
+  },
+  [105030] = {
+    {
+      id = 1000274,
+      prob = 0,
+      name = "Cup├│n de Millas Kachua",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 1613,
+      name = "Boleto de Viaje Mundial 5",
+      group = 6
+    },
+    {
+      id = 23047,
+      prob = 1613,
+      name = "[Evento] Bendici├│n de Tyr 3",
+      group = 6
+    },
+    {
+      id = 12684,
+      prob = 1613,
+      name = "Poci├│n de Oro 3",
+      group = 6
+    },
+    {
+      id = 23048,
+      prob = 1613,
+      name = "[Evento] Poci├│n de Regeneraci├│n 3",
+      group = 6
+    },
+    {
+      id = 9908,
+      prob = 1613,
+      name = "[Promo] Poci├│n Mental 3",
+      group = 6
+    },
+    {
+      id = 22979,
+      prob = 1000,
+      name = "[Evento] Manual y Goma de Mascar",
+      group = 6
+    },
+    {
+      id = 101367,
+      prob = 1000,
+      name = "[Evento] Poci├│n de Mana Peque├▒a 3",
+      group = 6
+    },
+    {
+      id = 14847,
+      prob = 1000,
+      name = "[Promo] Poci├│n de Vida Peque├▒a 3",
+      group = 6
+    },
+    {
+      id = 6413,
+      prob = 1000,
+      name = "Seguro Nuevo 3",
+      group = 6
+    },
+    {
+      id = 7621,
+      prob = 1000,
+      name = "Amuleto de Siegfried 3",
+      group = 6
+    },
+    {
+      id = 6635,
+      prob = 600,
+      name = "Bendici├│n del Herrero",
+      group = 6
+    },
+    {
+      id = 12791,
+      prob = 600,
+      name = "P├¡ldora de Combate 3",
+      group = 6
+    },
+    {
+      id = 23032,
+      prob = 600,
+      name = "Cj. de Poci├│n Menos",
+      group = 6
+    },
+    {
+      id = 22996,
+      prob = 600,
+      name = "[Evento] Neuralizador",
+      group = 6
+    },
+    {
+      id = 23436,
+      prob = 600,
+      name = "Martillo de Sombra Holgren",
+      group = 6
+    },
+    {
+      id = 24240,
+      prob = 400,
+      name = "Greba Oscuro Conjurador",
+      group = 6
+    },
+    {
+      id = 24241,
+      prob = 400,
+      name = "Escudo Oscuro Conjurador",
+      group = 6
+    },
+    {
+      id = 24242,
+      prob = 400,
+      name = "Malla Oscuro Conjurador",
+      group = 6
+    },
+    {
+      id = 24243,
+      prob = 400,
+      name = "Greba Oscura de Pos-lanzamiento",
+      group = 6
+    },
+    {
+      id = 24244,
+      prob = 400,
+      name = "Escudo Oscuro de Pos-lanzamiento",
+      group = 6
+    },
+    {
+      id = 24245,
+      prob = 400,
+      name = "Malla Oscuro de Pos-lanzamiento",
+      group = 6
+    },
+    {
+      id = 23309,
+      prob = 200,
+      name = "Caja de Amplificadores",
+      group = 6
+    },
+    {
+      id = 18572,
+      prob = 200,
+      name = "Sombrero de Juicio [1]",
+      group = 6
+    },
+    {
+      id = 19177,
+      prob = 200,
+      name = "Corona de los Elementos",
+      group = 6
+    },
+    {
+      id = 19267,
+      prob = 200,
+      name = "Orbes de Superviviente",
+      group = 6
+    },
+    {
+      id = 19266,
+      prob = 200,
+      name = "Diadema de Superviviente [1]",
+      group = 6
+    },
+    {
+      id = 23766,
+      prob = 80,
+      name = "Caja de Armadura Temporal",
+      group = 6
+    },
+    {
+      id = 19364,
+      prob = 80,
+      name = "Sombrero de Viaje [1]",
+      group = 6
+    },
+    {
+      id = 18597,
+      prob = 70,
+      name = "Casco de Mercurio [1]",
+      group = 6
+    },
+    {
+      id = 19134,
+      prob = 70,
+      name = "Orejas de Wickebine [1]",
+      group = 6
+    },
+    {
+      id = 410016,
+      prob = 70,
+      name = "Procesador de Batalla",
+      group = 6
+    },
+    {
+      id = 5420,
+      prob = 70,
+      name = "M├íscara de Ifrit [1]",
+      group = 6
+    },
+    {
+      id = 18563,
+      prob = 40,
+      name = "Tiara de Corazones Alados [1]",
+      group = 6
+    },
+    {
+      id = 6230,
+      prob = 15,
+      name = "Pergamino de Arma +7",
+      group = 6
+    },
+    {
+      id = 6234,
+      prob = 15,
+      name = "Pergamino de Armadura +7",
+      group = 6
+    },
+    {
+      id = 6299,
+      prob = 10,
+      name = "Tejido desgastado",
+      group = 6
+    },
+    {
+      id = 6233,
+      prob = 10,
+      name = "Pergamino de Armadura +8",
+      group = 6
+    },
+    {
+      id = 20940,
+      prob = 5,
+      name = "Espinhas Violetas [1]",
+      group = 6
+    }
+  },
   [200001] = {
     {
       id = 25793,
@@ -39968,34 +40440,6 @@ tbl = {
       id = 100913,
       prob = 1,
       name = "Manual de Kafra [7 D├¡as]",
-      group = 0
-    }
-  },
-  [200219] = {
-    {
-      id = 12883,
-      prob = 1,
-      name = "Todopoderoso 100",
-      group = 0
-    },
-    {
-      id = 200220,
-      prob = 1,
-      name = "Unknown Item",
-      group = 0
-    }
-  },
-  [200220] = {
-    {
-      id = 12883,
-      prob = 1,
-      name = "Todopoderoso 100",
-      group = 0
-    },
-    {
-      id = 104830,
-      prob = 1,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
       group = 0
     }
   },
@@ -41075,9 +41519,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105030,
       prob = 0,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      name = "[Evento] Artefacto Ovalado Terrestre 11",
       group = 0
     }
   },
@@ -41103,13 +41547,13 @@ tbl = {
     {
       id = 100061,
       prob = 0,
-      name = "[Evento] Elixir Rojo 35",
+      name = "[Evento] Elixir Rojo 30",
       group = 0
     },
     {
-      id = 104830,
+      id = 105030,
       prob = 0,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      name = "[Evento] Artefacto Ovalado Terrestre 11",
       group = 0
     }
   },
@@ -41127,9 +41571,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105030,
       prob = 0,
-      name = "[Evento] Artefacto Ovalado Ardiente 11",
+      name = "[Evento] Artefacto Ovalado Terrestre 11",
       group = 0
     }
   }

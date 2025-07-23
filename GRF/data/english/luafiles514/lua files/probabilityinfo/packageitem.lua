@@ -17173,7 +17173,7 @@ tbl = {
     {
       id = 5420,
       prob = 30,
-      name = "Ifrit Mask",
+      name = "Mask of Ifrit [1]",
       group = 1
     },
     {
@@ -21417,13 +21417,13 @@ tbl = {
     {
       id = 24242,
       prob = 5,
-      name = "Conjuring Shadow Mesh",
+      name = "Caster Shadow Armor",
       group = 1
     },
     {
       id = 24245,
       prob = 5,
-      name = "Shadowy Post-Conjuration Mesh",
+      name = "Reload Shadow Armor",
       group = 1
     }
   },
@@ -21653,13 +21653,13 @@ tbl = {
     {
       id = 24241,
       prob = 5,
-      name = "Unknown Item",
+      name = "Caster Shadow Shield",
       group = 1
     },
     {
       id = 24244,
       prob = 5,
-      name = "Dark Shield of Post-Conjuration",
+      name = "Reload Shadow Shield",
       group = 1
     }
   },
@@ -21853,13 +21853,13 @@ tbl = {
     {
       id = 24240,
       prob = 5,
-      name = "Unknown Item",
+      name = "Caster Shadow Shoes",
       group = 1
     },
     {
       id = 24243,
       prob = 5,
-      name = "Dark Strike of Post-Conjuration",
+      name = "Reload Shadow Shoes",
       group = 1
     }
   },
@@ -22237,7 +22237,7 @@ tbl = {
     {
       id = 5420,
       prob = 1,
-      name = "Ifrit Mask",
+      name = "Mask of Ifrit [1]",
       group = 1
     }
   },
@@ -23131,7 +23131,7 @@ tbl = {
     {
       id = 16033,
       prob = 3,
-      name = "Unknown Item",
+      name = "Bra├ºo Rob├│tico [2]",
       group = 6
     },
     {
@@ -23173,7 +23173,7 @@ tbl = {
     {
       id = 28101,
       prob = 3,
-      name = "Unknown Item",
+      name = "Tornado Axe [1]",
       group = 6
     },
     {
@@ -24003,13 +24003,13 @@ tbl = {
     {
       id = 20733,
       prob = 3,
-      name = "Unknown Item",
+      name = "Autope├ºa - Motor [1]",
       group = 6
     },
     {
       id = 20732,
       prob = 3,
-      name = "Unknown Item",
+      name = "Pe├ºa de VIT Suplementar [1]",
       group = 6
     },
     {
@@ -24493,13 +24493,13 @@ tbl = {
     {
       id = 22044,
       prob = 3,
-      name = "Unknown Item",
+      name = "Autope├ºa - Acelerador [1]",
       group = 6
     },
     {
       id = 22043,
       prob = 3,
-      name = "Unknown Item",
+      name = "Pe├ºa de AGI Suplementar [1]",
       group = 6
     },
     {
@@ -26555,13 +26555,13 @@ tbl = {
     {
       id = 19241,
       prob = 1,
-      name = "Headphones Amplifiers [1]",
+      name = "Amplified Headphone [1]",
       group = 0
     },
     {
       id = 23308,
       prob = 1,
-      name = "Unknown Item",
+      name = "Headphone Amplifier",
       group = 0
     }
   },
@@ -26619,13 +26619,13 @@ tbl = {
     {
       id = 19266,
       prob = 1,
-      name = "Unknown Item",
+      name = "Survivor's Circlet [1]",
       group = 1
     },
     {
       id = 19267,
       prob = 1,
-      name = "Unknown Item",
+      name = "Survivor's Orb",
       group = 1
     },
     {
@@ -29161,31 +29161,31 @@ tbl = {
     {
       id = 4642,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Sapo Espacial",
       group = 6
     },
     {
       id = 4643,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Errante Espacial",
       group = 6
     },
     {
       id = 4644,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Vocal Espacial",
       group = 6
     },
     {
       id = 4645,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Eclipse Espacial",
       group = 6
     },
     {
       id = 4646,
       prob = 100,
-      name = "Unknown Item",
+      name = "Carta Quimera Infinita",
       group = 6
     },
     {
@@ -29447,7 +29447,7 @@ tbl = {
     {
       id = 15174,
       prob = 100,
-      name = "Rubber clothing [1]",
+      name = "Roupa de Borracha [1]",
       group = 6
     },
     {
@@ -29527,38 +29527,38 @@ tbl = {
     {
       id = 15278,
       prob = 1,
-      name = "Rugged Hero Armor [1]",
-      group = 1
+      name = "Temporal Armor STR [1]",
+      group = 6
     },
     {
       id = 15347,
       prob = 1,
-      name = "Vigorous Hero Armor [1]",
-      group = 1
+      name = "Temporal Armor VIT [1]",
+      group = 6
     },
     {
       id = 15354,
       prob = 1,
-      name = "Cunning Hero Armor [1]",
-      group = 1
+      name = "Temporal Armor DEX [1]",
+      group = 6
     },
     {
       id = 15279,
       prob = 1,
-      name = "Armor of the Wise Hero [1]",
-      group = 1
+      name = "Temporal Armor INT [1]",
+      group = 6
     },
     {
       id = 15353,
       prob = 1,
-      name = "Armor of the Agile Hero [1]",
-      group = 1
+      name = "Temporal Armor AGI [1]",
+      group = 6
     },
     {
       id = 15346,
       prob = 1,
-      name = "Armor of the Fortunate Hero [1]",
-      group = 1
+      name = "Temporal Armor LUK [1]",
+      group = 6
     }
   },
   [23767] = {
@@ -39869,6 +39869,478 @@ tbl = {
       group = 6
     }
   },
+  [105029] = {
+    {
+      id = 1000274,
+      prob = 0,
+      name = "Kachua Coupon",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 1613,
+      name = "Passport 5",
+      group = 6
+    },
+    {
+      id = 23047,
+      prob = 1613,
+      name = "[Event] Blessing Of Tyr 3",
+      group = 6
+    },
+    {
+      id = 12684,
+      prob = 1613,
+      name = "Golden Potion  3",
+      group = 6
+    },
+    {
+      id = 23048,
+      prob = 1613,
+      name = "[Event] Regenerate Potion 3",
+      group = 6
+    },
+    {
+      id = 9908,
+      prob = 1613,
+      name = "[Scroll] Mental Potion 3",
+      group = 6
+    },
+    {
+      id = 22979,
+      prob = 1000,
+      name = "[Event] Manual & Gum",
+      group = 6
+    },
+    {
+      id = 101367,
+      prob = 1000,
+      name = "[Event] Small Mana Potion 3",
+      group = 6
+    },
+    {
+      id = 14847,
+      prob = 1000,
+      name = "[Scroll] Small Life Potion 3",
+      group = 6
+    },
+    {
+      id = 6413,
+      prob = 1000,
+      name = "New Insurance 3",
+      group = 6
+    },
+    {
+      id = 7621,
+      prob = 1000,
+      name = "Token of Siegfried 3",
+      group = 6
+    },
+    {
+      id = 6635,
+      prob = 600,
+      name = "Blacksmith Blessing",
+      group = 6
+    },
+    {
+      id = 12791,
+      prob = 600,
+      name = "Combat Pill 3",
+      group = 6
+    },
+    {
+      id = 23032,
+      prob = 600,
+      name = "Stats Soul Potion Box",
+      group = 6
+    },
+    {
+      id = 22996,
+      prob = 600,
+      name = "[Event] Neuralizer",
+      group = 6
+    },
+    {
+      id = 23436,
+      prob = 600,
+      name = "Dark Refining Hammer",
+      group = 6
+    },
+    {
+      id = 24240,
+      prob = 400,
+      name = "Caster Shadow Shoes",
+      group = 6
+    },
+    {
+      id = 24241,
+      prob = 400,
+      name = "Caster Shadow Shield",
+      group = 6
+    },
+    {
+      id = 24242,
+      prob = 400,
+      name = "Caster Shadow Armor",
+      group = 6
+    },
+    {
+      id = 24243,
+      prob = 400,
+      name = "Reload Shadow Shoes",
+      group = 6
+    },
+    {
+      id = 24244,
+      prob = 400,
+      name = "Reload Shadow Shield",
+      group = 6
+    },
+    {
+      id = 24245,
+      prob = 400,
+      name = "Reload Shadow Armor",
+      group = 6
+    },
+    {
+      id = 23309,
+      prob = 200,
+      name = "Headphone Box",
+      group = 6
+    },
+    {
+      id = 18572,
+      prob = 200,
+      name = "Judge Hat [1]",
+      group = 6
+    },
+    {
+      id = 19177,
+      prob = 200,
+      name = "Crown of Elements",
+      group = 6
+    },
+    {
+      id = 19267,
+      prob = 200,
+      name = "Survivor's Orb",
+      group = 6
+    },
+    {
+      id = 19266,
+      prob = 200,
+      name = "Survivor's Circlet [1]",
+      group = 6
+    },
+    {
+      id = 23766,
+      prob = 80,
+      name = "Temporal Armor Box",
+      group = 6
+    },
+    {
+      id = 19364,
+      prob = 80,
+      name = "Engineer's Cap [1]",
+      group = 6
+    },
+    {
+      id = 18597,
+      prob = 70,
+      name = "Mercury Helmet [1]",
+      group = 6
+    },
+    {
+      id = 19134,
+      prob = 70,
+      name = "Wickebine's Black Cat Ears [1]",
+      group = 6
+    },
+    {
+      id = 410016,
+      prob = 70,
+      name = "Battle Processor",
+      group = 6
+    },
+    {
+      id = 5420,
+      prob = 70,
+      name = "Mask of Ifrit [1]",
+      group = 6
+    },
+    {
+      id = 18563,
+      prob = 40,
+      name = "Heart Wing Hairband [1]",
+      group = 6
+    },
+    {
+      id = 6230,
+      prob = 15,
+      name = "Safe to 7 Weapon Certificate",
+      group = 6
+    },
+    {
+      id = 6234,
+      prob = 15,
+      name = "Safe to 7 Armor Certificate",
+      group = 6
+    },
+    {
+      id = 6299,
+      prob = 10,
+      name = "Worn Fabric",
+      group = 6
+    },
+    {
+      id = 6233,
+      prob = 10,
+      name = "Safe to 8 Armor Certificate",
+      group = 6
+    },
+    {
+      id = 20940,
+      prob = 5,
+      name = "Violet Halo [1]",
+      group = 6
+    }
+  },
+  [105030] = {
+    {
+      id = 1000274,
+      prob = 0,
+      name = "Kachua Coupon",
+      group = 0
+    },
+    {
+      id = 25464,
+      prob = 1613,
+      name = "Passport 5",
+      group = 6
+    },
+    {
+      id = 23047,
+      prob = 1613,
+      name = "[Event] Blessing Of Tyr 3",
+      group = 6
+    },
+    {
+      id = 12684,
+      prob = 1613,
+      name = "Golden Potion  3",
+      group = 6
+    },
+    {
+      id = 23048,
+      prob = 1613,
+      name = "[Event] Regenerate Potion 3",
+      group = 6
+    },
+    {
+      id = 9908,
+      prob = 1613,
+      name = "[Scroll] Mental Potion 3",
+      group = 6
+    },
+    {
+      id = 22979,
+      prob = 1000,
+      name = "[Event] Manual & Gum",
+      group = 6
+    },
+    {
+      id = 101367,
+      prob = 1000,
+      name = "[Event] Small Mana Potion 3",
+      group = 6
+    },
+    {
+      id = 14847,
+      prob = 1000,
+      name = "[Scroll] Small Life Potion 3",
+      group = 6
+    },
+    {
+      id = 6413,
+      prob = 1000,
+      name = "New Insurance 3",
+      group = 6
+    },
+    {
+      id = 7621,
+      prob = 1000,
+      name = "Token of Siegfried 3",
+      group = 6
+    },
+    {
+      id = 6635,
+      prob = 600,
+      name = "Blacksmith Blessing",
+      group = 6
+    },
+    {
+      id = 12791,
+      prob = 600,
+      name = "Combat Pill 3",
+      group = 6
+    },
+    {
+      id = 23032,
+      prob = 600,
+      name = "Stats Soul Potion Box",
+      group = 6
+    },
+    {
+      id = 22996,
+      prob = 600,
+      name = "[Event] Neuralizer",
+      group = 6
+    },
+    {
+      id = 23436,
+      prob = 600,
+      name = "Dark Refining Hammer",
+      group = 6
+    },
+    {
+      id = 24240,
+      prob = 400,
+      name = "Caster Shadow Shoes",
+      group = 6
+    },
+    {
+      id = 24241,
+      prob = 400,
+      name = "Caster Shadow Shield",
+      group = 6
+    },
+    {
+      id = 24242,
+      prob = 400,
+      name = "Caster Shadow Armor",
+      group = 6
+    },
+    {
+      id = 24243,
+      prob = 400,
+      name = "Reload Shadow Shoes",
+      group = 6
+    },
+    {
+      id = 24244,
+      prob = 400,
+      name = "Reload Shadow Shield",
+      group = 6
+    },
+    {
+      id = 24245,
+      prob = 400,
+      name = "Reload Shadow Armor",
+      group = 6
+    },
+    {
+      id = 23309,
+      prob = 200,
+      name = "Headphone Box",
+      group = 6
+    },
+    {
+      id = 18572,
+      prob = 200,
+      name = "Judge Hat [1]",
+      group = 6
+    },
+    {
+      id = 19177,
+      prob = 200,
+      name = "Crown of Elements",
+      group = 6
+    },
+    {
+      id = 19267,
+      prob = 200,
+      name = "Survivor's Orb",
+      group = 6
+    },
+    {
+      id = 19266,
+      prob = 200,
+      name = "Survivor's Circlet [1]",
+      group = 6
+    },
+    {
+      id = 23766,
+      prob = 80,
+      name = "Temporal Armor Box",
+      group = 6
+    },
+    {
+      id = 19364,
+      prob = 80,
+      name = "Engineer's Cap [1]",
+      group = 6
+    },
+    {
+      id = 18597,
+      prob = 70,
+      name = "Mercury Helmet [1]",
+      group = 6
+    },
+    {
+      id = 19134,
+      prob = 70,
+      name = "Wickebine's Black Cat Ears [1]",
+      group = 6
+    },
+    {
+      id = 410016,
+      prob = 70,
+      name = "Battle Processor",
+      group = 6
+    },
+    {
+      id = 5420,
+      prob = 70,
+      name = "Mask of Ifrit [1]",
+      group = 6
+    },
+    {
+      id = 18563,
+      prob = 40,
+      name = "Heart Wing Hairband [1]",
+      group = 6
+    },
+    {
+      id = 6230,
+      prob = 15,
+      name = "Safe to 7 Weapon Certificate",
+      group = 6
+    },
+    {
+      id = 6234,
+      prob = 15,
+      name = "Safe to 7 Armor Certificate",
+      group = 6
+    },
+    {
+      id = 6299,
+      prob = 10,
+      name = "Worn Fabric",
+      group = 6
+    },
+    {
+      id = 6233,
+      prob = 10,
+      name = "Safe to 8 Armor Certificate",
+      group = 6
+    },
+    {
+      id = 20940,
+      prob = 5,
+      name = "Violet Halo [1]",
+      group = 6
+    }
+  },
   [200001] = {
     {
       id = 25793,
@@ -39968,34 +40440,6 @@ tbl = {
       id = 100913,
       prob = 1,
       name = "Kafra Buff (7 Days)",
-      group = 0
-    }
-  },
-  [200219] = {
-    {
-      id = 12883,
-      prob = 1,
-      name = "Almighty 100",
-      group = 0
-    },
-    {
-      id = 200220,
-      prob = 1,
-      name = "Unknown Item",
-      group = 0
-    }
-  },
-  [200220] = {
-    {
-      id = 12883,
-      prob = 1,
-      name = "Almighty 100",
-      group = 0
-    },
-    {
-      id = 104830,
-      prob = 1,
-      name = "[Event] Burning Oval Artifact 11",
       group = 0
     }
   },
@@ -41075,9 +41519,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105030,
       prob = 0,
-      name = "[Event] Burning Oval Artifact 11",
+      name = "[Event] Earth Oval Artifact 11",
       group = 0
     }
   },
@@ -41103,13 +41547,13 @@ tbl = {
     {
       id = 100061,
       prob = 0,
-      name = "[Event] Red Booster 35",
+      name = "[Event] Red Booster 30",
       group = 0
     },
     {
-      id = 104830,
+      id = 105030,
       prob = 0,
-      name = "[Event] Burning Oval Artifact 11",
+      name = "[Event] Earth Oval Artifact 11",
       group = 0
     }
   },
@@ -41127,9 +41571,9 @@ tbl = {
       group = 0
     },
     {
-      id = 104830,
+      id = 105030,
       prob = 0,
-      name = "[Event] Burning Oval Artifact 11",
+      name = "[Event] Earth Oval Artifact 11",
       group = 0
     }
   }

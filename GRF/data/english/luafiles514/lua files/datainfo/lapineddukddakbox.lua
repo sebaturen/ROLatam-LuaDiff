@@ -153,7 +153,7 @@ tblLapineDdukddakBox = {
           19241
         }
       },
-      NeedSource_String = "Fones de Ouvido"
+      NeedSource_String = "Magical Booster"
     },
     ["StatusShadow_Mix"] = {
       ItemID = 23247,

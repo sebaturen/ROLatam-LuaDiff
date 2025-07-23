@@ -59,7 +59,7 @@ tblLapineUpgradeBox = {
           28922
         }
       },
-      NeedSource_String = "Arma Ilusional"
+      NeedSource_String = "IlusÒo do Gelo"
     },
     S_Frozen_Box_IL = {
       ItemID = 100416,
@@ -86,7 +86,7 @@ tblLapineUpgradeBox = {
           28922
         }
       },
-      NeedSource_String = "Arma Ilusional"
+      NeedSource_String = "IlusÒo do Gelo"
     },
     Moonlight_Box_IL = {
       ItemID = 100391,
@@ -126,7 +126,7 @@ tblLapineUpgradeBox = {
           19210
         }
       },
-      NeedSource_String = "Illusion Equipment"
+      NeedSource_String = "IlusÒo da Lua"
     },
     S_Moonlight_Box_IL = {
       ItemID = 100392,
@@ -166,7 +166,7 @@ tblLapineUpgradeBox = {
           19210
         }
       },
-      NeedSource_String = "Illusion Equipment"
+      NeedSource_String = "IlusÒo da Lua"
     },
     Vampire_Box_IL = {
       ItemID = 100414,
@@ -200,7 +200,7 @@ tblLapineUpgradeBox = {
           20840
         }
       },
-      NeedSource_String = "Illusion Equipment"
+      NeedSource_String = "IlusÒo do Vampiro"
     },
     S_Vampire_Box_IL = {
       ItemID = 100415,
@@ -234,7 +234,7 @@ tblLapineUpgradeBox = {
           20840
         }
       },
-      NeedSource_String = "Illusion Equipment"
+      NeedSource_String = "IlusÒo do Vampiro"
     },
     Time_Unseal_Key = {
       ItemID = 9551,
