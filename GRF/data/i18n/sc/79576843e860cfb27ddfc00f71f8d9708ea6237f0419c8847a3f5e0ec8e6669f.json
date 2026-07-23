@@ -142,7 +142,7 @@
     "/CJzAg": {
         "en-US": "[Rune]\nYou did it...in time.\nI don't understand why Orc Babies appear at that time of the day.\nAnyway, good job.",
         "pt-BR": "[Runa]\nVocê conseguiu... a tempo.\nNão entendo por que os Bebês Orcs aparecem a essa hora do dia.\nDe qualquer forma, bom trabalho.",
-        "es-ES": "[Rune]\nLo hiciste… a tiempo.\nNo sé por qué los Bebés orcos aparecen a esa hora del día.\nEn fin, buen trabajo."
+        "es-ES": "[Rune]\nLo hiciste... a tiempo.\nNo sé por qué los Bebés orcos aparecen a esa hora del día.\nEn fin, buen trabajo."
     },
     "/SJzAg": {
         "en-US": "[Rune]\nIt seems like you haven't accomplished the mission yet?\nThis mission is to eliminate suspicious creatures that secretly appear at the fortress in Gloria.",
@@ -217,12 +217,12 @@
     "CyNzAg": {
         "en-US": "[Rune]\nSince you've done a good job, I'll let you open my tool box twice.\nAlthough you won't find anything mostly...\nIt's a bonus, so don't complain even if you don't find anything.",
         "pt-BR": "[Runa]\nComo você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas duas vezes.\nEmbora você não vá encontrar quase nada...\nÉ um bônus, então não reclame mesmo que não encontre nada.",
-        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas dosveces.\nAunque lo más probable es que no encuentres nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas dosveces.\nAunque lo más probable es que no encuentres nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "DCNzAg": {
         "en-US": "You rummage through the box and find a...",
         "pt-BR": "Você vasculha a caixa e encontra um...",
-        "es-ES": "Buscas en la caja y encuentras…"
+        "es-ES": "Buscas en la caja y encuentras..."
     },
     "DSNzAg": {
         "en-US": "you found 'Rune Ring!'",
@@ -257,7 +257,7 @@
     "EyNzAg": {
         "en-US": "[Rune]\nYou're already on an elimination mission!\nI would like you to take care of what you already have...unless you want to cancel it.",
         "pt-BR": "[Runa]\nVocê já está em uma missão de eliminação!\nGostaria que você cuidasse do que já tem... a menos que queira cancelá-la.",
-        "es-ES": "[Rune]\n¡Ya estás en una misión de eliminación!\nPreferiría que te ocuparas de la misión que ya tienes… a menos que quieras cancelarla."
+        "es-ES": "[Rune]\n¡Ya estás en una misión de eliminación!\nPreferiría que te ocuparas de la misión que ya tienes... a menos que quieras cancelarla."
     },
     "FCNzAg": {
         "en-US": "[Rune]\nI was told that suspicious creatures appear during the busy siege hours at the fortress in Gloria.\nI would like you to ^4D4DFF eliminate 10 or more of that suspicious creatures^000000.",
@@ -272,7 +272,7 @@
     "FiNzAg": {
         "en-US": "[Rune]\nSince you've done a good job, I'll let you open my tool box 3 times.\nAlthough you won't find anything mostly...\nIt's a bonus, so don't complaint even if you don't find anything.",
         "pt-BR": "[Runa]\nComo você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas 3 vezes.\nEmbora você não vá encontrar quase nada...\nÉ um bônus, então não reclame mesmo que não encontre nada.",
-        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 3 veces.\nAunque lo más probable es que no encuentres nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 3 veces.\nAunque lo más probable es que no encuentres nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "FyNzAg": {
         "en-US": "[Rune]\nI was told that suspicious creatures appear during the busy siege hours at the fortress in Gloria.\nI would like you to ^4D4DFF eliminate 30 or more of that suspicious creatures^000000.",
@@ -287,7 +287,7 @@
     "GSNzAg": {
         "en-US": "[Rune]\nSince you've done a good job, I'll let you open my tool box once.\nThere might be nothing there...\nIt's a bonus, so don't complain if you don't find anything.",
         "pt-BR": "[Runa]\nComo você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas uma vez.\nPode ser que não haja nada lá...\nÉ um bônus, então não reclame se não encontrar nada.",
-        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas unavez.\nPuede que no haya nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas unavez.\nPuede que no haya nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "GiNzAg": {
         "en-US": "[Rune]\nIt seems like you haven't accomplished the mission yet?\nThis mission is to ^4D4DFF destroy Emperiums that exist all over Gloria and Kafragarten regions.^000000",
@@ -302,7 +302,7 @@
     "HCNzAg": {
         "en-US": "[Rune]\nYou're already on a mission of the same content,\nthe level is different though...\nI would like you to take care of what you already have...unless you want to cancel it.",
         "pt-BR": "[Runa]\nVocê já está em uma missão com o mesmo conteúdo,\nmas o nível é diferente...\nGostaria que você cuidasse do que já tem... a menos que queira cancelá-la.",
-        "es-ES": "[Rune]\nYa tienes una misión del mismo tipo,\naunque el nivel sea diferente…\nPreferiría que te ocuparas de la misión que ya tienes… a menos que quieras cancelarla."
+        "es-ES": "[Rune]\nYa tienes una misión del mismo tipo,\naunque el nivel sea diferente...\nPreferiría que te ocuparas de la misión que ya tienes... a menos que quieras cancelarla."
     },
     "HSNzAg": {
         "en-US": "[Rune]\nThere is something called 'Economic level' in each fortress.\nIt increases as much as each guild invests.",
@@ -342,7 +342,7 @@
     "JCNzAg": {
         "en-US": "[Rune]\nSince you've done a good job, I'll let you open my tool box 3 times.\nThere might be nothing there...\nIt's a bonus, so don't complain if you don't find anything.",
         "pt-BR": "[Runa]\nComo você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas 3 vezes.\nPode ser que não haja nada lá...\nÉ um bônus, então não reclame se não encontrar nada.",
-        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 3 veces.\nPuede que no haya nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 3 veces.\nPuede que no haya nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "JSNzAg": {
         "en-US": "[Rune]\nThere is something called 'commercial development level' in each fortress.\nIt increases as much as each guild invests.",
@@ -357,7 +357,7 @@
     "JyNzAg": {
         "en-US": "[Rune]\nSince you've done a good job, I'll let you open my tool box 5 times.\nThere might be nothing there...\nIt's a bonus, so don't complain if you don't find anything.",
         "pt-BR": "[Runa]\nComo você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas 5 vezes.\nPode ser que não haja nada lá...\nÉ um bônus, então não reclame se não encontrar nada.",
-        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 5 veces.\nPuede que no haya nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 5 veces.\nPuede que no haya nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "KCNzAg": {
         "en-US": "[Rune]\nGloria or Kafragarten, wherever it is! Right now, at this very hour, ^4D4DFF destroy Emperiums!^000000\n^4D4DFFTarget number is 5 or more!^000000",
@@ -367,7 +367,7 @@
     "KSNzAg": {
         "en-US": "[Rune]\n10 or more of wooden boxes...let's see...you've done it right.\nSo, those Orc Babies were after this, huh?\nAnyway, good job.",
         "pt-BR": "[Runa]\n10 ou mais caixas de madeira... vejamos... você fez tudo certo.\nEntão, aqueles Bebês Orcs estavam atrás disso, hein?\nDe qualquer forma, bom trabalho.",
-        "es-ES": "[Rune]\n10 o más Cajas de madera pequeñas… a ver… lo hiciste bien.\nAsí que esos Bebés orcos estaban detrás de todo esto, ¿eh?\nEn fin, buen trabajo."
+        "es-ES": "[Rune]\n10 o más Cajas de madera pequeñas... a ver... lo hiciste bien.\nAsí que esos Bebés orcos estaban detrás de todo esto, ¿eh?\nEn fin, buen trabajo."
     },
     "KiNzAg": {
         "en-US": "[Rune]\nLet me take the rest of the boxes.\nI'll return it to its original owner.",
@@ -382,7 +382,7 @@
     "LCNzAg": {
         "en-US": "[Rune]\nHmm...you wouldn't believe it, but this mission is related to a theft.\nThey told me a number of small wooden boxes that contain important stuffs are missing from the fortress in Gloria.",
         "pt-BR": "[Runa]\nHmm... você não vai acreditar, mas essa missão está relacionada a um roubo.\nDisseram-me que várias caixas pequenas de madeira que contêm coisas importantes desapareceram da fortaleza de Glória.",
-        "es-ES": "[Rune]\nMmm… no lo creerás, pero esta misión está relacionada con un robo.\nDicen que desaparecieron un montón de Cajas de madera pequeñas que contienen objetos importantes en la fortaleza de Gloria."
+        "es-ES": "[Rune]\nMmm... no lo creerás, pero esta misión está relacionada con un robo.\nDicen que desaparecieron un montón de Cajas de madera pequeñas que contienen objetos importantes en la fortaleza de Gloria."
     },
     "LSNzAg": {
         "en-US": "[Rune]\nThe thief probably took advantage of the siege hours.\nIt's a request to find ^4D4DFF 10 or more of the stolen small wooden boxes^000000.",
@@ -392,12 +392,12 @@
     "LiNzAg": {
         "en-US": "[Rune]\n20 or more of wooden boxes...let's see...you've done it right.\nSo, those Orc Babies were after this, huh?\nAnyway, good job.",
         "pt-BR": "[Runa]\n20 ou mais caixas de madeira... vejamos... você fez tudo certo.\nEntão, aqueles Bebês Orcs estavam atrás disso, hein?\nDe qualquer forma, bom trabalho.",
-        "es-ES": "[Rune]\n20 o más Cajas de madera pequeñas… a ver… lo hiciste bien.\nAsí que esos Bebés orcos estaban detrás de todo esto, ¿eh?\nEn fin, buen trabajo."
+        "es-ES": "[Rune]\n20 o más Cajas de madera pequeñas... a ver... lo hiciste bien.\nAsí que esos Bebés orcos estaban detrás de todo esto, ¿eh?\nEn fin, buen trabajo."
     },
     "LyNzAg": {
         "en-US": "[Rune]\nSince you've done a good job, I'll let you open my tool box twice.\nThere might be nothing there...\nIt's a bonus, so don't complain if you don't find anything.",
         "pt-BR": "[Runa]\nComo você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas duas vezes.\nPode ser que não haja nada lá...\nÉ um bônus, então não reclame se não encontrar nada.",
-        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas dosveces.\nPuede que no haya nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Rune]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas dosveces.\nPuede que no haya nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "MCNzAg": {
         "en-US": "[Rune]\nThe thief probably took advantage of the siege hours.\nIt's a request to find ^4D4DFF 20 or more of the stolen small wooden boxes^000000.",
@@ -407,7 +407,7 @@
     "MSNzAg": {
         "en-US": "[Rune]\n30 or more of wooden boxes...let's see...you've done it right.\nSo, those Orc Babies were after this, huh?\nAnyway, good job.",
         "pt-BR": "[Runa]\n30 ou mais caixas de madeira... vejamos... você fez tudo certo.\nEntão, aqueles Bebês Orcs estavam atrás disso, hein?\nDe qualquer forma, bom trabalho.",
-        "es-ES": "[Rune]\n30 o más Cajas de madera pequeñas… a ver… lo hiciste bien.\nAsí que esos Bebés orcos estaban detrás de todo esto, ¿eh?\nEn fin, buen trabajo."
+        "es-ES": "[Rune]\n30 o más Cajas de madera pequeñas... a ver... lo hiciste bien.\nAsí que esos Bebés orcos estaban detrás de todo esto, ¿eh?\nEn fin, buen trabajo."
     },
     "MiNzAg": {
         "en-US": "[Rune]\nThe thief probably took advantage of the siege hours.\nIt's a request to find ^4D4DFF 30 or more of the stolen small wooden boxes^000000.",
@@ -432,7 +432,7 @@
     "NiNzAg": {
         "en-US": "Mm, you were taking a break?\nWell, it doesn't matter anymore.......",
         "pt-BR": "Mm, você estava fazendo uma pausa?\nBem, isso não importa mais.......",
-        "es-ES": "Mm, ¿te estabas tomando un descanso?\nBueno, ya no importa…"
+        "es-ES": "Mm, ¿te estabas tomando un descanso?\nBueno, ya no importa..."
     },
     "NyNzAg": {
         "en-US": "You can only check the results of the missions you've already accepted.",
@@ -442,7 +442,7 @@
     "OCNzAg": {
         "en-US": "[Rune]\nHmm...you still have some time left, but it's not the siege hour yet...\nI don't think you should go on.\nYou should cancel this mission. I would say it's failed.",
         "pt-BR": "[Runa]\nHmm... você ainda tem algum tempo, mas ainda não é a hora do cerco...\nAcho que você não deve continuar.\nVocê deve cancelar essa missão. Eu diria que ela fracassou.",
-        "es-ES": "[Rune]\nMmm… todavía te queda algo de tiempo, pero aún no es hora del guerra…\nNo creo que debas seguir.\nDeberías cancelar esta misión. Yo diría que fallaste."
+        "es-ES": "[Rune]\nMmm... todavía te queda algo de tiempo, pero aún no es hora del guerra...\nNo creo que debas seguir.\nDeberías cancelar esta misión. Yo diría que fallaste."
     },
     "OSNzAg": {
         "en-US": "I would like to go on.",
@@ -457,7 +457,7 @@
     "OyNzAg": {
         "en-US": "[Rune]\n...I don't think it's worth it. Well, good luck!",
         "pt-BR": "[Runa]\n...acho que não vale a pena. Bem, boa sorte!",
-        "es-ES": "[Rune]\n…No creo que valga la pena. Bien, ¡buena suerte!"
+        "es-ES": "[Rune]\n...No creo que valga la pena. Bien, ¡buena suerte!"
     },
     "PCNzAg": {
         "en-US": "[Rune]\nYou're not on this mission currently.\nCould you check again?",
@@ -467,7 +467,7 @@
     "PSNzAg": {
         "en-US": "Just like Mana said, you went through the box in front, and...",
         "pt-BR": "Assim como Mana disse, você passou pela caixa na frente e...",
-        "es-ES": "Tal como dijo Mana, revisaste la caja de enfrente, y…"
+        "es-ES": "Tal como dijo Mana, revisaste la caja de enfrente, y..."
     },
     "PiNzAg": {
         "en-US": "[Rune]\nSince the Training Edition Region has more of a casual atmosphere, it's not fun just fighting each other, right?\nSo, I brought ^4D4DFFsome work you can do during the battle times^000000~",
@@ -497,7 +497,7 @@
     "QyNzAg": {
         "en-US": "[Rune]\nAh...you...\nbased on Training Edition rules, I won't be ordering you or asking you favors unfortunately.",
         "pt-BR": "[Runa]\nAh... é você...\ncom base nas regras da Training Edition, infelizmente não vou lhe dar ordens nem pedir favores.",
-        "es-ES": "[Rune]\nAh… tú…\nSegún las reglas de la Tercera Edición, no será posible pedirte favores ni darte órdenes, lamentablemente."
+        "es-ES": "[Rune]\nAh... tú...\nSegún las reglas de la Tercera Edición, no será posible pedirte favores ni darte órdenes, lamentablemente."
     },
     "RCNzAg": {
         "en-US": "[Rune]\nHey now, since this place is just for primary and secondary job classes as well as users without expanded levels, could you leave if you got nothing else to do here?",

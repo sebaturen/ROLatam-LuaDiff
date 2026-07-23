@@ -8118,6 +8118,174 @@ StateIconList_data = {
 				[2] = COLOR_TIME
 			}
 		}
+	},
+	[EFST_IDs.EFST_CURSE_R_CUBE] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_BUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_CURSE_B_CUBE] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_BUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOEQUIPWEAPON2] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_DEBUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOEQUIPARMOR2] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_DEBUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOEQUIPSHIELD2] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_DEBUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOEQUIPSHOES2] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_DEBUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOEQUIPPENDANT2] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_DEBUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOEQUIPEARING2] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_DEBUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOEQUIPFULL2] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_DEBUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_1] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_BUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_2] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_BUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_3] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_BUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_4] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_BUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_5] = {
+		haveTimeLimit = 1,
+		posTimeLimitStr = 2,
+		descript = {
+			[1] = {
+				[2] = COLOR_TITLE_BUFF
+			},
+			[2] = {
+				[2] = COLOR_TIME
+			}
+		}
 	}
 }
 local function MergeTables(dest, src)

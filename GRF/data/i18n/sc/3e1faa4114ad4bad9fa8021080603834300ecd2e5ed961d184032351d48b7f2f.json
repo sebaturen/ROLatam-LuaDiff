@@ -1,0 +1,508 @@
+{
+    "4CFGDQ": {
+        "en-US": "-Cleared Floor {0}",
+        "pt-BR": "-{0}º Andar Concluído",
+        "es-ES": "-Piso {0} completado"
+    },
+    "4SFGDQ": {
+        "en-US": "Sunken Tower 40-59",
+        "pt-BR": "Torre Submersa 40~59",
+        "es-ES": "Torre Sumergida 40~59"
+    },
+    "4iFGDQ": {
+        "en-US": "Sunken Tower 60-79",
+        "pt-BR": "Torre Submersa 60~79",
+        "es-ES": "Torre Sumergida 60~79"
+    },
+    "4yFGDQ": {
+        "en-US": "Sunken Tower 80-99",
+        "pt-BR": "Torre Submersa 80~99",
+        "es-ES": "Torre Sumergida 80~99"
+    },
+    "5CFGDQ": {
+        "en-US": "Sunken Tower 100-119",
+        "pt-BR": "Torre Submersa 100~119",
+        "es-ES": "Torre Sumergida 100~119"
+    },
+    "5SFGDQ": {
+        "en-US": "Sunken Tower 120-139",
+        "pt-BR": "Torre Submersa 120~139",
+        "es-ES": "Torre Sumergida 120~139"
+    },
+    "5iFGDQ": {
+        "en-US": "Sunken Tower 140-159",
+        "pt-BR": "Torre Submersa 140~159",
+        "es-ES": "Torre Sumergida 140~159"
+    },
+    "5yFGDQ": {
+        "en-US": "Sunken Tower 160-179",
+        "pt-BR": "Torre Submersa 160~179",
+        "es-ES": "Torre Sumergida 160~179"
+    },
+    "6CFGDQ": {
+        "en-US": "Sunken Tower 180-199",
+        "pt-BR": "Torre Submersa 180~199",
+        "es-ES": "Torre Sumergida 180~199"
+    },
+    "6SFGDQ": {
+        "en-US": "Sunken Tower 200-219",
+        "pt-BR": "Torre Submersa 200~219",
+        "es-ES": "Torre Sumergida 200~219"
+    },
+    "6iFGDQ": {
+        "en-US": "Sunken Tower 220-239",
+        "pt-BR": "Torre Submersa 220~239",
+        "es-ES": "Torre Sumergida 220~239"
+    },
+    "6yFGDQ": {
+        "en-US": "Sunken Tower 240-249",
+        "pt-BR": "Torre Submersa 240~249",
+        "es-ES": "Torre Sumergida 240~249"
+    },
+    "7CFGDQ": {
+        "en-US": "[Weekly Exploration Ranking]\n----------------",
+        "pt-BR": "[Ranking Semanal de Exploração]\n----------------",
+        "es-ES": "[Clasificación semanal de exploración]\n----------------"
+    },
+    "7SFGDQ": {
+        "en-US": "^BBBBBBNo Record Holder^000000",
+        "pt-BR": "^BBBBBBNenhum Recordista^000000",
+        "es-ES": "^BBBBBBNingún Recordista^000000"
+    },
+    "7iFGDQ": {
+        "en-US": "{0} and {1} others - ^0000FFFloor {2}^000000",
+        "pt-BR": "{0} e mais {1} - ^0000FF{2}º Andar^000000",
+        "es-ES": "{0} y {1} más - Piso ^0000FF{2}^000000"
+    },
+    "7yFGDQ": {
+        "en-US": "{0} - ^0000FFFloor {1}^000000",
+        "pt-BR": "{0} - ^0000FF{1}º Andar^000000",
+        "es-ES": "{0} - Piso ^0000FF{1}^000000"
+    },
+    "8CFGDQ": {
+        "en-US": "^BBBBBBNo Record Holder^000000",
+        "pt-BR": "^BBBBBBNenhum Recordista^000000",
+        "es-ES": "^BBBBBBNingún Recordista^000000"
+    },
+    "8SFGDQ": {
+        "en-US": "{0} and {1} others - ^0000FFFloor {2}^000000",
+        "pt-BR": "{0} e mais {1} - ^0000FF{2}º Andar^000000",
+        "es-ES": "{0} y {1} más - Piso^0000FF{2}^000000"
+    },
+    "8iFGDQ": {
+        "en-US": "{0} - ^0000FFFloor {1}^000000",
+        "pt-BR": "{0} - ^0000FF{1}º Andar^000000",
+        "es-ES": "{0} - Piso ^0000FF{1}^000000"
+    },
+    "8yFGDQ": {
+        "en-US": "^BBBBBBNo Record Holder^000000",
+        "pt-BR": "^BBBBBBNenhum Recordista^000000",
+        "es-ES": "^BBBBBBSin registros^000000"
+    },
+    "9CFGDQ": {
+        "en-US": "{0} and {1} others - ^0000FFFloor {2}^000000",
+        "pt-BR": "{0} e mais {1} - ^0000FF{2}º Andar^000000",
+        "es-ES": "{0} y {1} más - planta ^0000FF{2}^000000"
+    },
+    "9SFGDQ": {
+        "en-US": "{0} - ^0000FFFloor {1}^000000",
+        "pt-BR": "{0} - ^0000FF{1}º Andar^000000",
+        "es-ES": "{0} - Piso ^0000FF{1}^000000"
+    },
+    "9iFGDQ": {
+        "en-US": "1st {0}\n----------------\n2nd {1}\n----------------\n3rd {2}^000000",
+        "pt-BR": "1º lugar {0}\n----------------\n2º lugar {1}\n----------------\n3º lugar {2}^000000",
+        "es-ES": "1.º {0}\n----------------\n2.º {1}\n----------------\n3.º {2}^000000"
+    },
+    "9yFGDQ": {
+        "en-US": "Sunken Tower Admin",
+        "pt-BR": "Admin da Torre Submersa",
+        "es-ES": "Admin. de la Torre Sumergida"
+    },
+    "+CFGDQ": {
+        "en-US": "Change EXP Rate",
+        "pt-BR": "Alterar Multiplicador de EXP",
+        "es-ES": "Cambiar multiplicador de EXP"
+    },
+    "+SFGDQ": {
+        "en-US": "Delete Cooldown",
+        "pt-BR": "Excluir Tempo de Recarga",
+        "es-ES": "Eliminar enfriamiento"
+    },
+    "+iFGDQ": {
+        "en-US": "Reset Scenario",
+        "pt-BR": "Apagar Cenário",
+        "es-ES": "Restablecer escenario"
+    },
+    "+yFGDQ": {
+        "en-US": "First Meeting",
+        "pt-BR": "Primeiro Encontro",
+        "es-ES": "Primer encuentro"
+    },
+    "/CFGDQ": {
+        "en-US": "When Dragon's Trial Complete",
+        "pt-BR": "Ao concluir Provação do Dragão",
+        "es-ES": "Al completar la Prueba del Dragón"
+    },
+    "/SFGDQ": {
+        "en-US": "When Constellation Complete",
+        "pt-BR": "Ao concluir Constelação",
+        "es-ES": "Al completar la Constelación"
+    },
+    "/iFGDQ": {
+        "en-US": "When All Complete",
+        "pt-BR": "Ao concluir tudo",
+        "es-ES": "Al completar todo"
+    },
+    "/yFGDQ": {
+        "en-US": "Reset Records",
+        "pt-BR": "Apagar Registros",
+        "es-ES": "Restablecer récords"
+    },
+    "ACJGDQ": {
+        "en-US": "Current EXP Rate ^0000FF{0}%^000000\n-------------\nEnter 100-500",
+        "pt-BR": "Multiplicador de EXP atual ^0000FF{0}%^000000\n-------------\nInsira 100~500",
+        "es-ES": "Multiplicador de EXP actual: ^0000FF{0}%^000000\n-------------\nIntroduce 100~500"
+    },
+    "ASJGDQ": {
+        "en-US": "-------------",
+        "pt-BR": "-------------",
+        "es-ES": "-------------"
+    },
+    "AiJGDQ": {
+        "en-US": "Changed Rate ^0000FF{0} %^000000",
+        "pt-BR": "Multiplicador Alterado ^0000FF{0} %^000000",
+        "es-ES": "Multiplicador cambiado a ^0000FF{0} %^000000"
+    },
+    "AyJGDQ": {
+        "en-US": "Input is outside the valid range.",
+        "pt-BR": "Fora do intervalo de entrada.",
+        "es-ES": "Valor fuera del rango permitido."
+    },
+    "BCJGDQ": {
+        "en-US": "All clear records so far will be reset. Are you sure you want to reset them?",
+        "pt-BR": "Todos os registros de exploração até agora serão apagados. Tem certeza de que deseja fazer isso?",
+        "es-ES": "Se restablecerán todos los récords registrados hasta ahora. ¿Seguro que quieres restablecerlos?"
+    },
+    "BSJGDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "BiJGDQ": {
+        "en-US": "Reset",
+        "pt-BR": "Apagar",
+        "es-ES": "Restablecer"
+    },
+    "ByJGDQ": {
+        "en-US": "Leticia",
+        "pt-BR": "Letícia",
+        "es-ES": "Leticia"
+    },
+    "CCJGDQ": {
+        "en-US": "40-59",
+        "pt-BR": "40~59",
+        "es-ES": "40-59"
+    },
+    "CSJGDQ": {
+        "en-US": "Enter: ^0000FF{0}^000000",
+        "pt-BR": "Entrar: ^0000FF{0}^000000",
+        "es-ES": "Entrar: ^0000FF{0}^000000"
+    },
+    "CiJGDQ": {
+        "en-US": "Create: ^0000FF{0}^000000",
+        "pt-BR": "Criar: ^0000FF{0}^000000",
+        "es-ES": "Crear: ^0000FF{0}^000000"
+    },
+    "CyJGDQ": {
+        "en-US": "100-119",
+        "pt-BR": "100~119",
+        "es-ES": "100~119"
+    },
+    "DCJGDQ": {
+        "en-US": "120-139",
+        "pt-BR": "120~139",
+        "es-ES": "120~139"
+    },
+    "DSJGDQ": {
+        "en-US": "140-159",
+        "pt-BR": "140~159",
+        "es-ES": "140~159"
+    },
+    "DiJGDQ": {
+        "en-US": "160-179",
+        "pt-BR": "160~179",
+        "es-ES": "160~179"
+    },
+    "DyJGDQ": {
+        "en-US": "180-199",
+        "pt-BR": "180~199",
+        "es-ES": "180~199"
+    },
+    "ECJGDQ": {
+        "en-US": "200-219",
+        "pt-BR": "200~219",
+        "es-ES": "200~219"
+    },
+    "ESJGDQ": {
+        "en-US": "220-239",
+        "pt-BR": "220~239",
+        "es-ES": "220~239"
+    },
+    "EiJGDQ": {
+        "en-US": "240-249",
+        "pt-BR": "240~249",
+        "es-ES": "240-249"
+    },
+    "EyJGDQ": {
+        "en-US": "^0000FFYou are not the appropriate level to enter this place.^000000",
+        "pt-BR": "^0000FFSeu nível não é adequado para entrar aqui.^000000",
+        "es-ES": "^0000FFNo tienes el nivel necesario para entrar a este lugar.^000000"
+    },
+    "FCJGDQ": {
+        "en-US": "Sunken Tower {0}",
+        "pt-BR": "Torre Submersa {0}",
+        "es-ES": "Torre Sumergida{0}"
+    },
+    "FSJGDQ": {
+        "en-US": "Enter ^0000FF{0}^000000",
+        "pt-BR": "Entrar em ^0000FF{0}^000000",
+        "es-ES": "Entrar en ^0000FF{0}^000000"
+    },
+    "FiJGDQ": {
+        "en-US": "Create ^0000FF{0}^000000",
+        "pt-BR": "Criar ^0000FF{0}^000000",
+        "es-ES": "Crear ^0000FF{0}^000000"
+    },
+    "FyJGDQ": {
+        "en-US": "^0000FFPlease proceed after forming a party of at least 1 member.^000000",
+        "pt-BR": "^0000FFProssiga após formar um Grupo com pelo menos 1 membro.^000000",
+        "es-ES": "^0000FFForma un grupo de al menos 1 miembro antes de continuar.^000000"
+    },
+    "GCJGDQ": {
+        "en-US": "^0000FFThe aftereffects of entering the dungeon have not disappeared. You cannot enter the dungeon during this time.",
+        "pt-BR": "^0000FFOs efeitos colaterais da entrada na instância ainda não desapareceram. Durante este período, não será possível entrar na instância.",
+        "es-ES": "^0000FFLos efectos posteriores de entrar en la mazmorra aún no han desaparecido. No puedes entrar en la mazmorra durante este tiempo."
+    },
+    "GSJGDQ": {
+        "en-US": "^0000FFAll aftereffects of entering the dungeon have disappeared. You can now speak normally.^000000",
+        "pt-BR": "^0000FFTodos os efeitos colaterais da entrada na instância desapareceram. Agora é possível conversar normalmente.^000000",
+        "es-ES": "^0000FFLos efectos posteriores de entrar en la mazmorra han desaparecido. Ahora puedes hablar con normalidad.^000000"
+    },
+    "GiJGDQ": {
+        "en-US": "It seems you and I see each other quite often, ^0000FF{0}^000000. Do you live so busily every day?",
+        "pt-BR": "Parece que nos vemos com muita frequência, ^0000FF{0}^000000. Os dias andam corridos para você?",
+        "es-ES": "Parece que nos vemos muy a menudo, ^0000FF{0}^000000. ¿Vives siempre tan ocupado?"
+    },
+    "GyJGDQ": {
+        "en-US": "Oh, did you come to town to buy snacks?",
+        "pt-BR": "Ah, por acaso veio à cidade comprar lanches?",
+        "es-ES": "Ah, ¿viniste a la ciudad a comprar algo para comer?"
+    },
+    "HCJGDQ": {
+        "en-US": "I would rather it were such a leisurely situation. Because Betelgeuse settled in, the things that were sleeping underground are being released.",
+        "pt-BR": "Eu até preferiria que fosse uma situação tranquila assim. É que, depois que Betelgeuse se instalou, criaturas que dormiam no subsolo estão sendo libertadas.",
+        "es-ES": "Ojalá fuera una situación tan tranquila. Desde que Betelgeuse se estableció, han comenzado a salir las criaturas que dormían bajo tierra."
+    },
+    "HSJGDQ": {
+        "en-US": "Ah, that is rather troublesome.",
+        "pt-BR": "Ah, isso é meio problemático.",
+        "es-ES": "Ah, eso es un poco problemático."
+    },
+    "HiJGDQ": {
+        "en-US": "Yes, well, it probably will not happen, but if they make it all the way here, there is a high chance the city will be destroyed.",
+        "pt-BR": "Sim. Bem, provavelmente não acontecerá, mas se elas chegarem até aqui, há uma grande chance da cidade ser destruída.",
+        "es-ES": "Sí. Bueno, no creo que ocurra, pero si llegan hasta aquí, es muy probable que la ciudad sea destruida."
+    },
+    "HyJGDQ": {
+        "en-US": "I have been looking for a human who might be able to help, but none of them have really caught my eye.",
+        "pt-BR": "Estou procurando humanos que possam ajudar, mas nenhum deles me chamou muita atenção.",
+        "es-ES": "He estado buscando a algún humano que pueda ayudar, pero ninguno me ha parecido el indicado."
+    },
+    "ICJGDQ": {
+        "en-US": "Then shall I lend a hand?",
+        "pt-BR": "Então, que tal eu dar uma mão?",
+        "es-ES": "¿Entonces te echo una mano?"
+    },
+    "ISJGDQ": {
+        "en-US": "If you step in, I will feel reassured.",
+        "pt-BR": "Se você ajudar, também ficarei tranquila.",
+        "es-ES": "Si ayudas, eso me dará más tranquilidad."
+    },
+    "IiJGDQ": {
+        "en-US": "Ahh~ It has been a long time since I saw you at the dragon's proving ground, ^0000FF{0}^000000. You seem a bit healthier, too.",
+        "pt-BR": "Ahh~ faz tempo desde que nos vimos no Campo de Provas dos Dragões, ^0000FF{0}^000000. Parece que você está um pouco mais saudável.",
+        "es-ES": "Ah~ ¡Cuánto tiempo! Desde que te vi en el Campo de Pruebas del Dragón, ^0000FF{0}^000000, parece que estás un poco mejor."
+    },
+    "IyJGDQ": {
+        "en-US": "Ah! It has truly been a long time, Empress of Crimson Flame.",
+        "pt-BR": "Ah! Quanto tempo, Imperatriz Rubi.",
+        "es-ES": "¡Ah! ¡Cuánto tiempo, Emperatriz de la Llama Roja!"
+    },
+    "JCJGDQ": {
+        "en-US": "I was troubled by the monsters released from the island offshore, but seeing you eases my mind a little.",
+        "pt-BR": "Eu estava tendo problemas com os monstros libertados da ilha ao largo da costa, mas ver você me deixa um pouco mais tranquila.",
+        "es-ES": "Me preocupaban los monstruos que salieron de la isla frente a la costa, pero verte me tranquiliza un poco."
+    },
+    "JSJGDQ": {
+        "en-US": "Monsters were released from the island?",
+        "pt-BR": "Monstros foram libertados da ilha?",
+        "es-ES": "¿Se han liberado monstruos de la isla?"
+    },
+    "JiJGDQ": {
+        "en-US": "Yes, well, some fool caused quite a spectacular incident, and that is how it turned out. If the monsters make it all the way here, there is a high chance the city will be destroyed.",
+        "pt-BR": "Sim. Bem, algum sujeito causou um grande desastre, e acabou ficando assim. Se os monstros chegarem até aqui, há uma grande chance da cidade ser destruída.",
+        "es-ES": "Sí. Bueno, alguien provocó un gran incidente y las cosas acabaron así. Si los monstruos llegan hasta aquí, es muy probable que la ciudad sea destruida."
+    },
+    "JyJGDQ": {
+        "en-US": "There are so many small fry that it would be difficult to handle alone, so for now, I am guiding any humans who seem qualified to briefly subjugate that place.",
+        "pt-BR": "Há tantos fracotes que é difícil cuidar disso sozinha, então estou guiando até lá, por enquanto, qualquer humano que pareça qualificado para detetizar o lugar.",
+        "es-ES": "Hay tantos monstruos menores que es difícil encargarse de ellos en solitario, así que, por ahora, estoy guiando hasta ese lugar a cualquier humano que parezca capaz de subyugarlos."
+    },
+    "KCJGDQ": {
+        "en-US": "Could I be of help as well?",
+        "pt-BR": "Eu também posso ajudar?",
+        "es-ES": "¿Yo también podría ayudar?"
+    },
+    "KSJGDQ": {
+        "en-US": "Someone like you would be quite helpful.",
+        "pt-BR": "Alguém como você ajudaria bastante.",
+        "es-ES": "Alguien como tú sería de bastante ayuda."
+    },
+    "KiJGDQ": {
+        "en-US": "We meet again and again in the tower. I happened to need a worker to make use of, and you arrived at just the right time! ^0000FF{0}^000000.",
+        "pt-BR": "Nos reencontramos naquela torre. Eu precisava justamente de um trabalhador útil, e você chegou na hora certa! ^0000FF{0}^000000.",
+        "es-ES": "Nos volvemos a encontrar en la torre. Justo necesitaba a alguien a quien poner a trabajar, ¡y llegaste en el momento perfecto, ^0000FF{0}^000000!"
+    },
+    "KyJGDQ": {
+        "en-US": "Seeing you welcome me, it seems something has happened.",
+        "pt-BR": "Pelo jeito que está feliz em me ver, parece que aconteceu alguma coisa.",
+        "es-ES": "Por la bienvenida que me das, parece que ha pasado algo."
+    },
+    "LCJGDQ": {
+        "en-US": "You know that tower, right? Its underground! Something is crawling up from there in droves, and it is giving me a headache! I never thought I would end up cleaning up after this.",
+        "pt-BR": "Você conhece aquela torre, certo? É o seu subsolo! Um monte de coisas está vindo lá de baixo, e isso está me dando dor de cabeça! Quem diria que eu teria que limpar essa bagunça.",
+        "es-ES": "¿Conoces esa torre, verdad? ¡Debajo de ella! ¡Desde allí están saliendo montones de criaturas y me tienen con un dolor de cabeza! Nunca pensé que terminaría limpiando este desastre."
+    },
+    "LSJGDQ": {
+        "en-US": "Ah... Somehow, I had a feeling this would happen.",
+        "pt-BR": "Ah... De algum jeito eu imaginei que seria isso.",
+        "es-ES": "Ah... Me daba la impresión de que acabaría pasando algo así."
+    },
+    "LiJGDQ": {
+        "en-US": "Yes, well, it cannot be helped since Betelgeuse's energy is rather strong. If the monsters make it all the way here, there is a high chance the city will be destroyed.",
+        "pt-BR": "Sim. Bem, como aquele Betelgeuse tem uma energia bem forte, não tem muito o que fazer. Mas se os monstros chegarem até aqui, há uma grande chance da cidade ser destruída.",
+        "es-ES": "Sí. Bueno, supongo que no se puede evitar, ya que Betelgeuse tiene una energía bastante fuerte. Si los monstruos llegan hasta aquí, es muy probable que la ciudad sea destruida."
+    },
+    "LyJGDQ": {
+        "en-US": "Let us work together on one thing, like last time.",
+        "pt-BR": "Trabalhe comigo em só uma tarefa, como da outra vez.",
+        "es-ES": "Trabajemos juntos en esto, como la otra vez."
+    },
+    "MCJGDQ": {
+        "en-US": "Huh? Me?",
+        "pt-BR": "Hã? Eu?",
+        "es-ES": "¿Eh? ¿Yo?"
+    },
+    "MSJGDQ": {
+        "en-US": "Yes, who else but you? You are exactly right for it.",
+        "pt-BR": "Sim, quem mais além de você? Você é a pessoa certa para isso.",
+        "es-ES": "Sí, ¿quién si no tú? Eres justo lo que necesito."
+    },
+    "MiJGDQ": {
+        "en-US": "Hm? What is this? Can you see me? You are a useful little one, too. I am Leticia, the Constellation who governs fire.",
+        "pt-BR": "Hm? O que foi? Você consegue me ver? Então você também é um pirralho útil. Sou Letícia, a Constelação que governa o fogo.",
+        "es-ES": "¿Eh? ¿Qué es esto? ¿Puedes verme? Resulta que también eres bastante útil. Me llamo Leticia, la constelación que gobierna el fuego."
+    },
+    "MyJGDQ": {
+        "en-US": "What do you need from me?",
+        "pt-BR": "O que quer de mim?",
+        "es-ES": "¿Qué quieres de mí?"
+    },
+    "NCJGDQ": {
+        "en-US": "Ah, there is not enough time to explain everything to someone I have just met... A rather troublesome one has settled on the island out at sea. Because of that, the island's natives are full of complaints.",
+        "pt-BR": "Ah, não há tempo para explicar muitas coisas a alguém que acabei de conhecer... Um sujeito um pouco problemático se instalou naquela ilha ao largo da costa. Graças a isso, os nativos da ilha estão cheios de reclamações.",
+        "es-ES": "Ah, no hay tiempo suficiente para explicarle todo a alguien que acabo de conocer... Un sujeto bastante problemático se ha instalado en la isla, allá en el mar. Por su culpa, los nativos de la isla están muy descontentos."
+    },
+    "NSJGDQ": {
+        "en-US": "Natives? There should only be monsters there...",
+        "pt-BR": "Nativos? Lá só deve ter monstros...",
+        "es-ES": "¿Nativos? Allí solo debería haber monstruos..."
+    },
+    "NiJGDQ": {
+        "en-US": "Yes, well, by human standards, they would indeed be monsters. In any case, if those natives flow all the way here while transformed, there is a high chance the city will be destroyed.",
+        "pt-BR": "Sim, bem, pelos padrões humanos, são monstros mesmo. De qualquer forma, se esses nativos mutantes chegarem até aqui, há uma grande chance da cidade ser destruída.",
+        "es-ES": "Sí, bueno, para los humanos, sin duda serían monstruos. En cualquier caso, si esos nativos mutantes llegan a venir hasta aquí, es muy probable que la ciudad sea destruida."
+    },
+    "NyJGDQ": {
+        "en-US": "Am I included among those who qualify?",
+        "pt-BR": "Eu estou entre os qualificados?",
+        "es-ES": "¿Estoy entre los que cumplen con los requisitos?"
+    },
+    "OCJGDQ": {
+        "en-US": "Hmm... well, more or less? I think you are worth trying to work with.",
+        "pt-BR": "Hmm... bem, razoavelmente? Acho que dá para tentar trabalhar juntos.",
+        "es-ES": "Mmm... bueno, ¿más o menos? Creo que podríamos intentar trabajar juntos."
+    },
+    "OSJGDQ": {
+        "en-US": "[Leticia]",
+        "pt-BR": "[Letícia]",
+        "es-ES": "[Leticia]"
+    },
+    "OiJGDQ": {
+        "en-US": "[Leticia]\nThis is a personal request from me, so I cannot offer a great reward. However, it will help with your growth.",
+        "pt-BR": "[Letícia]\nEsta é uma solicitação pessoal minha, então não posso oferecer uma grande recompensa. Em troca, ela ajudará no seu crescimento.",
+        "es-ES": "[Leticia]\nEsta es una petición personal mía, así que no puedo ofrecerte una gran recompensa. A cambio, te ayudará a crecer."
+    },
+    "OyJGDQ": {
+        "en-US": "[Leticia]\nIf you make up your mind later, come find me. There is no boat to the underground of the tower, so I will warp you there myself.",
+        "pt-BR": "[Letícia]\nMesmo que decida depois, venha me procurar. Não há barco para o subsolo da torre, então eu mesma vou teleportá-lo.",
+        "es-ES": "[Leticia]\nSi te decides más tarde, ven a buscarme. No hay barco hacia el subsuelo de la torre, así que yo misma te teletransportaré."
+    },
+    "PCJGDQ": {
+        "en-US": "[Leticia]\nAre you fully prepared to descend to the bottom of the tower, little one?",
+        "pt-BR": "[Letícia]\nJá terminou de preparar seu coração para descer até o fundo da torre, pequenino?",
+        "es-ES": "[Leticia]\n¿Ya estás preparado para descender a lo más profundo de la torre, pequeño?"
+    },
+    "PSJGDQ": {
+        "en-US": "Check Previous Record",
+        "pt-BR": "Verificar Registros Anteriores",
+        "es-ES": "Consultar registros anteriores"
+    },
+    "PiJGDQ": {
+        "en-US": "[Leticia]\nYour deepest record while under the goddess's blessing is ^0000FFFloor {0}^000000. This time, you will aim even deeper than that, right?",
+        "pt-BR": "[Letícia]\nO registro mais profundo em que você recebeu a bênção da deusa é o ^0000FF{0}^000000º Andar. Desta vez, vai tentar chegar ainda mais fundo, certo?",
+        "es-ES": "[Leticia]\nTu registro más profundo bajo la bendición de la diosa es el piso ^0000FF{0}^000000. Esta vez intentarás llegar aún más abajo, ¿verdad?"
+    },
+    "PyJGDQ": {
+        "en-US": "[Leticia]\nHmm, this seems to be your first time. You have no record under the goddess's blessing.",
+        "pt-BR": "[Letícia]\nHmm, parece que esta é sua primeira vez. Você não tem registros de ter recebido a bênção da deusa.",
+        "es-ES": "[Leticia]\nMmm, parece que esta es tu primera vez. No tienes ningún registro de que hayas recibido la bendición de la diosa."
+    },
+    "QCJGDQ": {
+        "en-US": "^FF0000An unknown error has occurred.^000000",
+        "pt-BR": "^FF0000Ocorreu um erro desconhecido.^000000",
+        "es-ES": "^FF0000Se ha producido un error desconocido.^000000"
+    },
+    "QSJGDQ": {
+        "en-US": "^0000FFThe dungeon has not been created, or its level does not match the created dungeon.^000000",
+        "pt-BR": "^0000FFA instância não foi criada ou o nível não corresponde à instância criada.^000000",
+        "es-ES": "^0000FFParece que la mazmorra no se ha creado o que tu nivel no coincide con la mazmorra creada.^000000"
+    },
+    "QiJGDQ": {
+        "en-US": "^FF0000You cannot enter unless you are in a party.^000000",
+        "pt-BR": "^FF0000Você não pode entrar se não estiver em um Grupo.^000000",
+        "es-ES": "^FF0000No puedes entrar si no formas parte de un grupo.^000000"
+    },
+    "QyJGDQ": {
+        "en-US": "^0000FFOnly the party leader can create the dungeon.^000000",
+        "pt-BR": "^0000FFSe você não for o líder do Grupo, não poderá criar a instância.^000000",
+        "es-ES": "^0000FFSi no eres el líder del grupo, no puedes crear la mazmorra.^000000"
+    },
+    "RCJGDQ": {
+        "en-US": "^0000FF{0} ^000000- Reservation Failed",
+        "pt-BR": "^0000FF{0} ^000000- Falha na Reserva",
+        "es-ES": "^0000FF{0} ^000000- Reserva fallida"
+    },
+    "RSJGDQ": {}
+}

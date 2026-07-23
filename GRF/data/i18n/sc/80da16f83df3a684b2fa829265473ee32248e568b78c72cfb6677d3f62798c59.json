@@ -81,7 +81,7 @@
     },
     "EIUEDQ": {
         "en-US": "Child: Please, just don’t fire me.. I need to earn money for my father’s medicine.",
-        "pt-BR": "Criança: Por favor, não me demita… preciso ganhar o dinheiro do remédio do meu pai.",
+        "pt-BR": "Criança: Por favor, não me demita... preciso ganhar o dinheiro do remédio do meu pai.",
         "es-ES": "Niño: Por favor, no me despida... tengo que ganar dinero para las medicinas de mi padre."
     },
     "EYUEDQ": {
@@ -96,7 +96,7 @@
     },
     "E4UEDQ": {
         "en-US": "Child: Then at least the wages I earned so far..",
-        "pt-BR": "Criança: Senhor, então pelo menos me pague pelo trabalho de até agora…",
+        "pt-BR": "Criança: Senhor, então pelo menos me pague pelo trabalho de até agora...",
         "es-ES": "Niño: Jefe, entonces al menos deme el dinero que he ganado hasta ahora..."
     },
     "FIUEDQ": {
@@ -106,7 +106,7 @@
     },
     "FYUEDQ": {
         "en-US": "Man: Hah, have I lived too long? I’m hearing all kinds of nonsense. You got caught stealing, and now you shamelessly want money?",
-        "pt-BR": "Homem: Hein, será que já vivi demais? Ouço cada absurdo… você foi pego roubando e ainda quer me pedir dinheiro na maior cara de pau?",
+        "pt-BR": "Homem: Hein, será que já vivi demais? Ouço cada absurdo... você foi pego roubando e ainda quer me pedir dinheiro na maior cara de pau?",
         "es-ES": "Hombre: Ja, debo de haber vivido demasiado para oír semejantes tonterías. ¿Te pillan robando y encima tienes la cara de pedirme dinero?"
     },
     "FoUEDQ": {
@@ -166,12 +166,12 @@
     },
     "IYUEDQ": {
         "en-US": "[Child]\nTch.. just my luck. Natives really are the easiest targets.",
-        "pt-BR": "[Criança]\nAff… que azar, mesmo. No fim, nativo é sempre o alvo fácil.",
+        "pt-BR": "[Criança]\nAff... que azar, mesmo. No fim, nativo é sempre o alvo fácil.",
         "es-ES": "[Niño]\nBah... qué mala suerte, total, un nativo siempre es la presa fácil."
     },
     "IoUEDQ": {
         "en-US": "[Child]\nAh.. he paid pretty freely, but since he didn’t fire people freely, I actually liked that part. Thought it would last longer.",
-        "pt-BR": "[Criança]\nAh… ele até pagava com certa liberdade, mas como também demitia com a mesma liberdade, achei que até durou bastante.",
+        "pt-BR": "[Criança]\nAh... ele até pagava com certa liberdade, mas como também demitia com a mesma liberdade, achei que até durou bastante.",
         "es-ES": "[Niño]\nAh... bueno, soltaba el dinero con bastante liberalidad, pero como no despedía con la misma liberalidad, la verdad es que me gustaba bastante. Pensé que duraría."
     },
     "I4UEDQ": {
@@ -196,7 +196,7 @@
     },
     "J4UEDQ": {
         "en-US": "[Child]\nHa.. thought I got caught.",
-        "pt-BR": "[Criança]\nHa… achei que tinham me pego.",
+        "pt-BR": "[Criança]\nHa... achei que tinham me pego.",
         "es-ES": "[Niño]\nUf... creí que me habían pillado."
     },
     "KIUEDQ": {
@@ -391,22 +391,22 @@
     },
     "ToUEDQ": {
         "en-US": "[Mejai]\nIf Half Flower is blooming under a tree, then this... if it’s under a rock, then that... if it’s beside grass, then this...",
-        "pt-BR": "[Mejai]\nSe a Flor Bicolor estiver debaixo de uma árvore, isso… se estiver sob uma pedra, aquilo… se estiver ao lado da grama, aquilo outro…",
+        "pt-BR": "[Mejai]\nSe a Flor Bicolor estiver debaixo de uma árvore, isso... se estiver sob uma pedra, aquilo... se estiver ao lado da grama, aquilo outro...",
         "es-ES": "[Mejai]\nQue si el lugar donde florece la Media Flor está bajo un árbol, entonces esto... que si está bajo una piedra, entonces aquello... que si está junto a la hierba, entonces lo otro..."
     },
     "T4UEDQ": {
         "en-US": "[Mejai]\nConsidering the humidity around the flower, you have to cut at angles of 10, 20, or 30 degrees..",
-        "pt-BR": "[Mejai]\nTem que considerar a umidade ao redor da flor e cortar em 10, 20 ou 30 graus…",
+        "pt-BR": "[Mejai]\nTem que considerar a umidade ao redor da flor e cortar em 10, 20 ou 30 graus...",
         "es-ES": "[Mejai]\nQue si hay que tener en cuenta la humedad alrededor de la flor para cortar a 10, 20 o 30 grados..."
     },
     "UIUEDQ": {
         "en-US": "[Mejai]\nAh.. wait, I got carried away. It was always stressful whenever Father told me these stories..",
-        "pt-BR": "[Mejai]\nAh.. espera, me empolguei. Sempre foi estressante quando meu pai me contava isso…",
+        "pt-BR": "[Mejai]\nAh.. espera, me empolguei. Sempre foi estressante quando meu pai me contava isso...",
         "es-ES": "[Mejai]\nAh... espera, me emocioné un poco. Cada vez que mi padre me contaba esto, era un estrés..."
     },
     "UYUEDQ": {
         "en-US": "[Mejai]\nWell, in the end, it became my business, so I guess all that nagging really did become flesh and blood..",
-        "pt-BR": "[Mejai]\nMas no fim acabei transformando isso em negócio, então toda aquela falação virou algo útil…",
+        "pt-BR": "[Mejai]\nMas no fim acabei transformando isso em negócio, então toda aquela falação virou algo útil...",
         "es-ES": "[Mejai]\nPero bueno, al final he terminado montando un negocio con eso, así que todos aquellos sermones acabaron sirviendo de algo..."
     },
     "UoUEDQ": {
@@ -466,12 +466,12 @@
     },
     "XYUEDQ": {
         "en-US": "[Mejai]\nNow that we’ll be working together, from now on please call me Boss Mejai. I will also respect {0}—no, my employee.",
-        "pt-BR": "[Mejai]\nAgora que vamos trabalhar juntos, de agora em diante, por favor, me chame de Chefe Mejai. Eu também vou respeitar {0}… quer dizer, meu funcionário.",
+        "pt-BR": "[Mejai]\nAgora que vamos trabalhar juntos, de agora em diante, por favor, me chame de Chefe Mejai. Eu também vou respeitar {0}... quer dizer, meu funcionário.",
         "es-ES": "[Mejai]\nYa que vamos a trabajar juntos, a partir de ahora llámame Jefe Mejai. Y yo también respetaré a {0}, no, quiero decir, al empleado."
     },
     "XoUEDQ": {
         "en-US": "[Mejai]\nI won’t treat you carelessly. I’m sick and tired of that sort of thing now..",
-        "pt-BR": "[Mejai]\nNão vou tratá-lo com desprezo. Já estou farto desse tipo de coisa…",
+        "pt-BR": "[Mejai]\nNão vou tratá-lo com desprezo. Já estou farto desse tipo de coisa...",
         "es-ES": "[Mejai]\nNo voy a tratarte a la ligera. Ya estoy harto de cosas así..."
     },
     "X4UEDQ": {
@@ -510,9 +510,9 @@
         "es-ES": "[Mejai]\n¿De verdad? ¡Ejem!\nMuy bien. Yo creo que el respeto mutuo entre jefe y empleado es importante. Supongo que ya te imaginarás por qué digo esto."
     },
     "ZoUEDQ": {
-        "en-US": "[Mejai]\nI won’t treat you carelessly. I’m sick and tired of that sort of thing now….",
-        "pt-BR": "[Mejai]\nNão vou tratá-lo com desprezo. Já estou farto desse tipo de coisa….",
-        "es-ES": "[Mejai]\nNo voy a tratarte a la ligera. Ya estoy harto de cosas así…."
+        "en-US": "[Mejai]\nI won’t treat you carelessly. I’m sick and tired of that sort of thing now....",
+        "pt-BR": "[Mejai]\nNão vou tratá-lo com desprezo. Já estou farto desse tipo de coisa....",
+        "es-ES": "[Mejai]\nNo voy a tratarte a la ligera. Ya estoy harto de cosas así...."
     },
     "Z4UEDQ": {
         "en-US": "[Mejai]\nI was about to begin training on gathering Half Flower. Are you ready?",
@@ -546,7 +546,7 @@
     },
     "bYUEDQ": {
         "en-US": "[Mejai]\nThen second, remove the leaves from the cut stem..",
-        "pt-BR": "[Mejai]\nDepois, na segunda etapa, removemos as folhas do caule cortado…",
+        "pt-BR": "[Mejai]\nDepois, na segunda etapa, removemos as folhas do caule cortado...",
         "es-ES": "[Mejai]\nDespués, en segundo lugar, se retiran las hojas del tallo cortado..."
     },
     "boUEDQ": {
@@ -566,7 +566,7 @@
     },
     "cYUEDQ": {
         "en-US": "[Mejai]\nIn the advanced course, the cutting angle of the stem, the number of leaves to remove, and the amount of water and secret powder in the container vary depending on where Half Flower is blooming, but..",
-        "pt-BR": "[Mejai]\nNum nível mais avançado, o ângulo do corte, a quantidade de folhas removidas e a proporção de água e pó secreto no recipiente mudam dependendo do lugar onde a Flor Bicolor está florescendo, mas…",
+        "pt-BR": "[Mejai]\nNum nível mais avançado, o ângulo do corte, a quantidade de folhas removidas e a proporção de água e pó secreto no recipiente mudam dependendo do lugar onde a Flor Bicolor está florescendo, mas...",
         "es-ES": "[Mejai]\nEn el nivel avanzado, según el lugar donde florezca la Media Flor, cambian el ángulo de corte del tallo, la cantidad de hojas que hay que retirar y la cantidad de agua y polvo secreto que hay que poner en el recipiente, pero..."
     },
     "coUEDQ": {
@@ -611,7 +611,7 @@
     },
     "eoUEDQ": {
         "en-US": "[Mejai]\nBut unlike me, you are someone who handles many other tasks at the same time..",
-        "pt-BR": "[Mejai]\nMas você, meu funcionário, diferente de mim, é uma pessoa que realiza várias outras tarefas ao mesmo tempo, então…",
+        "pt-BR": "[Mejai]\nMas você, meu funcionário, diferente de mim, é uma pessoa que realiza várias outras tarefas ao mesmo tempo, então...",
         "es-ES": "[Mejai]\nPero como tú, a diferencia de mí, eres alguien que lleva varias tareas a la vez..."
     },
     "e4UEDQ": {
@@ -856,7 +856,7 @@
     },
     "q4UEDQ": {
         "en-US": "[Mejai]\nAhem..",
-        "pt-BR": "[Mejai]\nAham…",
+        "pt-BR": "[Mejai]\nAham...",
         "es-ES": "[Mejai]\nEjem..."
     },
     "rIUEDQ": {
@@ -956,7 +956,7 @@
     },
     "v4UEDQ": {
         "en-US": "[Mejai]\nI thought it was still too early..",
-        "pt-BR": "[Mejai]\nAcho que ainda é cedo demais…",
+        "pt-BR": "[Mejai]\nAcho que ainda é cedo demais...",
         "es-ES": "[Mejai]\nCreo que todavía es demasiado pronto..."
     },
     "wIUEDQ": {
@@ -1406,7 +1406,7 @@
     },
     "GYYEDQ": {
         "en-US": "Molly: Here. How strange? Who could it be?",
-        "pt-BR": "Molly: Aqui está. Que estranho… quem será?",
+        "pt-BR": "Molly: Aqui está. Que estranho... quem será?",
         "es-ES": "Molly: Aquí tiene. Qué raro... ¿quién habrá sido?"
     },
     "GoYEDQ": {
@@ -1616,7 +1616,7 @@
     },
     "Q4YEDQ": {
         "en-US": "Tilling: Should I accept that old man’s feelings? The age gap is rather large, though, so what should I do.",
-        "pt-BR": "Tilling: Será que devo aceitar o sentimento desse senhor? A diferença de idade é bem grande… o que eu faço?",
+        "pt-BR": "Tilling: Será que devo aceitar o sentimento desse senhor? A diferença de idade é bem grande... o que eu faço?",
         "es-ES": "Tilling: ¿Debería aceptar los sentimientos de ese señor? Hay bastante diferencia de edad, ¿qué hago?"
     },
     "RIYEDQ": {
@@ -1626,7 +1626,7 @@
     },
     "RYYEDQ": {
         "en-US": "Tilling: Ahh, I’m supposed to leave the shop during break time, but I can’t even do that..",
-        "pt-BR": "Tilling: Ahh, eu deveria sair da loja durante o intervalo, mas nem isso estou conseguindo…",
+        "pt-BR": "Tilling: Ahh, eu deveria sair da loja durante o intervalo, mas nem isso estou conseguindo...",
         "es-ES": "Tilling: Ay... durante mi descanso debería salir de la tienda, pero ni siquiera puedo hacerlo..."
     },
     "RoYEDQ": {
@@ -1871,7 +1871,7 @@
     },
     "doYEDQ": {
         "en-US": "Seil: Ooohong! Such a fresh Half Flower, even after being picked? Whoever gathered it must be quite skillful.",
-        "pt-BR": "Seil: Oohong! Uma Flor Bicolor tão viva assim… será que foi colhida por alguém muito habilidoso?",
+        "pt-BR": "Seil: Oohong! Uma Flor Bicolor tão viva assim... será que foi colhida por alguém muito habilidoso?",
         "es-ES": "Seil: ¡Oh, oh, oh! Una Media Flor tan fresca como esta... ¿será que la ha recolectado alguien con mucha maña?"
     },
     "d4YEDQ": {

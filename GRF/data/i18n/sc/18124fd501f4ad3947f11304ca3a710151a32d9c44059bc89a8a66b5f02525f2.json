@@ -127,7 +127,7 @@
     "GWoY": {
         "en-US": "[Taab]\n...I hope I can carry them\naround as my pets.\nHillslions are so cute.\nYou can't find such an\nanimal on the mainland,\nyou know?",
         "pt-BR": "[Taab]\n... Espero poder levá-los por aí\ncomo meus mascotes.\nOs Leões da Montanha são tão bonitinhos.\nNão dá para encontrar um animal\nassim no continente,\nsabe?",
-        "es-ES": "[Taab]\n…Aunque espero poder llevarlos\ncomo mascotas.\nLos Leones de montaña son adorables.\nNo hay criaturas como estas\nen el continente,\n¿sabes?"
+        "es-ES": "[Taab]\n...Aunque espero poder llevarlos\ncomo mascotas.\nLos Leones de montaña son adorables.\nNo hay criaturas como estas\nen el continente,\n¿sabes?"
     },
     "GmoY": {
         "en-US": "[Taab]\nI'm sorry, but I don't need\nany assistance right now.\nI'll make an official\nannouncement if I need help.\nPlease come back then.",
@@ -137,7 +137,7 @@
     "G2oY": {
         "en-US": "[Taab]\nWelcome.\nYour job is simple:\nhelp me out by gathering\nthe animals' feed or by\ncleaning their cages.\nThese are the available jobs...",
         "pt-BR": "[Taab]\nBoas-vindas.\nSeu trabalho é simples:\nme ajude recolhendo\na ração dos animais ou\nlimpando as gaiolas.\nEstes são os trabalhos disponíveis...",
-        "es-ES": "[Taab]\nTe doy la bienvenida.\nTu trabajo es sencillo:\nayúdame a reunir\ncomida para las criaturas o\na limpiar sus jaulas.\nEsos son los trabajos disponibles…"
+        "es-ES": "[Taab]\nTe doy la bienvenida.\nTu trabajo es sencillo:\nayúdame a reunir\ncomida para las criaturas o\na limpiar sus jaulas.\nEsos son los trabajos disponibles..."
     },
     "HGoY": {
         "en-US": "[Taab]\nPlease bring me 50 Fresh Fish.\nThey're feed for Tatachoes.\nI'm fresh out, and I'll need\nto restock very soon.",
@@ -172,7 +172,7 @@
     "ImoY": {
         "en-US": "[Taab]\nThis time... I'd like to\ntry Monster's Feed.\nCan you please bring me\n^4D4DFF20 Monster's Feeds and 30 Pet Foods^000000?",
         "pt-BR": "[Taab]\nDesta vez... Queria\ntentar usar o Ração para Monstros.\nVocê pode me trazer\n^4D4DFF20 Ração para Monstros e 30 Ração para Bichinho^000000?",
-        "es-ES": "[Taab]\nEsta vez… me gustaría\nprobar con Comida para monstruos.\n¿Puedes traerme\n^4D4DFF20 unidades de Comida para monstruos y 30 unidades de Comida para mascotas^000000?"
+        "es-ES": "[Taab]\nEsta vez... me gustaría\nprobar con Comida para monstruos.\n¿Puedes traerme\n^4D4DFF20 unidades de Comida para monstruos y 30 unidades de Comida para mascotas^000000?"
     },
     "I2oY": {
         "en-US": "[Taab]\nThank you in advance.\nDon't forget the\n20 Monster's Feeds\nand 30 Pet Foods.\nI hope the Hallsrions\nwill like them.",
@@ -227,7 +227,7 @@
     "LWoY": {
         "en-US": "[Taab]\nI'm sorry for the trouble\nI must have caused you\nto come here. Haha...\nI'll see you next time.",
         "pt-BR": "[Taab]\nSinto muito pelo incômodo\nque você deve ter passado\npara vir aqui. Haha...\nVejo você na próxima.",
-        "es-ES": "[Taab]\nPerdón por las molestias,\n¡y gracias por venir\nhasta aquí! Ja, ja…\nNos vemos la próxima vez."
+        "es-ES": "[Taab]\nPerdón por las molestias,\n¡y gracias por venir\nhasta aquí! Ja, ja...\nNos vemos la próxima vez."
     },
     "LmoY": {
         "en-US": "[Taab]\nPlease step far away\nfrom the cages.\nSometimes, the creatures\ntry to escape their cages.",
@@ -242,7 +242,7 @@
     "MGoY": {
         "en-US": "[Taab]\nI really want to give you\nsomething in return... \nHm. I have nothing\nmaterial to give you.\nHow about a spiritual reward?",
         "pt-BR": "[Taab]\nEu quero muito te dar\nalgo em troca... \nHm. Não tenho nada\nmaterial para dar.\nQue tal uma recompensa espiritual?",
-        "es-ES": "[Taab]\nDe verdad, quiero darte\nalgo a cambio… \nMmm. No tengo nada\nmaterial para ofrecerte.\n¿Qué te parece una recompensa espiritual?"
+        "es-ES": "[Taab]\nDe verdad, quiero darte\nalgo a cambio... \nMmm. No tengo nada\nmaterial para ofrecerte.\n¿Qué te parece una recompensa espiritual?"
     },
     "MWoY": {
         "en-US": "^4D4DFF You have received 8000 EXP\nand 3000 JEXP.^000000",
@@ -262,7 +262,7 @@
     "NGoY": {
         "en-US": "[Taab]\nI really want to give you\nsomething in return... \nBut I have nothing\nmaterial to give you.\nHow about a spiritual reward?",
         "pt-BR": "[Taab]\nEu quero muito te dar\nalgo em troca... \nMas não tenho nada\nmaterial para dar.\nQue tal uma recompensa espiritual?",
-        "es-ES": "[Taab]\nDe verdad, quiero darte\nalgo a cambio… \nNo tengo nada\nmaterial para ofrecerte.\n¿Qué te parece una recompensa espiritual?"
+        "es-ES": "[Taab]\nDe verdad, quiero darte\nalgo a cambio... \nNo tengo nada\nmaterial para ofrecerte.\n¿Qué te parece una recompensa espiritual?"
     },
     "NWoY": {
         "en-US": "^4D4DFF You have received 9,000 EXP\nand 4000 JEXP.^000000",
@@ -352,7 +352,7 @@
     "RmoY": {
         "en-US": "[Taab]\nOh, please don't get\ntoo close to it or try to\nfeed something strange.\nIt's pretty sensitive...",
         "pt-BR": "[Taab]\nAh, por favor, não chegue\nmuito perto ou tente dar coisas\nestranhas para ele comer.\nEle é muito sensível...",
-        "es-ES": "[Taab]\nPor favor, no te\nacerques demasiado ni\nle des algo raro de comer.\nEs bastante sensible…"
+        "es-ES": "[Taab]\nPor favor, no te\nacerques demasiado ni\nle des algo raro de comer.\nEs bastante sensible..."
     },
     "R2oY": {
         "en-US": "Escaped Tatacho",

@@ -1240,28 +1240,44 @@
         "es-ES": "[Máquina de Aire Caliente]\nLa mejora de las ranuras 3.ª y 4.ª de {0} ha finalizado. Ahora puede seleccionar una opción especial."
     },
     "+NKhCQ": {
-        "en-US": "¼¶±¤"
+        "en-US": "¼¶±¤",
+        "pt-BR": "Desânimo",
+        "es-ES": "Destello"
     },
     "+dKhCQ": {
-        "en-US": "°­ÀÎ"
+        "en-US": "°­ÀÎ",
+        "pt-BR": "Lucidez",
+        "es-ES": "Fortaleza"
     },
     "+tKhCQ": {
-        "en-US": "Ãµ±Ã"
+        "en-US": "Ãµ±Ã",
+        "pt-BR": "Êxtase",
+        "es-ES": "Arco Celestial"
     },
     "+9KhCQ": {
-        "en-US": "½Å·Â"
+        "en-US": "½Å·Â",
+        "pt-BR": "Síncope",
+        "es-ES": "Poder Divino"
     },
     "/NKhCQ": {
-        "en-US": "°­Ã¼"
+        "en-US": "°­Ã¼",
+        "pt-BR": "Calmaria",
+        "es-ES": "Cuerpo Fuerte"
     },
     "/dKhCQ": {
-        "en-US": "¹é¿î"
+        "en-US": "¹é¿î",
+        "pt-BR": "Melancolia",
+        "es-ES": "Perla Celestial"
     },
     "/tKhCQ": {
-        "en-US": "¼±ÅÃ°¡´ÉÇÑ Ç°¸ñ"
+        "en-US": "¼±ÅÃ°¡´ÉÇÑ Ç°¸ñ",
+        "pt-BR": "Lista de opções",
+        "es-ES": "Lista de opciones"
     },
     "/9KhCQ": {
-        "en-US": "[Hot Machine]\n[<ITEM>Agi<INFO>29587</INFO></ITEM>]\n[<ITEM>Tenacity<INFO>29588</INFO></ITEM>]\n[<ITEM>Dex<INFO>29589</INFO></ITEM>]\n[<ITEM>Magic<INFO>29590</INFO></ITEM>]\n[<ITEM>Vit<INFO>29591</INFO></ITEM>]\n[<ITEM>Luk<INFO>29592</INFO></ITEM>]\n¼±ÅÃ °¡´ÉÇÑ ¸ñ·ÏÀº À§¿Í °°½À´Ï´Ù."
+        "en-US": "[Hot Machine]\n[<ITEM>Agi<INFO>29587</INFO></ITEM>]\n[<ITEM>Tenacity<INFO>29588</INFO></ITEM>]\n[<ITEM>Dex<INFO>29589</INFO></ITEM>]\n[<ITEM>Magic<INFO>29590</INFO></ITEM>]\n[<ITEM>Vit<INFO>29591</INFO></ITEM>]\n[<ITEM>Luk<INFO>29592</INFO></ITEM>]\n¼±ÅÃ °¡´ÉÇÑ ¸ñ·ÏÀº À§¿Í °°½À´Ï´Ù.",
+        "pt-BR": "[Hot Machine]\nLista de opções:\n[<ITEM>Desânimo<INFO>29587</INFO></ITEM>]\n[<ITEM>Lucidez<INFO>29588</INFO></ITEM>]\n[<ITEM>Êxtase<INFO>29589</INFO></ITEM>]\n[<ITEM>Síncope<INFO>29590</INFO></ITEM>]\n[<ITEM>Calmaria<INFO>29591</INFO></ITEM>]\n[<ITEM>Melancolia<INFO>29592</INFO></ITEM>]",
+        "es-ES": "[Hot Machine]\nLista de opciones:\n[<ITEM>Destello<INFO>29587</INFO></ITEM>]\n[<ITEM>Fortaleza<INFO>29588</INFO></ITEM>]\n[<ITEM>Arco Celestial<INFO>29589</INFO></ITEM>]\n[<ITEM>Poder Divino<INFO>29590</INFO></ITEM>]\n[<ITEM>Cuerpo Fuerte<INFO>29591</INFO></ITEM>]\n[<ITEM>Perla Celestial<INFO>29592</INFO></ITEM>]"
     },
     "ANOhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3}level^000000 ready",
@@ -1280,42 +1296,42 @@
     },
     "A9OhCQ": {
         "en-US": "Flash",
-        "pt-BR": "Flash",
-        "es-ES": "Flash"
+        "pt-BR": "Desânimo",
+        "es-ES": "Destello"
     },
     "BNOhCQ": {
         "en-US": "Strong",
-        "pt-BR": "Strong",
-        "es-ES": "Strong"
+        "pt-BR": "Lucidez",
+        "es-ES": "Fortaleza"
     },
     "BdOhCQ": {
         "en-US": "Celestial Bow",
-        "pt-BR": "Arco Celestial",
+        "pt-BR": "Êxtase",
         "es-ES": "Arco Celestial"
     },
     "BtOhCQ": {
         "en-US": "Divine Power",
-        "pt-BR": "Poder Divino",
+        "pt-BR": "Síncope",
         "es-ES": "Poder Divino"
     },
     "B9OhCQ": {
         "en-US": "Rigid",
-        "pt-BR": "Rígido",
-        "es-ES": "Rígido"
+        "pt-BR": "Calmaria",
+        "es-ES": "Cuerpo Fuerte"
     },
     "CNOhCQ": {
         "en-US": "White Cloud",
-        "pt-BR": "Nuvem Branca",
-        "es-ES": "Nube Blanca"
+        "pt-BR": "Melancolia",
+        "es-ES": "Perla Celestial"
     },
     "CdOhCQ": {
         "en-US": "Enchant Info",
-        "pt-BR": "Informações de Encantamento",
-        "es-ES": "Información de Encantamiento"
+        "pt-BR": "Lista de opções",
+        "es-ES": "Lista de opciones"
     },
     "CtOhCQ": {
         "en-US": "[Hot Air Machine]\n[<ITEM>Flash<INFO>29587</INFO></ITEM>]\n[<ITEM>Strong<INFO>29588</INFO></ITEM>]\n[<ITEM>Celestial Bow<INFO>29589</INFO></ITEM>]\n[<ITEM>Divine Power<INFO>29590</INFO></ITEM>]\n[<ITEM>Rigid<INFO>29591</INFO></ITEM>]\n[<ITEM>White Cloud<INFO>29592</INFO></ITEM>]\nYou can choose these upgrades above.",
-        "pt-BR": "[Máquina de Ar Quente]\n[<ITEM>Flash<INFO>29587</INFO></ITEM>]\n[<ITEM>Strong<INFO>29588</INFO></ITEM>]\n[<ITEM>Celestial Bow<INFO>29589</INFO></ITEM>]\n[<ITEM>Divine Power<INFO>29590</INFO></ITEM>]\n[<ITEM>Rigid<INFO>29591</INFO></ITEM>]\n[<ITEM>White Cloud<INFO>29592</INFO></ITEM>]\nVocê pode escolher as melhorias acima.",
-        "es-ES": "[Máquina de Aire Caliente]\n[<ITEM>Flash<INFO>29587</INFO></ITEM>]\n[<ITEM>Strong<INFO>29588</INFO></ITEM>]\n[<ITEM>Celestial Bow<INFO>29589</INFO></ITEM>]\n[<ITEM>Divine Power<INFO>29590</INFO></ITEM>]\n[<ITEM>Rigid<INFO>29591</INFO></ITEM>]\n[<ITEM>White Cloud<INFO>29592</INFO></ITEM>]\nPuede elegir estas mejoras arriba."
+        "pt-BR": "[Máquina de Ar Quente]\nLista de opções:\n[<ITEM>Desânimo<INFO>29587</INFO></ITEM>]\n[<ITEM>Lucidez<INFO>29588</INFO></ITEM>]\n[<ITEM>Êxtase<INFO>29589</INFO></ITEM>]\n[<ITEM>Síncope<INFO>29590</INFO></ITEM>]\n[<ITEM>Calmaria<INFO>29591</INFO></ITEM>]\n[<ITEM>Melancolia<INFO>29592</INFO></ITEM>]",
+        "es-ES": "[Máquina de Aire Caliente]\nLista de opciones:\n[<ITEM>Destello<INFO>29587</INFO></ITEM>]\n[<ITEM>Fortaleza<INFO>29588</INFO></ITEM>]\n[<ITEM>Arco Celestial<INFO>29589</INFO></ITEM>]\n[<ITEM>Poder Divino<INFO>29590</INFO></ITEM>]\n[<ITEM>Cuerpo Fuerte<INFO>29591</INFO></ITEM>]\n[<ITEM>Perla Celestial<INFO>29592</INFO></ITEM>]"
     }
 }

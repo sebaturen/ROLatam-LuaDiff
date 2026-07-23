@@ -7,7 +7,7 @@
     "ob3RAg": {
         "en-US": "[Captain of Smuggler ship]\nMmmm... It's very nice today",
         "pt-BR": "[Capitão do navio Contrabandista]\nHummm... Está muito bom hoje.",
-        "es-ES": "[Capitán de barco contrabandista]\nMmmmm… Hoy es un muy lindo día."
+        "es-ES": "[Capitán de barco contrabandista]\nMmmmm... Hoy es un muy lindo día."
     },
     "or3RAg": {
         "en-US": "What are you doing there?",
@@ -27,7 +27,7 @@
     "pb3RAg": {
         "en-US": "^000099He suddenly friendly!? I have to do something...^000000",
         "pt-BR": "^000099Ele ficou amigável de repente? Tenho que fazer alguma coisa...^000000",
-        "es-ES": "^000099¿¡De repente se puso amable!? Tengo que hacer algo…^000000"
+        "es-ES": "^000099¿¡De repente se puso amable!? Tengo que hacer algo...^000000"
     },
     "pr3RAg": {
         "en-US": "[Captain of Smuggler ship]\nI will send you to Amatsu with cheap price. Just 200Zeny~ Isn't it good price?",
@@ -57,7 +57,7 @@
     "q73RAg": {
         "en-US": "[Captain of Smuggler ship]\nBut...\nYou don't even have 200 Zeny. \nI cannot help you in your condition.",
         "pt-BR": "[Capitão do navio Contrabandista]\nMas...\nVocê não tem nem 200 Zeny. \nNão posso ajudá-lo em sua condição.",
-        "es-ES": "[Capitán de barco contrabandista]\nPero…\nNi siquiera tienes 200 zeny. \nNo puedo ayudarte en tu situación."
+        "es-ES": "[Capitán de barco contrabandista]\nPero...\nNi siquiera tienes 200 zeny. \nNo puedo ayudarte en tu situación."
     },
     "rL3RAg": {
         "en-US": "Cougar-guy",
@@ -82,7 +82,7 @@
     "sL3RAg": {
         "en-US": "[A man with Ninja outfit]\n...\n...\n...",
         "pt-BR": "[Um homem com roupa de Ninja]\n...\n...\n...",
-        "es-ES": "[Un hombre con traje de Ninja]\n…\n…\n…"
+        "es-ES": "[Un hombre con traje de Ninja]\n...\n...\n..."
     },
     "sb3RAg": {
         "en-US": "[A man with Ninja outfit]\nDo not approach to me without permission.",
@@ -97,7 +97,7 @@
     "s73RAg": {
         "en-US": "[A man with Ninja outfit]\n...",
         "pt-BR": "[Um homem com roupa de Ninja]\n...",
-        "es-ES": "[Un hombre con traje de Ninja]\n…"
+        "es-ES": "[Un hombre con traje de Ninja]\n..."
     },
     "tL3RAg": {
         "en-US": "^000099 I could see there was some emotion on his face, but it disappeared quickly^000000",
@@ -107,7 +107,7 @@
     "tb3RAg": {
         "en-US": "[A man with Ninja outfit]\n... Hmm.\nI pull my weapon out to novice, I should learn more(murmuring)",
         "pt-BR": "[Um homem com roupa de Ninja]\n... Hmm.\nPuxando minha arma para Aprendizes, eu deveria aprender mais (Murmurando)",
-        "es-ES": "[Un hombre con traje de Ninja]\n… Mmm.\nDesenfundo mi arma ante el principiante, debería aprender más (Murmulla)."
+        "es-ES": "[Un hombre con traje de Ninja]\n... Mmm.\nDesenfundo mi arma ante el principiante, debería aprender más (Murmulla)."
     },
     "tr3RAg": {
         "en-US": "[{0}]\nI am {0}. I do not have a decent job but I am not here to steal something.",
@@ -127,7 +127,7 @@
     "ub3RAg": {
         "en-US": "It just happened...",
         "pt-BR": "Simplesmente aconteceu...",
-        "es-ES": "Llegué sin querer queriendo…"
+        "es-ES": "Llegué sin querer queriendo..."
     },
     "ur3RAg": {
         "en-US": "[Cougar-guy]\nHuh?...",
@@ -152,7 +152,7 @@
     "vr3RAg": {
         "en-US": "[Cougar-guy]\n....",
         "pt-BR": "[Homem-Puma]\n....",
-        "es-ES": "[Chico puma]\n…"
+        "es-ES": "[Chico puma]\n..."
     },
     "v73RAg": {
         "en-US": "^000099He stared at me for long time and seems he is debating and said again as if he decided.^000000",
@@ -182,7 +182,7 @@
     "xL3RAg": {
         "en-US": "[Cougar-guy]\nIf I do it by rule, I should block you mouth... \n^000099(quite for moment)^000000\nI shall let you go piecefully.",
         "pt-BR": "[Homem-Puma]\nSe eu fosse seguir as regras, teria que calar você...\n^000099(pausa breve)^000000\nVou deixar você ir em paz.",
-        "es-ES": "[Chico puma]\nSi sigo las reglas, debería silenciarte… \n^000099(Hace silencio por un momento)^000000.\nTe dejaré ir en paz."
+        "es-ES": "[Chico puma]\nSi sigo las reglas, debería silenciarte... \n^000099(Hace silencio por un momento)^000000.\nTe dejaré ir en paz."
     },
     "xb3RAg": {
         "en-US": "[Cougar-guy]\nWhy are you still here?",
@@ -197,7 +197,7 @@
     "x73RAg": {
         "en-US": "[Cougar-guy]\nHa... Such a rookie...",
         "pt-BR": "[Homem-Puma]\nHa... Que novato...",
-        "es-ES": "[Chico puma]\nJa… Qué principiante…"
+        "es-ES": "[Chico puma]\nJa... Qué principiante..."
     },
     "yL3RAg": {
         "en-US": "[Cougar-guy]\nIt does not look good that such a young novice wodering around here.\nI will send you just one time to Einbroch.",
@@ -252,7 +252,7 @@
     "0r3RAg": {
         "en-US": "[Cougar-guy]\nIt seems you are still not part of us. Keep try hard...",
         "pt-BR": "[Homem-Puma]\nParece que você ainda não faz parte de nosso grupo. Continue se esforçando...",
-        "es-ES": "[Chico puma]\nParece que aún no te nos uniste. Sigue esforzándote…"
+        "es-ES": "[Chico puma]\nParece que aún no te nos uniste. Sigue esforzándote..."
     },
     "073RAg": {
         "en-US": "[Cougar-guy]\nFinally you got your credit from red wildcat Joe. haha",
@@ -287,7 +287,7 @@
     "2b3RAg": {
         "en-US": "[Cougar]\nWhoa, whoa...\nYou still have some\nleftover Skill Points.\nYou'd better spend all\nof them before you\nchange jobs, right?",
         "pt-BR": "[Puma]\nCalma, calma...\nVocê ainda tem alguns\nPontos de Habilidade restantes.\nÉ melhor gastar todos\neles antes de\nmudar de Classe, certo?",
-        "es-ES": "[Chico puma]\nEy, ey…\nTodavía tienes\npuntos de habilidad.\nDeberías usarlos todos\nantes de cambiar\nde clase, ¿verdad?"
+        "es-ES": "[Chico puma]\nEy, ey...\nTodavía tienes\npuntos de habilidad.\nDeberías usarlos todos\nantes de cambiar\nde clase, ¿verdad?"
     },
     "2r3RAg": {
         "en-US": "[Cougar-guy]\nDid you bring the right ones without giving up?",
@@ -297,7 +297,7 @@
     "273RAg": {
         "en-US": "[Cougar-guy]\nIt's been a while to meet a nice novice like you...",
         "pt-BR": "[Homem-Puma]\nJá faz algum tempo que não encontro um Aprendiz simpático como você...",
-        "es-ES": "[Chico puma]\nHacía tiempo que no conocía Principiantes como tú…"
+        "es-ES": "[Chico puma]\nHacía tiempo que no conocía Principiantes como tú..."
     },
     "3L3RAg": {
         "en-US": "^000099 He looked the stones for long time and start talking with groomy voice ^000000",
@@ -307,12 +307,12 @@
     "3b3RAg": {
         "en-US": "[Cougar-guy]\nNow you will be one of us. Sometimes you want to leave this Karma...",
         "pt-BR": "[Homem-Puma]\nAgora você se tornará um de nós. Às vezes, desejamos escapar deste Karma...",
-        "es-ES": "[Chico puma]\nAhora serás parte de nuestra clase. A veces, quieres dejar atrás este karma…"
+        "es-ES": "[Chico puma]\nAhora serás parte de nuestra clase. A veces, quieres dejar atrás este karma..."
     },
     "3r3RAg": {
         "en-US": "[Cougar-guy]\nYou will never get attention, and it will be not fancy...\nAre you not going to regret though?",
         "pt-BR": "[Homem-Puma]\nVocê nunca receberá atenção, e não será nada elegante...\nMas você não vai se arrepender?",
-        "es-ES": "[Chico puma]\nNunca te prestarán atención y no será nada agradable…\n¿No te arrepentirás?"
+        "es-ES": "[Chico puma]\nNunca te prestarán atención y no será nada agradable...\n¿No te arrepentirás?"
     },
     "373RAg": {
         "en-US": "I do not know to regret.",
@@ -322,7 +322,7 @@
     "4L3RAg": {
         "en-US": "[Cougar-guy]\nI am not going to ask you again. That promise.. Can you keep till the end?",
         "pt-BR": "[Homem-Puma]\nNão vou lhe perguntar de novo. Essa promessa... Você pode cumprir até o fim?",
-        "es-ES": "[Chico puma]\nNo te lo volveré a preguntar. Esa promesa… ¿puedes cumplirla hasta el final?"
+        "es-ES": "[Chico puma]\nNo te lo volveré a preguntar. Esa promesa... ¿puedes cumplirla hasta el final?"
     },
     "4b3RAg": {
         "en-US": "It won't be changed.",
@@ -372,7 +372,7 @@
     "6r3RAg": {
         "en-US": "[Cougar-guy]\nHaha... \nYou look good on that costume.",
         "pt-BR": "[Homem-Puma]\nHaha... \nVocê fica bem com essa fantasia.",
-        "es-ES": "[Chico puma]\nJa, ja… \nEse atuendo te queda bien."
+        "es-ES": "[Chico puma]\nJa, ja... \nEse atuendo te queda bien."
     },
     "673RAg": {
         "en-US": "[{0}]\n Ha!!",
@@ -382,7 +382,7 @@
     "7L3RAg": {
         "en-US": "^000088Sudden attack...",
         "pt-BR": "^000088Ataque repentino...",
-        "es-ES": "^000088Ataque repentino…"
+        "es-ES": "^000088Ataque repentino..."
     },
     "7b3RAg": {
         "en-US": "I can feel the Strong and cold hand grasp my neck. My feet is already waving over in the air.^000000",
@@ -392,12 +392,12 @@
     "7r3RAg": {
         "en-US": "[{0}]\n Ah.. W... What...",
         "pt-BR": "[{0}]\nAh... O... O que...",
-        "es-ES": "[{0}]\n Ah… ¿Q…? ¿Qué…?"
+        "es-ES": "[{0}]\n Ah... ¿Q...? ¿Qué...?"
     },
     "773RAg": {
         "en-US": "[Mysterious hand]\n...",
         "pt-BR": "[Mão Misteriosa]\n...",
-        "es-ES": "[Mano misteriosa]\n…"
+        "es-ES": "[Mano misteriosa]\n..."
     },
     "8L3RAg": {
         "en-US": "^000088I hardly open my eyes and there was 2 scary eyes looking at me. I am shouting as much as I can.^000000",
@@ -407,7 +407,7 @@
     "8b3RAg": {
         "en-US": "[{0}]\n ...H...e...lp...me....",
         "pt-BR": "[{0}]\nSo.... cor.... ro....",
-        "es-ES": "[{0}]\n A…yu…da…"
+        "es-ES": "[{0}]\n A...yu...da..."
     },
     "8r3RAg": {
         "en-US": "^000088That eyes looking at you seems lose his anger. The hand let go of my neck and I barely breathe^000000",
@@ -422,7 +422,7 @@
     "9L3RAg": {
         "en-US": "[Red Wildcat Joe]\nIsn't... this place beautiful?",
         "pt-BR": "[Joe Lince Vermelho]\nEste lugar não é lindo?",
-        "es-ES": "[Leopardo Rojo Joe]\n¿No te parece… hermoso este lugar?"
+        "es-ES": "[Leopardo Rojo Joe]\n¿No te parece... hermoso este lugar?"
     },
     "9b3RAg": {
         "en-US": "[{0}]\nIt seems like that.",
@@ -572,12 +572,12 @@
     "Er7RAg": {
         "en-US": "[Red Wildcat Joe]\nHmmmm... \nYou don't have to be shy to get help.",
         "pt-BR": "[Joe Lince Vermelho]\nHmmmm... \nVocê não precisa ser tímido para obter ajuda.",
-        "es-ES": "[Leopardo Rojo Joe]\nMmmmm… \nHay que dejar de lado la timidez a la hora de pedir ayuda."
+        "es-ES": "[Leopardo Rojo Joe]\nMmmmm... \nHay que dejar de lado la timidez a la hora de pedir ayuda."
     },
     "E77RAg": {
         "en-US": "[Red Wildcat Joe]\nGet ready. I will send you right now...",
         "pt-BR": "[Joe Lince Vermelho]\nPrepare-se. Vou enviá-lo agora mesmo...",
-        "es-ES": "[Leopardo Rojo Joe]\nPrepárate. Te enviaré ahora mismo…"
+        "es-ES": "[Leopardo Rojo Joe]\nPrepárate. Te enviaré ahora mismo..."
     },
     "FL7RAg": {
         "en-US": "[Red Wildcat Joe]\nIt's been a while. Isn't this place still great?",
@@ -587,7 +587,7 @@
     "Fb7RAg": {
         "en-US": "[Suspicious Man]\n....",
         "pt-BR": "[Homem Suspeito]\n....",
-        "es-ES": "[Hombre Sospechoso]\n…"
+        "es-ES": "[Hombre Sospechoso]\n..."
     },
     "Fr7RAg": {
         "en-US": "Normal Pile of earth",
@@ -642,7 +642,7 @@
     "IL7RAg": {
         "en-US": "[Akaki]\num...\nThere must be a spirit \nwho need you to come here\nlead to this dark alley.\nGo to the way of patient.",
         "pt-BR": "[Akaki]\nHum...\nDeve haver um espírito \nque precisa que você venha até aqui\ne o conduza a esse beco escuro.\nVá para o caminho do paciente.",
-        "es-ES": "[Akaki]\nEh…\nDebe haber un espíritu  que necesita que vengas a este callejón oscuro.\nVe por el camino de la paciencia."
+        "es-ES": "[Akaki]\nEh...\nDebe haber un espíritu  que necesita que vengas a este callejón oscuro.\nVe por el camino de la paciencia."
     },
     "Ib7RAg": {
         "en-US": "No, I do not want",
@@ -682,7 +682,7 @@
     "KL7RAg": {
         "en-US": "[Kaibara]\nI am Kaibara, one of the\nlast artisans that can forge\nswords with Black Dragon\nScales. Please take a look\nat my swords--I trust you'll find something that interests you.",
         "pt-BR": "[Kaibara]\nEu sou Kaibara, um dos\núltimos artesãos capazes de forjar\nespadas com Escamas de Dragão Negro.\nPor favor, dê uma olhada\nnas minhas espadas - acredito que você encontrará algo que lhe interesse.",
-        "es-ES": "[Kaibara]\nSoy Kaibara, uno de los\núltimos artesanos que pueden forjar\nespadas con Escamas\nde dragón negro. Por favor, mira\nmis espadas… Seguro encontrarás algo que te interese."
+        "es-ES": "[Kaibara]\nSoy Kaibara, uno de los\núltimos artesanos que pueden forjar\nespadas con Escamas\nde dragón negro. Por favor, mira\nmis espadas... Seguro encontrarás algo que te interese."
     },
     "Kb7RAg": {
         "en-US": "Khukri",
@@ -897,7 +897,7 @@
     "U77RAg": {
         "en-US": "[Kaibara]\nMm. Well it is not easy\nto get those materials...\nOk. Maybe later\nif you get those materials,\nvisit me anytime.",
         "pt-BR": "[Kaibara]\nHum. Bem, não é fácil\nconseguir esses materiais...\nTá bom. Talvez mais tarde,\nse você conseguir esses materiais,\npode me visitar.",
-        "es-ES": "[Kaibara]\nMm. Pues no es fácil\nconseguir esos materiales…\nDe acuerdo. Quizá más tarde.\nSi consigues esos materiales,\nvisítame cuando quieras."
+        "es-ES": "[Kaibara]\nMm. Pues no es fácil\nconseguir esos materiales...\nDe acuerdo. Quizá más tarde.\nSi consigues esos materiales,\nvisítame cuando quieras."
     },
     "VL7RAg": {
         "en-US": "[Kaibara]\nYour bag does not have empty space\nI cannot give you the one I make\nPlease make enough space\nand come back again.",
@@ -1032,7 +1032,7 @@
     "br7RAg": {
         "en-US": "[Tetsu]\nAlright, alright.\nBut if you change your\nmind, come right back\nand talk to me. I need to\nmake some money, you know...",
         "pt-BR": "[Tetsu]\nTudo bem, tudo bem.\nMas se você mudar\nde ideia, volte logo\ne fale comigo. Eu preciso\nganhar algum dinheiro, você sabe...",
-        "es-ES": "[Tetsu]\nMuy bien, de acuerdo.\nPero si cambias\nde opinión, vuelve enseguida\ny habla conmigo. Necesito\nganar algo de dinero, ya sabes…"
+        "es-ES": "[Tetsu]\nMuy bien, de acuerdo.\nPero si cambias\nde opinión, vuelve enseguida\ny habla conmigo. Necesito\nganar algo de dinero, ya sabes..."
     },
     "b77RAg": {
         "en-US": "[Tetsu]\nThere isn't any space in\nyour Inventory to fit any new\nitems. Please make more\nspace available before\ncoming back to talk to me.",
@@ -1067,7 +1067,7 @@
     "db7RAg": {
         "en-US": "[Tetsu]\nOh, you'd like a ^FF0000Huuma\nGiant Wheel Shuriken^000000?\nIf you have the materials\nand service fee prepared,\nI can give you one now.\nLet's see, for this I need...",
         "pt-BR": "[Tetsu]\nAh, você quer um\n^FF0000Shuriken Roda-Gigante Humma^000000?\nSe você tiver os materiais\ne a taxa de serviço preparados,\nposso lhe dar um agora.\nVamos ver, para isso eu preciso...",
-        "es-ES": "[Tetsu]\nOh, ¿te gustaría tener un ^FF0000Shuriken Huuma rueda gigante^000000?\nSi tienes los materiales\ny dinero por mi servicio preparados,\npuedo darte uno ahora.\nVeamos, para esto necesito…"
+        "es-ES": "[Tetsu]\nOh, ¿te gustaría tener un ^FF0000Shuriken Huuma rueda gigante^000000?\nSi tienes los materiales\ny dinero por mi servicio preparados,\npuedo darte uno ahora.\nVeamos, para esto necesito..."
     },
     "dr7RAg": {
         "en-US": "[Tetsu]\n^3355FF30 Steel,\n^3355FF100 Tassels^000000,\n^3355FF2 Oridecons^000000, and\n^3355FF40,000 zeny^000000. So did you\nwant to order a Huuma\nGiant Wheel Shuriken?",
@@ -1097,7 +1097,7 @@
     "e77RAg": {
         "en-US": "[Tetsu]\nYou want a Slotted Huuma\nGiant Wheel Shuriken?\nIf you have the materials\nand service fee prepared,\nI can give you one now.\nLet's see, for this I need...",
         "pt-BR": "[Tetsu]\nVocê quer uma Shuriken\nRoda-Gigante Huuma com Slot?\nSe trouxer todos os materiais\ne pagar a taxa de serviço,\nposso fazer uma agora.\nPara isso, eu preciso de...",
-        "es-ES": "[Tetsu]\n¿Quieres un Shuriken Huuma rueda gigante con ranura?\nSi tienes los materiales y dinero por mi servicio preparados,\npuedo darte uno ahora.\nVeamos, para esto necesito…"
+        "es-ES": "[Tetsu]\n¿Quieres un Shuriken Huuma rueda gigante con ranura?\nSi tienes los materiales y dinero por mi servicio preparados,\npuedo darte uno ahora.\nVeamos, para esto necesito..."
     },
     "fL7RAg": {
         "en-US": "[Tetsu]\n^3355FF3 Oridecons^000000,\n^3355FF20 Cracked Diamonds^000000,\n^3355FF1 unslotted Huuma Giant Wheel^000000, and ^3355FF40,000 zeny^000000. Shall we add one Slot\nto your unslotted Huuma Giant\nWheel with these materials?",
@@ -1132,7 +1132,7 @@
     "gr7RAg": {
         "en-US": "[Tetsu]\nOh, you'd like a\n^FF0000Huuma Blaze Shuriken^000000?\nIf you have the materials\nand service fee prepared,\nI can give you one now.\nLet's see, for this I need...",
         "pt-BR": "[Tetsu]\nAh, você quer uma\n^FF0000Shuriken de Fogo Huuma^000000?\nSe trouxer os materiais\ne pagar a taxa de serviço,\nposso fazer uma agora mesmo.\nPara isso, eu preciso de...",
-        "es-ES": "[Tetsu]\nOh, ¿te gustaría tener un\n^FF0000Shuriken Huuma ardiente^000000?\nSi tienes los materiales\ny dinero por mi servicio preparados,\npuedo darte uno ahora.\nVeamos, para esto necesito…"
+        "es-ES": "[Tetsu]\nOh, ¿te gustaría tener un\n^FF0000Shuriken Huuma ardiente^000000?\nSi tienes los materiales\ny dinero por mi servicio preparados,\npuedo darte uno ahora.\nVeamos, para esto necesito..."
     },
     "g77RAg": {
         "en-US": "[Testu]\n^3355FF50 Steel^000000,\n^3355FF100 Live Coals^000000,\n^3355FF100 Burning Hearts^000000,\n^3355FF50 Flame Stones^000000, and\n^3355FF78,000 zeny^000000. Did you want to\norder a Huuma Blaze Shuriken?",
@@ -1172,7 +1172,7 @@
     "ir7RAg": {
         "en-US": "Oh... hmmm,,, too expensive.",
         "pt-BR": "Ah... Hm, é muito caro.",
-        "es-ES": "Oh… Mm… es demasiado cara."
+        "es-ES": "Oh... Mm... es demasiado cara."
     },
     "i77RAg": {
         "en-US": "Yes! Please!!",
@@ -1262,7 +1262,7 @@
     "nL7RAg": {
         "en-US": "[Tetsu]\nToo bad, I wanted to show\nthe weapon I made..\nPlease visit me later if you have a time.",
         "pt-BR": "[Tetsu]\nQue pena, eu queria mostrar\na arma que fiz...\nSe tiver tempo, venha me visitar mais tarde.",
-        "es-ES": "[Tetsu]\nQué lástima. Quería mostrarte\nel arma que hice…\nVisítame más tarde si tienes tiempo."
+        "es-ES": "[Tetsu]\nQué lástima. Quería mostrarte\nel arma que hice...\nVisítame más tarde si tienes tiempo."
     },
     "nb7RAg": {
         "en-US": "Kunai Merchant Kashin",
@@ -1497,12 +1497,12 @@
     "y77RAg": {
         "en-US": "[Boshu]\nOh, you came back~\nAh, and you brought me\na Slotted Guard, just like\nI asked. Hmm, this piece of\nArmor is really interesting...",
         "pt-BR": "[Boshu]\nAh, você voltou~\nE ainda trouxe\numa Vembrassa com Slot, assim como\neu pedi. Hm, essa armadura\né muito interessante...",
-        "es-ES": "[Boshu]\nOh, volviste.\nAh y me trajiste\nun Escudo con ranuras, tal cual\npedí. Mmm, esta pieza\nde Armadura es realmente interesante…"
+        "es-ES": "[Boshu]\nOh, volviste.\nAh y me trajiste\nun Escudo con ranuras, tal cual\npedí. Mmm, esta pieza\nde Armadura es realmente interesante..."
     },
     "zL7RAg": {
         "en-US": "[Boshu]\nFascinating. After examining\nthis Slotted Guard, I believe\nit's possible for me to add a\nSlot to a nonslotted Arm Guard.\nIf you'd like me to try, then\nplease bring me these items...",
         "pt-BR": "[Boshu]\nFascinante. Depois de examinar\nessa Vembrassa com Slot, acredito\nque é possível adicionar um\nSlot a uma Proteção de Braço sem Slot.\nSe quiser que eu tente,\ntraga estes itens até mim...",
-        "es-ES": "[Boshu]\nFascinante. Tras examinar\neste Escudo con ranuras, creo\nque me es posible agregarle una\nranura a un Brazal sin ranuras.\nSi quieres que lo intente,\ntráeme estos objetos…"
+        "es-ES": "[Boshu]\nFascinante. Tras examinar\neste Escudo con ranuras, creo\nque me es posible agregarle una\nranura a un Brazal sin ranuras.\nSi quieres que lo intente,\ntráeme estos objetos..."
     },
     "zb7RAg": {
         "en-US": "[Boshu]\nI am the best Artisan\nof 3 Ninja weapon makers,\nMurata Boshu.\nI know all the shields and Armors in the East\nand how to make them.",
@@ -1582,7 +1582,7 @@
     "3L7RAg": {
         "en-US": "Perfect! Okay, here\nyou go. If you need any\nmore Slotted Arm Guards,\njust come and see me.\nYou know what to bring...",
         "pt-BR": "Perfeito! Certo, aqui\nestá. Se precisar de\nmais Proteções de Braço com Slot,\né só falar comigo.\nJá sabe o que trazer...",
-        "es-ES": "¡Perfecto! Bueno, aquí\ntienes. Si necesitas\nmás Brazales con ranuras,\nven a verme.\nYa sabes qué traer…"
+        "es-ES": "¡Perfecto! Bueno, aquí\ntienes. Si necesitas\nmás Brazales con ranuras,\nven a verme.\nYa sabes qué traer..."
     },
     "3b7RAg": {
         "en-US": "[Boshu]\nHmm, there are enough Materials\nbut not enough money.",
@@ -1667,7 +1667,7 @@
     "7b7RAg": {
         "en-US": "[Boshu]\nOh..Do you have it?.\nLet me see...\nHmmm...",
         "pt-BR": "[Boshu]\nAh... Você conseguiu?\nDeixe-me ver...\nHmmm...",
-        "es-ES": "[Boshu]\nOh… ¿Lo tienes?\nDéjame ver…\nMmmm…"
+        "es-ES": "[Boshu]\nOh... ¿Lo tienes?\nDéjame ver...\nMmmm..."
     },
     "7r7RAg": {
         "en-US": "[Boshu]\nOh!Yes, I can make a hole\nonto a guard!",
@@ -1722,7 +1722,7 @@
     "+L7RAg": {
         "en-US": "[Boshu]\nPerfect! Okay, here\nyou go. If you need any\nmore Slotted Arm Guards,\njust come and see me.\nYou know what to bring...",
         "pt-BR": "[Boshu]\nPerfeito! Certo, aqui\nestá. Se precisar de\nmais Proteções de Braço com Slot,\né só falar comigo.\nJá sabe o que trazer...",
-        "es-ES": "[Boshu]\n¡Perfecto! Bueno, aquí\ntienes. Si necesitas\nmás Brazales con ranuras,\nven a verme.\nYa sabes qué traer…"
+        "es-ES": "[Boshu]\n¡Perfecto! Bueno, aquí\ntienes. Si necesitas\nmás Brazales con ranuras,\nven a verme.\nYa sabes qué traer..."
     },
     "+b7RAg": {
         "en-US": "[Boshu]\nIn order to make\nArm Guard with a slot, I need 1 Guard with a slot\n1 Arm Guard\n10,000 Zeny is required.\nPlease come back again.",
@@ -1772,7 +1772,7 @@
     "Ar/RAg": {
         "en-US": "[Batshu]\nwow, give me a minute\nto thoroughly check out its\ndesign and enchantments...",
         "pt-BR": "[Batshu]\nNossa, preciso de um minuto\npara dar uma olhada no\nprojeto e nos encantamentos...",
-        "es-ES": "[Batshu]\nvaya, dame un minuto\npara comprobar en detalle su\ndiseño y sus encantamientos…"
+        "es-ES": "[Batshu]\nvaya, dame un minuto\npara comprobar en detalle su\ndiseño y sus encantamientos..."
     },
     "A7/RAg": {
         "en-US": "[Batshu]\nI knew it!! I see now~!\nthe all guard items can \nmagical defense like \nthis item!!",
@@ -1782,7 +1782,7 @@
     "BL/RAg": {
         "en-US": "[Batshu]\nHmmm... You know what?\nI can make an Upgraded\nArm Guard from what I can\nlearn from this Mirror Shield.\nLet's see, um, I'll need some\nitems to make it, though...",
         "pt-BR": "[Batshu]\nHmmm... Quer saber?\nPosso fazer uma Proteção de Braço\natualizada com o que eu conseguir\naprender com esse Escudo Espelhado.\nVejamos, vou precisar de alguns\nitens para fazer isso...",
-        "es-ES": "[Batshu]\nMmmm… ¿Sabes qué?\nPodría fabricar un\nBrazal mejorado con lo que puedo\naprender de este Escudo espejado.\nVeamos, mm, necesitaré algunos\nobjetos para hacerlo, pero…"
+        "es-ES": "[Batshu]\nMmmm... ¿Sabes qué?\nPodría fabricar un\nBrazal mejorado con lo que puedo\naprender de este Escudo espejado.\nVeamos, mm, necesitaré algunos\nobjetos para hacerlo, pero..."
     },
     "Bb/RAg": {
         "en-US": "[Batshu]\nThere are 3 but other\n2 are my brothers.\nI picked up Guard creation skill\nfrom my brothers",
@@ -1827,7 +1827,7 @@
     "Db/RAg": {
         "en-US": "[Batshu]\nR-really? Well,\nI understand. Still,\nI have no other way to\nthank you for showing\nme that Mirror Shield...",
         "pt-BR": "[Batshu]\nSério? Bem...\nentendo. Mesmo assim,\nnão sei como agradecer\npor me mostrar\no Escudo Espelhado...",
-        "es-ES": "[Batshu]\n¿E-En serio? Bueno,\nlo entiendo. Sin embargo,\nno tengo otra forma de\nagradecerte por haberme mostrado\nese Escudo espejado…"
+        "es-ES": "[Batshu]\n¿E-En serio? Bueno,\nlo entiendo. Sin embargo,\nno tengo otra forma de\nagradecerte por haberme mostrado\nese Escudo espejado..."
     },
     "Dr/RAg": {
         "en-US": "[Batshu]\nGood, good, you've\nbrought everything I need.\nNow, my Upgraded Arm Guard\nhas higher Magic Defense than\nnormal Arm Guard, but it also\nhas lower Physical Defense.\nI just wanted to\nconfirm one more time\nwhether you want me to craft\nan Upgraded Arm Guard for you.",
@@ -1852,12 +1852,12 @@
     "Er/RAg": {
         "en-US": "[Batshu]\nThat's just what\nI wanted to hear!\nAlright, give me\na minute to work\non this a little bit...",
         "pt-BR": "[Batshu]\nÉ isso que\neu queria ouvir!\nTudo bem, me dê\num tempo para trabalhar\num pouco nisso...",
-        "es-ES": "[Batshu]\n¡Eso es justo lo que\nquería escuchar!\nMuy bien, dame\nun minuto para trabajar\nen esto un poco…"
+        "es-ES": "[Batshu]\n¡Eso es justo lo que\nquería escuchar!\nMuy bien, dame\nun minuto para trabajar\nen esto un poco..."
     },
     "E7/RAg": {
         "en-US": "[Batshu]\n...*Whew!*\nThere you go, your\nUpgraded Arm Guard\nis finished. If you want\nany more, just come and\nask me anytime, okay?",
         "pt-BR": "[Batshu]\n...*Ufa*!\nProntinho, sua Proteção\nde Braço aprimorada\nestá pronta. Se quiser\nmais, basta chegar aqui\ne falar comigo quando quiser, viu?",
-        "es-ES": "[Batshu]\n…*¡Uf!*\nAquí tienes, tu\nBrazal mejorado\nestá terminado. Si quieres\nmás, ven y\npídemelo cuando quieras, ¿de acuerdo?"
+        "es-ES": "[Batshu]\n...*¡Uf!*\nAquí tienes, tu\nBrazal mejorado\nestá terminado. Si quieres\nmás, ven y\npídemelo cuando quieras, ¿de acuerdo?"
     },
     "FL/RAg": {
         "en-US": "[Batshu]\nOh! Sorry, but you don't\nhave enough money\nto pay my 20,000 zeny\nservice charge. Just\ncome back later when\nyou get the money, okay?",
@@ -1907,12 +1907,12 @@
     "Hb/RAg": {
         "en-US": "[Batshu]\noh. Did you get it?\nok let me see...\nhmmm...",
         "pt-BR": "[Batshu]\nAh. Você conseguiu?\nTá, vejamos...\nHmmm...",
-        "es-ES": "[Batshu]\nOh. ¿Lo conseguiste?\nBueno, déjame verlo…\nMmmm…"
+        "es-ES": "[Batshu]\nOh. ¿Lo conseguiste?\nBueno, déjame verlo...\nMmmm..."
     },
     "Hr/RAg": {
         "en-US": "[Batshu]\nOh! I see now. in the guard\nWe could also give magical defense\nto this item. Wow...",
         "pt-BR": "[Batshu]\nEntendi agora. É possível\nadicionar defesa mágica \na esse item. Uau...",
-        "es-ES": "[Batshu]\n¡Ah! Ahora lo veo. En la protección,\ntambién podríamos otorgar defensa mágica\ncon este objeto. Guau…"
+        "es-ES": "[Batshu]\n¡Ah! Ahora lo veo. En la protección,\ntambién podríamos otorgar defensa mágica\ncon este objeto. Guau..."
     },
     "H7/RAg": {
         "en-US": "[Batshu]\nIt makes my heart beating.\nif you have the normal arm guard\nthen bring it to me,",
@@ -1982,7 +1982,7 @@
     "LL/RAg": {
         "en-US": "[Toshu]\nIf you like, I can try to\nadd a Slot to an unslotted\nUpgraded Arm Guard. However,I must warn you that it's possible\nfor me to fail. I'll also require these items to perform my work...",
         "pt-BR": "[Toshu]\nSe quiser, posso tentar adicionar um slot\na uma Proteção de Braço melhorada.\nNo entanto, é possível que eu falhe\nTambém precisarei desses itens para realizar meu trabalho...",
-        "es-ES": "[Toshu]\nSi quieres, puedo intentar\nagregarle una primera ranura a tu\nBrazal mejorado. Sin embargo, debo advertirte que es posible\nque falle al hacerlo. También necesitaré estos objetos para hacer mi trabajo…"
+        "es-ES": "[Toshu]\nSi quieres, puedo intentar\nagregarle una primera ranura a tu\nBrazal mejorado. Sin embargo, debo advertirte que es posible\nque falle al hacerlo. También necesitaré estos objetos para hacer mi trabajo..."
     },
     "Lb/RAg": {
         "en-US": "[Toshu]\nI'll need\n1 Slotted Buckler,\n1 unslotted Upgraded Arm Guard,\nand 40,000 zeny for my service\nfee. Shall I try to add a Slot\nto your Upgraded Arm Guard?",
@@ -2027,22 +2027,22 @@
     "Nb/RAg": {
         "en-US": "[Toshu]\nI understand...\nSome risks just\naren't worth taking for\nsome people. Well, just\ncome back and ask me\nagain if you change your mind.",
         "pt-BR": "[Toshu]\nEntendo...\nAlguns riscos simplesmente\nnão valem a pena para\nalgumas pessoas. Bem,\nse mudar de ideia,\né só vir aqui falar comigo.",
-        "es-ES": "[Toshu]\nEntiendo…\nAlgunos riesgos\nno valen la pena para\nalgunas personas. Bueno,\nregresa y pídemelo\nde nuevo si cambias de opinión."
+        "es-ES": "[Toshu]\nEntiendo...\nAlgunos riesgos\nno valen la pena para\nalgunas personas. Bueno,\nregresa y pídemelo\nde nuevo si cambias de opinión."
     },
     "Nr/RAg": {
         "en-US": "[Toshu]\nExcellent...!\nNow, just give me\n3 seconds to do this...\nH-here I go! Oh! And,\num, wish me luck!",
         "pt-BR": "[Toshu]\nExcelente...!\nAgora, me dê\nalguns segundos para fazer isso...\nLá vou eu! Ah! E..\nhm, me deseje sorte!",
-        "es-ES": "[Toshu]\n¡Excelente…!\nBien, solo dame\n3 segundos para hacer esto…\n¡A-Ahí voy! ¡Ah! Y\neh, ¡deséame suerte!"
+        "es-ES": "[Toshu]\n¡Excelente...!\nBien, solo dame\n3 segundos para hacer esto...\n¡A-Ahí voy! ¡Ah! Y\neh, ¡deséame suerte!"
     },
     "N7/RAg": {
         "en-US": "[Toshu]\n...Damn it! Nooooo!\nI'm sorry, but I messed up\nyour Upgraded Arm Guard!\nOh well, them's the breaks.\nHere, please take this food\nas compensation. I'm sorry...",
         "pt-BR": "[Toshu]\n...Droga! Não!!!\nSinto muito, mas estraguei\na Proteção de Braço melhorada!\nAh, bem, acontece.\nAqui, pegue essa comida\ncomo compensação. Foi mal...",
-        "es-ES": "[Toshu]\n¡Maldición! ¡Nooooo!\n¡Lo siento, pero arruiné\ntu Brazal mejorado!\nBueno, no podemos hacer nada.\nPor favor, toma esta comida\ncomo compensación. Lo siento…"
+        "es-ES": "[Toshu]\n¡Maldición! ¡Nooooo!\n¡Lo siento, pero arruiné\ntu Brazal mejorado!\nBueno, no podemos hacer nada.\nPor favor, toma esta comida\ncomo compensación. Lo siento..."
     },
     "OL/RAg": {
         "en-US": "[Toshu]\n...Oh, crap! This isn't--!\nOh man, I'm so sorry. I totally\ndestroyed your Upgraded Arm\nGuard! All I can offer you as\ncompensation is this food.\nWell, better luck next time...",
         "pt-BR": "[Toshu]\n...Ai, caramba! Não pode ser...!\nPoxa, foi mal. Destruí totalmente\na Proteção de Braço melhorada!\nTudo o que posso oferecer como\ncompensação é esta comida.\nBem, boa sorte na próxima...",
-        "es-ES": "[Toshu]\n¡Oh, maldita sea! ¡Esto no es…!\nOh, lo siento mucho. ¡Realmente\ndestruí tu Brazal\nmejorado! Lo único que puedo ofrecerte como\ncompensación es esta comida.\nBueno, te deseo mejor suerte para la próxima vez…"
+        "es-ES": "[Toshu]\n¡Oh, maldita sea! ¡Esto no es...!\nOh, lo siento mucho. ¡Realmente\ndestruí tu Brazal\nmejorado! Lo único que puedo ofrecerte como\ncompensación es esta comida.\nBueno, te deseo mejor suerte para la próxima vez..."
     },
     "Ob/RAg": {
         "en-US": "[Toshu]\nHahahahaha! I did it!\nHere, please take your\nSlotted Upgraded Arm Guard.\nOh, I'm so proud of the good\njob I've done. If you need\nanother, feel free to ask~",

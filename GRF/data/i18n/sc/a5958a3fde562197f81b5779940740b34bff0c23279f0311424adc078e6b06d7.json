@@ -12,7 +12,7 @@
     "YoOdAQ": {
         "en-US": "[Missing, the Cleaner]\nI'm not sure what made you come here but you can't enter!\nThomas' orders...",
         "pt-BR": "[Missing, o Faxineiro]\nNão sei o que o fez vir aqui, mas você não pode entrar!\nOrdens do Thomas...",
-        "es-ES": "[Michi, el limpiador]\nNo sé qué te hizo venir aquí, ¡pero no puedes entrar!\nSon órdenes de Thomas…"
+        "es-ES": "[Michi, el limpiador]\nNo sé qué te hizo venir aquí, ¡pero no puedes entrar!\nSon órdenes de Thomas..."
     },
     "Y4OdAQ": {
         "en-US": "^770099You must be Base level 90 to enter.^000000",
@@ -52,7 +52,7 @@
     "aoOdAQ": {
         "en-US": "[Missing, the Cleaner]\nWe have had many issues during the cleaning of the culverts. But a cat's gotta do...",
         "pt-BR": "[Missing, o Faxineiro]\nTivemos muitos problemas durante a limpeza dos bueiros. Mas um gato tem que fazer...",
-        "es-ES": "[Michi, el limpiador]\nLimpiar las alcantarillas nos trajo muchos problemas. Pero los gatos tenemos que hacer lo que tenemos que hacer…"
+        "es-ES": "[Michi, el limpiador]\nLimpiar las alcantarillas nos trajo muchos problemas. Pero los gatos tenemos que hacer lo que tenemos que hacer..."
     },
     "a4OdAQ": {
         "en-US": "What culvert are you cleaning?",
@@ -72,7 +72,7 @@
     "boOdAQ": {
         "en-US": "^770099The cat looks like it's been crying...^000000",
         "pt-BR": "^770099O gato parece estar chorando...^000000",
-        "es-ES": "^770099Parece que el gato estuvo llorando…^000000"
+        "es-ES": "^770099Parece que el gato estuvo llorando...^000000"
     },
     "b4OdAQ": {
         "en-US": "[Missing, the Cleaner]\nThere is a culvert along this way to the basement. There are many bad guys who hurt me. I am tired of fighting with them so many times a day!",
@@ -82,7 +82,7 @@
     "cIOdAQ": {
         "en-US": "[Missing, the Cleaner]\nOhh! You touched my fur!\nMy fur is falling out... it's all those guys fault~",
         "pt-BR": "[Missing, o Faxineiro]\nOhh! Você tocou no meu pelo!\nMeu pelo está caindo... é tudo culpa desses caras~",
-        "es-ES": "[Michi, el limpiador]\n¡Ahh! ¡Me tocaste el pelo!\nSe me está cayendo el pelo… todo es culpa de esos tipos."
+        "es-ES": "[Michi, el limpiador]\n¡Ahh! ¡Me tocaste el pelo!\nSe me está cayendo el pelo... todo es culpa de esos tipos."
     },
     "cYOdAQ": {
         "en-US": "^770099You just now notice that the cat's fur is missing in some places.^000000",
@@ -102,7 +102,7 @@
     "dIOdAQ": {
         "en-US": "[Missing, the Cleaner]\nSometimes I can get a lucky box and what is best , can get cans...",
         "pt-BR": "[Missing. o Faxineiro]\nÀs vezes, consigo uma caixa da sorte e, o que é melhor, consigo latas...",
-        "es-ES": "[Michi, el limpiador]\nA veces consigo una caja de la suerte y, lo que es mejor, consigo latas…"
+        "es-ES": "[Michi, el limpiador]\nA veces consigo una caja de la suerte y, lo que es mejor, consigo latas..."
     },
     "dYOdAQ": {
         "en-US": "Okay cheers!",
@@ -112,7 +112,7 @@
     "doOdAQ": {
         "en-US": "I will help if possible...",
         "pt-BR": "Se possível, eu ajudarei...",
-        "es-ES": "Ayudaré en lo que pueda…"
+        "es-ES": "Ayudaré en lo que pueda..."
     },
     "d4OdAQ": {
         "en-US": "[Missing, the Cleaner]\nThank you. I am going back to pour the water!",
@@ -132,7 +132,7 @@
     "eoOdAQ": {
         "en-US": "[Missing, the Cleaner]\nNot everyone can be an assistant here. But I can't help choosing anyone at the moment...",
         "pt-BR": "[Missing, o Faxineiro]\nNem todo mundo pode ser um assistente aqui. Mas não posso ajudar a escolher ninguém no momento...",
-        "es-ES": "[Michi, el limpiador]\nNo todos pueden ser ayudantes aquí. Pero ahora no tengo más remedio que elegir a alguien…"
+        "es-ES": "[Michi, el limpiador]\nNo todos pueden ser ayudantes aquí. Pero ahora no tengo más remedio que elegir a alguien..."
     },
     "e4OdAQ": {
         "en-US": "[Missing, the Cleaner]\nIf you want to go down here, let me get this code.",
@@ -177,12 +177,12 @@
     "g4OdAQ": {
         "en-US": "[Missing, the Cleaner]\nUmmm? What's up Dude? You gotta shout out the password if you are the leader!",
         "pt-BR": "[Missing, o Faxineiro]\nUmmm? O que está acontecendo, cara? Você precisa gritar a senha se for o líder!",
-        "es-ES": "[Michi, el limpiador]\n¿Mmm…? ¿Qué onda? ¡Tienes que gritar la contraseña si eres el líder!"
+        "es-ES": "[Michi, el limpiador]\n¿Mmm...? ¿Qué onda? ¡Tienes que gritar la contraseña si eres el líder!"
     },
     "hIOdAQ": {
         "en-US": "No...nothing",
         "pt-BR": "Não... nada",
-        "es-ES": "No… nada."
+        "es-ES": "No... nada."
     },
     "hYOdAQ": {
         "en-US": "Aragam insulted me.",

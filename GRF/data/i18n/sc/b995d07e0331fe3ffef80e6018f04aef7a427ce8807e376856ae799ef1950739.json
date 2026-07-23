@@ -47,7 +47,7 @@
     "6WC8Ag": {
         "en-US": "[Mage Guild Member]\nCome back, if you can get your memories back...\nBecause you will be able to use magic again.",
         "pt-BR": "[Professora de Magia]\nVolte se conseguir recuperar suas memórias...\nPorque você poderá usar magia novamente.",
-        "es-ES": "[Maga Gremialista]\nVuelve si puedes recuperar tus recuerdos…\nPorque podrás volver a usar la magia."
+        "es-ES": "[Maga Gremialista]\nVuelve si puedes recuperar tus recuerdos...\nPorque podrás volver a usar la magia."
     },
     "6mC8Ag": {
         "en-US": "[Mage Guild Member]\nPeople who have passed the test once will not be asked another question.\nYou want to get your magic back as soon as possible, right?",
@@ -82,12 +82,12 @@
     "8GC8Ag": {
         "en-US": "[Mage Guild Member]\nHey... hey... you're already a mage. Are you not aware of yourself?\nWell... at some point, when the day comes to light a bonfire with your own hands, you will realize that it is your destiny to become a mage.",
         "pt-BR": "[Professora de Magia]\nEi... ei... você já é da Magia. Não se tocou?\nÉ, tanto faz... Um dia desses, vai perceber a força dentro de você quando conseguir produzir Fogo com Força Psíquica.",
-        "es-ES": "[Maga Gremialista]\nOye, oye… ya eres de la clase Mago. ¿No tienes autopercepción?\nBueno… en algún momento, cuando llegue el día de encender una hoguera con tus propias manos, te darás cuenta de que tu destino es convertirte a la clase Mago."
+        "es-ES": "[Maga Gremialista]\nOye, oye... ya eres de la clase Mago. ¿No tienes autopercepción?\nBueno... en algún momento, cuando llegue el día de encender una hoguera con tus propias manos, te darás cuenta de que tu destino es convertirte a la clase Mago."
     },
     "8WC8Ag": {
         "en-US": "[Mage Guild Member]\nHey... hey... you can't change jobs to a mage. You already have another job, right?",
         "pt-BR": "[Professora de Magia]\nPare de brincar comigo. Você sabe que não pode ser um de nós porque já pertence a outra classe.",
-        "es-ES": "[Maga Gremialista]\nOye, oye… no puedes cambiar la clase a Mago. Ya tienes otra clase, ¿cierto?"
+        "es-ES": "[Maga Gremialista]\nOye, oye... no puedes cambiar la clase a Mago. Ya tienes otra clase, ¿cierto?"
     },
     "8mC8Ag": {
         "en-US": "[Mage Guild Member]\nHey. What brought you here?",
@@ -107,7 +107,7 @@
     "9WC8Ag": {
         "en-US": "[Mage Guild Member]\nYou want to change jobs to mage? Hmm.....",
         "pt-BR": "[Professora de Magia]\nVocê quer se juntar aos Magos? Hm...",
-        "es-ES": "[Maga Gremialista]\n¿Quieres cambiar de clase a Mago? Mmm…"
+        "es-ES": "[Maga Gremialista]\n¿Quieres cambiar de clase a Mago? Mmm..."
     },
     "9mC8Ag": {
         "en-US": "[Mage Guild Member]",
@@ -117,37 +117,37 @@
     "92C8Ag": {
         "en-US": "... If you look closely, you're... cute, right? It's not my taste, but...",
         "pt-BR": "... Ah, moço~ Com essa beleza, pensei que a magia já estava emanando de seus olhos...",
-        "es-ES": "… Si te fijas bien, eres… adorable, ¿no? No eres mi tipo, pero…"
+        "es-ES": "... Si te fijas bien, eres... adorable, ¿no? No eres mi tipo, pero..."
     },
     "+GC8Ag": {
         "en-US": "... Look closely, sister. It's cute~~ I like a type like my older sister~",
         "pt-BR": "... Ah, moça~ Com essa beleza, pensei que a magia já estava emanando de seus olhos...",
-        "es-ES": "… Mira de cerca, hermana. Es adorable. Mi tipo es alguien parecido a mi hermana mayor."
+        "es-ES": "... Mira de cerca, hermana. Es adorable. Mi tipo es alguien parecido a mi hermana mayor."
     },
     "+WC8Ag": {
         "en-US": "Well... By the way, you said you wanted to change jobs to a mage, right?",
         "pt-BR": "Certo... você quer aprender a magia e se juntar aos Magos, certo?",
-        "es-ES": "Bueno… Por cierto, dijiste que querías cambiar de clase a Mago, ¿cierto?"
+        "es-ES": "Bueno... Por cierto, dijiste que querías cambiar de clase a Mago, ¿cierto?"
     },
     "+mC8Ag": {
         "en-US": "[Mage Guild Member]\n... What.. Let alone preparation, even the beginner's skill level is not up to the job advancement requirements.\nFirst, raise your beginner skill level.",
         "pt-BR": "[Professora de Magia]\n... Bem... Sem falar na preparação, o nível das suas Habilidades Básicas não está à altura dos requisitos para avançar de Classe.\nPrimeiro, aumente o nível da Habilidade Básica.",
-        "es-ES": "[Maga Gremialista]\n… ¿Qué…? Ni hablar de la preparación, ni siquiera el nivel de habilidad de los Principiantes está a la altura de las exigencias de un ascenso de clase.\nPrimero, sube tu nivel de habilidad de Principiante."
+        "es-ES": "[Maga Gremialista]\n... ¿Qué...? Ni hablar de la preparación, ni siquiera el nivel de habilidad de los Principiantes está a la altura de las exigencias de un ascenso de clase.\nPrimero, sube tu nivel de habilidad de Principiante."
     },
     "+2C8Ag": {
         "en-US": "[Mage Guild Member]\nYes... I signed there... Wow~ You write well~ Ah. good. Until there.\nYour Name... {0}.",
         "pt-BR": "[Professora de Magia]\nCerto, então assine o formulário de inscrição. Uau, que bela caligrafia!\nSeu nome é... {0}.",
-        "es-ES": "[Maga Gremialista]\nSí… Firma allí… ¡Guau! Escribes bien. Ah. Bien. Hasta allí.\nTu nombre… {0}."
+        "es-ES": "[Maga Gremialista]\nSí... Firma allí... ¡Guau! Escribes bien. Ah. Bien. Hasta allí.\nTu nombre... {0}."
     },
     "/GC8Ag": {
         "en-US": "[Mage Guild Member]\n..... hmm. You tried your best. It's a little clumsy, but if you have this level of skill, it'll be okay.\nGood! It's best to stick to the basics! I will change your job to the mage you wanted.",
         "pt-BR": "[Professora de Magia]\n...Hm, vejo que você batalhou em sua jornada. Acho que está ok.\nÓtimo! Agora você poderá praticar sua magia!",
-        "es-ES": "[Maga Gremialista]\n…Mmm. Diste lo mejor de ti. Es un poco torpe, pero si tienes este nivel de habilidad, estarás bien.\n¡Bien! ¡Es mejor centrarse en lo básico! Cambiaré tu clase por la de Mago, como querías."
+        "es-ES": "[Maga Gremialista]\n...Mmm. Diste lo mejor de ti. Es un poco torpe, pero si tienes este nivel de habilidad, estarás bien.\n¡Bien! ¡Es mejor centrarse en lo básico! Cambiaré tu clase por la de Mago, como querías."
     },
     "/WC8Ag": {
         "en-US": "[Mage Guild Member]\nHum hum... you are now our fellow mage.\nAs a member of the Magician's Guild, we welcome you as a new comrade.",
         "pt-BR": "[Professora de Magia]\nAham... Agora você faz parte dos Magos!\nComo integrante da Guilda dos Magos, damos as boas-vindas a você!",
-        "es-ES": "[Maga Gremialista]\n¡Hum, hum…! Ahora eres de la clase Mago, como nosotros.\nComo miembro del gremio de Magos, te damos la bienvenida."
+        "es-ES": "[Maga Gremialista]\n¡Hum, hum...! Ahora eres de la clase Mago, como nosotros.\nComo miembro del gremio de Magos, te damos la bienvenida."
     },
     "/mC8Ag": {
         "en-US": "[Mage Guild Member]\n'Welcome to the magic guild~'\nThis is a quote from a colloquial phrase used when welcoming customers at a famous family restaurant. I just wanted to give it a try~ hehe~\nAnyway, congratulations on becoming a member of our magic guild! Please work hard in the future!",
@@ -212,7 +212,7 @@
     "CmG8Ag": {
         "en-US": "[Mage Guild Member]\nHmm...? What...?",
         "pt-BR": "[Professora de Magia]\nHmm...? Hein?",
-        "es-ES": "[Maga Gremialista]\n¿Mmm…? ¿Qué…?"
+        "es-ES": "[Maga Gremialista]\n¿Mmm...? ¿Qué...?"
     },
     "C2G8Ag": {
         "en-US": "Part Timer",

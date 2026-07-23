@@ -12,7 +12,7 @@
     "QoBY": {
         "en-US": "[Wuhari]\nI haven't seen your face before... You aren't from around here?",
         "pt-BR": "[Wuhari]\nEu nunca tinha visto seu rosto antes... Você não é daqui?",
-        "es-ES": "[Wuhari]\nNo te había visto antes… ¿No eres de por aquí?"
+        "es-ES": "[Wuhari]\nNo te había visto antes... ¿No eres de por aquí?"
     },
     "Q4BY": {
         "en-US": "[Wuhari]\nIf you are a person who has enough courage and wisdom to go to a foreign land all alone, I'm sure you have a lot of experience as well.",
@@ -42,12 +42,12 @@
     "SIBY": {
         "en-US": "[Wuhari]\nUm... {0} I ask because you look so dependable.\nCould I please ask you a favor?",
         "pt-BR": "[Wuhari]\nHum... {0}, eu pergunto porque você parece muito confiável.\nPosso lhe pedir um favor?",
-        "es-ES": "[Wuhari]\nMm… {0} Pregunto porque pareces muy confiable.\n¿Puedo pedirte un favor?"
+        "es-ES": "[Wuhari]\nMm... {0} Pregunto porque pareces muy confiable.\n¿Puedo pedirte un favor?"
     },
     "SYBY": {
         "en-US": "I'm kind of busy right now...",
         "pt-BR": "Estou meio ocupado no momento...",
-        "es-ES": "No tengo mucho tiempo ahora mismo…"
+        "es-ES": "No tengo mucho tiempo ahora mismo..."
     },
     "SoBY": {
         "en-US": "Of course!",
@@ -57,7 +57,7 @@
     "S4BY": {
         "en-US": "[Wuhari]\nReally? Oh well...",
         "pt-BR": "[Wuhari]\nSério? Ah, bem...",
-        "es-ES": "[Wuhari]\n¿De verdad? Ah, bueno…"
+        "es-ES": "[Wuhari]\n¿De verdad? Ah, bueno..."
     },
     "TIBY": {
         "en-US": "[Wuhari]\nSorry to bother you.",
@@ -77,7 +77,7 @@
     "T4BY": {
         "en-US": "[Wuhari]\nMy brother is... not an extremely well-known scholar.\nAlthough his fame lost a bit of flare these recent years because he was stuck at home getting too fond of housework.",
         "pt-BR": "[Wuhari]\nMeu irmão... não é um acadêmico extremamente conhecido.\nEmbora sua fama tenha perdido um pouco de brilho nos últimos anos, porque ele estava preso em casa e gostava muito de tarefas domésticas.",
-        "es-ES": "[Wuhari]\nMi hermano… no es un erudito muy conocido.\nAunque su fama perdió un poco de brillo estos últimos años porque se quedó en casa dedicándose mucho a las tareas domésticas."
+        "es-ES": "[Wuhari]\nMi hermano... no es un erudito muy conocido.\nAunque su fama perdió un poco de brillo estos últimos años porque se quedó en casa dedicándose mucho a las tareas domésticas."
     },
     "UIBY": {
         "en-US": "[Wuhari]\nMy brother is... not an extremely well-known scholar.\nAlthough his fame lost a bit of flare these recent years because he was stuck at home getting too fond of housework.",
@@ -107,7 +107,7 @@
     "VYBY": {
         "en-US": "I would like to help you but...",
         "pt-BR": "Eu gostaria de ajudá-lo, mas...",
-        "es-ES": "Me gustaría ayudarte, pero…"
+        "es-ES": "Me gustaría ayudarte, pero..."
     },
     "VoBY": {
         "en-US": "Sure.",
@@ -117,12 +117,12 @@
     "V4BY": {
         "en-US": "[{0}]\nI would really lke to help you, but...\nYeah, I would like to help, but...",
         "pt-BR": "[{0}]\nEu realmente gostaria de ajudá-lo, mas...\nSim, eu gostaria de ajudar, mas...",
-        "es-ES": "[{0}]\nRealmente me gustaría ayudarte, pero…\nSí, me gustaría ayudar, pero…"
+        "es-ES": "[{0}]\nRealmente me gustaría ayudarte, pero...\nSí, me gustaría ayudar, pero..."
     },
     "WIBY": {
         "en-US": "[{0}]\nI can't really express my desire to help any other way...\nBut, I'm really sorry. I can't.",
         "pt-BR": "[{0}]\nNão posso realmente expressar meu desejo de ajudar de outra forma...\nMas, eu realmente sinto muito. Não posso.",
-        "es-ES": "[{0}]\nRealmente no puedo expresar mi deseo de ayudar de otra manera…\nPero lo siento mucho. No puedo."
+        "es-ES": "[{0}]\nRealmente no puedo expresar mi deseo de ayudar de otra manera...\nPero lo siento mucho. No puedo."
     },
     "WYBY": {
         "en-US": "[Wuhari]\nOh, no, no. I am sure you are really busy. I'm sorry to have asked such a favor.",
@@ -162,7 +162,7 @@
     "YIBY": {
         "en-US": "[Wuhari]\n{0}Hello, what brings you here?\nI thought you were busy...",
         "pt-BR": "[Wuhari]\n{0}Olá, o que te traz aqui?\nPensei que você estivesse ocupado...",
-        "es-ES": "[Wuhari]\n{0}Hola, ¿qué te trae por aquí?\nPensé que tenías cosas que hacer…"
+        "es-ES": "[Wuhari]\n{0}Hola, ¿qué te trae por aquí?\nPensé que tenías cosas que hacer..."
     },
     "YYBY": {
         "en-US": "I wanted to help you.",
@@ -197,7 +197,7 @@
     "Z4BY": {
         "en-US": "[Wuhari]\nNothing... Nothing really happened yet...\nI can't do anything in my own strength... Nothing at all...",
         "pt-BR": "[Wuhari]\nNada... Nada realmente aconteceu ainda...\nNão posso fazer nada com minhas próprias forças... Nada mesmo...",
-        "es-ES": "[Wuhari]\nNada… Todavía no ha pasado nada realmente…\nNo puedo hacer nada por mi cuenta… Nada de nada…"
+        "es-ES": "[Wuhari]\nNada... Todavía no ha pasado nada realmente...\nNo puedo hacer nada por mi cuenta... Nada de nada..."
     },
     "aIBY": {
         "en-US": "[Wuhari]\nHave you met my brother yet?",
@@ -217,7 +217,7 @@
     "a4BY": {
         "en-US": "[Wuhari]\nUm... {0} It looks like what you have in your coat is my letter...?",
         "pt-BR": "[Wuhari]\nHum... {0}, parece que o que você tem no casaco é a minha carta...?",
-        "es-ES": "[Wuhari]\nUm… {0} Parece que lo que tienes en tu abrigo es mi carta…"
+        "es-ES": "[Wuhari]\nUm... {0} Parece que lo que tienes en tu abrigo es mi carta..."
     },
     "bIBY": {
         "en-US": "[Wuhari]\nSure, I'll write you another one {0}. Compared to the trouble you have to go through, this is not a problem at all.",
@@ -247,12 +247,12 @@
     "cYBY": {
         "en-US": "[{0}]\nCompared to how he was when I first met him, he surprisingly had... lots to say...",
         "pt-BR": "[{0}]\nComparado a como ele era quando o conheci, ele surpreendentemente tinha... muito a dizer...",
-        "es-ES": "[{0}]\nComparado con cómo era cuando lo conocí, sorprendentemente… tenía mucho para contar…"
+        "es-ES": "[{0}]\nComparado con cómo era cuando lo conocí, sorprendentemente... tenía mucho para contar..."
     },
     "coBY": {
         "en-US": "[Wuhari]\nYeah... He's pretty talkative, isn't he?",
         "pt-BR": "[Wuhari]\nSim... Ele é muito falante, não é?",
-        "es-ES": "[Wuhari]\nSí… Es muy conversador, ¿verdad?"
+        "es-ES": "[Wuhari]\nSí... Es muy conversador, ¿verdad?"
     },
     "c4BY": {
         "en-US": "[Wuhari]\nWhat did he say?",
@@ -267,7 +267,7 @@
     "dYBY": {
         "en-US": "[Wuhari]\nWhy did he do such a thing...",
         "pt-BR": "[Wuhari]\nPor que ele fez uma coisa dessas...",
-        "es-ES": "[Wuhari]\n¿Por qué hizo tal cosa…?"
+        "es-ES": "[Wuhari]\n¿Por qué hizo tal cosa...?"
     },
     "doBY": {
         "en-US": "[Wuhari]\nWell, I guess he always had a negative self-image of his physical self.\nHe thought that he would be able to do anything if he was big and beautiful.",
@@ -307,7 +307,7 @@
     "fYBY": {
         "en-US": "[{0}]\n......",
         "pt-BR": "[{0}]\n......",
-        "es-ES": "[{0}]\n……"
+        "es-ES": "[{0}]\n......"
     },
     "foBY": {
         "en-US": "[{0}]\nYour brother asked me to figure out a way for him to recover his body.",
@@ -327,7 +327,7 @@
     "gYBY": {
         "en-US": "I would like to, but...",
         "pt-BR": "Eu gostaria, mas...",
-        "es-ES": "Me gustaría, pero…"
+        "es-ES": "Me gustaría, pero..."
     },
     "goBY": {
         "en-US": "Sure thing.",
@@ -357,7 +357,7 @@
     "h4BY": {
         "en-US": "[Wuhari]\nIt looks like we don't have ways to figure that out right now. To explore it on my own, it just seems too difficult...",
         "pt-BR": "[Wuhari]\nParece que não temos como descobrir isso agora. Explorar por conta própria parece muito difícil...",
-        "es-ES": "[Wuhari]\nParece que no tenemos forma de averiguarlo en este momento. Investigar por mi cuenta me parece demasiado difícil…"
+        "es-ES": "[Wuhari]\nParece que no tenemos forma de averiguarlo en este momento. Investigar por mi cuenta me parece demasiado difícil..."
     },
     "iIBY": {
         "en-US": "[Wuhari]\nIt is probably best to ask the ^0000CDpeople who may be familiar with what happened then^000000.",
@@ -372,7 +372,7 @@
     "ioBY": {
         "en-US": "[Wuhari]\nOh man, even the people we found are so apathetic... What could I possibly do now...?",
         "pt-BR": "[Wuhari]\nAh, cara, até as pessoas que encontramos são tão apáticas... O que eu poderia fazer agora...?",
-        "es-ES": "[Wuhari]\nOh, incluso la gente que encontramos es tan apática… ¿Qué podría hacer ahora…?"
+        "es-ES": "[Wuhari]\nOh, incluso la gente que encontramos es tan apática... ¿Qué podría hacer ahora...?"
     },
     "i4BY": {
         "en-US": "Well, I can help you.",
@@ -412,7 +412,7 @@
     "koBY": {
         "en-US": "[Wuhari]\nI see... I ask you, please take care of it.",
         "pt-BR": "[Wuhari]\nEstou vendo... Eu lhe peço, por favor, cuide disso.",
-        "es-ES": "[Wuhari]\nYa veo… Te lo pido, encárgate de eso."
+        "es-ES": "[Wuhari]\nYa veo... Te lo pido, encárgate de eso."
     },
     "k4BY": {
         "en-US": "[Wuhari]\nWhat happened? Did you find out anything?",
@@ -427,17 +427,17 @@
     "lYBY": {
         "en-US": "[Wuhari]\nHmm...",
         "pt-BR": "[Wuhari]\nHmm...",
-        "es-ES": "[Wuhari]\nMmm…"
+        "es-ES": "[Wuhari]\nMmm..."
     },
     "loBY": {
         "en-US": "[Wuhari]\nThis is... ^0000CDa research report^000000. My brother, he must have seen this and...",
         "pt-BR": "[Wuhari]\nEste é... ^0000CDum relatório de pesquisa^000000. Meu irmão, ele deve ter visto isso e...",
-        "es-ES": "[Wuhari]\nEs… ^0000CDun informe de investigación^000000. Mi hermano debe haber visto esto y…"
+        "es-ES": "[Wuhari]\nEs... ^0000CDun informe de investigación^000000. Mi hermano debe haber visto esto y..."
     },
     "l4BY": {
         "en-US": "[Wuhari]\nBut hmm... this is... Were there any other reports?",
         "pt-BR": "[Wuhari]\nMas, hmm... isso é... Houve algum outro relatório?",
-        "es-ES": "[Wuhari]\nPero, mmm… esto es… ¿Hubo algún otro informe?"
+        "es-ES": "[Wuhari]\nPero, mmm... esto es... ¿Hubo algún otro informe?"
     },
     "mIBY": {
         "en-US": "[{0}]\nNo, that was the only one I was given.",
@@ -447,17 +447,17 @@
     "mYBY": {
         "en-US": "[Wuhari]\nOh... That's too bad...\nWell, I'll have to analyze this in more depth. I would need some ^0000CDtime^000000.",
         "pt-BR": "[Wuhari]\nQue pena...\nBem, vou ter que analisar isso com mais profundidade. Eu precisaria de algum ^0000CDtempo^000000.",
-        "es-ES": "[Wuhari]\nAh… Qué mal…\nBien, tendré que analizarlo más a fondo. Necesitaría algo de ^0000CDtiempo^000000."
+        "es-ES": "[Wuhari]\nAh... Qué mal...\nBien, tendré que analizarlo más a fondo. Necesitaría algo de ^0000CDtiempo^000000."
     },
     "moBY": {
         "en-US": "[Wuhari]\nUmm... What is it that you brought?",
         "pt-BR": "[Wuhari]\nHumm... O que você trouxe?",
-        "es-ES": "[Wuhari]\nMmm… ¿Qué trajiste?"
+        "es-ES": "[Wuhari]\nMmm... ¿Qué trajiste?"
     },
     "m4BY": {
         "en-US": "[{0}]\nHuh! What the...!?\nWhere did it go?",
         "pt-BR": "[{0}]\nHuh! Quê...!?\nPara onde ele foi?",
-        "es-ES": "[{0}]\n¿Eh? ¡¿Pero qué…?!\n¿Adónde se fue?"
+        "es-ES": "[{0}]\n¿Eh? ¡¿Pero qué...?!\n¿Adónde se fue?"
     },
     "nIBY": {
         "en-US": "[{0}]\nI must have dropped it on the way here.",
@@ -482,7 +482,7 @@
     "oIBY": {
         "en-US": "[Wuhari]\nI looked into this report, but I still don't really understand what it is telling.\nThe ingredients are written here but they were difficult to gather and the application methods are a bit hard to understand...",
         "pt-BR": "[Wuhari]\nDei uma olhada nesse relatório, mas ainda não entendi muito bem o que ele está dizendo.\nOs ingredientes estão escritos aqui, mas foram difíceis de reunir e os métodos de aplicação são um pouco difíceis de entender...",
-        "es-ES": "[Wuhari]\nAnalicé este informe, pero sigo sin entender muy bien lo que dice.\nLos ingredientes están escritos aquí, pero fue difícil reunirlos y los métodos de aplicación son un poco difíciles de entender…"
+        "es-ES": "[Wuhari]\nAnalicé este informe, pero sigo sin entender muy bien lo que dice.\nLos ingredientes están escritos aquí, pero fue difícil reunirlos y los métodos de aplicación son un poco difíciles de entender..."
     },
     "oYBY": {
         "en-US": "[Wuhari]\nWhy would they use a piece of a high-level Laphine's wings and hair from a Sapha?",
@@ -492,12 +492,12 @@
     "ooBY": {
         "en-US": "[Wuhari]\nIt's not only difficult to obtain them, but the ways you would have to obtain them are brutal...",
         "pt-BR": "[Wuhari]\nNão é apenas difícil obtê-los, mas as formas de obtê-los são brutais...",
-        "es-ES": "[Wuhari]\nNo solo es difícil obtenerlos, sino que las formas de conseguirlos son brutales…"
+        "es-ES": "[Wuhari]\nNo solo es difícil obtenerlos, sino que las formas de conseguirlos son brutales..."
     },
     "o4BY": {
         "en-US": "Your brother's physique was...",
         "pt-BR": "O físico de seu irmão era...",
-        "es-ES": "El físico de tu hermano era…"
+        "es-ES": "El físico de tu hermano era..."
     },
     "pIBY": {
         "en-US": "[Wuhari]\nWhat do you mean exactly by that?",
@@ -512,12 +512,12 @@
     "poBY": {
         "en-US": "[Wuhari]\nI wonder if it's ^0000CDa method to merge the unique characteristics of both races^000000...",
         "pt-BR": "[Wuhari]\nEu me pergunto se é um ^0000CDmétodo para mesclar as características únicas de ambas as raças^000000...",
-        "es-ES": "[Wuhari]\nMe pregunto si es ^0000CDun método para fusionar las características únicas de ambas razas^000000…"
+        "es-ES": "[Wuhari]\nMe pregunto si es ^0000CDun método para fusionar las características únicas de ambas razas^000000..."
     },
     "p4BY": {
         "en-US": "[Wuhari]\nBut even for his own experiments, my brother would have needed someone's wing and someone's hair... Would he really...",
         "pt-BR": "[Wuhari]\nMas, mesmo para seus próprios experimentos, meu irmão precisaria da asa e do cabelo de alguém... Será que ele realmente...",
-        "es-ES": "[Wuhari]\nPero, incluso para sus propios experimentos, mi hermano hubiese necesitado el ala y el cabello de alguien más… ¿Realmente…?"
+        "es-ES": "[Wuhari]\nPero, incluso para sus propios experimentos, mi hermano hubiese necesitado el ala y el cabello de alguien más... ¿Realmente...?"
     },
     "qIBY": {
         "en-US": "[{0}]\nAccording to your brother, he received the ingredients from a high-level Laphine.",
@@ -527,7 +527,7 @@
     "qYBY": {
         "en-US": "[Wuhari]\nThe more I look at it, the stranger it gets... To think of this in the first place...",
         "pt-BR": "[Wuhari]\nQuanto mais eu olho para ele, mais estranho ele fica... Pensar nisso em primeiro lugar...",
-        "es-ES": "[Wuhari]\nCuanto más lo analizo, más extraño me resulta… Para pensar en esto, en primer lugar…"
+        "es-ES": "[Wuhari]\nCuanto más lo analizo, más extraño me resulta... Para pensar en esto, en primer lugar..."
     },
     "qoBY": {
         "en-US": "[Wuhari]\nRegardless, to figure out a way to recover my brother's body, I would have to study this.\nI wish the instructions were more detailed.",
@@ -567,7 +567,7 @@
     "sYBY": {
         "en-US": "[Wuhari]\nBut I guess it's still too much.\nIt must be too much...",
         "pt-BR": "[Wuhari]\nMas acho que ainda é demais.\nDeve ser demais...",
-        "es-ES": "[Wuhari]\nPero supongo que esto sigue siendo demasiado.\nDebe ser demasiado…"
+        "es-ES": "[Wuhari]\nPero supongo que esto sigue siendo demasiado.\nDebe ser demasiado..."
     },
     "soBY": {
         "en-US": "[Wuhari]\nThat's exactly my request!\nWow, your veteran sensibilities are truly amazing.",
@@ -607,7 +607,7 @@
     "uYBY": {
         "en-US": "[Wuhari]\nThank you so much!!!\nAwesome! The world hasn't let me down just yet! I know it was too big of a favor..",
         "pt-BR": "[Wuhari]\nMuito obrigado!!!\nIncrível! O mundo ainda não me decepcionou! Eu sei que foi um favor muito grande...",
-        "es-ES": "[Wuhari]\n¡Muchas gracias!\n¡Fantástico! ¡El mundo aún no me ha defraudado! Sé que fue un favor demasiado grande…"
+        "es-ES": "[Wuhari]\n¡Muchas gracias!\n¡Fantástico! ¡El mundo aún no me ha defraudado! Sé que fue un favor demasiado grande..."
     },
     "uoBY": {
         "en-US": "[Wuhari]\nPlease go find that Laphine and ask how to return his body back. And also please ask why the report was given to my brother in the first place.",
@@ -627,7 +627,7 @@
     "vYBY": {
         "en-US": "[{0}]\nWell... That Laphine ^0000CDwas already dead.^000000",
         "pt-BR": "[{0}]\nBem... Aquele Laphine já estava morto.",
-        "es-ES": "[{0}]\nBueno… Ese laphine ^0000CDya estaba muerto.^000000"
+        "es-ES": "[{0}]\nBueno... Ese laphine ^0000CDya estaba muerto.^000000"
     },
     "voBY": {
         "en-US": "[Wuhari]\nWhat? He was dead?",
@@ -647,7 +647,7 @@
     "wYBY": {
         "en-US": "[Wuhari]\nPossibly...",
         "pt-BR": "[Wuhari]\nPossivelmente...",
-        "es-ES": "[Wuhari]\nPosiblemente…"
+        "es-ES": "[Wuhari]\nPosiblemente..."
     },
     "woBY": {
         "en-US": "[Wuhari]\nBut why of all people did they entrust my brother with that research?",
@@ -667,7 +667,7 @@
     "xYBY": {
         "en-US": "[Wuhari]\nAhh, how terrible..",
         "pt-BR": "[Wuhari]\nAhh, que terrível...",
-        "es-ES": "[Wuhari]\nAhh, qué terrible…"
+        "es-ES": "[Wuhari]\nAhh, qué terrible..."
     },
     "xoBY": {
         "en-US": "[{0}]\nIt could have been better off for your brother to have failed.\nEven though it's unfortunate for him.",
@@ -677,7 +677,7 @@
     "x4BY": {
         "en-US": "[Wuhari]\nCould it mean that my brother is...",
         "pt-BR": "[Wuhari]\nSerá que isso significa que meu irmão está...",
-        "es-ES": "[Wuhari]\n¿Podría significar que mi hermano está…?"
+        "es-ES": "[Wuhari]\n¿Podría significar que mi hermano está...?"
     },
     "yIBY": {
         "en-US": "[Wuhari]\nNo, I'm sure there is some way.\nI'll recover his body no matter what even if I were to do it by myself.",
@@ -692,7 +692,7 @@
     "yoBY": {
         "en-US": "[Wuhari]\nYou already helped me so much... If so, I'll ask you for even another favor. It's probably going to be the last one.",
         "pt-BR": "[Wuhari]\nVocê já me ajudou tanto... Se for o caso, vou lhe pedir mais um favor. Provavelmente será o último.",
-        "es-ES": "[Wuhari]\nYa me has ayudado tanto… Si es así, te pediré otro favor. Probablemente sea el último."
+        "es-ES": "[Wuhari]\nYa me has ayudado tanto... Si es así, te pediré otro favor. Probablemente sea el último."
     },
     "y4BY": {
         "en-US": "[Wuhari]\nAll of the ^0000CDingredients^000000 in this research report are very difficult for me to gather myself. {0} I would like to ask for your help.",
@@ -757,7 +757,7 @@
     "14BY": {
         "en-US": "[Wuhari]\nUm... Where did you say the items were {0}?\nI couldn't work without them.",
         "pt-BR": "[Wuhari]\nHum... Onde você disse que os itens estavam, {0}?\nEu não poderia trabalhar sem eles.",
-        "es-ES": "[Wuhari]\nEh… ¿Dónde dijiste que estaban los objetos, {0}?\nNo podría trabajar sin ellos."
+        "es-ES": "[Wuhari]\nEh... ¿Dónde dijiste que estaban los objetos, {0}?\nNo podría trabajar sin ellos."
     },
     "2IBY": {
         "en-US": "[Wuhari]\nIngredients I need are ^0000CDone of each of the following: Laphine's Wing Fragment, Hair of Sapha, Karvodailnirol, Purified Bradium, Rune of Darkness, Rune of Blood ^000000.",
@@ -772,7 +772,7 @@
     "2oBY": {
         "en-US": "[Wuhari]\nAh... Is there anyone with more experience with this...",
         "pt-BR": "[Wuhari]\nAh... Há alguém com mais experiência com isso...",
-        "es-ES": "[Wuhari]\nAh… ¿Hay alguien con más experiencia en esto…?"
+        "es-ES": "[Wuhari]\nAh... ¿Hay alguien con más experiencia en esto...?"
     },
     "24BY": {
         "en-US": "Wuhuru",
@@ -782,12 +782,12 @@
     "3IBY": {
         "en-US": "[Suspicious man]\n......",
         "pt-BR": "[Homem Suspeito]\n......",
-        "es-ES": "[Hombre Sospechoso]\n……"
+        "es-ES": "[Hombre Sospechoso]\n......"
     },
     "3YBY": {
         "en-US": "[{0}]\nUm... Excuse me.\nI'm looking for someone.",
         "pt-BR": "[{0}]\nHum... Desculpe-me.\nEstou procurando uma pessoa.",
-        "es-ES": "[{0}]\nEh… Disculpa.\nEstoy buscando a alguien."
+        "es-ES": "[{0}]\nEh... Disculpa.\nEstoy buscando a alguien."
     },
     "3oBY": {
         "en-US": "[{0}]\nHello?",
@@ -842,7 +842,7 @@
     "6IBY": {
         "en-US": "[Suspicious man]\nA... letter...?",
         "pt-BR": "[Homem Suspeito]\nUma... carta...?",
-        "es-ES": "[Hombre Sospechoso]\n¿Una… carta…?"
+        "es-ES": "[Hombre Sospechoso]\n¿Una... carta...?"
     },
     "6YBY": {
         "en-US": "[{0}]\nYes! A letter! I'm trying to deliver this to him!",
@@ -857,7 +857,7 @@
     "64BY": {
         "en-US": "[Suspicious man]\nWu...huru...? That's...",
         "pt-BR": "[Homem Suspeito]\nWu... huru...? Isso é...",
-        "es-ES": "[Hombre Sospechoso]\n¿Wu… huru…? Eso es…"
+        "es-ES": "[Hombre Sospechoso]\n¿Wu... huru...? Eso es..."
     },
     "7IBY": {
         "en-US": "[{0}]\nIt looks like ^0000CDyou are Wuhuru^000000. Your little brother wanted me to deliver this ^0000CDletter^000000 to you.\nAlthough I didn't expect the delivery to be this way.",
@@ -867,7 +867,7 @@
     "7YBY": {
         "en-US": "[Wuhuru]\nThank...you.",
         "pt-BR": "[Wuhuru]\nObrigado... a você.",
-        "es-ES": "[Wuhuru]\nGracias…"
+        "es-ES": "[Wuhuru]\nGracias..."
     },
     "7oBY": {
         "en-US": "- You leave Wuhuru alone to read through the letter -",
@@ -887,7 +887,7 @@
     "8YBY": {
         "en-US": "[Wuhuru]\nI, I can't believe I did this to my little bro... Is Wuhari alright?\nAh.. What have I done...?",
         "pt-BR": "[Wuhuru]\nEu... eu não acredito que fiz isso com meu irmãozinho... O Wuhari está bem?\nAh... O que eu fiz...?",
-        "es-ES": "[Wuhuru]\nYo… no puedo creer que le haya hecho esto a mi hermanito… ¿Wuhari está bien?\nAh… ¿Qué he hecho…?"
+        "es-ES": "[Wuhuru]\nYo... no puedo creer que le haya hecho esto a mi hermanito... ¿Wuhari está bien?\nAh... ¿Qué he hecho...?"
     },
     "8oBY": {
         "en-US": "[Wuhuru]\nIf you have met Wuhari, as you can see, I didn't look like this originally. My brother and I had ^0000CDparticular small physiques.^000000 even among the lower-level Laphines.",
@@ -917,7 +917,7 @@
     "94BY": {
         "en-US": "[Wuhuru]\nI immediately said yes. For me, it was clearly a way of being recognized. There was no reason for hesitation.\nAnd also, if I were to find the means to make myself bigger...",
         "pt-BR": "[Wuhuru]\nEu disse logo que sim. Para mim, era claramente uma forma de ser reconhecido. Não havia motivo para hesitação.\nE também, se eu encontrasse os meios para me tornar maior...",
-        "es-ES": "[Wuhuru]\nInmediatamente dije que sí. Para mí, claramente, era una forma de ser reconocido. No había motivo para dudar.\nAdemás, si iba a descubrir los medios para hacerme más grande…"
+        "es-ES": "[Wuhuru]\nInmediatamente dije que sí. Para mí, claramente, era una forma de ser reconocido. No había motivo para dudar.\nAdemás, si iba a descubrir los medios para hacerme más grande..."
     },
     "+IBY": {
         "en-US": "[Wuhuru]\nHe requested that I wouldn't share any of this information. So I complied with all of his requests.\nI didn't even share it with my brother who I trust so much.",
@@ -927,7 +927,7 @@
     "+YBY": {
         "en-US": "[Wuhuru]\nI don't know if that was good or bad...",
         "pt-BR": "[Wuhuru]\nNão sei se isso foi bom ou ruim...",
-        "es-ES": "[Wuhuru]\nNo sé si eso fue bueno o malo…"
+        "es-ES": "[Wuhuru]\nNo sé si eso fue bueno o malo..."
     },
     "+oBY": {
         "en-US": "[Wuhuru]\nIn any case, through much research, I finally had the results right before me.\nBut we had no experimental subjects at hand.",
@@ -937,7 +937,7 @@
     "+4BY": {
         "en-US": "[Wuhuru]\nSo I let myself become one.\nAnd as you can see, the consequence was...",
         "pt-BR": "[Wuhuru]\nEntão, permiti que eu me tornasse uma.\nE, como você pode ver, a consequência foi...",
-        "es-ES": "[Wuhuru]\nAsí que decidí convertirme en uno.\nY, como puedes ver, la consecuencia fue…"
+        "es-ES": "[Wuhuru]\nAsí que decidí convertirme en uno.\nY, como puedes ver, la consecuencia fue..."
     },
     "/IBY": {
         "en-US": "[Wuhuru]\nAs soon as the experiment failed, that Laphine just withdrew himself right away.\nI tried to take care of things on my own, but I ultimately ended up here.",
@@ -952,12 +952,12 @@
     "/oBY": {
         "en-US": "[Wuhuru]\nI didn't want this for myself... My greed was excessive.",
         "pt-BR": "[Wuhuru]\nEu não queria isso para mim... Minha ganância era excessiva.",
-        "es-ES": "[Wuhuru]\nNo quería esto para mí… Mi codicia fue excesiva."
+        "es-ES": "[Wuhuru]\nNo quería esto para mí... Mi codicia fue excesiva."
     },
     "/4BY": {
         "en-US": "[Wuhuru]\nOnly if I had known earlier...",
         "pt-BR": "[Wuhuru]\nSó se eu tivesse sabido antes...",
-        "es-ES": "[Wuhuru]\nSi tan solo lo hubiera sabido antes…"
+        "es-ES": "[Wuhuru]\nSi tan solo lo hubiera sabido antes..."
     },
     "AIFY": {
         "en-US": "[Wuhuru]\nI'm sorry, I talked too much.\nRegardless, I think it's over for me to get out of here.",
@@ -1032,12 +1032,12 @@
     "DoFY": {
         "en-US": "[Wuhuru]\nWhat does it matter even if I were to... Reveal that I am a murderer...?",
         "pt-BR": "[Wuhuru]\nO que importa mesmo se eu... revelar que sou um assassino...?",
-        "es-ES": "[Wuhuru]\n¿Qué importa incluso si fuera a…? ¿Revelar que soy un asesino…?"
+        "es-ES": "[Wuhuru]\n¿Qué importa incluso si fuera a...? ¿Revelar que soy un asesino...?"
     },
     "D4FY": {
         "en-US": "[Wuhuru]\nI am trapped in this body no matter what...",
         "pt-BR": "[Wuhuru]\nEstou preso neste corpo, não importa o que aconteça...",
-        "es-ES": "[Wuhuru]\nEstoy atrapado en este cuerpo pase lo que pase…"
+        "es-ES": "[Wuhuru]\nEstoy atrapado en este cuerpo pase lo que pase..."
     },
     "EIFY": {
         "en-US": "[Wuhuru]\nHe tricked me, you see!",
@@ -1097,17 +1097,17 @@
     "G4FY": {
         "en-US": "[{0}]\nWhile you are a victim of his schemes, it is hard to justify what you have done... But\nthe way you are imprisoned here seems like you are paying for your actions.",
         "pt-BR": "[{0}]\nEmbora você seja uma vítima dos esquemas dele, é difícil justificar o que você fez... Mas,\npela maneira como está preso aqui, parece que está pagando por suas ações.",
-        "es-ES": "[{0}]\nAunque eres víctima de sus planes, es difícil justificar lo que hiciste… Pero,\npor la forma en que estás encarcelado aquí, parece que estás pagando por tus acciones."
+        "es-ES": "[{0}]\nAunque eres víctima de sus planes, es difícil justificar lo que hiciste... Pero,\npor la forma en que estás encarcelado aquí, parece que estás pagando por tus acciones."
     },
     "HIFY": {
         "en-US": "[Wuhuru]\n......",
         "pt-BR": "[Wuhuru]\n......",
-        "es-ES": "[Wuhuru]\n……"
+        "es-ES": "[Wuhuru]\n......"
     },
     "HYFY": {
         "en-US": "[Wuhuru]\nPlease... don't share this story with Wuhari.\nI implore you.",
         "pt-BR": "[Wuhuru]\nPor favor... não compartilhe essa história com Wuhari.\nEu lhe imploro.",
-        "es-ES": "[Wuhuru]\nPor favor… no le cuentes esta historia a Wuhari.\nTe lo imploro."
+        "es-ES": "[Wuhuru]\nPor favor... no le cuentes esta historia a Wuhari.\nTe lo imploro."
     },
     "HoFY": {
         "en-US": "[{0}]\nAlright, I will act as though I have never made it here.",
@@ -1117,7 +1117,7 @@
     "H4FY": {
         "en-US": "[Wuhuru]\nThank you... I am indebted to you...",
         "pt-BR": "[Wuhuru]\nObrigado... Estou em dívida com você...",
-        "es-ES": "[Wuhuru]\nGracias… Estoy en deuda contigo…"
+        "es-ES": "[Wuhuru]\nGracias... Estoy en deuda contigo..."
     },
     "IIFY": {
         "en-US": "Masione",
@@ -1132,12 +1132,12 @@
     "IoFY": {
         "en-US": "Um, about Wuhuru...",
         "pt-BR": "Sobre o Wuhuru...",
-        "es-ES": "Eh, sobre Wuhuru…"
+        "es-ES": "Eh, sobre Wuhuru..."
     },
     "I4FY": {
         "en-US": "[Masione]\nOh, I was shocked for no reason.\nAbout Wuhuru... Well, I don't really know the messy details...",
         "pt-BR": "[Masione]\nOh, fiquei em choque sem motivo.\nSobre o Wuhuru... Bem, eu realmente não sei os detalhes da bagunça...",
-        "es-ES": "[Masione]\nOh, me sorprendí sin motivo.\nAcerca de Wuhuru… Bueno, en realidad, no conozco los detalles confusos…"
+        "es-ES": "[Masione]\nOh, me sorprendí sin motivo.\nAcerca de Wuhuru... Bueno, en realidad, no conozco los detalles confusos..."
     },
     "JIFY": {
         "en-US": "[Masione]\nI don't know how a guy who lived so peacefully all his life became like that.",
@@ -1147,7 +1147,7 @@
     "JYFY": {
         "en-US": "[Masione]\nCome to think of it, on the day that it happened, I heard a ^0000CDreally loud scream^000000...\nMany in the village were too scared to go out for awhile after hearing that.",
         "pt-BR": "[Masione]\nPensando bem, no dia em que isso aconteceu, ouvi um grito muito alto...\nMuitos na aldeia ficaram assustados demais para sair por um tempo depois de ouvir isso.",
-        "es-ES": "[Masione]\nAhora que lo pienso, el día que ocurrió, oí un ^0000CDgrito muy fuerte^000000…\nMuchos en la aldea estaban muy asustados como para salir un momento después de escuchar eso."
+        "es-ES": "[Masione]\nAhora que lo pienso, el día que ocurrió, oí un ^0000CDgrito muy fuerte^000000...\nMuchos en la aldea estaban muy asustados como para salir un momento después de escuchar eso."
     },
     "JoFY": {
         "en-US": "[Masione]\nAnd not too long after, many people from the palace came over and took Wuhuru away.",
@@ -1162,7 +1162,7 @@
     "KIFY": {
         "en-US": "[Masione]\nBut Wuhuru's appearance at the time... his appearance...",
         "pt-BR": "[Masione]\nMas a aparência do Wuhuru na época... a aparência...",
-        "es-ES": "[Masione]\nPero la apariencia de Wuhuru en ese momento… su apariencia…"
+        "es-ES": "[Masione]\nPero la apariencia de Wuhuru en ese momento... su apariencia..."
     },
     "KYFY": {
         "en-US": "[Masione]\nAnyways, ^0000CDGoatie^000000 was also there with me, so ask him too.\nHe's really sharp with these kind of things so he might remember more.",
@@ -1192,7 +1192,7 @@
     "LoFY": {
         "en-US": "I came after talking with Masione...",
         "pt-BR": "Vim depois de conversar com Masione...",
-        "es-ES": "Vine después de hablar con Masione…"
+        "es-ES": "Vine después de hablar con Masione..."
     },
     "L4FY": {
         "en-US": "[Goatie]\nMasione sent you? What's the problem?",
@@ -1207,12 +1207,12 @@
     "MYFY": {
         "en-US": "[Goatie]\nOh, you came for Wuhuru. But I don't know much either...",
         "pt-BR": "[Goatie]\nAh, você veio pelo Wuhuru. Mas eu também não sei muito...",
-        "es-ES": "[Goatie]\nOh, viniste por Wuhuru. Pero tampoco sé mucho…"
+        "es-ES": "[Goatie]\nOh, viniste por Wuhuru. Pero tampoco sé mucho..."
     },
     "MoFY": {
         "en-US": "[Goatie]\nAh! I just remembered seeing Wuhuru right before that happened!\nHe came by with some ^0000CDstranger^000000...",
         "pt-BR": "[Goatie]\nAh! Acabei de me lembrar de ter visto o Wuhuru logo antes de isso acontecer!\nEle apareceu com um ^0000CDestranho^000000...",
-        "es-ES": "[Goatie]\n¡Ah! ¡Acabo de recordar haber visto a Wuhuru justo antes de que eso ocurriera!\nVino con un ^0000CDextraño^000000…"
+        "es-ES": "[Goatie]\n¡Ah! ¡Acabo de recordar haber visto a Wuhuru justo antes de que eso ocurriera!\nVino con un ^0000CDextraño^000000..."
     },
     "M4FY": {
         "en-US": "[Goatie]\nAt any rate, in all my days knowing Wuhuru, it's the first time I've seen him so happy.",
@@ -1222,12 +1222,12 @@
     "NIFY": {
         "en-US": "[Goatie]\nWhen I asked him why he was so happy, he showed me some ^0000CDpieces of paper^000000 and told me that he was going to look great soon...",
         "pt-BR": "[Goatie]\nQuando lhe perguntei por que estava tão feliz, ele me mostrou alguns ^0000CD pedaços de papel^000000 e me disse que logo ficaria ótimo...",
-        "es-ES": "[Goatie]\nCuando le pregunté por qué estaba tan contento, me enseñó unos ^0000CDpapeles^000000 y me dijo que pronto se vería estupendo…"
+        "es-ES": "[Goatie]\nCuando le pregunté por qué estaba tan contento, me enseñó unos ^0000CDpapeles^000000 y me dijo que pronto se vería estupendo..."
     },
     "NYFY": {
         "en-US": "[Goatie]\nAnd the guy next to him would hint at him to keep quiet...",
         "pt-BR": "[Goatie]\nE o cara que estava ao lado dele dava dicas para ele ficar quieto...",
-        "es-ES": "[Goatie]\nY el tipo de al lado le insinuaba que se callara…"
+        "es-ES": "[Goatie]\nY el tipo de al lado le insinuaba que se callara..."
     },
     "NoFY": {
         "en-US": "[Goatie]\nWell, I was a bit concerned, but seeing him so happy, I couldn't say anything.",
@@ -1247,7 +1247,7 @@
     "OYFY": {
         "en-US": "[Goatie]\nThat thing? Hmm, I don't know. I was too far to tell...",
         "pt-BR": "[Goatie]\nAquela coisa? Hmm, não sei. Eu estava longe demais para saber...",
-        "es-ES": "[Goatie]\n¿Esa cosa? Mmm, no lo sé. Estaba muy lejos como para saberlo…"
+        "es-ES": "[Goatie]\n¿Esa cosa? Mmm, no lo sé. Estaba muy lejos como para saberlo..."
     },
     "OoFY": {
         "en-US": "[Goatie]\nThat's right, why don't you go see my ^0000CDhusband^000000. He was pretty close to Wuhuru so he might know more.",
@@ -1267,7 +1267,7 @@
     "PYFY": {
         "en-US": "[Goatie]\nOh the high-level Laphine...? Yes~ I remember!",
         "pt-BR": "[Goatie]\nAh, o Laphine de alto nível...? Sim, eu me lembro!",
-        "es-ES": "[Goatie]\nOh, ¿el laphine de alto nivel…? Sí. ¡Lo recuerdo!"
+        "es-ES": "[Goatie]\nOh, ¿el laphine de alto nivel...? Sí. ¡Lo recuerdo!"
     },
     "PoFY": {
         "en-US": "[Goatie]\nThe stranger who came by with Wuhuru was a high-level Laphine. Are you talking about him?",
@@ -1302,7 +1302,7 @@
     "RIFY": {
         "en-US": "[Goatie]\nHe did say that the Laphine that he saw at the time also had ^0000CDparticularly large and beautiful wings...^000000.",
         "pt-BR": "[Goatie]\nDisse que o Laphine que ele viu na época também tinha asas particularmente grandes e bonitas...^000000.",
-        "es-ES": "[Goatie]\nAfirmó que el laphine que vio esa vez también tenía ^0000CDalas particularmente grandes y hermosas…^000000"
+        "es-ES": "[Goatie]\nAfirmó que el laphine que vio esa vez también tenía ^0000CDalas particularmente grandes y hermosas...^000000"
     },
     "RYFY": {
         "en-US": "[Goatie]\nGo see Pompe and check with him.",
@@ -1367,7 +1367,7 @@
     "UYFY": {
         "en-US": "[Svery]\nHowever!\nWe were so busy that we couldn't meet up with Wuhari even when we heard that he came back around here.",
         "pt-BR": "[Svery]\nPorém!\nEstávamos tão ocupados que não pudemos nos encontrar com Wuhari, mesmo quando soubemos que ele havia voltado para cá.",
-        "es-ES": "[Svery]\nSin embargo…\nEstábamos tan ocupados que no pudimos reunirnos con Wuhari, incluso cuando nos enteramos de que había regresado por aquí."
+        "es-ES": "[Svery]\nSin embargo...\nEstábamos tan ocupados que no pudimos reunirnos con Wuhari, incluso cuando nos enteramos de que había regresado por aquí."
     },
     "UoFY": {
         "en-US": "[Svery]\nHmm, I wonder if that sealed document is the paper that my wife was talking about?\nWhatever is it, give this to Wuhari.",
@@ -1377,7 +1377,7 @@
     "U4FY": {
         "en-US": "[Svery]\nLet me see... Where did I put it...",
         "pt-BR": "[Svery]\nDeixe-me ver... Onde eu o coloquei...",
-        "es-ES": "[Svery]\nDéjame ver… ¿Dónde lo puse…?"
+        "es-ES": "[Svery]\nDéjame ver... ¿Dónde lo puse...?"
     },
     "VIFY": {
         "en-US": "- Shuffle -",
@@ -1412,7 +1412,7 @@
     "WoFY": {
         "en-US": "[Svery]\nI don't know how nice kids like them became like that...",
         "pt-BR": "[Svery]\nNão sei como crianças legais como eles ficaram assim...",
-        "es-ES": "[Svery]\nNo sé cómo chicos tan simpáticos se convirtieron en eso…"
+        "es-ES": "[Svery]\nNo sé cómo chicos tan simpáticos se convirtieron en eso..."
     },
     "W4FY": {
         "en-US": "[Svery]\nIt's my wife's big wish to visit the palace.",
@@ -1422,7 +1422,7 @@
     "XIFY": {
         "en-US": "[Svery]\nI want to grant that wish for her, but how could that ever be possible.\nEspecially given our situation...",
         "pt-BR": "[Svery]\nQuero realizar esse desejo dela, mas como isso seria possível?\nPrincipalmente considerando nossa situação...",
-        "es-ES": "[Svery]\nQuiero cumplirle ese deseo, pero ¿cómo podría hacerlo posible?\nEspecialmente, teniendo en cuenta nuestra situación…"
+        "es-ES": "[Svery]\nQuiero cumplirle ese deseo, pero ¿cómo podría hacerlo posible?\nEspecialmente, teniendo en cuenta nuestra situación..."
     },
     "XYFY": {
         "en-US": "[Svery]\nI know why you are here!",
@@ -1482,7 +1482,7 @@
     "aIFY": {
         "en-US": "I was sent by Goatie...",
         "pt-BR": "Fui enviado por Goatie...",
-        "es-ES": "Me envió Goatie…"
+        "es-ES": "Me envió Goatie..."
     },
     "aYFY": {
         "en-US": "[Pompe]\nGoatie sent you? What's the problem?\nIs it because of what they gave me last time? Tell them they have to wait a bit longer.",
@@ -1547,7 +1547,7 @@
     "dYFY": {
         "en-US": "[Pompe]\nIt was so disquieting that I didn't get near it...",
         "pt-BR": "[Pompe]\nEra tão inquietante que eu nem cheguei perto...",
-        "es-ES": "[Pompe]\nEra tan perturbador que no me acerqué…"
+        "es-ES": "[Pompe]\nEra tan perturbador que no me acerqué..."
     },
     "doFY": {
         "en-US": "A corpse?",
@@ -1602,7 +1602,7 @@
     "gIFY": {
         "en-US": "[Giranni]\nI wonder where he went. It should be around here...",
         "pt-BR": "[Giranni]\nEu me pergunto para onde ele foi. Deve estar por aqui...",
-        "es-ES": "[Giranni]\nMe pregunto adónde habrá ido. Debería estar por aquí…"
+        "es-ES": "[Giranni]\nMe pregunto adónde habrá ido. Debería estar por aquí..."
     },
     "gYFY": {
         "en-US": "[Giranni]\nExcuse me, if it's not too much trouble, could I talk to you for a second?",
@@ -1622,7 +1622,7 @@
     "hIFY": {
         "en-US": "[Giranni]\nI'm sorry? Do I know the way...?\nNo, no, I'm not someone like that.",
         "pt-BR": "[Giranni]\nMe desculpe? Se sei o caminho...?\nNão, não, não sou uma pessoa assim.",
-        "es-ES": "[Giranni]\n¿Perdona? ¿Si conozco el camino…?\nNo, no, no soy alguien así."
+        "es-ES": "[Giranni]\n¿Perdona? ¿Si conozco el camino...?\nNo, no, no soy alguien así."
     },
     "hYFY": {
         "en-US": "[Giranni]\nI noticed from earlier that you are looking for something. Am I right?",
@@ -1727,7 +1727,7 @@
     "mYFY": {
         "en-US": "[Giranni]\nDid you find something?\nOh... I see you haven't yet...",
         "pt-BR": "[Giranni]\nVocê encontrou alguma coisa?\nOh... Vejo que ainda não...",
-        "es-ES": "[Giranni]\n¿Encontraste algo?\nAh… Veo que aún no…"
+        "es-ES": "[Giranni]\n¿Encontraste algo?\nAh... Veo que aún no..."
     },
     "moFY": {
         "en-US": "[Giranni]\nDid you find something?",
@@ -1747,7 +1747,7 @@
     "nYFY": {
         "en-US": "[Giranni]\nOh, oh....! This is.... Definitely my father's...\nSob... NOoo!\nHow could this be...?",
         "pt-BR": "[Giranni]\nOh, oh....! Isto é.... definitivamente, é do meu pai...\nSoluço... Nãããoo!\nComo pode ser...?",
-        "es-ES": "[Giranni]\n¡Oh, oh…! Esto es… Sin duda, es de mi padre…\n*Solloza* ¡Nooo!\n¿Cómo puede ser…?"
+        "es-ES": "[Giranni]\n¡Oh, oh...! Esto es... Sin duda, es de mi padre...\n*Solloza* ¡Nooo!\n¿Cómo puede ser...?"
     },
     "noFY": {
         "en-US": "[{0}]\nHe's in the eastern part of the field among the tall grasses. Should I accompany you?",
@@ -1772,17 +1772,17 @@
     "ooFY": {
         "en-US": "[Giranni]\nMy father? He was certainly working on something very hard recently...",
         "pt-BR": "[Giranni]\nMeu pai? Ele certamente estava trabalhando em algo muito difícil recentemente...",
-        "es-ES": "[Giranni]\n¿Mi padre? Sin duda, estaba trabajando en algo muy difícil hace poco…"
+        "es-ES": "[Giranni]\n¿Mi padre? Sin duda, estaba trabajando en algo muy difícil hace poco..."
     },
     "o4FY": {
         "en-US": "[Giranni]\nAh, who in the world... did such a thing...\nA kind person like him...",
         "pt-BR": "[Giranni]\nAh, quem no mundo... fez uma coisa dessas...\nUma pessoa gentil como ele...",
-        "es-ES": "[Giranni]\nAh, quién en el mundo… hizo tal cosa…\nUna persona amable como él…"
+        "es-ES": "[Giranni]\nAh, quién en el mundo... hizo tal cosa...\nUna persona amable como él..."
     },
     "pIFY": {
         "en-US": "[Giranni]\nIn any case, thanks a lot. You found my father...\nThis couldn't possibly be enough compensation, but please take it.",
         "pt-BR": "[Giranni]\nDe qualquer forma, muito obrigado. Você encontrou meu pai...\nEsta não poderia ser uma compensação suficiente, mas, por favor, aceite-a.",
-        "es-ES": "[Giranni]\nEn todo caso, muchas gracias. Encontraste a mi padre…\nTal vez no sea una recompensa suficiente pero, por favor, acéptala."
+        "es-ES": "[Giranni]\nEn todo caso, muchas gracias. Encontraste a mi padre...\nTal vez no sea una recompensa suficiente pero, por favor, acéptala."
     },
     "pYFY": {
         "en-US": "[Giranni]\nAnd please tell Wuhuru about my father.\nThey worked together, so he should hear about my father.",
@@ -1792,7 +1792,7 @@
     "poFY": {
         "en-US": "[Giranni]\nWhat... Did you say you found something?",
         "pt-BR": "[Giranni]\nO quê... Você disse que encontrou algo?",
-        "es-ES": "[Giranni]\nQué… ¿Dijiste que encontraste algo?"
+        "es-ES": "[Giranni]\nQué... ¿Dijiste que encontraste algo?"
     },
     "p4FY": {
         "en-US": "[{0}]\nHmm? Where did it go? Did I drop it on the way?",
@@ -1802,7 +1802,7 @@
     "qIFY": {
         "en-US": "[Giranni]\nFather... Sob sob...",
         "pt-BR": "[Giranni]\nPai... Soluço... Soluço...",
-        "es-ES": "[Giranni]\nPadre… *Solloza*"
+        "es-ES": "[Giranni]\nPadre... *Solloza*"
     },
     "qYFY": {
         "en-US": "[Giranni]\nDid you need something from me?",
@@ -1827,7 +1827,7 @@
     "rYFY": {
         "en-US": "[Giranni]\nWhy would you need a piece of my father's wing...?",
         "pt-BR": "[Giranni]\nPor que você precisaria de um pedaço da asa do meu pai...?",
-        "es-ES": "[Giranni]\n¿Por qué necesitarías un trozo del ala de mi padre…?"
+        "es-ES": "[Giranni]\n¿Por qué necesitarías un trozo del ala de mi padre...?"
     },
     "roFY": {
         "en-US": "- You briefly share Wuhuru's story -",
@@ -1837,7 +1837,7 @@
     "r4FY": {
         "en-US": "[Giranni]\nI see... It resulted from their research together...",
         "pt-BR": "[Giranni]\nEstou vendo... Foi resultado das pesquisas deles em conjunto...",
-        "es-ES": "[Giranni]\nYa veo… Fue el resultado de su investigación conjunta…"
+        "es-ES": "[Giranni]\nYa veo... Fue el resultado de su investigación conjunta..."
     },
     "sIFY": {
         "en-US": "[Giranni]\nOk, sure. I will give it to you. I'm sure that's what my father would have liked you to have it.",
@@ -1862,7 +1862,7 @@
     "tIFY": {
         "en-US": "[Giranni]\nWhere did he go...?",
         "pt-BR": "[Giranni]\nPara onde ele foi...?",
-        "es-ES": "[Giranni]\n¿Adónde fue…?"
+        "es-ES": "[Giranni]\n¿Adónde fue...?"
     },
     "tYFY": {
         "en-US": "A Laphine corpse",
@@ -1947,7 +1947,7 @@
     "xYFY": {
         "en-US": "[Lafiki]\nMy fashion sense today is excellent as usual. Heh-",
         "pt-BR": "[Lafiki]\nMeu senso de moda hoje está excelente, como sempre. Heh-",
-        "es-ES": "[Lafiki]\nMi sentido de la moda hoy es excelente, como siempre. Je…"
+        "es-ES": "[Lafiki]\nMi sentido de la moda hoy es excelente, como siempre. Je..."
     },
     "xoFY": {
         "en-US": "[Lafiki]\nHello~ My beautiful body~\nEvery strand of hair is so beautiful!",
@@ -2012,7 +2012,7 @@
     "0oFY": {
         "en-US": "[Markoza]\nMan, wherever I go, my cuteness just complicates everything...",
         "pt-BR": "[Markoza]\nCara, onde quer que eu vá, minha fofura só complica tudo...",
-        "es-ES": "[Markoza]\nDonde quiera que vaya, mi ternura simplemente complica todo…"
+        "es-ES": "[Markoza]\nDonde quiera que vaya, mi ternura simplemente complica todo..."
     },
     "04FY": {
         "en-US": "Pambo",
@@ -2047,7 +2047,7 @@
     "2YFY": {
         "en-US": "[Pambo]\nBut there's nothing twinkling here...",
         "pt-BR": "[Pambo]\nMas não há nada cintilante aqui...",
-        "es-ES": "[Pambo]\nPero aquí no hay nada que brille…"
+        "es-ES": "[Pambo]\nPero aquí no hay nada que brille..."
     },
     "2oFY": {
         "en-US": "Warao",

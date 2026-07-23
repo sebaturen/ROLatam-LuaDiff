@@ -1,0 +1,62 @@
+{
+    "gHM7DQ": {
+        "en-US": "You have discovered a dimensional rift emanating the aura of a powerful presence. There does not seem to be anywhere higher to go.",
+        "pt-BR": "Você encontrou uma fenda dimensional da qual emana uma presença intensa. Parece que não há mais para onde subir.",
+        "es-ES": "Has descubierto una grieta dimensional de la que emana el aura de una poderosa presencia. Parece que no hay ningún lugar más al que subir."
+    },
+    "gXM7DQ": {
+        "en-US": "^0000FFChallenge beyond floor 50^000000",
+        "pt-BR": "^0000FFDesafiar acima do 50º andar^000000",
+        "es-ES": "^0000FFDesafiar por encima de la planta 50^000000"
+    },
+    "gnM7DQ": {
+        "en-US": "You have discovered a dimensional rift with a noticeable presence. Will you stop climbing the tower and head into the rift?",
+        "pt-BR": "Você encontrou uma fenda dimensional da qual emana uma presença. Deseja parar de subir a torre e seguir para a fenda?",
+        "es-ES": "Has descubierto una grieta dimensional de la que emana una presencia. ¿Quieres dejar de subir la torre y dirigirte a la grieta?"
+    },
+    "g3M7DQ": {
+        "en-US": "^0000FFContinue climbing the tower^000000",
+        "pt-BR": "^0000FFContinuar subindo a torre^000000",
+        "es-ES": "^0000FFSeguir subiendo la torre^000000"
+    },
+    "hHM7DQ": {
+        "en-US": "You have discovered an ordinary dimensional rift. Will you stop climbing the tower and head into the rift?",
+        "pt-BR": "Você encontrou uma fenda dimensional comum. Deseja parar de subir a torre e seguir para a fenda?",
+        "es-ES": "Has descubierto una grieta dimensional corriente. ¿Quieres dejar de subir la torre y dirigirte a la grieta?"
+    },
+    "hXM7DQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "hnM7DQ": {
+        "en-US": "Head into the dimensional rift",
+        "pt-BR": "Seguir para a fenda dimensional",
+        "es-ES": "Dirigirse a la grieta dimensional"
+    },
+    "h3M7DQ": {
+        "en-US": "This is an important choice, so please decide carefully.",
+        "pt-BR": "Este é um momento de decisão importante, então escolha com cuidado.",
+        "es-ES": "Es un momento de decisión importante, así que decide con prudencia."
+    },
+    "iHM7DQ": {
+        "en-US": "^0000DD It seems you cannot enter this way yet. ^000000",
+        "pt-BR": "^0000DD Parece que ainda não é possível entrar por aqui ^000000",
+        "es-ES": "^0000DD Parece que aún no puedes entrar por aquí. ^000000"
+    },
+    "iXM7DQ": {
+        "en-US": "Once you enter a different dimensional rift, you cannot return to this location. Are you sure you want to decide this?",
+        "pt-BR": "Ao entrar em outra fenda dimensional, não será possível voltar a este local. Tem certeza de que deseja prosseguir?",
+        "es-ES": "Si caes por otra grieta dimensional, no podrás volver a esta ubicación. ¿Seguro que quieres decidirlo así?"
+    },
+    "inM7DQ": {
+        "en-US": "The higher you climb the tower, the weaker the goddess's seal may become. Can you handle that?",
+        "pt-BR": "Quanto mais você continuar subindo a torre, mais fraco o selo da deusa pode ficar. Conseguirá lidar com isso?",
+        "es-ES": "Cuanto más sigas subiendo la torre, más podría debilitarse el sello de la diosa. ¿Podrás hacerte cargo?"
+    },
+    "i3M7DQ": {
+        "en-US": "All right!",
+        "pt-BR": "Tudo bem!",
+        "es-ES": "¡De acuerdo!"
+    }
+}

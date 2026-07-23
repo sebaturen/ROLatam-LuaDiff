@@ -227,7 +227,7 @@
     "zezGBg": {
         "en-US": "[Property Expert]\nHah, only {0}... Are you training to be a mage? That's very little damage.",
         "pt-BR": "[Mago das Propriedades]\nSó {0} de dano...? Fraquinho demais!",
-        "es-ES": "[Experto en propiedades]\nJa, ¿solo {0}…? ¿Estás entrenando para ser clase Mago? Eso es muy poco daño."
+        "es-ES": "[Experto en propiedades]\nJa, ¿solo {0}...? ¿Estás entrenando para ser clase Mago? Eso es muy poco daño."
     },
     "zuzGBg": {
         "en-US": "[Property Expert]\nThat's not bad.",
@@ -247,7 +247,7 @@
     "0ezGBg": {
         "en-US": "[Property Expert]\nYou know that the Fire Egg you attacked is a ^FF0000Fire^000000monster, right..? Its name even has the word 'Fire' in it...",
         "pt-BR": "[Mago das Propriedades]\nUma curiosidade: os ovos que atacou são revestidos com uma camada fina e resistente, feita de cinzas e partículas do ar. Isso os torna duros até demais...",
-        "es-ES": "[Experto en propiedades]\nSabes que el Huevo de fuego que atacaste es un monstruo de ^FF0000Fuego^000000, ¿verdad? Hasta su nombre tiene la palabra Fuego…"
+        "es-ES": "[Experto en propiedades]\nSabes que el Huevo de fuego que atacaste es un monstruo de ^FF0000Fuego^000000, ¿verdad? Hasta su nombre tiene la palabra Fuego..."
     },
     "0uzGBg": {
         "en-US": "[Property Expert]\nI don't know if you remember, but ^FF0000Fire^000000 monsters are weak against ^0D6EF2Water^000000 attacks.",

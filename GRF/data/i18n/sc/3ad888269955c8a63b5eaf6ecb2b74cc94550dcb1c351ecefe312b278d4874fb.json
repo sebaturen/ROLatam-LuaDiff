@@ -7,7 +7,7 @@
     "YZS1": {
         "en-US": "[Turbo Track Yay!]\nSo...\nGive it to me.\nYou know...",
         "pt-BR": "[Turbo Track Yay!]\nEntão...\nMe dê isso.\nVocê sabe...",
-        "es-ES": "[¡Viva la Pista turbo!]\nAsí que…\n¡Dame lo que pido!\n¿Sabes…?"
+        "es-ES": "[¡Viva la Pista turbo!]\nAsí que...\n¡Dame lo que pido!\n¿Sabes...?"
     },
     "YpS1": {
         "en-US": "Hmm, something isn't right",
@@ -42,12 +42,12 @@
     "aJS1": {
         "en-US": "[Turbo Track Yay!]\nWhoa!\nMake sure that\nyou only enter a\nvalue that isn't\nmore than 29999\n...or a letter.",
         "pt-BR": "[Turbo Track Yay!]\nUau!\nCertifique-se de que\nvocê insira apenas um\nvalor que não seja\nmaior que 29999\n...ou uma letra.",
-        "es-ES": "[¡Viva la Pista turbo!]\n¡Vaya!\nAsegúrate\nde ingresar solamente\nun valor que no sea\nsuperior a 29999\n…o una letra."
+        "es-ES": "[¡Viva la Pista turbo!]\n¡Vaya!\nAsegúrate\nde ingresar solamente\nun valor que no sea\nsuperior a 29999\n...o una letra."
     },
     "aZS1": {
         "en-US": "[Turbo Track Yay!]\nSo...\nYou want to have\n{0} Arena Points?\nSO IT SHALL BE.",
         "pt-BR": "[Turbo Track Yay!]\nEntão...\nVocê deseja ter\n{0} Arena Points?\nASSIM SERÁ.",
-        "es-ES": "[¡Viva la Pista turbo!]\nAsí que…\n¿Quieres tener\n{0} puntos de Arena?\nASÍ SERÁ."
+        "es-ES": "[¡Viva la Pista turbo!]\nAsí que...\n¿Quieres tener\n{0} puntos de Arena?\nASÍ SERÁ."
     },
     "apS1": {
         "en-US": "[Turbo Track Yay!]\nI have the uncanny ability to set the total value of Turbo Track Points that you have. Enter a value from 0 to 29999.",
@@ -57,7 +57,7 @@
     "a5S1": {
         "en-US": "[Turbo Track Yay!]\nSo...\nYou want to have\n{0} Turbo Track Points?\nIT IS DONE.",
         "pt-BR": "[Turbo Track Yay!]\nEntão...\nVocê deseja ter\n{0} Pontos do Turbo Track?\nESTÁ FEITO.",
-        "es-ES": "[¡Viva la Pista turbo!]\nAsí que…\n¿Quieres tener\n{0} puntos de Pista turbo?\nYA ESTÁ."
+        "es-ES": "[¡Viva la Pista turbo!]\nAsí que...\n¿Quieres tener\n{0} puntos de Pista turbo?\nYA ESTÁ."
     },
     "bJS1": {
         "en-US": "[Turbo Track Yay!]\nMy, shall we say, powers, allow me to set your total number of Rank Points. Enter a value from 0 to 29999.",
@@ -72,7 +72,7 @@
     "bpS1": {
         "en-US": "[Turbo Track Yay!]\nYou...\nYou don't\nbelong...!",
         "pt-BR": "[Turbo Track Yay!]\nVocê...\nVocê não\npertence...!",
-        "es-ES": "[¡Viva la Pista turbo!]\nTú…\n¡no\nperteneces aquí…!"
+        "es-ES": "[¡Viva la Pista turbo!]\nTú...\n¡no\nperteneces aquí...!"
     },
     "b5S1": {
         "en-US": "TBT Manager",
@@ -107,17 +107,17 @@
     "dZS1": {
         "en-US": "[Turbo Track Yay!]\n^3355FFGame Winner Ranks...^000000\n1st:{0}\n2nd:{1}\n3rd:{2}\n4th:{3}\n5th:{4}",
         "pt-BR": "[Turbo Track Yay!]\n^3355FFRanking dos vencedores do jogo...^000000\n1º:{0}\n2º:{1}\n3º:{2}\n4º:{3}\n5º:{4}",
-        "es-ES": "[¡Viva la Pista turbo!]\n^3355FFClasificación de ganadores…^000000\nPrimer lugar: {0}\nSegundo lugar: {1}\nTercer lugar: {2}\nCuarto lugar: {3}\nQuinto lugar: {4}"
+        "es-ES": "[¡Viva la Pista turbo!]\n^3355FFClasificación de ganadores...^000000\nPrimer lugar: {0}\nSegundo lugar: {1}\nTercer lugar: {2}\nCuarto lugar: {3}\nQuinto lugar: {4}"
     },
     "dpS1": {
         "en-US": "[Turbo Track Yay!]\n^3355FFGame Winner's\ncurrent points...^000000\n1st:{0}\n2nd:{1}\n3rd:{2}\n4th:{3}\n5th:{4}",
         "pt-BR": "[Turbo Track Yay!]\n^3355FFPontos atuais\ndo vencedor do jogo...^000000\n1º:{0}\n2º:{1}\n3º:{2}\n4º:{3}\n5º:{4}",
-        "es-ES": "[¡Viva la Pista turbo!]\n^3355FFPuntos actuales\nde los ganadores…^000000\nPrimer lugar: {0}\nSegundo lugar: {1}\nTercer lugar: {2}\nCuarto lugar: {3}\nQuinto lugar: {4}"
+        "es-ES": "[¡Viva la Pista turbo!]\n^3355FFPuntos actuales\nde los ganadores...^000000\nPrimer lugar: {0}\nSegundo lugar: {1}\nTercer lugar: {2}\nCuarto lugar: {3}\nQuinto lugar: {4}"
     },
     "d5S1": {
         "en-US": "[Turbo Track Yay!]\n^3355FFTop Record and\nBest Player of Solo Mode...^000000\nTop Record {0}\nThe Best Player\n{1}",
         "pt-BR": "[Turbo Track Yay!]\n^3355FFMaior recorde e\nmelhor jogador do modo solo...^000000\nMaior recorde {0}\nMelhor jogador\n{1}",
-        "es-ES": "[¡Viva la Pista turbo!]\n^3355FFMejor récord\ny jugador en modo en solitario…^000000\nMejor récord: {0}\nMejor jugador:\n{1}"
+        "es-ES": "[¡Viva la Pista turbo!]\n^3355FFMejor récord\ny jugador en modo en solitario...^000000\nMejor récord: {0}\nMejor jugador:\n{1}"
     },
     "eJS1": {
         "en-US": "[Turbo Track Yay!]\n^3355FFThe Hall of Honor^000000.\nThe first\n {0}\nThe last\n {1}",
@@ -582,6 +582,6 @@
     "1JS1": {
         "en-US": "[Turbo Track Yay!]\nYou're...\nYou're not\nthe chosen one!",
         "pt-BR": "[Turbo Track Yay!]\nVocê...\nVocê não é\no escolhido!",
-        "es-ES": "[¡Viva la Pista turbo!]\n¡Si…\nni siquiera eres\nla persona elegida!"
+        "es-ES": "[¡Viva la Pista turbo!]\n¡Si...\nni siquiera eres\nla persona elegida!"
     }
 }

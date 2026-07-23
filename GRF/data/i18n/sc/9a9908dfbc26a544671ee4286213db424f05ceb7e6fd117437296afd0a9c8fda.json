@@ -7,7 +7,7 @@
     "AcMYAQ": {
         "en-US": "^3355FFHold on a second...\nYou're carrying too many\nitems in your Inventory.\nPlease put some of your\nitems in Kafra Storage to\nfree up more Inventory Space,\nand then come back here later.^000000",
         "pt-BR": "^3355FFEspere um segundo...\nVocê está carregando \nitens demais em seu inventário.\nPor favor, guarde alguns de seus\nitens no Armazém de Kafra \npara liberar mais espaço no seu inventário,\ne volte aqui depois.^000000",
-        "es-ES": "^3355FFEspera un segundo…\nLlevas demasiados\nobjetos en tu inventario.\nGuarda algunos objetos\nen el Almacén de Kafra para\nliberar espacio en el inventario\ny regresa más tarde.^000000"
+        "es-ES": "^3355FFEspera un segundo...\nLlevas demasiados\nobjetos en tu inventario.\nGuarda algunos objetos\nen el Almacén de Kafra para\nliberar espacio en el inventario\ny regresa más tarde.^000000"
     },
     "AsMYAQ": {
         "en-US": "[Urstialla]\nOh, are you an adventurer\nfrom the outside? Praise be\nto Freya! Her love and grace\nreaches all over the world,\ntouching even the hearts of\nforeigners, leading them here!",
@@ -42,7 +42,7 @@
     "CMMYAQ": {
         "en-US": "[{0}]\nWait...\nHow do you\nknow that all of\nthis happened?",
         "pt-BR": "[{0}]\nEspera...\nComo você\nsabe que tudo isso\naconteceu?",
-        "es-ES": "[{0}]\nEspera…\n¿Cómo\nsabes que sucedió \ntodo eso?"
+        "es-ES": "[{0}]\nEspera...\n¿Cómo\nsabes que sucedió \ntodo eso?"
     },
     "CcMYAQ": {
         "en-US": "[Urstialla]\nThese are truths that all\nof Freya's worshippers know.\nFreya delivers her messages to\nus through her mortal vessel,\nour beautiful pope that shines\nwith brilliant white light.",
@@ -62,32 +62,32 @@
     "DMMYAQ": {
         "en-US": "[Urstialla]\nI don't know, but Egapeo\nhas been sick for a while\nnow. I'm convinced that he\ndid something to anger Freya...\nAlthough he may deserve it,\nI'm doing my best to help him.",
         "pt-BR": "[Urstialla]\nEu não sei, mas Egapeo\nestá doente \njá faz algum tempo. Estou convencido de que ele\nfez algo para irritar Freya...\nEmbora ele possa merecer isso,\nestou fazendo o meu melhor para ajudá-lo.",
-        "es-ES": "[Urstialla]\nNo lo sé, pero Egapeo\nlleva mucho tiempo\nenfermo. Estoy segura de que\nhizo algo para enfurecer a Freya…\nAunque tal vez lo merezca,\nharé todo lo posible por ayudarlo."
+        "es-ES": "[Urstialla]\nNo lo sé, pero Egapeo\nlleva mucho tiempo\nenfermo. Estoy segura de que\nhizo algo para enfurecer a Freya...\nAunque tal vez lo merezca,\nharé todo lo posible por ayudarlo."
     },
     "DcMYAQ": {
         "en-US": "[{0}]\n...Wait. What?!",
         "pt-BR": "[{0}]\n...Espera. O quê?!",
-        "es-ES": "[{0}]\n…Espera. ¡¿Qué?!"
+        "es-ES": "[{0}]\n...Espera. ¡¿Qué?!"
     },
     "DsMYAQ": {
         "en-US": "[Urstialla]\nI know that if I pray hard\nenough and please Freya,\nshe will forgive my son and\nheal him of his illness.\nBut sometimes prayer isn't^FFFFFF        ^000000 enough... I need to pay tribute.",
         "pt-BR": "[Urstialla]\nEu sei que se eu rezar \no suficiente e agradar Freya,\nela perdoará meu filho e irá\ncurá-lo de sua doença.\nMas, às vezes, só a oração não é^FFFFFF ^000000 suficiente... Eu preciso oferecer um tributo.",
-        "es-ES": "[Urstialla]\nSé que si rezo lo\nsuficiente y agrado a Freya,\nella lo perdonará \ny lo sanará.\nPero, a veces, rezar no es^FFFFFF^000000 suficiente… Tengo que hacerle una ofrenda."
+        "es-ES": "[Urstialla]\nSé que si rezo lo\nsuficiente y agrado a Freya,\nella lo perdonará \ny lo sanará.\nPero, a veces, rezar no es^FFFFFF^000000 suficiente... Tengo que hacerle una ofrenda."
     },
     "D8MYAQ": {
         "en-US": "[Urstialla]\nI managed to acquire a\nnecklace of incomparable\nbeauty from the dwarves...\nHowever, the gems have dulled\nwith age and need to be shined^FFFFFF    ^000000 before I can offer them to Freya.",
         "pt-BR": "[Urstialla]\nConsegui adquirir um\ncolar de beleza incomparável\ncom os anões...\nNo entanto, as joias perderam o brilho\ncom a idade e precisam ser polidas^FFFFFF ^000000 antes que eu possa oferecê-las a Freya.",
-        "es-ES": "[Urstialla]\nConseguí un\ncollar de una belleza\ninigualable, forjado por enanos…\nPero sus gemas se opacaron\ncon el tiempo y necesito devolverles su brillo^FFFFFF^000000 antes de ofrecérselo a Freya."
+        "es-ES": "[Urstialla]\nConseguí un\ncollar de una belleza\ninigualable, forjado por enanos...\nPero sus gemas se opacaron\ncon el tiempo y necesito devolverles su brillo^FFFFFF^000000 antes de ofrecérselo a Freya."
     },
     "EMMYAQ": {
         "en-US": "[Urstialla]\nHowever, not just anyone can\nshine this special necklace\nforged by the Dwarves. I need\nsomeone that knows arcane magic\nto help me. I think there's only^FFFFFF  ^000000 one mage that can polish this...",
         "pt-BR": "[Urstialla]\nMas não é qualquer um que pode\npolir esse colar especial\nforjado pelos anões. Eu preciso\nde alguém que conheça magia arcana\npara me ajudar. Acredito que exista apenas ^FFFFFF ^000000 um mago que pode polir isso...",
-        "es-ES": "[Urstialla]\nPero no cualquier persona puede\npulir este collar especial\nforjado por enanos. Necesito a\nalguien que domine la magia arcana\ny pueda ayudarme. Solo hay^FFFFFF^000000 un mago capaz de hacerlo…"
+        "es-ES": "[Urstialla]\nPero no cualquier persona puede\npulir este collar especial\nforjado por enanos. Necesito a\nalguien que domine la magia arcana\ny pueda ayudarme. Solo hay^FFFFFF^000000 un mago capaz de hacerlo..."
     },
     "EcMYAQ": {
         "en-US": "[Urstialla]\nMaheo, the renown mage with\naccess to the most powerful\nmagic spells in the world,\nmust be able to clean this\nnecklace's gems! However...\nThere's no way I can reach him.",
         "pt-BR": "[Urstialla]\nMaheo, o renomado mago com\nacesso aos \nfeitiços mais poderosos do mundo,\ndeve ser capaz de limpar as joias desse\ncolar! No entanto...\nEu não tenho como chegar até ele.",
-        "es-ES": "[Urstialla]\nMaheo, el gran mago que\ndomina los hechizos\nmás poderosos del mundo.\n¡Él debe saber cómo limpiar\nlas gemas de este collar! Sin embargo…\nNo tengo forma de contactarlo."
+        "es-ES": "[Urstialla]\nMaheo, el gran mago que\ndomina los hechizos\nmás poderosos del mundo.\n¡Él debe saber cómo limpiar\nlas gemas de este collar! Sin embargo...\nNo tengo forma de contactarlo."
     },
     "EsMYAQ": {
         "en-US": "[Urstialla]\nYou see, Maheo left on a\njourney to subjugate the\nice monsters in the ice cave\nto the north, and he hasn't\nreturned yet. That place is too\ndangerous for people like me.",
@@ -97,7 +97,7 @@
     "E8MYAQ": {
         "en-US": "[Urstialla]\nI know that you adventurers\nregularly travel through those\nkinds of areas, so would you\nplease look for Maheo and ask\nhim to clean this necklace on^FFFFFF     ^000000 my behalf? Please, for my son...",
         "pt-BR": "[Urstialla]\nEu sei que vocês, aventureiros,\nviajam regularmente por esses\ntipos de áreas, então você poderia\nprocurar Maheo e pedir\npara ele polir esse colar em^FFFFFF ^000000 meu nome? Por favor, pelo meu filho...",
-        "es-ES": "[Urstialla]\nSé que los trotamundos como tú \nviajan regularmente por esas\nzonas. ¿Podrías\nbuscar a Maheo y pedirle\nque pula este collar por^FFFFFF^000000 mí? Por favor, hazlo por mi hijo…"
+        "es-ES": "[Urstialla]\nSé que los trotamundos como tú \nviajan regularmente por esas\nzonas. ¿Podrías\nbuscar a Maheo y pedirle\nque pula este collar por^FFFFFF^000000 mí? Por favor, hazlo por mi hijo..."
     },
     "FMMYAQ": {
         "en-US": "But that's none of my business!",
@@ -112,7 +112,7 @@
     "FsMYAQ": {
         "en-US": "[Urstialla]\nI... I see.\nI thought that Freya\nhad led you to me, but\nmaybe my prayers haven't\nbeen answered yet. Perhaps\nI need to pray more fervently?",
         "pt-BR": "[Urstialla]\nEu... Eu entendo.\nPensei que Freya\ntivesse trazido você até mim, mas\ntalvez minhas preces não tenham sido\natendidas ainda. Talvez\neu precise orar com mais fervor?",
-        "es-ES": "[Urstialla]\nYa… Ya veo.\nPensé que Freya\nte había guiado hasta mí, pero\ntal vez mis plegarias no\nhan sido escuchadas aún. Quizás\ntenga que rezar con más devoción."
+        "es-ES": "[Urstialla]\nYa... Ya veo.\nPensé que Freya\nte había guiado hasta mí, pero\ntal vez mis plegarias no\nhan sido escuchadas aún. Quizás\ntenga que rezar con más devoción."
     },
     "F8MYAQ": {
         "en-US": "[Urstialla]\nThank you so much!\nPlease, take care of this\nnecklace and ask Maheo\nto restore its luster. Then,\nit'll be a fitting tribute to\nour loving goddess Freya.",
@@ -142,7 +142,7 @@
     "HMMYAQ": {
         "en-US": "[{0}]\nDon't worry.\nLet's just say that\nthis was a worthwhile...\n^666666experience^000000 for me.",
         "pt-BR": "[{0}]\nNão se preocupe.\nVamos apenas dizer que\nessa foi uma experiência que...\n^666666valeu a pena^000000 para mim.",
-        "es-ES": "[{0}]\nNo te preocupes.\nDigamos que\nesto fue una experiencia…\n^666666valiosa^000000 para mí."
+        "es-ES": "[{0}]\nNo te preocupes.\nDigamos que\nesto fue una experiencia...\n^666666valiosa^000000 para mí."
     },
     "HcMYAQ": {
         "en-US": "[Urstialla]\n.........\n............\n...............\nMay Freya forgive\nyou for that awful joke.",
@@ -152,7 +152,7 @@
     "HsMYAQ": {
         "en-US": "[{0}]\nThe necklace...!\nWh-where did I put it?!",
         "pt-BR": "[{0}]\nO colar...!\nOnde eu o coloquei?!",
-        "es-ES": "[{0}]\n¡El collar…!\n¡¿D-dónde lo puse?!"
+        "es-ES": "[{0}]\n¡El collar...!\n¡¿D-dónde lo puse?!"
     },
     "H8MYAQ": {
         "en-US": "[Urstialla]\nMay Freya always\nprotect and guide you\nwith her everflowing\ngrace and wisdom.",
@@ -167,7 +167,7 @@
     "IcMYAQ": {
         "en-US": "Hello? Can anyone hear me? I'm... I'm kind of stuck!",
         "pt-BR": "Olá? Alguém pode me ouvir? Eu estou... Estou meio preso!",
-        "es-ES": "¿Hola? ¿Alguien me escucha? Estoy… Estoy atascado."
+        "es-ES": "¿Hola? ¿Alguien me escucha? Estoy... Estoy atascado."
     },
     "IsMYAQ": {
         "en-US": "Please! I can't move! Hello? Somebody? I think I might need help!",
@@ -192,7 +192,7 @@
     "JsMYAQ": {
         "en-US": "[Man Stuck in Ice]\nI'll explain everything\nlater! Just... Just get\nthis ice off of me!",
         "pt-BR": "[Homem preso no gelo]\nEu explico tudo\ndepois! Apenas... Apenas tire\nesse gelo de mim!",
-        "es-ES": "[Atrapado en el hielo]\n¡Te lo explicaré \ndespués! Solo… ¡Solo sácame\nde aquí!"
+        "es-ES": "[Atrapado en el hielo]\n¡Te lo explicaré \ndespués! Solo... ¡Solo sácame\nde aquí!"
     },
     "J8MYAQ": {
         "en-US": "[{0}]\n............\n...............\nFIRE BALL!",
@@ -217,17 +217,17 @@
     "K8MYAQ": {
         "en-US": "[{0}]\nI can't...\nI can't even scratch it.\nDo you have any ideas?",
         "pt-BR": "[{0}]\nNão consigo...\nNão consigo nem mesmo arranhá-lo.\nVocê tem alguma outra ideia?",
-        "es-ES": "[{0}]\nNo puede ser…\nNo le hice ni un raspón.\n¿Tienes alguna idea?"
+        "es-ES": "[{0}]\nNo puede ser...\nNo le hice ni un raspón.\n¿Tienes alguna idea?"
     },
     "LMMYAQ": {
         "en-US": "[Man Stuck in Ice]\nThis is so humiliating...\nMe, the greatest mage\nof our age, Maheo, stuck\nin this pillar of ice...",
         "pt-BR": "[Homem preso no gelo]\nIsso é tão humilhante...\nEu, o maior mago\nde nossa era, Maheo, preso\nneste pilar de gelo...",
-        "es-ES": "[Atrapado en el hielo]\nQué humillante…\nYo, el gran mago\nMaheo, atrapado\nen un bloque de hielo…"
+        "es-ES": "[Atrapado en el hielo]\nQué humillante...\nYo, el gran mago\nMaheo, atrapado\nen un bloque de hielo..."
     },
     "LcMYAQ": {
         "en-US": "[{0}]\nWait...\nYou're Maheo?",
         "pt-BR": "[{0}]\nEspere...\nVocê é Maheo?",
-        "es-ES": "[{0}]\nEspera…\n¿Tú eres Maheo?"
+        "es-ES": "[{0}]\nEspera...\n¿Tú eres Maheo?"
     },
     "LsMYAQ": {
         "en-US": "[Maheo]\nIt's true. You're speaking to\nMaheo, the greatest mage,\nand master of arcane spells.\nI know magic that even High\nWizards can never hope to\nlearn in their lifetimes!",
@@ -237,7 +237,7 @@
     "L8MYAQ": {
         "en-US": "[Maheo]\nDespite my greatness,\nI'm a humble man. See?\nThat's why I always wear\nthis Mage uniform...\nTo remind myself of\nthe value of humility.",
         "pt-BR": "[Maheo]\nMas apesar de minha grandeza,\nsou um homem humilde. Está vendo?\nÉ por isso que eu sempre uso\nesse uniforme de Mago...\nPara me lembrar do\nvalor da humildade.",
-        "es-ES": "[Maheo]\nPero, a pesar de mi grandeza,\nsoy un hombre humilde. Mira,\npor eso siempre uso\neste uniforme de mago…\nPara recordarme\nel valor de la humildad."
+        "es-ES": "[Maheo]\nPero, a pesar de mi grandeza,\nsoy un hombre humilde. Mira,\npor eso siempre uso\neste uniforme de mago...\nPara recordarme\nel valor de la humildad."
     },
     "MMMYAQ": {
         "en-US": "[{0}]\nSo how did you get\nstuck in all of this ice?",
@@ -252,12 +252,12 @@
     "MsMYAQ": {
         "en-US": "[{0}]\n...Huh?",
         "pt-BR": "[{0}]\n...Hã?",
-        "es-ES": "[{0}]\n…¿Qué?"
+        "es-ES": "[{0}]\n...¿Qué?"
     },
     "M8MYAQ": {
         "en-US": "[Maheo]\nYes, this wouldn't have\nhappened if I wasn't so\nhumble... Humble and kind.\nIt all started when I thought\nof this cave and how people\nsometimes come here to get ice.",
         "pt-BR": "[Maheo]\nSim, isso não teria acontecido\nse eu não fosse tão\nhumilde... Humilde e gentil.\nTudo começou quando pensei\nnessa caverna e em como as pessoas\nàs vezes vêm aqui para pegar gelo.",
-        "es-ES": "[Maheo]\nSí, esto no habría\npasado si no fuera tan\nhumilde… Humilde y generoso.\nTodo comenzó cuando pensé \nen esta cueva, en cómo la gente viene\naquí a recoger hielo de vez en cuando."
+        "es-ES": "[Maheo]\nSí, esto no habría\npasado si no fuera tan\nhumilde... Humilde y generoso.\nTodo comenzó cuando pensé \nen esta cueva, en cómo la gente viene\naquí a recoger hielo de vez en cuando."
     },
     "NMMYAQ": {
         "en-US": "[Maheo]\nI then decided that\nI would exterminate these\nevil monsters for the good\nof the people! The citizens\nwould feel protected, and\nI'd be recognized as a hero!",
@@ -267,7 +267,7 @@
     "NcMYAQ": {
         "en-US": "[{0}]\nOkay... I suppose\nThat sounds normal\nenough. Go on...",
         "pt-BR": "[{0}]\nCerto... Suponho que\nIsso parece normal\no suficiente. Continue...",
-        "es-ES": "[{0}]\nBueno… Supongo\nque suena bastante\nnormal. Continúa…"
+        "es-ES": "[{0}]\nBueno... Supongo\nque suena bastante\nnormal. Continúa..."
     },
     "NsMYAQ": {
         "en-US": "[Maheo]\nI valiantly battled\nthe Snowiers. They were\nno match for my magic!\nAnd so, I decided to just\ndestroy all of them with\none cast of a magic spell.",
@@ -277,7 +277,7 @@
     "N8MYAQ": {
         "en-US": "[Maheo]\nYou know Meteor Storm?\nI know another spell like\nthat... But it's two hundred\ntimes more powerful! Yes...\nIt has the power of a million\nexploding suns! But then...",
         "pt-BR": "[Maheo]\nVocê conhece a Chuva de Meteoros?\nEu conheço outro feitiço\ncomo esse... Mas é duzentas\nvezes mais poderoso! Sim...\nEle tem o poder de um milhão de\nsóis em explosão! Mas ele...",
-        "es-ES": "[Maheo]\n¿Conoces la Tormenta de meteoros?\nBueno, yo sé un hechizo\nparecido… ¡pero doscientasveces\nmás poderoso! Sí…\n¡El poder de la explosión\nde un millón de soles! Pero entonces…"
+        "es-ES": "[Maheo]\n¿Conoces la Tormenta de meteoros?\nBueno, yo sé un hechizo\nparecido... ¡pero doscientasveces\nmás poderoso! Sí...\n¡El poder de la explosión\nde un millón de soles! Pero entonces..."
     },
     "OMMYAQ": {
         "en-US": "[Maheo]\nIt was too powerful!\nThere were tremors, and\nflying shards of ice, and\nall the flame caused my\nclothes to catch on fire!",
@@ -287,7 +287,7 @@
     "OcMYAQ": {
         "en-US": "[{0}]\nYou...\nYou set fire\nto your clothes?",
         "pt-BR": "[{0}]\nVocê...\nVocê colocou fogo\nnas suas próprias roupas?",
-        "es-ES": "[{0}]\n¿Te…?\n¿Te prendiste fuego\nla vestimenta?"
+        "es-ES": "[{0}]\n¿Te...?\n¿Te prendiste fuego\nla vestimenta?"
     },
     "OsMYAQ": {
         "en-US": "[Maheo]\nYes, but not to worry.\nI quickly extinguished\nthose flames with my\npowerful Frost Diver spell!",
@@ -317,7 +317,7 @@
     "P8MYAQ": {
         "en-US": "[Maheo]\nThat is, as soon\nas I can get out\nof this ice. Hmm...\nBut I doubt normal\nmagic will be able\nto melt all of this.",
         "pt-BR": "[Maheo]\nIsto é, assim que\neu conseguir sair\ndesse gelo. Hum...\nMas duvido que magia comum\nseja capaz de\nderreter tudo isso.",
-        "es-ES": "[Maheo]\nEso sí, primero\nnecesito salir de este\nbloque de hielo. Mmm…\nDudo que la magia\nnormal pueda\nderretirlo."
+        "es-ES": "[Maheo]\nEso sí, primero\nnecesito salir de este\nbloque de hielo. Mmm...\nDudo que la magia\nnormal pueda\nderretirlo."
     },
     "QMMYAQ": {
         "en-US": "[{0}]\nThen how are we\nsupposed to get\nyou out of there?",
@@ -332,7 +332,7 @@
     "QsMYAQ": {
         "en-US": "[Maheo]\nMy master may not have\nmy sheer talent, but he\nis very knowledgable in\nthe ways of magic. Please...\nAsk him for help. He should\nbe reading near Freya's Spring.",
         "pt-BR": "[Maheo]\nMeu mestre pode não ter\no mesmo talento que eu, mas ele\né um grande conhecedor dos\ncaminhos da magia. Por favor...\nPeça ajuda a ele. Ele deve\nestar lendo perto da Fonte de Freya.",
-        "es-ES": "[Maheo]\nMi maestro tal vez no tenga\nmi talento, pero\nsabe muchísimo\nde magia. Por favor…\nPídele ayuda. Seguro\nestá leyendo cerca del Fuente de Freya."
+        "es-ES": "[Maheo]\nMi maestro tal vez no tenga\nmi talento, pero\nsabe muchísimo\nde magia. Por favor...\nPídele ayuda. Seguro\nestá leyendo cerca del Fuente de Freya."
     },
     "Q8MYAQ": {
         "en-US": "[Maheo]\nOh, you're back!\nSo did my master have\nany ideas on breaking\nthis cold prison of ice?",
@@ -372,7 +372,7 @@
     "SsMYAQ": {
         "en-US": "[Maheo]\nFinally...!\nAfter all of this\ntime! I'm free!",
         "pt-BR": "[Maheo]\nFinalmente...!\nDepois de todo esse\ntempo! Estou livre!",
-        "es-ES": "[Maheo]\n¡Por fin…!\n¡Después de todo este\ntiempo! ¡Soy libre!"
+        "es-ES": "[Maheo]\n¡Por fin...!\n¡Después de todo este\ntiempo! ¡Soy libre!"
     },
     "S8MYAQ": {
         "en-US": "[Maheo]\nNow, all of the monsters\nin this cave will taste the\nwrath of the greatest mage in\nthe world! I'll have my revenge,^FFFFFF  ^000000 and give those beasts double\nthe pain that they gave me!",
@@ -397,12 +397,12 @@
     "T8MYAQ": {
         "en-US": "[Maheo]\nOh! This was made by\nthe Dwarves, wasn't it?\nIt looks like they've made\nyet another masterpiece.\nShame that this is so\ntarnished, though...",
         "pt-BR": "[Maheo]\nAh! Isso foi feito\npelos anões, não foi?\nParece que eles fizeram\nmais uma obra-prima.\nÉ uma pena que esteja tão\nmanchado, no entanto...",
-        "es-ES": "[Maheo]\n¡Ah! Esto lo hicieron\nenanos, ¿verdad?\nParece otra\nde sus obras maestras.\nQué pena que esté \ntan sucio…"
+        "es-ES": "[Maheo]\n¡Ah! Esto lo hicieron\nenanos, ¿verdad?\nParece otra\nde sus obras maestras.\nQué pena que esté \ntan sucio..."
     },
     "UMMYAQ": {
         "en-US": "[Maheo]\nLet's see, now...\n...............................",
         "pt-BR": "[Maheo]\nVamos ver, agora...\n...............................",
-        "es-ES": "[Maheo]\nVamos a ver…\n..............................."
+        "es-ES": "[Maheo]\nVamos a ver...\n..............................."
     },
     "UcMYAQ": {
         "en-US": "^3355FF*Ting*^000000",
@@ -412,7 +412,7 @@
     "UsMYAQ": {
         "en-US": "[Maheo]\nWell, I suppose this\nis where we part ways.\nHere, take this as a gift...\nAnd please don't mention\nthe fact that I trapped myself\nin ice to anyone else, okay?",
         "pt-BR": "[Maheo]\nSuponho que aqui\né onde nos separamos.\nAqui, aceite isso como um presente...\nE, por favor, não mencione\no fato de eu ter me aprisionado\nno gelo para mais ninguém, está bem?",
-        "es-ES": "[Maheo]\nBueno, supongo que\naquí nos despedimos.\nToma esto como regalo…\nY, por favor, no le cuentes\na nadie que quedé atrapado\nen el hielo, ¿de acuerdo?"
+        "es-ES": "[Maheo]\nBueno, supongo que\naquí nos despedimos.\nToma esto como regalo...\nY, por favor, no le cuentes\na nadie que quedé atrapado\nen el hielo, ¿de acuerdo?"
     },
     "U8MYAQ": {
         "en-US": "Snowier",
@@ -427,12 +427,12 @@
     "VcMYAQ": {
         "en-US": "[Mohadian]\nWelcome to--\nEr? Hello?\nExcuse me?",
         "pt-BR": "[Mohadian]\nBem-vindo ao...\nHã? Olá?\nCom licença?",
-        "es-ES": "[Mohadian]\nTe damos la bienvenida a…\n¿Eh? ¿Hola?\n¿Disculpa?"
+        "es-ES": "[Mohadian]\nTe damos la bienvenida a...\n¿Eh? ¿Hola?\n¿Disculpa?"
     },
     "VsMYAQ": {
         "en-US": "[Mohadian]\nGosh, it's so hot and\ndry around here lately...\nThis heat wave is really\nsapping everyone's strength!\nIf... If only we had some\nconvenient way to cool down...",
         "pt-BR": "[Mohadian]\nPuxa, está tão quente e\nseco por aqui ultimamente...\nEssa onda de calor \nestá acabando com as forças de todo mundo!\nSe... Se ao menos tivéssemos alguma\nforma conveniente de nos refrescarmos...",
-        "es-ES": "[Mohadian]\nVaya, hace tanto calor y\nestá tan seco…\n¡Esta ola de calor está \nacabando con todos!\nSi… Si tan solo tuviéramos\nuna forma de refrescarnos…"
+        "es-ES": "[Mohadian]\nVaya, hace tanto calor y\nestá tan seco...\n¡Esta ola de calor está \nacabando con todos!\nSi... Si tan solo tuviéramos\nuna forma de refrescarnos..."
     },
     "V8MYAQ": {
         "en-US": "[Mohadian]\nI work at the bar around\nhere, and I've heard good\nthings about you. Some of\nthe customers've heard that\nyou helped Urstialla by going\ninto that dangerous Ice Cave.",
@@ -487,12 +487,12 @@
     "YcMYAQ": {
         "en-US": "[Mohadian]\nYes, I think I might\neven be able to use these\nto make Arunafeltz Glacial\nWine. Anyway, let me see\nhow many you've brought me...",
         "pt-BR": "[Mohadian]\nSim, acho que posso\naté mesmo ser capaz de usar isso\npara fazer Vinho Glacial de Arunafeltz. De qualquer forma, deixe-me ver\nquantos você trouxe...",
-        "es-ES": "[Mohadian]\nSí, creo que hasta\npodría usarlos\npara preparar Vino glacial de\nArunafeltz. Bueno, veamos\ncuántos trajiste…"
+        "es-ES": "[Mohadian]\nSí, creo que hasta\npodría usarlos\npara preparar Vino glacial de\nArunafeltz. Bueno, veamos\ncuántos trajiste..."
     },
     "YsMYAQ": {
         "en-US": "[Mohadian]\n{0} Glacial Hearts\nat 375 zeny each...\nLooks like I owe you\n{1} zeny. Here you are!\nIt's always a pleasure\ndoing business with you~",
         "pt-BR": "[Mohadian]\n{0} Corações Glaciais\na 375 Zeny cada...\nParece que eu te devo\n{1} Zeny. Aqui está!\nÉ sempre um prazer\nfazer negócios com você!",
-        "es-ES": "[Mohadian]\n{0} Corazones glaciales\na 375 zeny cada uno…\nParece que te debo\n{1}zeny. ¡Aquí tienes!\nSiempre es un placer\nhacer negocios contigo."
+        "es-ES": "[Mohadian]\n{0} Corazones glaciales\na 375 zeny cada uno...\nParece que te debo\n{1}zeny. ¡Aquí tienes!\nSiempre es un placer\nhacer negocios contigo."
     },
     "Y8MYAQ": {
         "en-US": "[Mohadian]\nBring me some Glacial\nHearts from the Ice Cave,\nand I'll be sure to compensate\nyou with some zeny. This is a\nreally good deal for the two\nof us when you think about it.",
@@ -522,12 +522,12 @@
     "aMMYAQ": {
         "en-US": "[Hamion]\nHe froze himself?!\nHahahaha! Some genius!\nOh, well, I suppose he still\nhas plenty to learn about\ncharacter, if not magic.",
         "pt-BR": "[Hamion]\nEle se congelou?!\nHahahaha! Que gênio!\nFazer o quê, acho que ele ainda\ntem muito a aprender sobre\ncaráter, e talvez magia.",
-        "es-ES": "[Hamion]\n¡¿Se congeló a sí mismo?!\n¡Ja,ja,ja,ja! ¡Vaya genio!\nBueno, supongo que aún\nle falta mucho por aprender,\nde carácter… y de magia."
+        "es-ES": "[Hamion]\n¡¿Se congeló a sí mismo?!\n¡Ja,ja,ja,ja! ¡Vaya genio!\nBueno, supongo que aún\nle falta mucho por aprender,\nde carácter... y de magia."
     },
     "acMYAQ": {
         "en-US": "[Hamion]\nLet's see, let's see...\nThis book ought to have\nthe answer. Mmm... Ah!\nPage 42! I need to construct\nan artifact in order to break\nthat mystical ice. Mmm...",
         "pt-BR": "[Hamion]\nVejamos, vejamos...\nEste livro deve ter\na resposta. Hum... Ah!\nPágina 42! Eu preciso construir\num artefato para quebrar\nesse gelo místico. Hum...",
-        "es-ES": "[Hamion]\nA ver, a ver…\nEste libro debería decirme\nqué hacer. Mmm… ¡Ah!\n¡Página 42! Necesito construir\nun artefacto para romper\nese hielo mágico. Mmm…"
+        "es-ES": "[Hamion]\nA ver, a ver...\nEste libro debería decirme\nqué hacer. Mmm... ¡Ah!\n¡Página 42! Necesito construir\nun artefacto para romper\nese hielo mágico. Mmm..."
     },
     "asMYAQ": {
         "en-US": "[Hamion]\nWould you help\nme? I need to get\n^4D4DFF5 Rough Winds^000000,\n^4D4DFF1 Hammer^000000, and\n^4D4DFF1 Blank Scroll^000000.",
@@ -537,7 +537,7 @@
     "a8MYAQ": {
         "en-US": "[Hamion]\nYou can get Blank Scrolls\nin the Sage Academy in Juno.\nAh, and the Hammer is a weapon,\nnot one of those smithing tools.^FFFFFF  ^000000 I'd help you if I could, but...\nI'm just smart, not strong...",
         "pt-BR": "[Hamion]\nVocê pode obter Pergaminhos em Branco\nna Academia de Sábios em Juno.\nAh, e o martelo é uma arma,\ne não uma daquelas ferramentas de ferreiro. ^FFFFFF ^000000 Eu o ajudaria se pudesse, mas...\nSou apenas inteligente, não forte...",
-        "es-ES": "[Hamion]\nPuedes conseguir Pergaminos en blanco\nen la Academia de sabios de Juno.\nAh, y el Martillo es un arma,\nno una de esas herramientas de herrería.^FFFFFF^000000 Te ayudaría si pudiera, pero…\nsoy más sabio que fuerte…"
+        "es-ES": "[Hamion]\nPuedes conseguir Pergaminos en blanco\nen la Academia de sabios de Juno.\nAh, y el Martillo es un arma,\nno una de esas herramientas de herrería.^FFFFFF^000000 Te ayudaría si pudiera, pero...\nsoy más sabio que fuerte..."
     },
     "bMMYAQ": {
         "en-US": "[Hamion]\nGreat, you have everything\nI need! But first, would you\nmake sure that you only have\n1 Hammer in your inventory?\nIf you have more than one,\nI might take the wrong Hammer.",
@@ -557,12 +557,12 @@
     "b8MYAQ": {
         "en-US": "[Hamion]\nAlright, it's always\nbetter to be safe than\nsorry! If only Maheo was\na little more careful, more\nlike you are, then maybe this\nwouldn't have happened...",
         "pt-BR": "[Hamion]\nÓtimo, é sempre\nmelhor prevenir do que remediar!\nSe ao menos o Maheo fosse\num pouco mais cuidadoso, assim\ncomo você, então talvez isso\nnão tivesse acontecido...",
-        "es-ES": "[Hamion]\nDe acuerdo. ¡Más\nvale prevenir que\ncurar! Si Maheo hubiera sido\nun poco más cuidadoso,\ncomo tú, tal vez esto\nno habría ocurrido…"
+        "es-ES": "[Hamion]\nDe acuerdo. ¡Más\nvale prevenir que\ncurar! Si Maheo hubiera sido\nun poco más cuidadoso,\ncomo tú, tal vez esto\nno habría ocurrido..."
     },
     "cMMYAQ": {
         "en-US": "[Hamion]\nOkay, I'll take your\nword for it. Now, let's\nbring the artifact forging\nprocess. Hmmm... Let me\nreview it here on page 45...",
         "pt-BR": "[Hamion]\nCerto, vou acreditar em você. Agora, vamos\ncomeçar o processo de forja de artefatos.\nHum... Só vou\nrevisar ele aqui na página 45...",
-        "es-ES": "[Hamion]\nBien, te tomo la\npalabra. Ahora, pongámonos\nmanos a la obra y forjemos\nel artefacto. Mmm… Déjame ver\nla página 45…"
+        "es-ES": "[Hamion]\nBien, te tomo la\npalabra. Ahora, pongámonos\nmanos a la obra y forjemos\nel artefacto. Mmm... Déjame ver\nla página 45..."
     },
     "ccMYAQ": {
         "en-US": "[Hamion]\nHere we go...!",
@@ -577,7 +577,7 @@
     "c8MYAQ": {
         "en-US": "[Hamion]\n...Aaaand now it's done.\nHere, take this Wind Hammer\nand use it to free Maheo.\nThis hammer will only work\nonce, so make sure that you\nsmash that ice properly!",
         "pt-BR": "[...]\n...E está pronto.\nAqui, pegue esse Martelo do Vento\ne use-o para libertar o Maheo.\nEsse martelo só vai funcionar\numa vez, portanto, certifique-se de que você\nacerte o gelo corretamente!",
-        "es-ES": "[Hamion]\n…Yyyy, listo.\nToma el Martillo de viento\ny úsalo para liberar a Maheo.\nEste martillo solo funciona\nuna vez, ¡así que asegúrate de\nromper bien ese hielo!"
+        "es-ES": "[Hamion]\n...Yyyy, listo.\nToma el Martillo de viento\ny úsalo para liberar a Maheo.\nEste martillo solo funciona\nuna vez, ¡así que asegúrate de\nromper bien ese hielo!"
     },
     "dMMYAQ": {
         "en-US": "[Hamion]\nI need to create\na magical artifact\nto break the ice that's\ntrapping Maheo. Would you\nplease help me? There's no\nway I can get the items myself!",
@@ -592,7 +592,7 @@
     "dsMYAQ": {
         "en-US": "[Hamion]\nThere are always\nsinging birds and\nflitting butterflies\nall over this place...\nIt's so relaxing, and\nsuch a great place to read.",
         "pt-BR": "[Hamion]\nHá sempre\npássaros cantando e\nborboletas voando\npor todo esse lugar...\nÉ tão relaxante e é\num ótimo lugar para ler.",
-        "es-ES": "[Hamion]\nSiempre hay\naves cantoras y\nmariposas revoloteando\npor todos lados…\nEs tan relajante, y\nun sitio perfecto para leer."
+        "es-ES": "[Hamion]\nSiempre hay\naves cantoras y\nmariposas revoloteando\npor todos lados...\nEs tan relajante, y\nun sitio perfecto para leer."
     },
     "d8MYAQ": {
         "en-US": "Blazing Fire",
@@ -602,7 +602,7 @@
     "eMMYAQ": {
         "en-US": "^3355FFThe flames in this fire\nbarrier crackle with magic\npower. There's no way that\nyou can put this fire out\nwith conventional means.^000000",
         "pt-BR": "^3355FFAs chamas dessa barreira de fogo\ncrepitam com poder mágico.\nNão há como\nvocê apagar esse fogo\nusando meios convencionais.^000000",
-        "es-ES": "^3355FFLas llamas de esta barrera\nde fuego crepitan con poder\ncelestial… No hay forma de\napagar este fuego\ncon medios convencionales.^000000"
+        "es-ES": "^3355FFLas llamas de esta barrera\nde fuego crepitan con poder\ncelestial... No hay forma de\napagar este fuego\ncon medios convencionales.^000000"
     },
     "ecMYAQ": {
         "en-US": "Sprinkle Freezing Snow Powder",
@@ -632,12 +632,12 @@
     "fsMYAQ": {
         "en-US": "Someone has put out Thor's flames... Infidel!",
         "pt-BR": "Alguém apagou as chamas de Thor... Infiel!",
-        "es-ES": "Alguien apagó las llamas de Thor… ¡Traición!"
+        "es-ES": "Alguien apagó las llamas de Thor... ¡Traición!"
     },
     "f8MYAQ": {
         "en-US": "I, Ktullanux, must protect and preserve Thor's fierce flames...",
         "pt-BR": "Eu, Ktullanux, devo proteger e preservar as chamas ferozes de Thor...",
-        "es-ES": "Yo, Ktullanux, debo proteger y preservar las feroces llamas de Thor…"
+        "es-ES": "Yo, Ktullanux, debo proteger y preservar las feroces llamas de Thor..."
     },
     "gMMYAQ": {
         "en-US": "As the master of this cave, I vow vengeance!",
@@ -647,7 +647,7 @@
     "gcMYAQ": {
         "en-US": "Only a human would be so foolhardy...",
         "pt-BR": "Somente um humano seria tão imprudente...",
-        "es-ES": "Solo un ser humano podría ser tan imprudente…"
+        "es-ES": "Solo un ser humano podría ser tan imprudente..."
     },
     "gsMYAQ": {
         "en-US": "Your curiosity will cost you, human.",
@@ -672,7 +672,7 @@
     "hsMYAQ": {
         "en-US": "*Pzzzzz... Pzzzz...*",
         "pt-BR": "*Pzzzzz... Pzzzz...*",
-        "es-ES": "*Pzzzzz… Pzzzzz…*"
+        "es-ES": "*Pzzzzz... Pzzzzz...*"
     },
     "h8MYAQ": {
         "en-US": "Please try again after installing a special item.",
@@ -742,7 +742,7 @@
     "lMMYAQ": {
         "en-US": "High Priest Niren acted as\ntheir maternity nurse and\ncame to Rachel, where the\ntwins were cared for by the\nPriests. They all argued\nover the boy's ultimate fate...",
         "pt-BR": "A Suma Sacerdotisa Niren atuou como\nenfermeira obstetra deles e\nveio para Rachel, onde os gêmeos\nforam cuidados pelos\nSacerdotes. Todos eles discutiram\nsobre o destino final do garoto...",
-        "es-ES": "La Suma sacerdotisa Niren fue\nsu enfermera de maternidad.\nViajó a Rachel, donde los\nSacerdotes cuidaron a los\ngemelos. Todos discutían\nsobre qué hacer con el chico…"
+        "es-ES": "La Suma sacerdotisa Niren fue\nsu enfermera de maternidad.\nViajó a Rachel, donde los\nSacerdotes cuidaron a los\ngemelos. Todos discutían\nsobre qué hacer con el chico..."
     },
     "lcMYAQ": {
         "en-US": "No one doubted that the boy\nwas spiritually powerful, but\nwas he a sacred complement to\nhis sister, or a great evil that^FFFFFF  ^333333 was in direct opposition to\nher? It was a grueling debate.",
@@ -847,7 +847,7 @@
     "qcMYAQ": {
         "en-US": "[Girl]\nMy daddy says the pope is\nvery special to us because\nshe's Freya. I mean, Freya\nis a goddess, but she also\nbecomes people like us to talk^FFFFFF    ^000000 to us. Well, just the priests...",
         "pt-BR": "[Garota]\nMeu pai diz que a Papisa é\nmuito especial para nós porque\nela é Freya. Quero dizer, Freya\né uma deusa, mas ela também\nse transforma em uma pessoa como nós para falar^FFFFFF ^000000 com a gente. Bom, só com os sacerdotes...",
-        "es-ES": "[Chica]\nTambién dice que la papisa\nes muy especial porque es\nFreya en persona. O sea, Freya\nes una diosa, pero a veces\ntoma forma humana para^FFFFFF^000000 hablarnos. Bueno, solo con los Sacerdotes…"
+        "es-ES": "[Chica]\nTambién dice que la papisa\nes muy especial porque es\nFreya en persona. O sea, Freya\nes una diosa, pero a veces\ntoma forma humana para^FFFFFF^000000 hablarnos. Bueno, solo con los Sacerdotes..."
     },
     "qsMYAQ": {
         "en-US": "[Girl]\nI don't get it all,\nbut it sounds like\nshe's a secret princess.\nDoesn't that sound so nice?\nBut when I tell that to Daddy,\nhe gets so mad at me! Oh, well.",
@@ -882,7 +882,7 @@
     "sMMYAQ": {
         "en-US": "[Kid]\nAll you gotta do is...\nUgh! Turn this knob\nand... Grrrrah! Open\nthis door... But it's\nalmost impossible...",
         "pt-BR": "[Kid]\nTudo o que você precisa fazer é...\nUgh! Girar esse botão\ne... Ah! Abrir\nesta porta... Mas é\nquase impossível...",
-        "es-ES": "[Niño]\nSolo tienes que…\n¡Uf! Girar la perilla\ny… ¡Uffff! Abrir\nesta puerta… Pero es\ncasi imposible…"
+        "es-ES": "[Niño]\nSolo tienes que...\n¡Uf! Girar la perilla\ny... ¡Uffff! Abrir\nesta puerta... Pero es\ncasi imposible..."
     },
     "scMYAQ": {
         "en-US": "Anku",
@@ -892,12 +892,12 @@
     "ssMYAQ": {
         "en-US": "[Anku]\nIt's been so long\nalready! I can't find\nHimuhimu! Hide-and-Seek\nshouldn't take this long...",
         "pt-BR": "[Anku]\nJá faz tanto tempo!\nNão consigo encontrar o\nHimuhimu! Esconde-esconde\nnão deveria demorar tanto...",
-        "es-ES": "[Anku]\n¡Pasó tanto\ntiempo! ¡No encuentro a\nHimuhimu! Jugar a las escondidas\nno debería durar tanto…"
+        "es-ES": "[Anku]\n¡Pasó tanto\ntiempo! ¡No encuentro a\nHimuhimu! Jugar a las escondidas\nno debería durar tanto..."
     },
     "s8MYAQ": {
         "en-US": "[Anku]\nOh, I'm already hungry...\nHimuhimu, come out so\nwe can go home and eat!\nHimuhimu! I give up!\nH-Himuhimu...?",
         "pt-BR": "[Anku]\nAh, já estou com fome...\nHimuhimu, pode sair para a gente ir para casa e comer!\nHimuhimu! Eu desisto!\nH-Himuhimu...?",
-        "es-ES": "[Anku]\nAy, ya tengo hambre…\n¡Himuhimu, sal ya para\nque podamos ir a comer!\n¡Himuhimu! ¡Me rindo!\n¿H-Himuhimu…?"
+        "es-ES": "[Anku]\nAy, ya tengo hambre...\n¡Himuhimu, sal ya para\nque podamos ir a comer!\n¡Himuhimu! ¡Me rindo!\n¿H-Himuhimu...?"
     },
     "tMMYAQ": {
         "en-US": "Himuhimu",
@@ -907,7 +907,7 @@
     "tcMYAQ": {
         "en-US": "[Himuhimu]\nZzzz...Z...\nAnku, you'll never\nfind m... never find\nme here... Zzzzz...\n... So hungry...",
         "pt-BR": "[Himuhimu]\nZzzz...Z...\nAnku, você nunca vai\nme encon... nunca vai me encontrar\naqui... Zzzzz...\n... Que fome...",
-        "es-ES": "[Himuhimu]\nZzzz…\nAnku, nunca\nme encontra- Nunca me\nencontrarás aquí… Zzzzz…\n… Tengo hambre…"
+        "es-ES": "[Himuhimu]\nZzzz...\nAnku, nunca\nme encontra- Nunca me\nencontrarás aquí... Zzzzz...\n... Tengo hambre..."
     },
     "tsMYAQ": {
         "en-US": "Rachel Guard",
@@ -977,7 +977,7 @@
     "w8MYAQ": {
         "en-US": "[Freya's Priest]\nThis...\nBores me.",
         "pt-BR": "[Sacerdotisa de Freya]\nIsso...\nMe aborrece.",
-        "es-ES": "[Sacerdotisa de Freya]\nEsto…\nme aburre."
+        "es-ES": "[Sacerdotisa de Freya]\nEsto...\nme aburre."
     },
     "xMMYAQ": {
         "en-US": "[Freya's Priest]\nYou!\nEntertain me!",
@@ -1007,7 +1007,7 @@
     "ycMYAQ": {
         "en-US": "Here's a funny story...",
         "pt-BR": "Aqui vai uma história engraçada...",
-        "es-ES": "Te contaré una historia graciosa…"
+        "es-ES": "Te contaré una historia graciosa..."
     },
     "ysMYAQ": {
         "en-US": "I will do what you want me to do.",
@@ -1027,7 +1027,7 @@
     "zcMYAQ": {
         "en-US": "[Freya's Priest]\nFine, fine~\nLet me see what these\nitems of yours can do...\nOh? Oh! That's wonderful!",
         "pt-BR": "[Sacerdotisa de Freya]\nCerto, Certo.\nDeixe-me ver o que esses\nseus itens podem fazer...\nHã? Ah! Isso é maravilhoso!",
-        "es-ES": "[Sacerdotisa de Freya]\nBueno, bueno.\nDéjame ver qué \npueden hacer estos objetos tuyos…\n¿Eh? ¡Ah! ¡Esto es maravilloso!"
+        "es-ES": "[Sacerdotisa de Freya]\nBueno, bueno.\nDéjame ver qué \npueden hacer estos objetos tuyos...\n¿Eh? ¡Ah! ¡Esto es maravilloso!"
     },
     "zsMYAQ": {
         "en-US": "Bard",
@@ -1062,7 +1062,7 @@
     "1MMYAQ": {
         "en-US": "[Follower Akarna]\nCheshrumnir...\nIt is said that one\nday, our goddess Freya\nwill descend to this place\nin all of her glory. I hope\nthat I live to see that.",
         "pt-BR": "[Seguidora Akarna]\nCheshrumnir...\nDizem que um\ndia, nossa deusa Freya\nirá descer neste lugar\nem toda a sua glória. Espero\nque eu viva para ver isso.",
-        "es-ES": "[Seguidora Akarna]\nCheshrumnir…\nDicen que un día,\nnuestra diosa Freya\ndescenderá a este lugar\nen toda su gloria. Ojalá \nviva para verlo."
+        "es-ES": "[Seguidora Akarna]\nCheshrumnir...\nDicen que un día,\nnuestra diosa Freya\ndescenderá a este lugar\nen toda su gloria. Ojalá \nviva para verlo."
     },
     "1cMYAQ": {
         "en-US": "Follower Yakum",
@@ -1097,7 +1097,7 @@
     "28MYAQ": {
         "en-US": "[Freya's Follower]\nOnce again, I didn't get\nany sleep yesterday... I'm\npraying so hard for Freya's\nsecond coming. I'm exhausted,\nbut I feel pretty good about\nmaking that small sacrifice.",
         "pt-BR": "[Seguidora de Freya]\nMais uma vez, eu não dormi\nnada ontem... Estou\nrezando muito para a segunda vinda de Freya.\nEstou exausta,\nmas me sinto muito bem em\nfazer esse pequeno sacrifício.",
-        "es-ES": "[Seguidor de Freya]\nOtra vez no dormí \nanoche… Estoy\nrezando sin descanso para que Freya\nregrese pronto. Me mata el cansancio,\npero siento que este pequeño\nsacrificio vale la pena."
+        "es-ES": "[Seguidor de Freya]\nOtra vez no dormí \nanoche... Estoy\nrezando sin descanso para que Freya\nregrese pronto. Me mata el cansancio,\npero siento que este pequeño\nsacrificio vale la pena."
     },
     "3MMYAQ": {
         "en-US": "[Freya's Follower]\nYou have done well,\nmy brother. I am certain\nthat Freya would be proud\nof all of your efforts.",
@@ -1127,7 +1127,7 @@
     "4cMYAQ": {
         "en-US": "[Child Follower]\nI... I'm going to\ntry to ask the pope!\nM-maybe she can bring\nMingming back to life!\nDo you know how I can\nfind our pope?",
         "pt-BR": "[Seguidor Criança]\nEu... Eu vou\ntentar pedir a Papisa!\nTalvez ela possa trazer o\nMingming de volta à vida!\nVocê sabe como posso\nencontrar nossa Papisa?",
-        "es-ES": "[Niña seguidora]\nYo… ¡Voy a\npedirle a la papisa!\n¡Tal vez ella pueda traer\nde vuelta a Mingming!\n¿Sabes dónde puedo\nencontrarla?"
+        "es-ES": "[Niña seguidora]\nYo... ¡Voy a\npedirle a la papisa!\n¡Tal vez ella pueda traer\nde vuelta a Mingming!\n¿Sabes dónde puedo\nencontrarla?"
     },
     "4sMYAQ": {
         "en-US": "Young Heart Seller",

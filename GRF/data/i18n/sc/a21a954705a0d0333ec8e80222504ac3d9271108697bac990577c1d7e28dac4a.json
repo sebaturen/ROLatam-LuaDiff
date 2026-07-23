@@ -37,7 +37,7 @@
     "p25wAw": {
         "en-US": "[Pontis]\nHmm ... It seems that you've already got a quest. Go finish that one first.",
         "pt-BR": "[Pontis]\nOh... havia uma solicitação no Grupo do Éden que você já aceitou.",
-        "es-ES": "[Pontis]\nMmm… Parece que ya tienes una misión. Termina esa primero."
+        "es-ES": "[Pontis]\nMmm... Parece que ya tienes una misión. Termina esa primero."
     },
     "qG5wAw": {
         "en-US": "^4D4DFFQuest Prerequisites:\nEden Group quest [Noisy Fellows] completed; cooldown reset.^000000",
@@ -192,7 +192,7 @@
     "xm5wAw": {
         "en-US": "[Pontis]\nHmm... Looks like there's a request you've accepted just now. I want you to deal with that first.",
         "pt-BR": "[Pontis]\nOh... havia uma solicitação no Grupo do Éden que você já aceitou.",
-        "es-ES": "[Pontis]\nMmm… Parece que acabas de aceptar una misión. Quiero que te ocupes de eso primero."
+        "es-ES": "[Pontis]\nMmm... Parece que acabas de aceptar una misión. Quiero que te ocupes de eso primero."
     },
     "x25wAw": {
         "en-US": "^4D4DFFIn order to proceed with this quest,\nall [Noisy Fellows] quests received from Paradise must be completed and the waiting time has ended.^000000",
@@ -262,7 +262,7 @@
     "1G5wAw": {
         "en-US": "[Pontis]\nWhat? Really?\nYou should really give it a second thought ...",
         "pt-BR": "[Pontis]\nAh... não quer?\nTem certeza......?",
-        "es-ES": "[Pontis]\n¿Qué? ¿De verdad?\nDeberías pensarlo mejor…"
+        "es-ES": "[Pontis]\n¿Qué? ¿De verdad?\nDeberías pensarlo mejor..."
     },
     "1W5wAw": {
         "en-US": "[Pontis]\nNicely done!\nLet's move on to the next item on our itinerary, shall we?",
@@ -347,7 +347,7 @@
     "5W5wAw": {
         "en-US": "[Pontis]\nYou're doing great!\nAlmost brings a tear to my eye, seeing folks like you training hard ...",
         "pt-BR": "[Pontis]\nVocê foi muito bem.\nFico feliz com seu crescimento.",
-        "es-ES": "[Pontis]\n¡Lo estás haciendo muy bien!\nMe emociona hasta las lágrimas ver a gente como tú entrenando duro…"
+        "es-ES": "[Pontis]\n¡Lo estás haciendo muy bien!\nMe emociona hasta las lágrimas ver a gente como tú entrenando duro..."
     },
     "5m5wAw": {
         "en-US": "[Pontis]\nIt wasn't so difficult, was it?\nExcellent work.\nI thank you, on behalf of the requester.",
@@ -367,12 +367,12 @@
     "6W5wAw": {
         "en-US": "[Helden]\nAre you an Adventurer?\nDoes your name happen to be Pontis ...?\nNo?",
         "pt-BR": "[Helder]\nVocê é um daqueles aventureiros?\nTalvez Pontis...\nAh, não?",
-        "es-ES": "[Helden]\n¿Eres trotamundos?\n¿Por casualidad te llamas Pontis…?\n¿No?"
+        "es-ES": "[Helden]\n¿Eres trotamundos?\n¿Por casualidad te llamas Pontis...?\n¿No?"
     },
     "6m5wAw": {
         "en-US": "[Helden]\nOh, I was just ...\nwaiting for someone.\nBut the person hasn't arrived yet.",
         "pt-BR": "[Helder]\nEntendo.\n....estou esperando uma pessoa.\nMas ela não vem.",
-        "es-ES": "[Helden]\nAh, solo estaba…\nesperando a alguien.\nPero esa persona aún no llegó."
+        "es-ES": "[Helden]\nAh, solo estaba...\nesperando a alguien.\nPero esa persona aún no llegó."
     },
     "625wAw": {
         "en-US": "[Helden]\nDid Pontis send you?\nOh, really?\nI've been expecting you!",
@@ -392,7 +392,7 @@
     "7m5wAw": {
         "en-US": "[Helden]\nMy thesis is about marine life ...\nThat's why I've come to an island off the coast of Izlude.",
         "pt-BR": "[Helder]\nO objeto de estudo é a vida marinha......\nPor isso, vim para a ilha Byalan.",
-        "es-ES": "[Helden]\nMi tesis es sobre la vida marina…\nPor eso vine a una isla frente a la costa de Izlude."
+        "es-ES": "[Helden]\nMi tesis es sobre la vida marina...\nPor eso vine a una isla frente a la costa de Izlude."
     },
     "725wAw": {
         "en-US": "[Helden]\nBut in fact, I cannot enter the cavern of this\nskull-looking island. It's too scary.",
@@ -402,7 +402,7 @@
     "8G5wAw": {
         "en-US": "[Helden]\nPlus, they say that there are ruins under the island.\n... I'd better not go there alone.",
         "pt-BR": "[Helder]\nAlém disso, há rumores de que existem ruínas subaquáticas nesta ilha.\n....não concorda que seria assutador entrar sozinho?",
-        "es-ES": "[Helden]\nAdemás, dicen que hay ruinas bajo la isla.\n… Será mejor que no vaya solo."
+        "es-ES": "[Helden]\nAdemás, dicen que hay ruinas bajo la isla.\n... Será mejor que no vaya solo."
     },
     "8W5wAw": {
         "en-US": "[Helden]\nI've been heading back and forth between here and Izlude. Pontis told me\nthat he would send me some help.",
@@ -437,7 +437,7 @@
     "925wAw": {
         "en-US": "[Helden]\nHuh? What the ...?\nYou shouldn't do that.\nWhat should I do ...?",
         "pt-BR": "[Helder]\nPoxa... sério?\nEu precisava de alguém como você.\nE agora...",
-        "es-ES": "[Helden]\n¿Eh? ¿Pero qué…?\nNo deberías hacer eso.\n¿Qué debo hacer…?"
+        "es-ES": "[Helden]\n¿Eh? ¿Pero qué...?\nNo deberías hacer eso.\n¿Qué debo hacer...?"
     },
     "+G5wAw": {
         "en-US": "[Helden]\nThe merchant over there has some interesting things to sell.\nFor instance, there's an orb that, if you submerge it in water, will show you the answers for tomorrow's test!",
@@ -447,7 +447,7 @@
     "+W5wAw": {
         "en-US": "[Helden]\nlt's some kind of Nipper Talisman of sorts.\nI ... may have purchased one or two from him ...\nIt'll all work out, right?",
         "pt-BR": "[Helder]\nParece que ele quer mais itens para vender.\nEu cheguei a comprar alguns, mas...\nDeixa pra lá, né?",
-        "es-ES": "[Helden]\nEs como una especie de Talismán de pinzas.\nYo… tal vez le compré uno o dos…\nTodo saldrá bien, ¿verdad?"
+        "es-ES": "[Helden]\nEs como una especie de Talismán de pinzas.\nYo... tal vez le compré uno o dos...\nTodo saldrá bien, ¿verdad?"
     },
     "+m5wAw": {
         "en-US": "[Helden]\nOh, biological samples tend to go bad pretty fast.\nPlease go bring them again for me soon.",
@@ -462,12 +462,12 @@
     "/G5wAw": {
         "en-US": "[Helden]\nHello.\nAre you here to help me again?\nWell, samples of life forms ...",
         "pt-BR": "[Helder]\nOi~\nVeio me ajudar, hoje?\nVou ficar tão feliz~",
-        "es-ES": "[Helden]\nHola.\n¿Viniste a ayudarme otra vez?\nBueno, se trata de encontrar muestras de formas de vida…"
+        "es-ES": "[Helden]\nHola.\n¿Viniste a ayudarme otra vez?\nBueno, se trata de encontrar muestras de formas de vida..."
     },
     "/W5wAw": {
         "en-US": "[Helden]\nand getting the sample itself!\nI mean ... the hardest part is preserving the samples, as they go bad pretty fast.",
         "pt-BR": "[Helder]\nPreciso de novas amostras!\nO tempo de vida dessas espécies é muito curto.",
-        "es-ES": "[Helden]\n¡y conseguir esas muestras!\nEs decir… lo más difícil es conservar las muestras, ya que se estropean muy rápido."
+        "es-ES": "[Helden]\n¡y conseguir esas muestras!\nEs decir... lo más difícil es conservar las muestras, ya que se estropean muy rápido."
     },
     "/m5wAw": {
         "en-US": "[Helden]\nIt'd be great if you could help me once again.\nThe task is the same as last time.",
@@ -482,12 +482,12 @@
     "AG9wAw": {
         "en-US": "[Helden]\nYou're back!\nI've been perusing the goods that that Wandering Merchant is selling ...",
         "pt-BR": "[Helder]\nVocê foi lá!\nFiquei comprando itens do Mercador Ambulante, heheh.",
-        "es-ES": "[Helden]\n¡Volviste!\nEstuve examinando las mercancías que vende ese mercader errante…"
+        "es-ES": "[Helden]\n¡Volviste!\nEstuve examinando las mercancías que vende ese mercader errante..."
     },
     "AW9wAw": {
         "en-US": "[Helden]\nLet's see what you brought, then.\n... Wow, this is great!\nI knew you would complete it in no time!",
         "pt-BR": "[Helder]\nHehe.. Vamos conferir o que você trouxe.\n...Oh... isso é ótimo!\nEu sabia que podia contar com você!",
-        "es-ES": "[Helden]\nVeamos qué trajiste.\n… ¡Vaya, excelente!\n¡Sabía que lo completarías en un santiamén!"
+        "es-ES": "[Helden]\nVeamos qué trajiste.\n... ¡Vaya, excelente!\n¡Sabía que lo completarías en un santiamén!"
     },
     "Am9wAw": {
         "en-US": "[Helden]\nMy paper will be the best ever,\nthanks to you!\nThank you so much.",
@@ -497,7 +497,7 @@
     "A29wAw": {
         "en-US": "[Helden]\nI think there aren't enough Single Cells.\n... I need at least 10 for my studies.",
         "pt-BR": "[Helder]\nHmm... o número de Células Únicas é insuficiente.\n... Eu preciso de 10.",
-        "es-ES": "[Helden]\nCreo que no hay suficientes Células únicas.\n… Necesito al menos 10 para mis estudios."
+        "es-ES": "[Helden]\nCreo que no hay suficientes Células únicas.\n... Necesito al menos 10 para mis estudios."
     },
     "BG9wAw": {
         "en-US": "[Helden]\nPlease go find more. They are crucial for my study.",
@@ -547,17 +547,17 @@
     "DW9wAw": {
         "en-US": "[Wandering Merchant]\nHa! No?\nDo I have to find another person, meow?\n... (Sigh) ... I cannot force you to do it, meow ...",
         "pt-BR": "[Mercador Ambulante]\nUé! Recusou!\nVou achar alguém que queira!\n..Urgh... ninguém é obrigado a nada..",
-        "es-ES": "[Comerciante errante]\n¡Ja! ¿No?\n¿Tengo que buscar a alguien más? Miau.\n… *Suspira…* No puedo obligarte a hacerlo. Miau…"
+        "es-ES": "[Comerciante errante]\n¡Ja! ¿No?\n¿Tengo que buscar a alguien más? Miau.\n... *Suspira...* No puedo obligarte a hacerlo. Miau..."
     },
     "Dm9wAw": {
         "en-US": "[Wandering Merchant]\nMeow ... I want a super awesome item, meow ...\nI have to find something, as I have traveled very far, meow.",
         "pt-BR": "[Mercador Ambulante]\nMiau~... Será que existe algum item incrível...?\nEu espero que esse lugar tenha...",
-        "es-ES": "[Comerciante errante]\n*Miau…* Quiero un objeto superincreíble. Miau…\nTengo que encontrar algo, ya que viajé desde muy lejos. Miau."
+        "es-ES": "[Comerciante errante]\n*Miau...* Quiero un objeto superincreíble. Miau...\nTengo que encontrar algo, ya que viajé desde muy lejos. Miau."
     },
     "D29wAw": {
         "en-US": "[Wandering Merchant]\nI'd better look around carefully and see if there's anything nice, meow.\nMeow ... I must dart my eyes like a hawk searching for its prey, meow.",
         "pt-BR": "[Mercador Ambulante]\nNesses casos, é bom dar uma olhada ao redor e explorar o local.\nMiau... temos que ter Olhos de Águia!",
-        "es-ES": "[Comerciante errante]\nSerá mejor que observe con cuidado y vea si hay algo bonito. Miau.\n*Miau…* Debo mover mis ojos como un halcón en busca de su presa. Miau."
+        "es-ES": "[Comerciante errante]\nSerá mejor que observe con cuidado y vea si hay algo bonito. Miau.\n*Miau...* Debo mover mis ojos como un halcón en busca de su presa. Miau."
     },
     "EG9wAw": {
         "en-US": "[Wandering Merchant]\nPlease go to the Undersea Tunnel, ^4D4DFFdefeat Vadon, and bring me 5 Nippers^000000.",
@@ -577,7 +577,7 @@
     "E29wAw": {
         "en-US": "[Wandering Merchant]\nMeow?\nI think there aren't enough Nippers, meow.\nI need 5 Nippers, meow ...\nI really need them, meow.",
         "pt-BR": "[Mercador Ambulante]\nMiau?\nSó isso?\nNão, não, eu preciso de 5.\nCINCO unidades, miau~",
-        "es-ES": "[Comerciante errante]\n*¿Miau?*\nCreo que no hay suficientes Pinzas. Miau.\nNecesito 5 Pinzas, miau…\nDe verdad las necesito. Miau."
+        "es-ES": "[Comerciante errante]\n*¿Miau?*\nCreo que no hay suficientes Pinzas. Miau.\nNecesito 5 Pinzas, miau...\nDe verdad las necesito. Miau."
     },
     "FG9wAw": {
         "en-US": "[Wandering Merchant]\nHahaha, what a kind student, meow.\nThat student purchased my Nipper Talisman.",
@@ -592,12 +592,12 @@
     "Fm9wAw": {
         "en-US": "[Wandering Merchant]\nHaha ... I'd better make more Nipper Talismans for other customers.\nI will need more Nippers tomorrow, meow.",
         "pt-BR": "[Mercador Ambulante]\nAcho que muitos estudantes de Juno devem comprar esses amuletos de pinça.\nQuando acabar, eu queria te pedir pra trazer mais.",
-        "es-ES": "[Comerciante errante]\nJa, ja… Será mejor que haga más Talismanes de pinzas para otros clientes.\nMañana necesitaré más Pinzas. Miau."
+        "es-ES": "[Comerciante errante]\nJa, ja... Será mejor que haga más Talismanes de pinzas para otros clientes.\nMañana necesitaré más Pinzas. Miau."
     },
     "F29wAw": {
         "en-US": "[Wandering Merchant]\nMeow ... It's time.\nWhat say you, meow?\nCan you go get me some Nippers today, meow?",
         "pt-BR": "[Mercador Ambulante]\nMiau~ Já era hora.\nComo vai?\nQuer me trazer mais Garras de Crustáceo para eu vender como amuletos?",
-        "es-ES": "[Comerciante errante]\n*Miau…* Ya es hora.\n¿Qué dices? Miau.\n¿Puedes traerme algunas Pinzas hoy? Miau."
+        "es-ES": "[Comerciante errante]\n*Miau...* Ya es hora.\n¿Qué dices? Miau.\n¿Puedes traerme algunas Pinzas hoy? Miau."
     },
     "GG9wAw": {
         "en-US": "[Wandering Merchant]\nThen go to the ^4D4DFFunderwater dungeon^000000, ^4D4DFFdefeat Vadon^000000,\nand bring me ^4D4DFF5 Nippers^000000.",
@@ -612,7 +612,7 @@
     "Gm9wAw": {
         "en-US": "[Wandering Merchant]\nMeow ... It's okay. I've already sent my quest to the Eden Group, meow.\nI am a generous cat, meow.",
         "pt-BR": "[Mercador Ambulante]\nMiau~ Eu abri uma solicitação no Grupo do Éden.\nEntão, alguém deve chegar.",
-        "es-ES": "[Comerciante errante]\n*Miau…* Está bien. Ya envié mi misión al Grupo del Edén. Miau.\nSoy un gato generoso. Miau."
+        "es-ES": "[Comerciante errante]\n*Miau...* Está bien. Ya envié mi misión al Grupo del Edén. Miau.\nSoy un gato generoso. Miau."
     },
     "G29wAw": {
         "en-US": "[Wandering Merchant]\nWow, I guess I can make more of those Nipper Talismans, meow!",
@@ -637,7 +637,7 @@
     "H29wAw": {
         "en-US": "[Ernest]\nAre you ... planning to go down there?\nBe careful. The place can be dangerous.\nYou could get hurt, just like me.",
         "pt-BR": "[Ernesto]\nHã...? Você vai descer?\nCuidado, lá é perigoso.\nVocê pode acabar se machucando.",
-        "es-ES": "[Ernest]\n¿Estás… pensando en bajar allí?\nTen cuidado. Ese lugar puede ser peligroso.\nPodrías lastimarte, como yo."
+        "es-ES": "[Ernest]\n¿Estás... pensando en bajar allí?\nTen cuidado. Ese lugar puede ser peligroso.\nPodrías lastimarte, como yo."
     },
     "IG9wAw": {
         "en-US": "^4D4DFFYou must be Level 50 or higher for this quest.^000000",
@@ -697,12 +697,12 @@
     "K29wAw": {
         "en-US": "[Ernest]\nAre they all right? Why aren't they coming back?\nHa ... Those jerks.\nSo, they're having a good time, huh?\nThey seem to be having plenty of fun without me!",
         "pt-BR": "[Ernesto]\nHã? Por que eles não virão?\nHah... essa galera.\nEstão bebendo vinho?\nSó porque não estou lá, eles querem beber vinho?",
-        "es-ES": "[Ernest]\n¿Están bien? ¿Por qué no vuelven?\nJa… Esos tontos.\nAsí que lo están pasando bien, ¿no?\n¡Parece que se divierten mucho sin mí!"
+        "es-ES": "[Ernest]\n¿Están bien? ¿Por qué no vuelven?\nJa... Esos tontos.\nAsí que lo están pasando bien, ¿no?\n¡Parece que se divierten mucho sin mí!"
     },
     "LG9wAw": {
         "en-US": "[Ernest]\nGosh!\nI am so mad right now.\n... What's that?",
         "pt-BR": "[Ernesto]\nHahah!\nOnde eu vou descontar essa raiva?!\n....Que cheiro é esse?",
-        "es-ES": "[Ernest]\n¡Cielos!\nAhora, estoy muy enojado.\n… ¿Qué es eso?"
+        "es-ES": "[Ernest]\n¡Cielos!\nAhora, estoy muy enojado.\n... ¿Qué es eso?"
     },
     "LW9wAw": {
         "en-US": "Hand him Spawn Squid Ink Soup.",
@@ -712,7 +712,7 @@
     "Lm9wAw": {
         "en-US": "[Ernest]\nWow ... For me?\nI didn't know they were thinking about me.",
         "pt-BR": "[Ernesto]\nOh... impressionante.\nEles ainda se importam comigo.",
-        "es-ES": "[Ernest]\nVaya… ¿Para mí?\nNo sabía que pensaban en mí."
+        "es-ES": "[Ernest]\nVaya... ¿Para mí?\nNo sabía que pensaban en mí."
     },
     "L29wAw": {
         "en-US": "[Ernest]\nThanks for the dish. I will enjoy it.\nThanks.",
@@ -727,17 +727,17 @@
     "MW9wAw": {
         "en-US": "(The Spawn Squid Ink Soup that Kusekili gave me is nowhere to be found.\nI'd better go get some more from Kusekili or somewhere else ...)",
         "pt-BR": "(Estou sem a Sopa de Lula e Sapo que Kysekili me deu.\nVou precisar dela para prosseguir...)",
-        "es-ES": "(La Sopa de tinta de calamar con huevos de rana que me regaló Kusekili no se encuentra en ninguna parte.\nSerá mejor que vaya a pedirle más a Kusekili o que la consiga en algún otro lugar…)"
+        "es-ES": "(La Sopa de tinta de calamar con huevos de rana que me regaló Kusekili no se encuentra en ninguna parte.\nSerá mejor que vaya a pedirle más a Kusekili o que la consiga en algún otro lugar...)"
     },
     "Mm9wAw": {
         "en-US": "[Ernest]\nI hope this will encourage them to explore the area.\n... What do you think?",
         "pt-BR": "[Ernesto]\nEspero que isso dê aos meus amigos um pouco mais de motivação para explorar....\n...será que vai dar certo?",
-        "es-ES": "[Ernest]\nEspero que esto los anime a explorar la zona.\n… ¿Qué opinas?"
+        "es-ES": "[Ernest]\nEspero que esto los anime a explorar la zona.\n... ¿Qué opinas?"
     },
     "M29wAw": {
         "en-US": "[Ernest]\nMaybe I should trust them and wait ...",
         "pt-BR": "[Ernesto]\nEu não tenho escolha a não ser acreditar e esperar.......",
-        "es-ES": "[Ernest]\nTal vez debería confiar en ellos y esperar…"
+        "es-ES": "[Ernest]\nTal vez debería confiar en ellos y esperar..."
     },
     "NG9wAw": {
         "en-US": "[Ernest]\nHello again.",
@@ -772,7 +772,7 @@
     "Om9wAw": {
         "en-US": "[Ernest]\nOh ...\nDid I ask too much of you?\nI'm sorry.",
         "pt-BR": "[Ernesto]\nAh... eu já esperava.\nEu pedi demais?\nDesculpe.",
-        "es-ES": "[Ernest]\nAh..…\n¿Te pedí demasiado?\nLo siento."
+        "es-ES": "[Ernest]\nAh.....\n¿Te pedí demasiado?\nLo siento."
     },
     "O29wAw": {
         "en-US": "[Ernest]\nto the 4th level of the underwater dungeon and help my classmates out",
@@ -792,7 +792,7 @@
     "Pm9wAw": {
         "en-US": "[Ernest]\nYou're all right!\n(Sigh) ... That's a relief.\nI wonder if my friends feel encouraged to explore the area now.",
         "pt-BR": "[Ernesto]\nVocê veio em segurança.\nUfa... estou mais aliviado.\nMas agora, estou pensando se meu grupo vai ficar mais motivado a explorar.",
-        "es-ES": "[Ernest]\n¡Estás bien!\n*Suspira…* Qué alivio.\nMe pregunto si mis amigos se animarán a explorar la zona ahora."
+        "es-ES": "[Ernest]\n¡Estás bien!\n*Suspira...* Qué alivio.\nMe pregunto si mis amigos se animarán a explorar la zona ahora."
     },
     "P29wAw": {
         "en-US": "[Ernest]\nI owe you one, Adventurer.\nThank you.\nIf you are available tomorrow, please come back and help me out again.",
@@ -802,12 +802,12 @@
     "QG9wAw": {
         "en-US": "[Ernest]\nI don't think this will be over in just a day or two.\n... I think we'll be here for a while.",
         "pt-BR": "[Ernesto]\nEu não acho que vai acabar em um dia ou dois.\n......Acho que faremos isso de novo e de novo.",
-        "es-ES": "[Ernest]\nNo creo que esto acabe en uno o dos días.\n… Creo que estaremos aquí por un tiempo."
+        "es-ES": "[Ernest]\nNo creo que esto acabe en uno o dos días.\n... Creo que estaremos aquí por un tiempo."
     },
     "QW9wAw": {
         "en-US": "[Ernest]\n... Um.\nI've been thinking, and ...\nI think they aren't continuing with the expedition because it's too dangerous down there.",
         "pt-BR": "[Ernesto]\n...Viajante.\nEu estive pensando...\nO motivo do meu grupo não voltar é porque o local é perigoso.",
-        "es-ES": "[Ernest]\n… Mmm.\nLo estuve pensando y…\ncreo que no seguirán con la expedición porque es demasiado peligroso ahí abajo."
+        "es-ES": "[Ernest]\n... Mmm.\nLo estuve pensando y...\ncreo que no seguirán con la expedición porque es demasiado peligroso ahí abajo."
     },
     "Qm9wAw": {
         "en-US": "Yes.",
@@ -932,7 +932,7 @@
     "Wm9wAw": {
         "en-US": "[Kusekili]\nSquid Ink! I need more ink!\nOh, darn! There's too much water!\nIf I don't do something ...!",
         "pt-BR": "[Kysekili]\nTinta! Preciso da Tinta!\nBotei muita água, então preciso de muitas Tintas!\nNão dá pra pegar mais?!",
-        "es-ES": "[Kusekili]\n¡Tinta de calamar! ¡Necesito más Tinta de calamar!\n¡Maldita sea! ¡Hay demasiada agua!\n¡Si no hago algo…!"
+        "es-ES": "[Kusekili]\n¡Tinta de calamar! ¡Necesito más Tinta de calamar!\n¡Maldita sea! ¡Hay demasiada agua!\n¡Si no hago algo...!"
     },
     "W29wAw": {
         "en-US": "[Kusekili]\nI need you to give the Frog Egg Squid Ink Soup to Ernest!\nHe must be starving.",
@@ -957,7 +957,7 @@
     "X29wAw": {
         "en-US": "[Kusekili]\nIf you had merely done what I said, then ...\nAll right, whatever. Get me 10 Squid Inks and I'll make a new batch.",
         "pt-BR": "[Kysekili]\nAh, você trouxe.\nLeve essa Sopa para Ernesto.",
-        "es-ES": "[Kusekili]\nSi hubieras hecho lo que te dije, entonces…\nEstá bien, como quieras. Tráeme 10 unidades de Tinta de calamar y haré más."
+        "es-ES": "[Kusekili]\nSi hubieras hecho lo que te dije, entonces...\nEstá bien, como quieras. Tráeme 10 unidades de Tinta de calamar y haré más."
     },
     "YG9wAw": {
         "en-US": "[Kusekili]\nWhat's the matter?\nDid you eat it all?\nI can make some more if you bring me 10 Squid Inks.",
@@ -1002,7 +1002,7 @@
     "aG9wAw": {
         "en-US": "[Kusekili]\nWow, wonderful!\nNow I'll just add it to the broth, and ...\nSpawn Squid Ink Soup is finished!",
         "pt-BR": "[Kysekili]\nOohhh~ É perfeito~\nVou colocar isso na panela.\nMisturar a Tinta com as Ovas!",
-        "es-ES": "[Kusekili]\n¡Guau, maravilloso!\nAhora, solo tengo que agregarla al caldo y…\n¡la Sopa de tinta de calamar con huevos de rana está lista!"
+        "es-ES": "[Kusekili]\n¡Guau, maravilloso!\nAhora, solo tengo que agregarla al caldo y...\n¡la Sopa de tinta de calamar con huevos de rana está lista!"
     },
     "aW9wAw": {
         "en-US": "[Kusekili]\nThanks to you, another fine dish is served!\nThanks, buddy!",
@@ -1022,17 +1022,17 @@
     "bG9wAw": {
         "en-US": "[Nonda Ankana]\nWho is that woman ...?\nThat lovely lady who appears here and there ...",
         "pt-BR": "[Ankana]\nQuem será essa mulher....\nUma bela criatura que é avistada por várias pessoas....",
-        "es-ES": "[Nonda Ankana]\n¿Quién es esa mujer…?\nEsa encantadora dama que aparece por aquí y por allá…"
+        "es-ES": "[Nonda Ankana]\n¿Quién es esa mujer...?\nEsa encantadora dama que aparece por aquí y por allá..."
     },
     "bW9wAw": {
         "en-US": "[Nonda Ankana]\nWho, Maxim? He's right here.\nHaha, anyway ... This Undersea Tunnel sure is neat, isn't it?",
         "pt-BR": "[Ankana]\nMaximus? Não está aí do lado?\nHaha... Não acha esse túnel submarino fantástico?",
-        "es-ES": "[Nonda Ankana]\n¿Quién? ¿Maxim? Está justo aquí.\nJa, ja, en fin… Este túnel submarino es muy bonito, ¿verdad?"
+        "es-ES": "[Nonda Ankana]\n¿Quién? ¿Maxim? Está justo aquí.\nJa, ja, en fin... Este túnel submarino es muy bonito, ¿verdad?"
     },
     "bm9wAw": {
         "en-US": "[Nonda Ankana]\nIt sure would be nice to take a relaxing stroll around ...\nOnce I finish this liquor, of course!",
         "pt-BR": "[Ankana]\nÉ bom apreciar um vinho aqui dentro.\nO vinho desce redondo~",
-        "es-ES": "[Nonda Ankana]\nSería agradable dar un paseo relajante…\n¡Cuando termine este licor, claro!"
+        "es-ES": "[Nonda Ankana]\nSería agradable dar un paseo relajante...\n¡Cuando termine este licor, claro!"
     },
     "b29wAw": {
         "en-US": "[Nonda Ankana]\nDid you come here to enjoy the scenery, too?\nThis Undersea Tunnel is glittering, literally!\nI'd like to go see what lies below, but it looks like it would be too dangerous.",
@@ -1042,7 +1042,7 @@
     "cG9wAw": {
         "en-US": "[Nonda Ankana]\nOh, a mermaid ...\nCould such a thing truly be the vicious Obeaune?",
         "pt-BR": "[Ankana]\nObeaune... uma sereia...\nTambém conhecida por ser violenta....",
-        "es-ES": "[Nonda Ankana]\nAh, una sirena…\n¿Podría esa cosa ser realmente la cruel Obeaune?"
+        "es-ES": "[Nonda Ankana]\nAh, una sirena...\n¿Podría esa cosa ser realmente la cruel Obeaune?"
     },
     "cW9wAw": {
         "en-US": "[Nonda Ankana]\nWell, bottoms up!\nTo unrequited love!",
@@ -1052,7 +1052,7 @@
     "cm9wAw": {
         "en-US": "[Nonda Ankana]\nBut that's just the thing.\nYou can't judge a book by its cover!\nIf such a beautiful woman can be the ruthless Obeaune ...",
         "pt-BR": "[Ankana]\nOh.\nNão posso acreditar.\nSe aquela linda mulher tivesse vindo...",
-        "es-ES": "[Nonda Ankana]\nPero esa es la cuestión.\n¡No se puede juzgar un libro por su portada!\nSi una mujer tan hermosa puede ser la despiadada Obeaune…"
+        "es-ES": "[Nonda Ankana]\nPero esa es la cuestión.\n¡No se puede juzgar un libro por su portada!\nSi una mujer tan hermosa puede ser la despiadada Obeaune..."
     },
     "c29wAw": {
         "en-US": "[Nonda Ankana]\nI guess we'll just have to get rid of her!\nSo that no one will be enamored by her beauty!",
@@ -1092,7 +1092,7 @@
     "em9wAw": {
         "en-US": "[Nonda Ankana]\nDarn alcohol must have made me see things ...\nWell ... sorry for putting you through that.",
         "pt-BR": "[Ankana]\nEntão, eu estava delirando?\nSinto muito.",
-        "es-ES": "[Nonda Ankana]\nDebo estar viendo cosas por culpa del maldito alcohol…\nBueno… siento haberte hecho pasar por eso."
+        "es-ES": "[Nonda Ankana]\nDebo estar viendo cosas por culpa del maldito alcohol...\nBueno... siento haberte hecho pasar por eso."
     },
     "e29wAw": {
         "en-US": "[Nonda Ankana]\nGoing for a stroll is great, but maybe I should lay off the booze a little.\nThanks for helping me out all the time.",
@@ -1102,7 +1102,7 @@
     "fG9wAw": {
         "en-US": "[Nonda Ankana]\nHey, I am not drunk ..! Hic!\nShe was definitely just a pretty lady.",
         "pt-BR": "[Ankana]\nEu não estou delirando~\nDeve ter sido uma linda garota~",
-        "es-ES": "[Nonda Ankana]\n¡Oye, no estoy borracho…! *¡Hip!*\nDefinitivamente, solo era una mujer bonita."
+        "es-ES": "[Nonda Ankana]\n¡Oye, no estoy borracho...! *¡Hip!*\nDefinitivamente, solo era una mujer bonita."
     },
     "fW9wAw": {
         "en-US": "Hey, cut that out, will you?",
@@ -1172,7 +1172,7 @@
     "im9wAw": {
         "en-US": "[Maxim]\nHmm ... Something must be wrong with Ernest.\n... We are doing our best here.",
         "pt-BR": "[Maximus]\nHmm... a ferida do Ernesto não melhorou.\n...Estamos trabalhando sem ele.",
-        "es-ES": "[Maxim]\nMmm… Le debe haber pasado algo a Ernest.\n… Hacemos todo lo que podemos."
+        "es-ES": "[Maxim]\nMmm... Le debe haber pasado algo a Ernest.\n... Hacemos todo lo que podemos."
     },
     "i29wAw": {
         "en-US": "[Maxim]\nWe will take care of him!\nDon't you worry!",
@@ -1247,7 +1247,7 @@
     "mW9wAw": {
         "en-US": "[Maxim]\nThen ... prove it!\nLet's see what they really are!",
         "pt-BR": "[Maximus]\nEntão..............você vai me provar isso!\nDeus do mar ou um simples monstro!",
-        "es-ES": "[Maxim]\nEntonces… ¡demuéstralo!\n¡Veamos qué son en realidad!"
+        "es-ES": "[Maxim]\nEntonces... ¡demuéstralo!\n¡Veamos qué son en realidad!"
     },
     "mm9wAw": {
         "en-US": "[Maxim]\nIf they mop the floor with you, that means I was right!\nHahaha!",
@@ -1267,12 +1267,12 @@
     "nW9wAw": {
         "en-US": "[Maxim]\nStrouf? Not Poseidon?\nMermen ...?\nI guess they really were just monsters.",
         "pt-BR": "[Maximus]\nNão era Poseidon... era só um Strouf....\nTritão....\nera só um monstro.",
-        "es-ES": "[Maxim]\n¿Strouf? ¿No es Poseidón?\n¿Tritones…?\nSupongo que realmente eran monstruos."
+        "es-ES": "[Maxim]\n¿Strouf? ¿No es Poseidón?\n¿Tritones...?\nSupongo que realmente eran monstruos."
     },
     "nm9wAw": {
         "en-US": "[Maxim]\nThen I have nothing to fear, I guess. I'd better go explore the temple.\n...",
         "pt-BR": "[Maximus]\nEntão, podemos explorar o templo sem medo?\n...",
-        "es-ES": "[Maxim]\nEntonces, supongo que no tengo nada que temer. Será mejor que vaya a explorar el templo.\n…"
+        "es-ES": "[Maxim]\nEntonces, supongo que no tengo nada que temer. Será mejor que vaya a explorar el templo.\n..."
     },
     "n29wAw": {
         "en-US": "[Maxim]\nAfter I eat something and take a nap, of course.\nHahaha!",
@@ -1282,7 +1282,7 @@
     "oG9wAw": {
         "en-US": "[Maxim]\nWe are not dillydallying around here.\nWe will go and have a look around eventually, as the sea god ... I mean, the monster is gone.",
         "pt-BR": "[Maximus]\nEi, não estamos dormindo.\nAgora que os monstros se foram, vamos descer o túnel.",
-        "es-ES": "[Maxim]\nAquí no perdemos el tiempo.\nIremos a ver en algún momento, ahora que el dios del mar… quiero decir, el monstruo ya no está."
+        "es-ES": "[Maxim]\nAquí no perdemos el tiempo.\nIremos a ver en algún momento, ahora que el dios del mar... quiero decir, el monstruo ya no está."
     },
     "oW9wAw": {
         "en-US": "[Maxim]\nI am the leader of this team!\nI should do the right thing, so Ernest need not worry about us.\nHahaha!",
@@ -1292,7 +1292,7 @@
     "om9wAw": {
         "en-US": "[Maxim]\n... Well met.\nThose sentinels at the temple ...",
         "pt-BR": "[Maximus]\n...Olá.\nSim, os monstros daquele templo.",
-        "es-ES": "[Maxim]\n… Dichosos los ojos.\nEsos centinelas en el templo…"
+        "es-ES": "[Maxim]\n... Dichosos los ojos.\nEsos centinelas en el templo..."
     },
     "o29wAw": {
         "en-US": "[Maxim]\nThey are so annoying.\nEven though we know that they are monsters and not gods,\nthat doesn't make them any less threatening!",
@@ -1302,7 +1302,7 @@
     "pG9wAw": {
         "en-US": "[Maxim]\nCan I ask you to ...\n^4D4DFFdefeat 10 Stroufs and 10 Mermen^000000 for me?",
         "pt-BR": "[Maximus]\nEnfim....\nPoderia derrotar ^4D4DFF10 Stroufs e 10 Tritões^000000 para nós?",
-        "es-ES": "[Maxim]\n¿Puedo pedirte que…\n^4D4DFFderrotes a 10 Strouf y 10 Tritones^000000?"
+        "es-ES": "[Maxim]\n¿Puedo pedirte que...\n^4D4DFFderrotes a 10 Strouf y 10 Tritones^000000?"
     },
     "pW9wAw": {
         "en-US": "[Maxim]\nThey are at the 5th level of the Undersea Tunnel.\nI don't know how old these ruins are, but there's a temple deep inside.",
@@ -1322,22 +1322,22 @@
     "qG9wAw": {
         "en-US": "[Maxim]\nHaha ... You could have taken your time a bit, you know?\n... Well, good work. Thank you.",
         "pt-BR": "[Maximus]\nHahah... você é tão veloz...\n...Obrigado.",
-        "es-ES": "[Maxim]\nJa, ja… Podrías haber tardado un poco más, ¿sabes?\n… Buen trabajo. Gracias."
+        "es-ES": "[Maxim]\nJa, ja... Podrías haber tardado un poco más, ¿sabes?\n... Buen trabajo. Gracias."
     },
     "qW9wAw": {
         "en-US": "[Maxim]\nI guess I should come up with a plan to explore the temple now ...\n...",
         "pt-BR": "[Maximus]\nAgora, meu grupo vai analisar como chegar no templo em segurança.\n....",
-        "es-ES": "[Maxim]\nAhora debería idear un plan para explorar el templo…\n…"
+        "es-ES": "[Maxim]\nAhora debería idear un plan para explorar el templo...\n..."
     },
     "qm9wAw": {
         "en-US": "[Maxim]\nBut those monsters ...\nThey're everywhere.\nCan I ask you to go defeat them again tomorrow?",
         "pt-BR": "[Maximus]\nO problema era aqueles caras.\nVai retornar aqui, amanhã?\nMe ajude quando for possível.",
-        "es-ES": "[Maxim]\nPero esos monstruos…\nEstán por todas partes.\n¿Puedo pedirte que vuelvas mañana a derrotarlos?"
+        "es-ES": "[Maxim]\nPero esos monstruos...\nEstán por todas partes.\n¿Puedo pedirte que vuelvas mañana a derrotarlos?"
     },
     "q29wAw": {
         "en-US": "[Maxim]\n... Go get some rest for now.\nHahaha!",
         "pt-BR": "[Maximus]\n...Durma bem hoje.\nHahahaha!",
-        "es-ES": "[Maxim]\n… Ve a descansar por ahora.\n¡Ja, ja, ja!"
+        "es-ES": "[Maxim]\n... Ve a descansar por ahora.\n¡Ja, ja, ja!"
     },
     "rG9wAw": {
         "en-US": "[Pontis]\nPlease help him as much as you can.\nByalan Island can be reached from Izlude Port by boat.",

@@ -1713,10 +1713,10 @@ SkillInfoList_string = {
 		SkillName = "Julgamento Infernal"
 	},
 	[SKID.NPC_RAINOFMETEOR] = {
-		SkillName = "RAIN OF METEOR"
+		SkillName = "Chuva Meteórica"
 	},
 	[SKID.NPC_GROUNDDRIVE] = {
-		SkillName = "GROUND DRIVE"
+		SkillName = "Ruptura Terrestre"
 	},
 	[SKID.NPC_DEADLYCURSE2] = {
 		SkillName = "Praga Mortal"
@@ -3396,9 +3396,12 @@ SkillInfoList_string = {
 	[SKID.EM_ELEMENTAL_VEIL] = {
 		SkillName = "Véu Elemental"
 	},
+	[SKID.ABC_FROM_THE_ABYSS_ATK] = {
+		SkillName = "Invocação do Abismo"
+	},
 	[SKID.NW_P_F_I] = {SkillName = "A.D.P"},
 	[SKID.NW_GRENADE_MASTERY] = {
-		SkillName = "Perícia em Granada"
+		SkillName = "Perícia com Explosivos"
 	},
 	[SKID.NW_INTENSIVE_AIM] = {
 		SkillName = "Mira Focalizada"
@@ -3409,24 +3412,24 @@ SkillInfoList_string = {
 	[SKID.NW_THE_VIGILANTE_AT_NIGHT] = {
 		SkillName = "Vigília Noturna"
 	},
-	[SKID.NW_ONLY_ONE_BULLET] = {
-		SkillName = "Disparo Único"
-	},
+	[SKID.NW_ONLY_ONE_BULLET] = {SkillName = "Tiro Único"},
 	[SKID.NW_SPIRAL_SHOOTING] = {
 		SkillName = "Atirar em Espiral"
 	},
 	[SKID.NW_MAGAZINE_FOR_ONE] = {
 		SkillName = "Artilharia Pesada"
 	},
-	[SKID.NW_WILD_FIRE] = {SkillName = "Tiroteio"},
+	[SKID.NW_WILD_FIRE] = {
+		SkillName = "Fogo de Supressão"
+	},
 	[SKID.NW_BASIC_GRENADE] = {
-		SkillName = "Granada Explosiva"
+		SkillName = "Arremessar Explosivo"
 	},
 	[SKID.NW_HASTY_FIRE_IN_THE_HOLE] = {
-		SkillName = "Gatilho Incandescente"
+		SkillName = "Explosão Gradual"
 	},
 	[SKID.NW_GRENADES_DROPPING] = {
-		SkillName = "Chuva de Granadas"
+		SkillName = "Detonação Total"
 	},
 	[SKID.NW_AUTO_FIRING_LAUNCHER] = {
 		SkillName = "Disparo Automático"
@@ -3448,7 +3451,7 @@ SkillInfoList_string = {
 		SkillName = "Talismã do Guerreiro"
 	},
 	[SKID.SOA_TALISMAN_OF_MAGICIAN] = {
-		SkillName = "Talismã do Mágico"
+		SkillName = "Talismã do Mago"
 	},
 	[SKID.SOA_SOUL_GATHERING] = {
 		SkillName = "Convocar Almas"
@@ -3472,7 +3475,7 @@ SkillInfoList_string = {
 		SkillName = "Talismã do Tigre"
 	},
 	[SKID.SOA_TALISMAN_OF_RED_PHOENIX] = {
-		SkillName = "Talimã da Fênix"
+		SkillName = "Talismã da Fênix"
 	},
 	[SKID.SOA_TALISMAN_OF_BLACK_TORTOISE] = {
 		SkillName = "Talismã do Jabuti"
@@ -3490,19 +3493,19 @@ SkillInfoList_string = {
 		SkillName = "Maestria Mística"
 	},
 	[SKID.SH_COMMUNE_WITH_CHUL_HO] = {
-		SkillName = "União com Onça"
+		SkillName = "Pacto com Tigre"
 	},
 	[SKID.SH_CHUL_HO_SONIC_CLAW] = {
-		SkillName = "Garras de Onça"
+		SkillName = "Unhas de Tigre"
 	},
 	[SKID.SH_HOWLING_OF_CHUL_HO] = {
-		SkillName = "Rugido da Onça"
+		SkillName = "Rugido do Tigre"
 	},
 	[SKID.SH_HOGOGONG_STRIKE] = {
 		SkillName = "Patada Felina"
 	},
 	[SKID.SH_COMMUNE_WITH_KI_SUL] = {
-		SkillName = "União com Tartaruga"
+		SkillName = "Pacto com Tartaruga"
 	},
 	[SKID.SH_KI_SUL_WATER_SPRAYING] = {
 		SkillName = "Esguichar Água"
@@ -3517,7 +3520,7 @@ SkillInfoList_string = {
 		SkillName = "Ira da Tartaruga"
 	},
 	[SKID.SH_COMMUNE_WITH_HYUN_ROK] = {
-		SkillName = "União com Cervo"
+		SkillName = "Pacto com Cervo"
 	},
 	[SKID.SH_COLORS_OF_HYUN_ROK] = {
 		SkillName = "Cores do Arco-Íris"
@@ -3585,7 +3588,7 @@ SkillInfoList_string = {
 	[SKID.SKE_RISING_SUN] = {SkillName = "Amanhecer"},
 	[SKID.SKE_NOON_BLAST] = {SkillName = "Entardecer"},
 	[SKID.SKE_SUNSET_BLAST] = {
-		SkillName = "Crepúsculo Explosivo"
+		SkillName = "Explosão Crepuscular"
 	},
 	[SKID.SKE_RISING_MOON] = {SkillName = "Anoitecer"},
 	[SKID.SKE_MIDNIGHT_KICK] = {

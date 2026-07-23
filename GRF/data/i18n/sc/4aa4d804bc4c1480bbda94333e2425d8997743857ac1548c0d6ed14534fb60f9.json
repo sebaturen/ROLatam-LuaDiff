@@ -1,0 +1,1382 @@
+{
+    "4FZSDQ": {
+        "en-US": "Signpost",
+        "pt-BR": "Placa",
+        "es-ES": "Cartel"
+    },
+    "4VZSDQ": {
+        "en-US": "All who can see my words now, come before me.",
+        "pt-BR": "Todos que conseguirem ver minhas palavras agora, venham até aqui.",
+        "es-ES": "Quienes puedan ver mis palabras, venid todos ante mí."
+    },
+    "4lZSDQ": {
+        "en-US": "[Signpost]\nThere is no need to look at this again now, is there?",
+        "pt-BR": "[Placa]\nAgora você não precisa mais olhar para isto de novo, não é?",
+        "es-ES": "[Placa]\nYa no hace falta volver a mirar esto, ¿verdad?"
+    },
+    "41ZSDQ": {
+        "en-US": "[Signpost]\nAs a Sky Emperor, help lots and lots of people in need!",
+        "pt-BR": "[Placa]\nComo Mestre Celestial, ajude muitas e muitas pessoas em dificuldade!",
+        "es-ES": "[Placa]\n¡Como Emperador Celestial, ayuda muchísimo a quienes lo necesitan!"
+    },
+    "5FZSDQ": {
+        "en-US": "[Signpost]\nDo you have a moment?",
+        "pt-BR": "[Placa]\nVocê tem um momento?",
+        "es-ES": "[Placa]\n¿Tienes un momento?"
+    },
+    "5VZSDQ": {
+        "en-US": "[Signpost]\nThen use it sparingly.",
+        "pt-BR": "[Placa]\nEntão use com cuidado.",
+        "es-ES": "[Placa]\nEntonces úsalo con prudencia."
+    },
+    "5lZSDQ": {
+        "en-US": "It is a signpost with nothing written on it.",
+        "pt-BR": "É uma placa sem nada escrito.",
+        "es-ES": "Es un cartel en el que no hay nada escrito."
+    },
+    "51ZSDQ": {
+        "en-US": "^0000CDThe job change test can be taken from Base Level 200 or higher.^000000",
+        "pt-BR": "^0000CDO teste de mudança de classe pode ser realizado a partir do nível de base 200.^000000",
+        "es-ES": "^0000CDLa prueba de cambio de clase puede realizarse a partir del nivel base 200.^000000"
+    },
+    "6FZSDQ": {
+        "en-US": "[Signpost]\nYou are kinder and stronger than anyone, but still a little lacking. Come back later.",
+        "pt-BR": "[Placa]\nVocê é mais bondoso e forte do que qualquer um, mas ainda lhe falta um pouco. Volte mais tarde.",
+        "es-ES": "[Placa]\nEres más bondadoso y fuerte que nadie, pero aún te falta un poco. Vuelve más adelante."
+    },
+    "6VZSDQ": {
+        "en-US": "^0000CDThe job change test can be taken from Job Level 70 or higher.^000000",
+        "pt-BR": "^0000CDO teste de mudança de classe pode ser realizado a partir do nível de classe 70.^000000",
+        "es-ES": "^0000CDLa prueba de cambio de clase puede realizarse a partir del nivel de clase 70.^000000"
+    },
+    "6lZSDQ": {
+        "en-US": "[Signpost]\nYou are kinder and stronger than anyone, but still small and fragile. In that state, you cannot train in good deeds with me.",
+        "pt-BR": "[Placa]\nVocê é mais bondoso e forte do que qualquer um, mas ainda é pequeno e frágil. Nesse estado, não poderá treinar boas ações comigo.",
+        "es-ES": "[Placa]\nEres más bondadoso y fuerte que nadie, pero aún eres una criatura pequeña y frágil. En ese estado no puedes entrenar conmigo en buenas acciones."
+    },
+    "61ZSDQ": {
+        "en-US": "[Signpost]\nI will send you to the town office, so why not become independent and then train with me? I guarantee you will be able to surpass your limits.",
+        "pt-BR": "[Placa]\nVou enviá-lo à prefeitura, então que tal tornar-se independente e depois treinar comigo? Garanto que poderá superar seus limites.",
+        "es-ES": "[Placa]\nTe enviaré al ayuntamiento, así que ¿qué te parece independizarte y luego entrenar conmigo? Te garantizo que podrás superar tus límites."
+    },
+    "7FZSDQ": {
+        "en-US": "^0000CDThe job change test includes a harsh process that cannot be endured with a small and fragile body. You can proceed again after becoming independent.^000000",
+        "pt-BR": "^0000CDO teste de mudança de classe inclui um processo árduo que um corpo pequeno e frágil não consegue suportar. Você poderá prosseguir novamente após se tornar independente.^000000",
+        "es-ES": "^0000CDLa prueba de cambio de clase incluye un proceso arduo que un cuerpo pequeño y frágil no puede soportar. Podrás continuar después de independizarte.^000000"
+    },
+    "7VZSDQ": {
+        "en-US": "Shall we go, then?",
+        "pt-BR": "Então vamos?",
+        "es-ES": "¿Vamos entonces?"
+    },
+    "7lZSDQ": {
+        "en-US": "What is this?",
+        "pt-BR": "O que é isto?",
+        "es-ES": "¿Qué es esto?"
+    },
+    "71ZSDQ": {
+        "en-US": "[{0}]\nThis seems like a scam, but it would not hurt to try.\nSignpost, send me to the Prontera town office.",
+        "pt-BR": "[{0}]\nParece golpe, mas não custa tentar.\nPlaca, envie-me à prefeitura de Prontera.",
+        "es-ES": "[{0}]\nParece una estafa, pero tampoco está mal intentarlo.\nCartel, envíame al ayuntamiento de Prontera."
+    },
+    "8FZSDQ": {
+        "en-US": "[Signpost]\nYour words are terribly arrogant. However, I will forgive you just this once.\nGo and return, then we shall meet again.",
+        "pt-BR": "[Placa]\nSuas palavras são extremamente arrogantes. Mas vou perdoá-lo apenas desta vez.\nVolte e nos veremos novamente.",
+        "es-ES": "[Placa]\nTus palabras son muy insolentes. Aun así, te perdonaré solo por esta vez.\nVuelve cuando hayas terminado."
+    },
+    "8VZSDQ": {
+        "en-US": "[{0}]\nWhat is a mere signpost doing, telling me what to do?\nI should just be on my way.",
+        "pt-BR": "[{0}]\nQuem uma simples placa pensa que é para ficar me dizendo o que fazer?\nÉ melhor eu seguir meu caminho.",
+        "es-ES": "[{0}]\n¿Qué se cree este cartel para decirme qué hacer?\nSerá mejor que siga mi camino."
+    },
+    "8lZSDQ": {
+        "en-US": "[Signpost]\nThose who believe they are kinder than others and possess outstanding abilities, come to me and make your will known far and wide!",
+        "pt-BR": "[Placa]\nAquele que se considerar mais bondoso e mais habilidoso que os outros, venha até mim e faça sua vontade ecoar amplamente!",
+        "es-ES": "[Placa]\n¡Quien se considere más bondadoso y capaz que los demás, que venga a mí y haga resonar su voluntad por todas partes!"
+    },
+    "81ZSDQ": {
+        "en-US": "A good person? What is the purpose...?",
+        "pt-BR": "Uma pessoa bondosa? Qual é o objetivo...?",
+        "es-ES": "¿Una persona bondadosa? ¿Cuál es su propósito...?"
+    },
+    "9FZSDQ": {
+        "en-US": "Read more.",
+        "pt-BR": "Ler mais um pouco.",
+        "es-ES": "Leer un poco más."
+    },
+    "9VZSDQ": {
+        "en-US": "Ignore it and pass by.",
+        "pt-BR": "Ignorar e passar.",
+        "es-ES": "Ignorarlo y pasar de largo."
+    },
+    "9lZSDQ": {
+        "en-US": "[Tired Person]\nCan you see the words written here?",
+        "pt-BR": "[Pessoa Cansada]\nVocê consegue ver o que está escrito aqui?",
+        "es-ES": "[Persona fatigada]\nTú, ¿puedes ver lo que está escrito aquí?"
+    },
+    "91ZSDQ": {
+        "en-US": "Can you see the words written here?",
+        "pt-BR": "Você consegue ver o que está escrito aqui?",
+        "es-ES": "Tú, ¿puedes ver lo que está escrito aquí?"
+    },
+    "+FZSDQ": {
+        "en-US": "[Tired Person]\nOf all the people who passed through here today, none could see these words. You are the first.",
+        "pt-BR": "[Pessoa Cansada]\nEntre todos que passaram por aqui hoje, ninguém conseguia ver estas palavras. Você é o primeiro.",
+        "es-ES": "[Persona fatigada]\nDe todos los que han pasado hoy por aquí, nadie pudo ver estas palabras. Tú eres el primero."
+    },
+    "+VZSDQ": {
+        "en-US": "Are you the one who wrote this?",
+        "pt-BR": "Foi você que escreveu isto?",
+        "es-ES": "¿Es usted quien lo escribió?"
+    },
+    "+lZSDQ": {
+        "en-US": "[Tired Person]\nThat was not me. But I am searching for the one who wrote it.",
+        "pt-BR": "[Pessoa Cansada]\nNão fui eu. Mas estou procurando quem escreveu isto.",
+        "es-ES": "[Persona fatigada]\nNo fui yo. Pero busco a la persona que lo escribió."
+    },
+    "+1ZSDQ": {
+        "en-US": "It even gives directions.",
+        "pt-BR": "Também há uma indicação de caminho.",
+        "es-ES": "Pero también indica el camino, ¿no?"
+    },
+    "/FZSDQ": {
+        "en-US": "[Tired Person]\nThese words contain a special power, so those who are not qualified cannot see them, and even if they happen to see them, they cannot find the way.",
+        "pt-BR": "[Pessoa Cansada]\nEstas palavras contêm um poder especial, por isso não aparecem para quem não tem qualificação. E mesmo que apareçam, essa pessoa não consegue encontrar o caminho.",
+        "es-ES": "[Persona fatigada]\nEstas palabras contienen un poder especial, de modo que no se muestran ante quienes no reúnen las condiciones. Y aunque alguien llegara a verlas, no podría encontrar el camino."
+    },
+    "/VZSDQ": {
+        "en-US": "[Tired Person]\nI tried to go to the place written here, but I kept losing my way, so I was waiting here for someone else to appear. Perhaps my virtue is lacking...",
+        "pt-BR": "[Pessoa Cansada]\nMesmo tentando ir ao lugar escrito aqui, eu continuava me perdendo, então fiquei esperando neste local até que outra pessoa aparecesse. Talvez seja por falta de virtude minha...",
+        "es-ES": "[Persona fatigada]\nHe intentado ir al lugar escrito aquí, pero no dejo de perderme, así que esperaba en este sitio a que apareciera otra persona. Quizá sea porque me falta virtud..."
+    },
+    "/lZSDQ": {
+        "en-US": "A suspicious signpost and a suspicious person...",
+        "pt-BR": "Uma placa suspeita e uma pessoa suspeita...",
+        "es-ES": "Un cartel sospechoso y una persona sospechosa..."
+    },
+    "/1ZSDQ": {
+        "en-US": "[Tired Person]\nIf my guess is correct, this will not bring you harm, so it would be good for you to go there once.",
+        "pt-BR": "[Pessoa Cansada]\nSe meu palpite estiver correto, não será algo prejudicial para você. Seria bom tentar ir até lá.",
+        "es-ES": "[Persona fatigada]\nSi mi suposición es correcta, no será algo que te perjudique, así que sería bueno que fueras a echar un vistazo."
+    },
+    "AFdSDQ": {
+        "en-US": "[Tired Person]\nI sense ^0000CDthe trace of the one who wrote these words^000000 from you. You must already be connected to that person, so be at ease.",
+        "pt-BR": "[Pessoa Cansada]\nSinto em você ^0000CDos vestígios de quem escreveu estas palavras^000000. Deve ser alguém com quem você já tem ligação, então fique tranquilo.",
+        "es-ES": "[Persona fatigada]\nPercibo en ti ^0000CDel rastro de la persona que escribió estas palabras^000000. Ya tendrás un vínculo con ella, así que puedes estar tranquilo."
+    },
+    "AVdSDQ": {
+        "en-US": "Really? Who could it be...? All right.",
+        "pt-BR": "É mesmo? Quem será...? Entendi.",
+        "es-ES": "¿Ah, sí? ¿Quién será...? De acuerdo."
+    },
+    "AldSDQ": {
+        "en-US": "If you put it that way...",
+        "pt-BR": "Se você insiste tanto...",
+        "es-ES": "Si insiste tanto..."
+    },
+    "A1dSDQ": {
+        "en-US": "[Tired Person]\nExcellent! Thank you truly. I will surely repay this favor...",
+        "pt-BR": "[Pessoa Cansada]\nQue bom! Muito obrigado. Um dia, eu certamente retribuirei este favor...",
+        "es-ES": "[Persona fatigada]\n¡Excelente! Te lo agradezco de verdad. Esta deuda, sin duda..."
+    },
+    "BFdSDQ": {
+        "en-US": "Wait here until I come back.",
+        "pt-BR": "Espere aqui até eu voltar.",
+        "es-ES": "Espere aquí hasta que vuelva."
+    },
+    "BVdSDQ": {
+        "en-US": "[Tired Person]\nWhat are you saying? You must take me with you...",
+        "pt-BR": "[Pessoa Cansada]\nO que quer dizer com isso? Você precisa me levar junto...",
+        "es-ES": "[Persona fatigada]\n¿Qué significa eso? Debes llevarme contigo..."
+    },
+    "BldSDQ": {
+        "en-US": "[{0}]\nYou said you cannot find the way because you are unqualified, right? How do I know you will not bring harm to the one who wrote this?",
+        "pt-BR": "[{0}]\nVocê disse que não consegue encontrar o caminho por não ter qualificação, não disse? Como eu vou saber se você não fará algum mal a quem escreveu isto?",
+        "es-ES": "[{0}]\n¿No dijo que no encontraba el camino porque no cumplía las condiciones? ¿Cómo sé que no será una amenaza para la persona que escribió esto?"
+    },
+    "B1dSDQ": {
+        "en-US": "[Tired Person]\nNo, I am not that kind of person...! There are circumstances...! Please, listen to me!",
+        "pt-BR": "[Pessoa Cansada]\nNão, eu não sou esse tipo de pessoa...! Há circunstâncias...! Por favor, ouça o que tenho a dizer!",
+        "es-ES": "[Persona fatigada]\nNo, yo no soy esa clase de persona...! Hay circunstancias...! ¡Por favor, escucha lo que tengo que decir!"
+    },
+    "CFdSDQ": {
+        "en-US": "I say! Take me with you!",
+        "pt-BR": "Ei! Leve-me com você!",
+        "es-ES": "¡Oye! ¡Llévame contigo!"
+    },
+    "CVdSDQ": {
+        "en-US": "[{0}]\nThis is suspicious, so I should just pass by.",
+        "pt-BR": "[{0}]\nÉ suspeito, então é melhor eu simplesmente passar.",
+        "es-ES": "[{0}]\nEs sospechoso, así que será mejor seguir mi camino."
+    },
+    "CldSDQ": {
+        "en-US": "[Tired Person]\nYou left me here and went on alone. Did things go well?",
+        "pt-BR": "[Pessoa Cansada]\nVocê me deixou aqui e foi embora. A tarefa foi bem-sucedida?",
+        "es-ES": "[Persona fatigada]\nTú, me dejaste aquí y te fuiste. ¿Salió bien aquello a lo que fuiste?"
+    },
+    "C1dSDQ": {
+        "en-US": "Or did your feet give out before you even got far?",
+        "pt-BR": "Ou será que não conseguiu nem andar dez ri antes de adoecer?",
+        "es-ES": "¿O acaso no llegaste ni a diez li antes de que te dolieran los pies?"
+    },
+    "DFdSDQ": {
+        "en-US": "Are your feelings hurt?",
+        "pt-BR": "Você ficou magoado?",
+        "es-ES": "¿Se ha sentido ofendido?"
+    },
+    "DVdSDQ": {
+        "en-US": "[Tired Person]\nThat is not it. I merely lament the present state of the world, where people cannot trust one another.",
+        "pt-BR": "[Pessoa Cansada]\nNão é isso. Apenas lamento esta era em que as pessoas não conseguem confiar umas nas outras.",
+        "es-ES": "[Persona fatigada]\nNo es eso. Solo lamento el estado actual de una sociedad en la que no se puede confiar en las personas."
+    },
+    "DldSDQ": {
+        "en-US": "Fine. I understand, so let us go now.",
+        "pt-BR": "Tá. Entendi, então vamos.",
+        "es-ES": "Bueno. Entendido, así que vamos."
+    },
+    "D1dSDQ": {
+        "en-US": "[Tired Person]\nGo... where?",
+        "pt-BR": "[Pessoa Cansada]\nPara onde...?",
+        "es-ES": "[Persona fatigada]\n¿Adónde...?"
+    },
+    "EFdSDQ": {
+        "en-US": "[{0}]\nWhere else? You said you needed to meet the person who wrote this. I was told to help people, so helping you should count.",
+        "pt-BR": "[{0}]\nComo assim, para onde? Você disse que precisava encontrar quem escreveu estas palavras. Mandaram-me ajudar pessoas, então basta ajudar você, não é?",
+        "es-ES": "[{0}]\n¿Adónde va a ser? Dijo que tenía que ver a la persona que escribió esto. Como me dijeron que ayudara a las personas, bastará con ayudarle a usted."
+    },
+    "EVdSDQ": {
+        "en-US": "[Tired Person]\nDid you not say I was suspicious?",
+        "pt-BR": "[Pessoa Cansada]\nVocê não disse que eu era suspeito?",
+        "es-ES": "[Persona fatigada]\n¿No dijiste que sospechabas de mí?"
+    },
+    "EldSDQ": {
+        "en-US": "[{0}]\nI do not know what your purpose is, but no matter what you try, that person is not someone who will be taken down so easily, and I will be there too.",
+        "pt-BR": "[{0}]\nNão sei qual é o seu objetivo, mas, seja o que fizer, aquela pessoa não cairia tão facilmente assim, e eu também estarei lá.",
+        "es-ES": "[{0}]\nNo sé cuál es su propósito, pero haga lo que haga, esa persona no es alguien que vaya a caer tan fácilmente, y además estoy yo."
+    },
+    "E1dSDQ": {
+        "en-US": "[Tired Person]\nDo I not look like someone who would harm others?\nYour eye for people does not seem particularly good...",
+        "pt-BR": "[Pessoa Cansada]\nNão pareço alguém que faria mal aos outros?\nParece que você não é muito bom em julgar pessoas...",
+        "es-ES": "[Persona fatigada]\n¿Acaso no parezco alguien que pueda hacer daño a los demás?\nNo parece que tengas muy buen ojo para juzgar a las personas..."
+    },
+    "FFdSDQ": {
+        "en-US": "Ah, well. Now that you mention it, maybe so.",
+        "pt-BR": "Ah, bem. Pensando assim, talvez pareça mesmo.",
+        "es-ES": "Ah, bueno. Ahora que lo dice, quizá sí."
+    },
+    "FVdSDQ": {
+        "en-US": "If you do not want to go, never mind.",
+        "pt-BR": "Se não quiser ir, não vá.",
+        "es-ES": "Si no quiere ir, da igual."
+    },
+    "FldSDQ": {
+        "en-US": "[Tired Person]\nBy the way, did you happen to tell that person about me?",
+        "pt-BR": "[Pessoa Cansada]\nMas, por acaso, falou sobre mim a essa pessoa?",
+        "es-ES": "[Persona fatigada]\nPero ¿le hablaste de mí a esa persona?"
+    },
+    "F1dSDQ": {
+        "en-US": "[{0}]\nNo? I was wondering who to help last, and remembered you, so I came here.",
+        "pt-BR": "[{0}]\nNão. Eu estava pensando em quem ajudar por último e lembrei de você, então vim.",
+        "es-ES": "[{0}]\n¿No? Estaba pensando a quién ayudar por último y me acordé de usted, así que vine."
+    },
+    "GFdSDQ": {
+        "en-US": "[Tired Person]\nWell done.\n...? No, wait... If you had not remembered me, were you planning not to help me?",
+        "pt-BR": "[Pessoa Cansada]\nFez bem.\n...? Não, mas... se não tivesse se lembrado, pretendia não me ajudar?",
+        "es-ES": "[Persona fatigada]\nBien hecho.\n...? No, espera... ¿Si no te hubieras acordado, no pensabas ayudarme?"
+    },
+    "GVdSDQ": {
+        "en-US": "[{0}]\nBut I came like this, did I not? If you are not going, I will look for someone else.",
+        "pt-BR": "[{0}]\nMas eu vim, não vim? Se não for, vou procurar outra pessoa.",
+        "es-ES": "[{0}]\nPero al final he venido. Si no va a venir, buscaré a otra persona."
+    },
+    "GldSDQ": {
+        "en-US": "[Tired Person]\nWho said I was not going...! No, you keep twisting people's words...! I say!!! We should go together!",
+        "pt-BR": "[Pessoa Cansada]\nQuem disse que não vou...! Não, você fica sempre distorcendo o que digo...! Ei!!! Temos que ir juntos!",
+        "es-ES": "[Persona fatigada]\n¿Quién dijo que no iría...! No, es que siempre tergiversas lo que digo...! ¡¡Oye!! ¡Tendremos que ir juntos!"
+    },
+    "G1dSDQ": {
+        "en-US": "[Signpost]\nThose who perform good deeds, come to me.",
+        "pt-BR": "[Placa]\nAquele que pratica boas ações, venha até mim.",
+        "es-ES": "[Placa]\nQuien realice buenas acciones, que venga a mí."
+    },
+    "HFdSDQ": {
+        "en-US": "[Signpost]\nAdventurer, why are you looking at this signpost? You miss me, do you not?\nWhile working on matters of the heavenly realm, I sometimes come down here to help with the Star Emperor job change. It was fun.\nAdventurer, you should find fun things to do and enjoy them to your heart's content. As a Sky Emperor, there is nothing you cannot do, is there?\nThen take care, and think of me from time to time. Goodbye! - Eunha",
+        "pt-BR": "[Placa]\nAventureiro, por que está olhando para esta placa? Está com saudade de mim, não é?\nEnquanto cuido dos assuntos do reino celestial, às vezes desço até aqui para ajudar na mudança de classe de Mestre Estelar. Aquilo foi divertido.\nAventureiro, procure também algo divertido e faça o quanto quiser. Como Mestre Celestial, não há nada que você não possa fazer, não é?\nEntão fique bem e pense em mim de vez em quando. Até mais! - Cosmos",
+        "es-ES": "[Placa]\nAventurero, ¿por qué miras este cartel? ¿Me echas de menos, verdad?\nMientras me encargo de los asuntos del reino celestial, de vez en cuando bajo aquí para ayudar con el cambio de clase a Emperador Estelar. Fue divertido.\nAventurero, tú también busca algo divertido y disfrútalo todo lo que quieras. Como Emperador Celestial, no hay nada que no puedas hacer, ¿verdad?\nEntonces cuídate y piensa en mí de vez en cuando. ¡Hasta luego! - Cosmos"
+    },
+    "HVdSDQ": {
+        "en-US": "[Signpost]\nOne who performs good deeds, this is not where you should be now. Go out and help those in need.",
+        "pt-BR": "[Placa]\nAquele que pratica boas ações, este não é o lugar onde você deve estar agora. Saia e ajude pessoas que precisam de ajuda.",
+        "es-ES": "[Placa]\nQuien realiza buenas acciones, este no es el lugar donde debes estar ahora. Sal y ayuda a quienes lo necesiten."
+    },
+    "HldSDQ": {
+        "en-US": "[Signpost]\nWelcome to the Mountain City of Payon!",
+        "pt-BR": "[Placa]\nBem-vindo à cidade montanhosa de Payon!",
+        "es-ES": "[Placa]\n¡Te damos la bienvenida a la ciudad montañosa de Payon!"
+    },
+    "H1dSDQ": {
+        "en-US": "Tired Person",
+        "pt-BR": "Pessoa Cansada",
+        "es-ES": "Persona fatigada"
+    },
+    "IFdSDQ": {
+        "en-US": "[Tired Person]\nDid you come to take me with you? Surely you are not going alone again??",
+        "pt-BR": "[Pessoa Cansada]\nVocê veio para me levar? Não vai querer ir sozinho de novo, vai?",
+        "es-ES": "[Persona fatigada]\n¿Has venido a llevarme contigo? No me digas que otra vez pensabas ir solo."
+    },
+    "IVdSDQ": {
+        "en-US": "[Tired Person]\nIt would be best to hurry. There is not much time.",
+        "pt-BR": "[Pessoa Cansada]\nÉ melhor irmos depressa. Não resta muito tempo.",
+        "es-ES": "[Persona fatigada]\nSerá mejor que nos demos prisa. No queda mucho tiempo."
+    },
+    "IldSDQ": {
+        "en-US": "[Tired Person]\nDid things go well?",
+        "pt-BR": "[Pessoa Cansada]\nA tarefa foi bem-sucedida?",
+        "es-ES": "[Persona fatigada]\n¿Salió bien aquello a lo que fuiste?"
+    },
+    "I1dSDQ": {
+        "en-US": "Eunha",
+        "pt-BR": "Cosmos",
+        "es-ES": "Cosmos"
+    },
+    "JFdSDQ": {
+        "en-US": "[Person Looking Only at the Sky]\nToday is the last day, so why is no one coming? What will happen to me after today passes?",
+        "pt-BR": "[Pessoa que só olha para o céu]\nHoje é o último dia, então por que ninguém vem? O que será de mim depois que o dia de hoje passar?",
+        "es-ES": "[Persona que mira al cielo]\nHoy es el último día. ¿Por qué no viene nadie? ¿Qué será de mí cuando pase el día de hoy?"
+    },
+    "JVdSDQ": {
+        "en-US": "[Person Looking Only at the Sky]\nAh~ I do not know. Tomorrow's me will take care of it. Good luck, tomorrow's me!",
+        "pt-BR": "[Pessoa que só olha para o céu]\nAh~ não sei. Meu eu de amanhã que resolva. Força, eu de amanhã!",
+        "es-ES": "[Persona que mira al cielo]\nAh~ No lo sé. Mi yo de mañana se encargará. ¡Ánimo, mi yo de mañana!"
+    },
+    "JldSDQ": {
+        "en-US": "Excuse me...",
+        "pt-BR": "Com licença...",
+        "es-ES": "Disculpe..."
+    },
+    "J1dSDQ": {
+        "en-US": "[Person Looking Only at the Sky]\nAh! One kinder and more outstanding than others! You have come well to spread your will...?\nYou are... Cutie?",
+        "pt-BR": "[Pessoa que só olha para o céu]\nAh! Alguém mais bondoso e superior que os demais! Veio muito bem para cumprir sua vontade...?\nVocê é... fofura?",
+        "es-ES": "[Persona que mira al cielo]\n¡Ah! ¡Alguien más bondadoso y capaz que los demás! Has venido a extender tu voluntad...?\nTú eres... ¿la cosita adorable?"
+    },
+    "KFdSDQ": {
+        "en-US": "Senior Eunha?",
+        "pt-BR": "Irmão Cosmos?",
+        "es-ES": "¿Hermano mayor Cosmos?"
+    },
+    "KVdSDQ": {
+        "en-US": "[Eunha]\nTo think it would be someone I know. The heavens have not completely abandoned me after all.\nHey, do you perhaps need help?",
+        "pt-BR": "[Cosmos]\nQue bom que é alguém que eu conheço. Os céus não me abandonaram completamente.\nEi, por acaso você precisa de ajuda?",
+        "es-ES": "[Cosmos]\nJusto ha aparecido alguien que conozco. Parece que el cielo no me ha abandonado por completo.\nOye, ¿necesitas ayuda por casualidad?"
+    },
+    "KldSDQ": {
+        "en-US": "Help? Not really...",
+        "pt-BR": "Ajuda? Não exatamente...",
+        "es-ES": "¿Ayuda? No especialmente..."
+    },
+    "K1dSDQ": {
+        "en-US": "[Eunha]\nOh, come on! Think carefully! I will help you.",
+        "pt-BR": "[Cosmos]\nAh, qual é! Pense bem! Eu vou ajudar você.",
+        "es-ES": "[Cosmos]\n¡Ah, por qué! ¡Piénsalo bien! Yo te ayudaré."
+    },
+    "LFdSDQ": {
+        "en-US": "Even if you say that...",
+        "pt-BR": "Mesmo que diga isso...",
+        "es-ES": "Aunque me diga eso..."
+    },
+    "LVdSDQ": {
+        "en-US": "[Eunha]\nI said hurry up and receive my help.",
+        "pt-BR": "[Cosmos]\nEstou dizendo para aceitar logo minha ajuda.",
+        "es-ES": "[Cosmos]\n¡Date prisa y recibe mi ayuda!"
+    },
+    "LldSDQ": {
+        "en-US": "But why??",
+        "pt-BR": "Mas por quê??",
+        "es-ES": "¿Pero por qué?"
+    },
+    "L1dSDQ": {
+        "en-US": "[Eunha]\nAh, I said receive it! Even when I say I will help, you make a fuss! Please just accept it, please...",
+        "pt-BR": "[Cosmos]\nAh, estou dizendo. Aceite! Até quando ofereço ajuda é esse drama! Por favor, aceite, por favor...",
+        "es-ES": "[Cosmos]\n¡Te digo que la aceptes! ¡Menudo lío incluso cuando intento ayudar! Por favor, acéptala, por favor..."
+    },
+    "MFdSDQ": {
+        "en-US": "[Eunha]\nAh, right! Lately, do you not feel like your training has reached its limits, and that you are no longer growing? I can solve that for you.",
+        "pt-BR": "[Cosmos]\nAh, isso mesmo! Ultimamente, você sente que seu treinamento chegou ao limite e que não consegue mais crescer, não é? Eu posso resolver isso.",
+        "es-ES": "[Cosmos]\n¡Ah, claro! ¿No sientes últimamente que tu entrenamiento ha llegado a un límite y que ya no puedes crecer más? Yo puedo resolver eso."
+    },
+    "MVdSDQ": {
+        "en-US": "[{0}]\nHow did you know?? Actually, lately I have been...",
+        "pt-BR": "[{0}]\nComo você sabia?? Na verdade, ultimamente eu...",
+        "es-ES": "[{0}]\n¿Cómo lo supo? La verdad es que últimamente..."
+    },
+    "MldSDQ": {
+        "en-US": "[Eunha]\nAh~ I will hear the details later, so for now, ^0000CDyou need to help some other people so I can help you^000000.",
+        "pt-BR": "[Cosmos]\nAh~ os detalhes eu ouço depois. Por enquanto, ^0000CDpara ajudar você, preciso que você ajude outras pessoas^000000.",
+        "es-ES": "[Cosmos]\nAh~ Los detalles los escucharé luego, así que por ahora tendrás que ^0000CDayudar a otras personas para que yo pueda ayudarte a ti^000000."
+    },
+    "M1dSDQ": {
+        "en-US": "What?",
+        "pt-BR": "O quê?",
+        "es-ES": "¿Eh?"
+    },
+    "NFdSDQ": {
+        "en-US": "[Eunha]\nBecause ^0000CDhelping others will ultimately help you^000000. The results of your actions all return to you.",
+        "pt-BR": "[Cosmos]\nPorque ^0000CDajudar os outros, no fim, é ajudar a si mesmo^000000. As consequências das ações sempre retornam para você.",
+        "es-ES": "[Cosmos]\nAyudar a los demás ^0000CDtermina siendo ayudarte a ti mismo^000000. Los resultados de tus actos siempre vuelven a ti."
+    },
+    "NVdSDQ": {
+        "en-US": "[Eunha]\nSo go around and help people who need help. ^0000CD4 people^000000 should be enough. By the way, you absolutely must not accept any reward. This good deed must not be done in exchange for compensation.",
+        "pt-BR": "[Cosmos]\nEntão vá por aí e ajude pessoas que precisem de ajuda. ^0000CD4 pessoas^000000 deve bastar. E, só para lembrar, você não pode aceitar recompensa, entendeu? Esta boa ação não pode ser feita em troca de pagamento.",
+        "es-ES": "[Cosmos]\nAsí que recorre distintos lugares y ayuda a personas necesitadas. Con ^0000CD4 personas^000000 bastará. Y, por cierto, no aceptes nunca ninguna recompensa. Esta buena acción no debe hacerse a cambio de nada."
+    },
+    "NldSDQ": {
+        "en-US": "All of a sudden?",
+        "pt-BR": "De repente assim?",
+        "es-ES": "¿Así de repente?"
+    },
+    "N1dSDQ": {
+        "en-US": "[Eunha]\nThere is no time. Hurry and go. As it happens, there is a <NAVI>[person]<INFO>veins,238,110,0,101,0,</INFO></NAVI> who made a wish to me, so you can go there. I will attach my little cloud to you so you can come back quickly. Just think of where you want to go.",
+        "pt-BR": "[Cosmos]\nNão há tempo. Vá logo. Por acaso, há uma <NAVI>[pessoa]<INFO>veins,238,110,0,101,0,</INFO></NAVI> que fez um pedido a mim, então você pode ir até lá. Vou prender minha pequena nuvem em você para que possa ir e voltar rapidamente. Basta pensar no lugar para onde quer ir.",
+        "es-ES": "[Cosmos]\nNo hay tiempo. Ve rápido. Justo hay una <NAVI>[persona]<INFO>veins,238,110,0,101,0,</INFO></NAVI> que me pidió un deseo, así que puedes ir allí. Para que puedas volver rápido, te pondré una de mis nubecitas. Solo piensa en el lugar al que quieres ir."
+    },
+    "OFdSDQ": {
+        "en-US": "You can do that too...?",
+        "pt-BR": "Você consegue fazer até isso...?",
+        "es-ES": "¿También puede hacer algo así...?"
+    },
+    "OVdSDQ": {
+        "en-US": "[Eunha]\nHave a good trip!!",
+        "pt-BR": "[Cosmos]\nBoa viagem!!",
+        "es-ES": "[Cosmos]\n¡Buen viaje!"
+    },
+    "OldSDQ": {
+        "en-US": "[Eunha]\nWhy are you here? Go perform good deeds.",
+        "pt-BR": "[Cosmos]\nPor que está aqui? Vá praticar boas ações.",
+        "es-ES": "[Cosmos]\n¿Por qué estás aquí? Te dije que hicieras buenas acciones."
+    },
+    "O1dSDQ": {
+        "en-US": "[Eunha]\nYou are here! You helped people properly, right? Now then. Let us see the stamp appear.",
+        "pt-BR": "[Cosmos]\nVocê voltou! Deve ter ajudado bem as pessoas, certo? Então vamos ver o carimbo ser marcado.",
+        "es-ES": "[Cosmos]\n¡Has vuelto! Seguro que ayudaste bien a esas personas, ¿verdad? Bien, veamos cómo se estampan los sellos."
+    },
+    "PFdSDQ": {
+        "en-US": "[Eunha]\n^FF0000996^000000...",
+        "pt-BR": "[Cosmos]\n^FF0000996^000000...",
+        "es-ES": "[Cosmos]\n^FF0000996^000000..."
+    },
+    "PVdSDQ": {
+        "en-US": "[Eunha]\n996...\n^FF0000997^000000...",
+        "pt-BR": "[Cosmos]\n996...\n^FF0000997^000000...",
+        "es-ES": "[Cosmos]\n996...\n^FF0000997^000000..."
+    },
+    "PldSDQ": {
+        "en-US": "[Eunha]\n996...\n997...\n^FF0000998^000000...",
+        "pt-BR": "[Cosmos]\n996...\n997...\n^FF0000998^000000...",
+        "es-ES": "[Cosmos]\n996...\n997...\n^FF0000998^000000..."
+    },
+    "P1dSDQ": {
+        "en-US": "[Eunha]\n996...\n997...\n998...\n99... Huh?",
+        "pt-BR": "[Cosmos]\n996...\n997...\n998...\n99... Hã?",
+        "es-ES": "[Cosmos]\n996...\n997...\n998...\n99... ¿Eh?"
+    },
+    "QFdSDQ": {
+        "en-US": "[Eunha]\nOne person is missing? No, no. It must be exactly 4 people.",
+        "pt-BR": "[Cosmos]\nEstá faltando uma pessoa. Não, não. Precisa ser exatamente 4 pessoas.",
+        "es-ES": "[Cosmos]\nFalta una persona. No puede ser, no puede ser. Tienen que ser exactamente 4."
+    },
+    "QVdSDQ": {
+        "en-US": "[Eunha]\nThere is not much time, so hurry back down and help someone else. That way, the number will be just right. You need to hurry.",
+        "pt-BR": "[Cosmos]\nNão há muito tempo, então desça logo de novo e ajude outra pessoa. Assim o número ficará certo. Precisa se apressar.",
+        "es-ES": "[Cosmos]\nNo queda mucho tiempo, así que baja de nuevo enseguida y ayuda a otra persona. Así el número encajará justo. Tienes que darte prisa."
+    },
+    "QldSDQ": {
+        "en-US": "I definitely helped 4 people.",
+        "pt-BR": "Eu com certeza ajudei 4 pessoas.",
+        "es-ES": "Estoy seguro de que ayudé a 4 personas."
+    },
+    "Q1dSDQ": {
+        "en-US": "[Eunha]\nThen one of them must not have met the heavenly realm's standard for a good deed. Or you accepted compensation.\nThere is no time for this, so go back down and help someone else. You need to receive help too.",
+        "pt-BR": "[Cosmos]\nEntão uma delas não deve ter alcançado o padrão de boas ações exigido pelo reino celestial. Ou talvez você tenha recebido recompensa.\nNão há tempo para isso, então desça de novo e ajude outra pessoa. Você também precisa receber ajuda logo.",
+        "es-ES": "[Cosmos]\nEntonces una de ellas no habrá cumplido el estándar de buenas acciones que exige el reino celestial. O quizá aceptaste una recompensa.\nNo tenemos tiempo para esto, así que baja de nuevo y ayuda a otra persona. Tú también debes recibir ayuda pronto."
+    },
+    "RFdSDQ": {
+        "en-US": "[Eunha]\nUh...? Wait!!!",
+        "pt-BR": "[Cosmos]\nHã...? Espere!!!",
+        "es-ES": "[Cosmos]\n¿Eh...? ¡¡¡Espera un momento!!!"
+    },
+    "RVdSDQ": {
+        "en-US": "[Eunha]\n^FF0000999^000000!!!",
+        "pt-BR": "[Cosmos]\n^FF0000999^000000!!!",
+        "es-ES": "[Cosmos]\n¡¡¡^FF0000999^000000!!!"
+    },
+    "RldSDQ": {
+        "en-US": "[Eunha]\nThe stamp suddenly appeared? Why? It seems your good deed has finally been completed. What did you do?\nNo, whatever! Now it is your turn...",
+        "pt-BR": "[Cosmos]\nO carimbo foi marcado de repente? Por quê? Parece que sua boa ação só foi concluída agora. O que você fez?\nNão, tanto faz! Agora é sua vez...",
+        "es-ES": "[Cosmos]\n¿De pronto se estampó el sello? ¿Por qué? Parece que tu buena acción acaba de completarse ahora. ¿Qué has hecho?\nBueno, ¡qué más da! Ahora es tu turno..."
+    },
+    "R1dSDQ": {
+        "en-US": "[Tired Person]\nLady Eunha!!!",
+        "pt-BR": "[Pessoa Cansada]\nSenhor Cosmos!!!",
+        "es-ES": "[Persona fatigada]\n¡¡¡Señor Cosmos!!!"
+    },
+    "SFdSDQ": {
+        "en-US": "[Eunha]\nOh my... ^0000CDHuiun^000000? How did you get here? Adventurer, Adventurer? Was your good deed bringing him here? That is not a good deed...",
+        "pt-BR": "[Cosmos]\nNossa senhora... ^0000CDHeeun^000000? Como você veio parar aqui? Aventureiro, aventureiro? A boa ação que você fez foi trazer esta pessoa? Isso não é uma boa ação...",
+        "es-ES": "[Cosmos]\nMadre mía... ¿^0000CDHuiyun^000000? ¿Cómo has llegado hasta aquí? Aventurero, ¿aventurero? ¿La buena acción que hiciste fue traerlo aquí? Eso no es una buena acción..."
+    },
+    "SVdSDQ": {
+        "en-US": "But why did your hair turn black? Did something upsetting happen?",
+        "pt-BR": "Mas por que seu cabelo ficou preto? Aconteceu algo ruim?",
+        "es-ES": "Pero ¿por qué tienes el pelo negro? ¿Te ha pasado algo malo?"
+    },
+    "SldSDQ": {
+        "en-US": "Are you asking because you truly do not know?",
+        "pt-BR": "Está perguntando porque não sabe?",
+        "es-ES": "¿Lo pregunta porque no lo sabe?"
+    },
+    "S1dSDQ": {
+        "en-US": "[Huiun]\nHave I come somewhere I should not? I came because the one who should have returned to the heavenly realm long ago still has not returned.\nYou know that the deadline for ^0000CDaccumulating good deeds^000000 is today, do you not? You have not forgotten, have you? You must have helped all ^0000CD1,000 people^000000, yes?",
+        "pt-BR": "[Heeun]\nEu vim a um lugar onde não deveria? Quem já deveria ter voltado ao reino celestial ainda não voltou, então eu vim.\nVocê sabe que o prazo para ^0000CDacumular boas ações^000000 termina hoje, não sabe? Não esqueceu, certo? Você já ajudou as ^0000CD1000 pessoas^000000, não é?",
+        "es-ES": "[Huiyun]\n¿Acaso he venido a un lugar al que no debía? He venido porque quien ya debería haber regresado al reino celestial aún no ha vuelto.\nSabe que el plazo para ^0000CDacumular buenas acciones^000000 termina hoy, ¿verdad? No lo ha olvidado, ¿verdad? Ya habrá ayudado a ^0000CD1000 personas^000000, ¿no?"
+    },
+    "TFdSDQ": {
+        "en-US": "[Eunha]\nAh, of course I know. That is why I am working hard. Only one person remains now.\nNagging me the moment you see me? This is exactly why I placed a trick on the signpost so heavenly beings could not find the way.",
+        "pt-BR": "[Cosmos]\nAh, claro que sei. Por isso estou me esforçando. Só falta uma pessoa.\nVocê mal me vê e já começa com sermão? Foi por saber que isso aconteceria que usei um truque na placa para que os seres celestiais não encontrassem o caminho.",
+        "es-ES": "[Cosmos]\nAh, claro que lo sé. Por eso estoy trabajando tan duro. Solo me queda una persona.\n¿Me regañas nada más verme? Por eso había hecho un truco en el cartel para que los celestiales no pudieran encontrar el camino."
+    },
+    "TVdSDQ": {
+        "en-US": "[Huiun]\nDid I say something I should not have? Others may not be able to, but I can!\nWhy has it taken you so long? If it is a matter of helping 1,000 people, even with your powers sealed, Lady Eunha, you should have been able to do it quickly without borrowing someone else's hands...",
+        "pt-BR": "[Heeun]\nEu disse algo que não devia? Se fosse outra pessoa, talvez não, mas eu posso dizer!\nPor que demorou tanto? Se era para ajudar 1000 pessoas, mesmo com seus poderes selados, Senhor Cosmos, você conseguiria rapidamente sem precisar da ajuda de outros...",
+        "es-ES": "[Huiyun]\n¿He dicho algo que no pueda decir? Aunque otros no puedan, yo sí puedo.\n¿Por qué ha tardado tanto? Si se trata de ayudar a 1000 personas, incluso con sus poderes sellados, señor Cosmos, podría haberlo hecho enseguida sin pedir ayuda a nadie..."
+    },
+    "TldSDQ": {
+        "en-US": "[Huiun]\nAh, wait. Do not say it. I know what this is. I feel like I am going to burst from frustration!!!",
+        "pt-BR": "[Heeun]\nAh, espere. Não diga nada. Já sei do que se trata. Vou explodir de frustração!!!",
+        "es-ES": "[Huiyun]\nAh, espere. No lo diga. Ya sé de qué se trata. ¡¡Porque siento que voy a estallar de frustración!!"
+    },
+    "T1dSDQ": {
+        "en-US": "[Eunha]\nHehe- If the adventurer helps 4 people and I help that adventurer, then I have helped 5 people, right? I was helping many people in the mortal realm do good deeds that way.\nThat does not mean I was just playing around. I have also been raising Star Emperor during that time, you know?",
+        "pt-BR": "[Cosmos]\nHehe- se o aventureiro ajuda 4 pessoas e eu ajudo esse aventureiro, isso significa que ajudei 5 pessoas, não é? Assim eu estava ajudando várias pessoas do mundo humano a praticarem boas ações.\nE isso não significa que eu estava brincando. Nesse meio tempo, também ajudei a formar Mestre Estelar, sabia?",
+        "es-ES": "[Cosmos]\nJe, je. Si el aventurero ayuda a 4 personas y yo ayudo a ese aventurero, entonces he ayudado a 5 personas, ¿no? Así estaba ayudando a muchas personas del mundo humano a hacer buenas acciones.\nY eso no significa que haya estado holgazaneando. También he estado criando a Emperador Estelar durante todo este tiempo."
+    },
+    "UFdSDQ": {
+        "en-US": "[Huiun]\nI told you not to say it!! You just had to say it! And turn my stomach inside out!!!",
+        "pt-BR": "[Heeun]\nEu disse para não falar!! Você insiste em falar! E me deixa ainda mais irritado!!!",
+        "es-ES": "[Huiyun]\n¡¡Le dije que no lo dijera!! ¡¡Tenía que decirlo y revolverme las entrañas!!"
+    },
+    "UVdSDQ": {
+        "en-US": "[Huiun]\nWas it not because you kept resorting to such petty tricks even in the heavenly realm that you earned the Supreme Emperor's wrath and were sent here as punishment?\nAll you had to do was help 1,000 people in the mortal realm, be forgiven, and return to the heavenly realm! Is that truly so difficult?",
+        "pt-BR": "[Heeun]\nNão foi por ficar usando só esperteza no reino celestial que você provocou a ira do Senhor Supremo e veio parar aqui como punição?\nBastava ajudar 1000 pessoas no mundo humano para ser perdoado e voltar ao reino celestial! Isso é tão difícil assim?",
+        "es-ES": "[Huiyun]\n¿No fue precisamente porque en el reino celestial solo buscaba artimañas así que provocó la ira del Emperador Supremo y vino aquí como castigo?\n¡Solo tenía que ayudar a 1000 personas en el mundo humano para ser perdonado y volver al reino celestial! ¿Tanto le cuesta?"
+    },
+    "UldSDQ": {
+        "en-US": "[Huiun]\nWhat is the point of having so much power if you do not use it!",
+        "pt-BR": "[Heeun]\nDe que adianta ter tanto poder se você não o usa!",
+        "es-ES": "[Huiyun]\n¿De qué sirve tener tanto poder si no lo usa?"
+    },
+    "U1dSDQ": {
+        "en-US": "[Eunha]\nIs it my fault that I was born strong without needing to try? That effort is like adding one spoonful of salt to the sea, so why should I make an effort? Why bother?",
+        "pt-BR": "[Cosmos]\nÉ culpa minha ter nascido forte sem precisar me esforçar? Esse tal esforço é como colocar mais uma colher de sal no mar. Por que eu me esforçaria? Para quê?",
+        "es-ES": "[Cosmos]\n¿Es culpa mía haber nacido fuerte sin necesidad de esforzarme? Eso que llaman esfuerzo sería como echar una cucharada de sal al mar. ¿Para qué esforzarse? ¿Hace falta?"
+    },
+    "VFdSDQ": {
+        "en-US": "[Huiun]\nThen you should have used that power and done it yourself! Lady Eunha! While you took so long! Making other people! Do good deeds for you! I! Had to! Take on! Lady Eunha's! Work too!",
+        "pt-BR": "[Heeun]\nEntão devia ter feito diretamente com esse poder! Enquanto o Senhor Cosmos! Ficou demorando! Fazendo outras pessoas! Praticarem boas ações no seu lugar! Eu! Tive que assumir! Até o trabalho! Do Senhor Cosmos!",
+        "es-ES": "[Huiyun]\n¡Entonces debería haber usado ese poder para hacerlo directamente! ¡Usted, señor Cosmos! ¡A otros! ¡Mientras tardaba tanto en hacer que otros hicieran buenas acciones en su lugar! ¡Yo! ¡Tuve que! ¡Encargarme! ¡Hasta! ¡De su trabajo!"
+    },
+    "VVdSDQ": {
+        "en-US": "[Eunha]\nHey, hey... Why are you even crying? Do not cry. Now that I think of it, I remember. Huiun, on the day you let out your first cry after being born, the whole world shed tears of joy.",
+        "pt-BR": "[Cosmos]\nEi, ei... por que está até chorando? Não chore. Agora me lembrei. Heeun, no dia em que você nasceu e deu seu primeiro choro, o mundo inteiro derramou lágrimas de alegria.",
+        "es-ES": "[Cosmos]\nOye, oye... No hace falta que llores. No llores. Ahora que lo pienso, lo recuerdo. Huiyun, el día que naciste y rompiste a llorar por primera vez, todo el mundo derramó lágrimas de alegría."
+    },
+    "VldSDQ": {
+        "en-US": "[Huiun]\nI am not crying. And please stop telling that story already. I must have cried out of sheer frustration because I knew in advance that you would milk that story for the rest of my life, Lady Eunha!!",
+        "pt-BR": "[Heeun]\nNão estou chorando. E pare de falar disso. Eu devo ter chorado de raiva porque já sabia que o Senhor Cosmos usaria essa história pelo resto da vida, isso sim!!",
+        "es-ES": "[Huiyun]\nNo estoy llorando. Y deje ya de contar esa historia. ¡Seguro que lloré de rabia porque ya sabía que usted iba a explotarla durante toda la vida, señor Cosmos!"
+    },
+    "V1dSDQ": {
+        "en-US": "[Huiun]\nHah- Fine, then. It is a relief that you have filled 999 people. I assumed the worst on my way here. I had no expectations at all. Once today passes, I suppose I will be free as well.",
+        "pt-BR": "[Heeun]\nHaa- está bem, então. Ainda bem que você completou 999 pessoas. Eu vim até aqui imaginando o pior. Nem estava criando expectativas. Quando o dia de hoje passar, eu também poderei ser livre.",
+        "es-ES": "[Huiyun]\nHa... De acuerdo, bueno. Me alegra que al menos haya llegado a 999. Mientras venía hasta aquí, me preparé para lo peor. Ni siquiera tenía expectativas. Cuando pase el día de hoy, yo también podré obtener mi libertad, ¿verdad?"
+    },
+    "WFdSDQ": {
+        "en-US": "[Eunha]\nRight? You also want me to return quickly, do you not? Then I should help the remaining one person, right?",
+        "pt-BR": "[Cosmos]\nNão é? Você também quer que eu volte logo, certo? Então preciso ajudar a última pessoa restante, não é?",
+        "es-ES": "[Cosmos]\n¿Verdad? Tú también quieres que vuelva pronto, ¿no? Entonces tendremos que ayudar a la persona que queda."
+    },
+    "WVdSDQ": {
+        "en-US": "[Huiun]\nPlease do. I will wait here.",
+        "pt-BR": "[Heeun]\nFaça isso. Eu esperarei aqui.",
+        "es-ES": "[Huiyun]\nHágalo. Yo esperaré aquí."
+    },
+    "WldSDQ": {
+        "en-US": "[Eunha]\nNow, now. Do not be like that. Let us go inside and wait. Hm? You came all the way here. Are you going to leave without even having a cup of tea? I also need to prepare some things if I am going to go back up right away.",
+        "pt-BR": "[Cosmos]\nVamos, vamos. Não faça isso. Vamos entrar e esperar lá dentro. Hm? Você veio até aqui e vai embora sem tomar nem uma xícara de chá? Eu também preciso me preparar para subir logo.",
+        "es-ES": "[Cosmos]\nVamos, vamos. No digas eso. Entremos y esperemos, ¿sí? Ya que has venido hasta aquí, ¿te vas a ir sin tomar ni una taza de té? Yo también tengo que preparar algunas cosas si voy a subir enseguida."
+    },
+    "W1dSDQ": {
+        "en-US": "[Huiun]\nYes- Let us do that. Let us go. Let us. Having come all the way here, what reason would I have to refuse?",
+        "pt-BR": "[Heeun]\nSim, claro. Vamos. Vamos então. Já que vim até aqui, que motivo eu teria para recusar?",
+        "es-ES": "[Huiyun]\nSí, hagámoslo. Vamos. Vayamos. Ya que he llegado hasta aquí, ¿qué motivo tendría para negarme?"
+    },
+    "XFdSDQ": {
+        "en-US": "[Eunha]\nWait a moment. This is the first time I have brought anyone to my residence. Let me prepare a little.",
+        "pt-BR": "[Cosmos]\nEspere um momento. É a primeira vez que levo alguém à minha morada. Preciso preparar algumas coisas.",
+        "es-ES": "[Cosmos]\nEspera un momento. Es la primera vez que llevo a alguien a mi morada. Tengo que prepararlo un poco."
+    },
+    "XVdSDQ": {
+        "en-US": "Eunha Heavenly Realm Branch Office",
+        "pt-BR": "Escritório Celestial de Cosmos",
+        "es-ES": "Sucursal celestial de Cosmos"
+    },
+    "XldSDQ": {
+        "en-US": "[Eunha]\nAdventurer, you are going inside now too, right? If you are going, prepare a little. Since this is inside a rock, there are some things to prepare.",
+        "pt-BR": "[Cosmos]\nAventureiro, você também vai entrar agora, certo? Se for entrar, prepare-se. Como fica dentro de uma rocha, há algumas coisas a preparar.",
+        "es-ES": "[Cosmos]\nAventurero, tú también vas a entrar ahora, ¿verdad? Si vas a entrar, prepárate un poco. Como está dentro de una roca, hay algunas cosas que preparar."
+    },
+    "X1dSDQ": {
+        "en-US": "Please open the door.",
+        "pt-BR": "Abra a porta, por favor.",
+        "es-ES": "Abra la puerta, por favor."
+    },
+    "YFdSDQ": {
+        "en-US": "I am going in now.",
+        "pt-BR": "Vou entrar agora.",
+        "es-ES": "Entraré ahora."
+    },
+    "YVdSDQ": {
+        "en-US": "I need to prepare myself.",
+        "pt-BR": "Preciso me preparar mentalmente.",
+        "es-ES": "Necesito prepararme mentalmente."
+    },
+    "YldSDQ": {
+        "en-US": "[Eunha]\nWait a moment. Where did all your past experience go? I cannot see it. What happened?",
+        "pt-BR": "[Cosmos]\nEspere aí. Para onde foi toda a sua experiência acumulada? Não consigo vê-la. O que aconteceu?",
+        "es-ES": "[Cosmos]\nEspera un momento. ¿Dónde se ha ido toda tu experiencia? No la veo. ¿Qué ha pasado?"
+    },
+    "Y1dSDQ": {
+        "en-US": "[Eunha]\nTo go to where I am, you need to form a 1-person party and come back.",
+        "pt-BR": "[Cosmos]\nPara ir ao lugar onde estou, você precisa formar um grupo de 1 pessoa.",
+        "es-ES": "[Cosmos]\nPara ir al lugar donde estoy, debes formar un grupo de una sola persona."
+    },
+    "ZFdSDQ": {
+        "en-US": "[Eunha]\nI will recite the spell, so when the door opens, go inside. Come here~",
+        "pt-BR": "[Cosmos]\nVou recitar o encantamento, então, quando a porta abrir, entre. Venha até mim~",
+        "es-ES": "[Cosmos]\nVoy a recitar un conjuro, así que cuando la puerta se abra, entra. Ven aquí~"
+    },
+    "ZVdSDQ": {
+        "en-US": "[Eunha]\nThe preparations are all done, so let us go in as soon as the door opens!",
+        "pt-BR": "[Cosmos]\nOs preparativos estão prontos, então vamos entrar assim que a porta abrir!",
+        "es-ES": "[Cosmos]\nYa está todo preparado, así que cuando la puerta se abra, entremos de inmediato."
+    },
+    "ZldSDQ": {
+        "en-US": "[Eunha]\nI told you to form a ^0000CD1-person party^000000 if you want to go inside.",
+        "pt-BR": "[Cosmos]\nEu disse que, para entrar, você precisa formar um ^0000CDgrupo de 1 pessoa^000000, não disse?",
+        "es-ES": "[Cosmos]\nTe dije que, para entrar, debes formar un ^0000CDgrupo de una sola persona^000000."
+    },
+    "Z1dSDQ": {
+        "en-US": "[Eunha]\nNow, follow me carefully inside.",
+        "pt-BR": "[Cosmos]\nAgora, siga-me e entre com cuidado.",
+        "es-ES": "[Cosmos]\nBien, ahora entra con cuidado siguiéndome."
+    },
+    "aFdSDQ": {
+        "en-US": "[Eunha]\nWait, it has been so long since I went in that I think I forgot the spell. Hold on a moment.",
+        "pt-BR": "[Cosmos]\nEspere, faz tanto tempo que não entro que acho que esqueci o encantamento. Espere um pouco.",
+        "es-ES": "[Cosmos]\nEspera, hace mucho que no entro y creo que he olvidado el conjuro. Espera un momento."
+    },
+    "aVdSDQ": {
+        "en-US": "[Eunha]\nI have not even prepared to open the door yet.",
+        "pt-BR": "[Cosmos]\nEu ainda nem me preparei para abrir a porta.",
+        "es-ES": "[Cosmos]\nPero si aún ni siquiera he preparado la puerta."
+    },
+    "aldSDQ": {
+        "en-US": "[Eunha]\nIf you want to go inside, you need to form a 1-person party and come back.",
+        "pt-BR": "[Cosmos]\nPara entrar, você precisa formar um grupo de 1 pessoa.",
+        "es-ES": "[Cosmos]\nPara entrar, debes formar un grupo de una sola persona."
+    },
+    "a1dSDQ": {
+        "en-US": "{0}, welcome to {1}!",
+        "pt-BR": "{0}, bem-vindo a {1}!",
+        "es-ES": "¡{0}, bienvenido a {1}!"
+    },
+    "bFdSDQ": {
+        "en-US": "{0}, welcome to {1}!",
+        "pt-BR": "{0}, bem-vindo a {1}!",
+        "es-ES": "¡{0}, bienvenido a {1}!"
+    },
+    "bVdSDQ": {
+        "en-US": "[Eunha]\nWhat more preparations are you talking about? Hurry, hurry.",
+        "pt-BR": "[Cosmos]\nQue outros preparativos você precisa fazer? Rápido, rápido.",
+        "es-ES": "[Cosmos]\n¿Aún tienes que prepararte más? Rápido, rápido."
+    },
+    "bldSDQ": {
+        "en-US": "[Eunha]\nDo you have something to do? Hurry and go accumulate good deeds.",
+        "pt-BR": "[Cosmos]\nTem algum assunto a resolver? Vá logo acumular boas ações.",
+        "es-ES": "[Cosmos]\n¿Tienes algún asunto pendiente? Ve de una vez a acumular buenas acciones."
+    },
+    "b1dSDQ": {
+        "en-US": "[Huiun]\nYou should listen to what Lady Eunha says.",
+        "pt-BR": "[Heeun]\nPreciso ouvir o que o Senhor Cosmos tem a dizer.",
+        "es-ES": "[Huiyun]\nDebo escuchar qué tiene que decir el señor Cosmos."
+    },
+    "cFdSDQ": {
+        "en-US": "[Huiun]\nPrepare to depart quickly and speak to Lady Eunha.",
+        "pt-BR": "[Heeun]\nPrepare-se logo para partir e fale com o Senhor Cosmos.",
+        "es-ES": "[Huiyun]\nPrepárate para partir y habla con el señor Cosmos."
+    },
+    "cVdSDQ": {
+        "en-US": "Person in Need",
+        "pt-BR": "Pessoa que precisa de ajuda",
+        "es-ES": "Persona que necesita ayuda"
+    },
+    "cldSDQ": {
+        "en-US": "Excuse me, are you perhaps going to the field? I have a favor to ask...!",
+        "pt-BR": "Ei, por acaso você vai ao campo? Preciso pedir um favor...!",
+        "es-ES": "Disculpe, ¿va al campo por casualidad? Tengo una petición...!"
+    },
+    "c1dSDQ": {
+        "en-US": "Excuse me, if you go out to the field...",
+        "pt-BR": "Ei, se você for sair para o campo...",
+        "es-ES": "Disculpe, si sale al campo..."
+    },
+    "dFdSDQ": {
+        "en-US": "[Person in Need]\nHah- No one will listen to me... The illness grows worse by the day like this... Should I borrow money even at high interest? No, that will not do.",
+        "pt-BR": "[Pessoa que precisa de ajuda]\nHaa- ninguém me dá ouvidos... e a doença só piora a cada dia... Será que devo tomar dinheiro emprestado com juros abusivos? Não, isso está fora de questão.",
+        "es-ES": "[Persona que necesita ayuda]\nHa... Nadie quiere escucharme... Así, la enfermedad empeora día tras día... ¿Debería pedir dinero prestado incluso con usura? No, eso no puede ser."
+    },
+    "dVdSDQ": {
+        "en-US": "Are you the person who made a wish to Lady Eunha?",
+        "pt-BR": "Por acaso você fez um pedido ao Senhor Cosmos?",
+        "es-ES": "¿Es usted quien le pidió un deseo al señor Cosmos?"
+    },
+    "dldSDQ": {
+        "en-US": "[Person in Need]\nHuh...? Who? I am Veil.",
+        "pt-BR": "[Pessoa que precisa de ajuda]\nHã...? Quem? Eu sou Véu.",
+        "es-ES": "[Persona que necesita ayuda]\n¿Eh...? ¿A quién? Yo soy Velo."
+    },
+    "d1dSDQ": {
+        "en-US": "[{0}]\nThat is not what I mean. I am asking if you made a wish to someone named Eunha.",
+        "pt-BR": "[{0}]\nNão é isso. Estou perguntando se você fez um pedido a alguém chamado Cosmos.",
+        "es-ES": "[{0}]\nNo me refiero a eso. Le pregunto si pidió un deseo a alguien llamado Cosmos."
+    },
+    "eFdSDQ": {
+        "en-US": "[Veil]\nIt is true that I need help, but... how did you know that...? A wish... Ah!! Was the name Eunha also on that rock?",
+        "pt-BR": "[Véu]\nÉ verdade que preciso de ajuda... mas como você sabe...? Pedido... Ah!! Naquela rocha também havia o nome Cosmos?",
+        "es-ES": "[Velo]\nEs cierto que necesito ayuda, pero... ¿cómo lo sabe...? Si habla de un deseo... ¡Ah! ¿También estaba el nombre Cosmos en esa roca?"
+    },
+    "eVdSDQ": {
+        "en-US": "The rock...?",
+        "pt-BR": "Rocha...?",
+        "es-ES": "¿Roca...?"
+    },
+    "eldSDQ": {
+        "en-US": "[Veil]\nI prayed to the miraculous rock in Payon, asking it to make my brother better. That rock really is miraculous.",
+        "pt-BR": "[Véu]\nEu fiz um pedido a uma rocha em Payon que dizem ser milagrosa, pedindo para meu irmão melhorar. Aquela rocha é mesmo milagrosa.",
+        "es-ES": "[Velo]\nPedí un deseo a la roca milagrosa de Payon para que mi hermano se curara. Esa roca sí que es milagrosa."
+    },
+    "e1dSDQ": {
+        "en-US": "[{0}]\nIn any case, you do need help, right? How can I help you?",
+        "pt-BR": "[{0}]\nDe todo modo, você precisa de ajuda, certo? Em que posso ajudar?",
+        "es-ES": "[{0}]\nEn cualquier caso, necesita ayuda, ¿verdad? ¿En qué puedo ayudarle?"
+    },
+    "fFdSDQ": {
+        "en-US": "[Veil]\nCould you perhaps cure my brother's illness too?",
+        "pt-BR": "[Véu]\nPor acaso você também consegue curar a doença do meu irmão?",
+        "es-ES": "[Velo]\n¿Podría curar también la enfermedad de mi hermano?"
+    },
+    "fVdSDQ": {
+        "en-US": "[{0}]\nHealing is not my specialty, but if there is any other help...",
+        "pt-BR": "[{0}]\nCura não é minha especialidade, mas talvez outra ajuda...",
+        "es-ES": "[{0}]\nLa curación no es mi especialidad, pero quizá pueda ayudar en otra cosa..."
+    },
+    "fldSDQ": {
+        "en-US": "[Veil]\nAh...! Then, then! Could you perhaps gather ^0000CDmedicinal ingredients^000000? They are ingredients you can get in the field outside here. Please...",
+        "pt-BR": "[Véu]\nAh...! Então, então! Por acaso você poderia conseguir ^0000CDingredientes medicinais^000000? São ingredientes que podem ser encontrados no campo aqui fora. Por favor...",
+        "es-ES": "[Velo]\n¡Ah...! Entonces, entonces, ¿podría conseguirme ^0000CDingredientes medicinales^000000? Son ingredientes que se pueden conseguir en el campo de las afueras. Por favor..."
+    },
+    "f1dSDQ": {
+        "en-US": "What should I bring?",
+        "pt-BR": "O que devo trazer?",
+        "es-ES": "¿Qué debo traerle?"
+    },
+    "gFdSDQ": {
+        "en-US": "[Veil]\nPoison!! Flowers!",
+        "pt-BR": "[Véu]\nVeneno!! Flor!",
+        "es-ES": "[Velo]\n¡¡Veneno!! ¡Flor!"
+    },
+    "gVdSDQ": {
+        "en-US": "What?? Poison? Poison flowers?",
+        "pt-BR": "Hã?? Veneno? Flor venenosa?",
+        "es-ES": "¿Eh? ¿Veneno? ¿Una flor venenosa?"
+    },
+    "gldSDQ": {
+        "en-US": "[Veil]\nAh, ^FF0000Sticky Poison, Maneater Blossom, and Maneater Root^000000...",
+        "pt-BR": "[Véu]\nAh, ^FF0000Veneno Pegajoso, Flor de Planta Carnívora e Raiz de Planta Carnívora^000000...",
+        "es-ES": "[Velo]\nAh, ^FF0000Veneno pegajoso, Flor carnívora y Raíz carnívora^000000..."
+    },
+    "g1dSDQ": {
+        "en-US": "You are not trying to kill someone, are you?",
+        "pt-BR": "Você não está tentando matar alguém, certo?",
+        "es-ES": "No estará intentando matar a alguien, ¿verdad?"
+    },
+    "hFdSDQ": {
+        "en-US": "[Veil]\nNo!! My brother has a rare illness, and these are medicinal ingredients used for it. They said something about extremes meeting, or something like that, but medicine was too expensive where I lived.",
+        "pt-BR": "[Véu]\nNão!! Meu irmão está com uma doença rara, e são ingredientes usados no tratamento. Disseram algo como extremos se conectam, mas no lugar onde eu morava, o remédio era caro demais.",
+        "es-ES": "[Velo]\n¡¡No!! Mi hermano sufre una enfermedad rara, y son ingredientes medicinales que se usan para tratarla. Me explicaron algo de que los extremos se tocan, pero donde yo vivía la medicina era demasiado cara."
+    },
+    "hVdSDQ": {
+        "en-US": "[Veil]\nSo I thought it might be cheaper if I came here, where they can be obtained easily, but that was not the case either. I want to go gather them myself, but if I die, there will be no one to look after my brother...",
+        "pt-BR": "[Véu]\nEntão achei que, se viesse para cá, onde é fácil conseguir, seria mais barato, mas também não foi assim. Eu queria ir buscar, mas se eu morrer, não haverá ninguém para cuidar do meu irmão...",
+        "es-ES": "[Velo]\nPor eso pensé que, si venía a un lugar donde se pudieran conseguir fácilmente, sería más barato, pero tampoco ha sido así. Querría ir a buscarlos yo, pero si muero, no habrá nadie que cuide de mi hermano..."
+    },
+    "hldSDQ": {
+        "en-US": "I will gather them. How many do you need?",
+        "pt-BR": "Eu vou trazer. De quanto você precisa?",
+        "es-ES": "Yo los conseguiré. ¿Cuántos necesita?"
+    },
+    "h1dSDQ": {
+        "en-US": "[Veil]\nI cannot thank you enough!! Then please bring ^0000CD3 Sticky Poison, 20 Maneater Blossom, and 3 Maneater Root^000000.",
+        "pt-BR": "[Véu]\nNão sei como agradecer!! Então, por favor, traga ^0000CD3 Veneno Pegajoso, 20 Flor de Planta Carnívora e 3 Raiz de Planta Carnívora^000000.",
+        "es-ES": "[Velo]\n¡¡No sabe cuánto se lo agradezco!! Entonces, por favor, tráigame ^0000CD3 Veneno pegajoso, 20 Flor carnívora y 3 Raíz carnívora^000000."
+    },
+    "iFdSDQ": {
+        "en-US": "Did making a wish to that rock really work...?",
+        "pt-BR": "Será que fazer o pedido àquela rocha realmente teve efeito...?",
+        "es-ES": "¿De verdad tuvo efecto pedir un deseo a esa roca...?"
+    },
+    "iVdSDQ": {
+        "en-US": "[Veil]\nHold on just a little longer... Please...",
+        "pt-BR": "[Véu]\nAguente só mais um pouco... por favor...",
+        "es-ES": "[Velo]\nAguanta un poco más... Por favor..."
+    },
+    "ildSDQ": {
+        "en-US": "Here, I brought them.",
+        "pt-BR": "Aqui, eu trouxe.",
+        "es-ES": "Aquí tiene, los he conseguido."
+    },
+    "i1dSDQ": {
+        "en-US": "[Veil]\nAh!!! Finally!!! Thank you so much! You will truly be blessed. You saved two lives. But, um... I have nothing to give my benefactor... I will definitely repay this kindness someday!",
+        "pt-BR": "[Véu]\nAh!!! Finalmente!!! Muito obrigado! Que você seja muito abençoado. Você salvou duas vidas. Mas eu... não tenho nada para dar ao meu benfeitor... um dia, com certeza, retribuirei este favor!",
+        "es-ES": "[Velo]\n¡¡¡Ah!!! ¡¡¡Por fin!!! ¡Muchísimas gracias! De verdad, que reciba muchas bendiciones. Ha salvado la vida de dos personas. Pero... no tengo nada que darle a mi benefactor... ¡Aunque sea más adelante, le devolveré este favor!"
+    },
+    "jFdSDQ": {
+        "en-US": "[{0}]\nI do not need a reward. Do you happen to know anyone else who needs help?",
+        "pt-BR": "[{0}]\nNão precisa de recompensa. Por acaso conhece outra pessoa que precise de ajuda?",
+        "es-ES": "[{0}]\nNo hace falta ninguna recompensa. ¿Conoce a otra persona que necesite ayuda?"
+    },
+    "jVdSDQ": {
+        "en-US": "[Veil]\nSomeone who needs help? Let me see...",
+        "pt-BR": "[Véu]\nAlguém que precise de ajuda? Não sei...",
+        "es-ES": "[Velo]\n¿Alguien que necesite ayuda? Pues..."
+    },
+    "jldSDQ": {
+        "en-US": "[Veil]\nAh! I heard that some ghost has appeared around the <NAVI>[mine]<INFO>einbech,156,243,0,101,0,</INFO></NAVI> in Einbech. It sounded like they were looking for someone to get rid of it.",
+        "pt-BR": "[Véu]\nAh! Ouvi dizer que um fantasma apareceu perto da <NAVI>[mina]<INFO>einbech,156,243,0,101,0,</INFO></NAVI> de Einbech. Parece que estão procurando alguém para derrotá-lo.",
+        "es-ES": "[Velo]\n¡Ah! He oído que aparece una especie de fantasma por la <NAVI>[mina]<INFO>einbech,156,243,0,101,0,</INFO></NAVI> de Einbech. Al parecer, buscan a alguien que lo elimine."
+    },
+    "j1dSDQ": {
+        "en-US": "[Veil]\nWould you not be of help if you went there?",
+        "pt-BR": "[Véu]\nTalvez você possa ajudar se for até lá.",
+        "es-ES": "[Velo]\n¿No podría ser de ayuda si va allí?"
+    },
+    "kFdSDQ": {
+        "en-US": "Then I should go there. Thank you.",
+        "pt-BR": "Então vou até lá. Obrigado.",
+        "es-ES": "Entonces iré hacia allí. Gracias."
+    },
+    "kVdSDQ": {
+        "en-US": "[Veil]\nThere is no need to thank me. I am the one who is more grateful. I do not know why you are looking for people who need help, but I hope everything you do goes well. Thank you so much!",
+        "pt-BR": "[Véu]\nObrigado digo eu. Não sei por que você está procurando pessoas que precisam de ajuda, mas desejo que tudo que fizer dê certo. Muito obrigado mesmo!",
+        "es-ES": "[Velo]\nNo tiene que darme las gracias, yo le estoy mucho más agradecido. No sé por qué va buscando personas que necesitan ayuda, pero le deseo que todo le salga bien. ¡Muchísimas gracias!"
+    },
+    "kldSDQ": {
+        "en-US": "[Veil]\nAdventurer, did you bring the medicinal ingredients? Hah... E-empty-handed...",
+        "pt-BR": "[Véu]\nAventureiro, você trouxe os ingredientes medicinais? Ah... está, está de mãos vazias...",
+        "es-ES": "[Velo]\nAventurero, ¿ha conseguido los ingredientes medicinales? Ah... viene con las manos vacías..."
+    },
+    "k1dSDQ": {
+        "en-US": "[Veil]\nPlease. Quickly... Please gather them as quickly as possible. It is ^0000CD3 Sticky Poison, 20 Maneater Blossom, and 3 Maneater Root^000000.",
+        "pt-BR": "[Véu]\nPor favor. Traga rápido... o mais rápido possível. São ^0000CD3 Veneno Pegajoso, 20 Flor de Planta Carnívora e 3 Raiz de Planta Carnívora^000000.",
+        "es-ES": "[Velo]\nSe lo ruego. Consígalos rápido... lo más rápido posible. Son ^0000CD3 Veneno pegajoso, 20 Flor carnívora y 3 Raíz carnívora^000000."
+    },
+    "lFdSDQ": {
+        "en-US": "[Veil]\nI heard that some ghost has appeared around the <NAVI>[mine]<INFO>einbech,156,243,0,101,0,</INFO></NAVI> in Einbech. It sounded like they were looking for someone to get rid of it. Please go there once.",
+        "pt-BR": "[Véu]\nOuvi dizer que um fantasma apareceu perto da <NAVI>[mina]<INFO>einbech,156,243,0,101,0,</INFO></NAVI> de Einbech. Parece que estão procurando alguém para derrotá-lo. Tente ir até lá.",
+        "es-ES": "[Velo]\nHe oído que aparece una especie de fantasma por la <NAVI>[mina]<INFO>einbech,156,243,0,101,0,</INFO></NAVI> de Einbech. Al parecer, buscan a alguien que lo elimine. Vaya a echar un vistazo."
+    },
+    "lVdSDQ": {
+        "en-US": "[Veil]\nAdventurer!!!! Thanks to you, my brother has made a complete recovery! It is all thanks to you, Adventurer!",
+        "pt-BR": "[Véu]\nAventureiro!!!! Graças a você, meu irmão se curou completamente! Tudo graças a você, aventureiro!",
+        "es-ES": "[Velo]\n¡¡¡Aventurero!!! ¡Gracias a usted, mi hermano se ha curado por completo! ¡Todo es gracias a usted!"
+    },
+    "lldSDQ": {
+        "en-US": "[Veil]\nSo many people pass by, yet not one person will help... Hah-",
+        "pt-BR": "[Véu]\nTanta gente passa por aqui, mas não há uma pessoa sequer que ajude... Haa-",
+        "es-ES": "[Velo]\nPasa tanta gente por aquí y no hay ni una sola persona que ayude... Ha..."
+    },
+    "l1dSDQ": {
+        "en-US": "[Person in Need]\nPhew...",
+        "pt-BR": "[Pessoa que precisa de ajuda]\nUfa...",
+        "es-ES": "[Persona que necesita ayuda]\nUf..."
+    },
+    "mFdSDQ": {
+        "en-US": "[Person in Need]\nOlive, my friend. Do not just keep sighing... I have arranged for a skilled mercenary, so let us wait just a little.",
+        "pt-BR": "[Pessoa que precisa de ajuda]\nOliva, meu caro. Não fique só suspirando... eu já procurei um mercenário habilidoso, então vamos esperar mais um pouco.",
+        "es-ES": "[Persona que necesita ayuda]\nOliva, amigo, no te limites a suspirar una y otra vez... He contratado a un mercenario competente, así que esperemos un poco más."
+    },
+    "mVdSDQ": {
+        "en-US": "[Olive]\nEven at this very moment, orders are piling up, and the workers are deserting.",
+        "pt-BR": "[Oliva]\nNeste exato momento, os pedidos continuam se acumulando, e os trabalhadores estão fugindo.",
+        "es-ES": "[Oliva]\nAhora mismo los pedidos siguen acumulándose y los trabajadores siguen huyendo."
+    },
+    "mldSDQ": {
+        "en-US": "[Person in Need]\nAh, then what should we do? Should I start learning how to fight and go in myself?",
+        "pt-BR": "[Pessoa que precisa de ajuda]\nAh, então o que fazemos? Será que eu aprendo a lutar agora e entro lá?",
+        "es-ES": "[Persona que necesita ayuda]\nAh, entonces ¿qué hacemos? ¿Aprendo a luchar ahora mismo y entro yo?"
+    },
+    "m1dSDQ": {
+        "en-US": "Or should I bring my cat from home?",
+        "pt-BR": "Ou talvez eu traga o gato da minha casa?",
+        "es-ES": "¿O traigo al gato de mi casa?"
+    },
+    "nFdSDQ": {
+        "en-US": "[Olive]\nWhy are you so extreme? Are you trying to pick a fight with me right now? Huh? Is that it, Atri?",
+        "pt-BR": "[Oliva]\nPor que você é tão extremo? Está querendo brigar comigo agora? É isso? É isso, Atri?",
+        "es-ES": "[Oliva]\n¿Por qué eres tan extremista? ¿Quieres pelearte conmigo? ¿Eh? ¿Eso es, Atri?"
+    },
+    "nVdSDQ": {
+        "en-US": "[Atri]\nI only meant there is nothing we can do, so we should wait a little.",
+        "pt-BR": "[Atri]\nEstou dizendo que não há nada que possamos fazer, então vamos esperar só mais um pouco. Algo assim.",
+        "es-ES": "[Atri]\nLo que digo es que, como no podemos hacer nada, esperemos un poco más."
+    },
+    "nldSDQ": {
+        "en-US": "[Olive]\nI need to make a trap that can catch that thing.",
+        "pt-BR": "[Oliva]\nPreciso fazer uma armadilha capaz de capturar aquilo.",
+        "es-ES": "[Oliva]\nTendré que fabricar una trampa capaz de atrapar eso."
+    },
+    "n1dSDQ": {
+        "en-US": "[Atri]\nYou saw that none of that was any use.",
+        "pt-BR": "[Atri]\nVocê também viu que nada disso adianta.",
+        "es-ES": "[Atri]\nYa viste que nada sirvió."
+    },
+    "oFdSDQ": {
+        "en-US": "[Olive]\nI cannot just sit here doing nothing!",
+        "pt-BR": "[Oliva]\nÉ porque não posso ficar parado sem fazer nada!",
+        "es-ES": "[Oliva]\n¡Lo digo porque no puedo quedarme de brazos cruzados!"
+    },
+    "oVdSDQ": {
+        "en-US": "Do you perhaps need help?",
+        "pt-BR": "Por acaso vocês precisam de ajuda?",
+        "es-ES": "¿Necesitan ayuda por casualidad?"
+    },
+    "oldSDQ": {
+        "en-US": "Is this the voice of an angel?",
+        "pt-BR": "Esta é a voz de um anjo?",
+        "es-ES": "¿Es esta la voz de un ángel?"
+    },
+    "o1dSDQ": {
+        "en-US": "[Atri]\nAh! Are you perhaps the mercenary? Good timing. You heard the gist of the story, right?",
+        "pt-BR": "[Atri]\nAh! Por acaso você é o mercenário? Que bom que chegou. Já ouviu mais ou menos a história, certo?",
+        "es-ES": "[Atri]\n¡Ah! ¿Es usted el mercenario? Bienvenido. Ya habrá oído más o menos la historia, ¿verdad?"
+    },
+    "pFdSDQ": {
+        "en-US": "No, I am not a mercenary.",
+        "pt-BR": "Não, eu não sou mercenário.",
+        "es-ES": "No, no soy mercenario."
+    },
+    "pVdSDQ": {
+        "en-US": "[Atri]\nAh, really? Then why did you come?",
+        "pt-BR": "[Atri]\nAh, é? Então por que veio?",
+        "es-ES": "[Atri]\nAh, ¿sí? Entonces, ¿por qué ha venido?"
+    },
+    "pldSDQ": {
+        "en-US": "[Olive]\nThey are asking if we need help. This angelic adventurer saw us in trouble while passing by and could not ignore us, so they came to help! Am I right?",
+        "pt-BR": "[Oliva]\nEle está perguntando se não precisamos de ajuda. Este aventureiro como um anjo passou por aqui, viu nossa dificuldade e não conseguiu simplesmente ignorar, então veio nos ajudar! Estou certo?",
+        "es-ES": "[Oliva]\nEstá preguntando si necesitamos ayuda. Este aventurero angelical pasaba por aquí y, al vernos en apuros, no pudo pasar de largo y vino a ayudarnos. ¿Verdad que sí?"
+    },
+    "p1dSDQ": {
+        "en-US": "[{0}]\nYes, someone in Veins said there would be people here who needed help.",
+        "pt-BR": "[{0}]\nSim, uma pessoa em Veins disse que haveria alguém precisando de ajuda aqui.",
+        "es-ES": "[{0}]\nSí, una persona de Veins me dijo que aquí habría alguien que necesitaba ayuda."
+    },
+    "qFdSDQ": {
+        "en-US": "[Olive]\nAs expected, no one is fated to die so easily. Welcome, mercenary.",
+        "pt-BR": "[Oliva]\nComo dizem, ninguém está condenado a morrer. Seja bem-vindo, mercenário.",
+        "es-ES": "[Oliva]\nEstá claro que uno no está destinado a morir así como así. Bienvenido, mercenario."
+    },
+    "qVdSDQ": {
+        "en-US": "[Atri]\nThey said they are not a mercenary.",
+        "pt-BR": "[Atri]\nEle disse que não é mercenário.",
+        "es-ES": "[Atri]\nYa ha dicho que no es mercenario."
+    },
+    "qldSDQ": {
+        "en-US": "What did you hear?",
+        "pt-BR": "O que você ouviu?",
+        "es-ES": "¿Qué ha oído?"
+    },
+    "q1dSDQ": {
+        "en-US": "[Olive]\nWhat does it matter if they are not a mercenary? If they help us, that makes them a mercenary. Is that not right?",
+        "pt-BR": "[Oliva]\nQue importa se não é mercenário? Se ajuda, então é mercenário. Não é verdade?",
+        "es-ES": "[Oliva]\n¿Qué importa si no es mercenario? Si nos ayuda, eso ya lo convierte en mercenario. ¿No es así?"
+    },
+    "rFdSDQ": {
+        "en-US": "Yes, well. How can I help?",
+        "pt-BR": "Sim, bem. Em que posso ajudar?",
+        "es-ES": "Sí, bueno. ¿En qué puedo ayudar?"
+    },
+    "rVdSDQ": {
+        "en-US": "[Olive]\nI like how quickly this moves. We have had many newcomers come in lately while expanding the mine, but as you know, this place does not contain only us and minerals. The newcomers say they are too scared to work.",
+        "pt-BR": "[Oliva]\nGosto de conversa rápida. Ultimamente, com a expansão da mina, muitos novatos entraram, mas, como você sabe, aqui não existem só nós e minerais. Os novatos dizem que estão com medo e não conseguem trabalhar.",
+        "es-ES": "[Oliva]\nMe gusta que vayamos directo al grano. Últimamente, al ampliar la mina, han entrado muchos novatos, pero como sabes, aquí no solo estamos nosotros y los minerales. Los novatos dicen que tienen miedo y no pueden trabajar."
+    },
+    "rldSDQ": {
+        "en-US": "You mean the monsters.",
+        "pt-BR": "Está falando dos monstros.",
+        "es-ES": "Se refiere a los monstruos."
+    },
+    "r1dSDQ": {
+        "en-US": "[Olive]\nThe other monsters can be avoided if you are just a little careful, but the colorful minerals... Those are the problem. Especially White. One moment you can see it clearly, then it suddenly disappears and appears right beside you to attack.",
+        "pt-BR": "[Oliva]\nOs outros monstros podem ser evitados com um pouco de cuidado, mas esses minerais coloridos... esses são o problema. Especialmente o branco. Ele aparece bem diante dos olhos, de repente desaparece e surge ao lado para atacar.",
+        "es-ES": "[Oliva]\nA los demás monstruos se los puede evitar con un poco de cuidado, pero los minerales de colores... esos son el problema. Especialmente los blancos. Aunque los estés mirando, de pronto desaparecen y aparecen justo al lado para atacar."
+    },
+    "sFdSDQ": {
+        "en-US": "[Olive]\nTo the newcomers, I suppose it looked like a ghost. In an age when airships fly, they are making a fuss that ghosts are the scariest thing and that they cannot work.",
+        "pt-BR": "[Oliva]\nPara os novatos, isso deve ter parecido um fantasma. Em plena era em que aeronaves voam, eles dizem que o que mais temem são fantasmas e fazem escândalo dizendo que não conseguem trabalhar.",
+        "es-ES": "[Oliva]\nA los novatos les debió de parecer un fantasma. En una era en la que vuelan aeronaves, arman un escándalo diciendo que no pueden trabajar porque lo que más miedo les da son los fantasmas."
+    },
+    "sVdSDQ": {
+        "en-US": "[Olive]\nI explained that it was not a ghost, but what a person understands and what they feel are different things. It is frustrating enough to drive me mad, but what can we do? At this rate, the mine will be abandoned with no one left to work.",
+        "pt-BR": "[Oliva]\nExpliquei que não é fantasma, mas entender e sentir são coisas diferentes. É frustrante de morrer, mas o que podemos fazer? Nesse ritmo, a mina vai acabar fechando sem gente para trabalhar.",
+        "es-ES": "[Oliva]\nYa les expliqué que no es un fantasma, pero una cosa es entenderlo y otra sentirlo. Me desespera, pero qué se le va a hacer. A este paso, vamos a acabar cerrando la mina por falta de trabajadores."
+    },
+    "sldSDQ": {
+        "en-US": "[Olive]\nThe problem is that there is no one to deal with those things. We need to clear them out, but all we know how to do is swing pickaxes.",
+        "pt-BR": "[Oliva]\nO problema é que não temos ninguém para lidar com aquilo. Precisamos nos livrar deles, mas nós só sabemos usar picareta.",
+        "es-ES": "[Oliva]\nEl problema es que no hay nadie que pueda encargarse de eso. Tenemos que quitarlos de en medio, pero nosotros solo sabemos manejar el pico."
+    },
+    "s1dSDQ": {
+        "en-US": "That is how desperate I was, even trying to learn how to fight myself.",
+        "pt-BR": "Cheguei ao ponto de tentar aprender a lutar.",
+        "es-ES": "Hasta yo llegué a pensar en aprender a luchar."
+    },
+    "tFdSDQ": {
+        "en-US": "[Olive]\nSo we were waiting for a mercenary to deal with them, but there are not many people willing to come all the way here. And it is not as if we can offer a tempting amount of money.",
+        "pt-BR": "[Oliva]\nPor isso estávamos esperando um mercenário para cuidar disso, mas quase ninguém aceita vir até aqui de boa vontade. E também não temos condições de oferecer dinheiro suficiente para atrair alguém.",
+        "es-ES": "[Oliva]\nPor eso estábamos esperando a un mercenario que se encargara, pero no hay mucha gente dispuesta a venir hasta aquí. Y tampoco estamos en condiciones de ofrecer una suma que resulte tentadora."
+    },
+    "tVdSDQ": {
+        "en-US": "I will help.",
+        "pt-BR": "Eu vou ajudar.",
+        "es-ES": "Yo les ayudaré."
+    },
+    "tldSDQ": {
+        "en-US": "[Atri]\nAh, I truly like young people like this. They actively help people in need. It is because of people like this that the world is still worth living in.",
+        "pt-BR": "[Atri]\nAh, como gosto desses jovens. Ajudam ativamente pessoas em dificuldade. É por causa de gente assim que o mundo ainda vale a pena.",
+        "es-ES": "[Atri]\nAy, cómo me gustan estos jóvenes. Ayudar activamente a quienes están en apuros... Gracias a personas así, el mundo aún merece la pena."
+    },
+    "t1dSDQ": {
+        "en-US": "[Olive]\nThen forgive our shamelessness and let us ask you for a favor. At this rate, we feel like we might die.",
+        "pt-BR": "[Oliva]\nEntão, sem vergonha na cara, vou pedir sua ajuda. É que, nesse ritmo, parece que vamos morrer.",
+        "es-ES": "[Oliva]\nEntonces, aunque sea descarado por nuestra parte, te lo pedimos. Es que sentimos que así acabaremos muertos."
+    },
+    "uFdSDQ": {
+        "en-US": "[Atri]\nPlease get rid of some ^0000CDWhite Mineral^000000. It does not have to be many, as long as we can start working right away. About ^0000CD10^000000. After that, we will either learn Sword or look for a mercenary more actively.",
+        "pt-BR": "[Atri]\nLivre-se de alguns ^0000CDMineral de Selenita^000000. Não precisam ser muitos, só o suficiente para podermos trabalhar agora. Cerca de ^0000CD10^000000. Depois disso, nós aprendemos Espada ou procuramos mercenários mais ativamente.",
+        "es-ES": "[Atri]\nElimina algunos ^0000CDMineral blanco^000000. Solo necesitamos poder trabajar de inmediato, así que no tienen que ser muchos. Unos ^0000CD10^000000. Después, ya sea aprendiendo Espada nosotros o buscando mercenarios de forma más activa, nos las arreglaremos."
+    },
+    "uVdSDQ": {
+        "en-US": "[Olive]\nThe hero has come!! So, how did it go?",
+        "pt-BR": "[Oliva]\nO herói chegou!! Então, como foi?",
+        "es-ES": "[Oliva]\n¡¡Ha venido el héroe!! Entonces, ¿cómo fue?"
+    },
+    "uldSDQ": {
+        "en-US": "[Olive]\nNot yet? Well, if they were that easy to get rid of, we would not be racking our brains over this.",
+        "pt-BR": "[Oliva]\nAinda não? Bem, se fosse tão fácil derrotá-los, não estaríamos quebrando tanto a cabeça.",
+        "es-ES": "[Oliva]\n¿Aún no? Bueno, si fuera tan fácil eliminarlos, no nos estarían dando tantos quebraderos de cabeza."
+    },
+    "u1dSDQ": {
+        "en-US": "[Atri]\nThen we are counting on you. It is ^0000CD10 White Mineral^000000!",
+        "pt-BR": "[Atri]\nEntão contamos com você. São ^0000CD10 Mineral de Selenita^000000!",
+        "es-ES": "[Atri]\nEntonces contamos contigo. ¡Son ^0000CD10 Mineral blanco^000000!"
+    },
+    "vFdSDQ": {
+        "en-US": "I think you can start working now.",
+        "pt-BR": "Acho que vocês já podem começar o trabalho.",
+        "es-ES": "Creo que ya pueden empezar a trabajar."
+    },
+    "vVdSDQ": {
+        "en-US": "[Olive]\nThank you so much, thank you!!! The workers of the Einbech mine will never forget your help.",
+        "pt-BR": "[Oliva]\nMuito obrigado, obrigado mesmo!!! Os trabalhadores da mina de Einbech jamais esquecerão sua ajuda.",
+        "es-ES": "[Oliva]\n¡Muchísimas gracias, de verdad! Los trabajadores de la mina de Einbech nunca olvidarán tu ayuda."
+    },
+    "vldSDQ": {
+        "en-US": "[Atri]\nAh, I am sorry enough for holding up someone so busy, and yet we do not even have a proper reward to give.",
+        "pt-BR": "[Atri]\nAh, já me sinto mal por prender uma pessoa ocupada, e ainda nem temos algo decente para oferecer como recompensa.",
+        "es-ES": "[Atri]\nAy, ya me sabe mal retener a alguien tan ocupado, y encima no tenemos nada decente que ofrecerte."
+    },
+    "v1dSDQ": {
+        "en-US": "Um... Then...",
+        "pt-BR": "Então... nesse caso...",
+        "es-ES": "Bueno... entonces..."
+    },
+    "wFdSDQ": {
+        "en-US": "[Olive]\nOh, yes. What is it? We will do anything we can. We do not have much money, but we can help in other ways.",
+        "pt-BR": "[Oliva]\nAh, sim. O que é? Faremos tudo que estiver ao nosso alcance. Não temos muito dinheiro, mas podemos oferecer outro tipo de ajuda.",
+        "es-ES": "[Oliva]\nAh, sí. ¿Qué necesitas? Haremos todo lo que esté en nuestra mano. No tenemos mucho dinero, pero podemos ayudarte de otra forma."
+    },
+    "wVdSDQ": {
+        "en-US": "Do you know anyone who needs help?",
+        "pt-BR": "Conhecem alguém que precise de ajuda?",
+        "es-ES": "¿Conocen a alguien que necesite ayuda?"
+    },
+    "wldSDQ": {
+        "en-US": "[Atri]\nWhat? Someone who needs help? Is that what you want to know?",
+        "pt-BR": "[Atri]\nO quê? Alguém que precise de ajuda? É isso que quer saber?",
+        "es-ES": "[Atri]\n¿Qué? ¿Alguien que necesite ayuda? ¿Eso quieres saber?"
+    },
+    "w1dSDQ": {
+        "en-US": "Instead of a reward? Why in the world? Is it because we look poor? We can give you minerals if you need them.",
+        "pt-BR": "Em vez de recompensa? Mas por quê? Parecemos tão pobres assim? Podemos dar os minerais de que precisar.",
+        "es-ES": "¿En vez de una recompensa? ¿Pero por qué? ¿Porque parecemos pobres? Podemos darte los minerales que necesites."
+    },
+    "xFdSDQ": {
+        "en-US": "That is really all I need.",
+        "pt-BR": "Isso basta mesmo.",
+        "es-ES": "Con eso me basta."
+    },
+    "xVdSDQ": {
+        "en-US": "[Olive]\nAh, are you perhaps someone whose hobby is helping others? A serial helper, or something? Or maybe this is an angel's final journey?",
+        "pt-BR": "[Oliva]\nAh, por acaso ajudar os outros é seu hobby? Algo como um ajudante em série? Ou a última jornada de um anjo?",
+        "es-ES": "[Oliva]\nAh, ¿eres de esas personas cuya afición es ayudar a los demás? ¿Un ayudador en serie o algo así? ¿O la última travesía de un ángel?"
+    },
+    "xldSDQ": {
+        "en-US": "[Atri]\nHey now, what kind of thing is that to say to the benefactor who helped us! Right, now that I think of it, there is someone I contacted first when I was looking for a mercenary.",
+        "pt-BR": "[Atri]\nEi, que coisa é essa para dizer ao benfeitor que nos ajudou! Bem, pensando bem, há uma pessoa com quem entrei em contato primeiro quando estava tentando contratar um mercenário.",
+        "es-ES": "[Atri]\n¡Eh, qué forma de hablarle a nuestro benefactor! Sí, ahora que lo pienso, hay una persona a la que contacté primero para buscar un mercenario."
+    },
+    "x1dSDQ": {
+        "en-US": "[Atri]\nThey said they could not help because something serious had happened to them as well. I could not ask what happened, but they seemed to be in a lot of trouble.",
+        "pt-BR": "[Atri]\nEla disse que também tinha acontecido algo sério e que não podia ajudar. Não consegui perguntar o que era, mas parecia muito aflita.",
+        "es-ES": "[Atri]\nMe dijo que no podía ayudar porque también le había surgido un gran problema. No pude preguntarle qué ocurría, pero parecía estar en una situación muy difícil."
+    },
+    "yFdSDQ": {
+        "en-US": "[Atri]\nIt is someone in Morroc named <NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI>. They are wary, but if you say I sent you, it should probably be fine. If you say you want to help, they will welcome you.",
+        "pt-BR": "[Atri]\nÉ uma pessoa chamada <NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI>, em Morroc. Ela é desconfiada, mas se disser que fui eu que enviei, provavelmente ficará tudo bem. E ficará contente se você disser que veio ajudar.",
+        "es-ES": "[Atri]\nEs una persona llamada <NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI>, en Morroc. Es muy cauteloso, pero si dices que te envié yo, probablemente no habrá problema. Si le dices que vas a ayudar, se alegrará."
+    },
+    "yVdSDQ": {
+        "en-US": "[Olive]\nBut are you really sure this is enough? Do you not need anything else?",
+        "pt-BR": "[Oliva]\nMas isso realmente basta? Não precisa de mais nada?",
+        "es-ES": "[Oliva]\nPero ¿de verdad te basta con esto? ¿No necesitas nada más?"
+    },
+    "yldSDQ": {
+        "en-US": "This is enough. Thank you.",
+        "pt-BR": "Isso basta. Obrigado.",
+        "es-ES": "Con esto basta. Gracias."
+    },
+    "y1dSDQ": {
+        "en-US": "[Olive]\nThank us? We are the ones who are grateful. Thank you truly!",
+        "pt-BR": "[Oliva]\nQue nada. Nós é que agradecemos. Muito obrigado mesmo!",
+        "es-ES": "[Oliva]\nGracias dice. Nosotros sí que te estamos agradecidos. ¡Muchísimas gracias!"
+    },
+    "zFdSDQ": {
+        "en-US": "[Olive]\nLook for someone named <NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI> in Morroc. If you say I sent you, they should treat you well.",
+        "pt-BR": "[Oliva]\nProcure a pessoa chamada <NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI> em Morroc. Se disser que fui eu que enviei, ela tratará você bem.",
+        "es-ES": "[Oliva]\nBusca a una persona llamada <NAVI>[M]<INFO>morocc,237,73,0,101,0,</INFO></NAVI> en Morroc. Si dices que te envié yo, te tratará bien."
+    },
+    "zVdSDQ": {
+        "en-US": "[Olive]\nEveryone is working with peace of mind now. Thank you so much!",
+        "pt-BR": "[Oliva]\nAgora todos estão trabalhando tranquilos. Muito obrigado mesmo!",
+        "es-ES": "[Oliva]\nAhora todos trabajan tranquilos. ¡Muchísimas gracias!"
+    },
+    "zldSDQ": {
+        "en-US": "[Olive]\nOrders keep piling up, but everyone who should be working has run away... This is serious, serious.",
+        "pt-BR": "[Oliva]\nOs pedidos continuam se acumulando, mas todos que poderiam trabalhar fugiram... é um grande problema, um grande problema.",
+        "es-ES": "[Oliva]\nLos pedidos siguen acumulándose y todos los trabajadores huyen... Es un gran problema."
+    },
+    "z1dSDQ": {
+        "en-US": "[Atri]\nAre you here to work? Or are you here about the mercenary work? Wait, Olive is saying something. I cannot hear well.",
+        "pt-BR": "[Atri]\nVeio para trabalhar? Ou veio por causa do trabalho de mercenário? Espere, Oliva está dizendo algo. Não consigo ouvir bem.",
+        "es-ES": "[Atri]\n¿Has venido a trabajar? ¿O vienes por lo del mercenario? Espera, Oliva está diciendo algo. No lo oigo bien."
+    },
+    "0FdSDQ": {
+        "en-US": "[Atri]\nSo, how did it go? Hm?",
+        "pt-BR": "[Atri]\nEntão, como foi? Hm?",
+        "es-ES": "[Atri]\nEntonces, ¿cómo fue? ¿Eh?"
+    },
+    "0VdSDQ": {
+        "en-US": "[Atri]\nShould you not hurry to Morroc? It seemed urgent.",
+        "pt-BR": "[Atri]\nVocê não deveria ir logo a Morroc? Parece urgente.",
+        "es-ES": "[Atri]\n¿No deberías ir enseguida a Morroc? Parecía urgente."
+    },
+    "0ldSDQ": {
+        "en-US": "[Atri]\nOh my!!! Our benefactor has come!! You can see it, right? Everyone working hard. It is all thanks to you!",
+        "pt-BR": "[Atri]\nNossa!!! Nosso benfeitor voltou!! Está vendo? Todos estão trabalhando duro. Tudo graças a você!",
+        "es-ES": "[Atri]\n¡¡¡Vaya!!! ¡¡¡Ha venido nuestro benefactor!!! ¿Lo ves? Todos están trabajando con empeño. ¡Todo es gracias a ti!"
+    },
+    "01dSDQ": {
+        "en-US": "[Atri]\nAs expected, it would be faster if I learned Sword! I have only swung a pickaxe for over ten years, so I should learn it quickly.",
+        "pt-BR": "[Atri]\nAcho que será mais rápido eu aprender Espada mesmo! Já são mais de dez anos usando picareta, então devo aprender rápido.",
+        "es-ES": "[Atri]\n¡Al final será más rápido que aprenda Espada yo mismo! Llevo más de diez años manejando el pico, así que aprenderé rápido."
+    },
+    "1FdSDQ": {
+        "en-US": "[Search Member]\nWe have not found it yet.",
+        "pt-BR": "[Investigador]\nAinda não encontramos.",
+        "es-ES": "[Rastreador]\nAún no la hemos encontrado."
+    },
+    "1VdSDQ": {
+        "en-US": "[Person in Need]\nExpand the search area and bring in more people. Anyone will do.",
+        "pt-BR": "[Pessoa que precisa de ajuda]\nAmpliem a área de busca e mobilizem mais gente. Qualquer pessoa serve.",
+        "es-ES": "[Persona que necesita ayuda]\nAmpliad la zona de búsqueda y movilizad a más gente. Quien sea."
+    },
+    "1ldSDQ": {
+        "en-US": "[Search Member]\nYes!",
+        "pt-BR": "[Investigador]\nSim!",
+        "es-ES": "[Rastreador]\n¡Sí!"
+    },
+    "11dSDQ": {
+        "en-US": "[Person in Need]\nHah... What in the world is all this?",
+        "pt-BR": "[Pessoa que precisa de ajuda]\nHaa... sério, que situação é esta?",
+        "es-ES": "[Persona que necesita ayuda]\nHa... De verdad, ¿qué es todo esto?"
+    },
+    "2FdSDQ": {
+        "en-US": "[Person in Need]\nWhat is the matter? This is a private matter. We do not need help from outsiders. Please leave.",
+        "pt-BR": "[Pessoa que precisa de ajuda]\nQual é o assunto? Isto é uma questão particular. Não precisamos da ajuda de estranhos. Vá embora.",
+        "es-ES": "[Persona que necesita ayuda]\n¿Qué desea? Es un asunto privado. No necesitamos ayuda de extraños. Márchese."
+    },
+    "2VdSDQ": {
+        "en-US": "Um, I was sent from the mine in Einbech.",
+        "pt-BR": "Eu vim da mina de Einbech.",
+        "es-ES": "Yo... me envían de la mina de Einbech."
+    },
+    "2ldSDQ": {
+        "en-US": "[Person in Need]\nEinbech...? Are you perhaps referring to Mr. Atri? He asked me for help, but did he set aside his own matter and send someone to help me?",
+        "pt-BR": "[Pessoa que precisa de ajuda]\nEinbech...? Por acaso está falando do senhor Atri? Ele me pediu ajuda, mas enviou alguém para deixar aquele problema de lado e me ajudar?",
+        "es-ES": "[Persona que necesita ayuda]\n¿Einbech...? ¿Se refiere quizá al señor Atri? Él me pidió ayuda. ¿Ha dejado de lado su propio asunto para enviar a alguien a ayudarme?"
+    },
+    "21dSDQ": {
+        "en-US": "I helped with the Einbech matter.",
+        "pt-BR": "Eu ajudei no caso de Einbech.",
+        "es-ES": "Yo ayudé con el asunto de Einbech."
+    },
+    "3FdSDQ": {
+        "en-US": "[Person in Need]\n...It sounded like quite a troublesome problem, and you...\nPerhaps...\nSince we need even one more person right now, I will explain immediately. I am called M. I am also the captain of the guards for a certain family.",
+        "pt-BR": "[Pessoa que precisa de ajuda]\n...Parecia um problema bastante complicado, e você... talvez...\nComo no momento precisamos de mais uma pessoa que seja, irei direto ao ponto. Eu sou M. Também sou capitão da guarda de certa família.",
+        "es-ES": "[Persona que necesita ayuda]\n...Parecía un problema bastante complicado y aun así... Quizá...\nAhora mismo necesitamos a una persona más, quien sea, así que iré directo al asunto. Me llamo M. También soy el capitán de la guardia de cierta familia."
+    },
+    "3VdSDQ": {
+        "en-US": "[M]\nDo you know the phrase ^0000CDlooking for a needle in the desert^000000? It means something almost impossible from beginning to end.",
+        "pt-BR": "[M]\nPor acaso conhece a expressão ^0000CDprocurar uma agulha no deserto^000000? Significa uma tarefa praticamente impossível do começo ao fim.",
+        "es-ES": "[M]\n¿Conoce la expresión ^0000CDbuscar una aguja en el desierto^000000? Significa algo casi imposible de principio a fin."
+    },
+    "3ldSDQ": {
+        "en-US": "[M]\nIt is one of the many phrases our young master recently learned when he began his studies. He said he would see for himself just how difficult it truly was, took a needle outside, and threw it into the sandstorm.",
+        "pt-BR": "[M]\nÉ uma das várias expressões que nosso jovem mestre aprendeu recentemente ao começar seus estudos. Ele disse que queria verificar o quão difícil isso realmente era, pegou uma agulha, saiu e a lançou em meio à tempestade de areia.",
+        "es-ES": "[M]\nEs una de las muchas expresiones que nuestro joven señor aprendió recientemente al empezar sus estudios. Quiso comprobar lo difícil que era de verdad, así que salió con una aguja y la lanzó en medio de una tormenta de arena."
+    },
+    "31dSDQ": {
+        "en-US": "[M]\nAfter searching for quite some time and apparently failing, he told us to find it. So we are now sifting through sand, looking for a needle.",
+        "pt-BR": "[M]\nDepois de procurar por um bom tempo e não conseguir encontrar, mandou que nós a encontrássemos. Por isso, agora estamos revirando a areia em busca da agulha.",
+        "es-ES": "[M]\nDespués de buscarla durante bastante tiempo sin éxito, nos ordenó encontrarla. Por eso ahora estamos removiendo la arena en busca de la aguja."
+    },
+    "4FdSDQ": {
+        "en-US": "[M]\nThe needle has a special mark, so we cannot replace it with another needle... Hah-",
+        "pt-BR": "[M]\nA agulha tem uma marca especial, então também não podemos substituí-la por outra... Haa-",
+        "es-ES": "[M]\nLa aguja tiene una marca especial, así que no podemos sustituirla por otra... Ha..."
+    },
+    "4VdSDQ": {
+        "en-US": "[M]\nWe tracked the flow of the sandstorm and ^0000CDmarked^000000 several ^0000CDsuspicious locations^000000, so please focus your search around those areas. We will be sure to reward you.",
+        "pt-BR": "[M]\nNós rastreamos o fluxo da tempestade de areia e ^0000CDmarcamos^000000 alguns ^0000CDlocais suspeitos^000000. Procure principalmente nessas áreas. A recompensa será garantida.",
+        "es-ES": "[M]\nHemos seguido el flujo de la tormenta de arena y hemos ^0000CDmarcado^000000 varias ^0000CDzonas sospechosas^000000, así que busque alrededor de esas zonas. Por supuesto, habrá una recompensa."
+    },
+    "4ldSDQ": {
+        "en-US": "[M]\nWe tracked the flow of the sandstorm and ^0000CDmarked^000000 several ^0000CDsuspicious locations^000000, so please focus your search around those areas.",
+        "pt-BR": "[M]\nNós rastreamos o fluxo da tempestade de areia e ^0000CDmarcamos^000000 alguns ^0000CDlocais suspeitos^000000. Procure principalmente nessas áreas.",
+        "es-ES": "[M]\nHemos seguido el flujo de la tormenta de arena y hemos ^0000CDmarcado^000000 varias ^0000CDzonas sospechosas^000000, así que busque alrededor de esas zonas."
+    },
+    "41dSDQ": {
+        "en-US": "[M]\nWelcome! I received the needle. Thank you truly. Please tell me what you want. I will reward you.",
+        "pt-BR": "[M]\nBem-vindo! Recebi a agulha. Muito obrigado. Diga o que deseja. Vou recompensá-lo.",
+        "es-ES": "[M]\n¡Bienvenido! Ya he recibido la aguja. Muchas gracias. Dígame qué desea. Le recompensaré."
+    },
+    "5FdSDQ": {
+        "en-US": "[{0}]\nI do not need a reward, so do you know anyone who needs help?",
+        "pt-BR": "[{0}]\nNão preciso de recompensa. Conhece alguém que precise de ajuda?",
+        "es-ES": "[{0}]\nNo hace falta recompensa. ¿Conoce a alguien que necesite ayuda?"
+    },
+    "5VdSDQ": {
+        "en-US": "[M]\nHelp... Ah! You said Mr. Atri from Einbech sent you, correct? What should I do... I cannot think of anyone nearby who needs help.\nI am sorry. You helped me, yet I cannot be of help to you.",
+        "pt-BR": "[M]\nAjuda... Einbech... Ah! Você disse que veio enviado pelo senhor Atri, certo? O que fazer... Não consigo pensar em ninguém por perto que precise de ajuda.\nDesculpe. Você me ajudou, mas não consigo ajudar em troca.",
+        "es-ES": "[M]\nAyuda... ¿Einbech? ¡Ah! Dijo que vino porque lo envió el señor Atri, ¿verdad? Qué problema... No se me ocurre nadie cerca que necesite ayuda.\nLo siento. Me ha ayudado, pero yo no he podido serle de ayuda."
+    },
+    "5ldSDQ": {
+        "en-US": "[{0}]\nIt is all right. I will find someone on my own.",
+        "pt-BR": "[{0}]\nNão tem problema. Eu mesmo vou procurar.",
+        "es-ES": "[{0}]\nNo se preocupe. Buscaré por mi cuenta."
+    },
+    "51dSDQ": {
+        "en-US": "[{0}]\nOnly one person remains. Where should I go... The last one... Ah...! The <NAVI>[person]<INFO>payon,215,201,0,101,0,</INFO></NAVI> I saw in ^0000CDPayon^000000 asked for help!",
+        "pt-BR": "[{0}]\nFalta uma última pessoa. Para onde eu vou...? A última... Ah...! A <NAVI>[pessoa]<INFO>payon,215,201,0,101,0,</INFO></NAVI> que vi em ^0000CDPayon^000000 pediu ajuda!",
+        "es-ES": "[{0}]\nMe queda una última persona. ¿Adónde voy...? La última... ¡Ah...! ¡La <NAVI>[persona]<INFO>payon,215,201,0,101,0,</INFO></NAVI> que vi en ^0000CDPayon^000000 había pedido ayuda!"
+    },
+    "6FdSDQ": {
+        "en-US": "[M]\nMay everything you do go well!!",
+        "pt-BR": "[M]\nEspero sinceramente que tudo que você fizer dê certo!!",
+        "es-ES": "[M]\n¡Le deseo que todo lo que haga salga bien!"
+    },
+    "6VdSDQ": {
+        "en-US": "[M]\nBefore you leave for <NAVI>[Payon]<INFO>payon,215,201,0,101,0,</INFO></NAVI>, is there anything you need?",
+        "pt-BR": "[M]\nAntes de partir para <NAVI>[Payon]<INFO>payon,215,201,0,101,0,</INFO></NAVI>, precisa de alguma coisa?",
+        "es-ES": "[M]\nAntes de partir hacia <NAVI>[Payon]<INFO>payon,215,201,0,101,0,</INFO></NAVI>, ¿necesita algo?"
+    },
+    "6ldSDQ": {
+        "en-US": "[M]\nThank you so much for before. I only hope the young master does not become interested in another proverb...",
+        "pt-BR": "[M]\nMuito obrigado pelo que fez antes. Só espero que o jovem mestre não se interesse por outro provérbio...",
+        "es-ES": "[M]\nDe verdad, muchas gracias por la otra vez. Ojalá nuestro joven señor no se interese por ningún otro refrán..."
+    },
+    "61dSDQ": {
+        "en-US": "[M]\nLooking for a needle in the desert...",
+        "pt-BR": "[M]\nProcurar uma agulha no deserto...",
+        "es-ES": "[M]\nBuscar una aguja en el desierto..."
+    },
+    "7FdSDQ": {
+        "en-US": "Search Member",
+        "pt-BR": "Investigador",
+        "es-ES": "Rastreador"
+    },
+    "7VdSDQ": {
+        "en-US": "Marked Location",
+        "pt-BR": "Local marcado",
+        "es-ES": "Lugar marcado"
+    },
+    "7ldSDQ": {
+        "en-US": "[{0}]\nI found the needle!!!",
+        "pt-BR": "[{0}]\nEncontrei a agulha!!!",
+        "es-ES": "[{0}]\n¡¡¡Encontré la aguja!!!"
+    },
+    "71dSDQ": {
+        "en-US": "[Search Member]\nYou found the needle! What a relief. We can finally return home. Thank you very much.",
+        "pt-BR": "[Investigador]\nVocê encontrou a agulha! Que alívio. Finalmente poderemos voltar para casa. Muito obrigado.",
+        "es-ES": "[Rastreador]\n¡Ha encontrado la aguja! Qué alivio. Por fin podremos volver a casa. Muchas gracias."
+    },
+    "8FdSDQ": {
+        "en-US": "[Search Member]\nPlease give me the needle. I will deliver it faster than anyone. Adventurer, please come at your own pace.",
+        "pt-BR": "[Investigador]\nEntregue a agulha a mim. Eu a levarei mais rápido do que qualquer um. Aventureiro, venha com calma.",
+        "es-ES": "[Rastreador]\nEntrégueme la aguja. Yo la entregaré más rápido que nadie. Aventurero, venga con calma."
+    },
+    "8VdSDQ": {
+        "en-US": "Is it not here? I should search somewhere else.",
+        "pt-BR": "Não está aqui? Vou procurar em outro lugar.",
+        "es-ES": "¿No está aquí? Tendré que buscar en otro lugar."
+    },
+    "8ldSDQ": {
+        "en-US": "Why can I not see it? I should search again.",
+        "pt-BR": "Por que não aparece? Vou procurar de novo.",
+        "es-ES": "¿Por qué no aparece? Tendré que buscar de nuevo."
+    },
+    "81dSDQ": {
+        "en-US": "[Eunha]\nNow~ Let us hurry inside. Welcome to Eunha Heavenly Realm Branch Office!!",
+        "pt-BR": "[Cosmos]\nEntão~ vamos entrar logo. Bem-vindo ao Escritório Celestial de Cosmos!!",
+        "es-ES": "[Cosmos]\nBien~ Entonces entremos ya. ¡¡Bienvenido a la sucursal celestial de Cosmos!!"
+    }
+}

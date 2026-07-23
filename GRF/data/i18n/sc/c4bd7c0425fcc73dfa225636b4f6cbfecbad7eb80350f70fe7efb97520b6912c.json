@@ -2777,7 +2777,7 @@
     "SwQYDA": {
         "en-US": "[Government Official]\nThat's why the union decided to leave this matter to the adventurers... hehe... and you guys are doing very well...",
         "pt-BR": "[Oficial do Governo]\nPor isso, o sindicato decidiu deixar esse assunto para os aventureiros... hehe... e vocês estão se saindo muito bem...",
-        "es-ES": "[Funcionaria del Gobierno]\nPor eso, la unión decidió dejar este asunto en manos de los aventureros... jeje... y a ustedes les está yendo muy bien…"
+        "es-ES": "[Funcionaria del Gobierno]\nPor eso, la unión decidió dejar este asunto en manos de los aventureros... jeje... y a ustedes les está yendo muy bien..."
     },
     "TAQYDA": {
         "en-US": "[Government Official]\nThe missions change at 4 a.m. on Wednesday. If you are level ^FFFAAAAmethyst^000000, you can already do these missions.",
@@ -8643,5 +8643,6 @@
         "en-US": "[Government Official]\nWe divide trust into a fame ranking, between ^A662D9Amethyst^000000, ^E25A68Peridot^000000, ^5C57E4Aquamarine^000000, and ^B3DFFBDiamond^000000.",
         "pt-BR": "[Oficial do Governo]\nDividimos a confiança em um ranking de fama, entre ^A662D9Ametista^000000, ^E25A68Peridoto^000000, ^5C57E4Aquamarina^000000 e ^B3DFFBDiamante^000000.",
         "es-ES": "[Funcionaria del Gobierno]\nHemos dividido la confianza en una clasificación de fama, entre ^A662D9Amatista^000000, ^E25A68Peridoto^000000, ^5C57E4Aguamarina^000000 y ^B3DFFBDiamante^000000."
-    }
+    },
+    "4QgYDA": {}
 }

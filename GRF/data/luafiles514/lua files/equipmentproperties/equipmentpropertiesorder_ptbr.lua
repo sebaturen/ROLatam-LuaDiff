@@ -112,7 +112,7 @@ EquipmentPropertiesOrder_string = {
 				name = "{sym}{val}#CRÍT"
 			},
 			[8] = {
-				name = "{sym}{val}#VelAtq"
+				name = "{sym}{val}#Velocidade de ataque"
 			},
 			[9] = {
 				name = "{sym}{val}%#Velocidade de ataque"
@@ -121,7 +121,7 @@ EquipmentPropertiesOrder_string = {
 				name = "{sym}{val}#Esquiva perfeita"
 			},
 			[11] = {
-				name = "{sym}{val}%#ATQ da arma"
+				name = "{sym}{val}%#Dano físico"
 			},
 			[12] = {
 				name = "{sym}{val}#ATQ"
@@ -252,7 +252,7 @@ EquipmentPropertiesOrder_string = {
 	[4] = {
 		order = {
 			[1] = {
-				name = "{sym}{val}%#Dano físico contra todas as prop."
+				name = "{sym}{val}%#Dano físico contra todas as propriedades"
 			},
 			[2] = {
 				name = "{sym}{val}%#Dano físico contra Fogo"
@@ -899,7 +899,7 @@ EquipmentPropertiesOrder_string = {
 				name = "{val}%#Dano de {sep} {sym}"
 			},
 			[7] = {
-				name = "{val}Nv#{sym} {sep}"
+				name = "Nv.{val}#{sym} {sep}"
 			}
 		}
 	},
@@ -927,7 +927,7 @@ EquipmentPropertiesOrder_string = {
 				name = "Anula o consumo de Gemas {sym}"
 			},
 			[8] = {
-				name = "{sym}{val}%#Dano corpo a corpo refletido"
+				name = "{sym}{val}%#Dano físico corpo a corpo refletido"
 			},
 			[9] = {
 				name = "Anula a penalidade de Tamanho {sym}"
@@ -945,7 +945,7 @@ EquipmentPropertiesOrder_string = {
 				name = "Anula o consumo de Gasolina {sym}"
 			},
 			[14] = {
-				name = "{sym}{val}%#Precisão perfeita"
+				name = "{sym}{val}#Precisão perfeita"
 			},
 			[15] = {
 				name = "Imune a Empurrão {sym}"

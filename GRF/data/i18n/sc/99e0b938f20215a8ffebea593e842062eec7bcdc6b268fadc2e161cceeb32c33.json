@@ -22,7 +22,7 @@
     "5NeZCA": {
         "en-US": "[Geffen Academy Master]\nI'm the host of Group A,\nGeffen Academy Master!\nMy name is\nArchmage Zanzibar Helmod!",
         "pt-BR": "[Mestre da Academia de Geffen]\nSou o apresentador do grupo A\ne Mestre da Academia de Geffen!\nMeu nome é \nZanzibar Hellmod!",
-        "es-ES": "[Maestro de la Academia]\nSoy su presentador para el grupo A\ny maestro de la Academia de Geffen,\ny mi nombre es…\n¡El Archimago Zanzibar Helmod!"
+        "es-ES": "[Maestro de la Academia]\nSoy su presentador para el grupo A\ny maestro de la Academia de Geffen,\ny mi nombre es...\n¡El Archimago Zanzibar Helmod!"
     },
     "5deZCA": {
         "en-US": "[Geffen Academy Master]\nThank you\nfor giving me the honor\nto host!\nAll right. Finally it's time.",
@@ -32,7 +32,7 @@
     "5teZCA": {
         "en-US": "[Geffen Academy Master]\nMmm... Hmm... Ahem...",
         "pt-BR": "[Mestre da Academia de Geffen]\nAhem... Caham... Ehem...",
-        "es-ES": "[Maestro de la Academia]\nMmm… Este… Ejem…"
+        "es-ES": "[Maestro de la Academia]\nMmm... Este... Ejem..."
     },
     "59eZCA": {
         "en-US": "Geffen Academy Master: Then, let's start with",
@@ -62,7 +62,7 @@
     "7NeZCA": {
         "en-US": "Archi: Will I be able to win?",
         "pt-BR": "Alphard: Será que consigo vencer?",
-        "es-ES": "Archi: Me pregunto si puedo ganar…"
+        "es-ES": "Archi: Me pregunto si puedo ganar..."
     },
     "7deZCA": {
         "en-US": "Archi: Opponent also looks weak. So I think I'll be fine!",
@@ -92,7 +92,7 @@
     "8teZCA": {
         "en-US": "Archi: Ah... I lost even the first game...",
         "pt-BR": "Alphard: Ah..... Eu perdi a primeira batalha...",
-        "es-ES": "Archi: Ay… ¡Perdí en el primer combate…!"
+        "es-ES": "Archi: Ay... ¡Perdí en el primer combate...!"
     },
     "89eZCA": {
         "en-US": "Geffen Academy Master: Game 1 in Group A ended! The winner can receive victory bonus every game.",
@@ -117,7 +117,7 @@
     "99eZCA": {
         "en-US": "Archi: My friends will laugh at me...",
         "pt-BR": "Alphard: Ah... Meus amigos vão rir de mim...",
-        "es-ES": "Archi: Mis amigos se reirán de mí…"
+        "es-ES": "Archi: Mis amigos se reirán de mí..."
     },
     "+NeZCA": {
         "en-US": "Archi: (Sobbing)",
@@ -172,7 +172,7 @@
     "AtiZCA": {
         "en-US": "Archi: I guess the level of Magic Contest is dumbed down these days.",
         "pt-BR": "Alphard: Será que o nível do torneio de magia caiu?",
-        "es-ES": "Archi: Parece que el nivel de los concursos de magia ha decaído bastante…"
+        "es-ES": "Archi: Parece que el nivel de los concursos de magia ha decaído bastante..."
     },
     "A9iZCA": {
         "en-US": "Archi: Yes! Woo-hoo! Yay!",
@@ -277,7 +277,7 @@
     "F9iZCA": {
         "en-US": "Geffen Academy Master: Oh! We have the result! And the winner is!",
         "pt-BR": "Mestre da Academia de Geffen: Ah! Já temos os resultados! O vencedor é...!",
-        "es-ES": "Maestro de la Academia Geffen: ¡Ajá, ya tenemos el resultado! El participante ganador es…"
+        "es-ES": "Maestro de la Academia Geffen: ¡Ajá, ya tenemos el resultado! El participante ganador es..."
     },
     "GNiZCA": {
         "en-US": "Geffen Academy Master: 4 minutes left!",
@@ -322,7 +322,7 @@
     "INiZCA": {
         "en-US": "Dio Anemos: No way...",
         "pt-BR": "Sirius: Certo, vamos lá.",
-        "es-ES": "Dio Anemos: No puede ser…"
+        "es-ES": "Dio Anemos: No puede ser..."
     },
     "IdiZCA": {
         "en-US": "Geffen Academy Master: Game 2 in Group A ended! The winner can receive victory bonus every game.",
@@ -332,7 +332,7 @@
     "ItiZCA": {
         "en-US": "Dio Anemos: I can't believe I lost...",
         "pt-BR": "Sirius: Eu perdi...",
-        "es-ES": "Dio Anemos: No puedo creer que perdí…"
+        "es-ES": "Dio Anemos: No puedo creer que perdí..."
     },
     "I9iZCA": {
         "en-US": "Dio Anemos: Man... I lost to a nobody...",
@@ -347,7 +347,7 @@
     "JdiZCA": {
         "en-US": "Dio Anemos: Man... I am sad...",
         "pt-BR": "Sirius: Ai, ai... que triste...",
-        "es-ES": "Dio Anemos: Rayos, qué decepción…"
+        "es-ES": "Dio Anemos: Rayos, qué decepción..."
     },
     "JtiZCA": {
         "en-US": "Dio Anemos: Aaaaaaaaaaahhhh!",
@@ -382,7 +382,7 @@
     "LNiZCA": {
         "en-US": "Dio Anemos: Whew... It was an easy opponent as expected.",
         "pt-BR": "Sirius: Ufa... Foi fácil.",
-        "es-ES": "Dio Anemos: Uf… Mi oponente era débil, tal como lo preví."
+        "es-ES": "Dio Anemos: Uf... Mi oponente era débil, tal como lo preví."
     },
     "LdiZCA": {
         "en-US": "Dio Anemos: You better go home and drink more milk, little kid.",
@@ -432,7 +432,7 @@
     "NtiZCA": {
         "en-US": "Geffen Gang: My Kafra... Her beautiful leg... Can't I see it again?",
         "pt-BR": "Pemont: Minha Kafra... as belas pernas... Nunca mais as verei...",
-        "es-ES": "Gánster de Geffen: Mi dulce señorita de Kafra… Sus tersas pantorrillas… ¿Acaso nunca más la veré?"
+        "es-ES": "Gánster de Geffen: Mi dulce señorita de Kafra... Sus tersas pantorrillas... ¿Acaso nunca más la veré?"
     },
     "N9iZCA": {
         "en-US": "Geffen Gang: (Sobbing) This can't happen!",
@@ -447,7 +447,7 @@
     "OdiZCA": {
         "en-US": "Geffen Gang: I'll meet Prontera Kafra. Hehehe...",
         "pt-BR": "Pemont: Vou visitar a Kafra de Prontera... huhuhu...",
-        "es-ES": "Gánster de Geffen: En fin, mejor iré a visitar a la empleada de Kafra de Prontera. Je, je, je…"
+        "es-ES": "Gánster de Geffen: En fin, mejor iré a visitar a la empleada de Kafra de Prontera. Je, je, je..."
     },
     "OtiZCA": {
         "en-US": "Geffen Academy Master: I've got the news of the game in Group B of Magic Contest!",
@@ -492,7 +492,7 @@
     "QtiZCA": {
         "en-US": "Geffen Gang: (Snickering) Now Geffen Kafra can be...",
         "pt-BR": "Pemont: Huhu... Você é... a Kafra de Geffen...",
-        "es-ES": "Gánster de Geffen: Je, je, ahora podré visitar a la empleada de Kafra en Geffen…"
+        "es-ES": "Gánster de Geffen: Je, je, ahora podré visitar a la empleada de Kafra en Geffen..."
     },
     "Q9iZCA": {
         "en-US": "Geffen Gang: I want to run to my Kafra!",
@@ -517,7 +517,7 @@
     "R9iZCA": {
         "en-US": "Geffen Thug: No way. I can't believe I lost to that geek!",
         "pt-BR": "Ordre: Não acredito que perdi pra esse mané!",
-        "es-ES": "Matón de Geffen: No… ¡No puedo creer que perdí contra semejante friki!"
+        "es-ES": "Matón de Geffen: No... ¡No puedo creer que perdí contra semejante friki!"
     },
     "SNiZCA": {
         "en-US": "Geffen Academy Master: Game 3 of Group A ended! The winner can receive victory bonus every game.",
@@ -537,7 +537,7 @@
     "S9iZCA": {
         "en-US": "Geffen Thug: Darn... If the news get out, everyone in Geffen",
         "pt-BR": "Ordre: .... Se descobrirem isso, todas as pessoas de Geffen",
-        "es-ES": "Matón de Geffen: Maldición… Si la gente de Geffen se entera de esto,"
+        "es-ES": "Matón de Geffen: Maldición... Si la gente de Geffen se entera de esto,"
     },
     "TNiZCA": {
         "en-US": "Geffen Thug: will make fun of me...",
@@ -612,7 +612,7 @@
     "WtiZCA": {
         "en-US": "Geffen Thief: No way... I can't believe I lost...",
         "pt-BR": "Gatuna de Geffen: Ah, meu Deus... Fui derrotada.",
-        "es-ES": "Ladrona de Geffen: No puede ser… No puedo creer que perdí..."
+        "es-ES": "Ladrona de Geffen: No puede ser... No puedo creer que perdí..."
     },
     "W9iZCA": {
         "en-US": "Geffen Thief: As I've only been stealing,",
@@ -622,12 +622,12 @@
     "XNiZCA": {
         "en-US": "Geffen Thief: my combat skills are rusty...",
         "pt-BR": "Lechenie: Meu poder de batalha foi reduzido...",
-        "es-ES": "Ladrona de Geffen: mis habilidades de combate no están a la altura…"
+        "es-ES": "Ladrona de Geffen: mis habilidades de combate no están a la altura..."
     },
     "XdiZCA": {
         "en-US": "Geffen Thief: I can't believe this...",
         "pt-BR": "Lechenie: Ah... Não pode ser...",
-        "es-ES": "Ladrona de Geffen: ¡No puedo creerlo…!"
+        "es-ES": "Ladrona de Geffen: ¡No puedo creerlo...!"
     },
     "XtiZCA": {
         "en-US": "Geffen Thief: I need to train if I'm going to keep stealing...",
@@ -637,7 +637,7 @@
     "X9iZCA": {
         "en-US": "Geffen Thief: Hmmm... Let's get away from here first!",
         "pt-BR": "Lechenie: Bom... Enfim, vou dar o fora daqui!",
-        "es-ES": "Ladrona de Geffen: Pero primero… ¡largarme de aquí!"
+        "es-ES": "Ladrona de Geffen: Pero primero... ¡largarme de aquí!"
     },
     "YNiZCA": {
         "en-US": "Geffen Thief",
@@ -687,7 +687,7 @@
     "adiZCA": {
         "en-US": "Geffen Thief: There are lots of people...",
         "pt-BR": "Lechenie: Ah... Isso não é bom.",
-        "es-ES": "Ladrona de Geffen: Hay mucha gente aquí…"
+        "es-ES": "Ladrona de Geffen: Hay mucha gente aquí..."
     },
     "atiZCA": {
         "en-US": "Geffen Thief: So I thought there would be a lot to steal...",
@@ -742,7 +742,7 @@
     "dNiZCA": {
         "en-US": "Pa Monk: Mmm... It'll begin soon...",
         "pt-BR": "Mirzam: Ahem... Vai começar agora...",
-        "es-ES": "Monja Pa: Mmm… Esto ya comienza."
+        "es-ES": "Monja Pa: Mmm... Esto ya comienza."
     },
     "ddiZCA": {
         "en-US": "Pa Monk: I'll finish quickly and guy new helmet.",
@@ -752,7 +752,7 @@
     "dtiZCA": {
         "en-US": "Pa Monk: No way... I can't believe I lost...",
         "pt-BR": "Mirzam: Não acredito que perdi...",
-        "es-ES": "Monja Pa: No puede ser… No puedo creer que perdí..."
+        "es-ES": "Monja Pa: No puede ser... No puedo creer que perdí..."
     },
     "d9iZCA": {
         "en-US": "Geffen Academy Master: Game 4 in Group A ended! The winner can receive victory bonus every game.",
@@ -762,7 +762,7 @@
     "eNiZCA": {
         "en-US": "Pa Monk: I lost to such a shabby guy...",
         "pt-BR": "Mirzam: Alguém sem dignidade...",
-        "es-ES": "Monja Pa: Perder contra una persona tan harapienta…"
+        "es-ES": "Monja Pa: Perder contra una persona tan harapienta..."
     },
     "ediZCA": {
         "en-US": "Pa Monk: This is a real shame...",
@@ -772,7 +772,7 @@
     "etiZCA": {
         "en-US": "Pa Monk: My fan girls are going to be disappointed...",
         "pt-BR": "Mirzam: As minhas fãs vão ficar decepcionadas comigo...",
-        "es-ES": "Monja Pa: Mis fanes se van a decepcionar tanto de mí…"
+        "es-ES": "Monja Pa: Mis fanes se van a decepcionar tanto de mí..."
     },
     "e9iZCA": {
         "en-US": "Pa Monk: Oh... How will I go outside...",
@@ -782,7 +782,7 @@
     "fNiZCA": {
         "en-US": "Pa Monk: I won't go outside for a while...",
         "pt-BR": "Mirzam: Eu não devia andar lá fora...",
-        "es-ES": "Monja Pa: Creo que me quedaré encerrada un buen tiempo…"
+        "es-ES": "Monja Pa: Creo que me quedaré encerrada un buen tiempo..."
     },
     "fdiZCA": {
         "en-US": "Pa Monk",
@@ -832,7 +832,7 @@
     "htiZCA": {
         "en-US": "Ordre: I lost...",
         "pt-BR": "Muliephen: Derrotada...",
-        "es-ES": "Ordre: Perdí…"
+        "es-ES": "Ordre: Perdí..."
     },
     "h9iZCA": {
         "en-US": "Geffen Academy Master: Game 5 in Group A ended! The winner can receive victory bonus every game.",
@@ -842,7 +842,7 @@
     "iNiZCA": {
         "en-US": "Ordre: I need more training...",
         "pt-BR": "Muliephen: Eu preciso de mais treino...",
-        "es-ES": "Ordre: Necesito entrenar más…"
+        "es-ES": "Ordre: Necesito entrenar más..."
     },
     "idiZCA": {
         "en-US": "Ordre: I need to try harder.",
@@ -917,7 +917,7 @@
     "l9iZCA": {
         "en-US": "Blut Hase: My fame... My reputation...",
         "pt-BR": "Wezen: Minha reputação... Minha popularidade...",
-        "es-ES": "Blut Hase: Mi fama… Mi reputación…"
+        "es-ES": "Blut Hase: Mi fama... Mi reputación..."
     },
     "mNiZCA": {
         "en-US": "Blut Hase: They'll be terrible...",
@@ -1002,7 +1002,7 @@
     "qNiZCA": {
         "en-US": "Kuro Akuma: No way...",
         "pt-BR": "Wei: Ah, meu Deus...",
-        "es-ES": "Kuro Akuma: No puede ser…"
+        "es-ES": "Kuro Akuma: No puede ser..."
     },
     "qdiZCA": {
         "en-US": "Geffen Academy Master: Game 7 in Group A ended! The winner can receive victory bonus every game.",
@@ -1012,12 +1012,12 @@
     "qtiZCA": {
         "en-US": "Kuro Akuma: I am the devil's teeth...",
         "pt-BR": "Wei: Eu sou filho do demônio...",
-        "es-ES": "Kuro Akuma: Soy… ¡Soy el Colmillo del Diablo!"
+        "es-ES": "Kuro Akuma: Soy... ¡Soy el Colmillo del Diablo!"
     },
     "q9iZCA": {
         "en-US": "Kuro Akuma: Losing doesn't make sense...",
         "pt-BR": "Wei: Não acredito que perdi...",
-        "es-ES": "Kuro Akuma: No puedo perder…"
+        "es-ES": "Kuro Akuma: No puedo perder..."
     },
     "rNiZCA": {
         "en-US": "Kuro Akuma: (Shouting)",
@@ -1152,7 +1152,7 @@
     "xtiZCA": {
         "en-US": "Rechenier: (Snickering) I'll bite you!",
         "pt-BR": "Shaula: Hihihi... Eu acabo com todos!",
-        "es-ES": "Rechenier: Ji, ji… Te morderé."
+        "es-ES": "Rechenier: Ji, ji... Te morderé."
     },
     "x9iZCA": {
         "en-US": "Rechenier: Goodness. How can this happen?",
@@ -1167,7 +1167,7 @@
     "ydiZCA": {
         "en-US": "Rechenier: You beat an elegant lady like me...",
         "pt-BR": "Shaula: Você me atacou com tanta crueldade... Uma dama como eu...",
-        "es-ES": "Rechenier: Te atreves a ganarle a una señorita elegante como yo…"
+        "es-ES": "Rechenier: Te atreves a ganarle a una señorita elegante como yo..."
     },
     "ytiZCA": {
         "en-US": "Rechenier: I'm so sad...",
@@ -1182,7 +1182,7 @@
     "zNiZCA": {
         "en-US": "Rechenier: But... When we meet next time.",
         "pt-BR": "Shaula: Mas... na próxima vez...",
-        "es-ES": "Rechenier: Pero… la próxima vez que nos veamos…"
+        "es-ES": "Rechenier: Pero... la próxima vez que nos veamos..."
     },
     "zdiZCA": {
         "en-US": "Rechenier: I'll rip you to pieces! (Snickering)",
@@ -1222,7 +1222,7 @@
     "1NiZCA": {
         "en-US": "Rechenier: Well, well! I'm sorry!",
         "pt-BR": "Shaula: Ah, minha nossa! Eu sinto muito!",
-        "es-ES": "Rechenier: Oh, caray, ¡lo siento mucho…!"
+        "es-ES": "Rechenier: Oh, caray, ¡lo siento mucho...!"
     },
     "1diZCA": {
         "en-US": "Rechenier: Oh, I need to get ready for the next game!",
@@ -1232,7 +1232,7 @@
     "1tiZCA": {
         "en-US": "Rechenier: (Snickering) Which prey shall I rip apart next?",
         "pt-BR": "Shaula: Hihihihi! Quem será o próximo?",
-        "es-ES": "Rechenier: Ji, ji, ji… ¿A quién me toca hacer pedazos ahora?"
+        "es-ES": "Rechenier: Ji, ji, ji... ¿A quién me toca hacer pedazos ahora?"
     },
     "19iZCA": {
         "en-US": "Odorico",
@@ -1262,12 +1262,12 @@
     "3NiZCA": {
         "en-US": "Odorico: I lost... Even though I did my best...",
         "pt-BR": "Ahdara: Fui derrotada... Dei o meu melhor...",
-        "es-ES": "Odorico: Perdí... Aunque intenté dar lo mejor…"
+        "es-ES": "Odorico: Perdí... Aunque intenté dar lo mejor..."
     },
     "3diZCA": {
         "en-US": "Odorico: I lost... My charming moves...",
         "pt-BR": "Ahdara: Eu perdi... com todo o meu encanto...",
-        "es-ES": "Odorico: Perdí... Aunque bailé con sumo esplendor…"
+        "es-ES": "Odorico: Perdí... Aunque bailé con sumo esplendor..."
     },
     "3tiZCA": {
         "en-US": "Odorico: They didn't work... (Sobbing)",
@@ -1277,7 +1277,7 @@
     "39iZCA": {
         "en-US": "Odorico: I came all the way here and lost...",
         "pt-BR": "Ahdara: É tão triste... perder aqui...",
-        "es-ES": "Odorico: Llegué tan lejos, solo para perder…"
+        "es-ES": "Odorico: Llegué tan lejos, solo para perder..."
     },
     "4NiZCA": {
         "en-US": "Odorico: I'll go seduce some men!",
@@ -1347,12 +1347,12 @@
     "7diZCA": {
         "en-US": "Juu: I'm sure he had a lot of real combat experience...",
         "pt-BR": "Procyon: Deve ter passado por batalhas cruéis...",
-        "es-ES": "Juu: Parece que tenía mucha experiencia real de combate…"
+        "es-ES": "Juu: Parece que tenía mucha experiencia real de combate..."
     },
     "7tiZCA": {
         "en-US": "Juu: Darn... I was aiming to win...",
         "pt-BR": "Procyon: Snif... O meu objetivo era vencer...",
-        "es-ES": "Juu: Maldición… De verdad pensaba ganar."
+        "es-ES": "Juu: Maldición... De verdad pensaba ganar."
     },
     "79iZCA": {
         "en-US": "Juu: Well, you beat me...",
@@ -1392,7 +1392,7 @@
     "9tiZCA": {
         "en-US": "Juu: It's a battle! A real battle!",
         "pt-BR": "Procyon: Um torneio de verdade é uma batalha! Uma batalha real!",
-        "es-ES": "Juu: ¡Com-ba-te… real! ¡Ba-ta-lla… de verdad!"
+        "es-ES": "Juu: ¡Com-ba-te... real! ¡Ba-ta-lla... de verdad!"
     },
     "99iZCA": {
         "en-US": "Dy",
@@ -1422,7 +1422,7 @@
     "/NiZCA": {
         "en-US": "Dy: I feel ashamed in front of my students.",
         "pt-BR": "Atria: É uma vergonha perder na frente dos meus alunos...",
-        "es-ES": "Dy: Siento que me han dejado en vergüenza frente a mis alumnos…"
+        "es-ES": "Dy: Siento que me han dejado en vergüenza frente a mis alumnos..."
     },
     "/diZCA": {
         "en-US": "Dy: But the opponent was too strong...",
@@ -1462,7 +1462,7 @@
     "BNmZCA": {
         "en-US": "Geffen Academy Master: 1st place in Group A! The finals won't be easy!",
         "pt-BR": "Mestre da Academia de Geffen: O vencedor do grupo A deve se preparar! A disputa final não vai ser nada fácil!",
-        "es-ES": "Maestro de la Academia Geffen: Participante vencedor del grupo A…, ¡la final no será fácil!"
+        "es-ES": "Maestro de la Academia Geffen: Participante vencedor del grupo A..., ¡la final no será fácil!"
     },
     "BdmZCA": {
         "en-US": "Dy",
@@ -1522,7 +1522,7 @@
     "ENmZCA": {
         "en-US": "Fei Kanabian: I put so much effort into Alphonse...",
         "pt-BR": "Fay Kanavion: Alfonso... Eu te dei minha alma e meu coração...",
-        "es-ES": "Fei Kanabian: Me esforcé tanto por fortalecer a mi Alphonse…"
+        "es-ES": "Fei Kanabian: Me esforcé tanto por fortalecer a mi Alphonse..."
     },
     "EdmZCA": {
         "en-US": "Fei Kanabian: I could've gone to the finals...",
@@ -1537,7 +1537,7 @@
     "E9mZCA": {
         "en-US": "Fei Kanabian: who'd be in the finals...",
         "pt-BR": "Fay Kanavion: Eu queria lutar...",
-        "es-ES": "Fei Kanabian: quien de seguro llegará a la final…"
+        "es-ES": "Fei Kanabian: quien de seguro llegará a la final..."
     },
     "FNmZCA": {
         "en-US": "Fei Kanabian: I'm upset!",
@@ -1717,7 +1717,7 @@
     "N9mZCA": {
         "en-US": "I can't believe I lost a Magic Contest...",
         "pt-BR": "Não acredito que me derrotaram!",
-        "es-ES": "No puedo creer que perdí el concurso de magia…"
+        "es-ES": "No puedo creer que perdí el concurso de magia..."
     },
     "ONmZCA": {
         "en-US": "Magic Contest Marshal",
@@ -2117,7 +2117,7 @@
     "h9mZCA": {
         "en-US": "Blut Hase: You must be famous.",
         "pt-BR": "Wezen: Você deve ser famoso.",
-        "es-ES": "Blut Hase: Tu reputación se disparará…"
+        "es-ES": "Blut Hase: Tu reputación se disparará..."
     },
     "iNmZCA": {
         "en-US": "Blut Hase: Well, congratulations, I guess.",
@@ -2127,7 +2127,7 @@
     "idmZCA": {
         "en-US": "Kuro Akuma: He was a strong opponent...",
         "pt-BR": "Wei: Huhu... Você é muito forte...",
-        "es-ES": "Kuro Akuma: Qué oponente tan fuerte…"
+        "es-ES": "Kuro Akuma: Qué oponente tan fuerte..."
     },
     "itmZCA": {
         "en-US": "Kuro Akuma: Enjoy the moment while you can... I'll win the next Magic Contest...",
@@ -2147,12 +2147,12 @@
     "jdmZCA": {
         "en-US": "Rechenier: Great! I won! Yay!",
         "pt-BR": "Shaula: Maravilhoso! Uma vitória! Lalala!",
-        "es-ES": "Rechenier: ¡Ay, mírenme todos! ''¡Yupi, gané!'' Puff…"
+        "es-ES": "Rechenier: ¡Ay, mírenme todos! ''¡Yupi, gané!'' Puff..."
     },
     "jtmZCA": {
         "en-US": "Rechenier: (Snickering) I'll get back at you next time.",
         "pt-BR": "Shaula: Hihihi... Vou me vingar na próxima vez...",
-        "es-ES": "Rechenier: Ji, ji… Me vengaré de ti la próxima vez."
+        "es-ES": "Rechenier: Ji, ji... Me vengaré de ti la próxima vez."
     },
     "j9mZCA": {
         "en-US": "Odorico: Congratulations on your victory!",
@@ -2167,7 +2167,7 @@
     "kdmZCA": {
         "en-US": "Juu: You're... strong. I'll remember you. Hope to see you again.",
         "pt-BR": "Procyon: Você... é forte... Vamos nos encontrar de novo...",
-        "es-ES": "Juu: Qué poder… Recordaré tu cara, así que espero volver a verte."
+        "es-ES": "Juu: Qué poder... Recordaré tu cara, así que espero volver a verte."
     },
     "ktmZCA": {
         "en-US": "Juu: I never lose in a real battle. But I congratulate you on your victory.",
@@ -2187,7 +2187,7 @@
     "ldmZCA": {
         "en-US": "Fei Kanabian: Darn... I didn't think he'd beat Fenrir and win...",
         "pt-BR": "Fay Kanavion: Tsc... Venceu derrotando aquela Fenris Fenrir...!",
-        "es-ES": "Fei Kanabian: ¡Rayos…! No pensé que le ganaría a Fenrir."
+        "es-ES": "Fei Kanabian: ¡Rayos...! No pensé que le ganaría a Fenrir."
     },
     "ltmZCA": {
         "en-US": "Fei Kanabian: My Alphonse will beat him when we meet next time!",
@@ -2317,12 +2317,12 @@
     "r9mZCA": {
         "en-US": "Magic Contest Spectator: He's really bad, right?",
         "pt-BR": "Espectador do torneio de magia: Ouvi dizer que não é forte.",
-        "es-ES": "Espectador del Concurso de Magia: No parece tener mucho talento…"
+        "es-ES": "Espectador del Concurso de Magia: No parece tener mucho talento..."
     },
     "sNmZCA": {
         "en-US": "Magic Contest Spectator: He'll probably lose this time, right?",
         "pt-BR": "Espectador do torneio de magia: Não vai conseguir vencer!",
-        "es-ES": "Espectador del Concurso de Magia: No hay manera de que gane esto…"
+        "es-ES": "Espectador del Concurso de Magia: No hay manera de que gane esto..."
     },
     "sdmZCA": {
         "en-US": "Magic Contest Spectator: He'll lose for sure!",
@@ -2357,7 +2357,7 @@
     "t9mZCA": {
         "en-US": "Magic Contest Spectator: I would've shown a spectacular game if I played.",
         "pt-BR": "Espectador do torneio de magia: Se eu estivesse lá, seria uma batalha incrível...",
-        "es-ES": "Espectador del Concurso de Magia: Apuesto a que yo podría hacer movimientos más geniales…"
+        "es-ES": "Espectador del Concurso de Magia: Apuesto a que yo podría hacer movimientos más geniales..."
     },
     "uNmZCA": {
         "en-US": "Magic Contest Spectator: It's boring...",
@@ -2367,7 +2367,7 @@
     "udmZCA": {
         "en-US": "Magic Contest Spectator: I want to watch the finals...",
         "pt-BR": "Espectador do torneio de magia: Quero assistir a disputa final logo...",
-        "es-ES": "Espectador del Concurso de Magia: Ya quiero ver la final…"
+        "es-ES": "Espectador del Concurso de Magia: Ya quiero ver la final..."
     },
     "utmZCA": {
         "en-US": "Magic Contest Spectator: Boring! Beat each other up!",
@@ -2397,7 +2397,7 @@
     "v9mZCA": {
         "en-US": "Magic Contest Spectator: Why is the host talking so much?",
         "pt-BR": "Espectador do torneio de magia: Ah, esse apresentador fala demais!",
-        "es-ES": "Espectador del Concurso de Magia: Este presentador habla y habla…"
+        "es-ES": "Espectador del Concurso de Magia: Este presentador habla y habla..."
     },
     "wNmZCA": {
         "en-US": "Magic Contest Spectator: Good! Good!",
@@ -2422,7 +2422,7 @@
     "xNmZCA": {
         "en-US": "Magic Contest Spectator: Wow... This match is really interesting!",
         "pt-BR": "Espectador do torneio de magia: Uau! Essa partida é bem interessante.",
-        "es-ES": "Espectador del Concurso de Magia: Guau… ¡Ya no me quedan uñas!"
+        "es-ES": "Espectador del Concurso de Magia: Guau... ¡Ya no me quedan uñas!"
     },
     "xdmZCA": {
         "en-US": "Magic Contest Spectator: There are lots of great kids!",
@@ -2492,12 +2492,12 @@
     "0tmZCA": {
         "en-US": "Magic Contest Spectator: I'll eat chicken as I watch it.",
         "pt-BR": "Espectador do torneio de magia: Quero comer frango enquanto assisto!",
-        "es-ES": "Espectador del Concurso de Magia: ¿Me perdí de algo? Estaba comiendo…"
+        "es-ES": "Espectador del Concurso de Magia: ¿Me perdí de algo? Estaba comiendo..."
     },
     "09mZCA": {
         "en-US": "Magic Contest Spectator: He looks like he's really bad...",
         "pt-BR": "Espectador do torneio de magia: Não parece muito forte...",
-        "es-ES": "Espectador del Concurso de Magia: ¡Parece que está en aprietos…!"
+        "es-ES": "Espectador del Concurso de Magia: ¡Parece que está en aprietos...!"
     },
     "1NmZCA": {
         "en-US": "Magic Contest Spectator: I have no expectations from him...",
@@ -2507,7 +2507,7 @@
     "1dmZCA": {
         "en-US": "Magic Contest Spectator: There is nobody to root for...",
         "pt-BR": "Espectador do torneio de magia: Não quero torcer por ninguém...",
-        "es-ES": "Espectador del Concurso de Magia: No hay nadie a quien valga la pena apoyar…"
+        "es-ES": "Espectador del Concurso de Magia: No hay nadie a quien valga la pena apoyar..."
     },
     "1tmZCA": {
         "en-US": "Magic Contest Spectator: Now it's Round 6!",
@@ -2547,7 +2547,7 @@
     "3dmZCA": {
         "en-US": "Magic Contest Spectator: I wasted my time on watching the game...",
         "pt-BR": "Espectador do torneio de magia: Até agora, foi uma perda de tempo...",
-        "es-ES": "Espectador del Concurso de Magia: Ver este combate fue una pérdida de tiempo…"
+        "es-ES": "Espectador del Concurso de Magia: Ver este combate fue una pérdida de tiempo..."
     },
     "3tmZCA": {
         "en-US": "Magic Contest Spectator: Don't disappoint me this time!",
@@ -2587,7 +2587,7 @@
     "5dmZCA": {
         "en-US": "Magic Academy Student: One, two, three! Let's go!",
         "pt-BR": "Estudante da academia de magia: Um, dois, três! Força, professora!",
-        "es-ES": "Estudiante de la Academia de Magia: ¡Uno, dos y tres…! ¡La academia ganará, ya ves!"
+        "es-ES": "Estudiante de la Academia de Magia: ¡Uno, dos y tres...! ¡La academia ganará, ya ves!"
     },
     "5tmZCA": {
         "en-US": "Magic Academy Student: It looks interesting!",
@@ -2622,7 +2622,7 @@
     "7NmZCA": {
         "en-US": "Magic Academy Student: So cool. I'll be like my teacher.",
         "pt-BR": "Estudante da academia de magia: Uau, que legal! Quero ser como a minha professora...",
-        "es-ES": "Estudiante de la Academia de Magia: Guau…, quiero ser como mi profesora."
+        "es-ES": "Estudiante de la Academia de Magia: Guau..., quiero ser como mi profesora."
     },
     "7dmZCA": {
         "en-US": "Magic Academy Student: I'll practice hard!",
@@ -2642,12 +2642,12 @@
     "8NmZCA": {
         "en-US": "Prontera Spectator: I've never seen him before...",
         "pt-BR": "Espectadores de Prontera: Eu nunca ouvi falar dela...",
-        "es-ES": "Espectador de Prontera: Nunca la había visto antes…"
+        "es-ES": "Espectador de Prontera: Nunca la había visto antes..."
     },
     "8dmZCA": {
         "en-US": "Prontera Spectator: I'm half worried and half excited...",
         "pt-BR": "Espectadores de Prontera: É legal, mas também preocupante...",
-        "es-ES": "Espectador de Prontera: ¡Estoy mitad preocupado y mitad emocionado…!"
+        "es-ES": "Espectador de Prontera: ¡Estoy mitad preocupado y mitad emocionado...!"
     },
     "8tmZCA": {
         "en-US": "Prontera Spectator: Oh, he's from my hometown!",
@@ -2792,12 +2792,12 @@
     "DtqZCA": {
         "en-US": "Iris: I was trying to enjoy the game, but it was a little boring...",
         "pt-BR": "Iris: Eu tentei assistir, mas está meio chato...",
-        "es-ES": "Iris: Planeaba disfrutar este combate, pero fue una lata…"
+        "es-ES": "Iris: Planeaba disfrutar este combate, pero fue una lata..."
     },
     "D9qZCA": {
         "en-US": "Iris: Yaaaawwwwwn! I keep yawning.",
         "pt-BR": "Iris: *bocejo* Está tão chato...",
-        "es-ES": "Iris: Oouuaaa… No puedo dejar de bostezar."
+        "es-ES": "Iris: Oouuaaa... No puedo dejar de bostezar."
     },
     "ENqZCA": {
         "en-US": "Iris: Wow! I should focus on this game.",

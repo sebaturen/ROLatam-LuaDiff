@@ -12,7 +12,7 @@
     "It9Q": {
         "en-US": "[Euridi]\nI hear you passed through the Hazy Forest.\nDid you...\nDid you happen to see\nLope, my fiance, there?",
         "pt-BR": "[Euridi]\nOuvi dizer que você passou pela Floresta Nebulosa.\nVocê...\nPor acaso você viu\nLope, meu noivo, lá?",
-        "es-ES": "[Euridi]\nOí que pasaste por el Bosque brumoso.\nDime…\nPor casualidad, ¿viste\na Lope, mi prometido, ahí?"
+        "es-ES": "[Euridi]\nOí que pasaste por el Bosque brumoso.\nDime...\nPor casualidad, ¿viste\na Lope, mi prometido, ahí?"
     },
     "I99Q": {
         "en-US": "Yes, I did.",
@@ -27,12 +27,12 @@
     "Jd9Q": {
         "en-US": "[Euridi]\nAre you sure? Where did you see him?\nTake me there, quick!\n...",
         "pt-BR": "[Euridi]\nTem certeza? Onde você o viu?\nLeve-me até lá, rápido!\n...",
-        "es-ES": "[Euridi]\n¿De verdad? ¿Dónde lo viste?\n¡Llévame allí, rápido!\n…"
+        "es-ES": "[Euridi]\n¿De verdad? ¿Dónde lo viste?\n¡Llévame allí, rápido!\n..."
     },
     "Jt9Q": {
         "en-US": "[Euridi]\nWhat?\nYou're kidding...?\nHow could you?",
         "pt-BR": "[Euridi]\nO quê?\nVocê está brincando...?\nComo é possível?",
-        "es-ES": "[Euridi]\n¿Qué?\n¿Era una broma…?\n¿Cómo te atreves?"
+        "es-ES": "[Euridi]\n¿Qué?\n¿Era una broma...?\n¿Cómo te atreves?"
     },
     "J99Q": {
         "en-US": "[Euridi]\nPlease find my Lope.\nI came here to the Village of Mora\nafter asking all around,\nbut there is nothing more I can do.",
@@ -42,7 +42,7 @@
     "KN9Q": {
         "en-US": "[Euridi]\nMy heart aches at the thought of Lope...\nHe will be desperately looking for me...",
         "pt-BR": "[Euridi]\nMeu coração dói só de pensar em Lope...\nEle estará me procurando desesperadamente...",
-        "es-ES": "[Euridi]\nMe duele el corazón al pensar en Lope…\nMe estará buscando desesperadamente…"
+        "es-ES": "[Euridi]\nMe duele el corazón al pensar en Lope...\nMe estará buscando desesperadamente..."
     },
     "Kd9Q": {
         "en-US": "Sorry, I'm busy!",
@@ -82,7 +82,7 @@
     "MN9Q": {
         "en-US": "[Euridi]\n...No way....!\nThat is utter nonsense.\nTo blame Lope for it!\nI found this piece of paper\nnear the Hazy Forest.\nI'm sure it's Lope's.",
         "pt-BR": "[Euridi]\n...Não pode ser....!\nIsso é um absurdo total.\nCulpar Lope por isso!\nEncontrei este pedaço de papel\nperto da Floresta Nebulosa.\nTenho certeza de que é do Lope.",
-        "es-ES": "[Euridi]\n…¡No puede ser…!\nQué tontería.\n¡Cómo puede culpar a Lope!\nEncontré este trozo de papel\ncerca del Bosque brumoso.\nSeguro que es de Lope."
+        "es-ES": "[Euridi]\n...¡No puede ser...!\nQué tontería.\n¡Cómo puede culpar a Lope!\nEncontré este trozo de papel\ncerca del Bosque brumoso.\nSeguro que es de Lope."
     },
     "Md9Q": {
         "en-US": "[Euridi]\nIf you find the rest of ^0000FFLope's Clues^000000,\nyou'll be able to find out\nwhere he is.\nI'm counting on you, {0}.",
@@ -97,27 +97,27 @@
     "M99Q": {
         "en-US": "[Euridi]\nI don't understand it.\nI'm now suspicious of his motives.\nWhy is he trying so hard to accuse Lope?\nWait... those clues...",
         "pt-BR": "[Euridi]\nNão estou entendendo.\nAgora estou desconfiado de seus motivos.\nPor que ele está se esforçando tanto para acusar Lope?\nEspere... essas pistas...",
-        "es-ES": "[Euridi]\nNo lo entiendo.\nAhora sospecho de sus motivos.\n¿Por qué se esfuerza tanto en acusar a Lope?\nEspera… esas pistas…"
+        "es-ES": "[Euridi]\nNo lo entiendo.\nAhora sospecho de sus motivos.\n¿Por qué se esfuerza tanto en acusar a Lope?\nEspera... esas pistas..."
     },
     "NN9Q": {
         "en-US": "[Euridi]\nThose seem to be more than simple notes.\nCan I have a look at them?\n...\nThese fit together like a puzzle.\n... Oh!... This is...",
         "pt-BR": "[Euridi]\nEssas parecem ser mais do que simples anotações.\nPosso dar uma olhada nelas?\n...\nElas se encaixam como um quebra-cabeça.\n... Oh!... Isso é...",
-        "es-ES": "[Euridi]\nParecen ser algo más que simples notas.\n¿Puedo echarles un vistazo?\n…\nEncajan como un rompecabezas.\n… ¡Ah!… Esto es…"
+        "es-ES": "[Euridi]\nParecen ser algo más que simples notas.\n¿Puedo echarles un vistazo?\n...\nEncajan como un rompecabezas.\n... ¡Ah!... Esto es..."
     },
     "Nd9Q": {
         "en-US": "[Lope's Letter]\n...We've been wandering around the Forest for days.\n... So we're not protecting the tourists,\nI got sick from deadly poison, and became a burden to everyone.\nHow pathetic...",
         "pt-BR": "[Carta de Lope]\n...Estamos vagando pela floresta há dias.\n... Portanto, não estamos protegendo os turistas,\nFiquei doente por causa de um veneno mortal e me tornei um fardo para todos.\nQue patético...",
-        "es-ES": "[Carta de Lope]\n…Llevamos varios días perdidos en el bosque.\n… Así que ya no protegemos a los turistas.\nMe enfermé por culpa de un veneno mortal y me convertí en una carga para el resto.\nQué patético…"
+        "es-ES": "[Carta de Lope]\n...Llevamos varios días perdidos en el bosque.\n... Así que ya no protegemos a los turistas.\nMe enfermé por culpa de un veneno mortal y me convertí en una carga para el resto.\nQué patético..."
     },
     "Nt9Q": {
         "en-US": "[Lope's Letter]\nNo wonder I was kicked out of\nthe Splendide Expedition.\n...But I managed to protect at least one tourist.\nHe will deliver this letter and the ring to you.",
         "pt-BR": "[Carta de Lope]\nNão é de admirar que eu tenha sido expulso da\nda Expedição Esplendor.\n...Mas consegui proteger pelo menos um turista.\nEle entregará esta carta e o anel para você.",
-        "es-ES": "[Carta de Lope]\nNo me extraña que me echaran\nde la expedición de Splendide.\n…Pero me las arreglé para proteger al menos a un turista.\nÉl te entregará esta carta y el anillo."
+        "es-ES": "[Carta de Lope]\nNo me extraña que me echaran\nde la expedición de Splendide.\n...Pero me las arreglé para proteger al menos a un turista.\nÉl te entregará esta carta y el anillo."
     },
     "N99Q": {
         "en-US": "[Lope's Letter]\n... I wanted to propose to you\nas a proud member of the Expedition.\nI'm sorry, Euridi.\nSee you soon.",
         "pt-BR": "[Carta de Lope]\n... Eu queria lhe pedir em casamento\ncomo um orgulhoso membro da Expedição.\nSinto muito, Euridi.\nAté breve.",
-        "es-ES": "[Carta de Lope]\n… Quería proponerte matrimonio\ncomo honorable miembro de la expedición.\nLo siento, Euridi.\nHasta pronto."
+        "es-ES": "[Carta de Lope]\n... Quería proponerte matrimonio\ncomo honorable miembro de la expedición.\nLo siento, Euridi.\nHasta pronto."
     },
     "ON9Q": {
         "en-US": "Having read the letter,\nEuridi is standing staring blankly like someone who wasn't all there.\nLet's go show the letter to Pitt.",
@@ -127,7 +127,7 @@
     "Od9Q": {
         "en-US": "[Euridi]\nNo, Lope must be safe.\nHe will come back no matter what...",
         "pt-BR": "[Euridi]\nNão, Lope deve estar seguro.\nEle voltará, não importa o que aconteça...",
-        "es-ES": "[Euridi]\nNo, Lope debe estar a salvo.\nVolverá pase lo que pase…"
+        "es-ES": "[Euridi]\nNo, Lope debe estar a salvo.\nVolverá pase lo que pase..."
     },
     "Ot9Q": {
         "en-US": "[Euridi]\n......",
@@ -162,12 +162,12 @@
     "QN9Q": {
         "en-US": "[Euridi]\nI'll go look for him myself.\nHopefully... it's not too late, yet.\nLet me go, there's no time to lose!",
         "pt-BR": "[Euridi]\nEu mesmo vou procurá-lo.\nEspero que... ainda não seja tarde demais.\nDeixe-me ir, não há tempo a perder!",
-        "es-ES": "[Euridi]\nIré a buscarlo yo misma.\nEsperemos… que aún no sea demasiado tarde.\n¡Suéltame, no hay tiempo que perder!"
+        "es-ES": "[Euridi]\nIré a buscarlo yo misma.\nEsperemos... que aún no sea demasiado tarde.\n¡Suéltame, no hay tiempo que perder!"
     },
     "Qd9Q": {
         "en-US": "[Euridi]\nI don't believe it.\nHe told me he would come back soon...\nHe told me to hang on.\nIt can't be... It just can't be...",
         "pt-BR": "[Euridi]\nEu não acredito nisso.\nEle me disse que voltaria logo...\nEle me disse para esperar.\nNão pode ser... Simplesmente não pode ser...",
-        "es-ES": "[Euridi]\nNo lo creo.\nMe dijo que volvería pronto…\nMe dijo que lo esperara.\nNo puede ser… No puede ser verdad…"
+        "es-ES": "[Euridi]\nNo lo creo.\nMe dijo que volvería pronto...\nMe dijo que lo esperara.\nNo puede ser... No puede ser verdad..."
     },
     "Qt9Q": {
         "en-US": "You hand her Lope's Ring, which Pitt gave you.\nWith the ring in her hand, Euridi bursts into tears.\nShe starts to sing in a strained voice, still crying.",
@@ -192,7 +192,7 @@
     "Rt9Q": {
         "en-US": "[Euridi's Friend]\nPitt is definitely suspicious.\nI think he is avoiding Euridi...\nHe must be hiding something.",
         "pt-BR": "[Amiga de Euridi]\nO Pitt é definitivamente suspeito.\nAcho que ele está evitando a Euridi...\nEle deve estar escondendo alguma coisa.",
-        "es-ES": "[Amiga de Euridi]\nPitt es, sin duda, un sospechoso.\nCreo que está evitando a Euridi…\nDebe estar ocultando algo."
+        "es-ES": "[Amiga de Euridi]\nPitt es, sin duda, un sospechoso.\nCreo que está evitando a Euridi...\nDebe estar ocultando algo."
     },
     "R99Q": {
         "en-US": "[Euridi's Friend]\nTo tell the truth, I don't think\nthat Lope is alive.\nI'm just worried about Euridi.",
@@ -207,7 +207,7 @@
     "Sd9Q": {
         "en-US": "[Euridi's Friend]\n...\nTo tell the truth, I really believe\nthat Lope is alive.\n...\n*sigh*",
         "pt-BR": "[Amiga de Euridi]\n...\nPara dizer a verdade, eu realmente acredito\nque Lope está vivo.\n...\n*suspiro*",
-        "es-ES": "[Amiga de Euridi]\n…\nA decir verdad, hay muchas chances de\nque Lope esté vivo.\n…\n*Suspira*"
+        "es-ES": "[Amiga de Euridi]\n...\nA decir verdad, hay muchas chances de\nque Lope esté vivo.\n...\n*Suspira*"
     },
     "St9Q": {
         "en-US": "[Euridi's Friend]\nHow's Pitt doing?\nI think I should go visit him\nand make him feel worse!\nHe's so disgusting!",
@@ -297,7 +297,7 @@
     "W99Q": {
         "en-US": "[Pitt]\nThat thing you have in your hand...\nIt looks very strange.\nI've never seen such a thing before.\nYou'd better not keep that.\nCan I have it?",
         "pt-BR": "[Pitt]\nEssa coisa que você tem na mão...\nParece muito estranho.\nNunca vi uma coisa assim antes.\nÉ melhor você não ficar com isso.\nPosso ficar com ela?",
-        "es-ES": "[Pitt]\nEso que tienes en la mano…\nParece muy extraño.\nNunca había visto algo así.\nSerá mejor que no te quedes con eso.\n¿Puedo quedármelo?"
+        "es-ES": "[Pitt]\nEso que tienes en la mano...\nParece muy extraño.\nNunca había visto algo así.\nSerá mejor que no te quedes con eso.\n¿Puedo quedármelo?"
     },
     "XN9Q": {
         "en-US": "Give it to him.",
@@ -317,7 +317,7 @@
     "X99Q": {
         "en-US": "[Pitt]\nWhy are you showing me such a thing?\nI don't know anything! I'm the victim here!\nI'm a victim of the schemes of the Laphine couple.\nIt's unfair...",
         "pt-BR": "[Pitt]\nPor que está me mostrando uma coisa dessas?\nEu não sei de nada! Eu sou a vítima aqui!\nSou vítima dos esquemas do casal Laphine.\nÉ injusto...",
-        "es-ES": "[Pitt]\n¿Por qué me muestras eso?\n¡No sé nada! ¡Yo soy la víctima aquí!\nSoy una víctima de los planes de la pareja laphine.\nEs injusto…"
+        "es-ES": "[Pitt]\n¿Por qué me muestras eso?\n¡No sé nada! ¡Yo soy la víctima aquí!\nSoy una víctima de los planes de la pareja laphine.\nEs injusto..."
     },
     "YN9Q": {
         "en-US": "It's no use trying to talk to him any more.\nTry talking to Euridi.",
@@ -337,22 +337,22 @@
     "Y99Q": {
         "en-US": "[Pitt]\nI never imagined you'd find them all\nand piece them together.\nIs this a divine punishment...?\nOr Laphines' curse?\nWhew...",
         "pt-BR": "[Pitt]\nNunca imaginei que você encontraria todos eles\ne as juntaria.\nIsso é um castigo Divino...?\nOu a maldição de Laphines?\nUfa...",
-        "es-ES": "[Pitt]\nNunca imaginé que los encontrarías todos\ny los unirías.\n¿Esto es un castigo divino…?\n¿O una maldición de los laphines?\nUf…"
+        "es-ES": "[Pitt]\nNunca imaginé que los encontrarías todos\ny los unirías.\n¿Esto es un castigo divino...?\n¿O una maldición de los laphines?\nUf..."
     },
     "ZN9Q": {
         "en-US": "[Pitt]\nThat guide fellow,\nhe opened the gate out\nwhen he was hit hard\nby the poison.",
         "pt-BR": "[Pitt]\nAquele guia,\nele abriu o portão\nquando foi atingido em cheio\npelo veneno.",
-        "es-ES": "[Pitt]\nEse guía…\nabrió la puerta para salir\ncuando entró en shock\npor el veneno."
+        "es-ES": "[Pitt]\nEse guía...\nabrió la puerta para salir\ncuando entró en shock\npor el veneno."
     },
     "Zd9Q": {
         "en-US": "[Pitt]\nWhen I was hesitating whether to take him with me,\nhe handed me that letter and the ring.\nLaphines' jewelry...\nIt's rumored that nobody could ever have it except Laphines,\nincluding the Gods themselves.",
         "pt-BR": "[Pitt]\nQuando eu estava hesitando em levá-lo comigo,\nele me entregou aquela carta e o anel.\nAs joias de Laphines...\nHá rumores de que ninguém poderia tê-las, exceto Laphines,\ninclusive os próprios deuses.",
-        "es-ES": "[Pitt]\nMientras dudaba si llevarlo conmigo,\nme entregó la carta y el anillo.\nLas joyas de los laphines…\nSe rumorea que nadie puede tenerlas, excepto los laphines,\ny esto incluye a los mismos dioses."
+        "es-ES": "[Pitt]\nMientras dudaba si llevarlo conmigo,\nme entregó la carta y el anillo.\nLas joyas de los laphines...\nSe rumorea que nadie puede tenerlas, excepto los laphines,\ny esto incluye a los mismos dioses."
     },
     "Zt9Q": {
         "en-US": "[Pitt]\nSo I had in my hands\na treasure among treasures!\nHow...! Just how on earth\ncould I have let it pass through!",
         "pt-BR": "[Pitt]\nEntão eu tinha em minhas mãos\num tesouro entre tesouros!\nComo...! Como diabos\neu poderia ter deixado isso passar!",
-        "es-ES": "[Pitt]\n¡Así que tenía en mis manos\nun tesoro entre tesoros!\n¡¿Cómo…?! ¡¿Cómo podría\ndejar pasar una oportunidad así?!"
+        "es-ES": "[Pitt]\n¡Así que tenía en mis manos\nun tesoro entre tesoros!\n¡¿Cómo...?! ¡¿Cómo podría\ndejar pasar una oportunidad así?!"
     },
     "Z99Q": {
         "en-US": "[Pitt]\nI was going to leave this place\nas soon as I pulled myself together.\nBut now I'm stuck here,\naffected by the poison myself.",
@@ -367,7 +367,7 @@
     "ad9Q": {
         "en-US": "[{0}]\nThen where could Lope...?",
         "pt-BR": "[{0}]\nEntão, onde Lope poderia...?",
-        "es-ES": "[{0}]\nEntonces, ¿dónde podría estar Lope…?"
+        "es-ES": "[{0}]\nEntonces, ¿dónde podría estar Lope...?"
     },
     "at9Q": {
         "en-US": "[Pitt]\nIf he died near the exit of the forest,\nhe must be somewhere around there,\nin whatever form he might be in.",
@@ -382,7 +382,7 @@
     "bN9Q": {
         "en-US": "[Pitt]\n...",
         "pt-BR": "[Pitt]\n...",
-        "es-ES": "[Pitt]\n…"
+        "es-ES": "[Pitt]\n..."
     },
     "bd9Q": {
         "en-US": "He's sleeping.\nHe seems to be in a very deep sleep.",
@@ -417,7 +417,7 @@
     "c99Q": {
         "en-US": "[Suspicious Man]\n.\n...\n........!!!",
         "pt-BR": "[Homem Suspeito]\n.\n...\n........!!!",
-        "es-ES": "[Hombre Sospechoso]\n.\n…\n¡¡¡........!!!"
+        "es-ES": "[Hombre Sospechoso]\n.\n...\n¡¡¡........!!!"
     },
     "dN9Q": {
         "en-US": "[Suspicious Man]\nAaaaarrrrrggghh!!!!!",
@@ -442,7 +442,7 @@
     "eN9Q": {
         "en-US": "[{0}]\nWill you please calm down and listen to...",
         "pt-BR": "[{0}]\nPor favor, acalme-se e ouça...",
-        "es-ES": "[{0}]\nPor favor, cálmate y escucha…"
+        "es-ES": "[{0}]\nPor favor, cálmate y escucha..."
     },
     "ed9Q": {
         "en-US": "[Lope]\nMy desire to help\nled me to my death,\nAnd my desire to survive and take revenge\nled me to my rebirth.\nI will not side with life any more.",
@@ -462,7 +462,7 @@
     "fN9Q": {
         "en-US": "[Lope]\n... This is!\nI feel Euridi's touch.\nSo the letter... was delivered to Euridi?\nThis is unbelievable...",
         "pt-BR": "[Lope]\n... Isso mesmo!\nEstou sentindo o toque de Euridi.\nEntão a carta... foi entregue à Euridi?\nIsso é inacreditável...",
-        "es-ES": "[Lope]\n… ¡Pero si es…!\nSiento el toque de Euridi.\nAsí que Euridi… ¿recibió la carta?\nEsto es increíble…"
+        "es-ES": "[Lope]\n... ¡Pero si es...!\nSiento el toque de Euridi.\nAsí que Euridi... ¿recibió la carta?\nEsto es increíble..."
     },
     "fd9Q": {
         "en-US": "[Lope]\nDeformed as I am now,\nI'm not her love any more.\nGo back, and tell her that Lope turned to dust\non the ground of the Hazy Forest long ago.",
@@ -472,7 +472,7 @@
     "ft9Q": {
         "en-US": "[Lope]\nNow go!\nThis is my last request as a Laphine called Lope...",
         "pt-BR": "[Lope]\nAgora vá!\nEste é meu último pedido como um Laphine chamado Lope...",
-        "es-ES": "[Lope]\n¡Ahora vete!\nEsta es mi última solicitud como un laphine llamado Lope…"
+        "es-ES": "[Lope]\n¡Ahora vete!\nEsta es mi última solicitud como un laphine llamado Lope..."
     },
     "f99Q": {
         "en-US": "You see a ring glowing faintly on his left hand.",

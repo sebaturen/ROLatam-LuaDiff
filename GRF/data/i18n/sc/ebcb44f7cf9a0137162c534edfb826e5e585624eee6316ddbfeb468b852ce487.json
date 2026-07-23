@@ -32,7 +32,7 @@
     "5sgQ": {
         "en-US": "[Marian]\nWell, anyway...\nIf this is your first time here,\nyou'd better see ^0000FFInstructor Lugen^000000.\nHe can help you adjust\nto these surroundings.",
         "pt-BR": "[Marian]\nBem, de qualquer forma...\nSe é sua primeira vez aqui,\né melhor procurar o ^0000FFInstrutor Lugen^000000.\nEle pode te ajudar a se adaptar a este lugar.",
-        "es-ES": "[Marian]\nEn fin…\nSi es tu primera vez,\nlo mejor es que hables con el ^0000FFinstructor Lugen^000000.\nÉl te ayudará a adaptarte\na este entorno."
+        "es-ES": "[Marian]\nEn fin...\nSi es tu primera vez,\nlo mejor es que hables con el ^0000FFinstructor Lugen^000000.\nÉl te ayudará a adaptarte\na este entorno."
     },
     "58gQ": {
         "en-US": "[Marian]\nGo to the right to find\n^0000FFInstructor Lugen^000000.",
@@ -62,7 +62,7 @@
     "7MgQ": {
         "en-US": "[Marian]\n......\nI am sorry but\nI'm a bit busy now...",
         "pt-BR": "[Marian]\n......\nDesculpe, mas estou\num pouco ocupada agora...",
-        "es-ES": "[Marian]\n......\nLo siento,\nen este momento estoy ocupada…"
+        "es-ES": "[Marian]\n......\nLo siento,\nen este momento estoy ocupada..."
     },
     "7cgQ": {
         "en-US": "[Marian]\nGo to the right to see ^0000FFInstructor Lugen^000000.",
@@ -87,7 +87,7 @@
     "8cgQ": {
         "en-US": "[Marian]\nAh, you must be talking about~?\nLet me see~~",
         "pt-BR": "[Marian]\nAh, você deve estar falando sobre~?\nDeixe-me ver~~",
-        "es-ES": "[Marian]\nAh, ¿hablas de…?\nDéjame ver."
+        "es-ES": "[Marian]\nAh, ¿hablas de...?\nDéjame ver."
     },
     "8sgQ": {
         "en-US": "[Marian]\nThis and that~~",
@@ -107,7 +107,7 @@
     "9cgQ": {
         "en-US": "[Marian]\nHa! You misplaced the Supply Box?!\nWhat the~~?",
         "pt-BR": "[Marian]\nHa! Você perdeu a Caixa de Suprimentos?!\nComo assim~~?",
-        "es-ES": "[Marian]\n¡Ja! ¡¿No sabes dónde pusiste la Caja de suministros?!\n¿Qué demonios…?"
+        "es-ES": "[Marian]\n¡Ja! ¡¿No sabes dónde pusiste la Caja de suministros?!\n¿Qué demonios...?"
     },
     "9sgQ": {
         "en-US": "[Marian]\nOk, I have spares\nLet me give one to you.\nDon't misplace this one, ok?!",
@@ -122,7 +122,7 @@
     "+MgQ": {
         "en-US": "[Marian]\nHa! You missed the Supply Box?!\nWhat the~~?",
         "pt-BR": "[Marian]\nHa! Você perdeu a Caixa de Suprimentos?!\nMas que~~?",
-        "es-ES": "[Marian]\n¡Ja! ¡¿Perdiste la Caja de suministros?!\n¿Qué demonios…?"
+        "es-ES": "[Marian]\n¡Ja! ¡¿Perdiste la Caja de suministros?!\n¿Qué demonios...?"
     },
     "+cgQ": {
         "en-US": "[Marian]\nHey~\nHow have you been recently?\nI am busy all the time.",
@@ -132,7 +132,7 @@
     "+sgQ": {
         "en-US": "[Marian]\nThe supplies from the motherland are...\nAh...\nNothing, do not care..\nHohoho...",
         "pt-BR": "[Marian]\nOs suprimentos da terra natal são...\nAh...\nNada, não se preocupe... Hohoho...",
-        "es-ES": "[Marian]\nLos suministros de la tierra natal son…\nAh…\nNada, olvídalo…\nJo, jo, jo…"
+        "es-ES": "[Marian]\nLos suministros de la tierra natal son...\nAh...\nNada, olvídalo...\nJo, jo, jo..."
     },
     "+8gQ": {
         "en-US": "Instructor",
@@ -147,12 +147,12 @@
     "/cgQ": {
         "en-US": "[Instructor Lugen]\nHuuu, no time to rest...\nWhen enforcement comes..",
         "pt-BR": "[Instrutor Lugen]\nHuuu, não temos tempo para descansar...\nQuando os reforços chegarem...",
-        "es-ES": "[Instructor Lugen]\nAyyy, no hay tiempo para descansar…\nCuando lleguen los refuerzos…"
+        "es-ES": "[Instructor Lugen]\nAyyy, no hay tiempo para descansar...\nCuando lleguen los refuerzos..."
     },
     "/sgQ": {
         "en-US": "[Instructor Lugen]\nHuuu, no time to rest...\nWhen re-enforcements come...",
         "pt-BR": "[Instrutor Lugen]\nHuuu, não temos tempo para descansar...\nQuando os reforços chegarem...",
-        "es-ES": "[Instructor Lugen]\nAyyy, no hay tiempo para descansar…\nCuando lleguen los refuerzos…"
+        "es-ES": "[Instructor Lugen]\nAyyy, no hay tiempo para descansar...\nCuando lleguen los refuerzos..."
     },
     "/8gQ": {
         "en-US": "[{0}]\nExcuse me.",
@@ -212,7 +212,7 @@
     "CskQ": {
         "en-US": "[{0}]\nI will register...",
         "pt-BR": "[{0}]\nVou me registrar...",
-        "es-ES": "[{0}]\nMe registraré…"
+        "es-ES": "[{0}]\nMe registraré..."
     },
     "C8kQ": {
         "en-US": "[Instructor Lugen]\nTo register, Go to the\nbig building in the center\nand talk to the receptionist.",
@@ -262,7 +262,7 @@
     "FMkQ": {
         "en-US": "[Instructor Lugen]\nHmm...",
         "pt-BR": "[Instrutor Lugen]\nHmm...",
-        "es-ES": "[Instructor Lugen]\nMmm…"
+        "es-ES": "[Instructor Lugen]\nMmm..."
     },
     "FckQ": {
         "en-US": "[Instructor Lugen]\nOk, then, please deliver\nthem to their receivers.",
@@ -277,7 +277,7 @@
     "F8kQ": {
         "en-US": "[Instructor Lugen]\nIt seems that they\nare not enough...\nCan you check them\nwith Marian, please?",
         "pt-BR": "[Instrutor Lugen]\nParece que não são o suficiente...\nPode verificar com a Marian, por favor?",
-        "es-ES": "[Instructor Lugen]\nParece que\nno hay suficientes…\n¿Puedes verificarlo\ncon Marian?"
+        "es-ES": "[Instructor Lugen]\nParece que\nno hay suficientes...\n¿Puedes verificarlo\ncon Marian?"
     },
     "GMkQ": {
         "en-US": "[Instructor Lugen]\nSo, did you get the\nsupplies to Jan?\nShe was waiting\nfor it a month ago.\nThanks so much.",
@@ -327,12 +327,12 @@
     "IckQ": {
         "en-US": "[Instructor Lugen]\nYou must be tired now,\nplease take care of yorself.\nI have more things\nto do now, ha....",
         "pt-BR": "[Instrutor Lugen]\nVocê deve estar cansado agora,\npor favor cuide-se bem.\nEu tenho mais coisas pra fazer agora, ha...",
-        "es-ES": "[Instructor Lugen]\nTe debe matar el cansancio.\nCuídate.\nYo tengo muchas cosas\nque hacer. Ay…"
+        "es-ES": "[Instructor Lugen]\nTe debe matar el cansancio.\nCuídate.\nYo tengo muchas cosas\nque hacer. Ay..."
     },
     "IskQ": {
         "en-US": "[Instructor Lugen]\nThere must be no\ntime to rest for me.\nHuu...",
         "pt-BR": "[Instrutor Lugen]\nParece que não vai haver\ntempo pra descanso pra mim.\nHuu...",
-        "es-ES": "[Instructor Lugen]\nParece que nunca\nhay descanso para mí.\nAh…"
+        "es-ES": "[Instructor Lugen]\nParece que nunca\nhay descanso para mí.\nAh..."
     },
     "I8kQ": {
         "en-US": "[{0}]\nWhat is wrong with you?",
@@ -352,7 +352,7 @@
     "JskQ": {
         "en-US": "[Instructor Lugen]\nIt's just a personal thing...",
         "pt-BR": "[Instrutor Lugen]\nÉ só algo pessoal...",
-        "es-ES": "[Instructor Lugen]\nNo es nada, solo algo personal…"
+        "es-ES": "[Instructor Lugen]\nNo es nada, solo algo personal..."
     },
     "J8kQ": {
         "en-US": "[{0}]\nTell me.\nI think I can help you.",
@@ -362,7 +362,7 @@
     "KMkQ": {
         "en-US": "[Instructor Lugen]\nI-I'm, sorry to tell you but...",
         "pt-BR": "[Instrutor Lugen]\nE-eu sinto muito em te contar isso, mas...",
-        "es-ES": "[Instructor Lugen]\nY-yo lo siento, pero…"
+        "es-ES": "[Instructor Lugen]\nY-yo lo siento, pero..."
     },
     "KckQ": {
         "en-US": "[Instructor Lugen]\nI came here together\nwith my friend but we\naren't allowed to leave,\nso I don't know how he is.",
@@ -377,7 +377,7 @@
     "K8kQ": {
         "en-US": "[Instructor Lugen]\nBut, i'm so busy working\nand it makes me...\n*sigh*",
         "pt-BR": "[Instrutor Lugen]\nMas estou tão ocupado com o trabalho\ne isso me deixa...\n*suspiro*",
-        "es-ES": "[Instructor Lugen]\nPero estoy tan ocupado con el trabajo\nque…\n*Suspira*"
+        "es-ES": "[Instructor Lugen]\nPero estoy tan ocupado con el trabajo\nque...\n*Suspira*"
     },
     "LMkQ": {
         "en-US": "Help.",
@@ -437,12 +437,12 @@
     "N8kQ": {
         "en-US": "[Instructor Lugen]\nYes.. I really appreciate\nyour listening to me.\nIt makes me feel better.",
         "pt-BR": "[Instrutor Lugen]\nSim... Agradeço muito\npor me ouvir.\nIsso me faz sentir melhor.",
-        "es-ES": "[Instructor Lugen]\nSí… Agradezco mucho\nque me hayas escuchado.\nMe siento mucho mejor."
+        "es-ES": "[Instructor Lugen]\nSí... Agradezco mucho\nque me hayas escuchado.\nMe siento mucho mejor."
     },
     "OMkQ": {
         "en-US": "[Instructor Lugen]\nThere must be no\ntime to rest for me.\nHuu...~",
         "pt-BR": "[Instrutor Lugen]\nNão deve haver tempo\npra descanso pra mim.\nHuu...~",
-        "es-ES": "[Instructor Lugen]\nParece que nunca\nhay descanso para mí.\nAy…"
+        "es-ES": "[Instructor Lugen]\nParece que nunca\nhay descanso para mí.\nAy..."
     },
     "OckQ": {
         "en-US": "Help him.",
@@ -472,7 +472,7 @@
     "PskQ": {
         "en-US": "[{0}]\nHmm...",
         "pt-BR": "[{0}]\nHmm...",
-        "es-ES": "[{0}]\nMmm…"
+        "es-ES": "[{0}]\nMmm..."
     },
     "P8kQ": {
         "en-US": "[Instructor Lugen]\nAh, did you lose the letter?\nThat's ok. It's no big deal.\nI'll write it again.",
@@ -572,7 +572,7 @@
     "UskQ": {
         "en-US": "[Otto]\nOh, is he...\nIt was just a cold.\nIt was nothing.\nHe's still overprotective...",
         "pt-BR": "[Otto]\nOh, ele está...\nFoi só um resfriado.\nNão foi nada.\nEle ainda é superprotetor...",
-        "es-ES": "[Otto]\nOh, ¿en serio?\nSolo tuve un resfriado.\nNo fue nada.\nSiempre tan sobreprotector…"
+        "es-ES": "[Otto]\nOh, ¿en serio?\nSolo tuve un resfriado.\nNo fue nada.\nSiempre tan sobreprotector..."
     },
     "U8kQ": {
         "en-US": "[{0}]\nThat's good to hear.\nAh, and he wrote this letter for you.",
@@ -582,7 +582,7 @@
     "VMkQ": {
         "en-US": "[{0}]\nEh, where is it..",
         "pt-BR": "[{0}]\nEh, onde está...",
-        "es-ES": "[{0}]\nEh, ¿dónde la puse…?"
+        "es-ES": "[{0}]\nEh, ¿dónde la puse...?"
     },
     "VckQ": {
         "en-US": "[Otto]\n......",
@@ -592,7 +592,7 @@
     "VskQ": {
         "en-US": "[Otto]\nWe're not allowed to leave our posts,\nso I am wondering about him too...",
         "pt-BR": "[Otto]\nNão temos permissão pra sair dos nossos postos,\nentão eu também fico me perguntando como ele está...",
-        "es-ES": "[Otto]\nNo nos dejan abandonar nuestro puesto,\nasí que yo también me preocupé por él…"
+        "es-ES": "[Otto]\nNo nos dejan abandonar nuestro puesto,\nasí que yo también me preocupé por él..."
     },
     "V8kQ": {
         "en-US": "[Otto]\nA letter, I never expected this, huhu.",
@@ -647,17 +647,17 @@
     "YckQ": {
         "en-US": "[Brink]\nHmm... Hey...\nI mean..\nHmm...\n...I would...",
         "pt-BR": "[Brink]\nHmm... Ei...\nQuer dizer...\nHmm...\n...Eu gostaria...",
-        "es-ES": "[Brink]\nMmm… Oye…\nO sea…\nMmm…\n… yo…"
+        "es-ES": "[Brink]\nMmm... Oye...\nO sea...\nMmm...\n... yo..."
     },
     "YskQ": {
         "en-US": "[Brink]\nHmm... Hey...\n...What makes...\nHmm...\n...I would...",
         "pt-BR": "[Brink]\nHmm... Ei...\n...O que faz...\nHmm...\n...Eu gostaria...",
-        "es-ES": "[Brink]\nMmm… Oye…\n¿Qué se supone que…?\nMmm…\n… yo…"
+        "es-ES": "[Brink]\nMmm... Oye...\n¿Qué se supone que...?\nMmm...\n... yo..."
     },
     "Y8kQ": {
         "en-US": "[Brink]\nHmm... Hey...\n...register....\nI mean..",
         "pt-BR": "[Brink]\nHmm... Ei...\n...registrar...\nQuer dizer...",
-        "es-ES": "[Brink]\nMmm… Oye…\n… regístrate…\nO sea…"
+        "es-ES": "[Brink]\nMmm... Oye...\n... regístrate...\nO sea..."
     },
     "ZMkQ": {
         "en-US": "I am here to register.",
@@ -672,7 +672,7 @@
     "ZskQ": {
         "en-US": "[Brink]\nAh...I mean..\nHmm...\n...Hey....\nWhat...your name...",
         "pt-BR": "[Brink]\nAh... quero dizer...\nHmm...\n...Ei....\nQual... seu nome...",
-        "es-ES": "[Brink]\nAh…, digo…\nMmm…\n… oye…\n¿Cómo… te llamas?"
+        "es-ES": "[Brink]\nAh..., digo...\nMmm...\n... oye...\n¿Cómo... te llamas?"
     },
     "Z8kQ": {
         "en-US": "[{0}]\nMy name is {0}.",
@@ -682,17 +682,17 @@
     "aMkQ": {
         "en-US": "[Brink]\n..Ah..\n{0}...\nYou..\n...registered...Hmm...\n...",
         "pt-BR": "[Brink]\n... Ah...\n{0}...\nVocê...\n...registrado...Hmm...\n...",
-        "es-ES": "[Brink]\n… ah…\n{0}…\nTú…\n… te registraste… Mmm…\n…"
+        "es-ES": "[Brink]\n... ah...\n{0}...\nTú...\n... te registraste... Mmm...\n..."
     },
     "ackQ": {
         "en-US": "[Brink]\nHere...\nHmm..\nsing...",
         "pt-BR": "[Brink]\nAqui...\nHmm...\nassine...",
-        "es-ES": "[Brink]\nAquí…\nMmm…\nFirma…"
+        "es-ES": "[Brink]\nAquí...\nMmm...\nFirma..."
     },
     "askQ": {
         "en-US": "[Brink]\nHmm...\nand...\nI mean...",
         "pt-BR": "[Brink]\nHmm...\ne...\nQuero dizer...",
-        "es-ES": "[Brink]\nMmm…\nY…\nO sea…"
+        "es-ES": "[Brink]\nMmm...\nY...\nO sea..."
     },
     "a8kQ": {
         "en-US": "[{0}]\nIs it finished?",
@@ -702,12 +702,12 @@
     "bMkQ": {
         "en-US": "[Brink]\nHm..\n...Yes...\nThen...",
         "pt-BR": "[Brink]\nHm...\n...Sim...\nEntão...",
-        "es-ES": "[Brink]\nHm…\n… sí…\nEntonces…"
+        "es-ES": "[Brink]\nHm...\n... sí...\nEntonces..."
     },
     "bckQ": {
         "en-US": "[Brink]\nAnd...\n.....This thing...\n...Ehh....",
         "pt-BR": "[Brink]\nE...\n..... Esta coisa...\n...Ehh....",
-        "es-ES": "[Brink]\nY…\n… esto…\n… eh…"
+        "es-ES": "[Brink]\nY...\n... esto...\n... eh..."
     },
     "bskQ": {
         "en-US": "- I guess I'm registered -\n- I'd better go back to Lugen -",
@@ -717,12 +717,12 @@
     "b8kQ": {
         "en-US": "[Brink]\n...Hey...\nI mean...\n...Well...nice...\nThen...",
         "pt-BR": "[Brink]\n...Ei...\nQuero dizer...\n...Bem...legal...\nEntão...",
-        "es-ES": "[Brink]\n… Oye…\nO sea…\n… bueno…, que tengas…\nEntonces…"
+        "es-ES": "[Brink]\n... Oye...\nO sea...\n... bueno..., que tengas...\nEntonces..."
     },
     "cMkQ": {
         "en-US": "[Brink]\n...Life...\n....Hmm...",
         "pt-BR": "[Brink]\n...Vida...\n....Hmm...",
-        "es-ES": "[Brink]\n… una buena vida…\n… Mmm…"
+        "es-ES": "[Brink]\n... una buena vida...\n... Mmm..."
     },
     "cckQ": {
         "en-US": "Diego",
@@ -757,7 +757,7 @@
     "d8kQ": {
         "en-US": "[Diego]\nAh..\nWhen I passed by here...\nI kicked the post by mistake\nand now it's broken.",
         "pt-BR": "[Diego]\nAh...\nQuando eu passei por aqui...\nchutei o poste por engano\ne agora ele está quebrado.",
-        "es-ES": "[Diego]\nAh…\nPasé por aquí…\ny sin querer le di una patada a este poste,\ny ahora está roto."
+        "es-ES": "[Diego]\nAh...\nPasé por aquí...\ny sin querer le di una patada a este poste,\ny ahora está roto."
     },
     "eMkQ": {
         "en-US": "[Diego]\nI need to ask others for help\nwhile I hold this post up.",
@@ -767,7 +767,7 @@
     "eckQ": {
         "en-US": "[Diego]\nWell, let me see...\nI'm really lucky to see you,\npassing by here, {0}",
         "pt-BR": "[Diego]\nBem, deixe-me ver...\nTenho muita sorte de ver você,\npassando por aqui, {0}",
-        "es-ES": "[Diego]\nBueno, a ver…\nQué suerte que\npasaras por aquí, {0}."
+        "es-ES": "[Diego]\nBueno, a ver...\nQué suerte que\npasaras por aquí, {0}."
     },
     "eskQ": {
         "en-US": "[{0}]\nHah!! How did you know my name?!",
@@ -812,7 +812,7 @@
     "gskQ": {
         "en-US": "[Diego]\n...\nYou're too harsh.\nSob.",
         "pt-BR": "[Diego]\n...\nVocê foi muito duro comigo.\nBuáááá...",
-        "es-ES": "[Diego]\n…\nQué cortante.\n*Solloza*"
+        "es-ES": "[Diego]\n...\nQué cortante.\n*Solloza*"
     },
     "g8kQ": {
         "en-US": "[Diego]\nOh!!\nYou finally brought\nthe materials!\nI'm so grateful!!",
@@ -837,7 +837,7 @@
     "h8kQ": {
         "en-US": "[{0}]\nNo, I just...\nI was assigned to stay\nin these barracks.",
         "pt-BR": "[{0}]\nNão, eu só...\nFui designado pra ficar nesse quartel..",
-        "es-ES": "[{0}]\nNo, es solo que…\nme asignaron\nestos cuarteles."
+        "es-ES": "[{0}]\nNo, es solo que...\nme asignaron\nestos cuarteles."
     },
     "iMkQ": {
         "en-US": "[Diego]\nOh!!!\nThen it this really is fate!!!\nAnd this is the special\nproduct of this camp,\n^0000FFChocolate Pie^000000.",
@@ -892,12 +892,12 @@
     "kskQ": {
         "en-US": "[Lucas]\n...Hmm...\nReplacement?\n......",
         "pt-BR": "[Lucas]\n...Hmm...\nSubstituto?\n......",
-        "es-ES": "[Lucas]\n… Mmm…\n¿Reemplazo?\n......"
+        "es-ES": "[Lucas]\n... Mmm...\n¿Reemplazo?\n......"
     },
     "k8kQ": {
         "en-US": "[Lucas]\nThe Federal team's still...\nsend us people using the\ndangerous way...",
         "pt-BR": "[Lucas]\nA equipe federal ainda...\nmanda gente pra cá usando\nesse caminho perigoso...",
-        "es-ES": "[Lucas]\nEl equipo federal sigue…\nenviándonos gente por\nla ruta peligrosa…"
+        "es-ES": "[Lucas]\nEl equipo federal sigue...\nenviándonos gente por\nla ruta peligrosa..."
     },
     "lMkQ": {
         "en-US": "Dangerous way?",
@@ -917,27 +917,27 @@
     "l8kQ": {
         "en-US": "[Lucas]\nTo breach the dimensional crack, the assassin team was deployed first...",
         "pt-BR": "[Lucas]\nPara romper a fenda dimensional, a equipe de Mercenários foi acionada primeiro...",
-        "es-ES": "[Lucas]\nPara atravesar la grieta dimensional, primero enviaron al equipo de Asesinos…"
+        "es-ES": "[Lucas]\nPara atravesar la grieta dimensional, primero enviaron al equipo de Asesinos..."
     },
     "mMkQ": {
         "en-US": "[Lucas]\nHowever, most of my men.....\n......",
         "pt-BR": "[Lucas]\nNo entanto, a maioria dos meus homens.....\n......",
-        "es-ES": "[Lucas]\nPero la mayoría de mis hombres…\n......"
+        "es-ES": "[Lucas]\nPero la mayoría de mis hombres...\n......"
     },
     "mckQ": {
         "en-US": "[Lucas]\nNo, just ignore what I said...\n......",
         "pt-BR": "[Lucas]\nNão, esqueça o que eu disse...\n......",
-        "es-ES": "[Lucas]\nNo, mejor ignora lo que dije…\n......"
+        "es-ES": "[Lucas]\nNo, mejor ignora lo que dije...\n......"
     },
     "mskQ": {
         "en-US": "[Lucas]\nYou seem to live hard all the time...",
         "pt-BR": "[Lucas]\nVocê parece alguém que vive sempre se esforçando...",
-        "es-ES": "[Lucas]\nSiempre pareces vivir al límite…"
+        "es-ES": "[Lucas]\nSiempre pareces vivir al límite..."
     },
     "m8kQ": {
         "en-US": "[Lucas]\nThe motherland constantly\nsends us people...\nIs that passage safe?",
         "pt-BR": "[Lucas]\nA terra natal está sempre nos enviando gente...\nAquele caminho é mesmo seguro?",
-        "es-ES": "[Lucas]\nLa tierra natal sigue\nenviándonos gente…\n¿Esa ruta es segura?"
+        "es-ES": "[Lucas]\nLa tierra natal sigue\nenviándonos gente...\n¿Esa ruta es segura?"
     },
     "nMkQ": {
         "en-US": "Davi",
@@ -962,7 +962,7 @@
     "oMkQ": {
         "en-US": "[{0}]\nYes...",
         "pt-BR": "[{0}]\nSim...",
-        "es-ES": "[{0}]\nSí…"
+        "es-ES": "[{0}]\nSí..."
     },
     "ockQ": {
         "en-US": "[Jan]\nAhhh, it's exciting~\nI love it.",
@@ -987,7 +987,7 @@
     "pckQ": {
         "en-US": "[{0}]\nWhat is... it~~?",
         "pt-BR": "[{0}]\nO que é... isso~~?",
-        "es-ES": "[{0}]\n¿Qué es… eso?"
+        "es-ES": "[{0}]\n¿Qué es... eso?"
     },
     "pskQ": {
         "en-US": "[Jan]\n......\n......",
@@ -997,7 +997,7 @@
     "p8kQ": {
         "en-US": "[Jan]\nIt, it's a secret...",
         "pt-BR": "[Jan]\nÉ um segredo...",
-        "es-ES": "[Jan]\nEs-es un secreto…"
+        "es-ES": "[Jan]\nEs-es un secreto..."
     },
     "qMkQ": {
         "en-US": "[Jan]\nThe more I study around here,\nthe more I find strange things.",
@@ -1057,7 +1057,7 @@
     "s8kQ": {
         "en-US": "[Gerard]\nHhhh, I am starving.\nWhen will the suppy come?\nIt is killing me...",
         "pt-BR": "[Gerard]\nHhhh, estou morrendo de fome.\nQuando os suprimentos vão chegar?\nIsso está me matando...",
-        "es-ES": "[Gerard]\nAhhh, me muero de hambre.\n¿Cuándo llegarán los suministros?\nEsto es un tormento…"
+        "es-ES": "[Gerard]\nAhhh, me muero de hambre.\n¿Cuándo llegarán los suministros?\nEsto es un tormento..."
     },
     "tMkQ": {
         "en-US": "[Gerard]\nHu, I am full now.\nTime to continue on\nwith the exploration!!!",
@@ -1072,7 +1072,7 @@
     "tskQ": {
         "en-US": "[Gerard]\nBy the way... is this a\nmushroom or a tree?",
         "pt-BR": "[Gerard]\nAliás... isso aqui é um cogumelo ou uma árvore?",
-        "es-ES": "[Gerard]\nPor cierto…, ¿esto es un\nhongo o un árbol?"
+        "es-ES": "[Gerard]\nPor cierto..., ¿esto es un\nhongo o un árbol?"
     },
     "t8kQ": {
         "en-US": "Alberto",
@@ -1082,7 +1082,7 @@
     "uMkQ": {
         "en-US": "[Alberto]\nHhh, I am cold....",
         "pt-BR": "[Alberto]\nHhh, estou com frio....",
-        "es-ES": "[Alberto]\nAy, qué frío…"
+        "es-ES": "[Alberto]\nAy, qué frío..."
     },
     "uckQ": {
         "en-US": "[{0}]\nMr. Alberto, take this.\nThe Instructor sent\nme on an errand.",
@@ -1092,7 +1092,7 @@
     "uskQ": {
         "en-US": "[Alberto]\nI finally got it.\nMy coat...sniff\nIt's freezing here.",
         "pt-BR": "[Alberto]\nFinalmente consegui.\nMeu casaco...sniff\nEstá congelando aqui.",
-        "es-ES": "[Alberto]\nPor fin.\nMi abrigo… *Snif*\nEstá helado aquí."
+        "es-ES": "[Alberto]\nPor fin.\nMi abrigo... *Snif*\nEstá helado aquí."
     },
     "u8kQ": {
         "en-US": "[Alberto]\nSniff...\n- rustling sound -",
@@ -1102,7 +1102,7 @@
     "vMkQ": {
         "en-US": "[Alberto]\nAh, I am sorry but...\nMy hands are so cold\nthat I cannot open it.\nCan you open it for me?",
         "pt-BR": "[Alberto]\nAh, me desculpe, mas...\nMinhas mãos estão tão frias que não consigo abrir.\nPode abrir pra mim?",
-        "es-ES": "[Alberto]\nAh, lo siento pero…\nTengo las manos tan frías\nque no puedo abrirlo.\n¿Podrías hacerlo por mí?"
+        "es-ES": "[Alberto]\nAh, lo siento pero...\nTengo las manos tan frías\nque no puedo abrirlo.\n¿Podrías hacerlo por mí?"
     },
     "vckQ": {
         "en-US": "- rustling sound -\n- Opening someone -\n- else's stuff makes -\n- me feel strange. -",
@@ -1132,7 +1132,7 @@
     "wskQ": {
         "en-US": "[Alberto]\nHuu...\nI am still cold even\nwith this heavy coat.\nI need to order more clothes.",
         "pt-BR": "[Alberto]\nAhh...\nAinda estou com frio mesmo com esse casaco pesado.\nPreciso pedir mais roupas.",
-        "es-ES": "[Alberto]\nAh…\nSigo teniendo frío, incluso\ncon este abrigo tan grueso.\nVoy a necesitar más ropa."
+        "es-ES": "[Alberto]\nAh...\nSigo teniendo frío, incluso\ncon este abrigo tan grueso.\nVoy a necesitar más ropa."
     },
     "w8kQ": {
         "en-US": "[Alberto]\nWhat are these weird\nstructures set up\nhere and there?",
@@ -1197,7 +1197,7 @@
     "z8kQ": {
         "en-US": "[{0}]\nThis is useless.\nI need to find others...",
         "pt-BR": "[{0}]\nIsso é inútil.\nPreciso encontrar outros...",
-        "es-ES": "[{0}]\nEsto no sirve.\nNecesito encontrar otras…"
+        "es-ES": "[{0}]\nEsto no sirve.\nNecesito encontrar otras..."
     },
     "0MkQ": {
         "en-US": "-  rustling sound -\n-  There's nothing useful. -",
@@ -1292,7 +1292,7 @@
     "4skQ": {
         "en-US": "[Diego]\n...\nWhy aren't you helping?",
         "pt-BR": "[Diego]\n...\nPor que não está ajudando?",
-        "es-ES": "[Diego]\n…\nNo me estás ayudando…"
+        "es-ES": "[Diego]\n...\nNo me estás ayudando..."
     },
     "48kQ": {
         "en-US": "- You fix the broken post -\n- with the vines. -\n- It seems that you-\n- need more branches. -",
@@ -1357,7 +1357,7 @@
     "78kQ": {
         "en-US": "[Diego]\n...\nWhy are you doing this?",
         "pt-BR": "[Diego]\n...\nPor que você está fazendo isso?",
-        "es-ES": "[Diego]\n…\n¿Por qué haces esto?"
+        "es-ES": "[Diego]\n...\n¿Por qué haces esto?"
     },
     "8MkQ": {
         "en-US": "-  You tie the broken post -\n-  with the strong vines. -\n-  It seems that you -\n-  need more branches. -",

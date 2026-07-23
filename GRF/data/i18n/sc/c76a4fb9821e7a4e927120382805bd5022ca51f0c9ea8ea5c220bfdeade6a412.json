@@ -97,12 +97,12 @@
     "8xSBBw": {
         "en-US": "[Butler]\nIf the next head of the family meets you{0}, please...",
         "pt-BR": "[Mordomo]\nQuando vocês se conhecerem, {0}, eu peço para que vo...",
-        "es-ES": "[Mayordomo]\nSi te encuentras con el próximo cabeza de familia{0}, por favor…"
+        "es-ES": "[Mayordomo]\nSi te encuentras con el próximo cabeza de familia{0}, por favor..."
     },
     "9BSBBw": {
         "en-US": "[Butler]\nOh! I am sorry about my bad manners. It is nothing. Please never mind...",
         "pt-BR": "[Mordomo]\nAh! Nada. Finja que eu não falei nada...",
-        "es-ES": "[Mayordomo]\n¡Ah! Lamento mis malos modales. No es nada. No te preocupes por eso…"
+        "es-ES": "[Mayordomo]\n¡Ah! Lamento mis malos modales. No es nada. No te preocupes por eso..."
     },
     "9RSBBw": {
         "en-US": "[Butler]\nI heard from Po the next head of the family that you are going to try the Richard battle training program.",
@@ -272,12 +272,12 @@
     "FhWBBw": {
         "en-US": "[Butler]\nHum... You don't like the contents of the training? Well, it's OK. Why don't you choose another training?",
         "pt-BR": "[Mordomo]\nHmm... Tudo bem. Escolha com calma!",
-        "es-ES": "[Mayordomo]\nMmm… ¿No te gusta el contenido de este entrenamiento? Bueno, no pasa nada. ¿Por qué no eliges otro entrenamiento?"
+        "es-ES": "[Mayordomo]\nMmm... ¿No te gusta el contenido de este entrenamiento? Bueno, no pasa nada. ¿Por qué no eliges otro entrenamiento?"
     },
     "FxWBBw": {
         "en-US": "[Butler]\nYou shouldn't let your guard down even when you feel that the training is too easy for your level. Good luck...",
         "pt-BR": "[Mordomo]\nNão baixe a guarda, mesmo se o treinamento parecer fácil demais. Boa sorte...",
-        "es-ES": "[Mayordomo]\nNo debes bajar la guardia aunque te parezca que el entrenamiento es demasiado fácil para tu nivel. Buena suerte…"
+        "es-ES": "[Mayordomo]\nNo debes bajar la guardia aunque te parezca que el entrenamiento es demasiado fácil para tu nivel. Buena suerte..."
     },
     "GBWBBw": {
         "en-US": "[Butler]\nYou are participating in the training. Do you need anything?",
@@ -322,22 +322,22 @@
     "IBWBBw": {
         "en-US": "[Butler]\nThe former and former head of the family... Oh! Just to clear things out, he is retired, but he is not dead.",
         "pt-BR": "[Mordomo]\nAh, só pra esclarecer! Ele é o 'antigo' líder da família, mas não passou dessa para uma melhor. Ele só se aposentou.",
-        "es-ES": "[Mayordomo]\nEl antiguo y excabeza de familia… ¡Ah! Para aclarar las cosas, está retirado, pero no está muerto."
+        "es-ES": "[Mayordomo]\nEl antiguo y excabeza de familia... ¡Ah! Para aclarar las cosas, está retirado, pero no está muerto."
     },
     "IRWBBw": {
         "en-US": "[Butler]\nHum... Let's come back down to the business... He has come up with the method to train with the monster depending on the level of the trainee or the type of the monster.",
         "pt-BR": "[Mordomo]\nEntão, voltando ao assunto... Ele veio com uma ideia de treinamento para que as pessoas caçassem os determinados monstros de acordo com seus níveis.",
-        "es-ES": "[Mayordomo]\nMmm… Volvamos a lo que nos interesa… Descubrió un método para entrenar con el monstruo en función del nivel del aprendiz o del tipo de monstruo."
+        "es-ES": "[Mayordomo]\nMmm... Volvamos a lo que nos interesa... Descubrió un método para entrenar con el monstruo en función del nivel del aprendiz o del tipo de monstruo."
     },
     "IhWBBw": {
         "en-US": "[Butler]\nWell... The training began like that...",
         "pt-BR": "[Mordomo]\nE foi assim que começou...",
-        "es-ES": "[Mayordomo]\nBueno… El entrenamiento comenzó así…"
+        "es-ES": "[Mayordomo]\nBueno... El entrenamiento comenzó así..."
     },
     "IxWBBw": {
         "en-US": "[Butler]\nThe goal of the training... It is an easy and difficult question.",
         "pt-BR": "[Mordomo]\nO objetivo do treinamento... Essa é uma pergunta boa.",
-        "es-ES": "[Mayordomo]\nEl objetivo del entrenamiento… Es una pregunta fácil y difícil."
+        "es-ES": "[Mayordomo]\nEl objetivo del entrenamiento... Es una pregunta fácil y difícil."
     },
     "JBWBBw": {
         "en-US": "[Butler]\nThe most obvious goal must be getting stronger. I would have answered if I was younger.",
@@ -612,7 +612,7 @@
     "WhWBBw": {
         "en-US": "I believe the most important thing to a warrior is the spirit of challenge. The challenge to move on to the next level... It is the most important thing.",
         "pt-BR": "O maior valor de um guerreiro é o seu espírito desafiador. É importante estar disposto a encarar barreiras cada vez maiores.",
-        "es-ES": "Creo que lo más importante para un guerrero es el espíritu de desafío. El desafío de pasar al siguiente nivel… Eso es lo esencial."
+        "es-ES": "Creo que lo más importante para un guerrero es el espíritu de desafío. El desafío de pasar al siguiente nivel... Eso es lo esencial."
     },
     "WxWBBw": {
         "en-US": "A song of a warrior was very popular in the pub in Prontera. I am sad that I cannot hear it these days.",

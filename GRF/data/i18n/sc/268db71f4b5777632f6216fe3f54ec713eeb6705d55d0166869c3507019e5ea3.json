@@ -10447,7 +10447,7 @@
     "yY4B": {
         "en-US": "Ominous Solider",
         "pt-BR": "Solidificador Ominoso",
-        "es-ES": "Soldado siniestro"
+        "es-ES": "Solider siniestro"
     },
     "yo4B": {
         "en-US": "Ominous Assulter",
@@ -11192,7 +11192,7 @@
     "Xo8B": {
         "en-US": "Wandering Duck",
         "pt-BR": "Patinho",
-        "es-ES": "Patito"
+        "es-ES": "Patito Errante"
     },
     "X48B": {
         "en-US": "Papare",
@@ -11207,7 +11207,7 @@
     "YY8B": {
         "en-US": "Small Treasure Box",
         "pt-BR": "Miojinho",
-        "es-ES": "Caja de tesoro pequeña"
+        "es-ES": "Cajita de Tesoro"
     },
     "Yo8B": {
         "en-US": "Nyailo",
@@ -11217,62 +11217,62 @@
     "Y48B": {
         "en-US": "Ripe Watermelon",
         "pt-BR": "Melancia",
-        "es-ES": "Sandía madura"
+        "es-ES": "Sandía Madura"
     },
     "ZI8B": {
         "en-US": "Sea Worms",
         "pt-BR": "Macarrão Estragado",
-        "es-ES": "Gusanos marinos"
+        "es-ES": "Fideos Malogrados"
     },
     "ZY8B": {
         "en-US": "Small Whirlpool",
         "pt-BR": "Torvelinho",
-        "es-ES": "Torbellino pequeño"
+        "es-ES": "Torbellino Pequeño"
     },
     "Zo8B": {
-        "en-US": "Swing Tale",
+        "en-US": "Swing Tail",
         "pt-BR": "Alga-Chicote",
-        "es-ES": "Cuento oscilante"
+        "es-ES": "Alga Ondulante"
     },
     "Z48B": {
         "en-US": "Contaminated Raydric",
         "pt-BR": "Raydric Poluto",
-        "es-ES": "Raydric contaminado"
+        "es-ES": "Raydric Contaminado"
     },
     "aI8B": {
         "en-US": "Contaminated Raydric Archer",
         "pt-BR": "Raydric Atirador",
-        "es-ES": "Arquero Raydric contaminado"
+        "es-ES": "Arquero Raydric Contaminado"
     },
     "aY8B": {
         "en-US": "Frozen Gargoyle",
         "pt-BR": "Gárgula Congelada",
-        "es-ES": "Gárgola congelada"
+        "es-ES": "Gárgola Congelada"
     },
     "ao8B": {
         "en-US": "Contaminated Sting",
         "pt-BR": "Sting Poluto",
-        "es-ES": "Sting contaminada"
+        "es-ES": "Sting Contaminada"
     },
     "a48B": {
         "en-US": "Prison Breaker",
         "pt-BR": "Foragido",
-        "es-ES": "Fugitivo de prisión"
+        "es-ES": "Fugitivo de Prisión"
     },
     "bI8B": {
         "en-US": "Ice Ghost",
         "pt-BR": "Xamã do Gelo",
-        "es-ES": "Fantasma de hielo"
+        "es-ES": "Fantasma de Hielo"
     },
     "bY8B": {
         "en-US": "Flame Ghost",
         "pt-BR": "Xamã do Fogo",
-        "es-ES": "Fantasma de llamas"
+        "es-ES": "Fantasma de Llamas"
     },
     "bo8B": {
         "en-US": "Stiff Blazer",
         "pt-BR": "Brasa",
-        "es-ES": "Brasa rígida"
+        "es-ES": "Brasa Rígida"
     },
     "b48B": {
         "en-US": "Stiff Nightmare Terror",
@@ -14203,7 +14203,7 @@
     },
     "uZEB": {
         "en-US": "Stractic Golem",
-        "pt-BR": "Golém Stractic",
+        "pt-BR": "Golem Estalactítico",
         "es-ES": "Gólem Stractic"
     },
     "upEB": {
@@ -14233,7 +14233,7 @@
     },
     "v5EB": {
         "en-US": "Aerial Petit",
-        "pt-BR": "Petit Aéreo",
+        "pt-BR": "Petite Voador",
         "es-ES": "Petit Aéreo"
     },
     "wJEB": {
@@ -14263,7 +14263,7 @@
     },
     "xZEB": {
         "en-US": "Ground Petit",
-        "pt-BR": "Petit Terrestre",
+        "pt-BR": "Petite",
         "es-ES": "Petit Terrestre"
     },
     "xpEB": {
@@ -14393,7 +14393,7 @@
     },
     "35EB": {
         "en-US": "Plasma B",
-        "pt-BR": "Plasma B",
+        "pt-BR": "Plasma",
         "es-ES": "Plasma B"
     },
     "4JEB": {
@@ -14418,12 +14418,12 @@
     },
     "5JEB": {
         "en-US": "Agent of Divine Punishment",
-        "pt-BR": "Agente do Castigo Divino",
+        "pt-BR": "Retribuição",
         "es-ES": "Agente del Castigo Divino"
     },
     "5ZEB": {
         "en-US": "Flame Skull",
-        "pt-BR": "Caveira de Chama",
+        "pt-BR": "Crânio Flamejante",
         "es-ES": "Calavera Flameante"
     },
     "5pEB": {
@@ -14603,12 +14603,12 @@
     },
     "CZIB": {
         "en-US": "Beelzebub",
-        "pt-BR": "Mosca Belzebu",
+        "pt-BR": "Belzebu",
         "es-ES": "Belcebú"
     },
     "CpIB": {
         "en-US": "Beelzebub",
-        "pt-BR": "Mosca Belzebu",
+        "pt-BR": "Belzebu",
         "es-ES": "Belcebú"
     },
     "C5IB": {
@@ -14618,13 +14618,13 @@
     },
     "DJIB": {
         "en-US": "Dark Blade Sakray",
-        "pt-BR": "Lâmina Negra Sakray",
-        "es-ES": "Cuchilla Negra Sakray"
+        "pt-BR": "Sakray Amaldiçoado",
+        "es-ES": "Sakray Maldito"
     },
     "DZIB": {
         "en-US": "Princess Tiara",
         "pt-BR": "Princesa Tiara",
-        "es-ES": "Princesa Tiarra"
+        "es-ES": "Princesa Tiara"
     },
     "DpIB": {
         "en-US": "Undead Knight",
@@ -14643,12 +14643,12 @@
     },
     "EZIB": {
         "en-US": "Undead Wizard",
-        "pt-BR": "Mago Morto-vivo",
+        "pt-BR": "Xamã Morto-vivo",
         "es-ES": "Mago No-muerto"
     },
     "EpIB": {
         "en-US": "Undead Sorcerer",
-        "pt-BR": "Feiticeiro Morto-vivo",
+        "pt-BR": "Mago Morto-vivo",
         "es-ES": "Hechicero No-muerto"
     },
     "E5IB": {
@@ -14661,22 +14661,95 @@
         "pt-BR": "Servo Morto-vivo",
         "es-ES": "Sirviente No-muerto"
     },
-    "FZIB": {},
-    "FpIB": {},
-    "F5IB": {},
-    "GJIB": {},
-    "GZIB": {},
-    "GpIB": {},
-    "G5IB": {},
-    "HJIB": {},
-    "HZIB": {},
-    "HpIB": {},
-    "H5IB": {},
-    "IJIB": {},
-    "IZIB": {},
-    "IpIB": {},
-    "I5IB": {},
-    "JJIB": {},
-    "JZIB": {},
-    "JpIB": {}
+    "FZIB": {
+        "en-US": "Extra Joker",
+        "pt-BR": "Coringa Extra",
+        "es-ES": "Joker Extra"
+    },
+    "FpIB": {
+        "en-US": "Erzsebet",
+        "pt-BR": "Erzsebet",
+        "es-ES": "Erzsebet"
+    },
+    "F5IB": {
+        "en-US": "Jeniffer",
+        "pt-BR": "Jeniffer",
+        "es-ES": "Jennifer"
+    },
+    "GJIB": {
+        "en-US": "Orc General",
+        "pt-BR": "General Orc",
+        "es-ES": "General Orco"
+    },
+    "GZIB": {
+        "en-US": "Sieglouse",
+        "pt-BR": "Sieglouse",
+        "es-ES": "Sieglouse"
+    },
+    "GpIB": {
+        "en-US": "Goblin King",
+        "pt-BR": "Rei Goblin",
+        "es-ES": "Rey Goblin"
+    },
+    "G5IB": {
+        "en-US": "Eddga",
+        "pt-BR": "Eddga",
+        "es-ES": "Eddga"
+    },
+    "HJIB": {
+        "en-US": "Target O",
+        "pt-BR": "Alvo O",
+        "es-ES": "Diana O"
+    },
+    "HZIB": {
+        "en-US": "Target X",
+        "pt-BR": "Alvo X",
+        "es-ES": "Diana X"
+    },
+    "HpIB": {
+        "en-US": "Hearthunter",
+        "pt-BR": "Holograma Caçador",
+        "es-ES": "Cazacorazones holográfico"
+    },
+    "H5IB": {
+        "en-US": "Bellare",
+        "pt-BR": "Holograma Bellare",
+        "es-ES": "Bellare holográfica"
+    },
+    "IJIB": {
+        "en-US": "Sanare",
+        "pt-BR": "Holograma Sanare",
+        "es-ES": "Sanare holográfica"
+    },
+    "IZIB": {
+        "en-US": "Ancient Ninja's Soul",
+        "pt-BR": "Fantasma do Ninja",
+        "es-ES": "Espíritu de ninja antiguo"
+    },
+    "IpIB": {
+        "en-US": "Huiun",
+        "pt-BR": "Clod",
+        "es-ES": "Huiyun"
+    },
+    "I5IB": {
+        "en-US": "Teacher Seo",
+        "pt-BR": "Seo",
+        "es-ES": "Señor Seo"
+    },
+    "JJIB": {
+        "en-US": "Sol",
+        "pt-BR": "Suol",
+        "es-ES": "Suol"
+    },
+    "JZIB": {
+        "en-US": "Ho",
+        "pt-BR": "Ho",
+        "es-ES": "Ho"
+    },
+    "JpIB": {
+        "en-US": "Mountain Lord",
+        "pt-BR": "Sangoon",
+        "es-ES": "Señor de la montaña"
+    },
+    "J5IB": {}
 }

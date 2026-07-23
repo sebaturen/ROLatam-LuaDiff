@@ -57,12 +57,12 @@
     "q1z2Ag": {
         "en-US": "Ya, know you remind me of my little brother, that varmint couldn't shoot the broadside of a barn.. at least not until I taught him.",
         "pt-BR": "Sabe, você me lembra meu irmão mais novo, aquele verme não conseguia atirar nem na lateral de um celeiro... pelo menos até eu ensiná-lo.",
-        "es-ES": "Ey, debes saber que me recuerdas a mi hermanito, esa alimaña no podía darle ni a la pared más grande de un granero… al menos no hasta que yo le enseñé."
+        "es-ES": "Ey, debes saber que me recuerdas a mi hermanito, esa alimaña no podía darle ni a la pared más grande de un granero... al menos no hasta que yo le enseñé."
     },
     "rFz2Ag": {
         "en-US": "Ya, know you remind me of my little sister, that scamp couldn't shoot the broadside of a barn.. at least not until I taught her.",
         "pt-BR": "Sabe, você me lembra minha irmã mais nova, aquela vaca não conseguia atirar nem na lateral de um celeiro... pelo menos até eu ensiná-la.",
-        "es-ES": "Ey, debes saber que me recuerdas a mi hermanita, esa diablilla no podía darle ni a la pared más grande de un granero… al menos no hasta que yo le enseñé."
+        "es-ES": "Ey, debes saber que me recuerdas a mi hermanita, esa diablilla no podía darle ni a la pared más grande de un granero... al menos no hasta que yo le enseñé."
     },
     "rVz2Ag": {
         "en-US": "[Lusa]\nNow y'all need to understand, guns aren't some little thing that you just swing at an animal, you don't wiggle those there fingers and shock them to death.",
@@ -247,7 +247,7 @@
     "0Vz2Ag": {
         "en-US": "I don't have a gun....",
         "pt-BR": "Não tenho uma arma.",
-        "es-ES": "No tengo pistola…"
+        "es-ES": "No tengo pistola..."
     },
     "0lz2Ag": {
         "en-US": "No more questions now.",
@@ -257,7 +257,7 @@
     "01z2Ag": {
         "en-US": "[Lusa]\nOh.. I think I know what the problem is,",
         "pt-BR": "[Luísa, dos Justiceiros]\nHmm, certo. Deixa eu explicar.",
-        "es-ES": "[Lusa]\nAh… Creo que sé cuál es el problema…"
+        "es-ES": "[Lusa]\nAh... Creo que sé cuál es el problema..."
     },
     "1Fz2Ag": {
         "en-US": "[Lusa]\nTa use the guide, first ya need to equip it. ^FF0000 To open the equipment window the Shortcut key is Alt + E.^000000",
@@ -287,7 +287,7 @@
     "2Vz2Ag": {
         "en-US": "[Lusa]\n... and thats how I learned that When in doubt, let your peco do the thinkin'.",
         "pt-BR": "[Luísa, dos Justiceiros]\n... e foi assim que aprendi: na dúvida, deixe seu Peco pensar por você.",
-        "es-ES": "[Lusa]\n…Y así es como aprendí que, en caso de duda, deja que tu Peco Peco piense por ti."
+        "es-ES": "[Lusa]\n...Y así es como aprendí que, en caso de duda, deja que tu Peco Peco piense por ti."
     },
     "2lz2Ag": {
         "en-US": "[Lusa]\nWell, I don't think that you are quite ready to get a shootin iron. So the training book only shows ya skills that don't need guns.",
@@ -457,7 +457,7 @@
     "+1z2Ag": {
         "en-US": "[Lusa]\nHrmm, you have finished all requirements. Here is your reward...",
         "pt-BR": "[Luísa, dos Justiceiros]\nUau, completou mesmo! Parabéns e obrigada, vai ajudar muito.",
-        "es-ES": "[Lusa]\nMmm, completaste todos los requisitos. Aquí tienes tu recompensa…"
+        "es-ES": "[Lusa]\nMmm, completaste todos los requisitos. Aquí tienes tu recompensa..."
     },
     "/Fz2Ag": {
         "en-US": "[Lusa]\nYou finished Request B right?",
@@ -692,12 +692,12 @@
     "Kl32Ag": {
         "en-US": "[Lusa]\nWelcome...?\nOh! You've already moved to another job, right? What happened?",
         "pt-BR": "[Luísa, dos Justiceiros]\nBem-vindo...?\nAh! Você já mudou de classe, né? O que houve?",
-        "es-ES": "[Lusa]\n¿Hola…?\n¡Oh! Ya te cambiaste de clase, ¿verdad? ¿Qué sucedió?"
+        "es-ES": "[Lusa]\n¿Hola...?\n¡Oh! Ya te cambiaste de clase, ¿verdad? ¿Qué sucedió?"
     },
     "K132Ag": {
         "en-US": "About Gunslinger...",
         "pt-BR": "Sobre Justiceiro...",
-        "es-ES": "Sobre la clase Pistolero…"
+        "es-ES": "Sobre la clase Pistolero..."
     },
     "LF32Ag": {
         "en-US": "[Lusa]\nUh?! uh?! Where are you going!!",
@@ -732,7 +732,7 @@
     "Ml32Ag": {
         "en-US": "[Lusa]\nIs that so..? Well... then ask.",
         "pt-BR": "[Luísa, dos Justiceiros]\nAh tá...? Bem... então pergunte.",
-        "es-ES": "[Lusa]\n¿De verdad…? Bueno… entonces, pregunta."
+        "es-ES": "[Lusa]\n¿De verdad...? Bueno... entonces, pregunta."
     },
     "M132Ag": {
         "en-US": "Status",
@@ -822,7 +822,7 @@
     "RF32Ag": {
         "en-US": "[Lusa]\nSomething is wrong.. Why don't you contact the GM team?",
         "pt-BR": "[Luísa, dos Justiceiros]\nTá estranho... Melhor entrar em contato com a equipe de GM.",
-        "es-ES": "[Lusa]\nAlgo está mal… ¿Por qué no te pones en contacto con el equipo de GM?"
+        "es-ES": "[Lusa]\nAlgo está mal... ¿Por qué no te pones en contacto con el equipo de GM?"
     },
     "RV32Ag": {
         "en-US": "Lusa's desk",
@@ -1167,12 +1167,12 @@
     "iV32Ag": {
         "en-US": "[Sharp Snake's Fang]\nI don't think that was provided by the guild...",
         "pt-BR": "[Presa de Cobra Afiada]\nSua arma não é uma fornecida pela Guilda, né?",
-        "es-ES": "[Colmillo de serpiente]\nNo creo que eso haya sido proporcionado por el gremio…"
+        "es-ES": "[Colmillo de serpiente]\nNo creo que eso haya sido proporcionado por el gremio..."
     },
     "il32Ag": {
         "en-US": "[Sharp Snake's Fang]\nHrmm.. this gun is acceptable.",
         "pt-BR": "[Presa de Cobra Afiada]\nEssa sua arma serve.",
-        "es-ES": "[Colmillo de serpiente]\nMmm… esta arma parece aceptable."
+        "es-ES": "[Colmillo de serpiente]\nMmm... esta arma parece aceptable."
     },
     "i132Ag": {
         "en-US": "[Sharp Snake's Fang]\nPlease choose the gun you would like.",
@@ -1317,17 +1317,17 @@
     "p132Ag": {
         "en-US": "[Quite trainee]\nLearning is too difficult...",
         "pt-BR": "[Aluna Tímida]\nEstudar é tão chato...",
-        "es-ES": "[Principiante callada]\nAprender es demasiado difícil…"
+        "es-ES": "[Principiante callada]\nAprender es demasiado difícil..."
     },
     "qF32Ag": {
         "en-US": "[Quite trainee]\nYou are a gunslinger? You look great! I want to become a gunslinger......",
         "pt-BR": "[Aluna Tímida]\nQuando eu crescer, quero ser uma Justiceira forte igual você!",
-        "es-ES": "[Principiante callada]\n¿Eres de la clase Pistolero? Te ves increíble! Quiero ser de la clase Pistolero…"
+        "es-ES": "[Principiante callada]\n¿Eres de la clase Pistolero? Te ves increíble! Quiero ser de la clase Pistolero..."
     },
     "qV32Ag": {
         "en-US": "[Quite trainee]\nDesperado is the bullet... Blable... Ranged attack... Physics....",
         "pt-BR": "[Aluna Tímida]\nO que essa habilidade faz mesmo...?",
-        "es-ES": "[Principiante callada]\nDesperado es la bala… Bla, bla… Ataque a distancia… Física…"
+        "es-ES": "[Principiante callada]\nDesperado es la bala... Bla, bla... Ataque a distancia... Física..."
     },
     "ql32Ag": {
         "en-US": "You can't hear him clearly because of her small voice.",

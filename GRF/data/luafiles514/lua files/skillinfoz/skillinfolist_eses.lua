@@ -1629,7 +1629,7 @@ SkillInfoList_string = {
 		SkillName = "Zona Amplia de Lex AEterna"
 	},
 	[SKID.NPC_ARROWSTORM] = {
-		SkillName = "Tempestade de Flechas"
+		SkillName = "Tormenta de Flechas"
 	},
 	[SKID.NPC_SR_CURSEDCIRCLE] = {
 		SkillName = "Círculo Maldito"
@@ -1647,7 +1647,7 @@ SkillInfoList_string = {
 		SkillName = "Rugido de Mandrágora"
 	},
 	[SKID.NPC_PSYCHIC_WAVE] = {
-		SkillName = "Oleada Psíquica"
+		SkillName = "Onda Psíquica"
 	},
 	[SKID.NPC_RAYOFGENESIS] = {
 		SkillName = "Rayo Génesis"
@@ -2259,7 +2259,7 @@ SkillInfoList_string = {
 		SkillName = "Absorción de Poder"
 	},
 	[SKID.SR_POWERVELOCITY] = {
-		SkillName = "ImPlantación de Poder"
+		SkillName = "Implantación de Poder"
 	},
 	[SKID.SR_GATEOFHELL] = {
 		SkillName = "Puertas del Infierno"
@@ -2543,7 +2543,7 @@ SkillInfoList_string = {
 		SkillName = "Espiral de Masas"
 	},
 	[SKID.RL_BANISHING_BUSTER] = {
-		SkillName = "Buster Desvanecedor"
+		SkillName = "Disparo Neutralizador "
 	},
 	[SKID.RL_B_TRAP] = {
 		SkillName = "Trampa Vinculante"
@@ -2565,7 +2565,7 @@ SkillInfoList_string = {
 		SkillName = "Baile de Fuego"
 	},
 	[SKID.RL_H_MINE] = {
-		SkillName = "Mina de Aullidos"
+		SkillName = "Lanzar Granada"
 	},
 	[SKID.RL_P_ALTER] = {
 		SkillName = "Altar Platino"
@@ -3438,6 +3438,9 @@ SkillInfoList_string = {
 	[SKID.EM_ELEMENTAL_VEIL] = {
 		SkillName = "Velo Elemental"
 	},
+	[SKID.ABC_FROM_THE_ABYSS_ATK] = {
+		SkillName = "Llamado del Abismo"
+	},
 	[SKID.NW_P_F_I] = {SkillName = "P.F.I"},
 	[SKID.NW_GRENADE_MASTERY] = {
 		SkillName = "Maestría de Granadas"
@@ -3449,7 +3452,7 @@ SkillInfoList_string = {
 		SkillName = "Fragmento de Granada"
 	},
 	[SKID.NW_THE_VIGILANTE_AT_NIGHT] = {
-		SkillName = "El Justiciero de Noche"
+		SkillName = "Vigilia Nocturna"
 	},
 	[SKID.NW_ONLY_ONE_BULLET] = {
 		SkillName = "Una Sola Bala"
@@ -3458,7 +3461,7 @@ SkillInfoList_string = {
 		SkillName = "Tiro en Espiral"
 	},
 	[SKID.NW_MAGAZINE_FOR_ONE] = {
-		SkillName = "Cargador para Uno"
+		SkillName = "Artillería Pesada"
 	},
 	[SKID.NW_WILD_FIRE] = {
 		SkillName = "Fuego Salvaje"
@@ -3473,7 +3476,7 @@ SkillInfoList_string = {
 		SkillName = "Lanzamiento de Granadas"
 	},
 	[SKID.NW_AUTO_FIRING_LAUNCHER] = {
-		SkillName = "Lanzador Automático de Granadas"
+		SkillName = "Lanzador Automatico de Granadas"
 	},
 	[SKID.NW_HIDDEN_CARD] = {
 		SkillName = "Carta Oculta"
@@ -3497,7 +3500,7 @@ SkillInfoList_string = {
 		SkillName = "Talismán del Mago"
 	},
 	[SKID.SOA_SOUL_GATHERING] = {
-		SkillName = "Reunión de Almas"
+		SkillName = "Convocar Almas"
 	},
 	[SKID.SOA_TOTEM_OF_TUTELARY] = {
 		SkillName = "Tótem del Tutelar"
@@ -3509,7 +3512,7 @@ SkillInfoList_string = {
 		SkillName = "Talismán del Robo de Almas"
 	},
 	[SKID.SOA_EXORCISM_OF_MALICIOUS_SOUL] = {
-		SkillName = "Exorcismo del Alma Maliciosa"
+		SkillName = "Exorcismo de Almas"
 	},
 	[SKID.SOA_TALISMAN_OF_BLUE_DRAGON] = {
 		SkillName = "Talismán del Dragón Azul"
@@ -3524,64 +3527,64 @@ SkillInfoList_string = {
 		SkillName = "Talismán de la Tortuga Negra"
 	},
 	[SKID.SOA_TALISMAN_OF_FOUR_BEARING_GOD] = {
-		SkillName = "Talismán de los Cuatro Dioses Portadores"
+		SkillName = "Talismán de las Divinidades"
 	},
 	[SKID.SOA_CIRCLE_OF_DIRECTIONS_AND_ELEMENTALS] = {
-		SkillName = "Círculo de Direcciones y Elementales"
+		SkillName = "Círculo de los Elementos"
 	},
 	[SKID.SOA_SOUL_OF_HEAVEN_AND_EARTH] = {
-		SkillName = "Alma del Cielo y de la Tierra"
+		SkillName = "Recuperación de Alma"
 	},
 	[SKID.SH_MYSTICAL_CREATURE_MASTERY] = {
-		SkillName = "Maestría de Criaturas Místicas"
+		SkillName = "Maestría Mística"
 	},
 	[SKID.SH_COMMUNE_WITH_CHUL_HO] = {
-		SkillName = "Comunión con Chulho"
+		SkillName = "Pacto del Tigre"
 	},
 	[SKID.SH_CHUL_HO_SONIC_CLAW] = {
-		SkillName = "Garra Sónica de Chulho"
+		SkillName = "Garras del Tigre"
 	},
 	[SKID.SH_HOWLING_OF_CHUL_HO] = {
-		SkillName = "Aullido de Chulho"
+		SkillName = "Rugido del Tigre"
 	},
 	[SKID.SH_HOGOGONG_STRIKE] = {
 		SkillName = "Golpe de Hogogong"
 	},
 	[SKID.SH_COMMUNE_WITH_KI_SUL] = {
-		SkillName = "Comunión con Kisul"
+		SkillName = "Pacto de la Tortuga"
 	},
 	[SKID.SH_KI_SUL_WATER_SPRAYING] = {
-		SkillName = "Rocío de Agua de Kisul"
+		SkillName = "Rocío de Agua de Gwisul"
 	},
 	[SKID.SH_MARINE_FESTIVAL_OF_KI_SUL] = {
-		SkillName = "Festival Marino de Kisul"
+		SkillName = "Festival Marino de Gwisul"
 	},
 	[SKID.SH_SANDY_FESTIVAL_OF_KI_SUL] = {
-		SkillName = "Festival Arenoso de Kisul"
+		SkillName = "Festival Arenoso de Gwisul"
 	},
 	[SKID.SH_KI_SUL_RAMPAGE] = {
-		SkillName = "Desenfreno de Kisul"
+		SkillName = "Ira de la Tortuga"
 	},
 	[SKID.SH_COMMUNE_WITH_HYUN_ROK] = {
-		SkillName = "Comunión con Hyunrok"
+		SkillName = "Pacto del Ciervo"
 	},
 	[SKID.SH_COLORS_OF_HYUN_ROK] = {
 		SkillName = "Colores de Hyunrok"
 	},
 	[SKID.SH_HYUN_ROKS_BREEZE] = {
-		SkillName = "Brisa de Hyunrok"
+		SkillName = "Brisa Silvestre"
 	},
 	[SKID.SH_HYUN_ROK_CANNON] = {
-		SkillName = "Cañón de Hyunrok"
+		SkillName = "Lanza Ramificada"
 	},
 	[SKID.SH_TEMPORARY_COMMUNION] = {
-		SkillName = "Comunión temporal"
+		SkillName = "Comunión Temporal"
 	},
 	[SKID.SH_BLESSING_OF_MYSTICAL_CREATURES] = {
-		SkillName = "Bendición de Criaturas Místicas"
+		SkillName = "Bendición de la Naturaleza"
 	},
 	[SKID.HN_SELFSTUDY_TATICS] = {
-		SkillName = "Tácticas de Autoaprendizaje"
+		SkillName = "Físico Autodidacta"
 	},
 	[SKID.HN_SELFSTUDY_SOCERY] = {
 		SkillName = "Hechicería Autodidacta"
@@ -3593,59 +3596,53 @@ SkillInfoList_string = {
 		SkillName = "Mega Impacto Sónico"
 	},
 	[SKID.HN_SHIELD_CHAIN_RUSH] = {
-		SkillName = "Ráfaga de Escudos en Cadena"
+		SkillName = "Impacto Violento"
 	},
 	[SKID.HN_SPIRAL_PIERCE_MAX] = {
-		SkillName = "Perforación Máxima en Espiral"
+		SkillName = "Espiral Perforante Máxima"
 	},
 	[SKID.HN_METEOR_STORM_BUSTER] = {
-		SkillName = "Buster de Tormenta de Meteoros"
+		SkillName = "Tormenta de Meteoritos"
 	},
 	[SKID.HN_JUPITEL_THUNDER_STORM] = {
-		SkillName = "Tormenta de Rayo de Jupitel"
+		SkillName = "Tormenta de Júpiter"
 	},
 	[SKID.HN_JACK_FROST_NOVA] = {
-		SkillName = "Nova de Jack Escarcha"
+		SkillName = "Esfera Gélida"
 	},
 	[SKID.HN_HELLS_DRIVE] = {
 		SkillName = "Furia Infernal"
 	},
 	[SKID.HN_GROUND_GRAVITATION] = {
-		SkillName = "Gravitación Terrestre"
+		SkillName = "Zona Gravitacional"
 	},
 	[SKID.HN_NAPALM_VULCAN_STRIKE] = {
-		SkillName = "Golpe de Vulcano Napalm"
+		SkillName = "Espectro Napalm"
 	},
 	[SKID.HN_BREAKINGLIMIT] = {
-		SkillName = "Romper los Límites"
+		SkillName = "Ángel del Poder"
 	},
 	[SKID.HN_RULEBREAK] = {
-		SkillName = "Romper las Reglas"
+		SkillName = "Ángel de la Magia"
 	},
 	[SKID.SKE_SKY_MASTERY] = {
-		SkillName = "Maestría del Cielo"
+		SkillName = "Maestría Celestial"
 	},
 	[SKID.SKE_WAR_BOOK_MASTERY] = {
 		SkillName = "Maestría del Libro de Guerra"
 	},
-	[SKID.SKE_RISING_SUN] = {
-		SkillName = "Salida del Sol"
-	},
+	[SKID.SKE_RISING_SUN] = {SkillName = "Amanecer"},
 	[SKID.SKE_NOON_BLAST] = {
-		SkillName = "Ráfaga del Mediodía"
+		SkillName = "Explosión del Atardecer"
 	},
 	[SKID.SKE_SUNSET_BLAST] = {
-		SkillName = "Ráfaga del Crepúsculo"
+		SkillName = "Explosión del Crepúsculo"
 	},
-	[SKID.SKE_RISING_MOON] = {
-		SkillName = "Salida de la Luna"
-	},
+	[SKID.SKE_RISING_MOON] = {SkillName = "Anochecer"},
 	[SKID.SKE_MIDNIGHT_KICK] = {
 		SkillName = "Patada de Medianoche"
 	},
-	[SKID.SKE_DAWN_BREAK] = {
-		SkillName = "Descanso al Amanecer"
-	},
+	[SKID.SKE_DAWN_BREAK] = {SkillName = "Alborada"},
 	[SKID.SKE_TWINKLING_GALAXY] = {
 		SkillName = "Galaxia Centelleante"
 	},
@@ -3655,9 +3652,7 @@ SkillInfoList_string = {
 	[SKID.SKE_STAR_CANNON] = {
 		SkillName = "Cañón Estelar"
 	},
-	[SKID.SKE_ALL_IN_THE_SKY] = {
-		SkillName = "Todo en el Cielo"
-	},
+	[SKID.SKE_ALL_IN_THE_SKY] = {SkillName = "Firmamento"},
 	[SKID.SKE_ENCHANTING_SKY] = {
 		SkillName = "Cielo Encantador"
 	},
@@ -3668,7 +3663,7 @@ SkillInfoList_string = {
 		SkillName = "Infiltrarse"
 	},
 	[SKID.SS_AKUMUKESU] = {
-		SkillName = "Eliminación de Pesadillas"
+		SkillName = "Devorar Pesadilla"
 	},
 	[SKID.SS_SHINKIROU] = {SkillName = "Espejismo"},
 	[SKID.SS_KAGEGARI] = {
@@ -3720,10 +3715,10 @@ SkillInfoList_string = {
 		SkillName = "Dragón Oscuro: Pesadilla"
 	},
 	[SKID.NW_THE_VIGILANTE_AT_NIGHT_GUN_GATLING] = {
-		SkillName = "El Justiciero de Noche"
+		SkillName = "Vigilia Nocturna"
 	},
 	[SKID.NW_THE_VIGILANTE_AT_NIGHT_GUN_SHOTGUN] = {
-		SkillName = "El Justiciero de Noche"
+		SkillName = "Vigilia Nocturna"
 	},
 	[SKID.HLIF_HEAL] = {
 		SkillName = "Manos Sanadoras"
@@ -3737,7 +3732,9 @@ SkillInfoList_string = {
 	[SKID.HLIF_CHANGE] = {
 		SkillName = "Carga Mental"
 	},
-	[SKID.HAMI_CASTLE] = {SkillName = "Enroque"},
+	[SKID.HAMI_CASTLE] = {
+		SkillName = "Cambio de Lugar"
+	},
 	[SKID.HAMI_DEFENCE] = {
 		SkillName = "Bastión de Amistr"
 	},
@@ -4063,7 +4060,7 @@ SkillInfoList_string = {
 		SkillName = "Ataque de huracán"
 	},
 	[SKID.EL_TYPOON_MIS] = {
-		SkillName = "Niebla tifónica"
+		SkillName = "Niebla Tifónica"
 	},
 	[SKID.EL_TYPOON_MIS_ATK] = {
 		SkillName = "Ataque de Niebla tifónica"

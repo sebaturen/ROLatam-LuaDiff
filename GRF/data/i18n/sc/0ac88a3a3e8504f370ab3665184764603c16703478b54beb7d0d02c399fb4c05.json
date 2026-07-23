@@ -45,9 +45,9 @@
         "es-ES": "[Mishuna] \nEn el pasado ocurrió la rebelión de mercenarios y la residencia del Gran Sabio Varmunt se incendió, perdiéndose un montón de conocimiento. Pienso que es una gran suerte haberlo encontrado, aunque sea así."
     },
     "6XI2Aw": {
-        "en-US": "[Mishuna] \nSo… are you ready to learn this new knowledge?",
-        "pt-BR": "[Mishuna] \nEntão… você está pronto para aprender esses novos conhecimentos?",
-        "es-ES": "[Mishuna] \nAsí que… ¿estáis listos para aprender este nuevo conocimiento?"
+        "en-US": "[Mishuna] \nSo... are you ready to learn this new knowledge?",
+        "pt-BR": "[Mishuna] \nEntão... você está pronto para aprender esses novos conhecimentos?",
+        "es-ES": "[Mishuna] \nAsí que... ¿estáis listos para aprender este nuevo conocimiento?"
     },
     "6nI2Aw": {
         "en-US": "I’ll learn it later.",
@@ -60,9 +60,9 @@
         "es-ES": "Sí. Por favor, enséñame ese nuevo conocimiento."
     },
     "7HI2Aw": {
-        "en-US": "[Mishuna] \nAh… I see you seem busy with something else right now. I understand. Then please do so. If and when you’re ready to learn, you can talk to me anytime. Have a good day.",
-        "pt-BR": "[Mishuna] \nAh… parece que você está ocupado com outras coisas agora. Tudo bem. Então faça isso. Quando estiver pronto para aprender, é só me procurar a qualquer momento. Tenha um bom dia.",
-        "es-ES": "[Mishuna] \nAh… veo que ahora mismo estaréis ocupados con otras cosas. Está bien. Entonces hacedlo así. Si os veis listos para aprender, podéis hablar conmigo cuando queráis. Que tengáis un buen día."
+        "en-US": "[Mishuna] \nAh... I see you seem busy with something else right now. I understand. Then please do so. If and when you’re ready to learn, you can talk to me anytime. Have a good day.",
+        "pt-BR": "[Mishuna] \nAh... parece que você está ocupado com outras coisas agora. Tudo bem. Então faça isso. Quando estiver pronto para aprender, é só me procurar a qualquer momento. Tenha um bom dia.",
+        "es-ES": "[Mishuna] \nAh... veo que ahora mismo estaréis ocupados con otras cosas. Está bien. Entonces hacedlo así. Si os veis listos para aprender, podéis hablar conmigo cuando queráis. Que tengáis un buen día."
     },
     "7XI2Aw": {
         "en-US": "[Mishuna] \nFirst, what you must learn is the ^FF0000Converter Manufacturing^000000 skill, which is needed to use the Elemental Change skill. Without an elemental converter, you can’t use ^FF0000Elemental Change^000000 either—so this is an absolutely necessary skill.",
@@ -141,8 +141,8 @@
     },
     "/HI2Aw": {
         "en-US": "[Mishuna] \nThe remaining skill now is the ^FF0000Elemental Change^000000 skill, which changes a monster’s attribute using a converter... but I’ll go eat for a moment and come back. If you’re ready to learn the skill, please talk to me again later.",
-        "pt-BR": "[Mishuna] \nAgora, a habilidade restante é a ^FF0000Mudança Elemental^000000, que muda o atributo dos monstros usando um conversor… mas vou comer rapidinho e volto. Se você estiver pronto para aprender a habilidade, fale comigo de novo mais tarde.",
-        "es-ES": "[Mishuna] \nAhora, la habilidad que falta es ^FF0000Cambio Elemental^000000, que cambia el atributo de los monstruos usando el convertidor… pero ahora comeré algo y volveré. Si estáis listos para aprender la habilidad, volved a hablarme más tarde."
+        "pt-BR": "[Mishuna] \nAgora, a habilidade restante é a ^FF0000Mudança Elemental^000000, que muda o atributo dos monstros usando um conversor... mas vou comer rapidinho e volto. Se você estiver pronto para aprender a habilidade, fale comigo de novo mais tarde.",
+        "es-ES": "[Mishuna] \nAhora, la habilidad que falta es ^FF0000Cambio Elemental^000000, que cambia el atributo de los monstruos usando el convertidor... pero ahora comeré algo y volveré. Si estáis listos para aprender la habilidad, volved a hablarme más tarde."
     },
     "/XI2Aw": {
         "en-US": "[Mishuna] \nThanks for all your hard work learning the skills~!",
@@ -295,9 +295,9 @@
         "es-ES": "[Mishuna] \nComo con ^FF0000Fabricación de Convertidores^000000, recordad que la tasa de éxito varía según la capacidad del invocador."
     },
     "G3M2Aw": {
-        "en-US": "[Mishuna] \nAlright… Now I’ll recite the incantation to imprint the ^FF0000Fire-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
-        "pt-BR": "[Mishuna] \nCerto… Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Fogo^000000 em Sage {0}. Por um momento, não mexa o corpo.",
-        "es-ES": "[Mishuna] \nBien… Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Fuego^000000 en el Sage {0}. Por un momento, no te muevas."
+        "en-US": "[Mishuna] \nAlright... Now I’ll recite the incantation to imprint the ^FF0000Fire-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
+        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Fogo^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "es-ES": "[Mishuna] \nBien... Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Fuego^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "HHM2Aw": {
         "en-US": "As Mishuna began to recite the incantation, a mysterious blue light began to swirl around the body.",
@@ -335,9 +335,9 @@
         "es-ES": "[Mishuna] \n¡Habéis conseguido todos los materiales! Como prometimos, os enseñar é la habilidad ^FF0000Cambio Elemental de Tierra^000000."
     },
     "I3M2Aw": {
-        "en-US": "[Mishuna] \nAlright… Now I’ll recite the incantation to imprint the ^FF0000Earth-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
-        "pt-BR": "[Mishuna] \nCerto… Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Terra^000000 em Sage {0}. Por um momento, não mexa o corpo.",
-        "es-ES": "[Mishuna] \nBien… Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Tierra^000000 en el Sage {0}. Por un momento, no te muevas."
+        "en-US": "[Mishuna] \nAlright... Now I’ll recite the incantation to imprint the ^FF0000Earth-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
+        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Terra^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "es-ES": "[Mishuna] \nBien... Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Tierra^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "JHM2Aw": {
         "en-US": "[Mishuna] \nThe Earth-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
@@ -350,9 +350,9 @@
         "es-ES": "[Mishuna] \n¡Habéis conseguido todos los materiales! Como prometimos, os enseñar é la habilidad ^FF0000Cambio Elemental de Viento^000000."
     },
     "JnM2Aw": {
-        "en-US": "[Mishuna] \nAlright… Now I’ll recite the incantation to imprint the ^FF0000Wind-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
-        "pt-BR": "[Mishuna] \nCerto… Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Vento^000000 em Sage {0}. Por um momento, não mexa o corpo.",
-        "es-ES": "[Mishuna] \nBien… Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Viento^000000 en el Sage {0}. Por un momento, no te muevas."
+        "en-US": "[Mishuna] \nAlright... Now I’ll recite the incantation to imprint the ^FF0000Wind-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
+        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Vento^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "es-ES": "[Mishuna] \nBien... Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Viento^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "J3M2Aw": {
         "en-US": "[Mishuna] \nThe Wind-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
@@ -365,9 +365,9 @@
         "es-ES": "[Mishuna] \n¡Habéis conseguido todos los materiales! Como prometimos, os enseñar é la habilidad ^FF0000Cambio Elemental de Agua^000000."
     },
     "KXM2Aw": {
-        "en-US": "[Mishuna] \nAlright… Now I’ll recite the incantation to imprint the ^FF0000Water-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
-        "pt-BR": "[Mishuna] \nCerto… Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Água^000000 em Sage {0}. Por um momento, não mexa o corpo.",
-        "es-ES": "[Mishuna] \nBien… Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Agua^000000 en el Sage {0}. Por un momento, no te muevas."
+        "en-US": "[Mishuna] \nAlright... Now I’ll recite the incantation to imprint the ^FF0000Water-Elemental Change^000000 skill upon Sage {0}. For a moment, don’t move your body.",
+        "pt-BR": "[Mishuna] \nCerto... Agora eu vou recitar a invocação para gravar a habilidade ^FF0000Mudança Elemental de Água^000000 em Sage {0}. Por um momento, não mexa o corpo.",
+        "es-ES": "[Mishuna] \nBien... Ahora recitaré el conjuro para grabar la habilidad ^FF0000Cambio Elemental de Agua^000000 en el Sage {0}. Por un momento, no te muevas."
     },
     "KnM2Aw": {
         "en-US": "[Mishuna] \nThe Water-Elemental skill has been imprinted upon Sage {0}. I hope you’ll use it effectively from now on. Farewell~!",
@@ -376,8 +376,8 @@
     },
     "K3M2Aw": {
         "en-US": "[Mishuna] \nAhh! Looks like you forgot the knowledge I taught you back then. Still, since you once learned it, if I just remind you a little, it’ll come back to you right away.",
-        "pt-BR": "[Mishuna] \nAhh… Parece que você esqueceu os conhecimentos que eu te ensinei antes. Mas como você já aprendeu uma vez, se eu só te mostrar um pouco, você vai lembrar rapidinho.",
-        "es-ES": "[Mishuna] \nAhh… Parece que habéis olvidado los conocimientos que os enseñé antes. Aunque sea, como ya lo aprendisteis una vez, si os digo un poco, lo recordaréis enseguida."
+        "pt-BR": "[Mishuna] \nAhh... Parece que você esqueceu os conhecimentos que eu te ensinei antes. Mas como você já aprendeu uma vez, se eu só te mostrar um pouco, você vai lembrar rapidinho.",
+        "es-ES": "[Mishuna] \nAhh... Parece que habéis olvidado los conocimientos que os enseñé antes. Aunque sea, como ya lo aprendisteis una vez, si os digo un poco, lo recordaréis enseguida."
     },
     "LHM2Aw": {
         "en-US": "[Mishuna] \nThat said, the attribute skill you’re learning now may be different from before, so you must choose the attribute for ^FF0000Elemental Change^000000 again.",
@@ -465,9 +465,9 @@
         "es-ES": "[Mishuna] \nSi hay algún Sage cerca que todavía no haya aprendido el nuevo conocimiento, dadle un recado para que venga a verme. Y deseo que aprovecheis bien los conocimientos que os enseñé antes."
     },
     "PXM2Aw": {
-        "en-US": "[Mishuna] \nHello. I’m Sage Mishuna, affiliated with the University of Schwerzeirvil. Are you… not a Sage?",
-        "pt-BR": "[Mishuna] \nOlá. Eu sou a Sage Mishuna, da Universidade de Schwerzeirvil. Você não será… um Sage?",
-        "es-ES": "[Mishuna] \nHola. Soy la Sage Mishuna, de la Universidad de Schwerzeirvil. ¿No serás… un Sage?"
+        "en-US": "[Mishuna] \nHello. I’m Sage Mishuna, affiliated with the University of Schwerzeirvil. Are you... not a Sage?",
+        "pt-BR": "[Mishuna] \nOlá. Eu sou a Sage Mishuna, da Universidade de Schwerzeirvil. Você não será... um Sage?",
+        "es-ES": "[Mishuna] \nHola. Soy la Sage Mishuna, de la Universidad de Schwerzeirvil. ¿No serás... un Sage?"
     },
     "PnM2Aw": {
         "en-US": "[Mishuna] \n......",
@@ -485,8 +485,8 @@
         "es-ES": "[Mishuna] \nSi hay un Sage por aquí cerca, ¿podríais decirle que la Sage Mishuna de la Universidad de Schwerzeirvil lo está buscando?"
     },
     "QXM2Aw": {
-        "en-US": "[Mishuna] \nI’m truly sorry for the inconvenience. Then… have a good day!",
-        "pt-BR": "[Mishuna] \nDesculpe de verdade por todo. Então… tenha um bom dia!",
-        "es-ES": "[Mishuna] \nDe verdad, discúlpenme por la molestia. ¡Entonces… que tengáis un buen día!"
+        "en-US": "[Mishuna] \nI’m truly sorry for the inconvenience. Then... have a good day!",
+        "pt-BR": "[Mishuna] \nDesculpe de verdade por todo. Então... tenha um bom dia!",
+        "es-ES": "[Mishuna] \nDe verdad, discúlpenme por la molestia. ¡Entonces... que tengáis un buen día!"
     }
 }

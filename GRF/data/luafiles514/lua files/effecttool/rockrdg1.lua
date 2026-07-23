@@ -1,3 +1,4 @@
+
 _rockrdg1_effect_version = 2
 _rockrdg1_emitterInfo = {
 	[0] = {

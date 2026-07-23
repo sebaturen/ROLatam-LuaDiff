@@ -1,0 +1,472 @@
+{
+    "YDxMDQ": {
+        "en-US": "Grape",
+        "pt-BR": "Uvo",
+        "es-ES": "Uvo"
+    },
+    "YTxMDQ": {
+        "en-US": "<Super Novice Club>",
+        "pt-BR": "<Super Novice Club>",
+        "es-ES": "<Club de Superprincipiantes>"
+    },
+    "YjxMDQ": {
+        "en-US": "- You cannot proceed because you are carrying too many items. -",
+        "pt-BR": "- Você possui itens demais para prosseguir. -",
+        "es-ES": "- No puedes continuar porque llevas demasiados objetos. -"
+    },
+    "YzxMDQ": {
+        "en-US": "[Grape]\nHello, little friend!\nI'm asking just in case, but did you come here because you want to become a Hyper Novice?",
+        "pt-BR": "[Uvo]\nOlá, pequeno amigo!\nSó estou perguntando por via das dúvidas: você veio porque quer se tornar um Hiperaprendiz?",
+        "es-ES": "[Uvo]\n¡Hola!\nTe pregunto por si acaso: ¿has venido porque quieres convertirte en Hiperprincipiante?"
+    },
+    "ZDxMDQ": {
+        "en-US": "Yeah.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí."
+    },
+    "ZTxMDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
+    },
+    "ZjxMDQ": {
+        "en-US": "[Grape]\nOh... I see. Sorry for talking to you. Take care.",
+        "pt-BR": "[Uvo]\nAh... Entendi. Desculpe por falar com você. Até mais.",
+        "es-ES": "[Uvo]\nAh... ya veo. Perdona por hablarte. Que te vaya bien."
+    },
+    "ZzxMDQ": {
+        "en-US": "[Grape]\nDue to various circumstances, children cannot become Hyper Novice.",
+        "pt-BR": "[Uvo]\nPor diversos motivos, crianças não podem se tornar Hiperaprendizes.",
+        "es-ES": "[Uvo]\nPor diversos motivos, los niños no pueden convertirse en Hiperprincipiantes."
+    },
+    "aDxMDQ": {
+        "en-US": "[Grape]\nBut if you want, I can introduce you to someone who may be able to help. What do you think?",
+        "pt-BR": "[Uvo]\nEm vez disso, se quiser, posso apresentar alguém que talvez possa ajudar. O que acha?",
+        "es-ES": "[Uvo]\nEn su lugar, si quieres, puedo presentarte a alguien que te podría ayudar. ¿Qué te parece?"
+    },
+    "aTxMDQ": {
+        "en-US": "Introduce me.",
+        "pt-BR": "Apresente-me.",
+        "es-ES": "Preséntamela."
+    },
+    "ajxMDQ": {
+        "en-US": "I'm fine.",
+        "pt-BR": "Não precisa.",
+        "es-ES": "No hace falta."
+    },
+    "azxMDQ": {
+        "en-US": "[Grape]\nAll right. Then I wish you luck.",
+        "pt-BR": "[Uvo]\nEntendi. Então desejo boa sorte.",
+        "es-ES": "[Uvo]\nDe acuerdo. Entonces te deseo suerte."
+    },
+    "bDxMDQ": {
+        "en-US": "[Grape]\nMiss Emily will help you. See you again.",
+        "pt-BR": "[Uvo]\nA Srta. Emily vai ajudar você. Até mais.",
+        "es-ES": "[Uvo]\nLa señorita Emily te ayudará. Nos vemos."
+    },
+    "bTxMDQ": {
+        "en-US": "[Grape]\nI sense the scent of freedom from you.",
+        "pt-BR": "[Uvo]\nSinto em você o aroma da liberdade.",
+        "es-ES": "[Uvo]\nSiento que tienes olor a libertad."
+    },
+    "bjxMDQ": {
+        "en-US": "From my body...",
+        "pt-BR": "Do meu corpo...",
+        "es-ES": "Que tengo..."
+    },
+    "bzxMDQ": {
+        "en-US": "Do I smell?",
+        "pt-BR": "Eu tô fedendo?",
+        "es-ES": "¿Tengo mal olor?"
+    },
+    "cDxMDQ": {
+        "en-US": "[Grape]\nNo... That's not what I meant...",
+        "pt-BR": "[Uvo]\nNão... Não foi isso que eu quis dizer...",
+        "es-ES": "[Uvo]\nNo... No quise decir eso..."
+    },
+    "cTxMDQ": {
+        "en-US": "[Grape]\nI-I'm sorry.\nI was just glad to meet a Super Novice in Aldebaran after so long...",
+        "pt-BR": "[Uvo]\nDes... Desculpe.\nFiquei feliz por encontrar um Superaprendiz em Al De Baran depois de tanto tempo, e acabei dizendo isso...",
+        "es-ES": "[Uvo]\nLo... lo siento.\nSolo me alegré porque hacía mucho que no veía a un Superprincipiante en Aldebaran..."
+    },
+    "cjxMDQ": {
+        "en-US": "[Grape]\nI didn't mean to be rude... Hahahaha!",
+        "pt-BR": "[Uvo]\nAcabei sendo inconveniente sem querer... Hahahaha!",
+        "es-ES": "[Uvo]\nNo quise sonar maleducado... ¡Ja, ja, ja!"
+    },
+    "czxMDQ": {
+        "en-US": "[Grape]\nSince meeting like this must be fate, has anything been troubling you lately?",
+        "pt-BR": "[Uvo]\nJá que nos encontramos por algum destino, há algo que tem incomodado você ultimamente?",
+        "es-ES": "[Uvo]\nEncontrarnos así debe ser obra del destino, dime ¿hay algo que te haya estado dando problemas últimamente?"
+    },
+    "dDxMDQ": {
+        "en-US": "[Grape]\nI may not look like much, but I've been around this field quite a bit, so I can pull some weight.",
+        "pt-BR": "[Uvo]\nApesar das aparências, tenho bastante experiência por aqui, então consigo dar uma ajudinha.",
+        "es-ES": "[Uvo]\nAunque no lo parezca, llevo bastante tiempo moviéndome en este mundillo y tengo cierta influencia."
+    },
+    "dTxMDQ": {
+        "en-US": "[Grape]\nThings like lamenting the plight of a Super Novice stuck hard at 200, for example.",
+        "pt-BR": "[Uvo]\nCoisas como lamentar a situação de um Superaprendiz travado no 200, por exemplo.",
+        "es-ES": "[Uvo]\nMe refiero a cosas como lamentar la situación de un Superprincipiante atascado de golpe en el nivel 200."
+    },
+    "djxMDQ": {
+        "en-US": "Lately...",
+        "pt-BR": "Ultimamente...",
+        "es-ES": "Últimamente..."
+    },
+    "dzxMDQ": {
+        "en-US": "Lately, being excluded from missions because I'm a Novice has become a daily thing. It's always been like that, so it doesn't even feel new anymore.",
+        "pt-BR": "Ultimamente, ser excluído de missões por ser Aprendiz virou rotina. É algo tão comum que nem é novidade.",
+        "es-ES": "Últimamente es normal que me excluyan de las misiones por ser Principiante. Como siempre ha sido así, ni siquiera es algo nuevo."
+    },
+    "eDxMDQ": {
+        "en-US": "[Grape]\nOh dear, you must have had a rough time.",
+        "pt-BR": "[Uvo]\nNossa, você deve ter sofrido muito com isso.",
+        "es-ES": "[Uvo]\nAy, cosita, debe haber sido díficil para ti."
+    },
+    "eTxMDQ": {
+        "en-US": "Somehow...",
+        "pt-BR": "Isso soa...",
+        "es-ES": "De alguna forma..."
+    },
+    "ejxMDQ": {
+        "en-US": "Somehow, I feel like I'm being teased. Is it just me?",
+        "pt-BR": "Isso soa meio sarcástico. É impressão minha, não é?",
+        "es-ES": "De alguna forma siento que te estás burlando de mí. ¿Es idea mía?"
+    },
+    "ezxMDQ": {
+        "en-US": "[Grape]\nHahahaha! Of course not. I'm a Super Novice too. I know exactly how that feels.",
+        "pt-BR": "[Uvo]\nHahahaha! Claro que não. Eu também sou um Superaprendiz. Conheço muito bem esse sentimento.",
+        "es-ES": "[Uvo]\n¡Ja, ja, ja! Claro que no. Yo también soy Superprincipiante. Entiendo muy bien cómo se siente."
+    },
+    "fDxMDQ": {
+        "en-US": "[Grape]\nThat's why I'm asking. Are you perhaps interested in becoming a 『Hyper Novice』?",
+        "pt-BR": "[Uvo]\nÉ por isso que digo: você teria interesse em se tornar um 『Hiperaprendiz』?",
+        "es-ES": "[Uvo]\nPor eso pregunto: ¿Quizás tienes interés en convertirte en『Hiperprincipiante』?"
+    },
+    "fTxMDQ": {
+        "en-US": "Hyper Novice?",
+        "pt-BR": "Hiperaprendiz?",
+        "es-ES": "¿Hiperprincipiante?"
+    },
+    "fjxMDQ": {
+        "en-US": "Hyper Novice?",
+        "pt-BR": "Hiperaprendiz?",
+        "es-ES": "¿Hiperprincipiante?"
+    },
+    "fzxMDQ": {
+        "en-US": "[Grape]\nThe Super Novice among Super Novice! You could say it's a group of successful elite Novices.",
+        "pt-BR": "[Uvo]\nUm Superaprendiz entre os Superaprendizes! Digamos que é um grupo formado por Aprendizes de elite bem-sucedidos.",
+        "es-ES": "[Uvo]\n¡El Superprincipiante entre los Superprincipiantes! Podría decirse que es un grupo de Principiantes de élite que han triunfado."
+    },
+    "gDxMDQ": {
+        "en-US": "[Grape]\nHyper Novice, who looks back on the past, pioneers the future, and keeps moving forward!",
+        "pt-BR": "[Uvo]\nHiperaprendiz, aqueles que olham para o passado, desbravam o futuro e seguem evoluindo!",
+        "es-ES": "[Uvo]\n¡Un Hiperprincipiante mira al pasado, abre camino al futuro y sigue avanzando!"
+    },
+    "gTxMDQ": {
+        "en-US": "[Grape]\nAh~ Hyper~ Doesn't it sound so much better than Super?",
+        "pt-BR": "[Uvo]\nAh~ Hiper~ Não soa muito melhor que Super?",
+        "es-ES": "[Uvo]\nUf, Hiper, ¿no suena muchísimo mejor que Super?"
+    },
+    "gjxMDQ": {
+        "en-US": "[Grape]\nIf Super becomes Hyper, doesn't it feel like your troubles might get solved along with it?",
+        "pt-BR": "[Uvo]\nQuando o Super se torna Hiper, parece que suas preocupações também serão resolvidas junto, não parece?",
+        "es-ES": "[Uvo]\nSi un Super puede volverse un Hiper, ¿no crees que eso resolvería tus preocupaciones?"
+    },
+    "gzxMDQ": {
+        "en-US": "[Grape]\nHehehe! That's enough of my sales pitch!\nThe look on your face right now says, 'I'm not buying. I'm busy right now.'",
+        "pt-BR": "[Uvo]\nHehehe! O papo de vendedor acaba por aqui!\nSeu rosto agora está exatamente com aquela expressão de 'Não vou comprar. Estou ocupado'.",
+        "es-ES": "[Uvo]\n¡Je, je, je! ¡Hasta aquí llegué con la presentación!\nAhora mismo tienes cara de \"No, gracias. No tengo tiempo ahora, no me interesa\"."
+    },
+    "hDxMDQ": {
+        "en-US": "[Grape]\nGo think it over, and if you become interested in Hyper Novice, come find me again then.",
+        "pt-BR": "[Uvo]\nVá pensar bem e, se passar a se interessar por Hiperaprendiz, volte a me procurar.",
+        "es-ES": "[Uvo]\nTómate tu tiempo, piénsalo bien y, si te interesa ser Hiperprincipiante, me vienes a buscar de nuevo."
+    },
+    "hTxMDQ": {
+        "en-US": "[Grape]\nYou've made up your mind quickly. Are you sure you've thought it over enough?",
+        "pt-BR": "[Uvo]\nVocê decide rápido. Tem certeza de que pensou bastante?",
+        "es-ES": "[Uvo]\n¡Qué rápido cambiaste de idea! ¿Tienes seguridad de que lo has pensado lo suficiente?"
+    },
+    "hjxMDQ": {
+        "en-US": "[Grape]\nAre you sure you've thought it over enough?",
+        "pt-BR": "[Uvo]\nTem certeza de que pensou bastante?",
+        "es-ES": "[Uvo]\n¿Seguro que lo has pensado lo suficiente?"
+    },
+    "hzxMDQ": {
+        "en-US": "[Grape]\nI'll trust you and continue the explanation. First, I will send you to a space remembered by a certain Super Novice.",
+        "pt-BR": "[Uvo]\nVou confiar em você e continuar a explicação. Primeiro, vou enviá-lo a um espaço lembrado por certo Superaprendiz.",
+        "es-ES": "[Uvo]\nConfiaré en ti y continuaré con la explicación. Primero te enviaré a un lugar que le trae recuerdos a cierto Superprincipiante."
+    },
+    "iDxMDQ": {
+        "en-US": "[Grape]\nWhether you gain something from that space is up to you. Whether you simply leave is also up to you.",
+        "pt-BR": "[Uvo]\nFique à vontade para pegar algo de lá. Ou para simplesmente sair.",
+        "es-ES": "[Uvo]\nSi ganas algo o no en aquel lugar, dependerá de ti. Si simplemente te vas, también dependerá de ti."
+    },
+    "iTxMDQ": {
+        "en-US": "The test...",
+        "pt-BR": "O teste...",
+        "es-ES": "La prueba..."
+    },
+    "ijxMDQ": {
+        "en-US": "Is that all there is to the test?",
+        "pt-BR": "O teste é só isso?",
+        "es-ES": "¿Eso es toda la prueba?"
+    },
+    "izxMDQ": {
+        "en-US": "[Grape]\nIt is not a test. Think about it.",
+        "pt-BR": "[Uvo]\nNão é um teste. Pense bem.",
+        "es-ES": "[Uvo]\nNo es una prueba. Piénselo."
+    },
+    "jDxMDQ": {
+        "en-US": "[Grape]\nThe free-spirited mindset of a Super Novice you have shown until now.",
+        "pt-BR": "[Uvo]\nAté agora, o espírito livre do Superaprendiz está bem à mostra.",
+        "es-ES": "[Uvo]\nLa mente de un espíritu libre, propia de un Superprincipiante, que has demostrado hasta ahora."
+    },
+    "jTxMDQ": {
+        "en-US": "[Grape]\nThe perseverance to devote yourself to one thing.",
+        "pt-BR": "[Uvo]\nA perseverança de se aprofundar em uma coisa.",
+        "es-ES": "[Uvo]\nLa perseverancia para dedicarte a una sola cosa."
+    },
+    "jjxMDQ": {
+        "en-US": "[Grape]\nThe heart to share with those in need.",
+        "pt-BR": "[Uvo]\nO coração capaz de compartilhar com quem passa por dificuldades.",
+        "es-ES": "[Uvo]\nEl corazón para compartir con quienes lo necesitan."
+    },
+    "jzxMDQ": {
+        "en-US": "[Grape]\nAnd your outstanding spirit of adventure. Have they not all been tested in many ways by many different friends?",
+        "pt-BR": "[Uvo]\nE o excelente espírito de aventura. Tudo isso já não foi verificado por diversos amigos, de várias formas?",
+        "es-ES": "[Uvo]\nY tu destacado espíritu aventurero. ¿Acaso no fueron comprobados de diversas formas por muchas amistades distintas?"
+    },
+    "kDxMDQ": {
+        "en-US": "[Grape]\nI believe you have already taken more than enough tests. Wouldn't you agree?",
+        "pt-BR": "[Uvo]\nAcho que você já passou por testes mais do que suficientes até agora. Não acha?",
+        "es-ES": "[Uvo]\nCreo que ya has superado pruebas de sobra hasta ahora. ¿No es así?"
+    },
+    "kTxMDQ": {
+        "en-US": "That is...",
+        "pt-BR": "É verdade...",
+        "es-ES": "Eso es..."
+    },
+    "kjxMDQ": {
+        "en-US": "That is true.",
+        "pt-BR": "É verdade.",
+        "es-ES": "Eso es cierto."
+    },
+    "kzxMDQ": {
+        "en-US": "[Grape]\nThat should be enough explanation, right?",
+        "pt-BR": "[Uvo]\nAcho que isso deve ter sido explicação suficiente.",
+        "es-ES": "[Uvo]\nCon eso habrá quedado suficientemente explicado, ¿verdad?"
+    },
+    "lDxMDQ": {
+        "en-US": "[Grape]\nIn accordance with the ideals of Super Novice, who pursues freedom, we also respect the freedom of those who are satisfied with the present and choose to remain as they are.",
+        "pt-BR": "[Uvo]\nDe acordo com o ideal dos Superaprendizes, que buscam a liberdade, também respeitamos a liberdade daqueles que estão satisfeitos e acomodados no presente.",
+        "es-ES": "[Uvo]\nDe acuerdo con el ideal del Superprincipiante, que persigue la libertad, también respetamos la libertad de quienes se sienten satisfechos con el presente y eligen seguir como están."
+    },
+    "lTxMDQ": {
+        "en-US": "[Grape]\nIf you wish to challenge the path of Hyper Novice, finish your preparations, form a party by yourself, and then speak to me.",
+        "pt-BR": "[Uvo]\nSe quiser desafiar o caminho de Hiperaprendiz, termine seus preparativos, forme um grupo sem mais ninguém e fale comigo.",
+        "es-ES": "[Uvo]\nSi quieres entrar en el desafío del Hiperprincipiante, termina tus preparativos, crea un grupo por tu cuenta y habla conmigo."
+    },
+    "ljxMDQ": {
+        "en-US": "[Grape]\nOf course, not taking the challenge is also your freedom.",
+        "pt-BR": "[Uvo]\nÉ claro que você também pode não aceitar o desafio.",
+        "es-ES": "[Uvo]\nPor supuesto, también eres libre de no emprender el desafío."
+    },
+    "lzxMDQ": {
+        "en-US": "Memory of Super Novice",
+        "pt-BR": "Memória do Superaprendiz",
+        "es-ES": "Memoria del Superprincipiante"
+    },
+    "mDxMDQ": {
+        "en-US": "[Grape]\nDo you have something urgent to do?\nEven if you do, it can't be helped. Rest for a while, then try again.",
+        "pt-BR": "[Uvo]\nTem algum assunto urgente?\nMesmo que tenha, não há o que fazer. Descanse um pouco e tente novamente.",
+        "es-ES": "[Uvo]\n¿Tienes algún asunto urgente?\nAunque lo tengas, no hay nada que hacer. Descanss un momento y vuelve a intentarlo."
+    },
+    "mTxMDQ": {
+        "en-US": "[Grape]\nWill you challenge the path of Hyper Novice?",
+        "pt-BR": "[Uvo]\nDeseja desafiar o caminho de Hiperaprendiz?",
+        "es-ES": "[Uvo]\n¿Deseas emprender el desafío de Hiperprincipiante?"
+    },
+    "mjxMDQ": {
+        "en-US": "Apply for the challenge.",
+        "pt-BR": "Aceitar o desafio.",
+        "es-ES": "Solicitar el desafío."
+    },
+    "mzxMDQ": {
+        "en-US": "Challenge Hyper Novice!",
+        "pt-BR": "Desafiar o caminho de Hiperaprendiz!",
+        "es-ES": "¡Desafío de Hiperprincipiante!"
+    },
+    "nDxMDQ": {
+        "en-US": "Do not challenge.",
+        "pt-BR": "Não desafiar.",
+        "es-ES": "No desafiar."
+    },
+    "nTxMDQ": {
+        "en-US": "[Grape]\nAh! Could you wait a moment? It isn't easy to connect, perhaps because a problem has occurred.",
+        "pt-BR": "[Uvo]\nAh! Poderia esperar um momento? Parece que surgiu um problema, pois a conexão não está fácil.",
+        "es-ES": "[Uvo]\n¡Ah! ¿Podrías esperar un momento? Parece que ha surgido un problema y no resulta fácil establecer la conexión."
+    },
+    "njxMDQ": {
+        "en-US": "[Grape]\nThen I will prepare for you to seep into the memory of a Super Novice. Please wait a moment.",
+        "pt-BR": "[Uvo]\nEntão vou preparar tudo para que você possa se infiltrar na memória do Superaprendiz. Aguarde um momento.",
+        "es-ES": "[Uvo]\nEntonces prepararé todo para que pueda infiltrarse en la memoria del Superprincipiante. Espera un momento, por favor."
+    },
+    "nzxMDQ": {
+        "en-US": "[Grape]\nDidn't I tell you? I asked you to form a party by yourself before speaking to me.",
+        "pt-BR": "[Uvo]\nEu não disse? Pedi para formar um grupo sem mais ninguém e depois falar comigo.",
+        "es-ES": "[Uvo]\n¿No te lo dije? Le pedí que formara un grupo en solitario antes de hablar conmigo."
+    },
+    "oDxMDQ": {
+        "en-US": "{0} seeps into the memory of a Super Novice.",
+        "pt-BR": "{0} se infiltra na memória do Superaprendiz.",
+        "es-ES": "{0} se infiltra en la memoria del Superprincipiante."
+    },
+    "oTxMDQ": {
+        "en-US": "[Grape]\nPreparations are still underway. Please wait a moment.",
+        "pt-BR": "[Uvo]\nAinda estou preparando. Aguarde um momento.",
+        "es-ES": "[Uvo]\nAún estamos preparando todo. Espere un momento, por favor."
+    },
+    "ojxMDQ": {
+        "en-US": "[Grape]\nNot taking the challenge is also your freedom.",
+        "pt-BR": "[Uvo]\nÉ claro que você também pode não aceitar o desafio.",
+        "es-ES": "[Uvo]\nTambién eres libre de no emprender el desafío."
+    },
+    "ozxMDQ": {
+        "en-US": "[Grape]\nYou're standing so high up that it's hard for me to look up at you. Could you please come down?",
+        "pt-BR": "[Uvo]\nVocê está em um lugar tão alto que é difícil olhar para cima. Poderia descer?",
+        "es-ES": "[Uvo]\nEstás en un lugar demasiado alto y me cuesta mirar hacia arriba. ¿Podrías bajar?"
+    },
+    "pDxMDQ": {
+        "en-US": "[Grape]\nOur Super Novice Club does pursue freedom, but when arming yourself with a new kind of freedom, you should at least use up your existing Skill Points.",
+        "pt-BR": "[Uvo]\nNosso Clube dos Superaprendizes busca a liberdade, mas, ao nos equiparmos com uma nova liberdade, ao menos usamos todos os pontos de habilidade existentes.",
+        "es-ES": "[Uvo]\nEs cierto que nuestro Club de Superprincipiantes persigue la libertad, pero cuando consigues un nuevo tipo de libertad, al menos deberías usar todos tus puntos de habilidad."
+    },
+    "pTxMDQ": {
+        "en-US": "[Grape]\nYou're back? Whew, maybe because I saw you in the memory of the Super Novice you just visited, you already feel like a friend now.",
+        "pt-BR": "[Uvo]\nVocê voltou? Ufa, talvez por eu ter visto você também dentro da memória do Superaprendiz de onde voltou, agora parece que somos amigos próximos.",
+        "es-ES": "[Uvo]\n¿Ya has vuelto? Uf, quizá sea porque te vi en la memoria del Superprincipiante, pero ya te siento que tenemos una amistad."
+    },
+    "pjxMDQ": {
+        "en-US": "[Grape]\nI may end up speaking casually and formally at random...",
+        "pt-BR": "[Uvo]\nÀs vezes eu falo de modo informal e às vezes de modo formal...",
+        "es-ES": "[Uvo]\nA veces hablo en confianza y a veces me pongo formal..."
+    },
+    "pzxMDQ": {
+        "en-US": "[Grape]\nIt's because my past self in the memory and my current self are all mixed together. Please understand. You could call it a clash of concepts.",
+        "pt-BR": "[Uvo]\nÉ porque meu eu do passado, dentro da memória, e meu eu atual acabam se misturando. Peço sua compreensão. Digamos que é um conflito de conceitos?",
+        "es-ES": "[Uvo]\nEs porque mi yo del pasado en la memoria y mi yo actual se mezclan de pronto. Le pido comprensión. Podríamos llamarlo un choque de conceptos."
+    },
+    "qDxMDQ": {
+        "en-US": "[Grape]\nNow, back to the point. You may or may not have gained something from the memory of a Super Novice.",
+        "pt-BR": "[Uvo]\nVoltando ao assunto principal. Talvez você tenha obtido algo na memória do Superaprendiz, talvez não.",
+        "es-ES": "[Uvo]\nVolviendo al tema. Puede que hayas obtenido algo de la memoria del Superprincipiante, o puede que no."
+    },
+    "qTxMDQ": {
+        "en-US": "[Grape]\nEven if you grow stronger, break through your limits, and 200 becomes 300, or even goes beyond that to 999!!",
+        "pt-BR": "[Uvo]\nMesmo que fique mais forte, rompa seus limites, e o 200 vire 300, e depois até 999!!",
+        "es-ES": "[Uvo]\n¡¡Incluso si te haces más fuerte, rompes tus límites, el 200 se convierte en 300 y hasta llega a 999..."
+    },
+    "qjxMDQ": {
+        "en-US": "[Grape]\nPlease never forget the freedom of the Super Novice Club.",
+        "pt-BR": "[Uvo]\nPor favor, nunca se esqueça da liberdade do Clube dos Superaprendizes.",
+        "es-ES": "[Uvo]\nNo te olvides nunca de la libertad del Club de Superprincipiantes."
+    },
+    "qzxMDQ": {
+        "en-US": "[Grape]\nMay the free wind be with you...",
+        "pt-BR": "[Uvo]\nQue o vento livre esteja com você...",
+        "es-ES": "[Uvo]\nQue el viento libre te acompañe..."
+    },
+    "rDxMDQ": {
+        "en-US": "[Grape]\nAn error has been detected.\nResetting the Hyper Novice job change quest.\nIn the test version, this message may appear after completing the job change.",
+        "pt-BR": "[Uvo]\nUm erro foi encontrado.\nA missão de mudança de classe para Hiperaprendiz será reiniciada.\nNa versão de teste, esta mensagem pode ser exibida após a conclusão da mudança de classe.",
+        "es-ES": "[Uvo]\nSe ha detectado un error.\nSe reiniciará la misión de cambio de clase a Hiperprincipiante.\nEn la versión de prueba, este mensaje puede mostrarse tras completar el cambio de clase."
+    },
+    "rTxMDQ": {
+        "en-US": "[Grape]\nAre you feeling enough freedom?",
+        "pt-BR": "[Uvo]\nEstá sentindo liberdade suficiente?",
+        "es-ES": "[Uvo]\n¿Sientes suficiente libertad?"
+    },
+    "rjxMDQ": {
+        "en-US": "Your eyes? Can you not see? I'm sorry.",
+        "pt-BR": "Seus olhos? Você não enxerga? Desculpe.",
+        "es-ES": "¿Tus ojos? ¿No ves? Lo siento."
+    },
+    "rzxMDQ": {
+        "en-US": "Grape: Ah! It's all right. The world is nothing but darkness to me, so it happens often.",
+        "pt-BR": "Uvo: Ah! Não se preocupe. Para mim, o mundo é apenas escuridão. Isso acontece com frequência.",
+        "es-ES": "Uvo: ¡Ah! No pasa nada. Para mí, el mundo no es más que oscuridad, así que me pasa seguido."
+    },
+    "sDxMDQ": {
+        "en-US": "Grape: If I made you uncomfortable, I apologize.",
+        "pt-BR": "Uvo: Se deixei você desconfortável, peço desculpas.",
+        "es-ES": "Uvo: Si le he hecho sentirse incómodo, lo siento."
+    },
+    "sTxMDQ": {
+        "en-US": "The weather is nice today.",
+        "pt-BR": "O tempo está bom hoje.",
+        "es-ES": "Hoy hace buen tiempo."
+    },
+    "sjxMDQ": {
+        "en-US": "Grape: Haha! Though I cannot see, I feel a gentle warmth, so the weather must be nice today.",
+        "pt-BR": "Uvo: Haha! Embora eu não consiga enxergar, sinto um calor acolhedor no coração, então o tempo também deve estar bom hoje.",
+        "es-ES": "Uvo: ¡Ja, ja! Aunque no puedo ver, siento calidez en el corazón, así que el tiempo debe estar bueno hoy."
+    },
+    "szxMDQ": {
+        "en-US": "Grape: I think it will be a pleasant day.",
+        "pt-BR": "Uvo: Parece que será um dia agradável.",
+        "es-ES": "Uvo: Parece que será un día agradable."
+    },
+    "tDxMDQ": {
+        "en-US": "Your name is interesting.",
+        "pt-BR": "Seu nome é engraçado.",
+        "es-ES": "Tienes un nombre curioso."
+    },
+    "tTxMDQ": {
+        "en-US": "Grape: My name? Haha! It means grape.",
+        "pt-BR": "Uvo: Meu nome? Hahá! Significa uva.",
+        "es-ES": "Uvo: ¿Mi nombre? ¡Ja, ja! Significa, claro, uva."
+    },
+    "tjxMDQ": {
+        "en-US": "Grape: Well, because of my name and hair color, I was often called Sour Grapes when I was young.",
+        "pt-BR": "Uvo: Bem, por causa do meu nome e da cor do meu cabelo, quando eu era criança, costumavam me chamar de uva azeda.",
+        "es-ES": "Uvo: Bueno, por mi nombre y mi color de pelo, de pequeño a menudo me llamaban uva ácida."
+    },
+    "tzxMDQ": {
+        "en-US": "What happened to your eyes?",
+        "pt-BR": "O que aconteceu com seus olhos?",
+        "es-ES": "¿Qué te pasó en los ojos?"
+    },
+    "uDxMDQ": {
+        "en-US": "Grape: Haha! When you enjoy adventuring, all sorts of things happen.",
+        "pt-BR": "Uvo: Hahá! Quando se gosta de aventuras, todo tipo de coisa acontece.",
+        "es-ES": "Uvo: ¡Ja, ja! Cuando uno disfruta de la aventura, pasan todo tipo de cosas."
+    },
+    "uTxMDQ": {
+        "en-US": "Grape: It is a painful matter, so please do not ask too much.",
+        "pt-BR": "Uvo: É uma história dolorosa, então por favor não insista demais.",
+        "es-ES": "Uvo: Es algo doloroso, así que te pido que no preguntes demasiado."
+    },
+    "ujxMDQ": {
+        "en-US": "You are a Super Novice, right?",
+        "pt-BR": "Você é um Superaprendiz, não é?",
+        "es-ES": "Usted es Superprincipiante, ¿verdad?"
+    },
+    "uzxMDQ": {
+        "en-US": "Grape: No, Hy... Hahaha! That's right.",
+        "pt-BR": "Uvo: Não, Hiper... Haha! Isso mesmo.",
+        "es-ES": "Uvo: No, Hi... ¡Ja, ja! Así es."
+    },
+    "vDxMDQ": {
+        "en-US": "Grape: I am a Super Novice. A Super Novice who is bound by nothing and pursues freedom. That is me.",
+        "pt-BR": "Uvo: Sou um Superaprendiz. Um Superaprendiz que não se prende a nada e busca a liberdade. Esse sou eu.",
+        "es-ES": "Uvo: Yo soy Superprincipiante. Un Superprincipiante que no está atado a nada y persigue la libertad. Ese soy yo."
+    },
+    "vTxMDQ": {
+        "en-US": "Grape: Well, I cannot say I am extremely free right now, though.",
+        "pt-BR": "Uvos: Bem, agora não posso dizer que sou tão livre assim.",
+        "es-ES": "Uvo: Aunque ahora no pueda decir que soy tremendamente libre."
+    }
+}

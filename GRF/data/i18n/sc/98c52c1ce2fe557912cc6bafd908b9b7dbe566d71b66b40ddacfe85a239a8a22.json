@@ -207,7 +207,7 @@
     "yZh7": {
         "en-US": "^FF0000[Vol. 7: Small Ghost Monsters]^000000\n1. Whisper\nA piece of living fabric that gives off spooky vibes. Sometimes, it likes to turn invisible...\n^0099FFItem Drops^000000: Fabric",
         "pt-BR": "^FF0000[Vol. 7: Monstros Fantasmas Pequenos]^000000\n1. Cochicho\nUm pedaço de tecido vivo que emite vibrações assustadoras. Às vezes, ele gosta de ficar invisível...\n^0099FFItens Soltos^000000: Tecido",
-        "es-ES": "^FF0000[Vol.7: Monstruos fantasma pequeños]^000000\n1. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible…\n^0099FFBotín^000000: Tela"
+        "es-ES": "^FF0000[Vol.7: Monstruos fantasma pequeños]^000000\n1. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible...\n^0099FFBotín^000000: Tela"
     },
     "yph7": {
         "en-US": "^FF0000[Vol. 7: Small Ghost Monsters]^000000\n2. Marionette\nA monster reborn as a cursed doll that is bound to strings attached to wooden sticks.\n^0099FFItem Drops^000000: Golden Hair, Trunk",
@@ -302,7 +302,7 @@
     "3Jh7": {
         "en-US": "^FF0000[Vol. 10: Small Earth Monsters]^000000\n10. Vitata\nPlump worker ants that heal the other ants in their colony. When killed their bodies leak... honey?\n^0099FFItem Drops^000000: Worm Peeling, Scell, Honey",
         "pt-BR": "^FF0000[Vol. 10: Monstros de Terra Pequenos]^000000\n10. Vitata\nGrandes formigas trabalhadoras que curam as outras formigas de sua colônia. Quando mortas, de seus corpos escorre... mel?\n^0099FFItens Soltos^000000: Peles de Verme, Scell, Mel",
-        "es-ES": "^FF0000[Vol.10: Monstruos de tierra pequeños]^000000\n10. Vitata\nHormigas obreras regordetas que curan a las demás hormigas de su colonia. Cuando mueren, sus cuerpos liberan… ¿miel?\n^0099FFBotín^000000: Caparazón de insecto, Scell, Miel"
+        "es-ES": "^FF0000[Vol.10: Monstruos de tierra pequeños]^000000\n10. Vitata\nHormigas obreras regordetas que curan a las demás hormigas de su colonia. Cuando mueren, sus cuerpos liberan... ¿miel?\n^0099FFBotín^000000: Caparazón de insecto, Scell, Miel"
     },
     "3Zh7": {
         "en-US": "^FF0000[Vol. 10: Small Earth Monsters]^000000\n11. Caramel\nAn adorable porcupine with tiny spiky quills. However, it gets incredibly angry when touched.\n^0099FFItem Drops^000000: Porcupine Quill, Leather",
@@ -387,7 +387,7 @@
     "7Zh7": {
         "en-US": "^FF0000[Vol. 12: Great Earth Monsters]^000000\n4. Flora\nA man-eating plant. Its parts are considered useful for Alchemists to make monsters of their own...\n^0099FFItem Drops^000000: Maneater Blossom, Stem",
         "pt-BR": "^FF0000[Vol. 12: Monstros de Terra Grandes]^000000\n4. Flora\nUma planta carnívora. Seus componentes são considerados úteis por Alquimistas que fazem seus próprios monstros...\n^0099FFItens Soltos^000000: Flor de Planta Carnívora, Caule",
-        "es-ES": "^FF0000[Vol.12: Monstruos de tierra grandes]^000000\n4. Flora\nUna planta devoradora de humanos. Los alquimistas usan sus partes para fabricar sus propios monstruos…\n^0099FFBotín^000000: Flor carnívora, Tallo"
+        "es-ES": "^FF0000[Vol.12: Monstruos de tierra grandes]^000000\n4. Flora\nUna planta devoradora de humanos. Los alquimistas usan sus partes para fabricar sus propios monstruos...\n^0099FFBotín^000000: Flor carnívora, Tallo"
     },
     "7ph7": {
         "en-US": "^FF0000[Vol. 13: Small Fire Monsters]^000000\n1. Picky\nCute little chick that may grow up to be a Peco Peco, unless, of course, you kill it.\n^0099FFItem Drops^000000: Feather of Birds, Feather, Red Herb, Milk.",
@@ -487,12 +487,12 @@
     "AZl7": {
         "en-US": "^FF0000[Vol. 17: Medium Neutral Monsters]^000000\n...",
         "pt-BR": "^FF0000[Vol. 17: Monstros Neutros Médios]^000000\n...",
-        "es-ES": "^FF0000[Vol.17: Monstruos neutrales medianos]^000000\n…"
+        "es-ES": "^FF0000[Vol.17: Monstruos neutrales medianos]^000000\n..."
     },
     "Apl7": {
         "en-US": "^FF0000[Vol. 17: Medium Neutral Monsters]^000000\n...\n......",
         "pt-BR": "^FF0000[Vol. 17: Monstros Neutros Médios]^000000\n...\n......",
-        "es-ES": "^FF0000[Vol.17: Monstruos neutrales medianos]^000000\n…\n…"
+        "es-ES": "^FF0000[Vol.17: Monstruos neutrales medianos]^000000\n...\n..."
     },
     "A5l7": {
         "en-US": "^3355FFSome pages seem to have been ripped out of this book, and replaced with pinups of the Isis monster. It looks like you'll need to learn about Neutral, medium sized monsters on your own^000000.",
@@ -597,12 +597,12 @@
     "F5l7": {
         "en-US": "^FF0000[Vol. 22: Small Poison Monsters]^000000\n...",
         "pt-BR": "^FF0000[Vol. 22: Monstros de Veneno Pequenos]^000000\n...",
-        "es-ES": "^FF0000[Vol.22: Monstruos venenosos pequeños]^000000\n…"
+        "es-ES": "^FF0000[Vol.22: Monstruos venenosos pequeños]^000000\n..."
     },
     "GJl7": {
         "en-US": "^FF0000[Vol. 22: Small Poison Monsters]^000000\n...\n......",
         "pt-BR": "^FF0000[Vol. 22: Monstros de Veneno Pequenos]^000000\n...\n......",
-        "es-ES": "^FF0000[Vol.22: Monstruos venenosos pequeños]^000000\n…\n…"
+        "es-ES": "^FF0000[Vol.22: Monstruos venenosos pequeños]^000000\n...\n..."
     },
     "GZl7": {
         "en-US": "^3355FFThere are\nPoring stickers\nall over these pages!^000000",
@@ -652,17 +652,17 @@
     "Ipl7": {
         "en-US": "^FF0000[Vol. 25: Small Undead Monsters]^000000\n...",
         "pt-BR": "^FF0000[Vol. 25: Monstros Morto-Vivos Pequenos]^000000\n...",
-        "es-ES": "^FF0000[Vol.25: Monstruos Muertos vivientes pequeños]^000000\n…"
+        "es-ES": "^FF0000[Vol.25: Monstruos Muertos vivientes pequeños]^000000\n..."
     },
     "I5l7": {
         "en-US": "^FF0000[Vol. 25: Small Undead Monsters]^000000\n...\n......",
         "pt-BR": "^FF0000[Vol. 25: Monstros Morto-Vivos Pequenos]^000000\n...\n......",
-        "es-ES": "^FF0000[Vol.25: Monstruos Muertos vivientes pequeños]^000000\n…\n…"
+        "es-ES": "^FF0000[Vol.25: Monstruos Muertos vivientes pequeños]^000000\n...\n..."
     },
     "JJl7": {
         "en-US": "^3355FF...!\nSome stupid kid scribbled pictures all over this chapter! It looks like you'll have to learn about small Undead monsters\non your very own.^000000",
         "pt-BR": "^3355FF...!\nAlguma criança idiota fez desenhos sobre todo esse capítulo! Parece que você terá que aprender sobre pequenos monstros mortos-vivos\nsozinho.^000000",
-        "es-ES": "^3355FF¡…!\n¡Un niño estúpido garabateó en todo este capítulo! Parece que tendrás que aprender sobre monstruos Muertos vivientes pequeños\npor tu cuenta.^000000"
+        "es-ES": "^3355FF¡...!\n¡Un niño estúpido garabateó en todo este capítulo! Parece que tendrás que aprender sobre monstruos Muertos vivientes pequeños\npor tu cuenta.^000000"
     },
     "JZl7": {
         "en-US": "^FF0000[Vol. 26: Medium Undead Monsters]^000000\n1. Zombie\nAn innocent human that has been raised from the dead through black magic.\n^0099FFItem Drops^000000: Decayed Nail, Sticky Mucus, Horrendous Mouth",
@@ -782,7 +782,7 @@
     "PJl7": {
         "en-US": "^FF0000[Ant Hell 1F Monsters]^000000\n5. Vitata\nWorker ants that are plump with honey... So plump, they won't pick up anything.\n^0099FFItem Drops^000000: Worm Peeling, Scell, Honey",
         "pt-BR": "^FF0000[Monstros do Formigueiro Infernal 1º Piso]^000000\n5. Vitata\nFormigas trabalhadoras que estão cheias de mel... Tão cheias que não pegam nada.\n^0099FFItens Soltos^000000: Peles de Verme, Scell, Mel",
-        "es-ES": "^FF0000[Monstruos del Infierno de hormigas, P1]^000000\n5. Vitata\nHormigas obreras que están llenas de miel… Tan regordetas que no recogen nada.\n^0099FFBotín^000000: Caparazón de insecto, Scell, Miel"
+        "es-ES": "^FF0000[Monstruos del Infierno de hormigas, P1]^000000\n5. Vitata\nHormigas obreras que están llenas de miel... Tan regordetas que no recogen nada.\n^0099FFBotín^000000: Caparazón de insecto, Scell, Miel"
     },
     "PZl7": {
         "en-US": "^FF0000[Ant Hell 1F Monsters]^000000\n6.Farmiliar\nA purple bat. Not that strong but when you're around, it will attack you very quickly.\n^0099FFItem Drops^000000: Tooth of Bat, Wing of Fly, Grape, Red Herb",
@@ -902,7 +902,7 @@
     "VJl7": {
         "en-US": "^FF0000[Geffen Dungeon 3F Monsters]^000000\n5. Whisper\nA piece of living fabric that gives off spooky vibes. Sometimes, it likes to turn invisible...\n^0099FFItem Drops^000000: Fabric",
         "pt-BR": "^FF0000[Calabouço de Geffen 3º Piso]^000000\n5. Cochicho\nUm pedaço de tecido vivo que emite vibrações assustadoras. Às vezes, ele gosta de ficar invisível...\n^0099FFItens Soltos^000000: Tecido",
-        "es-ES": "^FF0000[Monstruos de la Mazmorra de Geffen, P3]^000000\n5. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible…\n^0099FFBotín^000000: Tela"
+        "es-ES": "^FF0000[Monstruos de la Mazmorra de Geffen, P3]^000000\n5. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible...\n^0099FFBotín^000000: Tela"
     },
     "VZl7": {
         "en-US": "^FF0000[Geffen Dungeon 3F Monsters]^000000\n6. Hunter Fly\nWinged insect covered in the blood of innocents. It's incredibly quick, as well as strong. Novices must flee from this monster at all cost.\n^0099FFItem Drops^000000: Solid Shell, Zargon",
@@ -1532,7 +1532,7 @@
     "0pl7": {
         "en-US": "^FF0000[Payon Cave 4F Monsters]^000000\n6. Whisper\nA piece of living fabric that gives off spooky vibes. Sometimes, it likes to turn invisible...\n^0099FFItem Drops^000000: Fabric",
         "pt-BR": "^FF0000[Caverna de Payon 4º Piso]^000000\n6. Cochicho\nUm pedaço de tecido vivo que emite vibrações assustadoras. Às vezes, ele gosta de ficar invisível...\n^0099FFItens Soltos^000000: Tecido",
-        "es-ES": "^FF0000[Monstruos de la Cueva de Payon, P4]^000000\n6. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible…\n^0099FFBotín^000000: Tela"
+        "es-ES": "^FF0000[Monstruos de la Cueva de Payon, P4]^000000\n6. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible...\n^0099FFBotín^000000: Tela"
     },
     "05l7": {
         "en-US": "^FF0000[Payon Cave 4F Monsters]^000000\n7. Greatest General\nOnce a greatest patoron god protecting a village but it has been forgotten by the people. Its sadness became anger and it stays in one spot and started to attack people.\n^0099FFItem Drops^000000: Brigan, Wooden Block",
@@ -1732,7 +1732,7 @@
     "+pl7": {
         "en-US": "^FF0000[Sunken Ship 1F Monsters]^000000\n5. Whisper\nA piece of living fabric that gives off spooky vibes. Sometimes, it likes to turn invisible...\n^0099FFItem Drops^000000: Fabric",
         "pt-BR": "^FF0000[Navio Naufragado 1º Piso]^000000\n5. Cochicho\nUm pedaço de tecido vivo que emite vibrações assustadoras. Às vezes, ele gosta de ficar invisível...\n^0099FFItens Soltos^000000: Tecido",
-        "es-ES": "^FF0000[Monstruos del Barco hundido, P1]^000000\n5. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible…\n^0099FFBotín^000000: Tela"
+        "es-ES": "^FF0000[Monstruos del Barco hundido, P1]^000000\n5. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible...\n^0099FFBotín^000000: Tela"
     },
     "+5l7": {
         "en-US": "^FF0000[Sunken Ship 2F Monsters]^000000\n1.Marionette\nA monster reborn as a cursed doll that is bound to strings attached to wooden sticks.\n^0099FFItem Drops^000000: Golden Hair, Trunk",
@@ -1752,7 +1752,7 @@
     "/pl7": {
         "en-US": "^FF0000[Sunken Ship 2F Monsters]^000000\n4. Whisper\nA piece of living fabric that gives off spooky vibes. Sometimes, it likes to turn invisible...\n^0099FFItem Drops^000000: Fabric",
         "pt-BR": "^FF0000[Navio Naufragado 2º Piso]^000000\n4. Cochicho\nUm pedaço de tecido vivo que emite vibrações assustadoras. Às vezes, ele gosta de ficar invisível...\n^0099FFItens Soltos^000000: Tecido",
-        "es-ES": "^FF0000[Monstruos del Barco hundido, P2]^000000\n4. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible…\n^0099FFBotín^000000: Tela"
+        "es-ES": "^FF0000[Monstruos del Barco hundido, P2]^000000\n4. Susurro\nUn trozo de tela viva que desprende vibraciones espeluznantes. A veces, le gusta volverse invisible...\n^0099FFBotín^000000: Tela"
     },
     "/5l7": {
         "en-US": "^FF0000[Sunken Ship 2F Monsters]^000000\n5. Kukre\nKukre look better than Thief Bugs but basically loot items just the same. Luckily, they don't attack players in a group.\n^0099FFItem Drops^000000: Worm Peeling, Garlet, Monster's Feed, Red Herb, Insect Feeler",
@@ -2042,7 +2042,7 @@
     "OJp7": {
         "en-US": "^FF0000[Prontera Maze 3F Monsters]^000000\n27. Mastering\nA giant Poring rarely seen in the Morroc Desert, Mt.Mjolnir or the Prontera Maze. It may be the Master of the Porings, but... It's still a Poring.\n^0099FFItem Drops^000000: Apple, Apple Juice",
         "pt-BR": "^FF0000[Labirinto de Prontera 3º Piso]^000000\n27. Mastering\nUm Poring gigante visto raramente no Deserto de Morroc, Monte Mjolnir ou no Labirinto de Prontera. Ele pode ser o Mestre dos Porings, mas... Continua sendo um Poring.\n^0099FFItens Soltos^000000: Maçã, Suco de Maçã",
-        "es-ES": "^FF0000[Monstruos del Laberinto de Prontera, P3]^000000\n27. Mastering\nUn Poring gigante raramente visto en el desierto de Morroc, el monte Mjolnir o el laberinto de Prontera. Puede que sea el maestro de los Poring, pero… Sigue siendo un Poring.\n^0099FFBotín^000000: Manzana, Zumo de manzana"
+        "es-ES": "^FF0000[Monstruos del Laberinto de Prontera, P3]^000000\n27. Mastering\nUn Poring gigante raramente visto en el desierto de Morroc, el monte Mjolnir o el laberinto de Prontera. Puede que sea el maestro de los Poring, pero... Sigue siendo un Poring.\n^0099FFBotín^000000: Manzana, Zumo de manzana"
     },
     "OZp7": {
         "en-US": "^FF0000[Prontera Maze 3F Monsters]^000000\n28. Eclipse\nLord and Master of all Lunatics. It's attacks make be weak, but it has considerable defense.\n^0099FFItem Drops^000000: Carrot, Glass Bead, Milk, Carrot Juice",
@@ -2132,7 +2132,7 @@
     "Spp7": {
         "en-US": "^FF0000[Vending Guide for Dummies]^000000\nSuperNovices can learn all the skills needed to open vending shops, but none of the Kafra Employees will rent Carts to them. If only they could find somewhere to rent a cart...",
         "pt-BR": "^FF0000[Guia de Vendas]^000000\nSuperaprendizes podem aprender todas as habilidades necessárias para abrir lojas, mas nenhuma Funcionária de Kafra alugará Carrinhos para eles. Se eles conseguissem encontrar um lugar para alugar um carrinho...",
-        "es-ES": "^FF0000[Guía de venta para principiantes]^000000\nLos Superprincipiantes pueden aprender todas las habilidades necesarias para abrir tiendas expendedoras, pero las empleadas de Kafra no les alquilarán carretas. Si tan solo pudieran encontrar un lugar donde alquilar una carreta…"
+        "es-ES": "^FF0000[Guía de venta para principiantes]^000000\nLos Superprincipiantes pueden aprender todas las habilidades necesarias para abrir tiendas expendedoras, pero las empleadas de Kafra no les alquilarán carretas. Si tan solo pudieran encontrar un lugar donde alquilar una carreta..."
     },
     "S5p7": {
         "en-US": "Blacksmith Guide",

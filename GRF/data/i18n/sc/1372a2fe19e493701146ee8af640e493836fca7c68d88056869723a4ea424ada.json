@@ -182,7 +182,7 @@
     "5M3bCQ": {
         "en-US": "[Arcobaleno]\nHm..., {0}, you were separated from your parents.",
         "pt-BR": "[Arcobaleno]\nHm, {0}, você se separou de seus pais...",
-        "es-ES": "[Arcobaleno]\nMmm…, {0}, te separaron de tus padres."
+        "es-ES": "[Arcobaleno]\nMmm..., {0}, te separaron de tus padres."
     },
     "5c3bCQ": {
         "en-US": "[Arcobaleno]\nUnfortunately, we cannot help you if you were a baby and separated from your parents.",
@@ -202,7 +202,7 @@
     "6M3bCQ": {
         "en-US": "[Arcobaleno]\nLet's have a look... Well, you already reserved a marriage ceremony at Prontera Church. Do you wish to cancel the reservation and re-apply a marriage ceremony here?",
         "pt-BR": "[Arcobaleno]\nDeixa eu ver... Bom, você já reservou uma Cerimônia de Casamento na Igreja de Prontera. Gostaria de cancelar a Cerimônia de lá e reservar uma por aqui?",
-        "es-ES": "[Arcobaleno]\nEchemos un vistazo… Bueno, ya reservaste una ceremonia de matrimonio en la iglesia de Prontera. ¿Deseas cancelar la reserva y volver a aplicar para una ceremonia de matrimonio aquí?"
+        "es-ES": "[Arcobaleno]\nEchemos un vistazo... Bueno, ya reservaste una ceremonia de matrimonio en la iglesia de Prontera. ¿Deseas cancelar la reserva y volver a aplicar para una ceremonia de matrimonio aquí?"
     },
     "6c3bCQ": {
         "en-US": "[Arcobaleno]\nIf you do, you cannot proceed with your marriage ceremony in Prontera. How would you like to proceed?",
@@ -267,7 +267,7 @@
     "9c3bCQ": {
         "en-US": "[Arcobaleno]\nHmm... Sorry, but can you write your name here again?",
         "pt-BR": "[Arcobaleno]\nHm... Pode escrever novamente seu nome, por favor?",
-        "es-ES": "[Arcobaleno]\nMmm… Perdona, pero ¿puedes volver a escribir tu nombre aquí?"
+        "es-ES": "[Arcobaleno]\nMmm... Perdona, pero ¿puedes volver a escribir tu nombre aquí?"
     },
     "9s3bCQ": {
         "en-US": "[Arcobaleno]\nThank you. Please be sure to state your partner's name to the officiant later.",
@@ -352,7 +352,7 @@
     "Bs7bCQ": {
         "en-US": "[Arcobaleno]\nHmm... Sorry, but can you write your name again?",
         "pt-BR": "[Arcobaleno]\nHm... Pode escrever novamente seu nome, por favor?",
-        "es-ES": "[Arcobaleno]\nMmm… Perdona, pero ¿puedes volver a escribir tu nombre?"
+        "es-ES": "[Arcobaleno]\nMmm... Perdona, pero ¿puedes volver a escribir tu nombre?"
     },
     "B87bCQ": {
         "en-US": "[Arcobaleno]\nThank you. Please tell your partner's name to the officiant later.",
@@ -392,7 +392,7 @@
     "Ds7bCQ": {
         "en-US": "[Arcobaleno]\nHm... You are not prepared for the marriage ceremony.",
         "pt-BR": "[Arcobaleno]\nHm... Você precisa se preparar para o casamento.",
-        "es-ES": "[Arcobaleno]\nMmm… No estás en condiciones para la ceremonia de matrimonio."
+        "es-ES": "[Arcobaleno]\nMmm... No estás en condiciones para la ceremonia de matrimonio."
     },
     "D87bCQ": {
         "en-US": "[Arcobaleno]\nPlease make sure that you have 1,250,000 zeny, 1 Wedding Dress and 1 Diamond Ring.",
@@ -702,7 +702,7 @@
     "TM7bCQ": {
         "en-US": "[Peperocino]\nThen I ask you again...",
         "pt-BR": "[Peperocino]\nEntão perguntarei novamente...",
-        "es-ES": "[Peperocino]\nEntonces te vuelvo a preguntar…"
+        "es-ES": "[Peperocino]\nEntonces te vuelvo a preguntar..."
     },
     "Tc7bCQ": {
         "en-US": "[Peperocino]\nThen in front of the guests here to celebrate your new departure, shout ^0000CDthe name of your partner^000000 and swear eternal love!",
@@ -767,7 +767,7 @@
     "Wc7bCQ": {
         "en-US": "[Peperocino]\nHow strange... the name is same, but the application is wrong. Please check if the application is correct, find the wedding helper and re-apply.",
         "pt-BR": "[Peperocino]\nEstranho, o nome é o mesmo, mas a reserva parece incorreta. Dê uma olhada se está tudo certo. Caso precise reservar novamente, vá ao Arcobaleno.",
-        "es-ES": "[Peperocino]\nQué extraño… El nombre es el mismo, pero la solicitud es incorrecta. Comprueba si la solicitud es correcta, busca al ayudante de boda y vuelve a aplicar."
+        "es-ES": "[Peperocino]\nQué extraño... El nombre es el mismo, pero la solicitud es incorrecta. Comprueba si la solicitud es correcta, busca al ayudante de boda y vuelve a aplicar."
     },
     "Ws7bCQ": {
         "en-US": "[Peperocino]\nSomething is wrong. Please contact customer services.",
@@ -1232,7 +1232,7 @@
     "ts7bCQ": {
         "en-US": "[Man]\nWait, does that mean... Are you proposing to me?",
         "pt-BR": "[Homem]\nEspera, isso significa... Você está me pedindo em casamento?",
-        "es-ES": "[Hombre]\nEspera, ¿eso significa…? ¿Me estás proponiendo matrimonio?"
+        "es-ES": "[Hombre]\nEspera, ¿eso significa...? ¿Me estás proponiendo matrimonio?"
     },
     "t87bCQ": {
         "en-US": "[Woman]\nYes, I am proposing to you!",
@@ -1242,7 +1242,7 @@
     "uM7bCQ": {
         "en-US": "[Man]\nI, I ... I'm so happy...I am crying...",
         "pt-BR": "[Homem]\nEu, eu... Estou tão feliz... Estou chorando...",
-        "es-ES": "[Hombre]\nYo, yo… …estoy tan feliz… Estoy llorando…"
+        "es-ES": "[Hombre]\nYo, yo... ...estoy tan feliz... Estoy llorando..."
     },
     "uc7bCQ": {
         "en-US": "[Woman]\nYou can cry, but I still need an answer!",
@@ -1332,7 +1332,7 @@
     "ys7bCQ": {
         "en-US": "[Father]\nHoney, kids... Let me go with you guys...",
         "pt-BR": "[Doram Pai]\nTudo bem, vou com vocês...",
-        "es-ES": "[Padre]\nCariño, niños… Déjenme ir con ustedes…"
+        "es-ES": "[Padre]\nCariño, niños... Déjenme ir con ustedes..."
     },
     "y87bCQ": {
         "en-US": "Mother",
@@ -1352,7 +1352,7 @@
     "zs7bCQ": {
         "en-US": "[Jawaive]\nIt doesn't matter whether you are single or married...\nThis is one of the best vacation spots of all time.\nLet me proudly introduce to you the private islands of 'Jawaii'.",
         "pt-BR": "[Jawaiive-se]\nO destino perfeito para casais...\nAs melhores férias do mundo estão aqui.\nDeixe-me apresentá-los a Jawaii! Boas-vindas!",
-        "es-ES": "[Jawaive]\nNo importa si eres una persona soltera o casada…\nEste es uno de los mejores lugares de vacaciones de todos los tiempos.\nMe enorgullece presentarte las islas privadas de “Isla Luna de Miel”."
+        "es-ES": "[Jawaive]\nNo importa si eres una persona soltera o casada...\nEste es uno de los mejores lugares de vacaciones de todos los tiempos.\nMe enorgullece presentarte las islas privadas de “Isla Luna de Miel”."
     },
     "z87bCQ": {
         "en-US": "Jawaii?",

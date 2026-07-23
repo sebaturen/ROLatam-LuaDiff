@@ -32,7 +32,7 @@
     "RvQPAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[ Voz Ecoante ]\nValente combatente...\nDeseja retornar ao seu lugar de glória?",
-        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
     },
     "R/QPAg": {
         "en-US": "Go back to your stronghold.",
@@ -582,7 +582,7 @@
     "tPQPAg": {
         "en-US": "[Butler Brymhensen]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Brimhensen]\n...\nFuncionária Kafra dispensada... mas há algo de que você não gostou?",
-        "es-ES": "[Mayordomo Brymhensen]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Brymhensen]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
     },
     "tfQPAg": {
         "en-US": "[Butler Brymhensen]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",

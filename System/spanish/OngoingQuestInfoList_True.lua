@@ -14818,7 +14818,7 @@ QuestInfoList = {
 		Summary = "Avisa al diablo."
 	},
 	[5971] = {
-		Title = "El diablo en la caja",
+		Title = "Diablo en la Caja",
 		IconName = "ico_nq.bmp",
 		Description = {
 			"Conocí a un diablo en una caja."
@@ -36813,18 +36813,18 @@ QuestInfoList = {
 		Description = {
 			"Parece que el causante de este alboroto se ha instalado dentro de la torre medio destruida. Averigüemos qué clase de ser es."
 		},
-		Summary = "Nuevo señor de la torre"
+		Summary = "Nuevo Señor de la Torre"
 	},
 	[12514] = {
-		Title = "Secuelas del acceso a la torre",
+		Title = "Secuelas del Acceso a la Torre",
 		Description = {
 			"Entrar y salir de este lugar consume mucha energía mental. Aunque quede algo por hacer, será mejor volver dentro de 3 días."
 		},
-		Summary = "Reentrada a las 04:00 tras 3 días",
+		Summary = "Reingreso después de 3 días a las 4:00 AM",
 		CoolTimeQuest = 1
 	},
 	[12515] = {
-		Title = "Encuentro con el nuevo señor de la torre",
+		Title = "Encuentro con el Nuevo Señor de la Torre",
 		Description = {
 			"El nuevo señor de la torre no ha matado a todos sus habitantes. Es realmente generoso, pero al ver a los monstruos expulsados hacia abajo resulta imposible imaginar lo poderoso que es."
 		},
@@ -36961,22 +36961,22 @@ QuestInfoList = {
 		Summary = "Recupera los objetos."
 	},
 	[12540] = {
-		Title = "Torre Hundida",
+		Title = "Torre Sumergida",
 		Description = {
-			"Se necesita urgentemente a alguien que limpie las entidades retorcidas que proliferan bajo la torre destruida por Betelgeuse."
+			"Se necesita urgentemente a alguien que limpie las criaturas retorcidas que infestan el subsuelo de la torre destruida por Betelgeuse."
 		},
-		Summary = "Purificación subterránea"
+		Summary = "Purificación Subterránea"
 	},
 	[12541] = {
-		Title = "Hora de pleamar",
+		Title = "[Espera] Hora de Marea Alta",
 		Description = {
-			"Durante la pleamar no se puede entrar por la entrada de Torre Hundida."
+			"Durante el periodo en que la marea está subiendo, no es posible entrar por la entrada de la Torre Hundida."
 		},
-		Summary = "Reentrada a las 4:00 de la madrugada tras 3 días",
+		Summary = "Reingreso a las 4:00 de la mañana tras 3 días",
 		CoolTimeQuest = 1
 	},
 	[12542] = {
-		Title = "Bendición de la diosa",
+		Title = "Bendición de la Diosa",
 		Description = {
 			"La bendición de la diosa te acompaña. Si alcanzas cierto punto con la bendición, te ayudará a crecer."
 		},
@@ -41595,35 +41595,35 @@ QuestInfoList = {
 	[14958] = {
 		Title = "El portero de la cueva de Nyail",
 		Description = {
-			"<NAVI>[Recepcionista Festa]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>, ¡búscalos y vete a la cueva de Nyail!"
+			"<NAVI>[Recepcionista del Evento]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>, ¡búscalos y vete a la Cueva de Nyail!"
 		},
 		Summary = "A la recepcionista de Festa"
 	},
 	[14959] = {
 		Title = "Comienzo del festival",
 		Description = {
-			"Trae un espagueti, un fideo de cinta y una albóndiga para preparar deliciosos fideos. - <NAVI>[Administrador de Festa]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"
+			"Trae un espagueti, un fideo de cinta y una albóndiga para preparar deliciosos fideos. - <NAVI>[Director del Festival]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Albóndigas, ingredientes para fideos."
 	},
 	[14960] = {
 		Title = "Artesano de fideos",
 		Description = {
-			"Si vienes a la Festa de fideos, tienes que probar los fideos. Puedes probar los mejores fideos visitando al <NAVI>[maestro de los fideos Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>."
+			"Si vienes a la Festa de fideos, tienes que probar los fideos. Puedes probar los mejores fideos visitando al <NAVI>[Maestro Fideo Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Maestro de los fideos Orzo"
 	},
 	[14961] = {
 		Title = "Postre de sandía",
 		Description = {
-			"Me recuerda a un postre fresco y dulce en un caluroso día de verano… <NAVI>[ayudante Lami]<INFO>malangdo, 196,217,0,101,0,</INFO></INFO></NAVI> te guiará a través del evento donde podrás conseguir pudin de sandía."
+			"Me recuerda a un postre fresco y dulce en un caluroso día de verano… <NAVI>[Ayudante Rami]<INFO>malangdo, 196,217,0,101,0,</INFO></INFO></NAVI> te guiará a través del evento donde podrás conseguir pudin de sandía."
 		},
 		Summary = "Ayudante Lami"
 	},
 	[14962] = {
 		Title = "Cacería de gusanos marinos",
 		Description = {
-			"¿Alguien te habló alguna vez de los gusanos marinos? Visita al <NAVI>[ayudante Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI> para que te oriente sobre la cacería de gusanos marinos."
+			"¿Alguien te habló alguna vez de los Fideos Malogrados? Visita al <NAVI>[Ayudante Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI> para que te oriente sobre la cacería de Fideos Malogrados."
 		},
 		Summary = "Ayudante Domi"
 	},
@@ -44832,9 +44832,9 @@ QuestInfoList = {
 		Title = "Tumba del Arrepentimiento",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"La <NAVI>[princesa]<INFO>dali,124,88,0,101,0</INFO></NAVI> de un reino desconocido parece querer pedirle algo al aventurero."
+			"La <NAVI>[princesa]<INFO>dali,124,88,0,101,0</INFO></NAVI> de un reino desconocido parece querer pedirle algo al trotamundos."
 		},
-		Summary = "Habla con Princesa del Remordimiento"
+		Summary = "Habla con Princesa del Arrepentimiento"
 	},
 	[16462] = {
 		Title = "Tumba del Arrepentimiento",
@@ -44842,149 +44842,149 @@ QuestInfoList = {
 		Description = {
 			"Para escuchar más de la historia de la princesa, sigámosla <NAVI>[por detrás]<INFO>dali,79,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Princesa del Remordimiento"
+		Summary = "Habla con Princesa del Arrepentimiento"
 	},
 	[16463] = {
 		Title = "Tumba del Arrepentimiento",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Tras escuchar la historia de la <NAVI>[princesa]<INFO>dali02,78,116,0,101,0</INFO></NAVI>, dirígete a Tumba del Arrepentimiento."
+			"Tras escuchar la historia de la <NAVI>[Princesa]<INFO>dali02,78,116,0,101,0</INFO></NAVI>, dirígete a Tumba del Arrepentimiento."
 		},
-		Summary = "Habla con Princesa del Remordimiento"
+		Summary = "Habla con Princesa del Arrepentimiento"
 	},
 	[16464] = {
 		Title = "Tumba del Arrepentimiento",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla de nuevo. Puedes aceptar la misión a través de <NAVI>[Princesa del Remordimiento]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. Puedes aceptar la misión a través de <NAVI>[Princesa del Arrepentimiento]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicio a las 04:00",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[16465] = {
-		Title = "Hilo de vínculo roto",
+		Title = "Hilo del Vínculo Roto",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea expulsar del palacio a Espadachín Mágico Sakray, con quien la princesa ya no conserva ni un solo hilo de vínculo."
+			"<NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea expulsar del palacio a Sakray Maldito, quien ya no posee ningún vínculo restante con la princesa."
 		},
 		Summary = ""
 	},
 	[16466] = {
-		Title = "Hilo de vínculo roto-espera",
+		Title = "[Espera] Hilo del Vínculo Roto",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla de nuevo. Puedes aceptar la misión a través de <NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicio a las 04:00",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[16467] = {
-		Title = "Cortar entre lágrimas",
+		Title = "Segar entre lágrimas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea que, por orden de la princesa, calmes a la princesa, que ha perdido la razón y ataca."
+			"<NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> siguiendo las órdenes de la princesa, quiere que tranquilices a la princesa, quien ha perdido la razón y está atacando."
 		},
 		Summary = ""
 	},
 	[16468] = {
-		Title = "Cortar entre lágrimas-espera",
+		Title = "[Espera] Segar entre lágrimas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla de nuevo. Puedes aceptar la misión a través de <NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicio a las 04:00",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[16469] = {
-		Title = "Recuerdo fragmentado",
+		Title = "Memoria Fragmentada",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea que reúnas 3 fragmentos de memoria para conocer toda la verdad del incidente."
+			"<NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea que reúnas 3 fragmentos de memoria para conocer toda la verdad del incidente."
 		},
 		Summary = ""
 	},
 	[16470] = {
-		Title = "Recuerdo fragmentado-espera",
+		Title = "[Espera] Memoria Fragmentada",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla de nuevo. Puedes aceptar la misión a través de <NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicio a las 04:00",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[16471] = {
-		Title = "Pasado hecho fragmentos",
+		Title = "Pasado en Fragmentos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea que reúnas 10 fragmentos del pasado para que no se olvide que ellos existieron."
+			"<NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea que reúnas 10 fragmentos del pasado para que no se olvide que ellos existieron."
 		},
 		Summary = ""
 	},
 	[16472] = {
-		Title = "Pasado hecho fragmentos-espera",
+		Title = "[Espera] Pasado en Fragmentos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria. Cuando termine el tiempo de espera, podrás aceptarla y completarla de nuevo. Puedes aceptar la misión a través de <NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Reinicio a las 04:00",
+		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[16473] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16474] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16475] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16476] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16477] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16478] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16479] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16480] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16481] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
 	},
 	[16482] = {
-		Title = "Fragmento de memoria",
+		Title = "Fragmento de Memoria",
 		IconName = "ico_dq.bmp",
 		Description = {""},
 		Summary = ""
@@ -46177,146 +46177,154 @@ QuestInfoList = {
 		Summary = "En espera."
 	},
 	[17307] = {
-		Title = "Portero de la Cueva de Miaul",
-		Description = {
-			"Ve con la <NAVI>[administradora Festa]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI> ¡y sal rápidamente hacia la Cueva de Miaul!"
-		},
-		Summary = "Ve con la administradora del Festival."
-	},
-	[17308] = {
-		Title = "Comienzo del Festival",
-		Description = {
-			"Trae 1 unidad de cada ingrediente para hacer deliciosos fideos: Fideos finos y largos, Fideos mariposa, Tallarines ricos y Papas cerdo. - <NAVI>[administradora del Festival]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>."
-		},
-		Summary = "Papa cerdo, ingredientes para fideos."
-	},
-	[17309] = {
-		Title = "Artesano de fideos",
-		Description = {
-			"Si vienes al Festival de los Fideos, debes probar los fideos. Con el <NAVI>[maestro de los fideos Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> podrás probar los mejores fideos."
-		},
-		Summary = "Ve con Orzo."
-	},
-	[17310] = {
-		Title = "Postre de sandía",
-		Description = {
-			"¿Te acuerdas de los postres frescos y dulces en el caluroso verano? Visita al <NAVI>[ayudante Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> y te guiará por el evento donde podrás conseguir Pudín de sandía."
-		},
-		Summary = "Ve con Lami."
-	},
-	[17311] = {
-		Title = "Cacería de Fideos malos",
-		Description = {
-			"¿Oíste hablar alguna vez de los fideos malos? Ve con el <NAVI>[ayudante Domi] <INFO>malangdo,183,221,0,101,0,</INFO></NAVI> para obtener orientación sobre la cacería de fideos malos."
-		},
-		Summary = "Ve con Domi."
-	},
-	[17312] = {
-		Title = "Festival de Fideos",
+		Title = "Festival de los Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Si te interesa otro tipo de fideos para lasaña, te recomiendo <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>. No te decepcionarás."
+			"El [<NAVI>Director del Festival<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>] te llevará a la cueva del mar de Lasagna."
+		},
+		Summary = "Habla con el Director del Festival"
+	},
+	[17308] = {
+		Title = "Festival de los Fideos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Trae 1 Albóndiga, 1 Fideo Corbata, 1 Fideo Tirabuzón y 1 Fideo Espagueti al <NAVI>[Director del Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "Trae los objetos"
+	},
+	[17309] = {
+		Title = "Cocinar Fideos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Encuentra al [<NAVI>Meastro Fideo Orzo<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>] en el Festival de los Fideos."
+		},
+		Summary = "Meastro Fideo Orzo"
+	},
+	[17310] = {
+		Title = "Cosecha de Sandía",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Encuentra al [<NAVI>Ayudante Rami<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>] en el Festival de los Fideos."
+		},
+		Summary = "Ayudante Rami"
+	},
+	[17311] = {
+		Title = "Fideos Podridos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Encuentra al [<NAVI>Ayudante Domi<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>] en el Festival de los Fideos."
+		},
+		Summary = "Ayudante Domi"
+	},
+	[17312] = {
+		Title = "Festival de los Fideos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Si te interesan otros fideos, te recomiendo hablar con <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Habla con Nike"
 	},
 	[17313] = {
-		Title = "Ingredientes para los fideos",
-		Description = {
-			"Trae al <NAVI>[maestro de los fideos Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> 5 unidades de Fideos largos y finos de Remolino pequeño, 5 unidades de Fideos mariposa de Estrellas Dandy, 5 unidades de Tallarines ricos de Cola oscilante y 3 Papas cerdo."
-		},
-		Summary = "Papa de cerdo, ingredientes para fideos."
-	},
-	[17314] = {
-		Title = "[Tiemp ode espera] Fideos del día",
-		Description = {
-			"Terminó el evento de hoy. Después del amanecer, puedes visitar al <NAVI>[maestro de los fideos Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> de nuevo."
-		},
-		Summary = "Se reinicia a las 4:00.",
-		CoolTimeQuest = 1
-	},
-	[17315] = {
-		Title = "Abanicos de sandía",
-		Description = {
-			"¡Aplasta sandías maduras enterradas en el campo de sandías y encuentra abanicos promocionales! Recolecta 10 y llévalos al <NAVI>[ayudante Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
-		},
-		Summary = "Trae 10 Abanicos promocionales."
-	},
-	[17316] = {
-		Title = "[Tiempo de espera] Fanáticos de la sandía",
-		Description = {
-			"Terminó el evento de hoy. Después del amanecer, busca al <NAVI>[ayudante Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> y podrás participar de nuevo."
-		},
-		Summary = "Se reinicia a las 4:00.",
-		CoolTimeQuest = 1
-	},
-	[17317] = {
-		Title = "Cacería de Fideos malos",
-		Description = {
-			"Mata 10 Fideos malos y tráeme 10 Pieles de fideos duros, <NAVI>[ayudante Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."
-		},
-		Summary = "10 Pieles de fideos duros."
-	},
-	[17318] = {
-		Title = "[Tiempo de espera] Cacería de Fideos malos",
-		Description = {
-			"Seguro que te esforzaste mucho para atrapar al fuerte fideo, pero ¡descansa por hoy y vuelve a disfrutar del Festival después del amanecer! - <NAVI>[Ayudante Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"
-		},
-		Summary = "Se reinicia a las 4:00.",
-		CoolTimeQuest = 1
-	},
-	[17319] = {
-		Title = "Festival de Fideos",
+		Title = "Cocinar Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"¿Podrías preguntarle a <NAVI>[mi amigo]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>, que vive al lado, cómo llegar a Nyailgul?"
+			"Trae 5 Fideos Corbata, 5 Fideos Tirabuzón, 5 Fideos Espagueti y 3 Albóndigas al <NAVI>[Chef Orochi]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Trae los objetos"
+	},
+	[17314] = {
+		Title = "[Espera] Cocinar Fideos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Has completado la misión diaria de hoy. Después del amanecer, puedes visitar al <NAVI>[Meastro Fideo Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00"
+	},
+	[17315] = {
+		Title = "Cosecha de Sandía",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Elimina Sandías y trae 10 Abanicos del Festival al <NAVI>[Ayudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "10 Abanicos del Festival"
+	},
+	[17316] = {
+		Title = "[Espera] Cosecha de Sandía",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Has completado la misión diaria de hoy. Después del amanecer, puedes visitar al <NAVI>[Ayudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00"
+	},
+	[17317] = {
+		Title = "Fideos Podridos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Trae 10 Fideos Podridos al <NAVI>[Ayudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "10 Fideos Podridos"
+	},
+	[17318] = {
+		Title = "[Espera] Fideos Podridos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Has completado la misión diaria de hoy. Después del amanecer, puedes visitar al <NAVI>[Ayudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "Reinicio a las 04:00"
+	},
+	[17319] = {
+		Title = "Festival de los Fideos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Hablemos con <NAVI>[Chipol]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Habla con Chipol"
 	},
 	[17320] = {
-		Title = "Festival de Fideos",
+		Title = "Festival de los Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Encuentra al <NAVI>[Pescador]<INFO>malangdo,209,110,0,101,0,</INFO></NAVI>."
+			"Encuentra al <NAVI>[Pescador]<INFO>lasagna,213,254,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Habla con el Pescador"
 	},
 	[17321] = {
-		Title = "Festival de Fideos",
+		Title = "Festival de los Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"El pescador te pidió que te encuentres con <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+			"El pescador te pidió que te encuentres con <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Habla con Nike"
 	},
 	[17322] = {
-		Title = "Festival de Fideos",
+		Title = "Festival de los Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Vamos a reportar la situación al <NAVI>[Director del Festival]<INFO>malangdo,140,164,0,101,0,</INFO></NAVI>."
+			"Entremos a la Cueva de Malangdo hablando con el <NAVI>[Director del Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>·Î!!"
 		},
 		Summary = "Habla con el Director"
 	},
 	[17323] = {
-		Title = "Festival de Fideos",
+		Title = "Festival de los Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Consigue 1x Cola de Pescado, 1x Tinta de Pulpo, 1x Espagueti y 1x Albóndiga. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+			"Trae 1x Cola de Pescado, 1x Tinta de Pulpo, 1x Fideo Espagueti y 1x Albóndiga a <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
 		},
-		Summary = "Reúne los objetos"
+		Summary = "Recolecta los objetos"
 	},
 	[17324] = {
-		Title = "Festival de Fideos",
+		Title = "Festival de los Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Viajero, por favor entrega estos fideos <NAVI>[en ese lugar]<INFO>malangdo,168,219,101,0,</INFO></NAVI>."
+			"Viajero, por favor entrega estos fideos <NAVI>[aquí]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Habla con Po"
 	},
 	[17325] = {
-		Title = "Festival de Fideos",
+		Title = "Festival de los Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ahora que terminamos, volvamos a hablar con <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+			"Ahora que hemos terminado, volvamos a hablar con <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Habla con Nike"
 	},
@@ -46324,54 +46332,57 @@ QuestInfoList = {
 		Title = "Especial de la Casa",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Consigue 1x Cola de Pescado, 5x Tinta de Pulpo, 5x Espagueti y 5x Albóndiga. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+			"Trae 1x Cola de Pescado, 5x Tinta de Pulpo, 5x Fideo Espagueti y 5x Albóndiga a <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
 		},
-		Summary = "Reúne los objetos"
+		Summary = "Recolecta los objetos"
 	},
 	[17327] = {
 		Title = "[Espera] Especial de la Casa",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"¡Ya ayudaste mucho por hoy! ¡Por favor ven con la misma energía altruista mañana! - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+			"¡Ya has ayudado bastante por hoy! ¡Por favor, vuelve con la misma energía altruista mañana! - <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
 		},
-		Summary = "Regresa mañana.­",
-		CoolTimeQuest = 1
+		Summary = "4 AM.­"
 	},
 	[17328] = {
-		Title = "Cupón: Evento Fideos completado",
-		Description = {
-			"¿Qué tal los fideos de hoy? Si completaste todos los eventos de hoy, ve a la <NAVI>[Recepción de cupones]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> y ¡sella el cupón!"
-		},
-		Summary = "Orzo completado."
-	},
-	[17329] = {
-		Title = "Cupón: Completa Postre de sandía",
-		Description = {
-			"Completaste la prueba de aplastar sandías. Si completaste los 4 eventos del día, ve a la <NAVI>[Recepción de cupones]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> y ¡¡sella el cupón!!"
-		},
-		Summary = "Ayudante Lami completado."
-	},
-	[17330] = {
-		Title = "Cupón: Fideos malos completados",
-		Description = {
-			"Recolectaste todos los fideos malos. Si completaste los 4 eventos del día, ve a la <NAVI>[Recepción de cupones]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> y sella el cupón."
-		},
-		Summary = "Ayudante Domi completado."
-	},
-	[17331] = {
-		Title = "Festival de Fideos",
+		Title = "[Hecho] Cocinar Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Si completaste todas las actividades de hoy, encuentra al <NAVI>[Organizador del Festival]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>."
+			"Si has completado todas las actividades de hoy, busca al [<NAVI>Organizador<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>] para confirmar tu presencia en el festival."
 		},
-		Summary = "Con el Organizador"
+		Summary = "¡Misión Completa!"
+	},
+	[17329] = {
+		Title = "[Hecho] Cosecha de Sandía",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Si has completado todas las actividades de hoy, busca al [<NAVI>Organizador<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>] para confirmar tu presencia en el festival."
+		},
+		Summary = "¡Misión Completa!"
+	},
+	[17330] = {
+		Title = "[Hecho] Fideos Podridos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Si has completado todas las actividades de hoy, busca al [<NAVI>Organizador<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>] para confirmar tu presencia en el festival."
+		},
+		Summary = "¡Misión Completa!"
+	},
+	[17331] = {
+		Title = "Festival de los Fideos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Si has completado todas las actividades de hoy, busca al <NAVI>[Organizador]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "Al Organizador"
 	},
 	[17332] = {
-		Title = "Cupón: Intercambio de sombreros",
+		Title = "Apariencia de Fideos",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Te di un sombrero. ¡Feliz Festival!"
+			"¡Has recibido la apariencia de este año!"
 		},
-		Summary = "Intercambio de sombreros completado."
+		Summary = "¡Feliz festival!"
 	},
 	[17333] = {
 		Title = "Invitados de la Mansión",
@@ -47499,7 +47510,7 @@ QuestInfoList = {
 		Title = "Senda del Cielo: Buen Karma 1",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Si ayudas a los demás, yo también te ayudaré. Hay una <NAVI>[persona]<INFO>venas,238,110,0,101,0,</INFO></NAVI> que quiere que le cumpla un deseo. Vamos a visitarla."
+			"Si ayudas a los demás, yo también te ayudaré. Hay una <NAVI>[persona]<INFO>veins,238,110,0,101,0,</INFO></NAVI> que quiere que le cumpla un deseo. Vamos a visitarla."
 		},
 		Summary = "Visita a la persona necesitada."
 	},
@@ -47507,7 +47518,7 @@ QuestInfoList = {
 		Title = "Senda del Cielo: Buen Karma 1",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"Ayuda a la persona necesitada. Trae 3 unidades de Veneno pegajoso, 20 Flores carnívoras, 3 Raíces de Flor carnívora a <NAVI>[Velo]<INFO>venas,238,110,0,101,0,</INFO></NAVI>."
+			"Ayuda a la persona necesitada. Trae 3 unidades de Veneno pegajoso, 20 Flores carnívoras, 3 Raíces de Flor carnívora a <NAVI>[Velo]<INFO>veins,238,110,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Recolecta los materiales."
 	},
@@ -47611,6 +47622,119 @@ QuestInfoList = {
 			"“Lo único que <NAVI>[ yo ]<INFO>payon,197,122,0,101,0,</INFO></NAVI> puedo hacer es enseñar. Aprender y dominar depende enteramente del estudiante”."
 		},
 		Summary = "Termina el entrenamiento."
+	},
+	[17554] = {
+		Title = "Pato Perdido",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"En Lasagna, hay un [<NAVI>Pato<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>] cerca del lugar de pesca al sur. Si el dueño no viene a buscarlo, llévalo al Centro de Objetos Perdidos."
+		},
+		Summary = "Al Pato"
+	},
+	[17555] = {
+		Title = "Cocinar Fideos",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Maestro Fideo Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, en Lasagna, pidió 5 Fideos Corbata, 5 Fideos Espagueti, 5 Fideos Tornillo y 3 Albóndigas."
+		},
+		Summary = "Trae los objetos"
+	},
+	[17556] = {
+		Title = "¡Festival Completado!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ayudé a los patos. Como completaste los 4 eventos, ve a <NAVI>[Malangdo]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Habla con el Pato"
+	},
+	[17557] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"¡Ve a la <NAVI>[Cueva de Lasagna]<INFO>lasa_sea,21,144,0,101,0,</INFO></NAVI>! Allí, recolecta botones que parecen una estrella."
+		},
+		Summary = "A la Cueva"
+	},
+	[17558] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"En algún lugar de la cueva, hay patos escondidos. Busquémoslos <NAVI>[aquí]<INFO>lasa_sea,74,202,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encuentra Patos"
+	},
+	[17559] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"En algún lugar de la cueva, hay patos escondidos. Busquémoslos <NAVI>[aquí]<INFO>lasa_sea,135,70,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encuentra Patos"
+	},
+	[17560] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"En algún lugar de la cueva, hay patos escondidos. Busquémoslos <NAVI>[aquí]<INFO>lasa_sea,18,51,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encuentra Patos"
+	},
+	[17561] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"En algún lugar de la cueva, hay patos escondidos. Busquémoslos <NAVI>[aquí]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encuentra Patos"
+	},
+	[17562] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Volvamos a <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encuentra Patos"
+	},
+	[17563] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Parece confuso, esperemos al Pato en­ <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Espera"
+	},
+	[17564] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Habla con el <NAVI>[Pato]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Habla con el Pato­"
+	},
+	[17565] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ve a la Cueva, elimina Estrellitas para conseguir 20 Botones de Estrella y entrégaselos a <NAVI>[mí]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "20 Botones de Estrella"
+	},
+	[17566] = {
+		Title = "[Espera] ¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Esperemos al día siguiente para más. - <NAVI>[Pato]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[17567] = {
+		Title = "¿¡Botón de Estrella!?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ve a la Cueva, elimina Estrellitas para conseguir 20 Botones de Estrella y entrégaselos a <NAVI>[mí]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "20 Botones de Estrella"
 	},
 	[17568] = {
 		Title = "Senda del Cielo: Punto marcado",
@@ -49897,19 +50021,19 @@ QuestInfoList = {
 		Description = {
 			"Su hijo no ha vuelto de cortar leña. Tal vez fue al bosque al sur de Payon a recolectar leña. Vamos a buscarlo."
 		},
-		Summary = "Habla con Dongdong."
+		Summary = "Habla con Ricardo."
 	},
 	[21027] = {
 		Title = "¿Qué es ese árbol?",
 		Description = {
-			"Derrota a 3 Sauces y lleva 2 Troncos secos para Dongdong."
+			"Derrota a 3 Sauces y lleva 2 Troncos secos para Ricardo."
 		},
 		Summary = "2 unidades de Tronco seco."
 	},
 	[21028] = {
 		Title = "Dulce fruto del trabajo",
 		Description = {
-			"Decidiste ayudar a Dongdong con su trabajo. Derrota a 5 Sauces en el bosque al sur de Payon y junta 3 Troncos secos."
+			"Decidiste ayudar a Ricardo con su trabajo. Derrota a 5 Sauces en el bosque al sur de Payon y junta 3 Troncos secos."
 		},
 		Summary = "3 unidades de Troncos secos."
 	},
@@ -55328,7 +55452,7 @@ QuestInfoList = {
 	[21922] = {
 		Title = "En busca de un Devoto de la diosa 4",
 		Description = {
-			"Leno dice que hay un rastro sospechoso de movimiento hacia el este. Sigámoslo."
+			"Leno dice que hay un rastro sospechoso de movimiento hacia el sur. Sigámoslo."
 		},
 		Summary = "Habla con el soldado."
 	},
@@ -73156,15 +73280,15 @@ QuestInfoList = {
 		Title = "Pase de Batalla Diario 1-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 40 Pitaya (Rojo) y 40 Pitaya (Amarillo) en [Valle Perdido de Palm]ba_lost,160,60,0,101,0"
+			"Derrota 40 Pitayas Rojas y 40 Pitayas Amarillas en <NAVI>[Invernadero de Pitayas]<INFO>ba_lost,160,60,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar 40 Pitaya (Rojo) y 40 Pitaya (Amarillo)"
+		Summary = "Derrotar 40 Pitayas Rojas y 40 Pitayas Amarillas"
 	},
 	[295491] = {
-		Title = "Pase de Batalla: Derrotar Pitaya - En espera",
+		Title = "[Espera] Pase de Batalla: Derrotar Pitaya",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta mision es diaria. Una vez que termine el tiempo de espera, puede recibirla de nuevo. Tambien puede aceptar la mision del [Tablero de misiones]prontera,194,297,0,101,0 de la actividad del Pase de Batalla 5."
+			"Esta misión es diaria. Una vez que termine el tiempo de espera, puedes recibirla de nuevo. También puedes aceptar la misión en el <NAVI>[Tablero de misiones]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, de la actividad Pase de Batalla 5."
 		},
 		Summary = "Reinicio a las 04:00"
 	},
@@ -73172,15 +73296,15 @@ QuestInfoList = {
 		Title = "Pase de Batalla Diario 1-2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 40 Pitaya (Azul) y 40 Pitaya (Violeta) en [Valle Perdido de Palm]ba_lost,160,60,0,101,0"
+			"Derrota 40 Pitayas Azules y 40 Pitayas Violetas en <NAVI>[Invernadero de Pitayas]<INFO>ba_lost,160,60,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar 40 Pitaya (Azul) y 40 Pitaya (Violeta)"
+		Summary = "Derrotar 40 Pitayas Azules y 40 Pitayas Violetas"
 	},
 	[295493] = {
-		Title = "Pase de Batalla: Torre de Thanatos - Espera (Recolectar Fragmentos de recuerdo)",
+		Title = "[Espera] Pase de Batalla: Recolectar Fragmentos de Recuerdo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta mision es diaria. Cuando termine el tiempo de espera, puede recibirla de nuevo. Tambien puede aceptar la mision del [Tablero de misiones]prontera,194,297,0,101,0 de la actividad del Pase de Batalla 5."
+			"Esta misión es diaria. Una vez que termine el tiempo de espera, puedes recibirla de nuevo. También puedes aceptar la misión en el <NAVI>[Tablero de misiones]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, de la actividad Pase de Batalla 5."
 		},
 		Summary = "Reinicio a las 04:00"
 	},
@@ -73188,15 +73312,15 @@ QuestInfoList = {
 		Title = "Pase de Batalla Diario 1-3",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 40 Pitaya (Verde) y 10 de cada otro color en [Valle Perdido de Palm]ba_lost,160,60,0,101,0"
+			"Derrota 40 Pitayas Verdes y 10 de cada otro color (Roja, Amarilla, Azul y Violeta) en <NAVI>[Invernadero de Pitayas]<INFO>ba_lost,160,60,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar 40 Pitaya (Verde) y 10 de cada otro color"
+		Summary = "Derrotar 40 Pitayas Verdes y 10 de cada otro color"
 	},
 	[295495] = {
-		Title = "Pase de Batalla: Exploracion de la Mazmorra Conmemorativa 17.2 - En espera",
+		Title = "[Espera] Pase de Batalla: Exploración de la Instancia 17.2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta mision es diaria. Cuando termine el tiempo de espera, puede recibirla de nuevo. Tambien puede aceptar la mision del [Tablero de misiones]prontera,194,297,0,101,0 de la actividad del Pase de Batalla 5."
+			"Esta misión es diaria. Una vez que termine el tiempo de espera, puedes recibirla de nuevo. También puedes aceptar la misión en el <NAVI>[Tablero de misiones]<INFO>prontera,165,252,0,101,0</INFO></NAVI> de la actividad Pase de Batalla 5."
 		},
 		Summary = "Reinicio a las 04:00"
 	},
@@ -73204,15 +73328,15 @@ QuestInfoList = {
 		Title = "Pase de Batalla Diario 3-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 1 Sweety en [Sweety]ba_in01,32,250,0,101,0"
+			"Derrota 1 Sweety en <NAVI>[Sweety]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Derrotar 1 Sweety"
 	},
 	[295497] = {
-		Title = "Pase de Batalla: Derrotar monstruos en la Torre de Thanatos - En espera",
+		Title = "[Espera] Pase de Batalla: Derrotar monstruos en la Torre de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta mision es diaria. Cuando termine el tiempo de espera, puede recibirla de nuevo. Tambien puede aceptar la mision del [Tablero de misiones]prontera,194,297,0,101,0 de la actividad del Pase de Batalla 5."
+			"Esta misión es diaria. Una vez que termine el tiempo de espera, puedes recibirla de nuevo. También puedes aceptar la misión en el <NAVI>[Tablero de misiones]<INFO>prontera,165,252,0,101,0</INFO></NAVI> de la actividad Pase de Batalla 5."
 		},
 		Summary = "Reinicio a las 04:00"
 	},
@@ -73220,15 +73344,15 @@ QuestInfoList = {
 		Title = "Pase de Batalla Diario 3-2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 1 Silva Papilla en [Harad]ba_maison,238,44,0,101,0"
+			"Derrota 1 Silva Papilla en <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Derrotar 1 Silva Papilla"
 	},
 	[295499] = {
-		Title = "Pase de Batalla: Derrotar Senior Red Pepper - En espera",
+		Title = "[Espera] Pase de Batalla: Derrotar Gran Pimiento Rojo",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta mision es diaria. Cuando termine el tiempo de espera, puede recibirla de nuevo. Tambien puede aceptar la mision del [Tablero de misiones]prontera,194,297,0,101,0 de la actividad del Pase de Batalla 5."
+			"Esta misión es diaria. Una vez que termine el tiempo de espera, puedes recibirla de nuevo. También puedes aceptar la misión en el <NAVI>[Tablero de misiones]<INFO>prontera,165,252,0,101,0</INFO></NAVI> de la actividad Pase de Batalla 5."
 		},
 		Summary = "Reinicio a las 04:00"
 	},
@@ -73236,15 +73360,15 @@ QuestInfoList = {
 		Title = "Pase de Batalla Diario 3-3",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota al jefe Meow en [Sweety]ba_maison,311,206,0,101,0"
+			"Derrota al Jefe Pitaya en <NAVI>[Luynan]<INFO>ba_maison,311,206,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Derrotar al jefe Meow 1 vez"
+		Summary = "Derrotar al Jefe Pitaya 1 vez"
 	},
 	[295501] = {
-		Title = "Pase de Batalla: Derrotar a Thanatos Phantom o Broken Thanatos - En espera",
+		Title = "[Espera] Pase de Batalla: Derrotar a Thanatos o Fragmento de Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta mision es diaria. Cuando termine el tiempo de espera, puede recibirla de nuevo. Tambien puede aceptar la mision del [Tablero de misiones]prontera,194,297,0,101,0 de la actividad del Pase de Batalla 5."
+			"Esta misión es diaria. Una vez que termine el tiempo de espera, puedes recibirla de nuevo. También puedes aceptar la misión en el <NAVI>[Tablero de misiones]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, de la actividad Pase de Batalla 5."
 		},
 		Summary = "Reinicio a las 04:00"
 	},
@@ -73252,72 +73376,617 @@ QuestInfoList = {
 		Title = "Pase de Batalla Diario 4-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 5 Void Mimic y 5 Book of Death en [Sala del Dolor]tha_t09,20,99,0,101,0"
+			"Derrota 5 Mímicos del Vacío y 5 Libros de la Muerte en <NAVI>[Torre de Thanatos - Sala de la Angustia]<INFO>tha_t09,20,99,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar 5 Void Mimic y 5 Book of Death"
+		Summary = "Derrotar 5 Mímicos del Vacío y 5 Libros de la Muerte"
 	},
 	[295503] = {
-		Title = "Mision de temporada del Pase de Batalla 5 - Completada",
+		Title = "Misión de temporada del Pase de Batalla 5 - Completada",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Has completado un total de 444 misiones diarias."
 		},
-		Summary = "?®Felicidades! Eres un jugador muy dedicado"
+		Summary = "¡Felicidades! Eres un jugador muy dedicado"
 	},
 	[295504] = {
 		Title = "Pase de Batalla Diario 4-2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 5 Eldest y 10 Crow Duke en [Sala del Dolor]tha_t09,20,99,0,101,0"
+			"Derrota 5 Ancianos Primitivos y 10 Duques Cuervo en <NAVI>[Torre de Thanatos - Sala de la Angustia]<INFO>tha_t09,20,99,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar 5 Eldest y 10 Crow Duke"
+		Summary = "Derrotar 5 Ancianos Primitivos y 10 Duques Cuervo"
 	},
 	[295506] = {
 		Title = "Pase de Batalla Diario 4-3",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 15 Crow Baron en [Sala del Dolor]tha_t09,20,99,0,101,0"
+			"Derrota 15 Barones Cuervo en <NAVI>[Torre de Thanatos - Sala de la Angustia]<INFO>tha_t09,20,99,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar 15 Crow Baron"
+		Summary = "Derrotar 15 Barones Cuervo"
 	},
 	[295508] = {
 		Title = "Pase de Batalla Diario 5",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 1 Senior Red Pepper en [Lamda (Dificil)]ba_maison,120,321,0,101,0"
+			"Derrota 1 Gran Pimiento Rojo en <NAVI>[Lamda (Dificil)]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar 1 Senior Red Pepper"
+		Summary = "Derrotar 1 Gran Pimiento Rojo"
 	},
 	[295510] = {
 		Title = "Pase de Batalla Diario 6-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 1 Thanatos Phantom en [Recuerdo de Thanatos]thana_step,154,367,0,101,0"
+			"Derrota 1 Thanatos en <NAVI>[Recuerdo de Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar 1 Thanatos Phantom"
+		Summary = "Derrotar 1 Thanatos"
 	},
 	[295511] = {
 		Title = "Pase de Batalla Diario 6-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrota 1 Broken Thanatos en [Recuerdo de Thanatos]thana_step,154,367,0,101,0"
+			"Derrota 1 Fragmento de Thanatos en <NAVI>[Recuerdo de Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Derrotar 1 Broken Thanatos"
+		Summary = "Derrotar 1 Fragmento de Thanatos"
 	},
 	[295512] = {
 		Title = "Pase de Batalla Diario 2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Recolecta 3 Piezas de Recuerdo de cada color en [Sala del Odio]tha_t12,129,51,0,101,0"
+			"Recolecta 3 Fragmentos de Recuerdo de cada color en <NAVI>[Sala del odio de la Torre de Thanatos]<INFO>tha_t12,129,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Recolectar 3 Piezas de Recuerdo de cada color"
+		Summary = "Recolectar 3 Fragmentos de Recuerdo de cada color"
 	},
 	[295513] = {
-		Title = "Mision de temporada del Pase de Batalla 5",
+		Title = "Misión de Temporada del Pase de Batalla 5",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Al completar un total de 444 misiones diarias, podra verificar su progreso en el [Tablero de misiones]prontera,194,297,0,101,0 de la actividad del Pase de Batalla 5."
+			"Al completar un total de 444 misiones diarias, podrás verificar tu progreso en el <NAVI>[Tablero de misiones]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, de la actividad del Pase de Batalla 5."
 		},
 		Summary = "Completar un total de 444 misiones diarias"
+	},
+	[295520] = {
+		Title = "[Espera] Tienda de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"La lista de la tienda diaria de hoy ha sido actualizada. Puedes reiniciarla a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295521] = {
+		Title = "[Espera] 1er objeto de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Has comprado el primer objeto de la tienda diaria. Puedes reiniciar la lista a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295522] = {
+		Title = "[Espera] 2do objeto de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Ha comprado el segundo articulo de la tienda diaria. Puedes reiniciar la lista a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295523] = {
+		Title = "[Espera] 3er objeto de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Has comprado el tercer objeto de la tienda diaria. Puede reiniciar la lista a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295524] = {
+		Title = "[Espera] 4to objeto de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Ha comprado el cuarto objeto de la tienda diaria. Puedes reiniciar la lista a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295525] = {
+		Title = "[Espera] 5to objeto de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Has comprado el quinto objeto de la tienda diaria. Puede reiniciar la lista a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295526] = {
+		Title = "[Espera] 6to objeto de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Has comprado el sexto objeto de la tienda diaria. Puedes reiniciar la lista a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295527] = {
+		Title = "[Espera] 7mo objeto de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Has comprado el séptimo objeto de la tienda diaria. Puedes reiniciar la lista a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295528] = {
+		Title = "[Espera] 8vo objeto de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Has comprado el octavo objeto de la tienda diaria. Puedes reiniciar la lista a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[295529] = {
+		Title = "[Espera] Tienda de Máquina Clin-clin",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Has agotado todos los reinicios de la tienda diaria. Podrás volver a utilizarla después de las 04:00 a través de <NAVI>[Máquina Clin-clin]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicio a las 04:00",
+		CoolTimeQuest = 1
+	},
+	[297001] = {
+		Title = "Conversación con el recluta Woods Goofus",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Habla con el <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>, que está en el campo 5 de Hugel."
+		},
+		Summary = "Habla con el recluta Woods."
+	},
+	[297002] = {
+		Title = "Recolección de 30 Cuernos de Baphonet pequeños",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Habla con el <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>, que está en el campo 5 de Hugel después de recolectar 30 <ITEM>Cuernos de Baphonet pequeños<INFO>1038</INFO></ITEM>."
+		},
+		Summary = "Habla con el recluta Woods."
+	},
+	[297003] = {
+		Title = "Lleva los cuernos a María en Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lleva los 30 <ITEM>Cuernos de Baphonet pequeños<INFO>1038</INFO></ITEM> a <NAVI>[María]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI>, que está en Hugel. María está dentro de esta <NAVI>[casa]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Habla con María."
+	},
+	[297004] = {
+		Title = "Conversación con el teniente Don Tyler en Hugel.",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Habla con el <NAVI>[teniente Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> en Hugel."
+		},
+		Summary = "Habla con el teniente Don."
+	},
+	[297005] = {
+		Title = "De vuelta con el recluta Woods Goofus",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Habla con el <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> en el campo 5 de Hugel."
+		},
+		Summary = "Habla con el recluta Woods."
+	},
+	[297006] = {
+		Title = "En busca de Buddy en el norte",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Busca al recluta Buddy en el campo 5 de Hugel. El <NAVI>[recluta Buddy Indigo]<INFO>hu_fild05,243,304,0,101,0</INFO></NAVI> está en el campo 5 de Hugel."
+		},
+		Summary = "Busca al recluta Buddy."
+	},
+	[297007] = {
+		Title = "Contarle a Woods sobre Buddy",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Cuéntale a Woods sobre el estado de Buddy. Busca al <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> está en el campo de Hugel 5."
+		},
+		Summary = "Habla con el recluta Woods."
+	},
+	[297008] = {
+		Title = "Contarle al teniente Don sobre Buddy",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Cuéntale al teniente Don sobre el estado de Buddy. El <NAVI>[teniente Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> está en Hugel."
+		},
+		Summary = "Habla con el teniente Don."
+	},
+	[297009] = {
+		Title = "Buddy está vivo, hay que ir a verlo",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El cadáver que ves en el campo 5 de Hugel no es de Buddy. Ve con el <NAVI>[recluta Buddy Indigo]<INFO>hu_in01,361,112,0,101,0</INFO></NAVI>. El recluta Buddy está dentro de esta <NAVI>[casa]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Habla con el recluta Buddy."
+	},
+	[297010] = {
+		Title = "Conversación con Chefcular Miau",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El recluta Buddy te pide que vayas con <NAVI>[Chefcular Miau]<INFO>hu_in01,377,108,0,101,0</INFO></NAVI>. Chefcular Miau está dentro de esta <NAVI>[casa]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Habla con Chefcular Miau."
+	},
+	[297011] = {
+		Title = "Chefcular necesita ingredientes",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Chefcular Miau]<INFO>hu_in01,377,108,0,101,0</INFO></NAVI> te pide que le traigas 30 unidades de <ITEM>Cyfar<INFO>7053</INFO></ITEM>, <ITEM>Brigan<INFO>7054</INFO></ITEM>, <ITEM>Lengua<INFO>1015</INFO></ITEM>, <ITEM>Cuernos de Baphonet pequeños<INFO>1038</INFO></ITEM>, <ITEM>Cuchillo de cocina oxidado<INFO>7208</INFO></ITEM>. Chefcular Miau está dentro de esta <NAVI>[casa]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Lleva objetos a Chefcular Miau."
+	},
+	[297012] = {
+		Title = "De vuelta con María en Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Vuelve con <NAVI>[María]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI>, que está en Hugel. Maria está dentro de esta <NAVI>[casa]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Habla con Maria."
+	},
+	[297013] = {
+		Title = "Ir a ver a Derpy Cupido en Malangdo",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ve a Malangdo y habla con <NAVI>[Derpy Cupido]<INFO>malangdo,187,226,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Habla con Derpy."
+	},
+	[297014] = {
+		Title = "Lleva la confesión de Derpy al teniente Don en Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Habla con el <NAVI>[teniente Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> en Hugel."
+		},
+		Summary = "Habla con el teniente Don."
+	},
+	[297015] = {
+		Title = "Cacería de Phendark",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El teniente Don Tyler pide derrotar a 100 Phendark. Se dice que este monstruo también aparece en la entrada del Lago del abismo, en la cueva subterránea del Lago del abismo y en el subsuelo 2 de la cueva subterránea del Lago del Abismo."
+		},
+		Summary = "Habla con el recluta Woods cuando termines."
+	},
+	[297016] = {
+		Title = "Cacería de Asesino sangriento",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El teniente Don Tyler pide que derrotes a 100 Asesinos sangrientos. Se dice que este monstruo también aparece en la entrada del Lago del abismo, en la cueva subterránea del Lago del abismo y en el subsuelo 2 de la cueva subterránea del Lago del Abismo."
+		},
+		Summary = "Habla con el recluta Woods cuando termines."
+	},
+	[297017] = {
+		Title = "Cacería de Injusticias",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El teniente Don Tyler pide que derrotes a 100 Injusticias. Se dice que este monstruo también aparece en la entrada del Lago del abismo, en la cueva subterránea del Lago del abismo y en el subsuelo 2 de la cueva subterránea del Lago del Abismo."
+		},
+		Summary = "Habla con el recluta Woods después de terminar."
+	},
+	[297018] = {
+		Title = "Cacería de Deviruchi",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El teniente Don Tyler pide que derrotes a 100 Deviruchi. Se dice que este monstruo también aparece en hu_fild05, abyss_01 y abyss_02."
+		},
+		Summary = "Habla con el recluta Woods cuando termines."
+	},
+	[297019] = {
+		Title = "Cacería de Rybio",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"El teniente Don Tyler pide que derrotes a 100 Rybio. Se dice que este monstruo también aparece en la entrada del Lago del abismo, en la cueva subterránea del Lago del abismo y en el subsuelo 2 de la cueva subterránea del Lago del Abismo."
+		},
+		Summary = "Habla con el recluta Woods cuando termines."
+	},
+	[297020] = {
+		Title = "Al completar toda la cacería",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Después de completar todas las misiones de cacería, informa al <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Habla con el recluta Woods cuando termines."
+	},
+	[297021] = {
+		Title = "Cacería de Phendark (completada)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión Cacería de Injusticias, habla con el <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> después de completar todas las misiones de cacería."
+		},
+		Summary = "Cacería de Phendark completada."
+	},
+	[297022] = {
+		Title = "Cacería del Asesino sangriento (completada)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión Cacería del Asesino sangriento. Habla con el <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> después de completar todas las misiones de cacería."
+		},
+		Summary = "Cacería del Asesino sangriento completada."
+	},
+	[297023] = {
+		Title = "Cacería de Injusticia (completada)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión Cacería de Injusticia, habla con el <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> después de completar todas las misiones de cacería."
+		},
+		Summary = "Cacería de Injusticia completada."
+	},
+	[297024] = {
+		Title = "Cacería de Deviruchi (completada)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión Cacería de Deviruchi. Habla con el <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> después de completar todas las misiones de cacería."
+		},
+		Summary = "Cacería de Deviruchi completada."
+	},
+	[297025] = {
+		Title = "Cacería de Rybio (completada)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Completaste la misión Cacería de Rybio. Habla con el <NAVI>[recluta Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> después de completar todas las misiones de cacería."
+		},
+		Summary = "Cacería de Rybio completada."
+	},
+	[297026] = {
+		Title = "Ir a ver al teniente Don Tyler en Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Habla con el <NAVI>[teniente Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> que está en Hugel."
+		},
+		Summary = "Habla con el teniente Don."
+	},
+	[297027] = {
+		Title = "Ir a hablar con María en Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Habla con <NAVI>[María]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> en Hugel. Maria está dentro de esta <NAVI>[casa]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Habla con María."
+	},
+	[297028] = {
+		Title = "Indultar a Derpy Cupido en Malangdo",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ve a Malangdo y habla con <NAVI>[Derpy Cupido]<INFO>malangdo,187,226,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Habla con Derpy"
+	},
+	[297029] = {
+		Title = "Cacería del Huevo de Pascua",
+		Description = {
+			"Encontremos 5 Huevos de Pascua. Probablemente estén en algún lugar del campo de la lasaña."
+		},
+		Summary = "Habla con Eggministrator."
+	},
+	[297030] = {
+		Title = "Cacería del Huevo de Pascua completada",
+		Description = {
+			"Encontraste todos los Huevos de Pascua. Habla con <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> en Lasagna."
+		},
+		Summary = "Habla con Eggministrator."
+	},
+	[297031] = {
+		Title = "[Tiempo de espera] Cacería de Huevo de Pascua",
+		Description = {
+			"Habla con <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> en Lasagna.",
+			"Ya se unió a la Cacería del Huevo de Pascua. Vuelve a intentarlo por fuera del ^ff000020 horario^000000 para participar en la Cacería del Huevo."
+		},
+		Summary = "Se reinicia cada 20 horas.",
+		CoolTimeQuest = 1
+	},
+	[297032] = {
+		Title = "[Evento] Canción de cuna para la Azucena (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Maya, a spiritualist from a certain organization, has been dispatched to Geffen to calm the ^4D4DFFspirit disturbance^000000 occurring during the ^4D4DFFFestival of the Dead^000000.",
+			"It seems there is a huge spirit disturbance found ^4D4DFFnear the Orc Village^000000 and it's somehow related to a ^4D4DFFfamous urban legend^000000 in Rune Midgard.",
+			"So, she is looking for an experienced adventurer to investigate the location and perform a spirit cleansing there.",
+			"",
+			"Well, you seem interested in this so-called spirit cleansing and decided to take up the request.",
+			"Let's visit the <NAVI>[Entrance to Orc Dungeon]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and see whether the legend is true.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Investiga la ubicación.",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297033] = {
+		Title = "[Evento] Canción de cuna para la Azucena (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You found the mysterious novice inside the entrance to the Orc Dungeon. Maya is also following you in her 'spirit form'.",
+			"But as soon as you approached the novice, she suddenly screamed, and everything went crazy.",
+			"",
+			"When you realized, you had been teleported to another place, and it's not looking good.",
+			"Yes. There's an <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI> waiting in front of you.",
+			"Why don't you gather up courage and try talking to it?",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Habla con el Espíritu siniestro.",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297034] = {
+		Title = "[Evento] Limpieza de espíritus",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have been tasked with purifying 5 spirit fragments that are scattered within this building complex to weaken that <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.",
+			"Let's show them that you are a talented adventurer, and maybe the organization will offer you a new job.",
+			"",
+			"Just walk around this area, and you might bump into one of the spirits.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Purifica 5 Espíritus.",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297035] = {
+		Title = "[Evento] Canción de cuna para la Azucena (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.",
+			"Who would have thought that this spirit is the one who torments Tiger Lily's soul?",
+			"",
+			"Let's go back and confront the spirit once and for all.",
+			"",
+			"Of course, Maya will do the job.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Enfrenta a un Espíritu ominoso.",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297036] = {
+		Title = "[Evento] Canción de cuna para la Azucena (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The ominous spirit has been purified. Tiger Lily's soul is no longer imprisoned by these malicious entities.",
+			"",
+			"Now, we might be able to purify <NAVI>[Tiger Lily]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and let her rest in peace once and for all.",
+			"",
+			"It's time to say goodbye for the last time to her.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Purifica el Lirio tigre.",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297037] = {
+		Title = "[Evento] Canción de cuna para la Azucena (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The tormented soul of a novice has been released, and she already left this world in peace.",
+			"",
+			"But I think I heard some weird things that come from that novice.",
+			"",
+			"Well, let's just talk to <NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> and end this bizzare adventure.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Habla con Maya.",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297038] = {
+		Title = "[Diario] Limpieza de espíritus",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have accepted Maya's request to do a spirit cleansing today.",
+			"Let's dive into the spirit realm and finish it early before dinner.",
+			"",
+			"If I recall correctly, first, you need to talk to the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>, right?",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Habla con el Espíritu siniestro.",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297039] = {
+		Title = "[Diario] Limpieza de espíritus",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.",
+			"",
+			"Let's confront the spirit and finish the job quickly.",
+			"Well, Maya will be the one who does the job, though.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Confronta a un Espíritu ominoso.",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297040] = {
+		Title = "[Diario] Limpieza de espíritus",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have completed today's Spirit Cleansing session.",
+			"",
+			"Let's report to 'real' Maya and claim your rewards.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Habla con Maya.",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297041] = {
+		Title = "[Tiempo de espera] Limpieza de espíritus",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have done enough today.",
+			"^FF0000Too many spirit cleansings will take a toll on your body.^000000",
+			"",
+			"Let's return to Maya after 20 hours if you want to do another spirit cleansing.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Se reinicia después de 20 horas.",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
 	}
 }

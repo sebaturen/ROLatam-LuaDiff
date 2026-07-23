@@ -2,7 +2,7 @@
     "gD76": {
         "en-US": "^3355FFThis seems like\nsome kind of device\nthat will allow you to\npass to the other side.\nThere's a slot where you\nprobably need to insert\nsome kind of object...^000000",
         "pt-BR": "^3355FFIsso parece ser\nalgum tipo de dispositivo\nque permitirá que você\npassar para o outro lado.\nHá uma abertura onde você\nprovavelmente precisará inserir\nalgum tipo de item...^000000",
-        "es-ES": "^3355FFParece\nun dispositivo\nque te permitirá \npasar al otro lado.\nHay una ranura donde\nprobablemente debas insertar\nalgún tipo de objeto…^000000"
+        "es-ES": "^3355FFParece\nun dispositivo\nque te permitirá \npasar al otro lado.\nHay una ranura donde\nprobablemente debas insertar\nalgún tipo de objeto...^000000"
     },
     "gT76": {
         "en-US": "Insert a Crest Piece.",
@@ -27,7 +27,7 @@
     "hT76": {
         "en-US": "^3355FFThe slot rotates and\nthe Crest Piece moves as\nif it were turning a key. You\nfeel a weak tremor as a Warp\nPortal to the other side is\nactivated. You then retrieve\nyour Crest Piece.^000000",
         "pt-BR": "^3355FFA abetura gira e o\nPedaço de Crista se move como\ncomo se estivesse girando uma chave. Você\nsente um tremor fraco quando um \nPortal para o outro lado é\nativado. Em seguida, você recupera\no Pedaço de Crista.^000000",
-        "es-ES": "^3355FFLa ranura gira y\nel Trozo de cimera se mueve como\ncomo si giraras una llave. Tú…\nsientes un débil temblor mientras\nse activa el Portal de teletransporte\nhacia el otro lado. Luego, recuperas\ntu Trozo de cimera.^000000"
+        "es-ES": "^3355FFLa ranura gira y\nel Trozo de cimera se mueve como\ncomo si giraras una llave. Tú...\nsientes un débil temblor mientras\nse activa el Portal de teletransporte\nhacia el otro lado. Luego, recuperas\ntu Trozo de cimera.^000000"
     },
     "hj76": {
         "en-US": "^3355FFUnfortunately, you're\nnot carrying anything\nthat might be able to fit\ninto the slot and activate\nthis mechanical device.^000000",
@@ -37,12 +37,12 @@
     "hz76": {
         "en-US": "[{0}]\nHmmm...\nDo I have anything\nthat might make this\nweird machine work?",
         "pt-BR": "[{0}]\nHmmm...\nTenho algum item\nque possa fazer essa\nmáquina estranha funcionar?",
-        "es-ES": "[{0}]\nMmmm…\n¿Tengo algo\nque pueda lograr\nque esta extraña máquina funcione?"
+        "es-ES": "[{0}]\nMmmm...\n¿Tengo algo\nque pueda lograr\nque esta extraña máquina funcione?"
     },
     "iD76": {
         "en-US": "Those of you who have come here...",
         "pt-BR": "Aqueles que vieram aqui...",
-        "es-ES": "A aquellos que vinieron hasta aquí…"
+        "es-ES": "A aquellos que vinieron hasta aquí..."
     },
     "iT76": {
         "en-US": "I do not intend to stop you.",
@@ -52,7 +52,7 @@
     "ij76": {
         "en-US": "But I assume you are prepared for a few obstacles...",
         "pt-BR": "Mas presumo que vocês estejam preparados para alguns obstáculos...",
-        "es-ES": "Pero supongo que están preparados para algunos obstáculos…"
+        "es-ES": "Pero supongo que están preparados para algunos obstáculos..."
     },
     "iz76": {
         "en-US": "After all, you are venturing through a forbidden area!",
@@ -77,7 +77,7 @@
     "jz76": {
         "en-US": "Let me see...",
         "pt-BR": "Deixe-me ver...",
-        "es-ES": "Déjame ver…"
+        "es-ES": "Déjame ver..."
     },
     "kD76": {
         "en-US": "Just how strong you are!",
@@ -92,7 +92,7 @@
     "kj76": {
         "en-US": "Zzzzt. Zzzzt.....",
         "pt-BR": "Zzzzt. Zzzzt.....",
-        "es-ES": "Zzzzt. Zzzzt….."
+        "es-ES": "Zzzzt. Zzzzt....."
     },
     "kz76": {
         "en-US": "Come on, come on!",
@@ -102,7 +102,7 @@
     "lD76": {
         "en-US": "Yes. Run... Right into my hands!",
         "pt-BR": "Sim. Corra... Direto para minhas mãos!",
-        "es-ES": "Sí. Corre… ¡y cae en mis manos!"
+        "es-ES": "Sí. Corre... ¡y cae en mis manos!"
     },
     "lT76": {
         "en-US": "Do you want to know who I am?",
@@ -122,7 +122,7 @@
     "mD76": {
         "en-US": "I can't believe how cowardly you really are...",
         "pt-BR": "Não posso acreditar em como vocês são covardes...",
-        "es-ES": "No puedo creer lo cobarde que eres…"
+        "es-ES": "No puedo creer lo cobarde que eres..."
     },
     "mT76": {
         "en-US": "I was the head of this underground laboratory.",
@@ -142,7 +142,7 @@
     "nD76": {
         "en-US": "...Not yet.",
         "pt-BR": "...Ainda não.",
-        "es-ES": "…Todavía no."
+        "es-ES": "...Todavía no."
     },
     "nT76": {
         "en-US": "Not yet!",
@@ -152,7 +152,7 @@
     "nj76": {
         "en-US": "These security systems...",
         "pt-BR": "Esses sistemas de segurança...",
-        "es-ES": "Estos sistemas de seguridad…"
+        "es-ES": "Estos sistemas de seguridad..."
     },
     "nz76": {
         "en-US": "They're not really for protection.",
@@ -162,17 +162,17 @@
     "oD76": {
         "en-US": "It's sort of just a hobby to pass the time...",
         "pt-BR": "São apenas um tipo de hobby para passar o tempo...",
-        "es-ES": "Es una especie de pasatiempo para distraerse…"
+        "es-ES": "Es una especie de pasatiempo para distraerse..."
     },
     "oT76": {
         "en-US": "Being immortal, I have a lot of time on my hands...",
         "pt-BR": "Como sou imortal, tenho muito tempo livre...",
-        "es-ES": "Como soy inmortal, tengo mucho tiempo libre…"
+        "es-ES": "Como soy inmortal, tengo mucho tiempo libre..."
     },
     "oj76": {
         "en-US": "Zzzzt... Zzzzt...",
         "pt-BR": "Zzzzt... Zzzzt...",
-        "es-ES": "Zzzzt… Zzzzt…"
+        "es-ES": "Zzzzt... Zzzzt..."
     },
     "oz76": {
         "en-US": "Why have you come?",
@@ -202,27 +202,27 @@
     "qD76": {
         "en-US": "If you hear this, I wish you will be the one...",
         "pt-BR": "Se estiver ouvindo, quero que esse alguém seja você...",
-        "es-ES": "Si escuchas esto, deseo que seas tú…"
+        "es-ES": "Si escuchas esto, deseo que seas tú..."
     },
     "qT76": {
         "en-US": "Perhaps, a mere shadow of my former self...",
         "pt-BR": "Talvez, uma mera sombra do meu antigo eu...",
-        "es-ES": "Tal vez, una mera sombra de mi antiguo yo…"
+        "es-ES": "Tal vez, una mera sombra de mi antiguo yo..."
     },
     "qj76": {
         "en-US": "Is somewhere down here, wandering...",
         "pt-BR": "Está em algum lugar aqui embaixo, vagando...",
-        "es-ES": "Está en algún lugar aquí abajo, vagando…"
+        "es-ES": "Está en algún lugar aquí abajo, vagando..."
     },
     "qz76": {
         "en-US": "I can never rest in peace...",
         "pt-BR": "Nunca poderei descansar em paz...",
-        "es-ES": "Nunca podré descansar en paz…"
+        "es-ES": "Nunca podré descansar en paz..."
     },
     "rD76": {
         "en-US": "I'll wait forever or until someone can put me out of my misery...",
         "pt-BR": "Vou esperar para sempre, ou até que alguém me tire dessa miséria...",
-        "es-ES": "Esperaré para siempre o hasta que alguien me libre de mi sufrimiento…"
+        "es-ES": "Esperaré para siempre o hasta que alguien me libre de mi sufrimiento..."
     },
     "rT76": {
         "en-US": "I will be waiting for you!",
@@ -232,7 +232,7 @@
     "rj76": {
         "en-US": "It's funny... Isn't it?",
         "pt-BR": "Engraçado... Não é?",
-        "es-ES": "Es curioso… ¿No?"
+        "es-ES": "Es curioso... ¿No?"
     },
     "rz76": {
         "en-US": "Lever2",
@@ -252,6 +252,6 @@
     "sj76": {
         "en-US": "[{0}]\nPull this lever?\nI don't even know\nwhat will happen...",
         "pt-BR": "[{0}]\nPuxar esta alavanca?\nEu não sei nem mesmo\no que vai acontecer...",
-        "es-ES": "[{0}]\n¿Tiro de esta palanca?\nNi siquiera sé \nlo que sucederá…"
+        "es-ES": "[{0}]\n¿Tiro de esta palanca?\nNi siquiera sé \nlo que sucederá..."
     }
 }

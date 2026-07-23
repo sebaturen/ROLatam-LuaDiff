@@ -52,7 +52,7 @@
     "ynguAg": {
         "en-US": "[Cukure]\nWait...!\nI can't even remember the last\ntime I went out with a guy! At this rate, I might retire before I can find a boyfriend. Noooo, I'm still in my prime~!",
         "pt-BR": "[Cukure]\nAhhh...\nEu tô sempre tão ocupada, hoje em dia.\nEu não tenho tempo nem pra namorar.\nDroga....",
-        "es-ES": "[Cukure]\n¡Espera…!\n¡Ni siquiera puedo recordar la última\nvez que salí con un chico! A este paso, puede que me jubile antes de encontrar novio. Noooo, ¡todavía estoy en la flor de la vida!"
+        "es-ES": "[Cukure]\n¡Espera...!\n¡Ni siquiera puedo recordar la última\nvez que salí con un chico! A este paso, puede que me jubile antes de encontrar novio. Noooo, ¡todavía estoy en la flor de la vida!"
     },
     "y3guAg": {
         "en-US": "[Cukure]\nWe conduct research on godly artifacts that were left behind by the gods long ago. More specifically, we're interested in the tools the gods used.",
@@ -67,7 +67,7 @@
     "zXguAg": {
         "en-US": "[Cukure]\nSince we're understaffed, we can't continue most of our research projects that are currently in progress. Speaking of which...",
         "pt-BR": "[Cukure]\n...\nRecentemente, muitos dos membros, à exceção dos líderes,\nse demitiram devido a problemas pessoais e coisas do tipo.\nEntão, estamos ficando sem força de trabalho.",
-        "es-ES": "[Cukure]\nPor ello, no podemos continuar con la mayoría de los proyectos de investigación que están en curso. Hablando de eso…"
+        "es-ES": "[Cukure]\nPor ello, no podemos continuar con la mayoría de los proyectos de investigación que están en curso. Hablando de eso..."
     },
     "znguAg": {
         "en-US": "[Cukure]\nDo you mind if I ask\nan adventurer like yourself\nto help us in our research?",
@@ -82,7 +82,7 @@
     "0HguAg": {
         "en-US": "I'm kind of busy...",
         "pt-BR": "Sou uma pessoa ocupada...",
-        "es-ES": "No tengo tiempo ahora…"
+        "es-ES": "No tengo tiempo ahora..."
     },
     "0XguAg": {
         "en-US": "Sure, why not?",
@@ -112,7 +112,7 @@
     "1nguAg": {
         "en-US": "[Cukure]\nOh, wait...\nLet me give you a temporary admission pass. Thank you\nso much for your help~",
         "pt-BR": "[Cukure]\nOh, espere...\nDeixe-me lhe dar um cartão de entrada temporário.\nMuito obrigada por sua ajuda.",
-        "es-ES": "[Cukure]\nOh, espera…\nDéjame darte un Pase de admisión temporal. Muchas gracias\npor tu ayuda."
+        "es-ES": "[Cukure]\nOh, espera...\nDéjame darte un Pase de admisión temporal. Muchas gracias\npor tu ayuda."
     },
     "13guAg": {
         "en-US": "^3355FFYou've received\na temporary\nadmission pass.^000000",
@@ -127,12 +127,12 @@
     "2XguAg": {
         "en-US": "[Cukure]\nAnd because of this job, it's really hard for me to enjoy\nhaving a personal life...",
         "pt-BR": "[Cukure]\nEntão, eu não tenho uma vida social por causa do meu trabalho...\n.......",
-        "es-ES": "[Cukure]\nY a causa de este trabajo, se me hace muy difícil disfrutar\nde tener una vida personal…"
+        "es-ES": "[Cukure]\nY a causa de este trabajo, se me hace muy difícil disfrutar\nde tener una vida personal..."
     },
     "2nguAg": {
         "en-US": "[Cukure]\nHahahaha...\nWhat am I doing?\nPlease just ignore what I just said. It's really not that big of a deal. ^333333*Sigh...*^000000",
         "pt-BR": "[Cukure]\nAh...bem....\nHahahaha...\nO que eu tô fazendo com um visitante...\nHeh, por favor esqueça o que eu disse.\nHahahahaha...",
-        "es-ES": "[Cukure]\nJajajaja...\n¿Qué estoy haciendo?\nPor favor, ignora lo que acabo de decir. Realmente no es para tanto. ^333333*Sigh…*^000000"
+        "es-ES": "[Cukure]\nJajajaja...\n¿Qué estoy haciendo?\nPor favor, ignora lo que acabo de decir. Realmente no es para tanto. ^333333*Sigh...*^000000"
     },
     "23guAg": {
         "en-US": "[Cukure]\nAh, thank you\nfor helping us out.\nI hope you'll continue\nto lend us your assistance.",
@@ -152,7 +152,7 @@
     "3nguAg": {
         "en-US": "[Cukure]\nAh...\nYou really helped us out a lot. Thank you for all you have done.",
         "pt-BR": "[Cukure]\nAh...\nVocê nos ajudou bastante.\nHahahaha...\nSeria muito mais difícil se você não tivesse ajudado.",
-        "es-ES": "[Cukure]\nAh…\nNos has ayudado mucho. Gracias por todo lo que hiciste."
+        "es-ES": "[Cukure]\nAh...\nNos has ayudado mucho. Gracias por todo lo que hiciste."
     },
     "33guAg": {
         "en-US": "[Cukure]\nAs you already know, we're trying to find out whether or not we can reproduce 'Sleipnir,' one of the tools used by the gods.",
@@ -162,7 +162,7 @@
     "4HguAg": {
         "en-US": "[Cukure]\nHowever....\nSo far it seems impossible, at least with the technology that we currently have. Hmm...",
         "pt-BR": "[Cukure]\nEntretanto...\naté agora, os resultados mostram que isso é quase impossível\ncom a tecnologia que temos.\nHmmm...",
-        "es-ES": "[Cukure]\nSin embargo…\nHasta ahora parece imposible, al menos con la tecnología que tenemos actualmente. Mmm…"
+        "es-ES": "[Cukure]\nSin embargo...\nHasta ahora parece imposible, al menos con la tecnología que tenemos actualmente. Mmm..."
     },
     "4XguAg": {
         "en-US": "[Cukure]\nAnyways, we will continue to research and hope that we'll be able to accomplish our goal of recreating Sleipnir someday.",
@@ -177,7 +177,7 @@
     "43guAg": {
         "en-US": "[Cukure]\nBefore I forget, let me give you your reward for assisting in our research projects. Please give\nme a minute...",
         "pt-BR": "[Cukure]\nAh, já que você nos ajudou, vou recompensá-lo.\nPor favor, me dê um minuto...",
-        "es-ES": "[Cukure]\nAntes de que se me olvide, permíteme darte tu recompensa por colaborar en nuestros proyectos de investigación. Por favor, dame\nun minuto…"
+        "es-ES": "[Cukure]\nAntes de que se me olvide, permíteme darte tu recompensa por colaborar en nuestros proyectos de investigación. Por favor, dame\nun minuto..."
     },
     "5HguAg": {
         "en-US": "[Cukure]\nAh, there it is.\nIt might not be much, but I hope you accept it as a token of my gratitude. Good luck on your travels!",
@@ -202,7 +202,7 @@
     "6HguAg": {
         "en-US": "[Cukure]\nAh, I'll also need to take back that temporary pass I gave to you. I'm sorry, but it's protocol we have to follow...",
         "pt-BR": "[Cukure]\nAh.... além disso,\npor favor, devolva-me o cartão de entrada temporário que lhe dei.\nBem...",
-        "es-ES": "[Cukure]\nAh, también tendrás que devolverme ese Pase temporal que te di. Lo siento, pero es el protocolo que debemos seguir…"
+        "es-ES": "[Cukure]\nAh, también tendrás que devolverme ese Pase temporal que te di. Lo siento, pero es el protocolo que debemos seguir..."
     },
     "6XguAg": {
         "en-US": "[Cukure]\nOnce again,\nthank you for\nall your help~",
@@ -222,7 +222,7 @@
     "7HguAg": {
         "en-US": "[Cukure]\nNow that things\nhave slowed down\na little...",
         "pt-BR": "[Cukure]\nAhhh...\nEu tô sempre tão ocupada hoje em dia.\nEu não tenho tempo nem pra namorar.\nDroga....",
-        "es-ES": "[Cukure]\nAhora que las cosas\nse tranquilizaron\nun poco…"
+        "es-ES": "[Cukure]\nAhora que las cosas\nse tranquilizaron\nun poco..."
     },
     "7XguAg": {
         "en-US": "[Cukure]\nI can finally\ngo on a date!\nHahahahahaha~!",
@@ -237,7 +237,7 @@
     "73guAg": {
         "en-US": "[Cukure]\nAnyway, we've already finished our current research projects. Now, we're in the planning stages for the next projects we'll be conducting...",
         "pt-BR": "[Cukure]\nNós conseguimos completar a pesquisa básica.\nO que significa que vamos planejar a nossa futura pesquisa baseados nos resultados que obtivemos dessa vez.",
-        "es-ES": "[Cukure]\nDe todos modos, ya terminamos nuestros proyectos de investigación actuales. Ahora estamos planificando los próximos proyectos que llevaremos a cabo…"
+        "es-ES": "[Cukure]\nDe todos modos, ya terminamos nuestros proyectos de investigación actuales. Ahora estamos planificando los próximos proyectos que llevaremos a cabo..."
     },
     "8HguAg": {
         "en-US": "[Cukure]\nThank you anyway, though. I hope you will come and help us the next time we need assistance on our projects.",
@@ -272,7 +272,7 @@
     "9nguAg": {
         "en-US": "[Hallandaute]\nNow...\nWhat would be\na good job for you?\nLet me think...",
         "pt-BR": "[Hallandaute]\nAh, bem...\nO que seria um bom trabalho pra você....\nDeixe-me pensar...\nAh...",
-        "es-ES": "[Hallandaute]\nEntonces…\n¿Cuál sería\nun buen trabajo para ti?\nDéjame pensar…"
+        "es-ES": "[Hallandaute]\nEntonces...\n¿Cuál sería\nun buen trabajo para ti?\nDéjame pensar..."
     },
     "93guAg": {
         "en-US": "[Hallandaute]\nI got it!\nWhy don't you go and visit ^FF0000Metto^000000 for me? Please bring me any news that he'd like to report.",
@@ -302,7 +302,7 @@
     "/HguAg": {
         "en-US": "[Hallandaute]\nHmmm...\nSo how's Metto?\nHmm? It seems like\nhe has changed...",
         "pt-BR": "[Hallandaute]\nHmmm....\nEntendo....\nObrigado por sua preocupação...",
-        "es-ES": "[Hallandaute]\nMmmm...\n¿Cómo está Metto?\n¿Mmm? Parece que\nha cambiado…"
+        "es-ES": "[Hallandaute]\nMmmm...\n¿Cómo está Metto?\n¿Mmm? Parece que\nha cambiado..."
     },
     "/XguAg": {
         "en-US": "[Hallandaute]\nHmmm...\nSo how's Metto?",
@@ -312,17 +312,17 @@
     "/nguAg": {
         "en-US": "[Hallandaute]\nA mad scientist?\nThat doesn't sound right. In my wildest dreams, I never would have suspected Metto of turning out that way...",
         "pt-BR": "[Hallandaute]\n?!\n...........\nAh, bem.....\nEu nunca esperava que a situação chegaria a esse ponto.\nUmmm....",
-        "es-ES": "[Hallandaute]\n¿Un científico loco?\nEso no suena bien. Ni en un millón de años me hubiera imaginado que Metto acabaría así…"
+        "es-ES": "[Hallandaute]\n¿Un científico loco?\nEso no suena bien. Ni en un millón de años me hubiera imaginado que Metto acabaría así..."
     },
     "/3guAg": {
         "en-US": "[Hallandaute]\nHuh. That's...\nThat's too bad. I don't know what to say. We used to go watch movies and celebrate our birthdays together. P-please give me a moment...",
         "pt-BR": "[Hallandaute]\nOh, bem, já aconteceu. Ok, obrigado pela ajuda.\nPor favor, espere um momento.\nEu tenho de pensar numa coisa.\nUmmmmm....",
-        "es-ES": "[Hallandaute]\nMm. Eso es…\nEs una pena. No sé qué decir. Solíamos ir a ver películas y celebrar nuestros cumpleaños juntos. Por favor, dame un momento…"
+        "es-ES": "[Hallandaute]\nMm. Eso es...\nEs una pena. No sé qué decir. Solíamos ir a ver películas y celebrar nuestros cumpleaños juntos. Por favor, dame un momento..."
     },
     "AHkuAg": {
         "en-US": "[Hallandaute]\nAh...\nYou came back.\nAlright, let me give you the gist of what I'm researching.",
         "pt-BR": "[Hallandaute]\nAh...\nVocê voltou.\n...Deixe-me lhe falar um pouco do que eu tô pesquisando agora.",
-        "es-ES": "[Hallandaute]\nAh…\nRegresaste.\nMuy bien, déjame darte el resumen de lo que estoy investigando."
+        "es-ES": "[Hallandaute]\nAh...\nRegresaste.\nMuy bien, déjame darte el resumen de lo que estoy investigando."
     },
     "AXkuAg": {
         "en-US": "[Hallandaute]\nI'm trying to learn more about the '^FF0000Wheel of the Unknown^000000,' which was discovered to be a piece of the artifact known as ^FF0000Sleipnir^000000.",
@@ -332,7 +332,7 @@
     "AnkuAg": {
         "en-US": "[Hallandaute]\nIt looks like\na normal cogwheel...\nBut I can't figure out how it's supposed to work.",
         "pt-BR": "[Hallandaute]\nParece apenas uma roda dentada comum, mas eu não consigo entender como ela funciona.",
-        "es-ES": "[Hallandaute]\nSe ve como\nuna rueda dentada común y corriente…\nPero no logro entender cómo se supone que funciona."
+        "es-ES": "[Hallandaute]\nSe ve como\nuna rueda dentada común y corriente...\nPero no logro entender cómo se supone que funciona."
     },
     "A3kuAg": {
         "en-US": "[Hallandaute]\nThe most peculiar thing of all about this cogwheel is the metal\nof which it is composed.",
@@ -367,7 +367,7 @@
     "CXkuAg": {
         "en-US": "[Hallandaute]\nLet's see...\nNow how would I...\n^333333*Mumble mumble*^000000",
         "pt-BR": "[Hallandaute]\nPor favor, me dê um minuto.\nTenho de organizar umas coisas\nUmmm....\nPor isso...\n- e murmura alguma coisa.",
-        "es-ES": "[Hallandaute]\nVeamos…\nEntonces, ¿cómo podría…?\n^333333*Mumble mumble*^000000"
+        "es-ES": "[Hallandaute]\nVeamos...\nEntonces, ¿cómo podría...?\n^333333*Mumble mumble*^000000"
     },
     "CnkuAg": {
         "en-US": "[Hallandaute]\nHmmm...\nHow does this work?\nThere's still too much we don't know about the godly artifacts. ^333333*Sigh*^000000",
@@ -397,7 +397,7 @@
     "D3kuAg": {
         "en-US": "[Aadin]\n^333333*Yawn~*^000000\nHmmmmm?\nAh...",
         "pt-BR": "[Aadin]\n*bocejo*\nHã?\nHmmm....",
-        "es-ES": "[Aadin]\n^333333*Bostezo*^000000\n¿Mmmmmm?\nAh…"
+        "es-ES": "[Aadin]\n^333333*Bostezo*^000000\n¿Mmmmmm?\nAh..."
     },
     "EHkuAg": {
         "en-US": "[Aadin]\nNice to meet you.\nYou're the temporary assistant, right? That's great, all of us are having a hard time working\nwithout much help.",
@@ -477,17 +477,17 @@
     "H3kuAg": {
         "en-US": "[Aadin]\n...\n......",
         "pt-BR": "[Aadin]\n...\n......",
-        "es-ES": "[Aadin]\n…\n......"
+        "es-ES": "[Aadin]\n...\n......"
     },
     "IHkuAg": {
         "en-US": "[Aadin]\n...\n......\n.........",
         "pt-BR": "[Aadin]\n...\n......\n.........",
-        "es-ES": "[Aadin]\n…\n......\n........."
+        "es-ES": "[Aadin]\n...\n......\n........."
     },
     "IXkuAg": {
         "en-US": "[Aadin]\n...\n......\n.........\n............",
         "pt-BR": "[Aadin]\n...\n......\n.........\n............",
-        "es-ES": "[Aadin]\n…\n......\n.........\n............"
+        "es-ES": "[Aadin]\n...\n......\n.........\n............"
     },
     "InkuAg": {
         "en-US": "[Aadin]\nHmm, I see.\nFascinating.\nHowever, I'm sure\nyou've missed some\nimportant detail.",
@@ -502,7 +502,7 @@
     "JHkuAg": {
         "en-US": "[Aadin]\nMm...?\nYou haven't left\nfor Payon yet...?\nI hope you can\ntell me the rest\nof the story soon.",
         "pt-BR": "[Aadin]\nVocê ainda não partiu para Payon.\nEspero que vá o mais rápido possível.",
-        "es-ES": "[Aadin]\n¿Mm…?\n¿Aún no te fuiste\na Payon…?\nEspero que puedas\ncontarme el resto\nde la historia pronto."
+        "es-ES": "[Aadin]\n¿Mm...?\n¿Aún no te fuiste\na Payon...?\nEspero que puedas\ncontarme el resto\nde la historia pronto."
     },
     "JXkuAg": {
         "en-US": "[Aadin]\nIn the meantime, I will try to complete as much of my research\nas I can with the story details that you've already brought.",
@@ -522,7 +522,7 @@
     "KHkuAg": {
         "en-US": "Well, um...",
         "pt-BR": "Bom, err...",
-        "es-ES": "Bueno, em…"
+        "es-ES": "Bueno, em..."
     },
     "KXkuAg": {
         "en-US": "Impossible!",
@@ -532,7 +532,7 @@
     "KnkuAg": {
         "en-US": "[Aadin]\nHmm.\nNo, wait...\nThat was the\ncomplete story.\nMy apologies~",
         "pt-BR": "[Aadin]\nHmm.\nNão, um momento...\nEsta realmente foi\na história completa.\nMe desculpe~",
-        "es-ES": "[Aadin]\nMmm.\nNo, espera…\nEsa fue la\nhistoria completa.\nPerdón."
+        "es-ES": "[Aadin]\nMmm.\nNo, espera...\nEsa fue la\nhistoria completa.\nPerdón."
     },
     "K3kuAg": {
         "en-US": "[Aadin]\nAh~\nI stand corrected.\nThank you for pointing\nout my error in judgment.",
@@ -607,7 +607,7 @@
     "OXkuAg": {
         "en-US": "[Kurdt]\nI don't need a\nridiculous amount of one\nkind of material, I'd say about 10 of one kind of each item should work. Give or take 5...",
         "pt-BR": "[Kurdt]\nEu não preciso de muito, só uns dez de cada.",
-        "es-ES": "[Kurdt]\nNo necesito una\ncantidad ridícula de cada\ntipo de material, pero diría que unas 10 unidades de cada tipo de objeto deberían bastar. Más o menos 5…"
+        "es-ES": "[Kurdt]\nNo necesito una\ncantidad ridícula de cada\ntipo de material, pero diría que unas 10 unidades de cada tipo de objeto deberían bastar. Más o menos 5..."
     },
     "OnkuAg": {
         "en-US": "[Kurdt]\nI should mention that I also require a good variety of marine related materials. You can't conduct an experiment without different objects to test, right?",
@@ -622,12 +622,12 @@
     "PHkuAg": {
         "en-US": "[Kurdt]\nAh, you've returned.\nOkay, let me check\nwhat you brought to me. Hmm...",
         "pt-BR": "[Kurdt]\nAh, você voltou!\nDeixe-me ver o que você trouxe.\nHmmm....\n.........",
-        "es-ES": "[Kurdt]\nAh, has vuelto.\nVale, déjame comprobar\nlo que me trajiste. Mmm…"
+        "es-ES": "[Kurdt]\nAh, has vuelto.\nVale, déjame comprobar\nlo que me trajiste. Mmm..."
     },
     "PXkuAg": {
         "en-US": "[Kurdt]\nOoh...\nI could use these.\nAnd these too. Oh!\nYou adventurers carry\na lot of things, don't you?",
         "pt-BR": "[Kurdt]\nHmmm....\nEu posso usar esses...\ne esses também.....\neee esses também......\nHmm.....",
-        "es-ES": "[Kurdt]\nOh…\nEsto me sirve.\nY esto también. ¡Ah!\nUstedes los trotamundos llevan\nmuchas cosas, ¿verdad?"
+        "es-ES": "[Kurdt]\nOh...\nEsto me sirve.\nY esto también. ¡Ah!\nUstedes los trotamundos llevan\nmuchas cosas, ¿verdad?"
     },
     "PnkuAg": {
         "en-US": "[Kurdt]\nAh....!\nThe materials you have should be enough for me to conduct my experiment. Thank you so much.",
@@ -642,7 +642,7 @@
     "QHkuAg": {
         "en-US": "[Kurdt]\nYou really were\nsuch a great help.\nThank you so much!\nHahaha....!",
         "pt-BR": "[Kurdt]\nEu não esperava que você fizesse um trabalho tão bom...\nvocê é ótimo!\nMuito obrigada!\nHahaha....",
-        "es-ES": "[Kurdt]\nTu ayuda en verdad\nfue excelente.\n¡Muchísimas gracias!\n¡Ja, ja, ja…!"
+        "es-ES": "[Kurdt]\nTu ayuda en verdad\nfue excelente.\n¡Muchísimas gracias!\n¡Ja, ja, ja...!"
     },
     "QXkuAg": {
         "en-US": "[Kurdt]\nNow, there may be\nother researchers\nwho might need your help in completing their projects. Why don't you ask around to see if\nthey need anything?",
@@ -662,7 +662,7 @@
     "RHkuAg": {
         "en-US": "[Kurdt]\nHmmm....\nFunds and\nmanpower are\nimportant for\nresearch to progress.",
         "pt-BR": "[Kurdt]\nHmmm....\nEstudar alguma coisa não requer apenas\nfundos e força de trabalho, mas também paixão e entusiasmo.",
-        "es-ES": "[Kurdt]\nMmm…\nLos fondos y\nla mano de obra son\nimportantes para\nel progreso de la investigación."
+        "es-ES": "[Kurdt]\nMmm...\nLos fondos y\nla mano de obra son\nimportantes para\nel progreso de la investigación."
     },
     "RXkuAg": {
         "en-US": "[Kurdt]\nBut no amount of financing or staffing can replace the value of enthusiasm and passion in conducting research.",
@@ -682,12 +682,12 @@
     "SHkuAg": {
         "en-US": "[Pavel]\n^333333*Sniff sniff*...\n*Achoo!*^000000 Huh?\nWho are you?",
         "pt-BR": "[Pavel]\n*sniff sniff*...\nAtchim!\nHã?\nQuem é você?\n....",
-        "es-ES": "[Pavel]\n^333333*Inhala, inhala…*\n*¡Achú!*^000000 ¿Eh?\n¿Quién eres?"
+        "es-ES": "[Pavel]\n^333333*Inhala, inhala...*\n*¡Achú!*^000000 ¿Eh?\n¿Quién eres?"
     },
     "SXkuAg": {
         "en-US": "[Pavel]\nOh, sorry.\nYou must be the new assistan--^333333*Aaachoo!^000000 Ehhm, ^333333*Sniff sniff*^000000 I'm sorry. As you can see, I'm feeling a little bit under the weather.",
         "pt-BR": "[Pavel]\nAh, minhas desculpas.\nVocê deve ser o novo assistente... Aaatchim!\nHmm hmmm *sniff sniff*... Desculpe, eu estou gripado...\n*sniff sniff*...\n*sniff*...hmmm...",
-        "es-ES": "[Pavel]\nAh, lo siento.\nTú debes ser el nuevo ayudante…^333333*¡Aaachú!^000000 Emm, ^333333*Inhala, inhala*^000000 Lo siento. Como puedes ver, estoy un poco enfermo."
+        "es-ES": "[Pavel]\nAh, lo siento.\nTú debes ser el nuevo ayudante...^333333*¡Aaachú!^000000 Emm, ^333333*Inhala, inhala*^000000 Lo siento. Como puedes ver, estoy un poco enfermo."
     },
     "SnkuAg": {
         "en-US": "[Pavel]\nIt's good to know that you're help to help me. But ^333333*Achoooo! Sniff Sniff*^000000",
@@ -697,27 +697,27 @@
     "S3kuAg": {
         "en-US": "[Pavel]\nAnyway, go look at --^333333*Aaachooo!*^000000 that ^333333*Achoooo!*^000000 thing... ^333333*Sniff sniff*^000000",
         "pt-BR": "[Pavel]\nHmm... Aaatchim!\nEnfim, vá olhar...Aaaatchim! aquela...aaatchim!\ncoisa...*sniff sniff*",
-        "es-ES": "[Pavel]\nDe todas formas, ve a mirar… ^333333*¡Aaachú!*^000000 esa ^333333*¡Aaachú!*^000000 cosa… ^333333*Inhala, inhala*^000000"
+        "es-ES": "[Pavel]\nDe todas formas, ve a mirar... ^333333*¡Aaachú!*^000000 esa ^333333*¡Aaachú!*^000000 cosa... ^333333*Inhala, inhala*^000000"
     },
     "THkuAg": {
         "en-US": "[Pavel]\nI told you to go look at-- ^333333*Aaachhoooo!*^000000 that ^333333*Aaachoooo! Achoo! glhk glhk*^000000",
         "pt-BR": "[Pavel]\nEu lhe disse para ir olhar Aaaaatchim! Aquilo.... aaatchim! Atchim!\n*glhk glhk*...\nHmm hmm..",
-        "es-ES": "[Pavel]\nTe dije que fueras a mirar… ^333333*¡Aaachú!*^000000 esa ^333333*¡Aaachú!* ¡Achú! Glup, glup*^000000"
+        "es-ES": "[Pavel]\nTe dije que fueras a mirar... ^333333*¡Aaachú!*^000000 esa ^333333*¡Aaachú!* ¡Achú! Glup, glup*^000000"
     },
     "TXkuAg": {
         "en-US": "[Pavel]\n^333333*Cough cough*\n*Sniff sniff...*^000000\nSo did you take a look at it? Yeah, I don't think you'd understand, even if you saw it. ^333333*glhk glhk*^000000",
         "pt-BR": "[Pavel]\n*cof cof*\n*sniff sniff*...\nEntão, você olhou o que lhe pedi?\nÉ, eu não esperava que entenderia, mesmo se você tivesse visto.\n*glhk glhk*...",
-        "es-ES": "[Pavel]\n^333333*Cof, cof*\n*Inhala, inhala…*^000000\n¿Ya le echaste un vistazo? Sí, creo que no lo entenderías aunque lo vieras. ^333333*Glup, glup*^000000"
+        "es-ES": "[Pavel]\n^333333*Cof, cof*\n*Inhala, inhala...*^000000\n¿Ya le echaste un vistazo? Sí, creo que no lo entenderías aunque lo vieras. ^333333*Glup, glup*^000000"
     },
     "TnkuAg": {
         "en-US": "[Pavel]\n^333333*AAAAACHHHOOO!*^000000\nThat slab of stone, no wait, ^333333*Achoo!*^000000 the letters engraved on that thing are ancien--^333333*Achoo!*^000000 language is no longer used nowadays.",
         "pt-BR": "[Pavel]\nAAAAAAATCHIM!\nAquele pedaço de pedra... não, espere.... aaatchim!\nAs letras entalhadas naquela coisa indescritível\nsão muito antigas.... aaatchim! ...uma linguagem que não é.... aaatchim!\nmais usada hoje em dia.",
-        "es-ES": "[Pavel]\n^333333*¡AAAAACHÚ!*^000000\nEsa laja de piedra, no espera, ^333333*¡Achú!*^000000 las letras que tiene grabadas son un antig…^333333*¡Achú!*^000000 lenguaje que ya no se utiliza hoy en día."
+        "es-ES": "[Pavel]\n^333333*¡AAAAACHÚ!*^000000\nEsa laja de piedra, no espera, ^333333*¡Achú!*^000000 las letras que tiene grabadas son un antig...^333333*¡Achú!*^000000 lenguaje que ya no se utiliza hoy en día."
     },
     "T3kuAg": {
         "en-US": "[Pavel]\nI can't ^333333*glhk glhk*^000000 tell what ancient languag-- ^333333*Achoo!*^000000 it is, so... Hmm...",
         "pt-BR": "[Pavel]\nEu não posso ...*glhk glhk* dizer que língua\nantiga... aaatchim! é aquela... aaatchim!\nEntão... bem...hmm hmm *sniff sniff*",
-        "es-ES": "[Pavel]\nNo puedo ^333333*Glup, glup*^000000 saber qué lenguaje antiguo… ^333333*¡Achú!*^000000 es, así que… Mmm…"
+        "es-ES": "[Pavel]\nNo puedo ^333333*Glup, glup*^000000 saber qué lenguaje antiguo... ^333333*¡Achú!*^000000 es, así que... Mmm..."
     },
     "UHkuAg": {
         "en-US": "[Pavel]\nConsidering ^333333*Achoo! Sniff sniff*^000000 the material used for the slab isn't ^333333*Sniff*^000000 ordinary stone, there must be some kind of device installed in it? ^333333*Cough*^000000",
@@ -732,7 +732,7 @@
     "UnkuAg": {
         "en-US": "[Pavel]\nI must ^333333*Cough cough*^000000 remove the device for so that I can ^333333*Cough cough*^000000 investigate this further ^333333*Sniff*^000000 Butjust look at me. I'm a wreck. I can't even ^333333*AAAACHOO!*^000000 ...talk.",
         "pt-BR": "[Pavel]\nEu preciso *cof cof* retirar esse mecanismo para...*cof cof*\npesquisar mais a fundo...*cof cof*... mas olhe para mim.\nEu não posso nem falar...*glhk glhk* claramente...",
-        "es-ES": "[Pavel]\nDebo ^333333*Cof*^000000 quitar el dispositivo para poder ^333333*Cof*^000000 investigar más a fondo. ^333333*Inhala*^000000 Pero mírame. Soy un desastre. Ni siquiera puedo… ^333333*¡AAAACHÚ!*^000000 hablar."
+        "es-ES": "[Pavel]\nDebo ^333333*Cof*^000000 quitar el dispositivo para poder ^333333*Cof*^000000 investigar más a fondo. ^333333*Inhala*^000000 Pero mírame. Soy un desastre. Ni siquiera puedo... ^333333*¡AAAACHÚ!*^000000 hablar."
     },
     "U3kuAg": {
         "en-US": "[Pavel]\n^333333*Sniff sniff*^000000\nSo I hope you don't mind ^333333*Achoo!*^000000 helping me remove ^333333*Cough*^000000 the device. Thank you so much. ^333333*Sniff*^000000",
@@ -742,17 +742,17 @@
     "VHkuAg": {
         "en-US": "[Pavel]\n^333333Aaaaaccccchhhhoooo...!*^000000\nUm, what I meant to say w--^333333AAAACHOOO!*^000000\n^333333*Sniff sniff...*^000000",
         "pt-BR": "[Pavel]\nAaaa....aaa.....tchiiiim!!!\n*sniff sniff*...\nBem... o que eu quis dizer foi.... AAAAATCHIM!...\n*sniff sniff*...",
-        "es-ES": "[Pavel]\n^333333¡Aaachú…!*^000000\nEm, lo que quise decir fue…^333333¡AAAACHÚ!*^000000\n^333333*Inhala, inhala…*^000000"
+        "es-ES": "[Pavel]\n^333333¡Aaachú...!*^000000\nEm, lo que quise decir fue...^333333¡AAAACHÚ!*^000000\n^333333*Inhala, inhala...*^000000"
     },
     "VXkuAg": {
         "en-US": "[Pavel]\n^333333*Cough*^000000\nOh... ^333333*Sniff*^000000\nNow I see...\n^333333*glhk glhk*^000000",
         "pt-BR": "[Pavel]\n*cof*...\n......!!\nOh...Atchim!\nAgora eu entendo!\n*sniff sniff*...",
-        "es-ES": "[Pavel]\n^333333*Cof*^000000\nOh… ^333333*Inhala*^000000\nYa veo…\n^333333*Glup, glup*^000000"
+        "es-ES": "[Pavel]\n^333333*Cof*^000000\nOh... ^333333*Inhala*^000000\nYa veo...\n^333333*Glup, glup*^000000"
     },
     "VnkuAg": {
         "en-US": "[Pavel]\nI was~ ^333333*Achoo!*^000000 right, ^333333*Achoo!*^000000 Something was installed in the sl-^333333*Cough*^000000 slab. I couldn't look at it myself because of this damn ^333333*Cooooough c-c-cough*^000000 flu.",
         "pt-BR": "[Pavel]\nEu estava Atchim! Certo, atchim!\nexiste um mecanismo instalado... aaatchim! na pedra.\nEu não...*cough cough* conseguia...*sniff sniff*\ninvestigar... Atchim! a pedra a fundo... aaatchim!\nporque essa porcaria de gripe fica me fazendo espirrar.",
-        "es-ES": "[Pavel]\nEstaba ^333333*¡Achú!*^000000 en lo cierto. ^333333*¡Achú!*^000000 Había algo instalado en la laj…^333333*Cof*^000000. No pude verlo por mí mismo a causa de esta maldita ^333333*Cof, cof*^000000 gripe."
+        "es-ES": "[Pavel]\nEstaba ^333333*¡Achú!*^000000 en lo cierto. ^333333*¡Achú!*^000000 Había algo instalado en la laj...^333333*Cof*^000000. No pude verlo por mí mismo a causa de esta maldita ^333333*Cof, cof*^000000 gripe."
     },
     "V3kuAg": {
         "en-US": "[Pavel]\nGreat job~\nYou did some ^333333*Sniff*^000000 good work. Thank you so much for helping me. ^333333*Achoo! Achoo!*^000000",
@@ -772,7 +772,7 @@
     "WnkuAg": {
         "en-US": "....whgks ^FF00FFdirdnl^000000sjs wkrdjswhgks whdtnfb\n............djswhgks wkdusdnlrnlfn\n.......whsjs rhf tk dmqsjs rj ehddjfn\nwkdusgks ^FF00FFtkaryf^000000dnl durjfflrhsjs wkrdjswhgks ......\nwkrdjswhgks shfh wkrdjswhgks wkdus wkr...\n^FF00FFghswka^000000gks ........fusjs tmld.........",
         "pt-BR": "....whgks ^FF00FFdirdnl^000000sjs wkrdjswhgks whdtnfb\n............djswhgks wkdusdnlrnlfn\n.......whsjs rhf tk dmqsjs rj ehddjfn\nwkdusgks ^FF00FFtkaryf^000000dnl durjfflrhsjs wkrdjswhgks ......\nwkrdjswhgks shfh wkrdjswhgks wkdus wkr...\n^FF00FFghswka^000000gks ........fusjs tmld.........",
-        "es-ES": "…whgks ^FF00FFdirdnl^000000sjs wkrdjswhgks whdtnfb\n............djswhgks wkdusdnlrnlfn\n.......whsjs rhf tk dmqsjs rj ehddjfn\nwkdusgks ^FF00FFtkaryf^000000dnl durjfflrhsjs wkrdjswhgks ......\nwkrdjswhgks shfh wkrdjswhgks wkdus wkr...\n^FF00FFghswka^000000gks ........fusjs tmld........."
+        "es-ES": "...whgks ^FF00FFdirdnl^000000sjs wkrdjswhgks whdtnfb\n............djswhgks wkdusdnlrnlfn\n.......whsjs rhf tk dmqsjs rj ehddjfn\nwkdusgks ^FF00FFtkaryf^000000dnl durjfflrhsjs wkrdjswhgks ......\nwkrdjswhgks shfh wkrdjswhgks wkdus wkr...\n^FF00FFghswka^000000gks ........fusjs tmld........."
     },
     "W3kuAg": {
         "en-US": "^3355FFThere is some writing engraved on this slab of stone. Since you can't read it and the stone looks weathered with time, it seems to be written in an ancient language.^000000",
@@ -892,7 +892,7 @@
     "cnkuAg": {
         "en-US": "Umm...",
         "pt-BR": "Hmm.....",
-        "es-ES": "Mmm…"
+        "es-ES": "Mmm..."
     },
     "c3kuAg": {
         "en-US": "I see.",
@@ -902,7 +902,7 @@
     "dHkuAg": {
         "en-US": "[Lania]\nHmm...?\nDo you need\nanything from me?\nI will try to help\nyou as much as I can.",
         "pt-BR": "[Lania]\nBem...\nVocê parece ter algum assunto comigo, o que seria?\nVou ajudá-lo no que puder.",
-        "es-ES": "[Lania]\n¿Mmm…?\n¿Necesita\nalgo de mí?\nTrataré de ayudarte\ntanto como pueda."
+        "es-ES": "[Lania]\n¿Mmm...?\n¿Necesita\nalgo de mí?\nTrataré de ayudarte\ntanto como pueda."
     },
     "dXkuAg": {
         "en-US": "[Lania]\nI believe that it's no use having ability or power unless you use that power for the right purposes.",
@@ -962,7 +962,7 @@
     "gHkuAg": {
         "en-US": "[Lania]\nHowever...\nGods being gods,\nthey were not eager\nto rebuild the walls\nthemselves.",
         "pt-BR": "[Lania]\nJá que essa muralha do castelo era muito grande, os deuses não podiam se atrever a começar a consertá-la.",
-        "es-ES": "[Lania]\nSin embargo…\nLos dioses, como tales,\nno estaban ansiosos\npor reconstruir las murallas\nellos mismos."
+        "es-ES": "[Lania]\nSin embargo...\nLos dioses, como tales,\nno estaban ansiosos\npor reconstruir las murallas\nellos mismos."
     },
     "gXkuAg": {
         "en-US": "[Lania]\nOne day, a very\nskinny man rode on\na dark horse and offered to rebuild, and even improve, the rampart protecting Asgard.",
@@ -987,7 +987,7 @@
     "hXkuAg": {
         "en-US": "[Lania]\n.....\nAre you bored?\nIf you are, we can\nfinish this\nstory later.",
         "pt-BR": "[Lania]\n.....\nVocê não está entediado?\nSe estiver, falamos disso depois.",
-        "es-ES": "[Lania]\n……\n¿Te aburres?\nSi es así, podemos\nterminar esta\nhistoria más tarde."
+        "es-ES": "[Lania]\n......\n¿Te aburres?\nSi es así, podemos\nterminar esta\nhistoria más tarde."
     },
     "hnkuAg": {
         "en-US": "Yeah, let's finish this later.",
@@ -1047,27 +1047,27 @@
     "kXkuAg": {
         "en-US": "[Lania]\nAh....\nI understand this story is quite long. My apologies. Alright, I'll wait for you to finish writing your notes.",
         "pt-BR": "[Lania]\nAh....\nA história deve ser muito comprida.\nMinhas desculpas...\nOk, esperarei você terminar de organizar a história...",
-        "es-ES": "[Lania]\nAh…\nEntiendo que esta historia es bastante larga. Mis disculpas. Muy bien, esperaré a que termines con tus notas."
+        "es-ES": "[Lania]\nAh...\nEntiendo que esta historia es bastante larga. Mis disculpas. Muy bien, esperaré a que termines con tus notas."
     },
     "knkuAg": {
         "en-US": "...\n......\n.........",
         "pt-BR": "......................\n..................\n...............\n............\n.........\n......",
-        "es-ES": "…\n......\n........."
+        "es-ES": "...\n......\n........."
     },
     "k3kuAg": {
         "en-US": "...\n......\n.........\n............",
         "pt-BR": "..................\n...............\n............\n.........\n......",
-        "es-ES": "…\n......\n.........\n............"
+        "es-ES": "...\n......\n.........\n............"
     },
     "lHkuAg": {
         "en-US": "...\n......\n.........\n............\n...............",
         "pt-BR": "...............\n............\n.........\n......",
-        "es-ES": "…\n......\n.........\n............\n..............."
+        "es-ES": "...\n......\n.........\n............\n..............."
     },
     "lXkuAg": {
         "en-US": "...\n......\n.........\n............\n...............\n..................",
         "pt-BR": "............\n.........\n......",
-        "es-ES": "…\n......\n.........\n............\n...............\n.................."
+        "es-ES": "...\n......\n.........\n............\n...............\n.................."
     },
     "lnkuAg": {
         "en-US": "[Lania]\nMay I continue the story now?",
@@ -1192,7 +1192,7 @@
     "rnkuAg": {
         "en-US": "[Lania]\n.....\nAre you bored?\nIf you are, we can\ntalk about this\nlater you know.",
         "pt-BR": "[Lania]\n.....\nVocê está entediado?\nSe estiver, podemos\nfalar sobre isso\nmais tarde, você sabe.",
-        "es-ES": "[Lania]\n……\n¿Te aburres?\nSi es así, podemos\nhablar de esto\ndespués, ¿sabes?"
+        "es-ES": "[Lania]\n......\n¿Te aburres?\nSi es así, podemos\nhablar de esto\ndespués, ¿sabes?"
     },
     "r3kuAg": {
         "en-US": "I'm so bored~",
@@ -1217,7 +1217,7 @@
     "s3kuAg": {
         "en-US": "[Lania]\nAnyway...\nThe stranger turned out\nto be a giant training in\nstone masonry. Although he was invading Asgard, the gods didn't worry.",
         "pt-BR": "[Lania]\nDepois, descobriu-se que esse gigante era Hrimthurs.\nEntretanto, mesmo com Hrimthurs causando um escândalo\nos deuses não se preocuparam com ele.\nPorque eles tinham Thor, o caçador de gigantes.",
-        "es-ES": "[Lania]\nEn fin…\nEl forastero resultó\nser un gigante entrenado en\ncantería. Aunque estaba invadiendo Asgard, los dioses no se preocuparon."
+        "es-ES": "[Lania]\nEn fin...\nEl forastero resultó\nser un gigante entrenado en\ncantería. Aunque estaba invadiendo Asgard, los dioses no se preocuparon."
     },
     "tHkuAg": {
         "en-US": "[Lania]\nThor quickly killed the giant with his mighty hammer, Mjolnir, by hurling it at the giant's head, which exploded into a thousand pieces.",
@@ -1232,7 +1232,7 @@
     "tnkuAg": {
         "en-US": "[Lania]\n.....\nAre you bored?\nIf you are, let's talk\nabout this later.",
         "pt-BR": "[Lania]\n.....\nVocê está entediado?\nSe estiver, vamos conversar\nsobre isso mais tarde.",
-        "es-ES": "[Lania]\n……\n¿Te aburres?\nSi es así, hablemos\nsobre esto más tarde."
+        "es-ES": "[Lania]\n......\n¿Te aburres?\nSi es así, hablemos\nsobre esto más tarde."
     },
     "t3kuAg": {
         "en-US": "Let me take down some notes.",
@@ -1247,7 +1247,7 @@
     "uXkuAg": {
         "en-US": "[Lania]\nAh....\nI see that you really want to keep track of every important detail!",
         "pt-BR": "[Lania]\nAh....\nA história deve ser muito complicada para você entender.",
-        "es-ES": "[Lania]\nAh…\n¡Veo que realmente quieres saber todos los detalles que importan!"
+        "es-ES": "[Lania]\nAh...\n¡Veo que realmente quieres saber todos los detalles que importan!"
     },
     "unkuAg": {
         "en-US": "[Lania]\nMy apologies, I'll wait for you to complete your notes then.",
@@ -1257,7 +1257,7 @@
     "u3kuAg": {
         "en-US": "[Lania]\nOkay. Hmm...\nNow where was I?",
         "pt-BR": "[Lania]\nOk. Hmm...\nOnde eu estava agora?",
-        "es-ES": "[Lania]\nBueno. Mmm…\n¿Dónde estaba?"
+        "es-ES": "[Lania]\nBueno. Mmm...\n¿Dónde estaba?"
     },
     "vHkuAg": {
         "en-US": "[Lania]\nOh, I guess my story wasn't really that interesting. But if you want to listen to this story again, please come visit me again.",

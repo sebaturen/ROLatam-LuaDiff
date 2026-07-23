@@ -17,17 +17,17 @@
     "Q62JAQ": {
         "en-US": "[Investment Cat Helper]\nI am here to invest in the Cat Paw Merchant Association err I mean I'm here to help honest people like you heheehe~",
         "pt-BR": "[Adjunto de Investimento]\nEstou aqui para investir na Associação de Mercadores Pata de Gato, ou seja, estou aqui para ajudar pessoas honestas como você, heheehe~",
-        "es-ES": "[Gato inversor]\nEstoy aquí para invertir en la Asociación de Comerciantes Pata de Gato… Digo, estoy aquí para ayudar a la gente honesta como tú, je, je, je."
+        "es-ES": "[Gato inversor]\nEstoy aquí para invertir en la Asociación de Comerciantes Pata de Gato... Digo, estoy aquí para ayudar a la gente honesta como tú, je, je, je."
     },
     "RK2JAQ": {
         "en-US": "[Investment Cat Helper]\nI can't remember everything because I've been here talking to you humans\nBut I want to know first... Hold on",
         "pt-BR": "[Adjunto de Investimento]\nNão consigo me lembrar de tudo porque estive aqui conversando com vocês, humanos.\nMas, primeiro, quero saber... Espera aí...",
-        "es-ES": "[Gato inversor]\nNo puedo recordarlo todo porque estuve aquí hablando con humanos.\nPero primero quiero saber… Espera…"
+        "es-ES": "[Gato inversor]\nNo puedo recordarlo todo porque estuve aquí hablando con humanos.\nPero primero quiero saber... Espera..."
     },
     "Ra2JAQ": {
         "en-US": "smell... smell...",
         "pt-BR": "Cheiro... cheiro...",
-        "es-ES": "snif… snif…"
+        "es-ES": "snif... snif..."
     },
     "Rq2JAQ": {
         "en-US": "[Investment Cat Helper]\nAh!?\nYou don't know much about Cat Paw Merchant Association do you?\nHmm you do not really smell like a cat.",
@@ -67,7 +67,7 @@
     "Ta2JAQ": {
         "en-US": "[Investment Cat Helper]\nGreat!\nJust sign here and put your palm print here...\nAh!~ What's you name?",
         "pt-BR": "[Adjunto de Investimento]\nÓtimo!\nBasta assinar aqui e colocar a impressão de sua mão aqui...\nAh!~ Qual é o seu nome?",
-        "es-ES": "[Gato inversor]\n¡Genial!\nFirma aquí y pon la huella de tu palma aquí…\n¡Ah! ¿Cómo te llamas?"
+        "es-ES": "[Gato inversor]\n¡Genial!\nFirma aquí y pon la huella de tu palma aquí...\n¡Ah! ¿Cómo te llamas?"
     },
     "Tq2JAQ": {
         "en-US": "[Investment Cat Helper]\n{0}~",
@@ -117,7 +117,7 @@
     "V62JAQ": {
         "en-US": "[Investment Cat Helper]\nI can't remember everything because I've been here talking to you adventurers\nBut I want to know first... Hold on",
         "pt-BR": "[Adjunto de Investimento]\nNão consigo me lembrar de tudo porque estive aqui conversando com vocês, aventureiros.\nMas, primeiro, quero saber... Espera aí...",
-        "es-ES": "[Gato inversor]\nNo puedo recordarlo todo porque estuve aquí hablando contigo, trotamundos.\nPero primero quiero saber… Espera…"
+        "es-ES": "[Gato inversor]\nNo puedo recordarlo todo porque estuve aquí hablando contigo, trotamundos.\nPero primero quiero saber... Espera..."
     },
     "WK2JAQ": {
         "en-US": "[Investment Cat Helper]\nThis familiar smell!",
@@ -132,7 +132,7 @@
     "Wq2JAQ": {
         "en-US": "[Investment Cat Helper]\nFrom the smell of things, you are still below 10,000 accounts...\nYou can get 1 account by investing ten pieces of cans.",
         "pt-BR": "[Adjunto de Investimento]\nPelo cheiro das coisas, você ainda está abaixo de 10.000 contas...\nVocê pode obter 1 conta investindo dez latas.",
-        "es-ES": "[Gato inversor]\nPor cómo huelen las cosas, aún estás por debajo de las 10000 cuentas…\nPuedes conseguir 1 cuenta si inviertes 10 latas."
+        "es-ES": "[Gato inversor]\nPor cómo huelen las cosas, aún estás por debajo de las 10000 cuentas...\nPuedes conseguir 1 cuenta si inviertes 10 latas."
     },
     "W62JAQ": {
         "en-US": "[Investment Cat Helper]\nSo why are you here again?",
@@ -202,7 +202,7 @@
     "aK2JAQ": {
         "en-US": "[Investment Cat Helper]\nSo you want to know number of accounts you have eh?\nHmm let see...",
         "pt-BR": "[Adjunto de Investimento]\nEntão você quer saber o número de contas que possui, é?\nHmm, vamos ver...",
-        "es-ES": "[Gato inversor]\nQuieres saber el número de cuentas que tienes ¿eh?\nMmm, veamos…"
+        "es-ES": "[Gato inversor]\nQuieres saber el número de cuentas que tienes ¿eh?\nMmm, veamos..."
     },
     "aa2JAQ": {
         "en-US": "[Investment Cat Helper]\nname: {0}\nnumber of accounts: {1}",
@@ -242,7 +242,7 @@
     "cK2JAQ": {
         "en-US": "[Investment Cat Helper]\nNow {0} can't invest but you can still donate some of your cans as a charity...\nthen Thank you so much~",
         "pt-BR": "[Adjunto de Investimento]\nAgora {0} não pode investir, mas ainda pode doar algumas de suas latas para caridade...\nEntão muito obrigado~",
-        "es-ES": "[Gato inversor]\nAhora {0} no puede invertir, pero aún puede donar algunas de sus latas con fines caritativos…\nMuchísimas gracias."
+        "es-ES": "[Gato inversor]\nAhora {0} no puede invertir, pero aún puede donar algunas de sus latas con fines caritativos...\nMuchísimas gracias."
     },
     "ca2JAQ": {
         "en-US": "[Investment Cat Helper]\nOnce we have more investments in cans we can grow our trading sphere in Rune Midgard.\nThank you again.",
@@ -287,7 +287,7 @@
     "ea2JAQ": {
         "en-US": "[Investment Cat Helper]\nHrm, you don't have enough cans...",
         "pt-BR": "[Adjunto de Investimento]\nHrm, você não tem latas suficientes...",
-        "es-ES": "[Gato inversor]\nHum, no tienes suficientes latas…"
+        "es-ES": "[Gato inversor]\nHum, no tienes suficientes latas..."
     },
     "eq2JAQ": {
         "en-US": "[Investment Cat Helper]\nOh! Thank you~",
@@ -302,7 +302,7 @@
     "fK2JAQ": {
         "en-US": "[Investment Cat Helper]\nLooks like you've run into an error...",
         "pt-BR": "[Adjunto de Investimento]\nParece que você se deparou com um erro...",
-        "es-ES": "[Gato inversor]\nParece que te topaste con un error…"
+        "es-ES": "[Gato inversor]\nParece que te topaste con un error..."
     },
     "fa2JAQ": {
         "en-US": "Storekeeper",
@@ -337,12 +337,12 @@
     "g62JAQ": {
         "en-US": "[Storekeeper]\nYou don't have enough cans...",
         "pt-BR": "[Gerente de Armazém]\nVocê não tem latas suficientes...",
-        "es-ES": "[Dependiente]\nNo tienes suficientes latas…"
+        "es-ES": "[Dependiente]\nNo tienes suficientes latas..."
     },
     "hK2JAQ": {
         "en-US": "[Storekeeper]\nYou don't have enough zeny...",
         "pt-BR": "[Gerente de Armazém]\nVocê não tem Zeny suficiente...",
-        "es-ES": "[Dependiente]\nNo tienes suficientes zeny…"
+        "es-ES": "[Dependiente]\nNo tienes suficientes zeny..."
     },
     "ha2JAQ": {
         "en-US": "pay by can - 2 can",

@@ -132,7 +132,7 @@
     "GoF8Bw": {
         "en-US": "[Maximilian]\nMyer, Myer...\nI cannot believe that Myer did that.",
         "pt-BR": "[Maximilian]\nMyer, Myer...\nNão acredito que Myer fez isso.",
-        "es-ES": "[Maximilian]\nMadison, Madison…\nNo puedo creer que Madison hiciera eso."
+        "es-ES": "[Maximilian]\nMadison, Madison...\nNo puedo creer que Madison hiciera eso."
     },
     "G4F8Bw": {
         "en-US": "[Maximilian]\nHe spread the bad rumor about the family but I think he did it because he is desperate.",
@@ -192,7 +192,7 @@
     "JoF8Bw": {
         "en-US": "[Wolf]\n.......",
         "pt-BR": "[Wolf]\n.......",
-        "es-ES": "[Wolf]\n……"
+        "es-ES": "[Wolf]\n......"
     },
     "J4F8Bw": {
         "en-US": "[{0}]\nYou have taken a firm attitude that you never showed before.",
@@ -412,7 +412,7 @@
     "UoF8Bw": {
         "en-US": "[Kalbern]\nTo repay his kindness, I begged him to serve him and I am staying with him...",
         "pt-BR": "[Kalbern]\nPara retribuir sua generosidade, pedi para servi-lo e estou hospedado com ele...",
-        "es-ES": "[Kalbern]\nPara agradecerle su generosidad, le rogué que me dejara estar a su servicio y ahora estoy con él…"
+        "es-ES": "[Kalbern]\nPara agradecerle su generosidad, le rogué que me dejara estar a su servicio y ahora estoy con él..."
     },
     "U4F8Bw": {
         "en-US": "[Kalbern]\nHere, I have nothing to do for Helmut except bring him some beer.",
@@ -487,7 +487,7 @@
     "YYF8Bw": {
         "en-US": "[Wolf]\nAgnes, don't say that. it is not appropriate. We are telling the adventurer of the story of the Lugenburg...",
         "pt-BR": "[Wolf]\nAgnes, não diga isso. Não é adequado. Estamos contando a história dos Lugenburgs para o aventureiro...",
-        "es-ES": "[Wolf]\nAgnes, no digas eso. No es apropiado. Le estamos contando al trotamundos la historia de los Lugenburg…"
+        "es-ES": "[Wolf]\nAgnes, no digas eso. No es apropiado. Le estamos contando al trotamundos la historia de los Lugenburg..."
     },
     "YoF8Bw": {
         "en-US": "[Myer]\nNow, will my prince come with me?",
@@ -652,7 +652,7 @@
     "goF8Bw": {
         "en-US": "[Wolf]\nHmm.. This is simple. This perfectly ^0000CDbeautiful box is a hint^000000... The answer is always included in the question.",
         "pt-BR": "[Wolf]\nHum... Isto é simples. Esta ^0000CDlinda caixa é uma pista^000000... A resposta está sempre incluída na pergunta.",
-        "es-ES": "[Wolf]\nMmm… Es sencillo. Esta perfecta y hermosa caja ^0000CDes una pista^000000… Siempre puedes encontrar la respuesta dentro de la pregunta."
+        "es-ES": "[Wolf]\nMmm... Es sencillo. Esta perfecta y hermosa caja ^0000CDes una pista^000000... Siempre puedes encontrar la respuesta dentro de la pregunta."
     },
     "g4F8Bw": {
         "en-US": "[Wolf]\nLooking at the answer, it really seems that the Wigner people love ^0000CDnumers and gold^000000. Will you try to solve it too?",
@@ -687,7 +687,7 @@
     "iYF8Bw": {
         "en-US": "[{0}]\nHm... It is not the answer.\nI think I need some time for contemplation.",
         "pt-BR": "[{0}]\nHum... Não é a resposta.\nAcho que preciso de um tempo para pensar.",
-        "es-ES": "[{0}]\nMmm… No es la respuesta correcta.\nCreo que necesito algo de tiempo para pensarlo."
+        "es-ES": "[{0}]\nMmm... No es la respuesta correcta.\nCreo que necesito algo de tiempo para pensarlo."
     },
     "ioF8Bw": {
         "en-US": "[Wolf]\nBut what is inside is not easy.",
@@ -727,12 +727,12 @@
     "kYF8Bw": {
         "en-US": "[Wolf]\nA rumor about you? I didn't know about it... Rumor.....\nI need to check it, but there is no person we count on...",
         "pt-BR": "[Wolf]\nUm rumor sobre os Lugenburgs? Não estava sabendo... Um rumor...\nPreciso verificar, mas não tenho quem faça isso por mim...",
-        "es-ES": "[Wolf]\n¿Un rumor sobre los Lugenburg? No lo sabía… Un rumor…\nTengo que comprobarlo, pero no hay nadie de confianza…"
+        "es-ES": "[Wolf]\n¿Un rumor sobre los Lugenburg? No lo sabía... Un rumor...\nTengo que comprobarlo, pero no hay nadie de confianza..."
     },
     "koF8Bw": {
         "en-US": "[Wolf]\nExecuse me, dear adventurer?",
         "pt-BR": "[Wolf]\nCom licença, caro aventureiro.",
-        "es-ES": "[Wolf]\n¿Un rumor sobre los Lugenburg? No lo sabía… Un rumor…\nTengo que comprobarlo, pero no hay nadie de confianza…"
+        "es-ES": "[Wolf]\n¿Un rumor sobre los Lugenburg? No lo sabía... Un rumor...\nTengo que comprobarlo, pero no hay nadie de confianza..."
     },
     "k4F8Bw": {
         "en-US": "[{0}]\nYes?",
@@ -757,7 +757,7 @@
     "l4F8Bw": {
         "en-US": "[{0}]\nWell, it is not easy but....",
         "pt-BR": "[{0}]\nBom, fácil não é, mas...",
-        "es-ES": "[{0}]\nBueno, no será fácil pero…"
+        "es-ES": "[{0}]\nBueno, no será fácil pero..."
     },
     "mIF8Bw": {
         "en-US": "[Wolf]\nIf you are busy, you may refuse it. I am sorry that I ask you to do me a favor. My brother came back suddenly and it drives me out of my mind and busy.",
@@ -852,7 +852,7 @@
     "qoF8Bw": {
         "en-US": "[Wolf]\nThe rumor is....very.... specific and malicious. It must be circulated on purpose by someone who knows the circumstances of my family.",
         "pt-BR": "[Wolf]\nO rumor é... bem... específico e maldoso. Deve ter sido espalhado de propósito por alguém que conhece as circunstâncias da minha família.",
-        "es-ES": "[Wolf]\nEl rumor es… muy… específico y perjudicial. Alguien que sabe sobre nuestra situación familiar debe haberlo difundido deliberadamente."
+        "es-ES": "[Wolf]\nEl rumor es... muy... específico y perjudicial. Alguien que sabe sobre nuestra situación familiar debe haberlo difundido deliberadamente."
     },
     "q4F8Bw": {
         "en-US": "[Agnes]\nDo yo mean the bad guy is one of us? OMG! this is very serious!",
@@ -1567,7 +1567,7 @@
     "OYJ8Bw": {
         "en-US": "[Agnes]\nI don't want anything big...\nWhen we were young, we played together. They read me books.",
         "pt-BR": "[Agnes]\nNão estou querendo nada demais...\nQuando éramos jovens, brincávamos juntos. Eles liam livros para mim.",
-        "es-ES": "[Agnes]\nNo pido demasiado…\nCuando éramos chicos, jugábamos juntos. Me leían libros."
+        "es-ES": "[Agnes]\nNo pido demasiado...\nCuando éramos chicos, jugábamos juntos. Me leían libros."
     },
     "OoJ8Bw": {
         "en-US": "[Agnes]\nI still like the best the books that my brothers read me.\nThose princes and princesses in those books were all my friend.",
@@ -1582,12 +1582,12 @@
     "PIJ8Bw": {
         "en-US": "[Agnes]\nThen, I realized that what I had lacked.\nIt was a pretty handkerchief.",
         "pt-BR": "[Agnes]\nAí, percebi o que estava faltando para mim.\nUm lenço bonito.",
-        "es-ES": "[Agnes]\nEntonces, me di cuenta de que lo que me faltaba…\nEra un pañuelo bonito."
+        "es-ES": "[Agnes]\nEntonces, me di cuenta de que lo que me faltaba...\nEra un pañuelo bonito."
     },
     "PYJ8Bw": {
         "en-US": "[Agnes]\nSo I carry lots of pretty handkerchiefs so that I can hand them to my knight anytime.\nBut there is no one for me to hand my handkerchiefs to...",
         "pt-BR": "[Agnes]\nTenho vários lenços bonitos para que eu possa entregá-los para o meu cavaleiro a qualquer hora.\nMas não tenho ninguém para quem dar meus lenços...",
-        "es-ES": "[Agnes]\nAsí que llevo muchos pañuelos bonitos, listos para entregárselos a algún caballero.\nPero no hay nadie a quién dárselos…"
+        "es-ES": "[Agnes]\nAsí que llevo muchos pañuelos bonitos, listos para entregárselos a algún caballero.\nPero no hay nadie a quién dárselos..."
     },
     "PoJ8Bw": {
         "en-US": "[Agnes]\nDid you see him too?\nHe came with Myer.",
@@ -1642,7 +1642,7 @@
     "SIJ8Bw": {
         "en-US": "[Agnes]\nYou seem to have come to see my brothers? but there is no one in the house.",
         "pt-BR": "[Agnes]\nParece que você veio ver os meus irmãos. Mas não tem ninguém em casa.",
-        "es-ES": "[Agnes]\nParece que viniste a ver a mis hermanos… pero no hay nadie en casa."
+        "es-ES": "[Agnes]\nParece que viniste a ver a mis hermanos... pero no hay nadie en casa."
     },
     "SYJ8Bw": {
         "en-US": "[Agnes]\nIn a long time, we were together, but they left and I am lonely again. It is nice that they don't fight one another any more.",
@@ -1677,7 +1677,7 @@
     "T4J8Bw": {
         "en-US": "[{0}]\nWhat..?",
         "pt-BR": "[{0}]\nO que...?",
-        "es-ES": "[{0}]\n¿Qué…?"
+        "es-ES": "[{0}]\n¿Qué...?"
     },
     "UIJ8Bw": {
         "en-US": "[Agnes]\nWhy do you prepare to fight?",
@@ -1732,7 +1732,7 @@
     "WoJ8Bw": {
         "en-US": "[{0}]\nAh....!",
         "pt-BR": "[{0}]\nAh...!",
-        "es-ES": "[{0}]\n¡Ah…!"
+        "es-ES": "[{0}]\n¡Ah...!"
     },
     "W4J8Bw": {
         "en-US": "[Agnes]\nDo you understand?",
@@ -1877,7 +1877,7 @@
     "d4J8Bw": {
         "en-US": "[Agnes]\nYes... I know it will be very difficult. If you change your mind, please come back.",
         "pt-BR": "[Agnes]\nSim... Eu sei que vai ser muito difícil. Mas volte se mudar de ideia, por favor.",
-        "es-ES": "[Agnes]\nSí… Sé que será muy difícil. Regresa si cambias de opinión."
+        "es-ES": "[Agnes]\nSí... Sé que será muy difícil. Regresa si cambias de opinión."
     },
     "eIJ8Bw": {
         "en-US": "[Agnes]\nThank god. I was afraid that you would refuse it.",
@@ -1952,7 +1952,7 @@
     "hoJ8Bw": {
         "en-US": "[{0}]\nI guess so. I will help you to the best of my ability.",
         "pt-BR": "[{0}]\nTudo bem. Vou ajudar você da melhor forma que eu puder.",
-        "es-ES": "[{0}]\nQuién sabe… Haré todo lo posible para ayudarte."
+        "es-ES": "[{0}]\nQuién sabe... Haré todo lo posible para ayudarte."
     },
     "h4J8Bw": {
         "en-US": "[Agnes]\nYou really understand me. I'm so happy.",
@@ -1977,7 +1977,7 @@
     "i4J8Bw": {
         "en-US": "[{0}]\nAh, it is....",
         "pt-BR": "[{0}]\nAh, é...",
-        "es-ES": "[{0}]\nAh, es…"
+        "es-ES": "[{0}]\nAh, es..."
     },
     "jIJ8Bw": {
         "en-US": "[Agnes]\nNot yet? OK. We have still time.",
@@ -2012,7 +2012,7 @@
     "koJ8Bw": {
         "en-US": "[Agnes]\nLet me see.... Yes! they are what I wanted. You are the best.",
         "pt-BR": "[Agnes]\nDeixe-me ver... Sim! É isso que eu quero. Você é demais.",
-        "es-ES": "[Agnes]\nDéjame ver… ¡Sí! Es justo lo que quería. Eres increíble."
+        "es-ES": "[Agnes]\nDéjame ver... ¡Sí! Es justo lo que quería. Eres increíble."
     },
     "k4J8Bw": {
         "en-US": "[Agnes]\nNow I can embroider my dress like stars shining in the night sky. It will be very pretty.",
@@ -2047,7 +2047,7 @@
     "mYJ8Bw": {
         "en-US": "[Agnes]\nAs I told you before. I didn't eat meals these days. Please forgive my misbehavior. Did yo get what I asked?",
         "pt-BR": "[Agnes]\nComo falei antes, estou fazendo dieta. Desculpe meu comportamento, por favor. Você conseguiu o que eu pedi?",
-        "es-ES": "[Agnes]\nComo te comenté antes… No he comido mucho estos días. Te ruego que disculpes mi mala actitud. ¿Te quedó claro lo que te pedí?"
+        "es-ES": "[Agnes]\nComo te comenté antes... No he comido mucho estos días. Te ruego que disculpes mi mala actitud. ¿Te quedó claro lo que te pedí?"
     },
     "moJ8Bw": {
         "en-US": "[Agnes]\n^0000CDFive star dusts^000000. I going to use the start dust to embroider the dress like starts in the night sky. It will be very pretty.",
@@ -2237,7 +2237,7 @@
     "v4J8Bw": {
         "en-US": "[Agnes]\nWhat I ask you today is....",
         "pt-BR": "[Agnes]\nO que eu lhe peço hoje é...",
-        "es-ES": "[Agnes]\nLo que te pediré hoy es…"
+        "es-ES": "[Agnes]\nLo que te pediré hoy es..."
     },
     "wIJ8Bw": {
         "en-US": "[Agnes]\nStart dust.",
@@ -2537,7 +2537,7 @@
     "+4J8Bw": {
         "en-US": "[{0}]\nDo I have to do what you want too...?",
         "pt-BR": "[{0}]\nTenho que fazer o que vocês querem também...?",
-        "es-ES": "[{0}]\n¿Tengo que hacerte un favor a ti también…?"
+        "es-ES": "[{0}]\n¿Tengo que hacerte un favor a ti también...?"
     },
     "/IJ8Bw": {
         "en-US": "[Allen]\nI don't leave my friends. Do what they want. If you don't, you will lose credentials.",
@@ -2647,7 +2647,7 @@
     "EYN8Bw": {
         "en-US": "[Allen]\nWar, Royal family. Helmut Lugenburg. If he becomes a king, the continent will be drawn into a vortex of war.",
         "pt-BR": "[Allen]\nGuerra, família real. Helmut Lugenburg. Se ele se tornar rei, o continente vai ser sugado por uma guerra.",
-        "es-ES": "[Allen]\nLa guerra, la familia real… Helmut Lugenburg. Si se convierte en rey, el continente se verá arrasado por una tempestad bélica."
+        "es-ES": "[Allen]\nLa guerra, la familia real... Helmut Lugenburg. Si se convierte en rey, el continente se verá arrasado por una tempestad bélica."
     },
     "EoN8Bw": {
         "en-US": "[Allen]\nDarkness will sweep the continent and painful groans will cover all the continent!!!",
@@ -2667,7 +2667,7 @@
     "FYN8Bw": {
         "en-US": "[{0}]\nHmm.. It's too simple. Please explain more.",
         "pt-BR": "[{0}]\nHum... É simples demais. Explique mais, por favor.",
-        "es-ES": "[{0}]\nMmm… Es demasiado simple. Por favor, explícate mejor."
+        "es-ES": "[{0}]\nMmm... Es demasiado simple. Por favor, explícate mejor."
     },
     "FoN8Bw": {
         "en-US": "[Harriet]\nErrrrrr! What are you talking about? both of you. Let me explain. The rumor is as follows:",
@@ -2677,7 +2677,7 @@
     "F4N8Bw": {
         "en-US": "[Harriet]\nif Helmut Lugenburg becomes a king...., Ah by the way, do you know a rumor about the Lugenburg, especially the rumor on the ^0000CDdeath of the four children^000000.",
         "pt-BR": "[Harriet]\nSe Helmut Lugenburg se tornar rei... Aliás, você conhece outros rumores sobre os Lugenburgs, principalmente sobre a ^0000CDmorte dos pais dos herdeiros^000000?",
-        "es-ES": "[Harriet]\nsi Helmut Lugenburg se convierte en rey… Ah, por cierto, ¿has oído el rumor sobre los Lugenburg, específicamente sobre la ^0000CDmuerte de los cuatro niños^000000?"
+        "es-ES": "[Harriet]\nsi Helmut Lugenburg se convierte en rey... Ah, por cierto, ¿has oído el rumor sobre los Lugenburg, específicamente sobre la ^0000CDmuerte de los cuatro niños^000000?"
     },
     "GIN8Bw": {
         "en-US": "[{0}]\nNo, I don't know. Never heard before.",
@@ -2792,7 +2792,7 @@
     "LoN8Bw": {
         "en-US": "[Harriet]\nThere is something strange included, but so what... He wants it.",
         "pt-BR": "[Harriet]\nUma dessas coisas é estranha, mas e daí...? É o que ele quer.",
-        "es-ES": "[Harriet]\nEso último suena extraño, pero qué más da… Es lo que quiere."
+        "es-ES": "[Harriet]\nEso último suena extraño, pero qué más da... Es lo que quiere."
     },
     "L4N8Bw": {
         "en-US": "[Allen]\nDo you hear more? If so, you need to prove you have stronger credentials.",
@@ -2867,7 +2867,7 @@
     "PYN8Bw": {
         "en-US": "[{0}]\nWell, it's not like that.. Hmm.. Yes. similar to that.",
         "pt-BR": "[{0}]\nNão é bem assim... Hum... É, é quase assim.",
-        "es-ES": "[{0}]\nBueno, no es eso. Mmm… Sí, es algo así."
+        "es-ES": "[{0}]\nBueno, no es eso. Mmm... Sí, es algo así."
     },
     "PoN8Bw": {
         "en-US": "[Jin]\nThat is really strange.",
@@ -2882,7 +2882,7 @@
     "QIN8Bw": {
         "en-US": "[Allen]\nThis time, you need stronger credentials...",
         "pt-BR": "[Allen]\nDesta vez, você precisa de credenciais melhores...",
-        "es-ES": "[Allen]\nEsta vez, necesitas mejores credenciales…"
+        "es-ES": "[Allen]\nEsta vez, necesitas mejores credenciales..."
     },
     "QYN8Bw": {
         "en-US": "[Harriet]\nAh, there he comes!, Jonathan! We have a guest.",
@@ -3027,7 +3027,7 @@
     "XYN8Bw": {
         "en-US": "[{0}]\nIt is common for brothers to fight one another. I also....",
         "pt-BR": "[{0}]\n É normal que irmãos briguem. Eu também...",
-        "es-ES": "[{0}]\nEs normal que los hermanos se peleen. Yo también…"
+        "es-ES": "[{0}]\nEs normal que los hermanos se peleen. Yo también..."
     },
     "XoN8Bw": {
         "en-US": "[Myer]\nAnyway, I think I have to visit the house. The house has been annoying, but I think that it will be interesting. Please tell my family that I will help them here while I am doing my job.",
@@ -3217,7 +3217,7 @@
     "g4N8Bw": {
         "en-US": "[Uptight Librarian]\nHm... history of Rune Midgard.\nAre you going to borrow the book?",
         "pt-BR": "[Bibliotecária Séria]\nHum... História de Rune-Midgard.\nVocê vai pegá-lo emprestado?",
-        "es-ES": "[Bibliotecaria Seria]\nMmm… sobre la historia de Rune-Midgarts.\n¿Vas a pedir prestado el libro?"
+        "es-ES": "[Bibliotecaria Seria]\nMmm... sobre la historia de Rune-Midgarts.\n¿Vas a pedir prestado el libro?"
     },
     "hIN8Bw": {
         "en-US": "[{0}]\nYes.",
@@ -3252,7 +3252,7 @@
     "ioN8Bw": {
         "en-US": "[{0}]\nHuh... I don't have it. I left all my things to attend the banquet.",
         "pt-BR": "[{0}]\nHum... Não está comigo. Deixei minhas coisas no banquete.",
-        "es-ES": "[{0}]\nMmm… No tengo. Dejé todas mis cosas para asistir al banquete."
+        "es-ES": "[{0}]\nMmm... No tengo. Dejé todas mis cosas para asistir al banquete."
     },
     "i4N8Bw": {
         "en-US": "[Uptight Librarian]\nBanquet? You mean the banquet held in the palace? Are you the adventurer invited to it?",
@@ -3262,7 +3262,7 @@
     "jIN8Bw": {
         "en-US": "[{0}]\nYes, I am...",
         "pt-BR": "[{0}]\nSim, sou...",
-        "es-ES": "[{0}]\nSí, así es…"
+        "es-ES": "[{0}]\nSí, así es..."
     },
     "jYN8Bw": {
         "en-US": "[Uptight Librarian]\nThen you are a person guaranteed by the kingdom and I can borrow a book to you through a simple process.",
@@ -3292,7 +3292,7 @@
     "koN8Bw": {
         "en-US": "[Uptight Librarian]\nLet me see...\nYes, here it is.{0}Sir...",
         "pt-BR": "[Bibliotecária Séria]\nDeixe-me ver...\nAh, aqui está Nobre {0} ...",
-        "es-ES": "[Bibliotecaria Seria]\nDéjame ver…\nSí, aquí está. {0}…"
+        "es-ES": "[Bibliotecaria Seria]\nDéjame ver...\nSí, aquí está. {0}..."
     },
     "k4N8Bw": {
         "en-US": "[Uptight Librarian]\nBut this book consists of 12 volumes. Only the first volume is here and the others are already borrowed.\nIs it OK with you?",
@@ -3367,7 +3367,7 @@
     "oYN8Bw": {
         "en-US": "[Uptight Librarian]\nThe palace must be crowded. It is very rare that all royal families gather like this, but...",
         "pt-BR": "[Bibliotecária Séria]\nO palácio deve estar lotado. É muito raro as famílias reais se reunirem assim, mas...",
-        "es-ES": "[Bibliotecaria Seria]\nEl palacio debe estar abarrotado. Es muy raro que todas las casas reales se reúnan así, pero…"
+        "es-ES": "[Bibliotecaria Seria]\nEl palacio debe estar abarrotado. Es muy raro que todas las casas reales se reúnan así, pero..."
     },
     "ooN8Bw": {
         "en-US": "[Uptight Librarian]\nI heard that there are royal families ^0000CDwho do not attend the Royal Assembly^000000. Who's that?",
@@ -3397,7 +3397,7 @@
     "p4N8Bw": {
         "en-US": "[Uptight Librarian]\nThe family of the previous king ^0000CDbecame so due to the old curse^000000...",
         "pt-BR": "[Bibliotecária Séria]\nA família do rei anterior ^0000CDficou muito sujeita à antiga maldição^000000...",
-        "es-ES": "[Bibliotecaria Seria]\nLa familia del rey anterior ^0000CDllegó donde está por la antigua maldición^000000…"
+        "es-ES": "[Bibliotecaria Seria]\nLa familia del rey anterior ^0000CDllegó donde está por la antigua maldición^000000..."
     },
     "qIN8Bw": {
         "en-US": "You mean the Nerius?",
@@ -3462,12 +3462,12 @@
     "tIN8Bw": {
         "en-US": "[Helmut]\nWe!!!!!!",
         "pt-BR": "[Helmut]\nNós...",
-        "es-ES": "[Helmut]\n¡¡¡Nosotros…"
+        "es-ES": "[Helmut]\n¡¡¡Nosotros..."
     },
     "tYN8Bw": {
         "en-US": "protect our families and our country!!!",
         "pt-BR": "protegemos nossas famílias e nosso país!!!",
-        "es-ES": "…protegeremos a nuestras familias y a nuestro país!!!"
+        "es-ES": "...protegeremos a nuestras familias y a nuestro país!!!"
     },
     "toN8Bw": {
         "en-US": "[Helmut]\nDear adventurer? What are you doing here? It is dangerous. The monster came down here just before. Please leave now.",
@@ -3552,7 +3552,7 @@
     "xoN8Bw": {
         "en-US": "[{0}]\n...I see. I will tell you message to your grandfather.",
         "pt-BR": "[{0}]\n... Entendo. Vou dar sua mensagem para seu avô.",
-        "es-ES": "[{0}]\n…Ya veo. Le daré tu mensaje a tu abuelo."
+        "es-ES": "[{0}]\n...Ya veo. Le daré tu mensaje a tu abuelo."
     },
     "x4N8Bw": {
         "en-US": "[Helmut]\nYes. thank you. Please take care.",
@@ -3612,7 +3612,7 @@
     "0oN8Bw": {
         "en-US": "[Myer]\nFight, fight, and fight.... I don't want that either.",
         "pt-BR": "[Myer]\nLuta, luta e mais luta... Não quero isso também.",
-        "es-ES": "[Madison]\nPelear, pelear y pelear… Tampoco quiero eso."
+        "es-ES": "[Madison]\nPelear, pelear y pelear... Tampoco quiero eso."
     },
     "04N8Bw": {
         "en-US": "[Myer]\nThey are my family who are closer to me than anyone.",
@@ -3632,7 +3632,7 @@
     "1oN8Bw": {
         "en-US": "[Nervous Man]\nIt is not here either....",
         "pt-BR": "[Homem Agitado]\nNão é aqui também...",
-        "es-ES": "[Hombre Nervioso]\nTampoco está aquí…"
+        "es-ES": "[Hombre Nervioso]\nTampoco está aquí..."
     },
     "14N8Bw": {
         "en-US": "[Taunting Man]\nWhy do you need that book? Just go without it.",
@@ -3647,7 +3647,7 @@
     "2YN8Bw": {
         "en-US": "[Nervous Man]\n'Good morning, sir. I, an unworthy person, live in Prontera....' No. No. I cannot speak like to a person who is younger than me.",
         "pt-BR": "[Homem Agitado]\n'Bom-dia. Eu, uma pessoa sem valor, vivo em Prontera...' Não. Não. Não posso falar assim com uma pessoa mais jovem do que eu.",
-        "es-ES": "[Hombre Nervioso]\n“Buenos días, señor. Yo, una persona indigna, vivo en Prontera…”. No. No. No puedo hablarle así a alguien que es más joven que yo."
+        "es-ES": "[Hombre Nervioso]\n“Buenos días, señor. Yo, una persona indigna, vivo en Prontera...”. No. No. No puedo hablarle así a alguien que es más joven que yo."
     },
     "2oN8Bw": {
         "en-US": "That's good!!",

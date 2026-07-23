@@ -913,5 +913,15 @@
         "en-US": "^nItemID^1003095",
         "pt-BR": "^nItemID^1003095",
         "es-ES": "^nItemID^1003095"
+    },
+    "l+OaCw": {
+        "en-US": "Giant Hornet Pet Ticket",
+        "pt-BR": "Ticket de Mascote Zangão Gigante",
+        "es-ES": "Boleto de Mascota Zángano Gigante"
+    },
+    "mOOaCw": {
+        "en-US": "<ITEM>[Giant Hornet Pet Ticket]<INFO>1001579</INFO></ITEM>",
+        "pt-BR": "<ITEM>[Ticket de Mascote Zangão Gigante]<INFO>1001579</INFO></ITEM>",
+        "es-ES": "<ITEM>[Boleto de Mascota Zángano Gigante]<INFO>1001579</INFO></ITEM>"
     }
 }

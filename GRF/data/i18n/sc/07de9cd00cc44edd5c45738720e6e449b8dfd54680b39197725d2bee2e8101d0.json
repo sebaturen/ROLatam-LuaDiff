@@ -17,7 +17,7 @@
     "Q2YDAQ": {
         "en-US": "[{0}]\nHoly--! Are you alright?\nY-you're coughing up blood!\nRelax, I was just passing by!",
         "pt-BR": "[{0}]\nSanto--! Você está bem?\nVocê está tossindo sangue!\nRelaxe, eu só estava passando por aqui!",
-        "es-ES": "[{0}]\n¡Pero qué…! ¿Estás bien?\n¡E-estás tosiendo sangre!\n¡Relájate, solo pasaba por aquí!"
+        "es-ES": "[{0}]\n¡Pero qué...! ¿Estás bien?\n¡E-estás tosiendo sangre!\n¡Relájate, solo pasaba por aquí!"
     },
     "RGYDAQ": {
         "en-US": "[Morriphen]\nR-really? Well then, I'm\nsorry to have bothered you,\nthen. I guess I'm just a little\njumpy is all. ^333333*Cough, cough~*^000000",
@@ -27,17 +27,17 @@
     "RWYDAQ": {
         "en-US": "[{0}]\nHey... You don't sound\ntoo good. Do you want me\nto bring you to a hospital?\nThat's a really nasty cough\nyou've got there, so maybe\nyou should get it checked.",
         "pt-BR": "[{0}]\nEi... Você não parece\nmuito bem. Quer que eu\no leve a um hospital?\nEssa é uma tosse muito forte\nque você tem aí, então talvez\nvocê deva fazer um exame.",
-        "es-ES": "[{0}]\nOye… No suenas muy\nbien. ¿Quieres que\nte lleve a un hospital?\nTienes una tos bastante fea,\nasí que quizás sea mejor\nque vayas al hospital."
+        "es-ES": "[{0}]\nOye... No suenas muy\nbien. ¿Quieres que\nte lleve a un hospital?\nTienes una tos bastante fea,\nasí que quizás sea mejor\nque vayas al hospital."
     },
     "RmYDAQ": {
         "en-US": "[Morriphen]\nNo, thanks, I'm fine.\nI just haven't gone home\nfor a few months and wasn't\nable to get my prescription\nrefilled, that's all. ^333333*Haaak*\n*Cough-cough-cooooooough!*^000000",
         "pt-BR": "[Morriphen]\nNão, obrigado, estou bem.\nSó não fui para casa\npor alguns meses e não consegui\nconsegui aviar minha receita\nreceita, só isso. ^333333Haaak\n*Cough-cough-cooooooough!*^000000",
-        "es-ES": "[Morriphen]\nNo, gracias, estoy bien.\nEs solo que no vuelvo a casa\nhace meses y no pude\ncomprar mis remedios,\neso es todo. ^333333*Uaajjj*\n*Cof… cof… ¡COFFF!*^000000"
+        "es-ES": "[Morriphen]\nNo, gracias, estoy bien.\nEs solo que no vuelvo a casa\nhace meses y no pude\ncomprar mis remedios,\neso es todo. ^333333*Uaajjj*\n*Cof... cof... ¡COFFF!*^000000"
     },
     "R2YDAQ": {
         "en-US": "[{0}]\nHmm...\nWhat should I do?",
         "pt-BR": "[{0}]\nHmm...\nO que devo fazer?",
-        "es-ES": "[{0}]\nMmm…\n¿Qué debo hacer?"
+        "es-ES": "[{0}]\nMmm...\n¿Qué debo hacer?"
     },
     "SGYDAQ": {
         "en-US": "Leave him",
@@ -52,7 +52,7 @@
     "SmYDAQ": {
         "en-US": "[{0}]\nYou know, I'm a little\nworried about your coughing,\nbut I don't think there's any\nway that I can help you...",
         "pt-BR": "[{0}]\nSabe, estou um pouco\npreocupado com sua tosse,\nmas acho que não há nenhuma\nmaneira de ajudá-lo...",
-        "es-ES": "[{0}]\n¿Sabes?, me\npreocupa un poco tu tos,\npero no sé si\npuedo ayudarte…"
+        "es-ES": "[{0}]\n¿Sabes?, me\npreocupa un poco tu tos,\npero no sé si\npuedo ayudarte..."
     },
     "S2YDAQ": {
         "en-US": "[Morriphen]\n^333333*Cough cough*^000000\nDon't worry, I'll be\njust fine. You take care\nof yourself, you hear?",
@@ -62,7 +62,7 @@
     "TGYDAQ": {
         "en-US": "[{0}]\nHey...\nAre you sure that\nyou'll be alright?",
         "pt-BR": "[{0}]\nEi...\nTem certeza de que\nvocê vai ficar bem?",
-        "es-ES": "[{0}]\nOye…\n¿Seguro que\nestarás bien?"
+        "es-ES": "[{0}]\nOye...\n¿Seguro que\nestarás bien?"
     },
     "TWYDAQ": {
         "en-US": "[Morriphen]\n^333333*Cough cough*^000000\nDon't worry, I'll be\njust fine. You take care\nof yourself, you hear?\n^333333*Haaaak* *Reeetch*^000000",
@@ -72,12 +72,12 @@
     "TmYDAQ": {
         "en-US": "[{0}]\n...\n......\n.........",
         "pt-BR": "[{0}]\n...\n......\n.........",
-        "es-ES": "[{0}]\n…\n......\n........."
+        "es-ES": "[{0}]\n...\n......\n........."
     },
     "T2YDAQ": {
         "en-US": "[Morriphen]\n^333333*Reeeeetch*\n*Cooooough Cough*\n*Hhhh, Hhhhh, Hhhh*\n*Haaaaack* *Retch*^000000",
         "pt-BR": "[Morriphen]\n^333333*Reeeeetch*\n*Cooooough Cough*\n*Hhhh, Hhhhh, Hhhh*\n*Haaaaack* *Retch*^000000",
-        "es-ES": "[Morriphen]\n^333333*Ujjj*\n*Cofff, cofff*\n*Uj… uj…*\n*¡Uaaajjj!*^000000"
+        "es-ES": "[Morriphen]\n^333333*Ujjj*\n*Cofff, cofff*\n*Uj... uj...*\n*¡Uaaajjj!*^000000"
     },
     "UGYDAQ": {
         "en-US": "[{0}]\nPlease, mister.\nLet me help you.\nI can't just leave\nyou alone if you\nsound like that.",
@@ -112,22 +112,22 @@
     "VmYDAQ": {
         "en-US": "[Morriphen]\nUgh... I don't feel\nvery well. I guess\nI better call it a day...",
         "pt-BR": "[Morriphen]\nUgh... Não estou me sentindo\nmuito bem. Acho que\nmelhor encerrar o dia...",
-        "es-ES": "[Morriphen]\nUf… No me siento\nmuy bien. Creo que\ndescansaré por hoy…"
+        "es-ES": "[Morriphen]\nUf... No me siento\nmuy bien. Creo que\ndescansaré por hoy..."
     },
     "V2YDAQ": {
         "en-US": "[Morriphen]\nPlease ask my ^333333*Cough*^000000\nwife Siria in my home in\n^333333*Reeetch*^000000 Hugel for m-my\nmedicine. Th-thank you...\n^333333*Haaaaack* *Hhh, haaaack*^000000",
         "pt-BR": "[Morriphen]\nPor favor, peça à minha ^333333*Cough*^000000\nesposa Siria em minha casa em\n^333333*Reeetch*^000000 Hugel para o meu\nremédio. Obrigado...\n^333333*Haaaaack* *Hhh, haaaack*^000000",
-        "es-ES": "[Morriphen]\nTe ruego que vayas a ver a… ^333333*Cofff*^000000\nmi esposa Siria que vive en…\n^333333*Uaajjj*^000000 Hugel y le pidas mi\nmedicina. Gracias…\n^333333*Ujjj* *¡Uaaajjj!*^000000"
+        "es-ES": "[Morriphen]\nTe ruego que vayas a ver a... ^333333*Cofff*^000000\nmi esposa Siria que vive en...\n^333333*Uaajjj*^000000 Hugel y le pidas mi\nmedicina. Gracias...\n^333333*Ujjj* *¡Uaaajjj!*^000000"
     },
     "WGYDAQ": {
         "en-US": "[{0}]\nOh no... Morriphen\ndoesn't look good at all!\nI better hurry and bring\nhim medicine from Siria\nin Hugel as soon as I can!",
         "pt-BR": "[{0}]\nOh não... Morriphen\nnão parece nada bom!\nÉ melhor eu me apressar e trazer\nremédio para ele da Siria\nem Hugel o mais rápido possível!",
-        "es-ES": "[{0}]\nAy, no… ¡Morriphen\nno se ve nada bien!\n¡Será mejor que le consiga\nla medicina que tiene su esposa Siria\nen Hugel tan pronto como pueda!"
+        "es-ES": "[{0}]\nAy, no... ¡Morriphen\nno se ve nada bien!\n¡Será mejor que le consiga\nla medicina que tiene su esposa Siria\nen Hugel tan pronto como pueda!"
     },
     "WWYDAQ": {
         "en-US": "[{0}]\nOh no... Morriphen\ndoesn't look good at all!\nI better hurry and bring\nhim medicine from Dono\nin Hugel as soon as I can!",
         "pt-BR": "[{0}]\nOh não... Morriphen\nnão parece nada bom!\nÉ melhor eu me apressar e levar\nremédio para ele de Dono\nem Hugel o mais rápido possível!",
-        "es-ES": "[{0}]\nAy, no… ¡Morriphen\nno se ve nada bien!\n¡Será mejor que le consiga\nla medicina de Dono\nen Hugel tan pronto como pueda!"
+        "es-ES": "[{0}]\nAy, no... ¡Morriphen\nno se ve nada bien!\n¡Será mejor que le consiga\nla medicina de Dono\nen Hugel tan pronto como pueda!"
     },
     "WmYDAQ": {
         "en-US": "^3355FFYou administer the\nmedicine to Morriphen,\nwho slowly regains\nconsciousness.^000000",
@@ -137,7 +137,7 @@
     "W2YDAQ": {
         "en-US": "[Morriphen]\n^333333*Cough, cough*^000000\nWh-where am I?\nI'm... not dead yet?\nOh, you! It seems I was\nright to trust you. So did my\nwife give you my medicine?",
         "pt-BR": "[Morriphen]\n^333333*Cough, cough*^000000\nOnde estou?\nEu... ainda não estou morto?\nAh, você! Parece que eu estava\ncerto em confiar em você. Então, minha\nesposa lhe deu meu remédio?",
-        "es-ES": "[Morriphen]\n^333333*Cof, cof*^000000\n¿Dónde estoy?\nUn momento… ¿Sigo vivo?\n¡Eres tú! Parece que hice\nlo correcto al confiar en ti. Entonces, ¿lograste\nconseguir la medicina que tenía mi esposa?"
+        "es-ES": "[Morriphen]\n^333333*Cof, cof*^000000\n¿Dónde estoy?\nUn momento... ¿Sigo vivo?\n¡Eres tú! Parece que hice\nlo correcto al confiar en ti. Entonces, ¿lograste\nconseguir la medicina que tenía mi esposa?"
     },
     "XGYDAQ": {
         "en-US": "[{0}]\nActually, Siria also ran \nout of your medicine when\nI arrived at your house, so\nshe told me to go get some\nfrom your friend, Dono.",
@@ -162,27 +162,27 @@
     "YGYDAQ": {
         "en-US": "[{0}]\nWhat am I doing...?\nI need to return to\nHugel and deliver this\nmedicine to Siria as\nsoon as possible!",
         "pt-BR": "[{0}]\nO que estou fazendo...?\nPreciso voltar para\nHugel e entregar esse\nmedicamento à Siria o mais\no mais rápido possível!",
-        "es-ES": "[{0}]\n¿Qué estoy haciendo…?\n¡Debo volver a\nHugel y entregarle esta\nmedicina a Siria tan\npronto como sea posible!"
+        "es-ES": "[{0}]\n¿Qué estoy haciendo...?\n¡Debo volver a\nHugel y entregarle esta\nmedicina a Siria tan\npronto como sea posible!"
     },
     "YWYDAQ": {
         "en-US": "[Morriphen]\nYou're back! So, have you\nseen my wife? She's okay,\nisn't she? Why aren't you\nsaying--oh no. Oh dear God,\nno. D-don't tell me she's dead!",
         "pt-BR": "[Morriphen]\nVocê está de volta! Então, você viu\nviu minha esposa? Ela está bem,\nnão está? Por que não está\ndizendo - oh não. Oh, meu Deus,\nnão. Não me diga que ela está morta!",
-        "es-ES": "[Morriphen]\n¡Volviste! Entonces, ¿lograste\nver a mi esposa? Está a salvo,\n¿verdad? ¿Por qué no\ncontestas mi…? ¡Oh, no!\n¡No, no, no! ¡No me digas que falleció!"
+        "es-ES": "[Morriphen]\n¡Volviste! Entonces, ¿lograste\nver a mi esposa? Está a salvo,\n¿verdad? ¿Por qué no\ncontestas mi...? ¡Oh, no!\n¡No, no, no! ¡No me digas que falleció!"
     },
     "YmYDAQ": {
         "en-US": "[Morriphen]\nShe has to be fine...!\nIf anything happened\nto her, I... I won't forgive\nyou! No one would find your\nbody! No, wait, wait... No, I'm\nsorry, I'm just so anxious...!",
         "pt-BR": "[Morriphen]\nEla tem que estar bem...!\nSe algo acontecer\na ela, eu... Eu não vou perdoar\nvocê! Ninguém encontraria seu\ncorpo! Não, espere, espere... Não, me desculpe.\ndesculpe, estou tão ansioso...!",
-        "es-ES": "[Morriphen]\n¡Se suponía que estaría bien!\nSi algo le pasara,\njamás te… ¡Jamás te\nperdonaría! ¡Nunca encontrarán tu\ncuerpo! Un momento. Cálmate. Respira… Lo siento,\nes solo que estoy tan nervioso…"
+        "es-ES": "[Morriphen]\n¡Se suponía que estaría bien!\nSi algo le pasara,\njamás te... ¡Jamás te\nperdonaría! ¡Nunca encontrarán tu\ncuerpo! Un momento. Cálmate. Respira... Lo siento,\nes solo que estoy tan nervioso..."
     },
     "Y2YDAQ": {
         "en-US": "[Morriphen]\n^333333*Sob*^000000 Please forgive me!\nPlease tell me my wife is\nokay. I'm sorry, everything\nis just so overwhelming right\nnow. ^333333*Sob*^000000 Please, please...",
         "pt-BR": "[Morriphen]\n^333333*Soluço*^000000 Por favor, me perdoe!\nPor favor, me diga que minha esposa está\nbem. Me desculpe, mas tudo\nestá tudo tão complicado neste\nagora. ^333333*Soluço*^000000 Por favor, por favor...",
-        "es-ES": "[Morriphen]\n^333333*Solloza*^000000 ¡Lo siento mucho!\nPor favor, dime que mi esposa está \nbien. Lo siento, todo\nme abruma demasiado en este\nmomento. ^333333*Solloza*^000000 Por favor…"
+        "es-ES": "[Morriphen]\n^333333*Solloza*^000000 ¡Lo siento mucho!\nPor favor, dime que mi esposa está \nbien. Lo siento, todo\nme abruma demasiado en este\nmomento. ^333333*Solloza*^000000 Por favor..."
     },
     "ZGYDAQ": {
         "en-US": "[{0}]\nSiria is fine.\nNow are you satisfied?\nIf you're that worried about\nher, you ought to see her\nmore often. Geez...",
         "pt-BR": "[{0}]\nSiria está bem.\nAgora você está satisfeito?\nSe você está tão preocupado com\ncom ela, deveria vê-la\ncom mais frequência. Puxa...",
-        "es-ES": "[{0}]\nSiria está bien.\n¿Estás satisfecho?\nSi tanto te preocupa\nsu salud, quizá deberías ir a verla\nmás seguido. Cielos…"
+        "es-ES": "[{0}]\nSiria está bien.\n¿Estás satisfecho?\nSi tanto te preocupa\nsu salud, quizá deberías ir a verla\nmás seguido. Cielos..."
     },
     "ZWYDAQ": {
         "en-US": "[Morriphen]\nHallelujah! I'm so\nrelieved! She's alive!\nI'm sorry, I'd be home\nmore often, but I'm always\nstruggling here to make ends\nmeet. Thank you so much!",
@@ -197,12 +197,12 @@
     "Z2YDAQ": {
         "en-US": "[Morriphen]\nYou're such a kind person...\nYou really saved me and my\nwife. I'll do anything you ask me^FFFFFF ^000000 to do to repay you! Consider me\nyour humble servant from now on. What is your command, oh master?",
         "pt-BR": "[Morriphen]\nVocê é uma pessoa tão gentil...\nVocê realmente salvou a mim e a minha\nesposa. Farei qualquer coisa que você me pedir^FFFFFF ^000000 para lhe retribuir! Considere-me\nseu humilde servo de agora em diante. Qual é a sua ordem, oh mestre?",
-        "es-ES": "[Morriphen]\nEres una persona tan amable…\nNos salvaste la vida a mi esposa\ny a mí. ¡Haré cualquier cosa que me pidas^FFFFFF^000000 para recompensarte! Considérame\ntu humilde servidor a partir de ahora. ¿Cuál es su orden?"
+        "es-ES": "[Morriphen]\nEres una persona tan amable...\nNos salvaste la vida a mi esposa\ny a mí. ¡Haré cualquier cosa que me pidas^FFFFFF^000000 para recompensarte! Considérame\ntu humilde servidor a partir de ahora. ¿Cuál es su orden?"
     },
     "aGYDAQ": {
         "en-US": "[{0}]\nThat's...\nThat's going too far.\nBecoming my servant for\nlife isn't necessary, you know.",
         "pt-BR": "[{0}]\nIsso é...\nIsso é ir demais.\nNão precisa tornar-se meu servo até o fim de sua \nvida, sabe.",
-        "es-ES": "[{0}]\nEso es…\nEso es ir demasiado lejos.\nNo es necesario que me sirvas\nde por vida…"
+        "es-ES": "[{0}]\nEso es...\nEso es ir demasiado lejos.\nNo es necesario que me sirvas\nde por vida..."
     },
     "aWYDAQ": {
         "en-US": "[Morriphen]\nWait, I know! If you won't\naccept my life, then I can\ngive you someone else's. Do\nyou have any enemies? I'll go\nout and kill someone for you!",
@@ -212,7 +212,7 @@
     "amYDAQ": {
         "en-US": "[{0}]\n...That's fine.\nActually, I'm more interested\nin hearing how you, Siria, and\nDono are all connected. When\nI spoke to Siria, she told me\nthat you two weren't married...",
         "pt-BR": "[{0}]\n...Tudo bem.\nNa verdade, estou mais interessado\nem saber como você, Siria e\nDono estão todos conectados. Quando\nfalei com a Siria, ela me disse\nque vocês dois não eram casados...",
-        "es-ES": "[{0}]\n… Ni te molestes.\nEn realidad, me interesa más\nsaber qué relación tienen tú, Siria\ny Dono. Cuando\nhablé con Siria, me dijo\nque ustedes dos no están casados."
+        "es-ES": "[{0}]\n... Ni te molestes.\nEn realidad, me interesa más\nsaber qué relación tienen tú, Siria\ny Dono. Cuando\nhablé con Siria, me dijo\nque ustedes dos no están casados."
     },
     "a2YDAQ": {
         "en-US": "[{0}]\nSiria did mention\nthat she's greatly\nindebted to you for\nsome reason, and she'll\nnever be able to fully repay\nyou, not even with her life.",
@@ -242,12 +242,12 @@
     "cGYDAQ": {
         "en-US": "[Morriphen]\nShe was floating in a giant\ntest tube, and I couldn't take\nmy eyes off her: she was the\nmost beautiful thing I'd ever\nseen. But Dono said she was\nnothing but an experiment...",
         "pt-BR": "[Morriphen]\nEla estava flutuando em um tubo de ensaio gigante\ntubo de ensaio, e eu não conseguia tirar\nmeus olhos dela: ela era a\ncoisa mais linda que eu já tinha\ntinha visto. Mas Dono disse que ela era\nnada além de um experimento...",
-        "es-ES": "[Morriphen]\nElla estaba flotando dentro de un\ntubo de ensayo enorme, y yo no podía\nsacarle los ojos de encima: era el ser\nmás bello que había visto\nen mi vida. Dono me dijo que esa mujer\nno era más que un experimento…"
+        "es-ES": "[Morriphen]\nElla estaba flotando dentro de un\ntubo de ensayo enorme, y yo no podía\nsacarle los ojos de encima: era el ser\nmás bello que había visto\nen mi vida. Dono me dijo que esa mujer\nno era más que un experimento..."
     },
     "cWYDAQ": {
         "en-US": "[Morriphen]\nHe told me not to be so\ncurious, but I didn't listen.\nEver since then, I went to his^FFFFFF    ^000000 office as often as I could, making\nstupid excuses to see her. I just couldn't help it. I was in love.",
         "pt-BR": "[Morriphen]\nEle me disse para não ser tão\ncurioso, mas eu não dei ouvidos.\nDesde então, fui ao escritório dele^FFFFFF ^000000 escritório sempre que podia, dando\ndesculpas idiotas para vê-la. Eu simplesmente não conseguia evitar. Eu estava apaixonado.",
-        "es-ES": "[Morriphen]\n… y que no me interesara\ntanto por ella, pero no le hice caso.\nDespués de eso, iba a su oficina^FFFFFF^000000 tan seguido como podía e inventaba\ncuanta excusa tonta se me ocurría para verla. No podía evitarlo. Estaba enamorado."
+        "es-ES": "[Morriphen]\n... y que no me interesara\ntanto por ella, pero no le hice caso.\nDespués de eso, iba a su oficina^FFFFFF^000000 tan seguido como podía e inventaba\ncuanta excusa tonta se me ocurría para verla. No podía evitarlo. Estaba enamorado."
     },
     "cmYDAQ": {
         "en-US": "[Morriphen]\nThen, I heard news that Dono's\nresearch wasn't producing the\nexpected results, and that he\nwould be shutting everything\ndown. All experiments would\nbe efficiently disposed.",
@@ -272,12 +272,12 @@
     "dmYDAQ": {
         "en-US": "[Morriphen]\nI remember seeing a tall, robed\nman right before I fainted. He\nsaid something about bringing\nus to Hugel, a resting place\nfor the lost, those born from^FFFFFF     ^000000 Odin's shadow. It was strange...",
         "pt-BR": "[Morriphen]\nEu me lembro de ter visto um homem alto e\nhomem alto e coberto, pouco antes de eu desmaiar. Ele\nEle disse algo sobre nos levar\nnos levar a Hugel, um lugar de descanso\npara os perdidos, aqueles que nasceram da ^000000 sombra de Odin. Foi estranho...",
-        "es-ES": "[Morriphen]\nJusto antes de desmayarme, recuerdo\nhaber visto a un hombre alto que vestía una túnica. Dijo algo\nsobre llevarnos\na Hugel, un lugar de descanso\npara los errantes y los nacidos bajo la^FFFFFF^000000 la sombra de Odín. Fue extraño…"
+        "es-ES": "[Morriphen]\nJusto antes de desmayarme, recuerdo\nhaber visto a un hombre alto que vestía una túnica. Dijo algo\nsobre llevarnos\na Hugel, un lugar de descanso\npara los errantes y los nacidos bajo la^FFFFFF^000000 la sombra de Odín. Fue extraño..."
     },
     "d2YDAQ": {
         "en-US": "[Morriphen]\nI couldn't see his face.\nHis hood was covering it,\nbut I think his name was, um...\nMawon... Mawong? Anyway, when\nwe woke up, we were lying in\nwarm beds inside Hugel Village.",
         "pt-BR": "[Morriphen]\nEu não conseguia ver seu rosto.\nSeu capuz estava cobrindo-o,\nmas acho que seu nome era...\nMawon... Mawong? De qualquer forma, quando\nacordamos, estávamos deitados em camas\ncamas quentes dentro da Vila Hugel.",
-        "es-ES": "[Morriphen]\nY aunque nunca vi su cara\nporque la cubría una capucha,\ncreo que su nombre era, este…\n¿Mawon…? ¿Mawong? De todos modos, cuando\ndespertamos, estábamos recostados\nen unas cómodas camas en la aldea de Hugel."
+        "es-ES": "[Morriphen]\nY aunque nunca vi su cara\nporque la cubría una capucha,\ncreo que su nombre era, este...\n¿Mawon...? ¿Mawong? De todos modos, cuando\ndespertamos, estábamos recostados\nen unas cómodas camas en la aldea de Hugel."
     },
     "eGYDAQ": {
         "en-US": "[Morriphen]\nThe people we met were very\naccommodating, welcome, and\nfriendly. They also didn't\nask us any questions: we were\njust accepted. The girl I saved^FFFFFF   ^000000 didn't know how to speak then...",
@@ -292,7 +292,7 @@
     "emYDAQ": {
         "en-US": "[Morriphen]\nI had to make a living for the\ntwo of us to survive, so I found work in Einbroch and Lighthalzen.\nEventually, I bumped into Dono\ninside a shabby herb shop in Lighthalzen. I felt so ashamed...",
         "pt-BR": "[Morriphen]\nEu tinha que ganhar a vida para nós dois sobrevivermos.\nEntão, encontrei trabalho em Einbroch e Lighthalzen.\nPor fim, encontrei Dono\nem uma loja de ervas em mau estado em Lighthalzen. Eu me senti tão envergonhado...",
-        "es-ES": "[Morriphen]\nTenía que ganarme la vida para\nque ambos pudiéramos sobrevivir, así que busqué trabajo en Einbroch y Lighthalzen.\nPor casualidad, me topé con Dono\nen una tienda de hierbas de mala pinta en Lighthalzen. Me dio tanta vergüenza…"
+        "es-ES": "[Morriphen]\nTenía que ganarme la vida para\nque ambos pudiéramos sobrevivir, así que busqué trabajo en Einbroch y Lighthalzen.\nPor casualidad, me topé con Dono\nen una tienda de hierbas de mala pinta en Lighthalzen. Me dio tanta vergüenza..."
     },
     "e2YDAQ": {
         "en-US": "[Morriphen]\nI burned up his lab, which\nmust've hurt his reputation\nin the company. Still, when\nI told him what happened, he\nseemed to understand. He\neven started to help me...",
@@ -342,7 +342,7 @@
     "hGYDAQ": {
         "en-US": "[Morriphen]\n^333333*Sob*^000000 You're right...\nI'm so sorry, Dono! ^333333*Sniff*^000000\nThank you so much. If you\never visit Hugel again, come\nby and see me. You've really\nhelped me and Seria so much.",
         "pt-BR": "[Morriphen]\n^333333*soluço*^000000 Você está certo...\nSinto muito, Dono! ^333333*Sniff*^000000\nMuito obrigado. Se você\nvisitar Hugel novamente, venha\nvenha me ver. Você realmente\nVocê realmente ajudou muito a mim e à Seria.",
-        "es-ES": "[Morriphen]\n^333333*Solloza*^000000 Tienes razón…\n¡Lo siento mucho, Dono! ^333333*Solloza*^000000\nMuchas gracias. Si\nalguna vez vuelves a Hugel, ven\na visitarme. Nos ayudaste mucho\na Siria y a mí…"
+        "es-ES": "[Morriphen]\n^333333*Solloza*^000000 Tienes razón...\n¡Lo siento mucho, Dono! ^333333*Solloza*^000000\nMuchas gracias. Si\nalguna vez vuelves a Hugel, ven\na visitarme. Nos ayudaste mucho\na Siria y a mí..."
     },
     "hWYDAQ": {
         "en-US": "[{0}]\nDon't worry about it.\nJust get better so that\nI won't have to worry\nabout you. Take care~",
@@ -367,7 +367,7 @@
     "iWYDAQ": {
         "en-US": "[Siria]\nOh, hello there.\nCan I help you\nwith anything?\nIt looks like you want\nto ask me something...",
         "pt-BR": "[Siria]\nOh, olá.\nPosso lhe ajudar?\ncom alguma coisa?\nParece que você quer\nme perguntar algo...",
-        "es-ES": "[Siria]\nHola, ¿cómo estás?\n¿Te puedo ayudar\ncon algo?\nParece que quieres\npreguntarme algo…"
+        "es-ES": "[Siria]\nHola, ¿cómo estás?\n¿Te puedo ayudar\ncon algo?\nParece que quieres\npreguntarme algo..."
     },
     "imYDAQ": {
         "en-US": "^3355FFHow can a woman this\nyoung be Morriphen's wife?^000000",
@@ -377,12 +377,12 @@
     "i2YDAQ": {
         "en-US": "[{0}]\nYes, um, Morriphen sent\nme here so that I can bring\nhim his medicine. I was wo--",
         "pt-BR": "[{0}]\nSim, um, Morriphen me enviou\nme aqui para que eu possa levar\nseu remédio. Eu estava...",
-        "es-ES": "[{0}]\nEmm, sí, Morriphen me pidió \nque viniera a buscar\nsu medicina. Estaba preocu…"
+        "es-ES": "[{0}]\nEmm, sí, Morriphen me pidió \nque viniera a buscar\nsu medicina. Estaba preocu..."
     },
     "jGYDAQ": {
         "en-US": "[Siria]\nOh my God! Is he alright?\nPlease, oh dear Lord, don't\nlet him be dead! No! D-did\nanything bad happen to him?",
         "pt-BR": "[Siria]\nOh, meu Deus! Ele está bem?\nPor favor, meu Deus, não deixe que ele morra!\nque ele esteja morto! Não! D-disse\nalguma coisa ruim aconteceu com ele?",
-        "es-ES": "[Siria]\n¡Santísimo cielo! ¿Está bien?\n¡Por favor, Odín, no dejes\nque se muera! ¡No! ¿Acaso…\nle pasó algo malo?"
+        "es-ES": "[Siria]\n¡Santísimo cielo! ¿Está bien?\n¡Por favor, Odín, no dejes\nque se muera! ¡No! ¿Acaso...\nle pasó algo malo?"
     },
     "jWYDAQ": {
         "en-US": "[{0}]\nHe's just not feeling\nwell, that's all. All he\ntold me was that he ran\nout of his medicine, and\nneeds some more.",
@@ -392,7 +392,7 @@
     "jmYDAQ": {
         "en-US": "[Siria]\nOh, thank God! Okay, well,\nI just ran out of the medicine.\nMorriphen's friend, and get\nit from him. He's supposed to\nbe in Lighthalzen, somewhere...",
         "pt-BR": "[Siria]\nOh, graças a Deus! Tudo bem,\nAcabei de ficar sem o remédio.\nO amigo de Morriphen, e pegue\ne pegue-o com ele. Ele deve estar\nEle deve estar em Lighthalzen, em algum lugar...",
-        "es-ES": "[Siria]\n¡Oh, gracias al cielo! Bueno, resulta\nque se me acabó la medicina.\nBusca al amigo de Morriphen;\nél te conseguirá más. Se supone que\nvive en alguna parte de Lighthalzen…"
+        "es-ES": "[Siria]\n¡Oh, gracias al cielo! Bueno, resulta\nque se me acabó la medicina.\nBusca al amigo de Morriphen;\nél te conseguirá más. Se supone que\nvive en alguna parte de Lighthalzen..."
     },
     "j2YDAQ": {
         "en-US": "[Siria]\n^333333*Cough cough!*^000000\nUgh, excuse me.\nLet me sit down for\na moment. *Cough!*",
@@ -407,12 +407,12 @@
     "kWYDAQ": {
         "en-US": "[{0}]\nUm...\nAre you feeling\nalright? You're not\nsick too, are you?",
         "pt-BR": "[{0}]\nHum...\nEstá se sentindo\nbem? Você não está\ndoente também, está?",
-        "es-ES": "[{0}]\nEmmm…\n¿Te sientes\nbien? ¿No será que\ntambién estás enferma?"
+        "es-ES": "[{0}]\nEmmm...\n¿Te sientes\nbien? ¿No será que\ntambién estás enferma?"
     },
     "kmYDAQ": {
         "en-US": "[Siria]\nOh, no, no... I'm just\nso worried about Morriphen.\n*Sob* I can't live without him,\nhe's everything in the world\nto me. I owe him everything,\nI have to go see Dono, I hav--",
         "pt-BR": "[Siria]\nOh, não, não... Estou apenas\ntão preocupada com Morriphen.\n*Não posso viver sem ele,\nele é tudo no mundo\npara mim. Devo tudo a ele,\nTenho de ir ver o Dono, tenho de...",
-        "es-ES": "[Siria]\nNo, no, para nada. Es solo que\nestoy tan preocupada por Morriphen.\n*Solloza* No puedo vivir sin él;\nes todo\npara mí. Le debo mi vida.\nNo queda más remedio, debo visitar a Dono y…"
+        "es-ES": "[Siria]\nNo, no, para nada. Es solo que\nestoy tan preocupada por Morriphen.\n*Solloza* No puedo vivir sin él;\nes todo\npara mí. Le debo mi vida.\nNo queda más remedio, debo visitar a Dono y..."
     },
     "k2YDAQ": {
         "en-US": "[{0}]\nYou know what? You better\nrelax and rest here, and I'll\ngo visit this Dono person in\nLighthalzen. You don't sound\nwell enough to be traveling.",
@@ -422,12 +422,12 @@
     "lGYDAQ": {
         "en-US": "[Siria]\nI'm... I'm sorry to\ntrouble you. But if\nMorriphen can trust you\nto come here, then I'll\ntrust you too. ^333333*Cough*^000000\nThank you so much...",
         "pt-BR": "[Siria]\nEu... Desculpe-me por\nincomodá-lo. Mas se\nMorriphen pode confiar em você\npara vir aqui, então eu\nconfiarei em você também. ^333333*Cough*^000000\nMuito obrigado...",
-        "es-ES": "[Siria]\nYo… Lamento mucho\nmolestarte. Pero si\nMorriphen confió en ti para\nque vinieras, entonces yo\ntambién confío en ti. ^333333*Cof*^000000\nMuchas gracias…"
+        "es-ES": "[Siria]\nYo... Lamento mucho\nmolestarte. Pero si\nMorriphen confió en ti para\nque vinieras, entonces yo\ntambién confío en ti. ^333333*Cof*^000000\nMuchas gracias..."
     },
     "lWYDAQ": {
         "en-US": "[Siria]\n^333333*Sniff*^000000  Please\ngo to Lighthalzen and\nget ^333333*Cough*^000000 Morriphen's\nmedicine from his friend,\nDono, as soon as you can.",
         "pt-BR": "[Siria]\n^333333*Sniff*^000000 Por favor\nvá para Lighthalzen e\ne pegue o remédio de Morriphen\nde seu amigo,\nDono, assim que puder.",
-        "es-ES": "[Siria]\n^333333*Solloza*^000000 Por favor,\nve a Lighthalzen y\nconsigue… ^333333*¡Cof!*^000000 … la medicina de Morriphen\nque tiene Dono, su amigo,\nen cuanto puedas."
+        "es-ES": "[Siria]\n^333333*Solloza*^000000 Por favor,\nve a Lighthalzen y\nconsigue... ^333333*¡Cof!*^000000 ... la medicina de Morriphen\nque tiene Dono, su amigo,\nen cuanto puedas."
     },
     "lmYDAQ": {
         "en-US": "[Siria]\nOh, have you met Dono?\nI'm so grateful for all of\nhis help. He really is a\ngood friend to Morriphen,\nno matter what he says.",
@@ -452,12 +452,12 @@
     "mmYDAQ": {
         "en-US": "[Siria]\n...Ah... I can't...\nI don't know... I...\nWhere is...? Oh, it's\nyou. I think... I think\nyou just saved my life.\nI'm sorry for being a burden...",
         "pt-BR": "[Siria]\n...Ah... eu não posso...\nEu não sei... I...\nOnde está...? Oh, é\nvocê. Eu acho que... Eu acho que\nvocê acabou de salvar minha vida.\nDesculpe-me por ser um fardo...",
-        "es-ES": "[Siria]\n…Ah… No puedo…\nNo sé… Yo…\n¿Dónde está…? Ah, eres\ntú. Creo… Creo\nque me acabas de salvar la vida.\nSiento mucho ser una carga…"
+        "es-ES": "[Siria]\n...Ah... No puedo...\nNo sé... Yo...\n¿Dónde está...? Ah, eres\ntú. Creo... Creo\nque me acabas de salvar la vida.\nSiento mucho ser una carga..."
     },
     "m2YDAQ": {
         "en-US": "[Siria]\nAll I've been is a nuisance\nto both Morriphen and Dono.\nYou don't understand how I've\ndestroyed their lives. I just--\nI just... I just need to relax.\nThank you for everything...",
         "pt-BR": "[Siria]\nTudo o que tenho sido é um incômodo\npara Morriphen e dono.\nVocê não entende como eu destruí\ndestruí suas vidas. Eu apenas...\nEu só... Eu só preciso relaxar.\nObrigado por tudo...",
-        "es-ES": "[Siria]\nSolo he sido una molestia\npara Morriphen y para Dono.\nNo imaginas cómo\narruiné sus vidas. Es que…\nYo solo… Necesito un momento para calmarme.\nGracias por todo…"
+        "es-ES": "[Siria]\nSolo he sido una molestia\npara Morriphen y para Dono.\nNo imaginas cómo\narruiné sus vidas. Es que...\nYo solo... Necesito un momento para calmarme.\nGracias por todo..."
     },
     "nGYDAQ": {
         "en-US": "[Siria]\nOh, please go back\nto Morriphen and let\nhim know that I'm much\nbetter. I don't want him\nto worry about me!",
@@ -497,22 +497,22 @@
     "o2YDAQ": {
         "en-US": "[{0}]\nOh, I'm just here\nto get some medicine\nfor Morriphen. Um, his\nwife Siria said that\nyou would have it?",
         "pt-BR": "[{0}]\nOh, eu só estou aqui\npara pegar um remédio\npara o Morriphen. Hum, sua\nesposa Siria disse que\no senhor poderia tomá-lo?",
-        "es-ES": "[{0}]\nMe enviaron\na conseguir un poco de medicina\npara Morriphen. Eh… Su\nesposa Siria dijo\nque tú podías conseguirle un poco."
+        "es-ES": "[{0}]\nMe enviaron\na conseguir un poco de medicina\npara Morriphen. Eh... Su\nesposa Siria dijo\nque tú podías conseguirle un poco."
     },
     "pGYDAQ": {
         "en-US": "[Dono]\nWife? Hurmph! Not likely.\nAlright, I see. He must've\nrun out of medicine. Jesus,\nthey're both still alive? It's\na miracle that they've both\nlasted this long. Eh, oh well.",
         "pt-BR": "[Dono]\nEsposa? Que horror! Não é provável.\nTudo bem, estou entendendo. Ele deve ter\nficado sem remédio. Jesus,\nos dois ainda estão vivos? É\num milagre que ambos tenham\ntenham durado tanto tempo. Eh, tudo bem.",
-        "es-ES": "[Dono]\n¿Esposa? ¡Ja! ¡No que yo sepa!\nEn fin, entiendo por qué vienes. Supongo que\nse quedó sin medicina. Cielos,\n¿de verdad siguen vivos los dos? Es\nun milagro que hayan\ndurado tanto tiempo. Eh, como sea…"
+        "es-ES": "[Dono]\n¿Esposa? ¡Ja! ¡No que yo sepa!\nEn fin, entiendo por qué vienes. Supongo que\nse quedó sin medicina. Cielos,\n¿de verdad siguen vivos los dos? Es\nun milagro que hayan\ndurado tanto tiempo. Eh, como sea..."
     },
     "pWYDAQ": {
         "en-US": "[Dono]\nIt's his own fault his body\ngot messed up. Now let's\nsee how much medicine we\ngot here... Hmm... Dang. This\nisn't good. Hey, you said you\nwork for Morriphen, that right?",
         "pt-BR": "[Dono]\nA culpa é dele, seu corpo\nficou bagunçado. Agora vamos\nver quanto remédio temos\ntemos aqui... Hmm... Droga. Isso\nnão é bom. Ei, você disse que\ntrabalha para a Morriphen, certo?",
-        "es-ES": "[Dono]\nEs su culpa que su cuerpo\nhaya quedado así. Bueno, veamos\ncuánta medicina tengo\npor aquí… Mmm… Rayos, malas\nnoticias. Oye, dijiste que\nvienes en nombre de Morriphen, ¿verdad?"
+        "es-ES": "[Dono]\nEs su culpa que su cuerpo\nhaya quedado así. Bueno, veamos\ncuánta medicina tengo\npor aquí... Mmm... Rayos, malas\nnoticias. Oye, dijiste que\nvienes en nombre de Morriphen, ¿verdad?"
     },
     "pmYDAQ": {
         "en-US": "[Dono]\nI have the medicine, but it's\nnot enough for one person, much\nless the two of them. I need you^FFFFFF  ^000000 to help me make some more.\nNow, listen carefully, these\nare the ingredients I need...",
         "pt-BR": "[Dono]\nEu tenho o remédio, mas não é\nnão é suficiente para uma pessoa, muito\nmuito menos para os dois. Preciso que você^FFFFFF ^000000 me ajude a fazer mais.\nAgora, preste atenção, estes\nsão os ingredientes de que preciso...",
-        "es-ES": "[Dono]\nTengo la medicina, pero\nno es suficiente para una persona, y mucho\nmenos para dos. Necesito que^FFFFFF^000000 me ayudes a preparar más.\nEscucha con atención, estos\nson los ingredientes que necesito…"
+        "es-ES": "[Dono]\nTengo la medicina, pero\nno es suficiente para una persona, y mucho\nmenos para dos. Necesito que^FFFFFF^000000 me ayudes a preparar más.\nEscucha con atención, estos\nson los ingredientes que necesito..."
     },
     "p2YDAQ": {
         "en-US": "[{0}]\nWait, wait, I thought I was\nonly getting medicine for\nMorriphen. Are you saying\nthat his wife Siria needs\nthe medicine too?",
@@ -527,12 +527,12 @@
     "qWYDAQ": {
         "en-US": "[Dono]\nGo get\n^3355FF5 Coal^000000,\n^3355FF5 Brigan^000000,\n^3355FF5 Cyfar^000000,\n^3355FF1 Unripe Apple^000000,\n^3355FF3 Detrimindexta^000000...",
         "pt-BR": "[Dono]\nVai pegar\n^3355FF5 Carvão^000000,\n^3355FF5 Brigan^000000,\n^3355FF5 Cyfar^000000,\n^3355FF1 Unripe Apple^000000,\n^3355FF3 Detrimindexta^000000...",
-        "es-ES": "[Dono]\nConsígueme\n^3355FF5 unidades de Carbón^000000,\n^3355FF5 unidades de Brigan^000000,\n^3355FF5 unidades de Cyfar^000000,\n^3355FF1 Manzana inmadura^000000,\n^3355FF3 unidades de Detrimindexta^000000…"
+        "es-ES": "[Dono]\nConsígueme\n^3355FF5 unidades de Carbón^000000,\n^3355FF5 unidades de Brigan^000000,\n^3355FF5 unidades de Cyfar^000000,\n^3355FF1 Manzana inmadura^000000,\n^3355FF3 unidades de Detrimindexta^000000..."
     },
     "qmYDAQ": {
         "en-US": "[Dono]\n...^3355FF20 Shells^000000,\n^3355FF1 Red Herb^000000,\n^3355FF1 Blue Herb^000000,\n^3355FF1 Green Herb^000000,\n^3355FF1 White Herb^000000, and\n^3355FF1 Yellow Herb^000000.",
         "pt-BR": "[Dono]\n...^3355FF20 Conchas^000000,\n^3355FF1 Erva Vermelha^000000,\n^3355FF1 Erva Azul^000000,\n^3355FF1 Erva Verde^000000,\n^3355FF1 Erva Branca^000000 e\n^3355FF1 Erva Amarela^000000.",
-        "es-ES": "[Dono]\n… ^3355FF20 Caparazones^000000,\n^3355FF1 Hierba roja^000000,\n^3355FF1 Hierba azul^000000,\n^3355FF1 Hierba verde^000000,\n^3355FF1 Hierba blanca^000000 y\n^3355FF1 Hierba amarilla^000000."
+        "es-ES": "[Dono]\n... ^3355FF20 Caparazones^000000,\n^3355FF1 Hierba roja^000000,\n^3355FF1 Hierba azul^000000,\n^3355FF1 Hierba verde^000000,\n^3355FF1 Hierba blanca^000000 y\n^3355FF1 Hierba amarilla^000000."
     },
     "q2YDAQ": {
         "en-US": "[Dono]\nI know this is sudden,\nI know I'm pushing you\nhard, but I've got no choice.\nIf you don't hurry, then\nthose two will die, simple^FFFFFF        ^000000 as that. I'll wait for you here.",
@@ -547,12 +547,12 @@
     "rWYDAQ": {
         "en-US": "[Dono]\nGood, good, you've brought\neverything I've asked. Give\nme a moment to process these\nmaterials and make the medicine.  ^333333*Sigh*^000000 I used to have assistants\ndo this kind of work for me...",
         "pt-BR": "[Dono]\nBom, bom, você trouxe\ntudo o que eu pedi. Dê-me\num momento para processar esses\nmateriais e preparar o medicamento. {Suspiro*^000000 Eu costumava ter assistentes\nque faziam esse tipo de trabalho para mim...",
-        "es-ES": "[Dono]\nTrajiste todo\nlo que te pedí, muy bien. Dame\nun momento para procesar\nestos ingredientes y preparar la medicina. ^333333*Suspira*^000000 Antes, solía tener asistentes\nque me ayudaban con estas cosas…"
+        "es-ES": "[Dono]\nTrajiste todo\nlo que te pedí, muy bien. Dame\nun momento para procesar\nestos ingredientes y preparar la medicina. ^333333*Suspira*^000000 Antes, solía tener asistentes\nque me ayudaban con estas cosas..."
     },
     "rmYDAQ": {
         "en-US": "[Dono]\nBack when I used to work for\nthe Rekenber Corporation, I was\na department head! Oh well, it\ncan't be helped now. Ah, it's\ndone. Now, let me test this\nout before I give it to you.",
         "pt-BR": "[Dono]\nNa época em que eu trabalhava para a\nCorporação Rekenber, eu era\num chefe de departamento! Oh, bem, isso\nnão há como evitar agora. Ah, está\nfeito. Agora, deixe-me testar isso\nantes de entregá-lo a você.",
-        "es-ES": "[Dono]\n¡Cuando trabajaba para la\nCorporación Rekenber, era\njefe de departamento! Bueno, supongo\nque ya no tiene sentido pensar en eso… Todo\nlisto. Déjame probar esto\nantes de dártelo."
+        "es-ES": "[Dono]\n¡Cuando trabajaba para la\nCorporación Rekenber, era\njefe de departamento! Bueno, supongo\nque ya no tiene sentido pensar en eso... Todo\nlisto. Déjame probar esto\nantes de dártelo."
     },
     "r2YDAQ": {
         "en-US": "^3355FFDono reveals that he has\ngrinded the materials into\na fine powder. He sprinkles\na small amount into a glass\nof water, and the liquid turns\nblue after he mixes it.^000000",
@@ -577,7 +577,7 @@
     "s2YDAQ": {
         "en-US": "[Dono]\nIf you don't hurry and\ngather the materials for\nthe medicine, Morriphen\nand Siria are gonna be\nin big trouble. Listen\nup, this is what I need...",
         "pt-BR": "[Dono]\nSe você não se apressar e\nreunir os materiais para\no remédio, Morriphen\ne a Siria estarão\nem grandes apuros. Ouça\nOuça, isso é o que eu preciso...",
-        "es-ES": "[Dono]\nSi no te apresuras y\nme consigues los ingredientes para\nla medicina, Morriphen\ny Siria estarán\nen grandes aprietos. Escucha\nbien, esto es lo que necesito…"
+        "es-ES": "[Dono]\nSi no te apresuras y\nme consigues los ingredientes para\nla medicina, Morriphen\ny Siria estarán\nen grandes aprietos. Escucha\nbien, esto es lo que necesito..."
     },
     "tGYDAQ": {
         "en-US": "[Dono]\nHey, you should be able\nto find Makkie inside the\npub across the street. Hurry\nup and bring me some Red\nPlant Stem Power from him.^FFFFFF        ^000000 Come on, Morriphen's in trouble!",
@@ -602,7 +602,7 @@
     "uGYDAQ": {
         "en-US": "[{0}]\nEr, he did mention that\nboth you and Morriphen used\nto work together for Rekenber.",
         "pt-BR": "[{0}]\nEr, ele mencionou que\nvocê e Morriphen costumavam\ntrabalhavam juntos para a Rekenber.",
-        "es-ES": "[{0}]\nEmm… Mencionó que\nMorriphen y tú antes trabajaban\npara Rekenber."
+        "es-ES": "[{0}]\nEmm... Mencionó que\nMorriphen y tú antes trabajaban\npara Rekenber."
     },
     "uWYDAQ": {
         "en-US": "[Dono]\nHe did, huh? Yeah, that's\ntrue. Morriphen and I used\nto be researchers... those\nwere the best damn days\nof my life. Afterwards, it\npretty much went downhill.",
@@ -747,7 +747,7 @@
     "1WYDAQ": {
         "en-US": "[Lisa]\nThere's no privacy in\nsmall towns. Someday,\nI wanna go out and\nlive in the big city~",
         "pt-BR": "[Lisa]\nNão há privacidade em\ncidades pequenas. Um dia,\nquero sair e\nviver na cidade grande~",
-        "es-ES": "[Lisa]\nNo existe la privacidad\nen las aldeas pequeñas… Algún día,\nquiero salir de aquí \ny vivir en la gran ciudad."
+        "es-ES": "[Lisa]\nNo existe la privacidad\nen las aldeas pequeñas... Algún día,\nquiero salir de aquí \ny vivir en la gran ciudad."
     },
     "1mYDAQ": {
         "en-US": "Emily",

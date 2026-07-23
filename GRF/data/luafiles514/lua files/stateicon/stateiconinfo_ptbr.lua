@@ -3898,7 +3898,7 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Aumenta ATQ da Arma"
+				"Aumenta o ATQ"
 			}
 		}
 	},
@@ -6129,7 +6129,7 @@ StateIconList_string = {
 			{"Saboroso!"},
 			{"%s"},
 			{
-				"ATQ da arma +10%."
+				"Dano físico +10%."
 			}
 		}
 	},
@@ -6624,7 +6624,7 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"ATQ da arma +7%"
+				"Dano físico +7%"
 			}
 		}
 	},
@@ -6657,22 +6657,22 @@ StateIconList_string = {
 	[EFST_IDs.EFST_FLOWER_LEAF3] = {
 		descript = {
 			{
-				"Poder Físico"
+				"Poder Mágico"
 			},
 			{"%s"},
 			{
-				"Dano físico +5%."
+				"Dano mágico +5%."
 			}
 		}
 	},
 	[EFST_IDs.EFST_FLOWER_LEAF4] = {
 		descript = {
 			{
-				"Poder Mágico"
+				"Poder Físico"
 			},
 			{"%s"},
 			{
-				"Dano mágico +5%."
+				"Dano físico +5%."
 			}
 		}
 	},
@@ -7532,9 +7532,6 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Arma de prop. Sombria."
-			},
-			{
 				"Chance de infligir"
 			},
 			{
@@ -8056,84 +8053,66 @@ StateIconList_string = {
 	[EFST_IDs.EFST_NOEQUIPWEAPON2] = {
 		descript = {
 			{
-				"Remover Arma Sombria"
+				"Remoção Sombria Total"
 			},
 			{"%s"},
 			{
-				"Arma Sombria removida e"
-			},
-			{
-				"não pode ser reequipada"
+				"Estado em que não é possível equipar Equipamento Sombrio de Arma"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPARMOR2] = {
 		descript = {
 			{
-				"Remover Armadura Sombria"
+				"Remoção Sombria Total"
 			},
 			{"%s"},
 			{
-				"Armadura Sombria removida"
-			},
-			{
-				"e não pode ser reequipada"
+				"Estado em que não é possível equipar Equipamento Sombrio de Armadura"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPSHIELD2] = {
 		descript = {
 			{
-				"Remover Escudo Sombrio"
+				"Remoção Sombria Total"
 			},
 			{"%s"},
 			{
-				"Escudo Sombrio removido"
-			},
-			{
-				"e não pode ser reequipado"
+				"Estado em que não é possível equipar Equipamento Sombrio de Escudo"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPSHOES2] = {
 		descript = {
 			{
-				"Remover Greva Sombria"
+				"Remoção Sombria Total"
 			},
 			{"%s"},
 			{
-				"Greva Sombria removida e"
-			},
-			{
-				"não pode ser reequipada"
+				"Estado em que não é possível equipar Equipamento Sombrio de Calçado"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPPENDANT2] = {
 		descript = {
 			{
-				"Remover Colar Sombrio"
+				"Remoção Sombria Total"
 			},
 			{"%s"},
 			{
-				"Colar Sombrio removido e"
-			},
-			{
-				"não pode ser reequipado"
+				"Estado em que não é possível equipar Equipamento Sombrio de Acessório"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPEARING2] = {
 		descript = {
 			{
-				"Remover Brinco Sombrio"
+				"Remoção Sombria Total"
 			},
 			{"%s"},
 			{
-				"Colar Sombrio removido e"
-			},
-			{
-				"não pode ser reequipado"
+				"Estado em que não é possível equipar Equipamento Sombrio de Acessório"
 			}
 		}
 	},
@@ -8144,11 +8123,24 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Equip. Sombrios removidos e"
-			},
-			{
-				"não podem ser reequipados"
+				"Estado em que não é possível equipar qualquer Equipamento Sombrio"
 			}
+		}
+	},
+	[EFST_IDs.EFST_CURSE_R_CUBE] = {
+		descript = {
+			{
+				"Maldição Vermelha"
+			},
+			{"%s"}
+		}
+	},
+	[EFST_IDs.EFST_CURSE_B_CUBE] = {
+		descript = {
+			{
+				"Maldição Azul"
+			},
+			{"%s"}
 		}
 	},
 	[EFST_IDs.EFST_TOXIN_OF_MANDARA] = {
@@ -8185,17 +8177,11 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_INTENSIVE_AIM] = {
 		descript = {
+			{"Em Foco!"},
+			{"Aumento de"},
+			{"ATQ, CRIT"},
 			{
-				"Mira Concentrada Ativa"
-			},
-			{
-				"ATQ aumentado"
-			},
-			{
-				"Precisão aumentada"
-			},
-			{
-				"Crítico aumentado"
+				"e Precisão."
 			}
 		}
 	},
@@ -8206,8 +8192,9 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Ao atacar com granada, aplica propriedade Água"
-			}
+				"Explosivo de"
+			},
+			{"prop. Água"}
 		}
 	},
 	[EFST_IDs.EFST_GRENADE_FRAGMENT_2] = {
@@ -8217,7 +8204,10 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Ao atacar com granada, aplica propriedade Vento"
+				"Explosivo de"
+			},
+			{
+				"prop. Vento"
 			}
 		}
 	},
@@ -8228,7 +8218,10 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Ao atacar com granada, aplica propriedade Terra"
+				"Explosivo de"
+			},
+			{
+				"prop. Terra"
 			}
 		}
 	},
@@ -8239,8 +8232,9 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Ao atacar com granada, aplica propriedade Fogo"
-			}
+				"Explosivo de"
+			},
+			{"prop. Fogo"}
 		}
 	},
 	[EFST_IDs.EFST_GRENADE_FRAGMENT_5] = {
@@ -8250,7 +8244,10 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Ao atacar com granada, aplica propriedade Sombrio"
+				"Explosivo de"
+			},
+			{
+				"prop. Sombrio"
 			}
 		}
 	},
@@ -8261,18 +8258,25 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Ao atacar com granada, aplica propriedade Sagrado"
+				"Explosivo de"
+			},
+			{
+				"prop. Sagrado"
 			}
 		}
 	},
 	[EFST_IDs.EFST_AUTO_FIRING_LAUNCHEREFST] = {
 		descript = {
-			{
-				"Lançador de Disparo Automático"
-			},
+			{"Automático"},
 			{"%s"},
 			{
-				"Estado de ativação do lançador automático de granadas"
+				"Ao realizar ataques,"
+			},
+			{
+				"chance de autoconjurar"
+			},
+			{
+				"habilidades explosivas."
 			}
 		}
 	},
@@ -8283,24 +8287,21 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Dano físico à distância aumentado"
+				"Aumenta o dano físico"
 			},
 			{
-				"P.ATQ aumentado"
+				"à distância e o P.ATQ."
 			}
 		}
 	},
 	[EFST_IDs.EFST_NW_GRENADE_MASTERY] = {
 		descript = {
 			{
-				"Maestria em Granada"
+				"Perícia com Explosivos"
 			},
 			{"%s"},
 			{
-				"CON aumentado"
-			},
-			{
-				"Dano de habilidades da linha Granada aumentado"
+				"Aumenta CON."
 			}
 		}
 	},
@@ -8311,7 +8312,7 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Recuperação contínua de HP"
+				"Regeneração de HP."
 			}
 		}
 	},
@@ -8322,18 +8323,18 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"P.ATQ aumentado"
+				"P.ATQ aumentado."
 			}
 		}
 	},
 	[EFST_IDs.EFST_TALISMAN_OF_MAGICIAN] = {
 		descript = {
 			{
-				"Talismã do Mágico"
+				"Talismã do Mago"
 			},
 			{"%s"},
 			{
-				"S.ATQM aumentado"
+				"S.ATQM aumentado."
 			}
 		}
 	},
@@ -8344,91 +8345,118 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Dano físico causado a inimigos de propriedade Água/Vento/Terra/Fogo/Neutro aumentado"
+				"Aumenta o dano físico"
 			},
 			{
-				"Dano mágico causado a inimigos de propriedade Água/Vento/Terra/Fogo/Neutro aumentado"
+				"e mágico contra alvos"
+			},
+			{
+				"de Água, Fogo, Vento,"
+			},
+			{
+				"Terra e Neutro."
 			}
 		}
 	},
 	[EFST_IDs.EFST_T_FIRST_GOD] = {
 		descript = {
 			{
-				"Bênção do Leste"
+				"Bênção do Dragão"
 			},
 			{"%s"},
 			{
-				"Estado de bênção do leste"
+				"O Dragão Azul é"
+			},
+			{
+				"guardião do Leste."
 			}
 		}
 	},
 	[EFST_IDs.EFST_T_SECOND_GOD] = {
 		descript = {
 			{
-				"Bênção do Oeste"
+				"Bênção do Tigre"
 			},
 			{"%s"},
 			{
-				"Estado de bênção do oeste"
+				"O Tigre Branco é"
+			},
+			{
+				"guardião do Oeste."
 			}
 		}
 	},
 	[EFST_IDs.EFST_T_THIRD_GOD] = {
 		descript = {
 			{
-				"Bênção do Sul"
+				"Bênção da Fênix"
 			},
 			{"%s"},
 			{
-				"Estado de bênção do sul"
+				"A Fênix Vermelha"
+			},
+			{
+				"é guardiã do Sul."
 			}
 		}
 	},
 	[EFST_IDs.EFST_T_FOURTH_GOD] = {
 		descript = {
 			{
-				"Bênção do Norte"
+				"Bênção do Jabuti"
 			},
 			{"%s"},
 			{
-				"Estado de bênção do norte"
+				"O Jabuti Negro é"
+			},
+			{
+				"guardião do Norte."
 			}
 		}
 	},
 	[EFST_IDs.EFST_T_FIVETH_GOD] = {
 		descript = {
 			{
-				"Bênção dos Quatro Pontos Cardeais e Cinco Elementos"
+				"Mandala das Feras"
 			},
 			{"%s"},
 			{
-				"Estado de bênção dos quatro pontos cardeais e cinco elementos"
+				"Sob a bênção das 4"
+			},
+			{
+				"Feras Divinas que"
+			},
+			{
+				"guardam as direções."
 			}
 		}
 	},
 	[EFST_IDs.EFST_HEAVEN_AND_EARTH] = {
 		descript = {
 			{
-				"Reencarnação das Almas"
+				"Alma Reencarnada"
 			},
 			{"%s"},
 			{
-				"Dano físico corpo a corpo aumentado"
+				"Aumenta o dano físico"
 			},
 			{
-				"Dano físico à distância aumentado"
+				"à distância, corpo a"
 			},
 			{
-				"Dano mágico de todas as propriedades aumentado"
+				"corpo e dano mágico de"
+			},
+			{
+				"todas as propriedades."
 			}
 		}
 	},
 	[EFST_IDs.EFST_HOGOGONG] = {
 		descript = {
-			{"Patada"},
+			{"Zonzeira"},
 			{"%s"},
 			{
-				"Estado de Patada"
+				"Você está zonzo."
 			}
 		}
 	},
@@ -8439,7 +8467,13 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"POW, CRT, CON aumentados"
+				"POD aumentado"
+			},
+			{
+				"CRV aumentada"
+			},
+			{
+				"CON aumentado"
 			}
 		}
 	},
@@ -8450,7 +8484,13 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"SPL, WIS, STA aumentados"
+				"FEI aumentado"
+			},
+			{
+				"SAB aumentada"
+			},
+			{
+				"STA aumentado"
 			}
 		}
 	},
@@ -8467,12 +8507,13 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_1] = {
 		descript = {
-			{
-				"Cores do Arco-Íris"
-			},
+			{"Cor Azul"},
 			{"%s"},
 			{
-				"Aplica propriedade Água às habilidades abaixo"
+				"Altera a prop."
+			},
+			{
+				"para Água em:"
 			},
 			{
 				"Meteoros de Nepeta"
@@ -8482,20 +8523,20 @@ StateIconList_string = {
 			},
 			{
 				"Lança Galhada"
-			},
-			{
-				"Poder Espiritual da Corça Esmeralda"
 			}
 		}
 	},
 	[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_2] = {
 		descript = {
 			{
-				"Cores do Arco-Íris"
+				"Cor Amarela"
 			},
 			{"%s"},
 			{
-				"Aplica propriedade Vento às habilidades abaixo"
+				"Altera a prop."
+			},
+			{
+				"para Vento em:"
 			},
 			{
 				"Meteoros de Nepeta"
@@ -8505,20 +8546,18 @@ StateIconList_string = {
 			},
 			{
 				"Lança Galhada"
-			},
-			{
-				"Poder Espiritual da Corça Esmeralda"
 			}
 		}
 	},
 	[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_3] = {
 		descript = {
-			{
-				"Cores do Arco-Íris"
-			},
+			{"Cor Verde"},
 			{"%s"},
 			{
-				"Aplica propriedade Terra às habilidades abaixo"
+				"Altera a prop."
+			},
+			{
+				"para Terra em:"
 			},
 			{
 				"Meteoros de Nepeta"
@@ -8528,20 +8567,20 @@ StateIconList_string = {
 			},
 			{
 				"Lança Galhada"
-			},
-			{
-				"Poder Espiritual da Corça Esmeralda"
 			}
 		}
 	},
 	[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_4] = {
 		descript = {
 			{
-				"Cores do Arco-Íris"
+				"Cor Vermelha"
 			},
 			{"%s"},
 			{
-				"Aplica propriedade Fogo às habilidades abaixo"
+				"Altera a prop."
+			},
+			{
+				"para Fogo em:"
 			},
 			{
 				"Meteoros de Nepeta"
@@ -8551,20 +8590,20 @@ StateIconList_string = {
 			},
 			{
 				"Lança Galhada"
-			},
-			{
-				"Poder Espiritual da Corça Esmeralda"
 			}
 		}
 	},
 	[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_5] = {
 		descript = {
 			{
-				"Cores do Arco-Íris"
+				"Cor Violeta"
 			},
 			{"%s"},
 			{
-				"Aplica propriedade Sombrio às habilidades abaixo"
+				"Altera a prop."
+			},
+			{
+				"para Sombrio em:"
 			},
 			{
 				"Meteoros de Nepeta"
@@ -8574,20 +8613,20 @@ StateIconList_string = {
 			},
 			{
 				"Lança Galhada"
-			},
-			{
-				"Poder Espiritual da Corça Esmeralda"
 			}
 		}
 	},
 	[EFST_IDs.EFST_COLORS_OF_HYUN_ROK_6] = {
 		descript = {
 			{
-				"Cores do Arco-Íris"
+				"Cor Laranja"
 			},
 			{"%s"},
 			{
-				"Aplica propriedade Sagrado às habilidades abaixo"
+				"Altera a prop."
+			},
+			{
+				"para Sagrado em:"
 			},
 			{
 				"Meteoros de Nepeta"
@@ -8597,9 +8636,6 @@ StateIconList_string = {
 			},
 			{
 				"Lança Galhada"
-			},
-			{
-				"Poder Espiritual da Corça Esmeralda"
 			}
 		}
 	},
@@ -8610,7 +8646,10 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Dano de Meteoros de Nepeta aumentado"
+				"Causa mais dano em"
+			},
+			{
+				"Meteoros de Nepeta"
 			}
 		}
 	},
@@ -8621,96 +8660,106 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"P.ATQ, S.ATQM, HEAL PLUS aumentados"
+				"P.ATQ aumentado"
+			},
+			{
+				"S.ATQM aumentado"
+			},
+			{
+				"C.Mais aumentado"
 			}
 		}
 	},
 	[EFST_IDs.EFST_BLESSING_OF_M_CREATURES] = {
 		descript = {
 			{
-				"Bênção do Espírito Animal"
+				"Bênção da Natureza"
 			},
 			{"%s"},
 			{
-				"P.ATQ, S.ATQM aumentados"
+				"P.ATQ aumentado"
+			},
+			{
+				"S.ATQM aumentado"
 			}
 		}
 	},
 	[EFST_IDs.EFST_BLESSING_OF_M_C_DEBUFF] = {
 		descript = {
-			{
-				"Efeito colateral da bênção do espírito animal"
-			},
+			{"Equilíbrio"},
 			{"%s"},
 			{
-				"Não é possível receber a bênção do espírito animal por certo tempo"
+				"Você não pode"
+			},
+			{
+				"receber a Bênção"
+			},
+			{
+				"da Natureza."
 			}
 		}
 	},
 	[EFST_IDs.EFST_SHIELDCHAINRUSH] = {
 		descript = {
-			{
-				"Choque Violento"
-			},
+			{"Em Choque"},
 			{"%s"},
 			{
-				"Velocidade de movimento reduzida"
+				"Recebe mais dano."
 			},
 			{
-				"Dano físico recebido aumentado"
-			},
-			{
-				"Dano mágico recebido aumentado"
+				"Movimento reduzido."
 			}
 		}
 	},
 	[EFST_IDs.EFST_MISTYFROST] = {
 		descript = {
-			{
-				"Frio Extremo"
-			},
+			{"Geladinho"},
 			{"%s"},
 			{
-				"Resistência à propriedade Água -15%"
+				"Resistência à"
+			},
+			{
+				"propriedade Água -15%."
 			}
 		}
 	},
 	[EFST_IDs.EFST_GROUNDGRAVITY] = {
 		descript = {
-			{
-				"Zona Gravitacional"
-			},
+			{"Gravitação"},
 			{"%s"},
 			{
-				"Velocidade de movimento reduzida"
+				"Recebe mais dano."
 			},
 			{
-				"Dano físico recebido aumentado"
-			},
-			{
-				"Dano mágico recebido aumentado"
+				"Movimento reduzido."
 			}
 		}
 	},
 	[EFST_IDs.EFST_BREAKINGLIMIT] = {
 		descript = {
 			{
-				"Anjo da Prosperidade"
+				"Bênção do Anjo"
 			},
 			{"%s"},
 			{
-				"Dano de habilidades da linha de combate amplificado"
+				"Bônus de dano das"
+			},
+			{
+				"habilidades físicas."
 			}
 		}
 	},
 	[EFST_IDs.EFST_RULEBREAK] = {
 		descript = {
 			{
-				"Anjo da Libertação"
+				"Bênção do Anjo"
 			},
 			{"%s"},
 			{
-				"Dano de habilidades da linha mágica amplificado"
+				"Bônus de dano das"
+			},
+			{
+				"habilidades mágicas."
 			}
 		}
 	},
@@ -8721,16 +8770,19 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado de nascer do sol"
+				"O Sol nasceu."
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOON_SUN] = {
 		descript = {
-			{"Meio-dia"},
+			{"Meio-Dia"},
 			{"%s"},
 			{
-				"Estado de meio-dia"
+				"Está ficando"
+			},
+			{
+				"tarde do dia."
 			}
 		}
 	},
@@ -8739,7 +8791,7 @@ StateIconList_string = {
 			{"Pôr do Sol"},
 			{"%s"},
 			{
-				"Estado de pôr do sol"
+				"O Sol se pôs."
 			}
 		}
 	},
@@ -8750,16 +8802,19 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado de nascer da lua"
+				"A Lua nasceu."
 			}
 		}
 	},
 	[EFST_IDs.EFST_MIDNIGHT_MOON] = {
 		descript = {
-			{"Meia-noite"},
+			{"Meia-Noite"},
 			{"%s"},
 			{
-				"Estado de meia-noite"
+				"Está ficando"
+			},
+			{
+				"tarde da noite."
 			}
 		}
 	},
@@ -8768,7 +8823,7 @@ StateIconList_string = {
 			{"Pôr da Lua"},
 			{"%s"},
 			{
-				"Estado de pôr da lua"
+				"A lua se pôs."
 			}
 		}
 	},
@@ -8779,47 +8834,128 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado de Colapso Estelar"
+				"Recebe todas as"
+			},
+			{
+				"Estrelas caindo"
+			},
+			{
+				"de Constelação."
 			}
 		}
 	},
 	[EFST_IDs.EFST_SKY_ENCHANT] = {
 		descript = {
 			{
-				"União Celestial"
+				"Elo Celestial"
 			},
 			{"%s"},
 			{
-				"Estado de maximização do fluxo celestial"
+				"Permite utilizar"
+			},
+			{
+				"poderes celestes."
 			}
 		}
 	},
 	[EFST_IDs.EFST_SHADOW_CLOCK] = {
 		descript = {
-			{
-				"Furtividade Sombria"
-			},
+			{"Sombra"},
 			{"%s"},
 			{
-				"Velocidade de movimento aumentada"
+				"Movimento acelerado."
 			},
 			{
-				"Dano físico recebido reduzido"
+				"Resistência a danos"
 			},
 			{
-				"Dano mágico recebido reduzido"
+				"físicos e mágicos."
 			}
 		}
 	},
 	[EFST_IDs.EFST_NIGHTMARE] = {
 		descript = {
+			{"Pesadelo"},
+			{"%s"},
 			{
-				"Pedra do Pesadelo"
+				"Recebe mais dano"
+			},
+			{
+				"de habilidades de"
+			},
+			{
+				"Shinkiro e Shiranui."
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_1] = {
+		descript = {
+			{
+				"Que Gostoso!"
 			},
 			{"%s"},
 			{
-				"Marca de Pedra do Pesadelo"
+				"Dano físico a"
+			},
+			{
+				"distância e"
+			},
+			{
+				"corpo a corpo +15%."
 			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_2] = {
+		descript = {
+			{"Saboroso!"},
+			{"%s"},
+			{
+				"Dano mágico de"
+			},
+			{
+				"todas as prop. +15%."
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_3] = {
+		descript = {
+			{
+				"Sabor Inigualável!"
+			},
+			{"%s"},
+			{
+				"Vel.Atq +5%."
+			},
+			{
+				"Conj. variável -5%."
+			},
+			{
+				"Pós-conjuração -5%."
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_4] = {
+		descript = {
+			{
+				"Comida Boa!"
+			},
+			{"%s"},
+			{
+				"Dano físico"
+			},
+			{
+				"e mágico +7%."
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_5] = {
+		descript = {
+			{
+				"Sensacional!"
+			},
+			{"%s"},
+			{"P.ATQ e"},
+			{"S.ATQM +7."}
 		}
 	},
 	[EFST_IDs.EFST_RUSH_QUAKE1] = {
@@ -8924,7 +9060,7 @@ StateIconList_string = {
 				"Pena Maciça"
 			},
 			{
-				"ATQ da arma +7%"
+				"Dano físico +7%"
 			},
 			{
 				"Dano Mágico +7%"
@@ -8934,29 +9070,36 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_C_BUFF_16] = {
 		descript = {
-			{
-				"Buff Saboroso"
-			},
+			{"Que sabor!"},
 			{"%s"},
 			{
-				"Aumenta o dano fisico e magico causado a inimigos do tipo Normal."
+				"Dano físico e mágico"
 			},
 			{
-				"Aumento de dano físico e mágico contra monstros chefes"
+				"contra monstros"
+			},
+			{
+				"Normais e Chefes"
+			},
+			{
+				"foi aumentado."
 			}
 		}
 	},
 	[EFST_IDs.EFST_C_BUFF_17] = {
 		descript = {
 			{
-				"Buff Fresco"
+				"Fresquinho!"
 			},
 			{"%s"},
 			{
-				"Aumenta o dano fisico e magico causado a monstros de todas as racas."
+				"Dano físico e mágico"
 			},
 			{
-				"(Exceto jogadores)"
+				"contra todas as raças"
+			},
+			{
+				"de monstros aumentado."
 			}
 		}
 	},
@@ -9005,13 +9148,13 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_BLOCK] = {
 		descript = {
-			{"Blocked"},
+			{"Punição"},
 			{"%s"},
 			{
-				"Sem EXP de monstros"
+				"Não recebe EXP."
 			},
 			{
-				"Nenhum item é obtido de monstros"
+				"Não derruba itens."
 			}
 		}
 	}

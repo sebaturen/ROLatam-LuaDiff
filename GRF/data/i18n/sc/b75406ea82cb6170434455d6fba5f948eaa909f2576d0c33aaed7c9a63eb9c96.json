@@ -1,0 +1,567 @@
+{
+    "QNBQDQ": {
+        "en-US": "Seoyeon",
+        "pt-BR": "Seoyeon",
+        "es-ES": "Seoyeon"
+    },
+    "QdBQDQ": {
+        "en-US": "[Seoyeon]\nNo... You are too weak.",
+        "pt-BR": "[Seoyeon]\nNão... você é fraco demais.",
+        "es-ES": "[Seoyeon]\nNo... Eres demasiado débil."
+    },
+    "QtBQDQ": {
+        "en-US": "[Seoyeon]\nI need someone a little stronger. At least, not you...",
+        "pt-BR": "[Seoyeon]\nPreciso de alguém um pouco mais forte. Pelo menos, que não seja você...",
+        "es-ES": "[Seoyeon]\nNecesito a alguien un poco más fuerte. Al menos, no eres tú..."
+    },
+    "Q9BQDQ": {
+        "en-US": "^4D4DFF - This quest can be undertaken from Level 200 or higher. - ^000000",
+        "pt-BR": "^4D4DFF - Esta missão só pode ser realizada a partir do nível 200. - ^000000",
+        "es-ES": "^4D4DFF - Esta misión puede realizarse a partir del nivel 200. - ^000000"
+    },
+    "RNBQDQ": {
+        "en-US": "^4D4DFF - This quest can be undertaken from Job Level 70 or higher. - ^000000",
+        "pt-BR": "^4D4DFF - Esta missão só pode ser realizada a partir do Nível de Classe 70. - ^000000",
+        "es-ES": "^4D4DFF - Esta misión puede realizarse a partir del nivel de clase 70. - ^000000"
+    },
+    "RdBQDQ": {
+        "en-US": "You cannot proceed with the conversation because you are carrying too many items.\nPlease organize your items and try again.",
+        "pt-BR": "Você possui itens demais para prosseguir com a conversa.\nOrganize seus itens e tente novamente.",
+        "es-ES": "No puedes continuar la conversación porque llevas demasiados objetos.\nOrganiza tus objetos e inténtalo de nuevo."
+    },
+    "RtBQDQ": {
+        "en-US": "[Seoyeon]\nDid you perhaps come to me to become an even stronger Ninja?",
+        "pt-BR": "[Seoyeon]\nPor acaso você veio até mim para se tornar um Ninja ainda mais forte?",
+        "es-ES": "[Seoyeon]\n¿Viniste a verme para convertirte en un Ninja aún más fuerte?"
+    },
+    "R9BQDQ": {
+        "en-US": "Yes.",
+        "pt-BR": "Sim.",
+        "es-ES": "Sí."
+    },
+    "SNBQDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
+    },
+    "SdBQDQ": {
+        "en-US": "[Seoyeon]\nAll right, then goodbye.",
+        "pt-BR": "[Seoyeon]\nEntendo. Então, até mais.",
+        "es-ES": "[Seoyeon]\nBien, entonces adiós."
+    },
+    "StBQDQ": {
+        "en-US": "[Seoyeon]\nChildren have limits when it comes to becoming stronger, you could say.",
+        "pt-BR": "[Seoyeon]\nDigamos que crianças têm limites para se tornarem mais fortes.",
+        "es-ES": "[Seoyeon]\nPodría decirse que los niños tienen límites a la hora de hacerse más fuertes."
+    },
+    "S9BQDQ": {
+        "en-US": "[Seoyeon]\nBut there is somewhere you may be able to receive help. Would you like me to tell you?",
+        "pt-BR": "[Seoyeon]\nMas há um lugar onde você pode receber ajuda. Gostaria que eu lhe contasse?",
+        "es-ES": "[Seoyeon]\nPero hay un lugar donde podrías recibir ayuda. ¿Quieres que te lo indique?"
+    },
+    "TNBQDQ": {
+        "en-US": "Please tell me.",
+        "pt-BR": "Conte-me.",
+        "es-ES": "Sí, por favor."
+    },
+    "TdBQDQ": {
+        "en-US": "I'm fine.",
+        "pt-BR": "Não precisa.",
+        "es-ES": "No hace falta."
+    },
+    "TtBQDQ": {
+        "en-US": "[Seoyeon]\nYou should receive help from someone named Emily. Then I will send you there.",
+        "pt-BR": "[Seoyeon]\nProcure uma pessoa chamada Emily para receber ajuda. Então vou te enviar até lá.",
+        "es-ES": "[Seoyeon]\nEntonces, te diré. Puedes pedir ayuda a una persona llamada Emily."
+    },
+    "T9BQDQ": {
+        "en-US": "[Seoyeon]\nYou possess great power, but you do not seem content to remain where you are. I am the same.",
+        "pt-BR": "[Seoyeon]\nVocê possui grande poder, mas parece não querer permanecer nesse ponto. Também sou assim.",
+        "es-ES": "[Seoyeon]\nPosees un gran poder, pero no parece que quieres más. A mí me ocurre lo mismo."
+    },
+    "UNBQDQ": {
+        "en-US": "[Seoyeon]\nI, too, am continuing endless training in order to become stronger.",
+        "pt-BR": "[Seoyeon]\nEu também estou fazendo treinamentos sem fim para me tornar ainda mais forte.",
+        "es-ES": "[Seoyeon]\nYo también sigo entrenando sin descanso para hacerme aún más fuerte."
+    },
+    "UdBQDQ": {
+        "en-US": "[Seoyeon]\nBut I have been feeling deeply frustrated, as the power I can obtain feels far too meager compared to the effort I pour in.",
+        "pt-BR": "[Seoyeon]\nMas estava muito frustrada, pois sentia que o poder que eu podia obter era pequeno demais em comparação ao esforço investido.",
+        "es-ES": "[Seoyeon]\nSentía una gran frustración, porque el poder que podía obtener era muy poco en comparación con mi esfuerzo."
+    },
+    "UtBQDQ": {
+        "en-US": "[Seoyeon]\nIsn't it the same for you? There is a way to become dramatically stronger than you are now. Would you like to hear about it?",
+        "pt-BR": "[Seoyeon]\nVocê também não sente o mesmo? Existe um modo de se tornar drasticamente mais forte do que está agora. Gostaria de ouvir?",
+        "es-ES": "[Seoyeon]\n¿No te pasa lo mismo? Hay una forma de volverte más fuerte de lo que eres ahora. ¿Quieres escucharla?"
+    },
+    "U9BQDQ": {
+        "en-US": "Listen.",
+        "pt-BR": "Ouvir.",
+        "es-ES": "Escuchar."
+    },
+    "VNBQDQ": {
+        "en-US": "Not interested.",
+        "pt-BR": "Não tenho interesse.",
+        "es-ES": "No me interesa."
+    },
+    "VdBQDQ": {
+        "en-US": "[Seoyeon]\nBefore I tell you the story, I would like to assess your ability.",
+        "pt-BR": "[Seoyeon]\nAntes de contar a história, gostaria de avaliar suas capacidades.",
+        "es-ES": "[Seoyeon]\nAntes de contarte la historia, quiero evaluar tu capacidad."
+    },
+    "VtBQDQ": {
+        "en-US": "[Seoyeon]\nI can feel that you are quite strong, but I would still like to confirm it myself.",
+        "pt-BR": "[Seoyeon]\nConsigo sentir que você é forte até certo ponto, mas ainda assim gostaria de confirmar pessoalmente.",
+        "es-ES": "[Seoyeon]\nPuedo sentir que eres bastante fuerte, pero aun así quiero comprobarlo directamente."
+    },
+    "V9BQDQ": {
+        "en-US": "[Seoyeon]\nShouldn't you at least be around my level?",
+        "pt-BR": "[Seoyeon]\nAcho que, no mínimo, você precisa estar no meu nível.",
+        "es-ES": "[Seoyeon]\nComo mínimo, deberías estar a mi nivel, ¿no crees?"
+    },
+    "WNBQDQ": {
+        "en-US": "How do I prove that?",
+        "pt-BR": "Como posso provar isso?",
+        "es-ES": "¿Cómo lo demuestro?"
+    },
+    "WdBQDQ": {
+        "en-US": "[Seoyeon]\n^4D4DFFAmatsu Underground Shrine^000000\n^4D4DFFAmatsu Underground Forest Battlefield^000000\n^4D4DFFAmatsu Tatami Maze^000000",
+        "pt-BR": "[Seoyeon]\n^4D4DFFTemplo Subterrâneo^000000\n^4D4DFFFloresta Subterrânea^000000\n^4D4DFFLabirinto de Tatames^000000",
+        "es-ES": "[Seoyeon]\n^4D4DFFSantuario Subterráneo de Amatsu^000000\n^4D4DFFCampo de Batalla del Bosque Subterráneo de Amatsu^000000\n^4D4DFFLaberinto de Tatami de Amatsu^000000"
+    },
+    "WtBQDQ": {
+        "en-US": "[Seoyeon]\nDefeat the monsters in these 3 places as quickly as possible and return.",
+        "pt-BR": "[Seoyeon]\nVocê deve eliminar os monstros desses 3 locais o mais rápido possível e voltar.",
+        "es-ES": "[Seoyeon]\nDebes eliminar lo más rápido posible a los monstruos de esos tres lugares y volver."
+    },
+    "W9BQDQ": {
+        "en-US": "[Seoyeon]\nPlease defeat 100 monsters in each location and come back.",
+        "pt-BR": "[Seoyeon]\nElimine 100 monstros em cada local e volte.",
+        "es-ES": "[Seoyeon]\nElimina 100 monstruos en cada lugar antes de volver."
+    },
+    "XNBQDQ": {
+        "en-US": "[Seoyeon]\nWith your current power, you should be able to defeat them easily. However, I will be watching how quickly you deal with them, so do not let your guard down and hurry.",
+        "pt-BR": "[Seoyeon]\nCom seu poder atual, você deve conseguir derrotá-los facilmente. Mas vou observar o quão rápido você consegue terminar, então não abaixe a guarda e apresse-se.",
+        "es-ES": "[Seoyeon]\nCon tu poder actual, podrás eliminarlos fácilmente. Pero evaluaré la rapidez con la que lo haces, así que no bajes la guardia y date prisa."
+    },
+    "XdBQDQ": {
+        "en-US": "[Seoyeon]\nNow, go on. I do not plan to stay here long, so I hope you return before it is too late.",
+        "pt-BR": "[Seoyeon]\nBem, então vá e volte. Não pretendo ficar aqui por muito tempo, então espero que volte sem se atrasar.",
+        "es-ES": "[Seoyeon]\nBien, entonces ve. No tengo previsto quedarme aquí mucho tiempo, espero que vuelvas rápido."
+    },
+    "XtBQDQ": {
+        "en-US": "[Seoyeon]\nIt seems you do not know that there are many in the world stronger than you. How unfortunate.",
+        "pt-BR": "[Seoyeon]\nParece que você não sabe que há muitos no mundo que são mais fortes do que você. Que pena.",
+        "es-ES": "[Seoyeon]\nParece que no sabes que en el mundo hay muchos más fuertes que tú. Es una lástima."
+    },
+    "X9BQDQ": {
+        "en-US": "[Seoyeon]\nPlease defeat 100 monsters in each of these 3 places and return.",
+        "pt-BR": "[Seoyeon]\nVolte depois de eliminar 100 monstros em cada um desses 3 locais.",
+        "es-ES": "[Seoyeon]\nVuelve después de eliminar 100 monstruos en cada uno de esos tres lugares."
+    },
+    "YNBQDQ": {
+        "en-US": "[Seoyeon]\nI see... You are far stronger than I thought. I did not expect you to return this quickly.",
+        "pt-BR": "[Seoyeon]\nEntendo... Você é muito mais forte do que eu imaginava. Não pensei que voltaria tão rápido.",
+        "es-ES": "[Seoyeon]\nYa veo... Eres mucho más fuerte de lo que pensaba. No esperaba que volvieras tan rápido."
+    },
+    "YdBQDQ": {
+        "en-US": "[Seoyeon]\nPerhaps you might be able to do it.",
+        "pt-BR": "[Seoyeon]\nTalvez você consiga.",
+        "es-ES": "[Seoyeon]\nQuizá tú sí puedas lograrlo."
+    },
+    "YtBQDQ": {
+        "en-US": "[Seoyeon]\nVery well. Then let us discuss a way for you to become even stronger.",
+        "pt-BR": "[Seoyeon]\nMuito bem. Então falarei como você se tornar ainda mais forte.",
+        "es-ES": "[Seoyeon]\nBien, entonces hablemos de cómo puedes hacerte aún más fuerte."
+    },
+    "Y9BQDQ": {
+        "en-US": "[Seoyeon]\nAbout 200 years ago, there was an ancient Ninja named ^4D4DFFYeongwi^000000.",
+        "pt-BR": "[Seoyeon]\nHá cerca de 200 anos, existia um antigo Ninja chamado ^4D4DFFYeongwi^000000.",
+        "es-ES": "[Seoyeon]\nHace unos 200 años, existió un antiguo Ninja llamado ^4D4DFFYeongwi^000000."
+    },
+    "ZNBQDQ": {
+        "en-US": "[Seoyeon]\nAt the time, his power was so exceptional that no other Ninja could compare to him.",
+        "pt-BR": "[Seoyeon]\nNaquela época, nenhum Ninja conseguia se igualar a ele. Seu poder era incomparável.",
+        "es-ES": "[Seoyeon]\nEn aquella época, su poder era tan extraordinario que ningún Ninja podía compararse con él."
+    },
+    "ZdBQDQ": {
+        "en-US": "[Seoyeon]\nBut he was not satisfied with that, and he was the kind of person who would use any means necessary to become stronger.",
+        "pt-BR": "[Seoyeon]\nMas ele não se satisfez com isso e era alguém que fazia qualquer coisa para se tornar ainda mais forte.",
+        "es-ES": "[Seoyeon]\nSin embargo, no se conformaba con eso y era alguien dispuesto a cualquier cosa con tal de volverse más fuerte."
+    },
+    "ZtBQDQ": {
+        "en-US": "[Seoyeon]\nEventually, he ended up touching something he should never have touched.",
+        "pt-BR": "[Seoyeon]\nEntão, acabou tocando em algo que jamais deveria ter tocado.",
+        "es-ES": "[Seoyeon]\nY al final, acabó tocando aquello que no debía tocar."
+    },
+    "Z9BQDQ": {
+        "en-US": "What did he touch?",
+        "pt-BR": "No que ele tocou?",
+        "es-ES": "¿Qué fue lo que tocó?"
+    },
+    "aNBQDQ": {
+        "en-US": "[Seoyeon]\nAmong the arts a Ninja can learn, there are basic arts meant to be widely taught, but there are also forbidden arts that must not be spread.",
+        "pt-BR": "[Seoyeon]\nEntre as técnicas que um Ninja pode aprender, há técnicas básicas destinadas a serem difundidas, mas também técnicas proibidas que jamais devem ser disseminadas.",
+        "es-ES": "[Seoyeon]\nEntre las artes que un Ninja puede aprender, existen técnicas básicas destinadas a difundirse ampliamente, pero también técnicas prohibidas que no deben propagarse."
+    },
+    "adBQDQ": {
+        "en-US": "[Seoyeon]\nThe reason an art becomes forbidden is because of the risks that come with learning it.",
+        "pt-BR": "[Seoyeon]\nPode-se dizer que uma técnica se torna proibida por causa dos fatores de risco envolvidos em aprendê-las.",
+        "es-ES": "[Seoyeon]\nLa razón por la que una técnica se prohíbe son los riesgos que conlleva aprenderla."
+    },
+    "atBQDQ": {
+        "en-US": "[Seoyeon]\nAmong those forbidden arts, there was one that required risking one's life to learn.",
+        "pt-BR": "[Seoyeon]\nEntre essas técnicas proibidas, havia uma que exigia até mesmo arriscar a própria vida.",
+        "es-ES": "[Seoyeon]\nEntre esas técnicas prohibidas, había una que exigía arriesgar incluso la vida para aprenderla."
+    },
+    "a9BQDQ": {
+        "en-US": "[Seoyeon]\nIt is said that if one overcomes that and learns the art, they can become a more powerful Ninja than anyone else.",
+        "pt-BR": "[Seoyeon]\nDizem que, se alguém superasse isso e dominasse essa técnica, poderia se tornar o Ninja mais poderoso de todos.",
+        "es-ES": "[Seoyeon]\nSe dice que, si alguien conseguía superar la prueba y aprender esa técnica, podía convertirse en el Ninja más poderoso de todos."
+    },
+    "bNBQDQ": {
+        "en-US": "[Seoyeon]\nMany Ninjas tried to learn that art out of a desire to become stronger, but no news was ever heard of any Ninja succeeding.",
+        "pt-BR": "[Seoyeon]\nMuitos Ninjas, movidos pelo desejo de se tornarem mais fortes, tentaram aprender essa técnica, mas dizem que jamais se ouviu falar de alguém que tenha conseguido.",
+        "es-ES": "[Seoyeon]\nMuchos ninjas intentaron aprenderla por su deseo de hacerse más fuertes, pero nunca se oyó noticia alguna de un Ninja que lo hubiera logrado."
+    },
+    "bdBQDQ": {
+        "en-US": "[Seoyeon]\nAs the number of victims continued to grow, the secret manual containing that art was sealed away under strict guard.",
+        "pt-BR": "[Seoyeon]\nÀ medida que as vítimas aumentavam, o manual secreto que continha essa técnica foi selado sob rigorosa vigilância.",
+        "es-ES": "[Seoyeon]\nCuando las víctimas empezaron a aumentar, el manual secreto que contenía esa técnica fue sellado bajo una estricta vigilancia."
+    },
+    "btBQDQ": {
+        "en-US": "[Seoyeon]\nOne late night, someone brutally murdered the guards protecting the secret manual and stole it. Yes, that's right. That person was ^4D4DFFYeongwi^000000.",
+        "pt-BR": "[Seoyeon]\nCerta noite, alguém massacrou brutalmente os guardas que protegiam o manual secreto e o roubou. Sim, isso mesmo. Esse alguém era ^4D4DFFYeongwi^000000.",
+        "es-ES": "[Seoyeon]\nUna noche, a altas horas, alguien asesinó brutalmente a los guardias que protegían el manual secreto y se lo llevó. Sí, así es. Esa persona fue ^4D4DFFYeongwi^000000."
+    },
+    "b9BQDQ": {
+        "en-US": "[Seoyeon]\nAfter that day, all news of Yeongwi disappeared. Whether he succeeded in learning the art or failed... Whether he survived or died... No one knows.",
+        "pt-BR": "[Seoyeon]\nDepois desse dia, não houve mais notícias de Yeongwi. Se ele conseguiu aprender a técnica ou falhou... se sobreviveu ou morreu... Ninguém sabe.",
+        "es-ES": "[Seoyeon]\nDesde aquel día, no se volvió a saber nada de Yeongwi. Si logró aprender la técnica o fracasó... si sobrevivió o murió... Nadie lo sabe."
+    },
+    "cNBQDQ": {
+        "en-US": "[Seoyeon]\nSince no one has seen him since... It is believed that he may have failed to learn the art and lost his life.",
+        "pt-BR": "[Seoyeon]\nComo ninguém jamais o viu novamente... Acredita-se que ele tenha falhado em aprender a técnica e perdido a vida.",
+        "es-ES": "[Seoyeon]\nDicen que nadie volvió a verlo... Así que se cree que quizá fracasó al aprender la técnica y perdió la vida."
+    },
+    "cdBQDQ": {
+        "en-US": "[Seoyeon]\nIf there is any trace left behind, it would be a place believed to be where he trained.",
+        "pt-BR": "[Seoyeon]\nO único vestígio restante é um local onde se presume que ele tenha treinado.",
+        "es-ES": "[Seoyeon]\nSi queda algún rastro, es un lugar donde se cree que realizó su entrenamiento."
+    },
+    "ctBQDQ": {
+        "en-US": "[Seoyeon]\nWill you investigate that trace? There may be a clue to the art there.",
+        "pt-BR": "[Seoyeon]\nGostaria de investigar esse vestígio? Talvez haja pistas sobre a técnica nesse lugar.",
+        "es-ES": "[Seoyeon]\n¿Quieres investigar ese rastro? Puede que allí haya una pista sobre la técnica."
+    },
+    "c9BQDQ": {
+        "en-US": "Where can I find that trace?",
+        "pt-BR": "Onde posso encontrar esse vestígio?",
+        "es-ES": "¿Adónde debo ir para encontrar ese rastro?"
+    },
+    "dNBQDQ": {
+        "en-US": "[Seoyeon]\nIt is believed that somewhere in ^4D4DFFAmatsu Underground Forest Battlefield^000000, there is a trace of where Yeongwi trained in the art.",
+        "pt-BR": "[Seoyeon]\nAcredita-se que em algum lugar da ^4D4DFFFloresta Subterrânea^000000, há vestígios dos treinamentos de Yeongwi.",
+        "es-ES": "[Seoyeon]\nSe cree que en algún lugar de ^4D4DFFCampo de Batalla del Bosque Subterráneo de Amatsu^000000 hay rastros del entrenamiento de Yeongwi."
+    },
+    "ddBQDQ": {
+        "en-US": "[Seoyeon]\nWill you search for it yourself? If you examine that trace closely, perhaps you will be able to tell what kind of art he tried to master.",
+        "pt-BR": "[Seoyeon]\nNão gostaria de procurá-lo pessoalmente? Se examinar bem esse vestígio, talvez consiga descobrir que tipo de técnica ele tentou aprender.",
+        "es-ES": "[Seoyeon]\n¿No quieres buscarlos por tu cuenta? Si observas bien esos rastros, quizá tú puedas averiguar qué técnica intentaba dominar."
+    },
+    "dtBQDQ": {
+        "en-US": "All right, I will go.",
+        "pt-BR": "Certo, vou até lá.",
+        "es-ES": "Bien, iré."
+    },
+    "d9BQDQ": {
+        "en-US": "[Seoyeon]\nYes. I believe you may be able to accomplish what I could not.",
+        "pt-BR": "[Seoyeon]\nSim, acredito que você vai conseguir aquilo que eu não pude.",
+        "es-ES": "[Seoyeon]\nAsí es. Creo que tú podrás lograr lo que yo no pude."
+    },
+    "eNBQDQ": {
+        "en-US": "[Seoyeon]\nMay fortune be with you.",
+        "pt-BR": "[Seoyeon]\nQue a sorte esteja com você.",
+        "es-ES": "[Seoyeon]\nQue la suerte te acompañe."
+    },
+    "edBQDQ": {
+        "en-US": "[Seoyeon]\nHmm, you are far from the person I am looking for.",
+        "pt-BR": "[Seoyeon]\nHmm, você está longe de ser a pessoa que procuro.",
+        "es-ES": "[Seoyeon]\nMmm, estás lejos de ser la persona que busco."
+    },
+    "etBQDQ": {
+        "en-US": "[Seoyeon]\nI know you are strong enough, but you are not the type I seek.",
+        "pt-BR": "[Seoyeon]\nSei que você é uma pessoa bastante forte, mas não é do tipo que estou procurando.",
+        "es-ES": "[Seoyeon]\nSé que eres alguien bastante fuerte, pero no eres el tipo de persona que estoy buscando."
+    },
+    "e9BQDQ": {
+        "en-US": "[Seoyeon]\nI have no business with you, so please leave.",
+        "pt-BR": "[Seoyeon]\nNão tenho nada a tratar com você, então por favor se retire.",
+        "es-ES": "[Seoyeon]\nNo tengo nada que tratar contigo, así que vuelve de donde viniste."
+    },
+    "fNBQDQ": {
+        "en-US": "Yeongwi",
+        "pt-BR": "Yeongwi",
+        "es-ES": "Yeongwi"
+    },
+    "fdBQDQ": {
+        "en-US": "Inner World",
+        "pt-BR": "Mundo Interior",
+        "es-ES": "Mundo interior"
+    },
+    "ftBQDQ": {
+        "en-US": "You must be in a party of only ^0000FF1 person^000000 to proceed with the investigation.",
+        "pt-BR": "É necessário formar um Grupo composto por apenas ^0000FF1 pessoa^000000 para prosseguir com a investigação.",
+        "es-ES": "Para continuar con la investigación, debes formar un grupo de solo ^0000FF1 persona^000000."
+    },
+    "f9BQDQ": {
+        "en-US": "Request ^0000FF{0}^000000",
+        "pt-BR": "Solicitar ^0000FF{0}^000000",
+        "es-ES": "Solicitar ^0000FF{0}^000000"
+    },
+    "gNBQDQ": {
+        "en-US": "^0000FFYou cannot proceed if you are not the party leader.^000000",
+        "pt-BR": "^0000FFNão é possível prosseguir se você não for o líder do Grupo.^000000",
+        "es-ES": "^0000FFNo puedes continuar si no eres el líder del grupo.^000000"
+    },
+    "gdBQDQ": {
+        "en-US": "^4D4DFF - Available from Job Level 70 or higher. - ^000000",
+        "pt-BR": "^4D4DFF - Pode ser realizado a partir do Nível de Classe 70. - ^000000",
+        "es-ES": "^4D4DFF - Disponible a partir del Nivel de Clase 70. - ^000000"
+    },
+    "gtBQDQ": {
+        "en-US": "[Yeongwi]\nHaha! Impressive that you are still holding on!",
+        "pt-BR": "[Yeongwi]\nHaha! Você ainda está resistindo? Impressionante!",
+        "es-ES": "[Yeongwi]\n¡Ja, ja! ¿Aún resistes? ¡Impresionante!"
+    },
+    "g9BQDQ": {
+        "en-US": "[Yeongwi]\nThen can you endure this as well?",
+        "pt-BR": "[Yeongwi]\nEntão será que também consegue aguentar isso?",
+        "es-ES": "[Yeongwi]\nEntonces, ¿podrás soportar esto también?"
+    },
+    "hNBQDQ": {
+        "en-US": "To the Inner World with Yeongwi.",
+        "pt-BR": "Para o Mundo Interior com Yeongwi.",
+        "es-ES": "Al Mundo Interior con Yeongwi."
+    },
+    "hdBQDQ": {
+        "en-US": "Accept.",
+        "pt-BR": "Aceitar.",
+        "es-ES": "Aceptar."
+    },
+    "htBQDQ": {
+        "en-US": "Run away.",
+        "pt-BR": "Fugir.",
+        "es-ES": "Huir."
+    },
+    "h9BQDQ": {
+        "en-US": "^FF0000An unknown error has occurred.^000000",
+        "pt-BR": "^FF0000Ocorreu um erro desconhecido.^000000",
+        "es-ES": "^FF0000Se ha producido un error desconocido.^000000"
+    },
+    "iNBQDQ": {
+        "en-US": "^0000FFThe dungeon was not created, or you appear to be trying to enter a different dungeon from the party leader.^000000",
+        "pt-BR": "^0000FFA instância não foi criada, ou você está tentando entrar em uma instância diferente daquela do líder do Grupo.^000000",
+        "es-ES": "^0000FFParece que la mazmorra no se ha creado o que intentas entrar en una mazmorra distinta a la del líder del grupo.^000000"
+    },
+    "idBQDQ": {
+        "en-US": "^FF0000You cannot enter unless you are in a party.^000000",
+        "pt-BR": "^FF0000Não é possível entrar se você não estiver em um Grupo.^000000",
+        "es-ES": "^FF0000No puedes entrar si no estás en un grupo.^000000"
+    },
+    "itBQDQ": {
+        "en-US": "A member of the {0} party accepts {1}.",
+        "pt-BR": "Um membro do Grupo {0} aceita entrar em {1}.",
+        "es-ES": "Un miembro del grupo de {0} acepta entrar en {1}."
+    },
+    "i9BQDQ": {
+        "en-US": "^0000FFYou cannot create the dungeon if you are not the party leader.^000000",
+        "pt-BR": "^0000FFNão é possível criar a instância se você não for o líder do Grupo.^000000",
+        "es-ES": "^0000FFSi no eres el líder del grupo, no puedes crear la mazmorra.^000000"
+    },
+    "jNBQDQ": {
+        "en-US": "^0000FF{0} ^000000- Reservation Failed",
+        "pt-BR": "^0000FF{0} ^000000- Falha na reserva",
+        "es-ES": "^0000FF{0} ^000000- Error de reserva"
+    },
+    "jdBQDQ": {
+        "en-US": "[Yeongwi]\nHahahaha!",
+        "pt-BR": "[Yeongwi]\nHahahaha!",
+        "es-ES": "[Yeongwi]\n¡Ja, ja, ja!"
+    },
+    "jtBQDQ": {
+        "en-US": "Trace of Yeongwi",
+        "pt-BR": "Vestígio de Yeongwi",
+        "es-ES": "Rastro de Yeongwi"
+    },
+    "j9BQDQ": {
+        "en-US": "Seoyeon#suyoen2",
+        "pt-BR": "Seoyeon#suyoen2",
+        "es-ES": "Seoyeon#suyoen2"
+    },
+    "kNBQDQ": {
+        "en-US": "Yeongwi#yoen1",
+        "pt-BR": "Yeongwi#yoen1",
+        "es-ES": "Yeongwi#yoen1"
+    },
+    "kdBQDQ": {
+        "en-US": "^FF0000Please lighten your load a little before investigating.^000000",
+        "pt-BR": "^FF0000Antes da investigação, reduza um pouco a carga que está carregando.^000000",
+        "es-ES": "^FF0000Antes de investigar, aligera un poco tu equipaje.^000000"
+    },
+    "ktBQDQ": {
+        "en-US": "From here, you must be in a party of only ^0000FF1 person^000000 to proceed with the investigation.",
+        "pt-BR": "A partir daqui, é necessário formar um Grupo composto por apenas ^0000FF1 pessoa^000000 para prosseguir com a investigação.",
+        "es-ES": "A partir de aquí, debes formar un grupo de solo ^0000FF1 persona^000000 para continuar con la investigación."
+    },
+    "k9BQDQ": {
+        "en-US": "- A large mark remains on the ground. -",
+        "pt-BR": "- Há uma grande marca deixada no chão. -",
+        "es-ES": "- Hay una gran marca en el suelo. -"
+    },
+    "lNBQDQ": {
+        "en-US": "- It looks like an old trace, but it seems to hold a powerful energy. -",
+        "pt-BR": "- Parece ser um vestígio antigo, mas dele emana uma energia poderosa. -",
+        "es-ES": "- Parece un rastro antiguo, pero contiene una energía poderosa. -"
+    },
+    "ldBQDQ": {
+        "en-US": "- You sense a suspicious presence behind you!! -",
+        "pt-BR": "- Você sente uma presença suspeita atrás de si!! -",
+        "es-ES": "- ¡¡Se percibe una presencia sospechosa detrás!! -"
+    },
+    "ltBQDQ": {
+        "en-US": "[Seoyeon]\nAs I said, you did indeed come here.",
+        "pt-BR": "[Seoyeon]\nComo eu disse, você veio mesmo até este lugar.",
+        "es-ES": "[Seoyeon]\nTal como dije, viniste hasta aquí."
+    },
+    "l9BQDQ": {
+        "en-US": "[Seoyeon]\nI have seen your greed to become even stronger, despite already being strong enough.",
+        "pt-BR": "[Seoyeon]\nVi bem sua ambição de se tornar ainda mais forte, embora já seja forte o suficiente.",
+        "es-ES": "[Seoyeon]\nVi bien tu ambición por más poder, aunque ya eres suficientemente fuerte."
+    },
+    "mNBQDQ": {
+        "en-US": "[Seoyeon]\nThis is the place where I trained 200 years ago... The place where traces remain of the forbidden secret art I practiced.",
+        "pt-BR": "[Seoyeon]\nEste é o lugar onde treinei há 200 anos... o lugar onde permanecem os vestígios da prática de uma técnica secreta proibida.",
+        "es-ES": "[Seoyeon]\nEste es el lugar donde entrené hace 200 años... el lugar donde aún quedan rastros del dominio de la técnica secreta prohibida."
+    },
+    "mdBQDQ": {
+        "en-US": "[Seoyeon]\nAn art that requires even staking your life to obtain... I risked my life and succeeded in learning it.",
+        "pt-BR": "[Seoyeon]\nUma técnica pela qual era preciso arriscar até a própria vida para aprender... Eu arrisquei minha vida e consegui aprendê-la.",
+        "es-ES": "[Seoyeon]\nUna técnica por la que había que arriesgar incluso la vida para aprenderla... Yo arriesgué la mía y lo logré."
+    },
+    "mtBQDQ": {
+        "en-US": "[Seoyeon]\nBut that information was wrong.",
+        "pt-BR": "[Seoyeon]\nMas aquilo era uma informação falsa.",
+        "es-ES": "[Seoyeon]\nPero esa información era falsa."
+    },
+    "m9BQDQ": {
+        "en-US": "What are you talking about? You are the one who learned the art?",
+        "pt-BR": "Do que você está falando? Quem aprendeu a técnica foi você?",
+        "es-ES": "¿De qué estás hablando? ¿Tú eres quien aprendió la técnica?"
+    },
+    "nNBQDQ": {
+        "en-US": "[Yeongwi]\nI am Yeongwi, the one who lost his life 200 years ago because of that damned secret manual.",
+        "pt-BR": "[Yeongwi]\nEu sou Yeongwi, aquele que perdeu a vida há 200 anos por causa daquele maldito manual secreto.",
+        "es-ES": "[Yeongwi]\nYo soy Yeongwi, quien perdió la vida hace 200 años por culpa de ese maldito manual secreto."
+    },
+    "ndBQDQ": {
+        "en-US": "[Yeongwi]\nThere was no way to overcome it. Anyone who learned that art was doomed to die.",
+        "pt-BR": "[Yeongwi]\nNão havia método algum para superar aquilo. Quem aprendesse aquela técnica inevitavelmente acabaria morrendo.",
+        "es-ES": "[Yeongwi]\nNo existía forma alguna de lograrlo. Quien aprendiera esa técnica estaba condenado a morir sin excepción."
+    },
+    "ntBQDQ": {
+        "en-US": "[Yeongwi]\nThat secret manual was created to kill those who thirsted for greater power!!!",
+        "pt-BR": "[Yeongwi]\nAquele manual secreto foi criado para matar aqueles que desejavam um poder ainda maior!!!",
+        "es-ES": "[Yeongwi]\n¡¡¡Ese manual secreto fue creado para matar a quienes ansiaban un poder aún mayor!!!"
+    },
+    "n9BQDQ": {
+        "en-US": "[Yeongwi]\nBecause of that resentment, I have remained here as a vengeful spirit to this day. And I have been searching for a skilled Ninja like you.",
+        "pt-BR": "[Yeongwi]\nPor causa desse ressentimento, permaneci até hoje como um espírito vingativo neste lugar. E continuei procurando um Ninja habilidoso como você.",
+        "es-ES": "[Yeongwi]\nPor ese resentimiento, permanecí aquí como un espíritu vengativo. Y estuve buscando a un Ninja con tus habilidades."
+    },
+    "oNBQDQ": {
+        "en-US": "For what reason?",
+        "pt-BR": "Por quê?",
+        "es-ES": "¿Por qué?"
+    },
+    "odBQDQ": {
+        "en-US": "[Yeongwi]\nSo I can take that body for myself!!!",
+        "pt-BR": "[Yeongwi]\nPara tomar esse corpo para mim!!!",
+        "es-ES": "[Yeongwi]\n¡¡¡Para tener de nuevo un cuerpo!!!"
+    },
+    "otBQDQ": {
+        "en-US": "- You feel your chest grow hot along with a sudden pain! -",
+        "pt-BR": "- Você sente um calor no peito, junto a uma dor repentina! -",
+        "es-ES": "- ¡Sientes un dolor repentino y un calor abrasador en el pecho! -"
+    },
+    "o9BQDQ": {
+        "en-US": "- The pain is beyond imagination. At this rate, it will be difficult to endure. -",
+        "pt-BR": "- É uma dor além da imaginação. Desse jeito, será difícil resistir. -",
+        "es-ES": "- Es un dolor inimaginable. Si sigue así, será difícil resistir. -"
+    },
+    "pNBQDQ": {
+        "en-US": "- Your eyes are about to close. -",
+        "pt-BR": "- Seus olhos estão prestes a se fechar. -",
+        "es-ES": "- Tus ojos están a punto de cerrarse. -"
+    },
+    "pdBQDQ": {
+        "en-US": "- You cannot lose consciousness like this. Get a grip and try to grab Yeongwi! -",
+        "pt-BR": "- Não pode perder a consciência assim. Recupere-se e tente agarrar Yeongwi! -",
+        "es-ES": "- No puedes perder la conciencia así. ¡Reacciona e intenta atrapar a Yeongwi! -"
+    },
+    "ptBQDQ": {
+        "en-US": "- It is unclear whether this is a trace of Yeongwi's training. -",
+        "pt-BR": "- Não se sabe ao certo se este é o vestígio do treinamento de Yeongwi. -",
+        "es-ES": "- No está claro si este es el rastro del entrenamiento de Yeongwi. -"
+    },
+    "p9BQDQ": {
+        "en-US": "Seoyeon#suyoen3",
+        "pt-BR": "Seoyeon#suyoen3",
+        "es-ES": "Seoyeon#suyoen3"
+    },
+    "qNBQDQ": {
+        "en-US": "Yeongwi#yoen2",
+        "pt-BR": "Yeongwi#yoen2",
+        "es-ES": "Yeongwi#yoen2"
+    },
+    "qdBQDQ": {
+        "en-US": "Seoyeon#suyoen4",
+        "pt-BR": "Seoyeon#suyoen4",
+        "es-ES": "Seoyeon#suyoen4"
+    },
+    "qtBQDQ": {
+        "en-US": "Yeongwi#yoen3",
+        "pt-BR": "Yeongwi#yoen3",
+        "es-ES": "Yeongwi#yoen3"
+    },
+    "q9BQDQ": {
+        "en-US": "Seoyeon#suyoen5",
+        "pt-BR": "Seoyeon#suyoen5",
+        "es-ES": "Seoyeon#suyoen5"
+    },
+    "rNBQDQ": {
+        "en-US": "Yeongwi#yoen4",
+        "pt-BR": "Yeongwi#yoen4",
+        "es-ES": "Yeongwi#yoen4"
+    },
+    "rdBQDQ": {
+        "en-US": "Seoyeon#suyoen6",
+        "pt-BR": "Seoyeon#suyoen6",
+        "es-ES": "Seoyeon#suyoen6"
+    },
+    "rtBQDQ": {
+        "en-US": "Yeongwi#yoen5",
+        "pt-BR": "Yeongwi#yoen5",
+        "es-ES": "Yeongwi#yoen5"
+    },
+    "r9BQDQ": {
+        "en-US": "Request ^0000FF{0}^000000",
+        "pt-BR": "Solicitar ^0000FF{0}^000000",
+        "es-ES": "Solicitar ^0000FF{0}^000000"
+    },
+    "sNBQDQ": {
+        "en-US": "^0000FF{0} ^000000- Reservation Failed",
+        "pt-BR": "^0000FF{0} ^000000- Falha na reserva",
+        "es-ES": "^0000FF{0} ^000000- Error de reserva"
+    }
+}

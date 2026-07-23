@@ -30,9 +30,9 @@
         "es-ES": "[Lukie]\nAy... la verdad es que creo que ya está... pero sigue sin abrirse. \n¿Se habrá atascado?"
     },
     "hg7YBw": {
-        "en-US": "[Goni]\n……",
-        "pt-BR": "[Gonie]\n……",
-        "es-ES": "[Goni]\n……"
+        "en-US": "[Goni]\n......",
+        "pt-BR": "[Gonie]\n......",
+        "es-ES": "[Goni]\n......"
     },
     "hw7YBw": {
         "en-US": "[Rookie]\nOh, you’ll do it for me? Thanks, Goni.",
@@ -40,19 +40,19 @@
         "es-ES": "[Lukie]\nAh, ¿vas a hacerlo tú? \nGracias, Goni."
     },
     "iA7YBw": {
-        "en-US": "[Goni]\n……\n…………",
-        "pt-BR": "[Gonie]\n……\n…………",
-        "es-ES": "[Goni]\n……\n…………"
+        "en-US": "[Goni]\n......\n............",
+        "pt-BR": "[Gonie]\n......\n............",
+        "es-ES": "[Goni]\n......\n............"
     },
     "iQ7YBw": {
-        "en-US": "[Goni]\n……\n…………\n………………",
-        "pt-BR": "[Gonie]\n……\n…………\n………………",
-        "es-ES": "[Goni]\n……\n…………\n………………"
+        "en-US": "[Goni]\n......\n............\n..................",
+        "pt-BR": "[Gonie]\n......\n............\n..................",
+        "es-ES": "[Goni]\n......\n............\n.................."
     },
     "ig7YBw": {
-        "en-US": "[Rookie]\nUh, Goni. Is that true? Hoh, I see. Interesting……",
-        "pt-BR": "[Lukie]\nAh, Gonie. Isso é verdade? Oh, entendo. Interessante……",
-        "es-ES": "[Lukie]\nEh, Goni. \n¿De verdad? \nOh, ya veo. \nQué interesante……"
+        "en-US": "[Rookie]\nUh, Goni. Is that true? Hoh, I see. Interesting......",
+        "pt-BR": "[Lukie]\nAh, Gonie. Isso é verdade? Oh, entendo. Interessante......",
+        "es-ES": "[Lukie]\nEh, Goni. \n¿De verdad? \nOh, ya veo. \nQué interesante......"
     },
     "iw7YBw": {
         "en-US": "[Eliumina]\nWhat’s with that look? I only told the truth! That’s the entrance!\nWhy would I lie in a situation like this? If I lied, wouldn’t that make me an idiot?!",
@@ -70,9 +70,9 @@
         "es-ES": "[Lukie]\nTenía que comprobar si se habían puesto de acuerdo con los de dentro, pero ya no hace falta.\nEres mejor de lo que pensaba. \nY como dices, tampoco eres una idiota."
     },
     "jg7YBw": {
-        "en-US": "Eliumina : …Don’t make fun of me! Aah!",
-        "pt-BR": "Elyumina : …Tá me zoando?",
-        "es-ES": "Eliumina : …¡No te burles de mí! ¡Aaah!"
+        "en-US": "Eliumina : ...Don’t make fun of me! Aah!",
+        "pt-BR": "Elyumina : ...Tá me zoando?",
+        "es-ES": "Eliumina : ...¡No te burles de mí! ¡Aaah!"
     },
     "jw7YBw": {
         "en-US": "[Rookie]\nAdventurer, Rebellion will surround this place and investigate the area for a while.\nNow that we know where that place is, we can’t back down.",
@@ -130,9 +130,9 @@
         "es-ES": "^4D4DFF Hay una misión disponible a partir de Lv 130.^000000"
     },
     "mg7YBw": {
-        "en-US": "[Rookie]\nYou came at just the right time.\nLast night, we tore off the entrance here. Eliumina says some kind of backlash device seems to have broken inside, but….",
+        "en-US": "[Rookie]\nYou came at just the right time.\nLast night, we tore off the entrance here. Eliumina says some kind of backlash device seems to have broken inside, but....",
         "pt-BR": "[Lukie]\nChegou na hora certa!\nOntem à noite, conseguimos abrir o canal! Segundo Elyumina, parece que algum tipo de dispositivo quebrou lá dentro...",
-        "es-ES": "[Lukie]\nLlegó justo a tiempo.\nAnoche arrancamos la entrada de aquí. \nSegún Eliumina, parece que algún dispositivo de rechazo o algo así se rompió por dentro …."
+        "es-ES": "[Lukie]\nLlegó justo a tiempo.\nAnoche arrancamos la entrada de aquí. \nSegún Eliumina, parece que algún dispositivo de rechazo o algo así se rompió por dentro ...."
     },
     "mw7YBw": {
         "en-US": "[Rookie]\nIt seems Illusion and the Heart Hunters had one of the devices inside meant to block off the entrance.\nIn the end, we tore it off and can enter now, so that is a relief.",
@@ -155,9 +155,9 @@
         "es-ES": "[Lukie]\nComo no podemos dejar la puerta siempre abierta por culpa de los de dentro, he estado esperando así hasta que usted viniera."
     },
     "nw7YBw": {
-        "en-US": "[Rookie]\n …. Hmm, somehow I always feel like I am playing the gatekeeper?\nAnd one just for you, Adventurer? It must be my imagination. Haha.",
+        "en-US": "[Rookie]\n .... Hmm, somehow I always feel like I am playing the gatekeeper?\nAnd one just for you, Adventurer? It must be my imagination. Haha.",
         "pt-BR": "[Lukie]\n.... Heh, de algum jeito, acabo sempre fazendo o papel de porteiro.\nE SEU porteiro, ainda por cima! Deve ser só impressão, né? Haha.",
-        "es-ES": "[Lukie]\n….\nMmm, por alguna razón siento que siempre hago de portero.\n¿Y encima exclusivo para usted, trotamundos? \nSerá cosa mía, ¿no? \nJaja."
+        "es-ES": "[Lukie]\n....\nMmm, por alguna razón siento que siempre hago de portero.\n¿Y encima exclusivo para usted, trotamundos? \nSerá cosa mía, ¿no? \nJaja."
     },
     "oA7YBw": {
         "en-US": "[Rookie]\nIf you wish, Adventurer, I will stand by fully prepared so that you can come and go at any time, so please tell me whenever you like.",
@@ -185,9 +185,9 @@
         "es-ES": "[Lukie]\nAunque el grupo de avanzada haya limpiado el interior, de vez en cuando algo intentaba salir por aquí y nos dio problemas, ¿sabe?\nPrimero le indicaré la zona de entrada."
     },
     "pQ7YBw": {
-        "en-US": "[Rookie]\nThis hole you will enter through, Adventurer, is…. We call it the entrance, but it is practically the exit.\nBecause it is a sewer.\nIf you go in along this sewer, you will come to a huge Sewage Treatment Plant.",
+        "en-US": "[Rookie]\nThis hole you will enter through, Adventurer, is.... We call it the entrance, but it is practically the exit.\nBecause it is a sewer.\nIf you go in along this sewer, you will come to a huge Sewage Treatment Plant.",
         "pt-BR": "[Lukie]\nEste cano por onde você vai entrar é... nós chamamos de entrada, mas na verdade é uma saída.\nPorque é um esgoto.\nSe você entrar seguindo este esgoto, vai encontrar uma enorme Estação de Tratamento de Esgoto.",
-        "es-ES": "[Lukie]\nEste agujero por el que usted entrará es… aunque lo llamamos entrada, en realidad es la salida.\nPorque es una alcantarilla.\nSi entra siguiendo esta alcantarilla, aparecerá una enorme Planta de Tratamiento de Aguas Residuales."
+        "es-ES": "[Lukie]\nEste agujero por el que usted entrará es... aunque lo llamamos entrada, en realidad es la salida.\nPorque es una alcantarilla.\nSi entra siguiendo esta alcantarilla, aparecerá una enorme Planta de Tratamiento de Aguas Residuales."
     },
     "pg7YBw": {
         "en-US": "[Rookie]\nAfter passing the Sewage Treatment Plant, it is the magic power plant of the 1st Laboratory.\nIt seemed like a massive power plant supporting the entire mansion.",

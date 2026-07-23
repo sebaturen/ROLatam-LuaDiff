@@ -127,7 +127,7 @@
     "2aT9AQ": {
         "en-US": "Enter the central boss room through the Portal to the North...",
         "pt-BR": "Entre na sala do chefe central pelo portal ao norte...",
-        "es-ES": "Entra en la sala del jefe central por el portal del norte…"
+        "es-ES": "Entra en la sala del jefe central por el portal del norte..."
     },
     "2qT9AQ": {
         "en-US": "Final Battle - Defeat Vocal!",
@@ -347,7 +347,7 @@
     "BaX9AQ": {
         "en-US": "[Staff]\nHey...\nYou did\na good job.",
         "pt-BR": "[Equipe]\nEi...\nVocê fez\num bom trabalho.",
-        "es-ES": "[Personal]\nOye…\nHiciste\nun buen trabajo."
+        "es-ES": "[Personal]\nOye...\nHiciste\nun buen trabajo."
     },
     "BqX9AQ": {
         "en-US": "[Staff]\nEven if you have failed to clear\nthe time attack battle, I can still give you a small Arena Point award.",
@@ -357,7 +357,7 @@
     "B6X9AQ": {
         "en-US": "[Staff]\nWhoa...!\nYou already have\nenough Arena Points!\nIf I gave you any more, you'd\nexceed the maximum amount.",
         "pt-BR": "[Equipe]\nOpa...!\nVocê já tem\npontos de arena suficientes!\nSe eu lhe der mais, você\nexceder a quantidade máxima.",
-        "es-ES": "[Personal]\n¡Vaya…!\n¡Ya tienes\nsuficientes puntos de Arena!\nSi te diera más,\nexcederías la cantidad máxima."
+        "es-ES": "[Personal]\n¡Vaya...!\n¡Ya tienes\nsuficientes puntos de Arena!\nSi te diera más,\nexcederías la cantidad máxima."
     },
     "CKX9AQ": {
         "en-US": "[Staff]\nPlease spend some of your Arena Points so that when I see you next time, I can make sure to give you some Arena Points.",
@@ -372,7 +372,7 @@
     "CqX9AQ": {
         "en-US": "[Staff]\nWhoa...!\nYour records got messed up?\nWhat are we supposed to do...?",
         "pt-BR": "[Equipe]\nOpa...!\nSeus registros foram bagunçados?\nO que devemos fazer...?",
-        "es-ES": "[Personal]\n¡Vaya…!\n¿Se estropearon tus registros?\n¿Qué se supone que debemos hacer…?"
+        "es-ES": "[Personal]\n¡Vaya...!\n¿Se estropearon tus registros?\n¿Qué se supone que debemos hacer...?"
     },
     "C6X9AQ": {
         "en-US": "[Staff]\nWell, you got here somehow,\nso I guess you finished one\nof the Arena Stages within\nthe time limit.",
@@ -402,7 +402,7 @@
     "EKX9AQ": {
         "en-US": "[Staff]\nYour name is...\n^3131FF{0}^000000, isn't it?",
         "pt-BR": "[Equipe]\nSeu nome é...\n^3131FF{0}^000000, não é?",
-        "es-ES": "[Personal]\nTu nombre es…\n^3131FF{0}^000000, ¿verdad?"
+        "es-ES": "[Personal]\nTu nombre es...\n^3131FF{0}^000000, ¿verdad?"
     },
     "EaX9AQ": {
         "en-US": "[Staff]\n^3131FF{0}^000000,\nThe total time you spent to pass the battle is {1} minutes {2} seconds. Congratulations!",
@@ -422,7 +422,7 @@
     "FKX9AQ": {
         "en-US": "[Staff]\nErrr....the time records got messed up?!\nGosh, what am I supposed to do! Waah!",
         "pt-BR": "[Equipe]\nErrr.... os registros de tempo ficaram bagunçados?!\nPuxa, o que eu devo fazer! Uau!",
-        "es-ES": "[Personal]\nEmm… ¡¿Se estropearon los registros de tiempo?!\n¡Cielos! ¿Qué se supone que debo hacer? ¡Ahhh!"
+        "es-ES": "[Personal]\nEmm... ¡¿Se estropearon los registros de tiempo?!\n¡Cielos! ¿Qué se supone que debo hacer? ¡Ahhh!"
     },
     "FaX9AQ": {
         "en-US": "[Staff]\n............",
@@ -432,12 +432,12 @@
     "FqX9AQ": {
         "en-US": "[Staff]\nYeah, I'd better fix it before someone gets to know...heheh~",
         "pt-BR": "[Equipe]\nSim, é melhor eu consertar isso antes que alguém fique sabendo... heheh~",
-        "es-ES": "[Personal]\nSí, mejor lo arreglo antes de que alguien se entere… je, je, je~."
+        "es-ES": "[Personal]\nSí, mejor lo arreglo antes de que alguien se entere... je, je, je~."
     },
     "F6X9AQ": {
         "en-US": "[Staff]\nWow...!\nYou've set\na new record!\nWhat a great job!",
         "pt-BR": "[Equipe]\nUau...!\nVocê estabeleceu\num novo recorde!\nQue trabalho fantástico!",
-        "es-ES": "[Personal]\n¡Vaya…!\n¡Batiste\nun nuevo récord!\n¡Bien hecho!"
+        "es-ES": "[Personal]\n¡Vaya...!\n¡Batiste\nun nuevo récord!\n¡Bien hecho!"
     },
     "GKX9AQ": {
         "en-US": "[Staff]\nYou have been recorded as the fastest player among people who cleared ^FF0000Arena Time Force Battle lvl 50-69^000000, ^3131FF{0}^000000.",
@@ -447,7 +447,7 @@
     "GaX9AQ": {
         "en-US": "[Staff]\nLet me reward you\nwith some Arena Points.\nEh? Wait a minute...",
         "pt-BR": "[Equipe]\nDeixe-me recompensá-lo\ncom alguns Arena Points.\nEh? Espere um pouco...",
-        "es-ES": "[Personal]\nTe recompensaré \ncon algunos puntos de Arena.\n¿Eh? Espera un momento…"
+        "es-ES": "[Personal]\nTe recompensaré \ncon algunos puntos de Arena.\n¿Eh? Espera un momento..."
     },
     "GqX9AQ": {
         "en-US": "[Staff]\nYour Arena points have\nexceeded the maximum amount.\nI can't give you more points\nuntil you spend the points\nyou already have.",
@@ -747,7 +747,7 @@
     "VaX9AQ": {
         "en-US": "[Staff]\nYour name is...\n^3131FF{0}^000000, isn't it?",
         "pt-BR": "[Equipe]\nSeu nome é...\n^3131FF{0}^000000, não é?",
-        "es-ES": "[Personal]\nTu nombre es…\n^3131FF{0}^000000, ¿verdad?"
+        "es-ES": "[Personal]\nTu nombre es...\n^3131FF{0}^000000, ¿verdad?"
     },
     "VqX9AQ": {
         "en-US": "[Staff]\n^3131FF{0}^000000,\nThe total time you spent to pass the battle is {1} minutes {2} seconds. Congratulations!",
@@ -957,7 +957,7 @@
     "f6X9AQ": {
         "en-US": "[Staff]\nYour name is...\n^3131FF{0}^000000, isn't it?",
         "pt-BR": "[Equipe]\nSeu nome é...\n^3131FF{0}^000000, não é?",
-        "es-ES": "[Personal]\nTu nombre es…\n^3131FF{0}^000000, ¿verdad?"
+        "es-ES": "[Personal]\nTu nombre es...\n^3131FF{0}^000000, ¿verdad?"
     },
     "gKX9AQ": {
         "en-US": "[Staff]\n^3131FF{0}^000000,\nThe total time you spent to pass the battle is {1} minutes {2} seconds. Congratulations!",
@@ -1162,7 +1162,7 @@
     "qKX9AQ": {
         "en-US": "[Staff]\nYour name is...\n^3131FF{0}^000000, isn't it?",
         "pt-BR": "[Equipe]\nSeu nome é...\n^3131FF{0}^000000, não é?",
-        "es-ES": "[Personal]\nTu nombre es…\n^3131FF{0}^000000, ¿verdad?"
+        "es-ES": "[Personal]\nTu nombre es...\n^3131FF{0}^000000, ¿verdad?"
     },
     "qaX9AQ": {
         "en-US": "[Staff]\n^3131FF{0}^000000,\nThe total time you spent to pass the battle is {1} minutes {2} seconds. Congratulations!",
@@ -1247,7 +1247,7 @@
     "uaX9AQ": {
         "en-US": "[Helper Iriff]\nThank you, let me start the battle. A warp portal leading to the Arena will now open. I hope you will survive until the end of the battle and engrave your name in our list of honor...",
         "pt-BR": "[Helper Iriff]\nObrigado, deixe-me começar a batalha. Um portal de dobra que leva à Arena será aberto agora. Espero que você sobreviva até o final da batalha e grave seu nome em nossa lista de honra...",
-        "es-ES": "[Ayudante Iriff]\nGracias, daré inicio a la batalla. Ahora se abrirá un portal que te teletransportará a la Arena. Espero que sobrevivas hasta el final de la batalla y puedas grabar tu nombre en nuestra lista de honor…"
+        "es-ES": "[Ayudante Iriff]\nGracias, daré inicio a la batalla. Ahora se abrirá un portal que te teletransportará a la Arena. Espero que sobrevivas hasta el final de la batalla y puedas grabar tu nombre en nuestra lista de honor..."
     },
     "uqX9AQ": {
         "en-US": "Slipslowrun",
@@ -1647,7 +1647,7 @@
     "Cab9AQ": {
         "en-US": "[Staff]\nHey...\nYou guys\ndid a good job.",
         "pt-BR": "[Equipe]\nEi...\nVocês\nfizeram um bom trabalho.",
-        "es-ES": "[Personal]\nOye…\nHicieron\nun buen trabajo."
+        "es-ES": "[Personal]\nOye...\nHicieron\nun buen trabajo."
     },
     "Cqb9AQ": {
         "en-US": "[Staff]\nEven if you have failed to clear\nthe Party Mode within the time limit, I can still give you a small Arena Point award.",
@@ -1657,7 +1657,7 @@
     "C6b9AQ": {
         "en-US": "[Staff]\nYour name is...\n^3131FF{0}^000000, isn't it?",
         "pt-BR": "[Equipe]\nSeu nome é...\n^3131FF{0}^000000, não é?",
-        "es-ES": "[Personal]\nTu nombre es…\n^3131FF{0}^000000, ¿verdad?"
+        "es-ES": "[Personal]\nTu nombre es...\n^3131FF{0}^000000, ¿verdad?"
     },
     "DKb9AQ": {
         "en-US": "[Staff]\n^3131FF{0}^000000,\nThe total time you spent to pass the battle is {1} minutes {2} seconds. Congratulations!",

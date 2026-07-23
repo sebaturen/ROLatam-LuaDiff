@@ -1,3 +1,4 @@
+
 tbl = {
 	[9981] = {
 		unidentifiedDisplayName = "Arca de Pergaminhos",

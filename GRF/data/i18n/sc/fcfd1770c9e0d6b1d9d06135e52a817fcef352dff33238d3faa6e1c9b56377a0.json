@@ -17,7 +17,7 @@
     "o1oy": {
         "en-US": "[Worker]\nWhat!! Wh.. Oh... I... I didn't fall asleep!!\nLet's get back to work... that's right work...",
         "pt-BR": "[Trabalhador]\nO quê! O que... Ah... eu... Eu não caí no sono!\nVamos voltar ao trabalho... isso mesmo, ao trabalho...",
-        "es-ES": "[Trabajador]\n¡¿Qué?! ¿Qué…? Oh… No… ¡No me dormí!\nVolvamos a trabajar… Así es, a trabajar…"
+        "es-ES": "[Trabajador]\n¡¿Qué?! ¿Qué...? Oh... No... ¡No me dormí!\nVolvamos a trabajar... Así es, a trabajar..."
     },
     "pFoy": {
         "en-US": "[Worker]\nNkeo Fkeadmn Wekdi\nI dkdake Belkdiek",
@@ -27,12 +27,12 @@
     "pVoy": {
         "en-US": "[Worker]\nHmm... It's working just fine... No problems at all...",
         "pt-BR": "[Trabalhador]\nHmm... Está funcionando muito bem... Sem nenhum problema...",
-        "es-ES": "[Trabajador]\nMmm… Funciona bien… Sin ningún problema…"
+        "es-ES": "[Trabajador]\nMmm... Funciona bien... Sin ningún problema..."
     },
     "ploy": {
         "en-US": "[Worker]\nHu... Ekdoekd Wkkekci... Dnedok",
         "pt-BR": "[Trabalhador]\nHu... Ekdoekd Wkkekci... Dnedok",
-        "es-ES": "[Trabajador]\nEh… Ekdoekd Wkkekci… Dnedok."
+        "es-ES": "[Trabajador]\nEh... Ekdoekd Wkkekci... Dnedok."
     },
     "p1oy": {
         "en-US": "[Worker]\nMy eyesight is getting weaker thesedays.",
@@ -62,7 +62,7 @@
     "rFoy": {
         "en-US": "[Worker]\nThis is all there is left for us...",
         "pt-BR": "[Trabalhador]\nIsso é tudo o que resta para nós...",
-        "es-ES": "[Trabajador]\nEs lo único que nos queda…"
+        "es-ES": "[Trabajador]\nEs lo único que nos queda..."
     },
     "rVoy": {
         "en-US": "[Worker]\nCodkempleky Idnedpen Fdormjk Rdkeicnao",

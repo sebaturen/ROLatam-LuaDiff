@@ -1,3 +1,4 @@
+
 EFFECT = {}
 EFFECT.EF_NONE = -1
 EFFECT.EF_HIT1 = 0

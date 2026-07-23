@@ -12,12 +12,12 @@
     "IipfBg": {
         "en-US": "[Knight Aylvar]\nUm..\nAre you an adventurer??\nI have a favor to ask you...",
         "pt-BR": "[Soldado Elivar]\nVocê é um desses aventureiros? \nPreciso te pedir uma coisa...",
-        "es-ES": "[Caballero Aylvar]\nEm… \n¿Eres un trotamundos? \nTengo un favor que pedirte…"
+        "es-ES": "[Caballero Aylvar]\nEm... \n¿Eres un trotamundos? \nTengo un favor que pedirte..."
     },
     "IypfBg": {
         "en-US": "[Knight Aylvar]\n...Oh, you need more experience.\nExcuse me.\nIt's a highly risk job.",
         "pt-BR": "[Soldado Elivar]\n...Ah, você ainda é muito jovem. \nDesculpe-me.\nNão posso pedir ajuda a alguém mais fraco que eu.",
-        "es-ES": "[Caballero Aylvar]\n…Ah, necesitas más experiencia. \nDisculpa.\nEs un trabajo muy riesgoso."
+        "es-ES": "[Caballero Aylvar]\n...Ah, necesitas más experiencia. \nDisculpa.\nEs un trabajo muy riesgoso."
     },
     "JCpfBg": {
         "en-US": "- ^0000CDYou can perform this mission starting at level 150.^000000 -",
@@ -37,7 +37,7 @@
     "JypfBg": {
         "en-US": "Aylvar : Leiphen, my friend... Please be safe.",
         "pt-BR": "Elivar: Leiphen... espero que esteja bem.",
-        "es-ES": "Aylvar: Leiphen, amigo mío… Espero que estés a salvo."
+        "es-ES": "Aylvar: Leiphen, amigo mío... Espero que estés a salvo."
     },
     "KCpfBg": {
         "en-US": "[Knight Aylvar]\nSorry to bother you.\nMay the gods bless you for listening.",
@@ -122,7 +122,7 @@
     "OCpfBg": {
         "en-US": "[Knight Aylvar]\nAfter I passed the piece to him....\nMy friend Leiphen suddenly disappeared while looking at the piece.",
         "pt-BR": "[Soldado Elivar]\nAssim que ele tocou no pedaço...\nLeiphen simplesmente desapareceu, como se tivesse teleportado.",
-        "es-ES": "[Caballero Aylvar]\nLuego de darle una de las piezas…\nMi amigo, Leiphen, desapareció de repente mientras las miraba."
+        "es-ES": "[Caballero Aylvar]\nLuego de darle una de las piezas...\nMi amigo, Leiphen, desapareció de repente mientras las miraba."
     },
     "OSpfBg": {
         "en-US": "Aylvar : I saw it with my own eyes. It was right here.",
@@ -132,7 +132,7 @@
     "OipfBg": {
         "en-US": "[Knight Aylvar]\nThat happening was already ^FF0000half a day ago^000000.\nIn the meantime, I contacted Juno University and went to Turtle Island, but I haven't achieved any results...\nI hoped I could find a clue, so I was in a position where Leiphen disappeared.",
         "pt-BR": "[Soldado Elivar]\nIsso aconteceu ^FF000012 horas atrás^000000.\nEu entrei em contato com a Universidade Juno e visitei a ilha das tartarugas, mas sem sucesso...",
-        "es-ES": "[Caballero Aylvar]\nEsto ocurrió hace ya ^FF0000medio día^000000.\nMientras tanto, me puse en contacto con la Universidad de Juno y fui a la Isla Tortuga, pero no he conseguido ningún resultado… \nEsperaba encontrar alguna pista, por eso estaba donde desapareció Leiphen."
+        "es-ES": "[Caballero Aylvar]\nEsto ocurrió hace ya ^FF0000medio día^000000.\nMientras tanto, me puse en contacto con la Universidad de Juno y fui a la Isla Tortuga, pero no he conseguido ningún resultado... \nEsperaba encontrar alguna pista, por eso estaba donde desapareció Leiphen."
     },
     "OypfBg": {
         "en-US": "[Knight Aylvar]\n{0}, Please help us.\nCan you help me to find my friend?\nThis piece might be a clue.\nPlease take a look.",
@@ -192,12 +192,12 @@
     "RipfBg": {
         "en-US": "- ^424242His voice is getting fainter and fainter, I begin to feel dizzy. A scent of wet clay began to be smelt...^000000 -",
         "pt-BR": "- ^424242Comecei a sentir o cheiro de terra molhada...^000000 -",
-        "es-ES": "-^424242Su voz es cada vez más débil, empiezo a sentirme mareado. Empiezo a oler un aroma a arcilla húmeda…^000000-"
+        "es-ES": "-^424242Su voz es cada vez más débil, empiezo a sentirme mareado. Empiezo a oler un aroma a arcilla húmeda...^000000-"
     },
     "RypfBg": {
         "en-US": "[Knight Aylvar]\n{0}!\nOh, you are ok!\nI was... worried.\nAfter Leiphen, {0} you also disappeared, I was really surprised.",
         "pt-BR": "[Soldado Elivar]\nAh! {0} voltou! Imagine como está meu coração sabendo que {0} e Leiphen sumiram do mesmo jeito.",
-        "es-ES": "[Caballero Aylvar]\n¡{0}! \n¡Ah, estás bien! \nEstaba… preocupado. \nDespués de Leiphen, también desapareciste tú, {0}. Me sorprendí mucho."
+        "es-ES": "[Caballero Aylvar]\n¡{0}! \n¡Ah, estás bien! \nEstaba... preocupado. \nDespués de Leiphen, también desapareciste tú, {0}. Me sorprendí mucho."
     },
     "SCpfBg": {
         "en-US": "It's ok, Leiphen seems to be where I went.",
@@ -207,7 +207,7 @@
     "SSpfBg": {
         "en-US": "Aylvar : Really? Oh. Leiphen...!",
         "pt-BR": "Elivar: Sério? Que alívio. Leiphen...!",
-        "es-ES": "Aylvar: ¿De verdad? Ah. ¡Leiphen…!"
+        "es-ES": "Aylvar: ¿De verdad? Ah. ¡Leiphen...!"
     },
     "SipfBg": {
         "en-US": "[Knight Aylvar]\nWill you go back there to meet with Leiphen?",
@@ -252,7 +252,7 @@
     "UipfBg": {
         "en-US": "- ^424242Before my eyes were completely dark, my cheeks felt the cooler air from the cave....^000000 -",
         "pt-BR": "- ^424242Sinto o cheiro de terra molhada novamente...^000000 -",
-        "es-ES": "-^424242Antes de que mi vista se oscureciera por completo, sentí el aire más fresco de la cueva en las mejillas…^000000-"
+        "es-ES": "-^424242Antes de que mi vista se oscureciera por completo, sentí el aire más fresco de la cueva en las mejillas...^000000-"
     },
     "UypfBg": {
         "en-US": "[Knight Aylvar]\nPlease save Leiphen.\nIf I can go there, I will save him by myself.",
@@ -267,7 +267,7 @@
     "VSpfBg": {
         "en-US": "Aylvar : Really? Good! Leiphen...!",
         "pt-BR": "Elivar: Sério? Que alívio. Leiphen...!",
-        "es-ES": "Aylvar: ¿De verdad? ¡Bien! ¡Leiphen…!"
+        "es-ES": "Aylvar: ¿De verdad? ¡Bien! ¡Leiphen...!"
     },
     "VipfBg": {
         "en-US": "[Knight Aylvar]\nAre you going there to take Leiphen?",
@@ -277,12 +277,12 @@
     "VypfBg": {
         "en-US": "- ^424242Before my sight was completely obscured, I felt the cool air of the cave on my cheeks.^000000 -",
         "pt-BR": "- ^424242Peguei o pedaço de carapuça e senti a rajada de vento no meu rosto.^000000 -",
-        "es-ES": "-^424242Antes de que mi vista se oscureciera por completo, sentí el aire fresco de la cueva en las mejillas…^000000-"
+        "es-ES": "-^424242Antes de que mi vista se oscureciera por completo, sentí el aire fresco de la cueva en las mejillas...^000000-"
     },
     "WCpfBg": {
         "en-US": "Aylvar : You will be back when you are hungry...",
         "pt-BR": "Elivar: Volte quando estiver com fome...",
-        "es-ES": "Aylvar: Volverás cuando tengas hambre…"
+        "es-ES": "Aylvar: Volverás cuando tengas hambre..."
     },
     "WSpfBg": {
         "en-US": "[Knight Aylvar]\nHey {0}. Leiphen told me all kinds of stories.\nHe made me worry, but he went there again.\nHe said he would go back after to find the secrets of that place.",
@@ -357,7 +357,7 @@
     "ZypfBg": {
         "en-US": "[Knight Aylvar]\nWhen I heard his story, I also wanted to go there... but I can't do as his explain.\nI am so sad.",
         "pt-BR": "[Soldado Elivar]\nQuando eu ouvi a história daquele lugar... Não fiquei com coragem de visitar Leiphen lá.",
-        "es-ES": "[Caballero Aylvar]\nCuando escuché su historia, yo también quise ir allí… pero no puedo hacer lo que él explica.\nEstoy muy triste."
+        "es-ES": "[Caballero Aylvar]\nCuando escuché su historia, yo también quise ir allí... pero no puedo hacer lo que él explica.\nEstoy muy triste."
     },
     "aCpfBg": {
         "en-US": "Girl",
@@ -387,7 +387,7 @@
     "bSpfBg": {
         "en-US": "[Girl]\nAgain...\nAnother stranger.\nAnd you brought that piece again.",
         "pt-BR": "[Garota]\nAh... outra pessoa.\nE você trouxe o pedaço de volta.",
-        "es-ES": "[Chica]\nOtra vez…\nOtro desconocido.\nY trajiste esa pieza de nuevo."
+        "es-ES": "[Chica]\nOtra vez...\nOtro desconocido.\nY trajiste esa pieza de nuevo."
     },
     "bipfBg": {
         "en-US": "Girl: That piece.",
@@ -447,7 +447,7 @@
     "eSpfBg": {
         "en-US": "[Girl]\n......",
         "pt-BR": "[Garota]\n......",
-        "es-ES": "[Chica]\n……"
+        "es-ES": "[Chica]\n......"
     },
     "eipfBg": {
         "en-US": "[Girl]\nGo back alone.\nIt's dangerous here.",
@@ -457,7 +457,7 @@
     "eypfBg": {
         "en-US": "- ^424242The girl spoke for a moment, but then fell silent. She looks sad...^000000 -",
         "pt-BR": "- ^424242A garota parece um pouco triste...^000000 -",
-        "es-ES": "-^424242La chica habló por un instante, pero luego se quedó callada. Parece triste…^000000-"
+        "es-ES": "-^424242La chica habló por un instante, pero luego se quedó callada. Parece triste...^000000-"
     },
     "fCpfBg": {
         "en-US": "[Girl]\nI don't know.\nI don't know you came from where, how could I know?",
@@ -467,7 +467,7 @@
     "fSpfBg": {
         "en-US": "[Girl]\nHowever, that empty door... could have something you might know well.",
         "pt-BR": "[Garota]\nMas... ali perto da porta, tem alguma coisa. Você deveria ir lá.",
-        "es-ES": "[Chica]\nSin embargo, esa puerta vacía… podría tener algo que conoces bien."
+        "es-ES": "[Chica]\nSin embargo, esa puerta vacía... podría tener algo que conoces bien."
     },
     "fipfBg": {
         "en-US": "- ^424242The girl glanced towards the back of where she was standing. Looking closely, it seems that something reddish is floating in front of the black hole. Let's go and look.^000000 -",
@@ -507,7 +507,7 @@
     "hSpfBg": {
         "en-US": "[Girl]\n...You`re still alive.",
         "pt-BR": "[Garota]\n...você ainda está com vida.",
-        "es-ES": "[Chica]\n…Sigues con vida."
+        "es-ES": "[Chica]\n...Sigues con vida."
     },
     "hipfBg": {
         "en-US": "[Girl]\nBefore you run into danger, take the one you came for and go.",
@@ -517,7 +517,7 @@
     "hypfBg": {
         "en-US": "[Girl]\nYou`re safe, both of you.\n...Sorry for the danger.",
         "pt-BR": "[Garota]\nVocês dois chegaram em segurança.\n...Sinto muito ter colocado vocês em perigo.",
-        "es-ES": "[Chica]\nEstán a salvo, los dos.\n…Lamento el peligro."
+        "es-ES": "[Chica]\nEstán a salvo, los dos.\n...Lamento el peligro."
     },
     "iCpfBg": {
         "en-US": "It's ok, Professor.",
@@ -527,7 +527,7 @@
     "iSpfBg": {
         "en-US": "Archeologist Leiphen : ......Oh, I thought I was going to die.",
         "pt-BR": "Leiphen: ......Eu pensei que iria morrer.",
-        "es-ES": "Arqueólogo Leiphen: …Ah, pensé que iba a morir."
+        "es-ES": "Arqueólogo Leiphen: ...Ah, pensé que iba a morir."
     },
     "iipfBg": {
         "en-US": "[Girl]\nSo, go back to where you came from.\nAnd forget everything.",
@@ -562,12 +562,12 @@
     "kCpfBg": {
         "en-US": "[Archeologist Leiphen]\n......\nDo you know something?\nPlease tell me.\nWhere am I?\nWhat just happen?",
         "pt-BR": "[Arqueólogo Leiphen]\n...E você sabe o motivo, não?\nMe diga, por que você vive aqui? O que aconteceu no passado?",
-        "es-ES": "[Arqueólogo Leiphen]\n…\n¿Tu sabes algo, no?\nPor favor dime. \n¿Dónde estoy? \n¿Qué acaba de pasar?"
+        "es-ES": "[Arqueólogo Leiphen]\n...\n¿Tu sabes algo, no?\nPor favor dime. \n¿Dónde estoy? \n¿Qué acaba de pasar?"
     },
     "kSpfBg": {
         "en-US": "Girl : It`s not necessary for you to listen, you`re going to leave anyway...",
         "pt-BR": "Garota: Você não precisa saber, ninguém me escuta mesmo...",
-        "es-ES": "Chica: No es necesario que escuches, te irás de todos modos…"
+        "es-ES": "Chica: No es necesario que escuches, te irás de todos modos..."
     },
     "kipfBg": {
         "en-US": "Stop saying that.",
@@ -582,7 +582,7 @@
     "lCpfBg": {
         "en-US": "[Girl]\nStop?\nI didn't say anything wrong.\nYou are going to leave and forget everything soon.\nYou will never come back.... right?",
         "pt-BR": "[Garota]\nNão estou mentindo! As pessoas vão embora e esquecem, elas não voltam mais.",
-        "es-ES": "[Chica]\n¿Que pare? \nNo dije nada malo. \nPronto te irás y lo olvidarás todo. \nNunca regresarás… ¿verdad?"
+        "es-ES": "[Chica]\n¿Que pare? \nNo dije nada malo. \nPronto te irás y lo olvidarás todo. \nNunca regresarás... ¿verdad?"
     },
     "lSpfBg": {
         "en-US": "Girl : What are you saying? I am the arrogant one?",
@@ -592,12 +592,12 @@
     "lipfBg": {
         "en-US": "[Girl]\n...\nFine.\nArrogant or what.\nThink freely.\nI don't care anyway.",
         "pt-BR": "[Garota]\n......Tá. Que seja. Eu não me importo.",
-        "es-ES": "[Chica]\n…\nEstá bien. \nArrogante o lo que sea. \nPiensa lo que quieras. \nDe todas formas no me importa."
+        "es-ES": "[Chica]\n...\nEstá bien. \nArrogante o lo que sea. \nPiensa lo que quieras. \nDe todas formas no me importa."
     },
     "lypfBg": {
         "en-US": "[Girl]\nI said it before.... but no one comes back.\nNow, I don`t expect anything.",
         "pt-BR": "[Garota]\nNinguém mais voltou... Não espero mais ninguém.",
-        "es-ES": "[Chica]\nLo dije antes… pero nadie regresa. \nAhora ya no espero nada."
+        "es-ES": "[Chica]\nLo dije antes... pero nadie regresa. \nAhora ya no espero nada."
     },
     "mCpfBg": {
         "en-US": "Girl : If you don't expect anything, there's nothing to disappointed about.",
@@ -612,7 +612,7 @@
     "mipfBg": {
         "en-US": "[Girl]\n...\nNo one comes back.\nIt's better to be not back.\nIt's danger.",
         "pt-BR": "[Garota]\n......Ninguém vai voltar. Aqui é perigoso demais.",
-        "es-ES": "[Chica]\n…\nNadie regresa. \nEs mejor no regresar. \nEs peligroso."
+        "es-ES": "[Chica]\n...\nNadie regresa. \nEs mejor no regresar. \nEs peligroso."
     },
     "mypfBg": {
         "en-US": "[Archeologist Leiphen]\nYou still want someone to come back to this place.",
@@ -622,12 +622,12 @@
     "nCpfBg": {
         "en-US": "Girl : ......Think what you want.",
         "pt-BR": "Garota: ......pensem o que quiserem.",
-        "es-ES": "Chica: …Piensa lo que quieras."
+        "es-ES": "Chica: ...Piensa lo que quieras."
     },
     "nSpfBg": {
         "en-US": "[Girl]\nWhew...",
         "pt-BR": "[Garota]\nHmpf.........",
-        "es-ES": "[Chica]\nFiu…"
+        "es-ES": "[Chica]\nFiu..."
     },
     "nipfBg": {
         "en-US": "[Girl]\nFine.\nI`ll tell you.\nPromise me, you`ll to go back after listening.\nI don`t want to talk much.",
@@ -642,7 +642,7 @@
     "oCpfBg": {
         "en-US": "[Girl]\n...\nGive me a sec.\nI need time to think clearly.\nIt's been a long time, not to talk....",
         "pt-BR": "[Garota]\n...Só me dá um minuto, faz muito tempo que não falo sobre isso...",
-        "es-ES": "[Chica]\n…\nDame un segundo.\nNecesito tiempo para pensar con claridad. \nLlevo mucho tiempo sin hablar…"
+        "es-ES": "[Chica]\n...\nDame un segundo.\nNecesito tiempo para pensar con claridad. \nLlevo mucho tiempo sin hablar..."
     },
     "oSpfBg": {
         "en-US": "Archeologist Leiphen : Then let me look around here for a while.",
@@ -652,7 +652,7 @@
     "oipfBg": {
         "en-US": "Even though it's so dangerous, you can't resist curiosity... Just be careful.",
         "pt-BR": "Mesmo sendo tão perigoso, você não consegue controlar sua curiosidade... De qualquer forma, tome cuidado.",
-        "es-ES": "Aunque es peligroso, es difícil resistir la curiosidad… Pero ten cuidado."
+        "es-ES": "Aunque es peligroso, es difícil resistir la curiosidad... Pero ten cuidado."
     },
     "oypfBg": {
         "en-US": "[Girl]\nI'll talk to you again after a while.",
@@ -672,7 +672,7 @@
     "pipfBg": {
         "en-US": "[Narin]\nThank you for waiting\n...\nIt would be better to start by introducing myself.\nI am Narin.\nAn ^0000CDOld Ghost.^000000",
         "pt-BR": "[Nalin]\nObrigada por... esperar.\nEu me chamo Nalin, um ^0000CDantigo espírito.^000000",
-        "es-ES": "[Narin]\nGracias por esperar\n…\nSería mejor empezar presentándome.\nSoy Narin. \nUna ^0000CDvieja fantasma.^000000"
+        "es-ES": "[Narin]\nGracias por esperar\n...\nSería mejor empezar presentándome.\nSoy Narin. \nUna ^0000CDvieja fantasma.^000000"
     },
     "pypfBg": {
         "en-US": "Archeologist Leiphen : O..Old GGhost?",
@@ -682,7 +682,7 @@
     "qCpfBg": {
         "en-US": "......",
         "pt-BR": "......",
-        "es-ES": "……"
+        "es-ES": "......"
     },
     "qSpfBg": {
         "en-US": "[Narin]\nYou look like you have been through a lot of things before.\nI can see you are able to talk normally.\nOrdinary people like a professor can't even see us",
@@ -707,7 +707,7 @@
     "rSpfBg": {
         "en-US": "[Narin]\nIt doesn't last long.\nThe longer you stay here, the more you notice each other.\nGradually.\nSuddenly you guys realize.\nThat's strange. ...\nThen, it's over.",
         "pt-BR": "[Nalin]\nNão durou muito. Quanto mais ficamos aqui, mais nos conhecemos. Pouco a pouco.\nE aí, o que era desconhecido... não é mais.",
-        "es-ES": "[Narin]\nNo dura mucho. \nCuanto más tiempo pases aquí, más percibimos la presencia del otro. \nDe forma gradual.\nDe pronto lo notarán. \nQue eso es extraño. …\nY luego, se acaba."
+        "es-ES": "[Narin]\nNo dura mucho. \nCuanto más tiempo pases aquí, más percibimos la presencia del otro. \nDe forma gradual.\nDe pronto lo notarán. \nQue eso es extraño. ...\nY luego, se acaba."
     },
     "ripfBg": {
         "en-US": "[Narin]\nThe professor has my stuff, so I recognized him right away.\nNormally I wouldn't have known.",
@@ -717,7 +717,7 @@
     "rypfBg": {
         "en-US": "Archeologist Leiphen : Narin's stuff...?",
         "pt-BR": "Leiphen: Que coisas, Nalin?",
-        "es-ES": "Arqueólogo Leiphen: ¿Las cosas de Narin…?"
+        "es-ES": "Arqueólogo Leiphen: ¿Las cosas de Narin...?"
     },
     "sCpfBg": {
         "en-US": "Narin : Yes, a piece of the turtle shell.",
@@ -727,7 +727,7 @@
     "sSpfBg": {
         "en-US": "[Archeologist Leiphen]\nOh, I knew it...!!\nIt was you who saved Aylvar.\nThank you for help my friend!",
         "pt-BR": "[Arqueólogo Leiphen]\nAh, sabia...!!\nFoi você quem salvou Elivar. Obrigado por ajudar meu amigo.",
-        "es-ES": "[Arqueólogo Leiphen]\n¡Ah, lo sabía…!\nTú salvaste a Aylvar. \n¡Gracias por ayudar a mi amigo!"
+        "es-ES": "[Arqueólogo Leiphen]\n¡Ah, lo sabía...!\nTú salvaste a Aylvar. \n¡Gracias por ayudar a mi amigo!"
     },
     "sipfBg": {
         "en-US": "Narin : I did it for me. No need to say thanks.",
@@ -737,12 +737,12 @@
     "sypfBg": {
         "en-US": "[Narin]\nI wanted to do it.\nMy obsession is...\n^0000CDI don't want anyone to die here. I want to save them all.^000000......\nIt was like that.",
         "pt-BR": "[Nalin]\nFiz porque quis. A obsessão que me prendeu...\n^0000CDEu não quero que ninguém morra. Eu quero salvar todos^000000......\nIsso que quero dizer.",
-        "es-ES": "[Narin]\nQuería hacerlo.  \nMi obsesión es…\n^0000CDNo quiero que nadie muera en este lugar. Quiero salvarlos a todos.^000000…\nAsí ocurrió."
+        "es-ES": "[Narin]\nQuería hacerlo.  \nMi obsesión es...\n^0000CDNo quiero que nadie muera en este lugar. Quiero salvarlos a todos.^000000...\nAsí ocurrió."
     },
     "tCpfBg": {
         "en-US": "[Narin]\nOh... really, it's such a silly story.\nIt's hard to keep talking.\nJust leave me alone for a while?",
         "pt-BR": "[Nalin]\nUgh... Realmente, é uma história tão estúpida. É difícil continuar falando sobre isso.\nVocês podem me deixar em paz por um momento?",
-        "es-ES": "[Narin]\nAh… es una historia muy tonta, en verdad.\nEs difícil seguir hablando.\nDéjame a solas un rato."
+        "es-ES": "[Narin]\nAh... es una historia muy tonta, en verdad.\nEs difícil seguir hablando.\nDéjame a solas un rato."
     },
     "tSpfBg": {
         "en-US": "[Archeologist Leiphen]\nIt's alright.\nWe'll give you for a moment.\n{0}, let's go.",
@@ -767,7 +767,7 @@
     "uSpfBg": {
         "en-US": "[Narin]\nThe man was scared to death.\nBut he was alive and left this place.\nAfter that...after saving him\nAfter saving him, I could stay a little longer.",
         "pt-BR": "[Nalin]\nSeu amigo estava com medo de morrer, mas saiu vivo.\nDepois daquilo... consegui durar um pouco mais.",
-        "es-ES": "[Narin]\nEl hombre estaba muerto de miedo. \nPero estaba vivo y salió de este lugar.\nDespués de eso… \nDespués de salvarlo, pude quedarme un poco más."
+        "es-ES": "[Narin]\nEl hombre estaba muerto de miedo. \nPero estaba vivo y salió de este lugar.\nDespués de eso... \nDespués de salvarlo, pude quedarme un poco más."
     },
     "uipfBg": {
         "en-US": "[Narin]\nIt's been a while but I haven't lost my mind.\nI was not swept away by resentment and neither reason nor emotion was lost.",
@@ -792,7 +792,7 @@
     "vipfBg": {
         "en-US": "Narin : ......This is the end of my story. Now give me the pieces, and you two go will back..",
         "pt-BR": "Nalin: ...e essa é a minha história. Agora vão embora.",
-        "es-ES": "Narin: …Este es el final de mi historia. Ahora denme las piezas y ambos regresarán…"
+        "es-ES": "Narin: ...Este es el final de mi historia. Ahora denme las piezas y ambos regresarán..."
     },
     "vypfBg": {
         "en-US": "[Narin]\nAh, I almost forgot.\nLet me cast the spell one more time.\nIt's weak and won't last long.\nGo before it runs out.",
@@ -812,7 +812,7 @@
     "wipfBg": {
         "en-US": "[Narin]\n......I didn't tell you my story to hear that...\nYou shouldn`t care....",
         "pt-BR": "[Nalin]\n......Eu não queria ouvir essa pergunta...\nNão me deixe triste... não faça isso.",
-        "es-ES": "[Narin]\n…No te conté mi historia para oír eso…\nNo debería importarte…"
+        "es-ES": "[Narin]\n...No te conté mi historia para oír eso...\nNo debería importarte..."
     },
     "wypfBg": {
         "en-US": "Please do care. So I will be glad when I get back again. I will be sad, if you are cold when I came here again.",
@@ -827,12 +827,12 @@
     "xSpfBg": {
         "en-US": "[Narin]\nWhat does that mean...?",
         "pt-BR": "[Nalin]\nO que isso quer dizer...?",
-        "es-ES": "[Narin]\n¿Qué significa…?"
+        "es-ES": "[Narin]\n¿Qué significa...?"
     },
     "xipfBg": {
         "en-US": "[Narin]\nWhat are you talking about?!\nI said you`ll go back after listening to my story...!\nI don't want to expect anything from anyone else!",
         "pt-BR": "[Nalin]\nDo que você está falando?!\nEu disse para você voltar depois de me ouvir...!",
-        "es-ES": "[Narin]\n¡¿De qué estás hablando?! \n¡Dije que regresaran después de escuchar mi historia…!\n¡No quiero esperar nada de nadie más!"
+        "es-ES": "[Narin]\n¡¿De qué estás hablando?! \n¡Dije que regresaran después de escuchar mi historia...!\n¡No quiero esperar nada de nadie más!"
     },
     "xypfBg": {
         "en-US": "Please do. Archaeologist Leiphen and I will live up to your expectations.",
@@ -847,7 +847,7 @@
     "ySpfBg": {
         "en-US": "[Narin]\nWhat do you mean...?",
         "pt-BR": "[Nalin]\nDo que... você está falando...?",
-        "es-ES": "[Narin]\n¿A qué te refieres…?"
+        "es-ES": "[Narin]\n¿A qué te refieres...?"
     },
     "yipfBg": {
         "en-US": "We will come back. You won`t be alone.",
@@ -862,12 +862,12 @@
     "zCpfBg": {
         "en-US": "[Narin]\nOh really...",
         "pt-BR": "[Nalin]\nVocês têm certeza...?",
-        "es-ES": "[Narin]\nAh, ¿de verdad…?"
+        "es-ES": "[Narin]\nAh, ¿de verdad...?"
     },
     "zSpfBg": {
         "en-US": "......No, it wasn`t a coincidence.\nThey are, not like me.",
         "pt-BR": "......Não, vocês não serão como os outros.",
-        "es-ES": "…No, fue una coincidencia. \nNo son como yo."
+        "es-ES": "...No, fue una coincidencia. \nNo son como yo."
     },
     "zipfBg": {
         "en-US": "[Archeologist Leiphen]\nWe shall see, right?",
@@ -922,7 +922,7 @@
     "2CpfBg": {
         "en-US": "[Narin]\nReally... Really?\nAre you going to come back here to find me?",
         "pt-BR": "[Nalin]\nSério... Sério? Vocês vão me visitar?",
-        "es-ES": "[Narin]\nDe verdad… ¿De verdad? \n¿Volverás aquí a buscarme?"
+        "es-ES": "[Narin]\nDe verdad... ¿De verdad? \n¿Volverás aquí a buscarme?"
     },
     "2SpfBg": {
         "en-US": "[Narin]\nI don't need to be ... alone...?",
@@ -952,27 +952,27 @@
     "3ipfBg": {
         "en-US": "[Narin]\n.........",
         "pt-BR": "[Nalin]\n.........",
-        "es-ES": "[Narin]\n………"
+        "es-ES": "[Narin]\n........."
     },
     "3ypfBg": {
         "en-US": "[Narin]\n......Thanks...",
         "pt-BR": "[Nalin]\n......Oh...",
-        "es-ES": "[Narin]\n…Gracias…"
+        "es-ES": "[Narin]\n...Gracias..."
     },
     "4CpfBg": {
         "en-US": "[Narin]\nThanks...\nReally...",
         "pt-BR": "[Nalin]\nMuito... obrigada...",
-        "es-ES": "[Narin]\nGracias… \nDe verdad…"
+        "es-ES": "[Narin]\nGracias... \nDe verdad..."
     },
     "4SpfBg": {
         "en-US": "[Archeologist Leiphen]\nHuh? Huh?\nIt's just gone.\nThe back shell.\nIt's as if it has suddenly... melted in my hand.",
         "pt-BR": "[Arqueólogo Leiphen]\nHã? O pedaço de carapuça sumiu.\nTipo... desapareceu da minha mão.",
-        "es-ES": "[Arqueólogo Leiphen]\n¿Eh? ¿Eh? \nDesapareció. \nEl caparazón.\nEs como si de pronto se hubiera… derretido en mi mano."
+        "es-ES": "[Arqueólogo Leiphen]\n¿Eh? ¿Eh? \nDesapareció. \nEl caparazón.\nEs como si de pronto se hubiera... derretido en mi mano."
     },
     "4ipfBg": {
         "en-US": "[Narin]\nIt was an item with my wishes.\nNow... It doesn't need to exist.",
         "pt-BR": "[Nalin]\nPorque era um item com o meu desejo. Agora... Talvez ele não precise mais existir.",
-        "es-ES": "[Narin]\nEra un item con mis deseos.\nAhora… Ya no tiene por qué existir."
+        "es-ES": "[Narin]\nEra un item con mis deseos.\nAhora... Ya no tiene por qué existir."
     },
     "4ypfBg": {
         "en-US": "Archeologist Leiphen : What does that mean?",
@@ -982,12 +982,12 @@
     "5CpfBg": {
         "en-US": "[Narin]\n...No, no I don`t know the specifics...\nJust It might be.",
         "pt-BR": "[Nalin]\n...Bem, eu não sei os detalhes... só estou dizendo.",
-        "es-ES": "[Narin]\n…No… no conozco los detalles…\nSolo que tal vez sea así."
+        "es-ES": "[Narin]\n...No... no conozco los detalles...\nSolo que tal vez sea así."
     },
     "5SpfBg": {
         "en-US": "[Narin]\n...Oh, right.\nHere... take it.\nHere, you too professor.",
         "pt-BR": "[Nalin]\n...Ah, sim. Eu vou dar isso... ao professor.",
-        "es-ES": "[Narin]\n…Ah, cierto.\nToma… Quédatelo. \nPara ti también, profesor."
+        "es-ES": "[Narin]\n...Ah, cierto.\nToma... Quédatelo. \nPara ti también, profesor."
     },
     "5ipfBg": {
         "en-US": "What's this?",
@@ -997,27 +997,27 @@
     "5ypfBg": {
         "en-US": "Archeologist Leiphen : It... It's an Illusion Stone!",
         "pt-BR": "Leiphen: Uma... Pedra Ilusional!",
-        "es-ES": "Arqueólogo Leiphen: Es… ¡Es una Piedra de ilusión!"
+        "es-ES": "Arqueólogo Leiphen: Es... ¡Es una Piedra de ilusión!"
     },
     "6CpfBg": {
         "en-US": "Narin : ...Is it? In fact, I had it because it was pretty.",
         "pt-BR": "Nalin: ...Esse é o nome dela? Peguei porque era bonita.",
-        "es-ES": "Narin: ¿…Lo es? En realidad la tenía porque era bonita."
+        "es-ES": "Narin: ¿...Lo es? En realidad la tenía porque era bonita."
     },
     "6SpfBg": {
         "en-US": "[Narin]\nIt's a sign of our promise.\nI will try to remember two of you.\nSo come... come and find me.\nTomorrow, And the day after tomorrow...\nI'll be waiting... for you {0} and the professor.",
         "pt-BR": "[Nalin]\n... É uma promessa. Farei o meu melhor para lembrar de vocês dois.\nEstarei esperando... vocês todos os dias... {0} e o professor.",
-        "es-ES": "[Narin]\nRepresenta nuestra promesa. \nIntentaré recordarlos a ambos. \nAsí que vengan… vengan a buscarme.\nMañana y el día siguiente… \nEstaré esperándolos… a ti, {0}, y al profesor."
+        "es-ES": "[Narin]\nRepresenta nuestra promesa. \nIntentaré recordarlos a ambos. \nAsí que vengan... vengan a buscarme.\nMañana y el día siguiente... \nEstaré esperándolos... a ti, {0}, y al profesor."
     },
     "6ipfBg": {
         "en-US": "[Narin]\nAnd others... you said you would help them.\nI'll show you how.\nHow it is that you can help them...",
         "pt-BR": "[Nalin]\nE os outros... eles querem ajuda também. Eu vou mostrar... como podem ajudar.",
-        "es-ES": "[Narin]\nY a otros... dijiste que les ayudarías.\nTe mostraré cómo. \nCómo es que los puedes ayudarlos…"
+        "es-ES": "[Narin]\nY a otros... dijiste que les ayudarías.\nTe mostraré cómo. \nCómo es que los puedes ayudarlos..."
     },
     "6ypfBg": {
         "en-US": "[Narin]\n^0000CDListen to what they want. {0} Even if you look very trivial, do something they'll be pleased.^000000\nPlease... Maybe one day...",
         "pt-BR": "[Nalin]\nFaça o ^0000CDque eles pedirem, {0}.^000000, não importa a missão dada.\nFaça... para um dia eles finalmente...",
-        "es-ES": "[Narin]\n^0000CDPresta atención a lo que quieren. {0}, aunque parezca muy trivial, haz algo para complacerlos.^000000\nPor favor… Quizás algún día…"
+        "es-ES": "[Narin]\n^0000CDPresta atención a lo que quieren. {0}, aunque parezca muy trivial, haz algo para complacerlos.^000000\nPor favor... Quizás algún día..."
     },
     "7CpfBg": {
         "en-US": "Don't worry. I will.",
@@ -1032,12 +1032,12 @@
     "7ipfBg": {
         "en-US": "[Narin]\nWa... was I able to stand alone far so long, so that I could meet the two of you someday?",
         "pt-BR": "[Nalin]\nMe pergunto se foi o destino que nos uniu nesse momento...",
-        "es-ES": "[Narin]\n¿Pude… pude soportar la soledad durante tanto tiempo porque un día los conocería a ustedes dos?"
+        "es-ES": "[Narin]\n¿Pude... pude soportar la soledad durante tanto tiempo porque un día los conocería a ustedes dos?"
     },
     "7ypfBg": {
         "en-US": "I will... remember... Please... come back.",
         "pt-BR": "Eu... vou me lembrar... de... vocês.",
-        "es-ES": "Lo… recordaré… Por favor… vuelvan."
+        "es-ES": "Lo... recordaré... Por favor... vuelvan."
     },
     "8CpfBg": {
         "en-US": "[Archeologist Leiphen]\nI will be here untill I found the secrets of this place.\nDon't worry. Neither {0} or I will forget you, Narin.",
@@ -1067,7 +1067,7 @@
     "9SpfBg": {
         "en-US": "[Narin]\n{0}... You`re still here?\nThe spell will be gone after a day, please come back after the dawn.",
         "pt-BR": "[Nalin]\nAinda está aqui, {0}...? O feitiço desaparece após um dia, então volte depois do amanhecer.",
-        "es-ES": "[Narin]\n{0}… ¿Sigues aquí? \nEl hechizo desaparecerá después de un día, vuelve después del amanecer."
+        "es-ES": "[Narin]\n{0}... ¿Sigues aquí? \nEl hechizo desaparecerá después de un día, vuelve después del amanecer."
     },
     "9ipfBg": {
         "en-US": "[Narin]\nEven if I forget you {0}, don't just go away...please.",
@@ -1082,17 +1082,17 @@
     "+CpfBg": {
         "en-US": "Narin : ......?",
         "pt-BR": "Nalin: ......?",
-        "es-ES": "Narin: ¿…?"
+        "es-ES": "Narin: ¿...?"
     },
     "+SpfBg": {
         "en-US": "[Narin]\nI feel strangely familiar.\nDid I... forget something again?",
         "pt-BR": "[Nalin]\nVocê me parece familiar.\nEu... estou me esquecendo de algo?",
-        "es-ES": "[Narin]\nMe resulta extrañamente familiar.\n¿Yo… olvidé algo otra vez?"
+        "es-ES": "[Narin]\nMe resulta extrañamente familiar.\n¿Yo... olvidé algo otra vez?"
     },
     "+ipfBg": {
         "en-US": "[Narin]\nBut I don't know what I forgot...",
         "pt-BR": "[Nalin]\nMas eu não lembro...",
-        "es-ES": "[Narin]\nPero no sé qué olvidé…"
+        "es-ES": "[Narin]\nPero no sé qué olvidé..."
     },
     "+ypfBg": {
         "en-US": "Narin : Go back. I don't want you to be danger.",
@@ -1107,12 +1107,12 @@
     "/SpfBg": {
         "en-US": "[Narin]\nHave.... we meet?",
         "pt-BR": "[Nalin]\nNós... nós já nos vimos?",
-        "es-ES": "[Narin]\n¿Ya… nos habíamos conocido?"
+        "es-ES": "[Narin]\n¿Ya... nos habíamos conocido?"
     },
     "/ipfBg": {
         "en-US": "[Narin]\nNo, never.\nWho would be back...\nTo a place like this.\nGo back stranger.",
         "pt-BR": "[Nalin]\nNão. Não pode ser.\nQuem voltaria para um lugar como este...?",
-        "es-ES": "[Narin]\nNo, jamás. \n¿Quién volvería…?\nEste lugar es así. \nRegresa desconocido."
+        "es-ES": "[Narin]\nNo, jamás. \n¿Quién volvería...?\nEste lugar es así. \nRegresa desconocido."
     },
     "/ypfBg": {
         "en-US": "- ^424242She forgot. But might have a dim memory.^000000 -",
@@ -1122,7 +1122,7 @@
     "ACtfBg": {
         "en-US": "[Narin]\nAgain... stranger.\nGo back.\nIt's dangerous here.",
         "pt-BR": "[Nalin]\nOh... outra pessoa.\nVolte para onde você veio. É perigoso aqui...",
-        "es-ES": "[Narin]\nOtra vez… desconocido.\nRegresa. \nEsta peligroso aqui."
+        "es-ES": "[Narin]\nOtra vez... desconocido.\nRegresa. \nEsta peligroso aqui."
     },
     "AStfBg": {
         "en-US": "- ^424242She can't remember. But even if you don't remember, it's different from the other ghosts.^000000 -",
@@ -1132,12 +1132,12 @@
     "AitfBg": {
         "en-US": "[Narin]\n......What are you mumbling like that?\nGo back.\nYou are not belong here.",
         "pt-BR": "[Nalin]\n......o que você faz aí?\nVolte... você não deveria estar aqui.",
-        "es-ES": "[Narin]\n¿…Qué estás murmurando?\nRegresa. \nNo perteneces aquí."
+        "es-ES": "[Narin]\n¿...Qué estás murmurando?\nRegresa. \nNo perteneces aquí."
     },
     "AytfBg": {
         "en-US": "What was it she wanted...",
         "pt-BR": "Você quem pediu...",
-        "es-ES": "¿Qué era lo que quería…?"
+        "es-ES": "¿Qué era lo que quería...?"
     },
     "BCtfBg": {
         "en-US": "Go back now.",
@@ -1157,12 +1157,12 @@
     "BytfBg": {
         "en-US": "- ^424242...She wants me to back with Archeologist Leiphen. Then she will remember...\nThe professor will be there as before. Let's find him.^000000 -",
         "pt-BR": "- ^424242Você quem pediu... para nós voltarmos aqui e você se lembrar da gente...\nVamos até o Palácio Tartaruga para falar com Leiphen.^000000 -",
-        "es-ES": "-^424242…Quiere que vuelva con el arqueólogo Leiphen. Entonces podrá recordar…\nEl profesor estará allí como antes. Vamos a buscarlo.^000000-"
+        "es-ES": "-^424242...Quiere que vuelva con el arqueólogo Leiphen. Entonces podrá recordar...\nEl profesor estará allí como antes. Vamos a buscarlo.^000000-"
     },
     "CCtfBg": {
         "en-US": "[Narin]\nGo back. ...you shouldn`t be here.",
         "pt-BR": "[Nalin]\nVolte... você não deveria estar aqui.",
-        "es-ES": "[Narin]\nRegresa. …No deberías estar aquí."
+        "es-ES": "[Narin]\nRegresa. ...No deberías estar aquí."
     },
     "CStfBg": {
         "en-US": "[Archeologist Leiphen]\nI came here again.\nWell, everyday.",
@@ -1177,22 +1177,22 @@
     "CytfBg": {
         "en-US": "[Narin]\n......",
         "pt-BR": "[Nalin]\n......",
-        "es-ES": "[Narin]\n……"
+        "es-ES": "[Narin]\n......"
     },
     "DCtfBg": {
         "en-US": "[Narin]\n............",
         "pt-BR": "[Nalin]\n............",
-        "es-ES": "[Narin]\n………"
+        "es-ES": "[Narin]\n........."
     },
     "DStfBg": {
         "en-US": "[Narin]\n.................",
         "pt-BR": "[Nalin]\n.................",
-        "es-ES": "[Narin]\n……………"
+        "es-ES": "[Narin]\n..............."
     },
     "DitfBg": {
         "en-US": "[Narin]\n................Aww..",
         "pt-BR": "[Nalin]\n.................Argh.",
-        "es-ES": "[Narin]\n……………Ahh…"
+        "es-ES": "[Narin]\n...............Ahh..."
     },
     "DytfBg": {
         "en-US": "Hey? What's going on?",
@@ -1202,7 +1202,7 @@
     "ECtfBg": {
         "en-US": "[Narin]\n......Again ...\nI forgot again.....",
         "pt-BR": "[Nalin]\n......Eu esqueci... de novo......",
-        "es-ES": "[Narin]\n…Otra vez …\nVolví a olvidarlo…"
+        "es-ES": "[Narin]\n...Otra vez ...\nVolví a olvidarlo..."
     },
     "EStfBg": {
         "en-US": "It's ok. We are here again.",
@@ -1217,12 +1217,12 @@
     "EytfBg": {
         "en-US": "[Narin]\nThank you... Um, let me cast a spell on you.\nYou will go to the others as well today?",
         "pt-BR": "[Nalin]\nObrigada... vou lançar o feitiço em você. Você vai ajudar os outros hoje?",
-        "es-ES": "[Narin]\nGracias… Em, déjenme hechizarlos. \n¿También irán a ver a los demás hoy?"
+        "es-ES": "[Narin]\nGracias... Em, déjenme hechizarlos. \n¿También irán a ver a los demás hoy?"
     },
     "FCtfBg": {
         "en-US": "[Narin]\nHope you two will be safe...",
         "pt-BR": "[Nalin]\nVou deixar vocês dois seguros...",
-        "es-ES": "[Narin]\nEspero que se mantengan a salvo…"
+        "es-ES": "[Narin]\nEspero que se mantengan a salvo..."
     },
     "FStfBg": {
         "en-US": "[Narin]\nAnd here, a sign of our promise.\nProfessor, and {0}.\nI'm glad you came.\nI will be waiting tomorrow.",
@@ -1237,7 +1237,7 @@
     "FytfBg": {
         "en-US": "Girl : ......",
         "pt-BR": "Garota: ......",
-        "es-ES": "Chica: …"
+        "es-ES": "Chica: ..."
     },
     "GCtfBg": {
         "en-US": "Portal",
@@ -1257,7 +1257,7 @@
     "GytfBg": {
         "en-US": "[Girl]\n...It`s thia place.\nHopeless, desperate, and poisonous.",
         "pt-BR": "[Garota]\n...Isso vai te levar de volta.\nAo lugar que você sente saudade.",
-        "es-ES": "[Chica]\n…Este es el lugar.\nSin esperanza, desesperado y venenoso."
+        "es-ES": "[Chica]\n...Este es el lugar.\nSin esperanza, desesperado y venenoso."
     },
     "HCtfBg": {
         "en-US": "- ^424242It's an ambiguous story, but it could help. I held the back of the shell as the girl told me to.^000000 -",
@@ -1277,12 +1277,12 @@
     "HytfBg": {
         "en-US": "Girl : Yes. Just... Go.",
         "pt-BR": "Garota: Isso... vá embora.",
-        "es-ES": "Chica: Sí. Solo… Vete."
+        "es-ES": "Chica: Sí. Solo... Vete."
     },
     "ICtfBg": {
         "en-US": "- ^424242The salt-scented wind makes the clothes flutter. You can hear the waves of Alberta Harbour and the sound of seagulls...^000000 -",
         "pt-BR": "- ^424242Começo a ouvir as ondas e as gaivotas do porto de Alberta...^000000 -",
-        "es-ES": "-^424242El viento con olor a sal hace flamear la ropa. Se oyen las olas del Puerto de Alberta y el sonido de las gaviotas…^000000-"
+        "es-ES": "-^424242El viento con olor a sal hace flamear la ropa. Se oyen las olas del Puerto de Alberta y el sonido de las gaviotas...^000000-"
     },
     "IStfBg": {
         "en-US": "I have something to do here",
@@ -1292,7 +1292,7 @@
     "IitfBg": {
         "en-US": "[Girl]\n......Not going to back?",
         "pt-BR": "[Garota]\n.....Você... não vai embora?",
-        "es-ES": "[Chica]\n¿…No volverás?"
+        "es-ES": "[Chica]\n¿...No volverás?"
     },
     "IytfBg": {
         "en-US": "- ^424242This red light seems to be invisible to Narin. It is as if it disappears.^000000 -",
@@ -1307,7 +1307,7 @@
     "JStfBg": {
         "en-US": "[Narin]\nI will remember...\nCome back.\nPlease. {0}...!",
         "pt-BR": "[Nalin]\nEu vou me lembrar... vou me lembrar. Eu vou, {0}...!",
-        "es-ES": "[Narin]\nRecordaré… \nVuelve. \nPor favor. ¡{0}…!"
+        "es-ES": "[Narin]\nRecordaré... \nVuelve. \nPor favor. ¡{0}...!"
     },
     "JitfBg": {
         "en-US": "Nod and go to Alberta.",
@@ -1382,7 +1382,7 @@
     "NCtfBg": {
         "en-US": "[Narin]\n......Not going back?",
         "pt-BR": "[Nalin]\n......Ah... você não vai embora?",
-        "es-ES": "[Narin]\n¿…No volverás?"
+        "es-ES": "[Narin]\n¿...No volverás?"
     },
     "NStfBg": {
         "en-US": "An Impatient Man",
@@ -1397,7 +1397,7 @@
     "NytfBg": {
         "en-US": "[An Impatient Man]\nWho was it?\nMy baby... who?",
         "pt-BR": "[Homem Impaciente]\nQuem é minha filha? Quem... é?",
-        "es-ES": "[Un Hombre Impaciente]\n¿Quién era? \nMi bebé… ¿Quién?"
+        "es-ES": "[Un Hombre Impaciente]\n¿Quién era? \nMi bebé... ¿Quién?"
     },
     "OCtfBg": {
         "en-US": "[An Impatient Man]\nLost her, lost her.\nMy pretty baby.\nWhere are you?\nWhat's her name?\nMy daughter.\nMy baby.",
@@ -1412,17 +1412,17 @@
     "OitfBg": {
         "en-US": "- ^424242Just like she said, there is someone... but he doesn't look like the archaeologist Leiphen.^000000 -",
         "pt-BR": "- ^424242Esse não parece ser o professor Leiphen.^000000 -",
-        "es-ES": "-^424242Justo como dijo ella, hay alguien… pero no se parece al arqueólogo Leiphen.^000000-"
+        "es-ES": "-^424242Justo como dijo ella, hay alguien... pero no se parece al arqueólogo Leiphen.^000000-"
     },
     "OytfBg": {
         "en-US": "[An Impatient Man]\nWho is it?\nMy baby, where are you?\nMy daughter?\nMy.... daughter?\nHa, hahaha.\nLost it, lost it.",
         "pt-BR": "[Homem Impaciente]\nQuem é você? Minha filha, onde você está? Minha filha? Minha... filha?",
-        "es-ES": "[Un Hombre Impaciente]\n¿Quién es? \nMi bebé, ¿dónde estás? \n¿Mi hija? \n¿Mi… hija?\nJa, ja, ja. \nLa perdí, la perdí."
+        "es-ES": "[Un Hombre Impaciente]\n¿Quién es? \nMi bebé, ¿dónde estás? \n¿Mi hija? \n¿Mi... hija?\nJa, ja, ja. \nLa perdí, la perdí."
     },
     "PCtfBg": {
         "en-US": "Did you lose your baby...?",
         "pt-BR": "Você está procurando uma criança?",
-        "es-ES": "¿Perdiste a tu bebé…?"
+        "es-ES": "¿Perdiste a tu bebé...?"
     },
     "PStfBg": {
         "en-US": "Are you looking for a baby?",
@@ -1442,7 +1442,7 @@
     "QCtfBg": {
         "en-US": "...Excuse me?",
         "pt-BR": "...Não?",
-        "es-ES": "¿…Perdón?"
+        "es-ES": "¿...Perdón?"
     },
     "QStfBg": {
         "en-US": "[An Impatient Man]\nNo!\n^FF0000No!^000000\nCan't find her.",
@@ -1452,17 +1452,17 @@
     "QitfBg": {
         "en-US": "[An Impatient Man]\nNo you can't.\n^FF0000My daughter^000000.\nBaby... Baby?\n^FF0000Ha, hahaha. No. Ha,ha^000000\nMy ^FF0000pretty baby,^000000, baby\nMy ^FF0000 pretty baby^000000, No No.",
         "pt-BR": "[Homem Impaciente]\nMinha ^FF0000querida filha^000000. Ai... minha ^FF0000doce menina^000000... Onde está minha ^FF0000filha linda^000000? Cadê ^FF0000a minha garotinha^000000?",
-        "es-ES": "[Un Hombre Impaciente]\nNo, no puedes.\n^FF0000Mi hija^000000. \nBebé… ¿Bebé? \n^FF0000Ja, ja,ja, ja. No. Ja, ja^000000. \nMi ^FF0000bonita bebé,^000000 bebé. \nMi^FF0000 bonita bebé^000000. No, No."
+        "es-ES": "[Un Hombre Impaciente]\nNo, no puedes.\n^FF0000Mi hija^000000. \nBebé... ¿Bebé? \n^FF0000Ja, ja,ja, ja. No. Ja, ja^000000. \nMi ^FF0000bonita bebé,^000000 bebé. \nMi^FF0000 bonita bebé^000000. No, No."
     },
     "QytfBg": {
         "en-US": "He`s...a strange man.",
         "pt-BR": "Ele é uma pessoa... esquisita.",
-        "es-ES": "Es… un hombre extraño."
+        "es-ES": "Es... un hombre extraño."
     },
     "RCtfBg": {
         "en-US": "- ^424242I don't think I can talk to him...^000000 -",
         "pt-BR": "- ^424242Acho que não vou conseguir conversar...^000000 -",
-        "es-ES": "-^424242No creo que pueda hablar con el…^000000-"
+        "es-ES": "-^424242No creo que pueda hablar con el...^000000-"
     },
     "RStfBg": {
         "en-US": "- ^424242The girl told me of ^0000CDone more^000000 place. ^0000CDLet's head to the ^000000Turtle Palace.^000000 -",
@@ -1472,12 +1472,12 @@
     "RitfBg": {
         "en-US": "- ^424242Let me check the other place. Let's go...^000000 -",
         "pt-BR": "- ^424242Vou para o outro lugar que a garota sugeriu...^000000 -",
-        "es-ES": "-^424242Déjame buscar en el otro lugar. Vamos…^000000-"
+        "es-ES": "-^424242Déjame buscar en el otro lugar. Vamos...^000000-"
     },
     "RytfBg": {
         "en-US": "[An Impatient Man]\n^FF0000No, my daughter^000000.\nMy pretty baby.\nNo.\n^FF0000Lost, Lost her^000000.\nLost.\nBoohoo...\n^FF0000My pretty...baby..^000000\n^FF0000Can't find, can't find^000000\nCan't, ^FF0000find^000000......",
         "pt-BR": "[Homem Impaciente]\n^FF0000Eu perdi minha filha^000000. Snif. Ela ^FF0000sumiu^000000. Cadê... cadê ^FF0000minha filha^000000, minha ^FF0000garotinha^000000. Eu ^FF0000sei onde está^000000, filha...",
-        "es-ES": "[Un Hombre Impaciente]\n^FF0000No, mi hija^000000. \nMi bebé bonita.\nNo. \n^FF0000Perdida, la perdí^000000. \nPerdida. \nNooooo… \n^FF0000Mi bella… bebé…^000000 \nNo puedo encontrarla\nNo puedo ^FF0000encontrarla^000000…"
+        "es-ES": "[Un Hombre Impaciente]\n^FF0000No, mi hija^000000. \nMi bebé bonita.\nNo. \n^FF0000Perdida, la perdí^000000. \nPerdida. \nNooooo... \n^FF0000Mi bella... bebé...^000000 \nNo puedo encontrarla\nNo puedo ^FF0000encontrarla^000000..."
     },
     "SCtfBg": {
         "en-US": "A Susceptible Soldier",
@@ -1487,22 +1487,22 @@
     "SStfBg": {
         "en-US": "[A Susceptible Soldier]\nMurmur....\n^FF0000Munch^000000\nMunch\n^FF0000Murmur^000000...\nThe Damn ^BDBDBDhuh^000000\nMon..^BDBDBDmonster^000000...",
         "pt-BR": "[Soldado Bravo]\nRÁÁ... ^FF0000esmurra^000000. Toma essa! ^FF0000chuta^000000...\nSe não fossem esses malditos ^BDBDBDsoca^000000... argh! Monstros ^BDBDBDgolpeia^000000 horríveis...",
-        "es-ES": "[Un Soldado Susceptible]\n*Murmura…* \n^FF0000*Mastica*^000000\n*mastica.* \n^FF0000*Murmura…*^000000\nEl maldito^BDBDBDeh…^000000\nMon…^BDBDBDmonstruo^000000…"
+        "es-ES": "[Un Soldado Susceptible]\n*Murmura...* \n^FF0000*Mastica*^000000\n*mastica.* \n^FF0000*Murmura...*^000000\nEl maldito^BDBDBDeh...^000000\nMon...^BDBDBDmonstruo^000000..."
     },
     "SitfBg": {
         "en-US": "[A Susceptible Soldier]\nIt's all ... mine\n^BDBDBDIt ^000000 can ^BDBDBDall be mine...^000000\nMy...my precious ^BDBDBDtreasure...^000000\n^FF0000Murmur...^000000",
         "pt-BR": "[Soldado Bravo]\nTodos esses... ^BDBDBDchuta^000000 tesouros ^BDBDBDesmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seria meus... ^FF0000soca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nEs todo… mío. \n^BDBDBDTodo^000000 puede^BDBDBDser mío…^000000\nMi… mi precioso ^BDBDBDtesoro… ^000000\n^FF0000*Murmura…*^000000"
+        "es-ES": "[Un Soldado Susceptible]\nEs todo... mío. \n^BDBDBDTodo^000000 puede^BDBDBDser mío...^000000\nMi... mi precioso ^BDBDBDtesoro... ^000000\n^FF0000*Murmura...*^000000"
     },
     "SytfBg": {
         "en-US": "[A Susceptible Soldier]\nMurmur....\n^FF0000Munch^000000, Munch.\n^FF0000Murmur^000000...\nThe Damn ^BDBDBDhuh^000000Mon..^BDBDBDmonster...^000000",
         "pt-BR": "[Soldado Bravo]\nTodos esses... ^FF0000ataca^000000 tesouros ^FF0000esmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seria meus... ^BDBDBDsoca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\n*Murmura…* \n^FF0000*Mastica*^000000, *mastica.* \n^FF0000*Murmura^000000…*\nEl maldito^BDBDBDeh…^000000mon…^BDBDBDmonstruo…^000000"
+        "es-ES": "[Un Soldado Susceptible]\n*Murmura...* \n^FF0000*Mastica*^000000, *mastica.* \n^FF0000*Murmura^000000...*\nEl maldito^BDBDBDeh...^000000mon...^BDBDBDmonstruo...^000000"
     },
     "TCtfBg": {
         "en-US": "Hum... Hey, hello?",
         "pt-BR": "Er... Olá, como vai?",
-        "es-ES": "Mmm… Eh, ¿hola?"
+        "es-ES": "Mmm... Eh, ¿hola?"
     },
     "TStfBg": {
         "en-US": "- ^424242There is someone here. He seems to be muttering, but I can't hear him clearly. He doesn't look like the Archeologist Leiphen^000000 -",
@@ -1512,12 +1512,12 @@
     "TitfBg": {
         "en-US": "- ^424242He`s biting his nails and his fingertips are messed up.....^000000 -",
         "pt-BR": "- ^424242As mãos dele estão bem vermelhas de tantos socos desferidos...^000000 -",
-        "es-ES": "-^424242Se come las uñas y tiene lastimadas las puntas de los dedos…^000000-"
+        "es-ES": "-^424242Se come las uñas y tiene lastimadas las puntas de los dedos...^000000-"
     },
     "TytfBg": {
         "en-US": "[A Susceptible Soldier]\nMunch, Munch...\nMurmur...\nMy ^BDBDBD treasure...^000000\nMy ^BDBDBDprecious treasure...^000000\nIt's ^BDBDBDall mine...^000000",
         "pt-BR": "[Soldado Bravo]\nMeus tesouros... ^BDBDBDsoca^000000... Meus tesouros ^BDBDBDesmurra^000000... Todos eles... ^BDBDBDchuta^000000...",
-        "es-ES": "[Un Soldado Susceptible]\n*Mastica, mastica…* \nMurmura… \nMi ^BDBDBDtesoro…^000000\nMi ^BDBDBDprecioso tesoro…^000000\nEs ^BDBDBDtodo mío…^000000"
+        "es-ES": "[Un Soldado Susceptible]\n*Mastica, mastica...* \nMurmura... \nMi ^BDBDBDtesoro...^000000\nMi ^BDBDBDprecioso tesoro...^000000\nEs ^BDBDBDtodo mío...^000000"
     },
     "UCtfBg": {
         "en-US": "Have you seen anyone else around here?",
@@ -1527,7 +1527,7 @@
     "UStfBg": {
         "en-US": "Are... are you ok?",
         "pt-BR": "Ei... tá tudo bem?",
-        "es-ES": "¿Estás… estás bien?"
+        "es-ES": "¿Estás... estás bien?"
     },
     "UitfBg": {
         "en-US": "^BDBDBDA ^000000human? A ^BDBDBDhuuu^000000 man? There would ^BDBDBDbe^000000 nothing ^BDBDBDno such thing^000000!!!!!",
@@ -1542,7 +1542,7 @@
     "VCtfBg": {
         "en-US": "[A susceptible soldier]\n{0}\nDamn ^BDBDBDyou^000000! Don't ^BDBDBDlook ^000000at me ^BDBDBDlike^000000 that...^BDBDBDDon't^000000 look!",
         "pt-BR": "[Soldado Bravo]\n{0}\nVou te agredir ^BDBDBDgolpeia^000000 se você acha que eu ^BDBDBDespanca^000000 sou um ótário!",
-        "es-ES": "[Un soldado susceptible]\n{0}\n¡Te ^BDBDBDmaldigo^000000! No ^BDBDBDme ^000000mires de ^BDBDBDesa ^000000forma…^BDBDBD¡No me ^000000mires!"
+        "es-ES": "[Un soldado susceptible]\n{0}\n¡Te ^BDBDBDmaldigo^000000! No ^BDBDBDme ^000000mires de ^BDBDBDesa ^000000forma...^BDBDBD¡No me ^000000mires!"
     },
     "VStfBg": {
         "en-US": "Mmm I think it's better to leave.",
@@ -1552,7 +1552,7 @@
     "VitfBg": {
         "en-US": "[An Susceptible Soldier]\nDamn ^BDBDBDit^000000... ^BDBDBDDamn^000000it...\nMunch, Murmur... ^FF0000munch^000000, munch...",
         "pt-BR": "[Soldado Bravo]\nIsso! ^BDBDBDsoca^000000... ^BDBDBDgolpeia^000000...\nRááá... ^FF0000esmurra^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nMaldita^BDBDBDsea^000000… ^BDBDBDMaldita^000000sea…\n*Mastica, murmura…* ^FF0000*Mastica^000000, mastica…*"
+        "es-ES": "[Un Soldado Susceptible]\nMaldita^BDBDBDsea^000000... ^BDBDBDMaldita^000000sea...\n*Mastica, murmura...* ^FF0000*Mastica^000000, mastica...*"
     },
     "VytfBg": {
         "en-US": "[A Susceptible Soldier]\nDamn ^BDBDBDit^000000... ^BDBDBDDamn^000000 it...\nMunch, Murmur... ^FF0000munch^000000, munch...",
@@ -1562,22 +1562,22 @@
     "WCtfBg": {
         "en-US": "- ^424242I'm going to the other site the girl suggested...^000000 -",
         "pt-BR": "- ^424242Vou para o outro lugar que a garota sugeriu...^000000 -",
-        "es-ES": "-^424242Voy al otro sitio que sugirió la chica…^000000-"
+        "es-ES": "-^424242Voy al otro sitio que sugirió la chica...^000000-"
     },
     "WStfBg": {
         "en-US": "[An Susceptible Soldier]\nMunch, Murmur...\n^FF0000munch^000000, munch.^FF0000munch^000000...\nThe Damn^BDBDBDhuh^000000Mon..^BDBDBDMonster^000000...",
         "pt-BR": "[Soldado Bravo]\nTodos esses... ^FF0000ataca^000000 tesouros ^FF0000esmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seriam meus... ^BDBDBDsoca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*… \n^FF0000Ñom^000000, ñom. ^FF0000Ñom^000000…\nEl maldito^BDBDBDeh…^000000mon…^BDBDBDmonstruo^000000…"
+        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*... \n^FF0000Ñom^000000, ñom. ^FF0000Ñom^000000...\nEl maldito^BDBDBDeh...^000000mon...^BDBDBDmonstruo^000000..."
     },
     "WitfBg": {
         "en-US": "[An Susceptible Soldier]\nIt's all mine ^BDBDBDCould be^000000 all^BDBDBDmine^000000...\nMy... my treasure^BDBDBDall^000000of...my... ^FF0000munch,munch^000000...",
         "pt-BR": "[Soldado Bravo]\nTodos esses... ^BDBDBDataca^000000 tesouros ^BDBDBDesmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seriam meus... ^FF0000soca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nEs todo mío. ^BDBDBDPodría ser^000000 todo ^BDBDBDmío^000000…\nMi… mi tesoro. ^BDBDBDTodo^000000mi… ^FF0000ñom, ñom^000000…"
+        "es-ES": "[Un Soldado Susceptible]\nEs todo mío. ^BDBDBDPodría ser^000000 todo ^BDBDBDmío^000000...\nMi... mi tesoro. ^BDBDBDTodo^000000mi... ^FF0000ñom, ñom^000000..."
     },
     "WytfBg": {
         "en-US": "[An Susceptible Soldier]\nI ^BDBDBDI was... alive^000000\n^BDBDBDI was ^000000alive... Damn! ^BDBDBD Alive^000000 alive?!\nI !!! I am ^BDBDBDdead^000000, DEAD!!\nI can't forgive ^BDBDBDyou^000000!!!\nI will ^BDBDBDfind^000000 and ^BDBDBDkill^000000 you all!!\n^FF0000munch^000000... munch...",
         "pt-BR": "[Soldado Bravo]\nEu estava vivo ^BDBDBDsoca^000000...? Não! ^BDBDBDesmurra^000000...! Eu morri? ^BDBDBDchuta^000000! Argh!!!\nNão perdoarei ^BDBDBDespanca^000000!!! Rááá ^BDBDBDgolpeia^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nEstá… ^BDBDBDEstaba con… vida.^000000\n^BDBDBDCon^000000 vida… ¡Maldita sea! ^BDBDBD¡¿Vivo,^000000vivo?! \n¡¡Lo estoy!! Estoy ^BDBDBDmuerto^000000, ¡¡muerto!!\n¡¡No puedo ^BDBDBDperdonarte^000000!! \n¡¡Los ^BDBDBDencontraré^000000 y los ^BDBDBDmataré^000000 a todos!! \n^FF0000Ñom^000000… ñom…"
+        "es-ES": "[Un Soldado Susceptible]\nEstá... ^BDBDBDEstaba con... vida.^000000\n^BDBDBDCon^000000 vida... ¡Maldita sea! ^BDBDBD¡¿Vivo,^000000vivo?! \n¡¡Lo estoy!! Estoy ^BDBDBDmuerto^000000, ¡¡muerto!!\n¡¡No puedo ^BDBDBDperdonarte^000000!! \n¡¡Los ^BDBDBDencontraré^000000 y los ^BDBDBDmataré^000000 a todos!! \n^FF0000Ñom^000000... ñom..."
     },
     "XCtfBg": {
         "en-US": "- ^424242 It will still be better to keep our distance. Let's wait a day. I'll be back after sunrise.^000000 -",
@@ -1587,17 +1587,17 @@
     "XStfBg": {
         "en-US": "[An Susceptible Soldier]\nHa... Ha ^BDBDBDhu^000000, my ^BDBDBDtreasure^000000...\nMy treasure...\nFinally ^BDBDBDI^000000 got ^BDBDBDit^000000...\nFinally ^BDBDBDI^000000 got...",
         "pt-BR": "[Soldado Bravo]\nRÁÁ... ^FF0000esmurra^000000. Toma essa! ^FF0000chuta^000000...\nSe não fossem esses malditos ^BDBDBDsoca^000000... argh! Monstros ^BDBDBDgolpeia^000000 horríveis...",
-        "es-ES": "[Un Soldado Susceptible]\nJa… Ja, ^BDBDBDja^000000, mi ^BDBDBDtesoro^000000… \nMi tesoro…\nFinalmente ^BDBDBDlo^000000 ^BDBDBDtengo^000000… \nFinalmente ^BDBDBDlo^000000 conseguí…"
+        "es-ES": "[Un Soldado Susceptible]\nJa... Ja, ^BDBDBDja^000000, mi ^BDBDBDtesoro^000000... \nMi tesoro...\nFinalmente ^BDBDBDlo^000000 ^BDBDBDtengo^000000... \nFinalmente ^BDBDBDlo^000000 conseguí..."
     },
     "XitfBg": {
         "en-US": "[An Susceptible Soldier]\nWho^BDBDBDare^000000 you!\nWhy^BDBDBDare^000000 you here!\nDon't look my ^BDBDBDtreasure^000000 ^BDBDBDI^000000 can't let you!!!!!\nMunch, ^FF0000munch^000000, munch...",
         "pt-BR": "[Soldado Bravo]\nTodos esses... ^BDBDBDgolpeia^000000 tesouros ^BDBDBDesmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seria meus... ^FF0000soca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\n¡¿Quién ^BDBDBDeres^000000 tú?! \n¡¿Por qué ^BDBDBDestás^000000 aquí?!\nNo veas mi ^BDBDBDtesoro^000000. ¡¡^BDBDBDNo^000000 lo permitiré!!\nÑom, ^FF0000ñom^000000, ñom…"
+        "es-ES": "[Un Soldado Susceptible]\n¡¿Quién ^BDBDBDeres^000000 tú?! \n¡¿Por qué ^BDBDBDestás^000000 aquí?!\nNo veas mi ^BDBDBDtesoro^000000. ¡¡^BDBDBDNo^000000 lo permitiré!!\nÑom, ^FF0000ñom^000000, ñom..."
     },
     "XytfBg": {
         "en-US": "- ^424242He seems feel good. ..Good? Just let him. Come back after dawn.^000000 -",
         "pt-BR": "- ^424242Acho que não devo me aproximar ainda. Devo esperar um dia.^000000 -",
-        "es-ES": "-^424242Parece sentirse bien… ¿Bien? Déjalo ser. Vuelve después del amanecer.^000000-"
+        "es-ES": "-^424242Parece sentirse bien... ¿Bien? Déjalo ser. Vuelve después del amanecer.^000000-"
     },
     "YCtfBg": {
         "en-US": "What treasure?",
@@ -1612,17 +1612,17 @@
     "YitfBg": {
         "en-US": "[An Susceptible Soldier]\nThe Damn^BDBDBDhuh^000000Mon.. ^FF0000Ominous Assulters monsters^000000...\nThey take^BDBDBDmy^000000treasure^BDBDBDD....\nMy!! treasure^000000...!!",
         "pt-BR": "[Soldado Bravo]\nAqueles Agressores ^BDBDBDsoca^000000... ^FF0000chuta^000000!!!\nLevaram meus ^BDBDBDsoca^000000 tesouros...!!! Aaaaa ^BDBDBDesmurra^000000!!!",
-        "es-ES": "[Un Soldado Susceptible]\nEl maldito, ^BDBDBDeh…^000000 Mon… ^FF0000monstruo Atacante siniestro^000000…\nSe llevan^BDBDBDmi^000000 tesoro^BDBDBD… \n¡Mi! ¡Tesoro^000000…!"
+        "es-ES": "[Un Soldado Susceptible]\nEl maldito, ^BDBDBDeh...^000000 Mon... ^FF0000monstruo Atacante siniestro^000000...\nSe llevan^BDBDBDmi^000000 tesoro^BDBDBD... \n¡Mi! ¡Tesoro^000000...!"
     },
     "YytfBg": {
         "en-US": "[An Susceptible Soldier]\nMunch, Murmur... ^FF0000munch^000000, munch.\nMunch,  ^FF0000Munch^000000... Murmur...",
         "pt-BR": "[Soldado Bravo]\nRááá...  ^FF0000Rááá^000000...\nToma essa!  ^FF0000chuta^000000... Rááá...",
-        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*… ^FF0000Ñom^000000, ñom.\nÑom, ^FF0000ñom^000000… *Murmura*…"
+        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*... ^FF0000Ñom^000000, ñom.\nÑom, ^FF0000ñom^000000... *Murmura*..."
     },
     "ZCtfBg": {
         "en-US": "Let me find.",
         "pt-BR": "Deixe-me ajudar.",
-        "es-ES": "Déjame encontrar…"
+        "es-ES": "Déjame encontrar..."
     },
     "ZStfBg": {
         "en-US": "Okay.",
@@ -1632,7 +1632,7 @@
     "ZitfBg": {
         "en-US": "[An Susceptible Soldier]\nYes... It's mine ^BDBDBDhuh^000000... My ^BDBDBDtreasure^000000...\nI couldn't have ^BDBDBDit^000000...\nThe Damn ^BDBDBDmon^000000 monsters...\nMunch, ^FF0000Munch Munch Munch^000000...",
         "pt-BR": "[Soldado Bravo]\nAaaaa... Toma essa! ^BDBDBDchuta^000000... ^BDBDBDsoca^000000...\nComo essas tartarugas ^BDBDBDesmurra^000000... conseguem ^BDBDBDgolpeia^000000 me roubar...\nDesgraçadas ^FF0000espanca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nSí… Es mío, ^BDBDBDja^000000… Mi ^BDBDBDtesoro^000000…\nNo pude ^BDBDBDtenerlo^000000… \nLos malditos ^BDBDBDmon…^000000 monstruos…\nÑom, ^FF0000ñom, ñom, ñom^000000…"
+        "es-ES": "[Un Soldado Susceptible]\nSí... Es mío, ^BDBDBDja^000000... Mi ^BDBDBDtesoro^000000...\nNo pude ^BDBDBDtenerlo^000000... \nLos malditos ^BDBDBDmon...^000000 monstruos...\nÑom, ^FF0000ñom, ñom, ñom^000000..."
     },
     "ZytfBg": {
         "en-US": "[An Susceptible Soldier]\nYou?\nAre ^BDBDBDyou^000000 going?\nGo ^BDBDBDgo^000000 get it!\nMy ^BDBDBDtreasure^000000!\nYou can take it from them!\nMy ^BDBDBDtreasure^000000!",
@@ -1642,7 +1642,7 @@
     "aCtfBg": {
         "en-US": "[An Susceptible Soldier]\nAnd get revenge on those Ominous Assulters.\n^FF0000Revenge!!!^000000\n... Munch Munch...\nMy ^BDBDBDrevenge^000000.. Please...\nGet rid of 10... monsters!\nMunch, ^FF0000Munch Munch^000000...\nGet ^BDBDBDrid^000000 of them!!!",
         "pt-BR": "[Soldado Bravo]\nEu quero vingança! ^FF0000golpeia^000000... Rááá... ^BDBDBDesmurra^000000...\nDez... Elimine 10! ^FF0000chuta^000000... Agressores ^BDBDBDsoca^000000!!!",
-        "es-ES": "[Un Soldado Susceptible]\nY véngate de los Atacantes Siniestros. \n^FF0000Venganza!!!^000000\n… Ñom, ñom… \nMi ^BDBDBDvenganza^000000… Por favor…\n¡Elimina 10… monstruos! \nÑom, ^FF0000ñom, ñom^000000… \n¡^BDBDBDDeshazte^000000 de ellos!"
+        "es-ES": "[Un Soldado Susceptible]\nY véngate de los Atacantes Siniestros. \n^FF0000Venganza!!!^000000\n... Ñom, ñom... \nMi ^BDBDBDvenganza^000000... Por favor...\n¡Elimina 10... monstruos! \nÑom, ^FF0000ñom, ñom^000000... \n¡^BDBDBDDeshazte^000000 de ellos!"
     },
     "aStfBg": {
         "en-US": "- ^424242Narin said, I can get some ^0000CDShabby_Metal_Chip^424242 from here, it would be enough.\n^0000CDLet me prepare^424242 5 pieces.^000000 -\n- ^0000CDI need to get rid of 10 ^424242Ominous Assulters ^0000CDfor the^424242 man.^000000 -",
@@ -1657,7 +1657,7 @@
     "aytfBg": {
         "en-US": "[An Susceptible Soldier]\n^FF0000My treasure... My revenge...\nIt`s not enough!!!^000000",
         "pt-BR": "[Soldado Bravo]\n^FF0000Meu... tesouro...\nminha... VINGANÇA!!!^000000",
-        "es-ES": "[Un Soldado Susceptible]\n^FF0000Mi tesoro… Mi venganza…\n¡No es suficiente!^000000"
+        "es-ES": "[Un Soldado Susceptible]\n^FF0000Mi tesoro... Mi venganza...\n¡No es suficiente!^000000"
     },
     "bCtfBg": {
         "en-US": "- ^424242Did I forget something? ^0000CDShabby_Metal_Chip 5pieses ^424242and, ^0000CDkill Ominous Assulters 10 ^424242monsters.^000000 -",
@@ -1667,7 +1667,7 @@
     "bStfBg": {
         "en-US": "[An Susceptible Soldier]\nHey!!!\nWhy do you have ^BDBDBDthat^000000 much stuff?\nWhat ^BDBDBDare^000000you going to do... do ^BDBDBDsomething^000000 to me!!!",
         "pt-BR": "[Soldado Bravo]\nQUÊ!!! Você tem ^BDBDBDchuta^000000 muitos itens ^BDBDBDchuta^000000 na mochila!!!!!",
-        "es-ES": "[Un Soldado Susceptible]\n¡Oye! \n¿Por qué tienes ^BDBDBDtantas^000000 cosas? \n¡¿Acaso ^BDBDBDvas^000000 a hacerme… hacerme ^BDBDBDalgo^000000a mí?!"
+        "es-ES": "[Un Soldado Susceptible]\n¡Oye! \n¿Por qué tienes ^BDBDBDtantas^000000 cosas? \n¡¿Acaso ^BDBDBDvas^000000 a hacerme... hacerme ^BDBDBDalgo^000000a mí?!"
     },
     "bitfBg": {
         "en-US": "- ^424242Why get so angry? Let's empty the bag anyway.^000000 -",
@@ -1677,7 +1677,7 @@
     "bytfBg": {
         "en-US": "[An Susceptible Soldier]\nDid you get revenge?\nOn those ^BDBDBDterrible^000000 monsters?\nAnd my treasure...\n^FF0000Munch^000000, Munch...\nYou brought ^BDBDBDmy^000000 treasure?",
         "pt-BR": "[Soldado Bravo]\nVocê se vingou? ^BDBDBDchuta^000000\nE o meu tesouro... ^FF0000esmurra^000000... Cadê o meu ^BDBDBDgolpeia^000000 tesouro?",
-        "es-ES": "[Un Soldado Susceptible]\n¿Te vengaste? \n¿De los ^BDBDBDterribles^000000 monstruos?\nY mi tesoro… \n^FF0000Ñom^000000, ñom… \n¿Trajiste ^BDBDBDmi^000000 tesoro?"
+        "es-ES": "[Un Soldado Susceptible]\n¿Te vengaste? \n¿De los ^BDBDBDterribles^000000 monstruos?\nY mi tesoro... \n^FF0000Ñom^000000, ñom... \n¿Trajiste ^BDBDBDmi^000000 tesoro?"
     },
     "cCtfBg": {
         "en-US": "[An Susceptible Soldier]\n^FF0000Give me^000000!\nMy treasure!",
@@ -1687,12 +1687,12 @@
     "cStfBg": {
         "en-US": "[An Susceptible Soldier]\nHa... Haha... Haha\n^BDBDBDha^000000 ha...... Haha ^BDBDBDha^000000 hahaha......\nIt's shiny... shiny... It's pretty, so pretty.",
         "pt-BR": "[Soldado Bravo]\nIsso... isso... meu tesouro ^BDBDBDalisa^000000......\nEle brilha... brilha tão lindo... tão esplendoroso.",
-        "es-ES": "[Un Soldado Susceptible]\nJa… Ja, ja… Ja, ja, \n^BDBDBDja,^000000 ja… Ja, ja, ^BDBDBDja,^000000 ja, ja, ja…\nEs brillante… brillante… Es bonito, muy bonito."
+        "es-ES": "[Un Soldado Susceptible]\nJa... Ja, ja... Ja, ja, \n^BDBDBDja,^000000 ja... Ja, ja, ^BDBDBDja,^000000 ja, ja, ja...\nEs brillante... brillante... Es bonito, muy bonito."
     },
     "citfBg": {
         "en-US": "[An Susceptible Soldier]\nTake this.\nI don't need it.\nI have my treasure ^BDBDBDnow^000000... It's shiny... Pretty.",
         "pt-BR": "[Soldado Bravo]\nEu não preciso mais desse minério.\nMeu tesouro brilha mais ^BDBDBDesfrega^000000... brilho... bonito.",
-        "es-ES": "[Un Soldado Susceptible]\nToma esto. \nNo lo necesito.\nYa tengo mi ^BDBDBDtesoro^000000… Es brillante… Bonito."
+        "es-ES": "[Un Soldado Susceptible]\nToma esto. \nNo lo necesito.\nYa tengo mi ^BDBDBDtesoro^000000... Es brillante... Bonito."
     },
     "cytfBg": {
         "en-US": "- ^424242As exchange, I took the Illusion Stone. How could he have become obsessed with such empty garbage without seeing anything really valuable?^000000 -",
@@ -1707,7 +1707,7 @@
     "dStfBg": {
         "en-US": "[An Susceptible Soldier]\nMy treasure... It's all ^BDBDBDmy^000000 treasure.\nNobody can't ^BDBDBDget^000000 this...\nMunch, ^FF0000Muunch,^000000... Munch... ^FF0000Muunch^000000...",
         "pt-BR": "[Soldado Bravo]\nMeu tesouro... ^BDBDBDchuta^000000.\nMeu lindo ^BDBDBDsoca^000000 e belo... ^FF0000esmurra^000000... tesouro... ^FF0000golpeia^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nMi tesoro… Todo es ^BDBDBDmi^000000tesoro.\nNadie puede ^BDBDBDconseguir^000000 esto… \nÑom, ^FF0000ñom^000000… Ñom… ^FF0000Ñom^000000…"
+        "es-ES": "[Un Soldado Susceptible]\nMi tesoro... Todo es ^BDBDBDmi^000000tesoro.\nNadie puede ^BDBDBDconseguir^000000 esto... \nÑom, ^FF0000ñom^000000... Ñom... ^FF0000Ñom^000000..."
     },
     "ditfBg": {
         "en-US": "My baby, I lost. I lost my baby. Where are you?",
@@ -1717,7 +1717,7 @@
     "dytfBg": {
         "en-US": "My baby? Baby? I lost, lost, my daughter... baby. Where... where?",
         "pt-BR": "Minha filha? Minha filha perdida... Onde... você está?",
-        "es-ES": "¿Mi bebé? ¿Bebé? Perdí… perdí a mi hija… Bebé. ¿Dónde…? ¿Dónde?"
+        "es-ES": "¿Mi bebé? ¿Bebé? Perdí... perdí a mi hija... Bebé. ¿Dónde...? ¿Dónde?"
     },
     "eCtfBg": {
         "en-US": "I can't find. My baby. Gone. My. lovely daughter.",
@@ -1727,12 +1727,12 @@
     "eStfBg": {
         "en-US": "I can't find. Gone... My daughter, my... daughter? My? baby...",
         "pt-BR": "Minha filha... minha... filha?",
-        "es-ES": "No la encuentro. Se fue… Mi hija, mi… ¿hija? ¿Mi… bebé…?"
+        "es-ES": "No la encuentro. Se fue... Mi hija, mi... ¿hija? ¿Mi... bebé...?"
     },
     "eitfBg": {
         "en-US": "My baby is gone... My baby. My lovely baby.",
         "pt-BR": "Minha filha... desaparecida. Minha querida filha.",
-        "es-ES": "Mi bebé se fue… Mi bebé. Mi adorable bebé."
+        "es-ES": "Mi bebé se fue... Mi bebé. Mi adorable bebé."
     },
     "eytfBg": {
         "en-US": "She really liked the doll that looked just like her. The doll is gone. My daughter is gone.",
@@ -1742,32 +1742,32 @@
     "fCtfBg": {
         "en-US": "Munch... Muunch... Munch... Muunch...",
         "pt-BR": "Tome isso... Rááá... e mais isso...",
-        "es-ES": "Ñom… Ñom… Ñom… Ñom…"
+        "es-ES": "Ñom... Ñom... Ñom... Ñom..."
     },
     "fStfBg": {
         "en-US": "My, treasure... Munch, can't forgive...",
         "pt-BR": "Meu, meu tesouro... não posso te perdoar...",
-        "es-ES": "Mi tesoro… Ñom, no puedo perdonar…"
+        "es-ES": "Mi tesoro... Ñom, no puedo perdonar..."
     },
     "fitfBg": {
         "en-US": "Revenge... Revenge... Munch... Muunch... Munch... Muunch...",
         "pt-BR": "Vingança... eu vou me vingar...",
-        "es-ES": "Venganza… Venganza… Ñom… Ñom… Ñom… Ñom…"
+        "es-ES": "Venganza... Venganza... Ñom... Ñom... Ñom... Ñom..."
     },
     "fytfBg": {
         "en-US": "I will payback... to... Ominous Assulters... They took my treasure!",
         "pt-BR": "Malditos... vocês roubaram meu tesouro!",
-        "es-ES": "Me vengaré… de… Los Atacantes Siniestros… ¡Se llevaron mi tesoro!"
+        "es-ES": "Me vengaré... de... Los Atacantes Siniestros... ¡Se llevaron mi tesoro!"
     },
     "gCtfBg": {
         "en-US": "My treasure, if the Ominous Assulters were gone... All, Munch... Muunch....",
         "pt-BR": "Tartarugas sinistras...",
-        "es-ES": "Mi tesoro. Si Atacantes Siniestros no estuvieran… Todos… *Mastica…* *Mastica…*"
+        "es-ES": "Mi tesoro. Si Atacantes Siniestros no estuvieran... Todos... *Mastica...* *Mastica...*"
     },
     "gStfBg": {
         "en-US": "Munch... Muunch, Treasure... My treasure... Munch... Muunch...",
         "pt-BR": "Meu tesouro...",
-        "es-ES": "Ñom… *Mastica…* Tesoro… Mi tesoro… Ñom… Ñom…"
+        "es-ES": "Ñom... *Mastica...* Tesoro... Mi tesoro... Ñom... Ñom..."
     },
     "gitfBg": {
         "en-US": "Archeologist Leiphen",
@@ -1782,7 +1782,7 @@
     "hCtfBg": {
         "en-US": "I'm thirsty... So thirsty.",
         "pt-BR": "Estou com sede... minha garganta....",
-        "es-ES": "Tengo sed… Mucha sed."
+        "es-ES": "Tengo sed... Mucha sed."
     },
     "hStfBg": {
         "en-US": "- ^424242I think I saw something.^000000 -",
@@ -1807,17 +1807,17 @@
     "iStfBg": {
         "en-US": "Ha, ha, ha, ha , ha, ha, aha...",
         "pt-BR": "Hahahah... hahah...",
-        "es-ES": "Ja, ja, ja, ja, ja, ja, ja, ja…"
+        "es-ES": "Ja, ja, ja, ja, ja, ja, ja, ja..."
     },
     "iitfBg": {
         "en-US": "Ahha... ha... boohoo...",
         "pt-BR": "Hahah... haha... hahahaha...",
-        "es-ES": "Ja, ja… Ja… Bú…"
+        "es-ES": "Ja, ja... Ja... Bú..."
     },
     "iytfBg": {
         "en-US": "- ^424242I have a strange feeling...^000000 -",
         "pt-BR": "- ^424242Que sensação estranha...^000000 -",
-        "es-ES": "-^424242Tengo una sensación extraña…^000000-"
+        "es-ES": "-^424242Tengo una sensación extraña...^000000-"
     },
     "jCtfBg": {
         "en-US": "Fragile Woman",
@@ -1827,7 +1827,7 @@
     "jStfBg": {
         "en-US": "[Fragile Woman]\nHungry.\nI'm hungry so I can't move..\nPlease... please have mercy.\nI've been starving for too long...",
         "pt-BR": "[Moça Debilitada]\nEstou com fome.\nPor favor... Por favor, tenha piedade de mim...",
-        "es-ES": "[La Mujer Frágil]\nTengo mucha hambre. \nTengo tanta hambre que no puedo moverme…\nPor favor… por favor, ten piedad. \nLlevo demasiado tiempo muriéndome de hambre…"
+        "es-ES": "[La Mujer Frágil]\nTengo mucha hambre. \nTengo tanta hambre que no puedo moverme...\nPor favor... por favor, ten piedad. \nLlevo demasiado tiempo muriéndome de hambre..."
     },
     "jitfBg": {
         "en-US": "- ^424242Oops. It's not the Archeologist Leiphen for sure.^000000 -",
@@ -1862,7 +1862,7 @@
     "lCtfBg": {
         "en-US": "[Fragile Woman]\nI haven't had a meal in three days.\nI'm going to die.\nPlease help me... Please.",
         "pt-BR": "[Moça Debilitada]\nNão comi nada hoje, nem ontem, nem anteontem.\nEu vou morrer. Tenha misericórdia. Por favor...",
-        "es-ES": "[La Mujer Frágil]\nNo he comido nada en tres días.\nVoy a morir. \nPor favor, ayúdame… Por favor."
+        "es-ES": "[La Mujer Frágil]\nNo he comido nada en tres días.\nVoy a morir. \nPor favor, ayúdame... Por favor."
     },
     "lStfBg": {
         "en-US": "I'll help you. I`ll give you something to eat. Are there any animals I can hunt around?",
@@ -1877,7 +1877,7 @@
     "lytfBg": {
         "en-US": "So what do you want...",
         "pt-BR": "Você... tá ouvindo?",
-        "es-ES": "Entonces, ¿qué quieres…?"
+        "es-ES": "Entonces, ¿qué quieres...?"
     },
     "mCtfBg": {
         "en-US": "Please talk clearly!",
@@ -1892,7 +1892,7 @@
     "mitfBg": {
         "en-US": "Haha... I can't communicate... I want to go home.",
         "pt-BR": "Er... acho que não vai adiantar.",
-        "es-ES": "Ja, ja… No puedo comunicarme… Quiero irme a casa."
+        "es-ES": "Ja, ja... No puedo comunicarme... Quiero irme a casa."
     },
     "mytfBg": {
         "en-US": "- ^424242She told me the other place, ^0000CDthe other ^000000place. ^0000CDTurtle Palace^424242 is it, Nearby?^000000 -",
@@ -1907,7 +1907,7 @@
     "nStfBg": {
         "en-US": "Archeologist Leiphen : Is this the place? I've been here a few times...",
         "pt-BR": "Leiphen: É por aqui? Mas já vim para cá...",
-        "es-ES": "Arqueólogo Leiphen: ¿Este es el lugar? Estuve aquí varias veces…"
+        "es-ES": "Arqueólogo Leiphen: ¿Este es el lugar? Estuve aquí varias veces..."
     },
     "nitfBg": {
         "en-US": "Yes. Just right here. Hello, are you ok?",
@@ -1917,27 +1917,27 @@
     "nytfBg": {
         "en-US": "[Fragile Woman]\nI'm hungry.\nI've been starving for a long time...\nI'm going to die.\nPlease, please help me.",
         "pt-BR": "[Moça Debilitada]\nEstou com fome. Estou com tanta fome. Vou morrer assim... Por favor, por favor me ajude.",
-        "es-ES": "[La Mujer Frágil]\nTengo hambre. \nEstado con hambre hace tanto tiempo… \nVoy a morir. \nPor favor, ayúdame."
+        "es-ES": "[La Mujer Frágil]\nTengo hambre. \nEstado con hambre hace tanto tiempo... \nVoy a morir. \nPor favor, ayúdame."
     },
     "oCtfBg": {
         "en-US": "Well, This is the woman here.. Professor Leiphen.",
         "pt-BR": "Ainda com fome... Leiphen, é essa moça aqui.",
-        "es-ES": "Bueno, esta de aquí es la mujer… Profesor Leiphen."
+        "es-ES": "Bueno, esta de aquí es la mujer... Profesor Leiphen."
     },
     "oStfBg": {
         "en-US": "[Archeologist Leiphen]\n......um.. Hey?",
         "pt-BR": "[Arqueólogo Leiphen]\n......Er, viajante.",
-        "es-ES": "[Arqueólogo Leiphen]\n…Em… ¿Oye?"
+        "es-ES": "[Arqueólogo Leiphen]\n...Em... ¿Oye?"
     },
     "oitfBg": {
         "en-US": "I thought it would be difficult to communicate... Let's go to the other people?",
         "pt-BR": "Podemos te ajudar com comida.",
-        "es-ES": "Pensé que sería difícil comunicarse… ¿Vamos con los demás?"
+        "es-ES": "Pensé que sería difícil comunicarse... ¿Vamos con los demás?"
     },
     "oytfBg": {
         "en-US": "[Archeologist Leiphen]\n......",
         "pt-BR": "[Arqueólogo Leiphen]\n......",
-        "es-ES": "[Arqueólogo Leiphen]\n……"
+        "es-ES": "[Arqueólogo Leiphen]\n......"
     },
     "pCtfBg": {
         "en-US": "[Archeologist Leiphen]\nWho are you talking to now?\nNobody is here except two of us.",
@@ -1952,12 +1952,12 @@
     "pitfBg": {
         "en-US": "[Archeologist Leiphen]\nWhat... is... this... sound?",
         "pt-BR": "[Arqueólogo Leiphen]\nO que... que som... é esse...",
-        "es-ES": "[Arqueólogo Leiphen]\n¿Qué… es… este sonido…?"
+        "es-ES": "[Arqueólogo Leiphen]\n¿Qué... es... este sonido...?"
     },
     "pytfBg": {
         "en-US": "I can feel it.",
         "pt-BR": "Te achei.",
-        "es-ES": "Puedo sentirlo…"
+        "es-ES": "Puedo sentirlo..."
     },
     "qCtfBg": {
         "en-US": "Breathing!",
@@ -1997,7 +1997,7 @@
     "rytfBg": {
         "en-US": "[Girl]\nPut this in your mouth.\nShh, be quiet!",
         "pt-BR": "[Garota]\nColoque isso na sua boca. Shh, fiquem quietos!",
-        "es-ES": "[Chica]\nMétete esto en la boca. \nShh… ¡ten silencio!"
+        "es-ES": "[Chica]\nMétete esto en la boca. \nShh... ¡ten silencio!"
     },
     "sCtfBg": {
         "en-US": "Hey, you`re the girl? What is that, a shell?",
@@ -2022,7 +2022,7 @@
     "tCtfBg": {
         "en-US": "Archeologist Leiphen : ....",
         "pt-BR": "Leiphen: Huf...",
-        "es-ES": "Arqueólogo Leiphen: …"
+        "es-ES": "Arqueólogo Leiphen: ..."
     },
     "tStfBg": {
         "en-US": "Where are they?",
@@ -2062,7 +2062,7 @@
     "vCtfBg": {
         "en-US": "I saw living beings?",
         "pt-BR": "Cadê os vivos?",
-        "es-ES": "Vi a los seres vivos…"
+        "es-ES": "Vi a los seres vivos..."
     },
     "vStfBg": {
         "en-US": "I can sense them!",
@@ -2077,12 +2077,12 @@
     "vytfBg": {
         "en-US": "[Girl]\nNow I can't see either of you... But don't go.\nI'm speaking in a low voice.",
         "pt-BR": "[Garota]\nEles estão indo embora.",
-        "es-ES": "[Chica]\nAhora no puedo ver a ninguno de los dos… Pero no te vayas. Estoy hablando en voz baja."
+        "es-ES": "[Chica]\nAhora no puedo ver a ninguno de los dos... Pero no te vayas. Estoy hablando en voz baja."
     },
     "wCtfBg": {
         "en-US": "Girl : ......Are you here?",
         "pt-BR": "Garota: ......certo...",
-        "es-ES": "Chica: ¿…Estás aquí?"
+        "es-ES": "Chica: ¿...Estás aquí?"
     },
     "wStfBg": {
         "en-US": "[Girl]\nYou`re both okay, right?\nI'm speaking it once, so listen carefully.",
@@ -2097,7 +2097,7 @@
     "wytfBg": {
         "en-US": "[Girl]\nThe place first time you met me...\nRemember?\nI'll be waiting.",
         "pt-BR": "[Garota]\nVoltem para o lugar onde nos encontramos.",
-        "es-ES": "[Chica]\nEl lugar donde me viste por primera vez… \n¿Lo recuerdas? \nEstaré esperando."
+        "es-ES": "[Chica]\nEl lugar donde me viste por primera vez... \n¿Lo recuerdas? \nEstaré esperando."
     },
     "xCtfBg": {
         "en-US": "They disappeared. The live people.",
@@ -2107,7 +2107,7 @@
     "xStfBg": {
         "en-US": "No, my baby...",
         "pt-BR": "Não... meu bebê...",
-        "es-ES": "No, mi bebé…"
+        "es-ES": "No, mi bebé..."
     },
     "xitfBg": {
         "en-US": "Everyone here is dead.",
@@ -2117,7 +2117,7 @@
     "xytfBg": {
         "en-US": "My treasure...",
         "pt-BR": "Meu tesouro...",
-        "es-ES": "Mi tesoro…"
+        "es-ES": "Mi tesoro..."
     },
     "yCtfBg": {
         "en-US": "Let's go back.",
@@ -2127,7 +2127,7 @@
     "yStfBg": {
         "en-US": "I'm hungry... I am so hungry.",
         "pt-BR": "Estou com fome...",
-        "es-ES": "Tengo hambre… Tengo mucha hambre."
+        "es-ES": "Tengo hambre... Tengo mucha hambre."
     },
     "yitfBg": {
         "en-US": "As always.",
@@ -2137,7 +2137,7 @@
     "yytfBg": {
         "en-US": "All is death...",
         "pt-BR": "Está tudo morto...",
-        "es-ES": "Todo es muerte…"
+        "es-ES": "Todo es muerte..."
     },
     "zCtfBg": {
         "en-US": "We don't have choice, just believe her. Let's go upward!",
@@ -2157,17 +2157,17 @@
     "zytfBg": {
         "en-US": "[Fragile Woman]\nI'm hungry.\nCan't move.\nPlease... please have mercy.\nI've been starving for too long...",
         "pt-BR": "[Moça Debilitada]\nEstou com fome.\nPor favor... Por favor, tenha piedade de mim...",
-        "es-ES": "[La Mujer Frágil]\nTengo hambre. \nNo puedo moverme.\nPor favor… por favor, ten piedad. \nLlevo demasiado tiempo muriéndome de hambre…"
+        "es-ES": "[La Mujer Frágil]\nTengo hambre. \nNo puedo moverme.\nPor favor... por favor, ten piedad. \nLlevo demasiado tiempo muriéndome de hambre..."
     },
     "0CtfBg": {
         "en-US": "[Fragile Woman]\nI'm hungry... Hungry.\nI'm going to die.",
         "pt-BR": "[Moça Debilitada]\nEstou com fome... estou com fome. Vou morrer de fome.",
-        "es-ES": "[La Mujer Frágil]\nTengo hambre… Tengo mucha hambre. \nVoy a morir."
+        "es-ES": "[La Mujer Frágil]\nTengo hambre... Tengo mucha hambre. \nVoy a morir."
     },
     "0StfBg": {
         "en-US": "[Fragile Woman]\nI can eat anything in front of me.\nFrom head to teo...",
         "pt-BR": "[Moça Debilitada]\nEu quero mastigar qualquer coisa na minha frente. Da cabeça aos pés...",
-        "es-ES": "[La Mujer Frágil]\nPodría comer cualquier cosa que se me cruce. \nDe pies a cabeza…"
+        "es-ES": "[La Mujer Frágil]\nPodría comer cualquier cosa que se me cruce. \nDe pies a cabeza..."
     },
     "0itfBg": {
         "en-US": "- ^424242It should be closer. Maybe it will be quieter after sunrise.^000000 -",
@@ -2177,7 +2177,7 @@
     "0ytfBg": {
         "en-US": "[Fragile Woman]\nMeat... Easily digestible meat.\nI'm very hungry. I'm very hungry.\nToo good.\nMeat...\nI'm hungry. I want more.\nDelicious. Very delicious.",
         "pt-BR": "[Moça Debilitada]\nCarne... carne de fácil digestão. Estou com fome...\nEstou com fome. Quero comer mais, mais.",
-        "es-ES": "[La Mujer Frágil]\nCarne… Carne fácil de digerir. \nTengo mucha hambre. Tengo mucha hambre. \nDemasiado bueno. \nCarne…\nTengo hambre. Quiero más. \nDelicioso. Muy delicioso."
+        "es-ES": "[La Mujer Frágil]\nCarne... Carne fácil de digerir. \nTengo mucha hambre. Tengo mucha hambre. \nDemasiado bueno. \nCarne...\nTengo hambre. Quiero más. \nDelicioso. Muy delicioso."
     },
     "1CtfBg": {
         "en-US": "Staring happily at the rotten meat.... I feel sorry.",
@@ -2187,7 +2187,7 @@
     "1StfBg": {
         "en-US": "- ^424242Still... satisfied. Let's come back after dawn.^000000 -",
         "pt-BR": "- ^424242Bom... ela parece satisfeita. Vamos voltar amanhã.^000000 -",
-        "es-ES": "-^424242Aún así… es satisfactorio. Volvamos después del amanecer.^000000-"
+        "es-ES": "-^424242Aún así... es satisfactorio. Volvamos después del amanecer.^000000-"
     },
     "1itfBg": {
         "en-US": "[Fragile Woman]\nI'm hungry.\nHelp me.\nPlease.\nHungry.",
@@ -2197,12 +2197,12 @@
     "1ytfBg": {
         "en-US": "How.. can I help you?",
         "pt-BR": "Como posso ajudar?",
-        "es-ES": "¿Cómo… puedo ayudarte?"
+        "es-ES": "¿Cómo... puedo ayudarte?"
     },
     "2CtfBg": {
         "en-US": "[Fragile Woman]\nHelp... me?\nReally?\nYou won't let me die?",
         "pt-BR": "[Moça Debilitada]\n...ajudar... ajuda? Sério?",
-        "es-ES": "[La Mujer Frágil]\n¿Ayudar…me? \n¿De verdad? \n¿No me dejarás morir?"
+        "es-ES": "[La Mujer Frágil]\n¿Ayudar...me? \n¿De verdad? \n¿No me dejarás morir?"
     },
     "2StfBg": {
         "en-US": "[Fragile Woman]\nThen please hunt turtles.\n^0000CDOminous Permeter , Ominous Solider, Ominous Freezer, Ominous Heater. 10 each.^000000\nAnd bring me 10 Rotten Meat.",
@@ -2222,7 +2222,7 @@
     "3CtfBg": {
         "en-US": "- ^424242Archeologist Leiphen couldn't eat... But according to Narin, she will be happy. I can only get the rotten meat in here.^000000 -",
         "pt-BR": "- ^424242Nalin disse que isso deve fazê-la feliz.^000000 -",
-        "es-ES": "-^424242El Arqueólogo Leiphen no pudo comer… Pero según Narin, ella será feliz. Solo puedo conseguir carne podrida aquí.^000000-"
+        "es-ES": "-^424242El Arqueólogo Leiphen no pudo comer... Pero según Narin, ella será feliz. Solo puedo conseguir carne podrida aquí.^000000-"
     },
     "3StfBg": {
         "en-US": "I will take it.",
@@ -2242,7 +2242,7 @@
     "4CtfBg": {
         "en-US": "[Fragile Woman]\n^FF0000I can eat anything. Really anything. I can eat... *Champ....champ...*^000000",
         "pt-BR": "[Moça Debilitada]\n^FF0000Qualquer coisa, me dê qualquer coisa para comer, eu como qualquer coisa.^000000",
-        "es-ES": "[La Mujer Frágil]\n^FF0000Podría comer cualquier cosa. Realmente cualquier cosa. Puedo comer… *Muerde… muerde…*^000000"
+        "es-ES": "[La Mujer Frágil]\n^FF0000Podría comer cualquier cosa. Realmente cualquier cosa. Puedo comer... *Muerde... muerde...*^000000"
     },
     "4StfBg": {
         "en-US": "[Fragile Woman]\nThank you. I will die if I can't eat meat.\nI need to eat meat.",
@@ -2267,7 +2267,7 @@
     "5StfBg": {
         "en-US": "- ^424242I brought it... but it didn't work. Let's organize the bag and come back.^000000 -",
         "pt-BR": "- ^424242Melhor eu esvaziar meu inventário e aliviar a carga.^000000 -",
-        "es-ES": "-^424242La traje… pero no funcionó. Organicemos el bolso y volvamos.^000000-"
+        "es-ES": "-^424242La traje... pero no funcionó. Organicemos el bolso y volvamos.^000000-"
     },
     "5itfBg": {
         "en-US": "I`m back. I finished the hunting.",
@@ -2277,12 +2277,12 @@
     "5ytfBg": {
         "en-US": "[Fragile Woman]\nAh..ah.. the smell is nice.\nMeat smell.\nIt smells delicious.\nIt looks so delicious.\nPlease give it to me.\nHungry... Hurry.",
         "pt-BR": "[Moça Debilitada]\nAh, o cheiro de carne. O cheiro de carne.\nDeve ser delicioso. Deve ser tão delicioso. Por favor, me dê rapidamente. Estou com fome. Depressa.",
-        "es-ES": "[La Mujer Frágil]\nAh… ah… qué olor tan agradable. \nOlor a carne.\nHuele delicioso. \nSe ve deliciosa. \nPor favor, dámela. \nHambre… Deprisa…"
+        "es-ES": "[La Mujer Frágil]\nAh... ah... qué olor tan agradable. \nOlor a carne.\nHuele delicioso. \nSe ve deliciosa. \nPor favor, dámela. \nHambre... Deprisa..."
     },
     "6CtfBg": {
         "en-US": "...It smells rotten...",
         "pt-BR": "...É um cheiro podre...",
-        "es-ES": "…Huele a podrido…"
+        "es-ES": "...Huele a podrido..."
     },
     "6StfBg": {
         "en-US": "[Fragile Woman]\nDelicious.\nIt's so delicious.\nHappy.\nIt's really good.",
@@ -2292,22 +2292,22 @@
     "6itfBg": {
         "en-US": "Woman : chomp chomp, munch....",
         "pt-BR": "chomp, chomp, chomp.",
-        "es-ES": "Mujer: *Muerden… muerden… mastican…*"
+        "es-ES": "Mujer: *Muerden... muerden... mastican...*"
     },
     "6ytfBg": {
         "en-US": "- ^424242...She`s eating it while holding it in her bare hands...^000000 -",
         "pt-BR": "- ^424242.....Ela está mordendo as próprias mãos também.^000000 -",
-        "es-ES": "-^424242…Ella lo come mientras la sostiene con sus manos…^000000-"
+        "es-ES": "-^424242...Ella lo come mientras la sostiene con sus manos...^000000-"
     },
     "7CtfBg": {
         "en-US": "[Fragile Woman]\nAhah, I'm full.\nI'm not going to die now.\nI'm full.\nHere, I give you this.\nCan't eat anymore..",
         "pt-BR": "[Moça Debilitada]\nAh, agora estou cheia. Não vou morrer mais. Estou cheia agora.\nVou te dar isso...",
-        "es-ES": "[La Mujer Frágil]\nAhhhhh, estoy llena. \nAhora no moriré. \nEstoy llena.\nTen, toma esto. \nPero no puedo comer…"
+        "es-ES": "[La Mujer Frágil]\nAhhhhh, estoy llena. \nAhora no moriré. \nEstoy llena.\nTen, toma esto. \nPero no puedo comer..."
     },
     "7StfBg": {
         "en-US": "...An Illusion Stone?",
         "pt-BR": "...Uma Pedra Ilusional?",
-        "es-ES": "¿…Una Piedra de ilusión?"
+        "es-ES": "¿...Una Piedra de ilusión?"
     },
     "7itfBg": {
         "en-US": "[Fragile Woman]\nI ate everything.\nSorry.\nThat's only one thing I can give to you.",
@@ -2337,17 +2337,17 @@
     "8ytfBg": {
         "en-US": "[Fragile Woman]\nI'm hungry...\nI can eat anything.",
         "pt-BR": "[Moça Debilitada]\nEstou com fome... quero comer alguma coisa.",
-        "es-ES": "[La Mujer Frágil]\nTengo hambre… \nPodría comer cualquier cosa."
+        "es-ES": "[La Mujer Frágil]\nTengo hambre... \nPodría comer cualquier cosa."
     },
     "9CtfBg": {
         "en-US": "[Fragile Woman]\nI want to eat a large amount of food {0}...",
         "pt-BR": "[Moça Debilitada]\nQueria comer {0}...",
-        "es-ES": "[La Mujer Frágil]\nQuiero comer la mayor cantidad de comida {0}…"
+        "es-ES": "[La Mujer Frágil]\nQuiero comer la mayor cantidad de comida {0}..."
     },
     "9StfBg": {
         "en-US": "[Fragile Woman]\nAh... what am I saying?\nI can eat the rotten meat, please help me.",
         "pt-BR": "[Moça Debilitada]\nAh... mas eu prefiro comer carne estragada.",
-        "es-ES": "[La Mujer Frágil]\nAh… ¿Qué estoy diciendo? \nPuedo comerme la carne podrida, ayúdame, por favor."
+        "es-ES": "[La Mujer Frágil]\nAh... ¿Qué estoy diciendo? \nPuedo comerme la carne podrida, ayúdame, por favor."
     },
     "9itfBg": {
         "en-US": "Dr. Leiphen! You are the Archeologist Leiphen, right?",
@@ -2357,12 +2357,12 @@
     "9ytfBg": {
         "en-US": "- ^424242The man...? I find him finally.^000000 -",
         "pt-BR": "- ^424242Será...? Acho que finalmente o encontrei.^000000 -",
-        "es-ES": "-^424242¿El hombre…? Por fin lo encuentro.^000000-"
+        "es-ES": "-^424242¿El hombre...? Por fin lo encuentro.^000000-"
     },
     "+CtfBg": {
         "en-US": "[Archeologist Leiphen]\nOh my god...\nHuman, a human?\nReal human?\nOh thanks the gods!\nThank you.\nI thought I'm going to die here!",
         "pt-BR": "[Arqueólogo Leiphen]\nNossa... uma pessoa? Você é realmente uma pessoa?\nOh meu Odin! Obrigado!",
-        "es-ES": "[Arqueólogo Leiphen]\nPor los dioses… \nHumano… ¿Un humano? \n¿Un humano de verdad?\n¡Gracias al cielo! \nGracias. \n¡Pensé que moriría aquí!"
+        "es-ES": "[Arqueólogo Leiphen]\nPor los dioses... \nHumano... ¿Un humano? \n¿Un humano de verdad?\n¡Gracias al cielo! \nGracias. \n¡Pensé que moriría aquí!"
     },
     "+StfBg": {
         "en-US": "Archeologist Leiphen : How do you know me?",
@@ -2377,12 +2377,12 @@
     "+ytfBg": {
         "en-US": "[Archeologist Leiphen]\nUfff... without Aylvar and {0}, I would`ve died.\n^FF0000I couldn't sleep^000000 or eat for several days.\nI was wandering around.",
         "pt-BR": "[Arqueólogo Leiphen]\nAh... Elivar! Obrigado, {0}.\n^FF0000Por vários meses^000000 fiquei vagando aqui sem poder dormir ou comer direito.",
-        "es-ES": "[Arqueólogo Leiphen]\nUff… sin Aylvar ni {0} hubiera muerto.\n^FF0000No pude dormir^000000 ni comer durante varios días. \nVagaba por ahí."
+        "es-ES": "[Arqueólogo Leiphen]\nUff... sin Aylvar ni {0} hubiera muerto.\n^FF0000No pude dormir^000000 ni comer durante varios días. \nVagaba por ahí."
     },
     "/CtfBg": {
         "en-US": "I have heard you are missing for a half of day...",
         "pt-BR": "Você só sumiu por 12 horas...",
-        "es-ES": "Oí que desapareciste hace medio día…"
+        "es-ES": "Oí que desapareciste hace medio día..."
     },
     "/StfBg": {
         "en-US": "- ^424242Several days? It's weird.^000000 -",
@@ -2397,7 +2397,7 @@
     "/ytfBg": {
         "en-US": "[Archeologist Leiphen]\nAnyway, have heard from Aylvar?\nI had my doubts when I heard.\n...Aylvar was right about this place.",
         "pt-BR": "[Arqueólogo Leiphen]\nEu não tinha acreditado na história de Elivar.\n...mas acho que esse é o lugar que ele falou.",
-        "es-ES": "[Arqueólogo Leiphen]\nEn fin, ¿tienes noticias de Aylvar? \nTenía mis dudas cuando me enteré.\n…Aylvar tenía razón sobre este lugar."
+        "es-ES": "[Arqueólogo Leiphen]\nEn fin, ¿tienes noticias de Aylvar? \nTenía mis dudas cuando me enteré.\n...Aylvar tenía razón sobre este lugar."
     },
     "ACxfBg": {
         "en-US": "[Archeologist Leiphen]\nThere are a lot of things I'd like to research, but it's better to go back for now.\nI'm exhausted, and don't have the right tools to make a record, it's better to prepare and come back.",
@@ -2417,7 +2417,7 @@
     "AyxfBg": {
         "en-US": "...You are an implacable scholar after all.",
         "pt-BR": "...Você é muito doido.",
-        "es-ES": "…Ciertamente eres un Erudito implacable."
+        "es-ES": "...Ciertamente eres un Erudito implacable."
     },
     "BCxfBg": {
         "en-US": "[Archeologist Leiphen]\nI'll take that as a compliment.",
@@ -2427,17 +2427,17 @@
     "BSxfBg": {
         "en-US": "Well, then you are going back for now? let me guide to the exit...",
         "pt-BR": "Bom, se vai embora, vou te guiar até a saída...",
-        "es-ES": "Bueno, entonces, ¿volverás por ahora? Déjame guiarte a la salida…"
+        "es-ES": "Bueno, entonces, ¿volverás por ahora? Déjame guiarte a la salida..."
     },
     "BixfBg": {
         "en-US": "Archeologist Leiphen : My stomach is growling...",
         "pt-BR": "Leiphen: Meu estômago está roncando...",
-        "es-ES": "Arqueólogo Leiphen: Mi estaomago ruge…"
+        "es-ES": "Arqueólogo Leiphen: Mi estaomago ruge..."
     },
     "ByxfBg": {
         "en-US": "[Archeologist Leiphen]\nHmm...\nI'm sorry but, I'm hungry... I can't move right now.\nIf it`s okay, can you hunt some monsters around?",
         "pt-BR": "[Arqueólogo Leiphen]\nDesculpe...\nEstou com tanta fome... não consigo nem andar.\nSe estiver tudo bem com você, você pode caçar alguns monstros por aí?",
-        "es-ES": "[Arqueólogo Leiphen]\nMmm…\nLo siento, pero tengo hambre… No puedo moverme ahora.\nSi no te molesta, ¿podrías cazar algunos monstruos?"
+        "es-ES": "[Arqueólogo Leiphen]\nMmm...\nLo siento, pero tengo hambre... No puedo moverme ahora.\nSi no te molesta, ¿podrías cazar algunos monstruos?"
     },
     "CCxfBg": {
         "en-US": "You want me to hunt?",
@@ -2447,12 +2447,12 @@
     "CSxfBg": {
         "en-US": "Archeologist Leiphen : After a long research trip, I am able to whip up a few meals at the survey site..",
         "pt-BR": "Leiphen: Sou um pesquisador aventureiro, sempre comi no local.",
-        "es-ES": "Arqueólogo Leiphen: Tras un largo viaje de investigación, soy capaz de elaborar algunas comidas en el sitio de investigación…"
+        "es-ES": "Arqueólogo Leiphen: Tras un largo viaje de investigación, soy capaz de elaborar algunas comidas en el sitio de investigación..."
     },
     "CixfBg": {
         "en-US": "[Archeologist Leiphen]\nIn essence it is a turtle, so I can eat it.\nBut I couldn't hunt alone, so I starved all this time....\nThe monsters here are much stronger than the monsters on the Turtle Island we know.\nPlease?",
         "pt-BR": "[Arqueólogo Leiphen]\nOs monstros aqui são muito mais fortes do que os monstros da ilha das tartarugas que conhecemos.\nPosso te pedir um favor?",
-        "es-ES": "[Arqueólogo Leiphen]\nEs una tortuga en esencia, así que puedo comerla. Pero no podía cazar solo, así que me estuve muriendo de hambre…\nLos monstruos de aquí son mucho más fuertes que los de la Isla Tortuga que conocemos. ¿Sí?"
+        "es-ES": "[Arqueólogo Leiphen]\nEs una tortuga en esencia, así que puedo comerla. Pero no podía cazar solo, así que me estuve muriendo de hambre...\nLos monstruos de aquí son mucho más fuertes que los de la Isla Tortuga que conocemos. ¿Sí?"
     },
     "CyxfBg": {
         "en-US": "What kind of monster do you want?",
@@ -2467,7 +2467,7 @@
     "DSxfBg": {
         "en-US": "[Archeologist Leiphen]\nWell, but if the monster hunting is too difficult... you can just carry me out..",
         "pt-BR": "[Arqueólogo Leiphen]\nAh, mas se caçar monstros for muito complicado... você pode me carregar.",
-        "es-ES": "[Arqueólogo Leiphen]\nBueno, pero si la caza del monstruo es demasiado difícil… puedes cargarme…"
+        "es-ES": "[Arqueólogo Leiphen]\nBueno, pero si la caza del monstruo es demasiado difícil... puedes cargarme..."
     },
     "DixfBg": {
         "en-US": "I will hunt the monster.",
@@ -2477,12 +2477,12 @@
     "DyxfBg": {
         "en-US": "[Archeologist Leiphen]\n...I'm sorry, can't move.\nCan you carry me out?",
         "pt-BR": "[Arqueólogo Leiphen]\n...Estou cansado e meus pés doem.\nNão quer me carregar mesmo?",
-        "es-ES": "[Arqueólogo Leiphen]\n…lo siento, no puedo moverme.\n¿Puedes cargarme?"
+        "es-ES": "[Arqueólogo Leiphen]\n...lo siento, no puedo moverme.\n¿Puedes cargarme?"
     },
     "ECxfBg": {
         "en-US": "....How many monsters do you need me to hunt?",
         "pt-BR": ".....Tá, quantas tartarugas?",
-        "es-ES": "¿…Cuántos monstruos necesitas que cace?"
+        "es-ES": "¿...Cuántos monstruos necesitas que cace?"
     },
     "ESxfBg": {
         "en-US": "[Archeologist Leiphen]\nThank you for accepting.\nWell, I think it's better to think of these monsters as different from the ones on Turtle Island.",
@@ -2497,7 +2497,7 @@
     "EyxfBg": {
         "en-US": "[Archeologist Leiphen]\nIn the meantime, I will make a fire.\nPhew... I find myself struggling all of the sudden.\nI'm an archaeologist, not a hero of adventure story.",
         "pt-BR": "[Arqueólogo Leiphen]\nEnquanto isso, vou fazer uma fogueira.\nEu sou um NPC e não o protagonista de um jogo de RPG online.",
-        "es-ES": "[Arqueólogo Leiphen]\nMientras tanto, haré un fuego.\nFiu… Me encuentro con dificultades actualmente. \nSoy arqueólogo, no el héroe de una aventura."
+        "es-ES": "[Arqueólogo Leiphen]\nMientras tanto, haré un fuego.\nFiu... Me encuentro con dificultades actualmente. \nSoy arqueólogo, no el héroe de una aventura."
     },
     "FCxfBg": {
         "en-US": "Archeologist Leiphen : Oh, you come back. I was waiting.",
@@ -2507,12 +2507,12 @@
     "FSxfBg": {
         "en-US": "...It's too bad. Leiphen, the flesh of the hunted monster is all rotten..",
         "pt-BR": "...Olha, professor Leiphen essa carne está podre.",
-        "es-ES": "…Es una lástima. Leiphen, la carne de los monstruos cazados está podrida…"
+        "es-ES": "...Es una lástima. Leiphen, la carne de los monstruos cazados está podrida..."
     },
     "FixfBg": {
         "en-US": "[Archeologist Leiphen]\nOops... The fire doesn't go well.\nI can't burn books or tools.",
         "pt-BR": "[Arqueólogo Leiphen]\nAh não... Não dá para comer carne estragada.",
-        "es-ES": "[Arqueólogo Leiphen]\nUy… El fuego no va bien. \nNo puedo quemar libros ni herramientas."
+        "es-ES": "[Arqueólogo Leiphen]\nUy... El fuego no va bien. \nNo puedo quemar libros ni herramientas."
     },
     "FyxfBg": {
         "en-US": "No matter how much I hunt, all I get is rotten meat.",
@@ -2522,17 +2522,17 @@
     "GCxfBg": {
         "en-US": "[Archeologist Leiphen]\nNo way... All of it?\n^0000CDILL_PERMETER, ILL_SOLIDER, ILL_FREEZER, ILL_HEATER, ^000000ALL?",
         "pt-BR": "[Arqueólogo Leiphen]\nMas e as tartarugas?\n^0000CDBatedores, Aquecedores, Congeladores e Solidificadores Ominosos^000000, você caçou?",
-        "es-ES": "[Arqueólogo Leiphen]\nNo puede ser… ¿Toda?\nTODOS LOS ^0000CDPERMETER SINIESTROS, SOLIDER SINIESTROS, CONGELADORES SINIESTROS Y CALENTADORES SINIESTROS^000000?"
+        "es-ES": "[Arqueólogo Leiphen]\nNo puede ser... ¿Toda?\nTODOS LOS ^0000CDPERMETER SINIESTROS, SOLIDER SINIESTROS, CONGELADORES SINIESTROS Y CALENTADORES SINIESTROS^000000?"
     },
     "GSxfBg": {
         "en-US": "[Archeologist Leiphen]\n...Well, let me take ^0000CDthe rotten meat^00000010 pieces, ^0000CDlet me try first^000000 please.\nI can't move without eating something...",
         "pt-BR": "[Arqueólogo Leiphen]\nE me traga ^0000CD10 unidades^000000 de ^0000CDCarne Estragada^000000, por favor.\nNão consigo me mexer sem comer nada...",
-        "es-ES": "[Arqueólogo Leiphen]\n…Bueno, déjame tomar las 10 unidades de ^0000CDcarne podrida^000000. ^0000CDDéjame intentarlo primero^000000.\nNo puedo ni moverme si no como algo…"
+        "es-ES": "[Arqueólogo Leiphen]\n...Bueno, déjame tomar las 10 unidades de ^0000CDcarne podrida^000000. ^0000CDDéjame intentarlo primero^000000.\nNo puedo ni moverme si no como algo..."
     },
     "GixfBg": {
         "en-US": "Archeologist Leiphen : Or you can carry me out...",
         "pt-BR": "Leiphen: Ah menos que você queira me carregar...",
-        "es-ES": "Arqueólogo Leiphen: O puedes cargarme…"
+        "es-ES": "Arqueólogo Leiphen: O puedes cargarme..."
     },
     "GyxfBg": {
         "en-US": "Let me go for the hunting.",
@@ -2547,7 +2547,7 @@
     "HSxfBg": {
         "en-US": "[Archeologist Leiphen]\nToo bad.\nThere was nothing to burn...\nSo I couldn't make the fire.",
         "pt-BR": "[Arqueólogo Leiphen]\nMe diga, o que você encontrou?",
-        "es-ES": "[Arqueólogo Leiphen]\nQué pena. \nNo había nada para quemar… \nAsí que no puedo hacer el fuego."
+        "es-ES": "[Arqueólogo Leiphen]\nQué pena. \nNo había nada para quemar... \nAsí que no puedo hacer el fuego."
     },
     "HixfBg": {
         "en-US": "I hunted all the monsters by type, but all I got was rotten meat. I only brought rotten meat.",
@@ -2562,7 +2562,7 @@
     "ICxfBg": {
         "en-US": "Archeologist Leiphen : *Chewing...* Disgusting... !!!",
         "pt-BR": "chomp, chomp, chomp.... ihc!",
-        "es-ES": "Arqueólogo Leiphen: *Mastica…* ¡Qué asco…!"
+        "es-ES": "Arqueólogo Leiphen: *Mastica...* ¡Qué asco...!"
     },
     "ISxfBg": {
         "en-US": "Oops, are you ok?",
@@ -2572,7 +2572,7 @@
     "IixfBg": {
         "en-US": "[Archeologist Leiphen]\nUgh...\nI can't eat it.\nSorry...\nYou tried for nothing...",
         "pt-BR": "[Arqueólogo Leiphen]\nUgh... me desculpe... eu não consigo comer...",
-        "es-ES": "[Arqueólogo Leiphen]\nUfff… \nNo puedo comerlo. \nLo siento… \nTe esforzaste en vano…"
+        "es-ES": "[Arqueólogo Leiphen]\nUfff... \nNo puedo comerlo. \nLo siento... \nTe esforzaste en vano..."
     },
     "IyxfBg": {
         "en-US": "[Archeologist Leiphen]\nThere is no one around here except you and me, right?\nI've been around for days ^FF0000but I haven't meet anyone^000000.\nIf there are someone, I could ask for help.",
@@ -2582,7 +2582,7 @@
     "JCxfBg": {
         "en-US": "Umm, I saw some people from here.",
         "pt-BR": "Eu vi uns moradores.",
-        "es-ES": "Emm… vi a algunas personas aquí."
+        "es-ES": "Emm... vi a algunas personas aquí."
     },
     "JSxfBg": {
         "en-US": "Archeologist Leiphen : Really? Some people?",
@@ -2597,12 +2597,12 @@
     "JyxfBg": {
         "en-US": "You said you want me to carry out...?",
         "pt-BR": "Tem algumas pessoas aqui...",
-        "es-ES": "¿Dijiste que hiciera qué…?"
+        "es-ES": "¿Dijiste que hiciera qué...?"
     },
     "KCxfBg": {
         "en-US": "But, there are some weird people. I'm not sure we can talk...",
         "pt-BR": "Mas não sei se conseguimos nos comunicar...",
-        "es-ES": "Pero hay gente muy extraña. No estoy seguro de que podamos hablarles…"
+        "es-ES": "Pero hay gente muy extraña. No estoy seguro de que podamos hablarles..."
     },
     "KSxfBg": {
         "en-US": "[Archeologist Leiphen]\nI'm ok now!\nLet's go!",
@@ -2617,7 +2617,7 @@
     "KyxfBg": {
         "en-US": "- ^424242I didn't mean that about the talking part, but let's go anyway.\nTo the nearest place... ^FF0000Let's go to the Fragile ^424242woman.^000000 -",
         "pt-BR": "- ^424242Vamos guiá-lo até a pessoa mais próxima.\n... aquela ^FF0000Moça Debilitada^424242 que está sempre com fome.^000000 -",
-        "es-ES": "-^424242No me refería a lo de hablar, pero vamos igual.\nAl lugar más cercano… ^FF0000Vayamos con la ^424242mujer frágil.^000000-"
+        "es-ES": "-^424242No me refería a lo de hablar, pero vamos igual.\nAl lugar más cercano... ^FF0000Vayamos con la ^424242mujer frágil.^000000-"
     },
     "LCxfBg": {
         "en-US": "Archeologist Leiphen : You said, the nearest place is somewhere here? I'm all good. Show me the way!",
@@ -2662,7 +2662,7 @@
     "NCxfBg": {
         "en-US": "Okay... Let's go together?",
         "pt-BR": "Sei... Você gostaria de vir comigo hoje?",
-        "es-ES": "De acuerdo… ¿Vamos juntos?"
+        "es-ES": "De acuerdo... ¿Vamos juntos?"
     },
     "NSxfBg": {
         "en-US": "[Archeologist Leiphen]\nLet's go!",
@@ -2677,12 +2677,12 @@
     "NyxfBg": {
         "en-US": "Archeologist Leiphen : I tried quarries in several places, but all I can get is the Illision Stone.",
         "pt-BR": "Leiphen: Encontrei várias Pedras Ilusionais nesse lugar...",
-        "es-ES": "Arqueólogo Leiphen: Probé con canteras en varios lugares, pero todo lo que consigo son Piedra Ilusoria…"
+        "es-ES": "Arqueólogo Leiphen: Probé con canteras en varios lugares, pero todo lo que consigo son Piedra Ilusoria..."
     },
     "OCxfBg": {
         "en-US": "Archeologist Leiphen : During the investigation, I found an old doll. I think it looks like Narin somehow... Well, just my imagination.",
         "pt-BR": "Leiphen: Encontrei uma Bonequinha Velha que é a cara da Nalin.",
-        "es-ES": "Arqueólogo Leiphen: Durante la investigación, encontré una muñeca vieja. Creo que se parece un poco a Narin de cierto modo… Bueno, es solo mi imaginación."
+        "es-ES": "Arqueólogo Leiphen: Durante la investigación, encontré una muñeca vieja. Creo que se parece un poco a Narin de cierto modo... Bueno, es solo mi imaginación."
     },
     "OSxfBg": {
         "en-US": "Archeologist Leiphen : I can't really figure out the year these things were made.",
@@ -2692,7 +2692,7 @@
     "OixfBg": {
         "en-US": "Archeologist Leiphen : If {0} soothes the souls, I'd like to talk to them one day. About this...",
         "pt-BR": "Leiphen: Ah, {0} tem feito um bom trabalho ajudando as almas desse lugar...",
-        "es-ES": "Arqueólogo Leiphen: Si {0} ayuda a esas almas, me gustaría hablar con ellas algún día. Sobre esto…"
+        "es-ES": "Arqueólogo Leiphen: Si {0} ayuda a esas almas, me gustaría hablar con ellas algún día. Sobre esto..."
     },
     "OyxfBg": {
         "en-US": "I'm hungry. Please help me. I'm hungry.",
@@ -2717,7 +2717,7 @@
     "PyxfBg": {
         "en-US": "I'm hungry. Please help me. Please...",
         "pt-BR": "Estou com tanta fome. Por favor, me ajude. Por favor...",
-        "es-ES": "Tengo hambre. Ayúdame, por favor. Por favor…"
+        "es-ES": "Tengo hambre. Ayúdame, por favor. Por favor..."
     },
     "QCxfBg": {
         "en-US": "Rancorous Ghost",
@@ -2727,7 +2727,7 @@
     "QSxfBg": {
         "en-US": "What was I doing...",
         "pt-BR": "O que eu... estava fazendo...",
-        "es-ES": "¿Qué estaba haciendo…?"
+        "es-ES": "¿Qué estaba haciendo...?"
     },
     "QixfBg": {
         "en-US": "Where am I? Where is my boss??",
@@ -2742,22 +2742,22 @@
     "RCxfBg": {
         "en-US": "- ^424242...?^000000 -",
         "pt-BR": "- ^424242...?^000000 -",
-        "es-ES": "-^424242¿…?^000000-"
+        "es-ES": "-^424242¿...?^000000-"
     },
     "RSxfBg": {
         "en-US": "Ha-ah...ah, too cold.. I want to go back...",
         "pt-BR": "Está frio... quero voltar...",
-        "es-ES": "Ja, ah… ah, qué frío… Quiero volver…"
+        "es-ES": "Ja, ah... ah, qué frío... Quiero volver..."
     },
     "RixfBg": {
         "en-US": "Anyone here? Anyone...?",
         "pt-BR": "Tem alguém aí...?",
-        "es-ES": "¿Hay alguien aquí? ¿Alguien…?"
+        "es-ES": "¿Hay alguien aquí? ¿Alguien...?"
     },
     "RyxfBg": {
         "en-US": "- ^424242I feel weird, but nothing here...^000000 -",
         "pt-BR": "- ^424242Que sensação esquisita...^000000 -",
-        "es-ES": "-^424242Tengo una sensación extraña, pero no hay nada aquí…^000000-"
+        "es-ES": "-^424242Tengo una sensación extraña, pero no hay nada aquí...^000000-"
     },
     "SCxfBg": {
         "en-US": "Ahhahahahahahahaha",
@@ -2767,7 +2767,7 @@
     "SSxfBg": {
         "en-US": "- ^424242I don't feel good...^000000 -",
         "pt-BR": "- ^424242Não me sinto bem...^000000 -",
-        "es-ES": "-^424242No me siento bien…^000000-"
+        "es-ES": "-^424242No me siento bien...^000000-"
     },
     "SixfBg": {
         "en-US": "Wait for me? Are you waiting?",
@@ -2817,7 +2817,7 @@
     "UyxfBg": {
         "en-US": "[An equipment researcher]\nI think I met a girl...\nAnyway, after that, I couldn't find a way to go back.\nSo, here I receive the materials for my research from the globetrotters with the Illusory Stone and I offer to upgrade their equipment in exchange.",
         "pt-BR": "[Especialista]\nOs aventureiros têm falado de uma Garota em roupas típicas...\nBom, não importa, estou aqui recebendo os materiais para minha pesquisa.",
-        "es-ES": "[Investigador de Equipamiento]\nCreo que conocí a una chica…\nEn fin, después de eso, no pude encontrar una manera para volver.\nEntonces, aquí recibo los materiales para mi investigación de los trotamundos con la Piedra Ilusoria y yo ofrezco mejorar su equipamiento a cambio."
+        "es-ES": "[Investigador de Equipamiento]\nCreo que conocí a una chica...\nEn fin, después de eso, no pude encontrar una manera para volver.\nEntonces, aquí recibo los materiales para mi investigación de los trotamundos con la Piedra Ilusoria y yo ofrezco mejorar su equipamiento a cambio."
     },
     "VCxfBg": {
         "en-US": "[An equipment researcher]\nDo you mean the Weapons and Armor I can exchange?\nWait a minute.\nI'll give you the list.",
@@ -2897,7 +2897,7 @@
     "YyxfBg": {
         "en-US": "[An equipment researcher]\nWell, looks like you are running out of materials.\nBring me ^0000CD100 Illusion Stone^000000 and ^0000CD50 Ship Logs^000000.\nEntonces intercambiaré contigo",
         "pt-BR": "[Especialista]\nPreciso de ^0000CD100 Pedras Ilusionais^000000 e ^0000CD50 Diários de Bordo^000000 para a troca.",
-        "es-ES": "[Investigador de Equipamiento]\nBueno… te estás quedando sin materiales.\nTráeme ^0000CD100 Piedra Ilusoria^000000y ^0000CD50 Libros de Registro^000000. \nEntonces intercambiaré contigo…"
+        "es-ES": "[Investigador de Equipamiento]\nBueno... te estás quedando sin materiales.\nTráeme ^0000CD100 Piedra Ilusoria^000000y ^0000CD50 Libros de Registro^000000. \nEntonces intercambiaré contigo..."
     },
     "ZCxfBg": {
         "en-US": "[An equipment researcher]\nYeah, come back if you change your mind.",
@@ -2922,7 +2922,7 @@
     "aCxfBg": {
         "en-US": "[An equipment researcher]\nWell... you're running out of ingredients.\nBring me ^0000CDIllusion Stone 100^000000 and ^0000CDBlack Piece of Soul 200^000000.\nThen I'll exchange it for you.",
         "pt-BR": "[Especialista]\nPreciso de ^0000CD100 Pedras Ilusionais^000000 e ^0000CD200 Fragmentos de Alma^000000 para a troca.",
-        "es-ES": "[Investigador de Equipamiento]\nBueno… te estás quedando sin materiales.\nTráeme ^0000CD100 Piedras Ilusoria^000000 y ^0000CD200 Fragmentos de Alma^000000.\nEntonces intercambiaré por ti."
+        "es-ES": "[Investigador de Equipamiento]\nBueno... te estás quedando sin materiales.\nTráeme ^0000CD100 Piedras Ilusoria^000000 y ^0000CD200 Fragmentos de Alma^000000.\nEntonces intercambiaré por ti."
     },
     "aSxfBg": {
         "en-US": "[An equipment researcher]\n<ITEM>Illusion Pole Axe<INFO>32005</INFO></ITEM>?\nI need an ^0000CD+9 Pole Axe^000000,\n^0000CDIllusion Stone 100^000000 and ^0000CDBlack Piece of Soul 200^000000 as materials.\nWould you like to exchange it right now?",
@@ -2957,7 +2957,7 @@
     "byxfBg": {
         "en-US": "[An equipment researcher]\nWell... you're running out of ingredients.\nBring me ^0000CDIllusion Stone 100^000000 and ^0000CD Old Turtle Shells 200^000000.\nThen I'll exchange it for you.",
         "pt-BR": "[Especialista]\nPreciso de ^0000CD100 Pedras Ilusionais^000000 e ^0000CD200 Carapaças de Tartaruga^000000 para a troca.",
-        "es-ES": "[Investigador de Equipamiento]\nBueno… te estás quedando sin materiales.\nTráeme ^0000CD100 Piedras Ilusoria^000000 y ^0000CD 200 Caparazón de Tortuga^000000.\nEntonces te lo cambio."
+        "es-ES": "[Investigador de Equipamiento]\nBueno... te estás quedando sin materiales.\nTráeme ^0000CD100 Piedras Ilusoria^000000 y ^0000CD 200 Caparazón de Tortuga^000000.\nEntonces te lo cambio."
     },
     "cCxfBg": {
         "en-US": "[An equipment researcher]\n<ITEM>Illusion Iron Driver<INFO>16065</INFO></ITEM>?\nI need an ^0000CD+9 Iron Driver^000000,\n^0000CDIllusion Stone 100^000000 and ^0000CD Old Turtle Shells 200^000000 as materials.\nWould you like to exchange it right now?",
@@ -3007,7 +3007,7 @@
     "eSxfBg": {
         "en-US": "[An equipment researcher]\nWell... you're running out of ingredients.\nBring me ^0000CDIllusionStone 50^000000 and ^0000CDPretty Old Doll 50^000000.\nThen I'll exchange it for you.",
         "pt-BR": "[Especialista]\nPreciso de ^0000CD50 Pedras Ilusionais^000000 e ^0000CD50 Bonequinhas Velhas^000000 para a troca.",
-        "es-ES": "[Investigador de Equipamiento]\nBueno… te estás quedando sin materiales.\nTráeme ^0000CD50 Piedra Ilusoria^000000 y ^0000CD50 Muñeca Vieja^000000. \nEntonces te lo cambio."
+        "es-ES": "[Investigador de Equipamiento]\nBueno... te estás quedando sin materiales.\nTráeme ^0000CD50 Piedra Ilusoria^000000 y ^0000CD50 Muñeca Vieja^000000. \nEntonces te lo cambio."
     },
     "eixfBg": {
         "en-US": "Ominous Turtle General : Who interferes with my authority!!!",
@@ -3017,22 +3017,22 @@
     "eyxfBg": {
         "en-US": "[An Susceptible Soldier]\nMunch, Murmur...\n^FF0000munch^000000, munch. ^FF0000munch^000000...\nThe Damn ^BDBDBDhuh^000000Mon..^BDBDBDMonster^000000...",
         "pt-BR": "[Soldado Bravo]\nTodos esses... ^FF0000ataca^000000 tesouros ^FF0000esmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seriam meus... ^BDBDBDsoca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*… \n^FF0000Ñom^000000, ñom. ^FF0000Ñom^000000…\nEl maldito^BDBDBDeh…^000000mon…^BDBDBDmonstruo^000000…"
+        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*... \n^FF0000Ñom^000000, ñom. ^FF0000Ñom^000000...\nEl maldito^BDBDBDeh...^000000mon...^BDBDBDmonstruo^000000..."
     },
     "fCxfBg": {
         "en-US": "[An Susceptible Soldier]\nIt's all mine ^BDBDBDCould be^000000 all ^BDBDBDmine^000000...\nMy... my treasure ^BDBDBDall^000000of...my... ^FF0000munch,munch^000000...",
         "pt-BR": "[Soldado Bravo]\nTodos esses... ^BDBDBDataca^000000 tesouros ^BDBDBDesmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seria meus... ^FF0000soca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nEs todo mío. ^BDBDBDPodría ser^000000 todo ^BDBDBDmío^000000…\nMi… mi tesoro. ^BDBDBDTodo^000000mi… ^FF0000ñom, ñom^000000…"
+        "es-ES": "[Un Soldado Susceptible]\nEs todo mío. ^BDBDBDPodría ser^000000 todo ^BDBDBDmío^000000...\nMi... mi tesoro. ^BDBDBDTodo^000000mi... ^FF0000ñom, ñom^000000..."
     },
     "fSxfBg": {
         "en-US": "[An Susceptible Soldier]\nMunch, Murmur...\n^FF0000munch^000000, munch.^FF0000munch^000000...\nThe Damn ^BDBDBDhuh^000000 Mon..^BDBDBDMonster^000000...",
         "pt-BR": "[Soldado Bravo]\nTodos esses... ^FF0000ataca^000000 tesouros ^FF0000esmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seriam meus... ^BDBDBDsoca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*… \n^FF0000Ñom^000000, ñom. ^FF0000Ñom^000000…\nEl maldito^BDBDBDeh…^000000mon…^BDBDBDmonstruo^000000…"
+        "es-ES": "[Un Soldado Susceptible]\nÑom, *murmura*... \n^FF0000Ñom^000000, ñom. ^FF0000Ñom^000000...\nEl maldito^BDBDBDeh...^000000mon...^BDBDBDmonstruo^000000..."
     },
     "fixfBg": {
         "en-US": "[An Susceptible Soldier]\nIt's all mine ^BDBDBDCould be^000000 all^BDBDBD mine^000000...\nMy... my treasure ^BDBDBDall^000000 of...my... ^FF0000munch,munch^000000...",
         "pt-BR": "[Soldado Bravo]\nTodos esses... ^BDBDBDataca^000000 tesouros ^BDBDBDesmurra^000000 seriam...\nArgh! Esses tesouros ^BDBDBDespanca^000000 seria meus... ^FF0000soca^000000...",
-        "es-ES": "[Un Soldado Susceptible]\nEs todo mío. ^BDBDBDPodría ser^000000 todo ^BDBDBDmío^000000…\nMi… mi tesoro. ^BDBDBDTodo^000000mi… ^FF0000ñom, ñom^000000…"
+        "es-ES": "[Un Soldado Susceptible]\nEs todo mío. ^BDBDBDPodría ser^000000 todo ^BDBDBDmío^000000...\nMi... mi tesoro. ^BDBDBDTodo^000000mi... ^FF0000ñom, ñom^000000..."
     },
     "fyxfBg": {
         "en-US": "- You are carrying too many items to proceed with this quest. -",

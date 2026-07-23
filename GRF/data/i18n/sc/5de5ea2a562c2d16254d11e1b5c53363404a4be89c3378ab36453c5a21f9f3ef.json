@@ -77,7 +77,7 @@
     "r1bfBg": {
         "en-US": "[Guide]\nHuh? What's wrong?\nI think you've checked all the marked locations...",
         "pt-BR": "[Guia]\nO quê? O que há de errado?\nAcho que você verificou todos os locais marcados...",
-        "es-ES": "[Guía]\n¿Eh? ¿Qué pasa?\nCreo que visitaste todas las ubicaciones marcadas…"
+        "es-ES": "[Guía]\n¿Eh? ¿Qué pasa?\nCreo que visitaste todas las ubicaciones marcadas..."
     },
     "sFbfBg": {
         "en-US": "[Rumin]\nYou slug.",
@@ -97,7 +97,7 @@
     "s1bfBg": {
         "en-US": "[Rumin]\n... Do you want some?",
         "pt-BR": "[Rumin]\n... Você quer um pouco?",
-        "es-ES": "[Rumin]\n… ¿Quieres un poco?"
+        "es-ES": "[Rumin]\n... ¿Quieres un poco?"
     },
     "tFbfBg": {
         "en-US": "I don't need any!",
@@ -107,12 +107,12 @@
     "tVbfBg": {
         "en-US": "...!",
         "pt-BR": "...!",
-        "es-ES": "¡…!"
+        "es-ES": "¡...!"
     },
     "tlbfBg": {
         "en-US": "[Rumin]\nSo be it...\nMy captain said I should share things with others.\nYou deprived me of a chance to do something good.",
         "pt-BR": "[Rumin]\nQue assim seja...\nMeu capitão disse que eu deveria compartilhar coisas com os outros.\nVocê me privou da chance de fazer algo bom.",
-        "es-ES": "[Rumin]\nComo quieras…\nMi capitán dijo que debía compartir con los demás.\nMe quitaste la oportunidad de hacer algo bueno."
+        "es-ES": "[Rumin]\nComo quieras...\nMi capitán dijo que debía compartir con los demás.\nMe quitaste la oportunidad de hacer algo bueno."
     },
     "t1bfBg": {
         "en-US": "[Rumin]\nOhhh, rats.",
@@ -372,7 +372,7 @@
     "6lbfBg": {
         "en-US": "...Could it be...?",
         "pt-BR": "...Poderia ser...?",
-        "es-ES": "¿Podría ser…?"
+        "es-ES": "¿Podría ser...?"
     },
     "61bfBg": {
         "en-US": "[Rumin]\nHey.\nI'm afraid I was quicker.\nAnd I got a pair of Butterfly Wings to boot.",
@@ -402,7 +402,7 @@
     "8FbfBg": {
         "en-US": "[Rumin]\n... Haha.",
         "pt-BR": "[Rumin]\n... Haha.",
-        "es-ES": "[Rumin]\n… Ja, ja."
+        "es-ES": "[Rumin]\n... Ja, ja."
     },
     "8VbfBg": {
         "en-US": "Are you kidding me?",
@@ -412,7 +412,7 @@
     "8lbfBg": {
         "en-US": "What treasure did you get this time...?",
         "pt-BR": "Que tesouro você conseguiu dessa vez...?",
-        "es-ES": "¿Qué tesoro conseguiste esta vez…?"
+        "es-ES": "¿Qué tesoro conseguiste esta vez...?"
     },
     "81bfBg": {
         "en-US": "[Rumin]\nNope.\nThey say that if you bump into someone three times in one day,\nthe person might become a close friend.",
@@ -437,7 +437,7 @@
     "91bfBg": {
         "en-US": "^4D4DFF...You must go back and report to the guide...^000000",
         "pt-BR": "^4D4DFF...Você deve voltar e se apresentar ao guia...^000000",
-        "es-ES": "^4D4DFFDebes volver e informarle al guía…^000000"
+        "es-ES": "^4D4DFFDebes volver e informarle al guía...^000000"
     },
     "+FbfBg": {
         "en-US": "[Rumin]\nButterfly Wings\nI won't give this away, as it may be humiliating for you.",
@@ -507,12 +507,12 @@
     "BVffBg": {
         "en-US": "[Rumin]\nIndeed, it could!\nThere were plenty of potions.\n...But I had to use them as I got exhausted waiting for you.",
         "pt-BR": "[Rumin]\n...\nPoções, muitas poções.\nBebi várias poções pra ficar numa boa enquanto esperava por você!",
-        "es-ES": "[Rumin]\n¡Claro que podría!\nHabía muchas pociones.\n…Pero tuve que usarlas porque me agoté de esperarte."
+        "es-ES": "[Rumin]\n¡Claro que podría!\nHabía muchas pociones.\n...Pero tuve que usarlas porque me agoté de esperarte."
     },
     "BlffBg": {
         "en-US": "[Rumin]\nI have no idea why my stomach isn't full, even though I drank so many potions.\nI kept drinking the potions, and...",
         "pt-BR": "[Rumin]\nSó não sei como continuo com sede depois de ter bebido tudo isso...\nSe bem que foi tudo tão rápido...",
-        "es-ES": "[Rumin]\nNo tengo idea por qué mi estómago no se llena, aunque bebí tantas pociones.\nSeguí bebiendo las pociones y…"
+        "es-ES": "[Rumin]\nNo tengo idea por qué mi estómago no se llena, aunque bebí tantas pociones.\nSeguí bebiendo las pociones y..."
     },
     "B1ffBg": {
         "en-US": "[Rumin]\nRed potion.\nI won't give this away, as it may be humiliating for you.",
@@ -552,12 +552,12 @@
     "DlffBg": {
         "en-US": "[Rumin]\nI wonder why a convenient transportation method should look like the wings of a fly...\nDo you happen to know anything about this?",
         "pt-BR": "[Rumin]\nContudo, suas asas são muito velozes! Me ajudam a querer voar pelo mundo!\nVocê gosta de Moscas?",
-        "es-ES": "[Rumin]\nMe pregunto por qué un método de transporte tan práctico tendría el aspecto de las alas de una mosca…\nPor casualidad, ¿sabes algo al respecto?"
+        "es-ES": "[Rumin]\nMe pregunto por qué un método de transporte tan práctico tendría el aspecto de las alas de una mosca...\nPor casualidad, ¿sabes algo al respecto?"
     },
     "D1ffBg": {
         "en-US": "[Rumin]\n...I guess you don't.",
         "pt-BR": "[Rumin]\n...Gosta não?",
-        "es-ES": "[Rumin]\n…Supongo que no."
+        "es-ES": "[Rumin]\n...Supongo que no."
     },
     "EFffBg": {
         "en-US": "[Rumin]\nFly Wings.\nI won't give this away, as it may be humiliating for you.",
@@ -577,7 +577,7 @@
     "E1ffBg": {
         "en-US": "[Rumin]\n...Be seeing you.",
         "pt-BR": "[Rumin]\n...estava vendo você.",
-        "es-ES": "[Rumin]\n…Nos vemos."
+        "es-ES": "[Rumin]\n...Nos vemos."
     },
     "FFffBg": {
         "en-US": "[Mayshell]\nOkay, Lu.\nI wish you the best.",
@@ -587,7 +587,7 @@
     "FVffBg": {
         "en-US": "Um...",
         "pt-BR": "Hã...",
-        "es-ES": "Eh…"
+        "es-ES": "Eh..."
     },
     "FlffBg": {
         "en-US": "[Mayshell]\nOh, excuse me.\nAre you a student at Criatura Academy?\nI didn't mean to offend you.\nThat one's a student, too.",
@@ -607,7 +607,7 @@
     "GVffBg": {
         "en-US": "Teach me...",
         "pt-BR": "Eu quero, por favor",
-        "es-ES": "Enséñame…"
+        "es-ES": "Enséñame..."
     },
     "GlffBg": {
         "en-US": "I'm no criminal.",
@@ -637,7 +637,7 @@
     "H1ffBg": {
         "en-US": "[Mayshell]\nI can end their lives with a single slash...",
         "pt-BR": "[Mayshell]\nPosso acabar com eles com um único golpe...",
-        "es-ES": "[Mayshell]\nPuedo acabar con sus vidas con un simple corte…"
+        "es-ES": "[Mayshell]\nPuedo acabar con sus vidas con un simple corte..."
     },
     "IFffBg": {
         "en-US": "[Verkhasell]\nHey, that's enough.\nI thought your mission was a bit too high-brow for a place like this.",
@@ -647,7 +647,7 @@
     "IVffBg": {
         "en-US": "[Mayshell]\n...Hmph, I'd gotten a bit excited.\nLet's continue.\nWe can ^4D4DFFutilize our array of thief skills against monsters^000000.",
         "pt-BR": "[Mayshell]\n... Retomando.\nContinuarei a explicação.\nGeralmente os Gatunos focam em Habilidades ^4D4DFFúteis e versáteis^000000.",
-        "es-ES": "[Mayshell]\n…Mmm, me entusiasmé demasiado.\nContinuemos.\nPodemos ^4D4DFFusar nuestra selección de habilidades de robo contra los monstruos^000000."
+        "es-ES": "[Mayshell]\n...Mmm, me entusiasmé demasiado.\nContinuemos.\nPodemos ^4D4DFFusar nuestra selección de habilidades de robo contra los monstruos^000000."
     },
     "IlffBg": {
         "en-US": "[Mayshell]\nThat's a sneak ability, which allows us to move around undetected.\nWe can move swiftly while hiding a sharp knife under our vestments.",
@@ -667,7 +667,7 @@
     "JVffBg": {
         "en-US": "[Mayshell]\nAssassin and Rogue are the advanced Thief Jobs.\nVerkhasell here is a distinguished Guillotine Cross Assassin.\nAnd...",
         "pt-BR": "[Mayshell]\nAs melhores evoluções da Classe de Gatuno são Mercenários e Arruaceiros.\nVerkhasel é um de nossos melhores Sicários, evoluído de um Mercenário.\nE...",
-        "es-ES": "[Mayshell]\nAsesino y Pícaro son las clases avanzadas de Ladrón.\nVerkhasell es un distinguido Asesino Cortador de cruces.\nY…"
+        "es-ES": "[Mayshell]\nAsesino y Pícaro son las clases avanzadas de Ladrón.\nVerkhasell es un distinguido Asesino Cortador de cruces.\nY..."
     },
     "JlffBg": {
         "en-US": "[Mayshell]\nI'm pretty sure I called for Doomk, Vicente.",
@@ -677,12 +677,12 @@
     "J1ffBg": {
         "en-US": "[Vicente]\nUm... well...\n...You know what the master's like.\nI'm perfectly capable of talking about rogues on his behalf, so...",
         "pt-BR": "[Vicente]\nAh... Senhorita Mayshell.\n...Todos sabem do meu carisma.\nPosso explicar um pouco como é ser um Renegado, se quiser.",
-        "es-ES": "[Vicente]\nMmm… Bueno…\n…Ya sabes cómo es el maestro.\nSoy perfectamente capaz de hablar sobre los Pícaros en su lugar, así que…"
+        "es-ES": "[Vicente]\nMmm... Bueno...\n...Ya sabes cómo es el maestro.\nSoy perfectamente capaz de hablar sobre los Pícaros en su lugar, así que..."
     },
     "KFffBg": {
         "en-US": "[Mayshell]\nLike a pony frolicking in the spring breeze...\nOkay.\n{0}, unfortunately, our resident Shadow Chaser, one of the advanced Rogue Jobs, won't be joining us today.",
         "pt-BR": "[Mayshell]\nNão precisa querido...\nTudo bem..\n{0}, infelizmente, Dumk, o líder dos Renegados, não estará conosco hoje.",
-        "es-ES": "[Mayshell]\nComo un poni jugueteando en la brisa primaveral…\nBueno.\n{0}, por desgracia, nuestro Perseguidor de sombras local, una de las personas más avanzadas de la clase Pícaro, no podrá acompañarnos hoy."
+        "es-ES": "[Mayshell]\nComo un poni jugueteando en la brisa primaveral...\nBueno.\n{0}, por desgracia, nuestro Perseguidor de sombras local, una de las personas más avanzadas de la clase Pícaro, no podrá acompañarnos hoy."
     },
     "KVffBg": {
         "en-US": "[Mayshell]\nRegardless, these two here will explain some things to you.\n^4D4DFFPlease listen to what Verkhasell and Vicente have to say and come talk to me.^000000",
@@ -692,7 +692,7 @@
     "KlffBg": {
         "en-US": "[Mayshell]\nVery well...",
         "pt-BR": "[Mayshell]\nUma pena, achei que roubaria... aprenderia com a gente.",
-        "es-ES": "[Mayshell]\nMuy bien…"
+        "es-ES": "[Mayshell]\nMuy bien..."
     },
     "K1ffBg": {
         "en-US": "[Mayshell]\nI see that you've chosen your path.\nWelcome,\nto the world of shadows.",
@@ -767,7 +767,7 @@
     "OVffBg": {
         "en-US": "[Mayshell]\nThough it brings me great pain to say this...\nYou don't meet the minimum level requirements.",
         "pt-BR": "[Mayshell]\nEmbora seja muito doloroso dizer isso...\nVocê não atende aos requisitos mínimos de nível.",
-        "es-ES": "[Mayshell]\nAunque me apena mucho decirlo…\nNo cumples los requisitos mínimos de nivel."
+        "es-ES": "[Mayshell]\nAunque me apena mucho decirlo...\nNo cumples los requisitos mínimos de nivel."
     },
     "OlffBg": {
         "en-US": "[Mayshell]\nThere are two kinds of levels. Base Level and Job Level.\nJob Level is a value that represents your job-related skills.",
@@ -827,7 +827,7 @@
     "RVffBg": {
         "en-US": "[Mayshell]\nThen we'll prepare for the real deal...",
         "pt-BR": "[Mayshell]\nEscutar e praticar é a maneira correta de ganhar!",
-        "es-ES": "[Mayshell]\nEntonces, nos prepararemos para el auténtico desafío…"
+        "es-ES": "[Mayshell]\nEntonces, nos prepararemos para el auténtico desafío..."
     },
     "RlffBg": {
         "en-US": "Okay.",
@@ -897,7 +897,7 @@
     "U1ffBg": {
         "en-US": "[Mayshell]\n... Good.\nUp for a challenge, I see.",
         "pt-BR": "[Mayshell]\nUfa...\nVocê me assustou bastante...",
-        "es-ES": "[Mayshell]\n… Bien.\nVeo que buscas un desafío."
+        "es-ES": "[Mayshell]\n... Bien.\nVeo que buscas un desafío."
     },
     "VFffBg": {
         "en-US": "[Mayshell]\nAll the ongoing courses will be cancelled.\nI guess the life of a thief isn't for you.",
@@ -937,7 +937,7 @@
     "W1ffBg": {
         "en-US": "[Mayshell]\nMe, personally, I'd choose...\n^4D4DFFAGI, to make me more nimble^000000,\n^4D4DFFDEX, to increase my HIT,\nand STR to increase my physical ATK^000000.",
         "pt-BR": "[Mayshell]\nHá vários para escolher...\n^4D4DFFAGI aumenta a agilidade^000000.\n^4D4DFFDES melhora a precisão^000000.\n^4D4DFFFOR garante mais dano físico^000000.",
-        "es-ES": "[Mayshell]\nYo, personalmente, elegiría…\n^4D4DFFAGI para volverme más ágil^000000,\n^4D4DFFDES para aumentar mi PREC\ny FUE para aumentar mi ATQ físico^000000."
+        "es-ES": "[Mayshell]\nYo, personalmente, elegiría...\n^4D4DFFAGI para volverme más ágil^000000,\n^4D4DFFDES para aumentar mi PREC\ny FUE para aumentar mi ATQ físico^000000."
     },
     "XFffBg": {
         "en-US": "[Mayshell]\nVIT, LUK and INT are down to personal preference.\nBy the way, Verkhasell has quite high LUK.\nA weapon called Katar has a high critical hit rate, you know?",
@@ -1027,7 +1027,7 @@
     "bVffBg": {
         "en-US": "[Mayshell]\nFor the two of us who have to work in the shadows, meeting in this kind of place is nothing short of a miracle, but...\nrules are rules.",
         "pt-BR": "[Mayshell]\nNão posso te dar instruções dessa forma...\nAs regras devem ser obedecidas...",
-        "es-ES": "[Mayshell]\nPara quienes tenemos que trabajar en las sombras, encontrarnos en un lugar como este es casi un milagro, pero…\nlas reglas son las reglas."
+        "es-ES": "[Mayshell]\nPara quienes tenemos que trabajar en las sombras, encontrarnos en un lugar como este es casi un milagro, pero...\nlas reglas son las reglas."
     },
     "blffBg": {
         "en-US": "[Mayshell]\nPlease enroll in Criatura Academy if you wish to participate in my class.",
@@ -1042,7 +1042,7 @@
     "cFffBg": {
         "en-US": "[Mayshell]\nStats?\nThere's no right answer, since it's all personal preference, but...",
         "pt-BR": "[Mayshell]\nAtributos?\nAcho que já te falaram isso mas... Não há um consenso sobre os atributos...",
-        "es-ES": "[Mayshell]\n¿Estadísticas?\nNo existe una respuesta correcta, ya que depende de las preferencias personales, pero…"
+        "es-ES": "[Mayshell]\n¿Estadísticas?\nNo existe una respuesta correcta, ya que depende de las preferencias personales, pero..."
     },
     "cVffBg": {
         "en-US": "[Mayshell]\nVIT, LUK and INT are down to personal preference.\nThere are some assassins who invest heavily in LUK in order to wield katars. They've invested their stats specifically for that weapon.",
@@ -1092,7 +1092,7 @@
     "elffBg": {
         "en-US": "[Vicente]\nHmm... Thieves? I should probably tell you about stats.",
         "pt-BR": "[Vicente]\nGatunos... Preciso explicar os atributos.",
-        "es-ES": "[Vicente]\nMmm… ¿Ladrones? Quizás debería hablarte de las estadísticas."
+        "es-ES": "[Vicente]\nMmm... ¿Ladrones? Quizás debería hablarte de las estadísticas."
     },
     "e1ffBg": {
         "en-US": "[Vicente]\n^4D4DFFSTR, AGI, and DEX^000000 are the three main stats for thieves.\nINT, VIT, and LUK are optional.",
@@ -1132,12 +1132,12 @@
     "glffBg": {
         "en-US": "[Vicente]\nThere is no single right answer.\nInvest your stats as you see fit.\nIt's just that...",
         "pt-BR": "[Vicente]\nInfelizmente não posso dizer qual o caminho correto.\nVai muito de gosto...\nMas posso te falar que...",
-        "es-ES": "[Vicente]\nNo existe una única respuesta correcta.\nInvierte tus estadísticas como mejor te parezca.\nEs solo que…"
+        "es-ES": "[Vicente]\nNo existe una única respuesta correcta.\nInvierte tus estadísticas como mejor te parezca.\nEs solo que..."
     },
     "g1ffBg": {
         "en-US": "[Vicente]\nRogues ^4D4DFFremove others' equipment^000000, ^4D4DFFsteal better than thieves^000000,\nand ^4D4DFFmake sudden attacks before quickly retreating^000000...",
         "pt-BR": "[Vicente]\n^4D4DFFArruaceiros^000000 removem equipamentos dos inimigos de uma forma mais eficiente do que os Gatunos.\nVocê também pode usar um ^4D4DFFAtaque Surpresa^000000...",
-        "es-ES": "[Vicente]\nLos Pícaros ^4D4DFFles quitan el equipamiento a otras personas^000000, ^4D4DFFroban mejor que los Ladrones^000000\ny ^4D4DFFrealizan ataques sorpresa antes de retirarse rápidamente^000000…"
+        "es-ES": "[Vicente]\nLos Pícaros ^4D4DFFles quitan el equipamiento a otras personas^000000, ^4D4DFFroban mejor que los Ladrones^000000\ny ^4D4DFFrealizan ataques sorpresa antes de retirarse rápidamente^000000..."
     },
     "hFffBg": {
         "en-US": "[Vicente]\nAll that might look cowardly, but they definitely possess advanced skills compared to thieves.\nTheir skills are artistic, even.",
@@ -1157,7 +1157,7 @@
     "h1ffBg": {
         "en-US": "[Vicente]\n...Are you bored?\nThere's a skill called Improve Dodge for thieves.\nThe stat related to dodge would be...",
         "pt-BR": "[Vicente]\nQuanta chatice, né?\nTem uma Habilidade de Gatuno que chama Perícia em Esquiva\nO atributo ligado à essa Habilidade é...",
-        "es-ES": "[Vicente]\n¿…Te aburro?\nExiste una habilidad que se llama Evasión mejorada para los Ladrones.\nLa estadística relacionada con la evasión sería…"
+        "es-ES": "[Vicente]\n¿...Te aburro?\nExiste una habilidad que se llama Evasión mejorada para los Ladrones.\nLa estadística relacionada con la evasión sería..."
     },
     "iFffBg": {
         "en-US": "DEX!",
@@ -1182,7 +1182,7 @@
     "jFffBg": {
         "en-US": "[Rumin]\n... I want my reward.",
         "pt-BR": "[Rumin]\n...Quero uma recompensa!",
-        "es-ES": "[Rumin]\n… Quiero mi premio."
+        "es-ES": "[Rumin]\n... Quiero mi premio."
     },
     "jVffBg": {
         "en-US": "[Vicente]\nOh, all right.\nI'll give you a present, Rumin.",
@@ -1197,12 +1197,12 @@
     "j1ffBg": {
         "en-US": "[Vicente]\nOh, I see that you've taken my class. That's great.\nYou look bored. What a shame...\nShall we move on?",
         "pt-BR": "[Vicente]\nAinda bem que está prestando atenção.\nPensei que já estava dormindo de tanta informação...\nVamos continuar?",
-        "es-ES": "[Vicente]\nAh, veo que tomaste mi clase. Excelente.\nParece que te aburres. Qué pena…\n¿Continuamos?"
+        "es-ES": "[Vicente]\nAh, veo que tomaste mi clase. Excelente.\nParece que te aburres. Qué pena...\n¿Continuamos?"
     },
     "kFffBg": {
         "en-US": "[Rumin]\n...Where's my reward?",
         "pt-BR": "[Rumin]\n...Quero uma recompensa!",
-        "es-ES": "[Rumin]\n¿…Dónde está mi premio?"
+        "es-ES": "[Rumin]\n¿...Dónde está mi premio?"
     },
     "kVffBg": {
         "en-US": "[Vicente]\nAh, your feedback is very important to us.\nI'll give you a present before finishing the class.",
@@ -1217,22 +1217,22 @@
     "k1ffBg": {
         "en-US": "[Vicente]\nRogues are...\nnot as cowardly as people think they are.",
         "pt-BR": "[Vicente]\nArruaceiros...\nNão somos covardes igual todos pensam...",
-        "es-ES": "[Vicente]\nLos Pícaros no son…\ntan cobardes como la gente cree."
+        "es-ES": "[Vicente]\nLos Pícaros no son...\ntan cobardes como la gente cree."
     },
     "lFffBg": {
         "en-US": "[Rumin]\n...They are weird.\nThey enjoy removing others' clothes.",
         "pt-BR": "[Rumin]\n...\nAcho os Renegados covardes!",
-        "es-ES": "[Rumin]\n…Son raros.\nDisfrutan quitándoles la ropa a los demás."
+        "es-ES": "[Rumin]\n...Son raros.\nDisfrutan quitándoles la ropa a los demás."
     },
     "lVffBg": {
         "en-US": "[Vicente]\nTh... that's absurd!\nYou can't say that, Lu!\nRogues are upgraded thieves!",
         "pt-BR": "[Vicente]\nQuê!\nVocê não pode dizer essas coisas!\nRenegados são uma das maiores classes que os Arruaceiros podem atingir!",
-        "es-ES": "[Vicente]\n¡Es… Es absurdo!\n¡No puedes decir eso, Lu!\n¡Los Pícaros son Ladrones mejorados!"
+        "es-ES": "[Vicente]\n¡Es... Es absurdo!\n¡No puedes decir eso, Lu!\n¡Los Pícaros son Ladrones mejorados!"
     },
     "llffBg": {
         "en-US": "[Rumin]\nUm... I don't think I want to be a rogue.\nWhat about you?",
         "pt-BR": "[Rumin]\nHum... Acho que não quero ser um Arruaceiro.\nE quanto a você?",
-        "es-ES": "[Rumin]\nEh… Creo que no quiero ser clase Pícaro.\n¿Qué hay de ti?"
+        "es-ES": "[Rumin]\nEh... Creo que no quiero ser clase Pícaro.\n¿Qué hay de ti?"
     },
     "l1ffBg": {
         "en-US": "Huh? Me neither.",
@@ -1242,12 +1242,12 @@
     "mFffBg": {
         "en-US": "Well... maybe...",
         "pt-BR": "Bem... talvez...",
-        "es-ES": "Bueno… Quizás…"
+        "es-ES": "Bueno... Quizás..."
     },
     "mVffBg": {
         "en-US": "[Rumin]\nGood. Walk the path of blood with me, then.\nWe shall become shadows within the darkness...",
         "pt-BR": "[Rumin]\nBom. Percorra o caminho dos Mercenários comigo, então.\nNós nos tornaremos Mercenários das trevas...",
-        "es-ES": "[Rumin]\nBien. Entonces, acompáñame en el camino de la sangre.\nNos convertiremos en sombras en medio de la oscuridad…"
+        "es-ES": "[Rumin]\nBien. Entonces, acompáñame en el camino de la sangre.\nNos convertiremos en sombras en medio de la oscuridad..."
     },
     "mlffBg": {
         "en-US": "I don't want to become a Thief.",
@@ -1262,17 +1262,17 @@
     "nFffBg": {
         "en-US": "[Rumin]\n...How odd.",
         "pt-BR": "[Rumin]\n...Estranho.",
-        "es-ES": "[Rumin]\n…Qué raro."
+        "es-ES": "[Rumin]\n...Qué raro."
     },
     "nVffBg": {
         "en-US": "[Vicente]\nHahahaha... Enough of your horror stories... Haha...",
         "pt-BR": "[Vicente]\nHahahahaha... Chega de suas histórias de terror... Haha...",
-        "es-ES": "[Vicente]\nJa, ja, ja, ja… Ya basta de tus historias de terror… Ja, ja…"
+        "es-ES": "[Vicente]\nJa, ja, ja, ja... Ya basta de tus historias de terror... Ja, ja..."
     },
     "nlffBg": {
         "en-US": "[Rumin]\n... (Snorts)",
         "pt-BR": "[Rumin]\n... (resmunga)",
-        "es-ES": "[Rumin]\n… *Resopla*"
+        "es-ES": "[Rumin]\n... *Resopla*"
     },
     "n1ffBg": {
         "en-US": "[Rumin]\nI see.\nWeakening enemies by removing their armor is, in fact, an effective tactic.\nRight up my alley.",
@@ -1282,12 +1282,12 @@
     "oFffBg": {
         "en-US": "[Vicente]\nMake up your mind, will ya!\n(Sigh) I thought my master was the only one like that...",
         "pt-BR": "[Vicente]\n...\nBom, isso foi tudo...",
-        "es-ES": "[Vicente]\n¡Decídete de una vez!\n*Suspira* Pensé que mi maestro era el único así…"
+        "es-ES": "[Vicente]\n¡Decídete de una vez!\n*Suspira* Pensé que mi maestro era el único así..."
     },
     "oVffBg": {
         "en-US": "[Vicente]\nUgh...\nThat's depressing.",
         "pt-BR": "[Vicente]\n...\nEstou cansado, de verdade.",
-        "es-ES": "[Vicente]\nUf…\nQué deprimente."
+        "es-ES": "[Vicente]\nUf...\nQué deprimente."
     },
     "olffBg": {
         "en-US": "[Vicente]\nGo talk to Mayshell if you wish to continue the lecture.\nShe will tell you some useful things.",
@@ -1302,7 +1302,7 @@
     "pFffBg": {
         "en-US": "[Vicente]\nI was about to let you practice the ^4D4DFFSteal skill, which you can use to steal things from monsters^000000, but...\nWell, it can be skipped. All you need to know is what the skill is.",
         "pt-BR": "[Vicente]\nTínhamos preparado um treinamento que envolvia ^4D4DFFroubar itens de monstros^000000, mas...\nMinha função é apenas lhe passar as informações...",
-        "es-ES": "[Vicente]\nIba a dejar que practiques la ^4D4DFFhabilidad Robar, que puedes usar para robarles cosas a los monstruos^000000, pero…\nBueno, podemos omitirla. Solo necesitas saber qué es esa habilidad."
+        "es-ES": "[Vicente]\nIba a dejar que practiques la ^4D4DFFhabilidad Robar, que puedes usar para robarles cosas a los monstruos^000000, pero...\nBueno, podemos omitirla. Solo necesitas saber qué es esa habilidad."
     },
     "pVffBg": {
         "en-US": "[Vicente]\nI will mark the course as complete.\nCan you tell me what Steal is?",
@@ -1327,7 +1327,7 @@
     "qVffBg": {
         "en-US": "I don't know...",
         "pt-BR": "Eu sei lá...",
-        "es-ES": "No lo sé…"
+        "es-ES": "No lo sé..."
     },
     "qlffBg": {
         "en-US": "[Vicente]\nNo, don't do that.\nYou may not steal other peoples' belongings.",
@@ -1367,12 +1367,12 @@
     "sVffBg": {
         "en-US": "[Vicente]\nHmm... You don't meet the level requirements for the manual.\nThat means you won't be able to steal that stone...",
         "pt-BR": "[Vicente]\nVocê não consegue nem equipar o Manual....\nComo vai roubar uma pedra?",
-        "es-ES": "[Vicente]\nMmm… No cumples los requisitos de nivel para el manual.\nEso significa que no podrás robar esa piedra…"
+        "es-ES": "[Vicente]\nMmm... No cumples los requisitos de nivel para el manual.\nEso significa que no podrás robar esa piedra..."
     },
     "slffBg": {
         "en-US": "[Vicente]\nWell...\nOh, how to use thief skills from the manual?\nYou should equip the manual item first.",
         "pt-BR": "[Vicente]\n...\nUse o Manual dos Gatunos...\nPrimeiro, equipe o Manual.",
-        "es-ES": "[Vicente]\nBueno…\nAh, ¿quieres saber cómo usar las habilidades de los Ladrones con el manual?\nPrimero, debes equipar el manual."
+        "es-ES": "[Vicente]\nBueno...\nAh, ¿quieres saber cómo usar las habilidades de los Ladrones con el manual?\nPrimero, debes equipar el manual."
     },
     "s1ffBg": {
         "en-US": "[Vicente]\n^4D4DFFDouble click the item you want to equip^000000, or open the equipment window and drag and drop the item.",
@@ -1447,12 +1447,12 @@
     "wVffBg": {
         "en-US": "[Vicente]\n...Not me, thanks.\nI just want to gem-craft in my workshop, like how I always did.",
         "pt-BR": "[Vicente]\nAh, não acho...\nPrefiro estar relaxando em uma praia... Tomando um suco de laranja...",
-        "es-ES": "[Vicente]\n…Yo no, gracias.\nSolo quiero fabricar gemas en mi taller, igual que siempre."
+        "es-ES": "[Vicente]\n...Yo no, gracias.\nSolo quiero fabricar gemas en mi taller, igual que siempre."
     },
     "wlffBg": {
         "en-US": "[Mayshell]\n.... .. ..\nOh, Verkhasell. What is it you desire?\nI will grant you your wish. Haha...",
         "pt-BR": "[Mayshell]\n...\nMuita conversa e pouco trabalho...\nVamos, parem de papear...",
-        "es-ES": "[Mayshell]\n.... .. ..\nAh, Verkhasell. ¿Qué deseas?\nTe concederé tu deseo. Ja, ja…"
+        "es-ES": "[Mayshell]\n.... .. ..\nAh, Verkhasell. ¿Qué deseas?\nTe concederé tu deseo. Ja, ja..."
     },
     "w1ffBg": {
         "en-US": "Things are getting weird.\nI'd better get out of here.",
@@ -1467,12 +1467,12 @@
     "xVffBg": {
         "en-US": "[Vicente]\nBy the way, I have a workshop in Lighthalzen.\nPlease come by and say hello.\n..",
         "pt-BR": "[Vicente]\nA propósito, tenho um Ateliê em Lighthalzen.\nPor favor, passe por lá e diga olá.\nHehe.",
-        "es-ES": "[Vicente]\nPor cierto, tengo un taller en Lighthalzen.\nVe a visitarlo cuando quieras.\n…"
+        "es-ES": "[Vicente]\nPor cierto, tengo un taller en Lighthalzen.\nVe a visitarlo cuando quieras.\n..."
     },
     "xlffBg": {
         "en-US": "[Vicente]\nThough I likely won't recognize you.\nHaha...",
         "pt-BR": "[Vicente]\nProvavelmente vou esquecer de você quando você for embora...\nHaha...",
-        "es-ES": "[Vicente]\nAunque es muy probable que no te reconozca.\nJa, ja…"
+        "es-ES": "[Vicente]\nAunque es muy probable que no te reconozca.\nJa, ja..."
     },
     "x1ffBg": {
         "en-US": "[Vicente]\nYou are not a student of Criatura Academy.\nYou need to become a student first if you want to learn about jobs.",
@@ -1507,12 +1507,12 @@
     "zVffBg": {
         "en-US": "[Vicente]\nHaha... No one wants to do that bloody work.",
         "pt-BR": "[Vicente]\nAcho que ninguém quer saber desses trabalhos sangrentos.",
-        "es-ES": "[Vicente]\nJa, ja… Nadie quiere hacer ese maldito trabajo."
+        "es-ES": "[Vicente]\nJa, ja... Nadie quiere hacer ese maldito trabajo."
     },
     "zlffBg": {
         "en-US": "[Vicente]\n...Haha... Let's talk this over, shall we?\nThose were just silly remarks, pay them no mind...",
         "pt-BR": "[Vicente]\n...\nAlém do mais, os Arruaceiros são melhores.",
-        "es-ES": "[Vicente]\nJa, ja… Vamos a charlarlo, ¿sí?\nFueron comentarios tontos, no les des importancia…"
+        "es-ES": "[Vicente]\nJa, ja... Vamos a charlarlo, ¿sí?\nFueron comentarios tontos, no les des importancia..."
     },
     "z1ffBg": {
         "en-US": "Don't make things awkward now!",
@@ -1527,7 +1527,7 @@
     "0VffBg": {
         "en-US": "[Vicente]\nIt's a course for novices who want to become thieves.\nHaha...",
         "pt-BR": "[Vicente]\nHm.. Veja só, cada vez mais Aprendizes querem se tornar Gatunos...\nCômico, eu diria... Hahahaha",
-        "es-ES": "[Vicente]\nEs un curso para Principiantes que quieren convertirse en Ladrones.\nJa, ja…"
+        "es-ES": "[Vicente]\nEs un curso para Principiantes que quieren convertirse en Ladrones.\nJa, ja..."
     },
     "0lffBg": {
         "en-US": "Verkhasell",
@@ -1547,7 +1547,7 @@
     "1VffBg": {
         "en-US": "...When do we start?",
         "pt-BR": "...Você não dá instruções?",
-        "es-ES": "¿…Cuándo empezamos?"
+        "es-ES": "¿...Cuándo empezamos?"
     },
     "1lffBg": {
         "en-US": "[Rumin]\nAww, poor thing. Are you afraid of that old man?\nI'm here for you. Don't be afraid.",
@@ -1562,12 +1562,12 @@
     "2FffBg": {
         "en-US": "[Rumin]\n...What did I do?\nMr. Substitute Teacher?",
         "pt-BR": "[Rumin]\n...O que eu fiz?\nVocê é um Professor Substituto?",
-        "es-ES": "[Rumin]\n¿Qué hice…\nseñor maestro sustituto?"
+        "es-ES": "[Rumin]\n¿Qué hice...\nseñor maestro sustituto?"
     },
     "2VffBg": {
         "en-US": "[Verkhasell]\n... Tsk.\nSo, what do you want to know?",
         "pt-BR": "[Verkhasell]\n... Tsc, tsc.\nTá, pergunta logo. O que você quer?",
-        "es-ES": "[Verkhasell]\n… Pf.\nEntonces, ¿qué quieres saber?"
+        "es-ES": "[Verkhasell]\n... Pf.\nEntonces, ¿qué quieres saber?"
     },
     "2lffBg": {
         "en-US": "Attack skills.",
@@ -1672,12 +1672,12 @@
     "7lffBg": {
         "en-US": "[Verkhasell]\n... Yeah, sure you do.\nEnough, Lu.\nAny more questions?",
         "pt-BR": "[Verkhasell]\n...Você será bem-vindo na nossa Guilda.\nMas enfim, Rumin.\nMais alguma pergunta?",
-        "es-ES": "[Verkhasell]\n… Sí, claro que quieres.\nSuficiente, Lu.\n¿Alguna otra pregunta?"
+        "es-ES": "[Verkhasell]\n... Sí, claro que quieres.\nSuficiente, Lu.\n¿Alguna otra pregunta?"
     },
     "71ffBg": {
         "en-US": "[Verkhasell]\nReally? You have no questions?\nDragged here against my will, only to be ignored... Woe is me.",
         "pt-BR": "[Verkhasell]\nSério? Você não tem perguntas?\nArrastado para cá contra minha vontade, apenas para ser ignorado...",
-        "es-ES": "[Verkhasell]\n¿De verdad? ¿No tiene preguntas?\nMe arrastraron hasta aquí en contra de mi voluntad, solo para que me ignoren… Pobre de mí."
+        "es-ES": "[Verkhasell]\n¿De verdad? ¿No tiene preguntas?\nMe arrastraron hasta aquí en contra de mi voluntad, solo para que me ignoren... Pobre de mí."
     },
     "8FffBg": {
         "en-US": "[Verkhasell]\nAll right.\nLet's call it a day, as you haven't ignored me.",
@@ -1712,7 +1712,7 @@
     "9lffBg": {
         "en-US": "[Verkhasell]\n... You.\n...Tsk. Why do I even bother?",
         "pt-BR": "[Verkhasell]\n... Você.\nUm dia Rumin... Um dia!",
-        "es-ES": "[Verkhasell]\n… Tú.\n*Tsc* ¿Para qué me molesto?"
+        "es-ES": "[Verkhasell]\n... Tú.\n*Tsc* ¿Para qué me molesto?"
     },
     "91ffBg": {
         "en-US": "[Verkhasell]\nListen to what Mayshell has to say if you want to know more about thieves.\nYou won't get anything by nagging me here.",
@@ -1727,7 +1727,7 @@
     "+VffBg": {
         "en-US": "[Verkhasell]\nI was going to tell you to use Envenom to defeat a poring, but...\nI guess I can't, seeing as you cannot use that skill.",
         "pt-BR": "[Verkhasell]\nNormalmente eu pediria para você usar Envenenar para matar Porings.\nMas se não pode usar habilidades, não dá pra te ajudar.",
-        "es-ES": "[Verkhasell]\nTe iba a decir que uses Envenenamiento para derrotar a un Poring, pero…\nsupongo que no puedo porque no puedes usar esa habilidad."
+        "es-ES": "[Verkhasell]\nTe iba a decir que uses Envenenamiento para derrotar a un Poring, pero...\nsupongo que no puedo porque no puedes usar esa habilidad."
     },
     "+lffBg": {
         "en-US": "[Verkhasell]\nYou can poison your enemy with Envenom.\nEven if it fails to poison the target, it will still deal poison damage.",
@@ -1772,7 +1772,7 @@
     "AljfBg": {
         "en-US": "[Verkhasell]\nThat's your assignment.\nYou have to use Envenom on the poring inside this room.\nDon't run out into the wild and try to find one...",
         "pt-BR": "[Verkhasell]\nEssa é sua tarefa.\nTenha certeza de envenenar os Porings dessa sala.\nNão precisa sair procurando Porings por aí.",
-        "es-ES": "[Verkhasell]\nEsa es tu tarea.\nTienes que usar Envenenamiento sobre el Poring que está en la sala.\nNo salgas a buscar uno…"
+        "es-ES": "[Verkhasell]\nEsa es tu tarea.\nTienes que usar Envenenamiento sobre el Poring que está en la sala.\nNo salgas a buscar uno..."
     },
     "A1jfBg": {
         "en-US": "[Rumin]\nHmm.\nThat's a pity.\nI'm sorry that you will be unable to use the Envenom skill.",
@@ -1847,7 +1847,7 @@
     "EVjfBg": {
         "en-US": "[Verkhasell]\nYou are not one of our students. I have nothing to say to you.\nYou see, I was forced to come here, and I have no reason to be kind to you...",
         "pt-BR": "[Verkhasell]\nNão tenho nada a falar para aqueles que não se matricularam.\nVeja bem, fui forçado a vir aqui e não tenho motivos para ser gentil com você...",
-        "es-ES": "[Verkhasell]\nNo eres estudiante. No tengo nada que decirte.\nMe obligaron a venir y no tengo motivos para tratarte bien…"
+        "es-ES": "[Verkhasell]\nNo eres estudiante. No tengo nada que decirte.\nMe obligaron a venir y no tengo motivos para tratarte bien..."
     },
     "EljfBg": {
         "en-US": "[Mayshell]\nCut that out, Verkhasell.\nNo need to nag an innocent bystander.\nWhy don't you help me with my class instead?",
@@ -1857,7 +1857,7 @@
     "E1jfBg": {
         "en-US": "... Probably time to go.",
         "pt-BR": "... Melhor ir embora.",
-        "es-ES": "… Creo que es hora de irme."
+        "es-ES": "... Creo que es hora de irme."
     },
     "FFjfBg": {
         "en-US": "[Verkhasell]\nHey, you!\nWhat do you want to be?",
@@ -1882,12 +1882,12 @@
     "GFjfBg": {
         "en-US": "[Verkhasell]\n..... ........\n(Verkhasell looks up to the sky)\n...\n ...Ha!",
         "pt-BR": "[Verkhasell]\n...\n(Verkhasel se perde nos próprios pensamentos)\n...\nHahahaha",
-        "es-ES": "[Verkhasell]\n..... ........\n(Verkhasell mira al cielo).\n…\n ¡…Ja!"
+        "es-ES": "[Verkhasell]\n..... ........\n(Verkhasell mira al cielo).\n...\n ¡...Ja!"
     },
     "GVjfBg": {
         "en-US": "Well, so much for that, then...",
         "pt-BR": "Que cara estranho...",
-        "es-ES": "Bueno, entonces, hasta aquí llegamos…"
+        "es-ES": "Bueno, entonces, hasta aquí llegamos..."
     },
     "GljfBg": {
         "en-US": "[Verkhasell]\nGo over there.",
@@ -1907,12 +1907,12 @@
     "HVjfBg": {
         "en-US": "[Vicente]\nHow can you say that to me...\nDid I ask you to buy anything? Did I?",
         "pt-BR": "[Vicente]\nPalavras machucam, sabia?!\n...",
-        "es-ES": "[Vicente]\n¿Cómo puedes decirme eso…?\n¿Acaso te pedí que compres algo? ¿Lo hice?"
+        "es-ES": "[Vicente]\n¿Cómo puedes decirme eso...?\n¿Acaso te pedí que compres algo? ¿Lo hice?"
     },
     "HljfBg": {
         "en-US": "[Mayshell]\n... You two are like peas in a pod.",
         "pt-BR": "[Mayshell]\nParem... Os dois!",
-        "es-ES": "[Mayshell]\n… Ustedes son como dos gotas de agua."
+        "es-ES": "[Mayshell]\n... Ustedes son como dos gotas de agua."
     },
     "H1jfBg": {
         "en-US": "What in heaven's name is going on?",
@@ -1962,12 +1962,12 @@
     "KFjfBg": {
         "en-US": "[Rumin]\n...Hm.\nScaredy-cat.",
         "pt-BR": "[Rumin]\n....\nCovarde!",
-        "es-ES": "[Rumin]\nMmm…\nTienes miedo."
+        "es-ES": "[Rumin]\nMmm...\nTienes miedo."
     },
     "KVjfBg": {
         "en-US": "[Rumin]\n... All right!\nLet the games begin... now!\n^4D4DFFDefeat 4 porings within 30 seconds, then come talk to me!^000000",
         "pt-BR": "[Rumin]\n...\nEntão prepare-se!\nVocê tem que derrotar todos os ^4D4DFF4 Porings e vir falar comigo antes de acabarem os 30 segundos!^000000",
-        "es-ES": "[Rumin]\n… ¡Muy bien!\nQue comiencen los juegos… ¡Ya!\n^4D4DFFDerrota a 4Poring en 30segundos y luego ven a verme.^000000"
+        "es-ES": "[Rumin]\n... ¡Muy bien!\nQue comiencen los juegos... ¡Ya!\n^4D4DFFDerrota a 4Poring en 30segundos y luego ven a verme.^000000"
     },
     "KljfBg": {
         "en-US": "[Rumin]\nThe target won't die from poison.\nIt just speeds up their journey down the Styx a bit.",
@@ -1977,12 +1977,12 @@
     "K1jfBg": {
         "en-US": "[Rumin]\n...I wonder why those porings are looking away.",
         "pt-BR": "[Rumin]\n...Eu me pergunto por que aqueles porings estão olhando para longe.",
-        "es-ES": "[Rumin]\n…Me pregunto por qué esos Poring miran hacia otro lado."
+        "es-ES": "[Rumin]\n...Me pregunto por qué esos Poring miran hacia otro lado."
     },
     "LFjfBg": {
         "en-US": "[Rumin]\n...Time's up. You couldn't defeat 4 porings.\nThis is no fun.",
         "pt-BR": "[Rumin]\n...Acabou o tempo. Você não conseguiu derrotar 4 porings.\nIsso não é divertido.",
-        "es-ES": "[Rumin]\n…Se acabó el tiempo. No pudiste derrotar a los 4Poring.\nEsto no es para nada divertido."
+        "es-ES": "[Rumin]\n...Se acabó el tiempo. No pudiste derrotar a los 4Poring.\nEsto no es para nada divertido."
     },
     "LVjfBg": {
         "en-US": "[Rumin]\nSo be it.\nI won't declare a victor this time, as I am a nice person.",
@@ -2037,12 +2037,12 @@
     "N1jfBg": {
         "en-US": "[Rumin]\nMay we meet again.\nMaking a new friend is both pleasant and heart-wrenchingly sad...",
         "pt-BR": "[Rumin]\nQue possamos nos encontrar novamente.\nFazer um novo amigo é ao mesmo tempo agradável e dolorosamente triste...",
-        "es-ES": "[Rumin]\nOjalá volvamos a vernos.\nEntablar una amistad nueva es agradable y desgarradoramente triste a la vez…"
+        "es-ES": "[Rumin]\nOjalá volvamos a vernos.\nEntablar una amistad nueva es agradable y desgarradoramente triste a la vez..."
     },
     "OFjfBg": {
         "en-US": "[Rumin]\n... Just try not to die in front of me, alright?",
         "pt-BR": "[Rumin]\n... Apenas tente não morrer na minha frente, certo?",
-        "es-ES": "[Rumin]\n… Solo intenta no morir frente a mí, ¿sí?"
+        "es-ES": "[Rumin]\n... Solo intenta no morir frente a mí, ¿sí?"
     },
     "OVjfBg": {
         "en-US": "[Rumin]\nThe day has finally come.",
@@ -2062,7 +2062,7 @@
     "PFjfBg": {
         "en-US": "You don't have to explain...",
         "pt-BR": "Você não precisa explicar...",
-        "es-ES": "No tienes que darme explicaciones…"
+        "es-ES": "No tienes que darme explicaciones..."
     },
     "PVjfBg": {
         "en-US": "[Rumin]\nI didn't want you to think I was a weirdo.\nAnyway, I have to bring prospective thieves to the Thieves' Guild as often as I can, so please forget what you have seen here today.",
@@ -2112,7 +2112,7 @@
     "RljfBg": {
         "en-US": "Ah... is that so?",
         "pt-BR": "Entendo...",
-        "es-ES": "Ah… ¿De verdad?"
+        "es-ES": "Ah... ¿De verdad?"
     },
     "R1jfBg": {
         "en-US": "I lost it.",
@@ -2147,7 +2147,7 @@
     "TVjfBg": {
         "en-US": "[General Store Owner Quary]\nThe price of the book is 1000 Zeny.\nYou seem to be short of Zeny..",
         "pt-BR": "[Everaldo, dono da loja]\nO preço do livro é 1.000 Zeny.\nParece que você está com pouco Zeny...",
-        "es-ES": "[Quary, dueña de merc.]\nEl precio del libro es de 1000zeny.\nParece que te faltan zeny…"
+        "es-ES": "[Quary, dueña de merc.]\nEl precio del libro es de 1000zeny.\nParece que te faltan zeny..."
     },
     "TljfBg": {
         "en-US": "[General Store Owner Quary]\nPlease come back again!",

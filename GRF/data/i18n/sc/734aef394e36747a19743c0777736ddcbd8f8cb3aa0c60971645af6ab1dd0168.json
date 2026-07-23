@@ -82,7 +82,7 @@
     "8LB/Aw": {
         "en-US": "[Yerne]\nYay! I knew you would want to take it.\nNow, let me list your targets ... There are lots of fascinating monsters!\nAnd while you're at it ...",
         "pt-BR": "[Zeca]\nCerto, vejamos a lista...\n... tem cada coisa legal!\nNão sei o que escolher...",
-        "es-ES": "[Yerne]\n¡Sí! Sabía que la aceptarías.\nAhora, déjame enumerar tus objetivos… ¡Hay muchos monstruos fascinantes!\nY ya que estás en eso…"
+        "es-ES": "[Yerne]\n¡Sí! Sabía que la aceptarías.\nAhora, déjame enumerar tus objetivos... ¡Hay muchos monstruos fascinantes!\nY ya que estás en eso..."
     },
     "8bB/Aw": {
         "en-US": "[Theodore]\nYerne? Haven't I told you not to use quests for your own gain?",
@@ -147,12 +147,12 @@
     "/bB/Aw": {
         "en-US": "[Yerne]\nPinguicula ... it's a beautiful monster.\nDrooping red leaves resembling a skirt with green buds like a girl's tied hair ...\nTalk about elegance and beauty!",
         "pt-BR": "[Zeca]\nPinguiculas... são tão lindas.\nEla usa as pétalas de rosa como um vestidinho...\nQue fofinha!",
-        "es-ES": "[Yerne]\nLa Pinguicula… es un monstruo hermoso.\nTiene unas hojas rojas que caen y parecen una falda, y unos brotes verdes que se ven como colitas en una chica…\n¡Eso sí que es elegancia y belleza!"
+        "es-ES": "[Yerne]\nLa Pinguicula... es un monstruo hermoso.\nTiene unas hojas rojas que caen y parecen una falda, y unos brotes verdes que se ven como colitas en una chica...\n¡Eso sí que es elegancia y belleza!"
     },
     "/rB/Aw": {
         "en-US": "[Yerne]\nUh, your job is to eliminate 30 Pinguiculas.\nBut if you can catch one alive, I'd love to tame it ...",
         "pt-BR": "[Zeca]\nA missão é caçar 30 Pinguiculas.\nSe puder trazer o vestidinho delas pra mim...",
-        "es-ES": "[Yerne]\nTu trabajo es eliminar 30 Pinguicula.\nPero si puedes atrapar una viva, me encantaría domarla…"
+        "es-ES": "[Yerne]\nTu trabajo es eliminar 30 Pinguicula.\nPero si puedes atrapar una viva, me encantaría domarla..."
     },
     "/7B/Aw": {
         "en-US": "[Theodore]\nYerne! Don't talk such nonsense!\nAdventurer, please ignore all personal requests from Yerne.",
@@ -162,7 +162,7 @@
     "ALF/Aw": {
         "en-US": "[Yerne]\nDang ... how did he hear me?\nIt's ^0000CD30 Pinguiculas^000000. Take care, then!",
         "pt-BR": "[Zeca]\nBah... você tem razão.\n^0000CDCace 30 Pinguiculas^000000, por favor!",
-        "es-ES": "[Yerne]\nRayos… ¿cómo me oyó?\nSon ^0000CD30 Pinguicula^000000. ¡Cuídate!"
+        "es-ES": "[Yerne]\nRayos... ¿cómo me oyó?\nSon ^0000CD30 Pinguicula^000000. ¡Cuídate!"
     },
     "AbF/Aw": {
         "en-US": "[Yerne]\nYou have to watch out for Luciola Vespa stings around here.\nThey can kill you in a matter of seconds, so we need a skilled warrior like you to clear them out.",
@@ -172,12 +172,12 @@
     "ArF/Aw": {
         "en-US": "[Yerne]\nBut ... it could be a remarkable experience to die from its sting.\nIt would be scary but thrilling ...",
         "pt-BR": "[Zeca]\nE... não é legal levar uma picadura, não é?\nÉ muito dolorido...",
-        "es-ES": "[Yerne]\nAunque… sería una experiencia extraordinaria morir por su aguijón.\nSería aterrador pero emocionante…"
+        "es-ES": "[Yerne]\nAunque... sería una experiencia extraordinaria morir por su aguijón.\nSería aterrador pero emocionante..."
     },
     "A7F/Aw": {
         "en-US": "[Yerne]\nPlease hunt Luciola Vespas, and ... can I tag along?",
         "pt-BR": "[Zeca]\nSerá que eu posso seguir você enquanto encontra as Vespas-Vagalumes?",
-        "es-ES": "[Yerne]\nCaza Luciola vespa, y… ¿puedo acompañarte?"
+        "es-ES": "[Yerne]\nCaza Luciola vespa, y... ¿puedo acompañarte?"
     },
     "BLF/Aw": {
         "en-US": "[Theodore]\nYerne! It's dangerous outside. I told you not to go out! No exceptions!",
@@ -187,7 +187,7 @@
     "BbF/Aw": {
         "en-US": "[Yerne]\nYeah, yeah ... He says no. Just the hunt will do. ^0000CDLuciola Vespas^000000, ^0000CD30 of them^000000 please.",
         "pt-BR": "[Zeca]\nSim, sim... Enfim, encontre esses monstros. ^0000CDVespa-Vagalume^000000, ^0000CD30 delas^000000, por favor.",
-        "es-ES": "[Yerne]\nSí, sí… Dice que no. Con la caza basta. ^0000CDLuciola vespa^000000, ^0000CDcaza 30 de ellos^000000, por favor."
+        "es-ES": "[Yerne]\nSí, sí... Dice que no. Con la caza basta. ^0000CDLuciola vespa^000000, ^0000CDcaza 30 de ellos^000000, por favor."
     },
     "BrF/Aw": {
         "en-US": "[Yerne]\nThere is this monster dominating the Splendide Field.\nIt's beautiful, yet very powerful. Even its name sounds cool!",
@@ -197,17 +197,17 @@
     "B7F/Aw": {
         "en-US": "[Yerne]\nTo hunt down such an amazing creature ...\nIt's name is ^0000CDTendrilion^000000... Kill ^0000CD1 of them^000000, please.",
         "pt-BR": "[Zeca]\nPode ser bem difícil de encontrá-lo...\n^0000CDLeão de Vinhas^000000, por favor... ^0000CD1 só^000000 já deve ser o suficiente.",
-        "es-ES": "[Yerne]\nImagina cazar a una criatura tan asombrosa…\nSu nombre es ^0000CDLeón enredadera^000000… Mata a ^0000CD1 de ellos^000000, por favor."
+        "es-ES": "[Yerne]\nImagina cazar a una criatura tan asombrosa...\nSu nombre es ^0000CDLeón enredadera^000000... Mata a ^0000CD1 de ellos^000000, por favor."
     },
     "CLF/Aw": {
         "en-US": "[Yerne]\nAnd please tell me in detail how loudly they roared at you when they first saw you, and their attack patterns, and ... how they fell ... Woot, woot ...",
         "pt-BR": "[Zeca]\nQuando voltar, me fala como é o rugido dele... aposto que faz RAWR...",
-        "es-ES": "[Yerne]\nY cuéntame con detalle lo fuerte que rugió cuando te vio por primera vez, sus patrones de ataque y… cómo cayó… ¡Cielos!…"
+        "es-ES": "[Yerne]\nY cuéntame con detalle lo fuerte que rugió cuando te vio por primera vez, sus patrones de ataque y... cómo cayó... ¡Cielos!..."
     },
     "CbF/Aw": {
         "en-US": "[Yerne]\nHmm ... The quests here will be given only to Adventurers strong enough to take on moderately dangerous missions.\nPlus, all quests are taken now. Why don't you train some more and come back?",
         "pt-BR": "[Zeca]\nAh~ Essa missão não é para você.\nEstamos precisando de pessoas fortes. Quando que você vai ficar assim?",
-        "es-ES": "[Yerne]\nMmm… Estas misiones solo son para los trotamundos lo suficientemente fuertes como para aceptar misiones moderadamente peligrosas.\nAdemás, todas las misiones están asignadas. ¿Por qué no entrenas un poco más y vuelves?"
+        "es-ES": "[Yerne]\nMmm... Estas misiones solo son para los trotamundos lo suficientemente fuertes como para aceptar misiones moderadamente peligrosas.\nAdemás, todas las misiones están asignadas. ¿Por qué no entrenas un poco más y vuelves?"
     },
     "CrF/Aw": {
         "en-US": "- This quest is for Level 110 and up. -",
@@ -217,12 +217,12 @@
     "C7F/Aw": {
         "en-US": "[Yerne]\nIf Pinguiculas can be considered elegant little girls, there is one type of monster that's more like a voluptuous lady.\nThe dark Pinguiculas ... they are dangerously attractive. Hehe, hehehehe ...",
         "pt-BR": "[Zeca]\nSe a Pinguicula comum é fofinha, a sua versão venenosa é perigosa.\nPinguicula Sombria... cuidado com ela...",
-        "es-ES": "[Yerne]\nSi la Pinguicula parece una chica elegante, hay un tipo de monstruo que se parece más a una voluptuosa dama.\nLa Pinguicula oscura… es peligrosamente atractiva. Je, je, je, je, je, je…"
+        "es-ES": "[Yerne]\nSi la Pinguicula parece una chica elegante, hay un tipo de monstruo que se parece más a una voluptuosa dama.\nLa Pinguicula oscura... es peligrosamente atractiva. Je, je, je, je, je, je..."
     },
     "DLF/Aw": {
         "en-US": "[Yerne]\nKeep your voice down, and come ... come closer.\nSo if you can get me just one Dark Pinguicula alive ...",
         "pt-BR": "[Zeca]\nEi, deixa eu te falar no seu ouvido... chega mais perto.\nO vestidinho dela também é bonito...",
-        "es-ES": "[Yerne]\nBaja la voz y ven… acércate.\nSi puedes conseguirme una sola Pinguicula oscura viva…"
+        "es-ES": "[Yerne]\nBaja la voz y ven... acércate.\nSi puedes conseguirme una sola Pinguicula oscura viva..."
     },
     "DbF/Aw": {
         "en-US": "[Theodore]\nYerne. I can hear you.",
@@ -237,12 +237,12 @@
     "D7F/Aw": {
         "en-US": "[Yerne]\nYou have to kill 30 Nepentheses ... but, you know. I recently fell in love with pressed flower bookmarks.\nRather than keeping a flower alive, I find it better to make it my bookmark forever ...",
         "pt-BR": "[Zeca]\nCace 30 Nepenthes... por favor, elas atacam de longe.\nElas tem umas flores lindas que dá para usar como marca-páginas...",
-        "es-ES": "[Yerne]\nTienes que matar a 30 Nepenthes… pero, ¿sabes? Hace poco me enamoré de los marcadores de flores prensadas.\nEn lugar de mantener viva una flor, me parece mejor convertirla en un marcador eterno…"
+        "es-ES": "[Yerne]\nTienes que matar a 30 Nepenthes... pero, ¿sabes? Hace poco me enamoré de los marcadores de flores prensadas.\nEn lugar de mantener viva una flor, me parece mejor convertirla en un marcador eterno..."
     },
     "ELF/Aw": {
         "en-US": "[Yerne]\nWhat do I mean? Of course I'm talking about Nepentheses.\nSo once you kill it, I'll dry it and ...",
         "pt-BR": "[Zeca]\nSei que Nepenthes não dão naturalmente marca-páginas.\nMas eu queria um marca-páginas personalizado de Nepenthes...",
-        "es-ES": "[Yerne]\n¿A qué me refiero? Claro que estoy hablando de los Nepenthes.\nAsí que cuando los mates, los secaré y…"
+        "es-ES": "[Yerne]\n¿A qué me refiero? Claro que estoy hablando de los Nepenthes.\nAsí que cuando los mates, los secaré y..."
     },
     "EbF/Aw": {
         "en-US": "[Theodore]\nYou can't make it into your own bookmark.",
@@ -252,7 +252,7 @@
     "ErF/Aw": {
         "en-US": "[Yerne]\nRight. I can't make it into my ... Theodore!",
         "pt-BR": "[Zeca]\nÉ o que eu estou dizendo! Não tente isso, viajante!!",
-        "es-ES": "[Yerne]\nBien. No puedo convertirlo en mi… ¡Theodore!"
+        "es-ES": "[Yerne]\nBien. No puedo convertirlo en mi... ¡Theodore!"
     },
     "E7F/Aw": {
         "en-US": "[Theodore]\nNo.",
@@ -262,22 +262,22 @@
     "FLF/Aw": {
         "en-US": "[Yerne]\n...^0000CD30 Nepentheses^000000, please ...",
         "pt-BR": "[Zeca]\n......^0000CDCace 30 Nepenthes^000000, por favor...",
-        "es-ES": "[Yerne]\n…^0000CD30 Nepenthes^000000, por favor…"
+        "es-ES": "[Yerne]\n...^0000CD30 Nepenthes^000000, por favor..."
     },
     "FbF/Aw": {
         "en-US": "[Yerne]\nGood muscles are a wonderful sight even if they're not human ...\nI'm talking about the Nagas. I want to get a good look at them ... but Theodore won't let me leave the post.",
         "pt-BR": "[Zeca]\nTem um monstro muito musculoso...\nNagas, são cobras enormes que eu gostaria de saber qual é o ritmo de treino delas.",
-        "es-ES": "[Yerne]\nEs maravilloso ver músculos trabajados, aunque no sean humanos…\nHablo de los Naga. Quiero verlos de cerca… pero Theodore no me deja salir del puesto de avanzada."
+        "es-ES": "[Yerne]\nEs maravilloso ver músculos trabajados, aunque no sean humanos...\nHablo de los Naga. Quiero verlos de cerca... pero Theodore no me deja salir del puesto de avanzada."
     },
     "FrF/Aw": {
         "en-US": "[Yerne]\nHow about I follow you secretly while you're hunting Nagas?\nOr watch from the post through binoculars ...",
         "pt-BR": "[Zeca]\nE se a gente observar elas malhando?\nEu posso subir naquele observatório...",
-        "es-ES": "[Yerne]\n¿Qué tal si te sigo en secreto mientras cazas a los Naga?\nO los veo desde el puesto con binoculares…"
+        "es-ES": "[Yerne]\n¿Qué tal si te sigo en secreto mientras cazas a los Naga?\nO los veo desde el puesto con binoculares..."
     },
     "F7F/Aw": {
         "en-US": "[Theodore]\n... I'll let you watch them from here. But you can't go outside.",
         "pt-BR": "[Téo]\n...Você não tem autorização para entrar no observatório.",
-        "es-ES": "[Theodore]\n… Dejaré que los veas desde aquí. Pero no puedes salir."
+        "es-ES": "[Theodore]\n... Dejaré que los veas desde aquí. Pero no puedes salir."
     },
     "GLF/Aw": {
         "en-US": "[Yerne]\nWow, he heard me again! Y-you're saying I can watch them? Yay! You heard him! Adventurer!\nKill ^0000CD30 Nagas^000000, please!",
@@ -312,7 +312,7 @@
     "HrF/Aw": {
         "en-US": "[Yerne]\nCan something really be this lovely ...? I hate to say it, but please kill ^0000CD30 of Centipede Larvae^000000.",
         "pt-BR": "[Zeca]\nOs aventureiros não querem que se reproduzam tanto. ^0000CDCace 30 Larvas de Centopeias^000000, por favor.",
-        "es-ES": "[Yerne]\n¿Acaso puede existir algo tan bonito…? Odio decirlo, pero mata a ^0000CD30 de Larvas de escolopendra^000000."
+        "es-ES": "[Yerne]\n¿Acaso puede existir algo tan bonito...? Odio decirlo, pero mata a ^0000CD30 de Larvas de escolopendra^000000."
     },
     "H7F/Aw": {
         "en-US": "[Yerne]\nAdventurer! Guess what! Theodore permitted!\nUh, I mean, ^0000CDCoooornus^000000! ^0000CDCooornusssss^000000!",
@@ -342,7 +342,7 @@
     "JLF/Aw": {
         "en-US": "[Yerne]\nOh, you don't want to?\nThen I must ask you again for the sake of my secret collection ...",
         "pt-BR": "[Zeca]\nSem interesse?\nEntão, eu vou te mostrar minha coleção de figurinh...",
-        "es-ES": "[Yerne]\n¿No quieres?\nEntonces te preguntaré de nuevo por el bien de mi colección secreta…"
+        "es-ES": "[Yerne]\n¿No quieres?\nEntonces te preguntaré de nuevo por el bien de mi colección secreta..."
     },
     "JbF/Aw": {
         "en-US": "[Theodore]\nYerne!",
@@ -362,7 +362,7 @@
     "KLF/Aw": {
         "en-US": "[Yerne]\nDang ... how did he hear me?\nIt's ^0000CD30 Pinguiculas^000000. Will you take the quest?",
         "pt-BR": "[Zeca]\nBah... você tem razão.\n^0000CDCace 30 Pinguiculas^000000, por favor. Vai fazer a missão?",
-        "es-ES": "[Yerne]\nRayos… ¿cómo me oyó?\nSon ^0000CD30 Pinguicula^000000. ¿Aceptarás la misión?"
+        "es-ES": "[Yerne]\nRayos... ¿cómo me oyó?\nSon ^0000CD30 Pinguicula^000000. ¿Aceptarás la misión?"
     },
     "KbF/Aw": {
         "en-US": "Leave it to me.",
@@ -377,12 +377,12 @@
     "K7F/Aw": {
         "en-US": "[Yerne]\nOh, come on, I swear I can do it right ... okay.\nI'll just do it on my ... Hey, Adventurer. Let's keep this just between you and me.",
         "pt-BR": "[Zeca]\nAh, florzinha tão pequenina.\nQueria seu vestidinho de flores... enfim.",
-        "es-ES": "[Yerne]\nOh, vamos, te juro que puedo hacerlo bien… Bueno, ya qué.\nSolo lo haré en mi… Hola, trotamundos. Que esto quede entre nosotros."
+        "es-ES": "[Yerne]\nOh, vamos, te juro que puedo hacerlo bien... Bueno, ya qué.\nSolo lo haré en mi... Hola, trotamundos. Que esto quede entre nosotros."
     },
     "LLF/Aw": {
         "en-US": "[Yerne]\nIt's not over yet!\nIt's 30 Pinguiculas; you can do it!\nCan you get me one on the ... N-Never mind.",
         "pt-BR": "[Zeca]\nVocê ainda não terminou sua missão!\nCace 30 Pinguiculas, por favor. Faça seu melhor!\nNão se esqueça de voltar aqui.",
-        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Pinguicula; ¡tú puedes!\n¿Puedes conseguirme una de sus…? N-No importa."
+        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Pinguicula; ¡tú puedes!\n¿Puedes conseguirme una de sus...? N-No importa."
     },
     "LbF/Aw": {
         "en-US": "[Yerne]\nHow are you, Adventurer?\nYes, we checked your work! Don't forget to collect your rewards.",
@@ -397,12 +397,12 @@
     "L7F/Aw": {
         "en-US": "[Yerne]\nI'd like to ask for ^0000CD30 Pinguiculas^000000 again today.\nIt's such a shame to kill these beautiful monsters ... but it has to be done if they attack humans.",
         "pt-BR": "[Zeca]\n^0000CDCace 30 Pinguiculas^000000, por favor.\nApesar de serem fofas... elas machucam as pessoas.",
-        "es-ES": "[Yerne]\nMe gustaría pedirte ^0000CD30 Pinguicula^000000 de nuevo.\nEs una pena matar a estos monstruos hermosos… pero es necesario si atacan a los humanos."
+        "es-ES": "[Yerne]\nMe gustaría pedirte ^0000CD30 Pinguicula^000000 de nuevo.\nEs una pena matar a estos monstruos hermosos... pero es necesario si atacan a los humanos."
     },
     "MLF/Aw": {
         "en-US": "[Yerne]\nThank you. Uhh, Adventurer ...?",
         "pt-BR": "[Zeca]\nObrigado, viajante...",
-        "es-ES": "[Yerne]\nGracias. ¿Trotamundos…?"
+        "es-ES": "[Yerne]\nGracias. ¿Trotamundos...?"
     },
     "MbF/Aw": {
         "en-US": "[Theodore]\nYerne?",
@@ -412,12 +412,12 @@
     "MrF/Aw": {
         "en-US": "[Yerne]\nI-I will not ask you ... to get me a Pinguicula ...\nBut maybe just one leaf ... would do. Or not. Heehee ...",
         "pt-BR": "[Zeca]\nAh, eu gosto das Pinguiculas... uma pena...\nFico triste por não poder fazer nada além disso...",
-        "es-ES": "[Yerne]\nN-No te pediré… que me traigas una Pinguicula…\nPero tal vez solo una hoja… sería suficiente. O no. Je, je…"
+        "es-ES": "[Yerne]\nN-No te pediré... que me traigas una Pinguicula...\nPero tal vez solo una hoja... sería suficiente. O no. Je, je..."
     },
     "M7F/Aw": {
         "en-US": "[Yerne]\nThis looks weird ... let me check.\nCan you try talking to me again? If I keep on repeating what I said, please screenshot this text and make a bug report.",
         "pt-BR": "[Zeca]\nUma mensagem de erro apareceu.\nVocê pode falar comigo de novo?",
-        "es-ES": "[Yerne]\nEsto es raro… déjame comprobarlo.\n¿Puedes intentar hablarme de nuevo? Si sigo repitiendo lo que he dicho, por favor haz una captura de pantalla de este texto y haz un informe de error."
+        "es-ES": "[Yerne]\nEsto es raro... déjame comprobarlo.\n¿Puedes intentar hablarme de nuevo? Si sigo repitiendo lo que he dicho, por favor haz una captura de pantalla de este texto y haz un informe de error."
     },
     "NLF/Aw": {
         "en-US": "[Yerne]\nI will make sure that this will never happen again!",
@@ -427,17 +427,17 @@
     "NbF/Aw": {
         "en-US": "[Yerne]\nGood luck!\nUmm ... If you don't mind, I'll follow you from behind.",
         "pt-BR": "[Zeca]\nBoa caçada!\nSe você não se importar... eu vou ficar aqui.",
-        "es-ES": "[Yerne]\n¡Buena suerte!\nMmm… Si no te importa, te seguiré desde atrás."
+        "es-ES": "[Yerne]\n¡Buena suerte!\nMmm... Si no te importa, te seguiré desde atrás."
     },
     "NrF/Aw": {
         "en-US": "[Yerne]\nOr you can catch one Luciola Vespa for me ...",
         "pt-BR": "[Zeca]\nCuidado com o brilhinho da Vespa-Vagalume...",
-        "es-ES": "[Yerne]\nO puedes atrapar un Luciola Vespa por mí…"
+        "es-ES": "[Yerne]\nO puedes atrapar un Luciola Vespa por mí..."
     },
     "N7F/Aw": {
         "en-US": "[Yerne]\nIt's not over yet!\nIt's 30 Luciola Vespas. You can do it!\nCan you get me one on the ... N-Never mind.",
         "pt-BR": "[Zeca]\nVocê ainda não terminou sua missão!\nVespa-Vagalume 30 delaspor favor, Faça seu melhor!\nNão se esqueça de voltar aqui.",
-        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Luciola vespa. ¡Tú puedes!\n¿Puedes conseguirme uno de sus…? N-No importa."
+        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Luciola vespa. ¡Tú puedes!\n¿Puedes conseguirme uno de sus...? N-No importa."
     },
     "OLF/Aw": {
         "en-US": "[Yerne]\nWow, it's thrilling. Looks good. Luciola Vespa.\nCome back again tomorrow if you're not busy!",
@@ -447,17 +447,17 @@
     "ObF/Aw": {
         "en-US": "[Yerne]\nI'd like you to kill ^0000CD30 Luciola Vespas^000000 again today.\nIt's such a shame to kill these beautiful monsters ... but it has to be done if they attack humans.",
         "pt-BR": "[Zeca]\n^0000CDVespa-Vagalume 30 delas^000000, por favor.\nEsses monstros são tão legais... pena que machucam os aventureiros.",
-        "es-ES": "[Yerne]\nQuisiera que mataras a ^0000CD30 Luciola vespa^000000 de nuevo.\nEs una pena matar a estos increíbles monstruos… pero es necesario si atacan a los humanos."
+        "es-ES": "[Yerne]\nQuisiera que mataras a ^0000CD30 Luciola vespa^000000 de nuevo.\nEs una pena matar a estos increíbles monstruos... pero es necesario si atacan a los humanos."
     },
     "OrF/Aw": {
         "en-US": "[Yerne]\nI will not ask you ... to get me a Pinguicula ...\nbut maybe just one needle ... would do. Or not. Phew ...",
         "pt-BR": "[Zeca]\nAh, eu fico triste, né...\nSe pudesse, eu cobriria uma árvore de natal só com Vespas-Vagalume...",
-        "es-ES": "[Yerne]\nNo te pediré… que me traigas un Luciola Vespa…\npero tal vez solo un aguijón… sería suficiente. O no. Fiu…"
+        "es-ES": "[Yerne]\nNo te pediré... que me traigas un Luciola Vespa...\npero tal vez solo un aguijón... sería suficiente. O no. Fiu..."
     },
     "O7F/Aw": {
         "en-US": "[Yerne]\nThank you ... Ugh ... Woot ...",
         "pt-BR": "[Zeca]\nObrigado... er... hmm...",
-        "es-ES": "[Yerne]\nGracias… Uf… Cielos…"
+        "es-ES": "[Yerne]\nGracias... Uf... Cielos..."
     },
     "PLF/Aw": {
         "en-US": "[Theodore]\nYerne. Please don't disturb the Adventurer.",
@@ -467,37 +467,37 @@
     "PbF/Aw": {
         "en-US": "[Yerne]\nI'm not, Theodore ...\nWoot ... promise me you'll tell me all about it. Every little ... detail ...",
         "pt-BR": "[Zeca]\nE-eu não ia pedir mais nada...\nNão vou... pedir mais nada além do que está escrito nesse papel...",
-        "es-ES": "[Yerne]\nTheodore, yo no…\nProméteme que me contarás todo. Cada pequeño… detalle…"
+        "es-ES": "[Yerne]\nTheodore, yo no...\nProméteme que me contarás todo. Cada pequeño... detalle..."
     },
     "PrF/Aw": {
         "en-US": "[Yerne]\nIt's not over yet!\nIt's 1 Tendrilion. You can do it!\nYou should capture it alive while you're at it ... N-Never mind.",
         "pt-BR": "[Zeca]\nVocê ainda não terminou sua missão!\nCace 1 Leão de Vinhas, por favor. Faça seu melhor!\nSe puder, tenta domesticar ele... não, pera.",
-        "es-ES": "[Yerne]\n¡Aún no termina!\nEs 1 León enredadera. ¡Tú puedes!\nDeberías capturarlo vivo… N-No importa."
+        "es-ES": "[Yerne]\n¡Aún no termina!\nEs 1 León enredadera. ¡Tú puedes!\nDeberías capturarlo vivo... N-No importa."
     },
     "P7F/Aw": {
         "en-US": "[Yerne]\nSigh ... Tendrilions are such amazing creatures ... but I know it had to be done. I'm also a professional!\nSob. Come back again tomorrow if you're not busy!",
         "pt-BR": "[Zeca]\nAh, como eu queria ele como bichinho de estimação!\n*suspira*. Volte amanhã para repetir a missão!",
-        "es-ES": "[Yerne]\nAy… Los Leones enredadera son criaturas asombrosas… pero sé que era necesario. ¡También soy un profesional!\n*Solloza* ¡Vuelve mañana si no tienes mucho que hacer!"
+        "es-ES": "[Yerne]\nAy... Los Leones enredadera son criaturas asombrosas... pero sé que era necesario. ¡También soy un profesional!\n*Solloza* ¡Vuelve mañana si no tienes mucho que hacer!"
     },
     "QLF/Aw": {
         "en-US": "[Yerne]\nIt's ^0000CD1 Tendrilion^000000 again today.\nIt's such a shame to kill this beautiful monster ... Oh well. I know. I know ...",
         "pt-BR": "[Zeca]\n^0000CDLeão de Vinhas 1 só^000000, por favor.\nÉ um monstro tão lindo... uma pena ser tão agressivo...",
-        "es-ES": "[Yerne]\nEs ^0000CD1 León enredadera^000000 de nuevo.\nEs una pena matar a este monstruo hermoso… Oh, bueno. Lo sé. Lo sé…"
+        "es-ES": "[Yerne]\nEs ^0000CD1 León enredadera^000000 de nuevo.\nEs una pena matar a este monstruo hermoso... Oh, bueno. Lo sé. Lo sé..."
     },
     "QbF/Aw": {
         "en-US": "[Yerne]\nTendrilion ... I will not ask you to capture it alive ...\nbut maybe just few manes ... would do. Or not. Phew ...",
         "pt-BR": "[Zeca]\nLeão de Vinhas... eu queria que fosse uma mascote...\nMas... sei que não adianta querer...",
-        "es-ES": "[Yerne]\nLeón enredadera… no te pediré que lo captures vivo…\npero tal vez solo un poco de su melena… sería suficiente. O no. Fiu…"
+        "es-ES": "[Yerne]\nLeón enredadera... no te pediré que lo captures vivo...\npero tal vez solo un poco de su melena... sería suficiente. O no. Fiu..."
     },
     "QrF/Aw": {
         "en-US": "[Yerne]\nI don't know how Theodore can hear me so well when he's busy doing his own work all the time ...",
         "pt-BR": "[Zeca]\nFico feliz que você reserva um tempo para ajudar a gente no trabalho...",
-        "es-ES": "[Yerne]\nNo sé cómo Theodore puede oírme tan bien cuando está tan ocupado haciendo lo suyo todo el tiempo…"
+        "es-ES": "[Yerne]\nNo sé cómo Theodore puede oírme tan bien cuando está tan ocupado haciendo lo suyo todo el tiempo..."
     },
     "Q7F/Aw": {
         "en-US": "[Yerne]\nIt's not over yet!\nIt's 30 Dark Pinguiculas. You can do it!\nCan you get me one on the ... N-Never mind.",
         "pt-BR": "[Zeca]\nVocê ainda não terminou sua missão!\n30 Pinguiculas Sombriaspor favor, Faça seu melhor!\nNão se esqueça de voltar aqui.",
-        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Pinguicula oscura. ¡Tú puedes!\n¿Puedes conseguirme una de sus…? N-No importa."
+        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Pinguicula oscura. ¡Tú puedes!\n¿Puedes conseguirme una de sus...? N-No importa."
     },
     "RLF/Aw": {
         "en-US": "[Yerne]\nAhh, they are so attractive. Looks good. Dark Pinguicula.\nCome back again tomorrow if you're not busy!",
@@ -507,22 +507,22 @@
     "RbF/Aw": {
         "en-US": "[Yerne]\nPlease kill ^0000CD30 Dark Pinguiculas^000000 again today.\nIt's such a shame to kill these beautiful monsters ... but it has to be done if they attack humans.",
         "pt-BR": "[Zeca]\n^0000CD30 Pinguiculas Sombrias^000000, por favor.\nUma pena elas serem tão agressivas... elas são tão lindinhas.",
-        "es-ES": "[Yerne]\nMata a ^0000CD30 Pinguicula oscura^000000 de nuevo.\nEs una pena matar a estos monstruos hermosos… pero es necesario si atacan a los humanos."
+        "es-ES": "[Yerne]\nMata a ^0000CD30 Pinguicula oscura^000000 de nuevo.\nEs una pena matar a estos monstruos hermosos... pero es necesario si atacan a los humanos."
     },
     "RrF/Aw": {
         "en-US": "[Yerne]\nThe dark Pinguiculas ... I will not ask you to capture it alive ...\nbut maybe just one petal ... would do. Or not. Phew ...",
         "pt-BR": "[Zeca]\nPinguicula Sombria... eu queria que fosse uma mascote...\nMas não basta só querer... preciso entender como captura uma...",
-        "es-ES": "[Yerne]\nPinguicula oscura… no te pediré que la captures viva…\npero tal vez solo un pétalo… sería suficiente. O no. Fiu…"
+        "es-ES": "[Yerne]\nPinguicula oscura... no te pediré que la captures viva...\npero tal vez solo un pétalo... sería suficiente. O no. Fiu..."
     },
     "R7F/Aw": {
         "en-US": "[Yerne]\nMy Nepenthes bookmark ... sob.\nAnyway, take care ...",
         "pt-BR": "[Zeca]\nUm marcador personalizado de Nepenthes... *suspira*.\nEnfim, obrigado...",
-        "es-ES": "[Yerne]\nMi marcador de Nepenthes… *Solloza*.\nBueno, cuídate…"
+        "es-ES": "[Yerne]\nMi marcador de Nepenthes... *Solloza*.\nBueno, cuídate..."
     },
     "SLF/Aw": {
         "en-US": "[Yerne]\nIt's not over yet!\nIt's 30 Nepentheses. You can do it!\nCan you get me one on the ... N-Never mind.",
         "pt-BR": "[Zeca]\nVocê ainda não terminou sua missão!\nCace 30 Nepenthes, por favor. Faça seu melhor!\nNão se esqueça de voltar aqui.",
-        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Nepenthes. ¡Tú puedes!\n¿Puedes conseguirme uno en…? N-No importa."
+        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Nepenthes. ¡Tú puedes!\n¿Puedes conseguirme uno en...? N-No importa."
     },
     "SbF/Aw": {
         "en-US": "[Yerne]\nWow, it's beautiful. Looks good. Nepenthes.\nCome back again tomorrow if you're not busy!",
@@ -532,12 +532,12 @@
     "SrF/Aw": {
         "en-US": "[Yerne]\nPlease kill ^0000CD30 Nepentheses^000000 again today.\nIt's such a shame to kill these beautiful monsters ... but I know it has to be done.",
         "pt-BR": "[Zeca]\n^0000CDCace 30 Nepenthes^000000, por favor.\nÉ uma pena caçar elas... são tão elegantes.",
-        "es-ES": "[Yerne]\nMata a ^0000CD30 Nepenthes^000000 de nuevo.\nEs una pena matar a estos monstruos hermosos… pero sé que es necesario."
+        "es-ES": "[Yerne]\nMata a ^0000CD30 Nepenthes^000000 de nuevo.\nEs una pena matar a estos monstruos hermosos... pero sé que es necesario."
     },
     "S7F/Aw": {
         "en-US": "[Yerne]\nNepenthes ... I will not ask you to capture it alive ...\nbut maybe just one leaf ... would do. Or not. Phew ...",
         "pt-BR": "[Zeca]\nNepenthes... eu queria que fosse uma mascote...\nUma pena que... elas são tão violentas...",
-        "es-ES": "[Yerne]\nNepenthes… no te pediré que lo captures vivo…\npero tal vez solo una hoja… sería suficiente. O no. Fiu…"
+        "es-ES": "[Yerne]\nNepenthes... no te pediré que lo captures vivo...\npero tal vez solo una hoja... sería suficiente. O no. Fiu..."
     },
     "TLF/Aw": {
         "en-US": "[Yerne]\nPlease hunt them where I can see them! Wow, this is exciting!\nI didn't know a day would come when Theodore would ever let me do something I want!",
@@ -547,27 +547,27 @@
     "TbF/Aw": {
         "en-US": "[Yerne]\nIt's not over yet!\nIt's 30 Nagas. You can do it!\nIf you kill them slowly, then I can get a better look at their muscles ... N-Never mind.",
         "pt-BR": "[Zeca]\nVocê ainda não terminou sua missão!\nCace 30 Nagas, por favor. Faça seu melhor!\nQueria saber o ritmo de treino desse bombadão.",
-        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Naga. ¡Tú puedes!\nSi los matas lentamente, puedo ver mejor sus músculos… N-No importa."
+        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 30 Naga. ¡Tú puedes!\nSi los matas lentamente, puedo ver mejor sus músculos... N-No importa."
     },
     "TrF/Aw": {
         "en-US": "[Yerne]\nAhh ... I want to get closer. See it clearer ... Yikes! Never mind.\nCome back again tomorrow if you're not busy!",
         "pt-BR": "[Zeca]\nPoxa... eu queria ver um Naga de perto.\nVolte amanhã para repetir a missão!",
-        "es-ES": "[Yerne]\nAhh… Quiero acercarme. Verlos más claramente… ¡Vaya! Olvídalo.\n¡Vuelve mañana si no tienes mucho que hacer!"
+        "es-ES": "[Yerne]\nAhh... Quiero acercarme. Verlos más claramente... ¡Vaya! Olvídalo.\n¡Vuelve mañana si no tienes mucho que hacer!"
     },
     "T7F/Aw": {
         "en-US": "[Yerne]\nPlease kill ^0000CD30 Nagas^000000 again today.\nIt's such a shame to kill these muscular monsters ... but it has to be done because they attack humans.",
         "pt-BR": "[Zeca]\n^0000CDCace 30 Nagas^000000, por favor.\nÉ uma pena eles serem tão violentos... eles tem músculos tão bonitos.",
-        "es-ES": "[Yerne]\nMata a ^0000CD30 Naga^000000 de nuevo.\nEs una pena matar a estos monstruos musculosos… pero es necesario porque atacan a los humanos."
+        "es-ES": "[Yerne]\nMata a ^0000CD30 Naga^000000 de nuevo.\nEs una pena matar a estos monstruos musculosos... pero es necesario porque atacan a los humanos."
     },
     "ULF/Aw": {
         "en-US": "[Yerne]\nNaga ... I will not ask you to capture it alive ...\nbut maybe just one scale ... would do. Or not. Phew ...",
         "pt-BR": "[Zeca]\nNaga... eu queria que fosse uma mascote...\nMas não adianta querer... tenho que tentar...",
-        "es-ES": "[Yerne]\nNaga… no te pediré que lo captures vivo…\npero tal vez solo una escama… sería suficiente. O no. Fiu…"
+        "es-ES": "[Yerne]\nNaga... no te pediré que lo captures vivo...\npero tal vez solo una escama... sería suficiente. O no. Fiu..."
     },
     "UbF/Aw": {
         "en-US": "[Yerne]\nAs gently as possible ... please.",
         "pt-BR": "[Zeca]\nEu amo meu trabalho, mas eu... odeio ver os Cornus feridinhos.",
-        "es-ES": "[Yerne]\nCon la mayor delicadeza posible… por favor."
+        "es-ES": "[Yerne]\nCon la mayor delicadeza posible... por favor."
     },
     "UrF/Aw": {
         "en-US": "[Yerne]\nA-Ah, it's nothing. Have a good day.\nCome back any time if you want quests.",
@@ -582,27 +582,27 @@
     "VLF/Aw": {
         "en-US": "[Yerne]\nI like the monsters here. But my job is to hunt them down. \nHmm ... I got carried away. Come back again tomorrow if you're not busy!",
         "pt-BR": "[Zeca]\nUma pena que criaturas tão místicas estejam causando problemas.\nEnfim... é o meu trabalho. Volte amanhã para repetir a missão!",
-        "es-ES": "[Yerne]\nMe gustan los monstruos de aquí. Pero mi trabajo es cazarlos. \nMmm… Me dejé llevar. ¡Vuelve mañana si no tienes mucho que hacer!"
+        "es-ES": "[Yerne]\nMe gustan los monstruos de aquí. Pero mi trabajo es cazarlos. \nMmm... Me dejé llevar. ¡Vuelve mañana si no tienes mucho que hacer!"
     },
     "VbF/Aw": {
         "en-US": "[Yerne]\nPlease kill ^0000CD30 Cornuses^000000 again today.\nGently, please ... Haha, does that make me a hypocrite?",
         "pt-BR": "[Zeca]\n^0000CDCace 30 Cornus^000000, por favor.\nSeja gentil com eles... eles são lindos.",
-        "es-ES": "[Yerne]\nMata a ^0000CD30 Cornus^000000 de nuevo.\nCon delicadeza, por favor… Ja, ja, ¿eso me convierte en un hipócrita?"
+        "es-ES": "[Yerne]\nMata a ^0000CD30 Cornus^000000 de nuevo.\nCon delicadeza, por favor... Ja, ja, ¿eso me convierte en un hipócrita?"
     },
     "VrF/Aw": {
         "en-US": "[Yerne]\nSometimes I wonder ... whether I really like my job or not. Well, I have to make money.",
         "pt-BR": "[Zeca]\nEu amo meu trabalho, mas eu... odeio ver os Cornus feridinhos.",
-        "es-ES": "[Yerne]\nA veces me pregunto si… realmente me gusta mi trabajo o no. Bueno, tengo que ganar dinero."
+        "es-ES": "[Yerne]\nA veces me pregunto si... realmente me gusta mi trabajo o no. Bueno, tengo que ganar dinero."
     },
     "V7F/Aw": {
         "en-US": "[Yerne]\nCan something really be this lovely ...? I hate to say it, but please kill ^0000CD20 of Centipede Larvae^000000.",
         "pt-BR": "[Zeca]\nOs aventureiros não querem que se reproduzam tanto. ^0000CDCace 20 Larvas de Centopeias^000000.",
-        "es-ES": "[Yerne]\n¿Acaso puede existir algo tan bonito…? Odio decirlo, pero por favor mata a ^0000CD20 de Larvas de escolopendra^000000."
+        "es-ES": "[Yerne]\n¿Acaso puede existir algo tan bonito...? Odio decirlo, pero por favor mata a ^0000CD20 de Larvas de escolopendra^000000."
     },
     "WLF/Aw": {
         "en-US": "[Yerne]\nI really want to keep this Centipede Larva ...\nIs Theodore busy right now? Can you ...",
         "pt-BR": "[Zeca]\nÉ tão mágico ver a movimentação da Larva de Centopeia...\nCentopeias são mais fofinhas na fase da larva...",
-        "es-ES": "[Yerne]\nRealmente quisiera una Larva de escolopendra…\n¿Theodore está ocupado ahora? ¿Puedes…?"
+        "es-ES": "[Yerne]\nRealmente quisiera una Larva de escolopendra...\n¿Theodore está ocupado ahora? ¿Puedes...?"
     },
     "WbF/Aw": {
         "en-US": "[Theodore]\nWell, looks like I just finished.",
@@ -612,37 +612,37 @@
     "WrF/Aw": {
         "en-US": "[Yerne]\nC-Can you ... catch one? Just one! Please!",
         "pt-BR": "[Zeca]\nVocê... você tem que contemplar as coisas boas da natureza!!",
-        "es-ES": "[Yerne]\n¿Puedes… atrapar una? ¡Solo una! ¡Por favor!"
+        "es-ES": "[Yerne]\n¿Puedes... atrapar una? ¡Solo una! ¡Por favor!"
     },
     "W7F/Aw": {
         "en-US": "[Yerne]\nIt's not over yet!\nIt's 20 Centipede Larvae. You can do it!\nThe way their shells move... I can never get tired of it!",
         "pt-BR": "[Zeca]\nVocê ainda não terminou sua missão!\nCace 20 Larvas de Centopeias, por favor, Faça seu melhor!\nA forma como ela rasteja é tão engraçadinha!",
-        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 20 Larvas de escolopendra. ¡Tú puedes!\nLa forma en que se mueve su coraza… ¡Nunca me cansaré de verla!"
+        "es-ES": "[Yerne]\n¡Aún no termina!\nSon 20 Larvas de escolopendra. ¡Tú puedes!\nLa forma en que se mueve su coraza... ¡Nunca me cansaré de verla!"
     },
     "XLF/Aw": {
         "en-US": "[Yerne]\nI want to hold one in my hand and pet it ... sigh.\nCome back again tomorrow if you're not busy!",
         "pt-BR": "[Zeca]\nEu queria segurar uma delas na minha mão... hehe.\nVolte amanhã para repetir a missão!",
-        "es-ES": "[Yerne]\nQuiero sostener una y acariciarla… ay.\n¡Vuelve mañana si no tienes mucho que hacer!"
+        "es-ES": "[Yerne]\nQuiero sostener una y acariciarla... ay.\n¡Vuelve mañana si no tienes mucho que hacer!"
     },
     "XbF/Aw": {
         "en-US": "[Yerne]\nPlease kill ^0000CD20 Centipede Larvae^000000 again today.\nIt's such a shame to kill these cute monsters ... but they are monsters, and it's my job!",
         "pt-BR": "[Zeca]\n^0000CDCace 20 Larvas de Centopeias^000000, por favor.\nSe elas não fossem tão agressivas... daria para domesticar uma delas!",
-        "es-ES": "[Yerne]\nMata a ^0000CD20 Larvas de escolopendra^000000 de nuevo.\nEs una pena matar a estos monstruos adorables… pero son monstruos, ¡y es mi trabajo!"
+        "es-ES": "[Yerne]\nMata a ^0000CD20 Larvas de escolopendra^000000 de nuevo.\nEs una pena matar a estos monstruos adorables... pero son monstruos, ¡y es mi trabajo!"
     },
     "XrF/Aw": {
         "en-US": "[Yerne]\nCentipede Larva ... I will not ask you to capture it alive ...\nbut maybe just one shell ... would do. Or not. Phew ...",
         "pt-BR": "[Zeca]\nLarva de Centopeia... eu queria que fosse uma mascote...\nMas não basta só querer... tenho que tentar...",
-        "es-ES": "[Yerne]\nLarvas de escolopendra… no te pediré que la captures viva…\npero tal vez solo una coraza… sería suficiente. O no. Fiu…"
+        "es-ES": "[Yerne]\nLarvas de escolopendra... no te pediré que la captures viva...\npero tal vez solo una coraza... sería suficiente. O no. Fiu..."
     },
     "X7F/Aw": {
         "en-US": "[Theodore]\nYerne ... I'm glad you're feeling better now.",
         "pt-BR": "[Téo]\nZeca, você está empolgado demais.",
-        "es-ES": "[Theodore]\nYerne… Me alegro de que te sientas mejor."
+        "es-ES": "[Theodore]\nYerne... Me alegro de que te sientas mejor."
     },
     "YLF/Aw": {
         "en-US": "[Theodore]\nYes ... I understand.\nPlease come back again when you're free.",
         "pt-BR": "[Téo]\nSim... eu entendo.\nPor favor, visite-nos novamente quando tiver tempo.",
-        "es-ES": "[Theodore]\nSí… Lo entiendo.\nPor favor, regresa cuando tengas tiempo."
+        "es-ES": "[Theodore]\nSí... Lo entiendo.\nPor favor, regresa cuando tengas tiempo."
     },
     "YbF/Aw": {
         "en-US": "[Yerne]\nIt's not over yet!\nIt's 20 Mystic Horns. You can do it!\nThank you! So much! Yay! Mystic_Horn!",
@@ -652,7 +652,7 @@
     "YrF/Aw": {
         "en-US": "[Yerne]\nAww, they're so pretty ... Oh, wow. It's great ...\nOh, o-of course I would get only one or two of them ... but it's still great!",
         "pt-BR": "[Zeca]\nAi. que. lindo! Eu AMEI...\nComo será que a magia funciona...? Ai eu preciso testar...!!",
-        "es-ES": "[Yerne]\nAy, son tan bonitos… Oh, vaya. Es genial…\nAh, c-claro que solo me quedaré con uno o dos… ¡pero aun así es genial!"
+        "es-ES": "[Yerne]\nAy, son tan bonitos... Oh, vaya. Es genial...\nAh, c-claro que solo me quedaré con uno o dos... ¡pero aun así es genial!"
     },
     "Y7F/Aw": {
         "en-US": "[Yerne]\nThanks for coming by again! ^0000CDRetrieve 20 Mystic Horns^000000, please!\nTheodore told me that he'll share some again this time. Hehe.",
@@ -662,12 +662,12 @@
     "ZLF/Aw": {
         "en-US": "[Yerne]\nI've taken great care of the ones I got last time.\nI used them for decoration, a pencil case, my clothes, and even as an ingredient to go with noodles ...",
         "pt-BR": "[Zeca]\nAinda tenho os outros chifres que você me deu.\nEstou testando um por um para ver qual deles sai magia...",
-        "es-ES": "[Yerne]\nCuidé mucho los que me dieron la última vez.\nLos usé para decorar mi estuche, para mi ropa e incluso como ingrediente para acompañar fideos…"
+        "es-ES": "[Yerne]\nCuidé mucho los que me dieron la última vez.\nLos usé para decorar mi estuche, para mi ropa e incluso como ingrediente para acompañar fideos..."
     },
     "ZbF/Aw": {
         "en-US": "[Yerne]\n... Oh! I got carried away. I'm sorry.",
         "pt-BR": "[Zeca]\n...Hah! Ainda não vi nenhuma magia.",
-        "es-ES": "[Yerne]\n… ¡Ah! Me dejé llevar. Lo siento."
+        "es-ES": "[Yerne]\n... ¡Ah! Me dejé llevar. Lo siento."
     },
     "ZrF/Aw": {
         "en-US": "Theodore",
@@ -732,7 +732,7 @@
     "crF/Aw": {
         "en-US": "[Yerne]\nI'm not loud! ... or small!",
         "pt-BR": "[Zeca]\nNão sou escandaloso, eu só falo alto!",
-        "es-ES": "[Yerne]\n¡No soy ruidoso…! ¡Ni pequeño!"
+        "es-ES": "[Yerne]\n¡No soy ruidoso...! ¡Ni pequeño!"
     },
     "c7F/Aw": {
         "en-US": "Okay, I'll take it.",
@@ -812,7 +812,7 @@
     "grF/Aw": {
         "en-US": "[Yerne]\nTheodore just ignored me ...!",
         "pt-BR": "[Zeca]\nAh... Não torture o monstrinho fofinho...!!",
-        "es-ES": "[Yerne]\n¡Theodore simplemente me ignoró…!"
+        "es-ES": "[Yerne]\n¡Theodore simplemente me ignoró...!"
     },
     "g7F/Aw": {
         "en-US": "[Theodore]\nThere is this curious monster that still somehow hasn't gone extinct despite this monster-eat-monster environment.",
@@ -832,12 +832,12 @@
     "hrF/Aw": {
         "en-US": "[Theodore]\nEvery creature is here for a reason.\nBut thanks to the Tatachos' nature, it will be easy for you to hunt them ... Kill ^0000CD20 Tatachos^000000, please.",
         "pt-BR": "[Téo]\nSó estou falando a realidade.\nEnfim... ^0000CDDerrote 20 Tatachos^000000, por favor.",
-        "es-ES": "[Theodore]\nCada criatura está aquí por una razón.\nPero gracias a la naturaleza de los Tatacho, te será fácil cazarlos… Mata a ^0000CD20 Tatacho^000000."
+        "es-ES": "[Theodore]\nCada criatura está aquí por una razón.\nPero gracias a la naturaleza de los Tatacho, te será fácil cazarlos... Mata a ^0000CD20 Tatacho^000000."
     },
     "h7F/Aw": {
         "en-US": "[Yerne]\nUgh, I can't say no to that ...",
         "pt-BR": "[Zeca]\nHmpf, uma coisa não anula a outra...",
-        "es-ES": "[Yerne]\nAy, no puedo decir que no a eso…"
+        "es-ES": "[Yerne]\nAy, no puedo decir que no a eso..."
     },
     "iLF/Aw": {
         "en-US": "[Theodore]\nThis is a difficult quest to complete, so I only give it to those who are ready.",
@@ -857,7 +857,7 @@
     "i7F/Aw": {
         "en-US": "[Theodore]\nThey mimic people's greed rather than their environment...\nBe on your guard and kill ^0000CD30 Dolomedeses^000000, please.",
         "pt-BR": "[Téo]\nEles atacam muito rápido...\nTenha cuidado. ^0000CDDerrote 30 Dolomedes^000000, por favor.",
-        "es-ES": "[Theodore]\nImitan la codicia de la gente en lugar de su entorno…\nMantente alerta y mata a ^0000CD30 Dolomedes^000000."
+        "es-ES": "[Theodore]\nImitan la codicia de la gente en lugar de su entorno...\nMantente alerta y mata a ^0000CD30 Dolomedes^000000."
     },
     "jLF/Aw": {
         "en-US": "[Theodore]\nDid you know that one of the most important functions of posts is the ability to talk to the Foreign World?",
@@ -872,7 +872,7 @@
     "jrF/Aw": {
         "en-US": "[Yerne]\nAnd they have these fascinating horns ...!",
         "pt-BR": "[Zeca]\nEles parecem baratas...!!",
-        "es-ES": "[Yerne]\n¡Y tienen unos cuernos fascinantes…!"
+        "es-ES": "[Yerne]\n¡Y tienen unos cuernos fascinantes...!"
     },
     "j7F/Aw": {
         "en-US": "[Theodore]\nAdventurer, please go to Scaraba Hall and kill ^0000CD30 Uni-Horn Scarabas^000000.\nGet them out of our way.",
@@ -882,12 +882,12 @@
     "kLF/Aw": {
         "en-US": "[Theodore]\nIt looks like the Scarabas have been at Scaraba Hall for a long time ...\nbut this needs to be done for us to get to El Dicastes.",
         "pt-BR": "[Téo]\nOs monstros do Túnel Kamidal parecem se assemelhar a Escaravelhos...\nPrecisamos do lugar limpo para manter contato com El Dicastes.",
-        "es-ES": "[Theodore]\nParece que los Scaraba llevan mucho tiempo en el Salón de los Scaraba…\npero es necesario para llegar a El Dicastes."
+        "es-ES": "[Theodore]\nParece que los Scaraba llevan mucho tiempo en el Salón de los Scaraba...\npero es necesario para llegar a El Dicastes."
     },
     "kbF/Aw": {
         "en-US": "[Yerne]\nHmm ... Humans are such hypocrites.",
         "pt-BR": "[Zeca]\nHmm... são baratas, isso sim.",
-        "es-ES": "[Yerne]\nMmm… Los humanos son unos hipócritas."
+        "es-ES": "[Yerne]\nMmm... Los humanos son unos hipócritas."
     },
     "krF/Aw": {
         "en-US": "[Theodore]\nYou are a human too, Yerne.\nAdventurer, kill ^0000CD30 Two-Horned Scarabas^000000, please.",
@@ -897,12 +897,12 @@
     "k7F/Aw": {
         "en-US": "[Theodore]\nGo to Scaraba Hall and kill ^0000CD30 Antler Scarabas^000000, please.\nI heard that the horns from Antler Scarabas sell for a high price ...",
         "pt-BR": "[Téo]\nCerto. ^0000CDDerrote 30 Scaraba Galhados^000000 no 2º piso do Túnel Kamidal.\nOs chifres desses monstros rendem uma boa grana no comércio...",
-        "es-ES": "[Theodore]\nVe al Salón de los Scaraba y mata a ^0000CD30 Scaraba de asta^000000.\nOí que los cuernos de Scaraba de asta se venden a un precio alto…"
+        "es-ES": "[Theodore]\nVe al Salón de los Scaraba y mata a ^0000CD30 Scaraba de asta^000000.\nOí que los cuernos de Scaraba de asta se venden a un precio alto..."
     },
     "lLF/Aw": {
         "en-US": "[Yerne]\nYes! It's true. They're good for medical uses, ornaments, or even as a collector's item for those who like rare objects ...",
         "pt-BR": "[Zeca]\nSim! Isso mesmo. É bom para fins medicinais, ornamentos e colecionadores que querem apenas satisfazer sua ganância...",
-        "es-ES": "[Yerne]\n¡Sí! Es verdad. Son buenos para usos médicos, adornos o incluso como objetos de colección para quienes les gustan los objetos raros…"
+        "es-ES": "[Yerne]\n¡Sí! Es verdad. Son buenos para usos médicos, adornos o incluso como objetos de colección para quienes les gustan los objetos raros..."
     },
     "lbF/Aw": {
         "en-US": "[Theodore]\nHowever, this hunt is not for money, so you can just break them.",
@@ -912,7 +912,7 @@
     "lrF/Aw": {
         "en-US": "[Yerne]\nWhat, that's such a waste ...!",
         "pt-BR": "[Zeca]\nAh, que pena...!!",
-        "es-ES": "[Yerne]\n¿Qué? ¡Qué desperdicio…!"
+        "es-ES": "[Yerne]\n¿Qué? ¡Qué desperdicio...!"
     },
     "l7F/Aw": {
         "en-US": "[Theodore]\nOur target is a monster with a dangerous weapon. It's a Rake Scaraba.\nNot only do they have a huge horn on their head, but the giant mace on their hand is very intimidating.",
@@ -937,12 +937,12 @@
     "m7F/Aw": {
         "en-US": "[Theodore]\nThis ... These monsters are ... It's a pity.\nWe have to kill Fire Condors and Fire Frilldoras ... anyway.",
         "pt-BR": "[Téo]\nBom... os alvos são... ah.\nCondor de Fogo e Frilldora de Fogo.",
-        "es-ES": "[Theodore]\nEste… Estos monstruos son… Es una pena.\nTenemos que matar a los Cóndores de fuego y Frilldora de fuego… en fin."
+        "es-ES": "[Theodore]\nEste... Estos monstruos son... Es una pena.\nTenemos que matar a los Cóndores de fuego y Frilldora de fuego... en fin."
     },
     "nLF/Aw": {
         "en-US": "[Theodore]\nYou've been to Morroc Desert on the way from Rune-Midgard, right?\nThe monsters are originally from there ... but they ended up here due to Morroc.",
         "pt-BR": "[Téo]\nVocê já deve ter visto um Condor e uma Frilldora normais, né?\nEntretanto, alguma influência do Satã Morroc fez esses monstros mais fortes.",
-        "es-ES": "[Theodore]\nPasaste por el desierto de Morroc de camino desde Rune-Midgard, ¿verdad?\nLos monstruos son originarios de allí… pero acabaron aquí debido a Morroc."
+        "es-ES": "[Theodore]\nPasaste por el desierto de Morroc de camino desde Rune-Midgard, ¿verdad?\nLos monstruos son originarios de allí... pero acabaron aquí debido a Morroc."
     },
     "nbF/Aw": {
         "en-US": "[Theodore]\nBut we have to leave our pity behind. They're very dangerous monsters now.\nKill ^0000CDFire Condors and Fire Frilldoras, 15 of each^000000, please.",
@@ -952,7 +952,7 @@
     "nrF/Aw": {
         "en-US": "[Theodore]\nMorroc's doings not only influenced us humans, but also other creatures.\nFire Sandmen and Fire Golems ... They were not as aggressive when they were in Rune-Midgard.",
         "pt-BR": "[Téo]\nA influência de Satã Morroc também afetou outras criaturas.\nGolem e Arenoso não eram monstros tão fortes lá em Sograt.",
-        "es-ES": "[Theodore]\nLas acciones de Morroc no solo influenciaron a los humanos, sino también a otras criaturas.\nHombres de arena y Gólems de llama… No eran tan agresivos cuando estaban en Rune-Midgard."
+        "es-ES": "[Theodore]\nLas acciones de Morroc no solo influenciaron a los humanos, sino también a otras criaturas.\nHombres de arena y Gólems de llama... No eran tan agresivos cuando estaban en Rune-Midgard."
     },
     "n7F/Aw": {
         "en-US": "[Theodore]\nThe monsters that appeared in the Foreign World due to Morroc can't be considered the same monsters you met in Rune-Midgard.\nBe on your guard and kill ^0000CDFire Sandmen and Fire Golem 15 of each^000000, please.",
@@ -977,7 +977,7 @@
     "o7F/Aw": {
         "en-US": "[Yerne]\nUhh, can you take just a small bit of its shell ...",
         "pt-BR": "[Zeca]\nAh! Não confundir com as larvas...",
-        "es-ES": "[Yerne]\nUhh, ¿podrías traerme solo un pedacito de su coraza…?"
+        "es-ES": "[Yerne]\nUhh, ¿podrías traerme solo un pedacito de su coraza...?"
     },
     "pLF/Aw": {
         "en-US": "[Theodore]\nBye, Adventurer!",
@@ -997,7 +997,7 @@
     "p7F/Aw": {
         "en-US": "[Theodore]\nDid you finish your work? 20 Centipedes ... Check. Thank you!\nPlease come back after you've had some rest. Or you could check out some other quests.",
         "pt-BR": "[Téo]\nVocê já entregou essa missão, não?\nDescanse bastante e volte depois do amanhecer.",
-        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 20 Escolopendras… Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
+        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 20 Escolopendras... Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
     },
     "qLF/Aw": {
         "en-US": "[Theodore]\nThanks for taking our quests.",
@@ -1012,7 +1012,7 @@
     "qrF/Aw": {
         "en-US": "[Yerne]\n...",
         "pt-BR": "[Zeca]\n...",
-        "es-ES": "[Yerne]\n…"
+        "es-ES": "[Yerne]\n..."
     },
     "q7F/Aw": {
         "en-US": "[Theodore]\nYou know what Yerne is after, right? You should ignore it. Just focus on the hunt, please.",
@@ -1022,7 +1022,7 @@
     "rLF/Aw": {
         "en-US": "[Yerne]\nTheodore ... you are the meanest person in the Foreign World.",
         "pt-BR": "[Zeca]\nAh.. nada não.",
-        "es-ES": "[Yerne]\nTheodore… eres la persona más mala del Nuevo mundo."
+        "es-ES": "[Yerne]\nTheodore... eres la persona más mala del Nuevo mundo."
     },
     "rbF/Aw": {
         "en-US": "[Theodore]\nHmm. I think there is an error. Can you talk to me again later after I've investigated the issue?",
@@ -1037,7 +1037,7 @@
     "r7F/Aw": {
         "en-US": "[Theodore]\nEvery creature is here for a reason. But thanks to their nature, it will be easy for you to hunt them... Kill ^0000CD20 Tatachos^000000, please.",
         "pt-BR": "[Téo]\nSó estou falando a realidade. Enfim... ^0000CDDerrote 20 Tatachos^000000, por favor.",
-        "es-ES": "[Theodore]\nCada criatura está aquí por una razón. Pero gracias a su naturaleza, te será fácil cazarlos… Mata a ^0000CD20 Tatacho^000000."
+        "es-ES": "[Theodore]\nCada criatura está aquí por una razón. Pero gracias a su naturaleza, te será fácil cazarlos... Mata a ^0000CD20 Tatacho^000000."
     },
     "sLF/Aw": {
         "en-US": "[Theodore]\nIt's ^0000CD20 Tatachos^000000. So long, then.\nGood luck.",
@@ -1047,7 +1047,7 @@
     "sbF/Aw": {
         "en-US": "[Yerne]\nUh, can you grab just a handful of Tatacho hair ...",
         "pt-BR": "[Zeca]\nTatachos são amorzinhos...",
-        "es-ES": "[Yerne]\nUh, ¿puedes traerme solo un mechón de pelo de Tatacho…?"
+        "es-ES": "[Yerne]\nUh, ¿puedes traerme solo un mechón de pelo de Tatacho...?"
     },
     "srF/Aw": {
         "en-US": "[Yerne]\nTatacho hair!!!",
@@ -1062,7 +1062,7 @@
     "tLF/Aw": {
         "en-US": "[Theodore]\nDid you finish your work? 20 Tatachos ... Check. Thank you!\nPlease come back after you've had some rest. Or you could check out some other quests.",
         "pt-BR": "[Téo]\nConfirmei a conclusão da missão!\nEntão, eu sugiro que você descanse um dia.",
-        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 20 Tatacho… Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
+        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 20 Tatacho... Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
     },
     "tbF/Aw": {
         "en-US": "[Theodore]\nCan you kill ^0000CD20 Tatachos^000000 again, please?",
@@ -1082,7 +1082,7 @@
     "uLF/Aw": {
         "en-US": "[Yerne]\nUh, can you take just a small amount of gems from its back ...",
         "pt-BR": "[Zeca]\nAs joias no corpo dela enganam bastante...",
-        "es-ES": "[Yerne]\nUh, ¿puedes traerme solo unas poquitas gemas de su espalda…?"
+        "es-ES": "[Yerne]\nUh, ¿puedes traerme solo unas poquitas gemas de su espalda...?"
     },
     "ubF/Aw": {
         "en-US": "[Theodore]\nBye, Adventurer! Now this is what I meant by being extra careful.",
@@ -1102,7 +1102,7 @@
     "vLF/Aw": {
         "en-US": "[Theodore]\nDid you finish your work? 30 Dolomedeses ... Check. Thank you!\nPlease come back after you've had some rest. Or you could check out some other quests.",
         "pt-BR": "[Téo]\nVocê concluiu a missão, obrigado!\nEntão, eu sugiro que você descanse um dia.",
-        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Dolomedes… Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
+        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Dolomedes... Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
     },
     "vbF/Aw": {
         "en-US": "[Theodore]\nCan you kill ^0000CD30 Dolomedeses^000000 again, please?",
@@ -1117,7 +1117,7 @@
     "v7F/Aw": {
         "en-US": "[Yerne]\nUh, can you grab just one horn from them ...",
         "pt-BR": "[Zeca]\nParecem baratas voadoras...",
-        "es-ES": "[Yerne]\nUh, ¿puedes traerme solo un cuerno de ellos…?"
+        "es-ES": "[Yerne]\nUh, ¿puedes traerme solo un cuerno de ellos...?"
     },
     "wLF/Aw": {
         "en-US": "[Yerne]\nScaraba horn!!!",
@@ -1132,7 +1132,7 @@
     "wrF/Aw": {
         "en-US": "[Theodore]\nDid you finish your work? 30 Uni-Horn Scarabas ... Check. Thank you!\nPlease come back after you've had some rest. Or you could check out some other quests.",
         "pt-BR": "[Téo]\nConfirmei que você derrotou os Scarabas!\nEntão, eu sugiro que você descanse um dia.",
-        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Scaraba de un cuerno… Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
+        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Scaraba de un cuerno... Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
     },
     "w7F/Aw": {
         "en-US": "[Theodore]\nCan you kill ^0000CD30 Uni-Horn Scarabas^000000 again, please?",
@@ -1152,7 +1152,7 @@
     "xrF/Aw": {
         "en-US": "[Theodore]\nDid you finish your work? 30 Two-Horned Scarabas ... Check. Thank you!\nPlease come back after you've had some rest. Or you could check out some other quests.",
         "pt-BR": "[Téo]\nConfirmei que você derrotou os Scarabas!!\nEntão, eu sugiro que você descanse um dia.",
-        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Scaraba de dos cuernos… Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
+        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Scaraba de dos cuernos... Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
     },
     "x7F/Aw": {
         "en-US": "[Theodore]\nCan you kill ^0000CD30 Two-Horned Scarabas^000000 again, please?",
@@ -1172,7 +1172,7 @@
     "yrF/Aw": {
         "en-US": "[Theodore]\nDid you finish your work? 30 Antler Scarabas ... Check. Thank you!\nPlease come back after you've had some rest. Or you could check out some other quests.",
         "pt-BR": "[Téo]\nConfirmei que você derrotou os Scarabas!\nEntão, eu sugiro que você descanse um dia.",
-        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Scaraba de asta… Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
+        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Scaraba de asta... Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
     },
     "y7F/Aw": {
         "en-US": "[Theodore]\nCan you kill ^0000CD30 Antler Scarabas^000000 again, please?",
@@ -1192,7 +1192,7 @@
     "zrF/Aw": {
         "en-US": "[Theodore]\nDid you finish your work? 30 Rake Scarabas ... Check. Thank you!\nPlease come back after you've had some rest. Or you could check out some other quests.",
         "pt-BR": "[Téo]\nConfirmei que você derrotou os Scarabas!\nEntão, eu sugiro que você descanse um dia.",
-        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Scaraba de rastrillo… Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
+        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 30 Scaraba de rastrillo... Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
     },
     "z7F/Aw": {
         "en-US": "[Theodore]\nCan you kill ^0000CD30 Rake Scarabas^000000 again, please?",
@@ -1207,7 +1207,7 @@
     "0bF/Aw": {
         "en-US": "[Yerne]\nUh, can you grab just one Fire Condor feather ...",
         "pt-BR": "[Zeca]\nEsses animais vivem no Círculo de Fogo...",
-        "es-ES": "[Yerne]\nUh, ¿puedes traerme solo una pluma de Cóndor de fuego…?"
+        "es-ES": "[Yerne]\nUh, ¿puedes traerme solo una pluma de Cóndor de fuego...?"
     },
     "0rF/Aw": {
         "en-US": "[Yerne]\nFire Condor feather!!!",
@@ -1222,7 +1222,7 @@
     "1LF/Aw": {
         "en-US": "[Theodore]\nDid you finish your work? 15 Fire Condors and Fire Frilldoras ... Check. Thank you!\nPlease come back after you've had some rest. Or you could check out some other quests.",
         "pt-BR": "[Téo]\nConfirmei que você derrotou os animais de fogo!\nEntão, eu sugiro que você descanse um dia.",
-        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 15 Cóndores de fuego y 15 Frilldora de fuego… Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
+        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 15 Cóndores de fuego y 15 Frilldora de fuego... Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
     },
     "1bF/Aw": {
         "en-US": "[Theodore]\nCan you kill ^0000CD15 Fire Condors and Fire Frilldoras^000000 again, please?",
@@ -1242,7 +1242,7 @@
     "2LF/Aw": {
         "en-US": "[Theodore]\nDid you finish your work? 15 Fire Sandmen and Fire Golems ... Check. Thank you!\nPlease come back after you've had some rest. Or you could check out some other quests.",
         "pt-BR": "[Téo]\nConfirmei sua atuação no Círculo de Fogo!\nEntão, eu sugiro que você descanse um dia.",
-        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 15 Hombres de arena y 15 Gólems de llama… Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
+        "es-ES": "[Theodore]\n¿Terminaste tu trabajo? 15 Hombres de arena y 15 Gólems de llama... Listo. ¡Gracias!\nVuelve luego de que hayas descansado. O puedes consultar otras misiones."
     },
     "2bF/Aw": {
         "en-US": "[Theodore]\nCan you kill ^0000CDFire Sandmen and Fire Golems again, of each^000000, please?",
@@ -1257,7 +1257,7 @@
     "27F/Aw": {
         "en-US": "[Nuinui]\nHmm ... Can humans carry that much stuff in their bag?\nRaffles don't work with full hands. So come back after you empty your bag.",
         "pt-BR": "[Lulu]\nHmm... Não notou um peso na consciência?\nEsvazie o seu inventário e volte.",
-        "es-ES": "[Nuinui]\nMmm… ¿Pueden los humanos llevar tantas cosas en el bolso?\nLos raffles no trabajan con las manos llenas. Vuelve después de vaciar tu bolso."
+        "es-ES": "[Nuinui]\nMmm... ¿Pueden los humanos llevar tantas cosas en el bolso?\nLos raffles no trabajan con las manos llenas. Vuelve después de vaciar tu bolso."
     },
     "3LF/Aw": {
         "en-US": "[Nuinui]\nHey, it's a human. But I'll only make requests to humans in Eden Group.",
@@ -1267,7 +1267,7 @@
     "3bF/Aw": {
         "en-US": "[Nuinui]\nHonestly, I don't remember why.\nBut I made a promise to one human somehow ...",
         "pt-BR": "[Lulu]\nSe você não faz parte, considere.\nPosso dar missões diárias especiais para você...",
-        "es-ES": "[Nuinui]\nSinceramente, no recuerdo por qué.\nPero, de algún modo, le hice una promesa a un humano…"
+        "es-ES": "[Nuinui]\nSinceramente, no recuerdo por qué.\nPero, de algún modo, le hice una promesa a un humano..."
     },
     "3rF/Aw": {
         "en-US": "[Nuinui]\nOh, it's a human. But I'll only make requests to humans who are strong.",
@@ -1277,7 +1277,7 @@
     "37F/Aw": {
         "en-US": "[Nuinui]\nRaffles can't tell which humans are strong.\nBut one human told me there's a fast way to know one's strength ...",
         "pt-BR": "[Lulu]\nNós, os Rafflen, não temos a força e o nível suficiente para essas solicitações.\nVocê também não tem...",
-        "es-ES": "[Nuinui]\nLos raffles no puede distinguir a los humanos fuertes.\nPero un humano me dijo que hay una forma rápida de saber la fuerza de uno…"
+        "es-ES": "[Nuinui]\nLos raffles no puede distinguir a los humanos fuertes.\nPero un humano me dijo que hay una forma rápida de saber la fuerza de uno..."
     },
     "4LF/Aw": {
         "en-US": "[Nuinui]\nOh, human. You're already doing my quest?\nGo report to Eden Group this time and get your reward. This time.",
@@ -1302,7 +1302,7 @@
     "5LF/Aw": {
         "en-US": "[Nuinui]\n... Right, I almost forgot.\nI have a favor to ask of you, human Adventurer.",
         "pt-BR": "[Lulu]\n......Ah é, esqueci.\nEu tenho algumas solicitações para os viajantes.",
-        "es-ES": "[Nuinui]\n… Cierto, casi lo olvido.\nTengo que pedirte un favor, trotamundos."
+        "es-ES": "[Nuinui]\n... Cierto, casi lo olvido.\nTengo que pedirte un favor, trotamundos."
     },
     "5bF/Aw": {
         "en-US": "[Nuinui]\nYoung Raffles need to go on an adventure.\nBut there are so many things that endanger us around here.",
@@ -1387,12 +1387,12 @@
     "9bF/Aw": {
         "en-US": "[Nuinui]\n... Um.\nI made that rule. Because I'm a young Raffles.",
         "pt-BR": "[Lulu]\n......Ah.\nEntendi... você não quer.",
-        "es-ES": "[Nuinui]\n… Mmm.\nYo hice esa regla. Porque soy un joven Raffles."
+        "es-ES": "[Nuinui]\n... Mmm.\nYo hice esa regla. Porque soy un joven Raffles."
     },
     "9rF/Aw": {
         "en-US": "[Nuinui]\nHmm ...",
         "pt-BR": "[Lulu]\nAh...",
-        "es-ES": "[Nuinui]\nMmm…"
+        "es-ES": "[Nuinui]\nMmm..."
     },
     "97F/Aw": {
         "en-US": "[Nuinui]\nI didn't think you would say that.\nHumans are mysterious creatures.",
@@ -1437,7 +1437,7 @@
     "/7F/Aw": {
         "en-US": "[Nuinui]\nUmm ... you're already here for your pay?\nYou haven't finished what I asked you to do yet. No completed job, no pay.",
         "pt-BR": "[Lulu]\nAh... você já quer receber o salário?\nEu só posso te pagar se você concluir o que pedi.",
-        "es-ES": "[Nuinui]\nMmm… ¿ya viniste por tu paga?\nAún no terminas lo que te pedí. Sin trabajo completado, no hay paga."
+        "es-ES": "[Nuinui]\nMmm... ¿ya viniste por tu paga?\nAún no terminas lo que te pedí. Sin trabajo completado, no hay paga."
     },
     "ALJ/Aw": {
         "en-US": "[Nuinui]\nIt's ^0000CD20 Mimings^000000. Hurry up and finish it.",
@@ -1457,7 +1457,7 @@
     "A7J/Aw": {
         "en-US": "[Nuinui]\nNow, go catch ^0000CD20 Mimings^000000 again.\nWhy does it feel like their numbers grow bigger every time ...?",
         "pt-BR": "[Lulu]\nMais uma vez, ^0000CDPlagiador^000000. ^0000CDDestrua 20^000000 para mim.\nSem falta...",
-        "es-ES": "[Nuinui]\nAhora, ve por ^0000CD20 Miming^000000 de nuevo.\n¿Por qué parece que su número aumenta cada vez más…?"
+        "es-ES": "[Nuinui]\nAhora, ve por ^0000CD20 Miming^000000 de nuevo.\n¿Por qué parece que su número aumenta cada vez más...?"
     },
     "BLJ/Aw": {
         "en-US": "[Nuinui]\nWould it be better to study Miming repopulation before I go?",
@@ -1482,7 +1482,7 @@
     "CLJ/Aw": {
         "en-US": "[Nuinui]\nNow, go get ^0000CD20 Little Fatums^000000 again.\nWhy does it feel like their numbers grow bigger every time ...?",
         "pt-BR": "[Lulu]\nMais uma vez, ^0000CDdestrua 20 Pequeno Fatum^000000 para mim.\nSem falta...",
-        "es-ES": "[Nuinui]\nVe por ^0000CD20 Fatum pequeño^000000 de nuevo.\n¿Por qué parece que su número aumenta cada vez más…?"
+        "es-ES": "[Nuinui]\nVe por ^0000CD20 Fatum pequeño^000000 de nuevo.\n¿Por qué parece que su número aumenta cada vez más...?"
     },
     "CbJ/Aw": {
         "en-US": "[Nuinui]\nWould it be better to study Little Fatum repopulation before I go?",

@@ -1,0 +1,312 @@
+{
+    "gKhHDQ": {
+        "en-US": "[Test]\n210924-Ranking. EXP Adjustment",
+        "pt-BR": "[Teste]\n210924-Ranking.Ajuste de EXP",
+        "es-ES": "[Prueba]\n210924 - Ajuste de clasificación/EXP"
+    },
+    "gahHDQ": {
+        "en-US": "Broadcast ON",
+        "pt-BR": "Transmissão ON",
+        "es-ES": "Anuncio ON"
+    },
+    "gqhHDQ": {
+        "en-US": "Broadcast OFF",
+        "pt-BR": "Transmissão OFF",
+        "es-ES": "Anuncio OFF"
+    },
+    "g6hHDQ": {
+        "en-US": "Move Floors",
+        "pt-BR": "Mover de andar",
+        "es-ES": "Mover de planta"
+    },
+    "hKhHDQ": {
+        "en-US": "Change Difficulty (Force Move to Floor 5)",
+        "pt-BR": "Alterar dificuldade (movimento forçado para o 5º andar)",
+        "es-ES": "Cambiar dificultad (movimiento forzado a la planta 5)"
+    },
+    "hahHDQ": {
+        "en-US": "EXP Rate (Event",
+        "pt-BR": "Multiplicador de EXP (evento",
+        "es-ES": "Multiplicador de EXP (evento"
+    },
+    "hqhHDQ": {
+        "en-US": "Enter 1-5",
+        "pt-BR": "Inserir 1~5",
+        "es-ES": "Introduce 1~5"
+    },
+    "h6hHDQ": {
+        "en-US": "Enter 100-500",
+        "pt-BR": "Inserir 100~500",
+        "es-ES": "Introduce 100~500"
+    },
+    "iKhHDQ": {
+        "en-US": "Infinite Reward Check",
+        "pt-BR": "Checagem de recompensa infinita",
+        "es-ES": "Comprobación de recompensa infinita"
+    },
+    "iahHDQ": {
+        "en-US": "Set Remaining Time",
+        "pt-BR": "Definir tempo restante",
+        "es-ES": "Configurar tiempo restante"
+    },
+    "iqhHDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "i6hHDQ": {
+        "en-US": "Enter Remaining Time (Minutes)",
+        "pt-BR": "Inserir tempo restante (min)",
+        "es-ES": "Introduce el tiempo restante (min)"
+    },
+    "jKhHDQ": {
+        "en-US": "Reset Cleared Floors",
+        "pt-BR": "Resetar andares concluídos",
+        "es-ES": "Restablecer plantas completadas"
+    },
+    "jahHDQ": {
+        "en-US": "Time Remaining Until Barrier Collapse: {0} min.",
+        "pt-BR": "Tempo restante até o colapso da barreira: {0} min",
+        "es-ES": "Tiempo restante hasta el colapso de la barrera: {0} min"
+    },
+    "jqhHDQ": {
+        "en-US": "Leticia: Time is up. Once the barrier collapses, none of the mechanisms here will function. Stop what you are doing and prepare for teleportation.",
+        "pt-BR": "Letícia: O tempo acabou. Quando a barreira desmoronar, todos os mecanismos deste lugar deixarão de funcionar. Pare o que estiver fazendo e prepare-se para o teleporte.",
+        "es-ES": "Leticia: Se acabó el tiempo. Cuando la barrera se derrumbe, todos los mecanismos de este lugar dejarán de funcionar. Deja lo que estés haciendo y prepárate para el teletransporte."
+    },
+    "j6hHDQ": {
+        "en-US": "[Leticia]\nWater is still continuing to fill this place. With the power of the barrier, you have less than 30 minutes to breathe, so you should hurry.",
+        "pt-BR": "[Letícia]\nEste lugar continua se enchendo de água até agora. O tempo em que é possível respirar com a força da barreira é inferior a 30 minutos, então é melhor se apressar.",
+        "es-ES": "[Leticia]\nEste lugar sigue llenándose de agua incluso ahora. El tiempo en el que se puede respirar gracias a la fuerza de la barrera es inferior a 30 minutos, así que es mejor que te apures."
+    },
+    "kKhHDQ": {
+        "en-US": "^0000FFChange Difficulty^000000",
+        "pt-BR": "^0000FFAlterar dificuldade^000000",
+        "es-ES": "^0000FFCambiar dificultad^000000"
+    },
+    "kahHDQ": {
+        "en-US": "Difficulty Level {0}",
+        "pt-BR": "Dificuldade nível {0}",
+        "es-ES": "Dificultad nivel {0}"
+    },
+    "kqhHDQ": {
+        "en-US": "--------------\nCurrent Grade - ^0000FF{0} ^000000",
+        "pt-BR": "--------------\nGrau atual - ^0000FF{0} ^000000",
+        "es-ES": "--------------\nGrado actual - ^0000FF{0} ^000000"
+    },
+    "k6hHDQ": {
+        "en-US": "Please wait a moment!",
+        "pt-BR": "Espere um pouco!",
+        "es-ES": "¡Espera un momento!"
+    },
+    "lKhHDQ": {
+        "en-US": "Let's depart now.",
+        "pt-BR": "Vamos partir agora.",
+        "es-ES": "Partamos ya"
+    },
+    "lahHDQ": {
+        "en-US": "[Leticia]\nYou know there is not much time, don't you? You had better move quickly.",
+        "pt-BR": "[Letícia]\nVocê sabe que não temos muito tempo, não é? É melhor se mover logo.",
+        "es-ES": "[Leticia]\nSabes que no queda mucho tiempo, ¿verdad? Será mejor que te muevas rápido."
+    },
+    "lqhHDQ": {
+        "en-US": "Difficulty Level 1",
+        "pt-BR": "Dificuldade nível 1",
+        "es-ES": "Dificultad nivel 1"
+    },
+    "l6hHDQ": {
+        "en-US": "Difficulty Level 2",
+        "pt-BR": "Dificuldade nível 2",
+        "es-ES": "Dificultad nivel 2"
+    },
+    "mKhHDQ": {
+        "en-US": "Difficulty Level 3",
+        "pt-BR": "Dificuldade nível 3",
+        "es-ES": "Dificultad nivel 3"
+    },
+    "mahHDQ": {
+        "en-US": "Difficulty Level 4",
+        "pt-BR": "Dificuldade nível 4",
+        "es-ES": "Dificultad nivel 4"
+    },
+    "mqhHDQ": {
+        "en-US": "Difficulty Level 5",
+        "pt-BR": "Dificuldade nível 5",
+        "es-ES": "Dificultad nivel 5"
+    },
+    "m6hHDQ": {
+        "en-US": "[Leticia]",
+        "pt-BR": "[Letícia]",
+        "es-ES": "[Leticia]"
+    },
+    "nKhHDQ": {
+        "en-US": "<ITEM>[Meteor Dust]<INFO>1000372</INFO></ITEM> x10 can increase the number and strength of the creatures wandering here. Of course, monster EXP and the goddess's rewards will also increase slightly to match.\n--------------\nCurrent Difficulty - ^0000FF{0} ^000000",
+        "pt-BR": "Com 10 <ITEM>[Pó de Meteorito]<INFO>1000372</INFO></ITEM>, é possível aumentar a quantidade e a força dos seres que vagam por aqui. É claro que a EXP dos monstros e as recompensas da deusa também aumentarão um pouco de acordo.\n--------------\nDificuldade atual - ^0000FF{0} ^000000",
+        "es-ES": "Con 10 <ITEM>[Polvo de meteorito]<INFO>1000372</INFO></ITEM>, puedes aumentar el número y la fuerza de los seres que vagan por aquí. Por supuesto, la EXP de los monstruos y las recompensas de la diosa también aumentarán un poco en consecuencia.\n--------------\nDificultad actual - ^0000FF{0} ^000000"
+    },
+    "nahHDQ": {
+        "en-US": "Quit",
+        "pt-BR": "Desistir",
+        "es-ES": "Cancelar"
+    },
+    "nqhHDQ": {
+        "en-US": "[Leticia]\n^660000That is hardly any different from now! Do not waste time.^000000",
+        "pt-BR": "[Letícia]\n^660000Isso não é praticamente igual ao estado atual? Não desperdice tempo.^000000",
+        "es-ES": "[Leticia]\n^660000¡No hay prácticamente ninguna diferencia con lo de ahora! No me hagas perder el tiempo.^000000"
+    },
+    "n6hHDQ": {
+        "en-US": "Difficulty Level {0}",
+        "pt-BR": "Dificuldade nível {0}",
+        "es-ES": "Dificultad nivel {0}"
+    },
+    "oKhHDQ": {
+        "en-US": "[Leticia]\nAre you sure you want to change it to ^0000FF[{0}]^000000?",
+        "pt-BR": "[Letícia]\nTem certeza de que deseja alterar para ^0000FF[{0}]^000000?",
+        "es-ES": "[Leticia]\n¿Seguro que quieres cambiarlo a ^0000FF[{0}]^000000?"
+    },
+    "oahHDQ": {
+        "en-US": "Please change it.",
+        "pt-BR": "Altere, por favor.",
+        "es-ES": "Cámbiala, por favor."
+    },
+    "oqhHDQ": {
+        "en-US": "[Leticia]\nTime is passing. What do you plan to do now?",
+        "pt-BR": "[Letícia]\nO tempo está passando cada vez mais. O que pretende fazer agora?",
+        "es-ES": "[Leticia]\nEl tiempo sigue pasando. ¿Qué piensas hacer ahora?"
+    },
+    "o6hHDQ": {
+        "en-US": "[Leticia]\nYou do not have <ITEM>[Meteor Dust]<INFO>1000372</INFO></ITEM> x10, do you?",
+        "pt-BR": "[Letícia]\nVocê não tem 10 <ITEM>[Pó de Meteorito]<INFO>1000372</INFO></ITEM>, não é?",
+        "es-ES": "[Leticia]\n¿No tienes 10 <ITEM>[Polvo de meteorito]<INFO>1000372</INFO></ITEM>?"
+    },
+    "pKhHDQ": {
+        "en-US": "[Leticia]\nTo alter the number and ferocity of the creatures here, you need <ITEM>[Meteor Dust]<INFO>1000372</INFO></ITEM> x10. From the look of it, you do not have any.",
+        "pt-BR": "[Letícia]\nPara alterar a quantidade e a ferocidade dos seres daqui, são necessários 10 <ITEM>[Pó de Meteorito]<INFO>1000372</INFO></ITEM>. Pelo visto, você não tem nada.",
+        "es-ES": "[Leticia]\nPara modificar la cantidad y la ferocidad de los seres de este lugar, se necesitan 10 <ITEM>[Polvo de meteorito]<INFO>1000372</INFO></ITEM>. Al parecer, no tienes nada."
+    },
+    "pahHDQ": {
+        "en-US": "^0000FFYou are not the appropriate level to enter this place.^000000",
+        "pt-BR": "^0000FFSeu nível não é adequado para entrar e sair daqui.^000000",
+        "es-ES": "^0000FFNo tienes el nivel adecuado para entrar aquí.^000000"
+    },
+    "pqhHDQ": {
+        "en-US": "[Leticia]\nWhere are your other companions? Tell them to come inside.",
+        "pt-BR": "[Letícia]\nOnde estão seus outros companheiros? Diga a eles para entrarem.",
+        "es-ES": "[Leticia]\n¿Dónde están tus demás compañeros? Diles que entren."
+    },
+    "p6hHDQ": {
+        "en-US": "[Leticia]\nI will maintain the barrier so this tower does not collapse any further. I will bring you out when the time comes, so wait.",
+        "pt-BR": "[Letícia]\nVou manter a barreira para que esta torre não desmorone mais. Quando chegar a hora, tirarei vocês daqui, então aguardem.",
+        "es-ES": "[Leticia]\nYo mantendré la barrera para que esta torre no se derrumbe más. Cuando llegue el momento, os sacaré, así que esperad."
+    },
+    "qKhHDQ": {
+        "en-US": "Leticia: There are still small fry left here. Clean them all up.",
+        "pt-BR": "Letícia: Ainda restam fracotes aqui. Limpe tudo direitinho.",
+        "es-ES": "Leticia: Aún quedan debiluchos en este lugar. Elimínalos por completo."
+    },
+    "qahHDQ": {
+        "en-US": "^FF0000There are still surviving monsters.^000000",
+        "pt-BR": "^FF0000Ainda existem monstros sobreviventes.^000000",
+        "es-ES": "^FF0000Aún quedan monstruos con vida.^000000"
+    },
+    "qqhHDQ": {
+        "en-US": "^FF0000You are too heavy to use the portal. Empty your inventory and try touching it again.^000000",
+        "pt-BR": "^FF0000Você está pesado demais para usar o portal. Esvazie seu inventário e tente interagir com ele.^000000",
+        "es-ES": "^FF0000Pesas demasiado para usar el portal. Vacía tu inventario e intenta tocarlo de nuevo.^000000"
+    },
+    "q6hHDQ": {
+        "en-US": "Gained EXP - {0} / Job EXP - {1}",
+        "pt-BR": "EXP - {0} / EXP de classe - {1} obtida",
+        "es-ES": "EXP - {0} / EXP de clase - {1} obtenida"
+    },
+    "rKhHDQ": {
+        "en-US": "Out of ^0000FF{0}^000000 total party members, ^0000FF{1}^000000 have not received their rewards.\n--------------\n^FF0000Do you want to forcibly proceed with the warp while ignoring the members who have not received rewards?^000000",
+        "pt-BR": "Entre os ^0000FF{0} membros^000000 do grupo inteiro, ^0000FF{1} membros^000000 não receberam a recompensa.\n--------------\n^FF0000Deseja ignorar os membros que não receberam a recompensa e prosseguir com o teleporte forçado?^000000",
+        "es-ES": "De los ^0000FF{0} miembros^000000 del grupo, ^0000FF{1} miembros^000000 no han recibido la recompensa.\n--------------\n^FF0000¿Quieres ignorar a los miembros que no han recibido la recompensa y forzar la urdimbre?^000000"
+    },
+    "rahHDQ": {
+        "en-US": "Proceed",
+        "pt-BR": "Prosseguir",
+        "es-ES": "Continuar"
+    },
+    "rqhHDQ": {
+        "en-US": "^0000FFPlease make sure all party members have received their rewards, then try again.^000000",
+        "pt-BR": "^0000FFVerifique se todos os membros do grupo receberam a recompensa e tente novamente.^000000",
+        "es-ES": "^0000FFComprueba que todos los miembros del grupo hayan recibido la recompensa y vuelve a intentarlo.^000000"
+    },
+    "r6hHDQ": {
+        "en-US": "Water",
+        "pt-BR": "da água",
+        "es-ES": "del agua"
+    },
+    "sKhHDQ": {
+        "en-US": "Earth",
+        "pt-BR": "da terra",
+        "es-ES": "de la tierra"
+    },
+    "sahHDQ": {
+        "en-US": "Fire",
+        "pt-BR": "do fogo",
+        "es-ES": "del fuego"
+    },
+    "sqhHDQ": {
+        "en-US": "Wind",
+        "pt-BR": "do vento",
+        "es-ES": "del viento"
+    },
+    "s6hHDQ": {
+        "en-US": "Holy",
+        "pt-BR": "sagrada",
+        "es-ES": "sagrada"
+    },
+    "tKhHDQ": {
+        "en-US": "Shadow",
+        "pt-BR": "sombria",
+        "es-ES": "oscura"
+    },
+    "tahHDQ": {
+        "en-US": "Leticia: In the aftermath of the tower's collapse, these creatures had their original traits and causality twisted.",
+        "pt-BR": "Letícia: Devido ao impacto do colapso da torre, as características e a causalidade originais destes seres foram distorcidas.",
+        "es-ES": "Leticia: Por las secuelas del derrumbe de la torre, las características e influencias originales de estos seres se han retorcido."
+    },
+    "tqhHDQ": {
+        "en-US": "Leticia: The {0} energy is especially strong today.",
+        "pt-BR": "Letícia: Hoje, a energia {0} está especialmente forte.",
+        "es-ES": "Leticia: Hoy, en particular, la energía {0} es intensa."
+    },
+    "t6hHDQ": {
+        "en-US": "An event granting {0}% additional EXP is currently in progress.",
+        "pt-BR": "Evento de EXP adicional de {0}% em andamento.",
+        "es-ES": "Actualmente hay un evento de EXP adicional de {0} % en curso."
+    },
+    "uKhHDQ": {
+        "en-US": "Leticia: It seems a companion has fled. Tell them to return here quickly.",
+        "pt-BR": "Letícia: Parece que há um companheiro que fugiu, não é? Diga a ele para voltar logo para cá.",
+        "es-ES": "Leticia: Parece que hay algún compañero que ha huido. Dile que vuelva aquí cuanto antes."
+    },
+    "uahHDQ": {
+        "en-US": "Leticia: You should help a fallen companion back up, shouldn't you?",
+        "pt-BR": "Letícia: Você deveria levantar um companheiro caído, não acha?",
+        "es-ES": "Leticia: Deberías levantar a los compañeros caídos, ¿no crees?"
+    },
+    "uqhHDQ": {
+        "en-US": "Leticia: There are small fry remaining. Make sure you clean them up thoroughly.",
+        "pt-BR": "Letícia: Ainda restam fracotes. Faça uma limpeza completa.",
+        "es-ES": "Leticia: Todavía quedan algunos debiluchos. Asegúrate de limpiar bien."
+    },
+    "u6hHDQ": {
+        "en-US": "Underground Floor {0} Mutant#{1}",
+        "pt-BR": "Subsolo {0}º andar Mutante #{1}",
+        "es-ES": "Mutante del Piso Subterráneo {0}º #{1}"
+    },
+    "vKhHDQ": {
+        "en-US": "{0}/{1}  Element-{2}  Size-{3}  Race-{4}  LV-{5}  Range-{6}  ATK-{7}  EXP- {8}  JEXP- {9}/0+rel_cnt",
+        "pt-BR": "{0}/{1}  atributo-{2}  tamanho-{3}  raça-{4}  LV-{5}  alcance-{6}  ATQ-{7}  EXP- {8}  JEXP- {9}/0+rel_cnt",
+        "es-ES": "{0}/{1}  Atributo-{2}  Tamaño-{3}  Raza-{4}  LV-{5}  Alcance-{6}  ATQ-{7}  EXP- {8}  JEXP- {9}/0+rel_cnt"
+    },
+    "vahHDQ": {
+        "en-US": "Reached Underground Floor {0}",
+        "pt-BR": "Subsolo {0}º andar alcançado",
+        "es-ES": "Planta subterránea {0} alcanzada"
+    }
+}

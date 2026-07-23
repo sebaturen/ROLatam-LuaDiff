@@ -1,3 +1,5 @@
+
+
 WORLD_MSGID = {
 	MSI_1_THA_T01 = "Torre de Thanatos: entrada del museo de la planta baja",
 	MSI_1_THA_T02 = "Torre de Thanatos: museo de la planta baja",

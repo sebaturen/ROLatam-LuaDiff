@@ -6077,5 +6077,257 @@ tbl_string = {
 				[19] = "<TIPBOX>•Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 			}
 		}
+	},
+	[9031] = {
+		Title = "Personaje: clase",
+		Page = {
+			[1] = {
+				[1] = "En el mundo de Ragnarok existen diversas clases.",
+				[2] = "<TIPBOX>§Guía de cambio a 1.ª clase<INFO>9032</INFO></TIPBOX>",
+				[3] = "<TIPBOX>§Guía de cambio a 2.ª clase<INFO>9000</INFO></TIPBOX>",
+				[4] = "<TIPBOX>§Sobre las clases trascendentes<INFO>9051</INFO></TIPBOX>",
+				[5] = "<TIPBOX>§Guía de cambio a 3.ª clase<INFO>9052</INFO></TIPBOX>",
+				[6] = "<TIPBOX>§Guía de cambio a 4.ª clase<INFO>9136</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>§Guía de cambio a clases ampliadas<INFO>9039</INFO></TIPBOX>",
+				[9] = "<TIPBOX>§Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>§Guía de los Doram<INFO>9044</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "<TIPBOX>»Clases de fabricación<INFO>9068</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»A la página de personaje<INFO>1001</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Misiones<INFO>4100</INFO></TIPBOX>",
+				[15] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9043] = {
+		Title = "JQ Cambio a «T:Superprincipiante»",
+		Page = {
+			[1] = {
+				[1] = "«T:Superprincipiante» es una clase que, a diferencia del «T:Superprincipiante» que solo puede usar «T:Primeros auxilios» y «T:Hacerse el muerto», puede usar la mayoría de las habilidades de las 6 clases de 1.ª clase. El mayor atractivo de «T:Superprincipiante» es que puede aprender la mayoría de las habilidades de las clases de 1.ª clase.",
+				[2] = "Sin embargo, como «T:Superprincipiante» también es una clase por derecho propio, una vez te conviertas en «T:Superprincipiante» ya no podrás cambiar a otra clase de 1.ª clase.",
+				[3] = "^663399§Nivel base 45 o superior^000000",
+				[4] = "^663399§Nivel de oficio 10 o superior^000000",
+				[5] = "^663399§Objetivo: «T:Superprincipiante»^000000",
+				[6] = "",
+				[7] = "<NAVI>[Tzerero]<INFO>aldeba_in,223,167,0,101,0,</INFO></NAVI>",
+				[8] = "",
+				[9] = "Los «T:Superprincipiante» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[10] = "<TIPBOX>▷Hipernovato<INFO>4250</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "<TIPBOX>»Volver a la página anterior<INFO>9039</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9044] = {
+		Title = "JQ Guía de los Doram",
+		Page = {
+			[1] = {
+				[1] = "Los Doram poseen grandes capacidades como «T:Invocador» y, por lo general, eligen el camino para convertirse en «T:Invocador».",
+				[2] = "La aventura de un «T:Invocador» Doram que acaba de debutar como aventurero en Midgard comienza ahora.",
+				[3] = "",
+				[4] = "Los «T:Invocador» con nivel base 200 y nivel de oficio (Job «T:Nivel») 60 o superior podrán cambiar a una clase ampliada superior.",
+				[5] = "<TIPBOX>▷«T:Animista»<INFO>4251</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Volver a la página anterior<INFO>9039</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9047] = {
+		Title = "JQ Cambio a «T:Emperador Estelar»",
+		Page = {
+			[1] = {
+				[1] = "Entre los «T:Maestro de Taekwon» que manejan el poder del sol, la luna y las estrellas, aquellos que ansiaban un conocimiento más amplio para fortalecer su poder llegaron a comprender el conocimiento del universo, principio de todas las cosas, y comenzaron a llamarse Emperadores Estelares.",
+				[2] = "^663399§Nivel base 99 o superior^000000",
+				[3] = "^663399§Nivel de oficio 50 o superior^000000",
+				[4] = "^663399§Objetivo: «T:Maestro de Taekwon»^000000",
+				[5] = "",
+				[6] = "<NAVI>[«T:Hombre Bien Vestido»]<INFO>payon,171,171,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Los «T:Emperador Estelar» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[9] = "<TIPBOX>▷«T:Emperador Celestial»<INFO>4252</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9045</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9048] = {
+		Title = "JQ Cambio a «T:Segador de Almas»",
+		Page = {
+			[1] = {
+				[1] = "La gran «T:Vinculador de Almas» que alcanzó la comprensión de la energía espiritual se convirtió en «T:Segador de Almas», pero ya no pudo regresar a la superficie. En su lugar, espera a los «T:Vinculador de Almas» que, como ella, lleguen al más allá para estudiar las almas.",
+				[2] = "^663399§Nivel base 99 o superior^000000",
+				[3] = "^663399§Nivel de oficio 50 o superior^000000",
+				[4] = "^663399§Objetivo: «T:Vinculador de Almas»^000000",
+				[5] = "",
+				[6] = "<NAVI>[«T:Banyak»]<INFO>pay_fild08,51,82,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Los «T:Segador de Almas» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[9] = "<TIPBOX>▷«T:Asceta de Almas»<INFO>4253</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9046</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9049] = {
+		Title = "JQ Cambio a «T:Kagerou»/«T:Oboro»",
+		Page = {
+			[1] = {
+				[1] = "El clan que durante largos años había permanecido oculto, conteniendo el aliento entre las «T:Sombra» del mundo, reveló su presencia cuando llegó una época turbulenta y caótica, pero aún no ha aparecido quien herede su verdadero nombre.",
+				[2] = "^663399§Nivel base 99 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: «T:Ninja»^000000",
+				[5] = "",
+				[6] = "<NAVI>[Camino al lugar de cambio de clase Ninja]<INFO>que_ng,28,156,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Los «T:Kagerou»/«T:Oboro» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[9] = "<TIPBOX>▷«T:Shinkiro»/«T:Shiranui»<INFO>4254</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9041</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9050] = {
+		Title = "JQ Cambio a «T:Rebelde»",
+		Page = {
+			[1] = {
+				[1] = "«T:Rebelde», clase superior de «T:Pistolero», capaz de manejar con destreza todo tipo de armas de fuego, no solo puede aprovechar todas las armas de fuego, sino también marcar a sus objetivos o infligir mucho daño a los objetivos marcados.",
+				[2] = "^663399§Nivel base 99 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: «T:Pistolero»^000000",
+				[5] = "",
+				[6] = "<NAVI>[Hombre sospechoso]<INFO>moc_fild12,261,318,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Los «T:Rebelde» con nivel base 200 y nivel de oficio (Job «T:Nivel») 70 o superior podrán cambiar a una clase ampliada superior.",
+				[9] = "<TIPBOX>▷Guerrillero<INFO>4255</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Volver a la página anterior<INFO>9042</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4249] = {
+		Title = "Guía de cambio superior de clases ampliadas",
+		Page = {
+			[1] = {
+				[1] = "Las clases ampliadas con nivel base 200 y nivel de oficio (Job Nivel) 70 o superior pueden cambiar a una clase ampliada superior.",
+				[2] = "<TIPBOX>▷Hiperprincipiante<INFO>4250</INFO></TIPBOX>",
+				[3] = "<TIPBOX>▷Animista<INFO>4251</INFO></TIPBOX>",
+				[4] = "<TIPBOX>▷Emperador Celestial<INFO>4252</INFO></TIPBOX>",
+				[5] = "<TIPBOX>▷Asceta de Almas<INFO>4253</INFO></TIPBOX>",
+				[6] = "<TIPBOX>▷Shinkiro/Shiranui<INFO>4254</INFO></TIPBOX>",
+				[7] = "<TIPBOX>▷Guerrillero<INFO>4255</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Personaje: clase<INFO>9031</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4250] = {
+		Title = "JQ Cambio a Hiperprincipiante",
+		Page = {
+			[1] = {
+				[1] = "Los Hiperprincipiantes, que cambian de clase desde Superprincipiante, han investigado más a fondo las técnicas de otras clases, las han mejorado para que los débiles novatos puedan aprovecharlas mejor y las han convertido en habilidades de refuerzo propias. Superprincipiante sigue siendo débil, pero con estas técnicas mejoradas puede someter a sus enemigos en un instante.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Superprincipiante^000000",
+				[5] = "",
+				[6] = "<NAVI>[Grape]<INFO>aldebaran,110,70,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Superprincipiante<INFO>9043</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4251] = {
+		Title = "JQ Cambio a Animista",
+		Page = {
+			[1] = {
+				[1] = "Animista, que cambia de clase desde Invocador, emprende un nuevo camino al encontrarse con bestias espirituales especiales. Los Doram que se convierten en Animista pueden disfrutar de aventuras aún más emocionantes con sus compañeros usando el poder de poderosas bestias espirituales.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 60 o superior^000000",
+				[4] = "^663399§Objetivo: Invocador^000000",
+				[5] = "",
+				[6] = "<NAVI>[Tablón de encargos]<INFO>payon,165,116,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Guía de los Doram<INFO>9044</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4252] = {
+		Title = "JQ Cambio a Emperador Celestial",
+		Page = {
+			[1] = {
+				[1] = "Emperador Estelar, que ha comprendido las leyes del Movimiento celestial, renace como Emperador Celestial y puede manejar de forma concentrada la energía del sol, la luna y las estrellas.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Emperador Estelar^000000",
+				[5] = "",
+				[6] = "<NAVI>[Cartel]<INFO>payon,213,202,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Emperador Estelar<INFO>9047</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4253] = {
+		Title = "JQ Cambio a Asceta de Almas",
+		Page = {
+			[1] = {
+				[1] = "Asceta de Almas, que cambia de clase desde Segador de Almas, ha perfeccionado las artes de talismanes como un poderoso medio para asistir en el manejo de las almas. Asceta de Almas puede emplear diversos talismanes para usar técnicas de apoyo y ataque más poderosas.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Segador de Almas^000000",
+				[5] = "",
+				[6] = "<NAVI>[Dependiente]<INFO>payon,197,119,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Segador de Almas<INFO>9048</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4254] = {
+		Title = "JQ Cambio a Shinkiro/Shiranui",
+		Page = {
+			[1] = {
+				[1] = "Shinkiro/Shiranui, que cambian de clase desde Kagerou/Oboro, han aprendido artes secretas perdidas de los antiguos Ninja y ahora dominan poderosas técnicas de sigilo y ninjutsu.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Kagerou/Oboro^000000",
+				[5] = "",
+				[6] = "<NAVI>[Seoyeon]<INFO>amatsu,82,118,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Kagerou/Oboro<INFO>9049</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4255] = {
+		Title = "JQ Cambio a Guerrillero",
+		Page = {
+			[1] = {
+				[1] = "Rebelde decide convertirse en Guerrillero, un vigilante que supervisa a empresas y gobiernos por la seguridad del pueblo. Podrás disfrutar del explosivo combate de Guerrillero, armado con poderosas armas de fuego.",
+				[2] = "^663399§Nivel base 200 o superior^000000",
+				[3] = "^663399§Nivel de oficio 70 o superior^000000",
+				[4] = "^663399§Objetivo: Rebelde^000000",
+				[5] = "",
+				[6] = "<NAVI>[Yana]<INFO>einbroch,313,324,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Cambio a Rebelde<INFO>9050</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guía de cambio superior de clases ampliadas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
 	}
 }

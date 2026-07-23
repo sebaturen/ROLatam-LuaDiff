@@ -1,0 +1,422 @@
+{
+    "oElPDQ": {
+        "en-US": "Yana",
+        "pt-BR": "Yana",
+        "es-ES": "Yana"
+    },
+    "oUlPDQ": {
+        "en-US": "Big Brother",
+        "pt-BR": "Moço",
+        "es-ES": "Muchacho"
+    },
+    "oklPDQ": {
+        "en-US": "Big Sister",
+        "pt-BR": "Moça",
+        "es-ES": "Muchacha"
+    },
+    "o0lPDQ": {
+        "en-US": "[Yana]\nDid you come for a drink, {0}?\nEnjoy yourself.",
+        "pt-BR": "[Jana]\nVeio tomar uma bebida, Parça?\nDivirta-se.",
+        "es-ES": "[Yana]\n¿Has venido a tomar una copa, {0}?\nQue lo disfrutes."
+    },
+    "pElPDQ": {
+        "en-US": "[Yana]\nDid you come for a drink, {0}?\nDon't neglect your growth.",
+        "pt-BR": "[Jana]\nVeio tomar uma bebida, Parça?\nNão ignore sua progressão.",
+        "es-ES": "[Yana]\n¿Has venido a tomar una copa, {0}?\nNo descuides tu crecimiento."
+    },
+    "pUlPDQ": {
+        "en-US": "[Yana]\nI'm not saying there's anything wrong with taking a short break.\nEnjoy yourself.",
+        "pt-BR": "[Jana]\nNão estou criticando você por descansar um pouco.\nRelaxa.",
+        "es-ES": "[Yana]\nNo digo que esté mal tomarse un pequeño descanso. Que lo disfrutes."
+    },
+    "pklPDQ": {
+        "en-US": "[Yana]\nOh, {0}, you're a Baby who hasn't become independent yet?\nA small, young body can't handle the duties of a Night Watch.",
+        "pt-BR": "[Jana]\nOh, Parça, você ainda é um bebê que não conquistou a independência?\nCom um corpo pequeno e jovem, não é possível lidar com as missões de Guerrilheiro.",
+        "es-ES": "[Yana]\nEh, {0}, ¿eres un bebé que todavía no se ha independizado?\nUn cuerpo pequeño y demasiado joven no puede asumir los deberes propios de ser Guerrillero."
+    },
+    "p0lPDQ": {
+        "en-US": "[Yana]\nThat's why they say we can't take the test either. I hate being treated like a child.",
+        "pt-BR": "[Jana]\nPor isso, dizem que a gente não pode nem fazer o teste. Eu não gosto de ser tratada como criança.",
+        "es-ES": "[Yana]\nPor eso dicen que tampoco podemos presentarnos a la prueba. Odio que me traten como si no fuera una persona adulta."
+    },
+    "qElPDQ": {
+        "en-US": "[Yana]\nBut it's also true that we're still young.\nIf you go to Prontera and become independent, you'll be eligible. Go become independent and come back.",
+        "pt-BR": "[Jana]\nMas também é verdade que ainda somos crianças.\nSe for a Prontera e conquistar a independência, terá a qualificação. Conquiste a independência e volte.",
+        "es-ES": "[Yana]\nPero también es cierto que todavía somos jóvenes.\nSi te vas a Prontera y te independizas, te podrás presentar. Ve a independizarte y vuelve."
+    },
+    "qUlPDQ": {
+        "en-US": "Go to the town office.",
+        "pt-BR": "Ir ao escritório administrativo.",
+        "es-ES": "Ir a la oficina municipal."
+    },
+    "qklPDQ": {
+        "en-US": "Become independent later.",
+        "pt-BR": "Conquistar a independência depois.",
+        "es-ES": "Me haré independiente más tarde."
+    },
+    "q0lPDQ": {
+        "en-US": "[Yana]\nI'll warp you to Prontera so you can become independent right away.",
+        "pt-BR": "[Jana]\nVou enviar você para Prontera para que possa se tornar independente agora mesmo.",
+        "es-ES": "[Yana]\nTe enviaré a Prontera para que puedas independizarte enseguida."
+    },
+    "rElPDQ": {
+        "en-US": "[Yana]\nThey say you can't become a Night Watch unless you grow.\nIliya and I will grow up fast too. We'll be eligible soon.",
+        "pt-BR": "[Jana]\nDizem que, se não crescer, não poderá se tornar um Guerrilheiro.\nEu e Ilya também vamos crescer rapidinho. Logo teremos as qualificações necessárias.",
+        "es-ES": "[Yana]\nDicen que, si no creces, no puedes convertirte en Guerrillero.\nIlya y yo también creceremos rápido, así que pronto cumpliremos los requisitos."
+    },
+    "rUlPDQ": {
+        "en-US": "[Yana]\nAh, {0} {1}.\nLet's see, I think you were on the list.",
+        "pt-BR": "[Jana]\nAh, {0}...\nDeixe-me ver, acho que você estava na lista.",
+        "es-ES": "[Yana]\nAh, {0} {1}.\nA ver, creo que estabas en la lista."
+    },
+    "rklPDQ": {
+        "en-US": "[Yana]\nAh, found it. {0} {1}...\nCombat proficiency... Top group. Job proficiency, top group as well.",
+        "pt-BR": "[Jana]\nAh, achei. {0}...\nProficiência em combate... grupo de excelência.\nE proficiência de classe, também no grupo de excelência.",
+        "es-ES": "[Yana]\nAh, te encontré. {0} {1}...\nCompetencia en combate... grupo de excelencia. Competencia de clase... también grupo de excelencia."
+    },
+    "r0lPDQ": {
+        "en-US": "[Yana]\nYou're more than qualified to take the Night Watch selection test.\nWhat do you think, {0}! Interested?",
+        "pt-BR": "[Jana]\nVocê tem qualificação suficiente para prestar o teste de seleção de Guerrilheiro.\nE aí, Parça?! Tem interesse?",
+        "es-ES": "[Yana]\nTienes requisitos de sobra para presentarte a la prueba de selección de Guerrillero.\n¿Qué te parece, {0}? ¿Te interesa?"
+    },
+    "sElPDQ": {
+        "en-US": "What is that?",
+        "pt-BR": "O que é isso?",
+        "es-ES": "¿Qué es eso?"
+    },
+    "sUlPDQ": {
+        "en-US": "I don't know what it is, but I'm not interested.",
+        "pt-BR": "Não tenho interesse, seja lá o que for.",
+        "es-ES": "No me interesa, sea lo que sea."
+    },
+    "sklPDQ": {
+        "en-US": "[Yana]\nI see... I can't force you.\nYou aren't even asking what it is. Then that's fine.",
+        "pt-BR": "[Jana]\nEntendo... Não posso obrigar você.\nNem sequer pergunta o que é. Então tudo bem.",
+        "es-ES": "[Yana]\nYa veo... No te puedo obligar.\nNi siquiera estás preguntando qué es. Entonces lo dejamos así."
+    },
+    "s0lPDQ": {
+        "en-US": "[Yana]\nNight Watch... Watchers. Those who do not close their eyes even at night.\nLately, {0}, haven't you been feeling your limits as a Rebellion?",
+        "pt-BR": "[Jana]\nGuerrilheiros... vigilantes. Aqueles que não fecham os olhos nem à noite.\nE aí, Parça, você não tem sentido seus limites como Insurgente ultimamente?",
+        "es-ES": "[Yana]\nGuerri... Guerilleros: ni siquiera de noche cierran sus ojos. \nÚltimamente, {0}, ¿no has sentido tus límites como Rebelde?"
+    },
+    "tElPDQ": {
+        "en-US": "[Yana]\nFor you, {0}, this will be a chance to grow.\nOf course, only if you can fulfill the responsibilities and duties that come with it...",
+        "pt-BR": "[Jana]\nSerá uma oportunidade de crescimento para você, Parça.\nClaro, se for capaz de cumprir as responsabilidades e deveres correspondentes...",
+        "es-ES": "[Yana]\nPara alguien como tú, {0}, esto será una oportunidad para crecer.\nSiempre que puedas cumplir con las responsabilidades y obligaciones que conlleva... claro."
+    },
+    "tUlPDQ": {
+        "en-US": "Explain it in detail.",
+        "pt-BR": "Explique em detalhes.",
+        "es-ES": "Explícamelo con más detalle."
+    },
+    "tklPDQ": {
+        "en-US": "[Yana]\nAs the name suggests, the Rebellion banded together crying revolution. Against corporations and governments.\nBut now, we need to take a new stance. The world has changed.",
+        "pt-BR": "[Jana]\nOs Insurgente, como o próprio nome diz, uniram-se clamando por revolução. Contra as empresas e o governo.\nMas agora surgiu a necessidade de adotar uma nova postura. O mundo mudou.",
+        "es-ES": "[Yana]\nLos Rebeldes, tal como indica su nombre, se formaron como grupo para exigir la revolución. Contra las corporaciones y el gobierno. Pero ahora es necesario adoptar una nueva postura. Porque el mundo ha cambiado."
+    },
+    "t0lPDQ": {
+        "en-US": "[Yana]\nThose who become the eyes of the people and watch over corporations and governments.\nThat is the Night Watch.",
+        "pt-BR": "[Jana]\nAqueles que se tornam os olhos do povo e vigiam as empresas e o governo.\nEsses são os Guerrilheiros.",
+        "es-ES": "[Yana]\nConvertirse en los ojos del pueblo y vigilar a las corporaciones y al gobierno. Eso es ser Guerrillero."
+    },
+    "uElPDQ": {
+        "en-US": "[Yana]\nOf course, you will be taught new tactics and skills worthy of the name Night Watch.\nYou will be able to grow one step further.",
+        "pt-BR": "[Jana]\nClaro, você vai aprender novas táticas e técnicas dignas dos Guerrilheiros.\nVocê poderá subir mais um nível.",
+        "es-ES": "[Yana]\nPor supuesto, te transmitirán nuevas tácticas y técnicas dignas del nombre de Guerillero.\nPodrás crecer un paso más."
+    },
+    "uUlPDQ": {
+        "en-US": "[Yana]\nThat should be enough information, right?\nWhat do you think? Will you participate in the selection test?",
+        "pt-BR": "[Jana]\nAgora já forneci informações suficientes, certo?\nE então, quer participar do teste de seleção?",
+        "es-ES": "[Yana]\nYa es suficiente información, ¿no cierto?\n¿Qué te parece? ¿Vas a participar en la prueba de selección?"
+    },
+    "uklPDQ": {
+        "en-US": "I will participate.",
+        "pt-BR": "Vou participar.",
+        "es-ES": "Voy a participar."
+    },
+    "u0lPDQ": {
+        "en-US": "I will not participate.",
+        "pt-BR": "Não vou participar.",
+        "es-ES": "No voy a participar."
+    },
+    "vElPDQ": {
+        "en-US": "[Yana]\nWell, that is your choice too, {0}. I respect it.\nI'll report it that way to the higher-ups.",
+        "pt-BR": "[Jana]\nBem, isso também é escolha sua, Parça. Eu respeito.\nVou transmitir isso aos superiores.",
+        "es-ES": "[Yana]\nBueno, esa también es tu elección, {0}. Y yo la respeto.\nSe lo comunicaré a quienes están a cargo."
+    },
+    "vUlPDQ": {
+        "en-US": "[Yana]\nI'm a little jealous... It's a test I can't take even if I want to.",
+        "pt-BR": "[Jana]\nFico com um pouco de inveja... É um teste do qual eu não posso participar, mesmo querendo.",
+        "es-ES": "[Yana]\nMe da un poco de envidia... Es una prueba a la que yo no puedo presentarme aunque quisiera."
+    },
+    "vklPDQ": {
+        "en-US": "[Yana]\nWhew, it's hard to turn down an opportunity like this.\nI'm a little jealous. It's a test I can't take even if I want to.",
+        "pt-BR": "[Jana]\nUfa, é difícil recusar uma oportunidade dessas.\nFico com um pouco de inveja. É um teste do qual eu não posso participar, mesmo querendo.",
+        "es-ES": "[Yana]\nUf, es difícil rechazar una oportunidad así.\nMe da un poco de envidia. Es una prueba a la que yo no puedo presentarme aunque quiera."
+    },
+    "v0lPDQ": {
+        "en-US": "[Yana]\n<NAVI>[Iliya]<INFO>einbroch,315,322,0,101,0</INFO></NAVI> will guide you through the test.",
+        "pt-BR": "[Jana]\n<NAVI>[Ilya]<INFO>einbroch,315,322,0,101,0</INFO></NAVI> dará as instruções sobre o teste.",
+        "es-ES": "[Yana]\n<NAVI>[Ilya]<INFO>einbroch,315,322,0,101,0</INFO></NAVI> te dará las indicaciones sobre la prueba."
+    },
+    "wElPDQ": {
+        "en-US": "[Yana]\nIliya will guide you through the test.\nAsk <NAVI>[Iliya]<INFO>einbroch,315,322,0,101,0</INFO></NAVI>.",
+        "pt-BR": "[Jana]\nIlya dará as instruções sobre o teste.\nPergunte a <NAVI>[Ilya]<INFO>einbroch,315,322,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Yana]\nIlya te dará las indicaciones sobre la prueba.\nPregúntale a <NAVI>[Ilya]<INFO>einbroch,315,322,0,101,0</INFO></NAVI>."
+    },
+    "wUlPDQ": {
+        "en-US": "[Yana]\nIliya told you to go to Clana Nemieri if you want to take the test, didn't she?",
+        "pt-BR": "[Jana]\nIlya disse que, se for prestar o teste, você deve ir a Clana Nemieri, não foi?",
+        "es-ES": "[Yana]\nIlya te dijo que fueras a hablar con Clana Nemieri si querías hacer la prueba, ¿verdad?"
+    },
+    "wklPDQ": {
+        "en-US": "[Yana]\nDid you come for a drink?\nEnjoy yourself.",
+        "pt-BR": "[Jana]\nVeio tomar uma bebida?\nRelaxe.",
+        "es-ES": "[Yana]\n¿Has venido a tomar una copa?\nDisfrútalo."
+    },
+    "w0lPDQ": {
+        "en-US": "Iliya",
+        "pt-BR": "Ilya",
+        "es-ES": "Ilya"
+    },
+    "xElPDQ": {
+        "en-US": "[Iliya]\nWhat brings you to the Bullet-Riding Kitty?\nYana and I are not here to drink! We're minors!",
+        "pt-BR": "[Ilya]\nO que te traz ao Gato da Bala?\nEu e Jana não viemos beber! Somos menores de idade!",
+        "es-ES": "[Ilya]\n¿Qué les trae al Maullido de Bala?\n¡Yana y yo no hemos venido a beber! ¡Somos menores de edad!"
+    },
+    "xUlPDQ": {
+        "en-US": "[Iliya]\nHuh? {0}... Were you on the list?",
+        "pt-BR": "[Ilya]\nHã? {0}... Será que estava na lista?",
+        "es-ES": "[Ilya]\n¿Eh? {0}... ¿Estabas en la lista?"
+    },
+    "xklPDQ": {
+        "en-US": "[Iliya]\nAh, no. Never mind.\nPlease keep working hard and come back when you feel there is nowhere higher to climb as a Rebellion.",
+        "pt-BR": "[Ilya]\nAh, não estava. Não se preocupe.\nPoderia voltar quando sentir que se esforçou o suficiente e não há mais como crescer como Insurgente?",
+        "es-ES": "[Ilya]\nAh, no. No te preocupes.\nPor favor, sigue trabajando mucho y vuelve cuando cuando sientas que ya no tienes nada más que lograr como Rebelde."
+    },
+    "x0lPDQ": {
+        "en-US": "[Iliya]\nAh, {0}. I think I saw your name on the list.\nCould you go see the lovely Yana?",
+        "pt-BR": "[Ilya]\nAh, {0}. Acho que vi seu nome na lista.\nPoderia falar com a adorável Jana?",
+        "es-ES": "[Ilya]\nAh, {0}. Creo que vi tu nombre en la lista.\n¿Podrías ir a ver a la adorable Yana?"
+    },
+    "yElPDQ": {
+        "en-US": "[Iliya]\nI will continue guiding you. Please pay attention to what I say.",
+        "pt-BR": "[Ilya]\nEu terminarei de orientar você. Por favor, preste atenção ao que vou dizer.",
+        "es-ES": "[Ilya]\nYo me encargaré de seguir guiándote. Por favor, presta atención a lo que te digo."
+    },
+    "yUlPDQ": {
+        "en-US": "[Iliya]\nOur clever Yana has already told you about the duties and work of the Night Watch.\nI will tell you about the strengths of the Night Watch.",
+        "pt-BR": "[Ilya]\nVocê já ouviu da nossa inteligente Jana sobre os deveres e tarefas de um Guerrilheiro.\nEu falarei sobre os pontos fortes de um Guerrilheiro.",
+        "es-ES": "[Ilya]\nSeguramente nuestra inteligente Yana ya te habrá comentado los deberes y obligaciones de un Guerrillero.\nYo te hablaré sobre las fortalezas de un Guerrillero."
+    },
+    "yklPDQ": {
+        "en-US": "[Iliya]\nA Rebellion selected as a Night Watch can learn new tactics and skills to break through their limits.",
+        "pt-BR": "[Ilya]\nUm Insurgente selecionado como Guerrilheiro pode aprender novas táticas e técnicas para superar seus próprios limites.",
+        "es-ES": "[Ilya]\nUn Rebelde seleccionado como Guerrillero puede aprender nuevas tácticas y técnicas para romper sus límites."
+    },
+    "y0lPDQ": {
+        "en-US": "[Iliya]\nDepending on the firearm equipped, you will be able to attack in new ways or fire various grenades.",
+        "pt-BR": "[Ilya]\nDependendo da arma de fogo equipada, também poderá atacar de novas formas ou disparar diversos tipos de granadas.",
+        "es-ES": "[Ilya]\nSegún el arma de fuego equipada, podrás atacar de nuevas formas o disparar varios tipos de granadas."
+    },
+    "zElPDQ": {
+        "en-US": "[Iliya]\nPowerful combo skills that can be performed using firearms will also be a major strength.",
+        "pt-BR": "[Ilya]\nAs poderosas combinações de habilidades que podem ser executadas usando armas de fogo também serão uma grande vantagem.",
+        "es-ES": "[Ilya]\nTambién serán una gran fortaleza las poderosas habilidades combinadas que pueden ejecutarse usando armas de fuego."
+    },
+    "zUlPDQ": {
+        "en-US": "[Iliya]\nIf you want to take the test, please go to Clana Nemieri.\nWe have already contacted them, so if you speak with <NAVI>[Captain Volkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> near the entrance, you should be able to take the test.",
+        "pt-BR": "[Ilya]\nSe for prestar o teste, vá a Clana Nemieri.\nJá entrei em contato, então, se falar com a <NAVI>[Capitã Bolkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> perto da entrada, poderá prestar o teste.",
+        "es-ES": "[Ilya]\nSi deseas hacer la prueba, por favor ve a Clana Nemieri.\nYa hemos enviado el aviso, así que, si hablas con <NAVI>[la capitana Bolkova]<INFO>einbech,237,79,0,101,0</INFO></NAVI> cerca de la entrada, deberías poder realizar la prueba."
+    },
+    "zklPDQ": {
+        "en-US": "[Iliya]\nWhat brings you to the Bullet-Riding Kitty?\nWe are not here to drink! Yana and I are still minors!",
+        "pt-BR": "[Ilya]\nO que te traz ao Gato da Bala?\nNós não viemos beber! Eu e Jana ainda somos menores de idade!",
+        "es-ES": "[Ilya]\n¿Qué les trae al Maullido de Bala?\n¡Yana y yo no hemos venido a beber! ¡Somos menores de edad!"
+    },
+    "z0lPDQ": {
+        "en-US": "Elena Volkova",
+        "pt-BR": "Elena Bolkova",
+        "es-ES": "Elena Bolkova"
+    },
+    "0ElPDQ": {
+        "en-US": "[Elena Volkova]\nHaha, did you come because you have business inside? Hardworking, aren't you?",
+        "pt-BR": "[Elena Bolkova]\nHaha, veio resolver algo lá dentro? Que dedicação.",
+        "es-ES": "[Elena Bolkova]\nJa, ja. ¿Has venido porque tienes asuntos aquí dentro? ¡Qué manera de trabajar!"
+    },
+    "0UlPDQ": {
+        "en-US": "[Elena Volkova]\nFeels like it's been a while. Have you been busy?\nI heard you decided to take the Night Watch selection test. Good decision.",
+        "pt-BR": "[Elena Bolkova]\nParece que faz tempo que não nos vemos. Trabalhando muito?\nSoube que decidiu prestar o teste de seleção de Guerrilheiro. Boa decisão.",
+        "es-ES": "[Elena Bolkova]\nCreo que hace mucho tiempo que no te veía. ¿Has estado con mucho trabajo?\nMe han dicho que decidiste presentarte a la prueba de selección de Guerrillero. Buena decisión."
+    },
+    "0klPDQ": {
+        "en-US": "[Elena Volkova]\nThen I'll guide you to the test site. You can hear the details from a senior inside.\nSo, are you ready?",
+        "pt-BR": "[Elena Bolkova]\nEntão vou guiar você até o local do teste. Ouça os detalhes diretamente do veterano lá dentro.\nE aí, está pronto?",
+        "es-ES": "[Elena Bolkova]\nAsí que yo te guiaré hasta el campo de pruebas. Escucha los detalles directamente de tu superior dentro.\n¿Entonces, vamos?"
+    },
+    "00lPDQ": {
+        "en-US": "Preparations are complete.",
+        "pt-BR": "Tudo pronto.",
+        "es-ES": "Ya me he preparado."
+    },
+    "1ElPDQ": {
+        "en-US": "I still need to prepare.",
+        "pt-BR": "Ainda preciso me preparar.",
+        "es-ES": "Todavía necesito prepararme."
+    },
+    "1UlPDQ": {
+        "en-US": "[Elena Volkova]\nGood. Then speak to <NAVI>[me]<INFO>einbech,237,79,0,101,0</INFO></NAVI> again and apply to enter the Night Watch job change test site.",
+        "pt-BR": "[Elena Bolkova]\nCerto, então fale <NAVI>[comigo]<INFO>einbech,237,79,0,101,0</INFO></NAVI> novamente e solicite a entrada no campo de provas para a mudança de classe para Guerrilheiro.",
+        "es-ES": "[Elena Bolkova]\nBien, entonces vuelve a hablar <NAVI>[conmigo]<INFO>einbech,237,79,0,101,0</INFO></NAVI> y solicita la entrada al campo de pruebas de cambio de clase a Guerrillero."
+    },
+    "1klPDQ": {
+        "en-US": "[Elena Volkova]\nIt's an important test, so I can wait as long as you need.\nCome back fully prepared and in a one-person party.",
+        "pt-BR": "[Elena Bolkova]\nÉ um teste importante, então posso esperar o quanto for necessário.\nVolte totalmente preparado e em um grupo de 1 pessoa.",
+        "es-ES": "[Elena Bolkova]\nEs una prueba importante, así que puedo esperar todo lo que necesites.\nVuelve cuando tu preparación esté completa, formando un grupo de una sola persona."
+    },
+    "10lPDQ": {
+        "en-US": "Apply to Enter the Night Watch Job Change Test Site",
+        "pt-BR": "Solicitar entrada no campo de provas para a mudança de classe para Guerrilheiro",
+        "es-ES": "Solicitud de entrada al campo de pruebas de cambio de clase a Guerrillero"
+    },
+    "2ElPDQ": {
+        "en-US": "Enter the Night Watch Job Change Test Site",
+        "pt-BR": "Entrar no campo de provas para a mudança de classe para Guerrilheiro",
+        "es-ES": "Entrada al campo de pruebas de cambio de clase a Guerrillero"
+    },
+    "2UlPDQ": {
+        "en-US": "Night Watch Job Change Test Site",
+        "pt-BR": "Campo de provas para a mudança de classe para Guerrilheiro",
+        "es-ES": "Campo de pruebas de cambio de clase a Guerrillero"
+    },
+    "2klPDQ": {
+        "en-US": "^0000FFThe job change test can only be taken in a one-person party.^000000",
+        "pt-BR": "^0000FFO teste de mudança de classe só pode ser realizado em um grupo de 1 pessoa.^000000",
+        "es-ES": "^0000FFLa prueba de cambio de clase solo puede realizarse en un grupo de una sola persona.^000000"
+    },
+    "20lPDQ": {
+        "en-US": "[Elena Volkova]\nOnly the leader of a one-person party can apply for entry.\nI told you to form a party, didn't I?",
+        "pt-BR": "[Elena Bolkova]\nApenas o líder de um grupo de 1 pessoa pode solicitar a entrada.\nEu disse para formar um grupo antes de vir, não disse?",
+        "es-ES": "[Elena Bolkova]\nSolo puedes solicitar la entrada si eres líder de un grupo de una sola persona. Te dije que vinieras con un grupo formado, ¿verdad?"
+    },
+    "3ElPDQ": {
+        "en-US": "[Elena Volkova]\nApplication failed. Try again in a moment.",
+        "pt-BR": "[Elena Bolkova]\nFalha na solicitação. Tente novamente daqui a pouco.",
+        "es-ES": "[Elena Bolkova]\nError de solicitud. Inténtalo de nuevo dentro de un momento."
+    },
+    "3UlPDQ": {
+        "en-US": "[Elena Volkova]\nGood. Once the test site is ready, select 'Enter the Night Watch Job Change Test Site' to enter.",
+        "pt-BR": "[Elena Bolkova]\nCerto, quando o campo de provas estiver pronto, selecione 'Entrar no campo de provas para a mudança de classe para Guerrilheiro' para entrar.",
+        "es-ES": "[Elena Bolkova]\nBien, cuando el campo de pruebas esté listo, selecciona \"Entrada al campo de pruebas de cambio de clase a Guerrillero\" para entrar."
+    },
+    "3klPDQ": {
+        "en-US": "Rebellion {0} is entering {1}.",
+        "pt-BR": "[Elena Bolkova] Apenas o líder de um grupo de 1 pessoa pode entrar. Eu disse para formar um grupo antes de vir, não disse?",
+        "es-ES": "[Elena Bolkova] Solo puedes solicitar la entrada si eres líder de un grupo de una sola persona. Te dije que vinieras con un grupo formado, ¿verdad?"
+    },
+    "30lPDQ": {
+        "en-US": "Rebellion {0} is entering {1}.",
+        "pt-BR": "Insurgente {0} entrará em {1}.",
+        "es-ES": "Rebelde {0} entra en {1}."
+    },
+    "4ElPDQ": {
+        "en-US": "[Elena Volkova]\nThe party leader didn't create the Memorial Dungeon, did they? Let's check again.",
+        "pt-BR": "[Elena Bolkova]\nO líder do grupo não criou a Instância? Vamos conferir mais uma vez.",
+        "es-ES": "[Elena Bolkova]\n¿El líder del grupo no ha creado la instancia? Vamos a comprobarlo otra vez."
+    },
+    "4UlPDQ": {
+        "en-US": "[Elena Volkova]\nThe Memorial Dungeon wasn't created, was it? Let's check again.",
+        "pt-BR": "[Elena Bolkova]\nA Instância não foi criada? Vamos conferir mais uma vez.",
+        "es-ES": "[Elena Bolkova]\n¿No se ha creado la instancia? Vamos a comprobarlo otra vez."
+    },
+    "4klPDQ": {
+        "en-US": "[Elena Volkova]\nI'm not sure what happened. Let's check again.",
+        "pt-BR": "[Elena Bolkova]\nNão sei o que aconteceu. Vamos conferir mais uma vez.",
+        "es-ES": "[Elena Bolkova]\nNo sé qué ha pasado. Vamos a comprobarlo otra vez."
+    },
+    "40lPDQ": {
+        "en-US": "[Elena Volkova]\nThis is an exceptional situation. Let's check again.",
+        "pt-BR": "[Elena Bolkova]\nÉ uma situação excepcional. Vamos conferir mais uma vez.",
+        "es-ES": "[Elena Bolkova]\nEs una situación excepcional. Vamos a comprobarlo otra vez."
+    },
+    "5ElPDQ": {
+        "en-US": "[Elena Volkova]\nHere, over here.",
+        "pt-BR": "[Elena Bolkova]\nÉ aqui, aqui.",
+        "es-ES": "[Elena Bolkova]\nAquí, aquí."
+    },
+    "5UlPDQ": {
+        "en-US": "[Elena Volkova]\nI watched from the side too, and it was an excellent test.\nGerhold acted like he wasn't impressed, but he was secretly admiring you from the side. Haha, how cute!",
+        "pt-BR": "[Elena Bolkova]\nEu também vi de perto, e foi um teste excelente.\nGerhold fingiu que não, mas ficou discretamente impressionado ao lado. Haha, que fofo!",
+        "es-ES": "[Elena Bolkova]\nYo también lo vi desde afuera, y ha sido una prueba excelente.\nGerhart se hacía el que no estaba impresionado, pero estaba admirándote en secreto. Ja, ja, ¡qué ternura!"
+    },
+    "5klPDQ": {
+        "en-US": "[Gerhold]\nCute? In any case, it is true that I was impressed.\nYou showed more than enough qualities and skill to change jobs to Night Watch.",
+        "pt-BR": "[Gerhold]\nFofo, é? De qualquer forma, é verdade que fiquei impressionado.\nVocê demonstrou qualidades e habilidade suficientes para mudar de classe para Guerrilheiro.",
+        "es-ES": "[Gerhart]\n¿Ternura? Como sea, es cierto que me ha impresionado.\nHas demostrado cualidades y habilidad más que suficientes para cambiar de clase a Guerrillero."
+    },
+    "50lPDQ": {
+        "en-US": "[Gerhold]\nThere should be no problem with you operating as a Night Watch, so I will promote you to Night Watch.\nI hope you will continue to remember your duties and responsibilities as a watcher who protects freedom.",
+        "pt-BR": "[Gerhold]\nNão vejo problemas em você atuar como Guerrilheiro, vou lhe promover a Guerrilheiro.\nEspero que, de agora em diante, você não se esqueça das suas missões e responsabilidades como vigilante que protege a liberdade.",
+        "es-ES": "[Gerhart]\nNo debería haber ningún problema con que te desempeñes como Guerrillero, así que te ascenderé a Guerrillero.\nEspero que, de ahora en adelante, no olvides tus deberes y responsabilidades como guerrero que protege la libertad."
+    },
+    "6ElPDQ": {
+        "en-US": "[Gerhold]\nOh, a Rebellion who has not yet reached their limit. You can grow when you run up against that limit.",
+        "pt-BR": "[Gerhold]\nOra, ainda é apenas Insurgente e não alcançou seu potencial. Você poderá crescer quando se deparar com seus limites.",
+        "es-ES": "[Gerhart]\nVaya, todavía eres un Rebelde que no ha alcanzado su límite. Solo podrás crecer cuando rompas ese límite."
+    },
+    "6UlPDQ": {
+        "en-US": "[Gerhold]\nYour bag is full. Keep both your body and mind in order at all times.",
+        "pt-BR": "[Gerhold]\nSua bolsa está cheia. Mantenha sempre o corpo e a mente em ordem.",
+        "es-ES": "[Gerhart]\nTienes mucho de que ocuparte. Procura mantener siempre ordenados el cuerpo y la mente."
+    },
+    "6klPDQ": {
+        "en-US": "[Gerhold]\nYou have remaining Skill Points. If there is any training you have yet to complete as a Rebellion, complete it all and return.",
+        "pt-BR": "[Gerhold]\nVocê ainda possui pontos de habilidade. Se houver treinamento que ainda não concluiu como Insurgente, conclua tudo e volte.",
+        "es-ES": "[Gerhart]\nTe quedan puntos de habilidad. Si aún tienes entrenamiento pendiente como Rebelde, complétalo todo y vuelve."
+    },
+    "60lPDQ": {
+        "en-US": "[Gerhold]\nGet off your mount. Before changing jobs, you are not yet a Night Watch.",
+        "pt-BR": "[Gerhold]\nDesça da montaria. Antes da mudança de classe, você ainda não é um Guerrilheiro.",
+        "es-ES": "[Gerhart]\nDesmonta. Antes del cambio de clase, todavía no eres Guerrillero."
+    },
+    "7ElPDQ": {
+        "en-US": "Gerhold]\nIt seems all preparations are complete.\nThen shall I grant you the qualification of Night Watch?",
+        "pt-BR": "[Gerhold]\nParece que todos os preparativos foram feitos corretamente.\nEntão, devo conceder a você a qualificação de Guerrilheiro?",
+        "es-ES": "Gerhart]\nParece que está todo preparado. Entonces, ¿te concedemos la cualificación de Guerrillero?"
+    },
+    "7UlPDQ": {
+        "en-US": "[Gerhold]\nFrom now on and into the future, I hope you will act in a way that does not shame the name Night Watch.",
+        "pt-BR": "[Gerhold]\nEspero que, de agora em diante, atue sem envergonhar o título de Guerrilheiro.",
+        "es-ES": "[Gerhart]\nDe aquí en más y en miras al futuro, espero que actúes siempre de forma digna como Guerrillero."
+    },
+    "7klPDQ": {
+        "en-US": "[Gerhold]\nWell then, you must be itching to try it, right? To test the limits you have surpassed?\nGo on, then. Run wild to your heart's content. Now, go.",
+        "pt-BR": "[Gerhold]\nEntão, você deve estar com muita ansiedade, não é? Para testar os limites que superou?\nVá logo. Cause todo o alvoroço que quiser. Manda bala!",
+        "es-ES": "[Gerhart]\nEntonces, seguro que estás impaciente, ¿verdad? ¿Con ganas de poner a prueba el límite que has superado? Bueno, puedes ir. Disruta de hacer lo que tengas ganas. Vamos, ve."
+    },
+    "70lPDQ": {
+        "en-US": "[Elena Volkova]\nGood work. Keep up the good work.",
+        "pt-BR": "[Elena Bolkova]\nBom trabalho. Continue se esforçando.",
+        "es-ES": "[Elena Bolkova]\nBuen trabajo. Sigue esforzándote."
+    },
+    "8ElPDQ": {
+        "en-US": "Gerhold",
+        "pt-BR": "Gerhold",
+        "es-ES": "Gerhart"
+    },
+    "8UlPDQ": {
+        "en-US": "[Gerhold]\nWell then, you must be itching to try it, right? To test the limits you have surpassed?\nGo on, then. Run wild to your heart's content.",
+        "pt-BR": "[Gerhold]\nEntão, você deve estar com muita ansiedade, não é? Para testar os limites que superou?\nVá logo. Cause todo o alvoroço que quiser. Manda bala!",
+        "es-ES": "[Gerhart]\nEntonces, seguro que estás impaciente, ¿verdad? ¿Con ganas de poner a prueba el límite que has superado? Bueno, puedes ir. Disruta de hacer lo que tengas ganas. Vamos, ve."
+    },
+    "8klPDQ": {
+        "en-US": "Gerhold : I have no business with you.",
+        "pt-BR": "Gerhold : Não há nada a tratar.",
+        "es-ES": "Gerhart: No tengo nada que tratar contigo."
+    },
+    "80lPDQ": {
+        "en-US": "[Elena Volkova] Only the leader of a one-person party can enter. I told you to form a party, didn't I?",
+        "pt-BR": "[Elena Bolkova] Apenas o líder de uma party de 1 pessoa pode entrar. Eu disse para formar uma party antes de vir, não disse?",
+        "es-ES": "[Elena Volkova] Solo el líder de un grupo de una sola persona puede entrar. Te dije que vinieras con un grupo formado, ¿verdad?"
+    }
+}

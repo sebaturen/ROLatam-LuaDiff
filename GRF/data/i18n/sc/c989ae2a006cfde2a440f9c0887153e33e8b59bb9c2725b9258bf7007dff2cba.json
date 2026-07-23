@@ -52,7 +52,7 @@
     "So5/Bw": {
         "en-US": "Oh, no. I...",
         "pt-BR": "Não, acho que não, eu só vim aqui para...",
-        "es-ES": "Oh, no. Yo…"
+        "es-ES": "Oh, no. Yo..."
     },
     "S45/Bw": {
         "en-US": "[Guard Captain Spiegel]\nYou're an adventure, and you've been invited to the Royal Banquet.",
@@ -177,7 +177,7 @@
     "Y45/Bw": {
         "en-US": "[Young Man]\nAww... You're not an undead, are you?",
         "pt-BR": "[Cidadão]\nVocê não é um morto-vivo... É??",
-        "es-ES": "[Hombre Joven]\nAy… No eres un muerto viviente, ¿verdad?"
+        "es-ES": "[Hombre Joven]\nAy... No eres un muerto viviente, ¿verdad?"
     },
     "ZI5/Bw": {
         "en-US": "[Young Man]\nWhew! Thank the gods!",
@@ -257,7 +257,7 @@
     "c45/Bw": {
         "en-US": "[Young Man]\nIt's one of the most popular buildings around here, and one day, it'll be my--",
         "pt-BR": "[Cidadão]\nÉ um lugar bem famoso em Prontera. Algum dia eu vou para lá, e...",
-        "es-ES": "[Hombre Joven]\nEs uno de los edificios más famosos de estos lares, y algún día será mi…"
+        "es-ES": "[Hombre Joven]\nEs uno de los edificios más famosos de estos lares, y algún día será mi..."
     },
     "dI5/Bw": {
         "en-US": "[Young Man]\nOops! Never mind. Thank you.",
@@ -322,7 +322,7 @@
     "gI5/Bw": {
         "en-US": "[Rowen]\nRosa... *Sniffle!* I lost my sister... We were going to the Sanctuary to hide... Boohoo!",
         "pt-BR": "[Lowen]\nEu estava fugindo com a minha irmã, Rosa, e nós acabamos nos separando...",
-        "es-ES": "[Rowen]\nRosa… *Solloza* No encuentro a mi hermana… Íbamos al Santuario a escondernos… ¡Bú!"
+        "es-ES": "[Rowen]\nRosa... *Solloza* No encuentro a mi hermana... Íbamos al Santuario a escondernos... ¡Bú!"
     },
     "gY5/Bw": {
         "en-US": "[Rowen]\nFoolish Rosa. She should have held onto my hand like I asked her to.",
@@ -437,7 +437,7 @@
     "l45/Bw": {
         "en-US": "[Peco Peco Manager]\nErr... She called me Peco uncle...",
         "pt-BR": "[Domador de PecoPeco]\nQue miséria...",
-        "es-ES": "[Domador de Peco Peco]\nEh… Me llamaba tío Peco…"
+        "es-ES": "[Domador de Peco Peco]\nEh... Me llamaba tío Peco..."
     },
     "mI5/Bw": {
         "en-US": "[Peco Peco Manager]\nIf you came to rent a Peco Peco, I'm sorry.",
@@ -472,12 +472,12 @@
     "no5/Bw": {
         "en-US": "[Rowen]\nErr... Peco uncle, haven't you seen my sister?",
         "pt-BR": "[Lowen]\nOh, Tio Peco, você viu minha irmã?",
-        "es-ES": "[Rowen]\nEh… Tío Peco, ¿no has visto a mi hermana?"
+        "es-ES": "[Rowen]\nEh... Tío Peco, ¿no has visto a mi hermana?"
     },
     "n45/Bw": {
         "en-US": "[Peco Peco Manager]\n*Cough!* P-Peco uncle...",
         "pt-BR": "[Domador de PecoPeco]\n*Tossindo*",
-        "es-ES": "[Domador de Peco Peco]\n*Tose* Tío Peco…"
+        "es-ES": "[Domador de Peco Peco]\n*Tose* Tío Peco..."
     },
     "oI5/Bw": {
         "en-US": "[Peco Peco Manager]\nYour sister? You mean, Rosa? No, I haven't seen her around here. Shouldn't you come with her?",
@@ -487,7 +487,7 @@
     "oY5/Bw": {
         "en-US": "[Rowen]\nHnngg... Rosa... Where are you?",
         "pt-BR": "[Lowen]\nAww... Rosa, onde você está?",
-        "es-ES": "[Rowen]\nMmm… Rosa… ¿Dónde estás?"
+        "es-ES": "[Rowen]\nMmm... Rosa... ¿Dónde estás?"
     },
     "oo5/Bw": {
         "en-US": "[Peco Peco Manager]\nMaybe she's in the Knightage. That's where you sisters should go in case of emergency, isn't it?",
@@ -867,12 +867,12 @@
     "7Y5/Bw": {
         "en-US": "[Erros]\n*Sniffle...* Please find my wife...",
         "pt-BR": "[Eryus]\nAwww... Por favor, encontre minha esposa.",
-        "es-ES": "[Erros]\n*Solloza* Por favor, encuentra a mi esposa…"
+        "es-ES": "[Erros]\n*Solloza* Por favor, encuentra a mi esposa..."
     },
     "7o5/Bw": {
         "en-US": "[Erros]\n*Sniffle...* I must find my wife... I'm sorry, but you're not supposed to see me.",
         "pt-BR": "[Eryus]\nVocê consegue me ver? Pois não deveria.",
-        "es-ES": "[Erros]\n*Solloza* Tengo que encontrar a mi esposa… Lo siento, pero no deberías verme."
+        "es-ES": "[Erros]\n*Solloza* Tengo que encontrar a mi esposa... Lo siento, pero no deberías verme."
     },
     "745/Bw": {
         "en-US": "[Erros]\n*Sniffle...* Please find my wife. I'm so worried about her.",
@@ -912,7 +912,7 @@
     "9o5/Bw": {
         "en-US": "[Elly]\nOh... Erros... *Cough, Cough!*",
         "pt-BR": "[Elly]\nOh, Eryus... *Tossindo*",
-        "es-ES": "[Elly]\nOh… Erros… *Tose*"
+        "es-ES": "[Elly]\nOh... Erros... *Tose*"
     },
     "945/Bw": {
         "en-US": "[Erros]\nElly, what's wrong? Oh no, are you having another coughing fit? Your medicine. Where is it?",
@@ -922,7 +922,7 @@
     "+I5/Bw": {
         "en-US": "[Elly]\n*Cough, Cough!* I think I have dropped it somewhere while running... *Cough, Cough!*",
         "pt-BR": "[Elly]\n*Tossindo* Acho que eu o deixei cair na correria...",
-        "es-ES": "[Elly]\n*Tose* Creo que se me cayó mientras corría… *Tose*"
+        "es-ES": "[Elly]\n*Tose* Creo que se me cayó mientras corría... *Tose*"
     },
     "+Y5/Bw": {
         "en-US": "[{0}]\nDo you remember where?",
@@ -932,7 +932,7 @@
     "+o5/Bw": {
         "en-US": "[Elly]\n*Cough, Cough!* I don't know... Maybe I dropped it there, you know... *Cough, Cough!*",
         "pt-BR": "[Elly]\nEu não sei... Pode estar em qualquer lugar...",
-        "es-ES": "[Elly]\n*Tose* No sé… Tal vez se me cayó allí, ya sabes… *Tose*"
+        "es-ES": "[Elly]\n*Tose* No sé... Tal vez se me cayó allí, ya sabes... *Tose*"
     },
     "+45/Bw": {
         "en-US": "[Erros]\nYou mean where you were just before? I'll go grab it. You stay here.",
@@ -1042,12 +1042,12 @@
     "EI9/Bw": {
         "en-US": "Urrgghh...",
         "pt-BR": "...",
-        "es-ES": "Aaaah…"
+        "es-ES": "Aaaah..."
     },
     "EY9/Bw": {
         "en-US": "...?",
         "pt-BR": "?",
-        "es-ES": "¿…?"
+        "es-ES": "¿...?"
     },
     "Eo9/Bw": {
         "en-US": "They're already dead.",
@@ -1057,17 +1057,17 @@
     "E49/Bw": {
         "en-US": "I need to punch out...",
         "pt-BR": "Preciso bater o ponto...",
-        "es-ES": "Tengo que seguir…"
+        "es-ES": "Tengo que seguir..."
     },
     "FI9/Bw": {
         "en-US": "For Himmelmez...",
         "pt-BR": "Himmelmez...",
-        "es-ES": "Por Himmelmez…"
+        "es-ES": "Por Himmelmez..."
     },
     "FY9/Bw": {
         "en-US": "Hungry...",
         "pt-BR": "Com fome...",
-        "es-ES": "Hambre…"
+        "es-ES": "Hambre..."
     },
     "Fo9/Bw": {
         "en-US": "You're the best, WUG-chan!",
@@ -1077,22 +1077,22 @@
     "F49/Bw": {
         "en-US": "My blind date...",
         "pt-BR": "Meu encontro às cegas...",
-        "es-ES": "Mi cita a ciegas…"
+        "es-ES": "Mi cita a ciegas..."
     },
     "GI9/Bw": {
         "en-US": "I was going to go back home after this--khhk!",
         "pt-BR": "Queria voltar para casa depois disso...",
-        "es-ES": "Iba a volver a casa después de esto… ¡Rayos!"
+        "es-ES": "Iba a volver a casa después de esto... ¡Rayos!"
     },
     "GY9/Bw": {
         "en-US": "Don't worry. That dog doesn't look ferocious. Let me check...",
         "pt-BR": "Não se preocupe. Esse cachorro não parece feroz. Deixe-me ver...",
-        "es-ES": "No te preocupes. Ese perro no se ve agresivo. Déjame comprobarlo…"
+        "es-ES": "No te preocupes. Ese perro no se ve agresivo. Déjame comprobarlo..."
     },
     "Go9/Bw": {
         "en-US": "My daughter. She'll be six in two weeks.",
         "pt-BR": "Minha filha. Ela fará seis anos em duas semanas.",
-        "es-ES": "Mi hija… cumplirá seis años en dos semanas."
+        "es-ES": "Mi hija... cumplirá seis años en dos semanas."
     },
     "G49/Bw": {
         "en-US": "I love dogs!",
@@ -1107,7 +1107,7 @@
     "HY9/Bw": {
         "en-US": "My brother gave me this paper crane as a lucky charm...",
         "pt-BR": "Meu irmão me deu este amuleto da sorte...",
-        "es-ES": "Mi hermano me entregó esta grulla de papel para darme suerte…"
+        "es-ES": "Mi hermano me entregó esta grulla de papel para darme suerte..."
     },
     "Ho9/Bw": {
         "en-US": "Hah hah. Stop lying. There's no way this will go off.",
@@ -1122,7 +1122,7 @@
     "II9/Bw": {
         "en-US": "H-help...",
         "pt-BR": "S-socorro...",
-        "es-ES": "A-ayuda…"
+        "es-ES": "A-ayuda..."
     },
     "IY9/Bw": {
         "en-US": "Enjoy your meal.",
@@ -1137,7 +1137,7 @@
     "I49/Bw": {
         "en-US": "[Soldier]\nAww... These undeads...",
         "pt-BR": "[Soldado]\nArgh... Os mortos-vivos...",
-        "es-ES": "[Soldado]\nAy… Estos muertos vivientes…"
+        "es-ES": "[Soldado]\nAy... Estos muertos vivientes..."
     },
     "JI9/Bw": {
         "en-US": "Soldier: Hiyah!",
@@ -1147,7 +1147,7 @@
     "JY9/Bw": {
         "en-US": "[Soldier]\nWe were joking and laughing not long ago...",
         "pt-BR": "[Soldado]\nMeu colega de equipe acabou de... Argh...",
-        "es-ES": "[Soldado]\nHace poco estábamos bromeando y riéndonos…"
+        "es-ES": "[Soldado]\nHace poco estábamos bromeando y riéndonos..."
     },
     "Jo9/Bw": {
         "en-US": "Soldier: Heh heh.",
@@ -1177,7 +1177,7 @@
     "K49/Bw": {
         "en-US": "[Soldier]\nThis place... I'll protect it with my life.",
         "pt-BR": "[Soldado]\nEu... eu vou defender este lugar a qualquer custo.",
-        "es-ES": "[Soldado]\nEste lugar… Lo protegeré con mi vida."
+        "es-ES": "[Soldado]\nEste lugar... Lo protegeré con mi vida."
     },
     "LI9/Bw": {
         "en-US": "Soldier: *Sniffle*",
@@ -1187,7 +1187,7 @@
     "LY9/Bw": {
         "en-US": "[Soldier]\nThey just wouldn't stop coming...",
         "pt-BR": "[Soldado]\nEssa batalha não acaba nunca...",
-        "es-ES": "[Soldado]\nNo paraban de aparecer…"
+        "es-ES": "[Soldado]\nNo paraban de aparecer..."
     },
     "Lo9/Bw": {
         "en-US": "Soldier: Eeeyup!",
@@ -1282,7 +1282,7 @@
     "QI9/Bw": {
         "en-US": "Soldier: Ugh...",
         "pt-BR": "Soldado: Argh...",
-        "es-ES": "Soldado: Uf…"
+        "es-ES": "Soldado: Uf..."
     },
     "QY9/Bw": {
         "en-US": "[Soldier]\nGrr, bring it all!",
@@ -1297,7 +1297,7 @@
     "Q49/Bw": {
         "en-US": "[Soldier]\nGrr... Those dratted undeads... I must...",
         "pt-BR": "[Soldado]\nEsses malditos... Vou acabar com todos eles...",
-        "es-ES": "[Soldado]\nGrrr… Malditos muertos vivientes… Tengo que…"
+        "es-ES": "[Soldado]\nGrrr... Malditos muertos vivientes... Tengo que..."
     },
     "RI9/Bw": {
         "en-US": "Medic",

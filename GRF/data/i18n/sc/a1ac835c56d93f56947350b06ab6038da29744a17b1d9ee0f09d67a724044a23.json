@@ -52,7 +52,7 @@
     "ygGGCA": {
         "en-US": "[Dark magic master]\nIt's my small hobby.. To enchant Socketed Temporal Boots using polluted and coagulated spell.",
         "pt-BR": "[Artesã Sombria]\nNo meu tempo livre, gosto de encantar Botas Temporais com slot... Esse é o meu hobby.",
-        "es-ES": "[Maestro de magia oscura]\nEs mi pequeño pasatiempo… encantar Botas temporales con ranuras mediante el hechizo contaminado y el coagulado."
+        "es-ES": "[Maestro de magia oscura]\nEs mi pequeño pasatiempo... encantar Botas temporales con ranuras mediante el hechizo contaminado y el coagulado."
     },
     "ywGGCA": {
         "en-US": "[Dark magic master]\nOf course, you must cope with bigger risk of fail whenever you'd like to enchant again and again, but your boots will not be destroyed.",
@@ -242,7 +242,7 @@
     "8AGGCA": {
         "en-US": "[Dark magic master]\nThis is not the right item for this enchant. Remember, only those 6 types of Temporal Boots with socket are available for hidden enchanting..",
         "pt-BR": "[Artesã Sombria] \nEste não é o item correto para este encantamento. Lembre-se: apenas aqueles 6 tipos de Botas Temporais com slot estão disponíveis para encantamento..",
-        "es-ES": "[Maestro de magia oscura]\nEste no es el objeto adecuado para este encantamiento. Recuerda que solo esos 6tipos de Botas temporales con ranura están disponibles para el encantamiento oculto…"
+        "es-ES": "[Maestro de magia oscura]\nEste no es el objeto adecuado para este encantamiento. Recuerda que solo esos 6tipos de Botas temporales con ranura están disponibles para el encantamiento oculto..."
     },
     "8QGGCA": {
         "en-US": "[Dark magic master]\nThese boots have already passed the enchanting limit. We can't enchant them any more.",
@@ -252,7 +252,7 @@
     "8gGGCA": {
         "en-US": "[Dark magic master]\nWant to enchant ^0000FF{0}^000000? For the 1st enchanting, you need ^0000FF{1}^000000 Contaminated Magic, {2} Coagulated Spell, and 100,000 zeny.\nIt has some risk of failing..",
         "pt-BR": "[Artesã Sombria]\nVocê deseja encantar a ^0000FF{0}^000000? Para o 1º encantamento, serão necessários ^0000FF{1}^000000x Mana Sombria, {2}x Mana Coagulada e 100.000z.\nE não se esqueça: o 1º encantamento não possui riscos, mas os demais sim... Deseja continuar?",
-        "es-ES": "[Maestro de magia oscura]\n¿Quieres encantar ^0000FF{0}^000000? Para el primerencantamiento, necesitas ^0000FF{1}^000000 Hechizo contaminado, {2} Hechizo coagulado y 100000zeny.\nTiene cierto riesgo de falla…"
+        "es-ES": "[Maestro de magia oscura]\n¿Quieres encantar ^0000FF{0}^000000? Para el primerencantamiento, necesitas ^0000FF{1}^000000 Hechizo contaminado, {2} Hechizo coagulado y 100000zeny.\nTiene cierto riesgo de falla..."
     },
     "8wGGCA": {
         "en-US": "Quit",
@@ -307,12 +307,12 @@
     "/QGGCA": {
         "en-US": "[Dark magic master]\nWould you like a random bonus effect for the 3rd slot? You need ^0000FF{0} Contaminated Magic, {1} Coagulated Spell, and 100,000 zeny.^000000. But it has high risk of failing..",
         "pt-BR": "[Artesã Sombria]\nVocê deseja receber um encantamento aleatório para o 3º slot? Você precisará de ^0000FF{0}x Mana Sombria, {1}x Mana Coagulada e 100.000z.^000000. E o processo tem altas chances de falhar...",
-        "es-ES": "[Maestro de magia oscura]\n¿Quieres un efecto de bonificación aleatorio para la 3ª ranura? Necesitas ^0000FF{0} Hechizo contaminado, {1} Hechizo coagulado y 100000zeny.^000000. Pero tiene un alto riesgo de falla…"
+        "es-ES": "[Maestro de magia oscura]\n¿Quieres un efecto de bonificación aleatorio para la 3ª ranura? Necesitas ^0000FF{0} Hechizo contaminado, {1} Hechizo coagulado y 100000zeny.^000000. Pero tiene un alto riesgo de falla..."
     },
     "/gGGCA": {
         "en-US": "[Dark magic master]\nArrgh... I feel so dizzy just looking at your terrible appearance... Please go away, now!",
         "pt-BR": "[Artesã Sombria]\nArgh... Sinto tonto só de olhar pra sua aparência... Suma da minha frente!",
-        "es-ES": "[Maestro de magia oscura]\nGrrr… Me siento tan mareada sólo de ver tu terrible aspecto... ¡Por favor, vete ya!"
+        "es-ES": "[Maestro de magia oscura]\nGrrr... Me siento tan mareada sólo de ver tu terrible aspecto... ¡Por favor, vete ya!"
     },
     "/wGGCA": {
         "en-US": "[Dark magic master]\nHmm, you are missing {0} Coagulated Spell items. Go get more, and then we can talk about more enchants.",

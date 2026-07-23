@@ -12,7 +12,7 @@
     "IsNsCg": {
         "en-US": "[Harmony]\nHe... Hello...\nI'm new to the office equipment department of the Paradise Group!\nWell, uh...so, uh...\nI manage the inventories of armor and weapon that I used to provide.",
         "pt-BR": "[Harmony]\nO... Olá...\nSou novo no departamento de equipamentos do escritório do Grupo do Paraíso!\nBem, uh... então, uh...\nEu gerencio os estoques de armaduras e armas que eu costumava fornecer.",
-        "es-ES": "[Harmony]\nÉl… Hola…\n¡Es mi primera vez en el departamento de equipamiento de la oficina del Grupo del Edén!\nBueno, eh… así que, eh…\nGestiono los inventarios de las armaduras y las armas que solía proporcionar."
+        "es-ES": "[Harmony]\nÉl... Hola...\n¡Es mi primera vez en el departamento de equipamiento de la oficina del Grupo del Edén!\nBueno, eh... así que, eh...\nGestiono los inventarios de las armaduras y las armas que solía proporcionar."
     },
     "I8NsCg": {
         "en-US": "[Harmony]\nIf those who received one of these wants it, we give it back.\nNot everyone, though. You should be one of those who received the high-grade equipment for finishing every training course.",
@@ -287,6 +287,6 @@
     "WcNsCg": {
         "en-US": "[Harmony]\nI don't think this weapon you have chosen suits your class...\nTell me the weapon in the field of your class.",
         "pt-BR": "[Harmony]\nAcho que essa arma que você escolheu não combina com sua classe...\nDiga-me qual é a arma no campo de sua classe.",
-        "es-ES": "[Harmony]\nNo creo que esta arma que elegiste sea para tu clase…\nDime el arma en el campo de tu clase."
+        "es-ES": "[Harmony]\nNo creo que esta arma que elegiste sea para tu clase...\nDime el arma en el campo de tu clase."
     }
 }

@@ -42,7 +42,7 @@
     "yPybAQ": {
         "en-US": "[Starfish]\nIt seems those limbs belong to that ugly octopus.\nThat monster should be taken care of but I can't do much to help...",
         "pt-BR": "[Estrela do mar]\nParece que esses membros pertencem àquele polvo feio.\nEsse monstro deve ser tratado, mas não posso fazer muito para ajudar...",
-        "es-ES": "[Estrella de mar]\nParece que esos tentáculos le pertenecen a ese Pulpo horroroso.\nHay que ocuparse de ese monstruo, pero no puedo hacer mucho para ayudar…"
+        "es-ES": "[Estrella de mar]\nParece que esos tentáculos le pertenecen a ese Pulpo horroroso.\nHay que ocuparse de ese monstruo, pero no puedo hacer mucho para ayudar..."
     },
     "yfybAQ": {
         "en-US": "[Starfish]\nI want to find someone special who can punish that ugly octopus.",
@@ -57,7 +57,7 @@
     "y/ybAQ": {
         "en-US": "Starfish]\nParty name is...{0}\nParty leader is...{1} must make the reservation\n^0000FF{2} ^000000- Reservation Failed",
         "pt-BR": "Estrela do mar]\nO nome do grupo é...{0}\nO líder do grupo é...{1} deve fazer a reserva\n^0000FF{2} ^000000- A reserva falhou",
-        "es-ES": "Estrella de mar]\nEl nombre del grupo es…{0}.\nEl líder del grupo es… {1}, y debe hacer la reserva.\n^0000FF{2}^000000-Falló la reserva."
+        "es-ES": "Estrella de mar]\nEl nombre del grupo es...{0}.\nEl líder del grupo es... {1}, y debe hacer la reserva.\n^0000FF{2}^000000-Falló la reserva."
     },
     "zPybAQ": {
         "en-US": "[Starfish]\n^0000FF{0}^000000 - Reserving\nAfter making a reservation, you have to go to the Weird Entrance if you wish to enter the Octopus Cave",
@@ -82,7 +82,7 @@
     "0PybAQ": {
         "en-US": "[Starfish]\nParty name is...{0}\nParty leader is...{1} must make the reservation\n^0000FF{2} ^000000- Reservation Failed",
         "pt-BR": "[Estrela do Mar]\nO nome do grupo é...{0}\nO líder do grupo é...{1} deve fazer a reserva\n^0000FF{2} ^000000- A reserva falhou",
-        "es-ES": "[Estrella de mar]\nEl nombre del grupo es…{0}.\nEl líder del grupo es… {1}, y debe hacer la reserva.\n^0000FF{2}^000000-Falló la reserva."
+        "es-ES": "[Estrella de mar]\nEl nombre del grupo es...{0}.\nEl líder del grupo es... {1}, y debe hacer la reserva.\n^0000FF{2}^000000-Falló la reserva."
     },
     "0fybAQ": {
         "en-US": "[Starfish]\nIt's pretty dangerous in there. That's why I'm standing guard.",
@@ -142,7 +142,7 @@
     "3PybAQ": {
         "en-US": "[Starfish]\nShhh... Weird aura is\ncoming from that entrance.\nBig trouble is waiting, if you go in now.",
         "pt-BR": "[Estrela do Mar]\nShhh... Uma aura estranha está\nvindo daquela entrada.\nSe você entrar agora, terá um grande problema pela frente.",
-        "es-ES": "[Estrella de mar]\nShhh… Sale un aura extraña\nde esa entrada.\nTe esperan grandes problemas si entras ahora."
+        "es-ES": "[Estrella de mar]\nShhh... Sale un aura extraña\nde esa entrada.\nTe esperan grandes problemas si entras ahora."
     },
     "3fybAQ": {
         "en-US": "[Starfish]\nIf you don't have one then you can buy it from the Cash Shop.",

@@ -47,12 +47,12 @@
     "CUSVCA": {
         "en-US": "[Lurid Royal Guard]\n...Yes, your majesty.",
         "pt-BR": "[Guarda Real Sinistro]\n...Sim, majestade.",
-        "es-ES": "[Guardia real lúgubre]\n… Sí, su majestad."
+        "es-ES": "[Guardia real lúgubre]\n... Sí, su majestad."
     },
     "CkSVCA": {
         "en-US": "Lurid Royal Guard: ...Yes, your majesty.",
         "pt-BR": "Guarda Real Sinistro: ...Sim, majestade.",
-        "es-ES": "Guardia real lúgubre:… Sí, su majestad."
+        "es-ES": "Guardia real lúgubre:... Sí, su majestad."
     },
     "C0SVCA": {
         "en-US": "[King]\nMy gods, there are monsters in the castle! Get rid of them now!",
@@ -92,7 +92,7 @@
     "EkSVCA": {
         "en-US": "Your highness, the King has invited a prince from a neighboring country to be your betrothed. Be ready to meet him...",
         "pt-BR": "Princesa, o rei arranjou um casamento com um príncipe do país vizinho. Prepare-se para conhecê-lo.",
-        "es-ES": "Mi princesa, el rey invitó a un príncipe de un país vecino para que sea tu prometido. Prepárate para recibirlo…"
+        "es-ES": "Mi princesa, el rey invitó a un príncipe de un país vecino para que sea tu prometido. Prepárate para recibirlo..."
     },
     "E0SVCA": {
         "en-US": "Lurid Royal Guard: Your highness, the King has invited a prince from a neighboring country to be your betrothed. Be ready to meet him...",
@@ -102,7 +102,7 @@
     "FESVCA": {
         "en-US": "[Princess Tiara]\nIf...If a marriage is arranged what shoud I do?",
         "pt-BR": "[Princesa Titania]\nSe... ele arranjou um casamento... o que devo fazer?",
-        "es-ES": "[Princesa Tiara]\nSi… si se arregla este matrimonio, ¿qué vamos a hacer?"
+        "es-ES": "[Princesa Tiara]\nSi... si se arregla este matrimonio, ¿qué vamos a hacer?"
     },
     "FUSVCA": {
         "en-US": "Princess Tiara: If...If a marriage is arranged what shoud I do?",
@@ -132,7 +132,7 @@
     "GkSVCA": {
         "en-US": "[Lurid Royal Guard]\nYou must decide that for yourself your highness...",
         "pt-BR": "[Guarda Real Sinistro]\nPor favor... Seja uma rainha bondosa no país vizinho, pelo rei e por mim...",
-        "es-ES": "[Guardia real lúgubre]\nDebes decidirlo tú misma, mi princesa…"
+        "es-ES": "[Guardia real lúgubre]\nDebes decidirlo tú misma, mi princesa..."
     },
     "G0SVCA": {
         "en-US": "Lurid Royal Guard: You must decide that for yourself your highness...",
@@ -232,7 +232,7 @@
     "LkSVCA": {
         "en-US": "[King]\nShut up! You've betrayed me ! I trusted you... you must pay for your disgrace.",
         "pt-BR": "[Rei]\nCale-se! Você me traiu! Eu confiei em você... Vai pagar por isso.",
-        "es-ES": "[Rey]\n¡Cállate! ¡Me traicionaste! Yo confié en ti… Tendrás que pagar por tu deshonra."
+        "es-ES": "[Rey]\n¡Cállate! ¡Me traicionaste! Yo confié en ti... Tendrás que pagar por tu deshonra."
     },
     "L0SVCA": {
         "en-US": "King: Shut up! You've betrayed me ! I trusted you... you must pay for your disgrace.",
@@ -252,7 +252,7 @@
     "MkSVCA": {
         "en-US": "Thanatos Magic Trace",
         "pt-BR": "Rastros da Talefing",
-        "es-ES": "Thanatos Rastro Mágico"
+        "es-ES": "Rastro de Thanatos"
     },
     "M0SVCA": {
         "en-US": "Ominous Voice: Oh, faithful royal guard, you are trapped.",
@@ -262,7 +262,7 @@
     "NESVCA": {
         "en-US": "Ominous Voice: The conspiracy in the palace has your princess in grave danger...",
         "pt-BR": "Voz estranha: A conspiração se espalha pelo palácio e coloca sua princesa em perigo, huhuhu...",
-        "es-ES": "Voz ominosa: La conspiración dentro del palacio puso a tu princesa en grave peligro…"
+        "es-ES": "Voz ominosa: La conspiración dentro del palacio puso a tu princesa en grave peligro..."
     },
     "NUSVCA": {
         "en-US": "Lurid Royal Guard: Who are you? Show yourself!",
@@ -272,12 +272,12 @@
     "NkSVCA": {
         "en-US": "Ominous Voice: Ah... so you do you hear me?",
         "pt-BR": "Voz estranha: Ah... Isso é ótimo... Pode me ouvir?",
-        "es-ES": "Voz ominosa: Ah… ¿así que me escuchas?"
+        "es-ES": "Voz ominosa: Ah... ¿así que me escuchas?"
     },
     "N0SVCA": {
         "en-US": "Lurid Royal Guard: ...?",
         "pt-BR": "Guarda Real Sinistro: ...?",
-        "es-ES": "Guardia real lúgubre: ¿…?"
+        "es-ES": "Guardia real lúgubre: ¿...?"
     },
     "OESVCA": {
         "en-US": "Ominous Voice: I can give you unlimited power. If you make a pact with me.",
@@ -287,12 +287,12 @@
     "OUSVCA": {
         "en-US": "Lurid Royal Guard: I..I...",
         "pt-BR": "Guarda Real Sinistro: Eu... eu...",
-        "es-ES": "Guardia Real Lúrida: Yo… Yo…"
+        "es-ES": "Guardia Real Lúrida: Yo... Yo..."
     },
     "OkSVCA": {
         "en-US": "Thanatos Magic Trace: Kukuku... What do you want boy?",
         "pt-BR": "Talefing: Huhuhu... Qual é a sua vontade, rapaz?",
-        "es-ES": "Espíritu de Thanatos: Kukuku... ¿Qué dices, niño?"
+        "es-ES": "Rastro de Thanatos: Kukuku... ¿Qué dices, niño?"
     },
     "O0SVCA": {
         "en-US": "Regretful Memory",
@@ -322,7 +322,7 @@
     "QESVCA": {
         "en-US": "Faithful royal guard...",
         "pt-BR": "O Guarda Real fiel...",
-        "es-ES": "Fiel guardia real…"
+        "es-ES": "Fiel guardia real..."
     },
     "QUSVCA": {
         "en-US": "Run away away quickly!",
@@ -332,22 +332,22 @@
     "QkSVCA": {
         "en-US": "You are trapped...",
         "pt-BR": "Você está preso...",
-        "es-ES": "Estás atrapado…"
+        "es-ES": "Estás atrapado..."
     },
     "Q0SVCA": {
         "en-US": "Raithful royal guard...",
         "pt-BR": "O Guarda Real fiel...",
-        "es-ES": "Fiel guardia real…"
+        "es-ES": "Fiel guardia real..."
     },
     "RESVCA": {
         "en-US": "You put your princess in grave danger...",
         "pt-BR": "Você colocou a princesa em perigo...",
-        "es-ES": "Pusiste a tu princesa en grave peligro…"
+        "es-ES": "Pusiste a tu princesa en grave peligro..."
     },
     "RUSVCA": {
         "en-US": "Sweet Slaughter",
         "pt-BR": "Massacre Prazeroso",
-        "es-ES": "Sweet Slaughter"
+        "es-ES": "Masacre Placentera"
     },
     "RkSVCA": {
         "en-US": "Visiting Prince",
@@ -382,7 +382,7 @@
     "TESVCA": {
         "en-US": "[Visiting Prince]\nYou are too late... but you brought what I was looking for. Thanks for your help.",
         "pt-BR": "[Principe Forasteiro]\nVocê demorou... mas trouxe o que eu queria. Obrigado pela ajuda.",
-        "es-ES": "[Príncipe visitante]\nLlegas tarde… pero trajiste lo que buscaba. Gracias por tu ayuda."
+        "es-ES": "[Príncipe visitante]\nLlegas tarde... pero trajiste lo que buscaba. Gracias por tu ayuda."
     },
     "TUSVCA": {
         "en-US": "Visiting Prince: You are too late... but you brought what I was looking for. Thanks for your help.",
@@ -392,22 +392,22 @@
     "TkSVCA": {
         "en-US": "[Visiting Prince]\nCursed Thanatos Magic Trace! Are you ready to have a new master?",
         "pt-BR": "[Principe Forasteiro]\nTalefing! Está pronto para ter um novo mestre?",
-        "es-ES": "[Príncipe visitante]\n¡Maldito Espíritu de Thanatos! ¿Estás listo para tener un nuevo amo?"
+        "es-ES": "[Príncipe visitante]\n¡Rastro de Thanatos! ¿Estás listo para tener un nuevo amo?"
     },
     "T0SVCA": {
         "en-US": "Visiting Prince: Cursed Thanatos Magic Trace! Are you ready to have a new master?",
         "pt-BR": "Principe Forasteiro: Talefing! Está pronto para ter um novo mestre?",
-        "es-ES": "Príncipe visitante: ¡Maldito Rastro Mágico de Thanatos! ¿Estás listo para tener un nuevo maestro?"
+        "es-ES": "Príncipe visitante: ¡Rastro de Thanatos! ¿Estás listo para tener un nuevo amo?"
     },
     "UESVCA": {
         "en-US": "[Thanatos Magic Trace]\nHow dare you!",
         "pt-BR": "[Talefing]\nComo ousa... você não está no meu nível!",
-        "es-ES": "[Espíritu de Thanatos]\n¡¿Cómo te atreves?!"
+        "es-ES": "[Rastro de Thanatos]\n¡¿Cómo te atreves?!"
     },
     "UUSVCA": {
         "en-US": "Thanatos Magic Trace: How dare you!",
         "pt-BR": "Talefing: Como ousa... você não está no meu nível!",
-        "es-ES": "Thanatos Magic Trace: ¡¿Cómo te atreves?!"
+        "es-ES": "Rastro de Thanatos: ¡¿Cómo te atreves?!"
     },
     "UkSVCA": {
         "en-US": "[Visiting Prince]\naah, aah !!!",
@@ -452,7 +452,7 @@
     "WkSVCA": {
         "en-US": "[Princess Tiara]\nThank you... now I can rest beside you...",
         "pt-BR": "[Princesa Titania]\nObrigada... agora posso descansar ao seu lado...",
-        "es-ES": "[Princesa Tiara]\nGracias… ahora puedo descansar a tu lado…"
+        "es-ES": "[Princesa Tiara]\nGracias... ahora puedo descansar a tu lado..."
     },
     "W0SVCA": {
         "en-US": "Princess Tiara: Thank you... now I can rest beside you...",
@@ -462,7 +462,7 @@
     "XESVCA": {
         "en-US": "[Lurid Royal Guard]\nNo..No!!!!!",
         "pt-BR": "[Guarda Real Sinistro]\nNão... não!!!",
-        "es-ES": "[Guardia real lúgubre]\n¡¡¡No… No!!!"
+        "es-ES": "[Guardia real lúgubre]\n¡¡¡No... No!!!"
     },
     "XUSVCA": {
         "en-US": "Lurid Royal Guard: No..No!!!!!",
@@ -472,7 +472,7 @@
     "XkSVCA": {
         "en-US": "[The voice of Princess Tiara]\nI want to be with you forever in peace...forever...",
         "pt-BR": "[Voz da princesa titania]\nQuero ficar em paz com você para sempre... para sempre...",
-        "es-ES": "[La voz de la princesa Tiara]\nQuiero estar contigo, en paz… para siempre…"
+        "es-ES": "[La voz de la princesa Tiara]\nQuiero estar contigo, en paz... para siempre..."
     },
     "X0SVCA": {
         "en-US": "Princess Tiara: I want to be with you forever in peace...forever...",
@@ -492,7 +492,7 @@
     "YkSVCA": {
         "en-US": "[The voice of Princess Tiara]\nI love you...",
         "pt-BR": "[Voz da princesa titania]\nEu te amo...",
-        "es-ES": "[La voz de la princesa Tiara]\nTe amo…"
+        "es-ES": "[La voz de la princesa Tiara]\nTe amo..."
     },
     "Y0SVCA": {
         "en-US": "Princess Tiara: I love you...",
@@ -512,12 +512,12 @@
     "ZkSVCA": {
         "en-US": "What is this..??",
         "pt-BR": "O que é isso...?",
-        "es-ES": "¿Qué es esto…?"
+        "es-ES": "¿Qué es esto...?"
     },
     "Z0SVCA": {
         "en-US": "Wake up! look at us... We are monsters?",
         "pt-BR": "Acorde! Olhe só para nós... Somos monstros?",
-        "es-ES": "¡Despierta! Míranos… ¿Somos monstruos?"
+        "es-ES": "¡Despierta! Míranos... ¿Somos monstruos?"
     },
     "aESVCA": {
         "en-US": "Sakray killed the princess!",
@@ -532,12 +532,12 @@
     "akSVCA": {
         "en-US": "Why... betrayed us... Why...?",
         "pt-BR": "Por que... nos traiu? Por quê...?",
-        "es-ES": "¿Por qué… nos traicionó…? ¿Por qué…?"
+        "es-ES": "¿Por qué... nos traicionó...? ¿Por qué...?"
     },
     "a0SVCA": {
         "en-US": "Wake up! Look at us... We are monsters?",
         "pt-BR": "Acorde! Olhe só para nós... Somos monstros?",
-        "es-ES": "¡Despierta! Míranos… ¿Somos monstruos?"
+        "es-ES": "¡Despierta! Míranos... ¿Somos monstruos?"
     },
     "bESVCA": {
         "en-US": "Sakray! Why.....Sakray?",
@@ -562,7 +562,7 @@
     "cESVCA": {
         "en-US": "Thanatos Magic Trace! I will destroy you if I can't have you... Oh no! How could this be?",
         "pt-BR": "Talefing! Vou te destruir se não puder ter você... Ah, não... Como isso é possível...?!",
-        "es-ES": "¡Espíritu de Thanatos! Te destruiré si no puedo tenerte… ¡Oh, no! ¿Cómo es posible?"
+        "es-ES": "¡Rastro de Thanatos! Te destruiré si no puedo tenerte... ¡Oh, no! ¿Cómo es posible?"
     },
     "cUSVCA": {
         "en-US": "Sakray",
@@ -572,22 +572,22 @@
     "ckSVCA": {
         "en-US": "[Lurid Royal Guard]\nAre you satisfied..? Thanatos Magic Trace?",
         "pt-BR": "[Guarda Real Sinistro]\nEstá satisfeito...? Talefing!",
-        "es-ES": "[Guardia real lúgubre]\n¿Estás satisfecho… Espíritu de Thanatos?"
+        "es-ES": "[Guardia real lúgubre]\n¿Estás satisfecho... Rastro de Thanatos?"
     },
     "c0SVCA": {
         "en-US": "Lurid Royal Guard: Are you satisfied..? Thanatos Magic Trace?",
         "pt-BR": "Guarda Real Sinistro: Está satisfeito...? Talefing!",
-        "es-ES": "Guardia Real Lúrida: ¿Estás satisfecho..? ¿Tanatos Magic Trace?"
+        "es-ES": "Guardia Real Lúrida: ¿Estás satisfecho..? ¿Rastro de Thanatos?"
     },
     "dESVCA": {
         "en-US": "[Thanatos Magic Trace]\nI need more blood..Sakray, offer me his blood.",
         "pt-BR": "[Talefing]\nPreciso de mais sangue... Skurai, ofereça-me mais sangue.",
-        "es-ES": "[Espíritu de Thanatos]\nNecesito más sangre… Sakray, ofréceme su sangre."
+        "es-ES": "[Rastro de Thanatos]\nNecesito más sangre... Sakray, ofréceme su sangre."
     },
     "dUSVCA": {
         "en-US": "Thanatos Magic Trace: I need more blood..Sakray, offer me his blood.",
         "pt-BR": "Talefing: Preciso de mais sangue... Skurai, ofereça-me mais sangue.",
-        "es-ES": "Thanatos Magic Trace: Necesito más sangre .. Sakray, ofréceme su sangre."
+        "es-ES": "Rastro de Thanatos: Necesito más sangre .. Sakray, ofréceme su sangre."
     },
     "dkSVCA": {
         "en-US": "[Sakray]\nOkay, that is good. A traveller. Did you see?",
@@ -612,7 +612,7 @@
     "ekSVCA": {
         "en-US": "[Sakray]\nNone...I did not need to make an effort to catch a novice.",
         "pt-BR": "[Skurai]\nNada disso... não preciso me esforçar para capturar um novato.",
-        "es-ES": "[Sakray]\nNada de eso… atrapar principiantes no me demanda ningún esfuerzo."
+        "es-ES": "[Sakray]\nNada de eso... atrapar principiantes no me demanda ningún esfuerzo."
     },
     "e0SVCA": {
         "en-US": "Sakray: None...I did not need to make an effort to catch a novice.",
@@ -622,7 +622,7 @@
     "fESVCA": {
         "en-US": "[{0}]\nIf so... then why...?",
         "pt-BR": "[{0}]\nSe é assim... por quê?",
-        "es-ES": "[{0}]\nEntonces… ¿por qué…?"
+        "es-ES": "[{0}]\nEntonces... ¿por qué...?"
     },
     "fUSVCA": {
         "en-US": "If so... then why...?",
@@ -652,12 +652,12 @@
     "gkSVCA": {
         "en-US": "[Thanatos Magic Trace]\nSakray, offer the blood to me now!",
         "pt-BR": "[Talefing]\nSkurai, eu quero o sangue dele... agora!",
-        "es-ES": "[Espíritu de Thanatos]\n¡Sakray, ofréceme la sangre ahora!"
+        "es-ES": "[Rastro de Thanatos]\n¡Sakray, ofréceme la sangre ahora!"
     },
     "g0SVCA": {
         "en-US": "Thanatos Magic Trace: Sakray, offer the blood to me now!",
         "pt-BR": "Talefing: Skurai, eu quero o sangue dele... agora!",
-        "es-ES": "Thanatos Magic Trace: ¡Sakray, ofréceme la sangre ahora!"
+        "es-ES": "Rastro de Thanatos: ¡Sakray, ofréceme la sangre ahora!"
     },
     "hESVCA": {
         "en-US": "[Sakray]\nIf you were me, what would you do?",
@@ -682,22 +682,22 @@
     "iESVCA": {
         "en-US": "[{0}]\n...",
         "pt-BR": "[{0}]\n...",
-        "es-ES": "[{0}]\n…"
+        "es-ES": "[{0}]\n..."
     },
     "iUSVCA": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "ikSVCA": {
         "en-US": "[Sakray]\nHeh heh... I will keep watching you until the day you grow up enough.",
         "pt-BR": "[Skurai]\nHahaha... Vou te observar até o dia que crescer o suficiente.",
-        "es-ES": "[Sakray]\nJe, je… Te seguiré observando hasta que seas lo suficientemente fuerte."
+        "es-ES": "[Sakray]\nJe, je... Te seguiré observando hasta que seas lo suficientemente fuerte."
     },
     "i0SVCA": {
         "en-US": "Sakray: Heh heh... I will keep watching you until the day you grow up enough.",
         "pt-BR": "Skurai: Hahaha... Vou te observar até o dia que crescer o suficiente.",
-        "es-ES": "Sakray: Je, je… Te seguiré observando hasta el día en que crezcas lo suficiente."
+        "es-ES": "Sakray: Je, je... Te seguiré observando hasta el día en que crezcas lo suficiente."
     },
     "jESVCA": {
         "en-US": "[Sakray]\nI am willing to hunt you later for Thanatos.",
@@ -732,12 +732,12 @@
     "kkSVCA": {
         "en-US": "Thanatos Magic Trace: Sakray, Do not forget the covenant of blood between us.",
         "pt-BR": "Talefing: Skurai, não se esqueça do pacto de sangue entre nós.",
-        "es-ES": "Thanatos Magic Trace: Sakray, no olvides nuestro pacto de sangre."
+        "es-ES": "Rastro de Thanatos: Sakray, no olvides nuestro pacto de sangre."
     },
     "k0SVCA": {
         "en-US": "Thanatos Magic Trace: Your soul is mine until you find the blood that satisfies me...",
         "pt-BR": "Talefing: A sua alma é minha até oferecer o sangue que me satisfaça. Huhuhuhu...",
-        "es-ES": "Thanatos Magic Trace: Tu alma es mía hasta que encuentres la sangre que me satisfaga…"
+        "es-ES": "Rastro de Thanatos: Tu alma es mía hasta que encuentres la sangre que me satisfaga..."
     },
     "lESVCA": {
         "en-US": "Voice of Sakray : Rest in the shadow with me.",
@@ -747,7 +747,7 @@
     "lUSVCA": {
         "en-US": "Voice of Sakray : In the dark forever...",
         "pt-BR": "Voz de Skurai: Para sempre na escuridão...",
-        "es-ES": "Voz de Sakray : Por siempre en la oscuridad…"
+        "es-ES": "Voz de Sakray : Por siempre en la oscuridad..."
     },
     "lkSVCA": {
         "en-US": "It is time to leave the Ghost Palace.",
@@ -787,7 +787,7 @@
     "nUSVCA": {
         "en-US": "[King]\nThe cursed knight...\nPlease help me save the soul of Sakray",
         "pt-BR": "[Rei]\nO cavaleiro amaldiçoado...\nPor favor, salve a alma de Skurai.\nAjude-me...",
-        "es-ES": "[Rey]\nEl caballero maldito…\nPor favor, ayúdame a salvar el alma de Sakray."
+        "es-ES": "[Rey]\nEl caballero maldito...\nPor favor, ayúdame a salvar el alma de Sakray."
     },
     "nkSVCA": {
         "en-US": "Thanatos Sword",
@@ -932,7 +932,7 @@
     "ukSVCA": {
         "en-US": "[King]\nThe power requires a sacrifice.\nPlease be careful...",
         "pt-BR": "[Rei]\nO poder exige sacrifícios.\nPor favor, tenha cuidado...",
-        "es-ES": "[Rey]\nEl poder requiere un sacrificio.\nPor favor, ten cuidado…"
+        "es-ES": "[Rey]\nEl poder requiere un sacrificio.\nPor favor, ten cuidado..."
     },
     "u0SVCA": {
         "en-US": "to make a ^FF0000Thanatos Great Sword^000000\nI need 200 ^006400Gray Shard^000000",
@@ -1332,7 +1332,7 @@
     "CkWVCA": {
         "en-US": "Someday, Sakray will\nget out of curse for sure.\nI believe\n^006400Gray Shard^000000 will be the only method\nto save him....",
         "pt-BR": "Um dia, Skurai\nserá libertado da maldição.\nEu acredito nisso.\n^006400Um Fragmento de Cinzas^000000 é o único jeito\nde salvá-lo...",
-        "es-ES": "Algún día Sakray\nsaldrá de su maldición.\nTengo fe en ello.\nLas ^006400Esquirlas grises^000000 son el único método\npara salvarlo……"
+        "es-ES": "Algún día Sakray\nsaldrá de su maldición.\nTengo fe en ello.\nLas ^006400Esquirlas grises^000000 son el único método\npara salvarlo......"
     },
     "C0WVCA": {
         "en-US": "- The items are rewarded Please reduce the weight of a bag.. -",
@@ -1342,6 +1342,6 @@
     "DEWVCA": {
         "en-US": "It is time to leave Palace of the ghost.\nEverything is completed,\nEverything will be vanished..",
         "pt-BR": "É hora de deixar o Palácio das Mágoas.\nTudo foi concluído.\nTudo desaparecerá...",
-        "es-ES": "Es hora de salir del Palacio fantasma.\nTodo terminó.\nTodo se desvanecerá…"
+        "es-ES": "Es hora de salir del Palacio fantasma.\nTodo terminó.\nTodo se desvanecerá..."
     }
 }

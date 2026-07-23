@@ -321,7 +321,11 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor] = "C_Tassie_Anchor",
 	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear",
 	[SPRITE_ROBE_IDs.ROBE_C_S_Thanatos_Wing] = "C_S_Thanatos_Wing",
-	[SPRITE_ROBE_IDs.ROBE_C_Tuna_Fishing] = "C_Tuna_Fishing"
+	[SPRITE_ROBE_IDs.ROBE_C_Tuna_Fishing] = "C_Tuna_Fishing",
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_1st] = "C_2026RosFesta_1st",
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_2nd] = "C_2026RosFesta_2nd",
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_3rd] = "C_2026RosFesta_3rd",
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_4th] = "C_2026RosFesta_4th"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -646,7 +650,11 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor] = "C_Tassie_Anchor",
 	[SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear] = "C_Gerero_Spear",
 	[SPRITE_ROBE_IDs.ROBE_C_S_Thanatos_Wing] = "C_S_Thanatos_Wing",
-	[SPRITE_ROBE_IDs.ROBE_C_Tuna_Fishing] = "C_Tuna_Fishing"
+	[SPRITE_ROBE_IDs.ROBE_C_Tuna_Fishing] = "C_Tuna_Fishing",
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_1st] = "C_2026RosFesta_1st",
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_2nd] = "C_2026RosFesta_2nd",
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_3rd] = "C_2026RosFesta_3rd",
+	[SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_4th] = "C_2026RosFesta_4th"
 }
 RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER,
@@ -867,5 +875,9 @@ RobeTopLayer = {
 	SPRITE_ROBE_IDs.ROBE_C_Tassie_Anchor,
 	SPRITE_ROBE_IDs.ROBE_C_Gerero_Spear,
 	SPRITE_ROBE_IDs.ROBE_C_S_Thanatos_Wing,
-	SPRITE_ROBE_IDs.ROBE_C_Tuna_Fishing
+	SPRITE_ROBE_IDs.ROBE_C_Tuna_Fishing,
+	SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_1st,
+	SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_2nd,
+	SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_3rd,
+	SPRITE_ROBE_IDs.ROBE_C_2026RosFesta_4th
 }

@@ -57,7 +57,7 @@
     "C5vRBg": {
         "en-US": "[Salim Hamid]\nOh, my...\nWell, that's too bad. Here at Criatura Academy, we respect our students' preferences.",
         "pt-BR": "[Salim Hamid]\nQue pena!\nBem, não há nada que eu possa fazer. A Academia Criatura coloca as necessidades e os desejos dos estudantes acima de tudo.",
-        "es-ES": "[Salim Hamid]\nAy, cielos…\nEs una lástima. En la Academia de criaturas, respetamos las preferencias de nuestros alumnos."
+        "es-ES": "[Salim Hamid]\nAy, cielos...\nEs una lástima. En la Academia de criaturas, respetamos las preferencias de nuestros alumnos."
     },
     "DJvRBg": {
         "en-US": "[Salim Hamid]\nDon't forget that you can change your job now if you go talk to the guild staff.\nBut I suggest that you go to a job guild and do it yourself.",
@@ -162,7 +162,7 @@
     "IJvRBg": {
         "en-US": "[Salim Hamid]\nAnd this is a classroom for aspiring merchants. Actually, it's still used by the academy's accounting department, but...",
         "pt-BR": "[Salim Hamid]\nEsse lugar é a sala de aula para Mercadores aspirantes... e funciona como o escritório de contabilidade da Academia.",
-        "es-ES": "[Salim Hamid]\nY esto es un aula para aspirantes a Comerciante. En realidad, aún la usa el Departamento de Contabilidad de la academia, pero…"
+        "es-ES": "[Salim Hamid]\nY esto es un aula para aspirantes a Comerciante. En realidad, aún la usa el Departamento de Contabilidad de la academia, pero..."
     },
     "IZvRBg": {
         "en-US": "[Salim Hamid]\nIf you want to know more about the path to becoming merchant, come talk to me, Salim Hamid. I need to finish updating our spreadsheets, so see you.",
@@ -177,7 +177,7 @@
     "I5vRBg": {
         "en-US": "Oh, I thought you were the Mage trainer...",
         "pt-BR": "Eu vim para o lugar errado.",
-        "es-ES": "Ay, pensé que eras el instructor de Magos…"
+        "es-ES": "Ay, pensé que eras el instructor de Magos..."
     },
     "JJvRBg": {
         "en-US": "I want to learn about Merchants.",
@@ -452,7 +452,7 @@
     "WpvRBg": {
         "en-US": "[Salim Hamid]\nSee that noisy vending machine? That thing used to sell beverages, but it would always just gobble up your money...",
         "pt-BR": "[Salim Hamid]\nTá vendo aquela máquina de vendas barulhenta no canto dessa sala de aula? Ela costumava vender bebidas, mas está engolindo o dinheiro...",
-        "es-ES": "[Salim Hamid]\n¿Ves esa máquina expendedora ruidosa? Esa cosa solía vender bebidas, pero siempre se tragaba el dinero…"
+        "es-ES": "[Salim Hamid]\n¿Ves esa máquina expendedora ruidosa? Esa cosa solía vender bebidas, pero siempre se tragaba el dinero..."
     },
     "W5vRBg": {
         "en-US": "[Salim Hamid]\nThat's why students use it to practice their skills. Go find out the prices of Garlet and Zargon from the vending machine.",
@@ -542,7 +542,7 @@
     "bJvRBg": {
         "en-US": "[Salim Hamid]\nThere's no need to practice using Overcharge. As you progress in your training and sell your loot, you'll just feel your purse get a little heavier than expected, if you know what I mean...",
         "pt-BR": "[Salim Hamid]\nNão acho que precisamos praticar Superfaturar. Você pode vivenciar isso por conta própria vendendo itens obtidos durante outras aulas na Academia.",
-        "es-ES": "[Salim Hamid]\nNo necesitas practicar la habilidad Sobrecosto. A medida que avances en tu entrenamiento y vendas tu botín, sentirás que el monedero te pesa un poco más de lo que esperabas si entiendes a qué me refiero…"
+        "es-ES": "[Salim Hamid]\nNo necesitas practicar la habilidad Sobrecosto. A medida que avances en tu entrenamiento y vendas tu botín, sentirás que el monedero te pesa un poco más de lo que esperabas si entiendes a qué me refiero..."
     },
     "bZvRBg": {
         "en-US": "[Salim Hamid]\nWell, you've now completed the Merchant Course.",
@@ -587,17 +587,17 @@
     "dZvRBg": {
         "en-US": "[Steward Aydin]\nThere are plenty of ways to make a profit. Blackmail, bribery, black market dealings...",
         "pt-BR": "[Mordomo Aidin]\nExistem muitas maneiras de lucrar como alguém de negócios. Coerção, suborno, comércio ilegal...",
-        "es-ES": "[Mayordomo Aydin]\nHay muchas formas de obtener ganancias. Chantaje, soborno, negocios en el mercado negro…"
+        "es-ES": "[Mayordomo Aydin]\nHay muchas formas de obtener ganancias. Chantaje, soborno, negocios en el mercado negro..."
     },
     "dpvRBg": {
         "en-US": "[Steward Aydin]\nWhen necessary, violence, bloodshed... (the steward seems lost in nostalgia)",
         "pt-BR": "[Mordomo Aidin]\nAté mesmo violência e derramamento de sangue... (Olhando para o nada, relembrando)",
-        "es-ES": "[Mayordomo Aydin]\nY, cuando haga falta, violencia, derramamiento de sangre… (el mayordomo parece perdido en la nostalgia)."
+        "es-ES": "[Mayordomo Aydin]\nY, cuando haga falta, violencia, derramamiento de sangre... (el mayordomo parece perdido en la nostalgia)."
     },
     "d5vRBg": {
         "en-US": "[Steward Aydin]\nOh, what was I saying...?\nWell, those methods are a tad illegal, I'm afraid. If you'd like to make more money (legally), you have two skills at your disposal: ^0000FFOvercharge and Discount^000000.",
         "pt-BR": "[Mordomo Aidin]\nAh! Do que eu estava falando?\nPor favor, esqueça o que eu disse. Tudo isso é ilegal. Como um Mercador, você pode ganhar dinheiro com duas habilidades. ^0000FFSuperfaturar e Desconto^000000.",
-        "es-ES": "[Mayordomo Aydin]\nEh, ¿qué estaba diciendo…?\nBueno, me temo que esos métodos son un poco ilegales. Si quieres ganar más dinero (legalmente), tienes dos habilidades a tu disposición: ^0000FFSobrecosto y Descuento^000000."
+        "es-ES": "[Mayordomo Aydin]\nEh, ¿qué estaba diciendo...?\nBueno, me temo que esos métodos son un poco ilegales. Si quieres ganar más dinero (legalmente), tienes dos habilidades a tu disposición: ^0000FFSobrecosto y Descuento^000000."
     },
     "eJvRBg": {
         "en-US": "[Steward Aydin]\nAlso, there are skills such as ^0000FFPushcart, Increase Carriable Quantity, Street Stall, and Item Appraisal^000000. These will help you a bit more indirectly in your profit-seeking ventures.",

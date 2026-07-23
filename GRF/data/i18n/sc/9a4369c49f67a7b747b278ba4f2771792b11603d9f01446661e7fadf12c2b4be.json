@@ -2,7 +2,7 @@
     "wDBG": {
         "en-US": "[Cheshire]\nOh, wait!\nThere's another thing I'd like you to do.\nThere's not enough time to go into details...",
         "pt-BR": "[Cheshire]\nOh, espere!\nHá outra coisa que eu gostaria que você fizesse.\nNão há tempo suficiente para entrar em detalhes...",
-        "es-ES": "[Cheshire]\n¡Ah, espera!\nHay otra cosa que me gustaría que hicieras.\nNo hay tiempo para entrar en detalles…"
+        "es-ES": "[Cheshire]\n¡Ah, espera!\nHay otra cosa que me gustaría que hicieras.\nNo hay tiempo para entrar en detalles..."
     },
     "wTBG": {
         "en-US": "- Cheshire glances at the guard standing close to you, and leans close to whisper into your ear.-",
@@ -22,7 +22,7 @@
     "xDBG": {
         "en-US": "[Cheshire]\nI have something to get done in advance..\nGood luck!",
         "pt-BR": "[Cheshire]\nTenho algo para fazer com antecedência...\nBoa sorte!",
-        "es-ES": "[Cheshire]\nTengo algo que hacer por adelantado…\n¡Buena suerte!"
+        "es-ES": "[Cheshire]\nTengo algo que hacer por adelantado...\n¡Buena suerte!"
     },
     "xTBG": {
         "en-US": "Cheshire",
@@ -172,7 +172,7 @@
     "4jBG": {
         "en-US": "[Cheshire]\n..Hmm? Huh?\nIt's {0}!\nWhat are you doing here?",
         "pt-BR": "[Cheshire]\n... Hmm? Hã?\nÉ o {0}!\nO que está fazendo aqui?",
-        "es-ES": "[Cheshire]\n…¿Mmm? ¿Eh?\n¡Es {0}!\n¿Qué haces aquí?"
+        "es-ES": "[Cheshire]\n...¿Mmm? ¿Eh?\n¡Es {0}!\n¿Qué haces aquí?"
     },
     "4zBG": {
         "en-US": "Huh? Cheshire?",
@@ -187,12 +187,12 @@
     "5TBG": {
         "en-US": "Nothing, it's just the hood..",
         "pt-BR": "Nada, é apenas o capuz.",
-        "es-ES": "No es eso, es que tu capucha…"
+        "es-ES": "No es eso, es que tu capucha..."
     },
     "5jBG": {
         "en-US": "[Cheshire]\nOh... This. Because it's bothersome.\nAnd here, I don't have to mind others.\nOh, and well met!\nI was going to put you to work when you came to Diel.",
         "pt-BR": "[Cheshire]\nOh... Isso. Porque é incômodo.\nE aqui, não preciso me preocupar com os outros.\nAh, e muito bem!\nEu ia colocá-lo para trabalhar quando você viesse para Diel.",
-        "es-ES": "[Cheshire]\nOh… Esto. Es que me molesta mucho.\nY aquí no tengo que preocuparme de los demás.\n¡Ah! Por cierto, ¡hola!\nIba a ponerte a trabajar una vez que llegaras a Diel."
+        "es-ES": "[Cheshire]\nOh... Esto. Es que me molesta mucho.\nY aquí no tengo que preocuparme de los demás.\n¡Ah! Por cierto, ¡hola!\nIba a ponerte a trabajar una vez que llegaras a Diel."
     },
     "5zBG": {
         "en-US": "[Cheshire]\n.......What? Why are you staring at me like that?\nhis is all for Ahat's good.",
@@ -212,7 +212,7 @@
     "6jBG": {
         "en-US": "[{0}]\n(He will be suspicious if I refuse to do it... I guess I should play along for now.)\nOkay.\nI'll do anything for Ahat's pleasure.\nSo, what do you need me for?",
         "pt-BR": "[{0}]\n(Ele ficará desconfiado se eu me recusar a fazer isso... Acho que devo concordar por enquanto).\nEstá bem.\nFarei qualquer coisa para o prazer do Ahat.\nEntão, para que você precisa de mim?",
-        "es-ES": "[{0}]\n(Sospechará si me niego a hacerlo… Supongo que debo seguirle la corriente por ahora).\nDe acuerdo.\nHaría cualquier cosa por el bien de Ahat.\nEntonces, ¿para qué me necesitas?"
+        "es-ES": "[{0}]\n(Sospechará si me niego a hacerlo... Supongo que debo seguirle la corriente por ahora).\nDe acuerdo.\nHaría cualquier cosa por el bien de Ahat.\nEntonces, ¿para qué me necesitas?"
     },
     "6zBG": {
         "en-US": "[Cheshire]\nThings to do?\nWhat things?\nThis is one of the things you must do.\nDon't forget you're are loyal to Ahat.",
@@ -252,7 +252,7 @@
     "8jBG": {
         "en-US": "[Cheshire]\n........That box!\nOh, yes. It's the right one!\nYou've done a good job.\nThis is very important.\nAhat will be pleased.",
         "pt-BR": "[Cheshire]\n........ Essa caixa!\nAh, sim. É a caixa certa!\nVocê fez um bom trabalho.\nIsso é muito importante.\nO Ahat ficará satisfeito.",
-        "es-ES": "[Cheshire]\n…¡Esa caja!\nAy, sí. ¡Es la correcta!\nHiciste un buen trabajo.\nEsto es muy importante.\nAhat estará muy feliz."
+        "es-ES": "[Cheshire]\n...¡Esa caja!\nAy, sí. ¡Es la correcta!\nHiciste un buen trabajo.\nEsto es muy importante.\nAhat estará muy feliz."
     },
     "8zBG": {
         "en-US": "[Cheshire]\nThe boxes will be at the same place every day.\nI'll leave the job to you.",
@@ -267,7 +267,7 @@
     "9TBG": {
         "en-US": "[Cheshire]\n........ Hmm...\nIt's only you humans that have free access to any place.\nPlus, this place is Rapine territory.",
         "pt-BR": "[Cheshire]\n........ Hmm...\nSomente vocês, humanos, têm acesso livre a qualquer lugar.\nAlém disso, este lugar é território de Rapina.",
-        "es-ES": "[Cheshire]\n........ Mmm…\nSolo ustedes, los humanos, tienen libre acceso a cualquier lugar.\nAdemás, este lugar es territorio de los laphines."
+        "es-ES": "[Cheshire]\n........ Mmm...\nSolo ustedes, los humanos, tienen libre acceso a cualquier lugar.\nAdemás, este lugar es territorio de los laphines."
     },
     "9jBG": {
         "en-US": "[Cheshire]\nI don't attract their attention much, looking like this,\nbut what would Saphas think?\nTo see Ahat's man in a Rapine territory?",
@@ -282,7 +282,7 @@
     "+DBG": {
         "en-US": "[{0}]\n(... I don't buy his story, but he believes I'm on his side, so I guess I should play along.)\nWhat happens to this Bradium, then?",
         "pt-BR": "[{0}]\n(... não acredito em sua história, mas ele acredita que estou do lado dele, então acho que devo entrar no jogo).\nO que acontece com esse Bradium, então?",
-        "es-ES": "[{0}]\n(… No me creo su historia, pero él piensa que estoy de su lado, así que supongo que debo seguirle el juego).\nEntonces, ¿qué pasará con este Bradium?"
+        "es-ES": "[{0}]\n(... No me creo su historia, pero él piensa que estoy de su lado, así que supongo que debo seguirle el juego).\nEntonces, ¿qué pasará con este Bradium?"
     },
     "+TBG": {
         "en-US": "[Cheshire]\nThat thing?\nHand it to me.",
@@ -332,7 +332,7 @@
     "AjFG": {
         "en-US": "[Cheshire]\nHmm, this is unexpected...\nWell, I have no choice then.\nI'll have another guy do it today.\nBut you must do it starting tomorrow, okay?",
         "pt-BR": "[Cheshire]\nHmm, isso é inesperado...\nBem, então não tenho escolha.\nVou pedir para outro cara fazer isso hoje.\nMas você deve fazer isso a partir de amanhã, ok?",
-        "es-ES": "[Cheshire]\nMmm, esto no me lo esperaba…\nBueno, entonces no tengo elección.\nHaré que otro lo haga hoy.\nPero debes hacerlo a partir de mañana, ¿entendido?"
+        "es-ES": "[Cheshire]\nMmm, esto no me lo esperaba...\nBueno, entonces no tengo elección.\nHaré que otro lo haga hoy.\nPero debes hacerlo a partir de mañana, ¿entendido?"
     },
     "AzFG": {
         "en-US": "An exception occurred.\nPlease contact your GM for more details. (2)",
@@ -342,7 +342,7 @@
     "BDFG": {
         "en-US": "[Cheshire]\n...Why isn't this fellow showing up?\nShould be here by now...\nLost the way back perhaps...?\n....? Eh? Who, who are you? How long have you been standing here?",
         "pt-BR": "[Cheshire]\n...Por que esse sujeito não está aparecendo?\nJá deveria estar aqui...\nTalvez tenha perdido o caminho de volta...?\n....? Eh? Quem, quem é você? Há quanto tempo você está aqui?",
-        "es-ES": "[Cheshire]\n…¿Por qué no se digna en aparecer esta persona?\nYa debería estar aquí…\n¿Se habrá perdido al regresar…?\n¿…? ¿Eh? ¿Quién…? ¿Quién eres? ¿Cuánto tiempo llevas aquí?"
+        "es-ES": "[Cheshire]\n...¿Por qué no se digna en aparecer esta persona?\nYa debería estar aquí...\n¿Se habrá perdido al regresar...?\n¿...? ¿Eh? ¿Quién...? ¿Quién eres? ¿Cuánto tiempo llevas aquí?"
     },
     "BTFG": {
         "en-US": "A cat?!",
@@ -352,12 +352,12 @@
     "BjFG": {
         "en-US": "[Cheshire]\nWho... who's a cat?!\nGet lost!",
         "pt-BR": "[Cheshire]\nQuem... quem é um gato?!\nSaiam daqui!",
-        "es-ES": "[Cheshire]\n¡¿A… a quién le llamas gato?!\n¡No me hagas enojar!"
+        "es-ES": "[Cheshire]\n¡¿A... a quién le llamas gato?!\n¡No me hagas enojar!"
     },
     "BzFG": {
         "en-US": "[Cheshire]\n... Huh? I think I've seen you somewhere...\n..........Oh!\n{0}...?!\nWhat brings you here?",
         "pt-BR": "[Cheshire]\n... Hã? Acho que já o vi em algum lugar...\n..........Oh!\n{0}...?!\nO que o traz aqui?",
-        "es-ES": "[Cheshire]\n… ¿Eh? Tu cara me resulta familiar…\n…¡Ah!\n¡¿{0}…?!\n¿Qué te trae por aquí?"
+        "es-ES": "[Cheshire]\n... ¿Eh? Tu cara me resulta familiar...\n...¡Ah!\n¡¿{0}...?!\n¿Qué te trae por aquí?"
     },
     "CDFG": {
         "en-US": "[Cheshire]\nYou say you've forgotten what to do?\nYou're not supposed to be here.\nYou're supposed to be at the crevice to the south of Dicastes.",
@@ -377,7 +377,7 @@
     "CzFG": {
         "en-US": "[Cheshire]\n...Eh?\nWhat a surprise. What are you doing here?",
         "pt-BR": "[Cheshire]\n...Eh?\nQue surpresa. O que está fazendo aqui?",
-        "es-ES": "[Cheshire]\n…¿Eh?\nQué sorpresa. ¿Qué haces aquí?"
+        "es-ES": "[Cheshire]\n...¿Eh?\nQué sorpresa. ¿Qué haces aquí?"
     },
     "DDFG": {
         "en-US": "And what are YOU doing here?",
@@ -387,7 +387,7 @@
     "DTFG": {
         "en-US": "Those ears..?",
         "pt-BR": "Essas orelhas...?",
-        "es-ES": "¿Esas orejas…?"
+        "es-ES": "¿Esas orejas...?"
     },
     "DjFG": {
         "en-US": "[Cheshire]\nOut for a walk?\nI came out with Ahat, but he went back in to take care of an urgent matter.",
@@ -407,22 +407,22 @@
     "ETFG": {
         "en-US": "Wha... What a pretty tree.",
         "pt-BR": "O que... Que árvore bonita.",
-        "es-ES": "¿Qué…? Qué árbol más bonito."
+        "es-ES": "¿Qué...? Qué árbol más bonito."
     },
     "EjFG": {
         "en-US": "[Cheshire]\nThis tree... it's white, transparent, and shiny.\nIt's a Sapha's body.",
         "pt-BR": "[Cheshire]\nEsta árvore... é branca, transparente e brilhante.\nÉ o corpo de um Sapha.",
-        "es-ES": "[Cheshire]\nEste árbol… es blanco, transparente y brillante.\nEs el cuerpo de un sapha."
+        "es-ES": "[Cheshire]\nEste árbol... es blanco, transparente y brillante.\nEs el cuerpo de un sapha."
     },
     "EzFG": {
         "en-US": "[Cheshire]\nYou know Saphas slowly turn to stone throughout their lives.\nSo when they die, they turn to stony trees.\nThis forest is... their cemetery, so to speak.",
         "pt-BR": "[Cheshire]\nVocê sabe que os Saphas se transformam lentamente em pedra ao longo de suas vidas.\nEntão, quando morrem, eles se transformam em árvores de pedra.\nEsta floresta é... o cemitério deles, por assim dizer.",
-        "es-ES": "[Cheshire]\nSabes que los saphas se convierten lentamente en piedra a lo largo de sus vidas.\nAsí que, cuando mueren, se convierten en árboles pétreos.\nEste bosque es… su cementerio, por así decirlo."
+        "es-ES": "[Cheshire]\nSabes que los saphas se convierten lentamente en piedra a lo largo de sus vidas.\nAsí que, cuando mueren, se convierten en árboles pétreos.\nEste bosque es... su cementerio, por así decirlo."
     },
     "FDFG": {
         "en-US": "[Cheshire]\n....... Look closely, and you can make out his arms and legs.\nInteresting, isn't it?",
         "pt-BR": "[Cheshire]\n....... Olhe com atenção e você poderá ver seus braços e pernas.\nInteressante, não é?",
-        "es-ES": "[Cheshire]\n… Fíjate bien y podrás distinguir los brazos y las piernas.\nInteresante, ¿verdad?"
+        "es-ES": "[Cheshire]\n... Fíjate bien y podrás distinguir los brazos y las piernas.\nInteresante, ¿verdad?"
     },
     "FTFG": {
         "en-US": "[Cheshire]\n... .. ...",
@@ -437,12 +437,12 @@
     "FzFG": {
         "en-US": "- Cheshire stormed off... -",
         "pt-BR": "- Cheshire saiu em disparada... -",
-        "es-ES": "(Cheshire se fue furioso…)"
+        "es-ES": "(Cheshire se fue furioso...)"
     },
     "GDFG": {
         "en-US": "[Cheshire]\nWhat? The ears?\nWell, it's no wonder because I'm a beastman.\n.. Why... Why are you staring me like that?",
         "pt-BR": "[Cheshire]\nO quê? As orelhas?\nBem, não é de se admirar porque sou um homem-fera.\n.. Por que... Por que está me encarando assim?",
-        "es-ES": "[Cheshire]\n¿Cómo? ¿Las orejas?\nBueno, no es de extrañar porque soy un hombre bestia.\n… ¿Por qué…? ¿Por qué me miras así?"
+        "es-ES": "[Cheshire]\n¿Cómo? ¿Las orejas?\nBueno, no es de extrañar porque soy un hombre bestia.\n... ¿Por qué...? ¿Por qué me miras así?"
     },
     "GTFG": {
         "en-US": "Are you responsible for the report?!",
@@ -457,7 +457,7 @@
     "GzFG": {
         "en-US": "- Cheshire ran away... -",
         "pt-BR": "- Cheshire fugiu... -",
-        "es-ES": "(Cheshire se escapó…)"
+        "es-ES": "(Cheshire se escapó...)"
     },
     "HDFG": {
         "en-US": "A boy dressed in unusual clothing is standing, with a fierce look in his eyes.\nYou guess you'd better leave him alone.",

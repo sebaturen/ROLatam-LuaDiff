@@ -1,0 +1,147 @@
+{
+    "oBRDDQ": {
+        "en-US": "Power Chest#",
+        "pt-BR": "Caixa da Força#",
+        "es-ES": "Cofre de fuerza#"
+    },
+    "oRRDDQ": {
+        "en-US": "^FF0000Only the party leader has the right to open it.^000000",
+        "pt-BR": "^FF0000Somente o líder do grupo tem o direito de abrir.^000000",
+        "es-ES": "^FF0000Solo el líder del grupo tiene derecho a abrirlo.^000000"
+    },
+    "ohRDDQ": {
+        "en-US": "atk_1",
+        "pt-BR": "atk_1",
+        "es-ES": "atk_1"
+    },
+    "oxRDDQ": {
+        "en-US": "^FF0000You cannot open this while another chest is being opened.^000000",
+        "pt-BR": "^FF0000Não é possível abrir enquanto outra caixa estiver sendo aberta.^000000",
+        "es-ES": "^FF0000No se puede abrir mientras se está abriendo otro cofre.^000000"
+    },
+    "pBRDDQ": {
+        "en-US": "Advanced Power Chest#",
+        "pt-BR": "Caixa da Força Superior#",
+        "es-ES": "Cofre de fuerza superior#"
+    },
+    "pRRDDQ": {
+        "en-US": "atk_2",
+        "pt-BR": "atk_2",
+        "es-ES": "atk_2"
+    },
+    "phRDDQ": {
+        "en-US": "HP Chest#",
+        "pt-BR": "Caixa da Vitalidade#",
+        "es-ES": "Cofre de vida#"
+    },
+    "pxRDDQ": {
+        "en-US": "hp_1",
+        "pt-BR": "hp_1",
+        "es-ES": "hp_1"
+    },
+    "qBRDDQ": {
+        "en-US": "Advanced HP Chest#",
+        "pt-BR": "Caixa da Vitalidade Superior#",
+        "es-ES": "Cofre de vida superior#"
+    },
+    "qRRDDQ": {
+        "en-US": "hp_2",
+        "pt-BR": "hp_2",
+        "es-ES": "hp_2"
+    },
+    "qhRDDQ": {
+        "en-US": "Spirit Chest#",
+        "pt-BR": "Caixa do Espírito#",
+        "es-ES": "Cofre de espíritu#"
+    },
+    "qxRDDQ": {
+        "en-US": "rel_1",
+        "pt-BR": "rel_1",
+        "es-ES": "rel_1"
+    },
+    "rBRDDQ": {
+        "en-US": "Advanced Spirit Chest#",
+        "pt-BR": "Caixa do Espírito Superior#",
+        "es-ES": "Cofre de espíritu superior#"
+    },
+    "rRRDDQ": {
+        "en-US": "rel_2",
+        "pt-BR": "rel_2",
+        "es-ES": "rel_2"
+    },
+    "rhRDDQ": {
+        "en-US": "Wisdom Chest#",
+        "pt-BR": "Caixa da Sabedoria#",
+        "es-ES": "Cofre de sabiduría#"
+    },
+    "rxRDDQ": {
+        "en-US": "heal_1",
+        "pt-BR": "heal_1",
+        "es-ES": "heal_1"
+    },
+    "sBRDDQ": {
+        "en-US": "Advanced Wisdom Chest#",
+        "pt-BR": "Caixa da Sabedoria Superior#",
+        "es-ES": "Cofre de sabiduría superior#"
+    },
+    "sRRDDQ": {
+        "en-US": "heal_2",
+        "pt-BR": "heal_2",
+        "es-ES": "heal_2"
+    },
+    "shRDDQ": {
+        "en-US": "Agility Chest#",
+        "pt-BR": "Caixa da Agilidade#",
+        "es-ES": "Cofre de agilidad#"
+    },
+    "sxRDDQ": {
+        "en-US": "trap_1",
+        "pt-BR": "trap_1",
+        "es-ES": "trap_1"
+    },
+    "tBRDDQ": {
+        "en-US": "Advanced Agility Chest#",
+        "pt-BR": "Caixa da Agilidade Superior#",
+        "es-ES": "Cofre de agilidad superior#"
+    },
+    "tRRDDQ": {
+        "en-US": "trap_2",
+        "pt-BR": "trap_2",
+        "es-ES": "trap_2"
+    },
+    "thRDDQ": {
+        "en-US": "Satisfaction Chest#",
+        "pt-BR": "Caixa da Satisfação#",
+        "es-ES": "Cofre de satisfacción#"
+    },
+    "txRDDQ": {
+        "en-US": "spc_2",
+        "pt-BR": "spc_2",
+        "es-ES": "spc_2"
+    },
+    "uBRDDQ": {
+        "en-US": "Secret Chest#",
+        "pt-BR": "Caixa Secreta#",
+        "es-ES": "Cofre secreto#"
+    },
+    "uRRDDQ": {
+        "en-US": "spc_1",
+        "pt-BR": "spc_1",
+        "es-ES": "spc_1"
+    },
+    "uhRDDQ": {
+        "en-US": "Mysterious Chest#",
+        "pt-BR": "Caixa Misteriosa#",
+        "es-ES": "Cofre misterioso#"
+    },
+    "uxRDDQ": {
+        "en-US": "{0} {1} {2} {3} {4}",
+        "pt-BR": "{0} {1} {2} {3} {4}",
+        "es-ES": "{0} {1} {2} {3} {4}"
+    },
+    "vBRDDQ": {
+        "en-US": "{0} {1} {2} {3} {4}",
+        "pt-BR": "{0} {1} {2} {3} {4}",
+        "es-ES": "{0} {1} {2} {3} {4}"
+    }
+}

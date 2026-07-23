@@ -67,7 +67,7 @@
     "Dc23Ag": {
         "en-US": "[Merchant]\nOkay, let me check\nhow many Shells you\nhave on you. Hmm...",
         "pt-BR": "[Mercador]\nCerto, deixe-me verificar\nquantas Cascas\nvocê tem. Humm...",
-        "es-ES": "[Comerciante]\nBien, déjame revisar cuántos Caparazones\ntienes. Mmm…"
+        "es-ES": "[Comerciante]\nBien, déjame revisar cuántos Caparazones\ntienes. Mmm..."
     },
     "Ds23Ag": {
         "en-US": "[Merchant]\nYou have\na total of {0} Shells.\nI can give you a total\nof {1} Red Potions for those.",
@@ -102,7 +102,7 @@
     "FM23Ag": {
         "en-US": "[Merchant]\nWhat...?\nWhy the hell do you\neven bother to talk to me?\nPretty indecisive, aren't you?",
         "pt-BR": "[Mercador]\nÉ mole?\nPor que diabos você\nse dá ao trabalho de falar comigo?\nVocê é muito indeciso, não é, não?",
-        "es-ES": "[Comerciante]\n¿Qué…?\n¿Por qué demonios te molestas en hablar conmigo? ¡Cuánta indecisión!"
+        "es-ES": "[Comerciante]\n¿Qué...?\n¿Por qué demonios te molestas en hablar conmigo? ¡Cuánta indecisión!"
     },
     "Fc23Ag": {
         "en-US": "[Merchant]\nI can't give you more\nthan 100 Red Potions\nat once. Let's try\nthis again.",
@@ -132,12 +132,12 @@
     "Gs23Ag": {
         "en-US": "[Merchant]\nOkay, let me check\nhow much Jellopy you\nhave on you. Hmm...",
         "pt-BR": "[Mercador]\nCerto, deixe-me verificar\nquantos Jellopies\nvocê tem. Humm...",
-        "es-ES": "[Comerciante]\nBien, déjame revisar cuántos Jellopy tienes. Mmm…"
+        "es-ES": "[Comerciante]\nBien, déjame revisar cuántos Jellopy tienes. Mmm..."
     },
     "G823Ag": {
         "en-US": "[Merchant]\nYou have\na total of {0} Jellopies...\nFor all those, I can give you\na total of {1} Red Potions.",
         "pt-BR": "[Mercador]\nVocê tem\num total de {0} Jellopies.\nPosso te dar um total\nde {1} Poções Vermelhas por eles.",
-        "es-ES": "[Comerciante]\nTienes un total de {0} Jellopy…\nPor todo eso, puedo darte un total de {1} Pociones rojas."
+        "es-ES": "[Comerciante]\nTienes un total de {0} Jellopy...\nPor todo eso, puedo darte un total de {1} Pociones rojas."
     },
     "HM23Ag": {
         "en-US": "[Merchant]\nYou know the exact\nnumber of Red Potions\nyou want to receive for\nthat Jellopy, don't you?",
@@ -147,7 +147,7 @@
     "Hc23Ag": {
         "en-US": "[Merchant]\nWhat...?\nWhy the hell did you\neven bother to talk to me?\nPretty indecisive, aren't you?",
         "pt-BR": "[Mercador]\nÉ mole?\nPor que diabos você\nse dá ao trabalho de falar comigo?\nVocê é muito indeciso, não é, não?",
-        "es-ES": "[Comerciante]\n¿Qué…?\n¿Por qué demonios te molestas en hablar conmigo? ¡Cuánta indecisión!"
+        "es-ES": "[Comerciante]\n¿Qué...?\n¿Por qué demonios te molestas en hablar conmigo? ¡Cuánta indecisión!"
     },
     "Hs23Ag": {
         "en-US": "[Merchant]\nHey, where's\nall that Fluff\nthat you promised?\nGive me Fluff!",
@@ -157,7 +157,7 @@
     "H823Ag": {
         "en-US": "[Merchant]\nOkay, let me check\nhow much Fluff you\nhave on you. Hmm...",
         "pt-BR": "[Mercador]\nCerto, deixe-me verificar\nquantas Felpas\nvocê tem. Humm...",
-        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Pelusas tienes. Mmm…"
+        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Pelusas tienes. Mmm..."
     },
     "IM23Ag": {
         "en-US": "[Merchant]\nYou have\na total of {0} Fluff.\nI can give you a total\nof {1} Red Potions for those.",
@@ -177,7 +177,7 @@
     "I823Ag": {
         "en-US": "[Merchant]\nA rip-off...?\nIf you check the market value\nof the items being traded, I'm actually the one getting\nripped off here.",
         "pt-BR": "[Mercador]\nUma exploração...?\nSe você verificar o valor de mercado\ndos itens que estão sendo negociados, na verdade sou eu quem está sendo\nroubado aqui.",
-        "es-ES": "[Comerciante]\n¿Una estafa…?\nSi te fijas cuál es el valor de mercado de los objetos que estamos intercambiando, en realidad soy yo el que sale perdiendo aquí."
+        "es-ES": "[Comerciante]\n¿Una estafa...?\nSi te fijas cuál es el valor de mercado de los objetos que estamos intercambiando, en realidad soy yo el que sale perdiendo aquí."
     },
     "JM23Ag": {
         "en-US": "[Merchant]\nAlright,\nno problem.\nBut come back to me\nif you change your mind.",
@@ -212,7 +212,7 @@
     "Ks23Ag": {
         "en-US": "[Merchant]\nOkay, let me check how\nmany Feathers of Birds\nthat you have. Hmm...",
         "pt-BR": "[Mercador]\nCerto, deixe-me verificar\nquantas Penas de Ave\nvocê tem. Humm...",
-        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Plumas de ave tienes. Mmm…"
+        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Plumas de ave tienes. Mmm..."
     },
     "K823Ag": {
         "en-US": "[Merchant]\nYou have a total of\n{0} Feathers of Birds.\nI can give you a total of\n{1} Red Potions for those.",
@@ -252,7 +252,7 @@
     "Ms23Ag": {
         "en-US": "[Merchant]\nOkay, let me check\nhow many Tree Roots\nyou brought. Hmm...",
         "pt-BR": "[Mercador]\nCerto, deixe-me verificar\nquantas Raízes de Árvore\nvocê trouxe. Humm...",
-        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Raíces de árbol trajiste. Mmm…"
+        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Raíces de árbol trajiste. Mmm..."
     },
     "M823Ag": {
         "en-US": "[Merchant]\nYou have\na total of {0} Tree Roots.\nI can give you a total of\n{1} Red Potions for those.",
@@ -292,7 +292,7 @@
     "Os23Ag": {
         "en-US": "[Merchant]\nOkay, let me check how\nmany Worm Peelings that\nyou have. Hmm...",
         "pt-BR": "[Mercador]\nCerto, deixe-me verificar\nquantas Peles de Verme\nvocê tem. Humm...",
-        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Pieles de gusanos\ntienes. Mmm…"
+        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Pieles de gusanos\ntienes. Mmm..."
     },
     "O823Ag": {
         "en-US": "[Merchant]\nYou have a total of\n{0} Worm Peelings.\nI can give you a total of\n{1} Red Potions for those.",
@@ -332,7 +332,7 @@
     "Qs23Ag": {
         "en-US": "[Merchant]\nOkay, let me check how\nmany Chrysalises that\nthat you have on you. Hmm...",
         "pt-BR": "[Mercador]\nCerto, deixe-me verificar\nquantas Crisálidas\nvocê tem com você. Humm...",
-        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Crisálidas tienes. Mmm…"
+        "es-ES": "[Comerciante]\nBien, déjame revisar cuántas Crisálidas tienes. Mmm..."
     },
     "Q823Ag": {
         "en-US": "[Merchant]\nYou have a total of\n{0} Chrysalises.\nI can give you a total of\n{1} Red Potions for those.",

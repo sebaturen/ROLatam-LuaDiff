@@ -217,7 +217,7 @@
     "a2FOBg": {
         "en-US": "[Grimm]\nIt's been said all mammals have curiosity that rivals their appetite, but mages... are the worst.",
         "pt-BR": "[Grimm]\nNão dizem que a curiosidade matou o gato? Os magos passaram da linha, e por isso, várias pessoas morreram.",
-        "es-ES": "[Grimm]\nSe dice que todos los mamíferos tienen una curiosidad que rivaliza con su apetito, pero los Magos… son los peores."
+        "es-ES": "[Grimm]\nSe dice que todos los mamíferos tienen una curiosidad que rivaliza con su apetito, pero los Magos... son los peores."
     },
     "bGFOBg": {
         "en-US": "Enough with the lecturing. Get to the point already.",
@@ -287,7 +287,7 @@
     "eWFOBg": {
         "en-US": "...No.",
         "pt-BR": "Eu... é...",
-        "es-ES": "…No."
+        "es-ES": "...No."
     },
     "emFOBg": {
         "en-US": "[Mojo]\nBut wait, Adventurer.\nYou haven't heard my side of the story.",
@@ -462,7 +462,7 @@
     "nGFOBg": {
         "en-US": "[Daily Journal]\nI fainted in the middle of learning a new spell, again.\nMy low stamina and insufficient mana are always the problem.\nI thought I could make up for my weak constitution with magic.\nOf course, even that required some minimal stamina, but I didn't have even that.\nI'm too tired...",
         "pt-BR": "[Data ??]\nTentei conjurar um novo feitiço e acabei desmaiando.\nMinha baixa resistência e pouca mana sempre me trazem problemas, melhor eu ficar mais forte...\nEstou cansada... preciso...",
-        "es-ES": "[Diario]\nMe desmayé mientras aprendía un nuevo hechizo, otra vez.\nMi baja resistencia y mi maná insuficiente siempre son el problema. \nPensé que podría compensar mi débil constitución con magia.\nPor supuesto, incluso eso requería un mínimo de resistencia, pero no tenía ni eso.\nEstoy muy cansada…"
+        "es-ES": "[Diario]\nMe desmayé mientras aprendía un nuevo hechizo, otra vez.\nMi baja resistencia y mi maná insuficiente siempre son el problema. \nPensé que podría compensar mi débil constitución con magia.\nPor supuesto, incluso eso requería un mínimo de resistencia, pero no tenía ni eso.\nEstoy muy cansada..."
     },
     "nWFOBg": {
         "en-US": "[Daily Journal]\nI saw Sophia drinking a mana potion.\nMaybe potions are the answer to my never-ending search for physical support.\nI wonder if there are special potions that could improve me physically.\nThen, I could become stronger at last.",
@@ -812,7 +812,7 @@
     "4mFOBg": {
         "en-US": "[Grimm]\nDear Lord, please keep my colleagues safe...",
         "pt-BR": "[Grimm]\nFique em um local seguro. Que Deus proteja você...",
-        "es-ES": "[Grimm]\nSeñor, por favor, mantén a salvo a mis colegas…"
+        "es-ES": "[Grimm]\nSeñor, por favor, mantén a salvo a mis colegas..."
     },
     "42FOBg": {
         "en-US": "Mojo",
@@ -832,7 +832,7 @@
     "5mFOBg": {
         "en-US": "[Mojo]\nThe notebook...\nI want to see the notebook...\nIf you want to enter the notebook, then you should talk to Father Grimm.\nIf you want, I can go with you.",
         "pt-BR": "[Mojo]\nAh, eu queria tanto ler o diário... Se você quiser dar uma lida, fale com o Grimm...",
-        "es-ES": "[Mojo]\nEl cuaderno… \nQuiero ver el cuaderno… \nSi quieres entrar en el cuaderno, debes hablar con el Padre Grimm. \nSi quieres, puedo ir contigo."
+        "es-ES": "[Mojo]\nEl cuaderno... \nQuiero ver el cuaderno... \nSi quieres entrar en el cuaderno, debes hablar con el Padre Grimm. \nSi quieres, puedo ir contigo."
     },
     "52FOBg": {
         "en-US": "[Mojo]\nAdventurer, welcome back!\nI've been waiting for you for so long!\nDid you bring the things I asked?\nCome on, let me see them!",
@@ -907,7 +907,7 @@
     "9WFOBg": {
         "en-US": "[Mojo]\nSo I'm thinking... Could you bring me some more today?\nI need ^0000CD10 Dried Yggdrasil Leaves and 10 Suspicious Pentacles^000000.",
         "pt-BR": "[Mojo]\nEntão, vou precisar de novas amostras. Pode ser? ^0000CD10 Folhas Seca de Yggdrasil e 10 Pentáculos Suspeitos^000000, por favor.",
-        "es-ES": "[Mojo]\nAsí que estoy pensando… ¿Podrías traerme más hoy? \nNecesito ^0000CD10 Hojas de Yggdrasil secas y 10 Pentáculos sospechosos^000000."
+        "es-ES": "[Mojo]\nAsí que estoy pensando... ¿Podrías traerme más hoy? \nNecesito ^0000CD10 Hojas de Yggdrasil secas y 10 Pentáculos sospechosos^000000."
     },
     "9mFOBg": {
         "en-US": "[Mojo]\nAlso, please hunt ^0000CD5 Undead of each kind^000000 for that nagging priest.",
@@ -1132,7 +1132,7 @@
     "ImJOBg": {
         "en-US": "[Grimm]\n...",
         "pt-BR": "[Grimm]\n......",
-        "es-ES": "[Grimm]\n…"
+        "es-ES": "[Grimm]\n..."
     },
     "I2JOBg": {
         "en-US": "I'll take that as a yes.",
@@ -1167,7 +1167,7 @@
     "KWJOBg": {
         "en-US": "[Mojo]\nHuh?\nBut that's... I'd love to take a look at it.",
         "pt-BR": "[Mojo]\nAh! Um pouco... Se você mudar de ideia, ainda quero ver o diário.",
-        "es-ES": "[Mojo]\n¿Eh? \nPero eso… Me encantaría echarle un vistazo."
+        "es-ES": "[Mojo]\n¿Eh? \nPero eso... Me encantaría echarle un vistazo."
     },
     "KmJOBg": {
         "en-US": "Do you think you can?",
@@ -1217,7 +1217,7 @@
     "M2JOBg": {
         "en-US": "Yeah, but look at you?your face lit up when I offered.",
         "pt-BR": "Viajantes adoram missões de caça.",
-        "es-ES": "Sí, pero mírate… se te iluminó el rostro cuando lo ofrecí."
+        "es-ES": "Sí, pero mírate... se te iluminó el rostro cuando lo ofrecí."
     },
     "NGJOBg": {
         "en-US": "[Mojo]\nAdventurer, thank you for doing this for us.",
@@ -1382,7 +1382,7 @@
     "VGJOBg": {
         "en-US": "[Gem]\nLet me pray for you before you leave.\nDear God, please watch over your children...",
         "pt-BR": "[Gemma]\nAntes de você sair, vou te dar uma ajudinha.",
-        "es-ES": "[Gem]\nDéjame rezar por ti antes de que te vayas. \nLes suplico, dioses, que cuiden a sus hijos…"
+        "es-ES": "[Gem]\nDéjame rezar por ti antes de que te vayas. \nLes suplico, dioses, que cuiden a sus hijos..."
     },
     "VWJOBg": {
         "en-US": "[Gem]\nI hope Brother Jubilee and Brother Jojo are safe.",
@@ -1447,7 +1447,7 @@
     "YWJOBg": {
         "en-US": "[Gem]\nShe's right.\nWe shouldn't.\nBut looking at them...\nI wasn't sure if they deserved to die.",
         "pt-BR": "[Gemma]\nEu também, mas... será que é com ele que devemos lutar? Eu me pergunto.",
-        "es-ES": "[Gem]\nElla tiene razón. \nNo deberíamos. \nPero mirándolos… \nNo estaba segura de si merecían morir."
+        "es-ES": "[Gem]\nElla tiene razón. \nNo deberíamos. \nPero mirándolos... \nNo estaba segura de si merecían morir."
     },
     "YmJOBg": {
         "en-US": "[Gem]\nIt's something we need to think about.",
@@ -1797,7 +1797,7 @@
     "p2JOBg": {
         "en-US": "[Antoine]\nSweet Nightmares... Even their name is a contradiction.\nMaybe their mane is the source of all nightmares.",
         "pt-BR": "[Antônio]\nTalvez... Talvez eles sejam a causa dos nossos pesadelos?",
-        "es-ES": "[Antoine]\nDulces pesadillas… Incluso su nombre es una contradicción.\nQuizá su Crin sea la fuente de todas las pesadillas."
+        "es-ES": "[Antoine]\nDulces pesadillas... Incluso su nombre es una contradicción.\nQuizá su Crin sea la fuente de todas las pesadillas."
     },
     "qGJOBg": {
         "en-US": "[Antoine]\nOr it could just reflect the dreams of the dead.",
@@ -1887,12 +1887,12 @@
     "uWJOBg": {
         "en-US": "Grr...",
         "pt-BR": "Grrrrrrrrrrrr...",
-        "es-ES": "Grrr…"
+        "es-ES": "Grrr..."
     },
     "umJOBg": {
         "en-US": "Grrgghh...",
         "pt-BR": "Grrr...",
-        "es-ES": "Grrrrr…"
+        "es-ES": "Grrrrr..."
     },
     "u2JOBg": {
         "en-US": "[Priest]\nARRGH!\nNot again!\nHelp!",
@@ -1902,7 +1902,7 @@
     "vGJOBg": {
         "en-US": "Typical priest... Wait, is that him?",
         "pt-BR": "Um monge...?",
-        "es-ES": "Típico Sacerdote…   Espera, ¿es él?"
+        "es-ES": "Típico Sacerdote...   Espera, ¿es él?"
     },
     "vWJOBg": {
         "en-US": "[{0}]\nCould he be Father Jubilee?\nMarina, I think we've found him!",
@@ -1977,7 +1977,7 @@
     "y2JOBg": {
         "en-US": "[Jubilee]\nHe and I were checking this place when we found some fluorescent mushrooms.\nBrother Jojo's eyes gleamed and...",
         "pt-BR": "[Jubilee]\nEstávamos explorando a área quando Jojo viu um cogumelo brilhante...",
-        "es-ES": "[Jubilee]\nÉl y yo estábamos revisando este lugar cuando encontramos unos hongos fluorescentes. \nLos ojos del Hermano Jojo brillaron y…"
+        "es-ES": "[Jubilee]\nÉl y yo estábamos revisando este lugar cuando encontramos unos hongos fluorescentes. \nLos ojos del Hermano Jojo brillaron y..."
     },
     "zGJOBg": {
         "en-US": "*Shakes her head*  Wizards.",
@@ -2102,12 +2102,12 @@
     "5GJOBg": {
         "en-US": "[Wizard]\nThis one has a different color from Neon Mushrooms.\nIs it a new kind?\nI'd better pick it carefully...",
         "pt-BR": "[Bruxa]\nIsso é... um cogumelo diferente dos outros......",
-        "es-ES": "[Hechicero]\nEste tiene un color diferente al de los Hongos de neón. \n¿Es un nuevo tipo? \nSerá mejor que lo elija con cuidado…"
+        "es-ES": "[Hechicero]\nEste tiene un color diferente al de los Hongos de neón. \n¿Es un nuevo tipo? \nSerá mejor que lo elija con cuidado..."
     },
     "5WJOBg": {
         "en-US": "[{0}]\n^0000CDTypical wizard^000000...\nCould that be ^0000CDJojo^000000?",
         "pt-BR": "[{0}]\n^0000CDEla está usando roupas de Bruxa^000000... Será que é ^0000CDJojo^000000?",
-        "es-ES": "[{0}]\n^0000CDTípico Hechicero^000000… \n¿Podría ser ^0000CDJojo^000000?"
+        "es-ES": "[{0}]\n^0000CDTípico Hechicero^000000... \n¿Podría ser ^0000CDJojo^000000?"
     },
     "5mJOBg": {
         "en-US": "Jojo?",
@@ -2117,7 +2117,7 @@
     "52JOBg": {
         "en-US": "[Wizard]\n...?\nAre you a human?",
         "pt-BR": "[Bruxa]\n...? Quem...?",
-        "es-ES": "[Hechicero]\n¿…? \n¿Eres humano?"
+        "es-ES": "[Hechicero]\n¿...? \n¿Eres humano?"
     },
     "6GJOBg": {
         "en-US": "[{0}]\nJojo?\nYou're Jojo, right?\nYour colleagues are worried about you.\nLet's go back.\nYou're not hurt, are you?",
@@ -2142,17 +2142,17 @@
     "7GJOBg": {
         "en-US": "[Wizard]\n...",
         "pt-BR": "[Bruxa]\n...",
-        "es-ES": "[Hechicero]\n…"
+        "es-ES": "[Hechicero]\n..."
     },
     "7WJOBg": {
         "en-US": "...Are you not a human?",
         "pt-BR": "... Quem é você?",
-        "es-ES": "…¿No eres humano?"
+        "es-ES": "...¿No eres humano?"
     },
     "7mJOBg": {
         "en-US": "[Wizard]\nI'm...\nMy name is ^0000CDBomi^000000.\nI'm sorry I'm not the person you're looking for.",
         "pt-BR": "[Bruxa]\nMeu nome é ^0000CDBomi^000000. Desculpe, não sou quem você está procurando.",
-        "es-ES": "[Hechicero]\nSoy… \nMe llamo ^0000CDBomi^000000. \nSiento no ser la persona que buscas."
+        "es-ES": "[Hechicero]\nSoy... \nMe llamo ^0000CDBomi^000000. \nSiento no ser la persona que buscas."
     },
     "72JOBg": {
         "en-US": "[{0}]\nBomi?\nWait, you're that Bomi?",
@@ -2172,7 +2172,7 @@
     "8mJOBg": {
         "en-US": "[{0}]\nI didn't mean to be nosy.\nI had to know who it belonged to, so I could?",
         "pt-BR": "[{0}]\nDesculpa ter lido seu diário sem sua permissão...",
-        "es-ES": "[{0}]\nNo quise entrometerme. \nTenía que saber a quién le pertenecía, para poder…"
+        "es-ES": "[{0}]\nNo quise entrometerme. \nTenía que saber a quién le pertenecía, para poder..."
     },
     "82JOBg": {
         "en-US": "[Bomi]\nI threw it away.",
@@ -2217,7 +2217,7 @@
     "+2JOBg": {
         "en-US": "...You got betrayed?",
         "pt-BR": "Traição...!",
-        "es-ES": "…¿Te traicionaron?"
+        "es-ES": "...¿Te traicionaron?"
     },
     "/GJOBg": {
         "en-US": "[Bomi]\nMost people try to make the most out of life because they know they can't live forever.",
@@ -2242,7 +2242,7 @@
     "AGNOBg": {
         "en-US": "[Bomi]\nI didn't realize a strong mind comes from a strong body, though...",
         "pt-BR": "[Bomi]\nO que eu não sabia... eu precisava de preparo físico também.",
-        "es-ES": "[Bomi]\nAunque no sabía que una mente fuerte viene de un cuerpo fuerte…"
+        "es-ES": "[Bomi]\nAunque no sabía que una mente fuerte viene de un cuerpo fuerte..."
     },
     "AWNOBg": {
         "en-US": "[Bomi]\nMagic was exhausting to both my mind and my body.\nI reached my limits more quickly than I thought.\nBut I wasn't upset.\nI thought I could remedy that.",
@@ -2277,7 +2277,7 @@
     "B2NOBg": {
         "en-US": "Nightmares, mushrooms, Undead...",
         "pt-BR": "Pesadelos, cogumelos, mortos-vivos...",
-        "es-ES": "Pesadillas, Hongos, No-muertos…"
+        "es-ES": "Pesadillas, Hongos, No-muertos..."
     },
     "CGNOBg": {
         "en-US": "There's one more.",
@@ -2332,7 +2332,7 @@
     "EmNOBg": {
         "en-US": "But how? Wait, are you offering...? No, thanks.",
         "pt-BR": "Como.... Como assim...? Não precisa retribuir!",
-        "es-ES": "¿Pero cómo?  Espera, ¿estás ofreciendo…?   No, gracias."
+        "es-ES": "¿Pero cómo?  Espera, ¿estás ofreciendo...?   No, gracias."
     },
     "E2NOBg": {
         "en-US": "You want them so badly that you're risking your life by studying in a place like this.",
@@ -2492,7 +2492,7 @@
     "MmNOBg": {
         "en-US": "[Bomi]\nLet's see...",
         "pt-BR": "[Bomi]\nOh...",
-        "es-ES": "[Bomi]\nVeamos…"
+        "es-ES": "[Bomi]\nVeamos..."
     },
     "M2NOBg": {
         "en-US": "[Bomi]\nThank you.",
@@ -2532,7 +2532,7 @@
     "OmNOBg": {
         "en-US": "[Bomi]\nBut even their sap cannot completely remove the toxins in the blood.\nAnd when I ingest too much toxins...",
         "pt-BR": "[Bomi]\nNo entanto, a seiva não elimina completamente as toxinas. Então, às vezes, as toxinas se acumulam no corpo a níveis perigosos...",
-        "es-ES": "[Bomi]\nPero ni siquiera su savia puede eliminar por completo las toxinas de la sangre. \nY cuando ingiero demasiadas toxinas…"
+        "es-ES": "[Bomi]\nPero ni siquiera su savia puede eliminar por completo las toxinas de la sangre. \nY cuando ingiero demasiadas toxinas..."
     },
     "O2NOBg": {
         "en-US": "Maybe you should've chosen a different career path.",
@@ -2567,7 +2567,7 @@
     "QWNOBg": {
         "en-US": "[Bomi]\nI hope you'll find him soon. I'm not the only one here, you know. If you haven't found him, maybe he's...",
         "pt-BR": "[Bomi]\nEspero que você encontre, eu não sou a única daqui, então....",
-        "es-ES": "[Bomi]\nEspero que lo encuentres pronto. No soy la única aquí, sabes. Si no lo has encontrado, tal vez…"
+        "es-ES": "[Bomi]\nEspero que lo encuentres pronto. No soy la única aquí, sabes. Si no lo has encontrado, tal vez..."
     },
     "QmNOBg": {
         "en-US": "[Bomi]\nNever mind. Good luck finding him.\nMaybe you should check the catacombs in the south.",
@@ -2627,7 +2627,7 @@
     "TWNOBg": {
         "en-US": "[Bomi]\nBut...\nBut I really didn't hurt anyone.",
         "pt-BR": "[Marina]\nOs mortos descansam na terra! O que você acha que é?",
-        "es-ES": "[Bomi]\nPero… \nPero en realidad no lastimé a nadie."
+        "es-ES": "[Bomi]\nPero... \nPero en realidad no lastimé a nadie."
     },
     "TmNOBg": {
         "en-US": "[Marina]\nThat doesn't guarantee you won't in the future.",
@@ -2667,12 +2667,12 @@
     "VWNOBg": {
         "en-US": "[Bomi]\n...Dracula?\nWhy?",
         "pt-BR": "[Bomi]\nDrácula...? Você... Por quê?",
-        "es-ES": "[Bomi]\n…¿Drácula? \n¿Por qué?"
+        "es-ES": "[Bomi]\n...¿Drácula? \n¿Por qué?"
     },
     "VmNOBg": {
         "en-US": "[Marina]\nThere's another vampire!\nNo wonder why this place felt so off?\nIt's filled with vampires!",
         "pt-BR": "[Marina]\nO que é isso? Um covil de vampiros?!",
-        "es-ES": "[Marina]\n¡Hay otro vampiro! \nCon razon qué este lugar se sentía tan mal… \n¡Está lleno de vampiros!"
+        "es-ES": "[Marina]\n¡Hay otro vampiro! \nCon razon qué este lugar se sentía tan mal... \n¡Está lleno de vampiros!"
     },
     "V2NOBg": {
         "en-US": "Hey, you bat, the one over there!  Are you also a vampire?",
@@ -2742,12 +2742,12 @@
     "ZGNOBg": {
         "en-US": "[Dracula]\nDon't touch Bomi...\nShe...\nI...\nWe don't want to hurt anyone...\nShe's taught me that...",
         "pt-BR": "[Drácula]\nNão toque em Bomi... Bomi, eu... não machuquei ninguém... Isso é... o que eu aprendi.",
-        "es-ES": "[Drácula]\nNo toquen a Bomi… \nElla… \nYo… \nNo queremos lastimar a nadie… \nElla me enseñó que…"
+        "es-ES": "[Drácula]\nNo toquen a Bomi... \nElla... \nYo... \nNo queremos lastimar a nadie... \nElla me enseñó que..."
     },
     "ZWNOBg": {
         "en-US": "Hmpf, you should worry about yourself?  You're dying!",
         "pt-BR": "Quem você pensa que é para se preocupar desse jeito?!",
-        "es-ES": "Pff, deberías preocuparte por ti…  ¡Te estás muriendo!"
+        "es-ES": "Pff, deberías preocuparte por ti...  ¡Te estás muriendo!"
     },
     "ZmNOBg": {
         "en-US": "[Bomi]\nDracula!\nDracula!\nLet me heal you!",
@@ -2912,12 +2912,12 @@
     "hmNOBg": {
         "en-US": "[Marina]\n...",
         "pt-BR": "[Marina]\n......",
-        "es-ES": "[Marina]\n…"
+        "es-ES": "[Marina]\n..."
     },
     "h2NOBg": {
         "en-US": "[Dracula]\nMm...\nBomi?",
         "pt-BR": "[Drácula]\nUrgh.... Bomi?",
-        "es-ES": "[Drácula]\nMmm… \n¿Bomi?"
+        "es-ES": "[Drácula]\nMmm... \n¿Bomi?"
     },
     "iGNOBg": {
         "en-US": "Dracula, how are you feeling?",
@@ -2932,7 +2932,7 @@
     "imNOBg": {
         "en-US": "[Dracula]\nDid you... save me?\nI thought you wanted me to die.",
         "pt-BR": "[Drácula]\nVocê me salvou? Como naquele dia? Eu pensei que você iria... me deixar morrer.",
-        "es-ES": "[Drácula]\n¿Me… salvaste? \nPensé que querías que muriera."
+        "es-ES": "[Drácula]\n¿Me... salvaste? \nPensé que querías que muriera."
     },
     "i2NOBg": {
         "en-US": "[Bomi]\nNo, and now I understand why you made that decision.\nYou couldn't just let me die, could you?",
@@ -2947,7 +2947,7 @@
     "jWNOBg": {
         "en-US": "[Dracula]\n...",
         "pt-BR": "[Drácula]\n......",
-        "es-ES": "[Drácula]\n…"
+        "es-ES": "[Drácula]\n..."
     },
     "jmNOBg": {
         "en-US": "What are you guys doing?",
@@ -2997,7 +2997,7 @@
     "l2NOBg": {
         "en-US": "They weren't mushrooms? They were Undead!",
         "pt-BR": "Não era um cogumelo, era um zumbi.",
-        "es-ES": "No eran Hongos…   ¡Eran No-muertos!"
+        "es-ES": "No eran Hongos...   ¡Eran No-muertos!"
     },
     "mGNOBg": {
         "en-US": "Mushrooms and Undead. Same difference to me.",
@@ -3082,7 +3082,7 @@
     "qGNOBg": {
         "en-US": "...",
         "pt-BR": "......",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "qWNOBg": {
         "en-US": "[Antoine]\nBut you're dangerous to others, whether you like it or not.",
@@ -3227,7 +3227,7 @@
     "xWNOBg": {
         "en-US": "[Bomi]\n...Thank you.\nI never imagined someone would say such kind words to me one day, but I've longed to hear them.",
         "pt-BR": "[Bomi]\n... Obrigada. Eu nunca pensei que ouviria isso.",
-        "es-ES": "[Bomi]\n…Gracias. \nNunca imaginé que alguien me diría palabras tan amables algún día, pero deseaba oírlas."
+        "es-ES": "[Bomi]\n...Gracias. \nNunca imaginé que alguien me diría palabras tan amables algún día, pero deseaba oírlas."
     },
     "xmNOBg": {
         "en-US": "[Bomi]\nI couldn't get over the fact that I became a monster, but now I know better.\nI may not be a human anymore, but I'm still me.",
@@ -3267,7 +3267,7 @@
     "zWNOBg": {
         "en-US": "[Bomi]\nIf I drink this toxic blood about thirty times, I might turn...\noh, never mind.",
         "pt-BR": "[Bomi]\nSe beber deste sangue 30 vezes... Eu... ah... esquece.",
-        "es-ES": "[Bomi]\nSi bebo esta sangre tóxica unas treinta veces, podría convertirme… \noh, no importa."
+        "es-ES": "[Bomi]\nSi bebo esta sangre tóxica unas treinta veces, podría convertirme... \noh, no importa."
     },
     "zmNOBg": {
         "en-US": "[Bomi]\nThen please come back after dawn.",
@@ -3302,7 +3302,7 @@
     "1GNOBg": {
         "en-US": "[Bomi]\nIf I mix them like this and drink...",
         "pt-BR": "[Bomi]\nEu misturo isso e faço uma bebida...",
-        "es-ES": "[Bomi]\nSi los mezclo así y bebo…"
+        "es-ES": "[Bomi]\nSi los mezclo así y bebo..."
     },
     "1WNOBg": {
         "en-US": "[Bomi]\nOh, no!\nThere are too many toxins in my body.\nIt's getting dangerous!",
@@ -3457,7 +3457,7 @@
     "82NOBg": {
         "en-US": "Oh, no.  That's...",
         "pt-BR": "Ah... isso... é constrangedor...",
-        "es-ES": "Oh, no.  Eso es…"
+        "es-ES": "Oh, no.  Eso es..."
     },
     "9GNOBg": {
         "en-US": "King, I told you, we are not drinking from people anymore.  And that's not a polite thing to say.  I apologize on his behalf.",
@@ -3542,7 +3542,7 @@
     "BGROBg": {
         "en-US": "Um... I can move fine now. Can I go?",
         "pt-BR": "Então, eu... já estou curado... Posso ir embora?",
-        "es-ES": "Eh…   Ahora puedo moverme bien.   ¿Puedo irme?"
+        "es-ES": "Eh...   Ahora puedo moverme bien.   ¿Puedo irme?"
     },
     "BWROBg": {
         "en-US": "Yes, you can leave.",
@@ -3582,12 +3582,12 @@
     "DGROBg": {
         "en-US": "[{0}]\nTypical wizard...\nWait, could that be Jojo??",
         "pt-BR": "[{0}]\nRoupas de bruxo... Será Jojo?",
-        "es-ES": "[{0}]\nTípico Hechicero… \nEspera, ¿ese podría ser Jojo?"
+        "es-ES": "[{0}]\nTípico Hechicero... \nEspera, ¿ese podría ser Jojo?"
     },
     "DWROBg": {
         "en-US": "Typical wizard... Wait, could that be Jojo??",
         "pt-BR": "Roupas de bruxo... Será Jojo?",
-        "es-ES": "Típico Hechicero…   Espera, ¿ese podría ser Jojo?"
+        "es-ES": "Típico Hechicero...   Espera, ¿ese podría ser Jojo?"
     },
     "DmROBg": {
         "en-US": "Jojo? Are you Jojo?",
@@ -3682,7 +3682,7 @@
     "IGROBg": {
         "en-US": "[Dracula]\n...I see.\nHow is she?",
         "pt-BR": "[Drácula]\nAh... E como Bomi está?",
-        "es-ES": "[Drácula]\n…Ya veo. \n¿Cómo está?"
+        "es-ES": "[Drácula]\n...Ya veo. \n¿Cómo está?"
     },
     "IWROBg": {
         "en-US": "What?  Bomi?",
@@ -3697,7 +3697,7 @@
     "I2ROBg": {
         "en-US": "Did she tell you anything about... me?",
         "pt-BR": "Bomi falou sobre mim...?",
-        "es-ES": "¿Te dijo algo sobre… mí?"
+        "es-ES": "¿Te dijo algo sobre... mí?"
     },
     "JGROBg": {
         "en-US": "[King]\nWow, so you've been hanging around here all this time because of that ungrateful girl.\nIs that it?",
@@ -3722,7 +3722,7 @@
     "KGROBg": {
         "en-US": "[Jojo]\nEternal life...!",
         "pt-BR": "[Jojo]\nVida eterna...!",
-        "es-ES": "[Jojo]\n¡Vida eterna…!"
+        "es-ES": "[Jojo]\n¡Vida eterna...!"
     },
     "KWROBg": {
         "en-US": "[King]\nThat's the normal reaction from humans!\nShe's ungrateful!",
@@ -3847,7 +3847,7 @@
     "QWROBg": {
         "en-US": "[Dracula]\nBy then, I'd fully regained my strength, and those humans weren't a match for me.\nBut Bomi...\nShe didn't want anyone to get hurt.",
         "pt-BR": "[Drácula]\nMesmo fraca, Bomi quis me proteger dos exorcistas, ela não queria que ninguém se machucasse.",
-        "es-ES": "[Drácula]\nPara entonces, ya había recuperado todas mis fuerzas, y esos humanos no eran rivales para mí. \nPero Bomi… \nNo quería que nadie saliera herido."
+        "es-ES": "[Drácula]\nPara entonces, ya había recuperado todas mis fuerzas, y esos humanos no eran rivales para mí. \nPero Bomi... \nNo quería que nadie saliera herido."
     },
     "QmROBg": {
         "en-US": "[Dracula]\nLong story short, she got caught in the crossfire.\nShe was dying and I panicked.",
@@ -3982,12 +3982,12 @@
     "XGROBg": {
         "en-US": "[King]\nNo.\nIt's from somewhere else, and I'm smelling more than one human.\nA ^0000CDfight^000000!\nA fight broke out somewhere!\nBlood!\nLet's go!",
         "pt-BR": "[Qing]\nNão você, mas um cheiro vindo de outras pessoas... ^0000CDUma briga^000000! Tá rolando uma luta! Vamos lá ver!",
-        "es-ES": "[King]\nNo. \nEs de otro lugar, y estoy oliendo a más de un humano… \n¡Una ^0000CDpelea^000000! \n¡Se desató una pelea en alguna parte! \n¡Sangre! \n¡Vamos!"
+        "es-ES": "[King]\nNo. \nEs de otro lugar, y estoy oliendo a más de un humano... \n¡Una ^0000CDpelea^000000! \n¡Se desató una pelea en alguna parte! \n¡Sangre! \n¡Vamos!"
     },
     "XWROBg": {
         "en-US": "[{0}]\nA fight?\n...No.\nWhat if the people from the Church found Bomi?",
         "pt-BR": "[{0}]\nUma luta? Será que aconteceu algo com Bomi e os exorcistas?",
-        "es-ES": "[{0}]\n¿Una pelea?\n… \nNo. \n¿Y si la gente de la Iglesia encontró a Bomi?"
+        "es-ES": "[{0}]\n¿Una pelea?\n... \nNo. \n¿Y si la gente de la Iglesia encontró a Bomi?"
     },
     "XmROBg": {
         "en-US": "[Dracula]\nWhat people from the Church?",
@@ -4027,7 +4027,7 @@
     "ZWROBg": {
         "en-US": "[Jojo]\nUm... Adventurer?",
         "pt-BR": "[Jojo]\nEu...?",
-        "es-ES": "[Jojo]\nEh… \n¿Aventurero?"
+        "es-ES": "[Jojo]\nEh... \n¿Aventurero?"
     },
     "ZmROBg": {
         "en-US": "[King]\nHe just came back from hunting.\nYou should let him rest, at least for the rest of the day.",
@@ -4042,7 +4042,7 @@
     "aGROBg": {
         "en-US": "[Jojo]\nTh-then see you tomorrow, Adventurer...",
         "pt-BR": "[Jojo]\nVejo você amanhã, viajante...",
-        "es-ES": "[Jojo]\nEntonces hasta mañana, aventurero…"
+        "es-ES": "[Jojo]\nEntonces hasta mañana, aventurero..."
     },
     "aWROBg": {
         "en-US": "[King]\nLook what we've got here.\nDid you forget what I asked?\nI told you to ^0000CDhunt 10 Matte Drainliars and bring 20 Short Bat Hairs^000000.",
@@ -4122,7 +4122,7 @@
     "eGROBg": {
         "en-US": "[Jojo]\nWell, there are things around here that I want to study, and...",
         "pt-BR": "[Jojo]\nEu preciso investigar umas coisinhas...",
-        "es-ES": "[Jojo]\nBueno, hay cosas por aquí que quiero estudiar, y…"
+        "es-ES": "[Jojo]\nBueno, hay cosas por aquí que quiero estudiar, y..."
     },
     "eWROBg": {
         "en-US": "[King]\nDo you have a death wish?\nHaven't you noticed how hungry and ferocious these bats are?\nThey latch onto anything that moves, these creeps!\nTake care of them for me, will you?",
@@ -4177,7 +4177,7 @@
     "g2ROBg": {
         "en-US": "Yes...?",
         "pt-BR": "Hematófago...",
-        "es-ES": "¿Sí…?"
+        "es-ES": "¿Sí...?"
     },
     "hGROBg": {
         "en-US": "Am I a bat?",
@@ -4187,7 +4187,7 @@
     "hWROBg": {
         "en-US": "...No.",
         "pt-BR": "Se alimenta de sangue...",
-        "es-ES": "…No."
+        "es-ES": "...No."
     },
     "hmROBg": {
         "en-US": "[King]\nIn case you have forgotten, do you know how you're still standing there, breathing?",
@@ -4197,7 +4197,7 @@
     "h2ROBg": {
         "en-US": "[Jojo]\n...\nHow?",
         "pt-BR": "[Jojo]\nSério...?",
-        "es-ES": "[Jojo]\n…\n¿Por que?"
+        "es-ES": "[Jojo]\n...\n¿Por que?"
     },
     "iGROBg": {
         "en-US": "[King]\nBecause I let you.\nAnd I'm letting you breathe not because you're worth living, but because I'm too lazy to kill you.",
@@ -4207,7 +4207,7 @@
     "iWROBg": {
         "en-US": "[Jojo]\n...Oh.\nThank you for everything.\nUm, I think it's time I should rejoin my group.",
         "pt-BR": "[Jojo]\n...Ah... Muito obrigado. Bem, posso ir então?",
-        "es-ES": "[Jojo]\n…Oh. \nGracias por todo. \nCreo que es hora de que me reincorpore a mi grupo."
+        "es-ES": "[Jojo]\n...Oh. \nGracias por todo. \nCreo que es hora de que me reincorpore a mi grupo."
     },
     "imROBg": {
         "en-US": "[King]\nI'm still talking to you.\nYou're not afraid of me because I'm in bat form, are you?\nYou humans are so stupid, you can't get past what you see.",
@@ -4322,7 +4322,7 @@
     "oGROBg": {
         "en-US": "[King]\n...\nThat's a big dream, an impossible dream.\nWell, anyone can dream big.",
         "pt-BR": "[Qing]\n...É um belo sonho. Ele pode se tornar realidade se você se esforçar muito.",
-        "es-ES": "[King]\n…\nEs un gran sueño, un sueño imposible. \nBueno, cualquiera puede soñar a lo grande."
+        "es-ES": "[King]\n...\nEs un gran sueño, un sueño imposible. \nBueno, cualquiera puede soñar a lo grande."
     },
     "oWROBg": {
         "en-US": "Argh, come on!",
@@ -4377,7 +4377,7 @@
     "q2ROBg": {
         "en-US": "[Jojo]\n...\nHow did you...?",
         "pt-BR": "[Jojo]\n.... Desde sempre...",
-        "es-ES": "[Jojo]\n…\n¿Cómo lo has…?"
+        "es-ES": "[Jojo]\n...\n¿Cómo lo has...?"
     },
     "rGROBg": {
         "en-US": "[King]\nI've known that from the beginning.\nYour face is so transparent, you can't hide anything.\nI just didn't say anything because I found it funny that you nervously kept glancing at us.",
@@ -4387,7 +4387,7 @@
     "rWROBg": {
         "en-US": "[Jojo]\n...\nOh.\nThen can I ask you questions?",
         "pt-BR": "[Jojo]\nAh... então, eu posso perguntar?",
-        "es-ES": "[Jojo]\n…\nOh. \nEntonces, ¿puedo hacerte preguntas?"
+        "es-ES": "[Jojo]\n...\nOh. \nEntonces, ¿puedo hacerte preguntas?"
     },
     "rmROBg": {
         "en-US": "No.",
@@ -4417,7 +4417,7 @@
     "s2ROBg": {
         "en-US": "[Jojo]\nAdventurer, please bring me the bat hair.\nKing?\nI mean, Mr. King?\nHow much bat hair do I need?",
         "pt-BR": "[Jojo]\nViajante, eu preciso de alguns cabelos de morcego. Quantos você usa, Qing?",
-        "es-ES": "[Jojo]\nAventurero, por favor, tráeme el cabello de murciélago. \nKing… \nQuiero decir, Señor King… \n¿cuánto cabello de murciélago necesito?"
+        "es-ES": "[Jojo]\nAventurero, por favor, tráeme el cabello de murciélago. \nKing... \nQuiero decir, Señor King... \n¿cuánto cabello de murciélago necesito?"
     },
     "tGROBg": {
         "en-US": "[King]\nThat depends on what kind of cape you want.\nJust know that it's tough to make stuff with hair.",
@@ -4617,7 +4617,7 @@
     "22ROBg": {
         "en-US": "I...  I'm still a wizard!",
         "pt-BR": "Eu sou um Bruxo, não Feiticeiro!",
-        "es-ES": "Yo…  ¡Sigo siendo un Hechicero!"
+        "es-ES": "Yo...  ¡Sigo siendo un Hechicero!"
     },
     "3GROBg": {
         "en-US": "What?  I can't hear you.",
@@ -4647,7 +4647,7 @@
     "4WROBg": {
         "en-US": "[Jojo]\n...",
         "pt-BR": "[Jojo]\n......",
-        "es-ES": "[Jojo]\n…"
+        "es-ES": "[Jojo]\n..."
     },
     "4mROBg": {
         "en-US": "[King]\nNo, you didn't.\nThat's why you had your butt handed to you by those mushrooms.",
@@ -4737,7 +4737,7 @@
     "82ROBg": {
         "en-US": "[Jojo]\nNo, no!\nI'd love to!\nBut?\nerm?\nYou're not going to ask for my blood in return, are you?",
         "pt-BR": "[Jojo]\nAh... realmente eu não gostaria de viver bebendo sangue.",
-        "es-ES": "[Jojo]\n¡No, no! \n¡Me encantaría! \nPero… \nNo me pedirás sangre a cambio, ¿verdad?"
+        "es-ES": "[Jojo]\n¡No, no! \n¡Me encantaría! \nPero... \nNo me pedirás sangre a cambio, ¿verdad?"
     },
     "9GROBg": {
         "en-US": "[King]\n*Snort* If I drink anything because I'm hungry, I wouldn't be any better than those Matte Drainliars now, would I?",
@@ -4777,7 +4777,7 @@
     "+2ROBg": {
         "en-US": "[Jojo]\nOh, well.\n.. I'm\n... Neon Mushrooms are\n... You know.",
         "pt-BR": "[Jojo]\nAh... por que não me dei bem com cogumelos no passado...",
-        "es-ES": "[Jojo]\nOh, bueno\n… Yo\n… Los Hongos de neón son\n… Ya sabes."
+        "es-ES": "[Jojo]\nOh, bueno\n... Yo\n... Los Hongos de neón son\n... Ya sabes."
     },
     "/GROBg": {
         "en-US": "You said you were attacked by zombies.",
@@ -4797,7 +4797,7 @@
     "/2ROBg": {
         "en-US": "[Jojo]\nI have an empty bottle?\nOh, I forgot I lost my bag when I was attacked.",
         "pt-BR": "[Jojo]\nNa parede...! Ah! Preciso usar algo que cole na parede...",
-        "es-ES": "[Jojo]\nTengo una botella vacía\n… oh, olvidé que perdí mi bolso cuando me atacaron."
+        "es-ES": "[Jojo]\nTengo una botella vacía\n... oh, olvidé que perdí mi bolso cuando me atacaron."
     },
     "AGVOBg": {
         "en-US": "[Jojo]\nAdventurer, could you get me some Clusters of Nightmares as well?\nI can mix them with the spores to make a paste and apply it on the wall.",
@@ -4847,7 +4847,7 @@
     "CWVOBg": {
         "en-US": "Bomi: Oh, no... I can feel the toxins spreading through my body...!",
         "pt-BR": "Bomi : Não... A energia está se espalhando...!!!",
-        "es-ES": "Bomi: Ay, no… ¡Puedo sentir las toxinas esparciéndose por mi cuerpo…!"
+        "es-ES": "Bomi: Ay, no... ¡Puedo sentir las toxinas esparciéndose por mi cuerpo...!"
     },
     "CmVOBg": {
         "en-US": "Berserk Bomi",
@@ -4857,12 +4857,12 @@
     "C2VOBg": {
         "en-US": "Berserk Bomi: Adventurer... You should... run...",
         "pt-BR": "Bomi : Esse.... Lugar... Profundo... É...",
-        "es-ES": "Berserk Bomi: Aventurero… Deberías… correr…"
+        "es-ES": "Berserk Bomi: Aventurero... Deberías... correr..."
     },
     "DGVOBg": {
         "en-US": "Bomi: I feel better now... It's time to go back to my old self...",
         "pt-BR": "Bomi : Voltar... Agora...",
-        "es-ES": "Bomi: Ahora me siento mejor… Es hora de volver a mi antigua yo…"
+        "es-ES": "Bomi: Ahora me siento mejor... Es hora de volver a mi antigua yo..."
     },
     "DWVOBg": {
         "en-US": "Bomi is falling into a long, deep sleep.",
@@ -4932,7 +4932,7 @@
     "GmVOBg": {
         "en-US": "This one has a different color from Neon Mushrooms. Is it a new kind? I'd better pick it carefully...",
         "pt-BR": "Isso é... um cogumelo diferente dos outros......",
-        "es-ES": "Este tiene un color diferente al de los Hongos de neón.  ¿Es un nuevo tipo?  Será mejor que lo recoja con cuidado…"
+        "es-ES": "Este tiene un color diferente al de los Hongos de neón.  ¿Es un nuevo tipo?  Será mejor que lo recoja con cuidado..."
     },
     "G2VOBg": {
         "en-US": "What scrolls should we use now? We don't have many left.",
@@ -4962,17 +4962,17 @@
     "IGVOBg": {
         "en-US": "This... It must be an old memory of the notebook's owner.",
         "pt-BR": "Isso... parece ser uma antiga memória do dono do livro.",
-        "es-ES": "Este… Debe ser un viejo recuerdo de la dueña del cuaderno."
+        "es-ES": "Este... Debe ser un viejo recuerdo de la dueña del cuaderno."
     },
     "IWVOBg": {
         "en-US": "If only I could hold this vital force in a scroll...",
         "pt-BR": "Se eu pudesse colocar essa força vital dentro do pergaminho...",
-        "es-ES": "Si tan solo pudiera guardar esta fuerza vital en un pergamino…"
+        "es-ES": "Si tan solo pudiera guardar esta fuerza vital en un pergamino..."
     },
     "ImVOBg": {
         "en-US": "Ah! I failed again! It's torn...",
         "pt-BR": "Ah! Falhou de novo! Está tudo rasgado...",
-        "es-ES": "¡Ah! ¡Volví a fallar! Está rasgado…"
+        "es-ES": "¡Ah! ¡Volví a fallar! Está rasgado..."
     },
     "I2VOBg": {
         "en-US": "Ah, it died!",
@@ -5032,7 +5032,7 @@
     "LmVOBg": {
         "en-US": "But our bodies don't need souls for their survival. I still think those corpses are just...",
         "pt-BR": "Bom, não dá para viver sem alma, não importa o que façam...",
-        "es-ES": "Pero nuestros cuerpos no necesitan almas para sobrevivir. Sigo pensando que esos cadáveres son solo…"
+        "es-ES": "Pero nuestros cuerpos no necesitan almas para sobrevivir. Sigo pensando que esos cadáveres son solo..."
     },
     "L2VOBg": {
         "en-US": "Just stop talking, and take care of these.",
@@ -5172,7 +5172,7 @@
     "SmVOBg": {
         "en-US": "How can I catch it? I wish there was a way to take it to my lab...",
         "pt-BR": "Queria levar isso ao laboratório...",
-        "es-ES": "¿Cómo puedo atraparlo? Ojalá hubiera una forma de llevarlo a mi laboratorio…"
+        "es-ES": "¿Cómo puedo atraparlo? Ojalá hubiera una forma de llevarlo a mi laboratorio..."
     },
     "S2VOBg": {
         "en-US": "Fast Undead",
@@ -5237,7 +5237,7 @@
     "V2VOBg": {
         "en-US": "...Oh, you're right.",
         "pt-BR": "... Tem razão.",
-        "es-ES": "…Oh, tienes razón."
+        "es-ES": "...Oh, tienes razón."
     },
     "WGVOBg": {
         "en-US": "Global",

@@ -1,3 +1,4 @@
+
 PCJobNameTableMan = {
 	[pcJobTbl2.JT_NOVICE] = "Principiante",
 	[pcJobTbl2.JT_SWORDMAN] = "Espadachín",

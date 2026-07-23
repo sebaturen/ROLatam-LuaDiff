@@ -107,7 +107,7 @@
     "lYQe": {
         "en-US": "[Morestone]\nHe stole my dig dug!\nI can't stand to be without it...",
         "pt-BR": "[Morestone]\nEle roubou minha Cava-Cava!\nNão posso ficar sem ela...",
-        "es-ES": "[Morestone]\n¡Y me robó mi pico!\nNo puedo vivir sin él…"
+        "es-ES": "[Morestone]\n¡Y me robó mi pico!\nNo puedo vivir sin él..."
     },
     "loQe": {
         "en-US": "[{0}]\nIs this the pickaxe you are looking for?",
@@ -132,7 +132,7 @@
     "moQe": {
         "en-US": "[{0}]\nUh....\nI'm a member of^3131FF{1}^000000.",
         "pt-BR": "[{0}]\nAh...\nSou do clã ^3131FF{1}^000000.",
-        "es-ES": "[{0}]\nEh…\nSoy miembro de ^3131FF{1}^000000."
+        "es-ES": "[{0}]\nEh...\nSoy miembro de ^3131FF{1}^000000."
     },
     "m4Qe": {
         "en-US": "[Morestone]\nOh.. Your guild has a good reputation I take it.",
@@ -192,7 +192,7 @@
     "poQe": {
         "en-US": "[Dwarf]\nAhhhh....",
         "pt-BR": "[Anão]\nAaaaa...",
-        "es-ES": "[Peque]\nAaaah…"
+        "es-ES": "[Peque]\nAaaah..."
     },
     "p4Qe": {
         "en-US": "[Morestone]\nMe, Morestone am allied with {0}.\nWow, you're one of their members.\nWould you like to go there?",
@@ -337,32 +337,32 @@
     "w4Qe": {
         "en-US": "[Pierrot Doll]\nhm....",
         "pt-BR": "[Pierrô Pierre]\nHum...",
-        "es-ES": "[Muñeco Pierrot]\nMmm…"
+        "es-ES": "[Muñeco Pierrot]\nMmm..."
     },
     "xIQe": {
         "en-US": "Pierrot : hm....",
         "pt-BR": "Pierrô Pierre: Hum...",
-        "es-ES": "Pierrot: Mmm…"
+        "es-ES": "Pierrot: Mmm..."
     },
     "xYQe": {
         "en-US": "[Pierrot Doll]\nThat's right...",
         "pt-BR": "[Pierrô Pierre]\nCerto...",
-        "es-ES": "[Muñeco Pierrot]\nAsí es…"
+        "es-ES": "[Muñeco Pierrot]\nAsí es..."
     },
     "xoQe": {
         "en-US": "Pierrot : That's right...",
         "pt-BR": "Pierrô Pierre: Certo...",
-        "es-ES": "Pierrot: Así es…"
+        "es-ES": "Pierrot: Así es..."
     },
     "x4Qe": {
         "en-US": "[Pierrot Doll]\nAll right....",
         "pt-BR": "[Pierrô Pierre]\nTudo bem...",
-        "es-ES": "[Muñeco Pierrot]\nMuy bien…"
+        "es-ES": "[Muñeco Pierrot]\nMuy bien..."
     },
     "yIQe": {
         "en-US": "Pierrot : All right....",
         "pt-BR": "Pierrô Pierre: Tudo bem...",
-        "es-ES": "Pierrot: Muy bien…"
+        "es-ES": "Pierrot: Muy bien..."
     },
     "yYQe": {
         "en-US": "[Pierrot Doll]\nOK!",
@@ -377,7 +377,7 @@
     "y4Qe": {
         "en-US": "[Pierrot Doll]\nhm..\nI am quite bored waiting for him!",
         "pt-BR": "[Pierrô Pierre]\nHum...\nEstou cansado de esperar por ele!",
-        "es-ES": "[Muñeco Pierrot]\nMmm…\n¡Ya me cansé de esperarlo!"
+        "es-ES": "[Muñeco Pierrot]\nMmm...\n¡Ya me cansé de esperarlo!"
     },
     "zIQe": {
         "en-US": "[Pierrot Doll]\n^3131FF<Which came first, the chicken or the egg?>^000000.",
@@ -412,7 +412,7 @@
     "0oQe": {
         "en-US": "[Pierrot Doll]\nHere is the message from Gergoth... It's little bit old, but no need to worry.",
         "pt-BR": "[Pierrô Pierre]\nEsta é a mensagem de Gergoth. É um pouco velha, mas não se preocupe.",
-        "es-ES": "[Muñeco Pierrot]\nAquí está el mensaje de Gergoth… Es un poco viejo, pero no te preocupes."
+        "es-ES": "[Muñeco Pierrot]\nAquí está el mensaje de Gergoth... Es un poco viejo, pero no te preocupes."
     },
     "04Qe": {
         "en-US": "[Pierrot Doll]\nLet's go!",
@@ -577,7 +577,7 @@
     "84Qe": {
         "en-US": "[Pierrot Doll]\nLet me see..",
         "pt-BR": "[Pierrô Pierre]\nDeixe-me ver...",
-        "es-ES": "[Muñeco Pierrot]\nDéjame ver…"
+        "es-ES": "[Muñeco Pierrot]\nDéjame ver..."
     },
     "9IQe": {
         "en-US": "[Pierrot Doll]\nYep!!\nSuccess!\nYou're successful.",
@@ -597,7 +597,7 @@
     "94Qe": {
         "en-US": "[Pierrot Doll]\nNothing!? You didn't find anything?\nHm... just go again and try to discover something!",
         "pt-BR": "[Pierrô Pierre]\nNada! Você não encontrou ainda?\nBem, saia e encontre.",
-        "es-ES": "[Muñeco Pierrot]\n¡¿Nada?! ¿No encontraste nada?\nMmm… ¡Vuelve e intenta encontrar el tesoro!"
+        "es-ES": "[Muñeco Pierrot]\n¡¿Nada?! ¿No encontraste nada?\nMmm... ¡Vuelve e intenta encontrar el tesoro!"
     },
     "+IQe": {
         "en-US": "[Pierrot Doll]\nOh, god!!\nDid you run out of time?!",
@@ -617,7 +617,7 @@
     "+4Qe": {
         "en-US": "Give me more time...",
         "pt-BR": "Estou quase no fim...",
-        "es-ES": "Dame más tiempo…"
+        "es-ES": "Dame más tiempo..."
     },
     "/IQe": {
         "en-US": "[Pierrot Doll]\nTreasure hunting is supposed to be easy, and valuable for you!",
@@ -627,7 +627,7 @@
     "/YQe": {
         "en-US": "[Pierrot Doll]\nInvaluable things!\nTime flies so fast, too bad...",
         "pt-BR": "[Pierrô Pierre]\nAh, o tempo!\nO tempo passa tão depressa, é uma pena...",
-        "es-ES": "[Muñeco Pierrot]\n¡Cosas de valor incalculable!\nEl tiempo pasa muy rápido, qué lástima…"
+        "es-ES": "[Muñeco Pierrot]\n¡Cosas de valor incalculable!\nEl tiempo pasa muy rápido, qué lástima..."
     },
     "/oQe": {
         "en-US": "[Pierrot Doll]\nThis is Pierrot Doll! I'm not that cold.",
@@ -777,7 +777,7 @@
     "G4Ue": {
         "en-US": "[Pierrot Doll]\nhm..\nI am quite boring to wait for him!",
         "pt-BR": "[Pierrô Pierre]\nHum...\nEstou cansado de esperar por ele!",
-        "es-ES": "[Muñeco Pierrot]\nMmm…\n¡Ya me aburrí de esperarlo!"
+        "es-ES": "[Muñeco Pierrot]\nMmm...\n¡Ya me aburrí de esperarlo!"
     },
     "HIUe": {
         "en-US": "[Pierrot Doll]\n^3131FF<You're not that generous, but passionate to things you're interested in.>^000000",
@@ -827,7 +827,7 @@
     "JYUe": {
         "en-US": "[Pierrot Doll]\nOh!!\nAre you running out of time? Isn't it thrilling? kkk..!",
         "pt-BR": "[Pierrô Pierre]\nOh!\nSeu tempo está se esgotando? Isso não é emocionante? Haha!",
-        "es-ES": "[Muñeco Pierrot]\n¡Ah!\n¿Se te acabó el tiempo? ¿No es emocionante? ¡Je, je…!"
+        "es-ES": "[Muñeco Pierrot]\n¡Ah!\n¿Se te acabó el tiempo? ¿No es emocionante? ¡Je, je...!"
     },
     "JoUe": {
         "en-US": "[Pierrot Doll]\nCongratulations!\nI will discuss in detail with your leader.",
@@ -907,7 +907,7 @@
     "NYUe": {
         "en-US": "Gergoth : As well as we trusted each other faithfully.",
         "pt-BR": "Gergoth: E, mesmo assim, confiávamos um no outro.",
-        "es-ES": "Gergoth: Y además existía una confianza total entre nosotros…"
+        "es-ES": "Gergoth: Y además existía una confianza total entre nosotros..."
     },
     "NoUe": {
         "en-US": "Gergoth : When I lost my mother's remains on the Mt. Mjolnir, you suddenly appeard in front of me.",
@@ -932,12 +932,12 @@
     "OoUe": {
         "en-US": "Gergoth : I prepared some presents for you and your valuable children. Heh..",
         "pt-BR": "Gergoth: Preparei presentes para você e suas preciosas crianças. He he...",
-        "es-ES": "Gergoth: Por eso, preparé algunos regalos para ti y tus valiosos niños. Je…"
+        "es-ES": "Gergoth: Por eso, preparé algunos regalos para ti y tus valiosos niños. Je..."
     },
     "O4Ue": {
         "en-US": "Gergoth : Pier will help you. I hope that you will have a child's mentality forever...",
         "pt-BR": "Gergoth: Pierre pode ajudar você. Espero que você nunca mude...",
-        "es-ES": "Gergoth: Pierrot te ayudará. Espero que siempre conserves esa inocencia infantil…"
+        "es-ES": "Gergoth: Pierrot te ayudará. Espero que siempre conserves esa inocencia infantil..."
     },
     "PIUe": {
         "en-US": "Event controller",

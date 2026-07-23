@@ -82,22 +82,22 @@
     "EHyS": {
         "en-US": "[?]\n^3299CCNever think\nof such a thing...\nMy son.^000000",
         "pt-BR": "[?]\n^3299CCNem pense\nnuma coisa dessas...\nMeu filho.^000000",
-        "es-ES": "[¿?]\n^3299CCJamás pienses hacer tal cosa, hijo mío…^000000"
+        "es-ES": "[¿?]\n^3299CCJamás pienses hacer tal cosa, hijo mío...^000000"
     },
     "EXyS": {
         "en-US": "[Young Man]\nEEEEEEK-!\nWhat was that?!\nG-grandpa...?",
         "pt-BR": "[Jovem rapaz]\nAAAAAAAAAH-!\nO que foi isso?!\nV-vovô...?",
-        "es-ES": "[Hombre Joven]\n¡AAAH-!\n¡¿Qué fue eso?!\n¿A-abuelo…?"
+        "es-ES": "[Hombre Joven]\n¡AAAH-!\n¡¿Qué fue eso?!\n¿A-abuelo...?"
     },
     "EnyS": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "E3yS": {
         "en-US": "...\n......\n[Young Man]\n...\nG-God...?",
         "pt-BR": "...\n......\n[Jovem rapaz]\n...\nD-Deus...?",
-        "es-ES": "[Hombre Joven]\n¿D-dios…?"
+        "es-ES": "[Hombre Joven]\n¿D-dios...?"
     },
     "FHyS": {
         "en-US": "Waitress",
@@ -107,27 +107,27 @@
     "FXyS": {
         "en-US": "[Pub Lady]\nThis place is always bustling with busy people. Little Novices come and go to become Archers, and everyone else is buying arrows while I have to stay here in this small shop.",
         "pt-BR": "[Mulher do Pub]\nEste lugar está sempre cheio. É um entra-e-sai de Aprendizes querendo se tornar arqueiros, e outros tantos comprando flechas enquanto eu tenho que ficar aqui no balcão.",
-        "es-ES": "[Muchacha del bar]\nEsta aldea siempre está llena de gente bulliciosa.\nPrincipiantes que vienen y van para convertirse en Arqueros y otros que vienen a comprar flechas…\nMientras tanto, yo me tengo que quedar aquí, en esta tienducha."
+        "es-ES": "[Muchacha del bar]\nEsta aldea siempre está llena de gente bulliciosa.\nPrincipiantes que vienen y van para convertirse en Arqueros y otros que vienen a comprar flechas...\nMientras tanto, yo me tengo que quedar aquí, en esta tienducha."
     },
     "FnyS": {
         "en-US": "[Pub Lady]\nAnd I'm sick and tired of making this noodle soup. I have to shower all the time so I can get rid of the smell. And it's not so easy\nto get rid of.",
         "pt-BR": "[Mulher do Pub]\nE estou cansada de fazer essa sopa de macarrão. Tenho que tomar banho o tempo todo para me livrar do cheiro. E é um cheiro que gruda...",
-        "es-ES": "[Muchacha del bar]\nYa estoy harta de cocinar sopa de fideos. Me la paso duchándome para quitarme el olor. Y no se quita fácil…"
+        "es-ES": "[Muchacha del bar]\nYa estoy harta de cocinar sopa de fideos. Me la paso duchándome para quitarme el olor. Y no se quita fácil..."
     },
     "F3yS": {
         "en-US": "[Pub Lady]\nI feel so...\nBored.\nAnd lonely...",
         "pt-BR": "[Mulher do Pub]\nEstou me sentindo tão...\nentediada.\nE solitária...",
-        "es-ES": "[Muchacha del bar]\nEstoy tan… aburrida.\nY sola…"
+        "es-ES": "[Muchacha del bar]\nEstoy tan... aburrida.\nY sola..."
     },
     "GHyS": {
         "en-US": "[Pub Lady]\nWhere I can find the right person, a hot and sexy hunk who can take me away from here? Um, hey mister, are you listening?",
         "pt-BR": "[Mulher do Pub]\nOnde vou encontrar a pessoa certa pra mim? Um cara gostoso e sexy que possa me levar para longe daqui? Hum, ei, moço, está me ouvindo?",
-        "es-ES": "[Muchacha del bar]\n¿Dónde podré encontrar a la persona correcta? Un hombre sensible pero de cuerpo fornido que pueda sacarme de aquí…\nOye, tú, ¿me estás escuchando?"
+        "es-ES": "[Muchacha del bar]\n¿Dónde podré encontrar a la persona correcta? Un hombre sensible pero de cuerpo fornido que pueda sacarme de aquí...\nOye, tú, ¿me estás escuchando?"
     },
     "GXyS": {
         "en-US": "[Pub Lady]\nWhere I can find the right person, a cute, yet hard-bodied hunk who can take me away from here?\nUm, hey lady, are\nyou listening?",
         "pt-BR": "[Mulher do Pub]\nOnde vou encontrar a pessoa certa pra mim? Uma mulher linda de rosto, mas com um corpaço, que possa me levar para longe daqui?\nHum, ei, moça, está\nme ouvindo?",
-        "es-ES": "[Muchacha del bar]\n¿Dónde podré encontrar a la persona correcta? Un hombre sensible pero de cuerpo fornido que pueda sacarme de aquí…\nOye, tú, ¿me estás escuchando?"
+        "es-ES": "[Muchacha del bar]\n¿Dónde podré encontrar a la persona correcta? Un hombre sensible pero de cuerpo fornido que pueda sacarme de aquí...\nOye, tú, ¿me estás escuchando?"
     },
     "GnyS": {
         "en-US": "[Pub Lady]\nThe old fortune teller told me that I'd have great luck in the near future! But what's wrong with me? I'm just living day to day. Maybe I'm just dumb and wishy-washy.",
@@ -142,7 +142,7 @@
     "HHyS": {
         "en-US": "[Pub Lady]\nSo...\nHow may I help you?",
         "pt-BR": "[Mulher do Pub]\nEntão...\nEm que posso ajudar?",
-        "es-ES": "[Muchacha del bar]\nAsí que…\n¿En qué puedo ayudarte?"
+        "es-ES": "[Muchacha del bar]\nAsí que...\n¿En qué puedo ayudarte?"
     },
     "HXyS": {
         "en-US": "Have you ever heard of Zombies?",
@@ -267,7 +267,7 @@
     "NXyS": {
         "en-US": "[Woman]\n To be honest, things are getting tough because of all those monsters. ^666666*Sigh...*^000000",
         "pt-BR": "[Mulher]\nSinceramente, as coisas estão ficando bem difíceis por causa dos monstros. ^666666*Suspiro...*^000000",
-        "es-ES": "[Mujer]\n A decir verdad, las cosas se están poniendo difíciles debido a todos esos monstruos. ^666666*Suspira…*^000000"
+        "es-ES": "[Mujer]\n A decir verdad, las cosas se están poniendo difíciles debido a todos esos monstruos. ^666666*Suspira...*^000000"
     },
     "NnyS": {
         "en-US": "[Woman]",
@@ -302,7 +302,7 @@
     "PHyS": {
         "en-US": "I better prepare myself...!",
         "pt-BR": "É melhor eu me preparar...!",
-        "es-ES": "¡Mejor me preparo…!"
+        "es-ES": "¡Mejor me preparo...!"
     },
     "PXyS": {
         "en-US": "That's a nice dress you're wearing~",
@@ -347,17 +347,17 @@
     "RXyS": {
         "en-US": "Ooh...!\nYou've got\nsuch broad shoulders!\nWill you go out with me?\nI'll treat you to\na nice dinner~",
         "pt-BR": "Aah...!\nVocê tem\nombros tão largos!\nQuer sair comigo?\nEu te faço uma comida bem gostosa~",
-        "es-ES": "¡Oh…!\n¡Tienes los\nhombros tan anchos!\n¿Saldrías conmigo?\nTe invito a\nuna buena cena."
+        "es-ES": "¡Oh...!\n¡Tienes los\nhombros tan anchos!\n¿Saldrías conmigo?\nTe invito a\nuna buena cena."
     },
     "RnyS": {
         "en-US": "My, you're a pretty girl!\nI'm sure you're always busy\nbeating the boys away with a stick...\nOr a well timed insult joke.",
         "pt-BR": "Nossa, você é muito bonita!\nImagino que esteja sempre ocupada\nsentando o sarrafo nos homens...\nOu humilhando eles com a língua afiada.",
-        "es-ES": "¡Vaya, eres una chica bonita!\nSeguro que siempre estás ocupada\nespantando a los chicos con un palo…\nO con una broma insultante en el momento oportuno."
+        "es-ES": "¡Vaya, eres una chica bonita!\nSeguro que siempre estás ocupada\nespantando a los chicos con un palo...\nO con una broma insultante en el momento oportuno."
     },
     "R3yS": {
         "en-US": "Fortune Teller...?",
         "pt-BR": "Vidente...?",
-        "es-ES": "¿La vidente…?"
+        "es-ES": "¿La vidente...?"
     },
     "SHyS": {
         "en-US": "Well, see you later~",
@@ -367,7 +367,7 @@
     "SXyS": {
         "en-US": "[Jim's Mother]\nOh yes...\nThere's an extraordinary fortune teller in the Central Palace of Payon. The more Zeny you pay her, the better fortune you'll get!",
         "pt-BR": "[Mãe do Jim]\nAh, sim...\nHá uma vidente maravilhosa no Palácio Central de Payon. Quanto mais Zeny você pagar a ela, melhor será a sua previsão!",
-        "es-ES": "[Madre de Jim]\nOh, sí…\nHay una vidente extraordinaria en el Palacio Central de Payon. ¡Cuantas más unidades de zeny le des, mejor fortuna obtendrás!"
+        "es-ES": "[Madre de Jim]\nOh, sí...\nHay una vidente extraordinaria en el Palacio Central de Payon. ¡Cuantas más unidades de zeny le des, mejor fortuna obtendrás!"
     },
     "SnyS": {
         "en-US": "[Jim's Mother]\nShe told me\nI would meet\na nice guy this month.\nHohohoho~",
@@ -387,7 +387,7 @@
     "TXyS": {
         "en-US": "[Drunkard]\nHey...\nH-Hey...!",
         "pt-BR": "[Bêbado]\nEi...\nE-ei...!",
-        "es-ES": "[Borracho]\nOye…\n¡Oye!"
+        "es-ES": "[Borracho]\nOye...\n¡Oye!"
     },
     "TnyS": {
         "en-US": "[Drunkard]\nI wonder why those\nstupid Archers even\nbother trying to aim!\nYou're all weak!\nWeeeeak!",
@@ -402,7 +402,7 @@
     "UHyS": {
         "en-US": "[Drunkard]\nAn Archer!\nOh man, you guys!\nYou guys are the best!",
         "pt-BR": "[Bêbado]\nUm arqueiro!\nAh, cara, vocês...\nVocês são os melhores!",
-        "es-ES": "[Borracho]\n¡Uno de los Arqueros!\n¡Oh, cielos! ¡Ustedes… son los mejores!"
+        "es-ES": "[Borracho]\n¡Uno de los Arqueros!\n¡Oh, cielos! ¡Ustedes... son los mejores!"
     },
     "UXyS": {
         "en-US": "Alright, but only one drink.",
@@ -482,7 +482,7 @@
     "YHyS": {
         "en-US": "Motor... Mouth?",
         "pt-BR": "Boca-de-sacola?",
-        "es-ES": "¿Es una… cotorra?"
+        "es-ES": "¿Es una... cotorra?"
     },
     "YXyS": {
         "en-US": "[Archer Zakk]\nAh, right. This buddy of mine is the number one archer in Payon.\nHe teaches newbie Archers around the Archer Village. It might be a good idea to talk to him at least once.",
@@ -512,7 +512,7 @@
     "ZnyS": {
         "en-US": "[Archer Zakk]\nYou don't know\nwhat a motormouth is...?",
         "pt-BR": "[Arqueiro Zakk]\nVocê não sabe\no que é um ''boca-de-sacola''...?",
-        "es-ES": "[Arquero Zakk]\n¿No sabes qué significa ser una cotorra…?"
+        "es-ES": "[Arquero Zakk]\n¿No sabes qué significa ser una cotorra...?"
     },
     "Z3yS": {
         "en-US": "[Archer Zakk]\nMotormouth\nNoun. Some fool who chatters\nway too much about stuff that doesn't really matter and doesn't know when to stop.",
@@ -557,7 +557,7 @@
     "b3yS": {
         "en-US": "Yeah. I guess...",
         "pt-BR": "Acho que sim...",
-        "es-ES": "Supongo que sí…"
+        "es-ES": "Supongo que sí..."
     },
     "cHyS": {
         "en-US": "[Archer Wolt]\nOoh. That's good. In fact, that's great! If only all of us Archers had that kind of attitude. If you have time to just sit around, then you have the time to go out and practice!",
@@ -567,7 +567,7 @@
     "cXyS": {
         "en-US": "[Archer Wolt]\nYeah...\nAs Archers, we kind of look\ndown on people who slack off\non the training.",
         "pt-BR": "[Arqueiro Wolt]\nSim...\nNós, arqueiros, meio que desprezamos\nas pessoas não se dedicam\nnos treinos.",
-        "es-ES": "[Arquero Wolt]\nSí…\nLos Arqueros no miramos con buenos ojos a quienes son flojos en el entrenamiento."
+        "es-ES": "[Arquero Wolt]\nSí...\nLos Arqueros no miramos con buenos ojos a quienes son flojos en el entrenamiento."
     },
     "cnyS": {
         "en-US": "[Archer Wolt]\nIf you don't work hard, then you'll end up being a horrible Archer. No one can depend on your aim!\nI mean, nobody!",
@@ -627,17 +627,17 @@
     "fXyS": {
         "en-US": "[Archer Wolt]\nAnd then we use these Bows to kill even more tree monsters... And then make more wood! Mwahahahaha! It's an endless cycle!",
         "pt-BR": "[Arqueiro Wolt]\nE depois usamos esses Arcos para matar ainda mais árvores monstruosas... E aí a gente extrai mais madeira! Hahahahaha! É um ciclo infinito!",
-        "es-ES": "[Arquero Wolt]\nY luego usamos esos arcos para matar más árboles monstruo… ¡Y entonces conseguimos más madera! ¡Mua, ja, ja, ja! ¡Es un ciclo sin fin!"
+        "es-ES": "[Arquero Wolt]\nY luego usamos esos arcos para matar más árboles monstruo... ¡Y entonces conseguimos más madera! ¡Mua, ja, ja, ja! ¡Es un ciclo sin fin!"
     },
     "fnyS": {
         "en-US": "^666666*Ahem!*^000000 Speaking of endless...",
         "pt-BR": "^666666*Ham-ham!*^000000 Falando em infinito...",
-        "es-ES": "^666666Ejem…^000000 Hablando de ciclos sin fin…"
+        "es-ES": "^666666Ejem...^000000 Hablando de ciclos sin fin..."
     },
     "f3yS": {
         "en-US": "[Archer Wolt]\nYeah...\nYou're right.\nMonsters are everywhere,\ncan you believe it?",
         "pt-BR": "[Arqueiro Wolt]\nSim...\nVocê tem razão.\nOs monstros estão em toda parte,\nacredita?",
-        "es-ES": "[Arquero Wolt]\nSí…\nTienes razón. Los monstruos están por todas partes, ¿puedes creerlo?"
+        "es-ES": "[Arquero Wolt]\nSí...\nTienes razón. Los monstruos están por todas partes, ¿puedes creerlo?"
     },
     "gHyS": {
         "en-US": "[Archer Wolt]\nDo you understand\nwhy the Archer Village\nwas built where it is?",
@@ -677,7 +677,7 @@
     "h3yS": {
         "en-US": "[Archer Wolt]\nOnce inside, you'll encounter all sorts lots of ugly monsters. Like those nasty looking Bats, and\nthose Zombies...",
         "pt-BR": "[Arqueiro Wolt]\nLá dentro, você encontrará todo o tipo de monstro desagradável, como aqueles morcegos horrorosos e\nos zumbis...",
-        "es-ES": "[Arquero Wolt]\nAllí verás todo tipo de monstruos espantosos, como unos  murciélagos horribles y también zombies…"
+        "es-ES": "[Arquero Wolt]\nAllí verás todo tipo de monstruos espantosos, como unos  murciélagos horribles y también zombies..."
     },
     "iHyS": {
         "en-US": "[Archer Wolt]\nIf we let them out of that place, they'd run all over Payon! So, we gotta get in there and clean that place up of monsters.",
@@ -687,12 +687,12 @@
     "iXyS": {
         "en-US": "[Archer Wolt]\nBut since these monsters endlessly respawn, sometimes I feel like we're wasting our time and energy for nothing...",
         "pt-BR": "[Arqueiro Wolt]\nMas como os monstros reaparecem sem parar, às vezes sinto que estamos perdendo tempo e energia em vão...",
-        "es-ES": "[Arquero Wolt]\nPero como estos monstruos reaparecen sin cesar, a veces siento que estamos perdiendo el tiempo y la energía para nada…"
+        "es-ES": "[Arquero Wolt]\nPero como estos monstruos reaparecen sin cesar, a veces siento que estamos perdiendo el tiempo y la energía para nada..."
     },
     "inyS": {
         "en-US": "[Archer Wolt]\nWhoa...\nAlright, I think yet my mouth run\na marathon again. I better let you go. There's lots of training to do, and plenty of monsters to kill!",
         "pt-BR": "[Arqueiro Wolt]\nEpa, peraí...\nÉ, acho que minha boca resolveu correr\nmais uma maratona. Não vou mais tomar seu tempo. Temos muito o que treinar e muitos monstros para matar!",
-        "es-ES": "[Arquero Wolt]\nGuau…\nBien, creo que me quedé \nsin saliva. Será mejor que te deje ir. ¡Hay que entrenar mucho y hay muchos monstruos que matar!"
+        "es-ES": "[Arquero Wolt]\nGuau...\nBien, creo que me quedé \nsin saliva. Será mejor que te deje ir. ¡Hay que entrenar mucho y hay muchos monstruos que matar!"
     },
     "i3yS": {
         "en-US": "[Archer Wolt]\nOur chief? Ah, he's such a swell guy. Then again, he's always scolds me for talking too much.",
@@ -702,7 +702,7 @@
     "jHyS": {
         "en-US": "[Archer Wolt]\nHe always working to make sure\nthat Payon is safe from harm. Lately, I've been worried since he hasn't been coming out the Palace lately. That might be a bad sign.",
         "pt-BR": "[Arqueiro Wolt]\nEle está sempre trabalhando para garantir\nque Payon esteja a salvo de qualquer perigo. Ultimamente, ando preocupado porque ele não tem saído do palácio. Isso pode ser um mau sinal.",
-        "es-ES": "[Arquero Wolt]\nSe esfuerza por proteger a Payon de cualquier daño. Estoy preocupado porque últimamente no ha salido del Palacio. Mmm, podría ser una mala señal…"
+        "es-ES": "[Arquero Wolt]\nSe esfuerza por proteger a Payon de cualquier daño. Estoy preocupado porque últimamente no ha salido del Palacio. Mmm, podría ser una mala señal..."
     },
     "jXyS": {
         "en-US": "[Archer Wolt]\nA bad sign of what, I'm not really sure. There could be problems with Payon, or maybe he's got something he needs to handle on his own. Anyway, there's always guards in his room for some reason.",
@@ -717,7 +717,7 @@
     "j3yS": {
         "en-US": "[Archer Wolt]\nBut...\nIt's not too late for me to just shut my mouth. Keep it closed. Shutting up now. Quiet as a mouse. Seeya later~!",
         "pt-BR": "[Arqueiro Wolt]\nMas...\nAinda não é tarde para eu fechar a boca. Mantê-la fechada. Calando a minha boca agora. Boca de siri. Até mais~!",
-        "es-ES": "[Arquero Wolt]\nPero…\nNo es demasiado tarde para que me calle la boca. Mantenerla cerrada. Ya me callo. Callado como una tumba. ¡Hasta luego!"
+        "es-ES": "[Arquero Wolt]\nPero...\nNo es demasiado tarde para que me calle la boca. Mantenerla cerrada. Ya me callo. Callado como una tumba. ¡Hasta luego!"
     },
     "kHyS": {
         "en-US": "[Archer Wolt]\nHmm...?\nAnd you don't?\nWhat better practice\nthan the real, honest\nto goodness thing?",
@@ -737,12 +737,12 @@
     "k3yS": {
         "en-US": "[Archer Wolt]\nHm...?\nAre you tired of me repeating the same thing over and over again?\nOh, just bear with me. Think of it as practicing your patience~",
         "pt-BR": "[Arqueiro Wolt]\nHum...?\nEstá cansado de mim repetindo a mesma coisa várias vezes?\nAh, tenha paciência comigo. Pense como se estivesse treinando sua paciência~",
-        "es-ES": "[Arquero Wolt]\n¿Mm…? ¿Ya te cansaste de que repita lo mismo una y otra vez? Oh, tenme paciencia. Tómalo como un entrenamiento para tu paciencia."
+        "es-ES": "[Arquero Wolt]\n¿Mm...? ¿Ya te cansaste de que repita lo mismo una y otra vez? Oh, tenme paciencia. Tómalo como un entrenamiento para tu paciencia."
     },
     "lHyS": {
         "en-US": "[Archer Wolt]\nEh...\nI guess it's important\nto set aside time to rest.",
         "pt-BR": "[Arqueiro Wolt]\nHã...\nAcho que é importante\nreservar um tempo para descansar.",
-        "es-ES": "[Arquero Wolt]\nEh…\nSupongo que es importante reservar tiempo para descansar."
+        "es-ES": "[Arquero Wolt]\nEh...\nSupongo que es importante reservar tiempo para descansar."
     },
     "lXyS": {
         "en-US": "[Archer Wolt]\nBut it's also a good idea to set aside time for practicing and training, and practicing and training!",
@@ -807,7 +807,7 @@
     "oXyS": {
         "en-US": "[Archer Wolt]\nOh...\nUmm...\nYou mean, like,\nthe moral of the story?",
         "pt-BR": "[Arqueiro Wolt]\nAh...\nHum...\nVocê quer dizer, tipo,\na moral da história?",
-        "es-ES": "[Arquero Wolt]\nOh…\nMmm…\n¿Quieres decir… la moraleja de la historia?"
+        "es-ES": "[Arquero Wolt]\nOh...\nMmm...\n¿Quieres decir... la moraleja de la historia?"
     },
     "onyS": {
         "en-US": "[Archer Wolt]\nResting during the right times is perfectly fine. Just don't go and take a break when you shouldn't. That kind of behavior would make anyone in our town angry!",
@@ -837,37 +837,37 @@
     "p3yS": {
         "en-US": "[Archer Wolt]\nHe always working to make sure\nthat Payon is safe from harm. Lately, I've been worried since he hasn't been coming out the Palace lately. That might be a bad sign...",
         "pt-BR": "[Arqueiro Wolt]\nEle está sempre trabalhando para garantir\nque Payon esteja a salvo de qualquer perigo. Ultimamente, ando preocupado porque ele não tem saído do palácio. Isso pode ser um mau sinal...",
-        "es-ES": "[Arquero Wolt]\nSiempre trabaja para asegurar que Payon esté a salvo de cualquier daño. Últimamente estoy preocupado porque no ha estado saliendo del Palacio. Eso podría ser una mala señal…"
+        "es-ES": "[Arquero Wolt]\nSiempre trabaja para asegurar que Payon esté a salvo de cualquier daño. Últimamente estoy preocupado porque no ha estado saliendo del Palacio. Eso podría ser una mala señal..."
     },
     "qHyS": {
         "en-US": "[Archer Wolt]\nBut...\nIt's not too late for me to just shut my mouth. Complete silence. I'm not even opening my mouth. Starting right about... Now!\nSeeya later~!",
         "pt-BR": "[Arqueiro Wolt]\nMas...\nNão é tarde para eu simplesmente calar a boca. Silêncio total. Não vou nem abrir mais a boca. A começar por... agora!\nAté mais~!",
-        "es-ES": "[Arquero Wolt]\nPero…\nNo es demasiado tarde para que me calle la boca. Silencio absoluto. Ni siquiera abriré la boca. Empezando… ¡ahora! ¡Hasta luego!"
+        "es-ES": "[Arquero Wolt]\nPero...\nNo es demasiado tarde para que me calle la boca. Silencio absoluto. Ni siquiera abriré la boca. Empezando... ¡ahora! ¡Hasta luego!"
     },
     "qXyS": {
         "en-US": "[Archer Wolt]\nYou know...\nThe guy in the pub.\nLoud, and obnoxious\nand annoying to liste--",
         "pt-BR": "[Arqueiro Wolt]\nVocê sabe...\nO cara do bar.\nBarulhento, mal-educado\ne irritante...",
-        "es-ES": "[Arquero Wolt]\nYa sabes, el tipo del bar.\nEs odioso, habla en voz muy alta y es un fastidio escucharlo…"
+        "es-ES": "[Arquero Wolt]\nYa sabes, el tipo del bar.\nEs odioso, habla en voz muy alta y es un fastidio escucharlo..."
     },
     "qnyS": {
         "en-US": "[Archer Wolt]\nHmm...?\nWhat's that look for?\nAnyway, when I have\nsome spare cash, I try\nto buy him a drink.",
         "pt-BR": "[Arqueiro Wolt]\nHum...?\nQue cara é essa?\nEnfim, quando tenho\nalgum dinheiro sobrando, eu tento\ncomprar uma bebida para ele.",
-        "es-ES": "[Arquero Wolt]\n¿Mmm…?\n¿Por qué me miras así?\nEn fin, cuando tengo algo de dinero, intento invitarle un trago."
+        "es-ES": "[Arquero Wolt]\n¿Mmm...?\n¿Por qué me miras así?\nEn fin, cuando tengo algo de dinero, intento invitarle un trago."
     },
     "q3yS": {
         "en-US": "[Archer Wolt]\nStill...\nIt's not a good\nidea to drink so much.\nOr as much as he does...",
         "pt-BR": "[Arqueiro Wolt]\nMesmo assim...\nNão é uma boa\nideia beber muito.\nOu tanto quanto ele bebe...",
-        "es-ES": "[Arquero Wolt]\nAun así…\nNo es buena idea beber mucho.\nO tanto como él…"
+        "es-ES": "[Arquero Wolt]\nAun así...\nNo es buena idea beber mucho.\nO tanto como él..."
     },
     "rHyS": {
         "en-US": "[Archer Wolt]\n...!",
         "pt-BR": "[Arqueiro Wolt]\n...!",
-        "es-ES": "[Arquero Wolt]\n¡…!"
+        "es-ES": "[Arquero Wolt]\n¡...!"
     },
     "rXyS": {
         "en-US": "[Archer Wolt]\n...\nI...\nB-but...!",
         "pt-BR": "[Arqueiro Wolt]\n...\nI...\nMas...!",
-        "es-ES": "[Arquero Wolt]\nYo…\n¡P-pero…!"
+        "es-ES": "[Arquero Wolt]\nYo...\n¡P-pero...!"
     },
     "rnyS": {
         "en-US": "[Archer Wolt]\nOh good~!\nI guess you got\nthe point of my story!",
@@ -882,7 +882,7 @@
     "sHyS": {
         "en-US": "[Archer Wolt]\nStill...\nI have to admit that, at heart,\nI'm a pretty lazy guy. I guess it's pretty amazing that someone like\nme can even be an Archer!",
         "pt-BR": "[Arqueiro Wolt]\nMesmo assim...\nTenho que admitir que, no fundo,\nsou um cara bem preguiçoso. Na verdade é bem incrível que alguém como eu possa\neu possa ser um Arqueiro!",
-        "es-ES": "[Arquero Wolt]\nAun así…\nTengo que admitir que, en el fondo,\nsoy un tipo bastante perezoso. Supongo que es bastante sorprendente que alguien como\nyo pueda ser Arquero."
+        "es-ES": "[Arquero Wolt]\nAun así...\nTengo que admitir que, en el fondo,\nsoy un tipo bastante perezoso. Supongo que es bastante sorprendente que alguien como\nyo pueda ser Arquero."
     },
     "sXyS": {
         "en-US": "[Archer Wolt]\nIn any case,\nwhatever you do\nin life, do it\nwith passion!",
@@ -912,12 +912,12 @@
     "tnyS": {
         "en-US": "Pay...on?",
         "pt-BR": "Pai... de quem?",
-        "es-ES": "¿Sobre Pay…on?"
+        "es-ES": "¿Sobre Pay...on?"
     },
     "t3yS": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "uHyS": {
         "en-US": "[Archer Joe]\nOh! You the man!\nYou know the Archers of Payon!\nWe never miss our target! Even from a distance, the hearts of our foes are unsafe!",
@@ -997,7 +997,7 @@
     "x3yS": {
         "en-US": "[Archer Joe]\nWhat a shame...\nHow have you not\nheard of the Payon Archers?",
         "pt-BR": "[Arqueiro Joe]\nPuxa...\nComo você não\nouviu falar dos arqueiros de Payon?",
-        "es-ES": "[Arquero Joe]\nQué lástima…\n¿Cómo que no\nescuchaste sobre los Arqueros de Payon?"
+        "es-ES": "[Arquero Joe]\nQué lástima...\n¿Cómo que no\nescuchaste sobre los Arqueros de Payon?"
     },
     "yHyS": {
         "en-US": "[Archer Joe]\nWell, when you \nlearn more about us,\nlet's talk again and I can tell you why the Payon Archers are\nso great!",
@@ -1117,12 +1117,12 @@
     "33yS": {
         "en-US": "[Guard]\nHey...\nHey...!\nShow your respect\nto our chief!",
         "pt-BR": "[Guarda]\nEi...\nEi...!\nMostre respeito\nao nosso cacique!",
-        "es-ES": "[Guardia]\nOye…\n¡Oye…!\n¡Muestra tu respeto\na nuestro líder!"
+        "es-ES": "[Guardia]\nOye...\n¡Oye...!\n¡Muestra tu respeto\na nuestro líder!"
     },
     "4HyS": {
         "en-US": "[Guard]\nHeeeey!\nI said...",
         "pt-BR": "[Guarda]\nEeeeei!\nJá disse p...",
-        "es-ES": "[Guardia]\n¡Oyeee!\nDije…"
+        "es-ES": "[Guardia]\n¡Oyeee!\nDije..."
     },
     "4XyS": {
         "en-US": "[Chief]\nIt's fine, it's fine.\nIt's been a long time\nsince I've spoken to\nsuch young people.",
@@ -1187,7 +1187,7 @@
     "7XyS": {
         "en-US": "[Chief]\nRoyal troops, Kafra Ladies, Guards... At first, there was conflict brought about by differences in our customs\nand cultures.",
         "pt-BR": "[Cacique]\nTropas reais, funcionárias Kafra, guardas... No início, houve um conflito pelas diferenças em nossos costumes\ne culturas.",
-        "es-ES": "[Líder]\nTropas reales, señoritas de Kafra, guardias… Al principio, hubo conflictos provocados por las diferencias en nuestras costumbres\ny cultura."
+        "es-ES": "[Líder]\nTropas reales, señoritas de Kafra, guardias... Al principio, hubo conflictos provocados por las diferencias en nuestras costumbres\ny cultura."
     },
     "7nyS": {
         "en-US": "[Chief]\nHowever, as time passed,\nwe've been able to resolve such petty differences. I cannot deny that they've helped us speedily develop our trade with foreign nations.",
@@ -1207,7 +1207,7 @@
     "8XyS": {
         "en-US": "[Chief]\nAh...\nI used to go to the cave\nto the North sometimes. But it\nis harder now than it was then.",
         "pt-BR": "[Cacique]\nAh...\nÀs vezes eu ia até a caverna\nao norte. Mas\nagora está mais difícil do que naquela época.",
-        "es-ES": "[Líder]\nAh…\nSolía ir a la cueva\ndel norte a veces. Pero\nahora es más difícil."
+        "es-ES": "[Líder]\nAh...\nSolía ir a la cueva\ndel norte a veces. Pero\nahora es más difícil."
     },
     "8nyS": {
         "en-US": "[Chief]\nEvil creatures that I've never seen before endlessly respawn in that place. The monsters in Payon Cave today are different than the ones we used to fight with.",
@@ -1217,12 +1217,12 @@
     "83yS": {
         "en-US": "[Chief]\nHave you ever happened to see\nthe Zombies...? Some of them are warriors who entered the cave to protect this village, but never came back.",
         "pt-BR": "[Cacique]\nVocê já viu\nos zumbis...? Alguns deles são guerreiros que entraram na caverna para proteger esta aldeia, mas nunca mais voltaram.",
-        "es-ES": "[Líder]\n¿Viste alguna vez\na los Zombis…? Algunos de ellos son guerreros que entraron a la cueva para proteger esta aldea, pero nunca regresaron."
+        "es-ES": "[Líder]\n¿Viste alguna vez\na los Zombis...? Algunos de ellos son guerreros que entraron a la cueva para proteger esta aldea, pero nunca regresaron."
     },
     "9HyS": {
         "en-US": "[Chief]\nAlthough they are a threat, some of those Undead are also victims of that cave. I'm too old to endure that kind of pain...",
         "pt-BR": "[Cacique]\nEmbora sejam uma ameaça, alguns desses mortos-vivos também são vítimas dessa caverna. É uma dor muito grande para um velho como eu...",
-        "es-ES": "[Líder]\nAunque son una amenaza, algunos de esos Muertos vivientes también son víctimas de esa cueva. Soy demasiado viejo para aguantar ese tipo de dolor…"
+        "es-ES": "[Líder]\nAunque son una amenaza, algunos de esos Muertos vivientes también son víctimas de esa cueva. Soy demasiado viejo para aguantar ese tipo de dolor..."
     },
     "9XyS": {
         "en-US": "[Chief]\nI must do anything I can to stop the Undead, and release their souls from eternal anguish.",
@@ -1272,7 +1272,7 @@
     "/nyS": {
         "en-US": "[Chief]\nSo tired...\nI'd better rest.\nPlease, take care\nof yourself.",
         "pt-BR": "[Chefe]\nQue sono...\nÉ melhor eu ir dormir.\nAté mais, cuide-se.",
-        "es-ES": "[Líder]\nSiento tanto cansancio…\nSerá mejor que descanse.\nCuídate\nmucho."
+        "es-ES": "[Líder]\nSiento tanto cansancio...\nSerá mejor que descanse.\nCuídate\nmucho."
     },
     "/3yS": {
         "en-US": "[Guard]\nThe Chief is\ntaking a rest.\nWould you mind\ncoming back later?",
@@ -1287,7 +1287,7 @@
     "AX2S": {
         "en-US": "[Guard]\nHey...!\nYou're not\nallowed here!\nGo back outside!",
         "pt-BR": "[Guarda]\nEi...!\nVocê não pode\nentrar aqui!\nJá pra fora!",
-        "es-ES": "[Guardia]\n¡Oye…!\n¡Ni siquiera\ntienes permiso para entrar aquí!\n¡Vuelve afuera!"
+        "es-ES": "[Guardia]\n¡Oye...!\n¡Ni siquiera\ntienes permiso para entrar aquí!\n¡Vuelve afuera!"
     },
     "An2S": {
         "en-US": "[Guard]\nI'm sorry,\nbut you're\nnot allowed here.\nPlease leave.",

@@ -899,7 +899,7 @@ EquipmentPropertiesOrder_string = {
 				name = "{val}%#{sep} daño {sym}"
 			},
 			[7] = {
-				name = "{val}Nv#{sep} uso {sym}"
+				name = "Nv.{val}#{sym} {sep}"
 			}
 		}
 	},

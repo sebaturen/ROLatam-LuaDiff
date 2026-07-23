@@ -42,12 +42,12 @@
     "KASnAg": {
         "en-US": "[Kafra Employee]\n....Oh dear... What are you carrying so many things...?\nI don't think you can keep the received items~",
         "pt-BR": "[Funcionária Kafra]\n....Oh, querida... Por que está carregando tantas coisas...?\nAcho que você não pode ficar com os itens recebidos~",
-        "es-ES": "[Personal de Kafra]\nOh… ¿Por qué llevas tantas cosas…?\nNo creo que puedas quedarte con los objetos recibidos."
+        "es-ES": "[Personal de Kafra]\nOh... ¿Por qué llevas tantas cosas...?\nNo creo que puedas quedarte con los objetos recibidos."
     },
     "KQSnAg": {
         "en-US": "[Kafra Employee]\nI'm sorry~ but~\nPlease, visit Kafra warehouse and store your items until you have free space of ^0000FF1100^000000 and come back.\nI apologize for the inconvinence~",
         "pt-BR": "[Funcionária Kafra]\nDesculpe-me~ mas~\nPor favor, visite o depósito da Kafra e guarde seus itens até que tenha espaço livre de ^0000FF1100^000000 e volte.\nPeço desculpas pela inconviniência~",
-        "es-ES": "[Personal de Kafra]\nLo siento, pero…\nPor favor, visita el depósito de Kafra y guarda tus objetos hasta que tengas un espacio libre de ^0000FF1100^000000. Vuelve después de eso.\nTe pido disculpas por las molestias."
+        "es-ES": "[Personal de Kafra]\nLo siento, pero...\nPor favor, visita el depósito de Kafra y guarda tus objetos hasta que tengas un espacio libre de ^0000FF1100^000000. Vuelve después de eso.\nTe pido disculpas por las molestias."
     },
     "KgSnAg": {
         "en-US": "[Kafra Employee]\nYour special reserve points are ^FF0000{0}^000000~\nChoose a category to test your luck.",
@@ -107,12 +107,12 @@
     "NQSnAg": {
         "en-US": "'Rrrrrrr...'",
         "pt-BR": "'Rrrrrrr...",
-        "es-ES": "Rrrrrrr…."
+        "es-ES": "Rrrrrrr...."
     },
     "NgSnAg": {
         "en-US": "'Boing.. Boing.. Clink!'",
         "pt-BR": "Boing... Boing... Clink!",
-        "es-ES": "Boing… boing… ¡clink!."
+        "es-ES": "Boing... boing... ¡clink!."
     },
     "NwSnAg": {
         "en-US": "[Kafra Employee]\nSomething has come out~ Let's see what you got~\nG~ U~ E~ S~ S~  W~ H~ A~ T~",

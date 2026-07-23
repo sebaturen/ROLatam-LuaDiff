@@ -42,7 +42,7 @@
     "iPD6Ag": {
         "en-US": "[Ninja Guide]\nI am not interested in the people who are already on their path.\nTake your leave now...",
         "pt-BR": "[Jiraiya, dos Ninjas]\nNão quero falar com pessoas que trilharam outro caminho.\nSiga seu rumo.",
-        "es-ES": "[Guía Ninja]\nNo me interesan aquellos que ya encontraron su camino.\nAhora vete…"
+        "es-ES": "[Guía Ninja]\nNo me interesan aquellos que ya encontraron su camino.\nAhora vete..."
     },
     "ifD6Ag": {
         "en-US": "[Ninja Guide]\nFirst of all, you must enroll in the Academy and visit me again.\nEverything has to follow the correct procedures and being clumsy is no excuse.",
@@ -72,7 +72,7 @@
     "jvD6Ag": {
         "en-US": "[Ninja Guide]\nA beginner wishing to be a Ninja....\nAsk me what you are curious about.",
         "pt-BR": "[Jiraiya, dos Ninjas]\nUm iniciante que deseja tornar-se Ninja...\nSobre o que está curioso?",
-        "es-ES": "[Guía Ninja]\nUn Principiante que quiere ser Ninja…\nPregúntame lo que quieras saber."
+        "es-ES": "[Guía Ninja]\nUn Principiante que quiere ser Ninja...\nPregúntame lo que quieras saber."
     },
     "j/D6Ag": {
         "en-US": "What can I do if I become a Ninja?",
@@ -157,7 +157,7 @@
     "n/D6Ag": {
         "en-US": "[Ninja Guide]\nDo you understand everything I told you?\nThat's all... You don't have any questions?",
         "pt-BR": "[Jiraiya, dos Ninjas]\nBom, isso é tudo...\nVocê não tem mais nenhuma dúvida?",
-        "es-ES": "[Guía Ninja]\n¿Comprendes todo lo que te digo?\nEso es todo… ¿No tienes preguntas?"
+        "es-ES": "[Guía Ninja]\n¿Comprendes todo lo que te digo?\nEso es todo... ¿No tienes preguntas?"
     },
     "oPD6Ag": {
         "en-US": "[Ninja Guide]\nI appreicate your braveness but, first of all, you have to be familiar with the current profession.",
@@ -217,7 +217,7 @@
     "q/D6Ag": {
         "en-US": "[Ninja Guide]\nIf you get lost at the town, well there is no way... Being ninja requires a level of observation power.",
         "pt-BR": "[Jiraiya, dos Ninjas]\nNão se perca!",
-        "es-ES": "[Guía Ninja]\nSi te pierdes en la ciudad, no sería admisible… Ser Ninja requiere un cierto nivel de poder de observación."
+        "es-ES": "[Guía Ninja]\nSi te pierdes en la ciudad, no sería admisible... Ser Ninja requiere un cierto nivel de poder de observación."
     },
     "rPD6Ag": {
         "en-US": "Pressing ^FF0000Confirm^000000 to go to Amatsu.",
@@ -237,12 +237,12 @@
     "r/D6Ag": {
         "en-US": "[Ninja Guide]\n.........",
         "pt-BR": "[Guia Ninja]\n.........",
-        "es-ES": "[Guía Ninja]\n………"
+        "es-ES": "[Guía Ninja]\n........."
     },
     "sPD6Ag": {
         "en-US": "[Ninja Guide]\n......",
         "pt-BR": "[Guia Ninja]\n......",
-        "es-ES": "[Guía Ninja]\n……"
+        "es-ES": "[Guía Ninja]\n......"
     },
     "sfD6Ag": {
         "en-US": "[Ninja Guide]\nI have no words to say, if you don't have any business with me.",

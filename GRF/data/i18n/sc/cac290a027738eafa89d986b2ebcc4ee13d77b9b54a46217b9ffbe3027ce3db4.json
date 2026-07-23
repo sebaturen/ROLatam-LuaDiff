@@ -22,17 +22,17 @@
     "ZA65Cg": {
         "en-US": "[Kafra Employee]\nLet me check the package's serial number. It's...\n2485741. Yes, this is what we've ordered. You need a receipt, right? Let me give it to you right away.",
         "pt-BR": "[Funcionária Kafra].\nDeixe-me verificar o número de série do pacote. É...\n2485741. Sim, foi isso que pedimos. Você precisa de um recibo, certo? Vou lhe dar agora mesmo.",
-        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete. Es…\n2485741. Sí, esto es lo que pedimos. Necesitas un recibo, ¿verdad? Te lo daré ahora mismo."
+        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete. Es...\n2485741. Sí, esto es lo que pedimos. Necesitas un recibo, ¿verdad? Te lo daré ahora mismo."
     },
     "ZQ65Cg": {
         "en-US": "[Kafra Employee]\nLet me check the package's serial number. It's...\n2328137. Yes, this is what we've ordered. You need a receipt, right? Let me give it to you right away.",
         "pt-BR": "[Funcionária Kafra].\nDeixe-me verificar o número de série do pacote. É...\n2328137. Sim, foi isso que pedimos. Você precisa de um recibo, certo? Vou lhe dar agora mesmo.",
-        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete. Es…\n2328137. Sí, esto es lo que pedimos. Necesitas un recibo, ¿verdad? Te lo daré ahora mismo."
+        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete. Es...\n2328137. Sí, esto es lo que pedimos. Necesitas un recibo, ¿verdad? Te lo daré ahora mismo."
     },
     "Zg65Cg": {
         "en-US": "[Kafra Employee]\nLet me check the package's serial number. It's...\nErr, this...",
         "pt-BR": "[Funcionária Kafra].\nDeixe-me verificar o número de série do pacote. É...\nErr, isso...",
-        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete. Es…\nEh, esto…"
+        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete. Es...\nEh, esto..."
     },
     "Zw65Cg": {
         "en-US": "[Kafra Employee]\nI'm sorry, but I don't think this is what we've ordered.\nThe serial number of our package from the Merchant Guild is 2485741.\nThere must have been a mix-up.",
@@ -357,22 +357,22 @@
     "pw65Cg": {
         "en-US": "[Kafra Employee]\nPardon? You're from the Merchant Guild. Oh, that's right! Gosh, I'm so forgetful!\nPlease put down the package here.\n...I was expecting a box. You don't look like you're carrying any box.",
         "pt-BR": "[Funcionária Kafra].\nPerdão? Você é da Guilda dos Comerciantes. Ah, é isso mesmo! Nossa, sou tão esquecido!\nPor favor, coloque o pacote aqui.\n...Eu estava esperando uma caixa. Você não parece estar carregando nenhuma caixa.",
-        "es-ES": "[Personal de Kafra]\n¿Perdón? Eres del gremio de Comerciantes. ¡Ah, cierto! ¡Cielos, soy tan olvidadiza!\nDeja el paquete aquí.\n…Esperaba una caja. No parece que lleves alguna caja."
+        "es-ES": "[Personal de Kafra]\n¿Perdón? Eres del gremio de Comerciantes. ¡Ah, cierto! ¡Cielos, soy tan olvidadiza!\nDeja el paquete aquí.\n...Esperaba una caja. No parece que lleves alguna caja."
     },
     "qA65Cg": {
         "en-US": "[Kafra Employee]\nLet me check the package's serial number before I give you your receipt.\nMm... 3318702. Yes, this is what we've ordered. Here's your receipt.",
         "pt-BR": "[Funcionária Kafra].\nDeixe-me verificar o número de série do pacote antes de lhe dar o recibo.\nHumm... 3318702. Sim, foi isso que pedimos. Aqui está seu recibo.",
-        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete antes de darte el recibo.\nMmm… 3318702. Sí, esto es lo que pedimos. Aquí tienes tu recibo."
+        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete antes de darte el recibo.\nMmm... 3318702. Sí, esto es lo que pedimos. Aquí tienes tu recibo."
     },
     "qQ65Cg": {
         "en-US": "[Kafra Employee]\nLet me check the package's serial number before I give you your receipt.\nMm... 3543625. Yes, this is what we've ordered. Here's your receipt.",
         "pt-BR": "[Funcionária Kafra].\nDeixe-me verificar o número de série do pacote antes de lhe dar o recibo.\nHumm... 3543625. Sim, foi isso que pedimos. Aqui está seu recibo.",
-        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete antes de darte el recibo.\nMm… 3543625. Sí, esto es lo que pedimos. Aquí tienes tu recibo."
+        "es-ES": "[Personal de Kafra]\nDéjame comprobar el número de serie del paquete antes de darte el recibo.\nMm... 3543625. Sí, esto es lo que pedimos. Aquí tienes tu recibo."
     },
     "qg65Cg": {
         "en-US": "[Kafra Employee]\n...? Excuse me, I think you've brought the wrong package.",
         "pt-BR": "[Funcionária Kafra].\n...? Desculpe-me, acho que você trouxe o pacote errado.",
-        "es-ES": "[Personal de Kafra]\n¿…? Disculpa, creo que has traído el paquete equivocado."
+        "es-ES": "[Personal de Kafra]\n¿...? Disculpa, creo que has traído el paquete equivocado."
     },
     "qw65Cg": {
         "en-US": "The serial number of our package from the Merchant Guild is 3318702.",
@@ -427,7 +427,7 @@
     "tQ65Cg": {
         "en-US": "[Kafra Employee]\n....but... customer. What are those things hanging from your body...?\nIn that condition, I don't think you will be able to keep the product even if you exchange it.",
         "pt-BR": "[Funcionária Kafra].\n....mas... cliente. O que são essas coisas penduradas em seu corpo...?\nNessa condição, acho que você não conseguirá ficar com o produto, mesmo que o troque.",
-        "es-ES": "[Personal de Kafra]\n…Pero… cliente. ¿Qué son esas cosas que cuelgan de tu cuerpo…?\nEn esas condiciones, no creo que puedas quedarte con el producto aunque lo canjees."
+        "es-ES": "[Personal de Kafra]\n...Pero... cliente. ¿Qué son esas cosas que cuelgan de tu cuerpo...?\nEn esas condiciones, no creo que puedas quedarte con el producto aunque lo canjees."
     },
     "tg65Cg": {
         "en-US": "[Kafra Employee]\nCustomer, I'm sorry~\nCan you stop by our Kafra Storage first, store your belongings until you have weight below ^FF00001100^000000, and then come back?\nPlease~",
@@ -592,7 +592,7 @@
     "1g65Cg": {
         "en-US": "[Kafra Employee]\nEh~~ Customer~ It would be difficult if you wrote it like that~\nPlease choose from 1 to 5 or less.",
         "pt-BR": "[Funcionária Kafra].\nEh~~ Cliente~ Seria difícil se você escrevesse assim~\nPor favor, escolha de 1 a 5 ou menos.",
-        "es-ES": "[Personal de Kafra]\nEh… Disculpa, cliente. Creo que será difícil si lo escribes así. Elige un número entre 1 y 5."
+        "es-ES": "[Personal de Kafra]\nEh... Disculpa, cliente. Creo que será difícil si lo escribes así. Elige un número entre 1 y 5."
     },
     "1w65Cg": {
         "en-US": "'Drrrrrr~ Drrrrrr~'",
@@ -607,7 +607,7 @@
     "2Q65Cg": {
         "en-US": "'Boing.. Boing.. Clink!'",
         "pt-BR": "Boing... Boing... Clink!",
-        "es-ES": "*Boing… Boing… ¡Plin!*"
+        "es-ES": "*Boing... Boing... ¡Plin!*"
     },
     "2g65Cg": {
         "en-US": "[Kafra Employee]\nSomething has come out~ Let's see what you got~\nG~ U~ E~ S~ S~  W~ H~ A~ T~",
@@ -652,7 +652,7 @@
     "4g65Cg": {
         "en-US": "[Kafra Employee]\nWhoa~!! The first... The First!!!\nYou got the 1st prize~\nThe prize is ^00FF00Wooden Mail 1 pcs~^000000",
         "pt-BR": "[Funcionária Kafra].\nUau!!! O primeiro... O primeiro!!!\nVocê ganhou o primeiro prêmio~\nO prêmio é ^00FF001 Arumadura de madeira^000000",
-        "es-ES": "[Personal de Kafra]\n¡Ey! El primero… ¡¡El primero!!\nObtuviste el primer premio.\nEl premio es ^00FF001 Cota de malla de madera.^000000"
+        "es-ES": "[Personal de Kafra]\n¡Ey! El primero... ¡¡El primero!!\nObtuviste el primer premio.\nEl premio es ^00FF001 Cota de malla de madera.^000000"
     },
     "4w65Cg": {
         "en-US": "[Kafra Employee]\nIt looks like you took out a loan and invested your luck for the rest of your life.\nCongratulations~~",
@@ -687,12 +687,12 @@
     "6Q65Cg": {
         "en-US": "[Kafra Employee]\nTo me... well... it doesn't look pretty at all...\nStill, one feature is awesome~\nCongratulations~~",
         "pt-BR": "[Funcionária Kafra].\nPara mim... bem... não parece nada bonito...\nAinda assim, um recurso é incrível~\nParabéns~~",
-        "es-ES": "[Personal de Kafra]\nA mí… bueno… no me parece nada bonita…\nAun así, tiene un atractivo impresionante.\nFelicidades."
+        "es-ES": "[Personal de Kafra]\nA mí... bueno... no me parece nada bonita...\nAun así, tiene un atractivo impresionante.\nFelicidades."
     },
     "6g65Cg": {
         "en-US": "[Kafra Employee]\nWhoa~!! The first... The First!!!\nYou got the 1st prize~\nThe prize is ^00FF00Blue Potion 3 pcs~^000000",
         "pt-BR": "[Funcionária Kafra].\nUau!!! O primeiro... O primeiro!!!\nVocê ganhou o primeiro prêmio~\nO prêmio é ^00FF003 Poções Azuis^000000",
-        "es-ES": "[Personal de Kafra]\n¡Ey! El primero… ¡¡El primero!!\nObtuviste el primer premio.\nEl premio son ^00FF003 Pociones azules.^000000"
+        "es-ES": "[Personal de Kafra]\n¡Ey! El primero... ¡¡El primero!!\nObtuviste el primer premio.\nEl premio son ^00FF003 Pociones azules.^000000"
     },
     "6w65Cg": {
         "en-US": "[Kafra Employee]\nDear customer, please collect a lot of points again next time.\nAlways support our Kafra Co., Ltd. service. Thank you for your patronage~~",
@@ -737,27 +737,27 @@
     "8w65Cg": {
         "en-US": "[Kafra Employee]\nWel...come... Kafra... is... always... with you...\nin life... and even after... death...\nHow... may I... help you...?",
         "pt-BR": "[Funcionária Kafra].\nBem... venha... A Kafra... está... sempre... com você...\nna vida... e mesmo depois... da morte...\nComo... posso... ajudá-lo...?",
-        "es-ES": "[Personal de Kafra]\nTe doy la bien… venida… Kafra… está… siempre… contigo…\nen vida… e incluso después… de la muerte…\n¿Cómo… puedo… ayudarte…?"
+        "es-ES": "[Personal de Kafra]\nTe doy la bien... venida... Kafra... está... siempre... contigo...\nen vida... e incluso después... de la muerte...\n¿Cómo... puedo... ayudarte...?"
     },
     "9A65Cg": {
         "en-US": "[Kafra Employee]\n...I'm sorry....\nIf you want to use the storage...\n...beginner skill...must be raised...to level 6 or higher..",
         "pt-BR": "[Funcionária Kafra].\n...desculpe-me....\nSe você quiser usar o armazenamento...\n...a habilidade de iniciante...deve ser elevada...ao nível 6 ou superior...",
-        "es-ES": "[Personal de Kafra]\n…Lo siento…\nSi quieres usar el almacén…\n…deberás subir… tu habilidad de Principiante… al nivel 6 o superior…"
+        "es-ES": "[Personal de Kafra]\n...Lo siento...\nSi quieres usar el almacén...\n...deberás subir... tu habilidad de Principiante... al nivel 6 o superior..."
     },
     "9Q65Cg": {
         "en-US": "[Kafra Employee]\nThank you for using...\nThank you for using...\nThank you for using...\nThank you for using...\nThank you for using...",
         "pt-BR": "[Funcionária Kafra]\nObrigado por usar...\nObrigado por usar...\nObrigado por usar...\nObrigado por usar...\nObrigado por usar...",
-        "es-ES": "[Personal de Kafra]\nGracias por usar…\nGracias por usar…\nGracias por usar…\nGracias por usar…\nGracias por usar…"
+        "es-ES": "[Personal de Kafra]\nGracias por usar...\nGracias por usar...\nGracias por usar...\nGracias por usar...\nGracias por usar..."
     },
     "9g65Cg": {
         "en-US": "[Kafra Employee]\nThe amount to pay is... not enough.\nThe storage usage fee is... 50 zeny...\nIf it's not enough... even your life...\nPlease... share with me...",
         "pt-BR": "[Funcionária Kafra].\nO valor a ser pago é... insuficiente.\nA taxa de uso do armazenamento é de... 50 Zeny...\nSe não for suficiente... nem mesmo sua vida...\nPor favor... compartilhe comigo...",
-        "es-ES": "[Personal de Kafra]\nNo cuentas con... dinero suficiente.\nLa tarifa de uso del almacén es de… 50 zeny…\nSi no lo tienes, entonces… comparte algo…\nde tu vida conmigo…"
+        "es-ES": "[Personal de Kafra]\nNo cuentas con... dinero suficiente.\nLa tarifa de uso del almacén es de... 50 zeny...\nSi no lo tienes, entonces... comparte algo...\nde tu vida conmigo..."
     },
     "9w65Cg": {
         "en-US": "[Kafra Employee]\nKafra... is always... with you...\nwherever... you are...\nSo... please...\ndon't forget it...",
         "pt-BR": "[Funcionária Kafra].\nA Kafra... está sempre... com você...\nonde quer que você esteja...\nEntão... por favor...\nnão se esqueça disso...",
-        "es-ES": "[Personal de Kafra]\nKafra… está siempre… contigo…\ndonde sea… que estés…\nAsí que… por favor…\nno lo olvides…"
+        "es-ES": "[Personal de Kafra]\nKafra... está siempre... contigo...\ndonde sea... que estés...\nAsí que... por favor...\nno lo olvides..."
     },
     "+A65Cg": {
         "en-US": "[Kafra Employee]\nKafra's Schwarzwald branch,\nin accordance with the treaty\nbetween the Rune-Midgarts Kingdom\n'and the Schwarzwald Republic,'\ndoes not provide\na ^FF0000teleportation service within Schwarzwald^000000.",
@@ -812,7 +812,7 @@
     "Ag+5Cg": {
         "en-US": "[Kafra Employee]\nOh, wow! You've brought all the items without missing anything!\nNow, please wait while I carefully handcraft\nyour Bunny Band...",
         "pt-BR": "[Funcionária Kafra].\nUau! Você trouxe todos os itens sem perder nada!\nAgora, por favor, aguarde enquanto eu confecciono cuidadosamente\nsua Bunny Band...",
-        "es-ES": "[Personal de Kafra]\n¡Ah, vaya! ¡Trajiste todos los objetos sin que te falte nada!\nAhora, espera mientras cuidadosamente fabrico a mano\ntu Diadema de orejas de conejo…"
+        "es-ES": "[Personal de Kafra]\n¡Ah, vaya! ¡Trajiste todos los objetos sin que te falte nada!\nAhora, espera mientras cuidadosamente fabrico a mano\ntu Diadema de orejas de conejo..."
     },
     "Aw+5Cg": {
         "en-US": "[Kafra Employee]\nThere you go. Here's your ^FF0000Bunny Band^000000!",

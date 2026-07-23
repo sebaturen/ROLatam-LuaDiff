@@ -1,0 +1,622 @@
+{
+    "IJlhDQ": {
+        "en-US": "Go outside.",
+        "pt-BR": "Sair.",
+        "es-ES": "Sales al exterior."
+    },
+    "IZlhDQ": {
+        "en-US": "Stop.",
+        "pt-BR": "Desistir.",
+        "es-ES": "Lo dejas."
+    },
+    "IplhDQ": {
+        "en-US": "???",
+        "pt-BR": "???",
+        "es-ES": "???"
+    },
+    "I5lhDQ": {
+        "en-US": "Cheol-ho",
+        "pt-BR": "Cheol-ho",
+        "es-ES": "Cheol-ho"
+    },
+    "JJlhDQ": {
+        "en-US": "Cheol-ho : You followed me here quickly!",
+        "pt-BR": "Cheol-ho : Você me seguiu bem rápido!",
+        "es-ES": "Cheol-ho : ¡Has conseguido seguirme muy bien!"
+    },
+    "JZlhDQ": {
+        "en-US": "Cheol-ho : I sense a sinister energy. It seems Hyunrok is very angry.",
+        "pt-BR": "Cheol-ho : Pelo ar sinistro que sinto, parece que Hyunrok está muito irritado.",
+        "es-ES": "Cheol-ho : Siento una energía siniestra... Parece que Hyunrok está muy enojado."
+    },
+    "JplhDQ": {
+        "en-US": "??? : Who goes there!!! I smell something suspicious!!!",
+        "pt-BR": "??? : Quem está aí!!! Sinto um cheiro suspeito!!!",
+        "es-ES": "??? : ¿¿¿Quién anda ahí??? ¡¡¡Huelo algo sospechoso!!!"
+    },
+    "J5lhDQ": {
+        "en-US": "Cheol-ho : It's me!! Me!! Cheol-ho!!!",
+        "pt-BR": "Cheol-ho : Sou eu!! Eu!! Cheol-ho!!!",
+        "es-ES": "Cheol-ho : ¡¡Soy yo!! ¡¡Yo!! ¡¡¡Cheol-ho !!!"
+    },
+    "KJlhDQ": {
+        "en-US": "??? : I have never smelled that scent before!!!",
+        "pt-BR": "??? : Nunca senti esse cheiro antes!!!",
+        "es-ES": "??? : ¡¡¡Nunca sentí un olor así!!!"
+    },
+    "KZlhDQ": {
+        "en-US": "??? : Leave this forest at once!!",
+        "pt-BR": "??? : Saia desta floresta imediatamente!!",
+        "es-ES": "??? : ¡¡Salgan de este bosque ahora mismo!!"
+    },
+    "KplhDQ": {
+        "en-US": "Cheol-ho : Ack!! Why are you suddenly hitting me!!!",
+        "pt-BR": "Cheol-ho : Agh!! Por que está me atacando de repente!!!",
+        "es-ES": "Cheol-ho : ¡¡Ay!! ¡¡¡¿Por qué me atacas de la nada?!!!"
+    },
+    "K5lhDQ": {
+        "en-US": "Cheol-ho : Ack!! This won't do!!!",
+        "pt-BR": "Cheol-ho : Agh!! Assim não dá!!!",
+        "es-ES": "Cheol-ho : ¡¡Ay!! ¡¡¡Esto no puede ser!!!"
+    },
+    "LJlhDQ": {
+        "en-US": "Cheol-ho : Hurry, calm this one down and let's enter the forest!!!",
+        "pt-BR": "Cheol-ho : Vamos acalmar esse sujeito logo e entrar na floresta!!!",
+        "es-ES": "Cheol-ho : ¡¡¡Rápido, calmemos a este tipo de una vez y entremos en el bosque!!!"
+    },
+    "LZlhDQ": {
+        "en-US": "Guard",
+        "pt-BR": "Guarda",
+        "es-ES": "Guardia"
+    },
+    "LplhDQ": {
+        "en-US": "Cheol-ho : What is going on here!",
+        "pt-BR": "Cheol-ho : Mas o que está acontecendo?!",
+        "es-ES": "Cheol-ho : ¡Pero, qué está pasando!"
+    },
+    "L5lhDQ": {
+        "en-US": "Cheol-ho : We must hurry and find Hyunrok.",
+        "pt-BR": "Cheol-ho : Precisamos encontrar Hyunrok logo.",
+        "es-ES": "Cheol-ho : Tenemos que apurarnos y encontrar a Hyunrok."
+    },
+    "MJlhDQ": {
+        "en-US": "Cheol-ho : The main gate is just up there, so let us hurry up.",
+        "pt-BR": "Cheol-ho : A entrada principal fica logo acima, então vamos subir depressa.",
+        "es-ES": "Cheol-ho : La entrada principal está justo arriba, así que subamos rápido."
+    },
+    "MZlhDQ": {
+        "en-US": "???",
+        "pt-BR": "???",
+        "es-ES": "???"
+    },
+    "MplhDQ": {
+        "en-US": "Cheol-ho : Oh dear, we cannot enter the forest like this.",
+        "pt-BR": "Cheol-ho : Ai, assim não dá para entrar na floresta.",
+        "es-ES": "Cheol-ho : Uh, cariño, no podemos entrar al bosque así."
+    },
+    "M5lhDQ": {
+        "en-US": "- It seems some mysterious power is blocking the way. Talk to Cheol-ho first. -",
+        "pt-BR": "- Parece que algum poder misterioso está bloqueando o caminho. Fale primeiro com Cheol-ho. -",
+        "es-ES": "- Parece que una fuerza misteriosa bloquea el camino. Habla primero con Cheol-ho. -"
+    },
+    "NJlhDQ": {
+        "en-US": "Gwisul",
+        "pt-BR": "Gwisul",
+        "es-ES": "Gwisul"
+    },
+    "NZlhDQ": {
+        "en-US": "[Guard]\nYou cannot pass through here.\nTurn back.",
+        "pt-BR": "[Guarda]\nVocê não pode passar por aqui.\nVolte.",
+        "es-ES": "[Guardia]\nNo pueden pasar por aquí.\nDen la vuelta."
+    },
+    "NplhDQ": {
+        "en-US": "Ask to be let in.",
+        "pt-BR": "Pedir para deixá-lo entrar.",
+        "es-ES": "Pide que te dejen entrar."
+    },
+    "N5lhDQ": {
+        "en-US": "[Guard]\nLord Hyunrok told us not to let suspicious people in!",
+        "pt-BR": "[Guarda]\nO Senhor Hyunrok ordenou que não deixássemos ninguém suspeito entrar!",
+        "es-ES": "[Guardia]\n¡El señor Hyunrok nos ordenó no dejar pasar a nadie sospechoso!"
+    },
+    "OJlhDQ": {
+        "en-US": "Gwisul : Oh my~",
+        "pt-BR": "Gwisul : Ai, ai~",
+        "es-ES": "Gwisul : ¡Uh! Será posible..."
+    },
+    "OZlhDQ": {
+        "en-US": "Gwisul : That one is very upset!",
+        "pt-BR": "Gwisul : Aquele garoto está muito irritado!",
+        "es-ES": "Gwisul : ¡Ese sí que se enojó!"
+    },
+    "OplhDQ": {
+        "en-US": "Gwisul : He is still young, so please understand~",
+        "pt-BR": "Gwisul : Ele ainda é jovem, então entenda~",
+        "es-ES": "Gwisul : Es joven, tienes que entender..."
+    },
+    "O5lhDQ": {
+        "en-US": "Gwisul : Hahahahaha!",
+        "pt-BR": "Gwisul : Hahahahaha!",
+        "es-ES": "Gwisul : ¡Jajajajaja!"
+    },
+    "PJlhDQ": {
+        "en-US": "Cheol-ho : But why is he attacking me too?!",
+        "pt-BR": "Cheol-ho : Mas por que ele está atacando até a mim?!",
+        "es-ES": "Cheol-ho : Pero, ¿por qué me ataca también a mí?"
+    },
+    "PZlhDQ": {
+        "en-US": "Gwisul : That is why I told you not to pick up and eat just anything.",
+        "pt-BR": "Gwisul : Eu não disse para não sair comendo qualquer coisa que encontrasse?",
+        "es-ES": "Gwisul : Por eso te dije que no te comieras cualquier cosa que encontraras."
+    },
+    "PplhDQ": {
+        "en-US": "Gwisul : Even if you do not turn out like the other wild animals after eating that medicine,",
+        "pt-BR": "Gwisul : Você pode até não se transformar como os outros animais da montanha depois de tomar aquele remédio,",
+        "es-ES": "Gwisul : Puede que tú no te transformes como los demás animales silvestres después de tomar esa medicina,"
+    },
+    "P5lhDQ": {
+        "en-US": "Gwisul : its smell does not disappear, so of course you would seem suspicious!",
+        "pt-BR": "Gwisul : mas o cheiro não desaparece, então é natural que pareça suspeito!",
+        "es-ES": "Gwisul : pero el olor no desaparece, así que es lógico que parezcas sospechoso."
+    },
+    "QJlhDQ": {
+        "en-US": "Cheol-ho : Do not just say that. Help me!",
+        "pt-BR": "Cheol-ho : Não fique só falando, ajude um pouco!",
+        "es-ES": "Cheol-ho : Bueno,no te quedes ahí diciendo eso. ¡Ayúdame!"
+    },
+    "QZlhDQ": {
+        "en-US": "Gwisul : It should not be too difficult, so do your best.",
+        "pt-BR": "Gwisul : Não deve ser tão difícil. Esforce-se.",
+        "es-ES": "Gwisul : No debería de ser tan difícil, esfuérzate un poco."
+    },
+    "QplhDQ": {
+        "en-US": "Gwisul : This is an entertaining sight after so long~",
+        "pt-BR": "Gwisul : Faz tempo que não vejo algo tão divertido~",
+        "es-ES": "Gwisul : Hacía tiempo que no veía algo tan entretenido."
+    },
+    "Q5lhDQ": {
+        "en-US": "Cheol-ho : Waaaah!!!",
+        "pt-BR": "Cheol-ho : Uaaah!!!",
+        "es-ES": "Cheol-ho : ¡¡¡Buaaa!!!"
+    },
+    "RJlhDQ": {
+        "en-US": "Cheol-ho : Oh dear, pant, pant!",
+        "pt-BR": "Cheol-ho : Ai, of, of!",
+        "es-ES": "Cheol-ho : ¡Ay, cariño! Uf, Uf..."
+    },
+    "RZlhDQ": {
+        "en-US": "Cheol-ho : I thought I was going to die...",
+        "pt-BR": "Cheol-ho : Achei que fosse morrer...",
+        "es-ES": "Cheol-ho : Creí que me iba a morir..."
+    },
+    "RplhDQ": {
+        "en-US": "Gwisul : You only flailed around, and yet you are tired...",
+        "pt-BR": "Gwisul : Você só ficou se atrapalhando e ainda está cansado...",
+        "es-ES": "Gwisul : Solo te sacudiste un poco, y me vas a decir que te cansaste..."
+    },
+    "R5lhDQ": {
+        "en-US": "Cheol-ho : You only watched!!!",
+        "pt-BR": "Cheol-ho : E você só ficou olhando!!!",
+        "es-ES": "Cheol-ho : ¡¡¡Y tú solo miraste!!!"
+    },
+    "SJlhDQ": {
+        "en-US": "Gwisul : Hmm...",
+        "pt-BR": "Gwisul : Hmm...",
+        "es-ES": "Gwisul : Humm..."
+    },
+    "SZlhDQ": {
+        "en-US": "Gwisul : Let me see...",
+        "pt-BR": "Gwisul : Vamos ver...",
+        "es-ES": "Gwisul : Déjame ver..."
+    },
+    "SplhDQ": {
+        "en-US": "Cheol-ho : Do not ignore me!",
+        "pt-BR": "Cheol-ho : Não me ignore!",
+        "es-ES": "Cheol-ho : ¡No me ignores!"
+    },
+    "S5lhDQ": {
+        "en-US": "Gwisul : An ominous scent has begun to drift in, so you should hurry and find Hyunrok.",
+        "pt-BR": "Gwisul : Um cheiro sinistro começou a se espalhar, então é melhor procurar Hyunrok logo.",
+        "es-ES": "Gwisul : Empezó a llegar un olor que me da mal augurio, así que mejor apúrate y encuentra a Hyunrok."
+    },
+    "TJlhDQ": {
+        "en-US": "Gwisul : Hyunrok should be in his usual place.",
+        "pt-BR": "Gwisul : Se for Hyunrok, deve estar no lugar de sempre.",
+        "es-ES": "Gwisul : Hyunrok debe estar en el lugar de siempre."
+    },
+    "TZlhDQ": {
+        "en-US": "Cheol-ho : Then he must be near the main building to the north!",
+        "pt-BR": "Cheol-ho : Então deve estar perto do prédio principal ao norte!",
+        "es-ES": "Cheol-ho : ¡Entonces estará cerca del edificio principal, al norte!"
+    },
+    "TplhDQ": {
+        "en-US": "Gwisul : Do not just stand there. Hurry and move.",
+        "pt-BR": "Gwisul : Não fique parado aí. Mova-se logo.",
+        "es-ES": "Gwisul : No te quedes ahí, apúrate, vamos."
+    },
+    "T5lhDQ": {
+        "en-US": "Guard : I told you to turn back!!!",
+        "pt-BR": "Guarda : Eu disse para voltar!!!",
+        "es-ES": "Guardia : ¡¡¡Les dije que se vayan!!!"
+    },
+    "UJlhDQ": {
+        "en-US": "Guard : If you will not leave quietly, you will have to face us!!!!",
+        "pt-BR": "Guarda : Se não voltar por bem, terá de nos enfrentar!!!!",
+        "es-ES": "Guardia : ¡¡¡¡Si no se van en silencio, van a tener que enfrentarnos!!!!"
+    },
+    "UZlhDQ": {
+        "en-US": "Guardian of the Deep Forest",
+        "pt-BR": "Guardião da Floresta Profunda",
+        "es-ES": "Guardián del Bosque Profundo"
+    },
+    "UplhDQ": {
+        "en-US": "Guard : You should turn back now.",
+        "pt-BR": "Guarda : É melhor voltar agora.",
+        "es-ES": "Guardia : Será mejor que se vayan ya."
+    },
+    "U5lhDQ": {
+        "en-US": "Lord Ijotu",
+        "pt-BR": "Lorde Ijotu",
+        "es-ES": "Señor Lee"
+    },
+    "VJlhDQ": {
+        "en-US": "??????",
+        "pt-BR": "??????",
+        "es-ES": "??????"
+    },
+    "VZlhDQ": {
+        "en-US": "Mr. Gwang",
+        "pt-BR": "Sr. Gwang",
+        "es-ES": "Maestro Gwang"
+    },
+    "VplhDQ": {
+        "en-US": "Hyunrok",
+        "pt-BR": "Hyunrok",
+        "es-ES": "Hyunrok"
+    },
+    "V5lhDQ": {
+        "en-US": "Hyunrok : Sir Cheol-ho, Sir Gwisul, have you returned?",
+        "pt-BR": "Hyunrok : Senhor Cheol-ho, Senhor Gwisul, vocês voltaram.",
+        "es-ES": "Hyunrok : Cheol-ho, Gwisul, ¿habéis regresado?"
+    },
+    "WJlhDQ": {
+        "en-US": "Cheol-ho : So here you are!",
+        "pt-BR": "Cheol-ho : Então você estava aqui!",
+        "es-ES": "Cheol-ho : ¡Así que estabas aquí!"
+    },
+    "WZlhDQ": {
+        "en-US": "Cheol-ho : I have been looking for you for ages!",
+        "pt-BR": "Cheol-ho : Procurei por você por um bom tempo!",
+        "es-ES": "Cheol-ho : ¡Te he estado buscando por todas partes!"
+    },
+    "WplhDQ": {
+        "en-US": "Hyunrok : I was out here because I had something to think about.",
+        "pt-BR": "Hyunrok : Eu estava aqui fora pensando um pouco.",
+        "es-ES": "Hyunrok : Salí porque tenía que pensar en algo."
+    },
+    "W5lhDQ": {
+        "en-US": "Hyunrok : But who is this beside you...?",
+        "pt-BR": "Hyunrok : Mas quem é essa pessoa ao seu lado...?",
+        "es-ES": "Hyunrok : Pero, esa persona que te acompaña... ¿quién es?"
+    },
+    "XJlhDQ": {
+        "en-US": "Hyunrok : How did an outsider enter this place?",
+        "pt-BR": "Hyunrok : Como um ser de fora entrou neste lugar?",
+        "es-ES": "Hyunrok : ¿Cómo ha entrado en este lugar alguien del exterior?"
+    },
+    "XZlhDQ": {
+        "en-US": "Cheol-ho : What are you talking about!",
+        "pt-BR": "Cheol-ho : O que está dizendo?!",
+        "es-ES": "Cheol-ho : ¡Qué estás diciendo!"
+    },
+    "XplhDQ": {
+        "en-US": "Cheol-ho : This one is like me!",
+        "pt-BR": "Cheol-ho : Esta pessoa é um Ho como eu!",
+        "es-ES": "Cheol-ho : ¡Es es un tigre como yo!"
+    },
+    "X5lhDQ": {
+        "en-US": "Hyunrok : What are you talking about?",
+        "pt-BR": "Hyunrok : Do que está falando?",
+        "es-ES": "Hyunrok : ¿De qué estás hablando?"
+    },
+    "YJlhDQ": {
+        "en-US": "Hyunrok : That person is not a being of the forest like us, but someone who lives outside the forest.",
+        "pt-BR": "Hyunrok : Essa pessoa não é um ser da floresta como nós, mas alguém que vive fora dela.",
+        "es-ES": "Hyunrok : Esa persona no es una criatura del bosque como nosotros, es alguien de afuera del bosque."
+    },
+    "YZlhDQ": {
+        "en-US": "Gwisul : Hahahahahahaha!!!",
+        "pt-BR": "Gwisul : Hahahahahahaha!!!",
+        "es-ES": "Gwisul : ¡¡¡Jajajajajajaja!!!"
+    },
+    "YplhDQ": {
+        "en-US": "Gwisul : I thought something was strange. Did you really not know?!",
+        "pt-BR": "Gwisul : Eu achei estranho. Não me diga que você não sabia?!",
+        "es-ES": "Gwisul : ¡Me parecía raro, pero no me digas que no lo sabías!"
+    },
+    "Y5lhDQ": {
+        "en-US": "Cheol-ho : What?!",
+        "pt-BR": "Cheol-ho : O quê?!",
+        "es-ES": "Cheol-ho : ¡¿Qué?!"
+    },
+    "ZJlhDQ": {
+        "en-US": "Cheol-ho : But they smell just like me!!!",
+        "pt-BR": "Cheol-ho : Mas tem o mesmo cheiro que eu!!!",
+        "es-ES": "Cheol-ho : ¡¡¡Huele igual que yo!!!"
+    },
+    "ZZlhDQ": {
+        "en-US": "Hyunrok : There are similarities to you, Sir Cheol-ho, but...",
+        "pt-BR": "Hyunrok : Há partes parecidas com o Senhor Cheol-ho, mas...",
+        "es-ES": "Hyunrok : Es cierto que tiene algo parecido a vos, señor Cheol-ho, pero..."
+    },
+    "ZplhDQ": {
+        "en-US": "Cheol-ho : This cannot be!!!",
+        "pt-BR": "Cheol-ho : Não pode ser!!!",
+        "es-ES": "Cheol-ho : ¡¡¡No puede ser!!!"
+    },
+    "Z5lhDQ": {
+        "en-US": "Hyunrok : In any case, I think those who live outside the forest should return outside at once.",
+        "pt-BR": "Hyunrok : De qualquer forma, seria melhor que quem vive fora da floresta voltasse logo para fora.",
+        "es-ES": "Hyunrok : En cualquier caso, creo que quienes viven fuera del bosque deberían salir cuanto antes."
+    },
+    "aJlhDQ": {
+        "en-US": "Hyunrok : Those who disturbed the forest are approaching again.",
+        "pt-BR": "Hyunrok : Aqueles que bagunçaram a floresta estão se aproximando de novo.",
+        "es-ES": "Hyunrok : Quienes han alterado al bosque se están acercando de nuevo."
+    },
+    "aZlhDQ": {
+        "en-US": "Hyunrok : We cannot simply stand by either.",
+        "pt-BR": "Hyunrok : Nós também não podemos ficar parados.",
+        "es-ES": "Hyunrok : Nosotros tampoco podemos quedarnos de brazos cruzados."
+    },
+    "aplhDQ": {
+        "en-US": "Gwisul : Good grief~",
+        "pt-BR": "Gwisul : Ora~",
+        "es-ES": "Gwisul : Aaaay..."
+    },
+    "a5lhDQ": {
+        "en-US": "Gwisul : Are you going to start something troublesome again?",
+        "pt-BR": "Gwisul : Vai começar outra coisa trabalhosa?",
+        "es-ES": "Gwisul : ¿Vas a ponerte a armar problemas de nuevo?"
+    },
+    "bJlhDQ": {
+        "en-US": "Lord Ijotu : Where is this now?",
+        "pt-BR": "Lorde Ijotu : Onde é isso agora?",
+        "es-ES": "Señor Lee : ¿Y dónde estamos ahora?"
+    },
+    "bZlhDQ": {
+        "en-US": "Lord Ijotu : Mr. Gwang, I think we have come too deep inside. Would it not be better to leave this sort of thing to the servants?",
+        "pt-BR": "Lorde Ijotu : Sr. Gwang, acho que entramos fundo demais. Não seria melhor deixar isso para os criados?",
+        "es-ES": "Señor Lee : Maestro Gwang, creo que estamos demasiado adentro. ¿No sería mejor dejar este tipo de cosas a los sirvientes?"
+    },
+    "bplhDQ": {
+        "en-US": "Lord Ijotu : Goodness, what is this!",
+        "pt-BR": "Lorde Ijotu : Nossa, o que é isso?!",
+        "es-ES": "Señor Lee : ¡Por Dios, pero qué es esto!"
+    },
+    "b5lhDQ": {
+        "en-US": "Lord Ijotu : Beasts wearing clothes!",
+        "pt-BR": "Lorde Ijotu : Animais usando roupas!",
+        "es-ES": "Señor Lee : ¡Animales vestidos con ropa!"
+    },
+    "cJlhDQ": {
+        "en-US": "Hyunrok : How rude can you be!!!",
+        "pt-BR": "Hyunrok : Como pode ser tão rude!!!",
+        "es-ES": "Hyunrok : ¡¡¡Cómo pueden ser tan maleducados!!!"
+    },
+    "cZlhDQ": {
+        "en-US": "Lord Ijotu : Goodness!",
+        "pt-BR": "Lorde Ijotu : Ai!",
+        "es-ES": "Señor Lee : ¡Dios mío!"
+    },
+    "cplhDQ": {
+        "en-US": "Lord Ijotu : A person with horns!!!",
+        "pt-BR": "Lorde Ijotu : Uma pessoa com chifres!!!",
+        "es-ES": "Señor Lee : ¡¡¡Una persona con cuernos!!!"
+    },
+    "c5lhDQ": {
+        "en-US": "Mr. Gwang : Ohhh!!!!",
+        "pt-BR": "Sr. Gwang : Ohhh!!!!",
+        "es-ES": "Maestro Gwang : ¡¡¡¡Oh!!!!"
+    },
+    "dJlhDQ": {
+        "en-US": "Mr. Gwang : I have finally found them!!!",
+        "pt-BR": "Sr. Gwang : Finalmente encontrei!!!",
+        "es-ES": "Maestro Gwang : ¡¡¡Por fin los he encontrado!!!"
+    },
+    "dZlhDQ": {
+        "en-US": "Mr. Gwang : The mysterious beasts of the deep forest that humans cannot enter!!!!",
+        "pt-BR": "Sr. Gwang : As misteriosas feras da floresta profunda, onde dizem que humanos não podem entrar!!!!",
+        "es-ES": "Maestro Gwang : ¡¡¡Las misteriosas bestias del bosque profundo, donde dicen que ningún humano puede entrar!!!"
+    },
+    "dplhDQ": {
+        "en-US": "Mr. Gwang : The legendary animal whose horn can grant eternal life if cut off, boiled, and eaten is right before my eyes!!!!",
+        "pt-BR": "Sr. Gwang : O lendário animal cujos chifres, se cortados e fervidos, concedem imortalidade, está diante dos meus olhos!!!!",
+        "es-ES": "Maestro Gwang : ¡¡¡El animal legendario cuyos cuernos, si se cortan y se hierven, conceden la inmortalidad, está ante mis ojos!!!!"
+    },
+    "d5lhDQ": {
+        "en-US": "Hyunrok : Stand back!!! How dare you!",
+        "pt-BR": "Hyunrok : Afaste-se!!! Como ousa!",
+        "es-ES": "Hyunrok : ¡¡¡Atrás!!! ¡Cómo se atreven!"
+    },
+    "eJlhDQ": {
+        "en-US": "Mr. Gwang : Hehehehehe!!!",
+        "pt-BR": "Sr. Gwang : Hehehehehe!!!",
+        "es-ES": "Maestro Gwang : ¡¡¡Jejejejeje!!!"
+    },
+    "eZlhDQ": {
+        "en-US": "Mr. Gwang : The beasts of the forest will not be able to stop me!",
+        "pt-BR": "Sr. Gwang : As feras da floresta não conseguirão me impedir!",
+        "es-ES": "Maestro Gwang : ¡Las bestias del bosque no van a poder detenerme!"
+    },
+    "eplhDQ": {
+        "en-US": "Mr. Gwang : Any beasts that have taken my medicine will have no choice but to obey my commands.",
+        "pt-BR": "Sr. Gwang : Todos os animais que tomaram meu remédio serão obrigados a obedecer às minhas ordens.",
+        "es-ES": "Maestro Gwang : Cualquier animal que tome mi medicina no tendrá más remedio que obedecer  mis órdenes."
+    },
+    "e5lhDQ": {
+        "en-US": "Lord Ijotu : Gaaah!!!",
+        "pt-BR": "Lorde Ijotu : Graaah!!!",
+        "es-ES": "Señor Lee : ¡¡¡Argh!!!!"
+    },
+    "fJlhDQ": {
+        "en-US": "?????? : Kweeeek!!!",
+        "pt-BR": "?????? : Guééék!!!",
+        "es-ES": "?????? : ¡¡¡Cuiiiik!!!"
+    },
+    "fZlhDQ": {
+        "en-US": "Hyunrok : Ahh!!",
+        "pt-BR": "Hyunrok : Ahh!!",
+        "es-ES": "Hyunrok : ¡¡Oh!!"
+    },
+    "fplhDQ": {
+        "en-US": "Hyunrok : No!!!",
+        "pt-BR": "Hyunrok : Droga!!!",
+        "es-ES": "Hyunrok : ¡No!"
+    },
+    "f5lhDQ": {
+        "en-US": "Cheol-ho : Uwaaaaaah!!! Disgusting!!!!!",
+        "pt-BR": "Cheol-ho : Uaaaaaah!!! Que nojo!!!!!",
+        "es-ES": "Cheol-ho : ¡¡¡Ugh!!! ¡¡¡Qué asco!!!"
+    },
+    "gJlhDQ": {
+        "en-US": "Cheol-ho : Am I going to end up like that too!!!",
+        "pt-BR": "Cheol-ho : Eu também vou acabar ficando assim?!",
+        "es-ES": "Cheol-ho : ¡¡¡¿Yo también voy a terminar así?!!!"
+    },
+    "gZlhDQ": {
+        "en-US": "Gwisul : Calm down and stay still.",
+        "pt-BR": "Gwisul : Acalme-se e fique quieto.",
+        "es-ES": "Gwisul : Cálmate y quédate quieto."
+    },
+    "gplhDQ": {
+        "en-US": "Gwisul : Things are becoming more interesting than expected.",
+        "pt-BR": "Gwisul : As coisas estão ficando mais interessantes do que eu esperava.",
+        "es-ES": "Gwisul : La situación se está poniendo más interesante de lo que esperaba."
+    },
+    "g5lhDQ": {
+        "en-US": "Cheol-ho : This is no time to stay still!",
+        "pt-BR": "Cheol-ho : Não é hora de ficar quieto!",
+        "es-ES": "Cheol-ho : ¡No es momento de quedarse quieto!"
+    },
+    "hJlhDQ": {
+        "en-US": "Cheol-ho : What if I become a monster like that too!",
+        "pt-BR": "Cheol-ho : E se eu também virar aquele monstro?!",
+        "es-ES": "Cheol-ho : ¡Qué hago si yo también me convierto en un monstruo así!"
+    },
+    "hZlhDQ": {
+        "en-US": "Gwisul : Well, for now, let us put those who have become monsters to sleep and talk again afterward.",
+        "pt-BR": "Gwisul : Bem, vamos primeiro fazer os que viraram monstros dormirem e depois conversamos.",
+        "es-ES": "Gwisul : Bueno, por el momento, vamos a dormir a los que se han convertido en monstruos y luego hablamos bien."
+    },
+    "hplhDQ": {
+        "en-US": "Mr. Gwang : Ahh!!",
+        "pt-BR": "Sr. Gwang : Ahh!!",
+        "es-ES": "Maestro Gwang : ¡¡Ah!!"
+    },
+    "h5lhDQ": {
+        "en-US": "Mr. Gwang : My cute children!!!",
+        "pt-BR": "Sr. Gwang : Meus adoráveis filhotes!!!",
+        "es-ES": "Maestro Gwang : ¡¡¡Mis adorables criaturas!!!"
+    },
+    "iJlhDQ": {
+        "en-US": "Hyunrok : Trying to overcome this forest with that level of power was reckless.",
+        "pt-BR": "Hyunrok : Foi imprudente tentar vencer esta floresta com uma força desse nível.",
+        "es-ES": "Hyunrok : Intentar vencer a este bosque con un poder de ese nivel no tuvo ningún sentido."
+    },
+    "iZlhDQ": {
+        "en-US": "Hyunrok : You should return to where you belong.",
+        "pt-BR": "Hyunrok : Seria melhor que vocês voltassem ao lugar ao qual pertencem.",
+        "es-ES": "Hyunrok : Deberías volver al lugar donde perteneces."
+    },
+    "iplhDQ": {
+        "en-US": "Mr. Gwang : Uwaaaah!!!!!",
+        "pt-BR": "Sr. Gwang : Uaaah!!!!!",
+        "es-ES": "Maestro Gwang : ¡¡¡¡¡Aaaaaah!!!!!"
+    },
+    "i5lhDQ": {
+        "en-US": "Hyunrok : Even being a lowly creature seems more than you deserve, but I hope life as one gives you a chance to reflect on your sins.",
+        "pt-BR": "Hyunrok : Até uma criatura insignificante parece ser demais para você, mas espero que a vida de uma criatura insignificante lhe dê a chance de refletir sobre seus pecados.",
+        "es-ES": "Hyunrok : Aunque incluso la vida de una criatura insignificante parece ser más de lo que mereces, espero que sea una vida que te traiga la oportunidad de reflexionar sobre tus pecados."
+    },
+    "jJlhDQ": {
+        "en-US": "Hyunrok : And {0}. Despite my rudeness, you helped us. I am deeply grateful.",
+        "pt-BR": "Hyunrok : E, Senhor {0}. Agradeço profundamente por nos ajudar apesar da minha grosseria.",
+        "es-ES": "Hyunrok : Y a vos, {0}. Os agradezco profundamente que nos hayáis ayudado a pesar de mi descortesía."
+    },
+    "jZlhDQ": {
+        "en-US": "Cheol-ho : Thank you!",
+        "pt-BR": "Cheol-ho : Obrigado!",
+        "es-ES": "Cheol-ho : ¡Gracias!"
+    },
+    "jplhDQ": {
+        "en-US": "Cheol-ho : Then, since we punished the bad one, let us hold a feast!",
+        "pt-BR": "Cheol-ho : Já que punimos o sujeito que fazia maldades, vamos fazer um banquete!",
+        "es-ES": "Cheol-ho : ¡Ya que hemos castigado al malo, celebremos con un banquete!"
+    },
+    "j5lhDQ": {
+        "en-US": "Gwisul : Holding a feast is fine, but if one from outside the forest stays too long, they will no longer be able to return outside.",
+        "pt-BR": "Gwisul : Fazer um banquete é bom, mas se alguém de fora da floresta ficar muito tempo aqui, não conseguirá voltar para fora.",
+        "es-ES": "Gwisul : No está mal celebrar un banquete, pero si alguien de afuera del bosque permanece aquí demasiado tiempo, no podrá regresar al exterior."
+    },
+    "kJlhDQ": {
+        "en-US": "Cheol-ho : Then they can keep playing with me!",
+        "pt-BR": "Cheol-ho : Então poderá continuar brincando comigo!",
+        "es-ES": "Cheol-ho : ¡Entonces pueden seguir jugando conmigo!"
+    },
+    "kZlhDQ": {
+        "en-US": "Hyunrok : That will not do.",
+        "pt-BR": "Hyunrok : Isso não pode acontecer.",
+        "es-ES": "Hyunrok : Eso no puede ser."
+    },
+    "kplhDQ": {
+        "en-US": "Hyunrok : Let us send them back now.",
+        "pt-BR": "Hyunrok : Vamos enviá-lo de volta agora.",
+        "es-ES": "Hyunrok : Vamos a enviarlos de regreso ya."
+    },
+    "k5lhDQ": {
+        "en-US": "Cheol-ho : Tch--",
+        "pt-BR": "Cheol-ho : Tsc--",
+        "es-ES": "Cheol-ho : Bah..."
+    },
+    "lJlhDQ": {
+        "en-US": "Hyunrok : Then please return before you are trapped here.",
+        "pt-BR": "Hyunrok : Então volte logo antes de ficar preso neste lugar.",
+        "es-ES": "Hyunrok : Entonces, por favor, regresa, antes de que no puedas salir de este lugar."
+    },
+    "lZlhDQ": {
+        "en-US": "Hyunrok : As thanks, I left a small letter in front of the forest, so please read it before you leave.",
+        "pt-BR": "Hyunrok : Como recompensa, deixei uma pequena carta diante da floresta. Leia-a antes de partir.",
+        "es-ES": "Hyunrok : Como agradecimiento, he dejado una pequeña carta en la entrada del bosque. Por favor, leéla antes de irte."
+    },
+    "lplhDQ": {
+        "en-US": "Hyunrok : Then, farewell...",
+        "pt-BR": "Hyunrok : Então, agora...",
+        "es-ES": "Hyunrok : Entonces, me despido..."
+    },
+    "l5lhDQ": {
+        "en-US": "Hyunrok : Please return safely...",
+        "pt-BR": "Hyunrok : Volte em segurança...",
+        "es-ES": "Hyunrok : Regresa con cuidado, por favor..."
+    },
+    "mJlhDQ": {
+        "en-US": "?????? : Gaaaaaaaah!!!",
+        "pt-BR": "?????? : Graaaaaaaah!!!",
+        "es-ES": "?????? : ¡¡¡Gaaaaaaaaah!!!"
+    },
+    "mZlhDQ": {
+        "en-US": "?????? : Guweeeeeeeek!!!!",
+        "pt-BR": "?????? : Guweeeeeeeek!!!!",
+        "es-ES": "?????? : ¡¡¡Gueeeeeeeec!!!!"
+    },
+    "mplhDQ": {
+        "en-US": "??????",
+        "pt-BR": "??????",
+        "es-ES": "??????"
+    },
+    "m5lhDQ": {
+        "en-US": "Hyunrok : Staying here any longer is too dangerous. Hurry outside!!!!",
+        "pt-BR": "Hyunrok : É perigoso demais permanecer aqui por mais tempo. Para fora, rápido!!!!",
+        "es-ES": "Hyunrok : Permanecer más tiempo en este lugar es demasiado peligroso. ¡¡¡Rápido, al exterior!!!!"
+    }
+}

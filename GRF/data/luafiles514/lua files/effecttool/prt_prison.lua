@@ -1,3 +1,4 @@
+
 _prt_prison_effect_version = 2
 _prt_prison_emitterInfo = {
 	[0] = {

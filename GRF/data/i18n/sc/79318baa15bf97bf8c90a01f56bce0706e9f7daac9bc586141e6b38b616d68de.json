@@ -46,8 +46,8 @@
     },
     "qd82DQ": {
         "en-US": "[Captain Janssen]\nSorry, but anyone below level {0} is prohibited from entering Misty Island from now on. It is a measure imposed by the local fishermen's association because of the meteor that fell recently.",
-        "pt-BR": "[Capitão Janssen]\nSinto muito, mas quem estiver abaixo do nível {0} está proibido de entrar na Ilha Misty. É uma medida tomada pela associação de pescadores local por causa do meteoro que caiu recentemente.",
-        "es-ES": "[Capitán Janssen]\nLo siento, pero los menores de nivel {0} tienen prohibido entrar en Isla Misty. Es una medida tomada por la asociación de pescadores de aquí a causa del meteorito que cayó hace poco."
+        "pt-BR": "[Capitão Janssen]\nSinto muito, mas quem estiver abaixo do nível {0} está proibido de entrar na Ilha Nebulosa. É uma medida tomada pela associação de pescadores local por causa do meteoro que caiu recentemente.",
+        "es-ES": "[Capitán Janssen]\nLo siento, pero los menores de nivel {0} tienen prohibido entrar en Isla de la Niebla. Es una medida tomada por la asociación de pescadores de aquí a causa del meteorito que cayó hace poco."
     },
     "qt82DQ": {
         "en-US": "It cannot be helped.",
@@ -66,8 +66,8 @@
     },
     "rd82DQ": {
         "en-US": "[Captain Janssen]\nAh. Is this your first time? Misty Island is the island where an old tower called ^0000FFEndless Tower^000000 once stood.",
-        "pt-BR": "[Capitão Janssen]\nAh. Por acaso é sua primeira vez? Ilha Misty é uma ilha onde antigamente havia uma torre antiga chamada ^0000FFTorre Sem Fim^000000.",
-        "es-ES": "[Capitán Janssen]\nAh. ¿Es tu primera vez, quizá? Isla Misty es una isla donde antes se alzaba una antigua torre llamada ^0000FFTorre Infinita^000000."
+        "pt-BR": "[Capitão Janssen]\nAh. Por acaso é sua primeira vez? Ilha Nebulosa é uma ilha onde antigamente havia uma torre antiga chamada ^0000FFTorre Sem Fim^000000.",
+        "es-ES": "[Capitán Janssen]\nAh. ¿Es tu primera vez, quizá? Isla de la Niebla es una isla donde antes se alzaba una antigua torre llamada ^0000FFTorre Infinita^000000."
     },
     "rt82DQ": {
         "en-US": "[Captain Janssen]\nIt seems the owner has changed now, and the name has changed as well. I have not dared venture deeper into the island myself.",
@@ -81,13 +81,13 @@
     },
     "sN82DQ": {
         "en-US": "[Captain Janssen]\nHmm. The cost to go to Misty Island is 10,000 Zeny. Are you ready to depart?",
-        "pt-BR": "[Capitão Janssen]\nHmm, a viagem para Ilha Misty custa 10.000 zenys. Está pronto para partir?",
-        "es-ES": "[Capitán Janssen]\nMmm, el viaje a Isla Misty cuesta 10 000 zenis. ¿Estás listo para partir?"
+        "pt-BR": "[Capitão Janssen]\nHmm, a viagem para Ilha Nebulosa custa 10.000 zenys. Está pronto para partir?",
+        "es-ES": "[Capitán Janssen]\nMmm, el viaje a Isla de la Niebla cuesta 10 000 zenis. ¿Estás listo para partir?"
     },
     "sd82DQ": {
         "en-US": "Misty Island?",
-        "pt-BR": "Ilha Misty?",
-        "es-ES": "¿Isla Misty?"
+        "pt-BR": "Ilha Nebulosa?",
+        "es-ES": "¿Isla de la Niebla?"
     },
     "st82DQ": {
         "en-US": "Let's depart.",
@@ -260,9 +260,9 @@
         "es-ES": "[^B20213Voz de Leticia^000000]\n[[^B20213Ah~ Ahora que te veo bien, esa cara me resulta familiar. Veo que sigues con vida y en buen estado.^000000]]"
     },
     "1N82DQ": {
-        "en-US": "[^B20213Leticia's Words^000000]\n[[^B20213Since we are before Lord Oscar, I will show at least the minimum courtesy. But when it is just the two of us, do not expect such Ho from me.^000000]]",
-        "pt-BR": "[^B20213Voz de Letícia^000000]\n[[^B20213Como estamos diante do senhor Oscar, vou manter o mínimo de cortesia. Mas, quando estivermos só nós dois, não espere que eu demonstre Ho.^000000]]",
-        "es-ES": "[^B20213Voz de Leticia^000000]\n[[^B20213Como estoy ante el señor Oscar, te mostraré un mínimo de cortesía. Pero cuando estemos solo tú y yo, no esperes esa Ho cortesía de mí.^000000]]"
+        "en-US": "[^B20213Leticia's Words^000000]\n[[^B20213Since we are before Lord Oscar, I will show at least the minimum courtesy. But when it is just the two of us, do not expect such kindness from me.^000000]]",
+        "pt-BR": "[^B20213Voz de Letícia^000000]\n[[^B20213Como estamos diante do senhor Oscar, vou manter o mínimo de cortesia. Mas, quando estivermos só nós dois, não espere que eu demonstre gentileza.^000000]]",
+        "es-ES": "[^B20213Voz de Leticia^000000]\n[[^B20213Como estoy ante el señor Oscar, te mostraré un mínimo de cortesía. Pero cuando estemos solo tú y yo, no esperes esa cortesía de mí.^000000]]"
     },
     "1d82DQ": {
         "en-US": "[Oscar]\nI sense an unfamiliar yet familiar energy from where the tower was destroyed. It seems I will have to see it for myself. Lady Leticia, you have time now, correct?",

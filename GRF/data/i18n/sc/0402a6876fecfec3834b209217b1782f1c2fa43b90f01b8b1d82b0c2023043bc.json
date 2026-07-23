@@ -32,7 +32,7 @@
     "BmbFBg": {
         "en-US": "[{0}]\n{0}...",
         "pt-BR": "[{0}]\n{0}...",
-        "es-ES": "[{0}]\n{0}…"
+        "es-ES": "[{0}]\n{0}..."
     },
     "B2bFBg": {
         "en-US": "[Dacquoise]\nAs for me, I'm Dacquoise, a disciple of the famous legendary chef of Rune Midgard, ^0000CDCharles Orlean^000000.",
@@ -62,7 +62,7 @@
     "DGbFBg": {
         "en-US": "[Eclaire]\nBread? Of course, it's good on its own. But together with cheese, meat, and vegetables... No one could reject such fantastic harmony.",
         "pt-BR": "[Bala Gil]\nAquela massa crocantinha do pastel é deliciosa...\nMas não é nada se não tiver um recheio de queijo, tomate e orégano!",
-        "es-ES": "[Eclaire]\n¿Pan? Claro que es rico por sí solo. Pero si lo combinas con queso, carne y verduras… Nadie podría negarse a esa fantástica armonía."
+        "es-ES": "[Eclaire]\n¿Pan? Claro que es rico por sí solo. Pero si lo combinas con queso, carne y verduras... Nadie podría negarse a esa fantástica armonía."
     },
     "DWbFBg": {
         "en-US": "[Mille Feuille]\nI like Minorous hoof stew!",
@@ -87,7 +87,7 @@
     "EWbFBg": {
         "en-US": "I'm not interested...",
         "pt-BR": "Prefiro pedir comida pronta pelo Raggi.",
-        "es-ES": "No me interesa…"
+        "es-ES": "No me interesa..."
     },
     "EmbFBg": {
         "en-US": "Wow! I want to learn!",
@@ -162,7 +162,7 @@
     "IGbFBg": {
         "en-US": "[Dacquoise]\nAnd the second effect! Dun dun dun!",
         "pt-BR": "[Banana Maria]\nE em segundo lugar, mas não menos importante...",
-        "es-ES": "[Dacquoise]\nY el segundo efecto es que… *¡Tun, tun, tun!*"
+        "es-ES": "[Dacquoise]\nY el segundo efecto es que... *¡Tun, tun, tun!*"
     },
     "IWbFBg": {
         "en-US": "[Eclaire]\n^0000CDRestoring HP and SP^000000!",
@@ -687,7 +687,7 @@
     "iWbFBg": {
         "en-US": "[Eclaire]\nIf you eat this, you'll be able to hit a bulls-eye with your eyes closed!\n Actually, perfect accuracy isn't likely for Level 1... But the point still stands.",
         "pt-BR": "[Bala Gil] \nSe comer isso, vai acertar o alvo até de olhos fechados! \nNa verdade, precisão perfeita não é provável no Nível 1... Mas a ideia continua valendo.",
-        "es-ES": "[Eclaire]\nSi comes esto, ¡podrás dar en el blanco con los ojos cerrados!\n En realidad, no es muy probable que obtengas precisión perfecta con un plato de nivel1… Pero ya sabes a lo que me refiero"
+        "es-ES": "[Eclaire]\nSi comes esto, ¡podrás dar en el blanco con los ojos cerrados!\n En realidad, no es muy probable que obtengas precisión perfecta con un plato de nivel1... Pero ya sabes a lo que me refiero"
     },
     "imbFBg": {
         "en-US": "[Mille Feuille]\nSeek out ^0000CDCharles Orlean in the basement of Prontera Castle^000000. You'll be able to learn about real cooking.",
@@ -767,7 +767,7 @@
     "mWbFBg": {
         "en-US": "[Dacquoise]\nGolden Roasted Apple. No one can resist the flowing golden juices.",
         "pt-BR": "[Banana Maria]\nA Maçã do Amor! Eu particularmente acho doce demais, mas o pessoal costuma gostar.",
-        "es-ES": "[Dacquoise]\nManzana asada dorada… Nadie puede resistirse a sus jugos dorados."
+        "es-ES": "[Dacquoise]\nManzana asada dorada... Nadie puede resistirse a sus jugos dorados."
     },
     "mmbFBg": {
         "en-US": "[Eclaire]\nThis dish boosts DEX. It's mainly eaten by archers who want to boost their attack, or by people who want to increase their HIT.",
@@ -882,7 +882,7 @@
     "sGbFBg": {
         "en-US": "[Hungry Trainee]\nDon't they take orders here? It's been an hour...\nThe people who should be taking my order are over there...",
         "pt-BR": "[Modiphome]\nCadê meu pedido? Já faz uma hora...\nEssa cozinha aí só enrola...",
-        "es-ES": "[Aprendiz hambriento]\n¿No toman pedidos aquí? Ya pasó una hora…\nLa persona que debería tomar mi pedido está por allí…"
+        "es-ES": "[Aprendiz hambriento]\n¿No toman pedidos aquí? Ya pasó una hora...\nLa persona que debería tomar mi pedido está por allí..."
     },
     "sWbFBg": {
         "en-US": "[Scholarship Trainee]\nWhy are you still asking the same thing?\nI've told you a hundred times, it's a buffet!",
@@ -917,7 +917,7 @@
     "t2bFBg": {
         "en-US": "[Broke Trainee]\nSchool lunch has gotten more expensive lately... I'm eating while I still can.",
         "pt-BR": "[Muck Rana]\nA merenda escolar tem ficado mais cara ultimamente...",
-        "es-ES": "[Aprendiz sin dinero]\nEl almuerzo escolar se volvió más caro últimamente… Estoy comiendo mientras puedo."
+        "es-ES": "[Aprendiz sin dinero]\nEl almuerzo escolar se volvió más caro últimamente... Estoy comiendo mientras puedo."
     },
     "uGbFBg": {
         "en-US": "[Broke Trainee]\nI've been here for 21 hours.\nThere's no time limit at this buffet, so you can eat for as long as you like.",

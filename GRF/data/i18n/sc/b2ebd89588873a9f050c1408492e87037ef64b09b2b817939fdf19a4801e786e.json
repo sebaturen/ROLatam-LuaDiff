@@ -17,7 +17,7 @@
     "Y5Z5Aw": {
         "en-US": "[Harim]\nI can do dis alone ... No, maybe I need a hand or two.",
         "pt-BR": "[Harim]\nNão é recomendável ficar aqui.",
-        "es-ES": "[Harim]\nPuedo hacerlo solo… No, quizá' necesite algo de ayuda."
+        "es-ES": "[Harim]\nPuedo hacerlo solo... No, quizá' necesite algo de ayuda."
     },
     "ZJZ5Aw": {
         "en-US": "^4D4DFFThis quest is for Level 100 and up.^000000",
@@ -117,7 +117,7 @@
     "d5Z5Aw": {
         "en-US": "[Harim]\nDat should do it for now ...\nLet's get some rest and start again tomorrow morning.",
         "pt-BR": "[Harim]\nIsso é tudo por hoje...\nVamos dormir e acordar quando amanhecer.",
-        "es-ES": "[Harim]\nEso e' todo por ahora…\nBueno, descansemo' un poco y volvamo' a comenzar mañana temprano."
+        "es-ES": "[Harim]\nEso e' todo por ahora...\nBueno, descansemo' un poco y volvamo' a comenzar mañana temprano."
     },
     "eJZ5Aw": {
         "en-US": "[Harim]\nYa good?\nReady ta hunt dem Hill Winds?",
@@ -157,7 +157,7 @@
     "f5Z5Aw": {
         "en-US": "[Harim]\nHmm ... we need ta push dese ^4D4DFFHill Winds^000000 off from da plain ...\nI'm givin' ma best, but I can't do it alone.",
         "pt-BR": "[Harim]\nSe você for visitar as pradarias, verá muitos ^4D4DFFVentos da Colina^000000 por aí...\nEles são muitos rápidos no ataque.",
-        "es-ES": "[Harim]\nMmm… Debemo' eliminar a esto' ^4D4DFFViento' de la colina^000000 de la llanura…\nEstoy dándolo todo, pero no puedo hacerlo solo."
+        "es-ES": "[Harim]\nMmm... Debemo' eliminar a esto' ^4D4DFFViento' de la colina^000000 de la llanura...\nEstoy dándolo todo, pero no puedo hacerlo solo."
     },
     "gJZ5Aw": {
         "en-US": "[Harim]\nI'll give ya da same as da Eden Group would, how 'bout it?",
@@ -192,12 +192,12 @@
     "hpZ5Aw": {
         "en-US": "[Cheddar]\nI wonder if the hunters are doing their job right.\nI should've asked them to get me their hair while they're at it ...",
         "pt-BR": "[Cheda]\nNum sei onde tão os caçadores de animais selvagens.\nQueria pedir um tico de cabelo de Kobold para eles...",
-        "es-ES": "[Cheddar]\nMe pregunto si los cazadores estarán haciendo bien su trabajo.\nTendría que haberles pedido que me traigan el pelo ya que están…"
+        "es-ES": "[Cheddar]\nMe pregunto si los cazadores estarán haciendo bien su trabajo.\nTendría que haberles pedido que me traigan el pelo ya que están..."
     },
     "h5Z5Aw": {
         "en-US": "[Cheddar]\nThanks for the dog ... no, Kobold hair.\nI'll put them to good use, like pillows and blankets.",
         "pt-BR": "[Cheda]\nO Cabelo que cê trouxe deve dá.\nVô usá eles em tudo que dé, em travesseiros, cobertores...",
-        "es-ES": "[Cheddar]\nGracias por el pelo de perro… No, pelo de Kobold.\nLo usaré para hacer algo útil, como almohadas y mantas."
+        "es-ES": "[Cheddar]\nGracias por el pelo de perro... No, pelo de Kobold.\nLo usaré para hacer algo útil, como almohadas y mantas."
     },
     "iJZ5Aw": {
         "en-US": "[Cheddar]\nOf course, I must get rid of these fleas first.\nHaha!",
@@ -352,7 +352,7 @@
     "ppZ5Aw": {
         "en-US": "[Minae]\nOh, wow ... I was watching you from the edge of town.\nAlright. Wouldn't it be possible to farm this land after pulling out all the weeds?",
         "pt-BR": "[Minne]\nAhh, eu estava olhando você de lá de cima do morro.\nAgora que não tem ervas daninhas, posso cuidar do terreno, né?",
-        "es-ES": "[Minae]\nAh, vaya… Te estaba observando desde el límite de la ciudad.\nMuy bien. ¿Será posible cultivar estas tierras después de arrancar toda la maleza?"
+        "es-ES": "[Minae]\nAh, vaya... Te estaba observando desde el límite de la ciudad.\nMuy bien. ¿Será posible cultivar estas tierras después de arrancar toda la maleza?"
     },
     "p5Z5Aw": {
         "en-US": "[Minae]\nIt's all thanks to you, Adventurer!\nI'll be a great farmer one day!",
@@ -612,12 +612,12 @@
     "2pZ5Aw": {
         "en-US": "[Tarim]\nBingo! This is it.\nThis chill ...!\nVery good!",
         "pt-BR": "[Tarim]\nÉ isso aí.\nAi que geladinho...!\nAh~ Muito bom!",
-        "es-ES": "[Tarim]\n¡Bingo! Esto es.\n¡Qué escalofríos…!\n¡Muy bien!"
+        "es-ES": "[Tarim]\n¡Bingo! Esto es.\n¡Qué escalofríos...!\n¡Muy bien!"
     },
     "25Z5Aw": {
         "en-US": "[Tarim]\nIsn't the Ice Cave pretty far from here? Thank you so much!\nAhh ... what to make first with this!\nThis is going to be fun.",
         "pt-BR": "[Tarim]\nA Caverna de Gelo é bem longe daqui!\nHora de preparar uns bons drinks!\nVão ser um ótimo refresco.",
-        "es-ES": "[Tarim]\n¿Acaso la Cueva de hielo no está muy lejos de aquí? ¡Muchísimas gracias!\nAhh… ¡¿Qué hago primero con esto?!\nVa a ser divertido."
+        "es-ES": "[Tarim]\n¿Acaso la Cueva de hielo no está muy lejos de aquí? ¡Muchísimas gracias!\nAhh... ¡¿Qué hago primero con esto?!\nVa a ser divertido."
     },
     "3JZ5Aw": {
         "en-US": "[Tarim]\nThis place is very hot and dry.\nA reason why most orders are for cold dishes.",
@@ -647,7 +647,7 @@
     "4ZZ5Aw": {
         "en-US": "[Magician's Friend]\nI hope someone else can kill the monsters in the dungeon ...",
         "pt-BR": "[Amigo do Mago]\nPreciso de ajuda para lidar com os monstros daqui...",
-        "es-ES": "[Amigo del mago]\nEspero que alguien más pueda matar a los monstruos de la mazmorra…"
+        "es-ES": "[Amigo del mago]\nEspero que alguien más pueda matar a los monstruos de la mazmorra..."
     },
     "4pZ5Aw": {
         "en-US": "Incommunicable Yeti",
@@ -702,7 +702,7 @@
     "7JZ5Aw": {
         "en-US": "[Magician's Friend]\nAhh ... I don't want to go in and end up like Mahio ...",
         "pt-BR": "[Amigo do Mago]\nAh... eu não vou entrar e me congelar igual ao Maheo...",
-        "es-ES": "[Amigo del mago]\nAhh… No quiero entrar y terminar como Mahio…"
+        "es-ES": "[Amigo del mago]\nAhh... No quiero entrar y terminar como Mahio..."
     },
     "7ZZ5Aw": {
         "en-US": "[Magician's Friend]\nThanks for your help with my last experiment.\nThat Gazeti was especially interesting.\nIf you don't mind, please help me again next time.",

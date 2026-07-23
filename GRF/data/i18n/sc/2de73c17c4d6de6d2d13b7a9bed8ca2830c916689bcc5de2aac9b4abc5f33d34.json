@@ -1145,7 +1145,7 @@
         "es-ES": "[Solicitud del jefe del equipo de subyugación de los Orcos]\nUbicación: Pueblo de Orco.\nObjetivo: Derrota a 15 Guerreros orcos, 15 Damas orcos y 10 Bebés orcos.\nPremio: 23520 de EXP y 24300 de EXP de clase."
     },
     "xa0sCg": {
-        "en-US": "Request from Orc subjugation team leader\n^4D4DFF[Operation Orc Wipeout]^000000 Quest accepted.",
+        "en-US": "^4D4DFFThe orcs' vigilance has increased.^000000",
         "pt-BR": "[Solicitação]\n^4D4DFF[Família Orc]^000000 foi aceita.",
         "es-ES": "Solicitud del jefe del equipo de subyugación de los Orcos.\n^4D4DFF[Operación Aniquilación de Orcos]^000000: misión aceptada."
     },
@@ -1470,7 +1470,7 @@
         "es-ES": "[Solicitud  completada]\nUbicación: Playa de Kokomo.\nObjetivo: Derrota a 10 Focas y 10 Nutrias marinas.\nPremio: 10000 de EXP y 10000 de EXP de clase."
     },
     "Bq4sCg": {
-        "en-US": "[Request from Vigilante Group Member]\nLocation: Kokomo Beach\nTarget: Defeat 10 Seal and 10 Sea-Otter\nReward: Exp 10000, Jexp 10000",
+        "en-US": "[Request Completed]\nLocation: Geffen Underground 2F\nTarget: Defeat 10 Ghoul and 10 Jakk\nReward: Exp 14800, Jexp 13660",
         "pt-BR": "[Solicitação]\nLocal: Praia de Kokomo\nObjetivo: Caçar 10 Lontras e 10 Focas\nRecompensa: EXP base 10000, EXP classe 10000",
         "es-ES": "[Solicitud de un miembro del grupo de justicieros]\nUbicación: Playa de Kokomo.\nObjetivo: Derrota a 10 Focas y 10 Nutrias marinas.\nPremio: 10000 de EXP y 10000 de EXP de clase."
     },
@@ -2315,7 +2315,7 @@
         "es-ES": "[Solicitud  completada]\nUbicación: Torre del reloj de AldebaranP 1.\nObjetivo: Derrota a 20 Rideword y 15 Punk.\nPremio: 33820 de EXP y 40650 de EXP de clase."
     },
     "r64sCg": {
-        "en-US": "[Request from Aldebaran Clock Tower Manager Serdin]\nLocation: Aldebaran Clock Tower 1F\nTarget: Defeat 20 Rideword and 15 Punk\nReward: Exp 33820, Jexp 40650",
+        "en-US": "[Request Completed]\nLocation: Fields near Kiel Hyre Academy\nTarget: Defeat 20 Grand Peco and 20 Goat\nReward: Exp 42960, Jexp 43880",
         "pt-BR": "[Solicitação]\nLocal: Torre do Relógio 1º piso\nObjetivo: Caçar 20 Ridewords e 15 Punks\nRecompensa: EXP base 33820, EXP classe 40650",
         "es-ES": "[Solicitud de Serdin, el guardián de la Torre del reloj de Aldebaran]\nUbicación: Torre del reloj de AldebaranP 1.\nObjetivo: Derrota a 20 Rideword y 15 Punk.\nPremio: 33820 de EXP y 40650 de EXP de clase."
     },
@@ -2735,9 +2735,9 @@
         "es-ES": "[Solicitud  completada]\nUbicación: Antiguo santuario de Ayothaya.\nObjetivo: Derrota a 20 Tamruan.\nPremio: 30000 de EXP y 30000 de EXP de clase."
     },
     "A68sCg": {
-        "en-US": "[ Request from Eden Group]\nLocation: Ayothaya Ancient Shrine\nTarget: Defeat 20 Tamruan\nReward: Exp 30000, Jexp 30000",
-        "pt-BR": "[Solicitação]\nLocal: Santuário de Ayothaya\nObjetivo: Caçar 20 Tamruan\nRecompensa: EXP base 30000, EXP classe 30000",
-        "es-ES": "[Solicitud del Grupo del Edén]\nUbicación: Antiguo santuario de Ayothaya.\nObjetivo: Derrota a 20 Tamruan.\nPremio: 30000 de EXP y 30000 de EXP de clase."
+        "en-US": "[70] Ayothaya",
+        "pt-BR": "[Solicitação] Local: Santuário de Ayothaya Objetivo: Caçar 20 Tamruan Recompensa: EXP base 30000, EXP classe 30000",
+        "es-ES": "[Solicitud del Grupo del Edén] Ubicación: Antiguo santuario de Ayothaya. Objetivo: Derrota a 20 Tamruan. Premio: 30000 de EXP y 30000 de EXP de clase."
     },
     "BK8sCg": {
         "en-US": "Request from Eden Group\n^4D4DFF[Temple Lion]^000000 Quest accepted.",
@@ -2780,7 +2780,7 @@
         "es-ES": "[Solicitud  completada]\nUbicación: Bosque profundo de Moscovia.\nObjetivo: Derrota a 20 Uzhas.\nPremio: 42660 de EXP y 43600 de EXP de clase."
     },
     "DK8sCg": {
-        "en-US": "[ Request from Eden Group]\nLocation: Moscovia Deep Forest\nTarget: Defeat 20 Uzhas\nReward: Exp 42660, Jexp 43600",
+        "en-US": "[Request Completed]\nLocation: Brasilis Field\nTarget: Defeat 20 Headless Mule\nReward: Exp 35000, Jexp 35000",
         "pt-BR": "[Solicitação]\nLocal: Floresta Encantada\nObjetivo: Caçar 20 Kikimoras\nRecompensa: EXP base 42660, EXP classe 43600",
         "es-ES": "[Solicitud del Grupo del Edén]\nUbicación: Bosque profundo de Moscovia.\nObjetivo: Derrota a 20 Uzhas.\nPremio: 42660 de EXP y 43600 de EXP de clase."
     },
@@ -3358,5 +3358,56 @@
         "en-US": "[Eden Logistics Manager]\nGoodbye.",
         "pt-BR": "[Estoquista]\nAdeus.",
         "es-ES": "[Admin. logíst. de Edén]\nAdiós."
+    },
+    "gK8sCg": {
+        "en-US": "- In order to receive a request -\n - You must have ^4D4DFF'Eden Group Mark'^000000. -"
+    },
+    "ga8sCg": {
+        "en-US": "^4D4DFFOrcs are glad that the troublesome matter has been resolved.^000000"
+    },
+    "gq8sCg": {
+        "en-US": "^4D4DFFThe goblins' inner closeness has increased.^000000"
+    },
+    "g68sCg": {
+        "en-US": "^4D4DFFThe goblins' vigilance has increased.^000000"
+    },
+    "hK8sCg": {
+        "en-US": "^4D4DFFThe orcs' inner closeness has increased.^000000"
+    },
+    "ha8sCg": {
+        "en-US": "[Request from Apprentice Mage]\nLocation: Geffen Underground 2F\nTarget: Defeat 10 Ghoul and 10 Jakk\nReward: Exp 14800, Jexp 13660"
+    },
+    "hq8sCg": {
+        "en-US": "[Request Completed]\nLocation: Fields near Kiel Hyre Academy\nTarget: Collect 10 Antelope Skin and 10 PecoPeco Feather\nReward: Exp 14200, Jexp 14200"
+    },
+    "h68sCg": {
+        "en-US": "[Kiel Hyre Academy Cat Hand Merchant's Request]\nLocation: Fields near Kiel Hyre Academy\nTarget: Collect 10 Antelope Skin and 10 PecoPeco Feather\nReward: Exp 14200, Jexp 14200"
+    },
+    "iK8sCg": {
+        "en-US": "[Request from Kiel Hyre Academy student]\nLocation: Fields near Kiel Hyre Academy\nTarget: Defeat 20 Grand Peco and 20 Goat\nReward: Exp 42960, Jexp 43880"
+    },
+    "ia8sCg": {
+        "en-US": "[Request Completed]\nLocation: Brasilis Field\nTarget: Defeat 20 Toucan\nReward: Exp 30000, Jexp 30000"
+    },
+    "iq8sCg": {
+        "en-US": "[ Request from Eden Group]\nLocation: Brasilis Field\nTarget: Defeat 20 Toucan\nReward: Exp 30000, Jexp 30000"
+    },
+    "i68sCg": {
+        "en-US": "[ Request from Eden Group]\nLocation: Brasilis Field\nTarget: Defeat 20 Headless Mule\nReward: Exp 35000, Jexp 35000"
+    },
+    "jK8sCg": {
+        "en-US": "Request from Orc subjugation team leader\n^4D4DFF[Operation Orc Wipeout]^000000 Quest accepted."
+    },
+    "ja8sCg": {
+        "en-US": "[Request from Vigilante Group Member]\nLocation: Kokomo Beach\nTarget: Defeat 10 Seal and 10 Sea-Otter\nReward: Exp 10000, Jexp 10000"
+    },
+    "jq8sCg": {
+        "en-US": "[Request from Aldebaran Clock Tower Manager Serdin]\nLocation: Aldebaran Clock Tower 1F\nTarget: Defeat 20 Rideword and 15 Punk\nReward: Exp 33820, Jexp 40650"
+    },
+    "j68sCg": {
+        "en-US": "[ Request from Eden Group]\nLocation: Ayothaya Ancient Shrine\nTarget: Defeat 20 Tamruan\nReward: Exp 30000, Jexp 30000"
+    },
+    "kK8sCg": {
+        "en-US": "[ Request from Eden Group]\nLocation: Moscovia Deep Forest\nTarget: Defeat 20 Uzhas\nReward: Exp 42660, Jexp 43600"
     }
 }

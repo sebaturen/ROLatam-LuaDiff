@@ -32,7 +32,7 @@
     "5jtm": {
         "en-US": "[Clever]\nHow cheap...",
         "pt-BR": "[Esperto]\nQue muquirana...",
-        "es-ES": "[Clever]\nQué tacaño…"
+        "es-ES": "[Clever]\nQué tacaño..."
     },
     "5ztm": {
         "en-US": "[Prison Guard]\n(Enraged)",
@@ -62,7 +62,7 @@
     "7Dtm": {
         "en-US": "Well I didn't submit a requisition...",
         "pt-BR": "Não enviei a requisição para visitação...",
-        "es-ES": "Bueno, no envié una solicitud…"
+        "es-ES": "Bueno, no envié una solicitud..."
     },
     "7Ttm": {
         "en-US": "[Prison Guard]\nAn official request? No, it's not even necessary. You came to visit Mr. Clever, right? Here, look. It's already been recorded.",
@@ -87,7 +87,7 @@
     "8Ttm": {
         "en-US": "[Prison Guard]\nNo, no! What are you saying...{0}Your prison visits are welcome at any time. I'll do it for you especially if it's for Mr. Clever!",
         "pt-BR": "[Guarda da Prisão]\nNão, não! O que você está dizendo...{0}Suas visitas na prisão são bem-vindas a qualquer hora. Farei isso por você, especialmente se for para o Sr. Esperto!",
-        "es-ES": "[Guardia]\n¡No, no! Qué estás diciendo…{0} Tus visitas a la prisión son siempre bienvenidas. Lo haré por ti, ¡especialmente si es por el señor Clever!"
+        "es-ES": "[Guardia]\n¡No, no! Qué estás diciendo...{0} Tus visitas a la prisión son siempre bienvenidas. Lo haré por ti, ¡especialmente si es por el señor Clever!"
     },
     "8jtm": {
         "en-US": "^000099Yeah, I keep thinking about it. It's probably better not to randomly make up an official record right in front of me.^000000",
@@ -97,27 +97,27 @@
     "8ztm": {
         "en-US": "[Prison Guard]\n{0}Are you already leaving? Ah... That's no good~ It just got quiet!!",
         "pt-BR": "[Guarda da Prisão]\n{0}, já está de saída? Ah... Isso não é bom~ Tudo ficou silencioso!",
-        "es-ES": "[Guardia]\n{0} ¿Ya te vas? Ah… Eso no es bueno. ¡De pronto, hay silencio!"
+        "es-ES": "[Guardia]\n{0} ¿Ya te vas? Ah... Eso no es bueno. ¡De pronto, hay silencio!"
     },
     "9Dtm": {
         "en-US": "Well, I thought my time for the visit was over...",
         "pt-BR": "Achei que a visita tivesse acabado...",
-        "es-ES": "Bueno, pensé que mi tiempo de visita había terminado…"
+        "es-ES": "Bueno, pensé que mi tiempo de visita había terminado..."
     },
     "9Ttm": {
         "en-US": "[Prison Guard]\nWhat! What are you talking about?{0}Is the time for a visitation a problem for you? Here.. I will extend it for 3 hours!",
         "pt-BR": "[Guarda da Prisão]\nQuê?! Do que você está falando?{0}, o horário de visitação é um problema para você? Aqui... Vou aumentá-lo para 3 horas!",
-        "es-ES": "[Guardia]\n¡Qué! ¿De qué estás hablando?{0}¿Tienes algún problema con el tiempo de visita? Aquí tienes… ¡Lo extenderé 3 horas!"
+        "es-ES": "[Guardia]\n¡Qué! ¿De qué estás hablando?{0}¿Tienes algún problema con el tiempo de visita? Aquí tienes... ¡Lo extenderé 3 horas!"
     },
     "9jtm": {
         "en-US": "^000099How he makes things up so randomly... I don't have anything to say anymore...^000000",
         "pt-BR": "^000099Como ele inventa essas coisas tão aleatoriamente... Eu não tenho mais nada para dizer à você...^000000",
-        "es-ES": "^000099Qué manera de inventar cosas al azar… No tengo nada más para decir…^000000"
+        "es-ES": "^000099Qué manera de inventar cosas al azar... No tengo nada más para decir...^000000"
     },
     "9ztm": {
         "en-US": "[Prison Guard]\nAre you leaving already...\n(The prison guard looks on hopefully)",
         "pt-BR": "[Guarda da Prisão]\nJá está de saída...?\n(O guarda da prisão olha esperançosamente)",
-        "es-ES": "[Guardia]\nYa te vas…\n(El guardia mira esperanzado)."
+        "es-ES": "[Guardia]\nYa te vas...\n(El guardia mira esperanzado)."
     },
     "+Dtm": {
         "en-US": "[Prison Guard]\nYes~~ You are here!!\nI was waiting for you!",
@@ -127,7 +127,7 @@
     "+Ttm": {
         "en-US": "Has Clever been giving you problems again?...",
         "pt-BR": "O Esperto está te dando problemas?",
-        "es-ES": "¿Clever te está causando problemas de nuevo?…"
+        "es-ES": "¿Clever te está causando problemas de nuevo?..."
     },
     "+jtm": {
         "en-US": "[Prison Guard]\nIt's not a song.{0}When you are not here, Mr. Clever keeps chanting some kind of spell and tortures me!",
@@ -182,7 +182,7 @@
     "BDxm": {
         "en-US": "[Clever]\nOh~ Really? Ok, you get out of here. I'm going to start torturing the guard. Let's see... Alright, I'll sing to him!",
         "pt-BR": "[Esperto]\nAh~ É mesmo? Está bem, saia daqui. Vou começar a torturar o guarda. Vejamos... Certo, vou cantar para ele!",
-        "es-ES": "[Clever]\nOh. ¿De verdad? Está bien, vete de aquí. Voy a empezar a torturar al guardia. Veamos… ¡Muy bien, le cantaré!"
+        "es-ES": "[Clever]\nOh. ¿De verdad? Está bien, vete de aquí. Voy a empezar a torturar al guardia. Veamos... ¡Muy bien, le cantaré!"
     },
     "BTxm": {
         "en-US": "^000099As soon as Clever starts singing, the guard looks at me in exhaustion. Of course, it was torture for myself as well.^000000",
@@ -207,7 +207,7 @@
     "CTxm": {
         "en-US": "[Prison Guard]\nPlease, I ask you. Please shut Mr. Clever's mouth. I've been listening to him for a year now and it's driving me insane. I can't beat a prisoner either...",
         "pt-BR": "[Guarda da Prisão]\nPor favor, te peço, faça o Sr. Esperto calar a boca. Estive ouvindo ele por um ano agora, e está me deixando louco, mas não posso espancar um prisioneiro...",
-        "es-ES": "[Guardia]\nPor favor, te lo pido. Haz que el señor Clever cierre la boca. Llevo un año escuchándolo y me está volviendo loco. Tampoco puedo pegarle a un prisionero…"
+        "es-ES": "[Guardia]\nPor favor, te lo pido. Haz que el señor Clever cierre la boca. Llevo un año escuchándolo y me está volviendo loco. Tampoco puedo pegarle a un prisionero..."
     },
     "Cjxm": {
         "en-US": "[Clever]\nThe prisoner is singing a song that seems to come from another dimension.",
@@ -282,12 +282,12 @@
     "GDxm": {
         "en-US": "[Clever]\nHmm hmm.. Let me think for a bit...",
         "pt-BR": "[Esperto]\nHmm hmm.. Deixe-me pensar um pouco...",
-        "es-ES": "[Clever]\nMmm, mmm… Déjame pensar un momento…"
+        "es-ES": "[Clever]\nMmm, mmm... Déjame pensar un momento..."
     },
     "GTxm": {
         "en-US": "[Clever]\nHmm...",
         "pt-BR": "[Esperto]\nHum...",
-        "es-ES": "[Clever]\nMmm…"
+        "es-ES": "[Clever]\nMmm..."
     },
     "Gjxm": {
         "en-US": "[Clever]\nSorry~ I'd rather be singinig!",
@@ -432,7 +432,7 @@
     "Njxm": {
         "en-US": "[Clever]\nShenime formed that kind of identity... Or rather, changed into such an identity. But this is also one of many rumors. Heh.",
         "pt-BR": "[Esperto]\nShenime formou esse tipo de identidade... Ou, melhor dizendo, mudou para tal identidade. Mas esse também é um de muitos rumores. Heh.",
-        "es-ES": "[Clever]\nShinaim creó ese tipo de identidad… O, más bien, se transformó en esa identidad. Pero es también uno de tantos rumores. Je."
+        "es-ES": "[Clever]\nShinaim creó ese tipo de identidad... O, más bien, se transformó en esa identidad. Pero es también uno de tantos rumores. Je."
     },
     "Nzxm": {
         "en-US": "[Clever]\nI don't mean to brag, but I used to be a historian, researching the Alfheim continent along with geography, biology, and archeology.",
@@ -532,7 +532,7 @@
     "Sjxm": {
         "en-US": "[Clever]\nHmm?\nHold on... Keep your voice down. What did you just say?",
         "pt-BR": "[Esperto]\nHmm?\nEspere... Fale mais baixo. O que você acabou de dizer?",
-        "es-ES": "[Clever]\n¿Mmm?\nEspera… Baja la voz. ¿Qué acabas de decir?"
+        "es-ES": "[Clever]\n¿Mmm?\nEspera... Baja la voz. ¿Qué acabas de decir?"
     },
     "Szxm": {
         "en-US": "The experiment succeeded.",
@@ -552,12 +552,12 @@
     "Tjxm": {
         "en-US": "[Clever]\nBut I couldn't experience anything related to the rift from here. That means...",
         "pt-BR": "[Esperto]\nMas não pude experimentar com nada relacionado à fenda daqui. Isso significa...",
-        "es-ES": "[Clever]\nPero no pude experimentar nada relacionado con la grieta desde aquí. Eso significa…"
+        "es-ES": "[Clever]\nPero no pude experimentar nada relacionado con la grieta desde aquí. Eso significa..."
     },
     "Tzxm": {
         "en-US": "That must mean that it succeeded without any particular side effects...",
         "pt-BR": "... que teve sucesso sem nenhum efeito colateral...",
-        "es-ES": "Eso debe significar que tuvo éxito sin ningún tipo de efecto secundario…"
+        "es-ES": "Eso debe significar que tuvo éxito sin ningún tipo de efecto secundario..."
     },
     "UDxm": {
         "en-US": "[Clever]\nYes, I see that Hiel must have resolved all technical aspects. Did something happen after the reaction? Could you tell me whatever you saw?",
@@ -612,12 +612,12 @@
     "Wjxm": {
         "en-US": "Could your imprisonment be due to...",
         "pt-BR": "Será que a sua prisão foi devido à...",
-        "es-ES": "¿Se relaciona con tu encarcelación…?"
+        "es-ES": "¿Se relaciona con tu encarcelación...?"
     },
     "Wzxm": {
         "en-US": "[Clever]\nNo, I was only imprisoned for defacing properties...",
         "pt-BR": "[Esperto]\nNão, eu só fui preso por depredar propriedades...",
-        "es-ES": "[Clever]\nNo, solo me encarcelaron por hacer pintadas en propiedades…"
+        "es-ES": "[Clever]\nNo, solo me encarcelaron por hacer pintadas en propiedades..."
     },
     "XDxm": {
         "en-US": "(I was foolish to expect something like that)",
@@ -637,12 +637,12 @@
     "Xzxm": {
         "en-US": "[Clever]\nAnd the figure with the long hair, I'm sure he's a Dona named Robert. He's the head of the group that promoted the recovery of Bifrost and restored home tree.",
         "pt-BR": "[Esperto]\nE a figura de cabelos compridos, estou certo que ele é um Dona chamado Robert. Ele é o chefe do grupo que promoveu a recuperação de Bifröst e restaurou a Yggdrasil.",
-        "es-ES": "[Clever]\nY la figura con el cabello largo… estoy seguro de que es el dona llamado Robert. Es el jefe del grupo que promovió la recuperación de Bifrost y restauró el Árbol del hogar."
+        "es-ES": "[Clever]\nY la figura con el cabello largo... estoy seguro de que es el dona llamado Robert. Es el jefe del grupo que promovió la recuperación de Bifrost y restauró el Árbol del hogar."
     },
     "YDxm": {
         "en-US": "[Clever]\nThey were excluded from the official history records for their deep antagonism despite their profound contribution to the birth of Eclage. However...",
         "pt-BR": "[Esperto]\nEles foram excluídos dos relatos da história oficial por seu enorme antagonismo apesar de sua profunda contribuição no nascimento de Eclage. Entretanto...",
-        "es-ES": "[Clever]\nSe excluyeron de los registros históricos oficiales por su profundo antagonismo, a pesar de su gran contribución al nacimiento de Eclage. Sin embargo…"
+        "es-ES": "[Clever]\nSe excluyeron de los registros históricos oficiales por su profundo antagonismo, a pesar de su gran contribución al nacimiento de Eclage. Sin embargo..."
     },
     "YTxm": {
         "en-US": "[Clever]\nHow does it seem from your perspective? Eclage is operating so peacefully. It's way too normal for a city that has been antagonized by high-class Donas.",
@@ -662,12 +662,12 @@
     "ZDxm": {
         "en-US": "[Clever]\nReally? But at least take a look at this place's home tree. It's doing just so well! And all of the plant life in Bifrost are vividly alive... If there was an antagonist force, it should have been impossible.",
         "pt-BR": "[Esperto]\nSério? Mas pelo menos dê uma olhada na Yggdrasil desse lugar. Está indo tão bem!\nE toda a flora de Bifröst está tão viva e verdejante... Se houvesse uma força antagônica, isso teria sido impossível.",
-        "es-ES": "[Clever]\n¿De verdad? Pero, al menos, mira el Árbol del hogar de este lugar. ¡Le va tan bien! Y todas las plantas de Bifrost están llenas de vida… Si hubiera habido una fuerza enemiga, hubiera sido imposible."
+        "es-ES": "[Clever]\n¿De verdad? Pero, al menos, mira el Árbol del hogar de este lugar. ¡Le va tan bien! Y todas las plantas de Bifrost están llenas de vida... Si hubiera habido una fuerza enemiga, hubiera sido imposible."
     },
     "ZTxm": {
         "en-US": "[Clever]\nYes, it is just as you say. This place's home tree is alive and well. And the plant life of Bifrost are also vivacious...",
         "pt-BR": "[Esperto]\nSim, é como você disse. A Yggdrasil desse lugar está viva e passando bem. E a flora de Bifröst também é vivaz...",
-        "es-ES": "[Clever]\nSí, es tal y como dices. El Árbol del hogar de este lugar está vivo y sano. Y las plantas de Bifrost están tan vigorosas…"
+        "es-ES": "[Clever]\nSí, es tal y como dices. El Árbol del hogar de este lugar está vivo y sano. Y las plantas de Bifrost están tan vigorosas..."
     },
     "Zjxm": {
         "en-US": "[Clever]\nIf there was really as much antagonism as to be excluded from the history, Eclage and Bifrost could not be the way they are now.",
@@ -712,7 +712,7 @@
     "bjxm": {
         "en-US": "I had a question...",
         "pt-BR": "Tinha uma pergunta...",
-        "es-ES": "Quería preguntar…"
+        "es-ES": "Quería preguntar..."
     },
     "bzxm": {
         "en-US": "[Clever]\nReally?\nI thought that you were a savvy adventurer, but I guess I thought wrong.",
@@ -747,7 +747,7 @@
     "dTxm": {
         "en-US": "[Clever]\nIf you walk around talking about those things without caution, you'll become like me. Yes, certainly, I'm not in here because of that. Like I said before, I was charged for anonymous defacement of properties...",
         "pt-BR": "[Esperto]\nSe você andar por aí falando sobre essas coisas sem cuidado, acabará como eu.\nSim, certamente, não estou aqui por causa disso. Como eu disse antes, fui acusado de depredação de propriedades...",
-        "es-ES": "[Clever]\nSi hablas por ahí de esas cosas sin cuidado, terminarás como yo. Sí, por supuesto, no estoy aquí por eso. Como dije antes, me acusaron de alterar propiedades de forma anónima…"
+        "es-ES": "[Clever]\nSi hablas por ahí de esas cosas sin cuidado, terminarás como yo. Sí, por supuesto, no estoy aquí por eso. Como dije antes, me acusaron de alterar propiedades de forma anónima..."
     },
     "djxm": {
         "en-US": "^000099I ended up imagining Clever's daily life of spray painting the walls, remembering the ones I saw in Monthly Eclage. ^000000",
@@ -787,7 +787,7 @@
     "fTxm": {
         "en-US": "[Clever]\nSo I tried to present on the topic by writing a related paper but... As expected, the outcome was terrible.",
         "pt-BR": "[Esperto]\nTentei apresentar o assunto escrevendo um artigo relacionado, mas... Como esperado, o resultado foi terrível.",
-        "es-ES": "[Clever]\nAsí que intenté abordar el tema mediante un artículo, pero… Como era de esperar, el resultado fue terrible."
+        "es-ES": "[Clever]\nAsí que intenté abordar el tema mediante un artículo, pero... Como era de esperar, el resultado fue terrible."
     },
     "fjxm": {
         "en-US": "[Clever]\nI mean what else could be done? It must have been ridiculous for them since a young scholar was insisting on his ideas just because he didn't like the recorded history.",
@@ -797,12 +797,12 @@
     "fzxm": {
         "en-US": "[Clever]\nAfter losing my mind due to the presentation's failure, I was imprisoned after spray painting all Yai's of Eclage with",
         "pt-BR": "[Esperto]\nDepois de perder a cabeça com o fracasso da apresentação, fui aprisionado por pichar todos os Yais de Eclage com Comam sujeira, seus Laphines bocós da Academia Oficial!\nBem, eu poderia ter evitado minha captura.",
-        "es-ES": "[Clever]\nTras perder la cabeza por el fracaso de la presentación, me encarcelaron por haber pintado con aerosol todos los yais de Eclage…"
+        "es-ES": "[Clever]\nTras perder la cabeza por el fracaso de la presentación, me encarcelaron por haber pintado con aerosol todos los yais de Eclage..."
     },
     "gDxm": {
         "en-US": "^000099This guy... He's a pit bull. ^000000\n^000099He's a pit bull to his roots.^000000",
         "pt-BR": "^000099Esse cara... Ele é um pitbull.^000000\n^000099Ele é um pitbull até a raiz.^000000",
-        "es-ES": "^000099Este tipo… Es un pitbull. ^000000\n^000099Es un pitbull hasta la médula.^000000"
+        "es-ES": "^000099Este tipo... Es un pitbull. ^000000\n^000099Es un pitbull hasta la médula.^000000"
     },
     "gTxm": {
         "en-US": "[Clever]\nHold on, the prison guard is looking this way. Let's see how he's doing and change the subject for a minute.",
@@ -812,7 +812,7 @@
     "gjxm": {
         "en-US": "[Clever]\nHmm? It wasn't anything? I thought he had a problem with our having this conversation...",
         "pt-BR": "[Esperto]\nHmm? Não foi nada? Achei que tinha um problema com a nossa conversa...",
-        "es-ES": "[Clever]\n¿Mmm? ¿No fue nada? Pensé que tenía un problema con que tuviéramos esta conversación…"
+        "es-ES": "[Clever]\n¿Mmm? ¿No fue nada? Pensé que tenía un problema con que tuviéramos esta conversación..."
     },
     "gzxm": {
         "en-US": "^000099(No, that's not it!! It's actually the opposite!)^000000",
@@ -827,7 +827,7 @@
     "hTxm": {
         "en-US": "[Clever]\nIf you don't like something about it, or don't want to involve yourself, just forget everything I told you. But if my story interests you, or you have an inkling of desire to help me...",
         "pt-BR": "[Esperto]\nSe você não gosta de algo sobre isso, ou não quer se envolver, apenas esqueça tudo que eu disse.\nMas se minha história te interessa, ou se você tem alguma vontade de me ajudar...",
-        "es-ES": "[Clever]\nSi algo no te gusta o no quieres involucrarte, simplemente olvida todo lo que dije. Pero si mi historia te interesa o tienes un atisbo de deseo de ayudarme…"
+        "es-ES": "[Clever]\nSi algo no te gusta o no quieres involucrarte, simplemente olvida todo lo que dije. Pero si mi historia te interesa o tienes un atisbo de deseo de ayudarme..."
     },
     "hjxm": {
         "en-US": "[Clever]\nCould you promise me that you'll keep everything that you hear from me a secret and help me out?",
@@ -887,7 +887,7 @@
     "kTxm": {
         "en-US": "[Clever]\nHe might be already talking about the engineering manual with the Laphines of the past.\nSince we're talking about this...",
         "pt-BR": "[Esperto]\nEle pode já ter falado sobre o manual de engenharia com os Laphines do passado.\nJá que estamos falando sobre isso...",
-        "es-ES": "[Clever]\nQuizá ya esté hablando sobre el manual de ingeniería con los laphines del pasado.\nYa que hablamos de esto…"
+        "es-ES": "[Clever]\nQuizá ya esté hablando sobre el manual de ingeniería con los laphines del pasado.\nYa que hablamos de esto..."
     },
     "kjxm": {
         "en-US": "[Clever]\nI ask that you would use Hiel's rift tool to meet with the past's Etran and Laphines.",
@@ -927,7 +927,7 @@
     "mTxm": {
         "en-US": "[Clever]\nOh, wait... The two friends reunited together again, right?",
         "pt-BR": "[Esperto]\nOh, espere... Os dois amigos se reuniram novamente, correto?",
-        "es-ES": "[Clever]\nAh, espera… Los dos amigos se encontraron de nuevo, ¿no?"
+        "es-ES": "[Clever]\nAh, espera... Los dos amigos se encontraron de nuevo, ¿no?"
     },
     "mjxm": {
         "en-US": "That I am not sure.",
@@ -982,7 +982,7 @@
     "pDxm": {
         "en-US": "[Hiel]\nIt is said that the leaves from home tree have the length X with the average m and standard deviation of 4. If P(m<X<a)=0.3413 ... (Mumble mumble)",
         "pt-BR": "[Hiel]\nÉ dito que as folhas da Yggdrasil têm a largura X com uma média m e um desvio padrão de 4. Se P(x<X<a)=0,3413... *resmungos*",
-        "es-ES": "[Hiel]\nSe dice que las hojas del Árbol del hogar tienen la longitud X, la media m y la desviación estándar de 4. Si P(m<X<a)=0,3413… *Murmura*"
+        "es-ES": "[Hiel]\nSe dice que las hojas del Árbol del hogar tienen la longitud X, la media m y la desviación estándar de 4. Si P(m<X<a)=0,3413... *Murmura*"
     },
     "pTxm": {
         "en-US": "^0000FFIt doesn't look like I'll understand anything he says. Let's get out of here.^000000",
@@ -1072,7 +1072,7 @@
     "tjxm": {
         "en-US": "^000099This is... irritating on a different level from Clever. I have to somehow stop his nonstop talking...^000000",
         "pt-BR": "^000099Isso é... irritante em um nível diferente do de Esperto. Preciso interromper toda essa besteira...^000000",
-        "es-ES": "^000099Esto es… irritante a un nivel distinto del de Clever. De algún modo, tengo que hacer que deje de hablar sin parar…^000000"
+        "es-ES": "^000099Esto es... irritante a un nivel distinto del de Clever. De algún modo, tengo que hacer que deje de hablar sin parar...^000000"
     },
     "tzxm": {
         "en-US": "Ask about using the rift",
@@ -1102,7 +1102,7 @@
     "vDxm": {
         "en-US": "[Hiel]\nNot too long ago, there was a huge dimensional rift. Although, lots of Laphine soldiers are regulating the area now.",
         "pt-BR": "[Hiel]\nNão muito tempo atrás, havia uma enorme fenda dimensional. Apesar de muitos soldados Laphines estarem controlando o local agora.",
-        "es-ES": "[Hiel]\nNo hace mucho, hubo una enorme grieta dimensional. Aunque muchos soldados laphines controlan la zona ahora…"
+        "es-ES": "[Hiel]\nNo hace mucho, hubo una enorme grieta dimensional. Aunque muchos soldados laphines controlan la zona ahora..."
     },
     "vTxm": {
         "en-US": "[Hiel]\nVery briefly, for research purposes, they allowed access to the area. That's when I slipped one for myself.",
@@ -1117,7 +1117,7 @@
     "vzxm": {
         "en-US": "[Hiel]\nOh...\nHmm... (Deflate...)",
         "pt-BR": "[Hiel]\nAh...\nHum... *Suspiro*",
-        "es-ES": "[Hiel]\nOh…\nMmm… *Desanimado…*"
+        "es-ES": "[Hiel]\nOh...\nMmm... *Desanimado...*"
     },
     "wDxm": {
         "en-US": "Why are you getting down on yourself?",
@@ -1127,7 +1127,7 @@
     "wTxm": {
         "en-US": "[Hiel]\nYou see, I tried everything possible. Haha... This rift fragment won't listen to me at all. It is essentially void of any reaction.",
         "pt-BR": "[Hiel]\nSabe, eu tentei tudo que foi possível. Haha... Esse fragmento da fenda não me escuta. É basicamente algo sem nenhuma reação.",
-        "es-ES": "[Hiel]\nVerás, intenté todo a mi alcance. Ja, ja… Este fragmento de la grieta no me responde en lo absoluto. Esencialmente, carece de cualquier tipo de reacción."
+        "es-ES": "[Hiel]\nVerás, intenté todo a mi alcance. Ja, ja... Este fragmento de la grieta no me responde en lo absoluto. Esencialmente, carece de cualquier tipo de reacción."
     },
     "wjxm": {
         "en-US": "[Hiel]\nWhat I really desire is to witness with my own eyes the kind of chemical reaction given off by this metaphysical thing.",
@@ -1137,7 +1137,7 @@
     "wzxm": {
         "en-US": "[Hiel]\nBut it's not like I have the necessary resources or information... (Mumble mumble)",
         "pt-BR": "[Hiel]\nMas não é como se tivesse os recursos ou informações necessários... *resmungos*",
-        "es-ES": "[Hiel]\nPero no cuento con los recursos ni la información necesarios… *Murmura*"
+        "es-ES": "[Hiel]\nPero no cuento con los recursos ni la información necesarios... *Murmura*"
     },
     "xDxm": {
         "en-US": "^000099This guy's mood swings are insane!^000000\n^000099How does someone get so depressed so quickly?! ^000000",
@@ -1187,12 +1187,12 @@
     "zTxm": {
         "en-US": "[Hiel]\nI would like to go myself, but as you can see, I have to continue my research... And... (Fidget fidget)",
         "pt-BR": "[Hiel]\nEu iria pessoalmente, mas como pode ver, preciso continuar minha pesquisa... E... *remexe*",
-        "es-ES": "[Hiel]\nMe gustaría hacerlo yo mismo, pero como puedes ver, tengo que seguir investigando… Y… *Inquieto*"
+        "es-ES": "[Hiel]\nMe gustaría hacerlo yo mismo, pero como puedes ver, tengo que seguir investigando... Y... *Inquieto*"
     },
     "zjxm": {
         "en-US": "Hmm, I'd like to, but I'm busy myself...",
         "pt-BR": "Desculpe, tenho mais o que fazer...",
-        "es-ES": "Mmm, me gustaría, pero tengo cosas que hacer…"
+        "es-ES": "Mmm, me gustaría, pero tengo cosas que hacer..."
     },
     "zzxm": {
         "en-US": "Sure, I'll go check it out.",
@@ -1202,7 +1202,7 @@
     "0Dxm": {
         "en-US": "[Hiel]\nOh... I guess it was too much to ask for. That's too bad then.",
         "pt-BR": "[Hiel]\nAh... Acho que estou pedindo demais a você. É uma pena.",
-        "es-ES": "[Hiel]\nOh… Supongo que era mucho pedir. Qué pena."
+        "es-ES": "[Hiel]\nOh... Supongo que era mucho pedir. Qué pena."
     },
     "0Txm": {
         "en-US": "[Hiel]\nWow wow! Thank you so much! I'll return the favor by operating it together when the experiments are complete! In the meantime, I'll start preparing for material combination!",
@@ -1217,7 +1217,7 @@
     "0zxm": {
         "en-US": "[Hiel]\nCat merchants are stationed at various places in El Dicastes which is far east of Mora village. I am not exactly sure which of those really have that information...",
         "pt-BR": "[Hiel]\nGatos mercantes estão instalados em vários locais no El Dicastes, que fica ao leste distante da Vila de Mora. Não tenho tanta certeza de quais deles teriam essa informação...",
-        "es-ES": "[Hiel]\nLos comerciantes gatunos están en varios lugares de El Dicastes, que se encuentra hacia el este del pueblo de Mora. No estoy seguro de quiénes tienen realmente esa información…"
+        "es-ES": "[Hiel]\nLos comerciantes gatunos están en varios lugares de El Dicastes, que se encuentra hacia el este del pueblo de Mora. No estoy seguro de quiénes tienen realmente esa información..."
     },
     "1Dxm": {
         "en-US": "[Hiel]\nDid you find something out?",
@@ -1232,7 +1232,7 @@
     "1jxm": {
         "en-US": "[Hiel]\nI see, both Dark Debris and Gem Stone are unfamiliar to me. Could it be that my work was just impossible to begin with...?",
         "pt-BR": "[Hiel]\nEntendi, tanto Fragmentos da Escuridão quanto Gemas não me são familiares. Será que minha pesquisa é impossível desde o começo...?",
-        "es-ES": "[Hiel]\nNi el Escombro oscuro ni la Piedra preciosa me resultan familiares. ¿Podría ser que mi trabajo fuera simplemente imposible…?"
+        "es-ES": "[Hiel]\nNi el Escombro oscuro ni la Piedra preciosa me resultan familiares. ¿Podría ser que mi trabajo fuera simplemente imposible...?"
     },
     "1zxm": {
         "en-US": "I already brought them for you.",
@@ -1252,7 +1252,7 @@
     "2jxm": {
         "en-US": "[Hiel]\nI see, I guess changing the very physics is an impossible thing...",
         "pt-BR": "[Hiel]\nEntendo, acho que mudar as leis da física realmente é algo impossível...",
-        "es-ES": "[Hiel]\nYa veo, supongo que cambiar la propia física es algo imposible…"
+        "es-ES": "[Hiel]\nYa veo, supongo que cambiar la propia física es algo imposible..."
     },
     "2zxm": {
         "en-US": "[Hiel]\nWould you do that for me?? If so, I have nothing more to ask!",
@@ -1277,7 +1277,7 @@
     "3zxm": {
         "en-US": "[Hiel]\nHow ruthless... Saying that he won't give them after showing them to me.",
         "pt-BR": "[Hiel]\nTamanha impiedade... Dizer que não vai dá-los depois de me mostrar.",
-        "es-ES": "[Hiel]\nQué despiadado… Decir que no me los dará después de enseñármelos."
+        "es-ES": "[Hiel]\nQué despiadado... Decir que no me los dará después de enseñármelos."
     },
     "4Dxm": {
         "en-US": "[Hiel]\nWow~ This will be a big step forward in the scientific progress among the Laphines. I pray for your home tree's blessings.",
@@ -1297,7 +1297,7 @@
     "4zxm": {
         "en-US": "[Hiel]\nHmm... But this is very strange. I arranged them exactly the way it says on the documents, but why isn't there any reaction?",
         "pt-BR": "[Hiel]\nHum... Mas isso é muito estranho. Eu os arranjei exatamente como o documento dizia, mas por que não há nenhuma reação?",
-        "es-ES": "[Hiel]\nMmm… Pero esto es muy extraño. Los dispuse exactamente como dice en los documentos, pero ¿por qué no hay ninguna reacción?"
+        "es-ES": "[Hiel]\nMmm... Pero esto es muy extraño. Los dispuse exactamente como dice en los documentos, pero ¿por qué no hay ninguna reacción?"
     },
     "5Dxm": {
         "en-US": "[Hiel]\nHmm. Is it this way? No, that's not it. Is it this way? Okay here. We'll put this guy over here. And there.",
@@ -1312,7 +1312,7 @@
     "5jxm": {
         "en-US": "^000099Hiel, moving wildly for lack of reaction, dropped the Dark Debris to the floor. At this rate, it might shatter...^000000",
         "pt-BR": "^000099Hiel, se movendo de maneira selvagem por falta de reação, deixa cair os Fragmentos da Escuridão no chão. Desse jeito, eles podem se despedaçar...^000000",
-        "es-ES": "^000099Hiel, al moverse bruscamente por la falta de reacción, dejó caer el Escombro oscuro. A este paso, podría romperse…^000000"
+        "es-ES": "^000099Hiel, al moverse bruscamente por la falta de reacción, dejó caer el Escombro oscuro. A este paso, podría romperse...^000000"
     },
     "5zxm": {
         "en-US": "I grabbed it before it dropped to the floor.",
@@ -1417,7 +1417,7 @@
     "+zxm": {
         "en-US": "Oh... You don't mean Clever..?",
         "pt-BR": "Ah... Você se refere ao Esperto...?",
-        "es-ES": "Oh… ¿Te refieres a Clever…?"
+        "es-ES": "Oh... ¿Te refieres a Clever...?"
     },
     "/Dxm": {
         "en-US": "[Hiel]\nYeah, that's him. He really has problems with his social skills that left him in prison. In historical knowledge, he is truly unparallel.",
@@ -1457,12 +1457,12 @@
     "Az1m": {
         "en-US": "[Hiel]\nYou see... This is very complicated to explain... Where do I start...",
         "pt-BR": "[Hiel]\nVeja... Isso é muito complicado para explicar... Por onde começar...",
-        "es-ES": "[Hiel]\nVerás… Esto es muy complicado de explicar… No sé por dónde empezar…"
+        "es-ES": "[Hiel]\nVerás... Esto es muy complicado de explicar... No sé por dónde empezar..."
     },
     "BD1m": {
         "en-US": "^000099A Dona that looks surprisingly similar to Hiel (^990000Although he seems so much more dignified...^000099) is holding Hiel by his collar. Who could that Dona be?^000000",
         "pt-BR": "^000099Um Dona que é surpreendentemente parecido com Hiel (^990000Apesar de ser muito mais solene...^000099) está agarrando Hiel pelo colarinho. Quem poderia ser esse Dona?^000000",
-        "es-ES": "^000099Un dona que sorprendentemente se parece mucho a Hiel (^990000aunque él parece mucho más digno…^000099) está sujetando a Hiel del cuello. ¿Quién podría ser ese dona?^000000"
+        "es-ES": "^000099Un dona que sorprendentemente se parece mucho a Hiel (^990000aunque él parece mucho más digno...^000099) está sujetando a Hiel del cuello. ¿Quién podría ser ese dona?^000000"
     },
     "BT1m": {
         "en-US": "I'm sorry, but who are you?",
@@ -1477,7 +1477,7 @@
     "Bz1m": {
         "en-US": "^000099Robert?... Is this the Life Restorer whose sillouette I've been seeing all this time?^000000",
         "pt-BR": "^000099Robert?... É esse o Restaurador de Vida cuja silhueta eu estive vendo todo esse tempo?^000000",
-        "es-ES": "^000099¿Robert?… ¿Eres el restaurador de vida cuyo calco he estado viendo todo este tiempo?^000000"
+        "es-ES": "^000099¿Robert?... ¿Eres el restaurador de vida cuyo calco he estado viendo todo este tiempo?^000000"
     },
     "CD1m": {
         "en-US": "Explain the situation until now.",
@@ -1492,7 +1492,7 @@
     "Cj1m": {
         "en-US": "[{0}]\nYes, but if I were to let you know another thing...",
         "pt-BR": "[{0}]\nSim, mas e se eu te dissesse outra coisa...",
-        "es-ES": "[{0}]\nSí, pero si te dijera otra cosa…"
+        "es-ES": "[{0}]\nSí, pero si te dijera otra cosa..."
     },
     "Cz1m": {
         "en-US": "[{0}]\nThe engineer scientist Hiel and Sir Robert are very similar in appearance, but the way he carries himself is extremely different. So please refrain yourself from stating that the two look alike. It hurts me to listen.",
@@ -1507,7 +1507,7 @@
     "DT1m": {
         "en-US": "[Hiel]\nTo hear that we are so different in quality, I am quite offended... At any rate, let me explain the current situation.",
         "pt-BR": "[Hiel]\nOuvir que temos personalidades tão diferentes me ofende... De qualquer forma, deixe-me explicar a situação atual.",
-        "es-ES": "[Hiel]\nEscuchar que nuestra personalidad es tan diferente, me ofende bastante… En cualquier caso, déjame explicar la situación actual."
+        "es-ES": "[Hiel]\nEscuchar que nuestra personalidad es tan diferente, me ofende bastante... En cualquier caso, déjame explicar la situación actual."
     },
     "Dj1m": {
         "en-US": "^000099Hiel added his explanation of his research up to now. Robert seemed to follow most of the story.^000000",
@@ -1532,7 +1532,7 @@
     "Ej1m": {
         "en-US": "[Robert]\nhome tree... I can't believe it grew back... It was nearly an impossible task. It has restored to its full form in the future of thousands of years later?",
         "pt-BR": "[Robert]\nYggdrasil... Não acredito que ela cresceu outra vez... Foi uma tarefa quase impossível. Ela se restaurou até sua forma completa no futuro, milhares de anos depois?",
-        "es-ES": "[Robert]\nEl Árbol del hogar… No puedo creer que volvió a crecer… Era una tarea casi imposible. ¿Se restauró en su totalidad miles de años más tarde en el futuro?"
+        "es-ES": "[Robert]\nEl Árbol del hogar... No puedo creer que volvió a crecer... Era una tarea casi imposible. ¿Se restauró en su totalidad miles de años más tarde en el futuro?"
     },
     "Ez1m": {
         "en-US": "It's true. I can show it to you if you'd like.",
@@ -1552,7 +1552,7 @@
     "Fj1m": {
         "en-US": "[Hiel]\nHmm... I think this is the problematic area here. Darn, I should have had studied more.",
         "pt-BR": "[Hiel]\nHum... Acho que essa é a área problemática aqui. Droga, deveria ter estudado mais.",
-        "es-ES": "[Hiel]\nMmm… Creo que esta es la zona del conflicto. Maldición, debería haber estudiado más."
+        "es-ES": "[Hiel]\nMmm... Creo que esta es la zona del conflicto. Maldición, debería haber estudiado más."
     },
     "Fz1m": {
         "en-US": "Robert disappeared during the conversation.",
@@ -1562,12 +1562,12 @@
     "GD1m": {
         "en-US": "[Hiel]\nOh, that error. Hoh... Oh no! It's a problem that I did not anticipate.",
         "pt-BR": "[Hiel]\nAh, esse erro. Oh... Oh, não! Esse é um problema que não tinha previsto.",
-        "es-ES": "[Hiel]\nOh, ese error. Oh… ¡Ay, no! Es un problema que no había previsto."
+        "es-ES": "[Hiel]\nOh, ese error. Oh... ¡Ay, no! Es un problema que no había previsto."
     },
     "GT1m": {
         "en-US": "That sounds very risky...",
         "pt-BR": "Isso parece ser muito arriscado...",
-        "es-ES": "Eso suena muy peligroso…"
+        "es-ES": "Eso suena muy peligroso..."
     },
     "Gj1m": {
         "en-US": "[Hiel]\nAhahhaa, no, it's not like that. I just found out a few minor problems while operating the portable rift reactor.",
@@ -1587,7 +1587,7 @@
     "HT1m": {
         "en-US": "[Hiel]\nThe only problem is that... it has to be at a designated location.",
         "pt-BR": "[Hiel]\nO único problema é que... precisa ser em um local determinado.",
-        "es-ES": "[Hiel]\nEl único problema es que… tiene que ser en un lugar específico."
+        "es-ES": "[Hiel]\nEl único problema es que... tiene que ser en un lugar específico."
     },
     "Hj1m": {
         "en-US": "Does that mean it can't be at any other location?",
@@ -1607,7 +1607,7 @@
     "IT1m": {
         "en-US": "^000099When did he steal that... ^000000",
         "pt-BR": "^000099Quando ele roubou isso...? ^000000",
-        "es-ES": "^000099¿Cuándo robó eso…? ^000000"
+        "es-ES": "^000099¿Cuándo robó eso...? ^000000"
     },
     "Ij1m": {
         "en-US": "Then could we also meet his contemporary, Etran?",
@@ -1662,12 +1662,12 @@
     "LD1m": {
         "en-US": "[Hiel]\nHmm...",
         "pt-BR": "[Hiel]\nHum...",
-        "es-ES": "[Hiel]\nMmm…"
+        "es-ES": "[Hiel]\nMmm..."
     },
     "LT1m": {
         "en-US": "[Hiel]\nArg...\n(It is so obvious that Hiel is genuinely in a dilemma)",
         "pt-BR": "[Hiel]\nArgh...\n(É bem óbvio que Hiel está genuinamente incomodado)",
-        "es-ES": "[Hiel]\nArgh…\n(Es obvio que Hiel se enfrenta a un verdadero dilema)."
+        "es-ES": "[Hiel]\nArgh...\n(Es obvio que Hiel se enfrenta a un verdadero dilema)."
     },
     "Lj1m": {
         "en-US": "Surely, it is dangerous. But what you're saying is right. The engineer's blood that runs through me wants to test this machine out.",
@@ -1692,7 +1692,7 @@
     "Mj1m": {
         "en-US": "[Hiel]\nPlease handle the reactor with care. That's the only one we can use at this time...",
         "pt-BR": "[Hiel]\nPor favor, tome cuidado com esse reator. É o único que podemos usar por enquanto...",
-        "es-ES": "[Hiel]\nManipula el reactor con cuidado. Por el momento, es el único que podemos usar…"
+        "es-ES": "[Hiel]\nManipula el reactor con cuidado. Por el momento, es el único que podemos usar..."
     },
     "Mz1m": {
         "en-US": "[Hiel]\nYou're back.{0}While you were gone, I added various functionalities onto the spare rift reactor.",
@@ -1732,17 +1732,17 @@
     "Oj1m": {
         "en-US": "[Hiel]\nHmm... I wonder if there's a way.",
         "pt-BR": "[Hiel]\nHum... Me pergunto se há alguma forma...",
-        "es-ES": "[Hiel]\nMmm… Me pregunto si hay alguna manera."
+        "es-ES": "[Hiel]\nMmm... Me pregunto si hay alguna manera."
     },
     "Oz1m": {
         "en-US": "[Hiel]\nHmm...Hmm...",
         "pt-BR": "[Hiel]\nHmm...hmm...",
-        "es-ES": "[Hiel]\nMmm… Mmm…"
+        "es-ES": "[Hiel]\nMmm... Mmm..."
     },
     "PD1m": {
         "en-US": "[Hiel]\nMaybe...\nThis is just a maybe.",
         "pt-BR": "[Hiel]\nTalvez...\nÉ só um talvez.",
-        "es-ES": "[Hiel]\nTal vez…\nEsto es solo un tal vez."
+        "es-ES": "[Hiel]\nTal vez...\nEsto es solo un tal vez."
     },
     "PT1m": {
         "en-US": "[Hiel]\nIt won't be illegal if the creator of home tree himself hands you its leaf.",
@@ -1762,7 +1762,7 @@
     "QD1m": {
         "en-US": "[Hiel]\nLet's try channeling our way to Robert. Well... This isn't exactly to test out the machine's new functionality. (Hesitating)",
         "pt-BR": "[Hiel]\nVamos tentar canalizar nosso caminho até Robert. Bem... Isso não é exatamente para testar a nova funcionalidade da nossa máquina. (Hesitando)",
-        "es-ES": "[Hiel]\nIntentemos canalizar nuestro camino hacia Robert. Bueno… Esto no es precisamente para probar la nueva funcionalidad de la máquina. *Dudando*"
+        "es-ES": "[Hiel]\nIntentemos canalizar nuestro camino hacia Robert. Bueno... Esto no es precisamente para probar la nueva funcionalidad de la máquina. *Dudando*"
     },
     "QT1m": {
         "en-US": "I'll look for another way.",
@@ -1792,12 +1792,12 @@
     "Rj1m": {
         "en-US": "[Hiel]\nIt always feels like looking into a mirror whenever I meet Sir Robert...",
         "pt-BR": "[Hiel]\nÉ sempre como olhar em um espelho quando vejo Sir Robert...",
-        "es-ES": "[Hiel]\nCada vez que veo a sir Robert, siento como si me mirara en un espejo…"
+        "es-ES": "[Hiel]\nCada vez que veo a sir Robert, siento como si me mirara en un espejo..."
     },
     "Rz1m": {
         "en-US": "Not in the least bit delightful...",
         "pt-BR": "Nem um pouco agradável...",
-        "es-ES": "Para nada encantador…"
+        "es-ES": "Para nada encantador..."
     },
     "SD1m": {
         "en-US": "[Hiel]\nI only met him twice, and I feel really familiar and somewhat nostalgic when I meet him. I don't know how to call it. It's just a very familiar feeling.",
@@ -1832,7 +1832,7 @@
     "Tj1m": {
         "en-US": "[Hiel]\nReally? I'm glad... I would like to one day help Sir Etran and Sir Robert to reunite within this reactor.",
         "pt-BR": "[Hiel]\nSério? Fico feliz... Eu gostaria de um dia ajudar Sir Etran e Sir Robert a se reunirem nesse reator.",
-        "es-ES": "[Hiel]\n¿De verdad? Me alegro… Algún día, me gustaría ayudar a sir Etran y a sir Robert a reunirse dentro de este reactor."
+        "es-ES": "[Hiel]\n¿De verdad? Me alegro... Algún día, me gustaría ayudar a sir Etran y a sir Robert a reunirse dentro de este reactor."
     },
     "Tz1m": {
         "en-US": "^000099Instantly, Hiel's smile reminded me of Robert. I must have been in the moment.^000000",
@@ -1867,12 +1867,12 @@
     "VT1m": {
         "en-US": "[Hiel]\nYou mean Sir Etran's keepsake? I could try to utilize a special magic power stone to imbue the desired effects, but it is an expensive material costing 10 Splendide Coins...",
         "pt-BR": "[Hiel]\nVocê se refere ao Colar de Etran? Eu poderia tentar usar uma pedra de poder mágico especial para imbuir os efeitos desejados, mas é um material caro que custa 10 Moedas de Esplendor...",
-        "es-ES": "[Hiel]\n¿Te refieres al recuerdo de sir Etran? Podría intentar usar una piedra especial con poderes mágicos para infundir los efectos deseados, pero es un material caro que tiene un costo de 10 monedas de Splendide…"
+        "es-ES": "[Hiel]\n¿Te refieres al recuerdo de sir Etran? Podría intentar usar una piedra especial con poderes mágicos para infundir los efectos deseados, pero es un material caro que tiene un costo de 10 monedas de Splendide..."
     },
     "Vj1m": {
         "en-US": "I guess I'll come back next time...",
         "pt-BR": "Voltarei mais tarde da próxima vez...",
-        "es-ES": "Supongo que volveré la próxima vez…"
+        "es-ES": "Supongo que volveré la próxima vez..."
     },
     "Vz1m": {
         "en-US": "I have the necessary coins.",
@@ -1887,7 +1887,7 @@
     "WT1m": {
         "en-US": "[Hiel]\nOh ok, then should we try imbuing the effects? This process isn't my specialty so I'm a bit nervous, but... hahaha...",
         "pt-BR": "[Hiel]\nAh, está bem, então devemos tentar imbuir os efeitos? Esse processo não é minha especialidade, então estou um pouco nervoso, mas... hahaha...",
-        "es-ES": "[Hiel]\nBien, entonces, ¿intentamos infundir los efectos? Este proceso no es mi especialidad, así que estoy un poco nervioso, pero… ja, ja, ja…"
+        "es-ES": "[Hiel]\nBien, entonces, ¿intentamos infundir los efectos? Este proceso no es mi especialidad, así que estoy un poco nervioso, pero... ja, ja, ja..."
     },
     "Wj1m": {
         "en-US": "I'll do it next time~",
@@ -1932,12 +1932,12 @@
     "Yj1m": {
         "en-US": "[Hiel]\nIt looks like you don't have enough coins. I would like to take care of it for you, but the material is just way too expensive...",
         "pt-BR": "[Hiel]\nParece que você não tem moedas suficientes. Eu gostaria de tomar conta disso por você, mas o material é simplesmente caro demais...",
-        "es-ES": "[Hiel]\nParece que no tienes suficientes monedas. Me gustaría ocuparme de eso, pero el material es demasiado caro…"
+        "es-ES": "[Hiel]\nParece que no tienes suficientes monedas. Me gustaría ocuparme de eso, pero el material es demasiado caro..."
     },
     "Yz1m": {
         "en-US": "[Hiel]\nHmm, what else should I fix. I should have had studied more...",
         "pt-BR": "[Hiel]\nHmm, o que mais deveria consertar...? Deveria ter estudado mais...",
-        "es-ES": "[Hiel]\nMmm, qué más debería arreglar. Debería haber estudiado más…"
+        "es-ES": "[Hiel]\nMmm, qué más debería arreglar. Debería haber estudiado más..."
     },
     "ZD1m": {
         "en-US": "Shelby",
@@ -1947,7 +1947,7 @@
     "ZT1m": {
         "en-US": "[Shelby]\nHmm\nIf you want cat merchant service, you should look for the agent, not me.",
         "pt-BR": "[Shelby]\nHum.\nSe você quer o serviço do gato mercante, deveria procurar um agente, não a mim.",
-        "es-ES": "[Shelby]\nMmm…\nSi deseas los servicios del comerciante gatuno, debes acudir al agente, no a mí."
+        "es-ES": "[Shelby]\nMmm...\nSi deseas los servicios del comerciante gatuno, debes acudir al agente, no a mí."
     },
     "Zj1m": {
         "en-US": "What an interesting cat.",
@@ -1962,7 +1962,7 @@
     "aD1m": {
         "en-US": "[Shelby]\nMeow~ How are youeow~ I really liked canned fisheow~!!...Is this what you wanted?",
         "pt-BR": "[Shelby]\nMiau~ Como vai você-iau~ Eu realmente queria peixe enlatado-iau~!!...É isso que queria?",
-        "es-ES": "[Shelby]\nMiau. ¿Comiau estás? ¡Me gustó mucho la conserva de pescadiau!… ¿Es esto lo que querías?"
+        "es-ES": "[Shelby]\nMiau. ¿Comiau estás? ¡Me gustó mucho la conserva de pescadiau!... ¿Es esto lo que querías?"
     },
     "aT1m": {
         "en-US": "[Shelby]\nJust because we are cats, it doesn't mean we are all the same. I'm also really depressed right now, so it's probably best for you to look for other cats to help you.",
@@ -2157,7 +2157,7 @@
     "jz1m": {
         "en-US": "[Ford]\nMeow?\nFord doesn't know a difficult thing like that. Ford knows sardines well! Also mackerels! ^000099Dimension... Stuff Shelby knows better!^000000 But Shelby isn't working because he's a down. I don't either!!",
         "pt-BR": "[Ford]\nMiau?\nFord não conhece algo difícil assim. Ford conhece bem as sardinhas!\nTambém sobre atum! ^000099Dimensão... Coisas que Shelby sabe melhor!^000000 Mas Shelby não está trabalhando porque está deprimido. Eu também não!!!",
-        "es-ES": "[Ford]\n¿Miau?\nFord no sabe una cosa tan difícil. ¡Ford conoce bien las sardinas! ¡También las caballas! ^000099Dimensión… ¡Son cosas que Shelby conoce bien!^000000 Pero Shelby no está trabajando porque no se siente bien. ¡Yo tampoco!"
+        "es-ES": "[Ford]\n¿Miau?\nFord no sabe una cosa tan difícil. ¡Ford conoce bien las sardinas! ¡También las caballas! ^000099Dimensión... ¡Son cosas que Shelby conoce bien!^000000 Pero Shelby no está trabajando porque no se siente bien. ¡Yo tampoco!"
     },
     "kD1m": {
         "en-US": "^000099You hear the sound of two cats fighting.^000000",
@@ -2177,7 +2177,7 @@
     "kz1m": {
         "en-US": "[Shelby]\n...",
         "pt-BR": "[Shelby]\n...",
-        "es-ES": "[Shelby]\n…"
+        "es-ES": "[Shelby]\n..."
     },
     "lD1m": {
         "en-US": "^000099Seeing how Shelby isn't screaming at Ford, he really must be in a good mood now.^000000",
@@ -2192,7 +2192,7 @@
     "lj1m": {
         "en-US": "[Prison Guard]\nI've never seen you before... Are you a visitor?",
         "pt-BR": "[Guarda da Prisão]\nEu nunca vi você antes... Você é um visitante?",
-        "es-ES": "[Guardia]\nNo te había visto nunca… ¿Estás de visita?"
+        "es-ES": "[Guardia]\nNo te había visto nunca... ¿Estás de visita?"
     },
     "lz1m": {
         "en-US": "[Prison Guard]\nI see, I don't think I ever saw you on our visitor's list. Who are you visiting?",
@@ -2202,7 +2202,7 @@
     "mD1m": {
         "en-US": "[Prison Guard]\n^000099{0}^000000? ... That means...",
         "pt-BR": "[Guarda da Prisão]\n^000099{0}^000000? ... Isso significa...",
-        "es-ES": "[Guardia]\n¿^000099{0}^000000? … Eso significa…"
+        "es-ES": "[Guardia]\n¿^000099{0}^000000? ... Eso significa..."
     },
     "mT1m": {
         "en-US": "[Prison Guard]\nHmm? You want to visit ^000099{0}^000000? I don't see that visitation on the list. Are you sure you made a formal request?",
@@ -2227,17 +2227,17 @@
     "nT1m": {
         "en-US": "[Prison Guard]\nAhh...",
         "pt-BR": "[Guarda da Prisão]\nAhh...",
-        "es-ES": "[Guardia]\nAhh…"
+        "es-ES": "[Guardia]\nAhh..."
     },
     "nj1m": {
         "en-US": "^000099The guard's expression grows dim. He looks so terrible upon just mentioning the name Clever...^000000",
         "pt-BR": "^000099A expressão do guarda fica séria. Ele parece tão terrível só de mencionar o nome Esperto...^000000",
-        "es-ES": "^000099La expresión del guardia se ensombrece. Se ve tan terrible después de solo mencionar el nombre de Clever…^000000"
+        "es-ES": "^000099La expresión del guardia se ensombrece. Se ve tan terrible después de solo mencionar el nombre de Clever...^000000"
     },
     "nz1m": {
         "en-US": "[Prison Guard]\nWell, on the list at least... It doesn't seem like there is a visit scheduled with Clever...",
         "pt-BR": "[Guarda da Prisão]\nBem, está na lista, pelo menos... Não parece haver outra visita marcada com Esperto...",
-        "es-ES": "[Guardia]\nBueno, al menos en la lista… No parece que haya una visita programada para Clever…"
+        "es-ES": "[Guardia]\nBueno, al menos en la lista... No parece que haya una visita programada para Clever..."
     },
     "oD1m": {
         "en-US": "[Clever]\nHey~ Guard~ What are you doing? Open this cell quickly, would you! This is a visit, hahaha! If you interfere with my visits, I'm going to sing everytime you work! Aren't you excited?",
@@ -2257,7 +2257,7 @@
     "oz1m": {
         "en-US": "[Prison Guard]\nYou aren't on the list, but, haha, I guess this is an administrative error. Please go ahead. As far as the time for visitation, hm...",
         "pt-BR": "[Guarda da Prisão]\nVocê não está na lista, mas, haha, acho que é um erro administrativo. Vá em frente. Quanto ao horário de visitação, hm...",
-        "es-ES": "[Guardia]\nNo estás en la lista, ja, ja, pero supongo que se trata de un error administrativo. Por favor, adelante. En cuanto al tiempo de visita, mm…"
+        "es-ES": "[Guardia]\nNo estás en la lista, ja, ja, pero supongo que se trata de un error administrativo. Por favor, adelante. En cuanto al tiempo de visita, mm..."
     },
     "pD1m": {
         "en-US": "[Prison Guard]\nYou can take as much time as you want. Don't worry about it, and take your time.",
@@ -2537,7 +2537,7 @@
     "2z1m": {
         "en-US": "^000099Etran suprisingly looks similar to Clever. Could it be that Clever and Hiel are reincarnations of Etran and Robert? No, that couldn't be...^000000",
         "pt-BR": "^000099Etran é surpreendentemente parecido com Esperto. Será que Esperto e Hiel são reencarnações de Etran e Robert? Não, não pode ser...^000000",
-        "es-ES": "^000099Es sorprendente lo mucho que se parece Etran a Clever. ¿Es posible que Clever y Hiel sean reencarnaciones de Etran y Robert? No, no es posible…^000000"
+        "es-ES": "^000099Es sorprendente lo mucho que se parece Etran a Clever. ¿Es posible que Clever y Hiel sean reencarnaciones de Etran y Robert? No, no es posible...^000000"
     },
     "3D1m": {
         "en-US": "Ask about the Elder Assembly.",
@@ -2582,7 +2582,7 @@
     "5D1m": {
         "en-US": "[Etran]\nOf course... It would only be significant if we succeed. If we fail, many more young Laphines would be sent off to the south.",
         "pt-BR": "[Etran]\nÉ claro... Só seria significante se nós fôssemos bem-sucedidos. Se falhássemos, muitos outros Laphines seriam enviados ao sul.",
-        "es-ES": "[Etran]\nPor supuesto… Solo será significativo si lo conseguimos. Si fracasamos, se enviarán al sur a muchos otros jóvenes laphines."
+        "es-ES": "[Etran]\nPor supuesto... Solo será significativo si lo conseguimos. Si fracasamos, se enviarán al sur a muchos otros jóvenes laphines."
     },
     "5T1m": {
         "en-US": "[Etran]\nI can no longer let the elders shed the blood of the young Laphines.",
@@ -2647,7 +2647,7 @@
     "8T1m": {
         "en-US": "[Etran]\nI succeeded...?",
         "pt-BR": "[Etran]\nEu tive sucesso...?",
-        "es-ES": "[Etran]\n¿Lo conseguí…?"
+        "es-ES": "[Etran]\n¿Lo conseguí...?"
     },
     "8j1m": {
         "en-US": "Would you like to see for yourself?",
@@ -2657,7 +2657,7 @@
     "8z1m": {
         "en-US": "[Etran]\nSure. Lead the way. I'll follow...",
         "pt-BR": "[Etran]\nClaro. Me leve até lá. Seguirei você.",
-        "es-ES": "[Etran]\nClaro. Adelante. Te seguiré…"
+        "es-ES": "[Etran]\nClaro. Adelante. Te seguiré..."
     },
     "9D1m": {
         "en-US": "^000099The additional reaction does not get reduced.^000000",
@@ -2697,7 +2697,7 @@
     "+z1m": {
         "en-US": "[Etran]\nBut even so, it's a bit sad that he didn't keep the necklace...",
         "pt-BR": "[Etran]\nMas mesmo assim, é um pouco triste ele não ter ficado com o colar...",
-        "es-ES": "[Etran]\nDe todos modos, es un poco triste que no se quedara con el collar…"
+        "es-ES": "[Etran]\nDe todos modos, es un poco triste que no se quedara con el collar..."
     },
     "/D1m": {
         "en-US": "Tell him what Robert said.",
@@ -2777,12 +2777,12 @@
     "Cz5m": {
         "en-US": "[Etran]\nWhoa... This is..!!!",
         "pt-BR": "[Etran]\nUou... Isso é...!!!",
-        "es-ES": "[Etran]\nVaya… Esto es…"
+        "es-ES": "[Etran]\nVaya... Esto es..."
     },
     "DD5m": {
         "en-US": "[Etran]\nIs this real. This isn't a dream, is it... {0}.",
         "pt-BR": "[Etran]\nIsso é real? Isso não é um sonho, é...{0}.",
-        "es-ES": "[Etran]\n¿Esto es real? Esto no es un sueño, o sí… {0}."
+        "es-ES": "[Etran]\n¿Esto es real? Esto no es un sueño, o sí... {0}."
     },
     "DT5m": {
         "en-US": "It's not a dream",
@@ -2817,12 +2817,12 @@
     "Ez5m": {
         "en-US": "[Etran]\nI see. I would like to see the home tree he nurtured... Would you take me there too?",
         "pt-BR": "[Etran]\nEntendo. Eu gostaria de ver a Yggdrasil que ele cultivou... Você poderia me levar até lá também?",
-        "es-ES": "[Etran]\nYa veo. Me gustaría ver el Árbol del hogar que cultivó… ¿Me llevarías allí también?"
+        "es-ES": "[Etran]\nYa veo. Me gustaría ver el Árbol del hogar que cultivó... ¿Me llevarías allí también?"
     },
     "FD5m": {
         "en-US": "Unfortunately, that can't happen...",
         "pt-BR": "Isso não pode acontecer...",
-        "es-ES": "Por desgracia, no es posible…"
+        "es-ES": "Por desgracia, no es posible..."
     },
     "FT5m": {
         "en-US": "[{0}]\nUnfortunately, this reactor's range is too small that while I try to take you there, the connection will drop. I'm afraid it's impossible.",
@@ -2912,7 +2912,7 @@
     "Jj5m": {
         "en-US": "[Etran]\nThis necklace... Please give it to Robert. Tell him that I never gave up and that we must give our all...",
         "pt-BR": "[Etran]\nEsse colar... Entregue isso para Robert. Conte a ele que nunca desisti e que precisamos nos dedicar totalmente...",
-        "es-ES": "[Etran]\nEste collar… Dáselo a Robert. Dile que nunca me rendí y que debemos darlo todo…"
+        "es-ES": "[Etran]\nEste collar... Dáselo a Robert. Dile que nunca me rendí y que debemos darlo todo..."
     },
     "Jz5m": {
         "en-US": "^000099Etran's figure begins to fade out. The reactor's force must have weakened. ^000000",
@@ -2937,7 +2937,7 @@
     "Kz5m": {
         "en-US": "[Robert]\nTh... This.",
         "pt-BR": "[Robert]\nEs... Essa.",
-        "es-ES": "[Robert]\nEs… Este."
+        "es-ES": "[Robert]\nEs... Este."
     },
     "LD5m": {
         "en-US": "This is the home tree that you nurtured.",
@@ -2947,7 +2947,7 @@
     "LT5m": {
         "en-US": "[Robert]\nIt grew up so well. I thought it was impossible... I thought I would never see it.",
         "pt-BR": "[Robert]\nEla cresceu tão bem. Eu achei que fosse impossível... Eu achei que jamais veria isso.",
-        "es-ES": "[Robert]\nCreció muy bien. Pensé que era imposible… Pensé que nunca lo vería."
+        "es-ES": "[Robert]\nCreció muy bien. Pensé que era imposible... Pensé que nunca lo vería."
     },
     "Lj5m": {
         "en-US": "^000099Robert teared up, full of emotion. Right then, Robert's figure started fading away.^000000",
@@ -2982,7 +2982,7 @@
     "ND5m": {
         "en-US": "[????]\nIs the meat ready yet? I can't wait any longer... (Static static)",
         "pt-BR": "[????]\nA carne já está pronta? Não posso esperar mais... (bzzzzzzzzt)",
-        "es-ES": "[???]\n¿Ya está lista la carne? No puedo esperar más… *Estática*"
+        "es-ES": "[???]\n¿Ya está lista la carne? No puedo esperar más... *Estática*"
     },
     "NT5m": {
         "en-US": "[????]\nAyyyy!!! What did I tell you!!!",
@@ -3012,7 +3012,7 @@
     "Oj5m": {
         "en-US": "[????]\nI... I did it. The restricted area!! Absolute zero ductility!!!!!! And they stole it from me. My gravitational pull of 300 grams.",
         "pt-BR": "[????]\nEu... Consegui. A área restrita!!! Zero absoluto de maleabilidade!!!!!! E eles a roubaram de mim. Minha atração gravitacional de 300 gramas.",
-        "es-ES": "[???]\nLo… Lo logré. ¡La zona restringida! ¡Cero absoluto de ductilidad! Y me robaron. Mi fuerza gravitatoria de 300 gramos."
+        "es-ES": "[???]\nLo... Lo logré. ¡La zona restringida! ¡Cero absoluto de ductilidad! Y me robaron. Mi fuerza gravitatoria de 300 gramos."
     },
     "Oz5m": {
         "en-US": "[????]\nChatting is prohibited in front of the oven, student Orlean.",
@@ -3022,17 +3022,17 @@
     "PD5m": {
         "en-US": "[????]\nIs this-...(Static static) Is this guy really in the right mind?",
         "pt-BR": "[????]\nIsso é-...(bzzzzzt) esse cara realmente está com a cabeça no lugar?",
-        "es-ES": "[???]\n¿Este… *Estática* ¿Este tipo está realmente en sus cabales?"
+        "es-ES": "[???]\n¿Este... *Estática* ¿Este tipo está realmente en sus cabales?"
     },
     "PT5m": {
         "en-US": "[????]\nSon... What is the meaning of this.",
         "pt-BR": "[????]\nFilho... Qual é o significado disso?",
-        "es-ES": "[???]\nHijo… ¿Qué significa esto?"
+        "es-ES": "[???]\nHijo... ¿Qué significa esto?"
     },
     "Pj5m": {
         "en-US": "[????]\nI'm putting the equiment to rest, father...",
         "pt-BR": "[????]\nEstou botando o equipamento para descansar em paz, pai...",
-        "es-ES": "[???]\nEstoy poniendo el equipamiento a descansar, padre…"
+        "es-ES": "[???]\nEstoy poniendo el equipamiento a descansar, padre..."
     },
     "Pz5m": {
         "en-US": "^000099The reactor was activated, but the dimension does not seem to be related to Etran. It's cold somehow.^000000",
@@ -3067,27 +3067,27 @@
     "RT5m": {
         "en-US": "^000099The reactor was activated but... For some reason, I'm getting annoyed.^000000",
         "pt-BR": "^000099O reator foi ativado, mas... Mas por algum motivo, estou ficando incomodado.^000000",
-        "es-ES": "^000099Se activó el reactor, pero… Por alguna razón, me estoy irritando.^000000"
+        "es-ES": "^000099Se activó el reactor, pero... Por alguna razón, me estoy irritando.^000000"
     },
     "Rj5m": {
         "en-US": "[???]\nNow now, if you sleep, it will be all over... Such a thing as Christmas.",
         "pt-BR": "[???]\nEi, ei, se você dormir, tudo terá terminado... Igual no Natal.",
-        "es-ES": "[???]\nAhora, si te duermes, todo habrá terminado… Algo así, como la Navidad."
+        "es-ES": "[???]\nAhora, si te duermes, todo habrá terminado... Algo así, como la Navidad."
     },
     "Rz5m": {
         "en-US": "^000099The reactor was activated but... For some reason, I'm getting lonely.^000000",
         "pt-BR": "^000099O reator foi ativado, mas... Por algum motivo, estou me sentindo solitário.^000000",
-        "es-ES": "^000099Se activó el reactor, pero… Por alguna razón, me estoy sintiendo solo.^000000"
+        "es-ES": "^000099Se activó el reactor, pero... Por alguna razón, me estoy sintiendo solo.^000000"
     },
     "SD5m": {
         "en-US": "[???]\n3..8..12..33...31..The last number is erased...",
         "pt-BR": "[???]\n3...8...12...33...31... o último número foi apagado...",
-        "es-ES": "[???]\n3..8..12..33...31..El último número está borrado…"
+        "es-ES": "[???]\n3..8..12..33...31..El último número está borrado..."
     },
     "ST5m": {
         "en-US": "^000099How intriguing...^000000",
         "pt-BR": "^000099Que intrigante...^000000",
-        "es-ES": "^000099Qué interesante…^000000"
+        "es-ES": "^000099Qué interesante...^000000"
     },
     "Sj5m": {
         "en-US": "[???]\nI'm going insane.\nI give my body and soul to this set of headphones.",
@@ -3097,12 +3097,12 @@
     "Sz5m": {
         "en-US": "[???]\nMusic is the only drug that the nation allows legally...",
         "pt-BR": "[???]\nMúsica é a única droga que as nações permitem legalmente...",
-        "es-ES": "[???]\nLa música es la única droga que la nación permite legalmente…"
+        "es-ES": "[???]\nLa música es la única droga que la nación permite legalmente..."
     },
     "TD5m": {
         "en-US": "^000099The reactor picked up the desperation of an adventurer who acquired some headphones from some place... ^000000",
         "pt-BR": "^000099O reator pegou um pouco do desespero de um aventureiro que adquiriu fones de ouvido de algum lugar... ^000000",
-        "es-ES": "^000099El reactor captó la desesperación de un trotamundos que adquirió unos auriculares en algún lugar… ^000000"
+        "es-ES": "^000099El reactor captó la desesperación de un trotamundos que adquirió unos auriculares en algún lugar... ^000000"
     },
     "TT5m": {
         "en-US": "[???]\nTurn to the right twice. No, to the left. Yes~ Little bit more to the left. Hold your breath~ Yes, let it out now. Please keep the remaining medication in your mouth.",
@@ -3207,7 +3207,7 @@
     "YT5m": {
         "en-US": "[A low voice]\nWe will first consider your report. The assembly's decision is.... (Static... Static)",
         "pt-BR": "[Voz Baixa]\nPrimeiro, vamos levar em conta seu relatório. A decisão da assembleia é... (bzzzzz... bzzzzz)",
-        "es-ES": "[Una voz baja]\nPrimero, estudiaremos tu informe. La decisión de la Asamblea es… *Estática… Estática*"
+        "es-ES": "[Una voz baja]\nPrimero, estudiaremos tu informe. La decisión de la Asamblea es... *Estática... Estática*"
     },
     "Yj5m": {
         "en-US": "^000099Noises interfered the voice and the present time returned.^000000",
@@ -3222,7 +3222,7 @@
     "ZD5m": {
         "en-US": "[Robert]\nHmm?\nCould this be... the guys from last time?",
         "pt-BR": "[Robert]\nHmm?\nPoderiam ser... os caras da última vez?",
-        "es-ES": "[Robert]\n¿Mmm?\n¿Podrían ser… los tipos de la última vez?"
+        "es-ES": "[Robert]\n¿Mmm?\n¿Podrían ser... los tipos de la última vez?"
     },
     "ZT5m": {
         "en-US": "[Robert]\nCome to think of it,{0}, you disappeared after leaving me in front of home tree!",
@@ -3237,7 +3237,7 @@
     "Zz5m": {
         "en-US": "You see...",
         "pt-BR": "Veja...",
-        "es-ES": "Verás…"
+        "es-ES": "Verás..."
     },
     "aD5m": {
         "en-US": "It's a misunderstanding!",
@@ -3257,7 +3257,7 @@
     "az5m": {
         "en-US": "[Robert]\nHmm? The necklace in your right hand...",
         "pt-BR": "[Robert]\nHmm? O colar na sua mão direita...",
-        "es-ES": "[Robert]\n¿Mmm? El collar en tu mano derecha…"
+        "es-ES": "[Robert]\n¿Mmm? El collar en tu mano derecha..."
     },
     "bD5m": {
         "en-US": "I bought it at the market.",
@@ -3312,7 +3312,7 @@
     "dj5m": {
         "en-US": "[{0}]\nThe only thing is.. He was worried about how you were doing. Especially since he couldn't see whether your home tree grew successfully.",
         "pt-BR": "[{0}]\nA única coisa é que... Ele estava preocupado sobre como você estava indo. Especialmente por não conseguir ver se sua Yggdrasil cresceu com sucesso.",
-        "es-ES": "[{0}]\nLo único es que… Estaba preocupado por cómo estabas. Sobre todo porque no pudo ver si tu Árbol del hogar pudo crecer con éxito."
+        "es-ES": "[{0}]\nLo único es que... Estaba preocupado por cómo estabas. Sobre todo porque no pudo ver si tu Árbol del hogar pudo crecer con éxito."
     },
     "dz5m": {
         "en-US": "[Robert]\nThat can't be helped. The one who is putting in the life force cannot leave the place.",
@@ -3327,7 +3327,7 @@
     "eT5m": {
         "en-US": "[Robert]\nAh, you are trying to show Etran my home tree's leaf. You ask such an obvious question...",
         "pt-BR": "[Robert]\nAh, você está tentando mostrar a Etran minha folha da Yggdrasil. Você faz uma pergunta tão óbvia...",
-        "es-ES": "[Robert]\nAh, estás tratando de mostrarle a Etran la hoja de mi Árbol del hogar. Preguntas algo tan obvio…"
+        "es-ES": "[Robert]\nAh, estás tratando de mostrarle a Etran la hoja de mi Árbol del hogar. Preguntas algo tan obvio..."
     },
     "ej5m": {
         "en-US": "[Robert]\nIn fact, my home tree just bloomed up its first leaf. It's very big and full of splendor. Give me a minute.",
@@ -3367,7 +3367,7 @@
     "gT5m": {
         "en-US": "[Robert]\nAnd to not cry anywhere he goes... Wait, no I take that one back.",
         "pt-BR": "[Robert]\nE para não chorar onde quer que ele vá... Espere, não, retiro o que disse.",
-        "es-ES": "[Robert]\nY que no llore donde sea que vaya… Espera, no, retiro lo último que dije."
+        "es-ES": "[Robert]\nY que no llore donde sea que vaya... Espera, no, retiro lo último que dije."
     },
     "gj5m": {
         "en-US": "^000099After making that statement, Robert disappeared back into the reactor. In my hand were Robert's home tree leaf and Etran's necklace.^000000",
@@ -3397,7 +3397,7 @@
     "hz5m": {
         "en-US": "^000099It's been a while since I felt that about myself. Yes, indeed... This machine is getting on my nerves.^000000",
         "pt-BR": "^000099Faz um tempo que não me sentia assim a meu respeito. Sim, de fato... Essa máquina está me dando nos nervos.^000000",
-        "es-ES": "^000099Hacía tiempo que no me sentía así. Sí, en efecto… Esta máquina me altera los nervios.^000000"
+        "es-ES": "^000099Hacía tiempo que no me sentía así. Sí, en efecto... Esta máquina me altera los nervios.^000000"
     },
     "iD5m": {
         "en-US": "[???]\nCHTTTTSTATIC~~~~ ANG!?~~ CHTTTTT ~ oh my shoulder!!",
@@ -3417,7 +3417,7 @@
     "iz5m": {
         "en-US": "[Etran]\nHey Robert, do you know? My sad expression... There is a sad legend here.",
         "pt-BR": "[Etran]\nEi, Robert, você sabia? Minha expressão triste... Há uma lenda por aqui.",
-        "es-ES": "[Etran]\nOye, Robert, ¿sabes? Atrás de mi expresión triste… hay una leyenda deprimente."
+        "es-ES": "[Etran]\nOye, Robert, ¿sabes? Atrás de mi expresión triste... hay una leyenda deprimente."
     },
     "jD5m": {
         "en-US": "[Robert]\nI don't believe in myths.",
@@ -3457,12 +3457,12 @@
     "kz5m": {
         "en-US": "[Etran]\nHe did...",
         "pt-BR": "[Etran]\nPois é...",
-        "es-ES": "[Etran]\nEso hizo…"
+        "es-ES": "[Etran]\nEso hizo..."
     },
     "lD5m": {
         "en-US": "[Robert]\nKekekeke...",
         "pt-BR": "[Robert]\nHehehehe...",
-        "es-ES": "[Robert]\nJa, ja, ja, ja…"
+        "es-ES": "[Robert]\nJa, ja, ja, ja..."
     },
     "lT5m": {
         "en-US": "[Etran]\nHis expression then is this one here. Isn't it sad?",
@@ -3492,7 +3492,7 @@
     "mj5m": {
         "en-US": "[Etran]\nOh...",
         "pt-BR": "[Etran]\nAh...",
-        "es-ES": "[Etran]\nOh…"
+        "es-ES": "[Etran]\nOh..."
     },
     "mz5m": {
         "en-US": "^000099Etran and Robert were put to work as cat merchants.^000000",
@@ -3527,7 +3527,7 @@
     "oT5m": {
         "en-US": "[Etran]\nA dog?...",
         "pt-BR": "[Etran]\nUm cão?...",
-        "es-ES": "[Etran]\n¿Qué eres un perro?…"
+        "es-ES": "[Etran]\n¿Qué eres un perro?..."
     },
     "oj5m": {
         "en-US": "^000099Etran and Robert were placed in a Flight machine.^000000",
@@ -3572,7 +3572,7 @@
     "qj5m": {
         "en-US": "[Robert]\nUghh....",
         "pt-BR": "[Robert]\nUgh...",
-        "es-ES": "[Robert]\nUfff…"
+        "es-ES": "[Robert]\nUfff..."
     },
     "qz5m": {
         "en-US": "[Etran]\nLet us go as we are to Izlude!!!",
@@ -3637,7 +3637,7 @@
     "tz5m": {
         "en-US": "[Etran]\nHuh?... You don't like beer, Robert?",
         "pt-BR": "[Etran]\nHein?... Você não gosta de espetinho, Robert?",
-        "es-ES": "[Etran]\n¿Eh?… ¿No te gusta la cerveza, Robert?"
+        "es-ES": "[Etran]\n¿Eh?... ¿No te gusta la cerveza, Robert?"
     },
     "uD5m": {
         "en-US": "[Robert]\nThat's just something that humans drink. You go ahead. I don't really care for it.",
@@ -3692,7 +3692,7 @@
     "wj5m": {
         "en-US": "[Robert]\nHmm.. No.\nI'll eat it with him when Etran comes home.",
         "pt-BR": "[Robert]\nHum... Não.\nVou comê-la com Etran, quando ele voltar para casa.",
-        "es-ES": "[Robert]\nMmm… No.\nLa comeremos juntos cuando Etran vuelva a casa."
+        "es-ES": "[Robert]\nMmm... No.\nLa comeremos juntos cuando Etran vuelva a casa."
     },
     "wz5m": {
         "en-US": "^000099Robert who went over to Etran's house with the pie.^000000",
@@ -3727,7 +3727,7 @@
     "yT5m": {
         "en-US": "[Etran]\nSob sob...Dona of the same class are making fun of my size and calling me a Papang...",
         "pt-BR": "[Etran]\nSnif snif... os Dona da minha sala estão debochando do meu tamanho e me chamado de Papang...",
-        "es-ES": "[Etran]\n*Solloza*… Donas de la misma clase se burlan de mi tamaño y me llaman papang...."
+        "es-ES": "[Etran]\n*Solloza*... Donas de la misma clase se burlan de mi tamaño y me llaman papang...."
     },
     "yj5m": {
         "en-US": "[Robert]\nThat's all it was? Just because they call you a Papang, it doesn't mean you, a Dona, will turn into a Papang!  Those guys just wanted to see you cry. Why don't you stop crying?",
@@ -3742,7 +3742,7 @@
     "zD5m": {
         "en-US": "[Robert]\nReally now... You cry too often.",
         "pt-BR": "[Robert]\nSério... Você chora demais.",
-        "es-ES": "[Robert]\nAhora, en serio… Lloras bastante seguido."
+        "es-ES": "[Robert]\nAhora, en serio... Lloras bastante seguido."
     },
     "zT5m": {
         "en-US": "[Etran]\nI wish I was as calm and cool as you were, Robert.",
@@ -3752,7 +3752,7 @@
     "zj5m": {
         "en-US": "[Robert]\nPsh, you are 100 years too early to be as cool as I am...",
         "pt-BR": "[Robert]\nAh vá, você está a 100 anos luz de ser tão legal quanto eu...",
-        "es-ES": "[Robert]\nPff, estás muy verde todavía para ser tan relajado como yo…"
+        "es-ES": "[Robert]\nPff, estás muy verde todavía para ser tan relajado como yo..."
     },
     "zz5m": {
         "en-US": "^000099 That night ^000000",
@@ -3777,12 +3777,12 @@
     "0z5m": {
         "en-US": "^000099In boiling water~ 3 minutes~ ... Static static^000000",
         "pt-BR": "^000099Em água fervente~ 3 minutos~ ... Bzzzzt krrrkzt^000000",
-        "es-ES": "^000099En agua hirviendo. 3 minutos … *Estática*^000000"
+        "es-ES": "^000099En agua hirviendo. 3 minutos ... *Estática*^000000"
     },
     "1D5m": {
         "en-US": "^0000993 minutes in boiling water... What after that. Does it mean it will die 3 minutes in boiling water? Do I pour the boiling water over a monster or something?^000000",
         "pt-BR": "^0000993 minutos em água fervente... E depois disso. Quer dizer que morrerá depois de 3 minutos em água fervente?\nDevo jogar água fervente em um monstro ou algo assim?^000000",
-        "es-ES": "^0000993 minutos en agua hirviendo… ¿Y después de eso? ¿Significa que morirá después de 3 minutos en agua hirviendo? ¿Vierto el agua hirviendo sobre un monstruo o algo así?^000000"
+        "es-ES": "^0000993 minutos en agua hirviendo... ¿Y después de eso? ¿Significa que morirá después de 3 minutos en agua hirviendo? ¿Vierto el agua hirviendo sobre un monstruo o algo así?^000000"
     },
     "1T5m": {
         "en-US": "^000099Houston~ Houston~ This is CHTTTCHTTT~ We see a large tower and a tree. It seems like there are life forms here on this planet as well~ STATIC~ ^000000",
@@ -3817,17 +3817,17 @@
     "2z5m": {
         "en-US": "[Prison Guard]\nNo, no! What are you saying... {0} Your prison visits are welcome at any time. I'll do it for you especially if it's for Mr. Clever!",
         "pt-BR": "[Guarda da Prisão]\nNão, não! O que você está dizendo...{0}Suas visitas na prisão são bem-vindas a qualquer hora. Farei isso por você, especialmente se for para o Sr. Esperto!",
-        "es-ES": "[Guardia]\n¡No, no! Qué estás diciendo…{0} Tus visitas a la prisión son siempre bienvenidas. Lo haré por ti, ¡especialmente si es por el señor Clever!"
+        "es-ES": "[Guardia]\n¡No, no! Qué estás diciendo...{0} Tus visitas a la prisión son siempre bienvenidas. Lo haré por ti, ¡especialmente si es por el señor Clever!"
     },
     "3D5m": {
         "en-US": "[Prison Guard]\n{0} Are you already leaving? Ah... That's no good~ It just got quiet!!",
         "pt-BR": "[Guarda da Prisão]\n{0}, já está de saída? Ah... Isso não é bom~ Tudo ficou silencioso!",
-        "es-ES": "[Guardia]\n{0} ¿Ya te vas? Ah… Eso no es bueno. ¡De pronto, hay silencio!"
+        "es-ES": "[Guardia]\n{0} ¿Ya te vas? Ah... Eso no es bueno. ¡De pronto, hay silencio!"
     },
     "3T5m": {
         "en-US": "[Prison Guard]\nWhat! What are you talking about? {0} Is the time for a visitation a problem for you? Here.. I will extend it for 3 hours!",
         "pt-BR": "[Guarda da Prisão]\nQuê?! Do que você está falando?{0}, o horário de visitação é um problema para você? Aqui... Vou aumentá-lo para 3 horas!",
-        "es-ES": "[Guardia]\n¡Qué! ¿De qué estás hablando?{0}¿Tienes algún problema con el tiempo de visita? Aquí tienes… ¡Lo extenderé 3 horas!"
+        "es-ES": "[Guardia]\n¡Qué! ¿De qué estás hablando?{0}¿Tienes algún problema con el tiempo de visita? Aquí tienes... ¡Lo extenderé 3 horas!"
     },
     "3j5m": {
         "en-US": "[Prison Guard]\nIt's not a song. {0} When you are not here, Mr. Clever keeps chanting some kind of spell and tortures me!",

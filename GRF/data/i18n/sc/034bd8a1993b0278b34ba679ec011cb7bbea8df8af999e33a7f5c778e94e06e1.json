@@ -7,7 +7,7 @@
     "obsN": {
         "en-US": "[Hibba Agip]\n*Sigh* Look at me: I used to command the desert of Morroc, but I've been deployed to a world that only God knows where...",
         "pt-BR": "[Hibba Agip]\n*Suspiro* Olhe para mim: Eu costumava comandar o deserto de Morroc, mas fui enviado para um mundo que só Deus sabe onde...",
-        "es-ES": "[Hibba Agip]\n*Suspira* Mírame, antes estaba al mando del desierto de Morroc, pero ahora me asignaron a un mundo que a saber dónde queda…"
+        "es-ES": "[Hibba Agip]\n*Suspira* Mírame, antes estaba al mando del desierto de Morroc, pero ahora me asignaron a un mundo que a saber dónde queda..."
     },
     "orsN": {
         "en-US": "[Staff Officer Abidal]\nCome on, that's not true. In fact, you used to be an official of a small town, and have been promoted to the commander of the expedition. Your success is almost too good to be true.",
@@ -27,7 +27,7 @@
     "pbsN": {
         "en-US": "[Staff Officer Abidal]\nCan you guys stop complaining? God...",
         "pt-BR": "[Oficial Abidal]\nVocês podem parar de reclamar? Meu Deus...",
-        "es-ES": "[Oficial Abidal]\n¿Pueden dejar de quejarse? Cielos…"
+        "es-ES": "[Oficial Abidal]\n¿Pueden dejar de quejarse? Cielos..."
     },
     "prsN": {
         "en-US": "[Instructor Igrid]\nWho are you? What business do you have with Commander Agip?",
@@ -82,7 +82,7 @@
     "sLsN": {
         "en-US": "[Hibba Agip]\nWhy do you want to talk privately? Is it because of me? Grrr... I'll be watching you, Abidal.",
         "pt-BR": "[Hibba Agip]\nPor que você quer conversar em particular? É por minha causa? Grrr... Vou ficar de olho em você, Abidal.",
-        "es-ES": "[Hibba Agip]\n¿Por qué en privado? ¿Es por que estoy aquí? Grrr… Te estaré vigilando, Abidal."
+        "es-ES": "[Hibba Agip]\n¿Por qué en privado? ¿Es por que estoy aquí? Grrr... Te estaré vigilando, Abidal."
     },
     "sbsN": {
         "en-US": "[Instructor Igrid]\nWhat are you still doing here? Go, go speak to Abidal.",
@@ -97,12 +97,12 @@
     "s7sN": {
         "en-US": "[Hibba Agip]\nOh yes, right... You're {0}, right? Abidal has told me good things about you.",
         "pt-BR": "[Hibba Agip]\nAh, sim, certo... Você é {0}, certo? Abidal me falou muito bem de você.",
-        "es-ES": "[Hibba Agip]\nAh, sí… Tú eres {0}, ¿verdad? Abidal me habló bien de ti."
+        "es-ES": "[Hibba Agip]\nAh, sí... Tú eres {0}, ¿verdad? Abidal me habló bien de ti."
     },
     "tLsN": {
         "en-US": "[Hibba Agip]\nWe're lucky to have you, my friend... I hope you're as good as the stories play you up to be.",
         "pt-BR": "[Hibba Agip]\nTivemos sorte de te ter por aqui, meu amigo... Espero que seja tão bom quanto dizem por aí.",
-        "es-ES": "[Hibba Agip]\nTenemos suerte de tenerte con nosotros… Espero que lo que dicen sea verdad."
+        "es-ES": "[Hibba Agip]\nTenemos suerte de tenerte con nosotros... Espero que lo que dicen sea verdad."
     },
     "tbsN": {
         "en-US": "[Staff Officer Abidal]\nCommander, please!",
@@ -132,12 +132,12 @@
     "ursN": {
         "en-US": "[Instructor Igrid]\nCome on, boss... Er, Commander! Don't you think you're exaggerating?",
         "pt-BR": "[Instrutor Igrid]\nAh, chefe... digo, Comandante! Você não acha que está exagerando?",
-        "es-ES": "[Instructor Igrid]\nVamos, jefe… ¡Digo, comandante! ¿No crees que exageras?"
+        "es-ES": "[Instructor Igrid]\nVamos, jefe... ¡Digo, comandante! ¿No crees que exageras?"
     },
     "u7sN": {
         "en-US": "[Hibba Agip]\nHmm... Anyways, this is not a difficult mission. All you have to do is deliver this expedition report to officials of three countries of Rune Midgard. Simple right?",
         "pt-BR": "[Hibba Agip]\nHmm... Enfim, essa missão não é difícil. Tudo que você precisa fazer é entregar esse relatório da expedição aos oficiais de três países de Rune-Midgard. Simples, né?",
-        "es-ES": "[Hibba Agip]\nMmm… Bueno, esta no es una misión difícil. Solo tienes que entregar este informe de la expedición a los funcionarios de tre spaíses de Midgard. Sencillo, ¿verdad?"
+        "es-ES": "[Hibba Agip]\nMmm... Bueno, esta no es una misión difícil. Solo tienes que entregar este informe de la expedición a los funcionarios de tre spaíses de Midgard. Sencillo, ¿verdad?"
     },
     "vLsN": {
         "en-US": "[Hibba Agip]\nThe officials are ^0000FFMinister Laur^000000 of the Rune-Midgard Kingdom, ^0000FFPriest Nuria^000000 of Arunafeltz, and ^0000FFGerhart^000000 of the Schwartzwald Republic.",
@@ -172,7 +172,7 @@
     "wrsN": {
         "en-US": "[Hibba Agip]\nHmm...",
         "pt-BR": "[Hibba Agip]\nHmm...",
-        "es-ES": "[Hibba Agip]\nMmm…"
+        "es-ES": "[Hibba Agip]\nMmm..."
     },
     "w7sN": {
         "en-US": "[Staff Officer Abidal]\n......",
@@ -187,7 +187,7 @@
     "xbsN": {
         "en-US": "[Staff Officer Abidal]\nThey haven't gotten the report yet. We should send out soldiers...",
         "pt-BR": "[Oficial Abidal]\nEles ainda não receberam o relatório. Devíamos mandar soldados...",
-        "es-ES": "[Oficial Abidal]\nTodavía no han recibido el informe. Deberíamos enviar soldados…"
+        "es-ES": "[Oficial Abidal]\nTodavía no han recibido el informe. Deberíamos enviar soldados..."
     },
     "xrsN": {
         "en-US": "[Hibba Agip]\nThat's not why I'm concerned. The problem is that the assignee failed to complete the mission and lost the report.'",
@@ -237,7 +237,7 @@
     "z7sN": {
         "en-US": "[Staff Officer Abidal]\nI still remember at least 30% of the document. I might be able to rewrite another...",
         "pt-BR": "[Oficial Abidal]\nAinda me lembro de pelo menos 30% do documento. Talvez eu consiga reescrevê-lo...",
-        "es-ES": "[Oficial Abidal]\nTodavía recuerdo al menos un tercio del documento, tal vez pueda reescribirlo…"
+        "es-ES": "[Oficial Abidal]\nTodavía recuerdo al menos un tercio del documento, tal vez pueda reescribirlo..."
     },
     "0LsN": {
         "en-US": "[Hibba Agip]\nI need it to be perfect. What can we do with only 30%?",
@@ -262,12 +262,12 @@
     "1LsN": {
         "en-US": "[Staff Officer Abidal]\nOf course, I'm happy to...",
         "pt-BR": "[Oficial Abidal]\nClaro, fico feliz em...",
-        "es-ES": "[Oficial Abidal]\nClaro, con gusto…"
+        "es-ES": "[Oficial Abidal]\nClaro, con gusto..."
     },
     "1bsN": {
         "en-US": "[Instructor Igrid]\n.......",
         "pt-BR": "[Instrutor Igrid]\n.......",
-        "es-ES": "[Instructor Igrid]\n……"
+        "es-ES": "[Instructor Igrid]\n......"
     },
     "1rsN": {
         "en-US": "[Hibba Agip]\nNow, search everywhere for the pages of that report. Staff Officer Abidal will bind them into the full report for you.",
@@ -277,12 +277,12 @@
     "17sN": {
         "en-US": "[Hibba Agip]\nAh, and... I've received a report that you tried to hand out the report to our enemy when the situation happened.",
         "pt-BR": "[Hibba Agip]\nAh, e... Recebi uma denúncia de que você tentou entregar o relatório ao nosso inimigo quando a situação aconteceu.",
-        "es-ES": "[Hibba Agip]\nAh, y… Escuché que intentaste entregar el informe al enemigo cuando pasó todo esto."
+        "es-ES": "[Hibba Agip]\nAh, y... Escuché que intentaste entregar el informe al enemigo cuando pasó todo esto."
     },
     "2LsN": {
         "en-US": "[Instructor Igrid]\nArgh...",
         "pt-BR": "[Instrutor Igrid]\nArgh...",
-        "es-ES": "[Instructor Igrid]\nIncreíble…"
+        "es-ES": "[Instructor Igrid]\nIncreíble..."
     },
     "2bsN": {
         "en-US": "[Hibba Agip]\nHahaha! You're smart, my friend. Of course, I don't really care for smart soldiers.",
@@ -317,12 +317,12 @@
     "37sN": {
         "en-US": "[Hibba Agip]\nAh, and... I've received a report that you fought hard against the enemy to protect the report from them.",
         "pt-BR": "[Hibba Agip]\nAh, e... Recebi um relatório dizendo que você lutou bravamente contra o inimigo para proteger o relatório deles.",
-        "es-ES": "[Hibba Agip]\nAh, y… Escuché que luchaste contra el enemigo para proteger el informe."
+        "es-ES": "[Hibba Agip]\nAh, y... Escuché que luchaste contra el enemigo para proteger el informe."
     },
     "4LsN": {
         "en-US": "[Instructor Igrid]\nUmm...",
         "pt-BR": "[Instrutor Igrid]\nUmm...",
-        "es-ES": "[Instructor Igrid]\nMmm…"
+        "es-ES": "[Instructor Igrid]\nMmm..."
     },
     "4bsN": {
         "en-US": "[Hibba Agip]\nHahaha, you're fearless and I can make good use of a soldier like you at any time of the day.",
@@ -362,7 +362,7 @@
     "6LsN": {
         "en-US": "[Hibba Agip]\nThis was finished more quickly than I thought. Let me see...",
         "pt-BR": "[Hibba Agip]\nIsso foi concluído mais rápido do que eu pensava. Deixe-me ver...",
-        "es-ES": "[Hibba Agip]\n¡Vaya, terminaron más rápido de lo que pensaba! Déjame ver…"
+        "es-ES": "[Hibba Agip]\n¡Vaya, terminaron más rápido de lo que pensaba! Déjame ver..."
     },
     "6bsN": {
         "en-US": "[Hibba Agip]\nIt looks alright. I don't have to read this thoroughly because I trust Abidal.",
@@ -442,7 +442,7 @@
     "+LsN": {
         "en-US": "[Hibba Agip]\nSo... I was hoping that you'll come back and help us once we figure out who's behind this. Will you?",
         "pt-BR": "[Hibba Agip]\nEntão... eu esperava que você voltasse para nos ajudar quando descobrirmos quem está por trás disso. Vai aceitar?",
-        "es-ES": "[Hibba Agip]\nAsí que… Espero que vuelvas y nos ayudes cuando sepamos quién está detrás de todo esto. ¿Lo harías?"
+        "es-ES": "[Hibba Agip]\nAsí que... Espero que vuelvas y nos ayudes cuando sepamos quién está detrás de todo esto. ¿Lo harías?"
     },
     "+bsN": {
         "en-US": "[Hibba Agip]\nAnd please take this small reward. Thank you for your help so far.",
@@ -497,7 +497,7 @@
     "A7wN": {
         "en-US": "[Hibba Agip]\nWell hello then...",
         "pt-BR": "[Hibba Agip]\nBem, olá então...",
-        "es-ES": "[Hibba Agip]\nBueno, hola…"
+        "es-ES": "[Hibba Agip]\nBueno, hola..."
     },
     "BLwN": {
         "en-US": "[Hibba Agip]\nPlease be patient. I'll contact you when the time is right.",
@@ -537,7 +537,7 @@
     "C7wN": {
         "en-US": "[Hibba Agip]\nHis name is Magnifer... look for him.. he's somewhere around here...",
         "pt-BR": "[Hibba Agip]\nO nome dele é Magnifer... procure por ele... ele está por aqui em algum lugar...",
-        "es-ES": "[Hibba Agip]\nSe llama Magnifier… Búscalo… Está por aquí…"
+        "es-ES": "[Hibba Agip]\nSe llama Magnifier... Búscalo... Está por aquí..."
     },
     "DLwN": {
         "en-US": "[Hibba Agip]\nDid you talk with the scholar? Thesedays, I haven't seen him for a while.",
@@ -552,7 +552,7 @@
     "DrwN": {
         "en-US": "[Hibba Agip]\nHey, don't judge me like that...the problem is only that I can't see him often.",
         "pt-BR": "[Hibba Agip]\nEi, não me julgue assim... o problema é só que eu não o vejo com frequência.",
-        "es-ES": "[Hibba Agip]\nOye, no me juzgues así… El problema es que no puedo verlo tan seguido."
+        "es-ES": "[Hibba Agip]\nOye, no me juzgues así... El problema es que no puedo verlo tan seguido."
     },
     "D7wN": {
         "en-US": "[Hibba Agip]\nWhatever. Did something happen because he showed up to me? Tell me more.",
@@ -567,22 +567,22 @@
     "EbwN": {
         "en-US": "[Hibba Agip]\nHmmm... umm... so...",
         "pt-BR": "[Hibba Agip]\nHmmm... umm... então...",
-        "es-ES": "[Hibba Agip]\nMmm… Entonces…"
+        "es-ES": "[Hibba Agip]\nMmm... Entonces..."
     },
     "ErwN": {
         "en-US": "[Hibba Agip]\nSo, that's why that happened like that... It's so complicated...",
         "pt-BR": "[Hibba Agip]\nEntão, foi por isso que isso aconteceu assim... Que confusão...",
-        "es-ES": "[Hibba Agip]\nEntonces, por eso sucedió así… Es muy complicado…"
+        "es-ES": "[Hibba Agip]\nEntonces, por eso sucedió así... Es muy complicado..."
     },
     "E7wN": {
         "en-US": "[Hibba Agip]\nAnd you guys...you just take a task that you start up at first.",
         "pt-BR": "[Hibba Agip]\nE vocês... só peguem uma tarefa que vocês mesmos começaram.",
-        "es-ES": "[Hibba Agip]\nY ustedes… solo toman una tarea y la empiezan."
+        "es-ES": "[Hibba Agip]\nY ustedes... solo toman una tarea y la empiezan."
     },
     "FLwN": {
         "en-US": "[Staff Officer Abidal]\nYou sent him to Doctor Magnifer first....",
         "pt-BR": "[Oficial Abidal]\nVocê o enviou para o Dr. Magnifer primeiro....",
-        "es-ES": "[Oficial Abidal]\nLo enviaste con el doctor Magnifier primero…"
+        "es-ES": "[Oficial Abidal]\nLo enviaste con el doctor Magnifier primero..."
     },
     "FbwN": {
         "en-US": "[Hibba Agip]\nI just thought that he needed someone to talk to.",
@@ -592,17 +592,17 @@
     "FrwN": {
         "en-US": "[Staff Officer Abidal]\nAh yeah... you're right.",
         "pt-BR": "[Oficial Abidal]\nAh, é... você está certo.",
-        "es-ES": "[Oficial Abidal]\nAh, sí… Tienes razón."
+        "es-ES": "[Oficial Abidal]\nAh, sí... Tienes razón."
     },
     "F7wN": {
         "en-US": "[Hibba Agip]\nHmm... for example, you want to investigate a cave that you found, but you got on the Laphine and Sapha's nerves. right?",
         "pt-BR": "[Hibba Agip]\nHmm... por exemplo, você quer investigar uma caverna que encontrou, irritou as Laphine e os Sapha, certo?",
-        "es-ES": "[Hibba Agip]\nMmm… Por ejemplo, querías investigar una cueva que encontraste, pero ya hiciste enojar a los laphines y los saphas, ¿no?"
+        "es-ES": "[Hibba Agip]\nMmm... Por ejemplo, querías investigar una cueva que encontraste, pero ya hiciste enojar a los laphines y los saphas, ¿no?"
     },
     "GLwN": {
         "en-US": "[Hibba Agip]\nAnd that two guys pay attention and stay quiet, but they are doing it for themselves..",
         "pt-BR": "[Hibba Agip]\nE esses dois caras prestam atenção e ficam quietos,mas só fazem isso por interesse próprio...",
-        "es-ES": "[Hibba Agip]\nY esos dos se quedan callados, pero lo hacen por su cuenta…"
+        "es-ES": "[Hibba Agip]\nY esos dos se quedan callados, pero lo hacen por su cuenta..."
     },
     "GbwN": {
         "en-US": "[Hibba Agip]\nThe most important thing is that this place is the ground that the Yggdrasilberry takes root acording to Magnifer.",
@@ -627,7 +627,7 @@
     "HbwN": {
         "en-US": "[Hibba Agip]\nYeah right. I don't want to extend this thing anymore...",
         "pt-BR": "[Hibba Agip]\nÉ mesmo. Eu também não quero prolongar mais isso...",
-        "es-ES": "[Hibba Agip]\nSí, claro. No quiero alargar esta situación…"
+        "es-ES": "[Hibba Agip]\nSí, claro. No quiero alargar esta situación..."
     },
     "HrwN": {
         "en-US": "[Staff Officer Abidal]\nBut the two tribes have remained neutral towards us up until now.",
@@ -642,7 +642,7 @@
     "ILwN": {
         "en-US": "[Hibba Agip]\nYeah.. that makes sense... If they made a general attack, we would probably fail.",
         "pt-BR": "[Hibba Agip]\nÉ... faz sentido... Se elas lançassem um ataque geral, provavelmente fracassaríamos.",
-        "es-ES": "[Hibba Agip]\nSí… Tiene sentido… Si atacaran, probablemente fracasaríamos."
+        "es-ES": "[Hibba Agip]\nSí... Tiene sentido... Si atacaran, probablemente fracasaríamos."
     },
     "IbwN": {
         "en-US": "[Staff Officer Abidal]\nWe should map out a strategy. There is a method that uses Laphine and Sapha's together.",
@@ -657,7 +657,7 @@
     "I7wN": {
         "en-US": "[Hibba Agip]\nWill they help us? They have already said threatening words...",
         "pt-BR": "[Hibba Agip]\nSerá que eles vão nos ajudar? Eles já nos ameaçaram antes...",
-        "es-ES": "[Hibba Agip]\n¿Nos ayudarán? Ya nos habían amenazado…"
+        "es-ES": "[Hibba Agip]\n¿Nos ayudarán? Ya nos habían amenazado..."
     },
     "JLwN": {
         "en-US": "[Staff Officer Abidal]\nOf course they will help us. if they reject our demand, we just say that we'll ask for help from the other tribe.",
@@ -692,7 +692,7 @@
     "KrwN": {
         "en-US": "[Hibba Agip]\nWhatever.. Hey, you there... your name is {0} right? Do you know what to do?",
         "pt-BR": "[Hibba Agip]\nTanto faz... Ei, você aí... seu nome é {0}, certo? Sabe o que fazer?",
-        "es-ES": "[Hibba Agip]\nComo sea… Oye, tú… Eres {0}, ¿verdad? ¿Sabes qué hacer?"
+        "es-ES": "[Hibba Agip]\nComo sea... Oye, tú... Eres {0}, ¿verdad? ¿Sabes qué hacer?"
     },
     "K7wN": {
         "en-US": "[Hibba Agip]\nGo to one of the tribes and ask for help officially. I'll send someone to the other tribe.",
@@ -827,7 +827,7 @@
     "RbwN": {
         "en-US": "[Hibba Agip]\nI'm not cut out for matching with them...ew...",
         "pt-BR": "[Hibba Agip]\nEu não me dou muito com eles... eca...",
-        "es-ES": "[Hibba Agip]\nNo soy la persona indicada para tratar con ellos… Aj…"
+        "es-ES": "[Hibba Agip]\nNo soy la persona indicada para tratar con ellos... Aj..."
     },
     "RrwN": {
         "en-US": "[Hibba Agip]\nI'm going to send a few able men to the Sapha, you don't have to worry about it.",
@@ -842,7 +842,7 @@
     "SLwN": {
         "en-US": "[Hibba Agip]\nThey are not very humorous people... I couldn't get anything out of them either.",
         "pt-BR": "[Hibba Agip]\nEles não são pessoas muito bem-humoradas... Também não consegui arrancar nada deles.",
-        "es-ES": "[Hibba Agip]\nNo tienen mucho sentido del humor… Tampoco pude sacarles nada."
+        "es-ES": "[Hibba Agip]\nNo tienen mucho sentido del humor... Tampoco pude sacarles nada."
     },
     "SbwN": {
         "en-US": "[Hibba Agip]\nI'm going to send a few able men to the Laphine, you don't have to worry about it.",
@@ -877,12 +877,12 @@
     "T7wN": {
         "en-US": "[Hibba Agip]\nIt'll be fun waiting for the things to come... huhu...",
         "pt-BR": "[Hibba Agip]\nVai ser divertido esperar pelas coisas que estão por vir... huhu...",
-        "es-ES": "[Hibba Agip]\nSerá divertido esperar lo que venga… Ju, ju…"
+        "es-ES": "[Hibba Agip]\nSerá divertido esperar lo que venga... Ju, ju..."
     },
     "ULwN": {
         "en-US": "[Hibba Agip]\n*Sigh* Look at me; I used to command the desert of Morroc, but I've been deployed to a world that only God knows where...",
         "pt-BR": "[Hibba Agip]\n*Suspiro* Olhe para mim: Eu costumava comandar o deserto de Morroc, mas fui enviado para um mundo que só Deus sabe onde...",
-        "es-ES": "[Hibba Agip]\n*Suspira* Mírame, antes estaba al mando del desierto de Morroc, pero ahora me asignaron a un mundo que a saber dónde queda…"
+        "es-ES": "[Hibba Agip]\n*Suspira* Mírame, antes estaba al mando del desierto de Morroc, pero ahora me asignaron a un mundo que a saber dónde queda..."
     },
     "UbwN": {
         "en-US": "[Instructor Igrid]\nHey, boss. Can we just go through the motions until we get out of here? This so-called Ash-Vacuum is boring. It's heaven for the kingdom scholars, but it's not for me.",
@@ -1052,7 +1052,7 @@
     "crwN": {
         "en-US": "[Staff Officer Abidal]\nBut I have to tell you... We sent out three adventurers on this mission before you, and they all disappeared. Please don't disclose this information to anyone.",
         "pt-BR": "[Oficial Abidal]\nMas devo dizer... Enviamos três viajantes nessa missão antes de você, e todos desapareceram. Por favor, não divulgue essa informação para ninguém.",
-        "es-ES": "[Oficial Abidal]\nPero hay algo que debes saber… Enviamos a tres trotamundos a esta misión antes que tú, y todos desaparecieron. Por favor, no se lo digas a nadie."
+        "es-ES": "[Oficial Abidal]\nPero hay algo que debes saber... Enviamos a tres trotamundos a esta misión antes que tú, y todos desaparecieron. Por favor, no se lo digas a nadie."
     },
     "c7wN": {
         "en-US": "[Staff Officer Abidal]\nThe commander or I cannot leave this camp, even though delivering the report is one of our most important duties. That's why I need someone reliable and trusthworthy like you.",
@@ -1072,7 +1072,7 @@
     "drwN": {
         "en-US": "[Staff Officer Abidal]\nOh, I see... Then can you help me whenever you have some time?",
         "pt-BR": "[Oficial Abidal]\nEntendo... Então, pode me ajudar quando tiver um tempo?",
-        "es-ES": "[Oficial Abidal]\nAh, ya veo… Entonces, ¿podrás ayudarme cuando tengas un momento?"
+        "es-ES": "[Oficial Abidal]\nAh, ya veo... Entonces, ¿podrás ayudarme cuando tengas un momento?"
     },
     "d7wN": {
         "en-US": "[Staff Officer Abidal]\nThis is urgent: please think it over and come back if you change your mind.",
@@ -1107,7 +1107,7 @@
     "fbwN": {
         "en-US": "[Staff Officer Abidal]\nWhy don't you go check the site of the accident? You might find some clues of their whereabouts. And...",
         "pt-BR": "[Oficial Abidal]\nPor que você não vai até o local do acidente? Talvez encontre algumas pistas sobre o paradeiro das páginas. E...",
-        "es-ES": "[Oficial Abidal]\n¿Por qué no revisas el lugar del accidente? Quizás encuentres pistas sobre su paradero. Y…"
+        "es-ES": "[Oficial Abidal]\n¿Por qué no revisas el lugar del accidente? Quizás encuentres pistas sobre su paradero. Y..."
     },
     "frwN": {
         "en-US": "[Staff Officer Abidal]\nThis is my opinion, but otherworldly creatures might have taken an interest in the pages.",
@@ -1152,7 +1152,7 @@
     "hrwN": {
         "en-US": "[Staff Officer Abidal]\nOh, you've collected enough pages...",
         "pt-BR": "[Oficial Abidal]\nAh, você já coletou páginas suficientes...",
-        "es-ES": "[Oficial Abidal]\nOh, recolectaste suficientes páginas…"
+        "es-ES": "[Oficial Abidal]\nOh, recolectaste suficientes páginas..."
     },
     "h7wN": {
         "en-US": "[Staff Officer Abidal]\nWhy don't you check the report's restoration status again?",
@@ -1172,7 +1172,7 @@
     "irwN": {
         "en-US": "[Staff Officer Abidal]\nUmm... This page should go here and...",
         "pt-BR": "[Oficial Abidal]\nHumm... Esta página deve ficar aqui e...",
-        "es-ES": "[Oficial Abidal]\nMmm… Esta página va aquí y…"
+        "es-ES": "[Oficial Abidal]\nMmm... Esta página va aquí y..."
     },
     "i7wN": {
         "en-US": "[Staff Officer Abidal]\nThank you for your hard work. We were able to restore one volume of the report.",
@@ -1337,7 +1337,7 @@
     "q7wN": {
         "en-US": "[Staff Officer Abidal]\n...Aren't you leaving? I think you should.",
         "pt-BR": "[Oficial Abidal]\n...Você ainda não foi embora? Acho que você deveria.",
-        "es-ES": "[Oficial Abidal]\n…¿No te ibas? Creo que deberías ponerte en marcha."
+        "es-ES": "[Oficial Abidal]\n...¿No te ibas? Creo que deberías ponerte en marcha."
     },
     "rLwN": {
         "en-US": "[Staff Officer Abidal]\nI heard that you got a new duty from Commander Agip.",
@@ -1347,7 +1347,7 @@
     "rbwN": {
         "en-US": "[Staff Officer Abidal]\nHello? I'm Staff Officer Abidal of the Midgard expedition. I wish you luck during your adventure...",
         "pt-BR": "[Oficial Abidal]\nOlá? Sou o Oficial Abidal, da expedição de Midgard. Desejo-lhe sorte em sua aventura...",
-        "es-ES": "[Oficial Abidal]\n¿Hola? Soy el oficial Abidal de la expedición de Midgard. Te deseo mucha suerte en tu aventura…"
+        "es-ES": "[Oficial Abidal]\n¿Hola? Soy el oficial Abidal de la expedición de Midgard. Te deseo mucha suerte en tu aventura..."
     },
     "rrwN": {
         "en-US": "Instructor Igrid",
@@ -1372,7 +1372,7 @@
     "srwN": {
         "en-US": "[Instructor Igrid]\nYou must want to become an official member of our expedition. I'm sorry, but you're too weak to endure my intensive training. Give up before you get hurt.",
         "pt-BR": "[Instrutor Igrid]\nVocê quer se tornar um membro oficial da nossa expedição? Sinto muito, mas você é fraco demais para aguentar meu treinamento intensivo. Desista antes que se machuque.",
-        "es-ES": "[Instructor Igrid]\nSeguro quieres unirte oficialmente a nuestra expedición… Lo siento, pero eres demasiado débil para soportar mi entrenamiento intensivo.. Mejor ríndete antes de que te lastimen."
+        "es-ES": "[Instructor Igrid]\nSeguro quieres unirte oficialmente a nuestra expedición... Lo siento, pero eres demasiado débil para soportar mi entrenamiento intensivo.. Mejor ríndete antes de que te lastimen."
     },
     "s7wN": {
         "en-US": "[Instructor Igrid]\nIf you have too much time on your hands, look around. There's plenty of chores available for so-called adventurers like you. If you do your best to do them, I just might accept you as a trainee on this expedition.",
@@ -1427,7 +1427,7 @@
     "vbwN": {
         "en-US": "...\n......\n...........",
         "pt-BR": "...\n......\n...........",
-        "es-ES": "…\n......\n…………"
+        "es-ES": "...\n......\n............"
     },
     "vrwN": {
         "en-US": "[Expedition Messenger]\nExcellent. Thank you. Then we'll go back to the mainland and let the leaders know that you, {0}, have departed.",
@@ -1457,7 +1457,7 @@
     "w7wN": {
         "en-US": "[Expedition Messenger]\nArgh... Why are you doing this?!",
         "pt-BR": "[Expedition Messenger]\nArgh... Por que está fazendo isso?!",
-        "es-ES": "[Mensajero de Expedición]\nAy… ¡¿Por qué haces esto?!"
+        "es-ES": "[Mensajero de Expedición]\nAy... ¡¿Por qué haces esto?!"
     },
     "xLwN": {
         "en-US": "[???]\n......",
@@ -1482,7 +1482,7 @@
     "yLwN": {
         "en-US": "[Expedition Messenger]\nWha... What are you doing? You can't give up the report... Awww...",
         "pt-BR": "[Mensageiro da Expedição]\nO que... O que está fazendo? Você não pode entregar o relatório... Awww...",
-        "es-ES": "[Mensajero de Expedición]\n¿Qué…? ¿Qué estás haciendo? No puedes entregar el informe… Ayyy…"
+        "es-ES": "[Mensajero de Expedición]\n¿Qué...? ¿Qué estás haciendo? No puedes entregar el informe... Ayyy..."
     },
     "ybwN": {
         "en-US": "[???]\nGive it to me, now!",
@@ -1492,12 +1492,12 @@
     "yrwN": {
         "en-US": "[???]\nArgh...",
         "pt-BR": "[???]\nArgh...",
-        "es-ES": "[???]\nAy…"
+        "es-ES": "[???]\nAy..."
     },
     "y7wN": {
         "en-US": "[???]\nArgh... You...",
         "pt-BR": "[???]\nArgh... Você...",
-        "es-ES": "[???]\nAy… Tú…"
+        "es-ES": "[???]\nAy... Tú..."
     },
     "zLwN": {
         "en-US": "[Expedition Messenger]\n*Cough* Oh, thank god! {0}, please take the report and run!",
@@ -1507,12 +1507,12 @@
     "zbwN": {
         "en-US": "[???]\nNo... Noooo!",
         "pt-BR": "[???]\nNão... Nãoooo!",
-        "es-ES": "[???]\nNo… ¡Noooo!"
+        "es-ES": "[???]\nNo... ¡Noooo!"
     },
     "zrwN": {
         "en-US": "[Expedition Messenger]\nArgh... {0}, are you alright? The report... The report...",
         "pt-BR": "[Mensageiro da Expedição]\nArgh... {0}, você está bem? O relatório... O relatório...",
-        "es-ES": "[Mensajero de Expedición]\nAy… {0}, ¿estás bien? El informe… Oh no…"
+        "es-ES": "[Mensajero de Expedición]\nAy... {0}, ¿estás bien? El informe... Oh no..."
     },
     "z7wN": {
         "en-US": "[Expedition Agent]\nWe lost the report. The pages are blowing away!",
@@ -1527,12 +1527,12 @@
     "0bwN": {
         "en-US": "[Expedition Agent]\nAre you alright? What about the report...?",
         "pt-BR": "[Agente de Expedição]\nVocê está bem? E o relatório...?",
-        "es-ES": "[Agente de la expedición]\n¿Están bien? ¿Y el informe…?"
+        "es-ES": "[Agente de la expedición]\n¿Están bien? ¿Y el informe...?"
     },
     "0rwN": {
         "en-US": "[Expedition Messenger]\n*Cough* The report... It's out of our reach now...",
         "pt-BR": "[Mensageiro da Expedição]\n*Cof* O relatório... Já era...",
-        "es-ES": "[Mensajero de Expedición]\n*Cof* Perdiomos... el informe…"
+        "es-ES": "[Mensajero de Expedición]\n*Cof* Perdiomos... el informe..."
     },
     "07wN": {
         "en-US": "[Expedition Agent]\nIf we mobilize all of our troops to search this entire area...",
@@ -1567,7 +1567,7 @@
     "2bwN": {
         "en-US": "[Expedition Messenger]\n*Cough* The report.... It's out of our reach now...",
         "pt-BR": "[Mensageiro da Expedição]\n*Cof* O relatório... Já era...",
-        "es-ES": "[Mensajero de Expedición]\n*Cof* Perdimos... el informe…"
+        "es-ES": "[Mensajero de Expedición]\n*Cof* Perdimos... el informe..."
     },
     "2rwN": {
         "en-US": "[Expedition Messenger]\nWe must report this to the commander before anything else. {0}, please report to the commander immediately. Let us take care of the rest.",
@@ -1612,7 +1612,7 @@
     "4rwN": {
         "en-US": "- When you tried to talk to him, he disappeared into thin air. He looked like someone on a very important mission...",
         "pt-BR": "- Quando você tentou falar com ele, ele desapareceu no ar. Parecia estar em uma missão muito importante...",
-        "es-ES": "(Cuando intentaste hablar con él, desapareció en el aire. Parecía alguien con una misión muy importante…)"
+        "es-ES": "(Cuando intentaste hablar con él, desapareció en el aire. Parecía alguien con una misión muy importante...)"
     },
     "47wN": {
         "en-US": "Expedition Scout",
@@ -1742,12 +1742,12 @@
     "/LwN": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "/bwN": {
         "en-US": "... ...",
         "pt-BR": "... ...",
-        "es-ES": "… …"
+        "es-ES": "... ..."
     },
     "/rwN": {
         "en-US": "... ... ...",
@@ -1841,8 +1841,8 @@
     },
     "EL0N": {
         "en-US": "[Nuria]\nI regret admitting that you've brought it much later than I expected, but... I'm glad that it is here safely. Please give it to me.",
-        "pt-BR": "[Nuria]\nLamento admitir que você o trouxe muito mais tarde do que eu esperava, mas… fico feliz que tenha chegado em segurança. Por favor, me entregue.",
-        "es-ES": "[Nuria]\nLamento admitir que lo trajiste mucho más tarde de lo que esperaba, pero… Me alegra que haya llegado a salvo. Por favor, dámelo."
+        "pt-BR": "[Nuria]\nLamento admitir que você o trouxe muito mais tarde do que eu esperava, mas... fico feliz que tenha chegado em segurança. Por favor, me entregue.",
+        "es-ES": "[Nuria]\nLamento admitir que lo trajiste mucho más tarde de lo que esperaba, pero... Me alegra que haya llegado a salvo. Por favor, dámelo."
     },
     "Eb0N": {
         "en-US": "[Nuria]\nI'm happy to see that they've made good progress so far. Please tell the commander to keep up the good work.",
@@ -1882,17 +1882,17 @@
     "GL0N": {
         "en-US": "[Gerhart]\nOh, who am I? Let's say... That you can make ends meet because of me. Make sense?",
         "pt-BR": "[Gerhart]\nOh, quem sou eu? Digamos... Que você consegue pagar as contas por minha causa. Faz sentido?",
-        "es-ES": "[Gerhart]\nOh, ¿quién soy yo? Digamos… que puedes llegar a fin de mes gracias a mí. ¿Tiene sentido?"
+        "es-ES": "[Gerhart]\nOh, ¿quién soy yo? Digamos... que puedes llegar a fin de mes gracias a mí. ¿Tiene sentido?"
     },
     "Gb0N": {
         "en-US": "[Gerhart]\nDo you know how long I waited for this report? *Sigh* ...Fine, just give it to me.",
         "pt-BR": "[Gerhart]\nVocê sabe quanto tempo esperei por esse relatório? *Suspiro* ...Tudo bem, me entregue.",
-        "es-ES": "[Gerhart]\n¿Sabes cuánto tiempo esperé este informe? *Suspira* …Bueno, dámelo ya."
+        "es-ES": "[Gerhart]\n¿Sabes cuánto tiempo esperé este informe? *Suspira* ...Bueno, dámelo ya."
     },
     "Gr0N": {
         "en-US": "[Gerhart]\nHmmm... This report is a clear demonstration of Commander Hibba Agip's competence... Well, that's great.",
         "pt-BR": "[Gerhart]\nHmmm... Este relatório é uma clara demonstração da competência do Comandante Hibba Agip... Bom, isso é ótimo.",
-        "es-ES": "[Gerhart]\nMmmm… Este informe es una clara muestra de la competencia del comandante Hibba Agip… Esto es muy bueno."
+        "es-ES": "[Gerhart]\nMmmm... Este informe es una clara muestra de la competencia del comandante Hibba Agip... Esto es muy bueno."
     },
     "G70N": {
         "en-US": "[Gerhart]\nThank you for bringing the report. Please tell the commander to keep up the good work.",

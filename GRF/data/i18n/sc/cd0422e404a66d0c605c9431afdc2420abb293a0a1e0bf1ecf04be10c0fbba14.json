@@ -12,12 +12,12 @@
     "AgZMCA": {
         "en-US": "'Krrrr... Krrrr...'",
         "pt-BR": "'Grrrr! Grrrr...'",
-        "es-ES": "Rrrrrrr… Rrrrrrr…"
+        "es-ES": "Rrrrrrr... Rrrrrrr..."
     },
     "AwZMCA": {
         "en-US": "An ominous feeling emits from this grave.\nIt's like someone is calling something silently...",
         "pt-BR": "Tenho uma sensação estranha sobre esse túmulo. É como se alguém estivesse me chamando...",
-        "es-ES": "Esta tumba transmite una sensación ominosa.\nEs como si alguien estuviera llamando en silencio…"
+        "es-ES": "Esta tumba transmite una sensación ominosa.\nEs como si alguien estuviera llamando en silencio..."
     },
     "BAZMCA": {
         "en-US": "The gravestone is trembling.",
@@ -32,7 +32,7 @@
     "BgZMCA": {
         "en-US": "[Voice of the Gravestone]\nI have waited and waited for a brave adventurer like you who will come back here again...",
         "pt-BR": "[Voz do Túmulo]\nEsperei por muito tempo que alguém valente como você viesse aqui novamente...",
-        "es-ES": "[La voz de la lápida]\nEsperé y esperé que un valiente trotamundos como tú volviera aquí…"
+        "es-ES": "[La voz de la lápida]\nEsperé y esperé que un valiente trotamundos como tú volviera aquí..."
     },
     "BwZMCA": {
         "en-US": "Who are you?",
@@ -52,12 +52,12 @@
     "CgZMCA": {
         "en-US": "[Voice of the Gravestone]\nI was one of the warriors to stop the Baphomet like you. Now, I'm dead and only my soul remains...",
         "pt-BR": "[Voz do Túmulo]\nFui um dos guerreiros que tentou deter Bafomé, como você. Agora estou morto e somente minha alma ficou...",
-        "es-ES": "[La voz de la lápida]\nFui uno de los guerreros que detuvo a Baphomet, al igual que tú. Ahora estoy muerto y solo queda mi alma…"
+        "es-ES": "[La voz de la lápida]\nFui uno de los guerreros que detuvo a Baphomet, al igual que tú. Ahora estoy muerto y solo queda mi alma..."
     },
     "CwZMCA": {
         "en-US": "[Voice of the Gravestone]\nAs you know... We don't have enough time. You can't stop the Baphomet by yourselves. The power of the devil has strengthened during the decades.",
         "pt-BR": "[Voz do Túmulo]\nComo você sabe... Não temos muito tempo. Você não pode deter Bafomé sozinho. O poder do demônio se fortaleceu com os anos.",
-        "es-ES": "[La voz de la lápida]\nComo sabes… No tenemos tiempo suficiente. No pueden detener a Baphomet sin ayuda. El poder del demonio se fortaleció a lo largo de las décadas."
+        "es-ES": "[La voz de la lápida]\nComo sabes... No tenemos tiempo suficiente. No pueden detener a Baphomet sin ayuda. El poder del demonio se fortaleció a lo largo de las décadas."
     },
     "DAZMCA": {
         "en-US": "[Voice of the Gravestone]\nIn the past, my companions and I sealed the Baphomet at the altar located on the 2nd basement and blocked the entrance.",
@@ -72,7 +72,7 @@
     "DgZMCA": {
         "en-US": "[Voice of the Gravestone]\nBaphomet's power is about to exceed the seal that we made. If you don't reactivate them... Baphomet's revival will only be a matter of time.",
         "pt-BR": "[Voz do Túmulo]\nO poder do Bafomé está prestes a romper o selo que fizemos. Se você não recompuser o selo com poder mágico... O renascimento do Bafomé será apenas questão de tempo.",
-        "es-ES": "[La voz de la lápida]\nEl poder de Baphomet está a punto de superar el sello que hicimos. Si no lo reactivas… La resurrección de Baphomet será solo una cuestión de tiempo."
+        "es-ES": "[La voz de la lápida]\nEl poder de Baphomet está a punto de superar el sello que hicimos. Si no lo reactivas... La resurrección de Baphomet será solo una cuestión de tiempo."
     },
     "DwZMCA": {
         "en-US": "[Voice of the Gravestone]\nTo open the entrance, you must substantialize my soul. I'll open the entrance and reactivate the weakened seals after I am substantilized.",
@@ -82,7 +82,7 @@
     "EAZMCA": {
         "en-US": "[Voice of the Gravestone]\nTo substantialize my soul, you should find my pendant. You can find my body near a grave here...",
         "pt-BR": "[Voz do Túmulo]\nPara materializar minha alma, você deve encontrar meu pingente, no qual deixei a essência dela. Você pode encontrar meu corpo em um túmulo por aqui...",
-        "es-ES": "[La voz de la lápida]\nPara materializar mi alma, debes encontrar mi colgante. Puedes encontrar mi cuerpo cerca de una tumba aquí…"
+        "es-ES": "[La voz de la lápida]\nPara materializar mi alma, debes encontrar mi colgante. Puedes encontrar mi cuerpo cerca de una tumba aquí..."
     },
     "EQZMCA": {
         "en-US": "[Voice of the Gravestone]\nIf your ^0000FFparty leader^000000 brings me the pendant, my soul can be substantialized. So, hurry up.",
@@ -107,7 +107,7 @@
     "FQZMCA": {
         "en-US": "[Voice of the Gravestone]\nYes... This is... my pendant...",
         "pt-BR": "[Voz do Túmulo]\nSim... Esse é... Meu pingente...",
-        "es-ES": "[La voz de la lápida]\nSí… Este es… mi colgante…"
+        "es-ES": "[La voz de la lápida]\nSí... Este es... mi colgante..."
     },
     "FgZMCA": {
         "en-US": "[Voice of the Gravestone]\nNow I can substantialize my soul. I'll wait for you in front of the altar of fire located at the center of this grave. Let's meet there.",
@@ -142,7 +142,7 @@
     "HAZMCA": {
         "en-US": "[Soul of Ancient Hero]\nBy your help, my soul can be substantialized. I want to talk more, but we do not have enough time...",
         "pt-BR": "[Alma do Herói]\nCom sua ajuda, posso materializar minha alma, mas por um tempo muito curto. Queria falar mais, mas não temos muito tempo...",
-        "es-ES": "[Alma de antiguo héroe]\nCon tu ayuda, se podrá materializar mi alma. Quiero hablar más, pero no tenemos tiempo suficiente…"
+        "es-ES": "[Alma de antiguo héroe]\nCon tu ayuda, se podrá materializar mi alma. Quiero hablar más, pero no tenemos tiempo suficiente..."
     },
     "HQZMCA": {
         "en-US": "[Soul of Ancient Hero]\nI can be substantialized in about one hour. To reach the Main Altar underground, you must help me perform the ceremony for opening each seal.",
@@ -152,7 +152,7 @@
     "HgZMCA": {
         "en-US": "[Soul of Ancient Hero]\nNow I'll tell you what should you do. First, collect  ^0000FFEssence of Fire^000000 from the torches of the graves...",
         "pt-BR": "[Alma do Herói]\nAgora vou dizer o que você deve fazer. Primeiro, colete a essência sagrada do fogo das tochas dos túmulos subterrâneos...",
-        "es-ES": "[Alma de antiguo héroe]\nAhora te diré lo que debes hacer. Primero, recolecta ^0000FFEsencia de fuego^000000 de las antorchas de las tumbas…"
+        "es-ES": "[Alma de antiguo héroe]\nAhora te diré lo que debes hacer. Primero, recolecta ^0000FFEsencia de fuego^000000 de las antorchas de las tumbas..."
     },
     "HwZMCA": {
         "en-US": "[Soul of Ancient Hero]\nAnd second, all members who will enter the underground must carry a symbol which is called the Token of Apostle.",
@@ -182,7 +182,7 @@
     "JAZMCA": {
         "en-US": "[Soul of Ancient Hero]\nYou can see the torches here and there. These torches are the essence of Thor, the god of Thunder. They are inherited from our predecessors to stop the darkness of Baphomet...",
         "pt-BR": "[Alma do Herói]\nEstá vendo as tochas aqui e ali? Elas têm a essência de Thor, Deus do Trovão. Foram dadas aos nossos antecessores, para deter o poder maligno do Bafomé...",
-        "es-ES": "[Alma de antiguo héroe]\nPuedes ver las antorchas aquí y allá. Estas antorchas son la esencia de Thor, el dios del Trueno. Las heredamos de nuestros predecesores para detener la oscuridad de Baphomet…"
+        "es-ES": "[Alma de antiguo héroe]\nPuedes ver las antorchas aquí y allá. Estas antorchas son la esencia de Thor, el dios del Trueno. Las heredamos de nuestros predecesores para detener la oscuridad de Baphomet..."
     },
     "JQZMCA": {
         "en-US": "[Soul of Ancient Hero]\nTo open the sealed underground gate, I must be purified by the ^0000FFEssence of Fire^000000 which has the power of Thor. So collect ^0000FF10 Essence of Fire^000000 from the torches.",
@@ -192,7 +192,7 @@
     "JgZMCA": {
         "en-US": "[Soul of Ancient Hero]\nOne thing you must remember is... This ^0000FFEssence of Fire^000000 can only be collected by the Inheritor of Faith.",
         "pt-BR": "[Alma do Herói]\nMas vocês precisam se lembrar de uma coisa... Essas tochas de Thor só reconhecem o 'herdeiro da fé'. Qualquer outra pessoa viraria cinzas.",
-        "es-ES": "[Alma de antiguo héroe]\nUna cosa que debes recordar es que… esta ^0000FFEsencia de fuego^000000 solo la puede recolectar el Heredero de la fe."
+        "es-ES": "[Alma de antiguo héroe]\nUna cosa que debes recordar es que... esta ^0000FFEsencia de fuego^000000 solo la puede recolectar el Heredero de la fe."
     },
     "JwZMCA": {
         "en-US": "[Soul of Ancient Hero]\nI'll inscribe the token of the Inheritor of Faith to the party leader. Only the party leader can collect the ^0000FFEssence of Fire^000000.",
@@ -342,7 +342,7 @@
     "RAZMCA": {
         "en-US": "[Soul of Ancient Hero]\nYour real battle will begin... I'll follow you soon and find a way to help you.",
         "pt-BR": "[Alma do Herói]\nSua verdadeira batalha vai começar... Vou seguir vocês e dar um jeito de ajudar.",
-        "es-ES": "[Alma de antiguo héroe]\nTu verdadera batalla comenzará… Te seguiré pronto y encontraré la forma de ayudarte."
+        "es-ES": "[Alma de antiguo héroe]\nTu verdadera batalla comenzará... Te seguiré pronto y encontraré la forma de ayudarte."
     },
     "RQZMCA": {
         "en-US": "[Soul of Ancient Hero]\nGo ahead, warriors.",
@@ -372,7 +372,7 @@
     "SgZMCA": {
         "en-US": "[Soul of Ancient Hero]\nI have nothing to say to you...\nI will only speak to your party leader...",
         "pt-BR": "[Alma do Herói]\nNão tenho nada a dizer a você...\nSó falarei com o líder do seu grupo...",
-        "es-ES": "[Alma de antiguo héroe]\nNo tengo nada que decirte…\nSolo hablaré con el líder de tu grupo…"
+        "es-ES": "[Alma de antiguo héroe]\nNo tengo nada que decirte...\nSolo hablaré con el líder de tu grupo..."
     },
     "SwZMCA": {
         "en-US": "[Soul of Ancient Hero]\nWhere is your ^0000FFToken of Apostle^000000? I said you must carry one to pass this gate.",
@@ -392,7 +392,7 @@
     "TgZMCA": {
         "en-US": "[{0}]\nI think this is the pendant...",
         "pt-BR": "[{0}]\nAcho que esse é o pingente...",
-        "es-ES": "[{0}]\nCreo que este es el colgante…"
+        "es-ES": "[{0}]\nCreo que este es el colgante..."
     },
     "TwZMCA": {
         "en-US": "I can only feel gloom from this Gravestone.",
@@ -417,7 +417,7 @@
     "UwZMCA": {
         "en-US": "It's grand appearance and heat makes me step back... But I pluck up my courage and reach to pick up the torch.",
         "pt-BR": "A grandiosidade e o calor do fogo me fazem recuar alguns passos... Mas reúno coragem e estendo o braço para pegar a tocha.",
-        "es-ES": "Su aspecto grandioso y su calor me hacen retroceder… Pero me armo de valor y tomo la antorcha."
+        "es-ES": "Su aspecto grandioso y su calor me hacen retroceder... Pero me armo de valor y tomo la antorcha."
     },
     "VAZMCA": {
         "en-US": "The symbol of the inheritor of faith begins to shine brightly. Then a small crystal falls to my hand from the torch.",
@@ -437,7 +437,7 @@
     "VwZMCA": {
         "en-US": "A huge torch which seems it can burn everything is bobbing up and down in front of me..",
         "pt-BR": "Uma tocha enorme, que parece que pode queimar tudo, está balançando para cima e para baixo na minha frente.",
-        "es-ES": "Una enorme antorcha que parece capaz de quemarlo todo se balancea delante de mí…"
+        "es-ES": "Una enorme antorcha que parece capaz de quemarlo todo se balancea delante de mí..."
     },
     "WAZMCA": {
         "en-US": "[Unknown Voice]\nYou are not the inheritor of faith. Do not desecrate the Essence of Fire with your disrespectful hands.",
@@ -472,17 +472,17 @@
     "XgZMCA": {
         "en-US": "Soul of Ancient Hero : My body is disappearing... Hurry up.",
         "pt-BR": "Soul of Ancient Hero: Meu corpo está desaparecendo... Apresse-se.",
-        "es-ES": "Alma de héroe antiguo : Mi cuerpo está desapareciendo… Date prisa."
+        "es-ES": "Alma de héroe antiguo : Mi cuerpo está desapareciendo... Date prisa."
     },
     "XwZMCA": {
         "en-US": "Soul of Ancient Hero : Everything is over... we may not have another chance at this...",
         "pt-BR": "Soul of Ancient Hero: Tudo acabou... talvez não tenhamos outra chance...",
-        "es-ES": "Alma de héroe antiguo : Todo terminó… quizá no tengamos otra oportunidad…"
+        "es-ES": "Alma de héroe antiguo : Todo terminó... quizá no tengamos otra oportunidad..."
     },
     "YAZMCA": {
         "en-US": "Soul of Ancient Hero : We failed... But... not all hope is lost... I hope you will train yourselves until that time comes.",
         "pt-BR": "Soul of Ancient Hero : Nós falhamos... Mas... nem toda esperança está perdida... Espero que vocês treinem até que esse momento chegue.",
-        "es-ES": "Alma de héroe antiguo : Fallamos… Pero… no todo está perdido… Espero que se entrenen hasta que llegue ese momento."
+        "es-ES": "Alma de héroe antiguo : Fallamos... Pero... no todo está perdido... Espero que se entrenen hasta que llegue ese momento."
     },
     "YQZMCA": {
         "en-US": "You've failed to open the seal of the Main Altar.",

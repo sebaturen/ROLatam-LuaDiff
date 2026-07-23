@@ -12,7 +12,7 @@
     "4kGyCA": {
         "en-US": "[Dr. Magnatum]\nHmm...\n...have you gotten your hands on some cards?\n......",
         "pt-BR": "[Dr. Magnatum]\nHmm...\n...Você tem algumas Cartas aí?\n......",
-        "es-ES": "[Dr.Magnatum]\nMmm…\n¿Conseguiste algunas cartas?\n......"
+        "es-ES": "[Dr.Magnatum]\nMmm...\n¿Conseguiste algunas cartas?\n......"
     },
     "40GyCA": {
         "en-US": "[Dr. Magnatum]\nIt seems that you haven't.\nHow rude of me.",
@@ -27,7 +27,7 @@
     "5UGyCA": {
         "en-US": "There must be Cards in the first place if I want to collect some...",
         "pt-BR": "Elas são muito raras...",
-        "es-ES": "Primero, debe haber cartas si quiero recolectar algunas…"
+        "es-ES": "Primero, debe haber cartas si quiero recolectar algunas..."
     },
     "5kGyCA": {
         "en-US": "Cards? What cards?",
@@ -42,7 +42,7 @@
     "6EGyCA": {
         "en-US": "[Dr. Magnatum]\nWhile excavating the area, a massive amount of monster cards was discovered. But... they were inscribed with pictures and texts that I had never seen or heard of before.",
         "pt-BR": "[Dr. Magnatum]\nE durante meu trabalho de excavação, notei que algumas Cartas apareciam, mas... não tinham textos ou figuras.",
-        "es-ES": "[Dr.Magnatum]\nAl excavar la zona, se descubrió una enorme cantidad de cartas de monstruos. Pero… llevaban inscritos dibujos y textos que nunca había visto ni oído nombrar."
+        "es-ES": "[Dr.Magnatum]\nAl excavar la zona, se descubrió una enorme cantidad de cartas de monstruos. Pero... llevaban inscritos dibujos y textos que nunca había visto ni oído nombrar."
     },
     "6UGyCA": {
         "en-US": "[Dr. Magnatum]\nAlmost all of them have been damaged, so none of them can be used for research, safe for a handful of specimens I was able to save.",
@@ -52,12 +52,12 @@
     "6kGyCA": {
         "en-US": "[Dr. Magnatum]\nI'm no collector, so I'm not able to determine whether the cards are usable or not... But could it be? Such a marvel in the ancient city of Verus...",
         "pt-BR": "[Dr. Magnatum]\nEu nem sei se posso usá-las algum dia, já que nunca trabalhei com Cartas... De toda forma, será que isso é uma relíquia da antiga Verus...?",
-        "es-ES": "[Dr.Magnatum]\nNo soy coleccionista, así que no puedo determinar si las cartas se pueden utilizar o no… Pero, ¿podría ser? Semejante maravilla en la antigua ciudad de Verus…"
+        "es-ES": "[Dr.Magnatum]\nNo soy coleccionista, así que no puedo determinar si las cartas se pueden utilizar o no... Pero, ¿podría ser? Semejante maravilla en la antigua ciudad de Verus..."
     },
     "60GyCA": {
         "en-US": "[Dr. Magnatum]\n... it is impossible to determine the source, but the fact of the matter is that such marvelous happenings are indeed taking place. Could you please lend me a hand, Adventurer?",
         "pt-BR": "[Dr. Magnatum]\n...Não sei se há uma ligação, mas existe uma entidade desconhecida ali... Considerando essas Cartas... Viajante, você poderia me ajudar?",
-        "es-ES": "[Dr.Magnatum]\n…es imposible determinar la fuente, pero el hecho es que estos maravillosos sucesos están ocurriendo. ¿Podrías ayudarme, trotamundos?"
+        "es-ES": "[Dr.Magnatum]\n...es imposible determinar la fuente, pero el hecho es que estos maravillosos sucesos están ocurriendo. ¿Podrías ayudarme, trotamundos?"
     },
     "7EGyCA": {
         "en-US": "Cards? Leave it to me!",
@@ -82,7 +82,7 @@
     "8EGyCA": {
         "en-US": "[Dr. Magnatum]\nThank you... Ah, oh dear. I forgot to ask your name.\nI'm Magnatum. Magnatum the 3rd.\nLike many others in this place, I'm conducting archeological research.",
         "pt-BR": "[Dr. Magnatum]\nObrigado. ...Ah, não nos apresentamos.\nEu sou Magnatum III.\nTrabalho com Arqueologia.",
-        "es-ES": "[Dr.Magnatum]\nGracias… Ah, cielos. Olvidé preguntarte tu nombre.\nSoy Magnatum. Magnatum el tercero.\nComo muchas otras personas en este lugar, estoy haciendo una investigación arqueológica."
+        "es-ES": "[Dr.Magnatum]\nGracias... Ah, cielos. Olvidé preguntarte tu nombre.\nSoy Magnatum. Magnatum el tercero.\nComo muchas otras personas en este lugar, estoy haciendo una investigación arqueológica."
     },
     "8UGyCA": {
         "en-US": "[{0}]\n...{0}.",
@@ -132,7 +132,7 @@
     "+kGyCA": {
         "en-US": "[Dr. Magnatum]\nThat seems like it would be quite heavy...\nI cannot give you that many at once.",
         "pt-BR": "[Dr. Magnatum]\nEsses Tanques são pesados...\nPrefiro que você diga uma quantidade menor que 51.",
-        "es-ES": "[Dr.Magnatum]\nEso parece bastante pesado…\nNo puedo darte tantos a la vez."
+        "es-ES": "[Dr.Magnatum]\nEso parece bastante pesado...\nNo puedo darte tantos a la vez."
     },
     "+0GyCA": {
         "en-US": "[Dr. Magnatum]\nEhm, you don't have enough Golden Cards for {0} Old Fuel Tank(s).\nPlease check again.",
@@ -147,7 +147,7 @@
     "/UGyCA": {
         "en-US": "[Dr. Magnatum]\nYou don't seem to be carrying 50 cards with you...\nI'm terribly sorry, but I don't think I'll be able to trade with you. Not much research I can do with so few cards...",
         "pt-BR": "[Dr. Magnatum]\nVocê não tem 50 Cartas Douradas.\nDesculpe, não posso trabalhar com um número mais baixo de cartas.",
-        "es-ES": "[Dr.Magnatum]\nNo parece que tengas 50cartas contigo…\nLo siento mucho, pero no creo que pueda comerciar contigo. No puedo investigar mucho con tan pocas cartas…"
+        "es-ES": "[Dr.Magnatum]\nNo parece que tengas 50cartas contigo...\nLo siento mucho, pero no creo que pueda comerciar contigo. No puedo investigar mucho con tan pocas cartas..."
     },
     "/kGyCA": {
         "en-US": "[Dr. Magnatum]\nEhm? You don't seem to be very interested in cards at the moment.\nIf you ever feel the collector's hunger and feel like heading back into the King's Heel again, come find me again,{0}.",
@@ -197,7 +197,7 @@
     "B0KyCA": {
         "en-US": "[Dr. Magnatum]\nOne moment, please...\nNo, the Card Pile is down there, so that's really ...",
         "pt-BR": "[Dr. Magnatum]\nAguarde um momento...\nPreciso me concentrar na nova leva de Cartas que virá...",
-        "es-ES": "[Dr.Magnatum]\nUn momento, por favor…\nNo, la Pila de cartas está ahí abajo, así que…"
+        "es-ES": "[Dr.Magnatum]\nUn momento, por favor...\nNo, la Pila de cartas está ahí abajo, así que..."
     },
     "CEKyCA": {
         "en-US": "^FF0000An unknown error has occurred.^000000",
@@ -287,7 +287,7 @@
     "GUKyCA": {
         "en-US": "[Sue Wintergard]\nHey, don't lie...\nIn the meantime, I'll be checking if everything is working properly. Please equip yourself properly and come back for an upgrade.",
         "pt-BR": "[Sue Winterguard]\nAh... você não equipou?\nPor favor, equipe o item correto.",
-        "es-ES": "[Sue Wintergard]\nOye, no mientas…\nMientras tanto, comprobaré si todo funciona correctamente. Por favor, equípate adecuadamente y regresa para una mejora."
+        "es-ES": "[Sue Wintergard]\nOye, no mientas...\nMientras tanto, comprobaré si todo funciona correctamente. Por favor, equípate adecuadamente y regresa para una mejora."
     },
     "GkKyCA": {
         "en-US": "[Sue Wintergard]\nHey! That thing you're equipping will not do!\nIn the meantime, I'll be checking if everything is working properly. Please equip yourself properly and come back for your gear change.",
@@ -297,7 +297,7 @@
     "G0KyCA": {
         "en-US": "[Sue Wintergard]\nGreat, that's right. And the refinement level is ... {0}. Great job.",
         "pt-BR": "[Sue Winterguard]\nCerto, o refino da armadura é {0}... Bravo.",
-        "es-ES": "[Sue Wintergard]\nGenial, así es. Y el nivel de refinamiento es… {0}. Gran trabajo."
+        "es-ES": "[Sue Wintergard]\nGenial, así es. Y el nivel de refinamiento es... {0}. Gran trabajo."
     },
     "HEKyCA": {
         "en-US": "[Sue Wintergard]\nYou don't meet the upgrade requirements.\nPlease come back once you've attained refinement level 9 or higher.",
@@ -307,7 +307,7 @@
     "HUKyCA": {
         "en-US": "[Sue Wintergard]\nAll right, you gathered 300 Charleston Components...",
         "pt-BR": "[Sue Winterguard]\nCerto, você coletou os 300 Componentes de Charleston...",
-        "es-ES": "[Sue Wintergard]\nMuy bien, reuniste 300Componentes de Charleston…"
+        "es-ES": "[Sue Wintergard]\nMuy bien, reuniste 300Componentes de Charleston..."
     },
     "HkKyCA": {
         "en-US": "^FF0000All refinements and enchantments on the equipped gear will be removed^000000 and\nYou will receive an upgraded <ITEM>Strength Amplifying Armor [1]<INFO>15343</INFO></ITEM>. Are you sure you want to continue?",
@@ -322,7 +322,7 @@
     "IEKyCA": {
         "en-US": "[Sue Wintergard]\nToo bad...\nCome back to me whenever you feel like it. I will be waiting.",
         "pt-BR": "[Sue Winterguard]\nQue pena~...\nVenha quando sentir vontade.",
-        "es-ES": "[Sue Wintergard]\nQué lástima…\nVuelve a hablar conmigo cuando quieras. Estaré esperando."
+        "es-ES": "[Sue Wintergard]\nQué lástima...\nVuelve a hablar conmigo cuando quieras. Estaré esperando."
     },
     "IUKyCA": {
         "en-US": "[Sue Wintergard]\nHey, you're equipping something different now. I won't be able to upgrade this.",
@@ -407,7 +407,7 @@
     "MUKyCA": {
         "en-US": "[Ingrata A]\nThe virtuous King's Heel is a duel house comprising all dimensions.\nIf memory serves me right, I seem to have played card games with some individuals who did not have a pulse...",
         "pt-BR": "[Ingrata A]\nA instância [Aos Pés do Rei] é uma casa de duelos que abrange várias dimensões.\nAcho que já joguei cartas com outras formas de vida lá dentro...",
-        "es-ES": "[IngrataA]\nEl virtuoso A los Pies del Rey es una casa de duelos que abarca todas las dimensiones.\nSi la memoria no me falla, me parece haber jugado a las cartas con algunos individuos que no tenían pulso…"
+        "es-ES": "[IngrataA]\nEl virtuoso A los Pies del Rey es una casa de duelos que abarca todas las dimensiones.\nSi la memoria no me falla, me parece haber jugado a las cartas con algunos individuos que no tenían pulso..."
     },
     "MkKyCA": {
         "en-US": "[Ingrata A]\nNothing is left aside from my memories, scattered into tiny, molecular pieces.\nWhen I came to my senses, I found myself here.",
@@ -417,12 +417,12 @@
     "M0KyCA": {
         "en-US": "[Ingrata A]\nOnce my body reassembled itself, was I reconstructed into the same person I was before?\nI cannot even recall my own name, though the Ingrata Code remains. Thus, my voracious desire for cards remains unchanged...",
         "pt-BR": "[Ingrata A]\nSerá que eu ainda continuo o mesmo ser do passado?\nNão lembro nem o código Ingrata, mas sei que tenho um desejo imenso por cartas...",
-        "es-ES": "[IngrataA]\nUna vez que mi cuerpo se recompuso, ¿volví a ser la misma persona que era antes?\nNi siquiera puedo recordar mi propio nombre, aunque el Código Ingrata permanece. Por lo tanto, mi voraz deseo por las cartas permanece inalterado…"
+        "es-ES": "[IngrataA]\nUna vez que mi cuerpo se recompuso, ¿volví a ser la misma persona que era antes?\nNi siquiera puedo recordar mi propio nombre, aunque el Código Ingrata permanece. Por lo tanto, mi voraz deseo por las cartas permanece inalterado..."
     },
     "NEKyCA": {
         "en-US": "[Ingrata A]\nIf you ever want to return to that place, you must first get make space in your inventory and collect high-level cards...\n...",
         "pt-BR": "[Ingrata A]\nSe entrar lá, lembre-se de coletar todas as cartas douradas...\n...",
-        "es-ES": "[IngrataA]\nSi alguna vez quieres regresar a ese lugar, primero debes hacer espacio en tu inventario y recolectar cartas de alto nivel…\n…"
+        "es-ES": "[IngrataA]\nSi alguna vez quieres regresar a ese lugar, primero debes hacer espacio en tu inventario y recolectar cartas de alto nivel...\n..."
     },
     "NUKyCA": {
         "en-US": "[Ingrata A]\nI talk too much.\nI just wanted to gripe.",
@@ -462,7 +462,7 @@
     "PEKyCA": {
         "en-US": "[Ingrata A]\nThank you. With this, those higher level cards...",
         "pt-BR": "[Ingrata A]\nAqui está seu produto, obrigada...",
-        "es-ES": "[IngrataA]\nGracias. Con esto, esas cartas de nivel superior…"
+        "es-ES": "[IngrataA]\nGracias. Con esto, esas cartas de nivel superior..."
     },
     "PUKyCA": {
         "en-US": "[Ingrata A]\nFormidable merchandise such as this begs a worthy price. Check your funds, please.",
@@ -487,7 +487,7 @@
     "QUKyCA": {
         "en-US": "[Ingrata A]\nI don't remember too well... but according to my remaining information, that's a recommended item.",
         "pt-BR": "[Ingrata A]\nPreste atenção na lista dos materiais necessários para atualizar o Bate-Estacas.",
-        "es-ES": "[IngrataA]\nNo recuerdo muy bien… pero según la información que me queda, es un objeto recomendado."
+        "es-ES": "[IngrataA]\nNo recuerdo muy bien... pero según la información que me queda, es un objeto recomendado."
     },
     "QkKyCA": {
         "en-US": "[Ingrata A]\nFor the Pile Bunker Upgrade, \nfirst you'll need ^FF00001 Pile Bunker,^000000\nthen ^FF0000300 Deformed Iron Plates^000000\nand ^FF000015 Faulty Engines^000000.",
@@ -567,7 +567,7 @@
     "UUKyCA": {
         "en-US": "[Ingrata M]\nThough I have no idea where or how to find them...",
         "pt-BR": "[Ingrata M]\nEmbora eu não faça ideia de como conseguir esses itens...",
-        "es-ES": "[IngrataM]\nAunque no tengo ni idea de dónde o cómo encontrarlos…"
+        "es-ES": "[IngrataM]\nAunque no tengo ni idea de dónde o cómo encontrarlos..."
     },
     "UkKyCA": {
         "en-US": "[Ingrata M]\nIf you bring me Charleston Components, I will give you something useful for them.",
@@ -577,12 +577,12 @@
     "U0KyCA": {
         "en-US": "[Ingrata M]\nI'm not quite sure what I'm doing here, but it seems like I need to head back, wherever 'back' is.\nTo do this I'll need a lot of... parts.\nParts from the big thing I have long coveted...",
         "pt-BR": "[Ingrata M]\nNão sei o que estou fazendo aqui, mas sinto que preciso voltar para algum lugar.\nPara fazer isso, vou precisar de alguns Componentes de Charleston.\nIsso faz parte de algo maior e que preciso...",
-        "es-ES": "[IngrataM]\nNo sé muy bien qué hago aquí, pero parece que tengo que regresar, aunque no sé muy bien adónde.\nPara ello necesitaré muchas… piezas.\nPiezas de la gran cosa que he codiciado durante mucho tiempo…"
+        "es-ES": "[IngrataM]\nNo sé muy bien qué hago aquí, pero parece que tengo que regresar, aunque no sé muy bien adónde.\nPara ello necesitaré muchas... piezas.\nPiezas de la gran cosa que he codiciado durante mucho tiempo..."
     },
     "VEKyCA": {
         "en-US": "[Ingrata M]\nThis... is a Charleston Component.\nI have some things worth exchanging. Are you interested?",
         "pt-BR": "[Ingrata M]\nVocê está com um... Componente de Charleston.\nTem interesse em trocá-los comigo?",
-        "es-ES": "[IngrataM]\nEsto… es un componente de Charleston.\nTengo algunas cosas que vale la pena intercambiar. ¿Te interesa?"
+        "es-ES": "[IngrataM]\nEsto... es un componente de Charleston.\nTengo algunas cosas que vale la pena intercambiar. ¿Te interesa?"
     },
     "VUKyCA": {
         "en-US": "Exchange Upgrade Part",
@@ -702,7 +702,7 @@
     "bEKyCA": {
         "en-US": "[Ingrata M]\nI will exchange <ITEM>Charleston Upgrade Part (Melee)<INFO>23706</INFO></ITEM> for ^0000FF15 Charleston Components^000000.\nIf you use this... you can upgrade several weapons.",
         "pt-BR": "[Ingrata M]\nMe dê ^0000FF15Componentes de Charleston^000000 para ter um <ITEM>[Componente Corporal]<INFO>23706</INFO></ITEM>.\nEsse combinador dá poderes corpo a corpo para suas armas.",
-        "es-ES": "[IngrataM]\nIntercambiaré la <ITEM>Pieza de mejora de Charleston (cuerpo a cuerpo)<INFO>23706</INFO></ITEM> por ^0000FF15Componentes de Charleston^000000.\nSi usas esto… puedes mejorar varias armas."
+        "es-ES": "[IngrataM]\nIntercambiaré la <ITEM>Pieza de mejora de Charleston (cuerpo a cuerpo)<INFO>23706</INFO></ITEM> por ^0000FF15Componentes de Charleston^000000.\nSi usas esto... puedes mejorar varias armas."
     },
     "bUKyCA": {
         "en-US": "[Ingrata M]",
@@ -722,7 +722,7 @@
     "cEKyCA": {
         "en-US": "[Ingrata M]\nI will exchange <ITEM>Charleston Upgrade Part (Range)<INFO>23707</INFO></ITEM> for ^0000FF15 Charleston Components^000000.\nIf you use this... you can upgrade several weapons.",
         "pt-BR": "[Ingrata M]\nMe dê ^0000FF15Componentes de Charleston^000000 para ter um <ITEM>[Componente Certeiro]<INFO>23707</INFO></ITEM>.\nEsse combinador dá poderes físicos à distância para suas armas.",
-        "es-ES": "[IngrataM]\nIntercambiaré la <ITEM>Pieza de mejora de Charleston (alcance)<INFO>23707</INFO></ITEM> por ^0000FF15Componentes de Charleston^000000.\nSi usas esto… puedes mejorar varias armas."
+        "es-ES": "[IngrataM]\nIntercambiaré la <ITEM>Pieza de mejora de Charleston (alcance)<INFO>23707</INFO></ITEM> por ^0000FF15Componentes de Charleston^000000.\nSi usas esto... puedes mejorar varias armas."
     },
     "cUKyCA": {
         "en-US": "I exchanged 15 Charleston Components for ^0000FFCharleston Upgrade Part (Range)^000000.\nIf you happen to find more parts, don't be a stranger.",
@@ -732,7 +732,7 @@
     "ckKyCA": {
         "en-US": "[Ingrata M]\nThat's too bad.\nIf the memories you had before you were atomized are still intact, you should be able to remember what you wanted...",
         "pt-BR": "[Ingrata M]\nQue pena.\nVocê deveria conseguir se lembrar do que queria...",
-        "es-ES": "[IngrataM]\nQué pena.\nSi los recuerdos que tenías antes de la atomización siguen intactos, deberías poder recordar lo que querías…"
+        "es-ES": "[IngrataM]\nQué pena.\nSi los recuerdos que tenías antes de la atomización siguen intactos, deberías poder recordar lo que querías..."
     },
     "c0KyCA": {
         "en-US": "Party name: {0}\nParty leader: {1}\n^0000FF{2}^000000 - Reservation failure",

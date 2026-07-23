@@ -7,12 +7,12 @@
     "Qcfe": {
         "en-US": "[Kazien]\nJust...\nLeave me alone.\nI feel nothing but\nguilt when I see you.",
         "pt-BR": "[Kazien]\nApenas...\nMe deixe em paz.\nNão sinto nada além de\nculpa quando vejo você.",
-        "es-ES": "[Kazien]\nSolo…\nDéjame en paz.\nNo puedo quitarme la culpa\ncada vez que te veo."
+        "es-ES": "[Kazien]\nSolo...\nDéjame en paz.\nNo puedo quitarme la culpa\ncada vez que te veo."
     },
     "Qsfe": {
         "en-US": "[Kazien]\nDon't take it the wrong\nway. I mean, it's not like\nyou did anything wrong. I'm\nthe one who's... Geez. I wish\nI could live the way you do.^FFFFFF      ^000000 Someday I'll be strong enough...",
         "pt-BR": "[Kazien]\nNão leve isso\na mal. Quero dizer, não é como se\nvocê tivesse feito algo errado. Eu sou\naquele que está... Vixe.\nEu gostaria de poder viver como você.^FFFFFF ^000000 Um dia serei forte o suficiente...",
-        "es-ES": "[Kazien]\nNo te lo tomes a\nmal. Digo, no es que hayas\nhecho nada malo. Soy\nyo el que… Cielos. Quisiera\npoder vivir como tú.^FFFFFF ^000000 Algún día seré lo suficientemente fuerte…"
+        "es-ES": "[Kazien]\nNo te lo tomes a\nmal. Digo, no es que hayas\nhecho nada malo. Soy\nyo el que... Cielos. Quisiera\npoder vivir como tú.^FFFFFF ^000000 Algún día seré lo suficientemente fuerte..."
     },
     "Q8fe": {
         "en-US": "[Kazien]\nHey, you're back. As usual,\nyou've done a good job. You\nlook exhausted: did you run\ninto those thugs again?\nWhy don't you take a rest?",
@@ -22,7 +22,7 @@
     "RMfe": {
         "en-US": "[{0}]\nKazien...\nWhile I was fighting\nthose thugs, one of the\npackages was accidentally\nopened, and I saw what was\ninside of those packages.",
         "pt-BR": "[{0}]\nKazien...\nEnquanto eu estava lutando\ncontra aqueles bandidos, um dos\npacotes acabou abrindo\nsem querer, e eu vi o que havia\ndentro deles.",
-        "es-ES": "[{0}]\nKazien…\nMientras peleaba\ncon los matones, uno de los\npaquetes se abrió por\naccidente y pude ver\nlo que tienen adentro."
+        "es-ES": "[{0}]\nKazien...\nMientras peleaba\ncon los matones, uno de los\npaquetes se abrió por\naccidente y pude ver\nlo que tienen adentro."
     },
     "Rcfe": {
         "en-US": "[Kazien]\n......\n.........\n............",
@@ -32,7 +32,7 @@
     "Rsfe": {
         "en-US": "[{0}]\nWh-why are you supplying\nthose things? If we let those\npackages get imported by\nother countries, it can\ncause a lot of trouble...!",
         "pt-BR": "[{0}]\nP-Por que está fornecendo\nessas coisas? Se permitirmos que esses\npacotes sejam importados por\noutros países, isso pode\ncausar muitos problemas...!",
-        "es-ES": "[{0}]\n¿P-por qué estás transportando\nesas cosas? Si dejamos que esos paquetes\nse importen a otros países,\n¡pueden causar\nmuchos problemas…!"
+        "es-ES": "[{0}]\n¿P-por qué estás transportando\nesas cosas? Si dejamos que esos paquetes\nse importen a otros países,\n¡pueden causar\nmuchos problemas...!"
     },
     "R8fe": {
         "en-US": "[Kazien]\nStop. Please.\nJ-just stop it.\nI don't want to\nhear anymore.",
@@ -67,7 +67,7 @@
     "Tcfe": {
         "en-US": "[Kazien]\nNow, my brother Lyozien is\na gentle soul, has nothing\nbut love for everybody. So, of\ncourse I can't tell him what\nI'm really doing--he'd never\nagree to it, believe me.",
         "pt-BR": "[Kazien]\nOlha, o meu irmão Lyozien é\num bom sujeito, só tem\namor no coração. Então, é claro\nque não posso contar a ele o que\nestou realmente fazendo. Ele nunca\nconcordaria com isso, acredite.",
-        "es-ES": "[Kazien]\nPero mi hermano Lyozien es\nun alma gentil, no tiene nada\nmás que amor para todos. Así que, por supuesto,\nno puedo decirle cuál es\nmi verdadero trabajo… Créeme\nque él nunca estaría de acuerdo."
+        "es-ES": "[Kazien]\nPero mi hermano Lyozien es\nun alma gentil, no tiene nada\nmás que amor para todos. Así que, por supuesto,\nno puedo decirle cuál es\nmi verdadero trabajo... Créeme\nque él nunca estaría de acuerdo."
     },
     "Tsfe": {
         "en-US": "[Kazien]\nI hate this job and what\nI'm doing and I want to quit.\nBut then what? Go back to the\nslums? Forget it. As long as\nLyozien is happy, I don't mind if I have to do the devil's work.",
@@ -82,7 +82,7 @@
     "UMfe": {
         "en-US": "[{0}]\nBut that still isn't right.\nYou're selling weapons so\nthat people can kill each other! Even if it's for the sake of\nproviding for your family...",
         "pt-BR": "[{0}]\nMas isso ainda não está certo.\nVocê está vendendo armas para\nque as pessoas possam se matar! Mesmo que seja para\nsustentar sua família...",
-        "es-ES": "[{0}]\nPero eso no lo justifica.\n¡Estás vendiendo armas para que\nlas personas se maten las unas a las otras! Aunque sea para\nmantener a tu familia…"
+        "es-ES": "[{0}]\nPero eso no lo justifica.\n¡Estás vendiendo armas para que\nlas personas se maten las unas a las otras! Aunque sea para\nmantener a tu familia..."
     },
     "Ucfe": {
         "en-US": "[Kazien]\nLook man, this is what\nI decided. I don't care\nwhat other people'll think.\nI might go to hell when\nI die, but that's my problem.",
@@ -92,17 +92,17 @@
     "Usfe": {
         "en-US": "[Kazien]\nBesides, you adventurers\nare always running around\nwith your swords and magic spells... Isn't that just as bad?\nIt's not the weapons or the power that's bad: it's how they're used.",
         "pt-BR": "[Kazien]\nAlém disso, vocês, aventureiros,\nestão sempre correndo por aí\ncom suas espadas e feitiços mágicos... Isso também não é ruim?\nNão são as armas ou o poder que são ruins, é como eles são usados.",
-        "es-ES": "[Kazien]\nAdemás, los trotamundos\nsiempre andan por ahí \ncon sus espadas y hechizos mágicos… ¿Y eso no es igual de malo?\nLo malo no son las armas ni el poder, sino cómo se usan."
+        "es-ES": "[Kazien]\nAdemás, los trotamundos\nsiempre andan por ahí \ncon sus espadas y hechizos mágicos... ¿Y eso no es igual de malo?\nLo malo no son las armas ni el poder, sino cómo se usan."
     },
     "U8fe": {
         "en-US": "[Kazien]\nGranted, most of my clients\nare pretty questionable, and\nyou adventurers usually use\nyour powers for good, but...\nDamn it! Just... Don't come\nback. I can't work like this...",
         "pt-BR": "[Kazien]\nÉ verdade que a maioria de meus clientes\nsão bastante questionáveis, e\nvocês, aventureiros, geralmente usam\nseus poderes para o bem, mas...\nDroga! Apenas... Não\nvolte. Não posso trabalhar assim...",
-        "es-ES": "[Kazien]\nEs cierto que la mayoría de mis clientes\nes gente bastante cuestionable y\nlos trotamundos en general usan\nsus poderes para el bien, pero…\n¡Maldita sea! Solo… Ya no\nregreses. No puedo trabajar así…"
+        "es-ES": "[Kazien]\nEs cierto que la mayoría de mis clientes\nes gente bastante cuestionable y\nlos trotamundos en general usan\nsus poderes para el bien, pero...\n¡Maldita sea! Solo... Ya no\nregreses. No puedo trabajar así..."
     },
     "VMfe": {
         "en-US": "[Kazien]\nLook, I can't have\nyou working with me\nand Lyozien anymore.\nSorry, but it's for Lyozien's\nown good. That, and you\nmake me feel guilty...",
         "pt-BR": "[Kazien]\nOlha, não posso ter\nvocê trabalhando comigo\ne com o Lyozien.\nDesculpa, mas é para o bem do Lyozien.\nIsso, e porque você\nme faz me sentir culpado...",
-        "es-ES": "[Kazien]\nEscucha, ya no puedo\ntenerte trabajando\nconmigo y Lyozien.\nLo siento, pero es por el bien\nde mi hermano. Eso, y además\nme haces sentir culpable…"
+        "es-ES": "[Kazien]\nEscucha, ya no puedo\ntenerte trabajando\nconmigo y Lyozien.\nLo siento, pero es por el bien\nde mi hermano. Eso, y además\nme haces sentir culpable..."
     },
     "Vcfe": {
         "en-US": "[Kazien]\nHey now, you better\nget a move on. You gotta\nassist another delivery to\nthe Rune-Midgard Kingdom.",
@@ -132,7 +132,7 @@
     "Wsfe": {
         "en-US": "[Kazien]\nLook... You're better\noff not knowing. Or are\nyou asking me to pay you\nmore for this job since\nyou're risking your life?",
         "pt-BR": "[Kazien]\nOlha... É melhor você\nnão saber. Ou será que\nestá me pedindo para te pagar\nmais por esse trabalho, já\nque está arriscando sua vida?",
-        "es-ES": "[Kazien]\nMira… Es mejor\nque no lo sepas. ¿O buscas\nque te pague más por el trabajo\nya que corre riesgo tu vida?"
+        "es-ES": "[Kazien]\nMira... Es mejor\nque no lo sepas. ¿O buscas\nque te pague más por el trabajo\nya que corre riesgo tu vida?"
     },
     "W8fe": {
         "en-US": "[{0}]\nI understand that the\ncustomer's confidentiality\nis important, but I'd feel a\nlot better if I knew what was\nin those packages, and why me\nand Lyozien are being attacked.",
@@ -142,7 +142,7 @@
     "XMfe": {
         "en-US": "[Kazien]\nListen, I'm not obligated--\nI can't tell you. Heck, I can't\neven tell my own brother what's\nin those packages. You can see\nthat, can't you? Anyway, you\ncan handle those thugs, right?",
         "pt-BR": "[Kazien]\nOlha, eu não sou obrigado...\nNão posso te contar. Caramba, eu não posso\ndizer ao meu próprio irmão o que tem\nnaqueles pacotes. Você consegue entender\nisso, não é? De qualquer forma, você\npode lidar com esses bandidos, certo?",
-        "es-ES": "[Kazien]\nEscucha, no tengo la obligación…\nNo puedo decírtelo. Diablos, no puedo decirle\nni a mi propio hermano lo que hay\nen esos paquetes. Me comprendes,\n¿verdad? En fin,\npuedes encargarte de esos matones, ¿no?"
+        "es-ES": "[Kazien]\nEscucha, no tengo la obligación...\nNo puedo decírtelo. Diablos, no puedo decirle\nni a mi propio hermano lo que hay\nen esos paquetes. Me comprendes,\n¿verdad? En fin,\npuedes encargarte de esos matones, ¿no?"
     },
     "Xcfe": {
         "en-US": "[Kazien]\nRight. Now get back to\nthe Airship and talk to\nLyozien again. Don't give\nhim any trouble and make\nsure you protect him.",
@@ -167,27 +167,27 @@
     "Ycfe": {
         "en-US": "[Kazien]\nWhoa, he told you that?\nI guess he feels that he\ncan trust you enough with\nthat kind of personal talk...\nYeah, he's my little brother.\nAnd a better man than me...",
         "pt-BR": "[Kazien]\nEita, ele te disse isso?\nAcho que ele sente que\npode confiar em você para\nesse tipo de conversa pessoal...\nSim, ele é meu irmão mais novo.\nE um homem melhor do que eu...",
-        "es-ES": "[Kazien]\nVaya, ¿te lo contó?\nSupongo que confía en ti\nlo suficiente como para tener\nese tipo de charlas personales…\nSí, es mi hermano menor.\nY también es una mejor persona que yo…"
+        "es-ES": "[Kazien]\nVaya, ¿te lo contó?\nSupongo que confía en ti\nlo suficiente como para tener\nese tipo de charlas personales...\nSí, es mi hermano menor.\nY también es una mejor persona que yo..."
     },
     "Ysfe": {
         "en-US": "[Kazien]\nI've gotten my hands\npretty dirty doing this...\nOh, forget it. You came\nhere for a job, right?\nLuckily, I got another\ndelivery for you to work on...",
         "pt-BR": "[Kazien]\nEu sujei minhas mãos\nfazendo isso...\nAh, esquece. Você veio \naqui em busca de trabalho, certo?\nPor sorte, tenho outra\nentrega para você fazer...",
-        "es-ES": "[Kazien]\nMe ensucié bastante\nlas manos con este negocio…\nOlvídalo. Vienes \na buscar trabajo, ¿verdad?\nPor suerte, tengo otra\nentrega para encargarte…"
+        "es-ES": "[Kazien]\nMe ensucié bastante\nlas manos con este negocio...\nOlvídalo. Vienes \na buscar trabajo, ¿verdad?\nPor suerte, tengo otra\nentrega para encargarte..."
     },
     "Y8fe": {
         "en-US": "[{0}]\nActually, Kazien...\nI was curious. What\nexactly are we delivering?\nI mean, not even Lyozien\nknows exactly what\nis in those packages.",
         "pt-BR": "[{0}]\nNa verdade, Kazien...\nQuero saber uma coisa. O que\nexatamente vamos entregar?\nQuero dizer, nem mesmo Lyozien\nsabe o que\ntem nesses pacotes.",
-        "es-ES": "[{0}]\nLa verdad, Kazien…\nme da curiosidad. ¿Qué \nestamos entregando exactamente?\nNi siquiera Lyozien\nsabe lo que tienen dentro\nesos paquetes."
+        "es-ES": "[{0}]\nLa verdad, Kazien...\nme da curiosidad. ¿Qué \nestamos entregando exactamente?\nNi siquiera Lyozien\nsabe lo que tienen dentro\nesos paquetes."
     },
     "ZMfe": {
         "en-US": "[Kazien]\nHuh... Does that mean\nyou can't work with us if\nyou don't know exactly what\nyou're doing?",
         "pt-BR": "[Kazien]\nHunf... Isso significa\nque você não pode trabalhar conosco se\nnão souber exatamente o que\nestá fazendo?",
-        "es-ES": "[Kazien]\nMmm… ¿Quieres decir\nque no puedes trabajar con nosotros\nsi no sabes exactamente lo que\nestás haciendo?"
+        "es-ES": "[Kazien]\nMmm... ¿Quieres decir\nque no puedes trabajar con nosotros\nsi no sabes exactamente lo que\nestás haciendo?"
     },
     "Zcfe": {
         "en-US": "[Kazien]\nCome on, I told\nyou before--absolute secrecy.\nIt goes both ways, you know.",
         "pt-BR": "[Kazien]\nOra, eu já disse:\nsegredo absoluto.\nIsso vale para os dois lados, você sabe.",
-        "es-ES": "[Kazien]\nVamos, ya te lo dije\nantes… es totalmente confidencial.\nY va en ambos sentidos, ya lo sabes."
+        "es-ES": "[Kazien]\nVamos, ya te lo dije\nantes... es totalmente confidencial.\nY va en ambos sentidos, ya lo sabes."
     },
     "Zsfe": {
         "en-US": "[Kazien]\nLook, for your own good,\nquit asking. Knowing what\nyou're delivering wouldn't\nchange a thing. Trust me.",
@@ -227,7 +227,7 @@
     "bcfe": {
         "en-US": "[Kazien]\nDon't forget...\nTalk to ^FF0000Lyozien^000000, our\ncourier, on the Airship\nfor the international flights.",
         "pt-BR": "[Kazien]\nNão se esqueça...\nFale com ^FF0000Lyozien^000000, nosso\nmensageiro, no dirigível\nde voos internacionais.",
-        "es-ES": "[Kazien]\nNo lo olvides…\nHabla con ^FF0000Lyozien^000000, nuestro\nmensajero, en la aeronave\nde vuelos internacionales."
+        "es-ES": "[Kazien]\nNo lo olvides...\nHabla con ^FF0000Lyozien^000000, nuestro\nmensajero, en la aeronave\nde vuelos internacionales."
     },
     "bsfe": {
         "en-US": "[Kazien]\nOh, hey, it's you again.\nWait. No. You only remind\nme of someone I've met. Um,\nhave we met before? I don't\nremember at all. Oooh, I hate\nbeing this busy, I can't focus!",
@@ -252,7 +252,7 @@
     "csfe": {
         "en-US": "[Kazien]\nLook, you're not a bad guy,\nso I'm sure you'd be perfect\nfor some other employer.\nDon't feel bad... Um, what\nwas your name again? Wait,\ndid you even give it to me...?",
         "pt-BR": "[Kazien]\nOlha, você não é um sujeito mau,\nentão tenho certeza de que seria perfeito\npara algum outro empregador.\nNão se sinta mal... Hum, como é\nseu nome mesmo? Espera,\nvocê ao menos me disse seu nome...?",
-        "es-ES": "[Kazien]\nMira, no eres mala persona,\nasí que estoy seguro de que te iría\nexcelente con otro empleador.\nNo te sientas mal… Mmm, ¿me\nrepites tu nombre? Espera,\n¿ya me lo habías dicho…?"
+        "es-ES": "[Kazien]\nMira, no eres mala persona,\nasí que estoy seguro de que te iría\nexcelente con otro empleador.\nNo te sientas mal... Mmm, ¿me\nrepites tu nombre? Espera,\n¿ya me lo habías dicho...?"
     },
     "c8fe": {
         "en-US": "[Kazien]\nSo, were you able to\ncontact Garins? Or did\nyou encounter any problems?",
@@ -272,17 +272,17 @@
     "dsfe": {
         "en-US": "[{0}]\nBut...\nI thought you said\nI'm not supposed to\ntell anyone the details\nof my assignment?",
         "pt-BR": "[{0}]\nMas...\nAchei que você tinha dito\nque eu não deveria\ncontar a ninguém os detalhes\nda minha tarefa?",
-        "es-ES": "[{0}]\nPero…\nPensé que habías dicho\nque no debo\ncontarle a nadie los detalles\nde la misión."
+        "es-ES": "[{0}]\nPero...\nPensé que habías dicho\nque no debo\ncontarle a nadie los detalles\nde la misión."
     },
     "d8fe": {
         "en-US": "[Kazien]\nHeh... Yeah.\nYeah, that's right.\nHeh heh heh! Hahahaha!\nGreat! I'm happy to say,\nbuddy, you passed the test!",
         "pt-BR": "[Kazien]\nHehe... Sim.\nSim, é isso mesmo.\nHehehehe! Hahahaha!\nÓtimo! Tenho o prazer de dizer,\ncamarada, você passou no teste!",
-        "es-ES": "[Kazien]\nJe… Sí.\nSí, así es.\nJe, je, je. ¡Ja, ja, ja, ja!\n¡Genial! Me alegra decirte,\ncamarada, que pasaste la prueba."
+        "es-ES": "[Kazien]\nJe... Sí.\nSí, así es.\nJe, je, je. ¡Ja, ja, ja, ja!\n¡Genial! Me alegra decirte,\ncamarada, que pasaste la prueba."
     },
     "eMfe": {
         "en-US": "[{0}]\nH-huh? But I never\neven got to see Garins...\nI didn't finish the task\nthat you assigned to me.",
         "pt-BR": "[{0}]\nH-Hã? Mas eu\nnem cheguei a ver o Garins...\nEu não terminei a tarefa\nque você me passou.",
-        "es-ES": "[{0}]\n¿Cómo? Pero ni siquiera\nllegué a ver a Garins…\nNo cumplí la tarea\nque me asignaste."
+        "es-ES": "[{0}]\n¿Cómo? Pero ni siquiera\nllegué a ver a Garins...\nNo cumplí la tarea\nque me asignaste."
     },
     "ecfe": {
         "en-US": "[Kazien]\nGarins is just some\ncool name I made up.\nHe doesn't really exist.\nI just wanted to test your\ntrustworthiness, is all.\nNow do you understand?",
@@ -292,12 +292,12 @@
     "esfe": {
         "en-US": "[{0}]\nI... I guess.\nStill, you just tricked\nme! How am I supposed\nto trust you now?",
         "pt-BR": "[{0}]\nEu... Acho que sim.\nMesmo assim, você acabou de me enganar!\nComo posso\nconfiar em você agora?",
-        "es-ES": "[{0}]\nYo… supongo.\nAun así, ¡me\nengañaste! ¿Cómo podría\nconfiar en ti ahora?"
+        "es-ES": "[{0}]\nYo... supongo.\nAun así, ¡me\nengañaste! ¿Cómo podría\nconfiar en ti ahora?"
     },
     "e8fe": {
         "en-US": "[Kazien]\nOh... You...\nYou got a point, there.\nHuh, now isn't that ironic? I'm sorry, pal, let me apologize.\nTake some time, consider working for me, and then come back, okay?",
         "pt-BR": "[Kazien]\nAh... Você...\nVocê tem razão.\nHunf, isso não é irônico? Foi mal, colega, me deixa pedir desculpas.\nTire um tempo para pensar em trabalhar para mim e depois volte, beleza?",
-        "es-ES": "[Kazien]\nAh… Tú…\nTienes razón.\nMmm, ¿no es irónico? Lo siento, camarada, acepta mis disculpas.\nTómate un tiempo, piensa si quieres trabajar para mí y luego vuelve, ¿está bien?"
+        "es-ES": "[Kazien]\nAh... Tú...\nTienes razón.\nMmm, ¿no es irónico? Lo siento, camarada, acepta mis disculpas.\nTómate un tiempo, piensa si quieres trabajar para mí y luego vuelve, ¿está bien?"
     },
     "fMfe": {
         "en-US": "[{0}]\nWell, I wasn't able to\nfind him. In fact, I don't\nthink that Garins even works\nat the Einbroch Laboratory.",
@@ -317,7 +317,7 @@
     "f8fe": {
         "en-US": "[Kazien]\nUh oh...\nI thought so.\nI'm sorry, pal, but\nyou failed the test.",
         "pt-BR": "[Kazien]\nUh, oh...\nFoi o que pensei.\nFoi mal, colega, mas\nvocê não passou no teste.",
-        "es-ES": "[Kazien]\nAy, no…\nMe lo imaginaba.\nLo siento, camarada, pero\nfallaste la prueba."
+        "es-ES": "[Kazien]\nAy, no...\nMe lo imaginaba.\nLo siento, camarada, pero\nfallaste la prueba."
     },
     "gMfe": {
         "en-US": "[{0}]\nH-huh? What?\nWhat do you mean?",
@@ -327,12 +327,12 @@
     "gcfe": {
         "en-US": "[Kazien]\nYou told that to the guard,\nbut you weren't supposed\nto let anyone know any detail\nabout your assignment. Yeah...\nGarins is just a name I made\nup. He doesn't really exist.",
         "pt-BR": "[Kazien]\nVocê disse isso ao guarda,\nmas não era para você\ndeixar ninguém saber os detalhes\nde sua missão. Sim...\nGarins é apenas um nome que\ninventei. Ele não existe de verdade.",
-        "es-ES": "[Kazien]\nLe dijiste eso al guardia,\npero se suponía\nque no debías hablar con nadie sobre\nlos detalles de la misión. Sí…\nGarins solo es un nombre que\ninventé. En realidad no existe."
+        "es-ES": "[Kazien]\nLe dijiste eso al guardia,\npero se suponía\nque no debías hablar con nadie sobre\nlos detalles de la misión. Sí...\nGarins solo es un nombre que\ninventé. En realidad no existe."
     },
     "gsfe": {
         "en-US": "[Kazien]\nI know you meant well,\nyou know, doing whatever\nyou can to finish whatever\ngoal you have, but you can't\nforget the details. Anyway,\nsorry, but we can't use you...",
         "pt-BR": "[Kazien]\nSei que sua intenção era boa,\ne estava fazendo o que\ntinha que fazer para cumprir\nseus objetivos, mas você não pode\nesquecer os detalhes. Enfim,\ndesculpa, mas não podemos trabalhar com você...",
-        "es-ES": "[Kazien]\nSé que tu intención era buena y solo \nquerías hacer lo que sea \npara lograr tu objetivo, \npero no puedes\ndejar de lado los detalles. En fin,\nlo siento, pero no puedo contratarte…"
+        "es-ES": "[Kazien]\nSé que tu intención era buena y solo \nquerías hacer lo que sea \npara lograr tu objetivo, \npero no puedes\ndejar de lado los detalles. En fin,\nlo siento, pero no puedo contratarte..."
     },
     "g8fe": {
         "en-US": "[Kazien]\nRemember, visit ^FF0000Garins^000000\nin the ^FF0000Einbroch Laboratory^000000\nand ^FF0000confirm that he received\nhis order^000000. We pride ourselves\nin our clients' confidentiality,^FFFFFF  ^000000 so keep it secret, got it?",
@@ -377,12 +377,12 @@
     "i8fe": {
         "en-US": "[{0}]\nWait, did you just say\nthat you need help?\nI'd like to help solve\nyour problem, er, for\na nominal fee or some\nkind of reward. You know...",
         "pt-BR": "[{0}]\nEspera, você acabou de dizer\nque precisa de ajuda?\nEu gostaria de ajudar a resolver\nseu problema, hã, por\num valor simbólico ou algum\ntipo de recompensa. Você sabe...",
-        "es-ES": "[{0}]\nEspera, ¿acabas de decir\nque necesitas ayuda?\nMe gustaría ayudarte a resolver\ntu problema, em, por\nuna pequeña tarifa o algún\ntipo de recompensa. ¿Crees que…?"
+        "es-ES": "[{0}]\nEspera, ¿acabas de decir\nque necesitas ayuda?\nMe gustaría ayudarte a resolver\ntu problema, em, por\nuna pequeña tarifa o algún\ntipo de recompensa. ¿Crees que...?"
     },
     "jMfe": {
         "en-US": "[Kazien]\nHey, alright~\nI could use an extra\nhand if you're willing\nto work part time. Plus,\nyou're a straight shooter.\nI like that. Let's see now...",
         "pt-BR": "[Kazien]\nEi, tudo bem~\nUma ajudinha extra cairia bem, se você topar um trabalho de meio período. E você fala na lata, gosto disso. Certo, vejamos...",
-        "es-ES": "[Kazien]\nAh, está bien.\nMe vendrían bien unas manos\nextra si te interesa\ntrabajar a tiempo parcial. Además,\nvas directo al grano.\nMe gusta eso. Veamos…"
+        "es-ES": "[Kazien]\nAh, está bien.\nMe vendrían bien unas manos\nextra si te interesa\ntrabajar a tiempo parcial. Además,\nvas directo al grano.\nMe gusta eso. Veamos..."
     },
     "jcfe": {
         "en-US": "[Kazien]\nAwww, I'm sorry, pal.\nI know you mean well, but\nto put it bluntly, you're\nnot strong enough for this\nkinda work. Hey, but if you put on\nsome muscle, ask me again, okay?",
@@ -407,7 +407,7 @@
     "kcfe": {
         "en-US": "[Kazien]\nGreat, great.\nI guess we can just\nget down to business,\nthen. Let me think. First,\nI should give you something\neasy to do to test you out...",
         "pt-BR": "[Kazien]\nÓtimo, ótimo.\nAcho que podemos\ncomeçar a trabalhar,\nentão. Vejamos. Primeiro,\neu devia te testar\ncom algo fácil...",
-        "es-ES": "[Kazien]\nGenial, genial.\nSupongo que podemos\nponer manos a la obra\nentonces. Déjame pensar. Primero,\ntendría que darte algo\nfácil de hacer para ponerte a prueba…"
+        "es-ES": "[Kazien]\nGenial, genial.\nSupongo que podemos\nponer manos a la obra\nentonces. Déjame pensar. Primero,\ntendría que darte algo\nfácil de hacer para ponerte a prueba..."
     },
     "ksfe": {
         "en-US": "[Kazien]\nAwww, man.\nI can't hire you\nif you're gonna blab\nyour mouth. Sorry buddy,\nbut I can't afford to take\nany risks. You understand...",
@@ -422,7 +422,7 @@
     "lMfe": {
         "en-US": "[Old Man]\nLately, Kazien seems\nto be having a hard time\nmanaging his business.\nAlways complaining that\nhe lacks the manpower...",
         "pt-BR": "[Velho]\nUltimamente, Kazien parece\nestar tendo dificuldades para\ngerenciar seus negócios.\nVive reclamando que\nnão tem mão de obra...",
-        "es-ES": "[Anciano]\nÚltimamente, parece que Kazien\nla está pasando muy mal\ncon el manejo de su negocio.\nSiempre se queja de que\nle falta mano de obra…"
+        "es-ES": "[Anciano]\nÚltimamente, parece que Kazien\nla está pasando muy mal\ncon el manejo de su negocio.\nSiempre se queja de que\nle falta mano de obra..."
     },
     "lcfe": {
         "en-US": "[Old Man]\nI don't know what kind of\nbusiness he's conducting,\nbut why don't you help him\nout? I don't believe that any\nparticularly special skills are\nrequired for some positions.",
@@ -432,7 +432,7 @@
     "lsfe": {
         "en-US": "[Old Man]\nWell, if you're interested,\nyou can find Kazien inside\nthe corporation building.\nYoung people like him should\nnever be too proud to ask for help. He still needs to learn...",
         "pt-BR": "[Velho]\nBom, se for do seu interesse,\nvocê pode encontrar Kazien\nno prédio da corporação.\nJovens como ele não deviam ter tanto orgulho para pedir ajuda. Ele ainda tem muito o que aprender...",
-        "es-ES": "[Anciano]\nBueno, si te interesa,\nKazien está dentro\ndel edificio de la corporación.\nLos jóvenes como él no deberían\nser tan orgullosos como para no pedir ayuda. Todavía tiene que aprender…"
+        "es-ES": "[Anciano]\nBueno, si te interesa,\nKazien está dentro\ndel edificio de la corporación.\nLos jóvenes como él no deberían\nser tan orgullosos como para no pedir ayuda. Todavía tiene que aprender..."
     },
     "l8fe": {
         "en-US": "Laboratory Guard",
@@ -467,12 +467,12 @@
     "ncfe": {
         "en-US": "I need to see Mr. Garins...",
         "pt-BR": "Preciso ver o Sr. Garins...",
-        "es-ES": "Necesito ver al señor Garins…"
+        "es-ES": "Necesito ver al señor Garins..."
     },
     "nsfe": {
         "en-US": "I'll... come back later.",
         "pt-BR": "Eu... volto depois.",
-        "es-ES": "Eh… volveré más tarde."
+        "es-ES": "Eh... volveré más tarde."
     },
     "n8fe": {
         "en-US": "[{0}]\nI need to see Mr. Garins\nand confirm that he received\na package that was sent to him.",
@@ -482,7 +482,7 @@
     "oMfe": {
         "en-US": "[Laboratory Guard]\nGarins, eh?\nAlright, let me check\nthe employee list. Hmm...\nGarins... Garins... Eh?\nHe's not here. Maybe you\ncame to the wrong place?",
         "pt-BR": "[Guarda do Laboratório]\nGarins, é?\nTudo bem, vou verificar\na lista de funcionários. Humm...\nGarins... Garins... Ué?\nEle não está aqui. Será que você\nveio ao lugar certo?",
-        "es-ES": "[Guardia del laboratorio]\nGarins, ¿eh?\nMuy bien, déjame ver\nla lista de empleados. Mmm…\nGarins… Garins… ¿Eh?\nNo lo encuentro aquí. Quizá \nviniste al lugar equivocado."
+        "es-ES": "[Guardia del laboratorio]\nGarins, ¿eh?\nMuy bien, déjame ver\nla lista de empleados. Mmm...\nGarins... Garins... ¿Eh?\nNo lo encuentro aquí. Quizá \nviniste al lugar equivocado."
     },
     "ocfe": {
         "en-US": "[Laboratory Guard]\nSorry, but it looks like\nyou've wasted your time.\nWe don't have a Garins\nworking here. Anyway,\nI still can't allow you to\nenter the laboratory.",
@@ -492,7 +492,7 @@
     "osfe": {
         "en-US": "[{0}]\nI'll... come back later.\n(^333333I better speak to Kazien\nand let him know I'm having\ntrouble getting past this\nguard. Otherwise, I might\nnever finish this job!^000000)",
         "pt-BR": "[{0}]\nEu... volto mais tarde.\n(^333333É melhor eu falar com Kazien\ne dizer a ele que estou tendo\nproblemas para passar por esse\nguarda. Senão, acho que\nnunca vou concluir esse trabalho!^000000)",
-        "es-ES": "[{0}]\nEh… volveré más tarde.\n(^333333Será mejor que hable con Kazien\ny le diga que tengo\nproblemas para eludir al\nguardia. Si no, no terminaré \nnunca con este trabajo^000000)."
+        "es-ES": "[{0}]\nEh... volveré más tarde.\n(^333333Será mejor que hable con Kazien\ny le diga que tengo\nproblemas para eludir al\nguardia. Si no, no terminaré \nnunca con este trabajo^000000)."
     },
     "o8fe": {
         "en-US": "[{0}]\nWhoa, I'm leaving!\n(^333333I better speak to Kazien\nand let him know I'm having\ntrouble getting past this\nguard. Otherwise, I might\nnever finish this job!^000000)",
@@ -507,7 +507,7 @@
     "pcfe": {
         "en-US": "[Lyozien]\nHey, I hear from my\nbrother that you can't work\nwith us anymore because\nof some scheduling conflict.\nI'm sorry to hear that: it was\nreally good working with you...",
         "pt-BR": "[Lyozien]\nEi, eu soube pelo meu\nirmão que você não pode mais trabalhar\nconosco por causa de\nde algum conflito de agenda.\nÉ uma pena, foi\nmuito bom trabalhar com você...",
-        "es-ES": "[Lyozien]\nOye, me enteré por mi\nhermano que no puedes trabajar\ncon nosotros por algún\nproblema de agenda.\nLamento escucharlo. Fue muy\nbueno trabajar contigo…"
+        "es-ES": "[Lyozien]\nOye, me enteré por mi\nhermano que no puedes trabajar\ncon nosotros por algún\nproblema de agenda.\nLamento escucharlo. Fue muy\nbueno trabajar contigo..."
     },
     "psfe": {
         "en-US": "[Lyozien]\nOh good, you're back.\nMr. Ahman just left and\npicked up his goods. We're\ndone here, so now you\nhave to report to my\nbrother in Lighthalzen.",
@@ -532,12 +532,12 @@
     "qsfe": {
         "en-US": "[{0}]\nThanks, but...\nNow I'm really worried\nabout what could be in\nthose packages. Are you\nsure you don't know, Lyozien?",
         "pt-BR": "[{0}]\nValeu, mas...\nAgora realmente quero sabero que pode ter nesses\npacotes. Você\ntem certeza de que não sabe, Lyozien?",
-        "es-ES": "[{0}]\nGracias, pero…\nAhora me preocupa mucho\nlo que puede haber\nen esos paquetes. ¿Estás\nseguro de que no lo sabes, Lyozien?"
+        "es-ES": "[{0}]\nGracias, pero...\nAhora me preocupa mucho\nlo que puede haber\nen esos paquetes. ¿Estás\nseguro de que no lo sabes, Lyozien?"
     },
     "q8fe": {
         "en-US": "[Lyozien]\nYou don't know when to\nstop, do you? Nah, I don't\nknow at all. Besides, so long\nas my brother says it's a bad\nidea, then I don't wanna find\nout for myself. Oh, hey...",
         "pt-BR": "[Lyozien]\nVocê não sabe quando\nparar, né? Não, eu realmente não sei. Além disso, a menos\nque meu irmão diga que é uma péssima\nideia, eu não quero descobrir\npor conta própria. Ah, e...",
-        "es-ES": "[Lyozien]\nNo sabes cuándo\nparar, ¿verdad? No, no lo sé \npara nada. Además, si mi hermano\ndice que es mala idea,\nentonces no quiero\naveriguarlo. Ah, oye…"
+        "es-ES": "[Lyozien]\nNo sabes cuándo\nparar, ¿verdad? No, no lo sé \npara nada. Además, si mi hermano\ndice que es mala idea,\nentonces no quiero\naveriguarlo. Ah, oye..."
     },
     "rMfe": {
         "en-US": "[Lyozien]\nHere's a little\nsomething to refresh\nyourself after that fight.\nKeep up the good work, okay?\nThen, we'll be done once you\ncontact Mr. Ahman in Izlude.",
@@ -552,7 +552,7 @@
     "rsfe": {
         "en-US": "[Lyozien]\nW-wait...\nDid you hear that?\nI heard--I think it's them.\nThose thugs are back! Don't\nlet them damage the packages!",
         "pt-BR": "[Lyozien]\nE-Espere...\nVocê ouviu isso?\nEu ouvi... A-Acho que são eles.\nAqueles bandidos voltaram!\nNão deixe que danifiquem os pacotes!",
-        "es-ES": "[Lyozien]\nE-Espera…\n¿Oíste eso?\nEscuché… creo que son ellos.\n¡Volvieron los matones! ¡No\ndejes que dañen los paquetes!"
+        "es-ES": "[Lyozien]\nE-Espera...\n¿Oíste eso?\nEscuché... creo que son ellos.\n¡Volvieron los matones! ¡No\ndejes que dañen los paquetes!"
     },
     "r8fe": {
         "en-US": "[Lyozien]\nI heard that you upset\nKyozien a little bit with\nyour questions. I mean,\nI totally understand, but\nyou gotta remember that\nwe've got obligations.",
@@ -587,7 +587,7 @@
     "tcfe": {
         "en-US": "[Lyozien]\nJust talk to my brother\nKazien and he should give\nyou any details you need\nto know. Man, it's good\nthat you're working for us.\nThose thugs frighten me...",
         "pt-BR": "[Lyozien]\nÉ só falar com meu irmão\nKazien, ele deve te dar\ntodos os detalhes que você precisa\nsaber. Cara, é bom saber\nque você está trabalhando para nós.\nEsses valentões me assustam...",
-        "es-ES": "[Lyozien]\nHabla con mi hermano\ny él te dará \ntodos los detalles que necesitas. \nVaya, qué bueno\nque trabajes para nosotros.\nEsos matones me dan miedo…"
+        "es-ES": "[Lyozien]\nHabla con mi hermano\ny él te dará \ntodos los detalles que necesitas. \nVaya, qué bueno\nque trabajes para nosotros.\nEsos matones me dan miedo..."
     },
     "tsfe": {
         "en-US": "[Lyozien]\nNow that those thugs are\ngone, let's concentrate on\nour task. Like before, just\nget off at Izlude and then tell\nMr. Ahman that his packages\nhave arrived. See you later~",
@@ -597,12 +597,12 @@
     "t8fe": {
         "en-US": "[Lyozien]\nOh, thank you!\nYou saved my life!\nAs you can tell, I'm\nnot much of a fighter...\nI just ran and hid when\nthose thugs appeared.",
         "pt-BR": "[Lyozien]\nAh, obrigado!\nVocê me salvou!\nComo pode ver, eu\nnão sou um grande lutador...\nApenas corri e me escondi quando\naqueles bandidos apareceram.",
-        "es-ES": "[Lyozien]\n¡Oh, gracias!\n¡Me salvaste la vida!\nComo habrás notado, no\nsoy un buen luchador…\nNo pude más que correr y esconderme\ncuando aparecieron esos matones."
+        "es-ES": "[Lyozien]\n¡Oh, gracias!\n¡Me salvaste la vida!\nComo habrás notado, no\nsoy un buen luchador...\nNo pude más que correr y esconderme\ncuando aparecieron esos matones."
     },
     "uMfe": {
         "en-US": "[Lyozien]\nThat's one reason why\nmy brother has been hiring\nyou adventurers-- we need\nprotection from those hoodlums.\nThey're always after us...",
         "pt-BR": "[Lyozien]\nEssa é uma das razões pelas quais\nmeu irmão está contratando\nvocês, aventureiros... precisamos\nde proteção contra esses valentões.\nEles estão sempre atrás da gente...",
-        "es-ES": "[Lyozien]\nEsa es una de las razones por las que\nmi hermano ha estado contratando\ntrotamundos… Necesitamos\nprotección contra esos matones.\nSiempre nos persiguen…"
+        "es-ES": "[Lyozien]\nEsa es una de las razones por las que\nmi hermano ha estado contratando\ntrotamundos... Necesitamos\nprotección contra esos matones.\nSiempre nos persiguen..."
     },
     "ucfe": {
         "en-US": "[Lyozien]\nEvery time I see them,\nthey're yelling things like\nwe're the servants of evil,\nor that the packages must\nbe destroyed. Boy, I sure\nam glad that you're here!",
@@ -617,7 +617,7 @@
     "u8fe": {
         "en-US": "[Lyozien]\nIt's so far away from\nhome, but a job's a job.\nWe're obliged to do what\nwe're been assigned to do\nuntil we qui--whoa. You\nhear that? Wh-what was...?",
         "pt-BR": "[Lyozien]\nÉ tão longe de\ncasa, mas trabalho é trabalho.\nSomos obrigados a fazer o que\nnos foi ordenado\naté que... Eita.\nOuviu isso? O-O que foi...",
-        "es-ES": "[Lyozien]\nQueda muy lejos de casa,\npero un trabajo es un trabajo.\nEs nuestra obligación hacer\nlo que se nos asigne\nhasta que renunc-¡Guau! ¿Oíste\neso? ¿Q-qué fue…?"
+        "es-ES": "[Lyozien]\nQueda muy lejos de casa,\npero un trabajo es un trabajo.\nEs nuestra obligación hacer\nlo que se nos asigne\nhasta que renunc-¡Guau! ¿Oíste\neso? ¿Q-qué fue...?"
     },
     "vMfe": {
         "en-US": "[Lyozien]\nAwwww, nuts!\nIt's those thugs!\nI'll explain later, but\nfor now, please protect\nthe packages and make\nsure they don't get them!",
@@ -652,7 +652,7 @@
     "wsfe": {
         "en-US": "Anyway, it oughta be\nfine. I mean, our clients\nare entitled to their privacy\nanyway. You've been in that\nsort of situation, right? You\nknow, embarassing orders...",
         "pt-BR": "De qualquer forma, isso não deve ser\num problema. Quero dizer, nossos clientes\ntêm direito à sua privacidade\nmesmo. Você já esteve nesse\ntipo de situação, certo?Ordens embaraçosas...",
-        "es-ES": "No tendría que preocuparnos,\nde todas formas. Además, nuestros clientes\ntienen derecho a la privacidad. \nYa debes haber estado en\nuna situación así, ¿verdad? Ya\nsabes, órdenes avergonzantes…"
+        "es-ES": "No tendría que preocuparnos,\nde todas formas. Además, nuestros clientes\ntienen derecho a la privacidad. \nYa debes haber estado en\nuna situación así, ¿verdad? Ya\nsabes, órdenes avergonzantes..."
     },
     "w8fe": {
         "en-US": "No? Eh, just meet up with\nmy brother to see if he's\ngot another job for us, okay?\nIf you wanna find me again,\nI'll be waiting right here.",
@@ -687,7 +687,7 @@
     "ycfe": {
         "en-US": "[Lyozien]\nOh, yeah, he's been like\nthat ever since we lived\nin Lighthalzen's slums.\nLuckily, he joined the\ncorporation and helped\nus improve our lots in life...",
         "pt-BR": "[Lyozien]\nAh, sim, ele tem agido assim\ndesde que moramos\nnas favelas de Lighthalzen.\nFelizmente, ele entrou para a\ncorporação e nos ajudou\na melhorar nossa situação...",
-        "es-ES": "[Lyozien]\nAh, sí, él es así \ndesde que vivíamos\nen los barrios bajos de Lighthalzen.\nPor suerte, pudo unirse a\nla corporación y gracias a eso\nnuestra vida mejoró bastante…"
+        "es-ES": "[Lyozien]\nAh, sí, él es así \ndesde que vivíamos\nen los barrios bajos de Lighthalzen.\nPor suerte, pudo unirse a\nla corporación y gracias a eso\nnuestra vida mejoró bastante..."
     },
     "ysfe": {
         "en-US": "[Lyozien]\nThat's why I appreciate the\nfact that he lets me work for\nhim. I can't let him down.\nAnyway, back to business: we\ngotta deliver these goods to\nthe Rune-Midgard Kingdom.",
@@ -747,7 +747,7 @@
     "1cfe": {
         "en-US": "[{0}]\nYes, that's right.\nActually, this time we\nwere attacked by a group\nof thugs, so I was wondering\nif you knew anything about it...",
         "pt-BR": "[{0}]\nSim, isso mesmo.\nNa verdade, desta vez \nfomos atacados por um grupo\nde valentões, então eu queria saber\nse você sabe alguma coisa sobre isso...",
-        "es-ES": "[{0}]\nSí, así es.\nDe hecho, esta vez \nnos atacó un grupo de matones,\nasí que me preguntaba\nsi sabes algo al respecto…"
+        "es-ES": "[{0}]\nSí, así es.\nDe hecho, esta vez \nnos atacó un grupo de matones,\nasí que me preguntaba\nsi sabes algo al respecto..."
     },
     "1sfe": {
         "en-US": "[Ahman]\nThey attacked again?\nOh, that isn't good.\nWell, I have no idea\nwhat's going on. I wish\nI had some idea of what\nthey were up to, really.",
@@ -757,7 +757,7 @@
     "18fe": {
         "en-US": "[Ahman]\nFor now, you should\ngo and report to Lyozien.\nI assume that you protected\nmy packages, so thank you\nfor your diligent work. Now, I shall pick up what I ordered...",
         "pt-BR": "[Ahman]\nPor enquanto, você deve\nir se apresentar a Lyozien.\nPresumo que você tenha protegido\nmeus pacotes, então obrigado\npor seu bom trabalho. Agora, vou pegar o que encomendei...",
-        "es-ES": "[Ahman]\nPor ahora, deberías\nir a hablar con Lyozien.\nSupongo que fuiste tú\nquien protegió mis paquetes, así \nque gracias por tu diligencia. Ahora, iré a recoger lo que pedí…"
+        "es-ES": "[Ahman]\nPor ahora, deberías\nir a hablar con Lyozien.\nSupongo que fuiste tú\nquien protegió mis paquetes, así \nque gracias por tu diligencia. Ahora, iré a recoger lo que pedí..."
     },
     "2Mfe": {
         "en-US": "[Ahman]\nOh, it's you again.\nShouldn't you be getting\non the Airship and heading\nback to the Schwartzwald\nRepublic? There are more\ndeliveries in queue, you know.",
@@ -782,12 +782,12 @@
     "3Mfe": {
         "en-US": "[Ahman]\nI'm Ahman, how can--\nOh! You must be here to\ntell me that my packages\nhave arrived. Am I correct?",
         "pt-BR": "[Ahman]\nEu sou Ahman, como pode...\nAh! Você deve estar aqui\npara me dizer que meus pacotes\nchegaram. Acertei?",
-        "es-ES": "[Ahman]\nSoy Ahman, ¿en qué te puedo…?\n¡Ah! Debes haber venido\na decirme que mis paquetes\nya llegaron. ¿Estoy en lo correcto?"
+        "es-ES": "[Ahman]\nSoy Ahman, ¿en qué te puedo...?\n¡Ah! Debes haber venido\na decirme que mis paquetes\nya llegaron. ¿Estoy en lo correcto?"
     },
     "3cfe": {
         "en-US": "[{0}]\nY-yes. That's right.\nYour packages have\narrived and they're\nbeing guarded until\nyou come to pick them up.",
         "pt-BR": "[{0}]\nS-Sim, isso mesmo.\nSeus pacotes\nchegaram e estão\nsendo vigiados\naté que você venha buscá-los.",
-        "es-ES": "[{0}]\nSí… así es.\nTus paquetes\nllegaron y los\nestamos vigilando hasta\nque vayas a recogerlos."
+        "es-ES": "[{0}]\nSí... así es.\nTus paquetes\nllegaron y los\nestamos vigilando hasta\nque vayas a recogerlos."
     },
     "3sfe": {
         "en-US": "[Ahman]\nAh, that's very good to\nknow. Say, are you a new\nworker for Lyozien and Kazien?\nI don't believe I've seen you\naround before. Have they finally started hiring part timers?",
@@ -817,12 +817,12 @@
     "48fe": {
         "en-US": "[Bully]\nDamn it! N-next time...\nNext time we'll g-get rid\nof those damned packages!\n^333333*Cough cough*^000000 For now, we\nretreat and fight another day!",
         "pt-BR": "[Valentão]\nDroga! D-Da próxima vez...\nDa próxima vez, v-vamos nos livrar\ndesses malditos pacotes!\n^333333*Cof, cof*^000000 Por enquanto, vamos\nrecuar e lutar outro dia!",
-        "es-ES": "[Bully]\n¡Maldita sea! L-la próxima vez…\n¡La próxima vez nos libraremos\nde esos malditos paquetes!\n^333333*Tose*^000000 ¡Por ahora,\nnos retiramos hasta la próxima batalla!"
+        "es-ES": "[Bully]\n¡Maldita sea! L-la próxima vez...\n¡La próxima vez nos libraremos\nde esos malditos paquetes!\n^333333*Tose*^000000 ¡Por ahora,\nnos retiramos hasta la próxima batalla!"
     },
     "5Mfe": {
         "en-US": "^3355FFHey-- there's a slit\nin the wrapping on one\nof the packages. It was\nprobably ripped a little\nwhile you were fighting.^000000",
         "pt-BR": "^3355FFEi, tem um rasgo\nna embalagem de um\ndos pacotes. Deve ter\nrasgado um pouco\nenquanto vocês brigavam.^000000",
-        "es-ES": "^3355FFOye… se rompió\nel envoltorio de uno\nde los paquetes. Probablemente\nse rasgó un poco\nmientras peleaban.^000000"
+        "es-ES": "^3355FFOye... se rompió\nel envoltorio de uno\nde los paquetes. Probablemente\nse rasgó un poco\nmientras peleaban.^000000"
     },
     "5cfe": {
         "en-US": "^3355FFYou peek through the\nslit in the wrapping\nthat is covering one\nof the packages.^000000",
@@ -832,7 +832,7 @@
     "5sfe": {
         "en-US": "[{0}]\nOh... my God!\nThese are... These are\nweapons of mass destruction.\nThere's even parts for assembling guardians, the kinds that usually\ndefend those Guild Castles...",
         "pt-BR": "[{0}]\nAi... minha nossa!\nSão... São\narmas de destruição em massa.\nTem até peças para montar guardiões do tipo que normalmente\ndefende os castelos das guildas...",
-        "es-ES": "[{0}]\n¡Ay, cielos…!\nEstas son… son\narmas de destrucción masiva.\nIncluso hay piezas para ensamblar guardianes de los que suelen\ndefender los castillos de los gremios…"
+        "es-ES": "[{0}]\n¡Ay, cielos...!\nEstas son... son\narmas de destrucción masiva.\nIncluso hay piezas para ensamblar guardianes de los que suelen\ndefender los castillos de los gremios..."
     },
     "58fe": {
         "en-US": "[Kazien]\n-Don't you have anything to protect, huh?-\n-Are you sure that you're always doing the right thing?-",
@@ -847,7 +847,7 @@
     "6cfe": {
         "en-US": "[{0}]\n.............Damn it.",
         "pt-BR": "[{0}]\n.............Droga.",
-        "es-ES": "[{0}]\n…Maldición."
+        "es-ES": "[{0}]\n...Maldición."
     },
     "6sfe": {
         "en-US": "[{0}]\n......\n.........\nDamn it!",

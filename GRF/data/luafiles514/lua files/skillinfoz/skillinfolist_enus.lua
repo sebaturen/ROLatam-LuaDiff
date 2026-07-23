@@ -1399,7 +1399,7 @@ SkillInfoList_string = {
 		SkillName = "Wide area Lex Aeterna"
 	},
 	[SKID.NPC_ARROWSTORM] = {
-		SkillName = "Tempestade de Flechas"
+		SkillName = "Arrow Storm"
 	},
 	[SKID.NPC_SR_CURSEDCIRCLE] = {
 		SkillName = "Cursed Circle"
@@ -1743,7 +1743,7 @@ SkillInfoList_string = {
 		SkillName = "Electric Shock"
 	},
 	[SKID.RA_CLUSTERBOMB] = {
-		SkillName = "Bomb Cluster"
+		SkillName = "Cluster Bomb"
 	},
 	[SKID.RA_WUGMASTERY] = {
 		SkillName = "Warg Mastery"
@@ -2490,7 +2490,7 @@ SkillInfoList_string = {
 		SkillName = "Hallucination Drug"
 	},
 	[SKID.RK_DRAGONBREATH_WATER] = {
-		SkillName = "Dragon's Water Breath"
+		SkillName = "Water Dragon Breath"
 	},
 	[SKID.RK_LUXANIMA] = {SkillName = "Lux Anima"},
 	[SKID.NC_MAGMA_ERUPTION] = {SkillName = "Lava Flow"},
@@ -2533,14 +2533,16 @@ SkillInfoList_string = {
 		SkillName = "Power of Land"
 	},
 	[SKID.SU_SV_STEMSPEAR] = {
-		SkillName = "SV Stem Spear"
+		SkillName = "Silvervine Stem Spear"
 	},
 	[SKID.SU_CN_POWDERING] = {
-		SkillName = "CN Powdering"
+		SkillName = "Catnip Powdering"
 	},
-	[SKID.SU_CN_METEOR] = {SkillName = "CN Meteor"},
+	[SKID.SU_CN_METEOR] = {
+		SkillName = "Catnip Meteor"
+	},
 	[SKID.SU_SV_ROOTTWIST] = {
-		SkillName = "SV Root Twist"
+		SkillName = "Silvervine Root Twist"
 	},
 	[SKID.SU_POWEROFLIFE] = {
 		SkillName = "Power of Life"
@@ -2550,7 +2552,7 @@ SkillInfoList_string = {
 	},
 	[SKID.SU_PICKYPECK] = {SkillName = "Picky Peck"},
 	[SKID.SU_ARCLOUSEDASH] = {
-		SkillName = "Arclouze Dash"
+		SkillName = "Arclouse Dash"
 	},
 	[SKID.SU_LUNATICCARROTBEAT] = {
 		SkillName = "Lunatic Carrot Beat"
@@ -3074,6 +3076,9 @@ SkillInfoList_string = {
 	[SKID.EM_ELEMENTAL_VEIL] = {
 		SkillName = "Elemental Veil"
 	},
+	[SKID.ABC_FROM_THE_ABYSS_ATK] = {
+		SkillName = "From the Abyss"
+	},
 	[SKID.NW_P_F_I] = {SkillName = "P.F.I"},
 	[SKID.NW_GRENADE_MASTERY] = {
 		SkillName = "Grenade Mastery"
@@ -3170,31 +3175,31 @@ SkillInfoList_string = {
 		SkillName = "Mystical Creature Mastery"
 	},
 	[SKID.SH_COMMUNE_WITH_CHUL_HO] = {
-		SkillName = "Commune with Chulho"
+		SkillName = "Commune with Cheol-ho"
 	},
 	[SKID.SH_CHUL_HO_SONIC_CLAW] = {
-		SkillName = "Chulho Sonic Claw"
+		SkillName = "Cheol-ho Sonic Claw"
 	},
 	[SKID.SH_HOWLING_OF_CHUL_HO] = {
-		SkillName = "Howling of Chulho"
+		SkillName = "Howling of Cheol-ho"
 	},
 	[SKID.SH_HOGOGONG_STRIKE] = {
 		SkillName = "Hogogong Strike"
 	},
 	[SKID.SH_COMMUNE_WITH_KI_SUL] = {
-		SkillName = "Commune with Kisul"
+		SkillName = "Commune with Gwisul"
 	},
 	[SKID.SH_KI_SUL_WATER_SPRAYING] = {
-		SkillName = "Kisul Water Spraying"
+		SkillName = "Gwisul Water Spraying"
 	},
 	[SKID.SH_MARINE_FESTIVAL_OF_KI_SUL] = {
-		SkillName = "Marine Festival of Kisul"
+		SkillName = "Marine Festival of Gwisul"
 	},
 	[SKID.SH_SANDY_FESTIVAL_OF_KI_SUL] = {
-		SkillName = "Sandy Festival of Kisul"
+		SkillName = "Sandy Festival of Gwisul"
 	},
 	[SKID.SH_KI_SUL_RAMPAGE] = {
-		SkillName = "Kisul Rampage"
+		SkillName = "Gwisul Rampage"
 	},
 	[SKID.SH_COMMUNE_WITH_HYUN_ROK] = {
 		SkillName = "Commune with Hyunrok"

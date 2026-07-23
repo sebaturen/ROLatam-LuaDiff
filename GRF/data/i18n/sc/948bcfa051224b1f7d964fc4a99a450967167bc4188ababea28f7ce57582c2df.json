@@ -57,12 +57,12 @@
     "S3PIBg": {
         "en-US": "Ya know, you remind me of my little brother, that varmint couldn't shoot the broadside of a barn... at least not until I taught him.",
         "pt-BR": "Preste atenção, porque vou explicar só uma vez, ok, novato?",
-        "es-ES": "¿Sabes? Me recuerdas a mi hermanito, esa alimaña no podía dispararle ni a una pared… al menos no hasta que yo le enseñé."
+        "es-ES": "¿Sabes? Me recuerdas a mi hermanito, esa alimaña no podía dispararle ni a una pared... al menos no hasta que yo le enseñé."
     },
     "THPIBg": {
         "en-US": "Ya know, you remind me of my little sister, that scamp couldn't shoot the broadside of a barn... at least not until I taught her.",
         "pt-BR": "Preste atenção, porque vou explicar só uma vez, ok, novata?",
-        "es-ES": "¿Sabes? Me recuerdas a mi hermanita, esa alimaña no podía dispararle ni a una pared… al menos no hasta que yo le enseñé."
+        "es-ES": "¿Sabes? Me recuerdas a mi hermanita, esa alimaña no podía dispararle ni a una pared... al menos no hasta que yo le enseñé."
     },
     "TXPIBg": {
         "en-US": "[Lusa]\nNow ya need to understand, guns aren't some little thing that you just swing at an animal, you don't wiggle those there fingers and shake them to death.",
@@ -262,7 +262,7 @@
     "dHPIBg": {
         "en-US": "I don't have a gun....",
         "pt-BR": "Não tenho uma arma.",
-        "es-ES": "No tengo pistola…"
+        "es-ES": "No tengo pistola..."
     },
     "dXPIBg": {
         "en-US": "No more questions now.",
@@ -272,7 +272,7 @@
     "dnPIBg": {
         "en-US": "[Lusa]\nOh.. I think I know what the problem is.",
         "pt-BR": "[Luísa, dos Justiceiros]\nHmm, certo. Deixa eu explicar.",
-        "es-ES": "[Lusa]\nAh… Creo que ya sé cuál es el problema."
+        "es-ES": "[Lusa]\nAh... Creo que ya sé cuál es el problema."
     },
     "d3PIBg": {
         "en-US": "[Lusa]\nTa use the guide, first ya need to equip it. Ta open the inventory window, the shortcut key is Alt + E.",
@@ -302,7 +302,7 @@
     "fHPIBg": {
         "en-US": "[Lusa]\n... and that's how I learned that when in doubt, let your peco do the thinkin'.",
         "pt-BR": "[Luísa, dos Justiceiros]\n... e foi assim que aprendi: na dúvida, deixe seu Peco pensar por você.",
-        "es-ES": "[Lusa]\n…Y así es como aprendí que, en caso de duda, debes dejar que tu Peco Peco piense por ti."
+        "es-ES": "[Lusa]\n...Y así es como aprendí que, en caso de duda, debes dejar que tu Peco Peco piense por ti."
     },
     "fXPIBg": {
         "en-US": "[Lusa]\nWell, I don't think you're quite ready to get a shootin' iron. So the training book only shows ya skills that don't need guns.",
@@ -472,7 +472,7 @@
     "nnPIBg": {
         "en-US": "[Lusa]\nHrmm, ya've finished all requirements. Here's your reward...",
         "pt-BR": "[Luísa, dos Justiceiros]\nUau, completou mesmo! Parabéns e obrigada, vai ajudar muito.",
-        "es-ES": "[Lusa]\nMmm, completaste todos los requisitos. Toma tu premio…"
+        "es-ES": "[Lusa]\nMmm, completaste todos los requisitos. Toma tu premio..."
     },
     "n3PIBg": {
         "en-US": "[Lusa]\nYou finished Request B right?",
@@ -707,12 +707,12 @@
     "zXPIBg": {
         "en-US": "[Lusa]\nWelcome...?\nOh! You've already moved to another job, right? What happened?",
         "pt-BR": "[Luísa, dos Justiceiros]\nBem-vindo...?\nAh! Você já mudou de classe, né? O que houve?",
-        "es-ES": "[Lusa]\n¿Hola…?\n¡Ah! Ya te cambiaste de clase, ¿verdad? ¿Qué sucedió?"
+        "es-ES": "[Lusa]\n¿Hola...?\n¡Ah! Ya te cambiaste de clase, ¿verdad? ¿Qué sucedió?"
     },
     "znPIBg": {
         "en-US": "About Gunslinger...",
         "pt-BR": "Sobre Justiceiro...",
-        "es-ES": "Sobre la clase Pistolero…"
+        "es-ES": "Sobre la clase Pistolero..."
     },
     "z3PIBg": {
         "en-US": "[Lusa]\nUh?! uh?! Where are you going!!",
@@ -747,7 +747,7 @@
     "1XPIBg": {
         "en-US": "[Lusa]\nIs that so..? Well... then ask.",
         "pt-BR": "[Luísa, dos Justiceiros]\nAh tá...? Bem... então pergunte.",
-        "es-ES": "[Lusa]\n¿De verdad…? Bueno… entonces, pregunta."
+        "es-ES": "[Lusa]\n¿De verdad...? Bueno... entonces, pregunta."
     },
     "1nPIBg": {
         "en-US": "Status",
@@ -837,7 +837,7 @@
     "53PIBg": {
         "en-US": "[Lusa]\nSomething's wrong... Why don't ya contact the GM team?",
         "pt-BR": "[Luísa, dos Justiceiros]\nTá estranho... Melhor entrar em contato com a equipe de GM.",
-        "es-ES": "[Lusa]\nAlgo anda mal… ¿Por qué no te pones en contacto con el equipo de GM?"
+        "es-ES": "[Lusa]\nAlgo anda mal... ¿Por qué no te pones en contacto con el equipo de GM?"
     },
     "6HPIBg": {
         "en-US": "Lusa's desk",
@@ -1177,12 +1177,12 @@
     "K3TIBg": {
         "en-US": "[Sharp Snake's Fang]\nI don't think that was provided by the guild...",
         "pt-BR": "[Presa de Cobra Afiada]\nSua arma não é uma fornecida pela Guilda, né?",
-        "es-ES": "[Colmillo de serpiente]\nNo creo que el gremio te haya proporcionado eso…"
+        "es-ES": "[Colmillo de serpiente]\nNo creo que el gremio te haya proporcionado eso..."
     },
     "LHTIBg": {
         "en-US": "[Sharp Snake's Fang]\nHrmm.. this gun is acceptable.",
         "pt-BR": "[Presa de Cobra Afiada]\nEssa sua arma serve.",
-        "es-ES": "[Colmillo de serpiente]\nMmm… Esta arma parece aceptable."
+        "es-ES": "[Colmillo de serpiente]\nMmm... Esta arma parece aceptable."
     },
     "LXTIBg": {
         "en-US": "[Sharp Snake's Fang]\nPlease choose the gun you would like.",
@@ -1327,17 +1327,17 @@
     "SXTIBg": {
         "en-US": "[Quiet trainee]\nLearning is really difficult...",
         "pt-BR": "[Aluna Tímida]\nEstudar é tão chato...",
-        "es-ES": "[Aprendiz callada]\nAprender es muy difícil…"
+        "es-ES": "[Aprendiz callada]\nAprender es muy difícil..."
     },
     "SnTIBg": {
         "en-US": "[Quiet trainee]\nAre you a gunslinger? You look great! I want to become a gunslinger...",
         "pt-BR": "[Aluna Tímida]\nQuando eu crescer, quero ser uma Justiceira forte igual você!",
-        "es-ES": "[Aprendiz callada]\n¿Eres clase Pistolero? Te ves increíble! Quiero ser Pistolera…"
+        "es-ES": "[Aprendiz callada]\n¿Eres clase Pistolero? Te ves increíble! Quiero ser Pistolera..."
     },
     "S3TIBg": {
         "en-US": "[Quiet trainee]\nDesperado is the bullet... Blable... Ranged attack... Physics....",
         "pt-BR": "[Aluna Tímida]\nO que essa habilidade faz mesmo...?",
-        "es-ES": "[Aprendiz callada]\nDesperado es la bala… Bla, bla… Ataque a distancia… Física…"
+        "es-ES": "[Aprendiz callada]\nDesperado es la bala... Bla, bla... Ataque a distancia... Física..."
     },
     "THTIBg": {
         "en-US": "You can't hear him clearly because of his soft voice.",

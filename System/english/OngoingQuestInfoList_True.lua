@@ -37214,7 +37214,7 @@ QuestInfoList = {
 		Summary = "Underground Purification"
 	},
 	[12541] = {
-		Title = "High Tide Time",
+		Title = "[Waiting] High Tide Time",
 		Description = {
 			"You cannot enter Sunken Tower while the tide is coming in."
 		},
@@ -37224,7 +37224,7 @@ QuestInfoList = {
 	[12542] = {
 		Title = "Goddess's Blessing",
 		Description = {
-			"The goddess's blessing is with you. If you reach a certain point while carrying this blessing, it will aid your growth."
+			"The goddess's blessing is with you. Reaching a certain point while carrying this blessing will aid your growth."
 		},
 		Summary = "Let us descend at once."
 	},
@@ -41817,28 +41817,28 @@ QuestInfoList = {
 	[14958] = {
 		Title = "The Gatekeeper of Nyail Cave",
 		Description = {
-			"<NAVI>[Festa Receptionist]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>Go find 'em and leave for Nyail Cave!"
+			"<NAVI>[Festival Receptionist]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>Go find 'em and leave for Nyail Cave!"
 		},
-		Summary = "To the Festa Receptionist"
+		Summary = "To the Festival Receptionist"
 	},
 	[14959] = {
 		Title = "The Beginning of the Festival",
 		Description = {
-			"Bring one Spaghetti, Ribbon Noodle, and Meatball, which are ingredients for making delicious noodles. - <NAVI>[Festa Manager]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"
+			"Bring one Spaghetti Pasta, Bow-tie Pasta, and Meatball, which are ingredients for making delicious noodles. - <NAVI>[Festival Manager]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Meatballs, noodle ingredients"
 	},
 	[14960] = {
 		Title = "Noodle Artisan",
 		Description = {
-			"If you come to the Noodle Festa, you must try the noodles. You can taste the best noodles by visiting <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>."
+			"If you come to the Noodle Festival, you must try the noodles. You can taste the best noodles by visiting <NAVI>[Noodle Artisan Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Noodle Master Orzo"
+		Summary = "Noodle Artisan Orzo"
 	},
 	[14961] = {
 		Title = "Watermelon Dessert",
 		Description = {
-			"Reminds me of a cool and sweet dessert on a hot summer day? <NAVI>[Helper Lami]<INFO>malangdo, 196,217,0,101,0,</INFO></INFO></NAVI> will guide you through the event where you can get Watermelon Pudding."
+			"Reminds me of a cool and sweet dessert on a hot summer day? <NAVI>[Helper Rami]<INFO>malangdo, 196,217,0,101,0,</INFO></INFO></NAVI> will guide you through the event where you can get Watermelon Pudding."
 		},
 		Summary = "Helper Lami"
 	},
@@ -41859,40 +41859,40 @@ QuestInfoList = {
 	[14964] = {
 		Title = "Noodle Ingredients",
 		Description = {
-			"<NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>Bring him 5 Spaghetti that ride in the Whirlpool, 5 Ribbon Noodles that grow on the Dandy Star, and 3 Meatballs."
+			"<NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>Bring him 5 Spaghetti that ride in the Whirlpool, 5 Bow-tie Pasta that grow on the Dandy Star, and 3 Meatballs."
 		},
 		Summary = "Meatball, Noodle Ingredients"
 	},
 	[14965] = {
-		Title = "Waiting: Today's Noodles",
+		Title = "[Waiting] Today's Noodles",
 		Description = {
-			"Today's event is being prepared. After dawn, you can visit <NAVI>[Noodle Maker Orzo]<INFO>malangdo, 165,133,0,101,0,</INFO></NAVI>."
+			"Today's event is being prepared. After dawn, you can visit <NAVI>[Noodle Artisan Orzo]<INFO>malangdo, 165,133,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Initialization time 04:00"
 	},
 	[14966] = {
 		Title = "Watermelon Fans",
 		Description = {
-			"Break the ripe watermelons buried in the watermelon patch and find the Promotional Fan! Collect 10 and bring them to <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
+			"Break the ripe watermelons buried in the watermelon patch and find the Festival Fan! Collect 10 and bring them to <NAVI>[Helper Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 Promotional Fans"
+		Summary = "10 Festival Fan"
 	},
 	[14967] = {
-		Title = "Waiting: Watermelon Fans",
+		Title = "[Waiting] Watermelon Fans",
 		Description = {
-			"Today's event is over. After dawn, you can participate again by visiting <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
+			"Today's event is over. After dawn, you can participate again by visiting <NAVI>[Helper Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Initialization time 04:00"
 	},
 	[14968] = {
 		Title = "Sea Worm Hunt",
 		Description = {
-			"Catch 10 Sea Worms and bring 10 tough noodle skins to me, <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."
+			"Catch 10 Sea Worms and bring 10 Rotten Noodle skins to me, <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 Tough Noodle Leather"
+		Summary = "10 Rotten Noodle"
 	},
 	[14969] = {
-		Title = "- Wait: Sea Worm Hunt",
+		Title = "[Waiting] Sea Worm Hunt",
 		Description = {
 			"You must be tired trying to catch the strong, Sea Worms, but please rest today and enjoy the festival again after dawn! - <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"
 		},
@@ -41906,7 +41906,7 @@ QuestInfoList = {
 		Summary = "5 Noodle Sap"
 	},
 	[14971] = {
-		Title = "Waiting: Cool, Sweet Ice Cream",
+		Title = "[Waiting] Cool, Sweet Ice Cream",
 		Description = {
 			"Have you recently participated in an event? The rule is once a day, so take a break and come back. Okay? - <NAVI>[The Merchant Borame]<INFO>malangdo,155,183,0,101,0,</INFO></NAVI>"
 		},
@@ -41917,14 +41917,14 @@ QuestInfoList = {
 		Description = {
 			"How was today's noodles? Once you've completed all of today's events, go to <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>and stamp the coupon!"
 		},
-		Summary = "Check out Noodle Maker Orzo"
+		Summary = "Check out Noodle Artisan Orzo"
 	},
 	[14973] = {
 		Title = "Coupon: Complete Watermelon Dessert",
 		Description = {
 			"You're done with the Watermelon Crushing Event. Once you have completed all four of today's events, go to <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>and stamp the coupon!"
 		},
-		Summary = "Check out Helper Lami"
+		Summary = "Check out Helper Rami"
 	},
 	[14974] = {
 		Title = "Coupon: Complete Sea Worms",
@@ -46397,106 +46397,114 @@ QuestInfoList = {
 		Summary = "Waiting Time"
 	},
 	[17307] = {
-		Title = "Gatekeeper of Nyail Cave",
+		Title = "Noodle Festival",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Go to <NAVI>[Festa Manager]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI> and leave quickly to Nyail Cave!"
+			"The [<NAVI>Festival Manager<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>] will take your character to the Lasagna sea cave!"
 		},
-		Summary = "Go to Festa Manager"
+		Summary = "Talk to the Festival Manager"
 	},
 	[17308] = {
-		Title = "Start of festival",
+		Title = "Noodle Festival",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Bring 1 each of the ingredients for making delicious noodles: long thin noodles, butterfly noodles, smooth noodles and pig potatoes. - <NAVI>[Festa ,amager]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"
+			"Bring 1 Meatball, 1 Bowtie Pasta, 1 Thin Noodle, and 1 Spaghetti Pasta to the <NAVI>[Festival Director]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
 		},
-		Summary = "Pig Potato, Noodle Ingredients"
+		Summary = "Bring the items"
 	},
 	[17309] = {
-		Title = "Noodle artisan",
+		Title = "Cooking Pasta",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"If you come to the Noodle Festival, you must try the noodles. <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> You can taste the best noodles."
+			"Find [<NAVI>Noodle Artisan Orzo<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>] at the Noodle Festival."
 		},
-		Summary = "Go to Orzo"
+		Summary = "Noodle Artisan Orzo"
 	},
 	[17310] = {
-		Title = "Watermelon dessert",
+		Title = "Watermelon Harvest",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Do you remember cool and sweet desserts in the hot summer? Visit <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> and he will guide you through the event where you can get watermelon pudding."
+			"Find [<NAVI>Helper Rami<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>] at the Noodle Festival."
 		},
-		Summary = "Go to Lami"
+		Summary = "Helper Rami"
 	},
 	[17311] = {
-		Title = "Bad noodle hunt",
+		Title = "Rotten Noodle",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Have you ever heard of bad noodles? Go to <NAVI>[Helper Domi] <INFO>malangdo,183,221,0,101,0,</INFO></NAVI> for guidance on hunting bad noodles."
+			"Find [<NAVI>Helper Domi<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>] at the Noodle Festival."
 		},
-		Summary = "Go to Domi"
+		Summary = "Helper Domi"
 	},
 	[17312] = {
-		Title = "Noodles Festival",
+		Title = "Noodle Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"If you are interested in another noodle for lasagna, I recommend <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>. You will not be disappointed."
+			"If you are interested in other pasta, I recommend talking to <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Nike, the Noodle Expert"
+		Summary = "Talk to Nike"
 	},
 	[17313] = {
-		Title = "Ingredients for Noodles",
-		Description = {
-			"Bring <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> 5 Long Thin Noodles from Small Whirlpool, 5 Butterfly Noodles from Dandy Star, 5 Smooth Noodles from Swing Tail, and 3 Pig Potatoes."
-		},
-		Summary = "Pig Potato, Noodle Ingredients"
-	},
-	[17314] = {
-		Title = "Cooldown: Noodles of the day",
-		Description = {
-			"Today's event is over. After dawn, you can visit <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> again."
-		},
-		Summary = "Reset at 04.00 AM",
-		CoolTimeQuest = 1
-	},
-	[17315] = {
-		Title = "Watermelon fan",
-		Description = {
-			"Break ripe watermelons buried in the watermelon field to find promotional fans! Collect 10 and bring them to <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
-		},
-		Summary = "Bring 10 Promotional Fan"
-	},
-	[17316] = {
-		Title = "Cooldown: Watermelon Fan",
-		Description = {
-			"Today's event is over. After dawn, find <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> and you can join again."
-		},
-		Summary = "Reset at 04.00 AM",
-		CoolTimeQuest = 1
-	},
-	[17317] = {
-		Title = "Bad noodle hunt",
-		Description = {
-			"Kill 10 Bad Noodles and bring 10 Tough Noodle Skins to me, <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."
-		},
-		Summary = "Tough Noodle Leather x10"
-	},
-	[17318] = {
-		Title = "Cooldown : Bad Noodle Hunt",
-		Description = {
-			"You must have put a lot of effort into catching the strong noodle, but please take a break today and enjoy the festival again after dawn! - <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"
-		},
-		Summary = "Reset at 04.00 AM",
-		CoolTimeQuest = 1
-	},
-	[17319] = {
-		Title = "Noodles Festival",
+		Title = "Cooking Pasta",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Could you please ask <NAVI>[my friend]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>, who lives next door to me, how to get to Nyailgul?"
+			"Bring 5 Bowtie Pasta, 5 Spaghetti Pasta, 5 Thin Noodle, and 3 Meatballs to <NAVI>[Noodle Artisan Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Chipol"
+		Summary = "Bring the items"
+	},
+	[17314] = {
+		Title = "[Wait] Cooking Pasta",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed today's daily quest. After dawn, you can visit <NAVI>[Noodle Artisan Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00"
+	},
+	[17315] = {
+		Title = "Watermelon Harvest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Defeat Watermelons and bring 10 Festival Fans to <NAVI>[Helper Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "10 Festival Fans"
+	},
+	[17316] = {
+		Title = "[Waiting] Watermelon Harvest",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed today's daily quest. After dawn, you can visit <NAVI>[Helper Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00"
+	},
+	[17317] = {
+		Title = "Bad Noodle Hunt",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Bring 10 Rotten Noodle to <NAVI>[Helper Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "10 Rotten Noodle"
+	},
+	[17318] = {
+		Title = "[Wait] Bad Noodle Hunt",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You have completed today's daily quest. After dawn, you can visit <NAVI>[Helper Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "Resets at 04:00"
+	},
+	[17319] = {
+		Title = "Noodle Festival",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's talk to <NAVI>[Chipol]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Talk to Chipol"
 	},
 	[17320] = {
 		Title = "Noodle Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Find the <NAVI>[Fisherman]<INFO>malangdo,209,110,0,101,0,</INFO></NAVI>."
+			"Find the <NAVI>[Fisherman]<INFO>lasagna,213,254,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Talk to the Fisherman"
 	},
@@ -46504,7 +46512,7 @@ QuestInfoList = {
 		Title = "Noodle Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"The fisherman asked you to meet <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+			"The fisherman asked you to meet <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Talk to Nike"
 	},
@@ -46512,15 +46520,15 @@ QuestInfoList = {
 		Title = "Noodle Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Let's report the situation to the <NAVI>[Festival Director]<INFO>malangdo,140,164,0,101,0,</INFO></NAVI>."
+			"Let's enter the Nyail Cave by talking to the <NAVI>[Festival Director]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>·Î!!"
 		},
-		Summary = "Talk to the Director"
+		Summary = "Talk to the Festival Manager"
 	},
 	[17323] = {
 		Title = "Noodle Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Bring 1x Fish Tail, 1x Squid Ink, 1x Smooth Noodles and 1x Pig Potato. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+			"Bring 1x Fish Tail, 1x Octopus Ink, 1x Spaghetti Pasta, and 1x Meatball to <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Collect the items"
 	},
@@ -46528,7 +46536,7 @@ QuestInfoList = {
 		Title = "Noodle Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Traveler, please deliver this pasta <NAVI>[at this location]<INFO>malangdo,168,219,101,0,</INFO></NAVI>."
+			"Traveler, please deliver this pasta <NAVI>[here]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Talk to Po"
 	},
@@ -46536,62 +46544,65 @@ QuestInfoList = {
 		Title = "Noodle Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Now that we're done, let's go back to talk to <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+			"Now that we're done, let's go back and talk to <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Talk to Nike"
 	},
 	[17326] = {
-		Title = "Chef's Kiss",
+		Title = "House Special",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Bring 1x Fish Tail, 5x Squid Ink, 5x Smooth Noodles and 5x Pig Potato. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+			"Bring 1x Fish Tail, 5x Octopus Ink, 5x Spaghetti Pasta, and 5x Meatball to <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Collect the items"
 	},
 	[17327] = {
-		Title = "[Wait] Chef's Kiss",
+		Title = "[Wait] House Special",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You've helped enough for today! Please come back with the same altruistic energy tomorrow! - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+			"You've helped enough for today! Please come back with the same selfless energy tomorrow! - <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
 		},
-		Summary = "Come back tomorrow.",
-		CoolTimeQuest = 1
+		Summary = "Resets at 04:00"
 	},
 	[17328] = {
-		Title = "Coupon: Noodle Event Completed",
+		Title = "[Done] Cooking Pasta",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"How was today's noodles? If you have completed all of today's events, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!"
+			"If you have completed all of today's activities, find the [<NAVI>Organizer<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>] to confirm your presence at the festival!"
 		},
-		Summary = "Orzo done"
+		Summary = "Quest Complete!"
 	},
 	[17329] = {
-		Title = "Coupon: Complete Watermelon Dessert",
+		Title = "[Done] Watermelon Harvest",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"You have completed the watermelon breaking event. If you have completed all 4 events of the day, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon!!"
+			"If you have completed all of today's activities, find the [<NAVI>Organizer<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>] to confirm your presence at the festival!"
 		},
-		Summary = "Helper Lami done"
+		Summary = "Quest Complete!"
 	},
 	[17330] = {
-		Title = "Coupon: Bad Noodles Done",
+		Title = "[Done] Rotten Pasta",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"You caught all the bad noodles. If you have completed all 4 events of the day, go to <NAVI>[Coupon Reception]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> and stamp the coupon."
+			"If you have completed all of today's activities, find the [<NAVI>Organizer<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>] to confirm your presence at the festival!"
 		},
-		Summary = "Helper Domi done"
+		Summary = "Quest Complete!"
 	},
 	[17331] = {
 		Title = "Noodle Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"If you've completed all of today's activities, find the <NAVI>[Festival Organizer]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>."
+			"If you have completed all of today's activities, find the <NAVI>[Organizer]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "To the Organizer"
 	},
 	[17332] = {
-		Title = "Coupon: Hat Exchange",
+		Title = "Noodle Look",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"I gave you a hat. Happy festival!"
+			"You have received this year's look!"
 		},
-		Summary = "Hat exchange done"
+		Summary = "Happy festival!"
 	},
 	[17333] = {
 		Title = "Guest of the Estate",
@@ -47713,7 +47724,7 @@ QuestInfoList = {
 		Title = "Path of Sky: 1st Good Karma",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"If you help others, I will help you too. There is a <NAVI>[person]<INFO>veins,238,110,0,101,0,</INFO></NAVI> who made a wish for me, let's visit them there."
+			"If you help others, I will help you too. There is a <NAVI>[person]<INFO>veins,238,110,0,101,0</INFO></NAVI> who made a wish for me, let's visit them there."
 		},
 		Summary = "Visit the person in need"
 	},
@@ -47825,6 +47836,119 @@ QuestInfoList = {
 			"'All <NAVI>[ I ]<INFO>payon,197,122,0,101,0,</INFO></NAVI> can do is teach. Learning and mastering is entirely up to the learner.'"
 		},
 		Summary = "Finish the Training"
+	},
+	[17554] = {
+		Title = "Lost Duck",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"In Lasagna, there is a [<NAVI>Duck<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>] near the fishing spot to the south. If the owner doesn't come to get it, take it to the Lost and Found Center."
+		},
+		Summary = "To the Duck"
+	},
+	[17555] = {
+		Title = "Cooking Pasta",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Noodle Artisan Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, in Lasagna, asked for 5 Bowtie Pasta, 5 Spaghetti Pasta, 5 Thin Noodle, and 3 Meatballs."
+		},
+		Summary = "Bring the items"
+	},
+	[17556] = {
+		Title = "Festival Completed!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"I helped the ducks. Since you have completed all 4 events, go to <NAVI>[Malangdo]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Talk to the Duck"
+	},
+	[17557] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Go to the <NAVI>[Nyail Cave]<INFO>lasa_sea,21,144,0,101,0,</INFO></NAVI>! There, collect buttons that look like a star."
+		},
+		Summary = "To the Cave"
+	},
+	[17558] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Somewhere in the cave, there are hidden ducks. Let's look for them <NAVI>[here]<INFO>lasa_sea,74,202,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Find Ducks"
+	},
+	[17559] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Somewhere in the cave, there are hidden ducks. Let's look for them <NAVI>[here]<INFO>lasa_sea,135,70,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Find Ducks"
+	},
+	[17560] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Somewhere in the cave, there are hidden ducks. Let's look for them <NAVI>[here]<INFO>lasa_sea,18,51,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Find Ducks"
+	},
+	[17561] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Somewhere in the cave, there are hidden ducks. Let's look for them <NAVI>[here]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Find Ducks"
+	},
+	[17562] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's go back to <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Find Ducks"
+	},
+	[17563] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems confusing, let's wait for the Duck in­ <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Wait"
+	},
+	[17564] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Talk to the <NAVI>[Duck]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Talk to Duck­"
+	},
+	[17565] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Go to the Cave, defeat Starlings to get 20 Star Buttons and deliver them to <NAVI>[me]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "20 Star Buttons"
+	},
+	[17566] = {
+		Title = "[Wait] Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Let's wait until the next day for more. - <NAVI>[Duck]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[17567] = {
+		Title = "Star Button?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Go to the Cave, defeat Starlings to get 20 Star Buttons and deliver them to <NAVI>[me]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "20 Star Buttons"
 	},
 	[17568] = {
 		Title = "Path of Sky: Marked Spot",
@@ -55542,7 +55666,7 @@ QuestInfoList = {
 	[21922] = {
 		Title = "Searching for a Goddess Devotee4",
 		Description = {
-			"Leno says there's a suspicious trail of movement leading east. Let's follow it."
+			"Leno says there's a suspicious trail of movement leading south. Let's follow it."
 		},
 		Summary = "Talk to the soldier"
 	},
@@ -73353,15 +73477,15 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 1-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 40 Pitaya (Red) and 40 Pitaya (Yellow) at [Palm Lost Valley]ba_lost,160,60,0,101,0"
+			"Defeat 40 Red Pitayas and 40 Yellow Pitayas at <NAVI>[Pitaya's Farm]<INFO>ba_lost,160,60,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Defeat 40 Pitaya (Red) and 40 Pitaya (Yellow)"
+		Summary = "Defeat 40 Red Pitayas and 40 Yellow Pitayas"
 	},
 	[295491] = {
-		Title = "Battle Pass: Defeat Pitaya - Standby",
+		Title = "[Waiting] Battle Pass: Defeat Pitaya",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the <NAVI>[Mission Board]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, of the Battle Pass 5 activity."
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -73369,15 +73493,15 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 1-2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 40 Pitaya (Blue) and 40 Pitaya (Violet) at [Palm Lost Valley]ba_lost,160,60,0,101,0"
+			"Defeat 40 Blue Pitayas and 40 Violet Pitayas at <NAVI>[Pitaya's Farm]<INFO>ba_lost,160,60,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Defeat 40 Pitaya (Blue) and 40 Pitaya (Violet)"
+		Summary = "Defeat 40 Blue Pitayas and 40 Violet Pitayas"
 	},
 	[295493] = {
-		Title = "Battle Pass: Collect Piece of Memory - Standby",
+		Title = "[Waiting] Battle Pass: Collect Fragments of Memory",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the <NAVI>[Mission Board]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, of the Battle Pass 5 activity."
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -73385,15 +73509,15 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 1-3",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 40 Pitaya (Green) and 10 of each other color at [Palm Lost Valley]ba_lost,160,60,0,101,0"
+			"Defeat 40 Green Pitayas and 10 each of other colors (Red, Yellow, Blue and Violet) at <NAVI>[Pitaya's Farm]<INFO>ba_lost,160,60,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Defeat 40 Pitaya (Green) and 10 of each other color"
+		Summary = "Defeat 40 Green Pitayas and 10 each of other colors"
 	},
 	[295495] = {
-		Title = "Battle Pass: Memorial Dungeon 17.2 Exploration - Standby",
+		Title = "[Waiting] Battle Pass: Instance 17.2 Exploration",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the <NAVI>[Mission Board]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, of the Battle Pass 5 activity."
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -73401,15 +73525,15 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 3-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 1 Sweety at [Sweety]ba_in01,32,250,0,101,0"
+			"Defeat 1 Sweety at <NAVI>[Sweety]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Defeat 1 Sweety"
 	},
 	[295497] = {
-		Title = "Battle Pass: Defeat Monsters in Thanatos Tower - Standby",
+		Title = "[Waiting] Battle Pass: Defeat Monsters in Thanatos Tower",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the <NAVI>[Mission Board]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, of the Battle Pass 5 activity."
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -73417,15 +73541,15 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 3-2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 1 Silva Papilla at [Harad]ba_maison,238,44,0,101,0"
+			"Defeat 1 Silva Papilla at <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Defeat 1 Silva Papilla"
 	},
 	[295499] = {
-		Title = "Battle Pass: Defeat Senior Red Pepper - Standby",
+		Title = "[Waiting] Battle Pass: Defeat Senior Red Pepper",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the <NAVI>[Mission Board]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, of the Battle Pass 5 activity."
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -73433,15 +73557,15 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 3-3",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 1 boss Meow at [Sweety]ba_maison,311,206,0,101,0"
+			"Defeat 1 Pitaya Boss at <NAVI>[Luynan]<INFO>ba_maison,311,206,0,101,0</INFO></NAVI>"
 		},
-		Summary = "Defeat 1 boss Meow"
+		Summary = "Defeat 1 Pitaya Boss"
 	},
 	[295501] = {
-		Title = "Battle Pass: Defeat Thanatos Phantom or Broken Thanatos - Standby",
+		Title = "[Waiting] Battle Pass: Defeat Thanatos or Fragment of Broken Thanatos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+			"This quest is a daily quest. Once the standby time ends, you can receive it again. You can also accept the quest from the <NAVI>[Mission Board]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, of the Battle Pass 5 activity."
 		},
 		Summary = "Resets at 04:00"
 	},
@@ -73449,9 +73573,9 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 4-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 5 Void Mimic and 5 Book of Death each at [Room of Pain]tha_t09,20,99,0,101,0"
+			"Defeat 5 Void Mimic and 5 Book of Death at <NAVI>[Thanatos Tower - Room of Anguish]<INFO>tha_t09,20,99,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Defeat 5 Void Mimic and 5 Book of Death each"
+		Summary = "Defeat 5 Void Mimic and 5 Book of Death"
 	},
 	[295503] = {
 		Title = "Battle Pass Season Quest 5 - Completed",
@@ -73465,7 +73589,7 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 4-2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 5 Eldest and 10 Crow Duke at [Room of Pain]tha_t09,20,99,0,101,0"
+			"Defeat 5 Eldest and 10 Crow Duke at <NAVI>[Thanatos Tower - Room of Anguish]<INFO>tha_t09,20,99,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Defeat 5 Eldest and 10 Crow Duke"
 	},
@@ -73473,7 +73597,7 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 4-3",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 15 Crow Baron at [Room of Pain]tha_t09,20,99,0,101,0"
+			"Defeat 15 Crow Baron at <NAVI>[Thanatos Tower - Room of Anguish]<INFO>tha_t09,20,99,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Defeat 15 Crow Baron"
 	},
@@ -73481,7 +73605,7 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 5",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 1 Senior Red Pepper at [Lamda (Hard)]ba_maison,120,321,0,101,0"
+			"Defeat 1 Senior Red Pepper at <NAVI>[Lamda (Hard)]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Defeat 1 Senior Red Pepper"
 	},
@@ -73489,32 +73613,577 @@ QuestInfoList = {
 		Title = "Battle Pass Daily 6-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 1 Thanatos Phantom at [Memories of Thanatos]thana_step,154,367,0,101,0"
+			"Defeat 1 Thanatos at <NAVI>[Memories of Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Defeat 1 Thanatos Phantom"
+		Summary = "Defeat 1 Thanatos"
 	},
 	[295511] = {
 		Title = "Battle Pass Daily 6-1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Defeat 1 Broken Thanatos at [Memories of Thanatos]thana_step,154,367,0,101,0"
+			"Defeat 1 Fragment of Broken Thanatos at <NAVI>[Memories of Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Defeat 1 Broken Thanatos"
+		Summary = "Defeat 1 Fragment of Broken Thanatos"
 	},
 	[295512] = {
 		Title = "Battle Pass Daily 2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 3 Piece of Memory of each color at [Room of Hatred]tha_t12,129,51,0,101,0"
+			"Collect 3 Fragments of Memory of each color at <NAVI>[Thanatos Tower - Room of Hatred]<INFO>tha_t12,129,51,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Collect 3 Piece of Memory of each color"
+		Summary = "Collect 3 Fragments of Memory of each color at <NAVI>[Thanatos Tower - Room of Hatred]<INFO>tha_t12,129,51,0,101,0</INFO></NAVI>."
 	},
 	[295513] = {
 		Title = "Battle Pass Season Quest 5",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"After completing a total of 444 daily quests, you can check your progress at the [Mission Board]prontera,194,297,0,101,0 of the Battle Pass 5 activity."
+			"After completing a total of 444 daily quests, you can check your progress at the <NAVI>[Mission Board]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, of the Battle Pass 5 activity."
 		},
 		Summary = "Complete a total of 444 daily quests"
+	},
+	[295520] = {
+		Title = "[Waiting] Ding Ding Daily's Shop",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Today's daily shop list has been updated. You can reset the list through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295521] = {
+		Title = "[Waiting] Ding Ding Daily's 1st Item",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have purchased the 1st item of the daily shop. You can reset the list through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295522] = {
+		Title = "[Waiting] Ding Ding Daily's 2nd Item",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have purchased the 2nd item of the daily shop. You can reset the list through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295523] = {
+		Title = "[Waiting] Ding Ding Daily's 3rd Item",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have purchased the 3rd item of the daily shop. You can reset the list through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295524] = {
+		Title = "[Espera] Ding Ding Daily's 4th Item",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have purchased the 4th item of the daily shop. You can reset the list through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295525] = {
+		Title = "[Waiting] Ding Ding Daily's 5th Item",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have purchased the 5th item of the daily shop. You can reset the list through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295526] = {
+		Title = "[Waiting] Ding Ding Daily's 6th Item",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have purchased the 6th item of the daily shop. You can reset the list through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295527] = {
+		Title = "[Waiting] Ding Ding Daily's 7th Item",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have purchased the 7th item of the daily shop. You can reset the list through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295528] = {
+		Title = "[Waiting] Ding Ding Daily's 8th Item",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have purchased the 8th item of the daily shop. You can reset the list through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[295529] = {
+		Title = "[Waiting] Ding Ding Daily's Shop",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have used all daily shop resets. You may use it again after 04:00 through <NAVI>[Ding Ding Daily]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Resets at 04:00",
+		CoolTimeQuest = 1
+	},
+	[297001] = {
+		Title = "Talk to Pvt Woods Goofus",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>  in Hugel Field 5."
+		},
+		Summary = "Talk to Pvt Woods"
+	},
+	[297002] = {
+		Title = "Collect 30 Little Evil Horns",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>  in Hugel Field 5 after collecting 30 <ITEM>Little Evil Horn<INFO>1038</INFO></ITEM>."
+		},
+		Summary = "Talk to Pvt Woods"
+	},
+	[297003] = {
+		Title = "Bring Horns to Maria in Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Bring the 30 <ITEM>Little Evil Horn<INFO>1038</INFO></ITEM> to <NAVI>[Maria]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> in Hugel. Maria is inside this <NAVI>[House]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Maria"
+	},
+	[297004] = {
+		Title = "Talk to Lt. Don Tyler in Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Speak with <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."
+		},
+		Summary = "Talk to Lt. Don"
+	},
+	[297005] = {
+		Title = "Go back to Pvt. Woods Goofus",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Speak with <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> in Hugel Field 5."
+		},
+		Summary = "Talk to Pvt. Woods"
+	},
+	[297006] = {
+		Title = "Search the Northside for Buddy",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Search for Pvt. Buddy in Hugel field 5 <NAVI>[Pvt. Buddy Indiho]<INFO>hu_fild05,243,304,0,101,0</INFO></NAVI> in Hugel Field 5."
+		},
+		Summary = "Search Pvt. Buddy"
+	},
+	[297007] = {
+		Title = "Tell Woods about Buddy",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Tell Woods about Buddy condition <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> in Hugel Field 5."
+		},
+		Summary = "Talk to Pvt. Woods"
+	},
+	[297008] = {
+		Title = "Tell Lt. Don about Buddy",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Tell Lt. Don about Buddy condition <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."
+		},
+		Summary = "Talk to Lt. Don"
+	},
+	[297009] = {
+		Title = "Buddy's Alive, go see him",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The corpse you are seing in Hugel field 5 is not Buddy. Go to <NAVI>[Pvt. Buddy Indigo]<INFO>hu_in01,361,112,0,101,0</INFO></NAVI>. Pvt. Buddy is inside this <NAVI>[House]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Pvt. Buddy"
+	},
+	[297010] = {
+		Title = "Talk to Chefcular Meow",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Pvt. Buddy ask you to go to <NAVI>[Chefcular Meow]<INFO>hu_in01,377,108,0,101,0</INFO></NAVI>. Chefcular Meow is inside this <NAVI>[House]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Chefcular Meow"
+	},
+	[297011] = {
+		Title = "Chefcular needs Ingredients",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Chefcular Meow]<INFO>hu_in01,377,108,0,101,0</INFO></NAVI> ask you to bring him 30 of each : <ITEM>Cyfar<INFO>7053</INFO></ITEM>, <ITEM>Brigan<INFO>7054</INFO></ITEM>, <ITEM>Tongue<INFO>1015</INFO></ITEM>, <ITEM>Little Evil Horn<INFO>1038</INFO></ITEM>, <ITEM>Rusty Kitchen Knife<INFO>7208</INFO></ITEM>. Chefcular Meow is inside this <NAVI>[House]<INFO>hugel,128,66,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Bring Items to Chefcular Meow"
+	},
+	[297012] = {
+		Title = "Go back to Maria in Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Go back to <NAVI>[Maria]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> in hugel. Maria is inside this <NAVI>[House]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Maria"
+	},
+	[297013] = {
+		Title = "Go see Derpy Cupid in Malangdo",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Go to Malangdo and talk to <NAVI>[Derpy Cupid]<INFO>malangdo,187,226,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Derpy"
+	},
+	[297014] = {
+		Title = "Bring Derpy's Confession to Lt. Don in Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Talk to <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."
+		},
+		Summary = "Talk Lt. Don"
+	},
+	[297015] = {
+		Title = "Phendark Hunting",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lt. Don Tyler ask to Defeat 100 Phendark. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02"
+		},
+		Summary = "Talk Pvt. Woods after finish"
+	},
+	[297016] = {
+		Title = "Bloody Murderer Hunting",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lt. Don Tyler ask to Defeat 100 Bloody Murderer. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."
+		},
+		Summary = "Talk Pvt. Woods after finish"
+	},
+	[297017] = {
+		Title = "Injustice Hunting",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lt. Don Tyler ask to Defeat 100 Injustice. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."
+		},
+		Summary = "Talk Pvt. Woods after finish"
+	},
+	[297018] = {
+		Title = "Deviruchi Hunting",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lt. Don Tyler ask to Defeat 100 Deviruchi. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."
+		},
+		Summary = "Talk Pvt. Woods after finish"
+	},
+	[297019] = {
+		Title = "Rybio Hunting",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Lt. Don Tyler ask to Defeat 100 Rybio. There is a rumor said that this monster also spawn in hu_fild05, abyss_01, and abyss_02."
+		},
+		Summary = "Talk Pvt. Woods after finish"
+	},
+	[297020] = {
+		Title = "Finish All Hunting",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"After finishing all hunting quest, report to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk Pvt. Woods after finish"
+	},
+	[297021] = {
+		Title = "Phendark Hunting - Finished",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Phendark Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
+		},
+		Summary = "Hunt Phendark done"
+	},
+	[297022] = {
+		Title = "Bloody Murderer Hunting - Finished",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Bloody Murderer Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
+		},
+		Summary = "Hunt Bloody Murderer done"
+	},
+	[297023] = {
+		Title = "Injustice Hunting - Finished",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Injustice Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
+		},
+		Summary = "Hunt Injustice done"
+	},
+	[297024] = {
+		Title = "Deviruchi Hunting - Finished",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Deviruchi Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
+		},
+		Summary = "Hunt Deviruchi done"
+	},
+	[297025] = {
+		Title = "Rybio Hunting - Finished",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Rybio Hunting quest is Finished, talk to <NAVI>[Pvt. Woods Goofus]<INFO>hu_fild05,329,165,0,101,0</INFO></NAVI> after you finishing all hunting quest."
+		},
+		Summary = "Hunt Rybio done"
+	},
+	[297026] = {
+		Title = "Go see Lt. Don Tyler in Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Speak with <NAVI>[Lt. Don Tyler]<INFO>hugel,78,90,0,101,0</INFO></NAVI> in Hugel."
+		},
+		Summary = "Talk to Lt. Do"
+	},
+	[297027] = {
+		Title = "Go speak with Maria in Hugel",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Talk to <NAVI>[Maria]<INFO>hu_in01,245,31,0,101,0</INFO></NAVI> in hugel. Maria is inside this <NAVI>[House]<INFO>hugel,104,79,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Maria"
+	},
+	[297028] = {
+		Title = "Give Derpy Cupid his Pardon in Malangdo",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Go to Malangdo and talk to <NAVI>[Derpy Cupid]<INFO>malangdo,187,226,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Talk to Derpy"
+	},
+	[297029] = {
+		Title = "Easter Egg Hunt",
+		Description = {
+			"Let's find 5 easter eggs. It is probably somewhere in lasagna field."
+		},
+		Summary = "Talk to Eggministrator"
+	},
+	[297030] = {
+		Title = "Easter Egg Hunt Complete",
+		Description = {
+			"Found all easter eggs. Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna."
+		},
+		Summary = "Talk to Eggministrator"
+	},
+	[297031] = {
+		Title = "[Cooldown] Easter Egg Hunt",
+		Description = {
+			"Talk to <NAVI>Eggministrator<INFO>lasagna.gat,204,194,0,101,0</INFO></NAVI> in Lasagna.",
+			"Joined Easter Egg Hunt already. Try again after ^ff000020 hours^000000 to join the Egg Hunt."
+		},
+		Summary = "Reset every 20 hours",
+		CoolTimeQuest = 1
+	},
+	[297032] = {
+		Title = "[Event] Lullaby for the Lily (1)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Maya, a spiritualist from a certain organization, has been dispatched to Geffen to calm the ^4D4DFFspirit disturbance^000000 occurring during the ^4D4DFFFestival of the Dead^000000.",
+			"It seems there is a huge spirit disturbance found ^4D4DFFnear the Orc Village^000000 and it's somehow related to a ^4D4DFFfamous urban legend^000000 in Rune Midgard.",
+			"So, she is looking for an experienced adventurer to investigate the location and perform a spirit cleansing there.",
+			"",
+			"Well, you seem interested in this so-called spirit cleansing and decided to take up the request.",
+			"Let's visit the <NAVI>[Entrance to Orc Dungeon]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and see whether the legend is true.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Investigate the location",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297033] = {
+		Title = "[Event] Lullaby for the Lily (2)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"You found the mysterious novice inside the entrance to the Orc Dungeon. Maya is also following you in her 'spirit form'.",
+			"But as soon as you approached the novice, she suddenly screamed, and everything went crazy.",
+			"",
+			"When you realized, you had been teleported to another place, and it's not looking good.",
+			"Yes. There's an <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI> waiting in front of you.",
+			"Why don't you gather up courage and try talking to it?",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Talk to Ominous Spirit",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297034] = {
+		Title = "[Event] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have been tasked with purifying 5 spirit fragments that are scattered within this building complex to weaken that <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.",
+			"Let's show them that you are a talented adventurer, and maybe the organization will offer you a new job.",
+			"",
+			"Just walk around this area, and you might bump into one of the spirits.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Purify 5 Spirits",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297035] = {
+		Title = "[Event] Lullaby for the Lily (3)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.",
+			"Who would have thought that this spirit is the one who torments Tiger Lily's soul?",
+			"",
+			"Let's go back and confront the spirit once and for all.",
+			"",
+			"Of course, Maya will do the job.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Confront Ominous Spirit",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297036] = {
+		Title = "[Event] Lullaby for the Lily (4)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The ominous spirit has been purified. Tiger Lily's soul is no longer imprisoned by these malicious entities.",
+			"",
+			"Now, we might be able to purify <NAVI>[Tiger Lily]<INFO>in_orcs01,43,167,0,101,0</INFO></NAVI> and let her rest in peace once and for all.",
+			"",
+			"It's time to say goodbye for the last time to her.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Purify Tiger Lily",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297037] = {
+		Title = "[Event] Lullaby for the Lily (5)",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"The tormented soul of a novice has been released, and she already left this world in peace.",
+			"",
+			"But I think I heard some weird things that come from that novice.",
+			"",
+			"Well, let's just talk to <NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> and end this bizzare adventure.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Talk to Maya",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297038] = {
+		Title = "[Daily] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have accepted Maya's request to do a spirit cleansing today.",
+			"Let's dive into the spirit realm and finish it early before dinner.",
+			"",
+			"If I recall correctly, first, you need to talk to the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>, right?",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Talk to Ominous Spirit",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297039] = {
+		Title = "[Daily] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"It seems you have purified enough spirits to weaken the <NAVI>[Ominous Spirit]<INFO>gef_dun01,188,98,0,101,0</INFO></NAVI>.",
+			"",
+			"Let's confront the spirit and finish the job quickly.",
+			"Well, Maya will be the one who does the job, though.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Confront Ominous Spirit",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297040] = {
+		Title = "[Daily] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have completed today's Spirit Cleansing session.",
+			"",
+			"Let's report to 'real' Maya and claim your rewards.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Talk to Maya",
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
+	},
+	[297041] = {
+		Title = "[Cooldown] Spirit Cleansing",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"You have done enough today.",
+			"^FF0000Too many spirit cleansings will take a toll on your body.^000000",
+			"",
+			"Let's return to Maya after 20 hours if you want to do another spirit cleansing.",
+			"",
+			"^FF0000Client Info^000000",
+			"<NAVI>[Spiritualist Maya]<INFO>geffen,40,141,0,101,0</INFO></NAVI> - A spiritualist dispatched to calm the spirit disturbance around Geffen",
+			"<NAVI>[Apprentice Nana]<INFO>geffen,40,144,0,101,0</INFO></NAVI> - Maya's apprentice, who is responsible for item exchange",
+			""
+		},
+		Summary = "Reset after 20 hours",
+		CoolTimeQuest = 1,
+		NpcSpr = "4_F_MALAYA",
+		NpcNavi = "geffen",
+		NpcPosX = 40,
+		NpcPosY = 141
 	}
 }

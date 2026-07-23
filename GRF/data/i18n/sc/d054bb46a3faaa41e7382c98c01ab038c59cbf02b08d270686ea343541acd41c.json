@@ -27,7 +27,7 @@
     "xQR3": {
         "en-US": "[Busy Looking Boy]\nYeah, no thanks to you!\nOh... Don't worry, I'm fine.",
         "pt-BR": "[Garoto Parecendo Ocupado]\nSim, mas não graças a você!\nOh... Não se preocupe, eu estou bem.",
-        "es-ES": "[Chico ocupado]\n¡Sí, no gracias a ti!\nAh… No te preocupes, estoy bien."
+        "es-ES": "[Chico ocupado]\n¡Sí, no gracias a ti!\nAh... No te preocupes, estoy bien."
     },
     "xgR3": {
         "en-US": "^3355FFYou notice that the boy\ndropped many hardcover\nbooks that are probably about\nruins and their legends, based\non their titles. The boy dusted\nhimself off and began to\ncarefully pile the books.^000000",
@@ -52,7 +52,7 @@
     "ygR3": {
         "en-US": "[Busy-Looking Boy]\nHuh...?\nOh, thanks for\nhelping me out here.\nI really appreciate it.",
         "pt-BR": "[Garoto Parecendo Ocupado]\nHã...?\nOh, obrigado por\nme dar uma mão.\nEstou realmente muito agradecido.",
-        "es-ES": "[Chico ocupado]\n¿Eh…?\nGracias por\nayudarme.\nTe lo agradezco mucho."
+        "es-ES": "[Chico ocupado]\n¿Eh...?\nGracias por\nayudarme.\nTe lo agradezco mucho."
     },
     "ywR3": {
         "en-US": "Are these all yours?",
@@ -67,12 +67,12 @@
     "zQR3": {
         "en-US": "to deliver these for my job.\nI need to take these to Juno\nfrom the Prontera Library\nfor a client. However, um...",
         "pt-BR": "devolvê-los, é o meu trabalho.\nEu preciso levá-los da Biblioteca de Prontera para Juno,\npara um cliente. Entretanto, hmmm...",
-        "es-ES": "que entregarlos para mi trabajo.\nNecesito llevarlos a Juno,\nde la biblioteca de Prontera,\npara un cliente. Sin embargo…"
+        "es-ES": "que entregarlos para mi trabajo.\nNecesito llevarlos a Juno,\nde la biblioteca de Prontera,\npara un cliente. Sin embargo..."
     },
     "zgR3": {
         "en-US": "[Busy-Looking Boy]\nWell...\nI get motion sick really\neasily, so it scares me to\ndeath to ride the Airship\nall the way to Juno.",
         "pt-BR": "[Garoto Parecendo Ocupado]\nBem...\nEu fico enjoado facilmente\ncom o balanço, então morro de\nmedo de ter que pegar o Aeroplano\naté Juno.",
-        "es-ES": "[Chico ocupado]\nBueno…\nMe mareo muy\nfácilmente, así que\nme da terror viajar en aeronave\nhasta Juno."
+        "es-ES": "[Chico ocupado]\nBueno...\nMe mareo muy\nfácilmente, así que\nme da terror viajar en aeronave\nhasta Juno."
     },
     "zwR3": {
         "en-US": "[Busy-Looking Boy]\nNow I'm in trouble!\nI'm never late, but this\ntime I just can't help it.\nThere's nothing I can do!\nOh, I'm gonna lose this job!",
@@ -82,7 +82,7 @@
     "0AR3": {
         "en-US": "[Busy-Looking Boy]\nWait... You adventurers\ndo a lot of traveling, right?\nIf you're traveling to Juno,\nwould you please deliver this\nfor me? I'll be in real trouble\nif I don't send these books...",
         "pt-BR": "[Garoto Parecendo Ocupado]\nEspera... Vocês aventureiros\nviajam bastante, certo?\nSe você estiver indo para Juno,\npoderia entregar isso\npara mim? Eu vou ficar muito encrencado\nse não enviar esses livros...",
-        "es-ES": "[Chico ocupado]\nEspera… Ustedes, los trotamundos,\nviajan mucho, ¿verdad?\nSi te diriges a Juno,\n¿podrías entregar esto\nde mi parte? Estaré en un grave problema\nsi no envío estos libros…"
+        "es-ES": "[Chico ocupado]\nEspera... Ustedes, los trotamundos,\nviajan mucho, ¿verdad?\nSi te diriges a Juno,\n¿podrías entregar esto\nde mi parte? Estaré en un grave problema\nsi no envío estos libros..."
     },
     "0QR3": {
         "en-US": "Help him",
@@ -102,17 +102,17 @@
     "1AR3": {
         "en-US": "[Busy-Looking Boy]\nI know these books are\npretty heavy, but be really\ncareful with them! Anyway,\nthanks for doing this for me.\nI was really at my wit's end...",
         "pt-BR": "[Garoto Parecendo Ocupado]\nEu sei que esses livros são\nmuito pesados, mas tome muito\ncuidado com eles! De qualquer forma, obrigado por fazer isso por mim.\nEu estava quase sem forças...",
-        "es-ES": "[Chico ocupado]\nSé que estos libros son\nbastante pesados, ¡pero ten mucho\ncuidado con ellos! En fin,\ngracias por hacer esto por mí.\nRealmente no sabía qué hacer…"
+        "es-ES": "[Chico ocupado]\nSé que estos libros son\nbastante pesados, ¡pero ten mucho\ncuidado con ellos! En fin,\ngracias por hacer esto por mí.\nRealmente no sabía qué hacer..."
     },
     "1QR3": {
         "en-US": "[Busy-Looking Boy]\nI-I understand.\nIt's none of your\nbusiness, I know, but\nI'm just so desperate...",
         "pt-BR": "[Garoto Parecendo Ocupado]\nE-eu entendo.\nSei que não é da \nsua conta, eu sei disso, mas\né que estou tão desesperado...",
-        "es-ES": "[Chico ocupado]\nLo entiendo.\nNo es asunto tuyo, \nlo sé, pero\nestoy tan desesperado…"
+        "es-ES": "[Chico ocupado]\nLo entiendo.\nNo es asunto tuyo, \nlo sé, pero\nestoy tan desesperado..."
     },
     "1gR3": {
         "en-US": "[Busy-Looking Boy]\nAw nuts...\nWhat am I gonna do?\nI have to deliver these\nbooks, but... I... Oh man,\nI can't get scared now!",
         "pt-BR": "[Garoto Parecendo Ocupado]\nMuito maluco...\nO que farei? \nEu tenho que entregar esses\nlivros, mas... Eu... Oh cara...\nEu não posso ficar assustado agora!",
-        "es-ES": "[Chico ocupado]\n¡Oh, rayos!\n¿Qué voy a hacer?\nTengo que entregar estos\nlibros, pero… Yo… Vaya,\n¡no puedo asustarme ahora!"
+        "es-ES": "[Chico ocupado]\n¡Oh, rayos!\n¿Qué voy a hacer?\nTengo que entregar estos\nlibros, pero... Yo... Vaya,\n¡no puedo asustarme ahora!"
     },
     "1wR3": {
         "en-US": "Speak with him",
@@ -132,7 +132,7 @@
     "2gR3": {
         "en-US": "[Busy-Looking Boy]\n.........?",
         "pt-BR": "[Garoto Parecendo Ocupado]\n.........?",
-        "es-ES": "[Chico ocupado]\n¿………?"
+        "es-ES": "[Chico ocupado]\n¿.........?"
     },
     "2wR3": {
         "en-US": "[Busy-Looking Boy]",
@@ -152,22 +152,22 @@
     "3gR3": {
         "en-US": "[Busy-Looking Boy]\nOkay, okay...\nDon't even think\nabout floating in\nthe sky. You're like,\nso stable. Don't think...\nJust... Just board that ship...",
         "pt-BR": "[Garoto Parecendo Ocupado]\nCerto, certo...\nNem mesmo pense\nem flutuar no céu. Você é tipo...\ntão estável. Não pense...\nSó... entre logo naquela aeronave...",
-        "es-ES": "[Chico ocupado]\nBueno, bueno…\nNi se te ocurra\nflotar por\nel cielo. Eres\ntan estable. No pienses…\nSolo… Solo aborda ese barco…"
+        "es-ES": "[Chico ocupado]\nBueno, bueno...\nNi se te ocurra\nflotar por\nel cielo. Eres\ntan estable. No pienses...\nSolo... Solo aborda ese barco..."
     },
     "3wR3": {
         "en-US": "Well, I, um...",
         "pt-BR": "Bem, eu, hmmm....",
-        "es-ES": "Bueno, yo…"
+        "es-ES": "Bueno, yo..."
     },
     "4AR3": {
         "en-US": "Yeah... A real\nman wouldn't have\nditched back then\nwithout helping me.\nYou're a real creepo,\nyou know that?",
         "pt-BR": "Sim... Um homem de\nverdade não teria\nsaído sem me ajudar.\nVocê é um canalha, sabia?",
-        "es-ES": "Sí… Un verdadero\nhombre no me hubiese\nabandonado antes\nsin ayudarme.\nRealmente eres un asco,\n¿lo sabías?"
+        "es-ES": "Sí... Un verdadero\nhombre no me hubiese\nabandonado antes\nsin ayudarme.\nRealmente eres un asco,\n¿lo sabías?"
     },
     "4QR3": {
         "en-US": "Yeah... If you were\na graceful and considerate\nlady, you woulda helped me\nout before. I'm right, huh?",
         "pt-BR": "Sim... Se você fosse\numa dama graciosa e que se importasse com os outros, teria me ajudado lá atrás. Estou certo? Hã?",
-        "es-ES": "Sí… Si fueras una dama\nelegante y considerada,\nme hubieses ayudado\nantes. Tengo razón, ¿o no?"
+        "es-ES": "Sí... Si fueras una dama\nelegante y considerada,\nme hubieses ayudado\nantes. Tengo razón, ¿o no?"
     },
     "4gR3": {
         "en-US": "^3355FFYou instinctively\nkick over one of the\npiles of books next\nto the young boy.\nYou couldn't help it:\nit was a natural reflex!^000000",
@@ -177,7 +177,7 @@
     "4wR3": {
         "en-US": "[Busy-Looking Boy]\nAck! Those books...!\nIt took me so long to\nstack all of those!",
         "pt-BR": "[Garoto Parecendo Ocupado]\nArgh! Esses livros...!\nLevei tanto tempo para\nempilhar todos eles!",
-        "es-ES": "[Chico ocupado]\n¡Ay! ¡Esos libros…!\n¡Me llevó tanto tiempo\napilarlos a todos!"
+        "es-ES": "[Chico ocupado]\n¡Ay! ¡Esos libros...!\n¡Me llevó tanto tiempo\napilarlos a todos!"
     },
     "5AR3": {
         "en-US": "[{0}]\nOh no, what a mess!\nHere, let me help you\narrange these nicely\nout of the bottom of\nmy freakin' heart.",
@@ -187,22 +187,22 @@
     "5QR3": {
         "en-US": "[Busy-Looking Boy]\n...\n......\n.........",
         "pt-BR": "[Garoto Parecendo Ocupado]\n...\n......\n.........",
-        "es-ES": "[Chico ocupado]\n…\n……\n………"
+        "es-ES": "[Chico ocupado]\n...\n......\n........."
     },
     "5gR3": {
         "en-US": "[Busy-Looking Boy]\nThese? Oh, I'm supposed\nto deliver these for my job.\nI need to take these to Juno\nfrom the Prontera Library\nfor a client. However, um...",
         "pt-BR": "[Garoto Parecendo Ocupado]\nOs livros? Oh, eu tenho que\ndevolvê-los, é o meu trabalho.\nEu preciso levá-los da Biblioteca de Prontera para Juno,\npara um cliente. Entretanto, hmmm...",
-        "es-ES": "[Chico ocupado]\n¿Estos? Ah, se supone que tengo\nque entregarlos para mi trabajo.\nNecesito llevarlos a Juno,\nde la biblioteca de Prontera,\npara un cliente. Sin embargo…"
+        "es-ES": "[Chico ocupado]\n¿Estos? Ah, se supone que tengo\nque entregarlos para mi trabajo.\nNecesito llevarlos a Juno,\nde la biblioteca de Prontera,\npara un cliente. Sin embargo..."
     },
     "5wR3": {
         "en-US": "[Busy-Looking Boy]\nOh, hello again.\nSorry, but I'm trying to\nconcentrate here. Gonna...\nSummon all my courage...\nand b-board that Airship!\nArgh! No, I can't do it!",
         "pt-BR": "[Garoto Parecendo Ocupado]\nOh, olá de novo.\nSinto muito, mas eu estou tentando\nme concentrar aqui. Vou ter que...\nReunir toda a minha coragem...\ne em-embarcar naquele Aeroplano!\nArgh! Não, não consigo!",
-        "es-ES": "[Chico ocupado]\nHola de nuevo.\nLo siento, pero estoy tratando de\nconcentrarme. Voy a…\nreunir todo mi coraje…\n¡y s-subir a bordo de esa aeronave!\n¡Ay! ¡No puedo hacerlo!"
+        "es-ES": "[Chico ocupado]\nHola de nuevo.\nLo siento, pero estoy tratando de\nconcentrarme. Voy a...\nreunir todo mi coraje...\n¡y s-subir a bordo de esa aeronave!\n¡Ay! ¡No puedo hacerlo!"
     },
     "6AR3": {
         "en-US": "[Busy-Looking Boy]\n^333333*Sob...*^000000\nWhat am I gonna do?\nThat guy's been waiting\nfor me to deliver his books\nfor quite a while now...",
         "pt-BR": "[Garoto Parecendo Ocupado]\n^333333*Soluço*^000000\nO que farei? \nAquele cara está me\nesperando para entregar os livros dele\njá faz um bom tempo...",
-        "es-ES": "[Chico ocupado]\n^333333*Solloza…*^000000\n¿Qué voy a hacer?\nEse chico lleva esperando\nque le entregue sus libros\nhace bastante tiempo…"
+        "es-ES": "[Chico ocupado]\n^333333*Solloza...*^000000\n¿Qué voy a hacer?\nEse chico lleva esperando\nque le entregue sus libros\nhace bastante tiempo..."
     },
     "6QR3": {
         "en-US": "[Busy-Looking Boy]\nOh, please deliver\nthose books I gave\nyou to ^FF0000Mr. Karlomoff^000000, who\nshould be waiting around\nthe Juno Library. Thanks\nagain for your help~",
@@ -212,12 +212,12 @@
     "6gR3": {
         "en-US": "Ack! Would you leave\nme alone and let me work?\nI've got something important\nto do! When I finish arranging\nthese books, I need to... I need to make some preparations!",
         "pt-BR": "Argh! Será que dá \npra me deixar sozinho para que eu possa trabalhar?\nEu tenho um trabalho importante\npara fazer! Quando eu terminar de arrumar esses livros, eu preciso... preciso fazer alguns preparativos!",
-        "es-ES": "¡Ay! ¿Podrías no molestarme\ny dejarme trabajar?\n¡Tengo algo importante\nque hacer! Cuando termine de acomodar\nestos libros, necesito… ¡Necesito hacer algunos preparativos!"
+        "es-ES": "¡Ay! ¿Podrías no molestarme\ny dejarme trabajar?\n¡Tengo algo importante\nque hacer! Cuando termine de acomodar\nestos libros, necesito... ¡Necesito hacer algunos preparativos!"
     },
     "6wR3": {
         "en-US": "[Busy-Looking Boy]\nAck! Would you leave\nme alone and let me work?\nI've got something important\nto do! When I finish arranging\nthese books, I need to... I need to make some preparations!",
         "pt-BR": "[Garoto Parecendo Ocupado]\nArgh! Será que dá \npra me deixar sozinho para que eu possa trabalhar?\nEu tenho um trabalho importante\npara fazer! Quando eu terminar de arrumar esses livros, eu preciso... Preciso fazer alguns preparativos!",
-        "es-ES": "[Chico ocupado]\n¡Ay! ¿Podrías no molestarme\ny dejarme trabajar?\n¡Tengo algo importante\nque hacer! Cuando termine de acomodar\nestos libros, necesito… ¡Necesito hacer algunos preparativos!"
+        "es-ES": "[Chico ocupado]\n¡Ay! ¿Podrías no molestarme\ny dejarme trabajar?\n¡Tengo algo importante\nque hacer! Cuando termine de acomodar\nestos libros, necesito... ¡Necesito hacer algunos preparativos!"
     },
     "7AR3": {
         "en-US": "Historian",
@@ -237,7 +237,7 @@
     "7wR3": {
         "en-US": "[Historian]\nTo understand, to see the\ntruth of the past with my\nown eyes... I'd even sell\nmy soul for the opportunity.",
         "pt-BR": "[Historiador]\nPara entender, para ver a\nverdade sobre o passado com meus\npróprios olhos... eu até mesmo venderia minha alma, por uma oportunidade como essa.",
-        "es-ES": "[Historiador]\nComprender, ver la\nverdad del pasado con\nmis propios ojos… Incluso vendería mi alma\npor tener esa oportunidad."
+        "es-ES": "[Historiador]\nComprender, ver la\nverdad del pasado con\nmis propios ojos... Incluso vendería mi alma\npor tener esa oportunidad."
     },
     "8AR3": {
         "en-US": "^3355FFAs you approached, this\nhistorian suddenly closed\nthe book that he was reading,\nlooked to the heavens and\nlet out a deep breath in a vain\nattempt to relieve his tension.^000000",
@@ -257,7 +257,7 @@
     "8wR3": {
         "en-US": "[Historian]\nEr? Oh. I'm sorry you\nhad to see that. I'm just\nextremely upset. You see,\nI'm expecting a delivery of\nresearch books from Prontera,\nbut they haven't arrived yet.",
         "pt-BR": "[Historiador]\nEr? Oh. Desculpe por você \nter visto isso. Eu só estou\nextremamente chateado. É o seguinte:\neu estou esperando uma entrega de\nuns livros de pesquisa de Prontera,\nmas eles ainda não chegaram.",
-        "es-ES": "[Historiador]\n¿Eh? Ah. Lamento que\nhayas tenido que ver eso. Yo solo…\nestoy echando humo. Verás,\nespero una entrega de\nlibros de investigación de Prontera,\npero aún no han llegado."
+        "es-ES": "[Historiador]\n¿Eh? Ah. Lamento que\nhayas tenido que ver eso. Yo solo...\nestoy echando humo. Verás,\nespero una entrega de\nlibros de investigación de Prontera,\npero aún no han llegado."
     },
     "9AR3": {
         "en-US": "[Historian]\nIn fact, the delivery boy is\nvery late. This will delay my\nresearch considerably since\nI cannot proceed without more\nnew material to study.",
@@ -287,12 +287,12 @@
     "+QR3": {
         "en-US": "[{0}]\nI...\nI don't have\nthem right now.",
         "pt-BR": "[{0}]\nEu...\nEles não estão\ncomigo no momento.",
-        "es-ES": "[{0}]\nYo…\nNo los tengo\nahora mismo."
+        "es-ES": "[{0}]\nYo...\nNo los tengo\nahora mismo."
     },
     "+gR3": {
         "en-US": "[Historian]\nWhat...?\nDon't tell me that\nyou lost them! Those\nbooks were priceless!\nDid you come all this\nway just to tell me that?",
         "pt-BR": "[Historiador]\nQuê...?\nNão vai me dizer que\nvocê os perdeu! Aqueles\nlivros não tinham preço!\nVocê veio até aqui\nsó para me dizer isso?",
-        "es-ES": "[Historiador]\n¿Qué…?\n¡No me digas que\nlos perdiste! ¡Esos\nlibros eran invaluables!\n¿Viniste hasta aquí \nsolo para decirme eso?"
+        "es-ES": "[Historiador]\n¿Qué...?\n¡No me digas que\nlos perdiste! ¡Esos\nlibros eran invaluables!\n¿Viniste hasta aquí \nsolo para decirme eso?"
     },
     "+wR3": {
         "en-US": "[Historian]\nWell, I suppose you'll\nhave to report the loss of\nthe books and get some new\ncopies of those books that\nyou were supposed to deliver.\nNow hurry, I need to research!",
@@ -307,7 +307,7 @@
     "/QR3": {
         "en-US": "[Historian]\nWhat? But you're not the\ndelivery boy. Well, let me see\nthe books you've brought. Hm...\nJust as I thought: the Rune-\nMidgard Kingdom has a great\nwealth of ancient information.",
         "pt-BR": "[Historiador]\nQuê? Mas você não é o\ngaroto que deveria entregá-los. Bem, deixe-me ver\nos livros que você trouxe. Hm...\nExatamente como imaginei: O Reino de Rune-Midgard é muito rico\nem informações antigas.",
-        "es-ES": "[Historiador]\n¿Qué? Pero si no eres el\nrepartidor. Bueno, déjame ver\nlos libros que trajiste. Mmm…\nJusto lo que pensaba: el reino de\nde Rune-Midgard tiene un gran\ncaudal de información antigua."
+        "es-ES": "[Historiador]\n¿Qué? Pero si no eres el\nrepartidor. Bueno, déjame ver\nlos libros que trajiste. Mmm...\nJusto lo que pensaba: el reino de\nde Rune-Midgard tiene un gran\ncaudal de información antigua."
     },
     "/gR3": {
         "en-US": "[Historian]\nAh, thank you so much for\nbringing these. However, by\nyour mode of dress, I can tell\nthat you are an adventurer.\nWhat happened to the delivery boy that was supposed to bring these?",
@@ -317,7 +317,7 @@
     "/wR3": {
         "en-US": "[Historian]\n..........?\nAfraid to ride the Airship?\nMotion sickness? Well, that's\nquite understandable. The poor\nboy should have contacted me\nabout that beforehand.",
         "pt-BR": "[Historiador]\n..........?\nMedo de ter que pegar o Aeroplano?\nEnjôo? Bem, isso é \nbem compreensível. O pobre\ncoitado deveria ter me contatado\ne me avisado disso antes.",
-        "es-ES": "[Historiador]\n¿…………?\n¿Tenía miedo a viajar en la aeronave?\n¿Sufría de mareos? Bueno,\nbastante comprensible. El pobre chico\ndebería de haberse puesto en contacto conmigo\nde antemano."
+        "es-ES": "[Historiador]\n¿............?\n¿Tenía miedo a viajar en la aeronave?\n¿Sufría de mareos? Bueno,\nbastante comprensible. El pobre chico\ndebería de haberse puesto en contacto conmigo\nde antemano."
     },
     "AAV3": {
         "en-US": "[Historian]\nGoodness, it's been\na while since I've had\na visitor. Would you like\nto stay and chat for a bit?\nJust give me a minute to get\na cool drink of water first~",
@@ -372,7 +372,7 @@
     "CgV3": {
         "en-US": "[Historian]\nActually, there are several\nroyal families that hold a\nspecial competition to decide\nwhich prince becomes the\nnext king. Fascinating...",
         "pt-BR": "[Historiador]\nNa verdade há diversas\nfamílias reais que realizam uma\ncompetição especial para decidir\nqual o príncipe que se tornará \no novo rei. Fascinante...",
-        "es-ES": "[Historiador]\nDe hecho, hay varias\ncasas reales que celeBreno una\ncompetición especial para decidir\ncuál príncipe se convierte en el\npróximo rey. Fascinante…"
+        "es-ES": "[Historiador]\nDe hecho, hay varias\ncasas reales que celeBreno una\ncompetición especial para decidir\ncuál príncipe se convierte en el\npróximo rey. Fascinante..."
     },
     "CwV3": {
         "en-US": "Several royal families?",
@@ -402,7 +402,7 @@
     "EAV3": {
         "en-US": "[Historian]\nOh... Not too excited\nabout history, huh? Well,\nmaybe if I sing the ancient\nsong of this myth, you'd be\nbetter able to understand...",
         "pt-BR": "[Historiador]\nAh... Você não se interessa muito\npor história, hein? Bem,\ntalvez, se eu cantasse a antiga\ncanção desse mito, você poderia\nentender melhor...",
-        "es-ES": "[Historiador]\nAh… No te emociona mucho\nla historia, ¿eh? Bueno,\ntal vez si canto la antigua\ncanción de este mito, podrás\ncomprenderlo mejor…"
+        "es-ES": "[Historiador]\nAh... No te emociona mucho\nla historia, ¿eh? Bueno,\ntal vez si canto la antigua\ncanción de este mito, podrás\ncomprenderlo mejor..."
     },
     "EQV3": {
         "en-US": "[Historian]\n^FF0000*The great serpent*^000000\n^FF0000*swallowed the sea.*^000000\n^FF0000*The eagle of the rainbow*^000000\n^FF0000*swallowed the serpent.*^000000\n^FF0000*Then the eagle built its nest.*^000000\n^FF0000*A nest upon the swallowed sea.*^000000",
@@ -447,12 +447,12 @@
     "GQV3": {
         "en-US": "[Historian]\nOnce again, thank\nyou for your help.\nIt will really speed the\nprogress of my research,\nespecially since those books\nwere delivered fairly late...",
         "pt-BR": "[Historiador]\nMais uma vez, muito\nobrigado por sua ajuda.\nIsso irá acelerar especialmente o\nprogresso de minha pesquisa,\njá que aqueles livros\nforam entregues com muito atraso...",
-        "es-ES": "[Historiador]\nUna vez más, te agradezco\npor tu ayuda.\nEso realmente acelerará el\nprogreso de mi investigación,\nespecialmente porque esos libros\nse entregaron bastante tarde…"
+        "es-ES": "[Historiador]\nUna vez más, te agradezco\npor tu ayuda.\nEso realmente acelerará el\nprogreso de mi investigación,\nespecialmente porque esos libros\nse entregaron bastante tarde..."
     },
     "GgV3": {
         "en-US": "[Historian]\nSong? Oh, you mean the\none praising the 7 who\nfounded the Rune-Midgard\nKingdom? Sure, let's see now...",
         "pt-BR": "[Historiador]\nCanção? Ah, você quer dizer a que\nlouva os 7 que fundaram\nO Reino de Rune-Midgard? Claro, agora vamos ver...",
-        "es-ES": "[Historiador]\n¿Una canción? Ah, ¿te refieres a la\nque alaba a los siete guerreros que\nfundaron el reino de\nRune-Midgard? Claro, veamos…"
+        "es-ES": "[Historiador]\n¿Una canción? Ah, ¿te refieres a la\nque alaba a los siete guerreros que\nfundaron el reino de\nRune-Midgard? Claro, veamos..."
     },
     "GwV3": {
         "en-US": "[Historian]\nYou must be more interested\nin history than I suspected.\nIf you'd like, I'll write you a\nletter or recommendation\nfor the Rekenber Historical\nResearch Group. Ha ha ha~",
@@ -462,7 +462,7 @@
     "HAV3": {
         "en-US": "[Historian]\nAh, it's been a while\nsince the last time I saw\nyou. Rodafrian actually came\nto visit me a few days ago.\nI believe she came here\nto gloat or threaten me...",
         "pt-BR": "[Historiador]\nAh, já faz um tempo\ndesde a última vez em que vi\nvocê. Rodafrian veio me\nvisitar alguns dias atrás.\nAcho que ela veio aqui\npara me intimidar ou ameaçar...",
-        "es-ES": "[Historiador]\nOye, ha pasado un buen tiempo\ndesde la última vez que te\nvi. De hecho, Rodafrian vino\na visitarme hace unos días.\nCreo que vino aquí \npara regocijarse o amenazarme…"
+        "es-ES": "[Historiador]\nOye, ha pasado un buen tiempo\ndesde la última vez que te\nvi. De hecho, Rodafrian vino\na visitarme hace unos días.\nCreo que vino aquí \npara regocijarse o amenazarme..."
     },
     "HQV3": {
         "en-US": "[Historian]\nIt was very surreal.\nShe kept raving about\nsome incredible revelation,\nand about finally putting me\nin my place. I didn't know she\ncould be so competitive!",
@@ -472,17 +472,17 @@
     "HgV3": {
         "en-US": "[Historian]\nZzzzZZz....\nZzzzZZz....ZZZzzzz...",
         "pt-BR": "[Historiador]\nZzzzZZz....\nZzzzZZz....ZZZzzzz...",
-        "es-ES": "[Historiador]\nZzzzZZz…\nZzzzZZz… ZZZzzzz…"
+        "es-ES": "[Historiador]\nZzzzZZz...\nZzzzZZz... ZZZzzzz..."
     },
     "HwV3": {
         "en-US": "^3355FFYou seem to have lost\nKarlomoff's Report. You\nneeded to deliver here to\none of his colleagues...",
         "pt-BR": "^3355FFParece que você perdeu\no relatório de Karlomoff. Você \nprecisava entregá-lo aqui\npara um de seus colegas...",
-        "es-ES": "^3355FFParece que perdiste\nel informe de Karlomoff. Sin duda,\ntenías que entregarlo aquí a\nuna de sus colegas…"
+        "es-ES": "^3355FFParece que perdiste\nel informe de Karlomoff. Sin duda,\ntenías que entregarlo aquí a\nuna de sus colegas..."
     },
     "IAV3": {
         "en-US": "[Historian Rodafrian]\nOh, why does this place\nhave to be so hot? This\ncan't be good for my skin...\nOoh, I wish I were back home\nin the Scwaltzvalt Republic~",
         "pt-BR": "[Historiadora Rodafrian]\nOh, como pode esse lugar\nser tão quente? Isso\nnão pode ser bom para a minha pele...\nOoh, eu queria estar de volta em\ncasa na República de Schwartzwald!",
-        "es-ES": "[Historiadora Rodafrian]\nOh, ¿por qué este lugar\ntiene que ser tan caluroso? Esto\npuede dañar mi piel…\nOh, me gustaría estar de vuelta en casa,\nen la República de Schwarzwald~."
+        "es-ES": "[Historiadora Rodafrian]\nOh, ¿por qué este lugar\ntiene que ser tan caluroso? Esto\npuede dañar mi piel...\nOh, me gustaría estar de vuelta en casa,\nen la República de Schwarzwald~."
     },
     "IQV3": {
         "en-US": "[Historian Rodafrian]\nHello there.\nE-excuse me, but,\num, may I help you?",
@@ -497,7 +497,7 @@
     "IwV3": {
         "en-US": "[Historian Rodafrian]\nKarlomoff...?\nHim? Alright...\nWhat did he send\nyou to me for?",
         "pt-BR": "[Historiadora Rodafrian]\nKarlomoff...?\nEle? Tudo bem...\nO que ele mandou\nvocê me entregar?",
-        "es-ES": "[Historiadora Rodafrian]\n¿Karlomoff…?\n¿Él? Muy bien…\n¿Por qué te envió \na verme?"
+        "es-ES": "[Historiadora Rodafrian]\n¿Karlomoff...?\n¿Él? Muy bien...\n¿Por qué te envió \na verme?"
     },
     "JAV3": {
         "en-US": "^3355FFYou hand Karlomoff's\nreport to Rodafrian.^000000",
@@ -547,7 +547,7 @@
     "LQV3": {
         "en-US": "[Historian Rodafrian]\n^FF0000*The great serpent*^000000\n^FF0000*swallowed the sea.*^000000\n^FF0000*The eagle of the rainbow*^000000\n^FF0000*swallowed the serpent, and*^000000\nand... and... Um. Oh dear.",
         "pt-BR": "[Historiadora Rodafrian]\n^FF0000*A grande serpente*^000000\n^FF0000*engoliu o mar.*^000000\n^FF0000*A águia do arco-íris*^000000\n^FF0000*engoliu a serpente, e*^000000\ne... e... Um. Ah, minha nossa.",
-        "es-ES": "[Historiadora Rodafrian]\n^FF0000*La gran serpiente*^000000\n^FF0000*se tragó el mar.*^000000\n^FF0000*El águila del arco iris*^000000\n^FF0000*se tragó a la serpiente, y*^000000\ny… y… Mmm. Ah, vaya."
+        "es-ES": "[Historiadora Rodafrian]\n^FF0000*La gran serpiente*^000000\n^FF0000*se tragó el mar.*^000000\n^FF0000*El águila del arco iris*^000000\n^FF0000*se tragó a la serpiente, y*^000000\ny... y... Mmm. Ah, vaya."
     },
     "LgV3": {
         "en-US": "[Historian Rodafrian]\nI can't remember the next\nline! Actually, have you\nheard this song before?",
@@ -587,7 +587,7 @@
     "NQV3": {
         "en-US": "[Historian Rodafrian]\nReally? That makes\nsense, but those lyrics\nsound different than the\nones I had heard. Hmmmm...\nIf you don't mind, would you\nplease tell me your name?",
         "pt-BR": "[Historiadora Rodafrian]\nMesmo? Faz\nsentido, mas essa letra\nparece diferente daquela\nque eu escutei. Hmmmm...\nSe não se importar, poderia me\ndizer seu nome?",
-        "es-ES": "[Historiadora Rodafrian]\n¿De verdad? Eso tiene\nsentido, pero esa letra\nsuena diferente a la\nque había escuchado. Mmmmmm…\nSi no te importa, ¿podrías\ndecirme tu nombre?"
+        "es-ES": "[Historiadora Rodafrian]\n¿De verdad? Eso tiene\nsentido, pero esa letra\nsuena diferente a la\nque había escuchado. Mmmmmm...\nSi no te importa, ¿podrías\ndecirme tu nombre?"
     },
     "NgV3": {
         "en-US": "My name is {0}.",
@@ -607,12 +607,12 @@
     "OQV3": {
         "en-US": "[Historian Rodafrian]\nI apologize for asking\nyou to do what sounds like\na silly errand, but I actually\nneed to know this song's lyrics\nfor the sake of my research...",
         "pt-BR": "[Historiadora Rodafrian]\nEu peço desculpas por pedir\nque você faça o que parece uma\ntarefa idiota, mas eu preciso\nmesmo saber a letra dessa música,\npelo bem da minha pesquisa...",
-        "es-ES": "[Historiadora Rodafrian]\nPido disculpas por pedirte\nque hagas lo que parece\nun recado tonto, pero en realidad\nnecesito saber la letra de esta canción\npara mi investigación…"
+        "es-ES": "[Historiadora Rodafrian]\nPido disculpas por pedirte\nque hagas lo que parece\nun recado tonto, pero en realidad\nnecesito saber la letra de esta canción\npara mi investigación..."
     },
     "OgV3": {
         "en-US": "[Historian Rodafrian]\nHuh...?\nThat doesn't sound\nright at all. Are you sure\nthat's the lyric you heard?",
         "pt-BR": "[Historiadora Rodafrian]\nHã...?\nIsso não me parece\ncerto. Tem certeza\nde que essa é a letra que você escutou?",
-        "es-ES": "[Historiadora Rodafrian]\n¿Eh…?\nEso no suena\npara nada bien. ¿Puedes asegurarme\nde que esa es la letra que escuchaste?"
+        "es-ES": "[Historiadora Rodafrian]\n¿Eh...?\nEso no suena\npara nada bien. ¿Puedes asegurarme\nde que esa es la letra que escuchaste?"
     },
     "OwV3": {
         "en-US": "[Historian Rodafrian]\nWhat was that?\nThe song is different?\nHmm. Then, would you\nplease sing the version\nthat you know to me?",
@@ -682,12 +682,12 @@
     "SAV3": {
         "en-US": "[Historian Rodafrian]\nHuh...?\nThat doesn't sound right\nat all. Are you sure those\nare the lyrics you heard?",
         "pt-BR": "[Historiadora Rodafrian]\nHã...?\nIsso não me parece\ncerto. Você tem certeza que essa\né a letra que você escutou?",
-        "es-ES": "[Historiadora Rodafrian]\n¿Eh…?\nEso no suena\npara nada bien. ¿Esa es realmente la letra\nque escuchaste?"
+        "es-ES": "[Historiadora Rodafrian]\n¿Eh...?\nEso no suena\npara nada bien. ¿Esa es realmente la letra\nque escuchaste?"
     },
     "SQV3": {
         "en-US": "[Historian Rodafrian]\n............\n........................\nWell then. Would you\nmind if I ask you for\nyour name, adventurer?",
         "pt-BR": "[Historiadora Rodafrian]\n............\n........................\nMuito bem então. Você se\nimportaria se eu perguntasse\nseu nome, aventureiro?",
-        "es-ES": "[Historiadora Rodafrian]\n……………\n………………………\nEn ese caso, ¿Te\nmolesta si te pregunto\ncómo te llamas, trotamundos?"
+        "es-ES": "[Historiadora Rodafrian]\n...............\n...........................\nEn ese caso, ¿Te\nmolesta si te pregunto\ncómo te llamas, trotamundos?"
     },
     "SgV3": {
         "en-US": "[Historian]\nAlthough I love doing my\nresearch and uncovering\nnew information regarding\nhistory, I feel a little lonely\nsometimes. Not many people\nshare my interests, you know...",
@@ -702,12 +702,12 @@
     "TAV3": {
         "en-US": "[Historian Rodafrian]\nAdventurer...\nI want to know your name.",
         "pt-BR": "[Historiadora Rodafrian]\nAventureiro...\nEu preciso saber seu nome.",
-        "es-ES": "[Historiadora Rodafrian]\nTrotamundos…\nquiero saber tu nombre."
+        "es-ES": "[Historiadora Rodafrian]\nTrotamundos...\nquiero saber tu nombre."
     },
     "TQV3": {
         "en-US": "[Historian Rodafrian]\nAs I recall, Mondo should\nbe at Mount Mjolnir, located\nin the northern region of the\nRune-Midgard Kingdom. Ask\nhim for the lyrics of the song that I can't seem to remember...",
         "pt-BR": "[Historiadora Rodafrian]\nPelo que me lembro, Mondo deve\nestar no Monte Mjolnir, que está localizado\nna região ao norte do Reino\nde Rune-Midgard. Pergunte a ele\nsobre a letra da música que eu não consigo me lembrar...",
-        "es-ES": "[Historiadora Rodafrian]\nSegún recuerdo, Mondo debería\nestar en el monte Mjolnir,\nen la región norte del\nreino de Rune-Midgard. Pregúntale\npor la letra de la canción que no consigo recordar…"
+        "es-ES": "[Historiadora Rodafrian]\nSegún recuerdo, Mondo debería\nestar en el monte Mjolnir,\nen la región norte del\nreino de Rune-Midgard. Pregúntale\npor la letra de la canción que no consigo recordar..."
     },
     "TgV3": {
         "en-US": "[Historian Rodafrian]\nOh, you've returned.\nHave you met with Mondo\nand figured out the lyrics of\nthat song I was looking for?",
@@ -722,7 +722,7 @@
     "UAV3": {
         "en-US": "[Historian Rodafrian]\nOh, yes!\nYes, that was it! Now\nI remember, thank you\nso much! Ah, back to work...",
         "pt-BR": "[Historiadora Rodafrian]\nAh, sim...!\nSim, era isso! Agora,\neu me lembro, muito\nobrigada! Bem, de volta ao trabalho...",
-        "es-ES": "[Historiadora Rodafrian]\n¡Oh, sí!\n¡Sí, así era! Ahora\nla recuerdo, ¡muchas\ngracias! Ah, de vuelta al trabajo…"
+        "es-ES": "[Historiadora Rodafrian]\n¡Oh, sí!\n¡Sí, así era! Ahora\nla recuerdo, ¡muchas\ngracias! Ah, de vuelta al trabajo..."
     },
     "UQV3": {
         "en-US": "[{0}]\n^333333(As a historian, Rodafrian\nmight be able to help me in\ninvestigating the curse of the\nGaebolgs. The priests told me\nnot to tell anybody, though.\nShould I take this risk?)^000000",
@@ -747,12 +747,12 @@
     "VQV3": {
         "en-US": "[Historian Rodafrian]\n.....................!",
         "pt-BR": "[Historiadora Rodafrian]\n.....................!",
-        "es-ES": "[Historiadora Rodafrian]\n¡……………………!"
+        "es-ES": "[Historiadora Rodafrian]\n¡........................!"
     },
     "VgV3": {
         "en-US": "[Historian Rodafrian]\nThank you for sharing that\nwith me. I hope you realize\nhow precious that information\nis. I had no idea the royal\nfamily was keeping that kind\nof secret. Goodness, me...",
         "pt-BR": "[Historiadora Rodafrian]\nObrigado por me contar\nisso. Eu espero que você saiba\no quão preciosa é essa\ninformação. Eu não fazia idéia que a família real tinha esse tipo de segredo escondido. Deus, eu...",
-        "es-ES": "[Historiadora Rodafrian]\nGracias por compartir esto\nconmigo. Espero que te des cuenta de\nlo valiosa que es esta información\nen verdad. No tenía ni idea de que la familia\nreal mantenía ese tipo\nde secreto. Cielos…"
+        "es-ES": "[Historiadora Rodafrian]\nGracias por compartir esto\nconmigo. Espero que te des cuenta de\nlo valiosa que es esta información\nen verdad. No tenía ni idea de que la familia\nreal mantenía ese tipo\nde secreto. Cielos..."
     },
     "VwV3": {
         "en-US": "[Historian Rodafrian]\nYou know, I don't really\nknow much about poison, but\nI do know that, aside from our\nown Assassins, there are poison\nexperts living in some strange\nland located to the west.",
@@ -762,7 +762,7 @@
     "WAV3": {
         "en-US": "[Historian Rodafrian]\nAnyway, your report about\nthe Gaebolg family will be\ngreatly appreciated by the\nRekenber Historical Research\nGroup. But first, I need to\nfinish this Morroc project...",
         "pt-BR": "[Historiadora Rodafrian]\nDe qualquer forma, seu relatório sobre a família Gaebolg será \nmuito apreciado pelo Grupo\nde Pesquisa Histórica\nde Rekenber. Mas antes de tudo, eu preciso terminar esse projeto Morroc...",
-        "es-ES": "[Historiadora Rodafrian]\nDe todos modos, tu informe sobre\nla familia Gaebolg será \nmuy apreciado por el\nGrupo de investigación histórica\ngrupo. Pero primero, necesito\nterminar este proyecto sobre Morroc…"
+        "es-ES": "[Historiadora Rodafrian]\nDe todos modos, tu informe sobre\nla familia Gaebolg será \nmuy apreciado por el\nGrupo de investigación histórica\ngrupo. Pero primero, necesito\nterminar este proyecto sobre Morroc..."
     },
     "WQV3": {
         "en-US": "[Historian Rodafrian]\nAnyway, keep this information\na secret between me and you\nfor now. Then, when I reveal the secret curse of the Gaebolg royal\nfamily, I'll finally outshine that Karlomoff! Bwahahahahaha!",
@@ -772,12 +772,12 @@
     "WgV3": {
         "en-US": "[{0}]\n^333333(Drat, she didn't give me\nany help... All I did was\nreveal a huge secret to her\nthat she might spread around!\nOh well, I guess I better head\nback to the priests...)^000000",
         "pt-BR": "[{0}]\n^333333(Droga, ela não me deu\nnenhuma ajuda... Tudo o que fiz foi\nrevelar um segredo imenso para ela,\no qual ela poderá espalhar por aí!\nOh, bem, eu acho que é melhor eu voltar até os Sacerdotes...)^000000",
-        "es-ES": "[{0}]\n^333333(¡Maldición, no me dio\nninguna ayuda… ¡Lo único que hice fue\nrevelarle un gran secreto\nque podría difundir!\nBueno, supongo que será mejor\nque vuelva con los sacerdotes…)^000000"
+        "es-ES": "[{0}]\n^333333(¡Maldición, no me dio\nninguna ayuda... ¡Lo único que hice fue\nrevelarle un gran secreto\nque podría difundir!\nBueno, supongo que será mejor\nque vuelva con los sacerdotes...)^000000"
     },
     "WwV3": {
         "en-US": "[Historian Rodafrian]\nOh, let me thank you\nonce again for going\nthrough the trouble of\ngetting that lyric for me~\nI put my assistant through\nenough trouble already...",
         "pt-BR": "[Historiadora Rodafrian]\nOh, me deixe agradecer você \nmais uma vez por ter\ntodo esse trabalho de\nconseguir a letra para mim!\nEu já dei muito trabalho\nao meu assistente...",
-        "es-ES": "[Historiadora Rodafrian]\nOh, déjame agradecerte\nuna vez más por tomarte\nla molestia de\nconseguirme esa letra~.\nYa le he dado bastantes\nproblemas a mi asistente…"
+        "es-ES": "[Historiadora Rodafrian]\nOh, déjame agradecerte\nuna vez más por tomarte\nla molestia de\nconseguirme esa letra~.\nYa le he dado bastantes\nproblemas a mi asistente..."
     },
     "XAV3": {
         "en-US": "[Historian Rodafrian]\nI also better not forget\nto go through Karlomoff's\nreport. I'll have to have a\ndebate with him sooner or\nlater, and I really want to\nput that guy in his place!",
@@ -792,7 +792,7 @@
     "XgV3": {
         "en-US": "[Historian Rodafrian]\nI just had a visit to\nKarlomoff and gave him\na piece of my mind! I think...\nI think I put him in his place.\nBut I can never really tell\nwith that sneaky guy...",
         "pt-BR": "[Historiadora Rodafrian]\nEu acabei de visitar\nKarlomoff e lhe disse o que\nse passava na minha cabeça! Eu acho...\nEu acho que o coloquei em seu lugar.\nMas não dá para saber de verdade\ncom aquela víbora...",
-        "es-ES": "[Historiadora Rodafrian]\nAcabo de visitar a\nKarlomoff y le dije\nlo que pensaba. Creo…\nCreo que lo puse en su lugar.\nPero nunca logro asegurarlo\ncon ese tipo tan escurridizo…"
+        "es-ES": "[Historiadora Rodafrian]\nAcabo de visitar a\nKarlomoff y le dije\nlo que pensaba. Creo...\nCreo que lo puse en su lugar.\nPero nunca logro asegurarlo\ncon ese tipo tan escurridizo..."
     },
     "XwV3": {
         "en-US": "It doesn't look like\nRodafrian can offer you\nany more information. For\nnow, it would be best to\ngo to ^3355FFIProntera Church.^000000",
@@ -807,7 +807,7 @@
     "YQV3": {
         "en-US": "[Historian Mondo]\nExcuse me...\nBut if you don't have\nanything important for\nme, then would you\nplease leave? I have\nresearch to attend to...",
         "pt-BR": "[Historiador Mondo]\nCom licença...\nMas se você não tem\nnada importante para\nmim, então poderia\nse retirar? Eu tenho\npesquisas para fazer...",
-        "es-ES": "[Historiador Mondo]\nDisculpa…\nSi no tienes\nnada importante para\nmí, ¿podrías irte,\npor favor? Tengo\nuna investigación que atender…"
+        "es-ES": "[Historiador Mondo]\nDisculpa...\nSi no tienes\nnada importante para\nmí, ¿podrías irte,\npor favor? Tengo\nuna investigación que atender..."
     },
     "YgV3": {
         "en-US": "[{0}]\nI'm sorry, but Ms. Rodafrian\nwanted me to ask you for the\nlyrics of some song describing\nthe Rune-Midgard Kingdom's\nfounding. Would you tell\nthem to me for her?",
@@ -817,7 +817,7 @@
     "YwV3": {
         "en-US": "[Historian Mondo]\nRodafrian? Oh, she must\nmean that old children's\nsong. How did it go now?\nAh, now I remember...",
         "pt-BR": "[Historiador Mondo]\nRodafrian? Oh, ela deve estar falando daquela velha canção\nde crianças. Como era mesmo?\nAh, agora eu me lembro...",
-        "es-ES": "[Historiador Mondo]\n¿Rodafrian? Oh, debe referirse\na esa vieja\ncanción infantil. ¿Cómo decía?\nAh, ahora recuerdo…"
+        "es-ES": "[Historiador Mondo]\n¿Rodafrian? Oh, debe referirse\na esa vieja\ncanción infantil. ¿Cómo decía?\nAh, ahora recuerdo..."
     },
     "ZAV3": {
         "en-US": "[Historian Mondo]\n^FF0000*The great serpent*^000000\n^FF0000*swallowed the sea.*^000000\n^FF0000*The eagle of the rainbow*^000000\n^FF0000*swallowed the serpent.*^000000\n^FF0000*Then snake scales grew on*^000000\n^FF0000*the eagle, and it slowly died.*^000000",
@@ -827,7 +827,7 @@
     "ZQV3": {
         "en-US": "...........?",
         "pt-BR": "...........?",
-        "es-ES": "¿………?"
+        "es-ES": "¿.........?"
     },
     "ZgV3": {
         "en-US": "[Historian Mondo]\nYes, I know: the song\nis rather morbid, despite\nthe fact that it's sung like\nsuch a happy song. Sometimes\nthese little songs are supposed\nto scare kids into doing good.",
@@ -837,7 +837,7 @@
     "ZwV3": {
         "en-US": "Excuse me...",
         "pt-BR": "Com licença...",
-        "es-ES": "Disculpa…"
+        "es-ES": "Disculpa..."
     },
     "aAV3": {
         "en-US": "[Historian Mondo]\nHm? You look confused.\nDid you have a question\nto ask me about the song?",
@@ -847,7 +847,7 @@
     "aQV3": {
         "en-US": "[{0}]\nActually, I heard\na different version\nof this song, so I was\nwondering why the lyrics\nwould be different...",
         "pt-BR": "[{0}]\nNa verdade, eu escutei\numa versão diferente\ndessa canção, então eu estava\nimaginando porque a letra\nseria diferente...",
-        "es-ES": "[{0}]\nEn realidad, yo escuché \nuna versión diferente\nde esta canción, así que estaba\npreguntándome por qué la letra\nsería diferente…"
+        "es-ES": "[{0}]\nEn realidad, yo escuché \nuna versión diferente\nde esta canción, así que estaba\npreguntándome por qué la letra\nsería diferente..."
     },
     "agV3": {
         "en-US": "[Historian Mondo]\nReally now?\nWell then, let me\nhear the version that\nyou've heard, starting\nfrom the beginning.",
@@ -857,7 +857,7 @@
     "awV3": {
         "en-US": "[{0}]\nWait, wait...\nI think I messed up!\n(Those weren't the\ncorrect lyrics...)",
         "pt-BR": "[{0}]\nEspera, espera...\nEu acho que fiz besteira!\n(Aquela não era a\nletra certa...)",
-        "es-ES": "[{0}]\nUn momento…\n¡Creo que metí la pata!\n(Esa no era la\nletra correcta…)"
+        "es-ES": "[{0}]\nUn momento...\n¡Creo que metí la pata!\n(Esa no era la\nletra correcta...)"
     },
     "bAV3": {
         "en-US": "[Historian Mondo]\nAh, would you tell me\nthe lyrics of the version of\nthe Rune-Midgard Kingdom\nfounding myth song that\nyou happened to hear?",
@@ -867,7 +867,7 @@
     "bQV3": {
         "en-US": "[Historian Mondo]\nInteresting...\nThe version you heard\nfrom Karlomoff is different\nthan the one I know. It's\npossible that his version\nis the most authentic.",
         "pt-BR": "[Historiador Mondo]\nInteressante...\nA versão que você escutou\nde Karlomoff é diferente\ndaquela que eu conheço. é \npossível que a versão dele\nseja a mais autêntica.",
-        "es-ES": "[Historiador Mondo]\nInteresante…\nLa versión que escuchaste\nde Karlomoff es diferente\na la que yo conozco. Es\nposible que su versión\nsea la más auténtica."
+        "es-ES": "[Historiador Mondo]\nInteresante...\nLa versión que escuchaste\nde Karlomoff es diferente\na la que yo conozco. Es\nposible que su versión\nsea la más auténtica."
     },
     "bgV3": {
         "en-US": "[Historian Mondo]\nAfter all, I learned\nthe version I know\nby listening to a\nlittle kid sing it.",
@@ -897,7 +897,7 @@
     "cwV3": {
         "en-US": "[Historian Mondo]\nOnce you're able to talk\nto that kid, go ahead and\nreport back to Rodafrian.\nShe probably needs to know\nsoon, and I can talk to that\nlittle kid at my leisure, so...",
         "pt-BR": "[Historiador Mondo]\nQuando você estiver pronto para falar com aquele garoto, vá em frente e conte para Rodafrian.\nEla provavelmente precisa saber\nlogo, e eu posso falar com aquele\ngaroto em meu tempo livre, então...",
-        "es-ES": "[Historiador Mondo]\nUna vez que puedas hablar\ncon ese niño,\ninfórmale a Rodafrian.\nProbablemente necesite saberlo\npronto, y yo puedo hablar con ese\nniño sin prisa, así que…"
+        "es-ES": "[Historiador Mondo]\nUna vez que puedas hablar\ncon ese niño,\ninfórmale a Rodafrian.\nProbablemente necesite saberlo\npronto, y yo puedo hablar con ese\nniño sin prisa, así que..."
     },
     "dAV3": {
         "en-US": "[Historian Mondo]\nWell then, I hope you\nfind what you're looking\nfor. Good luck in your\ntravels, adventurer.",
@@ -907,7 +907,7 @@
     "dQV3": {
         "en-US": "[Historian Mondo]\nIsn't this such\na beautiful place?\nIt's no wonder that\nancient peoples chose\nto live around here...",
         "pt-BR": "[Historiador Mondo]\nEsse lugar não\né lindo?\nNão é de se admirar que\nos povos antigos escolheram\nviver por aqui...",
-        "es-ES": "[Historiador Mondo]\n¿No es este\nun lugar hermoso?\nNo es de extrañar que\nlos pueblos antiguos eligieron\nvivir por aquí…"
+        "es-ES": "[Historiador Mondo]\n¿No es este\nun lugar hermoso?\nNo es de extrañar que\nlos pueblos antiguos eligieron\nvivir por aquí..."
     },
     "dgV3": {
         "en-US": "^FF0000*The great serpent*^000000\n^FF0000*swallowed the sea.*^000000",
@@ -922,12 +922,12 @@
     "eAV3": {
         "en-US": "^FF0000*Then snake scales*^000000\n^FF0000*grew on the eagle...*^000000",
         "pt-BR": "^FF0000*Então escamas de cobra*^000000\n^FF0000*cresceram na águia...*^000000",
-        "es-ES": "^FF0000*Entonces le crecieron escamas *^000000\n^FF0000*de serpiente al águila…*^000000"
+        "es-ES": "^FF0000*Entonces le crecieron escamas *^000000\n^FF0000*de serpiente al águila...*^000000"
     },
     "eQV3": {
         "en-US": "^FF0000*And it slowly died...*^000000",
         "pt-BR": "^FF0000*E ela morreu lentamente...*^000000",
-        "es-ES": "^FF0000*Y murió lentamente…*^000000"
+        "es-ES": "^FF0000*Y murió lentamente...*^000000"
     },
     "egV3": {
         "en-US": "Dog",
@@ -957,7 +957,7 @@
     "fwV3": {
         "en-US": "[Absent-Minded Boy]\n..................",
         "pt-BR": "[Garoto Distraído]\n..................",
-        "es-ES": "[Chico distraído]\n…………………"
+        "es-ES": "[Chico distraído]\n....................."
     },
     "gAV3": {
         "en-US": "^3355FFThe little boy quietly\nstared at the woman for a\nlittle bit, and then crouched\ndown and began petting a\ndog sitting next to him.^000000",
@@ -977,7 +977,7 @@
     "gwV3": {
         "en-US": "[Absent-Minded Boy]\n...\n......\n.........",
         "pt-BR": "[Garoto Distraído]\n...\n......\n.........",
-        "es-ES": "[Chico distraído]\n…\n……\n………"
+        "es-ES": "[Chico distraído]\n...\n......\n........."
     },
     "hAV3": {
         "en-US": "[Absent-Minded Boy]\nWoof-woof, have you\nheard this song? Mommy\ntaught me to sing it, you\nknow. She says it was sung\nby people for a long time~",
@@ -992,17 +992,17 @@
     "hgV3": {
         "en-US": "[Exhausted-Looking Woman]\nKaanu...\nWhat did I tell\nyou about ignoring\npeople's questions!",
         "pt-BR": "[Mulher Exausta]\nKaanu...\nO que eu já lhe disse\nsobre ignorar as\nperguntas das pessoas!",
-        "es-ES": "[Mujer agotada]\nKaanu…\n¡Qué te dije\nsobre ignorar las preguntas\nde la gente!"
+        "es-ES": "[Mujer agotada]\nKaanu...\n¡Qué te dije\nsobre ignorar las preguntas\nde la gente!"
     },
     "hwV3": {
         "en-US": "[Kaanu]\n.........\n..................\nUh oh, Woof-woof.\nMommy seems upset\nfor some reason.",
         "pt-BR": "[Kaanu]\n.........\n..................\nOh-oh, Au-au.\nMamãe parece chateada\npor alguma razão.",
-        "es-ES": "[Kaanu]\n………\n…………………\nOh, no. Guau, guau.\nMamá parece disgustada\npor algún motivo."
+        "es-ES": "[Kaanu]\n.........\n.....................\nOh, no. Guau, guau.\nMamá parece disgustada\npor algún motivo."
     },
     "iAV3": {
         "en-US": "[Exhausted-Looking Woman]\nI'm sorry, my kid is...\nLook, did you want to know\nmore about that song? Try\nnot to worry about it: it's just an old children's tune.",
         "pt-BR": "[Mulher Exausta]\nDesculpe, meu filho é...\nEscuta, você queria saber\nmais sobre aquela canção? Tente não se preocupar com isso: é só uma velha cantiga para crianças.",
-        "es-ES": "[Mujer agotada]\nLo siento, mi hijo está…\nOye, ¿querías saber\nmás sobre esa canción? Intenta\nno preocuparte: es solo una vieja melodía infantil."
+        "es-ES": "[Mujer agotada]\nLo siento, mi hijo está...\nOye, ¿querías saber\nmás sobre esa canción? Intenta\nno preocuparte: es solo una vieja melodía infantil."
     },
     "iQV3": {
         "en-US": "Why are you here?",
@@ -1017,7 +1017,7 @@
     "iwV3": {
         "en-US": "[Exhausted-Looking Woman]\n.................",
         "pt-BR": "[Mulher Exausta]\n.................",
-        "es-ES": "[Mujer agotada]\n………………"
+        "es-ES": "[Mujer agotada]\n.................."
     },
     "jAV3": {
         "en-US": "^3355FFThe woman's lip tightens\nwith shame. It's obvious\nthat this topic makes her\nfeel very uncomfortable.^000000",
@@ -1027,27 +1027,27 @@
     "jQV3": {
         "en-US": "[Kaanu]\n...\n......\n.........",
         "pt-BR": "[Kaanu]\n...\n......\n.........",
-        "es-ES": "[Kaanu]\n…\n……\n………"
+        "es-ES": "[Kaanu]\n...\n......\n........."
     },
     "jgV3": {
         "en-US": "[Kaanu]\nWoof-woof, do you know\nwhy Mommy is always\nso sad? I wish I knew\nwhy Mommy never smiles...",
         "pt-BR": "[Kaanu]\nAu-au, você sabe por que\na mamãe está sempre\ntão triste? Eu queria saber\npor que mamãe nunca sorri...",
-        "es-ES": "[Kaanu]\nGuau, guau. ¿Sabes\npor qué mamá siempre está \ntan triste? Ojalá supiera\npor qué mamá nunca sonríe…"
+        "es-ES": "[Kaanu]\nGuau, guau. ¿Sabes\npor qué mamá siempre está \ntan triste? Ojalá supiera\npor qué mamá nunca sonríe..."
     },
     "jwV3": {
         "en-US": "[Exhausted-Looking Woman]\n........",
         "pt-BR": "[Mulher Exausta]\n........",
-        "es-ES": "[Mujer agotada]\n………"
+        "es-ES": "[Mujer agotada]\n........."
     },
     "kAV3": {
         "en-US": "[Exhausted-Looking Woman]\n..................",
         "pt-BR": "[Mulher Exausta]\n..................",
-        "es-ES": "[Mujer agotada]\n…………………"
+        "es-ES": "[Mujer agotada]\n....................."
     },
     "kQV3": {
         "en-US": "[Exhausted-Looking Woman]\nOkay. I can do this\nsimple thing for you.\nLet me recite this song...",
         "pt-BR": "[Mulher Exausta]\nOk. Posso fazer isso\npor você.\nDeixe-me recitar os versos da canção...",
-        "es-ES": "[Mujer agotada]\nBueno. Puedo hacerte\nun pequeño favor.\nDéjame recitar esta canción…"
+        "es-ES": "[Mujer agotada]\nBueno. Puedo hacerte\nun pequeño favor.\nDéjame recitar esta canción..."
     },
     "kgV3": {
         "en-US": "[Exhausted-Looking Woman]\nThe great serpent\nswallowed the sea.\nThe eagle of the rainbow\nswallowed the serpent.\nThen snake scales grew on\nthe eagle, and it slowly died.",
@@ -1082,7 +1082,7 @@
     "mAV3": {
         "en-US": "[Exhausted-Looking Woman]\n...........",
         "pt-BR": "[Mulher Exausta]\n.........",
-        "es-ES": "[Mujer agotada]\n…………"
+        "es-ES": "[Mujer agotada]\n............"
     },
     "mQV3": {
         "en-US": "[Exhausted-Looking Woman]\nNot too many people\ncome to this remote area.\nWhat brings you all the\nway over here, I wonder?",
@@ -1097,17 +1097,17 @@
     "mwV3": {
         "en-US": "[Exhausted-Looking Woman]\n.........",
         "pt-BR": "[Mulher Exausta]\n...........",
-        "es-ES": "[Mujer agotada]\n………"
+        "es-ES": "[Mujer agotada]\n........."
     },
     "nAV3": {
         "en-US": "[Exhausted-Looking Woman]\nThat song's lyrics, and\nits meaning, can change\nfrom person to person as\ntime goes on. I suppose part\nof the reason is because it's\nbeen handed down orally...",
         "pt-BR": "[Mulher Exausta]\nA letra daquela canção, assim como seu significado, podem mudar\nde pessoa para pessoa, com\no passar do tempo. Eu acho que em parte é porque ela é transmitida\nde geração em geração oralmente...",
-        "es-ES": "[Mujer agotada]\nLa letra de esa canción, y\nsu significado, pueden cambiar\nde una persona a otra con\nel paso del tiempo. Supongo que, en parte,\nse debe a que se\ntransmitió oralmente…"
+        "es-ES": "[Mujer agotada]\nLa letra de esa canción, y\nsu significado, pueden cambiar\nde una persona a otra con\nel paso del tiempo. Supongo que, en parte,\nse debe a que se\ntransmitió oralmente..."
     },
     "nQV3": {
         "en-US": "[Exhausted-Looking Woman]\nIt sounds like such a happy\nsong, but it's meaning had\nchanged for me ever since\nthe accident had happened...\nIt's been so long, but I don't\nthink the pain will ever heal.",
         "pt-BR": "[Mulher Exausta]\nParece uma canção tão\nalegre, mas seu significado mudou\npara mim desde que o acidente\naconteceu...\nJá faz tanto tempo, mas eu não\nacho que a dor irá passar algum dia.",
-        "es-ES": "[Mujer agotada]\nParece una canción tan\nalegre, pero su significado\ncambió para mí desde\nque ocurrió el accidente…\nHa pasado tanto tiempo, pero no\ncreo que el dolor llegue a sanar."
+        "es-ES": "[Mujer agotada]\nParece una canción tan\nalegre, pero su significado\ncambió para mí desde\nque ocurrió el accidente...\nHa pasado tanto tiempo, pero no\ncreo que el dolor llegue a sanar."
     },
     "ngV3": {
         "en-US": "Accident?",
@@ -1117,7 +1117,7 @@
     "nwV3": {
         "en-US": "[Exhausted-Looking Woman]\nI'm... I'm sorry.\nI don't think I can talk\nabout it. If I try, I know I'll\nrelive the horror. Every day\nis already a struggle to cope\nwith the sins I've committed.",
         "pt-BR": "[Mulher Exausta]\neu... Desculpe.\nEu não creio que possa falar\nsobre isso. Se eu tentar, sei que irei\nreviver o medo. Já tenho lutado muito todos os dias para lidar\ncom os pecados que eu cometi.",
-        "es-ES": "[Mujer agotada]\nYo… Lo siento.\nNo creo que pueda hablar\ndel tema. Si lo intento, sé que\nreviviré el horror. Cada día\nes una lucha constante para lidiar\ncon los pecados que cometí."
+        "es-ES": "[Mujer agotada]\nYo... Lo siento.\nNo creo que pueda hablar\ndel tema. Si lo intento, sé que\nreviviré el horror. Cada día\nes una lucha constante para lidiar\ncon los pecados que cometí."
     },
     "oAV3": {
         "en-US": "[Exhausted-Looking Woman]\nI know it's selfish, but\nI have a favor to ask of you.\nI can't really leave this area,\nand seldom do I receive visitors. Would you be so kind to deliver\nsomething to Prontera for me?",
@@ -1132,7 +1132,7 @@
     "ogV3": {
         "en-US": "[Exhausted-Looking Woman]\nYou can find ^3131FFFather Bamph^000000\nin ^3131FFProntera Church^000000. When you\nsee him, please give him my\nwarmest regards. I would do it\nmyself, but because of what I  did, I can't return to Prontera...",
         "pt-BR": "[Mulher Exausta]\nVocê poderá encontrar o ^3131FFPadre Bamph^000000 na ^3131FFIgreja de Prontera^000000. Quando você o encontrar, por favor, diga que mandei lembranças. Eu mesma faria isso, mas devido ao que fiz, eu não posso voltar para Prontera...",
-        "es-ES": "[Mujer agotada]\nPuedes encontrar al ^3131FFpadre Bamph^000000\nen la ^3131FFiglesia de Prontera^000000. Cuando lo \nveas, dale un saludo\nafectuoso de mi parte. Lo haría yo misma,\npero debido a lo que hice, no puedo volver a Prontera…"
+        "es-ES": "[Mujer agotada]\nPuedes encontrar al ^3131FFpadre Bamph^000000\nen la ^3131FFiglesia de Prontera^000000. Cuando lo \nveas, dale un saludo\nafectuoso de mi parte. Lo haría yo misma,\npero debido a lo que hice, no puedo volver a Prontera..."
     },
     "owV3": {
         "en-US": "[{0}]\n^333333(Alright then. I guess\nI should deliver these\nherbs to Prontera Church\nbefore I talk to Rodafrian.)^000000",
@@ -1157,7 +1157,7 @@
     "pwV3": {
         "en-US": "[Bonnie Imbullea]\nOh. I see.\nYou must think\nme a monster...\nThose poor children\nare dead because of me...",
         "pt-BR": "[Bonnie Imbullea]\nOh. Entendo.\nVocê deve achar\nque sou um monstro...\nAquelas pobres crianças\nestão mortas por minha causa...",
-        "es-ES": "[Bonnie Imbullea]\nAh. Ya veo.\nDebes pensar\nque soy un monstruo…\nEsos pobres niños\nestán muertos por mi culpa…"
+        "es-ES": "[Bonnie Imbullea]\nAh. Ya veo.\nDebes pensar\nque soy un monstruo...\nEsos pobres niños\nestán muertos por mi culpa..."
     },
     "qAV3": {
         "en-US": "[{0}]\nN-no! Not at all!\nI just wanted to ask if there\nwas a connection between\nthe song that Kaanu has been\nsinging and Jormungand's curse.",
@@ -1167,7 +1167,7 @@
     "qQV3": {
         "en-US": "[Bonnie Imbullea]\n...\n......\n.........",
         "pt-BR": "[Bonnie Imbullea]\n...\n......\n.........",
-        "es-ES": "[Bonnie Imbullea]\n…\n……\n………"
+        "es-ES": "[Bonnie Imbullea]\n...\n......\n........."
     },
     "qgV3": {
         "en-US": "[Bonnie Imbullea]\nAfter the exorcism failed,\nI should have been punished\nwith death. But the royal family and the Prontera Church took\nmercy on me, and allowed\nme to live here in exile.",
@@ -1187,22 +1187,22 @@
     "rQV3": {
         "en-US": "[Bonnie Imbullea]\nI always thought it\nwas a little strange.\nI wanted to investigate\nit, but then I was discharged\nfrom the Prontera Church\nafter my failure...",
         "pt-BR": "[Bonnie Imbullea]\nEu sempre achei aquilo\num pouco estranho.\nEu quis investigar\nmas logo fui exonerada da\nIgreja de Prontera,\napós meu fracasso...",
-        "es-ES": "[Bonnie Imbullea]\nSiempre pensé que\nera un poco extraño.\nQuería investigarlo,\npero luego me dieron de baja\nde la iglesia de Prontera\ntras mi fracaso…"
+        "es-ES": "[Bonnie Imbullea]\nSiempre pensé que\nera un poco extraño.\nQuería investigarlo,\npero luego me dieron de baja\nde la iglesia de Prontera\ntras mi fracaso..."
     },
     "rgV3": {
         "en-US": "[{0}]\nA fragment from\na Red Gemstone?\nMaybe... maybe it's\nevidence that someone\nsabotaged the exorcism!",
         "pt-BR": "[{0}]\nUm fragmento de\numa Gema Vermelha?\nTalvez... talvez seja\na prova que alguém\nsabotou o exorcismo!",
-        "es-ES": "[{0}]\n¿Un fragmento de\nuna Gema roja?\nTal vez… ¡tal vez sea\nevidencia de que alguien\nsaboteó el exorcismo!"
+        "es-ES": "[{0}]\n¿Un fragmento de\nuna Gema roja?\nTal vez... ¡tal vez sea\nevidencia de que alguien\nsaboteó el exorcismo!"
     },
     "rwV3": {
         "en-US": "[Bonnie Imbullea]\nWhat happened was tragic,\nbut it would make me feel\nso much better if that were\nreally the truth. Even if the\nexorcism was sabotaged,\nwe can't turn back time...",
         "pt-BR": "[Bonnie Imbullea]\nO que aconteceu foi trágico,\nmas eu me sentiria\ntão melhor se isso fosse\nverdade. Mesmo que o\nexorcismo tenha sido sabotado,\nnós não podemos fazer o tempo voltar...",
-        "es-ES": "[Bonnie Imbullea]\nLo que ocurrió fue trágico,\npero me haría sentir\nmucho mejor si eso fuera\nrealmente verdad. Incluso si\nse saboteara el exorcismo,\nno podemos volver el tiempo atrás…"
+        "es-ES": "[Bonnie Imbullea]\nLo que ocurrió fue trágico,\npero me haría sentir\nmucho mejor si eso fuera\nrealmente verdad. Incluso si\nse saboteara el exorcismo,\nno podemos volver el tiempo atrás..."
     },
     "sAV3": {
         "en-US": "[{0}]\n^333333(Hmm...\nI better head back\nto Prontera Church\nand let Father Bamph\nknow about this information.)^000000",
         "pt-BR": "[{0}]\n^333333(Hmm...\nÉ melhor eu voltar\npara a Igreja de Prontera\ne falar com o Padre Bamph\nsobre essa informação.)^000000",
-        "es-ES": "[{0}]\n^333333(Mmm…\nSerá mejor que vuelva\na la iglesia de Prontera\ny le cuente al padre Bamph\nesta información).^000000"
+        "es-ES": "[{0}]\n^333333(Mmm...\nSerá mejor que vuelva\na la iglesia de Prontera\ny le cuente al padre Bamph\nesta información).^000000"
     },
     "sQV3": {
         "en-US": "[Bonnie Imbullea]\nIt's really very\ndifficult to live\nwith this guilt.\nI was trained to help\npeople, not kill them!",
@@ -1222,17 +1222,17 @@
     "tAV3": {
         "en-US": "[Bonnie Imbullea]\nIs that really true...?\nOh, I'm so happy! I really\nthought I'd have to live the\nrest of my in seclusion with\nthis horrible shame. Oh, thank\nyou so much for your help!",
         "pt-BR": "[Bonnie Imbullea]\nÉ mesmo verdade...?\nOh, estou tão feliz! Eu realmente\nachava que teria que viver\no resto de minha vida em reclusão, com essa terrível vergonha. Oh, muito obrigada pela sua ajuda!",
-        "es-ES": "[Bonnie Imbullea]\n¿Eso es realmente cierto…?\nOh, ¡estoy tan feliz! Realmente,\npensé que tendría que vivir el\nresto de mi vida en aislamiento con\nesta horrible vergüenza. ¡Muchas gracias\npor tu ayuda!"
+        "es-ES": "[Bonnie Imbullea]\n¿Eso es realmente cierto...?\nOh, ¡estoy tan feliz! Realmente,\npensé que tendría que vivir el\nresto de mi vida en aislamiento con\nesta horrible vergüenza. ¡Muchas gracias\npor tu ayuda!"
     },
     "tQV3": {
         "en-US": "[Bonnie Imbullea]\nKaanu will be able to\nmeet other kids his own\nage... We can finally live\na normal life. How wonderful...",
         "pt-BR": "[Bonnie Imbullea]\nKaanu poderá conhecer\noutras crianças da idade\ndele... Nós finalmente poderemos\nter uma vida normal. Que maravilha...",
-        "es-ES": "[Bonnie Imbullea]\nKaanu podrá \nconocer a otros niños de su\nedad… Por fin podremos vivir\nuna vida normal. Qué maravilla…"
+        "es-ES": "[Bonnie Imbullea]\nKaanu podrá \nconocer a otros niños de su\nedad... Por fin podremos vivir\nuna vida normal. Qué maravilla..."
     },
     "tgV3": {
         "en-US": "[Bonnie Imbullea]\nBut wait...\nHow exactly did the\nprinces die, then?\nThere weren't any\nwounds on the bodies\nfrom what I remember...",
         "pt-BR": "[Bonnie Imbullea]\nMas espere...\nComo, então, os\npríncipes morreram exatamente?\nNão haviam\nferimentos em seus corpos\npelo que posso me lembrar...",
-        "es-ES": "[Bonnie Imbullea]\nPero espera…\nEntonces, ¿cómo murieron\nlos príncipes exactamente?\nNo había\nheridas en los cuerpos,\npor lo que recuerdo…"
+        "es-ES": "[Bonnie Imbullea]\nPero espera...\nEntonces, ¿cómo murieron\nlos príncipes exactamente?\nNo había\nheridas en los cuerpos,\npor lo que recuerdo..."
     },
     "twV3": {
         "en-US": "[{0}]\nWell, um, I wouldn't know\nanything about that, but\nFather Bamph and Father\nBiscuss are handling the\ninvestigation, and they're\ndoing their best to find out.",
@@ -1242,7 +1242,7 @@
     "uAV3": {
         "en-US": "[Bonnie Imbullea]\nI see. Well, I believe in\nthem: they're great priests,\nafter all. Although I may be\nforgiven for my failure, I still fear for the royal family...\nAll I can do for now is pray.",
         "pt-BR": "[Bonnie Imbullea]\nEntendo. Bem, eu acredito\nneles: eles são ótimos padres,\nafinal. Apesar de eu estar\nperdoada por meu fracasso, eu ainda tenho medo da família real...\nTudo que posso fazer agora é orar.",
-        "es-ES": "[Bonnie Imbullea]\nYa veo. Bueno, yo creo en\nellos: son grandes sacerdotes,\ndespués de todo. Aunque puede que me perdonen\npor mi fracaso, aún temo por la familia real…\nLo único que puedo hacer por ahora es rezar."
+        "es-ES": "[Bonnie Imbullea]\nYa veo. Bueno, yo creo en\nellos: son grandes sacerdotes,\ndespués de todo. Aunque puede que me perdonen\npor mi fracaso, aún temo por la familia real...\nLo único que puedo hacer por ahora es rezar."
     },
     "uQV3": {
         "en-US": "[Bonnie Imbullea]\nAnyway, I promise that\nI won't reveal what I know\nabout this incident to the\npublic. And if you ever come\nby the mountain again, I hope\nyou stop by to visit us.",
@@ -1252,17 +1252,17 @@
     "ugV3": {
         "en-US": "[Bonnie Imbullea]\nYou don't understand\nhow much the news you've\nbrought really means to me.\nI can finally free myself from\nthis burdensome guilt...\nThank you, kind adventurer~",
         "pt-BR": "[Bonnie Imbullea]\nVocê não entende\no quanto as notícias que você \nme trouxe significam para mim.\nEu posso finalmente me libertar dessa culpa tão pesada...\nObrigada, bondoso aventureiro!",
-        "es-ES": "[Bonnie Imbullea]\nNo entiendes\ncuánto realmente significan para mí \nlas noticias que me diste.\nPor fin puedo liberarme de\nesta culpa agobiante…\nGracias, amable trotamundos~."
+        "es-ES": "[Bonnie Imbullea]\nNo entiendes\ncuánto realmente significan para mí \nlas noticias que me diste.\nPor fin puedo liberarme de\nesta culpa agobiante...\nGracias, amable trotamundos~."
     },
     "uwV3": {
         "en-US": "[Bonnie Imbullea]\nBy your grace and mercy,\nplease pity the poor souls\nand protect the royal family...\nBless us with your light and\nmay your wisdom guide us...",
         "pt-BR": "[Bonnie Imbullea]\nPor sua graça e misericórdia,\npor favor, tenha piedade das pobres almas e proteja a família real...\nNos abençoe com sua luz e\nque sua sabedoria nos guie...",
-        "es-ES": "[Bonnie Imbullea]\nPor tu gracia y misericordia,\npor favor, apiádate de las pobres almas\ny protege a la familia real…\nBendícenos con tu luz, y\nque tu sabiduría nos guíe…"
+        "es-ES": "[Bonnie Imbullea]\nPor tu gracia y misericordia,\npor favor, apiádate de las pobres almas\ny protege a la familia real...\nBendícenos con tu luz, y\nque tu sabiduría nos guíe..."
     },
     "vAV3": {
         "en-US": "[Bonnie Imbullea]\nI guess we've gotten\ntoo used to the peace\nand serenity of Mount\nMjolnir. It won't be easy\nto leave, even if we're welcome to return to Prontera...",
         "pt-BR": "[Bonnie Imbullea]\nEu acho que ficamos muito\nacostumados com a paz\ne serenidade do Monte\nMjolnir. Não será fácil\npartir, mesmo que sejamos bem-vindos em Prontera...",
-        "es-ES": "[Bonnie Imbullea]\nCreo que nos acostumbramos\ndemasiado a la paz\ny serenidad del monte\nMjolnir. No será fácil irnos,\naunque nos reciban de vuelta en Prontera…"
+        "es-ES": "[Bonnie Imbullea]\nCreo que nos acostumbramos\ndemasiado a la paz\ny serenidad del monte\nMjolnir. No será fácil irnos,\naunque nos reciban de vuelta en Prontera..."
     },
     "vQV3": {
         "en-US": "^3355FFNow, you can return to\nRodafrian, the historian\nstationed in Morroc.^000000",
@@ -1277,7 +1277,7 @@
     "vwV3": {
         "en-US": "[Bonnie Imbullea]\n^333333*Sigh...*^000000",
         "pt-BR": "[Bonnie Imbullea]\n^333333*suspiro*^000000",
-        "es-ES": "[Bonnie Imbullea]\n^333333*Suspira…*^000000"
+        "es-ES": "[Bonnie Imbullea]\n^333333*Suspira...*^000000"
     },
     "wAV3": {
         "en-US": "Father Bamph",
@@ -1302,7 +1302,7 @@
     "xAV3": {
         "en-US": "[Father Bamph]\nMay I ask...\nWhy are you giving\nme this pouch of herbs?",
         "pt-BR": "[Padre Bamph]\nPosso perguntar...\nPor que você está me dando\nessa bolsa com ervas?",
-        "es-ES": "[Padre Bamph]\nPuedo preguntarte…\n¿Por qué me das\nesta bolsa de hierbas?"
+        "es-ES": "[Padre Bamph]\nPuedo preguntarte...\n¿Por qué me das\nesta bolsa de hierbas?"
     },
     "xQV3": {
         "en-US": "[{0}]\nWell, there was this\nlady living on Mount\nMjolnir who wanted me\nto give this to you. Um, she\nhas a son named Kaanu?",
@@ -1317,7 +1317,7 @@
     "xwV3": {
         "en-US": "[{0}]\nOh...\nI guess she's fine.\nBut she seems really...\nI dunno, tormented...",
         "pt-BR": "[{0}]\nAh...\nEla está bem, eu acho.\nMas parece muito...\nSei lá, atormentada...",
-        "es-ES": "[{0}]\nAh…\nSupongo que está bien.\nPero parece realmente…\nno sé, atormentada…"
+        "es-ES": "[{0}]\nAh...\nSupongo que está bien.\nPero parece realmente...\nno sé, atormentada..."
     },
     "yAV3": {
         "en-US": "[Father Biscuss]\nGood! If she were happy\nand relaxed after what she\ndid, not even God would forgive\nher! She deserves to live the\nrest of her life in agony!",
@@ -1337,7 +1337,7 @@
     "ywV3": {
         "en-US": "[Father Bampf]\n......\n.........\n............",
         "pt-BR": "[Padre Bamph]\n......\n.........\n............",
-        "es-ES": "[Padre Bampf]\n……\n………\n……………"
+        "es-ES": "[Padre Bampf]\n......\n.........\n..............."
     },
     "zAV3": {
         "en-US": "[Father Biscuss]\nHah!",
@@ -1352,7 +1352,7 @@
     "zgV3": {
         "en-US": "[Father Bamph]\nWell...\nI don't...\nI don't know if\nI should be telling\nyou about that incident...",
         "pt-BR": "[Padre Bamph]\nBem...\nEu não...\nEu não sei se\ndeveria lhe contar \nsobre aquele incidente...",
-        "es-ES": "[Padre Bamph]\nBueno…\nNo…\nNo sé si\nDebería contarte \nsobre ese incidente…"
+        "es-ES": "[Padre Bamph]\nBueno...\nNo...\nNo sé si\nDebería contarte \nsobre ese incidente..."
     },
     "zwV3": {
         "en-US": "[Father Biscuss]\nYou know what? If Bonnie\nsent this adventurer here\nfor a favor, it probably means\nshe trusts this person. Besides, we need somebody to carry out",
@@ -1372,7 +1372,7 @@
     "0gV3": {
         "en-US": "[Father Bamph]\nYour words have the ring\nof truth, Father Biscuss.\nWell then, adventurer, give\nme the opportunity to tell you\nsomething very important. But, you must not tell anyone else...",
         "pt-BR": "[Padre Bamph]\nSuas palavras têm o dom\nda verdade, Padre Biscuss.\nBem, aventureiro, me dê \na chance de lhe contar\nalgo muito importante. Mas, você não poderá dizer a ninguém...",
-        "es-ES": "[Padre Bamph]\nParece que tus palabras\nson verdaderas, padre Biscuss.\nPues bien, trotamundos,\npermíteme contarte\nalgo muy importante. Pero no debes decírselo a nadie más…"
+        "es-ES": "[Padre Bamph]\nParece que tus palabras\nson verdaderas, padre Biscuss.\nPues bien, trotamundos,\npermíteme contarte\nalgo muy importante. Pero no debes decírselo a nadie más..."
     },
     "0wV3": {
         "en-US": "[Father Bamph]\nWhat I am about to tell\nyou must be kept secret.\nNow, do you know about\nJormungand, the great serpent\nborn from the god Loki and\nthe giantess, Angrboda?",
@@ -1382,7 +1382,7 @@
     "1AV3": {
         "en-US": "[Father Bamph]\nJormungand was an evil\nbeast that, after the thousand\nyear war between the gods and\ndemons, began to attack humans.\nIt brought great chaos and much\nsuffering around the world...",
         "pt-BR": "[Padre Bamph]\nJormungand era uma besta\nmaligna que, após a guerra dos\nmil anos entre os deuses e\ndemônios, começou a atacar humanos.\nEla trouxe um grande caos e muito\nsofrimento ao mundo todo...",
-        "es-ES": "[Padre Bamph]\nJormungand era una bestia\nmalvada que, tras la guerra\nde los mil años entre los dioses y\nlos demonios, comenzó a atacar a los humanos.\nProvocó un gran caos y mucho\nsufrimiento en todo el mundo…"
+        "es-ES": "[Padre Bamph]\nJormungand era una bestia\nmalvada que, tras la guerra\nde los mil años entre los dioses y\nlos demonios, comenzó a atacar a los humanos.\nProvocó un gran caos y mucho\nsufrimiento en todo el mundo..."
     },
     "1QV3": {
         "en-US": "[Father Bamph]\nFinally, the first Tristram of\nthe Gaebolg family defeated\nJormungand together with 6\nother warriors, but only after\nit killed his beloved father.",
@@ -1397,17 +1397,17 @@
     "1wV3": {
         "en-US": "[Father Bamph]\nTo this day...\n^FF0000Every first prince of\nthe Gaebolg family dies\nat a young age^000000. That is\nJormungand's curse and\nthe royal family's secret.",
         "pt-BR": "[Padre Bamph]\nAté hoje...\n^FF0000Todo o primeiro príncipe\nda família Gaebolg morre\nenquanto jovem^000000. Essa é \na maldição de Jormungand e,\no segredo da família real.",
-        "es-ES": "[Padre Bamph]\nHasta el día de hoy…\n^FF0000Todo primer príncipe de\nla familia Gaebolg muere\na una edad temprana^000000. Esa es la maldición\nde Jormungand y\nel secreto de la familia real."
+        "es-ES": "[Padre Bamph]\nHasta el día de hoy...\n^FF0000Todo primer príncipe de\nla familia Gaebolg muere\na una edad temprana^000000. Esa es la maldición\nde Jormungand y\nel secreto de la familia real."
     },
     "2AV3": {
         "en-US": "[{0}]\nWhat...?!\nIs this really true?!\nIsn't there any way to\ncounter this horrible curse?!",
         "pt-BR": "[{0}]\nQuê...?\nÉ mesmo verdade...?!\nNão há nenhuma outra maneira de\nanular essa horrível maldição?!",
-        "es-ES": "[{0}]\n¡¿Qué…?!\n¡¿Es realmente cierto?!\n¡¿No hay forma de\ncontrarrestar esta horrible maldición?!"
+        "es-ES": "[{0}]\n¡¿Qué...?!\n¡¿Es realmente cierto?!\n¡¿No hay forma de\ncontrarrestar esta horrible maldición?!"
     },
     "2QV3": {
         "en-US": "[Father Bamph]\nPlease lower your voice.\nYes, it's a shame that the\nroyal family must suffer like\nthis. But all the exorcisms\nthat have been attempted\nover the years have failed...",
         "pt-BR": "[Padre Bamph]\nPor favor, abaixe a sua voz.\nSim, é uma vergonha que a\nfamília real deva sofrer dessa\nmaneira. Mas todos os exorcismos\nque foram tentados durante\nos anos, fracassaram...",
-        "es-ES": "[Padre Bamph]\nPor favor, baja la voz.\nSí, es una pena que\nla familia real tenga que sufrir\nesto. Pero todos los exorcismos\nque se han intentado hacer\na lo largo de los años han fracasado…"
+        "es-ES": "[Padre Bamph]\nPor favor, baja la voz.\nSí, es una pena que\nla familia real tenga que sufrir\nesto. Pero todos los exorcismos\nque se han intentado hacer\na lo largo de los años han fracasado..."
     },
     "2gV3": {
         "en-US": "[Father Bamph]\nAlthough the situation\nappeared hopeless, King\nTristram III tried once again  to exorcise the curse. Following\nhis orders, the greatest priests and exorcists were all summoned.",
@@ -1437,12 +1437,12 @@
     "3wV3": {
         "en-US": "[{0}]\nWhat...?\nThat's...\nThat's crazy!",
         "pt-BR": "[{0}]\nQuê...?\nIsso é...\nIsso é loucura!",
-        "es-ES": "[{0}]\n¿Qué…?\nEso es…\n¡Qué locura!"
+        "es-ES": "[{0}]\n¿Qué...?\nEso es...\n¡Qué locura!"
     },
     "4AV3": {
         "en-US": "[Father Biscuss]\nI know that this\nis a very long story,\nand that it's a little\ncomplicated. Please\nlisten to what we have\nto ask from here on...",
         "pt-BR": "[Padre Biscuss]\nEu sei disso. Essa é \numa história muito longa,\ne que também é um pouco\ncomplicada. Por favor,\nescute o que nós temos que lhe\npedir de agora em diante...",
-        "es-ES": "[Padre Biscuss]\nSé que esta\nhistoria es muy larga,\ny que es un poco\ncomplicada. Por favor,\nescucha lo que tenemos\nque pedir de aquí en adelante…"
+        "es-ES": "[Padre Biscuss]\nSé que esta\nhistoria es muy larga,\ny que es un poco\ncomplicada. Por favor,\nescucha lo que tenemos\nque pedir de aquí en adelante..."
     },
     "4QV3": {
         "en-US": "[Father Bamph]\nNow, you should know that\nall of the princes that were\nkilled that day bore strange\nlooking marks on their bodies.\nIt almost looked as if they\nwere growing snake scales.",
@@ -1457,7 +1457,7 @@
     "4wV3": {
         "en-US": "[Father Bamph]\nWait, that song?\nHm, I don't see how\nit's related. Let's see\nnow, how did it go?\nRainbows... Eagles...\nAh! Now I remember!",
         "pt-BR": "[Padre Bamph]\nEspere, que canção?\nHmmm, não vejo como\nisso possa estar relacionado. Vamos ver, como era mesmo?\nArcos-íris... Águias...\nAh! Agora eu me lembro!",
-        "es-ES": "[Padre Bamph]\nEspera, ¿esa canción?\nMmm, no veo cómo\npuede estar relacionada. Veamos,\n¿cómo decía?\nArco iris… Águilas…\n¡Ah! ¡Ahora me acuerdo!"
+        "es-ES": "[Padre Bamph]\nEspera, ¿esa canción?\nMmm, no veo cómo\npuede estar relacionada. Veamos,\n¿cómo decía?\nArco iris... Águilas...\n¡Ah! ¡Ahora me acuerdo!"
     },
     "5AV3": {
         "en-US": "[Father Bamph]\nThe great serpent\nswallowed the sea.\nThe eagle of the rainbow\nswallowed the serpent.\nThen the eagle built its nest.\nA nest upon the swallowed sea.",
@@ -1467,7 +1467,7 @@
     "5QV3": {
         "en-US": "[{0}]\nHmm...\nWell, I heard a\ndifferent version\nof the same song.\nIt goes like...",
         "pt-BR": "[{0}]\nHmm...\nBem, eu escutei uma\nversão diferente\ndessa mesma canção.\nÉ assim...",
-        "es-ES": "[{0}]\nMmm…\nBueno, escuché una\nversión diferente\nde la misma canción.\nDice así…"
+        "es-ES": "[{0}]\nMmm...\nBueno, escuché una\nversión diferente\nde la misma canción.\nDice así..."
     },
     "5gV3": {
         "en-US": "[{0}]\nThe great serpent\nswallowed the sea.\nThe eagle of the rainbow\nswallowed the serpent.\nThen snake scales grew on\nthe eagle, and it slowly died.",
@@ -1492,7 +1492,7 @@
     "6gV3": {
         "en-US": "[Father Bamph]\nIf you can, please try to\nsee if you can learn of any\nconnection between the curse\nand the song, or if she can\nremember anything that happened\nafter the exorcism failed...",
         "pt-BR": "[Padre Bamph]\nSe você puder, por favor tente\nver se consegue descobrir qualquer\nligação entre a maldição e\na canção, ou se ela consegue se lembrar de qualquer coisa que tenha acontecido.\napós o exorcismo ter fracassado...",
-        "es-ES": "[Padre Bamph]\nSi puedes, intenta\nenterarte de alguna\nconexión entre la maldición\ny la canción, o saber si\nella puede recordar algo de lo sucedido\nluego de que el exorcismo fallara…"
+        "es-ES": "[Padre Bamph]\nSi puedes, intenta\nenterarte de alguna\nconexión entre la maldición\ny la canción, o saber si\nella puede recordar algo de lo sucedido\nluego de que el exorcismo fallara..."
     },
     "6wV3": {
         "en-US": "[Father Bamph]\nPlease visit Bonnie\nImbullea in Mount Mjolnir\nto see if you can learn more\nabout that song, or about what\nhappened after the attempted exorcism of the Jormungand curse.",
@@ -1547,7 +1547,7 @@
     "9QV3": {
         "en-US": "[Father Bamph]\nAh, you've returned~\nHave you managed to learn\nanything about poison from\nthe Assassin Guild? I know\ntheir members must be\nvery difficult to find...",
         "pt-BR": "[Padre Bamph]\nAh, você retornou!\nVocê conseguiu descobrir\nalguma coisa sobre venenos com\na Guilda dos Mercenários? Sei que\nseus integrantes devem ser\nmuito difíceis de encontrar...",
-        "es-ES": "[Padre Bamph]\nAh, volviste~.\n¿Pudiste enterarte de\nalgo sobre el veneno tras investigar al\ngremio de Asesinos? Sé que\nsus miembros deben de ser\nmuy difíciles de encontrar…"
+        "es-ES": "[Padre Bamph]\nAh, volviste~.\n¿Pudiste enterarte de\nalgo sobre el veneno tras investigar al\ngremio de Asesinos? Sé que\nsus miembros deben de ser\nmuy difíciles de encontrar..."
     },
     "9gV3": {
         "en-US": "^3355FFYou relate all of the\ninformation you learned\nabout poison to Father Bamph,\nincluding the method to test\nfor the use of poison in murder.",
@@ -1567,12 +1567,12 @@
     "+QV3": {
         "en-US": "[Father Bamph]\nI can't believe it!\nIf poison was used, then\nthe second and third princes\nwere murdered! Unbelievable...\nHow can anyone kill children?",
         "pt-BR": "[Padre Bamph]\nNão posso acreditar!\nSe houve veneno envolvido nisso, então o segundo e o terceiro príncipe\nforam assassinados! Inacreditável...\nComo alguém pode assassinar crianças?",
-        "es-ES": "[Padre Bamph]\nNo puedo creerlo.\nSi se usó veneno, ¡entonces\nel segundo y el tercer príncipe\nfueron víctimas de un asesinato! Increíble…\n¿Cómo puede alguien matar a niños?"
+        "es-ES": "[Padre Bamph]\nNo puedo creerlo.\nSi se usó veneno, ¡entonces\nel segundo y el tercer príncipe\nfueron víctimas de un asesinato! Increíble...\n¿Cómo puede alguien matar a niños?"
     },
     "+gV3": {
         "en-US": "[Father Bamph]\nAt the very least, we now\nknow that their deaths were\nnot Bonnie Imbullea's fault.\nNow I must discuss with Father\nBiscuss and decide how to tell\nthe royal family about this...",
         "pt-BR": "[Padre Bamph]\nNo mínimo, nós sabemos agora\nque as suas mortes não foram\nculpa de Bonnie Imbullea.\nAgora, eu devo conversar com o Padre\nBiscuss e decidir como falar isso\nà família real...",
-        "es-ES": "[Padre Bamph]\nAl menos, ahora sabemos\nque sus muertes no fueron\nculpa de Bonnie Imbullea.\nAhora debo hablar con el padre\nBiscuss y decidir cómo contarle\na la familia real sobre esto…"
+        "es-ES": "[Padre Bamph]\nAl menos, ahora sabemos\nque sus muertes no fueron\nculpa de Bonnie Imbullea.\nAhora debo hablar con el padre\nBiscuss y decidir cómo contarle\na la familia real sobre esto..."
     },
     "+wV3": {
         "en-US": "[Father Bamph]\nOnce again, let me remind\nyou that everything that has\ntranspired here must be kept\nsecret. The public cannot know\nof Jormungand's curse! It would cause political turmoil and chaos!",
@@ -1587,7 +1587,7 @@
     "/QV3": {
         "en-US": "[Father Bamph]\nI'm at a loss at what\nto do. Sometimes, even\nI have doubts and believe\nthat Odin has abandoned us...",
         "pt-BR": "[Padre Bamph]\nEu estou perdido sobre\no que fazer. Às vezes até mesmo\neu tenho dúvidas, e acho\nque Odin nos abandonou...",
-        "es-ES": "[Padre Bamph]\nNo sé qué \nhacer. A veces, incluso\ntengo dudas y creo\nque Odín nos ha abandonado…"
+        "es-ES": "[Padre Bamph]\nNo sé qué \nhacer. A veces, incluso\ntengo dudas y creo\nque Odín nos ha abandonado..."
     },
     "/gV3": {
         "en-US": "[Father Bamph]\nAh, I see. Then, would\nyou please bring^3131FF 1 Yellow\nGemstone^000000 and ^3131FF1 Green Potion^000000\nto the secret ceremonial grounds as soon as you can? I will wait\nover there for you once again.",
@@ -1602,7 +1602,7 @@
     "AAZ3": {
         "en-US": "[Father Bamph]\nOh, and would you please\ninform ^3131FFBonnie Imbullea^000000 that\nthe deaths of the princes were\nnot her fault? I'm sure that news would bring her great relief\nfrom her burden of guilt...",
         "pt-BR": "[Padre Bamph]\nAh, e você poderia, por favor,\navisar ^3131FFBonnie Imbullea^000000 de que\nas mortes dos príncipes não\nforam culpa dela? Eu tenho certeza que essa notícia traria um grande alívio para ela compensando o fardo de sua culpa...",
-        "es-ES": "[Padre Bamph]\nAh, ¿y podrías\ndecirle a ^3131FFBonnie Imbullea^000000 que\nlas muertes de los príncipes no fueron\nsu culpa? Estoy seguro de que esa noticia la aliviará de\nla gran culpa que siente…"
+        "es-ES": "[Padre Bamph]\nAh, ¿y podrías\ndecirle a ^3131FFBonnie Imbullea^000000 que\nlas muertes de los príncipes no fueron\nsu culpa? Estoy seguro de que esa noticia la aliviará de\nla gran culpa que siente..."
     },
     "AQZ3": {
         "en-US": "[Father Bamph]\nHave you spoken to\nBonnie Imbullea yet?\nTry not to worry about the\nnews about the princes'\nmurder. Father Biscuss\nand I will handle it.",
@@ -1637,12 +1637,12 @@
     "BwZ3": {
         "en-US": "[Father Biscuss]\nLand to the west?\nThat place is rumored to\nbe populated by fanatics.\nFather Bamph, I think they\nmay be prime suspects for\nthe murder of the princes...",
         "pt-BR": "[Padre Biscuss]\nTerra ao oeste?\nAquele lugar tem fama de\nser povoado por fanáticos.\nPadre Bamph, eu acho que eles\npodem ser os suspeitos principais do\nassassinato dos príncipes...",
-        "es-ES": "[Padre Biscuss]\n¿Tierra al oeste?\nSe rumorea que ese lugar\nestar poblado de fanáticos.\nPadre Bamph, creo que\npueden ser los principales sospechosos\ndel asesinato de los príncipes…"
+        "es-ES": "[Padre Biscuss]\n¿Tierra al oeste?\nSe rumorea que ese lugar\nestar poblado de fanáticos.\nPadre Bamph, creo que\npueden ser los principales sospechosos\ndel asesinato de los príncipes..."
     },
     "CAZ3": {
         "en-US": "[Father Bamph]\nWell, I'll admit that it's\npossible, but we haven't had\ncontact with anyone from the\nland to the west for so long...\nIt's still far too early to make those kinds of assumptions.",
         "pt-BR": "[Padre Bamph]\nBem, eu admito que é possível,\nmas nós não temos contato\ncom ninguém daquela terra\ndo oeste já faz tanto tempo...\nAinda é muito cedo para fazer esse tipo de suposições.",
-        "es-ES": "[Padre Bamph]\nBueno, admito que es\nposible, pero no hemos tenido\ncontacto con nadie de\nla tierra al oeste durante tanto tiempo…\nAún es demasiado pronto para hacer ese tipo de suposiciones."
+        "es-ES": "[Padre Bamph]\nBueno, admito que es\nposible, pero no hemos tenido\ncontacto con nadie de\nla tierra al oeste durante tanto tiempo...\nAún es demasiado pronto para hacer ese tipo de suposiciones."
     },
     "CQZ3": {
         "en-US": "Land to the west?",
@@ -1652,7 +1652,7 @@
     "CgZ3": {
         "en-US": "[Father Bamph]\nNot much is known about\nthe land to the west. We\ndid send several priests\nthere once to spread our\nfaith. However, they failed...",
         "pt-BR": "[Padre Bamph]\nNão se conhece muito sobre\na terra ao oeste. Nós\numa vez enviamos vários\nsacerdotes para espalhar a nossa\nfé. Porém, eles falharam...",
-        "es-ES": "[Padre Bamph]\nNo se sabe mucho sobre\nla tierra al oeste. Enviamos\na varios Sacerdotes\nallí una vez para difundir nuestra\nfe. Sin embargo, fracasaron…"
+        "es-ES": "[Padre Bamph]\nNo se sabe mucho sobre\nla tierra al oeste. Enviamos\na varios Sacerdotes\nallí una vez para difundir nuestra\nfe. Sin embargo, fracasaron..."
     },
     "CwZ3": {
         "en-US": "[Father Bamph]\nFrom what I can tell,\nalmost everyone there\nis a strong adherent of\nthat region's native religion.\nAnyway, thank you for informing\nus. We'll handle it from here.",
@@ -1667,7 +1667,7 @@
     "DQZ3": {
         "en-US": "[Father Bamph]\nI'm sorry, but would it\nbe alright if we talked\nlater? I have to handle\na very important task now...",
         "pt-BR": "[Padre Bamph]\nDesculpe-me, mas será que\npoderíamos conversar mais\ndepois? Eu tenho uma tarefa\nmuito importante para terminar agora...",
-        "es-ES": "[Padre Bamph]\nLo siento, pero ¿podríamos\nhablar\nmás tarde? Tengo que ocuparme de\nuna tarea muy importante ahora…"
+        "es-ES": "[Padre Bamph]\nLo siento, pero ¿podríamos\nhablar\nmás tarde? Tengo que ocuparme de\nuna tarea muy importante ahora..."
     },
     "DgZ3": {
         "en-US": "[Father Bamph]\nOh, I've been waiting for\nyou, adventurer. I'm sorry\nfor giving you such short\nnotice, but it seems that\nyou've grown much stronger\nsince the last time we met.",
@@ -1707,7 +1707,7 @@
     "FQZ3": {
         "en-US": "[Father Bamph]\nI see. We've detected some\ndisquieting activity from\nArunafeltz lately, but I didn't\nthink they would make\ntheir move so soon. Hmm...\nGive me a moment to think...",
         "pt-BR": "[Padre Bamph]\nEntendo... Detectamos certa\natividade inquietante de \nArunafeltz ultimamente, mas\nnão acho que eles fariam qualquer\nação tão cedo. Hmm...\nDeixe-me pensar por um momento...",
-        "es-ES": "[Padre Bamph]\nYa veo. Hemos detectado cierta\nactividad inquietante en\nArunafeltz últimamente, pero\nno creí que actuarían\ntan pronto. Mmm…\nDame un momento para pensar…"
+        "es-ES": "[Padre Bamph]\nYa veo. Hemos detectado cierta\nactividad inquietante en\nArunafeltz últimamente, pero\nno creí que actuarían\ntan pronto. Mmm...\nDame un momento para pensar..."
     },
     "FgZ3": {
         "en-US": "[Father Bamph]\nWell, I've considered all\npossible scenarios. I think\nit would work best if you\ncontinue your investigation\non our behalf. That is, if\nyou're willing to do it.",
@@ -1747,27 +1747,27 @@
     "HQZ3": {
         "en-US": "[Father Bamph]\nHmm... What's the best way\nfor us to handle this? Let\nme think about our options.\nWe can--no. That wouldn't\nwork. This will be difficult...",
         "pt-BR": "[Padre Bamph]\nHmm... Qual seria o melhor caminho\na seguir nesta situação?\nDeixe-me pensar nas opções que temos...\nQuem sabe podemos-- não.. Não daria certo.\nIsso será bem difícil...",
-        "es-ES": "[Padre Bamph]\nMmm… ¿Cuál es la mejor manera\nde que encaremos esto? Déjame\nconsiderar nuestras opciones.\nPodemos--no. Eso no\nfuncionaría. Esto será difícil…"
+        "es-ES": "[Padre Bamph]\nMmm... ¿Cuál es la mejor manera\nde que encaremos esto? Déjame\nconsiderar nuestras opciones.\nPodemos--no. Eso no\nfuncionaría. Esto será difícil..."
     },
     "HgZ3": {
         "en-US": "[Father Bamph]\nYou might have problems\nin Rachel since the culture\nthere is much different than\nour own. Their ways of doing\nthings, their government...\nEverything is tied to religion.",
         "pt-BR": "[Padre Bamph]\nTalvez você tenha problemas em\nRachel, já que a cultura local\né muito diferente da nossa.\nA maneira com que fazem coisas,\no governo deles...\nTudo está atrelado à religião.",
-        "es-ES": "[Padre Bamph]\nPuede que tengas problemas\nen Rachel, ya que la cultura\nallí es muy diferente a\nla nuestra. Sus formas de hacer\nlas cosas, su gobierno…\nTodo está ligado a la religión."
+        "es-ES": "[Padre Bamph]\nPuede que tengas problemas\nen Rachel, ya que la cultura\nallí es muy diferente a\nla nuestra. Sus formas de hacer\nlas cosas, su gobierno...\nTodo está ligado a la religión."
     },
     "HwZ3": {
         "en-US": "[Father Bamph]\nThank you so much for all\nof your hard work. Our agents\nwill contact you whenever they\nuncover any new information.\nRemember that no one can\nknow what we've been doing...",
         "pt-BR": "[Padre Bamph]\nMuito obrigado pelo seu trabalho.\nNossos agentes entrarão em contato\nassim que tiverem novas informações.\nLembre-se que ninguém deve saber\no que estivemos fazendo...",
-        "es-ES": "[Padre Bamph]\nMuchas gracias por\ntu duro trabajo. Nuestros agentes\nte contactarán cuando descubran\nnueva información.\nRecuerda que nadie puede\nsaber lo que hemos estado haciendo…"
+        "es-ES": "[Padre Bamph]\nMuchas gracias por\ntu duro trabajo. Nuestros agentes\nte contactarán cuando descubran\nnueva información.\nRecuerda que nadie puede\nsaber lo que hemos estado haciendo..."
     },
     "IAZ3": {
         "en-US": "[Father Bamph]\nThank you for bring us such\nimportant information. With\nyour help, we were able to\nclear a few unsolved cases.\nWe expected something like\nthis, but not this soon...",
         "pt-BR": "[Padre Bamph]\nObrigado por nos trazer informações\ntão importantes. Com sua ajuda nos\nfoi possível esclarecer alguns casos\npendentes.\nJá esperávamos algo assim, mas não\ntão cedo...",
-        "es-ES": "[Padre Bamph]\nGracias por traernos\ninformación tan importante. Con\ntu ayuda, pudimos\nesclarecer algunos casos sin resolver.\nEsperábamos algo como\nesto, pero no tan pronto…"
+        "es-ES": "[Padre Bamph]\nGracias por traernos\ninformación tan importante. Con\ntu ayuda, pudimos\nesclarecer algunos casos sin resolver.\nEsperábamos algo como\nesto, pero no tan pronto..."
     },
     "IQZ3": {
         "en-US": "[Father Bamph]\nI fear that the Royal Court\nhas been bickering over their\nown selfish needs. I pray that\nit does not grow worse, devolve\ninto chaos. ^666666*Sigh*^000000 We'll see...",
         "pt-BR": "[Padre Bamph]\nTemo que a Corte Real estivesse\nse importando somente com\nsuas necessidades egoistas. Rezo para que a situação não piore, se torne o caos.\n^666666*Suspiro*^000000 Veremos...",
-        "es-ES": "[Padre Bamph]\nTemo que la corte real\nha estado discutiendo sobre sus\npropias necesidades egoístas. Rezo para que\nno empeore, no desemboque\nen un caos. ^666666*Suspiro*^000000 Ya veremos…"
+        "es-ES": "[Padre Bamph]\nTemo que la corte real\nha estado discutiendo sobre sus\npropias necesidades egoístas. Rezo para que\nno empeore, no desemboque\nen un caos. ^666666*Suspiro*^000000 Ya veremos..."
     },
     "IgZ3": {
         "en-US": "[Father Bamph]\nIt's upsetting to me that\nArunafeltz has been so quiet\nlately. You know the expression\nabout there being a quiet lull\nbefore a raging storm, right?",
@@ -1802,7 +1802,7 @@
     "KAZ3": {
         "en-US": "[Father Biscuss]\nPersonally, I feel that\nwhat happened was tragic,\nbut it should be avenged.\nPerhaps that why I've held\na grudge against Imbullea\nfor all this time. Anyway...",
         "pt-BR": "[Padre Biscuss]\nPessoalmente, eu sinto que o que\naconteceu foi trágico,\nmas teremos nossa vingança.\nTalvez seja por isso que eu tenha\nmantido rancor contra Imbullea\ntodo esse tempo. De qualquer forma...",
-        "es-ES": "[Padre Biscuss]\nPersonalmente, creo que\nlo que ocurrió fue trágico,\npero hay que vengarlo.\nTal vez por eso le guardé \nrencor a Imbullea\ndurante todo este tiempo. En fin…"
+        "es-ES": "[Padre Biscuss]\nPersonalmente, creo que\nlo que ocurrió fue trágico,\npero hay que vengarlo.\nTal vez por eso le guardé \nrencor a Imbullea\ndurante todo este tiempo. En fin..."
     },
     "KQZ3": {
         "en-US": "[Father Biscuss]\nAlthough we can't\nacknowledge it publicly,\non behalf of the Prontera\nChurch, I want to thank\nyou for all of your help.",
@@ -1817,7 +1817,7 @@
     "KwZ3": {
         "en-US": "[Father Biscuss]\nReligion becomes even\nmore important during times\nof chaos, and times of need.\nI must remain calm, especially\nwhen Father Bamph feels so bad about this whole incident...",
         "pt-BR": "[Padre Biscuss]\nA religião se torna ainda\nmais importante durante tempos\nde caos, e tempos de necessidade.\nEu devo permanecer calmo, especialmente\nquando o Padre Bamph se sente tão mal com todo esse incidente...",
-        "es-ES": "[Padre Biscuss]\nLa religión se vuelve incluso\nmás importante en épocas\nde caos y tiempos de necesidad.\nDebo mantener la calma, especialmente\ncuando el padre Bamph se siente tan mal por todo este incidente…"
+        "es-ES": "[Padre Biscuss]\nLa religión se vuelve incluso\nmás importante en épocas\nde caos y tiempos de necesidad.\nDebo mantener la calma, especialmente\ncuando el padre Bamph se siente tan mal por todo este incidente..."
     },
     "LAZ3": {
         "en-US": "[Father Biscuss]\nPlease observe\nsilence within the\nPriest Room. Thank\nyou for cooperating.",
@@ -1827,7 +1827,7 @@
     "LQZ3": {
         "en-US": "[Father Biscuss]\nHm...?\nAre you ready to\nhead back upstairs?",
         "pt-BR": "[Padre Biscuss]\nHmm...?\nVocê está pronto\npara subir a escada?",
-        "es-ES": "[Padre Biscuss]\n¿Eh…?\n¿Todo listo para\nvolver arriba?"
+        "es-ES": "[Padre Biscuss]\n¿Eh...?\n¿Todo listo para\nvolver arriba?"
     },
     "LgZ3": {
         "en-US": "Yes",
@@ -1862,7 +1862,7 @@
     "NAZ3": {
         "en-US": "[{0}]\nThat weird mark looked\njust like snake scales.\nIs... Is that the mark left\nbehind by Jormungand's curse?",
         "pt-BR": "[{0}]\nAquela marca estranha parecia\nexatamente como escama de cobra.\nIsso... É a marca deixada\npela maldição de Jormungand?",
-        "es-ES": "[{0}]\nEsa extraña marca lucía\ncomo las escamas de una serpiente.\nEsa… ¿Esa es la marca causada\npor la maldición de Jormungand?"
+        "es-ES": "[{0}]\nEsa extraña marca lucía\ncomo las escamas de una serpiente.\nEsa... ¿Esa es la marca causada\npor la maldición de Jormungand?"
     },
     "NQZ3": {
         "en-US": "[Father Bamph]\nThat's right.\nNow, let's examine the\nbody of the second prince,\nlocated in the middle.",
@@ -1872,7 +1872,7 @@
     "NgZ3": {
         "en-US": "[Father Bamph]\nNow...\nNow we should\nexamine the third prince.",
         "pt-BR": "[Padre Bamph]\nAgora...\nAgora devemos\nexaminar o terceiro príncipe.",
-        "es-ES": "[Padre Bamph]\nBien…\nAhora deberíamos\nexaminar al tercer príncipe."
+        "es-ES": "[Padre Bamph]\nBien...\nAhora deberíamos\nexaminar al tercer príncipe."
     },
     "NwZ3": {
         "en-US": "[Father Bamph]\nLet's go upstairs where we\ncan continue this conversation.\nAh, you might want to ask\nFather Biscuss to lead you.",
@@ -1887,22 +1887,22 @@
     "OQZ3": {
         "en-US": "[Father Bamph]\nThe mark disappeared?\nOh, this is just horrible!\nThat would mean that poison\nwas used to murder the other\nprinces! I almost... can't...",
         "pt-BR": "[Padre Bamph]\nA marca desapareceu?\nOh, isso é horrível!\nIsso significa que foi utilizado\nveneno para matar os outros 2\npríncipes! Eu quase... não posso...",
-        "es-ES": "[Padre Bamph]\n¿La marca desapareció?\n¡Esto es horrible!\nEso significaría que el veneno\nse usó para asesinar a\nlos otros príncipes! Casi que… no puedo…"
+        "es-ES": "[Padre Bamph]\n¿La marca desapareció?\n¡Esto es horrible!\nEso significaría que el veneno\nse usó para asesinar a\nlos otros príncipes! Casi que... no puedo..."
     },
     "OgZ3": {
         "en-US": "[Father Bamph]\nI... I need some time\nto recover from the shock\nand to think about all of\nthis carefully. For now,\nlet's go back upstairs.",
         "pt-BR": "[Padre Bamph]\nEu... Eu preciso de um tempo\npara me recuperar do choque\ne pensar sobre tudo isso\ncom cuidado. Por enquanto,\nvamos voltar e subir a escada.",
-        "es-ES": "[Padre Bamph]\nYo… Necesito un tiempo\npara recuperarme del choque\ny pensar en todo\nesto con detenimiento. Por ahora,\nvolvamos arriba."
+        "es-ES": "[Padre Bamph]\nYo... Necesito un tiempo\npara recuperarme del choque\ny pensar en todo\nesto con detenimiento. Por ahora,\nvolvamos arriba."
     },
     "OwZ3": {
         "en-US": "[Father Bamph]\nWe've disturbed the\nbodies of these poor\nsouls enough. We should\ngo back upstairs now...",
         "pt-BR": "[Padre Bamph]\nNós já perturbamos os\ncorpos dessas pobres\nalmas o suficiente. Nós devemos\nsubir a escada de volta agora...",
-        "es-ES": "[Padre Bamph]\nYa hemos perturbado lo suficiente\nlos cuerpos de estas pobres\nalmas. Deberíamos\nvolver arriba ahora…"
+        "es-ES": "[Padre Bamph]\nYa hemos perturbado lo suficiente\nlos cuerpos de estas pobres\nalmas. Deberíamos\nvolver arriba ahora..."
     },
     "PAZ3": {
         "en-US": "[Father Bamph]\nThis is the body of\nthe king's first son, the\ncrown prince. Just as it has\nhappened for generations,\nthe curse took the life of\nthe first born prince...",
         "pt-BR": "[Padre Bamph]\nEste é o corpo do\nprimeiro filho do rei, o\npríncipe herdeiro. Assim como tem\nacontecido há gerações,\na maldição roubou a vida\ndo filho primogênito...",
-        "es-ES": "[Padre Bamph]\nEste es el cuerpo de\nel primer hijo del rey, el\npríncipe heredero. Al igual que ha\nocurrido durante generaciones,\nla maldición acabó con la vida de\nel príncipe primogénito…"
+        "es-ES": "[Padre Bamph]\nEste es el cuerpo de\nel primer hijo del rey, el\npríncipe heredero. Al igual que ha\nocurrido durante generaciones,\nla maldición acabó con la vida de\nel príncipe primogénito..."
     },
     "PQZ3": {
         "en-US": "^3355FFBeneath one of the\nprince's sleeves, you\nnotice a dark mark. Upon\npulling up the sleeve, you\nnote that the mark resembles\nthe scales of a serpent.^000000",
@@ -1922,12 +1922,12 @@
     "QAZ3": {
         "en-US": "[Father Bamph]\nThis is the body of the\nsecond prince. The curse\nis only supposed to kill\nthe firstborn prince, but\nall three princes of this\ngeneration were killed...",
         "pt-BR": "[Padre Bamph]\nEste é o corpo do\nsegundo príncipe. A maldição\nsó deveria matar o\npríncipe primogênito, mas\ntodos os três príncipes dessa\ngeração foram mortos...",
-        "es-ES": "[Padre Bamph]\nEste es el cuerpo del\nsegundo príncipe. Se supone\nque la maldición solo mata\nal príncipe primogénito, pero\nalgo mató a los tres príncipes\nde esta generación…"
+        "es-ES": "[Padre Bamph]\nEste es el cuerpo del\nsegundo príncipe. Se supone\nque la maldición solo mata\nal príncipe primogénito, pero\nalgo mató a los tres príncipes\nde esta generación..."
     },
     "QQZ3": {
         "en-US": "[Father Bamph]\nDespite our great efforts\nto exorcise this powerful\ncurse, we all failed. Those\ninvolved have begun to believe\nthat Odin may have abandoned us...",
         "pt-BR": "[Padre Bamph]\nApesar de nossos grandes esforços\npara exorcizar essa poderosa\nmaldição, todos nós fracassamos. Aqueles envolvidos começaram a acreditar que Odin pode ter nos abandonado...",
-        "es-ES": "[Padre Bamph]\nA pesar de nuestros grandes esfuerzos\npara exorcizar esta poderosa\nmaldición, todos fracasamos. Aquellos\ninvolucrados empezaron a creer\nque Odín puede habernos abandonado…"
+        "es-ES": "[Padre Bamph]\nA pesar de nuestros grandes esfuerzos\npara exorcizar esta poderosa\nmaldición, todos fracasamos. Aquellos\ninvolucrados empezaron a creer\nque Odín puede habernos abandonado..."
     },
     "QgZ3": {
         "en-US": "^3355FFYou examine the body of\nthe second prince and notice\nthat the scale marks on his\nskin are fainter, and slightly\ndifferent in color, than the\nmarks on the first prince.^000000",
@@ -1937,7 +1937,7 @@
     "QwZ3": {
         "en-US": "[{0}]\nFather Bamph...!\nLook, these marks are\ndifferent on the second\nprince than on the first\nprince! See? They're different\nin darkness and coloration.",
         "pt-BR": "[{0}]\nPadre Bamph...!\nOlhe, essas marcas do segundo \npríncipe são diferentes das marcas do primeiro príncipe! Viu? Elas são diferentes tanto na tonalidade quanto na coloração.",
-        "es-ES": "[{0}]\n¡Padre Bamph…!\nMira, ¡estas marcas son\ndiferentes en el segundo\npríncipe que en el\nprimero! ¿Ves? Son diferentes\nen oscuridad y coloración."
+        "es-ES": "[{0}]\n¡Padre Bamph...!\nMira, ¡estas marcas son\ndiferentes en el segundo\npríncipe que en el\nprimero! ¿Ves? Son diferentes\nen oscuridad y coloración."
     },
     "RAZ3": {
         "en-US": "[Father Bamph]\nGoodness, you're right!\nHow did we overlook this?\nHm, this supports the idea\nthat a conspiracy may be\ninvolved. Let's go check\nthe body of the third prince.",
@@ -1957,7 +1957,7 @@
     "RwZ3": {
         "en-US": "[Father Bamph]\nThis is very suspicious...\nThe deaths of the second and\nthird princes might have been\ncaused by murder, rather than\nthe curse. However, what could\npossibly be used to kill them?",
         "pt-BR": "[Padre Bamph]\nIsso é muito suspeito...\nAs mortes do segundo e do\nterceiro príncipe foram\ncausadas por assassinato, e não pela\nmaldição. Entretanto, o que poderia\nter sido utilizado para matá-los?",
-        "es-ES": "[Padre Bamph]\nEsto es muy sospechoso…\nLas muertes del segundo y\ntercer príncipe podrían haber sido\ncausadas por asesinato, en lugar de\npor la maldición. Ahora bien, ¿con qué \npodrían haberlos matado?"
+        "es-ES": "[Padre Bamph]\nEsto es muy sospechoso...\nLas muertes del segundo y\ntercer príncipe podrían haber sido\ncausadas por asesinato, en lugar de\npor la maldición. Ahora bien, ¿con qué \npodrían haberlos matado?"
     },
     "SAZ3": {
         "en-US": "A weapon!",
@@ -1972,12 +1972,12 @@
     "SgZ3": {
         "en-US": "[Father Bamph]\nHmm... But none of the\nbodies had any wounds\nor scarring. If that were the\ncase, I'm sure the king would\nhave declared war on someone.\nIt couldn't have been a weapon.",
         "pt-BR": "[Padre Bamph]\nHmm... Mas nenhum desses\ncorpos teve ferimentos\nou cicatrizes. Se esse fosse o\ncaso, eu tenho certeza que o rei\nteria declarado guerra contra alguém.\nNão poderia ter sido uma arma.",
-        "es-ES": "[Padre Bamph]\nMmm… Pero ninguno de los\ncuerpos tenía heridas\nni cicatrices. Si ese fuera el\ncaso, estoy seguro de que el rey\nle habría declarado la guerra a alguien.\nNo pudo haber sido un arma."
+        "es-ES": "[Padre Bamph]\nMmm... Pero ninguno de los\ncuerpos tenía heridas\nni cicatrices. Si ese fuera el\ncaso, estoy seguro de que el rey\nle habría declarado la guerra a alguien.\nNo pudo haber sido un arma."
     },
     "SwZ3": {
         "en-US": "[Father Bamph]\nPoison...?\nOh dear! No one in the\nProntera Church would know\nthe first thing about that. But\nmaybe poison was used.\nHow can we find out for sure?",
         "pt-BR": "[Padre Bamph]\nveneno...?\nOh, minha nossa! Ninguém na\nIgreja de Prontera saberia\nnada sobre isso. Mas\ntalvez veneno tenha sido usado.\nComo podemos ter certeza?",
-        "es-ES": "[Padre Bamph]\n¿Veneno…?\n¡Por todos los dioses! Nadie en la\niglesia de Prontera\nsabría nada al respecto. Pero\ntal vez se usó veneno.\n¿Cómo podemos estar seguros?"
+        "es-ES": "[Padre Bamph]\n¿Veneno...?\n¡Por todos los dioses! Nadie en la\niglesia de Prontera\nsabría nada al respecto. Pero\ntal vez se usó veneno.\n¿Cómo podemos estar seguros?"
     },
     "TAZ3": {
         "en-US": "[Father Biscuss]\nI say, you go straight to\nthe experts. Someone in the\n^FF0000Assassin Guild in Morroc^000000\nought to know. I hear they\ncan make poison that can kill\na man with just one drop!",
@@ -1987,7 +1987,7 @@
     "TQZ3": {
         "en-US": "[Father Bamph]\nAh, that's a good idea!\nHmm, but first, let's go\ncontinue this conversation\noutside, shall we? I'd prefer\nnot to disturb these bodies...",
         "pt-BR": "[Padre Bamph]\nAh, essa é uma boa idéia!\nHmmm, mas primeiro, vamos\ncontinuar com nossa conversa\nlá fora, certo? Eu prefiro não\nperturbar esses corpos...",
-        "es-ES": "[Padre Bamph]\n¡Ah, qué buena idea!\nMmm, pero primero,\ncontinuemos esta conversación\nafuera, ¿te parece? Preferiría\nno molestar a estos cuerpos…"
+        "es-ES": "[Padre Bamph]\n¡Ah, qué buena idea!\nMmm, pero primero,\ncontinuemos esta conversación\nafuera, ¿te parece? Preferiría\nno molestar a estos cuerpos..."
     },
     "TgZ3": {
         "en-US": "^3355FFYou open a bottle of\nGreen Potion and insert a\nYellow Gemstone. The gem\nquickly dissolves, conveniently\nforming a solution to test for the presense of poison. You pour\nit on the prince's scale marks.^000000",
@@ -2042,7 +2042,7 @@
     "WAZ3": {
         "en-US": "[Assassin Guildsman]\n...\n......\n.........",
         "pt-BR": "[Mercenário da Guilda]\n...\n......\n.........",
-        "es-ES": "[Asesino del gremio]\n…\n……\n………"
+        "es-ES": "[Asesino del gremio]\n...\n......\n........."
     },
     "WQZ3": {
         "en-US": "[Assassin Guildsman\nListen carefully.\nI will only tell this\nto you one time.",
@@ -2057,7 +2057,7 @@
     "WwZ3": {
         "en-US": "[Assassin Guildsman]\nNo. That look in\nyour eyes. I'm sure\nthere is a reason that\nyou have come here...",
         "pt-BR": "[Mercenário da Guilda]\nNão. Esse olhar em\nseus olhos. Tenho certeza que\nhá uma razão para você \nter vindo aqui...",
-        "es-ES": "[Asesino del gremio]\nNo. Esa mirada en\ntus ojos. Seguramente,\nhay una razón por la que\nviniste aquí…"
+        "es-ES": "[Asesino del gremio]\nNo. Esa mirada en\ntus ojos. Seguramente,\nhay una razón por la que\nviniste aquí..."
     },
     "XAZ3": {
         "en-US": "[Assassin Guildsman]\nIt's very dry and\nwindy today. I like this\nweather. It feels like it\nperfectly matches the soul\nof a true Assassin, the loner\nthat hides in the shadows.",
@@ -2107,7 +2107,7 @@
     "ZQZ3": {
         "en-US": "[Marjana]\nThe types of marks\nthat are left behind all\ndepend on the materials\nused to create the poison.\nSince some materials are\nexclusive to certain areas...",
         "pt-BR": "[Marjana]\nOs tipos de marcas\nque são deixadas\ndependem dos materiais\nusados para criar a poção.\nJá que alguns materiais são\nexclusivos de determinadas regiões...",
-        "es-ES": "[Marjana]\nLos tipos de marcas\nque dejan dependen\nde los materiales que se usan\npara crear el veneno.\nDado que algunos materiales son\nexclusivos de ciertas zonas…"
+        "es-ES": "[Marjana]\nLos tipos de marcas\nque dejan dependen\nde los materiales que se usan\npara crear el veneno.\nDado que algunos materiales son\nexclusivos de ciertas zonas..."
     },
     "ZgZ3": {
         "en-US": "[Marjana]\nWell, the type of mark\nthat was left behind could\nactually serve as some kind\nof clue. What was the mark\non the victim's body?",
@@ -2122,12 +2122,12 @@
     "aAZ3": {
         "en-US": "[Marjana]\nHmm. You know, if I had\nto guess, I would say that\npoison was probably used.\nBut the poison would have\nto originate from outside of\nthe Rune-Midgard Kingdom...",
         "pt-BR": "[Marjana]\nHmm. Sabe, se eu tivesse\nque supor, eu diria que\nisso foi causado por veneno, sim.\nMas o veneno teria que\nter sido criado fora do\nReino de Rune-Midgard...",
-        "es-ES": "[Marjana]\nMmm. Sabes, si tuviera\nque adivinar, diría que\nprobablemente se usó veneno.\nPero el veneno tendría que\nprovenir de algún lugar fuera\ndel reino de Rune-Midgard…"
+        "es-ES": "[Marjana]\nMmm. Sabes, si tuviera\nque adivinar, diría que\nprobablemente se usó veneno.\nPero el veneno tendría que\nprovenir de algún lugar fuera\ndel reino de Rune-Midgard..."
     },
     "aQZ3": {
         "en-US": "[Marjana]\nYeah...\nThe materials used to\nmake those snake scale\nmarks... Some of them can't\neven be found here on the\nRune-Midgard continent.",
         "pt-BR": "[Marjana]\nSim...\nOs materiais usados para\nfazer essas marcas de escama\nde cobra... alguns deles não podem\nnem ao menos serem encontrados\nno continente de Rune-Midgard.",
-        "es-ES": "[Marjana]\nSí…\nLos materiales usados para\nhacer esas marcas de escamas\nde serpiente… Algunos ni siquiera pueden\nencontrarse aquí, en el\ncontinente de Midgard."
+        "es-ES": "[Marjana]\nSí...\nLos materiales usados para\nhacer esas marcas de escamas\nde serpiente... Algunos ni siquiera pueden\nencontrarse aquí, en el\ncontinente de Midgard."
     },
     "agZ3": {
         "en-US": "[Marjana]\nWe're running out of time.\nListen, you can confirm whether\npoison was used to kill someone\nby mixing a Yellow Gemstone with a Green Potion, and sprinkling\nthe solution on the body.",
@@ -2137,7 +2137,7 @@
     "awZ3": {
         "en-US": "[Marjana]\nIf poison was used, the\nsolution will react with\nthe body. But this method\nwon't work if too much time\nhas passed after the murder.\nYou better try this soon...",
         "pt-BR": "[Marjana]\nSe foi utilizado algum veneno, a\nsolução irá reagir em contato\ncom o corpo. Mas, esse método\nnão irá funcionar se tiver\npassado muito tempo do assassinato.\nÉ melhor você experimentar isso logo...",
-        "es-ES": "[Marjana]\nSi se usó veneno, la\nsolución reaccionará con\nel cuerpo. Pero este método\nno funcionará si pasó demasiado\ntiempo después del asesinato.\nSerá mejor que pruebes esto pronto…"
+        "es-ES": "[Marjana]\nSi se usó veneno, la\nsolución reaccionará con\nel cuerpo. Pero este método\nno funcionará si pasó demasiado\ntiempo después del asesinato.\nSerá mejor que pruebes esto pronto..."
     },
     "bAZ3": {
         "en-US": "[{0}]\nHm. I'd better review\nthe facts I've learned so\nthat I can better focus on\nthis investigation. Let's see~",
@@ -2202,7 +2202,7 @@
     "eAZ3": {
         "en-US": "[Librarian]\nPlease make sure to return\nlibrary books to the correct\nplace after you use them.\nWe don't have enough staff\nto organize all these books...",
         "pt-BR": "[Bibliotecário]\nPor favor, certifique-se de colocar\nos livros da biblioteca no local\ncorreto após tê-los usado.\nNão temos pessoal suficiente\npara organizar todos esse livros...",
-        "es-ES": "[Bibliotecario]\nAsegúrate de devolver\nlos libros de la biblioteca a su\nlugar correcto después de usarlos.\nNo tenemos personal suficiente\npara organizar todos estos libros…"
+        "es-ES": "[Bibliotecario]\nAsegúrate de devolver\nlos libros de la biblioteca a su\nlugar correcto después de usarlos.\nNo tenemos personal suficiente\npara organizar todos estos libros..."
     },
     "eQZ3": {
         "en-US": "Report the loss of the books",
@@ -2227,7 +2227,7 @@
     "fQZ3": {
         "en-US": "[Librarian]\nHmm...\nCome back as soon\nas you can with the\n700 zeny to pay the\nlost book penalty charge.",
         "pt-BR": "[Bibliotecário]\nHmm...\nRetorne quando\nvocê puder com os\n700 Zenys para pagar\na pena por perda de livros.",
-        "es-ES": "[Bibliotecario]\nMmm…\nVuelve tan pronto\ncomo puedas con los\n700zeny para pagar la\nmulta por libros perdidos."
+        "es-ES": "[Bibliotecario]\nMmm...\nVuelve tan pronto\ncomo puedas con los\n700zeny para pagar la\nmulta por libros perdidos."
     },
     "fgZ3": {
         "en-US": "[Librarian]\nPlease keep silent\nwhile inside the library.\nThank you for cooperating.",
@@ -2237,7 +2237,7 @@
     "fwZ3": {
         "en-US": "[Librarian]\nBeing a librarian can\nbe pretty rough. People\njust leave the books all\nscattered, but expect them\nto be organized. Ooh, books\nare always getting lost too...",
         "pt-BR": "[Bibliotecário]\nSer um bibliotecário pode\nser dureza. As pessoas\ndeixam os livros todos\nespalhados, mas esperam encontrá-los\norganizados. Ooh, os livros\nestão sempre sendo perdidos também...",
-        "es-ES": "[Bibliotecario]\nSer bibliotecario puede\nser bastante duro. Las personas\ndejan los libros\ndispersos, pero luego esperan que\nestén organizados. Oh, los libros\nsiempre se pierden también…"
+        "es-ES": "[Bibliotecario]\nSer bibliotecario puede\nser bastante duro. Las personas\ndejan los libros\ndispersos, pero luego esperan que\nestén organizados. Oh, los libros\nsiempre se pierden también..."
     },
     "gAZ3": {
         "en-US": "[Librarian]\nWhen you have\nto clean up their\nmesses, you get to\nrealize how sloppy\npeople can really be.",

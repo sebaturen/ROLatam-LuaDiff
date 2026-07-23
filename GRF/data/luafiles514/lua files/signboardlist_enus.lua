@@ -9,7 +9,7 @@ SignBoardList_string = {
 		CONTENTS = "  Equip. Boya"
 	},
 	[4] = {
-		CONTENTS = "  Equip. 100+ "
+		CONTENTS = "  Equip. 100+"
 	},
 	[6] = {
 		CONTENTS = "  Eden Group"
@@ -30,7 +30,7 @@ SignBoardList_string = {
 		CONTENTS = "  Eden Group"
 	},
 	[12] = {
-		CONTENTS = "   Eden Group"
+		CONTENTS = "  Eden Group"
 	},
 	[13] = {
 		CONTENTS = "  Eden Group"
@@ -197,7 +197,7 @@ SignBoardList_string = {
 		CONTENTS = "  Equip. Boya"
 	},
 	[835] = {
-		CONTENTS = "  Equip. 100+ "
+		CONTENTS = "  Equip. 100+"
 	},
 	[836] = {
 		CONTENTS = "  Equip. Ur"
@@ -206,7 +206,7 @@ SignBoardList_string = {
 		CONTENTS = "  Equip. Boya"
 	},
 	[838] = {
-		CONTENTS = "  Equip. 100+ "
+		CONTENTS = "  Equip. 100+"
 	},
 	[839] = {
 		CONTENTS = "  Equip. Ur"
@@ -215,7 +215,7 @@ SignBoardList_string = {
 		CONTENTS = "  Equip. Boya"
 	},
 	[841] = {
-		CONTENTS = "  Equip. 100+ "
+		CONTENTS = "  Equip. 100+"
 	},
 	[885] = {
 		CONTENTS = "  Sword Clan"
@@ -291,9 +291,6 @@ SignBoardList_string = {
 	},
 	[928] = {
 		CONTENTS = "  Grade Up Stone"
-	},
-	[929] = {
-		CONTENTS = "  Reset Event"
 	},
 	[930] = {
 		CONTENTS = "  Jumpstart Event"

@@ -55,9 +55,9 @@
         "es-ES": "Miriam: No deja de inquietarme ese Fragmento del Corazón de Ymir que ha desaparecido. Para provocar disturbios, ya bastaba con el templo."
     },
     "q6oqDQ": {
-        "en-US": "[Miriam]\nIf Father has another plan….\nIf he is about to walk the wrong path again, then we must stop him.",
-        "pt-BR": "[Miriam]\nSe, por acaso, meu pai tiver outro plano em mente…\nSe ele estiver tentando seguir mais uma vez pelo caminho errado, teremos de impedi-lo.",
-        "es-ES": "[Miriam]\nSi padre tiene otro plan en mente…\nSi pretende volver a tomar el camino equivocado, tendré que detenerlo."
+        "en-US": "[Miriam]\nIf Father has another plan....\nIf he is about to walk the wrong path again, then we must stop him.",
+        "pt-BR": "[Miriam]\nSe, por acaso, meu pai tiver outro plano em mente...\nSe ele estiver tentando seguir mais uma vez pelo caminho errado, teremos de impedi-lo.",
+        "es-ES": "[Miriam]\nSi padre tiene otro plan en mente...\nSi pretende volver a tomar el camino equivocado, tendré que detenerlo."
     },
     "rKoqDQ": {
         "en-US": "Miriam: If Father has another plan and is about to walk the wrong path again, then we must stop him.",
@@ -155,9 +155,9 @@
         "es-ES": "¿Dónde está el señor Amal?"
     },
     "v6oqDQ": {
-        "en-US": "[Villa Servant]\nWould he not be in the chapel?\nWhenever he came here, he always looked for the chapel first….",
-        "pt-BR": "[Empregado da Vila]\nNão estaria na capela?\nSempre que vinha aqui, ele procurava primeiro a capela…",
-        "es-ES": "[Empleado de la villa]\n¿No estará en la capilla?\nSiempre que venía aquí, lo primero que hacía era ir a la capilla…"
+        "en-US": "[Villa Servant]\nWould he not be in the chapel?\nWhenever he came here, he always looked for the chapel first....",
+        "pt-BR": "[Empregado da Vila]\nNão estaria na capela?\nSempre que vinha aqui, ele procurava primeiro a capela...",
+        "es-ES": "[Empleado de la villa]\n¿No estará en la capilla?\nSiempre que venía aquí, lo primero que hacía era ir a la capilla..."
     },
     "wKoqDQ": {
         "en-US": "There is a chapel in the villa?",
@@ -175,9 +175,9 @@
         "es-ES": "¿Y los demás?"
     },
     "w6oqDQ": {
-        "en-US": "[Villa Servant]\nMost of them were suddenly dismissed.\nI was just told to leave a little while ago, but I do not know whether that means I am to quit work….",
-        "pt-BR": "[Empregado da Vila]\nA maioria foi demitida de repente.\nEu também ouvi há pouco que devia ir embora, mas não sei se isso quer dizer que devo largar o emprego…",
-        "es-ES": "[Empleado de la villa]\nA la mayoría los despidieron de repente.\nA mí también me acaban de decir que me vaya, pero no sé si eso significa que debo dejar el trabajo…"
+        "en-US": "[Villa Servant]\nMost of them were suddenly dismissed.\nI was just told to leave a little while ago, but I do not know whether that means I am to quit work....",
+        "pt-BR": "[Empregado da Vila]\nA maioria foi demitida de repente.\nEu também ouvi há pouco que devia ir embora, mas não sei se isso quer dizer que devo largar o emprego...",
+        "es-ES": "[Empleado de la villa]\nA la mayoría los despidieron de repente.\nA mí también me acaban de decir que me vaya, pero no sé si eso significa que debo dejar el trabajo..."
     },
     "xKoqDQ": {
         "en-US": "[Villa Servant]\nThe atmosphere was so hostile that I could not even ask.\nYou can reach the chapel by going up the central staircase and passing through the banquet hall.\nPlease go ahead, then.",
@@ -190,8 +190,8 @@
         "es-ES": "[Empleado de la villa]\nEl señor Amal fue a la capilla.\nSuba por la escalera central, cruce el salón de banquetes y llegará a la capilla."
     },
     "xqoqDQ": {
-        "en-US": "Why is everything so chaotic today…?",
-        "pt-BR": "Por que hoje está tudo tão caótico…?",
+        "en-US": "Why is everything so chaotic today...?",
+        "pt-BR": "Por que hoje está tudo tão caótico...?",
         "es-ES": "¿Por qué estará hoy todo tan revuelto...?"
     },
     "x6oqDQ": {
@@ -600,8 +600,8 @@
         "es-ES": "Schulang"
     },
     "GKsqDQ": {
-        "en-US": "[Schulang]\nAdventurer…. So you did not come alone?\nWho is your leader?",
-        "pt-BR": "[Schulang]\nAventureiro…. então você não veio sozinho?\nQuem é o líder de vocês?",
+        "en-US": "[Schulang]\nAdventurer.... So you did not come alone?\nWho is your leader?",
+        "pt-BR": "[Schulang]\nAventureiro.... então você não veio sozinho?\nQuem é o líder de vocês?",
         "es-ES": "[Schulang]\nAventurero... Así que no has venido solo.\n¿Quién es el líder de vuestro grupo?"
     },
     "GasqDQ": {
@@ -730,13 +730,13 @@
         "es-ES": "Yus: Ellos contemplarán con sus propios ojos el milagro de lady Freyja y serán sus testigos. ¡Postraos a los pies de la deidad y renaced como siervos suyos!"
     },
     "MqsqDQ": {
-        "en-US": "[Bagot]\nOh, come on…. Old man. That way of talking, honestly.\nStill, a promise is a promise, so I am protecting you. Understood?",
-        "pt-BR": "[Bagot]\nAi…. velhote. Esse seu jeito de falar, viu.\nMas como fizemos um acordo, eu estou protegendo você. Entendeu?",
+        "en-US": "[Bagot]\nOh, come on.... Old man. That way of talking, honestly.\nStill, a promise is a promise, so I am protecting you. Understood?",
+        "pt-BR": "[Bagot]\nAi.... velhote. Esse seu jeito de falar, viu.\nMas como fizemos um acordo, eu estou protegendo você. Entendeu?",
         "es-ES": "[Bagot]\nUf... viejo. Vaya forma de hablar tienes.\nPero como hicimos un trato, soy yo quien te está protegiendo. ¿Entendido?"
     },
     "M6sqDQ": {
-        "en-US": "Bagot: Oh, come on…. Old man. That way of talking, honestly. Still, a promise is a promise, so I am protecting you. Understood?",
-        "pt-BR": "Bagot: Ai…. velhote. Esse seu jeito de falar, viu. Mas como fizemos um acordo, eu estou protegendo você. Entendeu?",
+        "en-US": "Bagot: Oh, come on.... Old man. That way of talking, honestly. Still, a promise is a promise, so I am protecting you. Understood?",
+        "pt-BR": "Bagot: Ai.... velhote. Esse seu jeito de falar, viu. Mas como fizemos um acordo, eu estou protegendo você. Entendeu?",
         "es-ES": "Bagot: Uf... viejo. Vaya forma de hablar tienes. Pero como hicimos un trato, soy yo quien te está protegiendo. ¿Entendido?"
     },
     "NKsqDQ": {
@@ -775,24 +775,24 @@
         "es-ES": "Bagot: ¡Para este Bagot, preparar un recipiente donde pueda descender una deidad no es nada del otro mundo~!"
     },
     "O6sqDQ": {
-        "en-US": "[The Being Called a God]\n ….",
-        "pt-BR": "[Ser chamado de deus]\n ….",
-        "es-ES": "[Ser llamado dios]\n …."
+        "en-US": "[The Being Called a God]\n ....",
+        "pt-BR": "[Ser chamado de deus]\n ....",
+        "es-ES": "[Ser llamado dios]\n ...."
     },
     "PKsqDQ": {
-        "en-US": "The Being Called a God:….",
-        "pt-BR": "Ser chamado de deus:….",
+        "en-US": "The Being Called a God:....",
+        "pt-BR": "Ser chamado de deus:....",
         "es-ES": "Ser llamado dios:...."
     },
     "PasqDQ": {
-        "en-US": "[Yus]\nO.. .Ooh...! O Freya …! Are you truly my god?!",
-        "pt-BR": "[Yus]\nOh.. .oooh...! Ó Freya…! Sois verdadeiramente minha deusa!?",
-        "es-ES": "[Yus]\n¡O.. .ohh...! ¡Lady Freyja…! ¿Sois de verdad mi diosa?"
+        "en-US": "[Yus]\nO.. .Ooh...! O Freya ...! Are you truly my god?!",
+        "pt-BR": "[Yus]\nOh.. .oooh...! Ó Freya...! Sois verdadeiramente minha deusa!?",
+        "es-ES": "[Yus]\n¡O.. .ohh...! ¡Lady Freyja...! ¿Sois de verdad mi diosa?"
     },
     "PqsqDQ": {
-        "en-US": "Yus: O.. .Ooh...! O Freya …! Are you truly my god?!",
-        "pt-BR": "Yus: Oh.. .oooh...! Ó Freya…! Sois verdadeiramente minha deusa!?",
-        "es-ES": "Yus: ¡O.. .ohh...! ¡Lady Freyja…! ¿Sois de verdad mi diosa?"
+        "en-US": "Yus: O.. .Ooh...! O Freya ...! Are you truly my god?!",
+        "pt-BR": "Yus: Oh.. .oooh...! Ó Freya...! Sois verdadeiramente minha deusa!?",
+        "es-ES": "Yus: ¡O.. .ohh...! ¡Lady Freyja...! ¿Sois de verdad mi diosa?"
     },
     "P6sqDQ": {
         "en-US": "^4D4DFFWhat was called a god looked much like a grown form of the Pope.^000000\n^4D4DFFA vessel for Goddess Freya to descend into this world. Its essential purpose.^000000",
@@ -840,14 +840,14 @@
         "es-ES": "Bagot: Otra vez no escuchas lo que te digo. Entonces, ¿qué más da? ¡Ah~! Claro, un milagro. ¿Bastará con mostrarte un milagro~?"
     },
     "SKsqDQ": {
-        "en-US": "[The Being Called a God]\n….\nSo",
-        "pt-BR": "[Ser chamado de deus]\n….\nQue",
-        "es-ES": "[Ser llamado dios]\n….\nQue"
+        "en-US": "[The Being Called a God]\n....\nSo",
+        "pt-BR": "[Ser chamado de deus]\n....\nQue",
+        "es-ES": "[Ser llamado dios]\n....\nQue"
     },
     "SasqDQ": {
-        "en-US": "The Being Called a God:…huh…",
-        "pt-BR": "Ser chamado de deus:…uh…",
-        "es-ES": "Ser llamado dios:…ah…"
+        "en-US": "The Being Called a God:...huh...",
+        "pt-BR": "Ser chamado de deus:...uh...",
+        "es-ES": "Ser llamado dios:...ah..."
     },
     "SqsqDQ": {
         "en-US": "Be",
@@ -855,9 +855,9 @@
         "es-ES": "así"
     },
     "S6sqDQ": {
-        "en-US": "The Being Called a God:…one…",
-        "pt-BR": "Ser chamado de deus:…han…",
-        "es-ES": "Ser llamado dios:…u…"
+        "en-US": "The Being Called a God:...one...",
+        "pt-BR": "Ser chamado de deus:...han...",
+        "es-ES": "Ser llamado dios:...u..."
     },
     "TKsqDQ": {
         "en-US": "it",
@@ -865,9 +865,9 @@
         "es-ES": "sea"
     },
     "TasqDQ": {
-        "en-US": "The Being Called a God:…da…",
-        "pt-BR": "Ser chamado de deus:…da…",
-        "es-ES": "Ser llamado dios:…na…"
+        "en-US": "The Being Called a God:...da...",
+        "pt-BR": "Ser chamado de deus:...da...",
+        "es-ES": "Ser llamado dios:...na..."
     },
     "TqsqDQ": {
         "en-US": "Bagot: What? Did it come back to life? Priest, did you see that? What did Bagot tell you? I said it would work.",
@@ -935,8 +935,8 @@
         "es-ES": "Ser llamado dios: Kkigik kikikik kkigik"
     },
     "W6sqDQ": {
-        "en-US": "Yus: …? My god. This humble servant is prepared to hear your holy words….",
-        "pt-BR": "Yus: …? Meu deus. Este humilde servo está pronto para ouvir vossas palavras sagradas….",
+        "en-US": "Yus: ...? My god. This humble servant is prepared to hear your holy words....",
+        "pt-BR": "Yus: ...? Meu deus. Este humilde servo está pronto para ouvir vossas palavras sagradas....",
         "es-ES": "Yus: ¿...? Mi deidad. Este humilde siervo está preparado para escuchar vuestra sagrada palabra..."
     },
     "XKsqDQ": {
@@ -945,8 +945,8 @@
         "es-ES": "Ser llamado dios: Kkigigigi aaaaaaah!!!!"
     },
     "XasqDQ": {
-        "en-US": "Yus: … I can no longer feel any divinity …? Why …?",
-        "pt-BR": "Yus: … Não sinto a divindade …? Como pode …?",
+        "en-US": "Yus: ... I can no longer feel any divinity ...? Why ...?",
+        "pt-BR": "Yus: ... Não sinto a divindade ...? Como pode ...?",
         "es-ES": "Yus: ...¿No siento ninguna divinidad...? ¿Por qué...?"
     },
     "XqsqDQ": {
@@ -960,8 +960,8 @@
         "es-ES": "Miriam: ¡Ahora no es momento para esto! ¡Tiene que apartarse! ¡Eso no es una deidad!"
     },
     "YKsqDQ": {
-        "en-US": "The Being Called a God: Kikikik kikikik ….",
-        "pt-BR": "Ser chamado de deus: Kikikik kikikik ….",
+        "en-US": "The Being Called a God: Kikikik kikikik ....",
+        "pt-BR": "Ser chamado de deus: Kikikik kikikik ....",
         "es-ES": "Ser llamado dios: Kikikik kikikik ...."
     },
     "YasqDQ": {
@@ -1005,8 +1005,8 @@
         "es-ES": "La capilla ha quedado sellada."
     },
     "aasqDQ": {
-        "en-US": "Yus: … This …. This cannot be ….",
-        "pt-BR": "Yus: … Isso …. isso não pode ser ….",
+        "en-US": "Yus: ... This .... This cannot be ....",
+        "pt-BR": "Yus: ... Isso .... isso não pode ser ....",
         "es-ES": "Yus: ...Esto... Esto no puede ser...."
     },
     "aqsqDQ": {
@@ -1020,9 +1020,9 @@
         "es-ES": "[Miriam]\n¿Qué ha hecho ese sujeto? De pronto ha salido despedido hacia fuera.\n¿Está bien?"
     },
     "bKsqDQ": {
-        "en-US": "[Yus]\nWhat have you done to the god!!!!!!!!!!\nThat cannot be!\nWhat do you think I have done all this time, waiting for this day …!",
-        "pt-BR": "[Yus]\nO que fez com o deus!!!!!!!!!!\nIsso não pode acontecer!\nSabe o que eu fiz esperando por este dia…!",
-        "es-ES": "[Yus]\n¡¡¡¡¡¡¿Qué le has hecho a la deidad?!!!!!!!!!!\n¡Eso no puede ser!\n¡Sabes todo lo que he hecho esperando este día…!"
+        "en-US": "[Yus]\nWhat have you done to the god!!!!!!!!!!\nThat cannot be!\nWhat do you think I have done all this time, waiting for this day ...!",
+        "pt-BR": "[Yus]\nO que fez com o deus!!!!!!!!!!\nIsso não pode acontecer!\nSabe o que eu fiz esperando por este dia...!",
+        "es-ES": "[Yus]\n¡¡¡¡¡¡¿Qué le has hecho a la deidad?!!!!!!!!!!\n¡Eso no puede ser!\n¡Sabes todo lo que he hecho esperando este día...!"
     },
     "basqDQ": {
         "en-US": "[Miriam]\nDo you still believe that is a god?\nSurely you do not mean that thing?",
@@ -1035,9 +1035,9 @@
         "es-ES": "Se cayó Embrión."
     },
     "b6sqDQ": {
-        "en-US": "[Miriam]\nIndeed….\nIt looked similar to the grown form of the Pope, but ….\nSeeing that Embryo dropped, it must be something made by the one called Bagot.",
-        "pt-BR": "[Miriam]\nComo eu pensava….\nParecia a forma amadurecida de Sua Santidade o Papa, mas….\nSe Embrião caiu, então deve ser algo criado por aquele chamado Bagot.",
-        "es-ES": "[Miriam]\nYa veo….\nSe parecía a una versión adulta de Su Santidad la Pontífice, pero….\nsi ha caído Embrión, entonces debe de ser algo creado por ese tal Bagot."
+        "en-US": "[Miriam]\nIndeed....\nIt looked similar to the grown form of the Pope, but ....\nSeeing that Embryo dropped, it must be something made by the one called Bagot.",
+        "pt-BR": "[Miriam]\nComo eu pensava....\nParecia a forma amadurecida de Sua Santidade o Papa, mas....\nSe Embrião caiu, então deve ser algo criado por aquele chamado Bagot.",
+        "es-ES": "[Miriam]\nYa veo....\nSe parecía a una versión adulta de Su Santidad la Pontífice, pero....\nsi ha caído Embrión, entonces debe de ser algo creado por ese tal Bagot."
     },
     "cKsqDQ": {
         "en-US": "We will handle the analysis here.",

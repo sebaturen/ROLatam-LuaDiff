@@ -7,17 +7,17 @@
     "4TOLAQ": {
         "en-US": "[Samuel]\nAh you mean the admir... well, you mean our village chief?\nYou'd better not bother him, since he's always busy.",
         "pt-BR": "[Samuel]\nAh, você quer dizer o almir... bem, você quer dizer o chefe da nossa vila?\nÉ melhor não incomodá-lo, pois ele está sempre ocupado.",
-        "es-ES": "[Samuel]\nAh, te refieres al almir… bueno, ¿hablas del jefe de la aldea?\nSerá mejor que no lo molestes. Siempre está ocupado."
+        "es-ES": "[Samuel]\nAh, te refieres al almir... bueno, ¿hablas del jefe de la aldea?\nSerá mejor que no lo molestes. Siempre está ocupado."
     },
     "4jOLAQ": {
         "en-US": "[Samuel]\n^0000FFBut it'd be impossible to talk without bothering him anyway......^000000\nHe is simply always busy.",
         "pt-BR": "[Samuel]\n^0000FFMas, de qualquer forma, seria impossível conversar sem incomodá-lo......^000000\nEle está sempre ocupado.",
-        "es-ES": "[Samuel]\n^0000FFDe todos modos, sería imposible hablar con él sin molestarlo……^000000\nSimplemente, siempre está ocupado."
+        "es-ES": "[Samuel]\n^0000FFDe todos modos, sería imposible hablar con él sin molestarlo......^000000\nSimplemente, siempre está ocupado."
     },
     "4zOLAQ": {
         "en-US": "Admir...?",
         "pt-BR": "Almir...?",
-        "es-ES": "¿Almir…?"
+        "es-ES": "¿Almir...?"
     },
     "5DOLAQ": {
         "en-US": "Village chief?",
@@ -37,12 +37,12 @@
     "5zOLAQ": {
         "en-US": "[Samuel]\nWell... His temper seems gone bad a bit with his village chief duty, since he settled in Malangdo. But his eyes are nice still the same.",
         "pt-BR": "[Samuel]\nBem... O temperamento dele parece ter ficado um pouco ruim com seu dever de chefe da vila, desde que ele se estabeleceu em Malangdo. Mas seus olhos são bonitos e continuam os mesmos.",
-        "es-ES": "[Samuel]\nBueno… Parece que su mal genio empeoró un poco con su deber de jefe de la aldea desde que se instaló en Malangdo. Pero sus ojos siguen siendo igual de agradables."
+        "es-ES": "[Samuel]\nBueno... Parece que su mal genio empeoró un poco con su deber de jefe de la aldea desde que se instaló en Malangdo. Pero sus ojos siguen siendo igual de agradables."
     },
     "6DOLAQ": {
         "en-US": "[Samuel]\nUmm since it is Malangdo, will it be the malangdo chief...?!\nNo it will be funny though......\nMalang village.. Umm.. This.. This is also not......\nWell this stuff is not that important,",
         "pt-BR": "[Samuel]\nUmm, já que é Malangdo, será que é o chefe de Malangdo...?\nNão, mas seria engraçado......\nVila de Malangdo... Humm... Isso... Isso também não é......\nBem, essas coisas não são tão importantes,",
-        "es-ES": "[Samuel]\nEh, ya que es Malangdo, ¿será el jefe de Malangdo…?\nNo, sería divertido, aunque……\nAldea Malangdo… Este… Esto… Esto tampoco es……\nBueno, esto tampoco es tan importante."
+        "es-ES": "[Samuel]\nEh, ya que es Malangdo, ¿será el jefe de Malangdo...?\nNo, sería divertido, aunque......\nAldea Malangdo... Este... Esto... Esto tampoco es......\nBueno, esto tampoco es tan importante."
     },
     "6TOLAQ": {
         "en-US": "[Samuel]\nAll would think these are the same jobs.\nHe's having a hard time.",
@@ -57,7 +57,7 @@
     "6zOLAQ": {
         "en-US": "[Tomas, Village Chief]\nUmmm... Who are you?\nDon't you think it's too early to come here?",
         "pt-BR": "[Tomas, Chefe da Vila]\nHummm... Quem é você?\nNão acha que é muito cedo para vir aqui?",
-        "es-ES": "[Tomas, jefe de la aldea]\nMmm… ¿Quién eres?\n¿No crees que es demasiado pronto para venir aquí?"
+        "es-ES": "[Tomas, jefe de la aldea]\nMmm... ¿Quién eres?\n¿No crees que es demasiado pronto para venir aquí?"
     },
     "7DOLAQ": {
         "en-US": "[Tomas, Village Chief]\nSamuel!\nAre you coming to an end there?",
@@ -107,12 +107,12 @@
     "9TOLAQ": {
         "en-US": "[Tomas, Village Chief]\nHuuu...\nIt doesn't seem to end.\nThere are still piles of paperwork to do... We will be in trouble unless I finish up before the next shipment arrives.",
         "pt-BR": "[Tomas, Chefe da Vila]\nHuuu...\nParece que não acaba nunca.\nAinda há pilhas de papelada para fazer... Estaremos em apuros se eu não terminar antes da chegada da próxima remessa.",
-        "es-ES": "[Tomas, jefe de la aldea]\nUff…\nEsto no termina nunca.\nTodavía hay montones de papeleo por hacer… Estaremos en problemas a menos que termine antes de que llegue el próximo envío."
+        "es-ES": "[Tomas, jefe de la aldea]\nUff...\nEsto no termina nunca.\nTodavía hay montones de papeleo por hacer... Estaremos en problemas a menos que termine antes de que llegue el próximo envío."
     },
     "9jOLAQ": {
         "en-US": "[Tomas, Village Chief]\nSo, the next shipment is 1300 boxes....\nAnd there are 700 boxes downstairs to load onto the ship...",
         "pt-BR": "[Tomas, Chefe da Vila]\nEntão, a próxima remessa é de 1.300 caixas....\nE há 700 caixas lá embaixo para carregar no navio...",
-        "es-ES": "[Tomas, jefe de la aldea]\nEl próximo envío es de 1300 cajas…\nY hay 700 cajas abajo para cargar en el barco…"
+        "es-ES": "[Tomas, jefe de la aldea]\nEl próximo envío es de 1300 cajas...\nY hay 700 cajas abajo para cargar en el barco..."
     },
     "9zOLAQ": {
         "en-US": "Try to talk to.",
@@ -147,17 +147,17 @@
     "/TOLAQ": {
         "en-US": "[Tomas, Village Chief]\n... So I told you your face is not familiar to me.",
         "pt-BR": "[Tomas, Chefe da Vila]\nEntão, eu lhe disse que seu rosto não me é familiar...",
-        "es-ES": "[Tomas, jefe de la aldea]\n… Como dije, tu rostro no me suena de nada."
+        "es-ES": "[Tomas, jefe de la aldea]\n... Como dije, tu rostro no me suena de nada."
     },
     "/jOLAQ": {
         "en-US": "[Tomas, Village Chief]\nHmmm... Sorry, but as I told you before, would you talk to the other cats if it's not that urgent, since I got plenty of work to do and no time to talk with you?",
         "pt-BR": "[Tomas, Chefe da Vila]\nHmmm... Desculpe, mas como eu lhe disse antes, se não for tão urgente, você poderia falar com os outros gatos? Já que tenho muito trabalho a fazer e não tenho tempo para falar com você.",
-        "es-ES": "[Tomas, jefe de la aldea]\nMmmm… Perdona, pero como te dije antes, ¿podrías hablar con los otros gatos si no es tan urgente? Tengo mucho trabajo que hacer y no tengo tiempo para hablar."
+        "es-ES": "[Tomas, jefe de la aldea]\nMmmm... Perdona, pero como te dije antes, ¿podrías hablar con los otros gatos si no es tan urgente? Tengo mucho trabajo que hacer y no tengo tiempo para hablar."
     },
     "/zOLAQ": {
         "en-US": "[Tomas, Village Chief]\nThese days I am rather pressed with work, although it's good they trust and rely on me as a village chief...",
         "pt-BR": "[Tomas, Chefe da Vila]\nAtualmente, ando muito pressionado pelo trabalho, embora seja bom que eles confiem em mim como chefe da vila...",
-        "es-ES": "[Tomas, jefe de la aldea]\nÚltimamente estoy bastante agobiado de trabajo, aunque es bueno que confíen en mí como jefe de la aldea…"
+        "es-ES": "[Tomas, jefe de la aldea]\nÚltimamente estoy bastante agobiado de trabajo, aunque es bueno que confíen en mí como jefe de la aldea..."
     },
     "ADSLAQ": {
         "en-US": "[Tomas, Village Chief]\nIt is too much, since they send all visitors to me.",
@@ -172,12 +172,12 @@
     "AjSLAQ": {
         "en-US": "[Tomas, Village Chief]\n...Anyway they always leave me with the work.\nPitiless ones...",
         "pt-BR": "[Tomas, Chefe da Vila]\nDe qualquer forma... eles sempre me dão trabalho.\nImpiedosos...",
-        "es-ES": "[Tomas, jefe de la aldea]\n…En fin, siempre me dejan con el trabajo.\nDespiadados…"
+        "es-ES": "[Tomas, jefe de la aldea]\n...En fin, siempre me dejan con el trabajo.\nDespiadados..."
     },
     "AzSLAQ": {
         "en-US": "[Tomas, Village Chief]\nUmm... Having said that, would you talk to the other cats if it's not that urgent, since I've got plenty of work to do and no time to talk with you?",
         "pt-BR": "[Tomas, Chefe da Vila]\nHumm... Dito isso, se não for tão urgente, você poderia conversar com os outros gatos?Já que tenho muito trabalho a fazer e não tenho tempo para conversar com você.",
-        "es-ES": "[Tomas, jefe de la aldea]\nMmm… Dicho esto, ¿podrías hablar con los otros gatos, si no es tan urgente? Tengo mucho trabajo que hacer y no tengo tiempo para hablar."
+        "es-ES": "[Tomas, jefe de la aldea]\nMmm... Dicho esto, ¿podrías hablar con los otros gatos, si no es tan urgente? Tengo mucho trabajo que hacer y no tengo tiempo para hablar."
     },
     "BDSLAQ": {
         "en-US": "[Tomas, Village Chief]\nJust in time. Go to the ^0000FFregular meeting^000000 being held now.\nThe meeting place is at the end of the corridor.",
@@ -192,12 +192,12 @@
     "BjSLAQ": {
         "en-US": "[Tomas, Village Chief]\nSo, the next 1000 boxes to move to upper side...",
         "pt-BR": "[Tomas, Chefe da Vila]\nEntão, as próximas 1.000 caixas serão transferidas para a parte superior...",
-        "es-ES": "[Tomas, jefe de la aldea]\nLas siguientes 1000 cajas van en la parte superior…"
+        "es-ES": "[Tomas, jefe de la aldea]\nLas siguientes 1000 cajas van en la parte superior..."
     },
     "BzSLAQ": {
         "en-US": "[Tomas, Village Chief]\n400 boxes to give out as supplies....\nAnd also...",
         "pt-BR": "[Tomas, Chefe da Vila]\nSão 400 caixas para distribuir como suprimentos...\nE também...",
-        "es-ES": "[Tomas, jefe de la aldea]\n400 cajas para repartir como suministros…\nY además…"
+        "es-ES": "[Tomas, jefe de la aldea]\n400 cajas para repartir como suministros...\nY además..."
     },
     "CDSLAQ": {
         "en-US": "[Samuel]\nAdmiral!\nSea bass, sea jelly, sea sponge are well arranged on the right!\nSeaweed and kiwi to downstairs! Anchovies and cod to the gathering place! Stack the rest in the corner?",
@@ -207,17 +207,17 @@
     "CTSLAQ": {
         "en-US": "[Tomas, Village Chief]\n....",
         "pt-BR": "[Tomas, Chefe da Vila]\n....",
-        "es-ES": "[Tomas, jefe de la aldea]\n…"
+        "es-ES": "[Tomas, jefe de la aldea]\n..."
     },
     "CjSLAQ": {
         "en-US": "[Tomas, Village Chief]\n....\n.....",
         "pt-BR": "[Tomas, Chefe da Vila]\n....\n.....",
-        "es-ES": "[Tomas, jefe de la aldea]\n…\n……"
+        "es-ES": "[Tomas, jefe de la aldea]\n...\n......"
     },
     "CzSLAQ": {
         "en-US": "[Tomas, Village Chief]\n....\n.....\n......",
         "pt-BR": "[Tomas, Chefe da Vila]\n....\n.....\n......",
-        "es-ES": "[Tomas, jefe de la aldea]\n…\n……\n……"
+        "es-ES": "[Tomas, jefe de la aldea]\n...\n......\n......"
     },
     "DDSLAQ": {
         "en-US": "[Tomas, Village Chief]\nYou!!\nHow many times did I tell you mew!\nHuh?!",
@@ -247,12 +247,12 @@
     "ETSLAQ": {
         "en-US": "[Tomas, Village Chief]\nHmm Hmm..\nWell..What are you still doing here.\nGo to the regular meeting being held now at the end of the corridor.\nAhem....",
         "pt-BR": "[Tomas, Chefe da Vila]\nHmm Hmm...\nBem... O que ainda está fazendo aqui?\nVá para a reunião regular que está sendo realizada agora no final do corredor.\nAhem....",
-        "es-ES": "[Tomas, jefe de la aldea]\nMmm, mmm…\n¿Y bien? ¿Qué haces aquí todavía?\nVe a la reunión ordinaria que tiene lugar ahora al final del pasillo.\nEjem…"
+        "es-ES": "[Tomas, jefe de la aldea]\nMmm, mmm...\n¿Y bien? ¿Qué haces aquí todavía?\nVe a la reunión ordinaria que tiene lugar ahora al final del pasillo.\nEjem..."
     },
     "EjSLAQ": {
         "en-US": "[Tomas, Village Chief]\nHow is the meeting going on?\nIt's been a long time since I went there, since I'm so busy...Tsk...",
         "pt-BR": "[Tomas, Chefe da Vila]\nComo está indo a reunião?\nFaz muito tempo que não vou lá, pois estou muito ocupado... Tsk...",
-        "es-ES": "[Tomas, jefe de la aldea]\n¿Cómo va la reunión?\nHace mucho que no voy, ya que estoy tan ocupado… Hum…"
+        "es-ES": "[Tomas, jefe de la aldea]\n¿Cómo va la reunión?\nHace mucho que no voy, ya que estoy tan ocupado... Hum..."
     },
     "EzSLAQ": {
         "en-US": "[Tomas, Village Chief]\nHoh!\nThere have been such issues!",
@@ -287,7 +287,7 @@
     "GTSLAQ": {
         "en-US": "[President of Meeting]\nWow~wow~ Now we're having an incredible sale... well not really, but the meeting instead.\nPlease be silent.",
         "pt-BR": "[Presidente do Conselho]\nUau~ uau~ Agora estamos tendo uma venda incrível... bem, não é bem assim, mas sim a reunião.\nSilêncio, por favor.",
-        "es-ES": "[Presidente de la junta]\nVaya. Vaya. Tenemos una venta increíble… bueno, en realidad no, pero la reunión sí va bien.\nGuarden silencio."
+        "es-ES": "[Presidente de la junta]\nVaya. Vaya. Tenemos una venta increíble... bueno, en realidad no, pero la reunión sí va bien.\nGuarden silencio."
     },
     "GjSLAQ": {
         "en-US": "[President of Meeting]\nToday's main agenda is as always ^FF99CCStar Candy^000000.\nThough I have travelled numerous areas by this time, it's the first time to see ^0000FFthe kind speaking in that difficult language to learn^000000.",
@@ -307,12 +307,12 @@
     "HTSLAQ": {
         "en-US": "[President of Meeting]\nUmm... Yes. Then, please talk, ^6666CCScottfold^000000.",
         "pt-BR": "[Presidente do Conselho]\nHumm... Sim. Então, fale, ^6666CCScottfold^000000.",
-        "es-ES": "[Presidente de la junta]\nMmm… Sí. Entonces que hable ^6666CCScottfold^000000."
+        "es-ES": "[Presidente de la junta]\nMmm... Sí. Entonces que hable ^6666CCScottfold^000000."
     },
     "HjSLAQ": {
         "en-US": "[President of Meeting]\nThen please talk, Koon.... next",
         "pt-BR": "[Presidente do Conselho]\nEntão, fale, Koon.... próximo.",
-        "es-ES": "[Presidente de la junta]\nEntonces que hable Koon… a continuación"
+        "es-ES": "[Presidente de la junta]\nEntonces que hable Koon... a continuación"
     },
     "HzSLAQ": {
         "en-US": "[President of Meeting]\nThere will be a presentation of Dr. Devore on his studies.",
@@ -337,7 +337,7 @@
     "IzSLAQ": {
         "en-US": "[President of Meeting]\nHuew... It wears you out to conduct a meeting.\nI used to be called a tireless merchant who ranked 1st in sales...",
         "pt-BR": "[Presidente do Conselho]\nUfa... É muito cansativo conduzir uma reunião.\nEu era conhecido por ser um comerciante incansável que ocupava o primeiro lugar em vendas...",
-        "es-ES": "[Presidente de la junta]\nFiu… Dirigir una reunión es agotador.\nSolían considerarme un comerciante imparable que ocupaba el primer puesto en ventas…"
+        "es-ES": "[Presidente de la junta]\nFiu... Dirigir una reunión es agotador.\nSolían considerarme un comerciante imparable que ocupaba el primer puesto en ventas..."
     },
     "JDSLAQ": {
         "en-US": "[President of Meeting]\nI feel really sick sometimes when the meeting is prolonged.",
@@ -377,7 +377,7 @@
     "KzSLAQ": {
         "en-US": "[President of Meeting]\nThen for the next...yes Koon please speak now.",
         "pt-BR": "[Presidente do Conselho]\nEntão, para o próximo... sim, Koon, você pode falar agora.",
-        "es-ES": "[Presidente de la junta]\nEntonces, a continuación… Adelante, Koon, por favor."
+        "es-ES": "[Presidente de la junta]\nEntonces, a continuación... Adelante, Koon, por favor."
     },
     "LDSLAQ": {
         "en-US": "[Scottfold]\nLet's listen the other's presentation.",
@@ -387,7 +387,7 @@
     "LTSLAQ": {
         "en-US": "[Scottfold]\n...Though I say so, I also feel like saying something somehow.\nSo, I always put my hand up first!",
         "pt-BR": "[Scottfold]Mesmo dizendo isso, também tenho vontade de dizer algo.\nPor isso, sempre levanto minha mão primeiro!",
-        "es-ES": "[Scottfold]\n… Aunque lo diga yo, también tengo ganas de decir algo de alguna manera.\n¡Así que siempre levanto la mano primero!"
+        "es-ES": "[Scottfold]\n... Aunque lo diga yo, también tengo ganas de decir algo de alguna manera.\n¡Así que siempre levanto la mano primero!"
     },
     "LjSLAQ": {
         "en-US": "Koon",
@@ -417,7 +417,7 @@
     "MzSLAQ": {
         "en-US": "[President of Meeting]\nThe language of Starfish is not undertandable even for the linguist, Dr. Devore...",
         "pt-BR": "[Presidente do Conselho]\nO idioma da Estrela do Mar não é compreensível nem mesmo para o linguista, Dr. Devore...",
-        "es-ES": "[Presidente de la junta]\nEl lenguaje de las estrellas de mar es incomprensible hasta para un lingüista, el Dr. Devore…"
+        "es-ES": "[Presidente de la junta]\nEl lenguaje de las estrellas de mar es incomprensible hasta para un lingüista, el Dr. Devore..."
     },
     "NDSLAQ": {
         "en-US": "[Llinguist Devore]\nPresident! As for that matter, I'd like to investigate the study myself.",
@@ -472,7 +472,7 @@
     "PjSLAQ": {
         "en-US": "[Llinguist Devore]\nThis book assumed to be written in Starfish language, it's a text book to learn the Starfish language as I asked Biscuit though...",
         "pt-BR": "[Linguista Devore]\nEste livro, supostamente escrito no idioma da Estrela do Mar, é um livro que pode ser usado para aprender o idioma, mas como eu pedi a Bolacha...",
-        "es-ES": "[Lingüista Devore]\nSe supone que este libro está escrito en el idioma de las estrellas de mar. Es un texto para aprender el idioma de las estrellas de mar, tal y como le pedí a Galleta, pero…"
+        "es-ES": "[Lingüista Devore]\nSe supone que este libro está escrito en el idioma de las estrellas de mar. Es un texto para aprender el idioma de las estrellas de mar, tal y como le pedí a Galleta, pero..."
     },
     "PzSLAQ": {
         "en-US": "[Koon]\nIsn't it helpful for study on Starfish language then?",
@@ -512,7 +512,7 @@
     "RjSLAQ": {
         "en-US": "[Llinguist Devore]\nHoo...\nThe Starfish language is the hardest matter in my studying life.",
         "pt-BR": "[Linguista Devore]\nHoo...\nO idioma da Estrela do Mar é o tópico mais difícil em toda minha vida de pesquisador.",
-        "es-ES": "[Lingüista Devore]\nJu…\nEl idioma de las estrellas de mar es el tema más difícil de mi vida académica."
+        "es-ES": "[Lingüista Devore]\nJu...\nEl idioma de las estrellas de mar es el tema más difícil de mi vida académica."
     },
     "RzSLAQ": {
         "en-US": "[Llinguist Devore]\nI should solve the puzzling Starfish language soon.\nI'm ashamed to see you all like this result.",
@@ -522,7 +522,7 @@
     "SDSLAQ": {
         "en-US": "[Llinguist Devore]\nRight...\nThis language world is so beautiful and mysterious.",
         "pt-BR": "[Linguista Devore]\nCerto...\nO mundo linguístico é tão bonito e misterioso.",
-        "es-ES": "[Lingüista Devore]\nAsí es…\nEl mundo del lenguaje es tan bello y misterioso."
+        "es-ES": "[Lingüista Devore]\nAsí es...\nEl mundo del lenguaje es tan bello y misterioso."
     },
     "STSLAQ": {
         "en-US": "[Llinguist Devore]\nThere are mysteries how come some beings use totally different languages or very far away peoples use similar languages.",
@@ -687,7 +687,7 @@
     "aTSLAQ": {
         "en-US": "[Geologist Mali]\nSoft and sticky feeling like this....\nHa ah it makes you're addicted to....",
         "pt-BR": "[Geologista Mali]\nSensação macia e pegajosa como esta....\nHa ah, isso faz você ficar viciado em....",
-        "es-ES": "[Geólogo Mali]\nUna sensación suave y pegajosa como esta……\nJa, ah, te vuelve adicto a……"
+        "es-ES": "[Geólogo Mali]\nUna sensación suave y pegajosa como esta......\nJa, ah, te vuelve adicto a......"
     },
     "ajSLAQ": {
         "en-US": "[Geologist Mali]\nOops!!\nI was about to be sunk into this softness mew!!!",
@@ -712,7 +712,7 @@
     "bjSLAQ": {
         "en-US": "[Geologist Mali]\nIf this ^0000FFcrack goes on, the underground support may be collapsed^000000 mew...",
         "pt-BR": "[Geologista Mali]\nSe essa ^0000FFfissura continuar, o suporte subterrâneo pode entrar em colapso^000000, miau...",
-        "es-ES": "[Geólogo Mali]\nSi esta ^0000FFgrieta continúa, el soporte subterráneo puede colapsar^000000, miau…"
+        "es-ES": "[Geólogo Mali]\nSi esta ^0000FFgrieta continúa, el soporte subterráneo puede colapsar^000000, miau..."
     },
     "bzSLAQ": {
         "en-US": "[Geologist Mali]\nThere are many forces in for the repairing the cracking, but its not enough mew.",
@@ -827,7 +827,7 @@
     "hTSLAQ": {
         "en-US": "[Bob]\nYou bow-wow! bow! wow! I mew! mew! mew!\nI'm into juice from delicious fish mew~",
         "pt-BR": "[Bob]\nVocê faz ''bow-wow''! ''bow''! ''wow''! Eu miau! miau! miau!\nEu estou gostando de um suco de um delicioso peixe, miau~",
-        "es-ES": "[Bob]\nReverencia… ¡y vaya, vaya! ¡Miau! ¡Miau! ¡Miau!\nMe gusta el sabroso jugo de pescado, miau."
+        "es-ES": "[Bob]\nReverencia... ¡y vaya, vaya! ¡Miau! ¡Miau! ¡Miau!\nMe gusta el sabroso jugo de pescado, miau."
     },
     "hjSLAQ": {
         "en-US": "[Bob]\nAh ahhh!!!!!!!!!!!\nAre you here for voluntary service?!",
@@ -857,7 +857,7 @@
     "izSLAQ": {
         "en-US": "[Bob]\nKhhh...\nImpressed!!!\nI am impressed!!!",
         "pt-BR": "[Bob]\nKhhh...\nImpressionado!!!\nEstou impressionado!!!",
-        "es-ES": "[Bob]\nKjjj…\n¡Me impresionas!\n¡Qué impresionante!"
+        "es-ES": "[Bob]\nKjjj...\n¡Me impresionas!\n¡Qué impresionante!"
     },
     "jDSLAQ": {
         "en-US": "[Bob]\nI treated the people poorly and had a prejudice against the adventurers!!!",
@@ -887,12 +887,12 @@
     "kTSLAQ": {
         "en-US": "[Bob]\nAh right...\n^0000FFYou may fall into the crack unfortunately, so watch out^000000 please.",
         "pt-BR": "[Bob]\nAh, certo...\n^0000FFInfelizmente, você pode cair na fenda, portanto, tome cuidado^000000.",
-        "es-ES": "[Bob]\nAh, sí…\n^0000FFPor desgracia, te puedes caer en la grieta, así que ten cuidado^000000."
+        "es-ES": "[Bob]\nAh, sí...\n^0000FFPor desgracia, te puedes caer en la grieta, así que ten cuidado^000000."
     },
     "kjSLAQ": {
         "en-US": "[Bob]\nAh right...\nI see...\nDisappointed...\nHoohoot shh shh~",
         "pt-BR": "[Bob]\nAh, certo...\nEntendo...\nDecepcionado...\nHoohoot shh shh~",
-        "es-ES": "[Bob]\nAh, sí…\nYa veo…\nQué decepción…\nJu, ju. shh, shh."
+        "es-ES": "[Bob]\nAh, sí...\nYa veo...\nQué decepción...\nJu, ju. shh, shh."
     },
     "kzSLAQ": {
         "en-US": "[Bob]\nKhhh~~~~~~~~~~~~~~~~~~~~~~\nThat was perfect!",
@@ -917,7 +917,7 @@
     "lzSLAQ": {
         "en-US": "[Bob]\nKhhh...\nImpressed!!!\nI am impressed!!!\nThe impressive mind is dancing in my heart!!!",
         "pt-BR": "[Bob]\nKhhh...\nImpressionado!!!\nEstou impressionado!!!\nA sua mente impressionante está dançando em meu coração!!!",
-        "es-ES": "[Bob]\nKjjj…\n¡Me impresionas!\n¡Qué impresionante!\n¡Mi mente impresionada está llena de emoción!"
+        "es-ES": "[Bob]\nKjjj...\n¡Me impresionas!\n¡Qué impresionante!\n¡Mi mente impresionada está llena de emoción!"
     },
     "mDSLAQ": {
         "en-US": "Crack",
@@ -1072,7 +1072,7 @@
     "tjSLAQ": {
         "en-US": "[Brie]\nSorry but I don't feel like talking with you, so please leave me alone?",
         "pt-BR": "[Brie]\nDesculpe, mas não estou com vontade de conversar com você, então, por favor, me deixe em paz?",
-        "es-ES": "[Brie]\nLo siento, pero no quiero hablar contigo, así que déjame en paz…"
+        "es-ES": "[Brie]\nLo siento, pero no quiero hablar contigo, así que déjame en paz..."
     },
     "tzSLAQ": {
         "en-US": "[Brie]\nSorry. President.\nThough Star Candy is supporting the ground of Malangdo,",
@@ -1087,7 +1087,7 @@
     "uTSLAQ": {
         "en-US": "[President of Meeting]\nAs what Dr. Devore said, it's better to wait for the result....",
         "pt-BR": "[Presidente do Conselho]\nComo o Dr. Devore disse, é melhor esperar pelo resultado...",
-        "es-ES": "[Presidente de la junta]\nPor lo que dijo el Dr. Devore, es mejor esperar el resultado…"
+        "es-ES": "[Presidente de la junta]\nPor lo que dijo el Dr. Devore, es mejor esperar el resultado..."
     },
     "ujSLAQ": {
         "en-US": "[Brie]\nWhat would you do if Star Candy leave here as waiting like that only?\nThis Malangdo may go under, I cannot just wait here like this.",
@@ -1112,7 +1112,7 @@
     "vjSLAQ": {
         "en-US": "[Brie]\n...",
         "pt-BR": "[Brie]\n...",
-        "es-ES": "[Brie]\n…"
+        "es-ES": "[Brie]\n..."
     },
     "vzSLAQ": {
         "en-US": "[President of Meeting]\nWe know Rican's injury may affect trading Yggdrasilberry.",
@@ -1127,7 +1127,7 @@
     "wTSLAQ": {
         "en-US": "[Brie]\nYes...",
         "pt-BR": "[Brie]\nSim...",
-        "es-ES": "[Brie]\nSí…"
+        "es-ES": "[Brie]\nSí..."
     },
     "wjSLAQ": {
         "en-US": "[President of Meeting]\nWell, let's have a break for a while now.\nSamuel brought Seaweed and tuna here.",
@@ -1157,7 +1157,7 @@
     "xzSLAQ": {
         "en-US": "[Brie]\nInstead of him, I'm harvesting them but...",
         "pt-BR": "[Brie]\nEstou colhendo no lugar dele, mas...",
-        "es-ES": "[Brie]\nYo las estoy cosechando en su lugar, pero…"
+        "es-ES": "[Brie]\nYo las estoy cosechando en su lugar, pero..."
     },
     "yDSLAQ": {
         "en-US": "[Brie]\nWell anyhow I don't know much about it, since I've just started. If you want to ask about Yggdrasilberry, go to my house in ^6666CCwest of Malangdo^000000.",
@@ -1167,12 +1167,12 @@
     "yTSLAQ": {
         "en-US": "[Brie]\nMy father will be staying there. He has been saying he's really bored...",
         "pt-BR": "[Brie]\nMeu pai vai ficar lá. Ele diz que está muito entediado...",
-        "es-ES": "[Brie]\nMi padre se quedará allí. Dice que está muy aburrido…"
+        "es-ES": "[Brie]\nMi padre se quedará allí. Dice que está muy aburrido..."
     },
     "yjSLAQ": {
         "en-US": "[Brie]\nHoo...",
         "pt-BR": "[Brie]\nHoo...",
-        "es-ES": "[Brie]\nJu…"
+        "es-ES": "[Brie]\nJu..."
     },
     "yzSLAQ": {
         "en-US": "[Brie]\nWell anyhow I don't know very well about it, since I've just started. If you want to ask about the Yggdrasilberry, go to my house in ^6666CCwest of Malangdo^000000.",
@@ -1202,7 +1202,7 @@
     "0DSLAQ": {
         "en-US": "[Brie]\n....",
         "pt-BR": "[Brie]\n....",
-        "es-ES": "[Brie]\n…"
+        "es-ES": "[Brie]\n..."
     },
     "0TSLAQ": {
         "en-US": "[Geologist Mali]\nSo, go back home and help your father mew.",
@@ -1227,7 +1227,7 @@
     "1TSLAQ": {
         "en-US": "[Brie]\nHew.. I think I got nervous.",
         "pt-BR": "[Brie]\nUfa... Acho que fiquei nervosa.",
-        "es-ES": "[Brie]\nFiu… Los nervios me invadieron."
+        "es-ES": "[Brie]\nFiu... Los nervios me invadieron."
     },
     "1jSLAQ": {
         "en-US": "Rican",
@@ -1237,7 +1237,7 @@
     "1zSLAQ": {
         "en-US": "[Rican]\nWoo waa hoohoo...\nWoowaa ahhh ahh ahh...\nI'm bored staying home like this!!",
         "pt-BR": "[Rican]\nWoo waa hoohoo...\nWoowaa ahhh ahh ahh...\nEstou tão entediado de ficar em casa assim!!!",
-        "es-ES": "[Rican]\nJu, ja, ju, ju…\nJu, ja, ahhh, ahh, ahh…\n¡Me aburro de quedarme en casa así!"
+        "es-ES": "[Rican]\nJu, ja, ju, ju...\nJu, ja, ahhh, ahh, ahh...\n¡Me aburro de quedarme en casa así!"
     },
     "2DSLAQ": {
         "en-US": "[Rican]\nWhen will my legs recover?, when?!",
@@ -1267,7 +1267,7 @@
     "3TSLAQ": {
         "en-US": "[Rican]\nYggdrasilberry?\nYou... you know something!\nUmm ha ha ha!\nThere's a few cats only who know Yggdrasilberry!",
         "pt-BR": "[Rican]\nFruto de Yggdrasil?\nVocê... você sabe de alguma coisa!\nHmm ha ha ha!\nHá apenas alguns gatos que sabem sobre Fruto de Yggdrasil!",
-        "es-ES": "[Rican]\n¿Fruto de Yggdrasil?\nTú… ¡tú sabes algo!\n¡Eh, ja, ja, ja!\n¡Solo unos pocos gatos conocen el fruto de Yggdrasil!"
+        "es-ES": "[Rican]\n¿Fruto de Yggdrasil?\nTú... ¡tú sabes algo!\n¡Eh, ja, ja, ja!\n¡Solo unos pocos gatos conocen el fruto de Yggdrasil!"
     },
     "3jSLAQ": {
         "en-US": "[Rican]\nWell, before I trade with human beings, it used to be thought Yggdrasilberry was not a very remarkable fruit.",
@@ -1292,7 +1292,7 @@
     "4jSLAQ": {
         "en-US": "[Rican]\nVery long ago...\nOur ship left the town on a new course to trade.",
         "pt-BR": "[Rican]\nHá muito tempo...\nNosso navio deixou a cidade em uma nova rota de comércio.",
-        "es-ES": "[Rican]\nHace mucho tiempo…\nNuestro barco salió de la ciudad en busca de comercio."
+        "es-ES": "[Rican]\nHace mucho tiempo...\nNuestro barco salió de la ciudad en busca de comercio."
     },
     "4zSLAQ": {
         "en-US": "[Rican]\nActually the areas around our town were completely explored by us, and it was a challenge to find an unexplored area.",
@@ -1302,7 +1302,7 @@
     "5DSLAQ": {
         "en-US": "[Rican]\nWell the beginning was quite nice anyway.\nAfter a month or two sailing the sea...",
         "pt-BR": "[Rican]\nBem, o começo foi muito bom mesmo.\nDepois de um ou dois meses navegando pelo mar...",
-        "es-ES": "[Rican]\nEl comienzo fue bastante agradable.\nTras uno o dos meses de navegar por el mar…"
+        "es-ES": "[Rican]\nEl comienzo fue bastante agradable.\nTras uno o dos meses de navegar por el mar..."
     },
     "5TSLAQ": {
         "en-US": "[Rican]\nWell the sea has enough fishes in, but it made me bored.",
@@ -1337,17 +1337,17 @@
     "6zSLAQ": {
         "en-US": "[Rican]\nHuh? Why did we load them, though we don't eat them?\nIt...it's the secret...",
         "pt-BR": "[Rican]\nO quê? Por que os carregamos, mas não comemos?\nÉ... é o segredo...",
-        "es-ES": "[Rican]\n¿Eh? ¿Por qué las cargamos, si no las comemos?\nEs… es un secreto…"
+        "es-ES": "[Rican]\n¿Eh? ¿Por qué las cargamos, si no las comemos?\nEs... es un secreto..."
     },
     "7DSLAQ": {
         "en-US": "[Rican]\nWell,. it's not important. As we sent a reconnaissance group there, we found out there's a land where the other kinds live, not like us.\nThat was the land of human beings.",
         "pt-BR": "[Rican]\nBem, isso não é importante. Quando enviamos um grupo de reconhecimento para lá, descobrimos que há uma terra onde vivem as outras espécies, diferente de nós.\nEssa era a terra dos seres humanos.",
-        "es-ES": "[Rican]\nBueno… no es importante. Enviamos un grupo de reconocimiento y descubrimos que hay una tierra en la que viven otros habitantes, distintos a nosotros.\nEra la tierra de los seres humanos."
+        "es-ES": "[Rican]\nBueno... no es importante. Enviamos un grupo de reconocimiento y descubrimos que hay una tierra en la que viven otros habitantes, distintos a nosotros.\nEra la tierra de los seres humanos."
     },
     "7TSLAQ": {
         "en-US": "[Rican]\nRegardless of the process, we anyway founnd out the new area to trade as we firstly intended... We still have a small problem of not knowing how to get back to our howmetown yet...",
         "pt-BR": "[Rican]\nIndependentemente do processo, descobrimos a nova área para negociar como pretendíamos inicialmente... Ainda temos o pequeno problema de ainda não sabermos como voltar para nossa terra natal...",
-        "es-ES": "[Rican]\nA pesar del proceso, de todos modos, descubrimos la nueva zona para comerciar como nos habíamos propuesto en un principio… Aún tenemos el pequeño problema de no saber cómo volver a nuestra ciudad natal…"
+        "es-ES": "[Rican]\nA pesar del proceso, de todos modos, descubrimos la nueva zona para comerciar como nos habíamos propuesto en un principio... Aún tenemos el pequeño problema de no saber cómo volver a nuestra ciudad natal..."
     },
     "7jSLAQ": {
         "en-US": "[Rican]\nWe cats started selling with the powerful vitality.\nBut we had only Yggdrasilberry, right?\nWe sold it with no high expectation, but sold like hot cakes.",
@@ -1427,7 +1427,7 @@
     "/TSLAQ": {
         "en-US": "[Rican]\nRight? Then, it's ok, can't help it.\nUmmm my injured leg hurts...",
         "pt-BR": "[Rican]\nCerto? Então, está tudo bem, não posso evitar.\nHummm, minha perna machucada está doendo...",
-        "es-ES": "[Rican]\n¿Verdad? Entonces está bien, no puedo evitarlo.\nAy, me duele la pierna lesionada…"
+        "es-ES": "[Rican]\n¿Verdad? Entonces está bien, no puedo evitarlo.\nAy, me duele la pierna lesionada..."
     },
     "/jSLAQ": {
         "en-US": "[Rican]\nOh oh!!\nThis smells fresh!!!\nHaaa~ What a fresh one, good job!\nYou're good at harvesting Yggdrasilberry?",
@@ -1467,7 +1467,7 @@
     "BTWLAQ": {
         "en-US": "[Rican]\nHe seems to visit Dr. Mali often, since I injured my legs.\nThe study will only take longer if he bothers the good doctor...",
         "pt-BR": "[Rican]\nEle parece visitar o Dr. Mali com frequência, desde que machuquei minhas pernas.\nO estudo só vai demorar ainda mais se ele continuar incomodar o doutor...",
-        "es-ES": "[Rican]\nParece que visita al Dr. Mali a menudo desde que me lesioné la pierna.\nEl estudio tardará más si se la pasa molestando al buen doctor…"
+        "es-ES": "[Rican]\nParece que visita al Dr. Mali a menudo desde que me lesioné la pierna.\nEl estudio tardará más si se la pasa molestando al buen doctor..."
     },
     "BjWLAQ": {
         "en-US": "[Rican]\nIf you see my son, please tell him to get back soon~\nAnd this is for you to buy something delicious with, since you did such hard work.",
@@ -1477,7 +1477,7 @@
     "BzWLAQ": {
         "en-US": "[Rican]\nHe seems to have visited often Dr. Mali since I got injured on my legs.\nThe study will get longer only if he does so...\nIf you see my son, please tell him to get back soon~",
         "pt-BR": "[Rican]\nEle parece ter visitado o Dr. Mali com frequência desde que me machuquei nas pernas.\nO estudo só será mais longo se ele fizer isso...\nSe você encontrar meu filho, diga a ele para voltar logo~",
-        "es-ES": "[Rican]\nParece que va seguido a ver al Dr. Mali desde que me lesioné la pierna.\nEl estudio se alargará si sigue haciéndolo…\nSi ves a mi hijo, por favor dile que vuelva pronto."
+        "es-ES": "[Rican]\nParece que va seguido a ver al Dr. Mali desde que me lesioné la pierna.\nEl estudio se alargará si sigue haciéndolo...\nSi ves a mi hijo, por favor dile que vuelva pronto."
     },
     "CDWLAQ": {
         "en-US": "[Rican]\nVery reliable!\nDon't you want to do your business with the Yggdrasilberry?",
@@ -1542,7 +1542,7 @@
     "FDWLAQ": {
         "en-US": "[Rican]\nAh..you won't put it in?",
         "pt-BR": "[Rican]\nAh... você não vai colocar?",
-        "es-ES": "[Rican]\nAh… ¿no lo pondrás?"
+        "es-ES": "[Rican]\nAh... ¿no lo pondrás?"
     },
     "FTWLAQ": {
         "en-US": "- Drrrk Drrrk -",
@@ -1562,12 +1562,12 @@
     "GDWLAQ": {
         "en-US": "- You put your hand in the sand -\n- I feel like touching -\n- something so bad. -\n- Ah ah.. Feels bad... -",
         "pt-BR": "- Você coloca sua mão na areia -\n- Eu sinto vontade de tocar -\n- algo tão ruim. -\n- Ah, ah, ah... É uma sensação ruim... -",
-        "es-ES": "-Pones tu mano en la arena-\n-Tengo muchas ganas-\n-de tocar algo.-\n-Ah, ah… se siente mal…-"
+        "es-ES": "-Pones tu mano en la arena-\n-Tengo muchas ganas-\n-de tocar algo.-\n-Ah, ah... se siente mal...-"
     },
     "GTWLAQ": {
         "en-US": "- Seems suspicious. -\n- But just it... -",
         "pt-BR": "- Parece suspeito. -\n- Mas só isso... -",
-        "es-ES": "-Parece sospechoso.-\n-Pero solo es…-"
+        "es-ES": "-Parece sospechoso.-\n-Pero solo es...-"
     },
     "GjWLAQ": {
         "en-US": "Water Sand1",
@@ -1577,7 +1577,7 @@
     "GzWLAQ": {
         "en-US": "- Seeems suspicious. -\n- But just it... -",
         "pt-BR": "- Parece suspeito. -\n- Mas só isso... -",
-        "es-ES": "-Parece sospechoso.-\n-Pero solo es…-"
+        "es-ES": "-Parece sospechoso.-\n-Pero solo es...-"
     },
     "HDWLAQ": {
         "en-US": "Water Sand2",
@@ -1677,12 +1677,12 @@
     "LzWLAQ": {
         "en-US": "[Llinguist Devore]\nUmmm? What do you mean?\nI cannot hear anything?",
         "pt-BR": "[Linguista Devore]\nHummm? Do que você está falando?\nNão estou ouvindo nada!",
-        "es-ES": "[Lingüista Devore]\nMmm… ¿Qué quieres decir?\n¿No oigo nada?"
+        "es-ES": "[Lingüista Devore]\nMmm... ¿Qué quieres decir?\n¿No oigo nada?"
     },
     "MDWLAQ": {
         "en-US": "[{0}]\nHuh? Now Biscuit said 'Well, that fellow is the one ignoring my words'?",
         "pt-BR": "[{0}]\nHã? Agora Bolacha disse: ''Bem, é esse sujeito que está ignorando o que eu falo''.",
-        "es-ES": "[{0}]\n¿Eh? Ahora Galleta dijo: Bueno, ese tipo es el que ignora mis palabras…"
+        "es-ES": "[{0}]\n¿Eh? Ahora Galleta dijo: Bueno, ese tipo es el que ignora mis palabras..."
     },
     "MTWLAQ": {
         "en-US": "[Llinguist Devore]\nWhat? What are you talking about?\nI cannot hear anything!",
@@ -1702,7 +1702,7 @@
     "NDWLAQ": {
         "en-US": "[Llinguist Devore]\nIf...if it's the one!\nWe may have totally misunderstood!",
         "pt-BR": "[Linguista Devore]\nSe... se for o único!\nTalvez tenhamos entendido totalmente errado!",
-        "es-ES": "[Lingüista Devore]\n¡Pero… si es el elegido!\n¡Puede que lo hayamos entendido mal!"
+        "es-ES": "[Lingüista Devore]\n¡Pero... si es el elegido!\n¡Puede que lo hayamos entendido mal!"
     },
     "NTWLAQ": {
         "en-US": "[Llinguist Devore]\nOh my, we couldn't have known, since we live here only with ourselves.",
@@ -1717,12 +1717,12 @@
     "NzWLAQ": {
         "en-US": "[Llinguist Devore]\nIn such condition, we cannot get any communicate properly!\nWell this was rather a matter of sound than language....Hu hu hu",
         "pt-BR": "[Linguista Devore]\nEm tais condições, não podemos nos comunicar adequadamente!\nBem, isso era mais uma questão de som do que de idioma....Hu hu hu hu",
-        "es-ES": "[Lingüista Devore]\nEn estas condiciones, ¡no podemos comunicarnos correctamente!\nEsto era más una cuestión de sonido que de idioma… Ju, ju, ju."
+        "es-ES": "[Lingüista Devore]\nEn estas condiciones, ¡no podemos comunicarnos correctamente!\nEsto era más una cuestión de sonido que de idioma... Ju, ju, ju."
     },
     "ODWLAQ": {
         "en-US": "[Llinguist Devore]\nHu hu... In spite of many years of study, we couldn't see this reason...",
         "pt-BR": "[Linguista Devore]\nHu hu hu... Apesar de muitos anos de estudo, não conseguimos perceber isso...",
-        "es-ES": "[Lingüista Devore]\nClaro… A pesar de muchos años de estudio, no logramos entender el motivo…"
+        "es-ES": "[Lingüista Devore]\nClaro... A pesar de muchos años de estudio, no logramos entender el motivo..."
     },
     "OTWLAQ": {
         "en-US": "[Llinguist Devore]\nI should change the area of study right now.",
@@ -1737,7 +1737,7 @@
     "OzWLAQ": {
         "en-US": "[{0}]\nWait Dr. Devore, what on earth is next...\nWhat should I do...",
         "pt-BR": "[{0}]\nEspere, Dr. Devore, quais são as próximas coisas...\nO que devo fazer...",
-        "es-ES": "[{0}]\nEspere, Dr. Devore, ¿qué es lo siguiente…?\n¿Qué debo hacer…?"
+        "es-ES": "[{0}]\nEspere, Dr. Devore, ¿qué es lo siguiente...?\n¿Qué debo hacer...?"
     },
     "PDWLAQ": {
         "en-US": "[Llinguist Devore]\nHa ha ha You are the kind who can have conversations with Biscuit, please try to talk with him about different subjects.\nIt'll be helpful for my study, no matter you talk about with him.",
@@ -1747,12 +1747,12 @@
     "PTWLAQ": {
         "en-US": "[Biscuit]\nHey.. Don't look down on me!",
         "pt-BR": "[Bolacha]\nNão me olhe assim!",
-        "es-ES": "[Galleta]\nOye… ¡No me subestimes!"
+        "es-ES": "[Galleta]\nOye... ¡No me subestimes!"
     },
     "PjWLAQ": {
         "en-US": "[Biscuit]\n...What are you looking at...",
         "pt-BR": "[Bolacha]\nTá olhando o quê...",
-        "es-ES": "[Galleta]\n… ¿Qué estás mirando…?"
+        "es-ES": "[Galleta]\n... ¿Qué estás mirando...?"
     },
     "PzWLAQ": {
         "en-US": "Ask about Star Candy.",
@@ -1782,12 +1782,12 @@
     "RDWLAQ": {
         "en-US": "[Biscuit]\nHow gorgeous she is that umm..\nJust gorgeous.\nShe is so gorgeous... but I don't know how to explain it....",
         "pt-BR": "[Bolacha]\nComo ela é linda, humm...\nMuito linda.\nEla é tão linda... mas eu não sei como explicar....",
-        "es-ES": "[Galleta]\nEs tan hermosa que, mmm…\nSimplemente es hermosa.\nEs tan hermosa… pero no sé cómo explicarlo…"
+        "es-ES": "[Galleta]\nEs tan hermosa que, mmm...\nSimplemente es hermosa.\nEs tan hermosa... pero no sé cómo explicarlo..."
     },
     "RTWLAQ": {
         "en-US": "[Biscuit]\nKhummm...\nThat's why those who speak with sound are irritating.",
         "pt-BR": "[Bolacha]\nKhummm...\nÉ por isso que aqueles que falam com som são irritantes.",
-        "es-ES": "[Galleta]\nHummm…\nPor eso los que hablan con sonido son irritantes."
+        "es-ES": "[Galleta]\nHummm...\nPor eso los que hablan con sonido son irritantes."
     },
     "RjWLAQ": {
         "en-US": "Speaking with sound?",
@@ -1807,7 +1807,7 @@
     "STWLAQ": {
         "en-US": "[Biscuit]\nSo we haven't needed any more explanation or flowery words......\nWoo it's so bothering me!",
         "pt-BR": "[Bolacha]\nPortanto, não precisamos de mais explicações ou palavras floridas......\nUhhh, isso está me incomodando muito!",
-        "es-ES": "[Galleta]\nAsí que no necesitamos más explicaciones ni palabras rimbombantes……\n¡Ay, me molesta tanto!"
+        "es-ES": "[Galleta]\nAsí que no necesitamos más explicaciones ni palabras rimbombantes......\n¡Ay, me molesta tanto!"
     },
     "SjWLAQ": {
         "en-US": "[Biscuit]\nMe?\nAbout myself, I'm an assistant of a newstar in Starfish kind and have multi-faceted talents, Star Candy!",
@@ -1817,12 +1817,12 @@
     "SzWLAQ": {
         "en-US": "[Biscuit]\nAh ah...\nAt first when I was the assistant of her, I used to be called a genius, handsome assistant, such and such...\nI felt like shining road of light comes up to me...",
         "pt-BR": "[Bolacha]\nAh ah...\nNo início, quando eu era assistente dela, costumava ser chamado de gênio, assistente bonito, tal e tal...\nEu sentia como se um caminho brilhante de luz viesse até mim...",
-        "es-ES": "[Galleta]\nAh, ah…\nAl comienzo, cuando era su asistente, me decían genio, asistente guapo, cosas así…\nSentía cómo un camino brillante de luz se acercaba a mí…"
+        "es-ES": "[Galleta]\nAh, ah...\nAl comienzo, cuando era su asistente, me decían genio, asistente guapo, cosas así...\nSentía cómo un camino brillante de luz se acercaba a mí..."
     },
     "TDWLAQ": {
         "en-US": "[Biscuit]\nBut if the elderly see this, they'll dry me off in the sun rather...\nIt was a life like a flame...Sob sob sob sob",
         "pt-BR": "[Bolacha]\nMas se os idosos virem isso, eles vão me secar ao sol...\nEra uma vida como uma chama...*chorando*",
-        "es-ES": "[Galleta]\nPero si los ancianos ven esto, me secarán al sol…\nEra una vida como una llama… Snif, snif, snif."
+        "es-ES": "[Galleta]\nPero si los ancianos ven esto, me secarán al sol...\nEra una vida como una llama... Snif, snif, snif."
     },
     "TTWLAQ": {
         "en-US": "[Biscuit]\nThis island is where gorgeous Star Candy can take a rest.\nThe surface is soft and with the high moisture in, it's the best place for Starfishes.",
@@ -1862,7 +1862,7 @@
     "VDWLAQ": {
         "en-US": "[Biscuit]\nYou rude...",
         "pt-BR": "[Bolacha]\nSeu mal-educado...",
-        "es-ES": "[Galleta]\nQué mala educación…"
+        "es-ES": "[Galleta]\nQué mala educación..."
     },
     "VTWLAQ": {
         "en-US": "[Biscuit]\nYou're not my subordinate, I can't order you by force. But if Star Candy cannot have her meal on time, you have to remember this island will fall down completely.",
@@ -1872,7 +1872,7 @@
     "VjWLAQ": {
         "en-US": "[{0}]\n...It's not request, but threat...",
         "pt-BR": "[{0}]\nIsso não é um pedido, mas uma ameaça...",
-        "es-ES": "[{0}]\n… No es una petición, es una amenaza…"
+        "es-ES": "[{0}]\n... No es una petición, es una amenaza..."
     },
     "VzWLAQ": {
         "en-US": "[Biscuit]\nUmm you got them quick.\nThere'll not be any problem to prepare her meal.",
@@ -1882,7 +1882,7 @@
     "WDWLAQ": {
         "en-US": "[Biscuit]\nThough the jelly looks strange but tastes good...\nStar Candy seems to like it so much as well.",
         "pt-BR": "[ Bolacha]\nEmbora a geleia pareça estranha, o gosto é bom...\nA Doce Estelar parece gostar muito dela também.",
-        "es-ES": "[Galleta]\nLa gelatina tiene un aspecto extraño, pero sabe bien…\nA Dulce estelar también parece gustarle mucho."
+        "es-ES": "[Galleta]\nLa gelatina tiene un aspecto extraño, pero sabe bien...\nA Dulce estelar también parece gustarle mucho."
     },
     "WTWLAQ": {
         "en-US": "[Biscuit]\nHave your meal, Star Candy~\nUhhh, why don't you eat so well.\nYou have no appetite?",
@@ -1897,7 +1897,7 @@
     "WzWLAQ": {
         "en-US": "[Biscuit]\nHooo.. it's so natural that you have no appetite...",
         "pt-BR": "[Bolacha]\nHooo... é claro que você não está com fome...",
-        "es-ES": "[Galleta]\nJo… Es muy natural que no tengas hambre…"
+        "es-ES": "[Galleta]\nJo... Es muy natural que no tengas hambre..."
     },
     "XDWLAQ": {
         "en-US": "[Biscuit]\nHow come precious Star Candy supports the ground in the basement like this, and it's so dry, though it's in a subterranean cave of an island!",
@@ -1917,7 +1917,7 @@
     "XzWLAQ": {
         "en-US": "[Biscuit]\nUmmm? What is such thing like that.\nThe slithery thing.\nWith the ugly looking, it bothers Star Candy continuously.",
         "pt-BR": "[Bolacha]\nHummm? O que é uma coisa dessas?\nA coisa viscosa.\nCom essa aparência feia, ela incomoda a Doce Estelar.",
-        "es-ES": "[Galleta]\nMmm… ¿Qué significa eso?\nLa cosa escurridiza.\nEs tan fea que molesta permanentemente a Dulce estelar."
+        "es-ES": "[Galleta]\nMmm... ¿Qué significa eso?\nLa cosa escurridiza.\nEs tan fea que molesta permanentemente a Dulce estelar."
     },
     "YDWLAQ": {
         "en-US": "[Biscuit]\nEspecially it tries to come up to the island when it's storming like today, I was hiding here a while. Those cats came and made her bad like this.",
@@ -1927,12 +1927,12 @@
     "YTWLAQ": {
         "en-US": "[Biscuit]\nThanks to Star Candy, her skin is...\n......",
         "pt-BR": "[Bolacha]\nGraças à Doce Estelar, a pele dela está...\n......",
-        "es-ES": "[Galleta]\nGracias a Dulce estelar, su piel está…\n……"
+        "es-ES": "[Galleta]\nGracias a Dulce estelar, su piel está...\n......"
     },
     "YjWLAQ": {
         "en-US": "[Biscuit]\nWoooaaappp!\nWhat's this!!!\nHer skin is!!!!\nShe got abscess on her skin that used to shine like gems!!!!",
         "pt-BR": "[Bolacha]\nWoooaaappp!\nO que é isso!!!\nSua pele está!!!!\nEla tem abscessos em sua pele que costumava brilhar como gemas!!!!",
-        "es-ES": "[Galleta]\n¡Epaaaaaaa!\n¡¿Qué es esto?!\n¡¡¡Su piel está…!!!\n¡¡¡Le salieron bultos en la piel que brillaban como gemas!!!"
+        "es-ES": "[Galleta]\n¡Epaaaaaaa!\n¡¿Qué es esto?!\n¡¡¡Su piel está...!!!\n¡¡¡Le salieron bultos en la piel que brillaban como gemas!!!"
     },
     "YzWLAQ": {
         "en-US": "[Biscuit]\nShe got in trouble with her dried skin, since she got here!\nFor our Starfishes, the lack of water means horrible things that lead to death!",
@@ -1942,12 +1942,12 @@
     "ZDWLAQ": {
         "en-US": "[Biscuit]\nAh ah She's so kind that she sacrifice herself to save such things. Sob sob.",
         "pt-BR": "[Bolacha]\nAh ah... Ela é tão gentil que se sacrifica para salvar essas coisas. *choro*",
-        "es-ES": "[Galleta]\nEs tan amable que se sacrifica para salvar esas cosas. Snif, snif…"
+        "es-ES": "[Galleta]\nEs tan amable que se sacrifica para salvar esas cosas. Snif, snif..."
     },
     "ZTWLAQ": {
         "en-US": "[Biscuit]\nAh ah...\nI can't leave here to take care of her, isn't there anybody to help~",
         "pt-BR": "[Bolacha]\nAh ah...\nNão posso sair daqui para cuidar dela, não há ninguém para ajudar~",
-        "es-ES": "[Galleta]\nAh, ah…\nNo puedo salir de aquí para cuidar de ella. ¿No hay nadie que la ayude?"
+        "es-ES": "[Galleta]\nAh, ah...\nNo puedo salir de aquí para cuidar de ella. ¿No hay nadie que la ayude?"
     },
     "ZjWLAQ": {
         "en-US": "[Biscuit]\nIsn't there anybody to helpppppp~",
@@ -1957,7 +1957,7 @@
     "ZzWLAQ": {
         "en-US": "[Biscuit]\nHey you there...\nAs I ask much like this, will you just ignore me and stand there?",
         "pt-BR": "[Bolacha]\nEi, você aí...\nSe eu pedir algo assim, você vai me ignorar e ficar aí parado?",
-        "es-ES": "[Galleta]\nOye, tú…\nPor mucho que lo pida, ¿me ignorarás y te quedarás ahí?"
+        "es-ES": "[Galleta]\nOye, tú...\nPor mucho que lo pida, ¿me ignorarás y te quedarás ahí?"
     },
     "aDWLAQ": {
         "en-US": "It's unavoidable, so I'll help.",
@@ -1987,7 +1987,7 @@
     "bTWLAQ": {
         "en-US": "[Biscuit]\nOh!\nYou brought the tools successfully.\nNow you wash away the dry skin here on the parts anti-clockwise!\nRight, then start from her left leg...!",
         "pt-BR": "[Bolacha]\nAh!\nVocê trouxe as ferramentas com sucesso.\nAgora lave a pele seca no sentido anti-horário!\nCerto, então comece pela perna esquerda...!",
-        "es-ES": "[Galleta]\n¡Ah!\nTrajiste las herramientas con éxito.\n¡Ahora lava la piel seca en sentido contrario a las agujas del reloj!\n¡Bien, puedes empezar por su pierna izquierda…!"
+        "es-ES": "[Galleta]\n¡Ah!\nTrajiste las herramientas con éxito.\n¡Ahora lava la piel seca en sentido contrario a las agujas del reloj!\n¡Bien, puedes empezar por su pierna izquierda...!"
     },
     "bjWLAQ": {
         "en-US": "[Biscuit]\nOh!\nYou brought the tools successfully.\nThen you fetch sea water from outside.",
@@ -2007,7 +2007,7 @@
     "cTWLAQ": {
         "en-US": "[Biscuit]\nUmmm.. It would be hard if you don't have proper tools with...\nThough it doesn't matter with small size like me.",
         "pt-BR": "[Bolacha]\nHummm... Seria difícil se você não tivesse as ferramentas adequadas...\nEmbora isso não importe com um tamanho pequeno como o meu.",
-        "es-ES": "[Galleta]\nEmm… Será difícil si no tienes herramientas adecuadas con…\nAunque no importa con alguien pequeño como yo."
+        "es-ES": "[Galleta]\nEmm... Será difícil si no tienes herramientas adecuadas con...\nAunque no importa con alguien pequeño como yo."
     },
     "cjWLAQ": {
         "en-US": "[Biscuit]\nFor an enormous creature like Star Candy, it's full of barnacles, oysters, and mussels!!!",
@@ -2027,22 +2027,22 @@
     "dTWLAQ": {
         "en-US": "[Biscuit]\nWell.. You did good job anyway..\nYou helped me though I asked suddenly like this...\nTo be honest I thought you'd just leave.",
         "pt-BR": "[Bolacha]\nBem... Você fez um bom trabalho mesmo assim...\nVocê me ajudou, apesar de eu ter pedido assim de repente...\nPara ser sincero, achei que você iria embora.",
-        "es-ES": "[Galleta]\nBueno… Hiciste un buen trabajo de todos modos…\nMe ayudaste, aunque te lo pedí tan de repente…\nPara ser honesto, pensé que te irías."
+        "es-ES": "[Galleta]\nBueno... Hiciste un buen trabajo de todos modos...\nMe ayudaste, aunque te lo pedí tan de repente...\nPara ser honesto, pensé que te irías."
     },
     "djWLAQ": {
         "en-US": "[Biscuit]\nIt's as kind of rewards, and say my words to Dr. Dvor or Devore, whatever the cat.",
         "pt-BR": "[Bolacha]\nÉ um tipo de recompensa. E repasse minhas palavras ao Dr. Dvor ou Devore, seja lá qual for o nome do gato.",
-        "es-ES": "[Galleta]\nEs como una recompensa, y llévale mis palabras al Dr. Dvor o Devore o como sea…"
+        "es-ES": "[Galleta]\nEs como una recompensa, y llévale mis palabras al Dr. Dvor o Devore o como sea..."
     },
     "dzWLAQ": {
         "en-US": "[Biscuit]\nNo need to wait till the study finishes, we can talk through you and it's better to talk about the current situation...",
         "pt-BR": "[Bolacha]\nNão precisa esperar o estudo terminar, podemos conversar com sua ajuda. É melhor falar sobre a situação atual...",
-        "es-ES": "[Galleta]\nNo hace falta esperar a que acabe su estudio, podemos hablar a través de ti y es mejor que hablemos de la situación actual…"
+        "es-ES": "[Galleta]\nNo hace falta esperar a que acabe su estudio, podemos hablar a través de ti y es mejor que hablemos de la situación actual..."
     },
     "eDWLAQ": {
         "en-US": "[Biscuit]\nThis is not for you.. and all of you, either. It's rather for Star Candy to get as much rest as soon as possible..!",
         "pt-BR": "[Bolacha]\nIsso não é para você... e para todos vocês também. É melhor que a Doce Estelar descanse o mais rápido possível...!",
-        "es-ES": "[Galleta]\nEsto no es por ti… ni por todos ustedes. ¡Es para que Dulce estelar descanse lo antes posible…!"
+        "es-ES": "[Galleta]\nEsto no es por ti... ni por todos ustedes. ¡Es para que Dulce estelar descanse lo antes posible...!"
     },
     "eTWLAQ": {
         "en-US": "[Biscuit]\nUmm you got them well.\nThere'll not be any problem with preparing her meal.",
@@ -2052,7 +2052,7 @@
     "ejWLAQ": {
         "en-US": "[Biscuit]\n[Biscuit]\nThough the jelly looks strange, it tastes good...\nStar Candy seems to like it so much as well.",
         "pt-BR": "[Bolacha]\n[Bolacha]\nEmbora a geleia pareça estranha, ela tem um gosto bom...\nA Doce Estelar parece gostar muito dela também.",
-        "es-ES": "[Galleta]\n[Galleta]\nLa gelatina tiene un aspecto extraño, pero sabe bien…\nA Dulce estelar también parece gustarle mucho."
+        "es-ES": "[Galleta]\n[Galleta]\nLa gelatina tiene un aspecto extraño, pero sabe bien...\nA Dulce estelar también parece gustarle mucho."
     },
     "ezWLAQ": {
         "en-US": "[Biscuit]\nI'll call you when I need, so don't worry!",
@@ -2077,7 +2077,7 @@
     "fzWLAQ": {
         "en-US": "[Biscuit]\nStar Candy is really good.\nShe never loses her smile though it's so hard to stand...",
         "pt-BR": "[Bolacha]\nA Doce Estelar é muito boa.\nEla nunca perde o sorriso, embora seja tão difícil de suportar...",
-        "es-ES": "[Galleta]\nDulce estelar es muy buena.\nElla nunca pierde su sonrisa, aunque sea tan difícil de soportar…"
+        "es-ES": "[Galleta]\nDulce estelar es muy buena.\nElla nunca pierde su sonrisa, aunque sea tan difícil de soportar..."
     },
     "gDWLAQ": {
         "en-US": "Cleaning Staff",
@@ -2172,7 +2172,7 @@
     "kjWLAQ": {
         "en-US": "[Star Candy]\n....\n.....\n......",
         "pt-BR": "[Doce Estelar]\n....\n.....\n......",
-        "es-ES": "[Dulce estelar]\n…\n……\n……"
+        "es-ES": "[Dulce estelar]\n...\n......\n......"
     },
     "kzWLAQ": {
         "en-US": "[Biscuit]\nRude! How come you talk to precious Star Candy!",
@@ -2182,7 +2182,7 @@
     "lDWLAQ": {
         "en-US": "[Biscuit]\nUmmm?\nYou look different from the fellows usually comes?\nWell, the strange looking is same though.",
         "pt-BR": "[Bolacha]\nUmmm?\nVocê parece diferente dos outros que costumam vir?\nBem, a aparência estranha é a mesma.",
-        "es-ES": "[Galleta]\nMmm…\n¿Te ves diferente de los tipos que suelen venir?\nAunque el aspecto extraño es el mismo."
+        "es-ES": "[Galleta]\nMmm...\n¿Te ves diferente de los tipos que suelen venir?\nAunque el aspecto extraño es el mismo."
     },
     "lTWLAQ": {
         "en-US": "[{0}]\n?!\nYou can talk!",
@@ -2232,7 +2232,7 @@
     "njWLAQ": {
         "en-US": "[Biscuit]\nAh ah...\nWhat a beatiful mind...",
         "pt-BR": "[Bolacha]\nAh ah...\nQue mente linda...",
-        "es-ES": "[Galleta]\nAh, ah…\nQué mente tan hermosa…"
+        "es-ES": "[Galleta]\nAh, ah...\nQué mente tan hermosa..."
     },
     "nzWLAQ": {
         "en-US": "[Biscuit]\nAs she moved a bit when feeling uncomfortable and saw them in panic, she doesn't move at all from that time. I'm worried if she's not well.",
@@ -2407,12 +2407,12 @@
     "wTWLAQ": {
         "en-US": "[Portali]\nHmmm...\nYou are the one that I have kept an eye on..\nI have seen you have worked hard on this island.",
         "pt-BR": "[Portali]\nHmmm...\nFoi em você que fiquei de olho...\nVi que você trabalhou duro nesta ilha.",
-        "es-ES": "[Portali]\nMmmm…\nTú eres a quien llevo vigilando…\nVi que trabajaste duro en esta isla."
+        "es-ES": "[Portali]\nMmmm...\nTú eres a quien llevo vigilando...\nVi que trabajaste duro en esta isla."
     },
     "wjWLAQ": {
         "en-US": "[Portali]\nBut... now isn't this island too small?\nI'll let you go to the land of Midgard with the skill I discovered myself!\nIt's not free and only costs canned food!",
         "pt-BR": "[Portali]\nMas... essa ilha não é muito pequena?\nVou deixá-lo ir para a terra de Midgard com a habilidade que eu mesmo descobri!\nNão é de graça e custa apenas comida enlatada!",
-        "es-ES": "[Portali]\nPero… ¿no es demasiado pequeña esta isla ahora?\n¡Te dejaré ir a la tierra de Midgard con la habilidad que yo mismo descubrí!\n¡No es gratis y solo cuesta conservas!"
+        "es-ES": "[Portali]\nPero... ¿no es demasiado pequeña esta isla ahora?\n¡Te dejaré ir a la tierra de Midgard con la habilidad que yo mismo descubrí!\n¡No es gratis y solo cuesta conservas!"
     },
     "wzWLAQ": {
         "en-US": "Go",
@@ -2482,7 +2482,7 @@
     "0DWLAQ": {
         "en-US": "[Portali]\nWhere are you going without canned food...",
         "pt-BR": "[Portali]\nOnde você pensa que vai sem comida enlatada...",
-        "es-ES": "[Portali]\n¿Adónde vas sin conservas…?"
+        "es-ES": "[Portali]\n¿Adónde vas sin conservas...?"
     },
     "0TWLAQ": {
         "en-US": "[Portali]\nThen to Moroc~",

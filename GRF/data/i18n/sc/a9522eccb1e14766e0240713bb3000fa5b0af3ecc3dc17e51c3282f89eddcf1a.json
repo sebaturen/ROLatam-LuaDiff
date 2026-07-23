@@ -7,7 +7,7 @@
     "4adCAw": {
         "en-US": "[Vand]\nUgh...\nThis is not good...\nWhat should I do...?",
         "pt-BR": "[Vand]\nUgh...\nIsso não é bom...\nO que devo fazer...?",
-        "es-ES": "[Vand]\nUf…\nEsto no está bien…\n¿Qué debo hacer…?"
+        "es-ES": "[Vand]\nUf...\nEsto no está bien...\n¿Qué debo hacer...?"
     },
     "4qdCAw": {
         "en-US": "- Wait a moment!! -\n- You're carrying too many items -\n- to get more. -\n- Please lighten your load, -\n- and then try again. -",
@@ -22,12 +22,12 @@
     "5KdCAw": {
         "en-US": "[Vand]\n......",
         "pt-BR": "[Vand]\n......",
-        "es-ES": "[Vand]\n…"
+        "es-ES": "[Vand]\n..."
     },
     "5adCAw": {
         "en-US": "[Vand]\nAh...\nWelcome.\nWhat would you like to order?",
         "pt-BR": "[Vand]\nAh...\nBem-vindo.\nO que você gostaria de pedir?",
-        "es-ES": "[Vand]\nAh…\nTe damos la bienvenida.\n¿Qué deseas ordenar?"
+        "es-ES": "[Vand]\nAh...\nTe damos la bienvenida.\n¿Qué deseas ordenar?"
     },
     "5qdCAw": {
         "en-US": "Beer",
@@ -67,7 +67,7 @@
     "7adCAw": {
         "en-US": "[{0}]\nSpecial Schwartz Beer, huh...\n(A deep brown liquid glitters in the pint.)",
         "pt-BR": "[{0}]\nCerveja especial Schwartz, hein...\n(Um líquido marrom escuro brilha na caneca).",
-        "es-ES": "[{0}]\nCerveza Schwarzwald especial, eh…\n(Un rico líquido marrón reluce en la pinta)."
+        "es-ES": "[{0}]\nCerveza Schwarzwald especial, eh...\n(Un rico líquido marrón reluce en la pinta)."
     },
     "7qdCAw": {
         "en-US": "[{0}]\n*Gulp!*",
@@ -82,12 +82,12 @@
     "8KdCAw": {
         "en-US": "[Vand]\nI reckon you liked that.\nHah hah...\nIt's specially made, after all...",
         "pt-BR": "[Vand]\nAchei que gostaria disso.\nHah hah...\nAfinal, foi feita especialmente para você...",
-        "es-ES": "[Vand]\nCreo que te gustó.\nJa, ja…\nAl fin y al cabo, es especial."
+        "es-ES": "[Vand]\nCreo que te gustó.\nJa, ja...\nAl fin y al cabo, es especial."
     },
     "8adCAw": {
         "en-US": "[Vand]\nWell...\nI'm sorry, dear customer.\nRight now, I only have enough cocktail bases\nto met the delivery requirements.\nI'll be sure to prepare enough next time, so please come again.",
         "pt-BR": "[Vand]\nBem...\nSinto muito, caro cliente.\nNo momento, só tenho bases de coquetel suficientes\npara atender aos requisitos de entrega.\nNa próxima vez, prepararei o suficiente, então, por favor, volte em breve.",
-        "es-ES": "[Vand]\nBueno…\nLo siento.\nAhora mismo, apenas me alcanza\npara entregar los pedidos de cócteles.\nPara la próxima me aseguraré de tener suficiente, así que vuelve pronto."
+        "es-ES": "[Vand]\nBueno...\nLo siento.\nAhora mismo, apenas me alcanza\npara entregar los pedidos de cócteles.\nPara la próxima me aseguraré de tener suficiente, así que vuelve pronto."
     },
     "8qdCAw": {
         "en-US": "[Vand]\nWhat?\nSoju, you say?\nI'm sorry, dear customer.\nWe don't have that particular spirit here.",
@@ -112,17 +112,17 @@
     "9qdCAw": {
         "en-US": "[Vand]\nOh... Uh...\nI guess you overheard me talking to myself.\nWell... Nothing big. Our delivery staff got hurt,\nso there are piles of deliveries to make,\nalong with all the stuff we need to fetch.",
         "pt-BR": "[Vand]\nOh... Uh...\nAcho que você me ouviu falando sozinho.\nBem... Nada de mais. Nossa equipe de entrega se machucou,\nentão há pilhas de entregas para fazer,\njunto com todas as coisas que precisamos buscar.",
-        "es-ES": "[Vand]\nOh… Uh…\nSupongo que me escuchaste hablar solo.\nBueno… No es nada. Nuestro repartidor se lesionó,\nasí que tenemos un montón de entregas pendientes,\ny muchas cosas que tenemos que ir a buscar."
+        "es-ES": "[Vand]\nOh... Uh...\nSupongo que me escuchaste hablar solo.\nBueno... No es nada. Nuestro repartidor se lesionó,\nasí que tenemos un montón de entregas pendientes,\ny muchas cosas que tenemos que ir a buscar."
     },
     "96dCAw": {
         "en-US": "[Vand]\n.........\nOur purchaser told us that\nthey'd make the delivery for us, so that's not a problem.\nThe problem is, we have loads of stuff\nthat need to be delivered to Kiel Hyre Academy...",
         "pt-BR": "[Vand]\n.........\nNosso comprador nos disse\nque eles fariam a entrega para nós, então isso não é um problema.\nO problema é que temos um monte de coisas\nque precisam ser entregues à Academia Kiel Hyre...",
-        "es-ES": "[Vand]\n…\nEl encargado de las compras nos dijo que\nharía las entregas, así que eso no es un problema.\nLa cuestión es que tenemos que entregar\nun montón de cosas a la Academia Kiel Hyre…"
+        "es-ES": "[Vand]\n...\nEl encargado de las compras nos dijo que\nharía las entregas, así que eso no es un problema.\nLa cuestión es que tenemos que entregar\nun montón de cosas a la Academia Kiel Hyre..."
     },
     "+KdCAw": {
         "en-US": "[Vand]\nMm...",
         "pt-BR": "[Vand]\nHmm...",
-        "es-ES": "[Vand]\nMm…"
+        "es-ES": "[Vand]\nMm..."
     },
     "+adCAw": {
         "en-US": "I see.",
@@ -137,12 +137,12 @@
     "+6dCAw": {
         "en-US": "[Vand]\nAh...\nLook at me blabbering to a customer.\nI'm sorry.\nJust forget what I just said... Hah hah...",
         "pt-BR": "[Vand]\nAh...\nOlhe eu fofocando com um cliente.\nDesculpe-me.\nEsqueça o que acabei de dizer... Hah hah...",
-        "es-ES": "[Vand]\nAh…\nMírame nada más, desvariando con un cliente.\nLo siento.\nOlvida lo que acabo de decir… Ja, ja…"
+        "es-ES": "[Vand]\nAh...\nMírame nada más, desvariando con un cliente.\nLo siento.\nOlvida lo que acabo de decir... Ja, ja..."
     },
     "/KdCAw": {
         "en-US": "[Vand]\nExcuse me?\nUmm.........\nThis will be a bit troublesome for you.\nBut could you help me?",
         "pt-BR": "[Vand]\nDesculpe-me?\nUmm.........\nIsso será um pouco problemático para você.\nMas poderia me ajudar?",
-        "es-ES": "[Vand]\n¿Disculpa?\nMmm…\nNo quisiera molestarte.\nPero ¿podrías ayudarme?"
+        "es-ES": "[Vand]\n¿Disculpa?\nMmm...\nNo quisiera molestarte.\nPero ¿podrías ayudarme?"
     },
     "/adCAw": {
         "en-US": "Of course.",
@@ -157,12 +157,12 @@
     "/6dCAw": {
         "en-US": "[Vand]\nFor real?\nThank you so much!!\nI really don't have anything to compensate you...",
         "pt-BR": "[Vand]\nSério?\nMuito obrigado!!!\nEu não tenho nada para por recompensá-lo...",
-        "es-ES": "[Vand]\n¿De verdad?\n¡Muchas gracias!\nNo tengo nada para compensarte…"
+        "es-ES": "[Vand]\n¿De verdad?\n¡Muchas gracias!\nNo tengo nada para compensarte..."
     },
     "AKhCAw": {
         "en-US": "[Vand]\nMm, mm...\nNow, let me give you the item to deliver\nand the name of the recipient.",
         "pt-BR": "[Vand]\nMm, mm...\nAgora, deixe-me lhe dar o item a ser entregue\ne o nome do destinatário.",
-        "es-ES": "[Vand]\nMm, mm…\nTe daré el objeto que debes entregar\ny el nombre del destinatario."
+        "es-ES": "[Vand]\nMm, mm...\nTe daré el objeto que debes entregar\ny el nombre del destinatario."
     },
     "AahCAw": {
         "en-US": "[Vand]\n^0000FFCooking Wine^000000 is the item to deliver,\nand the recipient is\n^0000FFMs. Lecollane^000000 of the ^0000FFKiel Hyre Academy^000000.\nGot it?",
@@ -177,7 +177,7 @@
     "A6hCAw": {
         "en-US": "[Vand]\n.........\nAlright...",
         "pt-BR": "[Vand]\n.........\nBeleza...",
-        "es-ES": "[Vand]\n…\nMuy bien…"
+        "es-ES": "[Vand]\n...\nMuy bien..."
     },
     "BKhCAw": {
         "en-US": "[Vand]\nThe deadline is coming, so please hurry up with the delivery.\n^0000FFMs. Lecollane^000000 is a strict person,\nso being late will definitely cause trouble.",
@@ -192,7 +192,7 @@
     "BqhCAw": {
         "en-US": "Umm... I need the Cooking Wine...",
         "pt-BR": "Humm... Preciso do Vinho de Cozinha...",
-        "es-ES": "Mmm… Necesito el Vino para cocinar…"
+        "es-ES": "Mmm... Necesito el Vino para cocinar..."
     },
     "B6hCAw": {
         "en-US": "[Vand]\nOh, I see.\nYou need more wine.\nOne moment, please.",
@@ -202,7 +202,7 @@
     "CKhCAw": {
         "en-US": "*Rummage, rummage*\n*Rummage...*\n...",
         "pt-BR": "*Fuça, fuça*\n*Fuça...*\n...",
-        "es-ES": "*Hurga, hurga*\n*Hurga…*\n…"
+        "es-ES": "*Hurga, hurga*\n*Hurga...*\n..."
     },
     "CahCAw": {
         "en-US": "[Vand]\nHere you are.\nOh, consider it a token of my goodwill.\nJust take it.",
@@ -212,12 +212,12 @@
     "CqhCAw": {
         "en-US": "[Vand]\nThank you so much for your help last time.\nHah hah...",
         "pt-BR": "[Vand]\nMuito obrigado pela sua ajuda antes.\nHah hah...",
-        "es-ES": "[Vand]\nMuchas gracias por tu ayuda la última vez.\nJa, ja…"
+        "es-ES": "[Vand]\nMuchas gracias por tu ayuda la última vez.\nJa, ja..."
     },
     "C6hCAw": {
         "en-US": "[Vand]\nHah hah...\nThanks for your help last time.",
         "pt-BR": "[Vand]\nHah hah...\nObrigado pela sua ajuda antes.",
-        "es-ES": "[Vand]\nJa, ja…\nGracias por tu ayuda la última vez."
+        "es-ES": "[Vand]\nJa, ja...\nGracias por tu ayuda la última vez."
     },
     "DKhCAw": {
         "en-US": "Guard",
@@ -237,7 +237,7 @@
     "D6hCAw": {
         "en-US": "......",
         "pt-BR": "......",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "EKhCAw": {
         "en-US": "[Guard]\nA delivery?\nPlease tell me the recipient's name and then the item to be delivered.",
@@ -272,7 +272,7 @@
     "FqhCAw": {
         "en-US": "[Guard]\n...Yes... Right...\n...Yes, got it.",
         "pt-BR": "[Guarda]\n...Sim... Certo...\n...Sim, entendi.",
-        "es-ES": "[Guardia]\n…Sí… Así es…\n…Sí, lo tengo."
+        "es-ES": "[Guardia]\n...Sí... Así es...\n...Sí, lo tengo."
     },
     "F6hCAw": {
         "en-US": "[Guard]\nLet me confirm.\nAre you here to deliver ^0000FFCulinary Wine^000000\nto ^0000FFMs. Lecollane^000000?",
@@ -327,7 +327,7 @@
     "IahCAw": {
         "en-US": "[Girl]\nAww... I want to enter\n^0000FFKiel Hyre Academy^000000 too...\nWhy did my mom not give birth to me\nas an orphan? Aww...",
         "pt-BR": "[Garota]\nAww... Eu também queria entrar \npara a ^0000FFAcademia Kiel Hyre^000000...\nPor que minha mãe não deu à luz\na mim órfã? Ahh...",
-        "es-ES": "[Chica]\nAy… Quiero entrar a la\n^0000FFAcademia Kiel Hyre^000000 también…\nOjalá fuera\nhuérfana. Ay…"
+        "es-ES": "[Chica]\nAy... Quiero entrar a la\n^0000FFAcademia Kiel Hyre^000000 también...\nOjalá fuera\nhuérfana. Ay..."
     },
     "IqhCAw": {
         "en-US": "Kiel Hyre Academy?",
@@ -342,12 +342,12 @@
     "JKhCAw": {
         "en-US": "[Girl]\nSo, you know, uh, what was it called... giving back to society?\nSomething like that is the reason he founded\nthis academy for orphans.",
         "pt-BR": "[Garota]\nEntão, você sabe, uh, como se chamava... retribuir à sociedade?\nAlgo assim é a razão pela qual ele fundou\nessa academia para órfãos.",
-        "es-ES": "[Chica]\nAsí que quiso, eh… ¿cómo se dice?… ¿Aportar a la sociedad?\nEsa es la razón por la que fundó \nesta academia para huérfanos."
+        "es-ES": "[Chica]\nAsí que quiso, eh... ¿cómo se dice?... ¿Aportar a la sociedad?\nEsa es la razón por la que fundó \nesta academia para huérfanos."
     },
     "JahCAw": {
         "en-US": "[Girl]\nI heard the graduates of this academy\ncan get jobs at nicer places.\nOh, I want to enter this academy, too...",
         "pt-BR": "[Garota]\nOuvi dizer que os formandos dessa academia\npodem conseguir empregos em lugares melhores.\nAh, eu também quero entrar nessa academia...",
-        "es-ES": "[Chica]\nMe dijeron que los egresados de esta academia\ntienen la oportunidad de trabajar en sitios mejores.\nOh, yo también quiero entrar en esta academia…"
+        "es-ES": "[Chica]\nMe dijeron que los egresados de esta academia\ntienen la oportunidad de trabajar en sitios mejores.\nOh, yo también quiero entrar en esta academia..."
     },
     "JqhCAw": {
         "en-US": "Student",
@@ -372,7 +372,7 @@
     "KqhCAw": {
         "en-US": "[Guinesha]\nWhat? Gh-ghost? N-no way...\n...",
         "pt-BR": "[Guinesha]\nO quê? Fantasma? N-não pode ser...\n...",
-        "es-ES": "[Guinesha]\n¿Qué? ¿F-fantasma? I-imposible…\n…"
+        "es-ES": "[Guinesha]\n¿Qué? ¿F-fantasma? I-imposible...\n..."
     },
     "K6hCAw": {
         "en-US": "[Lassy]\nIt's real! You know Asi in our class, right?\nWe haven't seen her around for a few days.\nI heard that's because she saw the ghost!",
@@ -382,17 +382,17 @@
     "LKhCAw": {
         "en-US": "[Guinesha]\nReally?\nOkay, this is getting scary...\nLet's not talk about that anymore...",
         "pt-BR": "[Guinesha]\nSério?\nOk, isso está ficando assustador...\nVamos parar de falar sobre isso...",
-        "es-ES": "[Guinesha]\n¿De verdad?\nEsto me está empezando a dar miedo…\nNo hablemos más del asunto…"
+        "es-ES": "[Guinesha]\n¿De verdad?\nEsto me está empezando a dar miedo...\nNo hablemos más del asunto..."
     },
     "LahCAw": {
         "en-US": "[Lassy]\nOh...\nWho are you?\nThis place is off-limits to outsiders.",
         "pt-BR": "[Lassy]\nOh...\nQuem é você?\nEste lugar não é permitido para pessoas de fora.",
-        "es-ES": "[Lassy]\nOh…\n¿Quién eres?\nEste lugar está prohibido para los forasteros."
+        "es-ES": "[Lassy]\nOh...\n¿Quién eres?\nEste lugar está prohibido para los forasteros."
     },
     "LqhCAw": {
         "en-US": "[Guinesha]\nErr...\nUh... Umm...\nI, uh...\nErm...",
         "pt-BR": "[Guinesha]\nErr...\nUh... Umm...\nEu, uh...\nErm...",
-        "es-ES": "[Guinesha]\nEh…\nUh… Mmm…\nYo, eh…\nMmm…"
+        "es-ES": "[Guinesha]\nEh...\nUh... Mmm...\nYo, eh...\nMmm..."
     },
     "L6hCAw": {
         "en-US": "Madame",
@@ -422,7 +422,7 @@
     "NKhCAw": {
         "en-US": "[Lecollane]\nAnd...",
         "pt-BR": "[Lecollane]\nE...",
-        "es-ES": "[Lecollane]\nY…"
+        "es-ES": "[Lecollane]\nY..."
     },
     "NahCAw": {
         "en-US": "[?????]\nWaaaaah!!!",
@@ -437,7 +437,7 @@
     "N6hCAw": {
         "en-US": ".........\n......\n...",
         "pt-BR": ".........\n......\n...",
-        "es-ES": "…\n…\n…"
+        "es-ES": "...\n...\n..."
     },
     "OKhCAw": {
         "en-US": "[Lecollane]\nOh, ^FF0000Elly^000000, not again.\nWhen will you stop acting so carelessly?\nIf you don't finish the cookies by this evening,\nyou will fail this semester. Understand?",
@@ -447,7 +447,7 @@
     "OahCAw": {
         "en-US": "[Elly]\nUh... Err...\nB-but...",
         "pt-BR": "[Elly]\nUh... Err...\nMas...",
-        "es-ES": "[Elly]\nUh… Eh…\nP- Pero…"
+        "es-ES": "[Elly]\nUh... Eh...\nP- Pero..."
     },
     "OqhCAw": {
         "en-US": "[Lecollane]\n^FF0000Elly^000000!!",
@@ -457,12 +457,12 @@
     "O6hCAw": {
         "en-US": "[Elly]\n......\nYes... I understand.\nMa'am...",
         "pt-BR": "[Elly]\n......\nSim... Eu entendo.\nSenhora...",
-        "es-ES": "[Elly]\n…\nSí… Entiendo.\nSeñora…"
+        "es-ES": "[Elly]\n...\nSí... Entiendo.\nSeñora..."
     },
     "PKhCAw": {
         "en-US": "[Lecollane]\nAhem...\nAlright, you may leave the item here\nand return.\nAnd don't try to poke about.",
         "pt-BR": "[Lecollane]\nAhem...\nCerto, você pode deixar o item aqui\ne retornar.\nE não vá bisbilhotar por aí.",
-        "es-ES": "[Lecollane]\nEjem…\nMuy bien, deja eso ahí \ny retírate.\nY no andes fisgoneando."
+        "es-ES": "[Lecollane]\nEjem...\nMuy bien, deja eso ahí \ny retírate.\nY no andes fisgoneando."
     },
     "PahCAw": {
         "en-US": "[Lecollane]\nThis area is off-limits to outsiders,\nso be sure not to frivolously wander around.",
@@ -472,7 +472,7 @@
     "PqhCAw": {
         "en-US": "[Lecollane]\nHurry back if your business here is done.\nKids these days... Ugh...\n......",
         "pt-BR": "[Lecollane]\nVolte logo se encerrou seus negócios por aqui.\nAs crianças de hoje em dia... Ugh...\n......",
-        "es-ES": "[Lecollane]\nSi ya hiciste lo que viniste a hacer, retírate.\nLos jóvenes de hoy en día… Uf…\n…"
+        "es-ES": "[Lecollane]\nSi ya hiciste lo que viniste a hacer, retírate.\nLos jóvenes de hoy en día... Uf...\n..."
     },
     "P6hCAw": {
         "en-US": "Cute Child",
@@ -502,7 +502,7 @@
     "RKhCAw": {
         "en-US": "[Suzu]\nAh...\nBig sis ^FF0000Elly^000000 sent you?",
         "pt-BR": "[Suzu]\nAh...\nA irmã mais velha ^FF0000Elly^000000 mandou você?",
-        "es-ES": "[Suzu]\nAh…\n¿Te envía la hermana ^FF0000Elly^000000?"
+        "es-ES": "[Suzu]\nAh...\n¿Te envía la hermana ^FF0000Elly^000000?"
     },
     "RahCAw": {
         "en-US": "[Suzu]\n*Sigh* I think I know what this is about.\nShe ruined her practice ingredients again, right?\nOh, ^FF0000Elly^000000, you never cease to be you.",
@@ -517,7 +517,7 @@
     "R6hCAw": {
         "en-US": "[Suzu]\nHowever...\nUnfortunately, we're out of ingredients right now.\nI can't spare any from what we currently have.\nWould you go to Lighthalzen Mill\nand get the ingredients from there?",
         "pt-BR": "[Suzu]\nNo entanto...\nInfelizmente, estamos sem ingredientes no momento.\nNão posso dispensar nenhum dos que temos atualmente.\nVocê poderia ir ao Moinho Lighthalzen\ne pegar os ingredientes lá?",
-        "es-ES": "[Suzu]\nPero…\nLamentablemente, no nos quedan ingredientes.\nNo puedo ofrecerte nada de lo que tenemos.\n¿Podrías ir al molino de Lighthalzen\npara buscar los ingredientes?"
+        "es-ES": "[Suzu]\nPero...\nLamentablemente, no nos quedan ingredientes.\nNo puedo ofrecerte nada de lo que tenemos.\n¿Podrías ir al molino de Lighthalzen\npara buscar los ingredientes?"
     },
     "SKhCAw": {
         "en-US": "[Suzu]\nTell the people there that Juno Toast Shop sent you,\nand they will give you Flour and Eggs.\nBring them to me, and then I will\nspare you some.",
@@ -562,17 +562,17 @@
     "UKhCAw": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "UahCAw": {
         "en-US": "[Mills]\nAah...\nYou're from the toast shop, eh?\nWait here.",
         "pt-BR": "[Mills]\nAah...\nVocê é da loja de torradas, hein?\nEspere aqui.",
-        "es-ES": "[Mills]\nAah…\nVienes de la tienda de tostadas, ¿eh?\nEspera aquí."
+        "es-ES": "[Mills]\nAah...\nVienes de la tienda de tostadas, ¿eh?\nEspera aquí."
     },
     "UqhCAw": {
         "en-US": "[Mills]\nHmm...\nNow, where did I put them...?\nAh, found them.",
         "pt-BR": "[Mills]\nHmm...\nAgora, onde eu os coloquei...?\nAh, encontrei.",
-        "es-ES": "[Mills]\nMmm…\n¿Dónde los puse…?\nAh, aquí están."
+        "es-ES": "[Mills]\nMmm...\n¿Dónde los puse...?\nAh, aquí están."
     },
     "U6hCAw": {
         "en-US": "[Mills]\nHere you are.\nEggs are fragile, so be careful.",
@@ -587,7 +587,7 @@
     "VahCAw": {
         "en-US": "[Mills]\nUgh, that cheeky brat.\nAlways trying to get away from work\nand slacking off...",
         "pt-BR": "[Mills]\nArgh, que moleque atrevido.\nSempre tentando fugir do trabalho\ne ficar de preguiça...",
-        "es-ES": "[Mills]\n¡Mocoso desvergonzado!\nSiempre intentando librarse del trabajo\ny holgazaneando…"
+        "es-ES": "[Mills]\n¡Mocoso desvergonzado!\nSiempre intentando librarse del trabajo\ny holgazaneando..."
     },
     "VqhCAw": {
         "en-US": "Mill Assistant",
@@ -597,17 +597,17 @@
     "V6hCAw": {
         "en-US": "[Kus]\nBah...\nHe always pretends to be busy,\neven though he isn't at all.\n*Grumbles*...",
         "pt-BR": "[Kus]\nBah...\nEle sempre finge estar ocupado,\nmesmo não estando.\n*Resmunga*...",
-        "es-ES": "[Kus]\nBah.\nSe hace el ocupado siempre,\naunque no está haciendo nada.\n*Gruñido*…"
+        "es-ES": "[Kus]\nBah.\nSe hace el ocupado siempre,\naunque no está haciendo nada.\n*Gruñido*..."
     },
     "WKhCAw": {
         "en-US": "[Kus]\nWhoa!\nI'm not slacking off!\nI'm working, look at me...\n*Grumbles*...",
         "pt-BR": "[Kus]\nUau!\nNão estou de preguiça!\nEstou trabalhando, olhe para mim...\n*Resmunga*...",
-        "es-ES": "[Kus]\n¡Vaya!\n¡No estoy holgazaneando!\nEstoy trabajando, mira…\n*Gruñido*…"
+        "es-ES": "[Kus]\n¡Vaya!\n¡No estoy holgazaneando!\nEstoy trabajando, mira...\n*Gruñido*..."
     },
     "WahCAw": {
         "en-US": "[Kus]\nOh!\nJuno Toast Shop?\nSuzu there is very pretty...\nHeh heh...",
         "pt-BR": "[Kus]\nAh!\nLoja de Torrada da Juno?\nA Suzu que trabalha lá é bem bonita...\nHeh heh...",
-        "es-ES": "[Kus]\n¡Ah!\n¿La Tienda de tostadas de Juno?\nSuzu es muy bonita…\nJe, je…"
+        "es-ES": "[Kus]\n¡Ah!\n¿La Tienda de tostadas de Juno?\nSuzu es muy bonita...\nJe, je..."
     },
     "WqhCAw": {
         "en-US": "Cottagekeeper",
@@ -657,17 +657,17 @@
     "Y6hCAw": {
         "en-US": "[Elly]\nWaah! Waaaah!\nWhew...\nI almost dropped it again...\nGotta be careful...",
         "pt-BR": "[Elly]\nAhhh! Aaaaah!\nUfa...\nQuase deixei cair de novo...\nPreciso ter mais cuidado...",
-        "es-ES": "[Elly]\n¡Ahhh! ¡Ahhhhh!\nUf…\nCasi se me cae otra vez…\nDebo tener cuidado…"
+        "es-ES": "[Elly]\n¡Ahhh! ¡Ahhhhh!\nUf...\nCasi se me cae otra vez...\nDebo tener cuidado..."
     },
     "ZKhCAw": {
         "en-US": "[Elly]\nOooooh...\nWhat should I do? What should I do?\nAww......",
         "pt-BR": "[Elly]\nOooooh...\nO que devo fazer? O que devo fazer?\nAww......",
-        "es-ES": "[Elly]\nOooooh…\n¿Qué debo hacer? ¿Qué debo hacer?\nAy…"
+        "es-ES": "[Elly]\nOooooh...\n¿Qué debo hacer? ¿Qué debo hacer?\nAy..."
     },
     "ZahCAw": {
         "en-US": "[Elly]\nHuh? Uh... It's, uh...\nI have to bake cookies,\nbut I dropped the ingredients... *Sniff*...\nI have to finish it by this evening...",
         "pt-BR": "[Elly]\nHã? Uh... É, uh...\nEu tenho que fazer biscoitos,\nmas deixei cair os ingredientes... *Sniff*...\nPreciso terminá-los esta noite...",
-        "es-ES": "[Elly]\n¿Eh? Uh… Es…\nTengo que hacer galletas,\npero se me cayeron los ingredientes… *Solloza*…\nDebo tenerlo todo listo para esta tarde…"
+        "es-ES": "[Elly]\n¿Eh? Uh... Es...\nTengo que hacer galletas,\npero se me cayeron los ingredientes... *Solloza*...\nDebo tenerlo todo listo para esta tarde..."
     },
     "ZqhCAw": {
         "en-US": "Can I help you?",
@@ -687,27 +687,27 @@
     "aahCAw": {
         "en-US": "[{0}]\nEh? Uh... Hah hah...\nReally. I'll help you.",
         "pt-BR": "[{0}]\nEh? Uh... Hah hah...\nSério. Vou te ajudar.",
-        "es-ES": "[{0}]\n¿Eh? Uh… Ja, ja…\nEn serio. Te ayudaré."
+        "es-ES": "[{0}]\n¿Eh? Uh... Ja, ja...\nEn serio. Te ayudaré."
     },
     "aqhCAw": {
         "en-US": "[Elly]\nHehe, heh...\nThank you, thank you!\nEhehe.",
         "pt-BR": "[Elly]\nHehe, heh...\nObrigada, obrigada!\nEhehe.",
-        "es-ES": "[Elly]\nJe, je…\nGracias, gracias.\nJe, je, je."
+        "es-ES": "[Elly]\nJe, je...\nGracias, gracias.\nJe, je, je."
     },
     "a6hCAw": {
         "en-US": "[{0}]\nHah hah...\nSo, what should I help you with?",
         "pt-BR": "[{0}]\nHah hah...\nEntão, como posso te ajudar?",
-        "es-ES": "[{0}]\nJa, ja…\nEntonces, ¿en qué te ayudo?"
+        "es-ES": "[{0}]\nJa, ja...\nEntonces, ¿en qué te ayudo?"
     },
     "bKhCAw": {
         "en-US": "[Elly]\nOh, right...\nIn fact...\nI ruined all the cookie ingredients\na moment ago...\nSo I need to get more ingredients...",
         "pt-BR": "[Elly]\nAh, sim...\nNa verdade...\nEstraguei todos os ingredientes para o cookie\nagora há pouco...\nEntão, preciso de mais ingredientes...",
-        "es-ES": "[Elly]\nAy, cierto…\nPues…\nArruiné todos los ingredientes de las galletas\nhace un momento…\nAsí que necesito más ingredientes…"
+        "es-ES": "[Elly]\nAy, cierto...\nPues...\nArruiné todos los ingredientes de las galletas\nhace un momento...\nAsí que necesito más ingredientes..."
     },
     "bahCAw": {
         "en-US": "[Elly]\nThat was the last batch of ingredients I had.\nAww...",
         "pt-BR": "[Elly]\nEsse foio último lote de ingredientes que eu tinha.\nAh...",
-        "es-ES": "[Elly]\nEse era el último lote de ingredientes que tenía.\nAy…"
+        "es-ES": "[Elly]\nEse era el último lote de ingredientes que tenía.\nAy..."
     },
     "bqhCAw": {
         "en-US": "[{0}]\nHey, don't cry.\nTell me one thing at a time.\nDo you want me to get you cookie ingredients?",
@@ -717,7 +717,7 @@
     "b6hCAw": {
         "en-US": "[Elly]\nYes but...\nMm...\nI-I'm sorry...\nI shouldn't be asking something like this to a stranger...",
         "pt-BR": "[Elly]\nSim, mas...\nMm...\nEu sinto muito...\nEu não deveria estar pedindo algo assim para um estranho...",
-        "es-ES": "[Elly]\nSí, pero…\nMm…\nLo siento…\nNo debería pedirle algo así a una persona extraña…"
+        "es-ES": "[Elly]\nSí, pero...\nMm...\nLo siento...\nNo debería pedirle algo así a una persona extraña..."
     },
     "cKhCAw": {
         "en-US": "[{0}]\nIt's okay. Just tell me the ingredients.\nIf you don't hurry up, that uptight lady\nwill fail you.",
@@ -737,7 +737,7 @@
     "c6hCAw": {
         "en-US": "[{0}]\nMm...\nWell, that certainly is a lot.",
         "pt-BR": "[{0}]\nHumm...\nBem, isso é bastante.",
-        "es-ES": "[{0}]\nMm…\nBueno, es bastante."
+        "es-ES": "[{0}]\nMm...\nBueno, es bastante."
     },
     "dKhCAw": {
         "en-US": "[Elly]\nWaaaaa----h!\nI'm sorry! I'm so sorry!\nElly's bad! Bad Elly! Bad!",
@@ -762,7 +762,7 @@
     "eKhCAw": {
         "en-US": "[Elly]\nAww...\nWhat should I do? Oh...\nErm...\nHellooo?",
         "pt-BR": "[Elly]\nAhh..\nO que devo fazer? Oh...\nEhh...\nOlá?",
-        "es-ES": "[Elly]\nAy…\n¿Qué debo hacer? Oh…\nMmm…\n¿Hola?"
+        "es-ES": "[Elly]\nAy...\n¿Qué debo hacer? Oh...\nMmm...\n¿Hola?"
     },
     "eahCAw": {
         "en-US": "Huh?",
@@ -772,7 +772,7 @@
     "eqhCAw": {
         "en-US": "[Elly]\nExcuse meee...\nYou look like a delivery person...\nPlease help me!\nPlease? Please? Please?",
         "pt-BR": "[Elly]\nDesculpe-me...\nVocê parece um entregador...\nPor favor, me ajude!\nPor favor? Por favor? Por favor?",
-        "es-ES": "[Elly]\nDisculpa…\nTe ves como alguien que hace entregas…\n¡Ayúdame por favor!\nPor favor… Por favor… Por favor…"
+        "es-ES": "[Elly]\nDisculpa...\nTe ves como alguien que hace entregas...\n¡Ayúdame por favor!\nPor favor... Por favor... Por favor..."
     },
     "e6hCAw": {
         "en-US": "The girl held my arm and began to desperately plead for my help.",
@@ -782,17 +782,17 @@
     "fKhCAw": {
         "en-US": "[{0}]\nHuh?\nI, uh, well, it's uh...\nAhaha...",
         "pt-BR": "[{0}]\nHã?\nEu, uh, bem, é uh...\nAhaha...",
-        "es-ES": "[{0}]\n¿Eh?\nYo, eh, bueno, esto…\nJa, ja, ja…"
+        "es-ES": "[{0}]\n¿Eh?\nYo, eh, bueno, esto...\nJa, ja, ja..."
     },
     "fahCAw": {
         "en-US": "[Elly]\nPlease? Please? Please?\nYou're gonna help me, right?\nRight?",
         "pt-BR": "[Elly]\nPor favor? Por favor? Por favor?\nVocê vai me ajudar, certo?\nCerto?",
-        "es-ES": "[Elly]\nPor favor… Por favor… Por favor…\nMe ayudarás, ¿verdad?\n¿Verdad?"
+        "es-ES": "[Elly]\nPor favor... Por favor... Por favor...\nMe ayudarás, ¿verdad?\n¿Verdad?"
     },
     "fqhCAw": {
         "en-US": "[{0}]\nAhahahaha...",
         "pt-BR": "[{0}]\nAhahahaha...",
-        "es-ES": "[{0}]\nJa, ja, ja…"
+        "es-ES": "[{0}]\nJa, ja, ja..."
     },
     "f6hCAw": {
         "en-US": "Help her",
@@ -807,12 +807,12 @@
     "gahCAw": {
         "en-US": "[{0}]\nUh... Umm...\nYeah.",
         "pt-BR": "[{0}]\nUh... Umm...\nSim.",
-        "es-ES": "[{0}]\nUh… Mmm…\nSí."
+        "es-ES": "[{0}]\nUh... Mmm...\nSí."
     },
     "gqhCAw": {
         "en-US": "[{0}]\nMm...\nSo, what should I help you with?",
         "pt-BR": "[{0}]\nHumm...\nEntão, como posso te ajudar?",
-        "es-ES": "[{0}]\nMm…\nEntonces, ¿en qué te ayudo?"
+        "es-ES": "[{0}]\nMm...\nEntonces, ¿en qué te ayudo?"
     },
     "g6hCAw": {
         "en-US": "[Elly]\nAh! Y-yes!\nI need ^FF00001 Flour, 1 Egg, 2 Cheese,\n1 Wine, 7 Milk, and 5 Cacaos^000000.",
@@ -827,7 +827,7 @@
     "hahCAw": {
         "en-US": "[Elly]\n*Sniff*...\nOkaaay...\nI'm sorry for bothering you...\n*Sniff*...",
         "pt-BR": "[Elly]\n*Sniff*...\nOkkk...\nDesculpe-me por incomodá-lo...\n*Sniff*...",
-        "es-ES": "[Elly]\n*Solloza*…\nBueeeeno…\nSiento haberte molestado…\n*Solloza*…"
+        "es-ES": "[Elly]\n*Solloza*...\nBueeeeno...\nSiento haberte molestado...\n*Solloza*..."
     },
     "hqhCAw": {
         "en-US": "[Elly]\n*Snif* *Sob*",
@@ -842,7 +842,7 @@
     "iKhCAw": {
         "en-US": "[Elly]\nWow!\nYou've got them all.\nHeheh...\nThank you so much!\nHehe.",
         "pt-BR": "[Elly]\nUau!\nVocê conseguiu tudo.\nHeheh...\nMuito obrigada!\nHehe.",
-        "es-ES": "[Elly]\n¡Vaya!\nLo trajiste todo.\nJe, je, je…\n¡Muchas gracias!\nJe, je."
+        "es-ES": "[Elly]\n¡Vaya!\nLo trajiste todo.\nJe, je, je...\n¡Muchas gracias!\nJe, je."
     },
     "iahCAw": {
         "en-US": "[Elly]\nEhehe...\nPlease wait a moment!\nLa, la, la!",
@@ -852,17 +852,17 @@
     "iqhCAw": {
         "en-US": "[Elly]\nTa-da!\nSpecial Elly Cookies,\ncomplete!\nHeheh...",
         "pt-BR": "[Elly]\nTa-da!\nCookies especiais da Elly,\nprontos!\nHeheh...",
-        "es-ES": "[Elly]\n¡Tarán!\nLas galletas especiales de Elly…\n¡están listas!\nJe, je, je…"
+        "es-ES": "[Elly]\n¡Tarán!\nLas galletas especiales de Elly...\n¡están listas!\nJe, je, je..."
     },
     "i6hCAw": {
         "en-US": "[Elly]\nThis is a token of my thanks.\nHeheh...\nThank you so much... Oh!",
         "pt-BR": "[Elly]\nEste é um símbolo de minha gratidão.\nHeheh...\nMuito obrigada... Ah!",
-        "es-ES": "[Elly]\nEsto es una muestra de agradecimiento.\nJe, je, je…\nMuchas gracias… ¡Ah!"
+        "es-ES": "[Elly]\nEsto es una muestra de agradecimiento.\nJe, je, je...\nMuchas gracias... ¡Ah!"
     },
     "jKhCAw": {
         "en-US": "[Elly]\nI haven't even heard your name yet.\nI'm ^FF0000Elly^000000, short for Eliza.\nElly's a nickname.\nHeheh...",
         "pt-BR": "[Elly]\nNão perguntei o seu nome.\nSou a ^FF0000Elly^000000, diminutivo de Eliza.\nElly é um apelido.\nHeheh...",
-        "es-ES": "[Elly]\nAún no me has dicho tu nombre.\nMe llamo Eliza, pero me dicen ^FF0000Elly^000000.\nEs un apodo.\nJe, je, je…"
+        "es-ES": "[Elly]\nAún no me has dicho tu nombre.\nMe llamo Eliza, pero me dicen ^FF0000Elly^000000.\nEs un apodo.\nJe, je, je..."
     },
     "jahCAw": {
         "en-US": "[{0}]\nMy name is ^0000FF{0}^000000.",
@@ -872,12 +872,12 @@
     "jqhCAw": {
         "en-US": "[Elly]\nHeheh...\n{0}...",
         "pt-BR": "[Elly]\nHeheh...\n{0}...",
-        "es-ES": "[Elly]\nJe, je, je…\n{0}…"
+        "es-ES": "[Elly]\nJe, je, je...\n{0}..."
     },
     "j6hCAw": {
         "en-US": "[Elly]\nErm...... Excuse me...\nI have another request. Could you... help me with this one, too?",
         "pt-BR": "[Elly]\nErm...... Desculpe-me...\nTenho outro pedido. Você poderia... me ajudar com esse também?",
-        "es-ES": "[Elly]\nMmm… Disculpa…\nNecesito otro favor. ¿Podrías… ayudarme con esto también?"
+        "es-ES": "[Elly]\nMmm... Disculpa...\nNecesito otro favor. ¿Podrías... ayudarme con esto también?"
     },
     "kKhCAw": {
         "en-US": "What is it?",
@@ -892,27 +892,27 @@
     "kqhCAw": {
         "en-US": "[Elly]\nUmm...\nI, uh...\nI have a grandpa\nwho is very dear to me.",
         "pt-BR": "[Elly]\nHumm...\nEu, uh...\nEu tenho um avô\nque é muito querido para mim.",
-        "es-ES": "[Elly]\nMmm…\nYo, eh…\nTengo un abuelo\nal que quiero muchísimo."
+        "es-ES": "[Elly]\nMmm...\nYo, eh...\nTengo un abuelo\nal que quiero muchísimo."
     },
     "k6hCAw": {
         "en-US": "[Elly]\nThanks to your help, {0},\nI baked some delicious cookies!\nI'd always burnt them before... Heheh...\n......",
         "pt-BR": "[Elly]\nGraças à sua ajuda, {0},\nfiz alguns biscoitos deliciosos!\nAntes, eu sempre os queimava... Heheh...\n......",
-        "es-ES": "[Elly]\nGracias a tu ayuda, {0},\n¡las galletas quedaron deliciosas!\nSiempre se me quemaban… Je, je, je…\n…"
+        "es-ES": "[Elly]\nGracias a tu ayuda, {0},\n¡las galletas quedaron deliciosas!\nSiempre se me quemaban... Je, je, je...\n..."
     },
     "lKhCAw": {
         "en-US": "[Elly]\nSo, I, uhh...\nI'd like to deliver these cookies\nto my grandpa!\nI'm sure grandpa will be\nvery happy to see them.",
         "pt-BR": "[Elly]\nEntão, eu, uhh...\nEu gostaria de entregar esses biscoitos\npara o meu avô!\nTenho certeza de que o vovô ficará\nmuito feliz ao vê-los.",
-        "es-ES": "[Elly]\nAsí que, eh…\nMe gustaría darle estas galletas\na mi abuelo.\nEstoy segura de que lo harán\nmuy feliz."
+        "es-ES": "[Elly]\nAsí que, eh...\nMe gustaría darle estas galletas\na mi abuelo.\nEstoy segura de que lo harán\nmuy feliz."
     },
     "lahCAw": {
         "en-US": "[Elly]\nI want to\ndeliver them myself,\nbut I can't get out of the academy right now.\nThe cookies will lose the taste\nover time...",
         "pt-BR": "[Elly]\nQueria\nentregá-los eu mesmo,\nmas não posso sair da academia agora.\nOs biscoitos perderão o sabor\ncom o tempo...",
-        "es-ES": "[Elly]\nQuisiera\nentregárselas yo misma,\npero no puedo salir de la academia.\nLas galletas perderán su gusto\ncon el tiempo…"
+        "es-ES": "[Elly]\nQuisiera\nentregárselas yo misma,\npero no puedo salir de la academia.\nLas galletas perderán su gusto\ncon el tiempo..."
     },
     "lqhCAw": {
         "en-US": "[Elly]\n......\n........\n.........",
         "pt-BR": "[Elly]\n......\n........\n.........",
-        "es-ES": "[Elly]\n…\n…\n…"
+        "es-ES": "[Elly]\n...\n...\n..."
     },
     "l6hCAw": {
         "en-US": "Alright, I'll deliver them for you.",
@@ -927,7 +927,7 @@
     "mahCAw": {
         "en-US": "[Elly]\nWhoa!\nThank you!\nYou're so kind, {0}.\nHeheh...\nHehehe...",
         "pt-BR": "[Elly]\nUau!\nObrigada!\nVocê é muito gentil, {0}.\nHeheh...\nHehehe...",
-        "es-ES": "[Elly]\n¡Vaya!\n¡Gracias!\nEres muy amable, {0}.\nJe, je, je…\nJe, je, je…"
+        "es-ES": "[Elly]\n¡Vaya!\n¡Gracias!\nEres muy amable, {0}.\nJe, je, je...\nJe, je, je..."
     },
     "mqhCAw": {
         "en-US": "[Elly]\nGrandpa is in\n^0000FFKiel Hyre's Cottage^000000.\nTell him Elly sent you,\nand he will let you see him.",
@@ -937,12 +937,12 @@
     "m6hCAw": {
         "en-US": "[Elly]\nI see...\nIt can't be helped, then...\n......",
         "pt-BR": "[Elly]\nEstou vendo...\nEntão, não há nada que posso fazer..\n......",
-        "es-ES": "[Elly]\nYa veo…\nNo hay nada que hacer entonces…\n…"
+        "es-ES": "[Elly]\nYa veo...\nNo hay nada que hacer entonces...\n..."
     },
     "nKhCAw": {
         "en-US": "[Elly]\nWha!\nWell... It can't be helped, then...\nErm...",
         "pt-BR": "[Elly]\nO quê!\nBem... Não há nada que posso fazer....\nErm...",
-        "es-ES": "[Elly]\n¿Qué…?\nBueno… No hay nada que hacer entonces…\nMmm…"
+        "es-ES": "[Elly]\n¿Qué...?\nBueno... No hay nada que hacer entonces...\nMmm..."
     },
     "nahCAw": {
         "en-US": "[Elly]\n^FF0000Kiel Hyre's Cottage^000000 is to the ^FF0000north of the academy^000000.",
@@ -952,27 +952,27 @@
     "nqhCAw": {
         "en-US": "[Elly]\nUmm...\nGrandpa is on a business trip?\n......",
         "pt-BR": "[Elly]\nHumm...\nO vovô está em uma viagem de negócios?\n......",
-        "es-ES": "[Elly]\nMmm…\n¿Mi abuelo está de viaje de negocios?\n…"
+        "es-ES": "[Elly]\nMmm...\n¿Mi abuelo está de viaje de negocios?\n..."
     },
     "n6hCAw": {
         "en-US": "[Elly]\nStrange... He didn't mention\nany business trip to me...\nHe told me he'd be\nin the cottage today...",
         "pt-BR": "[Elly]\nEstranho... Ele não mencionou\nnenhuma viagem de negócios...\nEle me disse que estaria\nno chalé hoje...",
-        "es-ES": "[Elly]\nQué extraño… No me dijo nada\nacerca de un viaje de negocios…\nMe dijo que estaría\nen la cabaña hoy…"
+        "es-ES": "[Elly]\nQué extraño... No me dijo nada\nacerca de un viaje de negocios...\nMe dijo que estaría\nen la cabaña hoy..."
     },
     "oKhCAw": {
         "en-US": "[Elly]\nUmm... Could you go there again?\nOh! Grandpa gave me a spare key to the cottage before.\nTake it with you.\nThis ^FF0000key^000000 will let you\nget into the cottage.",
         "pt-BR": "[Elly]\nHumm... Você poderia ir lá novamente?\nOh! O vovô me deu uma chave reserva do chalé.\nLeve-a com você.\nEssa ^FF0000chave^000000 permitirá que você\nentre no chalé.",
-        "es-ES": "[Elly]\nMmm… ¿Podrías ir allí de nuevo?\n¡Ah! El abuelo me dio una llave de repuesto de la cabaña.\nLlévatela.\nCon esta ^FF0000llave^000000\npodrás entrar a la cabaña."
+        "es-ES": "[Elly]\nMmm... ¿Podrías ir allí de nuevo?\n¡Ah! El abuelo me dio una llave de repuesto de la cabaña.\nLlévatela.\nCon esta ^FF0000llave^000000\npodrás entrar a la cabaña."
     },
     "oahCAw": {
         "en-US": "[Elly]\nStrange...\nHe told me he'd definitely be there...\nErm...",
         "pt-BR": "[Elly]\nEstranho...\nEle me disse que estaria lá com certeza...\nErm...",
-        "es-ES": "[Elly]\nQué extraño…\nMe dijo que estaría allí…\nMmm…"
+        "es-ES": "[Elly]\nQué extraño...\nMe dijo que estaría allí...\nMmm..."
     },
     "oqhCAw": {
         "en-US": "[Elly]\nHuh?\nThis is...\n......",
         "pt-BR": "[Elly]\nHã?\nIsso é...\n......",
-        "es-ES": "[Elly]\n¿Eh?\nEsto es…\n…"
+        "es-ES": "[Elly]\n¿Eh?\nEsto es...\n..."
     },
     "o6hCAw": {
         "en-US": "Elly opens the sealed envelope\nand starts to read the letter.",
@@ -987,12 +987,12 @@
     "pahCAw": {
         "en-US": "[Elly]\nGrandpa...\nIt's already been ten days\nfrom the day this letter was left...\nIs grandpa in danger right now?\nWhat should I do? *Sniff*...",
         "pt-BR": "[Elly]\nVovô...\nJá se passaram dez dias\ndesde o dia em que esta carta foi deixada...\nO vovô está correndo perigo agora?\nO que devo fazer? *Sniff*...",
-        "es-ES": "[Elly]\nAbuelo…\nYa pasaron diez días\ndesde que dejó esta carta…\n¿Será que el abuelo está en peligro?\n¿Qué debo hacer? *Solloza*."
+        "es-ES": "[Elly]\nAbuelo...\nYa pasaron diez días\ndesde que dejó esta carta...\n¿Será que el abuelo está en peligro?\n¿Qué debo hacer? *Solloza*."
     },
     "pqhCAw": {
         "en-US": "[Elly]\n........",
         "pt-BR": "[Elly]\n........",
-        "es-ES": "[Elly]\n…"
+        "es-ES": "[Elly]\n..."
     },
     "p6hCAw": {
         "en-US": "Ask about Grandpa.",
@@ -1012,7 +1012,7 @@
     "qqhCAw": {
         "en-US": "[{0}]\nElly, your grandpa.\nWho is he?\nSeems he's gotten involved in something complicated.",
         "pt-BR": "[{0}]\nElly, seu avô.\nQuem é ele?\nParece que ele se envolveu em algo complicado.",
-        "es-ES": "[{0}]\nElly, tu abuelo…\n¿Quién es?\nParece que se metió en problemas."
+        "es-ES": "[{0}]\nElly, tu abuelo...\n¿Quién es?\nParece que se metió en problemas."
     },
     "q6hCAw": {
         "en-US": "[Elly]\nThe grandpa I mentioned is Kiel Hyre.\nChairman ^FF0000Kiel Hyre^000000 of the foundation.",
@@ -1027,7 +1027,7 @@
     "rahCAw": {
         "en-US": "[Elly]\nOh, Grandpa... Please be safe...",
         "pt-BR": "[Elly]\nOh, vovô... Por favor, esteja bem...",
-        "es-ES": "[Elly]\nAy, abuelo… Cuídate, por favor…"
+        "es-ES": "[Elly]\nAy, abuelo... Cuídate, por favor..."
     },
     "rqhCAw": {
         "en-US": "[{0}]\nThe letter mentioned your grandpa's son.\nWho is this ^0000FFKiehl^000000 guy?\nLooks like he's on bad terms with your grandpa.",
@@ -1062,7 +1062,7 @@
     "tKhCAw": {
         "en-US": "[Elly]\nI wonder why they didn't get along.\nThe son is such a beautiful person,\nand the father is such a kind grandpa...",
         "pt-BR": "[Elly]\nEu me pergunto por que eles não se davam bem.\nO filho é uma pessoa tão bonita,\ne o pai é um avô tão gentil...",
-        "es-ES": "[Elly]\nNo sé por qué no se llevaban bien.\nEl hijo es muy hermoso\ny el abuelo es muy amable…"
+        "es-ES": "[Elly]\nNo sé por qué no se llevaban bien.\nEl hijo es muy hermoso\ny el abuelo es muy amable..."
     },
     "tahCAw": {
         "en-US": "[{0}]\nWhat kind of academy is this?\nThe security is very tight for an academy,\nand the facilities look much better\nthan other academies.",
@@ -1077,12 +1077,12 @@
     "t6hCAw": {
         "en-US": "[Elly]\nOh, I'm aiming to be a secretary\nin either Kafra or Kiel Hyre HQ.\nI wish to become an incredible woman.\nLike Ms. ^0000FFAllysia^000000! Heheh...",
         "pt-BR": "[Elly]\nAh, meu objetivo é ser secretária\nna sede da Kafra ou da Kiel Hyre.\nQuero me tornar uma mulher incrível.\nComo a Sra. ^0000FFAllysia^000000! Heheh...",
-        "es-ES": "[Elly]\nOh, yo quiero ser secretaria\nen la sede central de Kafra o de Kiel Hyre.\nDe grande quiero ser una mujer increíble.\n¡Como la señorita ^0000FFAllysia^000000! Je, je, je…"
+        "es-ES": "[Elly]\nOh, yo quiero ser secretaria\nen la sede central de Kafra o de Kiel Hyre.\nDe grande quiero ser una mujer increíble.\n¡Como la señorita ^0000FFAllysia^000000! Je, je, je..."
     },
     "uKhCAw": {
         "en-US": "[Elly]\nBy the way... Umm...\nStrange things are happening\nin the academy lately.\nOther kids are getting scared to be alone\nbecause of them...",
         "pt-BR": "[Elly]\nA propósito... Umm...\nCoisas estranhas aconteceram\nna academia ultimamente.\nOutras crianças estão com medo de ficar sozinhas\npor causa disso...",
-        "es-ES": "[Elly]\nPor cierto, Mmm…\nÚltimamente están ocurriendo cosas raras\nen la academia.\nPor eso muchos niños tienen miedo\nde estar solos…"
+        "es-ES": "[Elly]\nPor cierto, Mmm...\nÚltimamente están ocurriendo cosas raras\nen la academia.\nPor eso muchos niños tienen miedo\nde estar solos..."
     },
     "uahCAw": {
         "en-US": "[Elly]\nBut I'm okay!\nI know {0} will help me\nif I run into danger. Ehehe...",
@@ -1107,7 +1107,7 @@
     "vahCAw": {
         "en-US": "[Elly]\nIt's kind of taboo to speak about this, but...\nI know can trust you, {0}, so I'll tell you what it is.",
         "pt-BR": "[Elly]\nÉ meio que um tabu falar sobre isso, mas...\nEu sei que posso confiar em você, {0}, então vou lhe dizer o que é.",
-        "es-ES": "[Elly]\nNo debería hablar de esto, pero…\nSé que puedo confiar en ti, {0}, así que te lo contaré."
+        "es-ES": "[Elly]\nNo debería hablar de esto, pero...\nSé que puedo confiar en ti, {0}, así que te lo contaré."
     },
     "vqhCAw": {
         "en-US": "[Elly]\nA ghost has emerged in the academy\nrecently!!",
@@ -1122,12 +1122,12 @@
     "wKhCAw": {
         "en-US": "[Elly]\nMy roommate Mayo got affected\nby the ghost's incantation and got\nmoved to the infirmary.\nI went to the infirmary behind teachers' backs\nto see Mayo, but...",
         "pt-BR": "[Elly]\nMinha colega de quarto, Mayo, foi afetada\npelo encantamento do fantasma e foi\ntransferido para a enfermaria.\nFui até a enfermaria sem informar os professores\npara ver o Mayo, mas...",
-        "es-ES": "[Elly]\nMayo, mi compañera de cuarto,\ncayó bajo el efecto del conjuro del fantasma\ny la llevaron a la enfermería.\nFui allí a escondidas de los profesores\npara verla, pero…"
+        "es-ES": "[Elly]\nMayo, mi compañera de cuarto,\ncayó bajo el efecto del conjuro del fantasma\ny la llevaron a la enfermería.\nFui allí a escondidas de los profesores\npara verla, pero..."
     },
     "wahCAw": {
         "en-US": "[Elly]\nMayo was lying on a bed,\nlike a lifeless doll.\nShe didn't even respond to me calling her...\nIt seemed like she couldn't hear,\nor see anything.",
         "pt-BR": "[Elly]\nMayo estava deitada em uma cama,\ncomo uma boneca sem vida.\nEla nem mesmo respondeu quando a chamei...\nParecia que ela não podia ouvir,\nou ver nada.",
-        "es-ES": "[Elly]\nestaba tumbada en una cama,\ncomo una muñeca sin vida.\nLa llamé, pero ni siquiera reaccionó…\nEra como si no pudiera escuchar\nni ver."
+        "es-ES": "[Elly]\nestaba tumbada en una cama,\ncomo una muñeca sin vida.\nLa llamé, pero ni siquiera reaccionó...\nEra como si no pudiera escuchar\nni ver."
     },
     "wqhCAw": {
         "en-US": "[Elly]\nI got so scared at that moment\nand ran out of the infirmary.",
@@ -1137,17 +1137,17 @@
     "w6hCAw": {
         "en-US": "[Elly]\nWill I get petrified like Mayo\nif I encounter that ghost someday?\nThen... will I not be able to recognize you, {0}?",
         "pt-BR": "[Elly]\nSerá que vou ficar petrificada como a Mayo\nse um dia encontrar esse fantasma?\nEntão... não serei capaz de reconhecê-lo, {0}?",
-        "es-ES": "[Elly]\n¿Quedaré catatónica como Mayo\nsi me encuentro con ese fantasma?\nY entonces… ¿no podré reconocerte, {0}?"
+        "es-ES": "[Elly]\n¿Quedaré catatónica como Mayo\nsi me encuentro con ese fantasma?\nY entonces... ¿no podré reconocerte, {0}?"
     },
     "xKhCAw": {
         "en-US": "[Elly]\nErm... No, I don't think so!\nIf I encounter that ghost and get petrified,\nI'm sure {0} will save me! Heheh.",
         "pt-BR": "[Elly]\nErm... Não, acho que não!\nSe eu encontrar esse fantasma e ficar petrificada,\ntenho certeza de que {0} vai me salvar! Heheh.",
-        "es-ES": "[Elly]\nMmm… ¡No, no lo creo!\nSi veo a ese fantasma y quedo petrificada,\n¡seguro que {0} me salvará! Je, je."
+        "es-ES": "[Elly]\nMmm... ¡No, no lo creo!\nSi veo a ese fantasma y quedo petrificada,\n¡seguro que {0} me salvará! Je, je."
     },
     "xahCAw": {
         "en-US": "[Elly]\nIf I hear {0} saying\n'^FF0000Wake up, Elly!^000000' while I'm petrified,\nI will wake up immediately and go about my life.\nSo I'm not scared of any ghost. Heheh...",
         "pt-BR": "[Elly]\nSe eu ouvir {0} dizendo\n'^FF0000Acorda, Elly!^000000' enquanto estiver petrificada,\nacordarei imediatamente e continuarei com minha vida.\nEntão, não tenho medo de nenhum fantasma. Heheh...",
-        "es-ES": "[Elly]\nSi escucho a {0} diciendo:\n^FF0000¡Despierta, Elly!^000000 mientras estoy petrificada,\ndespertaré enseguida y seguiré como si nada.\nAsí que no tengo miedo de ningún fantasma. Je, je, je…"
+        "es-ES": "[Elly]\nSi escucho a {0} diciendo:\n^FF0000¡Despierta, Elly!^000000 mientras estoy petrificada,\ndespertaré enseguida y seguiré como si nada.\nAsí que no tengo miedo de ningún fantasma. Je, je, je..."
     },
     "xqhCAw": {
         "en-US": "[Elly]\nOh, I'm in big trouble!\nI won't meet the assignment deadline!!\nI should go to Ms. Lecollane\nnow.",
@@ -1157,12 +1157,12 @@
     "x6hCAw": {
         "en-US": "[Elly]\nUmm... Could you go to the cottage\nand find the ^FF0000stuff grandpa left^000000\nfor me?\nYou're the only one\nI can trust, {0}...",
         "pt-BR": "[Elly]\nHumm... Você poderia ir até o chalé\ne encontrar as ^FF0000coisas que o vovô deixou^000000\npara mim?\nVocê é a única pessoa\nem quem posso confiar, {0}...",
-        "es-ES": "[Elly]\nMmm… ¿Podrías ir a la cabaña\ny buscar ^FF0000las cosas que el abuelo dejó^000000\npara mí?\nEres la única persona\nen la que puedo confiar, {0}…"
+        "es-ES": "[Elly]\nMmm... ¿Podrías ir a la cabaña\ny buscar ^FF0000las cosas que el abuelo dejó^000000\npara mí?\nEres la única persona\nen la que puedo confiar, {0}..."
     },
     "yKhCAw": {
         "en-US": "[Lecollane]\nElly!! Have you not submitted your assignment yet?\nReally... Do you even know\nwhat time it is now?!!",
         "pt-BR": "[Lecollane]\nElly!!! Você ainda não entregou sua tarefa?\nSério... Você ao menos sabe\nque horas são agora?!",
-        "es-ES": "[Lecollane]\n¡Elly! ¿Aún no has entregado tu tarea?\nDe verdad… ¿Sabes siquiera\nqué hora es?"
+        "es-ES": "[Lecollane]\n¡Elly! ¿Aún no has entregado tu tarea?\nDe verdad... ¿Sabes siquiera\nqué hora es?"
     },
     "yahCAw": {
         "en-US": "[Elly]\nWaah! See you in the evening!\nCome to my room in the dorm.",
@@ -1207,7 +1207,7 @@
     "0ahCAw": {
         "en-US": "......",
         "pt-BR": "......",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "0qhCAw": {
         "en-US": "As I opened the door with the key, a piece of paper fell down.\nThe paper says '^FF0000front 6, left 3, front 3, left 4^000000'.",
@@ -1452,7 +1452,7 @@
     "AqlCAw": {
         "en-US": "...I have no idea what this means.",
         "pt-BR": "... Não tenho ideia do que isso significa.",
-        "es-ES": "…No tengo idea de qué significa."
+        "es-ES": "...No tengo idea de qué significa."
     },
     "A6lCAw": {
         "en-US": "I got the paper with this poem here.\nShould I take a look at the poem again?",
@@ -1492,7 +1492,7 @@
     "CqlCAw": {
         "en-US": "I doubt it's drinkable, though...",
         "pt-BR": "Mas duvido que seja potável...",
-        "es-ES": "Aunque dudo que sea potable…"
+        "es-ES": "Aunque dudo que sea potable..."
     },
     "C6lCAw": {
         "en-US": "I see a lion statue and two handles.\nShould I pull them?",
@@ -1612,7 +1612,7 @@
     "IqlCAw": {
         "en-US": "...Come to think of it,\nI brought some pet food.",
         "pt-BR": "...Pensando bem,\neu trouxe um pouco de ração para bichinho.",
-        "es-ES": "…Ahora que lo pienso,\ntraje Comida para mascotas."
+        "es-ES": "...Ahora que lo pienso,\ntraje Comida para mascotas."
     },
     "I6lCAw": {
         "en-US": "Try using the pet food.",
@@ -1632,17 +1632,17 @@
     "JqlCAw": {
         "en-US": "As I try to get past it...\n...\nWoof! Woof! Woof! Woof! Woof!!!!",
         "pt-BR": "Ao tentar passar por ele...\n...\nAuau! Auau! Auau! Auau! Auau!!!!",
-        "es-ES": "Mientras intento esquivarlo…\n…\n¡Guau! ¡Guau! ¡Guau! ¡Guau! ¡¡¡¡Guau!!!!"
+        "es-ES": "Mientras intento esquivarlo...\n...\n¡Guau! ¡Guau! ¡Guau! ¡Guau! ¡¡¡¡Guau!!!!"
     },
     "J6lCAw": {
         "en-US": "......\nI ran away downstairs as the dog chased me.",
         "pt-BR": "......\nFugi para o andar de baixo enquanto o cachorro me perseguia.",
-        "es-ES": "…\nSalí corriendo escaleras abajo mientras el perro me perseguía."
+        "es-ES": "...\nSalí corriendo escaleras abajo mientras el perro me perseguía."
     },
     "KKlCAw": {
         "en-US": "I think that dog bites...",
         "pt-BR": "Acho que o cachorro morde...",
-        "es-ES": "Creo que ese perro muerde…"
+        "es-ES": "Creo que ese perro muerde..."
     },
     "KalCAw": {
         "en-US": "Drawer",
@@ -1687,12 +1687,12 @@
     "MalCAw": {
         "en-US": "I see a messy desk, topped with books\nand pieces of paper.\nHow to Create and Use Artificial Power...\nCollected Papers of Barmund the Great Sage...\nApplication of Automatrons for Factory...\nHow to Craft Advanced Magic Scrolls...\nFor Elly...",
         "pt-BR": "Vejo uma escrivaninha bagunçada, cheia de livros\ne pedaços de papel.\nComo Criar e Usar o Poder Artificial...\nArtigos Coletados de Barmund, o Grande Sábio...\nAplicação de Autômatos para Fábricas...\nComo Criar Pergaminhos Mágicos Avançados...\nPara Elly...",
-        "es-ES": "Hay un escritorio desordenado, cubierto de libros\ny papeles.\nCómo crear y usar energía artificial…\nObras completas de Varmunt, el gran sabio…\nUso de autómatas en fábricas…\nCómo crear pergaminos mágicos avanzados…\nPara Elly…"
+        "es-ES": "Hay un escritorio desordenado, cubierto de libros\ny papeles.\nCómo crear y usar energía artificial...\nObras completas de Varmunt, el gran sabio...\nUso de autómatas en fábricas...\nCómo crear pergaminos mágicos avanzados...\nPara Elly..."
     },
     "MqlCAw": {
         "en-US": "Elly?\nAmong the scattered mess of books,\nI found a piece of paper.\nThe paper has the insignia of Kiel Hyre Corp\nstamped on it.\n...I think should take this.",
         "pt-BR": "Elly?\nEntre a bagunça dos livros espalhados,\nencontrei um pedaço de papel.\nO papel tem a insígnia da Corporação Kiel Hyre\nestampada nele.\n...acho que devo pegar isso.",
-        "es-ES": "¿Elly?\nEntre los libros esparcidos,\nencontré un trozo de papel.\nTiene estampada la insignia\nde Kiel Hyre Corp.\n…Creo que debería llevármelo."
+        "es-ES": "¿Elly?\nEntre los libros esparcidos,\nencontré un trozo de papel.\nTiene estampada la insignia\nde Kiel Hyre Corp.\n...Creo que debería llevármelo."
     },
     "M6lCAw": {
         "en-US": "Acquired ^FF0000Paper with Kiel Hyre Insignia^000000",
@@ -1727,12 +1727,12 @@
     "OalCAw": {
         "en-US": "Wait, that paper I got a moment ago...",
         "pt-BR": "Espere, aquele papel que peguei há pouco...",
-        "es-ES": "Espera, ese papel que encontré hace un momento…"
+        "es-ES": "Espera, ese papel que encontré hace un momento..."
     },
     "OqlCAw": {
         "en-US": "...There's no way such a thing exists.",
         "pt-BR": "...Não é possível que isso exista.",
-        "es-ES": "…Es imposible que exista tal cosa."
+        "es-ES": "...Es imposible que exista tal cosa."
     },
     "O6lCAw": {
         "en-US": "Drop red reagent on it.",
@@ -1777,7 +1777,7 @@
     "Q6lCAw": {
         "en-US": "......\nThat's a strange poem. Wonder what does it mean.",
         "pt-BR": "......\nEsse é um poema estranho. O que será que ele significa?",
-        "es-ES": "…\nQué extraño poema. ¿Qué significará?"
+        "es-ES": "...\nQué extraño poema. ¿Qué significará?"
     },
     "RKlCAw": {
         "en-US": "The yellow reagent flows through\nthe paper's surface.\nInterestingly, the paper doesn't get wet\nbut shows no reaction.",
@@ -1822,12 +1822,12 @@
     "TKlCAw": {
         "en-US": "There are a sword with a cool hilt\nand a creepy snake statue.\n...Four swords? Four snakes?\nPerhaps they're related to the poem\nI read a moment ago?",
         "pt-BR": "Há uma espada com um punho legal\ne uma estátua sinistra de cobra.\n...Quatro espadas? Quatro cobras?\nTalvez elas estejam relacionadas ao poema\nque li agora há pouco?",
-        "es-ES": "Hay una espada con una empuñadura impresionante\ny una espeluznante estatua de serpiente.\n…¿Cuatro espadas? ¿Cuatro serpientes?\n¿Estarán relacionados con el poema\nque acabo de leer?"
+        "es-ES": "Hay una espada con una empuñadura impresionante\ny una espeluznante estatua de serpiente.\n...¿Cuatro espadas? ¿Cuatro serpientes?\n¿Estarán relacionados con el poema\nque acabo de leer?"
     },
     "TalCAw": {
         "en-US": "I don't think so.",
         "pt-BR": "Acho que não.",
-        "es-ES": "No… no lo creo."
+        "es-ES": "No... no lo creo."
     },
     "TqlCAw": {
         "en-US": "Let's investigate.",
@@ -1917,7 +1917,7 @@
     "X6lCAw": {
         "en-US": "...I don't see any changes.\nI should return the sword.",
         "pt-BR": "... Nada mudou.\nDevo colocar a espada de volta.",
-        "es-ES": "…No veo ningún cambio.\nDebería devolver la espada."
+        "es-ES": "...No veo ningún cambio.\nDebería devolver la espada."
     },
     "YKlCAw": {
         "en-US": "I don't know in what order I should do this.",
@@ -1977,7 +1977,7 @@
     "a6lCAw": {
         "en-US": ".........\n'Who are you?'\n'I do not recognize you.'\n'If you are my friend, you must know'\n'my name, don't you?'",
         "pt-BR": ".........\n''Quem é você?\n'Não o reconheço'.\n'Se você é meu amigo, deve saber'\n''meu nome, não sabe?",
-        "es-ES": "…\n¿Quién eres?\nNo te reconozco.\nSi eres mi amigo, deberías saber\nmi nombre, ¿no?"
+        "es-ES": "...\n¿Quién eres?\nNo te reconozco.\nSi eres mi amigo, deberías saber\nmi nombre, ¿no?"
     },
     "bKlCAw": {
         "en-US": "Little Stray Demon",
@@ -1997,12 +1997,12 @@
     "b6lCAw": {
         "en-US": "^FF00004772961^000000? What does that mean?\n......\nLooks like I've found everything I need.\nI should go back to Elly.",
         "pt-BR": "^FF00004772961^000000? O que isso significa?\n......\nParece que encontrei tudo o que precisava.\nEu deveria voltar para a Elly.",
-        "es-ES": "¿^FF00004772961^000000? ¿Qué significa eso?\n…\nParece que ya tengo todo lo que necesito.\nDebería volver con Elly."
+        "es-ES": "¿^FF00004772961^000000? ¿Qué significa eso?\n...\nParece que ya tengo todo lo que necesito.\nDebería volver con Elly."
     },
     "cKlCAw": {
         "en-US": "That is not my name...",
         "pt-BR": "Esse não é o meu nome...",
-        "es-ES": "Ese no es mi nombre…"
+        "es-ES": "Ese no es mi nombre..."
     },
     "calCAw": {
         "en-US": "I should look around this place more.",
@@ -2012,7 +2012,7 @@
     "cqlCAw": {
         "en-US": "^FF00004772961^000000? What does that mean?\n......\nI think I need something more still.\nI should search around the house more.",
         "pt-BR": "^FF00004772961^000000? O que isso significa?\n......\nAcho que ainda preciso de algo.\nDevo vasculhar mais a casa.",
-        "es-ES": "¿^FF00004772961^000000? ¿Qué significa eso?\n…\nCreo que me hace falta algo.\nTengo que revisar mejor la casa."
+        "es-ES": "¿^FF00004772961^000000? ¿Qué significa eso?\n...\nCreo que me hace falta algo.\nTengo que revisar mejor la casa."
     },
     "c6lCAw": {
         "en-US": "A male student wearing the Kiel Hyre Academy uniform\nis inside a test tube.\nI think I've seen him somewhere before.",
@@ -2047,12 +2047,12 @@
     "ealCAw": {
         "en-US": "It looks expensive...\nI shouldn't treat others' stuff carelessly.",
         "pt-BR": "Parece cara...\nEu não deveria tratar as coisas dos outros com descaso.",
-        "es-ES": "Parece costosa…\nNo debería andar tocando lo que no es mío."
+        "es-ES": "Parece costosa...\nNo debería andar tocando lo que no es mío."
     },
     "eqlCAw": {
         "en-US": "What's in it?\n......",
         "pt-BR": "O que há nela?\n......",
-        "es-ES": "¿Qué contiene?\n…"
+        "es-ES": "¿Qué contiene?\n..."
     },
     "e6lCAw": {
         "en-US": "As I shake the bottle, and a 'ting' sound\ncomes from inside.\nI think there is something inside it,\nafter all.",
@@ -2102,7 +2102,7 @@
     "hKlCAw": {
         "en-US": "...A key...",
         "pt-BR": "...Uma chave...",
-        "es-ES": "…Una llave…"
+        "es-ES": "...Una llave..."
     },
     "halCAw": {
         "en-US": "I don't think it'll fit.",
@@ -2122,12 +2122,12 @@
     "iKlCAw": {
         "en-US": "A bookcase filled with books.\nThere are so many books\nput on it.\n......",
         "pt-BR": "Uma estante cheia de livros.\nColocaram muitos livros\nnela.\n......",
-        "es-ES": "Una estantería repleta de libros.\nSon muchísimos\nlibros.\n…"
+        "es-ES": "Una estantería repleta de libros.\nSon muchísimos\nlibros.\n..."
     },
     "ialCAw": {
         "en-US": "......Huh?\nFor Elly?\nElly?",
         "pt-BR": "......Huh?\nPara Elly?\nElly?",
-        "es-ES": "…¿Huh?\n¿Para Elly?\n¿Elly?"
+        "es-ES": "...¿Huh?\n¿Para Elly?\n¿Elly?"
     },
     "iqlCAw": {
         "en-US": "Take the book out and look.",
@@ -2157,7 +2157,7 @@
     "j6lCAw": {
         "en-US": "I took the rest of the books out,\nand a steel safe revealed itself.\nI see two keyholes.\n...It won't open.",
         "pt-BR": "Tirei o resto dos livros,\nrevelando um cofre de aço.\nVi dois buracos de fechadura.\n...Ele não abre.",
-        "es-ES": "Quité el resto de los libros\ny hay una caja fuerte de acero.\nTiene dos cerraduras.\n…No abre."
+        "es-ES": "Quité el resto de los libros\ny hay una caja fuerte de acero.\nTiene dos cerraduras.\n...No abre."
     },
     "kKlCAw": {
         "en-US": "Let's try the key I have.",
@@ -2262,12 +2262,12 @@
     "pKlCAw": {
         "en-US": "Elly's room.\nI still don't see any ladder.\nHuh? The window is slightly ajar.\nMaybe I can try climbing up there...",
         "pt-BR": "O quarto de Elly.\nAinda não estou vendo nenhuma escada.\nO quê? A janela está ligeiramente entreaberta.\nTalvez eu possa tentar subir até lá...",
-        "es-ES": "La habitación de Elly.\nSigo sin ver ninguna escalera.\n¿Eh? La ventana está entreabierta.\nPodría intentar trepar…"
+        "es-ES": "La habitación de Elly.\nSigo sin ver ninguna escalera.\n¿Eh? La ventana está entreabierta.\nPodría intentar trepar..."
     },
     "palCAw": {
         "en-US": "The drainpipe looks useful.\n...",
         "pt-BR": "O tubo de drenagem parece útil.\n...",
-        "es-ES": "Podría trepar por la tubería.\n…"
+        "es-ES": "Podría trepar por la tubería.\n..."
     },
     "pqlCAw": {
         "en-US": "Use the drainpipe.",
@@ -2312,12 +2312,12 @@
     "rqlCAw": {
         "en-US": "A man in black clothes is chanting\na strange incantation.\nThe kids got petrified and froze up like dolls\nwhen they heard it!\nI'm scared...\nI snuck back to my room in secret\nto write this note.\nI opened the window for you.\nOh...\nWill this note get to you?\nAm I going to freeze up too, like my friends did?\nNo!\nI don't want that...\nOh, I hear someone at the door... {0}!!",
         "pt-BR": "Um homem de roupas pretas está entoando\num estranho encantamento.\nAs crianças ficaram petrificadas e congelaram como bonecas\nquando ouviram isso!\nEstou com medo...\nVoltei para o meu quarto em segredo\npara escrever este bilhete.\nAbri a janela para você.\nOh...\nEsse bilhete chegará até você?\nSerá que vou congelar também, assim como meus amigos?\nNão!\nEu não quero isso...\nOh, estou ouvindo alguém na porta... {0}!!!",
-        "es-ES": "Un hombre vestido de negro está recitando\nun extraño encantamiento.\n¡Los niños quedaron petrificados como muñecos\nal escucharlo!\nTengo miedo…\nMe escabullí a mi habitación en secreto\npara escribir esta nota.\nTe dejaré la ventana abierta.\nOh…\n¿Te llegará esta nota?\n¿Me pasará lo mismo que a mis amigos?\n¡No!\nNo quiero que…\n¡Oh, hay alguien en la puerta… {0}!"
+        "es-ES": "Un hombre vestido de negro está recitando\nun extraño encantamiento.\n¡Los niños quedaron petrificados como muñecos\nal escucharlo!\nTengo miedo...\nMe escabullí a mi habitación en secreto\npara escribir esta nota.\nTe dejaré la ventana abierta.\nOh...\n¿Te llegará esta nota?\n¿Me pasará lo mismo que a mis amigos?\n¡No!\nNo quiero que...\n¡Oh, hay alguien en la puerta... {0}!"
     },
     "r6lCAw": {
         "en-US": "........",
         "pt-BR": "........",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "sKlCAw": {
         "en-US": "The cookies are getting cold.",
@@ -2332,7 +2332,7 @@
     "sqlCAw": {
         "en-US": "To {0}.\nTeachers always reprimand Elly because I'm careless and full of mistakes,\nbut the cookies I baked today were so delicious, the teachers even complimented me.\nThis is all thanks to you, {0}. Thank you so much!\nYou're the kind of person who makes me think that there are so many good people in this world.\nEven makes me think that the teachers scold me because they want Elly to be better... You really make my gloom go away.\n{0}, you are a good person. I like your warm heart.\nWe can't meet Grandpa right now, but when we do meet him, I want to introduce you to him.\nI think that if Grandpa sees you, {0}, he will be able to drop that perpetual frown and finally smile.\nThank you again, {0}.\nAnd please, always be next to Elly and be my precious person.\nI will try my best to become someone who can make you smile, {0}!",
         "pt-BR": "Para {0}.\nOs professores sempre davam bronca na Elly porque sou descuidada e cheia de erros,\nmas os cookies que fiz hoje estavam tão deliciosos que os professores até me elogiaram.\nTudo isso graças a você, {0}. Muito obrigada!\nVocê é o tipo de pessoa que me faz pensar que existem muitas pessoas boas neste mundo.\nAté me faz pensar que os professores me repreendem porque querem que a Elly seja melhor... Você realmente faz minha tristeza ir embora.\n{0}, você é uma boa pessoa. Gosto de seu coração caloroso.\nNão podemos conhecer o vovô agora, mas quando o encontrarmos, quero apresentá-lo a ele.\nAcho que se o vovô vir você, {0}, ele conseguirá deixar de lado aquela carranca perpétua e finalmente sorrir.\nMais uma vez, obrigada, {0}.\nE, por favor, esteja sempre ao lado de Elly e seja minha pessoa preciosa.\nFarei o possível para me tornar alguém que possa fazer você sorrir, {0}!",
-        "es-ES": "Para {0}.\nLos profesores siempre me regañan porque soy distraída y meto la pata,\npero las galletas que hice hoy estaban tan ricas que hasta los profesores me felicitaron.\nY todo es gracias a ti, {0}. ¡Muchas gracias!\nEres de esas personas que me hacen creer que aún hay bondad en el mundo.\nIncluso me hace pensar que los profesores me regañan porque desean que Elly se supere… Me haces olvidar cualquier tristeza.\n{0}, eres una buena persona. Amo tu bondad.\nNo podemos ver al abuelo por ahora, pero cuando lo hagamos, quiero presentártelo.\nEstoy convencida de que cuando te conozca, {0}, dejará de fruncir el ceño y finalmente sonreirá.\nGracias de nuevo, {0}.\nY por favor, quédate siempre a mi lado y sé mi persona especial.\n¡Me esforzaré al máximo para hacerte feliz, {0}!"
+        "es-ES": "Para {0}.\nLos profesores siempre me regañan porque soy distraída y meto la pata,\npero las galletas que hice hoy estaban tan ricas que hasta los profesores me felicitaron.\nY todo es gracias a ti, {0}. ¡Muchas gracias!\nEres de esas personas que me hacen creer que aún hay bondad en el mundo.\nIncluso me hace pensar que los profesores me regañan porque desean que Elly se supere... Me haces olvidar cualquier tristeza.\n{0}, eres una buena persona. Amo tu bondad.\nNo podemos ver al abuelo por ahora, pero cuando lo hagamos, quiero presentártelo.\nEstoy convencida de que cuando te conozca, {0}, dejará de fruncir el ceño y finalmente sonreirá.\nGracias de nuevo, {0}.\nY por favor, quédate siempre a mi lado y sé mi persona especial.\n¡Me esforzaré al máximo para hacerte feliz, {0}!"
     },
     "s6lCAw": {
         "en-US": "Elly",
@@ -2342,7 +2342,7 @@
     "tKlCAw": {
         "en-US": "It feels like I can still feel\nElly's warmth from the cookies\nin the basket...\nI took a cookie\nand had a bite.\nThe taste of slightly bitter but sweet chocolate\nembraces my mouth.",
         "pt-BR": "Parece que ainda posso sentir\no calor da Elly nos cookies\nda cesta...\nPeguei um cookie\ne dei uma mordida.\nO sabor do chocolate ligeiramente amargo, mas doce\npreenche minha boca.",
-        "es-ES": "Es como si todavía pudiera sentir\nel calor de las galletas de Elly\nen la cesta…\nTomé una galleta\ny le di un bocado.\nEl sabor del chocolate, ligeramente amargo pero dulce,\nenvuelve mi boca."
+        "es-ES": "Es como si todavía pudiera sentir\nel calor de las galletas de Elly\nen la cesta...\nTomé una galleta\ny le di un bocado.\nEl sabor del chocolate, ligeramente amargo pero dulce,\nenvuelve mi boca."
     },
     "talCAw": {
         "en-US": "{0}\nLet's go back. There's no reason to stick around anymore.",
@@ -2367,12 +2367,12 @@
     "ualCAw": {
         "en-US": "[Elly]\n............",
         "pt-BR": "[Elly]\n............",
-        "es-ES": "[Elly]\n…"
+        "es-ES": "[Elly]\n..."
     },
     "uqlCAw": {
         "en-US": "It seems Elly has been petrified...\nWhat should I do...?",
         "pt-BR": "Parece que Elly foi petrificada...\nO que devo fazer...?",
-        "es-ES": "Parece que Elly está petrificada…\n¿Qué debo hacer…?"
+        "es-ES": "Parece que Elly está petrificada...\n¿Qué debo hacer...?"
     },
     "u6lCAw": {
         "en-US": "Touch Elly.",
@@ -2402,7 +2402,7 @@
     "wKlCAw": {
         "en-US": "She does not respond.\nWhat is this... Why are you...",
         "pt-BR": "Ela não responde.\nO que é isso... Por que você está...",
-        "es-ES": "No responde.\n¿Qué es esto…? ¿Por qué estás…?"
+        "es-ES": "No responde.\n¿Qué es esto...? ¿Por qué estás...?"
     },
     "walCAw": {
         "en-US": "Wake up, Elly!",
@@ -2417,7 +2417,7 @@
     "w6lCAw": {
         "en-US": "[Elly]\n.........",
         "pt-BR": "[Elly]\n.........",
-        "es-ES": "[Elly]\n…"
+        "es-ES": "[Elly]\n..."
     },
     "xKlCAw": {
         "en-US": "Elly does not respond.",
@@ -2447,7 +2447,7 @@
     "yalCAw": {
         "en-US": "[Elly]\n......",
         "pt-BR": "[Elly]\n......",
-        "es-ES": "[Elly]\n…"
+        "es-ES": "[Elly]\n..."
     },
     "yqlCAw": {
         "en-US": "Grave",
@@ -2602,7 +2602,7 @@
     "6KlCAw": {
         "en-US": "[Allysia]\n......\nYou are not in my database.",
         "pt-BR": "[Allysia]\n......\nVocê não está em meu banco de dados.",
-        "es-ES": "[Allysia]\n…\nNo estás en mi base de datos."
+        "es-ES": "[Allysia]\n...\nNo estás en mi base de datos."
     },
     "6alCAw": {
         "en-US": "[Allysia]\nAccording to what Mr. Hyre told me,\nThe only ones who can get in here\nare ^FF0000Prototype Elly^000000 and ^FF0000Elly's\nfriend^000000.",
@@ -2642,7 +2642,7 @@
     "8KlCAw": {
         "en-US": "Uhm......",
         "pt-BR": "Uhm......",
-        "es-ES": "Emm…"
+        "es-ES": "Emm..."
     },
     "8alCAw": {
         "en-US": "[Allysia]\nYou cannot prove that you are ^FF0000Elly's friend^000000\nwith that thing.\nCan you show me something else?",
@@ -2657,12 +2657,12 @@
     "86lCAw": {
         "en-US": "[Allysia]\n...I have been waiting for you.\nLet me take you to my location.\nOne moment, please.",
         "pt-BR": "[Allysia]\n... Eu estava esperando por você.\nDeixe-me levá-lo ao meu local.\nUm momento, por favor.",
-        "es-ES": "[Allysia]\n…Te estaba esperando.\nPermíteme llevarte a donde estoy.\nUn momento, por favor."
+        "es-ES": "[Allysia]\n...Te estaba esperando.\nPermíteme llevarte a donde estoy.\nUn momento, por favor."
     },
     "9KlCAw": {
         "en-US": "[Allysia]\nThat is...\nThat's ^0000FFKiehl^000000's insignia! Are you here to capture me?",
         "pt-BR": "[Allysia]\nIsso é...\nEssa é a insígnia de ^0000FFKiehl^000000! Você está aqui para me capturar?",
-        "es-ES": "[Allysia]\nEs decir…\n¡Es la insignia de ^0000FFKiehl^000000! ¿Estás aquí para atraparme?"
+        "es-ES": "[Allysia]\nEs decir...\n¡Es la insignia de ^0000FFKiehl^000000! ¿Estás aquí para atraparme?"
     },
     "9alCAw": {
         "en-US": "Bomb",
@@ -2672,12 +2672,12 @@
     "9qlCAw": {
         "en-US": "[Allysia]\n.........",
         "pt-BR": "[Allysia]\n.........",
-        "es-ES": "[Allysia]\n…"
+        "es-ES": "[Allysia]\n..."
     },
     "96lCAw": {
         "en-US": "[Allysia]\n...Go.",
         "pt-BR": "[Allysia]\n...Vai.",
-        "es-ES": "[Allysia]\n…Vete."
+        "es-ES": "[Allysia]\n...Vete."
     },
     "+KlCAw": {
         "en-US": "[??????]\nThis is a private area.\nPlease leave immediately.",
@@ -2787,7 +2787,7 @@
     "DapCAw": {
         "en-US": "[????]\n.........",
         "pt-BR": "[????]\n.........",
-        "es-ES": "[¿¿¿???]\n…"
+        "es-ES": "[¿¿¿???]\n..."
     },
     "DqpCAw": {
         "en-US": "I think I hear someone talking\nbeyond the door.",
@@ -2797,7 +2797,7 @@
     "D6pCAw": {
         "en-US": "[????]\n...^0000FFKiehl^000000...Why did you...",
         "pt-BR": "[????]\n...^0000FFKiehl^000000...Por que você...",
-        "es-ES": "[¿¿¿???]\n…^0000FFKiehl^000000… ¿Por qué…?"
+        "es-ES": "[¿¿¿???]\n...^0000FFKiehl^000000... ¿Por qué...?"
     },
     "EKpCAw": {
         "en-US": "Is that ^FF0000Kiel Hyre^000000?",
@@ -2817,7 +2817,7 @@
     "E6pCAw": {
         "en-US": "[{0}]\nI'm...",
         "pt-BR": "[{0}]\nEu sou...",
-        "es-ES": "[{0}]\nSoy…"
+        "es-ES": "[{0}]\nSoy..."
     },
     "FKpCAw": {
         "en-US": "I told the story of ^FF0000Elly^000000 and ^0000FFAllysia^000000\nto ^FF0000Kiel Hyre^000000.",
@@ -2827,7 +2827,7 @@
     "FapCAw": {
         "en-US": "[Kiel Hyre]\n...I see.\nSo, he got Elly, too.\n............",
         "pt-BR": "[Kiel Hyre]\n...Entendo.\nEntão, ele também pegou a Elly.\n............",
-        "es-ES": "[Kiel Hyre]\n…Ya veo.\nAsí que también atrapó a Elly.\n…"
+        "es-ES": "[Kiel Hyre]\n...Ya veo.\nAsí que también atrapó a Elly.\n..."
     },
     "FqpCAw": {
         "en-US": "[Kiel Hyre]\nTake this. Give it to ^0000FFAllysia^000000,\nand she'll take it from there.",
@@ -2842,7 +2842,7 @@
     "GKpCAw": {
         "en-US": "[Kiel Hyre]\n......",
         "pt-BR": "[Kiel Hyre]\n......",
-        "es-ES": "[Kiel Hyre]\n…"
+        "es-ES": "[Kiel Hyre]\n..."
     },
     "GapCAw": {
         "en-US": "Butler",
@@ -2882,7 +2882,7 @@
     "IKpCAw": {
         "en-US": "[Butler]\n......\nWould you like to meet with Master?",
         "pt-BR": "[Mordomo]\n......\nVocê gostaria de se encontrar com o Mestre?",
-        "es-ES": "[Mayordomo]\n…\n¿Quieres reunirte con el Maestro?"
+        "es-ES": "[Mayordomo]\n...\n¿Quieres reunirte con el Maestro?"
     },
     "IapCAw": {
         "en-US": "[Butler]\nIf you would follow me.",
@@ -2897,7 +2897,7 @@
     "I6pCAw": {
         "en-US": "[Butler]\nWelcome.\nI have been waiting for you.\nWould you like to talk to Master? Or...",
         "pt-BR": "[Mordomo]\nBem-vindo.\nEu estava esperando por você.\nVocê gostaria de falar com o Mestre? Ou...",
-        "es-ES": "[Mayordomo]\nTe damos la bienvenida.\nTe estaba esperando.\n¿Quieres hablar con el Maestro? O…"
+        "es-ES": "[Mayordomo]\nTe damos la bienvenida.\nTe estaba esperando.\n¿Quieres hablar con el Maestro? O..."
     },
     "JKpCAw": {
         "en-US": "I want to talk to ^FF0000Mr. Hyre^000000.",
@@ -2907,7 +2907,7 @@
     "JapCAw": {
         "en-US": "It's about ^0000FFMitchelle^000000...",
         "pt-BR": "Trata-se de ^0000FFMitchelle^000000...",
-        "es-ES": "Se trata de ^0000FFMitchelle^000000…"
+        "es-ES": "Se trata de ^0000FFMitchelle^000000..."
     },
     "JqpCAw": {
         "en-US": "[Butler]\nI see.\nPlease, this way.",
@@ -2917,12 +2917,12 @@
     "J6pCAw": {
         "en-US": "[Butler]\nOh...\nYou must have brought good news.",
         "pt-BR": "[Mordomo]\nOh...\nVocê deve ter trazido boas notícias.",
-        "es-ES": "[Mayordomo]\nOh…\n¿Traes buenas noticias?"
+        "es-ES": "[Mayordomo]\nOh...\n¿Traes buenas noticias?"
     },
     "KKpCAw": {
         "en-US": "The butler looks around.\nHis eyes are very sharp.\nI knew he wasn't an ordinary butler.\nMaybe his name is Alfre... Ahem...\n.........",
         "pt-BR": "O mordomo olha ao redor.\nOs olhos dele são muito afiados.\nEu sabia que ele não era um mordomo comum.\nTalvez seu nome seja Alfre... Ahem...\n.........",
-        "es-ES": "El mayordomo mira a su alrededor.\nSu mirada es muy penetrante.\nSabía que no era un simple mayordomo.\nTal vez su nombre es Alfre… Ejem…\n…"
+        "es-ES": "El mayordomo mira a su alrededor.\nSu mirada es muy penetrante.\nSabía que no era un simple mayordomo.\nTal vez su nombre es Alfre... Ejem...\n..."
     },
     "KapCAw": {
         "en-US": "[Butler]\nLooks like there are no troublesome bugs.\nThis way.",
@@ -3057,7 +3057,7 @@
     "Q6pCAw": {
         "en-US": "[Allysia]\n......",
         "pt-BR": "[Allysia]\n......",
-        "es-ES": "[Allysia]\n…"
+        "es-ES": "[Allysia]\n..."
     },
     "RKpCAw": {
         "en-US": "Kiel Hyre",
@@ -3112,12 +3112,12 @@
     "TqpCAw": {
         "en-US": "[Kiel Hyre]\n^0000FFKiehl^000000 is my only son. I had him with a woman\nI loved in the past.\nShe died right after giving birth to him...\nHe is a genius at designing\nmachinery.",
         "pt-BR": "[Kiel Hyre]\n^0000FFKiehl^000000 é meu único filho. Eu o tive com uma mulher\nque amei no passado.\nEla morreu logo após dar à luz a ele...\nEle é um gênio no projeto de\nmáquinas.",
-        "es-ES": "[Kiel Hyre]\n^0000FFKiehl^000000 es mi único hijo. Lo tuve con una mujer\nque amé en el pasado.\nMurió justo después de dar a luz…\nEs un genio de la\ningeniería."
+        "es-ES": "[Kiel Hyre]\n^0000FFKiehl^000000 es mi único hijo. Lo tuve con una mujer\nque amé en el pasado.\nMurió justo después de dar a luz...\nEs un genio de la\ningeniería."
     },
     "T6pCAw": {
         "en-US": "[Kiel Hyre]\n3rd Generation robots, such as ^FF0000Elly^000000,\nwas designed by ^0000FFKiehl^000000.\nBut now... Now he wants to modify\n3rd Generation robots to use them\nfor other purposes.",
         "pt-BR": "[Kiel Hyre]\nRobôs de 3ª geração, como o ^FF0000Elly^000000,\nfoi projetado pelo ^0000FFKiehl^000000.\nMas agora... Agora ele quer modificar os robôs\nde 3ª geração para usá-los\npara outros fins.",
-        "es-ES": "[Kiel Hyre]\nLos robots de tercera generación, como ^FF0000Elly^000000,\nfueron diseñados por ^0000FFKiehl^000000.\nPero ahora… Ahora quiere modificar\nrobots de tercera generación para usarlos\npara otros fines."
+        "es-ES": "[Kiel Hyre]\nLos robots de tercera generación, como ^FF0000Elly^000000,\nfueron diseñados por ^0000FFKiehl^000000.\nPero ahora... Ahora quiere modificar\nrobots de tercera generación para usarlos\npara otros fines."
     },
     "UKpCAw": {
         "en-US": "[Kiel Hyre]\nI tried to stop him, but got\nconfined here.\nI still don't understand\nwhat he wants or why\nhe started behaving like that.",
@@ -3142,7 +3142,7 @@
     "VKpCAw": {
         "en-US": "[Kiel Hyre]\nAnd...\nThis is a token of my gratitute.\nIt's not much, but take it.",
         "pt-BR": "[Kiel Hyre]\nE...\nEste é um símbolo de minha gratidão.\nNão é muito, mas aceite.",
-        "es-ES": "[Kiel Hyre]\nY…\nEsto es una muestra de agradecimiento.\nNo es mucho, pero llévatelo."
+        "es-ES": "[Kiel Hyre]\nY...\nEsto es una muestra de agradecimiento.\nNo es mucho, pero llévatelo."
     },
     "VapCAw": {
         "en-US": "!-Warning-!\nYou don't have the item required for the quest.",
@@ -3172,12 +3172,12 @@
     "WqpCAw": {
         "en-US": "Ah... Mr. {0}.",
         "pt-BR": "Ah... Sr. {0}.",
-        "es-ES": "Ah… señor {0}."
+        "es-ES": "Ah... señor {0}."
     },
     "W6pCAw": {
         "en-US": "Ah... Ms. {0}.",
         "pt-BR": "Ah... Sra. {0}.",
-        "es-ES": "Ah… señorita {0}."
+        "es-ES": "Ah... señorita {0}."
     },
     "XKpCAw": {
         "en-US": "So, what is it?",
@@ -3187,7 +3187,7 @@
     "XapCAw": {
         "en-US": "About ^0000FFAllysia^000000.",
         "pt-BR": "Sobre ^0000FFAllysia^000000.",
-        "es-ES": "Sobre ^0000FFAllysia^000000…"
+        "es-ES": "Sobre ^0000FFAllysia^000000..."
     },
     "XqpCAw": {
         "en-US": "[{0}]\nI saw a portrait that looked just like ^0000FFAllysia^000000\nin an abandoned house in Juno.",
@@ -3197,7 +3197,7 @@
     "X6pCAw": {
         "en-US": "[Kiel Hyre]\n.........\nI'm not sure what you're trying to say.\nSo what?",
         "pt-BR": "[Kiel Hyre]\n.........\nNão tenho certeza do que você está tentando dizer.\nE daí?",
-        "es-ES": "[Kiel Hyre]\n…\nNo sé qué es lo que insinúas.\n¿Qué?"
+        "es-ES": "[Kiel Hyre]\n...\nNo sé qué es lo que insinúas.\n¿Qué?"
     },
     "YKpCAw": {
         "en-US": "[Kiel Hyre]\nThere are many similar-looking people in the world.\nDid you want to tell me\nabout that strange coincidence?",
@@ -3217,7 +3217,7 @@
     "Y6pCAw": {
         "en-US": "[Kiel Hyre]\nWell... Since it is a portrait...\nPerhaps someone saw ^0000FFAllysia^000000 passing by\nand decided to paint her.\nPainters desire to draw whenever\nsomething catches their fancy.",
         "pt-BR": "[Kiel Hyre]\nBem... Como se trata de um retrato...\nTalvez alguém tenha visto ^0000FFAllysia^000000 passando\ne decidiu pintá-la.\nOs pintores desejam pintar sempre quando\nalgo lhes chama a atenção.",
-        "es-ES": "[Kiel Hyre]\nBueno… Como es un retrato…\nTal vez alguien vio a ^0000FFAllysia^000000\ny decidió pintarla.\nLos artistas siempre pintan cosas\nque les llaman la atención."
+        "es-ES": "[Kiel Hyre]\nBueno... Como es un retrato...\nTal vez alguien vio a ^0000FFAllysia^000000\ny decidió pintarla.\nLos artistas siempre pintan cosas\nque les llaman la atención."
     },
     "ZKpCAw": {
         "en-US": "[{0}]\nI don't know. The painting looked too old\nto match what you just said.\nThe portrait I saw was painted about\n30 years ago, and even the woman's name\nwas ^0000FFAllysia^000000. She was working for\nHouse Rosimier in Juno.",
@@ -3227,17 +3227,17 @@
     "ZapCAw": {
         "en-US": "[Kiel Hyre]\n........",
         "pt-BR": "[Kiel Hyre]\n........",
-        "es-ES": "[Kiel Hyre]\n…"
+        "es-ES": "[Kiel Hyre]\n..."
     },
     "ZqpCAw": {
         "en-US": "[{0}]\nIt got me thinking.\nMaybe she is the model of Allysia\nand the person you loved\nback when you were young.",
         "pt-BR": "[{0}]\nIsso me fez pensar.\nTalvez ela seja o modelo da Allysia\ne a pessoa que você amou\nquando jovem.",
-        "es-ES": "[{0}]\nEso me hizo pensar…\nque tal vez ella fue tu inspiración para Allysia,\nes decir, la persona que amabas\ncuando eras joven."
+        "es-ES": "[{0}]\nEso me hizo pensar...\nque tal vez ella fue tu inspiración para Allysia,\nes decir, la persona que amabas\ncuando eras joven."
     },
     "Z6pCAw": {
         "en-US": "[Kiel Hyre]\n............",
         "pt-BR": "[Kiel Hyre]\n............",
-        "es-ES": "[Kiel Hyre]\n…"
+        "es-ES": "[Kiel Hyre]\n..."
     },
     "aKpCAw": {
         "en-US": "[{0}]\nA poor man loved\na woman.\nBut the woman loved\nanother man.\nThe man she loved had\nfar, far more wealth and power\nthan the poor man.",
@@ -3267,7 +3267,7 @@
     "bapCAw": {
         "en-US": "[Kiel Hyre]\nHah... Ahahahahahaha!\nWhat an imagination.\nYou imagined all that,\njust because she and ^0000FFAllysia^000000\nhave the same name?\nWhy don't you change your job to a novelist?",
         "pt-BR": "[Kiel Hyre]\nHah... Ahahahahahahaha!\nQue imaginação.\nVocê imaginou tudo isso,\nsó porque ela e ^0000FFAllysia^000000\ntêm o mesmo nome?\nPor que você não muda seu emprego para romancista?",
-        "es-ES": "[Kiel Hyre]\nJa… ¡Ja, ja, ja, ja, ja, ja!\n¡Vaya imaginación!\n¿Llegaste a esa conclusión\nsolo porque ella y ^0000FFAllysia^000000\ntienen el mismo nombre?\n¿No te has planteado escribir novelas?"
+        "es-ES": "[Kiel Hyre]\nJa... ¡Ja, ja, ja, ja, ja, ja!\n¡Vaya imaginación!\n¿Llegaste a esa conclusión\nsolo porque ella y ^0000FFAllysia^000000\ntienen el mismo nombre?\n¿No te has planteado escribir novelas?"
     },
     "bqpCAw": {
         "en-US": "[Kiel Hyre]\nYes. Perhaps I have seen her\na long, long time ago.\nPerhaps I made ^0000FFAllysia^000000 look like her\nout of awareness.",
@@ -3287,7 +3287,7 @@
     "capCAw": {
         "en-US": "[Kiel Hyre]\nTh-this is...\n......Where did you get this?",
         "pt-BR": "[Kiel Hyre]\nIsso é...\n...... Onde você conseguiu isso?",
-        "es-ES": "[Kiel Hyre]\nE-esto…\n…¿De dónde lo sacaste?"
+        "es-ES": "[Kiel Hyre]\nE-esto...\n...¿De dónde lo sacaste?"
     },
     "cqpCAw": {
         "en-US": "[{0}]\nKiel Hyre, this is the portrait\nof your younger self.",
@@ -3307,7 +3307,7 @@
     "dapCAw": {
         "en-US": "[Kiel Hyre]\n............\n*Sigh*... I'm surprised you figured that out.",
         "pt-BR": "[Kiel Hyre]\n............\n*Suspiro*... Estou surpreso por você ter descoberto isso.",
-        "es-ES": "[Kiel Hyre]\n…\n*Suspira*… Me sorprende que te hayas dado cuenta."
+        "es-ES": "[Kiel Hyre]\n...\n*Suspira*... Me sorprende que te hayas dado cuenta."
     },
     "dqpCAw": {
         "en-US": "[Kiel Hyre]\nYes. I modeled ^0000FFAllysia^000000 the robot\nafter ^0000FFAllysia^000000, the woman.\nBecause I loved her.",
@@ -3367,7 +3367,7 @@
     "gapCAw": {
         "en-US": "[{0}]\nMaybe you don't have the talent\nto ruin a household. However!\nHow about your sponsor, Rekenber Corporation?\nSuch a maneuver should be trivial\nfor them, don't you think?",
         "pt-BR": "[{0}]\nTalvez você não tenha talento\npara arruinar uma casa. Que seja!\nE quanto ao seu patrocinador, a Corporação Rekenber?\nTal ação deve ser trivial\npara eles, você não acha?",
-        "es-ES": "[{0}]\nQuizá no tuvieras los medios\npara destruir una casa. Sin embargo…\n¿Y tus patrocinadores, la Corporación Rekenber?\n¿No te parece que para ellos\neso sería algo fácil de hacer?"
+        "es-ES": "[{0}]\nQuizá no tuvieras los medios\npara destruir una casa. Sin embargo...\n¿Y tus patrocinadores, la Corporación Rekenber?\n¿No te parece que para ellos\neso sería algo fácil de hacer?"
     },
     "gqpCAw": {
         "en-US": "[Kiel Hyre]\nAmazing. Yes.\nI ruined that household.\nHowever, it was for ^0000FFAllysia^000000\nwho died an undeserved death.",
@@ -3377,7 +3377,7 @@
     "g6pCAw": {
         "en-US": "[Kiel Hyre]\nIf James did not betray her,\nif he lived happily with her,\nso that she didn't kill herself...",
         "pt-BR": "[Kiel Hyre]\nSe James não a traísse,\nse ele vivesse feliz com ela,\npara que ela não se matasse...",
-        "es-ES": "[Kiel Hyre]\nSi James no la hubiera traicionado,\nsi hubiera vivido feliz con ella,\nella no se habría suicidado…"
+        "es-ES": "[Kiel Hyre]\nSi James no la hubiera traicionado,\nsi hubiera vivido feliz con ella,\nella no se habría suicidado..."
     },
     "hKpCAw": {
         "en-US": "[Kiel Hyre]\nHmph! I had him killed for his terrible misdeed!\nI did nothing wrong!!",
@@ -3407,7 +3407,7 @@
     "iapCAw": {
         "en-US": "[Kiel Hyre]\nGrr... What's with this note?\nAre you telling me James didn't betray her\nbased on just this one note?\nSo what? She killed herself\nafter all!",
         "pt-BR": "[Kiel Hyre]\nGrr... E esse bilhete?\nEstá me dizendo que James não a traiu\ncom base apenas nesse bilhete?\nE daí? Ela se matou\nafinal de contas!",
-        "es-ES": "[Kiel Hyre]\nGrrr… ¿Qué tiene esta nota?\n¿Me estás diciendo que James no la traicionó \nsolo por lo que dice en esta nota?\n¿Y qué? ¡Después de todo\nsí se suicidó!"
+        "es-ES": "[Kiel Hyre]\nGrrr... ¿Qué tiene esta nota?\n¿Me estás diciendo que James no la traicionó \nsolo por lo que dice en esta nota?\n¿Y qué? ¡Después de todo\nsí se suicidó!"
     },
     "iqpCAw": {
         "en-US": "[{0}]\nNo. I'm not saying that\nhe didn't betray her.\nIt's about the date.",
@@ -3427,12 +3427,12 @@
     "japCAw": {
         "en-US": "[Kiel Hyre]\nShe couldn't trust him.\nShe thought she'd be a temporary\ntoy for a rich young man...\n............\n......\n...",
         "pt-BR": "[Kiel Hyre]\nEla não podia confiar nele.\nEla pensou que seria um brinquedo temporário\nbrinquedo temporário para um jovem rico...\n............\n......\n...",
-        "es-ES": "[Kiel Hyre]\nPorque no confiaba en él.\nPorque pensó que sería solo un entretenimiento\ntemporal para un joven rico…\n…\n…\n…"
+        "es-ES": "[Kiel Hyre]\nPorque no confiaba en él.\nPorque pensó que sería solo un entretenimiento\ntemporal para un joven rico...\n...\n...\n..."
     },
     "jqpCAw": {
         "en-US": "[{0}]\n............\n......\n...",
         "pt-BR": "[{0}]\n............\n......\n...",
-        "es-ES": "[{0}]\n…\n…\n…"
+        "es-ES": "[{0}]\n...\n...\n..."
     },
     "j6pCAw": {
         "en-US": "[{0}]\nNo.\nI don't think that's why she jumped.\nI can read sincerity\nin this note.",
@@ -3447,7 +3447,7 @@
     "kapCAw": {
         "en-US": "[Kiel Hyre]\n.............!\nWh-what are you talking about!!\nYou don't have any proof that I called\nher out that day!!!",
         "pt-BR": "[Kiel Hyre]\n.............!\nDo que está falando!!!\nVocê não tem nenhuma prova de que eu chamei\nela naquele dia!!!",
-        "es-ES": "[Kiel Hyre]\n¡………….!\n¡¿De qué estás hablando?!\n¡No tienes ninguna prueba de que la confronté \nese día!"
+        "es-ES": "[Kiel Hyre]\n¡.............!\n¡¿De qué estás hablando?!\n¡No tienes ninguna prueba de que la confronté \nese día!"
     },
     "kqpCAw": {
         "en-US": "K.H.'s Note",
@@ -3457,7 +3457,7 @@
     "k6pCAw": {
         "en-US": "[{0}]\nYou want proof?\nHere it is.\nThis note tells her to meet the writer\non the night of August 19th at the place\nwhere they first met.\nWhich was... the river.",
         "pt-BR": "[{0}]\nVocê quer provas?\nAqui está.\nEste bilhete diz para ela encontrar o escritor\nna noite de 19 de agosto no local\nonde eles se conheceram.\nQue foi... no rio.",
-        "es-ES": "[{0}]\n¿Quieres pruebas?\nAquí están.\nEsta nota es una invitación para encontrarse\nen el lugar donde se conocieron,\nla noche del 19de agosto.\nQue era… el río."
+        "es-ES": "[{0}]\n¿Quieres pruebas?\nAquí están.\nEsta nota es una invitación para encontrarse\nen el lugar donde se conocieron,\nla noche del 19de agosto.\nQue era... el río."
     },
     "lKpCAw": {
         "en-US": "[{0}]\nThese initials, K.H., are also\nwritten in the portrait\nyou acknowledged.\nWhat happened between you and her\non that night?",
@@ -3467,12 +3467,12 @@
     "lapCAw": {
         "en-US": "[Kiel Hyre]\n............\n......\n......",
         "pt-BR": "[Kiel Hyre]\n............\n......\n......",
-        "es-ES": "[Kiel Hyre]\n…\n…\n…"
+        "es-ES": "[Kiel Hyre]\n...\n...\n..."
     },
     "lqpCAw": {
         "en-US": "[Kiel Hyre]\n...*Chuckle*...\nYes... That night...\n.........",
         "pt-BR": "[Kiel Hyre]\n...*risadinha*...\nSim... Naquela noite...\n.........",
-        "es-ES": "[Kiel Hyre]\n…*Risita*…\nSí… Esa noche…\n…"
+        "es-ES": "[Kiel Hyre]\n...*Risita*...\nSí... Esa noche...\n..."
     },
     "l6pCAw": {
         "en-US": "[Kiel Hyre]\nThat night, she listened to my call\nand came to the river. I told her\nto forget James, who betrayed her,\nand run away with me.",
@@ -3482,7 +3482,7 @@
     "mKpCAw": {
         "en-US": "[Kiel Hyre]\nBut she rejected me, saying that\nJames didn't betray her and\npromised to run away with her.\nHow do you think I felt\nafter hearing that?\nHeh... I felt miserable.",
         "pt-BR": "[Kiel Hyre]\nMas ela me rejeitou, dizendo que\nJames não a traiu e\nprometeu fugir com ela.\nComo você acha que eu me senti\ndepois de ouvir isso?\nHeh... Eu me senti miserável.",
-        "es-ES": "[Kiel Hyre]\nPero ella me rechazó, diciendo que\nJames no la había traicionado\ny que se fugarían juntos.\n¿Cómo crees que me sentí \ncuando escuché eso?\nJe… Me sentí miserable."
+        "es-ES": "[Kiel Hyre]\nPero ella me rechazó, diciendo que\nJames no la había traicionado\ny que se fugarían juntos.\n¿Cómo crees que me sentí \ncuando escuché eso?\nJe... Me sentí miserable."
     },
     "mapCAw": {
         "en-US": "[Kiel Hyre]\nShe fiddled with her ring in front of me.\nI saw it and got furious.\nI tried to take the ring from her\nand throw it into the river.",
@@ -3492,27 +3492,27 @@
     "mqpCAw": {
         "en-US": "[Kiel Hyre]\nShe tried to take the ring\nback from me.\nIt was just a light scuffle...\nBut the ground had been weakened because of\ndays of heavy rain... It collapsed...\n........",
         "pt-BR": "[Kiel Hyre]\nEla tentou tirar o anel\nde mim.\nFoi apenas uma briga leve...\nMas o solo estava mole por causa de\ndias de chuva forte... E desmoronou...\n........",
-        "es-ES": "[Kiel Hyre]\nElla trató de\nquitármelo.\nHubo un leve forcejeo…\nPero el suelo se había socavado\npor la lluvia de los últimos días… Y colapsó…\n…"
+        "es-ES": "[Kiel Hyre]\nElla trató de\nquitármelo.\nHubo un leve forcejeo...\nPero el suelo se había socavado\npor la lluvia de los últimos días... Y colapsó...\n..."
     },
     "m6pCAw": {
         "en-US": ".........",
         "pt-BR": ".........",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "nKpCAw": {
         "en-US": "[Kiel Hyre]\nHa... haha... hah hah hah hah!",
         "pt-BR": "[Kiel Hyre]\nHa... haha... hah hah hah hah hah!",
-        "es-ES": "[Kiel Hyre]\nJa… ja… ¡ja, ja, ja, ja!"
+        "es-ES": "[Kiel Hyre]\nJa... ja... ¡ja, ja, ja, ja!"
     },
     "napCAw": {
         "en-US": "[Kiel Hyre]\nShe was found dead\nthe next day. Holding that ring\nto her heart. Hah hah...",
         "pt-BR": "[Kiel Hyre]\nEla foi encontrada morta\nno dia seguinte. Segurando aquele anel\nem seu coração. Hah hah...",
-        "es-ES": "[Kiel Hyre]\nLa encontraron muerta\nal día siguiente. Sujetando el anillo\ncontra su pecho. Ja, ja…"
+        "es-ES": "[Kiel Hyre]\nLa encontraron muerta\nal día siguiente. Sujetando el anillo\ncontra su pecho. Ja, ja..."
     },
     "nqpCAw": {
         "en-US": "[Kiel Hyre]\nFor some reason, I gave all I had\nto the fisherman who found the ring\nto buy it.\nAnd... and I left Juno,\nthat accursed city.",
         "pt-BR": "[Kiel Hyre]\nPor alguma razão, eu dei tudo o que tinha\npara o pescador que encontrou o anel\npara comprá-lo.\nE... e deixei Juno,\naquela cidade maldita.",
-        "es-ES": "[Kiel Hyre]\nNo sé por qué, pero le di todo\nlo que tenía al pescador que\nencontró el anillo.\nY… y me fui de Juno,\n¡esa maldita ciudad!"
+        "es-ES": "[Kiel Hyre]\nNo sé por qué, pero le di todo\nlo que tenía al pescador que\nencontró el anillo.\nY... y me fui de Juno,\n¡esa maldita ciudad!"
     },
     "n6pCAw": {
         "en-US": "[Kiel Hyre]\nAfter leaving Juno, I wandered around\nin thought. Why do I have to\nlive like a vagabond being chased?\nAnd I realized that it was\nall because of House Rosimier.\nBecause of that man, James.",
@@ -3522,17 +3522,17 @@
     "oKpCAw": {
         "en-US": "[Kiel Hyre]\nI could never forgive him.\nThat young rich who had everything\nand even tried to take ^0000FFAllysia^000000\naway from me... I wanted to show\n^0000FFAllysia^000000 how ugly he would be\nwhen he lost everything he had.",
         "pt-BR": "[Kiel Hyre]\nEu nunca poderia perdoá-lo.\nAquele jovem rico que tinha tudo\ne até tentou tirar ^0000FFAllysia^000000\npara longe de mim... Eu queria mostrar a\n^0000FFAllysia^000000 como ele seria feio\nquando perdesse tudo o que tinha.",
-        "es-ES": "[Kiel Hyre]\nNo podía perdonarlo.\nEse señorito rico que ya lo tenía todo,\ny que también quiso llevarse a ^0000FFAllysia^000000\nlejos de mí… Quería mostrarle a\n^0000FFAllysia^000000 lo feo que sería\ncuando perdiera todo lo que tenía."
+        "es-ES": "[Kiel Hyre]\nNo podía perdonarlo.\nEse señorito rico que ya lo tenía todo,\ny que también quiso llevarse a ^0000FFAllysia^000000\nlejos de mí... Quería mostrarle a\n^0000FFAllysia^000000 lo feo que sería\ncuando perdiera todo lo que tenía."
     },
     "oapCAw": {
         "en-US": "[Kiel Hyre]\nSo I took the blueprint of the 1st Generation robot...\nof ^0000FFAllysia^000000... and went to\nRekenber Corporation.",
         "pt-BR": "[Kiel Hyre]\nEntão, peguei o projeto do robô de 1ª geração...\nda ^0000FFAllysia^000000... e fui para a\nCorporação Rekenber.",
-        "es-ES": "[Kiel Hyre]\nAsí que tomé el plano del robot de la primera generación…\nde ^0000FFAllysia^000000… y fui a\nla Corporación Rekenber."
+        "es-ES": "[Kiel Hyre]\nAsí que tomé el plano del robot de la primera generación...\nde ^0000FFAllysia^000000... y fui a\nla Corporación Rekenber."
     },
     "oqpCAw": {
         "en-US": "[Kiel Hyre]\nRekenber provided me everything\nI wanted. Money, power, connections,\nand the methods to ruin someone...\nIn return, I provided them\nwith robots.",
         "pt-BR": "[Kiel Hyre]\nA Rekenber me deu tudo\nque eu queria. Dinheiro, poder, influência,\ne os métodos para destruir alguém...\nEm troca, eu lhes forneci\ncom robôs.",
-        "es-ES": "[Kiel Hyre]\nRekenber me proporcionó todo\nlo que quería. Dinero, poder, contactos,\ntodos los medios para dejar a alguien en la ruina…\nY yo, a cambio, les di\na los robots."
+        "es-ES": "[Kiel Hyre]\nRekenber me proporcionó todo\nlo que quería. Dinero, poder, contactos,\ntodos los medios para dejar a alguien en la ruina...\nY yo, a cambio, les di\na los robots."
     },
     "o6pCAw": {
         "en-US": "[Kiel Hyre]\nI could guess why they wanted the robots.\nMonitoring, assassination, spying, et cetera, et cetera.\nThey're much safer since people can\nbetray you anytime.",
@@ -3542,27 +3542,27 @@
     "pKpCAw": {
         "en-US": "[Kiel Hyre]\nHah hah... Seeing that you've dug that deep,\nthere must be someone behind you.\nWhat did they want? My life?\nRobot blueprints?\nOr all of them? Hah hah hah.",
         "pt-BR": "[Kiel Hyre]\nHah hah... Vendo que você pesquisou tanto,\ndeve haver alguém por trás de você.\nO que eles querem? Minha vida?\nOs panejamentos dos robôs?\nOu tudo isso? Hah hah hah.",
-        "es-ES": "[Kiel Hyre]\nJa, ja… Como has indagado tanto,\nsupongo que alguien te envió.\n¿Qué quieren? ¿Mi vida?\n¿Planos de los robots?\n¿O todo lo anterior? Ja, ja, ja."
+        "es-ES": "[Kiel Hyre]\nJa, ja... Como has indagado tanto,\nsupongo que alguien te envió.\n¿Qué quieren? ¿Mi vida?\n¿Planos de los robots?\n¿O todo lo anterior? Ja, ja, ja."
     },
     "papCAw": {
         "en-US": "They wanted...",
         "pt-BR": "Eles queriam...",
-        "es-ES": "Quieren…"
+        "es-ES": "Quieren..."
     },
     "pqpCAw": {
         "en-US": "[{0}]\nAbout the relationship between you and Rekenber.\nAnd ^0000FFKiehl^000000.",
         "pt-BR": "[{0}]\nSobre o relacionamento entre você e a Rekenber.\nE ^0000FFKiehl^000000.",
-        "es-ES": "[{0}]\nSobre tu relación con Rekenber…\nSobre ^0000FFKiehl^000000…"
+        "es-ES": "[{0}]\nSobre tu relación con Rekenber...\nSobre ^0000FFKiehl^000000..."
     },
     "p6pCAw": {
         "en-US": "[Kiel Hyre]\n^0000FFKiehl^000000... I think you have\nguessed by now.\nAbout who he is.",
         "pt-BR": "[Kiel Hyre]\n^0000FFKiehl^000000... Acho que você já\nadivinhou até agora.\nSobre quem ele é.",
-        "es-ES": "[Kiel Hyre]\n^0000FFKiehl^000000… Seguro que\nya lo sabes.\nLo que es."
+        "es-ES": "[Kiel Hyre]\n^0000FFKiehl^000000... Seguro que\nya lo sabes.\nLo que es."
     },
     "qKpCAw": {
         "en-US": "[{0}]\nIs he... a robot? 2nd Generation?",
         "pt-BR": "[{0}]\nEle é... um robô? De 2ª geração?",
-        "es-ES": "[{0}]\n¿Es… un robot? ¿Segunda generación?"
+        "es-ES": "[{0}]\n¿Es... un robot? ¿Segunda generación?"
     },
     "qapCAw": {
         "en-US": "[Kiel Hyre]\nYes.\n^0000FFKiehl^000000 is the first 2nd Generation robot\nthat used the compressed magic scroll.\nThe one and only successful 2nd Generation that\novercame so many failures and errors.",
@@ -3577,12 +3577,12 @@
     "q6pCAw": {
         "en-US": "[Kiel Hyre]\nAnd now he's demonstrating\nunbelievable ingenuity by\ncreating 3rd Generation robots.\nHowever... I failed to make him a good human.\nHe is just a good successor...",
         "pt-BR": "[Kiel Hyre]\nE agora ele está demonstrando\numa inacreditável ingenuidade\ncriando robôs de 3ª Geração.\nNo entanto... Não consegui fazer dele um bom humano.\nEle é apenas um bom sucessor...",
-        "es-ES": "[Kiel Hyre]\nY ahora está demostrando\nsu increíble ingenio\nal crear robots de tercera generación.\nPero… No logré que fuera buena persona.\nPero es un buen sucesor…"
+        "es-ES": "[Kiel Hyre]\nY ahora está demostrando\nsu increíble ingenio\nal crear robots de tercera generación.\nPero... No logré que fuera buena persona.\nPero es un buen sucesor..."
     },
     "rKpCAw": {
         "en-US": "[Kiel Hyre]\nModified robots. They are literally\nhuman-shaped killing machines.\nThey don't take unique shapes\nlike Guardians. They take human shapes\nso that no one would realize...",
         "pt-BR": "[Kiel Hyre]\nRobôs modificados. Eles são literalmente\nmáquinas de matar com formato humanoide.\nNão possuem formas únicas\ncomo os Guardiões. Eles assumem formas humanas\npara não serem notados...",
-        "es-ES": "[Kiel Hyre]\nRobots modificados. Son literalmente\nmáquinas de matar con forma humana.\nNo adoptan formas únicas\ncomo los Guardianes. Adoptan formas humanas\npara que nadie se dé cuenta de lo que son…"
+        "es-ES": "[Kiel Hyre]\nRobots modificados. Son literalmente\nmáquinas de matar con forma humana.\nNo adoptan formas únicas\ncomo los Guardianes. Adoptan formas humanas\npara que nadie se dé cuenta de lo que son..."
     },
     "rapCAw": {
         "en-US": "[Kiel Hyre]\nI feared ^0000FFKiehl^000000's astounding learning ability,\nimmense power, and emotional\ninstability.",
@@ -3602,12 +3602,12 @@
     "sKpCAw": {
         "en-US": "[Kiel Hyre]\nSome are loaded with abilities similar to monsters,\nand some are merged with machines...\nIt's the same as the human bio-experiments\ncommitted by Rekenber Corporation.",
         "pt-BR": "[Kiel Hyre]\nAlguns possuem habilidades semelhantes aos monstros,\ne alguns são fundidos com máquinas...\nSão iguais aos bioexperimentos humanos\nrealizados pela Corporação Rekenber.",
-        "es-ES": "[Kiel Hyre]\nAlgunos tienen habilidades similares a las de los monstruos,\ny algunos se fusionaron con máquinas…\nIgual que los experimentos biológicos humanos\nde la Corporación Rekenber."
+        "es-ES": "[Kiel Hyre]\nAlgunos tienen habilidades similares a las de los monstruos,\ny algunos se fusionaron con máquinas...\nIgual que los experimentos biológicos humanos\nde la Corporación Rekenber."
     },
     "sapCAw": {
         "en-US": "[Kiel Hyre]\nImagine a world where humans don't respect\nhuman dignity. It would be horrific...",
         "pt-BR": "[Kiel Hyre]\nImagine um mundo em que os seres humanos não respeitem\ndignidade humana. Seria horrível...",
-        "es-ES": "[Kiel Hyre]\nImagina un mundo en el que la dignidad humana\nno se respete. Sería horrible…"
+        "es-ES": "[Kiel Hyre]\nImagina un mundo en el que la dignidad humana\nno se respete. Sería horrible..."
     },
     "sqpCAw": {
         "en-US": "[Kiel Hyre]\nYou made me revisit the past\nI wanted to forget.\nAh, I won't harm you or anything.\nI just have a favor\nto ask of you.",
@@ -3622,7 +3622,7 @@
     "tKpCAw": {
         "en-US": "[Kiel Hyre]\nYes... a favor.\nI think it wouldn't be all that different\nfrom the goal of those guys who\nasked you to investigate.",
         "pt-BR": "[Kiel Hyre]\nSim... um favor.\nAcho que não seria tão diferente\ndo objetivo daqueles caras que\npediram que você investigasse.",
-        "es-ES": "[Kiel Hyre]\nSí… un favor.\nCreo que no será muy diferente\na lo que se proponen las personas\nque te pidieron que investigaras."
+        "es-ES": "[Kiel Hyre]\nSí... un favor.\nCreo que no será muy diferente\na lo que se proponen las personas\nque te pidieron que investigaras."
     },
     "tapCAw": {
         "en-US": "[Kiel Hyre]\nStop ^0000FFKiehl^000000. I don't want to see\nthe children I created getting destroyed\nanymore.",
@@ -3632,7 +3632,7 @@
     "tqpCAw": {
         "en-US": "[Kiel Hyre]\nAlthough it was me who corrupted those children...\nI will pay for everything I have done\nafter this catastrophe is wrapped up.",
         "pt-BR": "[Kiel Hyre]\nEmbora tenha sido eu quem corrompeu aquelas crianças...\nEu pagarei por tudo o que fiz\ndepois que essa catástrofe terminar.",
-        "es-ES": "[Kiel Hyre]\nAunque fui yo quien corrompió a esos niños…\nPagaré por todo lo que hice\ncuando pase esta catástrofe."
+        "es-ES": "[Kiel Hyre]\nAunque fui yo quien corrompió a esos niños...\nPagaré por todo lo que hice\ncuando pase esta catástrofe."
     },
     "t6pCAw": {
         "en-US": "Agree.",
@@ -3697,7 +3697,7 @@
     "w6pCAw": {
         "en-US": "[Kiel Hyre]\nAlright... I'll be counting on you.",
         "pt-BR": "[Kiel Hyre]\nCerto... Estou contando com você.",
-        "es-ES": "[Kiel Hyre]\nMuy bien… Cuento contigo."
+        "es-ES": "[Kiel Hyre]\nMuy bien... Cuento contigo."
     },
     "xKpCAw": {
         "en-US": "[Kiel Hyre]\nCome to me when you're ready.",
@@ -3722,7 +3722,7 @@
     "yKpCAw": {
         "en-US": "[Kiel Hyre]\nHe... threw his body away\nand got a new body? The 4th Generation...\nI knew he was capable, but I didn't know\nhe could go that far...",
         "pt-BR": "[Kiel Hyre]\nEle... jogou seu corpo fora\ne pegou um novo corpo? A 4ª geração...\nEu sabia que ele era capaz, mas não sabia\nque poderia ir tão longe...",
-        "es-ES": "[Kiel Hyre]\n¿Él… se deshizo de su cuerpo\ny tiene un cuerpo nuevo? La cuarta generación…\nSabía que era brillante, pero no imaginé \nque pudiera llegar tan lejos…"
+        "es-ES": "[Kiel Hyre]\n¿Él... se deshizo de su cuerpo\ny tiene un cuerpo nuevo? La cuarta generación...\nSabía que era brillante, pero no imaginé \nque pudiera llegar tan lejos..."
     },
     "yapCAw": {
         "en-US": "Anyway, thank you, Mr. {0}.",
@@ -3767,7 +3767,7 @@
     "0apCAw": {
         "en-US": "[Kiel Hyre]\n..................",
         "pt-BR": "[Kiel Hyre]\n..................",
-        "es-ES": "[Kiel Hyre]\n…"
+        "es-ES": "[Kiel Hyre]\n..."
     },
     "0qpCAw": {
         "en-US": "As I got out of the mansion to return,\nI felt something hit me in the head and I lost consciousness.",
@@ -3807,7 +3807,7 @@
     "2apCAw": {
         "en-US": "[??????]\nWell... I apologize for taking you\nby force.\nSo, what relationship do you have with ^FF0000Kiel Hyre^000000?",
         "pt-BR": "[??????]\nBem... Peço desculpas por ter trazido\nvocê à força.\nQual é a sua relação com ^FF0000Kiel Hyre^000000?",
-        "es-ES": "[¿¿¿???]\nBueno… Pido disculpas por\nhaberte traído a la fuerza.\n¿Qué relación tienes con ^FF0000Kiel Hyre^000000?"
+        "es-ES": "[¿¿¿???]\nBueno... Pido disculpas por\nhaberte traído a la fuerza.\n¿Qué relación tienes con ^FF0000Kiel Hyre^000000?"
     },
     "2qpCAw": {
         "en-US": "Tell her what happened so far.",
@@ -3822,12 +3822,12 @@
     "3KpCAw": {
         "en-US": "You told her everything that happened\nso far.\nYou felt your voice dying down when you were\ntalking about ^FF0000Elly^000000.\n........\n......",
         "pt-BR": "Você contou a ela tudo o que aconteceu\naté agora.\nSentiu que sua voz estava diminuindo quando estava\nfalando sobre ^FF0000Elly^000000.\n........\n......",
-        "es-ES": "Le contaste todo lo que pasó \nhasta ahora.\nTu voz comenzó a apagarse\nal hablar de ^FF0000Elly^000000.\n…\n…"
+        "es-ES": "Le contaste todo lo que pasó \nhasta ahora.\nTu voz comenzó a apagarse\nal hablar de ^FF0000Elly^000000.\n...\n..."
     },
     "3apCAw": {
         "en-US": "[??????]\nHmm...\nI see...\nShe's...\nAnyway, I want you to help us\nfrom now on.",
         "pt-BR": "[??????]\nHmm...\nEstou vendo...\nEla é...\nDe qualquer forma, quero que você nos ajude\nde agora em diante.",
-        "es-ES": "[¿¿¿???]\nMmm…\nYa veo…\nElla es…\nEn fin, quiero que nos ayudes\na partir de ahora."
+        "es-ES": "[¿¿¿???]\nMmm...\nYa veo...\nElla es...\nEn fin, quiero que nos ayudes\na partir de ahora."
     },
     "3qpCAw": {
         "en-US": "Help them.",
@@ -3837,17 +3837,17 @@
     "36pCAw": {
         "en-US": "[??????]\nI knew it.\nHeh heh...\nAh, I haven't introduced myself.\nI'm an agent of Schwarzwald,\n^0000FFMitchelle Layla^000000.\nNice to meet you.",
         "pt-BR": "[??????]\nEu sabia.\nHeh heh...\nAh, eu não me apresentei.\nSou uma agente da Schwarzwald,\n^0000FFMitchelle Layla^000000.\nPrazer em te conhecer.",
-        "es-ES": "[¿¿¿???]\nLo sabía.\nJe, je…\nAh, no me presenté.\nSoy una agente de Schwarzwald,\nme llamo ^0000FFMitchelle Layla^000000.\nUn placer."
+        "es-ES": "[¿¿¿???]\nLo sabía.\nJe, je...\nAh, no me presenté.\nSoy una agente de Schwarzwald,\nme llamo ^0000FFMitchelle Layla^000000.\nUn placer."
     },
     "4KpCAw": {
         "en-US": "[??????]\nI knew it.\nMm-hmm, silence means affirmation.\nHeh heh...",
         "pt-BR": "[??????]\nEu sabia.\nMm-hmm, silêncio significa afirmação.\nHeh heh...",
-        "es-ES": "[¿¿¿???]\nLo sabía.\nMmm, el que calla otorga.\nJe, je…"
+        "es-ES": "[¿¿¿???]\nLo sabía.\nMmm, el que calla otorga.\nJe, je..."
     },
     "4apCAw": {
         "en-US": "[{0}]\nExcuse me?\nI, uh, well...",
         "pt-BR": "[{0}]\nDesculpe-me?\nEu, uh, bem...",
-        "es-ES": "[{0}]\n¿Disculpa?\nYo, eh, bueno…"
+        "es-ES": "[{0}]\n¿Disculpa?\nYo, eh, bueno..."
     },
     "4qpCAw": {
         "en-US": "[??????]\nAh, don't worry too much.\nWe will take care of\nyour safety.\nAll you have to do is to cooperate with us\nand investigate.",
@@ -3857,27 +3857,27 @@
     "46pCAw": {
         "en-US": "...I accept.",
         "pt-BR": "...Eu aceito.",
-        "es-ES": "…Acepto."
+        "es-ES": "...Acepto."
     },
     "5KpCAw": {
         "en-US": "[{0}]\n............\nI see.",
         "pt-BR": "[{0}]\n............\nEntendo.",
-        "es-ES": "[{0}]\n…\nYa veo."
+        "es-ES": "[{0}]\n...\nYa veo."
     },
     "5apCAw": {
         "en-US": "[Mitchelle]\nHeh heh...\nAh, I haven't introduced myself.\nI'm an agent of Schwarzwald,\n^0000FFMitchelle Layla^000000.\nNice to meet you.",
         "pt-BR": "[Mitchelle]\nHeh heh...\nAh, eu não me apresentei.\nSou uma agente da Schwarzwald,\n^0000FFMitchelle Layla^000000.\nPrazer em te conhecer.",
-        "es-ES": "[Mitchelle]\nJe, je…\nAh, no me presenté.\nSoy una agente de Schwarzwald,\nme llamo ^0000FFMitchelle Layla^000000.\nUn placer."
+        "es-ES": "[Mitchelle]\nJe, je...\nAh, no me presenté.\nSoy una agente de Schwarzwald,\nme llamo ^0000FFMitchelle Layla^000000.\nUn placer."
     },
     "5qpCAw": {
         "en-US": "[??????]\nDo you really know nothing?\nNot everyone can have a private meeting\nwith ^FF0000Kiel Hyre^000000... This won't\nbring any disadvantages to you, so be honest\nand tell me what you know.",
         "pt-BR": "[??????]\nVocê realmente não sabe nada?\nNem todo mundo pode ter uma reunião particular\ncom ^FF0000Kiel Hyre^000000... Isso não\ndesvantagens para você, então seja honesto\ne me diga o que você sabe.",
-        "es-ES": "[¿¿¿???]\n¿De verdad no sabes nada?\nNo todo el mundo puede reunirse en privado\ncon ^FF0000Kiel Hyre^000000… Esto no\nte causará ningún inconveniente, así que sincérate\ny dime lo que sabes."
+        "es-ES": "[¿¿¿???]\n¿De verdad no sabes nada?\nNo todo el mundo puede reunirse en privado\ncon ^FF0000Kiel Hyre^000000... Esto no\nte causará ningún inconveniente, así que sincérate\ny dime lo que sabes."
     },
     "56pCAw": {
         "en-US": "[{0}]\n............",
         "pt-BR": "[{0}]\n............",
-        "es-ES": "[{0}]\n…"
+        "es-ES": "[{0}]\n..."
     },
     "6KpCAw": {
         "en-US": "[??????]\nKeeping your mouth shut won't\nresolve this problem.\nWe need your cooperation\nto resolve this more easily.",
@@ -3887,17 +3887,17 @@
     "6apCAw": {
         "en-US": "[{0}]\n...(I think we're not talking about the same subject...)",
         "pt-BR": "[{0}]\n... (Acho que não estamos falando do mesmo assunto...)",
-        "es-ES": "[{0}]\n…(Creo que no estamos hablando del mismo tema…)"
+        "es-ES": "[{0}]\n...(Creo que no estamos hablando del mismo tema...)"
     },
     "6qpCAw": {
         "en-US": "[??????]\nHmm... Very well.\nAs expected, it's not easy to sway you.\nAlright, we will give you the information\nwe have.\nIn return, you will give us\nthe information you know.",
         "pt-BR": "[??????]\nHmm... Muito bem.\nComo esperado, não é fácil convencê-lo.\nBeleza, nós lhe daremos as informações\nque temos.\nEm troca, você nos dará\nas informações que você sabe.",
-        "es-ES": "[¿¿¿???]\nMmm… Muy bien.\nComo era de esperar, no es fácil convencerte.\nMuy bien, te daremos la información\nque tenemos.\nY, a cambio, tú nos darás\nla información que tienes."
+        "es-ES": "[¿¿¿???]\nMmm... Muy bien.\nComo era de esperar, no es fácil convencerte.\nMuy bien, te daremos la información\nque tenemos.\nY, a cambio, tú nos darás\nla información que tienes."
     },
     "66pCAw": {
         "en-US": "[{0}]\nWhat? Well, I... Uh...",
         "pt-BR": "[{0}]\nO quê? Bem, eu... Uh...",
-        "es-ES": "[{0}]\n¿Qué? Bueno, yo… Uh…"
+        "es-ES": "[{0}]\n¿Qué? Bueno, yo... Uh..."
     },
     "7KpCAw": {
         "en-US": "[??????]\nAah, don't feel so burdened.\nWe're just exchanging information.\nRight?\nNow, we'll tell you the information\nwe know.",
@@ -3922,12 +3922,12 @@
     "8KpCAw": {
         "en-US": "[??????]\nThen, one day, a man named ^0000FFKiehl Hyre^000000,\nwho is supposed to be Kiel's successor, showed up.\nEven though we couldn't find any clue\nabout Kiel getting married.\nSome speculate that he's a child\nKiel had with his secretary ^0000FFAllysia^000000,\nbut I don't know...",
         "pt-BR": "[??????]\nEntão, um dia, um homem chamado ^0000FFKiehl Hyre^000000,\nque supostamente seria o sucessor de Kiel, surgiu.\nApesar de não termos encontrado nenhuma prova\nsobre o casamento de Kiel.\nAlguns especulam que se trata de um filho que\nKiel teve com sua secretária ^0000FFAllysia^000000,\nmas eu não sei...",
-        "es-ES": "[¿¿¿???]\nEntonces, un día, apareció un hombre llamado ^0000FFKiehl Hyre^000000,\nque se suponía que era el sucesor de Kiel.\nAunque no encontramos ninguna prueba\nde que Kiel se hubiera casado.\nAlgunos especulan que es el hijo\nque Kiel tuvo con su secretaria ^0000FFAllysia^000000,\npero no sé…"
+        "es-ES": "[¿¿¿???]\nEntonces, un día, apareció un hombre llamado ^0000FFKiehl Hyre^000000,\nque se suponía que era el sucesor de Kiel.\nAunque no encontramos ninguna prueba\nde que Kiel se hubiera casado.\nAlgunos especulan que es el hijo\nque Kiel tuvo con su secretaria ^0000FFAllysia^000000,\npero no sé..."
     },
     "8apCAw": {
         "en-US": "[??????]\nAnyway, that ^0000FFKiehl Hyre^000000 guy was\njust perfect in just about everything.\nLooks, personality, capability...\nEverything about him was perfect.",
         "pt-BR": "[??????]\nDe qualquer forma, aquele tal de ^0000FFKiehl Hyre^000000 era\nperfeito em quase tudo.\nAparência, personalidade, capacidade...\nTudo nele era perfeito.",
-        "es-ES": "[¿¿¿???]\nEn fin, ese ^0000FFKiehl Hyre^000000 era\nperfecto en todo sentido.\nEra apuesto, inteligente y tenía personalidad…\nTodo en él era perfecto."
+        "es-ES": "[¿¿¿???]\nEn fin, ese ^0000FFKiehl Hyre^000000 era\nperfecto en todo sentido.\nEra apuesto, inteligente y tenía personalidad...\nTodo en él era perfecto."
     },
     "8qpCAw": {
         "en-US": "[??????]\nThen, ^0000FFKiehl^000000 started a business\nfor some reason.\nI'm not sure I can call it a business, though.\nHe established a welfare center and a vocational academy.",
@@ -3942,7 +3942,7 @@
     "9KpCAw": {
         "en-US": "[??????]\nIt seemed as if... the children they accepted\nwere predetermined.\nSo, time went by, and a little while ago,\n^0000FFKiehl^000000 gathered Rekenber personnels\nand heads of related corporations\nfor a top secret meeting.",
         "pt-BR": "[??????]\nParecia que... as crianças aceitas\neram predeterminadas.\nO tempo passou e, um dia,\n^0000FFKiehl^000000 reuniu os funcionários da Rekenber\ne chefes de corporações relacionadas\npara uma reunião ultrassecreta.",
-        "es-ES": "[¿¿¿???]\nParecía como si… los chicos que admitían\nya estuvieran elegidos de antemano.\nAsí pasó el tiempo y, hace poco,\n^0000FFKiehl^000000 convocó al personal de Rekenber\ny a los jefes de las corporaciones relacionadas\npara una junta ultrasecreta."
+        "es-ES": "[¿¿¿???]\nParecía como si... los chicos que admitían\nya estuvieran elegidos de antemano.\nAsí pasó el tiempo y, hace poco,\n^0000FFKiehl^000000 convocó al personal de Rekenber\ny a los jefes de las corporaciones relacionadas\npara una junta ultrasecreta."
     },
     "9apCAw": {
         "en-US": "[??????]\nBut we poked around some places\nand got a little bit of intel.\nIn that meeting, ^0000FFKiehl^000000 announced\na new project.",
@@ -3982,17 +3982,17 @@
     "/KpCAw": {
         "en-US": "[{0}]\nAh... Umm... I, well...\n......\nLed by her strange way of talking,\nI began to talking in spite of myself.\n.........\n......",
         "pt-BR": "[{0}]\nAh... Umm... Eu, bem...\n......\nGuiado pela estranha maneira dela falar,\ncomecei a falar com ódio de mim mesmo.\n.........\n......",
-        "es-ES": "[{0}]\nAh… Mmm… Yo, bueno…\n…\nSu manera tan peculiar de expresarse\nhizo que empezara a hablar sin querer.\n…\n…"
+        "es-ES": "[{0}]\nAh... Mmm... Yo, bueno...\n...\nSu manera tan peculiar de expresarse\nhizo que empezara a hablar sin querer.\n...\n..."
     },
     "/apCAw": {
         "en-US": "I told her about my first encounter with ^FF0000Elly^000000,\nthe encounter with ^0000FFAllysia^000000, then the meeting\nwith ^FF0000Kiel Hyre^000000.\n......\n......",
         "pt-BR": "Contei a ela sobre meu primeiro encontro com ^FF0000Elly^000000,\no encontro com ^0000FFAllysia^000000, depois o encontro\ncom ^FF0000Kiel Hyre^000000.\n......\n......",
-        "es-ES": "Le hablé de mi primer encuentro con ^FF0000Elly^000000,\ndespués con ^0000FFAllysia^000000 y, por último,\ncon ^FF0000Kiel Hyre^000000.\n…\n…"
+        "es-ES": "Le hablé de mi primer encuentro con ^FF0000Elly^000000,\ndespués con ^0000FFAllysia^000000 y, por último,\ncon ^FF0000Kiel Hyre^000000.\n...\n..."
     },
     "/qpCAw": {
         "en-US": "[??????]\nHmm...\nI see...\nRobots... That's a surprise...\nAnyway, I want you to help us\nfrom now on.",
         "pt-BR": "[??????]\nHmm...\nEstou vendo...\nRobôs... Isso é uma surpresa...\nDe qualquer forma, quero que você nos ajude\nde agora em diante.",
-        "es-ES": "[¿¿¿???]\nMmm…\nYa veo…\nRobots… Qué sorpresa…\nEn fin, quiero que nos ayudes\na partir de ahora."
+        "es-ES": "[¿¿¿???]\nMmm...\nYa veo...\nRobots... Qué sorpresa...\nEn fin, quiero que nos ayudes\na partir de ahora."
     },
     "/6pCAw": {
         "en-US": "[??????]\nOtherwise, I cannot guarantee\nyour safety.\nI'm an agent of Schwarzwald,\nIntelligence Agency.",
@@ -4017,7 +4017,7 @@
     "A6tCAw": {
         "en-US": "[{0}]\nHuh?\nI, uh, well...",
         "pt-BR": "[{0}]\nHã?\nEu, uh, bem...",
-        "es-ES": "[{0}]\n¿Eh?\nYo, eh, bueno…"
+        "es-ES": "[{0}]\n¿Eh?\nYo, eh, bueno..."
     },
     "BKtCAw": {
         "en-US": "[Mitchelle]\nAlright, then. I'll give you some clues.\nThere is a woman in Juno\nwho saw ^FF0000Kiel Hyre^000000's secretary ^0000FFAllysia^000000\nabout 30 years ago.",
@@ -4062,7 +4062,7 @@
     "DKtCAw": {
         "en-US": "[Mitchelle]\nHmm...\nI guess you haven't found any critical info yet.\nWork just a little more for us.",
         "pt-BR": "[Mitchelle]\nHmm...\nAcho que você ainda não encontrou nenhuma informação importante.\nTrabalhe um pouco mais para nós.",
-        "es-ES": "[Mitchelle]\nMmm…\nSupongo que todavía no has encontrado nada relevante.\nEsfuérzate más."
+        "es-ES": "[Mitchelle]\nMmm...\nSupongo que todavía no has encontrado nada relevante.\nEsfuérzate más."
     },
     "DatCAw": {
         "en-US": "[Mitchelle]\nHey, you're back.\nGot any interesting information?",
@@ -4122,12 +4122,12 @@
     "GKtCAw": {
         "en-US": "[Grandma]\nEh?\nYah... My baby keeps crying and won't\ngo to sleep... I tried to put her to sleep,\nbut she doesn't come near Mommy, always\ngets frisky... I gotta put her to sleep\nto work without worrying...",
         "pt-BR": "[Grandma]\nEh?\nSim... Minha bebê não para de chorar e não quer\ndormir... Tentei colocá-la para dormir,\nmas ela não se aproxima da mamãe, sempre\nfica agitada... Preciso colocá-la para dormir\npara trabalhar sem me preocupar...",
-        "es-ES": "[Abuela]\n¿Eh?\nSí… Mi bebé no para de llorar y no\nse duerme… Intenté que se durmiera,\npero si mamá no está cerca\nse pone inquieta… Si no se duerme,\nno podré trabajar tranquila…"
+        "es-ES": "[Abuela]\n¿Eh?\nSí... Mi bebé no para de llorar y no\nse duerme... Intenté que se durmiera,\npero si mamá no está cerca\nse pone inquieta... Si no se duerme,\nno podré trabajar tranquila..."
     },
     "GatCAw": {
         "en-US": "[Grandma]\nI can't work since my baby doesn't\ngo to sleep, so the house is a mess...\nOh... That got me a scolding\nfrom Master...",
         "pt-BR": "[Grandma]\nNão posso trabalhar porque minha bebê não\ndorme, então a casa está uma bagunça...\nOh... Isso me rendeu uma bronca\ndo mestre...",
-        "es-ES": "[Abuela]\nNo puedo trabajar si mi bebé no duerme,\nasí que la casa está hecha un desastre…\nOh… Eso me valió un regaño\ndel Maestro…"
+        "es-ES": "[Abuela]\nNo puedo trabajar si mi bebé no duerme,\nasí que la casa está hecha un desastre...\nOh... Eso me valió un regaño\ndel Maestro..."
     },
     "GqtCAw": {
         "en-US": "Where is the baby?",
@@ -4137,32 +4137,32 @@
     "G6tCAw": {
         "en-US": "[Grandma]\nHuh? Where is she?\nShe was here just a moment ago...\nI think she got bored and went out to play...\nOh! There you are.",
         "pt-BR": "[Grandma]\nHã? Onde ela está?\nEla estava aqui há pouco tempo...\nAcho que ela ficou entediada e saiu para brincar...\nOh! Aí está você.",
-        "es-ES": "[Abuela]\n¿Eh? ¿Dónde está ella…?\nEstaba aquí hace un momento…\nCreo que se aburrió y salió a jugar…\n¡Ah! Aquí tienes."
+        "es-ES": "[Abuela]\n¿Eh? ¿Dónde está ella...?\nEstaba aquí hace un momento...\nCreo que se aburrió y salió a jugar...\n¡Ah! Aquí tienes."
     },
     "HKtCAw": {
         "en-US": "[Grandma]\nI told you not to bother travelers!\nCome here now!\nMy, I'm sorry. This kid is\ntoo mischievous...",
         "pt-BR": "[Grandma]\nEu lhe disse para não incomodar os visitantes!\nVenha aqui agora!\nDesculpe-me. Essa criança é\nmuito travessa...",
-        "es-ES": "[Abuela]\n¡Te dije que no molestaras a los viajeros!\n¡Ven aquí ahora mismo!\nLo siento. Esta niña es\ndemasiado traviesa…"
+        "es-ES": "[Abuela]\n¡Te dije que no molestaras a los viajeros!\n¡Ven aquí ahora mismo!\nLo siento. Esta niña es\ndemasiado traviesa..."
     },
     "HatCAw": {
         "en-US": "[Grandma]\nEh? Yah...\nShe cries saying 'it's cold' every day.\nIf it's so cold, she's gotta come back\nto Mommy's arms.",
         "pt-BR": "[Grandma]\nEh? Sim...\nEla chora dizendo ''está frio'' todo dia.\nSe está tão frio, ela tem que vir\npara os braços da mamãe.",
-        "es-ES": "[Abuela]\n¿Eh? Sí…\nTodos los días llora porque tiene frío.\nQuiere que su mamá la abrace\nporque tiene frío."
+        "es-ES": "[Abuela]\n¿Eh? Sí...\nTodos los días llora porque tiene frío.\nQuiere que su mamá la abrace\nporque tiene frío."
     },
     "HqtCAw": {
         "en-US": "[Grandma]\nI don't know why she loves water so much...\nSleepy sleepy, my ^0000FFAllysia^000000.\nStop acting stubborn, come back here\nand go to sleep.",
         "pt-BR": "[Grandma]\nNão sei por que ela gosta tanto de água...\nDurma, durma, minha ^0000FFAllysia^000000.\nPare de ser teimosa, volte aqui\ne vá dormir.",
-        "es-ES": "[Abuela]\nNo sé por qué le gusta tanto el agua…\nDuerme, duerme, ^0000FFAllysia^000000.\nNo seas tan necia, ven aquí \ny duerme."
+        "es-ES": "[Abuela]\nNo sé por qué le gusta tanto el agua...\nDuerme, duerme, ^0000FFAllysia^000000.\nNo seas tan necia, ven aquí \ny duerme."
     },
     "H6tCAw": {
         "en-US": "[Grandma]\nMommy can't work because you don't\ngo to sleep...",
         "pt-BR": "[Grandma]\nA mamãe não pode trabalhar porque você\nnão dorme...",
-        "es-ES": "[Abuela]\nMamá no puede trabajar porque no te vas\na dormir…"
+        "es-ES": "[Abuela]\nMamá no puede trabajar porque no te vas\na dormir..."
     },
     "IKtCAw": {
         "en-US": "Allysia? I wonder...",
         "pt-BR": "Allysia? Eu me pergunto...",
-        "es-ES": "¿Allysia? Me pregunto…"
+        "es-ES": "¿Allysia? Me pregunto..."
     },
     "IatCAw": {
         "en-US": "I showed ^0000FFAllysia^000000's portrait to the grandma.",
@@ -4177,7 +4177,7 @@
     "I6tCAw": {
         "en-US": "[Grandma]\nMy baby... My Ally left home yesterday\nand hasn't come back!!\nIf you know where my baby is,\nplease let me know!!!!",
         "pt-BR": "[Grandma]\nMinha bebê... Minha Ally saiu de casa ontem\ne não voltou mais!\nSe você souber onde minha bebê está,\npor favor, me avise!!!!",
-        "es-ES": "[Abuela]\nMi bebé… ¡Mi Ally se fue de casa ayer\ny aún no regresa!\n¡Si sabes dónde está mi bebé,\npor favor, dímelo!"
+        "es-ES": "[Abuela]\nMi bebé... ¡Mi Ally se fue de casa ayer\ny aún no regresa!\n¡Si sabes dónde está mi bebé,\npor favor, dímelo!"
     },
     "JKtCAw": {
         "en-US": "The grandma was restless for long\nwhile holding the portrait, then started\nto talk to herself.",
@@ -4187,7 +4187,7 @@
     "JatCAw": {
         "en-US": "[Grandma]\n^0000FFAllysia^000000, it's time for bed now.\nHmm? You're hungry?\nThen, let's eat...\nSleep, oh hush and sleep my baby...",
         "pt-BR": "[Grandma]\n^0000FFAllysia^000000, está na hora de dormir.\nHmm? Você está com fome?\nVamos comer...\nDurma, ah, fique quieta e durma, minha bebê...",
-        "es-ES": "[Abuela]\n^0000FFAllysia^000000, ya es hora de dormir.\n¿Mmm? ¿Tienes hambre?\nEntonces, vamos a comer…\nDuerme, *sssh*, duerme bebé…"
+        "es-ES": "[Abuela]\n^0000FFAllysia^000000, ya es hora de dormir.\n¿Mmm? ¿Tienes hambre?\nEntonces, vamos a comer...\nDuerme, *sssh*, duerme bebé..."
     },
     "JqtCAw": {
         "en-US": "Woman",
@@ -4197,12 +4197,12 @@
     "J6tCAw": {
         "en-US": "[Woman]\nAgh, my legs...\nMy body's getting rusty as I get old...",
         "pt-BR": "[Mulher]\nAgh, minhas pernas...\nMeu corpo está ficando enferrujado à medida que envelheço...",
-        "es-ES": "[Mujer]\nAgh, mis piernas…\nCon los años, mi cuerpo se va oxidando…"
+        "es-ES": "[Mujer]\nAgh, mis piernas...\nCon los años, mi cuerpo se va oxidando..."
     },
     "KKtCAw": {
         "en-US": "[Woman]\nOh, the weather's terrible these days...",
         "pt-BR": "[Mulher]\nOh, o tempo está terrível nestes dias...",
-        "es-ES": "[Mujer]\nOh, el clima está fatal estos días…"
+        "es-ES": "[Mujer]\nOh, el clima está fatal estos días..."
     },
     "KatCAw": {
         "en-US": "Do you know anything about that old lady?",
@@ -4212,22 +4212,22 @@
     "KqtCAw": {
         "en-US": "[Woman]\nWell, I'm getting old... *Groans*",
         "pt-BR": "[Mulher]\nBem, estou ficando velha... *Resmunga*",
-        "es-ES": "[Mujer]\nBueno, me estoy haciendo vieja… *Gruñido*"
+        "es-ES": "[Mujer]\nBueno, me estoy haciendo vieja... *Gruñido*"
     },
     "K6tCAw": {
         "en-US": "[Woman]\nHuh? Oh, that lady?\nI know here well.\nShe's the mother of my best friend.\nHer name was ^0000FFAllysia^000000... She died\nyoung... *Sigh*\nShe was so pretty and kind-hearted...",
         "pt-BR": "[Mulher]\nO quê? Oh, essa senhora?\nEu a conheço bem.\nEla é a mãe da minha melhor amiga.\nSeu nome era ^0000FFAllysia^000000... Ela morreu\njovem... *Sigh*\nEla era tão bonita e bondosa...",
-        "es-ES": "[Mujer]\n¿Eh? ¿Esa dama?\nLa conozco bien.\nEs la madre de mi mejor amiga.\nSe llamaba ^0000FFAllysia^000000… Murió \njoven… *Suspira*\nEra tan bonita y bondadosa…"
+        "es-ES": "[Mujer]\n¿Eh? ¿Esa dama?\nLa conozco bien.\nEs la madre de mi mejor amiga.\nSe llamaba ^0000FFAllysia^000000... Murió \njoven... *Suspira*\nEra tan bonita y bondadosa..."
     },
     "LKtCAw": {
         "en-US": "[Woman]\nThat lady couldn't overcome\nthe shock, so she's like that now.\n*Sigh*...",
         "pt-BR": "[Mulher]\nAquela senhora não conseguiu superar\no choque, então ela está assim agora.\n*Sigh*...",
-        "es-ES": "[Mujer]\nEsa dama no pudo superarlo,\npor eso está así.\n*Suspira*…"
+        "es-ES": "[Mujer]\nEsa dama no pudo superarlo,\npor eso está así.\n*Suspira*..."
     },
     "LatCAw": {
         "en-US": "About ^0000FFAllysia^000000...",
         "pt-BR": "Sobre ^0000FFAllysia^000000...",
-        "es-ES": "Sobre ^0000FFAllysia^000000…"
+        "es-ES": "Sobre ^0000FFAllysia^000000..."
     },
     "LqtCAw": {
         "en-US": "[Woman]\n^0000FFAllysia^000000 was so pretty.\nShe could've made other women fall for her\nif she wanted to.",
@@ -4237,12 +4237,12 @@
     "L6tCAw": {
         "en-US": "[Woman]\nNaturally, many men around were\naiming for her.\nEspecially James, the son from\nHouse Rosimier.\nI heard he asked her\nto marry him...",
         "pt-BR": "[Mulher]\nNaturalmente, muitos homens ao redor\nestavam querendo conquistá-la.\nEspecialmente o James, o filho da\nCasa Rosimier.\nOuvi dizer que ele a pediu\npara se casar com ela...",
-        "es-ES": "[Mujer]\nY claro, muchos hombres a su alrededor\nestaban detrás de ella.\nEspecialmente James, el hijo de\nla Casa Rosimier.\nOí que le pidió \nmatrimonio…"
+        "es-ES": "[Mujer]\nY claro, muchos hombres a su alrededor\nestaban detrás de ella.\nEspecialmente James, el hijo de\nla Casa Rosimier.\nOí que le pidió \nmatrimonio..."
     },
     "MKtCAw": {
         "en-US": "[Woman]\nBut ^0000FFAllysia^000000 died a little later,\nso that all came to nothing.\nWhat a shame that was...",
         "pt-BR": "[Mulher]\nMas ^0000FFAllysia^000000 morreu um pouco de´pois,\ne tudo isso não deu em nada.\nQue pena que isso foi...",
-        "es-ES": "[Mujer]\nPero ^0000FFAllysia^000000 murió poco después,\nasí que todo eso quedó en la nada.\nQué pena…"
+        "es-ES": "[Mujer]\nPero ^0000FFAllysia^000000 murió poco después,\nasí que todo eso quedó en la nada.\nQué pena..."
     },
     "MatCAw": {
         "en-US": "House Rosimier?",
@@ -4252,12 +4252,12 @@
     "MqtCAw": {
         "en-US": "[Woman]\nAh, House Rosimier was a distinguished\nand highly respected household of Juno.\nBut the whole family went downhill.\nBecause... Erm, what was it... ah, yes.\nThe eldest son failed in his business\nafter ^0000FFAllysia^000000's death.",
         "pt-BR": "[Mulher]\nAh, a Casa Rosimier era uma família ilustre\ne altamente respeitada de Juno.\nMas toda a família foi por água abaixo.\nPorque... É, o que foi mesmo... ah, sim.\nO filho mais velho fracassou em seus negócios\napós a morte de ^0000FFAllysia^000000.",
-        "es-ES": "[Mujer]\nAh, la Casa Rosimier era de una familia\nmuy distinguida y respetada de Juno.\nPero cayó en la ruina.\nPorque… Eh, ¿por qué fue…? Ah, sí.\nEl hijo mayor no logró sacar adelante el negocio\ntras la muerte de ^0000FFAllysia^000000."
+        "es-ES": "[Mujer]\nAh, la Casa Rosimier era de una familia\nmuy distinguida y respetada de Juno.\nPero cayó en la ruina.\nPorque... Eh, ¿por qué fue...? Ah, sí.\nEl hijo mayor no logró sacar adelante el negocio\ntras la muerte de ^0000FFAllysia^000000."
     },
     "M6tCAw": {
         "en-US": "[Woman]\nAnyway, the city is managing the mansion\nnow, and they gave the key\nto me...",
         "pt-BR": "[Mulher]\nDe qualquer forma, a cidade está administrando a mansão\nagora, e eles deram a chave\npara mim...",
-        "es-ES": "[Mujer]\nEn fin, ahora el ayuntamiento está encargado de la mansión\ny me dieron la llave\na mí…"
+        "es-ES": "[Mujer]\nEn fin, ahora el ayuntamiento está encargado de la mansión\ny me dieron la llave\na mí..."
     },
     "NKtCAw": {
         "en-US": "Can I go into the mansion?",
@@ -4267,7 +4267,7 @@
     "NatCAw": {
         "en-US": "[Woman]\nWell... I'm not supposed to do this...\nBut you seem like you know ^0000FFAllysia^000000,\nso I'll trust you with the key.\nYou gotta give the key back to me before\nsomeone from the city comes.",
         "pt-BR": "[Mulher]\nBem... Eu não deveria fazer isso...\nMas parece que você conhece a ^0000FFAllysia^000000,\nentão, vou confiar a chave a você.\nVocê precisa me devolver a chave antes\nque alguém da cidade venha.",
-        "es-ES": "[Mujer]\nBueno… Se supone que no debería hacer esto…\nPero parece que conoces a ^0000FFAllysia^000000,\nasí que te confiaré la llave.\nTienes que devolverme la llave antes\nde que llegue alguien del ayuntamiento."
+        "es-ES": "[Mujer]\nBueno... Se supone que no debería hacer esto...\nPero parece que conoces a ^0000FFAllysia^000000,\nasí que te confiaré la llave.\nTienes que devolverme la llave antes\nde que llegue alguien del ayuntamiento."
     },
     "NqtCAw": {
         "en-US": "[Woman]\nI heard someone from the city would come soon,\nso please hurry up.",
@@ -4282,12 +4282,12 @@
     "OKtCAw": {
         "en-US": "Why did ^0000FFAllysia^000000...?",
         "pt-BR": "Por que ^0000FFAllysia^000000...?",
-        "es-ES": "¿Por qué ^0000FFAllysia^000000…?"
+        "es-ES": "¿Por qué ^0000FFAllysia^000000...?"
     },
     "OatCAw": {
         "en-US": "[Woman]\nAh... I told you before that James,\nthe eldest son of House Rosimier, had promised\nto marry ^0000FFAllysia^000000, right?",
         "pt-BR": "[Mulher]\nAh... Eu lhe disse antes que James,\no filho mais velho da Casa Rosimier, havia prometido\ncasar com ^0000FFAllysia^000000, certo?",
-        "es-ES": "[Mujer]\nAh… Ya te conté que James,\nel hijo mayor de la Casa Rosimier, le prometió \na ^0000FFAllysia^000000 que se iba a casar con ella, ¿verdad?"
+        "es-ES": "[Mujer]\nAh... Ya te conté que James,\nel hijo mayor de la Casa Rosimier, le prometió \na ^0000FFAllysia^000000 que se iba a casar con ella, ¿verdad?"
     },
     "OqtCAw": {
         "en-US": "[Woman]\nBut James had a fiancee chosen\nby his parents. Time went by,\nand he ended up marrying\nthat fiancee.",
@@ -4297,7 +4297,7 @@
     "O6tCAw": {
         "en-US": "[Woman]\nSo ^0000FFAllysia^000000 got heartbroken\nand took her own life...",
         "pt-BR": "[Mulher]\nEntão ^0000FFAllysia^000000 ficou com o coração partido\ne tirou sua própria vida...",
-        "es-ES": "[Mujer]\nAsí que a ^0000FFAllysia^000000 se le rompió el corazón\ny se quitó la vida…"
+        "es-ES": "[Mujer]\nAsí que a ^0000FFAllysia^000000 se le rompió el corazón\ny se quitó la vida..."
     },
     "PKtCAw": {
         "en-US": "More details, please.",
@@ -4312,7 +4312,7 @@
     "PqtCAw": {
         "en-US": "[Woman]\nMaybe it's going to rain soon...\nMy whole body aches...",
         "pt-BR": "[Mulher]\nTalvez chova em breve...\nMeu corpo inteiro está doendo...",
-        "es-ES": "[Mujer]\nQuizá llueva pronto…\nMe duele todo el cuerpo…"
+        "es-ES": "[Mujer]\nQuizá llueva pronto...\nMe duele todo el cuerpo..."
     },
     "P6tCAw": {
         "en-US": "Table",
@@ -4472,7 +4472,7 @@
     "XqtCAw": {
         "en-US": "Dust rose as I investigated the bed.\n......",
         "pt-BR": "Poeira subiu enquanto eu investigava a cama.\n......",
-        "es-ES": "Investigar la cama hizo que se levantara polvo.\n…"
+        "es-ES": "Investigar la cama hizo que se levantara polvo.\n..."
     },
     "X6tCAw": {
         "en-US": "I got nothing but itchy throat.",
@@ -4507,7 +4507,7 @@
     "ZatCAw": {
         "en-US": "......Dusty books are here.",
         "pt-BR": "......Os livros empoeirados estão aqui.",
-        "es-ES": "…Solo hay libros polvorientos."
+        "es-ES": "...Solo hay libros polvorientos."
     },
     "ZqtCAw": {
         "en-US": "Old Fisherman",
@@ -4517,7 +4517,7 @@
     "Z6tCAw": {
         "en-US": "[Fisherman]\nI'm worried because I'm not catching much fish lately.\nSince the factory was built,\nthe fish here got weird.\nI can't even catch much... Bah...",
         "pt-BR": "[Pescador]\nEstou preocupado porque não estou pegando muitos peixes ultimamente.\nDesde que a fábrica foi construída,\nos peixes daqui ficaram estranhos.\nNão consigo nem pescar muito... Bah...",
-        "es-ES": "[Pescador]\nEstoy preocupado porque últimamente no estoy pescando mucho.\nDesde que construyeron la fábrica\nlos peces aquí se comportan de forma extraña.\nYa no consigo tanto pescado como antes… Bah."
+        "es-ES": "[Pescador]\nEstoy preocupado porque últimamente no estoy pescando mucho.\nDesde que construyeron la fábrica\nlos peces aquí se comportan de forma extraña.\nYa no consigo tanto pescado como antes... Bah."
     },
     "aKtCAw": {
         "en-US": "[Fisherman]\nHuh?\nWhat?\nGot something to say to me?\nIf you want to ask a favor, you gotta\ngive me a reward.",
@@ -4527,22 +4527,22 @@
     "aatCAw": {
         "en-US": "[Fisherman]\n*Sigh* Kids these days... Tsk tsk...\nBy the way, it's been long since the last time\nI tasted fresh fish slice...",
         "pt-BR": "[Pescador]\n*Suspiro* As crianças de hoje em dia... Tsc tsc...\nFalando nisso, já faz muito tempo desde a última vez\nque provei um peixe fresco...",
-        "es-ES": "[Pescador]\n*Suspira* Los jóvenes de hoy en día… *Tsc, tsc*…\nPor cierto, no recuerdo la última vez que comí \nuna buena rodaja de Pescado fresco…"
+        "es-ES": "[Pescador]\n*Suspira* Los jóvenes de hoy en día... *Tsc, tsc*...\nPor cierto, no recuerdo la última vez que comí \nuna buena rodaja de Pescado fresco..."
     },
     "aqtCAw": {
         "en-US": "[Fisherman]\nHuh?\nAre you letting me have this?\nOh, you don't have to...\nHuh huh... Thank you.\nAsk me if you have questions.",
         "pt-BR": "[Pescador]\nHã?\nVocê está me dando isso?\nAh, não precisa...\nHuh huh... Obrigado.\nPergunte-me se tiver dúvidas.",
-        "es-ES": "[Pescador]\n¿Eh?\n¿Me lo dejarías?\nOh, no hace falta…\nAjá… Gracias.\nPuedes preguntarme, si tienes dudas."
+        "es-ES": "[Pescador]\n¿Eh?\n¿Me lo dejarías?\nOh, no hace falta...\nAjá... Gracias.\nPuedes preguntarme, si tienes dudas."
     },
     "a6tCAw": {
         "en-US": "Can you recall what happened here 30 years ago...",
         "pt-BR": "Você consegue se lembrar do que aconteceu aqui há 30 anos atrás...",
-        "es-ES": "¿Recuerdas lo que pasó aquí hace 30años…?"
+        "es-ES": "¿Recuerdas lo que pasó aquí hace 30años...?"
     },
     "bKtCAw": {
         "en-US": "[Fisherman]\nWhat? 30 years ago? Let me see...\nAh... Yeah, I remember.\nThat was... exactly\n30 years ago, on August 20th.\nIt was my wifey's birthday.\nSo I remember that day well.",
         "pt-BR": "[Pescador]\nO quê? 30 anos atrás? Deixe-me ver...\nAh... Sim, eu me lembro.\nIsso foi... exatamente\n30 anos atrás, em 20 de agosto.\nEra o aniversário da minha esposa.\nEntão, eu me lembro bem desse dia.",
-        "es-ES": "[Pescador]\n¿Qué? ¿Hace 30años? Déjame pensar…\nAh… Sí, lo recuerdo.\nFue… exactamente\nhace 30años, el 20de agosto.\nEra el cumpleaños de mi esposa.\nAsí que recuerdo bien ese día."
+        "es-ES": "[Pescador]\n¿Qué? ¿Hace 30años? Déjame pensar...\nAh... Sí, lo recuerdo.\nFue... exactamente\nhace 30años, el 20de agosto.\nEra el cumpleaños de mi esposa.\nAsí que recuerdo bien ese día."
     },
     "batCAw": {
         "en-US": "[Fisherman]\nSo I came out early in the morning\nto make some money for my wifey's present.\nThen, I felt something heavy not long after\nI cast the net, so I thought, 'Here's a big one!'\nand pulled it up, but it was no fish.\nIt was a woman's corpse.",
@@ -4552,7 +4552,7 @@
     "bqtCAw": {
         "en-US": "[Fisherman]\nI got shocked and reported it to the Juno guards.\nTurns out, she loved her\nyoung master but got betrayed,\nand so she killed herself.\nOh, that bastard.",
         "pt-BR": "[Pescador]\nFiquei chocado e relatei o fato aos guardas de Juno.\nAcontece que ela amava seu\njovem mestre, mas foi traída,\ne por isso se matou.\nOh, aquele desgraçado.",
-        "es-ES": "[Pescador]\nMe asusté y lo denuncié a los guardias de Juno.\nResulta que esta mujer amaba\na su joven maestro, pero este la traicionó,\ny por eso se suicidó.\nEse desgraciado…"
+        "es-ES": "[Pescador]\nMe asusté y lo denuncié a los guardias de Juno.\nResulta que esta mujer amaba\na su joven maestro, pero este la traicionó,\ny por eso se suicidó.\nEse desgraciado..."
     },
     "b6tCAw": {
         "en-US": "[Fisherman]\nSo the guard boys were carrying\nthe woman's body, and she opened\nher clenched hand at one moment\nand dropped something shiny.",
@@ -4597,7 +4597,7 @@
     "d6tCAw": {
         "en-US": "[Fisherman]\nSo, well... Ahem. It wasn't because of\nthe very good price, mind you.\nHe looked so desperate, you see...\nSo I sold the ring\nto that guy.",
         "pt-BR": "[Pescador]\nEntão, bem... Ahem. Não foi por causa do\npreço muito bom, veja bem.\nEle parecia tão desesperado, sabe...\nEntão eu vendi o anel\npara aquele cara.",
-        "es-ES": "[Pescador]\nAsí que, bueno… Ejem. No fue por\nel dinero que ofreció, eso sí.\nSino porque se veía desesperado…\nAsí que le vendí el anillo\na ese sujeto."
+        "es-ES": "[Pescador]\nAsí que, bueno... Ejem. No fue por\nel dinero que ofreció, eso sí.\nSino porque se veía desesperado...\nAsí que le vendí el anillo\na ese sujeto."
     },
     "eKtCAw": {
         "en-US": "[Fisherman]\nHe didn't look much,\nbut he paid quite the money.\nWell, turns out, he was\na make-ends-meet guy who fixed\nbroken machines in the village.\nHe disappeared since that day, though.",
@@ -4617,27 +4617,27 @@
     "e6tCAw": {
         "en-US": "[Fisherman]\nHuh? Name?\nUh... What was that...\nWas it... Harn? Hale?\nSomething like that, maybe...",
         "pt-BR": "[Pescador]\nHuh? Nome?\nUh... Qual era mesmo...\nEra... Harn? Hale?\nAlgo assim, talvez...",
-        "es-ES": "[Pescador]\n¿Eh? ¿Cómo se llamaba?\nUh… ¿Cómo era…?\n¿Era Harn? ¿Hale?\nAlgo así, creo…"
+        "es-ES": "[Pescador]\n¿Eh? ¿Cómo se llamaba?\nUh... ¿Cómo era...?\n¿Era Harn? ¿Hale?\nAlgo así, creo..."
     },
     "fKtCAw": {
         "en-US": "[Fisherman]\nI didn't mind it too much.\nThat was long time ago, you see.\nAh, but I remember where he lived.\nI think it was... ^FF0000a shack near\nthe northern forest guards camp^000000.\nProbably...",
         "pt-BR": "[Pescador]\nNão me importei muito com isso.\nIsso foi há muito tempo, sabe.\nAh, mas eu me lembro onde ele morava.\nAcho que era... ^FF0000uma cabana perto\nacampamento dos guardas florestais do norte^000000.\nProvavelmente...",
-        "es-ES": "[Pescador]\nNo le di mucha importancia.\nY fue hace mucho tiempo.\nAh, pero recuerdo dónde vivía.\nCreo que era… ^FF0000una cabaña cerca del\ncampamento de los guardias del Bosque del Norte^000000.\nCreo…"
+        "es-ES": "[Pescador]\nNo le di mucha importancia.\nY fue hace mucho tiempo.\nAh, pero recuerdo dónde vivía.\nCreo que era... ^FF0000una cabaña cerca del\ncampamento de los guardias del Bosque del Norte^000000.\nCreo..."
     },
     "fatCAw": {
         "en-US": "[Fisherman]\nYou don't remember where to go?\nTsk tsk... Your memory's not very\ngood for a youngster.\nI'll tell you again, so listen well and remember this time.",
         "pt-BR": "[Pescador]\nVocê não se lembra para onde ir?\nTsc tsc... Sua memória não é muito\nboa para um jovem.\nVou lhe dizer novamente, então ouça bem e não se esqueça.",
-        "es-ES": "[Pescador]\n¿No recuerdas adónde ir?\n*Tsc, tsc*… Eres joven, pero tu memoria\nno es muy buena.\nTe lo repetiré, así que escucha con atención y no lo olvides."
+        "es-ES": "[Pescador]\n¿No recuerdas adónde ir?\n*Tsc, tsc*... Eres joven, pero tu memoria\nno es muy buena.\nTe lo repetiré, así que escucha con atención y no lo olvides."
     },
     "fqtCAw": {
         "en-US": "[Fisherman]\nAs I told you just a moment ago, it was\n^FF0000a shack near the northern forest guards camp^000000.\nProbably... Yeah.\nGot anything else to ask?\nI can't recall anything else\nabout that matter.",
         "pt-BR": "[Pescador]\nComo eu lhe disse há pouco, era\n^FF0000uma cabana perto acampamento dos guardas florestais do norte^000000.\nProvavelmente... Sim.\nAlguma outra pergunta?\nNão me lembro de mais nada\nsobre esse assunto.",
-        "es-ES": "[Pescador]\nComo te dije hace un momento, era\n^FF0000una cabaña cerca del campamento de los guardias del Bosque del Norte^000000.\nCreo… Sí.\n¿Alguna otra pregunta?\nNo recuerdo nada más\nsobre ese asunto."
+        "es-ES": "[Pescador]\nComo te dije hace un momento, era\n^FF0000una cabaña cerca del campamento de los guardias del Bosque del Norte^000000.\nCreo... Sí.\n¿Alguna otra pregunta?\nNo recuerdo nada más\nsobre ese asunto."
     },
     "f6tCAw": {
         "en-US": "[Fisherman]\nDamn that factory...\nLook how dirty they made this river.\nHow can we catch fish now? Bah...",
         "pt-BR": "[Pescador]\nMaldita fábrica...\nVeja como eles sujaram este rio.\nComo podemos pegar peixes agora? Bah...",
-        "es-ES": "[Pescador]\nMaldita sea esa fábrica…\nMira cómo tienen el río.\n¿Cómo vamos a pescar ahora? Bah."
+        "es-ES": "[Pescador]\nMaldita sea esa fábrica...\nMira cómo tienen el río.\n¿Cómo vamos a pescar ahora? Bah."
     },
     "gKtCAw": {
         "en-US": "Wooden Plank",
@@ -4657,7 +4657,7 @@
     "g6tCAw": {
         "en-US": "I moved to look into the plank\nand found a broken frame.\nunderneath it.\nThe frame contains a portrait of a young man.\nHe looks kind of familiar.\n...He reminds me of ^FF0000Kiel Hyre^000000\nfor some reason.",
         "pt-BR": "Eu me movi para olhar dentro da tábua\ne encontrei uma moldura quebrada.\nembaixo dela.\nA moldura contém o retrato de um jovem.\nEle parece um pouco familiar.\n...Ele me faz lembrar de ^FF0000Kiel Hyre^000000\npor algum motivo.",
-        "es-ES": "Inspeccioné la tabla de cerca\ny encontré un marco roto\ndebajo.\nEs el retrato de un joven.\nMe resulta familiar.\n…Me recuerda a ^FF0000Kiel Hyre^000000.\ncomenzó su propio negocio."
+        "es-ES": "Inspeccioné la tabla de cerca\ny encontré un marco roto\ndebajo.\nEs el retrato de un joven.\nMe resulta familiar.\n...Me recuerda a ^FF0000Kiel Hyre^000000.\ncomenzó su propio negocio."
     },
     "hKtCAw": {
         "en-US": "I've acquired some information, so let's go back to Mitchelle.",
@@ -4677,12 +4677,12 @@
     "h6tCAw": {
         "en-US": "*Bzzz... Bz... Bzz...*\nThe receiver gives off some noises,\nthen someone's voice comes from it.",
         "pt-BR": "*Bzzz... Bz... Bzz...*\nO receptor emite alguns ruídos,\ne, em seguida, a voz de alguém sai dele.",
-        "es-ES": "*Bzzzz*… *Bz…* *Bzz…*\nEl receptor comienza a hacer ruidos,\ny luego se oye la voz de alguien."
+        "es-ES": "*Bzzzz*... *Bz...* *Bzz...*\nEl receptor comienza a hacer ruidos,\ny luego se oye la voz de alguien."
     },
     "iKtCAw": {
         "en-US": "[????]\nYou're a new face.\nAn assassin sent by my father? Hah hah.\nWell... If you make it here alive,\nI might consider giving you my scroll\nas a prize. Try your best now.\nAssassin.",
         "pt-BR": "[????]\nVocê é uma cara nova.\nUm Mercenário enviado por meu pai? Hah hah.\nBem... Se você chegar vivo até aqui,\ntalvez eu considere lhe dar meu pergaminho\ncomo prêmio. Dê o seu melhor agora.\nMercenário.",
-        "es-ES": "[¿¿¿???]\nEs la primera vez que te veo.\n¿Un asesino enviado por mi padre? Ja, ja.\nBueno… Si logras llegar con vida,\nconsideraré darte mi pergamino\ncomo premio. ¡Da lo mejor de ti!\nAsesino."
+        "es-ES": "[¿¿¿???]\nEs la primera vez que te veo.\n¿Un asesino enviado por mi padre? Ja, ja.\nBueno... Si logras llegar con vida,\nconsideraré darte mi pergamino\ncomo premio. ¡Da lo mejor de ti!\nAsesino."
     },
     "iatCAw": {
         "en-US": "Alicel",
@@ -4697,7 +4697,7 @@
     "i6tCAw": {
         "en-US": "*Bzz... Bzzz... Bz...*",
         "pt-BR": "*Bzz... Bzzz... Bz...*",
-        "es-ES": "*Bzz…* *Bzzz…* *Bz…*"
+        "es-ES": "*Bzz...* *Bzzz...* *Bz...*"
     },
     "jKtCAw": {
         "en-US": "Vase",
@@ -4732,7 +4732,7 @@
     "kqtCAw": {
         "en-US": "It doesn't break.\n...Is this Rekenber's specially-made product?",
         "pt-BR": "Não quebra.\n...Este é um produto fabricado especialmente pela Rekenber?",
-        "es-ES": "No se rompe.\n…¿Es un producto fabricado por Rekenber?"
+        "es-ES": "No se rompe.\n...¿Es un producto fabricado por Rekenber?"
     },
     "k6tCAw": {
         "en-US": "A phrase written on the bottom\nof the vase.\n^FF0000The rabbit often observes the door.'\n'The night eats the pickled orange.^000000",
@@ -4927,12 +4927,12 @@
     "uatCAw": {
         "en-US": "............",
         "pt-BR": "............",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "uqtCAw": {
         "en-US": "[Kiehl]\nYou're finally here. Welcome to\nmy humble room, assassin.\nI'd like to give you the scroll\nas I promised, but...",
         "pt-BR": "[Kiehl]\nVocê finalmente chegou. Bem-vindo à\nminha humilde sala, mercenário.\nGostaria de lhe dar o pergaminho\ncomo prometi, mas...",
-        "es-ES": "[Kiehl]\nAl fin llegas. Te doy la bienvenida a\nmi humildes aposentos, asesino.\nTe daría el pergamino\ncomo prometí, pero…"
+        "es-ES": "[Kiehl]\nAl fin llegas. Te doy la bienvenida a\nmi humildes aposentos, asesino.\nTe daría el pergamino\ncomo prometí, pero..."
     },
     "u6tCAw": {
         "en-US": "[Kiehl]\nI'll become nothing but a husk\nif I pull it out. If you want it,\ncome and get it.",
@@ -4957,7 +4957,7 @@
     "v6tCAw": {
         "en-US": "[Kiehl]\nKins... But you're the same about that.\nHumans may be created by some god,\nand robots are created by humans.",
         "pt-BR": "[Kiehl]\nFamília... Mas você é o mesmo em relação a isso.\nOs seres humanos podem ter sido criados por algum Deus,\ne os robôs foram criados por humanos.",
-        "es-ES": "[Kiehl]\nLos míos.… En eso somos iguales.\nQuizás los humanos fueron creados por algún dios,\ny los robots son creados por los humanos."
+        "es-ES": "[Kiehl]\nLos míos.... En eso somos iguales.\nQuizás los humanos fueron creados por algún dios,\ny los robots son creados por los humanos."
     },
     "wKtCAw": {
         "en-US": "[Kiehl]\nYou lot kill and experiment on other\nhumans for your benefit, and I provide\nmy kin created by me to the people\nin need. What is the difference\nbetween us?",
@@ -5012,7 +5012,7 @@
     "yqtCAw": {
         "en-US": "[Kiehl]\nIt was harsh, even for robots\nlike us. Muscular power test, learning ability test,\nlearning emotional expressions for various situations...",
         "pt-BR": "[Kiehl]\nFoi difícil, mesmo para robôs\ncomo nós. Teste de força muscular, teste de capacidade de aprendizado,\naprendizado de expressões emocionais para várias situações...",
-        "es-ES": "[Kiehl]\nFue duro, incluso para robots\ncomo nosotros. Pruebas de fuerza muscular, pruebas de capacidad de aprendizaje,\naprendizaje de expresiones emocionales para distintas situaciones…"
+        "es-ES": "[Kiehl]\nFue duro, incluso para robots\ncomo nosotros. Pruebas de fuerza muscular, pruebas de capacidad de aprendizaje,\naprendizaje de expresiones emocionales para distintas situaciones..."
     },
     "y6tCAw": {
         "en-US": "[Kiehl]\nPerhaps because of innate flaws\nor failed education, the four of us\ndied during the learning\nand testing process.",
@@ -5037,7 +5037,7 @@
     "z6tCAw": {
         "en-US": "[Kiehl]\nHuff.. Sorry, sorry. I don't even\nwant to talk about it anymore.\nI'll just let you go, so leave now.",
         "pt-BR": "[Kiehl]\nHuff... Desculpe, desculpe. Eu não mais\nfalar mais sobre isso.\nVou deixá-lo ir, então saia agora.",
-        "es-ES": "[Kiehl]\nUf… Perdón, perdón. Ni siquiera\nquiero seguir hablando de ello.\nTe dejaré ir, así que largo."
+        "es-ES": "[Kiehl]\nUf... Perdón, perdón. Ni siquiera\nquiero seguir hablando de ello.\nTe dejaré ir, así que largo."
     },
     "0KtCAw": {
         "en-US": "[Mitchelle]\nNot going to happen!\n^0000FFKiehl Hyre^000000! You're under arrest for illegal\nweapon manufacturing and smuggling.",
@@ -5057,7 +5057,7 @@
     "06tCAw": {
         "en-US": "[Mitchelle]\nWhat the?!!\nDamn you...!!",
         "pt-BR": "[Mitchelle]\nMas o que?!!!\nMaldito seja você...!!!",
-        "es-ES": "[Mitchelle]\n¡¿Qué?!\n¡Maldito seas…!"
+        "es-ES": "[Mitchelle]\n¡¿Qué?!\n¡Maldito seas...!"
     },
     "1KtCAw": {
         "en-US": "[Kiehl]\nNow then, assassin.\nShow me what you've got.",
@@ -5067,12 +5067,12 @@
     "1atCAw": {
         "en-US": "[Kiehl]\nUgh...\nDamn... You're far better than I expected... You sure picked\na formidable assassin, Father...",
         "pt-BR": "[Kiehl]\nUgh...\nDroga... Você é muito melhor do que eu esperava... Com certeza você escolheu\num Mercenário formidável, pai...",
-        "es-ES": "[Kiehl]\nUf…\nMaldita sea… Eres mucho mejor de lo que esperaba… Sí que elegiste\nun Asesino formidable, padre…"
+        "es-ES": "[Kiehl]\nUf...\nMaldita sea... Eres mucho mejor de lo que esperaba... Sí que elegiste\nun Asesino formidable, padre..."
     },
     "1qtCAw": {
         "en-US": "[Kiehl]\n*Chuckle*...I can't simply let you\ndrag me away like this.\nLet's all go to hell with me.\nHa! No. I don't have soul, so you'll\nbe the only ones who'll go there... hahaha!",
         "pt-BR": "[Kiehl]\n*Risos* ...Não posso simplesmente deixar você\nme prender assim.\nVamos todos nos juntar no inferno.\nHa! Não. Eu não tenho alma, então vocês\nserão os únicos lá... hahaha!",
-        "es-ES": "[Kiehl]\n*Risita*… No puedo dejar que me lleven\nasí sin más.\nVendrán todos conmigo al infierno.\n¡Ja! No. No tengo alma, así que ustedes\nserán los únicos que irán allí… ¡Ja, ja, ja!"
+        "es-ES": "[Kiehl]\n*Risita*... No puedo dejar que me lleven\nasí sin más.\nVendrán todos conmigo al infierno.\n¡Ja! No. No tengo alma, así que ustedes\nserán los únicos que irán allí... ¡Ja, ja, ja!"
     },
     "16tCAw": {
         "en-US": "*BUZZZZZ---* *Grr--* *Brrrr---* *Clang!*",
@@ -5087,7 +5087,7 @@
     "2atCAw": {
         "en-US": "[Mitchelle]\n!!!!\nThis sound... No! The door\ngot locked!! We can't get out\nof here!",
         "pt-BR": "[Mitchelle]\n!!!!\nEsse som... Não! A porta\nfoi trancada!!! Não podemos sair\ndaqui!",
-        "es-ES": "[Mitchelle]\n¡¡¡¡!!!!\nEse sonido… ¡No! ¡¡La puerta\nse cerró!! ¡No podemos salir\nde aquí!"
+        "es-ES": "[Mitchelle]\n¡¡¡¡!!!!\nEse sonido... ¡No! ¡¡La puerta\nse cerró!! ¡No podemos salir\nde aquí!"
     },
     "2qtCAw": {
         "en-US": "[Kiehl]",
@@ -5112,7 +5112,7 @@
     "3qtCAw": {
         "en-US": "Oops, you got me.\nBut it's okay. I'm not the one\nwho has the self-destruct... Heh heh.",
         "pt-BR": "Ops, você me pegou.\nSem problemas. Não sou eu pode\nse autodestruir... Heh heh.",
-        "es-ES": "Uy, me atrapaste.\npero no te preocupes. No soy yo quien tiene\nel mecanismo de autodestrucción… Je, je."
+        "es-ES": "Uy, me atrapaste.\npero no te preocupes. No soy yo quien tiene\nel mecanismo de autodestrucción... Je, je."
     },
     "36tCAw": {
         "en-US": "[Mitchelle]\nWhat?!\nIs there someone behind you?! Is it Rekenber?!!",
@@ -5122,7 +5122,7 @@
     "4KtCAw": {
         "en-US": "[????]\nMy, my... Rekenber? I'm feeling\na little dejected. I deliberately sent out\nmy main body to greet you.",
         "pt-BR": "[????]\nOra, ora... Rekenber? Estou me sentindo\num pouco triste. Eu propositalmente enviei\nmeu corpo principal para cumprimentá-lo.",
-        "es-ES": "[¿¿¿???]\nAy… ¿Rekenber? Me siento\nun poco abatido. Deliberadamente envié \nmi cuerpo principal para hablar contigo."
+        "es-ES": "[¿¿¿???]\nAy... ¿Rekenber? Me siento\nun poco abatido. Deliberadamente envié \nmi cuerpo principal para hablar contigo."
     },
     "4atCAw": {
         "en-US": "[Mitchelle]\nWho are you? Show yourself!!",
@@ -5137,7 +5137,7 @@
     "46tCAw": {
         "en-US": "[Mitchelle]\nThis voice... No way!!!",
         "pt-BR": "[Mitchelle]\nEssa voz... Não é possível!!!",
-        "es-ES": "[Mitchelle]\nEsa voz… ¡De ninguna manera!"
+        "es-ES": "[Mitchelle]\nEsa voz... ¡De ninguna manera!"
     },
     "5KtCAw": {
         "en-US": "[Kiehl]\nI'm sorry for the gratuitous joke.\nLet me greet you properly. ^0000FFKiehl Hyre^000000,\nat your service.",
@@ -5147,7 +5147,7 @@
     "5atCAw": {
         "en-US": "[Mitchelle]\nHow... How can there be two ^0000FFKiehls^000000?!",
         "pt-BR": "[Mitchelle]\nComo... Como pode haver dois ^0000FFKiehls^000000?!",
-        "es-ES": "[Mitchelle]\n¿Cómo…? ¡¿Cómo puede haber dos ^0000FFKiehls^000000?!"
+        "es-ES": "[Mitchelle]\n¿Cómo...? ¡¿Cómo puede haber dos ^0000FFKiehls^000000?!"
     },
     "5qtCAw": {
         "en-US": "[Kiehl]\nLooks like you've forgotten\nthat we are robots,\n^0000FFMitchelle Layla^000000.",
@@ -5172,7 +5172,7 @@
     "6qtCAw": {
         "en-US": "[Mitchelle]\nVolkeus! Why did you...?\nYou got yourself heavily injured\nto save the president!",
         "pt-BR": "[Mitchelle]\nVolkeus! Por que você...?\nVocê se feriu gravemente\npara salvar o presidente!",
-        "es-ES": "[Mitchelle]\n¡Volkeus! ¿Por qué…?\n¡Te pusiste en grave peligro\npara salvar al presidente!"
+        "es-ES": "[Mitchelle]\n¡Volkeus! ¿Por qué...?\n¡Te pusiste en grave peligro\npara salvar al presidente!"
     },
     "66tCAw": {
         "en-US": "[Volkeus]\nSuch a sacrifice is trivial\nfor the sake infiltration, Ms. Layla.\nYou always told me to beware of those\nclosest to you. You weren't trusting me who had appeared\nout of nowhere, were you?",
@@ -5182,7 +5182,7 @@
     "7KtCAw": {
         "en-US": "[Mitchelle]\nNo... I can't believe they got me so easily\nlike this... I am sorry, Mr. President...",
         "pt-BR": "[Mitchelle]\nNão... Não acredito que eles me pegaram tão facilmente\nassim... Sinto muito, Sr. Presidente...",
-        "es-ES": "[Mitchelle]\nNo… No puedo creer que me atraparan tan\nfácilmente… Lo siento, señor Presidente…"
+        "es-ES": "[Mitchelle]\nNo... No puedo creer que me atraparan tan\nfácilmente... Lo siento, señor Presidente..."
     },
     "7atCAw": {
         "en-US": "My, my. Surprising a lady?\nThat's by no means gentlemanly,\nMr. Kaizer. Hah hah. I'd like to\ntalk more, but unfortunately, we don't\nhave much time left now.",
@@ -5207,7 +5207,7 @@
     "8atCAw": {
         "en-US": "[Volkeus-Kaizer]\n......",
         "pt-BR": "[Volkeus-Kaizer]\n......",
-        "es-ES": "[Volkeus-Kaizer]\n…"
+        "es-ES": "[Volkeus-Kaizer]\n..."
     },
     "8qtCAw": {
         "en-US": "[Mitchelle]\nGet off me! Let me go, Volkeus!!",
@@ -5217,7 +5217,7 @@
     "86tCAw": {
         "en-US": "[Kiehl]\nWell, since that's been taken care of...\nLet's have a talk with the ones\nwho are remaining, shall we?",
         "pt-BR": "[Kiehl]\nJá que isso foi resolvido...\nVamos falar com os\nque restaram?",
-        "es-ES": "[Kiehl]\nBueno, ya que eso está resuelto…\nHablemos con los\nque quedan, ¿te parece?"
+        "es-ES": "[Kiehl]\nBueno, ya que eso está resuelto...\nHablemos con los\nque quedan, ¿te parece?"
     },
     "9KtCAw": {
         "en-US": "[Kiehl]\nAh, but alas, we don't have\nmuch time left. Hah hah.\nSorry, assassin, but we\ndon't have time to talk.",
@@ -5242,12 +5242,12 @@
     "+KtCAw": {
         "en-US": "[Kiehl]\nIt must have been very dear to him...\nDidn't he even consider the possibility\nof me destroying it?",
         "pt-BR": "[Kiehl]\nDeve ter sido algo muito especial para ele...\nEle nem sequer considerou a possibilidade\nde eu destruí-lo?",
-        "es-ES": "[Kiehl]\nDebe haber sido algo muy valioso para él…\n¿No se le pasó por la cabeza\nque podría destruirlo?"
+        "es-ES": "[Kiehl]\nDebe haber sido algo muy valioso para él...\n¿No se le pasó por la cabeza\nque podría destruirlo?"
     },
     "+atCAw": {
         "en-US": "[Kiehl]\nThank you for your 23 years of hard work.\nYou can rest in peace now,\n^0000FFKiehl^000000...",
         "pt-BR": "[Kiehl]\nObrigado por seus 23 anos de trabalho dedicado.\nAgora você pode descansar em paz,\n^0000FFKiehl^000000...",
-        "es-ES": "[Kiehl]\nGracias por tus 23 años de duro trabajo.\nYa puedes descansar en paz,\n^0000FFKiehl^000000…"
+        "es-ES": "[Kiehl]\nGracias por tus 23 años de duro trabajo.\nYa puedes descansar en paz,\n^0000FFKiehl^000000..."
     },
     "+qtCAw": {
         "en-US": "[Kiehl]\nAs a sign that I have no intend to attack you,\nI will leave my main body here.\nTake the ^FF0000ring^000000 from it and deliver it\nto my father.",
@@ -5267,7 +5267,7 @@
     "/atCAw": {
         "en-US": "[Kiehl]\nTell him that, and he will understand.\n3 minutes left now. I'll open the way out\nfor you, so hurry up and go back.\nNow, if you'll excuse me.",
         "pt-BR": "[Kiehl]\nDiga isso a ele, e ele entenderá.\nFaltam 3 minutos agora. Vou abrir a saída\npara você, então se apresse e volte.\nAgora, se você me der licença.",
-        "es-ES": "[Kiehl]\nDíselo y lo entenderá.\nQuedan 3minutos. Te abriré la salida,\nasí que date prisa y vete.\nAhora, si me disculpas…"
+        "es-ES": "[Kiehl]\nDíselo y lo entenderá.\nQuedan 3minutos. Te abriré la salida,\nasí que date prisa y vete.\nAhora, si me disculpas..."
     },
     "/qtCAw": {
         "en-US": "I took out the ^FF0000ring^000000 from\n^0000FFKiehl^000000's immobile body.",

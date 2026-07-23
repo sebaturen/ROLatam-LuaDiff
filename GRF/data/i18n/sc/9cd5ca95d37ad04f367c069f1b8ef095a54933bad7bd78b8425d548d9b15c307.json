@@ -67,12 +67,12 @@
     "rdPTCA": {
         "en-US": "[{0}]\nOh! I am sorry! Uh... Why are you standing out here all alone?",
         "pt-BR": "[{0}]\nSinto muito pelo mal-entendido. O que está fazendo aqui?",
-        "es-ES": "[{0}]\n¡Ah! Lo siento. Uh… ¿Por qué estás aquí sola?"
+        "es-ES": "[{0}]\n¡Ah! Lo siento. Uh... ¿Por qué estás aquí sola?"
     },
     "rtPTCA": {
         "en-US": "Oh! I am sorry! Uh... Why are you standing out here all alone?",
         "pt-BR": "Sinto muito pelo mal-entendido. O que está fazendo aqui?",
-        "es-ES": "¡Ah! Lo siento. Uh… ¿Por qué estás aquí sola?"
+        "es-ES": "¡Ah! Lo siento. Uh... ¿Por qué estás aquí sola?"
     },
     "r9PTCA": {
         "en-US": "[Sara Irene]\nI am waiting for my father. He said that he will be here soon.",
@@ -357,7 +357,7 @@
     "59PTCA": {
         "en-US": "Sara Irene: Mom ! Dad! Look what I found!",
         "pt-BR": "Sarah Irine: Mamãe! Papai! Veja o que eu encontrei!",
-        "es-ES": "Sara Irene: ¡Mamá! Papá… ¡Mira lo que he encontrado!"
+        "es-ES": "Sara Irene: ¡Mamá! Papá... ¡Mira lo que he encontrado!"
     },
     "6NPTCA": {
         "en-US": "^FF0000The door opens to reveal a woman laying dead on the floor and the Doyen standing over the woman with a bloody sword.^000000",
@@ -372,7 +372,7 @@
     "6tPTCA": {
         "en-US": "[Sara Irene]\n...",
         "pt-BR": "[Sarah Irine]\n...",
-        "es-ES": "[Sara Irene]\n…"
+        "es-ES": "[Sara Irene]\n..."
     },
     "69PTCA": {
         "en-US": "Sara Irene: ...",
@@ -592,7 +592,7 @@
     "FtTTCA": {
         "en-US": "Sara Irene : Nooooo...",
         "pt-BR": "Sarah Irine : Nãooooo...",
-        "es-ES": "Sara Irene : Nooooooo…"
+        "es-ES": "Sara Irene : Nooooooo..."
     },
     "F9TTCA": {
         "en-US": "<SYSTEM> Sara ran away yet again! *sigh* You think she went in the 6 O'clock direction!",
@@ -642,7 +642,7 @@
     "INTTCA": {
         "en-US": "Doyen Irene: Sara...",
         "pt-BR": "Senhor Irine: Sarah...",
-        "es-ES": "Doyen Irene: Sarah…"
+        "es-ES": "Doyen Irene: Sarah..."
     },
     "IdTTCA": {
         "en-US": "[Sara Irene]\nNo!",
@@ -832,12 +832,12 @@
     "RtTTCA": {
         "en-US": "[Doyen Irene]\nStrange men... I bet they were some of the village elders. Ugh...",
         "pt-BR": "[Senhor Irine]\nDois homens estranhos... Devem ser os anciões da vila... Argh...",
-        "es-ES": "[Doyen Irene]\nHombres extraños... Apuesto a que eran algunos de los ancianos del pueblo. Uf…"
+        "es-ES": "[Doyen Irene]\nHombres extraños... Apuesto a que eran algunos de los ancianos del pueblo. Uf..."
     },
     "R9TTCA": {
         "en-US": "Doyen Irene: Strange men... I bet they were some of the village elders. Ugh...",
         "pt-BR": "Senhor Irine: Dois homens estranhos... Devem ser os anciões da vila... Argh...",
-        "es-ES": "Doyen Irene: Hombres extraños... Apuesto a que eran algunos de los ancianos del pueblo. Uf…"
+        "es-ES": "Doyen Irene: Hombres extraños... Apuesto a que eran algunos de los ancianos del pueblo. Uf..."
     },
     "SNTTCA": {
         "en-US": "[{0}]\nThere might be more assassins so we have to find sara as fast as we can.",

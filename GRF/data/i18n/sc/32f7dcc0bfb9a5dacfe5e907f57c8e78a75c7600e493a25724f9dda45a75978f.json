@@ -502,17 +502,17 @@
     "ZLNiAw": {
         "en-US": "^8C8C8C(In Progress) Good... Muscle! ^000000",
         "pt-BR": "^8C8C8C(Em Curso) Belos Músculos!^000000",
-        "es-ES": "^8C8C8C(en curso) ¡Buenos… músculos! ^000000"
+        "es-ES": "^8C8C8C(en curso) ¡Buenos... músculos! ^000000"
     },
     "ZbNiAw": {
         "en-US": "^8C8C8C(Waiting) Good... Muscle! ^000000",
         "pt-BR": "^8C8C8C(Em Espera) Belos Músculos!^000000",
-        "es-ES": "^8C8C8C(en espera) ¡Buenos… músculos! ^000000"
+        "es-ES": "^8C8C8C(en espera) ¡Buenos... músculos! ^000000"
     },
     "ZrNiAw": {
         "en-US": "[110] Good... Muscle!",
         "pt-BR": "[110] Belos Músculos!",
-        "es-ES": "[110] ¡Buenos… músculos!"
+        "es-ES": "[110] ¡Buenos... músculos!"
     },
     "Z7NiAw": {
         "en-US": "^8C8C8C(In Progress) Like something out of a fairy tale ^000000",
@@ -952,12 +952,12 @@
     "vrNiAw": {
         "en-US": "[Good... Muscle!]\nYerne's Request from Midgard Allied Forces Post Area\nLocation: Splendide Field\nTarget: Defeat 30 Naga\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",
         "pt-BR": "[Belos Músculos!]\nSolicitação do jovem Zeca\nLocal: Campo Esplendor\nObjetivo: Caçar 30 Nagas\nRecompensa: EXP base 300000, EXP classe 300000, 1 Moeda do Éden",
-        "es-ES": "[¡Buenos… músculos!]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Naga\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
+        "es-ES": "[¡Buenos... músculos!]\nSolicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\nUbicación: Campo de Splendide\nObjetivo: Derrota a 30 Naga\nPremio: 300000 de EXP, 300000 de EXP de clase, 1 moneda del Grupo del Edén"
     },
     "v7NiAw": {
         "en-US": "Yerne's Request from Midgard Allied Forces Post Area\n^4D4DFF[Good... Muscle!]^000000 Quest accepted.",
         "pt-BR": "A solicitação do jovem Zeca\n^4D4DFF[Belos Músculos!]^000000 foi aceita.",
-        "es-ES": "Solicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\n^4D4DFF[¡Buenos… músculos!]^000000 Misión aceptada."
+        "es-ES": "Solicitud de Yerne en la zona del puesto de las Fuerzas Aliadas de Midgard\n^4D4DFF[¡Buenos... músculos!]^000000 Misión aceptada."
     },
     "wLNiAw": {
         "en-US": "[Request Completed]\nLocation: Splendide Field\nTarget: Defeat 30 Cornus\nReward: Exp 300000, Jexp 300000, 1 Eden Group Coin",

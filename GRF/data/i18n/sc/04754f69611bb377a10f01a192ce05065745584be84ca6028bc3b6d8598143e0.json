@@ -92,7 +92,7 @@
     "ct/DBg": {
         "en-US": "[Malberon]\nThe only problem is that our HP is low...\nBut that won't be a problem if you train properly.",
         "pt-BR": "[Malberon]\nContudo, SP baixo é sempre um problema...\nIsso se resolve com um pouco de treinamento, é claro!",
-        "es-ES": "[Malberon]\nEl único inconveniente es que nuestros HP son bajos…\nPero eso no será un problema si entrenas de forma adecuada."
+        "es-ES": "[Malberon]\nEl único inconveniente es que nuestros HP son bajos...\nPero eso no será un problema si entrenas de forma adecuada."
     },
     "c9/DBg": {
         "en-US": "[Malberon]\nWhat do you want to know about archers? I will tell you everything!\nListen to my instruction carefully, and you will become a great archer like me.",
@@ -182,7 +182,7 @@
     "hN/DBg": {
         "en-US": "[Malberon]\nThere's a skill that can be used without a bow... It's called ^0000CDImprove Concentration^000000, it increases ^0000CDDEX and AGI^000000.",
         "pt-BR": "[Malberon]\nExiste uma Habilidade que pode ser usada sem um Arco. Após um curto período de tempo, a ^9370DBConcentração^000000 aumenta a ^9370DBDES^000000 e a ^9370DBAGI^000000.",
-        "es-ES": "[Malberon]\nHay una habilidad que no requiere arco… Se llama ^0000CDMejorar concentración^000000 y aumenta la ^0000CDDES y la AGI^000000."
+        "es-ES": "[Malberon]\nHay una habilidad que no requiere arco... Se llama ^0000CDMejorar concentración^000000 y aumenta la ^0000CDDES y la AGI^000000."
     },
     "hd/DBg": {
         "en-US": "[Malberon]\nHidden enemies nearby will be revealed, as well.",
@@ -217,7 +217,7 @@
     "i9/DBg": {
         "en-US": "[Malberon]\nAre you trying to ^0000CDbecome an archer^000000?\nBut we've only just met... It's sad that I cannot see you again anymore.",
         "pt-BR": "[Malberon]\nPuxa! Você ^0000CDquer trocar para outra Classe^000000?\nNão faz muito tempo que nos conhecemos, mas já estou triste por você estar indo embora...",
-        "es-ES": "[Malberon]\n¿Intentas ^0000CDconvertirte en clase Arquero^000000?\nPero acabamos de conocernos… Es una lástima que ya no pueda volver a verte."
+        "es-ES": "[Malberon]\n¿Intentas ^0000CDconvertirte en clase Arquero^000000?\nPero acabamos de conocernos... Es una lástima que ya no pueda volver a verte."
     },
     "jN/DBg": {
         "en-US": "[Malberon]\nBut I must check the requirements before you change your job. Your Job Level must be at least 10.",
@@ -347,7 +347,7 @@
     "pd/DBg": {
         "en-US": "[Malberon]\nYour... Job Level is too low.\nYou need some more training.",
         "pt-BR": "[Malberon]\nSeu nível de classe está um pouco baixo...\nTreine um pouco mais e volte a me ver.",
-        "es-ES": "[Malberon]\nTu… nivel de clase es demasiado bajo.\nNecesitas más entrenamiento."
+        "es-ES": "[Malberon]\nTu... nivel de clase es demasiado bajo.\nNecesitas más entrenamiento."
     },
     "pt/DBg": {
         "en-US": "[Malberon]\n<NAVI>^4D4DFF[Battle Instructor Spino]^000000<INFO>iz_ac01,59,83,</INFO></NAVI> at the supply room on the 1st floor\nis the one you should meet.",

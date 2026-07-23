@@ -34257,10 +34257,6 @@ SkillInfoList_data = {
 		AttackRange = {1},
 		_NeedSkillList = {
 			{
-				SKID.SS_SHINKIROU,
-				1
-			},
-			{
 				SKID.SS_KAGEGISSEN,
 				7
 			}
@@ -34274,10 +34270,6 @@ SkillInfoList_data = {
 		bSeperateLv = false,
 		AttackRange = {1},
 		_NeedSkillList = {
-			{
-				SKID.SS_SHINKIROU,
-				1
-			},
 			{
 				SKID.SS_KUNAIWAIKYOKU,
 				5
@@ -37190,6 +37182,25 @@ SkillInfoList_data = {
 			1,
 			1,
 			1
+		}
+	},
+	[SKID.ABC_FROM_THE_ABYSS_ATK] = {
+		"ABC_FROM_THE_ABYSS_ATK",
+		MaxLv = 5,
+		SpAmount = {
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		bSeperateLv = true,
+		AttackRange = {
+			3,
+			3,
+			3,
+			3,
+			3
 		}
 	}
 }

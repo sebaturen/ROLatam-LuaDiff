@@ -1225,5 +1225,7 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true,
 		isRenderBeforeCharacter = true
-	}
+	},
+	[HatEFID.HAT_EF_BLACK_THUNDER] = {hatEffectID = 2346},
+	[HatEFID.HAT_EF_BLACK_THUNDER_DARK] = {hatEffectID = 2347}
 }

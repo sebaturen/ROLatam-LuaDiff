@@ -77,7 +77,7 @@
     "L8X7": {
         "en-US": "^3355FFYou need to find\nsome kind of object\nthat you can fit into\neach of these four slots...^000000",
         "pt-BR": "^3355FFVocê precisa encontrar\nalgum tipo de item\nque você possa colocar em\ncada um desses quatro espaços...^000000",
-        "es-ES": "^3355FFTienes que encontrar\nun tipo de objeto\nque puedas encajar en\ncada una de estas cuatro ranuras…^000000"
+        "es-ES": "^3355FFTienes que encontrar\nun tipo de objeto\nque puedas encajar en\ncada una de estas cuatro ranuras...^000000"
     },
     "MMX7": {
         "en-US": "^3355FFWho knows what\nthis lever may do?\nYou'll never know unless\nyou have the courage to try.^000000",
@@ -87,22 +87,22 @@
     "McX7": {
         "en-US": "My descendents...",
         "pt-BR": "Meus descendentes...",
-        "es-ES": "Mis descendientes…"
+        "es-ES": "Mis descendientes..."
     },
     "MsX7": {
         "en-US": "Do you want to know why this city was buried beneath the earth...?",
         "pt-BR": "Quer saber por que esta cidade foi enterrada...?",
-        "es-ES": "¿Quieres saber por qué esta ciudad quedó sepultada bajo tierra…?"
+        "es-ES": "¿Quieres saber por qué esta ciudad quedó sepultada bajo tierra...?"
     },
     "M8X7": {
         "en-US": "If so, follow my voice...",
         "pt-BR": "Então siga minha voz...",
-        "es-ES": "Si es así, sigue mi voz…"
+        "es-ES": "Si es así, sigue mi voz..."
     },
     "NMX7": {
         "en-US": "I shall let you see for yourself what you desire to know...",
         "pt-BR": "Deixarei você ver por conta própria o que quer saber...",
-        "es-ES": "Te dejaré ver por tu cuenta lo que deseas saber…"
+        "es-ES": "Te dejaré ver por tu cuenta lo que deseas saber..."
     },
     "NcX7": {
         "en-US": "Overcome all the hallucinations.",
@@ -132,7 +132,7 @@
     "OsX7": {
         "en-US": "^3355FFIt seems like\nsomeone else is\nusing this machine...^000000",
         "pt-BR": "^3355FFParece que\noutra pessoa está\nusando esta máquina...^000000",
-        "es-ES": "^3355FFParece que\nalguien más\nestá usando esta máquina…^000000"
+        "es-ES": "^3355FFParece que\nalguien más\nestá usando esta máquina...^000000"
     },
     "O8X7": {
         "en-US": "Guard",
@@ -147,7 +147,7 @@
     "PcX7": {
         "en-US": "It is disappointing to see that you are too weak to even defeat a hallucination...",
         "pt-BR": "É frustrante ver que você é ruim demais para derrotar uma mera alucinação...",
-        "es-ES": "Es decepcionante ver que lo débil que eres, no puedes ni derrotar a una alucinación…"
+        "es-ES": "Es decepcionante ver que lo débil que eres, no puedes ni derrotar a una alucinación..."
     },
     "PsX7": {
         "en-US": "Those of you who have defeated the hallucination, step forward.",
@@ -162,7 +162,7 @@
     "QMX7": {
         "en-US": "In the end, you can't even overcome your inner fear...",
         "pt-BR": "No fim das contas, você não consegue sequer superar seu medo interior...",
-        "es-ES": "Al final, ni siquiera puedes superar tu miedo interior…"
+        "es-ES": "Al final, ni siquiera puedes superar tu miedo interior..."
     },
     "QcX7": {
         "en-US": "You have never encountered your inner fears, have you?",
@@ -212,7 +212,7 @@
     "SsX7": {
         "en-US": "were traps for intruders...",
         "pt-BR": "era só uma armadilha para os intrusos...",
-        "es-ES": "eran trampas para intrusos…"
+        "es-ES": "eran trampas para intrusos..."
     },
     "S8X7": {
         "en-US": "Guard-2",
@@ -272,7 +272,7 @@
     "VsX7": {
         "en-US": "Nothing is what you fear and you have nothing to fear...",
         "pt-BR": "Nada é o que você teme, e você não tem nada a temer...",
-        "es-ES": "Nada es lo que temes y no tienes nada que temer…"
+        "es-ES": "Nada es lo que temes y no tienes nada que temer..."
     },
     "V8X7": {
         "en-US": "GuardEnd",
@@ -302,12 +302,12 @@
     "XMX7": {
         "en-US": "You want to know, don't you? Go ahead... Go deeper.",
         "pt-BR": "Você quer saber, não quer? Vá em frente... Vá mais fundo.",
-        "es-ES": "¿Quieres averiguarlo, verdad? Adelante… Profundiza."
+        "es-ES": "¿Quieres averiguarlo, verdad? Adelante... Profundiza."
     },
     "XcX7": {
         "en-US": "It's not real anyway. All of it's safe, it can't hurt you...",
         "pt-BR": "Não é real de qualquer forma. Tudo isso é seguro, não vai machucar você...",
-        "es-ES": "De todos modos, no es real. Todo es seguro, no puede hacerte daño…"
+        "es-ES": "De todos modos, no es real. Todo es seguro, no puede hacerte daño..."
     },
     "XsX7": {
         "en-US": "^3355FFIt's a Warp Portal\nthat will teleport you\nto the previous floor.^000000",
@@ -357,7 +357,7 @@
     "Z8X7": {
         "en-US": "So... Have you read everything here?",
         "pt-BR": "Então... Você já leu tudo daqui?",
-        "es-ES": "Así que… ¿Leíste todo lo que hay aquí?"
+        "es-ES": "Así que... ¿Leíste todo lo que hay aquí?"
     },
     "aMX7": {
         "en-US": "Nothing, thanks.",
@@ -432,12 +432,12 @@
     "dsX7": {
         "en-US": "[Scholar]\n...Mm?\n...Yes?",
         "pt-BR": "[Professora]\n...Hm? \n...Sim?",
-        "es-ES": "[Erudita]\n¿Mm…? \n…¿Sí?"
+        "es-ES": "[Erudita]\n¿Mm...? \n...¿Sí?"
     },
     "d8X7": {
         "en-US": "[Scholar]\n...\n......\nMay I help you?",
         "pt-BR": "[Professora]\n...\n......\nPosso ajudar?",
-        "es-ES": "[Erudita]\n…\n……\n¿Puedo ayudarte?"
+        "es-ES": "[Erudita]\n...\n......\n¿Puedo ayudarte?"
     },
     "eMX7": {
         "en-US": "Oh! N-Nothing!",
@@ -447,17 +447,17 @@
     "ecX7": {
         "en-US": "Excuse me...",
         "pt-BR": "Desculpe-me...",
-        "es-ES": "Disculpa…"
+        "es-ES": "Disculpa..."
     },
     "esX7": {
         "en-US": "[Scholar]\n...\n......\nHmm?\n...........\nHmpf.",
         "pt-BR": "[Professora]\n...\n......\nHmm?\n...........\nHmpf.",
-        "es-ES": "[Erudita]\n…\n……\n¿Mmm?\n…………\nPff…"
+        "es-ES": "[Erudita]\n...\n......\n¿Mmm?\n............\nPff..."
     },
     "e8X7": {
         "en-US": "[Scholar]\n...\n......\nHmm?\n...........\nHmmm...",
         "pt-BR": "[Professora]\n...\n......\nHmm?\n...........\nHmmm...",
-        "es-ES": "[Erudita]\n…\n……\n¿Mmm?\n…………\nMmmm…"
+        "es-ES": "[Erudita]\n...\n......\n¿Mmm?\n............\nMmmm..."
     },
     "fMX7": {
         "en-US": "[Scholar]\nYou must be lost.\nThis is the scholarly\nresearch section, you know,\ncontent you couldn't possibly\nfathom. The popular novels and picture books are someplace else.",
@@ -467,12 +467,12 @@
     "fcX7": {
         "en-US": "[{0}]\n...\n......",
         "pt-BR": "[{0}]\n...\n......",
-        "es-ES": "[{0}]\n…\n……"
+        "es-ES": "[{0}]\n...\n......"
     },
     "fsX7": {
         "en-US": "[Scholar]\nWhy don't you rummage\nthrough the bookshelves?\nI'm sure you can find some\nbook there that can hold your\ninterest. Well, depending on\nyour actual attention span...",
         "pt-BR": "[Professora]\nPor que você não busca\npelas prateleiras?\nTenho certeza que pode encontrar\num livro que chame sua\natenção. Bem, dependendo\ndo que você consegue entender...",
-        "es-ES": "[Erudita]\n¿Por qué no echas\nun vistazo por las estanterías?\nEstoy segura de que allí encontrarás\nun libro que capte\ntu interés. Bueno, depende de\ntu capacidad de concentración…"
+        "es-ES": "[Erudita]\n¿Por qué no echas\nun vistazo por las estanterías?\nEstoy segura de que allí encontrarás\nun libro que capte\ntu interés. Bueno, depende de\ntu capacidad de concentración..."
     },
     "f8X7": {
         "en-US": "[{0}]\n(What's her damage?!\nDoes she have an attitude^FFFFFF         ^000000 problem or is she just stuck-up?)",
@@ -482,12 +482,12 @@
     "gMX7": {
         "en-US": "By any chance...",
         "pt-BR": "Por acaso...",
-        "es-ES": "Por casualidad…"
+        "es-ES": "Por casualidad..."
     },
     "gcX7": {
         "en-US": "[{0}]\nBy any chance...\nAre you conducting\nresearch about Juperos?",
         "pt-BR": "[{0}]\nPor acaso...\nVocê está conduzindo uma\npesquisa sobre Juperos?",
-        "es-ES": "[{0}]\nPor casualidad…\n¿Estás llevando a cabo\nuna investigación sobre Juperos?"
+        "es-ES": "[{0}]\nPor casualidad...\n¿Estás llevando a cabo\nuna investigación sobre Juperos?"
     },
     "gsX7": {
         "en-US": "[Scholar]\nWhy yes, that is\ncorrect. But how did\nyou come to learn about\nmy current research project?",
@@ -502,7 +502,7 @@
     "hMX7": {
         "en-US": "[Scholar]\nOh...! You read my\nthesis? So what did\nyou think about it?",
         "pt-BR": "[Professora]\nOh...! Você leu minha\ntese? Então, o que\nachou dela?",
-        "es-ES": "[Erudita]\n¡Oh…! ¿Leíste\nmi tesis? Y, ¿qué\nte pareció?"
+        "es-ES": "[Erudita]\n¡Oh...! ¿Leíste\nmi tesis? Y, ¿qué\nte pareció?"
     },
     "hcX7": {
         "en-US": "[{0}]\nSo far, it's alright, but\nquite frankly it's incomplete.\nI mean, you don't have much in\nin the way of conjecture, much\nless any evidence to back up\nany of your statements.",
@@ -512,7 +512,7 @@
     "hsX7": {
         "en-US": "[Scholar]\n....\nLet me apologize for\nbeing rude to you earlier.\nAs you know, my name is\nFayruz Khrhiyha. May I ask\nwhat your name might be?",
         "pt-BR": "[Professora]\n.....\nMe desculpe por\nter sido rude com você da outra vez.\nComo sabe, meu nome é \nFayruz Khrhiyha. Pode\nme dizer seu nome?",
-        "es-ES": "[Erudita]\n…\nPermíteme disculparme por\nhaber sido grosera contigo antes.\nComo sabes, me llamo\nFayruz Khrhiyha. ¿Puedo preguntarte\ncuál es tu nombre?"
+        "es-ES": "[Erudita]\n...\nPermíteme disculparme por\nhaber sido grosera contigo antes.\nComo sabes, me llamo\nFayruz Khrhiyha. ¿Puedo preguntarte\ncuál es tu nombre?"
     },
     "h8X7": {
         "en-US": "[{0}]\nI'm {0},\na brave adventurer in the\nservice of his royal majesty,\nthe wise and benevolent\nKing Tristram III.",
@@ -522,17 +522,17 @@
     "iMX7": {
         "en-US": "[Fayruz]\nWell, {0},\nI understand that my thesis\nstill requires more evidence.\nBut I'd need some ancient\ndocuments from Juperos\nto complete my research...",
         "pt-BR": "[Fayruz]\nBem, {0},\nentendo que minha tese\nainda precise de mais evidências.\nMas precisaria de alguns documentos\nantigos de Juperos\npara completar minha pesquisa...",
-        "es-ES": "[Fayruz]\nBueno, {0},\nentiendo que mi tesis\naún necesita más pruebas.\nPero necesitaría algunos antiguos\ndocumentos de Juperos\npara completar mi investigación…"
+        "es-ES": "[Fayruz]\nBueno, {0},\nentiendo que mi tesis\naún necesita más pruebas.\nPero necesitaría algunos antiguos\ndocumentos de Juperos\npara completar mi investigación..."
     },
     "icX7": {
         "en-US": "[Fayruz]\nIf you happen to travel\nthrough Juperos and find\nany ancient documents, would\nyou bring them to me? Having\nthose would help my research\nefforts immensely. Thank you...",
         "pt-BR": "[Fayruz]\nSe por acaso você chegar\naté Juperos e encontrar\nalgum documento antigo, poderia\ntrazê-lo para mim? Isso\najudaria muito em meu trabalho\nde pesquisa. Obrigada...",
-        "es-ES": "[Fayruz]\nSi por casualidad viajas\npor Juperos y encuentras\ncualquier documento antiguo, ¿podrías\ntraérmelo? Tenerlos\nme ayudaría enormemente\ncon mi investigación. Gracias…"
+        "es-ES": "[Fayruz]\nSi por casualidad viajas\npor Juperos y encuentras\ncualquier documento antiguo, ¿podrías\ntraérmelo? Tenerlos\nme ayudaría enormemente\ncon mi investigación. Gracias..."
     },
     "isX7": {
         "en-US": "[Fayruz]\nAh, it's you! Listen,\nI just found a record of\nan adventurer who explored\nJuperos. There's mention\nof a stone statue here that\njust might be noteworthy...",
         "pt-BR": "[Fayruz]\nAh, é você! Escute,\nencontrei o registro de\num aventureiro que explorou\nJuperos. Há uma menção a\numa estátua de pedra que\npode valer a pena...",
-        "es-ES": "[Fayruz]\n¡Ah, eres tú! Escucha,\nacabo de encontrar un registro de\nun trotamundos que exploraba\nJuperos. Se menciona\nuna estatua de piedra que\npodría ser importante…"
+        "es-ES": "[Fayruz]\n¡Ah, eres tú! Escucha,\nacabo de encontrar un registro de\nun trotamundos que exploraba\nJuperos. Se menciona\nuna estatua de piedra que\npodría ser importante..."
     },
     "i8X7": {
         "en-US": "[Fayruz]\nIf you happen to find\nyourself in Juperos,\nwould you find the stone\nstatue at the entrance of\nits dungeon and read the\nengraved message for me?",
@@ -582,12 +582,12 @@
     "lMX7": {
         "en-US": "[Fayruz]\nAh, I see! Wait,\ngive me a moment to\nproperly translate this...",
         "pt-BR": "[Fayruz]\nAh, entendo! Espere,\nme dê um instante para\ntraduzir isso direito...",
-        "es-ES": "[Fayruz]\nAh, ya veo. Espera,\ndame un momento para\ntraducir correctamente esto…"
+        "es-ES": "[Fayruz]\nAh, ya veo. Espera,\ndame un momento para\ntraducir correctamente esto..."
     },
     "lcX7": {
         "en-US": "...\n......\n.........",
         "pt-BR": "...\n......\n.........",
-        "es-ES": "…\n……\n………"
+        "es-ES": "...\n......\n........."
     },
     "lsX7": {
         "en-US": "[Fayruz]\nIt means, ''Do you wish to\nsee the end of the madness?\nHe is waiting where the three\ncolumns were destroyed, where\ntwo hundred illusions wander.''",
@@ -602,7 +602,7 @@
     "mMX7": {
         "en-US": "[Fayruz]\nAh, usually, descriptions\nof the ''vain and extravagant\none'' refer to the mad scientist^FFFFFF  ^000000 rumored to have lived in that\nancient era. But if this is true,^FFFFFF ^000000 I may have to rework my thesis...",
         "pt-BR": "[Fayruz]\nAh, normalmente as descrições\ndo ''vaidoso e extravagante''\nse referem ao cientista louco^FFFFFF ^000000 que supostamente viveu nessa época\nantiga. Mas se isso for verdade, ^FFFFFF ^000000talvez eu tenha que refazer minha tese...",
-        "es-ES": "[Fayruz]\nAh, normalmente, las menciones\nal ‘vanidoso y extravagante’\nse refieren a un científico loco^FFFFFF ^000000 que se rumorea que vivió en esa\népoca antigua. Pero, si esto es cierto,^FFFFFF ^000000 puede que tenga que reelaborar mi tesis…"
+        "es-ES": "[Fayruz]\nAh, normalmente, las menciones\nal ‘vanidoso y extravagante’\nse refieren a un científico loco^FFFFFF ^000000 que se rumorea que vivió en esa\népoca antigua. Pero, si esto es cierto,^FFFFFF ^000000 puede que tenga que reelaborar mi tesis..."
     },
     "mcX7": {
         "en-US": "[Fayruz]\nI have another favor to\nask of you. If you find any\nobject of historical significance^FFFFFF ^000000 in Juperos, would you bring it to\nme? I'll reward you, of course.",
@@ -697,7 +697,7 @@
     "q8X7": {
         "en-US": "[Fayruz]\nMm? Are you serious?\nThis object is very valuable\nto a researcher like me, but\nI have no idea what use it\nwould be for an adventurer.\nWell, you have your reasons...",
         "pt-BR": "[Fayruz]\nHum? Está falando sério?\nEsse objeto é muito valioso\npara uma pesquisadora como eu, mas\nnão faço ideia de qual seria a utilidade\nseria para um aventureiro.\nBem, você tem seus motivos...",
-        "es-ES": "[Fayruz]\n¿Mm? ¿Es en serio?\nEste objeto es muy valioso\npara una investigadora como yo, pero\nno tengo ni idea de para qué \nle serviría a un trotamundos.\nBueno, tendrás tus motivos…"
+        "es-ES": "[Fayruz]\n¿Mm? ¿Es en serio?\nEste objeto es muy valioso\npara una investigadora como yo, pero\nno tengo ni idea de para qué \nle serviría a un trotamundos.\nBueno, tendrás tus motivos..."
     },
     "rMX7": {
         "en-US": "[Fayruz]\nOh. There isn't anything\nhere that would help in my\nresearch, but thank you anyway.\nIf you find anything else while\nyou're in Juperos, please come^FFFFFF    ^000000 back and show it to me, alright?",
@@ -707,7 +707,7 @@
     "rcX7": {
         "en-US": "[Fayruz]\nAh, I see. Well, while\nyou're here, why don't you\nread something? There are\nmany books that cover some\ninteresting topics, like the\nSchwartzwald economy...",
         "pt-BR": "[Fayruz]\nAh, entendo. Bem, enquanto\nestá aqui, por que não\nlê alguma coisa? Há \nmuitos livros que abordam\ntemas interessantes, como a\neconomia de Schwartzwald...",
-        "es-ES": "[Fayruz]\nAh, entiendo. Bueno, mientras\nestás aquí, ¿por qué no\nlees algo? Hay\nmuchos libros sobre\ntemas interesantes, como la\neconomía de Schwarzwald…"
+        "es-ES": "[Fayruz]\nAh, entiendo. Bueno, mientras\nestás aquí, ¿por qué no\nlees algo? Hay\nmuchos libros sobre\ntemas interesantes, como la\neconomía de Schwarzwald..."
     },
     "rsX7": {
         "en-US": "[Fayruz]\nOh, in any case, please\ndon't forget the favor I asked\nof you. If you find anything\nin Juperos that's historically\nsignificant, I'd appreciate it\nif you bring it right away.",
@@ -727,12 +727,12 @@
     "scX7": {
         "en-US": "Oh, I'm sorry...",
         "pt-BR": "Oh, desculpe-me...",
-        "es-ES": "Oh, lo siento…"
+        "es-ES": "Oh, lo siento..."
     },
     "ssX7": {
         "en-US": "[Fayruz]\nOh, that's unexpected.\nThis Transparent Plate\nseems to have been made\nin a different era than the\none you gave me earlier.\nHow intriguing...",
         "pt-BR": "[Fayruz]\nOh, isso eu não esperava.\nEste Prato Transparente\nparece ter sido feito\nnuma era diferente do\noutro que você me deu.\nQue intrigante...",
-        "es-ES": "[Fayruz]\nNo me esperaba eso.\nEsta Placa transparente\nparece haber sido hecha\nen una época diferente a la\nla que me diste antes.\nMuy intrigante…"
+        "es-ES": "[Fayruz]\nNo me esperaba eso.\nEsta Placa transparente\nparece haber sido hecha\nen una época diferente a la\nla que me diste antes.\nMuy intrigante..."
     },
     "s8X7": {
         "en-US": "[Fayruz]\n*Sigh* I really wish\nthat I could explore\nJuperos on my own, but\nI'm just not strong enough.\nIn a way, I'm quite jealous^FFFFFF       ^000000 of you. But it can't be helped...",
@@ -742,7 +742,7 @@
     "tMX7": {
         "en-US": "[Fayruz]\nYou know, that reminds\nme of this great story of\na tragic hero that I'd like to\nshare with you. Let your\nmind wander as I relate this^FFFFFF     ^000000 ageless, yet bittersweet tale...",
         "pt-BR": "[Fayruz]\nSabe, isso me lembra\numa grande história de\num herói trágico que quero\ncontar para você. Deixe sua\nmente viajar enquanto conto esta ^FFFFFF ^000000história eterna e amarga...",
-        "es-ES": "[Fayruz]\nSabes, eso me recuerda\na una gran historia sobre\nun héroe trágico que me gustaría\ncontarte. Deja que tu\nmente divague mientras relato esta^FFFFFF ^000000historia atemporal y agridulce…"
+        "es-ES": "[Fayruz]\nSabes, eso me recuerda\na una gran historia sobre\nun héroe trágico que me gustaría\ncontarte. Deja que tu\nmente divague mientras relato esta^FFFFFF ^000000historia atemporal y agridulce..."
     },
     "tcX7": {
         "en-US": "^3355FFFayruz tells you a story\nwith a bright beginning, full\nof hope that fills you with the\nbliss of the heavens, but then\nsuddenly plummets you into all^FFFFFF    ^3355FF the despair and torment of hell.^000000",
@@ -772,7 +772,7 @@
     "usX7": {
         "en-US": "[Fayruz]\nOh, this one seems\nto have been created\nin a similar era as the\none you gave me earlier.\nI'm not sure how much new\ninformation this may provide...",
         "pt-BR": "[Fayruz]\nAh, este parece\nter sido criado\nnuma era similar à daquele\noutro que você me deu.\nNão sei quanta informação\nnova este pode me dar...",
-        "es-ES": "[Fayruz]\nOh, esta parece\nhaber sido creada\nen una época similar a la\nla que me diste antes.\nNo estoy segura de que pueda darnos\nmucha información nueva…"
+        "es-ES": "[Fayruz]\nOh, esta parece\nhaber sido creada\nen una época similar a la\nla que me diste antes.\nNo estoy segura de que pueda darnos\nmucha información nueva..."
     },
     "u8X7": {
         "en-US": "[Fayruz]\nStill, I'm sure this will\nhelpful in my research. I just\nwon't be as making progress\nas quickly as I had projected.\nPlease, I'd like you to take this^FFFFFF ^000000 as a token of my gratitude.",
@@ -782,7 +782,7 @@
     "vMX7": {
         "en-US": "[Fayruz]\nNow if you'll excuse\nme, I need to go back\nto compiling my research...\nThank you so much for\nyour help, {0}.",
         "pt-BR": "[Fayruz]\nAgora, se me dá licença,\npreciso voltar a\ncompilar minha pesquisa...\nMuito obrigada por\nsua ajuda, {0}.",
-        "es-ES": "[Fayruz]\nAhora, si me disculpas,\nnecesito continuar\nrecopilando mi investigación…\nMuchas gracias por\ntu ayuda, {0}."
+        "es-ES": "[Fayruz]\nAhora, si me disculpas,\nnecesito continuar\nrecopilando mi investigación...\nMuchas gracias por\ntu ayuda, {0}."
     },
     "vcX7": {
         "en-US": "[Fayruz]\n*Sigh* I really wish\nthat I could explore\nJuperos on my own, but\nI'm just not strong enough.\nIn a way, I'm quite jealous^FFFFFF      ^000000 of you. But it can't be helped...",
@@ -802,7 +802,7 @@
     "wMX7": {
         "en-US": "[Fayruz]\nAh, I see. Well, while\nyou're here, why don't you\nread something? There are\nmany books that cover some\ninteresting topics, like...\nlike... Self-Honesty (?).",
         "pt-BR": "[Fayruz]\nAh, entendo. Bem, enquanto\nestá aqui, por que não\nlê alguma coisa? Há \nmuitos livros que abordam\ntemas interessantes, como...\ncomo... Sendo Honesto Consigo Mesmo (?).",
-        "es-ES": "[Fayruz]\nAh, entiendo. Bueno, mientras\nestás aquí, ¿por qué no\nlees algo? Hay\nmuchos libros sobre\ntemas interesantes, como…\ncomo… ¿honestidad con uno mismo...?"
+        "es-ES": "[Fayruz]\nAh, entiendo. Bueno, mientras\nestás aquí, ¿por qué no\nlees algo? Hay\nmuchos libros sobre\ntemas interesantes, como...\ncomo... ¿honestidad con uno mismo...?"
     },
     "wcX7": {
         "en-US": "Oh, {0}!\nThe Transparent Plate\nthat you brought for me\nlast time is really helping me\nin my research. If you get the\nchance, please bring me more!",
@@ -812,7 +812,7 @@
     "wsX7": {
         "en-US": "[Fayruz]\nThis new data is adding\na lot more credibility to my\nthesis. Oh, I'll be with you\nin a moment, let me finish\ntranslating this one last\npassage really quickly...",
         "pt-BR": "[Fayruz]\nEstes novos dados estão dando\nmuito mais credibilidade à minha\ntese. Ah, já volto a falar\ncom você, me deixe terminar\nde traduzir este trecho,\nrapidinho...",
-        "es-ES": "[Fayruz]\nEstos nuevos datos añaden\nmucha más credibilidad a mi\ntesis. Oh, estaré contigo\nen un momento, déjame terminar\nde traducir este último\npasaje rápidamente…"
+        "es-ES": "[Fayruz]\nEstos nuevos datos añaden\nmucha más credibilidad a mi\ntesis. Oh, estaré contigo\nen un momento, déjame terminar\nde traducir este último\npasaje rápidamente..."
     },
     "w8X7": {
         "en-US": "[Fayruz]\nHello, {0}~\nOh, were you able to look\nin Juperos for anything that\nmight help me in my research?",
@@ -832,22 +832,22 @@
     "xsX7": {
         "en-US": "[Fayruz]\nIs this another\nTransparent Plate?\nYes, it's quite different\nthan the last one you\nbrought over to me...\nThis is so exciting!",
         "pt-BR": "[Fayruz]\nIsto é outro\nPrato Transparente?\nSim, é bem diferente\ndo último que você \nme trouxe...\nIsso é tão empolgante!",
-        "es-ES": "[Fayruz]\n¿Es esta otra\nPlaca transparente?\nSí, es muy diferente\na la última que me\ntrajiste…\n¡Qué emoción!"
+        "es-ES": "[Fayruz]\n¿Es esta otra\nPlaca transparente?\nSí, es muy diferente\na la última que me\ntrajiste...\n¡Qué emoción!"
     },
     "x8X7": {
         "en-US": "[Fayruz]\nOh. You must be thinking\nthat I'm a complete academia\naddict. Well, my life might be\na little uneventful, but there\nare other things I think about!\nLike, well... It's weird but...",
         "pt-BR": "[Fayruz]\nOh. Você deve estar achando\nque sou uma completa fanática\npelos estudos. Bem, minha vida pode ser\num tanto parada, mas tem\noutras coisas em que penso também!\nComo, bem... É estranho, mas...",
-        "es-ES": "[Fayruz]\nAh. Debes pensar\nque soy una completa adicta\na la academia. Bueno, mi vida puede ser\nun poco aburrida, ¡pero hay\notras cosas en las que pienso!\nComo, bueno… Es extraño pero…"
+        "es-ES": "[Fayruz]\nAh. Debes pensar\nque soy una completa adicta\na la academia. Bueno, mi vida puede ser\nun poco aburrida, ¡pero hay\notras cosas en las que pienso!\nComo, bueno... Es extraño pero..."
     },
     "yMX7": {
         "en-US": "[Fayruz]\nYou see, there's this\nguy that I like. I'm not sure\nwhere he might be now, but\nhis name is Nadim Amal. He's\nmy friend's brother who I first\nmet 10 years ago. ^333333*Sigh...*^000000",
         "pt-BR": "[Fayruz]\nVeja, tem um\nrapaz de quem gosto. Não sei bem\nonde ele pode estar agora, mas\no nome dele é Nadim Amal. Ele é \nirmão de uma amiga minha, eu o conheci\nhá 10 anos. ^333333* Suspiro...*^000000",
-        "es-ES": "[Fayruz]\nVerás, hay\nun muchacho que me gusta. No estoy segura\nde dónde estará, pero\nse llama Nadim Amal. Lo conocí hace 10 años,\nes el hermano de una amiga. ^333333*Suspira…*^000000"
+        "es-ES": "[Fayruz]\nVerás, hay\nun muchacho que me gusta. No estoy segura\nde dónde estará, pero\nse llama Nadim Amal. Lo conocí hace 10 años,\nes el hermano de una amiga. ^333333*Suspira...*^000000"
     },
     "ycX7": {
         "en-US": "[Fayruz]\nJust recently, I saw\nhim with his sister, my\nfriend from Morroc. It's\nweird to think that I'd have\nthese feelings for him after\nall this time, isn't it? Oh...!",
         "pt-BR": "[Fayruz]\nRecentemente, eu o vi\ncom a irmã dele, minha\namiga de Morroc. é \nestranho pensar que tenho\nesses sentimentos por ele\ndepois de tanto tempo, não é? Oh...!",
-        "es-ES": "[Fayruz]\nHace poco lo vi\ncon su hermana,\nmi amiga de Morroc. Es\nraro pensar que\nsiento cosas por él después\nde tanto tiempo, ¿no? ¡Ay…!"
+        "es-ES": "[Fayruz]\nHace poco lo vi\ncon su hermana,\nmi amiga de Morroc. Es\nraro pensar que\nsiento cosas por él después\nde tanto tiempo, ¿no? ¡Ay...!"
     },
     "ysX7": {
         "en-US": "[Fayruz]\nI really should repay\nyou for this Transparent\nPlate. Why don't I tell you\nthe scariest story that I know?",
@@ -872,7 +872,7 @@
     "zsX7": {
         "en-US": "[Fayruz]\nWell... That's just my\nopinion. Anyway, if you\nfind anything else in Juperos\nthat may help in my research,\nplease come back and show it\nto me, alright? See you later~",
         "pt-BR": "[Fayruz]\nBem... Isso é só minha\nopinião. De qualquer forma, se\nencontrar mais alguma coisa em Juperos\nque possa ajudar em minha pesquisa,\npor favor volte e mostre\npara mim, certo? Vejo você mais tarde!",
-        "es-ES": "[Fayruz]\nBueno… Es solo mi\nopinión. Como sea, si encuentras\notra cosa interesante en Juperos\nque me ayude en mi investigación,\nvuelve y muéstramela,\n¿sí? Hasta luego."
+        "es-ES": "[Fayruz]\nBueno... Es solo mi\nopinión. Como sea, si encuentras\notra cosa interesante en Juperos\nque me ayude en mi investigación,\nvuelve y muéstramela,\n¿sí? Hasta luego."
     },
     "z8X7": {
         "en-US": "[Fayruz]\nOh, that's fine.\nBesides, I don't really\nhave a deadline to complete\nthis research project. Still,\nI just want you to know that\nI really appreciate your help.",
@@ -887,32 +887,32 @@
     "0cX7": {
         "en-US": "[Fayruz]\nWait a minute...\nThis here means...\nAlright. Okay. Yes.\nYes! Of course, how\ncould I not see it before!",
         "pt-BR": "[Fayruz]\nEspere um instante...\nIsso aqui quer dizer...\nCerto. OK. Sim.\nSim! É claro, como\neu não pude ver isso antes?",
-        "es-ES": "[Fayruz]\nEspera un momento…\nEsto significa…\nDe acuerdo. Bueno. Sí.\n¡Sí! Por supuesto, ¿cómo\nno lo vi antes?"
+        "es-ES": "[Fayruz]\nEspera un momento...\nEsto significa...\nDe acuerdo. Bueno. Sí.\n¡Sí! Por supuesto, ¿cómo\nno lo vi antes?"
     },
     "0sX7": {
         "en-US": "[Fayruz]\nI'll be with you\nin just a second!\nI think I just made\na real breakthrough...!",
         "pt-BR": "[Fayruz]\nJá falo com você,\nsó um instante!\nAcho que acabo de fazer\num grande avanço...!",
-        "es-ES": "[Fayruz]\n¡Estaré contigo\nen un segundo!\n¡Creo que hice\nun verdadero descubrimiento…!"
+        "es-ES": "[Fayruz]\n¡Estaré contigo\nen un segundo!\n¡Creo que hice\nun verdadero descubrimiento...!"
     },
     "08X7": {
         "en-US": "[Fayruz]\nAh, I've been\nexpecting you, {0}.\nSo did you have been to Juperos^FFFFFF   ^000000 again? I'm really hoping that you\nwere able to find something new^FFFFFF   ^000000 that would help in my research...",
         "pt-BR": "[Fayruz]\nAh, eu estava\nesperando por você, {0}.\nEntão, você esteve em Juperos^FFFFFF ^000000 novamente? Eu realmente espero que você tenha conseguido encontrar algo novo^FFFFFF ^000000 que possa ajudar em minha pesquisa...",
-        "es-ES": "[Fayruz]\nAh, te estaba\nesperando, {0}.\n¿Estuviste de nuevo en^FFFFFF ^000000Juperos? Realmente espero que\nhayas encontrado algo nuevo^FFFFFF ^000000que ayude en mi investigación…"
+        "es-ES": "[Fayruz]\nAh, te estaba\nesperando, {0}.\n¿Estuviste de nuevo en^FFFFFF ^000000Juperos? Realmente espero que\nhayas encontrado algo nuevo^FFFFFF ^000000que ayude en mi investigación..."
     },
     "1MX7": {
         "en-US": "Actually, I did find this...",
         "pt-BR": "Na verdade, eu encontrei isso...",
-        "es-ES": "De hecho, encontré esto…"
+        "es-ES": "De hecho, encontré esto..."
     },
     "1cX7": {
         "en-US": "I'm sorry, I haven't...",
         "pt-BR": "Desculpe, não tenho nada...",
-        "es-ES": "Lo siento, no encontré nada…"
+        "es-ES": "Lo siento, no encontré nada..."
     },
     "1sX7": {
         "en-US": "[Fayruz]\nOooh...! This one is\nmuch different than the\nother ones you gave me\nbefore. This should provide\na wealth of brand new insights\ninto the Juperos civilization!",
         "pt-BR": "[Fayruz]\nAaah...! Este aqui é \nmuito diferente dos\noutros que você me deu\nantes. Ele deve oferecer\numa imensidão de novas percepções\nsobre a civilização de Juperos!",
-        "es-ES": "[Fayruz]\n¡Ohhhh…! Esta es\nmuy diferente a las\notras que me diste\nantes. Esto debería darnos\nuna gran cantidad de datos nuevos\nsobre la civilización de Juperos."
+        "es-ES": "[Fayruz]\n¡Ohhhh...! Esta es\nmuy diferente a las\notras que me diste\nantes. Esto debería darnos\nuna gran cantidad de datos nuevos\nsobre la civilización de Juperos."
     },
     "18X7": {
         "en-US": "[Fayruz]\nAll the Transparent\nPlates you've given me\nshould contain more than\nenough data for me to fully\ncomplete my research thesis.\nOnce again, thank you so much~",
@@ -927,17 +927,17 @@
     "2cX7": {
         "en-US": "[Fayruz]\nFor this purpose he was given\ngaudy armor which contained\namazing powers, as well as a\nbook detailing the instructions\nfor its use. However, he promptly\nlost these instructions...",
         "pt-BR": "[Fayruz]\nPara isso, ele recebeu uma\nvistosa armadura que continha\nincríveis poderes, além de um\nlivro com as instruções\npara seu uso. Mas não demorou para ele\nperder essas instruções...",
-        "es-ES": "[Fayruz]\nPara ello, le dieron una\narmadura llamativa que contenía\npoderes asombrosos, así como un\nlibro de instrucciones\npara su uso. Sin embargo, rápidamente\nperdió estas instrucciones…"
+        "es-ES": "[Fayruz]\nPara ello, le dieron una\narmadura llamativa que contenía\npoderes asombrosos, así como un\nlibro de instrucciones\npara su uso. Sin embargo, rápidamente\nperdió estas instrucciones..."
     },
     "2sX7": {
         "en-US": "^3355FFThe story about the\ngreatest Juperosian hero\nthat Fayruz tells you is very\nhumorous at first, but then it\ncovers the entire spectrum\nof emotion and humanity...",
         "pt-BR": "^3355FFA história sobre o\nmaior herói de Juperos\nque Fayruz lhe conta é muito\nengraçada no começo, mas então ela\ncomeça a cobrir todo o espectro\ndas emoções e da humanidade...^000000",
-        "es-ES": "^3355FFLa historia sobre el\nmayor héroe juperosiano\nque Fayruz te cuenta es muy\ncómica al principio, pero luego\nabarca todo el espectro\nde las emociones humanas…"
+        "es-ES": "^3355FFLa historia sobre el\nmayor héroe juperosiano\nque Fayruz te cuenta es muy\ncómica al principio, pero luego\nabarca todo el espectro\nde las emociones humanas..."
     },
     "28X7": {
         "en-US": "^3355FFThe story ends and you\nare left with a swelling\nfeeling of indefatigable\nhope and inspiration...\nYou can make it if you try!^000000",
         "pt-BR": "^3355FFA história termina e você \nfica com um profundo\nsentimento de irreprimível\nesperança e inspiração...\nVocê consegue tudo, se tentar!^000000",
-        "es-ES": "^3355FFLa historia termina y te\nquedas con un sentimiento\nintenso de esperanza\ne inspiración incansables…\n¡Puedes lograrlo si lo intentas!^000000"
+        "es-ES": "^3355FFLa historia termina y te\nquedas con un sentimiento\nintenso de esperanza\ne inspiración incansables...\n¡Puedes lograrlo si lo intentas!^000000"
     },
     "3MX7": {
         "en-US": "[Fayruz]\nWell, that is the\nlast and the best story\nthat I have to share\nwith you. Perhaps next\ntime, I'll fill you in on my\nresearch progress~",
@@ -947,7 +947,7 @@
     "3cX7": {
         "en-US": "Hmm...\nThis one seems to be created in a similar time\nas the previous one.",
         "pt-BR": "Hum...\nEste parece ter sido criado numa época similar\nao do anterior.",
-        "es-ES": "Mmm…\nParece que esta se creó en la misma época\nque la anterior."
+        "es-ES": "Mmm...\nParece que esta se creó en la misma época\nque la anterior."
     },
     "3sX7": {
         "en-US": "[Fayruz]\nDon't you worry.\nThis will help my research of course,\nalthough I do not think this will\nhelp me in advancing my research\nwith a great speed unlike this other one.",
@@ -992,7 +992,7 @@
     "5sX7": {
         "en-US": "[Fayruz]\nMmm...?\nIt doesn't look like\nyou brought another\nTransparent Plate.\nAre you sure that you\ndidn't misplace it?",
         "pt-BR": "[Fayruz]\nHmm...?\nNão parece que\nvocê trouxe outro\nPrato Transparente.\nTem certeza que\nnão o perdeu?",
-        "es-ES": "[Fayruz]\n¿Mmm…?\nNo parece que\nhayas traído otra\nPlaca transparente.\n¿No la habrás extraviado?"
+        "es-ES": "[Fayruz]\n¿Mmm...?\nNo parece que\nhayas traído otra\nPlaca transparente.\n¿No la habrás extraviado?"
     },
     "58X7": {
         "en-US": "[Fayruz]\nAh, I see. Well,\nthanks to your help,\nI've made a great deal\nof progress on my thesis.\nI really appreciate what you\nhave done for me, adventurer.",
@@ -1067,7 +1067,7 @@
     "9cX7": {
         "en-US": "[{0}]\nI don't know...\nIsn't this one a\nchildren's book?",
         "pt-BR": "[{0}]\nNão sei...\nEsse não é um\nlivro infantil?",
-        "es-ES": "[{0}]\nNo sé…\n¿No es este un\nlibro infantil?"
+        "es-ES": "[{0}]\nNo sé...\n¿No es este un\nlibro infantil?"
     },
     "9sX7": {
         "en-US": "Aragham Caul Biography",
@@ -1087,7 +1087,7 @@
     "+cX7": {
         "en-US": "[{0}]\nI don't know if this\none is worth opening,\nmuch less actually read...",
         "pt-BR": "[{0}]\nNão sei se este\naqui vale a pena abrir,\nquanto mais ainda ler...",
-        "es-ES": "[{0}]\nNo sé si vale la pena\nabrirlo,\nmucho menos leerlo…"
+        "es-ES": "[{0}]\nNo sé si vale la pena\nabrirlo,\nmucho menos leerlo..."
     },
     "+sX7": {
         "en-US": "Schwartzwald Adventurer",
@@ -1122,22 +1122,22 @@
     "AMb7": {
         "en-US": "^8B6914But first, we need to cover\nall of the technical jargon\nthat will appear later in this\nbook. A ''dungeon'' is a place\nwhere creatures that we call\n''monsters'' live. A ''weapon''\nis a tool that adventurers...^000000",
         "pt-BR": "^8B6914Mas primeiro, temos que abordar\ntodo o jargão técnico\nque aparecerá mais tarde neste\nlivro. Uma ''masmorra'' é um lugar\nonde vivem criaturas que chamamos\nde ''monstros''. Uma ''arma''\né uma ferramenta que os aventureiros...^000000",
-        "es-ES": "^8B6914Pero, primero, tenemos que cubrir\ntoda la jerga técnica\nque aparecerá más adelante en este\nlibro. Una mazmorra es un lugar\ndonde viven las criaturas que llamamos\nmonstruos. Un arma\nes una herramienta que los trotamundos…^000000"
+        "es-ES": "^8B6914Pero, primero, tenemos que cubrir\ntoda la jerga técnica\nque aparecerá más adelante en este\nlibro. Una mazmorra es un lugar\ndonde viven las criaturas que llamamos\nmonstruos. Un arma\nes una herramienta que los trotamundos...^000000"
     },
     "Acb7": {
         "en-US": "[{0}]\nWait a second...\nWhy I even reading this?\nI'm already a certified\nadventuring master!",
         "pt-BR": "[{0}]\nEspere um pouco...\nPor que estou lendo isto?\nJá sou mestre em\naventuras!",
-        "es-ES": "[{0}]\nEspera un segundo…\n¿Por qué estoy leyendo esto?\n¡Ya tengo experiencia\nen el arte de la aventura!"
+        "es-ES": "[{0}]\nEspera un segundo...\n¿Por qué estoy leyendo esto?\n¡Ya tengo experiencia\nen el arte de la aventura!"
     },
     "Asb7": {
         "en-US": "[{0}]\nHuh...?",
         "pt-BR": "[{0}]\nHã...?",
-        "es-ES": "[{0}]\n¿Eh…?"
+        "es-ES": "[{0}]\n¿Eh...?"
     },
     "A8b7": {
         "en-US": "^8B6914Ch.1: Jellopy Dos and Don'ts\nCh.2: Learning to Sit\nCh.3: What Does a Weapon Do?\nCh.4: Yes, Knives Are Used\nfor More than Just Cooking\nCh.5: Potions and When\nto Drink Them...^000000",
         "pt-BR": "^8B6914Cap.1: O Que Fazer ou Não Fazer com Jellopy\nCap.2: Aprendendo a Sentar\nCap.3: O Que Uma Arma Faz?\nCap.4: Não, Facas Não Servem\nApenas para Cozinhar\nCap.5: Poções; Como\nBebê-las...^000000",
-        "es-ES": "^8B6914Capítulo 1: Qué hacer y qué no hacer con Jellopy\nCapítulo 2: Cómo aprender a sentarse\nCapítulo 3: ¿Qué hace un arma?\nCapítulo 4: Sí, los cuchillos no se usan\nsolo para cocinar\nCapítulo 5: Pociones y cuándo\nbeberlas…^000000"
+        "es-ES": "^8B6914Capítulo 1: Qué hacer y qué no hacer con Jellopy\nCapítulo 2: Cómo aprender a sentarse\nCapítulo 3: ¿Qué hace un arma?\nCapítulo 4: Sí, los cuchillos no se usan\nsolo para cocinar\nCapítulo 5: Pociones y cuándo\nbeberlas...^000000"
     },
     "BMb7": {
         "en-US": "[{0}]\nThis is a like\nthe complete idiot's\nguide to adventuring.\nWho did they write\nthis book for?!",
@@ -1157,7 +1157,7 @@
     "B8b7": {
         "en-US": "^3355FFYou find a series\nof paperback books\nwith titles, printed\non the binding in an\nelegantly decorative\ncursive style font.\nThe titles include...^000000",
         "pt-BR": "^3355FFVocê encontra uma série\nde livros em brochura\ncom títulos impressos\nna lombada numa letra\nde estilo cursivo e\nelegante.\nOs títulos são...^000000",
-        "es-ES": "^3355FFEncuentras una serie\nde libros de bolsillo\ncon los títulos impresos\nen el lomo con una\nletra cursiva\nelegante y decorativa.\nLos títulos incluyen…^000000"
+        "es-ES": "^3355FFEncuentras una serie\nde libros de bolsillo\ncon los títulos impresos\nen el lomo con una\nletra cursiva\nelegante y decorativa.\nLos títulos incluyen...^000000"
     },
     "CMb7": {
         "en-US": "^8B6914*Volcanic Passion*\n*Midnight Crescendo*\n*A Paris Affair*\n*Fever Pitch*\n*The Cowboy Next Door*\n*Platonic Romance*\n*How Lara Got Her Groove Back*^000000",
@@ -1167,12 +1167,12 @@
     "Ccb7": {
         "en-US": "[{0}]\nWhat the...?!\nThis place even has\na romance novel section?",
         "pt-BR": "[{0}]\nMas o quê...?!\nEste lugar tem até \numa seção romântica?",
-        "es-ES": "[{0}]\n¡¿Qué…?!\n¿Acaso este lugar tiene\nuna sección de novelas románticas?"
+        "es-ES": "[{0}]\n¡¿Qué...?!\n¿Acaso este lugar tiene\nuna sección de novelas románticas?"
     },
     "Csb7": {
         "en-US": "^3355FFYou find a series\nof heavy, hardbound\nbooks with impressive\nsounding titles like...^000000",
         "pt-BR": "^3355FFVocê encontra uma série\nde livros pesados de\ncapa dura, com títulos\nimponentes como...^000000",
-        "es-ES": "^3355FFEncuentras una serie\nde libros gruesos de tapa dura\ncon títulos impresionantes\ncomo…^000000"
+        "es-ES": "^3355FFEncuentras una serie\nde libros gruesos de tapa dura\ncon títulos impresionantes\ncomo...^000000"
     },
     "C8b7": {
         "en-US": "^8B6914*Schwartzwald Republic History*\n*History of Ancient Economics*\n*Secrets of the Forgotten Tombs* *Juno Economy Report A.W. 792*\n*Juno Economy Report A.W. 802*\n*Juno Economy Report A.W. 822*\n*Linguistical Procedural Data*^000000",
@@ -1182,7 +1182,7 @@
     "DMb7": {
         "en-US": "[{0}]\n...\nEverything here just\nlooks so academic...",
         "pt-BR": "[{0}]\n...\nTudo aqui parece\ntão acadêmico...",
-        "es-ES": "[{0}]\n…\nTodo aquí\nparece tan académico…"
+        "es-ES": "[{0}]\n...\nTodo aquí\nparece tan académico..."
     },
     "Dcb7": {
         "en-US": "Paper",
@@ -1202,7 +1202,7 @@
     "EMb7": {
         "en-US": "^8B6914P.S.\nPlease...\nCome back to me.",
         "pt-BR": "^8B6914P.S.\nPor favor...\nVolte para mim.",
-        "es-ES": "^8B6914P.D.\nPor favor…\nVuelve conmigo."
+        "es-ES": "^8B6914P.D.\nPor favor...\nVuelve conmigo."
     },
     "Ecb7": {
         "en-US": "Love,\nFayruz^000000",
@@ -1212,7 +1212,7 @@
     "Esb7": {
         "en-US": "^8B6914...\nI can't forget your smile.\nNo matter what, even if you\nhate me, I'll always have these\nfeelings just for you. You are\nthe one who is most special,\nwho means the most to my heart.^000000",
         "pt-BR": "^8B6914...\nNão consigo esquecer do seu sorriso.\nNão importa o que aconteça,\nmesmo que você me odeie, sempre terei\nesse sentimento, só com você. Você é \na pessoa mais especial,\na que importa mais ao meu coração.^000000",
-        "es-ES": "^8B6914…\nNo puedo olvidar tu sonrisa.\n¡No importa lo que pase! Aunque\nme odies, siempre tendré estos\nsentimientos solo hacia ti. Tú eres\nel más especial,\nel que guardo en mi corazón.^000000"
+        "es-ES": "^8B6914...\nNo puedo olvidar tu sonrisa.\n¡No importa lo que pase! Aunque\nme odies, siempre tendré estos\nsentimientos solo hacia ti. Tú eres\nel más especial,\nel que guardo en mi corazón.^000000"
     },
     "E8b7": {
         "en-US": "^8B6914I know we've had our\ndifferences, but please\ndon't refuse my love. By\nyour hands, I hope that\nyou can forgive me for us.\n- Love, Fayruz^000000",
@@ -1227,7 +1227,7 @@
     "Fcb7": {
         "en-US": "[{0}]\nWhat th--?!\nBooooooooo!\nLove stinks!",
         "pt-BR": "[{0}]\nMas o que...?!\nBaaaaaaah!\nQue coisa mais melosa!",
-        "es-ES": "[{0}]\n¿Qué ra…?\n¡Buuu!\n¡El amor apesta!"
+        "es-ES": "[{0}]\n¿Qué ra...?\n¡Buuu!\n¡El amor apesta!"
     },
     "Fsb7": {
         "en-US": "[{0}]\nI guess I better\nnot look at this.\nI mean, I might\nregret reading it.",
@@ -1252,22 +1252,22 @@
     "Gsb7": {
         "en-US": "[{0}]\nW-whoa!\nThis book wasn't\nhere before! It looks\npretty interesting...",
         "pt-BR": "[{0}]\nU-uou!\nEste livro não estava\naqui antes! Parece\nbem interessante...",
-        "es-ES": "[{0}]\n¡U-uy…!\nEste libro no estaba\naquí antes. Parece ser\nbastante interesante…"
+        "es-ES": "[{0}]\n¡U-uy...!\nEste libro no estaba\naquí antes. Parece ser\nbastante interesante..."
     },
     "G8b7": {
         "en-US": "[{0}]\nYou know what?\nI think I'll just flip\nthrough some pages\nfrom a random book.\nHmmm, let's see...",
         "pt-BR": "[{0}]\nQuer saber?\nEu acho que só vou\nfolhear umas páginas\nde um livro qualquer.\nHmmm, vamos ver...",
-        "es-ES": "[{0}]\n¿Sabes qué?\nCreo que voy a hojear\nalgunas páginas\nde un libro cualquiera.\nMmm, veamos…"
+        "es-ES": "[{0}]\n¿Sabes qué?\nCreo que voy a hojear\nalgunas páginas\nde un libro cualquiera.\nMmm, veamos..."
     },
     "HMb7": {
         "en-US": "^8B6914''Admiral, the Kylorians are\nstill advancing!'' Commander\nMcKenrick announced without\nhis usual swagger. ''They're...\nThey're not stopping!'' But\nAdmiral Leh's eyes were a cold,\nunfeeling shade of sternness.^000000",
         "pt-BR": "^8B6914''Almirantes, os Kilorianos ainda\nestão avançando!'' O Comandante\nEnrico anunciou, sem a\narrogância de costume. ''Eles...\nEles não vão parar!'' Mas\nos olhos do Almirante tinham um brilho\nfrio e insensível de dureza.^000000",
-        "es-ES": "^8B6914¡Almirante, los kylorianos siguen\navanzando!, anunció el Comandante\nMcKenrick, sin\nsu fanfarronería habitual. No…\nNo se detienen. Pero\nlos ojos del almirante Leh tenían\nun tono insensible de severidad.^000000"
+        "es-ES": "^8B6914¡Almirante, los kylorianos siguen\navanzando!, anunció el Comandante\nMcKenrick, sin\nsu fanfarronería habitual. No...\nNo se detienen. Pero\nlos ojos del almirante Leh tenían\nun tono insensible de severidad.^000000"
     },
     "Hcb7": {
         "en-US": "^8B6914''Let the goddamned space\naliens come,'' hissed Leh.\n''We don't stand a chance\nwithout the Zenoi Sword\nto summon the power of\nGOD-POING. It's... It's\nall over. Damn it all...''^000000",
         "pt-BR": "^8B6914''Deixe vir esses malditos\nalienígenas,'' sussurrou Leh.\n''Não temos nenhuma chance\nsem a Espada Zenoi\npara invocar o poder do\nDEUS-POING. Está... Está \ntudo acabado. Maldição...''^000000",
-        "es-ES": "^8B6914Deja que vengan los malditos\nextraterrestres, siseó Leh.\nSin la Espada Zenoi,\nno tenemos ninguna posibilidad\nde invocar el poder del\nDIOS-POING. Está… Está\npor todas partes. ¡Maldita sea!^000000"
+        "es-ES": "^8B6914Deja que vengan los malditos\nextraterrestres, siseó Leh.\nSin la Espada Zenoi,\nno tenemos ninguna posibilidad\nde invocar el poder del\nDIOS-POING. Está... Está\npor todas partes. ¡Maldita sea!^000000"
     },
     "Hsb7": {
         "en-US": "^8B6914The doors burst open as\nBucky flew into the room.\n''The Zenoi Sword! The\nZenoi Sword! Someone's\nfound it!'' the boy yelled.\n''Really?! We better hurry:\nEarth doesn't have much time!''^000000",
@@ -1277,7 +1277,7 @@
     "H8b7": {
         "en-US": "[{0}]\n...\n......\nWhoa. I really\nshould have read\nthis masterpiece\nfrom the beginning...",
         "pt-BR": "[{0}]\n...\n......\nUau. Eu realmente\ndeveria ter lido\nesta obra-prima\ndesde o início...",
-        "es-ES": "[{0}]\n…\n……\nGuau. Realmente,\ndebería haber leído\nesta obra maestra\ndesde el principio…"
+        "es-ES": "[{0}]\n...\n......\nGuau. Realmente,\ndebería haber leído\nesta obra maestra\ndesde el principio..."
     },
     "IMb7": {
         "en-US": "^3355FFYou find a book\nwithout a title\non its cover.^000000",
@@ -1302,7 +1302,7 @@
     "JMb7": {
         "en-US": "[{0}]\nMaybe I should\njust put this book\nback where I found it...",
         "pt-BR": "[{0}]\nTalvez eu deva\ncolocar este livro\nde volta onde peguei...",
-        "es-ES": "[{0}]\nTal vez debería\ndejar este libro\ndonde lo encontré…"
+        "es-ES": "[{0}]\nTal vez debería\ndejar este libro\ndonde lo encontré..."
     },
     "Jcb7": {
         "en-US": "^3355FFYou find a book and\nfind that the all of the\npages are smudged\nwith ink once you open it.^000000",
@@ -1322,12 +1322,12 @@
     "KMb7": {
         "en-US": "^3355FFThe pages are stuck\ntogether, probably because\nof the ink that was spilled\nand then dried on them.\nUpon closer examination,\nthe ink seems to have a\nsuspiciously dark red color...^000000",
         "pt-BR": "^3355FF As páginas estão\ncoladas, talvez por causa\nda tinta que foi derramada\nnelas e secou.\nExaminando melhor,\na tinta parece ter\ncor vermelho-escura, suspeita...^000000",
-        "es-ES": "^3355FFLas páginas están pegadas,\nquizás la tinta\nse derramó\ny luego se secó sobre ellas.\nTras un examen más detallado,\nla tinta parece tener un\ncolor rojo sospechosamente oscuro…^000000"
+        "es-ES": "^3355FFLas páginas están pegadas,\nquizás la tinta\nse derramó\ny luego se secó sobre ellas.\nTras un examen más detallado,\nla tinta parece tener un\ncolor rojo sospechosamente oscuro...^000000"
     },
     "Kcb7": {
         "en-US": "[{0}]\nHuh...?\nN-no way!\nThis is just...!",
         "pt-BR": "[{0}]\nHã...?\nS-sem essa!\nIsso é...!",
-        "es-ES": "[{0}]\n¿Eh…?\n¡N-no puede ser!\nAcaso es…"
+        "es-ES": "[{0}]\n¿Eh...?\n¡N-no puede ser!\nAcaso es..."
     },
     "Ksb7": {
         "en-US": "[{0}]\nI shouldn't even\nbother trying to read\nthis. Why would the library\nkeep such a damaged book?",
@@ -1357,7 +1357,7 @@
     "L8b7": {
         "en-US": "^8B6914Scholars are certain\nthat the Juperos civilization\nused to be located above the\nground, but it is now buried\nbeneath the El Mes Plateau.\nThe reasons for the city's\nruin are still nebulous...^000000",
         "pt-BR": "^8B6914Os acadêmicos estão certos\nde que a civilização de Juperos\nera localizada acima da\nterra, mas que agora está enterrada\nsob o Planalto de Elmes.\nAs razões que levaram a cidade\nà ruína ainda não estão claras..^000000",
-        "es-ES": "^8B6914Los eruditos están seguros\nde que la civilización de Juperos\nsolía situarse por encima del\nsuelo, pero ahora está enterrada\nbajo la meseta de El Mes.\nLas razones de la ruina\nde la ciudad siguen siendo confusas…^000000"
+        "es-ES": "^8B6914Los eruditos están seguros\nde que la civilización de Juperos\nsolía situarse por encima del\nsuelo, pero ahora está enterrada\nbajo la meseta de El Mes.\nLas razones de la ruina\nde la ciudad siguen siendo confusas...^000000"
     },
     "MMb7": {
         "en-US": "^8B6914There is much speculation\nabout the reasons for Jupero's\ndownfall, but any documentation\nfrom that time period has been\ndifficult to find. As for now, any evidence we have regarding\nJuperos is inconclusive.^000000",
@@ -1367,22 +1367,22 @@
     "Mcb7": {
         "en-US": "^8B6914In spite of this lack\nof empirical or concrete\ndata on the civilization of\nJuperos, our modern world\nmay be able to learn much\nfrom that ancient city's ruins.\n..................^000000",
         "pt-BR": "^8B6914Apesar dessa falta de\ndados empíricos ou concretos\nsobre a civilização de\nJuperos, nosso mundo moderno\npode aprender muito com\nas ruínas dessa cidade antiga.\n..................^000000",
-        "es-ES": "^8B6914A pesar de esta falta\nde datos empíricos o concretos\nsobre la civilización de\nJuperos, nuestro mundo moderno\npuede aprender mucho\nde las ruinas de esa antigua ciudad.\n………………^000000"
+        "es-ES": "^8B6914A pesar de esta falta\nde datos empíricos o concretos\nsobre la civilización de\nJuperos, nuestro mundo moderno\npuede aprender mucho\nde las ruinas de esa antigua ciudad.\n..................^000000"
     },
     "Msb7": {
         "en-US": "[{0}]\nThis...\nThis is supposed to\nbe a research thesis?\nThere's barely any\nresearch in it...",
         "pt-BR": "[{0}]\nIsso...\nNão devia ser uma\ntese de pesquisa?\nQuase não há \npesquisa aqui...",
-        "es-ES": "[{0}]\n¿Se…?\n¿Se supone que\nesto es una tesis de investigación?\nApenas hay\ninvestigación en ella…"
+        "es-ES": "[{0}]\n¿Se...?\n¿Se supone que\nesto es una tesis de investigación?\nApenas hay\ninvestigación en ella..."
     },
     "M8b7": {
         "en-US": "[{0}]\nHmm...\nThis isn't heavy\nenough to be a real\nacademic work. It must\nnot even be finished yet.",
         "pt-BR": "[{0}]\nHmm...\nIsso não é pesado\no bastante para ser mesmo\num trabalho acadêmico. Acho\nque ainda não está terminado.",
-        "es-ES": "[{0}]\nMmm…\nNo tiene el contenido\nsuficiente para ser un verdadero\ntrabajo académico. Ni siquiera\ndebe haber terminado aún."
+        "es-ES": "[{0}]\nMmm...\nNo tiene el contenido\nsuficiente para ser un verdadero\ntrabajo académico. Ni siquiera\ndebe haber terminado aún."
     },
     "NMb7": {
         "en-US": "[{0}]\nNah...\nI'm tired of reading.\nIronically enough.",
         "pt-BR": "[{0}]\nAh, não...\nCansei de ler.\nPor incrível que pareça.",
-        "es-ES": "[{0}]\nNop…\nMe cansé de leer.\nIrónicamente."
+        "es-ES": "[{0}]\nNop...\nMe cansé de leer.\nIrónicamente."
     },
     "Ncb7": {
         "en-US": "Check the Table of Contents.",
@@ -1407,42 +1407,42 @@
     "Ocb7": {
         "en-US": "[{0}]\nHmmm...\nA whole chapter\ndedicated to saying,\n''We know absolutely\nnothing about something.''\nI should write a book~",
         "pt-BR": "[{0}]\nHmmm...\nUm capítulo inteiro\nsó para dizer,\n''Não sabemos absolutamente\nnada sobre isso.''\nAssim até eu escrevo um livro...",
-        "es-ES": "[{0}]\nMmmm…\nUn capítulo entero\nsolo para decir:\nNo sabemos absolutamente\nnada de nada.\nDebería escribir un libro."
+        "es-ES": "[{0}]\nMmmm...\nUn capítulo entero\nsolo para decir:\nNo sabemos absolutamente\nnada de nada.\nDebería escribir un libro."
     },
     "Osb7": {
         "en-US": "^8B6914...\n......\n..........^000000",
         "pt-BR": "^8B6914...\n......\n..........^000000",
-        "es-ES": "^8B6914…\n……\n……….^000000"
+        "es-ES": "^8B6914...\n......\n..........^000000"
     },
     "O8b7": {
         "en-US": "[{0}]\nThis is all just idle\nconjecture! This paper\nisn't developed enough\nyet to be a real thesis...",
         "pt-BR": "[{0}]\nTudo isso é apenas\nconjectura! Este artigo\nnão está desenvolvido o bastante\npara ser uma tese de verdade...",
-        "es-ES": "[{0}]\n¡Son solo conjeturas\ninútiles! Este documento\nno está lo suficientemente desarrollado\ntodavía para ser una tesis real…"
+        "es-ES": "[{0}]\n¡Son solo conjeturas\ninútiles! Este documento\nno está lo suficientemente desarrollado\ntodavía para ser una tesis real..."
     },
     "PMb7": {
         "en-US": "[{0}]\nHuh. This writer keeps\ntalking about theories,\nbut the more I read, the\nless clear I am on what\nthe theory actually is.\nI don't think there is one...",
         "pt-BR": "[{0}]\nHmm. Essa autora fica\nfalando de teorias,\nmas quanto mais eu leio,\nmenos entendo sobre\no que a teoria realmente é.\nTalvez nem haja uma teoria...",
-        "es-ES": "[{0}]\nMm. Esta escritora sigue\nhablando de teorías\npero, cuanto más leo,\nmenos entiendo\ncuál es la teoría en realidad.\nNo creo que la haya…"
+        "es-ES": "[{0}]\nMm. Esta escritora sigue\nhablando de teorías\npero, cuanto más leo,\nmenos entiendo\ncuál es la teoría en realidad.\nNo creo que la haya..."
     },
     "Pcb7": {
         "en-US": "[{0}]\nUgh... My head hurts\ntoo much from reading\na book for smarty people.\nI know! I'll play videogames!",
         "pt-BR": "[{0}]\nUgh... Minha cabeça dói\npor ficar lendo\num livro pra gente esperta.\nJá sei! Vou jogar videogame!",
-        "es-ES": "[{0}]\nUf… Me duele la cabeza\nde tanto leer\neste libro para gente lista.\n¡Tengo una idea! ¡Jugaré a videojuegos!"
+        "es-ES": "[{0}]\nUf... Me duele la cabeza\nde tanto leer\neste libro para gente lista.\n¡Tengo una idea! ¡Jugaré a videojuegos!"
     },
     "Psb7": {
         "en-US": "[{0}]\nI don't feel like\nreading this. Not\nenough pictures...",
         "pt-BR": "[{0}]\nNão estou a fim\nde ler isto. Não tem\nmuitas figuras...",
-        "es-ES": "[{0}]\nNo tengo ganas\nde leer esto. No tiene\nsuficientes imágenes…"
+        "es-ES": "[{0}]\nNo tengo ganas\nde leer esto. No tiene\nsuficientes imágenes..."
     },
     "P8b7": {
         "en-US": "[{0}]\nIt looks very sophisticated...",
         "pt-BR": "[{0}]\nParece muito sofisticado...",
-        "es-ES": "[{0}]\nParece muy sofisticado…"
+        "es-ES": "[{0}]\nParece muy sofisticado..."
     },
     "QMb7": {
         "en-US": "^8B6914Scholars are certain\nthat the Juperos civilization\nused to be located above the\nground, but it is now buried\nbeneath the El Mes Plateau.\nThe reasons for the city's\nruin are still in debate...^000000",
         "pt-BR": "^8B6914Os acadêmicos estão certos\nde que a civilização de Juperos\nera localizada acima da\nterra, mas que agora está enterrada\nsob o Planalto de Elmes.\nAs razões que levaram a cidade\nà ruína ainda não estão claras..^000000",
-        "es-ES": "^8B6914Los eruditos están seguros\nde que la civilización de Juperos\nsolía situarse por encima del\nsuelo, pero ahora está enterrada\nbajo la meseta de El Mes.\nLas razones de la ruina\nde la ciudad se siguen debatiendo…^000000"
+        "es-ES": "^8B6914Los eruditos están seguros\nde que la civilización de Juperos\nsolía situarse por encima del\nsuelo, pero ahora está enterrada\nbajo la meseta de El Mes.\nLas razones de la ruina\nde la ciudad se siguen debatiendo...^000000"
     },
     "Qcb7": {
         "en-US": "^8B6914However, new findings\nregarding the history\nof Juperos have allowed\nus to make a few conclusions.^000000",
@@ -1462,12 +1462,12 @@
     "RMb7": {
         "en-US": "[{0}]\nYes... Of course!\nIt all makes sense now!",
         "pt-BR": "[{0}]\nSim... É claro!\nAgora tudo faz sentido!",
-        "es-ES": "[{0}]\nSí… ¡Por supuesto!\n¡Ahora todo tiene sentido!"
+        "es-ES": "[{0}]\nSí... ¡Por supuesto!\n¡Ahora todo tiene sentido!"
     },
     "Rcb7": {
         "en-US": "[{0}]\nI know this book...\nBut I don't feel like\nreading it right now.",
         "pt-BR": "[{0}]\nEu conheço este livro...\nMas não estou a fim\nde ler agora.",
-        "es-ES": "[{0}]\nConozco este libro…\nPero no tengo ganas\nde leerlo ahora."
+        "es-ES": "[{0}]\nConozco este libro...\nPero no tengo ganas\nde leerlo ahora."
     },
     "Rsb7": {
         "en-US": "^8B6914Juperos was built over\na thousand years ago in\nan era of peace just after\na major war. There is now\ndirect evidence linking Juno\nto Juperos proving that Juno\nwas but a part of Juperos.^000000",
@@ -1492,7 +1492,7 @@
     "Ssb7": {
         "en-US": "^8B6914This one man and Ymir's\nHeart are credited with\nthe success and prosperity\nof the Jupero's civilization.\nHowever, there are various accounts prior to Jupero's fall detailing his work with chimera...^000000",
         "pt-BR": "^8B6914A este homem e ao Coração\nde Ymir se devem\no sucesso e a prosperidade\nda civilização de Juperos.\nEntretanto, há vários relatos, antes da queda de Juperos, sobre seu trabalho com quimeras...^000000",
-        "es-ES": "^8B6914A este hombre y al corazón de Ymir\nse les atribuye\nel éxito y la prosperidad\nde la civilización de Juperos.\nSin embargo, hay varios relatos anteriores a la caída de Jupero que detallan su trabajo con quimeras…^000000"
+        "es-ES": "^8B6914A este hombre y al corazón de Ymir\nse les atribuye\nel éxito y la prosperidad\nde la civilización de Juperos.\nSin embargo, hay varios relatos anteriores a la caída de Jupero que detallan su trabajo con quimeras...^000000"
     },
     "S8b7": {
         "en-US": "^8B6914This scientist, supposedly\nin his passion to benefit his\npeople by finding a scientific\nmethod for immortality by using\nchimera for testing, was driven\ninsane. He experimented on\nhimself with disatrous results.^000000",
@@ -1522,12 +1522,12 @@
     "UMb7": {
         "en-US": "[{0}]\nThis thesis is\nlooking pretty good~\nOf course, I did have\na hand in making it...",
         "pt-BR": "[{0}]\nEsta tese está \nmuito boa...\nÉ claro, eu dei uma\nmão para terminá-la...",
-        "es-ES": "[{0}]\nEsta tesis\nse ve muy bien.\nPor supuesto,\nayudé hacerla…"
+        "es-ES": "[{0}]\nEsta tesis\nse ve muy bien.\nPor supuesto,\nayudé hacerla..."
     },
     "Ucb7": {
         "en-US": "[{0}]\nLooks pretty...\nHistorical.",
         "pt-BR": "[{0}]\nParece bem...\nHistórico.",
-        "es-ES": "[{0}]\nSe ve muy…\nhistórica…"
+        "es-ES": "[{0}]\nSe ve muy...\nhistórica..."
     },
     "Usb7": {
         "en-US": "Penniless Hollgrehenn",
@@ -1542,7 +1542,7 @@
     "VMb7": {
         "en-US": "[{0}]\nThis book looks\nlike a total piece of\ncrap. I'd have more\nfun getting my teeth\ndrilled by a blindfolded\ndentist. Or would I...?",
         "pt-BR": "[{0}]\nEste livro parece\num perfeito pedaço de\nlixo. Eu me divertiria\nmais tendo meus dentes\nobturados por um dentista\nde olhos vendados. Ou será que...?",
-        "es-ES": "[{0}]\nEste libro parece\nuna completa\nbasura. Sería más\ndivertido que un dentista ciego\nme taladrara los\ndientes. ¿O no…?"
+        "es-ES": "[{0}]\nEste libro parece\nuna completa\nbasura. Sería más\ndivertido que un dentista ciego\nme taladrara los\ndientes. ¿O no...?"
     },
     "Vcb7": {
         "en-US": "Ambitious Hollgrehenn",
@@ -1557,12 +1557,12 @@
     "V8b7": {
         "en-US": "^8B6914...\nHe would stop at nothing\nto have the greatest weapon\nin the world in his possession.^FFFFFF  ^8B6914 He became a smith so that he\ncould discern which weapons\nwere the most powerful...^000000",
         "pt-BR": "^8B6914...\nEle não se deteria por nada\npara ter a maior arma\ndo mundo sob sua posse. Ele se tornou um ferreiro para que\npudesse entender quais armas\neram as mais poderosas...^000000",
-        "es-ES": "^8B6914…\nNo se detendría ante nada\nhasta tener la mejor arma\ndel mundo en su poder.^FFFFFF ^8B6914 Se hizo herrero para\npoder discernir qué armas\neran las más poderosas…^000000"
+        "es-ES": "^8B6914...\nNo se detendría ante nada\nhasta tener la mejor arma\ndel mundo en su poder.^FFFFFF ^8B6914 Se hizo herrero para\npoder discernir qué armas\neran las más poderosas...^000000"
     },
     "WMb7": {
         "en-US": "[{0}]\nThat's strange...\nThe next page\nhas been torn out.",
         "pt-BR": "[{0}]\nIsso é estranho...\nA página seguinte\nfoi arrancada.",
-        "es-ES": "[{0}]\nQué extraño…\nLa página siguiente\nfue arrancada."
+        "es-ES": "[{0}]\nQué extraño...\nLa página siguiente\nfue arrancada."
     },
     "Wcb7": {
         "en-US": "Popular Feasts",
@@ -1592,12 +1592,12 @@
     "Xsb7": {
         "en-US": "^8B6914...\nIf possible, try\nto use tails cut\nfrom live Yoyos.\nNow, as for skinning...^000000",
         "pt-BR": "^8B6914...\nSe possível, tente\nusar caudas cortadas\nde Yoyos vivos.\nAgora, quando tirar a pele...^000000",
-        "es-ES": "^8B6914…\nSi es posible, intenta\nutilizar colas cortadas\nde Yoyos vivos.\nAhora, en cuanto a pelarlas…^000000"
+        "es-ES": "^8B6914...\nSi es posible, intenta\nutilizar colas cortadas\nde Yoyos vivos.\nAhora, en cuanto a pelarlas...^000000"
     },
     "X8b7": {
         "en-US": "[{0}]\nUm...\nBarf?",
         "pt-BR": "[{0}]\nEr...\nEEECAAAA!",
-        "es-ES": "[{0}]\nEh…\nGuácala."
+        "es-ES": "[{0}]\nEh...\nGuácala."
     },
     "YMb7": {
         "en-US": "[{0}]\nHey, this page is gone!\nI guess Poring Salad is\nthe most popular feast\nin this entire book.",
@@ -1607,12 +1607,12 @@
     "Ycb7": {
         "en-US": "^8B6914...\nFry the cut beaks\nusing herbal oil until\ncrisp. Then, pour the\nfeathers into a blender...^000000",
         "pt-BR": "^8B6914...\nFrite os Pickys cortados\nusando óleo de ervas até que\nfiquem crocantes. Então, coloque as\npenas no liquidificador...^000000",
-        "es-ES": "^8B6914…\nFríe los picos cortados\ncon aceite de hierbas hasta\nque estén crocantes. Luego, coloca las\nplumas en una licuadora…^000000"
+        "es-ES": "^8B6914...\nFríe los picos cortados\ncon aceite de hierbas hasta\nque estén crocantes. Luego, coloca las\nplumas en una licuadora...^000000"
     },
     "Ysb7": {
         "en-US": "[{0}]\nHmm...\nSounds a little\ntoo gourmet for my\ntaste. And by ''gourmet,''\nI mean, ''totally gross.''",
         "pt-BR": "[{0}]\nUgh...\nParece um tanto\n''gourmet'' demais pro meu\ngosto. E quando digo ''gourmet'',\nquero dizer ''muito nojento''.",
-        "es-ES": "[{0}]\nMmm…\nSuena un poco\ndemasiado gourmet para mi\ngusto. Y por gourmet\nquiero decir totalmente asqueroso."
+        "es-ES": "[{0}]\nMmm...\nSuena un poco\ndemasiado gourmet para mi\ngusto. Y por gourmet\nquiero decir totalmente asqueroso."
     },
     "Y8b7": {
         "en-US": "Hamerun, Rat Hunter",
@@ -1622,7 +1622,7 @@
     "ZMb7": {
         "en-US": "[{0}]\nI can't...\nreach it...!",
         "pt-BR": "[{0}]\nEu não consigo...\nalcançar...!",
-        "es-ES": "[{0}]\n¡No puedo…\nalcanzarlo…!"
+        "es-ES": "[{0}]\n¡No puedo...\nalcanzarlo...!"
     },
     "Zcb7": {
         "en-US": "Red Book",
@@ -1637,47 +1637,47 @@
     "Z8b7": {
         "en-US": "^8B6914...^000000",
         "pt-BR": "^8B6914...^000000",
-        "es-ES": "^8B6914…^000000"
+        "es-ES": "^8B6914...^000000"
     },
     "aMb7": {
         "en-US": "^8B6914...\n......^000000",
         "pt-BR": "^8B6914...\n......^000000",
-        "es-ES": "^8B6914…\n……^000000"
+        "es-ES": "^8B6914...\n......^000000"
     },
     "acb7": {
         "en-US": "^8B6914...\n......\n.........^000000",
         "pt-BR": "^8B6914...\n......\n.........^000000",
-        "es-ES": "^8B6914…\n……\n………^000000"
+        "es-ES": "^8B6914...\n......\n.........^000000"
     },
     "asb7": {
         "en-US": "^8B6914...\n......\n.........\n............^000000",
         "pt-BR": "^8B6914...\n......\n.........\n............^000000",
-        "es-ES": "^8B6914…\n……\n………\n…………^000000"
+        "es-ES": "^8B6914...\n......\n.........\n............^000000"
     },
     "a8b7": {
         "en-US": "[{0}]\nThis is...\nA compilation of\nShakespeare in\ncoloring book format?",
         "pt-BR": "[{0}]\nIsto é...\nUma compilação de\nQuímica em \nformato de livro para colorir?",
-        "es-ES": "[{0}]\nEsta es…\n¿Una recopilación de\nShakespeare en \nen formato de libro para colorear?"
+        "es-ES": "[{0}]\nEsta es...\n¿Una recopilación de\nShakespeare en \nen formato de libro para colorear?"
     },
     "bMb7": {
         "en-US": "[{0}]\nWait...\nWhy would fans of\nShakespeare even\nwant a coloring book?",
         "pt-BR": "[{0}]\nEspere...\nPor que leitores de\nQuímica iam\nquerer um livro para colorir?",
-        "es-ES": "[{0}]\nEspera…\n¿Por qué los fanáticos de\nShakespeare\nquerrían un libro para colorear?"
+        "es-ES": "[{0}]\nEspera...\n¿Por qué los fanáticos de\nShakespeare\nquerrían un libro para colorear?"
     },
     "bcb7": {
         "en-US": "[{0}]\nHmm... Well...\nI suppose little kids who\nread Shakespeare would\nappreciate something like that.",
         "pt-BR": "[{0}]\nHmm... Bem...\nAcho que as criancinhas que\nentendem de Química vão\ngostar de algo assim.",
-        "es-ES": "[{0}]\nMmm… Bueno…\nSupongo que los niños que\nleen a Shakespeare\napreciarían algo así."
+        "es-ES": "[{0}]\nMmm... Bueno...\nSupongo que los niños que\nleen a Shakespeare\napreciarían algo así."
     },
     "bsb7": {
         "en-US": "[{0}]\nHold on...\nDo little kids who\nare able to read the\nworks of Shakespeare\neven exist? I hope not...",
         "pt-BR": "[{0}]\nEspere...\nQuem disse que\ncriancinhas que entendem de\nQuímica\nexistem? Espero que não...",
-        "es-ES": "[{0}]\nEspera…\n¿Acaso existen niños\ncapaces de leer\nlas obras de\nShakespeare? Espero que no…"
+        "es-ES": "[{0}]\nEspera...\n¿Acaso existen niños\ncapaces de leer\nlas obras de\nShakespeare? Espero que no..."
     },
     "b8b7": {
         "en-US": "[{0}]\nWhat a strange\nand mysterious book.\nI'll never know what's\ninside unless I read it!\nCome on! Doesn't the red\nbinding mean something?",
         "pt-BR": "[{0}]\nQue livro estranho\ne misterioso.\nNunca vou saber o que\ntem nele, a menos que eu leia!\nVamos! Será que a lombada\nvermelha não quer dizer alguma coisa?",
-        "es-ES": "[{0}]\nQué extraño\ny misterioso libro.\n¡Nunca sabré lo que\nhay dentro a menos que lo lea!\n¡Vamos…! ¿Acaso la encuadernación\nroja significa algo?"
+        "es-ES": "[{0}]\nQué extraño\ny misterioso libro.\n¡Nunca sabré lo que\nhay dentro a menos que lo lea!\n¡Vamos...! ¿Acaso la encuadernación\nroja significa algo?"
     },
     "cMb7": {
         "en-US": "Scroll",
@@ -1722,17 +1722,17 @@
     "eMb7": {
         "en-US": "[{0}]\nWait, wait...\nThis thing IS old.\nI mean, it's obviously\nwritten from a patriarchal\nstandpoint that promotes\nbipartisan gender roles.",
         "pt-BR": "[{0}]\nEspera, espera...\nEssa coisa é velha.\nQuero dizer, obviamente foi\nescrita de um ponto de vista\nmachista, promovendo\numa separação rígida dos gêneros.",
-        "es-ES": "[{0}]\nUn momento…\nEsta cosa SÍ que es vieja.\nQuiero decir, obviamente\nse escribió desde una perspectiva\npatriarcal y promueve\nel binarismo en los roles de género."
+        "es-ES": "[{0}]\nUn momento...\nEsta cosa SÍ que es vieja.\nQuiero decir, obviamente\nse escribió desde una perspectiva\npatriarcal y promueve\nel binarismo en los roles de género."
     },
     "ecb7": {
         "en-US": "[{0}]\nI'm...\nI'm so offended.",
         "pt-BR": "[{0}]\nEu...\nEu achei ridículo.",
-        "es-ES": "[{0}]\nYo…\nMe ofende."
+        "es-ES": "[{0}]\nYo...\nMe ofende."
     },
     "esb7": {
         "en-US": "[{0}]\nThis scroll is far too\nprimitive. There's been\nall sorts of technological\nreading advances that I can't\nlive without... Like pages.",
         "pt-BR": "[{0}]\nEsse pergaminho é muito\nprimitivo. Já existe\ntodo o tipo de avanços na\ntecnologia de leitura sem os quais\nnão posso ficar... Como páginas, por exemplo.",
-        "es-ES": "[{0}]\nEste pergamino es demasiado\nprimitivo. Hubo\ntodo tipo de avances\ntecnológicos de lectura sin los cuales\nahora no puedo vivir… Como las páginas."
+        "es-ES": "[{0}]\nEste pergamino es demasiado\nprimitivo. Hubo\ntodo tipo de avances\ntecnológicos de lectura sin los cuales\nahora no puedo vivir... Como las páginas."
     },
     "e8b7": {
         "en-US": "Bronze Statue",
@@ -1772,7 +1772,7 @@
     "gsb7": {
         "en-US": "[{0}]\nThis is creepy!\nI know that I'm not\nsupposed to be able\nto read this, but here\nI am. I know what sounds\nall of these letters make...",
         "pt-BR": "[{0}]\nQue coisa louca!\nEu sei que não\ndeveria conseguir\nler isso, mas aqui estou,\nlendo. Eu sei quais são os\nsons de todas essas letras...",
-        "es-ES": "[{0}]\n¡Esto es espeluznante!\nSé que no se supone\nque pueda\nleer esto, pero aquí\nestoy haciéndolo. Sé cómo suenan\ntodas estas letras…"
+        "es-ES": "[{0}]\n¡Esto es espeluznante!\nSé que no se supone\nque pueda\nleer esto, pero aquí\nestoy haciéndolo. Sé cómo suenan\ntodas estas letras..."
     },
     "g8b7": {
         "en-US": "[{0}]\nThen again, Fayruz did\nsay this was enchanted.\nOkay, I guess I'll go back\nto the Juno Library and\ntell her what I found.",

@@ -7,7 +7,7 @@
     "gc1oAw": {
         "en-US": "Is there no one heading out to the north...?",
         "pt-BR": "Alguém vai atravessar a fronteira...?",
-        "es-ES": "¿No hay nadie que se dirija al norte…?"
+        "es-ES": "¿No hay nadie que se dirija al norte...?"
     },
     "gs1oAw": {
         "en-US": "- Your inventory is too full to continue the quest. -\nPlease come back after you've cleared some space in your bag.",
@@ -67,12 +67,12 @@
     "jc1oAw": {
         "en-US": "[Skadi]\nGreetings.\nAre you by any chance... crossing the border today?\nI'm sorry, I just can't give up.",
         "pt-BR": "[Dona Alzira]\nOlá.\nVocê está indo para a fronteira?\nNão vou insistir se não for.",
-        "es-ES": "[Skadi]\nSaludos.\nPor casualidad… ¿cruzarás la frontera hoy?\nLo siento, no puedo rendirme."
+        "es-ES": "[Skadi]\nSaludos.\nPor casualidad... ¿cruzarás la frontera hoy?\nLo siento, no puedo rendirme."
     },
     "js1oAw": {
         "en-US": "[Skadi]\nI believe every mom in the world wants to cook for her child.\nIf she only had the time...",
         "pt-BR": "[Dona Alzira]\nMas meu coração ficaria tão mais feliz se uma pobre mãe como eu pudesse levar comida ao seu filho.\nSe não se importar, eu gostaria de pedir um favor...",
-        "es-ES": "[Skadi]\nCreo que todas las madres del mundo quieren cocinar para sus hijos.\nSi solo tuvieran tiempo…"
+        "es-ES": "[Skadi]\nCreo que todas las madres del mundo quieren cocinar para sus hijos.\nSi solo tuvieran tiempo..."
     },
     "j81oAw": {
         "en-US": "Okay, I'll give it to him.",
@@ -97,7 +97,7 @@
     "k81oAw": {
         "en-US": "[Skadi]\nOh, I didn't know you were busy...!\nPlease excuse me.\nI'm sorry.",
         "pt-BR": "[Dona Alzira]\nOh, tudo bem...!\nDesculpe te incomodar.\nPerdão.",
-        "es-ES": "[Skadi]\n¡Ah, no sabía que no tenías tiempo…!\nDiscúlpame, por favor.\nLo siento."
+        "es-ES": "[Skadi]\n¡Ah, no sabía que no tenías tiempo...!\nDiscúlpame, por favor.\nLo siento."
     },
     "lM1oAw": {
         "en-US": "[Skadi]\nMy son is at the ^4D4DFFCheckpoint ^000000guarding the border.\nGo all the way up through the north gate, and he'll be there.",
@@ -112,12 +112,12 @@
     "ls1oAw": {
         "en-US": "[Skadi]\nMy son is at the ^4D4DFFCheckpoint ^000000guarding the bor....\nWait, where is my food for my son?",
         "pt-BR": "[Dona Alzira]\nMeu filho trabalha na ^4D4DFFfronteira^000000...\nEi, cadê a marmita que eu fiz?",
-        "es-ES": "[Skadi]\nMi hijo está en el ^4D4DFFpunto de control ^000000custodiando la fronte…\nEspera, ¿dónde está la comida para mi hijo?"
+        "es-ES": "[Skadi]\nMi hijo está en el ^4D4DFFpunto de control ^000000custodiando la fronte...\nEspera, ¿dónde está la comida para mi hijo?"
     },
     "l81oAw": {
         "en-US": "Could you make some more...?",
         "pt-BR": "Você poderia fazer mais...?",
-        "es-ES": "¿Podrías hacer más…?"
+        "es-ES": "¿Podrías hacer más...?"
     },
     "mM1oAw": {
         "en-US": "I'm sorry!",
@@ -127,7 +127,7 @@
     "mc1oAw": {
         "en-US": "[Skadi]\n...Did you eat all of it?\nThis isn't good. The ingredients cost me 15,000 Zeny.....",
         "pt-BR": "[Dona Alzira]\n...Você comeu tudo?\nVou precisar de novos ingredientes, eles custam 15.000 Zeny.....",
-        "es-ES": "[Skadi]\n… ¿Te comiste todo?\nEsto no está bien. Los ingredientes me costaron 15 000 zeny…"
+        "es-ES": "[Skadi]\n... ¿Te comiste todo?\nEsto no está bien. Los ingredientes me costaron 15 000 zeny..."
     },
     "ms1oAw": {
         "en-US": "[Skadi]\n^4D4DFF 15,000 Zeny, ^000000please.",
@@ -182,7 +182,7 @@
     "pM1oAw": {
         "en-US": "[Checkpoint Guard]\nThat cloth....\nYou met my mother.\nShe always asks travelers to bring me some food.",
         "pt-BR": "[Guarda da Fronteira]\nEu conheço esse pano de prato....\nVocê conheceu minha mãe.\nDe vez em quando ela envia algum viajante.",
-        "es-ES": "[Guardia de control]\nEse paño…\nConociste a mi madre.\nSiempre les pide a los viajeros que me traigan comida."
+        "es-ES": "[Guardia de control]\nEse paño...\nConociste a mi madre.\nSiempre les pide a los viajeros que me traigan comida."
     },
     "pc1oAw": {
         "en-US": "Is that from your mother again?",
@@ -192,7 +192,7 @@
     "ps1oAw": {
         "en-US": "[Checkpoint Guard]\nIt's not like they don't feed me anything......\nThank you for coming all the way here to deliver this.",
         "pt-BR": "[Guarda da Fronteira]\nNão é como se os militares passassem fome...\nObrigado pela entrega.",
-        "es-ES": "[Guardia de control]\nNo es que no me den nada de comer…\nGracias por venir hasta aquí para entregarme esto."
+        "es-ES": "[Guardia de control]\nNo es que no me den nada de comer...\nGracias por venir hasta aquí para entregarme esto."
     },
     "p81oAw": {
         "en-US": "Oh, yeah. She sent me a lot again today.",
@@ -222,7 +222,7 @@
     "rM1oAw": {
         "en-US": "[Checkpoint Guard]\nWhat brings you here?\nIf you head north from here, you will see Schwartzwald.\nJust so you know where you're going...",
         "pt-BR": "[Guarda da Fronteira]\nAlgum problema?\nA República de Schwartzwald fica depois dessa fronteira.\nFaça uma boa viagem...",
-        "es-ES": "[Guardia de control]\n¿Qué te trae por aquí?\nSi te diriges al norte desde aquí, verás Schwarzwald.\nSolo para que sepas adónde vas…"
+        "es-ES": "[Guardia de control]\n¿Qué te trae por aquí?\nSi te diriges al norte desde aquí, verás Schwarzwald.\nSolo para que sepas adónde vas..."
     },
     "rc1oAw": {
         "en-US": "(The food Skadi gave you is missing.\nShould you go back and ask for another bundle?)",
@@ -252,7 +252,7 @@
     "ss1oAw": {
         "en-US": "[Cesare]\nYou've taken a great load off my mind.\nGeographers spawn north and northwest of here in Schwartzwald field.\nIt's quite a common flower...",
         "pt-BR": "[César]\nReconheço sua ajuda, agora posso descansar.\nPlantas Carnívoras são monstros que aparecem muito nessa região.\nParecem flores inocentes...",
-        "es-ES": "[Cesare]\nMe quitaste un gran peso de encima.\nLos Geógrafos aparecen al norte y noroeste de aquí, en el campo de Schwarzwald.\nEs una flor bastante común…"
+        "es-ES": "[Cesare]\nMe quitaste un gran peso de encima.\nLos Geógrafos aparecen al norte y noroeste de aquí, en el campo de Schwarzwald.\nEs una flor bastante común..."
     },
     "s81oAw": {
         "en-US": "[Cesare]\nNo, the word 'flower' isn't right.\nAnyways, they stay still just like flowers, but bite at people's ankles whenever you're near them.",
@@ -322,7 +322,7 @@
     "wM1oAw": {
         "en-US": "[Cesare]\nI guess this area will stay quiet for awhile.\nThat'll mean fewer complaints from the passengers.\n...I don't have any items to give, but I can reward you in another way.",
         "pt-BR": "[César]\nEsses monstros ficarão quietos por um dia.\nVamos ter menos reclamações dos viajantes.\n...não há recompensa melhor que essa.",
-        "es-ES": "[Cesare]\nSupongo que esta zona permanecerá tranquila durante un tiempo.\nEso significará menos quejas de los transeúntes.\n… No tengo objetos para darte, pero puedo recompensarte de otra manera."
+        "es-ES": "[Cesare]\nSupongo que esta zona permanecerá tranquila durante un tiempo.\nEso significará menos quejas de los transeúntes.\n... No tengo objetos para darte, pero puedo recompensarte de otra manera."
     },
     "wc1oAw": {
         "en-US": "[Cesare]\nSafe travels.",
@@ -332,7 +332,7 @@
     "ws1oAw": {
         "en-US": "[Cesare]\nComplaints were recently submitted from parents of students in Kiel Hyre Academy and traveling merchants\nabout the inconveniences people experience on the road...",
         "pt-BR": "[César]\nEu recebo muitas reclamações.\nDe mercadores a pais que vão deixar seus filhos na Academia Kiel Hyre...",
-        "es-ES": "[Cesare]\nHace poco, recibimos quejas de padres de estudiantes de la Academia Kiel Hyre y de comerciantes ambulantes\nsobre los inconvenientes que tiene la gente en el camino…"
+        "es-ES": "[Cesare]\nHace poco, recibimos quejas de padres de estudiantes de la Academia Kiel Hyre y de comerciantes ambulantes\nsobre los inconvenientes que tiene la gente en el camino..."
     },
     "w81oAw": {
         "en-US": "[Cesare]\nAs you can see, this is a place of tranquility with no national border conflicts.\nMeaning, there is no need for guards here. That's why there are only two of us.",
@@ -352,12 +352,12 @@
     "xs1oAw": {
         "en-US": "Oh-! Adventurer, can you help me?",
         "pt-BR": "Ei, viajante, você aceita mais um favor?",
-        "es-ES": "¡Ah…! Trotamundos, ¿puedes ayudarme?"
+        "es-ES": "¡Ah...! Trotamundos, ¿puedes ayudarme?"
     },
     "x81oAw": {
         "en-US": "[Cesare]\nHmm... hey, I wouldn't go that way if I were you.",
         "pt-BR": "[César]\nHmm...Eu gostaria que você evitasse vir aqui.",
-        "es-ES": "[Cesare]\nMmm… Oye, en tu lugar, no iría por ahí."
+        "es-ES": "[Cesare]\nMmm... Oye, en tu lugar, no iría por ahí."
     },
     "yM1oAw": {
         "en-US": "[Cesare]\nPlease don't go beyond here.\nIf you go farther north, you will face enemies that you can't handle.",
@@ -437,12 +437,12 @@
     "181oAw": {
         "en-US": "[Little Girl]\n...Ah... What a letdown.\nHow much longer must I wait...?",
         "pt-BR": "[Aluna]\n...Ah... que tristeza.\nComo vou dormir agora...",
-        "es-ES": "[Niñita]\nAh… Qué decepción.\n¿Cuánto más tendré que esperar…?"
+        "es-ES": "[Niñita]\nAh... Qué decepción.\n¿Cuánto más tendré que esperar...?"
     },
     "2M1oAw": {
         "en-US": "[Little Girl]\nUmm... Me?\nI'm a student from Kiel Hyre Academy.",
         "pt-BR": "[Aluna]\nHmm... eu?\nSou uma estudante da Academia Kiel Hyre.",
-        "es-ES": "[Niñita]\nMmm… ¿Yo?\nSoy una estudiante de la Academia Kiel Hyre."
+        "es-ES": "[Niñita]\nMmm... ¿Yo?\nSoy una estudiante de la Academia Kiel Hyre."
     },
     "2c1oAw": {
         "en-US": "[Little Girl]\nUh, I normally stay in because we all live in a dormitory,\nbut I came out looking for something.",
@@ -457,7 +457,7 @@
     "281oAw": {
         "en-US": "[Little Girl]\nAnyone who can do the same work as Manager Cesare can, will do for me.\nI can't ask him because he's busy...",
         "pt-BR": "[Aluna]\nÉ algo supérfulo, então eu não vou pedir para os Guardas da Fronteira aqui.\nO Capitão César iria brigar comigo...",
-        "es-ES": "[Niñita]\nCualquiera que pueda hacer el mismo trabajo que el administrador Cesare me sirve.\nNo puedo pedírselo a él porque está ocupado…"
+        "es-ES": "[Niñita]\nCualquiera que pueda hacer el mismo trabajo que el administrador Cesare me sirve.\nNo puedo pedírselo a él porque está ocupado..."
     },
     "3M1oAw": {
         "en-US": "[Little Girl]\nWell, somebody will come one day.",
@@ -522,7 +522,7 @@
     "6M1oAw": {
         "en-US": "[Guard]\nEhh... Einbech.\nYou should be able to reach it if you continue west...\nbut I'm not entirely sure.",
         "pt-BR": "[Guarda]\nAh... Einbech.\nEm termos de direção, se você for para o oeste a partir daqui...\nNão tenho certeza exatamente.",
-        "es-ES": "[Guardia]\nEhh… Einbech.\nDeberías poder llegar si continúas hacia el oeste…\npero no te lo puedo asegurar."
+        "es-ES": "[Guardia]\nEhh... Einbech.\nDeberías poder llegar si continúas hacia el oeste...\npero no te lo puedo asegurar."
     },
     "6c1oAw": {
         "en-US": "Hey, you scared me. Don't talk to me like that.",
@@ -542,7 +542,7 @@
     "7M1oAw": {
         "en-US": "[Little Girl]\nI knew it, this is it!\nThey are better than I'd imagined.\nThat fluffy texture....\nand light feathers...!",
         "pt-BR": "[Aluna]\nÉ isso!\nÉ melhor do que eu pensava.\nUm toque tão fofo....\nTão macio...!",
-        "es-ES": "[Niñita]\n¡Lo sabía, es esto!\nSon mejores de lo que imaginaba.\n¡Esa textura esponjosa…\ny las plumas livianas…!"
+        "es-ES": "[Niñita]\n¡Lo sabía, es esto!\nSon mejores de lo que imaginaba.\n¡Esa textura esponjosa...\ny las plumas livianas...!"
     },
     "7c1oAw": {
         "en-US": "[Little Girl]\nI better turn them into my new blankets and pillows!\nThat was worth waiting for!\nThank you so much!",
@@ -552,7 +552,7 @@
     "7s1oAw": {
         "en-US": "That... that's it! You human! Wait for meow!",
         "pt-BR": "Ei... aqui! Ei, ô! Olha pra mim!",
-        "es-ES": "Eso… ¡Eso es! ¡Tú, ser humano! ¡Espérame, miau!"
+        "es-ES": "Eso... ¡Eso es! ¡Tú, ser humano! ¡Espérame, miau!"
     },
     "781oAw": {
         "en-US": "[Little Girl]\nYou have to get at least 5 Antelope Skins and PecoPeco Feathers.\nSo I can make my new blankets and pillows.",
@@ -592,7 +592,7 @@
     "9s1oAw": {
         "en-US": "[Little Girl]\nIf you don't want to, it's fine...\nI can ask other adventurers or guards here to do it for me.",
         "pt-BR": "[Aluna]\nFazer o quê~\nNão dá para pedir para os Guardas da Academia.",
-        "es-ES": "[Niñita]\nSi no quieres, no pasa nada…\nPuedo pedirles a otros trotamundos o guardias de aquí que lo hagan por mí."
+        "es-ES": "[Niñita]\nSi no quieres, no pasa nada...\nPuedo pedirles a otros trotamundos o guardias de aquí que lo hagan por mí."
     },
     "981oAw": {
         "en-US": "[Little Girl]\nPlease kill 20 ^4D4DFFGoats and Grand PecoPecos each^000000.\nGrand PecoPecos live around the Academy,",
@@ -607,7 +607,7 @@
     "+c1oAw": {
         "en-US": "[Little Girl]\nExcellent work.\nMaybe I should've quit my studies and learned how to fight like you, adventurer.\nThat sounds like a better future for me...",
         "pt-BR": "[Aluna]\nComo esperado, você é incrível.\nAcho que eu deveria sair da escola e ser viajante como você.\nNão é uma má ideia...",
-        "es-ES": "[Niñita]\nExcelente trabajo.\nQuizá debí dejar mis estudios y aprender a luchar como tú, trotamundos.\nEso parece un mejor futuro para mí…"
+        "es-ES": "[Niñita]\nExcelente trabajo.\nQuizá debí dejar mis estudios y aprender a luchar como tú, trotamundos.\nEso parece un mejor futuro para mí..."
     },
     "+s1oAw": {
         "en-US": "[Little Girl]\nAnyways, thanks for hunting down the Grand PecoPecos.\nI won't have to stress about their screams from now on, will I?\nI'm sure I'll sleep well tonight.",
@@ -662,7 +662,7 @@
     "BM5oAw": {
         "en-US": "[Cat Paw Merchant]\nMeow, meow...\nToday is the same routine.\nCan you get meow 10 ^4D4DFFAntelope Skins and PecoPeco Feathers?^000000",
         "pt-BR": "[Ambulante]\nMiau~\nEntão, vamos à caçada!\n^4D4DFFColete 10 Peles de Bode e 10 Penas de Grand Peco^000000 e traga para mim.",
-        "es-ES": "[Comerc. de Pata de Gato]\nMiau, miau…\nHoy es la misma rutina.\n¿Puedes conseguirme ^4D4DFF10 Pieles de Cabra y 10 Plumas de Gran Peco?^000000"
+        "es-ES": "[Comerc. de Pata de Gato]\nMiau, miau...\nHoy es la misma rutina.\n¿Puedes conseguirme ^4D4DFF10 Pieles de Cabra y 10 Plumas de Gran Peco?^000000"
     },
     "Bc5oAw": {
         "en-US": "[Cat Paw Merchant]\nThe feathers will be used to craft fishing rods.\nMeow.\nI'll wait for you here, then!",
@@ -672,7 +672,7 @@
     "Bs5oAw": {
         "en-US": "[Cat Paw Merchant]\nUh... is that so?\nOh well.\nOkay, I understand.\n...Meow...",
         "pt-BR": "[Ambulante]\nAw... tá bom.\nNão posso fazer nada.\nApenas compreender.\n..Miau..",
-        "es-ES": "[Comerc. de Pata de Gato]\nEh… ¿De verdad?\nAh, bueno.\nDe acuerdo, lo entiendo.\nMiau…"
+        "es-ES": "[Comerc. de Pata de Gato]\nEh... ¿De verdad?\nAh, bueno.\nDe acuerdo, lo entiendo.\nMiau..."
     },
     "B85oAw": {
         "en-US": "[Cat Paw Merchant]\nWoooooow!\nThanks for bringing these to meow!\nTerrific!\nI'm so happy!",
@@ -682,7 +682,7 @@
     "CM5oAw": {
         "en-US": "[Cat Paw Merchant]\nI will make fishing rods and mats...!\nThank you so much!\nYou are a kind human!",
         "pt-BR": "[Ambulante]\nVou fazer vara para pescar peixes deliciosos~ Miau miau...!\nMuito obrigado!\nVocê é úm bom ser humano!",
-        "es-ES": "[Comerc. de Pata de Gato]\n¡Haré cañas de pescar y felpudos…!\n¡Muchísimas gracias!\n¡Eres un ser humano amable!"
+        "es-ES": "[Comerc. de Pata de Gato]\n¡Haré cañas de pescar y felpudos...!\n¡Muchísimas gracias!\n¡Eres un ser humano amable!"
     },
     "Cc5oAw": {
         "en-US": "[Cat Paw Merchant]\nYour targets are around here.\nCan you get meow 10 ^4D4DFFAntelope Skins and PecoPeco Feathers?^000000",
@@ -772,7 +772,7 @@
     "Gs5oAw": {
         "en-US": "[Academy Guard]\nAh... I see.\nWe'll take care of this matter on our own, then.",
         "pt-BR": "[Guarda da Academia]\nAh... entendo.\nDeixe que os seguranças da Academia cuidem disso.",
-        "es-ES": "[Guardia de la Academia]\nAh… Ya veo.\nNos ocuparemos de este asunto por nuestra cuenta, entonces."
+        "es-ES": "[Guardia de la Academia]\nAh... Ya veo.\nNos ocuparemos de este asunto por nuestra cuenta, entonces."
     },
     "G85oAw": {
         "en-US": "[Academy Guard]\nYou're back.\nYou've done well.\nI hope the road is clear for some time.",
@@ -842,7 +842,7 @@
     "KM5oAw": {
         "en-US": "[Cerdin]\nAs for what's so surprising about the moving books...\nHave you ever heard the story of ^4D4DFFThanatos Tower^000000?",
         "pt-BR": "[Serdin]\nUm livro com vida própria é muito estranho.\nJá ouviu falar da ^4D4DFFTorre de Thanatos^000000?",
-        "es-ES": "[Cerdin]\nEn cuanto a lo sorprendente de los libros en movimiento…\n¿Alguna vez oíste la historia de la ^4D4DFFTorre de Thanatos^000000?"
+        "es-ES": "[Cerdin]\nEn cuanto a lo sorprendente de los libros en movimiento...\n¿Alguna vez oíste la historia de la ^4D4DFFTorre de Thanatos^000000?"
     },
     "Kc5oAw": {
         "en-US": "[Cerdin]\nThe clock tower here is nothing compared to the Thanatos Tower.\nThanatos Tower itself is a huge maze.",
@@ -912,12 +912,12 @@
     "Ns5oAw": {
         "en-US": "[Cerdin]\nI say this clock tower\nneeds some cleaning.\nI don't know whether it's from a curse or magic,",
         "pt-BR": "[Serdin]\nAi, ai, Torre do Relógio.\nTenho que te limpar.\nSabe, eu não sei se eu estou sofrendo de algum tipo de maldição.",
-        "es-ES": "[Cerdin]\nYo digo que esta torre del reloj\nnecesita una limpieza.\nNo sé si es por una maldición o por la magia…"
+        "es-ES": "[Cerdin]\nYo digo que esta torre del reloj\nnecesita una limpieza.\nNo sé si es por una maldición o por la magia..."
     },
     "N85oAw": {
         "en-US": "[Cerdin]\nbut all the books we brought from a bibliophile for our antique design came to life...\nLiterally, all the books and even dust...are moving on their own.",
         "pt-BR": "[Serdin]\nTodos os livros que eu organizei na estante da Torre criaram vida...\nAté a poeira que eu espanei criou vida, acredita?",
-        "es-ES": "[Cerdin]\n… pero todos los libros que trajimos de un bibliófilo para nuestro diseño antiguo cobraron vida…\nLiteralmente, todos los libros e incluso el polvo… se mueven solos."
+        "es-ES": "[Cerdin]\n... pero todos los libros que trajimos de un bibliófilo para nuestro diseño antiguo cobraron vida...\nLiteralmente, todos los libros e incluso el polvo... se mueven solos."
     },
     "OM5oAw": {
         "en-US": "[Cerdin]\nHey you, can you help me clean up all the books and dust in the tower?\nThey are called ^4D4DFFRidewords^000000 and ^4D4DFFPunks^000000.",
@@ -942,7 +942,7 @@
     "PM5oAw": {
         "en-US": "[Cerdin]\nAll clocks are beautiful.\n...Well, maybe not alarms.",
         "pt-BR": "[Serdin]\nTodos esses Relógios são lindos.\n...diferente dos Alarmes.",
-        "es-ES": "[Cerdin]\nTodos los relojes son preciosos.\n… Bueno, quizás las alarmas no."
+        "es-ES": "[Cerdin]\nTodos los relojes son preciosos.\n... Bueno, quizás las alarmas no."
     },
     "Pc5oAw": {
         "en-US": "[Cerdin]\nCome back again tomorrow if you can.\nDon't let that skill go to waste. You got that?",
@@ -1012,7 +1012,7 @@
     "Ss5oAw": {
         "en-US": "[Cerdin]\nBut the Alarms at Al De Baran's clock tower are different.\nThey look like they will trample you to death if you don't wake up....",
         "pt-BR": "[Serdin]\nMas os Alarmes da torre são diferenciados.\nSe você não acordar, eles vão pisar em você....",
-        "es-ES": "[Cerdin]\nPero las Alarmas de la torre del reloj de Aldebaran son diferentes.\nParece que te van a pisotear hasta la muerte si no despiertas…"
+        "es-ES": "[Cerdin]\nPero las Alarmas de la torre del reloj de Aldebaran son diferentes.\nParece que te van a pisotear hasta la muerte si no despiertas..."
     },
     "S85oAw": {
         "en-US": "[Cerdin]\nThey are surely a big problem to all of us.\nI want you to destroy those ^4D4DFFAlarms^000000 for me.",
@@ -1047,7 +1047,7 @@
     "Uc5oAw": {
         "en-US": "[Cerdin]\nI wonder what was down here in the past.\nOrcs, or Witches...",
         "pt-BR": "[Serdin]\nMe pergunto sobre o que acontece nos subsolos da torre.\nLá tem Orcs, bruxas...",
-        "es-ES": "[Cerdin]\nMe pregunto qué había aquí abajo en el pasado.\nOrcos o Brujas…"
+        "es-ES": "[Cerdin]\nMe pregunto qué había aquí abajo en el pasado.\nOrcos o Brujas..."
     },
     "Us5oAw": {
         "en-US": "[Cerdin]\nCome to think of it, isn't there a huge underground dungeon at Geffen, too?\nI don't understand why cities were built right above these dungeons.",
@@ -1072,7 +1072,7 @@
     "Vs5oAw": {
         "en-US": "[Cerdin]\nI wonder why this clock tower, or rather this city, was built on top of the dungeon...\nOr could it be the other way around?",
         "pt-BR": "[Serdin]\nTanto a Torre quanto essa cidade foram construídas em cima dessa caverna...\nQuem faria isso?",
-        "es-ES": "[Cerdin]\nMe pregunto por qué esta torre del reloj, o más bien esta ciudad, se construyó encima de la mazmorra…\n¿O podría ser al revés?"
+        "es-ES": "[Cerdin]\nMe pregunto por qué esta torre del reloj, o más bien esta ciudad, se construyó encima de la mazmorra...\n¿O podría ser al revés?"
     },
     "V85oAw": {
         "en-US": "[Cerdin]\nWhichever it is, I keep hearing hideous laughter down below.\nAnd I want you to put an end to it.",

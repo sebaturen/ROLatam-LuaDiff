@@ -67,7 +67,7 @@
     "rU4ECA": {
         "en-US": "[Vigilante Azenya]\nPort Lasagna is thaaa----at way.\nDon't tell me you're dawdling here because you don't know that, do you?",
         "pt-BR": "[Alegna]\nO porto de Lasagna é logo ali!\nVocê sabe chegar lá, certo?",
-        "es-ES": "[Justiciero Azenya]\nEl puerto de Lasagna esta pooor… allí.\nNo me digas que estás perdiendo el tiempo aquí porque no lo sabes."
+        "es-ES": "[Justiciero Azenya]\nEl puerto de Lasagna esta pooor... allí.\nNo me digas que estás perdiendo el tiempo aquí porque no lo sabes."
     },
     "rk4ECA": {
         "en-US": "[Vigilante Azenya]\nEh? I don't think you're from Far-Star!\nAh, you're from the new continent, right?",
@@ -217,7 +217,7 @@
     "y04ECA": {
         "en-US": "[Vigilante Aglio]\nHow was it? Cool, sweet, and delicious, right?\nI'd give you some more cool juice, but I don't have it anymore...",
         "pt-BR": "[Aglio]\nO que achou? Doce, refrescante, delicioso... Uma maravilha, né?\nEu até poderia te dar mais suco, mas infelizmente acabou...",
-        "es-ES": "[Justiciero Aglio]\n¿Cómo estuvo? Fresco, dulce y delicioso, ¿verdad?\nTe daría más jugo fresco, pero no tengo más…"
+        "es-ES": "[Justiciero Aglio]\n¿Cómo estuvo? Fresco, dulce y delicioso, ¿verdad?\nTe daría más jugo fresco, pero no tengo más..."
     },
     "zE4ECA": {
         "en-US": "[Vigilante Aglio]\nAh, right. Take these.\nIt restores your HP, so drink it when you're tired!",
@@ -232,12 +232,12 @@
     "zk4ECA": {
         "en-US": "[Vigilante Aglio]\nI can take you to the village...",
         "pt-BR": "[Aglio]\nVou te levar até o vilarejo...",
-        "es-ES": "[Justiciero Aglio]\nPuedo llevarte a la aldea…"
+        "es-ES": "[Justiciero Aglio]\nPuedo llevarte a la aldea..."
     },
     "z04ECA": {
         "en-US": "A...Agliooooooo!!!!",
         "pt-BR": "Ah... Aglio!",
-        "es-ES": "¡¡¡A… Agliooooooo!!!"
+        "es-ES": "¡¡¡A... Agliooooooo!!!"
     },
     "0E4ECA": {
         "en-US": "Waaah! Geez!",
@@ -282,7 +282,7 @@
     "2E4ECA": {
         "en-US": "[Tool Shop Boy]\nWhat... But I'm the cute baby of Lasagna!\nAnyway, please find the box for me, sir!",
         "pt-BR": "[Doppio]\nTudo bem! Tudo bem! Só me ajude... Por favor!",
-        "es-ES": "[Chico de la Tienda]\n¿Qué…? ¡Pero soy el bebé adorable de Lasagna!\nEn fin, por favor, encuentre la caja por mí, señor."
+        "es-ES": "[Chico de la Tienda]\n¿Qué...? ¡Pero soy el bebé adorable de Lasagna!\nEn fin, por favor, encuentre la caja por mí, señor."
     },
     "2U4ECA": {
         "en-US": "You know I love you, right?!",
@@ -297,7 +297,7 @@
     "204ECA": {
         "en-US": "[Vigilante Aglio]\n......\n.........*Sigh*...",
         "pt-BR": "[Aglio]\nHunf...",
-        "es-ES": "[Justiciero Aglio]\n......\n*Suspira*…"
+        "es-ES": "[Justiciero Aglio]\n......\n*Suspira*..."
     },
     "3E4ECA": {
         "en-US": "[Vigilante Aglio]\nCan't be helped, I guess.\n{0}, what do you think?\nHow about you go take care of this?",
@@ -612,7 +612,7 @@
     "Gk8ECA": {
         "en-US": "Meow-- Look here, meow--",
         "pt-BR": "Ei! Olhe pra mim!",
-        "es-ES": "Miau… Mira aquí, miau…"
+        "es-ES": "Miau... Mira aquí, miau..."
     },
     "G08ECA": {
         "en-US": "*Purrs*",
@@ -632,17 +632,17 @@
     "Hk8ECA": {
         "en-US": "[Sluggy]\nI have to pluck all the red plants in this herb field, meow...",
         "pt-BR": "[Buccelatti]\nPreciso de umas Plantas Vermelhas...",
-        "es-ES": "[Sluggy]\nTengo que arrancar todas las Plantas rojas de este campo de hierbas, miau…"
+        "es-ES": "[Sluggy]\nTengo que arrancar todas las Plantas rojas de este campo de hierbas, miau..."
     },
     "H08ECA": {
         "en-US": "[Sluggy]\nWarm sunshine... Full belly...\nGentle breeze...",
         "pt-BR": "[Buccelatti]\nMas com esse solzinho... Esse ventinho...\nE o meu buchinho cheio...",
-        "es-ES": "[Sluggy]\nSol cálido… Barriga llena…\nBrisa suave…"
+        "es-ES": "[Sluggy]\nSol cálido... Barriga llena...\nBrisa suave..."
     },
     "IE8ECA": {
         "en-US": "[Sluggy]\nI can never get up, meow...\nI have to pluck the red plants, meow...\n.........How about anchovy in return, meow?",
         "pt-BR": "[Buccelatti]\nNossa, não dá pra sair daqui, não...\nMas as Plantas Vermelhas...",
-        "es-ES": "[Sluggy]\nNunca podré levantarme, miau…\nTengo que arrancar las Plantas rojas, miau…\n¿Qué tal unas anchoas a cambio, miau?"
+        "es-ES": "[Sluggy]\nNunca podré levantarme, miau...\nTengo que arrancar las Plantas rojas, miau...\n¿Qué tal unas anchoas a cambio, miau?"
     },
     "IU8ECA": {
         "en-US": "I'll pluck the plants for you.",
@@ -667,12 +667,12 @@
     "JU8ECA": {
         "en-US": "[Sluggy]\nI'll be here taking my time, just digesting what I ate, meow--",
         "pt-BR": "[Buccelatti]\nEnfim, pode ir agora. Vou tirar uma sonequinha...",
-        "es-ES": "[Sluggy]\nEstaré aquí tomiáundome mi tiempo, digiriendo lo que comí…"
+        "es-ES": "[Sluggy]\nEstaré aquí tomiáundome mi tiempo, digiriendo lo que comí..."
     },
     "Jk8ECA": {
         "en-US": "[Sluggy]\nMeowaaa...\n...Meowaaaaaaa...",
         "pt-BR": "[Buccelatti]\nMiau...\n...Miaaaaaau...",
-        "es-ES": "[Sluggy]\nMiauaaa…\n…Miauaaaaa…"
+        "es-ES": "[Sluggy]\nMiauaaa...\n...Miauaaaaa..."
     },
     "J08ECA": {
         "en-US": "[Sluggy]\nI don't need too much, meow.\nJust^4D4DFFget rid of 3 Red Plants and collect 2 Red Herbs^000000 around here for me, meow.",
@@ -682,7 +682,7 @@
     "KE8ECA": {
         "en-US": "[Sluggy]\nThey just grow back, no matter how many times I pluck them... I'm tired of it, meow...",
         "pt-BR": "[Buccelatti]\nEles simplesmente crescem de novo, não importa quantas vezes eu os arranque... Estou cansado disso, miau...",
-        "es-ES": "[Sluggy]\nVuelven a crecer, no importa cuántas veces las arranque… Me cansaron, miau…"
+        "es-ES": "[Sluggy]\nVuelven a crecer, no importa cuántas veces las arranque... Me cansaron, miau..."
     },
     "KU8ECA": {
         "en-US": "[Sluggy]\nAaah, the scent!\nYou got Red Herbs, meow! Meow!",
@@ -712,12 +712,12 @@
     "Lk8ECA": {
         "en-US": "[Sluggy]\nFeeling... drowsy... meow...",
         "pt-BR": "[Buccelatti]\nTããão cansado...",
-        "es-ES": "[Sluggy]\nSiento… somnoliencia… miau…"
+        "es-ES": "[Sluggy]\nSiento... somnoliencia... miau..."
     },
     "L08ECA": {
         "en-US": "[Kid]\nWhat's taking so long...\nArgh...",
         "pt-BR": "[Doppio]\nHmmm...",
-        "es-ES": "[Niño]\nPor qué tardas tanto…\nAy…"
+        "es-ES": "[Niño]\nPor qué tardas tanto...\nAy..."
     },
     "ME8ECA": {
         "en-US": "Is something wrong?",
@@ -797,7 +797,7 @@
     "P08ECA": {
         "en-US": "[Kid]\nWell... Seeing that you're empty-handed, I guess not...\nOoh... Aglio... My box...",
         "pt-BR": "[Doppio]\nHum, aparentemente não...",
-        "es-ES": "[Niño]\nBueno… Viendo que tienes las manos vacías, supongo que no…\nOh… Aglio… Mi caja…"
+        "es-ES": "[Niño]\nBueno... Viendo que tienes las manos vacías, supongo que no...\nOh... Aglio... Mi caja..."
     },
     "QE8ECA": {
         "en-US": "[Tool Merchant]\nLooks like you're here to explore the new continent, too, eh?\nI see that my son troubled you.\nThanks for your help.",
@@ -907,7 +907,7 @@
     "VU8ECA": {
         "en-US": "[Healer Haru]\nI have... No, I don't have any Red Herbs left.\nI think you should gather some yourself.",
         "pt-BR": "[Curandeiro Canoli]\nErvas Vermelhas... Infelizmente eu não tenho nenhuma sobrando aqui.\nVocê terá que me trazer algumas.",
-        "es-ES": "[Sanador Haru]\nSolo tengo… No, no me quedan Hierbas rojas.\nCreo que tendrás que recolectar algunas."
+        "es-ES": "[Sanador Haru]\nSolo tengo... No, no me quedan Hierbas rojas.\nCreo que tendrás que recolectar algunas."
     },
     "Vk8ECA": {
         "en-US": "[Healer Haru]\nHerbs grow near the entrance of the village. Have you seen them?\n^4D4DFFCollect 1 Red Herb from the village entrance^000000 for practice.",
@@ -952,7 +952,7 @@
     "Xk8ECA": {
         "en-US": "[Healer Haru]\nOh my...\nAre you in a lot of pain?\nYou have to pay 5,000z for full restoration. Do you want me to heal you?",
         "pt-BR": "[Curandeiro Canoli]\nMinha nossa, em que briga de foice você se meteu?\nPosso curar você por completo por 5.000 zeny. Tudo bem?",
-        "es-ES": "[Sanador Haru]\nVaya…\n¿Te duele mucho?\nTienes que pagar 5000 zeny por una restauración completa. ¿Quieres que te cure?"
+        "es-ES": "[Sanador Haru]\nVaya...\n¿Te duele mucho?\nTienes que pagar 5000 zeny por una restauración completa. ¿Quieres que te cure?"
     },
     "X08ECA": {
         "en-US": "Yes.",
@@ -1047,7 +1047,7 @@
     "cU8ECA": {
         "en-US": "[Healer Haru]\nAnd the other herbs\nrestore HP, just like this red one.\nIf you squeeze this herb and bottle the juice...",
         "pt-BR": "[Curandeiro Canoli]\nA Erva Vermelha é capaz de recuperar seu HP.\nSe você extrair um pouco de sua essência e colocar em uma garrafa...",
-        "es-ES": "[Sanador Haru]\nY las otras hierbas\nrestauran HP, al igual que esta roja.\nSi exprimes esta hierba y embotellas el líquido…"
+        "es-ES": "[Sanador Haru]\nY las otras hierbas\nrestauran HP, al igual que esta roja.\nSi exprimes esta hierba y embotellas el líquido..."
     },
     "ck8ECA": {
         "en-US": "[Healer Haru]\nit becomes a potion that you can drink anytime anywhere!\nHere, you can have it.",
@@ -1217,7 +1217,7 @@
     "k08ECA": {
         "en-US": "[Hypnotist]\nLook at the hair on this big one...\nPoor thing.",
         "pt-BR": "[Hipnotizador]\nOlha os pelos desse grandão...\nCoitadinho.",
-        "es-ES": "[Hipnotizador]\nMira el cabello que tiene…\n¡Pobre!"
+        "es-ES": "[Hipnotizador]\nMira el cabello que tiene...\n¡Pobre!"
     },
     "lE8ECA": {
         "en-US": "Cat Paw Service",
@@ -1777,7 +1777,7 @@
     "A1AECA": {
         "en-US": "[Vigilante Penne]\nHumans look so strange.\nBig cats without fur...?",
         "pt-BR": "[Penne]\nHumanos são muito engraçados...\nEles são tipo gatos, só que sem pelos...?",
-        "es-ES": "[Justiciero Macarrón]\nLos humanos se ven tan extraños.\nSon como gatos grandes y sin pelo…"
+        "es-ES": "[Justiciero Macarrón]\nLos humanos se ven tan extraños.\nSon como gatos grandes y sin pelo..."
     },
     "BFAECA": {
         "en-US": "[Vigilante Penne]\nMe? I'm a member of the Parfaille Vigilantes of the great Far-Star Continent!",
@@ -1807,7 +1807,7 @@
     "CVAECA": {
         "en-US": "[Vigilante Penne]\nWell, we thought Far-Star was the only continent in the world at first...\nThe world is vast. Very vast indeed...",
         "pt-BR": "[Penne]\nMas não te repreendo por pensar assim...\nA gente também achava que o nosso continente era o único!",
-        "es-ES": "[Justiciero Macarrón]\nBueno, al principio, pensábamos que Far-Star era el único continente del mundo…\nEl mundo es vasto. Muy vasto de hecho…"
+        "es-ES": "[Justiciero Macarrón]\nBueno, al principio, pensábamos que Far-Star era el único continente del mundo...\nEl mundo es vasto. Muy vasto de hecho..."
     },
     "ClAECA": {
         "en-US": "[Vigilante Penne]\nYeah. You see this ribbon? It goes so well with the cool uniform, isn't it?\n(Shows the underside of her neck.)",
@@ -1822,12 +1822,12 @@
     "DFAECA": {
         "en-US": "[Vigilante Penne]\nPeperocino is our leader. He is so cool...\nWe take care of pretty much everything. Dealing with delinquents at the port, maintaining village security, et cetera, et cetera.",
         "pt-BR": "[Penne]\nNosso chefe, Peperocino, é incrível...\nNós começamos com trabalhos simples, mas hoje em dia manter a paz em Lasagna é uma das nossas maiores responsabilidades.",
-        "es-ES": "[Justiciero Macarrón]\nPeperoncino es nuestro líder. Él es tan genial…\nNos ocupamos de casi todo. Lidiamos con los delincuentes del puerto, mantenemos la seguridad de la aldea, etcétera, etcétera."
+        "es-ES": "[Justiciero Macarrón]\nPeperoncino es nuestro líder. Él es tan genial...\nNos ocupamos de casi todo. Lidiamos con los delincuentes del puerto, mantenemos la seguridad de la aldea, etcétera, etcétera."
     },
     "DVAECA": {
         "en-US": "[Vigilante Penne]\nAnd if you want to come to Mid... Midraga...? Bah! In this land,\nyou must earn the acknowledgement of the Parfaille Vigilantes, and...",
         "pt-BR": "[Penne]\nViemos aqui para Rune-Mitig... Rune-Mendig... (Ah, sei lá como fala...)\npara que as pessoas conheçam os Farfelle e...",
-        "es-ES": "[Justiciero Macarrón]\nY si quieres venir a Mid… ¿Midraga…? ¡Bah! En esta tierra,\ndebes ganarte el reconocimiento de los justicieros de Farfalle, y…"
+        "es-ES": "[Justiciero Macarrón]\nY si quieres venir a Mid... ¿Midraga...? ¡Bah! En esta tierra,\ndebes ganarte el reconocimiento de los justicieros de Farfalle, y..."
     },
     "DlAECA": {
         "en-US": "The proud cat drags on and on.",
@@ -1857,7 +1857,7 @@
     "E1AECA": {
         "en-US": "[Vigilante Penne]\nWe provide the opportunity to at least visit Lasagna to Humans like you.\nThis Mid...Midgarr? Anyway, we Dorams will conquer this continent soon!",
         "pt-BR": "[Penne]\nVocê deveria visitar lá. Talvez a gente até consiga um trabalho pra você...\nTipo limpar as anchovas do nosso almoço, sei lá. Hahahaha!",
-        "es-ES": "[Justiciero Macarrón]\nA los humanos como tú les brindamos la oportunidad de visitar Lasagna al menos.\n¿Este Mid… Midgarr? Como sea, ¡los doram pronto conquistaremos este continente!"
+        "es-ES": "[Justiciero Macarrón]\nA los humanos como tú les brindamos la oportunidad de visitar Lasagna al menos.\n¿Este Mid... Midgarr? Como sea, ¡los doram pronto conquistaremos este continente!"
     },
     "FFAECA": {
         "en-US": "[Vigilante Penne]\nDon't worry. If you win our favor, we'll give you the job of cleaning anchovies somewhere in Lasagna!",

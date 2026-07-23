@@ -6082,7 +6082,7 @@ StateIconList_string = {
 	[EFST_IDs.EFST_FLOWER_LEAF3] = {
 		descript = {
 			{
-				"Noodle Festa - Watermelon Pudding"
+				"Magical Power"
 			},
 			{"%s"},
 			{"MATK + 5%"}
@@ -6091,7 +6091,7 @@ StateIconList_string = {
 	[EFST_IDs.EFST_FLOWER_LEAF4] = {
 		descript = {
 			{
-				"Noodle Festa - Cream Noodles"
+				"Physical Power"
 			},
 			{"%s"},
 			{"ATK + 5%"}
@@ -7341,78 +7341,94 @@ StateIconList_string = {
 	[EFST_IDs.EFST_NOEQUIPWEAPON2] = {
 		descript = {
 			{
-				"Divest Shadow"
+				"Strip Shadow"
 			},
 			{"%s"},
 			{
-				"State in which Weapon Shadow equipment cannot be equipped"
+				"Unable to equip Shadow Weapon equipment"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPARMOR2] = {
 		descript = {
 			{
-				"Divest Shadow"
+				"Strip Shadow"
 			},
 			{"%s"},
 			{
-				"State in which Armor Shadow equipment cannot be equipped"
+				"Unable to equip Shadow Armor equipment"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPSHIELD2] = {
 		descript = {
 			{
-				"Divest Shadow"
+				"Strip Shadow"
 			},
 			{"%s"},
 			{
-				"State in which Shield Weapon Shadow equipment cannot be equipped"
+				"Unable to equip Shadow Shield equipment"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPSHOES2] = {
 		descript = {
 			{
-				"Divest Shadow"
+				"Strip Shadow"
 			},
 			{"%s"},
 			{
-				"State in which Shoes Shadow equipment cannot be equipped"
+				"Unable to equip Shadow Shoes equipment"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPPENDANT2] = {
 		descript = {
 			{
-				"Divest Shadow"
+				"Strip Shadow"
 			},
 			{"%s"},
 			{
-				"State in which Accessory Shadow equipment cannot be equipped"
+				"Unable to equip Shadow Accessory equipment"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPEARING2] = {
 		descript = {
 			{
-				"Divest Shadow"
+				"Strip Shadow"
 			},
 			{"%s"},
 			{
-				"State in which Accessory Shadow equipment cannot be equipped"
+				"Unable to equip Shadow Accessory equipment"
 			}
 		}
 	},
 	[EFST_IDs.EFST_NOEQUIPFULL2] = {
 		descript = {
 			{
-				"Divest Shadow"
+				"Strip Shadow"
 			},
 			{"%s"},
 			{
-				"State in which all Shadow equipment cannot be equipped"
+				"Unable to equip any Shadow equipment"
 			}
+		}
+	},
+	[EFST_IDs.EFST_CURSE_R_CUBE] = {
+		descript = {
+			{
+				"Curse of Red Cube"
+			},
+			{"%s"}
+		}
+	},
+	[EFST_IDs.EFST_CURSE_B_CUBE] = {
+		descript = {
+			{
+				"Curse of Blue Cube"
+			},
+			{"%s"}
 		}
 	},
 	[EFST_IDs.EFST_TOXIN_OF_MANDARA] = {
@@ -8056,6 +8072,73 @@ StateIconList_string = {
 			{"%s"},
 			{
 				"Nightmare mark"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_1] = {
+		descript = {
+			{
+				"Festival of Noodles - Farfalle"
+			},
+			{"%s"},
+			{
+				"Melee and ranged attacks"
+			},
+			{
+				"Increases physical damage"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_2] = {
+		descript = {
+			{
+				"Festival of Noodles - Cream Shrimp Pasta"
+			},
+			{"%s"},
+			{
+				"All attributes"
+			},
+			{
+				"Increases magic damage"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_3] = {
+		descript = {
+			{
+				"Festival of Noodles - Tomato Noodles"
+			},
+			{"%s"},
+			{
+				"Reduces the delay after casting and using skills"
+			},
+			{
+				"Increases attack speed (reduces the delay after attacking)"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_4] = {
+		descript = {
+			{
+				"Festival of Noodles - Banquet Noodles"
+			},
+			{"%s"},
+			{
+				"Increases ATK and MATK %"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_5] = {
+		descript = {
+			{
+				"Festival of Noodles - Mixed Noodles with Soy Sauce"
+			},
+			{"%s"},
+			{
+				"Increases P.ATK"
+			},
+			{
+				"Increases S.MATK"
 			}
 		}
 	},

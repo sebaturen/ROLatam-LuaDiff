@@ -87,5 +87,88 @@ And your story awaits.]],
 		QuestInfo3 = {
 			"^ff0000This page is an update introduction, not a quest. Please note that it will not be removed even after completing quests.^000000"
 		}
+	},
+	[81] = {
+		Title = "Tower of the Constellations",
+		IconName = "ico_sc.bmp",
+		Summary = "Face the New Master",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "e_tower",
+		NpcPosX = 71,
+		NpcPosY = 115,
+		BgName = "reco_81.bmp",
+		QuestInfo1 = {
+			"^003355The master has changed?^000000",
+			"It seems someone has overturned the tower known as Endless Tower.",
+			"With no way of knowing what kind of dangerous being it is, someone must uncover the new master's identity."
+		},
+		QuestInfo2 = {
+			"Requirements",
+			"Adventurers of ^990000Level 240 or higher^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000? This page is an update introduction, not a quest. Please note that it will not be removed even after completing the quest.^000000"
+		}
+	},
+	[78] = {
+		Title = "Sunken Tower",
+		IconName = "ico_sc.bmp",
+		Summary = "Uninvited Guests of the Erosion Site",
+		NpcSpr = "4_4JOB_LETICIA",
+		NpcNavi = "alberta",
+		NpcPosX = 213,
+		NpcPosY = 71,
+		BgName = "reco_78.bmp",
+		QuestInfo1 = {
+			"^003355A Job Someone Has to Do^000000",
+			"They say unwelcome beings are pouring out from beneath the erosion site of the sunken Endless Tower!",
+			"You may not gain any great riches, but it could be good EXP... no, a good experience. And someone like you, who seems ready to put in some effort, is no exception."
+		},
+		QuestInfo2 = {
+			"Clear Conditions",
+			"Adventurers ^990000Level 40 or higher^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000 This page is an update introduction, not a quest. Please note that it will not be deleted even if you complete the quest.^000000"
+		}
+	},
+	[82] = {
+		Title = "Hero's Trail MD Tomb of Regret",
+		IconName = "ico_sc.bmp",
+		Summary = "The magic swordsman and the bloodthirsty magic sword encountered in Tomb of Regret",
+		BgName = "reco_82.bmp",
+		NpcSpr = "MD_TIARA",
+		NpcNavi = "dali",
+		NpcPosX = 124,
+		NpcPosY = 88,
+		QuestInfo1 = {
+			"A request from the princess of a fallen kingdom, and the contractor of the magic sword met at the destination.",
+			"The Sword roars, and the corpse that rose before its time weeps."
+		},
+		QuestInfo2 = {
+			"Requirements",
+			"Adventurers Level 220 or higher"
+		},
+		QuestInfo3 = {
+			"^ff0000 This page is an update introduction, not a quest. Please note that it will not be removed even after completing the quest.^000000"
+		}
+	},
+	[7] = {
+		Title = "Noddle Festival",
+		IconName = "ico_ev.bmp",
+		Summary = "Come to Lasagna!",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"How about some delicious Noddle?",
+			"Join the Noddle Festival in <NAVI>[Lasagna]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI! You can earn great rewards!"
+		},
+		QuestInfo2 = {
+			"Limited-Time Event",
+			"Check the requirements",
+			"^ff0000Minimum Level: 50^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Ø Period: Aug 3 to Aug 18.^000000"
+		}
 	}
 }

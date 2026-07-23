@@ -12,7 +12,7 @@
     "Yk/zAg": {
         "en-US": "[Marlbron]\nEmmm. This is?",
         "pt-BR": "[Malberon]\nHm...",
-        "es-ES": "[Marlbron]\nEhhh. ¿Y tú eres…?"
+        "es-ES": "[Marlbron]\nEhhh. ¿Y tú eres...?"
     },
     "Y0/zAg": {
         "en-US": "[Marlbron]\nYou were never trained by me.\nThen, I have no interest in you.",
@@ -27,7 +27,7 @@
     "ZU/zAg": {
         "en-US": "[Marlbron]\nNo.. No.. From a different aspect, you are a smart student?",
         "pt-BR": "[Malberon] \nVocê é um aluno tão talentoso.",
-        "es-ES": "[Marlbron]\nNo… No… Por otro lado, me pregunto si eres inteligente como estudiante."
+        "es-ES": "[Marlbron]\nNo... No... Por otro lado, me pregunto si eres inteligente como estudiante."
     },
     "Zk/zAg": {
         "en-US": "[Marlbron]\nAnyway, you don't have anything to do here.",
@@ -57,7 +57,7 @@
     "a0/zAg": {
         "en-US": "[Marlbron]\nI can guess most, but hehehehe~~\nPlease feel comfortable and tell me everything you want!",
         "pt-BR": "[Malberon] \nBem, acho que sei o que você quer, hehe. \nSinta-se à vontade para me dizer o que precisa!",
-        "es-ES": "[Marlbron]\nPuedo imaginarme casi toda la historia, pero… je, je, je.\nToma asiento y cuéntame todo lo que quieras."
+        "es-ES": "[Marlbron]\nPuedo imaginarme casi toda la historia, pero... je, je, je.\nToma asiento y cuéntame todo lo que quieras."
     },
     "bE/zAg": {
         "en-US": "I get bored!  Play with me!",
@@ -182,7 +182,7 @@
     "hE/zAg": {
         "en-US": "[Marlbron]\nThere is a useful skill without a bow... Called ^0000CDImprove Concentration^000000, for a certain period time, it will enhance your ^0000CDDex & Agi^000000.",
         "pt-BR": "[Malberon]\nExiste uma Habilidade que pode ser usada sem um Arco. Após um curto período de tempo, a ^9370DBConcentração^000000 aumenta a ^9370DBDES^000000 e a ^9370DBAGI^000000.",
-        "es-ES": "[Marlbron]\nHay una habilidad para la que no se necesita un arco… Se llama ^0000CDMejorar concentración^000000 y durante cierto período, mejorará tu ^0000CDDES y AGI^000000."
+        "es-ES": "[Marlbron]\nHay una habilidad para la que no se necesita un arco... Se llama ^0000CDMejorar concentración^000000 y durante cierto período, mejorará tu ^0000CDDES y AGI^000000."
     },
     "hU/zAg": {
         "en-US": "[Marlbron]\nAt the same time, it will reveal hidden enemies nearby.",
@@ -237,7 +237,7 @@
     "j0/zAg": {
         "en-US": "[Marlbron]\nIf you change jobs directly from the Archer's Guild\nAs a little bonus, we teach you the skills you need to practice right away.",
         "pt-BR": "[Malberon] \nSe visitar a Guilda dos Arqueiros e mudar de classe lá, \naprenderá habilidades extras que normalmente exigiriam prática, como bônus.",
-        "es-ES": "[Marlbron]\nSi cambias de clase directamente desde el gremio de Arqueros…\nComo una pequeña ayuda extra, te enseñaremos las habilidades que necesitas practicar de inmediato."
+        "es-ES": "[Marlbron]\nSi cambias de clase directamente desde el gremio de Arqueros...\nComo una pequeña ayuda extra, te enseñaremos las habilidades que necesitas practicar de inmediato."
     },
     "kE/zAg": {
         "en-US": "[Marlbron]\nIf you change jobs right here\n^4D4DFFTo acquire additional skills^000000, you need to do some quests.",
@@ -257,7 +257,7 @@
     "k0/zAg": {
         "en-US": "I'll go to the archer's guild and change jobs..",
         "pt-BR": "Vou até o Guilda dos Arqueiros.",
-        "es-ES": "Iré al gremio de Arqueros a cambiar de clase…"
+        "es-ES": "Iré al gremio de Arqueros a cambiar de clase..."
     },
     "lE/zAg": {
         "en-US": "[Marlbron]\nChange your job through ^4D4DFFArcher's Guild^000000 here.\nWe respect your choice.",
@@ -312,7 +312,7 @@
     "nk/zAg": {
         "en-US": "[Marlbron]\nThat's where I'll send you.\nWhen you arrive, you can see the ^0000CDred circle^000000 above? When you go there...",
         "pt-BR": "[Malberon]\nMandarei você para esse lugar.\nQuando chegar, você verá um ^0000CDCírculo Vermelho^000000. Se entrar nele...",
-        "es-ES": "[Marlbron]\nAhí es donde te enviaré.\nCuando llegues, verás el ^0000CDcírculo rojo^000000 ahí arriba. Cuando llegues allí…"
+        "es-ES": "[Marlbron]\nAhí es donde te enviaré.\nCuando llegues, verás el ^0000CDcírculo rojo^000000 ahí arriba. Cuando llegues allí..."
     },
     "n0/zAg": {
         "en-US": "[Marlbron]\nThe destination is Payon!\nIf you follow the direction of the ^0000CDarrow drawn on the minimap here^000000, you can go straight to ^0000CDArcher Village^000000.",
@@ -367,7 +367,7 @@
     "qU/zAg": {
         "en-US": "[Marlbron]\nHow about it? Was the traiing valuable to you?\nTraditionally, a good archer was made by an excellent archer trainer.. Ehum.",
         "pt-BR": "[Malberon]\nGostou da aula?\nUma grande lição só pode ser ensinada por grandes profissionais. Hehe.",
-        "es-ES": "[Marlbron]\n¿Qué te parece? ¿El entrenamiento fue útil?\nTradicionalmente, detrás de todo buen Arquero había un excelente entrenador de Arqueros. Ajam…"
+        "es-ES": "[Marlbron]\n¿Qué te parece? ¿El entrenamiento fue útil?\nTradicionalmente, detrás de todo buen Arquero había un excelente entrenador de Arqueros. Ajam..."
     },
     "qk/zAg": {
         "en-US": "[Marlbron]\nI already applied but it has not completed yet.\nCome and see me after finishing other things.",

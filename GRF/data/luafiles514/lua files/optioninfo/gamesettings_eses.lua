@@ -4,20 +4,20 @@ OptionTbl_string = {
 		Description = "Muestra el aura."
 	},
 	[2] = {
-		Title = "Visualizaci�n de Aura",
+		Title = "Visualización de Aura",
 		Description = "Muestra el aura de forma simplificada."
 	},
 	[3] = {
 		Title = "Mostrar Efectos",
-		Description = "Muestra los efectos de habilidades e �tems."
+		Description = "Muestra los efectos de habilidades e ítems."
 	},
 	[4] = {
 		Title = "Mostrar Sombreado",
 		Description = "Muestra el sombreado."
 	},
 	[5] = {
-		Title = "Visualizaci�n de Da�o",
-		Description = "Muestra el da�o de forma ampliada."
+		Title = "Visualización de Daño",
+		Description = "Muestra el daño de forma ampliada."
 	},
 	[6] = {
 		Title = "Nombre del Mapa",
@@ -52,8 +52,8 @@ OptionTbl_string = {
 		Description = "Al usar habilidades, el cursor captura objetivos cercanos."
 	},
 	[14] = {
-		Title = "Snap de �tems",
-		Description = "El cursor captura �tems cercanos en el suelo."
+		Title = "Snap de ítems",
+		Description = "El cursor captura ítems cercanos en el suelo."
 	},
 	[15] = {
 		Title = "No Ctrl",
@@ -61,11 +61,11 @@ OptionTbl_string = {
 	},
 	[16] = {
 		Title = "No Shift",
-		Description = "No es necesario presionar Shift al atacar monstruos con habilidades de curaci�n."
+		Description = "No es necesario presionar Shift al atacar monstruos con habilidades de curación."
 	},
 	[17] = {
 		Title = "Zoom Out",
-		Description = "Al alejar el zoom, la pantalla muestra un �rea m�s amplia."
+		Description = "Al alejar el zoom, la pantalla muestra un área más amplia."
 	},
 	[18] = {
 		Title = "Fijar Mouse",
@@ -73,7 +73,7 @@ OptionTbl_string = {
 	},
 	[19] = {
 		Title = "Quick Skill 1",
-		Description = "Usa la habilidad de F9 con el bot�n derecho del mouse."
+		Description = "Usa la habilidad de F9 con el botón derecho del mouse."
 	},
 	[20] = {
 		Title = "Quick Skill 2",
@@ -81,15 +81,15 @@ OptionTbl_string = {
 	},
 	[21] = {
 		Title = "Mini Barra",
-		Description = "Muestra una barra r�pida de 2 espacios."
+		Description = "Muestra una barra rápida de 2 espacios."
 	},
 	[22] = {
-		Title = "Comparaci�n de Equipamiento",
+		Title = "Comparación de Equipamiento",
 		Description = "Muestra una ventana comparando con el equipo equipado."
 	},
 	[23] = {
 		Title = "/notrade",
-		Description = "Rechaza autom�ticamente solicitudes de intercambio y amistad."
+		Description = "Rechaza automáticamente solicitudes de intercambio y amistad."
 	},
 	[24] = {
 		Title = "/notalkmsg",
@@ -101,11 +101,11 @@ OptionTbl_string = {
 	},
 	[26] = {
 		Title = "/showname",
-		Description = "Usa una fuente m�s delgada y muestra nombres de grupo y gremio."
+		Description = "Usa una fuente más delgada y muestra nombres de grupo y gremio."
 	},
 	[27] = {
 		Title = "/window",
-		Description = "Las ventanas se ajustan autom�ticamente al moverlas."
+		Description = "Las ventanas se ajustan automáticamente al moverlas."
 	},
 	[28] = {
 		Title = "/miss",
@@ -117,7 +117,7 @@ OptionTbl_string = {
 	},
 	[30] = {
 		Title = "/stateinfo",
-		Description = "Muestra la descripci�n de los �conos de estado."
+		Description = "Muestra la descripción de los íconos de estado."
 	},
 	[31] = {
 		Title = "/camera",
@@ -129,11 +129,11 @@ OptionTbl_string = {
 	},
 	[33] = {
 		Title = "/cashshop",
-		Description = "Muestra el bot�n de la tienda de cash."
+		Description = "Muestra el botón de la tienda de cash."
 	},
 	[34] = {
 		Title = "/goldpc",
-		Description = "Muestra el sistema de puntos Gold PC Caf�."
+		Description = "Muestra el sistema de puntos Gold PC Café."
 	},
 	[35] = {
 		Title = "/minimap",
@@ -157,11 +157,11 @@ OptionTbl_string = {
 	},
 	[40] = {
 		Title = "/call",
-		Description = "Permite recibir habilidades de invocaci�n."
+		Description = "Permite recibir habilidades de invocación."
 	},
 	[41] = {
 		Title = "/hoai",
-		Description = "Permite personalizar la IA del hom�nculo."
+		Description = "Permite personalizar la IA del homúnculo."
 	},
 	[42] = {
 		Title = "/merai",
@@ -197,11 +197,11 @@ OptionTbl_string = {
 	},
 	[50] = {
 		Title = "/where",
-		Description = "Muestra la ubicaci�n actual con coordenadas."
+		Description = "Muestra la ubicación actual con coordenadas."
 	},
 	[51] = {
 		Title = "/memo",
-		Description = "Guarda la ubicaci�n actual como punto de warp."
+		Description = "Guarda la ubicación actual como punto de warp."
 	},
 	[52] = {
 		Title = "/chat",

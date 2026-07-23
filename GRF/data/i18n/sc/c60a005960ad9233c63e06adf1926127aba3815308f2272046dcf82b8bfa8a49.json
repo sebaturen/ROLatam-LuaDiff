@@ -7,17 +7,17 @@
     "QYIcAw": {
         "en-US": "[Ninja Trainer]\nI am Hono-oh. I'm here to\nguide new recruits.\nI think you are strong enough to\nattend to my teachings.",
         "pt-BR": "[Hono]\nMeu nome é Hono!\nFui designado para ajudar novos estudantes!\nAcredito que saiba demais já...\nNão precisa de minhas aulas...",
-        "es-ES": "[Hono]\n¡Me llamo Hono!\n¡Me encargaron ayudar a los nuevos estudiantes!\nCreo que ya sabes demasiado…\nNo necesitas mis lecciones…"
+        "es-ES": "[Hono]\n¡Me llamo Hono!\n¡Me encargaron ayudar a los nuevos estudiantes!\nCreo que ya sabes demasiado...\nNo necesitas mis lecciones..."
     },
     "QoIcAw": {
         "en-US": "[Ninja Trainer]\nThis is a dangerous place.\nGet away from here!",
         "pt-BR": "[Hono]\nEsse é um lugar perigoso...\nReflita ao estar aqui...",
-        "es-ES": "[Hono]\nEste es un lugar peligroso…\nReflexiona sobre estar aquí…"
+        "es-ES": "[Hono]\nEste es un lugar peligroso...\nReflexiona sobre estar aquí..."
     },
     "Q4IcAw": {
         "en-US": "[Ninja Trainer]\nIf you come back to me after becoming a Ninja,\nI will listen to what you have to say.\nIf you keep loitering here aimlessly,\nI will teach you a lesson.",
         "pt-BR": "[Hono]\nQuando voltar depois de se tornar um Ninja,\nposso ouvir suas histórias...\nSe continuar por aqui,\nvou te dar uma lição muito cansativa!",
-        "es-ES": "[Hono]\nCuando vuelvas después de convertirte en Ninja,\npodré escuchar tus historias…\nSi continúas por aquí,\n¡te voy a dar una lección muy agotadora!"
+        "es-ES": "[Hono]\nCuando vuelvas después de convertirte en Ninja,\npodré escuchar tus historias...\nSi continúas por aquí,\n¡te voy a dar una lección muy agotadora!"
     },
     "RIIcAw": {
         "en-US": "[Ninja Trainer]\nI have nothing to say to an outsider!\nNothing will change even if you were to be born again.\nThat is fate. You walk a different path from ours. It would do you good to find someone whose fate aligns with yours!",
@@ -27,7 +27,7 @@
     "RYIcAw": {
         "en-US": "[Hono-oh]\nI am Hono-oh!\nI am a trainer who teaches\nnew recruits with fiery passion.\nI will shape you into a\nfull-fledged Ninja able to carry your own weight.",
         "pt-BR": "[Hono]\nMeu nome é Hono!\nMeu dever é ensinar e\nmanter os estudantes novos na linha...\nVou garantir que sejam cumpridas\ntodas as regras.",
-        "es-ES": "[Hono]\n¡Me llamo Hono!\nMi deber es enseñar y\nmantener a raya a los nuevos estudiantes…\nMe aseguraré de que se cumplan\ntodas las normas."
+        "es-ES": "[Hono]\n¡Me llamo Hono!\nMi deber es enseñar y\nmantener a raya a los nuevos estudiantes...\nMe aseguraré de que se cumplan\ntodas las normas."
     },
     "RoIcAw": {
         "en-US": "[Ninja Trainer]\nI am a Senior Ninja sent here to\nlead newly recruited Ninjas.\nBut I don't like being called teacher,\nsince it sounds too formal... So you can just call me by my name.",
@@ -42,7 +42,7 @@
     "SIIcAw": {
         "en-US": "[Hono-oh]\nOho. I recognize you, recruit.\nDid I give you some\nmission...?\nDespite how I look, I have a pretty good memory, haha!\nSo, what brings you here?",
         "pt-BR": "[Hono]\nVocê me parece familiar...\nTe dei alguma\nmissão..?\nPensando bem, nem me diga. Tenho uma boa memória!\nO que está fazendo aqui?",
-        "es-ES": "[Hono]\nMe resultas familiar…\n¿Te di alguna\nmisión…?\nAhora que lo pienso, no me digas. ¡Tengo buena memoria!\n¿Qué estás haciendo aquí?"
+        "es-ES": "[Hono]\nMe resultas familiar...\n¿Te di alguna\nmisión...?\nAhora que lo pienso, no me digas. ¡Tengo buena memoria!\n¿Qué estás haciendo aquí?"
     },
     "SYIcAw": {
         "en-US": "Report mission completion",
@@ -97,12 +97,12 @@
     "U4IcAw": {
         "en-US": "[Hono-oh]\nHai-yah!\nA strange fellow appears.\nTry talking again.",
         "pt-BR": "[Hono]\nÍaa!\nHm... Eu deveria ter aparecido em outro lugar...\nFale comigo outra hora.",
-        "es-ES": "[Hono]\nMm… Debería haber aparecido en otro sitio…\nHáblame en otro momento."
+        "es-ES": "[Hono]\nMm... Debería haber aparecido en otro sitio...\nHáblame en otro momento."
     },
     "VIIcAw": {
         "en-US": "[Hono-oh]\nSlow, slow! Too slow!\nIf I had so much of time,\nI would have collected 30,000 Kobold hairs.\nA Ninja lives and dies by speed and precision!\nYou have failed in this mission. Go reflect on it.",
         "pt-BR": "[Hono]\nDevagar, muito devagar...\nSe eu tivesse tanto tempo,\njá teria ganho zeny suficiente para virar milionário.\nA vida de Ninja é dinâmica até demais!\nEssa missão foi um fracasso!",
-        "es-ES": "[Hono]\nDespacio, muy despacio…\nSi tuviera tanto tiempo,\nhabría ganado suficientes zeny para hacerme millonario.\n¡La vida de Ninja es demasiado dinámica!\n¡Esa misión fue un fracaso!"
+        "es-ES": "[Hono]\nDespacio, muy despacio...\nSi tuviera tanto tiempo,\nhabría ganado suficientes zeny para hacerme millonario.\n¡La vida de Ninja es demasiado dinámica!\n¡Esa misión fue un fracaso!"
     },
     "VYIcAw": {
         "en-US": "[Hono-oh]\nI confirmed that you have completed the mission.",
@@ -112,22 +112,22 @@
     "VoIcAw": {
         "en-US": "[Hono-oh]\nI have no more tasks to assign you.\nIf you want to find out more about fighting,\nyou can go to the Academy in\nIzlude.\nI can't just keep drilling\nthose painfully average trainees.",
         "pt-BR": "[Hono]\nEssas foram as missões que pude dar...\nSe quiser mais ação e batalhas,\nvolte para a\nAcademia Criatura.\nVai ser, com certeza,\nsua melhor opção.",
-        "es-ES": "[Hono]\nEstas fueron las misiones que pude darte…\nSi quieres más acción y batallas,\nRegresa a la\nAcademia en Izlude.\nSin duda será \ntu mejor opción."
+        "es-ES": "[Hono]\nEstas fueron las misiones que pude darte...\nSi quieres más acción y batallas,\nRegresa a la\nAcademia en Izlude.\nSin duda será \ntu mejor opción."
     },
     "V4IcAw": {
         "en-US": "[Hono-oh]\nA strange fellow appears!\nTry talking again.",
         "pt-BR": "[Hono]\nHm... Eu deveria ter aparecido em outro lugar...\nFale comigo outra hora.",
-        "es-ES": "[Hono]\nLa misión llegó a su fin…\n¿Necesitas algo más?"
+        "es-ES": "[Hono]\nLa misión llegó a su fin...\n¿Necesitas algo más?"
     },
     "WIIcAw": {
         "en-US": "[Hono-oh]\nA Ninja must complete their mission\nregardless of what happens.\nTsk, youths these days...\nThey just won't persevere at all.",
         "pt-BR": "[Hono]\nNão importa o que aconteça,\num Ninja deve continuar em sua missão.\nEsses jovens nunca têm o espírito Ninja...\nSe fosse no meu tempo...",
-        "es-ES": "[Hono]\nPase lo que pase,\nun Ninja debe continuar con su misión.\nEstos jóvenes nunca tienen el espíritu Ninja…\nSi fuera mi época…"
+        "es-ES": "[Hono]\nPase lo que pase,\nun Ninja debe continuar con su misión.\nEstos jóvenes nunca tienen el espíritu Ninja...\nSi fuera mi época..."
     },
     "WYIcAw": {
         "en-US": "[Hono-oh]\nA younger me would have punished you.\nBut since I've gotten older,\nI suppose it's fine to just take some rest\nif you are exhausted. Go prepare yourself and \ncome back.",
         "pt-BR": "[Hono]\nEu teria te punido no passado!\nMas agora estou mais velho...\nEstá além de minha paciência\nme preocupar com coisas assim.\nVolte outra hora...",
-        "es-ES": "[Hono]\n¡Te habría dado una paliza en el pasado!\nPero ahora soy mayor…\nNo tengo paciencia para\npreocuparme por cosas así.\nVuelve en otra ocasión…"
+        "es-ES": "[Hono]\n¡Te habría dado una paliza en el pasado!\nPero ahora soy mayor...\nNo tengo paciencia para\npreocuparme por cosas así.\nVuelve en otra ocasión..."
     },
     "WoIcAw": {
         "en-US": "[Hono-oh]\nButterfly Wings were specially crafted\nfor Novices who have difficulties\nreaching this place.\nI think it's about time you learned how to get here without help.",
@@ -162,7 +162,7 @@
     "YIIcAw": {
         "en-US": "Nothing",
         "pt-BR": "No momento não estou a fim...",
-        "es-ES": "Por el momento no me interesa…"
+        "es-ES": "Por el momento no me interesa..."
     },
     "YYIcAw": {
         "en-US": "About stats",
@@ -182,7 +182,7 @@
     "ZIIcAw": {
         "en-US": "About Job Change",
         "pt-BR": "Sobre a evolução de Classes",
-        "es-ES": "Por el momento no me interesa…"
+        "es-ES": "Por el momento no me interesa..."
     },
     "ZYIcAw": {
         "en-US": "[Hono-oh]\nNinjas are committed to attacking alone.\nBut I'm sure you know that already.\nYou can destroy your enemy\nin many different ways,\nand it depends on what skills you intend to use.",
@@ -227,7 +227,7 @@
     "bYIcAw": {
         "en-US": "I want to redistribute my stats.",
         "pt-BR": "Queria modificar meus atributos...",
-        "es-ES": "Me gustaría redefinir las habilidades…"
+        "es-ES": "Me gustaría redefinir las habilidades..."
     },
     "boIcAw": {
         "en-US": "[Hono-oh]\nWhenever you increase your Base Level,\nyou receive Stat Points\nthat let you raise your stats.\nI'm sure you're aware of this.\nYou must train endlessly.",
@@ -247,12 +247,12 @@
     "cYIcAw": {
         "en-US": "[Hono-oh]\nBut if I were to teach a lesson to\na despairing rookie...\nSomewhere in Prontera or Izlude,\nthere is someone who can reset the skills and stats of\nNovices whose Job Level is below 40.",
         "pt-BR": "[Hono]\nAinda assim te ensinarei...\nPara aqueles frustrados,\nem algum lugar de Prontera e Izlude\nhá uma pessoa que\nredefine Habilidades e Atributos para aqueles com Nível de Classe menor que 99.",
-        "es-ES": "[Hono]\nAun así te enseñaré…\nPara los que se sienten frustrados,\nen algún lugar de Prontera e Izlude,\nhay una persona que\nredefine las habilidades y las estadísticas de los que tienen un nivel de clase inferior a 99."
+        "es-ES": "[Hono]\nAun así te enseñaré...\nPara los que se sienten frustrados,\nen algún lugar de Prontera e Izlude,\nhay una persona que\nredefine las habilidades y las estadísticas de los que tienen un nivel de clase inferior a 99."
     },
     "coIcAw": {
         "en-US": "[Hono-oh]\nSo long as you meet the conditions,\nyou can go for the reset, so rest easy.",
         "pt-BR": "[Hono]\nSe estiver dentro das condições, a redefinição pode ser feita quantas vezes quiser...\nNão há motivos para ficar triste!",
-        "es-ES": "[Hono]\nSi cumples las condiciones, puedes restablecerlas tantas veces como quieras…\n¡No hay motivo para estar triste!"
+        "es-ES": "[Hono]\nSi cumples las condiciones, puedes restablecerlas tantas veces como quieras...\n¡No hay motivo para estar triste!"
     },
     "c4IcAw": {
         "en-US": "[Hono-oh]\nHow foolish!\nRegretting the past\nis not the right mindset for a Ninja.\nReflect and reflect again on that!",
@@ -267,7 +267,7 @@
     "dYIcAw": {
         "en-US": "[Hono-oh]\nSince you've learnt many things about skills\nalready, I will test you\non your knowledge of what you've learnt.\nOr do you want to listen to the explanation again?",
         "pt-BR": "[Hono]\nBom, pra comprovar isso,\ndê uma olhada nas Habilidades e\nvamos tomar um momento para testar o que aprendeu.\nMas... Será que prefere ouvir a explicação de novo?",
-        "es-ES": "[Hono]\nBien, para demostrarlo,\necha un vistazo a las habilidades y\npongamos a prueba lo que aprendiste.\nPero… ¿Prefieres volver a oír la explicación?"
+        "es-ES": "[Hono]\nBien, para demostrarlo,\necha un vistazo a las habilidades y\npongamos a prueba lo que aprendiste.\nPero... ¿Prefieres volver a oír la explicación?"
     },
     "doIcAw": {
         "en-US": "Test me!",
@@ -277,7 +277,7 @@
     "d4IcAw": {
         "en-US": "Explain again...",
         "pt-BR": "Explica de novo, por favor...",
-        "es-ES": "Explícalo de nuevo, por favor…"
+        "es-ES": "Explícalo de nuevo, por favor..."
     },
     "eIIcAw": {
         "en-US": "[Hono-oh]\nOhh! You are motivated.\nThat's the right attitude!\nMore explanation is really unnecessary.\nSo I will begin with the questions right away.\nYou must answer all 5 questions to pass.",
@@ -487,7 +487,7 @@
     "oYIcAw": {
         "en-US": "[Hono-oh]\nThat concludes all the questions!",
         "pt-BR": "[Hono]\nE... Fim das perguntas!",
-        "es-ES": "[Hono]\nY… ¡Se acabaron las preguntas!"
+        "es-ES": "[Hono]\nY... ¡Se acabaron las preguntas!"
     },
     "ooIcAw": {
         "en-US": "Although there were some difficult questions,\nyou managed to answer all of them correctly. Well done!",
@@ -502,7 +502,7 @@
     "pIIcAw": {
         "en-US": "Not enough, not enough!\nSeems like you need to\nstudy Ninja skills further.",
         "pt-BR": "Hm...\nAcredito que precise estudar um pouco mais\nsobre Habilidades Ninja.",
-        "es-ES": "Mm…\nCreo que necesitas estudiar un poco más\nsobre las habilidades de Ninja."
+        "es-ES": "Mm...\nCreo que necesitas estudiar un poco más\nsobre las habilidades de Ninja."
     },
     "pYIcAw": {
         "en-US": "[Hono-oh]\nOpen the Skill window and move your cursor to a skill\nto learn more about it.\nGo study the skills carefully and\ncome back.\nMake sure to review, and then review again.",
@@ -517,12 +517,12 @@
     "p4IcAw": {
         "en-US": "[Hono-oh]\nThe first type is physical attacks.\nSTR has a strong influence\non those.\nPhysical attacks can be further divided\ninto two different types.",
         "pt-BR": "[Hono]\nPrimeiramente, Habilidades Físicas.\nObviamente são ligadas à FOR\ne dependem desse atributo.\nHabilidades Físicas podem ser divididas\nem dois tipos...",
-        "es-ES": "[Hono]\nEn primer lugar, las habilidades físicas.\nEvidentemente, están vinculadas a la FUE\ny dependen de esta estadística.\nLas habilidades físicas pueden dividirse\nen dos tipos…"
+        "es-ES": "[Hono]\nEn primer lugar, las habilidades físicas.\nEvidentemente, están vinculadas a la FUE\ny dependen de esta estadística.\nLas habilidades físicas pueden dividirse\nen dos tipos..."
     },
     "qIIcAw": {
         "en-US": "[Hono-oh]\nThe first type is throwing-based\nskills that allow you to launch your attacks from a longer range,\nand the second is melee attacks.",
         "pt-BR": "[Hono]\nExistem aquelas que podem alvejar o inimigo à distância...\nE outras que podem acertar\nem um alcance corpo a corpo.",
-        "es-ES": "[Hono]\nExisten las que pueden apuntar al enemigo a distancia…\nY otras que pueden impactar\na corta distancia."
+        "es-ES": "[Hono]\nExisten las que pueden apuntar al enemigo a distancia...\nY otras que pueden impactar\na corta distancia."
     },
     "qYIcAw": {
         "en-US": "[Hono-oh]\nNinjutsu skills boast 100%\naccuracy.\nThe final DMG is determined by the skill's DMG,\nINT, as well as the Magic ATK of the weapon.",
@@ -532,17 +532,17 @@
     "qoIcAw": {
         "en-US": "[Hono-oh]\nBut when using Ninjutsu skills,\nremember that the skills' SP cost, casting time, cooldown after use, etc.\nmust all be considered to avoid getting yourself in danger.",
         "pt-BR": "[Hono]\nContudo, quando estiver usando uma Habilidade avançada...\nTenha em mente de que se não considerar o SP, terá problemas para usar a Habilidade...\nCom certeza estará em perigo...",
-        "es-ES": "[Hono]\nSin embargo, al usar una habilidad avanzada…\nTen en cuenta que, si no consideras los SP, tendrás problemas para usar la habilidad…\nSin duda estarás en peligro…"
+        "es-ES": "[Hono]\nSin embargo, al usar una habilidad avanzada...\nTen en cuenta que, si no consideras los SP, tendrás problemas para usar la habilidad...\nSin duda estarás en peligro..."
     },
     "q4IcAw": {
         "en-US": "[Hono-oh]\nFinally, there are the Deception skills.\nThese are quite different from\nthe other skills.\nOne of them allows you to evade attacks more easily,",
         "pt-BR": "[Hono]\nFalando de Habilidades específicas...\nAlgumas possuem características e\ne efeitos diferentes.\nPodem ajudar a desviar de ataques...",
-        "es-ES": "[Hono]\nHablando de habilidades específicas…\nAlgunas tienen características y\nefectos diferentes.\nPueden ayudar a evadir los ataques…"
+        "es-ES": "[Hono]\nHablando de habilidades específicas...\nAlgunas tienen características y\nefectos diferentes.\nPueden ayudar a evadir los ataques..."
     },
     "rIIcAw": {
         "en-US": "[Hono-oh]\nwhile another provides supporting functions\nby boosting your stats,\nand yet another consumes all your strength\nand delivers a powerful strike to your foe.",
         "pt-BR": "[Hono]\nOutras aumentam os atributos por um tempo...\nDá até pra melhorar sua\nFOR para desferir um poderoso\ngolpe contra o inimigo.",
-        "es-ES": "[Hono]\nOtras aumentan las estadísticas durante un tiempo…\nIncluso puedes mejorar tu\nFUE para asestar un poderoso\ngolpe al enemigo."
+        "es-ES": "[Hono]\nOtras aumentan las estadísticas durante un tiempo...\nIncluso puedes mejorar tu\nFUE para asestar un poderoso\ngolpe al enemigo."
     },
     "rYIcAw": {
         "en-US": "[Hono-oh]\nFor more details,\nopen the Skill window and use your cursor\nto view a skill.\nThat was a quick overview, but it wasn't so boring, was it?",
@@ -577,12 +577,12 @@
     "s4IcAw": {
         "en-US": "[Hono-oh]\nThe second weapon, one uniquely made for Ninjas,\nis the Huuma Shuriken.\nTo use the Throw Huuma Shuriken skill,\nyou must equip one.",
         "pt-BR": "[Hono]\nA Shuriken Huuma é uma arma\nexclusiva dos Ninjas...\nSe quiser usar a Habilidade de Arremessar Shuriken Huuma, \ndeverá equipar esse tipo de arma.",
-        "es-ES": "[Hono]\nEl Shuriken Huuma es un arma\nexclusiva de los Ninjas…\nSi quieres usar la habilidad Arrojar Shuriken Huuma, \ndebes equipar este tipo de arma."
+        "es-ES": "[Hono]\nEl Shuriken Huuma es un arma\nexclusiva de los Ninjas...\nSi quieres usar la habilidad Arrojar Shuriken Huuma, \ndebes equipar este tipo de arma."
     },
     "tIIcAw": {
         "en-US": "[Hono-oh]\nThere are some other\nthrowable objects that you must equip\nin order to use other throwing skills.These include\nShuriken for Throw Shuriken,\nand Kunai for Throw Kunai.",
         "pt-BR": "[Hono]\nAlém dessas, existem\nalguns projéteis que podem ser equipados\npara se usar Habilidades de Arremesso.\nPara usar Habilidades de Arremessar Shuriken, deve equipar uma Shuriken.\nPara usar Habilidades de Arremessar Kunai... Bom, você já sabe...",
-        "es-ES": "[Hono]\nAdemás, hay\nalgunas balas que se pueden equipar\npara usar las habilidades de lanzamiento.\nPara usar la habilidad Arrojar Shuriken, debes equiparte con una Shuriken.\nPara usar la habilidad Arrojar Kunai… Bueno, ya sabes…"
+        "es-ES": "[Hono]\nAdemás, hay\nalgunas balas que se pueden equipar\npara usar las habilidades de lanzamiento.\nPara usar la habilidad Arrojar Shuriken, debes equiparte con una Shuriken.\nPara usar la habilidad Arrojar Kunai... Bueno, ya sabes..."
     },
     "tYIcAw": {
         "en-US": "[Hono-oh]\nFor Ninjas who favor\nNinjutsu skills in battle, it is better to\nraise the MATK rather than the Physical ATK of the weapon.",
@@ -592,12 +592,12 @@
     "toIcAw": {
         "en-US": "[Hono-oh]\nSome tools do not need to be equipped,\nbut simply kept in the inventory\nin order to use certain skills.\nFor example, Pyrostones for Exploding Dragon...",
         "pt-BR": "[Hono]\nNão há necessidade de equipar nada.\nAlguns dos itens vêm direto do seu inventário e\nsão essenciais para o uso das Habilidades.\nUma Pedra do Fogo é crucial para a Habilidade do Dragão Explosivo...",
-        "es-ES": "[Hono]\nNo hace falta equipar nada.\nAlgunos de los objetos provienen directamente de tu inventario y\nson esenciales para usar las habilidades.\nUna Piedra ardiente es crucial para la habilidad Dragón explosivo…"
+        "es-ES": "[Hono]\nNo hace falta equipar nada.\nAlgunos de los objetos provienen directamente de tu inventario y\nson esenciales para usar las habilidades.\nUna Piedra ardiente es crucial para la habilidad Dragón explosivo..."
     },
     "t4IcAw": {
         "en-US": "[Hono-oh]\nNot only normal attacks, but skill DMG\nalso comes under the impact of the weapon and the element of the throwables.\nSo when you choose your weapon,\nconsider carefully the element\nof the monsters you intend to hunt.",
         "pt-BR": "[Hono]\nJunto com o dano base da Habilidade,\no dano total é afetado pela arma e suas características... \nEntão, quando escolher uma arma,\né melhor considerar os Atributos do inimigo\nque está enfrentando.",
-        "es-ES": "[Hono]\nJunto con el daño base de la habilidad,\nel daño total se ve afectado por el arma y sus características… \nPor eso, al elegir un arma,\nlo mejor es tener en cuenta las estadísticas del enemigo\nal que te enfrentas."
+        "es-ES": "[Hono]\nJunto con el daño base de la habilidad,\nel daño total se ve afectado por el arma y sus características... \nPor eso, al elegir un arma,\nlo mejor es tener en cuenta las estadísticas del enemigo\nal que te enfrentas."
     },
     "uIIcAw": {
         "en-US": "[Hono-oh]\nChoose your weapon.\nA true Ninja must\nstand on their own two feet.",
@@ -637,22 +637,22 @@
     "v4IcAw": {
         "en-US": "[Hono-oh]\nI think it's past the time\nsuch trivial tasks will be of help to you.\nYou should go back to the Academy\nand learn more about combat,",
         "pt-BR": "[Hono]\nAcho que essas missões são fáceis...\nTalvez nem estejam mais te ajudando...\nTalvez você devesse ir a Academia Criatura...\nLá aprenderá muito mais!",
-        "es-ES": "[Hono]\nCreo que estas misiones son fáciles…\nQuizá ya ni siquiera te ayuden…\nQuizá deberías ir a la Academia de criaturas…\n¡Allí aprenderás mucho más!"
+        "es-ES": "[Hono]\nCreo que estas misiones son fáciles...\nQuizá ya ni siquiera te ayuden...\nQuizá deberías ir a la Academia de criaturas...\n¡Allí aprenderás mucho más!"
     },
     "wIIcAw": {
         "en-US": "[Hono-oh]\nor register yourself at the Eden Group\nand take on quests\nto expand your experience.\nYou can ask the Teleport Service agent about how to reach the Eden Group.",
         "pt-BR": "[Hono]\nPode também se registrar no Grupo do Éden...\nDe qualquer forma, treine e complete objetivos!\nIsso vai te ajudar a evoluir níveis e mais níveis.\nPara saber como chegar no Grupo do Éden, pergunte nos serviços de Teleporte da cidade.",
-        "es-ES": "[Hono]\nTambién puedes inscribirte en el Grupo del Edén…\nEn cualquier caso, ¡entrena y cumple tus objetivos!\nEso te ayudará a subir muchos niveles.\nPara saber cómo llegar al Grupo del Edén, pregunta en los servicios de teletransporte de la ciudad."
+        "es-ES": "[Hono]\nTambién puedes inscribirte en el Grupo del Edén...\nEn cualquier caso, ¡entrena y cumple tus objetivos!\nEso te ayudará a subir muchos niveles.\nPara saber cómo llegar al Grupo del Edén, pregunta en los servicios de teletransporte de la ciudad."
     },
     "wYIcAw": {
         "en-US": "[Hono-oh]\nI suppose this is all I can do\nto help you...\nUntil you become a proper Ninja,\nyou must strive to improve!",
         "pt-BR": "[Hono]\n'Isso é tudo pessoal!'\nCalma... É, acho que não posso ajudar com mais nada...\nNinjas devem sempre seguir o destino\nque já foi traçado!",
-        "es-ES": "[Hono]\n¡Eso es todo amigos!.\nTranquilízate… Sí, no creo que pueda ayudarte con nada más…\n¡Los Ninjas siempre deben seguir el destino\nque ya está escrito!"
+        "es-ES": "[Hono]\n¡Eso es todo amigos!.\nTranquilízate... Sí, no creo que pueda ayudarte con nada más...\n¡Los Ninjas siempre deben seguir el destino\nque ya está escrito!"
     },
     "woIcAw": {
         "en-US": "[Hono-oh]\nAn empire is not built overnight,\nor so they say.\nIn order to become a proper Ninja,\nyou must work hard.\nTrain, and train again!",
         "pt-BR": "[Hono]\nTem um provérbio que diz que\num Império não foi construído em um dia...\nPara se tornar um verdadeiro Ninja,\nvocê deve respeitar o destino!\nNunca se esqueça de treinar também!",
-        "es-ES": "[Hono]\nHay una frase que dice que\nun imperio no se construye en un día…\nPara convertirte en un verdadero Ninja,\n¡debes respetar el destino!\n¡Y no te olvides nunca de entrenar!"
+        "es-ES": "[Hono]\nHay una frase que dice que\nun imperio no se construye en un día...\nPara convertirte en un verdadero Ninja,\n¡debes respetar el destino!\n¡Y no te olvides nunca de entrenar!"
     },
     "w4IcAw": {
         "en-US": "Practice 1 - Time Attack",
@@ -697,12 +697,12 @@
     "y4IcAw": {
         "en-US": "[Hono-oh]\nWell, then...\nshall we do something?",
         "pt-BR": "[Hono]\nHm...\nQuer tentar algo primeiro?",
-        "es-ES": "[Hono]\nMm…\n¿Quieres probar algo antes?"
+        "es-ES": "[Hono]\nMm...\n¿Quieres probar algo antes?"
     },
     "zIIcAw": {
         "en-US": "[Hono-oh]\nSlow, slow! Too much time has elapsed!\nA Ninja lives and dies by speed and precision.\nHow can you hope to finish\na mission with a speed like this?\nYou have failed in this mission!",
         "pt-BR": "[Hono]\nCalma, tempo esgotado...\nA vida de um Ninja depende\nde sua velocidade e precisão.\nComo pôde ser tão lento?\nIsso foi um desastre!",
-        "es-ES": "[Hono]\nCon calma, se acabó el tiempo…\nLa vida de un Ninja depende\nde su velocidad y precisión.\n¿Cómo puedes tardar tanto?\n¡Eso fue un desastre!"
+        "es-ES": "[Hono]\nCon calma, se acabó el tiempo...\nLa vida de un Ninja depende\nde su velocidad y precisión.\n¿Cómo puedes tardar tanto?\n¡Eso fue un desastre!"
     },
     "zYIcAw": {
         "en-US": "[Hono-oh]\nYou have not completed your mission yet!\nWhat do you expect by coming here before you fulfill your duty?",
@@ -722,7 +722,7 @@
     "0IIcAw": {
         "en-US": "[Hono-oh]\nYou are...\ncurrently not quite right somehow.\nAttempt a new mission!",
         "pt-BR": "[Hono]\n...\nHá algo estranho acontecendo.\nRápido, mude de tarefa!",
-        "es-ES": "[Hono]\n…\nEstá ocurriendo algo extraño.\nRápido, ¡cambia de tarea!"
+        "es-ES": "[Hono]\n...\nEstá ocurriendo algo extraño.\nRápido, ¡cambia de tarea!"
     },
     "0YIcAw": {
         "en-US": "[Hono-oh]\nBeyond this door, there's\na secret space. It is full of\ndummies for practice.",
@@ -737,7 +737,7 @@
     "04IcAw": {
         "en-US": "[Hono-oh]\nSpeed is the essence of a Ninja.\n1 minute means 1 minute; no more, no less.\nI will start counting down as soon as we finish our conversation,\nso be swift.\n10 Drops, don't forget!",
         "pt-BR": "[Hono]\nPara os Ninjas, velocidade é o segredo!\nNão existem barreiras de tempo...\nVou começar a contar assim que eu parar de falar...\nSeja rápido, quebre as barreiras...\n10 Drops, não se esqueça!",
-        "es-ES": "[Hono]\nPara los Ninjas, ¡la velocidad es clave!\nNo hay barreras temporales…\nEmpezaré a contar en cuanto deje de hablar…\nDate prisa, rompe las barreras…\n10 Drops, ¡no lo olvides!"
+        "es-ES": "[Hono]\nPara los Ninjas, ¡la velocidad es clave!\nNo hay barreras temporales...\nEmpezaré a contar en cuanto deje de hablar...\nDate prisa, rompe las barreras...\n10 Drops, ¡no lo olvides!"
     },
     "1IIcAw": {
         "en-US": "[Hono-oh]\nI will give you exactly 1 minute.\nThere is a space behind the door, so\ngo and kill 10 Drops and\ncome back here.",
@@ -752,12 +752,12 @@
     "1oIcAw": {
         "en-US": "[Hono-oh]\nSpeed is the essence of a Ninja.\n1 minute means 1 minute; no more, no less.\nI will start counting down as soon as we finish our conversation,\nso be swift.\n10 Porings, don't forget!",
         "pt-BR": "[Hono]\nRecapitulando, beleza?\nSeja rápido, seja preciso e seja mortal...\nAssim que eu terminar de falar vou começar a contar 1 minuto...\nUse apenas Shurikens, Kunais e Huumas...\nVamo lá? 10 Porings, vá!!",
-        "es-ES": "[Hono]\nRecapitulemos, ¿de acuerdo?\nSé rápido, preciso y letal…\nEn cuanto termine de hablar, empezaré a contar 1minuto…\nUsa solo Shurikens, Kunais y Huumas…\n¿Empezamos? 10 Poring, ¡vamos!"
+        "es-ES": "[Hono]\nRecapitulemos, ¿de acuerdo?\nSé rápido, preciso y letal...\nEn cuanto termine de hablar, empezaré a contar 1minuto...\nUsa solo Shurikens, Kunais y Huumas...\n¿Empezamos? 10 Poring, ¡vamos!"
     },
     "14IcAw": {
         "en-US": "[Hono-oh]\nYou have not completed your mission yet.\nWhat do you expect from me?",
         "pt-BR": "[Hono]\nVocê ainda não completou a missão...\nO que pensa que tá fazendo?",
-        "es-ES": "[Hono]\nAún no completaste la misión…\n¿Qué crees que estás haciendo?"
+        "es-ES": "[Hono]\nAún no completaste la misión...\n¿Qué crees que estás haciendo?"
     },
     "2IIcAw": {
         "en-US": "I will leave now.",
@@ -777,7 +777,7 @@
     "24IcAw": {
         "en-US": "[Hono-oh]\nIsn't it about time...\nthat you found your own way\naround?",
         "pt-BR": "[Hono]\n...\nNão acha que deveria\nir para outro lugar?",
-        "es-ES": "[Hono]\n…\n¿No crees que deberías\nir a otro sitio?"
+        "es-ES": "[Hono]\n...\n¿No crees que deberías\nir a otro sitio?"
     },
     "3IIcAw": {
         "en-US": "[Hono-oh]\nDon't expect to be pampered forever!\nWhen I was your age,\nI used to go around hunting Dokebi in Payon Field and more.",
@@ -787,12 +787,12 @@
     "3YIcAw": {
         "en-US": "[Hono-oh]\nTsk... It can't be helped.\nRemember, I am helping you\nonly because you are still not strong enough.\nOnce you become strong,\nyou must find your own path. That is the mettle of a Ninja.",
         "pt-BR": "[Hono]\n...\nVeja bem, estou te deixando ir\nporque é imprudente.\nVá encontrar seu caminho e forjar\nseu próprio destino Ninja.",
-        "es-ES": "[Hono]\n…\nMira, te dejo ir\nporque eres imprudente.\nEncuentra tu camino y forja\ntu propio destino de Ninja."
+        "es-ES": "[Hono]\n...\nMira, te dejo ir\nporque eres imprudente.\nEncuentra tu camino y forja\ntu propio destino de Ninja."
     },
     "3oIcAw": {
         "en-US": "[Hono-oh]\nNow, press Confirm.\nDon't be confused when you arrive.",
         "pt-BR": "[Hono]\nBom, pode prosseguir...\nTente não se desesperar quando chegar...",
-        "es-ES": "[Hono]\nBueno, puedes seguir…\nIntenta no desesperarte cuando llegues…"
+        "es-ES": "[Hono]\nBueno, puedes seguir...\nIntenta no desesperarte cuando llegues..."
     },
     "34IcAw": {
         "en-US": "Confirm",
@@ -822,7 +822,7 @@
     "5IIcAw": {
         "en-US": "[Hono-oh]\nFirst...\nLet's start with some Rockers.\nYou must hunt 10 of them.\nSince you need to be cautious, I won't set a time limit.",
         "pt-BR": "[Hono]\n...\nQue tal começar com alguns Rockers?\nDerrote 10 Rockers.\nDessa vez não vou impor um limite de tempo, você vai ter que cuidar de si mesmo.",
-        "es-ES": "[Hono]\nPrimero…\nVamos comenzar con algunos Rockeros.\nDerrota a 10 Rockeros.\nEsta vez no te impondré un límite de tiempo, tendrás que cuidarte solo."
+        "es-ES": "[Hono]\nPrimero...\nVamos comenzar con algunos Rockeros.\nDerrota a 10 Rockeros.\nEsta vez no te impondré un límite de tiempo, tendrás que cuidarte solo."
     },
     "5YIcAw": {
         "en-US": "[Hono-oh]\nWhen you wish to return,\nuse the Butterfly Wings.\nThey will bring you back to this place immediately.\nMake sure to use them after completing your mission.",
@@ -837,7 +837,7 @@
     "54IcAw": {
         "en-US": "[Hono-oh]\nRockers can be found if you exit through Prontera's south gate\nand then go west...\nBut if you want, I can\nsend you there right away.\nSince it might be still difficult for you to find the way.",
         "pt-BR": "[Hono]\nRockers podem ser facilmente encontrados\nse você sair de Prontera pelo portão Sul e segui para Oeste.\nPosso te mandar diretamente para lá \nse quiser.\nAinda assim pode achar alguma dificuldade no caminho...",
-        "es-ES": "[Hono]\nLos Rockeros son fáciles de encontrar\nSolo debes salir de Prontera por la puerta sur y dirigirte hacia el oeste.\nSi quieres, puedo enviarte allí  \ndirectamente.\nAun así, puede que encuentres algunas dificultades por el camino…"
+        "es-ES": "[Hono]\nLos Rockeros son fáciles de encontrar\nSolo debes salir de Prontera por la puerta sur y dirigirte hacia el oeste.\nSi quieres, puedo enviarte allí  \ndirectamente.\nAun así, puede que encuentres algunas dificultades por el camino..."
     },
     "6IIcAw": {
         "en-US": "Please send me.",
@@ -872,7 +872,7 @@
     "7oIcAw": {
         "en-US": "[Hono-oh]\nYou can find Wormtails in the forest\neast of Payon...\nBut if you want, I can\nsend you there right away.\nSince it might be still difficult for you to find the way.",
         "pt-BR": "[Hono]\nRabos de Verme podem ser facilmente encontrados\nna floresta ao leste de Payon...\nPosso te mandar diretamente para lá \nse quiser.\nAinda assim pode achar alguma dificuldade no caminho...",
-        "es-ES": "[Hono]\nEs fácil encontrar Colas de gusano\nen el bosque al este de Payon…\nSi quieres, puedo enviarte allí  \ndirectamente.\nAun así, puede que encuentres algunas dificultades por el camino…"
+        "es-ES": "[Hono]\nEs fácil encontrar Colas de gusano\nen el bosque al este de Payon...\nSi quieres, puedo enviarte allí  \ndirectamente.\nAun así, puede que encuentres algunas dificultades por el camino..."
     },
     "74IcAw": {
         "en-US": "[Hono-oh]\nBe careful!",
@@ -887,7 +887,7 @@
     "8YIcAw": {
         "en-US": "[Hono-oh]\nYou haven't completed your mission.\nAre you afraid?\nFear does not exist without,\nbut is rather within you.\nThat is what it means to align your body and soul!",
         "pt-BR": "[Hono]\nVocê não completou sua missão...\nEstá com medo por acaso?\nO medo é um sentimento que\nvem de dentro.\nTudo é fruto de uma mente distorcida!",
-        "es-ES": "[Hono]\nNo completaste tu misión…\n¿Acaso tienes miedo?\nEl miedo es un sentimiento que\nproviene del interior.\n¡Es el resultado de una mente retorcida!"
+        "es-ES": "[Hono]\nNo completaste tu misión...\n¿Acaso tienes miedo?\nEl miedo es un sentimiento que\nproviene del interior.\n¡Es el resultado de una mente retorcida!"
     },
     "8oIcAw": {
         "en-US": "[Hono-oh]\nDo you remember the spot where you fought against\nthe Porings and Drops?\nIn that place, there is a slightly stronger being\ncalled Poporing.\nThis time, you must defeat one of them\nand return. That is your test.",
@@ -897,7 +897,7 @@
     "84IcAw": {
         "en-US": "[Hono-oh]\nHowever,\nthat Poporing is, compared to other Poporings,\nmuch stronger and more beautiful.\nNo, not beautiful...\nAnyway, it also has a special ability.",
         "pt-BR": "[Hono]\nHm...\nEsse Poporing é muito mais forte\ne estiloso que o Poporing normal.\nPera, não é tão estiloso assim...\nDe qualquer forma, possui uma habilidade especial.",
-        "es-ES": "[Hono]\nMm…\nEste Poporing es mucho más fuerte\ny elegante que el Poporing normal.\nBueno, no es tan elegante…\nEn cualquier caso, tiene una habilidad especial."
+        "es-ES": "[Hono]\nMm...\nEste Poporing es mucho más fuerte\ny elegante que el Poporing normal.\nBueno, no es tan elegante...\nEn cualquier caso, tiene una habilidad especial."
     },
     "9IIcAw": {
         "en-US": "[Hono-oh]\nSome of them Poporings are\nimmune to both normal physical attacks and physical skills,\nmaking them difficult to beat with such attacks.\nOthers are completely immune to\nmagic and Ninjutsu.",
@@ -907,7 +907,7 @@
     "9YIcAw": {
         "en-US": "[Hono-oh]\nYou must be careful.\nIf you do not pay attention to\nstrong attacks and dodging, you will be smashed in no time.",
         "pt-BR": "[Hono]\nSe não tiver cuidado, vai sofrer uma derrota!\nPreste atenção nos pontos forte e fracos,\ncaso contrário poderá perder a batalha...",
-        "es-ES": "[Hono]\nSi no tienes cuidado, ¡sufrirás una derrota!\nPresta atención a las fortalezas y debilidades\no podrías perder la batalla…"
+        "es-ES": "[Hono]\nSi no tienes cuidado, ¡sufrirás una derrota!\nPresta atención a las fortalezas y debilidades\no podrías perder la batalla..."
     },
     "9oIcAw": {
         "en-US": "[Hono-oh]\nIf you are defeated, then\nuse the Butterfly Wings you received previously\nand get back to this place.\nOf course, it would be best\nif you don't use them.",
@@ -927,17 +927,17 @@
     "+YIcAw": {
         "en-US": "[Hono-oh]\nIf you have nothing to do, go away.\nIf you bother me when I'm idle,\nyou will learn a very costly lesson. A very, very costly lesson.",
         "pt-BR": "[Hono]\nSe não tiver nada pra fazer, retorne!\n...",
-        "es-ES": "[Hono]\nSi no tienes nada que hacer, ¡regresa!\n…"
+        "es-ES": "[Hono]\nSi no tienes nada que hacer, ¡regresa!\n..."
     },
     "+oIcAw": {
         "en-US": "[Hono-oh]\nWh-what!\nSomething is wrong with you!\nSay it again.",
         "pt-BR": "[Hono]\nHm...\nHá algo estranho por aqui...\nFale comigo outra hora.",
-        "es-ES": "[Hono]\nMm…\nAquí hay algo extraño…\nHáblame en otro momento."
+        "es-ES": "[Hono]\nMm...\nAquí hay algo extraño...\nHáblame en otro momento."
     },
     "+4IcAw": {
         "en-US": "-^FF0000If you experience the same result after talking to me again, please contact support.^000000-",
         "pt-BR": "Se falar novamente e obtiver os mesmos resultados, vale a pena tentar outra coisa...",
-        "es-ES": "Si vuelves a hablar y obtienes los mismos resultados, vale la pena probar otra cosa…"
+        "es-ES": "Si vuelves a hablar y obtienes los mismos resultados, vale la pena probar otra cosa..."
     },
     "/IIcAw": {
         "en-US": "Strange Picture",
@@ -962,7 +962,7 @@
     "AIMcAw": {
         "en-US": "[Hono-oh]\nYou cannot enter that place just like that whenever you like!",
         "pt-BR": "[Hono]\nNão dá pra entrar e ficar são e salvo...",
-        "es-ES": "[Hono]\nNo puedes entrar y permanecer sano y salvo…"
+        "es-ES": "[Hono]\nNo puedes entrar y permanecer sano y salvo..."
     },
     "AYMcAw": {
         "en-US": "Practice Opponent",

@@ -1748,6 +1748,76 @@ tbl_data = {
 		Search = 1,
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100}
+	},
+	[9031] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[9043] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[9044] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[9047] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[9048] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[9049] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[9050] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4249] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4250] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4251] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4252] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4253] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4254] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[4255] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
 	}
 }
 local function MergeTables(dest, src)

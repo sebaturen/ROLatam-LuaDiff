@@ -347,7 +347,7 @@
     "RWzcAg": {
         "en-US": "[Survival Instructor ResQ]\nLook at you--I can barely recognize you now!\nCongratulations, you're a Ranger now!",
         "pt-BR": "[Instrutor Sobrevivente]\nVocê está tão bem.\nParabéns por se tornar um Sentinela.",
-        "es-ES": "[Instructor de supervivencia ResKT]\nMírate… ¡Apenas te reconozco!\n¡Felicitaciones, ya eres Errante!"
+        "es-ES": "[Instructor de supervivencia ResKT]\nMírate... ¡Apenas te reconozco!\n¡Felicitaciones, ya eres Errante!"
     },
     "RmzcAg": {
         "en-US": "[Survival Instructor ResQ]\nKeep up the good work being an example for others.",
@@ -357,12 +357,12 @@
     "R2zcAg": {
         "en-US": "[Survival Instructor ResQ]\nCoo-ee, who's this?\nLook at you--I can barely recognize you now!",
         "pt-BR": "[Instrutor Sobrevivente]\nOh~. Quem é~\nVocê está ótimo~",
-        "es-ES": "[Instructor de supervivencia ResKT]\nEh, ¿quién eres?\nMírate… ¡Apenas te reconozco!"
+        "es-ES": "[Instructor de supervivencia ResKT]\nEh, ¿quién eres?\nMírate... ¡Apenas te reconozco!"
     },
     "SGzcAg": {
         "en-US": "[Survival Instructor ResQ]\nYou know, the Guild has prepared a secret gift for you,\nwhich is... that coupon you received from Master the last time!",
         "pt-BR": "[Instrutor Sobrevivente]\nNa verdade, estava preparando um presente em segredo~\nO cupom especial de troca que eu consegui com o mestre da última vez era esse cupom de troca de presente~!",
-        "es-ES": "[Instructor de supervivencia ResKT]\nEl gremio te preparó un regalo secreto,\nque es… ¡el cupón que te dio el maestro la última vez!"
+        "es-ES": "[Instructor de supervivencia ResKT]\nEl gremio te preparó un regalo secreto,\nque es... ¡el cupón que te dio el maestro la última vez!"
     },
     "SWzcAg": {
         "en-US": "[Survival Instructor ResQ]\nI'm sorry to have kept you waiting so long.\nI hope this helps!",
@@ -447,7 +447,7 @@
     "WWzcAg": {
         "en-US": "[Practice Examiner Teardrop]\nHm... You're suspicious...",
         "pt-BR": "[Instrutor de Teste]\nHumm. É questionável...",
-        "es-ES": "[Examinador de prácticas Teardrop]\nMmm… Actúas de forma sospechosa…"
+        "es-ES": "[Examinador de prácticas Teardrop]\nMmm... Actúas de forma sospechosa..."
     },
     "WmzcAg": {
         "en-US": "[Practice Examiner Teardrop]\nPfft, I knew it!",
@@ -497,7 +497,7 @@
     "Y2zcAg": {
         "en-US": "[Practice Examiner Teardrop]\nOh! Oh! Oooh!\nYou've brought it! Let's see...",
         "pt-BR": "[Instrutor de Teste]\nHummm, ainda está quente?!\nParece que você não está ferido em nenhum lugar...",
-        "es-ES": "[Examinador de prácticas Teardrop]\n¡Ah! ¡Ah! ¡Ahhh!\n¡Trajiste lo que te pedí! Veamos…"
+        "es-ES": "[Examinador de prácticas Teardrop]\n¡Ah! ¡Ah! ¡Ahhh!\n¡Trajiste lo que te pedí! Veamos..."
     },
     "ZGzcAg": {
         "en-US": "[Practice Examiner Teardrop]\nHm, it's still warm.\nYou don't look hurt, either.",
@@ -537,7 +537,7 @@
     "a2zcAg": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "bGzcAg": {
         "en-US": "[Practice Examiner Teardrop]\nWhy not?\nIt's better than you think.\nIt almost tastes like a seaweed roll if you eat it with rice.",
@@ -652,7 +652,7 @@
     "gmzcAg": {
         "en-US": "[Practice Examiner Teardrop]\nAlright, then off you--mm?",
         "pt-BR": "[Instrutor de Teste]\nBom, então vamos começaaaaar..... humm?",
-        "es-ES": "[Examinador de prácticas Teardrop]\nEn ese caso, allí… ¿Mmm?"
+        "es-ES": "[Examinador de prácticas Teardrop]\nEn ese caso, allí... ¿Mmm?"
     },
     "g2zcAg": {
         "en-US": "[Practice Examiner Teardrop]\nHey, what's that you're hiding?\nAs I repeatedly said, don't even think about smuggling in anything but the test supplies you've been given.",
@@ -747,7 +747,7 @@
     "lWzcAg": {
         "en-US": "[Practice Examiner Teardrop]\n...Coward!",
         "pt-BR": "[Instrutor de Teste]\nEi, você não tem coragem!",
-        "es-ES": "[Examinador de prácticas Teardrop]\n… ¡Cobarde!"
+        "es-ES": "[Examinador de prácticas Teardrop]\n... ¡Cobarde!"
     },
     "lmzcAg": {
         "en-US": "[Practice Examiner Teardrop]\nAlright, I respect your decision.\nForget all about this, and live happily ever after somewhere.",
@@ -951,17 +951,17 @@
     },
     "vmzcAg": {
         "en-US": "[Staff DTS]\nYou'll receive 10 Bombring Capsules. When you use them, Bombrings will appear around you and explode after a while.",
-        "pt-BR": "[Instrutor]\nO atendente recebe 10 Cápsulas de Anel de Bomba. Quando você consome a cápsula de anel de bomba, um anel de bomba é atraído por perto e depois disso, quando você atinge um determinado tempo, o anel de bomba explode.",
+        "pt-BR": "[Instrutor]\nO atendente recebe 10 Cápsulas de Bombardeio. Quando você consome a cápsula de bombardeio, um Bombring é atraído por perto e depois disso, quando você atinge um determinado tempo, o Bombring explode.",
         "es-ES": "[Miembro del personal DTS]\nRecibirás 10 Cápsulas de Bombring. Cuando las uses, aparecerán Bombring a tu alrededor y explotarán después de un rato."
     },
     "v2zcAg": {
         "en-US": "[Staff DTS]\n^0000FFTheir explosions affect everyone around them, including you. Be careful not to get too close to them when you use them. Your objective is to eliminate monsters and carry out a mission using them as you travel to your destination.^000000",
-        "pt-BR": "[Instrutor]\n^0000FFA explosão do anel de bomba lhe afeta, então tome cuidado para não se envolver na explosão. Você precisa se livrar do monstro usando a cápsula do anel de bomba, realizar a missão e chegar vivo a um ponto final.^000000",
+        "pt-BR": "[Instrutor]\n^0000FFA explosão do Bombring lhe afeta, então tome cuidado para não se envolver na explosão. Você precisa se livrar do monstro usando a cápsula do Bombring, realizar a missão e chegar vivo a um ponto final.^000000",
         "es-ES": "[Miembro del personal DTS]\n^0000FFLas explosiones afectan a todos a tu alrededor, incluyéndote. Intenta no acercarte demasiado cuando las uses. Tu objetivo es usarlos para eliminar a los monstruos y llevar a cabo una misión mientras llegas a destino.^000000"
     },
     "wGzcAg": {
         "en-US": "[Staff DTS]\nThe second exam takes about 3 minutes to finish. Use all your Bombring Capsules, retrieve the hidden equipment, and reach your destination. You'll then pass the exam and be moved to the third test hall.",
-        "pt-BR": "[Instrutor]\nO tempo de desenvolvimento do segundo teste será de cerca de 3 minutos. Quando você consumir todas as cápsulas de anel de bomba, coletar um equipamento e chegar vivo a um ponto final, você será enviado ao campo do terceiro teste.",
+        "pt-BR": "[Instrutor]\nO tempo de desenvolvimento do segundo teste será de cerca de 3 minutos. Quando você consumir todas as cápsulas de bombardeio, coletar um equipamento e chegar vivo a um ponto final, você será enviado ao campo do terceiro teste.",
         "es-ES": "[Miembro del personal DTS]\nEl segundo examen dura unos 3 minutos. Usa todas las Cápsulas de Bombring, recupera el equipamiento oculto y llega a destino. Así pasarás el examen y avanzarás a la tercera sala de evaluación."
     },
     "wWzcAg": {
@@ -1127,7 +1127,7 @@
     "4WzcAg": {
         "en-US": "Test Supervisor Nautice: Let me tell you your test results. Of all the 20 Porings, you hit... {0}!",
         "pt-BR": "Aviso do Supervisor do Teste: Vou anunciar o resultado do teste. O número de porings que você atingiu entre 20 porings é... {0}!",
-        "es-ES": "Supervisor de exámenes Nautice: Déjame comunicarte los resultados del examen. De los 20 Poring, golpeaste a… ¡{0}!"
+        "es-ES": "Supervisor de exámenes Nautice: Déjame comunicarte los resultados del examen. De los 20 Poring, golpeaste a... ¡{0}!"
     },
     "4mzcAg": {
         "en-US": "Test Supervisor Nautice: Congratulations! Of all the 20 Porings, you hit at least 15 and passed the first exam. Now, let's move to the 2nd test hall.",
@@ -1301,12 +1301,12 @@
     },
     "BG3cAg": {
         "en-US": "Test Supervisor Kowsyun: Use a Bombring Capsule, and a Bombring will appear around you, exploding itself in 3 seconds.",
-        "pt-BR": "Supervisor do Teste Kowsyun: Quando você consome uma 'Cápsula do anel de bomba', um anel de bomba é concentrado perto de você e depois de 3 segundos ele estoura.",
+        "pt-BR": "Supervisor do Teste Kowsyun: Quando você consome uma 'Cápsula do Bombardeio', um Bombring se aproxima de você e depois de 3 segundos ele estoura.",
         "es-ES": "Supervisora de exámenes Kowsyun: Cuando uses una Cápsula de Bombring, aparecerá un Bombring cerca de ti y explotará al cabo de 3 segundos."
     },
     "BW3cAg": {
         "en-US": "Test Supervisor Kowsyun: Bombrings explode everything in 5 x5 cells around them. Be careful not to stay too close to them when you use them.",
-        "pt-BR": "Supervisor do Teste Kowsyun: A área da explosão do anel de bomba é uma célula 5x5 ao redor do anel de bomba, então, por favor, tenha cuidado para não ser pego na explosão.",
+        "pt-BR": "Supervisor do Teste Kowsyun: A área da explosão do Bombring é uma célula 5x5 ao redor do Bombring, então, por favor, tenha cuidado para não ser pego na explosão.",
         "es-ES": "Supervisora de exámenes Kowsyun: Los Bombring explotan todo a su alrededor en un radio de 5 x 5 celdas. Intenta no quedarte demasiado cerca cuando las uses."
     },
     "Bm3cAg": {
@@ -1316,7 +1316,7 @@
     },
     "B23cAg": {
         "en-US": "Test Supervisor Kowsyun: Oh, make sure you don't have any Bombring Capsule left when you come to me.",
-        "pt-BR": "Supervisor do Teste Kowsyun: Oh! Quando você vier me ver, todas as cápsulas de anel de bomba devem ser consumidas.",
+        "pt-BR": "Supervisor do Teste Kowsyun: Oh! Quando você vier me ver, todas as cápsulas de bombardeio devem ser consumidas.",
         "es-ES": "Supervisora de exámenes Kowsyun: Asegúrate de no tener ninguna Cápsula de Bombring restante cuando vengas a verme."
     },
     "CG3cAg": {
@@ -1411,7 +1411,7 @@
     },
     "Gm3cAg": {
         "en-US": "[Staff Rust]\nLet me give you some Bombring Capsules.\nIf you use them all and need more, please come back to me.",
-        "pt-BR": "[Rust]\nDarei a você a cápsula do anel de bomba.\nA cápsula de anel de bomba pode ser dada novamente apenas para aqueles que a usam inteira, então lembre-se disso, por favor.",
+        "pt-BR": "[Rust]\nDarei a você a cápsula do bombardeio.\nA cápsula de bombardeio pode ser dada novamente apenas para aqueles que a usam inteira, então lembre-se disso, por favor.",
         "es-ES": "[Miembro del personal Rust]\nTe daré algunas Cápsulas de Bombring.\nSi las usas a todas y necesitas más, ven a verme."
     },
     "G23cAg": {
@@ -1421,7 +1421,7 @@
     },
     "HG3cAg": {
         "en-US": "[Staff Rust]\nI'm sorry, but you still have some Bombring Capsules left. I can't give you more unless you run out of them.",
-        "pt-BR": "[Rust]\nDesculpe, mas você já tem a cápsula de anel de bomba, então não posso lhe fornecer mais.",
+        "pt-BR": "[Rust]\nDesculpe, mas você já tem a cápsula de bombardeio, então não posso lhe fornecer mais.",
         "es-ES": "[Miembro del personal Rust]\nLo siento, pero aún te quedan algunas Cápsulas de Bombring. No puedo darte más a menos que se te acaben."
     },
     "HW3cAg": {
@@ -1517,7 +1517,7 @@
     "L23cAg": {
         "en-US": "[Test Supervisor Kowsyun]\nWelcooom--mm?",
         "pt-BR": "[Test Supervisor Kowsyun]\nVocê chegou a salvo.......hã?",
-        "es-ES": "[Supervisora de exámenes Kowsyun]\nTe doy la bien… ¿Mmm?"
+        "es-ES": "[Supervisora de exámenes Kowsyun]\nTe doy la bien... ¿Mmm?"
     },
     "MG3cAg": {
         "en-US": "[Test Supervisor Kowsyun]\nDidn't Rust give you anything?",
@@ -1531,7 +1531,7 @@
     },
     "Mm3cAg": {
         "en-US": "[Test Supervisor Kowsyun]\nNo!\nI asked you to use all your Bombring Capsules first.",
-        "pt-BR": "[Test Supervisor Kowsyun]\nNão, não!\nVocê precisa consumir todas as cápsulas do anel de bomba?!",
+        "pt-BR": "[Test Supervisor Kowsyun]\nNão, não!\nVocê precisa consumir todas as cápsulas do bombardeio?!",
         "es-ES": "[Supervisora de exámenes Kowsyun]\n¡No!\nTe pedí que primero usaras todas las Cápsulas de Bombring."
     },
     "M23cAg": {
@@ -1602,7 +1602,7 @@
     "QG3cAg": {
         "en-US": "Test Supervisor Fritz: Yo! Yo score is... like... {0} out of 20!",
         "pt-BR": "Supervisor do Teste Freeze: A pontuação é... {0} de 20!",
-        "es-ES": "Supervisor de exámenes Fritz: ¡Ey! Tu puntaje… es como de… ¡{0} de 20!"
+        "es-ES": "Supervisor de exámenes Fritz: ¡Ey! Tu puntaje... es como de... ¡{0} de 20!"
     },
     "QW3cAg": {
         "en-US": "Test Supervisor Fritz: Dis is not bad, yo! Ya passed da exam! Now, imma move ya back ta da lobby!",
@@ -1612,7 +1612,7 @@
     "Qm3cAg": {
         "en-US": "Test Supervisor Fritz: Err... Ya didn't get 10 points. Sorry, ya failed.",
         "pt-BR": "Supervisor do Teste Freeze: É uma pena, mas você não passou de 10 pontos, então você falhou!!!!",
-        "es-ES": "Supervisor de exámenes Fritz: Eh… No conseguistes 10 puntos. Lo siento, fallaste."
+        "es-ES": "Supervisor de exámenes Fritz: Eh... No conseguistes 10 puntos. Lo siento, fallaste."
     },
     "Q23cAg": {
         "en-US": "Test Supervisor Fritz: Ya'll have ta start all over agaahn, like, yo. Go back.",
@@ -1687,7 +1687,7 @@
     "UW3cAg": {
         "en-US": "[Test Supervisor Fritz]\nWhadaaah...? Where's yo warg, yo? Where's da Warg Flute? Where did ya leave dem?",
         "pt-BR": "[Supervisor de Teste]\nHein?! Não há nenhum lobo, nenhuma Flauta de Lobo, onde você se livrou deles?!",
-        "es-ES": "[Supervisor de exámenes Fritz]\n¿Qué…? ¿Dónde está tu warg? ¿Dónde está la Flauta de warg? ¿Dónde los dejaste?"
+        "es-ES": "[Supervisor de exámenes Fritz]\n¿Qué...? ¿Dónde está tu warg? ¿Dónde está la Flauta de warg? ¿Dónde los dejaste?"
     },
     "Um3cAg": {
         "en-US": "[Test Supervisor Fritz]\nYo! I'll give ya another flute. Better not lose aht this time.",
@@ -1757,7 +1757,7 @@
     "X23cAg": {
         "en-US": "Egg Bomb: I'm doomed... Please don't stop me.",
         "pt-BR": "Bomba-ovo : Estou quase terminando agora... Não me interrompa.",
-        "es-ES": "Bomba huevo: Es mi perdición… No me detengas, por favor."
+        "es-ES": "Bomba huevo: Es mi perdición... No me detengas, por favor."
     },
     "YG3cAg": {
         "en-US": "Egg Bomb: Ah, was I dreaming all along?",
@@ -1777,12 +1777,12 @@
     "Y23cAg": {
         "en-US": "Egg Bomb: Life is futile... Dreams are far away...",
         "pt-BR": "Bomba-ovo : O mundo não tem sentido e meu sonho está muito distante...",
-        "es-ES": "Bomba huevo: La vida es inútil… Los sueños quedan muy lejos…"
+        "es-ES": "Bomba huevo: La vida es inútil... Los sueños quedan muy lejos..."
     },
     "ZG3cAg": {
         "en-US": "Egg Bomb: I... No, I can't hold it any longer!",
         "pt-BR": "Bomba-ovo : Eu.... não, eu não aguento mais!!",
-        "es-ES": "Bomba huevo: Yo… ¡No, ya no aguanto más!"
+        "es-ES": "Bomba huevo: Yo... ¡No, ya no aguanto más!"
     },
     "ZW3cAg": {
         "en-US": "Egg Bomb: Never let your guard down. Misfortune strikes you when the least expected.",
@@ -1797,7 +1797,7 @@
     "Z23cAg": {
         "en-US": "[Ranger Master Neveragain]\n...Mm?\nI'm confused. How did you get in here?",
         "pt-BR": "[Mestre Sentinela Neveragain]\n...Hum?\nÉ muito estranho... Como você conseguiu chegar aqui?",
-        "es-ES": "[Maestro Errante Nuncajamás]\n¿Mmm…?\nEstoy confundido. ¿Cómo entraste?"
+        "es-ES": "[Maestro Errante Nuncajamás]\n¿Mmm...?\nEstoy confundido. ¿Cómo entraste?"
     },
     "aG3cAg": {
         "en-US": "[Ranger Master Neveragain]\nIt's too early for you to be here.",
@@ -1812,7 +1812,7 @@
     "am3cAg": {
         "en-US": "[Ranger Master Neveragain]\n...What brings you?\nHow did you get in here?",
         "pt-BR": "[Mestre Sentinela Neveragain]\nEm que posso ajudar?\nComo você chegou aqui?",
-        "es-ES": "[Maestro Errante Nuncajamás]\n…¿Qué te trae por aquí?\n¿Cómo entraste?"
+        "es-ES": "[Maestro Errante Nuncajamás]\n...¿Qué te trae por aquí?\n¿Cómo entraste?"
     },
     "a23cAg": {
         "en-US": "[Ranger Master Neveragain]\nShouldn't you get the amount of experience you need to change to a Ranger first?\nCome back when you develop an aura around your feet.",
@@ -1887,7 +1887,7 @@
     "eW3cAg": {
         "en-US": "[Ranger Master Neveragain]\n...Pardon? That wasn't the answer I expected.",
         "pt-BR": "[Mestre Sentinela Neveragain]\n...Hum? Essa não é a resposta que eu estava esperando...",
-        "es-ES": "[Maestro Errante Nuncajamás]\n…¿Perdón? No era la respuesta que esperaba."
+        "es-ES": "[Maestro Errante Nuncajamás]\n...¿Perdón? No era la respuesta que esperaba."
     },
     "em3cAg": {
         "en-US": "[Ranger Master Neveragain]\nHave you really changed your mind, after passing all the practice exams?",
@@ -1917,12 +1917,12 @@
     "f23cAg": {
         "en-US": "[Ranger Master Neveragain]\n...Mm? By the way,\nyou still have something you've borrowed from us.\nWhat did you do with your test bow?",
         "pt-BR": "[Mestre Sentinela Neveragain]\nHã?\nVocê precisa devolver as coisas que pegou emprestado.\nOnde está o arco que lhe deram para o teste de mudança de classe?",
-        "es-ES": "[Maestro Errante Nuncajamás]\n¿Mmm…? Por cierto,\naún tienes algo que te prestamos.\n¿Qué hiciste con el Arco de prueba?"
+        "es-ES": "[Maestro Errante Nuncajamás]\n¿Mmm...? Por cierto,\naún tienes algo que te prestamos.\n¿Qué hiciste con el Arco de prueba?"
     },
     "gG3cAg": {
         "en-US": "[Ranger Master Neveragain]\n...Mm? Who are you?\nYou're not a Sniper.",
         "pt-BR": "[Mestre Sentinela Neveragain]\nEspere, quem é você?\nEi, você não é um caçador ou um franco-atirador?",
-        "es-ES": "[Maestro Errante Nuncajamás]\n¿Mmm…? ¿Quién eres?\nNo eres Francotirador."
+        "es-ES": "[Maestro Errante Nuncajamás]\n¿Mmm...? ¿Quién eres?\nNo eres Francotirador."
     },
     "gW3cAg": {
         "en-US": "[Ranger Master Neveragain]\nWhat are you doing here?\nYou don't belong here. Leave!",
@@ -2012,42 +2012,42 @@
     "km3cAg": {
         "en-US": "Turning on the Arena...",
         "pt-BR": "Ligar Arena",
-        "es-ES": "Activando la arena…"
+        "es-ES": "Activando la arena..."
     },
     "k23cAg": {
         "en-US": "Turning off the Arena...",
         "pt-BR": "Desligar Arena",
-        "es-ES": "Desactivando la arena…"
+        "es-ES": "Desactivando la arena..."
     },
     "lG3cAg": {
         "en-US": "Turning on the 1st exam...",
         "pt-BR": "Ligar 1º teste",
-        "es-ES": "Activando el primer examen…"
+        "es-ES": "Activando el primer examen..."
     },
     "lW3cAg": {
         "en-US": "Turning off the 1st exam...",
         "pt-BR": "Desligar 1º teste",
-        "es-ES": "Desactivando el primer examen…"
+        "es-ES": "Desactivando el primer examen..."
     },
     "lm3cAg": {
         "en-US": "Turning on the 2nd exam...",
         "pt-BR": "Ligar 2º teste",
-        "es-ES": "Activando el segundo examen…"
+        "es-ES": "Activando el segundo examen..."
     },
     "l23cAg": {
         "en-US": "Turning off the 2nd exam...",
         "pt-BR": "Desligar 2º teste",
-        "es-ES": "Desactivando el segundo examen…"
+        "es-ES": "Desactivando el segundo examen..."
     },
     "mG3cAg": {
         "en-US": "Turning on the 3rd exam...",
         "pt-BR": "Ligar 3º teste",
-        "es-ES": "Activando el tercer examen…"
+        "es-ES": "Activando el tercer examen..."
     },
     "mW3cAg": {
         "en-US": "Turning off the 3rd exam...",
         "pt-BR": "Desligar 3º teste",
-        "es-ES": "Desactivando el tercer examen…"
+        "es-ES": "Desactivando el tercer examen..."
     },
     "mm3cAg": {
         "en-US": "Flute Expert",
@@ -2102,6 +2102,6 @@
     "pG3cAg": {
         "en-US": "[Flute Expert]\nMm...? You're not a Ranger.\nMy flutes are not useful to anyone else.",
         "pt-BR": "[Especialista em flauta]\nHmm...? Você não é um Sentinela.\nMinhas flautas não são úteis para mais ninguém.",
-        "es-ES": "[Experto en la flauta]\n¿Mmm…? No eres Errante.\nMis flautas no le sirven a nadie más."
+        "es-ES": "[Experto en la flauta]\n¿Mmm...? No eres Errante.\nMis flautas no le sirven a nadie más."
     }
 }

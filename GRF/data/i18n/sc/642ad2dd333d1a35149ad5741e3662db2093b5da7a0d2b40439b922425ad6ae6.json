@@ -22,7 +22,7 @@
     "hCmPCA": {
         "en-US": "[Professor Bernhard]\nBecause I cannot leave my post, I need a warrior who can bring me the shards instead.\nI think you can assist me once again..",
         "pt-BR": "[Professor Bernardo]\nMas eu não posso deixar o meu posto... E sequer tenho os meios para derrotar esses titãs!\nPor isso, estava pensando aqui se você não poderia me ajudar! O que acha?",
-        "es-ES": "[Profesor Bernardo]\nComo no puedo abandonar mi puesto, necesito un guerrero que me traiga los fragmentos.\nCreo que puedes ayudarme una vez más…"
+        "es-ES": "[Profesor Bernardo]\nComo no puedo abandonar mi puesto, necesito un guerrero que me traiga los fragmentos.\nCreo que puedes ayudarme una vez más..."
     },
     "hSmPCA": {
         "en-US": "[Professor Bernhard]\nThere, all the preparations are finished.\nCan you go back in time again and bring me the Shards of Gigantes?\nI will make sure to compensate you sufficiently.",
@@ -67,12 +67,12 @@
     "jSmPCA": {
         "en-US": "[Professor Bernhard]\nI also realized that relics from the glorious past were also needed to create more powerful and superior weapons.\nThat is why..I need you..",
         "pt-BR": "[Professor Bernardo]\nIsso me levou a outra descoberta...\nAlgumas relíquias do passado eram utilizadas para criar armas poderosas.",
-        "es-ES": "[Profesor Bernardo]\nTambién me di cuenta de que se necesitaban reliquias del glorioso pasado para crear armas más poderosas y superiores.\nPor eso… te necesito…"
+        "es-ES": "[Profesor Bernardo]\nTambién me di cuenta de que se necesitaban reliquias del glorioso pasado para crear armas más poderosas y superiores.\nPor eso... te necesito..."
     },
     "jimPCA": {
         "en-US": "[Professor Bernhard]\nI need a warrior who can bring me the shard of Gigantes instead..\nYou seem capable.",
         "pt-BR": "[Professor Bernardo]\nPreciso de um guerreiro que possa me trazer o fragmento de Gigantes...\nVocê parece capaz.",
-        "es-ES": "[Profesor Bernardo]\nNecesito un guerrero que pueda traerme el Fragmento de Gigantes…\nPareces capaz."
+        "es-ES": "[Profesor Bernardo]\nNecesito un guerrero que pueda traerme el Fragmento de Gigantes...\nPareces capaz."
     },
     "jymPCA": {
         "en-US": "[Professor Bernhard]\nWhat do you think?\nWould you go to the past and bring me back the shards of Gigantes?\nI will make sure to compensate you sufficiently.",
@@ -152,7 +152,7 @@
     "nimPCA": {
         "en-US": "[Professor Bernhard]\nBecause I cannot leave my post,\nI need a warrior who can bring me the shards instead.\nI think you can assist me once again..",
         "pt-BR": "[Professor Bernardo]\nComo não posso deixar meu posto,\npreciso de um guerreiro que possa me trazer os fragmentos.\nAcho que você pode me ajudar mais uma vez...",
-        "es-ES": "[Profesor Bernardo]\nComo no puedo abandonar mi puesto, \nnecesito un guerrero que me traiga los fragmentos.\nCreo que puedes ayudarme una vez más…"
+        "es-ES": "[Profesor Bernardo]\nComo no puedo abandonar mi puesto, \nnecesito un guerrero que me traiga los fragmentos.\nCreo que puedes ayudarme una vez más..."
     },
     "nymPCA": {
         "en-US": "[Professor Bernhard]\nThere, all the preparations are finished.\nCan you go back in time again and bring me the shards of Gigantes?\nI will make sure to compensate you sufficiently.",
@@ -167,7 +167,7 @@
     "oSmPCA": {
         "en-US": "[Professor Bernhard]\nI also realized that relics from the glorious past were also needed to create more powerful and superior weapons.\nThat is why..",
         "pt-BR": "[Professor Bernardo]\nTambém percebi que relíquias do passado glorioso também eram necessárias para criar armas mais poderosas e superiores.\nÉ por isso...",
-        "es-ES": "[Profesor Bernardo]\nTambién me di cuenta de que se necesitaban reliquias del glorioso pasado para crear armas más poderosas y superiores.\nEs por eso que…"
+        "es-ES": "[Profesor Bernardo]\nTambién me di cuenta de que se necesitaban reliquias del glorioso pasado para crear armas más poderosas y superiores.\nEs por eso que..."
     },
     "oimPCA": {
         "en-US": "[Professor Bernhard]\nI cannot leave my post.\nI need a warrior who can bring me the shards instead..\nYou seem capable.",
@@ -492,7 +492,7 @@
     "4imPCA": {
         "en-US": "[Chief Assistant]\nSadly... it is..\ndestroyed...\nWhew..\nenchantment is not an easy task..",
         "pt-BR": "[Assistente Roger]\nErr...\nInfelizmente...\n...\nSeu item quebrou. Sinto muito.",
-        "es-ES": "[Asistente Roger]\nDesafortunadamente… se…\ndestruyó…\nUf… \nel encantamiento no es tarea fácil…"
+        "es-ES": "[Asistente Roger]\nDesafortunadamente... se...\ndestruyó...\nUf... \nel encantamiento no es tarea fácil..."
     },
     "4ymPCA": {
         "en-US": "[Chief Assistant]\nWhich ability do you want\nas an enchantment on slot 4?",
@@ -552,7 +552,7 @@
     "7imPCA": {
         "en-US": "[Chief Assistant]\nSadly... it is..\ndestroyed...\nWhew.. enchantment is not an easy\ntask..",
         "pt-BR": "[Assistente Roger]\nErr...\nInfelizmente...\n...\nSeu item quebrou. Sinto muito.",
-        "es-ES": "[Asistente Roger]\nDesafortunadamente… se…\ndestruyó…\nUf… el encantamiento no es una tarea\nfácil…"
+        "es-ES": "[Asistente Roger]\nDesafortunadamente... se...\ndestruyó...\nUf... el encantamiento no es una tarea\nfácil..."
     },
     "7ymPCA": {
         "en-US": "[Chief Assistant]\nSlot 4 enchantment Which ability do you choose?",

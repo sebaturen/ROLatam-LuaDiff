@@ -1,3 +1,4 @@
+
 SKILL_INFO_LIST = {
 	[SKID.NV_BASIC] = {
 		"NV_BASIC",

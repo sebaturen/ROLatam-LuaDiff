@@ -20055,6 +20055,622 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma da Crença Purificada"
 		},
+		Sakray_Fury = {
+			ItemID = 100479,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Poenitentia_Ensis",
+					600014
+				},
+				{
+					"Poenitentia_Catapulta",
+					630009
+				},
+				{
+					"Poenitentia_Gladius",
+					500019
+				},
+				{
+					"Poenitentia_Hasta",
+					530010
+				},
+				{
+					"Poenitentia_Ascia",
+					620006
+				},
+				{
+					"Poenitentia_Clava",
+					590016
+				},
+				{
+					"Poenitentia_Pendulus",
+					590017
+				},
+				{
+					"Poenitentia_Ligula",
+					500020
+				},
+				{
+					"Poenitentia_Termes",
+					640014
+				},
+				{
+					"Poenitentia_Virga",
+					640015
+				},
+				{
+					"Poenitentia_Scipio",
+					550019
+				},
+				{
+					"Poenitentia_Codex",
+					540014
+				},
+				{
+					"Poenitentia_Liber",
+					540015
+				},
+				{
+					"Poenitentia_Crystallum",
+					550020
+				},
+				{
+					"Poenitentia_Caestus",
+					560012
+				},
+				{
+					"Poenitentia_Ungula",
+					560013
+				},
+				{
+					"Poenitentia_Manus",
+					610016
+				},
+				{
+					"Poenitentia_Mucro",
+					510027
+				},
+				{
+					"Poenitentia_Tenon",
+					700022
+				},
+				{
+					"Poenetentia_Dilacero",
+					510028
+				},
+				{
+					"Poenitentia_Nervus",
+					700023
+				},
+				{
+					"Poenetentia_Attendo",
+					700024
+				},
+				{
+					"Poenitentia_Chorda",
+					570013
+				},
+				{
+					"Poenitentia_Flagellum",
+					580013
+				},
+				{
+					"Poenetentia_Vatia",
+					700025
+				},
+				{
+					"Poenitentia_Foramen",
+					800011
+				},
+				{
+					"Poenitentia_Penet",
+					810007
+				},
+				{
+					"Poenitentia_Veloci",
+					830010
+				},
+				{
+					"Poenitentia_Ruina",
+					840006
+				},
+				{
+					"Poenitentia_Orbis",
+					500046
+				},
+				{
+					"Poenitentia_Sol",
+					510056
+				},
+				{
+					"Poenitentia_Jana",
+					510057
+				},
+				{
+					"Poenitentia_Radius",
+					540044
+				},
+				{
+					"Poenitentia_Ramus",
+					550060
+				},
+				{
+					"Poenitentia_Planta",
+					550061
+				},
+				{
+					"Poenitentia_Ferrum",
+					550062
+				}
+			},
+			NeedSource_String = "Armas Penitência(Físico)"
+		},
+		Sakray_Fury2 = {
+			ItemID = 100480,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Poenitentia_Ensis",
+					600014
+				},
+				{
+					"Poenitentia_Catapulta",
+					630009
+				},
+				{
+					"Poenitentia_Gladius",
+					500019
+				},
+				{
+					"Poenitentia_Hasta",
+					530010
+				},
+				{
+					"Poenitentia_Ascia",
+					620006
+				},
+				{
+					"Poenitentia_Clava",
+					590016
+				},
+				{
+					"Poenitentia_Pendulus",
+					590017
+				},
+				{
+					"Poenitentia_Ligula",
+					500020
+				},
+				{
+					"Poenitentia_Termes",
+					640014
+				},
+				{
+					"Poenitentia_Virga",
+					640015
+				},
+				{
+					"Poenitentia_Scipio",
+					550019
+				},
+				{
+					"Poenitentia_Codex",
+					540014
+				},
+				{
+					"Poenitentia_Liber",
+					540015
+				},
+				{
+					"Poenitentia_Crystallum",
+					550020
+				},
+				{
+					"Poenitentia_Caestus",
+					560012
+				},
+				{
+					"Poenitentia_Ungula",
+					560013
+				},
+				{
+					"Poenitentia_Manus",
+					610016
+				},
+				{
+					"Poenitentia_Mucro",
+					510027
+				},
+				{
+					"Poenitentia_Tenon",
+					700022
+				},
+				{
+					"Poenetentia_Dilacero",
+					510028
+				},
+				{
+					"Poenitentia_Nervus",
+					700023
+				},
+				{
+					"Poenetentia_Attendo",
+					700024
+				},
+				{
+					"Poenitentia_Chorda",
+					570013
+				},
+				{
+					"Poenitentia_Flagellum",
+					580013
+				},
+				{
+					"Poenetentia_Vatia",
+					700025
+				},
+				{
+					"Poenitentia_Foramen",
+					800011
+				},
+				{
+					"Poenitentia_Penet",
+					810007
+				},
+				{
+					"Poenitentia_Veloci",
+					830010
+				},
+				{
+					"Poenitentia_Ruina",
+					840006
+				},
+				{
+					"Poenitentia_Orbis",
+					500046
+				},
+				{
+					"Poenitentia_Sol",
+					510056
+				},
+				{
+					"Poenitentia_Jana",
+					510057
+				},
+				{
+					"Poenitentia_Radius",
+					540044
+				},
+				{
+					"Poenitentia_Ramus",
+					550060
+				},
+				{
+					"Poenitentia_Planta",
+					550061
+				},
+				{
+					"Poenitentia_Ferrum",
+					550062
+				}
+			},
+			NeedSource_String = "Armas Penitência(Físico)"
+		},
+		Sakray_Regret = {
+			ItemID = 100485,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Poenitentia_Ensis",
+					600014
+				},
+				{
+					"Poenitentia_Catapulta",
+					630009
+				},
+				{
+					"Poenitentia_Gladius",
+					500019
+				},
+				{
+					"Poenitentia_Hasta",
+					530010
+				},
+				{
+					"Poenitentia_Ascia",
+					620006
+				},
+				{
+					"Poenitentia_Clava",
+					590016
+				},
+				{
+					"Poenitentia_Pendulus",
+					590017
+				},
+				{
+					"Poenitentia_Ligula",
+					500020
+				},
+				{
+					"Poenitentia_Termes",
+					640014
+				},
+				{
+					"Poenitentia_Virga",
+					640015
+				},
+				{
+					"Poenitentia_Scipio",
+					550019
+				},
+				{
+					"Poenitentia_Codex",
+					540014
+				},
+				{
+					"Poenitentia_Liber",
+					540015
+				},
+				{
+					"Poenitentia_Crystallum",
+					550020
+				},
+				{
+					"Poenitentia_Caestus",
+					560012
+				},
+				{
+					"Poenitentia_Ungula",
+					560013
+				},
+				{
+					"Poenitentia_Manus",
+					610016
+				},
+				{
+					"Poenitentia_Mucro",
+					510027
+				},
+				{
+					"Poenitentia_Tenon",
+					700022
+				},
+				{
+					"Poenetentia_Dilacero",
+					510028
+				},
+				{
+					"Poenitentia_Nervus",
+					700023
+				},
+				{
+					"Poenetentia_Attendo",
+					700024
+				},
+				{
+					"Poenitentia_Chorda",
+					570013
+				},
+				{
+					"Poenitentia_Flagellum",
+					580013
+				},
+				{
+					"Poenetentia_Vatia",
+					700025
+				},
+				{
+					"Poenitentia_Foramen",
+					800011
+				},
+				{
+					"Poenitentia_Penet",
+					810007
+				},
+				{
+					"Poenitentia_Veloci",
+					830010
+				},
+				{
+					"Poenitentia_Ruina",
+					840006
+				},
+				{
+					"Poenitentia_Orbis",
+					500046
+				},
+				{
+					"Poenitentia_Sol",
+					510056
+				},
+				{
+					"Poenitentia_Jana",
+					510057
+				},
+				{
+					"Poenitentia_Radius",
+					540044
+				},
+				{
+					"Poenitentia_Ramus",
+					550060
+				},
+				{
+					"Poenitentia_Planta",
+					550061
+				},
+				{
+					"Poenitentia_Ferrum",
+					550062
+				}
+			},
+			NeedSource_String = "Armas Penitência(Mágico)"
+		},
+		Sakray_Regret2 = {
+			ItemID = 100486,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Poenitentia_Ensis",
+					600014
+				},
+				{
+					"Poenitentia_Catapulta",
+					630009
+				},
+				{
+					"Poenitentia_Gladius",
+					500019
+				},
+				{
+					"Poenitentia_Hasta",
+					530010
+				},
+				{
+					"Poenitentia_Ascia",
+					620006
+				},
+				{
+					"Poenitentia_Clava",
+					590016
+				},
+				{
+					"Poenitentia_Pendulus",
+					590017
+				},
+				{
+					"Poenitentia_Ligula",
+					500020
+				},
+				{
+					"Poenitentia_Termes",
+					640014
+				},
+				{
+					"Poenitentia_Virga",
+					640015
+				},
+				{
+					"Poenitentia_Scipio",
+					550019
+				},
+				{
+					"Poenitentia_Codex",
+					540014
+				},
+				{
+					"Poenitentia_Liber",
+					540015
+				},
+				{
+					"Poenitentia_Crystallum",
+					550020
+				},
+				{
+					"Poenitentia_Caestus",
+					560012
+				},
+				{
+					"Poenitentia_Ungula",
+					560013
+				},
+				{
+					"Poenitentia_Manus",
+					610016
+				},
+				{
+					"Poenitentia_Mucro",
+					510027
+				},
+				{
+					"Poenitentia_Tenon",
+					700022
+				},
+				{
+					"Poenetentia_Dilacero",
+					510028
+				},
+				{
+					"Poenitentia_Nervus",
+					700023
+				},
+				{
+					"Poenetentia_Attendo",
+					700024
+				},
+				{
+					"Poenitentia_Chorda",
+					570013
+				},
+				{
+					"Poenitentia_Flagellum",
+					580013
+				},
+				{
+					"Poenetentia_Vatia",
+					700025
+				},
+				{
+					"Poenitentia_Foramen",
+					800011
+				},
+				{
+					"Poenitentia_Penet",
+					810007
+				},
+				{
+					"Poenitentia_Veloci",
+					830010
+				},
+				{
+					"Poenitentia_Ruina",
+					840006
+				},
+				{
+					"Poenitentia_Orbis",
+					500046
+				},
+				{
+					"Poenitentia_Sol",
+					510056
+				},
+				{
+					"Poenitentia_Jana",
+					510057
+				},
+				{
+					"Poenitentia_Radius",
+					540044
+				},
+				{
+					"Poenitentia_Ramus",
+					550060
+				},
+				{
+					"Poenitentia_Planta",
+					550061
+				},
+				{
+					"Poenitentia_Ferrum",
+					550062
+				}
+			},
+			NeedSource_String = "Armas Penitência(Mágico)"
+		},
 		PerfectSize_Up = {
 			ItemID = 101362,
 			NeedRefineMin = 0,
@@ -20072,6 +20688,92 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Sombrio Perfecta"
+		},
+		Reload_Shadow_Up = {
+			ItemID = 101178,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_S_Reload_Shield",
+					24746
+				}
+			},
+			NeedSource_String = "Sombrio Escudo de Recarga Separada"
+		},
+		M_Blitz_Shadow_Up = {
+			ItemID = 101261,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Mega_Blitz_Shield",
+					24767
+				},
+				{
+					"S_Mega_Blitz_Weapon",
+					24768
+				}
+			},
+			NeedSource_String = "Sombrio Mega Blitz"
+		},
+		Absorb_Shadow_Up = {
+			ItemID = 101262,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Absorb_Shield",
+					24685
+				},
+				{
+					"S_Absorb_Weapon",
+					24686
+				}
+			},
+			NeedSource_String = "Sombrio de Absorção"
+		},
+		EXPShadow_Up = {
+			ItemID = 101309,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_EXP_Shield",
+					24683
+				},
+				{
+					"S_EXP_Weapon",
+					24770
+				}
+			},
+			NeedSource_String = "Sombrio de Experiência"
+		},
+		InfinityShadow_Up = {
+			ItemID = 101311,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Infinity_Shield",
+					24733
+				},
+				{
+					"S_Infinity_Weapon",
+					24386
+				}
+			},
+			NeedSource_String = "Sombrio do Infinito"
 		}
 	},
 	get_lapine_box = function(in_box_id)

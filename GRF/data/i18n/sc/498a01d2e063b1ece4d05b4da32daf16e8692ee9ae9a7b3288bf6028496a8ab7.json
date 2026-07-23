@@ -52,22 +52,22 @@
     "amxuBg": {
         "en-US": "[Valkyrie]\nAlright, now...\nAt the count of one, Urd will preserve your memories of this life.\nAt the count of two, Verdandi will imprint your most glorious moments of this life.\nAt the count of three, Skuld will carry them over to your next life.",
         "pt-BR": "[Valquíria]\nEm seguida...\nNo um, Urd preservará suas memórias.\nNo dois, Verdandi manterá sua glória.\nNo três, Skuld guiará seu futuro.",
-        "es-ES": "[Valkiria]\nBien, ahora…\nA la cuenta de uno, Urd preservará tus recuerdos de esta vida.\nA la de dos, Verdandi imprimirá tus momentos más gloriosos de esta vida.\nA la cuenta de tres, Skuld los llevará a tu próxima vida."
+        "es-ES": "[Valkiria]\nBien, ahora...\nA la cuenta de uno, Urd preservará tus recuerdos de esta vida.\nA la de dos, Verdandi imprimirá tus momentos más gloriosos de esta vida.\nA la cuenta de tres, Skuld los llevará a tu próxima vida."
     },
     "a2xuBg": {
         "en-US": "[Valkyrie]\nOne...",
         "pt-BR": "[Valkyrie]\nUm...",
-        "es-ES": "[Valkiria]\nUno…"
+        "es-ES": "[Valkiria]\nUno..."
     },
     "bGxuBg": {
         "en-US": "[Valkyrie]\nTwo...",
         "pt-BR": "[Valkyrie]\nDois...",
-        "es-ES": "[Valkiria]\nDos…"
+        "es-ES": "[Valkiria]\nDos..."
     },
     "bWxuBg": {
         "en-US": "[Valkyrie]\nThree...",
         "pt-BR": "[Valquíria]\nTrês...",
-        "es-ES": "[Valkiria]\nTres…"
+        "es-ES": "[Valkiria]\nTres..."
     },
     "bmxuBg": {
         "en-US": "[Valkyrie]\nCongratulations! Everything is completed.\nThis is a small gift I've prepared to help you with your new journey.",
@@ -112,7 +112,7 @@
     "dmxuBg": {
         "en-US": "[Book of Ymir]\n...",
         "pt-BR": "[Livro de Ymir]\n...",
-        "es-ES": "[Libro de Ymir]\n…"
+        "es-ES": "[Libro de Ymir]\n..."
     },
     "d2xuBg": {
         "en-US": "^4D4DFF The Boost Promotion characters can change their jobs with the Job Change Agent summoned through the Book of Ymir.\n As for the 3rd jobs, you can also advance to one at the job guild.^000000",
@@ -122,7 +122,7 @@
     "eGxuBg": {
         "en-US": "[Book of Ymir]\n...The gate to the Glorious Temple\nis open to everyone who's been reborn.\nIt helps them start a new journey\nand reach anywhere in this world that they want.",
         "pt-BR": "[Livro de Ymir]\n...A entrada para o Salão da Honra\nestá aberta aos Renascidos.\nEla guiará viajantes a decidir\nsua próxima jornada no mundo.",
-        "es-ES": "[Libro de Ymir]\n…La puerta del Templo glorioso\nestá abierta a todos los que renacieron.\nLos ayuda a iniciar un nuevo viaje\ny llegar a cualquier lugar del mundo que deseen ir."
+        "es-ES": "[Libro de Ymir]\n...La puerta del Templo glorioso\nestá abierta a todos los que renacieron.\nLos ayuda a iniciar un nuevo viaje\ny llegar a cualquier lugar del mundo que deseen ir."
     },
     "eWxuBg": {
         "en-US": "[Book of Ymir]\nThe Temple has everything that they need\nto start anew. It also grants\nthem their wishes that can't be\nrealized in reality.",
@@ -152,12 +152,12 @@
     "fmxuBg": {
         "en-US": "[Book of Ymir]\n...So, people, as much as they wanted to learn about'\ntheir heroic ancestors' achievements,\nwanted to know how they died.\nAfter all, no one, even a hero,\ncan avoid death.",
         "pt-BR": "[Livro de Ymir]\n... Consequentemente,\nheróis antigos estavam sempre em angústia,\nsabendo que, eventualmente,\npor serem mortais,\neles iriam sumir deste mundo...",
-        "es-ES": "[Libro de Ymir]\n…Así que, por mucho que querían aprender sobre\nlos logros de sus heroicos antepasados,\nlas personas querían saber cómo murieron.\nDespués de todo, nadie, ni siquiera un héroe,\npuede evitar la muerte."
+        "es-ES": "[Libro de Ymir]\n...Así que, por mucho que querían aprender sobre\nlos logros de sus heroicos antepasados,\nlas personas querían saber cómo murieron.\nDespués de todo, nadie, ni siquiera un héroe,\npuede evitar la muerte."
     },
     "f2xuBg": {
         "en-US": "[Book of Ymir]\nBut there was no song,\nrecord, or rumor\nabout their last moments\nexcept...\nthe information about Valkyries\nwritten in Ragnarok.",
         "pt-BR": "[Livro de Ymir]\nNão existem registros, canções ou folclore\nque tenha qualquer informação\nsobre a vida após a morte.\nEntretanto...\nRecentemente descobri um antigo\npergaminho sobre as Valquírias...",
-        "es-ES": "[Libro de Ymir]\nPero no había canción,\nregistro o rumor\nsobre sus últimos momentos,\nexcepto…\nla información sobre las Valkirias\nescrita en Ragnarok."
+        "es-ES": "[Libro de Ymir]\nPero no había canción,\nregistro o rumor\nsobre sus últimos momentos,\nexcepto...\nla información sobre las Valkirias\nescrita en Ragnarok."
     },
     "gGxuBg": {
         "en-US": "[Book of Ymir]\nThe greatest of all humans\nwill fight the Final Battle,\nand when they die,\ntheir souls will be guided to Valhalla by Valkyries.\nUnlike the common to whom death is permanent disappearance,\nheroes can be reborn",
@@ -177,7 +177,7 @@
     "g2xuBg": {
         "en-US": "[Book of Ymir]\nand carry on our will and hopes as well as illuminating their era.\nI also hope a guide to the Temple of Valkyrie\nwill appear and lead\nsuch heroes. And...\n...",
         "pt-BR": "[Livro de Ymir]\nPor isso,\ntenho esperança de que alguém\napareça e lidere a jornada\npara o Valhalla...\n...",
-        "es-ES": "[Libro de Ymir]\nque pueda llevar adelante nuestra voluntad y nuestras esperanzas, además de brillar en su época.\nTambién espero que un guía del Templo de las Valkirias\nse aparezca y guíe\na dichos héroes. Y…\n…"
+        "es-ES": "[Libro de Ymir]\nque pueda llevar adelante nuestra voluntad y nuestras esperanzas, además de brillar en su época.\nTambién espero que un guía del Templo de las Valkirias\nse aparezca y guíe\na dichos héroes. Y...\n..."
     },
     "hGxuBg": {
         "en-US": "^4D4DFFMysterious energy surrounds you as you read the Book of Ymir.^000000",
@@ -222,7 +222,7 @@
     "jGxuBg": {
         "en-US": "[Lord Knight]\nEveryone else has agreed. I can't believe none of them has objected.\nThis means I'm the only one left who hasn't voiced his opinion,\nand my opinion is...",
         "pt-BR": "[Lorde]\nNós, Lordes,\ntemos uma incrível responsabilidade...\nservidão e proteção.",
-        "es-ES": "[Lord Caballero]\nTodos los demás están de acuerdo. No puedo creer que ninguno se opusiera.\nEsto significa que soy el único que aún no ha expresado su opinión,\ny mi opinión es…"
+        "es-ES": "[Lord Caballero]\nTodos los demás están de acuerdo. No puedo creer que ninguno se opusiera.\nEsto significa que soy el único que aún no ha expresado su opinión,\ny mi opinión es..."
     },
     "jWxuBg": {
         "en-US": "[Lord Knight]\naye.",
@@ -347,7 +347,7 @@
     "pWxuBg": {
         "en-US": "[High Priest]\nDear Odin, please bestow your authority upon this servant of yours who's standing in front of you.\nGive them the power to spread your will and grace across the earth.\n...",
         "pt-BR": "[Sumo Sacerdote]\nPelo poder da santidade,\nnós podemos encontrar a paz, força e proteção.\nLivrai-nos do mal.",
-        "es-ES": "[Sumo sacerdote]\nQuerido Odín, por favor, otorga tu autoridad a este sirviente tuyo que está parado frente a ti.\nDale el poder de extender tu voluntad y tu gracia por toda la Tierra.\n…"
+        "es-ES": "[Sumo sacerdote]\nQuerido Odín, por favor, otorga tu autoridad a este sirviente tuyo que está parado frente a ti.\nDale el poder de extender tu voluntad y tu gracia por toda la Tierra.\n..."
     },
     "pmxuBg": {
         "en-US": "[High Priest]\nIt's time to recover your glorious appearance\nand restore light to this era.\nPlease return anew\nand walk the path of heroes.",
@@ -407,7 +407,7 @@
     "sWxuBg": {
         "en-US": "[Champion]\n...Done.\n...",
         "pt-BR": "[Mestre]\nMas uma só pessoa pode dominar\numa certa quantidade na vida...",
-        "es-ES": "[Campeón]\n…Hecho.\n…"
+        "es-ES": "[Campeón]\n...Hecho.\n..."
     },
     "smxuBg": {
         "en-US": "[Champion]\nIt's time to recover your glorious appearance\nand restore light to this era.\nPlease return anew\nand walk the path of heroes.",
@@ -462,7 +462,7 @@
     "vGxuBg": {
         "en-US": "[High Wizard]\nNow that you're a High Wizard, you know you must act like one, right?\nWith great power comes great responsibility. Never forget that.\n...",
         "pt-BR": "[Arquimago]\nNós, Arquimagos, temos a responsabilidade de usar nossa magia destrutiva para os motivos certos.\nUma vida de treinamento é necessária antes de se tornar um Arquimago.\nJá imaginou o que aconteceria se nosso poder caísse nas mãos erradas?!",
-        "es-ES": "[Gran hechicero]\nAhora que eres un Gran hechicero, sabes que debes actuar como tal, ¿verdad?\nUn gran poder conlleva una gran responsabilidad. Nunca lo olvides.\n…"
+        "es-ES": "[Gran hechicero]\nAhora que eres un Gran hechicero, sabes que debes actuar como tal, ¿verdad?\nUn gran poder conlleva una gran responsabilidad. Nunca lo olvides.\n..."
     },
     "vWxuBg": {
         "en-US": "[High Wizard]\nIt's time to recover your glorious appearance\nand restore light to this era.\nPlease return anew\nand walk the path of heroes.",
@@ -517,7 +517,7 @@
     "x2xuBg": {
         "en-US": "[Scholar]\nKeep your thesis carefully since it's the only book you've written.\nFor now, at least. Also, you can read it and recall this day later.\n...",
         "pt-BR": "[Professor]\nGuarde sua tese com cuidado, pois é o único livro que você escreveu.\nPelo menos por enquanto. Além disso, você pode lê-la e lembrar-se dela mais tarde.\n...",
-        "es-ES": "[Erudito]\nGuarda tu tesis con cuidado, ya que es el único libro que has escrito.\nAl menos por ahora. Además, puedes leerlo y recordar este día más adelante.\n…"
+        "es-ES": "[Erudito]\nGuarda tu tesis con cuidado, ya que es el único libro que has escrito.\nAl menos por ahora. Además, puedes leerlo y recordar este día más adelante.\n..."
     },
     "yGxuBg": {
         "en-US": "[Scholar]\nIt's time to recover your glorious appearance\nand restore light to this era.\nPlease return anew\nand walk the path of heroes.",
@@ -632,7 +632,7 @@
     "3mxuBg": {
         "en-US": "[Biochemist]\nIf you bought 5 Helms at a 24% discount\nand sold them for a 20% higher price,\nhow much Zeny did you earn?\n...",
         "pt-BR": "[Criador]\nAté mesmo alguém habilidoso com a ciência pode ser um herói.\nNeste momento, não se consideram os meios que usei,\nmas os fins pelos quais eu lutei e que me deram um lugar\nem Valhalla...",
-        "es-ES": "[Bioquímico]\nSi compraste 5yelmos con un 24% de descuento\ny los vendiste a un 20% más alto,\n¿cuántos zeny ganaste?\n…"
+        "es-ES": "[Bioquímico]\nSi compraste 5yelmos con un 24% de descuento\ny los vendiste a un 20% más alto,\n¿cuántos zeny ganaste?\n..."
     },
     "32xuBg": {
         "en-US": "[Biochemist]\nIt's time to recover your glorious appearance\nand restore light to this era.\nPlease return anew\nand walk the path of heroes.",
@@ -712,7 +712,7 @@
     "7mxuBg": {
         "en-US": "[Sniper]\n^FFFF05Alright, let's start your Job Change test.^000000\n^FFFF05Hunt only the monsters whose name is ''Job Change Test Monster.''^000000\n^FFFF05***** Be careful not to fall into a trap while you're doing it. *****^000000\n...",
         "pt-BR": "[Atiradora de Elite]\n^FFFF05Um tiro.^000000\n^FFFF05Uma morte.^000000\n^FFFF05Uma caçada.^000000\n^FFFF05Não é difícil depois que você desenvolve a visão para esse tipo de batalha.^000000",
-        "es-ES": "[Francotirador]\n^FFFF05Muy bien, empecemos con tu prueba de cambio de clase.^000000\n^FFFF05Caza solo los monstruos cuyo nombre sea Monstruo de la prueba de cambio de clase.^000000\n^FFFF05*****Ten cuidado de no caer en una trampa mientras lo haces.*****^000000\n…"
+        "es-ES": "[Francotirador]\n^FFFF05Muy bien, empecemos con tu prueba de cambio de clase.^000000\n^FFFF05Caza solo los monstruos cuyo nombre sea Monstruo de la prueba de cambio de clase.^000000\n^FFFF05*****Ten cuidado de no caer en una trampa mientras lo haces.*****^000000\n..."
     },
     "72xuBg": {
         "en-US": "[Sniper]\nIt's time to recover your glorious appearance\nand restore light to this era.\nPlease return anew\nand walk the path of heroes.",
@@ -767,7 +767,7 @@
     "+WxuBg": {
         "en-US": "[Minstrel]\nThen, think you can sing?\nI'll sing first.\n...",
         "pt-BR": "[Menestrel]\nVocê quer cantar uma canção comigo?\nA nota é dó.\nLa la la la~",
-        "es-ES": "[Ministril]\nEntonces, ¿crees que puedes cantar?\nYo cantaré primero.\n…"
+        "es-ES": "[Ministril]\nEntonces, ¿crees que puedes cantar?\nYo cantaré primero.\n..."
     },
     "+mxuBg": {
         "en-US": "[Minstrel]\nIt's time to recover your glorious appearance\nand restore light to this era.\nPlease return anew\nand walk the path of heroes.",
@@ -822,7 +822,7 @@
     "BG1uBg": {
         "en-US": "[Gypsy]\nLeft, and then Right\n...",
         "pt-BR": "[Cigana]\nDança pode ser mais do que um hobby.\nPara mim, é um estilo de vida.",
-        "es-ES": "[Gitana]\nIzquierda y luego derecha\n…"
+        "es-ES": "[Gitana]\nIzquierda y luego derecha\n..."
     },
     "BW1uBg": {
         "en-US": "[Gypsy]\nIt's time to recover your glorious appearance\nand restore light to this era.\nPlease return anew\nand walk the path of heroes.",
@@ -932,7 +932,7 @@
     "Gm1uBg": {
         "en-US": "[Stalker]\nThe password is ^0000FF''Aragham never hoarded upgrade items.''^000000\n...",
         "pt-BR": "[Desordeira]\nQuando o negócio fica complicado, meus colegas sabem que ^0000FFpodem contar comigo^000000.\nEu preciso deles e eles de mim.",
-        "es-ES": "[Perseguidor]\nLa contraseña es ^0000FFAragham nunca atesoró objetos de mejora.^000000\n…"
+        "es-ES": "[Perseguidor]\nLa contraseña es ^0000FFAragham nunca atesoró objetos de mejora.^000000\n..."
     },
     "G21uBg": {
         "en-US": "[Stalker]\nIt's time to recover your glorious appearance\nand restore light to this era.\nPlease return anew\nand walk the path of heroes.",
@@ -987,7 +987,7 @@
     "JW1uBg": {
         "en-US": "[Teleporter]\nPlease do not touch anything that's on display here.\n...",
         "pt-BR": "[Teleportadora]\nPor favor,\nnão toque nas estátuas.",
-        "es-ES": "[Teletransportador]\nPor favor, no toques nada de lo que se expone aquí.\n…"
+        "es-ES": "[Teletransportador]\nPor favor, no toques nada de lo que se expone aquí.\n..."
     },
     "Jm1uBg": {
         "en-US": "[Teleporter]\nOne who remembers their most glorious moments,\nwhere would you like to go?",
@@ -1122,7 +1122,7 @@
     "QG1uBg": {
         "en-US": "[Metheus Sylphe]\nYou don't seem to be ashamed about it, either. Originally, it's the rule we'll only let you read it if you make a donation, but...",
         "pt-BR": "[Metheus Sylphe]\nBom, já que você não tem vergonha de ser pobre... posso abrir uma exceção...",
-        "es-ES": "[Metheus Sylphe]\nTampoco parece que te avergüences de ello. En principio, la regla es que solo puedes leerlo si haces una donación, pero…"
+        "es-ES": "[Metheus Sylphe]\nTampoco parece que te avergüences de ello. En principio, la regla es que solo puedes leerlo si haces una donación, pero..."
     },
     "QW1uBg": {
         "en-US": "[Metheus Sylphe]\nSometimes rules are to be broken, aren't they?",
@@ -1182,7 +1182,7 @@
     "TG1uBg": {
         "en-US": "[Metheus Sylphe]\n^0000FFRidewords^000000, for instance. They're so violent that they've been sealed somewhere in this library. A while ago, some of our sealed books...",
         "pt-BR": "[Metheus Sylphe]\n^0000FFRidewords^000000, por exemplo. Eles são tão violentos que foram selados em algum lugar desta biblioteca. Já tem um tempo que alguns dos livros lacrados...",
-        "es-ES": "[Metheus Sylphe]\nLos ^0000FFRideword^000000, por ejemplo. Son tan violentos que los encerraron en algún lugar de esta biblioteca. Hace un tiempo, algunos de nuestros libros encerrados…"
+        "es-ES": "[Metheus Sylphe]\nLos ^0000FFRideword^000000, por ejemplo. Son tan violentos que los encerraron en algún lugar de esta biblioteca. Hace un tiempo, algunos de nuestros libros encerrados..."
     },
     "TW1uBg": {
         "en-US": "[Metheus Sylphe]\n''^0000FFI'm tired of being sealed away in this library!^000000''\nThey screamed as they escaped.",

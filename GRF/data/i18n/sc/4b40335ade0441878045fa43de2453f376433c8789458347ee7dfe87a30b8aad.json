@@ -107,7 +107,7 @@
     "NRRd": {
         "en-US": "[Immigration Officer]\nSo if you will place your forms here...",
         "pt-BR": "[Oficial de Imigração]\nEntão, se puder colocar seus formulários aqui...",
-        "es-ES": "[Oficial de inmigración]\nAsí que si dejas los formularios aquí…"
+        "es-ES": "[Oficial de inmigración]\nAsí que si dejas los formularios aquí..."
     },
     "NhRd": {
         "en-US": "[???]\nHere!! These are my completed forms!!\nThis time it's all good, right?\nLet me through quick!",
@@ -137,7 +137,7 @@
     "OxRd": {
         "en-US": "[Immigration Officer]\nYes, I did say that but...",
         "pt-BR": "[Oficial de Imigração]\nSim, eu disse isso, mas...",
-        "es-ES": "[Oficial de inmigración]\nSí, lo dije, pero…"
+        "es-ES": "[Oficial de inmigración]\nSí, lo dije, pero..."
     },
     "PBRd": {
         "en-US": "- SMACK!!! -",
@@ -187,7 +187,7 @@
     "RRRd": {
         "en-US": "[Mark Esha]\nHu... I am so sorry that my friend is this stupid.\nPlease don't mind us and do what you need to do.",
         "pt-BR": "[Mark Esha]\nHum... Sinto muito por meu amigo ser tão estúpido.\nPor favor, não se importe conosco e faça o que precisa fazer.",
-        "es-ES": "[Mark Esha]\nEh… Siento mucho que sea así de idiota.\nNo nos hagas caso y haz lo que tengas que hacer."
+        "es-ES": "[Mark Esha]\nEh... Siento mucho que sea así de idiota.\nNo nos hagas caso y haz lo que tengas que hacer."
     },
     "RhRd": {
         "en-US": "[???]\nAHHHH!!!\nLET ME IN!!!!\nHow long do I have to wait out here!!!",
@@ -222,7 +222,7 @@
     "TBRd": {
         "en-US": "[Mark Esha]\nYou mean slower...",
         "pt-BR": "[Mark Esha]\nVocê quer dizer mais devagar...",
-        "es-ES": "[Mark Esha]\nQuieres decir más lento…"
+        "es-ES": "[Mark Esha]\nQuieres decir más lento..."
     },
     "TRRd": {
         "en-US": "[Du Lian]\nA real man does not get bogged down by the past!!\nI may have been slow with the documentation but I will be the one to enter Eclage first!\nMwahah!",
@@ -232,22 +232,22 @@
     "ThRd": {
         "en-US": "[Mark Esha]\n......Whew\nI'm so sorry for everything.",
         "pt-BR": "[Mark Esha]\n......Ui!\nSinto muito por tudo.",
-        "es-ES": "[Mark Esha]\n…Uf\nSiento mucho todo esto."
+        "es-ES": "[Mark Esha]\n...Uf\nSiento mucho todo esto."
     },
     "TxRd": {
         "en-US": "[???]\nWell......\nMr. Mark, Mr. Du is already gone.",
         "pt-BR": "[???]\nBem......\nSr. Mark, o Sr. Du já foi.",
-        "es-ES": "[???]\nBueno…\nSeñor Mark, el señor Du ya se fue."
+        "es-ES": "[???]\nBueno...\nSeñor Mark, el señor Du ya se fue."
     },
     "UBRd": {
         "en-US": "[Mark Esha]\nOh.............\nOh......................",
         "pt-BR": "[Mark Esha]\nOh.............\nOh......................",
-        "es-ES": "[Mark Esha]\nOh…………\nOh…………………"
+        "es-ES": "[Mark Esha]\nOh............\nOh....................."
     },
     "URRd": {
         "en-US": "[Mark Esha]\nMy goodness......",
         "pt-BR": "[Mark Esha]\nMinha nossa......",
-        "es-ES": "[Mark Esha]\nPor todos los dioses…"
+        "es-ES": "[Mark Esha]\nPor todos los dioses..."
     },
     "UhRd": {
         "en-US": "[Immigration Officer]\nThere's still a lot of people before you. Could you please wait until your turn?\nIt won't be too long.",
@@ -262,7 +262,7 @@
     "VBRd": {
         "en-US": "[Immigration Officer]\nAck...\nI don't think it's all for the best to have so many visitors.",
         "pt-BR": "[Oficial de Imigração]\nEca...\nNão acho que seja o melhor ter tantos visitantes.",
-        "es-ES": "[Oficial de inmigración]\nAy…\nNo creo que sea lo mejor tener tantos visitantes."
+        "es-ES": "[Oficial de inmigración]\nAy...\nNo creo que sea lo mejor tener tantos visitantes."
     },
     "VRRd": {
         "en-US": "Tourist",
@@ -272,7 +272,7 @@
     "VhRd": {
         "en-US": "[Tourist]\nI can't believe I have to wait this long......\nWhen is it going to be my turn?",
         "pt-BR": "[Turista]\nNão acredito que tenho que esperar tanto tempo......\nQuando será a minha vez?",
-        "es-ES": "[Turista]\nNo puedo creer que tenga que esperar tanto…\n¿Cuándo será mi turno?"
+        "es-ES": "[Turista]\nNo puedo creer que tenga que esperar tanto...\n¿Cuándo será mi turno?"
     },
     "VxRd": {
         "en-US": "[Tourist]\nI'm actually done with my documentation, but I'm just sticking around to appreciate all of these flowers.",
@@ -332,12 +332,12 @@
     "YhRd": {
         "en-US": "[Tourist]\nSnorrrreee....Erhem....",
         "pt-BR": "[Turista]\nRonco....Aham....",
-        "es-ES": "[Turista]\n*Zzzzzzz…* *Rrrrr…*"
+        "es-ES": "[Turista]\n*Zzzzzzz...* *Rrrrr...*"
     },
     "YxRd": {
         "en-US": "[Tourist]\nErr.... No.....\nCurry.... Curry rice.... Snorrreeeee",
         "pt-BR": "[Turista]\nErr.... Não.....\nCurry.... Arroz de Curry.... Roncooooo...",
-        "es-ES": "[Turista]\n*Rrr…* No…\nCurry… Arroz al curry… *Zzzzzzz*"
+        "es-ES": "[Turista]\n*Rrr...* No...\nCurry... Arroz al curry... *Zzzzzzz*"
     },
     "ZBRd": {
         "en-US": "[Tourist]\nOh! Are you also from Midgard?",
@@ -352,17 +352,17 @@
     "ZhRd": {
         "en-US": "[Tourist]\nOw.... My legs...\nYou're saying I have to wait after all this traveling through Bifrost?!",
         "pt-BR": "[Turista]\nAi.... Minhas pernas...\nEstá dizendo que eu tenho que esperar depois de toda essa viagem por Bifrost?",
-        "es-ES": "[Turista]\nAy… Mis piernas…\n¡¿Estás diciendo que tengo que esperar después de todo este viaje por Bifrost?!"
+        "es-ES": "[Turista]\nAy... Mis piernas...\n¡¿Estás diciendo que tengo que esperar después de todo este viaje por Bifrost?!"
     },
     "ZxRd": {
         "en-US": "[Tourist]\nAhh...\nWhy are there so many people...?",
         "pt-BR": "[Turista]\nAhh...\nPor que há tantas pessoas...?",
-        "es-ES": "[Turista]\nAhh…\n¿Por qué hay tanta gente…?"
+        "es-ES": "[Turista]\nAhh...\n¿Por qué hay tanta gente...?"
     },
     "aBRd": {
         "en-US": "[Tourist]\nI want to be alone......Sniff!",
         "pt-BR": "[Turista]\nQuero ficar sozinho......Sniff!",
-        "es-ES": "[Turista]\nQuiero estar solo… ¡Snif!"
+        "es-ES": "[Turista]\nQuiero estar solo... ¡Snif!"
     },
     "aRRd": {
         "en-US": "[Fairy Carpenter]\nHey!!!!!!!\nBe careful over there!!",
@@ -442,12 +442,12 @@
     "eBRd": {
         "en-US": "[Fairy Carpenter]\nWow!!!\nYou are going to help me?!\nSo... so kind...",
         "pt-BR": "[Fada Carpinteira]\nUau!!!\nVocê vai me ajudar?!\nTão... tão gentil...",
-        "es-ES": "[Hada carpintera]\n¡Vaya!\n¡¿Vas a ayudarme?!\nEres tan… tan amable…"
+        "es-ES": "[Hada carpintera]\n¡Vaya!\n¡¿Vas a ayudarme?!\nEres tan... tan amable..."
     },
     "eRRd": {
         "en-US": "[Fairy Carpenter]\nI can't believe there's still this kind of kindness left in the world... Hmm, sweaty eyes...",
         "pt-BR": "[Fada Carpinteira]\nNão posso acreditar que ainda exista esse tipo de bondade no mundo... Hmm, olhos suados...",
-        "es-ES": "[Hada carpintera]\nNo puedo creer que aún haya este tipo de bondad en el mundo… Mmm, ojos húmedos…"
+        "es-ES": "[Hada carpintera]\nNo puedo creer que aún haya este tipo de bondad en el mundo... Mmm, ojos húmedos..."
     },
     "ehRd": {
         "en-US": "[Fairy Carpenter]\nWould you then bring me a new bridge to use for repair?\nSince other people can get hurt, I'll use my magic to maintain this bridge in the meantime.",
@@ -477,12 +477,12 @@
     "fxRd": {
         "en-US": "[Fairy Carpenter]\nIf I were to describe how stupid that would be... Well, it's like turning a deliciously baked chocolate cake back into flour.",
         "pt-BR": "[Fada Carpinteira]\nSe eu fosse descrever o quanto isso seria burrice... Bem, é como transformar um bolo de chocolate deliciosamente assado em farinha.",
-        "es-ES": "[Hada carpintera]\nSi tuviera que describir lo estúpido que sería… Es como volver a convertir en harina un pastel de chocolate deliciosamente horneado."
+        "es-ES": "[Hada carpintera]\nSi tuviera que describir lo estúpido que sería... Es como volver a convertir en harina un pastel de chocolate deliciosamente horneado."
     },
     "gBRd": {
         "en-US": "[Fairy Carpenter]\nSince the broken part is about 19 meters from here...",
         "pt-BR": "[Fada Carpinteira]\nComo a parte quebrada está a cerca de 19 metros daqui...",
-        "es-ES": "[Hada carpintera]\nComo la parte rota está a unos 19 metros de aquí…"
+        "es-ES": "[Hada carpintera]\nComo la parte rota está a unos 19 metros de aquí..."
     },
     "gRRd": {
         "en-US": "[Fairy Carpenter]\nAhh! Now that I remember, before we used to be able to order the exact necessary length, but because they are mass-producing them nowadays, they only provide preset lengths.",
@@ -497,22 +497,22 @@
     "gxRd": {
         "en-US": "[Fairy Carpenter]\nand this broken bridge... from here to there it's about 19 meters and the preset pieces come in 3 meters, 5 meters, and 10 meters......",
         "pt-BR": "[Fada Carpinteira]\nE esta ponte quebrada... daqui até lá são cerca de 19 metros e as peças predefinidas vêm em 3, 5 e 10 metros......",
-        "es-ES": "[Hada carpintera]\ny este puente roto… de aquí a allí son unos 19 metros y las piezas preestablecidas vienen de a 3, 5 y 10 metros…"
+        "es-ES": "[Hada carpintera]\ny este puente roto... de aquí a allí son unos 19 metros y las piezas preestablecidas vienen de a 3, 5 y 10 metros..."
     },
     "hBRd": {
         "en-US": "[Fairy Carpenter]\nHmm.......",
         "pt-BR": "[Fada Carpinteira]\nHmm.......",
-        "es-ES": "[Hada carpintera]\nMmm…"
+        "es-ES": "[Hada carpintera]\nMmm..."
     },
     "hRRd": {
         "en-US": "[Fairy Carpenter]\nHmm......\n......",
         "pt-BR": "[Fada Carpinteira]\nHmm......\n......",
-        "es-ES": "[Hada carpintera]\nMmm…\n......"
+        "es-ES": "[Hada carpintera]\nMmm...\n......"
     },
     "hhRd": {
         "en-US": "[Fairy Carpenter]\n......Hmm.........",
         "pt-BR": "[Fada Carpinteira]\n......Hmm.........",
-        "es-ES": "[Hada carpintera]\nMmm…"
+        "es-ES": "[Hada carpintera]\nMmm..."
     },
     "hxRd": {
         "en-US": "- It's probably just my imagination that smoke is coming out of his head, right? -",
@@ -537,7 +537,7 @@
     "ixRd": {
         "en-US": "[Fairy Carpenter]\nHmm that's kind of....\nWould there be a better way?",
         "pt-BR": "[Fada Carpinteira]\nHmm, isso é meio....\nHaveria uma maneira melhor?",
-        "es-ES": "[Hada carpintera]\nMmm, eso es un poco…\n¿Hay una forma mejor?"
+        "es-ES": "[Hada carpintera]\nMmm, eso es un poco...\n¿Hay una forma mejor?"
     },
     "jBRd": {
         "en-US": "[Fairy Carpenter]\nYeah, that sounds good, right?\nEspecially since there wouldn't be a need to make them so straight.",
@@ -582,12 +582,12 @@
     "lBRd": {
         "en-US": "[Carpenter Fon]\n...",
         "pt-BR": "[Carpinteiro Fon]\n...",
-        "es-ES": "[Carpintero Fon]\n…"
+        "es-ES": "[Carpintero Fon]\n..."
     },
     "lRRd": {
         "en-US": "[{0}]\n...",
         "pt-BR": "[{0}]\n...",
-        "es-ES": "[{0}]\n…"
+        "es-ES": "[{0}]\n..."
     },
     "lhRd": {
         "en-US": "[Du Lian]\nNo way!\nThey're those guys from earlier!\nOy!\nI thought I got rid of them, but it looks like they aren't going to be that easy.",
@@ -612,7 +612,7 @@
     "mhRd": {
         "en-US": "[Du Lian]\nBut for a bridge to break so easily after running a bit, isn't it just too weak?\nGiants couldn't even visit Eclage in this wa...",
         "pt-BR": "[Du Lian]\nMas, para uma ponte se quebrar tão facilmente depois de correr um pouco, ela não é fraca demais?\nOs gigantes não poderiam nem mesmo visitar Eclage desse jeito...",
-        "es-ES": "[Du Lian]\nPero, para que un puente se rompa tan fácilmente después de correr un poco, ¿no es demasiado débil?\nLos gigantes ni siquiera pudieron visitar Eclage en este…"
+        "es-ES": "[Du Lian]\nPero, para que un puente se rompa tan fácilmente después de correr un poco, ¿no es demasiado débil?\nLos gigantes ni siquiera pudieron visitar Eclage en este..."
     },
     "mxRd": {
         "en-US": "- SNAP -",
@@ -627,17 +627,17 @@
     "nRRd": {
         "en-US": "[Mark Esha]\nOh dear....",
         "pt-BR": "[Mark Esha]\nAi, nossa....",
-        "es-ES": "[Mark Esha]\nOh…"
+        "es-ES": "[Mark Esha]\nOh..."
     },
     "nhRd": {
         "en-US": "[???]\nAh....",
         "pt-BR": "[???]\nAh....",
-        "es-ES": "[???]\nAh…"
+        "es-ES": "[???]\nAh..."
     },
     "nxRd": {
         "en-US": "[Du Lian]\nUh oh...",
         "pt-BR": "[Du Lian]\nUh oh...",
-        "es-ES": "[Du Lian]\nAy, no…"
+        "es-ES": "[Du Lian]\nAy, no..."
     },
     "oBRd": {
         "en-US": "[Du Lian]\nWait! No, it's really a mistake this time!\nLook!\nEven this warning sign tells you that you have to grab onto the hand rails since the bridge is so dangerous.",
@@ -652,7 +652,7 @@
     "ohRd": {
         "en-US": "[Carpenter Fon]\nSigh...",
         "pt-BR": "[Carpinteiro Fon]\nSuspiro...",
-        "es-ES": "[Carpintero Fon]\n*Suspira…*"
+        "es-ES": "[Carpintero Fon]\n*Suspira...*"
     },
     "oxRd": {
         "en-US": "[Carpenter Fon]\nShoot.................................\n....................................\n............",
@@ -677,12 +677,12 @@
     "pxRd": {
         "en-US": "[Carpenter Fon]\nOy........\nI thought today I might be able to see my friends after finishing up my work.....\nLooks like a long night again.",
         "pt-BR": "[Carpinteiro Fon]\nOI........\nPensei que hoje eu poderia ver meus amigos depois de terminar o trabalho.....\nParece que a noite será longa novamente.",
-        "es-ES": "[Carpintero Fon]\nEy…\nPensé que hoy podría ver a mis amigos después de terminar mi trabajo…\nParece que será una noche larga otra vez."
+        "es-ES": "[Carpintero Fon]\nEy...\nPensé que hoy podría ver a mis amigos después de terminar mi trabajo...\nParece que será una noche larga otra vez."
     },
     "qBRd": {
         "en-US": "[Carpenter Fon]\nSince it's not a big fix, I'm sure I can take care of this somehow.\nSigh...",
         "pt-BR": "[Carpinteiro Fon]\nComo não é um grande conserto, tenho certeza de que posso cuidar disso de alguma forma.\nSuspiro...",
-        "es-ES": "[Carpintero Fon]\nComo no es un arreglo grande, seguro que puedo solucionarlo de alguna manera.\n*Suspira…*"
+        "es-ES": "[Carpintero Fon]\nComo no es un arreglo grande, seguro que puedo solucionarlo de alguna manera.\n*Suspira...*"
     },
     "qRRd": {
         "en-US": "[Carpenter Fon]\n{0} Well, you should get going to Eclage.\nYou just need to follow this path to the northern part of the city.",
@@ -702,7 +702,7 @@
     "rBRd": {
         "en-US": "[Carpenter Fon]\nBut where are the materials.\nI need to start repairing soon...",
         "pt-BR": "[Carpinteiro Fon]\nMas onde estão os materiais?\nPreciso começar a consertar logo...",
-        "es-ES": "[Carpintero Fon]\n¿Pero dónde están los materiales?\nTengo que empezar a reparar pronto…"
+        "es-ES": "[Carpintero Fon]\n¿Pero dónde están los materiales?\nTengo que empezar a reparar pronto..."
     },
     "rRRd": {
         "en-US": "[Carpenter Fon]\nI really ask you this favor because I'm supposed to meet with my friends to discuss a birthday coming up, but I can't just keep them waiting.",
@@ -747,7 +747,7 @@
     "tRRd": {
         "en-US": "[Golie]\nWould this be how the times are changing...? That must be why I am creating these objects of tragic destinies.",
         "pt-BR": "[Golie]\nSerá que é assim que os tempos estão mudando...? Deve ser por isso que estou criando esses objetos de destinos trágicos.",
-        "es-ES": "[Golie]\n¿Será así como están cambiando los tiempos…? Debe ser por eso que estoy creando estos objetos con destinos trágicos."
+        "es-ES": "[Golie]\n¿Será así como están cambiando los tiempos...? Debe ser por eso que estoy creando estos objetos con destinos trágicos."
     },
     "thRd": {
         "en-US": "[Golie]\nThis seed is named [Goliath] after my name, and it's a plant used as a bridge for its strange ability to grow into two stems and one leaf.",
@@ -767,7 +767,7 @@
     "uRRd": {
         "en-US": "[Golie]\nWhenever you are disheartened and discouraged, try approaching Fili with your concerns. You will probably find new insights. \nAnd... Mm... the bridge was done while we were just jibber-jabbering.",
         "pt-BR": "[Golie]\nSempre que estiver desanimado e desmotivado, tente falar com Fili sobre suas preocupações. Você provavelmente encontrará novas ideias. \nE... hum... a ponte foi feita enquanto estávamos apenas tagarelando.",
-        "es-ES": "[Golie]\nCuando te sientas abatido y desanimado, prueba hablar sobre tus preocupaciones con Fili. Probablemente, encontrarás nuevas perspectivas. \nY… Mm… el puente se hizo mientras estábamos parloteando."
+        "es-ES": "[Golie]\nCuando te sientas abatido y desanimado, prueba hablar sobre tus preocupaciones con Fili. Probablemente, encontrarás nuevas perspectivas. \nY... Mm... el puente se hizo mientras estábamos parloteando."
     },
     "uhRd": {
         "en-US": "[Golie]\nAlright, you may now deliver this to Fon. Also, while I know that it is difficult in these busy times, would you also tell him that I said, 'please take more precious care of them?'",
@@ -791,7 +791,7 @@
     },
     "vhRd": {
         "en-US": "[Golie]\nTo grow Elder Willow trees\nthe alarm in the clock tower\nagain must have cried as such.",
-        "pt-BR": "[Golie]\nPara que os Salgueiros Anciãos cresçam,\no alarme da torre do relógio\ndeve ter chorado assim… mais uma vez.",
+        "pt-BR": "[Golie]\nPara que os Salgueiros Anciãos cresçam,\no alarme da torre do relógio\ndeve ter chorado assim... mais uma vez.",
         "es-ES": "[Golie]\nPara cultivar Sauces ancianos\nla alarma de la Torre del reloj\ndebe haber sonado como ellos."
     },
     "vxRd": {
@@ -812,17 +812,17 @@
     "whRd": {
         "en-US": "[Glaces]\nHm......\nThe guys are late.\nI can only imagine that they would be busy just looking at the number of people visiting Eclage nowadays but...",
         "pt-BR": "[Glaces]\nHm......\nOs rapazes estão atrasados.\nEu só posso imaginar que eles estariam ocupados só de olhar para o número de pessoas que visitam Eclage hoje em dia, mas...",
-        "es-ES": "[Glaces]\nMmm…\nLos chicos llegan tarde.\nSolo puedo imaginar que están ocupados viendo la cantidad de gente que visita Eclage actualmente, pero…"
+        "es-ES": "[Glaces]\nMmm...\nLos chicos llegan tarde.\nSolo puedo imaginar que están ocupados viendo la cantidad de gente que visita Eclage actualmente, pero..."
     },
     "wxRd": {
         "en-US": "[Glaces]\nWhy... why do I have so much time at hand...?\nAm I the only one with so much free time?\nAm I really the only one?",
         "pt-BR": "[Glaces]\nPor q... por que tenho tanto tempo disponível...?\nSerá que sou o único com tanto tempo livre?\nSerá que sou mesmo o único?",
-        "es-ES": "[Glaces]\n¿Por qué… por qué tengo tanto tiempo disponible…?\n¿Soy la única con tanto tiempo libre?\n¿Realmente soy la única?"
+        "es-ES": "[Glaces]\n¿Por qué... por qué tengo tanto tiempo disponible...?\n¿Soy la única con tanto tiempo libre?\n¿Realmente soy la única?"
     },
     "xBRd": {
         "en-US": "[Glaces]\nHmm...\nThe guys are late.",
         "pt-BR": "[Glaces]\nHmm...\nOs caras estão atrasados.",
-        "es-ES": "[Glaces]\nMmm…\nLos chicos llegan tarde."
+        "es-ES": "[Glaces]\nMmm...\nLos chicos llegan tarde."
     },
     "xRRd": {
         "en-US": "[{0}]\nExcuse me?",
@@ -837,22 +837,22 @@
     "xxRd": {
         "en-US": "[Glaces]\nAh...\nOh...Well...",
         "pt-BR": "[Glaces]\nAh...\nOh... Bem...",
-        "es-ES": "[Glaces]\nAh…\nOh… Bueno…"
+        "es-ES": "[Glaces]\nAh...\nOh... Bueno..."
     },
     "yBRd": {
         "en-US": "[Glaces]\nUm... This is sort of awkward for me...",
         "pt-BR": "[Glaces]\nHum... Isso é meio estranho para mim...",
-        "es-ES": "[Glaces]\nEh… Esto es un poco incómodo para mí…"
+        "es-ES": "[Glaces]\nEh... Esto es un poco incómodo para mí..."
     },
     "yRRd": {
         "en-US": "[{0}]\nNo, that's not what I mean...",
         "pt-BR": "[{0}]\nNão, não é isso que quero dizer...",
-        "es-ES": "[{0}]\nNo, no me refiero a eso…"
+        "es-ES": "[{0}]\nNo, no me refiero a eso..."
     },
     "yhRd": {
         "en-US": "[Glaces]\nHmm...\nYou see, I have a boyfriend already.\nMan.",
         "pt-BR": "[Glaces]\nHmm...\nVeja, eu já tenho namorado.\nHomem.",
-        "es-ES": "[Glaces]\nMmm…\nVerás, ya tengo novio.\nOh, no…"
+        "es-ES": "[Glaces]\nMmm...\nVerás, ya tengo novio.\nOh, no..."
     },
     "yxRd": {
         "en-US": "[Glaces]\nThis is why I don't like to be kept waiting for long. My popularity just doesn't let me go anywhere without being noticed.",
@@ -862,12 +862,12 @@
     "zBRd": {
         "en-US": "[{0}]\nNo, I mean... Mr. Fon told me to let you know that he won't be able to make it because of his work...",
         "pt-BR": "[{0}]\nNão, quero dizer... O Sr. Fon me disse para avisá-lo que ele não poderá vir por causa do trabalho...",
-        "es-ES": "[{0}]\nNo, quiero decir… El señor Fon me dijo que te avisara que no podrá venir debido a su trabajo…"
+        "es-ES": "[{0}]\nNo, quiero decir... El señor Fon me dijo que te avisara que no podrá venir debido a su trabajo..."
     },
     "zRRd": {
         "en-US": "[Glaces]\n...",
         "pt-BR": "[Glaces]\n...",
-        "es-ES": "[Glaces]\n…"
+        "es-ES": "[Glaces]\n..."
     },
     "zhRd": {
         "en-US": "[Glaces]\nOh, I see.",
@@ -892,7 +892,7 @@
     "0hRd": {
         "en-US": "[Glaces]\nYube even flew here from Splendide for Moreng's birthday...\nSpeaking of which, where did that guy go?!",
         "pt-BR": "[Glaces]\nYube até voou de Esplendor para cá para o aniversário de Moreng...\nPor falar nisso, para onde foi aquele cara?!",
-        "es-ES": "[Glaces]\nYube incluso voló hasta aquí desde Splendide para el cumpleaños de Moreng…\nHablando de eso, ¡¿a dónde fue ese tipo?!"
+        "es-ES": "[Glaces]\nYube incluso voló hasta aquí desde Splendide para el cumpleaños de Moreng...\nHablando de eso, ¡¿a dónde fue ese tipo?!"
     },
     "0xRd": {
         "en-US": "[Glaces]\nHe was the one who suggested that we should meet at his own place.\nThe least he could do is opening the door before disappearing!",
@@ -942,7 +942,7 @@
     "3BRd": {
         "en-US": "[Du Lian]\nI don't usually recognize others like this, but I'll let you be my rival!\nAnd as for the competition-!!\nIt is to help this girl fairy Graces!",
         "pt-BR": "[Du Lian]\nEu não costumo reconhecer os outros assim, mas vou deixar você ser meu rival!\nE quanto à competição...!!!\nÉ para ajudar essa garota, a fada Graces!",
-        "es-ES": "[Du Lian]\nNo suelo reconocer así a los demás, ¡pero dejaré que seas mi rival!\nY en cuanto a la competencia…\n¡Es para ayudar a esta chica hada, Glaces!"
+        "es-ES": "[Du Lian]\nNo suelo reconocer así a los demás, ¡pero dejaré que seas mi rival!\nY en cuanto a la competencia...\n¡Es para ayudar a esta chica hada, Glaces!"
     },
     "3RRd": {
         "en-US": "[Glaces]\nWho are you calling a girl? You got my name wrong too!",
@@ -962,12 +962,12 @@
     "4BRd": {
         "en-US": "[Glaces]\nOh...\nMoreng's age?",
         "pt-BR": "[Glaces]\nAh...\nA idade de Moreng?",
-        "es-ES": "[Glaces]\nOh…\n¿Cuántos años tiene Moreng?"
+        "es-ES": "[Glaces]\nOh...\n¿Cuántos años tiene Moreng?"
     },
     "4RRd": {
         "en-US": "[Glaces]\nHmm... I think we are apart by about 30 years...",
         "pt-BR": "[Glaces]\nHmm... Acho que estamos separados por cerca de 30 anos...",
-        "es-ES": "[Glaces]\nMmm… Creo que nos separan unos 30 años…"
+        "es-ES": "[Glaces]\nMmm... Creo que nos separan unos 30 años..."
     },
     "4hRd": {
         "en-US": "Then what's Glaces' age?",
@@ -1002,22 +1002,22 @@
     "6BRd": {
         "en-US": "[Glaces]\nTo think of it, I should probably visit Fon and Golie as well...\nI guess I'll visit later.",
         "pt-BR": "[Glaces]\nPensando nisso, eu provavelmente deveria visitar Fon e Golie também...\nAcho que vou visitá-los mais tarde.",
-        "es-ES": "[Glaces]\nPensándolo bien, probablemente, también debería visitar a Fon y Golie…\nSupongo que los visitaré más tarde."
+        "es-ES": "[Glaces]\nPensándolo bien, probablemente, también debería visitar a Fon y Golie...\nSupongo que los visitaré más tarde."
     },
     "6RRd": {
         "en-US": "[Glaces]\nMm.. Something's missing... Mm, I couldn't tell you exactly...\nYou should go see Yube.",
         "pt-BR": "[Glaces]\nMm... Algo está faltando... Mm, não sei lhe dizer exatamente...\nVocê deveria ir ver Yube.",
-        "es-ES": "[Glaces]\nMmm… Falta algo… Mmm, no podría decirte exactamente…\nDeberías ir a ver a Yube."
+        "es-ES": "[Glaces]\nMmm... Falta algo... Mmm, no podría decirte exactamente...\nDeberías ir a ver a Yube."
     },
     "6hRd": {
         "en-US": "[Glaces]\nWhoa!\nWe would need an enormous cake to fit all these candles...",
         "pt-BR": "[Glaces]\nUau!\nPrecisaríamos de um bolo enorme para colocar todas essas velas...",
-        "es-ES": "[Glaces]\n¡Vaya!\nNecesitaríamos un pastel enorme para que entraran todas estas velas…"
+        "es-ES": "[Glaces]\n¡Vaya!\nNecesitaríamos un pastel enorme para que entraran todas estas velas..."
     },
     "6xRd": {
         "en-US": "[Glaces]\nHmm... Since everyone seems so busy, I'm going to give up meeting them today and just go to bake a cake big enough to fit the candles.",
         "pt-BR": "[Glaces]\nHmm... Já que todos parecem tão ocupados, vou desistir de me encontrar com eles hoje e vou fazer um bolo grande o suficiente para caber as velas.",
-        "es-ES": "[Glaces]\nMmm… Como todo el mundo parece tan ocupado, desistiré de reunirme con ellos hoy y hornearé un pastel lo suficientemente grande para que entren las velas."
+        "es-ES": "[Glaces]\nMmm... Como todo el mundo parece tan ocupado, desistiré de reunirme con ellos hoy y hornearé un pastel lo suficientemente grande para que entren las velas."
     },
     "7BRd": {
         "en-US": "[Glaces]\nMoreng's house is down this road, so please ask him if he wants anything for his birthday.",
@@ -1072,12 +1072,12 @@
     "9hRd": {
         "en-US": "[Maggi Steen]\n...",
         "pt-BR": "[Maggi Steen]\n...",
-        "es-ES": "[Maggi Steen]\n…"
+        "es-ES": "[Maggi Steen]\n..."
     },
     "9xRd": {
         "en-US": "[???]\n...",
         "pt-BR": "[???]\n...",
-        "es-ES": "[???]\n…"
+        "es-ES": "[???]\n..."
     },
     "+BRd": {
         "en-US": "[???]\nCan you see me?",
@@ -1107,17 +1107,17 @@
     "/RRd": {
         "en-US": "[Alp Ocart]\n...",
         "pt-BR": "[Alp Ocart]\n...",
-        "es-ES": "[AHP Ocart]\n…"
+        "es-ES": "[AHP Ocart]\n..."
     },
     "/hRd": {
         "en-US": "[Alp Ocart]\nNow that I think about it, I think I saw you somewhere...\nWhere was it?",
         "pt-BR": "[Alp Ocart]\nAgora que penso nisso, acho que o vi em algum lugar...\nOnde foi isso?",
-        "es-ES": "[AHP Ocart]\nAhora que lo pienso, creo que te vi en alguna parte…\n¿A dónde fue?"
+        "es-ES": "[AHP Ocart]\nAhora que lo pienso, creo que te vi en alguna parte...\n¿A dónde fue?"
     },
     "/xRd": {
         "en-US": "[???]\nEh...\nIt's been awhile since I had such a vivid dream...",
         "pt-BR": "[???]\nEh...\nJá faz algum tempo que não tenho um sonho tão vívido...",
-        "es-ES": "[???]\nEh…\nHacía tiempo que no tenía un sueño tan vívido…"
+        "es-ES": "[???]\nEh...\nHacía tiempo que no tenía un sueño tan vívido..."
     },
     "ABVd": {
         "en-US": "[Du Lian]\nWahahahahah!\nA dream!\nHey Mark, this guy thinks it's a dream!\nHow adorable!\nCan we take him around?",
@@ -1157,7 +1157,7 @@
     "BxVd": {
         "en-US": "[Glaces]\nWell, I'm sure Yube will take care of himself.\nAnyways...\nMoreng's house is down this road, so please ask him if he wants anything for his birthday.",
         "pt-BR": "[Glaces]\nBem, tenho certeza de que Yube cuidará de si mesmo.\nDe qualquer forma...\nA casa de Moreng fica nessa rua, então, por favor, pergunte se ele quer alguma coisa para o aniversário dele.",
-        "es-ES": "[Glaces]\nBueno, estoy segura de que Yube se cuidará solo.\nEn fin…\nLa casa de Moreng está por este camino, así que pregúntale si quiere algo para su cumpleaños."
+        "es-ES": "[Glaces]\nBueno, estoy segura de que Yube se cuidará solo.\nEn fin...\nLa casa de Moreng está por este camino, así que pregúntale si quiere algo para su cumpleaños."
     },
     "CBVd": {
         "en-US": "[Glaces]\nWho are those guys? They even took Yube with them?!",
@@ -1167,12 +1167,12 @@
     "CRVd": {
         "en-US": "[Glaces]\nWell... I'm sure Yube will take care of himself.\nAnyways...\nMoreng's house is down this road, so please ask him if he wants anything for his birthday.",
         "pt-BR": "[Glaces]\nBem... Tenho certeza de que Yube cuidará de si mesmo.\nDe qualquer forma...\nA casa de Moreng fica nessa rua, então, por favor, pergunte se ele quer alguma coisa para o aniversário dele.",
-        "es-ES": "[Glaces]\nBueno… Estoy segura de que Yube se cuidará solo.\nEn fin…\nLa casa de Moreng está por este camino, así que pregúntale si quiere algo para su cumpleaños."
+        "es-ES": "[Glaces]\nBueno... Estoy segura de que Yube se cuidará solo.\nEn fin...\nLa casa de Moreng está por este camino, así que pregúntale si quiere algo para su cumpleaños."
     },
     "ChVd": {
         "en-US": "[Glaces]\nI wonder what's better, cream or chocolate...",
         "pt-BR": "[Glaces]\nEu me pergunto o que é melhor, creme ou chocolate...",
-        "es-ES": "[Glaces]\nMe pregunto qué es mejor, si la crema o el chocolate…"
+        "es-ES": "[Glaces]\nMe pregunto qué es mejor, si la crema o el chocolate..."
     },
     "CxVd": {
         "en-US": "- She seems really busy making the cake. Let's not bother her. -",
@@ -1202,12 +1202,12 @@
     "EBVd": {
         "en-US": "[Glaces]\nSo sudden...\nI'm going to try to talk with Moreng, so would you ask Yube for me?\nHe went inside to look for something, so I'm sure he's still inside.",
         "pt-BR": "[Glaces]\nTão repentino...\nVou tentar falar com Moreng, então você poderia perguntar a Yube por mim?\nEle entrou para procurar alguma coisa, então tenho certeza de que ainda está lá dentro.",
-        "es-ES": "[Glaces]\nTan repentino…\nIntentaré hablar con Moreng, ¿podrías preguntarle a Yube por mí?\nEntró a buscar algo, así que seguro sigue adentro."
+        "es-ES": "[Glaces]\nTan repentino...\nIntentaré hablar con Moreng, ¿podrías preguntarle a Yube por mí?\nEntró a buscar algo, así que seguro sigue adentro."
     },
     "ERVd": {
         "en-US": "[Glaces]\nIt's going to feel really empty if Moreng leaves for Midgard.\nIt felt like this when Yube was dispatched to the Splendide unit before...",
         "pt-BR": "[Glaces]\nVou me sentir muito vazia se Moreng for para Midgard.\nFoi assim quando Yube foi enviado para a unidade de Esplendor antes...",
-        "es-ES": "[Glaces]\nQuedará un gran vacío si Moreng se va a Midgard.\nAsí se sintió cuando enviaron a Yube a la unidad de Splendide antes…"
+        "es-ES": "[Glaces]\nQuedará un gran vacío si Moreng se va a Midgard.\nAsí se sintió cuando enviaron a Yube a la unidad de Splendide antes..."
     },
     "EhVd": {
         "en-US": "[Glaces]\nWell, I should first decide on what present to get him!",
@@ -1262,7 +1262,7 @@
     "HBVd": {
         "en-US": "[Yube]\nIn any case, how old is Moreng now?\nI think he was younger than me, but I'm not remembering it very well...\nWould you mind asking Glaces about his age for me?",
         "pt-BR": "[Yube]\nEm todo caso, quantos anos Moreng tem agora?\nAcho que ele era mais novo do que eu, mas não estou me lembrando muito bem...\nVocê se importaria de perguntar a Glaces sobre a idade dele para mim?",
-        "es-ES": "[Yube]\nEn todo caso, ¿cuántos años tiene Moreng ahora?\nCreo que era más joven que yo, pero no lo recuerdo muy bien…\n¿Te importaría preguntarle a Glaces su edad por mí?"
+        "es-ES": "[Yube]\nEn todo caso, ¿cuántos años tiene Moreng ahora?\nCreo que era más joven que yo, pero no lo recuerdo muy bien...\n¿Te importaría preguntarle a Glaces su edad por mí?"
     },
     "HRVd": {
         "en-US": "[Yube]\nMurah? Murah is at the Eclage plaza.",
@@ -1292,12 +1292,12 @@
     "IhVd": {
         "en-US": "[Yube]\nHmm, at least to summarize what everyone has said...\nHe's younger than me; 30 years age gap wtih both Glaces and Murah but Glaces and Murah are not the same age,\nShul's age is to add Moreng's age to my age of 100 years before; Shul is 2 years older than Glaces; the average age of me and Shul is Tato and Tato's age is 146, right?",
         "pt-BR": "[Yube]\nHmm, pelo menos para resumir o que todo mundo disse...\nEle é mais jovem do que eu; trinta anos de diferença de idade entre Glaces e Murah, mas Glaces e Murah não têm a mesma idade.\nA idade de Shul é a soma da idade de Moreng com a minha de 100 anos antes; Shul é dois anos mais velho que Glaces; a média de idade entre mim e Shul é Tato e a idade de Tato é 146, certo?",
-        "es-ES": "[Yube]\nMmm, al menos para resumir lo que todo el mundo ha dicho…\nEs más joven que yo; 30 años de diferencia con Glaces y Murah, pero Glaces y Murah no tienen la misma edad.\nPara la edad de Shul, hay que sumar la edad de Moreng a mi edad de 100 años antes; Shul es 2 años mayor que Glaces; la edad promedio entre Shul y yo es la de Tato y la edad de Tato es 146, ¿verdad?"
+        "es-ES": "[Yube]\nMmm, al menos para resumir lo que todo el mundo ha dicho...\nEs más joven que yo; 30 años de diferencia con Glaces y Murah, pero Glaces y Murah no tienen la misma edad.\nPara la edad de Shul, hay que sumar la edad de Moreng a mi edad de 100 años antes; Shul es 2 años mayor que Glaces; la edad promedio entre Shul y yo es la de Tato y la edad de Tato es 146, ¿verdad?"
     },
     "IxVd": {
         "en-US": "[Yube]\n...\nThen how old is he?",
         "pt-BR": "[Yube]\n...\nEntão, qual é a idade dele?",
-        "es-ES": "[Yube]\n…\nEntonces, ¿qué edad tiene?"
+        "es-ES": "[Yube]\n...\nEntonces, ¿qué edad tiene?"
     },
     "JBVd": {
         "en-US": "[Yube]\nHmm~ I don't think so.\nThink harder.",
@@ -1312,7 +1312,7 @@
     "JhVd": {
         "en-US": "[Yube]\nHmm that means I still have to make more than a hundred candles...\nOy......",
         "pt-BR": "[Yube]\nHmm, isso significa que eu ainda tenho que fazer mais de cem velas...\nOi......",
-        "es-ES": "[Yube]\nEso significa que todavía tengo que hacer más de cien velas…\nEy…"
+        "es-ES": "[Yube]\nEso significa que todavía tengo que hacer más de cien velas...\nEy..."
     },
     "JxVd": {
         "en-US": "[Yube]\nIf you aren't too busy, could you bring me a clump of dust to make some candles with?\nI have to make as many candles as Moreng's age, so if you could bring me that much clump of dust, that would be good.",
@@ -1347,7 +1347,7 @@
     "LRVd": {
         "en-US": "[Yube]\nAnd also...\nTo return the favor, I'll let you use my house!\nYou can stay over whenever you want as long as you are in Eclage.",
         "pt-BR": "[Yube]\nE também...\nPara retribuir o favor, vou deixar você usar minha casa!\nVocê pode ficar aqui sempre que quiser, desde que esteja em Eclage.",
-        "es-ES": "[Yube]\nY además…\n¡Para devolverte el favor, te dejaré usar mi casa!\nPuedes quedarte a dormir cuando quieras mientras estés en Eclage."
+        "es-ES": "[Yube]\nY además...\n¡Para devolverte el favor, te dejaré usar mi casa!\nPuedes quedarte a dormir cuando quieras mientras estés en Eclage."
     },
     "LhVd": {
         "en-US": "[Yube]\nI work at Splendide for the most part anyways, so I don't come to Eclage very often.\nAlright, thanks a lot~",
@@ -1357,7 +1357,7 @@
     "LxVd": {
         "en-US": "[Yube]\nWha.. You lost the candles?\nI still have some wicks left, so if you bring me the clump of dust again, I'll remake them for ya.",
         "pt-BR": "[Yube]\nO quê... Você perdeu as velas?\nAinda tenho alguns pavios, então, se me trouxer o torrão de poeira novamente, eu as refarei para você.",
-        "es-ES": "[Yube]\nQue… ¿Perdiste las velas?\nTodavía me quedan algunos pabilos, así que, si me vuelves a traer un poco de polvo, te las vuelvo a hacer."
+        "es-ES": "[Yube]\nQue... ¿Perdiste las velas?\nTodavía me quedan algunos pabilos, así que, si me vuelves a traer un poco de polvo, te las vuelvo a hacer."
     },
     "MBVd": {
         "en-US": "Make the candles.",
@@ -1387,7 +1387,7 @@
     "NRVd": {
         "en-US": "[Yube]\nMmm...\nTo make that much, I would probably need more clumps of dust...",
         "pt-BR": "[Yube]\nMmm...\nPara fazer essa quantidade, eu provavelmente precisaria de mais torrões de pó...",
-        "es-ES": "[Yube]\nMmm…\nPara hacer tantas, probablemente, necesitaré más polvo…"
+        "es-ES": "[Yube]\nMmm...\nPara hacer tantas, probablemente, necesitaré más polvo..."
     },
     "NhVd": {
         "en-US": "[Yube]\nReally?\nIf you need more, just let me know~",
@@ -1407,7 +1407,7 @@
     "ORVd": {
         "en-US": "[Murah]\nMoreng's age?\nI don't know it exactly...\nMaybe Shul might know?",
         "pt-BR": "[Murah]\nA idade de Moreng?\nNão sei exatamente...\nTalvez Shul possa saber.",
-        "es-ES": "[Murah]\n¿Cuántos años tiene Moreng?\nNo lo sé exactamente…\n¿Quizás Shul lo sepa?"
+        "es-ES": "[Murah]\n¿Cuántos años tiene Moreng?\nNo lo sé exactamente...\n¿Quizás Shul lo sepa?"
     },
     "OhVd": {
         "en-US": "[Murah]\nMoreng, Yube, and Shul got to know each other a hundred years ago, and I remember that at that time, their age difference was pretty large that adding Moreng's and Yube's age equaled to that of Shul.",
@@ -1422,7 +1422,7 @@
     "PBVd": {
         "en-US": "[Murah]\nHmm... What amazing present should I give?",
         "pt-BR": "[Murah]\nHmm... Que presente incrível devo dar?",
-        "es-ES": "[Murah]\nMmm… ¿Qué regalo increíble debería hacer?"
+        "es-ES": "[Murah]\nMmm... ¿Qué regalo increíble debería hacer?"
     },
     "PRVd": {
         "en-US": "Shul",
@@ -1432,7 +1432,7 @@
     "PhVd": {
         "en-US": "[Shul]\nMoreng's age?\nHmm...\nIt's been awhile since I kept track of everyone's age.\nI just remember that Glaces was two years younger than me.",
         "pt-BR": "[Shul]\nA idade de Moreng?\nHmm...\nJá faz algum tempo que não me lembro da idade de todos.\nSó me lembro que Glaces era dois anos mais nova do que eu.",
-        "es-ES": "[Shul]\n¿Cuántos años tiene Moreng?\nMmm…\nHacía tiempo que no llevaba la cuenta de la edad de cada uno.\nSolo recuerdo que Glaces era dos años más joven que yo."
+        "es-ES": "[Shul]\n¿Cuántos años tiene Moreng?\nMmm...\nHacía tiempo que no llevaba la cuenta de la edad de cada uno.\nSolo recuerdo que Glaces era dos años más joven que yo."
     },
     "PxVd": {
         "en-US": "[Shul]\nCome to think of it, not too long ago, Tato said that his age was the same as the average between my age and Yube's age.\nMaybe Tato would remember it?",
@@ -1502,7 +1502,7 @@
     "TBVd": {
         "en-US": "[Moreng]\nYai actually signifies an egg.\nAnd to Laphines, Yai could even signify what is beyond a home...",
         "pt-BR": "[Moreng]\nYai na verdade significa um ovo.\nE, para Laphines, Yai poderia até significar o que está além de um lar...",
-        "es-ES": "[Moreng]\nEn realidad, un yai es un huevo.\nY, para los laphines, el yai podría significar incluso lo que hay más allá de un hogar…"
+        "es-ES": "[Moreng]\nEn realidad, un yai es un huevo.\nY, para los laphines, el yai podría significar incluso lo que hay más allá de un hogar..."
     },
     "TRVd": {
         "en-US": "[Oliver]\nOh, so you call those round houses a Yai.",
@@ -1542,7 +1542,7 @@
     "VBVd": {
         "en-US": "[Moreng]\nI see...\nYou sure looked like it, but I guess not.",
         "pt-BR": "[Moreng]\nEntendo...\nVocê bem que parecia, mas acho que não.",
-        "es-ES": "[Moreng]\nYa veo…\nCiertamente, te pareces, pero supongo que no."
+        "es-ES": "[Moreng]\nYa veo...\nCiertamente, te pareces, pero supongo que no."
     },
     "VRVd": {
         "en-US": "[Moreng]\nI heard a little from various travelers.\nAccording to rumors, there is a legend of a great bird in Midgard that lays an egg as big as a house.",
@@ -1572,7 +1572,7 @@
     "WhVd": {
         "en-US": "[Moreng]\nBut not too long ago when I went to the plaza, I met my old neighbor who told me about a traveler from Midgard holding an incredibly enormous feather...",
         "pt-BR": "[Moreng]\nMas não faz muito tempo, quando fui à praça, encontrei meu antigo vizinho que me contou sobre um viajante de Midgard segurando uma pena incrivelmente enorme...",
-        "es-ES": "[Moreng]\nPero, no hace mucho, cuando fui a la plaza, me encontré con mi vecino anciano, que me habló de un viajero de Midgard que llevaba una pluma increíblemente enorme…"
+        "es-ES": "[Moreng]\nPero, no hace mucho, cuando fui a la plaza, me encontré con mi vecino anciano, que me habló de un viajero de Midgard que llevaba una pluma increíblemente enorme..."
     },
     "WxVd": {
         "en-US": "[Moreng]\nEver since I heard about it, I can't seem to put my mind on anything else.\nCould that legend possibly be true?",
@@ -1597,7 +1597,7 @@
     "XxVd": {
         "en-US": "[Moreng]\nDon't crash and burn anything...",
         "pt-BR": "[Moreng]\nNão se acidentem e não queimem nada...",
-        "es-ES": "[Moreng]\nNo fracasas en nada…"
+        "es-ES": "[Moreng]\nNo fracasas en nada..."
     },
     "YBVd": {
         "en-US": "[Du Lian]\nFor something like that-!\nI'll be the one to ask the old man and let you know!\nAnd if the legend sounds fake, I won't tell you so don't you worry!",
@@ -1612,12 +1612,12 @@
     "YhVd": {
         "en-US": "[Mark Esha]\nRegardless, I didn't hear anything about that legend either.\nAlthough, for a typical Laphine, something that's insignificant to us could be considered really huge...",
         "pt-BR": "[Mark Esha]\nIndependentemente disso, eu também não ouvi nada sobre essa lenda.\nEmbora, para um típico Laphine, algo que é insignificante para nós possa ser considerado realmente enorme...",
-        "es-ES": "[Mark Esha]\nEn todo caso, tampoco he oído nada sobre esa leyenda.\nAunque, para un laphine típico, algo que para nosotros es insignificante, podría ser realmente enorme…"
+        "es-ES": "[Mark Esha]\nEn todo caso, tampoco he oído nada sobre esa leyenda.\nAunque, para un laphine típico, algo que para nosotros es insignificante, podría ser realmente enorme..."
     },
     "YxVd": {
         "en-US": "[Alp Ocart]\nBut since the land of Midgard is truly far and wide, there may be legends we haven't heard of...",
         "pt-BR": "[Alp Ocart]\nMas, como a terra de Midgard é realmente muito vasta, pode haver lendas das quais não ouvimos falar...",
-        "es-ES": "[AHP Ocart]\nPero, como la tierra de Midgard es muy extensa, quizá haya leyendas de las que no hayamos oído hablar…"
+        "es-ES": "[AHP Ocart]\nPero, como la tierra de Midgard es muy extensa, quizá haya leyendas de las que no hayamos oído hablar..."
     },
     "ZBVd": {
         "en-US": "[Du Lian]\nYes, it looks like there are no other ways than to meet the old man!",
@@ -1632,7 +1632,7 @@
     "ZhVd": {
         "en-US": "[Moreng]\nIs that for real?\nI can't believe the legend was true...",
         "pt-BR": "[Moreng]\nIsso é de verdade?\nNão posso acreditar que a lenda seja verdadeira...",
-        "es-ES": "[Moreng]\n¿Es de verdad?\nNo puedo creer que la leyenda fuera cierta…"
+        "es-ES": "[Moreng]\n¿Es de verdad?\nNo puedo creer que la leyenda fuera cierta..."
     },
     "ZxVd": {
         "en-US": "[Moreng]\nWhat can I say?\nI feel like I can't just stay here anymore.\nI have to quickly pack my bags and leave for Midgard!",
@@ -1667,7 +1667,7 @@
     "bRVd": {
         "en-US": "[Old Man]\nLooks like there are a lot of interesting visitors nowadays...\nWhen I was young, you had to put your life on the line to go into the foreign lands.",
         "pt-BR": "[Velho]\nParece que há muitos visitantes interessantes hoje em dia...\nQuando eu era jovem, você tinha que arriscar sua vida para ir a terras estrangeiras.",
-        "es-ES": "[Anciano]\nParece que hay muchos visitantes interesantes actualmente…\nCuando yo era joven, había que jugarse la vida para ir al extranjero."
+        "es-ES": "[Anciano]\nParece que hay muchos visitantes interesantes actualmente...\nCuando yo era joven, había que jugarse la vida para ir al extranjero."
     },
     "bhVd": {
         "en-US": "[Old Man]\nNowadays, things are way more convenient with de-regulation and all.\nAnd with the warps and flying to all these places, where's all the romance in adventures anymore?",
@@ -1687,7 +1687,7 @@
     "cRVd": {
         "en-US": "[Old Man]\nTime really is merciless... If I had known this then, I would have...",
         "pt-BR": "[Velho]\nO tempo realmente é impiedoso... Se eu soubesse disso naquela época, eu teria...",
-        "es-ES": "[Anciano]\nEl tiempo es realmente despiadado… Si lo hubiera sabido en ese momento, habría…"
+        "es-ES": "[Anciano]\nEl tiempo es realmente despiadado... Si lo hubiera sabido en ese momento, habría..."
     },
     "chVd": {
         "en-US": "[Old Man]\nHey!  Have you heard of a Laphine hero named Light Standard?",
@@ -1707,12 +1707,12 @@
     "dRVd": {
         "en-US": "[Old Man]\nHuhuhu...\nHe's a hero from so long ago that this generation wouldn't even know who he is.\nHe is probably long forgotten...",
         "pt-BR": "[Velho]\nHuhuhu...\nÉ um herói de tanto tempo atrás que esta geração nem saberia quem ele é. \nDeve ter sido esquecido há muito tempo...",
-        "es-ES": "[Anciano]\nJu, ju, ju…\nEs un héroe de hace tanto tiempo que esta generación ni siquiera sabe quién es.\nProbablemente, hace tiempo que lo olvidaron…"
+        "es-ES": "[Anciano]\nJu, ju, ju...\nEs un héroe de hace tanto tiempo que esta generación ni siquiera sabe quién es.\nProbablemente, hace tiempo que lo olvidaron..."
     },
     "dhVd": {
         "en-US": "[Old Man]\nHuhuhu...\nIt's surprising how a young person like you would know of him.\nI thought he would be long forgotten...",
         "pt-BR": "[Velho]\nHuhuhu...\nÉ surpreendente que uma pessoa jovem como você o conheça.\nPensei que ele já estivesse sido esquecido há muito tempo...",
-        "es-ES": "[Anciano]\nJu, ju, ju…\nEs sorprendente que una persona joven como tú lo conozca.\nPensé que lo habían olvidado hace tiempo…"
+        "es-ES": "[Anciano]\nJu, ju, ju...\nEs sorprendente que una persona joven como tú lo conozca.\nPensé que lo habían olvidado hace tiempo..."
     },
     "dxVd": {
         "en-US": "[Old Man]\nWith a small physique, he was not even a high-level Laphine, but he fought against and defeated incredible monsters.\nThe word legend seemed to have been made for him.",
@@ -1727,7 +1727,7 @@
     "eRVd": {
         "en-US": "[Old Man]\nAnd he was quickly forgotten...\nHe had great strength, superb intelligence, and strong, wonderful comrades, but he wasn't perfect....",
         "pt-BR": "[Velho]\nE foi rapidamente esquecido...\nEle tinha grande força, inteligência extraordinária e camaradas fortes e maravilhosos, mas não era perfeito....",
-        "es-ES": "[Anciano]\nY fue rápidamente olvidado…\nTenía una gran fuerza, una inteligencia soberbia y unos compañeros fuertes y maravillosos, pero no era perfecto…"
+        "es-ES": "[Anciano]\nY fue rápidamente olvidado...\nTenía una gran fuerza, una inteligencia soberbia y unos compañeros fuertes y maravillosos, pero no era perfecto..."
     },
     "ehVd": {
         "en-US": "[Old Man]\nDo you know what he was missing?",
@@ -1737,7 +1737,7 @@
     "exVd": {
         "en-US": "[Old Man]\nIt was a 'friend' like me.\nIf only if he had reliable and big-hearted friends...",
         "pt-BR": "[Velho]\nEra um 'amigo' como eu.\nSe ao menos ele tivesse amigos confiáveis e de grande coração...",
-        "es-ES": "[Anciano]\nUn amigo como yo.\nSi solo hubiese tenido amigos de confianza y de gran corazón…"
+        "es-ES": "[Anciano]\nUn amigo como yo.\nSi solo hubiese tenido amigos de confianza y de gran corazón..."
     },
     "fBVd": {
         "en-US": "[Du Lian]\nBut old man, would you happen to know anything about a legend regarding the great bird in Midgard?",
@@ -1772,12 +1772,12 @@
     "ghVd": {
         "en-US": "[Old Man]\nAs soon as I saw that feather, I began to believe all that Light Standard told me.\nFor example, a clump of dust that was wearing a cone hat in Jotunheim...",
         "pt-BR": "[Velho]\nAssim que vi aquela pena, comecei a acreditar em tudo o que o Light Standard me disse.\nPor exemplo, um aglomerado de poeira que estava usando um chapéu de cone em Jotunheim...",
-        "es-ES": "[Anciano]\nEn cuanto vi esa pluma, empecé a creer todo lo que me decía Light Standard.\nPor ejemplo, una masa de polvo que llevaba un sombrero de cono en Jotunheim…"
+        "es-ES": "[Anciano]\nEn cuanto vi esa pluma, empecé a creer todo lo que me decía Light Standard.\nPor ejemplo, una masa de polvo que llevaba un sombrero de cono en Jotunheim..."
     },
     "gxVd": {
         "en-US": "[Du Lian]\nHmm...\nEarlier Moreng said he hasn't seen them in the city yet, so maybe he's still outside?",
         "pt-BR": "[Du Lian]\nHmm...\nAntes, Moreng disse que ainda não os tinha visto na cidade, então talvez ele ainda esteja fora?",
-        "es-ES": "[Du Lian]\nMmm…\nHace un momento, Moreng dijo que aún no los había visto en la ciudad, así que ¿quizá siga afuera?"
+        "es-ES": "[Du Lian]\nMmm...\nHace un momento, Moreng dijo que aún no los había visto en la ciudad, así que ¿quizá siga afuera?"
     },
     "hBVd": {
         "en-US": "[Du Lian]\nLet's get to it then!",
@@ -1802,7 +1802,7 @@
     "iBVd": {
         "en-US": "[Maggi Steen]\nUm...\nDu already ran off...\nIf we let him be, I wonder what kind of trouble he'll create next.",
         "pt-BR": "[Maggi Steen]\nHum...\nDu já fugiu...\nSe o deixarmos em paz, fico imaginando que tipo de problema ele criará em seguida.",
-        "es-ES": "[Maggi Steen]\nEh…\nDu ya salió corriendo…\nSi lo dejamos ser, me pregunto qué clase de problemas creará después."
+        "es-ES": "[Maggi Steen]\nEh...\nDu ya salió corriendo...\nSi lo dejamos ser, me pregunto qué clase de problemas creará después."
     },
     "iRVd": {
         "en-US": "[Maggi Steen]\nTo get to the city's entrance, we have to get through the bridge that Du broke, but I wonder if it has been fixed.",
@@ -1852,7 +1852,7 @@
     "khVd": {
         "en-US": "[Traveler]\nHeh...\nWell, it's actually too recent to even brag about...",
         "pt-BR": "[Viajante]\nHeh...\nBem, na verdade, é muito recente para me gabar...",
-        "es-ES": "[Viajero]\nJe…\nBueno, en realidad, es demasiado reciente para incluso presumir…"
+        "es-ES": "[Viajero]\nJe...\nBueno, en realidad, es demasiado reciente para incluso presumir..."
     },
     "kxVd": {
         "en-US": "[Traveler]\nIt's just luck that I ran into it not too long after I arrived in Alfheim.",
@@ -1877,7 +1877,7 @@
     "lxVd": {
         "en-US": "[Traveler]\nEck!\nNo... No way.\nI definitely saw it at Midgard.",
         "pt-BR": "[Viajante]\nEca!\nNão... De jeito nenhum.\nEu definitivamente o vi em Midgard.",
-        "es-ES": "[Viajero]\n¡¿Qué?!\nNo… No puede ser.\nSin duda, lo vi en Midgard."
+        "es-ES": "[Viajero]\n¡¿Qué?!\nNo... No puede ser.\nSin duda, lo vi en Midgard."
     },
     "mBVd": {
         "en-US": "[Traveler]\nI didn't want to show you this, but this scar is the proof.\nIt was truly a life-threatening battle.",
@@ -1887,12 +1887,12 @@
     "mRVd": {
         "en-US": "[Mark Esha]\nHmm...\nFor a fight not too long ago, the scar seems very old.\nFrom how the scar looks, it doesn't even seem like it's been treated by magic...",
         "pt-BR": "[Mark Esha]\nHmm...\nPara uma luta ocorrida há pouco tempo, a cicatriz parece muito antiga.\nPela aparência da cicatriz, nem parece que ela foi tratada com magia...",
-        "es-ES": "[Mark Esha]\nMmm…\nPara ser una pelea de no hace mucho tiempo, la cicatriz parece muy antigua.\nPor el aspecto de la cicatriz, ni siquiera parece que la hayas tratado con magia…"
+        "es-ES": "[Mark Esha]\nMmm...\nPara ser una pelea de no hace mucho tiempo, la cicatriz parece muy antigua.\nPor el aspecto de la cicatriz, ni siquiera parece que la hayas tratado con magia..."
     },
     "mhVd": {
         "en-US": "[Traveler]\nEeck!!!!\nIf... If I really think about, it might be awhile back actually.\nI can't remember too well having so many memoirs and souvenirs.",
         "pt-BR": "[Viajante]\nEita!!!!\nSe... Se eu realmente pensar, talvez fosse há algum tempo na verdade.\nNão me lembro muito bem de ter tantas memórias e lembranças.",
-        "es-ES": "[Viajero]\n¡Qué!\nSi… Si lo pienso bien, quizá haya pasado un tiempo de hecho.\nNo recuerdo muy bien al tener tantas memorias y recuerdos."
+        "es-ES": "[Viajero]\n¡Qué!\nSi... Si lo pienso bien, quizá haya pasado un tiempo de hecho.\nNo recuerdo muy bien al tener tantas memorias y recuerdos."
     },
     "mxVd": {
         "en-US": "[Oliver]\nBut how did you travel to other places when you can't even enter Eclage?",
@@ -1902,7 +1902,7 @@
     "nBVd": {
         "en-US": "[Maggi Steen]\nIf it came near here somewhere, there's no way others haven't seen it...",
         "pt-BR": "[Maggi Steen]\nSe chegou perto daqui em algum lugar, é impossível que outros não o tenham visto...",
-        "es-ES": "[Maggi Steen]\nSi estuvo cerca de aquí, es imposible que otros no lo hayan visto…"
+        "es-ES": "[Maggi Steen]\nSi estuvo cerca de aquí, es imposible que otros no lo hayan visto..."
     },
     "nRVd": {
         "en-US": "[Traveler]\nKeeeek!!!!\nYes!",
@@ -1917,7 +1917,7 @@
     "nxVd": {
         "en-US": "[Alp Ocart]\nHmm... But this feather...\nIf I look at it very closely, the shaft is too thick for its size",
         "pt-BR": "[Alp Ocart]\nHmm... Mas essa pena...\nSe eu olhar bem de perto, a haste é muito grossa para seu tamanho.",
-        "es-ES": "[AHP Ocart]\nMmm… Pero esta pluma…\nSi la miro de cerca, el raquis es demasiado grueso para su tamaño."
+        "es-ES": "[AHP Ocart]\nMmm... Pero esta pluma...\nSi la miro de cerca, el raquis es demasiado grueso para su tamaño."
     },
     "oBVd": {
         "en-US": "[Alp Ocart]\nAnd doesn't the end of it seem really jagged?",
@@ -1932,7 +1932,7 @@
     "ohVd": {
         "en-US": "[Du Lian]\nOh.... You bought it, didn't you?",
         "pt-BR": "[Du Lian]\nOh.... Você comprou, não foi?",
-        "es-ES": "[Du Lian]\nOh… La compraste, ¿no?"
+        "es-ES": "[Du Lian]\nOh... La compraste, ¿no?"
     },
     "oxVd": {
         "en-US": "[Oliver]\nYou bought it, right?",
@@ -1942,12 +1942,12 @@
     "pBVd": {
         "en-US": "[Alp Ocart]\nHmm... Even so, I guess this is a great piece of work. It really seems like the real thing.",
         "pt-BR": "[Alp Ocart]\nHmm... Mesmo assim, acho que esse é um ótimo trabalho. Realmente parece ser real.",
-        "es-ES": "[AHP Ocart]\nMmm… Aun así, creo que es una gran obra. Realmente parece de verdad."
+        "es-ES": "[AHP Ocart]\nMmm... Aun así, creo que es una gran obra. Realmente parece de verdad."
     },
     "pRVd": {
         "en-US": "[Traveler]\nHu....\nYou have no idea how expensive this was!",
         "pt-BR": "[Viajante]\nHu....\nVocê não tem ideia de como isso foi caro!",
-        "es-ES": "[Viajero]\nEh…\n¡No tienes idea lo costoso que fue!"
+        "es-ES": "[Viajero]\nEh...\n¡No tienes idea lo costoso que fue!"
     },
     "phVd": {
         "en-US": "[Traveler]\nHey you guys, you can get into Eclage, right?\nThere is a cat merchant who's doing business in the plaza.",
@@ -1957,7 +1957,7 @@
     "pxVd": {
         "en-US": "[Traveler]\nThat guy just stole my money and...\nHmm...\nPlease catch the cat before others also lose their money!",
         "pt-BR": "[Viajante]\nAquele cara acabou de roubar meu dinheiro e...\nHmm...\nPor favor, pegue o gato antes que outros também percam seu dinheiro!",
-        "es-ES": "[Viajero]\nEse tipo acaba de robar mi dinero y…\nMmm…\n¡Por favor, atrapen al gato antes de que otros también pierdan su dinero!"
+        "es-ES": "[Viajero]\nEse tipo acaba de robar mi dinero y...\nMmm...\n¡Por favor, atrapen al gato antes de que otros también pierdan su dinero!"
     },
     "qBVd": {
         "en-US": "[Traveler]\nAt least hold him until I can get into Eclage!\nI ask you!\nPlease!",
@@ -1972,7 +1972,7 @@
     "qhVd": {
         "en-US": "[Traveler]\nOh dear, my money...\nI can't believe it was a fake...\nOy oy....",
         "pt-BR": "[Viajante]\nAh, meu Deus, meu dinheiro...\nNão acredito que era falso...\nOi, oi....",
-        "es-ES": "[Viajero]\nOh, mi dinero…\nNo puedo creer que fuera falsa…\nUy, uy…"
+        "es-ES": "[Viajero]\nOh, mi dinero...\nNo puedo creer que fuera falsa...\nUy, uy..."
     },
     "qxVd": {
         "en-US": "Traveler#ep14_2fl\n[Traveler]\nIf you are thinking about selling it, you should just give up.",
@@ -1982,7 +1982,7 @@
     "rBVd": {
         "en-US": "I have no wishes to sell it no matter how much you beg.\n[Traveler]\nThis feather..",
         "pt-BR": "Não pretendo vendê-lo, não importa o quanto você implore.\n[Viajante]\nEssa pena...",
-        "es-ES": "No deseo venderla por mucho que me rueguen.\n[Viajero]\nEsta pluma…"
+        "es-ES": "No deseo venderla por mucho que me rueguen.\n[Viajero]\nEsta pluma..."
     },
     "rRVd": {
         "en-US": "Sack Merchant",
@@ -2012,17 +2012,17 @@
     "shVd": {
         "en-US": "[Alp Ocart]\nThis end of the feather here is not very convincing...",
         "pt-BR": "[Alp Ocart]\nEsta ponta da pena aqui não é muito convincente...",
-        "es-ES": "[AHP Ocart]\nEsta punta de la pluma no es muy convincente…"
+        "es-ES": "[AHP Ocart]\nEsta punta de la pluma no es muy convincente..."
     },
     "sxVd": {
         "en-US": "[Sack Merchant]\nMeoweoweow!!!\nI...I can't believe you noticedeow...Pretty sharpeow...",
         "pt-BR": "[Mercador Sack]\nMiauauauu!!!\nEu... não acredito que você tenha percebiduau... Muito espertiau...",
-        "es-ES": "[Comerciante de sacos]\n¡Miauuuu!\nNo… no puedo creer que te dieras cuenta… muy astutiau…"
+        "es-ES": "[Comerciante de sacos]\n¡Miauuuu!\nNo... no puedo creer que te dieras cuenta... muy astutiau..."
     },
     "tBVd": {
         "en-US": "[Sack Merchant]\nActually...\nThe feather is real for sure, but I modified just a tinyyy~tiny biteow...",
         "pt-BR": "[Mercador Sack]\nNa verdade...\nA pena é real, com certeza, mas eu modifiquei apenas um pouquinhuau...",
-        "es-ES": "[Comerciante de sacos]\nEn realidad…\nLa pluma de seguro es real, pero la modifiqué solo un poquiiito…"
+        "es-ES": "[Comerciante de sacos]\nEn realidad...\nLa pluma de seguro es real, pero la modifiqué solo un poquiiito..."
     },
     "tRVd": {
         "en-US": "[Sack Merchant]\nBecause the feather was too big to carry around, I thought that I could cut it up into pieces and sell it to many moreow. But when I cut it, it was a bit weird so I just adjusted it, you seeow.",
@@ -2037,12 +2037,12 @@
     "txVd": {
         "en-US": "[Sack Merchant]\nHmm..\nIt was from here to thereow.",
         "pt-BR": "[Mercador Sack]\nHmm...\nDaqui até láiau.",
-        "es-ES": "[Comerciante de sacos]\nMmm…\nEra desde aquí hasta allá, miau."
+        "es-ES": "[Comerciante de sacos]\nMmm...\nEra desde aquí hasta allá, miau."
     },
     "uBVd": {
         "en-US": "[Sack Merchant]\nI couldn't possibly carry something that bigeow...",
         "pt-BR": "[Mercador Sack]\nEu não conseguiria carregar algo tão grandiau...",
-        "es-ES": "[Comerciante de sacos]\nNo podría cargar algo tan grandiau…"
+        "es-ES": "[Comerciante de sacos]\nNo podría cargar algo tan grandiau..."
     },
     "uRVd": {
         "en-US": "[Du Lian]\nWhoa whoa!\nIf it's that big, you could probably make a fried egg with the size of this plaza!",
@@ -2052,7 +2052,7 @@
     "uhVd": {
         "en-US": "[Mark Esha]\nThat's probably too much...\nAnyways, that was important to know, so we better let Moreng know.",
         "pt-BR": "[Mark Esha]\nIsso provavelmente é demais...\nDe qualquer forma, era importante saber disso, então é melhor avisar o Moreng.",
-        "es-ES": "[Mark Esha]\nProbablemente, sea demasiado…\nDe todas formas, era importante saberlo, así que mejor le contamos a Moreng."
+        "es-ES": "[Mark Esha]\nProbablemente, sea demasiado...\nDe todas formas, era importante saberlo, así que mejor le contamos a Moreng."
     },
     "uxVd": {
         "en-US": "[Mark Esha]\nAnyways, that was important to know, so we better let Moreng know.",
@@ -2087,7 +2087,7 @@
     "wRVd": {
         "en-US": "[Yube]\nI guess if you look at Glaces' Yai...\nWhen I first saw the crack, I was reminded of Glace's Yai.",
         "pt-BR": "[Yube]\nAcho que, se olhar para o Yai da Glaces...\nQuando vi a fenda pela primeira vez, lembrei-me do Yai de Glace.",
-        "es-ES": "[Yube]\nSupongo que, si miras el yai de Glaces…\nCuando vi la grieta por primera vez, me acordé del yai de Glaces."
+        "es-ES": "[Yube]\nSupongo que, si miras el yai de Glaces...\nCuando vi la grieta por primera vez, me acordé del yai de Glaces."
     },
     "whVd": {
         "en-US": "[Yube]\nIn any case, finding the great bird's egg firsthand is probably better than receiving it as a gift, right?",
@@ -2097,12 +2097,12 @@
     "wxVd": {
         "en-US": "[Yube]\nOk, I should hurry with the party preparations.\nI'll send whatever is urgent to Splendide first...",
         "pt-BR": "[Yube]\nOk, devo me apressar com os preparativos da festa.\nEnviarei o que for urgente para Esplendor primeiro...",
-        "es-ES": "[Yube]\nBien, debería apurarme con los preparativos de la fiesta.\nPrimero, enviaré lo que sea urgente a Splendide…"
+        "es-ES": "[Yube]\nBien, debería apurarme con los preparativos de la fiesta.\nPrimero, enviaré lo que sea urgente a Splendide..."
     },
     "xBVd": {
         "en-US": "[Yube]\nIt's always exciting to place seeds in a box...\nOne mistake can lead to immense consequences.",
         "pt-BR": "[Yube]\nÉ sempre emocionante colocar sementes em uma caixa...\nUm erro pode levar a consequências imensas.",
-        "es-ES": "[Yube]\nSiempre es emocionante colocar semillas en una caja…\nUn error puede provocar consecuencias inmensas."
+        "es-ES": "[Yube]\nSiempre es emocionante colocar semillas en una caja...\nUn error puede provocar consecuencias inmensas."
     },
     "xRVd": {
         "en-US": "[Yube]\nPlease give me a minute since this is a critical process.",
@@ -2112,17 +2112,17 @@
     "xhVd": {
         "en-US": "[Yube]\nWhew...\nDone...\nThe ones I took last time couldn't be used because of a mistake, and I was scolded so much for that...",
         "pt-BR": "[Yube]\nUfa...\nFeito...\nOs que eu peguei da última vez não puderam ser usados por causa de um erro, e eu fui muito repreendido por isso...",
-        "es-ES": "[Yube]\nUf…\nListo…\nLas que agarré la última vez no se pudieron usar por un error, y me regañaron mucho por eso…"
+        "es-ES": "[Yube]\nUf...\nListo...\nLas que agarré la última vez no se pudieron usar por un error, y me regañaron mucho por eso..."
     },
     "xxVd": {
         "en-US": "[Yube]\nOk, if you don't mind, could you take this to a delivery man at the plaza?\nMaster kindly sent me a delivery man specifically for this...",
         "pt-BR": "[Yube]\nOk, se você não se importar, poderia levar isso para um entregador na praça?\nO mestre gentilmente me enviou um entregador só para isso...",
-        "es-ES": "[Yube]\nBien, si no te importa, ¿podrías llevarle esto a un repartidor de la plaza?\nEl maestro amablemente me envió un repartidor específicamente para esto…"
+        "es-ES": "[Yube]\nBien, si no te importa, ¿podrías llevarle esto a un repartidor de la plaza?\nEl maestro amablemente me envió un repartidor específicamente para esto..."
     },
     "yBVd": {
         "en-US": "[Yube]\nMaybe it's an underlying statement that I would be eliminated if it's not sent right away...",
         "pt-BR": "[Yube]\nTalvez seja uma declaração subjacente de que eu seria eliminado se não fosse enviado imediatamente...",
-        "es-ES": "[Yube]\nTal vez es una declaración oculta de que sería eliminado si no se envía de inmediato…"
+        "es-ES": "[Yube]\nTal vez es una declaración oculta de que sería eliminado si no se envía de inmediato..."
     },
     "yRVd": {
         "en-US": "[Yube]\nNow that I'm done with work that Master wanted, I should get going to help out with the party.",
@@ -2152,7 +2152,7 @@
     "zhVd": {
         "en-US": "[Oliver]\nHmm...\nI'm hungry.",
         "pt-BR": "[Oliver]\nHmm...\nEstou com fome.",
-        "es-ES": "[Oliver]\nMmm…\nTengo hambre."
+        "es-ES": "[Oliver]\nMmm...\nTengo hambre."
     },
     "zxVd": {
         "en-US": "[Oliver]\nAcorns!\nI saw many acorns just outside the city!\nI want them!",
@@ -2177,7 +2177,7 @@
     "0xVd": {
         "en-US": "[Mark Esha]\nSeriously, you just don't get tired huh...\nOk, I'm going to rest here with the others, so do what you need to do.",
         "pt-BR": "[Mark Esha]\nSério, você não se cansa, hein...\nOk, eu vou descansar aqui com os outros, então faça o que precisa fazer.",
-        "es-ES": "[Mark Esha]\nEn serio, no te cansas eh…\nBien, descansaré aquí con los demás, así que haz lo que tengas que hacer."
+        "es-ES": "[Mark Esha]\nEn serio, no te cansas eh...\nBien, descansaré aquí con los demás, así que haz lo que tengas que hacer."
     },
     "1BVd": {
         "en-US": "[Du Lian]\nGreeeeat!\nLet's go!{0}!",
@@ -2217,7 +2217,7 @@
     "2xVd": {
         "en-US": "Ugh...",
         "pt-BR": "Ugh...",
-        "es-ES": "Uf…"
+        "es-ES": "Uf..."
     },
     "3BVd": {
         "en-US": "[Du Lian]\nOliver, eat more.\nYou have to eat a lot when you're young. That's how you'll grow!",
@@ -2227,12 +2227,12 @@
     "3RVd": {
         "en-US": "[Oliver]\nYawn...\nI'm full...\nI'm sleepy...",
         "pt-BR": "[Oliver]\nBocejo...\nEstou cheio...\nEstou com sono...",
-        "es-ES": "[Oliver]\n*Bosteza…*\nEstoy lleno.\nTengo sueño…"
+        "es-ES": "[Oliver]\n*Bosteza...*\nEstoy lleno.\nTengo sueño..."
     },
     "3hVd": {
         "en-US": "[Du Lian]\nHey Oliver, don't suddenly be so lazy now...",
         "pt-BR": "[Du Lian]\nEi, Oliver, não seja tão preguiçoso agora...",
-        "es-ES": "[Du Lian]\nOye, Oliver, no seas tan perezoso de repente…"
+        "es-ES": "[Du Lian]\nOye, Oliver, no seas tan perezoso de repente..."
     },
     "3xVd": {
         "en-US": "[Oliver]\nBut I'm so sleepy.",
@@ -2247,12 +2247,12 @@
     "4RVd": {
         "en-US": "[Oliver]\nAcorns were so good...\nZzzz....",
         "pt-BR": "[Oliver]\nAs bolotas eram tão boas...\nZzzz....",
-        "es-ES": "[Oliver]\nLas bellotas estaban tan buenas…\n*Zzzz…*"
+        "es-ES": "[Oliver]\nLas bellotas estaban tan buenas...\n*Zzzz...*"
     },
     "4hVd": {
         "en-US": "[Oliver]\n...",
         "pt-BR": "[Oliver]\n...",
-        "es-ES": "[Oliver]\n…"
+        "es-ES": "[Oliver]\n..."
     },
     "4xVd": {
         "en-US": "[Du Lian]\nAHHHHHHHH!!!!!!!!!!",
@@ -2272,7 +2272,7 @@
     "5hVd": {
         "en-US": "[Oliver]\nYawnnn... so sleepy...\nI'm going to take a nap, so wake me up when we're leaving... Don't leave without me now~",
         "pt-BR": "[Oliver]\nBocejo... que sono...\nVou tirar um cochilo, então me acorde quando formos embora... Não vá embora sem mim~",
-        "es-ES": "[Oliver]\nUoay… tan somnoliento…\nHaré una siesta, así que despiértame cuando nos vayamos… No te vayas sin mí ahora."
+        "es-ES": "[Oliver]\nUoay... tan somnoliento...\nHaré una siesta, así que despiértame cuando nos vayamos... No te vayas sin mí ahora."
     },
     "5xVd": {
         "en-US": "Delivery Man",
@@ -2292,17 +2292,17 @@
     "6hVd": {
         "en-US": "[Delivery Man]\nI don't know why people can't just make small amounts of pickled Poring for themselves instead of mailing them...",
         "pt-BR": "[Entregador]\nNão sei por que as pessoas não podem simplesmente fazer pequenas quantidades de Poring em conserva para si mesmas, em vez de enviá-las pelo correio...",
-        "es-ES": "[Repartidor]\nNo sé por qué la gente simplemente no puede hacer pequeñas cantidades de Poring encurtido para ellos mismos en lugar de enviarlo por correo…"
+        "es-ES": "[Repartidor]\nNo sé por qué la gente simplemente no puede hacer pequeñas cantidades de Poring encurtido para ellos mismos en lugar de enviarlo por correo..."
     },
     "6xVd": {
         "en-US": "[Delivery Man]\nSigh...\nI need to get going in order to make it on time.",
         "pt-BR": "[Entregador]\nSuspiro...\nPreciso ir embora para chegar a tempo.",
-        "es-ES": "[Repartidor]\n*Suspira…*\nTengo que irme para llegar a tiempo."
+        "es-ES": "[Repartidor]\n*Suspira...*\nTengo que irme para llegar a tiempo."
     },
     "7BVd": {
         "en-US": "[Delivery Man]\nWait a minute...\nIs it actually better to deliver it later...\nI remember seeing so many boxes of pickled Poring in the storage waiting to be delivered...",
         "pt-BR": "[Entregador]\nEspere um minuto...\nSerá que é melhor entregar mais tarde...\nEu me lembro de ter visto tantas caixas de Poring em conserva no depósito esperando para serem entregues...",
-        "es-ES": "[Repartidor]\nEspera un momento…\nEs mejor entregarlo más tarde…\nRecuerdo ver tantas cajas de Poring encurtido en el almacén esperando a ser entregadas…"
+        "es-ES": "[Repartidor]\nEspera un momento...\nEs mejor entregarlo más tarde...\nRecuerdo ver tantas cajas de Poring encurtido en el almacén esperando a ser entregadas..."
     },
     "7RVd": {
         "en-US": "Du Lian",
@@ -2312,22 +2312,22 @@
     "7hVd": {
         "en-US": "[Du Lian]\nHmm... Where did he go...?\nCould he be... a ghost?!",
         "pt-BR": "[Du Lian]\nHmm... Para onde ele foi...?\nSerá que ele é... um fantasma?!",
-        "es-ES": "[Du Lian]\nMmm… ¿Adónde fue…?\n¿Podría ser… un fantasma?"
+        "es-ES": "[Du Lian]\nMmm... ¿Adónde fue...?\n¿Podría ser... un fantasma?"
     },
     "7xVd": {
         "en-US": "[Maggi Steen]\nI didn't sense any use of magic or other things of the sort...",
         "pt-BR": "[Maggi Steen]\nEu não senti nenhum uso de magia ou outras coisas do gênero...",
-        "es-ES": "[Maggi Steen]\nNo percibí ningún uso de magia ni otras cosas por el estilo…"
+        "es-ES": "[Maggi Steen]\nNo percibí ningún uso de magia ni otras cosas por el estilo..."
     },
     "8BVd": {
         "en-US": "[Maggi Steen]\nWait! Here's the hood that Oliver was wearing...",
         "pt-BR": "[Maggi Steen]\nEspere! Aqui está o capuz que Oliver estava usando...",
-        "es-ES": "[Maggi Steen]\n¡Espera! Aquí está la capucha que usaba Oliver…"
+        "es-ES": "[Maggi Steen]\n¡Espera! Aquí está la capucha que usaba Oliver..."
     },
     "8RVd": {
         "en-US": "[Maggi Steen]\nAnd... doesn't it feel like this room is different from before?",
         "pt-BR": "[Maggi Steen]\nE... não parece que este cômodo está diferente de antes?",
-        "es-ES": "[Maggi Steen]\nY… ¿no te parece que esta sala es diferente a la de antes?"
+        "es-ES": "[Maggi Steen]\nY... ¿no te parece que esta sala es diferente a la de antes?"
     },
     "8hVd": {
         "en-US": "[Du Lian]\nHey stop that!!\nIt's scaring me!!!",
@@ -2342,27 +2342,27 @@
     "9BVd": {
         "en-US": "[Alp Ocart]\nOh!!! I just remembered...\nOliver...",
         "pt-BR": "[Alp Ocart]\nAh!!! Acabei de me lembrar...\nOliver...",
-        "es-ES": "[AHP Ocart]\n¡Oh! Acabo de recordar…\nOliver…"
+        "es-ES": "[AHP Ocart]\n¡Oh! Acabo de recordar...\nOliver..."
     },
     "9RVd": {
         "en-US": "[Alp Ocart]\n...\nOliver Hilpert...\n.........is also known as the dreaming novelist...",
         "pt-BR": "[Alp Ocart]\n...\nOliver Hilpert...\n......... é também conhecido como o romancista sonhador...",
-        "es-ES": "[AHP Ocart]\n…\nOliver Hilpert…\n.........también es conocido como el novelista soñador…"
+        "es-ES": "[AHP Ocart]\n...\nOliver Hilpert...\n.........también es conocido como el novelista soñador..."
     },
     "9hVd": {
         "en-US": "[Alp Ocart]\nAnd this book...\nWhy didn't I remember this book when Oliver was around?",
         "pt-BR": "[Alp Ocart]\nE esse livro...\nPor que eu não me lembrava desse livro quando Oliver estava por perto?",
-        "es-ES": "[AHP Ocart]\nY este libro…\n¿Por qué no me acordé de este libro cuando estaba Oliver?"
+        "es-ES": "[AHP Ocart]\nY este libro...\n¿Por qué no me acordé de este libro cuando estaba Oliver?"
     },
     "9xVd": {
         "en-US": "[Du Lian]\nHey...\nDid you just take that book out from your bag?",
         "pt-BR": "[Du Lian]\nEi...\nVocê acabou de tirar esse livro da sua bolsa?",
-        "es-ES": "[Du Lian]\nOye…\n¿Acabas de sacar ese libro de tu bolso?"
+        "es-ES": "[Du Lian]\nOye...\n¿Acabas de sacar ese libro de tu bolso?"
     },
     "+BVd": {
         "en-US": "[Alp Ocart]\nYeah, that's because I'm a fan...",
         "pt-BR": "[Alp Ocart]\nSim, isso é porque sou fã...",
-        "es-ES": "[AHP Ocart]\nSí, eso es porque soy un fanático…"
+        "es-ES": "[AHP Ocart]\nSí, eso es porque soy un fanático..."
     },
     "+RVd": {
         "en-US": "[Du Lian]\nWhy didn't you remember the book when you are such a fan..?\nNot only that, do people usually carry books with them when they're fans? Especially hardcover books?",
@@ -2377,22 +2377,22 @@
     "+xVd": {
         "en-US": "[Du Lian]\nYou are a little bit weir...",
         "pt-BR": "[Du Lian]\nVocê é meio estranho...",
-        "es-ES": "[Du Lian]\nEres un poco raro…"
+        "es-ES": "[Du Lian]\nEres un poco raro..."
     },
     "/BVd": {
         "en-US": "[Mark Esha]\nMore importantly... The title of this book...\nis [The City of Fairies]?",
         "pt-BR": "[Mark Esha]\nMais importante... O título deste livro...\né [A Cidade das Fadas]?",
-        "es-ES": "[Mark Esha]\nY lo que es más importante… ¿El título de este libro…\nes [La ciudad de las hadas]?"
+        "es-ES": "[Mark Esha]\nY lo que es más importante... ¿El título de este libro...\nes [La ciudad de las hadas]?"
     },
     "/RVd": {
         "en-US": "[Mark Esha]\nAnd...\nIt's been many years since this book was published...",
         "pt-BR": "[Mark Esha]\nE...\nJá se passaram muitos anos desde que foi publicado...",
-        "es-ES": "[Mark Esha]\nY…\nPasaron muchos años desde que se publicó este libro…"
+        "es-ES": "[Mark Esha]\nY...\nPasaron muchos años desde que se publicó este libro..."
     },
     "/hVd": {
         "en-US": "[Du Lian]\n...This is getting kind of scary...?",
         "pt-BR": "[Du Lian]\n...Isso está ficando meio assustador...?",
-        "es-ES": "[Du Lian]\n¿Esto se está poniendo un poco intimidante…?"
+        "es-ES": "[Du Lian]\n¿Esto se está poniendo un poco intimidante...?"
     },
     "/xVd": {
         "en-US": "[Mark Esha]\n......",
@@ -2417,7 +2417,7 @@
     "AxZd": {
         "en-US": "[Du Lian]\nWow, how many are you carrying with you...\nWhy are you bringing all of them around...",
         "pt-BR": "[Du Lian]\nUau, quantos está carregando com você...\nPor que está trazendo todos eles...",
-        "es-ES": "[Du Lian]\nVaya, ¿cuántos llevas contigo…?\n¿Por qué los cargas todos…?"
+        "es-ES": "[Du Lian]\nVaya, ¿cuántos llevas contigo...?\n¿Por qué los cargas todos...?"
     },
     "BBZd": {
         "en-US": "Mark Esha",
@@ -2427,12 +2427,12 @@
     "BRZd": {
         "en-US": "[Du Lian]\nHmm... Where did he go...\nCould he be... a ghost?!",
         "pt-BR": "[Du Lian]\nHmm... Para onde ele foi...\nSerá que ele é... um fantasma?!",
-        "es-ES": "[Du Lian]\nMmm… ¿Adónde fue…?\n¿Podría ser… un fantasma?"
+        "es-ES": "[Du Lian]\nMmm... ¿Adónde fue...?\n¿Podría ser... un fantasma?"
     },
     "BhZd": {
         "en-US": "[Maggi Steen]\nWait.. Here's the hood that Oliver was wearing...",
         "pt-BR": "[Maggi Steen]\nEspere... Aqui está o capuz que Oliver estava usando...",
-        "es-ES": "[Maggi Steen]\nEspera… Aquí está la capucha que usaba Oliver…"
+        "es-ES": "[Maggi Steen]\nEspera... Aquí está la capucha que usaba Oliver..."
     },
     "BxZd": {
         "en-US": "[Du Lian]\nWhy didn't you remember the book when you are such a fan..?\nNot only that, do people usually carry books with them when they're fans?? Especially hardcover books?",
@@ -2467,7 +2467,7 @@
     "DRZd": {
         "en-US": "[Maggi Steen]\n...A...A...Aaaaahhhhhhhhh!!!!!",
         "pt-BR": "[Maggi Steen]\n...A...A...Aaaaahhhhhhhhh!!!!!",
-        "es-ES": "[Maggi Steen]\n¡…A…A…Aaaaahhhhhhh!"
+        "es-ES": "[Maggi Steen]\n¡...A...A...Aaaaahhhhhhh!"
     },
     "DhZd": {
         "en-US": "[Du Lian]\nDon't cry, Maggi~",
@@ -2482,22 +2482,22 @@
     "EBZd": {
         "en-US": "[Du Lian]\nHmm... Where did he go?\nCould he be... a ghost?!",
         "pt-BR": "[Du Lian]\nHmm... Para onde ele foi?\nSerá que ele é... um fantasma?!",
-        "es-ES": "[Du Lian]\nMmm… ¿Adónde fue?\n¿Podría ser… un fantasma?"
+        "es-ES": "[Du Lian]\nMmm... ¿Adónde fue?\n¿Podría ser... un fantasma?"
     },
     "ERZd": {
         "en-US": "[Du Lian]\nThis is getting kind of scary...?",
         "pt-BR": "[Du Lian]\nIsso está ficando meio assustador...?",
-        "es-ES": "[Du Lian]\n¿Esto se está poniendo un poco intimidante…?"
+        "es-ES": "[Du Lian]\n¿Esto se está poniendo un poco intimidante...?"
     },
     "EhZd": {
         "en-US": "[Alp Ocart]\nI wonder...\nWhy didn't I remember this...?",
         "pt-BR": "[Alp Ocart]\nEu me pergunto...\nPor que não me lembrei disso...?",
-        "es-ES": "[AHP Ocart]\nMe pregunto…\n¿Por qué no me acordé de esto…?"
+        "es-ES": "[AHP Ocart]\nMe pregunto...\n¿Por qué no me acordé de esto...?"
     },
     "ExZd": {
         "en-US": "[Alp Ocart]\nI... I should have.. I should have gotten his autograph!!!",
         "pt-BR": "[Alp Ocart]\nE... Eu deveria ter... Eu deveria ter conseguido seu autógrafo!!!",
-        "es-ES": "[AHP Ocart]\nYo… Debería haber… ¡Debería haber conseguido su autógrafo!"
+        "es-ES": "[AHP Ocart]\nYo... Debería haber... ¡Debería haber conseguido su autógrafo!"
     },
     "FBZd": {
         "en-US": "- You are carrying too many items to proceed with this quest. -",

@@ -12,7 +12,7 @@
     "AjZuAQ": {
         "en-US": "[Nurse]\nI'm sure they have their reasons, but I wish they'd tell me how to get closer...",
         "pt-BR": "[Enfermeira]\nTenho certeza de que elas têm seus motivos, mas gostaria que me dissessem como poderia me aproximar mais...",
-        "es-ES": "[Enfermera]\nSeguro tienen sus razones, pero me gustaría que me dijeran cómo acercarme…"
+        "es-ES": "[Enfermera]\nSeguro tienen sus razones, pero me gustaría que me dijeran cómo acercarme..."
     },
     "AzZuAQ": {
         "en-US": "[Nurse]\nHey, hold on.\nAre you planning on going inside?",
@@ -57,7 +57,7 @@
     "CzZuAQ": {
         "en-US": "[Nurse]\nI heard it was just built, but it seems so creepy....",
         "pt-BR": "[Enfermeira]\nOuvi dizer que acabou de ser construído, mas é tão assustador....",
-        "es-ES": "[Enfermera]\nOí que se acaba de construir, pero es tan espeluznante…"
+        "es-ES": "[Enfermera]\nOí que se acaba de construir, pero es tan espeluznante..."
     },
     "DDZuAQ": {
         "en-US": "[Nurse]\nI was surprised when I got here too.\nIt says 'closed' all around it!",
@@ -77,7 +77,7 @@
     "DzZuAQ": {
         "en-US": "[Nurse]\nI'd heard they were really cautious of outsiders...",
         "pt-BR": "[Enfermeira]\nOuvi dizer que as pessoas costumam tomar cuidado com os estrangeiros...",
-        "es-ES": "[Enfermera]\nHabía oído que eran muy cautelosos con los visitantes…"
+        "es-ES": "[Enfermera]\nHabía oído que eran muy cautelosos con los visitantes..."
     },
     "EDZuAQ": {
         "en-US": "[Nurse]\nNot even a soul to welcome me, let alone a party!\nShocking!",
@@ -92,7 +92,7 @@
     "EjZuAQ": {
         "en-US": "[Nurse]\nI heard it was just  built, but it seems so creepy....",
         "pt-BR": "[Enfermeira]\nOuvi dizer que acabou de ser construído, mas é tão assustador....",
-        "es-ES": "[Enfermera]\nOí que se acaba de construir, pero es tan espeluznante…"
+        "es-ES": "[Enfermera]\nOí que se acaba de construir, pero es tan espeluznante..."
     },
     "EzZuAQ": {
         "en-US": "[Nurse]\nYes, you must be busy.\nOh, well.\nI'll let you be on your way.\nDon't mind me. *Sob*",
@@ -107,7 +107,7 @@
     "FTZuAQ": {
         "en-US": "[Nurse]\nNow that you say it... If you're going inside, could you take me with you?",
         "pt-BR": "[Enfermeira]\nJá que diz isso... Se você entrar, pode me levar com você?",
-        "es-ES": "[Enfermera]\nAhora que lo dices… Si vas a entrar, ¿podrías llevarme contigo?"
+        "es-ES": "[Enfermera]\nAhora que lo dices... Si vas a entrar, ¿podrías llevarme contigo?"
     },
     "FjZuAQ": {
         "en-US": "[Nurse]\nDoors are locked!\nMy bags are heavy!\nAnd my legs are killing me.",
@@ -117,7 +117,7 @@
     "FzZuAQ": {
         "en-US": "[Nurse]\nIf I knew this was going to happen, I would've worn ER night-shift shoes instead of first-day shoes... *sniff*",
         "pt-BR": "[Enfermeira]\nSe eu soubesse que isso ia acontecer, teria usado sapatos do turno da noite da emergência em vez de sapatos do primeiro dia... *sniff*",
-        "es-ES": "[Enfermera]\nSi hubiera sabido que iba a pasar esto, me habría puesto el calzado del turno de urgencias de la noche y no el calzado del primer día… *Sollozo*"
+        "es-ES": "[Enfermera]\nSi hubiera sabido que iba a pasar esto, me habría puesto el calzado del turno de urgencias de la noche y no el calzado del primer día... *Sollozo*"
     },
     "GDZuAQ": {
         "en-US": "Help.",
@@ -137,7 +137,7 @@
     "GzZuAQ": {
         "en-US": "[Nurse Las]\nI'm 'Las', who's supposed to work in this hospital.\nBy the looks of it, though, I may become jobless...",
         "pt-BR": "[Enfermeira Las]\nMeu nome é Las, devo trabalhar neste hospital.\nMas, pelo que parece, posso ficar desempregada...",
-        "es-ES": "[Enfermera Las]\nSoy Las, y se supone que trabajo en este hospital.\nAunque, por lo que parece, puede que ya no tenga más trabajo…"
+        "es-ES": "[Enfermera Las]\nSoy Las, y se supone que trabajo en este hospital.\nAunque, por lo que parece, puede que ya no tenga más trabajo..."
     },
     "HDZuAQ": {
         "en-US": "[Nurse Las]\nLet's start by getting inside.",
@@ -147,7 +147,7 @@
     "HTZuAQ": {
         "en-US": "[Nurse Las]\nBefore that....\nCould you get something to wrap my feet? I can't put my shoes on because I've got blisters.",
         "pt-BR": "[Enfermeira Las]\nAntes disso....\nVocê poderia pegar algo para cobrir meus pés? Não consigo calçar meus sapatos porque estou com bolhas.",
-        "es-ES": "[Enfermera Las]\nAntes de hacerlo…\n¿Podrías traerme algo para envolverme los pies? No puedo ponerme el calzado porque tengo ampollas."
+        "es-ES": "[Enfermera Las]\nAntes de hacerlo...\n¿Podrías traerme algo para envolverme los pies? No puedo ponerme el calzado porque tengo ampollas."
     },
     "HjZuAQ": {
         "en-US": "[Nurse Las]\n2 Rotten Bandages should do to wrap both my feet. They may look dirty, but they have special liquid on them that have amazing effects.",
@@ -157,12 +157,12 @@
     "HzZuAQ": {
         "en-US": "[Nurse Las]\nOh......\nI know they're effective but... Not so tempting.",
         "pt-BR": "[Enfermeira Las]\nAh......\nEu sei que são eficazes, mas... Não é tão tentador.",
-        "es-ES": "[Enfermera Las]\nAh…\nSé que son eficaces pero… No suena tentador."
+        "es-ES": "[Enfermera Las]\nAh...\nSé que son eficaces pero... No suena tentador."
     },
     "IDZuAQ": {
         "en-US": "[Nurse Las]\nRotten Bandages... A fit name for something that seems to have been cut fresh from a mummy.",
         "pt-BR": "[Enfermeira Las]\nBandagens Estragadas... Um nome adequado para algo que parece ter sido cortado recentemente de uma múmia.",
-        "es-ES": "[Enfermera Las]\nVendaje podrido… Es el nombre perfecto para algo que parece recién extraído de una momia."
+        "es-ES": "[Enfermera Las]\nVendaje podrido... Es el nombre perfecto para algo que parece recién extraído de una momia."
     },
     "ITZuAQ": {
         "en-US": "[Nurse Las]\nI'm having second thoughts looking at them, but as I am to be a professional nurse!!\nHere goes nothing!!!\nEwwww!!",
@@ -177,7 +177,7 @@
     "IzZuAQ": {
         "en-US": "[Nurse Las]\nBefore that...\nCould you get something to wrap my feet? I can't put my shoes on because I've got blisters.",
         "pt-BR": "[Enfermeira Las]\nAntes disso...\nVocê poderia pegar algo para cobrir os meus pés? Não consigo calçar meus sapatos porque estou com bolhas.",
-        "es-ES": "[Enfermera Las]\nAntes de eso…\n¿Podrías traerme algo para envolverme los pies? No puedo ponerme el calzado porque tengo ampollas."
+        "es-ES": "[Enfermera Las]\nAntes de eso...\n¿Podrías traerme algo para envolverme los pies? No puedo ponerme el calzado porque tengo ampollas."
     },
     "JDZuAQ": {
         "en-US": "[Nurse Las]\n2 Rotten Bandages should do to wrap both my feet. They may look dirty, but they have special liquid on that have with amazing effects.",
@@ -187,12 +187,12 @@
     "JTZuAQ": {
         "en-US": "[Nurse Las]\nAhhhhh...\nMy feet feel a lot better now, but it smells funny.",
         "pt-BR": "[Enfermeira Las]\nAhhhhh...\nMeus pés estão bem melhores agora, mas o cheiro é estranho.",
-        "es-ES": "[Enfermera Las]\nAhhhhh…\nAhora mis pies se sienten mucho mejor, pero huelen raro."
+        "es-ES": "[Enfermera Las]\nAhhhhh...\nAhora mis pies se sienten mucho mejor, pero huelen raro."
     },
     "JjZuAQ": {
         "en-US": "[Nurse Las]\nOh...... the smell......\nMy new shoes will be ruined...",
         "pt-BR": "[Enfermeira Las]\nAh...... o cheiro......\nMeus sapatos novos estão arruinados...",
-        "es-ES": "[Enfermera Las]\nAy… Qué olor…\nMi calzado nuevo se arruinará…"
+        "es-ES": "[Enfermera Las]\nAy... Qué olor...\nMi calzado nuevo se arruinará..."
     },
     "JzZuAQ": {
         "en-US": "[Nurse Las]\nOkay!!!!!!\nI don't know if it's locked or stuck, let's try pushing it together!",
@@ -257,12 +257,12 @@
     "MzZuAQ": {
         "en-US": "[Nurse Las]\nUmmm......\n......\n......",
         "pt-BR": "[Enfermeira Las]\nHmmm......\n......\n......",
-        "es-ES": "[Enfermera Las]\nMmm…\n......\n......"
+        "es-ES": "[Enfermera Las]\nMmm...\n......\n......"
     },
     "NDZuAQ": {
         "en-US": "[Nurse Las]\nHey... you know what...",
         "pt-BR": "[Enfermeira Las]\nEi... você sabe o que...",
-        "es-ES": "[Enfermera Las]\nOye… ¿Sabes qué…?"
+        "es-ES": "[Enfermera Las]\nOye... ¿Sabes qué...?"
     },
     "NTZuAQ": {
         "en-US": "[Nurse Las]\nI don't think I can move anymore because of my feet. Could you go to the inn for me?",
@@ -302,7 +302,7 @@
     "PDZuAQ": {
         "en-US": "[Nurse Las]\nOh no!!!\nEverything's falling apart.\nMaybe we should wait for the doctor to come.....",
         "pt-BR": "[Enfermeira Las]\nAh, não!\nTudo está desmoronando.\nTalvez devêssemos esperar a chegada do médico.....",
-        "es-ES": "[Enfermera Las]\n¡Ay, no!\nTodo se está desmoronando.\nTal vez deberíamos esperar a que llegue el médico…"
+        "es-ES": "[Enfermera Las]\n¡Ay, no!\nTodo se está desmoronando.\nTal vez deberíamos esperar a que llegue el médico..."
     },
     "PTZuAQ": {
         "en-US": "[???]\n...",
@@ -382,7 +382,7 @@
     "TDZuAQ": {
         "en-US": "[???]\nShe never got out of it though...",
         "pt-BR": "[???]\nMas ela não sobreviveu...",
-        "es-ES": "[¿¿¿???]\nAunque nunca salió…"
+        "es-ES": "[¿¿¿???]\nAunque nunca salió..."
     },
     "TTZuAQ": {
         "en-US": "[???]\nShe wasn't the only one. There were many strange things going on at the hospital.",
@@ -402,7 +402,7 @@
     "UDZuAQ": {
         "en-US": "[???]\nIf I'm caught again, it won't end with a spanking....\nSo scary.",
         "pt-BR": "[???]\nSe eu for pego novamente, isso não terminará com uma surra....\nAssustador.",
-        "es-ES": "[¿¿¿???]\nSi me atrapan otra vez, no será solo una nalgada…\nQué miedo."
+        "es-ES": "[¿¿¿???]\nSi me atrapan otra vez, no será solo una nalgada...\nQué miedo."
     },
     "UTZuAQ": {
         "en-US": "[???]\nHumph!!",
@@ -417,12 +417,12 @@
     "UzZuAQ": {
         "en-US": "[Nurse Las]\nHmmm... Let's look around the hospital.",
         "pt-BR": "[Enfermeira Las]\nHmmm... Vamos dar uma olhada no hospital.",
-        "es-ES": "[Enfermera Las]\nMmm… Demos una vuelta por el hospital."
+        "es-ES": "[Enfermera Las]\nMmm... Demos una vuelta por el hospital."
     },
     "VDZuAQ": {
         "en-US": "[Nurse Las]\nHey... ummm...\nYou know...\nCould you give that old lady a visit?",
         "pt-BR": "[Enfermeira Las]\nEi... hummm...\nSabe...\nPoderia fazer uma visita naquela senhora?",
-        "es-ES": "[Enfermera Las]\nOye… mmm…\n¿Sabes…?\n¿Podrías ir a visitar a la señora?"
+        "es-ES": "[Enfermera Las]\nOye... mmm...\n¿Sabes...?\n¿Podrías ir a visitar a la señora?"
     },
     "VTZuAQ": {
         "en-US": "[Nurse Las]\nOh, me? I'll look be looking around here.",
@@ -472,7 +472,7 @@
     "XjZuAQ": {
         "en-US": "[Nurse Las]\nOh by the way, when [{0}], you were gone, I tried the door.\nIt did open...",
         "pt-BR": "[Enfermeira Las]\nA propósito, quando [{0}] não estava mais aqui, tentei abrir a porta.\nE abriu...",
-        "es-ES": "[Enfermera Las]\nPor cierto, cuando te fuiste, [{0}], intenté abrir la puerta.\nY se abrió…"
+        "es-ES": "[Enfermera Las]\nPor cierto, cuando te fuiste, [{0}], intenté abrir la puerta.\nY se abrió..."
     },
     "XzZuAQ": {
         "en-US": "[Nurse Las]\nBut the way to the 2nd floor was blocked.\nI thought the door opening was a break through, but turns out it wasn't.",
@@ -517,12 +517,12 @@
     "ZzZuAQ": {
         "en-US": "[Nurse Las]\nA shaman... Best if we met her.",
         "pt-BR": "[Enfermeira Las]\nUma xamã... É melhor conhecermos ela.",
-        "es-ES": "[Enfermera Las]\nUna chamana… Será mejor que la encontremos."
+        "es-ES": "[Enfermera Las]\nUna chamana... Será mejor que la encontremos."
     },
     "aDZuAQ": {
         "en-US": "[Nurse Las]\nOh!\nYou must have met her.\nI feel something strong...",
         "pt-BR": "[Enfermeira Las]\nAh!\nVocê deve tê-la conhecido.\nEstou sentindo algo forte...",
-        "es-ES": "[Enfermera Las]\n¡Ah!\nLa debes haber conocido.\nSiento una energía fuerte…"
+        "es-ES": "[Enfermera Las]\n¡Ah!\nLa debes haber conocido.\nSiento una energía fuerte..."
     },
     "aTZuAQ": {
         "en-US": "Tell her about the talisman.",
@@ -552,7 +552,7 @@
     "bjZuAQ": {
         "en-US": "[Nurse Maenne]\n*Sigh*...\nI thought it strange when you were standing behind me....",
         "pt-BR": "[Enfermeira Maenne]\n*Suspira*...\nAchei estranho quando você estava atrás de mim....",
-        "es-ES": "[Enfermera Maenne]\n*Suspira…*\nMe pareció extraño que te pararas detrás de mí…"
+        "es-ES": "[Enfermera Maenne]\n*Suspira...*\nMe pareció extraño que te pararas detrás de mí..."
     },
     "bzZuAQ": {
         "en-US": "[Nurse Maenne]\nI didn't think you'd do something like this.",
@@ -562,7 +562,7 @@
     "cDZuAQ": {
         "en-US": "[Nurse Maenne]\nWe were just about to enter Bangungot's room, before we were thrown out...",
         "pt-BR": "[Enfermeira Maenne]\nEstávamos prestes a entrar no quarto de Bangungot, antes de sermos expulsos...",
-        "es-ES": "[Enfermera Maenne]\nEstábamos a punto de entrar en la habitación de Bangungot, pero algo nos expulsó…"
+        "es-ES": "[Enfermera Maenne]\nEstábamos a punto de entrar en la habitación de Bangungot, pero algo nos expulsó..."
     },
     "cTZuAQ": {
         "en-US": "Bangungot?",
@@ -582,7 +582,7 @@
     "dDZuAQ": {
         "en-US": "[Nurse Maenne]\nHmmmm...\nIt's not exactly a monster....\nMore like a curse or disease...",
         "pt-BR": "[Enfermeira Maenne]\nHmmmm...\nNão é exatamente um monstro....\nÉ mais como uma maldição ou doença...",
-        "es-ES": "[Enfermera Maenne]\nMmmmmm…\nNo es exactamente un monstruo…\nEs más bien una maldición o una enfermedad…"
+        "es-ES": "[Enfermera Maenne]\nMmmmmm...\nNo es exactamente un monstruo...\nEs más bien una maldición o una enfermedad..."
     },
     "dTZuAQ": {
         "en-US": "[Nurse Maenne]\nThere's a story saying that it used to be a wood fairy.",
@@ -657,7 +657,7 @@
     "gzZuAQ": {
         "en-US": "[Nurse Maenne]\nWhat you killed was a part of her...\nBut, it was a big help since you confused and damaged her at the same time.",
         "pt-BR": "[Enfermeira Maenne]\nO que você matou era uma parte dela...\nMas foi uma grande ajuda, pois você a confundiu e danificou ao mesmo tempo.",
-        "es-ES": "[Enfermera Maenne]\nLo que mataste era una parte de ella…\nPero, fue de gran ayuda porque la confundió y le provocó daño al mismo tiempo."
+        "es-ES": "[Enfermera Maenne]\nLo que mataste era una parte de ella...\nPero, fue de gran ayuda porque la confundió y le provocó daño al mismo tiempo."
     },
     "hDZuAQ": {
         "en-US": "[Nurse Maenne]\nIt makes things a lot easier.\nThank you.",
@@ -672,7 +672,7 @@
     "hjZuAQ": {
         "en-US": "[Nurse Maenne]\nHmmm...",
         "pt-BR": "[Enfermeira Maenne]\nHmmm...",
-        "es-ES": "[Enfermera Maenne]\nMmm…"
+        "es-ES": "[Enfermera Maenne]\nMmm..."
     },
     "hzZuAQ": {
         "en-US": "There's a nurse outside the hospital holding a large bag.\nI don't think I can help her.",
@@ -697,12 +697,12 @@
     "izZuAQ": {
         "en-US": "[Nurse Las]\nTsk...",
         "pt-BR": "[Enfermeira Las]\nTsk...",
-        "es-ES": "[Enfermera Las]\nPf…"
+        "es-ES": "[Enfermera Las]\nPf..."
     },
     "jDZuAQ": {
         "en-US": "[Nurse Las]\nTsk..",
         "pt-BR": "[Enfermeira Las]\nTsk...",
-        "es-ES": "[Enfermera Las]\nPf…"
+        "es-ES": "[Enfermera Las]\nPf..."
     },
     "jTZuAQ": {
         "en-US": "malaya_nurseB.bmp\n[Nurse Maenne]\nIt would've been easier if she was apart from her body, but now that she returned to her room, this is going to be a little tricky.",
@@ -757,7 +757,7 @@
     "lzZuAQ": {
         "en-US": "[Nurse Las]\nFor your work, I shall take you to my room...\nDarn...",
         "pt-BR": "[Enfermeira Las]\nPelo seu trabalho, vou levá-lo para o meu quarto...\nDroga...",
-        "es-ES": "[Enfermera Las]\nPor tu trabajo, te llevaré a mi habitación…\nMaldición…"
+        "es-ES": "[Enfermera Las]\nPor tu trabajo, te llevaré a mi habitación...\nMaldición..."
     },
     "mDZuAQ": {
         "en-US": "[Nurse Las]\n......",
@@ -777,7 +777,7 @@
     "mzZuAQ": {
         "en-US": "Cannot feel anything evil about the talisman.\nOnly the bitter taste of being fooled around Las remains...",
         "pt-BR": "Não consigo sentir nada de ruim no talismã.\nApenas o gosto amargo de ter sido enganado por Las permanece...",
-        "es-ES": "No se siente nada malo en el talismán.\nSolo queda el sabor amargo del engaño de Las…"
+        "es-ES": "No se siente nada malo en el talismán.\nSolo queda el sabor amargo del engaño de Las..."
     },
     "nDZuAQ": {
         "en-US": "No power can be felt.",
@@ -797,7 +797,7 @@
     "nzZuAQ": {
         "en-US": "Put the key inside the lock of the hospital door...\nBut it's not locked as expected.",
         "pt-BR": "Coloque a chave na fechadura da porta do hospital...\nMas ela não está trancada.",
-        "es-ES": "Puse la llave en la cerradura de la puerta del hospital…\nPero no está cerrada como esperaba."
+        "es-ES": "Puse la llave en la cerradura de la puerta del hospital...\nPero no está cerrada como esperaba."
     },
     "oDZuAQ": {
         "en-US": "Then why is the door not opening?",
@@ -897,12 +897,12 @@
     "szZuAQ": {
         "en-US": "[Village Man]\nUmmm......\nYou mean that hospital?",
         "pt-BR": "[Aldeão]\nHmm......\nEstá falando daquele hospital?",
-        "es-ES": "[Aldeano]\nMmm…\n¿Te refieres a ese hospital?"
+        "es-ES": "[Aldeano]\nMmm...\n¿Te refieres a ese hospital?"
     },
     "tDZuAQ": {
         "en-US": "[Village Man]\nIt was closed down because of an accident.\nBut I wouldn't trouble an outsider with the details......\nThere's not much I can tell you.",
         "pt-BR": "[Aldeão]\nEle foi fechado por causa de um acidente.\nMas eu não incomodaria uma pessoa de fora com os detalhes......\nNão há muito que eu possa lhe dizer.",
-        "es-ES": "[Aldeano]\nSe cerró a causa de un accidente.\nPero no quisiera molestarte con los pormenores de la historia…\nNo hay mucho para contar."
+        "es-ES": "[Aldeano]\nSe cerró a causa de un accidente.\nPero no quisiera molestarte con los pormenores de la historia...\nNo hay mucho para contar."
     },
     "tTZuAQ": {
         "en-US": "[Village Man]\nOh!!!\nDid you meet the nurse?!",
@@ -1012,7 +1012,7 @@
     "yjZuAQ": {
         "en-US": "[Dr. Boon]\n*Sigh*\nThe work... It never ends...\nHow am I supposed to handle all these patients on my own?",
         "pt-BR": "[Dr. Boon]\n*Suspiro*\nO trabalho... Nunca acaba...\nComo posso lidar com todos esses pacientes sozinho?",
-        "es-ES": "[Dr. Boon]\n*Suspira*\nEste trabajo… Nunca termina…\n¿Cómo se supone que puedo atender a todos estos pacientes yo solo?"
+        "es-ES": "[Dr. Boon]\n*Suspira*\nEste trabajo... Nunca termina...\n¿Cómo se supone que puedo atender a todos estos pacientes yo solo?"
     },
     "yzZuAQ": {
         "en-US": "[Dr. Boon]\nWhat? What's a doctor doing in an inn?\nWell, why not?",
@@ -1287,17 +1287,17 @@
     "ATduAQ": {
         "en-US": "[Bent Old Lady]\nBut the administrator wouldn't listen.\nFar from curing people, they started to die.\nSo did my daughter...",
         "pt-BR": "[Velhinha Corcunda]\nMas o administrador não quis ouvir.\nLonge de curar as pessoas, elas começaram a morrer.\nMinha filha também...",
-        "es-ES": "[Señora encorvada]\nPero el administrador no quiso escuchar.\nEn vez de curarse, la gente comenzó a morir.\nLo mismo le pasó a mi hija…"
+        "es-ES": "[Señora encorvada]\nPero el administrador no quiso escuchar.\nEn vez de curarse, la gente comenzó a morir.\nLo mismo le pasó a mi hija..."
     },
     "AjduAQ": {
         "en-US": "[Bent Old Lady]\nShe suffered from nothing life threatening.\nIt was...\nJust a cold......",
         "pt-BR": "[Velhinha Corcunda]\nEla não sofria nada de ameaçador.\nEra...\nApenas um resfriado......",
-        "es-ES": "[Señora encorvada]\nNo tenía ninguna enfermedad que pusiera en peligro su vida.\nSolo…\nTenía un resfriado…"
+        "es-ES": "[Señora encorvada]\nNo tenía ninguna enfermedad que pusiera en peligro su vida.\nSolo...\nTenía un resfriado..."
     },
     "AzduAQ": {
         "en-US": "[Bent Old Lady]\nThe wicked thing.... My daughter...\nThere's something in that hospital.",
         "pt-BR": "[Velhinha Corcunda]\nAquela coisa perversa... Minha filha...\nHá algo naquele hospital.",
-        "es-ES": "[Señora encorvada]\nEse monstruo malvado… Mi hija…\nHay algo en ese hospital."
+        "es-ES": "[Señora encorvada]\nEse monstruo malvado... Mi hija...\nHay algo en ese hospital."
     },
     "BDduAQ": {
         "en-US": "Show her the stick.",
@@ -1322,7 +1322,7 @@
     "CDduAQ": {
         "en-US": "[Bent Old Lady]\nWhat have you done!\nThat...That was a talisman to stop the wicked thing!",
         "pt-BR": "[Velhinha Corcunda]\nO que você fez?\nIsso... Isso era um talismã para deter a coisa perversa!",
-        "es-ES": "[Señora encorvada]\n¿Qué hiciste?\nEso… ¡Eso era un talismán para detener a esa cosa malvada!"
+        "es-ES": "[Señora encorvada]\n¿Qué hiciste?\nEso... ¡Eso era un talismán para detener a esa cosa malvada!"
     },
     "CTduAQ": {
         "en-US": "[Bent Old Lady]\nIf you pull them up, it will go after people again!",
@@ -1342,7 +1342,7 @@
     "DDduAQ": {
         "en-US": "[Bent Old Lady]\nTaken alive...\nBy the thing that took my daughter...",
         "pt-BR": "[Velhinha Corcunda]\nForam mortos...\nPela coisa que levou minha filha...",
-        "es-ES": "[Señora encorvada]\nSe los llevaron vivos…\nSe los llevó esa cosa que me sacó a mi hija…"
+        "es-ES": "[Señora encorvada]\nSe los llevaron vivos...\nSe los llevó esa cosa que me sacó a mi hija..."
     },
     "DTduAQ": {
         "en-US": "[Bent Old Lady]\nOh dear.",
@@ -1352,7 +1352,7 @@
     "DjduAQ": {
         "en-US": "Nurse Las may be in danger, standing alone in front of the hospital.\nIf I don't return quickly...",
         "pt-BR": "A enfermeira Las pode estar correndo perigo, sozinha em frente ao hospital.\nSe eu não voltar rápido...",
-        "es-ES": "La enfermera Las puede estar en peligro frente al hospital.\nSi no vuelvo rápido…"
+        "es-ES": "La enfermera Las puede estar en peligro frente al hospital.\nSi no vuelvo rápido..."
     },
     "DzduAQ": {
         "en-US": "[Bent Old Lady]\nYes? The talisman?\nI asked the shaman up north of the village to make them,",
@@ -1372,31 +1372,31 @@
     "EjduAQ": {
         "en-US": "[Bent Shaman]\nUrgh Urgh Urghhhhhh",
         "pt-BR": "[Xamã Corcunda]\nUrgh Urgh Urghhhhhh",
-        "es-ES": "[Chamana encorvada]\nUf, uf, uf…"
+        "es-ES": "[Chamana encorvada]\nUf, uf, uf..."
     },
     "EzduAQ": {
         "en-US": "Doesn't give even a glance...",
         "pt-BR": "Não dá nem uma olhada...",
-        "es-ES": "Ni siquiera mira…"
+        "es-ES": "Ni siquiera mira..."
     },
     "FDduAQ": {
         "en-US": "[Bent Shaman]\nHmmmm...\nI feel, feel....",
         "pt-BR": "[Xamã Corcunda]\nHmmmm...\nEu sinto...",
-        "es-ES": "[Chamana encorvada]\nMmmmmm…\nSiento, siento…"
+        "es-ES": "[Chamana encorvada]\nMmmmmm...\nSiento, siento..."
     },
     "FTduAQ": {
         "en-US": "[Bent Shaman]\nI feel something bad from you...",
         "pt-BR": "[Xamã Corcunda]\nSinto algo ruim vindo de você...",
-        "es-ES": "[Chamana encorvada]\nSiento algo malo que proviene de ti…"
+        "es-ES": "[Chamana encorvada]\nSiento algo malo que proviene de ti..."
     },
     "FjduAQ": {
         "en-US": "[Bent Shaman]\nNo no...\nYou need not say anything!\nYou'll be needing this.",
         "pt-BR": "[Xamã Corcunda]\nNão, não...\nNão precisa dizer nada!\nVocê vai precisar disso.",
-        "es-ES": "[Chamana encorvada]\nNo, no…\n¡No hace falta que digas nada!\nNecesitarás esto."
+        "es-ES": "[Chamana encorvada]\nNo, no...\n¡No hace falta que digas nada!\nNecesitarás esto."
     },
     "FzduAQ": {
         "en-US": "[Bent Shaman]\nIt's okay.\nNo need for money.\nIt's the karma this village must face...",
         "pt-BR": "[Xamã Corcunda]\nEstá tudo bem.\nNão há necessidade de dinheiro.\nÉ o karma que esta aldeia deve enfrentar...",
-        "es-ES": "[Chamana encorvada]\nEstá bien.\nNo hace falta dinero.\nEs el karma que esta aldea debe afrontar…"
+        "es-ES": "[Chamana encorvada]\nEstá bien.\nNo hace falta dinero.\nEs el karma que esta aldea debe afrontar..."
     }
 }

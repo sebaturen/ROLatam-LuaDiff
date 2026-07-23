@@ -16,8 +16,8 @@
     },
     "I0BhDA": {
         "en-US": "[Yoop]\nUgh...\nI can't believe I failed...",
-        "pt-BR": "[Yoop]\nUgh…\nNão achei que fosse dar errado…",
-        "es-ES": "[Yup]\nUf…\nNo pensé que fallaría…"
+        "pt-BR": "[Yoop]\nUgh...\nNão achei que fosse dar errado...",
+        "es-ES": "[Yup]\nUf...\nNo pensé que fallaría..."
     },
     "JEBhDA": {
         "en-US": "[Yoop]\nFor now, you should go outside and come back in to restart from the beginning.",
@@ -101,7 +101,7 @@
     },
     "NEBhDA": {
         "en-US": "Yoop: Now, human...",
-        "pt-BR": "Yoop: Ora, humano……",
+        "pt-BR": "Yoop: Ora, humano......",
         "es-ES": "Yup: Bueno, humano..."
     },
     "NUBhDA": {
@@ -242,7 +242,7 @@
     "UEBhDA": {
         "en-US": "Yoop: Ah! The fire is put out!",
         "pt-BR": "Yoop: Ah... A chama se apagou!",
-        "es-ES": "Yup: ¡Ay… se apagó el fuego!"
+        "es-ES": "Yup: ¡Ay... se apagó el fuego!"
     },
     "UUBhDA": {
         "en-US": "Yoop: You should start over.",
@@ -287,7 +287,7 @@
     "WUBhDA": {
         "en-US": "Yoop: Ah... it's dry...",
         "pt-BR": "Yoop: Ah... tá seco...",
-        "es-ES": "Yup: Ay… qué seco…"
+        "es-ES": "Yup: Ay... qué seco..."
     },
     "WkBhDA": {
         "en-US": "Master Egnoloria: Don't you think you're way too loud for that?",
@@ -331,7 +331,7 @@
     },
     "YkBhDA": {
         "en-US": "Yoop: Heh heh heh...",
-        "pt-BR": "Yoop: Huhu…",
+        "pt-BR": "Yoop: Huhu...",
         "es-ES": "Yup: Jeje..."
     },
     "Y0BhDA": {
@@ -377,7 +377,7 @@
     "a0BhDA": {
         "en-US": "Yoop: Ah... the Water Essence has vanished...",
         "pt-BR": "Yoop: Ah... a energia da água desapareceu...",
-        "es-ES": "Yup: ¡Ay… la energía del agua se ha esfumado…!"
+        "es-ES": "Yup: ¡Ay... la energía del agua se ha esfumado...!"
     },
     "bEBhDA": {
         "en-US": "Yoop: You failed to summon Shez. Try again from the start.",
@@ -482,12 +482,12 @@
     "gEBhDA": {
         "en-US": "Yoop: Ah... the Earth Essence has vanished...",
         "pt-BR": "Yoop: Ah... A energia da terra desapareceu...",
-        "es-ES": "Yup: ¡Ay… la energía de la tierra se ha esfumado…!"
+        "es-ES": "Yup: ¡Ay... la energía de la tierra se ha esfumado...!"
     },
     "gUBhDA": {
         "en-US": "Yoop: You failed to summon Ivein. Try again from the start.",
-        "pt-BR": "Yoop: Não consegui invocar Ivein… Vamos tentar de novo desde o início.",
-        "es-ES": "Yup: ¿No pude invocar a Ivein?… Inténtalo de nuevo desde el principio."
+        "pt-BR": "Yoop: Não consegui invocar Ivein... Vamos tentar de novo desde o início.",
+        "es-ES": "Yup: ¿No pude invocar a Ivein?... Inténtalo de nuevo desde el principio."
     },
     "gkBhDA": {
         "en-US": "Shez",

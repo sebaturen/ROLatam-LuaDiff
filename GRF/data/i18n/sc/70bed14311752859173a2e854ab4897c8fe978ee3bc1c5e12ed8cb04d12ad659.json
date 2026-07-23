@@ -37,12 +37,12 @@
     "xzaSCA": {
         "en-US": "[Iris]\n... ?? Chaos?",
         "pt-BR": "[Iris]\nChaos?",
-        "es-ES": "[Iris]\n… ?? ¿Caos?"
+        "es-ES": "[Iris]\n... ?? ¿Caos?"
     },
     "yDaSCA": {
         "en-US": "[Chaos]\n.....Sage Kadmon..",
         "pt-BR": "[Chaos]\nPrecisamos encontrar Kadmon...",
-        "es-ES": "[Caos]\n.....Sabio Kadmon…"
+        "es-ES": "[Caos]\n.....Sabio Kadmon..."
     },
     "yTaSCA": {
         "en-US": "[Iris]\nWhat are you doing instead of listening to me!!!!",
@@ -62,12 +62,12 @@
     "zDaSCA": {
         "en-US": "[Chaos]\nAh...Iris!! Are you trying to kill me~!!",
         "pt-BR": "[Chaos]\nCredo, vai com calma. Tá querendo me matar?",
-        "es-ES": "[Caos]\n¡Ah… Iris! ¡¿Estás tratando de matarme?!"
+        "es-ES": "[Caos]\n¡Ah... Iris! ¡¿Estás tratando de matarme?!"
     },
     "zTaSCA": {
         "en-US": "[Iris]\nHumph! I don't care if you die or not...",
         "pt-BR": "[Iris]\nNão ligo... Por mim você já tava mortinho há muito tempo...",
-        "es-ES": "[Iris]\n¡Hum! No me importa si mueres o no…"
+        "es-ES": "[Iris]\n¡Hum! No me importa si mueres o no..."
     },
     "zjaSCA": {
         "en-US": "[Captain Ferlock]\nHey!! No horsing around on the ship!!\nThis is what's wrong with young humans. They have no manners! If you act up I will toss all of you off!!",
@@ -87,7 +87,7 @@
     "0TaSCA": {
         "en-US": "[Iris]\nEh... So that's how this big ship floats... but now the feeling of mystery is gone. I thought there would be some unknown device... a little disappointed...",
         "pt-BR": "[Iris]\nEntão é assim que o Aeroplano voa? Pensei que ia ter algo de mágico nele... confesso que estou um pouco desapontada.",
-        "es-ES": "[Iris]\nEh… Así es como flota esta gran nave… pero ahora la sensación de misterio desapareció. Pensé que habría algún dispositivo desconocido… Qué decepción…"
+        "es-ES": "[Iris]\nEh... Así es como flota esta gran nave... pero ahora la sensación de misterio desapareció. Pensé que habría algún dispositivo desconocido... Qué decepción..."
     },
     "0jaSCA": {
         "en-US": "[Captain Ferlock]\nThat's right. This big ship can't be in the sky with just steam. So it uses an amplifier called a  'rune engine.'",
@@ -102,7 +102,7 @@
     "1DaSCA": {
         "en-US": "[Captain Ferlock]\nIt's a device that uses a magical stone.\nSomething about fallen fragments of a broken heart according to the legends... a ridiculous legend but that doesn't matter...",
         "pt-BR": "[Capitão Ferlock]\nÉ uma pedra especial imbuída de magia...\nAlgo relacionado com fragmentos de um coração... Deve ter sido de uma lenda boba, sei lá.",
-        "es-ES": "[Capitán Ferlock]\nEs un dispositivo que usa una piedra mágica.\nAlgo sobre fragmentos caídos de un corazón roto, según las leyendas… Una leyenda ridícula, pero eso no importa…"
+        "es-ES": "[Capitán Ferlock]\nEs un dispositivo que usa una piedra mágica.\nAlgo sobre fragmentos caídos de un corazón roto, según las leyendas... Una leyenda ridícula, pero eso no importa..."
     },
     "1TaSCA": {
         "en-US": "[Captain Ferlock]\nRight. The stone is the so-called 'tear of Ymir.' If put in junction with locomotive engines like steam engines, the rune exuded from the stone amplifies the energy.",
@@ -117,12 +117,12 @@
     "1zaSCA": {
         "en-US": "[Iris]\nThat little thing...!!!",
         "pt-BR": "[Iris]\nTanto poder em algo tão pequeno... Fascinante!",
-        "es-ES": "[Iris]\n¡¡¡Esa cosita pequeña…!!!"
+        "es-ES": "[Iris]\n¡¡¡Esa cosita pequeña...!!!"
     },
     "2DaSCA": {
         "en-US": "[Loki]\n......huh?\nSomething is coming this way...",
         "pt-BR": "[Loki]\n...\nTem alguma coisa vindo aí...",
-        "es-ES": "[Loki]\n…¿Huh?\nAlgo viene hacia aquí…"
+        "es-ES": "[Loki]\n...¿Huh?\nAlgo viene hacia aquí..."
     },
     "2TaSCA": {
         "en-US": "[Guard]\nAlert!! Alert!! A large Wyvern unit at 7 o'clock!!",
@@ -142,7 +142,7 @@
     "3DaSCA": {
         "en-US": "[Chaos]\nHm... What is this now?",
         "pt-BR": "[Chaos]\nMas o que tá acontecendo aqui?",
-        "es-ES": "[Caos]\nMmm… ¿Qué es esto ahora?"
+        "es-ES": "[Caos]\nMmm... ¿Qué es esto ahora?"
     },
     "3TaSCA": {
         "en-US": "[Arcana]\nHahahaha~ You have waited long!!\nGenius beauty sorceress Arcana's surprise airborne monster show!!",
@@ -152,12 +152,12 @@
     "3jaSCA": {
         "en-US": "[Chaos]\nWha...what show?",
         "pt-BR": "[Chaos]\nCa... Calma aí...",
-        "es-ES": "[Caos]\n¿Qué… qué espectáculo?"
+        "es-ES": "[Caos]\n¿Qué... qué espectáculo?"
     },
     "3zaSCA": {
         "en-US": "[Arcana]\nNow... Let us get started! Gremlins~!!\nIt's PARTY TIME~!!",
         "pt-BR": "[Arkana]\nVamos começar!\nGremlin... HORA DA FESTA!",
-        "es-ES": "[Arcana]\nAhora… ¡Empecemos! ¡¡Duendes!!\n¡¡¡ES LA HORA DE LA FIESTA!!!"
+        "es-ES": "[Arcana]\nAhora... ¡Empecemos! ¡¡Duendes!!\n¡¡¡ES LA HORA DE LA FIESTA!!!"
     },
     "4DaSCA": {
         "en-US": "[Guard]\nCap..Captain! This is serious!\nGremlins are all over the ship!!",
@@ -172,7 +172,7 @@
     "4jaSCA": {
         "en-US": "[Iris]\nCaptain. There is no need to be so agitated.\nGremlins are just monsters that mess with machines. Rather...",
         "pt-BR": "[Iris]\nCapitão, vamos agir com cautela...\nGremlins são criaturas que apenas fazem bagunça ao redor e...",
-        "es-ES": "[Iris]\nCapitán. No hay razón para preocuparse tanto.\nLos Duendes son solo monstruos que sabotean las máquinas. Más bien…"
+        "es-ES": "[Iris]\nCapitán. No hay razón para preocuparse tanto.\nLos Duendes son solo monstruos que sabotean las máquinas. Más bien..."
     },
     "4zaSCA": {
         "en-US": "[Captain Ferlock]\nYou don't know what you're talking about!!\nWere at an altitude of 8000!! Even a minor malfunction could lead to a deadly crash!",
@@ -182,12 +182,12 @@
     "5DaSCA": {
         "en-US": "[Guard]\nArgh!! Rear engine number 1!!\n...This is serious! They are heading towards the engine room! We have to protect the rune engine!!",
         "pt-BR": "[Guarda]\nCapitão, ajude-nos!\nOs Gremlin estão indo em direção à sala das máquinas! Protejam a Pedra de Levitação!",
-        "es-ES": "[Guardia]\n¡Argh! ¡¡Motor trasero número1!!\n…¡Esto es grave! ¡Se dirigen a la sala de máquinas! ¡Tenemos que proteger el motor rúnico!"
+        "es-ES": "[Guardia]\n¡Argh! ¡¡Motor trasero número1!!\n...¡Esto es grave! ¡Se dirigen a la sala de máquinas! ¡Tenemos que proteger el motor rúnico!"
     },
     "5TaSCA": {
         "en-US": "[Captain Ferlock]\nDamn it... Where did I put my weapon...\nHey humans!! Block that nuisance while I go to the captain's room to look for my weapon!!",
         "pt-BR": "[Capitão Ferlock]\nDroga, cadê minha arma?\nEi, vocês! Impeçam esse desastre enquanto acho minha arma!",
-        "es-ES": "[Capitán Ferlock]\nMaldición… ¿Dónde puse mi arma…\n¡¡Ey, humanos!! ¡¡Bloqueen esa molestia mientras voy a la sala del capitán a buscar mi arma!!"
+        "es-ES": "[Capitán Ferlock]\nMaldición... ¿Dónde puse mi arma...\n¡¡Ey, humanos!! ¡¡Bloqueen esa molestia mientras voy a la sala del capitán a buscar mi arma!!"
     },
     "5jaSCA": {
         "en-US": "[Captain Ferlock]\nWe have to especially stop them from getting to the rune engine!! If that place is destroyed the ship can no longer fly!!",
@@ -197,7 +197,7 @@
     "5zaSCA": {
         "en-US": "[Captain Ferlock]\nDamn... if only I had my weapon...",
         "pt-BR": "[Capitão Ferlock]\nCadê... a minha... ARMA?!",
-        "es-ES": "[Capitán Ferlock]\nMaldición… Si tan solo tuviera mi arma…"
+        "es-ES": "[Capitán Ferlock]\nMaldición... Si tan solo tuviera mi arma..."
     },
     "6DaSCA": {
         "en-US": "[Chaos]\nIris!! Let's go down to the engine room! Loki and Fenrir hold this place!",
@@ -207,7 +207,7 @@
     "6TaSCA": {
         "en-US": "[Iris]\nOh...okay! Alright... Let's go!!",
         "pt-BR": "[Iris]\nTudo bem, vamos logo!",
-        "es-ES": "[Iris]\n¡Oh… muy bien! Muy bien… ¡Vamos!"
+        "es-ES": "[Iris]\n¡Oh... muy bien! Muy bien... ¡Vamos!"
     },
     "6jaSCA": {
         "en-US": "[Arcana]\nHahahaha~ You have waited long!!\nBeautiful Genius Sorceress Arcana's surprise airborne monster show!!",
@@ -272,12 +272,12 @@
     "9jaSCA": {
         "en-US": "[Fenrir]\nFlying in the air through the strength of machinery... the development of technology is truly marvelous.",
         "pt-BR": "[Fenrir]\nVoar pelos ares com força total... A tecnologia é realmente maravilhosa!",
-        "es-ES": "[Fenrir]\nVolar por los aires gracias a la fuerza de la maquinaria… el desarrollo de la tecnología es realmente maravilloso."
+        "es-ES": "[Fenrir]\nVolar por los aires gracias a la fuerza de la maquinaria... el desarrollo de la tecnología es realmente maravilloso."
     },
     "9zaSCA": {
         "en-US": "[Fenrir]\nBut I feel there's a power of some kind... I think this airship probably won't be able to fly solely through the technology.",
         "pt-BR": "[Fenrir]\nMas eu sinto um poder mágico vindo desse Aeroplano. Não pode ser apenas vapor...",
-        "es-ES": "[Fenrir]\nPero siento que hay algún tipo de poder… Creo que esta aeronave no puede volar únicamente gracias a la tecnología."
+        "es-ES": "[Fenrir]\nPero siento que hay algún tipo de poder... Creo que esta aeronave no puede volar únicamente gracias a la tecnología."
     },
     "+DaSCA": {
         "en-US": "[Fenrir]\nI will face them here. Chaos, go down to the lower floor of the airship with Iris!",
@@ -292,12 +292,12 @@
     "+jaSCA": {
         "en-US": "[Loki]\n...Glad there aren't any of those pesky things here...",
         "pt-BR": "[Loki]\nSou grato que pelo menos tenho sossego por aqui...",
-        "es-ES": "[Loki]\n…Me alegra que esas cosas molestas no estén aquí…"
+        "es-ES": "[Loki]\n...Me alegra que esas cosas molestas no estén aquí..."
     },
     "+zaSCA": {
         "en-US": "[Loki]\n...I will defend this place no matter what. Go down into the airship...!!",
         "pt-BR": "[Loki]\nDefenderemos com nossas vidas! Proteja a sala das máquinas!",
-        "es-ES": "[Loki]\n...Defenderé este lugar pase lo que pase. ¡Desciendan en la aeronave…!"
+        "es-ES": "[Loki]\n...Defenderé este lugar pase lo que pase. ¡Desciendan en la aeronave...!"
     },
     "/DaSCA": {
         "en-US": "Wyvern",
@@ -347,12 +347,12 @@
     "BTeSCA": {
         "en-US": "[Chaos]\nDamn... They already reached this far! Thanks to you the rune engine is defended at least.",
         "pt-BR": "[Chaos]\nCaramba, que correria... Pelo menos conseguimos controlar a situação.",
-        "es-ES": "[Caos]\nMaldita sea… ¡Ya llegaron hasta aquí! Gracias a ti, el motor rúnico está a salvo."
+        "es-ES": "[Caos]\nMaldita sea... ¡Ya llegaron hasta aquí! Gracias a ti, el motor rúnico está a salvo."
     },
     "BjeSCA": {
         "en-US": "[Iris]\nUh...oh!! There's a gremlin heading towards the engine room!!",
         "pt-BR": "[Iris]\nOlha, um deles tá indo pra sala das máquinas!",
-        "es-ES": "[Iris]\n¡Uh… oh! ¡¡Un Duende se dirige a la sala de máquinas!!"
+        "es-ES": "[Iris]\n¡Uh... oh! ¡¡Un Duende se dirige a la sala de máquinas!!"
     },
     "BzeSCA": {
         "en-US": "[Chaos]\n.....!! We have to stop him!!",
@@ -372,7 +372,7 @@
     "CjeSCA": {
         "en-US": "[Traveling Knight]\nWhat are these things?\nShould I cut them all down? ...No it is not enough money for me to be involved...",
         "pt-BR": "[Cavaleiro Viajante]\nO que são essas coisas?\nDevo derrotá-las com minha poderosissíma lâmina?",
-        "es-ES": "[Caballero viajero]\n¿Qué son estas cosas?\n¿Debería cortarlas a todas? …No, no es suficiente dinero para que me involucre…"
+        "es-ES": "[Caballero viajero]\n¿Qué son estas cosas?\n¿Debería cortarlas a todas? ...No, no es suficiente dinero para que me involucre..."
     },
     "CzeSCA": {
         "en-US": "Passed out Drunkard",
@@ -382,7 +382,7 @@
     "DDeSCA": {
         "en-US": "[Passed out Drunkard]\nUgh... Getting drunk... hiccup\n....Snore...Zzz",
         "pt-BR": "[Enjoadinho]\nCara, tá tudo girando, girando, girando e girando...\n...SEGURA! Nós vamos bater!",
-        "es-ES": "[Borracho desmayado]\nUf… Emborracharse… *hipo*\n…me hace roncar... *Zzz*"
+        "es-ES": "[Borracho desmayado]\nUf... Emborracharse... *hipo*\n...me hace roncar... *Zzz*"
     },
     "DTeSCA": {
         "en-US": "Wealthy man at a meal",
@@ -392,7 +392,7 @@
     "DjeSCA": {
         "en-US": "[Wealthy man at a meal]\nWha... what are these monsters?!\nHow dare you interrupt my precious meal time! Guard! Where are you!",
         "pt-BR": "[Homem Faminto]\nQue monstros são esses?!\nComo ousam atrapalhar meu banquete?! Guardas, me ajudem!",
-        "es-ES": "[Hombre rico comiendo]\n¡¿Qué… qué son estos monstruos?!\n¡Cómo te atreves a interrumpir mi tan preciada hora de comer! ¡Guardia! ¿Dónde estás?"
+        "es-ES": "[Hombre rico comiendo]\n¡¿Qué... qué son estos monstruos?!\n¡Cómo te atreves a interrumpir mi tan preciada hora de comer! ¡Guardia! ¿Dónde estás?"
     },
     "DzeSCA": {
         "en-US": "Free Riding Bard",
@@ -402,7 +402,7 @@
     "EDeSCA": {
         "en-US": "[Free Riding Bard]\nWhoa... Gorgeous~ Fantastic~\nI must think of magical lyrics to sing of this chaotic sight~",
         "pt-BR": "[Bardo de MPB]\nNossa... Isso é fantástico!\nÉ a minha hora de fazer uma canção de batalha pra entrar na história da MPB!",
-        "es-ES": "[Bardo a caballero libre]\nGuau… ¡Precioso! ¡Fantástico!\n¡Debo pensar en letras mágicas para cantar sobre esta imagen caótica!"
+        "es-ES": "[Bardo a caballero libre]\nGuau... ¡Precioso! ¡Fantástico!\n¡Debo pensar en letras mágicas para cantar sobre esta imagen caótica!"
     },
     "ETeSCA": {
         "en-US": "Airship Cafeteria Manager",
@@ -417,7 +417,7 @@
     "EzeSCA": {
         "en-US": "[Airship Cafeteria Manager]\nAh... Argh! Help me!!",
         "pt-BR": "[Gerente da Cafeteria]\nSocorro, alguém me ajuda!",
-        "es-ES": "[Encargado de la cafetería de la nave]\nAh… ¡Aj! ¡Ayúdenme!"
+        "es-ES": "[Encargado de la cafetería de la nave]\nAh... ¡Aj! ¡Ayúdenme!"
     },
     "FDeSCA": {
         "en-US": "Gambling Spirit",
@@ -442,7 +442,7 @@
     "GDeSCA": {
         "en-US": "[Tourist]\n....Snore...Zzz",
         "pt-BR": "[Turista]\nZzz",
-        "es-ES": "[Turista]\n…me hace roncar... *Zzz*"
+        "es-ES": "[Turista]\n...me hace roncar... *Zzz*"
     },
     "GTeSCA": {
         "en-US": "King of a Small Country",
@@ -452,7 +452,7 @@
     "GjeSCA": {
         "en-US": "[King of a Small Country]\n....Snore...Zzz",
         "pt-BR": "[Rei de Lugar Nenhum]\nZzz",
-        "es-ES": "[Rey de un pequeño país]\n…me hace roncar... *Zzz*"
+        "es-ES": "[Rey de un pequeño país]\n...me hace roncar... *Zzz*"
     },
     "GzeSCA": {
         "en-US": "King's Escort",
@@ -477,7 +477,7 @@
     "HzeSCA": {
         "en-US": "[Airship Crew]\nDamn... There are too many of them! The engine room could get overrun!!",
         "pt-BR": "[Empregado do Aeroplano]\nSão muitos... a sala das máquinas vai sofrer danos!",
-        "es-ES": "[Tripulación de la aeronave]\nMaldita sea… ¡Son demasiados! ¡¡Podrían invadir la sala de máquinas!!"
+        "es-ES": "[Tripulación de la aeronave]\nMaldita sea... ¡Son demasiados! ¡¡Podrían invadir la sala de máquinas!!"
     },
     "IDeSCA": {
         "en-US": "Version Verification",

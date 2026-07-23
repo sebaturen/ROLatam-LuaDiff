@@ -1,3 +1,4 @@
+
 _prt_q_effect_version = 2
 _prt_q_emitterInfo = {
 	[0] = {

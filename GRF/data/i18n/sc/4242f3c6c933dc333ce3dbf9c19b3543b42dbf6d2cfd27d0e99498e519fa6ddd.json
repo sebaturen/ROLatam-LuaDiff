@@ -177,12 +177,12 @@
     "I3zHDA": {
         "en-US": "^0000FFThe aftereffects of dungeon entry have not yet faded. You cannot enter the dungeon during this time.",
         "pt-BR": "^0000FFOs efeitos colaterais da Instância ainda não desapareceram. Durante este período não é possível entrar.",
-        "es-ES": "^0000FFLas secuelas de entrada al calabozo aún no han desaparecido. No es posible entrar durante este tiempo."
+        "es-ES": "^0000FFLos efectos secundarios de entrada al calabozo aún no han desaparecido. No es posible entrar durante este tiempo."
     },
     "JHzHDA": {
         "en-US": "^0000FFAll aftereffects of dungeon entry have faded. You may now converse normally.^000000",
         "pt-BR": "^0000FFTodos os efeitos colaterais da Instância desapareceram. Agora é possível conversar normalmente.^000000",
-        "es-ES": "^0000FFLas secuelas de entrada al calabozo han desaparecido por completo. Ahora puedes hablar con normalidad.^000000"
+        "es-ES": "^0000FFLos efectos secundarios de entrada al calabozo han desaparecido por completo. Ahora puedes hablar con normalidad.^000000"
     },
     "JXzHDA": {
         "en-US": "[Oscar]\nYou're fully prepared, right? Take my hand and focus your mind.",

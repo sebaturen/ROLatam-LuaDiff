@@ -182,7 +182,7 @@
     "cV3G": {
         "en-US": "[John B.]\nThe previous\nrecord holder\nwas ^0000FF{0}^000000\nwith a letter total\nof ^0000FF{1}^000000 characters.\nBut you've beat that...",
         "pt-BR": "[John B.]\nO recordista\nanterior\nera ^0000FF{0}^000000\ncom um total\nde ^0000FF{1}^000000 caracteres.\nMas você superou isso...",
-        "es-ES": "[John B.]\nEl récord\nanterior\nfue de ^0000FF{0}^000000\ncon un total de letras\nde ^0000FF{1}^000000 caracteres.\nPero superaste eso…"
+        "es-ES": "[John B.]\nEl récord\nanterior\nfue de ^0000FF{0}^000000\ncon un total de letras\nde ^0000FF{1}^000000 caracteres.\nPero superaste eso..."
     },
     "cl3G": {
         "en-US": "[John B.]\n^FF0000{0}^000000,\nyou set a new record!\nCongratulations!",
@@ -197,7 +197,7 @@
     "dF3G": {
         "en-US": "[John B.]\nOooh...\nI'm sorry, but\nyou entered the\ntext incorrectly...",
         "pt-BR": "[John B.]\nOooh...\nDesculpe-me, mas\nvocê inseriu o\ntexto incorretamente...",
-        "es-ES": "[John B.]\nOh…\nLo siento, pero\nintrodujiste el\ntexto incorrectamente…"
+        "es-ES": "[John B.]\nOh...\nLo siento, pero\nintrodujiste el\ntexto incorrectamente..."
     },
     "dV3G": {
         "en-US": "[John B.]\n^3CBCBCCoboman no chikara-yumei na chikara-daiookii na chikara da ze! COBO ON^000000",
@@ -232,7 +232,7 @@
     "fV3G": {
         "en-US": "[John B.]\n^3CBCBCYou give me no choice. I guess it's time for me to reveal my secret...^000000",
         "pt-BR": "[John B.]\n^3CBCBCYou give me no choice. I guess it's time for me to reveal my secret...^000000",
-        "es-ES": "[John B.]\n^3CBCBCNo me dejas opción. Supongo que es hora de revelar mi secreto…^000000"
+        "es-ES": "[John B.]\n^3CBCBCNo me dejas opción. Supongo que es hora de revelar mi secreto...^000000"
     },
     "fl3G": {
         "en-US": "[John B.]\n^FF1493fReeDoM eCstAcy JoUrnaLiSm ArMpIt DisCoverY hEaDaChE MoonbeAmS jUsTiCE^000000",

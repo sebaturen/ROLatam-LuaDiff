@@ -6079,5 +6079,257 @@ tbl_string = {
 				[19] = "<TIPBOX>>View Tip List<INFO>1000</INFO></TIPBOX>"
 			}
 		}
+	},
+	[9031] = {
+		Title = "Character: Jobs",
+		Page = {
+			[1] = {
+				[1] = "Various jobs exist in the world of Ragnarok.",
+				[2] = "<TIPBOX>§First Job Change Guide<INFO>9032</INFO></TIPBOX>",
+				[3] = "<TIPBOX>§Second Job Change Guide<INFO>9000</INFO></TIPBOX>",
+				[4] = "<TIPBOX>§About Transcendent Classes<INFO>9051</INFO></TIPBOX>",
+				[5] = "<TIPBOX>§Third Job Change Guide<INFO>9052</INFO></TIPBOX>",
+				[6] = "<TIPBOX>§Fourth Job Change Guide<INFO>9136</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>§Expanded Class Job Change Guide<INFO>9039</INFO></TIPBOX>",
+				[9] = "<TIPBOX>§Expanded Class Advanced Job Change Guide<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>§Doram Race Guide<INFO>9044</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "<TIPBOX>»Production Classes<INFO>9068</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»To Character Page<INFO>1001</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Quests<INFO>4100</INFO></TIPBOX>",
+				[15] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9043] = {
+		Title = "JQ Super Novice Job Change",
+		Page = {
+			[1] = {
+				[1] = "Unlike the Super Novice that can only use First Aid and Play Dead, Super Novice is a class that can use most skills from the six first job classes. The greatest appeal of Super Novice is that it can learn most skills from the first job classes.",
+				[2] = "However, Super Novice is still a class, so once you become a Super Novice, you cannot change to another first job class.",
+				[3] = "^663399§Base Level 45 or higher^000000",
+				[4] = "^663399§Job Level 10 or higher^000000",
+				[5] = "^663399§Target: Super Novice^000000",
+				[6] = "",
+				[7] = "<NAVI>[Tzerero]<INFO>aldeba_in,223,167,0,101,0,</INFO></NAVI>",
+				[8] = "",
+				[9] = "Super Novice characters with Base Level 200 and Job Level 70 or higher can change to an advanced expanded class.",
+				[10] = "<TIPBOX>-Hyper Novice<INFO>4250</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "<TIPBOX>»Previous Page<INFO>9039</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9044] = {
+		Title = "JQ Doram Race Guide",
+		Page = {
+			[1] = {
+				[1] = "Doram have exceptional abilities as Summoner and generally choose the path of becoming a Summoner.",
+				[2] = "The adventure of a newly debuted Doram Summoner across Midgard begins now.",
+				[3] = "",
+				[4] = "Summoner characters with Base Level 200 and Job Level 60 or higher can change to an advanced expanded class.",
+				[5] = "<TIPBOX>-Spirit Handler<INFO>4251</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Previous Page<INFO>9039</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9047] = {
+		Title = "JQ Star Emperor Job Change",
+		Page = {
+			[1] = {
+				[1] = "Among the Taekwon Master who wield the power of the sun, moon, and stars, those who sought broader knowledge to strengthen their power learned the knowledge of the universe, the principle of all things, and came to call themselves Star Emperors.",
+				[2] = "^663399§Base Level 99 or higher^000000",
+				[3] = "^663399§Job Level 50 or higher^000000",
+				[4] = "^663399§Target: Taekwon Master^000000",
+				[5] = "",
+				[6] = "<NAVI>[Man in Star Emperor Uniform]<INFO>payon,171,171,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Star Emperor characters with Base Level 200 and Job Level 70 or higher can change to an advanced expanded class.",
+				[9] = "<TIPBOX>-Sky Emperor<INFO>4252</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Previous Page<INFO>9045</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9048] = {
+		Title = "JQ Soul Reaper Job Change",
+		Page = {
+			[1] = {
+				[1] = "The great Soul Linker who gained enlightenment about soul energy became a Soul Reaper, but could no longer return to the surface. Instead, she waits for a Soul Linker who will come to the afterlife to study souls, just as she did.",
+				[2] = "^663399§Base Level 99 or higher^000000",
+				[3] = "^663399§Job Level 50 or higher^000000",
+				[4] = "^663399§Target: Soul Linker^000000",
+				[5] = "",
+				[6] = "<NAVI>[Banyak]<INFO>pay_fild08,51,82,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Soul Reaper characters with Base Level 200 and Job Level 70 or higher can change to an advanced expanded class.",
+				[9] = "<TIPBOX>-Soul Ascetic<INFO>4253</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Previous Page<INFO>9046</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9049] = {
+		Title = "JQ Kagerou/Oboro Job Change",
+		Page = {
+			[1] = {
+				[1] = "The clan that had long held its breath while hiding in the Shadow of the world revealed itself when an age of disorder and chaos arrived, but no one has yet appeared to inherit their true name.",
+				[2] = "^663399§Base Level 99 or higher^000000",
+				[3] = "^663399§Job Level 70 or higher^000000",
+				[4] = "^663399§Target: Ninja^000000",
+				[5] = "",
+				[6] = "<NAVI>[Road to the Ninja Job Change Office]<INFO>que_ng,28,156,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Kagerou/Oboro characters with Base Level 200 and Job Level 70 or higher can change to an advanced expanded class.",
+				[9] = "<TIPBOX>-Shinkiro/Shiranui<INFO>4254</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Previous Page<INFO>9041</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9050] = {
+		Title = "JQ Rebellion Job Change",
+		Page = {
+			[1] = {
+				[1] = "Rebellion, the advanced class of Gunslinger who can skillfully handle all firearms, can not only make use of every firearm, but also mark targets or deal powerful damage to marked targets.",
+				[2] = "^663399§Base Level 99 or higher^000000",
+				[3] = "^663399§Job Level 70 or higher^000000",
+				[4] = "^663399§Target: Gunslinger^000000",
+				[5] = "",
+				[6] = "<NAVI>[Suspicious Man]<INFO>moc_fild12,261,318,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Rebellion characters with Base Level 200 and Job Level 70 or higher can change to an advanced expanded class.",
+				[9] = "<TIPBOX>-Night Watch<INFO>4255</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Previous Page<INFO>9042</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4249] = {
+		Title = "Expanded Class Advanced Job Change Guide",
+		Page = {
+			[1] = {
+				[1] = "Expanded classes with Base Level 200 and Job Level 70 or higher can change to advanced expanded classes.",
+				[2] = "<TIPBOX>-Hyper Novice<INFO>4250</INFO></TIPBOX>",
+				[3] = "<TIPBOX>-Spirit Handler<INFO>4251</INFO></TIPBOX>",
+				[4] = "<TIPBOX>-Sky Emperor<INFO>4252</INFO></TIPBOX>",
+				[5] = "<TIPBOX>-Soul Ascetic<INFO>4253</INFO></TIPBOX>",
+				[6] = "<TIPBOX>-Shinkiro/Shiranui<INFO>4254</INFO></TIPBOX>",
+				[7] = "<TIPBOX>-Night Watch<INFO>4255</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Character: Jobs<INFO>9031</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4250] = {
+		Title = "JQ Hyper Novice Job Change",
+		Page = {
+			[1] = {
+				[1] = "Hyper Novice, which changes from Super Novice, further studies skills from other classes, improves them so weaker Novices can make better use of them, and recreates them as unique enhancement skills. Super Novice is still weak, but uses these improved skills to subdue enemies in an instant.",
+				[2] = "^663399§Base Level 200 or higher^000000",
+				[3] = "^663399§Job Level 70 or higher^000000",
+				[4] = "^663399§Target: Super Novice^000000",
+				[5] = "",
+				[6] = "<NAVI>[Grape]<INFO>aldebaran,110,70,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Super Novice Job Change<INFO>9043</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Expanded Class Advanced Job Change Guide<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4251] = {
+		Title = "JQ Spirit Handler Job Change",
+		Page = {
+			[1] = {
+				[1] = "Spirit Handler, which changes from Summoner, walks a new path after meeting special spirit beasts. Doram who become Spirit Handler can use the power of mighty spirit beasts to enjoy even more exciting adventures with their companions.",
+				[2] = "^663399§Base Level 200 or higher^000000",
+				[3] = "^663399§Job Level 60 or higher^000000",
+				[4] = "^663399§Target: Summoner^000000",
+				[5] = "",
+				[6] = "<NAVI>[Request Board]<INFO>payon,165,116,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Doram Race Guide<INFO>9044</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Expanded Class Advanced Job Change Guide<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4252] = {
+		Title = "JQ Sky Emperor Job Change",
+		Page = {
+			[1] = {
+				[1] = "Star Emperor, who has realized the laws of Celestial Movement, is reborn as Sky Emperor and becomes able to focus and wield the energies of the sun, moon, and stars.",
+				[2] = "^663399§Base Level 200 or higher^000000",
+				[3] = "^663399§Job Level 70 or higher^000000",
+				[4] = "^663399§Target: Star Emperor^000000",
+				[5] = "",
+				[6] = "<NAVI>[Sign]<INFO>payon,213,202,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Star Emperor Job Change<INFO>9047</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Expanded Class Advanced Job Change Guide<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4253] = {
+		Title = "JQ Soul Ascetic Job Change",
+		Page = {
+			[1] = {
+				[1] = "Soul Ascetic, which changes from Soul Reaper, has trained in talisman arts as a powerful means to support soul manipulation. Soul Ascetic can use various talismans to perform more powerful support and attack skills.",
+				[2] = "^663399§Base Level 200 or higher^000000",
+				[3] = "^663399§Job Level 70 or higher^000000",
+				[4] = "^663399§Target: Soul Reaper^000000",
+				[5] = "",
+				[6] = "<NAVI>[Clerk]<INFO>payon,197,119,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Soul Reaper Job Change<INFO>9048</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Expanded Class Advanced Job Change Guide<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4254] = {
+		Title = "JQ Shinkiro/Shiranui Job Change",
+		Page = {
+			[1] = {
+				[1] = "Shinkiro/Shiranui, which change from Kagerou/Oboro, have learned the lost secret arts of the ancient Ninja and can use powerful stealth arts and ninjutsu.",
+				[2] = "^663399§Base Level 200 or higher^000000",
+				[3] = "^663399§Job Level 70 or higher^000000",
+				[4] = "^663399§Target: Kagerou/Oboro^000000",
+				[5] = "",
+				[6] = "<NAVI>[Seoyeon]<INFO>amatsu,82,118,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Kagerou/Oboro Job Change<INFO>9049</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Expanded Class Advanced Job Change Guide<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4255] = {
+		Title = "JQ Night Watch Job Change",
+		Page = {
+			[1] = {
+				[1] = "Rebellion chooses to become Night Watch, a watcher who monitors corporations and governments for the stability of the people. You can enjoy the explosive combat of Night Watch, heavily armed with powerful firearms.",
+				[2] = "^663399§Base Level 200 or higher^000000",
+				[3] = "^663399§Job Level 70 or higher^000000",
+				[4] = "^663399§Target: Rebellion^000000",
+				[5] = "",
+				[6] = "<NAVI>[Yana]<INFO>einbroch,313,324,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Rebellion Job Change<INFO>9050</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Expanded Class Advanced Job Change Guide<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
 	}
 }

@@ -32,7 +32,7 @@
     "puBjAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[Voz Reverberante]\nBravos...\nDesejam voltar para seu lugar de honra?",
-        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
     },
     "p+BjAg": {
         "en-US": "Go back to your stronghold.",
@@ -597,7 +597,7 @@
     "F+FjAg": {
         "en-US": "[Butler Ampere]\n...\nKafra Employee dismissed... \tbut is there something you didn't \tlike about?",
         "pt-BR": "[Mordomo Ampere]\n...\nFuncionária da Kafra dispensada... mas há algo de que você não gostou?",
-        "es-ES": "[Mayordomo Ampere]\n…\nEmpleada de Kafra despedida… \t¿hay algo que no haya sido \tde tu agrado?"
+        "es-ES": "[Mayordomo Ampere]\n...\nEmpleada de Kafra despedida... \t¿hay algo que no haya sido \tde tu agrado?"
     },
     "GOFjAg": {
         "en-US": "[Butler Ampere]\nWould you like \tto contact \tKafra and hire one of its employees \tfor your stronghold?\n^FF0000\tThat'll be \t10,000 Zeny\t.",

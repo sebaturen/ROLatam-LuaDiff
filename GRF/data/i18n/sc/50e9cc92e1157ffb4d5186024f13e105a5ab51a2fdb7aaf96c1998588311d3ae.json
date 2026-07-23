@@ -772,7 +772,7 @@
     "OgzR": {
         "en-US": "Observer: Huh? What the... G-group of strange creatures are coming this way!",
         "pt-BR": "Observador: Hã? O quê... G-Grupo de criaturas estranhas vindo nessa direção!",
-        "es-ES": "Testigo: ¿Cómo? Pero ¿qué…? ¡Hay un grupo de criaturas extrañas que se dirige hacia aquí!"
+        "es-ES": "Testigo: ¿Cómo? Pero ¿qué...? ¡Hay un grupo de criaturas extrañas que se dirige hacia aquí!"
     },
     "OwzR": {
         "en-US": "Announcement: Passengers, unidentified monsters are trying to infiltrate this ship.",
@@ -887,7 +887,7 @@
     "UQzR": {
         "en-US": "Captain Ferlock: What the!? How dare those things damage engines even more!!",
         "pt-BR": "Capitão Ferlock: Mas o quê?! Como essas coisas ousam danificar ainda mais os motores?",
-        "es-ES": "Capitán Ferlock: ¿Qué dem…? ¡¿Cómo se atreven esas malditas cosas a dañar los motores aún más?!"
+        "es-ES": "Capitán Ferlock: ¿Qué dem...? ¡¿Cómo se atreven esas malditas cosas a dañar los motores aún más?!"
     },
     "UgzR": {
         "en-US": "Helmsman: Captain! You're going too rough! You're this close to destroying our engines!",
@@ -957,12 +957,12 @@
     "XwzR": {
         "en-US": "[Ferlock]\nFeels like someone asked the same question before... Anyway, I won't tell it to a human kid like you!",
         "pt-BR": "[Ferlock]\nParece que alguém já fez essa mesma pergunta antes... Enfim, não vou contar nada para uma criança humanoide como você!",
-        "es-ES": "[Ferlock]\nCreo que alguien antes me hizo la misma pregunta… En fin, ¡no se lo diré a un niño humano como tú!"
+        "es-ES": "[Ferlock]\nCreo que alguien antes me hizo la misma pregunta... En fin, ¡no se lo diré a un niño humano como tú!"
     },
     "YAzR": {
         "en-US": "[Ferlock]\nFeels like someone asked the same question before... Hey, aren't you the one who asked that question? Are you that curious about it?",
         "pt-BR": "[Ferlock]\nParece que alguém já fez essa mesma pergunta antes... Ei, não foi você que fez aquela pergunta? Tem tanta curiosidade assim em saber?",
-        "es-ES": "[Ferlock]\nCreo que alguien antes me hizo la misma pregunta… Oye, ¿no fuiste tú quien me hizo esa pregunta? ¿Tanta curiosidad te genera?"
+        "es-ES": "[Ferlock]\nCreo que alguien antes me hizo la misma pregunta... Oye, ¿no fuiste tú quien me hizo esa pregunta? ¿Tanta curiosidad te genera?"
     },
     "YQzR": {
         "en-US": "Uh, not really.",
@@ -997,7 +997,7 @@
     "ZwzR": {
         "en-US": "[Ferlock]\nStraightforward, aren't you?\nSo about that favor...",
         "pt-BR": "[Ferlock]\nQue pessoa direta você é, não?\nSobre aquele favor...",
-        "es-ES": "[Ferlock]\nVas directo al grano, ¿cierto?\nAsí que sobre ese favor…"
+        "es-ES": "[Ferlock]\nVas directo al grano, ¿cierto?\nAsí que sobre ese favor..."
     },
     "aAzR": {
         "en-US": "[Ferlock]\nI have a little brother who travels around on an airship like me. Since we both are constantly traveling, we can't see or contact each other.",
@@ -1037,7 +1037,7 @@
     "bwzR": {
         "en-US": "[Ferlock]\n*Mumble mumble*... Hah hah hah.\nLooks like he's met a fiancee. But a man's gotta have a solitary life. Holy diver, sole survivor... Where did that come from? *Mumble mumble*",
         "pt-BR": "[Ferlock]\n*Resmunga, resmunga* ... Hahaha!\nParece que ele ficou noivo. Mas um homem tem que ter uma vida solitária. Quando a gente gosta, é claro que a gente cuida... Nossa, de onde veio isso? *Resmunga, resmunga*",
-        "es-ES": "[Ferlock]\n*Balbucea…* Ja, ja, ja.\nParece que encontró una prometida. Pero los hombres deben llevar una vida solitaria. Santo buzo, único sobreviviente… ¿De dónde salió eso? *Balbucea*"
+        "es-ES": "[Ferlock]\n*Balbucea...* Ja, ja, ja.\nParece que encontró una prometida. Pero los hombres deben llevar una vida solitaria. Santo buzo, único sobreviviente... ¿De dónde salió eso? *Balbucea*"
     },
     "cAzR": {
         "en-US": "- He's not finished with the letter. I should wait. -",
@@ -1182,7 +1182,7 @@
     "jAzR": {
         "en-US": "[Helmsman]\nIt's cloudy today.\nThis kind of weather is not good...",
         "pt-BR": "[Timoneiro]\nHoje está nublado.\nEsse tipo de clima não é bom...",
-        "es-ES": "[Timonel]\nHoy está nublado.\nEste clima no es bueno…"
+        "es-ES": "[Timonel]\nHoy está nublado.\nEste clima no es bueno..."
     },
     "jQzR": {
         "en-US": "[Helmsman]\nThe captain is pretty ill-tempered. When he does something, the crews have to take care of the aftermath. I just hope he won't cause any accidents today. *Sigh*",
@@ -1197,7 +1197,7 @@
     "jwzR": {
         "en-US": "[Helmsman]\nYes, sir...",
         "pt-BR": "[Timoneiro]\nSim, senhor...",
-        "es-ES": "[Timonel]\nSí, señor…"
+        "es-ES": "[Timonel]\nSí, señor..."
     },
     "kAzR": {
         "en-US": "[Helmsman]\nUgh. This uniform looks cool but is too stuffy. Why can't I work in underwear? No one comes to the captain's cabin anyway.",
@@ -1227,7 +1227,7 @@
     "lQzR": {
         "en-US": "[Girl]\n*Sob* *Sniff*\nI was playing outside, and a deer yelled at me. It was so scary... *Sniff*",
         "pt-BR": "[Menina]\n*Soluço* *Sniff*\nEu estava brincando do lado de fora, e um cervo gritou comigo. Foi tão assustador... *Sniff*",
-        "es-ES": "[Chica]\n*Solloza* *Lloriquea*\nEstaba afuera jugando y un ciervo me gritó. Fue muy aterrador… *Solloza*"
+        "es-ES": "[Chica]\n*Solloza* *Lloriquea*\nEstaba afuera jugando y un ciervo me gritó. Fue muy aterrador... *Solloza*"
     },
     "lgzR": {
         "en-US": "Noble Gentleman",
@@ -1247,7 +1247,7 @@
     "mQzR": {
         "en-US": "[Swordsman]\nFor what you did 5 years ago......\nI will avenge you......\nI will get you this time!!",
         "pt-BR": "[Espadachim]\nPelo que você fez há 5 anos......\nEu vou te vingar......\nVou pegar você desta vez!",
-        "es-ES": "[Espadachín]\nPor lo que hiciste hace 5 años…\nMe vengaré…\n¡Esta vez te atraparé!"
+        "es-ES": "[Espadachín]\nPor lo que hiciste hace 5 años...\nMe vengaré...\n¡Esta vez te atraparé!"
     },
     "mgzR": {
         "en-US": "[Guide Serviceroid]\nThank you for taking Valkyrie Air's ^336699Schwarzwald Domestic Airship^000000. This airship stops at Juno, Hugel, Einbroch, and Lighthalzen. We always strive to provide you with safe and enjoyable travel. How may I help you?",
@@ -1292,7 +1292,7 @@
     "ogzR": {
         "en-US": "[Helmsman]\nI could definitely use a drink right now... Alcohol is my life! My power! Life without alcohol is nothing!",
         "pt-BR": "[Timoneiro]\nDefinitivamente, estou precisando de um drinque agora... O álcool é minha vida! Meu poder! A vida sem álcool não é nada!",
-        "es-ES": "[Timonel]\nSin dudas, podría tomarme un trago… ¡El alcohol es mi vida! ¡Mi poder! ¡La vida sin alcohol no es nada!"
+        "es-ES": "[Timonel]\nSin dudas, podría tomarme un trago... ¡El alcohol es mi vida! ¡Mi poder! ¡La vida sin alcohol no es nada!"
     },
     "owzR": {
         "en-US": "[Helmsman]\nBut drunken piloting is a no-no. Oh, the pain!",
@@ -1302,7 +1302,7 @@
     "pAzR": {
         "en-US": "- He wasn't listening at all... -",
         "pt-BR": "- Ele não estava ouvindo nada... -",
-        "es-ES": "(No me escuchó en lo absoluto…)."
+        "es-ES": "(No me escuchó en lo absoluto...)."
     },
     "pQzR": {
         "en-US": "[Helmsman]\nI love the weather today.\nIt's the perfect weather to pilot an airship.",
@@ -1322,7 +1322,7 @@
     "qAzR": {
         "en-US": "[Girl]\nThis airship stops at Lutie, right? But the announcement never mentions Lutie...",
         "pt-BR": "[Menina]\nEsse aeroplano faz uma parada em Lutie, certo? Mas o anúncio não menciona Lutie...",
-        "es-ES": "[Chica]\nEsta aeronave se detiene en Lutie, ¿no? Pero el anuncio jamás menciona Lutie…"
+        "es-ES": "[Chica]\nEsta aeronave se detiene en Lutie, ¿no? Pero el anuncio jamás menciona Lutie..."
     },
     "qQzR": {
         "en-US": "Zerta",

@@ -2,12 +2,12 @@
     "YCesCA": {
         "en-US": "Officer Heim: This is an emergency.. How things are going?",
         "pt-BR": "Comandante Heim: É uma emergência... O que está havendo?",
-        "es-ES": "Oficial Heim: Esto es una emergencia… ¿Cómo van las cosas?"
+        "es-ES": "Oficial Heim: Esto es una emergencia... ¿Cómo van las cosas?"
     },
     "YSesCA": {
         "en-US": "A tirailleur: Next floor is the highest one... but there are so many demons...",
         "pt-BR": "Atirador: O próximo andar é o mais alto... mas são tantos demônios...",
-        "es-ES": "Un tirador: El siguiente piso es el más alto… pero hay tantos demonios…"
+        "es-ES": "Un tirador: El siguiente piso es el más alto... pero hay tantos demonios..."
     },
     "YiesCA": {
         "en-US": "A tirailleur:  It is impossible to break through with the number of our people.",
@@ -22,7 +22,7 @@
     "ZCesCA": {
         "en-US": "An aide: There aren't enough to call in...",
         "pt-BR": "Assistente: São poucos demais para chamar de força militar.",
-        "es-ES": "Un ayudante: No hay suficientes de nosotros para llamar…"
+        "es-ES": "Un ayudante: No hay suficientes de nosotros para llamar..."
     },
     "ZSesCA": {
         "en-US": "An aide: The good news is the demons have stopped attacking.",
@@ -147,7 +147,7 @@
     "fSesCA": {
         "en-US": "[Healer Fama]\nHuh... Okay, we can take a break now.\nThank you very much!",
         "pt-BR": "[Fama]\nUgh... Certo, podemos descansar um pouco.\nAgradeço muito!",
-        "es-ES": "[Sanadora Fama]\nMmm… Bien, ahora podemos tomarnos un descanso.\n¡Muchas gracias!"
+        "es-ES": "[Sanadora Fama]\nMmm... Bien, ahora podemos tomarnos un descanso.\n¡Muchas gracias!"
     },
     "fiesCA": {
         "en-US": "[Healer Fama]\nSorry... procurement is not good right now so I can only provide one first-aid kit at a time.\nPlease request again if you run out.",
@@ -172,12 +172,12 @@
     "giesCA": {
         "en-US": "[Injured soldiers]\nwhew.. it seems to be okay now.\nThank you.",
         "pt-BR": "[Soldado Ferido]\nUfa... acho que estou bem agora.\nObrigado.",
-        "es-ES": "[Reclutas heridos]\nUf… parece que ya está bien.\nGracias."
+        "es-ES": "[Reclutas heridos]\nUf... parece que ya está bien.\nGracias."
     },
     "gyesCA": {
         "en-US": "Injured Soldier: groaning....",
         "pt-BR": "Soldado Ferido: Arrrrrgh...",
-        "es-ES": "Recluta herido: *quejido*…"
+        "es-ES": "Recluta herido: *quejido*..."
     },
     "hCesCA": {
         "en-US": "This soldier has lost consciousness and groaning.\nShould I use the first-aid kit?",
@@ -217,7 +217,7 @@
     "iyesCA": {
         "en-US": "[Injured soldiers]\nGroaning... Just let me die.\nNo, it hurts too much.",
         "pt-BR": "[Soldado Ferido]\nArgh... Eu nunca mais quero esses primeiros socorros horríveis...\nDoeu tanto...",
-        "es-ES": "[Reclutas heridos]\n*quejido*… Déjame morir.\nNo, duele demasiado."
+        "es-ES": "[Reclutas heridos]\n*quejido*... Déjame morir.\nNo, duele demasiado."
     },
     "jCesCA": {
         "en-US": "Injured Soldier: Groaning...",
@@ -232,27 +232,27 @@
     "jiesCA": {
         "en-US": "Injured Soldier: .... aah.. aah..",
         "pt-BR": "Soldado Ferido: .... Ah... Ah...",
-        "es-ES": "Recluta herido: Ah… ah…"
+        "es-ES": "Recluta herido: Ah... ah..."
     },
     "jyesCA": {
         "en-US": "[Injured soldiers]\nI thought I was going to die..\nBut I'm alive!",
         "pt-BR": "[Soldado Ferido]\nPensei que fosse morrer...\nEstou vivo!",
-        "es-ES": "[Reclutas heridos]\nPensé que iba a morir…\n¡Pero sigo con vida!"
+        "es-ES": "[Reclutas heridos]\nPensé que iba a morir...\n¡Pero sigo con vida!"
     },
     "kCesCA": {
         "en-US": "Injured Soldier: Owww...",
         "pt-BR": "Soldado Ferido: Aiiii...",
-        "es-ES": "Recluta herido: Auuu…"
+        "es-ES": "Recluta herido: Auuu..."
     },
     "kSesCA": {
         "en-US": "[Injured soldiers]\nI can't die here. I have to propose to my beloved when I get home.\nWe will be happy for sure?",
         "pt-BR": "[Soldado Ferido]\nAssim que a batalha acabar, vou voltar para minha cidade natal e pedir minha amiga de infância em casamento.\nVamos ser muito felizes!",
-        "es-ES": "[Reclutas heridos]\nNo puedo morir aquí. Tengo que declararme a la persona que amo cuando llegue a casa.\nSeguro que seremos felices…"
+        "es-ES": "[Reclutas heridos]\nNo puedo morir aquí. Tengo que declararme a la persona que amo cuando llegue a casa.\nSeguro que seremos felices..."
     },
     "kiesCA": {
         "en-US": "Injured Soldier: I do not want to die...",
         "pt-BR": "Soldado Ferido: Eu não quero morrer...",
-        "es-ES": "Recluta herido: No quiero morir…"
+        "es-ES": "Recluta herido: No quiero morir..."
     },
     "kyesCA": {
         "en-US": "[Injured soldiers]\nI feel much better but I still can't move.\nStill I'm lucky to be alive.",
@@ -267,7 +267,7 @@
     "lSesCA": {
         "en-US": "[Injured soldiers]\nThank you.. Thank you..",
         "pt-BR": "[Soldado Ferido]\nObrigado... Obrigado...",
-        "es-ES": "[Reclutas heridos]\nGracias… Gracias…"
+        "es-ES": "[Reclutas heridos]\nGracias... Gracias..."
     },
     "liesCA": {
         "en-US": "Healer Fama: Assassins?!",
@@ -352,7 +352,7 @@
     "piesCA": {
         "en-US": "Officer Heim: They are so unpredictable. You know what is going on right? Back them up...",
         "pt-BR": "Comandante Heim: Eles são tão imprevisíveis... Você entendeu o que está acontecendo, não é? Ajude-os...",
-        "es-ES": "Oficial Heim: Son tan impredecibles. Sabes lo que está pasando, ¿verdad? Apóyalos…"
+        "es-ES": "Oficial Heim: Son tan impredecibles. Sabes lo que está pasando, ¿verdad? Apóyalos..."
     },
     "pyesCA": {
         "en-US": "Officer Heim: Help us take care of the demons coming down from upstairs.",
@@ -432,7 +432,7 @@
     "tiesCA": {
         "en-US": "Ha ha ha ha....Let's fight..!!!",
         "pt-BR": "Hahahaha... Vamos lutar!",
-        "es-ES": "Ja, ja, ja, ja… ¡Luchemos…!"
+        "es-ES": "Ja, ja, ja, ja... ¡Luchemos...!"
     },
     "tyesCA": {
         "en-US": "[Louie]\nA lot of soldiers still survived the attacks.\nThey got rid of all the demons.",
@@ -457,7 +457,7 @@
     "uyesCA": {
         "en-US": "[Louie]\nThe Captain says that we need to get rid of all of the demons...\nBetter get to it.",
         "pt-BR": "[Ryui]\nOh...céus... Você não ouviu o que o comandante disse?\nEle quer que você mate todos os demônios.\nEntão, vá se livrar do resto.\nNão nos perturbe.",
-        "es-ES": "[Louie]\nEl capitán dice que tenemos que deshacernos de todos los demonios…\nSerá mejor que te pongas a hacerlo."
+        "es-ES": "[Louie]\nEl capitán dice que tenemos que deshacernos de todos los demonios...\nSerá mejor que te pongas a hacerlo."
     },
     "vCesCA": {
         "en-US": "[Louie]\nI will open the path upstairs if you want.",
@@ -557,7 +557,7 @@
     "zyesCA": {
         "en-US": "Huey: sister...",
         "pt-BR": "Hughie: Irmã...",
-        "es-ES": "Huey: Hermana…"
+        "es-ES": "Huey: Hermana..."
     },
     "0CesCA": {
         "en-US": "Event continue npc is not found.",
@@ -567,7 +567,7 @@
     "0SesCA": {
         "en-US": "Huey: Oops?...Sister..",
         "pt-BR": "Hughie: Ops... irmã...",
-        "es-ES": "Huey: ¿Ups?… Hermana…"
+        "es-ES": "Huey: ¿Ups?... Hermana..."
     },
     "0iesCA": {
         "en-US": "It is exceptional case that does not happen normally.",
@@ -597,22 +597,22 @@
     "1yesCA": {
         "en-US": "Huey: Where are they coming from? Demons again......",
         "pt-BR": "Hughie: De onde eles estão vindo? Demônios de novo...",
-        "es-ES": "Huey: ¿De dónde vienen? Demonios de nuevo…"
+        "es-ES": "Huey: ¿De dónde vienen? Demonios de nuevo..."
     },
     "2CesCA": {
         "en-US": "Huey: Oh, no...",
         "pt-BR": "Hughie: Oh, não....",
-        "es-ES": "Huey: Ay, no…"
+        "es-ES": "Huey: Ay, no..."
     },
     "2SesCA": {
         "en-US": "Huey: This way. This way... we can go upstairs by using the gap that the demons were coming from!",
         "pt-BR": "Hughie: Por aqui. Por aqui... Podemos subir usando a fissura que o demônio usou para descer!",
-        "es-ES": "Huey: Por aquí. Así… ¡podemos subir por el hueco por donde venían los demonios!"
+        "es-ES": "Huey: Por aquí. Así... ¡podemos subir por el hueco por donde venían los demonios!"
     },
     "2iesCA": {
         "en-US": "[Huey]\nI am concerned about her.\nIt happens whenever she's wounded.\nBecause she's mostly machine...",
         "pt-BR": "[Hughie]\nEstou preocupado com ela...\nIsso sempre acontece quando é ferida.\nEnfim, parece mais uma máquina...",
-        "es-ES": "[Huey]\nEstoy preocupado por ella.\nOcurre siempre que está herida.\nPorque ella es mayormente máquina…"
+        "es-ES": "[Huey]\nEstoy preocupado por ella.\nOcurre siempre que está herida.\nPorque ella es mayormente máquina..."
     },
     "2yesCA": {
         "en-US": "[Huey]\nI wonder how the others are doing...\nOnly Thanatos and Lucile have ever entered to upper floor...",
@@ -642,11 +642,11 @@
     "4CesCA": {
         "en-US": "[Huey]\n...I see.",
         "pt-BR": "[Hughie]\n... Entendi.",
-        "es-ES": "[Huey]\n…Ya veo."
+        "es-ES": "[Huey]\n...Ya veo."
     },
     "4SesCA": {
         "en-US": "[Huey]\nI know the path upstairs...\nFirst of all, we have to get rid of these demons!",
         "pt-BR": "[Hughie]\nConheço o caminho para subir...\nPrimeiro, precisamos dar um jeito nesses demônios.",
-        "es-ES": "[Huey]\nConozco el camino de arriba…\nEn primer lugar, ¡tenemos que deshacernos de estos demonios!"
+        "es-ES": "[Huey]\nConozco el camino de arriba...\nEn primer lugar, ¡tenemos que deshacernos de estos demonios!"
     }
 }

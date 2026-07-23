@@ -22,7 +22,7 @@
     "5NFN": {
         "en-US": "Z z Z z",
         "pt-BR": "Z z Z z",
-        "es-ES": "Zzz…"
+        "es-ES": "Zzz..."
     },
     "5dFN": {
         "en-US": "^FF0000 He appears to be asleep.^000000",
@@ -32,7 +32,7 @@
     "5tFN": {
         "en-US": "[Raffle Researcher]\nOh no~ My research tools..\nWhat...... What was it?",
         "pt-BR": "[Pesquisador de Mora]\nAh, não. Minhas ferramentas de pesquisa...\nO que... O que era aquilo?",
-        "es-ES": "[Investigador Rafflesia]\n¡Oh, no~! ¡Mis herramientas de investigación!\n¿Qué…? ¿Qué fue eso?"
+        "es-ES": "[Investigador Rafflesia]\n¡Oh, no~! ¡Mis herramientas de investigación!\n¿Qué...? ¿Qué fue eso?"
     },
     "59FN": {
         "en-US": "What is your business here?",
@@ -47,17 +47,17 @@
     "6dFN": {
         "en-US": "[Raffle Researcher]\nYou're human...? Are you human...?\nYou... came from the underworld?",
         "pt-BR": "[Pesquisador de Mora]\nUm humano...? Você é humano...?\nVocê... veio do submundo?",
-        "es-ES": "[Investigador Rafflesia]\n¿Eres… un ser humano? ¿Un ser humano…?\nTú… ¿vienes del inframundo?"
+        "es-ES": "[Investigador Rafflesia]\n¿Eres... un ser humano? ¿Un ser humano...?\nTú... ¿vienes del inframundo?"
     },
     "6tFN": {
         "en-US": "[Raffle Researcher]\nHuman beings are incredible...\nYou survived the crevice and made it here.",
         "pt-BR": "[Pesquisador de Mora]\nSeres humanos são incríveis...\nVocê sobreviveu à fenda e chegou até aqui.",
-        "es-ES": "[Investigador Rafflesia]\nLos seres humanos son increíbles…\nSobreviviste a la grieta y llegaste hasta aquí."
+        "es-ES": "[Investigador Rafflesia]\nLos seres humanos son increíbles...\nSobreviviste a la grieta y llegaste hasta aquí."
     },
     "69FN": {
         "en-US": "[Raffle Researcher]\n... ... ...",
         "pt-BR": "[Pesquisador de Mora]\n... ... ...",
-        "es-ES": "[Investigador Rafflesia]\n… … …"
+        "es-ES": "[Investigador Rafflesia]\n... ... ..."
     },
     "7NFN": {
         "en-US": "[Raffle Researcher]\nYou, come here for a minute.\nIt's a simple experiment, so there's no need to be afraid.",
@@ -72,7 +72,7 @@
     "7tFN": {
         "en-US": "... ...",
         "pt-BR": "... ...",
-        "es-ES": "… …"
+        "es-ES": "... ..."
     },
     "79FN": {
         "en-US": "[Raffle Researcher]\nYou said you had made it up from the Crevice,\nso I was wondering what race you were,\nbut a mere human? How did you get up here?",
@@ -82,7 +82,7 @@
     "8NFN": {
         "en-US": "[Raffle Researcher]\nWhat... I thought a human who made it up from the Crevice\nwould be extraordinary,\nbut you're no more than a kid.",
         "pt-BR": "[Pesquisador de Mora]\nO quê...? Achava que um humano que conseguiu escapar da Fenda\nseria extraordinário,\nmas você é só uma criança.",
-        "es-ES": "[Investigador Rafflesia]\n¿Que…? Pensé que un ser humano que sobrevivió a la Grieta\nsería extraordinario,\npero no eres más que un bebé."
+        "es-ES": "[Investigador Rafflesia]\n¿Que...? Pensé que un ser humano que sobrevivió a la Grieta\nsería extraordinario,\npero no eres más que un bebé."
     },
     "8dFN": {
         "en-US": "[Raffle Researcher]\nGo hunt more ^000000Porings^000000\nand come back when your level is in the triple digits kid!",
@@ -92,32 +92,32 @@
     "8tFN": {
         "en-US": "[Raffle Researcher]\nYou... You're not like the other humans.\nYou're not running away...",
         "pt-BR": "[Pesquisador de Mora]\nVocê... Você não é como os outros humanos.\nNão está fugindo...",
-        "es-ES": "[Investigador Rafflesia]\nTú… No eres como los demás seres humanos.\nNo estas huyendo…"
+        "es-ES": "[Investigador Rafflesia]\nTú... No eres como los demás seres humanos.\nNo estas huyendo..."
     },
     "89FN": {
         "en-US": "[Raffle Researcher]\nYou've got some serious guts...\nNow I really want to do some experiments on you...",
         "pt-BR": "[Pesquisador de Mora]\nVocê tem muita coragem...\nAgora eu realmente quero fazer experiências com você...",
-        "es-ES": "[Investigador Rafflesia]\nTienes agallas…\nAhora realmente quiero hacer algunos experimentos contigo…"
+        "es-ES": "[Investigador Rafflesia]\nTienes agallas...\nAhora realmente quiero hacer algunos experimentos contigo..."
     },
     "9NFN": {
         "en-US": "Well... that's... um...",
         "pt-BR": "Bem... Isso é... Hum...",
-        "es-ES": "Bueno… eso es… eh…"
+        "es-ES": "Bueno... eso es... eh..."
     },
     "9dFN": {
         "en-US": "[Raffle Researcher]\nHa ha... Just kidding..\nI'm a Raffle researcher,\nbut I don't research humans.\nActually, I have no idea\nwhat to research\nabout humans..",
         "pt-BR": "[Pesquisador de Mora]\nHa ha... É brincadeira...\nSou um pesquisador Rafflen,\nnão faço experiências com humanos.\nNa verdade, nem sei como\npesquisar sobre os humanos...",
-        "es-ES": "[Investigador Rafflesia]\nJa, ja… Solo bromeaba…\nSoy un Rafflesia Investigador,\npero no hago experimentos con humanos.\nEn realidad, no tengo ni idea\nqué podría investigar\nen los humanos…"
+        "es-ES": "[Investigador Rafflesia]\nJa, ja... Solo bromeaba...\nSoy un Rafflesia Investigador,\npero no hago experimentos con humanos.\nEn realidad, no tengo ni idea\nqué podría investigar\nen los humanos..."
     },
     "9tFN": {
         "en-US": "Glad to hear that...",
         "pt-BR": "Que bom saber disso...",
-        "es-ES": "Me alegra oír eso…"
+        "es-ES": "Me alegra oír eso..."
     },
     "99FN": {
         "en-US": "[Raffle Researcher]\nThat's that. You're not busy, are you?\nI'd like you to give me a hand...",
         "pt-BR": "[Pesquisador de Mora]\nÉ isso aí. Você não está ocupado, está?\nQueria que me desse uma ajuda...",
-        "es-ES": "[Investigador Rafflesia]\nEso es todo. No estás haciendo nada, ¿verdad?\nMe gustaría que me ayudaras con algo…"
+        "es-ES": "[Investigador Rafflesia]\nEso es todo. No estás haciendo nada, ¿verdad?\nMe gustaría que me ayudaras con algo..."
     },
     "+NFN": {
         "en-US": "Help him.",
@@ -167,12 +167,12 @@
     "AdJN": {
         "en-US": "[Raffle Researcher]\nHere at the Mora Inn,\nthere's a very famous bath.\nIf anybody, not just us Raffles,\ngoes into the bath water\ntheir wounds will be healed instantly...",
         "pt-BR": "[Pesquisador de Mora]\nAqui, na Estalagem de Mora,\nexiste um banho muito famoso.\nSe alguém, e não apenas os Rafflens, entrar na água desse banho, suas feridas serão curadas imediatamente...",
-        "es-ES": "[Investigador Rafflesia]\nAquí en la posada de Mora,\nhay unos baños termales muy famosos.\nSi alguien, no solo nosotros los Rafflesias,\nse mete en el agua de los baños termales,\nsus heridas se curan al instante…"
+        "es-ES": "[Investigador Rafflesia]\nAquí en la posada de Mora,\nhay unos baños termales muy famosos.\nSi alguien, no solo nosotros los Rafflesias,\nse mete en el agua de los baños termales,\nsus heridas se curan al instante..."
     },
     "AtJN": {
         "en-US": "[Raffle Researcher]\nSo being a great researcher, I went into the bath\nto check it out further\nand...unfortunately...",
         "pt-BR": "[Pesquisador de Mora]\nEntão, como sou um grande pesquisador, entrei na água\npara conferir mais de perto\ne... infelizmente...",
-        "es-ES": "[Investigador Rafflesia]\nY como buen investigador que soy, me metí en los baños termales\npara comprobarlo\ny… desgraciadamente…"
+        "es-ES": "[Investigador Rafflesia]\nY como buen investigador que soy, me metí en los baños termales\npara comprobarlo\ny... desgraciadamente..."
     },
     "A9JN": {
         "en-US": "[Raffle Researcher]\nI was attacked by a mysterious creature,\nand I lost consciousness.",
@@ -182,7 +182,7 @@
     "BNJN": {
         "en-US": "[Raffle Researcher]\nWhen I woke up, I realized that\nmy important research tools were missing\n... So I was at a loss of what to do",
         "pt-BR": "[Pesquisador de Mora]\nQuando acordei, percebi que\nminhas ferramentas de pesquisa tinham sumido...\nEntão, fiquei sem saber o que fazer.",
-        "es-ES": "[Investigador Rafflesia]\nCuando me desperté, me di cuenta de que\nmis valiosas herramientas de investigación habían desaparecido.\n… Así que estaba aquí sin saber qué hacer"
+        "es-ES": "[Investigador Rafflesia]\nCuando me desperté, me di cuenta de que\nmis valiosas herramientas de investigación habían desaparecido.\n... Así que estaba aquí sin saber qué hacer"
     },
     "BdJN": {
         "en-US": "[Raffle Researcher]\nAnd here you are, a human,\na brave, heroic human that arrived at Mora Village from the Crevice.\nYour willingness to help has really taken this load off of my mind.",
@@ -217,7 +217,7 @@
     "C9JN": {
         "en-US": "[Raffle Researcher]\nWow!! You found the research tools...?\nYou're quite capable.\nI really like how you handle your work.",
         "pt-BR": "[Pesquisador de Mora]\nUau!! Encontrou as ferramentas de pesquisa...?\nVocê é muito competente.\nGosto de ver como lida com o seu trabalho.",
-        "es-ES": "[Investigador Rafflesia]\n¡Guau! ¿Encontraste las herramientas de investigación…?\nEres muy capaz.\nMe gusta mucho cómo manejas tu trabajo."
+        "es-ES": "[Investigador Rafflesia]\n¡Guau! ¿Encontraste las herramientas de investigación...?\nEres muy capaz.\nMe gusta mucho cómo manejas tu trabajo."
     },
     "DNJN": {
         "en-US": "[Raffle Researcher]\nI like you.\nDo you want to work on my research with me?\nI could use your help here and there,\nuntil I'm done with this research.",
@@ -237,12 +237,12 @@
     "D9JN": {
         "en-US": "[Raffle Researcher]\nYoung Raffles these days... they are just plain stupid.\nI've always wanted a capable research assistant,\nbut it hasn't been easy to find one.",
         "pt-BR": "[Pesquisador de Mora]\nOs jovens Rafflens de atualmente... são completamente estúpidos.\nSempre quis ter um assistente de pesquisa competente,\nmas não é fácil achar.",
-        "es-ES": "[Investigador Rafflesia]\nLos jóvenes Rafflesias de hoy… son simplemente estúpidos.\nSiempre quise un asistente de investigación capaz,\npero no me ha sido fácil encontrar uno."
+        "es-ES": "[Investigador Rafflesia]\nLos jóvenes Rafflesias de hoy... son simplemente estúpidos.\nSiempre quise un asistente de investigación capaz,\npero no me ha sido fácil encontrar uno."
     },
     "ENJN": {
         "en-US": "[Raffle Researcher]\nBy the way... Was it that difficult to\nreclaim the research tools?\nYou're carrying some very heavy looking equipment.\nGo lighten your load, and I'll pay you for your work.",
         "pt-BR": "[Pesquisador de Mora]\nFalando nisso... Foi muito difícil\nrecuperar as ferramentas de pesquisa?\nVocê está carregando equipamentos que parecem bem pesados.\nAlivie sua carga, e eu lhe pagarei pelo seu trabalho.",
-        "es-ES": "[Investigador Rafflesia]\nPor cierto… ¿Te resultó difícil\nrecuperar las herramientas de investigación?\nLlevas un equipamiento que parece muy pesado.\nAligera tu carga y te pagaré por tu trabajo."
+        "es-ES": "[Investigador Rafflesia]\nPor cierto... ¿Te resultó difícil\nrecuperar las herramientas de investigación?\nLlevas un equipamiento que parece muy pesado.\nAligera tu carga y te pagaré por tu trabajo."
     },
     "EdJN": {
         "en-US": "[Raffle Researcher]\nIt must've been hard work to retrieve the tools.\nWhy don't you take this and go to the inn\nand rest up? There's nothing for you to do right now.",
@@ -272,7 +272,7 @@
     "FtJN": {
         "en-US": "[Raffle Researcher]\nDarn, I get more worked up the more I think about it.\nIt's not like I went with bad intentions...\nI just wanted to do some research...\nCan't believe I got attacked...\nI just can't believe it..\nWhat do you think?",
         "pt-BR": "[Pesquisador de Mora]\nQuanto mais penso nisso, mais agitado eu fico.\nEu não estava mal-intencionado...\nSó queria fazer a pesquisa...\nNão acredito que fui atacado...\nNão consigo acreditar.\nO que você acha?",
-        "es-ES": "[Investigador Rafflesia]\nMaldición, cuanto más lo pienso más me enfurezco.\nNo fui con malas intenciones…\nSolo quería investigar un poco…\nNo puedo creer que me atacaran…\nNo puedo creerlo…\n¿Qué te parece?"
+        "es-ES": "[Investigador Rafflesia]\nMaldición, cuanto más lo pienso más me enfurezco.\nNo fui con malas intenciones...\nSolo quería investigar un poco...\nNo puedo creer que me atacaran...\nNo puedo creerlo...\n¿Qué te parece?"
     },
     "F9JN": {
         "en-US": "[Raffle Researcher]\nGood thing you're here.",
@@ -282,7 +282,7 @@
     "GNJN": {
         "en-US": "[Raffle Researcher]\nI've been thinking about\nthe unidentified creature in the bath.\nHe's quite the little devil, to take research tools,\nwhich are as important to a researcher as his life...",
         "pt-BR": "[Pesquisador de Mora]\nAndei pensando sobre\na criatura não-identificada na casa de banho.\nEla é muito má, pois pegou ferramentas que são tão importantes para um pesquisador quanto a própria vida dele...",
-        "es-ES": "[Investigador Rafflesia]\nEstuve pensando en\nla criatura no identificada de los baños termales.\nEs toda una sinvergüenza… ¿a quién se le ocurre llevarse las herramientas de investigación…?\nHerramientas que un investigador valora como su propia vida…"
+        "es-ES": "[Investigador Rafflesia]\nEstuve pensando en\nla criatura no identificada de los baños termales.\nEs toda una sinvergüenza... ¿a quién se le ocurre llevarse las herramientas de investigación...?\nHerramientas que un investigador valora como su propia vida..."
     },
     "GdJN": {
         "en-US": "[Raffle Researcher]\nA research assistant's job\nis to make sure that the researcher can focus on his research\nAnd not have to worry about anything else.. VERY! Important.",
@@ -292,7 +292,7 @@
     "GtJN": {
         "en-US": "[Raffle Researcher]\nI'd like you to take my revenge\non the unidentified creature for me...",
         "pt-BR": "[Pesquisador de Mora]\nQuero que você se vingue\nda criatura não-identificada por mim...",
-        "es-ES": "[Investigador Rafflesia]\nMe gustaría que te vengaras\nen mi nombre contra la criatura no identificada…"
+        "es-ES": "[Investigador Rafflesia]\nMe gustaría que te vengaras\nen mi nombre contra la criatura no identificada..."
     },
     "G9JN": {
         "en-US": "[Raffle Researcher]\nI don't even want anything that drastic.\n3 times! Go bully him for just 3 times.\nYou can draw on his face,\npinch him, tickle him,\nwhatever you want. Just bully him 3 times.",
@@ -357,7 +357,7 @@
     "J9JN": {
         "en-US": "[Raffle Researcher]\nI know that you've done a lot...\nbut you are carrying too many things.\nEven though I want to give you pocket money, I can't.\nCould you lighten your load and come back?",
         "pt-BR": "[Pesquisador de Mora]\nSei que você fez muita coisa...\nmas está carregando itens demais.\nEu quero lhe dar dinheiro, mas não posso.\nVocê pode aliviar a sua carga e voltar aqui?",
-        "es-ES": "[Investigador Rafflesia]\nSé que ya trabajaste mucho…\npero llevas demasiadas cosas.\nAunque quiera darte dinero, no puedo.\n¿Podrías aligerar tu carga y volver luego?"
+        "es-ES": "[Investigador Rafflesia]\nSé que ya trabajaste mucho...\npero llevas demasiadas cosas.\nAunque quiera darte dinero, no puedo.\n¿Podrías aligerar tu carga y volver luego?"
     },
     "KNJN": {
         "en-US": "[Raffle Researcher]\nYou got the bath water sample. Great job.",
@@ -442,12 +442,12 @@
     "ONJN": {
         "en-US": "[Raffle Researcher]\nI'm sorry, but please re-collect the samples.\nThis time, the teeth... Yes.\nPlease bring the tooth samples.",
         "pt-BR": "[Pesquisador de Mora]\nSinto muito, mas você vai ter que pegar mais amostras.\nOs dentes desta vez... Sim.\nPor favor, traga os dentes.",
-        "es-ES": "[Investigador Rafflesia]\nLo lamento, pero deberás recolectar las muestras otra vez.\nEsta vez, los dientes… Sí.\nTráeme las muestras de dientes."
+        "es-ES": "[Investigador Rafflesia]\nLo lamento, pero deberás recolectar las muestras otra vez.\nEsta vez, los dientes... Sí.\nTráeme las muestras de dientes."
     },
     "OdJN": {
         "en-US": "[Raffle Researcher]\nI'm sorry, but please re-collect the samples.\nThis time, the scales... Yes.\nPlease bring the scale samples.",
         "pt-BR": "[Pesquisador de Mora]\nSinto muito, mas você vai ter que pegar mais amostras.\nAs escamas desta vez... Sim.\nPor favor, traga as escamas.",
-        "es-ES": "[Investigador Rafflesia]\nLo lamento, pero deberás recolectar las muestras otra vez.\nEsta vez, las escamas… Sí.\nTráeme las muestras de escamas."
+        "es-ES": "[Investigador Rafflesia]\nLo lamento, pero deberás recolectar las muestras otra vez.\nEsta vez, las escamas... Sí.\nTráeme las muestras de escamas."
     },
     "OtJN": {
         "en-US": "[Raffle Researcher]\nGreat! These samples are surely\nfrom the mysterious creature.",
@@ -502,7 +502,7 @@
     "RNJN": {
         "en-US": "[Raffle Researcher]\nGet me a sample from the puddle from the west.\nIt's not completely to the west...\nThe puddle should be at 7 o'clock\nFrom the village.",
         "pt-BR": "[Pesquisador de Mora]\nObtenha uma amostra da poça a oeste.\nEla não está nessa direção exata... \nVocê vai encontrá-la a sudoeste\nda vila.",
-        "es-ES": "[Investigador Rafflesia]\nTráeme una muestra del charco del oeste.\nNo está completamente al oeste…\nLo encontrarás al suroeste\nde la aldea."
+        "es-ES": "[Investigador Rafflesia]\nTráeme una muestra del charco del oeste.\nNo está completamente al oeste...\nLo encontrarás al suroeste\nde la aldea."
     },
     "RdJN": {
         "en-US": "[Raffle Researcher]\nTake care not to damage the sample.\nGood luck!",
@@ -577,7 +577,7 @@
     "U9JN": {
         "en-US": "[Raffle Researcher]\nWhat? You're here? Well...",
         "pt-BR": "[Pesquisador de Mora]\nO quê? Você está aqui? Bem...",
-        "es-ES": "[Investigador Rafflesia]\n¿Qué? ¿Estás aquí? Bueno…"
+        "es-ES": "[Investigador Rafflesia]\n¿Qué? ¿Estás aquí? Bueno..."
     },
     "VNJN": {
         "en-US": "[Raffle Researcher]\nBut the sample studies have not been finished.\nThis is an experiment for the final result,\nso don't be too hasty.\nI think the research will take about 12 hours.",

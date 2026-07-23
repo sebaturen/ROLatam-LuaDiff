@@ -75,9 +75,9 @@
         "es-ES": "[Maram]\nAl final hasta le han invitado a este lugar, aventurero. De verdad que es impresionante.\nBueno, aunque nosotros también esperábamos que así fuera."
     },
     "L1sYDQ": {
-        "en-US": "[Miriam]\n……Nonsense. Adventurer, do not pay too much attention to what Maram says.\nThis is an important gathering. Maram, do not behave as you usually do.",
-        "pt-BR": "[Miriam]\n……Que fala inútil. Aventureiro, não dê muita atenção ao que Maram diz.\nEste é um lugar importante. Maram, não se comporte como de costume.",
-        "es-ES": "[Miriam]\n……Qué tonterías. Aventurero, no preste demasiada atención a lo que dice Maram.\nEs un lugar importante. Maram, no te comportes como siempre."
+        "en-US": "[Miriam]\n......Nonsense. Adventurer, do not pay too much attention to what Maram says.\nThis is an important gathering. Maram, do not behave as you usually do.",
+        "pt-BR": "[Miriam]\n......Que fala inútil. Aventureiro, não dê muita atenção ao que Maram diz.\nEste é um lugar importante. Maram, não se comporte como de costume.",
+        "es-ES": "[Miriam]\n......Qué tonterías. Aventurero, no preste demasiada atención a lo que dice Maram.\nEs un lugar importante. Maram, no te comportes como siempre."
     },
     "MFsYDQ": {
         "en-US": "[Maram]\nNo, Miriam! If you say it like that, it sounds as though I usually do something wrong.\nAh, all right, all right. I will focus.",
@@ -91,8 +91,8 @@
     },
     "MlsYDQ": {
         "en-US": "[Maram]\nI am sure it will help when participating in the meeting.... \nAs you listen, perhaps you can organize your own position as well.",
-        "pt-BR": "[Maram]\nTenho certeza de que isso ajudará na sua participação na reunião…….\nEnquanto escuta, você também pode organizar a sua própria posição.",
-        "es-ES": "[Maram]\nEstoy seguro de que le servirá de ayuda para participar en la reunión…….\nMientras escucha lo que dicen, también podrá ordenar su propia postura."
+        "pt-BR": "[Maram]\nTenho certeza de que isso ajudará na sua participação na reunião.......\nEnquanto escuta, você também pode organizar a sua própria posição.",
+        "es-ES": "[Maram]\nEstoy seguro de que le servirá de ayuda para participar en la reunión.......\nMientras escucha lo que dicen, también podrá ordenar su propia postura."
     },
     "M1sYDQ": {
         "en-US": "[Suad]\nYes. That is not a bad idea either.\nOnce you feel you have heard enough, tell me. Then I will begin the meeting.",
@@ -220,9 +220,9 @@
         "es-ES": "[Maram]\nEh, eh, esto se está calentando un poco.\nSuad, ¿no deberías calmarlos un poco?"
     },
     "TFsYDQ": {
-        "en-US": "[Suad]\n……Let us watch just a little longer.",
-        "pt-BR": "[Suad]\n……Vamos observar só mais um pouco.",
-        "es-ES": "[Suad]\n……Observemos un poco más."
+        "en-US": "[Suad]\n......Let us watch just a little longer.",
+        "pt-BR": "[Suad]\n......Vamos observar só mais um pouco.",
+        "es-ES": "[Suad]\n......Observemos un poco más."
     },
     "TVsYDQ": {
         "en-US": "[Mini Elly]\nSomething is strange.\nThey are even casting those who oppose them as enemies.",
@@ -251,8 +251,8 @@
     },
     "UlsYDQ": {
         "en-US": "[Maram]\nPrepared? I am not yet.... Blood washes out best with cold water.",
-        "pt-BR": "[Maram]\nJá estavam? Eu ainda não……. Sangue sai melhor com água fria.",
-        "es-ES": "[Maram]\n¿Ya lo decidisteis? Yo aún no……. La sangre se limpia mejor con agua fría."
+        "pt-BR": "[Maram]\nJá estavam? Eu ainda não....... Sangue sai melhor com água fria.",
+        "es-ES": "[Maram]\n¿Ya lo decidisteis? Yo aún no....... La sangre se limpia mejor con agua fría."
     },
     "U1sYDQ": {
         "en-US": "[Miriam]\nThis is not the time for jokes, Maram.\nAnd Suad, if you do not put things in order, the opinions of the forest residents will split completely at this rate.",
@@ -265,9 +265,9 @@
         "es-ES": "[Miriam]\nAunque no te guste, creo que ya va siendo hora de ordenar esto."
     },
     "VVsYDQ": {
-        "en-US": "[Suad]\n……Enough. This is not a gathering meant for us to turn red in the face with one another.\nThis is a gathering to gather our opinions and move forward.",
-        "pt-BR": "[Suad]\n……Chega, este não é um lugar feito para nós corarmos os rostos uns dos outros.\nÉ um lugar para reunir opiniões e seguir em frente.",
-        "es-ES": "[Suad]\n……Basta, este no es un lugar creado para que nos ruboricemos la cara entre nosotros.\nEs un lugar para reunir opiniones y seguir adelante."
+        "en-US": "[Suad]\n......Enough. This is not a gathering meant for us to turn red in the face with one another.\nThis is a gathering to gather our opinions and move forward.",
+        "pt-BR": "[Suad]\n......Chega, este não é um lugar feito para nós corarmos os rostos uns dos outros.\nÉ um lugar para reunir opiniões e seguir em frente.",
+        "es-ES": "[Suad]\n......Basta, este no es un lugar creado para que nos ruboricemos la cara entre nosotros.\nEs un lugar para reunir opiniones y seguir adelante."
     },
     "VlsYDQ": {
         "en-US": "Suad : Enough. This is not a gathering meant for us to turn red in the face with one another.",
@@ -300,9 +300,9 @@
         "es-ES": "[Suad]\nAsí que no penséis en dividiros en bandos entre vosotros, sino en convenceros unos a otros.\nEs decir, hablad de cómo y por qué deberían hacerse realidad vuestras opiniones."
     },
     "XFsYDQ": {
-        "en-US": "…….",
-        "pt-BR": "…….",
-        "es-ES": "……."
+        "en-US": ".......",
+        "pt-BR": ".......",
+        "es-ES": "......."
     },
     "XVsYDQ": {
         "en-US": "[Passionate Youth]\nWe already possess the ability to arm ourselves.\nThat means criticism that we are unprepared is meaningless.",
@@ -311,8 +311,8 @@
     },
     "XlsYDQ": {
         "en-US": "[Maram]\nHuh? Does that mean there is a route for buying weapons that I do not know about?\nThat is the first I have heard of it....",
-        "pt-BR": "[Maram]\nOra? Quer dizer que existe uma rota de compra de armas que eu não conheço?\nIsso é novidade para mim…….",
-        "es-ES": "[Maram]\n¿Eh? ¿Eso quiere decir que existe una ruta para comprar armas que yo no conozco?\nEso sí que lo oigo por primera vez……."
+        "pt-BR": "[Maram]\nOra? Quer dizer que existe uma rota de compra de armas que eu não conheço?\nIsso é novidade para mim.......",
+        "es-ES": "[Maram]\n¿Eh? ¿Eso quiere decir que existe una ruta para comprar armas que yo no conozco?\nEso sí que lo oigo por primera vez......."
     },
     "X1sYDQ": {
         "en-US": "[Passionate Youth]\nAnd how long are we supposed to prepare?\nUntil we grow old and die? Until the next generation learns only how to give up?",
@@ -331,8 +331,8 @@
     },
     "YlsYDQ": {
         "en-US": "We are against war, but a protest, perhaps....",
-        "pt-BR": "Sou contra a guerra, mas se for um protesto……",
-        "es-ES": "Estamos en contra de la guerra, pero una protesta sí……."
+        "pt-BR": "Sou contra a guerra, mas se for um protesto......",
+        "es-ES": "Estamos en contra de la guerra, pero una protesta sí......."
     },
     "Y1sYDQ": {
         "en-US": "[Timid Middle-Aged Man]\nYes. We do not want to be branded outright as reactionaries!\nIf such a Brand is stamped on us, even living here will become difficult.",
@@ -350,9 +350,9 @@
         "es-ES": "Sí. Mejor que sea lo más pacífico posible."
     },
     "ZlsYDQ": {
-        "en-US": "[Timid Youth]\n……If everyone can join their strength together, then we too support a protest.\nLet us show our will.",
-        "pt-BR": "[Jovem tímido]\n……Se todos puderem unir forças, nós também apoiamos um protesto.\nVamos mostrar a nossa opinião.",
-        "es-ES": "[Joven tímido]\n……Si todos pudiéramos unir nuestras fuerzas, nosotros también apoyaríamos la protesta.\nMostremos nuestra opinión."
+        "en-US": "[Timid Youth]\n......If everyone can join their strength together, then we too support a protest.\nLet us show our will.",
+        "pt-BR": "[Jovem tímido]\n......Se todos puderem unir forças, nós também apoiamos um protesto.\nVamos mostrar a nossa opinião.",
+        "es-ES": "[Joven tímido]\n......Si todos pudiéramos unir nuestras fuerzas, nosotros también apoyaríamos la protesta.\nMostremos nuestra opinión."
     },
     "Z1sYDQ": {
         "en-US": "[Passionate Youth]\nEven if we protest, a nonviolent protest that does nothing but speak will have no effect!\nAt the very least, we must occupy the temple and protest.",
@@ -366,8 +366,8 @@
     },
     "aVsYDQ": {
         "en-US": "[Mini Elly]\nJust when it seemed opinions might gather by peaceful means, things have turned again in a violent direction....",
-        "pt-BR": "[Mini Elly]\nParecia que iam reunir as opiniões por um caminho pacífico, mas agora a discussão voltou a tomar um rumo violento…….",
-        "es-ES": "[Mini Elly]\nParecía que se estaban poniendo de acuerdo en una vía pacífica, y de nuevo han torcido hacia la violencia……."
+        "pt-BR": "[Mini Elly]\nParecia que iam reunir as opiniões por um caminho pacífico, mas agora a discussão voltou a tomar um rumo violento.......",
+        "es-ES": "[Mini Elly]\nParecía que se estaban poniendo de acuerdo en una vía pacífica, y de nuevo han torcido hacia la violencia......."
     },
     "alsYDQ": {
         "en-US": "[Suad]\nEnough, it seems opinions have gathered to some extent.\nDo you agree with the proposal to proceed with a protest, occupy the temple, and make our will known?",
@@ -376,8 +376,8 @@
     },
     "a1sYDQ": {
         "en-US": "[Passionate Youth]\nI do not completely like it, but.... so that is the point of compromise.",
-        "pt-BR": "[Jovem Entusiasmado]\nNão é exatamente do meu agrado…… mas então é esse o ponto de acordo.",
-        "es-ES": "[Joven Entusiasmado]\nNo me convence del todo…… pero supongo que ese es el punto de acuerdo."
+        "pt-BR": "[Jovem Entusiasmado]\nNão é exatamente do meu agrado...... mas então é esse o ponto de acordo.",
+        "es-ES": "[Joven Entusiasmado]\nNo me convence del todo...... pero supongo que ese es el punto de acuerdo."
     },
     "bFsYDQ": {
         "en-US": "[Native Old Man]\nIt still looks dangerous, but we do need to make our will known.",
@@ -437,7 +437,7 @@
     "d1sYDQ": {
         "en-US": "[Suad]\nTo reduce clashes as much as possible and bring the protest to a safe end... that is.",
         "pt-BR": "[Suad]\nOu seja, tentar terminar o protesto em segurança, reduzindo ao máximo os conflitos.",
-        "es-ES": "[Suad]\nEso de intentar terminar la protesta sin incidentes y reduciendo al mínimo los enfrentamientos……."
+        "es-ES": "[Suad]\nEso de intentar terminar la protesta sin incidentes y reduciendo al mínimo los enfrentamientos......."
     },
     "eFsYDQ": {
         "en-US": "Miriam",
@@ -496,8 +496,8 @@
     },
     "g1sYDQ": {
         "en-US": "[Maram]\nOh.... I, Maram, can say with certainty that such things are not normally distributed on the open market.\nWhere could they have come from.",
-        "pt-BR": "[Maram]\nOh…… eu, Maram, posso afirmar com certeza que esse tipo de coisa simplesmente não circula por aí.\nDe onde será que saiu.",
-        "es-ES": "[Maram]\nOh…… yo, Maram, puedo asegurar que eso no se distribuye normalmente en el mercado.\n¿De dónde habrá salido?"
+        "pt-BR": "[Maram]\nOh...... eu, Maram, posso afirmar com certeza que esse tipo de coisa simplesmente não circula por aí.\nDe onde será que saiu.",
+        "es-ES": "[Maram]\nOh...... yo, Maram, puedo asegurar que eso no se distribuye normalmente en el mercado.\n¿De dónde habrá salido?"
     },
     "hFsYDQ": {
         "en-US": "[Miriam]\nI have a guess, but I am not certain.\nSo, could we dig into those people and find out the source?",
@@ -540,9 +540,9 @@
         "es-ES": "[Miriam]\nYo iré a investigar a mi manera.\nAprovecharé al máximo mis contactos y mis influencias."
     },
     "jFsYDQ": {
-        "en-US": "[Miriam]\nThere is something that concerns me.\n……I will tell you once it has become clear.",
-        "pt-BR": "[Miriam]\nHá algo que me incomoda.\n……Quando algo mais claro for revelado, então explicarei.",
-        "es-ES": "[Miriam]\nHay algo que me inquieta.\n……Se lo contaré cuando haya quedado claro."
+        "en-US": "[Miriam]\nThere is something that concerns me.\n......I will tell you once it has become clear.",
+        "pt-BR": "[Miriam]\nHá algo que me incomoda.\n......Quando algo mais claro for revelado, então explicarei.",
+        "es-ES": "[Miriam]\nHay algo que me inquieta.\n......Se lo contaré cuando haya quedado claro."
     },
     "jVsYDQ": {
         "en-US": "Maram",
@@ -691,8 +691,8 @@
     },
     "qlsYDQ": {
         "en-US": "[Native Old Man]\nThat means there was never any problem with living that way until now.... \nBut now, must we really resort to such extreme means?",
-        "pt-BR": "[Ancião Nativo]\nIsso quer dizer que, até agora, viver assim nunca foi um problema…….\nMas agora precisamos mesmo recorrer a um método tão extremo?",
-        "es-ES": "[Anciano nativo]\nEso significa que hasta ahora he vivido así sin que hubiera ningún problema…….\nEntonces, ¿de verdad hace falta recurrir ahora a métodos tan radicales?"
+        "pt-BR": "[Ancião Nativo]\nIsso quer dizer que, até agora, viver assim nunca foi um problema.......\nMas agora precisamos mesmo recorrer a um método tão extremo?",
+        "es-ES": "[Anciano nativo]\nEso significa que hasta ahora he vivido así sin que hubiera ningún problema.......\nEntonces, ¿de verdad hace falta recurrir ahora a métodos tan radicales?"
     },
     "q1sYDQ": {
         "en-US": "[Native Old Man]\nCould it be that the young ones have blood rushing to their heads and are doing something foolish?\nWhat if we make things too big and it all turns into disaster?",
@@ -731,8 +731,8 @@
     },
     "slsYDQ": {
         "en-US": "I wish they would hear our opinions too....",
-        "pt-BR": "Seria bom se também ouvissem a nossa opinião……",
-        "es-ES": "A mí también me gustaría que escucharan nuestra opinión……"
+        "pt-BR": "Seria bom se também ouvissem a nossa opinião......",
+        "es-ES": "A mí también me gustaría que escucharan nuestra opinión......"
     },
     "s1sYDQ": {
         "en-US": "Passionate Middle-aged Man",
@@ -796,8 +796,8 @@
     },
     "v1sYDQ": {
         "en-US": "[Timid Youth]\nThen again, those ones over there shouting at the top of their lungs are young too.\nI just do not know what on earth they are trusting in to make such a fuss about fighting....",
-        "pt-BR": "[Jovem Tímido]\nPensando bem, aqueles caras ali que vivem gritando também são jovens, né.\nEu realmente não sei no que eles se apoiam para fazer tanta bagunça querendo lutar…….",
-        "es-ES": "[Joven tímido]\nAunque, bueno, los que están allí gritando a pleno pulmón también son jóvenes.\nNo sé en qué estarán pensando para montar tanto alboroto con eso de luchar……."
+        "pt-BR": "[Jovem Tímido]\nPensando bem, aqueles caras ali que vivem gritando também são jovens, né.\nEu realmente não sei no que eles se apoiam para fazer tanta bagunça querendo lutar.......",
+        "es-ES": "[Joven tímido]\nAunque, bueno, los que están allí gritando a pleno pulmón también son jóvenes.\nNo sé en qué estarán pensando para montar tanto alboroto con eso de luchar......."
     },
     "wFsYDQ": {
         "en-US": "[Timid Youth]\nSurely they do not really think we can beat down all the migrants of Rachel.\nEven in sheer numbers, the difference is obvious.",
@@ -851,8 +851,8 @@
     },
     "ylsYDQ": {
         "en-US": "[Radical Youth]\nThese? Someone was selling them dirt cheap, so I bought them!\nFor protecting ourselves, and for showing others too.... if you are armed like this, who would dare mess with you?",
-        "pt-BR": "[Jovem Radical]\nIsto? Alguém estava vendendo super barato, então comprei!\nPra proteger o corpo e também pra mostrar pros outros…… com esse tipo de armamento, quem vai querer se meter com a gente?",
-        "es-ES": "[Joven radical]\n¿Esto? Es que alguien lo vendía tiradísimo de precio, así que lo compré.\nPara protegerme, y también para que los demás lo vean…… si uno va así armado, ¿quién se le va a echar encima?"
+        "pt-BR": "[Jovem Radical]\nIsto? Alguém estava vendendo super barato, então comprei!\nPra proteger o corpo e também pra mostrar pros outros...... com esse tipo de armamento, quem vai querer se meter com a gente?",
+        "es-ES": "[Joven radical]\n¿Esto? Es que alguien lo vendía tiradísimo de precio, así que lo compré.\nPara protegerme, y también para que los demás lo vean...... si uno va así armado, ¿quién se le va a echar encima?"
     },
     "y1sYDQ": {
         "en-US": "[Cheerful Youth]\nExactly, exactly! We need this much armament to stay safe even during a protest!\nWon't those at the temple get scared and bow their heads on their own?",
@@ -865,9 +865,9 @@
         "es-ES": "[Maram]\n¿Podría darnos también a nosotros alguna información sobre quién se lo vendió?"
     },
     "zVsYDQ": {
-        "en-US": "[Radical Youth]\nUh…… not for free. We put in our own effort to obtain this purchasing route, you know.",
-        "pt-BR": "[Jovem Radical]\nAh…… assim, de graça, não dá. Nós também penamos um pouco para conseguir esse canal de compra.",
-        "es-ES": "[Joven radical]\nEh…… de gratis no puede ser. A nosotros también nos costó lo suyo conseguir esta vía de compra."
+        "en-US": "[Radical Youth]\nUh...... not for free. We put in our own effort to obtain this purchasing route, you know.",
+        "pt-BR": "[Jovem Radical]\nAh...... assim, de graça, não dá. Nós também penamos um pouco para conseguir esse canal de compra.",
+        "es-ES": "[Joven radical]\nEh...... de gratis no puede ser. A nosotros también nos costó lo suyo conseguir esta vía de compra."
     },
     "zlsYDQ": {
         "en-US": "[Maram]\nBut you were the ones who said first that someone was selling them dirt cheap, weren't you?\nSo this must be leftover stock or something. In that case, would it be better if we know about it, or if the temple knows about it~?",
@@ -885,9 +885,9 @@
         "es-ES": "[Maram]\nHa pensado bien. Ya decía yo que era inteligente."
     },
     "0VsYDQ": {
-        "en-US": "[Radical Youth]\nAll right…… but you won't be able to meet them just like that.\nFirst, go to Rachel and meet Bearded Jack.",
-        "pt-BR": "[Jovem Radical]\nTá bom…… mas você não vai conseguir encontrar a pessoa assim, de cara.\nPrimeiro vá a Rachel e encontre Jack Barbudo.",
-        "es-ES": "[Joven radical]\nEstá bien…… pero no podréis verlo así como así.\nPrimero id a Rachel y buscad a Jack barbudo."
+        "en-US": "[Radical Youth]\nAll right...... but you won't be able to meet them just like that.\nFirst, go to Rachel and meet Bearded Jack.",
+        "pt-BR": "[Jovem Radical]\nTá bom...... mas você não vai conseguir encontrar a pessoa assim, de cara.\nPrimeiro vá a Rachel e encontre Jack Barbudo.",
+        "es-ES": "[Joven radical]\nEstá bien...... pero no podréis verlo así como así.\nPrimero id a Rachel y buscad a Jack barbudo."
     },
     "0lsYDQ": {
         "en-US": "Maram : Bearded Jack?",
@@ -1040,9 +1040,9 @@
         "es-ES": "[Danderon]\n¡¿Quién es un diente de león?!\n¡¿Qué imbécil inventó una contraseña tan absurda?!"
     },
     "8FsYDQ": {
-        "en-US": "[Maram]\nAha, so your name is…… so that made it dandelion after all.\nFor all that talk of security, it's rather simple.",
-        "pt-BR": "[Maram]\nAha, então era por causa do seu nome…… por isso era dente-de-leão.\nPara alguém que falou tanto de segurança, até que é bem simples.",
-        "es-ES": "[Maram]\nAh, ya veo, así que su nombre…… de ahí venía lo del diente de león.\nPara tanto hablar de seguridad, es bastante simple."
+        "en-US": "[Maram]\nAha, so your name is...... so that made it dandelion after all.\nFor all that talk of security, it's rather simple.",
+        "pt-BR": "[Maram]\nAha, então era por causa do seu nome...... por isso era dente-de-leão.\nPara alguém que falou tanto de segurança, até que é bem simples.",
+        "es-ES": "[Maram]\nAh, ya veo, así que su nombre...... de ahí venía lo del diente de león.\nPara tanto hablar de seguridad, es bastante simple."
     },
     "8VsYDQ": {
         "en-US": "[Danderon]\nAnyway, what do you want!\nIf you came to buy weapons, then say what you need and take it.",
@@ -1051,8 +1051,8 @@
     },
     "8lsYDQ": {
         "en-US": "We're not exactly here to buy a weapon or two....",
-        "pt-BR": "Viemos não exatamente comprar uma ou duas armas……",
-        "es-ES": "Más que venir a comprar una o dos armas……."
+        "pt-BR": "Viemos não exatamente comprar uma ou duas armas......",
+        "es-ES": "Más que venir a comprar una o dos armas......."
     },
     "81sYDQ": {
         "en-US": "[Maram]\nExactly, right? The Adventurer is right.\nRather than buying just one or two weapons, it's more like... a bulk purchase?",
@@ -1105,9 +1105,9 @@
         "es-ES": "[Maram]\nAsí que solo queremos un poquito de esa información.\nA nosotros nos conviene porque tenemos prisa, y al señor intermediario también le conviene porque se lleva su comisión. ¿No es matar dos pájaros de un tiro?"
     },
     "/VsYDQ": {
-        "en-US": "[Danderon]\nUngh…… fine. But you absolutely must not leak it.",
-        "pt-BR": "[Danderon]\nNgh…… tudo bem. Mas jamais deixem isso vazar.",
-        "es-ES": "[Danderon]\nUugh…… está bien. Pero no debe filtrarse bajo ningún concepto."
+        "en-US": "[Danderon]\nUngh...... fine. But you absolutely must not leak it.",
+        "pt-BR": "[Danderon]\nNgh...... tudo bem. Mas jamais deixem isso vazar.",
+        "es-ES": "[Danderon]\nUugh...... está bien. Pero no debe filtrarse bajo ningún concepto."
     },
     "/lsYDQ": {
         "en-US": "[Maram]\nSuch an obvious thing to say.",
@@ -1130,9 +1130,9 @@
         "es-ES": "[Danderon]\nDeja de tantear más, crío, y averigua el resto por tu cuenta.\nSi ya has conseguido lo que querías, paga la comisión y lárgate."
     },
     "AlwYDQ": {
-        "en-US": "[Maram]\nA secret base in Thor Volcano…… this reeks of something suspicious.\nThis really does feel like it might be our final destination, doesn't it?",
-        "pt-BR": "[Maram]\nUma base secreta no Vulcão Thor…… isso está cheirando muito mal.\nAcho que esse é mesmo o nosso ponto final, não?",
-        "es-ES": "[Maram]\nUna base secreta en el Volcán Thor…… esto huele sospechoso por todas partes.\n¿No cree que aquí es donde está realmente nuestro destino final?"
+        "en-US": "[Maram]\nA secret base in Thor Volcano...... this reeks of something suspicious.\nThis really does feel like it might be our final destination, doesn't it?",
+        "pt-BR": "[Maram]\nUma base secreta no Vulcão Thor...... isso está cheirando muito mal.\nAcho que esse é mesmo o nosso ponto final, não?",
+        "es-ES": "[Maram]\nUna base secreta en el Volcán Thor...... esto huele sospechoso por todas partes.\n¿No cree que aquí es donde está realmente nuestro destino final?"
     },
     "A1wYDQ": {
         "en-US": "[Maram]\nAs Mr. Dandelion said, meet me at <NAVI>[Thor Volcano]<INFO>thor_v01,169,169,0,101,0</INFO></NAVI>. Come properly prepared!\nDon't go straight into the military base. Come to the 3 o'clock direction from there, and I'll be waiting.",
@@ -1146,8 +1146,8 @@
     },
     "BVwYDQ": {
         "en-US": "[Maram]\nIt seems this next part is the real thing after all. The guards are on a different level from before....\nLet's search the inside while making sure not to get spotted by the guards.",
-        "pt-BR": "[Maram]\nPelo visto, a verdadeira coisa começa agora. A segurança é diferente de tudo o que vimos até aqui…….\nVamos investigar lá dentro tomando cuidado para não sermos vistos pelos guardas.",
-        "es-ES": "[Maram]\nParece que lo que viene ahora sí es lo serio. La vigilancia no se parece en nada a la de antes…….\nProcuremos registrar el interior con cuidado de que no nos detecten los guardias."
+        "pt-BR": "[Maram]\nPelo visto, a verdadeira coisa começa agora. A segurança é diferente de tudo o que vimos até aqui.......\nVamos investigar lá dentro tomando cuidado para não sermos vistos pelos guardas.",
+        "es-ES": "[Maram]\nParece que lo que viene ahora sí es lo serio. La vigilancia no se parece en nada a la de antes.......\nProcuremos registrar el interior con cuidado de que no nos detecten los guardias."
     },
     "BlwYDQ": {
         "en-US": "[Maram]\nLet's move while avoiding the guards' field of vision as much as possible.\nIf you make a mistake and get spotted, you'll be attacked, so if you fail to break through, meet me here again.",

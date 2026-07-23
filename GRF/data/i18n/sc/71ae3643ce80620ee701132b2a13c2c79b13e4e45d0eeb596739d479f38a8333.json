@@ -22,7 +22,7 @@
     "xF7ZAg": {
         "en-US": "...",
         "pt-BR": ".....",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "xV7ZAg": {
         "en-US": "[Akatt]\n{0}?\nAlright, I'll remember it.\nThat master over there says you're pretty competent.",
@@ -72,7 +72,7 @@
     "zl7ZAg": {
         "en-US": "[Akatt]\nTo tell you the truth, even I don't know what this is about,\nbut... anyway, that's what the bosses want.\nNow, what say you?",
         "pt-BR": "[Ahcart]\nTudo isso é uma escolha sua.\nVocê vai me ajudar com esse pedido?",
-        "es-ES": "[Akatt]\nA decir verdad, ni siquiera yo sé de qué se trata esto,\npero… en fin, eso es lo que los jefes quieren.\nAhora, ¿qué dices?"
+        "es-ES": "[Akatt]\nA decir verdad, ni siquiera yo sé de qué se trata esto,\npero... en fin, eso es lo que los jefes quieren.\nAhora, ¿qué dices?"
     },
     "z17ZAg": {
         "en-US": "I'll do it.",
@@ -102,7 +102,7 @@
     "1F7ZAg": {
         "en-US": "[Akatt]\nAh, you're one of us.\nI'm Akatt, from Veins.\n...Hm...",
         "pt-BR": "[Ahcart]\nHumm, você é meu colega.\nEu sou Ahcart. Sou de Veins.\nHum...",
-        "es-ES": "[Akatt]\nAh, eres de los nuestros.\nSoy Akatt, de Veins.\n…Mmm…"
+        "es-ES": "[Akatt]\nAh, eres de los nuestros.\nSoy Akatt, de Veins.\n...Mmm..."
     },
     "1V7ZAg": {
         "en-US": "[Akatt]\nThe Guild has more branches outside Morroc.\nYo should look for them.\nEven if you don't do it now, you will have to later. Eventually.",
@@ -112,7 +112,7 @@
     "1l7ZAg": {
         "en-US": "[Sharp-eyed Man]\n...\n...What?\nI only talk to Assassin Crosses.",
         "pt-BR": "[Homem de olhos afiados]\n....\nMas quê...?\nVocê não é um mercenário.",
-        "es-ES": "[Hombre observador]\n…\n¿Qué?\nSolo hablo con Asesinos cruzados."
+        "es-ES": "[Hombre observador]\n...\n¿Qué?\nSolo hablo con Asesinos cruzados."
     },
     "117ZAg": {
         "en-US": "[Akatt]\nFinally, it's time, isn't it?\nHey, what was your name?",
@@ -137,7 +137,7 @@
     "217ZAg": {
         "en-US": "No, not yet...",
         "pt-BR": "Não estou pronto.",
-        "es-ES": "No, todavía no…"
+        "es-ES": "No, todavía no..."
     },
     "3F7ZAg": {
         "en-US": "[Akatt]\n...Are you so careful?\nOr don't you want to do it at all?",
@@ -175,7 +175,7 @@
         "es-ES": "[Daora]\n¡Oye!\n¡Ese lugar está fuera de los límites!"
     },
     "417ZAg": {
-        "en-US": "=======================\n   Do not enter without my permission. \n    I'm not     \n     a generous person.             \n                  - Mayssel\n=======================",
+        "en-US": "=======================\n   Do not enter without my permission.\n    I'm not\n     a generous person.\n                  - Mayssel\n=======================",
         "pt-BR": "[-----------------------------]\nNão invadir sem \npermissão. \nEu não sou uma \npessoa generosa. \n- Mayshell \n[-----------------------------]",
         "es-ES": "=======================\n   No entres sin mi permiso. \n    No soy     \n     una persona generosa.             \n                  -Mayssel\n======================="
     },
@@ -252,7 +252,7 @@
     "8l7ZAg": {
         "en-US": "[Daora]\nThat sounds familiar.\nMm, mm... Oh, that's right!\nAkatt sent you, didn't he?",
         "pt-BR": "[Daora]\nAh, já ouvi seu nome antes.\nHumm... certo!\nVocê foi recomendado por Ahcart.",
-        "es-ES": "[Daora]\nMe suena familiar.\nMm, mm… ¡Ah, cierto!\nAkatt te envió, ¿no?"
+        "es-ES": "[Daora]\nMe suena familiar.\nMm, mm... ¡Ah, cierto!\nAkatt te envió, ¿no?"
     },
     "817ZAg": {
         "en-US": "[Daora]\nWelcome. See that entrance to a hallway over there in the corner?\nGo in there. Someone's there to give you more details.\nA special mission, huh? You've got your work cut out for you!",
@@ -392,7 +392,7 @@
     "Dl/ZAg": {
         "en-US": "[Daora]\nWhy? Disappointed?\nMm...\nNope. I'm still not going to sell it to you.",
         "pt-BR": "[Daora]\nPor quê? Está decepcionado?\nHumm\nNão posso deixar ninguém que esteja em serviço beber.",
-        "es-ES": "[Daora]\n¿Por qué? ¿Te decepcioné?\nMm…\nNo. De todo modos, no te lo venderé."
+        "es-ES": "[Daora]\n¿Por qué? ¿Te decepcioné?\nMm...\nNo. De todo modos, no te lo venderé."
     },
     "D1/ZAg": {
         "en-US": "[Daora]\nI said, no alcohol.\nBut if you want a glass of something else, sure.\nFor your information,",
@@ -442,7 +442,7 @@
     "GF/ZAg": {
         "en-US": "[Daora]\nThat sounds like she wants you to catch and punish some stranger in town.\nIs that what you were worried about?\nHm, let me think...",
         "pt-BR": "[Daora]\nEntão, significa apenas matar um cara estranho na vila?\nPor que você está em agonia por causa disso?\nHumm.... Deixe-me ver...",
-        "es-ES": "[Daora]\nSuena como si quisiera que atraparas y castigaras a algún extraño en el pueblo.\n¿Eso es lo que te preocupaba?\nMm, déjame pensar…"
+        "es-ES": "[Daora]\nSuena como si quisiera que atraparas y castigaras a algún extraño en el pueblo.\n¿Eso es lo que te preocupaba?\nMm, déjame pensar..."
     },
     "GV/ZAg": {
         "en-US": "[Daora]\nFirst, you need to ask around to find them, right?\nWhere are the most crowded places in town?\nTaverns and inns.",
@@ -457,7 +457,7 @@
     "G1/ZAg": {
         "en-US": "[Daora]\nThe best locals you can talk to are...\nTroban the vigilante, Krave the wholesaler, and Madelle at the tavern.",
         "pt-BR": "[Daora]\nPosso dizer aquilo especialmente...\nTrovan, o comerciante Crave e Madelle, que estão na taverna, aprendem fisionomias rapidamente.",
-        "es-ES": "[Daora]\nLos mejores lugareños con los que puedes hablar son…\nTrovan el justiciero, Crave el mayorista y Madelle en la taberna."
+        "es-ES": "[Daora]\nLos mejores lugareños con los que puedes hablar son...\nTrovan el justiciero, Crave el mayorista y Madelle en la taberna."
     },
     "HF/ZAg": {
         "en-US": "[Daora]\nThis is good enough information to get you going, isn't it?",
@@ -522,7 +522,7 @@
     "KF/ZAg": {
         "en-US": "[{0}]\nBased on the information I've collected so far...",
         "pt-BR": "[{0}]\nDeixe-me coletar todas as informações.",
-        "es-ES": "[{0}]\nSegún la información que recolecté hasta ahora…"
+        "es-ES": "[{0}]\nSegún la información que recolecté hasta ahora..."
     },
     "KV/ZAg": {
         "en-US": "{0}",
@@ -547,7 +547,7 @@
     "LV/ZAg": {
         "en-US": "[{0}]\nBut Troban is suspicious of them because...",
         "pt-BR": "[{0}]\nMas Trovan suspeitou dele porque...",
-        "es-ES": "[{0}]\nPero Trovan sospecha de ellos porque…"
+        "es-ES": "[{0}]\nPero Trovan sospecha de ellos porque..."
     },
     "Ll/ZAg": {
         "en-US": "They're strange.",
@@ -597,7 +597,7 @@
     "N1/ZAg": {
         "en-US": "[{0}]\nMadelle said there was someone else behind him, in the dark.\nCan it be the woman who comes to buy groceries?\nOr...",
         "pt-BR": "[{0}]\nMadelle disse que viu mais uma pessoa na escuridão.\nEntão foi uma garota que trouxe os itens necessários?\nOu não...",
-        "es-ES": "[{0}]\nMadelle dijo que había alguien más detrás de él, en la oscuridad.\n¿Puede ser la mujer que viene a comprar comida?\nO…"
+        "es-ES": "[{0}]\nMadelle dijo que había alguien más detrás de él, en la oscuridad.\n¿Puede ser la mujer que viene a comprar comida?\nO..."
     },
     "OF/ZAg": {
         "en-US": "[{0}]\nYes, there has to be someone else.\nA third party, who gets things that they need, so they don't have to show up in public.\nOr it could simply be the one Madelle couldn't see.",
@@ -612,7 +612,7 @@
     "Ol/ZAg": {
         "en-US": "[{0}]\nMm...\nShould I look for more information? I don't think I have everything I need.",
         "pt-BR": "[{0}]\nHumm...\nEu preciso de mais informações. Acho que há algo mais necessário.",
-        "es-ES": "[{0}]\nMm…\n¿Debería buscar más información? No creo tener todo lo que necesito."
+        "es-ES": "[{0}]\nMm...\n¿Debería buscar más información? No creo tener todo lo que necesito."
     },
     "O1/ZAg": {
         "en-US": "{0}",
@@ -762,7 +762,7 @@
     "WF/ZAg": {
         "en-US": "[Daora]\n*Yawn...* How are you doing with your mission?",
         "pt-BR": "[Daora]\nAaaah... como está indo?",
-        "es-ES": "[Daora]\n*Bosteza…* ¿Cómo te va con tu misión?"
+        "es-ES": "[Daora]\n*Bosteza...* ¿Cómo te va con tu misión?"
     },
     "WV/ZAg": {
         "en-US": "Is there a dead-end alley?",
@@ -777,7 +777,7 @@
     "W1/ZAg": {
         "en-US": "[Daora]\nA dead-end alley?\nHmm, let me think...\nI can't think of a deader end than this watering hole...",
         "pt-BR": "[Daora]\nO beco sem saída?\nHummm... bem...\nHá um beco sem saída como a nossa taverna?",
-        "es-ES": "[Daora]\n¿Un callejón sin salida?\nMmm, déjame pensar…\nEl único callejón sin salida que se me ocurre es este abrevadero…"
+        "es-ES": "[Daora]\n¿Un callejón sin salida?\nMmm, déjame pensar...\nEl único callejón sin salida que se me ocurre es este abrevadero..."
     },
     "XF/ZAg": {
         "en-US": "[Daora]\nAh! There's an alley on the northeast side of the village\nthat stretches north and south,\nand it's blocked on the north end\nby densely built-up houses.",
@@ -857,7 +857,7 @@
     "a1/ZAg": {
         "en-US": "[Daora]\n...This is the Temple symbol.\nSuch an ornate key!\n...Hm.",
         "pt-BR": "[Daora]\n.. É um símbolo do templo.\nE tem um desenho extravagante.\n... Humm.",
-        "es-ES": "[Daora]\nEste es el símbolo del templo.\n¡Qué llave tan ornamentada!\n…Mmm…"
+        "es-ES": "[Daora]\nEste es el símbolo del templo.\n¡Qué llave tan ornamentada!\n...Mmm..."
     },
     "bF/ZAg": {
         "en-US": "[Daora]\nYou want to know the purpose of this key, don't you?\nThen, go to Rachel.\nThat's where this key's maker is.",
@@ -917,7 +917,7 @@
     "d1/ZAg": {
         "en-US": "[Daora]\nIts exact location?\nIt's...\non the field northwest of Veins.\nFollow the narrow trail led northeast.",
         "pt-BR": "[Daora]\nO local?\nBem...\nÉ o campo a noroeste de Veins.\nVocê pode seguir por uma estrada estreita em direção ao nordeste.",
-        "es-ES": "[Daora]\n¿Su ubicación exacta?\nEstá…\nen el campo al noroeste de Veins.\nSigue el sendero estrecho que lleva al noreste."
+        "es-ES": "[Daora]\n¿Su ubicación exacta?\nEstá...\nen el campo al noroeste de Veins.\nSigue el sendero estrecho que lleva al noreste."
     },
     "eF/ZAg": {
         "en-US": "[Daora]\nThat place is infested with ferocious wild dogs. Be careful.",
@@ -952,7 +952,7 @@
     "fl/ZAg": {
         "en-US": "[Daora]\n...Our milk is 500 Zeny a glass.\nAre you so poor that you can't even afford that? Tsk, tsk.",
         "pt-BR": "[Daora]\n... O dinheiro. Eu disse que custava 500 zenys.\nUm pobre homem. Você tem apenas uma figura magra!",
-        "es-ES": "[Daora]\n…Un vaso de nuestra leche cuesta 500zeny.\n¿Eres tan pobre que ni siquiera puedes pagar eso? *Tsc, tsc*"
+        "es-ES": "[Daora]\n...Un vaso de nuestra leche cuesta 500zeny.\n¿Eres tan pobre que ni siquiera puedes pagar eso? *Tsc, tsc*"
     },
     "f1/ZAg": {
         "en-US": "[Daora]\nDon't you dare speak to your senior like that!",
@@ -992,7 +992,7 @@
     "hl/ZAg": {
         "en-US": "[Daora]\nErr, mm...\nThat would be difficult, but okay. Anything for you, hon.",
         "pt-BR": "[Daora]\nHum... humm.\nÉ um pedido complicado, mas não tenho escolha porque quero que você vá embora.",
-        "es-ES": "[Daora]\nEh, mm…\nEso sería difícil, pero está bien. Lo que sea por ti, cariño."
+        "es-ES": "[Daora]\nEh, mm...\nEso sería difícil, pero está bien. Lo que sea por ti, cariño."
     },
     "h1/ZAg": {
         "en-US": "[Daora]\nI'm sorry to charge you 500 Zeny for milk, but I can't help it.\nIt's almost impossible to get milk in Veins.",
@@ -1002,12 +1002,12 @@
     "iF/ZAg": {
         "en-US": "[Daora]\nMm... I'm sorry,\nbut we ran out of milk.",
         "pt-BR": "[Daora]\nHumm... Será que não posso ajudar?\nNão há leite em Veins.",
-        "es-ES": "[Daora]\nMm… Lo siento,\npero nos quedamos sin leche."
+        "es-ES": "[Daora]\nMm... Lo siento,\npero nos quedamos sin leche."
     },
     "iV/ZAg": {
         "en-US": "[Daora]\nHm... You're good. Not as good as I was in my prime, but good.\nSo, what can I get for you?",
         "pt-BR": "[Daora]\nHumm... Você é bonito, como eu quando era jovem.\nO que você quer?",
-        "es-ES": "[Daora]\nMmm… Lo haces bien. No tan bien como en mis mejores tiempos, pero bien.\n¿Qué puedo hacer por ti?"
+        "es-ES": "[Daora]\nMmm... Lo haces bien. No tan bien como en mis mejores tiempos, pero bien.\n¿Qué puedo hacer por ti?"
     },
     "il/ZAg": {
         "en-US": "[Daora]\nHuh? Milk?\nPoof! Seriously? Milk?",
@@ -1062,12 +1062,12 @@
     "lF/ZAg": {
         "en-US": "...Err...",
         "pt-BR": "Certo...",
-        "es-ES": "…Ehh…"
+        "es-ES": "...Ehh..."
     },
     "lV/ZAg": {
         "en-US": "So, my mission is...?",
         "pt-BR": "Então, a tarefa é...?",
-        "es-ES": "Entonces, ¿mi misión es…?"
+        "es-ES": "Entonces, ¿mi misión es...?"
     },
     "ll/ZAg": {
         "en-US": "[Mayssel]\n...Do you want to know how they look?\nFind out on your own.\nHow do you recognize them?\nThat's up to you, too.",
@@ -1147,7 +1147,7 @@
     "pV/ZAg": {
         "en-US": "[Mayssel]\nDon't you have the key?\n...This is not good.\nNot good at all.",
         "pt-BR": "[Mayshell]\nVocê não trouxe uma chave?\n... Ficarei encrencado\nmesmo.",
-        "es-ES": "[Mayssel]\n¿No tienes la llave?\n…Esto no está bien.\nNada bien."
+        "es-ES": "[Mayssel]\n¿No tienes la llave?\n...Esto no está bien.\nNada bien."
     },
     "pl/ZAg": {
         "en-US": "[Mayssel]\nHonestly, I didn't think you could manage this far without knowing who our target was.\nYou're better than I thought.",
@@ -1202,12 +1202,12 @@
     "sF/ZAg": {
         "en-US": "[Mayssel]\nYour grade for this mission is...\nB.",
         "pt-BR": "[Mayshell]\nA avaliação de sua tarefa é \n....[B].",
-        "es-ES": "[Mayssel]\nTu calificación para esta misión es…\nB."
+        "es-ES": "[Mayssel]\nTu calificación para esta misión es...\nB."
     },
     "sV/ZAg": {
         "en-US": "[Mayssel]\nBy accomplishing this mission, you've also earned a new title.\nYet another identity of us Assassins, the shadows of the world...",
         "pt-BR": "[Mayshell]\nVocê obteve uma nova qualificação por completar uma tarefa.\nA sombra de um mercenário é como a sombra do mundo...",
-        "es-ES": "[Mayssel]\nAl cumplir esta misión, también ganaste un nuevo título.\nOtra identidad de nosotros los Asesinos, las sombras del mundo…"
+        "es-ES": "[Mayssel]\nAl cumplir esta misión, también ganaste un nuevo título.\nOtra identidad de nosotros los Asesinos, las sombras del mundo..."
     },
     "sl/ZAg": {
         "en-US": "[Mayssel]\n^4D4DFFGuillotine Cross^000000.\nYou don't have to take it if you don't want to, but it'll always be available for you.",
@@ -1232,7 +1232,7 @@
     "tl/ZAg": {
         "en-US": "[Mayssel]\nYour grade for this mission is...\nS,\nmeaning special.",
         "pt-BR": "[Mayshell]\nA avaliação de sua tarefa é \n....[S].\n[S] significa 'especial'.",
-        "es-ES": "[Mayssel]\nTu calificación para esta misión es…\nE,\nque significa especial."
+        "es-ES": "[Mayssel]\nTu calificación para esta misión es...\nE,\nque significa especial."
     },
     "t1/ZAg": {
         "en-US": "[Mayssel]\nYou took advantage of Dora's advice at times.\nBut didn't I ask you?",
@@ -1247,7 +1247,7 @@
     "uV/ZAg": {
         "en-US": "[Mayssel]\nI think highly of such aspect.\nSo, I'll give you... A for this mission.",
         "pt-BR": "[Mayshell]\nGosto disso.\nA avaliação de sua tarefa é... [A].",
-        "es-ES": "[Mayssel]\nTengo en alta estima ese aspecto.\nPor eso, te daré… una A por esta misión."
+        "es-ES": "[Mayssel]\nTengo en alta estima ese aspecto.\nPor eso, te daré... una A por esta misión."
     },
     "ul/ZAg": {
         "en-US": "[Mayssel]\nAnd one more thing:\n^4D4DFFdo not leave any record^000000 of this mission in any form.",
@@ -1272,37 +1272,37 @@
     "vl/ZAg": {
         "en-US": "[Mayssel]\nRenzak already told me\nthat you... Well, I'm glad you came back safely.\nBut speed is as vital as our own lives.",
         "pt-BR": "[Mayshell]\nJá fiz o relatório de Renzak.\nSim... é você. Fico muito feliz em ver você.\nMas velocidade é muito importante para nós.",
-        "es-ES": "[Mayssel]\nRenzak ya me dijo\nque tú… Bueno, me alegra que estés a salvo.\nPero la velocidad es tan vital como nuestras propias vidas."
+        "es-ES": "[Mayssel]\nRenzak ya me dijo\nque tú... Bueno, me alegra que estés a salvo.\nPero la velocidad es tan vital como nuestras propias vidas."
     },
     "v1/ZAg": {
         "en-US": "[Mayssel]\nYou didn't make it in time...\nWell, forget it. At least you didn't die.",
         "pt-BR": "[Mayshell]\nVocê não foi pontual...\nOk. Está tudo bem. Você só tem que voltar com vida.",
-        "es-ES": "[Mayssel]\nNo llegaste a tiempo…\nBueno, olvídalo. Al menos no moriste."
+        "es-ES": "[Mayssel]\nNo llegaste a tiempo...\nBueno, olvídalo. Al menos no moriste."
     },
     "wF/ZAg": {
         "en-US": "[Mayssel]\nYour grade for this mission is...\nC.\nI suggest you be more independent.",
         "pt-BR": "[Mayshell]\nA avaliação de sua tarefa é \n....[C].\nVocê precisa agir sozinho.",
-        "es-ES": "[Mayssel]\nTu calificación para esta misión es…\nC.\nTe sugiero que seas más independiente."
+        "es-ES": "[Mayssel]\nTu calificación para esta misión es...\nC.\nTe sugiero que seas más independiente."
     },
     "wV/ZAg": {
         "en-US": "[Mayssel]\nYour grade for this mission is...\nA.\nI would have given you a higher grade if you made it in time.",
         "pt-BR": "[Mayshell]\nA avaliação de sua tarefa é \n....[A].\nSe for pontual, você poderá obter uma avaliação alta.",
-        "es-ES": "[Mayssel]\nTu calificación para esta misión es…\nA.\nTe habría dado una calificación más alta si hubieras llegado a tiempo."
+        "es-ES": "[Mayssel]\nTu calificación para esta misión es...\nA.\nTe habría dado una calificación más alta si hubieras llegado a tiempo."
     },
     "wl/ZAg": {
         "en-US": "[Mayssel]\nI think highly of such aspect.\nSo, I'll give you... B for this mission.",
         "pt-BR": "[Mayshell]\nGosto disso.\nA avaliação de sua tarefa é... [B].",
-        "es-ES": "[Mayssel]\nTengo en alta estima ese aspecto.\nPor eso, te daré… una B por esta misión."
+        "es-ES": "[Mayssel]\nTengo en alta estima ese aspecto.\nPor eso, te daré... una B por esta misión."
     },
     "w1/ZAg": {
         "en-US": "[Mayssel]\n...You have the Guild's recognition.\nYou're welcome to take the position of Guillotine Cross anytime.",
         "pt-BR": "[Mayshell]\n... Você é reconhecido pela guilda. \nSinta-se à vontade para vir aqui sempre que quiser ser um sicário.",
-        "es-ES": "[Mayssel]\n…Tienes el reconocimiento del gremio.\nPuedes tomar el puesto de Cortador de cruces cuando quieras."
+        "es-ES": "[Mayssel]\n...Tienes el reconocimiento del gremio.\nPuedes tomar el puesto de Cortador de cruces cuando quieras."
     },
     "xF/ZAg": {
         "en-US": "[Mayssel]\nAlthough that position comes with heavy, bloody responsibility.\n...",
         "pt-BR": "[Mayshell]\nEssa escolha significa que você terá que andar pela rua de sangue novamente.\n...",
-        "es-ES": "[Mayssel]\nAunque ese puesto conlleva una gran y sangrienta responsabilidad.\n…"
+        "es-ES": "[Mayssel]\nAunque ese puesto conlleva una gran y sangrienta responsabilidad.\n..."
     },
     "xV/ZAg": {
         "en-US": "[Mayssel]\nVerkhasel is in the opposite room.\nYou should talk to him.",
@@ -1312,7 +1312,7 @@
     "xl/ZAg": {
         "en-US": "[Mayssel]\n...To tell you the truth, even though I granted you the new position,\nI'm not happy about that.",
         "pt-BR": "[Mayshell]\n... Apesar de eu ter lhe dado uma qualificação,\nnão quero comemorar o fato de você tê-la usado.",
-        "es-ES": "[Mayssel]\n…A decir verdad, aunque te concedí el nuevo puesto,\nno me genera mucha satisfacción."
+        "es-ES": "[Mayssel]\n...A decir verdad, aunque te concedí el nuevo puesto,\nno me genera mucha satisfacción."
     },
     "x1/ZAg": {
         "en-US": "[Mayssel]\nBecause it'll lead you to another perilous path that might force you to give up your humanity.\nAnd I sent you there.",
@@ -1327,12 +1327,12 @@
     "yV/ZAg": {
         "en-US": "[Mayssel]\nThe Guillotine Cross is the fate of those who walk in the shadow of the moon in the thick of the night.\nBut please, don't ever forget your humanity...",
         "pt-BR": "[Mayshell]\nEm uma noite escura, é o destino de uma pessoa que está andando pela sombra da lua.\nEspero que guarde seus pensamentos, por favor...",
-        "es-ES": "[Mayssel]\nEl Cortador de cruces es el destino de aquellos que caminan bajo la sombra de la luna en lo profundo de la noche.\nPero, por favor, no olvides nunca tu humanidad…"
+        "es-ES": "[Mayssel]\nEl Cortador de cruces es el destino de aquellos que caminan bajo la sombra de la luna en lo profundo de la noche.\nPero, por favor, no olvides nunca tu humanidad..."
     },
     "yl/ZAg": {
         "en-US": "[Mayssel]\n...I don't remember letting you come in here.",
         "pt-BR": "[Mayshell]\n... não podíamos permitir a sua entrada...",
-        "es-ES": "[Mayssel]\n…No recuerdo haberte dejado entrar aquí."
+        "es-ES": "[Mayssel]\n...No recuerdo haberte dejado entrar aquí."
     },
     "y1/ZAg": {
         "en-US": "Employee",
@@ -1377,7 +1377,7 @@
     "01/ZAg": {
         "en-US": "You...",
         "pt-BR": "Você é...",
-        "es-ES": "Tú…"
+        "es-ES": "Tú..."
     },
     "1F/ZAg": {
         "en-US": "I'm sorry, but your name?",
@@ -1422,7 +1422,7 @@
     "3F/ZAg": {
         "en-US": "[Madelle]\nIf you're asking about someone other than those, then...\nSure, I did.",
         "pt-BR": "[Madelle]\nMas, se eles não são desse tipo de pessoa...\nSim, havia estranhos.",
-        "es-ES": "[Madelle]\nSi preguntas por alguien más, entonces…\nClaro que sí."
+        "es-ES": "[Madelle]\nSi preguntas por alguien más, entonces...\nClaro que sí."
     },
     "3V/ZAg": {
         "en-US": "How did they look like?",
@@ -1492,7 +1492,7 @@
     "6l/ZAg": {
         "en-US": "[Employee]\nMm, let me think...\nIf you're hungry, you can try our course meal.\nIt's 5,000 Zeny. Would you like to order it?",
         "pt-BR": "[Garçonete]\nHã? Bem...\nSe você quer um prato simples, peça uma refeição de nosso cardápio pronto.\nCusta 5000 zenys, você quer?",
-        "es-ES": "[Empleada]\nA ver, déjame pensar…\nSi tienes hambre, puedes probar nuestro menú de pasos.\nSon 5000zeny. ¿Quieres pedirlo?"
+        "es-ES": "[Empleada]\nA ver, déjame pensar...\nSi tienes hambre, puedes probar nuestro menú de pasos.\nSon 5000zeny. ¿Quieres pedirlo?"
     },
     "61/ZAg": {
         "en-US": "[Employee]\nThere you go, our special course meal of the day.\nPlease let me know if you need anything.",
@@ -1577,7 +1577,7 @@
     "+1/ZAg": {
         "en-US": "[Employee]\nOh, right--my name is Madelle.\nIn case you're wondering who I am, talking to you so long.",
         "pt-BR": "[Garçonete]\nPor falar nisso, meu nome é Madelle.\nEu espero que você se lembre do meu nome.",
-        "es-ES": "[Empleada]\nOh, cierto… mi nombre es Madelle.\nEn caso de que te preguntes quién soy después de hablar contigo tanto tiempo."
+        "es-ES": "[Empleada]\nOh, cierto... mi nombre es Madelle.\nEn caso de que te preguntes quién soy después de hablar contigo tanto tiempo."
     },
     "/F/ZAg": {
         "en-US": "[Employee]\nThe course meal of the day is 5,000 Zeny,\nand you have to\npay upfront.",
@@ -1617,7 +1617,7 @@
     "A2DZAg": {
         "en-US": "[Young Merchant]\nThen, I should bring in more potions next time...\nMm? How may I help you?",
         "pt-BR": "[Young mercahnt]\nQue tal aumentar a poção da próxima vez...\nHã? Você tem algo para me contar?",
-        "es-ES": "[Joven comerciante]\nEntonces, tendré que traer más pociones la próxima vez…\n¿Mm? ¿En qué puedo ayudarte?"
+        "es-ES": "[Joven comerciante]\nEntonces, tendré que traer más pociones la próxima vez...\n¿Mm? ¿En qué puedo ayudarte?"
     },
     "BGDZAg": {
         "en-US": "Do you know Krave?",
@@ -1647,7 +1647,7 @@
     "CWDZAg": {
         "en-US": "[Krave]\nAnyone strange? You're from Daora, so...\nOkay, I think I know what you mean.",
         "pt-BR": "[Crave]\nUm estranho... relacionado aos negócios de Daora.\nOk. Entendo o que você está falando.",
-        "es-ES": "[Crave]\n¿Alguien extraño? Eres de Daora, así que…\nSí, creo que entiendo a lo que te refieres."
+        "es-ES": "[Crave]\n¿Alguien extraño? Eres de Daora, así que...\nSí, creo que entiendo a lo que te refieres."
     },
     "CmDZAg": {
         "en-US": "[Krave]\nI've been watching the shops around here,\nand a few days ago, I saw a new face.\nA woman.",
@@ -1682,7 +1682,7 @@
     "EGDZAg": {
         "en-US": "[Young Merchant]\nHow may I help you?\nI'm not a retailer. If you want to shop, then please talk to--",
         "pt-BR": "[Jovem Mercador]\nO que foi?\nSou um comerciante, mas não vendo a varejo, então, se você quiser comprar um item, procure outros.",
-        "es-ES": "[Joven comerciante]\n¿En qué puedo ayudarte?\nNo soy comerciante minorista. Si quieres comprar, habla con…"
+        "es-ES": "[Joven comerciante]\n¿En qué puedo ayudarte?\nNo soy comerciante minorista. Si quieres comprar, habla con..."
     },
     "EWDZAg": {
         "en-US": "Haven't you seen anyone suspicious?",
@@ -1712,7 +1712,7 @@
     "FmDZAg": {
         "en-US": "[Young Merchant]\nNot only do we have to remember the quality of products we sell, but we also have to remember our clients, so we can continue to do business with them.\nHaving many regulars is the key--",
         "pt-BR": "[Jovem Mercador]\nTenho que memorizar o rosto das pessoas que fazem negócios comigo, então poderei lucrar.\nPoderei ter clientes fixos.",
-        "es-ES": "[Joven comerciante]\nNo solo tenemos que recordar la calidad de los productos que vendemos, sino también a nuestros clientes para poder seguir haciendo negocios con ellos.\nLa clave es tener muchos clientes habituales…"
+        "es-ES": "[Joven comerciante]\nNo solo tenemos que recordar la calidad de los productos que vendemos, sino también a nuestros clientes para poder seguir haciendo negocios con ellos.\nLa clave es tener muchos clientes habituales..."
     },
     "F2DZAg": {
         "en-US": "I'm looking for my runaway cousin.",
@@ -1747,12 +1747,12 @@
     "HWDZAg": {
         "en-US": "[Krave]\nOh, is she?\nMy name is Krave. If you find your cousin, please ask her to call me--",
         "pt-BR": "[Crave]\nAh, é?\nEu sou Crave. Se você encontrá-la mais tarde, por favor, entre em contato comigo.",
-        "es-ES": "[Crave]\n¿Ah, sí?\nMe llamo Crave. Si encuentras a tu prima, dile que me llame…"
+        "es-ES": "[Crave]\n¿Ah, sí?\nMe llamo Crave. Si encuentras a tu prima, dile que me llame..."
     },
     "HmDZAg": {
         "en-US": "[Krave]\nDon't look at me like that.\nI'm a successful businessman. I can take good care of your--",
         "pt-BR": "[Crave]\nNão me olhe com raiva.\nSou um homem habilidoso.",
-        "es-ES": "[Crave]\nNo me mires así.\nSoy un exitoso hombre de negocios. Puedo cuidar bien de tu…"
+        "es-ES": "[Crave]\nNo me mires así.\nSoy un exitoso hombre de negocios. Puedo cuidar bien de tu..."
     },
     "H2DZAg": {
         "en-US": "Where did you see her?",
@@ -1787,7 +1787,7 @@
     "JWDZAg": {
         "en-US": "[Young Merchant]\nI was just talking about making regulars. What's that look on your face?\nOh, wait... You're...?\nYou're a blade of darkness who has no business remembering faces.",
         "pt-BR": "[Jovem Mercador]\nPor que você muda de expressão quando falo de um cliente fixo?\nOh, você está...\nÉ uma espada das trevas que não pode gerar lucros que não estejam relacionados a memorizar o rosto das pessoas.",
-        "es-ES": "[Joven comerciante]\nJusto estaba hablando de hacer clientes habituales. ¿Qué es esa mirada en tu rostro?\nOh, espera… ¿Tú eres…?\nEres un espadachín de la oscuridad que no tiene nada que hacer recordando rostros."
+        "es-ES": "[Joven comerciante]\nJusto estaba hablando de hacer clientes habituales. ¿Qué es esa mirada en tu rostro?\nOh, espera... ¿Tú eres...?\nEres un espadachín de la oscuridad que no tiene nada que hacer recordando rostros."
     },
     "JmDZAg": {
         "en-US": "[Krave]\nHello.\nDid you find the person you were looking for?",
@@ -1842,7 +1842,7 @@
     "MGDZAg": {
         "en-US": "[Troban]\nDaora wouldn't want anyone who stays at the inn like everyone else, either.\nIf I exclude those inn guests as well...",
         "pt-BR": "[Trovan]\nSe Daora o encontrou, não deve ser uma pessoa qualquer.\nEntão, devemos excluir visitantes...",
-        "es-ES": "[Trovan]\nDaora tampoco querría a nadie que se quede en la posada como todos los demás.\nSi también excluyo a los huéspedes de la posada…"
+        "es-ES": "[Trovan]\nDaora tampoco querría a nadie que se quede en la posada como todos los demás.\nSi también excluyo a los huéspedes de la posada..."
     },
     "MWDZAg": {
         "en-US": "[Troban]\nI think I know who you're looking for.\nA few days ago, a priest arrived late at night.\nI couldn't see his face because he was wearing a hood and standing against the moon,",
@@ -1897,7 +1897,7 @@
     "O2DZAg": {
         "en-US": "[Troban]\nYou're looking for some suspicious individual who recently came in or left the village.\nMm...",
         "pt-BR": "[Trovan]\nVocê viu alguma pessoa suspeita entrando nesta vila recentemente?\nHumm...",
-        "es-ES": "[Trovan]\nBuscas a un individuo sospechoso que haya entrado o salido de la aldea recientemente.\nMm…"
+        "es-ES": "[Trovan]\nBuscas a un individuo sospechoso que haya entrado o salido de la aldea recientemente.\nMm..."
     },
     "PGDZAg": {
         "en-US": "[Troban]\nRecently, I've seen a man wearing a deep hood here and there in the village.\nNot a tourist, of course. And he always leaves the village with bags full of stuff.",
@@ -1907,7 +1907,7 @@
     "PWDZAg": {
         "en-US": "[Troban]\nI was getting curious about him myself.\nMaybe he's from the Temple...\nor not.",
         "pt-BR": "[Trovan]\nQueria saber a identidade dele.\nAcho que ele tem alguma relação com um templo...\nOu talvez não...",
-        "es-ES": "[Trovan]\nYo también sentía curiosidad por él.\nTal vez sea del Templo…\no no."
+        "es-ES": "[Trovan]\nYo también sentía curiosidad por él.\nTal vez sea del Templo...\no no."
     },
     "PmDZAg": {
         "en-US": "[Troban]\nI know he doesn't live here.\nAlso, I wonder where he's taking all the things he buys.",
@@ -2017,7 +2017,7 @@
     "U2DZAg": {
         "en-US": "...Hm.",
         "pt-BR": "Humm...",
-        "es-ES": "…Mmm…"
+        "es-ES": "...Mmm..."
     },
     "VGDZAg": {
         "en-US": "[{0}]\n(I don't have time to help anyone at the moment,\nbut this woman he's talking about does sound suspicious.)",
@@ -2312,17 +2312,17 @@
     "jmDZAg": {
         "en-US": "[Melissa]\nYoung adult...\nlike you?",
         "pt-BR": "[Melissa]\nUma pessoa jovem.\nComo você?",
-        "es-ES": "[Melissa]\nAdulto joven…\n¿como tú?"
+        "es-ES": "[Melissa]\nAdulto joven...\n¿como tú?"
     },
     "j2DZAg": {
         "en-US": "[Melissa]\nMiddle-aged...\nlike the tool shop merchant?",
         "pt-BR": "[Melissa]\nDa mesma idade do vendedor de ferramentas?\nDe meia-idade.",
-        "es-ES": "[Melissa]\nDe mediana edad…\n¿como el comerciante de la tienda de herramientas?"
+        "es-ES": "[Melissa]\nDe mediana edad...\n¿como el comerciante de la tienda de herramientas?"
     },
     "kGDZAg": {
         "en-US": "[Melissa]\nMm, old...",
         "pt-BR": "[Melissa]\nSim, de idade bem avançada.",
-        "es-ES": "[Melissa]\nMm, mayor…"
+        "es-ES": "[Melissa]\nMm, mayor..."
     },
     "kWDZAg": {
         "en-US": "[Melissa]",
@@ -2332,12 +2332,12 @@
     "kmDZAg": {
         "en-US": "Mister, if I look for your friend based on your information...",
         "pt-BR": "Senhor, se eu procurar seu amigo com base em suas informações...",
-        "es-ES": "Señor, si busco a su persona amiga a partir de su información…"
+        "es-ES": "Señor, si busco a su persona amiga a partir de su información..."
     },
     "k2DZAg": {
         "en-US": "Lady, if I look for your friend based on your information...",
         "pt-BR": "Senhora, se eu procurar seu amigo com base em suas informações...",
-        "es-ES": "Señora, si busco a su persona amiga a partir de su información…"
+        "es-ES": "Señora, si busco a su persona amiga a partir de su información..."
     },
     "lGDZAg": {
         "en-US": "Melissa mumbles something, looking up at the sky, as if to signal something.\nHer hair that sticks up from her head strangely looks like an antenna.",
@@ -2357,7 +2357,7 @@
     "l2DZAg": {
         "en-US": "[Melissa]\nShe's... Yes,\nshe'll pass by the dead-end alley\nin about an hour from now.\nTeehee!",
         "pt-BR": "[Melissa]\nHumm... essa garota...\nvai passar por\num beco sem saída em\ncerca de uma hora!\nHehehe!",
-        "es-ES": "[Melissa]\nElla es… Sí.\nPasará por el callejón sin salida\nmás o menos en una hora.\n¡Iuju!"
+        "es-ES": "[Melissa]\nElla es... Sí.\nPasará por el callejón sin salida\nmás o menos en una hora.\n¡Iuju!"
     },
     "mGDZAg": {
         "en-US": "[Melissa]\nI'm good, am I not?\nThen, please pat me on the head!",
@@ -2392,17 +2392,17 @@
     "nmDZAg": {
         "en-US": "[Melissa]\nMm... Mmm...\nSomeone who match that description... Mm...",
         "pt-BR": "[Melissa]\nHumm...\nA pessoa que tem essas características é...",
-        "es-ES": "[Melissa]\nMm… Mmm…\nAlguien que coincida con esa descripción… Mm…"
+        "es-ES": "[Melissa]\nMm... Mmm...\nAlguien que coincida con esa descripción... Mm..."
     },
     "n2DZAg": {
         "en-US": "[Melissa]\nErr... I've never been wrong, but...\nNo... I can't see anyone like that...",
         "pt-BR": "[Melissa]\nQuê...? Argh, eu nunca me engano.\nNão sei por que não consigo ver essa pessoa.",
-        "es-ES": "[Melissa]\nEh… Nunca me equivoqué, pero…\nNo… No veo a nadie así…"
+        "es-ES": "[Melissa]\nEh... Nunca me equivoqué, pero...\nNo... No veo a nadie así..."
     },
     "oGDZAg": {
         "en-US": "[Melissa]\nHnng... BOOHOO!",
         "pt-BR": "[Melissa]\nUáááááá! Uáááá!",
-        "es-ES": "[Melissa]\nMmm… ¡BÚÚÚ!"
+        "es-ES": "[Melissa]\nMmm... ¡BÚÚÚ!"
     },
     "oWDZAg": {
         "en-US": "It took me a long time to calm her.\nI should think about the suspect's characteristics again.",
@@ -2417,7 +2417,7 @@
     "o2DZAg": {
         "en-US": "[Melissa]\nShe will... mm... pass by the alley over there in about an hour.\nHere, let me show you time.",
         "pt-BR": "[Melissa]\nÉ estranho.\nNesta vila, as pessoas estão sempre procurando por alguém.",
-        "es-ES": "[Melissa]\nElla… mm… pasará por el callejón de allí más o menos en una hora.\nAquí, déjame mostrarte la hora."
+        "es-ES": "[Melissa]\nElla... mm... pasará por el callejón de allí más o menos en una hora.\nAquí, déjame mostrarte la hora."
     },
     "pGDZAg": {
         "en-US": "[Melissa]\nHave you found Estillda yet?\nPlease tell her Melissa thanks her for the candy.",
@@ -2432,12 +2432,12 @@
     "pmDZAg": {
         "en-US": "[Melissa]\nDaora said I shouldn't tell anyone this.\n...They must be a bad angel, aren't they?",
         "pt-BR": "[Melissa]\nEu contei essa história para Daora e ela me disse para não fazer isso novamente.\nTalvez ela não seja um anjo bom.",
-        "es-ES": "[Melissa]\nDaora dijo que no debería contarle esto a nadie.\n…Debe ser un ángel malo, ¿no?"
+        "es-ES": "[Melissa]\nDaora dijo que no debería contarle esto a nadie.\n...Debe ser un ángel malo, ¿no?"
     },
     "p2DZAg": {
         "en-US": "...?\nSomeone else is here.\nI still have some time left.",
         "pt-BR": ".....?\nHá um sinal da presença de alguém.\nVocê ainda tem tempo.",
-        "es-ES": "¿…?\nAlguien más está aquí.\nTodavía me queda algo de tiempo."
+        "es-ES": "¿...?\nAlguien más está aquí.\nTodavía me queda algo de tiempo."
     },
     "qGDZAg": {
         "en-US": "That has to be the dead-end alley\nthat Melissa mentioned.",
@@ -2447,7 +2447,7 @@
     "qWDZAg": {
         "en-US": "Someone else is here.\nIt's... a blonde woman!",
         "pt-BR": "Há um sinal da presença de alguém.\nUma garota loira aparece!",
-        "es-ES": "Alguien más está aquí.\nEs… ¡una mujer rubia!"
+        "es-ES": "Alguien más está aquí.\nEs... ¡una mujer rubia!"
     },
     "qmDZAg": {
         "en-US": "Approach her.",
@@ -2532,7 +2532,7 @@
     "umDZAg": {
         "en-US": "[Estillda]\nAh... Okay.\nWhat do you want me to do?",
         "pt-BR": "[Estillda]\nVocê promete, certo?\nEm que posso ajudar?",
-        "es-ES": "[Estillda]\nAh… Bueno.\n¿Qué quieres que haga?"
+        "es-ES": "[Estillda]\nAh... Bueno.\n¿Qué quieres que haga?"
     },
     "u2DZAg": {
         "en-US": "When are you meeting him?",
@@ -2547,7 +2547,7 @@
     "vWDZAg": {
         "en-US": "[Estillda]\nOh, these... They're mine.\nI bought them with the money he gave me.",
         "pt-BR": "[Estillda]\nAh, essas coisas são minhas.\nTenho um monte de zenys.",
-        "es-ES": "[Estillda]\nOh, esto… Es mío.\nLo compré con el dinero que me dio."
+        "es-ES": "[Estillda]\nOh, esto... Es mío.\nLo compré con el dinero que me dio."
     },
     "vmDZAg": {
         "en-US": "[{0}]\nThen, just walk away\nas if nothing happened.",
@@ -2612,7 +2612,7 @@
     "ymDZAg": {
         "en-US": "[Estillda]\nHuh? I-I guess...\nI thought you Assassins were scary people.\nYou're nicer than I thought.",
         "pt-BR": "[Estillda]\nSim? Sim... \nPensei que mercenários fossem assustadores.\nMas acho que não...",
-        "es-ES": "[Estillda]\n¿Eh? Su-supongo…\nCreía que ustedes, los Asesinos, eran personas aterradoras.\nEres más agradable de lo que pensaba."
+        "es-ES": "[Estillda]\n¿Eh? Su-supongo...\nCreía que ustedes, los Asesinos, eran personas aterradoras.\nEres más agradable de lo que pensaba."
     },
     "y2DZAg": {
         "en-US": "You're not from Veins, are you?",
@@ -2622,7 +2622,7 @@
     "zGDZAg": {
         "en-US": "[Estillda]\nHuh? No...\nI'm from Rachel.\n...He said he'd pay me, so...\nI needed money. I had no choice.",
         "pt-BR": "[Estillda]\nSim? Sim...\nEu vim de Rachel.\nEstou aqui para ganhar zenys.\nTinha uma vida infeliz em Rachel.",
-        "es-ES": "[Estillda]\n¿Eh? No…\nSoy de Rachel.\n…Dijo que me pagaría, así que…\nNecesitaba dinero. No tenía opción."
+        "es-ES": "[Estillda]\n¿Eh? No...\nSoy de Rachel.\n...Dijo que me pagaría, así que...\nNecesitaba dinero. No tenía opción."
     },
     "zWDZAg": {
         "en-US": "Did you come alone with him?",
@@ -2647,17 +2647,17 @@
     "0WDZAg": {
         "en-US": "[Estillda]\n...I-I'm a Rachel native.\nBefore, I worked for someone as the help.\nI didn't hate it, but I didn't like it, either.\nSo, I left my employer.",
         "pt-BR": "[Estillda]\nSou uma nativa.\nTrabalho na casa dele.\nNão acho que seja ruim.\nHavia acabado de sair de casa...",
-        "es-ES": "[Estillda]\n…So-soy oriunda de Rachel.\nSolía trabajar para alguien como ayudante.\nNo me disgustaba, pero tampoco me encantaba.\nAsí que dejé a mi empleador."
+        "es-ES": "[Estillda]\n...So-soy oriunda de Rachel.\nSolía trabajar para alguien como ayudante.\nNo me disgustaba, pero tampoco me encantaba.\nAsí que dejé a mi empleador."
     },
     "0mDZAg": {
         "en-US": "[Estillda]\nThen, he showed up and said\nhe needed a maid to take with him on a trip.\nHis offer was generous, so...",
         "pt-BR": "[Estillda]\nEle disse que precisava de uma empregada e que poderia me pagar dinheiro suficiente.",
-        "es-ES": "[Estillda]\nEntonces, apareció él y me dijo\nque necesitaba una criada para llevársela de viaje.\nSu oferta era generosa, así que…"
+        "es-ES": "[Estillda]\nEntonces, apareció él y me dijo\nque necesitaba una criada para llevársela de viaje.\nSu oferta era generosa, así que..."
     },
     "02DZAg": {
         "en-US": "[Estillda]\nBut I swear, I didn't know him before I came here.\nAnd... I'm never going to follow a stranger again.\nI want to go home... I miss my mom.",
         "pt-BR": "[Estillda]\nNa verdade, eu não o conheço bem.\n... Eu jamais farei isso.\nEu quero ir para casa. Sinto falta da minha mãe.",
-        "es-ES": "[Estillda]\nPero juro que no lo conocía antes de venir aquí.\nY… Nunca volveré a seguir a un extraño.\nQuiero irme a casa… Extraño a mi madre."
+        "es-ES": "[Estillda]\nPero juro que no lo conocía antes de venir aquí.\nY... Nunca volveré a seguir a un extraño.\nQuiero irme a casa... Extraño a mi madre."
     },
     "1GDZAg": {
         "en-US": "You'll go home soon.",
@@ -2677,7 +2677,7 @@
     "12DZAg": {
         "en-US": "[Estillda]\nI know. I'm sorry.\nPlease, I'll do anything you ask...",
         "pt-BR": "[Estillda]\nDesculpe. Desculpe.\nVou fazer o que você deseja.",
-        "es-ES": "[Estillda]\nLo sé. Lo siento.\nPor favor, haré todo lo que me pidas…"
+        "es-ES": "[Estillda]\nLo sé. Lo siento.\nPor favor, haré todo lo que me pidas..."
     },
     "2GDZAg": {
         "en-US": "[{0}]\nThat attitude. That's your problem.\nLet's cut to the chase.",
@@ -2697,7 +2697,7 @@
     "22DZAg": {
         "en-US": "[Estillda]\nMaybe he's so picky about his food. I don't know.\nBut I didn't mind being payed every day, which he did, so...",
         "pt-BR": "[Estillda]\nAcho que ele é muito exigente quanto à comida...\nE eu ganho dinheiro sempre que entrego os alimentos...",
-        "es-ES": "[Estillda]\nQuizá es quisquilloso con la comida. No lo sé.\nPero no me importaba que me pagara todos los días, cosa que él hacía, así que…"
+        "es-ES": "[Estillda]\nQuizá es quisquilloso con la comida. No lo sé.\nPero no me importaba que me pagara todos los días, cosa que él hacía, así que..."
     },
     "3GDZAg": {
         "en-US": "Where did you sleep?",
@@ -2707,7 +2707,7 @@
     "3WDZAg": {
         "en-US": "[Estillda]\nHuh? Oh... Somewhere around here.\nThere's a place for soldiers.\nHe told me to stay there.",
         "pt-BR": "[Estillda]\nSim? Por aqui.\nHá um lugar onde os soldados ficam.\nEle quer que eu fique aqui...",
-        "es-ES": "[Estillda]\n¿Eh? Oh… En algún lugar de por aquí.\nHay un lugar para reclutas.\nMe dijo que me quedara allí."
+        "es-ES": "[Estillda]\n¿Eh? Oh... En algún lugar de por aquí.\nHay un lugar para reclutas.\nMe dijo que me quedara allí."
     },
     "3mDZAg": {
         "en-US": "When are you going to see him again?",
@@ -2732,7 +2732,7 @@
     "4mDZAg": {
         "en-US": "[Estillda]\nHuh? No...\nB-but p-please...\nPlease don't kill me.",
         "pt-BR": "[Estillda]\nSim?\nPor favor...\nNão me mate.",
-        "es-ES": "[Estillda]\n¿Eh? No…\nPe-pero po-por favor…\nPor favor, no me mates."
+        "es-ES": "[Estillda]\n¿Eh? No...\nPe-pero po-por favor...\nPor favor, no me mates."
     },
     "42DZAg": {
         "en-US": "Estillda looks terrified.\nI'd better reassure her.",
@@ -2817,7 +2817,7 @@
     "82DZAg": {
         "en-US": "[Man in Black]\nThen, as usual...\nmay Goddess bless--",
         "pt-BR": "[Homem de Preto]\nEntão, como sempre...\nque a deusa abençoe...",
-        "es-ES": "[Hombre de negro]\nEntonces, como siempre…\nque la diosa bendiga…"
+        "es-ES": "[Hombre de negro]\nEntonces, como siempre...\nque la diosa bendiga..."
     },
     "9GDZAg": {
         "en-US": "[Man in Black]\nWh-who are you?\nA-Assassin Guild!\nDrat!\nWhen did you find me?",
@@ -2837,7 +2837,7 @@
     "92DZAg": {
         "en-US": "[Man in Black]\nOver my dead body!\nYou... I'm going to finish you right here and now!",
         "pt-BR": "[Homem de Preto]\nSó se for por cima do meu cadáver!\nVocê... Eu vou acabar com você aqui e agora!",
-        "es-ES": "[Hombre de negro]\n¡Sobre mi cadáver!\nTú… ¡Acabaré contigo aquí y ahora!"
+        "es-ES": "[Hombre de negro]\n¡Sobre mi cadáver!\nTú... ¡Acabaré contigo aquí y ahora!"
     },
     "+GDZAg": {
         "en-US": "[{0}]\nTry it!",
@@ -2862,7 +2862,7 @@
     "/GDZAg": {
         "en-US": "[Dandelion Executive]\n...Ugh...\nYou'll... never... find out... anything...\nEverything... as Goddess wishes...\nKhhhk!",
         "pt-BR": "[Executivo Dente de Leão]\n...Ugh...\nVocê nunca... descobrirá... nada...\nTudo... como a deusa deseja...\nKhhhk!",
-        "es-ES": "[Ejec. de Diente de león]\n…Uff…\nNunca… descubrirás… nada…\nTodo… como lo desea la diosa…\n¡Kjjj!"
+        "es-ES": "[Ejec. de Diente de león]\n...Uff...\nNunca... descubrirás... nada...\nTodo... como lo desea la diosa...\n¡Kjjj!"
     },
     "/WDZAg": {
         "en-US": "He clenches his teeth. Suddenly, his face goes pale.",
@@ -2932,12 +2932,12 @@
     "CmHZAg": {
         "en-US": "[Kirke]\nYou should meet him while you can.\nYou don't want to die regretting... like my dad did.",
         "pt-BR": "[Girke]\n... difícil de encontrar.\nComo meu pai... ele é meio solitário.",
-        "es-ES": "[Kirke]\nDeberías conocerlo mientras puedas.\nNo quieres morir lamentándote… como lo hizo mi padre."
+        "es-ES": "[Kirke]\nDeberías conocerlo mientras puedas.\nNo quieres morir lamentándote... como lo hizo mi padre."
     },
     "C2HZAg": {
         "en-US": "[Kirke]\nOops, what am I saying to such a young person?\nI must be drunk. Dad...\n*Sniffle...* Daaaaad!",
         "pt-BR": "[Girke]\nDo que estou falando?\nVocê está prestando atenção? Papai... (soluçando)\nAh... Papai...",
-        "es-ES": "[Kirke]\nUy, ¿qué le estoy diciendo a una persona tan joven?\nDebo estar borracho. Papá…\n*Solloza…* ¡Papáááá!"
+        "es-ES": "[Kirke]\nUy, ¿qué le estoy diciendo a una persona tan joven?\nDebo estar borracho. Papá...\n*Solloza...* ¡Papáááá!"
     },
     "DGHZAg": {
         "en-US": "Drunk Kirke starts crying.\n...I don't think he'll stop anytime soon.",
@@ -2962,7 +2962,7 @@
     "EGHZAg": {
         "en-US": "[Oresa Labar]\nMm? Mm... Okay, let me see it.\nThis pattern...!\nWhere did you get this key?",
         "pt-BR": "[Oresa Rava]\nHumm? Humm... Dê isso pra mim.\nEsse desenho...\nOnde você conseguiu isso?",
-        "es-ES": "[Oresa Rava]\n¿Mm? Mm… Está bien, déjame verla.\n¡Este patrón…!\n¿De dónde sacaste esta llave?"
+        "es-ES": "[Oresa Rava]\n¿Mm? Mm... Está bien, déjame verla.\n¡Este patrón...!\n¿De dónde sacaste esta llave?"
     },
     "EWHZAg": {
         "en-US": "I found it on the ground.",
@@ -3007,7 +3007,7 @@
     "GWHZAg": {
         "en-US": "[Oresa Labar]\nI know his cottage was\nin the valley near Veins.\nIts exact location is...\nI'm sorry. I can't remember that.",
         "pt-BR": "[Oresa Rava]\nAquela mansão foi...\nconstruída em um desfiladeiro de Veins.\nMas não sei a localização exata.",
-        "es-ES": "[Oresa Rava]\nSé que su cabaña estaba\nen el valle cerca de Veins.\nLa ubicación exacta es…\nLo siento. No lo recuerdo."
+        "es-ES": "[Oresa Rava]\nSé que su cabaña estaba\nen el valle cerca de Veins.\nLa ubicación exacta es...\nLo siento. No lo recuerdo."
     },
     "GmHZAg": {
         "en-US": "What you told me is good enough.",
@@ -3027,7 +3027,7 @@
     "HWHZAg": {
         "en-US": "[Oresa Labar]\nOkay, then...\nI created that key for a priest I used to know.",
         "pt-BR": "[Oresa Rava]\nNão pude ver a minha casa depois de ele virar um sacerdote, mas eu fiz essa chave para uma celebração.",
-        "es-ES": "[Oresa Rava]\nBien, entonces…\nHice esa llave para un Sacerdote que conocía."
+        "es-ES": "[Oresa Rava]\nBien, entonces...\nHice esa llave para un Sacerdote que conocía."
     },
     "HmHZAg": {
         "en-US": "[Oresa Labar]\nIt's his cottage key.\nI don't know where he is,\nbut why don't you go to his cottage and leave it with the property caretaker?",
@@ -3097,17 +3097,17 @@
     "K2HZAg": {
         "en-US": "[Renzak]\n...Finish your mission in 10 minutes and meet me at the rare gate.\nGot it?",
         "pt-BR": "[Renzak]\n...Termine sua missão em 10 minutos e me encontre no portão raro.\nEntendeu?",
-        "es-ES": "[Renzak]\n…Completa tu misión en 10 minutos y reúnete conmigo en la puerta trasera.\n¿Entendido?"
+        "es-ES": "[Renzak]\n...Completa tu misión en 10 minutos y reúnete conmigo en la puerta trasera.\n¿Entendido?"
     },
     "LGHZAg": {
         "en-US": "[Renzak]\n...\n...Sure.\nI guess you can't be too careful.",
         "pt-BR": "[Renzak]\n...\n...Claro.\nAcho que todo cuidado é pouco.",
-        "es-ES": "[Renzak]\n…\n…Claro.\nSupongo que no puedes tener tanto cuidado."
+        "es-ES": "[Renzak]\n...\n...Claro.\nSupongo que no puedes tener tanto cuidado."
     },
     "LWHZAg": {
         "en-US": "[Renzak]\n...You failed.\nYou have to try until you can make it.",
         "pt-BR": "[Renzak]\n...Você falhou.\nVocê precisa tentar até conseguir.",
-        "es-ES": "[Renzak]\n…Fallaste.\nTienes que intentarlo hasta conseguirlo."
+        "es-ES": "[Renzak]\n...Fallaste.\nTienes que intentarlo hasta conseguirlo."
     },
     "LmHZAg": {
         "en-US": "[Renzak]\nAnd when you do, don't forget to come to the rear gate.\nI'll wait for you there.",
@@ -3117,7 +3117,7 @@
     "L2HZAg": {
         "en-US": "[Renzak]\n...You look good.\nMe? Same ol', same ol'.",
         "pt-BR": "[Renzak]\n...Você parece bem.\nEu? O mesmo de sempre, o mesmo de sempre.",
-        "es-ES": "[Renzak]\n…Te ves bien.\n¿Qué? Lo mismo de siempre."
+        "es-ES": "[Renzak]\n...Te ves bien.\n¿Qué? Lo mismo de siempre."
     },
     "MGHZAg": {
         "en-US": "[Renzak]\nI'm waiting to assist others, just like I did you.",
@@ -3127,7 +3127,7 @@
     "MWHZAg": {
         "en-US": "[Serious-looking Girl]\n...\nYou've reached a dead end.\nGo back.",
         "pt-BR": "[Garota de Cara Fechada]\n......\nEssa estrada está bloqueada.\nDê meia volta.",
-        "es-ES": "[Chica seria]\n…\nLlegaste a un callejón sin salida.\nSal de aquí."
+        "es-ES": "[Chica seria]\n...\nLlegaste a un callejón sin salida.\nSal de aquí."
     },
     "MmHZAg": {
         "en-US": "Renzak: Hey, you took too long. Get out of there now!",
@@ -3162,7 +3162,7 @@
     "OGHZAg": {
         "en-US": "Man: ...Mm? What's that shadow reflected on the window?",
         "pt-BR": "Homem: ...Mm? O que é essa sombra refletida na janela?",
-        "es-ES": "Hombre: …¿Mm? ¿Qué es esa sombra reflejada en la ventana?"
+        "es-ES": "Hombre: ...¿Mm? ¿Qué es esa sombra reflejada en la ventana?"
     },
     "OWHZAg": {
         "en-US": "Guard",
@@ -3217,7 +3217,7 @@
     "Q2HZAg": {
         "en-US": "Guard: ...Mm? Maybe we overreacted.",
         "pt-BR": "Guarda: ...Hum? Talvez tenhamos exagerado.",
-        "es-ES": "Guardia: …¿Mm? Tal vez, exageramos."
+        "es-ES": "Guardia: ...¿Mm? Tal vez, exageramos."
     },
     "RGHZAg": {
         "en-US": "Guard: Guys, let's go back.",
@@ -3312,7 +3312,7 @@
     "VmHZAg": {
         "en-US": "Guard: ...Mm? What was that noise? Hey. Hey, what's going on over there?",
         "pt-BR": "Guarda: ...Mm? Que barulho foi esse? Ei. Ei, o que está acontecendo aí?",
-        "es-ES": "Guardia: …¿Mm? ¿Qué fue ese ruido? Oye. Ey, ¿qué está pasando ahí?"
+        "es-ES": "Guardia: ...¿Mm? ¿Qué fue ese ruido? Oye. Ey, ¿qué está pasando ahí?"
     },
     "V2HZAg": {
         "en-US": "Guard: What's going on?",
@@ -3367,7 +3367,7 @@
     "YWHZAg": {
         "en-US": "[Priest]\nI'll never forgive you--ever!\nCome, pagan! I'll personally punish you and realize justice!",
         "pt-BR": "[Sacerdote]\nNunca vou lhe perdoar, nunca!\nVenha, pagão! Eu o castigarei pessoalmente e farei justiça!",
-        "es-ES": "[Sacerdote]\nNunca los perdonaré… ¡Jamás!\n¡Ven, pagano! ¡Te castigaré personalmente y haré justicia!"
+        "es-ES": "[Sacerdote]\nNunca los perdonaré... ¡Jamás!\n¡Ven, pagano! ¡Te castigaré personalmente y haré justicia!"
     },
     "YmHZAg": {
         "en-US": "Vanished Priest",
@@ -3382,7 +3382,7 @@
     "ZGHZAg": {
         "en-US": "I... I can't... die like this...",
         "pt-BR": "Eu... não posso... morrer assim...",
-        "es-ES": "Yo… No puedo… morir así…"
+        "es-ES": "Yo... No puedo... morir así..."
     },
     "ZWHZAg": {
         "en-US": "Shouting Renzak: Hey! Get out of there now!",
@@ -3452,7 +3452,7 @@
     "cmHZAg": {
         "en-US": "[Verkhasel]\n...",
         "pt-BR": "[Verkhasell]\n.....",
-        "es-ES": "[Verkhasel]\n…"
+        "es-ES": "[Verkhasel]\n..."
     },
     "c2HZAg": {
         "en-US": "[Verkhasel]\nYou don't need to know.\nOut.",
@@ -3467,7 +3467,7 @@
     "dWHZAg": {
         "en-US": "[Verkhasel]\nThe Guillotine Cross is... an executioner.\nA killing machine that moves and breathes.\nSo to speak.",
         "pt-BR": "[Verkhasell]\nOs Sicários são impositores.\nArmas vivas e agressivas...",
-        "es-ES": "[Verkhasel]\nEl Cortador de cruces es… un verdugo.\nUna máquina de matar que se mueve y respira.\nPor así decirlo."
+        "es-ES": "[Verkhasel]\nEl Cortador de cruces es... un verdugo.\nUna máquina de matar que se mueve y respira.\nPor así decirlo."
     },
     "dmHZAg": {
         "en-US": "[Verkhasel]\nWho do you think is us Assassins' archenemies?\nKnights? Priests?\nMages?\nOr monsters?",
@@ -3502,7 +3502,7 @@
     "fGHZAg": {
         "en-US": "[Verkhasel]\nIn other words, by choosing the path of the Guillotine Cross, you'll give up your heart and become a living killing machine.\nAs someone who's already it, maybe I shouldn't say this, but...\nI wouldn't choose it if I were you.",
         "pt-BR": "[Verkhasell]\nÉ engraçado estar conversando com você assim. Quero impedir que você vire um Sicário por causa de seu desacato.",
-        "es-ES": "[Verkhasel]\nEn otras palabras, al elegir el camino del Cortador de Cruces, renuncias a tu corazón y te conviertes en una máquina de matar.\nComo alguien que ya lo es, quizá no debería decirte esto, pero…\nEn tu lugar, no lo elegiría."
+        "es-ES": "[Verkhasel]\nEn otras palabras, al elegir el camino del Cortador de Cruces, renuncias a tu corazón y te conviertes en una máquina de matar.\nComo alguien que ya lo es, quizá no debería decirte esto, pero...\nEn tu lugar, no lo elegiría."
     },
     "fWHZAg": {
         "en-US": "[Verkhasel]\nYou give up so quickly.\nGood.\nCouldn't be better. Say,\nare you sure you don't want to come over to this side?",
@@ -3522,7 +3522,7 @@
     "gGHZAg": {
         "en-US": "[Verkhasel]\nAre you sure you won't regret it?\nThe Guillotine Cross is... an executioner.\nA killing machine that moves and breathes.\nSo to speak.",
         "pt-BR": "[Verkhasell]\nVocê não se arrepende?\nOs Sicários são impositores.\nArmas vivas e agressivas...",
-        "es-ES": "[Verkhasel]\n¿Estás seguro de que no te arrepentirás?\nEl Cortador de cruces es… un verdugo.\nUna máquina de matar que se mueve y respira.\nPor así decirlo."
+        "es-ES": "[Verkhasel]\n¿Estás seguro de que no te arrepentirás?\nEl Cortador de cruces es... un verdugo.\nUna máquina de matar que se mueve y respira.\nPor así decirlo."
     },
     "gWHZAg": {
         "en-US": "[Verkhasel]\nIn other words, by choosing the path of the Guillotine Cross, you'll give up your heart and become a living killing machine.\nAnd you're about to choose it.\nIs this really the path you want?",
@@ -3537,7 +3537,7 @@
     "g2HZAg": {
         "en-US": "[Verkhasel]\n...You can't learn new skills without perfectly mastering the ones you already know.\nUse all your remaining Skill Points first, will you?",
         "pt-BR": "[Verkhasel]\n...Não é possível aprender novas habilidades sem dominar perfeitamente as que você já conhece.\nUse todos os seus pontos de habilidade restantes primeiro, está bem?",
-        "es-ES": "[Verkhasel]\n…No puedes aprender nuevas habilidades sin antes dominar a la perfección las que ya conoces.\nPrimero, usa todos los puntos de habilidad restantes, ¿lo harás?"
+        "es-ES": "[Verkhasel]\n...No puedes aprender nuevas habilidades sin antes dominar a la perfección las que ya conoces.\nPrimero, usa todos los puntos de habilidad restantes, ¿lo harás?"
     },
     "hGHZAg": {
         "en-US": "[Verkhasel]\nAlright, then get off your mount\nand come back.",
@@ -3597,12 +3597,12 @@
     "j2HZAg": {
         "en-US": "[Verkhasel]\n...\n...What do you want?",
         "pt-BR": "[Verkhasell]\n......\n....... O que posso fazer por você?",
-        "es-ES": "[Verkhasel]\n…\n¿Qué quieres?"
+        "es-ES": "[Verkhasel]\n...\n¿Qué quieres?"
     },
     "kGHZAg": {
         "en-US": "[Verkhasel]\nOkay.\n...But why?\nI'm sure you came to me of your own accord, but...",
         "pt-BR": "[Verkhasell]\nAh, é?\n... Para quê?\nÉ claro, você veio aqui por vontade própria...",
-        "es-ES": "[Verkhasel]\nBueno.\n¿Pero por qué?\nSeguramente, viniste a mí por tu propia voluntad, pero…"
+        "es-ES": "[Verkhasel]\nBueno.\n¿Pero por qué?\nSeguramente, viniste a mí por tu propia voluntad, pero..."
     },
     "kWHZAg": {
         "en-US": "[Verkhasel]\nOur title is derived from the execution apparatus, guillotine.\nAre you sure you can execute anyone, even your own comrades?",
@@ -3702,7 +3702,7 @@
     "pGHZAg": {
         "en-US": "Resetting your Warehouse Battle status...",
         "pt-BR": "Restaurar.",
-        "es-ES": "Restableciendo tu estado de batalla del depósito…"
+        "es-ES": "Restableciendo tu estado de batalla del depósito..."
     },
     "pWHZAg": {
         "en-US": "Reset completed.",
@@ -3747,7 +3747,7 @@
     "rWHZAg": {
         "en-US": "Resetting your Mansion Battle status...",
         "pt-BR": "Restaure a mansão.",
-        "es-ES": "Restableciendo tu estado de batalla de la mansión…"
+        "es-ES": "Restableciendo tu estado de batalla de la mansión..."
     },
     "rmHZAg": {
         "en-US": "Indoor NPC reset completed.\nThe globalbar has been organized.\nTo remove players,\nplease press the Enter key now.",

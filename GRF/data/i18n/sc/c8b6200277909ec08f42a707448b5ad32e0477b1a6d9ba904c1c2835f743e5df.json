@@ -12,12 +12,12 @@
     "4vajAg": {
         "en-US": "[Bazo]\nHello...\nNot from around\nhere, are you?",
         "pt-BR": "[Bazo]\nOlá...\nNão é daqui\ndaqui, não é?",
-        "es-ES": "[Bazo]\nHola…\nNo eres de por aquí,\n¿cierto?"
+        "es-ES": "[Bazo]\nHola...\nNo eres de por aquí,\n¿cierto?"
     },
     "4/ajAg": {
         "en-US": "[Bazo]\nMy name is Bazo Heburiech. I'm pleased to make your acquaintance. As you can see, I'm also not from around here either. I feel as if... We were meant to meet.",
         "pt-BR": "[Bazo]\nMeu nome é Bazo Heburiech. Tenho o prazer de conhecê-lo. Como você pode ver, também não sou daqui. Sinto como se... Nós estávamos destinados a nos encontrar.",
-        "es-ES": "[Bazo]\nMi nombre es Bazo Heburiech, encantado de conocerte. Como ves, tampoco soy de por aquí. Siento como si… nuestro encuentro fuera obra del destino."
+        "es-ES": "[Bazo]\nMi nombre es Bazo Heburiech, encantado de conocerte. Como ves, tampoco soy de por aquí. Siento como si... nuestro encuentro fuera obra del destino."
     },
     "5PajAg": {
         "en-US": "[Bazo]\nIf you don't mind, let me tell you a little about this place. When I first got here, I could tell there was something different about\nthis village.",
@@ -92,7 +92,7 @@
     "8vajAg": {
         "en-US": "[Bazo]\nHmm...\nI sense something different about you. I can't quite describe it, but I get the distince feeling that there's nothing I can do for you.",
         "pt-BR": "[Bazo]\nHmm...\nSinto algo diferente em você. Não consigo descrever, mas tenho a sensação de que não há nada que eu possa fazer por você.",
-        "es-ES": "[Bazo]\nMmm…\nPercibo algo extraño en ti. No puedo describirlo, pero tengo la sensación de que mi ayuda es inútil."
+        "es-ES": "[Bazo]\nMmm...\nPercibo algo extraño en ti. No puedo describirlo, pero tengo la sensación de que mi ayuda es inútil."
     },
     "8/ajAg": {
         "en-US": "[Bazo]\nIn any case, I wish you safety in your travels, adventurer.",
@@ -102,7 +102,7 @@
     "9PajAg": {
         "en-US": "[Bazo]\nGreat...!\nNow, let's do this!\nOh, and you should know\nnow that I can't tell what kind of thing we might get. But let's hope that it'll be good.",
         "pt-BR": "[Bazo]\nÓtimo...!\nAgora, vamos fazer isso!\nAh, e você deve saber\nagora que não posso dizer que tipo de coisa podemos conseguir. Mas vamos torcer para que seja bom.",
-        "es-ES": "[Bazo]\n¡Excelente…!\nEmpecemos con esto.\nAh, y debo informarte\nque no puedo saber con antelación qué cosa resultará del proceso, ¡pero esperemos que sea algo bueno!"
+        "es-ES": "[Bazo]\n¡Excelente...!\nEmpecemos con esto.\nAh, y debo informarte\nque no puedo saber con antelación qué cosa resultará del proceso, ¡pero esperemos que sea algo bueno!"
     },
     "9fajAg": {
         "en-US": "^3355FFYou feel a mysterious energy gathering around the materials\nand the air around them begins to crackle. It seems as if the materials were absorbing\nall of the ambient energy.^000000",
@@ -187,7 +187,7 @@
     "BfejAg": {
         "en-US": "[Bazo]\nAlright...\nNow guess which monster\nI'm thinking about right... Now!",
         "pt-BR": "[Bazo]\nMuito bem...\nAgora adivinhe em qual monstro\nEstou pensando em qual... Agora!",
-        "es-ES": "[Bazo]\nYa veo…\nEntonces, adivina en qué monstruo\nestoy pensando… ¡ahora!"
+        "es-ES": "[Bazo]\nYa veo...\nEntonces, adivina en qué monstruo\nestoy pensando... ¡ahora!"
     },
     "BvejAg": {
         "en-US": "[Bazo]\nNow what monster\nam I thinking about?",
@@ -322,7 +322,7 @@
     "IPejAg": {
         "en-US": "[Bazo]\nOkay, now I need\nsome time to preprare...\nTalk to you later!",
         "pt-BR": "[Bazo]\nOk, agora eu preciso\nalgum tempo para me preparar...\nFalo com você mais tarde!",
-        "es-ES": "[Bazo]\nY ahora, necesito que me des\nalgo de tiempo para prepararme…\n¡Nos vemos luego!"
+        "es-ES": "[Bazo]\nY ahora, necesito que me des\nalgo de tiempo para prepararme...\n¡Nos vemos luego!"
     },
     "IfejAg": {
         "en-US": "[Bazo]\nTurquoise, huh?\nAlright then. Before we start, we must first test your luck. As you may have guessed, item crafting in Umbala is a very delicate process.",
@@ -342,7 +342,7 @@
     "JPejAg": {
         "en-US": "[Bazo]\nPlease bring me 30 Citrin, Turquoise or Agate. You must\nhave forgotten to bring any of those, so please go back and get them so we can begin.",
         "pt-BR": "[Bazo]\nPor favor, traga-me 30 Citrinos, Turquesas ou Ágatas. Você deve\nDeve ter se esquecido de trazer algum desses itens, portanto, volte e pegue-os para que possamos começar.",
-        "es-ES": "[Bazo]\nTráeme 30 Citrinos, Turquesas o Ágatas. Parece que\nno trajiste minerales de ningún tipo… Te ruego que los consigas si quieres continuar."
+        "es-ES": "[Bazo]\nTráeme 30 Citrinos, Turquesas o Ágatas. Parece que\nno trajiste minerales de ningún tipo... Te ruego que los consigas si quieres continuar."
     },
     "JfejAg": {
         "en-US": "[Bazo]\nIf you'd like me to make you one of Umbala's specialty items, I'll need you to bring me some stuff so I can craft it for you.",
@@ -357,12 +357,12 @@
     "J/ejAg": {
         "en-US": "[Hibilaithan]\nUmba! Umbaba...umum! Baumba!\nUmumumbababaumumbabaumba!\nUmbaumbaumbaumbaumhah!\nUmumumumumbababababab!",
         "pt-BR": "[Hibilaithan]\nUmba! Umbaba... umum! Baumba!\nUmumumbababaumumbabaumba!\nUmbaumbaumbaumbaumhah!\nUmumumumumbababababababab!",
-        "es-ES": "[Hibilaithan]\n¡Umba! ¡Umbaba… umum! ¡Baumba!\n¡Um um um bababá umum baba um-ba!\n¡Umba-umba-umba bah, bah, umba, ah!\n¡Um um um um um bababababá!"
+        "es-ES": "[Hibilaithan]\n¡Umba! ¡Umbaba... umum! ¡Baumba!\n¡Um um um bababá umum baba um-ba!\n¡Umba-umba-umba bah, bah, umba, ah!\n¡Um um um um um bababababá!"
     },
     "KPejAg": {
         "en-US": "[Hibilaithan]\nEh heh heh...\nAt long last, this\nday has come. Finally,\nI've earned recognition as\nUmbala's greatest artisan!",
         "pt-BR": "[Hibilaithan]\nEh heh heh...\nFinalmente, este\ndia chegou. Finalmente,\nganhei o reconhecimento como\no maior artesão de Umbala!",
-        "es-ES": "[Hibilaithan]\nJe, je, je…\nPor fin llegó\nel día. ¡Finalmente\nrecibo mi merecido reconocimiento\ncomo el mejor artesano de Umbala!"
+        "es-ES": "[Hibilaithan]\nJe, je, je...\nPor fin llegó\nel día. ¡Finalmente\nrecibo mi merecido reconocimiento\ncomo el mejor artesano de Umbala!"
     },
     "KfejAg": {
         "en-US": "[Hibilaithan]\nYes yes, I'm ^802A2Athat^000000 Hibilaithan.\nAnd if you bring me the materials, I shall deign to craft one of my masterpieces for you. Bwahahaha~!",
@@ -377,7 +377,7 @@
     "K/ejAg": {
         "en-US": "[Hibilaithan]\nNow be honest...\nDo you want to be\nthe recipient of my\ninspired and oft imitated\nhandiwork or not?",
         "pt-BR": "[Hibilaithan]\nAgora seja honesto...\nVocê quer ser\no destinatário de minhas\ninspirado e muitas vezes imitado\ninspirado e imitado ou não?",
-        "es-ES": "[Hibilaithan]\nAhora, dime, honestamente…\n¿Quieres tener la dicha\nde sostener en tus manos una de mis\nsiempre-imitadas-pero-nunca-igualadas\nobras, o no?"
+        "es-ES": "[Hibilaithan]\nAhora, dime, honestamente...\n¿Quieres tener la dicha\nde sostener en tus manos una de mis\nsiempre-imitadas-pero-nunca-igualadas\nobras, o no?"
     },
     "LPejAg": {
         "en-US": "Yes. Yes, I do.",
@@ -392,7 +392,7 @@
     "LvejAg": {
         "en-US": "[Hibilaithan]\nOoh...\nYour mind is too weak to handle the power of my creations. I'm sorry, but you need more training.",
         "pt-BR": "[Hibilaithan]\nOoh...\nSua mente é muito fraca para lidar com o poder das minhas criações. Sinto muito, mas você precisa de mais treinamento.",
-        "es-ES": "[Hibilaithan]\nOh…\nTu mente es demasiado débil para resistir el poder de mis creaciones. Lo siento, pero primero debes hacerte más fuerte."
+        "es-ES": "[Hibilaithan]\nOh...\nTu mente es demasiado débil para resistir el poder de mis creaciones. Lo siento, pero primero debes hacerte más fuerte."
     },
     "L/ejAg": {
         "en-US": "[Hibilaithan]\nI know it must be unbearable, waiting to own one of my creations. But for your own sake, get stronger first and then come back to me.",
@@ -407,7 +407,7 @@
     "MfejAg": {
         "en-US": "[Hibilaithan]\nNow, I'll need\n10 Gold,\n50 Steel and\n10 Emperium\nfor the basic materials.",
         "pt-BR": "[Hibilaithan]\nAgora, vou precisar de\n10 de ouro,\n50 de aço e\n10 Emperium\npara os materiais básicos.",
-        "es-ES": "[Hibilaithan]\nNecesitaré…\n10 unidades de Oro,\n50 unidades de Acero y\n10 Emperium\ncomo materiales básicos."
+        "es-ES": "[Hibilaithan]\nNecesitaré...\n10 unidades de Oro,\n50 unidades de Acero y\n10 Emperium\ncomo materiales básicos."
     },
     "MvejAg": {
         "en-US": "[Hibilaithan]\nI'll also need some rare ore to endow my creation with power. Muscovite, Biotite or Pyroxene. Just bring me 30 of one of those kinds of ores.",
@@ -432,7 +432,7 @@
     "NvejAg": {
         "en-US": "[Hibilaithan]\n...\nAh... I don't feel\nlike doing ^820A2Aanything^000000\nright now. Come back later, alright?",
         "pt-BR": "[Hibilaithan]\n...\nAh... não estou sentindo\nvontade de fazer ^820A2Aqualquer coisa^000000\nneste momento. Volte mais tarde, está bem?",
-        "es-ES": "[Hibilaithan]\n…\nAh… No me siento\ncon ganas de hacer ^820A2Anada^000000\nen este momento. Vuelve más tarde, ¿sí?"
+        "es-ES": "[Hibilaithan]\n...\nAh... No me siento\ncon ganas de hacer ^820A2Anada^000000\nen este momento. Vuelve más tarde, ¿sí?"
     },
     "N/ejAg": {
         "en-US": "[Hibilaithan]\nAh, I sense that all is in readiness. Good, good,\nI can begin! Now, don't peek.\nI can't risk sharing my\nawesome secrets!",
@@ -451,23 +451,23 @@
     },
     "OvejAg": {
         "en-US": "[Hibilaithan]\nHaha, it's done!\n^333333*Phew*^000000 That was pretty tough, but I'm sure you can't wait to see what we've made. Okay, let's take a look...",
-        "pt-BR": "[Hibilaithan]\nHaha, está pronto!\n^333333*Ufa*^000000 Isso foi bem difícil, mas tenho certeza de que você mal pode esperar para ver o que fizemos. Muito bem, vamos dar uma olhada…",
-        "es-ES": "[Hibilaithan]\n¡Ja, ya está!\n^333333Fiiuuu…^000000 Fue bastante agotador, pero imagino que mueres por ver qué logramos fabricar. En fin, echemos un vistazo…"
+        "pt-BR": "[Hibilaithan]\nHaha, está pronto!\n^333333*Ufa*^000000 Isso foi bem difícil, mas tenho certeza de que você mal pode esperar para ver o que fizemos. Muito bem, vamos dar uma olhada...",
+        "es-ES": "[Hibilaithan]\n¡Ja, ya está!\n^333333Fiiuuu...^000000 Fue bastante agotador, pero imagino que mueres por ver qué logramos fabricar. En fin, echemos un vistazo..."
     },
     "O/ejAg": {
         "en-US": "[Hibilaithan]\nOoh, this is a huge success! But of course, since it's my handiwork, that goes without saying. Hey, this is a weapon... Some sort of... Mailbreaker!",
         "pt-BR": "[Hibilaithan]\nOoh, isso é um grande sucesso! Mas é claro que, como é meu trabalho manual, isso não é preciso dizer. Ei, isso é uma arma... Um tipo de... Quebra-cabeça!",
-        "es-ES": "[Hibilaithan]\n¡Guau, salió de maravilla! Era obvio, si es obra de un gran artesano como yo. Mira, parece que es un arma… Una especie de… ¡Rompemallas!"
+        "es-ES": "[Hibilaithan]\n¡Guau, salió de maravilla! Era obvio, si es obra de un gran artesano como yo. Mira, parece que es un arma... Una especie de... ¡Rompemallas!"
     },
     "PPejAg": {
         "en-US": "[Hibilaithan]\nOoh, this is a huge success! But of course, since it's my handiwork, that goes without saying. Hey, this is a weapon... Some sort of... Swordbreaker!",
         "pt-BR": "[Hibilaithan]\nOoh, isso é um grande sucesso! Mas é claro que, como é meu trabalho manual, isso não é preciso dizer. Ei, isso é uma arma... Um tipo de... Quebra-espada!",
-        "es-ES": "[Hibilaithan]\n¡Guau, salió de maravilla! Era obvio, si es obra de un gran artesano como yo. Mira, parece que es un arma… Una especie de… ¡Rompeespadas!"
+        "es-ES": "[Hibilaithan]\n¡Guau, salió de maravilla! Era obvio, si es obra de un gran artesano como yo. Mira, parece que es un arma... Una especie de... ¡Rompeespadas!"
     },
     "PfejAg": {
         "en-US": "[Hibilaithan]\nOoh, this is a huge success! But of course, since it's my handiwork, that goes without saying. Hey, this is a weapon... Some sort of... Slaughter!",
         "pt-BR": "[Hibilaithan]\nOoh, isso é um grande sucesso! Mas é claro que, como é meu trabalho manual, isso não é preciso dizer. Ei, isso é uma arma... Um tipo de... Abate!",
-        "es-ES": "[Hibilaithan]\n¡Guau, salió de maravilla! Era obvio, si es obra de un gran artesano como yo. Mira, parece que es un arma… Una especie de… ¡Diezmadora!"
+        "es-ES": "[Hibilaithan]\n¡Guau, salió de maravilla! Era obvio, si es obra de un gran artesano como yo. Mira, parece que es un arma... Una especie de... ¡Diezmadora!"
     },
     "PvejAg": {
         "en-US": "[Hibilaithan]\nAh, yet another creation that's a testament to my awesome skills! Come back to me whenever you want me to make something truly great for you. See you around~",
@@ -487,7 +487,7 @@
     "QfejAg": {
         "en-US": "[Hibilaithan]\nAlright...\nMy favorite monsters are\nZealotus, Alice, Munak and\nIsis. Now... Guess which one\nI'm thinking about right now!",
         "pt-BR": "[Hibilaithan]\nMuito bem...\nMeus monstros favoritos são\nZealotus, Alice, Munak e\nIsis. Agora... Adivinhe em qual deles\nEstou pensando neste momento!",
-        "es-ES": "[Hibilaithan]\nYa veo…\nMis monstruos favoritos son:\nZealotus, Alice, Munak e\nIsis. Vamos… Adivina en qué monstruo\nestoy pensando… ¡ahora!"
+        "es-ES": "[Hibilaithan]\nYa veo...\nMis monstruos favoritos son:\nZealotus, Alice, Munak e\nIsis. Vamos... Adivina en qué monstruo\nestoy pensando... ¡ahora!"
     },
     "QvejAg": {
         "en-US": "Zealotus",
@@ -517,7 +517,7 @@
     "R/ejAg": {
         "en-US": "[Hibilaithan]\nNow...\nWhich monster am\nI thinking about?",
         "pt-BR": "[Hibilaithan]\nAgora...\nEm qual monstro estou\nestou pensando?",
-        "es-ES": "[Hibilaithan]\nAhora…\n¿Qué tal ahora?\n¿en cuál estoy pensando?"
+        "es-ES": "[Hibilaithan]\nAhora...\n¿Qué tal ahora?\n¿en cuál estoy pensando?"
     },
     "SPejAg": {
         "en-US": "[Hibilaithan]\nCan you guess which\nmonster is on my mind now?",
@@ -562,7 +562,7 @@
     "UPejAg": {
         "en-US": "[Hibilaithan]\nAmazing...\nYou must have mental powers or something. You answered correctly\n{0} times! Wow, you must have really good luck today!",
         "pt-BR": "[Hibilaithan]\nIncrível...\nVocê deve ter poderes mentais ou algo assim. Você respondeu corretamente {0} vezes! Uau, você deve ter tido muita sorte hoje!",
-        "es-ES": "[Hibilaithan]\nIncreíble…\nDebes tener poderes psíquicos o algo así. ¿Quieres saber cuántas veces acertaste?\n¡Pues, {0}! Debes estar de suerte hoy."
+        "es-ES": "[Hibilaithan]\nIncreíble...\nDebes tener poderes psíquicos o algo así. ¿Quieres saber cuántas veces acertaste?\n¡Pues, {0}! Debes estar de suerte hoy."
     },
     "UfejAg": {
         "en-US": "[Hibilaithan]\nIn that case, there's no reason\nto delay. Give me a little time to prepare, and then we'll get started on making you something, okay?",
@@ -572,7 +572,7 @@
     "UvejAg": {
         "en-US": "[Hibilaithan]\nOooh...\nThis isn't good.\nYou got all of them ^660000wrong^000000.\nWe better drive away all of your bad luck with 10 Muscovite.",
         "pt-BR": "[Hibilaithan]\nOooh...\nIsso não é bom.\nVocê acertou todas elas ^660000erradas^000000.\nÉ melhor afastar toda a sua má sorte com 10 moscovitas.",
-        "es-ES": "[Hibilaithan]\nOhhhh…\nEsto no es bueno.\nNo le acertaste a ^660000ninguno^000000.\nSerá mejor que usemos 10 Moscovitas para espantar el mal yuyu."
+        "es-ES": "[Hibilaithan]\nOhhhh...\nEsto no es bueno.\nNo le acertaste a ^660000ninguno^000000.\nSerá mejor que usemos 10 Moscovitas para espantar el mal yuyu."
     },
     "U/ejAg": {
         "en-US": "[Hibilaithan]\nWe can't get started until your luck is strong enough, so we'll need to play this game again. If you don't have enough ores, just get some more before coming back.",
@@ -592,22 +592,22 @@
     "VvejAg": {
         "en-US": "[Hibilaithan]\nOooh...\nThis isn't good.\nYou got all of them ^660000wrong^000000.\nWe better drive away all of your bad luck with 10 Biotite.",
         "pt-BR": "[Hibilaithan]\nOooh...\nIsso não é bom.\nVocê acertou todas elas ^660000erradas^000000.\nÉ melhor afastar toda a sua má sorte com 10 Biotite.",
-        "es-ES": "[Hibilaithan]\nOhhhh…\nEsto no es bueno.\nNo le acertaste a ^660000ninguno^000000.\nSerá mejor que usemos 10 Biotitas para espantar el mal yuyu."
+        "es-ES": "[Hibilaithan]\nOhhhh...\nEsto no es bueno.\nNo le acertaste a ^660000ninguno^000000.\nSerá mejor que usemos 10 Biotitas para espantar el mal yuyu."
     },
     "V/ejAg": {
         "en-US": "Amazing...\nYou must have mental powers or something. You answered correctly\n{0} times! Wow, you must have really good luck today!",
         "pt-BR": "Incrível...\nVocê deve ter poderes mentais ou algo assim. Você respondeu corretamente\n{0} vezes! Uau, você deve ter tido muita sorte hoje!",
-        "es-ES": "Increíble…\nDebes tener poderes psíquicos o algo así. ¿Quieres saber cuántas veces acertaste?\n¡Pues, {0}! Debes estar de suerte hoy."
+        "es-ES": "Increíble...\nDebes tener poderes psíquicos o algo así. ¿Quieres saber cuántas veces acertaste?\n¡Pues, {0}! Debes estar de suerte hoy."
     },
     "WPejAg": {
         "en-US": "[Hibilaithan]\nOooh...\nThis isn't good.\nYou got all of them ^660000wrong^000000.\nWe better drive away all of your bad luck with 10 Pyroxene!",
         "pt-BR": "[Hibilaithan]\nOooh...\nIsso não é bom.\nVocê acertou todas elas ^660000erradas^000000.\nÉ melhor afastar toda a sua má sorte com 10 Pyroxene!",
-        "es-ES": "[Hibilaithan]\nOhhhh…\nEsto no es bueno.\nNo le acertaste a ^660000ninguno^000000.\nSerá mejor que usemos 10 Piroxenos para espantar el mal yuyu."
+        "es-ES": "[Hibilaithan]\nOhhhh...\nEsto no es bueno.\nNo le acertaste a ^660000ninguno^000000.\nSerá mejor que usemos 10 Piroxenos para espantar el mal yuyu."
     },
     "WfejAg": {
         "en-US": "[Hibilaithan]\nOoh, you're back earlier than I expected. I see that you have all the basic materials, but did you bring the most important thing...?",
         "pt-BR": "[Hibilaithan]\nOoh, você voltou mais cedo do que eu esperava. Vejo que você tem todos os materiais básicos, mas será que trouxe o mais importante...?",
-        "es-ES": "[Hibilaithan]\nAh, volviste antes de lo que esperaba. Veo que trajiste todos los materiales básicos, ¿pero traes contigo lo más importante…?"
+        "es-ES": "[Hibilaithan]\nAh, volviste antes de lo que esperaba. Veo que trajiste todos los materiales básicos, ¿pero traes contigo lo más importante...?"
     },
     "WvejAg": {
         "en-US": "[Hibilaithan]\nWhoa, you brought all three kinds of those ores I asked for? Haha, we can only use one of them, so go ahead and choose.",
@@ -697,12 +697,12 @@
     "a/ejAg": {
         "en-US": "[Tabezthan]\nUmba! Umbaba...umum! Baumba!\nUmumumbababaumumbabaumba!\nUmbaumbaumbaumbaumhah!\nUmumumumumbababababab!",
         "pt-BR": "[Tabezthan]\nUmba! Umbaba... umum! Baumba!\nUmumumbababaumumbabaumba!\nUmbaumbaumbaumbaumhah!\nUmumumumumbababababababab!",
-        "es-ES": "[Tabezthan]\n¡Umba! ¡Umbaba… umum! ¡Baumba!\n¡Um um um bababá umum baba um-ba!\n¡Umba-umba-umba bah, bah, umba, ah!\n¡Um um um um um bababababá!"
+        "es-ES": "[Tabezthan]\n¡Umba! ¡Umbaba... umum! ¡Baumba!\n¡Um um um bababá umum baba um-ba!\n¡Umba-umba-umba bah, bah, umba, ah!\n¡Um um um um um bababababá!"
     },
     "bPejAg": {
         "en-US": "[Tabezthan]\nHmm...\nI feel something different from you. You are a stranger around here, are you not?",
         "pt-BR": "[Tabezthan]\nHmm...\nSinto algo diferente de você. Você é um estranho por aqui, não é?",
-        "es-ES": "[Tabezthan]\nMmm…\nPuedo percibir algo diferente en ti. No eres de por aquí, ¿cierto?"
+        "es-ES": "[Tabezthan]\nMmm...\nPuedo percibir algo diferente en ti. No eres de por aquí, ¿cierto?"
     },
     "bfejAg": {
         "en-US": "[Tabezthan]\nAllow me to introduce myself. I am Tabezthan, a veritable fountain of knowledge and a renown genius in Umbala. Ha ha ha!",
@@ -747,7 +747,7 @@
     "dfejAg": {
         "en-US": "[Tabezthan]\nGood. I ask that you\nremember what you need\nto bring me so that I may craft something for you. I shall need...",
         "pt-BR": "[Tabezthan]\nBom. Peço que você\nlembre-se do que precisa\npara me trazer, para que eu possa criar algo para você. Precisarei de...",
-        "es-ES": "[Tabezthan]\nBien. Te ruego que tomes nota\nde lo que debes conseguirme\nsi quieres que te fabrique un objeto. Necesitaré…"
+        "es-ES": "[Tabezthan]\nBien. Te ruego que tomes nota\nde lo que debes conseguirme\nsi quieres que te fabrique un objeto. Necesitaré..."
     },
     "dvejAg": {
         "en-US": "[Tabezthan]\n10 Gold,\n50 Steel\nand 10 Emperium\nfor the basic materials.\nI'll also need a rare ore to enchant my creation.",
@@ -772,7 +772,7 @@
     "evejAg": {
         "en-US": "[Tabezthan]\nOh... I see.\nIt is a little disappointing to hear that, but please return\nif you believe that I can be\nof service to you.",
         "pt-BR": "[Tabezthan]\nAh... estou entendendo.\nÉ um pouco decepcionante ouvir isso, mas, por favor, retorne\nse você acredita que eu possa ser\nútil para você.",
-        "es-ES": "[Tabezthan]\nOh… Ya veo.\nMe decepciona un poco escuchar eso,\npero no dudes en volver si crees\nque puedo ayudarte de alguna forma."
+        "es-ES": "[Tabezthan]\nOh... Ya veo.\nMe decepciona un poco escuchar eso,\npero no dudes en volver si crees\nque puedo ayudarte de alguna forma."
     },
     "e/ejAg": {
         "en-US": "[Tabezthan]\nHm...?\nYou don't have any\nbusiness with me, do you?",
@@ -812,17 +812,17 @@
     "gvejAg": {
         "en-US": "[Tabezthan]\nI don't believe it!\nThis is such an incredibly rare weapon! Yes, I remember its name from what my late father told me. This is... Caesar's Sword!",
         "pt-BR": "[Tabezthan]\nEu não acredito nisso!\nEssa é uma arma incrivelmente rara! Sim, eu me lembro de seu nome pelo que meu falecido pai me disse. Essa é... A espada de César!",
-        "es-ES": "[Tabezthan]\n¡No puedo creerlo!\n¡Es un arma increíblemente rara! Sí, recuerdo su nombre por lo que me contó mi difunto padre. Se llama… ¡Espada de Caesar!"
+        "es-ES": "[Tabezthan]\n¡No puedo creerlo!\n¡Es un arma increíblemente rara! Sí, recuerdo su nombre por lo que me contó mi difunto padre. Se llama... ¡Espada de Caesar!"
     },
     "g/ejAg": {
         "en-US": "[Tabezthan]\nI don't believe it!\nThis is such an incredibly rare weapon! Yes, I remember its name from what my late father told me. This is... Tirfing!",
         "pt-BR": "[Tabezthan]\nEu não acredito nisso!\nEssa é uma arma incrivelmente rara! Sim, eu me lembro de seu nome pelo que meu falecido pai me disse. Isso é... Tirfing!",
-        "es-ES": "[Tabezthan]\n¡No puedo creerlo!\n¡Es un arma increíblemente rara! Sí, recuerdo su nombre por lo que me contó mi difunto padre. Se llama… ¡Tirfing!"
+        "es-ES": "[Tabezthan]\n¡No puedo creerlo!\n¡Es un arma increíblemente rara! Sí, recuerdo su nombre por lo que me contó mi difunto padre. Se llama... ¡Tirfing!"
     },
     "hPejAg": {
         "en-US": "[Tabezthan]\nI don't believe it!\nThis is such an incredibly rare weapon! Yes, I remember its name from what my late father told me. This is... Sabbath!",
         "pt-BR": "[Tabezthan]\nEu não acredito nisso!\nEssa é uma arma incrivelmente rara! Sim, eu me lembro de seu nome pelo que meu falecido pai me disse. Isso é... Sabbath!",
-        "es-ES": "[Tabezthan]\n¡No puedo creerlo!\n¡Es un arma increíblemente rara! Sí, recuerdo su nombre por lo que me contó mi difunto padre. Se llama… ¡Eterno descanso!"
+        "es-ES": "[Tabezthan]\n¡No puedo creerlo!\n¡Es un arma increíblemente rara! Sí, recuerdo su nombre por lo que me contó mi difunto padre. Se llama... ¡Eterno descanso!"
     },
     "hfejAg": {
         "en-US": "[Tabezthan]\nThis mighty weapon is yours to keep. Feel free to come back to me\nif you think that I can be of service to you once again.\nFarewell for now, brave adventurer.",
@@ -837,7 +837,7 @@
     "h/ejAg": {
         "en-US": "[Tabezthan]\nThis mind reading game is an effective method of determining whether your fortune is good or bad. Get ready now...",
         "pt-BR": "[Tabezthan]\nEsse jogo de leitura da mente é um método eficaz para determinar se sua sorte é boa ou ruim. Prepare-se agora...",
-        "es-ES": "[Tabezthan]\nEste juego de adivinación es un método eficaz para determinar si la suerte está de tu lado. Entonces, comencemos…"
+        "es-ES": "[Tabezthan]\nEste juego de adivinación es un método eficaz para determinar si la suerte está de tu lado. Entonces, comencemos..."
     },
     "iPejAg": {
         "en-US": "[Tabezthan]\nMy favorite monsters are\nBaphomet, Dark Lord, Bloody\nKnight and Stormy Knight. Now,\ntry to guess which one I am\nthinking about.",
@@ -937,7 +937,7 @@
     "m/ejAg": {
         "en-US": "[Tabezthan]\nUmm...\nYou do not seem to\nhave enough Phlogopite.\nPlease try to gather at\nleast 30 of them and then\nreturn to me.",
         "pt-BR": "[Tabezthan]\nHumm...\nParece que você não\nnão parece ter flogopita suficiente.\nPor favor, tente reunir pelo menos\npelo menos 30 delas e depois\ne depois me devolva.",
-        "es-ES": "[Tabezthan]\nMmm…\nParece que no traes\nsuficiente Flogopita contigo.\nConsígueme al menos\n30 unidades\ny vuelve a mí."
+        "es-ES": "[Tabezthan]\nMmm...\nParece que no traes\nsuficiente Flogopita contigo.\nConsígueme al menos\n30 unidades\ny vuelve a mí."
     },
     "nPejAg": {
         "en-US": "[Tabezthan]\nUnfortunately, you weren't able to guess any of them correctly. It seems that your luck is charged with negative energy. We'll need to expel this bad luck with 10 of your Peridot.",
@@ -957,7 +957,7 @@
     "n/ejAg": {
         "en-US": "[Tabezthan]\nUmm...\nYou do not seem to\nhave enough Peridot.\nPlease try to gather at\nleast 30 of them and then\nreturn to me.",
         "pt-BR": "[Tabezthan]\nHumm...\nVocê não parece ter\nter Peridoto suficiente.\nPor favor, tente reunir pelo menos\npelo menos 30 deles e depois\ndepois me devolva.",
-        "es-ES": "[Tabezthan]\nMmm…\nParece que no traes\nsuficiente Peridoto contigo.\nConsígueme al menos\n30 unidades\ny vuelve a mí."
+        "es-ES": "[Tabezthan]\nMmm...\nParece que no traes\nsuficiente Peridoto contigo.\nConsígueme al menos\n30 unidades\ny vuelve a mí."
     },
     "oPejAg": {
         "en-US": "[Tabezthan]\nUnfortunately, you weren't able to guess any of them correctly. It seems that your luck is charged with negative energy. We'll need to expel this bad luck with 10 of your Rose Quartz.",
@@ -977,7 +977,7 @@
     "o/ejAg": {
         "en-US": "[Tabezthan]\nUmm...\nYou do not seem to\nhave enough Rose Quartz.\nPlease try to gather at\nleast 30 of them and then\nreturn to me.",
         "pt-BR": "[Tabezthan]\nHumm...\nParece que você não\nter Quartzo Rosa suficiente.\nPor favor, tente reunir pelo menos\npelo menos 30 deles e depois\ndepois me devolva.",
-        "es-ES": "[Tabezthan]\nMmm…\nParece que no traes\nsuficiente Cuarzo rosa contigo.\nConsígueme al menos\n30 unidades\ny vuelve a mí."
+        "es-ES": "[Tabezthan]\nMmm...\nParece que no traes\nsuficiente Cuarzo rosa contigo.\nConsígueme al menos\n30 unidades\ny vuelve a mí."
     },
     "pPejAg": {
         "en-US": "[Tabezthan]\nYou've returned to me earlier than I've expected. I sense that you've brought all the basic materials, but did you bring enough special ore as well?",
@@ -1062,22 +1062,22 @@
     "tPejAg": {
         "en-US": "[Bill Thayer]\nHmm...\nYou'll need 30 Pyroxene, Turquoise and Phlogopite. I'm sure those are the materials you need, but I have no idea what the end product is supposed to be...",
         "pt-BR": "[Bill Thayer]\nHmm...\nVocê precisará de 30 piroxênios, turquesa e flogopita. Tenho certeza de que esses são os materiais de que você precisa, mas não tenho ideia de como deve ser o produto final...",
-        "es-ES": "[Bill Thayer]\nMmm…\nNecesitaremos 30 Piroxenos, Turquesas y Flogopitas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
+        "es-ES": "[Bill Thayer]\nMmm...\nNecesitaremos 30 Piroxenos, Turquesas y Flogopitas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
     },
     "tfejAg": {
         "en-US": "[Bill Thayer]\n^333333*Sniff*^000000\nAll of my sons passed away\nbefore they could finish their research. I should have been the one to have died. They were still so young...",
         "pt-BR": "[Bill Thayer]\n^333333*Sniff*^000000\nTodos os meus filhos faleceram\nantes que pudessem terminar suas pesquisas. Eu deveria ter sido o único a morrer. Eles ainda eram tão jovens...",
-        "es-ES": "[Bill Thayer]\n^333333*Solloza*^000000\nTodos mis hijos fallecieron\nantes de que pudieran terminar sus investigaciones. ¡Debería haber sido yo quien muriera! Eran tan jóvenes…"
+        "es-ES": "[Bill Thayer]\n^333333*Solloza*^000000\nTodos mis hijos fallecieron\nantes de que pudieran terminar sus investigaciones. ¡Debería haber sido yo quien muriera! Eran tan jóvenes..."
     },
     "tvejAg": {
         "en-US": "[Bill Thayer]\nHmm...\nYou'll need 30 Citrin, Agate\nand Muscovite. I'm sure those are the materials you need, but I have no idea what the end product is supposed to be...",
         "pt-BR": "[Bill Thayer]\nHmm...\nVocê precisará de 30 Citrin, Agate\ne moscovita. Tenho certeza de que esses são os materiais de que você precisa, mas não tenho ideia de como deve ser o produto final...",
-        "es-ES": "[Bill Thayer]\nMmm…\nNecesitaremos 30 Citrinos, Ágatas\ny Moscovitas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
+        "es-ES": "[Bill Thayer]\nMmm...\nNecesitaremos 30 Citrinos, Ágatas\ny Moscovitas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
     },
     "t/ejAg": {
         "en-US": "[Bill Thayer]\nWhat...?\nWaltboughst's research?",
         "pt-BR": "[Bill Thayer]\nO que...?\nA pesquisa de Waltboughst?",
-        "es-ES": "[Bill Thayer]\n¿Qué…?\n¿Me preguntas por la investigación de Waltboughst?"
+        "es-ES": "[Bill Thayer]\n¿Qué...?\n¿Me preguntas por la investigación de Waltboughst?"
     },
     "uPejAg": {
         "en-US": "[Bill Thayer]\nHow do you know him?\nWere you a friend of his while\nhe was still alive? This must be\nan act of providence...",
@@ -1107,17 +1107,17 @@
     "vfejAg": {
         "en-US": "[Bill Thayer]\nHmm...\nYou'll need 30 Turquoise,\nBiotite and Rose Quartz. I'm sure those are the materials you need, but I have no idea what the end product is supposed to be...",
         "pt-BR": "[Bill Thayer]\nHmm...\nVocê precisará de 30 turquesas,\nBiotita e Quartzo Rosa. Tenho certeza de que esses são os materiais de que você precisa, mas não tenho ideia de como deve ser o produto final...",
-        "es-ES": "[Bill Thayer]\nMmm…\nNecesitaremos 30 Turquesas,\nBiotitas y Cuarzos rosas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
+        "es-ES": "[Bill Thayer]\nMmm...\nNecesitaremos 30 Turquesas,\nBiotitas y Cuarzos rosas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
     },
     "vvejAg": {
         "en-US": "[Bill Thayer]\nHmm...\nYou'll need 30 Phlogopite,\nCitrine and Pyroxene. I'm sure those are the materials you need, but I have no idea what the end product is supposed to be...",
         "pt-BR": "[Bill Thayer]\nHmm...\nVocê precisará de 30 flogopitas,\nCitrino e Piroxênio. Tenho certeza de que esses são os materiais de que você precisa, mas não tenho ideia de qual deve ser o produto final...",
-        "es-ES": "[Bill Thayer]\nMmm…\nNecesitarás 30 unidades de Flogopita,\n30 unidades de Piroxeno y 30 Citrinos. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
+        "es-ES": "[Bill Thayer]\nMmm...\nNecesitarás 30 unidades de Flogopita,\n30 unidades de Piroxeno y 30 Citrinos. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
     },
     "v/ejAg": {
         "en-US": "[Bill Thayer]\nWhat...?\nHein's research?",
         "pt-BR": "[Bill Thayer]\nO que...?\nA pesquisa do Hein?",
-        "es-ES": "[Bill Thayer]\n¿Qué…?\n¿Me preguntas por la investigación de Hein?"
+        "es-ES": "[Bill Thayer]\n¿Qué...?\n¿Me preguntas por la investigación de Hein?"
     },
     "wPejAg": {
         "en-US": "[Bill Thayer]\nNo matter how much you're willing to pay me, I'm not going to forge you any weapons.",
@@ -1137,47 +1137,47 @@
     "w/ejAg": {
         "en-US": "[Bill Thayer]\nEven if you offer me something more precious than money, I won't do any weapon smithing for you. Although I might have back when my sons were still alive...",
         "pt-BR": "[Bill Thayer]\nMesmo que você me ofereça algo mais precioso do que dinheiro, não farei nenhuma arma para você. Embora eu possa ter feito quando meus filhos ainda estavam vivos...",
-        "es-ES": "[Bill Thayer]\nNi aunque me ofrecieras algo más valioso que el dinero, te forjaría un arma. Si hubieras venido cuando mis hijos aún estaban vivos, pues…, quizás habría sido distinto."
+        "es-ES": "[Bill Thayer]\nNi aunque me ofrecieras algo más valioso que el dinero, te forjaría un arma. Si hubieras venido cuando mis hijos aún estaban vivos, pues..., quizás habría sido distinto."
     },
     "xPejAg": {
         "en-US": "[Bill Thayer]\nHmm...\nYou'll need 30 Biotite,\nAgate and Citrin. I'm sure those are the materials you need, but I have no idea what the end product is supposed to be...",
         "pt-BR": "[Bill Thayer]\nHmm...\nVocê precisará de 30 Biotita,\nÁgata e Citrino. Tenho certeza de que esses são os materiais de que você precisa, mas não tenho ideia do que o produto final deve ser...",
-        "es-ES": "[Bill Thayer]\nMmm…\nNecesitarás 30 Biotitas,\nÁgatas y Citrinos. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
+        "es-ES": "[Bill Thayer]\nMmm...\nNecesitarás 30 Biotitas,\nÁgatas y Citrinos. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
     },
     "xfejAg": {
         "en-US": "[Bill Thayer]\nHmm...\nYou'll need 30 Muscovite,\nPeridot and Rose Quartz. I'm sure those are the materials you need, but I have no idea what the end product is supposed to be...",
         "pt-BR": "[Bill Thayer]\nHmm...\nVocê precisará de 30 moscovitas,\nPeridoto e Quartzo Rosa. Tenho certeza de que esses são os materiais de que você precisa, mas não faço ideia de como deve ser o produto final...",
-        "es-ES": "[Bill Thayer]\nMmm…\nNecesitarás 30 Moscovitas,\nPeridotos y Cuarzos rosas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
+        "es-ES": "[Bill Thayer]\nMmm...\nNecesitarás 30 Moscovitas,\nPeridotos y Cuarzos rosas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
     },
     "xvejAg": {
         "en-US": "[Bill Thayer]\nWhat...?\nReyghema's research?",
         "pt-BR": "[Bill Thayer]\nO que...?\nA pesquisa de Reyghema?",
-        "es-ES": "[Bill Thayer]\n¿Qué…?\n¿Me preguntas por la investigación de Reyghema?"
+        "es-ES": "[Bill Thayer]\n¿Qué...?\n¿Me preguntas por la investigación de Reyghema?"
     },
     "x/ejAg": {
         "en-US": "[Bill Thayer]\nAll of my sons broke my heart by dying too young. I remember that I always used to tell them: 'Enjoy your youth. ^333333Live without regret.^000000'",
         "pt-BR": "[Bill Thayer]\nTodos os meus filhos partiram meu coração ao morrerem muito jovens. Lembro-me de que eu sempre dizia a eles: ''Aproveitem sua juventude. ^333333Vivam sem arrependimentos.^000000''",
-        "es-ES": "[Bill Thayer]\nMi corazón vive en agonía desde las muertes prematuras de mis hijos… Recuerdo que les solía decir: Disfruta de la juventud. ^333333Vive sin remordimientos^000000."
+        "es-ES": "[Bill Thayer]\nMi corazón vive en agonía desde las muertes prematuras de mis hijos... Recuerdo que les solía decir: Disfruta de la juventud. ^333333Vive sin remordimientos^000000."
     },
     "yPejAg": {
         "en-US": "[Bill Thayer]\nBut I never suspected that their lives would be cut so short. Please remember to live life in such a way that regret won't haunt you later. That's the best advice I can give to you.",
         "pt-BR": "[Bill Thayer]\nMas nunca suspeitei que suas vidas seriam tão curtas. Por favor, lembre-se de viver a vida de forma que o arrependimento não o assombre mais tarde. Esse é o melhor conselho que posso lhe dar.",
-        "es-ES": "[Bill Thayer]\nPero jamás imaginé que sus vidas serían arrebatadas de mis manos tan pronto… Recuerda vivir la vida a fondo, para que el arrepentimiento jamás te agobie. Es el mejor consejo que puedo darte."
+        "es-ES": "[Bill Thayer]\nPero jamás imaginé que sus vidas serían arrebatadas de mis manos tan pronto... Recuerda vivir la vida a fondo, para que el arrepentimiento jamás te agobie. Es el mejor consejo que puedo darte."
     },
     "yfejAg": {
         "en-US": "[Bill Thayer]\nHmm...\nYou'll need 30 Turquoise,\nPeridot and Agate. I'm sure those are the materials you need, but I have no idea what the end product is supposed to be...",
         "pt-BR": "[Bill Thayer]\nHmm...\nVocê precisará de 30 turquesas,\nPeridoto e Ágata. Tenho certeza de que esses são os materiais de que você precisa, mas não faço ideia de como deve ser o produto final...",
-        "es-ES": "[Bill Thayer]\nMmm…\nNecesitaremos 30 Turquesas,\nPeridotos y Ágatas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
+        "es-ES": "[Bill Thayer]\nMmm...\nNecesitaremos 30 Turquesas,\nPeridotos y Ágatas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
     },
     "yvejAg": {
         "en-US": "[Bill Thayer]\nHmm...\nYou'll need 30 Phlogopite,\nPyroxene and Rose Quartz. I'm sure those are the materials you need, but I have no idea what the end product is supposed to be...",
         "pt-BR": "[Bill Thayer]\nHmm...\nVocê precisará de 30 flogopitas,\nPiroxênio e Quartzo Rosa. Tenho certeza de que esses são os materiais de que você precisa, mas não tenho ideia de qual deve ser o produto final...",
-        "es-ES": "[Bill Thayer]\nMmm…\nNecesitarás 30 unidades de Flogopita,\nPiroxenos y Cuarzos rosas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
+        "es-ES": "[Bill Thayer]\nMmm...\nNecesitarás 30 unidades de Flogopita,\nPiroxenos y Cuarzos rosas. No me cabe duda de que esos son los materiales que necesitamos, aunque no sé cuál será el resultado final."
     },
     "y/ejAg": {
         "en-US": "[Bill Thayer]\nWhat...?\nKayron's research?",
         "pt-BR": "[Bill Thayer]\nO que...?\nA pesquisa de Kayron?",
-        "es-ES": "[Bill Thayer]\n¿Qué…?\n¿Me preguntas por la investigación de Kayron?"
+        "es-ES": "[Bill Thayer]\n¿Qué...?\n¿Me preguntas por la investigación de Kayron?"
     },
     "zPejAg": {
         "en-US": "[Bill Thayer]\nListen, I told you...\nThere's nothing I can do.\n^333333I'm utterly helpless here.^000000",
@@ -1192,7 +1192,7 @@
     "zvejAg": {
         "en-US": "[Bill Thayer]\nLeave me alone...\nI'm just a broken old man.",
         "pt-BR": "[Bill Thayer]\nMe deixe em paz...\nSou apenas um velho quebrado.",
-        "es-ES": "[Bill Thayer]\nDéjame en paz…\nNo soy más que un pobre viejo."
+        "es-ES": "[Bill Thayer]\nDéjame en paz...\nNo soy más que un pobre viejo."
     },
     "z/ejAg": {
         "en-US": "[Bill Thayer]\nI don't make weapons anymore for anyone. Maybe I was a well known weaponsmith once, but I just can't bring myself to do any work ever since my sons passed away...",
@@ -1232,12 +1232,12 @@
     "1vejAg": {
         "en-US": "[Citizen]\nBut if you brought him something that reminded him of his life, he'd get his memories back for a little while. Of course, you'd have to actually meet someone in the netherworld to find out for sure.",
         "pt-BR": "[Cidadão]\nMas se você levar a ele algo que o faça lembrar de sua vida, ele recuperará suas memórias por um tempo. É claro que você teria que realmente encontrar alguém no submundo para ter certeza.",
-        "es-ES": "[Ciudadana]\nPero si les muestras un objeto que evoque sus vidas, recordarán brevemente quiénes eran. Ahora bien, primero tendrías que conocer a alguien del más allá para probar esta teoría…"
+        "es-ES": "[Ciudadana]\nPero si les muestras un objeto que evoque sus vidas, recordarán brevemente quiénes eran. Ahora bien, primero tendrías que conocer a alguien del más allá para probar esta teoría..."
     },
     "1/ejAg": {
         "en-US": "[Citizen]\nHuh...\nI know what I'm talking about might be a little morbid, but even the most trivial information might come in handy someday, right?",
         "pt-BR": "[Cidadão]\nHuh...\nSei que o que estou falando pode ser um pouco mórbido, mas até mesmo as informações mais triviais podem ser úteis algum dia, certo?",
-        "es-ES": "[Ciudadana]\nEmm…\nSé que estoy diciendo cosas un tanto lúgubres, pero hasta la información más banal podría resultar útil eventualmente, ¿no?"
+        "es-ES": "[Ciudadana]\nEmm...\nSé que estoy diciendo cosas un tanto lúgubres, pero hasta la información más banal podría resultar útil eventualmente, ¿no?"
     },
     "2PejAg": {
         "en-US": "Kayron",
@@ -1247,7 +1247,7 @@
     "2fejAg": {
         "en-US": "[Kayron]\nHey...\nHow did somebody like\nyou get all the way over here?",
         "pt-BR": "[Kayron]\nEi...\nComo é que alguém como\ncomo você chegou até aqui?",
-        "es-ES": "[Kayron]\nOye…\n¿Cómo es que alguien como tú\nlogró llegar hasta acá?"
+        "es-ES": "[Kayron]\nOye...\n¿Cómo es que alguien como tú\nlogró llegar hasta acá?"
     },
     "2vejAg": {
         "en-US": "[Kayron]\nJust by looking at that tender face of yours, I can tell you're a little weak. You better get out of here and get real strong in a hurry before you even think of coming back.",
@@ -1257,7 +1257,7 @@
     "2/ejAg": {
         "en-US": "[Kayron]\nIn life, I was known as Kayron.\nBut now I'm just another ghost wandering around this realm of\nthe dead. Without a body, I feel\nso useless.",
         "pt-BR": "[Kayron]\nEm vida, eu era conhecido como Kayron.\nMas agora sou apenas mais um fantasma vagando por este reino dos\ndos mortos. Sem um corpo, me sinto\ntão inútil.",
-        "es-ES": "[Kayron]\nEn vida, me conocían como Kayron.\nAhora, soy solo un fantasma más que deambula en pena\npor el reino de los muertos. Me siento tan inútil\nsin un cuerpo…"
+        "es-ES": "[Kayron]\nEn vida, me conocían como Kayron.\nAhora, soy solo un fantasma más que deambula en pena\npor el reino de los muertos. Me siento tan inútil\nsin un cuerpo..."
     },
     "3PejAg": {
         "en-US": "Show interest.",
@@ -1272,12 +1272,12 @@
     "3vejAg": {
         "en-US": "[Kayron]\nHuh...?\nI can't remember what I was going to say. M-my memories! I... I can't seem to recollect...",
         "pt-BR": "[Kayron]\nHã...?\nNão consigo me lembrar do que eu ia dizer. M-minhas memórias! I... Parece que não consigo me lembrar...",
-        "es-ES": "[Kayron]\n¿Eh…?\nOlvidé lo que iba a decir. ¡Mis recuerdos…! No puedo… ¡No puedo recordar nada…!"
+        "es-ES": "[Kayron]\n¿Eh...?\nOlvidé lo que iba a decir. ¡Mis recuerdos...! No puedo... ¡No puedo recordar nada...!"
     },
     "3/ejAg": {
         "en-US": "[Kayron]\nUseless...\nAbsolutely useless...",
         "pt-BR": "[Kayron]\nInútil...\nAbsolutamente inútil...",
-        "es-ES": "[Kayron]\nInútil…\nSoy tan… inútil…"
+        "es-ES": "[Kayron]\nInútil...\nSoy tan... inútil..."
     },
     "4PejAg": {
         "en-US": "[Kayron]\nI sense something from\nyou. Almost as if you were\nhere with some sort of goal.",
@@ -1287,47 +1287,47 @@
     "4fejAg": {
         "en-US": "[Kayron]\nI'm surprised...\nAnd a little envious.\nIt can be said that most\nin Niflheim come here with\nlittle or no purpose.",
         "pt-BR": "[Kayron]\nEstou surpreso...\nE um pouco invejoso.\nPode-se dizer que a maioria dos\nem Niflheim vem para cá com\npouco ou nenhum propósito.",
-        "es-ES": "[Kayron]\nMe sorprende…\ny me causa un poco de envidia.\nPodría decirse que la mayoría\nviene a Niflheim con propósitos\nmuy superficiales, o incluso sin ellos."
+        "es-ES": "[Kayron]\nMe sorprende...\ny me causa un poco de envidia.\nPodría decirse que la mayoría\nviene a Niflheim con propósitos\nmuy superficiales, o incluso sin ellos."
     },
     "4vejAg": {
         "en-US": "[Kayron]\nHeh heh heh...\nYou're just in time.\nThe time has come for\nme to reveal the results\nof my work...",
         "pt-BR": "[Kayron]\nHeh heh heh...\nVocê chegou bem na hora.\nChegou a hora de\nde eu revelar os resultados\ndo meu trabalho...",
-        "es-ES": "[Kayron]\nJe, je, je…\nLlegas justo a tiempo.\nLlegó la hora\nde que te muestre los resultados\nde mi trabajo…"
+        "es-ES": "[Kayron]\nJe, je, je...\nLlegas justo a tiempo.\nLlegó la hora\nde que te muestre los resultados\nde mi trabajo..."
     },
     "4/ejAg": {
         "en-US": "[Kayron]\nIt's a success!\nI completed the experiment\nthat got me killed! I almost\ncan't believe it! I created\nthis... Great Axe!",
         "pt-BR": "[Kayron]\nFoi um sucesso!\nConcluí o experimento\nque me matou! Eu quase\nnão consigo acreditar! Eu criei\neste... Grande machado!",
-        "es-ES": "[Kayron]\n¡Lo logré!\n¡Llevé a término el experimento\nque causó mi muerte! ¡No lo puedo\ncreer! He aquí mi creación.\nSe llama… ¡Gran hacha!"
+        "es-ES": "[Kayron]\n¡Lo logré!\n¡Llevé a término el experimento\nque causó mi muerte! ¡No lo puedo\ncreer! He aquí mi creación.\nSe llama... ¡Gran hacha!"
     },
     "5PejAg": {
         "en-US": "[Kayron]\nI'm so glad that my years of research haven't been wasted.\nIf only Father were able to see this, he'd be really happy for me.",
         "pt-BR": "[Kayron]\nEstou muito feliz que meus anos de pesquisa não tenham sido desperdiçados.\nSe papai pudesse ver isso, ele ficaria muito feliz por mim.",
-        "es-ES": "[Kayron]\nMe alegro mucho de que mis años de investigación no hayan sido en vano.\nSi solo papá estuviera aquí para ver esto… Estoy seguro de que se sentiría orgulloso."
+        "es-ES": "[Kayron]\nMe alegro mucho de que mis años de investigación no hayan sido en vano.\nSi solo papá estuviera aquí para ver esto... Estoy seguro de que se sentiría orgulloso."
     },
     "5fejAg": {
         "en-US": "[Kayron]\nOh no...\n^333333*Sigh*^000000 I can feel my memories beginning to fade again. If you ever see me, please let me\nremember my past again.\nThank you...",
-        "pt-BR": "[Kayron]\nOh não...\n^333333*Suspiro*^000000 Posso sentir minhas memórias começando a desaparecer novamente. Se você me vir, por favor, deixe-me lembrar de meu passado novamente.\nObrigado…",
-        "es-ES": "[Kayron]\nAy, no…\n^333333*Suspira*^000000 Siento que mis recuerdos empiezan a desvanecerse de nuevo. Si alguna día vuelves a verme, te ruego\nque me ayudes a evocar mi pasado una vez más.\nGracias…"
+        "pt-BR": "[Kayron]\nOh não...\n^333333*Suspiro*^000000 Posso sentir minhas memórias começando a desaparecer novamente. Se você me vir, por favor, deixe-me lembrar de meu passado novamente.\nObrigado...",
+        "es-ES": "[Kayron]\nAy, no...\n^333333*Suspira*^000000 Siento que mis recuerdos empiezan a desvanecerse de nuevo. Si alguna día vuelves a verme, te ruego\nque me ayudes a evocar mi pasado una vez más.\nGracias..."
     },
     "5vejAg": {
         "en-US": "[Kayron]\nIt's a success!\nI completed the experiment\nthat got me killed! I almost\ncan't believe it! I created\nthis... Guillotine!",
         "pt-BR": "[Kayron]\nFoi um sucesso!\nConcluí o experimento\nque me matou! Eu quase\nnão consigo acreditar! Eu criei\nesta... Guilhotina!",
-        "es-ES": "[Kayron]\n¡Lo logré!\n¡Llevé a término el experimento\nque causó mi muerte! ¡No lo puedo\ncreer! He aquí mi creación.\nSe llama… ¡Gran guillotina!"
+        "es-ES": "[Kayron]\n¡Lo logré!\n¡Llevé a término el experimento\nque causó mi muerte! ¡No lo puedo\ncreer! He aquí mi creación.\nSe llama... ¡Gran guillotina!"
     },
     "5/ejAg": {
         "en-US": "[Kayron]\nIt's a success!\nI completed the experiment\nthat got me killed! I almost\ncan't believe it! I created\nthis... Longinus's Spear!",
         "pt-BR": "[Kayron]\nFoi um sucesso!\nConcluí o experimento\nque me matou! Eu quase\nnão consigo acreditar! Eu criei\nisso... A lança de Longinus!",
-        "es-ES": "[Kayron]\n¡Lo logré!\n¡Llevé a término el experimento\nque causó mi muerte! ¡No lo puedo\ncreer! He aquí mi creación.\nSe llama… ¡Lanza de Longinos!"
+        "es-ES": "[Kayron]\n¡Lo logré!\n¡Llevé a término el experimento\nque causó mi muerte! ¡No lo puedo\ncreer! He aquí mi creación.\nSe llama... ¡Lanza de Longinos!"
     },
     "6PejAg": {
         "en-US": "[Kayron]\nIt's a success!\nI completed the experiment\nthat got me killed! I almost\ncan't believe it! I created\nthis... Brionac!",
         "pt-BR": "[Kayron]\nFoi um sucesso!\nConcluí o experimento\nque me matou! Eu quase\nnão consigo acreditar! Eu criei\neste... Brionac!",
-        "es-ES": "[Kayron]\n¡Lo logré!\n¡Llevé a término el experimento\nque causó mi muerte! ¡No lo puedo\ncreer! He aquí mi creación.\nSe llama… ¡Brionac!"
+        "es-ES": "[Kayron]\n¡Lo logré!\n¡Llevé a término el experimento\nque causó mi muerte! ¡No lo puedo\ncreer! He aquí mi creación.\nSe llama... ¡Brionac!"
     },
     "6fejAg": {
         "en-US": "[Kayron]\nWhat's this?\nThe stuff you're carrying\naround looks awfully familiar.\nHm, let me take a look, please...",
         "pt-BR": "[Kayron]\nO que é isso?\nAs coisas que você está carregando\nparece muito familiar.\nDeixe-me dar uma olhada, por favor...",
-        "es-ES": "[Kayron]\n¿Qué es esto?\nLos objetos que llevas contigo\nme parecen muy familiares.\nDéjame echarles un vistazo, por favor…"
+        "es-ES": "[Kayron]\n¿Qué es esto?\nLos objetos que llevas contigo\nme parecen muy familiares.\nDéjame echarles un vistazo, por favor..."
     },
     "6vejAg": {
         "en-US": "[Kayron]\nYes, I was right!\nI can use these to smith a weapon! How did you know these were the materials I need? In any case, this is great!",
@@ -1372,17 +1372,17 @@
     "8vejAg": {
         "en-US": "[Kayron]\nNow...\nLet's play\nthe second match~",
         "pt-BR": "[Kayron]\nAgora...\nVamos jogar\na segunda partida~",
-        "es-ES": "[Kayron]\nAhora…\nHora de la\nsegunda ronda."
+        "es-ES": "[Kayron]\nAhora...\nHora de la\nsegunda ronda."
     },
     "8/ejAg": {
         "en-US": "[Kayron]\nAlright...\nOne last time.\nWrite down 'Rock,'\n'Paper' or 'Scissors.'",
         "pt-BR": "[Kayron]\nTudo bem...\nUma última vez.\nEscrevam ''Pedra'', ''Papel'' ou ''Tesoura''.\n''Papel'' ou ''Tesoura''.",
-        "es-ES": "[Kayron]\nYa veo…\nY una última vez.\nEscribe piedra,\npapel o tijera."
+        "es-ES": "[Kayron]\nYa veo...\nY una última vez.\nEscribe piedra,\npapel o tijera."
     },
     "9PejAg": {
         "en-US": "[Kayron]\nWe're done!\nNow, I wrote down...",
         "pt-BR": "[Kayron]\nTerminamos!\nAgora, eu anotei...",
-        "es-ES": "[Kayron]\n¡Y se acabó!\nEntonces, yo escribí, en orden…"
+        "es-ES": "[Kayron]\n¡Y se acabó!\nEntonces, yo escribí, en orden..."
     },
     "9fejAg": {
         "en-US": "Scissors",
@@ -1402,7 +1402,7 @@
     "+PejAg": {
         "en-US": "[Kayron]\nYou wrote down...",
         "pt-BR": "[Kayron]\nVocê escreveu...",
-        "es-ES": "[Kayron]\nY tú escribiste…"
+        "es-ES": "[Kayron]\nY tú escribiste..."
     },
     "+fejAg": {
         "en-US": "[Kayron]\nLet's see...\nYou won {0} times.\nYou must be really\nWithout a doubt, you've\ngot some pretty good luck~",
@@ -1427,7 +1427,7 @@
     "/fejAg": {
         "en-US": "[Kayron]\nI can't seem to recall the rest\nof the materials I need. This is beginning to get really frustrating.",
         "pt-BR": "[Kayron]\nParece que não consigo me lembrar do restante\ndos materiais que preciso. Isso está começando a ficar muito frustrante.",
-        "es-ES": "[Kayron]\nNo puedo recordar la lista completa\nde materiales que necesito… Esto se está volviendo muy frustrante."
+        "es-ES": "[Kayron]\nNo puedo recordar la lista completa\nde materiales que necesito... Esto se está volviendo muy frustrante."
     },
     "/vejAg": {
         "en-US": "[Kayron]\nI mean, me and my father used to know this stuff like it was second nature. What's wrong with me...?",
@@ -1437,7 +1437,7 @@
     "//ejAg": {
         "en-US": "[Kayron]\nOh...!\nI had no idea you were such a reliable person! You brought the things I've asked for pretty quickly!",
         "pt-BR": "[Kayron]\nOh...!\nEu não sabia que você era uma pessoa tão confiável! Você trouxe as coisas que eu pedi bem rápido!",
-        "es-ES": "[Kayron]\n¡Oh…!\n¡No tenía idea de que eras una persona tan confiable! No te demoraste ni un poco en traer todo lo que te pedí."
+        "es-ES": "[Kayron]\n¡Oh...!\n¡No tenía idea de que eras una persona tan confiable! No te demoraste ni un poco en traer todo lo que te pedí."
     },
     "APijAg": {
         "en-US": "[Kayron]\nBut I still can't remember the rest of the things that I'll be needing. I'm really sorry...",
@@ -1457,17 +1457,17 @@
     "A/ijAg": {
         "en-US": "[Kayron]\nSo far, I know I'll need\n2 Hammer of Blacksmith\n1 Emperium Anvil\n1 Illusion Flower and\n20 Gold.",
         "pt-BR": "[Kayron]\nAté o momento, sei que precisarei de\n2 Martelos de ferreiro\n1 bigorna do Emperium\n1 Illusion Flower e\n20 Gold.",
-        "es-ES": "[Kayron]\nHasta ahora, solo recuerdo que necesito…\n2 Martillos de Herrero,\n1 Yunque de Emperium,\n1 Flor de ilusión y\n20 unidades de Oro."
+        "es-ES": "[Kayron]\nHasta ahora, solo recuerdo que necesito...\n2 Martillos de Herrero,\n1 Yunque de Emperium,\n1 Flor de ilusión y\n20 unidades de Oro."
     },
     "BPijAg": {
         "en-US": "[Kayron]\nI know there were a few more\nthings that are crucial to this weapon's construction, but...\nI can't seem to concentrate hard enough to remember.",
         "pt-BR": "[Kayron]\nEu sei que há mais algumas\ncoisas que são cruciais para a construção dessa arma, mas...\nParece que não consigo me concentrar o suficiente para lembrar.",
-        "es-ES": "[Kayron]\nSé que había más cosas\nque eran esenciales para fabricar esta arma, pero…\nSimplemente no puedo recordar nada."
+        "es-ES": "[Kayron]\nSé que había más cosas\nque eran esenciales para fabricar esta arma, pero...\nSimplemente no puedo recordar nada."
     },
     "BfijAg": {
         "en-US": "[Kayron]\nAlright...\nI just remembered\nmost of the things\nI need to make you\na great weapon.",
         "pt-BR": "[Kayron]\nTudo bem...\nAcabei de me lembrar\nda maioria das coisas\nque preciso para fazer de você\numa ótima arma.",
-        "es-ES": "[Kayron]\nYa veo…\nAcabo de recordar\nla mayoría de las cosas\nque necesito para fabricarte\nuna gran arma."
+        "es-ES": "[Kayron]\nYa veo...\nAcabo de recordar\nla mayoría de las cosas\nque necesito para fabricarte\nuna gran arma."
     },
     "BvijAg": {
         "en-US": "[Kayron]\nI believe it's fair to let you know that I can't guarantee what weapon will be produced from this work since, quite frankly, I can't remember.",
@@ -1477,7 +1477,7 @@
     "B/ijAg": {
         "en-US": "[Kayron]\nBring those items to me first. I'm pretty sure there was something else I'll be needing, but I can't seem to remember. This memory\nof mine is beginning to worry me a little bit...",
         "pt-BR": "[Kayron]\nTraga esses itens para mim primeiro. Tenho certeza de que há algo mais de que precisarei, mas não consigo me lembrar. Essa minha memória\nEssa minha memória está começando a me preocupar um pouco...",
-        "es-ES": "[Kayron]\nTe pido que me consigas esos objetos primero. Estoy casi seguro de que necesito algo más, pero, francamente, ahora mismo no recuerdo qué es. Estoy comenzando\na preocuparme por mi mala memoria…"
+        "es-ES": "[Kayron]\nTe pido que me consigas esos objetos primero. Estoy casi seguro de que necesito algo más, pero, francamente, ahora mismo no recuerdo qué es. Estoy comenzando\na preocuparme por mi mala memoria..."
     },
     "CPijAg": {
         "en-US": "[Kayron]\nAnyway, I'll be waiting for you here while you go out and collect those things. Be careful, alright?",
@@ -1487,7 +1487,7 @@
     "CfijAg": {
         "en-US": "[Kayron]\nThere's nothing I can do.\nI'm... Um... I'm...?",
         "pt-BR": "[Kayron]\nNão há nada que eu possa fazer.\nEu... Hum... eu estou...?",
-        "es-ES": "[Kayron]\nno hay nada que pueda hacer.\nSoy… Emm… ¿Soy un...?"
+        "es-ES": "[Kayron]\nno hay nada que pueda hacer.\nSoy... Emm... ¿Soy un...?"
     },
     "CvijAg": {
         "en-US": "I'm utterly helpless here.",
@@ -1532,7 +1532,7 @@
     "EvijAg": {
         "en-US": "[Kayron]\nHuh...?\nWhat did you just say?\nI'm sorry, I'm trying to remember something my father always used\nto say...",
         "pt-BR": "[Kayron]\nHã...?\nO que você acabou de dizer?\nDesculpe-me, estou tentando me lembrar de algo que meu pai sempre\ndizia...",
-        "es-ES": "[Kayron]\n¿Eh…?\n¿Qué acabas de decir?\nLo siento, pero estoy intentando recordar\nalgo que mi padre solía decir…"
+        "es-ES": "[Kayron]\n¿Eh...?\n¿Qué acabas de decir?\nLo siento, pero estoy intentando recordar\nalgo que mi padre solía decir..."
     },
     "E/ijAg": {
         "en-US": "Reyghema",
@@ -1542,7 +1542,7 @@
     "FPijAg": {
         "en-US": "[Reyghema]\nHow...\nthe hell...?",
         "pt-BR": "[Reyghema]\nComo...\ncomo...?",
-        "es-ES": "[Reyghema]\nPero ¿qué\ndemonios…?"
+        "es-ES": "[Reyghema]\nPero ¿qué\ndemonios...?"
     },
     "FfijAg": {
         "en-US": "[Reyghema]\nWhat's a living person doing here? Stick around and I guarantee that you won't be alive much longer. Come on, you don't want to end up like me. Hurry and get out of here!",
@@ -1552,22 +1552,22 @@
     "FvijAg": {
         "en-US": "[Reyghema]\nDamn it...\nI didn't want to die!",
         "pt-BR": "[Reyghema]\nDroga...\nEu não queria morrer!",
-        "es-ES": "[Reyghema]\nMaldición…\n¡No quería morir aún!"
+        "es-ES": "[Reyghema]\nMaldición...\n¡No quería morir aún!"
     },
     "F/ijAg": {
         "en-US": "[Reyghema]\nWell, nothing that's alive really wants to die, but I was so close to finishing what I wanted to do. Ah, youth...",
         "pt-BR": "[Reyghema]\nBem, nada que está vivo realmente quer morrer, mas eu estava tão perto de terminar o que eu queria fazer. Ah, a juventude...",
-        "es-ES": "[Reyghema]\nEs decir, nadie quiere morir, pero ¡estuve tan cerca de cumplir mi objetivo! Ay, la dulce juventud…"
+        "es-ES": "[Reyghema]\nEs decir, nadie quiere morir, pero ¡estuve tan cerca de cumplir mi objetivo! Ay, la dulce juventud..."
     },
     "GPijAg": {
         "en-US": "[Reyghema]\nYouth...\nEnjoy your youth...\nI remember hearing\nsomething like that,\nbut there was more to it...",
         "pt-BR": "[Reyghema]\nJuventude...\nAproveite sua juventude...\nEu me lembro de ter ouvido\nalgo parecido com isso,\nmas havia mais do que isso...",
-        "es-ES": "[Reyghema]\n¿Juventud…?\nDisfruta de la juventud…\nRecuerdo un decir\nque guardaba relación con eso,\npero era una frase más larga."
+        "es-ES": "[Reyghema]\n¿Juventud...?\nDisfruta de la juventud...\nRecuerdo un decir\nque guardaba relación con eso,\npero era una frase más larga."
     },
     "GfijAg": {
         "en-US": "[Reyghema]\nEnjoy your youth...\nEnjoy your youth...\n...What came after that?",
         "pt-BR": "[Reyghema]\nAproveite sua juventude...\nAproveite sua juventude...\n...O que veio depois disso?",
-        "es-ES": "[Reyghema]\nDisfruta de la juventud…\nDisfruta de la juventud…\n¿…Qué venía después?"
+        "es-ES": "[Reyghema]\nDisfruta de la juventud...\nDisfruta de la juventud...\n¿...Qué venía después?"
     },
     "GvijAg": {
         "en-US": "[Reyghema]\nArgh!\nI can't remember!\nEverything in my\nhead is so cloudy!",
@@ -1577,7 +1577,7 @@
     "G/ijAg": {
         "en-US": "[Reyghema]\nHey...\nIt feels like you came\nhere to finish something.\nYeah, there's a complete difference between someone who's aimless and someone with a purpose.",
         "pt-BR": "[Reyghema]\nEi...\nParece que você veio\naqui para terminar alguma coisa.\nSim, há uma diferença completa entre alguém que não tem objetivo e alguém com um objetivo.",
-        "es-ES": "[Reyghema]\nOye…\nSiento como si estuvieras aquí\npara terminar un asunto inconcluso.\nSí, la sensación que irradia una persona que tiene un propósito en mente es inconfundible."
+        "es-ES": "[Reyghema]\nOye...\nSiento como si estuvieras aquí\npara terminar un asunto inconcluso.\nSí, la sensación que irradia una persona que tiene un propósito en mente es inconfundible."
     },
     "HPijAg": {
         "en-US": "[Reyghema]\nI almost feel sorry for you though, if you have business to finish in a place like Niflheim.",
@@ -1587,12 +1587,12 @@
     "HfijAg": {
         "en-US": "[Reyghema]\n...\n...Finally.",
         "pt-BR": "[Reyghema]\n...\n... Finalmente.",
-        "es-ES": "[Reyghema]\n…\n…Finalmente."
+        "es-ES": "[Reyghema]\n...\n...Finalmente."
     },
     "HvijAg": {
         "en-US": "[Reyghema]\nI did it!\nI died trying to make this,\nbut I finally finished it!\nThis is... Berserk!",
         "pt-BR": "[Reyghema]\nConsegui!\nEu morri tentando fazer isso,\nmas finalmente terminei!\nIsso é... Berserk!",
-        "es-ES": "[Reyghema]\n¡Lo logré!\nPerdí la vida intentando fabricar esto,\n¡pero finalmente lo logré!\nSe llama… ¡Berserk!"
+        "es-ES": "[Reyghema]\n¡Lo logré!\nPerdí la vida intentando fabricar esto,\n¡pero finalmente lo logré!\nSe llama... ¡Berserk!"
     },
     "H/ijAg": {
         "en-US": "[Reyghema]\n^333333*Sigh*^000000 I can feel it happening again. My memories are starting to slip away. Can't I be allowed to hold on to this memory?",
@@ -1607,27 +1607,27 @@
     "IfijAg": {
         "en-US": "[Reyghema]\nIf you ever get the chance, come back and help me remember my\npast so that I can experience the joy of weapon crafting again. Farewell, adventurer...",
         "pt-BR": "[Reyghema]\nSe tiver a chance, volte e me ajude a lembrar do meu\npassado para que eu possa experimentar a alegria de criar armas novamente. Adeus, aventureiro...",
-        "es-ES": "[Reyghema]\nSi alguna vez tienes la oportunidad, vuelve y ayúdame\na evocar mi pasado para sentir, una vez más, la alegría de forjar un arma. Adiós, trotamundos…"
+        "es-ES": "[Reyghema]\nSi alguna vez tienes la oportunidad, vuelve y ayúdame\na evocar mi pasado para sentir, una vez más, la alegría de forjar un arma. Adiós, trotamundos..."
     },
     "IvijAg": {
         "en-US": "[Reyghema]\nI did it!\nI died trying to make this,\nbut I finally finished it!\nThis is... the Rudra Bow!",
         "pt-BR": "[Reyghema]\nConsegui!\nEu morri tentando fazer isso,\nmas finalmente o terminei!\nEste é... o Arco Rudra!",
-        "es-ES": "[Reyghema]\n¡Lo logré!\nPerdí la vida intentando fabricar esto,\n¡pero finalmente lo logré!\nSe llama… ¡Arco de Rudra!"
+        "es-ES": "[Reyghema]\n¡Lo logré!\nPerdí la vida intentando fabricar esto,\n¡pero finalmente lo logré!\nSe llama... ¡Arco de Rudra!"
     },
     "I/ijAg": {
         "en-US": "[Reyghema]\nI did it!\nI died trying to make this,\nbut I finally finished it!\nThis is... Tjungkuletti!",
         "pt-BR": "[Reyghema]\nConsegui!\nEu morri tentando fazer isso,\nmas finalmente terminei!\nEste é... Tjungkuletti!",
-        "es-ES": "[Reyghema]\n¡Lo logré!\nPerdí la vida intentando fabricar esto,\n¡pero finalmente lo logré!\nSe llama… ¡Tsiunkuletti!"
+        "es-ES": "[Reyghema]\n¡Lo logré!\nPerdí la vida intentando fabricar esto,\n¡pero finalmente lo logré!\nSe llama... ¡Tsiunkuletti!"
     },
     "JPijAg": {
         "en-US": "[Reyghema]\nI did it!\nI died trying to make this,\nbut I finally finished it!\nThis is... Brocca! Weee~ I made it!",
         "pt-BR": "[Reyghema]\nConsegui!\nEu morri tentando fazer isso,\nmas finalmente terminei!\nIsso é... Brocca! Weee~ Consegui!",
-        "es-ES": "[Reyghema]\n¡Lo logré!\nPerdí la vida intentando fabricar esto,\n¡pero finalmente lo logré!\nSe llama… ¡Brocca! ¡Sííí! ¡Lo logré!"
+        "es-ES": "[Reyghema]\n¡Lo logré!\nPerdí la vida intentando fabricar esto,\n¡pero finalmente lo logré!\nSe llama... ¡Brocca! ¡Sííí! ¡Lo logré!"
     },
     "JfijAg": {
         "en-US": "[Reyghema]\nWait...\nThe stuff that you have. Those are things I'll need for my creation! Let me take a look...",
         "pt-BR": "[Reyghema]\nEspere...\nAs coisas que você tem. São coisas que vou precisar para minha criação! Deixe-me dar uma olhada...",
-        "es-ES": "[Reyghema]\nEspera…\nLas cosas que llevas contigo… ¡Son lo que necesito para mi más grande obra! Déjame echar un vistazo..."
+        "es-ES": "[Reyghema]\nEspera...\nLas cosas que llevas contigo... ¡Son lo que necesito para mi más grande obra! Déjame echar un vistazo..."
     },
     "JvijAg": {
         "en-US": "[Reyghema]\nYes, this is perfect!\nBut how did you know exactly what materials I needed? Oh, it doesn't matter, I guess.",
@@ -1667,12 +1667,12 @@
     "LfijAg": {
         "en-US": "[Reyghema]\nAlright, now\nI wrote down...",
         "pt-BR": "[Reyghema]\nMuito bem, agora\nEu escrevi...",
-        "es-ES": "[Reyghema]\nMuy bien,\nlo que escribí, en orden, fue…"
+        "es-ES": "[Reyghema]\nMuy bien,\nlo que escribí, en orden, fue..."
     },
     "LvijAg": {
         "en-US": "[Reyghema]\nYou wrote down...",
         "pt-BR": "[Reyghema]\nVocê escreveu...",
-        "es-ES": "[Reyghema]\nY tú escribiste…"
+        "es-ES": "[Reyghema]\nY tú escribiste..."
     },
     "L/ijAg": {
         "en-US": "[Reyghema]\nNice. You won {0} times. Your luck is really good, so now we're finally finished with this nonsense.",
@@ -1687,7 +1687,7 @@
     "MfijAg": {
         "en-US": "[Reyghema]\nDamn...\nI should be happy I won, but that just means your luck is bad and\nwe need to do this again.",
         "pt-BR": "[Reyghema]\nDroga...\nEu deveria estar feliz por ter vencido, mas isso só significa que sua sorte é ruim e\nprecisamos fazer isso de novo.",
-        "es-ES": "[Reyghema]\nMaldita sea…\nDebería alegrarme de haber ganado, pero esto significa que te persigue la mala suerte\ny que tendremos que hacer esto otra vez."
+        "es-ES": "[Reyghema]\nMaldita sea...\nDebería alegrarme de haber ganado, pero esto significa que te persigue la mala suerte\ny que tendremos que hacer esto otra vez."
     },
     "MvijAg": {
         "en-US": "[Reyghema]\nI'm sorry, but I'll need to take a bunch of one of your ores to get rid of your bad luck. Come back with all of the ore we'll need so we can test your luck again, alright?",
@@ -1702,12 +1702,12 @@
     "NPijAg": {
         "en-US": "[Reyghema]\n...",
         "pt-BR": "[Reyghema]\n...",
-        "es-ES": "[Reyghema]\n…"
+        "es-ES": "[Reyghema]\n..."
     },
     "NfijAg": {
         "en-US": "[Reyghema]\n...\n......",
         "pt-BR": "[Reyghema]\n...\n......",
-        "es-ES": "[Reyghema]\n…\n......"
+        "es-ES": "[Reyghema]\n...\n......"
     },
     "NvijAg": {
         "en-US": "[Reyghema]\nDamn.\nDamn, damn, damn!\n'Killing me?!' I'm already dead!",
@@ -1717,7 +1717,7 @@
     "N/ijAg": {
         "en-US": "[Reyghema]\nGood work, you've brought everything I asked for. However, there's been a bit of a snafu in the plans...",
         "pt-BR": "[Reyghema]\nBom trabalho, você trouxe tudo o que eu pedi. No entanto, houve um pequeno contratempo nos planos...",
-        "es-ES": "[Reyghema]\nBuen trabajo, conseguiste todo lo que te pedí. Sin embargo, surgió un pequeño problema en nuestros planes…"
+        "es-ES": "[Reyghema]\nBuen trabajo, conseguiste todo lo que te pedí. Sin embargo, surgió un pequeño problema en nuestros planes..."
     },
     "OPijAg": {
         "en-US": "[Reyghema]\nThe original plan was that I'd remember everything else I need once you came back with this stuff. But I didn't.",
@@ -1757,7 +1757,7 @@
     "P/ijAg": {
         "en-US": "[Reyghema]\nFor now, just go and bring back the things I asked for. The sooner, the better. Hurry, I don't know how long my memories will last...",
         "pt-BR": "[Reyghema]\nPor enquanto, apenas vá e traga de volta as coisas que eu pedi. Quanto mais cedo, melhor. Apresse-se, não sei quanto tempo minhas memórias durarão...",
-        "es-ES": "[Reyghema]\nPor ahora, solo consigue las cosas que te pedí. Cuanto antes, mejor. Apresúrate, que no sé cuánto tiempo más conservaré mis recuerdos…"
+        "es-ES": "[Reyghema]\nPor ahora, solo consigue las cosas que te pedí. Cuanto antes, mejor. Apresúrate, que no sé cuánto tiempo más conservaré mis recuerdos..."
     },
     "QPijAg": {
         "en-US": "Live without regret.",
@@ -1767,12 +1767,12 @@
     "QfijAg": {
         "en-US": "[Reyghema]\n...\n.......\nEnjoy your youth.\nLive without regret.",
         "pt-BR": "[Reyghema]\n...\n.......\nAproveite sua juventude.\nViva sem arrependimentos.",
-        "es-ES": "[Reyghema]\n…\n……\nDisfruta de la juventud.\nVive sin remordimientos."
+        "es-ES": "[Reyghema]\n...\n......\nDisfruta de la juventud.\nVive sin remordimientos."
     },
     "QvijAg": {
         "en-US": "[Reyghema]\nOf course...\nMy father, Bill Thayer used to say that all the time! That's right!",
         "pt-BR": "[Reyghema]\nÉ claro...\nMeu pai, Bill Thayer, costumava dizer isso o tempo todo! É isso mesmo!",
-        "es-ES": "[Reyghema]\nPor supuesto…\n¡Bill Thayer, mi padre, solía decir eso todo el tiempo! ¡Así es!"
+        "es-ES": "[Reyghema]\nPor supuesto...\n¡Bill Thayer, mi padre, solía decir eso todo el tiempo! ¡Así es!"
     },
     "Q/ijAg": {
         "en-US": "[Reyghema]\nHey you, thanks for refreshing my memory. It's all coming back to me. I used to be a weaponsmith, but I regret never finishing my final project...",
@@ -1797,7 +1797,7 @@
     "R/ijAg": {
         "en-US": "[Reyghema]\nWhat...?\nYou playin' games\nwith me or what?\nGet outta my face~",
         "pt-BR": "[Reyghema]\nO que...?\nEstá brincando\ncomigo ou o quê?\nSaia da minha frente~",
-        "es-ES": "[Reyghema]\n¿Qué…?\n¿Me estás tomando\nel pelo o qué?\nSerá mejor que te vayas."
+        "es-ES": "[Reyghema]\n¿Qué...?\n¿Me estás tomando\nel pelo o qué?\nSerá mejor que te vayas."
     },
     "SPijAg": {
         "en-US": "Hein",
@@ -1807,12 +1807,12 @@
     "SfijAg": {
         "en-US": "[Hein]\nIt looks like you want to ask me something. Heh, my customers used to have that look on that faces too when I worked as a weaponsmith...",
         "pt-BR": "[Hein]\nParece que você quer me perguntar algo. Heh, meus clientes também costumavam ter essa expressão no rosto quando eu trabalhava como armeiro...",
-        "es-ES": "[Hein]\nParece que quieres preguntarme algo. Je, mis clientes también solían poner esa cara cuando trabajaba como armero…"
+        "es-ES": "[Hein]\nParece que quieres preguntarme algo. Je, mis clientes también solían poner esa cara cuando trabajaba como armero..."
     },
     "SvijAg": {
         "en-US": "[Hein]\nBack during those days,\nI never accepted money for my work. Father always used to say, 'Never accept payment to forge a good weapon. It... It...'",
         "pt-BR": "[Hein]\nNaquela época,\neu nunca aceitava dinheiro pelo meu trabalho. Meu pai sempre dizia: 'Nunca aceite pagamento para forjar uma boa arma. Isso... Ela...",
-        "es-ES": "[Hein]\nEn aquellos días,\nnunca acepté dinero por mi trabajo. Mi padre siempre solía decir: Jamás aceptes dinero a cambio de forjar una buena arma. Porque... Porque trae…"
+        "es-ES": "[Hein]\nEn aquellos días,\nnunca acepté dinero por mi trabajo. Mi padre siempre solía decir: Jamás aceptes dinero a cambio de forjar una buena arma. Porque... Porque trae..."
     },
     "S/ijAg": {
         "en-US": "[Hein]\nWhat was the rest of it?\nWhy can't I remember the\nrest of that saying?!",
@@ -1822,7 +1822,7 @@
     "TPijAg": {
         "en-US": "[Hein]\nIt's so weird.\nHow could I forget\nsomething I used to\nsay all the time? I...\nI hate being dead!",
         "pt-BR": "[Hein]\nÉ tão estranho.\nComo eu poderia esquecer\nalgo que eu costumava\ndizia o tempo todo? I...\nOdeio estar morto!",
-        "es-ES": "[Hein]\nEs demasiado extraño.\n¿Cómo podría olvidar\nalgo que solía\ndecir todo el tiempo? Odio…\n¡Odio estar muerto!"
+        "es-ES": "[Hein]\nEs demasiado extraño.\n¿Cómo podría olvidar\nalgo que solía\ndecir todo el tiempo? Odio...\n¡Odio estar muerto!"
     },
     "TfijAg": {
         "en-US": "[Hein]\nNuts! Why can't I remember\nthe rest of that saying?!",
@@ -1842,47 +1842,47 @@
     "UPijAg": {
         "en-US": "[Hein]\nYou're here!\nI just finished my work!\nYou want to see it, don't you?\nNow, take a deep breath...",
         "pt-BR": "[Hein]\nVocê está aqui!\nAcabei de terminar meu trabalho!\nVocê quer vê-lo, não quer?\nAgora, respire fundo...",
-        "es-ES": "[Hein]\n¡Aquí estás!\n¡Acabo de terminar mi trabajo!\nTe mueres por verlo, ¿no?\nRespira profundo…"
+        "es-ES": "[Hein]\n¡Aquí estás!\n¡Acabo de terminar mi trabajo!\nTe mueres por verlo, ¿no?\nRespira profundo..."
     },
     "UfijAg": {
         "en-US": "[Hein]\nHaha~!\nThis is great!\nFinally, my life's\nwork is complete!\nThis weapon's name\nis Edge!",
         "pt-BR": "[Hein]\nHaha~!\nIsso é ótimo!\nFinalmente, o trabalho da minha vida\ntrabalho de minha vida está completo!\nO nome desta arma\né Edge!",
-        "es-ES": "[Hein]\n¡Ja, ja!\n¡Genial!\n¡Finalmente, el trabajo\nde mi vida está completo!\nEl nombre de esta arma es…\n¡Filo!"
+        "es-ES": "[Hein]\n¡Ja, ja!\n¡Genial!\n¡Finalmente, el trabajo\nde mi vida está completo!\nEl nombre de esta arma es...\n¡Filo!"
     },
     "UvijAg": {
         "en-US": "[Hein]\nHaha~!\nThis is great!\nFinally, my life's\nwork is complete!\nThis weapon's name\nis Excalibur!",
         "pt-BR": "[Hein]\nHaha~!\nIsso é ótimo!\nFinalmente, o trabalho da minha vida\ntrabalho de minha vida está completo!\nO nome dessa arma\né Excalibur!",
-        "es-ES": "[Hein]\n¡Ja, ja!\n¡Genial!\n¡Finalmente, el trabajo\nde mi vida está completo!\nEl nombre de esta arma es…\n¡Excálibur!"
+        "es-ES": "[Hein]\n¡Ja, ja!\n¡Genial!\n¡Finalmente, el trabajo\nde mi vida está completo!\nEl nombre de esta arma es...\n¡Excálibur!"
     },
     "U/ijAg": {
         "en-US": "[Hein]\nWell...\nIt looks like this is goodbye for now. I can already feel my memory getting hazier. Haha, being dead is definitely not good.",
         "pt-BR": "[Hein]\nBem...\nParece que isso é um adeus por enquanto. Já posso sentir minha memória ficando mais turva. Haha, estar morto definitivamente não é bom.",
-        "es-ES": "[Hein]\nBueno…\nParece que esto será todo por ahora. Ya siento como si mi memoria se nublara… Uf, estar muerto apesta, ja, ja."
+        "es-ES": "[Hein]\nBueno...\nParece que esto será todo por ahora. Ya siento como si mi memoria se nublara... Uf, estar muerto apesta, ja, ja."
     },
     "VPijAg": {
         "en-US": "[Hein]\nThank you for your help. If you come back and help me retrieve\nmy memories again, I'll try to help you as well. So long, adventurer...",
         "pt-BR": "[Hein]\nObrigado por sua ajuda. Se você voltar e me ajudar a recuperar\nminhas memórias novamente, tentarei ajudá-lo também. Até mais, aventureiro...",
-        "es-ES": "[Hein]\nGracias por tu ayuda. Si vuelves y me ayudas a evocar\nmis recuerdos otra vez, espero poder ayudarte nuevamente. Hasta siempre, trotamundos…"
+        "es-ES": "[Hein]\nGracias por tu ayuda. Si vuelves y me ayudas a evocar\nmis recuerdos otra vez, espero poder ayudarte nuevamente. Hasta siempre, trotamundos..."
     },
     "VfijAg": {
         "en-US": "[Hein]\nHaha~!\nThis is great!\nFinally, my life's\nwork is complete!\nThis weapon's name\nis Dragon Slayer!",
         "pt-BR": "[Hein]\nHaha~!\nIsso é ótimo!\nFinalmente, o trabalho da minha vida\ntrabalho de minha vida está completo!\nO nome dessa arma\né Dragon Slayer!",
-        "es-ES": "[Hein]\n¡Ja, ja!\n¡Genial!\n¡Finalmente, el trabajo\nde mi vida está completo!\nEl nombre de esta arma es…\n¡Cazadragones!"
+        "es-ES": "[Hein]\n¡Ja, ja!\n¡Genial!\n¡Finalmente, el trabajo\nde mi vida está completo!\nEl nombre de esta arma es...\n¡Cazadragones!"
     },
     "VvijAg": {
         "en-US": "[Hein]\nHaha~!\nThis is great!\nFinally, my life's\nwork is complete!\nThis weapon's name\nis Schweizersabel!",
         "pt-BR": "[Hein]\nHaha~!\nIsso é ótimo!\nFinalmente, o trabalho da minha vida\ntrabalho de minha vida está completo!\nO nome dessa arma\né Schweizersabel!",
-        "es-ES": "[Hein]\n¡Ja, ja!\n¡Genial!\n¡Finalmente, el trabajo\nde mi vida está completo!\nEl nombre de esta arma es…\n¡Schweizersabel!"
+        "es-ES": "[Hein]\n¡Ja, ja!\n¡Genial!\n¡Finalmente, el trabajo\nde mi vida está completo!\nEl nombre de esta arma es...\n¡Schweizersabel!"
     },
     "V/ijAg": {
         "en-US": "[Hein]\nMm...?\nThe stuff you brought seems to be just what I need to finish my work. Let me have a look at them...",
         "pt-BR": "[Hein]\nMm...?\nO material que você trouxe parece ser exatamente o que eu preciso para terminar meu trabalho. Deixe-me dar uma olhada nelas...",
-        "es-ES": "[Hein]\n¿Mm…?\nEl material que llevas contigo parece ser justo lo que necesito para terminar mi trabajo. Déjame echarles un vistazo…"
+        "es-ES": "[Hein]\n¿Mm...?\nEl material que llevas contigo parece ser justo lo que necesito para terminar mi trabajo. Déjame echarles un vistazo..."
     },
     "WPijAg": {
         "en-US": "[Hein]\nWow...\nHow did you know the materials\nI needed? It's almost too good to be true! Alright, we're that much closer to finishing my life's work!",
         "pt-BR": "[Hein]\nUau...\nComo você sabia quais materiais\nque eu precisava? É quase bom demais para ser verdade! Muito bem, estamos muito mais perto de terminar o trabalho de minha vida!",
-        "es-ES": "[Hein]\nGuau…\n¿Cómo sabías cuáles eran\nlos materiales que necesitaba? Es casi demasiado bueno para ser cierto. ¡Esto me acerca un paso más a cumplir el sueño de toda mi vida!"
+        "es-ES": "[Hein]\nGuau...\n¿Cómo sabías cuáles eran\nlos materiales que necesitaba? Es casi demasiado bueno para ser cierto. ¡Esto me acerca un paso más a cumplir el sueño de toda mi vida!"
     },
     "WfijAg": {
         "en-US": "[Hein]\nOh, that's right. Skill alone isn't enough to create this. We'll also need your luck. First of all, we need to test if your luck is good today.",
@@ -1917,12 +1917,12 @@
     "X/ijAg": {
         "en-US": "[Hein]\nReady? This is\nwhat I wrote down...",
         "pt-BR": "[Hein]\nPronto? Isto é\no que eu escrevi...",
-        "es-ES": "[Hein]\n¿Todo listo? ¡Esto es\nlo que escribí, en orden…"
+        "es-ES": "[Hein]\n¿Todo listo? ¡Esto es\nlo que escribí, en orden..."
     },
     "YPijAg": {
         "en-US": "[Hein]\nYou wrote down\nthese answers in\nthis order...",
         "pt-BR": "[Hein]\nO senhor escreveu\nessas respostas em\nnesta ordem...",
-        "es-ES": "[Hein]\nY tú escribiste\nestas respuestas,\nen este orden…"
+        "es-ES": "[Hein]\nY tú escribiste\nestas respuestas,\nen este orden..."
     },
     "YfijAg": {
         "en-US": "[Hein]\nLet's see...\nYou won {0} times.\nYou're really good at game!\nYes, your luck is at its highest!",
@@ -1947,7 +1947,7 @@
     "ZfijAg": {
         "en-US": "[Hein]\nWould you give me more time to remember the materials? I can't seem to focus very well. It might have to do with the fact that I'm dead...",
         "pt-BR": "[Hein]\nVocê poderia me dar mais tempo para lembrar os materiais? Parece que não estou conseguindo me concentrar muito bem. Talvez tenha a ver com o fato de eu estar morto...",
-        "es-ES": "[Hein]\nNecesito un poco más de tiempo para recordar los materiales. Por alguna razón, no me puedo concentrar… ¿Tendrá que ver con el hecho de que estoy muerto?"
+        "es-ES": "[Hein]\nNecesito un poco más de tiempo para recordar los materiales. Por alguna razón, no me puedo concentrar... ¿Tendrá que ver con el hecho de que estoy muerto?"
     },
     "ZvijAg": {
         "en-US": "[Hein]\nI had a much better memory when I was alive I'm sure. My father would quiz me on this stuff all the time...",
@@ -1962,7 +1962,7 @@
     "aPijAg": {
         "en-US": "[Hein]\nSadly, we can't begin until\nI remember the rest of the things we need. I can't for the life of me remember the most important materials...",
         "pt-BR": "[Hein]\nInfelizmente, não podemos começar até que\nEu me lembre do resto das coisas que precisamos. Não consigo me lembrar dos materiais mais importantes...",
-        "es-ES": "[Hein]\nLamentablemente, no podremos comenzar hasta\nque recuerde todas las cosas que necesitamos. No hay caso; no puedo recordar los materiales más importantes…"
+        "es-ES": "[Hein]\nLamentablemente, no podremos comenzar hasta\nque recuerde todas las cosas que necesitamos. No hay caso; no puedo recordar los materiales más importantes..."
     },
     "afijAg": {
         "en-US": "[Hein]\nWell, for now, let me keep the things you've brought to me. I promise that I'll use this stuff to make you a good weapon once everything is ready.",
@@ -1972,7 +1972,7 @@
     "avijAg": {
         "en-US": "[Hein]\nFor sure I'll need\n2 Hammer of Blacksmith,\n1 Emperium Anvil,\n1 Illusion Flower and\n20 Gold...",
         "pt-BR": "[Hein]\nCom certeza precisarei de\n2 Martelos de ferreiro,\n1 bigorna do Emperium,\n1 Illusion Flower e\n20 Gold...",
-        "es-ES": "[Hein]\nAl menos, sé que necesito\n2 Martillos de Herrero,\n1 Yunque de Emperium,\n1 Flor de ilusión y\n20 unidades de Oro…"
+        "es-ES": "[Hein]\nAl menos, sé que necesito\n2 Martillos de Herrero,\n1 Yunque de Emperium,\n1 Flor de ilusión y\n20 unidades de Oro..."
     },
     "a/ijAg": {
         "en-US": "[Hein]\nSo for now,\ngo ahead and\nbring that stuff\nto me, please.",
@@ -1987,7 +1987,7 @@
     "bfijAg": {
         "en-US": "[Hein]\nAlright, I'll need...\n1 Emperium Anvil,\n2 Hammer of Blacksmith,\n1 Illusion Flower and\n20 Gold...",
         "pt-BR": "[Hein]\nTudo bem, vou precisar de...\n1 bigorna do Emperium,\n2 martelos de ferreiro,\n1 Illusion Flower e\n20 de ouro...",
-        "es-ES": "[Hein]\nDe acuerdo, necesitaré…\n1 Yunque de Emperium,\n2 Martillos de Herrero,\n1 Flor de ilusión y\n20 unidades de Oro…"
+        "es-ES": "[Hein]\nDe acuerdo, necesitaré...\n1 Yunque de Emperium,\n2 Martillos de Herrero,\n1 Flor de ilusión y\n20 unidades de Oro..."
     },
     "bvijAg": {
         "en-US": "[Hein]\nThere were 3 other things,\nbut I'm not too sure what they were. I guess a bunch of memories from my life are still missing.",
@@ -2017,7 +2017,7 @@
     "c/ijAg": {
         "en-US": "[Hein]\nOh... crap.\nI'm a dead man.\nI just realized.\nOr remembered.\nPerhaps I'm brain\ndead too, huh?",
         "pt-BR": "[Hein]\nOh... droga.\nSou um homem morto.\nAcabei de perceber.\nOu me lembrei.\nTalvez eu esteja com morte cerebral\nmorto também, não é?",
-        "es-ES": "[Hein]\nAy, rayos…\n¡Estoy muerto!\nAcabo de darme cuenta.\nO bueno, acabo de recordarlo.\n¿Será que aparte de estar muerto\nsoy un poco despistado?"
+        "es-ES": "[Hein]\nAy, rayos...\n¡Estoy muerto!\nAcabo de darme cuenta.\nO bueno, acabo de recordarlo.\n¿Será que aparte de estar muerto\nsoy un poco despistado?"
     },
     "dPijAg": {
         "en-US": "[Hein]\nWell, I must be a lucky dead man for remembering some of my past, right? Hahahaha!",
@@ -2042,7 +2042,7 @@
     "ePijAg": {
         "en-US": "[Hein]\nWha...?\nWhat are you talking about?\nWhat was I going to say?\nOww... My head hurts!",
         "pt-BR": "[Hein]\nO que...?\nDo que está falando?\nO que eu ia dizer?\nOww... Minha cabeça está doendo!",
-        "es-ES": "[Hein]\n¿Qué…?\n¿De qué estás hablando?\n¿Qué estaba diciendo yo?\nAyyy… ¡Me duele tanto la cabeza!"
+        "es-ES": "[Hein]\n¿Qué...?\n¿De qué estás hablando?\n¿Qué estaba diciendo yo?\nAyyy... ¡Me duele tanto la cabeza!"
     },
     "efijAg": {
         "en-US": "Waltboughst",
@@ -2067,17 +2067,17 @@
     "ffijAg": {
         "en-US": "[Waltboughst]\nIt's funny, you know. My father always used to say, 'Trying your best won't always result in success...' Um, that's ... Huh? There was more, I think.",
         "pt-BR": "[Waltboughst]\nÉ engraçado, você sabe. Meu pai sempre dizia: 'Dar o melhor de si nem sempre resulta em sucesso...' Hum, isso é ... Hã? Acho que havia mais.",
-        "es-ES": "[Waltboughst]\nEs irónico, ¿sabes? Mi padre siempre solía decir: Aunque te esfuerces, no siempre lograrás buenos resultados…. Pero… ¿Eh? Estoy seguro de que la frase continuaba."
+        "es-ES": "[Waltboughst]\nEs irónico, ¿sabes? Mi padre siempre solía decir: Aunque te esfuerces, no siempre lograrás buenos resultados.... Pero... ¿Eh? Estoy seguro de que la frase continuaba."
     },
     "fvijAg": {
         "en-US": "[Waltboughst]\nLet me try it again.\n'Trying your best won't\nalways result in success...'\nI'm sure that's not all of it...",
         "pt-BR": "[Waltboughst]\nDeixe-me tentar novamente.\n'Dar o melhor de si não\nsempre resultará em sucesso...'\nTenho certeza de que isso não é tudo...",
-        "es-ES": "[Waltboughst]\nLo intentaré otra vez.\nAunque te esfuerces,\nno siempre lograrás buenos resultados….\nAlgo me dice que ese no era el dicho completo."
+        "es-ES": "[Waltboughst]\nLo intentaré otra vez.\nAunque te esfuerces,\nno siempre lograrás buenos resultados....\nAlgo me dice que ese no era el dicho completo."
     },
     "f/ijAg": {
         "en-US": "[Waltboughst]\nI...\nI can't think!\nWhat was supposed\nto come after that part?",
         "pt-BR": "[Waltboughst]\nI...\nNão consigo pensar!\nO que deveria\nque deveria vir depois dessa parte?",
-        "es-ES": "[Waltboughst]\nNo entiendo…\nNo se me ocurre nada.\n¿Por qué no puedo\nrecordar el dicho completo?"
+        "es-ES": "[Waltboughst]\nNo entiendo...\nNo se me ocurre nada.\n¿Por qué no puedo\nrecordar el dicho completo?"
     },
     "gPijAg": {
         "en-US": "[Waltboughst]\nIt doesn't look like you're just wandering around. You're here for something specific, aren't you? But what does the realm of the dead have to offer the living?",
@@ -2097,22 +2097,22 @@
     "g/ijAg": {
         "en-US": "[Waltboughst]\nI'm a genius!\nHahahahahahahaha!\nI succeeded where my brothers\ncould not! Mwahahahaha ha ha ...ha?",
         "pt-BR": "[Waltboughst]\nEu sou um gênio!\nHahahahahahahaha!\nConsegui o que meus irmãos\nnão conseguiram! Mwahahahaha ha ha ha ...ha?",
-        "es-ES": "[Waltboughst]\n¡Soy un genio!\n¡Ja, ja, ja, ja, ja, ja, ja!\n¡Logre cumplir lo que mis hermanos\nnunca pudieron lograr! Mua, ja, ja, ja, ja…, jaaa…, ¿ja?"
+        "es-ES": "[Waltboughst]\n¡Soy un genio!\n¡Ja, ja, ja, ja, ja, ja, ja!\n¡Logre cumplir lo que mis hermanos\nnunca pudieron lograr! Mua, ja, ja, ja, ja..., jaaa..., ¿ja?"
     },
     "hPijAg": {
         "en-US": "[Waltboughst]\nDamn, I can feel that fuzziness in my head again. This can't be good. But still, I was able to prove my genius even after I died.",
         "pt-BR": "[Waltboughst]\nDroga, estou sentindo aquela confusão na minha cabeça de novo. Isso não pode ser bom. Mas, ainda assim, consegui provar minha genialidade mesmo depois de ter morrido.",
-        "es-ES": "[Waltboughst]\n¡No! Siento como si todo empezara a nublarse en mi cabeza otra vez. No es justo… Aun así, logré demostrar mi genio inconfundible, incluso muerto."
+        "es-ES": "[Waltboughst]\n¡No! Siento como si todo empezara a nublarse en mi cabeza otra vez. No es justo... Aun así, logré demostrar mi genio inconfundible, incluso muerto."
     },
     "hfijAg": {
         "en-US": "[Waltboughst]\nI'm sure that if you come back and help me retrieve my memories, I can be of service to you again. But for now, I must thank you, even if I do end up forgetting everything...",
         "pt-BR": "[Waltboughst]\nTenho certeza de que, se você voltar e me ajudar a recuperar minhas memórias, poderei ser útil a você novamente. Mas, por enquanto, devo agradecê-lo, mesmo que eu acabe esquecendo tudo...",
-        "es-ES": "[Waltboughst]\nEstoy seguro de que, si vuelves y me ayudas a evocar mi pasado otra vez, podré ayudarte nuevamente. Debo darte las gracias, antes de que termine por olvidarlo todo…"
+        "es-ES": "[Waltboughst]\nEstoy seguro de que, si vuelves y me ayudas a evocar mi pasado otra vez, podré ayudarte nuevamente. Debo darte las gracias, antes de que termine por olvidarlo todo..."
     },
     "hvijAg": {
         "en-US": "[Waltboughst]\nYes...\nIt will be your job to remember the accomplishments of Waltboughst, and that he was a weaponsmith ahead of his time. Good bye for now, adventurer...",
         "pt-BR": "[Waltboughst]\nSim...\nSeu trabalho será lembrar as realizações de Waltboughst e que ele era um armeiro à frente de seu tempo. Adeus por enquanto, aventureiro...",
-        "es-ES": "[Waltboughst]\nSí…\nAhora será tu responsabilidad cargar con el recuerdo de Waltboughst: un armero extraordinario, inconfundible y adelantado. Hasta siempre, trotamundos…"
+        "es-ES": "[Waltboughst]\nSí...\nAhora será tu responsabilidad cargar con el recuerdo de Waltboughst: un armero extraordinario, inconfundible y adelantado. Hasta siempre, trotamundos..."
     },
     "h/ijAg": {
         "en-US": "[Waltboughst]\nWaltboughst never fails!\nWith my skill and your luck, there was zero probability for failure. Behold... Combat Knife!",
@@ -2137,7 +2137,7 @@
     "i/ijAg": {
         "en-US": "[Waltboughst]\nYes...!\nThis is perfect.\nIt looks like I'll\nbe able to start work\non this really soon.",
         "pt-BR": "[Waltboughst]\nSim...!\nIsso é perfeito.\nParece que vou poder\npoderei começar a trabalhar\nem breve.",
-        "es-ES": "[Waltboughst]\n¡Sí…!\nEsto es perfecto.\nParece que podré\ncomenzar a trabajar\nen esto muy pronto."
+        "es-ES": "[Waltboughst]\n¡Sí...!\nEsto es perfecto.\nParece que podré\ncomenzar a trabajar\nen esto muy pronto."
     },
     "jPijAg": {
         "en-US": "[Waltboughst]\nNow we need to test your luck. And to do that, we need to play '^660000Rock, Paper, Scissors^000000.' I'm serious about this...",
@@ -2152,7 +2152,7 @@
     "jvijAg": {
         "en-US": "[Waltboughst]\nBut if you lose...\nWe'll need to expel your bad luck by getting rid of a good amount of one of the ores you brought.",
         "pt-BR": "[Waltboughst]\nMas se você perder...\nPrecisaremos expulsar sua má sorte nos livrando de uma boa quantidade de um dos minérios que você trouxe.",
-        "es-ES": "[Waltboughst]\nPero si pierdes…\nentonces tendré que tirar una buena parte de los minerales que trajiste para espantar las malas vibras."
+        "es-ES": "[Waltboughst]\nPero si pierdes...\nentonces tendré que tirar una buena parte de los minerales que trajiste para espantar las malas vibras."
     },
     "j/ijAg": {
         "en-US": "[Waltboughst]\nTake this piece of paper.\nNow, when I tell you to, write down 'Rock,' 'Paper' or 'Scissors.' Let's begin...!",
@@ -2162,7 +2162,7 @@
     "kPijAg": {
         "en-US": "[Waltboughst]\nAlright...\nNow, let's play\na second time.",
         "pt-BR": "[Waltboughst]\nMuito bem...\nAgora, vamos jogar\numa segunda vez.",
-        "es-ES": "[Waltboughst]\nYa veo…\nHora de la segunda\nronda."
+        "es-ES": "[Waltboughst]\nYa veo...\nHora de la segunda\nronda."
     },
     "kfijAg": {
         "en-US": "[Waltboughst]\nOne last time.\nAfter this, we\ncompare results\nand check your luck.",
@@ -2172,12 +2172,12 @@
     "kvijAg": {
         "en-US": "[Waltboughst]\nOkay...\nI wrote down...",
         "pt-BR": "[Waltboughst]\nOk...\nEu anotei...",
-        "es-ES": "[Waltboughst]\nDe acuerdo...\nlo que escribí, en orden, fue…"
+        "es-ES": "[Waltboughst]\nDe acuerdo...\nlo que escribí, en orden, fue..."
     },
     "k/ijAg": {
         "en-US": "[Waltboughst]\nNow, you wrote...",
         "pt-BR": "[Waltboughst]\nAgora, você escreveu...",
-        "es-ES": "[Waltboughst]\nY tú escribiste, en orden…"
+        "es-ES": "[Waltboughst]\nY tú escribiste, en orden..."
     },
     "lPijAg": {
         "en-US": "[Waltboughst]\nExcellent. You won {0} times,\nso your luck must be really high.\nThat means we can begin~!",
@@ -2192,7 +2192,7 @@
     "lvijAg": {
         "en-US": "[Waltboughst]\nYou lost...\nI'm sorry, but we\nneed to repel the bad\nluck by throwing away\nsome of your ores...",
         "pt-BR": "[Waltboughst]\nVocê perdeu...\nMe desculpe, mas nós\nprecisamos repelir a má\nsorte jogando fora\nalguns de seus minérios...",
-        "es-ES": "[Waltboughst]\nAy, perdiste.\nDisculpa, pero\ntendré que tirar algunos\nde los minerales que trajiste\npara espantar las malas vibras…"
+        "es-ES": "[Waltboughst]\nAy, perdiste.\nDisculpa, pero\ntendré que tirar algunos\nde los minerales que trajiste\npara espantar las malas vibras..."
     },
     "l/ijAg": {
         "en-US": "[Waltboughst]\nGather the required ores again,\nand come back to me so we can test your luck. I'll be waiting right here.",
@@ -2202,17 +2202,17 @@
     "mPijAg": {
         "en-US": "[Waltboughst]\nWhy can't I remember...?!\nA good weaponsmith is supposed\nto know these things by heart!\nWhen I was alive, I had no such recall problems...",
         "pt-BR": "[Waltboughst]\nPor que não consigo me lembrar...?\nUm bom armeiro deve\ndeveria saber essas coisas de cor!\nQuando eu estava vivo, não tinha esses problemas de memória...",
-        "es-ES": "[Waltboughst]\n¿Por qué no puedo recordarlo?\n¡Se supone que un buen armero\ntiene que saberse estas cosas de memoria!\nNo tenía tan mala memoria cuando estaba vivo…"
+        "es-ES": "[Waltboughst]\n¿Por qué no puedo recordarlo?\n¡Se supone que un buen armero\ntiene que saberse estas cosas de memoria!\nNo tenía tan mala memoria cuando estaba vivo..."
     },
     "mfijAg": {
         "en-US": "[Waltboughst]\nIf Father were\nto see me now, I'm\nsure he'd be ashamed...",
         "pt-BR": "[Waltboughst]\nSe papai me visse agora\nme visse agora, tenho\ntenho certeza de que ele ficaria envergonhado...",
-        "es-ES": "[Waltboughst]\nSi mi padre\nme viera ahora,\nseguro se sentiría decepcionado…"
+        "es-ES": "[Waltboughst]\nSi mi padre\nme viera ahora,\nseguro se sentiría decepcionado..."
     },
     "mvijAg": {
         "en-US": "[Waltboughst]\nYou brought everything I needed already? That's great, but somehow, I can't still remember the other materials I need...",
         "pt-BR": "[Waltboughst]\nVocê já trouxe tudo o que eu precisava? Isso é ótimo, mas, de alguma forma, não consigo me lembrar dos outros materiais de que preciso...",
-        "es-ES": "[Waltboughst]\n¿Ya trajiste todo lo que te pedí? Eso está muy bien, pero, lamentablemente, aún no recuerdo todos los materiales que necesitamos…"
+        "es-ES": "[Waltboughst]\n¿Ya trajiste todo lo que te pedí? Eso está muy bien, pero, lamentablemente, aún no recuerdo todos los materiales que necesitamos..."
     },
     "m/ijAg": {
         "en-US": "[Waltboughst]\nTell you what. Let me hold on to these things, and I promise you that I'll use them to create a weapon for you. In the meantime, we need to figure out the rest of the necessary materials...",
@@ -2222,7 +2222,7 @@
     "nPijAg": {
         "en-US": "[Waltboughst]\nFor now, bring\nthe basic things...\n1 Emperium Anvil,\n2 Hammer of Blacksmith,\n1 Illusion Flower and\n20 Gold...",
         "pt-BR": "[Waltboughst]\nPor enquanto, traga\nas coisas básicas...\n1 bigorna do Emperium,\n2 martelos de ferreiro,\n1 Illusion Flower e\n20 de ouro...",
-        "es-ES": "[Waltboughst]\nPor ahora, tráeme\nlos materiales básicos.\n1 Yunque de Emperium,\n2 Martillos de Herrero,\n1 Flor de ilusión y\n20 unidades de Oro…"
+        "es-ES": "[Waltboughst]\nPor ahora, tráeme\nlos materiales básicos.\n1 Yunque de Emperium,\n2 Martillos de Herrero,\n1 Flor de ilusión y\n20 unidades de Oro..."
     },
     "nfijAg": {
         "en-US": "[Waltboughst]\nI just remembered some of the most basic materials we need for me to make a weapon for you.",
@@ -2232,7 +2232,7 @@
     "nvijAg": {
         "en-US": "[Waltboughst]\nThere were a few other necessary materials, but I need some time to focus and remember what they were.",
         "pt-BR": "[Waltboughst]\nHavia alguns outros materiais necessários, mas preciso de algum tempo para me concentrar e lembrar quais eram.",
-        "es-ES": "[Waltboughst]\nNecesito unos cuantos materiales adicionales, pero ahora mismo no puedo recordar cuáles son…"
+        "es-ES": "[Waltboughst]\nNecesito unos cuantos materiales adicionales, pero ahora mismo no puedo recordar cuáles son..."
     },
     "n/ijAg": {
         "en-US": "But that's no excuse!",
@@ -2267,6 +2267,6 @@
     "pfijAg": {
         "en-US": "[Waltboughst]\nWhat...?\nNo, no. That\nwasn't it at all...\nHmmm.",
         "pt-BR": "[Waltboughst]\nO que...?\nNão, não. Isso\nnão foi nada disso...\nHmmm.",
-        "es-ES": "[Waltboughst]\n¿Qué…?\nNo, definitivamente\neso no era…\nMmm."
+        "es-ES": "[Waltboughst]\n¿Qué...?\nNo, definitivamente\neso no era...\nMmm."
     }
 }

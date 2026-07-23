@@ -142,7 +142,7 @@
     "nLkq": {
         "en-US": "A mysterious power prevents you from getting too close. It looks like there is something strong beyond the door...",
         "pt-BR": "Um poder misterioso impede que você se aproxime demais. Parece que há algo forte além da porta...",
-        "es-ES": "Un poder misterioso te impide acercarte demasiado. Parece que hay algo con mucho poder del otro lado de la puerta…"
+        "es-ES": "Un poder misterioso te impide acercarte demasiado. Parece que hay algo con mucho poder del otro lado de la puerta..."
     },
     "nbkq": {
         "en-US": "Perhaps there's a great hidden secret beyond the gate, beyond expectation.",
@@ -172,7 +172,7 @@
     "orkq": {
         "en-US": "[??????]\nWingless one... Our promised words...",
         "pt-BR": "[??????]\nSer sem asas... Nossas palavras prometidas...",
-        "es-ES": "[??????]\nSer sin alas… Nuestro compromiso…"
+        "es-ES": "[??????]\nSer sin alas... Nuestro compromiso..."
     },
     "o7kq": {
         "en-US": "'Guardian's spell'!",
@@ -187,7 +187,7 @@
     "pbkq": {
         "en-US": "[??????]\nPromised words... Guardian's spell... proof of their existence.",
         "pt-BR": "[??????]\nPalavras prometidas... Feitiço do Guardião... prova de sua existência.",
-        "es-ES": "[??????]\nNuestro compromiso… El hechizo de la guardiana… prueba de su existencia."
+        "es-ES": "[??????]\nNuestro compromiso... El hechizo de la guardiana... prueba de su existencia."
     },
     "prkq": {
         "en-US": "[Yggdrasil Gatekeeper]\nIn the name of Yggdrasiliad, I will accept you as a servant of the Guardian.",
@@ -217,7 +217,7 @@
     "q7kq": {
         "en-US": "[Yggdrasil Gatekeeper]\nFaithful servants of the Guardian... Why did you come to me?",
         "pt-BR": "[Guardião de Yggdrasil]\nFiéis servos do Guardião... Por que vocês vieram até mim?",
-        "es-ES": "[Portero de Yggdrasil]\nFiel sirviente de la guardiana… ¿Por qué viniste a verme?"
+        "es-ES": "[Portero de Yggdrasil]\nFiel sirviente de la guardiana... ¿Por qué viniste a verme?"
     },
     "rLkq": {
         "en-US": "Accept admission.",
@@ -257,12 +257,12 @@
     "s7kq": {
         "en-US": "[Yggdrasil Gatekeeper]\nYou didn't ask to be admitted... You should accept admission first before entering.",
         "pt-BR": "[Guardião de Yggdrasil]\nVocê não pediu para ser admitido... Você deve aceitar a admissão antes de entrar.",
-        "es-ES": "[Portero de Yggdrasil]\nNo pediste ingresar… Debes aceptar el ingreso antes de entrar."
+        "es-ES": "[Portero de Yggdrasil]\nNo pediste ingresar... Debes aceptar el ingreso antes de entrar."
     },
     "tLkq": {
         "en-US": "[Yggdrasil Gatekeeper]\nWhere are the other servants, so you can work together? Each servant cannot be admitted here individually...",
         "pt-BR": "[Guardião de Yggdrasil]\nOnde estão os outros servos, para que vocês possam trabalhar juntos? Cada servo não pode ser admitido aqui individualmente...",
-        "es-ES": "[Portero de Yggdrasil]\n¿Dónde están los demás servidores? Así podrán trabajar juntos. No se puede aceptar el ingreso de cada sirviente de forma individual…"
+        "es-ES": "[Portero de Yggdrasil]\n¿Dónde están los demás servidores? Así podrán trabajar juntos. No se puede aceptar el ingreso de cada sirviente de forma individual..."
     },
     "tbkq": {
         "en-US": "{0} of the party, {1}, is entering the  {2}.",
@@ -282,17 +282,17 @@
     "uLkq": {
         "en-US": "[Yggdrasil Gatekeeper]\nYou didn't ask to be admitted... Your party leader should accept admission first before entering.",
         "pt-BR": "[Guardião de Yggdrasil]\nVocê não pediu para ser admitido... O líder de seu grupo deve aceitar a admissão antes de entrar.",
-        "es-ES": "[Portero de Yggdrasil]\nNo pediste ingresar… El líder del grupo debe aceptar el ingreso antes de entrar."
+        "es-ES": "[Portero de Yggdrasil]\nNo pediste ingresar... El líder del grupo debe aceptar el ingreso antes de entrar."
     },
     "ubkq": {
         "en-US": "[Yggdrasil Gatekeeper]\nCome with at least 1 more servant... Only party leaders can accept admission to Nidhoggur's Nest.",
         "pt-BR": "[Guardião de Yggdrasil]\nVenha com pelo menos mais um servo... Somente os líderes do partido podem aceitar a entrada no Ninho de Nidhoggur.",
-        "es-ES": "[Portero de Yggdrasil]\nVen con, al menos, 1 sirviente más… Solo los líderes del grupo pueden aceptar el ingreso en el nido de Nidhogg."
+        "es-ES": "[Portero de Yggdrasil]\nVen con, al menos, 1 sirviente más... Solo los líderes del grupo pueden aceptar el ingreso en el nido de Nidhogg."
     },
     "urkq": {
         "en-US": "[Yggdrasil Gatekeeper]\nAnd only 1 representative of you needs to talk to me, so don't annoy me...",
         "pt-BR": "[Guardião de Yggdrasil]\nE apenas um representante de vocês precisa falar comigo, portanto, não me aborreça...",
-        "es-ES": "[Portero de Yggdrasil]\nY solo es necesario que 1 de ustedes me hable, así que no me molesten…"
+        "es-ES": "[Portero de Yggdrasil]\nY solo es necesario que 1 de ustedes me hable, así que no me molesten..."
     },
     "u7kq": {
         "en-US": "[Yggdrasil Gatekeeper]\nThe world has been stabilized. Do you want to enter the Nidhoggur's nest again?",
@@ -322,7 +322,7 @@
     "wLkq": {
         "en-US": "[Yggdrasil Gatekeeper]\nYou didn't ask to be admitted... Your party leader should register first to enter.",
         "pt-BR": "[Guardião de Yggdrasil]\nVocê não pediu para ser admitido... O líder do seu grupo deve se registrar primeiro para entrar.",
-        "es-ES": "[Portero de Yggdrasil]\nNo pediste ingresar… Para entrar, primero debe registrarse el líder del grupo."
+        "es-ES": "[Portero de Yggdrasil]\nNo pediste ingresar... Para entrar, primero debe registrarse el líder del grupo."
     },
     "wbkq": {
         "en-US": "[Yggdrasil Gatekeeper]\nThe time limit to enter the dungeon has expired. You must wait for the World Tree to stabilize its power before trying to re-enter.",
@@ -347,7 +347,7 @@
     "xbkq": {
         "en-US": "[Historian Magniffer]\nSure, the mainland also has lots of interesting adventures... Hello, I am Magniffer, a historian dispatched from the Prontera royal court.",
         "pt-BR": "[Historiador Magniffer]\nClaro, o continente também tem muitas aventuras interessantes... Olá, eu sou Magniffer, um historiador enviado pela corte real de Prontera.",
-        "es-ES": "[Historiador Magniffer]\nClaro, el continente también tiene muchas aventuras interesantes… Hola, soy Magniffer, un historiador que envió la corte real de Prontera."
+        "es-ES": "[Historiador Magniffer]\nClaro, el continente también tiene muchas aventuras interesantes... Hola, soy Magniffer, un historiador que envió la corte real de Prontera."
     },
     "xrkq": {
         "en-US": "[Historian Magniffer]\nFinding another line of work might make for a really worthy job, but only a historian gets to know the world over.",
@@ -357,12 +357,12 @@
     "x7kq": {
         "en-US": "[Historian Magniffer]\nHow this world is organized... and the way of the future! With our studies of the past and present we can predict what is to come.",
         "pt-BR": "[Historiador Magniffer]\nComo este mundo está organizado... e o caminho para o futuro! Com nossos estudos sobre o passado e o presente, podemos prever o que está por vir.",
-        "es-ES": "[Historiador Magniffer]\nCómo está organizado el mundo… ¡y lo que vendrá! Con nuestros estudios del pasado y del presente, podemos predecir lo que está por venir."
+        "es-ES": "[Historiador Magniffer]\nCómo está organizado el mundo... ¡y lo que vendrá! Con nuestros estudios del pasado y del presente, podemos predecir lo que está por venir."
     },
     "yLkq": {
         "en-US": "[Historian Magniffer]\nWe are expecting a lot from you, expert adventurer. So, if you find anything... just tell me.",
         "pt-BR": "[Historiador Magniffer]\nEsperamos muito de você, aventureiro experiente. Portanto, se encontrar alguma coisa... é só me dizer.",
-        "es-ES": "[Historiador Magniffer]\nEsperamos mucho de ti, trotamundos. Así que, si encuentras algo… dímelo."
+        "es-ES": "[Historiador Magniffer]\nEsperamos mucho de ti, trotamundos. Así que, si encuentras algo... dímelo."
     },
     "ybkq": {
         "en-US": "[Historian Magniffer]\nDoes Commander Agip want to talk to me? Let's listen to his story.",
@@ -377,7 +377,7 @@
     "y7kq": {
         "en-US": "[Historian Magniffer]\n...",
         "pt-BR": "[Historiador Magniffer]\n...",
-        "es-ES": "[Historiador Magniffer]\n…"
+        "es-ES": "[Historiador Magniffer]\n..."
     },
     "zLkq": {
         "en-US": "... ...",
@@ -387,12 +387,12 @@
     "zbkq": {
         "en-US": "[Historian Magniffer]\nWait a second... I have the brilliant idea.",
         "pt-BR": "[Historiador Magniffer]\nEspere um segundo... Eu tive uma ideia brilhante.",
-        "es-ES": "[Historiador Magniffer]\nEspera un segundo… Tengo una idea brillante."
+        "es-ES": "[Historiador Magniffer]\nEspera un segundo... Tengo una idea brillante."
     },
     "zrkq": {
         "en-US": "[Historian Magniffer]\nLet's see... This book... No... this one...? Hmm... Maybe this...",
         "pt-BR": "[Historiador Magniffer]\nVamos ver... Este livro... Não... este aqui...? Hmm... Talvez este...",
-        "es-ES": "[Historiador Magniffer]\nVeamos… Este libro… No… este… Mmm… Tal vez este…"
+        "es-ES": "[Historiador Magniffer]\nVeamos... Este libro... No... este... Mmm... Tal vez este..."
     },
     "z7kq": {
         "en-US": "[Historian Magniffer]\n... ...",
@@ -402,7 +402,7 @@
     "0Lkq": {
         "en-US": "[Historian Magniffer]\nOh, here it is! World Tree Yggdrasil and God's tribes... This is their book!",
         "pt-BR": "[Historiador Magniffer]\nOh, aqui está! A Árvore do Mundo Yggdrasil e as tribos de Deus... Este é o livro deles!",
-        "es-ES": "[Historiador Magniffer]\n¡Ah, aquí está! Árbol Mundial Yggdrasil y las tribus de los dioses… ¡Este es su libro!"
+        "es-ES": "[Historiador Magniffer]\n¡Ah, aquí está! Árbol Mundial Yggdrasil y las tribus de los dioses... ¡Este es su libro!"
     },
     "0bkq": {
         "en-US": "[Historian Magniffer]\nMaybe you found the central line to enter into the World Tree Yggdrasil!",
@@ -417,7 +417,7 @@
     "07kq": {
         "en-US": "[Historian Magniffer]\nBut we need lots more information... Are they refusing you admission?",
         "pt-BR": "[Historiador Magniffer]\nMas precisamos de muito mais informações... Eles estão recusando a sua entrada?",
-        "es-ES": "[Historiador Magniffer]\nPero necesitamos mucha más información… ¿Te niegan el ingreso?"
+        "es-ES": "[Historiador Magniffer]\nPero necesitamos mucha más información... ¿Te niegan el ingreso?"
     },
     "1Lkq": {
         "en-US": "[Historian Magniffer]\nI will send a message to my assistant who is in the Prontera Library. So, help her find more information.",
@@ -437,12 +437,12 @@
     "17kq": {
         "en-US": "[Historian Magniffer]\nYou've come back... Good, how's Naomi? Actually, I don't need to worry about her. She is always cheerful. Haha.",
         "pt-BR": "[Historiador Magniffer]\nVocê voltou... Que bom, como está a Naomi? Na verdade, não preciso me preocupar com ela. Ela está sempre alegre. Haha.",
-        "es-ES": "[Historiador Magniffer]\nVolviste… Bueno, ¿cómo está Naomi? En realidad, no necesito preocuparme por ella. Siempre está alegre. Ja,ja."
+        "es-ES": "[Historiador Magniffer]\nVolviste... Bueno, ¿cómo está Naomi? En realidad, no necesito preocuparme por ella. Siempre está alegre. Ja,ja."
     },
     "2Lkq": {
         "en-US": "[Historian Magniffer]\nYou look like you have a lot on your mind... Your face is full of curiosity and questions.",
         "pt-BR": "[Historiador Magniffer]\nParece que você tem muita coisa em mente... Seu rosto está cheio de curiosidade e perguntas.",
-        "es-ES": "[Historiador Magniffer]\nSe nota que estás pensando en algo… Tu rostro refleja curiosidad y dudas."
+        "es-ES": "[Historiador Magniffer]\nSe nota que estás pensando en algo... Tu rostro refleja curiosidad y dudas."
     },
     "2bkq": {
         "en-US": "[Historian Magniffer]\nSo, did you read the whole story that I have prepared?",
@@ -477,22 +477,22 @@
     "37kq": {
         "en-US": "[Historian Magniffer]\nI sent you to figure out which basic materials will be needed for the jobs ahead of us. You should bring research reports...",
         "pt-BR": "[Historiador Magniffer]\nEu o enviei para descobrir quais materiais básicos serão necessários para os trabalhos que temos pela frente. Você deve trazer relatórios de pesquisa...",
-        "es-ES": "[Historiador Magniffer]\nTe envié a averiguar qué materiales básicos serán necesarios para los trabajos que tenemos por delante. Debes traer informes de investigación…"
+        "es-ES": "[Historiador Magniffer]\nTe envié a averiguar qué materiales básicos serán necesarios para los trabajos que tenemos por delante. Debes traer informes de investigación..."
     },
     "4Lkq": {
         "en-US": "[Historian Magniffer]\nYou might complain about why I didn't bring any myself... That's because I trust your abilities, don't ever take anything for granted.",
         "pt-BR": "[Historiador Magniffer]\nVocê pode se queixar do fato de eu não ter trazido nada... Isso é porque confio em suas habilidades, nunca tome nada como garantido.",
-        "es-ES": "[Historiador Magniffer]\nPodrías preguntarte por qué no traje ninguno yo mismo… Eso es porque confío en tus habilidades, nunca des nada por sentado."
+        "es-ES": "[Historiador Magniffer]\nPodrías preguntarte por qué no traje ninguno yo mismo... Eso es porque confío en tus habilidades, nunca des nada por sentado."
     },
     "4bkq": {
         "en-US": "[Historian Magniffer]\nBut a while ago, while you were tranferring reports from Commander Agip to the mainland, you lost those reports... remember?",
         "pt-BR": "[Historiador Magniffer]\nMas há um tempo atrás, enquanto você estava transferindo relatórios do Comandante Agip para o continente, você perdeu esses relatórios... lembra?",
-        "es-ES": "[Historiador Magniffer]\nPero, hace un tiempo, mientras transferías informes del comandante Agip al continente, perdiste esos informes… ¿recuerdas?"
+        "es-ES": "[Historiador Magniffer]\nPero, hace un tiempo, mientras transferías informes del comandante Agip al continente, perdiste esos informes... ¿recuerdas?"
     },
     "4rkq": {
         "en-US": "[Historian Magniffer]\nSo far, nothing's come up... Was it that somebody attacked you?",
         "pt-BR": "[Historiador Magniffer]\nAté agora, não apareceu nada... Foi alguém que o atacou?",
-        "es-ES": "[Historiador Magniffer]\nHasta ahora, no ha aparecido nada… ¿Alguien te atacó?"
+        "es-ES": "[Historiador Magniffer]\nHasta ahora, no ha aparecido nada... ¿Alguien te atacó?"
     },
     "47kq": {
         "en-US": "[Historian Magniffer]\nSomehow, the truth will come out, but we should be careful of shocking the natives if we go there unannounced and they're not prepared for our arrival.",
@@ -502,17 +502,17 @@
     "5Lkq": {
         "en-US": "[Historian Magniffer]\nI've talked too much... Anyway, as you know through my report, you've found a great thing!",
         "pt-BR": "[Historiador Magniffer]\nFalei demais... De qualquer forma, como você sabe através do meu relatório, você encontrou uma grande coisa!",
-        "es-ES": "[Historiador Magniffer]\nYa hablé demasiado… De todas formas, como ya sabes por mi informe, ¡encontraste algo estupendo!"
+        "es-ES": "[Historiador Magniffer]\nYa hablé demasiado... De todas formas, como ya sabes por mi informe, ¡encontraste algo estupendo!"
     },
     "5bkq": {
         "en-US": "[Historian Magniffer]\nFirstly, we should find out more about the place. I expect we can, but... we can't do much without help from others.",
         "pt-BR": "[Historiador Magniffer]\nEm primeiro lugar, devemos descobrir mais sobre o local. Acho que podemos, mas... não podemos fazer muito sem a ajuda de outras pessoas.",
-        "es-ES": "[Historiador Magniffer]\nEn primer lugar, debemos averiguar más cosas sobre el lugar. Espero que podamos, pero… no podemos hacer mucho sin la ayuda de los demás."
+        "es-ES": "[Historiador Magniffer]\nEn primer lugar, debemos averiguar más cosas sobre el lugar. Espero que podamos, pero... no podemos hacer mucho sin la ayuda de los demás."
     },
     "5rkq": {
         "en-US": "[Historian Magniffer]\nI have heard about recent expeditions of adventurers that have tried to contact the tribes... Have you heard anything about this?",
         "pt-BR": "[Historiador Magniffer]\nOuvi falar de expedições recentes de aventureiros que tentaram entrar em contato com as tribos... Você ouviu alguma coisa sobre isso?",
-        "es-ES": "[Historiador Magniffer]\nEscuché hablar de expediciones recientes de trotamundos que intentaron ponerse en contacto con las tribus… ¿Escuchaste algo al respecto?"
+        "es-ES": "[Historiador Magniffer]\nEscuché hablar de expediciones recientes de trotamundos que intentaron ponerse en contacto con las tribus... ¿Escuchaste algo al respecto?"
     },
     "57kq": {
         "en-US": "[Historian Magniffer]\nAnyway, let's try to contact them first, to be clear about any caves or treasures.",
@@ -557,7 +557,7 @@
     "77kq": {
         "en-US": "[Historian Magniffer]\nAs I expected, the cave is the entrance to go to one of Yggdrasil's roots...",
         "pt-BR": "[Historiador Magniffer]\nComo eu esperava, a caverna é a entrada para ir a uma das raízes de Yggdrasil...",
-        "es-ES": "[Historiador Magniffer]\nComo esperaba, la cueva es la entrada para ir a una de las raíces de Yggdrasil…"
+        "es-ES": "[Historiador Magniffer]\nComo esperaba, la cueva es la entrada para ir a una de las raíces de Yggdrasil..."
     },
     "8Lkq": {
         "en-US": "[Historian Magniffer]\nDid you find anything about the Sapha and Laphine?",
@@ -567,17 +567,17 @@
     "8bkq": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "8rkq": {
         "en-US": "[Historian Magniffer]\nBoth sides act ambiguously, so... I'm getting worried...",
         "pt-BR": "[Historiador Magniffer]\nAmbos os lados agem de forma ambígua, então... Estou ficando preocupado...",
-        "es-ES": "[Historiador Magniffer]\nAmbas partes actúan con ambigüedad, así que… Me estoy preocupando…"
+        "es-ES": "[Historiador Magniffer]\nAmbas partes actúan con ambigüedad, así que... Me estoy preocupando..."
     },
     "87kq": {
         "en-US": "[Historian Magniffer]\nThe two tribes have some trouble amongst their top leaders. It's not anything official, but...",
         "pt-BR": "[Historiador Magniffer]\nAs duas tribos estão com alguns problemas entre seus principais líderes. Não é nada oficial, mas...",
-        "es-ES": "[Historiador Magniffer]\nLas dos tribus tienen problemas entre sus líderes principales. No es nada oficial, pero…"
+        "es-ES": "[Historiador Magniffer]\nLas dos tribus tienen problemas entre sus líderes principales. No es nada oficial, pero..."
     },
     "9Lkq": {
         "en-US": "[Historian Magniffer]\nLet's report to Commander Agip about the situation so far. Then, we wait on his decision.",
@@ -592,22 +592,22 @@
     "9rkq": {
         "en-US": "[Historian Magniffer]\nHm... Our expectations were almost correct... Protector of the Nest...",
         "pt-BR": "[Historiador Magniffer]\nHm... Nossas expectativas estavam quase corretas... Protetor do Ninho...",
-        "es-ES": "[Historiador Magniffer]\nMmm… Casi acertamos con nuestras expectativas… Guardiana del nido…"
+        "es-ES": "[Historiador Magniffer]\nMmm... Casi acertamos con nuestras expectativas... Guardiana del nido..."
     },
     "97kq": {
         "en-US": "[Historian Magniffer]\nAnyway... so far we've done a really great job... but...",
         "pt-BR": "[Historiador Magniffer]\nEnfim... até agora fizemos um ótimo trabalho... mas...",
-        "es-ES": "[Historiador Magniffer]\nEn fin… hasta ahora hemos hecho un gran trabajo… pero…"
+        "es-ES": "[Historiador Magniffer]\nEn fin... hasta ahora hemos hecho un gran trabajo... pero..."
     },
     "+Lkq": {
         "en-US": "[Historian Magniffer]\nI can't imagine... what will now be happening to us...",
         "pt-BR": "[Historiador Magniffer]\nNão consigo imaginar... o que estará acontecendo conosco agora...",
-        "es-ES": "[Historiador Magniffer]\nNo puedo imaginar… lo que nos pasará ahora…"
+        "es-ES": "[Historiador Magniffer]\nNo puedo imaginar... lo que nos pasará ahora..."
     },
     "+bkq": {
         "en-US": "[Historian Magniffer]\nThere will be more jobs in the future for sure... We may be getting busier.",
         "pt-BR": "[Historiador Magniffer]\nHaverá mais empregos no futuro, com certeza... Talvez estejamos ficando mais ocupados.",
-        "es-ES": "[Historiador Magniffer]\nSeguro habrá más trabajo en el futuro… Puede que cada vez estemos más ocupados."
+        "es-ES": "[Historiador Magniffer]\nSeguro habrá más trabajo en el futuro... Puede que cada vez estemos más ocupados."
     },
     "+rkq": {
         "en-US": "[Historian Magniffer]\nLet's report this to Commander Agip.",
@@ -617,7 +617,7 @@
     "+7kq": {
         "en-US": "[Historian Magniffer]\nWe are expecting a lot from you, expert adventurer. Whatever is okay, so, if you find anything... just tell me.",
         "pt-BR": "[Historiador Magniffer]\nEsperamos muito de você, aventureiro experiente. Tudo bem, então, se você encontrar alguma coisa... é só me dizer.",
-        "es-ES": "[Historiador Magniffer]\nEsperamos mucho de ti, trotamundos. Da igual, si encuentras algo… dímelo."
+        "es-ES": "[Historiador Magniffer]\nEsperamos mucho de ti, trotamundos. Da igual, si encuentras algo... dímelo."
     },
     "/Lkq": {
         "en-US": "Assistant Naomi",
@@ -627,7 +627,7 @@
     "/bkq": {
         "en-US": "[Assistant Naomi]\nThe doctor never ever tries to come back, and there're too many things to do... How can I do it all...",
         "pt-BR": "[Assistente Naomi]\nO médico nunca tenta voltar, e há muitas coisas para fazer... Como posso fazer tudo isso...",
-        "es-ES": "[Asistente Naomi]\nEl doctor nunca intenta volver, y hay demasiadas cosas que hacer… ¿Cómo puedo hacerlo todo…?"
+        "es-ES": "[Asistente Naomi]\nEl doctor nunca intenta volver, y hay demasiadas cosas que hacer... ¿Cómo puedo hacerlo todo...?"
     },
     "/rkq": {
         "en-US": "[Assistant Naomi]\nHey, you. Please move these books. Put them into shelf B 3.",
@@ -637,7 +637,7 @@
     "/7kq": {
         "en-US": "[{0}]\nAh...um...I...am...",
         "pt-BR": "[{0}]\nAh... hum... eu... estou...",
-        "es-ES": "[{0}]\nAh… eh… yo… soy…"
+        "es-ES": "[{0}]\nAh... eh... yo... soy..."
     },
     "ALoq": {
         "en-US": "[Assistant Naomi]\nDon't you see I am too busy? Don't hesitate. Just do it.",
@@ -657,22 +657,22 @@
     "A7oq": {
         "en-US": "[Assistant Naomi]\nGosh! Where is-? Where did-? Ugh! It's so difficult!",
         "pt-BR": "[Assistente Naomi]\nNossa! Onde está...? Onde foi...? Ugh! É tão difícil!",
-        "es-ES": "[Asistente Naomi]\n¡Cielos! ¿Dónde está…? ¿Dónde…? ¡Uf! ¡Qué difícil!"
+        "es-ES": "[Asistente Naomi]\n¡Cielos! ¿Dónde está...? ¿Dónde...? ¡Uf! ¡Qué difícil!"
     },
     "BLoq": {
         "en-US": "[Assistant Naomi]\nAh... if you're done moving those, then these should go in shelf C 3.",
         "pt-BR": "[Assistente Naomi]\nAh... se você já terminou de mover esses, então eles devem ir para a prateleira C 3.",
-        "es-ES": "[Asistente Naomi]\nAh… si ya terminaste de mover aquellos, estos deberían ir en el estanteC3."
+        "es-ES": "[Asistente Naomi]\nAh... si ya terminaste de mover aquellos, estos deberían ir en el estanteC3."
     },
     "Bboq": {
         "en-US": "[{0}]\nAh...I...see...",
         "pt-BR": "[{0}]\nAh... eu... estou vendo...",
-        "es-ES": "[{0}]\nAh… ya… veo…"
+        "es-ES": "[{0}]\nAh... ya... veo..."
     },
     "Broq": {
         "en-US": "[Assistant Naomi]\nNow, I am almost done... Who are you? Are you a new assistant to Dr. Magniffer?",
         "pt-BR": "[Assistente Naomi]\nAgora, estou quase terminando... Quem é você? Você é a nova assistente do Dr. Magniffer?",
-        "es-ES": "[Asistente Naomi]\nYa casi termino… ¿Quién eres? ¿Eres ayudante del Dr.Magniffer?"
+        "es-ES": "[Asistente Naomi]\nYa casi termino... ¿Quién eres? ¿Eres ayudante del Dr.Magniffer?"
     },
     "B7oq": {
         "en-US": "[{0}]\nHe asked me to bring some reports. Didn't he say anything?",
@@ -682,17 +682,17 @@
     "CLoq": {
         "en-US": "[Assistant Naomi]\nHmm... I haven't seen him in over a year! What's he doing now?",
         "pt-BR": "[Assistente Naomi]\nHmm... Eu não o vejo há mais de um ano! O que ele está fazendo agora?",
-        "es-ES": "[Asistente Naomi]\nMmm… ¡Hace más de un año que no lo veo! ¿Qué está haciendo ahora?"
+        "es-ES": "[Asistente Naomi]\nMmm... ¡Hace más de un año que no lo veo! ¿Qué está haciendo ahora?"
     },
     "Cboq": {
         "en-US": "[{0}]\nHe said that he would send a message to you... didn't you get it?",
         "pt-BR": "[{0}]\nEle disse que enviaria uma mensagem para você... você não a recebeu?",
-        "es-ES": "[{0}]\nDijo que te enviaría un mensaje… ¿no lo recibiste?"
+        "es-ES": "[{0}]\nDijo que te enviaría un mensaje... ¿no lo recibiste?"
     },
     "Croq": {
         "en-US": "[Assistant Naomi]\nMessage? ...Let's see... I never expected him to write a message...",
         "pt-BR": "[Assistente Naomi]\nMensagem? ...Vamos ver... Nunca esperei que ele escrevesse uma mensagem...",
-        "es-ES": "[Asistente Naomi]\n¿Un mensaje? Veamos… Nunca esperé que escribiera un mensaje…"
+        "es-ES": "[Asistente Naomi]\n¿Un mensaje? Veamos... Nunca esperé que escribiera un mensaje..."
     },
     "C7oq": {
         "en-US": "[Assistant Naomi]\nI will check the mailbox, wait a minute. If you get bored read those books.",
@@ -707,7 +707,7 @@
     "Dboq": {
         "en-US": "[{0}]\n'Birth of the World', 'The Fiction of Odin's Myth', 'God's Battle Then After', 'Dreams of the Tribes'. There are a variety of books...",
         "pt-BR": "[{0}]\n'Nascimento do Mundo', 'A Ficção do Mito de Odin', 'A Batalha de Deus Depois', 'Sonhos das Tribos'. Há uma variedade de livros...",
-        "es-ES": "[{0}]\nEl nacimiento del mundo, La ficción del mito de Odín, Las consecuencias de la batalla de los dioses, Los sueños de las tribus. Hay una gran variedad de libros…"
+        "es-ES": "[{0}]\nEl nacimiento del mundo, La ficción del mito de Odín, Las consecuencias de la batalla de los dioses, Los sueños de las tribus. Hay una gran variedad de libros..."
     },
     "Droq": {
         "en-US": "[Assistant Naomi]\nOh, sorry I took so long. There was too much mail, so it took me a while to find stuff.",
@@ -717,7 +717,7 @@
     "D7oq": {
         "en-US": "[Assistant Naomi]\nHe has sent me mail over 20 times. I did not know that...",
         "pt-BR": "[Assistente Naomi]\nEle já me enviou correspondência mais de 20 vezes. Eu não sabia disso...",
-        "es-ES": "[Asistente Naomi]\nMe envió más de 20correos. No lo sabía…"
+        "es-ES": "[Asistente Naomi]\nMe envió más de 20correos. No lo sabía..."
     },
     "ELoq": {
         "en-US": "[Assistant Naomi]\nAh, here's the message about you. He said to share the information on research and reports.",
@@ -762,7 +762,7 @@
     "GLoq": {
         "en-US": "[Assistant Naomi]\nThe combat of Odin vs. the Gods, and the Gods' sons and their purpose... The Doctor has researched this his whole life.",
         "pt-BR": "[Assistente Naomi]\nO combate de Odin contra os deuses, e os filhos dos deuses e seu propósito... O Doutor pesquisou isso durante toda a sua vida.",
-        "es-ES": "[Asistente Naomi]\nEl combate de Odín contra los dioses y los hijos de los dioses, y su propósito… El doctor ha investigado esto toda su vida."
+        "es-ES": "[Asistente Naomi]\nEl combate de Odín contra los dioses y los hijos de los dioses, y su propósito... El doctor ha investigado esto toda su vida."
     },
     "Gboq": {
         "en-US": "[{0}]\nBut those reports haven't come out yet. Have they?",
@@ -887,7 +887,7 @@
     "Mboq": {
         "en-US": "The last thing to be tested... was to send adventurers who volunteered to explore the new world.",
         "pt-BR": "A última coisa a ser testada... foi enviar aventureiros que se voluntariaram para explorar o novo mundo.",
-        "es-ES": "Lo último que se intentó… fue enviar trotamundos voluntarios para explorar el nuevo mundo."
+        "es-ES": "Lo último que se intentó... fue enviar trotamundos voluntarios para explorar el nuevo mundo."
     },
     "Mroq": {
         "en-US": "There was a flood of adventurer applications. Lots of volunteers disappeared over the dimensional gorge, and they brought back new data.",
@@ -912,7 +912,7 @@
     "Nroq": {
         "en-US": "Long ago, there wasn't a sun, moon, or stars; just empty earth... and Ymir was born. Then, by making sons, Ymir grew.",
         "pt-BR": "Há muito tempo, não havia sol, lua ou estrelas; apenas uma terra vazia... e Ymir nasceu. Depois, ao fazer filhos, Ymir cresceu.",
-        "es-ES": "Hacía mucho tiempo que no había sol, luna ni estrellas; solo tierra vacía… hasta que nació Ymir. Luego, al tener hijos, Ymir creció."
+        "es-ES": "Hacía mucho tiempo que no había sol, luna ni estrellas; solo tierra vacía... hasta que nació Ymir. Luego, al tener hijos, Ymir creció."
     },
     "N7oq": {
         "en-US": "But, his sons grew as well and he was killed by Odin, Vili, and Ve; 3 brothers, Gods, that attacked from different sides.",
@@ -922,7 +922,7 @@
     "OLoq": {
         "en-US": "At that time of Ymir's fall his blood flooded the world... killing all in it's path.",
         "pt-BR": "Naquela época da queda de Ymir, seu sangue inundou o mundo... matando todos em seu caminho.",
-        "es-ES": "Cuando Ymir murió, su sangre inundó el mundo… matando a todos a su paso."
+        "es-ES": "Cuando Ymir murió, su sangre inundó el mundo... matando a todos a su paso."
     },
     "Oboq": {
         "en-US": "Only Hvergelmir of the Sapha tribe escaped from this flooding of blood. And he swore vengeance in Jotunheim, which is covered with foggy snow.",
@@ -952,7 +952,7 @@
     "Proq": {
         "en-US": "The Laphine tribe has never contacted anyone outside of Asgard. But since they found that Yggdrasil's power is weakening...",
         "pt-BR": "A tribo Laphine nunca entrou em contato com ninguém fora de Asgard. Mas desde que descobriram que o poder de Yggdrasil está enfraquecendo...",
-        "es-ES": "La tribu de los laphines nunca ha contactado a nadie fuera de Asgard. Pero desde que descubrieron que el poder del Yggdrasil se está debilitando…"
+        "es-ES": "La tribu de los laphines nunca ha contactado a nadie fuera de Asgard. Pero desde que descubrieron que el poder del Yggdrasil se está debilitando..."
     },
     "P7oq": {
         "en-US": "They have declared they will attend to the high courts for the first time in 1000 human years, since the end of the battles of Gods vs. Magicians.",
@@ -992,7 +992,7 @@
     "Rroq": {
         "en-US": "[Grumbling Soldier]\nWhat? If you wander around there... you might return with injuries.",
         "pt-BR": "[Soldado resmungão]\nO quê? Se você andar por lá... pode voltar com ferimentos.",
-        "es-ES": "[Soldado Gruñón]\n¿Qué? Si deambulas por allí… podrías volver con heridas."
+        "es-ES": "[Soldado Gruñón]\n¿Qué? Si deambulas por allí... podrías volver con heridas."
     },
     "R7oq": {
         "en-US": "[Grumbling Soldier]\nI don't know exactly how to explain it, but it's like it has a bad mood. There are lots of terrible monsters there.",
@@ -1002,12 +1002,12 @@
     "SLoq": {
         "en-US": "[Grumbling Soldier]\nThey whisper to each other, so... something is there... But I don't care...",
         "pt-BR": "[Soldado resmungão]\nEles sussurram um para o outro, então... algo está lá... Mas eu não me importo...",
-        "es-ES": "[Soldado Gruñón]\nSusurran entre ellos, así que… hay algo ahí… Pero no me importa…"
+        "es-ES": "[Soldado Gruñón]\nSusurran entre ellos, así que... hay algo ahí... Pero no me importa..."
     },
     "Sboq": {
         "en-US": "[Grumbling Soldier]\nMight be... those Sapha tribesmen have dug in the cave before... They do have a special talent for digging.",
         "pt-BR": "[Soldado resmungão]\nPode ser que... aqueles homens da tribo Sapha já tenham cavado na caverna antes... Eles têm um talento especial para cavar.",
-        "es-ES": "[Soldado Gruñón]\nPodría ser… los miembros de la tribu de los saphas ya excavaron la cueva… Tienen un talento especial para excavar."
+        "es-ES": "[Soldado Gruñón]\nPodría ser... los miembros de la tribu de los saphas ya excavaron la cueva... Tienen un talento especial para excavar."
     },
     "Sroq": {
         "en-US": "[Grumbling Soldier]\nOh! It is because of them that we have been living here, a lowdown and dirty city, for over one hundred years.",
@@ -1022,7 +1022,7 @@
     "TLoq": {
         "en-US": "[Grumbling Soldier]\nThey are surely full of bad ideas, so... they have destroyed the Yggdrasil's root.",
         "pt-BR": "[Soldado resmungão]\nEles certamente estão cheios de ideias ruins, então... eles destruíram a raiz da Yggdrasil.",
-        "es-ES": "[Soldado Gruñón]\nSeguramente están llenos de malas ideas y por eso… destruyeron la raíz del Yggdrasil."
+        "es-ES": "[Soldado Gruñón]\nSeguramente están llenos de malas ideas y por eso... destruyeron la raíz del Yggdrasil."
     },
     "Tboq": {
         "en-US": "[Grumbling Soldier]\nWe are here to make sure that the Sapha don't make things worse.",
@@ -1032,22 +1032,22 @@
     "Troq": {
         "en-US": "[Grumbling Soldier]\nWhat can you expect when Manuk giants start to dig into the world to destroy the Yggdrasil...",
         "pt-BR": "[Soldado resmungão]\nO que se pode esperar quando os gigantes Manuk começam a cavar o mundo para destruir a Yggdrasil...",
-        "es-ES": "[Soldado Gruñón]\n¿Qué se puede esperar cuando los gigantes de Manuk empiezan a excavar el mundo para destruir el Yggdrasil…?"
+        "es-ES": "[Soldado Gruñón]\n¿Qué se puede esperar cuando los gigantes de Manuk empiezan a excavar el mundo para destruir el Yggdrasil...?"
     },
     "T7oq": {
         "en-US": "[Grumbling Soldier]\nAnd the worst thing is... that strange things are strutting along the streets of the towns...",
         "pt-BR": "[Soldado resmungão]\nE o pior é que... coisas estranhas estão andando pelas ruas das cidades...",
-        "es-ES": "[Soldado Gruñón]\nY lo peor es que… esas cosas extrañas se pavonean por las calles de las ciudades…"
+        "es-ES": "[Soldado Gruñón]\nY lo peor es que... esas cosas extrañas se pavonean por las calles de las ciudades..."
     },
     "ULoq": {
         "en-US": "[Grumbling Soldier]\nYes, you... What do you think about the way the government is handling this...?",
         "pt-BR": "[Soldado resmungão]\nSim, você... O que acha da maneira como o governo está lidando com isso...?",
-        "es-ES": "[Soldado Gruñón]\nSí, tú… ¿Qué opinas de la forma en que el gobierno está manejando esto…?"
+        "es-ES": "[Soldado Gruñón]\nSí, tú... ¿Qué opinas de la forma en que el gobierno está manejando esto...?"
     },
     "Uboq": {
         "en-US": "[Grumbling Soldier]\nAlthough they ignore your track record, still, one should be careful...",
         "pt-BR": "[Soldado resmungão]\nEmbora eles ignorem seu histórico, ainda assim, é preciso ter cuidado...",
-        "es-ES": "[Soldado Gruñón]\nAunque ignoren tu historial, hay que tener cuidado…"
+        "es-ES": "[Soldado Gruñón]\nAunque ignoren tu historial, hay que tener cuidado..."
     },
     "Uroq": {
         "en-US": "[Grumbling Soldier]\nSeLarsmar Di marThusVil U SeMushVohl.",
@@ -1062,17 +1062,17 @@
     "VLoq": {
         "en-US": "[Sighing Soldier]\nWhen will we be finished with this combat with the Sapha? Ugghhhh...",
         "pt-BR": "[Soldado Suspirando]\nQuando terminaremos esse combate com os Sapha? Ugghhhh...",
-        "es-ES": "[Soldado Suspirante]\n¿Cuándo terminaremos este combate con los saphas? Uffff…"
+        "es-ES": "[Soldado Suspirante]\n¿Cuándo terminaremos este combate con los saphas? Uffff..."
     },
     "Vboq": {
         "en-US": "[Sighing Soldier]\nWell... I'm not sure, but we have avoided going to that area.",
         "pt-BR": "[Soldado Suspirando]\nBem... Não tenho certeza, mas temos evitado ir para essa área.",
-        "es-ES": "[Soldado Suspirante]\nBueno… No estoy seguro, pero hemos evitado ir a esa zona."
+        "es-ES": "[Soldado Suspirante]\nBueno... No estoy seguro, pero hemos evitado ir a esa zona."
     },
     "Vroq": {
         "en-US": "[Sighing Soldier]\nSometimes, the dispatched researchers hang around here... I feel bad that there's nothing to see... without any reason...",
         "pt-BR": "[Soldado Suspirando]\nÀs vezes, os pesquisadores despachados ficam por aqui... Sinto-me mal por não haver nada para ver... sem nenhuma razão...",
-        "es-ES": "[Soldado Suspirante]\nA veces, los investigadores designados merodean por aquí… Me siento mal porque no hay nada que ver… sin ningún motivo…"
+        "es-ES": "[Soldado Suspirante]\nA veces, los investigadores designados merodean por aquí... Me siento mal porque no hay nada que ver... sin ningún motivo..."
     },
     "V7oq": {
         "en-US": "[Sighing Soldier]\nBut the command officers make sure that there's something hidden in there.",
@@ -1087,7 +1087,7 @@
     "Wboq": {
         "en-US": "[Sighing Soldier]\nI don't know what others think about it... but we've had some trouble with our attitude against the Sapha tribes.",
         "pt-BR": "[Soldado Suspirando]\nNão sei o que os outros pensam sobre isso... mas tivemos alguns problemas com nossa atitude contra as tribos Sapha.",
-        "es-ES": "[Soldado Suspirante]\nNo sé qué opinan los demás… pero tuvimos algunos problemas con nuestra actitud contra la tribu de los saphas."
+        "es-ES": "[Soldado Suspirante]\nNo sé qué opinan los demás... pero tuvimos algunos problemas con nuestra actitud contra la tribu de los saphas."
     },
     "Wroq": {
         "en-US": "[Sighing Soldier]\nWe didn't try to solve the problems with talk. We attacked them first.",
@@ -1097,17 +1097,17 @@
     "W7oq": {
         "en-US": "[Sighing Soldier]\nMaybe... our command officers don't want to accept other species different than us...",
         "pt-BR": "[Soldado Suspirando]\nTalvez... nossos oficiais de comando não queiram aceitar outras espécies diferentes de nós...",
-        "es-ES": "[Soldado Suspirante]\nTal vez… nuestros oficiales al mando no quieren aceptar a otras especies diferentes a nosotros…"
+        "es-ES": "[Soldado Suspirante]\nTal vez... nuestros oficiales al mando no quieren aceptar a otras especies diferentes a nosotros..."
     },
     "XLoq": {
         "en-US": "[Sighing Soldier]\nDon't misunderstand... Recently, we have talked about your particular species and our commanders feel grateful to you.",
         "pt-BR": "[Soldado Suspirando]\nNão entenda mal... Recentemente, conversamos sobre sua espécie em particular e nossos comandantes se sentem gratos a você.",
-        "es-ES": "[Soldado Suspirante]\nNo me malinterpretes… Recientemente, hablamos de tu especie en particular y nuestros comandantes están agradecidos."
+        "es-ES": "[Soldado Suspirante]\nNo me malinterpretes... Recientemente, hablamos de tu especie en particular y nuestros comandantes están agradecidos."
     },
     "Xboq": {
         "en-US": "[Sighing Soldier]\nAnyway... I'm just exhausted during this useless and nerve-wracking situation... Sigh.",
         "pt-BR": "[Soldado Suspirando]\nEnfim... Estou apenas exausto durante essa situação inútil e estressante... Suspiro.",
-        "es-ES": "[Soldado Suspirante]\nEn fin… Estoy agotado por esta situación inútil y angustiosa… *Suspira*"
+        "es-ES": "[Soldado Suspirante]\nEn fin... Estoy agotado por esta situación inútil y angustiosa... *Suspira*"
     },
     "Xroq": {
         "en-US": "[Sighing Soldier]\nFrankly, I don't think of you or any Sapha is our enemy. Sigh...",
@@ -1132,12 +1132,12 @@
     "Yroq": {
         "en-US": "[Commander Lebiordirr]\nAre you...? Are you the one collecting information from my soldiers...?",
         "pt-BR": "[Comandante Lebiordirr]\nVocê é...? É você que está coletando informações dos meus soldados...?",
-        "es-ES": "[Comandante Lebiordirr]\n¿Eres…? ¿Eres tú quien recolecta información de mis soldados…?"
+        "es-ES": "[Comandante Lebiordirr]\n¿Eres...? ¿Eres tú quien recolecta información de mis soldados...?"
     },
     "Y7oq": {
         "en-US": "[Commander Lebiordirr]\nYou should be cautious. Our tribe has respected the existence of you humans but...",
         "pt-BR": "[Comandante Lebiordirr]\nVocês devem ser cautelosos. Nossa tribo tem respeitado a existência de vocês, humanos, mas...",
-        "es-ES": "[Comandante Lebiordirr]\nDebes tener cuidado. Nuestra tribu ha respetado la existencia de los humanos, pero…"
+        "es-ES": "[Comandante Lebiordirr]\nDebes tener cuidado. Nuestra tribu ha respetado la existencia de los humanos, pero..."
     },
     "ZLoq": {
         "en-US": "[Commander Lebiordirr]\nI've taken a great risk in allowing you in here. So be wary.",
@@ -1157,7 +1157,7 @@
     "Z7oq": {
         "en-US": "[Commander Lebiordirr]\nUnless you have any messages for me...? Your face says you do...",
         "pt-BR": "[Comandante Lebiordirr]\nA menos que você tenha alguma mensagem para mim...? Seu rosto diz que sim...",
-        "es-ES": "[Comandante Lebiordirr]\nA menos que tengas algún mensaje para mí… Tu rostro dice que sí…"
+        "es-ES": "[Comandante Lebiordirr]\nA menos que tengas algún mensaje para mí... Tu rostro dice que sí..."
     },
     "aLoq": {
         "en-US": "No. Nothing. We can talk later.",
@@ -1177,12 +1177,12 @@
     "a7oq": {
         "en-US": "[Commander Lebiordirr]\nNo. Let's hear an explanation. Good? Now, if you want...",
         "pt-BR": "[Comandante Lebiordirr]\nNão. Vamos ouvir uma explicação. Está bom? Agora, se você quiser...",
-        "es-ES": "[Comandante Lebiordirr]\nNo. Escuchemos la explicación. ¿De acuerdo? Ahora, si quieres…"
+        "es-ES": "[Comandante Lebiordirr]\nNo. Escuchemos la explicación. ¿De acuerdo? Ahora, si quieres..."
     },
     "bLoq": {
         "en-US": "[Commander Lebiordirr]\nI have known that, recently, time has broken... so, you're here exploring for a solution, no?",
         "pt-BR": "[Comandante Lebiordirr]\nEu sei que, recentemente, o tempo se esgotou... então, você está aqui explorando em busca de uma solução, não?",
-        "es-ES": "[Comandante Lebiordirr]\nMe enteré de que, hace poco, hubo una fractura en el tiempo… Estás aquí buscando una solución, ¿no?"
+        "es-ES": "[Comandante Lebiordirr]\nMe enteré de que, hace poco, hubo una fractura en el tiempo... Estás aquí buscando una solución, ¿no?"
     },
     "bboq": {
         "en-US": "[Commander Lebiordirr]\nOur tribe has respected you, so just forget about the searching and exploring around here.",
@@ -1222,7 +1222,7 @@
     "dLoq": {
         "en-US": "To ask the Laphines about exploring...",
         "pt-BR": "Para perguntar as Laphines sobre a exploração...",
-        "es-ES": "Para preguntar a los laphines sobre la exploración…"
+        "es-ES": "Para preguntar a los laphines sobre la exploración..."
     },
     "dboq": {
         "en-US": "[Commander Lebiordirr]\nExploring what? Choose your words wisely?",
@@ -1242,7 +1242,7 @@
     "eLoq": {
         "en-US": "[Commander Lebiordirr]\nThat means... that you are ignoring my warning? Is this your decision or are you just following orders?",
         "pt-BR": "[Comandante Lebiordirr]\nIsso significa... que você está ignorando meu aviso? Essa decisão é sua ou está apenas cumprindo ordens?",
-        "es-ES": "[Comandante Lebiordirr]\n¿Eso significa… que estás ignorando mi advertencia? ¿Es tu decisión o solo cumples órdenes?"
+        "es-ES": "[Comandante Lebiordirr]\n¿Eso significa... que estás ignorando mi advertencia? ¿Es tu decisión o solo cumples órdenes?"
     },
     "eboq": {
         "en-US": "I'm just following orders",
@@ -1262,12 +1262,12 @@
     "fLoq": {
         "en-US": "It's about Dr. Magniffer's report...",
         "pt-BR": "É sobre o relatório do Dr. Magniffer...",
-        "es-ES": "Es sobre el informe del Dr.Magniffer…"
+        "es-ES": "Es sobre el informe del Dr.Magniffer..."
     },
     "fboq": {
         "en-US": "[Commander Lebiordirr]\nSo... What do I care about an outsider's report?",
         "pt-BR": "[Comandante Lebiordirr]\nEntão... O que me importa o relatório de uma pessoa de fora?",
-        "es-ES": "[Comandante Lebiordirr]\nY… ¿Qué me importa el informe de un forastero?"
+        "es-ES": "[Comandante Lebiordirr]\nY... ¿Qué me importa el informe de un forastero?"
     },
     "froq": {
         "en-US": "[Commander Lebiordirr]\nTo protect the Yggdrasil! That's the Laphine's fate. Can you say that about yourself?",
@@ -1302,12 +1302,12 @@
     "hLoq": {
         "en-US": "[Commander Lebiordirr]\nNo, wait... The Sapha tribesmen know the meaning of that place? Did you ask to associate with them?",
         "pt-BR": "[Comandante Lebiordirr]\nNão, espere... Os membros da tribo Sapha sabem o significado desse lugar? Você pediu para se associar a eles?",
-        "es-ES": "[Comandante Lebiordirr]\nNo, espera… ¿Los miembros de la tribu de los saphas conocen el significado de ese lugar? ¿Pediste asociarte con ellos?"
+        "es-ES": "[Comandante Lebiordirr]\nNo, espera... ¿Los miembros de la tribu de los saphas conocen el significado de ese lugar? ¿Pediste asociarte con ellos?"
     },
     "hboq": {
         "en-US": "[Commander Lebiordirr]\nAh... How tricky... Are you testing us?",
         "pt-BR": "[Comandante Lebiordirr]\nAh... que complicado... Está nos testando?",
-        "es-ES": "[Comandante Lebiordirr]\nAh… Qué difícil… ¿Nos estás poniendo a prueba?"
+        "es-ES": "[Comandante Lebiordirr]\nAh... Qué difícil... ¿Nos estás poniendo a prueba?"
     },
     "hroq": {
         "en-US": "[Splendide Guard]\nCalm down, sir. I will throw this outsider into prison.",
@@ -1317,7 +1317,7 @@
     "h7oq": {
         "en-US": "[Commander Lebiordirr]\nNo... No, wait. Ok, I will accept it. I can accept your admission into the Holy Sekos.",
         "pt-BR": "[Comandante Lebiordirr]\nNão... Não, espere. Ok, eu aceitarei. Posso aceitar sua admissão no Sekos Sagrado.",
-        "es-ES": "[Comandante Lebiordirr]\nNo… No, espera. De acuerdo, lo aceptaré. Acepto tu ingreso en la santa Sekos."
+        "es-ES": "[Comandante Lebiordirr]\nNo... No, espera. De acuerdo, lo aceptaré. Acepto tu ingreso en la santa Sekos."
     },
     "iLoq": {
         "en-US": "[Commander Lebiordirr]\nOkay. If you are a servant of the Yggdrasil as you claim to be, I will allow you admission. But I am not responsible for your actions.",
@@ -1337,32 +1337,32 @@
     "i7oq": {
         "en-US": "[Commander Lebiordirr]\nSo... since I have agreed to allow your exploration... Arioss, help them, and take the results.",
         "pt-BR": "[Comandante Lebiordirr]\nEntão... já que concordei em permitir sua exploração... Arioss, ajude-os e pegue os resultados.",
-        "es-ES": "[Comandante Lebiordirr]\nBueno… ya que te permití explorar… Arioss, dale una mano y recibe los resultados."
+        "es-ES": "[Comandante Lebiordirr]\nBueno... ya que te permití explorar... Arioss, dale una mano y recibe los resultados."
     },
     "jLoq": {
         "en-US": "[Arioss]\nSir... are you sure? This is an invasion of the Holy Sekos...",
         "pt-BR": "[Arioss]\nSenhor... tem certeza? Esta é uma invasão dos Sekos Sagrados...",
-        "es-ES": "[Arioss]\nSeñora… ¿está segura? Esta es una invasión a la santa Sekos…"
+        "es-ES": "[Arioss]\nSeñora... ¿está segura? Esta es una invasión a la santa Sekos..."
     },
     "jboq": {
         "en-US": "[Commander Lebiordirr]\nInvasion is a harsh word. I am allowing them entrance. Better them than a dirty giant. It might just save our lives...",
         "pt-BR": "[Comandante Lebiordirr]\nInvasão é uma palavra dura. Estou permitindo a entrada deles. Antes eles do que um gigante sujo. Isso pode salvar nossas vidas...",
-        "es-ES": "[Comandante Lebiordirr]\nInvasión es una palabra hostil. Le estoy permitiendo la entrada. Es preferible a un gigante sucio. Podría salvarnos la vida…"
+        "es-ES": "[Comandante Lebiordirr]\nInvasión es una palabra hostil. Le estoy permitiendo la entrada. Es preferible a un gigante sucio. Podría salvarnos la vida..."
     },
     "jroq": {
         "en-US": "[Commander Lebiordirr]\nHere, outsider. Arioss will explain the situation with the giants. Talk with him...",
         "pt-BR": "[Comandante Lebiordirr]\nAqui, forasteiro. Arioss explicará a situação com os gigantes. Converse com ele...",
-        "es-ES": "[Comandante Lebiordirr]\nToma, forastero. Arioss te explicará la situación con los gigantes. Háblale…"
+        "es-ES": "[Comandante Lebiordirr]\nToma, forastero. Arioss te explicará la situación con los gigantes. Háblale..."
     },
     "j7oq": {
         "en-US": "[Commander Lebiordirr]\nOutsider. Arioss here will explain the situation with the giants, talk with him...",
         "pt-BR": "[Comandante Lebiordirr]\nForasteiro. Arioss explicará a situação com os gigantes, converse com ele...",
-        "es-ES": "[Comandante Lebiordirr]\nForastero. Arioss te explicará la situación con los gigantes, háblale…"
+        "es-ES": "[Comandante Lebiordirr]\nForastero. Arioss te explicará la situación con los gigantes, háblale..."
     },
     "kLoq": {
         "en-US": "[Commander Lebiordirr]\nWelcome to Laphine's camp in Splendide, outsider... I am Lebiordirr. I am in charge here.",
         "pt-BR": "[Comandante Lebiordirr]\nBem-vindo ao acampamento de Laphine em Esplendor, forasteiro... Eu sou Lebiordirr. Estou no comando aqui.",
-        "es-ES": "[Comandante Lebiordirr]\nTe damos la bienvenida al campamento de los laphines en Splendide… Soy Lebiordirr. Estoy a cargo."
+        "es-ES": "[Comandante Lebiordirr]\nTe damos la bienvenida al campamento de los laphines en Splendide... Soy Lebiordirr. Estoy a cargo."
     },
     "kboq": {
         "en-US": "[Commander Lebiordirr]\nBe cautious of your actions. We already have lots of problems with the Sapha tribe as it is.",
@@ -1427,32 +1427,32 @@
     "nboq": {
         "en-US": "[Commander Lebiordirr]\nDid Yggdrasiliad... really mean to say that?",
         "pt-BR": "[Comandante Lebiordirr]\nYggdrasiliad... realmente quis dizer isso?",
-        "es-ES": "[Comandante Lebiordirr]\n¿En verdad Yggdrasiliad… quiso decir eso?"
+        "es-ES": "[Comandante Lebiordirr]\n¿En verdad Yggdrasiliad... quiso decir eso?"
     },
     "nroq": {
         "en-US": "[Commander Lebiordirr]\nNow, the reason for this is... the escape of the Guardian or the Sapha tribe? Or did he throw away his name as the Guardian's servant?",
         "pt-BR": "[Comandante Lebiordirr]\nAgora, a razão para isso é... a fuga do Guardião ou da tribo Sapha? Ou ele jogou fora seu nome como servo do Guardião?",
-        "es-ES": "[Comandante Lebiordirr]\nAhora, el motivo de esto es… ¿la huida de la guardiana o la tribu de los saphas? ¿O acaso ya no es sirviente de la guardiana?"
+        "es-ES": "[Comandante Lebiordirr]\nAhora, el motivo de esto es... ¿la huida de la guardiana o la tribu de los saphas? ¿O acaso ya no es sirviente de la guardiana?"
     },
     "n7oq": {
         "en-US": "[Commander Lebiordirr]\nShould Alfheim, the great priest, be informed? How...?",
         "pt-BR": "[Comandante Lebiordirr]\nAlfheim, o grande sacerdote, deve ser informado? Como...?",
-        "es-ES": "[Comandante Lebiordirr]\n¿Deberíamos informar al gran sacerdote de Alfheim? ¿Cómo…?"
+        "es-ES": "[Comandante Lebiordirr]\n¿Deberíamos informar al gran sacerdote de Alfheim? ¿Cómo...?"
     },
     "oLoq": {
         "en-US": "[Aide Arioss]\nSir... Basically... we should inform... the mainland...",
         "pt-BR": "[Aide Arioss]\nSenhor... Basicamente... devemos informar... o continente...",
-        "es-ES": "[Ayudante Arioss]\nSeñora… Básicamente… deberíamos informar… al continente…"
+        "es-ES": "[Ayudante Arioss]\nSeñora... Básicamente... deberíamos informar... al continente..."
     },
     "oboq": {
         "en-US": "[Commander Lebiordirr]\nNevermind, Arioss... I will take care of this trouble immediately. Forget about it.",
         "pt-BR": "[Comandante Lebiordirr]\nNão importa, Arioss... Eu cuidarei desse problema imediatamente. Esqueça isso.",
-        "es-ES": "[Comandante Lebiordirr]\nNo te preocupes, Arioss… Me ocuparé de este problema ahora. Olvídalo."
+        "es-ES": "[Comandante Lebiordirr]\nNo te preocupes, Arioss... Me ocuparé de este problema ahora. Olvídalo."
     },
     "oroq": {
         "en-US": "[Commander Lebiordirr]\nOutsider... Thank you for your help. Forget whatever happened today...",
         "pt-BR": "[Comandante Lebiordirr]\nForasteiro... Obrigado por sua ajuda. Esqueça o que aconteceu hoje...",
-        "es-ES": "[Comandante Lebiordirr]\nForastero… Gracias por tu ayuda. Olvida lo que pasó hoy…"
+        "es-ES": "[Comandante Lebiordirr]\nForastero... Gracias por tu ayuda. Olvida lo que pasó hoy..."
     },
     "o7oq": {
         "en-US": "[Commander Lebiordirr]\nArioss, give the outsider a proper reward. I will rest.",
@@ -1462,7 +1462,7 @@
     "pLoq": {
         "en-US": "[Aide Arioss]\nSir...",
         "pt-BR": "[Aide Arioss]\nSenhor...",
-        "es-ES": "[Ayudante Arioss]\nSeñora…"
+        "es-ES": "[Ayudante Arioss]\nSeñora..."
     },
     "pboq": {
         "en-US": "[Commander Lebiordirr]\nOutsider. Thank you for your help about our troubles. You may put it behind you.",
@@ -1477,7 +1477,7 @@
     "p7oq": {
         "en-US": "[Commander Lebiordirr]\nThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee...",
         "pt-BR": "[Comandante Lebiordirr]\nAssimDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee...",
-        "es-ES": "[Comandante Lebiordirr]\nThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee…"
+        "es-ES": "[Comandante Lebiordirr]\nThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee..."
     },
     "qLoq": {
         "en-US": "Aide Arioss",
@@ -1492,7 +1492,7 @@
     "qroq": {
         "en-US": "[Aide Arioss]\nDo you know the place? How dangerous it is...?",
         "pt-BR": "[Aide Arioss]\nVocê conhece o lugar? O quanto é perigoso...?",
-        "es-ES": "[Ayudante Arioss]\n¿Conoces el lugar? ¿Qué tan peligroso es…?"
+        "es-ES": "[Ayudante Arioss]\n¿Conoces el lugar? ¿Qué tan peligroso es...?"
     },
     "q7oq": {
         "en-US": "[Aide Arioss]\nAnyway, as you expected, here is the connection with the World Tree Yggdrasil and the Guardian's Nest.",
@@ -1537,7 +1537,7 @@
     "s7oq": {
         "en-US": "[Aide Arioss]\nSo now, we have attacked them to send them away, but their defenses are strong... We have been making a stand for a long time.",
         "pt-BR": "[Aide Arioss]\nEntão, agora, nós os atacamos para mandá-los embora, mas suas defesas são fortes... Estamos nos defendendo há muito tempo.",
-        "es-ES": "[Ayudante Arioss]\nAsí que los atacamos para alejarlos, pero sus defensas son fuertes… Llevamos mucho tiempo resistiendo."
+        "es-ES": "[Ayudante Arioss]\nAsí que los atacamos para alejarlos, pero sus defensas son fuertes... Llevamos mucho tiempo resistiendo."
     },
     "tLoq": {
         "en-US": "[Aide Arioss]\nWhile we endured this, the time gap was created and broke out of the ground.",
@@ -1547,17 +1547,17 @@
     "tboq": {
         "en-US": "[Aide Arioss]\nSo, the hidden root to the Guardian's Nest came out. As you have found out...",
         "pt-BR": "[Aide Arioss]\nEntão, a raiz oculta do Ninho do Guardião foi revelada. Como você descobriu...",
-        "es-ES": "[Ayudante Arioss]\nEntonces, emergió la raíz oculta que va al nido de la guardiana. Como lo descubriste…"
+        "es-ES": "[Ayudante Arioss]\nEntonces, emergió la raíz oculta que va al nido de la guardiana. Como lo descubriste..."
     },
     "troq": {
         "en-US": "[Aide Arioss]\nNow, can you understand the situation? How serious it is? Thanks to the Sapha... we can't get any knowledge from the Guardian anymore.",
         "pt-BR": "[Aide Arioss]\nAgora, você consegue entender a situação? Qual é a gravidade da situação? Graças ao Sapha... não podemos mais obter nenhum conhecimento do Guardião.",
-        "es-ES": "[Ayudante Arioss]\n¿Ahora entiendes la situación? ¿Qué tan grave es? Gracias a los saphas… ya no podemos obtener ningún conocimiento de la guardiana."
+        "es-ES": "[Ayudante Arioss]\n¿Ahora entiendes la situación? ¿Qué tan grave es? Gracias a los saphas... ya no podemos obtener ningún conocimiento de la guardiana."
     },
     "t7oq": {
         "en-US": "[Aide Arioss]\nIt may shame us a little... but we ask... that if you meet with the Guardian, you might find a solution...",
         "pt-BR": "[Aide Arioss]\nIsso pode nos envergonhar um pouco... mas pedimos... que se você se encontrar com o Guardião, você pode encontrar uma solução...",
-        "es-ES": "[Ayudante Arioss]\nPuede avergonzarnos un poco… pero te pedimos… que si te reúnes con la guardiana, encuentres una solución…"
+        "es-ES": "[Ayudante Arioss]\nPuede avergonzarnos un poco... pero te pedimos... que si te reúnes con la guardiana, encuentres una solución..."
     },
     "uLoq": {
         "en-US": "[Aide Arioss]\nAnyway, thank you. I will support as I can with whatever you ask.",
@@ -1592,7 +1592,7 @@
     "vroq": {
         "en-US": "[Aide Arioss]\nDuring the last combat against the Sapha, one of theirs died... and another Sapha was caught prisoner.",
         "pt-BR": "[Aide Arioss]\nDurante o último combate contra os Sapha, um deles morreu... e outro Sapha foi feito prisioneiro.",
-        "es-ES": "[Ayudante Arioss]\nDurante el último combate contra los saphas, murió uno de los nuestros… y otra quedó prisionera."
+        "es-ES": "[Ayudante Arioss]\nDurante el último combate contra los saphas, murió uno de los nuestros... y otra quedó prisionera."
     },
     "v7oq": {
         "en-US": "[Aide Arioss]\nI will give this sigil to you. Take it. Just insert it at the Guardian's seal.",
@@ -1642,12 +1642,12 @@
     "yLoq": {
         "en-US": "Never give attention to... um... a blunt woman...",
         "pt-BR": "Nunca dê atenção a... hum... uma mulher brusca...",
-        "es-ES": "Nunca prestes atención a… eh… una mujer directa…"
+        "es-ES": "Nunca prestes atención a... eh... una mujer directa..."
     },
     "yboq": {
         "en-US": "[Aide Arioss]\nHow goes it... with our priest's problem of the guardian?",
         "pt-BR": "[Aide Arioss]\nComo vai... com o problema do guardião de nosso sacerdote?",
-        "es-ES": "[Ayudante Arioss]\n¿Cómo sigue… el problema de nuestra sacerdotisa relacionado con la guardiana?"
+        "es-ES": "[Ayudante Arioss]\n¿Cómo sigue... el problema de nuestra sacerdotisa relacionado con la guardiana?"
     },
     "yroq": {
         "en-US": "[Aide Arioss]\nI'm honored with your effort to represent the Laphine tribe, even if our leader doesn't readily admit it.",
@@ -1662,7 +1662,7 @@
     "zLoq": {
         "en-US": "[Aide Arioss]\nIf I have something to help you for the future... I will try to help you. Thanks again!!",
         "pt-BR": "[Aide Arioss]\nSe eu tiver algo para ajudá-lo no futuro... Tentarei ajudá-lo. Mais uma vez, obrigado!",
-        "es-ES": "[Ayudante Arioss]\nSi tengo algo que pueda ayudarte en el futuro… Intentaré ayudarte. ¡Gracias otra vez!"
+        "es-ES": "[Ayudante Arioss]\nSi tengo algo que pueda ayudarte en el futuro... Intentaré ayudarte. ¡Gracias otra vez!"
     },
     "zboq": {
         "en-US": "[Aide Arioss]\nIf we can help you with something in the future, I will try to help you. Thanks again!!",
@@ -1747,12 +1747,12 @@
     "3boq": {
         "en-US": "I'll leave you alone then...",
         "pt-BR": "Vou deixá-lo em paz, então...",
-        "es-ES": "No voy a intervenir…"
+        "es-ES": "No voy a intervenir..."
     },
     "3roq": {
         "en-US": "I don't understand...",
         "pt-BR": "Não estou entendendo...",
-        "es-ES": "No entiendo…"
+        "es-ES": "No entiendo..."
     },
     "37oq": {
         "en-US": "[Manuk Elite Soldier]\nThe visitor has brought chaos here! Will you send them home without any punishment?",
@@ -1777,7 +1777,7 @@
     "47oq": {
         "en-US": "[Neat Etorr]\nI heard you are investigating the treasure in the closed cave to the north...",
         "pt-BR": "[Neat Etorr]\nOuvi dizer que você está investigando o tesouro na caverna fechada ao norte...",
-        "es-ES": "[Neat Etorr]\nEscuché que estás investigando el tesoro de la cueva abandonada del norte…"
+        "es-ES": "[Neat Etorr]\nEscuché que estás investigando el tesoro de la cueva abandonada del norte..."
     },
     "5Loq": {
         "en-US": "[Neat Etorr]\nDuring our last skirmish, we took a priest of the Laphine as our prisoner. And we already know that you have had contact with the prisoner.",
@@ -1817,7 +1817,7 @@
     "67oq": {
         "en-US": "About the Sapha tribe's expeditions...",
         "pt-BR": "Sobre as expedições da tribo Sapha...",
-        "es-ES": "Acerca de las expediciones de la tribu de los saphas…"
+        "es-ES": "Acerca de las expediciones de la tribu de los saphas..."
     },
     "7Loq": {
         "en-US": "[Neat Etorr]\nYou ask to be associated with our explorations? This is strictly a matter for the Sapha!",
@@ -1927,7 +1927,7 @@
     "Absq": {
         "en-US": "[Manuk Elite Soldier]\nSir, is that ok...? We don't yet know their true... intentions.",
         "pt-BR": "[Soldado de Elite Manuk]\nSenhor, está tudo bem...? Ainda não sabemos suas verdadeiras... intenções.",
-        "es-ES": "[Sold. de élite de Manuk]\nSeñor, ¿está seguro…? Aún no conocemos sus verdaderas… intenciones."
+        "es-ES": "[Sold. de élite de Manuk]\nSeñor, ¿está seguro...? Aún no conocemos sus verdaderas... intenciones."
     },
     "Arsq": {
         "en-US": "[Neat Etorr]\nWe can't find out the Laphine's intentions by ourselves.",
@@ -1952,7 +1952,7 @@
     "Brsq": {
         "en-US": "[Neat Etorr]\nWe are just a small village; nothing special... but rest comfortably.",
         "pt-BR": "[Neat Etorr]\nSomos apenas um pequeno vilarejo; nada de especial... mas descanse confortavelmente.",
-        "es-ES": "[Neat Etorr]\nSomos una pequeña aldea, nada especial… pero aquí podrás descansar."
+        "es-ES": "[Neat Etorr]\nSomos una pequeña aldea, nada especial... pero aquí podrás descansar."
     },
     "B7sq": {
         "en-US": "[Neat Etorr]\nI was waiting for you. You look pretty good. Did you find anything?",
@@ -1967,7 +1967,7 @@
     "Cbsq": {
         "en-US": "[Neat Etorr]\nHmmm... As we thought. That's the place of a Guardian of the Yggdrasil Tree, from the Laphine tribe.",
         "pt-BR": "[Neat Etorr]\nHmmm... Como pensávamos. Esse é o lugar de um Guardião da Árvore Yggdrasil, da tribo Laphine.",
-        "es-ES": "[Neat Etorr]\nMmm… Como pensábamos. Ese es el lugar de la guardiana del Árbol Yggdrasil, de la tribu de los laphines."
+        "es-ES": "[Neat Etorr]\nMmm... Como pensábamos. Ese es el lugar de la guardiana del Árbol Yggdrasil, de la tribu de los laphines."
     },
     "Crsq": {
         "en-US": "[Neat Etorr]\nBut due to the escape of the protector, his shadow has come out and is destroying Yggdrasil?",
@@ -1977,17 +1977,17 @@
     "C7sq": {
         "en-US": "[Neat Etorr]\nIf that is true, we don't need to be fighting each other... Sapha against Laphine...",
         "pt-BR": "[Neat Etorr]\nSe isso for verdade, não precisamos estar lutando uns contra os outros... Sapha contra Laphine...",
-        "es-ES": "[Neat Etorr]\nSi eso es cierto, no deberíamos estar luchando entre nosotros… Saphas contra laphines…"
+        "es-ES": "[Neat Etorr]\nSi eso es cierto, no deberíamos estar luchando entre nosotros... Saphas contra laphines..."
     },
     "DLsq": {
         "en-US": "[Neat Etorr]\nThis is really big news... as Nidhoggur is no longer the guardian of Yggdrasil...",
         "pt-BR": "[Neat Etorr]\nEssa é realmente uma grande notícia... já que Nidhoggur não é mais o guardião de Yggdrasil...",
-        "es-ES": "[Neat Etorr]\nEn verdad es una gran noticia… ya que Nidhogg ya no es la guardiana de Yggdrasil…"
+        "es-ES": "[Neat Etorr]\nEn verdad es una gran noticia... ya que Nidhogg ya no es la guardiana de Yggdrasil..."
     },
     "Dbsq": {
         "en-US": "[Neat Etorr]\nIf Nidhoggur's Shadow comes out from the ground and destroys the World Tree's root... it might be the cure...",
         "pt-BR": "[Neat Etorr]\nSe a Sombra de Nidhoggur sair do chão e destruir a raiz da Árvore do Mundo... pode ser a cura...",
-        "es-ES": "[Neat Etorr]\nSi la sombra de Nidhogg emerge de la tierra y destruye la raíz del Árbol Mundial… podría ser la cura…"
+        "es-ES": "[Neat Etorr]\nSi la sombra de Nidhogg emerge de la tierra y destruye la raíz del Árbol Mundial... podría ser la cura..."
     },
     "Drsq": {
         "en-US": "I have a message from the Yggdrasiliad.",
@@ -2002,17 +2002,17 @@
     "ELsq": {
         "en-US": "[Neat Etorr]\nWe should discuss this problem with the Laphine tribe...",
         "pt-BR": "[Neat Etorr]\nDeveríamos discutir esse problema com a tribo Laphine...",
-        "es-ES": "[Neat Etorr]\nDeberíamos conversar sobre este problema con la tribu de los laphines…"
+        "es-ES": "[Neat Etorr]\nDeberíamos conversar sobre este problema con la tribu de los laphines..."
     },
     "Ebsq": {
         "en-US": "[Neat Etorr]\nActually, I don't know whether they would accept this idea or not...",
         "pt-BR": "[Neat Etorr]\nNa verdade, não sei se eles aceitariam essa ideia ou não...",
-        "es-ES": "[Neat Etorr]\nEn realidad, no sé si aceptarán esta idea o no…"
+        "es-ES": "[Neat Etorr]\nEn realidad, no sé si aceptarán esta idea o no..."
     },
     "Ersq": {
         "en-US": "[Neat Etorr]\nYour support has been enough... from now on we will handle it by ourselves with the Laphine tribe.",
         "pt-BR": "[Neat Etorr]\nSeu apoio foi suficiente... de agora em diante, lidaremos sozinhos com a tribo Laphine.",
-        "es-ES": "[Neat Etorr]\nTu ayuda ha sido suficiente… a partir de ahora nos las arreglaremos solos con la tribu de los laphines."
+        "es-ES": "[Neat Etorr]\nTu ayuda ha sido suficiente... a partir de ahora nos las arreglaremos solos con la tribu de los laphines."
     },
     "E7sq": {
         "en-US": "[Neat Etorr]\nI am honored by your effort to solve this. But now it is our turn.",
@@ -2022,12 +2022,12 @@
     "FLsq": {
         "en-US": "[Neat Etorr]\nThis isn't a big reward... but take this. I'd like to express my gratitude. Take it.",
         "pt-BR": "[Neat Etorr]\nEssa não é uma grande recompensa... mas aceite isso. Gostaria de expressar minha gratidão. Pegue-o.",
-        "es-ES": "[Neat Etorr]\nNo es una gran recompensa… pero aquí tienes. Me gustaría expresar mi gratitud. Tómalo."
+        "es-ES": "[Neat Etorr]\nNo es una gran recompensa... pero aquí tienes. Me gustaría expresar mi gratitud. Tómalo."
     },
     "Fbsq": {
         "en-US": "[Neat Etorr]\nOutsider. Thank you for your help with our troubles...",
         "pt-BR": "[Neat Etorr]\nForasteiro. Obrigado por sua ajuda com nossos problemas...",
-        "es-ES": "[Neat Etorr]\nForastero. Gracias por ayudar a resolver nuestros problemas…"
+        "es-ES": "[Neat Etorr]\nForastero. Gracias por ayudar a resolver nuestros problemas..."
     },
     "Frsq": {
         "en-US": "[Neat Etorr]\nTkeh Iikek Ohek QekhIHkl PkedlioH.",
@@ -2062,7 +2062,7 @@
     "HLsq": {
         "en-US": "[Laphine prisoner]\nYou... are not of the Sapha tribe... You are... an outsider?",
         "pt-BR": "[Prisioneiro Laphine]\nVocê... não é da tribo Sapha... Você é... um forasteiro?",
-        "es-ES": "[Prisionera Laphine]\nTú… no eres de la tribu de los saphas… ¿Vienes… de fuera?"
+        "es-ES": "[Prisionera Laphine]\nTú... no eres de la tribu de los saphas... ¿Vienes... de fuera?"
     },
     "Hbsq": {
         "en-US": "[Laphine prisoner]\nHave you ever come in contact with the Laphine tribe? Have you ever been to Splendide?",
@@ -2097,7 +2097,7 @@
     "I7sq": {
         "en-US": "[Laphine prisoner]\nDuring our last battle with the Sapha tribe... they caught me and took me prisoner.",
         "pt-BR": "[Prisioneiro Laphine]\nDurante nossa última batalha com a tribo Sapha... eles me pegaram e me fizeram prisioneiro.",
-        "es-ES": "[Prisionera Laphine]\nDurante nuestra última batalla contra la tribu de los saphas… me capturaron y me tomaron prisionera."
+        "es-ES": "[Prisionera Laphine]\nDurante nuestra última batalla contra la tribu de los saphas... me capturaron y me tomaron prisionera."
     },
     "JLsq": {
         "en-US": "[Laphine prisoner]\nThe Sapha tribe attacked first. They are destroying the World Tree.",
@@ -2107,32 +2107,32 @@
     "Jbsq": {
         "en-US": "[Laphine prisoner]\nThat's why the war started. But I don't want to fight with the Sapha tribe anymore...",
         "pt-BR": "[Prisioneiro Laphine]\nFoi por isso que a guerra começou. Mas eu não quero mais lutar com a tribo Sapha...",
-        "es-ES": "[Prisionera Laphine]\nPor eso empezó la guerra. Pero ya no quiero luchar contra la tribu de los saphas…"
+        "es-ES": "[Prisionera Laphine]\nPor eso empezó la guerra. Pero ya no quiero luchar contra la tribu de los saphas..."
     },
     "Jrsq": {
         "en-US": "[Laphine prisoner]\nIf it wasn't for that... I wouldn't survive here...",
         "pt-BR": "[Prisioneiro Laphine]\nSe não fosse por isso... Eu não sobreviveria aqui...",
-        "es-ES": "[Prisionera Laphine]\nSi no fuera por eso… No sobreviviría aquí…"
+        "es-ES": "[Prisionera Laphine]\nSi no fuera por eso... No sobreviviría aquí..."
     },
     "J7sq": {
         "en-US": "[Laphine prisoner]\nPlease. Bring these news to all Splendide. Send someone to save me... or they might kill me.",
         "pt-BR": "[Prisioneiro Laphine]\nPor favor. Leve essas notícias a toda Esplendor. Envie alguém para me salvar... ou eles podem me matar.",
-        "es-ES": "[Prisionera Laphine]\nPor favor. Lleva estas noticias a Splendide. Envía a alguien a salvarme… o podrían matarme."
+        "es-ES": "[Prisionera Laphine]\nPor favor. Lleva estas noticias a Splendide. Envía a alguien a salvarme... o podrían matarme."
     },
     "KLsq": {
         "en-US": "[Laphine prisoner]\nThere is...",
         "pt-BR": "[Prisioneiro Laphine]\nHá...",
-        "es-ES": "[Prisionera Laphine]\nHay…"
+        "es-ES": "[Prisionera Laphine]\nHay..."
     },
     "Kbsq": {
         "en-US": "[Laphine prisoner]\nNo... I can't tell you... It's the secet of our tribe...",
         "pt-BR": "[Prisioneiro Laphine]\nNão... não posso lhe dizer... É o segredo de nossa tribo...",
-        "es-ES": "[Prisionera Laphine]\nNo… No puedo decírtelo… Es el secreto de nuestra tribu…"
+        "es-ES": "[Prisionera Laphine]\nNo... No puedo decírtelo... Es el secreto de nuestra tribu..."
     },
     "Krsq": {
         "en-US": "[Laphine prisoner]\nI'll just say one thing... If the Sapha tribe invaded there... not even the Laphine would save them...",
         "pt-BR": "[Prisioneiro Laphine]\nSó vou dizer uma coisa... Se a tribo Sapha invadisse o local... nem mesmo as Laphine os salvariam...",
-        "es-ES": "[Prisionera Laphine]\nSolo diré una cosa… Si la tribu de los saphas invadiera ese lugar… ni siquiera los laphines los salvarían…"
+        "es-ES": "[Prisionera Laphine]\nSolo diré una cosa... Si la tribu de los saphas invadiera ese lugar... ni siquiera los laphines los salvarían..."
     },
     "K7sq": {
         "en-US": "[Laphine prisoner]\nThe Laphines have protected the Yggdrasil World Tree for generations.",
@@ -2142,7 +2142,7 @@
     "LLsq": {
         "en-US": "[Laphine prisoner]\nWe live in a... different time, different land... we came for an expedition.",
         "pt-BR": "[Prisioneiro Laphine]\nVivemos em um... tempo diferente, terra diferente... viemos para uma expedição.",
-        "es-ES": "[Prisionera Laphine]\nVivimos… en una época diferente, en un territorio diferente… vinimos por una expedición."
+        "es-ES": "[Prisionera Laphine]\nVivimos... en una época diferente, en un territorio diferente... vinimos por una expedición."
     },
     "Lbsq": {
         "en-US": "[Laphine prisoner]\nAfter we received reports from our spy about the World Tree's strange symptoms, we recognized the Manuk's existence.",
@@ -2152,12 +2152,12 @@
     "Lrsq": {
         "en-US": "[Laphine prisoner]\nThey are mining metal, and in so doing, destroying the World Tree's roots...",
         "pt-BR": "[Prisioneiro Laphine]\nEles estão minerando metal e, ao fazê-lo, estão destruindo as raízes da Árvore do Mundo...",
-        "es-ES": "[Prisionera Laphine]\nAllí extraen metal y, al hacerlo, destruyen las raíces del Árbol Mundial…"
+        "es-ES": "[Prisionera Laphine]\nAllí extraen metal y, al hacerlo, destruyen las raíces del Árbol Mundial..."
     },
     "L7sq": {
         "en-US": "[Laphine prisoner]\nSo we dispatched an expedition here. Soonafter, the wars with the Sapha began...",
         "pt-BR": "[Prisioneiro Laphine]\nEntão, enviamos uma expedição para cá. Logo depois, começaram as guerras com os Sapha...",
-        "es-ES": "[Prisionera Laphine]\nAsí que enviamos una expedición aquí. Poco después, comenzaron las guerras contra los saphas…"
+        "es-ES": "[Prisionera Laphine]\nAsí que enviamos una expedición aquí. Poco después, comenzaron las guerras contra los saphas..."
     },
     "MLsq": {
         "en-US": "[Laphine prisoner]\nNow the Sapha make alliances with outsiders?",
@@ -2207,7 +2207,7 @@
     "Obsq": {
         "en-US": "[Laphine prisoner]\nSo now, we have attacked them to send them away, but their defenses are strong... We have been making a stand for a long time.",
         "pt-BR": "[Prisioneiro Laphine]\nEntão, agora, nós os atacamos para mandá-los embora, mas suas defesas são fortes... Estamos nos defendendo há muito tempo.",
-        "es-ES": "[Prisionera Laphine]\nAsí que los atacamos para alejarlos, pero sus defensas son fuertes… Llevamos mucho tiempo resistiendo."
+        "es-ES": "[Prisionera Laphine]\nAsí que los atacamos para alejarlos, pero sus defensas son fuertes... Llevamos mucho tiempo resistiendo."
     },
     "Orsq": {
         "en-US": "[Laphine prisoner]\nWhile we endured this, the time gap was created and broke out of the ground.",
@@ -2217,37 +2217,37 @@
     "O7sq": {
         "en-US": "[Laphine prisoner]\nSo, the hidden root to go to the Guardian's Nest came out. As you have found out...",
         "pt-BR": "[Prisioneiro Laphine]\nEntão, a raiz oculta para ir ao Ninho do Guardião foi revelada. Como você descobriu...",
-        "es-ES": "[Prisionera Laphine]\nEntonces, emergió la raíz oculta que va al nido de la guardiana. Como lo descubriste…"
+        "es-ES": "[Prisionera Laphine]\nEntonces, emergió la raíz oculta que va al nido de la guardiana. Como lo descubriste..."
     },
     "PLsq": {
         "en-US": "[Laphine prisoner]\nNow, can you understand the situation? How serious it is? Thanks to the Sapha... we can't get any knowledge from the Guardian anymore.",
         "pt-BR": "[Prisioneiro Laphine]\nAgora, você consegue entender a situação? Qual é a gravidade da situação? Graças ao Sapha... não podemos mais obter nenhum conhecimento do Guardião.",
-        "es-ES": "[Prisionera Laphine]\n¿Ahora entiendes la situación? ¿Qué tan grave es? Gracias a los saphas… ya no podemos obtener ningún conocimiento de la guardiana."
+        "es-ES": "[Prisionera Laphine]\n¿Ahora entiendes la situación? ¿Qué tan grave es? Gracias a los saphas... ya no podemos obtener ningún conocimiento de la guardiana."
     },
     "Pbsq": {
         "en-US": "[Laphine prisoner]\nHmm. Although I may not be able to help you, don't try to explore that place alone...",
         "pt-BR": "[Prisioneiro Laphine]\nHmm. Embora eu possa não ser capaz de ajudá-lo, não tente explorar esse lugar sozinho...",
-        "es-ES": "[Prisionera Laphine]\nMmm. Aunque no pueda ayudarte, no intentes explorar ese lugar por tu cuenta…"
+        "es-ES": "[Prisionera Laphine]\nMmm. Aunque no pueda ayudarte, no intentes explorar ese lugar por tu cuenta..."
     },
     "Prsq": {
         "en-US": "[Laphine prisoner]\nMaybe there's no power that the Laphine tribe knows of to send the Manuk away forever...",
         "pt-BR": "[Prisioneiro Laphine]\nTalvez não haja nenhum poder que a tribo Laphine conheça para mandar os Manuk embora para sempre...",
-        "es-ES": "[Prisionera Laphine]\nTal vez la tribu de los laphines no tenga el poder para alejar para siempre a los habitantes de Manuk…"
+        "es-ES": "[Prisionera Laphine]\nTal vez la tribu de los laphines no tenga el poder para alejar para siempre a los habitantes de Manuk..."
     },
     "P7sq": {
         "en-US": "[Laphine prisoner]\nBut I will try to help you. Once we start doing something, we can find the next step somewhere...",
         "pt-BR": "[Prisioneiro Laphine]\nMas tentarei ajudá-lo. Quando começamos a fazer algo, podemos encontrar o próximo passo em algum lugar...",
-        "es-ES": "[Prisionera Laphine]\nPero intentaré ayudarte. Una vez que comencemos, podemos encontrar el siguiente paso en algún lugar…"
+        "es-ES": "[Prisionera Laphine]\nPero intentaré ayudarte. Una vez que comencemos, podemos encontrar el siguiente paso en algún lugar..."
     },
     "QLsq": {
         "en-US": "[Laphine prisoner]\nEven if I stay here... it would be the same situation...",
         "pt-BR": "[Prisioneiro Laphine]\nMesmo que eu ficasse aqui... seria a mesma situação...",
-        "es-ES": "[Prisionera Laphine]\nIncluso si me quedara aquí… la situación no cambiaría…"
+        "es-ES": "[Prisionera Laphine]\nIncluso si me quedara aquí... la situación no cambiaría..."
     },
     "Qbsq": {
         "en-US": "[Laphine prisoner]\nMaybe I already explained to you enough... If you wonder about something else, ask me.",
         "pt-BR": "[Prisioneiro Laphine]\nTalvez eu já tenha lhe explicado o suficiente... Se quiser saber mais alguma coisa, pergunte-me.",
-        "es-ES": "[Prisionera Laphine]\nCreo que ya te expliqué lo suficiente… Si tienes alguna otra duda, pregúntame."
+        "es-ES": "[Prisionera Laphine]\nCreo que ya te expliqué lo suficiente... Si tienes alguna otra duda, pregúntame."
     },
     "Qrsq": {
         "en-US": "[Laphine prisoner]\nOkay. Once you were at the entrance to the Protector's Nest, a strange power pushed you, right?",
@@ -2272,7 +2272,7 @@
     "Rrsq": {
         "en-US": "[Laphine prisoner]\nDuring the last combat against the Sapha, one of us died... and I was caught prisoner.",
         "pt-BR": "[Prisioneiro Laphine]\nDurante o último combate contra os Sapha, um de nós morreu... e eu fui feito prisioneiro.",
-        "es-ES": "[Prisionera Laphine]\nDurante el último combate contra los saphas, murió uno de los nuestros… y yo quedé prisionera."
+        "es-ES": "[Prisionera Laphine]\nDurante el último combate contra los saphas, murió uno de los nuestros... y yo quedé prisionera."
     },
     "R7sq": {
         "en-US": "[Laphine prisoner]\nI will give this sigil to you. Take it. Just insert it at the Guardian's seal.",
@@ -2327,32 +2327,32 @@
     "Ubsq": {
         "en-US": "[Laphine prisoner]\nPlease meet with the guardian and take a wise answer from him. To change this situation...",
         "pt-BR": "[Prisioneiro Laphine]\nPor favor, reúna-se com o guardião e receba uma resposta sábia dele. Para mudar essa situação...",
-        "es-ES": "[Prisionera Laphine]\nReúnete con la guardiana y obtén una respuesta sabia. Para cambiar esta situación…"
+        "es-ES": "[Prisionera Laphine]\nReúnete con la guardiana y obtén una respuesta sabia. Para cambiar esta situación..."
     },
     "Ursq": {
         "en-US": "[Laphine prisoner]\nGood... I heard the whole story...",
         "pt-BR": "[Prisioneiro Laphine]\nBom... Eu ouvi a história toda...",
-        "es-ES": "[Prisionera Laphine]\nBien… Escuché toda la historia…"
+        "es-ES": "[Prisionera Laphine]\nBien... Escuché toda la historia..."
     },
     "U7sq": {
         "en-US": "[Laphine prisoner]\nHave the Laphine tribe heard this?... I can't be sure.",
         "pt-BR": "[Prisioneiro Laphine]\nA tribo Laphine ouviu isso?... Não posso ter certeza.",
-        "es-ES": "[Prisionera Laphine]\n¿La tribu de los laphines sabe todo esto…? No puedo asegurarlo."
+        "es-ES": "[Prisionera Laphine]\n¿La tribu de los laphines sabe todo esto...? No puedo asegurarlo."
     },
     "VLsq": {
         "en-US": "[Laphine prisoner]\nMy tribe has developed a terrible vendetta against the Sapha... It's immoral...",
         "pt-BR": "[Prisioneiro Laphine]\nMinha tribo desenvolveu uma terrível vingança contra os Sapha... É imoral...",
-        "es-ES": "[Prisionera Laphine]\nMi tribu ha acumulado mucho resentimiento contra los saphas… Es inmoral…"
+        "es-ES": "[Prisionera Laphine]\nMi tribu ha acumulado mucho resentimiento contra los saphas... Es inmoral..."
     },
     "Vbsq": {
         "en-US": "[Laphine prisoner]\nAnd they look like a nice tribe, the Sapha... But can you really trust them?",
         "pt-BR": "[Prisioneiro Laphine]\nE eles parecem ser uma boa tribo, os Sapha... Mas você pode realmente confiar neles?",
-        "es-ES": "[Prisionera Laphine]\nY parecen una tribu agradable, los saphas… Pero ¿realmente se puede confiar en ellos?"
+        "es-ES": "[Prisionera Laphine]\nY parecen una tribu agradable, los saphas... Pero ¿realmente se puede confiar en ellos?"
     },
     "Vrsq": {
         "en-US": "[Laphine prisoner]\nYou... you shouldn't believe Neat Etorr... That wouldn't be good... We, can only suspect what the Sapha are thinking...",
         "pt-BR": "[Prisioneiro Laphine]\nVocê... você não deveria acreditar em Neat Etorr... Isso não seria bom... Nós só podemos suspeitar do que os Sapha estão pensando...",
-        "es-ES": "[Prisionera Laphine]\nTú… tú no deberías creerle a Neat Etorr… Eso no sería bueno… Nosotros solo podemos sospechar lo que los saphas están pensando…"
+        "es-ES": "[Prisionera Laphine]\nTú... tú no deberías creerle a Neat Etorr... Eso no sería bueno... Nosotros solo podemos sospechar lo que los saphas están pensando..."
     },
     "V7sq": {
         "en-US": "[Laphine prisoner]\nAmanVilShar Ie DorLuShar Mu Re",

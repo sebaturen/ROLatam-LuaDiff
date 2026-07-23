@@ -7,7 +7,7 @@
     "wf39Ag": {
         "en-US": "[Mainz]\nHa ah....\nWhat should I do with this lunchbox?",
         "pt-BR": "[Mainz]\n...\nO que devo fazer com essa marmita?",
-        "es-ES": "[Mainz]\nJa, ja…\n¿Qué hago con este táper?"
+        "es-ES": "[Mainz]\nJa, ja...\n¿Qué hago con este táper?"
     },
     "wv39Ag": {
         "en-US": "[Mainz]\nHey, you there!\nBy any chance, are you a training beginner?",
@@ -32,7 +32,7 @@
     "xv39Ag": {
         "en-US": "[Mainz]\nOf course, you are... Oh, you poor thing.",
         "pt-BR": "[Mainz]\nMe parece que está. Ah, pobre, pobrezinho de você...",
-        "es-ES": "[Mainz]\nClaro que sí… Pobre…"
+        "es-ES": "[Mainz]\nClaro que sí... Pobre..."
     },
     "x/39Ag": {
         "en-US": "[Mainz]\nThere's a person who can help you when you need it.\nDo you know who is it?",
@@ -82,7 +82,7 @@
     "0P39Ag": {
         "en-US": "[Mainz]\nYes... You made a right decision.\nPlease keep in mind that I really wanted to have it but since you look exhausted I offered it to you first!",
         "pt-BR": "[Mainz]\nIsso! É a melhor opção!\nPara ser franco, eu também gostaria de comê-la, mas fiz esse esforço especial por você...",
-        "es-ES": "[Mainz]\nSí… Tomaste una buena decisión.\n¡Ten en cuenta que realmente la quería, pero como se te nota el cansancio, te la ofrecí a ti primero!"
+        "es-ES": "[Mainz]\nSí... Tomaste una buena decisión.\n¡Ten en cuenta que realmente la quería, pero como se te nota el cansancio, te la ofrecí a ti primero!"
     },
     "0f39Ag": {
         "en-US": "- You open the lunchbox and there is some type of food inside -",
@@ -112,12 +112,12 @@
     "1v39Ag": {
         "en-US": "[Mainz]\nOh... what happened to you?\nYou don't look too good!",
         "pt-BR": "[Mainz]\nEi, o que aconteceu contigo?\nVocê não parece bem...",
-        "es-ES": "[Mainz]\nAh… ¿qué está pasando?\n¡No te ves muy bien!"
+        "es-ES": "[Mainz]\nAh... ¿qué está pasando?\n¡No te ves muy bien!"
     },
     "1/39Ag": {
         "en-US": "[Mainz]\nOh, man...\nI think you've been poisoned.",
         "pt-BR": "[Mainz]\nPuxa vida...\nParece que está envenenado por razões desconhecidas...\nÓ céus, o que poderia ter causado isso?",
-        "es-ES": "[Mainz]\nVaya…\nCreo que te envenenaron."
+        "es-ES": "[Mainz]\nVaya...\nCreo que te envenenaron."
     },
     "2P39Ag": {
         "en-US": "[Mainz]\nI will give you an antidote. You might get better if you take it.",
@@ -157,7 +157,7 @@
     "3/39Ag": {
         "en-US": "[Mainz]\nAll of these are for you...\nWant to know what I mean?",
         "pt-BR": "[Mainz]\nIsso tudo foi um teste!\nO que quero dizer?",
-        "es-ES": "[Mainz]\nTodo esto es por tu bien…\n¿Quieres saber a qué me refiero?"
+        "es-ES": "[Mainz]\nTodo esto es por tu bien...\n¿Quieres saber a qué me refiero?"
     },
     "4P39Ag": {
         "en-US": "[Mainz]\nThere are various kinds of monsters on the Rune Midgard continent. And some of them can poison you or put you in abnormal conditions.",
@@ -282,7 +282,7 @@
     "+P39Ag": {
         "en-US": "[Mainz]\nImagine that you are in that status and monsters are rushing to you...\nBelieve me it'll happen.",
         "pt-BR": "[Mainz]\nSe você pensar que monstros se aproveitam desses momentos...\nÉ realmente assustador.",
-        "es-ES": "[Mainz]\nImagina que estás en ese estado y los monstruos se abalanzan sobre ti…\nCréeme, va a suceder."
+        "es-ES": "[Mainz]\nImagina que estás en ese estado y los monstruos se abalanzan sobre ti...\nCréeme, va a suceder."
     },
     "+f39Ag": {
         "en-US": "[Mainz]\nThis time, I will teach you about <^FF0000Sleep^000000>.",
@@ -337,7 +337,7 @@
     "A/79Ag": {
         "en-US": "[Mainz]\nIn Silence status,  you can't use any magic skills and a <...> will appear above your head.",
         "pt-BR": "[Mainz]\nQuando você é afetado pelo efeito de Silêncio, um balão de ^FF0000...^000000 ficará acima de sua cabeça e você não poderá usar habilidades.",
-        "es-ES": "[Mainz]\nEn el estado de Silencio, no podrás utilizar ninguna habilidad mágica y aparecerá <...> … sobre tu cabeza."
+        "es-ES": "[Mainz]\nEn el estado de Silencio, no podrás utilizar ninguna habilidad mágica y aparecerá <...> ... sobre tu cabeza."
     },
     "BP79Ag": {
         "en-US": "[Mainz]\nBut all attacks are not impossible. Normal attacks can still be done while silenced.",
@@ -467,6 +467,6 @@
     "Hf79Ag": {
         "en-US": "[Mainz]\nHaaaaa...\nWhat should I do with this lunchbox?",
         "pt-BR": "[Mainz]\nHaaaaa...\nO que devo fazer com essa lancheira?",
-        "es-ES": "[Mainz]\nAaaahhh…\n¿Qué hago con este táper?"
+        "es-ES": "[Mainz]\nAaaahhh...\n¿Qué hago con este táper?"
     }
 }

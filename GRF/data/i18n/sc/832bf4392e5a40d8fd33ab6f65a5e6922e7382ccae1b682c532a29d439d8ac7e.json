@@ -27,7 +27,7 @@
     "JeCyAQ": {
         "en-US": "[Milk Merchant]\nEmpty Bottles! Empty Bottle for Milk!\n...Empty Bottles?",
         "pt-BR": "[Leiteiro]\nEr... Eu preciso de Garrafas Vazias para encher de leite...\nTraga algumas e fazemos a troca, ok?",
-        "es-ES": "[Comerciante de leche]\n¡Botellas vacías! ¡Botella vacía para la Leche!\n…¿Botellas vacías?"
+        "es-ES": "[Comerciante de leche]\n¡Botellas vacías! ¡Botella vacía para la Leche!\n...¿Botellas vacías?"
     },
     "JuCyAQ": {
         "en-US": "[Milk Merchant]\nYou don't have enough Zeny for your Empty Bottles,\nwhich is {0} Zeny.",
@@ -92,7 +92,7 @@
     "MuCyAQ": {
         "en-US": "[Merchant Louitz]\nBut I did hear what he was mumbling to himself.\n''Karvodailnirol... Detrimindexta...''\nAt that time, I just thought he was speaking in tongue. But having been a merchant for a long time, now I know they're the names of chemical solutions.",
         "pt-BR": "[Mercador Louitz]\nEle só balbuciava umas palavras estranhas...\n'Karvodailnirol... Detrimindexta...'\nEu não entendi nada de retorno. Pensei 'ele é louco mesmo'. Depois, descobri que as palavras estranhas eram os nomes dos compostos que ele havia inventado. Eles parecem ser muito especiais, mas ninguém além dele sabe o que fazem...",
-        "es-ES": "[Comerciante Louitz]\nPero oí lo que murmuraba para sí mismo.\nKarvodailnirol… Detrimindexta…\nEn ese momento solo pensé que hablaba en otro idioma. Pero como soy comerciante desde hace mucho tiempo, ahora sé que son los nombres de soluciones químicas."
+        "es-ES": "[Comerciante Louitz]\nPero oí lo que murmuraba para sí mismo.\nKarvodailnirol... Detrimindexta...\nEn ese momento solo pensé que hablaba en otro idioma. Pero como soy comerciante desde hace mucho tiempo, ahora sé que son los nombres de soluciones químicas."
     },
     "M+CyAQ": {
         "en-US": "[Merchant Louitz]\nOooh, are these what I think they are? I've never seen them with my own eyes before! Thank you.\nUnfortunately, I still don't know what I can do with these. I doubt anyone else does, except for that mad scientist.",
@@ -177,7 +177,7 @@
     "Q+CyAQ": {
         "en-US": "[Geffen Resident Aure Dupon]\nThe fact that you know him means you're not ordinary yourself, either. I can tell you're curious about him, but...\nI don't feel comfortable talking about him. I'm sorry, I hope you understand that. The best I can do for you is to tell you where he is.",
         "pt-BR": "[Dupon]\nEntão você conhece aquele homem... Que curiosidade alguém tão jovem como você pode ter por um louco como Molgenstein?\nMesmo eu, um homem que já viveu e viu demais, sinto desconforto ao falar dele. Eu sinto muito... O melhor que posso fazer é dizer-lhe onde ele mora. E nada mais.",
-        "es-ES": "[Aure Dupon de Geffen]\nEl hecho de que lo conozcas significa que tú tampoco eres una persona ordinaria. Veo que sientes curiosidad por él, pero…\nNo me siento cómodo hablando de él. Lo siento, espero que lo entiendas. Lo mejor que puedo hacer por ti es decirte dónde está."
+        "es-ES": "[Aure Dupon de Geffen]\nEl hecho de que lo conozcas significa que tú tampoco eres una persona ordinaria. Veo que sientes curiosidad por él, pero...\nNo me siento cómodo hablando de él. Lo siento, espero que lo entiendas. Lo mejor que puedo hacer por ti es decirte dónde está."
     },
     "ROCyAQ": {
         "en-US": "[Geffen Resident Aure Dupon]\nHe's on the second floor of the forge. Even though we just met, I value our friendship. Please heed my warning and don't get too close to him.",
@@ -197,7 +197,7 @@
     "R+CyAQ": {
         "en-US": "[Chemist Morgenstein]\nHee hee hee... Welcome. Hee hee... Hee hee hee!",
         "pt-BR": "[Molgenstein, o Químico]\nHehehehe.... Bem-vindo. Hehehehe... Hehehehehe....",
-        "es-ES": "[Químico Morgenstein]\nJe, je, je… Te doy la bienvenida. Ji, ji… ¡Je, je, je!"
+        "es-ES": "[Químico Morgenstein]\nJe, je, je... Te doy la bienvenida. Ji, ji... ¡Je, je, je!"
     },
     "SOCyAQ": {
         "en-US": "What are you studying?",
@@ -212,22 +212,22 @@
     "SuCyAQ": {
         "en-US": "[Chemist Morgenstein]\nHee hee hee. So, you got a whiff of what I was doing here.\nAlright, so you know about me. I guess I'd better tell you everything... I've got nothing to hide, anyway. Hee hee hee!",
         "pt-BR": "[Molgenstein, o Químico]\nHehehehe... Você deve ter ouvido falar das minhas pesquisas...\nMuito bem... Você já deve saber do que eu faço, então vou ser franco... Eu não tenho nada a esconder... Hehehehe...",
-        "es-ES": "[Químico Morgenstein]\nJe, je, je. Así que percibiste lo que estaba haciendo aquí.\nMuy bien, ya me conoces. Supongo que será mejor que te lo cuente todo… De todos modos, no tengo nada que ocultar. ¡Je, je, je!"
+        "es-ES": "[Químico Morgenstein]\nJe, je, je. Así que percibiste lo que estaba haciendo aquí.\nMuy bien, ya me conoces. Supongo que será mejor que te lo cuente todo... De todos modos, no tengo nada que ocultar. ¡Je, je, je!"
     },
     "S+CyAQ": {
         "en-US": "[Chemist Morgenstein]\nActually, my research is all but completed.\nI'm so genius that there's nothing I can't do... Hee hee hee! Time is my only limit... Time! Hee hee hee!",
         "pt-BR": "[Molgenstein, o Químico]\nA minha pesquisa... Para mim, ela já está terminada...\nEu sou um homem brilhante, pra mim nada é impossível... Hehehe... Um 'desafio' é apenas uma questão de tempo...Tempo...",
-        "es-ES": "[Químico Morgenstein]\nEn realidad, mi investigación está casi terminada.\nSoy tan genio que no hay nada que no pueda hacer… ¡Je, je, je! El tiempo es mi único límite… ¡El tiempo! ¡Je, je, je!"
+        "es-ES": "[Químico Morgenstein]\nEn realidad, mi investigación está casi terminada.\nSoy tan genio que no hay nada que no pueda hacer... ¡Je, je, je! El tiempo es mi único límite... ¡El tiempo! ¡Je, je, je!"
     },
     "TOCyAQ": {
         "en-US": "[Chemist Morgenstein]\nYou want to know what I'm studying, right? Well... simple. I'm trying to find something that can dissolve things that don't melt in water.\nWouldn't that be exciting? You could even melt and combine rock and metal!\nI could turn everything into jelly... Jelly! Jellyyyyyy! Hee hee hee! Hee, hee hee hee!",
         "pt-BR": "[Molgenstein, o Químico]\nVocê disse que está interessado na minha pesquisa, não é? É muito simples... Eu resolvi encontrar um meio de dissolver insolúveis!\nO que acha? Um produto químico forte a ponto de dissolver rochas ou o próprio aço!!\nTudo, tudo... Reduzido a líquidos, à matéria instável, instável... Sem linhas retas, impossível de ser contida...Hehehehe.",
-        "es-ES": "[Químico Morgenstein]\nQuieres saber lo que estoy estudiando, ¿verdad? Bueno… es simple. Estoy tratando de encontrar algo que pueda disolver cosas que no se derriten en agua.\n¿No crees que sería emocionante? ¡Incluso podrías derretir y combinar roca con metal!\nPodrías convertir todo en gelatina… ¡Gelatina! ¡Gelatinaaaaa! ¡Je, je, je! ¡Je, je, je, je!"
+        "es-ES": "[Químico Morgenstein]\nQuieres saber lo que estoy estudiando, ¿verdad? Bueno... es simple. Estoy tratando de encontrar algo que pueda disolver cosas que no se derriten en agua.\n¿No crees que sería emocionante? ¡Incluso podrías derretir y combinar roca con metal!\nPodrías convertir todo en gelatina... ¡Gelatina! ¡Gelatinaaaaa! ¡Je, je, je! ¡Je, je, je, je!"
     },
     "TeCyAQ": {
         "en-US": "[Chemist Morgenstein]\nHee hee... Hee... *Huff, Huff...* ...A-anyway, I can't melt everything just yet, but I can within limits.\nWith these inventions! They can help you create more things than you can imagine. All you have to do is... just use them!\n...Aaah... I can feel the hot rush of blood to my face! My brain is releasing happy chemicals, filling me with joy! Aaahhh!\nAll you have to do is... just use them...",
         "pt-BR": "[Molgenstein, o Químico]\nAh...Ah...*Gulp*...Ah...Ao menos..... Ao menos eu descobri uma coisa... Não como dissolver tudo, isso não. Mas descobri uma coisa.\nCom essa coisa você pode criar novas coisas que nem imagina... Eu posso fazer pra você, se você quiser, posso compartilhar com você meu gênio.\nEu quase perco o ar... Eu não consigo conter minha própria felicidade em... criar, sim criar... Criar.\nDiga, me peça. Eu darei. Eu posso! Heheheheh.",
-        "es-ES": "[Químico Morgenstein]\nJi, ji… Je… *Uff, uff…*… B-bueno, aún no puedo derretir todo, pero puedo hacerlo con ciertas limitaciones.\n¡Con estos inventos! Pueden ayudarte a crear más cosas de las que imaginas. Lo único que tienes que hacer es… ¡usarlos!\n… Aaah… ¡Puedo sentir cómo se agolpa la sangre en mis mejillas! ¡Mi cerebro está moléculas de felicidad y me llena de alegría! ¡Aaahhh!\nLo único que tienes que hacer es… usarlos."
+        "es-ES": "[Químico Morgenstein]\nJi, ji... Je... *Uff, uff...*... B-bueno, aún no puedo derretir todo, pero puedo hacerlo con ciertas limitaciones.\n¡Con estos inventos! Pueden ayudarte a crear más cosas de las que imaginas. Lo único que tienes que hacer es... ¡usarlos!\n... Aaah... ¡Puedo sentir cómo se agolpa la sangre en mis mejillas! ¡Mi cerebro está moléculas de felicidad y me llena de alegría! ¡Aaahhh!\nLo único que tienes que hacer es... usarlos."
     },
     "TuCyAQ": {
         "en-US": "[Chemist Morgenstein]\nAh! You're also interested in my inventions, aren't you? Hee hee hee!\nBut who wouldn't? Who wouldn't be interested in having such brilliant, entertaining toys, right? Hee hee hee!\nOkay, so which one would you like? Hmm? Hee hee hee!",
@@ -247,12 +247,12 @@
     "UeCyAQ": {
         "en-US": "[Chemist Morgenstein]\nAh, a counteragent! Hee hee hee! No problem. Let me tell you what I need to create this toy for you.\n...Let's see... Aaah... Mm... Oooh... Haaah...",
         "pt-BR": "[Molgenstein, o Químico]\nOh...Um Antígeno... Tudo bem... Eu vou te dizer o que você precisa me trazer.\nVamos ver... Hnf... Hmmm...... Ahahahhh... Hmmm...",
-        "es-ES": "[Químico Morgenstein]\n¡Ah, un contraagente! ¡Je, je, je! No hay problema. Déjame decirte lo que necesito para crear este juguete para ti.\n… Veamos… Aaah… Mm… Ohhhh… Jaaa…"
+        "es-ES": "[Químico Morgenstein]\n¡Ah, un contraagente! ¡Je, je, je! No hay problema. Déjame decirte lo que necesito para crear este juguete para ti.\n... Veamos... Aaah... Mm... Ohhhh... Jaaa..."
     },
     "UuCyAQ": {
         "en-US": "[Chemist Morgenstein]\nOoh, I know! Alcohol... Detrimindexta... and an empty bottle.\nAll I need is these three. Also, I'd like something for myself in return for this toy I'm creating you. Hee hee hee!\nDon't be nervous. I don't want anything special. Not special at all. Hee hee hee!\nI just want... 3,000 Zeny. Hee hee hee!\nErr... Errr... You don't think that's too expensive, do you? Because I can tell you're just as anxious as I am to experiment with and create things. Hee hee hee hee!",
         "pt-BR": "[Molgenstein, o Químico]\nAh, é mesmo... Lembrei... Sim, sim... Me traga 1 'Alcool'... 1 'Detrimindexta'... e 1 'Garrafa Vazia' para colocar a solução.\nCom essas 3 coisas, eu faço um Counterangent... Pode agradecer agora... Não é todo dia que você ganha um presente de um gênio como eu. Hehehehe.\nNão é difícil nem nada...Ou vai me dizer que é?... Hehehehe... Fácil, fácil.\nAh, é claro que tem mais um ingrediente... Eu preciso de 3000 zenys também... Heheheheeee.\nOooo... O... O quê? Você acha que eu estou te enganando? É um ingrediente mesmo! Heheheeheehee!",
-        "es-ES": "[Químico Morgenstein]\n¡Ya sé! Alcohol… Detrimindexta… y una Botella vacía.\nNecesito esas tres cosas. Además, me gustaría tener algo para mí a cambio de este juguete que crearé para ti. ¡Je, je, je!\nNo pierdas la tranquilidad. No quiero nada especial. Nada especial. ¡Je, je, je!\nSolo quiero… 3000 zeny. ¡Je, je, je!\nEh… Emmm… No te parece demasiado caro, ¿verdad? Porque veo que tienes tantas ganas como yo de experimentar y crear cosas. ¡Je, je, je, je!"
+        "es-ES": "[Químico Morgenstein]\n¡Ya sé! Alcohol... Detrimindexta... y una Botella vacía.\nNecesito esas tres cosas. Además, me gustaría tener algo para mí a cambio de este juguete que crearé para ti. ¡Je, je, je!\nNo pierdas la tranquilidad. No quiero nada especial. Nada especial. ¡Je, je, je!\nSolo quiero... 3000 zeny. ¡Je, je, je!\nEh... Emmm... No te parece demasiado caro, ¿verdad? Porque veo que tienes tantas ganas como yo de experimentar y crear cosas. ¡Je, je, je, je!"
     },
     "U+CyAQ": {
         "en-US": "[Chemist Morgenstein]\nOkay, then shall we get started?",
@@ -267,52 +267,52 @@
     "VeCyAQ": {
         "en-US": "[Chemist Morgenstein]\nHee hee hee... You don't have everything... Ugh... Come on, go bring them already!\nDon't you want your toy? Hmm? Hee hee hee!",
         "pt-BR": "[Molgenstein, o Químico]\nHeheehehee.... Não, não... não é o bastante... Apresse-se... Você está atrasado, atrasado... Traga o que eu pedi!\nAí sim, ah sim... Aí, nós vamos nos divertir... Hehehehehee.",
-        "es-ES": "[Químico Morgenstein]\nJe, je, je… No tienes todo… Uf… ¡Ve y trae lo que te pedí!\n¿No quieres tu juguete? ¿Mmm? ¡Je, je, je!"
+        "es-ES": "[Químico Morgenstein]\nJe, je, je... No tienes todo... Uf... ¡Ve y trae lo que te pedí!\n¿No quieres tu juguete? ¿Mmm? ¡Je, je, je!"
     },
     "VuCyAQ": {
         "en-US": "[Chemist Morgenstein]\nOooh... Hee hee hee! Yes, just like that... And that... And that... Hee hee hee!\n...Aah... Ahaah... Hah... Ahaah... Oo... Ooo... Ooooooohh!",
         "pt-BR": "[Molgenstein, o Químico]\nOhohohoh...... Heeheeheehee.... Ótimo... Perfeito... Não vá desistir agora... Tão perto... Hehehehee.\nAhhh...Ah-ha...Ha...Ah-ha...Oh...Ohohohohoh!",
-        "es-ES": "[Químico Morgenstein]\nOhhhh… ¡Je, je, je! Sí, así de sencillo… Así… Así… ¡Je, je, je!\n… Aah… Ajaaa… Ja… Ajaaa… Ooh… Oooh… ¡Ooooooohh!"
+        "es-ES": "[Químico Morgenstein]\nOhhhh... ¡Je, je, je! Sí, así de sencillo... Así... Así... ¡Je, je, je!\n... Aah... Ajaaa... Ja... Ajaaa... Ooh... Oooh... ¡Ooooooohh!"
     },
     "V+CyAQ": {
         "en-US": "[Chemist Morgenstein]\nHee hee hee... You don't have everything... Ugh... Come on, go bring them already!",
         "pt-BR": "[Molgenstein, o Químico]\nHeheehehee.... Não, não... não é o bastante... Apresse-se... Você está atrasado, atrasado... Traga o que eu pedi!",
-        "es-ES": "[Químico Morgenstein]\nJe, je, je… No tienes todo… Uf… ¡Ve y trae lo que te pedí!"
+        "es-ES": "[Químico Morgenstein]\nJe, je, je... No tienes todo... Uf... ¡Ve y trae lo que te pedí!"
     },
     "WOCyAQ": {
         "en-US": "[Chemist Morgenstein]\n...Whew...",
         "pt-BR": "[Molgenstein, o Químico]\nAH! HAHA! SIM! SIM!...Ufa.",
-        "es-ES": "[Químico Morgenstein]\n…Uf…"
+        "es-ES": "[Químico Morgenstein]\n...Uf..."
     },
     "WeCyAQ": {
         "en-US": "[Chemist Morgenstein]\nHee... Hee hee hee...",
         "pt-BR": "[Molgenstein, o Químico]\nHuhahahahah! Quem se importa?! Huahauah!",
-        "es-ES": "[Químico Morgenstein]\nJee… Je, je, je…"
+        "es-ES": "[Químico Morgenstein]\nJee... Je, je, je..."
     },
     "WuCyAQ": {
         "en-US": "[Chemist Morgenstein]\nAh, a mixture! Hee hee hee! No problem. Let me tell you what I need to create this toy for you.\n...Let's see... Aaah... Mm... Oooh... Haaah...",
         "pt-BR": "[Molgenstein, o Químico]\nOh...Um Mistura... Tudo bem... Eu vou te dizer o que você precisa me trazer.\nVamos veeer... Oh... HMM...... Ahahahhh... Hmmm...",
-        "es-ES": "[Químico Morgenstein]\n¡Ah, una mezcla! ¡Je, je, je! No hay problema. Déjame decirte lo que necesito para crear este juguete para ti.\n… Veamos… Aaah… Mm… Ohhhh… Jaaa…"
+        "es-ES": "[Químico Morgenstein]\n¡Ah, una mezcla! ¡Je, je, je! No hay problema. Déjame decirte lo que necesito para crear este juguete para ti.\n... Veamos... Aaah... Mm... Ohhhh... Jaaa..."
     },
     "W+CyAQ": {
         "en-US": "[Chemist Morgenstein]\nOoh, I know! Alcohol... Karvodailnirol... and an Empty Bottle.\nAll I need is these three. Also, I'd like something for myself in return for this toy I'm creating you. Hee hee hee!\nDon't be nervous. I don't want anything special. Not special at all. Hee hee hee!\nI just want... 4,000 Zeny. Hee hee hee!\nErr... Errr... You don't think that's too expensive, do you? Because I can tell you're just as anxious as I am to experiment with and create things. Hee hee hee hee!",
         "pt-BR": "[Molgenstein, o Químico]\nAh, é mesmo... Lembrei... Sim, sim... Me traga 1 'Alcool'... 1 'Karvodailnirol'... e 1 'Garrafa Vazia' para colocar a solução.\nCom essas 3 coisas, eu faço o que você quer... Pode me agradecer agora... Não é todo dia que você ganha um presente de um gênio como eu. Hehehehe.\nNão é difícil nem nada... Ou vai me dizer que é?... Hehehehe... Fácil, fácil.\nAh, é claro que tem mais um ingrediente... Eu preciso de 4000 zenys também... Heheheheeee.\nOooo... O... O quê? Você acha que eu estou te enganando? É um ingrediente mesmo! Heheheeheehee!",
-        "es-ES": "[Químico Morgenstein]\n¡Ya sé! Alcohol… Karvodailnirol… y una Botella vacía.\nNecesito esas tres cosas. Además, me gustaría tener algo para mí a cambio de este juguete que crearé para ti. ¡Je, je, je!\nNo pierdas la tranquilidad. No quiero nada especial. Nada especial. ¡Je, je, je!\nSolo quiero… 4000 zeny. ¡Je, je, je!\nEh… Emmm… No te parece demasiado caro, ¿verdad? Porque veo que tienes tantas ganas como yo de experimentar y crear cosas. ¡Je, je, je, je!"
+        "es-ES": "[Químico Morgenstein]\n¡Ya sé! Alcohol... Karvodailnirol... y una Botella vacía.\nNecesito esas tres cosas. Además, me gustaría tener algo para mí a cambio de este juguete que crearé para ti. ¡Je, je, je!\nNo pierdas la tranquilidad. No quiero nada especial. Nada especial. ¡Je, je, je!\nSolo quiero... 4000 zeny. ¡Je, je, je!\nEh... Emmm... No te parece demasiado caro, ¿verdad? Porque veo que tienes tantas ganas como yo de experimentar y crear cosas. ¡Je, je, je, je!"
     },
     "XOCyAQ": {
         "en-US": "[Chemist Morgenstein]\nHee hee... Hee hee hee...",
         "pt-BR": "[Molgenstein, o Químico]\nMuito bem! Vamos começar?",
-        "es-ES": "[Químico Morgenstein]\nJi, ji… Je, je, je…"
+        "es-ES": "[Químico Morgenstein]\nJi, ji... Je, je, je..."
     },
     "XeCyAQ": {
         "en-US": "[Chemist Morgenstein]\nAh... I'm sorry if I scared you. Hee hee he... I haven't seen another living person for a long time.\nSo... how may I help you?",
         "pt-BR": "[Molgenstein, o Químico]\nAh... Me desculpe se te assustei... Hehehehee... Faz tanto tempo... que uma pessoa não aparece aqui.\nEntão... O que te trouxe aqui?",
-        "es-ES": "[Químico Morgenstein]\nAh… Lo siento si te asusté. Je, je, je… Hacía mucho que no veía a otro ser vivo.\nBueno… ¿en qué puedo ayudarte?"
+        "es-ES": "[Químico Morgenstein]\nAh... Lo siento si te asusté. Je, je, je... Hacía mucho que no veía a otro ser vivo.\nBueno... ¿en qué puedo ayudarte?"
     },
     "XuCyAQ": {
         "en-US": "[Chemist Morgenstein]\nHee hee hee... *Sniff, Sniff!* Suddenly, it smells like meat in here.\nOf a person. A living one at that. Hee hee hee!",
         "pt-BR": "[Molgenstein, o Químico]\nHehehehee... *sniffsniff* Um... Um cheiro de carne?\nSeria... uma pessoa? Uma pessoa viva... Hehehehehee.",
-        "es-ES": "[Químico Morgenstein]\nJe, je, je… *¡Snif, snif!* Siento un olor a carne.\nDe una persona. Y una persona viva. ¡Je, je, je!"
+        "es-ES": "[Químico Morgenstein]\nJe, je, je... *¡Snif, snif!* Siento un olor a carne.\nDe una persona. Y una persona viva. ¡Je, je, je!"
     },
     "X+CyAQ": {
         "en-US": "Marienne",
@@ -337,7 +337,7 @@
     "Y+CyAQ": {
         "en-US": "[Housewife Marienne]\nMm... Ah, you! I know you fed meat to my Morrison!\nHow dare you come back to my house? You're so shameless!\nSeriously, do you think I'm stupid?",
         "pt-BR": "[Marianne]\nVocê tá me achando com cara de quê hein, seu atrevido?\nEu aqui desesperda por que meu filho não come frutas,\nE você deu uma carne pra ele? Seu retardado!",
-        "es-ES": "[Ama de casa Marienne]\nMm… ¡Ah, tú! ¡Sé que le diste de comer carne a mi Morrison!\n¿Cómo te atreves a volver a mi casa? ¡No tienes vergüenza!\nEn serio, ¿crees que soy estúpida?"
+        "es-ES": "[Ama de casa Marienne]\nMm... ¡Ah, tú! ¡Sé que le diste de comer carne a mi Morrison!\n¿Cómo te atreves a volver a mi casa? ¡No tienes vergüenza!\nEn serio, ¿crees que soy estúpida?"
     },
     "ZOCyAQ": {
         "en-US": "[Housewife Marienne]\nGet out of here!",
@@ -352,7 +352,7 @@
     "ZuCyAQ": {
         "en-US": "[Housewife Marienne]\n*Gasp!* Wh-wha...?\nWhat are you doing? What are you feeding my son?\nGrr, I can't believe you! Get out of here!",
         "pt-BR": "[Marianne]\nAi minha nossa senhora!!\nVocê deu carne pro meu filho! CARNE!!\nVocê quer acabar com os meus nervos, é isso né? Idiota!",
-        "es-ES": "[Ama de casa Marienne]\n*¡Uf!* ¿Q-Qué…?\n¿Qué estás haciendo? ¿Qué le das de comer a mi hijo?\nGrr, ¡no puedo creerlo! ¡Fuera de aquí!"
+        "es-ES": "[Ama de casa Marienne]\n*¡Uf!* ¿Q-Qué...?\n¿Qué estás haciendo? ¿Qué le das de comer a mi hijo?\nGrr, ¡no puedo creerlo! ¡Fuera de aquí!"
     },
     "Z+CyAQ": {
         "en-US": "[Housewife Marienne]\nMorrison, come on! Eat your fruit! Eat it!\nUgh, I can't live like this. You're just like your father!",
@@ -362,7 +362,7 @@
     "aOCyAQ": {
         "en-US": "[Housewife Marienne]\n*Sigh...* This is my son, Morrison.\nLately, he stopped eating his fruit. Look at his face. It's sallow because he hasn't had enough fiber.\nAll he wants to eat is meat. *Sigh...* I don't know what to do to make him eat fruits and vegetables again.",
         "pt-BR": "[Marianne]\nEsse aqui é o Morrison, o meu filho.\nEle se recusa a comer frutas, olha só pra cara dele... Amarelada por falta de vitaminas...\nEu não consigo descobrir um jeito dele comer frutas e vegetais.",
-        "es-ES": "[Ama de casa Marienne]\n*Suspira…* Este es mi hijo, Morrison.\nÚltimamente, dejó de comer fruta. Mírale la cara. Se ve pálido porque no consumió suficiente fibra.\nSolo quiere comer carne. *Suspira…* No sé qué hacer para que vuelva a comer frutas y verduras."
+        "es-ES": "[Ama de casa Marienne]\n*Suspira...* Este es mi hijo, Morrison.\nÚltimamente, dejó de comer fruta. Mírale la cara. Se ve pálido porque no consumió suficiente fibra.\nSolo quiere comer carne. *Suspira...* No sé qué hacer para que vuelva a comer frutas y verduras."
     },
     "aeCyAQ": {
         "en-US": "[Housewife Marienne]\nMorrison, stop!",
@@ -387,12 +387,12 @@
     "beCyAQ": {
         "en-US": "[Little Morrison]\nAnd, mm... take these.\nThey were a gift. I've saved them to eat later, but you gave me your meat. I want to give them to you in return.",
         "pt-BR": "[Pequeno Morrisson]\nOlha, aqui, pode ficar com essas.\nSão as minhas balas favoritas, eu escondo elas da minha mãe. Hehhehehehe.",
-        "es-ES": "[El pequeño Morrison]\nY, mm… toma estos.\nFueron un regalo. Los estaba guardando para comerlos más tarde, pero tú me diste tu carne. Quiero dártelos a cambio."
+        "es-ES": "[El pequeño Morrison]\nY, mm... toma estos.\nFueron un regalo. Los estaba guardando para comerlos más tarde, pero tú me diste tu carne. Quiero dártelos a cambio."
     },
     "buCyAQ": {
         "en-US": "[Little Morrison]\nAww... Waah! No!\nEek, no fruit! I don't want any fruit!",
         "pt-BR": "[Pequeno Morrisson]\nEu já disse, não quero comer essas frutas idiotas!.\nEu quero carne!!!",
-        "es-ES": "[El pequeño Morrison]\nAy… ¡Ahhh! ¡No!\n¡Ah, fruta no! ¡No quiero fruta!"
+        "es-ES": "[El pequeño Morrison]\nAy... ¡Ahhh! ¡No!\n¡Ah, fruta no! ¡No quiero fruta!"
     },
     "b+CyAQ": {
         "en-US": "Show Meat.",
@@ -407,7 +407,7 @@
     "ceCyAQ": {
         "en-US": "[Little Morrison]\nAaah! You've got meat! *Drool*\nAww... I-I'm hungry... Your meat smells good... Hey... could you let me just have a bite?",
         "pt-BR": "[Pequeno Morrisson]\nAaahh!! Carne!\nHmm... Eu estou com tanta fome.. Você poderia me dar essa carne?",
-        "es-ES": "[El pequeño Morrison]\n¡Aaah! ¡Tienes carne! *Babea*\nAy… T-Tengo hambre… Tu carne huele bien… Oye… ¿me dejas probar un poco?"
+        "es-ES": "[El pequeño Morrison]\n¡Aaah! ¡Tienes carne! *Babea*\nAy... T-Tengo hambre... Tu carne huele bien... Oye... ¿me dejas probar un poco?"
     },
     "cuCyAQ": {
         "en-US": "Give Meat.",
@@ -427,7 +427,7 @@
     "deCyAQ": {
         "en-US": "[Little Morrison]\nSheesh, you're so heartless--just like my mom!",
         "pt-BR": "[Pequeno Morrisson]\nVocê é idiota como a minha mãe. Adultos, são todos iguais.",
-        "es-ES": "[El pequeño Morrison]\nVaya, eres cruel… ¡igual que mi madre!"
+        "es-ES": "[El pequeño Morrison]\nVaya, eres cruel... ¡igual que mi madre!"
     },
     "duCyAQ": {
         "en-US": "[Little Morrison]\nArrggh! I'm not going to eat fruits or vegetables, no matter what!",
@@ -482,22 +482,22 @@
     "gOCyAQ": {
         "en-US": "[Merchant Marc Hansen]\nWell, well... You don't have everything you need.\nTo make 1 Apple Juice, you need 1 Apple and 1 Empty Bottle,\nand 3 Zeny as a service fee.\nGet all these, and I'll give you delicious juice.",
         "pt-BR": "[Marxhansens, o Mercador]\nEu sinto muito, você não tem todos os materiais necessários.\nEu preciso de 1 Maçã e 1 Garrafa Vazia para fazer 1 Suco de Maçã.\nE também não se esqueça da taxa de 3 zeny por suco.\nTraga os materiais e o dinheiro, e eu faço um suco pra você.",
-        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya… No tienes todo lo que necesitas.\nPara preparar 1 Jugo de manzana, necesitas 1 Manzana, 1 Botella vacía\ny 3 zeny por los servicios.\nConsigue todo eso y te prepararé un delicioso jugo."
+        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya... No tienes todo lo que necesitas.\nPara preparar 1 Jugo de manzana, necesitas 1 Manzana, 1 Botella vacía\ny 3 zeny por los servicios.\nConsigue todo eso y te prepararé un delicioso jugo."
     },
     "geCyAQ": {
         "en-US": "[Merchant Marc Hansen]\nWell, well... You don't have everything you need.\nTo make 1 Banana Juice, you need 1 Banana and 1 Empty Bottle,\nand 3 Zeny as a service fee.\nGet all these, and I'll give you delicious juice.",
         "pt-BR": "[Marxhansens, o Mercador]\nEu sinto muito, você não tem todos os materiais necessários.\nEu preciso de 1 Banana e 1 Garrafa Vazia para fazer 1 Suco de Banana.\nE também não se esqueça da taxa de 3 zeny por suco.\nTraga os materiais e o dinheiro, e eu faço um suco pra você.",
-        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya… No tienes todo lo que necesitas.\nPara hacer 1 Jugo de banana, necesitas 1 Banana, 1 Botella vacía\ny 3 zeny por los servicios.\nConsigue todo eso y te prepararé un delicioso jugo."
+        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya... No tienes todo lo que necesitas.\nPara hacer 1 Jugo de banana, necesitas 1 Banana, 1 Botella vacía\ny 3 zeny por los servicios.\nConsigue todo eso y te prepararé un delicioso jugo."
     },
     "guCyAQ": {
         "en-US": "[Merchant Marc Hansen]\nWell, well... You don't have everything you need.\nTo make 1 Carrot Juice, you need 1 Carrot and 1 Empty Bottle,\nand 3 Zeny as a service fee.\nGet all these, and I'll give you delicious juice.",
         "pt-BR": "[Marxhansens, o Mercador]\nEu sinto muito, você não tem todos os materiais necessários.\nEu preciso de 1 Cenoura e 1 Garrafa Vazia para fazer 1 Suco de Cenoura.\nE também não se esqueça da taxa de 3 zeny por suco.\nTraga os materiais e o dinheiro, e eu faço um suco pra você.",
-        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya… No tienes todo lo que necesitas.\nPara hacer 1 Jugo de zanahoria, necesitas 1 Zanahoria, 1 Botella vacía\ny 3 zeny por los servicios.\nConsigue todo eso y te prepararé un delicioso jugo."
+        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya... No tienes todo lo que necesitas.\nPara hacer 1 Jugo de zanahoria, necesitas 1 Zanahoria, 1 Botella vacía\ny 3 zeny por los servicios.\nConsigue todo eso y te prepararé un delicioso jugo."
     },
     "g+CyAQ": {
         "en-US": "[Merchant Marc Hansen]\nWell, well... You don't have everything you need.\nTo make 1 Grape Juice, you need 1 Grape and 1 Empty Bottle,\nand 3 Zeny as a service fee.\nGet all these, and I'll give you delicious juice.",
         "pt-BR": "[Marxhansens, o Mercador]\nEu sinto muito, você não tem todos os materiais necessários.\nEu preciso de 1 Uva e 1 Garrafa Vazia para fazer 1 Suco de Uva.\nE também não se esqueça da taxa de 3 zeny por suco.\nTraga os materiais e o dinheiro, e eu faço um suco pra você.",
-        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya… No tienes todo lo que necesitas.\nPara hacer 1 Jugo de uva, necesitas 1 Uva, 1 Botella vacía\ny 3 zeny por los servicios.\nConsigue todo eso y te prepararé un delicioso jugo."
+        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya... No tienes todo lo que necesitas.\nPara hacer 1 Jugo de uva, necesitas 1 Uva, 1 Botella vacía\ny 3 zeny por los servicios.\nConsigue todo eso y te prepararé un delicioso jugo."
     },
     "hOCyAQ": {
         "en-US": "[Merchant Marc Hansen]\nOkay. See you again.",
@@ -532,7 +532,7 @@
     "iuCyAQ": {
         "en-US": "[Merchant Marc Hansen]\nWell, well... You don't have everything you need.\nPlease bring all of them, or I can't help you.",
         "pt-BR": "[Marxhansens, o Mercador]\nEu sinto muito, você não tem todos os materiais necessários.\nTraga-os e eu farei os sucos.",
-        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya… No tienes todo lo que necesitas.\nTrae todos los materiales o no podré ayudarte."
+        "es-ES": "[Comerciante Marc Hansen]\nVaya, vaya... No tienes todo lo que necesitas.\nTrae todos los materiales o no podré ayudarte."
     },
     "i+CyAQ": {
         "en-US": "[Merchant Marc Hansen]\nThere you go, your freshly squeezed juice!\nNow, please come again.",
@@ -587,7 +587,7 @@
     "leCyAQ": {
         "en-US": "[Maiden Dairen]\nUgh, the plaza has been so crowded lately... *Cough, Cough!*\nGeez, look at this dust. So nasty! Being in a city isn't all that great.\nHm... How may I help you?",
         "pt-BR": "[Darlene]\nComo a cidade está cheia hoje!\nÉ isso que eu adoro em Prontera, você pode ver pessoas do mundo inteiro!\nE claro, também ouvir novidades de toda Midgard!",
-        "es-ES": "[Doncella Dairen]\nUf, la plaza ha estado tan llena últimamente… *¡Cof, cof!*\nCielos, mira todo este polvo. ¡Qué desagradable! Estar en una ciudad no es tan genial.\nMmm… ¿En qué puedo ayudarte?"
+        "es-ES": "[Doncella Dairen]\nUf, la plaza ha estado tan llena últimamente... *¡Cof, cof!*\nCielos, mira todo este polvo. ¡Qué desagradable! Estar en una ciudad no es tan genial.\nMmm... ¿En qué puedo ayudarte?"
     },
     "luCyAQ": {
         "en-US": "[Maiden Dairen]\nAre you by chance interested in parties or dresses? Ho ho ho!\nLately, the hottest topic in town has been beautifully colored party dresses.",
@@ -597,7 +597,7 @@
     "l+CyAQ": {
         "en-US": "[Maiden Dairen]\nThe colors of these dresses are to die for, and people say they're dyed with special dyestuff only made in Morroc that costs an arm and a leg.\nAh, I wish I could wear a dress like that at least once before I die...",
         "pt-BR": "[Darlene]\nParece que se faz usando aquelas tinturas de morroc... Mas ela são tão caras...\nE do mesmo jeito, acho que vai demorar muito até aparecer alguém que saiba como tingir as roupas.",
-        "es-ES": "[Doncella Dairen]\nLos colores de estos vestidos son para morirse, y la gente dice que están teñidos con tintes especiales que solo se fabrican en Morroc y que cuestan un ojo de la cara.\nAh, ojalá pudiera usar un vestido así al menos una vez antes de morir…"
+        "es-ES": "[Doncella Dairen]\nLos colores de estos vestidos son para morirse, y la gente dice que están teñidos con tintes especiales que solo se fabrican en Morroc y que cuestan un ojo de la cara.\nAh, ojalá pudiera usar un vestido así al menos una vez antes de morir..."
     },
     "mOCyAQ": {
         "en-US": "[Maiden Dairen]\nHmpf, why did you even stop me, then?",
@@ -642,12 +642,12 @@
     "oOCyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nI hated dye-making as much as I hated him, so I left home and tried to do this and that.\nBut... eventually, I came back home and inherited his dratted business. Blood is thicker than water, as they say. And that was... fifteen years ago.",
         "pt-BR": "[Dullihan]\nEu acabei odiando o meu pai e suas tinturas, e fugi de casa. Exerci muitas outras profissões para conseguir me sustentar.\nMas como você pode ver, por fim fiz do meu sustendo a produção de tinturas.",
-        "es-ES": "[Java Dullihan]\nOdiaba hacer tintes tanto como a él, así que me fui de casa e intenté hacer diferentes cosas.\nPero… al final, volví a casa y heredé su maldito negocio. La sangre es más espesa que el agua, como se suele decir. Y eso fue… hace quince años."
+        "es-ES": "[Java Dullihan]\nOdiaba hacer tintes tanto como a él, así que me fui de casa e intenté hacer diferentes cosas.\nPero... al final, volví a casa y heredé su maldito negocio. La sangre es más espesa que el agua, como se suele decir. Y eso fue... hace quince años."
     },
     "oeCyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nAnd now... I think I understand him.\nI understand why my father gave up everything he had for dye-making.",
         "pt-BR": "[Dullihan]\nIsso aconteceu por que eu entendi a fixação do meu pai...\nAgora eu entendo como ele pode sacrificar sua vida por estas tinturas.",
-        "es-ES": "[Java Dullihan]\nY ahora… creo que lo entiendo.\nEntiendo por qué mi padre renunció a todo lo que tenía para hacer tintes."
+        "es-ES": "[Java Dullihan]\nY ahora... creo que lo entiendo.\nEntiendo por qué mi padre renunció a todo lo que tenía para hacer tintes."
     },
     "ouCyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nBecause he loved the way the colors he'd wanted appeared during the numerous steps you had to take to dye things. Because he wanted to create the fantastic colors he'd always dreamed about.",
@@ -712,7 +712,7 @@
     "ruCyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nMm... 1 Red Dye requires 30 Red Herbs, 1 Counteragent, and 1 Empty Bottle.\nAnd the service fee required is 3,000 Zeny.\nI'm sure you have all of them. Shall we get on with it?",
         "pt-BR": "[Dullihan]\nPara fazer uma tintura vermelha vou precisar de 30 ervas vermelhas, 1 Antígeno, e 1 garrafa vazia.\nA taxa será de 3000 zeny.\nSe você já tiver todos os materiais e o dinheiro, posso faze-la agora.",
-        "es-ES": "[Java Dullihan]\nMm… 1 Tinte rojo requiere 30 Hierbas rojas, 1 Contraagente y 1 Botella vacía.\nY la tarifa de servicio requerida es de 3000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
+        "es-ES": "[Java Dullihan]\nMm... 1 Tinte rojo requiere 30 Hierbas rojas, 1 Contraagente y 1 Botella vacía.\nY la tarifa de servicio requerida es de 3000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
     },
     "r+CyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nHm, this isn't not enough.\nI don't think I can create the color you want just with these. Why don't you go bring everything else?",
@@ -732,12 +732,12 @@
     "suCyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nMm... 1 Yellow Dye requires 30 Yellow Herbs, 1 Counteragent, and 1 Empty Bottle.\nAnd the service fee required is 3,000 Zeny.\nI'm sure you have all of them. Shall we get on with it?",
         "pt-BR": "[Dullihan]\nPara fazer a tintura loira vou precisar de 30 ervas amarelas, 1 Antígeno 1 garrafa vazia.\nA taxa será de 3000 zeny.\nSe você já tiver todos os materiais e o dinheiro, posso faze-la agora.",
-        "es-ES": "[Java Dullihan]\nMm… 1 Tinte amarillo requiere 30 Hierbas amarillas, 1 Contraagente y 1 Botella vacía.\nY la tarifa de servicio requerida es de 3000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
+        "es-ES": "[Java Dullihan]\nMm... 1 Tinte amarillo requiere 30 Hierbas amarillas, 1 Contraagente y 1 Botella vacía.\nY la tarifa de servicio requerida es de 3000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
     },
     "s+CyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nMm... 1 Blue Dye requires 20 Blue Herbs, 1 Counteragent, and 1 Empty Bottle.\nAs for the service fee, blue dye is more difficult than the others. The amount of service fee required is 3,500 Zeny.\nI'm sure you have all of them. Shall we get on with it?",
         "pt-BR": "[Dullihan]\nPara fazer a tintura azul vou precisar de 20 ervas azuis e 1 Antígeno e 1 garrafa vazia.\nA taxa será de 3500 zenys.\nSe você já tiver todos os materiais e o dinheiro, posso faze-la agora.",
-        "es-ES": "[Java Dullihan]\nMm… 1 Tinte azul requiere 20 Hierbas azules, 1 Contraagente y 1 Botella vacía.\nEn cuanto a la tarifa de servicio, el Tinte azul es más difícil de preparar que los demás. El importe de la tarifa de servicio requerida es de 3500 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
+        "es-ES": "[Java Dullihan]\nMm... 1 Tinte azul requiere 20 Hierbas azules, 1 Contraagente y 1 Botella vacía.\nEn cuanto a la tarifa de servicio, el Tinte azul es más difícil de preparar que los demás. El importe de la tarifa de servicio requerida es de 3500 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
     },
     "tOCyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nMm, 1 Green Dye requires 5 Blue Herbs, 20 Green Herbs, 20 Yellow Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle.\nI hope you can remember all the materials. And the service fee required is 5,000 Zeny.\nI'm sure you have all of them. Shall we get on with it?",
@@ -747,17 +747,17 @@
     "teCyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nMm... 1 Orange Dye requires 20 Red Herbs, 20 Yellow Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle.\nAnd the service fee required is 5,000 Zeny.\nI'm sure you have all of them. Shall we get on with it?",
         "pt-BR": "[Dullihan]\nPara fazer a tintura laranja vou precisar de 20 ervas vermelhas, 20 ervas amarelas, 1 Antígeno, 1 Mistura e 1 garrafa vazia.\nA taxa será de 5000 zeny.\nSe você já tiver todos os materiais e o dinheiro, posso faze-la agora.",
-        "es-ES": "[Java Dullihan]\nMm… 1 Tinte naranja requiere 20 Hierbas rojas, 20 Hierbas amarillas, 1 Contraagente, 1 Mezcla y 1 Botella Vacía.\nY la tarifa de servicio requerida es de 5000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
+        "es-ES": "[Java Dullihan]\nMm... 1 Tinte naranja requiere 20 Hierbas rojas, 20 Hierbas amarillas, 1 Contraagente, 1 Mezcla y 1 Botella Vacía.\nY la tarifa de servicio requerida es de 5000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
     },
     "tuCyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nMm... 1 Purple Dye requires 10 Blue Herbs, 30 Red Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle.\nAnd the service fee required is 5,000 Zeny.\nI'm sure you have all of them. Shall we get on with it?",
         "pt-BR": "[Dullihan]\nPara fazer a tintura roxa vou precisar de 10 ervas azuis, 30 ervas vermelhas, 1 Antígeno, 1 Mistura e 1 garrafa vazia.\nA taxa será de 5000 zeny.\nSe você já tiver todos os materiais e o dinheiro, posso faze-la agora.",
-        "es-ES": "[Java Dullihan]\nMm… 1 Tinte morado requiere 10 Hierbas azules, 30 Hierbas rojas, 1 Contraagente, 1 Mezcla y 1 Botella vacía.\nY la tarifa de servicio requerida es de 5000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
+        "es-ES": "[Java Dullihan]\nMm... 1 Tinte morado requiere 10 Hierbas azules, 30 Hierbas rojas, 1 Contraagente, 1 Mezcla y 1 Botella vacía.\nY la tarifa de servicio requerida es de 5000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
     },
     "t+CyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nMm... 1 White Dye requires 30 White Herbs, 1 Counteragent, and 1 Empty Bottle.\nAnd the service fee required is 3,000 Zeny.\nI'm sure you have all of them. Shall we get on with it?",
         "pt-BR": "[Dullihan]\nPara fazer a tintura branca vou precisar de 30 ervas brancas, 1 Antígeno e 1 garrafa vazia.\nA taxa será de 3000 zenys.\nSe você já tiver todos os materiais e o dinheiro, posso faze-la agora.",
-        "es-ES": "[Java Dullihan]\nMm… 1 Tinte blanco requiere 30 Hierbas blancas, 1 Contraagente y 1 Botella vacía.\nY la tarifa de servicio requerida es de 3000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
+        "es-ES": "[Java Dullihan]\nMm... 1 Tinte blanco requiere 30 Hierbas blancas, 1 Contraagente y 1 Botella vacía.\nY la tarifa de servicio requerida es de 3000 zeny.\nEstoy seguro de que tienes todo. ¿Quieres empezar?"
     },
     "uOCyAQ": {
         "en-US": "[Dye Maker Java Dullihan]\nMm, 1 Black Dye requires 30 Red Herbs, 30 Yellow Herbs, 30 Green Herbs, 5 Blue Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle.\nMaking this dye is a long, difficult process. The amount of service fee required is 7,000 Zeny.\nI'm sure you have all of them. Shall we get on with it?",
@@ -777,7 +777,7 @@
     "u+CyAQ": {
         "en-US": "[Old Apothecary]\nMm... How may I help you?",
         "pt-BR": "[Farmacêutico]\nEm que posso ajudá-lo?",
-        "es-ES": "[Viejo boticario]\nMm… ¿En qué puedo ayudarte?"
+        "es-ES": "[Viejo boticario]\nMm... ¿En qué puedo ayudarte?"
     },
     "vOCyAQ": {
         "en-US": "Make potions.",
@@ -862,12 +862,12 @@
     "zOCyAQ": {
         "en-US": "[Old Apothecary]\nMedicine can help us recover from illnesses more quickly, but it can't work a miracle.\nOww... I can't help but miss my old days as I get older.\nAnyway, potions are just potions and nothing else.",
         "pt-BR": "[Farmacêutico]\nSó porque eu sou um velho farmacêutico, as pessoas ficam achando que eu tenho tempo de sobra pra ficar jogando conversa fora.\nEu faço poções desde que eu era apenas um jovem bobo que sabia misturar ingredientes.\nSe você ainda não sabe, as poções ajudam o seu corpo a se recuperar mais efetivamente.",
-        "es-ES": "[Viejo boticario]\nLa medicina puede ayudarnos a recuperarnos de las enfermedades más rápido, pero no puede hacer milagros.\nAyyy… No puedo evitar extrañar los viejos tiempos a medida que pasan los años.\nDe todos modos, las pociones son solo pociones y nada más."
+        "es-ES": "[Viejo boticario]\nLa medicina puede ayudarnos a recuperarnos de las enfermedades más rápido, pero no puede hacer milagros.\nAyyy... No puedo evitar extrañar los viejos tiempos a medida que pasan los años.\nDe todos modos, las pociones son solo pociones y nada más."
     },
     "zeCyAQ": {
         "en-US": "[Old Apothecary]\n*Groan...* You little rascals can be so persistent. Okay, since you asked, I'll tell you.",
         "pt-BR": "[Farmacêutico]\nTem que explicar tudo pra vocês jovens, não é?",
-        "es-ES": "[Viejo boticario]\n*Gruñe…* Los sinvergüenzas como tú son muy persistentes. Bueno, ya que preguntas, te lo diré."
+        "es-ES": "[Viejo boticario]\n*Gruñe...* Los sinvergüenzas como tú son muy persistentes. Bueno, ya que preguntas, te lo diré."
     },
     "zuCyAQ": {
         "en-US": "[Old Apothecary]\nHerbs are useful as it is, but the potions I make with my special potion-making techniques are superior.",
@@ -902,7 +902,7 @@
     "1OCyAQ": {
         "en-US": "[Clothing Processor Ginedin Rephere]\nEleven, twelve... Mm, good! I should be able to finish them before the party tonight.\nAh, I didn't know I had a customer waiting. Hello! How may I assist you today?",
         "pt-BR": "[Ginedin Rephere]\nHmmm... Espero que caiba todos os meus convidados aqui...\nOh! Perdão, eu mal percebi que você estava aqui!",
-        "es-ES": "[Ginedin Rephere]\nOnce, doce… ¡Bien! Debería poder terminar antes de la fiesta de esta noche.\nAh, no sabía que tenía un cliente esperando. ¡Hola! ¿En qué puedo ayudarte hoy?"
+        "es-ES": "[Ginedin Rephere]\nOnce, doce... ¡Bien! Debería poder terminar antes de la fiesta de esta noche.\nAh, no sabía que tenía un cliente esperando. ¡Hola! ¿En qué puedo ayudarte hoy?"
     },
     "1eCyAQ": {
         "en-US": "Dye clothes.",
@@ -917,7 +917,7 @@
     "1+CyAQ": {
         "en-US": "[Clothing Processor Ginedin Rephere]\nHah hah hah. In that sense, I'm doing something very noble for others. Personally, it's very rewarding, too.\nDo you feel it? When I dye those thick, coarse cotton and leather with such gorgeous, vivid colors, I feel passionate--alive!\nIt's a long, arduous process, but the joy of seeing a complete dress more than makes up for it.",
         "pt-BR": "[Ginedin Rephere]\nUma roupa bem escolhida faz com que você se sinta melhor consigo mesmo, e seja mais feliz.\nE eu adoro trabalhar com isso.. Fazer roupas que deixem as pessoas mais felizes, que expressem as suas personalidades..\nPode ser um trabalho muito dificil, mas é imensamente recompensador.",
-        "es-ES": "[Ginedin Rephere]\nJa, ja, ja. En ese sentido, estoy haciendo algo muy noble por los demás. Personalmente, también es muy gratificante.\n¿Lo sientes? Cuando tiño esos gruesos y ásperos algodones y cueros con colores tan magníficos y vivos, siento una pasión muy grande… ¡Me siento vivo!\nEs un proceso largo y arduo, pero la alegría de ver un vestido terminado lo compensa con creces."
+        "es-ES": "[Ginedin Rephere]\nJa, ja, ja. En ese sentido, estoy haciendo algo muy noble por los demás. Personalmente, también es muy gratificante.\n¿Lo sientes? Cuando tiño esos gruesos y ásperos algodones y cueros con colores tan magníficos y vivos, siento una pasión muy grande... ¡Me siento vivo!\nEs un proceso largo y arduo, pero la alegría de ver un vestido terminado lo compensa con creces."
     },
     "2OCyAQ": {
         "en-US": "[Clothing Processor Ginedin Rephere]\nAh, you came to dye your clothes.\nI'm sorry, but I have so many orders to fulfill that I can't squeeze you in.\nCould you come back later?",
@@ -957,7 +957,7 @@
     "3+CyAQ": {
         "en-US": "[Peco Peco Manager]\nI'm sorry, but you don't have enough Zeny.\nAre you... broke?",
         "pt-BR": "[Criador de Pecopecos]\nSinto muito, mas você não tem Zeny suficiente.\nVocê está... sem dinheiro?",
-        "es-ES": "[Domador de Peco Peco]\nLo siento, pero no tienes suficientes zeny.\n¿Estás… en bancarrota?"
+        "es-ES": "[Domador de Peco Peco]\nLo siento, pero no tienes suficientes zeny.\n¿Estás... en bancarrota?"
     },
     "4OCyAQ": {
         "en-US": "[Peco Peco Manager]\nPlease learn how to ride a Peco Peco first.",

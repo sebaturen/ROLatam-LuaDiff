@@ -7,12 +7,12 @@
     "oWm7CA": {
         "en-US": "The Dragon's Cry: Am I being punished... for abandoning the way... of the guardian...?",
         "pt-BR": "O Choro do Dragão: Estou sendo punido... por ter abandonado o caminho... do guardião...?",
-        "es-ES": "El grito del Dragón: ¿Estoy siendo castigado… por abandonar el camino… del guardián...?"
+        "es-ES": "El grito del Dragón: ¿Estoy siendo castigado... por abandonar el camino... del guardián...?"
     },
     "omm7CA": {
         "en-US": "Voice in your head: ...Will you... save... me... please......?",
         "pt-BR": "Voz em sua cabeça: ... Me... salve... por... favor...",
-        "es-ES": "Voz en tu cabeza: ¿Me… salvarás… por… favor…?"
+        "es-ES": "Voz en tu cabeza: ¿Me... salvarás... por... favor...?"
     },
     "o2m7CA": {
         "en-US": "Mysterious Young Man#",
@@ -22,12 +22,12 @@
     "pGm7CA": {
         "en-US": "[Mysterious Young Man]\nHuh? Do you plan to pass through here?\n.....I'm afraid it's beyond your ability, but I won't meddle in your affairs.\nWe'll meet again, if you survive.",
         "pt-BR": "[Jovem Misterioso]\nHã? Você pretende passar por aqui?\n... Acho que não tem capacidade para isso, mas não vou me intrometer.\nNos encontraremos novamente se você sobreviver.",
-        "es-ES": "[Joven misterioso]\n¿Eh? ¿Piensas pasar por aquí?\nMe temo que está más allá de tu capacidad, pero no me entrometeré en tus asuntos…\nNos volveremos a ver, si sobrevives."
+        "es-ES": "[Joven misterioso]\n¿Eh? ¿Piensas pasar por aquí?\nMe temo que está más allá de tu capacidad, pero no me entrometeré en tus asuntos...\nNos volveremos a ver, si sobrevives."
     },
     "pWm7CA": {
         "en-US": "[Mysterious Young Man]\nYou... I remember seeing you at the camp.\nThe information you gave on Ahat was useful.\nThanks!",
         "pt-BR": "[Jovem Misterioso]\nVocê... Lembro-me de ter visto você no acampamento.\nAs informações que forneceu sobre Ahat foram úteis.\nObrigado!",
-        "es-ES": "[Joven misterioso]\nTú… Recuerdo haberte visto en el campamento.\nLa información que diste sobre Ahat fue útil.\n¡Gracias!"
+        "es-ES": "[Joven misterioso]\nTú... Recuerdo haberte visto en el campamento.\nLa información que diste sobre Ahat fue útil.\n¡Gracias!"
     },
     "pmm7CA": {
         "en-US": "[Mysterious Young Man]\nBut do you plan to pass through here?\nWhat good is it to go across Bifrost?",
@@ -37,7 +37,7 @@
     "p2m7CA": {
         "en-US": "[Mysterious Young Man]\nDo you plan to pass through here?\nI will advise against it if you're just curious.\nIt will only bring about your untimely death..",
         "pt-BR": "[Jovem Misterioso]\nVocê pretende passar por aqui?\nSe estiver apenas curioso, aconselho que não faça isso.\nSó vai causar a sua morte...",
-        "es-ES": "[Joven misterioso]\n¿Piensas pasar por aquí?\nTe aconsejaría no hacerlo si solo tienes curiosidad.\nSolo llevará a tu muerte prematura…"
+        "es-ES": "[Joven misterioso]\n¿Piensas pasar por aquí?\nTe aconsejaría no hacerlo si solo tienes curiosidad.\nSolo llevará a tu muerte prematura..."
     },
     "qGm7CA": {
         "en-US": "[Mysterious Young Man]\nIf you are determined to pass through here,\nI will ask for your help with something.",
@@ -52,12 +52,12 @@
     "qmm7CA": {
         "en-US": "[Loki]\nLoki... from the Assassin's Guild.\nThat's my name.\nAnd yours?",
         "pt-BR": "[Loki]\nLoki... da Guilda dos Mercenários.\nEsse é o meu nome.\nE o seu?",
-        "es-ES": "[Loki]\nLoki… del gremio de Asesinos.\nEse es mi nombre.\n¿Y el tuyo?"
+        "es-ES": "[Loki]\nLoki... del gremio de Asesinos.\nEse es mi nombre.\n¿Y el tuyo?"
     },
     "q2m7CA": {
         "en-US": "[{0}]\n....\n....{0} sir.",
         "pt-BR": "[{0}]\n....\n....{0} , senhor.",
-        "es-ES": "[{0}]\n…\n{0}, señor…"
+        "es-ES": "[{0}]\n...\n{0}, señor..."
     },
     "rGm7CA": {
         "en-US": "[Loki]\nI see. {0}.\nI'm asking you again.\nDo you plan to pass through this forest?",
@@ -77,7 +77,7 @@
     "r2m7CA": {
         "en-US": "[Loki]\nThen I'll ask you a question.\nHave you ever seen a guard... a girl with purple hair?",
         "pt-BR": "[Loki]\nEntão, vou lhe fazer uma pergunta.\nVocê já viu uma guardiã... uma garota de cabelo roxo?",
-        "es-ES": "[Loki]\nEntonces te haré una pregunta.\n¿Viste alguna vez a una guardia… a una chica con el pelo morado?"
+        "es-ES": "[Loki]\nEntonces te haré una pregunta.\n¿Viste alguna vez a una guardia... a una chica con el pelo morado?"
     },
     "sGm7CA": {
         "en-US": "No, I haven't.",
@@ -87,7 +87,7 @@
     "sWm7CA": {
         "en-US": "Yes, I might have...",
         "pt-BR": "Eu acho que sim...",
-        "es-ES": "Sí, puede que sí…"
+        "es-ES": "Sí, puede que sí..."
     },
     "smm7CA": {
         "en-US": "[Loki]\nSo you haven't.\nYou're telling the truth.",
@@ -97,7 +97,7 @@
     "s2m7CA": {
         "en-US": "[Loki]\nWait.\n(Loki comes closer.)\n...No.\nYou're telling the truth.",
         "pt-BR": "[Loki]\nEspere.\n(Loki se aproxima.)\n... Não.\nEstá dizendo a verdade.",
-        "es-ES": "[Loki]\nEspera.\n(Loki se acerca).\n…No.\nEstás diciendo la verdad."
+        "es-ES": "[Loki]\nEspera.\n(Loki se acerca).\n...No.\nEstás diciendo la verdad."
     },
     "tGm7CA": {
         "en-US": "[Loki]\nNow we have to say goodbye here.\nIf you survive this forest, of course.",
@@ -132,12 +132,12 @@
     "umm7CA": {
         "en-US": "[Loki]\nI'm looking for somebody.\nHave you ever seen a guard... a girl with purple hair?",
         "pt-BR": "[Loki]\nEstou procurando alguém.\nVocê já viu uma guardiã... uma garota de cabelo roxo?",
-        "es-ES": "[Loki]\nEstoy buscando a alguien.\n¿Viste alguna vez a una guardia… a una chica con el pelo morado?"
+        "es-ES": "[Loki]\nEstoy buscando a alguien.\n¿Viste alguna vez a una guardia... a una chica con el pelo morado?"
     },
     "u2m7CA": {
         "en-US": "[Loki]\nWait.\n(Loki comes closer.)\n... No.\nYou're telling the truth.",
         "pt-BR": "[Loki]\nEspera\n(Loki chega perto)\n... Não.\nVocê está dizendo a verdade",
-        "es-ES": "[Loki]\nEspera.\n(Loki se acerca).\n… No.\nEstás diciendo la verdad."
+        "es-ES": "[Loki]\nEspera.\n(Loki se acerca).\n... No.\nEstás diciendo la verdad."
     },
     "vGm7CA": {
         "en-US": "[Loki]\nNow we have to say goodbye here.\nHopefully, we will see each other again in Mora.",
@@ -167,7 +167,7 @@
     "wWm7CA": {
         "en-US": "[Loki]\nAn adventurer in the forest.\n.....\nYou can go to Mora through this forest.",
         "pt-BR": "[Loki]\nUm aventureiro na floresta.\n.....\nVocê pode atravessar esta floresta para chegar a Mora.",
-        "es-ES": "[Loki]\nUn trotamundos en el bosque.\n……\nPuedes ir a Mora a través de este bosque."
+        "es-ES": "[Loki]\nUn trotamundos en el bosque.\n......\nPuedes ir a Mora a través de este bosque."
     },
     "wmm7CA": {
         "en-US": "[Loki]\nIs it you that took care of this unruly girl?\nI guess I have to thank you.\nYou've calmed her down.",
@@ -182,7 +182,7 @@
     "xGm7CA": {
         "en-US": "This girl...?",
         "pt-BR": "Essa garota...?",
-        "es-ES": "¿Esta chica…?"
+        "es-ES": "¿Esta chica...?"
     },
     "xWm7CA": {
         "en-US": "[Loki]\nYou might be able to change your appearance, but you cannot change your unique, innate light.\nA scent strong enough to burn your nose.",
@@ -362,7 +362,7 @@
     "6Gm7CA": {
         "en-US": "Rem's Desperate Cry: Argh.. Rem will sleep. Rem will sleep now, and won't wake up forever!",
         "pt-BR": "Grito desesperado de Rem: Argh... Rem vai dormir. Rem vai dormir agora e nunca mais acordar!",
-        "es-ES": "Grito desesperado de Rem: Ay… Rem dormirá. Rem dormirá ahora, ¡y no despertará nunca!"
+        "es-ES": "Grito desesperado de Rem: Ay... Rem dormirá. Rem dormirá ahora, ¡y no despertará nunca!"
     },
     "6Wm7CA": {
         "en-US": "Rem's Cry: Huh? Who's doing bad things to my tree?!",
@@ -477,7 +477,7 @@
     "/2m7CA": {
         "en-US": "Clamoring Whisper: Brave Namon met his fate not so bravely... *giggle*",
         "pt-BR": "Sussurro claro: O corajoso Namon encarou seu destino sem muita coragem... *hi hi hi*",
-        "es-ES": "Susurro clamoroso: El valiente Namon encontró su destino no tan valientemente… *risita*."
+        "es-ES": "Susurro clamoroso: El valiente Namon encontró su destino no tan valientemente... *risita*."
     },
     "AGq7CA": {
         "en-US": "Namon's Cry: Huh? Who's doing bad things to my tree?!",

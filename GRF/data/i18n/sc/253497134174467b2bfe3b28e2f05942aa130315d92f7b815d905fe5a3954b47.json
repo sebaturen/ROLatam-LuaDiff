@@ -7,7 +7,7 @@
     "IfoHAQ": {
         "en-US": "[Euslan]\n^333333*Cough Cough*\n*Haaaaaaack*\n*C-cough* *Sob*^000000",
         "pt-BR": "[Euslan]\n^333333*Cough Cough*\n*Haaaaaaack*\n*C-cough* *soluço*^000000",
-        "es-ES": "[Euslan]\n^333333*Cof, cof*\n*Uaajjj*\n*Cof, cof…Snif…*^000000"
+        "es-ES": "[Euslan]\n^333333*Cof, cof*\n*Uaajjj*\n*Cof, cof...Snif...*^000000"
     },
     "IvoHAQ": {
         "en-US": "Ignore",
@@ -37,12 +37,12 @@
     "J/oHAQ": {
         "en-US": "[Euslan]\n^333333*Sniff* *Cough\n*Cough Cough*\n*Sob* *Sniff*^000000",
         "pt-BR": "[Euslan]\n^333333*Sniff* *Cough\n*Cough Cough*\n*soluço* *Sniff*^000000",
-        "es-ES": "[Euslan]\n^333333*Snif… Cof*\n*Cof, cof*\n*Solloza y lloriquea*^000000"
+        "es-ES": "[Euslan]\n^333333*Snif... Cof*\n*Cof, cof*\n*Solloza y lloriquea*^000000"
     },
     "KPoHAQ": {
         "en-US": "[Euslan]\nOh...\nHello, wh-what\n^333333*Cough cough*^000000 did\nyou want? ^333333*Sniff*^000000",
         "pt-BR": "[Euslan]\nOh...\nOlá, o que\n^333333tosse tosse*^000000 você queria?\nvocê queria? ^333333Cigarro^000000",
-        "es-ES": "[Euslan]\nAh…\nHola. ¿En-en qué…?\n^333333*Cof, cof*^000000 ¿…puedo\nayudarte? ^333333*Snif*^000000"
+        "es-ES": "[Euslan]\nAh...\nHola. ¿En-en qué...?\n^333333*Cof, cof*^000000 ¿...puedo\nayudarte? ^333333*Snif*^000000"
     },
     "KfoHAQ": {
         "en-US": "Nothing!",
@@ -57,12 +57,12 @@
     "K/oHAQ": {
         "en-US": "[Euslan]\nOh, I'm s-sorry...\n^333333*Cough Cough*^000000 I must\nhave been mistaken...",
         "pt-BR": "[Euslan]\nOh, me desculpe...\n^333333*Cough Cough*^000000 Eu devo\ndevo ter me enganado...",
-        "es-ES": "[Euslan]\nAy, lo-lo siento…\n^333333*Cof, cof*^000000 Debo haber\nescuchado mal…"
+        "es-ES": "[Euslan]\nAy, lo-lo siento...\n^333333*Cof, cof*^000000 Debo haber\nescuchado mal..."
     },
     "LPoHAQ": {
         "en-US": "[Euslan]\nTh-thank you so much\nfor your concern. My\n^333333*Cough*^000000 name is Euslan,\nand it's nice to meet you.",
         "pt-BR": "[Euslan]\nMuito obrigado\npor sua preocupação. Meu\n^333333*Cof cof*^000000 Meu nome é Euslan,\ne é um prazer conhecê-lo.",
-        "es-ES": "[Euslan]\nMu-muchas gracias\npor tu preocupación. Me…\n^333333*Cof*^000000… llamo Euslan\ny es un gusto conocerte."
+        "es-ES": "[Euslan]\nMu-muchas gracias\npor tu preocupación. Me...\n^333333*Cof*^000000... llamo Euslan\ny es un gusto conocerte."
     },
     "LfoHAQ": {
         "en-US": "[Euslan]\nI've just been waiting here\nfor my fiancee to return, but\nI'm starting to worry since\nI haven't heard from him in\ndays. I really want to go out\nand find him on my own. ^333333*Cough*^000000",
@@ -72,7 +72,7 @@
     "LvoHAQ": {
         "en-US": "[Euslan]\nI really want to see my\nThierry. If only I wasn't\nso sick, then I wouldn't have\nthese problems. ^333333*Sob*^000000 Where\nis he? ^333333*Sniff*^000000 Where's my\nThierry? I want to see him...",
         "pt-BR": "[Euslan]\nEu realmente quero ver meu\nThierry. Se ao menos eu não estivesse\ntão doente, então eu não teria\nesses problemas. ^333333*Soluço*^000000 Onde ele está?\nOnde ele está? ^333333*Snif*^000000 Onde está meu\nThierry? Eu quero vê-lo...",
-        "es-ES": "[Euslan]\nTengo muchas ganas de ver\na mi Thierry. Si no estuviera\ntan enferma, no tendría\nestos problemas. ^333333*Lloriquea*^000000 Me pregunto\ndónde está… ^333333*Solloza*^000000 ¿Dónde está \nmi Thierry? Quiero verlo…"
+        "es-ES": "[Euslan]\nTengo muchas ganas de ver\na mi Thierry. Si no estuviera\ntan enferma, no tendría\nestos problemas. ^333333*Lloriquea*^000000 Me pregunto\ndónde está... ^333333*Solloza*^000000 ¿Dónde está \nmi Thierry? Quiero verlo..."
     },
     "L/oHAQ": {
         "en-US": "Leave her alone",
@@ -87,12 +87,12 @@
     "MfoHAQ": {
         "en-US": "[Euslan]\nThierry... ^333333*Sob*^000000\nWhen are you\ncoming home?\nI'm so worried...\n^333333*Cough Cough*^000000",
         "pt-BR": "[Euslan]\nThierry... ^333333*soluço*^000000\nQuando você vai\nvoltar para casa?\nEstou tão preocupado...\n^333333*Cough Cough*^000000",
-        "es-ES": "[Euslan]\nThierry… ^333333*Lloriquea*^000000\n¿Cuándo\nvolverás a casa?\nEstoy tan preocupada…\n^333333*Cof, cof*^000000"
+        "es-ES": "[Euslan]\nThierry... ^333333*Lloriquea*^000000\n¿Cuándo\nvolverás a casa?\nEstoy tan preocupada...\n^333333*Cof, cof*^000000"
     },
     "MvoHAQ": {
         "en-US": "[Euslan]\n...Are you really willing to\ngo out and look for Thierry\nfor me? Oh, thank you so\nmuch! You don't know how\nmuch your kind offer means\nto me. Now, let's see...",
         "pt-BR": "[Euslan]\n...Você está realmente disposto a\nsair e procurar Thierry\npor mim? Oh, muito obrigado!\nmuito obrigado! Você não sabe o quanto\nsua gentil oferta significa\npara mim. Agora, vamos ver...",
-        "es-ES": "[Euslan]\n¿De verdad irías\na buscar a Thierry\npor mí? ¡Ay, muchísimas\ngracias! No sabes lo mucho que significa\ntu amable oferta\npara mí. Ahora, veamos…"
+        "es-ES": "[Euslan]\n¿De verdad irías\na buscar a Thierry\npor mí? ¡Ay, muchísimas\ngracias! No sabes lo mucho que significa\ntu amable oferta\npara mí. Ahora, veamos..."
     },
     "M/oHAQ": {
         "en-US": "[Euslan]\n^333333*Cough*^000000 Right, Thierry\nwent on a trip, traveling\non one of the Airships, to\nfind some medicine that the\ndoctors say I need for my\nillness. ^333333*Cough Cough*^000000",
@@ -107,7 +107,7 @@
     "NfoHAQ": {
         "en-US": "[Euslan]\n^333333*Cough*^000000 Oh, right...\nMy fiancee was planning on\nsearching the Schwartzwald\nRepublic, so maybe the crewmen\non the Schwartzwald Republic^FFFFFF      ^000000 domestic flights might know him.",
         "pt-BR": "[Euslan]\n^333333*Cough*^000000 Oh, certo...\nMinha noiva estava planejando\nprocurar a República de Schwartzwald\nRepública Schwartzwald, então talvez os tripulantes\nda República de Schwartzwald^FFFFFF ^000000 possam conhecê-lo.",
-        "es-ES": "[Euslan]\n^333333*Cof*^000000 Ah, cierto…\nMi prometido planeaba\nir a buscar a la República de Schwarzwald,\nasí que quizá los tripulantes\nde los vuelos nacionales^FFFFFF^000000 de la República de Schwarzwald lo hayan visto."
+        "es-ES": "[Euslan]\n^333333*Cof*^000000 Ah, cierto...\nMi prometido planeaba\nir a buscar a la República de Schwarzwald,\nasí que quizá los tripulantes\nde los vuelos nacionales^FFFFFF^000000 de la República de Schwarzwald lo hayan visto."
     },
     "NvoHAQ": {
         "en-US": "[Euslan]\nIf you manage to find\nwhere Thierry might have\ngone, then please let me\nknow as soon as you can,\nokay? Thanks for cheering\nme up, {0}.",
@@ -132,17 +132,17 @@
     "OvoHAQ": {
         "en-US": "[Euslan]\nOh, Kaci works on the\nAirship? It's been so long\nsince I've seen her. I guess\nwe've lost touch ever since\nI've gotten sick... Still, I'm\nglad to have heard from her.",
         "pt-BR": "[Euslan]\nOh, Kaci trabalha no\ndirigível? Já faz tanto tempo\nque eu não a vejo. Acho que\nque perdemos contato desde que\nEu fiquei doente... Mesmo assim, estou\nfeliz por ter tido notícias dela.",
-        "es-ES": "[Euslan]\nAh, ¿Kaci trabaja en\nla aeronave? Hace mucho\nque no la veo. Supongo que\nperdimos el contacto\ncuando me enfermé… De todas formas,\nme alegra tener noticias suyas."
+        "es-ES": "[Euslan]\nAh, ¿Kaci trabaja en\nla aeronave? Hace mucho\nque no la veo. Supongo que\nperdimos el contacto\ncuando me enfermé... De todas formas,\nme alegra tener noticias suyas."
     },
     "O/oHAQ": {
         "en-US": "[Euslan]\nOh, how fortunate! So Kaci\nknows where Thierry might be?\n^333333*Cough*^000000 Ah, he went to Hugel.\nI have a brother that lives\nthere, though it's been a while\nsince I've heard from him...",
-        "pt-BR": "[Euslan]\nOh, que sorte! Então Kaci\nsabe onde Thierry pode estar?\n^333333*Cof cof*^000000 Ah, ele foi para Hugel.\nEu tenho um irmão que mora\nlá, mas já faz um tempo\nque não tenho notícias dele…",
+        "pt-BR": "[Euslan]\nOh, que sorte! Então Kaci\nsabe onde Thierry pode estar?\n^333333*Cof cof*^000000 Ah, ele foi para Hugel.\nEu tenho um irmão que mora\nlá, mas já faz um tempo\nque não tenho notícias dele...",
         "es-ES": "[Euslan]\n¡Ah, qué suerte! ¿Así que ella\nsabe dónde puede estar Thierry?\n^333333*Cof*^000000 Ah, así que se fue a Hugel.\nTengo un hermano que vive allí,\naunque hace tiempo\nque no sé nada de él."
     },
     "PPoHAQ": {
         "en-US": "[Euslan]\nUm, if you don't mind, would\nyou please do another favor\nfor me? If you travel to Hugel,\nwould you find Thierry and tell\nthat I'm alright? He must be\nso worried about he by now...",
         "pt-BR": "[Euslan]\nHum, se você não se importa, poderia\npoderia fazer outro favor\npara mim? Se você viajar para Hugel,\npoderia encontrar Thierry e dizer\nque estou bem? Ele deve estar\nmuito preocupado com ele agora...",
-        "es-ES": "[Euslan]\nEh… Si no es mucho pedir,\n¿podrías hacerme\notro favor? Si viajas a Hugel,\n¿buscarías a Thierry para decirle\nque me encuentro bien? Debe de estar\nmuy preocupado por mí a estas alturas…"
+        "es-ES": "[Euslan]\nEh... Si no es mucho pedir,\n¿podrías hacerme\notro favor? Si viajas a Hugel,\n¿buscarías a Thierry para decirle\nque me encuentro bien? Debe de estar\nmuy preocupado por mí a estas alturas..."
     },
     "PfoHAQ": {
         "en-US": "[Euslan]\n^333333*Cough Cough*^000000 It might\nbe a good idea to ask my\nbrother Eukran, who's working\nas a Bingo game coordinator\nin Hugel, since he might know\nwhere Thierry is. ^333333*Cough*^000000",
@@ -177,7 +177,7 @@
     "Q/oHAQ": {
         "en-US": "[Euslan]\n*Sniff* I don't deserve\nsuch a wonderful man. Why\ndid that silly fool go through\nso much trouble for a useless\nwoman like me. *Cough* I still^FFFFFF    ^000000 don't understand it... I don't...",
         "pt-BR": "[Euslan]\n*Eu não mereço\num homem tão maravilhoso. Por que\npor que aquele tolo se deu ao trabalho\ntanto trabalho por uma mulher inútil\ninútil como eu. *Eu ainda não entendo. ^000000 não entendo isso... Não entendo...",
-        "es-ES": "[Euslan]\n*Solloza* No merezco\na un hombre tan maravilloso. ¡¿Por qué \nese tontito se tomaría\ntantas molestias solo por\nuna mujer inútil como yo…?! *Cof* Todavía^FFFFFF^000000 no lo entiendo… No lo…"
+        "es-ES": "[Euslan]\n*Solloza* No merezco\na un hombre tan maravilloso. ¡¿Por qué \nese tontito se tomaría\ntantas molestias solo por\nuna mujer inútil como yo...?! *Cof* Todavía^FFFFFF^000000 no lo entiendo... No lo..."
     },
     "RPoHAQ": {
         "en-US": "[Euslan]\nThank you so much for\nyour help, adventurer, and\nfor bringing me this medicine.\nI'll be waiting for Thierry to\ncome back home, and do my\nbest to get better. ^333333*Cough*^000000",
@@ -187,7 +187,7 @@
     "RfoHAQ": {
         "en-US": "[Euslan]\n{0}...\nI'll never forget what\nyou've done for Thierry and\nme. I'll always be praying for\nyour safety in your adventures.\nTake care of yourself...",
         "pt-BR": "[Euslan]\n{0}...\nNunca vou me esquecer do que\nvocê fez pelo Thierry e por mim.\npor mim. Sempre estarei rezando por\nsua segurança em suas aventuras.\nCuide de você...",
-        "es-ES": "[Euslan]\n{0}…\nNunca olvidaré lo que hiciste\npor Thierry y por\nmí. Rezaré siempre para que\nestés a salvo en tus aventuras.\nCuídate mucho."
+        "es-ES": "[Euslan]\n{0}...\nNunca olvidaré lo que hiciste\npor Thierry y por\nmí. Rezaré siempre para que\nestés a salvo en tus aventuras.\nCuídate mucho."
     },
     "RvoHAQ": {
         "en-US": "^3355FFEuslan is still waiting\nfor her fiancee to return\nhome, but she appears\nmuch more relieved and\nrelaxed than she used to be.^000000",
@@ -207,7 +207,7 @@
     "SfoHAQ": {
         "en-US": "[Arcade Owner]\nDo you want to meet Eukran who is the biggest star of Bingo Game??\nHum.. He is pretty famous so he is very busy...",
         "pt-BR": "[Proprietário do Arcade]\nVocê quer conhecer Eukran, que é a maior estrela do Bingo Game?\nHum... Ele é muito famoso, então está muito ocupado...",
-        "es-ES": "[Dueño de sala de juegos]\n¿Quieres conocer a Eukran, la gran estrella del bingo?\nMmm… Es bastante famoso, así que está muy ocupado…"
+        "es-ES": "[Dueño de sala de juegos]\n¿Quieres conocer a Eukran, la gran estrella del bingo?\nMmm... Es bastante famoso, así que está muy ocupado..."
     },
     "SvoHAQ": {
         "en-US": "[Arcade Owner]\nOh, well. I guess he also needs a break.\nI will show you the way.\nPlease follow me, and finish it quickly.",
@@ -277,7 +277,7 @@
     "V/oHAQ": {
         "en-US": "[Arcade Owner]\nIf you are the first to yell\nthe word, ''Bingo,'' you'll\nwin! But if someone beats you\nto it, then it can't be helped.\nAnyway, it costs 1,000 zeny\nto play each bingo game~",
         "pt-BR": "[Proprietário do Arcade]\nSe você for o primeiro a gritar\na palavra ''Bingo'', você\nganhará! Mas se alguém chegar antes de você\nnão há como evitar.\nDe qualquer forma, custa 1.000 Zeny\npara jogar cada jogo de bingo~",
-        "es-ES": "[Dueño de sala de juegos]\nSi eres la primera persona\nen gritar la palabra bingo, entonces…\n¡ganaste! Pero si alguien se te adelanta,\nno hay más que hacer.\nEn fin, cuesta 1000 zeny\njugar una partida de bingo."
+        "es-ES": "[Dueño de sala de juegos]\nSi eres la primera persona\nen gritar la palabra bingo, entonces...\n¡ganaste! Pero si alguien se te adelanta,\nno hay más que hacer.\nEn fin, cuesta 1000 zeny\njugar una partida de bingo."
     },
     "WPoHAQ": {
         "en-US": "[Arcade Owner]\nAh, if you want to join a\nbingo game, enter the right\ndoor. There must be at least\n5 people to play a game, so\nyou may need to wait until\nthat requirement is fulfilled.",
@@ -357,7 +357,7 @@
     "Z/oHAQ": {
         "en-US": "[Young Man]\nI'm telling you, this isn't\nlike the last project. There's\nno other way around it, it's\ngoing to take some time.\nYou just have to be patient...",
         "pt-BR": "[Jovem]\nEstou lhe dizendo, este não é\ncomo o último projeto. Não há\nnão há outra maneira de contornar isso, vai\nvai levar algum tempo.\nVocê só precisa ser paciente...",
-        "es-ES": "[Hombre Joven]\nInsisto en que esto no es\ncomo el último proyecto. No hay\nninguna otra manera de hacerlo;\nva a llevar tiempo.\nSolo tienes que ser paciente…"
+        "es-ES": "[Hombre Joven]\nInsisto en que esto no es\ncomo el último proyecto. No hay\nninguna otra manera de hacerlo;\nva a llevar tiempo.\nSolo tienes que ser paciente..."
     },
     "aPoHAQ": {
         "en-US": "[Suspicious Man]\nFine. That's fine by me.\nBut what about your fiancee?\nI know she's near death's door:\ncan you really afford to wait\nthis long? Think about it.",
@@ -377,7 +377,7 @@
     "a/oHAQ": {
         "en-US": "[Young Man]\n...I understand.",
         "pt-BR": "[Jovem]\n...eu entendo.",
-        "es-ES": "[Hombre Joven]\n… Entiendo."
+        "es-ES": "[Hombre Joven]\n... Entiendo."
     },
     "bPoHAQ": {
         "en-US": "^3355FFYou hear the sound of\nfootsteps steadily becoming\nfainter and fainter. One of the\nmen must be walking away.^000000",
@@ -402,7 +402,7 @@
     "cPoHAQ": {
         "en-US": "[Thierry]\n...?!\nH-how do you\nknow my name?\nDo I know you\nfrom somewhere?",
         "pt-BR": "[Thierry]\n...?!\nComo você\nsabe meu nome?\nEu conheço você\nde algum lugar?",
-        "es-ES": "[Thierry]\n¡¿…?!\n¿Có-cómo\nsabes mi nombre?\n¿Te conozco\nde algún lugar?"
+        "es-ES": "[Thierry]\n¡¿...?!\n¿Có-cómo\nsabes mi nombre?\n¿Te conozco\nde algún lugar?"
     },
     "cfoHAQ": {
         "en-US": "Tell him about Euslan",
@@ -422,7 +422,7 @@
     "dPoHAQ": {
         "en-US": "[Thierry]\nWell, um, I'm sorry.\nI can't really go into the\ndetails, but I'm doing this\nwork to find a cure for\nEuslan's disease. It's not\ncurable by modern medicine...",
         "pt-BR": "[Thierry]\nBem, sinto muito.\nNão posso entrar em detalhes\ndetalhes, mas estou fazendo este\ntrabalho para encontrar uma cura para a\ndoença de Euslan. Ela não é\ncurável pela medicina moderna...",
-        "es-ES": "[Thierry]\nBueno, eh… Lo siento…\nLa verdad es que no puedo entrar\nen detalles, pero estoy haciendo\neste trabajo para encontrar una cura para\nla enfermedad de Euslan. No puede curarse\ncon medicina moderna."
+        "es-ES": "[Thierry]\nBueno, eh... Lo siento...\nLa verdad es que no puedo entrar\nen detalles, pero estoy haciendo\neste trabajo para encontrar una cura para\nla enfermedad de Euslan. No puede curarse\ncon medicina moderna."
     },
     "dfoHAQ": {
         "en-US": "[Thierry]\nI can't tell you more\nthan that. Please just\ntrust me on this. In the\nmeantime, would you tell\nEuslan that I should be\ncoming home very soon?",
@@ -442,7 +442,7 @@
     "ePoHAQ": {
         "en-US": "[Thierry]\nWhat?! It's just what\nI thought! They were just\nusing me this whole time...!\nStill, I can't leave this\nplace just yet... I can't...",
         "pt-BR": "[Thierry]\nO quê?! É exatamente o que\nEu pensei! Eles estavam apenas\nme usando esse tempo todo...!\nAinda assim, não posso deixar este\nlugar ainda... Não posso...",
-        "es-ES": "[Thierry]\n¡¿Qué?! ¡Es justo lo que\npensaba! ¡Solo me han estado\nutilizando todo este tiempo!\nPese a eso, no puedo irme de este\nlugar todavía… No puedo…"
+        "es-ES": "[Thierry]\n¡¿Qué?! ¡Es justo lo que\npensaba! ¡Solo me han estado\nutilizando todo este tiempo!\nPese a eso, no puedo irme de este\nlugar todavía... No puedo..."
     },
     "efoHAQ": {
         "en-US": "[Thierry]\nI guess it all started when\nEuslan contracted that weird\ndisease. None of the doctors\nknew what it was, none of them\ncould do anything about it.\nIt was totally devastating...",
@@ -452,7 +452,7 @@
     "evoHAQ": {
         "en-US": "[Thierry]\nFinally, I took her to see\nMawong, who told us that he\nactually met someone that had\nthat disease, and that there\nwas a way for me to cure it.\nI had to take my chances...",
         "pt-BR": "[Thierry]\nFinalmente, eu a levei para ver\nMawong, que nos disse que\nrealmente conheceu alguém que tinha\nessa doença e que havia\nhavia uma maneira de curá-la.\nEu tinha que arriscar...",
-        "es-ES": "[Thierry]\nFinalmente, la llevé a ver\na Mawong, quien dijo\nque había conocido a alguien que tenía\nla misma enfermedad y que\nconocía una forma de curarla.\nTenía que arriesgarme…"
+        "es-ES": "[Thierry]\nFinalmente, la llevé a ver\na Mawong, quien dijo\nque había conocido a alguien que tenía\nla misma enfermedad y que\nconocía una forma de curarla.\nTenía que arriesgarme..."
     },
     "e/oHAQ": {
         "en-US": "[Thierry]\nMawong told me that the cure\nwas somewhere near the Odin\nShrine in Hugel. As you already\nknow, this place is incredibly\ndangerous. But I don't care.\nI'll do anything for Euslan.",
@@ -462,7 +462,7 @@
     "fPoHAQ": {
         "en-US": "[Thierry]\nOf course, I only told Euslan\nthat I'd be looking around the\nSchwartzwald Republic... If she\nknew I was at the Odin Shrine,\nshe'd worry too much about me.",
         "pt-BR": "[Thierry]\nClaro, eu só disse ao Euslan\nque eu estaria dando uma olhada na\nRepública de Schwartzwald... Se ela\nsoubesse que eu estava no Santuário de Odin,\nela se preocuparia demais comigo.",
-        "es-ES": "[Thierry]\nPor supuesto, a Euslan solo le dije\nque buscaría en la\nRepública de Schwarzwald… Si ella\nhubiera sabido que venía al santuario de Odín,\nse habría preocupado demasiado por mí."
+        "es-ES": "[Thierry]\nPor supuesto, a Euslan solo le dije\nque buscaría en la\nRepública de Schwarzwald... Si ella\nhubiera sabido que venía al santuario de Odín,\nse habría preocupado demasiado por mí."
     },
     "ffoHAQ": {
         "en-US": "[Thierry]\nOnce I got here, I didn't\nknow what to do, or what I was\neven looking for. Then, I ran\ninto these strange men, and\ntold them my story out of my\nfrustration over my situation.",
@@ -482,7 +482,7 @@
     "gPoHAQ": {
         "en-US": "[Thierry]\nLater, I overheard them\ntalking, and I learned that\nthey were really Rekenber\nCorporation agents. Their\nproject had nothing to do\nwith medicine or my Euslan...",
         "pt-BR": "[Thierry]\nMais tarde, eu os ouvi conversando\nconversando e fiquei sabendo que\neles eram realmente agentes da Rekenber\nCorporation. Seu\nprojeto não tinha nada a ver\ncom a medicina ou com meu Euslan...",
-        "es-ES": "[Thierry]\nMás tarde, los escuché \nhablando y me enteré de que\nen realidad eran agentes de la\nCorporación Rekenber. Su\nproyecto no tenía nada que ver\ncon medicina ni con mi Euslan…"
+        "es-ES": "[Thierry]\nMás tarde, los escuché \nhablando y me enteré de que\nen realidad eran agentes de la\nCorporación Rekenber. Su\nproyecto no tenía nada que ver\ncon medicina ni con mi Euslan..."
     },
     "gfoHAQ": {
         "en-US": "[Thierry]\nTheir true goal is to improve\ntheir guardian technology by\nfinding the remains of some\ngiant beneath the Odin Shrine.\nStill, working with them gave\nme access to so many resources.",
@@ -512,17 +512,17 @@
     "hvoHAQ": {
         "en-US": "[Thierry]\nI understand that gathering\nmaterials here in the Odin\nShrine is difficult, but try to\nget me ^3355FF5 Runes of the Darkness^000000\nas soon as you can. My Euslan\nreally needs that medicine...",
         "pt-BR": "[Thierry]\nEntendo que a coleta de\nmateriais aqui no Santuário de Odin\né difícil, mas tente\nme trazer ^3355FF5 Runas da Escuridão^000000\no mais rápido possível. Meu Euslan\nrealmente precisa desse remédio...",
-        "es-ES": "[Thierry]\nSé que reunir\nmateriales aquí en el santuario\nde Odín es difícil, pero intenta\nconseguirme ^3355FF5 Runas de la oscuridad^000000\nlo antes posible. Mi Euslan\nnecesita esa medicina con urgencia…"
+        "es-ES": "[Thierry]\nSé que reunir\nmateriales aquí en el santuario\nde Odín es difícil, pero intenta\nconseguirme ^3355FF5 Runas de la oscuridad^000000\nlo antes posible. Mi Euslan\nnecesita esa medicina con urgencia..."
     },
     "h/oHAQ": {
         "en-US": "[Thierry]\nOh! You really brought me\nthe Runes of the Darkness!\nI can finally make the medicine\nthat will save my dear Euslan.\nI... I can't thank you enough\nfor this. I'm so happy...",
         "pt-BR": "[Oh!]\nOh! Você realmente me trouxe\nas Runas da Escuridão!\nFinalmente posso fazer o remédio\nque salvará meu querido Euslan.\nI... Não sei como lhe agradecer\npor isso. Estou tão feliz...",
-        "es-ES": "[Thierry]\n¡Ah! ¡De verdad me trajiste\nlas Runas de la oscuridad!\nPor fin puedo hacer la medicina\nque salvará la vida de mi querida Euslan.\nYo… No tengo palabras para agradecerte\nlo que hiciste. Estoy tan feliz…"
+        "es-ES": "[Thierry]\n¡Ah! ¡De verdad me trajiste\nlas Runas de la oscuridad!\nPor fin puedo hacer la medicina\nque salvará la vida de mi querida Euslan.\nYo... No tengo palabras para agradecerte\nlo que hiciste. Estoy tan feliz..."
     },
     "iPoHAQ": {
         "en-US": "[Thierry]\nPlease give me a moment:\nI want to make this right\naway. Let's see, ah, here\nare my research notes...",
         "pt-BR": "[Thierry]\nPor favor, me dê um momento:\nQuero fazer isso logo\nde uma vez. Vamos ver, ah, aqui\nestão minhas anotações de pesquisa...",
-        "es-ES": "[Thierry]\nDame un momento.\nQuiero hacer esto ahora\nmismo. Eh, veamos… Aquí \nestán mis notas de investigación…"
+        "es-ES": "[Thierry]\nDame un momento.\nQuiero hacer esto ahora\nmismo. Eh, veamos... Aquí \nestán mis notas de investigación..."
     },
     "ifoHAQ": {
         "en-US": "......\n.........\n............",
@@ -552,12 +552,12 @@
     "jvoHAQ": {
         "en-US": "[Researcher]\nI'm sorry, Euslan...\nPlease just wait for\nme a little while longer.\nI swear I'll come home to you!",
         "pt-BR": "[Pesquisador]\nMe desculpe, Euslan...\nPor favor, espere por mim\npor mim um pouco mais.\nJuro que voltarei para casa para você!",
-        "es-ES": "[Investigador]\nLo siento, Euslan…\nPor favor, espérame\nsolo un poco más.\n¡Juro que volveré a casa contigo!"
+        "es-ES": "[Investigador]\nLo siento, Euslan...\nPor favor, espérame\nsolo un poco más.\n¡Juro que volveré a casa contigo!"
     },
     "j/oHAQ": {
         "en-US": "^3355FFYou hear the voice of\nthe suspicious man that\nwas speaking to Thierry\na little while ago. You\ncarefully listen to what\nhe is saying...^000000",
         "pt-BR": "^3355FFVocês ouvem a voz do\no homem suspeito que\nestava falando com Thierry\nhá pouco tempo. Você\nouve atentamente o que ele\nele está dizendo...^000000",
-        "es-ES": "^3355FFOyes la voz del\nhombre sospechoso que\nhablaba con Thierry\nhace poco. Escuchas\ncon atención lo que\nestá diciendo…^000000"
+        "es-ES": "^3355FFOyes la voz del\nhombre sospechoso que\nhablaba con Thierry\nhace poco. Escuchas\ncon atención lo que\nestá diciendo...^000000"
     },
     "kPoHAQ": {
         "en-US": "[Suspicious Man]\nThierry seems to have\ncaught on to what we're\nreally up to. I think that's why^FFFFFF  ^000000 he's slowing down on his\nresearch. We better get rid\nof him before it's too late.",

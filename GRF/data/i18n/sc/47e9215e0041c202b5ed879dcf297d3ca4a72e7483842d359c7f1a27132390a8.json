@@ -117,7 +117,7 @@
     "F4LeCA": {
         "en-US": "[Novice Collector]\n... \nWhat are you doing?",
         "pt-BR": "[Colecionadora]\n... O que você está fazendo?",
-        "es-ES": "[Coleccionista Novato]\n… \n¿Qué estás haciendo?"
+        "es-ES": "[Coleccionista Novato]\n... \n¿Qué estás haciendo?"
     },
     "GILeCA": {
         "en-US": "Accelerator",
@@ -737,7 +737,7 @@
     "k4LeCA": {
         "en-US": "[Novice Collector]\nOh, no... \nI've failed you! \nI'm sorry, but I can't recover it.",
         "pt-BR": "[Colecionadora]\nAlgo deu errado...",
-        "es-ES": "[Coleccionista Novato]\nAy, no… \n¡Te fallé! \nLo siento, pero no puedo recuperarlo."
+        "es-ES": "[Coleccionista Novato]\nAy, no... \n¡Te fallé! \nLo siento, pero no puedo recuperarlo."
     },
     "lILeCA": {
         "en-US": "[Novice Collector]\nYou didn't choose the right task. \nPlease start over.",
@@ -797,7 +797,7 @@
     "n4LeCA": {
         "en-US": "[Suspicious Man]\nIn ancient times, there were three guardians who guarded a certain king. \nThey're no longer recorded, but...",
         "pt-BR": "[Homem Suspeito]\nNos tempos antigos, haviam três Guardiões que apoiavam um certo monarca. Embora eles não existam nos registros de hoje...",
-        "es-ES": "[Hombre Sospechoso]\nEn la antigüedad, había tres guardianes al lado del Rey. \nAhora mismo no es oficial, pero…"
+        "es-ES": "[Hombre Sospechoso]\nEn la antigüedad, había tres guardianes al lado del Rey. \nAhora mismo no es oficial, pero..."
     },
     "oILeCA": {
         "en-US": "[Suspicious Man]\nThe ring they kept as a mark of their king's protection was that King's Guardian Ring.",
@@ -827,7 +827,7 @@
     "pYLeCA": {
         "en-US": "[Suspicious Man]\nAnyway, I'm glad you met the one the ring has chosen...",
         "pt-BR": "[Homem Suspeito]\nEnfim, é um prazer conhecer quem o Anel escolheu...",
-        "es-ES": "[Hombre Sospechoso]\nEn fin, me alegra que el anillo haya encontrado a la persona elegida…"
+        "es-ES": "[Hombre Sospechoso]\nEn fin, me alegra que el anillo haya encontrado a la persona elegida..."
     },
     "poLeCA": {
         "en-US": "[Suspicious Man]\nPlease equip the ring in the right accessory slot. \nI can't fully utilize my power anywhere else.",
@@ -837,7 +837,7 @@
     "p4LeCA": {
         "en-US": "[Suspicious Man]\n...\nWhat are you doing?",
         "pt-BR": "[Homem Suspeito]\n... O que você está fazendo?",
-        "es-ES": "[Hombre Sospechoso]\n… \n¿Qué haces?"
+        "es-ES": "[Hombre Sospechoso]\n... \n¿Qué haces?"
     },
     "qILeCA": {
         "en-US": "King's Guardian Ring",
@@ -862,7 +862,7 @@
     "rILeCA": {
         "en-US": "Thinking again",
         "pt-BR": "Me dê um tempo",
-        "es-ES": "Un segundo…"
+        "es-ES": "Un segundo..."
     },
     "rYLeCA": {
         "en-US": "Physical Effect",
@@ -947,7 +947,7 @@
     "vYLeCA": {
         "en-US": "[Suspicious Man]\nOh, the power shift seems to have been too extreme. \nSometimes things like this can go wrong.",
         "pt-BR": "[Homem Suspeito]\nOh... aparentemente o Anel não escolheu você.",
-        "es-ES": "[Hombre Sospechoso]\nMmm… ¿Quizá requería más fuerza? \nPor desgracia, estas cosas pasan."
+        "es-ES": "[Hombre Sospechoso]\nMmm... ¿Quizá requería más fuerza? \nPor desgracia, estas cosas pasan."
     },
     "voLeCA": {
         "en-US": "[Suspicious Man]\nWould you mind telling me exactly what you want to do?",

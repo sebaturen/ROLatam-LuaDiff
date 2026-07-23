@@ -10,23 +10,23 @@
         "es-ES": "No puedes continuar la misión porque llevas demasiados objetos.\nOrdena tus objetos y vuelve a intentarlo."
     },
     "IiYMDQ": {
-        "en-US": "[Elly]\nHello, guest.\nI am Eli, in charge of airship route information.\nPlease feel free to call me Eli.",
+        "en-US": "[Elly]\nHello, guest.\nI am Elly, in charge of airship route information.\nPlease feel free to call me Elly.",
         "pt-BR": "[Elly]\nOlá, visitante.\nSou Elly, responsável pelas informações de rota do Porto do Aeroplano.\nPode me chamar apenas de Elly.",
         "es-ES": "[Elly]\nHola, visitante.\nSoy Elly, encargada de la información de rutas del dirigible.\nPuedes llamarme Elly, sin problema."
     },
     "IyYMDQ": {
         "en-US": "[Elly]\nAfter Master closed this place down, there was no need to use the airship, so I worked on other tasks for a while as well...",
-        "pt-BR": "[Elly]\nDepois que o mestre fechou este local, não houve mais uso do Porto do Aeroplano, então trabalhei em outras funções por um tempo...",
+        "pt-BR": "[Elly]\nDepois que o mestre fechou este local, não havia mais utilidade para o aeroplano, por isso trabalhei em outras atividades por um tempo...",
         "es-ES": "[Elly]\nDespués de que mi amo cerrara este lugar, no hubo necesidad de usar el dirigible, así que yo también me dediqué a otras tareas durante un tiempo..."
     },
     "JCYMDQ": {
-        "en-US": "[Elly]\nNow I have returned at Alpha's request.\nPlease leave all matters related to the airship to me, Eli.",
-        "pt-BR": "[Elly]\nAgora retornei a pedido de Alpha.\nAssuntos relacionados a este local podem ser resolvidos comigo, Elly.",
+        "en-US": "[Elly]\nNow I have returned at Alpha's request.\nPlease leave all matters related to the airship to me, Elly.",
+        "pt-BR": "[Elly]\nAgora retornei a pedido de Alpha.\nAssuntos relacionados ao aeroplano podem ser resolvidos comigo, Elly.",
         "es-ES": "[Elly]\nAhora he regresado por petición de Alpha.\nDéjame a mí, Elly, todo lo relacionado con el dirigible."
     },
     "JSYMDQ": {
         "en-US": "[Elly]\nTo think I would return because of the unprecedented incident of an airship theft... It feels as though my core is spinning 720 degrees.",
-        "pt-BR": "[Elly]\nJamais imaginei retornar por conta do roubo do aeroplano. Sinto como se meu núcleo tivesse girado 720 graus.",
+        "pt-BR": "[Elly]\nJamais imaginei que retornaria por conta do roubo do aeroplano. Sinto como se meu núcleo tivesse girado 720 graus.",
         "es-ES": "[Elly]\nJamás habría imaginado que volvería al servicio por un caso sin precedentes como el robo de un dirigible. Siento como si mi núcleo girara 720 grados."
     },
     "JiYMDQ": {
@@ -36,17 +36,17 @@
     },
     "JyYMDQ": {
         "en-US": "[Elly]\nIn any case, those who serve as the heads of the mansion's 'intruders' arbitrarily moved our Master's Collection No. 3 ....\nAnd I was called back to this position where rest time is not guaranteed.",
-        "pt-BR": "[Elly]\nDe qualquer forma, aqueles que lideram os 'invasores' moveram arbitrariamente a Coleção nº 3 do nosso mestre...\nE eu fui chamada de volta a este posto sem garantia de descanso.",
+        "pt-BR": "[Elly]\nDe qualquer forma, aqueles considerados líderes dos 'invasores' moveram arbitrariamente a Coleção nº 3 do nosso mestre...\nE eu fui chamada de volta a este posto em que não há descanso.",
         "es-ES": "[Elly]\nEn cualquier caso, los cabecillas de los 'intrusos' de la mansión pusieron en marcha por su cuenta la colección número 3 de mi amo....\nY a mí me llamaron otra vez a este puesto, donde no se garantiza tiempo de descanso."
     },
     "KCYMDQ": {
         "en-US": "[Elly]\nAfter receiving the report on the incident, I have been tracing the projected route up to now.\nHowever, tracking is not easy because No. 3's main system is operating in a completely separated state.",
-        "pt-BR": "[Elly]\nApós receber o relatório do incidente, estou rastreando as rotas previstas até agora.\nContudo, como o sistema principal da nº 3 está operando completamente separado, o rastreamento não é fácil.",
+        "pt-BR": "[Elly]\nApós receber o relatório do incidente, estive rastreando as rotas projetadas até agora.\nContudo, como o sistema principal da nº 3 está operando de forma independente, o rastreamento não está sendo fácil.",
         "es-ES": "[Elly]\nTras recibir el informe del incidente, he estado rastreando la ruta estimada hasta ahora.\nSin embargo, no es fácil seguirle la pista, ya que el sistema principal de la unidad 3 está funcionando completamente separado."
     },
     "KSYMDQ": {
         "en-US": "[Elly]\nIt is highly likely, with a probability close to 99.9%, that the leaders of the 'intruders' whom the 'guest' calls 'Illusion' remodeled it as they pleased.",
-        "pt-BR": "[Elly]\nHá 99,9% de probabilidade de que o líder da Ilusión, tenha modificado arbitrariamente o sistema.",
+        "pt-BR": "[Elly]\nHá 99,9% de chance de que o líder da Ilusión tenha modificado arbitrariamente o sistema.",
         "es-ES": "[Elly]\nParece que existe una probabilidad cercana al 99,9 % de que los cabecillas de los 'intrusos', a quienes usted llama 'Illusion', la hayan modificado a su antojo."
     },
     "KiYMDQ": {
@@ -56,7 +56,7 @@
     },
     "KyYMDQ": {
         "en-US": "[Est]\nOh, right. Have you found anything?\nYou have been working hard since last night.",
-        "pt-BR": "[Est]\nOh, sim. Algum progresso?\nVocê trabalhou muito desde a noite passada.",
+        "pt-BR": "[Est]\nOh, sim. Algum progresso?\nVocê está trabalhando bastante desde a noite passada.",
         "es-ES": "[Est]\nEh, sí. Entonces, ¿has sacado algo en claro?\nLlevas trabajando desde anoche."
     },
     "LCYMDQ": {

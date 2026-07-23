@@ -72,7 +72,7 @@
     "DpYcDA": {
         "en-US": "Varmunt: It's your imagination. Well, let's set aside the complicated stuff and proceed quickly. We'll do the proper story in the official dungeon...",
         "pt-BR": "Varmunt: É sua imaginação. Vamos prosseguir com a história...",
-        "es-ES": "Varmunt: Es tu imaginación. Bueno, avancemos rápido. La historia principal la haremos en la mazmorra oficial…"
+        "es-ES": "Varmunt: Es tu imaginación. Bueno, avancemos rápido. La historia principal la haremos en la mazmorra oficial..."
     },
     "D5YcDA": {
         "en-US": "Heinrich: (That sounded like a dangerous statement just now...)",
@@ -180,13 +180,13 @@
         "es-ES": "[Varmunt]\nParece que estoy viendo la misma historia otra vez..."
     },
     "JJYcDA": {
-        "en-US": "Gerhardt",
-        "pt-BR": "Gerhardt",
+        "en-US": "Gerhold",
+        "pt-BR": "Gerhold",
         "es-ES": "Gerhardt"
     },
     "JZYcDA": {
-        "en-US": "[Gerhardt]\nUghhh... Grrrk! Take the Commander and... run away quickly.",
-        "pt-BR": "[Gerhardt]\nUghhh... Grrr! Levem o Comandante e... fujam rapidamente.",
+        "en-US": "[Gerhold]\nUghhh... Grrrk! Take the Commander and... run away quickly.",
+        "pt-BR": "[Gerhold]\nUghhh... Grrr! Levem o Comandante e... fujam rapidamente.",
         "es-ES": "[Gerhardt]\nUghhh... ¡Grrrk! Llévense al Comandante y... huyan rápidamente."
     },
     "JpYcDA": {
@@ -200,18 +200,18 @@
         "es-ES": "Himmelmez: Impresionante~ Pensé que ni siquiera te acercarías y que se acabaría..."
     },
     "KJYcDA": {
-        "en-US": "Gerhardt: Grrrk! Run away! I can't hold on any longer!",
-        "pt-BR": "Gerhardt: Grrr! Fujam! Não consigo me segurar por mais tempo!",
+        "en-US": "Gerhold: Grrrk! Run away! I can't hold on any longer!",
+        "pt-BR": "Gerhold: Grrr! Fujam! Não consigo me segurar por mais tempo!",
         "es-ES": "Gerhardt: ¡Grrrk! ¡Huyan! ¡No puedo contenerme más!"
     },
     "KZYcDA": {
-        "en-US": "Heinrich: Gerhardt!",
-        "pt-BR": "Heinrich: Gerhardt!",
+        "en-US": "Heinrich: Gerhold!",
+        "pt-BR": "Heinrich: Gerhold!",
         "es-ES": "Heinrich: ¡Gerhardt!"
     },
     "KpYcDA": {
-        "en-US": "Gerhardt: Commander... sir... You must... escape from this place... Grk",
-        "pt-BR": "Gerhardt: Comandante... senhor... Vocês devem... escapar deste lugar... Gr!",
+        "en-US": "Gerhold: Commander... sir... You must... escape from this place... Grk",
+        "pt-BR": "Gerhold: Comandante... senhor... Vocês devem... escapar deste lugar... Gr!",
         "es-ES": "Gerhardt: Comandante... señor... Debe... escapar de este lugar... Grk"
     },
     "K5YcDA": {
@@ -226,18 +226,18 @@
     },
     "LZYcDA": {
         "en-US": "Himmelmez: It would have been faster if not for that guy's interference.",
-        "pt-BR": "Himmelmez: Teria sido mais rápido se não fosse pela interferência de Gerhardt.",
+        "pt-BR": "Himmelmez: Teria sido mais rápido se não fosse pela interferência de Gerhold.",
         "es-ES": "Himmelmez: Habría sido más rápido si no fuera por la interferencia de ese tipo."
     },
     "LpYcDA": {
-        "en-US": "Gerhardt: You may defile my body, but you cannot take my soul, Himmelmez!",
-        "pt-BR": "Gerhardt: Você pode profanar meu corpo, mas não pode tomar minha alma, Himmelmez!",
+        "en-US": "Gerhold: You may defile my body, but you cannot take my soul, Himmelmez!",
+        "pt-BR": "Gerhold: Você pode profanar meu corpo, mas não pode tomar minha alma, Himmelmez!",
         "es-ES": "Gerhardt: ¡Puedes profanar mi cuerpo, pero no puedes tomar mi alma, Himmelmez!"
     },
     "L5YcDA": {
         "en-US": "Himmelmez: Is that so? Well, when it comes to boasting, there's no difference between the king and the soldiers in this town...",
         "pt-BR": "Himmelmez: É mesmo? Bem, eu adoro uma profanação...",
-        "es-ES": "Himmelmez: ¿Ah, sí? Bueno, cuando se trata de presumir, no hay diferencia entre el rey y los soldados de este pueblo…"
+        "es-ES": "Himmelmez: ¿Ah, sí? Bueno, cuando se trata de presumir, no hay diferencia entre el rey y los soldados de este pueblo..."
     },
     "MJYcDA": {
         "en-US": "Heinrich: Himmelmez! If you've achieved your goal, there's no need for further sacrifices!",
@@ -246,7 +246,7 @@
     },
     "MZYcDA": {
         "en-US": "Heinrich: Let him go! I don't want any more sacrifices!",
-        "pt-BR": "Heinrich: Solte-o! Deixe Gerhardt vivo!",
+        "pt-BR": "Heinrich: Solte-o! Deixe Gerhold vivo!",
         "es-ES": "Heinrich: ¡Déjalo ir! ¡No quiero más sacrificios!"
     },
     "MpYcDA": {
@@ -286,7 +286,7 @@
     },
     "OZYcDA": {
         "en-US": "Himmelmez: Well then. Now, have a chat with your new subordinate.",
-        "pt-BR": "Himmelmez: Bom, vou indo. Diga olá para o novo Gerhardt.",
+        "pt-BR": "Himmelmez: Bom, vou indo. Diga olá para o novo Gerhold.",
         "es-ES": "Himmelmez: Bueno, me voy. Saluden al nuevo Gerhardt."
     },
     "OpYcDA": {
@@ -295,8 +295,8 @@
         "es-ES": "Heinrich: ¡¿Crees que te dejaré escapar, Himmelmez?!"
     },
     "O5YcDA": {
-        "en-US": "Varmunt: Oh no, there's no choice. We must stop Gerhardt with our remaining strength alone!",
-        "pt-BR": "Varmunt: Não temos escolha. Devemos atacar o novo Gerhardt!",
+        "en-US": "Varmunt: Oh no, there's no choice. We must stop Gerhold with our remaining strength alone!",
+        "pt-BR": "Varmunt: Não temos escolha. Devemos atacar o novo Gerhold!",
         "es-ES": "Varmunt: Oh no, no hay opción. ¡Debemos detener a Gerhardt con nuestra fuerza restante!"
     },
     "PJYcDA": {
@@ -310,7 +310,7 @@
         "es-ES": "Fantasma de Varmunt"
     },
     "PpYcDA": {
-        "en-US": "Varmunt's Phantom: Gerhardt seems to be casting a powerful magic field! Come near me to receive a protective shield!",
+        "en-US": "Varmunt's Phantom: Gerhold seems to be casting a powerful magic field! Come near me to receive a protective shield!",
         "pt-BR": "Fantasma de Varmunt: Venha aqui receber um escudo!",
         "es-ES": "Fantasma de Varmunt: ¡Parece que Gerhardt está lanzando un poderoso campo mágico! ¡Acércate a mí para recibir un escudo protector!"
     },
@@ -320,18 +320,18 @@
         "es-ES": "Fantasma de Varmunt: ¡Ahora es la oportunidad de atacar! ¡Acércate a mí para recibir poder mejorado!"
     },
     "QJYcDA": {
-        "en-US": "Varmunt's Phantom: Before you fall victim to Gerhardt's summons, quickly come near me to receive enhanced power!",
+        "en-US": "Varmunt's Phantom: Before you fall victim to Gerhold's summons, quickly come near me to receive enhanced power!",
         "pt-BR": "Fantasma de Varmunt: Venha aqui ganhar mais cura!",
         "es-ES": "Fantasma de Varmunt: ¡Antes de que caigas víctima de las invocaciones de Gerhardt, acércate rápidamente a mí para recibir poder mejorado!"
     },
     "QZYcDA": {
-        "en-US": "Varmunt's Phantom: If you don't want to fall to Gerhardt's power, come near me to receive strength!",
+        "en-US": "Varmunt's Phantom: If you don't want to fall to Gerhold's power, come near me to receive strength!",
         "pt-BR": "Fantasma de Varmunt: Venha aqui para ganhar mais força!",
         "es-ES": "Fantasma de Varmunt: ¡Si no quieres caer ante el poder de Gerhardt, acércate a mí para recibir fuerza!"
     },
     "QpYcDA": {
-        "en-US": "Resurrected Gerhardt",
-        "pt-BR": "Gerhardt Feio",
+        "en-US": "Resurrected Gerhold",
+        "pt-BR": "Gerhold Feio",
         "es-ES": "Gerhardt Resucitado"
     },
     "Q5YcDA": {
@@ -360,13 +360,13 @@
         "es-ES": "¡Destrucción... Muerte!..."
     },
     "SJYcDA": {
-        "en-US": "Varmunt's Shout: Gerhardt is returning to his spot. He has recovered all his health too. Don't lure him to the outskirts!",
-        "pt-BR": "Grito de Varmunt: Gerhardt está voltando para o seu lugar. Ele recuperou toda a vida. Não o atraiam para as áreas externas!",
+        "en-US": "Varmunt's Shout: Gerhold is returning to his spot. He has recovered all his health too. Don't lure him to the outskirts!",
+        "pt-BR": "Grito de Varmunt: Gerhold está voltando para o seu lugar. Ele recuperou toda a vida. Não o atraiam para as áreas externas!",
         "es-ES": "Grito de Varmunt: ¡Gerhardt está volviendo a su lugar! ¡También ha recuperado toda su salud! ¡No lo atraigan hacia las áreas externas!"
     },
     "SZYcDA": {
-        "en-US": "Resurrected Gerhardt HP reached {0}%!",
-        "pt-BR": "HP do Gerhardt Feio está em {0}%!",
+        "en-US": "Resurrected Gerhold HP reached {0}%!",
+        "pt-BR": "HP do Gerhold Feio está em {0}%!",
         "es-ES": "¡HP de Gerhardt Resucitado alcanzó el {0}%!"
     },
     "SpYcDA": {
@@ -385,8 +385,8 @@
         "es-ES": "#Oscuro{0}"
     },
     "TZYcDA": {
-        "en-US": "Gerhardt's body is transforming.",
-        "pt-BR": "O corpo de Gerhardt está ficando feio.",
+        "en-US": "Gerhold's body is transforming.",
+        "pt-BR": "O corpo de Gerhold está ficando feio.",
         "es-ES": "El cuerpo de Gerhardt se está transformando."
     },
     "TpYcDA": {

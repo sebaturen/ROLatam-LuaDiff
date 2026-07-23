@@ -37,7 +37,7 @@
     "x+6pBg": {
         "en-US": "If you wish to join us, you must first learn the Swordsman discipline and train yourself thoroughly...",
         "pt-BR": "Se quiser se juntar a nós, precisa primeiro aprender a disciplina dos Espadachins e treinar muito...",
-        "es-ES": "Si deseas unirte a nosotros, primero debes aprender la disciplina de la clase Espadachín y entrenar exhaustivamente…"
+        "es-ES": "Si deseas unirte a nosotros, primero debes aprender la disciplina de la clase Espadachín y entrenar exhaustivamente..."
     },
     "yO6pBg": {
         "en-US": "As it happened one thousand years ago, evil forces will one day attacking in droves in an attempt to take over the world once again.",
@@ -62,7 +62,7 @@
     "zO6pBg": {
         "en-US": "You wish to become\na Crusader...?\nJoining us is not as\neasy as it sounds.",
         "pt-BR": "Quer se juntar\naos Templários...?\nJuntar-se a nós não é tão\nfácil quanto parece.",
-        "es-ES": "¿Quieres ser parte de\nlos Cruzados…?\nUnirse a nosotros no es\ntan fácil como parece."
+        "es-ES": "¿Quieres ser parte de\nlos Cruzados...?\nUnirse a nosotros no es\ntan fácil como parece."
     },
     "ze6pBg": {
         "en-US": "I am Michael Halig. I am one of but many Crusaders preparing for the Holy War. We continuously train ourselves with sincere faith and endless loyalty.",
@@ -102,7 +102,7 @@
     "1O6pBg": {
         "en-US": "Wait...\nYou're not ready yet.",
         "pt-BR": "Espere...\nVocê não cumpre os requisitos ainda.",
-        "es-ES": "Espera…\nAún te falta preparación."
+        "es-ES": "Espera...\nAún te falta preparación."
     },
     "1e6pBg": {
         "en-US": "You need to be at least\nJob Level 40 to become\na Crusader.",
@@ -122,17 +122,17 @@
     "2O6pBg": {
         "en-US": "Then...\nI shall test you to see if you are fit to become a Crusader.",
         "pt-BR": "Então...\nTestarei você para saber se poderá se juntar aos Templários.",
-        "es-ES": "Entonces…\nTe pondré a prueba para ver si tienes lo necesario para ser de la clase Cruzado."
+        "es-ES": "Entonces...\nTe pondré a prueba para ver si tienes lo necesario para ser de la clase Cruzado."
     },
     "2e6pBg": {
         "en-US": "[Michael Halig]\nYour name is\n{0}...?\nLet's see...",
         "pt-BR": "[Michael Halig]\nSeu nome...\né {0}?\nVejamos...",
-        "es-ES": "[Michael Halig]\n¿Tu nombre es\n{0}…?\nVeamos…"
+        "es-ES": "[Michael Halig]\n¿Tu nombre es\n{0}...?\nVeamos..."
     },
     "2u6pBg": {
         "en-US": "Ah...\nI see that you have been called to become a Crusader. We are assured of your will, but now we must test your capabilities.",
         "pt-BR": "Ah...\nVejo que foi pode se juntar aos Templários. Temos certeza da sua vontade, mas agora precisamos testar sua capacidade.",
-        "es-ES": "Ah…\nVeo que sientes la vocación de ser de la clase Cruzado. Estamos seguros de tu voluntad, pero ahora debemos poner a prueba tus capacidades."
+        "es-ES": "Ah...\nVeo que sientes la vocación de ser de la clase Cruzado. Estamos seguros de tu voluntad, pero ahora debemos poner a prueba tus capacidades."
     },
     "2+6pBg": {
         "en-US": "Meet with Moorenak Miyol who is training in the underground dungeon of the Prontera Castle. Go, and speak with him first.",
@@ -142,7 +142,7 @@
     "3O6pBg": {
         "en-US": "Moorenak and others like him will test the limits of your capabilities and help you find your path. Return to me after you have completed their tests...",
         "pt-BR": "Murnak Mijoul e outros como ele testarão os limites da sua capacidade e ajudarão você a encontrar o seu caminho. Volte aqui após concluir os testes deles...",
-        "es-ES": "Murnak y otros como él pondrán a prueba los límites de tus capacidades y te ayudarán a encontrar tu camino. Vuelve aquí después de completar sus pruebas…"
+        "es-ES": "Murnak y otros como él pondrán a prueba los límites de tus capacidades y te ayudarán a encontrar tu camino. Vuelve aquí después de completar sus pruebas..."
     },
     "3e6pBg": {
         "en-US": "Mmm. I can't discern whether or not you have the heart to become a Crusader. However, if you have the will and put forth the effort, you may have what it takes.",
@@ -152,7 +152,7 @@
     "3u6pBg": {
         "en-US": "[Michael Halig]\nNow...\nThis is my test for you. Bring me the following items and prove your determination to me.",
         "pt-BR": "[Michael Halig]\nAgora...\nEste é o meu teste para você. Traga-me os itens a seguir e prove a sua determinação.",
-        "es-ES": "[Michael Halig]\nAhora…\nEsta es la prueba que te daré. Tráeme los siguientes objetos y demuestra tu determinación."
+        "es-ES": "[Michael Halig]\nAhora...\nEsta es la prueba que te daré. Tráeme los siguientes objetos y demuestra tu determinación."
     },
     "3+6pBg": {
         "en-US": "^3355FF10 Decayed Nail^000000,",
@@ -257,7 +257,7 @@
     "8+6pBg": {
         "en-US": "Ah, you still have not completed the task I have given to you. Bring me the following items, and prove your will to become a Crusader to me...",
         "pt-BR": "Ah, você ainda não concluiu a tarefa que lhe dei. Traga-me os seguintes itens e prove sua vontade de se juntar aos Templários...",
-        "es-ES": "Ah, aún no completaste la tarea que te encomendé. Tráeme los siguientes objetos y demuestra tu voluntad de ser de la clase Cruzado…"
+        "es-ES": "Ah, aún no completaste la tarea que te encomendé. Tráeme los siguientes objetos y demuestra tu voluntad de ser de la clase Cruzado..."
     },
     "9O6pBg": {
         "en-US": "If you put forth the effort, you'll be able to accomplish this task. May Odin protect you on your journeys.",
@@ -267,7 +267,7 @@
     "9e6pBg": {
         "en-US": "Please get off of that creature you're riding on\nthen come to find me again...",
         "pt-BR": "Por favor, remova sua montaria\ne depois venha me encontrar novamente...",
-        "es-ES": "Bájate de la criatura que estás montando\ny ven a buscarme nuevamente…"
+        "es-ES": "Bájate de la criatura que estás montando\ny ven a buscarme nuevamente..."
     },
     "9u6pBg": {
         "en-US": "Congratulations on completing all of your tests. You are truly worthy of fighting alongside side us in the Holy War as a Crusader.",
@@ -282,7 +282,7 @@
     "+O6pBg": {
         "en-US": "Behold...!\nYou are now a Crusader!\nWhen the Holy War comes, we shall fight side by side against the forces of evil.",
         "pt-BR": "Contemple...!\nAgora, você é um dos Templários!\nQuando a Guerra Santa chegar, lutaremos lado a lado contra as forças do mal.",
-        "es-ES": "¡Hete aquí…!\n¡Ya eres de la clase Cruzado!\nCuando llegue la guerra santa, lucharemos codo a codo contra las fuerzas del mal."
+        "es-ES": "¡Hete aquí...!\n¡Ya eres de la clase Cruzado!\nCuando llegue la guerra santa, lucharemos codo a codo contra las fuerzas del mal."
     },
     "+e6pBg": {
         "en-US": "[Michael Halig]\nNow you are\none of us!",
@@ -292,12 +292,12 @@
     "+u6pBg": {
         "en-US": "...Brother.",
         "pt-BR": "...Irmão.",
-        "es-ES": "…Hermano."
+        "es-ES": "...Hermano."
     },
     "++6pBg": {
         "en-US": "...Comrade.",
         "pt-BR": "...Irmã.",
-        "es-ES": "…Camarada."
+        "es-ES": "...Camarada."
     },
     "/O6pBg": {
         "en-US": "And use this in times of dire peril. It will give you strength when your wounds are most grievous.",
@@ -312,7 +312,7 @@
     "/u6pBg": {
         "en-US": "Behold...!\nYou are now a Crusader!\nWhen the Holy War comes, we shall fight side by side against the forces of evil. Now you are one of us!",
         "pt-BR": "Contemple...!\nAgora, você é um dos Templários!\nQuando a Guerra Santa chegar, lutaremos lado a lado contra as forças do mal. Agora, você é um de nós!",
-        "es-ES": "¡Hete aquí…!\n¡Ya eres de la clase Cruzado!\nCuando llegue la guerra santa, lucharemos codo a codo contra las fuerzas del mal. ¡Ya eres como nosotros!"
+        "es-ES": "¡Hete aquí...!\n¡Ya eres de la clase Cruzado!\nCuando llegue la guerra santa, lucharemos codo a codo contra las fuerzas del mal. ¡Ya eres como nosotros!"
     },
     "/+6pBg": {
         "en-US": "It seems that you have not yet completed all of the testing. You will not be ready to become a Crusader until you have completed the tests set before you.",
@@ -342,7 +342,7 @@
     "BO+pBg": {
         "en-US": "A Novice...?\nSo green, and yet,\nso much potential.",
         "pt-BR": "Ah, Aprendiz...?\nTão jovem e, por isso,\ncom muito potencial.",
-        "es-ES": "¿Eres Principiante…?\nTan joven, y sin embargo,\ncon tanto potencial."
+        "es-ES": "¿Eres Principiante...?\nTan joven, y sin embargo,\ncon tanto potencial."
     },
     "Be+pBg": {
         "en-US": "Let me assure you that I'm no criminal. I'm here merely to train myself. Perhaps as you become stronger, you will understand.",
@@ -357,7 +357,7 @@
     "B++pBg": {
         "en-US": "What do you want...?\nIf you have no business here,\nthen please leave. A tranquil state of mind is essential in self training...",
         "pt-BR": "O que você quer...?\nSe não tem nada a tratar aqui, por favor, vá embora.\nUm espaço tranquilo é essencial quando se treina sozinho...",
-        "es-ES": "¿Qué quieres…?\nSi no tienes nada que hacer aquí,\nvete, por favor. Para entrenar solos, es esencial tener la mente tranquila…"
+        "es-ES": "¿Qué quieres...?\nSi no tienes nada que hacer aquí,\nvete, por favor. Para entrenar solos, es esencial tener la mente tranquila..."
     },
     "CO+pBg": {
         "en-US": "I wish to improve the sense of serenity in my heart in preparation for the Holy War that is to come. So please, do not disturb me.",
@@ -367,7 +367,7 @@
     "Ce+pBg": {
         "en-US": "What is it...?",
         "pt-BR": "O que foi...?",
-        "es-ES": "¿Qué sucede…?"
+        "es-ES": "¿Qué sucede...?"
     },
     "Cu+pBg": {
         "en-US": "Do you have business",
@@ -397,12 +397,12 @@
     "D++pBg": {
         "en-US": "You wish to become a Crusader...? Hm, fighting in the Holy War is an admirable goal we may both share.",
         "pt-BR": "Quer se juntar aos Templários...? Hm, lutar na Guerra Santa é um objetivo admirável que nós dois podemos compartilhar.",
-        "es-ES": "¿Quieres ser de la clase Cruzado…? Mmm, luchar en la guerra santa es un objetivo admirable que compartimos."
+        "es-ES": "¿Quieres ser de la clase Cruzado...? Mmm, luchar en la guerra santa es un objetivo admirable que compartimos."
     },
     "EO+pBg": {
         "en-US": "Your name is\n{0}...?",
         "pt-BR": "Seu nome\né {0}...?",
-        "es-ES": "¿Tu nombre es\n{0}…?"
+        "es-ES": "¿Tu nombre es\n{0}...?"
     },
     "Ee+pBg": {
         "en-US": "Let me take\na look at your face.",
@@ -417,7 +417,7 @@
     "E++pBg": {
         "en-US": "Hmm...\nYou seem so-so, but also young and ambitious. Ambition may work against you if it is not tempered with patience.",
         "pt-BR": "Hmm...\nVocê não parece muito forte, mas é jovem e tem ambição. A ambição poderá se tornar sua inimiga se não for controlada com a paciência.",
-        "es-ES": "Mmm…\nPareces mediocre, pero también eres joven y tienes ambiciones. La ambición puede jugar en tu contra si no se templa con paciencia."
+        "es-ES": "Mmm...\nPareces mediocre, pero también eres joven y tienes ambiciones. La ambición puede jugar en tu contra si no se templa con paciencia."
     },
     "FO+pBg": {
         "en-US": "Don't give me a reason to doubt you, and show me your patience. You must endure my test with your patience if you wish to become a Crusader.",
@@ -432,12 +432,12 @@
     "Fu+pBg": {
         "en-US": "But...\nYou must keep one thing in mind. Under no condition are you allowed to kill the monsters.",
         "pt-BR": "Mas...\nLembre-se de uma coisa. Você não deve matar os monstros.",
-        "es-ES": "Pero…\nDebes tener en cuenta una cosa. Bajo ninguna condición tienes permitido matar a los monstruos."
+        "es-ES": "Pero...\nDebes tener en cuenta una cosa. Bajo ninguna condición tienes permitido matar a los monstruos."
     },
     "F++pBg": {
         "en-US": "Well then...\nGood luck.",
         "pt-BR": "Bem, então...\nBoa sorte.",
-        "es-ES": "En ese caso…\nBuena suerte."
+        "es-ES": "En ese caso...\nBuena suerte."
     },
     "GO+pBg": {
         "en-US": "[Murnak Mijoul]\nYou seem to have a lot of time on your hands. Why don't you do something more productive, like pick Jellopy off the streets or something?",
@@ -447,7 +447,7 @@
     "Ge+pBg": {
         "en-US": "What is it...?\nYou're the Swordman from before. What happened, did you fail?",
         "pt-BR": "O que foi...?\nVocê já veio aqui antes. O que aconteceu? Você fracassou?",
-        "es-ES": "¿Qué sucede…?\nEres la persona de la clase Espadachín de antes. ¿Qué pasó? ¿Fracasaste?"
+        "es-ES": "¿Qué sucede...?\nEres la persona de la clase Espadachín de antes. ¿Qué pasó? ¿Fracasaste?"
     },
     "Gu+pBg": {
         "en-US": "Let me retake the test.",
@@ -467,7 +467,7 @@
     "He+pBg": {
         "en-US": "Wait...",
         "pt-BR": "Espere...",
-        "es-ES": "Espera…"
+        "es-ES": "Espera..."
     },
     "Hu+pBg": {
         "en-US": "Where have you left your Rosary? You can't let that lie around just anywhere. We are supposed to be warriors of holiness.",
@@ -487,7 +487,7 @@
     "Ie+pBg": {
         "en-US": "Just focus...\nYour only goal is to walk from one end of the corridor to the other. It's simple when you think\nabout it.",
         "pt-BR": "Concentre-se...\nO seu único objetivo é andar de um lado ao outro do corredor. \nÉ simples, se você parar para pensar.",
-        "es-ES": "Concéntrate…\nTu único objetivo es caminar de un extremo del pasillo al otro. Es sencillo cuando\nlo piensas."
+        "es-ES": "Concéntrate...\nTu único objetivo es caminar de un extremo del pasillo al otro. Es sencillo cuando\nlo piensas."
     },
     "Iu+pBg": {
         "en-US": "No matter what you do, do not kill any of the monsters. This time, think carefully before you draw your sword.",
@@ -517,7 +517,7 @@
     "J++pBg": {
         "en-US": "Hmmm...\nYou still have tests to complete if you want to become a Crusader, don't you?",
         "pt-BR": "Hmmm...\nVocê ainda precisa concluir alguns testes se quiser se juntar aos Templários, não é?",
-        "es-ES": "Mmmm…\nAún te falta pasar pruebas si quieres ser de la clase Cruzado, ¿no?"
+        "es-ES": "Mmmm...\nAún te falta pasar pruebas si quieres ser de la clase Cruzado, ¿no?"
     },
     "KO+pBg": {
         "en-US": "Crusader",
@@ -557,7 +557,7 @@
     "L++pBg": {
         "en-US": "If you are interested in becoming a Crusader, you must train first as a Swordman. Come and visit us again when you believe that you have learned enough as a Swordman...",
         "pt-BR": "Se estiver interesse em se juntar aos Templários, precisa treinar primeiro como um Espadachim. Venha nos visitar de novo quando achar que aprendeu o suficiente...",
-        "es-ES": "Si te interesa ser de la clase Cruzado, primero debes entrenar como Espadachín. Vuelve a visitarnos cuando hayas aprendido lo suficiente como Espadachín…"
+        "es-ES": "Si te interesa ser de la clase Cruzado, primero debes entrenar como Espadachín. Vuelve a visitarnos cuando hayas aprendido lo suficiente como Espadachín..."
     },
     "MO+pBg": {
         "en-US": "We are located in the Prontera Central Palace, so if you have time, it wouldn't hurt to stop by.",
@@ -1312,7 +1312,7 @@
     "xu+pBg": {
         "en-US": "{0}'s score\nis {1} points...",
         "pt-BR": "A pontuação de {0}\né de {1} pontos...",
-        "es-ES": "La calificación de {0}\nes {1} puntos…"
+        "es-ES": "La calificación de {0}\nes {1} puntos..."
     },
     "x++pBg": {
         "en-US": "Superb! Now, it's time for\nyou to take the next test.",
@@ -1337,7 +1337,7 @@
     "y++pBg": {
         "en-US": "Hmmm... What a pity.\nGo study some more and\ntake this test again, okay?",
         "pt-BR": "Hmmm... Que pena.\nVá estudar mais um pouco e\nfaça o teste novamente, ok?",
-        "es-ES": "Mmmm… Qué pena.\nEstudia un poco más y\ntoma esta prueba de nuevo, ¿de acuerdo?"
+        "es-ES": "Mmmm... Qué pena.\nEstudia un poco más y\ntoma esta prueba de nuevo, ¿de acuerdo?"
     },
     "zO+pBg": {
         "en-US": "Don't stress, you need to know a lot in order to pass this test. In any case, I'll be waiting right here. When you think you're ready, come back, alright?",
@@ -1352,7 +1352,7 @@
     "zu+pBg": {
         "en-US": "Let's try again,\nshall we...?",
         "pt-BR": "Vamos tentar novamente,\nvamos...?",
-        "es-ES": "Intentémoslo de nuevo,\n¿de acuerdo…?"
+        "es-ES": "Intentémoslo de nuevo,\n¿de acuerdo...?"
     },
     "z++pBg": {
         "en-US": "Once again, I'm going\nto give you 10 questions",
@@ -1607,7 +1607,7 @@
     "AfCpBg": {
         "en-US": "{0}'s score\nis {1} points...",
         "pt-BR": "A pontuação de {0}\né de {1} pontos...",
-        "es-ES": "La calificación de {0}\nes {1} puntos…"
+        "es-ES": "La calificación de {0}\nes {1} puntos..."
     },
     "AvCpBg": {
         "en-US": "Seems like you prepared a lot so I'll let you pass this time.",
@@ -1642,7 +1642,7 @@
     "CPCpBg": {
         "en-US": "Come back when you believe you are ready...",
         "pt-BR": "Volte quando achar que se preparou melhor...",
-        "es-ES": "Vuelve cuando creas tener lo necesario…"
+        "es-ES": "Vuelve cuando creas tener lo necesario..."
     },
     "CfCpBg": {
         "en-US": "Like I mentioned before, you should go to Prontera Castle and meet with Bliant Piyord to take your next test. Good luck, and become a Crusder soon, alright?",
@@ -1662,7 +1662,7 @@
     "DPCpBg": {
         "en-US": "Mmm...?\nIt seems that you're\nan aspiring Crusader...\nBut, it's not my turn\nto test you quite yet.",
         "pt-BR": "Hã...?\nParece que você\nquer se juntar aos Templários...\nMas não é a minha vez\nde aplicar o seu teste.",
-        "es-ES": "¿Mmm…?\nParece que eres\naspirante a Cruzado…\nPero, aún no es mi turno\nde ponerte a prueba."
+        "es-ES": "¿Mmm...?\nParece que eres\naspirante a Cruzado...\nPero, aún no es mi turno\nde ponerte a prueba."
     },
     "DfCpBg": {
         "en-US": "Finish those other tests,\nand come to me once you're\ninstructed. Until then,\nI'll see you later~",
@@ -1712,7 +1712,7 @@
     "FvCpBg": {
         "en-US": "Even in these relatively peaceful times, our training is ceaseless. We must be ready for the day with the tides of darkness shall rush against mankind...",
         "pt-BR": "Mesmo nestes tempos relativamente pacíficos, nosso treinamento é incessante. Devemos estar prontos para o dia em que as marés de escuridão se precipitarão contra a humanidade...",
-        "es-ES": "Incluso en estos tiempos relativamente pacíficos, entrenamos sin cesar. Debemos estar preparados para el día en que las tinieblas se abalancen sobre la humanidad…"
+        "es-ES": "Incluso en estos tiempos relativamente pacíficos, entrenamos sin cesar. Debemos estar preparados para el día en que las tinieblas se abalancen sobre la humanidad..."
     },
     "F/CpBg": {
         "en-US": "To become a Crusader, you must train until you are Job Level 40. For more details, please speak with our leader inside.",
@@ -1722,7 +1722,7 @@
     "GPCpBg": {
         "en-US": "May Odin\nbe with you...",
         "pt-BR": "Que Odin\nesteja com você...",
-        "es-ES": "Que Odín\nesté contigo…"
+        "es-ES": "Que Odín\nesté contigo..."
     },
     "GfCpBg": {
         "en-US": "Welcome. \nIt's nice\nto meet you.",
@@ -1752,7 +1752,7 @@
     "HvCpBg": {
         "en-US": "Well then...\nShall we\nbegin right away?",
         "pt-BR": "Bem, então...\nPodemos \ncomeçar?",
-        "es-ES": "Pues bien…\n¿Empezamos\nde inmediato?"
+        "es-ES": "Pues bien...\n¿Empezamos\nde inmediato?"
     },
     "H/CpBg": {
         "en-US": "Or do you need time\nto prepare yourself?",
@@ -1962,7 +1962,7 @@
     "SPCpBg": {
         "en-US": "and do your best...",
         "pt-BR": "Vá em frente e dê o melhor de si...",
-        "es-ES": "y hazlo lo mejor que puedas…"
+        "es-ES": "y hazlo lo mejor que puedas..."
     },
     "SfCpBg": {
         "en-US": "Monster Summon",
@@ -2037,7 +2037,7 @@
     "V/CpBg": {
         "en-US": "If you would like\na Peco Peco please\nbring 3,500 zeny...",
         "pt-BR": "Se você quiser\num GrandPeco, por favor\ntraga 3.500 Zeny...",
-        "es-ES": "Si quieres\nun Peco Peco,\nnecesitas 3500 zeny…"
+        "es-ES": "Si quieres\nun Peco Peco,\nnecesitas 3500 zeny..."
     },
     "WPCpBg": {
         "en-US": "[Peco Peco Breeder]\nYou must first learn\nto ride a PecoPeco before\nI can rent one to you.",

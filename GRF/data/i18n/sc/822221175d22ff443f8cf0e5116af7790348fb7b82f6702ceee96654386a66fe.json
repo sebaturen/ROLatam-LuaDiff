@@ -52,17 +52,17 @@
     "6ipOAQ": {
         "en-US": "[Acorn Dealer]\nOh, thank you..\nWhat do you think of them? They're fresh, aren't they?",
         "pt-BR": "[Comerciante de Nozes]\nAh, obrigado...\nO que você achou? São frescas, não são?",
-        "es-ES": "[Comerciante de bellotas]\nAh, gracias…\n¿Qué opinas de ellas? Están frescas, ¿no?"
+        "es-ES": "[Comerciante de bellotas]\nAh, gracias...\n¿Qué opinas de ellas? Están frescas, ¿no?"
     },
     "6ypOAQ": {
         "en-US": "[Acorn Dealer]\nWell uh...\nYou can grind them to make something to eat and you can feed squirrels.",
         "pt-BR": "[Comerciante de Nozes]\nBem, uh...\nVocê pode moê-las pra fazer algo pra comer e pode alimentar esquilos.",
-        "es-ES": "[Comerciante de bellotas]\nBueno, eh…\nPuedes molerlas para hacer algo de comer y alimentar a las ardillas."
+        "es-ES": "[Comerciante de bellotas]\nBueno, eh...\nPuedes molerlas para hacer algo de comer y alimentar a las ardillas."
     },
     "7CpOAQ": {
         "en-US": "[Acorn Dealer]\nSomeone can decorate their house with them but I don't know how... they've got to be highly talented. Haha.",
         "pt-BR": "[Comerciante de Nozes]\nAlguém pode decorar sua casa com elas, só não sei como... Tem que ser muito talentoso. Haha.",
-        "es-ES": "[Comerciante de bellotas]\nSe podría decorar una casa con ellas, pero no sé cómo… Tendrías que tener mucho talento. Ja, ja."
+        "es-ES": "[Comerciante de bellotas]\nSe podría decorar una casa con ellas, pero no sé cómo... Tendrías que tener mucho talento. Ja, ja."
     },
     "7SpOAQ": {
         "en-US": "Big Squirrel",
@@ -122,12 +122,12 @@
     "+CpOAQ": {
         "en-US": "[{0}]\nIt's so cute..",
         "pt-BR": "[{0}]\nTão fofo...",
-        "es-ES": "[{0}]\nEs tan adorable…"
+        "es-ES": "[{0}]\nEs tan adorable..."
     },
     "+SpOAQ": {
         "en-US": "[Aged Stranger]\nIs it bigger than an ordinary one?\nI found it one day and was barely able to save it...",
         "pt-BR": "[Idosa Desconhecida]\nEle é maior do que um comum?\nEu o encontrei um dia e mal consegui salvá-lo...",
-        "es-ES": "[Anciano extraño]\n¿Es más grande que una normal?\nLa encontré un día y apenas pude salvarla…"
+        "es-ES": "[Anciano extraño]\n¿Es más grande que una normal?\nLa encontré un día y apenas pude salvarla..."
     },
     "+ipOAQ": {
         "en-US": "[Aged Stranger]\nI felt that heaven had sent me a friend so that my life wouldn't be so lonely.",

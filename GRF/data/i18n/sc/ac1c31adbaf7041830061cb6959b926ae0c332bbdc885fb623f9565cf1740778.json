@@ -172,7 +172,7 @@
     "Yu9aBw": {
         "en-US": "[Wood Team Staff]\nOh, thank you for your hard work.\nLet me record the amount of wood\nyou've delivered...\nThis time it's {0}, right?",
         "pt-BR": "[Carpinteiro]\nOh, obrigado pelo seu trabalho duro.\nDeixe-me registrar a quantidade de madeira\nque você entregou...\nDesta vez foram {0}, certo?",
-        "es-ES": "[Equipo de madera]\nAh, gracias por tu dedicación.\nDéjame registrar la cantidad de madera\nque entregaste…\n{0} esta vez, ¿no?"
+        "es-ES": "[Equipo de madera]\nAh, gracias por tu dedicación.\nDéjame registrar la cantidad de madera\nque entregaste...\n{0} esta vez, ¿no?"
     },
     "Y+9aBw": {
         "en-US": "[Wood Team Staff]\nWhen you meet your quota,\nyou can confirm it with\nthe Reward Coordinator at the headquarters.\nGood job.",
@@ -337,7 +337,7 @@
     "g+9aBw": {
         "en-US": "[Brick Team Staff]\nOh, thank you for your hard work.\nLet me record the number of bricks\nyou've delivered...\nThis time it's {0}, right?",
         "pt-BR": "[Pedreiro]\nOh, obrigado pelo seu trabalho duro.\nDeixe-me registrar a quantidade de tijolos\nque você entregou...\nDesta vez foram {0}, certo?",
-        "es-ES": "[Equipo de ladrillos]\nAh, gracias por tu dedicación.\nDéjame registrar la cantidad de ladrillos\nque entregaste…\n{0} esta vez, ¿no?"
+        "es-ES": "[Equipo de ladrillos]\nAh, gracias por tu dedicación.\nDéjame registrar la cantidad de ladrillos\nque entregaste...\n{0} esta vez, ¿no?"
     },
     "hO9aBw": {
         "en-US": "[Brick Team Staff]\nWhen you meet your quota,\nyou can confirm it with\nthe Reward Coordinator at the headquarters.\nGood job.",
@@ -497,7 +497,7 @@
     "o+9aBw": {
         "en-US": "[Rope Team Staff]\nOh, thank you for your hard work.\nLet me record the amount of rope\nyou've delivered...\nThis time it's {0}, right?",
         "pt-BR": "[Artesão]\nOh, obrigado pelo seu trabalho duro.\nDeixe-me registrar a quantidade de corda\nque você entregou...\nDesta vez foram {0}, certo?",
-        "es-ES": "[Equipo de cuerdas]\nAh, gracias por tu dedicación.\nDéjame registrar la cantidad de cuerdas\nque entregaste…\n{0} esta vez, ¿no?"
+        "es-ES": "[Equipo de cuerdas]\nAh, gracias por tu dedicación.\nDéjame registrar la cantidad de cuerdas\nque entregaste...\n{0} esta vez, ¿no?"
     },
     "pO9aBw": {
         "en-US": "[Rope Team Staff]\nWhen you meet your quota,\nyou can confirm it with\nthe Reward Coordinator at the headquarters.\nGood job.",
@@ -587,7 +587,7 @@
     "te9aBw": {
         "en-US": "[HR Coordinator]\nThink, think...\nI have to find someone to dump this on...\nIf I could blame him for the delay,\nthen I'd be okay.",
         "pt-BR": "[Encarregado de Obras]\nPensa, pensa...\nEu tenho que jogar isso nas costas de alguém...\nSe eu puder culpá-lo pelo atraso,\neu me safo.",
-        "es-ES": "[Coordinador de RR.HH.]\nPiensa, piensa…\nTengo que encontrar a alguien para echarle la culpa…\nSi pudiera echarle la culpa del retraso,\nno tendría problemas."
+        "es-ES": "[Coordinador de RR.HH.]\nPiensa, piensa...\nTengo que encontrar a alguien para echarle la culpa...\nSi pudiera echarle la culpa del retraso,\nno tendría problemas."
     },
     "tu9aBw": {
         "en-US": "Ask if he needs help.",
@@ -642,7 +642,7 @@
     "wO9aBw": {
         "en-US": "[HR Coordinator]\nAh, thank you so much!\nLet me introduce you to\nthese new people. Let's see...",
         "pt-BR": "[Encarregado de Obras]\nAh, muito obrigado!\nDeixe te apresentar para\nesse novo pessoal. Vejamos...",
-        "es-ES": "[Coordinador de RR.HH.]\nAh, ¡muchas gracias!\nTe presento\na estas nuevas personas. Veamos…"
+        "es-ES": "[Coordinador de RR.HH.]\nAh, ¡muchas gracias!\nTe presento\na estas nuevas personas. Veamos..."
     },
     "we9aBw": {
         "en-US": "[HR Coordinator]\nOh,\nyou have a mercenary with you.\nYou cannot carry more than\none mercenary at a time.\nPlease dismiss your mercenary,\nand then talk to me again.",
@@ -672,12 +672,12 @@
     "xu9aBw": {
         "en-US": "[HR Coordinator]\nAnd now you're late.\nSigh, I'm screwed.\nThey'll send me off to\nsome place like Beacon Island...",
         "pt-BR": "[Encarregado de Obras]\nE agora você está atrasado.\n*Suspiro* Estou ferrado.\nEles vão me mandar para\nalgum desses lugares tipo a Ilha Farol...",
-        "es-ES": "[Coordinador de RR.HH.]\nY ahora ya es tarde.\nUf, estoy en problemas.\nMe enviarán a algún\nlugar como la Isla del faro…"
+        "es-ES": "[Coordinador de RR.HH.]\nY ahora ya es tarde.\nUf, estoy en problemas.\nMe enviarán a algún\nlugar como la Isla del faro..."
     },
     "x+9aBw": {
         "en-US": "[HR Coordinator]\nUm, what are you doing?\nTake the worker to a construction site now,\nor I'll hold you responsi...",
         "pt-BR": "[Encarregado de Obras]\nHã, o que você está fazendo?\nLeve o trabalhador para um canteiro de obra agora,\nou vou culpar você...",
-        "es-ES": "[Coordinador de RR.HH.]\nMmm, ¿qué haces?\nAhora lleva al trabajador a una obra,\no te haré responsa…"
+        "es-ES": "[Coordinador de RR.HH.]\nMmm, ¿qué haces?\nAhora lleva al trabajador a una obra,\no te haré responsa..."
     },
     "yO9aBw": {
         "en-US": "[HR Coordinator]\nSigh, just take the worker\nto a construction site best suited for his expertise.",
@@ -777,7 +777,7 @@
     "2+9aBw": {
         "en-US": "This person... I can't say. You'll have to figure it out on your own.",
         "pt-BR": "Essa pessoa... Não sei dizer. Você vai ter que descobrir sozinho.",
-        "es-ES": "Esta persona… No sé. Tendrás que descubrirlo por tu cuenta."
+        "es-ES": "Esta persona... No sé. Tendrás que descubrirlo por tu cuenta."
     },
     "3O9aBw": {
         "en-US": "[HR Coordinator]\nOh my, where's the worker I've assigned to you?",
@@ -867,7 +867,7 @@
     "7e9aBw": {
         "en-US": "[HR Coordinator]\nLet's see...",
         "pt-BR": "[Encarregado de Obras]\nVejamos...",
-        "es-ES": "[Coordinador de RR.HH.]\nVeamos…"
+        "es-ES": "[Coordinador de RR.HH.]\nVeamos..."
     },
     "7u9aBw": {
         "en-US": "That's all.\nPlease take the worker to a site best suited for his expertise.",
@@ -887,7 +887,7 @@
     "8e9aBw": {
         "en-US": "[HR Supervisor]\nLet's see...\nAll right,\nhe looks like he'll fit right in.\nThank you for bringing him in.",
         "pt-BR": "[Supervisor de RH]\nVejamos...\nCerto,\nparece que ele vai se encaixar bem.\nObrigado por trazê-lo até aqui.",
-        "es-ES": "[Supervisor de RR.HH.]\nVeamos…\nDe acuerdo,\nparece que se adaptará bien.\nGracias por traerlo."
+        "es-ES": "[Supervisor de RR.HH.]\nVeamos...\nDe acuerdo,\nparece que se adaptará bien.\nGracias por traerlo."
     },
     "8u9aBw": {
         "en-US": "[HR Supervisor]\nI want to keep him,\nso you can let him go.",
@@ -967,7 +967,7 @@
     "AfBaBw": {
         "en-US": "[Reward Coordinator]\nSo, um... I'm...\nI think I'm sent here\nto... to... Let me think...\nOh yes, to support the Morroc restoration work.",
         "pt-BR": "[Mestre de Obras]\nEntão, é... Eu...\nAcho que me mandaram pra cá \npra... pra... Deixa eu pensar...\nAh sim, pra ajudar no trabalho de restauração de Morroc.",
-        "es-ES": "[Coord. de recompensas]\nAsí que, mmm… Eh…\nCreo que me enviaron\npara… para… Déjame pensar…\nAh, sí, para ayudar con el trabajo de restauración de Morroc."
+        "es-ES": "[Coord. de recompensas]\nAsí que, mmm... Eh...\nCreo que me enviaron\npara... para... Déjame pensar...\nAh, sí, para ayudar con el trabajo de restauración de Morroc."
     },
     "AvBaBw": {
         "en-US": "[Reward Coordinator]\nHow may I help you?",
@@ -1097,12 +1097,12 @@
     "G/BaBw": {
         "en-US": "[Reward Coordinator]\n...",
         "pt-BR": "[Mestre de Obras]\n...",
-        "es-ES": "[Coord. de recompensas]\n…"
+        "es-ES": "[Coord. de recompensas]\n..."
     },
     "HPBaBw": {
         "en-US": "[Reward Coordinator]\nSigh, that lazy schmuck.\nI wish they just fired him...",
         "pt-BR": "[Mestre de Obras]\nAi ai, aquele imbecil preguiçoso.\nQueria que tivessem simplesmente despedido ele...",
-        "es-ES": "[Coord. de recompensas]\nUf, qué idiota holgazán.\nOjalá lo despidieran…"
+        "es-ES": "[Coord. de recompensas]\nUf, qué idiota holgazán.\nOjalá lo despidieran..."
     },
     "HfBaBw": {
         "en-US": "[Reward Coordinator]\nOh, right.\nLet me give you a Contribution Certificate\nfor helping us transport workers.\nThank you for your contribution.",
@@ -1142,7 +1142,7 @@
     "JPBaBw": {
         "en-US": "[Reward Coordinator]\nOh, and we also need someone\nto help us prepare snacks for\nthe workers... Well, strike that--it may be irrelevant.",
         "pt-BR": "[Mestre de Obras]\nAh, e também precisamos de alguém\npara nos ajudar a preparar lanches para\nos trabalhadores... Não, risca isso – pode ser que seja irrelevante.",
-        "es-ES": "[Coord. de recompensas]\nAh, y también necesitamos a alguien\nque nos ayude a preparar bocadillos\npara los trabajadores… Bueno, tacha eso… creo que sería irrelevante."
+        "es-ES": "[Coord. de recompensas]\nAh, y también necesitamos a alguien\nque nos ayude a preparar bocadillos\npara los trabajadores... Bueno, tacha eso... creo que sería irrelevante."
     },
     "JfBaBw": {
         "en-US": "[Reward Coordinator]\nAs for the materials,\nsince they can't materialize themselves, someone has to look for them",
@@ -1157,7 +1157,7 @@
     "J/BaBw": {
         "en-US": "[Reward Coordinator]\nOh, we also need help to get rid of\nMorroc Reincarnations roaming outside the city...\nUm, where was I?",
         "pt-BR": "[Mestre de Obras]\nAh, e também precisamos de ajuda para nos livrar\ndas Reencarnações de Morroc perambulando pela cidade...\nHã, onde eu estava?",
-        "es-ES": "[Coord. de recompensas]\nAh, también necesitamos ayuda para deshacernos\nde las Reencarnaciones de Morroc que deambulan fuera de la ciudad…\nMmm, ¿en qué estaba?"
+        "es-ES": "[Coord. de recompensas]\nAh, también necesitamos ayuda para deshacernos\nde las Reencarnaciones de Morroc que deambulan fuera de la ciudad...\nMmm, ¿en qué estaba?"
     },
     "KPBaBw": {
         "en-US": "[Reward Coordinator]\nOne of my colleagues from Prontera\nis charged with selecting and sending\nworkers to construction sites best suited for their expertise,",
@@ -1182,7 +1182,7 @@
     "LPBaBw": {
         "en-US": "[Reward Coordinator]\nUm, so...\nWhy did you\ntalk to me, if I may ask?",
         "pt-BR": "[Mestre de Obras]\nHã, então...\nPor que você \nfalou comigo, se eu posso perguntar?",
-        "es-ES": "[Coord. de recompensas]\nMmm, entonces…\n¿Por qué \nme hablaste, si se puede saber?"
+        "es-ES": "[Coord. de recompensas]\nMmm, entonces...\n¿Por qué \nme hablaste, si se puede saber?"
     },
     "LfBaBw": {
         "en-US": "[Reward Coordinator]\nAww, I hate this sandy wind.\nIt leaves my nice clothes\nfeeling dirty and icky.",
@@ -1197,7 +1197,7 @@
     "L/BaBw": {
         "en-US": "[Morroc Restoration Project Director Paek]\nCurrently the greatest contributor is\nGreat Adventurer {0},\nwho has made a total of {1} contributions so far...\nI'd like to give thanks to the adventurer on behalf of the entire city.",
         "pt-BR": "[Quadro de Avisos]\nNo momento o maior colaborador é \no Grande Aventureiro {0},\nque realizou um total de {1} contribuições até agora...\nEu gostaria de oferecer minha gratidão ao aventureiro em nome de toda a cidade.",
-        "es-ES": "[Director Paek]\nHasta ahora, la persona que más contribuyó \nes {0}, gran trotamundos,\ncon un total de {1}contribuciones…\nEn nombre de la ciudad, me gustaría extenderle mis agradecimientos."
+        "es-ES": "[Director Paek]\nHasta ahora, la persona que más contribuyó \nes {0}, gran trotamundos,\ncon un total de {1}contribuciones...\nEn nombre de la ciudad, me gustaría extenderle mis agradecimientos."
     },
     "MPBaBw": {
         "en-US": "Restoration Project Director",

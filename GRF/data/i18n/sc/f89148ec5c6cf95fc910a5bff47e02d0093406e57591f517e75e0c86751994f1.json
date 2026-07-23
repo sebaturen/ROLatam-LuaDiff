@@ -132,7 +132,7 @@
     "Ok5TBw": {
         "en-US": "The environmental characteristics of this area are making the investigation too difficult.\nThe scenery looks familiar, yet in a way... strange.\nThe place looks like it's on the verge of utter collapse but.. I can see bursts of vibrant growth.",
         "pt-BR": "As características ambientais dessa área estão dificultando demais a investigação.\nA vista parece familiar, mas ainda assim muito estranha.\nEsse lugar parece estar prestes a ser totalmente destruído,\ne no entanto, posso ver traços de energia aqui e ali.",
-        "es-ES": "Las características ambientales de esta zona dificultan demasiado la investigación.\nEl paisaje parece familiar, pero, en cierto modo… también extraño.\nParece que el lugar está al borde del colapso total, pero… Veo ráfagas de un crecimiento dinámico."
+        "es-ES": "Las características ambientales de esta zona dificultan demasiado la investigación.\nEl paisaje parece familiar, pero, en cierto modo... también extraño.\nParece que el lugar está al borde del colapso total, pero... Veo ráfagas de un crecimiento dinámico."
     },
     "O05TBw": {
         "en-US": "[Base Investigator]\nWhat is this place?",
@@ -182,7 +182,7 @@
     "RE5TBw": {
         "en-US": "[Base Investigator]\nBring me\n^FF000015 Burning Feathers^000000\nfrom ^0000FFFire Condors^000000.",
         "pt-BR": "[Comandante da Base]\nTraga-me\n^FF000015 Plumas Flamejantes^000000\nde ^0000FFCondores de Fogo^000000.",
-        "es-ES": "[Investigador de base]\nTráeme…\n^FF000015Plumas ardientes^000000.\nde ^0000FFCóndores de fuego^000000."
+        "es-ES": "[Investigador de base]\nTráeme...\n^FF000015Plumas ardientes^000000.\nde ^0000FFCóndores de fuego^000000."
     },
     "RU5TBw": {
         "en-US": "Hurry before more people fall victim to those vicious birds!",
@@ -232,7 +232,7 @@
     "Tk5TBw": {
         "en-US": "That's not the answer I expected,\nbut I'll continue with the spiel\nI've prepared.\nSigh...",
         "pt-BR": "Essa não é a resposta que eu esperava,\nMas vou continuar com o discurso\nque preparei.\n*suspiro*",
-        "es-ES": "No es la respuesta que esperaba,\npero seguiré con el discurso\nque había preparado.\n*Suspira…*"
+        "es-ES": "No es la respuesta que esperaba,\npero seguiré con el discurso\nque había preparado.\n*Suspira...*"
     },
     "T05TBw": {
         "en-US": "[Base Investigator]\nA scout hasn't returned\nfrom the Flaming Basin.\nI want you to go check\nwhat happened to him.",
@@ -337,7 +337,7 @@
     "Y05TBw": {
         "en-US": "[Base Investigator]\nI hate to repeat myself,\nbut like everyone else from a noble background,\nI only know how to command others.",
         "pt-BR": "Odeio ter que me repetir,\nmas assim como todos de berço nobre,\neu só sei comandar os outros.",
-        "es-ES": "[Investigador de base]\nOdio repetirlo,\npero como todas las personas de linaje noble…\nsolo sé dar órdenes."
+        "es-ES": "[Investigador de base]\nOdio repetirlo,\npero como todas las personas de linaje noble...\nsolo sé dar órdenes."
     },
     "ZE5TBw": {
         "en-US": "[Base Investigator]\nHurry, those monsters are breeding even as we speak.",
@@ -477,7 +477,7 @@
     "f05TBw": {
         "en-US": "[Scout]\nBe careful--they can ambush you and snatch away ^FF0000Scout Journals^000000 before you know it.",
         "pt-BR": "[Batedor]\nTome cuidado – eles podem armar uma emboscada\ne levar os ^FF0000Diários de Batedor^000000 antes mesmo que você perceba.",
-        "es-ES": "[Explorador]\nTen cuidado… Podrían emboscarte y arrebatarte los ^FF0000Diarios de exploración^000000 en un abrir y cerrar de ojos."
+        "es-ES": "[Explorador]\nTen cuidado... Podrían emboscarte y arrebatarte los ^FF0000Diarios de exploración^000000 en un abrir y cerrar de ojos."
     },
     "gE5TBw": {
         "en-US": "Please bring 20 ^FF0000Scout Journals^000000\nfrom ^0000FFFire Sandmen^000000.",
@@ -527,7 +527,7 @@
     "iU5TBw": {
         "en-US": "[Doom Prayers Leader]\nBlood for the blood go-- I mean destruction is good!",
         "pt-BR": "[Bispo dos Adoradores]\nsó nós seremos\nsalvos!\nA destruição é uma bênção!",
-        "es-ES": "[Líder de los Misioneros]\nsangre para el dios de la sangre… Quiero decir, ¡la destrucción es buena!"
+        "es-ES": "[Líder de los Misioneros]\nsangre para el dios de la sangre... Quiero decir, ¡la destrucción es buena!"
     },
     "ik5TBw": {
         "en-US": "[Doom Prayers]\nDestruction! Is! A! Blessing!\nDestruction! Is! A! Blessing!",
@@ -842,7 +842,7 @@
     "yE5TBw": {
         "en-US": "[Doom Prayers Leader]\n...\nUgh...",
         "pt-BR": "[Bispo dos Adoradores]\n...\nUgh...",
-        "es-ES": "[Líder de los Misioneros]\n…\nUf…"
+        "es-ES": "[Líder de los Misioneros]\n...\nUf..."
     },
     "yU5TBw": {
         "en-US": "The color drains from his face.\nYou catch a whiff of what smells like diarrhea.",
@@ -867,7 +867,7 @@
     "zU5TBw": {
         "en-US": "[Doom Prayers Leader]\nSigh, the world hasn't ended, again.\nWhat I wouldn't give to go back home now and change to some fresh underwear...",
         "pt-BR": "[Bispo dos Adoradores]\nAi ai, o mundo não acabou, de novo.\nO que eu não daria\npara poder voltar para casa agora e pôr umas roupas de baixo limpas...",
-        "es-ES": "[Líder de los Misioneros]\nUf, de nuevo, el mundo no se acabó.\nLo que daría por poder volver a casa y ponerme ropa interior limpia…"
+        "es-ES": "[Líder de los Misioneros]\nUf, de nuevo, el mundo no se acabó.\nLo que daría por poder volver a casa y ponerme ropa interior limpia..."
     },
     "zk5TBw": {
         "en-US": "[Doom Prayers Leader]\nI'll wait for the next natural disaster and gather more followers to call forth the God of Destruction!",
@@ -992,7 +992,7 @@
     "5k5TBw": {
         "en-US": "[Doom Prayers]\n...",
         "pt-BR": "[Adorador Fervoroso]\n...",
-        "es-ES": "[Misioneros de Perdición]\n…"
+        "es-ES": "[Misioneros de Perdición]\n..."
     },
     "505TBw": {
         "en-US": "[Doom Prayers]\n!!!",
@@ -1012,7 +1012,7 @@
     "6k5TBw": {
         "en-US": "[Doom Prayers Second-in-command]\nAww... I'm scared...\nI could have run already if only I were alone.\nThis is just too scary. I'm gonna cry a little more...",
         "pt-BR": "[Adorador Fervoroso]\nAww... Estou com medo...\nEu já poderia ter fugido\nse apenas estivesse sozinho.\nIsso é muito assustador. Vou chorar mais um pouquinho...",
-        "es-ES": "[Segundo al mando]\nAy… Tengo miedo…\nSi estuviera solo, ya habría podido huir.\nEsto es demasiado aterrador. Voy a llorar un poco más…"
+        "es-ES": "[Segundo al mando]\nAy... Tengo miedo...\nSi estuviera solo, ya habría podido huir.\nEsto es demasiado aterrador. Voy a llorar un poco más..."
     },
     "605TBw": {
         "en-US": "Base Sentry",
@@ -1067,7 +1067,7 @@
     "9U5TBw": {
         "en-US": "[Doom Prayer]\n...\nMaybe I didn't pray hard enough.",
         "pt-BR": "[Fiéis]\n...\nTalvez eu não tenha rezado forte o bastante.",
-        "es-ES": "[Misionero de Perdición]\n…\nQuizás no recé lo suficiente."
+        "es-ES": "[Misionero de Perdición]\n...\nQuizás no recé lo suficiente."
     },
     "9k5TBw": {
         "en-US": "[Doom Prayer]\n*Wail*\nArgh, I'm scared!",
@@ -1097,7 +1097,7 @@
     "+05TBw": {
         "en-US": "[Doom Prayer]\nThis is all too terrifying...\nMaybe my faith isn't deep enough...\nI'd better offer more money!",
         "pt-BR": "[Fiéis]\nIsso tudo é muito assustador...\nTalvez minha fé não seja profunda o suficiente...\nÉ melhor eu oferecer mais dinheiro!",
-        "es-ES": "[Misionero de Perdición]\nEsto es muy aterrador…\nQuizás mi fe no sea suficiente…\n¡Será mejor que ofrezca más dinero!"
+        "es-ES": "[Misionero de Perdición]\nEsto es muy aterrador...\nQuizás mi fe no sea suficiente...\n¡Será mejor que ofrezca más dinero!"
     },
     "/E5TBw": {
         "en-US": "[Doom Prayer]\nOh, God of Destruction!\nLet your wrath fall unto this world!\nLet me be the sole benefactor of your blessing!",

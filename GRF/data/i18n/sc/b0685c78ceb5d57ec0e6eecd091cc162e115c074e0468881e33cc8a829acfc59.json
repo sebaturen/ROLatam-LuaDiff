@@ -1,0 +1,607 @@
+{
+    "oH5bDQ": {
+        "en-US": "Exorcist",
+        "pt-BR": "Exorcista",
+        "es-ES": "Exorcista"
+    },
+    "oX5bDQ": {
+        "en-US": "[Exorcist]\nNow, this is the new place where you will train. As you can see, there are many trees.",
+        "pt-BR": "[Exorcista]\nBem, este é o novo lugar onde você treinará. Como pode ver, há muitas árvores.",
+        "es-ES": "[Exorcista]\nBien, este es el nuevo lugar donde entrenarás. Como ves, hay muchos árboles."
+    },
+    "on5bDQ": {
+        "en-US": "What training will I do here?",
+        "pt-BR": "Que tipo de treinamento farei aqui?",
+        "es-ES": "¿Qué entrenamiento haré aquí?"
+    },
+    "o35bDQ": {
+        "en-US": "[Exorcist]\n^0000CDBring me tree branches^000000. You must never harm the trees. You must only pick up branches that fall when shaken by the wind. Be careful, as they disappear the moment they touch the ground.",
+        "pt-BR": "[Exorcista]\n^0000CDTraga galhos^000000. Jamais deve ferir as árvores. Você deve recolher apenas os galhos que caem ao serem balançados pelo vento. Se caírem no chão, desaparecerão imediatamente, então tome cuidado.",
+        "es-ES": "[Exorcista]\n^0000CDTrae ramas^000000. No debes dañar los árboles bajo ningún concepto. Solo debes recoger y traer las ramas que caigan al ser mecidas por el viento. Ten cuidado, porque desaparecerán en cuanto toquen el suelo."
+    },
+    "pH5bDQ": {
+        "en-US": "What...?",
+        "pt-BR": "Hã...?",
+        "es-ES": "¿Eh...?"
+    },
+    "pX5bDQ": {
+        "en-US": "[Exorcist]\nWhy? Does this also seem trivial? Does it not feel like training?",
+        "pt-BR": "[Exorcista]\nPor quê? Isso também parece insignificante? Parece que não é treinamento?",
+        "es-ES": "[Exorcista]\n¿Por qué? ¿Esto también te parece insignificante? ¿Te parece que no es entrenamiento?"
+    },
+    "pn5bDQ": {
+        "en-US": "[Mountain Lord]\nExorcist, what are you doing here? Leaving only Sol at home.",
+        "pt-BR": "[Sangun]\nExorcista, o que está fazendo aqui? E ainda deixando só Suol em casa.",
+        "es-ES": "[Señor de la montaña]\nExorcista, ¿qué haces aquí? Dejando solo a Suol en casa."
+    },
+    "p35bDQ": {
+        "en-US": "[Exorcist]\nI am repaying a debt, so do not interfere.",
+        "pt-BR": "[Exorcista]\nEstou pagando uma dívida, então não atrapalhe.",
+        "es-ES": "[Exorcista]\nEstoy pagando una deuda, así que no estorbes."
+    },
+    "qH5bDQ": {
+        "en-US": "[Mountain Lord]\nLook at this one. Still as cheeky as ever. I asked what you were doing, and you tell me not to interfere. What kind of answer is that? How hurtful.",
+        "pt-BR": "[Sangun]\nOlhe só este sujeito. Continua atrevido como sempre. Perguntei o que estava fazendo, e ele diz para não atrapalhar. Que jeito de falar. Isso magoa.",
+        "es-ES": "[Señor de la montaña]\nMira qué amigo. Sigues siendo igual de descarado que antes. Te pregunto qué haces y me dices que no estorbe. ¿Qué forma de hablar es esa? Qué frío."
+    },
+    "qX5bDQ": {
+        "en-US": "[Mountain Lord]\nThe quiet mountainside was growing so lively that something interesting seemed to be happening, so I dragged my heavy body over to ask what you were doing!",
+        "pt-BR": "[Sangun]\nO sopé da montanha, que era tão tranquilo, ficou barulhento por causa de algo interessante, então arrastei este corpo pesado até aqui para perguntar o que estava acontecendo!",
+        "es-ES": "[Señor de la montaña]\n¡La tranquila ladera de la montaña estaba tan animada que arrastré mi pesado cuerpo hasta aquí para preguntar qué pasaba!"
+    },
+    "qn5bDQ": {
+        "en-US": "[Exorcist]\nSee? You are interfering right now.",
+        "pt-BR": "[Exorcista]\nVeja. Você está atrapalhando exatamente assim.",
+        "es-ES": "[Exorcista]\nYa ves. Justo ahora estás estorbando."
+    },
+    "q35bDQ": {
+        "en-US": "[Mountain Lord]\nTrue enough, but how cold of you.",
+        "pt-BR": "[Sangun]\nEstá certo, mas que pessoa fria.",
+        "es-ES": "[Señor de la montaña]\nTienes razón, pero qué duro eres."
+    },
+    "rH5bDQ": {
+        "en-US": "[Exorcist]\nAt the request of someone I know, I took on a short-term disciple and have been training them. Right! This works out well. You should face my disciple for a bit. Do not attack them in earnest.",
+        "pt-BR": "[Exorcista]\nA pedido de uma conhecida, aceitei um discípulo temporário e estava treinando-o. Ah, certo! Isso veio a calhar. Enfrente meu discípulo um pouco. Mas não lute com toda a seriedade.",
+        "es-ES": "[Exorcista]\nHe aceptado a un discípulo temporal por petición de un conocido y lo estaba entrenando. ¡Eso es! Has llegado en buen momento. Hazle un poco de oponente a mi discípulo. Pero no vayas en serio."
+    },
+    "rX5bDQ": {
+        "en-US": "[Mountain Lord]\nWhy should I?",
+        "pt-BR": "[Sangun]\nE por que eu deveria fazer isso?",
+        "es-ES": "[Señor de la montaña]\n¿Y por qué debería hacerlo?"
+    },
+    "rn5bDQ": {
+        "en-US": "[Exorcist]\nI told them to pick up branches as training, and they were surprised. They must surely think it is a mere chore. What training could be more suitable for creating the vessel of a Taoist?",
+        "pt-BR": "[Exorcista]\nComo treinamento, pedi que ele recolhesse galhos, e ele ficou surpreso. Sem dúvida deve achar que é trabalho braçal. Que treinamento poderia ser mais adequado para criar o recipiente de um taoísta?",
+        "es-ES": "[Exorcista]\nLe dije que recogiera ramas como entrenamiento y se sorprendió. Seguro que piensa que es una tarea doméstica. ¿Qué entrenamiento puede haber más adecuado que este para crear el recipiente de un daoísta?"
+    },
+    "r35bDQ": {
+        "en-US": "[Mountain Lord]\nGoodness!! They think reading the wind is such an easy task? They must think Exorcist bought those abilities somewhere and simply attached them.",
+        "pt-BR": "[Sangun]\nOra essa!! Uma tarefa difícil dessas, que exige ler o vento? Parece que ele acha que Exorcista comprou suas habilidades em algum lugar e as colocou no corpo.",
+        "es-ES": "[Señor de la montaña]\n¡¡Vaya!! ¿Con una tarea tan difícil como leer el viento? Parece que cree que Exorcista compró sus habilidades en alguna parte y se las puso encima."
+    },
+    "sH5bDQ": {
+        "en-US": "[Exorcist]\nIf you can face this Mountain Lord here and win, I will consider letting this training pass. How about it? If you are strong enough to defeat Mountain Lord, you would not need more training.",
+        "pt-BR": "[Exorcista]\nSe enfrentar este Sangun aqui e vencer, considerarei deixar este treinamento passar. O que acha? Se consegue vencer até Sangun, não deve precisar de mais treinamento.",
+        "es-ES": "[Exorcista]\nSi te enfrentas a este Señor de la montaña y ganas, consideraré pasar por alto este entrenamiento. ¿Qué te parece? Si eres capaz de vencer incluso a Señor de la montaña, no necesitarás más entrenamiento."
+    },
+    "sX5bDQ": {
+        "en-US": "[Mountain Lord]\nYou are doing something truly interesting. Very well. I will count this as this month's rent.",
+        "pt-BR": "[Sangun]\nVocê está mesmo aprontando algo divertido. Certo. Vou considerar que o aluguel deste mês foi pago com isso.",
+        "es-ES": "[Señor de la montaña]\nVaya, has montado algo muy interesante. Bien. Daré por pagado el alquiler de este mes con esto."
+    },
+    "sn5bDQ": {
+        "en-US": "[Exorcist]\nThat sounds good. The disciple performs the trick, and the master gets exempted from rent.",
+        "pt-BR": "[Exorcista]\nIsso é bom. O discípulo faz o trabalho, e o mestre fica isento do aluguel.",
+        "es-ES": "[Exorcista]\nEso suena bien. El discípulo hace el espectáculo y el maestro se libra del alquiler."
+    },
+    "s35bDQ": {
+        "en-US": "[Exorcist]\nWhat will you do?",
+        "pt-BR": "[Exorcista]\nO que você fará?",
+        "es-ES": "[Exorcista]\n¿Qué harás?"
+    },
+    "tH5bDQ": {
+        "en-US": "I will train.",
+        "pt-BR": "Farei o treinamento.",
+        "es-ES": "Haré el entrenamiento."
+    },
+    "tX5bDQ": {
+        "en-US": "I will spar.",
+        "pt-BR": "Farei o duelo.",
+        "es-ES": "Haré el combate."
+    },
+    "tn5bDQ": {
+        "en-US": "[Mountain Lord]\nTch!!! Young one, you lack spirit!",
+        "pt-BR": "[Sangun]\nTsc!!! Jovem sem ousadia!",
+        "es-ES": "[Señor de la montaña]\n¡¡¡Tch!!! ¡Joven, te falta ímpetu!"
+    },
+    "t35bDQ": {
+        "en-US": "[Exorcist]\nDo not be too disappointed. After the training is over, I will arrange a sparring match. We must see the results of the disciple's training, must we not?",
+        "pt-BR": "[Exorcista]\nNão fique tão decepcionado. Depois que ele concluir o treinamento, arranjarei um duelo. Também precisamos ver os resultados do treinamento do discípulo, não é?",
+        "es-ES": "[Exorcista]\nNo te decepciones tanto. Después del entrenamiento prepararé un combate. También habrá que ver los resultados del entrenamiento del discípulo, ¿no?"
+    },
+    "uH5bDQ": {
+        "en-US": "[Mountain Lord]\nIn that case, I have no complaints. If the disciple grows stronger, it will be more fun for me as well.",
+        "pt-BR": "[Sangun]\nSendo assim, não tenho do que reclamar. Se o discípulo ficar mais forte, também será mais divertido enfrentá-lo.",
+        "es-ES": "[Señor de la montaña]\nSi es así, no tengo quejas. Si el discípulo se hace más fuerte, también será más divertido enfrentarme a él."
+    },
+    "uX5bDQ": {
+        "en-US": "[Exorcist]\nGo around the nearby trees and bring back branches.",
+        "pt-BR": "[Exorcista]\nVocê deve passar pelas árvores ao redor e trazer os galhos.",
+        "es-ES": "[Exorcista]\nTú, ve rodeando los árboles de alrededor y trae ramas."
+    },
+    "un5bDQ": {
+        "en-US": "[Mountain Lord]\nThis disciple is brimming with confidence. Where did you find them?",
+        "pt-BR": "[Sangun]\nO discípulo está cheio de confiança, hein? De onde você o trouxe?",
+        "es-ES": "[Señor de la montaña]\nDiscípulo, rebosas confianza. ¿Dónde lo encontraste?"
+    },
+    "u35bDQ": {
+        "en-US": "[Exorcist]\nIt is more like a deal I took on in place of repaying a debt. Now, begin the sparring match.",
+        "pt-BR": "[Exorcista]\nTambém foi um acordo que aceitei no lugar de pagar uma dívida. Então, comecem o duelo.",
+        "es-ES": "[Exorcista]\nEs una tarea que acepté para pagar una deuda. Bien, entonces probad el combate."
+    },
+    "vH5bDQ": {
+        "en-US": "[Mountain Lord]\nShall I stretch my body for the first time in a while? Disciple, come here. I will go easy on you.",
+        "pt-BR": "[Sangun]\nVejamos, faz tempo que não alongo o corpo. Discípulo, venha cá. Vou pegar leve com você.",
+        "es-ES": "[Señor de la montaña]\nA ver, ¿calentamos un poco después de tanto tiempo? Discípulo, ven aquí. Te trataré con suavidad."
+    },
+    "vX5bDQ": {
+        "en-US": "[Exorcist]\nWhy seek me out in the middle of training?",
+        "pt-BR": "[Exorcista]\nPor que me procura no meio do treinamento?",
+        "es-ES": "[Exorcista]\n¿Por qué has venido a buscarme en mitad del entrenamiento?"
+    },
+    "vn5bDQ": {
+        "en-US": "What are these trees?",
+        "pt-BR": "Que árvores são estas?",
+        "es-ES": "¿Qué son estos árboles?"
+    },
+    "v35bDQ": {
+        "en-US": "[Exorcist]\nThey are sacred trees that uphold the yin and yang of this world. If you light a fire with branches that fall from these trees, the fire lasts long and burns well.\nNow continue your training. You must never harm the trees.",
+        "pt-BR": "[Exorcista]\nSão árvores sagradas que sustentam o yin e o yang deste mundo. Se acender uma fogueira com os galhos que caem dessas árvores, o fogo dura muito e queima bem.\nAgora continue o treinamento. Jamais cause dano às árvores.",
+        "es-ES": "[Exorcista]\nSon árboles sagrados que sostienen el yin y el yang de este mundo. Si enciendes fuego con las ramas que caen de estos árboles, el fuego dura mucho y arde bien.\nAhora continúa con el entrenamiento. No debes dañar los árboles bajo ningún concepto."
+    },
+    "wH5bDQ": {
+        "en-US": "[Exorcist]\nEven though you have not finished training? Are you that confident?",
+        "pt-BR": "[Exorcista]\nMesmo sem ter concluído o treinamento? Tem tanta confiança assim?",
+        "es-ES": "[Exorcista]\n¿Aunque aún no has terminado el entrenamiento? ¿Tanta confianza tienes?"
+    },
+    "wX5bDQ": {
+        "en-US": "[Mountain Lord]\nDo not stop them! Very good! I like this spirit very much! Now, come at me!!!",
+        "pt-BR": "[Sangun]\nNão o impeça! Muito bom! Gosto muito dessa ousadia! Agora, venha logo!!!",
+        "es-ES": "[Señor de la montaña]\n¡No lo detengas! ¡Me parece magnífico! ¡Ese ímpetu me gusta mucho! ¡Vamos, ven ya!"
+    },
+    "wn5bDQ": {
+        "en-US": "[Exorcist]\nWhy seek me out in the middle of sparring? Do you wish to give up sparring?",
+        "pt-BR": "[Exorcista]\nPor que me procura no meio do duelo? Quer desistir?",
+        "es-ES": "[Exorcista]\n¿Por qué has venido a buscarme en mitad del combate? ¿Quieres abandonar el combate?"
+    },
+    "w35bDQ": {
+        "en-US": "I want to give up sparring.",
+        "pt-BR": "Quero desistir do duelo.",
+        "es-ES": "Quiero abandonar el combate."
+    },
+    "xH5bDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
+    },
+    "xX5bDQ": {
+        "en-US": "[Exorcist]\nYou understand your current position well now, do you not? Then begin training again.",
+        "pt-BR": "[Exorcista]\nAgora você entende bem sua situação, não é? Então volte a treinar.",
+        "es-ES": "[Exorcista]\nAhora entiendes bien tu situación, ¿verdad? Entonces vuelve a empezar el entrenamiento."
+    },
+    "xn5bDQ": {
+        "en-US": "[Mountain Lord]\nDisciple, try a little harder. My body is itching for this.",
+        "pt-BR": "[Sangun]\nDiscípulo, tente se esforçar um pouco mais. Meu corpo está coçando por ação.",
+        "es-ES": "[Señor de la montaña]\nDiscípulo, esfuérzate un poco. Me está entrando el gusanillo."
+    },
+    "x35bDQ": {
+        "en-US": "[Exorcist]\nThen why are you dawdling here? Go on. Mountain Lord is waiting.",
+        "pt-BR": "[Exorcista]\nEntão por que está enrolando aqui? Vá logo. Sangun está esperando, não está?",
+        "es-ES": "[Exorcista]\nEntonces, ¿por qué sigues aquí perdiendo el tiempo? Ve ya. Señor de la montaña te está esperando."
+    },
+    "yH5bDQ": {
+        "en-US": "[Exorcist]\nHmm... You somehow defeated Mountain Lord by chance. What do you think?",
+        "pt-BR": "[Exorcista]\nHmm... Por sorte, você venceu Sangun. O que acha disso?",
+        "es-ES": "[Exorcista]\nMmm... Has vencido a Señor de la montaña por pura suerte. ¿Qué te parece a ti?"
+    },
+    "yX5bDQ": {
+        "en-US": "[Mountain Lord]\nNot bad, but still very clumsy. A little more training would be good. What do you think, disciple?",
+        "pt-BR": "[Sangun]\nNão foi ruim, mas ainda está muito inexperiente. Acho que seria bom treinar um pouco mais. O que o discípulo acha?",
+        "es-ES": "[Señor de la montaña]\nNo está mal, pero aún es bastante torpe. Creo que le vendría bien un poco más de entrenamiento. ¿Qué opinas, discípulo?"
+    },
+    "yn5bDQ": {
+        "en-US": "I will train again.",
+        "pt-BR": "Farei o treinamento novamente.",
+        "es-ES": "Volveré a entrenar."
+    },
+    "y35bDQ": {
+        "en-US": "I will spar again.",
+        "pt-BR": "Farei o duelo novamente.",
+        "es-ES": "Volveré a combatir."
+    },
+    "zH5bDQ": {
+        "en-US": "[Exorcist]\nA wise decision. Understanding your own position is important as well. Then continue your training.",
+        "pt-BR": "[Exorcista]\nPensou bem. Também é importante conhecer sua própria posição. Então continue o treinamento.",
+        "es-ES": "[Exorcista]\nHas pensado bien. También es importante conocer tu propia posición. Entonces continúa con el entrenamiento."
+    },
+    "zX5bDQ": {
+        "en-US": "[Exorcist]\nAre you hoping for luck? What meaning is there in winning a fight without learning the basics?",
+        "pt-BR": "[Exorcista]\nEstá esperando um golpe de sorte? Que sentido há em vencer uma luta sem aprender o básico?",
+        "es-ES": "[Exorcista]\n¿Esperas un golpe de suerte? ¿Qué sentido tiene ganar una pelea sin dominar los fundamentos?"
+    },
+    "zn5bDQ": {
+        "en-US": "[Mountain Lord]\nDo not stop them! Now, come at me, disciple!",
+        "pt-BR": "[Sangun]\nNão o impeça! Agora, venha logo, discípulo!",
+        "es-ES": "[Señor de la montaña]\n¡No lo detengas! ¡Vamos, ven ya, discípulo!"
+    },
+    "z35bDQ": {
+        "en-US": "[Exorcist]\nWhat do you think? Do you not feel that you need more training?",
+        "pt-BR": "[Exorcista]\nO que acha? Você mesmo não sente que precisa de mais treinamento?",
+        "es-ES": "[Exorcista]\n¿Qué te parece a ti? ¿No crees que necesitas más entrenamiento?"
+    },
+    "0H5bDQ": {
+        "en-US": "[Exorcist]\nIt may be tedious, but it is necessary training. Work hard.",
+        "pt-BR": "[Exorcista]\nPode ser entediante, mas é um treinamento indispensável. Esforce-se.",
+        "es-ES": "[Exorcista]\nSerá aburrido, pero es un entrenamiento indispensable. Esfuérzate."
+    },
+    "0X5bDQ": {
+        "en-US": "[Mountain Lord]\nI like this disciple. This recklessness. I have not seen it in a long time. I would not tire of facing them no matter how many times we fight.",
+        "pt-BR": "[Sangun]\nGostei deste discípulo. Essa imprudência... Faz tempo que não vejo algo assim. Não me cansaria de enfrentá-lo várias vezes.",
+        "es-ES": "[Señor de la montaña]\nMe gusta este discípulo. Esa temeridad... Hace mucho que no veía algo así. No me cansaría de enfrentarme a él una y otra vez."
+    },
+    "0n5bDQ": {
+        "en-US": "[Exorcist]\nIf you continue clashing with them, you will surely come to realize something as well. I will not stop you.",
+        "pt-BR": "[Exorcista]\nSe continuar se chocando contra isso, certamente perceberá algo. Não o impedirei.",
+        "es-ES": "[Exorcista]\nSi sigues chocando contra él, seguro que acabarás comprendiendo algo. No te detendré."
+    },
+    "035bDQ": {
+        "en-US": "[Exorcist]\nWait, something is strange. Could you wait a moment?",
+        "pt-BR": "[Exorcista]\nEspere, há algo estranho. Pode aguardar um momento?",
+        "es-ES": "[Exorcista]\nUn momento, hay algo extraño. ¿Puedes esperar un poco?"
+    },
+    "1H5bDQ": {
+        "en-US": "[Exorcist]\nThat should be enough training, so spar with this Mountain Lord here.",
+        "pt-BR": "[Exorcista]\nVocê já treinou o suficiente, então tente duelar com este Sangun.",
+        "es-ES": "[Exorcista]\nCon eso ya has entrenado lo suficiente, así que prueba a combatir contra este Señor de la montaña."
+    },
+    "1X5bDQ": {
+        "en-US": "[Mountain Lord]\nI have been waiting for my disciple. Come.",
+        "pt-BR": "[Sangun]\nEstava esperando pelo discípulo. Venha logo.",
+        "es-ES": "[Señor de la montaña]\nTe estaba esperando, discípulo. Ven ya."
+    },
+    "1n5bDQ": {
+        "en-US": "[Exorcist]\nIs sparring with Mountain Lord difficult? Do not worry. You trained diligently, so you should surely be able to win.",
+        "pt-BR": "[Exorcista]\nEstá difícil duelar com Sangun? Não se preocupe. Você treinou com dedicação, então certamente conseguirá vencer.",
+        "es-ES": "[Exorcista]\n¿Te resulta duro combatir contra Señor de la montaña? No te preocupes. Has entrenado con constancia, así que seguro que podrás ganar."
+    },
+    "135bDQ": {
+        "en-US": "[Exorcist]\nWill you spar with Mountain Lord again?",
+        "pt-BR": "[Exorcista]\nQuer duelar com Sangun novamente?",
+        "es-ES": "[Exorcista]\n¿Quieres volver a combatir contra Señor de la montaña?"
+    },
+    "2H5bDQ": {
+        "en-US": "[Mountain Lord]\nDisciple, I welcome you anytime!",
+        "pt-BR": "[Sangun]\nDiscípulo, eu o recebo quando quiser!",
+        "es-ES": "[Señor de la montaña]\nDiscípulo, ¡siempre eres bienvenido!"
+    },
+    "2X5bDQ": {
+        "en-US": "[Exorcist]\nAre you all right? The results of your training are showing, so try just a little more.",
+        "pt-BR": "[Exorcista]\nVocê está bem? Os resultados do treinamento estão aparecendo, então tente só mais um pouco.",
+        "es-ES": "[Exorcista]\n¿Estás bien? Se ven los frutos del entrenamiento, así que solo tienes que intentarlo un poco más."
+    },
+    "2n5bDQ": {
+        "en-US": "[Mountain Lord]\nOh dear, I feel sorry about that. I will go easy on you this time.",
+        "pt-BR": "[Sangun]\nOra, desculpe por isso. Desta vez vou enfrentá-lo com mais leveza.",
+        "es-ES": "[Señor de la montaña]\nVaya, lo siento. Esta vez te trataré con suavidad."
+    },
+    "235bDQ": {
+        "en-US": "[Exorcist]\nThat was excellent.",
+        "pt-BR": "[Exorcista]\nIsso foi excelente.",
+        "es-ES": "[Exorcista]\nCon eso basta. Ha sido excelente."
+    },
+    "3H5bDQ": {
+        "en-US": "[Mountain Lord]\nDisciple, would you consider continuing your training on this mountainside? From what I see, you have enough talent to do anything. I will rent you an empty peak at a low price.",
+        "pt-BR": "[Sangun]\nDiscípulo, não pensa em continuar treinando neste sopé da montanha? Pelo que vejo, você tem talento de sobra para qualquer coisa. Posso alugar um pico vazio por um preço barato.",
+        "es-ES": "[Señor de la montaña]\nDiscípulo, ¿no te gustaría seguir entrenando en esta ladera? A mis ojos, tienes talento de sobra para hacer cualquier cosa. Te alquilaré una cima vacía a bajo precio."
+    },
+    "3X5bDQ": {
+        "en-US": "[Exorcist]\nStop scheming to increase your tenants.",
+        "pt-BR": "[Exorcista]\nPare com essa artimanha para aumentar seus inquilinos.",
+        "es-ES": "[Exorcista]\nDeja de intentar aumentar tus inquilinos."
+    },
+    "3n5bDQ": {
+        "en-US": "[Mountain Lord]\nI am enjoying myself for the first time in a while! If not the disciple, then you should face me, Exorcist!",
+        "pt-BR": "[Sangun]\nFaz tempo que não me divirto assim! Se não for o discípulo, então que tal você, Exorcista, me enfrentar?",
+        "es-ES": "[Señor de la montaña]\n¡Es que hacía mucho que no me divertía tanto! Si no es el discípulo, ¡enfréntate tú a mí, Exorcista!"
+    },
+    "335bDQ": {
+        "en-US": "[Exorcist]\nYou, come back with me now.",
+        "pt-BR": "[Exorcista]\nVocê, agora volte comigo.",
+        "es-ES": "[Exorcista]\nTú, vuelve conmigo ahora."
+    },
+    "4H5bDQ": {
+        "en-US": "[Mountain Lord]\nWait! What is for dinner tonight? I will arrive right on time!!!",
+        "pt-BR": "[Sangun]\nEspere! O que teremos no jantar hoje? Eu também irei na hora certa!!!",
+        "es-ES": "[Señor de la montaña]\n¡Espera! ¿Qué habrá para cenar hoy? ¡Iré a tiempo!"
+    },
+    "4X5bDQ": {
+        "en-US": "[Exorcist]\nWhy are you here? I came just in case. Come now, let us go.",
+        "pt-BR": "[Exorcista]\nPor que você está aqui? Vim conferir, desconfiando que fosse isso. Vamos logo.",
+        "es-ES": "[Exorcista]\n¿Por qué estás aquí? Vine por si acaso y te encuentro así. Vamos, date prisa."
+    },
+    "4n5bDQ": {
+        "en-US": "Oh dear. Are you all right? Come here.",
+        "pt-BR": "Puxa. Está bem? Venha cá.",
+        "es-ES": "Vaya. ¿Estás bien? Ven aquí."
+    },
+    "435bDQ": {
+        "en-US": "Training is the only path to strength. There are no shortcuts. Come here.",
+        "pt-BR": "O único caminho para ficar mais forte é o treinamento. Não há atalhos. Venha cá.",
+        "es-ES": "El único camino para hacerse fuerte es el entrenamiento. No existen atajos. Ven aquí."
+    },
+    "5H5bDQ": {
+        "en-US": "Mountain Lord",
+        "pt-BR": "Sangun",
+        "es-ES": "Señor de la montaña"
+    },
+    "5X5bDQ": {
+        "en-US": "Does the disciple have business with me?",
+        "pt-BR": "Discípulo, você precisa de algo comigo?",
+        "es-ES": "¿Necesitas algo de mí, discípulo?"
+    },
+    "5n5bDQ": {
+        "en-US": "Mountain Lord",
+        "pt-BR": "Sangun",
+        "es-ES": "Señor de la montaña"
+    },
+    "535bDQ": {
+        "en-US": "You did very well. Come here.",
+        "pt-BR": "Isso foi muito bem feito. Venha cá.",
+        "es-ES": "Lo has hecho muy bien. Ven aquí."
+    },
+    "6H5bDQ": {
+        "en-US": "What did you just do? Come here.",
+        "pt-BR": "O que você acabou de fazer? Venha aqui.",
+        "es-ES": "¿Qué acabas de hacer? Ven aquí."
+    },
+    "6X5bDQ": {
+        "en-US": "Tree",
+        "pt-BR": "Árvore",
+        "es-ES": "Árbol"
+    },
+    "6n5bDQ": {
+        "en-US": "[Exorcist]\nNo matter how long you wait there, there are no more branches.",
+        "pt-BR": "[Exorcista]\nMesmo que espere aí para sempre, não haverá mais galhos.",
+        "es-ES": "[Exorcista]\nAunque esperes ahí cien días, ya no habrá más ramas."
+    },
+    "635bDQ": {
+        "en-US": "[Exorcist]\nWhy are you in such a hurry? Should you not listen to the explanation first? Come here.",
+        "pt-BR": "[Exorcista]\nQual é a pressa? Primeiro você deve ouvir a explicação. Venha cá.",
+        "es-ES": "[Exorcista]\n¿Por qué tanta prisa? Primero debes escuchar la explicación. Ven aquí."
+    },
+    "7H5bDQ": {
+        "en-US": "[{0}]\nBranches, hurry up and fall!",
+        "pt-BR": "[{0}]\nGalhos, caiam logo!",
+        "es-ES": "[{0}]\n¡Ramas, caed ya!"
+    },
+    "7X5bDQ": {
+        "en-US": "[{0}]\nWill it fall this way?",
+        "pt-BR": "[{0}]\nVai cair deste lado?",
+        "es-ES": "[{0}]\n¿Caerá por aquí?"
+    },
+    "7n5bDQ": {
+        "en-US": "[{0}]\nI caught one!",
+        "pt-BR": "[{0}]\nPeguei um!",
+        "es-ES": "[{0}]\n¡Atrapé una!"
+    },
+    "735bDQ": {
+        "en-US": "[Exorcist]\nNot bad for your first time. It does not seem the wind will blow that way anymore, so move to another spot.",
+        "pt-BR": "[Exorcista]\nPara a primeira vez, foi bom. Parece que o vento não soprará mais para esse lado, então mude de lugar.",
+        "es-ES": "[Exorcista]\nNo está mal para ser la primera vez. Ya no parece que vaya a soplar más viento por ahí, así que cambia de sitio."
+    },
+    "8H5bDQ": {
+        "en-US": "[{0}]\nAh... I missed it...",
+        "pt-BR": "[{0}]\nAh... perdi...",
+        "es-ES": "[{0}]\nAh... Se me escapó..."
+    },
+    "8X5bDQ": {
+        "en-US": "Do not forget your promise.",
+        "pt-BR": "Não se esqueça do que prometeu.",
+        "es-ES": "No olvides lo prometido."
+    },
+    "8n5bDQ": {
+        "en-US": "What do you mean?",
+        "pt-BR": "Do que está falando?",
+        "es-ES": "¿A qué te refieres?"
+    },
+    "835bDQ": {
+        "en-US": "This month's rent.",
+        "pt-BR": "Do aluguel deste mês.",
+        "es-ES": "Al alquiler de este mes."
+    },
+    "9H5bDQ": {
+        "en-US": "Won, honestly. Do you think I would deceive you? Do not worry.",
+        "pt-BR": "Won, francamente. Acha que passei a vida toda sendo enganado? Não se preocupe.",
+        "es-ES": "Won, de verdad. ¿Crees que todos te van a engañar? No te preocupes."
+    },
+    "9X5bDQ": {
+        "en-US": "Thank you. That is one less worry this month.",
+        "pt-BR": "Agradeço. Este mês já fico aliviado.",
+        "es-ES": "Gracias. Este mes me quitas un peso de encima."
+    },
+    "9n5bDQ": {
+        "en-US": "You must not forget your promise either.",
+        "pt-BR": "Você também não se esqueça do que prometeu.",
+        "es-ES": "Tú tampoco olvides lo prometido."
+    },
+    "935bDQ": {
+        "en-US": "What do you mean?",
+        "pt-BR": "Do que está falando?",
+        "es-ES": "¿A qué te refieres?"
+    },
+    "+H5bDQ": {
+        "en-US": "The sparring match with your disciple.",
+        "pt-BR": "Do duelo com seu discípulo.",
+        "es-ES": "Al combate contra tu discípulo."
+    },
+    "+X5bDQ": {
+        "en-US": "That is something you must do whether you like it or not.",
+        "pt-BR": "Isso terá de fazer, mesmo que você não queira.",
+        "es-ES": "Tendrás que hacerlo aunque no quieras."
+    },
+    "+n5bDQ": {
+        "en-US": "[Exorcist]\nNo matter how long you wait there, you cannot obtain any branches.",
+        "pt-BR": "[Exorcista]\nMesmo que espere aí para sempre, não poderá obter galhos.",
+        "es-ES": "[Exorcista]\nAunque esperes ahí cien días, no conseguirás ramas."
+    },
+    "+35bDQ": {
+        "en-US": "[{0}]\nWind, please blow this way.",
+        "pt-BR": "[{0}]\nSenhor vento, sopre para cá, por favor.",
+        "es-ES": "[{0}]\nSeñor viento, sople hacia aquí, por favor."
+    },
+    "/H5bDQ": {
+        "en-US": "[{0}]\nI have to catch it!!! Got it!!!",
+        "pt-BR": "[{0}]\nPreciso pegar!!! Peguei!!!",
+        "es-ES": "[{0}]\n¡¡¡Tengo que atraparla!!! ¡¡¡La atrapé!!!"
+    },
+    "/X5bDQ": {
+        "en-US": "[{0}]\nJust a little more should do it, right?",
+        "pt-BR": "[{0}]\nSó mais um pouco deve bastar, não é?",
+        "es-ES": "[{0}]\n¿Bastará con un poco más?"
+    },
+    "/n5bDQ": {
+        "en-US": "[Exorcist]\nNow check another tree. The wind will no longer blow there.",
+        "pt-BR": "[Exorcista]\nAgora observe outra árvore. O vento não soprará mais nesse lugar.",
+        "es-ES": "[Exorcista]\nAhora mira otro árbol. Allí ya no soplará más viento."
+    },
+    "/35bDQ": {
+        "en-US": "[{0}]\nAh... I missed it! What a shame!!",
+        "pt-BR": "[{0}]\nAh... perdi! Que pena!!",
+        "es-ES": "[{0}]\nAh... ¡Se me escapó! ¡Qué pena!"
+    },
+    "AH9bDQ": {
+        "en-US": "The disciple is quite good.",
+        "pt-BR": "O discípulo é bem capaz.",
+        "es-ES": "El discípulo es bastante bueno."
+    },
+    "AX9bDQ": {
+        "en-US": "They have trained quite a bit here, so they should at least manage that much.",
+        "pt-BR": "Depois de treinar tanto neste lugar, ele precisa ao menos fazer isso.",
+        "es-ES": "Después de haber entrenado tanto aquí, al menos debería hacer eso."
+    },
+    "An9bDQ": {
+        "en-US": "Though your words are harsh, I can tell you are pleased inside.",
+        "pt-BR": "Mesmo falando com tanta frieza, dá para ver que você está satisfeito por dentro.",
+        "es-ES": "Aunque hablas con tanta frialdad, se nota que en el fondo estás satisfecho."
+    },
+    "A39bDQ": {
+        "en-US": "Are you trying to raise them into a Taoist like yourself?",
+        "pt-BR": "Pretende criá-lo como um taoísta igual a você?",
+        "es-ES": "¿Piensas criarlo como un daoísta igual que tú?"
+    },
+    "BH9bDQ": {
+        "en-US": "No. The disciple already walks the path of a Soul Reaper.",
+        "pt-BR": "Não. O discípulo já trilha o caminho de um invocador de almas.",
+        "es-ES": "No. El discípulo ya camina por la senda del invocador de almas."
+    },
+    "BX9bDQ": {
+        "en-US": "They are training to lessen the burden on their body.",
+        "pt-BR": "Ele treina para aliviar a carga sobre o corpo.",
+        "es-ES": "Entrena para aliviar la carga que sufre el cuerpo."
+    },
+    "Bn9bDQ": {
+        "en-US": "How much? A thousand years?",
+        "pt-BR": "Quanto tempo? Mil anos?",
+        "es-ES": "¿Cuánto? ¿Mil años?"
+    },
+    "B39bDQ": {
+        "en-US": "They are not becoming a proper Taoist, only learning to use talismans and creating the vessel of a Taoist.",
+        "pt-BR": "Ele não vai se tornar um taoísta formal; está aprendendo a usar talismãs e criando o recipiente de um taoísta.",
+        "es-ES": "No se trata de convertirlo en un daoísta formal, sino de que aprenda a usar talismanes y cree el recipiente de un daoísta."
+    },
+    "CH9bDQ": {
+        "en-US": "Tch. I was excited for nothing.",
+        "pt-BR": "Tsc. Fiquei animado à toa.",
+        "es-ES": "Tch. Y yo que me había ilusionado."
+    },
+    "CX9bDQ": {
+        "en-US": "If you are that disappointed, why not take on a disciple yourself?",
+        "pt-BR": "Se lamenta tanto assim, aceite você também um discípulo.",
+        "es-ES": "Si tanta pena te da, toma tú también un discípulo."
+    },
+    "Cn9bDQ": {
+        "en-US": "That does not suit my temperament. A mountain lord taking on a disciple? Even a passing crow would laugh.",
+        "pt-BR": "Isso não combina comigo. Um herói das montanhas com discípulo? Até um corvo passando por aqui riria disso.",
+        "es-ES": "Eso no va con mi carácter. ¿Un héroe de la montaña con discípulo? Hasta un cuervo que pasara por aquí se reiría."
+    },
+    "C39bDQ": {
+        "en-US": "[{0}]\nI think I can catch them well now...!",
+        "pt-BR": "[{0}]\nAcho que agora consigo pegar bem...!",
+        "es-ES": "[{0}]\nCreo que ahora podré atraparlas bien...!"
+    },
+    "DH9bDQ": {
+        "en-US": "[{0}]\nPlease come this way, this way!",
+        "pt-BR": "[{0}]\nPor favor, venha para cá, para cá!",
+        "es-ES": "[{0}]\nPor favor, ven por aquí, por aquí!"
+    },
+    "DX9bDQ": {
+        "en-US": "[{0}]\nGot it!!",
+        "pt-BR": "[{0}]\nPeguei!!",
+        "es-ES": "[{0}]\n¡¡La atrapé!!"
+    },
+    "Dn9bDQ": {
+        "en-US": "[Exorcist]\nThat is enough branches, so come here.",
+        "pt-BR": "[Exorcista]\nEssa quantidade de galhos é suficiente. Venha cá.",
+        "es-ES": "[Exorcista]\nCon esas ramas basta, así que ven aquí."
+    },
+    "D39bDQ": {
+        "en-US": "[{0}]\nWas I too confident? I missed it.",
+        "pt-BR": "[{0}]\nSerá que fiquei confiante demais? Acabei perdendo.",
+        "es-ES": "[{0}]\n¿Me confié demasiado? Se me escapó."
+    },
+    "EH9bDQ": {
+        "en-US": "By the way, they read the wind quite well. You said this was their first time, did you not?",
+        "pt-BR": "Aliás, você lê o vento muito bem. Não disse que era sua primeira vez?",
+        "es-ES": "Por cierto, lee bastante bien el viento. ¿No era su primera vez?"
+    },
+    "EX9bDQ": {
+        "en-US": "Indeed.",
+        "pt-BR": "Sim.",
+        "es-ES": "Así es."
+    },
+    "En9bDQ": {
+        "en-US": "They are exceptional in many ways.",
+        "pt-BR": "Ele é diferente em vários sentidos.",
+        "es-ES": "Es excepcional en muchos sentidos."
+    },
+    "E39bDQ": {
+        "en-US": "Do not covet them.",
+        "pt-BR": "Não tente cobiçá-lo.",
+        "es-ES": "No lo codicies."
+    },
+    "FH9bDQ": {
+        "en-US": "Who said anything? I was praising them.",
+        "pt-BR": "Quem disse alguma coisa? Estou elogiando.",
+        "es-ES": "¿Quién ha dicho nada? Solo lo estaba elogiando."
+    },
+    "FX9bDQ": {
+        "en-US": "You should just spar and keep your promise.",
+        "pt-BR": "Você só precisa duelar e cumprir sua promessa.",
+        "es-ES": "Tú limítate a combatir y cumplir tu promesa."
+    },
+    "Fn9bDQ": {
+        "en-US": "Hah! Honestly, you truly know how to hurt a person's feelings!",
+        "pt-BR": "Ha! Ora essa! Você realmente sabe como magoar uma pessoa!",
+        "es-ES": "¡Ja! ¡Vaya! ¡De verdad sabes cómo herir los sentimientos de uno!"
+    },
+    "F39bDQ": {
+        "en-US": "It seems the training is almost over now.",
+        "pt-BR": "Parece que o treinamento já está quase no fim.",
+        "es-ES": "Parece que el entrenamiento ya está casi terminado."
+    },
+    "GH9bDQ": {
+        "en-US": "What? Then I should warm up as well!",
+        "pt-BR": "O quê? Então eu também preciso me aquecer!",
+        "es-ES": "¿Qué? ¡Entonces también debería ir calentando!"
+    }
+}

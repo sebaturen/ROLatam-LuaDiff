@@ -7,7 +7,7 @@
     "wdprAw": {
         "en-US": "[Ernst]\nGreetings.\nYou are here to visit the academy, aren't you?\nOr are you here to do some work? ...",
         "pt-BR": "[Enrico]\nOi.\nVocê veio visitar a Academia?\nEu espero que sim...",
-        "es-ES": "[Ernst]\nSaludos.\nViniste a visitar la Academia, ¿verdad?\n¿O viniste a trabajar?…"
+        "es-ES": "[Ernst]\nSaludos.\nViniste a visitar la Academia, ¿verdad?\n¿O viniste a trabajar?..."
     },
     "wtprAw": {
         "en-US": "^4D4DFFThis quest is for Level 80 and up.^000000",
@@ -22,7 +22,7 @@
     "xNprAw": {
         "en-US": "[Ernst]\nWhy don't you go west?\nFarther ^4D4DFFwest^000000 of the ^4D4DFFValley of the Abyss^000000 ...",
         "pt-BR": "[Enrico]\nJá visitou os arredores de Einbroch?\nSaindo do ^4D4DFFDesfiladeiro Elmes^000000, à ^4D4DFFesquerda^000000 de onde estamos...",
-        "es-ES": "[Ernst]\n¿Por qué no vas hacia el oeste?\nMás al ^4D4DFFoeste^000000 del ^4D4DFFValle del abismo^000000…"
+        "es-ES": "[Ernst]\n¿Por qué no vas hacia el oeste?\nMás al ^4D4DFFoeste^000000 del ^4D4DFFValle del abismo^000000..."
     },
     "xdprAw": {
         "en-US": "What's going on?",
@@ -32,7 +32,7 @@
     "xtprAw": {
         "en-US": "[Ernst]\nOh, it's just that I was informed that my elder brother will be working there.\nIt's a dangerous area to send my regards or visit in person ...",
         "pt-BR": "[Enrico]\nAh, nada demais, só ouvi dizer que meu irmão mais velho vai trabalhar lá.\nLá é meio perigoso para quem não trabalha na área...",
-        "es-ES": "[Ernst]\nAh, es que me informaron que mi hermano mayor estará trabajando allí.\nEs una zona demasiado peligrosa como para enviar mis saludos o visitarlo en persona…"
+        "es-ES": "[Ernst]\nAh, es que me informaron que mi hermano mayor estará trabajando allí.\nEs una zona demasiado peligrosa como para enviar mis saludos o visitarlo en persona..."
     },
     "x9prAw": {
         "en-US": "[Ernst]\nI thought he was going to work at ^4D4DFFEinbroch.^000000\nI'm curious and worried about why he suddenly got assigned to the factory in the outskirts.",
@@ -42,12 +42,12 @@
     "yNprAw": {
         "en-US": "[Ernst]\n... I don't know what to say, but\nI want to send my regards to him.",
         "pt-BR": "[Enrico]\n......Eu não sei o que fazer.\nQueria visitar meu irmão.",
-        "es-ES": "[Ernst]\n… No sé qué decir, pero\nquiero enviarle mis saludos."
+        "es-ES": "[Ernst]\n... No sé qué decir, pero\nquiero enviarle mis saludos."
     },
     "ydprAw": {
         "en-US": "[Ernst]\nWhen I lived in the village, I was such a troublemaker, so he worked hard to pay for my tuition...\nHmm ...",
         "pt-BR": "[Enrico]\nMeu irmão trabalhou muito para pagar essa Academia pra mim......\nOh...",
-        "es-ES": "[Ernst]\nCuando vivía en la aldea, yo era muy problemático, así que se esforzó mucho para pagar mi matrícula…\nMmm…"
+        "es-ES": "[Ernst]\nCuando vivía en la aldea, yo era muy problemático, así que se esforzó mucho para pagar mi matrícula...\nMmm..."
     },
     "ytprAw": {
         "en-US": "I will send your regards.",
@@ -72,7 +72,7 @@
     "ztprAw": {
         "en-US": "[Ernst]\nPlease make sure to tell him!\nAlso, if he is having a hard time ...\nPlease lend him an ear.",
         "pt-BR": "[Enrico]\nPor favor, diga isso a ele!\nE se ele tiver com problemas......\nPor favor, aceite a ajuda dele.",
-        "es-ES": "[Ernst]\nNo olvides darle mi mensaje.\nAdemás, si no está en un buen momento…\nPor favor, escucha lo que tiene para decir."
+        "es-ES": "[Ernst]\nNo olvides darle mi mensaje.\nAdemás, si no está en un buen momento...\nPor favor, escucha lo que tiene para decir."
     },
     "z9prAw": {
         "en-US": "[Ernst]\nHe is going through a lot because of me.\nGood luck, then!\nHis name is ^4D4DFFFriedrich Schumacher^000000.\nHe works ^4D4DFFin the old factory area in the center of the field located west of this academy^000000.",
@@ -132,7 +132,7 @@
     "2tprAw": {
         "en-US": "[Friedrich]\nGo west-west-south to get to Einbroch.\nThe west area is a bit dangerous ...",
         "pt-BR": "[Fred]\nEinbroch está no sentido oeste-sul daqui.\nChegar lá pode ser perigoso...",
-        "es-ES": "[Friedrich]\nVe hacia el oeste, otra vez al oeste y, luego, al sur para llegar a Einbroch.\nLa zona oeste es un poco peligrosa…"
+        "es-ES": "[Friedrich]\nVe hacia el oeste, otra vez al oeste y, luego, al sur para llegar a Einbroch.\nLa zona oeste es un poco peligrosa..."
     },
     "29prAw": {
         "en-US": "[Friedrich]\nIf you want to get there safely,\nyou'd better take the Airship at Juno.",
@@ -162,7 +162,7 @@
     "4NprAw": {
         "en-US": "[Friedrich]\nDo you know my younger brother?\nAh ...\nYou came here at my brother's request?",
         "pt-BR": "[Fred]\nVocê conhece meu irmão?\nAh...\nVocê veio aqui por causa do meu irmão?",
-        "es-ES": "[Friedrich]\n¿Conoces a mi hermano menor?\nAh…\n¿Viniste porque te lo pidió mi hermano?"
+        "es-ES": "[Friedrich]\n¿Conoces a mi hermano menor?\nAh...\n¿Viniste porque te lo pidió mi hermano?"
     },
     "4dprAw": {
         "en-US": "[Friedrich]\nIt seems that kid finally pulled himself together.\nHow is he doing?\nNo, I'm sure he's doing fine.",
@@ -182,7 +182,7 @@
     "5NprAw": {
         "en-US": "[Friedrich]\nAh ... Well.\nThey said that they'd pay more.\nIt's already more like an abandoned factory, but it still needs management.\nI applied because I thought I'd be staying in a quiet place ...\nBut things turned out like this.",
         "pt-BR": "[Fred]\nAh.. sim.\nPorque aqui dá mais dinheiro.\nNinguém quer sair da cidade para fazer manutenção numa Usina abandonada.\nEscolhi trabalhar aqui por que é mais tranquilo...\nEspero que entenda.",
-        "es-ES": "[Friedrich]\nAh… Bueno.\nMe dijeron que pagarían más.\nYa parece una fábrica abandonada, pero aún necesita que la administren.\nMe postulé porque pensé que estaría en un lugar tranquilo…\nPero las cosas resultaron así."
+        "es-ES": "[Friedrich]\nAh... Bueno.\nMe dijeron que pagarían más.\nYa parece una fábrica abandonada, pero aún necesita que la administren.\nMe postulé porque pensé que estaría en un lugar tranquilo...\nPero las cosas resultaron así."
     },
     "5dprAw": {
         "en-US": "[Friedrich]\nThere are some problems, but they're not a big threat.\nAre you worried about me?\nYou're a very kind person.",
@@ -202,7 +202,7 @@
     "6NprAw": {
         "en-US": "[Friedrich]\nIf you're lost, I can tell you the way to some extent ...\nOtherwise, would you like to do a simple quest?",
         "pt-BR": "[Fred]\nAh, já que você está aqui...\nPosso te pedir um favor simples?",
-        "es-ES": "[Friedrich]\nSi te perdiste, puedo indicarte el camino hasta cierto punto…\nSi no, ¿te gustaría hacer una misión sencilla?"
+        "es-ES": "[Friedrich]\nSi te perdiste, puedo indicarte el camino hasta cierto punto...\nSi no, ¿te gustaría hacer una misión sencilla?"
     },
     "6dprAw": {
         "en-US": "Neighborhood Cleanup",
@@ -227,12 +227,12 @@
     "7dprAw": {
         "en-US": "[Friedrich]\nPlease stop by once in a while when you're passing through.\nYou may also rest a little.\nHaha ...",
         "pt-BR": "[Fred]\nSe um dia você voltar aqui, me visite.\nAssim, o tédio vai embora.\nHah...",
-        "es-ES": "[Friedrich]\nVen a verme cada tanto cuando estés de paso.\nTambién puedes descansar un poco.\nJa, ja…"
+        "es-ES": "[Friedrich]\nVen a verme cada tanto cuando estés de paso.\nTambién puedes descansar un poco.\nJa, ja..."
     },
     "7tprAw": {
         "en-US": "[Friedrich]\nYou've come.\nHave you been working around here lately?\nPeople don't usually come all the way here ...",
         "pt-BR": "[Fred]\nVocê veio.\nTem gostado de visitar esse lugar?\nTudo é longe daqui...",
-        "es-ES": "[Friedrich]\nViniste.\n¿Estuviste trabajando por aquí últimamente?\nLa gente no suele venir hasta aquí…"
+        "es-ES": "[Friedrich]\nViniste.\n¿Estuviste trabajando por aquí últimamente?\nLa gente no suele venir hasta aquí..."
     },
     "79prAw": {
         "en-US": "[Friedrich]\nI believe it's time to eliminate the monsters around the factory. Can I ask you to do so now?",
@@ -282,17 +282,17 @@
     "+NprAw": {
         "en-US": "[Friedrich]\nOh, you defeated them all.\nThank you for your help.\nAs for Metalings ... They are transformed Porings that grew up by eating discarded materials..\nWatching them makes me feel bad, but what can I do.",
         "pt-BR": "[Fred]\nOh, você deixou tudo sob controle\nObrigado pelo seu esforço.\nOs Metallings nasceram quando os Porings começaram a comer materiais descartados...\nÉ uma vergonha para a humanidade não saber descartar seu lixo apropriadamente.",
-        "es-ES": "[Friedrich]\nLos derrotaste a todos.\nGracias por tu ayuda.\nEn cuanto a los Metaling… Son Poring transformados que crecieron por comer materiales desechados.\nVerlos me hace sentir mal, pero ¿qué podría hacer?"
+        "es-ES": "[Friedrich]\nLos derrotaste a todos.\nGracias por tu ayuda.\nEn cuanto a los Metaling... Son Poring transformados que crecieron por comer materiales desechados.\nVerlos me hace sentir mal, pero ¿qué podría hacer?"
     },
     "+dprAw": {
         "en-US": "[Friedrich]\nThis is a world where people are also eliminated if they get in the way.\n...\n... This is a small reward.\nI hope it helps you.",
         "pt-BR": "[Fred]\nO mundo não é um cesto de lixo.\n....\n...Aceite esse pequeno agrado.\nObrigado.",
-        "es-ES": "[Friedrich]\nEste es un mundo en el que también se elimina a las personas si estorban.\n…\n… Es una pequeña recompensa.\nEspero que te ayude."
+        "es-ES": "[Friedrich]\nEste es un mundo en el que también se elimina a las personas si estorban.\n...\n... Es una pequeña recompensa.\nEspero que te ayude."
     },
     "+tprAw": {
         "en-US": "[Friedrich]\nIf you're willing to hunt around here ...\nCan I ask you to do a simple quest?",
         "pt-BR": "[Fred]\nSe você quiser fazer algo aqui...\nPosso te pedir um simples favor?",
-        "es-ES": "[Friedrich]\nSi tienes intención de cazar por aquí…\n¿Puedo pedirte que cumplas una simple misión?"
+        "es-ES": "[Friedrich]\nSi tienes intención de cazar por aquí...\n¿Puedo pedirte que cumplas una simple misión?"
     },
     "+9prAw": {
         "en-US": "[Friedrich]\nIt's an official quest registered with Eden Group\nBut wouldn't it be to our mutual benefit for me to pay you to handle it?",
@@ -347,7 +347,7 @@
     "BdtrAw": {
         "en-US": "[Friedrich]\nIf you help me here, you might be able to use my commuter pass ...\nThen I can send you there at once ...",
         "pt-BR": "[Fred]\nSe você me ajudar, posso usar minha passagem...\nMas acho que ela só funciona uma vez...",
-        "es-ES": "[Friedrich]\nSi me ayudas aquí, podría dejarte usar mi pase de trabajador…\nAsí, podría enviarte allí de inmediato…"
+        "es-ES": "[Friedrich]\nSi me ayudas aquí, podría dejarte usar mi pase de trabajador...\nAsí, podría enviarte allí de inmediato..."
     },
     "BttrAw": {
         "en-US": "[Friedrich]\nI can use it only once, so I'll get in trouble if I just give it to you.\nWe should at least finish the work around here.",
@@ -362,12 +362,12 @@
     "CNtrAw": {
         "en-US": "[Friedrich]\nAs expected, I received a warning. Hahahaha ...\nI don't think I can lend it to you anymore.\n... I apologize for not helping.",
         "pt-BR": "[Fred]\nEu te falei. HahHah...\nNão tenho como emprestar de novo.\n...Desculpe não poder ajudar.",
-        "es-ES": "[Friedrich]\nComo era de esperar, recibí una advertencia. Ja, ja, ja, ja…\nNo creo que pueda prestártelo de nuevo.\n… Disculpa que no pueda ayudarte."
+        "es-ES": "[Friedrich]\nComo era de esperar, recibí una advertencia. Ja, ja, ja, ja...\nNo creo que pueda prestártelo de nuevo.\n... Disculpa que no pueda ayudarte."
     },
     "CdtrAw": {
         "en-US": "[Friedrich]\nYou came all the way to this remote place ...",
         "pt-BR": "[Fred]\nE você ainda veio para um lugar tão longe como esse.....",
-        "es-ES": "[Friedrich]\nViniste hasta este lugar remoto…"
+        "es-ES": "[Friedrich]\nViniste hasta este lugar remoto..."
     },
     "CttrAw": {
         "en-US": "Guard Atin",
@@ -377,7 +377,7 @@
     "C9trAw": {
         "en-US": "Hmm...? Wait, please cooperate with us. We need to check your pass.",
         "pt-BR": "Hmmm...? Posso ver sua passagem?",
-        "es-ES": "¿Mmm…? Espera, coopera con nosotros, por favor. Tenemos que controlar tu pase."
+        "es-ES": "¿Mmm...? Espera, coopera con nosotros, por favor. Tenemos que controlar tu pase."
     },
     "DNtrAw": {
         "en-US": "Welcome to Einbech. This train is the Einbroch-Einbech circular line train.",
@@ -387,7 +387,7 @@
     "DdtrAw": {
         "en-US": "[Atin]\nI'm sorry, but we need to check your pass.\nThe car you just got on is a commuter car, so it is not used by common Adventurers ...",
         "pt-BR": "[Aiden]\nPerdão... preciso verificar sua passagem.\nEsse trem é somente para cargas, não transporta pessoas.......",
-        "es-ES": "[Atin]\nLo siento, pero tenemos que controlar tu pase.\nEl vagón al que te acabas de subir es para empleados, no para trotamundos comunes…"
+        "es-ES": "[Atin]\nLo siento, pero tenemos que controlar tu pase.\nEl vagón al que te acabas de subir es para empleados, no para trotamundos comunes..."
     },
     "DttrAw": {
         "en-US": "[Atin]\nYou don't look like you work in a coal mine or a factory.\nBut you're not a miner, either.",
@@ -402,12 +402,12 @@
     "ENtrAw": {
         "en-US": "[Atin]\n... Friedrich? Do you mean Friedrich Schumacher?\nMay I see your pass, please?",
         "pt-BR": "[Aiden]\n...Fred? Friedrich Schumacher, você diz?\nPosso ver a passagem?",
-        "es-ES": "[Atin]\n… ¿Friedrich? ¿Te refieres a Friedrich Schumacher?\n¿Puedo ver tu pase, por favor?"
+        "es-ES": "[Atin]\n... ¿Friedrich? ¿Te refieres a Friedrich Schumacher?\n¿Puedo ver tu pase, por favor?"
     },
     "EdtrAw": {
         "en-US": "[Atin]\n... Checked it.\nFriedrich must have lent it as a favor, but under the regulations, this pass is for workers and cannot be loaned or given to others.",
         "pt-BR": "[Aiden]\n...Confirmado.\nDe acordo com o regulamento, essa passagem é para trabalhadores, portanto não pode ser emprestado ou transferido para outros.",
-        "es-ES": "[Atin]\n… Comprobado.\nFriedrich te lo debe haber prestado como un favor, pero, según las normas, este pase es para los trabajadores y no se puede prestar ni entregar a otras personas."
+        "es-ES": "[Atin]\n... Comprobado.\nFriedrich te lo debe haber prestado como un favor, pero, según las normas, este pase es para los trabajadores y no se puede prestar ni entregar a otras personas."
     },
     "EttrAw": {
         "en-US": "[Atin]\nI'll give Friedrich a warning.\nPlease remember that in the future.",
@@ -417,7 +417,7 @@
     "E9trAw": {
         "en-US": "[Atin]\n... For further guidance ...",
         "pt-BR": "[Aiden]\n... se quiser outra informação...",
-        "es-ES": "[Atin]\n… Para más información…"
+        "es-ES": "[Atin]\n... Para más información..."
     },
     "FNtrAw": {
         "en-US": "Hey, Atin! What happened to what I said before?",
@@ -427,7 +427,7 @@
     "FdtrAw": {
         "en-US": "S-Sir...",
         "pt-BR": "...Senhor...?",
-        "es-ES": "S-señor…"
+        "es-ES": "S-señor..."
     },
     "FttrAw": {
         "en-US": "[Einbech Resident]\nDidn't I tell you before?\nTo get rid of those monsters that come out of the shafts.\nI can't work at all.",
@@ -442,7 +442,7 @@
     "GNtrAw": {
         "en-US": "[Atin]\nDon't monsters like Ungoliants come out from there?\nGoing deep into there is dangerous ...",
         "pt-BR": "[Aiden]\nLá não tem um Ungoliant?\nEles são muito violentos....",
-        "es-ES": "[Atin]\n¿No salen monstruos como los Ungoliant de allí?\nAdentrarse allí es peligroso…"
+        "es-ES": "[Atin]\n¿No salen monstruos como los Ungoliant de allí?\nAdentrarse allí es peligroso..."
     },
     "GdtrAw": {
         "en-US": "[Einbech Resident]\nI know that!\nBut you should at least let us go in front of it.\nIf you just restrict access because strange monsters come out suddenly, how can we make a living?",
@@ -452,7 +452,7 @@
     "GttrAw": {
         "en-US": "[Atin]\n... That's true, sir.\nBut haven't I told you before?\nI'm in charge of the station, so all I can do is report it.",
         "pt-BR": "[Aiden]\n...Concordo, senhor.\nMas eu já não te expliquei?\nEstou no comando da estação de trem e tudo que posso fazer é relatar.",
-        "es-ES": "[Atin]\n… Es cierto, señor.\n¿Pero no le dije esto antes?\nEstoy a cargo de la estación, así que lo único que puedo hacer es informar."
+        "es-ES": "[Atin]\n... Es cierto, señor.\n¿Pero no le dije esto antes?\nEstoy a cargo de la estación, así que lo único que puedo hacer es informar."
     },
     "G9trAw": {
         "en-US": "Who doesn't know that? I'm saying this because nothing ever changes since you only report all the time!",
@@ -462,7 +462,7 @@
     "HNtrAw": {
         "en-US": "[Atin]\nBesides, you know that the other guards are trying to protect our citizens.\nYou shouldn't go into the shafts without permission ...",
         "pt-BR": "[Aiden]\nE você sabe que os outros guardas também estão trabalhando para manter os cidadãos seguros.\nSó não precisa entrar assim, sem permissão....",
-        "es-ES": "[Atin]\nAdemás, usted sabe que los otros guardias están intentando proteger a nuestros ciudadanos.\nNo debería entrar a los pozos sin permiso…"
+        "es-ES": "[Atin]\nAdemás, usted sabe que los otros guardias están intentando proteger a nuestros ciudadanos.\nNo debería entrar a los pozos sin permiso..."
     },
     "HdtrAw": {
         "en-US": "Sigh. Anyway, I got it. What's the point of picking on you? I'm leaving!",
@@ -472,12 +472,12 @@
     "HttrAw": {
         "en-US": "...........Hmm.",
         "pt-BR": "...........Ok...",
-        "es-ES": "…Mmm."
+        "es-ES": "...Mmm."
     },
     "H9trAw": {
         "en-US": "[Atin]\n... I'm sorry.\nWhat were we talking about?",
         "pt-BR": "[Aiden]\n...Perdão.\nDo que estávamos falando?",
-        "es-ES": "[Atin]\n… Lo siento.\n¿De qué estábamos hablando?"
+        "es-ES": "[Atin]\n... Lo siento.\n¿De qué estábamos hablando?"
     },
     "INtrAw": {
         "en-US": "Is there a problem?",
@@ -507,12 +507,12 @@
     "JdtrAw": {
         "en-US": "......Phew.",
         "pt-BR": "......Urgh...",
-        "es-ES": "…Uf."
+        "es-ES": "...Uf."
     },
     "JttrAw": {
         "en-US": "[Atin]\nBoth we and the superior office tried to put in a lot of manpower, but all we could do was let the dust settle.\n... So now we made a ^4D4DFFrequest to Eden Group^000000.",
         "pt-BR": "[Aiden]\nOs meus superiores tentaram aumentar a quantidade de guardas, mas não surtiu efeito.\n........agora entendo o motivo de terem ^4D4DFFaberto uma solicitação no Grupo do Éden^000000.",
-        "es-ES": "[Atin]\nTanto nosotros como los de la oficina superior intentamos asignar gran cantidad de personal a este asunto, pero lo único que pudimos hacer fue dejar que las cosas se calmen.\n… Así que ahora le hicimos una ^4D4DFFsolicitud al Grupo del Edén^000000."
+        "es-ES": "[Atin]\nTanto nosotros como los de la oficina superior intentamos asignar gran cantidad de personal a este asunto, pero lo único que pudimos hacer fue dejar que las cosas se calmen.\n... Así que ahora le hicimos una ^4D4DFFsolicitud al Grupo del Edén^000000."
     },
     "J9trAw": {
         "en-US": "Could I accept that request?",
@@ -522,7 +522,7 @@
     "KNtrAw": {
         "en-US": "[Atin]\n... Ah, of course.\nThere weren't enough people anyway, so we asked Eden Group to get Adventurers' help.",
         "pt-BR": "[Aiden]\n...Claro.\nPrecisamos de vários aventureiros para essa missão, por isso o pedido lá no Grupo do Éden.",
-        "es-ES": "[Atin]\n… Ah, por supuesto.\nNo había gente suficiente de todas formas, así que le pedimos al Grupo del Edén que consiguiera la ayuda de los trotamundos."
+        "es-ES": "[Atin]\n... Ah, por supuesto.\nNo había gente suficiente de todas formas, así que le pedimos al Grupo del Edén que consiguiera la ayuda de los trotamundos."
     },
     "KdtrAw": {
         "en-US": "[Atin]\nPlease talk to me whenever you're ready.\nSince I am well informed about the basic quest.\nThank you for your care.",
@@ -532,7 +532,7 @@
     "KttrAw": {
         "en-US": "[Atin]\nHmm ... I'm sorry, but I think it's too much for you.\nI believe it's still a tough area for you.\nThank you for your concern.",
         "pt-BR": "[Aiden]\nHm... desculpe.\nÉ um local muito difícil para pessoas como você.\nMas obrigado pela sua preocupação.",
-        "es-ES": "[Atin]\nMmm… Lo siento, pero creo que es demasiado para ti.\nCreo que sigue siendo una zona difícil.\nGracias por tu preocupación."
+        "es-ES": "[Atin]\nMmm... Lo siento, pero creo que es demasiado para ti.\nCreo que sigue siendo una zona difícil.\nGracias por tu preocupación."
     },
     "K9trAw": {
         "en-US": "^4D4DFFThis quest is for Level 85 and up.^000000",
@@ -542,7 +542,7 @@
     "LNtrAw": {
         "en-US": "[Atin]\nAh! By the way, just a reminder.\nDon't use Friedrich's commuter pass from now on.\nUnderstood?",
         "pt-BR": "[Aiden]\nAh! Só para relembrar.\nNão use mais a passagem do Fred.\nTá bom?",
-        "es-ES": "[Atin]\n¡Ah! Por cierto, un recordatorio…\nNo vuelvas a usar el pase de trabajador de Friedrich a partir de ahora.\n¿Entendido?"
+        "es-ES": "[Atin]\n¡Ah! Por cierto, un recordatorio...\nNo vuelvas a usar el pase de trabajador de Friedrich a partir de ahora.\n¿Entendido?"
     },
     "LdtrAw": {
         "en-US": "[Atin]\nWhat brings you here?\nAre you here for a request?",
@@ -572,7 +572,7 @@
     "MttrAw": {
         "en-US": "[Atin]\n... I'm sorry, but I think it's too much for you.\nI believe it's still a tough area for you.",
         "pt-BR": "[Aiden]\n...Me desculpe, mas essa missão é difícil pra você.\nTente ver outras solicitações.",
-        "es-ES": "[Atin]\n… Lo siento, pero creo que es demasiado para ti.\nCreo que sigue siendo una zona difícil."
+        "es-ES": "[Atin]\n... Lo siento, pero creo que es demasiado para ti.\nCreo que sigue siendo una zona difícil."
     },
     "M9trAw": {
         "en-US": "[Atin]\nEnough hunting Pitmen for today.\nI'm sure this will allow the miners to enter easily.",
@@ -647,7 +647,7 @@
     "QdtrAw": {
         "en-US": "[Atin]\nAbove all, these were used by miners to boil water or relax ...\nI think that is why the miners feel more betrayed.",
         "pt-BR": "[Aiden]\nNormalmente, eram fornalhas usadas por mineradores para ferver água...\nOutros trabalhadores da mina se sentem traídos.",
-        "es-ES": "[Atin]\nLos mineros las utilizaban sobre todo para hervir agua o relajarse…\nCreo que eso hizo que los mineros se sientan más traicionados."
+        "es-ES": "[Atin]\nLos mineros las utilizaban sobre todo para hervir agua o relajarse...\nCreo que eso hizo que los mineros se sientan más traicionados."
     },
     "QttrAw": {
         "en-US": "[Atin]\nAnyway, this quest is to kill Waste Stoves. Will you do it?",
@@ -682,7 +682,7 @@
     "SNtrAw": {
         "en-US": "[Atin]\nBut since it's hard to spare good people, it cannot be helped ...\n... Still, I think it's fortunate that we can temporarily ease the citizens' complaints.",
         "pt-BR": "[Aiden]\nTem muitos aventureiros que desistem facilmente das missões...\n...pelo menos estamos conseguindo conter as reclamações dos residentes.",
-        "es-ES": "[Atin]\nPero como es difícil prescindir de personas capaces, es inevitable…\n… Aun así, creo que tenemos suerte de poder reducir temporalmente las quejas de los ciudadanos."
+        "es-ES": "[Atin]\nPero como es difícil prescindir de personas capaces, es inevitable...\n... Aun así, creo que tenemos suerte de poder reducir temporalmente las quejas de los ciudadanos."
     },
     "SdtrAw": {
         "en-US": "[Atin]\nIt's all thanks to you, Adventurer.\nIf you don't have anything else to do, I would like you to come here tomorrow as well.\nTake care, then.",
@@ -692,12 +692,12 @@
     "SttrAw": {
         "en-US": "[Atin]\n... Minerals. Minerals are on a rampage. Hahahaha.\nIn the mine, Minerals and Obsidians are running around.",
         "pt-BR": "[Aiden]\n....minerais. Minerais que se mexem. Hahah.\nFalam que há muitos minérios vivos na Mina de Einbech.",
-        "es-ES": "[Atin]\n… Minerales. Los Minerales están fuera de control. Ja, ja, ja, ja.\nEn la mina, los Minerales y las Obsidianas corren de un lado a otro."
+        "es-ES": "[Atin]\n... Minerales. Los Minerales están fuera de control. Ja, ja, ja, ja.\nEn la mina, los Minerales y las Obsidianas corren de un lado a otro."
     },
     "S9trAw": {
         "en-US": "[Atin]\nSuch a pain.\nThe miners need to dig for minerals, but they're running around.\n... So there have been a lot of complaints.\nThey want us to do something about it.",
         "pt-BR": "[Aiden]\nUma dor de cabeça.\nOs trabalhadores da mina precisam extrair minérios, mas eles se confundem com os outros monstros.\n...isso gera um problemão.\nPor favor, faça alguma coisa.",
-        "es-ES": "[Atin]\nQué molesto.\nLos mineros tienen que excavar en busca de minerales, pero no los pueden atrapar.\n… Así que recibimos muchas quejas.\nQuieren que hagamos algo al respecto."
+        "es-ES": "[Atin]\nQué molesto.\nLos mineros tienen que excavar en busca de minerales, pero no los pueden atrapar.\n... Así que recibimos muchas quejas.\nQuieren que hagamos algo al respecto."
     },
     "TNtrAw": {
         "en-US": "I'll do something.",
@@ -727,7 +727,7 @@
     "UdtrAw": {
         "en-US": "[Atin]\nSince Einbroch and Einbech are cities formed by corporations out of necessity ...\nThat can't be helped, can it?",
         "pt-BR": "[Aiden]\nEinbroch e Einbech são cidades criadas e desenvolvidas pelas necessidades empresariais...\nNão há muito o que fazer.",
-        "es-ES": "[Atin]\nDado que Einbroch y Einbech son ciudades creadas por corporaciones de acuerdo a sus necesidades…\nno hay nada que hacer, ¿verdad?"
+        "es-ES": "[Atin]\nDado que Einbroch y Einbech son ciudades creadas por corporaciones de acuerdo a sus necesidades...\nno hay nada que hacer, ¿verdad?"
     },
     "UttrAw": {
         "en-US": "[Atin]\nIf you're curious about the details, why don't you visit Einbroch yourself?",
@@ -737,7 +737,7 @@
     "U9trAw": {
         "en-US": "[Atin]\nTake the train to Einbroch from here and you'll get there in no time.\nWhen you arrive there, there will be a guy who works and guards there just like me ...",
         "pt-BR": "[Aiden]\nBasta pegar um trem para Einbroch.\nQuando chegar lá, vai ter outro Guarda parecido comigo...",
-        "es-ES": "[Atin]\nToma el tren a Einbroch desde aquí y llegarás en un abrir y cerrar de ojos.\nCuando llegues allí, habrá un tipo haciendo guardia igual que yo…"
+        "es-ES": "[Atin]\nToma el tren a Einbroch desde aquí y llegarás en un abrir y cerrar de ojos.\nCuando llegues allí, habrá un tipo haciendo guardia igual que yo..."
     },
     "VNtrAw": {
         "en-US": "[Atin]\nHis name is ^4D4DFFEisen^000000, and he's a friend of mine.\nIf you go and ask him, he will tell you what he knows as best as possible.",
@@ -752,7 +752,7 @@
     "VttrAw": {
         "en-US": "[Atin]\nEinbroch is the largest industrial city in Schwartzwald.\nIt's hard to imagine when you think of Juno, but ...",
         "pt-BR": "[Atin]\nEinbroch é a maior cidade industrial de Schwartzwald.\nDifícil de imaginar quando se pensa em Juno, mas...",
-        "es-ES": "[Atin]\nEinbroch es la ciudad industrial más grande de Schwarzwald.\nEs difícil imaginarlo cuando piensas en Juno, pero…"
+        "es-ES": "[Atin]\nEinbroch es la ciudad industrial más grande de Schwarzwald.\nEs difícil imaginarlo cuando piensas en Juno, pero..."
     },
     "V9trAw": {
         "en-US": "[Atin]\nSchwartzwald also has an advanced mechanical industry.\nI guess it's because of the corporations' great influence.",
@@ -797,7 +797,7 @@
     "X9trAw": {
         "en-US": "[Eisen]\nWelcome to Einbroch.\n... Do you need any help?",
         "pt-BR": "[Aisen]\nBoas-vindas à Einbroch.\n...Você precisa de ajuda?",
-        "es-ES": "[Eisen]\nTe doy la bienvenida a Einbroch.\n… ¿Necesitas ayuda?"
+        "es-ES": "[Eisen]\nTe doy la bienvenida a Einbroch.\n... ¿Necesitas ayuda?"
     },
     "YNtrAw": {
         "en-US": "About Einbech and Einbroch",
@@ -817,12 +817,12 @@
     "Y9trAw": {
         "en-US": "[Eisen]\n... I believe you already know that much.\nIn fact, Einbech was not a mining village from the start.",
         "pt-BR": "[Aisen]\n...mas acho que você já conhece essa história.\nNa verdade, Einbech não era uma vila mineradora no começo.",
-        "es-ES": "[Eisen]\n… Creo que eso ya lo sabías.\nDe hecho, Einbech no era una aldea minera al comienzo."
+        "es-ES": "[Eisen]\n... Creo que eso ya lo sabías.\nDe hecho, Einbech no era una aldea minera al comienzo."
     },
     "ZNtrAw": {
         "en-US": "[Eisen]\nIt was just about ten or so houses outside of Einbroch; it was really ... a small village.",
         "pt-BR": "[Aisen]\nEra apenas um vilarejo ao redor de Einbroch.",
-        "es-ES": "[Eisen]\nSolo había unas diez casas en las afueras de Einbroch; realmente era… una aldea pequeña."
+        "es-ES": "[Eisen]\nSolo había unas diez casas en las afueras de Einbroch; realmente era... una aldea pequeña."
     },
     "ZdtrAw": {
         "en-US": "[Eisen]\nI don't know much about the old days;\nI only know that the mine development was led by corporations.",
@@ -842,7 +842,7 @@
     "aNtrAw": {
         "en-US": "[Eisen]\nThat's how Einbech and Einbroch developed.\nBecause of that, the environment has been badly polluted ...",
         "pt-BR": "[Aisen]\nEinbroch e Einbech cresceram juntas dessa forma.\nEntretanto, isso fez o ambiente piorar......",
-        "es-ES": "[Eisen]\nAsí se desarrollaron Einbech y Einbroch.\nPor eso, el medio ambiente se vio gravemente contaminado…"
+        "es-ES": "[Eisen]\nAsí se desarrollaron Einbech y Einbroch.\nPor eso, el medio ambiente se vio gravemente contaminado..."
     },
     "adtrAw": {
         "en-US": "....Cough cough...",
@@ -852,7 +852,7 @@
     "attrAw": {
         "en-US": "[Eisen]\nI think that will work.\nEven if the city's air pollution is at an uncontrollable level ...\nThis mustn't spread to Einbech or Lighthalzen.",
         "pt-BR": "[Aisen]\nEstou bem.\nMesmo que os níveis de poluição do ar estejam alarmantes...\nÉ muito difícil que atinja outras cidades, como Einbech e Lighthalzen.",
-        "es-ES": "[Eisen]\nCreo que funcionará.\nAunque la contaminación atmosférica de la ciudad esté en un nivel incontrolable…\nno debemos permitir que se extienda a Einbech o Lighthalzen."
+        "es-ES": "[Eisen]\nCreo que funcionará.\nAunque la contaminación atmosférica de la ciudad esté en un nivel incontrolable...\nno debemos permitir que se extienda a Einbech o Lighthalzen."
     },
     "a9trAw": {
         "en-US": "[Eisen]\nCould you help me ^4D4DFFremove the toxic substances^000000that have spread through the field?",
@@ -892,7 +892,7 @@
     "cttrAw": {
         "en-US": "[Eisen]\n... Hmm. Anyway, to sum it up.\nWe have to stop the toxic substances from arriving here before they affect Lighthalzen and other cities.",
         "pt-BR": "[Aisen]\n....Enfim, me alonguei demais.\nPrecisamos evitar que a poluição do ar chegue a outras cidades.",
-        "es-ES": "[Eisen]\n… Mmm. En fin, para resumir.\nTenemos que impedir que las sustancias tóxicas lleguen hasta aquí, para evitar que afecten a Lighthalzen y otras ciudades."
+        "es-ES": "[Eisen]\n... Mmm. En fin, para resumir.\nTenemos que impedir que las sustancias tóxicas lleguen hasta aquí, para evitar que afecten a Lighthalzen y otras ciudades."
     },
     "c9trAw": {
         "en-US": "[Eisen]\nIf you're willing to participate, please talk to me again.\nPlease accept my late welcome again to Einbroch, the only industrial city in Schwartzwald.",
@@ -902,7 +902,7 @@
     "dNtrAw": {
         "en-US": "[Eisen]\n... Can I help you with anything?\nThe air is very polluted, so I recommend that you wear a mask if possible ...",
         "pt-BR": "[Aisen]\n...Está se sentindo desconfortável?\nO ar está ruim, portanto, recomendo que você use uma máscara....",
-        "es-ES": "[Eisen]\n… ¿Necesitas ayuda?\nEl aire está muy contaminado, así que te recomiendo que uses una mascarilla, de ser posible…"
+        "es-ES": "[Eisen]\n... ¿Necesitas ayuda?\nEl aire está muy contaminado, así que te recomiendo que uses una mascarilla, de ser posible..."
     },
     "ddtrAw": {
         "en-US": "Floating Toxic Gas I",
@@ -917,12 +917,12 @@
     "d9trAw": {
         "en-US": "Cute and Terrible...",
         "pt-BR": "Boneco Assassino",
-        "es-ES": "Adorable y terrible…"
+        "es-ES": "Adorable y terrible..."
     },
     "eNtrAw": {
         "en-US": "[Eisen]\n... I'm sorry, but I think it's too much for you.\nI believe it's still a tough area for you.",
         "pt-BR": "[Aisen]\n...Me desculpe, mas essa missão é difícil pra você.\nTente ver outras solicitações.",
-        "es-ES": "[Eisen]\n… Lo siento, pero creo que es demasiado para ti.\nCreo que sigue siendo una zona difícil."
+        "es-ES": "[Eisen]\n... Lo siento, pero creo que es demasiado para ti.\nCreo que sigue siendo una zona difícil."
     },
     "edtrAw": {
         "en-US": "[Eisen]\nI will continue to do this for a while.\nOf course, I'll try to prevent the toxic gas from this side, too.",
@@ -942,12 +942,12 @@
     "fNtrAw": {
         "en-US": "[Eisen]\nI would like to ask you to help me get rid of ^4D4DFFVenomouses^000000, one of the toxic gases from the factory ...",
         "pt-BR": "[Aisen]\nPrecisamos de ajuda para eliminar a ^4D4DFFNuvem Venenosa^000000 que sai das fábricas...",
-        "es-ES": "[Eisen]\nMe gustaría pedirte que me ayudes a deshacerme de los ^4D4DFFVenenosos^000000, uno de los gases tóxicos de la fábrica…"
+        "es-ES": "[Eisen]\nMe gustaría pedirte que me ayudes a deshacerme de los ^4D4DFFVenenosos^000000, uno de los gases tóxicos de la fábrica..."
     },
     "fdtrAw": {
         "en-US": "[Eisen]\nAh, thank goodness.\nI thought you'd refuse, since it's quite tricky to deal with toxic gases ...",
         "pt-BR": "[Aisen]\nAh, que felicidade.\nLidar com gás tóxico é um trabalho muito complicado, então pensei que você recusaria...",
-        "es-ES": "[Eisen]\nAh, gracias a los dioses.\nPensé que te negarías, ya que es bastante complicado lidiar con gases tóxicos…"
+        "es-ES": "[Eisen]\nAh, gracias a los dioses.\nPensé que te negarías, ya que es bastante complicado lidiar con gases tóxicos..."
     },
     "fttrAw": {
         "en-US": "[Eisen]\nIf you go through the ^4D4DFFnorth gate of Einbroch^000000,\nyou'll see a lot of^4D4DFFVenomouses^000000.",
@@ -972,7 +972,7 @@
     "gttrAw": {
         "en-US": "[Eisen]\nPhew ... thank you for your help.\nPoisonous monsters walking around ... hmph ...",
         "pt-BR": "[Aisen]\nUhul~ Você se esforçou muito.\nPorque há muita poluição aí...ainda...",
-        "es-ES": "[Eisen]\nUf… gracias por tu ayuda.\nMonstruos venenosos sueltos por ahí… uf…"
+        "es-ES": "[Eisen]\nUf... gracias por tu ayuda.\nMonstruos venenosos sueltos por ahí... uf..."
     },
     "g9trAw": {
         "en-US": "[Eisen]\nAnyway, this will prevent the toxic gas from spreading to other areas to some degree.\nThank you.",
@@ -997,7 +997,7 @@
     "h9trAw": {
         "en-US": "[Eisen]\nI would like to ask you to help me get rid of ^4D4DFFNoxiouses^000000, one of the toxic gases from the factory ...",
         "pt-BR": "[Aisen]\nGostaria de te pedir ajuda para eliminar a ^4D4DFFNuvem Tóxica^000000 que está se espalhando...",
-        "es-ES": "[Eisen]\nMe gustaría pedirte que me ayudes a deshacerme de los ^4D4DFFNocivos^000000, uno de los gases tóxicos de la fábrica…"
+        "es-ES": "[Eisen]\nMe gustaría pedirte que me ayudes a deshacerme de los ^4D4DFFNocivos^000000, uno de los gases tóxicos de la fábrica..."
     },
     "iNtrAw": {
         "en-US": "[Eisen]\nNoxiouses are more annoying to deal with than Venomouses.",
@@ -1027,7 +1027,7 @@
     "jdtrAw": {
         "en-US": "[Eisen]\nThey'll certainly cause pain.\nYoung children approach them without knowing the danger and get attacked.\nExperienced Adventurers also get caught off guard and get attacked ...",
         "pt-BR": "[Aisen]\nEsse é o mais problemático.\nAfeta adultos e crianças por causa da aparência fofa.\nAté mesmo aventureiros desprevinidos são atacados...",
-        "es-ES": "[Eisen]\nSin duda causan dolor.\nLos niños pequeños se acercan a ellos sin saber que son peligrosos y son atacados.\nLos trotamundos experimentados también bajan la guardia y son víctimas de sus ataques…"
+        "es-ES": "[Eisen]\nSin duda causan dolor.\nLos niños pequeños se acercan a ellos sin saber que son peligrosos y son atacados.\nLos trotamundos experimentados también bajan la guardia y son víctimas de sus ataques..."
     },
     "jttrAw": {
         "en-US": "[Eisen]\nI don't even know why they'd make automatic toys in the first place.\nIn the end, didn't the flood of defective products turn into those monsters?",
@@ -1107,7 +1107,7 @@
     "ndtrAw": {
         "en-US": "[Eisen]\nTo get to Lighthalzen, you can take the Airship from the airport ...\nIf you're going to the airport, can you do me a favor?",
         "pt-BR": "[Aisen]\nVocê pode usar o aeroplano para chegar em Lighthalzen...\nSe for até lá, pode me fazer um favor?",
-        "es-ES": "[Eisen]\nPara llegar a Lighthalzen puedes tomar la aeronave desde el aeropuerto…\nSi vas al aeropuerto, ¿puedes hacerme un favor?"
+        "es-ES": "[Eisen]\nPara llegar a Lighthalzen puedes tomar la aeronave desde el aeropuerto...\nSi vas al aeropuerto, ¿puedes hacerme un favor?"
     },
     "nttrAw": {
         "en-US": "[Eisen]\nI have a friend who works at the airport, and his name is ^4D4DFFKarl^000000.\nHis shift is almost over, but I'm sure he forgot about that.",
@@ -1147,12 +1147,12 @@
     "pdtrAw": {
         "en-US": "[Eisen]\nHe is probably still thinking about something else and forgot about it ...\nTake care.",
         "pt-BR": "[Aisen]\nProvavelmente ele esqueceu...\nEntão, boa viagem.",
-        "es-ES": "[Eisen]\nSeguro que está pensando en otra cosa y se olvidó…\nCuídate."
+        "es-ES": "[Eisen]\nSeguro que está pensando en otra cosa y se olvidó...\nCuídate."
     },
     "pttrAw": {
         "en-US": "[Eisen]\nDid you say ... lunch?\nI'm certainty thinking about what to eat at lunchtime.",
         "pt-BR": "[Aisen]\nO meu... almoço?\nBem, hoje minha mãe preparou...",
-        "es-ES": "[Eisen]\n¿Dijiste… almuerzo?\nSin duda estoy pensando qué comer a la hora del almuerzo."
+        "es-ES": "[Eisen]\n¿Dijiste... almuerzo?\nSin duda estoy pensando qué comer a la hora del almuerzo."
     },
     "p9trAw": {
         "en-US": "Chicken Noodles",
@@ -1222,7 +1222,7 @@
     "tNtrAw": {
         "en-US": "[Eisen]\nToday ... ^4D4DFF{0} How about ^000000?\nYou don't like it?\nIt's a tough choice.",
         "pt-BR": "[Aisen]\nAh... é ^4D4DFF{0}^000000, conhece?\nJá comeu?\nEu adoro.",
-        "es-ES": "[Eisen]\nHoy… ^4D4DFF¿quieres comer {0}?^000000\n¿No te gusta?\nEs una elección difícil."
+        "es-ES": "[Eisen]\nHoy... ^4D4DFF¿quieres comer {0}?^000000\n¿No te gusta?\nEs una elección difícil."
     },
     "tdtrAw": {
         "en-US": "Guard Karl",
@@ -1232,17 +1232,17 @@
     "tttrAw": {
         "en-US": "[Karl]\n...",
         "pt-BR": "[Carlos]\n.....",
-        "es-ES": "[Karl]\n…"
+        "es-ES": "[Karl]\n..."
     },
     "t9trAw": {
         "en-US": "[Karl]\n... W-Welcome to Einbroch!\nThis is Einbroch Airport, with a domestic Airship route!",
         "pt-BR": "[Carlos]\n...Ah!... Boas-vindas a Einbroch!\nEste aeroplano opera somente voos domésticos!",
-        "es-ES": "[Karl]\n… ¡T-te doy la bienvenida a Einbroch!\n¡Este es el aeropuerto de Einbroch, que cuenta con una ruta aérea nacional!"
+        "es-ES": "[Karl]\n... ¡T-te doy la bienvenida a Einbroch!\n¡Este es el aeropuerto de Einbroch, que cuenta con una ruta aérea nacional!"
     },
     "uNtrAw": {
         "en-US": "[Karl]\n... Would all passengers for Lighthalzen, Juno, or Hugel please board!",
         "pt-BR": "[Carlos]\n.....Quem estiver indo para Lighthalzen, Juno ou Hugel, peço que subam!",
-        "es-ES": "[Karl]\n… Todos los pasajeros con destino a Lighthalzen, Juno o Hugel pueden embarcar."
+        "es-ES": "[Karl]\n... Todos los pasajeros con destino a Lighthalzen, Juno o Hugel pueden embarcar."
     },
     "udtrAw": {
         "en-US": "Mr. Karl?",
@@ -1262,17 +1262,17 @@
     "vNtrAw": {
         "en-US": "[Karl]\nAh ...\nShift ... my shift!\nI ... I see.\nThank you. I almost forgot again.",
         "pt-BR": "[Carlos]\nAh..........\nVerdade. Trocar de turno!\nIsso... isso mesmo.\nObrigado. Eu quase esqueci de novo.",
-        "es-ES": "[Karl]\nAh…\nEl turno… ¡mi turno!\nYa… Ya veo.\nGracias. Casi me olvido otra vez."
+        "es-ES": "[Karl]\nAh...\nEl turno... ¡mi turno!\nYa... Ya veo.\nGracias. Casi me olvido otra vez."
     },
     "vdtrAw": {
         "en-US": "[Karl]\nEisen asked you to come, right?\nI owe Eisen every time.\nHmm ...",
         "pt-BR": "[Carlos]\nAisen mandou você, né?\nEu devo uma à ele.\nHm....",
-        "es-ES": "[Karl]\nEisen te pidió que vinieras, ¿verdad?\nLe debo demasiados favores a Eisen.\nMmm…"
+        "es-ES": "[Karl]\nEisen te pidió que vinieras, ¿verdad?\nLe debo demasiados favores a Eisen.\nMmm..."
     },
     "vttrAw": {
         "en-US": "[Karl]\nBut it's pretty dull standing here watching people come and go.\n... So I daydream a lot.",
         "pt-BR": "[Carlos]\nÉ que é tão chato ficar aqui só vendo as pessoas indo e vindo.\n...então, eu comecei a imaginar coisas.",
-        "es-ES": "[Karl]\nPero es bastante aburrido estar aquí viendo a la gente ir y venir.\n… Así que sueño despierto seguido."
+        "es-ES": "[Karl]\nPero es bastante aburrido estar aquí viendo a la gente ir y venir.\n... Así que sueño despierto seguido."
     },
     "v9trAw": {
         "en-US": "[Karl]\nAnd I've done that so often that I can enjoy myself just lying down and staring at the ceiling.\nSo sometimes I forget to check the time.",
@@ -1282,7 +1282,7 @@
     "wNtrAw": {
         "en-US": "[Karl]\nI'm sorry for bothering you by making you come down here.\n...",
         "pt-BR": "[Carlos]\nSinto muito pelo incômodo.\n....",
-        "es-ES": "[Karl]\nLamento que hayas tenido que tomarte la molestia de venir hasta aquí.\n…"
+        "es-ES": "[Karl]\nLamento que hayas tenido que tomarte la molestia de venir hasta aquí.\n..."
     },
     "wdtrAw": {
         "en-US": "[Karl]\nOh, right. I should offer you some guidance.\nThis is Einbroch Airport, with a domestic Airship route!",
@@ -1292,7 +1292,7 @@
     "wttrAw": {
         "en-US": "[Karl]\n... Would all passengers for Lighthalzen, Juno, or Hugel please board!\n^4D4DFFInternational ports^000000 are ^4D4DFFRachel and Izlude^000000",
         "pt-BR": "[Carlos]\n.....Quem estiver indo para Lighthalzen, Juno ou Hugel, peço que subam!\n^4D4DFFViagens internacionais^000000 (^4D4DFFRachel e Izlude^000000) não estão disponíveis aqui.",
-        "es-ES": "[Karl]\n… Todos los pasajeros con destino a Lighthalzen, Juno o Hugel pueden embarcar.\nLos ^4D4DFFpuertos internacionales^000000 son ^4D4DFFRachel e Izlude^000000."
+        "es-ES": "[Karl]\n... Todos los pasajeros con destino a Lighthalzen, Juno o Hugel pueden embarcar.\nLos ^4D4DFFpuertos internacionales^000000 son ^4D4DFFRachel e Izlude^000000."
     },
     "w9trAw": {
         "en-US": "[Karl]\n^4D4DFFInternational transfers^000000 can be made at Juno Airport!\nPlease keep that in mind!",
@@ -1322,7 +1322,7 @@
     "yNtrAw": {
         "en-US": "[Theodore]\nUgh ... I am on vacation.\nBut I have no idea why I am constantly getting hassled.",
         "pt-BR": "[Teodoro]\nUrgh... eu deveria tirar férias.\nSó assim para me afastar dessas duas.",
-        "es-ES": "[Theodore]\nUf… Estoy de vacaciones.\nPero no tengo ni idea de por qué me molestan todo el rato."
+        "es-ES": "[Theodore]\nUf... Estoy de vacaciones.\nPero no tengo ni idea de por qué me molestan todo el rato."
     },
     "ydtrAw": {
         "en-US": "[Theodore]\nLady, stop hassling me!\nTell that to the public security guard!!!",
@@ -1377,12 +1377,12 @@
     "09trAw": {
         "en-US": "[Theodore]\n... Ah. I see.\nI feel like I'm talking to myself. There's no way to win this ...",
         "pt-BR": "[Teodoro]\n...........Ah. Sim, eu sou.\nMas não posso lutar sem minha arma....",
-        "es-ES": "[Theodore]\n… Ah. Ya veo.\nSiento como si hablara solo. No hay manera de ganar esta…"
+        "es-ES": "[Theodore]\n... Ah. Ya veo.\nSiento como si hablara solo. No hay manera de ganar esta..."
     },
     "1NtrAw": {
         "en-US": "[Theodore]\n... Ask these little girls what's going on.\nWhy on earth did I get caught on my way home like this on vacation?",
         "pt-BR": "[Teodoro]\n... Pergunte a essas donzelas o que está acontecendo.\nEu estou sendo abordado por elas.",
-        "es-ES": "[Theodore]\n… Pregúntales a estas niñas qué está pasando.\n¿Por qué demonios me detuvieron de camino a casa en vacaciones?"
+        "es-ES": "[Theodore]\n... Pregúntales a estas niñas qué está pasando.\n¿Por qué demonios me detuvieron de camino a casa en vacaciones?"
     },
     "1dtrAw": {
         "en-US": "Mr. Handsome-",
@@ -1392,7 +1392,7 @@
     "1ttrAw": {
         "en-US": "Aww- Theodore- Mr. Handsome-",
         "pt-BR": "Ah... Teodoro... Seu lindo...",
-        "es-ES": "Ay… Theodore… señor Guapo."
+        "es-ES": "Ay... Theodore... señor Guapo."
     },
     "19trAw": {
         "en-US": "Ah! I'm so sick of you lot! Let go of my hem!",
@@ -1402,7 +1402,7 @@
     "2NtrAw": {
         "en-US": "[Theodore]\n... Fine. Guess I don't have a choice.\nBut I want to enjoy my vacation as well.\nThat's why I chose to do this.",
         "pt-BR": "[Teodoro]\n...Não há o que fazer.\nEu só queria aproveitar minhas férias.\nFoi o caminho que escolhi.",
-        "es-ES": "[Theodore]\n… Está bien. Supongo que no tengo elección.\nPero también quiero disfrutar de mis vacaciones.\nPor eso elegí hacer esto."
+        "es-ES": "[Theodore]\n... Está bien. Supongo que no tengo elección.\nPero también quiero disfrutar de mis vacaciones.\nPor eso elegí hacer esto."
     },
     "2dtrAw": {
         "en-US": "[Theodore]\nBuy myself a vacation with money.\nDid you think I'm going to go to that damn field?\nI will have you!\nDo everything!",
@@ -1412,12 +1412,12 @@
     "2ttrAw": {
         "en-US": "[Theodore]\n...\n... Sorry.\nI must be out of my mind.\n... I guess someone will accept my request.",
         "pt-BR": "[Teodoro]\n.....\n... Perdão.\nDevo estar enlouquecendo.\n...Alguém aceitará meu pedido.",
-        "es-ES": "[Theodore]\n…\n… Lo siento.\nDebo estar loco.\n… Supongo que alguien aceptará mi solicitud."
+        "es-ES": "[Theodore]\n...\n... Lo siento.\nDebo estar loco.\n... Supongo que alguien aceptará mi solicitud."
     },
     "29trAw": {
         "en-US": "[Theodore]\nWhoever that is ...\n...",
         "pt-BR": "[Teodoro]\nQuem quer que seja......\n...",
-        "es-ES": "[Theodore]\nQuienquiera que sea…\n…"
+        "es-ES": "[Theodore]\nQuienquiera que sea...\n..."
     },
     "3NtrAw": {
         "en-US": "Request? Then will you take my request as well???",
@@ -1427,7 +1427,7 @@
     "3dtrAw": {
         "en-US": "[Theodore]\n... Here comes the cavalry.\nI realized that merely listening is good for my mental health ...\nI decided to make a request.\nDo you want to do some work?",
         "pt-BR": "[Teodoro]\n...Oi, viajante.\nPercebi que ouvir faz bem para minha saúde mental...\nQuero fazer um pedido.\nO que você quer?",
-        "es-ES": "[Theodore]\n… Aquí viene la caballería.\nMe di cuenta de que el simple hecho de escuchar es bueno para mi salud mental…\nDecidí hacer una solicitud.\n¿Quieres trabajar un poco?"
+        "es-ES": "[Theodore]\n... Aquí viene la caballería.\nMe di cuenta de que el simple hecho de escuchar es bueno para mi salud mental...\nDecidí hacer una solicitud.\n¿Quieres trabajar un poco?"
     },
     "3ttrAw": {
         "en-US": "But I Wanna Go Swimming!",
@@ -1452,12 +1452,12 @@
     "4ttrAw": {
         "en-US": "[Theodore]\n...\n... So she says.",
         "pt-BR": "[Teodoro]\n...\n.........É verdade.",
-        "es-ES": "[Theodore]\n…\n… Eso dice ella."
+        "es-ES": "[Theodore]\n...\n... Eso dice ella."
     },
     "49trAw": {
         "en-US": "...Sigh...",
         "pt-BR": "..Hm..",
-        "es-ES": "*Suspira…*"
+        "es-ES": "*Suspira...*"
     },
     "5NtrAw": {
         "en-US": "[Theodore]\nThe thing is, north of Lighthalzen, there's a big outdoor pool.\nIt was supposed to be a recreational facility at first.",
@@ -1497,7 +1497,7 @@
     "69trAw": {
         "en-US": "[Theodore]\n... You Adventurers are amazing.\nAlways trying to deal with all the bad stuff.\n... Well, you must have been hoping for a commensurate reward.",
         "pt-BR": "[Teodoro]\n...Você é demais.\nSempre botando a mão na massa.\n...Sei que faz isso pela recompensa, mas... enfim.",
-        "es-ES": "[Theodore]\n… Ustedes los trotamundos son increíbles.\nSiempre tratando de ocuparse de todo lo malo.\n… Bueno, seguro estabas esperando una recompensa acorde."
+        "es-ES": "[Theodore]\n... Ustedes los trotamundos son increíbles.\nSiempre tratando de ocuparse de todo lo malo.\n... Bueno, seguro estabas esperando una recompensa acorde."
     },
     "7NtrAw": {
         "en-US": "[Theodore]\nFrom my point of view, that's good.\nAlright. Can you ^4D4DFFkill 20 Rafflesias^000000?",
@@ -1527,7 +1527,7 @@
     "8dtrAw": {
         "en-US": "[Theodore]\n... What we decided to do\nshould be completed properly.",
         "pt-BR": "[Teodoro]\n....Foi o que você escolheu.\nE eu espero que isso acabe logo.",
-        "es-ES": "[Theodore]\n… Lo que decidimos hacer\nse debe realizar correctamente."
+        "es-ES": "[Theodore]\n... Lo que decidimos hacer\nse debe realizar correctamente."
     },
     "8ttrAw": {
         "en-US": "[Theodore]\nThe large outdoor swimming pool is just a short walk from the north gate here.\nGet rid of the ^4D4DFFRafflesias^000000.",
@@ -1542,17 +1542,17 @@
     "9NtrAw": {
         "en-US": "[Theodore]\n... Thank you.\nI started this because I couldn't ignore their pestering,\nbut when I see how much they like it ...",
         "pt-BR": "[Teodoro]\n... Obrigado.\nEmbora isso não seja obrigação sua.\nMas você faz porque gosta...",
-        "es-ES": "[Theodore]\n… Gracias.\nEmpecé con esto porque no podía ignorar lo molestas que son,\npero cuando veo lo mucho que les gusta…"
+        "es-ES": "[Theodore]\n... Gracias.\nEmpecé con esto porque no podía ignorar lo molestas que son,\npero cuando veo lo mucho que les gusta..."
     },
     "9dtrAw": {
         "en-US": "...You get excited? Do you like us?",
         "pt-BR": ".....A gente também gosta!",
-        "es-ES": "…¿te emocionas? ¿Te caemos bien?"
+        "es-ES": "...¿te emocionas? ¿Te caemos bien?"
     },
     "9ttrAw": {
         "en-US": "[Theodore]\nI've talked nonsense.\n... I am sorry.\nThank you for your help.",
         "pt-BR": "[Teodoro]\nMe deixem em paz.\n...Perdão.\nObrigado pela ajuda.",
-        "es-ES": "[Theodore]\nDije tonterías.\n… Lo siento.\nGracias por tu ayuda."
+        "es-ES": "[Theodore]\nDije tonterías.\n... Lo siento.\nGracias por tu ayuda."
     },
     "99trAw": {
         "en-US": "[Theodore]\nI believe I did the best I could!\nI did what they asked me to do.",
@@ -1562,12 +1562,12 @@
     "+NtrAw": {
         "en-US": "[Theodore]\nHonestly, if you're scared of Stem Worms, don't go outside.\nThey make people tired ... Don't you think so?",
         "pt-BR": "[Teodoro]\nSinceramente, quem tiver medo dos Talos de Verme, que fiquem em casa.\nÉ melhor que dar trabalho para nós... não concorda?",
-        "es-ES": "[Theodore]\nSinceramente, si te asustan los Gusanos de tallo, no salgas.\nCansan a las personas… ¿No te parece?"
+        "es-ES": "[Theodore]\nSinceramente, si te asustan los Gusanos de tallo, no salgas.\nCansan a las personas... ¿No te parece?"
     },
     "+dtrAw": {
         "en-US": "[Theodore]\nIt will be quiet for a while, anyway.\nThanks to you.\nI don't know how long this peace will last, but....",
         "pt-BR": "[Teodoro]\nEnfim, eles não vão mais incomodar.\nObrigado.\nNão sei quanto tempo essa paz vai durar....",
-        "es-ES": "[Theodore]\nDe todos modos, estará tranquilo por un tiempo.\nGracias a ti.\nNo sé cuánto durará esta paz, pero…"
+        "es-ES": "[Theodore]\nDe todos modos, estará tranquilo por un tiempo.\nGracias a ti.\nNo sé cuánto durará esta paz, pero..."
     },
     "+ttrAw": {
         "en-US": "[Theodore]\nBiting the ankles means\nthe Stem Worm's tail.",
@@ -1577,7 +1577,7 @@
     "+9trAw": {
         "en-US": "[Theodore]\nThey huddle in the grass, and when something passes by,\nthe stem-like tail on the back of a Stem Worm ...",
         "pt-BR": "[Teodoro]\nQuando você está relaxando nos campos...\npoderá sentir a cauda de chicote desses monstros batendo no seu pé...",
-        "es-ES": "[Theodore]\nSe esconden en la hierba y, cuando algo pasa cerca,\nla cola en forma de tallo en la espalda del Gusano de tallo…"
+        "es-ES": "[Theodore]\nSe esconden en la hierba y, cuando algo pasa cerca,\nla cola en forma de tallo en la espalda del Gusano de tallo..."
     },
     "/NtrAw": {
         "en-US": "[Theodore]\nI wonder if one could call it a tail.\nAnyway, you get slapped by the Stem Worm.",
@@ -1607,7 +1607,7 @@
     "AdxrAw": {
         "en-US": "[Theodore]\nUghhh ... I really don't want to work on vacation ...\nOh well.",
         "pt-BR": "[Teodoro]\nUrgh... odeio trabalhar nas férias.\nMas não dá para evitar.",
-        "es-ES": "[Theodore]\nUffff… Realmente, no quiero trabajar durante mis vacaciones…\nAh, bueno."
+        "es-ES": "[Theodore]\nUffff... Realmente, no quiero trabajar durante mis vacaciones...\nAh, bueno."
     },
     "AtxrAw": {
         "en-US": "[Theodore]\n^4D4DFFStem Worms^000000 can be found in the fields to the north and nearby.\nI think that killing about ^4D4DFF20 of them^000000 would do.",
@@ -1627,7 +1627,7 @@
     "BdxrAw": {
         "en-US": "[Theodore]\nOh, of course I appreciate your help, too.\nNo matter what, it's definitely easier to travel through ...",
         "pt-BR": "[Teodoro]\nJá sei até como te agradecer.\nEspero que agora o local fique transitável..",
-        "es-ES": "[Theodore]\nClaro que yo también aprecio tu ayuda.\nA pesar de todo, sin duda es más fácil viajar ahora…"
+        "es-ES": "[Theodore]\nClaro que yo también aprecio tu ayuda.\nA pesar de todo, sin duda es más fácil viajar ahora..."
     },
     "BtxrAw": {
         "en-US": "[Theodore]\nYou've worked so hard. Why don't you take a break?\nI'll see you tomorrow.",
@@ -1647,7 +1647,7 @@
     "CdxrAw": {
         "en-US": "[Amy]\nTheodore ...\nWhy couldn't he defeat those Rafflesias and Stem Worms?",
         "pt-BR": "[Amy]\nTeodorooo...\nMe pergunto se os Rafflesias e Talos de Verme terão onde viver depois que você acabar com eles.",
-        "es-ES": "[Amy]\nTheodore…\n¿Por qué no pudo derrotar a las Rafflesia y los Gusanos de tallo?"
+        "es-ES": "[Amy]\nTheodore...\n¿Por qué no pudo derrotar a las Rafflesia y los Gusanos de tallo?"
     },
     "CtxrAw": {
         "en-US": "No need to rub salt in my wounds! That's enough!",
@@ -1667,7 +1667,7 @@
     "DdxrAw": {
         "en-US": "[Miya]\nTheo ... In the meantime, please also chase out the monsters who nipped my ankles ...",
         "pt-BR": "[Miya]\nTeozinho... por favor, dá uma lição naqueles monstros que bateram no meu tornozelo...",
-        "es-ES": "[Miya]\nTheo… Mientras tanto, espanta también a los monstruos que me mordieron los tobillos…"
+        "es-ES": "[Miya]\nTheo... Mientras tanto, espanta también a los monstruos que me mordieron los tobillos..."
     },
     "DtxrAw": {
         "en-US": "[Amy]\nYeah, Theodore!\nYou're the most useful of the useless around here, right?\nTheodore is the only man who can fight Rafflesias!",
@@ -1677,7 +1677,7 @@
     "D9xrAw": {
         "en-US": "[Miya]\n... Hmm? I don't care how.\nWhether it's Theodore or that person listening next to him.",
         "pt-BR": "[Miya]\n..Não é? Eu também acho.\nTanto o Teodoro, quanto essa pessoa aí do lado que está nos ouvindo.",
-        "es-ES": "[Miya]\n… ¿Mmm? No me importa cómo.\nYa sea Theodore o esa persona que está escuchando a su lado."
+        "es-ES": "[Miya]\n... ¿Mmm? No me importa cómo.\nYa sea Theodore o esa persona que está escuchando a su lado."
     },
     "ENxrAw": {
         "en-US": "[Miya]\nAll I want is the death of that monster that bit my ankle.",
@@ -1702,7 +1702,7 @@
     "FNxrAw": {
         "en-US": "On his own-",
         "pt-BR": "Ele vai sim~",
-        "es-ES": "Hacerlo solo…"
+        "es-ES": "Hacerlo solo..."
     },
     "FdxrAw": {
         "en-US": "[Amy]\nAll we need to do is get permission to dive into the pool!\nIsn't that great, Miya?",
@@ -1727,7 +1727,7 @@
     "GdxrAw": {
         "en-US": "[Leno]\nHa ... haha, thanks.\nBut missions ...\nare not always one-time affairs.",
         "pt-BR": "[Leno]\nHaha... Obrigado.\nInfelizmente... esse tipo de misão....\nNão termina em um só dia.",
-        "es-ES": "[Leno]\nJa… ja, ja, gracias.\nPero las misiones…\nno siempre son asuntos de una sola vez."
+        "es-ES": "[Leno]\nJa... ja, ja, gracias.\nPero las misiones...\nno siempre son asuntos de una sola vez."
     },
     "GtxrAw": {
         "en-US": "[Leno]\nIn fact, that is the case here.\nEverything was fine when I sorted out some of the quests that were posted at Eden Group",
@@ -1737,12 +1737,12 @@
     "G9xrAw": {
         "en-US": "[Leno]\nBut then I drew the short straw and landed on this quest.\n... But I utterly ... Cannot progress.",
         "pt-BR": "[Leno]\nE essa missão estava no meio.\n...Mas... espero termos resolvido isso por hoje.",
-        "es-ES": "[Leno]\ny entonces elegí una al azar y me tocó esta misión.\n… Pero definitivamente… no puedo progresar."
+        "es-ES": "[Leno]\ny entonces elegí una al azar y me tocó esta misión.\n... Pero definitivamente... no puedo progresar."
     },
     "HNxrAw": {
         "en-US": "[Leno]\n... So. Help me next time again ... please.\nPlease ...",
         "pt-BR": "[Leno]\n...Então, me ajude num outro dia.\nPor favor..",
-        "es-ES": "[Leno]\n… Así que… ayúdame de nuevo la próxima vez… por favor.\nPor favor…"
+        "es-ES": "[Leno]\n... Así que... ayúdame de nuevo la próxima vez... por favor.\nPor favor..."
     },
     "HdxrAw": {
         "en-US": "[Leno]\nIf you come back to me, I'll be very happy.",
@@ -1752,17 +1752,17 @@
     "HtxrAw": {
         "en-US": "[Leno]\nUgh ... By any chance.\nIf you end up on a quest in the field, can you help me?",
         "pt-BR": "[Leno]\nEr... por um acaso...\nSe eu aceitar uma solicitação para ir ao campo, você me ajudaria?",
-        "es-ES": "[Leno]\nUf… Si, por casualidad,\nterminas en una misión en el campo, ¿podrías ayudarme?"
+        "es-ES": "[Leno]\nUf... Si, por casualidad,\nterminas en una misión en el campo, ¿podrías ayudarme?"
     },
     "H9xrAw": {
         "en-US": "[Leno]\nIt's about hunting the wind in Grim Reaper's Valley ...\nThe name, the target, all of them are so terrible ...",
         "pt-BR": "[Leno]\nÉ sobre caçar alguns Breezes no Vale da Morte....\nO nome do lugar me dá calafrios.....",
-        "es-ES": "[Leno]\nSe trata de cazar el viento en el Valle de la Parca…\nEl nombre, el objetivo, es todo tan terrible…"
+        "es-ES": "[Leno]\nSe trata de cazar el viento en el Valle de la Parca...\nEl nombre, el objetivo, es todo tan terrible..."
     },
     "INxrAw": {
         "en-US": "[Leno]\nWhy the hell would the Captain make me do this?\nWinds rampaging at Grim Reaper's Valley, they must be g-gho ... Ghosts ... I'm sure ...",
         "pt-BR": "[Leno]\nQue motivos teriam para nomearem esse lugar assim?\nOs Breezes parecem ventos que percorrrem pelo Vale da Morte e que sussurram... como fantasmas....",
-        "es-ES": "[Leno]\n¿Por qué demonios el capitán me mandaría a hacer esto?\nLos vientos descontrolados en el Valle de la Parca deben ser f-fan… fantasmas… Estoy seguro de eso…"
+        "es-ES": "[Leno]\n¿Por qué demonios el capitán me mandaría a hacer esto?\nLos vientos descontrolados en el Valle de la Parca deben ser f-fan... fantasmas... Estoy seguro de eso..."
     },
     "IdxrAw": {
         "en-US": "I'll hunt those winds for you!",
@@ -1772,7 +1772,7 @@
     "ItxrAw": {
         "en-US": "[Leno]\nReally?!\nDon't take that back!\nIf ... if they're really just monsters, then I can beat ... beat them up!",
         "pt-BR": "[Leno]\nSério?!\nQue demais!\nEu sei... que você vai conseguir!",
-        "es-ES": "[Leno]\n¡¿De verdad?!\n¡No te retractes!\nSi… si realmente son solo monstruos, entonces puedo derro… ¡derrotarlos!"
+        "es-ES": "[Leno]\n¡¿De verdad?!\n¡No te retractes!\nSi... si realmente son solo monstruos, entonces puedo derro... ¡derrotarlos!"
     },
     "I9xrAw": {
         "en-US": "[Leno]\nGhosts, phantoms, I hate them!!!!!\nI'm saved!",
@@ -1792,17 +1792,17 @@
     "JtxrAw": {
         "en-US": "[Leno]\nAhhhhh ...\nHow can this happen between us!",
         "pt-BR": "[Leno]\nHahahah...\nE vai ter várias próximas...!!",
-        "es-ES": "[Leno]\nAhhhhh…\n¡¿Cómo puede pasar esto entre nosotros?!"
+        "es-ES": "[Leno]\nAhhhhh...\n¡¿Cómo puede pasar esto entre nosotros?!"
     },
     "J9xrAw": {
         "en-US": "[Leno]\nUgh, should I call Rumin and ask for help?\nWhy did I draw that straw.\nI should've suggested that we just play rock, scissors, paper ...",
         "pt-BR": "[Leno]\nIh, será que peço ajuda de Rumin? Hmm.\nFaz tempo que não o vejo.\nEu não devia ter tomado aquele chá de sono...",
-        "es-ES": "[Leno]\nUf, ¿debería llamar a Rumin y pedirle ayuda?\n¿Por qué saqué ese palillo?\nDebería haber sugerido que jugáramos a piedra, papel o tijera…"
+        "es-ES": "[Leno]\nUf, ¿debería llamar a Rumin y pedirle ayuda?\n¿Por qué saqué ese palillo?\nDebería haber sugerido que jugáramos a piedra, papel o tijera..."
     },
     "KNxrAw": {
         "en-US": "(... His face is getting darker and darker.)",
         "pt-BR": "(....ele parece cair no sono.)",
-        "es-ES": "(… su rostro se vuelve cada vez más oscuro)."
+        "es-ES": "(... su rostro se vuelve cada vez más oscuro)."
     },
     "KdxrAw": {
         "en-US": "[Leno]\nWere you able to get rid of those Breezes?\nAnyway, that's the wind, isn't it?",
@@ -1817,22 +1817,22 @@
     "K9xrAw": {
         "en-US": "[Leno]\nI guess that's why it sounds scary, huh?\nMaybe that's where the name Grim Reaper's Valley comes from ...",
         "pt-BR": "[Leno]\nViu como é assustador?\nEu acho que esse é o motivo do nome ser Vale da Morte...",
-        "es-ES": "[Leno]\nSupongo que por eso suena tan aterrador, ¿no?\nQuizá de ahí venga el nombre de Valle de la Parca…"
+        "es-ES": "[Leno]\nSupongo que por eso suena tan aterrador, ¿no?\nQuizá de ahí venga el nombre de Valle de la Parca..."
     },
     "LNxrAw": {
         "en-US": "[Leno]\nThank you so much ... For dealing with them instead of me.\nI'll give you everything that I was supposed to receive.",
         "pt-BR": "[Leno]\nMuito obrigado... por me ajudar.\nEu vou te recompensar pelo serviço.",
-        "es-ES": "[Leno]\nMuchas gracias… por encargarte de ellos por mí.\nTe daré todo lo que debía recibir."
+        "es-ES": "[Leno]\nMuchas gracias... por encargarte de ellos por mí.\nTe daré todo lo que debía recibir."
     },
     "LdxrAw": {
         "en-US": "[Leno]\n... Sigh. What should I do tomorrow?",
         "pt-BR": "[Leno]\n...Hahaha. E volte amanhã.",
-        "es-ES": "[Leno]\n… *Suspira* ¿Qué debería hacer mañana?"
+        "es-ES": "[Leno]\n... *Suspira* ¿Qué debería hacer mañana?"
     },
     "LtxrAw": {
         "en-US": "[Leno]\nUgh ... Grim Reaper's Valley.\nThe name itself is awful.",
         "pt-BR": "[Leno]\nUrg... Vale da Morte.\nPelo nome, deve ser horrível.",
-        "es-ES": "[Leno]\nUf… El Valle de la Parca.\nEl nombre en sí ya es horrible."
+        "es-ES": "[Leno]\nUf... El Valle de la Parca.\nEl nombre en sí ya es horrible."
     },
     "L9xrAw": {
         "en-US": "^4D4DFFThis quest is for Level 80 and up.^000000\n^4D4DFFThere is a prerequisite quest. Talk to Theodore.^000000",

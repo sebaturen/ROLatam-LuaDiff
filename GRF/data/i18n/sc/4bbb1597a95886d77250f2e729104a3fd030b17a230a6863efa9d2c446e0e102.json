@@ -1,0 +1,312 @@
+{
+    "YAdADQ": {
+        "en-US": "Set Difficulty to Lowest",
+        "pt-BR": "Ajustar dificuldade para o mínimo",
+        "es-ES": "Ajuste de dificultad al mínimo"
+    },
+    "YQdADQ": {
+        "en-US": "Recovery/Barrier Disabled/HP Fixed at 1,000,000",
+        "pt-BR": "Recuperação/barreira proibidas/HP fixo em 1 milhão",
+        "es-ES": "Recuperación/barrera prohibidas/vida fija en 1 millón"
+    },
+    "YgdADQ": {
+        "en-US": "Display ON",
+        "pt-BR": "Display ON",
+        "es-ES": "Visualización ON"
+    },
+    "YwdADQ": {
+        "en-US": "Trap Disabled",
+        "pt-BR": "Armadilhas não funcionam",
+        "es-ES": "Trampas inactivas"
+    },
+    "ZAdADQ": {
+        "en-US": "Floor 75 Battle",
+        "pt-BR": "Batalha do 75º andar",
+        "es-ES": "Combate de la planta 75"
+    },
+    "ZQdADQ": {
+        "en-US": "Highest Difficulty",
+        "pt-BR": "Dificuldade máxima",
+        "es-ES": "Dificultad máxima"
+    },
+    "ZgdADQ": {
+        "en-US": "HP Only 1,000,000",
+        "pt-BR": "Apenas HP 1 milhão",
+        "es-ES": "Solo vida a 1 millón"
+    },
+    "ZwdADQ": {
+        "en-US": "Floor 75 Expansion Build Applied\nCannot Leave Battlefield Below 600\nReset Removed",
+        "pt-BR": "Aplicar build expandida do 75º andar\nNão é possível sair do campo de batalha abaixo de 600\nExcluir reset",
+        "es-ES": "Aplicada la versión ampliada de la planta 75\nNo se puede abandonar el campo de batalla por debajo de 600\nEliminado el reinicio"
+    },
+    "aAdADQ": {
+        "en-US": "Boss Reset",
+        "pt-BR": "Resetar chefe",
+        "es-ES": "Reinicio del jefe"
+    },
+    "aQdADQ": {
+        "en-US": "Readjust Difficulty",
+        "pt-BR": "Reajustar dificuldade",
+        "es-ES": "Reajuste de dificultad"
+    },
+    "agdADQ": {
+        "en-US": "[Current Constellation Ability Points]\nHP - {0}\nAttack - {1}\nRecovery - {2}\nDefense - {3}\nTrap - {4}",
+        "pt-BR": "[Pontos de habilidade atuais da Constelação]\nHP - {0}\nAtaque - {1}\nRecuperação - {2}\nDefesa - {3}\nArmadilha - {4}",
+        "es-ES": "[Puntos de habilidad actuales de la constelación]\nVida - {0}\nAtaque - {1}\nRecuperación - {2}\nDefensa - {3}\nTrampas - {4}"
+    },
+    "awdADQ": {
+        "en-US": "[Constellation stats adjusted to lowest.]",
+        "pt-BR": "[Atributos da Constelação ajustados para o mínimo.]",
+        "es-ES": "[Estadísticas de la constelación ajustadas al mínimo.]"
+    },
+    "bAdADQ": {
+        "en-US": "[Recovery Disabled/HP 1,000,000]",
+        "pt-BR": "[Recuperação proibida/HP 1 milhão]",
+        "es-ES": "[Recuperación prohibida/vida 1 millón]"
+    },
+    "bQdADQ": {
+        "en-US": "Evasion Check",
+        "pt-BR": "Checagem de esquiva",
+        "es-ES": "Comprobación de evasión"
+    },
+    "bgdADQ": {
+        "en-US": "Stat Check",
+        "pt-BR": "Checagem de atributos",
+        "es-ES": "Comprobación de estadísticas"
+    },
+    "bwdADQ": {
+        "en-US": "Defense Check",
+        "pt-BR": "Checagem de defesa",
+        "es-ES": "Comprobación de defensa"
+    },
+    "cAdADQ": {
+        "en-US": "[Evasion Check ON]",
+        "pt-BR": "[Checagem de esquiva ON]",
+        "es-ES": "[Comprobación de evasión ON]"
+    },
+    "cQdADQ": {
+        "en-US": "[Stat Check ON]",
+        "pt-BR": "[Checagem de atributos ON]",
+        "es-ES": "[Comprobación de estadísticas ON]"
+    },
+    "cgdADQ": {
+        "en-US": "[Defense Check ON]",
+        "pt-BR": "[Checagem de defesa ON]",
+        "es-ES": "[Comprobación de defensa ON]"
+    },
+    "cwdADQ": {
+        "en-US": "[Trap OFF]",
+        "pt-BR": "[Armadilhas OFF]",
+        "es-ES": "[Trampas OFF]"
+    },
+    "dAdADQ": {
+        "en-US": "[HP Only 1,000,000]",
+        "pt-BR": "[Apenas HP 1 milhão]",
+        "es-ES": "[Solo vida a 1 millón]"
+    },
+    "dQdADQ": {
+        "en-US": "betel_00",
+        "pt-BR": "betel_00",
+        "es-ES": "betel_00"
+    },
+    "dgdADQ": {
+        "en-US": "betel_0",
+        "pt-BR": "betel_0",
+        "es-ES": "betel_0"
+    },
+    "dwdADQ": {
+        "en-US": "{0}.wav",
+        "pt-BR": "{0}.wav",
+        "es-ES": "{0}.wav"
+    },
+    "eAdADQ": {
+        "en-US": "[Betelgeuse] Where has your leader gone? Leisurely conversing with insignificant beings is not to my taste.",
+        "pt-BR": "[Betelgeuse] Para onde foi seu líder? Não é do meu gosto conversar à toa com seres insignificantes.",
+        "es-ES": "[Betelgeuse] ¿Adónde se ha ido vuestro líder? No es de mi agrado charlar tranquilamente con seres insignificantes."
+    },
+    "eQdADQ": {
+        "en-US": "What is it? Ahh~ Have those insects come skulking around again, looking for something to steal?",
+        "pt-BR": "O que é isso? Ahh~ os insetos que ficam rondando para ver se há algo para surrupiar vieram de novo?",
+        "es-ES": "¿Qué pasa? Ah~ ¿han vuelto esos insectos a husmear por si encuentran algo que robar?"
+    },
+    "egdADQ": {
+        "en-US": "You came to keep me company again today, human. You truly never tire.",
+        "pt-BR": "Você veio me fazer companhia hoje também, humano. Você realmente não se cansa.",
+        "es-ES": "Has venido a hacerme compañía también hoy, humano. De verdad que no te cansas."
+    },
+    "ewdADQ": {
+        "en-US": "[Betelgeuse]",
+        "pt-BR": "[Betelgeuse]",
+        "es-ES": "[Betelgeuse]"
+    },
+    "fAdADQ": {
+        "en-US": "Run Away",
+        "pt-BR": "Fugir",
+        "es-ES": "Huir"
+    },
+    "fQdADQ": {
+        "en-US": "Start a Fight",
+        "pt-BR": "Provocar uma luta",
+        "es-ES": "Provocar una pelea"
+    },
+    "fgdADQ": {
+        "en-US": "[Betelgeuse]\nOh~ what a refreshing reaction. To think you would try to run away.",
+        "pt-BR": "[Betelgeuse]\nOh~ que reação nova. Tentar fugir.",
+        "es-ES": "[Betelgeuse]\nOh~ Qué reacción tan fresca. Intentas huir."
+    },
+    "fwdADQ": {
+        "en-US": "You have defeated Betelgeuse with a difficulty score of {0} points.",
+        "pt-BR": "Você venceu Betelgeuse com uma pontuação de dificuldade de {0} pontos.",
+        "es-ES": "Has derrotado a Betelgeuse con {0} puntos de dificultad."
+    },
+    "gAdADQ": {
+        "en-US": "You have defeated Betelgeuse, weakened with all stats sealed.",
+        "pt-BR": "Você venceu Betelgeuse enfraquecido, com todos os atributos selados.",
+        "es-ES": "Has derrotado a Betelgeuse, debilitado porque todas sus estadísticas estaban selladas."
+    },
+    "gQdADQ": {
+        "en-US": "Betelgeuse's current difficulty score is {0} points.",
+        "pt-BR": "A pontuação de dificuldade atual de Betelgeuse é de {0} pontos.",
+        "es-ES": "La puntuación de dificultad actual de Betelgeuse es de {0} puntos."
+    },
+    "ggdADQ": {
+        "en-US": "All of Betelgeuse's stats are sealed, so no difficulty score will be given.",
+        "pt-BR": "Como todos os atributos de Betelgeuse estão selados, nenhuma pontuação de dificuldade será concedida.",
+        "es-ES": "Todas las estadísticas de Betelgeuse están selladas, por lo que no se otorgará puntuación de dificultad."
+    },
+    "gwdADQ": {
+        "en-US": "So you think you stand a chance because most of my stats are sealed? Even so, you are fearless.",
+        "pt-BR": "Então acha que pode tentar porque a maior parte dos meus atributos está selada? Mesmo assim, vocês não têm medo.",
+        "es-ES": "¿Creéis que podéis conmigo porque la mayor parte de mis estadísticas están selladas? Aun así, no os falta valor."
+    },
+    "hAdADQ": {
+        "en-US": "I thought someone was tampering with the seals placed on me... but to think it was you. You seem quite confident.",
+        "pt-BR": "Eu achei que alguém estava mexendo no selo imposto a mim... jamais imaginei que seriam vocês. Parece que estão cheios de confiança.",
+        "es-ES": "Pensé que alguien estaba manipulando el sello que pesa sobre mí... y resultó que erais vosotros. Parece que os sobra confianza."
+    },
+    "hQdADQ": {
+        "en-US": "It seems the goddess's restrictions placed on me have been lifted to some extent. I should be able to exert about 0.1% of the power I could use in my own domain.",
+        "pt-BR": "Parece que as restrições da deusa impostas a mim foram liberadas em certa medida. Acho que poderei manifestar cerca de 0,1% da força que eu podia usar em meu covil.",
+        "es-ES": "Parece que las restricciones de la diosa que pesan sobre mí se han liberado en cierta medida. Creo que podré desplegar aproximadamente un 0,1 % de la fuerza que podía usar en mi morada."
+    },
+    "hgdADQ": {
+        "en-US": "Fear the release of the seal on my right hand, human. From now on, I will face you with only my index finger.",
+        "pt-BR": "Tema o fato de o selo da minha mão direita ter sido liberado, humano. A partir de agora, enfrentarei vocês usando apenas meu dedo indicador.",
+        "es-ES": "Teme que el sello de mi mano derecha se haya liberado, humano. A partir de ahora os haré frente solo con el dedo índice."
+    },
+    "hwdADQ": {
+        "en-US": "To think you would tamper with the restrictions placed on me this much. You are reckless. As a sign of respect, I will face you with 0.5% of my full power. You humans call that a disaster.",
+        "pt-BR": "Mexer tanto assim nas restrições impostas a mim... vocês são imprudentes. Em respeito a isso, enfrentarei vocês com 0,5% da minha força total. Vocês, humanos, chamam isso de calamidade.",
+        "es-ES": "Habéis manipulado tanto las restricciones que pesan sobre mí... Sois temerarios. En señal de respeto, os enfrentaré con el 0,5 % de todo mi poder. Vosotros, los humanos, llamáis a eso una catástrofe."
+    },
+    "iAdADQ": {
+        "en-US": "At this point, I am starting to worry. What are you relying on to release so many of the restrictions placed on me? From now on, I will face you with 10% of my true power. You should call this fate.",
+        "pt-BR": "A esta altura, estou ficando preocupado. Em que vocês confiaram para liberar tanto assim as restrições impostas a mim? A partir de agora, enfrentarei vocês com 10% da minha verdadeira força. Vocês deverão chamar isso de destino.",
+        "es-ES": "Llegados a este punto, empiezo a preocuparme. ¿En qué os basasteis para liberar tanto las restricciones que pesan sobre mí? A partir de ahora os enfrentaré con el 10 % de mi verdadero poder. Deberíais llamar a esto destino."
+    },
+    "iQdADQ": {
+        "en-US": "Betelgeuse",
+        "pt-BR": "Betelgeuse",
+        "es-ES": "Betelgeuse"
+    },
+    "igdADQ": {
+        "en-US": "<Apostle of Death>",
+        "pt-BR": "<Apóstolo da Morte>",
+        "es-ES": "<Apóstol de la muerte>"
+    },
+    "iwdADQ": {
+        "en-US": "Betelgeuse: I hope you are superior to the humans who came before.",
+        "pt-BR": "Betelgeuse: Espero que vocês sejam melhores que os humanos que vieram antes.",
+        "es-ES": "Betelgeuse: Espero que seáis mejores que los humanos que vinieron antes."
+    },
+    "jAdADQ": {
+        "en-US": "Shall we start playing properly?",
+        "pt-BR": "Que tal começarmos a brincar de verdade?",
+        "es-ES": "¿Vamos jugando en serio?"
+    },
+    "jQdADQ": {
+        "en-US": "That was just playtime until now.",
+        "pt-BR": "Até aqui, foi só brincadeira.",
+        "es-ES": "Hasta aquí solo ha sido un juego."
+    },
+    "jgdADQ": {
+        "en-US": "Betelgeuse: Now this is finally worth doing.",
+        "pt-BR": "Betelgeuse: Agora finalmente ficou interessante.",
+        "es-ES": "Betelgeuse: Ahora por fin vale la pena."
+    },
+    "jwdADQ": {
+        "en-US": "Betelgeuse: From this point on, I will take this seriously.",
+        "pt-BR": "Betelgeuse: A partir de agora, levarei isto a sério.",
+        "es-ES": "Betelgeuse: A partir de ahora me lo tomaré en serio."
+    },
+    "kAdADQ": {
+        "en-US": "{0} travelers have left the Constellation's domain. The Constellation is enraged.",
+        "pt-BR": "{0} viajantes deixaram o território da Constelação. A Constelação se enfurece.",
+        "es-ES": "{0} viajeros han abandonado el territorio de la constelación. La constelación se enfurece."
+    },
+    "kQdADQ": {
+        "en-US": "{0} unauthorized travelers have invaded the Constellation's domain. The Constellation is enraged.",
+        "pt-BR": "{0} viajantes não autorizados invadiram o território da Constelação. A Constelação se enfurece.",
+        "es-ES": "{0} viajeros no autorizados han invadido el territorio de la constelación. La constelación se enfurece."
+    },
+    "kgdADQ": {
+        "en-US": "A death has occurred from the Constellation's blow. Until the dead are revived, infinite power will be granted to the Constellation.",
+        "pt-BR": "Um viajante morreu com o golpe da Constelação. Até que o morto seja revivido, a Constelação receberá poder infinito.",
+        "es-ES": "Un golpe de la constelación ha causado una muerte. Hasta que el fallecido resucite, la constelación recibirá poder infinito."
+    },
+    "kwdADQ": {
+        "en-US": "Defense-{0} Level-{1} Count-{2}",
+        "pt-BR": "Defesa-{0} nível-{1} contagem-{2}",
+        "es-ES": "Defensa-{0} Nivel-{1} Recuento-{2}"
+    },
+    "lAdADQ": {
+        "en-US": "Why not come over here?",
+        "pt-BR": "Que tal vir para cá?",
+        "es-ES": "¿Qué tal si vienes por aquí?"
+    },
+    "lQdADQ": {
+        "en-US": "Why don't you move a little? I am starting to feel restless.",
+        "pt-BR": "Por que não se move um pouco? Estou começando a ficar inquieto.",
+        "es-ES": "¿Por qué no te mueves un poco? Me estoy aburriendo."
+    },
+    "lgdADQ": {
+        "en-US": "How about we switch roles a bit?",
+        "pt-BR": "Que tal trocarmos um pouco os papéis?",
+        "es-ES": "¿Qué tal si cambiamos un poco los papeles?"
+    },
+    "lwdADQ": {
+        "en-US": "I like this arrangement.",
+        "pt-BR": "Gosto desta disposição.",
+        "es-ES": "Me gusta esta disposición."
+    },
+    "mAdADQ": {
+        "en-US": "Betelgeuse leaves the sealed area and temporarily releases all of his power.",
+        "pt-BR": "Betelgeuse sai de cima da área selada e libera todo o seu poder por um breve período.",
+        "es-ES": "Betelgeuse se aleja de la zona sellada y libera todo su poder durante un breve periodo."
+    },
+    "mQdADQ": {
+        "en-US": "Betelgeuse returns to the sealed area and calms down.",
+        "pt-BR": "Betelgeuse retorna para cima da área selada e se acalma.",
+        "es-ES": "Betelgeuse regresa a la zona sellada y se calma."
+    },
+    "mgdADQ": {
+        "en-US": "{0} - {1} / {2}",
+        "pt-BR": "{0} - {1} / {2}",
+        "es-ES": "{0} - {1} / {2}"
+    },
+    "mwdADQ": {
+        "en-US": "{0} / {1} = {2} Heal-{3} ATK-{4} ATK2-{5} ATK_LV - {6}",
+        "pt-BR": "{0} / {1} = {2} cura-{3} ATQ-{4} ATK2-{5} ATQ_LV - {6}",
+        "es-ES": "{0} / {1} = {2} Curación-{3} ATQ-{4} ATK2-{5} ATQ_LV - {6}"
+    },
+    "nAdADQ": {
+        "en-US": "Betelgeuse's Soul Fragment#{0}",
+        "pt-BR": "Alma fragmentada de Betelgeuse #{0}",
+        "es-ES": "Alma muerta de Betelgeuse #{0}"
+    },
+    "nQdADQ": {
+        "en-US": "Constellation Betelgeuse duplicates his own soul and summons the {0}th Soul Fragment.",
+        "pt-BR": "A Constelação Betelgeuse duplica sua própria alma e invoca a {0}ª alma fragmentada.",
+        "es-ES": "La constelación Betelgeuse duplica su propia alma e invoca el alma muerta número {0}."
+    }
+}

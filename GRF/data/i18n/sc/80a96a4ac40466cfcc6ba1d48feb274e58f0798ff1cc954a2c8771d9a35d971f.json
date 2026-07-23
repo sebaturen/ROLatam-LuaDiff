@@ -77,7 +77,7 @@
     "T+d/CA": {
         "en-US": "[Hugin's magic master]\nPhew...\nAnyways, that's all for basic enchant information. Now you should see for yourself.",
         "pt-BR": "[Artesã Mágica Hugin]\nUfa...\nBom, estas são todas as informações básicas sobre o encantamento. Agora você poderia experimentar.",
-        "es-ES": "[Artesana Mágica de Hugin]\nFiu…\nEn fin, esa es toda la información básica sobre encantamientos. Ahora deberías comprobarlo por tu cuenta."
+        "es-ES": "[Artesana Mágica de Hugin]\nFiu...\nEn fin, esa es toda la información básica sobre encantamientos. Ahora deberías comprobarlo por tu cuenta."
     },
     "UOd/CA": {
         "en-US": "[Hugin's magic master]\nAre you wearing the item?",
@@ -87,7 +87,7 @@
     "Ued/CA": {
         "en-US": "[Hugin's magic master]\nIt's dangerouse to take off your item while processing..",
         "pt-BR": "[Artesã Mágica Hugin]\nÉ perigoso tirar o seu item enquanto está sendo encantado...",
-        "es-ES": "[Artesana Mágica de Hugin]\nEs peligroso quitarse el objeto durante el procesamiento…"
+        "es-ES": "[Artesana Mágica de Hugin]\nEs peligroso quitarse el objeto durante el procesamiento..."
     },
     "Uud/CA": {
         "en-US": "Modified STR Boots",
@@ -322,7 +322,7 @@
     "gOd/CA": {
         "en-US": "[Hugin's magic master]\nArrgh... I feel so dizzy just looking at your terrible appearance... Please go away, now!",
         "pt-BR": "[Artesã Mágica Hugin]\nArrhhgg... Eu fico tonta só de olhar para sua aparência terrível... Por favor, vá embora agora mesmo!",
-        "es-ES": "[Artesana Mágica de Hugin]\nGrrr… Me mareo solo de ver tu terrible aspecto… ¡Por favor, vete ya!"
+        "es-ES": "[Artesana Mágica de Hugin]\nGrrr... Me mareo solo de ver tu terrible aspecto... ¡Por favor, vete ya!"
     },
     "ged/CA": {
         "en-US": "[Hugin's magic master]\nHmm, you are missing {0} Coagulated Spell items. Go get more, and then we can talk about more enchants.",
@@ -497,7 +497,7 @@
     "o+d/CA": {
         "en-US": "[Hugin's butler]\nOh... I feel dizzy.. Please come back later.",
         "pt-BR": "[Governanta de Hugin]\nOh... Estou tonta... Por favor, volte mais tarde.",
-        "es-ES": "[Mayordomo de Hugin]\nOh… Siento mareos… Regresa más tarde."
+        "es-ES": "[Mayordomo de Hugin]\nOh... Siento mareos... Regresa más tarde."
     },
     "pOd/CA": {
         "en-US": "Hugin's Craftsman",
@@ -597,7 +597,7 @@
     "t+d/CA": {
         "en-US": "[Hugin's Craftsman]\nYou must bring ^0000FF5 Time Crystal items^000000. Nothing is free you know...",
         "pt-BR": "[Ferreira de Hugin]\nVocê precisa trazer ^0000FF5 Cristais Temporais^000000. Nada é de graça, sabe...",
-        "es-ES": "[Herrero de Hugin]\nDebes traer ^0000FF5objetos de Cristales del tiempo^000000. Nada es gratis…"
+        "es-ES": "[Herrero de Hugin]\nDebes traer ^0000FF5objetos de Cristales del tiempo^000000. Nada es gratis..."
     },
     "uOd/CA": {
         "en-US": "[Hugin's Craftsman]\nWhat a success.\nSee? I'm the best.",

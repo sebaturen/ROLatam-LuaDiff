@@ -96,8 +96,8 @@
     },
     "c4JwDA": {
         "en-US": "[Verkhasel]\n...?\nAn uninvited guest, I see.\nWould you kindly leave?",
-        "pt-BR": "[Verkhasel]\n …?\nUm convidado indesejado.\nPoderia se retirar?",
-        "es-ES": "[Verkhasel]\n …? Un invitado no deseado.\n¿Te irías en silencio?"
+        "pt-BR": "[Verkhasel]\n ...?\nUm convidado indesejado.\nPoderia se retirar?",
+        "es-ES": "[Verkhasel]\n ...? Un invitado no deseado.\n¿Te irías en silencio?"
     },
     "dIJwDA": {
         "en-US": "[Verkhasel]\n{0}?\nDid Rumin send you?\nThis explains why he told us not to worry.",
@@ -121,13 +121,13 @@
     },
     "eIJwDA": {
         "en-US": "Did you want my attention...?",
-        "pt-BR": "Você queria que eu me interessasse…?",
-        "es-ES": "¿Querías que te prestara atención…?"
+        "pt-BR": "Você queria que eu me interessasse...?",
+        "es-ES": "¿Querías que te prestara atención...?"
     },
     "eYJwDA": {
         "en-US": "[Verkhasel]\nLet's cut to the chase.\nThe ^4D4DFFShadow Phenomenon^000000 is traces left behind when a specific being stays in a place and then leaves.\nAnd that specific being...\nWe're calling it the ^4D4DFFDark Elemental^000000 for now, but its true identity is unknown.",
         "pt-BR": "[Verkhasel]\nVamos direto ao ponto.\nO ^4D4DFFFenômeno Sombrio0} é um vestígio deixado quando uma entidade passa por um local.\nE essa entidade...\nPor enquanto, a chamamos de ^4D4DFFElemental Sombrio^000000, mas não sabemos sua verdadeira identidade.",
-        "es-ES": "[Verkhasel]\nVamos al grano.\nEl ^4D4DFFFenómeno de la Sombra^000000 es como el rastro que queda cuando un ser se queda en un lugar y luego se va.\nY ese ser es…\nPor ahora lo llamamos ^4D4DFFEspíritu de la Oscuridad^000000, pero no sabemos su verdadera identidad."
+        "es-ES": "[Verkhasel]\nVamos al grano.\nEl ^4D4DFFFenómeno de la Sombra^000000 es como el rastro que queda cuando un ser se queda en un lugar y luego se va.\nY ese ser es...\nPor ahora lo llamamos ^4D4DFFEspíritu de la Oscuridad^000000, pero no sabemos su verdadera identidad."
     },
     "eoJwDA": {
         "en-US": "Mayssel: I can tell you more about that.",
@@ -177,7 +177,7 @@
     "g4JwDA": {
         "en-US": "[Vicente]\nAh... My superiors are in the process of developing a new internal system.\nTo utilize the power of the Shadow when we acquire it.",
         "pt-BR": "[Vicente]\nAh... A Guilda está ocupada reestruturando uma nova organização interna.\nAcho que já estão pensando no que fazer depois de obter o poder das sombras.",
-        "es-ES": "[Vicente]\nAh… En el Gremio de Logos están preparando algo, dicen que hay que crear una nueva estructura interna.\nSupongo que están pensando en lo que vendrá después de obtener el poder de las sombras."
+        "es-ES": "[Vicente]\nAh... En el Gremio de Logos están preparando algo, dicen que hay que crear una nueva estructura interna.\nSupongo que están pensando en lo que vendrá después de obtener el poder de las sombras."
     },
     "hIJwDA": {
         "en-US": "[Mayssel]\nYou don't have to worry about that.\nWe've already updated our organization chart.\nWe've even decided on the names.\nWith Doomk, of course.",
@@ -382,7 +382,7 @@
     "rIJwDA": {
         "en-US": "[Vicente]\nVerkhasel is waiting for you.\nHah hah. I have a feeling we'll be working together a lot. Then, until next time.",
         "pt-BR": "[Vicente]\nVerkhasel está esperando por você.\nHaha... Parece que vamos trabalhar juntos por um tempo, então pode contar comigo.",
-        "es-ES": "[Vicente]\nVerkhasel te está esperando.\nJaja… Parece que vamos a seguir colaborando, así que cuente conmigo."
+        "es-ES": "[Vicente]\nVerkhasel te está esperando.\nJaja... Parece que vamos a seguir colaborando, así que cuente conmigo."
     },
     "rYJwDA": {
         "en-US": "[Vicente]\nI guess I need to move quickly too?\nHaha, I hope both sides have accurate information.",

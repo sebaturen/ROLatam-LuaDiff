@@ -67,7 +67,7 @@
     "zeohAQ": {
         "en-US": "[Kid]\nGosh, where could she\nbe hiding? I hate being\nit... There's so many places\nto hide around here. There\nmust be someplace I haven't\nchecked yet... Let's see...",
         "pt-BR": "[Criança]\nPuxa, onde ela poderia\nestar se escondendo? Eu odeio estar\nprocurando... Tem tantos lugares\npara se esconder por aqui. Deve ter\nalgum lugar que eu não\nverifiquei ainda... Vamos ver...",
-        "es-ES": "[Niña]\nVaya, ¿dónde podría\nestar oculta? Odio ser quien\nbusca… Hay tantos lugares\npara esconderse aquí. Debe\nhaber algún lugar que\naún no revisé… Veamos…"
+        "es-ES": "[Niña]\nVaya, ¿dónde podría\nestar oculta? Odio ser quien\nbusca... Hay tantos lugares\npara esconderse aquí. Debe\nhaber algún lugar que\naún no revisé... Veamos..."
     },
     "zuohAQ": {
         "en-US": "Old Man",
@@ -82,7 +82,7 @@
     "0OohAQ": {
         "en-US": "[Old Man]\nI don't have any regrets\nor doubts, but maybe there\nare a few things I missed\nout on. I guess an old man\ncan't help but think about\nthese sorts of things...",
         "pt-BR": "[Velho]\nNão tenho nenhum arrependimento\nou dúvidas, mas talvez haja\nalgumas coisas que sinto falta.\nAcho que um homem velho\nnão pode evitar de pensar\nesse tipo de coisa...",
-        "es-ES": "[Anciano]\nNo me arrepiento de nada\nni tengo dudas, pero quizá \nhaya cosas de las que me\nperdí. Supongo que un anciano\nno puede evitar pensar en\neste tipo de cosas…"
+        "es-ES": "[Anciano]\nNo me arrepiento de nada\nni tengo dudas, pero quizá \nhaya cosas de las que me\nperdí. Supongo que un anciano\nno puede evitar pensar en\neste tipo de cosas..."
     },
     "0eohAQ": {
         "en-US": "[Towner]\nCacti are wonderful,\nthey're the most beautiful\nplants in the desert. Yes, we\nmust cherish and nurture them~",
@@ -102,7 +102,7 @@
     "1OohAQ": {
         "en-US": "[Towner]\nUnless... You can do my\ntaxes? Pay off my mortgage?\nNo? Heh. Didn't think so.",
         "pt-BR": "[Cidadão]\nA menos que... Você pode fazer meus\nimpostos? Pagar minha hipoteca?\nNão? É, foi o que pensei.",
-        "es-ES": "[Habitante]\nA menos que… ¿Puedes preparar mi declaración de\nimpuestos? ¿O pagar mi hipoteca?\n¿No? Je. Ya me parecía."
+        "es-ES": "[Habitante]\nA menos que... ¿Puedes preparar mi declaración de\nimpuestos? ¿O pagar mi hipoteca?\n¿No? Je. Ya me parecía."
     },
     "1eohAQ": {
         "en-US": "[Towner]\nWhat's an adventurer\ndoing here in such an\nisolated, dreary town?\nShouldn't you be looking\nfor adventures? Take it from\nme, this place if bo-ring.",
@@ -122,7 +122,7 @@
     "2OohAQ": {
         "en-US": "[Towner]\nWhat do I mean by ''a\ncloser look?'' Heh, you'll\nsee... Maybe. Hahahaha!\nOh, forget it, it's not\nthat important anyway.\nMay Freya bless you~",
         "pt-BR": "[Cidadão]\nO que quero dizer com ''preste mais atenção''? Eh, você vai\nver... Talvez. Hahahaha!\nAh, esqueça, não é\ntão importante assim.\nQue Freya o abençoe!",
-        "es-ES": "[Habitante]\n¿Qué quiero decir con\nmirar con más atención? Je, ya\nverás… Quizá. ¡Ja, ja, ja, ja!\nAh, olvídalo, no es\ntan importante igual.\nQue Freya te bendiga."
+        "es-ES": "[Habitante]\n¿Qué quiero decir con\nmirar con más atención? Je, ya\nverás... Quizá. ¡Ja, ja, ja, ja!\nAh, olvídalo, no es\ntan importante igual.\nQue Freya te bendiga."
     },
     "2eohAQ": {
         "en-US": "[Kid]\nI really want to look\ninside the temple, but\nit looks so scary from\nthe outside! I wonder\nwhy it's like that?",
@@ -137,7 +137,7 @@
     "2+ohAQ": {
         "en-US": "[Towner]\nI guess you can tell\nfrom this withered tree\nthat our town is short\non water. I guess that's\na natural consequence of\nliving here in the desert...",
         "pt-BR": "[Cidadão]\nAcho que você pode notar\npor essa árvore murcha\nque nossa cidade está com falta\nde água. Acho que isso é\numa consequência natural de\nviver no deserto...",
-        "es-ES": "[Habitante]\nImagino que podrás notar\npor este árbol marchito\nque en nuestro pueblo escasea\nel agua. Creo que es\nuna consecuencia natural\nde vivir aquí en el desierto…"
+        "es-ES": "[Habitante]\nImagino que podrás notar\npor este árbol marchito\nque en nuestro pueblo escasea\nel agua. Creo que es\nuna consecuencia natural\nde vivir aquí en el desierto..."
     },
     "3OohAQ": {
         "en-US": "Old Lady",
@@ -162,12 +162,12 @@
     "4OohAQ": {
         "en-US": "[Old Man]\nI guess the young people\naren't content living here\nsince we lack a lot of the\nmaterial excitement of other\ntowns. They can't appreciate\nwhat's really special here...",
         "pt-BR": "[Velho]\nAcho que os jovens\nnão estão satisfeitos em viver aqui\njá que nos falta muito da\nemoção material de outras\ncidades. Eles não conseguem apreciar\no que tem de tão especial aqui...",
-        "es-ES": "[Anciano]\nSupongo que la juventud\nno se conforma con vivir aquí,\nya que carecemos de muchas\ncosas atractivas que sí tienen otros\npueblos… No pueden apreciar\nlo que este lugar tiene de especial…"
+        "es-ES": "[Anciano]\nSupongo que la juventud\nno se conforma con vivir aquí,\nya que carecemos de muchas\ncosas atractivas que sí tienen otros\npueblos... No pueden apreciar\nlo que este lugar tiene de especial..."
     },
     "4eohAQ": {
         "en-US": "[Towner]\nPeople cherish water\naround here, but I've\nsomething even more\nprecious to me. Yes, even\nmore precious than water...\nYou guessed it--true love.",
         "pt-BR": "[Cidadão]\nAs pessoas valorizam a água\npor aqui, mas eu tenho\nalgo ainda mais\nprecioso. Sim, ainda\nmais precioso do que a água...\nVocê adivinhou: amor verdadeiro.",
-        "es-ES": "[Habitante]\nLa gente valora el agua\npor aquí, pero yo\ntengo algo aún más\npreciado. Sí, incluso\nmás preciado que el agua…\nAdivinaste… el amor verdadero."
+        "es-ES": "[Habitante]\nLa gente valora el agua\npor aquí, pero yo\ntengo algo aún más\npreciado. Sí, incluso\nmás preciado que el agua...\nAdivinaste... el amor verdadero."
     },
     "4uohAQ": {
         "en-US": "[Towner]\nWe actually started dating\nhere, so this place really\nmeans a lot to me. It's my\nfavorite spot for spending\ntime with my girl. Hahaha~",
@@ -267,32 +267,32 @@
     "9eohAQ": {
         "en-US": "[Old Man]\nFr... Fr...",
         "pt-BR": "[Velho]\nL... L...",
-        "es-ES": "[Anciano]\nFr… Fr…"
+        "es-ES": "[Anciano]\nFr... Fr..."
     },
     "9uohAQ": {
         "en-US": "[Old Man]\nFr...",
         "pt-BR": "[Velho]\nLo...",
-        "es-ES": "[Anciano]\nFr…"
+        "es-ES": "[Anciano]\nFr..."
     },
     "9+ohAQ": {
         "en-US": "[Old Man]\nPraise Freya! ^333333*Keck*^000000\n^333333*Cough cough*^000000 Fre...\n^333333*Cough*^000000 Praise Freya!\nFreya! Conquer those\nthat blaspheme you! Let\nme see it before I die!",
         "pt-BR": "[Velho]\nLouvada seja Freya! ^333333*Keck*^000000\n^333333*Tosse Tosse*^000000Fre...\n^333333*Tosse*^000000Louvada seja Freya!\nFreya! Conquiste aqueles\nque blasfemam contra você!\nDeixe-me ver isso antes que eu morra!",
-        "es-ES": "[Anciano]\n¡Alabada sea Freya! ^333333*Ejem*^000000\n^333333*Cof, cof*^000000 Fre…\n^333333*Cof*^000000 ¡Alabada sea Freya!\n¡Freya! ¡Conquista a\nquienes te blasfeman! ¡Tengo\nque verlo antes de morir!"
+        "es-ES": "[Anciano]\n¡Alabada sea Freya! ^333333*Ejem*^000000\n^333333*Cof, cof*^000000 Fre...\n^333333*Cof*^000000 ¡Alabada sea Freya!\n¡Freya! ¡Conquista a\nquienes te blasfeman! ¡Tengo\nque verlo antes de morir!"
     },
     "+OohAQ": {
         "en-US": "[Old Man]\nI have never regretted\n^333333*Cough*^000000 my faith in you,\nmy goddess! ^333333*Keck*^000000 May\nthe suffering of all our\nenemies drive them to\nmadness before death!",
         "pt-BR": "[Velho]\nNunca me arrependi da\n^333333*Tosse*^000000minha fé em você,\nminha deusa! ^333333*Keck*^000000 Que\no sofrimento de todos os nossos\ninimigos os levem à\nloucura antes da morte!",
-        "es-ES": "[Anciano]\n¡Nunca me arrepentí…\n^333333*Cof*^000000 de creer en ti,\nmi diosa! ^333333*Ejem*^000000 ¡Que\nel sufrimiento de nuestros\nenemigos los lleve a la\nlocura antes de morir!"
+        "es-ES": "[Anciano]\n¡Nunca me arrepentí...\n^333333*Cof*^000000 de creer en ti,\nmi diosa! ^333333*Ejem*^000000 ¡Que\nel sufrimiento de nuestros\nenemigos los lleve a la\nlocura antes de morir!"
     },
     "+eohAQ": {
         "en-US": "[Old Lady]\nI wonder what my\nstanding with Freya\nis like. Hopefully, she\nwill take mercy upon me\nwhen I leave this world.\nMy days here are numbered...",
         "pt-BR": "[Velha Senhora]\nGostaria de saber qual é a minha\nposição com Freya.\nEspero que ela\ntenha piedade de mim\nquando eu deixar este mundo.\nMeus dias aqui estão contados...",
-        "es-ES": "[Señora]\nMe pregunto cuál\nes mi situación\ncon Freya. Espero que\nse apiade de mí \ncuando deje este mundo.\nMis días aquí están contados…"
+        "es-ES": "[Señora]\nMe pregunto cuál\nes mi situación\ncon Freya. Espero que\nse apiade de mí \ncuando deje este mundo.\nMis días aquí están contados..."
     },
     "+uohAQ": {
         "en-US": "[Kid]\nHuh? You don't live here.\nAre you... Are you a traveler?\nYou musta been to so many\nother places, huh? What\ndo they look like? I want to\ntravel too when I grow up~",
         "pt-BR": "[Criança]\nO quê? Você não mora aqui.\nVocê é... Você é um viajante?\nVocê deve ter estado em muitos\noutros lugares, não é?\nComo eles são? Eu quero\nviajar também quando crescer!",
-        "es-ES": "[Niño]\n¿Eh? Tú no eres de aquí.\n¿Tú…? ¿Eres viajante?\nDebes de haber estado en\ntantos lugares, ¿no? ¿Cómo\nson? Yo también\nquiero viajar cuando crezca."
+        "es-ES": "[Niño]\n¿Eh? Tú no eres de aquí.\n¿Tú...? ¿Eres viajante?\nDebes de haber estado en\ntantos lugares, ¿no? ¿Cómo\nson? Yo también\nquiero viajar cuando crezca."
     },
     "++ohAQ": {
         "en-US": "[Kid]\nI like this town, but I want\nto see how other people live.\nThe grown-ups think it's a bad\nidea, though. They say Freya\nhates it. Is it that bad that\nI can't stop wondering?",
@@ -312,7 +312,7 @@
     "/uohAQ": {
         "en-US": "[Old Man]\nOh, gracious Freya, your\nservant humbly beseeches\nyou on bended knee...\nHeal me of this infirmity!\nThe body is droopingly limp,\nbut the spirit is willing...!\nmust be... Cheshrumnir Temple.",
         "pt-BR": "[Velho]\nOh, graciosa Freya, seu\nservo humildemente lhe suplica\nde joelhos dobrados...\nCure-me dessa enfermidade!\nO corpo está caído e mole,\nmas o espírito está disposto...!\nDeve ser... o Templo de Cheshrumnir.",
-        "es-ES": "[Anciano]\nOh, misericordiosa Freya,\ntu siervo te ruega\nhumildemente de rodillas…\n¡Cúrame de esta enfermedad!\n¡El cuerpo languidece,\npero el espíritu tiene voluntad…!\nDebe de ser… el Templo de Cheshrumnir."
+        "es-ES": "[Anciano]\nOh, misericordiosa Freya,\ntu siervo te ruega\nhumildemente de rodillas...\n¡Cúrame de esta enfermedad!\n¡El cuerpo languidece,\npero el espíritu tiene voluntad...!\nDebe de ser... el Templo de Cheshrumnir."
     },
     "/+ohAQ": {
         "en-US": "[Towner]\nYou know what's good\nabout the desert? No?",
@@ -372,12 +372,12 @@
     "CushAQ": {
         "en-US": "[Towner]\nIt's too hot...",
         "pt-BR": "[Cidadão]\nEstá muito quente...",
-        "es-ES": "[Habitante]\nHace demasiado calor…"
+        "es-ES": "[Habitante]\nHace demasiado calor..."
     },
     "C+shAQ": {
         "en-US": "[Towner]\nSo sweaty...",
         "pt-BR": "[CIdadão]\nTão suado...",
-        "es-ES": "[Habitante]\nTanto sudor…"
+        "es-ES": "[Habitante]\nTanto sudor..."
     },
     "DOshAQ": {
         "en-US": "[Towner]\n...............\n...............\n...............",
@@ -392,12 +392,12 @@
     "DushAQ": {
         "en-US": "[Towner]\nThe drinks in this\ntown are so... They're...\nThey're so damn strong!",
         "pt-BR": "[CIdadão]\nAs bebidas nesta\ncidade são tão... São...\nSão muito fortes!",
-        "es-ES": "[Habitante]\nLas bebidas de esta\nciudad son tan… Son…\n¡Son demasiado fuertes!"
+        "es-ES": "[Habitante]\nLas bebidas de esta\nciudad son tan... Son...\n¡Son demasiado fuertes!"
     },
     "D+shAQ": {
         "en-US": "[Towner]\nWhy...\nWhy does the ground\nkeep wobbling?! It's...\nIt's like it's trying to\nbetray me! Every time!",
         "pt-BR": "[CIdadão]\nPor que...\nPor que o chão\ncontinua balançando?! É...\nÉ como se ele estivesse tentando\nme trair! Toda vez!",
-        "es-ES": "[Habitante]\nPor qué…\n¡¿Por qué el suelo\nse tambalea?! Es…\n¡Es como si intentara\ntraicionarme! ¡Todo el tiempo!"
+        "es-ES": "[Habitante]\nPor qué...\n¡¿Por qué el suelo\nse tambalea?! Es...\n¡Es como si intentara\ntraicionarme! ¡Todo el tiempo!"
     },
     "EOshAQ": {
         "en-US": "[Towner]\n^333333*Hiccup*^000000",
@@ -407,7 +407,7 @@
     "EeshAQ": {
         "en-US": "[Towner]\nIt's nice when a town\nis peaceful and quiet...\nBut it's lame when a\ntavern is dead like this.",
         "pt-BR": "[CIdadão]\nÉ bom quando uma cidade\né pacífica e tranquila...\nMas é ruim quando uma\ntaverna está morta assim.",
-        "es-ES": "[Habitante]\nEs lindo cuando un lugar\nes tranquilo y silencioso…\nPero es aburrido cuando\nuna taberna está así de muerta."
+        "es-ES": "[Habitante]\nEs lindo cuando un lugar\nes tranquilo y silencioso...\nPero es aburrido cuando\nuna taberna está así de muerta."
     },
     "EushAQ": {
         "en-US": "[Towner]\nWell, there's good\nand bad points to\neverything. Hopefully\nthings will pick up\naround here as more of\nyou adventurers come visit.",
@@ -417,7 +417,7 @@
     "E+shAQ": {
         "en-US": "[Towner]\nThere's nothing but\nold people and children\nin this town. Where's a\ndecent man worth marrying?\nThere's a few bachelors that\nare my age, but... Well...",
         "pt-BR": "[CIdadã]\nNão há nada além de\nidosos e crianças\nnesta cidade. Onde está um\nhomem decente que valha a pena se casar?\nTem alguns solteiros que\nsão da minha idade, mas... Bom...",
-        "es-ES": "[Habitante]\nNo hay nada más que\nancianos y niños\nen esta ciudad. ¿Dónde hay un\nhombre decente para casarse?\nHay algunos solteros\nde mi edad, pero… Bueno…"
+        "es-ES": "[Habitante]\nNo hay nada más que\nancianos y niños\nen esta ciudad. ¿Dónde hay un\nhombre decente para casarse?\nHay algunos solteros\nde mi edad, pero... Bueno..."
     },
     "FOshAQ": {
         "en-US": "[Towner]\nThey're all too hairy or\ntoo muscular. I don't think\nI'll be able to get married\nanytime soon! Oh, the misery!",
@@ -457,7 +457,7 @@
     "G+shAQ": {
         "en-US": "[Towner]\nI really want to\nask out the woman\nright in front of me.\nDo you think she'll...?",
         "pt-BR": "[Cidadão]\nEu realmente quero\nconvidar a mulher\nque está bem na minha frente para sair.\nVocê acha que ela vai...?",
-        "es-ES": "[Habitante]\nRealmente quiero\ninvitar a salir a la mujer\nque tengo frente a mí.\n¿Crees que ella…?"
+        "es-ES": "[Habitante]\nRealmente quiero\ninvitar a salir a la mujer\nque tengo frente a mí.\n¿Crees que ella...?"
     },
     "HOshAQ": {
         "en-US": "[Towner]\nCrap! Did I say that\nout loud? I-I-I really\ndidn't want her to hear!",
@@ -467,7 +467,7 @@
     "HeshAQ": {
         "en-US": "[Towner]\nI heard all that...\nGosh, he's so clueless.\nI don't hate him, but he\nshould show a bit more\nbackbone if he wants\nto impress me. Hmmm...",
         "pt-BR": "[CIdadã]\nEu ouvi tudo isso...\nPuxa, ele é tão sem noção.\nEu não o odeio, mas ele\ndeveria mostrar um pouco mais de\nconfiança se quiser\nme impressionar. Hum...",
-        "es-ES": "[Habitante]\nEscuché todo…\nVaya que es despistado.\nNo lo odio, pero tiene\nque mostrar un poco más\nde agallas si quiere\nimpresionarme. Mmm…"
+        "es-ES": "[Habitante]\nEscuché todo...\nVaya que es despistado.\nNo lo odio, pero tiene\nque mostrar un poco más\nde agallas si quiere\nimpresionarme. Mmm..."
     },
     "HushAQ": {
         "en-US": "[Towner]\nIf you enjoy a good,\nstiff drink, then you have\nto stop by Veins Tavern~",
@@ -477,7 +477,7 @@
     "H+shAQ": {
         "en-US": "[Towner]\nIf you don't love\ndrinking, then Veins\nTavern is the perfect\nplace to learn! ...To\nlove... drinking...",
         "pt-BR": "[CIdadão]\nSe você não gosta de\nbeber, então a\nTaverna de Veins é o lugar perfeito\npara aprender! ...A\namar... beber...",
-        "es-ES": "[Habitante]\nSi no te gusta beber,\nentonces la taberna\nde Veins es el lugar\nperfecto para aprender…\na amar… la bebida…"
+        "es-ES": "[Habitante]\nSi no te gusta beber,\nentonces la taberna\nde Veins es el lugar\nperfecto para aprender...\na amar... la bebida..."
     },
     "IOshAQ": {
         "en-US": "[Towner]\nIsn't the sun so hot?\nDoesn't it make you feel\nso thirsty? Well, you may\nwant to consider quenching\nthat nasty thirst with liquor!",
@@ -502,7 +502,7 @@
     "JOshAQ": {
         "en-US": "[Towner]\nMan, the world is just...\nIt's just desires...!\nFaith? It helps, you\nknow? Cuz-cuz desires\nare all just nothing!\nThey're nooooooothing!",
         "pt-BR": "[CIdadão]\nCara, o mundo é só...\nSão apenas desejos...!\nFé? Ela ajuda,\nsabe? Porque... Porque os desejos\nnão são nada!\nEles não são nadica de nada!",
-        "es-ES": "[Habitante]\nVaya, en el mundo solo…\n¡Solo hay deseos…!\n¿La fe? Te ayuda,\n¿sabes? ¡P-porque los\ndeseos no son nada!\n¡Naaaaada!"
+        "es-ES": "[Habitante]\nVaya, en el mundo solo...\n¡Solo hay deseos...!\n¿La fe? Te ayuda,\n¿sabes? ¡P-porque los\ndeseos no son nada!\n¡Naaaaada!"
     },
     "JeshAQ": {
         "en-US": "[Towner]\nArgh! What is life?!\nI don't know what to\nbelieve anymore! Freya!\nFreya looooves you!",

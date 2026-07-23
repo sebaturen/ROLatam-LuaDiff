@@ -37,7 +37,7 @@
     "B1DD": {
         "en-US": "[Liotzburg]\nWhat...?\nFactory Repair\nbudget? No way!",
         "pt-BR": "[Liotzburg]\nO quê...?\nOrçamento de reparo da fábrica?\nDe jeito nenhum!",
-        "es-ES": "[Liotzburg]\n¿Qué…?\n¿Presupuesto para la\nreparación de la fábrica? ¡De ninguna manera!"
+        "es-ES": "[Liotzburg]\n¿Qué...?\n¿Presupuesto para la\nreparación de la fábrica? ¡De ninguna manera!"
     },
     "CFDD": {
         "en-US": "[Liotzburg]\nWhy waste money?\nWe haven't had any\nproblems so far! Look,\neverything's fine! Why\nare you exaggerating\nsuch small details?",
@@ -102,7 +102,7 @@
     "FFDD": {
         "en-US": "[Zelmeto]\nAh, it's you again.\nIt's shameful letting\nother people know about\nour miserable situation...",
         "pt-BR": "[Zelmeto]\nAh, é você de novo.\nÉ vergonhoso deixar\nque outras pessoas saibam sobre\nnossa situação miserável...",
-        "es-ES": "[Zelmeto]\nAh, eres tú otra vez.\nQué vergüenza que los demás\nse enteren de nuestra\nmiserable situación…"
+        "es-ES": "[Zelmeto]\nAh, eres tú otra vez.\nQué vergüenza que los demás\nse enteren de nuestra\nmiserable situación..."
     },
     "FVDD": {
         "en-US": "[Zelmeto]\nThere's nothing\nworth seeing here,\nso there really isn't\na point in you coming to\nvisit this place anymore.",
@@ -122,7 +122,7 @@
     "GFDD": {
         "en-US": "[Zelmeto]\n...Hm?\nAren't these the\nmaterials we need\nto make repairs in\nthe factory? How did\nyou find all of these?",
         "pt-BR": "[Zelmeto]\n...Hm?\nNão são esses os\nmateriais que precisamos\npara fazer reparos na\nna fábrica? Como foi que\nvocê encontrou tudo isso?",
-        "es-ES": "[Zelmeto]\n… ¿Mmm?\n¿No son estos los\nmateriales que necesitamos\npara poder reparar\nla fábrica? ¿Cómo fue\nque encontraste todo esto?"
+        "es-ES": "[Zelmeto]\n... ¿Mmm?\n¿No son estos los\nmateriales que necesitamos\npara poder reparar\nla fábrica? ¿Cómo fue\nque encontraste todo esto?"
     },
     "GVDD": {
         "en-US": "[Zelmeto]\nI don't know how\nI can possibly pay you\nback for this great favor.\nI appreciate that you've\nstepped forward to help us.",
@@ -132,12 +132,12 @@
     "GlDD": {
         "en-US": "[Zelmeto]\nOh...!\nIn my years of managing,\nI've learned the ultimate\nmotivation techniques. Let\nme enhance your motivation\nto show you my gratitude.",
         "pt-BR": "[Zelmeto]\nOh...!\nEm meus anos de gerenciamento,\naprendi as melhores\ntécnicas de motivação. Deixe-me\naumentar sua motivação\npara mostrar-lhe minha gratidão.",
-        "es-ES": "[Zelmeto]\n¡Oh…!\nEn mis años de gestión,\naprendí las mejores\ntécnicas de motivación. Déjame\naumentar tu motivación\npara mostrarte mi gratitud."
+        "es-ES": "[Zelmeto]\n¡Oh...!\nEn mis años de gestión,\naprendí las mejores\ntécnicas de motivación. Déjame\naumentar tu motivación\npara mostrarte mi gratitud."
     },
     "G1DD": {
         "en-US": "[Zelmeto]\nNow...\nJust open your mind\nand listen to my words\nof encouragement\nand inspiration...",
         "pt-BR": "[Zelmeto]\nAgora...\nApenas abra sua mente\ne ouça minhas palavras\nde encorajamento\ne inspiração...",
-        "es-ES": "[Zelmeto]\nAhora…\nSolo abre tu mente\ny escucha mis palabras\nde aliento\ne inspiración…"
+        "es-ES": "[Zelmeto]\nAhora...\nSolo abre tu mente\ny escucha mis palabras\nde aliento\ne inspiración..."
     },
     "HFDD": {
         "en-US": "[Zelmeto]\n^236B8EWhen the going\ngets rough, you've\ngotta get rougher!\nYou gotta climb that\nmountain 'cause no one's\ngonna climb it for you!^000000",
@@ -157,7 +157,7 @@
     "H1DD": {
         "en-US": "[Zelmeto]\n^333333*Sigh...*^000000\nI'm really worried\nabout this factory's\nfuture. What is our\nsuperintendant thinking...?",
         "pt-BR": "[Zelmeto]\n^333333*Suspiro...*^000000\nEstou realmente preocupado\ncom o futuro desta fábrica.\nO que o nosso\nsuperintendente está pensando...?",
-        "es-ES": "[Zelmeto]\n^333333*Suspira…*^000000\nMe preocupa mucho\nel futuro de esta\nfábrica. ¿En qué está pensando\nnuestro superintendente…?"
+        "es-ES": "[Zelmeto]\n^333333*Suspira...*^000000\nMe preocupa mucho\nel futuro de esta\nfábrica. ¿En qué está pensando\nnuestro superintendente...?"
     },
     "IFDD": {
         "en-US": "[Zelmeto]\nWe need\nat least\n20 ^FF0000Flexible Tubes^000000,\n10 ^FF0000Rusty Screw^000000 and\n10 ^FF0000Used Iron Plate^000000\nto repair this factory.",
@@ -167,12 +167,12 @@
     "IVDD": {
         "en-US": "[Zelmeto]\n^333333*Sigh...*^000000\nBut there's no way\nwe can get all of those\nthings. Our budget isn't\nbig enough to cover it...",
         "pt-BR": "[Zelmeto]\n^333333*Suspiro...*^000000\nMas não há como\nconseguirmos todas essas\ncoisas. Nosso orçamento não é\ngrande o suficiente para cobrir tudo isso...",
-        "es-ES": "[Zelmeto]\n^333333*Suspira…*^000000\nPero no hay manera\nde poder conseguir todas esas\ncosas. Nuestro presupuesto no\nbasta para cubrirlo…"
+        "es-ES": "[Zelmeto]\n^333333*Suspira...*^000000\nPero no hay manera\nde poder conseguir todas esas\ncosas. Nuestro presupuesto no\nbasta para cubrirlo..."
     },
     "IlDD": {
         "en-US": "[Zelmeto]\n...\n......",
         "pt-BR": "[Zelmeto]\n...\n......",
-        "es-ES": "[Zelmeto]\n…\n......"
+        "es-ES": "[Zelmeto]\n...\n......"
     },
     "I1DD": {
         "en-US": "[Zelmeto]\n^333333*Sigh*^000000\nMy proposal was rejected\nby our superintendant. But\nmaintainance and repairs\nare crucial for peak operating\nefficiency and worker safety!",
@@ -242,12 +242,12 @@
     "MFDD": {
         "en-US": "[Zelmeto]\nThis is\nworse than\nI imagined...",
         "pt-BR": "[Zelmeto]\nIsso é\npior do que\neu imaginava...",
-        "es-ES": "[Zelmeto]\nEsto es\npeor de lo que\nimaginé…"
+        "es-ES": "[Zelmeto]\nEsto es\npeor de lo que\nimaginé..."
     },
     "MVDD": {
         "en-US": "[Zelmeto]\nWe've got to start\nrepairs as soon as we\ncan! Hopefully, we can\nresolve this before any\nserious problems happen...",
         "pt-BR": "[Zelmeto]\nTemos que começar os\nreparos o mais rápido que\npudermos! Espero que possamos\nresolver isso antes que ocorram\nproblemas sérios...",
-        "es-ES": "[Zelmeto]\n¡Tenemos que empezar\nlas reparaciones cuanto\nantes! Esperemos que podamos\nresolver esto antes de que\nocurran problemas graves…"
+        "es-ES": "[Zelmeto]\n¡Tenemos que empezar\nlas reparaciones cuanto\nantes! Esperemos que podamos\nresolver esto antes de que\nocurran problemas graves..."
     },
     "MlDD": {
         "en-US": "[Zelmeto]\nAlright, the last\nthing that you need to\ninspect is a ^FF0000large conveyor^000000.\nIt's similar to the one you\ninspected before, but it's\nbigger and more powerful.",
@@ -277,7 +277,7 @@
     "N1DD": {
         "en-US": "[Zelmeto]\nHuh?\nI'm suprised to hear\nthat. ^333333*Sigh*^000000 There's just\ntoo many things that need\nfixing. This is terrible...",
         "pt-BR": "[Zelmeto]\nHã?\nEstou surpreso em ouvir\nisso. ^333333*Suspiro*^000000 Há\nmuitas coisas que precisam ser\nconsertadas. Isso é terrível...",
-        "es-ES": "[Zelmeto]\n¿Eh?\nMe sorprende oír\neso. ^333333*Suspira*^000000 Hay\ndemasiadas cosas que necesitan\narreglarse. Esto es terrible…"
+        "es-ES": "[Zelmeto]\n¿Eh?\nMe sorprende oír\neso. ^333333*Suspira*^000000 Hay\ndemasiadas cosas que necesitan\narreglarse. Esto es terrible..."
     },
     "OFDD": {
         "en-US": "[Zelmeto]\nWell, let me worry\nabout that for now. Please\nfocus on continuing to inspect\nsome of the other machines.",
@@ -312,7 +312,7 @@
     "PlDD": {
         "en-US": "[Zelmeto]\nI see...\nIt's most likely that\nthere was a short\ncircuit and most\nof the internal devices\nwere burnt out...",
         "pt-BR": "[Zelmeto]\nEstou vendo...\nÉ muito provável que\ntenha havido um curto\ncircuito e a maioria\ndos dispositivos internos\nforam queimados...",
-        "es-ES": "[Zelmeto]\nYa veo…\nLo más probable es que\nhaya habido un cortocircuito\ny la mayoría de\nlos dispositivos internos\nse hayan quemado…"
+        "es-ES": "[Zelmeto]\nYa veo...\nLo más probable es que\nhaya habido un cortocircuito\ny la mayoría de\nlos dispositivos internos\nse hayan quemado..."
     },
     "P1DD": {
         "en-US": "[Zelmeto]\nThanks for checking\nthat out for me. Now,\nthe next machine I need\nyou to inspect is different\nthan the others I've had\nyou examine.",
@@ -342,7 +342,7 @@
     "RFDD": {
         "en-US": "[Zelmeto]\nWhat...?\nThis is worse\nthan I expected. But\nit's good that we know\nabout these problems\nas soon as possible.",
         "pt-BR": "[Zelmeto]\nO quê...?\nIsso é pior\ndo que eu esperava. Mas\né bom que saibamos\nsobre esses problemas\no mais rápido possível.",
-        "es-ES": "[Zelmeto]\n¿Qué…?\nEsto es peor\nde lo que esperaba. Pero\nes bueno que sepamos\nsobre estos problemas\nlo antes posible."
+        "es-ES": "[Zelmeto]\n¿Qué...?\nEsto es peor\nde lo que esperaba. Pero\nes bueno que sepamos\nsobre estos problemas\nlo antes posible."
     },
     "RVDD": {
         "en-US": "[Zelmeto]\nDon't you worry,\nwe'll take care of\nthis. In the meantime,\nI'd like you to inspect\nthe next machine for me.",
@@ -357,7 +357,7 @@
     "R1DD": {
         "en-US": "[Zelmeto]\nIt's located in the\nmiddle of the factory,\nso you should be able\nto find it. It may be in bad\ncondition, even though it's\noperating fine for now...",
         "pt-BR": "[Zelmeto]\nEle está localizado no\nmeio da fábrica,\nportanto, você deve ser capaz de\nencontrar. Pode estar em más\ncondições, mesmo que esteja\nfuncionando bem por enquanto...",
-        "es-ES": "[Zelmeto]\nSe encuentra en el\ncentro de la fábrica,\npor lo que deberías poder\nencontrarlo. Es posible que esté en malas\ncondiciones, aunque esté \nfuncionando bien por ahora…"
+        "es-ES": "[Zelmeto]\nSe encuentra en el\ncentro de la fábrica,\npor lo que deberías poder\nencontrarlo. Es posible que esté en malas\ncondiciones, aunque esté \nfuncionando bien por ahora..."
     },
     "SFDD": {
         "en-US": "[Zelmeto]\nWe need to ensure that\nit's stable, reliable and\ndoesn't pose a threat to\nour workforce. Thanks\nagain, adventurer.",
@@ -402,7 +402,7 @@
     "UFDD": {
         "en-US": "[Zelmeto]\nIf you would,\nplease inspect the\n2nd control panel that\nseems to have been\nbroken for a while...",
         "pt-BR": "[Zelmeto]\nSe você quiser,\npor favor, inspecione o\nsegundo painel de controle que\nparece estar\nquebrado há um tempo...",
-        "es-ES": "[Zelmeto]\nSi puedes,\ninspecciona el\nsegundo panel de control que\nparece llevar un\nbuen tiempo averiado…"
+        "es-ES": "[Zelmeto]\nSi puedes,\ninspecciona el\nsegundo panel de control que\nparece llevar un\nbuen tiempo averiado..."
     },
     "UVDD": {
         "en-US": "[Zelmeto]\nAh, you must be a visitor.\nI'm Zelmeto Abellov, the\nfield overseer. Have you\nbeen in this facility before?",
@@ -417,17 +417,17 @@
     "U1DD": {
         "en-US": "[Zelmeto]\nOur superintendant makes a lot\nof money and seems content with\nthe current situation. However, the rest of the workforce doesn't enjoy all of the benefits he receives...",
         "pt-BR": "[Zelmeto]\nNosso superintendente ganha muito\nmuito dinheiro e parece satisfeito com a\ncom a situação atual. No entanto, o restante da força de trabalho não desfruta de todos os benefícios que ele recebe...",
-        "es-ES": "[Zelmeto]\nNuestro superintendente genera mucho\ndinero y parece contento con\nla situación actual. Sin embargo, el resto de la mano de obra no disfruta de los mismos beneficios que él…"
+        "es-ES": "[Zelmeto]\nNuestro superintendente genera mucho\ndinero y parece contento con\nla situación actual. Sin embargo, el resto de la mano de obra no disfruta de los mismos beneficios que él..."
     },
     "VFDD": {
         "en-US": "[Zelmeto]\nMany people have already\nquit and there are only a few\npeople who continue to work\nhere. So now we're understaffed\nand I'm in quite a bind...",
         "pt-BR": "[Zelmeto]\nMuitas pessoas já desistiram\ne há apenas algumas\npessoas que continuam a trabalhar\naqui. Portanto, agora estamos com falta de pessoal\ne estou em uma situação difícil...",
-        "es-ES": "[Zelmeto]\nMuchas personas ya\nrenunciaron y solo hay unos pocos\nquienes siguen trabajando\naquí. Así que ahora nos falta personal\ny estoy en un gran aprieto…"
+        "es-ES": "[Zelmeto]\nMuchas personas ya\nrenunciaron y solo hay unos pocos\nquienes siguen trabajando\naquí. Así que ahora nos falta personal\ny estoy en un gran aprieto..."
     },
     "VVDD": {
         "en-US": "[Zelmeto]\nThere are some urgent\ntasks I need done, but\nthere's no way for me\nto recruit new workers.\nAh, I'm sorry, I've spoken too\nfreely about my own problems...",
         "pt-BR": "[Zelmeto]\nHá algumas tarefas urgentes\nque preciso realizar, mas\nnão há como eu\nrecrutar novos trabalhadores.\nAh, desculpe-me, falei demais sobre meus próprios\nproblemas...",
-        "es-ES": "[Zelmeto]\nHay algunas tareas\nurgentes que necesito hacer, pero\nno hay forma de\ncontratar a nuevos trabajadores.\nAh, lo siento, ya hablé demasiado\nsobre mis propios problemas…"
+        "es-ES": "[Zelmeto]\nHay algunas tareas\nurgentes que necesito hacer, pero\nno hay forma de\ncontratar a nuevos trabajadores.\nAh, lo siento, ya hablé demasiado\nsobre mis propios problemas..."
     },
     "VlDD": {
         "en-US": "You're understaffed?",
@@ -447,7 +447,7 @@
     "WVDD": {
         "en-US": "[Zelmeto]\nIt's a time consuming\ntask I'd rather do on my\nown. However, between that\nand managing the workforce,\nI don't have enough time...",
         "pt-BR": "[Zelmeto]\nÉ uma tarefa que consome tempo\nque prefiro fazer por conta própria.\nNo entanto, entre isso\ne o gerenciamento da força de trabalho,\nnão tenho tempo suficiente...",
-        "es-ES": "[Zelmeto]\nEs una tarea que requiere mucho tiempo\ny que prefiero hacer\nyo solo. Sin embargo, entre eso\ny la gestión de la mano de obra,\nno tengo suficiente tiempo…"
+        "es-ES": "[Zelmeto]\nEs una tarea que requiere mucho tiempo\ny que prefiero hacer\nyo solo. Sin embargo, entre eso\ny la gestión de la mano de obra,\nno tengo suficiente tiempo..."
     },
     "WlDD": {
         "en-US": "I can help you.",
@@ -482,7 +482,7 @@
     "YFDD": {
         "en-US": "[Zelmeto]\nWell, it's a living.\n^333333*Sigh*^000000 I can put up with\nthis, but I hope the higher\nups will consider improving\nthe work environment here...",
         "pt-BR": "[Zelmeto]\nBem, é um meio de vida.\n^333333*Suspiro*^000000Posso tolerar isso,\nmas espero que os superiores\nsuperiores considerem a possibilidade de melhorar\no ambiente de trabalho aqui...",
-        "es-ES": "[Zelmeto]\nSirve para ganarse la vida.\n^333333*Suspira*^000000 Puedo tolerar\nesto, pero espero que los de arriba\nconsideren la posibilidad de mejorar\nel ambiente laboral aquí…"
+        "es-ES": "[Zelmeto]\nSirve para ganarse la vida.\n^333333*Suspira*^000000 Puedo tolerar\nesto, pero espero que los de arriba\nconsideren la posibilidad de mejorar\nel ambiente laboral aquí..."
     },
     "YVDD": {
         "en-US": "[Zelmeto]\nThank you for\nyour kindness.\nAnd please don't\nlet anyone know about\nanything I just told you.",
@@ -517,7 +517,7 @@
     "Z1DD": {
         "en-US": "^3355FFThe main control panel\ndoesn't look like it has\nany problems. But after\ntapping on its surface,\nyou hear a disheartening\nhollow sound. It looks like\nit's missing some parts...^000000",
         "pt-BR": "^3355FFO painel de controle principal\nnão parece ter\nnenhum problema. Mas depois de\nbater em sua superfície,\nvocê ouve um som oco e estranho.\nParece que\nque estão faltando algumas peças...^000000",
-        "es-ES": "^3355FFEl panel de control principal\nno parece tener\nningún problema. Pero tras\ndar golpecitos en su superficie,\nse oye un desalentador\nsonido hueco. Parece que\nle faltan algunas partes…^000000"
+        "es-ES": "^3355FFEl panel de control principal\nno parece tener\nningún problema. Pero tras\ndar golpecitos en su superficie,\nse oye un desalentador\nsonido hueco. Parece que\nle faltan algunas partes...^000000"
     },
     "aFDD": {
         "en-US": "Conveyor",

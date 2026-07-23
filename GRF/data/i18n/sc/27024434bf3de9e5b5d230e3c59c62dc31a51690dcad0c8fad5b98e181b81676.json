@@ -7,7 +7,7 @@
     "gd/iAw": {
         "en-US": "The gathering of the world's leading power-enhancing users. This is the entrance to the [Power-Enhancing Users Association] Since the association currently does not have a separate building, they are temporarily renting a cat tower from a Malangdo resident.",
         "pt-BR": "O ponto de encontro dos melhores usuários de reforços. Essa é a entrada para a Associação dos Reforçadores. Já que a associação ainda não conta com um edifício próprio, eles estão temporariamente alugando uma torre felina do Malangdo local.",
-        "es-ES": "Viajeros del mundo,\nquienes quieran fortalecer sus <ITEM>[Alas de arcángel]<INFO>2573</INFO></ITEM>…"
+        "es-ES": "Viajeros del mundo,\nquienes quieran fortalecer sus <ITEM>[Alas de arcángel]<INFO>2573</INFO></ITEM>..."
     },
     "gt/iAw": {
         "en-US": "If you would like to use your enhanced abilities for the benefit of society or are in need of enhancement, please visit here or contact us at the contact information below.",
@@ -36,8 +36,8 @@
     },
     "h9/iAw": {
         "en-US": "[Fallen angel meister]\nYou...you are not wearing Arch angel's wings.",
-        "pt-BR": "[Arcanjo Caído]\nVocê… você não está vestindo Asas de Arcanjo.",
-        "es-ES": "[Ángel caído Smith]\nTú… ¿No deberías usar tus <ITEM>[Alas de arcángel]<INFO>2573</INFO></ITEM>?"
+        "pt-BR": "[Arcanjo Caído]\nVocê... você não está vestindo Asas de Arcanjo.",
+        "es-ES": "[Ángel caído Smith]\nTú... ¿No deberías usar tus <ITEM>[Alas de arcángel]<INFO>2573</INFO></ITEM>?"
     },
     "iN/iAw": {
         "en-US": "Enchant Arch angel wings",
@@ -167,17 +167,17 @@
     "od/iAw": {
         "en-US": "[Fallen angel meister]\nRaise your sword for justice,\nGive death penalty to villain",
         "pt-BR": "[Arcanjo Caído]\nLevante sua espada pela justiça,\ne traga morte para os vilões!",
-        "es-ES": "[Ángel caído Smith]\n¡Levanta tu espada contra las injusticias del mundo!\nMenos contra mí…"
+        "es-ES": "[Ángel caído Smith]\n¡Levanta tu espada contra las injusticias del mundo!\nMenos contra mí..."
     },
     "ot/iAw": {
         "en-US": "[Fallen angel meister]\nby the way... Your wing has been destroyed.",
-        "pt-BR": "[Arcanjo Caído]\nOlha… suas asas foram destruídas.",
-        "es-ES": "[Ángel caído Smith]\nPor cierto…, tus alas están rotas."
+        "pt-BR": "[Arcanjo Caído]\nOlha... suas asas foram destruídas.",
+        "es-ES": "[Ángel caído Smith]\nPor cierto..., tus alas están rotas."
     },
     "o9/iAw": {
         "en-US": "[Fallen angel meister]\nI wondering, why are you keep on putting on and off your wings?",
         "pt-BR": "[Arcanjo Caído]\nMe pergunto, por que você está tirando e colocando suas asas?",
-        "es-ES": "[Ángel caído Smith]\nAún no sé por qué no tienes tus Alas de arcángel…"
+        "es-ES": "[Ángel caído Smith]\nAún no sé por qué no tienes tus Alas de arcángel..."
     },
     "pN/iAw": {
         "en-US": "[Fallen angel meister]\nBe warned, you must pay ^0000FF3 Nyangvine^000000. As this is simple job there won't be any chance to lose your item. just the enchant will be disappeared.",

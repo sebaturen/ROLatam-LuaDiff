@@ -102,12 +102,12 @@
     "1J9IBw": {
         "en-US": "[Time Travel Researcher]\nI need more information I think.\nNot bad today...\nAnyway, thanks.",
         "pt-BR": "[Pesquisador de Fissuras]\nBem... Ainda não parece o bastante.\nNada mau...\nDe qualquer forma, obrigado.",
-        "es-ES": "[Investigador del tiempo]\nCreo que necesito más información.\nNada mal…\nEn fin, gracias."
+        "es-ES": "[Investigador del tiempo]\nCreo que necesito más información.\nNada mal...\nEn fin, gracias."
     },
     "1Z9IBw": {
         "en-US": "[Time Travel Researcher]\nYou didn't really give me any info that I don't already know...",
         "pt-BR": "[Pesquisador de Fissuras]\nHum... você não\ndescobriu nada! Mesmo se esforçando...\nVocê só perdeu tempo",
-        "es-ES": "[Investigador del tiempo]\nEn realidad, no me diste ningún dato que no sepa ya…"
+        "es-ES": "[Investigador del tiempo]\nEn realidad, no me diste ningún dato que no sepa ya..."
     },
     "1p9IBw": {
         "en-US": "You need to be a party leader in order to continue.",
@@ -167,7 +167,7 @@
     "4Z9IBw": {
         "en-US": "Unknown error has occurred..",
         "pt-BR": "Ocorreu um erro desconhecido..",
-        "es-ES": "Se produjo un error desconocido…"
+        "es-ES": "Se produjo un error desconocido..."
     },
     "4p9IBw": {
         "en-US": "It seems that you are unable to enter at this time.",
@@ -252,7 +252,7 @@
     "8p9IBw": {
         "en-US": "Memorial dungeon {0} does not exist...\nThe party leader did not create a memorial dungeon instance.",
         "pt-BR": "O calabouço memorial {0} não existe...\nO líder do grupo não criou o calabouço memorial.",
-        "es-ES": "La Mazmorra del Recuerdo {0} no existe…\nEl líder del grupo no creó una instancia de la Mazmorra del Recuerdo."
+        "es-ES": "La Mazmorra del Recuerdo {0} no existe...\nEl líder del grupo no creó una instancia de la Mazmorra del Recuerdo."
     },
     "859IBw": {
         "en-US": "{0} of the party, {1}, is entering the  {2}.",

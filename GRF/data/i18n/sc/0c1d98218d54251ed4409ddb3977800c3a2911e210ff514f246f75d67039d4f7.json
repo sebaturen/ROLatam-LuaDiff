@@ -62,7 +62,7 @@
     "rFO5Ag": {
         "en-US": "[Father Mareusis]\nPlease get off of that creature\nyou're riding on\nthen come to find me again...",
         "pt-BR": "[Padre Necrus]\nPor favor,\nsaia da sua montaria\ne venha me encontrar novamente...",
-        "es-ES": "[Padre Mareusis]\nPor favor, baja de esa criatura\nen la que montas\ny luego ven a buscarme de nuevo…"
+        "es-ES": "[Padre Mareusis]\nPor favor, baja de esa criatura\nen la que montas\ny luego ven a buscarme de nuevo..."
     },
     "rVO5Ag": {
         "en-US": "[Father Mareusis]\nHowever, I can tell that you are not suited to be an Acolyte.\nPlease remember who you were in your past life and find your path.",
@@ -102,17 +102,17 @@
     "tFO5Ag": {
         "en-US": "[Father Mareusis]\nDo you truly wish to become a servant of God?\nLet's see whether you are ready for it or not... Hmm...",
         "pt-BR": "[Padre Necrus]\nVocê deseja mesmo, de todo o seu coração, se tornar temente ao Senhor?\nVamos ver... Humm...",
-        "es-ES": "[Padre Mareusis]\n¿De verdad deseas convertirte en sirviente de los dioses?\nVeamos si tienes lo necesario… Mmm…"
+        "es-ES": "[Padre Mareusis]\n¿De verdad deseas convertirte en sirviente de los dioses?\nVeamos si tienes lo necesario... Mmm..."
     },
     "tVO5Ag": {
         "en-US": "[Father Mareusis]\nOh my?! You haven't accomplished the basic practice yet?! You have long way to go! Come again after increasing your job level!",
         "pt-BR": "[Padre Necrus]\nPara fazer parte dos Noviços, por favor, aprenda as Habilidades Básicas primeiro.",
-        "es-ES": "[Padre Mareusis]\n¡¿Pero qué…?! ¡¿Todavía no completaste la práctica básica?! ¡Aún te queda un largo camino por delante! ¡Vuelve después de aumentar tu nivel de clase!"
+        "es-ES": "[Padre Mareusis]\n¡¿Pero qué...?! ¡¿Todavía no completaste la práctica básica?! ¡Aún te queda un largo camino por delante! ¡Vuelve después de aumentar tu nivel de clase!"
     },
     "tlO5Ag": {
         "en-US": "[Father Mareusis]\nHmm... your job level is enough... Good. Now I will give you the qualification to become an Acolyte.",
         "pt-BR": "[Padre Necrus]\nHmm... Vejo que você possui experiência suficiente. Vou mudar sua classe.",
-        "es-ES": "[Padre Mareusis]\nMmm… tu nivel de clase es suficiente… Bien. Ahora te daré la calificación para convertirte en Acólito."
+        "es-ES": "[Padre Mareusis]\nMmm... tu nivel de clase es suficiente... Bien. Ahora te daré la calificación para convertirte en Acólito."
     },
     "t1O5Ag": {
         "en-US": "[Father Mareusis]\nAlways remember to be thankful to God, who takes care of us all the time. In chaos and times of difficulty, face your hardships with unwavering faith.",
@@ -127,7 +127,7 @@
     "uVO5Ag": {
         "en-US": "[Father Mareusis]\nOriginally, only those who have trained hard can use\nthe ^4D4DFFHoly Light^000000..",
         "pt-BR": "[Padre Necrus]\nOriginalmente, somente aqueles que treinaram muito podem aprender\na ^4D4DFFLuz Divina^000000.",
-        "es-ES": "[Padre Mareusis]\nOriginalmente, solo quienes han entrenado mucho pueden utilizar\nla ^4D4DFFLuz Sagrada^000000…"
+        "es-ES": "[Padre Mareusis]\nOriginalmente, solo quienes han entrenado mucho pueden utilizar\nla ^4D4DFFLuz Sagrada^000000..."
     },
     "ulO5Ag": {
         "en-US": "[Father Mareusis]\nIt may seem a bit early, but it'll be okay.\nI believe in you.",
@@ -172,12 +172,12 @@
     "wlO5Ag": {
         "en-US": "[Father Rubalkabara]\nI've sent a carrier pigeon with a message. I hope it will arrive there safely...",
         "pt-BR": "[Irmão Simão]\nAgora se preocupe apenas em como voltar em segurança para a cidade.",
-        "es-ES": "[Padre Rubalkabara]\nEnvié una paloma mensajera con un mensaje. Espero que no le pase nada en el camino…"
+        "es-ES": "[Padre Rubalkabara]\nEnvié una paloma mensajera con un mensaje. Espero que no le pase nada en el camino..."
     },
     "w1O5Ag": {
         "en-US": "[Father Rubalkabara]\nOh...? You must be the one who aspires to become an Acolyte. I've already received news from the Sanctuary that you might be coming.\nNow, your name was {0}, right? Excellent, thank you for visiting me.",
         "pt-BR": "[Irmão Simão]\nOh... Você é a criança que deseja fazer parte dos Noviços, não é?\nVocê se chama {0}, certo? Bem, muito obrigado por ter vindo me visitar!",
-        "es-ES": "[Padre Rubalkabara]\n¿Eh…? Tú debes ser quien aspira a convertirse en Sacerdote. El Santuario ya avisó que quizá vendrías.\nBien, tu nombre era {0}, ¿verdad? Excelente, gracias por visitarme."
+        "es-ES": "[Padre Rubalkabara]\n¿Eh...? Tú debes ser quien aspira a convertirse en Sacerdote. El Santuario ya avisó que quizá vendrías.\nBien, tu nombre era {0}, ¿verdad? Excelente, gracias por visitarme."
     },
     "xFO5Ag": {
         "en-US": "[Father Rubalkabara]\nI believe you've been told much about Acolytes from Friar Mareusis. Plus, there's plenty of helpful people in the Prontera Sanctuary.",
@@ -197,7 +197,7 @@
     "x1O5Ag": {
         "en-US": "[Father Rubalkabara]\nOh... Are you one of the Acolyte applicants...?\nYour name is {0}..... I don't think your name is on my list. Hmmm...",
         "pt-BR": "[Irmão Simão]\nOh... Você é a criança que deseja fazer parte dos Noviços, não é?\nVocê se chama {0}, certo? Hmm.. Sinto lhe informar que seu nome não se encontra em minha lista.",
-        "es-ES": "[Padre Rubalkabara]\nOh… ¿Eres uno de los solicitantes a Sacerdote…?\nTu nombre es {0}… Creo que tu nombre no está en mi lista. Mmmm…"
+        "es-ES": "[Padre Rubalkabara]\nOh... ¿Eres uno de los solicitantes a Sacerdote...?\nTu nombre es {0}... Creo que tu nombre no está en mi lista. Mmmm..."
     },
     "yFO5Ag": {
         "en-US": "[Father Rubalkabara]\nWhy don't you go back to the Prontera Sanctuary and check again?",
@@ -242,7 +242,7 @@
     "0FO5Ag": {
         "en-US": "[Father Rubalkabara]\nOh ho... Have you come into the Deep here for training? Or are you just a Wanderer?\nWhoever you are, please take care of yourself. The monsters in here are shockingly strong, contrary to their cute appearance.",
         "pt-BR": "[Irmão Simão]\nComo um servo do Senhor vim me juntar a estas criaturas, que como nós, foram criadas por Deus.\nDesse modo pretendo compreender mais profundamente esta nossa dádiva, a Humanidade.",
-        "es-ES": "[Padre Rubalkabara]\nJo, jo… ¿Viniste al Abismo para entrenar? ¿O solo eres un Nómada?\nSeas quien seas, por favor, cuídate. Los monstruos de aquí son sorprendentemente fuertes, aunque no parezca por su tierna apariencia."
+        "es-ES": "[Padre Rubalkabara]\nJo, jo... ¿Viniste al Abismo para entrenar? ¿O solo eres un Nómada?\nSeas quien seas, por favor, cuídate. Los monstruos de aquí son sorprendentemente fuertes, aunque no parezca por su tierna apariencia."
     },
     "0VO5Ag": {
         "en-US": "[Sister Matilda]\nI will send a carrier pigeon to the Prontera Sanctuary. When you return, the Priest there should already have received my message.\nI will pray to God, and hope that you become an Acolyte soon.",
@@ -257,12 +257,12 @@
     "01O5Ag": {
         "en-US": "[Sister Matilda]\nWhat is your name? Hmm... {0}... Ah, you're on my list!\nI will send a message to the Sanctuary confirming that you, {0} visited me and completed your penance.\nPlease return to the Prontera Sanctuary and speak to the Priest in charge.",
         "pt-BR": "[Irmã Matilda]\nQual é o seu nome? Humm... {0}... Ah, você está na minha lista!\nEnviarei uma mensagem à Catedral confirmando que você, {0}, me visitou e completou sua penitência.\nPor favor, retorne à Catedral de Prontera e fale com o Sacerdote responsável.",
-        "es-ES": "[Hermana Matilda]\n¿Cómo te llamas? Mmm… {0}… ¡Ah, estás en mi lista!\nEnviaré un mensaje al Santuario para confirmar que tú, {0}, me visitaste y cumpliste tu penitencia.\nPor favor, vuelve al Santuario de la Prontera y habla con el Sacerdote encargado."
+        "es-ES": "[Hermana Matilda]\n¿Cómo te llamas? Mmm... {0}... ¡Ah, estás en mi lista!\nEnviaré un mensaje al Santuario para confirmar que tú, {0}, me visitaste y cumpliste tu penitencia.\nPor favor, vuelve al Santuario de la Prontera y habla con el Sacerdote encargado."
     },
     "1FO5Ag": {
         "en-US": "[Sister Matilda]\nAh...! You must be one of the Acolyte applicants.\nNow, what is your name? Hmm... {0}...\nIt seems your name is not on my list...",
         "pt-BR": "[Irmã Matilda]\nAh...! Você deve ser um dos candidatos a Noviço.\nAgora, qual é o seu nome? Humm... {0}...\nParece que seu nome não está na minha lista...",
-        "es-ES": "[Hermana Matilda]\n¡Ah…! Debes ser uno de los solicitantes a Sacerdote.\n¿Y cómo te llamas? Mmm… {0}…\nParece que tu nombre no está en mi lista…"
+        "es-ES": "[Hermana Matilda]\n¡Ah...! Debes ser uno de los solicitantes a Sacerdote.\n¿Y cómo te llamas? Mmm... {0}...\nParece que tu nombre no está en mi lista..."
     },
     "1VO5Ag": {
         "en-US": "[Sister Matilda]\nPerhaps you should return to the Prontera Sanctuary and check the destination for your penance trial once again.",
@@ -277,17 +277,17 @@
     "11O5Ag": {
         "en-US": "[Sister Matilda]\nHmm... It seems you're training to become a Priest.\nHowever, at this point in your pilgrimage, I am not the person that you should be visiting.",
         "pt-BR": "[Irmã Matilda]\nVocê está em peregrinação.\nMas antes de vir aqui, você devia ter visitado outra pessoa.",
-        "es-ES": "[Hermana Matilda]\nMmm… Parece que te estás entrenando para convertirte en Sacerdote.\nSin embargo, en este momento de tu peregrinación, yo no soy la persona a la que deberías visitar."
+        "es-ES": "[Hermana Matilda]\nMmm... Parece que te estás entrenando para convertirte en Sacerdote.\nSin embargo, en este momento de tu peregrinación, yo no soy la persona a la que deberías visitar."
     },
     "2FO5Ag": {
         "en-US": "[Sister Matilda]\nPerhaps you should ask Bishop Paul or Sister Cecilia once again.\nWell, may God be with you...",
         "pt-BR": "[Irmã Matilda]\nVocê deveria consultar o Bispo Tomas ou a Irmã Cecília.\nQue Deus esteja em seu coração.",
-        "es-ES": "[Hermana Matilda]\nTal vez, debería preguntar de nuevo al obispo Paul o a la monja Cecilia.\nBueno, que los dioses te acompañen…"
+        "es-ES": "[Hermana Matilda]\nTal vez, debería preguntar de nuevo al obispo Paul o a la monja Cecilia.\nBueno, que los dioses te acompañen..."
     },
     "2VO5Ag": {
         "en-US": "[Sister Matilda]\nAh, are you a Priest trainee...? Welcome!\nWe Priests are obliged to spread the message of God to the peoples of the Earth.",
         "pt-BR": "[Irmã Matilda]\nVocê veio aqui por causa da peregrinação. Parabens por chegar até aqui.\nUma de suas funções será a de espalhar a palavra de Deus.",
-        "es-ES": "[Hermana Matilda]\nAh, ¿eres aprendiz de Sacerdote…? ¡Te doy la bienvenida!\nLos Sacerdotes estamos obligados a difundir el mensaje de Dios a las personas de la Tierra."
+        "es-ES": "[Hermana Matilda]\nAh, ¿eres aprendiz de Sacerdote...? ¡Te doy la bienvenida!\nLos Sacerdotes estamos obligados a difundir el mensaje de Dios a las personas de la Tierra."
     },
     "2lO5Ag": {
         "en-US": "[Sister Matilda]\nAfter you become a Priest, your travels may take you to the Morroc Pyramids.\nI hope that you may release the Undead there from the evil to which they are bound.",
@@ -297,7 +297,7 @@
     "21O5Ag": {
         "en-US": "[Sister Matilda]\nWell then... I shall pray to God for safety on your journey.",
         "pt-BR": "[Irmã Matilda]\nBoa sorte na resto de sua peregrinação.",
-        "es-ES": "[Hermana Matilda]\nEntonces… Rezaré a los dioses por que tengas un viaje seguro."
+        "es-ES": "[Hermana Matilda]\nEntonces... Rezaré a los dioses por que tengas un viaje seguro."
     },
     "3FO5Ag": {
         "en-US": "[Sister Matilda]\nPlease leave soon, and continue your training.",
@@ -312,7 +312,7 @@
     "3lO5Ag": {
         "en-US": "[Sister Matilda]\nMay God be with you...",
         "pt-BR": "[Irmã Matilda]\nQue Deus esteja com você...",
-        "es-ES": "[Hermana Matilda]\nQue los dioses te acompañen…"
+        "es-ES": "[Hermana Matilda]\nQue los dioses te acompañen..."
     },
     "31O5Ag": {
         "en-US": "[Father Yosuke]\nWhat?\nHave you any more business with me?! You don't! Go back to the Sanctuary now!",
@@ -357,7 +357,7 @@
     "51O5Ag": {
         "en-US": "[Father Yosuke]\nHmm...\nA Priest trainee, eh?",
         "pt-BR": "[Irmão Bartolomeu]\nHumm...\nUm Sacerdote estagiário, hein?",
-        "es-ES": "[Padre Yosuke]\nMmm…\nUn aprendiz de Sacerdote, ¿eh?"
+        "es-ES": "[Padre Yosuke]\nMmm...\nUn aprendiz de Sacerdote, ¿eh?"
     },
     "6FO5Ag": {
         "en-US": "[Father Yosuke]\nWell, you got the wrong person.\nIf you're supposed to meet up with me at all, it'd be later.",
@@ -392,7 +392,7 @@
     "7lO5Ag": {
         "en-US": "[Father Yosuke]\n...Acolyte, you don't have any business with me here.",
         "pt-BR": "[Irmão Bartolomeu]\n...Noviço, você não tem nada a ver comigo aqui.",
-        "es-ES": "[Padre Yosuke]\n… Acólito, no tenemos ningún asunto pendiente."
+        "es-ES": "[Padre Yosuke]\n... Acólito, no tenemos ningún asunto pendiente."
     },
     "71O5Ag": {
         "en-US": "[Father Yosuke]\nDo you have anything to say? Because unfortunately for you,\nI don't any replies.",

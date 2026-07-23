@@ -162,12 +162,12 @@
     "4Jpe": {
         "en-US": "......",
         "pt-BR": "......",
-        "es-ES": "……"
+        "es-ES": "......"
     },
     "4Zpe": {
         "en-US": "[Fili]\nHmm...I can't just ignore them though...",
         "pt-BR": "[Fili]\nHmm... Mas não posso simplesmente ignorá-los...",
-        "es-ES": "[Fili]\nMmm… no puedo simplemente ignorarlos…"
+        "es-ES": "[Fili]\nMmm... no puedo simplemente ignorarlos..."
     },
     "4ppe": {
         "en-US": "The adventurer on the third floor is starving!",
@@ -177,12 +177,12 @@
     "45pe": {
         "en-US": "[Fili]\nSeriously...I can't believe it's an adventurer. Would you mind giving it some food if you have any?",
         "pt-BR": "[Fili]\nSério... não acredito que seja um aventureiro. Você se importaria de dar a ele um pouco de comida, se tiver alguma?",
-        "es-ES": "[Fili]\nEn serio… no puedo creer que sea un trotamundos. ¿Te importaría darle algo de comida si tienes?"
+        "es-ES": "[Fili]\nEn serio... no puedo creer que sea un trotamundos. ¿Te importaría darle algo de comida si tienes?"
     },
     "5Jpe": {
         "en-US": "[Fili]\nLet's see...this is all I've got. It's not much, but hopefully it'll help him.",
         "pt-BR": "[Fili]\nVamos ver... isso é tudo o que eu tenho. Não é muito, mas espero que o ajude.",
-        "es-ES": "[Fili]\nDéjame ver… Esto es todo lo que tengo. No es mucho, pero espero que sirva de ayuda."
+        "es-ES": "[Fili]\nDéjame ver... Esto es todo lo que tengo. No es mucho, pero espero que sirva de ayuda."
     },
     "5Zpe": {
         "en-US": "[Fili]\nI should start checking their safety regularly. Stop by again later, please.",
@@ -207,7 +207,7 @@
     "6Zpe": {
         "en-US": "[Fili]\n^FF0000three adventurers^000000went into the tower recently. I'm not sure if they're still alive...",
         "pt-BR": "[Fili]\n^FF0000Três aventureiros^000000 entraram na torre recentemente. Não tenho certeza se ainda estão vivos...",
-        "es-ES": "[Fili]\n^FF0000Tres trotamundos^000000 entraron en la torre recientemente. No sé si siguen vivos…"
+        "es-ES": "[Fili]\n^FF0000Tres trotamundos^000000 entraron en la torre recientemente. No sé si siguen vivos..."
     },
     "6ppe": {
         "en-US": "[Fili]\nI should have tried harder to stop them...Could you go check if they're safe and sound?",
@@ -392,7 +392,7 @@
     "Dpte": {
         "en-US": "[Singing Laphine]\nI think it's time to start singing...",
         "pt-BR": "[Laphine Cantando]\nAcho que é hora de começar a cantar...",
-        "es-ES": "[Laphine cantante]\nCreo que es hora de empezar a cantar…"
+        "es-ES": "[Laphine cantante]\nCreo que es hora de empezar a cantar..."
     },
     "D5te": {
         "en-US": "[Singing Laphine]\nDid the great Fili send you? Man, he's got skills for sure! I shall start singing then!?",
@@ -462,12 +462,12 @@
     "HJte": {
         "en-US": "[Dancing Laphine]\nIt's important to warm up like this before you start dancing. One, two, three, four....",
         "pt-BR": "[Laphine Dançando]\nÉ importante fazer um aquecimento assim antes de começar a dançar. Cinco, seis, sete, oito...",
-        "es-ES": "[Laphine bailarina]\nEs importante entrar en calor así antes de empezar a bailar. Uno, dos, tres, cuatro…"
+        "es-ES": "[Laphine bailarina]\nEs importante entrar en calor así antes de empezar a bailar. Uno, dos, tres, cuatro..."
     },
     "HZte": {
         "en-US": "[Dancing Laphine]\nI would love to see the great Fili next time...",
         "pt-BR": "[Laphine Dançando]\nEu adoraria ver o grande Fili na próxima vez...",
-        "es-ES": "[Laphine bailarina]\nMe encantaría ver al gran Fili la próxima vez…"
+        "es-ES": "[Laphine bailarina]\nMe encantaría ver al gran Fili la próxima vez..."
     },
     "Hpte": {
         "en-US": "[Dancing Laphine]\nAh, it's you again! You're so insensitive. Anyway, you're here to tell me to start working, right? I see, I see. You can go now.",
@@ -497,7 +497,7 @@
     "I5te": {
         "en-US": "[Dancing Laphine]\nOh well, I'll just do the moves I was doing earlier today. You know, Fili should be the first one to see my new moves, so...",
         "pt-BR": "[Laphine Dançando]\nBem, vou fazer os movimentos que estava fazendo hoje cedo. Sabe, o Fili deve ser o primeiro a ver meus novos movimentos, então...",
-        "es-ES": "[Laphine bailarina]\nOh, bueno, haré los movimientos que estaba haciendo hoy temprano. Fili debería ser el primero en ver mis nuevos movimientos, así que…"
+        "es-ES": "[Laphine bailarina]\nOh, bueno, haré los movimientos que estaba haciendo hoy temprano. Fili debería ser el primero en ver mis nuevos movimientos, así que..."
     },
     "JJte": {
         "en-US": "So, how does dancing help the earth exactly...?",
@@ -667,7 +667,7 @@
     "RZte": {
         "en-US": "[Rosi]\nI see...I didn't know they're worried about me. But I can't go back now. I'm a journalist.",
         "pt-BR": "[Rosi]\nEntendo... não sabia que eles estavam preocupados comigo. Mas não posso voltar agora. Sou jornalista.",
-        "es-ES": "[Rosi]\nYa veo… no sabía que estaban preocupados por mí. Pero ya no puedo volver atrás. Soy periodista."
+        "es-ES": "[Rosi]\nYa veo... no sabía que estaban preocupados por mí. Pero ya no puedo volver atrás. Soy periodista."
     },
     "Rpte": {
         "en-US": "[Rosi]\nI write news articles for adventurers for a magazaine called Monthly Brigan.",
@@ -837,27 +837,27 @@
     "Z5te": {
         "en-US": "[Newoz]\nI guess I'll have no problem finding my way out of this tower now. I'm full...and I just need to get a few more souvenirs...",
         "pt-BR": "[Novo Oz]\nAcho que agora não terei problemas para encontrar a saída desta torre. Estou cheio... e só preciso comprar mais alguns souvenirs...",
-        "es-ES": "[Newoz]\nSupongo que ahora no tendré problemas para salir de esta torre. Estoy lleno y solo necesito obtener algunos recuerdos más…"
+        "es-ES": "[Newoz]\nSupongo que ahora no tendré problemas para salir de esta torre. Estoy lleno y solo necesito obtener algunos recuerdos más..."
     },
     "aJte": {
         "en-US": "[Newoz]\nI'll be fine if only I could get rid of those in my way, haha...We're almost out, right?",
         "pt-BR": "[Novo Oz]\nFicarei bem se conseguir me livrar dos que estão em meu caminho, haha... Estamos quase no fim, certo?",
-        "es-ES": "[Newoz]\nEstaré bien si puedo deshacerme de los que están en mi camino, ja, ja… Ya casi estamos afuera, ¿verdad?"
+        "es-ES": "[Newoz]\nEstaré bien si puedo deshacerme de los que están en mi camino, ja, ja... Ya casi estamos afuera, ¿verdad?"
     },
     "aZte": {
         "en-US": "[Newoz]\nI'm starving to death though... Could you please help me, my friend?",
         "pt-BR": "[Novo Oz]\nMas estou morrendo de fome... Você poderia me ajudar, por favor, meu amigo?",
-        "es-ES": "[Newoz]\nAunque me muero de hambre… ¿Podrías ayudarme, colega?"
+        "es-ES": "[Newoz]\nAunque me muero de hambre... ¿Podrías ayudarme, colega?"
     },
     "apte": {
         "en-US": "[Newoz]\nI really liked the meat you brought. Except that it wasn't really well seasoned and the texture was a little crumbly...but...it was still eatable, haha...",
         "pt-BR": "[Novo Oz]\nGostei muito da carne que você trouxe. Só que não estava muito bem temperada e a textura era um pouco quebradiça... mas... ainda era comestível, haha...",
-        "es-ES": "[Newoz]\nMe gustó mucho la carne que trajiste. Excepto que no estaba muy bien condimentada y la textura se deshacía un poco… pero, aun así, se podía comer, ja, ja…"
+        "es-ES": "[Newoz]\nMe gustó mucho la carne que trajiste. Excepto que no estaba muy bien condimentada y la textura se deshacía un poco... pero, aun así, se podía comer, ja, ja..."
     },
     "a5te": {
         "en-US": "[Newoz]\nAh, how long has it been since the last time I saw food! Yummm! Thank goodness it's meat! I think it's a little tough...and not warm enough...but still, it's meat!!",
         "pt-BR": "[Novo Oz]\nAh, quanto tempo se passou desde a última vez que vi comida! Nhammm! Graças a Deus é carne! Acho que está um pouco dura... e não está quente o suficiente... mas ainda assim é carne!!!",
-        "es-ES": "[Newoz]\n¡Ah, cuánto tiempo habrá pasado desde la última vez que vi comida! ¡Delicioso! ¡Menos mal que es carne! Creo que está un poco dura… y no está lo suficientemente caliente, ¡pero es carne!"
+        "es-ES": "[Newoz]\n¡Ah, cuánto tiempo habrá pasado desde la última vez que vi comida! ¡Delicioso! ¡Menos mal que es carne! Creo que está un poco dura... y no está lo suficientemente caliente, ¡pero es carne!"
     },
     "bJte": {
         "en-US": "[Newoz]\nThank you so much!! Yum yum. You're such a good friend! Munch munch.",
@@ -872,12 +872,12 @@
     "bpte": {
         "en-US": "[Newoz]\nFood...I need food...It seems as if the sky is falling...",
         "pt-BR": "[Novo Oz]\nComida... Eu preciso de comida... Parece que o céu está caindo...",
-        "es-ES": "[Newoz]\nComida… Necesito comida… Pareciera que el cielo se está cayendo…"
+        "es-ES": "[Newoz]\nComida... Necesito comida... Pareciera que el cielo se está cayendo..."
     },
     "b5te": {
         "en-US": "[Newoz]\nCough! Cough! Meat...Cough! Meat...meat...",
         "pt-BR": "[Novo Oz]\nCof! Cof! Carne... Cof! Carne... carne...",
-        "es-ES": "[Newoz]\n¡Cof! ¡Cof! Carne… ¡Cof! Carne… Carne…"
+        "es-ES": "[Newoz]\n¡Cof! ¡Cof! Carne... ¡Cof! Carne... Carne..."
     },
     "cJte": {
         "en-US": "Seeing his eyes and hearing him coughing constantly, I can tell he needs something to eat, like meat.",
@@ -887,12 +887,12 @@
     "cZte": {
         "en-US": "[Newoz]\nAs you can see...I couldn't find a way out of this tower again. And I'm so hungry that I feel like I might pass out...",
         "pt-BR": "[Novo Oz]\nComo você pode ver... não consegui encontrar uma saída para esta torre novamente. E estou com tanta fome que sinto que vou desmaiar...",
-        "es-ES": "[Newoz]\nComo puedes ver, no logré encontrar la salida de esta torre otra vez. Y tengo tanta hambre que siento que me desmayaré…"
+        "es-ES": "[Newoz]\nComo puedes ver, no logré encontrar la salida de esta torre otra vez. Y tengo tanta hambre que siento que me desmayaré..."
     },
     "cpte": {
         "en-US": "[Newoz]\nAh...I'm so glad that I met a good friend like you.",
         "pt-BR": "[Novo Oz]\nAh... estou muito feliz por ter encontrado um bom amigo como você.",
-        "es-ES": "[Newoz]\nAh… estoy tan feliz de haber conocido un buen amigo como tú."
+        "es-ES": "[Newoz]\nAh... estoy tan feliz de haber conocido un buen amigo como tú."
     },
     "c5te": {
         "en-US": "[Newoz]\nI thought I was so close to getting out of this tower. But when I looked around, I was at the same place again.",
@@ -912,7 +912,7 @@
     "dpte": {
         "en-US": "[Newoz]\n...I wouldn't really deny that. But anyway, could you get me something to eat? I'm starving...",
         "pt-BR": "[Novo Oz]\n...Eu realmente não negaria isso. Mas, de qualquer forma, você poderia me trazer algo para comer? Estou morrendo de fome...",
-        "es-ES": "[Newoz]\n…No podría realmente negarlo. En cualquier caso, ¿podrías traerme algo de comer? Me muero de hambre…"
+        "es-ES": "[Newoz]\n...No podría realmente negarlo. En cualquier caso, ¿podrías traerme algo de comer? Me muero de hambre..."
     },
     "d5te": {
         "en-US": "Alright! I'll be back in a second!",
@@ -927,7 +927,7 @@
     "eZte": {
         "en-US": "[Newoz]\nThanks. I prefer meat, if possible...I really liked what you gave me last time, and I think acorns go well with meat. Hahaha.",
         "pt-BR": "[Novo Oz]\nObrigado. Prefiro carne, se possível... Gostei muito do que você me deu da última vez, e acho que bolotas combinam bem com carne. Hahaha.",
-        "es-ES": "[Newoz]\nGracias. Prefiero la carne si es posible… Me gustó mucho lo que me diste la última vez y creo que las bellotas van bien con la carne. Ja, ja, ja."
+        "es-ES": "[Newoz]\nGracias. Prefiero la carne si es posible... Me gustó mucho lo que me diste la última vez y creo que las bellotas van bien con la carne. Ja, ja, ja."
     },
     "epte": {
         "en-US": "Why don't you just eat whatever I get you!",
@@ -942,7 +942,7 @@
     "fJte": {
         "en-US": "[Newoz]\nOkay...I see. I'll try to find another way then. If you meet that muscular Laphine on your way out, tell him I won't be able to see him again...",
         "pt-BR": "[Novo Oz]\nOk... entendo. Vou tentar encontrar outro caminho então. Se você encontrar aquele Laphine musculoso na saída, diga a ele que não poderei vê-lo novamente...",
-        "es-ES": "[Newoz]\nBien… Ya veo. Intentaré encontrar otra manera, entonces. Si al salir te encuentras con ese laphine musculoso, dile que no podré volver a verlo…"
+        "es-ES": "[Newoz]\nBien... Ya veo. Intentaré encontrar otra manera, entonces. Si al salir te encuentras con ese laphine musculoso, dile que no podré volver a verlo..."
     },
     "fZte": {
         "en-US": "[Newoz]\nAhaha, no need to worry about me! I can do this by myself!",
@@ -967,12 +967,12 @@
     "gZte": {
         "en-US": "[Newoz]\nThese guys are not really visible and they're so annoying. Ah...I asked you to clean up, but it's not because I'm lazy or anything. Hahaha...",
         "pt-BR": "[Novo Oz]\nEsses caras não são realmente visíveis e são muito irritantes. Ah... eu pedi para você limpar, mas não é porque sou preguiçoso ou algo assim. Hahahaha...",
-        "es-ES": "[Newoz]\nEstos tipos no son muy visibles y son muy molestos. Ah… te pedí que limpiaras, pero no es por vagancia ni nada de eso. Ja, ja, ja…"
+        "es-ES": "[Newoz]\nEstos tipos no son muy visibles y son muy molestos. Ah... te pedí que limpiaras, pero no es por vagancia ni nada de eso. Ja, ja, ja..."
     },
     "gpte": {
         "en-US": "[Newoz]\nEek! I was going to get out on my own while you were gone. But then I found something interesting...so I guess I was wandering around a little...",
         "pt-BR": "[Novo Oz]\nAhh! Eu ia sair por conta própria enquanto você estava fora. Mas depois encontrei algo interessante... então acho que fiquei vagando um pouco...",
-        "es-ES": "[Newoz]\n¡Ay! Iba a salir por mi cuenta mientras no estabas. Pero luego encontré algo interesante… así que supongo que estuve deambulando un poco…"
+        "es-ES": "[Newoz]\n¡Ay! Iba a salir por mi cuenta mientras no estabas. Pero luego encontré algo interesante... así que supongo que estuve deambulando un poco..."
     },
     "g5te": {
         "en-US": "[Newoz]\nAnd then these guys piled up again!",
@@ -982,7 +982,7 @@
     "hJte": {
         "en-US": "[Newoz]\nOf course I can do it on my own~ But if I do it alone, then I'll end up using too much of my energy, and then I'll get hungry again...",
         "pt-BR": "[Novo Oz]\nÉ claro que posso fazer isso sozinho~ Mas, se eu fizer isso sozinho, vou acabar gastando muita energia e vou ficar com fome de novo...",
-        "es-ES": "[Newoz]\nClaro que puedo hacerlo sin ayuda. Pero, si lo hago sin ayuda, terminaré gastando demasiada energía y volveré a tener hambre…"
+        "es-ES": "[Newoz]\nClaro que puedo hacerlo sin ayuda. Pero, si lo hago sin ayuda, terminaré gastando demasiada energía y volveré a tener hambre..."
     },
     "hZte": {
         "en-US": "So you want me to help you brushing off the dust?",
@@ -1037,7 +1037,7 @@
     "j5te": {
         "en-US": "[Newoz]\nOh, come to think of it, I lost the bookmarks you collected for me...I mean the ones made of fallen leaves...I should collect them again...",
         "pt-BR": "[Novo Oz]\nAh, pensando bem, eu perdi os marcadores de livros que você pegou para mim... quero dizer, aqueles feitos de folhas caídas... eu deveria pegar novamente...",
-        "es-ES": "[Newoz]\nAh, ahora que lo pienso, perdí los marcadores que recolectaste para mí… Me refiero a los de hojas caídas… Debería volver a recolectarlos…"
+        "es-ES": "[Newoz]\nAh, ahora que lo pienso, perdí los marcadores que recolectaste para mí... Me refiero a los de hojas caídas... Debería volver a recolectarlos..."
     },
     "kJte": {
         "en-US": "[Newoz]\nWould you mind helping me with that? What are friends for! Hahaha! Thanks!!",
@@ -1067,12 +1067,12 @@
     "lZte": {
         "en-US": "[Newoz]\nBookmarks made of fallen leaves...Ah, they bring so many memories back and make my eyes teary. I'm sure my friends will love it!",
         "pt-BR": "[Novo Oz]\nMarcadores de página feitos de folhas caídas... Ah, eles trazem tantas lembranças e fazem meus olhos lacrimejarem. Tenho certeza de que meus amigos vão adorar!",
-        "es-ES": "[Newoz]\nMarcadores hechos con hojas caídas… Ah, me traen tantos recuerdos que me dan ganas de llorar. ¡Seguro que a mis amigos les encantarán!"
+        "es-ES": "[Newoz]\nMarcadores hechos con hojas caídas... Ah, me traen tantos recuerdos que me dan ganas de llorar. ¡Seguro que a mis amigos les encantarán!"
     },
     "lpte": {
         "en-US": "[Newoz]\nI see...It's my fault. I'll probably end my life here, collecting souvenirs...but it's none of your business...",
         "pt-BR": "[Novo Oz]\nEntendo... A culpa é minha. Provavelmente terminarei minha vida aqui, colecionando lembranças... mas isso não é da sua conta...",
-        "es-ES": "[Newoz]\nYa veo… Es mi culpa. Es posible que mi vida se termine aquí recolectando recuerdos… pero no es asunto tuyo…"
+        "es-ES": "[Newoz]\nYa veo... Es mi culpa. Es posible que mi vida se termine aquí recolectando recuerdos... pero no es asunto tuyo..."
     },
     "l5te": {
         "en-US": "[Newoz]\nYou're done collecting the bookmarks!? Full of reminiscences as expected. Everyone would love it!",
@@ -1127,7 +1127,7 @@
     "oZte": {
         "en-US": "[Newoz]\nAhaha...really? You might be right...? Oh well, I'll make another one, don't worry...",
         "pt-BR": "[Novo Oz]\nAhahaha... sério? Talvez você tenha razão...? Bem, vou fazer outra, não se preocupe...",
-        "es-ES": "[Newoz]\nJa, ja… ¿de verdad? Quizá tengas razón… Oh, bueno, haré otra, no te preocupes…"
+        "es-ES": "[Newoz]\nJa, ja... ¿de verdad? Quizá tengas razón... Oh, bueno, haré otra, no te preocupes..."
     },
     "opte": {
         "en-US": "[Newoz]\nI should really get going now. I've been to most parts of the tower and I'm pretty full, too.",
@@ -1152,7 +1152,7 @@
     "ppte": {
         "en-US": "[Newoz]\nI've been thinking about it...and I think they would love ^FF0000bookmarks made of fallen leaves!^000000 It's full of reminiscences of the past! I'm sure!",
         "pt-BR": "[Novo Oz]\nEstive pensando nisso... e acho que eles adorariam ^FF0000marcadores feitos de folhas caídas!^000000 É cheio de reminiscências do passado! Tenho certeza!",
-        "es-ES": "[Newoz]\nEstuve pensando… ¡y creo que les encantarán ^FF0000los marcadores hechos con hojas caídas!^000000 ¡Están llenos de reminiscencias del pasado! ¡Estoy seguro!"
+        "es-ES": "[Newoz]\nEstuve pensando... ¡y creo que les encantarán ^FF0000los marcadores hechos con hojas caídas!^000000 ¡Están llenos de reminiscencias del pasado! ¡Estoy seguro!"
     },
     "p5te": {
         "en-US": "[Newoz]\nIf you look at the books scattered all over the tower, there are bookmarks inside. I think it'll be a great gift for my friends even though it has someone else's memories.",
@@ -1167,17 +1167,17 @@
     "qZte": {
         "en-US": "[Newoz]\nGood job! Now, let's enjoy the rest of...No! I mean, let's find a way out!",
         "pt-BR": "[Novo Oz]\nBom trabalho! Agora, vamos aproveitar o resto do... Não! Quero dizer, vamos encontrar uma saída!",
-        "es-ES": "[Newoz]\n¡Buen trabajo! Ahora disfrutemos del resto de… ¡No! Quiero decir, ¡encontremos una salida!"
+        "es-ES": "[Newoz]\n¡Buen trabajo! Ahora disfrutemos del resto de... ¡No! Quiero decir, ¡encontremos una salida!"
     },
     "qpte": {
         "en-US": "[Newoz]\n...but then, I feel like something's missing. I should bring some souvenirs since I'll probably never come here again, right?",
         "pt-BR": "[Novo Oz]\n...mas sinto que está faltando alguma coisa. Eu deveria trazer algumas lembranças, já que provavelmente nunca mais virei aqui, certo?",
-        "es-ES": "[Newoz]\n…Pero entonces, siento que falta algo. Debería traer algunos recuerdos, ya que posiblemente no vuelva a venir aquí nunca más, ¿no?"
+        "es-ES": "[Newoz]\n...Pero entonces, siento que falta algo. Debería traer algunos recuerdos, ya que posiblemente no vuelva a venir aquí nunca más, ¿no?"
     },
     "q5te": {
         "en-US": "[Newoz]\nActually...I feel like my friends would just get mad at me if I go back empty-handed.",
         "pt-BR": "[Novo Oz]\nNa verdade... sinto que meus amigos ficariam bravos comigo se eu voltasse de mãos vazias.",
-        "es-ES": "[Newoz]\nEn realidad… creo que mis amigos se enojarán conmigo si vuelvo con las manos vacías."
+        "es-ES": "[Newoz]\nEn realidad... creo que mis amigos se enojarán conmigo si vuelvo con las manos vacías."
     },
     "rJte": {
         "en-US": "[Newoz]\nI should bring some souvenirs to make them feel better. Is there anything I could use?",
@@ -1212,7 +1212,7 @@
     "spte": {
         "en-US": "[Newoz]\nHey...but it's not something we can get around here.",
         "pt-BR": "[Novo Oz]\nEi... mas isso não é algo que podemos obter por aqui.",
-        "es-ES": "[Newoz]\nOye… pero no es algo que podamos conseguir por aquí."
+        "es-ES": "[Newoz]\nOye... pero no es algo que podamos conseguir por aquí."
     },
     "s5te": {
         "en-US": "[Newoz]\nHmm? What's that for? I guess new items came out while I was travelling.",
@@ -1232,12 +1232,12 @@
     "tpte": {
         "en-US": "[Newoz]\nCard Album...I can't give my friends something that might be come up with nothing! Anything else?",
         "pt-BR": "[Novo Oz]\nÁlbum de Cartas... Não posso dar aos meus amigos algo que pode não dar em nada! Mais alguma coisa?",
-        "es-ES": "[Newoz]\nÁlbum de cartas… ¡no puedo darles a mis amigos algo que quizá no sirva para nada! ¿Otra cosa?"
+        "es-ES": "[Newoz]\nÁlbum de cartas... ¡no puedo darles a mis amigos algo que quizá no sirva para nada! ¿Otra cosa?"
     },
     "t5te": {
         "en-US": "[Newoz]\nLoots from local monsters...hmm, that sounds interesting!",
         "pt-BR": "[Novo Oz]\nSaques de monstros locais... hmm, isso parece interessante!",
-        "es-ES": "[Newoz]\nBotines de monstruos locales… Mmm, ¡eso suena interesante!"
+        "es-ES": "[Newoz]\nBotines de monstruos locales... Mmm, ¡eso suena interesante!"
     },
     "uJte": {
         "en-US": "[Newoz]\nI'm sure they haven't made it here yet. So it's something new for them, too! Right?",
@@ -1257,12 +1257,12 @@
     "u5te": {
         "en-US": "[Newoz]\nAre you done yet? Well, I'm still working on the lyrics, too...but you have to hurry up. It's time to get out of here.",
         "pt-BR": "[Novo Oz]\nJá terminou? Bem, ainda estou trabalhando na letra também... mas você tem que se apressar. Está na hora de sair daqui.",
-        "es-ES": "[Newoz]\n¿Ya terminaste? Bueno, todavía estoy trabajando en la letra… pero tienes que apurarte. Es hora de salir de aquí."
+        "es-ES": "[Newoz]\n¿Ya terminaste? Bueno, todavía estoy trabajando en la letra... pero tienes que apurarte. Es hora de salir de aquí."
     },
     "vJte": {
         "en-US": "[Newoz]\nOf course I'm lost because I have a poor sense of direction...but there's another reason to it, too!",
         "pt-BR": "[Novo Oz]\nÉ claro que estou perdido porque tenho um senso de direção ruim... mas há outro motivo para isso também!",
-        "es-ES": "[Newoz]\nClaro que me pierdo. Tengo un muy mal sentido de la orientación… ¡pero también hay otra razón!"
+        "es-ES": "[Newoz]\nClaro que me pierdo. Tengo un muy mal sentido de la orientación... ¡pero también hay otra razón!"
     },
     "vZte": {
         "en-US": "[Newoz]\nYou see those guys over there? I think they're stopping me from finding a way out for some reason.",
@@ -1277,7 +1277,7 @@
     "v5te": {
         "en-US": "[Newoz]\nNo, you have to see them carefully. Those dustballs over there are covering my eyes, and when I can't see clearly, I get sleepy and hungry...",
         "pt-BR": "[Novo Oz]\nNão, você precisa vê-los com cuidado. Aquelas bolas de poeira ali estão cobrindo meus olhos e, quando não consigo enxergar com clareza, fico com sono e fome...",
-        "es-ES": "[Newoz]\nNo, tienes que verlos con detenimiento. Esas pelusas me están tapando los ojos y, cuando no puedo ver con claridad, siento hambre y sueño…"
+        "es-ES": "[Newoz]\nNo, tienes que verlos con detenimiento. Esas pelusas me están tapando los ojos y, cuando no puedo ver con claridad, siento hambre y sueño..."
     },
     "wJte": {
         "en-US": "I think it's just your imagination!",
@@ -1287,7 +1287,7 @@
     "wZte": {
         "en-US": "[Newoz]\nNo, no. I'm sure they're stopping me. Get rid of them, please. Maybe just a couple of them? I have some lyrics coming into my mind just now...so I should write them down...",
         "pt-BR": "[Novo Oz]\nNão, não. Tenho certeza de que eles estão me impedindo. Livre-se deles, por favor. Talvez apenas alguns deles? Estou pensando em algumas letras de música agora mesmo... então devo escrevê-las...",
-        "es-ES": "[Newoz]\nNo, no. De seguro me están retrasando. Deshazte de ellos, por favor. ¿Quizá solo algunos de ellos? Me están viniendo a la cabeza letras de canciones… así que debería escribirlas…"
+        "es-ES": "[Newoz]\nNo, no. De seguro me están retrasando. Deshazte de ellos, por favor. ¿Quizá solo algunos de ellos? Me están viniendo a la cabeza letras de canciones... así que debería escribirlas..."
     },
     "wpte": {
         "en-US": "[Newoz]\nYey it's meat! I loooove meat!",
@@ -1317,7 +1317,7 @@
     "x5te": {
         "en-US": "[Newoz]\nI'm not...sure when that would be though...munch munch.",
         "pt-BR": "[Novo Oz]\nNão tenho... certeza de quando seria isso... Mastiga, mastiga.",
-        "es-ES": "[Newoz]\nAunque no estoy seguro de cuándo será eso… glu, glu."
+        "es-ES": "[Newoz]\nAunque no estoy seguro de cuándo será eso... glu, glu."
     },
     "yJte": {
         "en-US": "Is there a problem?",
@@ -1347,17 +1347,17 @@
     "zZte": {
         "en-US": "[Newoz]\nAh...I guess this is the fear of death...memories of the past are going through my mind like a flash...like happy moments we had at the south gate of Prontera...",
         "pt-BR": "[Novo Oz]\nAh... acho que é o medo da morte... lembranças do passado estão passando pela minha mente como um flash... como os momentos felizes que tivemos no portão sul de Prontera...",
-        "es-ES": "[Newoz]\nAh… supongo que es el miedo a la muerte… se vienen recuerdos del pasado a mi mente como rayos… como los momentos felices que pasamos en la puerta sur de Prontera…"
+        "es-ES": "[Newoz]\nAh... supongo que es el miedo a la muerte... se vienen recuerdos del pasado a mi mente como rayos... como los momentos felices que pasamos en la puerta sur de Prontera..."
     },
     "zpte": {
         "en-US": "[Newoz]\nI guess this is it for me...I had such a good life...",
         "pt-BR": "[Novo Oz]\nAcho que é o fim para mim... Eu tinha uma vida tão boa...",
-        "es-ES": "[Newoz]\nSupongo que esto es todo para mí… Tuve una buena vida…"
+        "es-ES": "[Newoz]\nSupongo que esto es todo para mí... Tuve una buena vida..."
     },
     "z5te": {
         "en-US": "[Newoz]\nIt's kind of sad that I'm actually starving to death...but I had a good time, my beloved guild members...",
         "pt-BR": "[Novo Oz]\nÉ meio triste que eu esteja morrendo de fome... mas eu me diverti muito, meus queridos membros da guilda...",
-        "es-ES": "[Newoz]\nEs un poco triste estar muriendo de hambre… pero la pasé muy bien, mis queridos miembros del gremio…"
+        "es-ES": "[Newoz]\nEs un poco triste estar muriendo de hambre... pero la pasé muy bien, mis queridos miembros del gremio..."
     },
     "0Jte": {
         "en-US": "I brought some meat from Fili!",
@@ -1367,12 +1367,12 @@
     "0Zte": {
         "en-US": "[Newoz]\nOh, I loooove meat! But...is there any vegetable?",
         "pt-BR": "[Novo Oz]\nAh, eu adoro carne! Mas... tem algum vegetal?",
-        "es-ES": "[Newoz]\n¡Me encantaaaaa la carne! Pero… ¿hay algunas verduras?"
+        "es-ES": "[Newoz]\n¡Me encantaaaaa la carne! Pero... ¿hay algunas verduras?"
     },
     "0pte": {
         "en-US": "[Newoz]\nLike...garnishes for meat, you know. I could get tired of eating just meat...Could you get me some?",
         "pt-BR": "[Novo Oz]\nComo... guarnições para carne, você sabe. Eu poderia me cansar de comer apenas carne... Você poderia me trazer alguns?",
-        "es-ES": "[Newoz]\nComo… guarniciones para la carne, ya sabes. Podría cansarme de comer solo carne… ¿Podrías traerme un poco?"
+        "es-ES": "[Newoz]\nComo... guarniciones para la carne, ya sabes. Podría cansarme de comer solo carne... ¿Podrías traerme un poco?"
     },
     "05te": {
         "en-US": "[Newoz]\nI mean something like acorns! I saw a pile of acorns just outside the tower.",
@@ -1382,7 +1382,7 @@
     "1Jte": {
         "en-US": "[Newoz]\nAre you a...human? Cough cough.",
         "pt-BR": "[Novo Oz]\nVocê é um... humano? Cof cof.",
-        "es-ES": "[Newoz]\n¿Eres un… humano? Cof, cof."
+        "es-ES": "[Newoz]\n¿Eres un... humano? Cof, cof."
     },
     "1Zte": {
         "en-US": "I'm here to see if you're doing okay.",
@@ -1392,37 +1392,37 @@
     "1pte": {
         "en-US": "[Newoz]\nI don't know if I should say I'm okay...or not...",
         "pt-BR": "[Novo Oz]\nNão sei se devo dizer que estou bem... ou não...",
-        "es-ES": "[Newoz]\nNo sé si debería decir si estoy bien… o no…"
+        "es-ES": "[Newoz]\nNo sé si debería decir si estoy bien... o no..."
     },
     "15te": {
         "en-US": "[Newoz]\nI haven't eaten anything for days...I feel like I'm going to pass out any minute.",
         "pt-BR": "[Novo Oz]\nNão como nada há dias... sinto que vou desmaiar a qualquer momento.",
-        "es-ES": "[Newoz]\nHace días que no como nada… Siento que me desmayaré en cualquier momento."
+        "es-ES": "[Newoz]\nHace días que no como nada... Siento que me desmayaré en cualquier momento."
     },
     "2Jte": {
         "en-US": "[Newoz]\nBut for now, I'm ^FF0000still^000000 alive...but no one knows until when...ah, I'm getting sleepy again...",
         "pt-BR": "[Novo Oz]\nMas, por enquanto, ^FF0000ainda^000000 estou vivo... mas ninguém sabe até quando... ah, estou ficando com sono de novo...",
-        "es-ES": "[Newoz]\nPero, por ahora, ^FF0000sigo^000000 con vida… pero nadie sabe hasta cuándo… ah, me estoy por dormir de nuevo…"
+        "es-ES": "[Newoz]\nPero, por ahora, ^FF0000sigo^000000 con vida... pero nadie sabe hasta cuándo... ah, me estoy por dormir de nuevo..."
     },
     "2Zte": {
         "en-US": "[Newoz]\nYou know that Laphine outside...yes, that muscular Laphine...tell him to bring me some food before I die.",
         "pt-BR": "[Novo Oz]\nVocê conhece aquele Laphine lá fora... sim, aquele Laphine musculoso... diga a ele para me trazer comida antes que eu morra.",
-        "es-ES": "[Newoz]\nEse laphine que está fuera… Sí, ese laphine musculoso… Dile que me traiga algo de comida antes de que me muera."
+        "es-ES": "[Newoz]\nEse laphine que está fuera... Sí, ese laphine musculoso... Dile que me traiga algo de comida antes de que me muera."
     },
     "2pte": {
         "en-US": "[Newoz]\nIt doesn't have to be delicious...just give me any food...I feel so weak that I can't even walk.",
         "pt-BR": "[Novo Oz]\nNão precisa ser delicioso... apenas me dê qualquer comida... eu me sinto tão fraco que não consigo nem andar.",
-        "es-ES": "[Newoz]\nNo tiene que ser algo rico… solo algo de comida… Me siento tan débil que no puedo ni caminar."
+        "es-ES": "[Newoz]\nNo tiene que ser algo rico... solo algo de comida... Me siento tan débil que no puedo ni caminar."
     },
     "25te": {
         "en-US": "[Newoz]\nAh, I felt so dizzy that my head was spinning before, and now I can't see anything at all! Is it night or day? I'm so hungry...",
         "pt-BR": "[Novo Oz]\nAh, eu me senti tão tonto que minha cabeça estava girando antes, e agora não consigo ver nada! É dia ou noite? Estou com tanta fome...",
-        "es-ES": "[Newoz]\nAh, estaba tan mareado que me daba vueltas la cabeza, ¡y ahora no puedo ver nada! ¿Es de noche o de día? Tengo tanta hambre…"
+        "es-ES": "[Newoz]\nAh, estaba tan mareado que me daba vueltas la cabeza, ¡y ahora no puedo ver nada! ¿Es de noche o de día? Tengo tanta hambre..."
     },
     "3Jte": {
         "en-US": "[Newoz]\nA glass of red potion for breakfast~another glass of red potion for lunch~you're already addicted~ Ah, I'm too hungry to sing...",
         "pt-BR": "[Novo Oz]\nUm copo de poção vermelha no café da manhã~ outro copo de poção vermelha no almoço~ você já está viciado~ Ah, estou com muita fome para cantar...",
-        "es-ES": "[Newoz]\nUn vaso de poción roja para el desayuno, otro vaso de poción roja para el almuerzo, ya eres adicto. Ah, estoy muy hambriento para cantar…"
+        "es-ES": "[Newoz]\nUn vaso de poción roja para el desayuno, otro vaso de poción roja para el almuerzo, ya eres adicto. Ah, estoy muy hambriento para cantar..."
     },
     "3Zte": {
         "en-US": "New Oz Image",
@@ -1552,7 +1552,7 @@
     "9pte": {
         "en-US": "[Newoz]\nThis is a hungry expression...",
         "pt-BR": "[Novo Oz]\nEssa é uma expressão de fome...",
-        "es-ES": "[Newoz]\nEsta es una expresión de hambre…"
+        "es-ES": "[Newoz]\nEsta es una expresión de hambre..."
     },
     "95te": {
         "en-US": "[Newoz]\nConfirm and report, okay?",

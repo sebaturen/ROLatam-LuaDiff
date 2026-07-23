@@ -290,7 +290,6 @@ SignBoardList_string = {
 		CONTENTS = "  Voos Domésticos"
 	},
 	[928] = {CONTENTS = "  Butique"},
-	[929] = {CONTENTS = "  Reset"},
 	[930] = {
 		CONTENTS = "  Evento de Arrancada"
 	},

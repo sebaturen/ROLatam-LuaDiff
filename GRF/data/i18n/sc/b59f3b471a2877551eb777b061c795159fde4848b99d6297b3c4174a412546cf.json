@@ -92,7 +92,7 @@
     "UnnfAg": {
         "en-US": "[Assistant]\nHeek!\nM-Master...\nN-nothing.",
         "pt-BR": "[Assistente]\nHã!?!\nMestre...\nNão é nada...",
-        "es-ES": "[Asistente]\n¡Ahh!\nM-maestra…\nN-nada."
+        "es-ES": "[Asistente]\n¡Ahh!\nM-maestra...\nN-nada."
     },
     "U3nfAg": {
         "en-US": "[Master]\nAre you sure? Because I don't think I've seen this human before.",
@@ -147,7 +147,7 @@
     "XXnfAg": {
         "en-US": "[Master]\nHm...\nAlso, at a closer look, I can tell\nyou're unable to use your true power because of your physical limits.",
         "pt-BR": "[Mestre]\nHm...\nAlém disso, olhando mais de perto, posso dizer\nque você é incapaz de usar seu verdadeiro poder por causa de seus limites físicos.",
-        "es-ES": "[Maestra]\nMmm…\nAdemás, viéndote mejor, puedo notar\nque eres incapaz de usar tu verdadero poder dadas tus limitaciones físicas."
+        "es-ES": "[Maestra]\nMmm...\nAdemás, viéndote mejor, puedo notar\nque eres incapaz de usar tu verdadero poder dadas tus limitaciones físicas."
     },
     "XnnfAg": {
         "en-US": "How do you know?",
@@ -187,7 +187,7 @@
     "ZXnfAg": {
         "en-US": "[Master Egnoloria]\nYou?\nHah hah hah!\nYou, a human, want to be a Warlock.\nHah hah hah!",
         "pt-BR": "[Mestre Egnoloria]\nVocê?\nVocê quer se tornar um Arcano?\nHahaha.",
-        "es-ES": "[Maestra Egnoloria]\n¡Tú…!\n¡Ja, ja, ja!\nTú, un humano, quieres ser Brujo.\n¡Ja, ja, ja!"
+        "es-ES": "[Maestra Egnoloria]\n¡Tú...!\n¡Ja, ja, ja!\nTú, un humano, quieres ser Brujo.\n¡Ja, ja, ja!"
     },
     "ZnnfAg": {
         "en-US": "[Master Egnoloria]\nYou're funny.\nI'm sorry, but humans can't be Warlocks.\nYou just don't have the body to withstand our powerful magic.",
@@ -272,12 +272,12 @@
     "dnnfAg": {
         "en-US": "[Yoop]\nWhat the...?\nFine, do whatever you want.\nMaster will eventually kick you out.",
         "pt-BR": "[Yoop]\nO quê??\nFaça o que você quiser...\nMeu mestre cuidará de você, então.",
-        "es-ES": "[Yoop]\n¿Pero qué…?\nBien, haz lo que quieras.\nLa Maestra acabará echándote."
+        "es-ES": "[Yoop]\n¿Pero qué...?\nBien, haz lo que quieras.\nLa Maestra acabará echándote."
     },
     "d3nfAg": {
         "en-US": "[Yoop]\nA tangerine stem? Master!\nIt took me a long time to create this style this morning!",
         "pt-BR": "[Yoop]\nPuxa, mestre! Meu cabelo se parece como um chinês?!\nAh, mas eu passei muito tempo arrumando ele!",
-        "es-ES": "[Yoop]\n¿Un tallo de mandarina? Maestra…\n¡Me llevó mucho tiempo crear este estilo esta mañana!"
+        "es-ES": "[Yoop]\n¿Un tallo de mandarina? Maestra...\n¡Me llevó mucho tiempo crear este estilo esta mañana!"
     },
     "eHnfAg": {
         "en-US": "[Master Egnoloria]\nShut it.\nI'm going back to my meditation. Take care of this human.",
@@ -287,7 +287,7 @@
     "eXnfAg": {
         "en-US": "[Yoop]\nBah...!",
         "pt-BR": "[Yoop]\nHum...\nOh, sim!",
-        "es-ES": "[Yoop]\n¡Bah…!"
+        "es-ES": "[Yoop]\n¡Bah...!"
     },
     "ennfAg": {
         "en-US": "[Yoop]\nHey, human.\nSo, you want to be a ^000077Warlock^000000, huh?\nI have no choice but to follow Master's decision,",
@@ -317,7 +317,7 @@
     "f3nfAg": {
         "en-US": "[Yoop]\nThey're weaker while intoxicated by the mana. You shouldn't have a hard time hunting them.\nIf you encounter others... well, you'd better run away.",
         "pt-BR": "[Yoop]\nMostre-nos quanto você é forte.",
-        "es-ES": "[Yoop]\nSon más débiles mientras están intoxicados de maná. No debería resultarte difícil cazarlos.\nSi te encuentras con otros… bueno, será mejor que huyas."
+        "es-ES": "[Yoop]\nSon más débiles mientras están intoxicados de maná. No debería resultarte difícil cazarlos.\nSi te encuentras con otros... bueno, será mejor que huyas."
     },
     "gHnfAg": {
         "en-US": "[Yoop]\nFor your information, those ^000077mana stones^000000 don't work unless you're equipped with them.\nAnd I'm only letting you borrow them for the moment. Make sure to bring them back.\nYou'd better not lose them, either!",
@@ -427,7 +427,7 @@
     "lXnfAg": {
         "en-US": "[Yoop]\n...\nWhere are they?\nCome on, stop wasting my time!",
         "pt-BR": "[Yoop]\n......\n......Onde?\nNão me perturbe!",
-        "es-ES": "[Yoop]\n…\n¿Dónde están?\n¡Vamos, deja de hacerme perder el tiempo!"
+        "es-ES": "[Yoop]\n...\n¿Dónde están?\n¡Vamos, deja de hacerme perder el tiempo!"
     },
     "lnnfAg": {
         "en-US": "[Yoop]\nIn case you forgot, bring 1 ^000077Glittering Crystal^000000 and 1 ^000077Giant Bradium Fragment^000000.\nYou can find them from the ^000077mana-intoxicated monsters^000000.",
@@ -447,7 +447,7 @@
     "mXnfAg": {
         "en-US": "[Yoop]\nYou don't have the mana stones with you.\n...You didn't lose them, did you?",
         "pt-BR": "[Yoop]\nParece que você não trouxe?\nVocê a perdeu?",
-        "es-ES": "[Yoop]\nNo tienes las piedras de maná contigo.\n… No las perdiste, ¿o sí?"
+        "es-ES": "[Yoop]\nNo tienes las piedras de maná contigo.\n... No las perdiste, ¿o sí?"
     },
     "mnnfAg": {
         "en-US": "[Yoop]\nGo look for them again.",
@@ -477,7 +477,7 @@
     "n3nfAg": {
         "en-US": "I don't have them...",
         "pt-BR": "não.",
-        "es-ES": "No las tengo…"
+        "es-ES": "No las tengo..."
     },
     "oHnfAg": {
         "en-US": "[Yoop]\nDon't ever scare me like this again!\nIt took me a long time to make them.\nThey're precious to me.",
@@ -507,12 +507,12 @@
     "pXnfAg": {
         "en-US": "[Yoop]\n...\nIs that all you have to say?\nI demand something clear and shiny for compensation!",
         "pt-BR": "[Yoop]\n....\nAcho que eu poderia lhe dar mais pedras se você me desse, por exemplo, um diamante de 3 quilates...",
-        "es-ES": "[Yoop]\n…\n¿Es todo lo que tienes que decir?\n¡Exijo algo claro y brillante como compensación!"
+        "es-ES": "[Yoop]\n...\n¿Es todo lo que tienes que decir?\n¡Exijo algo claro y brillante como compensación!"
     },
     "pnnfAg": {
         "en-US": "[Yoop]\n...\nIs that all you have to say?\nI demand ^000077something clear and shiny^000000 for compensation!",
         "pt-BR": "[Yoop]\n....\nComo você pode dizer isso?\n^000077Apenas se desculpe.^000000!\nAcho que eu poderia lhe dar mais pedras se você me desse, por exemplo, um diamante de 3 quilates...",
-        "es-ES": "[Yoop]\n…\n¿Es todo lo que tienes que decir?\n¡Exijo ^000077algo claro y brillante^000000 como compensación!"
+        "es-ES": "[Yoop]\n...\n¿Es todo lo que tienes que decir?\n¡Exijo ^000077algo claro y brillante^000000 como compensación!"
     },
     "p3nfAg": {
         "en-US": "[Yoop]\nCheck your Equipment window, will you?\nBecause I can tell you're equipped with them.",
@@ -527,7 +527,7 @@
     "qXnfAg": {
         "en-US": "[Yoop]\nSheesh, what are you doing?\nI'm busy. Go away!",
         "pt-BR": "[Yoop]\nQuê...?\nNão me perturbe, estou muito ocupado.",
-        "es-ES": "[Yoop]\nCielos… ¿qué estás haciendo?\nEstoy ocupada. ¡Vete!"
+        "es-ES": "[Yoop]\nCielos... ¿qué estás haciendo?\nEstoy ocupada. ¡Vete!"
     },
     "qnnfAg": {
         "en-US": "[Yoop]\nHow are you doing with your training?\nAs for me, I've been doing nothing but creating magic tools for Master.",
@@ -537,7 +537,7 @@
     "q3nfAg": {
         "en-US": "[Yoop]\nAnd it seems I'm more talented in that department than I am in magic.\nMaybe I should have become an Alchemist instead...",
         "pt-BR": "[Yoop]\nE... você parece ter mais talento nisso do que magos comuns.\nTalvez se eu me tornar um alquimista, eu possa ser melhor do que sou agora, não acha?",
-        "es-ES": "[Yoop]\nY parece que tengo más talento para eso que para la magia.\nQuizá debería haberme convertido en Alquimista…"
+        "es-ES": "[Yoop]\nY parece que tengo más talento para eso que para la magia.\nQuizá debería haberme convertido en Alquimista..."
     },
     "rHnfAg": {
         "en-US": "[Yoop]\n*Gasp!* But I'm not saying I want to!\nI'm studying hard to get recognition from Master!",
@@ -572,7 +572,7 @@
     "snnfAg": {
         "en-US": "[Master Egnoloria]\nYou?\nHah hah hah!\nYou, a human, want to be a Warlock.\nMwa hah hah hah!",
         "pt-BR": "[Yoop]\nÉ...!!",
-        "es-ES": "[Maestra Egnoloria]\n¡Tú…!\n¡Ja, ja, ja!\nTú, un humano, quieres ser Brujo.\n¡Ja, ja, ja, ja!"
+        "es-ES": "[Maestra Egnoloria]\n¡Tú...!\n¡Ja, ja, ja!\nTú, un humano, quieres ser Brujo.\n¡Ja, ja, ja, ja!"
     },
     "s3nfAg": {
         "en-US": "[Assistant]\nWhat brings a human here?",
@@ -642,7 +642,7 @@
     "wHnfAg": {
         "en-US": "[Assistant]\n...\nI don't know how you came in, but please leave.",
         "pt-BR": "[Assistente]\n......\nSe você não tem nada para me dizer, poderia ir embora?",
-        "es-ES": "[Asistente]\n…\nNo sé cómo hayas entrado, pero vete, por favor."
+        "es-ES": "[Asistente]\n...\nNo sé cómo hayas entrado, pero vete, por favor."
     },
     "wXnfAg": {
         "en-US": "[Assistant]\nNothing.",
@@ -662,7 +662,7 @@
     "xHnfAg": {
         "en-US": "[Assistant]\n...\nIf you have no more business, would you like to leave?",
         "pt-BR": "[Assistente]\n...\nSe não tiver mais nada para fazer aqui, gostaria de sair?",
-        "es-ES": "[Asistente]\n…\nSi no tienes nada más que hacer aquí, ¿podrías irte?"
+        "es-ES": "[Asistente]\n...\nSi no tienes nada más que hacer aquí, ¿podrías irte?"
     },
     "xXnfAg": {
         "en-US": "Stay.",
@@ -677,12 +677,12 @@
     "x3nfAg": {
         "en-US": "[Assistant]\n...",
         "pt-BR": "[Assistente]\nTenha cuidado.",
-        "es-ES": "[Asistente]\n…"
+        "es-ES": "[Asistente]\n..."
     },
     "yHnfAg": {
         "en-US": "[Assistant]\n...\nI don't think I look like a tangerine stem...",
         "pt-BR": "[Assistente]\n......\nEu não acho que eu pareça um chinês...",
-        "es-ES": "[Asistente]\n…\nNo creo verme como un tallo de mandarina…"
+        "es-ES": "[Asistente]\n...\nNo creo verme como un tallo de mandarina..."
     },
     "yXnfAg": {
         "en-US": "[Assistant]\nMaster is meditating. Please be quiet.",
@@ -707,7 +707,7 @@
     "zXnfAg": {
         "en-US": "[Master Egnoloria]\n...",
         "pt-BR": "[Mestre Egnoloria]\n......",
-        "es-ES": "[Maestra Egnoloria]\n…"
+        "es-ES": "[Maestra Egnoloria]\n..."
     },
     "znnfAg": {
         "en-US": "[Ivane]\nMaster Egnoloria is meditating.\nPlease be quiet.",
@@ -772,7 +772,7 @@
     "2nnfAg": {
         "en-US": "[Master Egnoloria]\nSuch a beautiful light...!\nYou don't disappoint me.",
         "pt-BR": "[Mestre Egnoloria]\nLuz linda...\nNão me deixe decepcionado com você...",
-        "es-ES": "[Maestra Egnoloria]\n¡Qué luz tan bonita…!\nNo me decepcionas."
+        "es-ES": "[Maestra Egnoloria]\n¡Qué luz tan bonita...!\nNo me decepcionas."
     },
     "23nfAg": {
         "en-US": "[Master Egnoloria]\nCongratulations, you're a Warlock now.\nNever forget your pride and faith as one.",
@@ -797,7 +797,7 @@
     "33nfAg": {
         "en-US": "[Master Egnoloria]\nHm...?\nYou're missing something, but I can't think of what...",
         "pt-BR": "[Mestre Egnoloria]\nhã...?\nEstá faltando isso em você...",
-        "es-ES": "[Maestra Egnoloria]\n¿Mmm?\nTe falta algo, pero no se me ocurre qué…"
+        "es-ES": "[Maestra Egnoloria]\n¿Mmm?\nTe falta algo, pero no se me ocurre qué..."
     },
     "4HnfAg": {
         "en-US": "[Master Egnoloria]\nSay, how do you like your new power as a ^000077Warlock^000000?\nDon't let your pride get the best of you or slack off on training. Your power will consume you.",
@@ -847,7 +847,7 @@
     "6XnfAg": {
         "en-US": "[Ivane]\n...\nNo problem. Let me send you outside.\nGoodbye.",
         "pt-BR": "[Ebein]\n......\nDepois mandarei você para fora.\nAdeus...",
-        "es-ES": "[Ivane]\n…\nNo hay problema. Te dejaré salir.\nAdiós."
+        "es-ES": "[Ivane]\n...\nNo hay problema. Te dejaré salir.\nAdiós."
     },
     "6nnfAg": {
         "en-US": "Room of Mana",
@@ -927,7 +927,7 @@
     "+XnfAg": {
         "en-US": "Room stabilization has failed. The mana fragments are scattering...",
         "pt-BR": "A estabilização falhou.",
-        "es-ES": "La estabilización de la Sala falló. Los fragmentos de maná se están dispersando…"
+        "es-ES": "La estabilización de la Sala falló. Los fragmentos de maná se están dispersando..."
     },
     "+nnfAg": {
         "en-US": "As the Room of Mana is being stabilized, the scattered mana fragments are converging toward the center of the room.",
@@ -1017,7 +1017,7 @@
     "C3rfAg": {
         "en-US": "You've failed to crystallize the stone of futility. It's scattering into fragments...",
         "pt-BR": "A pedra não foi cristalizada.",
-        "es-ES": "No has conseguido cristalizar la piedra de la futilidad. Sus fragmentos se dispersan…"
+        "es-ES": "No has conseguido cristalizar la piedra de la futilidad. Sus fragmentos se dispersan..."
     },
     "DHrfAg": {
         "en-US": "Congratulations, {0}. You've successfully crystallize your mana!",
@@ -1072,31 +1072,31 @@
     "FnrfAg": {
         "en-US": "Turning on the arena...",
         "pt-BR": "Ligar Arena.",
-        "es-ES": "Activando la arena…"
+        "es-ES": "Activando la arena..."
     },
     "F3rfAg": {
         "en-US": "Turning off the arena...",
         "pt-BR": "Desligar Arena.",
-        "es-ES": "Desactivando la arena…"
+        "es-ES": "Desactivando la arena..."
     },
     "GHrfAg": {
         "en-US": "Turning on the Room of Mana...",
         "pt-BR": "Ligar sala mágica",
-        "es-ES": "Activando la Sala del maná…"
+        "es-ES": "Activando la Sala del maná..."
     },
     "GXrfAg": {
         "en-US": "Turning off the Room of Mana...",
         "pt-BR": "Desligar sala mágica",
-        "es-ES": "Desactivando la Sala del maná…"
+        "es-ES": "Desactivando la Sala del maná..."
     },
     "GnrfAg": {
         "en-US": "Turning on the Stone of Futility...",
         "pt-BR": "Ligar pedra da futilidade.",
-        "es-ES": "Activando la Piedra de la futilidad…"
+        "es-ES": "Activando la Piedra de la futilidad..."
     },
     "G3rfAg": {
         "en-US": "Turning off the Stone of Futility...",
         "pt-BR": "Desligar pedra da futilidade.",
-        "es-ES": "Desactivando la piedra de la futilidad…"
+        "es-ES": "Desactivando la piedra de la futilidad..."
     }
 }

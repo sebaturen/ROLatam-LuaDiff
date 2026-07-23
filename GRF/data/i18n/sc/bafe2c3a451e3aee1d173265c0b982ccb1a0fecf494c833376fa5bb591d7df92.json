@@ -126,8 +126,8 @@
     },
     "WTEsDQ": {
         "en-US": "[Miriam]\n......",
-        "pt-BR": "[Miriam]\n…….",
-        "es-ES": "[Miriam]\n……."
+        "pt-BR": "[Miriam]\n.......",
+        "es-ES": "[Miriam]\n......."
     },
     "WjEsDQ": {
         "en-US": "[Maram]\nHey, Miriam! How are you here?\nYou said you were investigating separately!",
@@ -152,17 +152,17 @@
     "XjEsDQ": {
         "en-US": "[Mini Elly]\nThis document is a weapon sales record. Show it to me as well.\nThe weapons and firearms these people handled all have less than one year of usage remaining.",
         "pt-BR": "[Mini Elly]\nEste é um registro de venda de armas. Deixe-me ver também.\nTodas as armas e armamentos vendidos por eles têm menos de um ano restante de vida útil.",
-        "es-ES": "[Mini Elly]\nEste documento es un registro de venta de armas. Permítame verlo también.\nLas armas que han vendido… todas tienen menos de un año de vida útil restante."
+        "es-ES": "[Mini Elly]\nEste documento es un registro de venta de armas. Permítame verlo también.\nLas armas que han vendido... todas tienen menos de un año de vida útil restante."
     },
     "XzEsDQ": {
         "en-US": "[Miriam]\nTo sell such weapons carelessly.\nIf they are not properly maintained, they may not function correctly.",
-        "pt-BR": "[Miriam]\nVender esse tipo de arma sem cuidado…\nSe não forem bem mantidas, podem não funcionar corretamente.",
-        "es-ES": "[Miriam]\nVender armas así sin control…\nSi no están bien mantenidas, podrían no funcionar correctamente."
+        "pt-BR": "[Miriam]\nVender esse tipo de arma sem cuidado...\nSe não forem bem mantidas, podem não funcionar corretamente.",
+        "es-ES": "[Miriam]\nVender armas así sin control...\nSi no están bien mantenidas, podrían no funcionar correctamente."
     },
     "YDEsDQ": {
-        "en-US": "[Maram]\nThat is the usual quality of weapons that come through back channels.\n…Still, the timing is suspicious.",
-        "pt-BR": "[Maram]\nArmas do mercado negro sempre têm essa qualidade.\n…Mas o problema é o timing.",
-        "es-ES": "[Maram]\nLas armas del mercado negro suelen ser así.\n…Pero el momento en que esto ocurre me resulta sospechoso."
+        "en-US": "[Maram]\nThat is the usual quality of weapons that come through back channels.\n...Still, the timing is suspicious.",
+        "pt-BR": "[Maram]\nArmas do mercado negro sempre têm essa qualidade.\n...Mas o problema é o timing.",
+        "es-ES": "[Maram]\nLas armas del mercado negro suelen ser así.\n...Pero el momento en que esto ocurre me resulta sospechoso."
     },
     "YTEsDQ": {
         "en-US": "[Maram]\nOne year is not a generous usage period, but it is not too tight either.\nWhy were they released at the exact moment we are preparing the protest?",
@@ -176,8 +176,8 @@
     },
     "YzEsDQ": {
         "en-US": "[Miriam]\nThis is one of the military supply bases managed by my adoptive father.\nI had a suspicion, but to think it would surface at such a time.",
-        "pt-BR": "[Miriam]\nEste é um dos depósitos militares administrados pelo meu padrasto.\nEu já suspeitava, mas surgir justamente agora…",
-        "es-ES": "[Miriam]\nEste es uno de los depósitos militares que administra mi padre adoptivo.\nLo sospechaba, pero que ocurra justo ahora…"
+        "pt-BR": "[Miriam]\nEste é um dos depósitos militares administrados pelo meu padrasto.\nEu já suspeitava, mas surgir justamente agora...",
+        "es-ES": "[Miriam]\nEste es uno de los depósitos militares que administra mi padre adoptivo.\nLo sospechaba, pero que ocurra justo ahora..."
     },
     "ZDEsDQ": {
         "en-US": "If you say adoptive father, you mean Yus Amal High Priest?",
@@ -255,9 +255,9 @@
         "es-ES": "[Aviso]\n - La bolsa está llena. Verifique el peso y la cantidad de objetos antes de volver a hablar. -"
     },
     "czEsDQ": {
-        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nTaking a few from the middle… they are weapon usage periods and sales records.",
-        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nAo pegar alguns no meio… são registros de validade e venda de armas.",
-        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nAl sacar algunos del medio… son registros de vida útil y ventas de armas."
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nTaking a few from the middle... they are weapon usage periods and sales records.",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nAo pegar alguns no meio... são registros de validade e venda de armas.",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nAl sacar algunos del medio... son registros de vida útil y ventas de armas."
     },
     "dDEsDQ": {
         "en-US": "[Pile of Documents]\nThe dates are very recent. There is also a record of transferring a large quantity of weapons to Dandelion.\nIt seems you have found what you were looking for. You put the documents away.",
@@ -265,19 +265,19 @@
         "es-ES": "[Montón de documentos]\nAdemás, las fechas son muy recientes. También hay registros de entrega masiva de armas a la señorita Diente de León.\nParece que has encontrado lo que buscabas. Guardaste los documentos."
     },
     "dTEsDQ": {
-        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nThe top page… a lunch gathering menu selection?",
-        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nNo topo… competição para decidir o menu do almoço?",
-        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nEn la parte superior… ¿decisión del menú para el almuerzo?"
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nThe top page... a lunch gathering menu selection?",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nNo topo... competição para decidir o menu do almoço?",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nEn la parte superior... ¿decisión del menú para el almuerzo?"
     },
     "djEsDQ": {
-        "en-US": "[Pile of Documents]\nIt seems they chose a fried fish dish with sauce as the menu….\nIt appears they left only unimportant documents behind. For now, take them.",
-        "pt-BR": "[Pilha de Documentos]\nParece que escolheram um prato de peixe frito com molho….\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
-        "es-ES": "[Montón de documentos]\nParece que eligieron pescado frito con salsa…\nParece que solo dejaron documentos sin importancia. De todos modos, será mejor recogerlos."
+        "en-US": "[Pile of Documents]\nIt seems they chose a fried fish dish with sauce as the menu....\nIt appears they left only unimportant documents behind. For now, take them.",
+        "pt-BR": "[Pilha de Documentos]\nParece que escolheram um prato de peixe frito com molho....\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
+        "es-ES": "[Montón de documentos]\nParece que eligieron pescado frito con salsa...\nParece que solo dejaron documentos sin importancia. De todos modos, será mejor recogerlos."
     },
     "dzEsDQ": {
-        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nTaking one from the middle… a guard deployment map of the military supply base?",
-        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nAo pegar um no meio… mapa de posicionamento dos guardas do depósito militar?",
-        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nAl sacar uno del medio… ¿un plano de distribución de guardias del depósito militar?"
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nTaking one from the middle... a guard deployment map of the military supply base?",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nAo pegar um no meio... mapa de posicionamento dos guardas do depósito militar?",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nAl sacar uno del medio... ¿un plano de distribución de guardias del depósito militar?"
     },
     "eDEsDQ": {
         "en-US": "[Pile of Documents]\nJudging by the date, it is an old document.\nIt appears they left only unimportant documents behind. For now, take them.",
@@ -285,23 +285,23 @@
         "es-ES": "[Montón de documentos]\nPor la fecha, es un documento bastante antiguo.\nParece que solo dejaron documentos sin importancia. De todos modos, será mejor recogerlos."
     },
     "eTEsDQ": {
-        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nThe top page… 'If you feed a Magmaring a potato and hunt it after a while, will it drop a baked potato?'",
-        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nNo topo está… 'Se der batata para um Magmaring e caçar depois, será que ele deixa cair batata assada?'",
-        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nEn la parte superior… “¿Si le doy patatas a un Magmaring y luego lo cazo, soltará patatas asadas?”\n[Montón de documentos]"
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nThe top page... 'If you feed a Magmaring a potato and hunt it after a while, will it drop a baked potato?'",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nNo topo está... 'Se der batata para um Magmaring e caçar depois, será que ele deixa cair batata assada?'",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nEn la parte superior... “¿Si le doy patatas a un Magmaring y luego lo cazo, soltará patatas asadas?”\n[Montón de documentos]"
     },
     "ejEsDQ": {
-        "en-US": "[Pile of Documents]\n……Why is this here? But now I am curious about the result!\nIt appears they left only unimportant documents behind. For now, take them.",
-        "pt-BR": "[Pilha de Documentos]\n……Por que isso está aqui? Mas fiquei curioso com o resultado!\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
-        "es-ES": "……¿Por qué está esto aquí? ¡Pero tengo curiosidad por el resultado!"
+        "en-US": "[Pile of Documents]\n......Why is this here? But now I am curious about the result!\nIt appears they left only unimportant documents behind. For now, take them.",
+        "pt-BR": "[Pilha de Documentos]\n......Por que isso está aqui? Mas fiquei curioso com o resultado!\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
+        "es-ES": "......¿Por qué está esto aquí? ¡Pero tengo curiosidad por el resultado!"
     },
     "ezEsDQ": {
-        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nTaking one from the middle… an illustration of the Pope drawn by tracing Pope Cookie icing with a pen.",
-        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nAo tirar uma folha do meio… aparece um desenho do Papa feito à caneta imitando glacê de biscoito do Papa.",
+        "en-US": "[Pile of Documents]\nVarious documents are scattered in disarray.\nTaking one from the middle... an illustration of the Pope drawn by tracing Pope Cookie icing with a pen.",
+        "pt-BR": "[Pilha de Documentos]\nVários documentos estão espalhados de forma desorganizada.\nAo tirar uma folha do meio... aparece um desenho do Papa feito à caneta imitando glacê de biscoito do Papa.",
         "es-ES": "Parece que solo dejaron documentos sin importancia. De todos modos, será mejor recogerlos.\""
     },
     "fDEsDQ": {
-        "en-US": "[Pile of Documents]\nWhat kind of drawing is this? And it is extremely well drawn….\nIt appears they left only unimportant documents behind. For now, take them.",
-        "pt-BR": "[Pilha de Documentos]\nQue desenho é esse? E está muito bem feito….\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
-        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nAl sacar una hoja… aparece una ilustración del Papa dibujada con bolígrafo, copiando el glaseado de una galleta papal."
+        "en-US": "[Pile of Documents]\nWhat kind of drawing is this? And it is extremely well drawn....\nIt appears they left only unimportant documents behind. For now, take them.",
+        "pt-BR": "[Pilha de Documentos]\nQue desenho é esse? E está muito bem feito....\nParece que deixaram apenas documentos sem importância. Mesmo assim, vamos levar.",
+        "es-ES": "[Montón de documentos]\nHay todo tipo de documentos desordenados.\nAl sacar una hoja... aparece una ilustración del Papa dibujada con bolígrafo, copiando el glaseado de una galleta papal."
     }
 }

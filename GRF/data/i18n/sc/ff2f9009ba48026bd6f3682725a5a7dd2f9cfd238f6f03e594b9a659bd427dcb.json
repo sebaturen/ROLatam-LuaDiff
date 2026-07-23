@@ -72,7 +72,7 @@
     "rvF7AQ": {
         "en-US": "[Nurse Maenne]\nWe are preparing to go up to the Second floor.\nThere is rumor that nothing dies up there...\nPlease find out if it is true.",
         "pt-BR": "[Enfermeira Maenne]\nEstamos nos preparando para subir para o segundo andar.\nHá rumores de que nada morre lá em cima...\nPor favor, descubra se isso é verdade.",
-        "es-ES": "[Enfermera Maenne]\nNos estamos preparando para subir al segundo piso.\nSe rumorea que nada muere allí arriba…\nTienes que averiguar si es cierto."
+        "es-ES": "[Enfermera Maenne]\nNos estamos preparando para subir al segundo piso.\nSe rumorea que nada muere allí arriba...\nTienes que averiguar si es cierto."
     },
     "r/F7AQ": {
         "en-US": "[Nurse Maenne]\nWhen you are done,\nplease talk to me again\nI really appreciate it.",
@@ -107,16 +107,16 @@
     "tfF7AQ": {
         "en-US": "[Nurse Maenne]\n..........",
         "pt-BR": "[Enfermeira Maenne]\n..........",
-        "es-ES": "[Enfermera Maenne]\n………."
+        "es-ES": "[Enfermera Maenne]\n.........."
     },
     "tvF7AQ": {
         "en-US": "[Nurse Maenne]\n- I guess..\nI can't talk her alone.\nAfter registering the Party\nlet me talk to her again -",
         "pt-BR": "[Enfermeira Maenne]\n- Eu acho...\nNão posso falar com ela sozinha.\nDepois de registrar o grupo\ndeixe-me falar com ela novamente -",
-        "es-ES": "[Enfermera Maenne]\n-Supongo…\nque no puedo hablar con ella a solas.\nDespués de registrar el grupo,\nhablaré con ella otra vez-."
+        "es-ES": "[Enfermera Maenne]\n-Supongo...\nque no puedo hablar con ella a solas.\nDespués de registrar el grupo,\nhablaré con ella otra vez-."
     },
     "t/F7AQ": {
         "en-US": "[Nurse Maenne]\n......",
         "pt-BR": "[Enfermeira Maenne]\n......",
-        "es-ES": "[Enfermera Maenne]\n……"
+        "es-ES": "[Enfermera Maenne]\n......"
     }
 }

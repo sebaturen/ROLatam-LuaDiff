@@ -22,7 +22,7 @@
     "JLTjAQ": {
         "en-US": "[Elise]\n^0000CD{0}^000000... What a cool name!! No. 1 in my favorite name from today!!",
         "pt-BR": "[Lili]\n^0000CD{0}^000000... que nome lindo!! A partir de hoje, você é quem manda!!",
-        "es-ES": "[Elise]\n^0000CD{0}^000000… ¡¡Qué nombre tan genial!! ¡¡A partir de hoy, es mi nombre favorito!!"
+        "es-ES": "[Elise]\n^0000CD{0}^000000... ¡¡Qué nombre tan genial!! ¡¡A partir de hoy, es mi nombre favorito!!"
     },
     "JbTjAQ": {
         "en-US": "[Elise]\nMaster {0}! From now on, I will explain the services we will provide while serving you!",
@@ -117,7 +117,7 @@
     "N7TjAQ": {
         "en-US": "[Elise]\nWell then, Master {0}!! Best of luck in the future!",
         "pt-BR": "[Lili]\nEntão, {0}, chefia!! Cuidarei bem de você!",
-        "es-ES": "[Elise]\nBueno… {0}¡…! ¡Te deseo mucha suerte en tu aventura!"
+        "es-ES": "[Elise]\nBueno... {0}¡...! ¡Te deseo mucha suerte en tu aventura!"
     },
     "OLTjAQ": {
         "en-US": "[Elise]\nMaster~ Did you call me? Do you need anything? Just say the word. I'll listen to everything!",
@@ -152,7 +152,7 @@
     "PrTjAQ": {
         "en-US": "I just wanted to see you...",
         "pt-BR": "Senti saudades...",
-        "es-ES": "Solo quería verte…"
+        "es-ES": "Solo quería verte..."
     },
     "P7TjAQ": {
         "en-US": "[Elise]\nBefore receiving the Limited service twice a day, I have some cautions to tell you.",
@@ -247,7 +247,7 @@
     "UbTjAQ": {
         "en-US": "[Elise]\nMaster, it's a pity, but ^0000CDyou've received all of today's Bubble Gum effect services...^000000",
         "pt-BR": "[Lili]\nChefe, desculpe ^0000CDvocê atingiu o limite diário do efeito da Goma de Mascar...^000000",
-        "es-ES": "[Elise]\nQué pena… ^0000CDYa usaste todos los servicios de efecto Goma de mascar de hoy.^000000"
+        "es-ES": "[Elise]\nQué pena... ^0000CDYa usaste todos los servicios de efecto Goma de mascar de hoy.^000000"
     },
     "UrTjAQ": {
         "en-US": "[Elise]\nYou can receive it again after 04:00 in the morning!!",
@@ -307,7 +307,7 @@
     "XbTjAQ": {
         "en-US": "[Elise]\nMaster, it's a pity, but ^0000CDyou've received all of today's JOB Manual effect services...^000000",
         "pt-BR": "[Lili]\nChefe, desculpe ^0000CDvocê atingiu o limite diário do efeito do Manual de Classe...^000000",
-        "es-ES": "[Elise]\nQué pena… ^0000CDYa usaste todos los servicios de efecto Manual de la clase de hoy.^000000"
+        "es-ES": "[Elise]\nQué pena... ^0000CDYa usaste todos los servicios de efecto Manual de la clase de hoy.^000000"
     },
     "XrTjAQ": {
         "en-US": "[Elise]\nYou can receive it again after 04:00 in the morning!!",
@@ -757,7 +757,7 @@
     "t7TjAQ": {
         "en-US": "[Edward]\n^0000CD{0}^000000... What a cool name!! No. 1 in my favorite name from today!!",
         "pt-BR": "[Dudu]\n^0000CD{0}^000000... que nome legal! A partir de hoje, você é quem manda.",
-        "es-ES": "[Edward]\n^0000CD{0}^000000… ¡¡Qué nombre tan genial!! ¡¡A partir de hoy, es mi nombre favorito!!"
+        "es-ES": "[Edward]\n^0000CD{0}^000000... ¡¡Qué nombre tan genial!! ¡¡A partir de hoy, es mi nombre favorito!!"
     },
     "uLTjAQ": {
         "en-US": "[Edward]\nWe will explain the services we will provide to you while serving you.",
@@ -927,7 +927,7 @@
     "2bTjAQ": {
         "en-US": "[Edward]\nMaster, it's a pity, but ^0000CDyou've received all of today's Bubble Gum effect services...^000000",
         "pt-BR": "[Dudu]\nMestre, ^0000CDvocê atingiu o limite diário do efeito da Goma de Mascar.^000000",
-        "es-ES": "[Edward]\nQué pena… ^0000CDYa usaste todos los servicios de efecto Goma de mascar de hoy.^000000"
+        "es-ES": "[Edward]\nQué pena... ^0000CDYa usaste todos los servicios de efecto Goma de mascar de hoy.^000000"
     },
     "2rTjAQ": {
         "en-US": "[Edward]\nYou can receive it again after 04:00 in the morning!!",
@@ -997,7 +997,7 @@
     "57TjAQ": {
         "en-US": "[Edward]\nMaster, it's a pity, but ^0000CDyou've received all of today's JOB Manual effect services...^000000",
         "pt-BR": "[Dudu]\nMestre, ^0000CDvocê atingiu o limite diário do efeito do Manual de Classe.^000000",
-        "es-ES": "[Edward]\nQué pena… ^0000CDYa usaste todos los servicios de efecto Manual de la clase de hoy.^000000"
+        "es-ES": "[Edward]\nQué pena... ^0000CDYa usaste todos los servicios de efecto Manual de la clase de hoy.^000000"
     },
     "6LTjAQ": {
         "en-US": "[Edward]\nWow! This is today's first JOB combat manual effect service! I'll give you more energy!",

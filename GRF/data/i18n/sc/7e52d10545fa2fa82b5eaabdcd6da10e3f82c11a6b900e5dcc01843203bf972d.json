@@ -12,7 +12,7 @@
     "wglhBw": {
         "en-US": "[Elisha]\n...I'm sorry.\nThe elevator is out of order. You'll have to use the stairs instead.",
         "pt-BR": "[Elisha]\n...Sinto muito.\nO elevador não está funcionando. Você vai ter que usar as escadas.",
-        "es-ES": "[Elisha]\n…Lo siento.\nEl ascensor no funciona. Tendrás que usar las escaleras."
+        "es-ES": "[Elisha]\n...Lo siento.\nEl ascensor no funciona. Tendrás que usar las escaleras."
     },
     "wwlhBw": {
         "en-US": "[Elisha]\n^0000FFPhantasmagorika is past the tunnel to the south from the southeast gate outside Juperos Ruins.^000000",
@@ -57,7 +57,7 @@
     "ywlhBw": {
         "en-US": "[Fallen Man]\n...",
         "pt-BR": "[Homem Caído]\n...",
-        "es-ES": "[Hombre caído]\n…"
+        "es-ES": "[Hombre caído]\n..."
     },
     "zAlhBw": {
         "en-US": "[{0}]\nCan you speak?",
@@ -67,7 +67,7 @@
     "zQlhBw": {
         "en-US": "[Fallen Man]\n...Just leave me alone.",
         "pt-BR": "[Homem Caído]\n... Deixe-me em paz.",
-        "es-ES": "[Hombre caído]\n…Déjame en paz."
+        "es-ES": "[Hombre caído]\n...Déjame en paz."
     },
     "zglhBw": {
         "en-US": "[{0}]\nExcuse me?",
@@ -87,12 +87,12 @@
     "0QlhBw": {
         "en-US": "[Fallen Man]\nSheesh, I said I'm ok... Argh, MY BACK!",
         "pt-BR": "[Homem Caído]\nCaramba, já disse que estou bem... Argh, MINHAS COSTAS!",
-        "es-ES": "[Hombre caído]\nUf, te dije que estoy bien… ¡AY, MI ESPALDA!"
+        "es-ES": "[Hombre caído]\nUf, te dije que estoy bien... ¡AY, MI ESPALDA!"
     },
     "0glhBw": {
         "en-US": "[{0}]\n...",
         "pt-BR": "[{0}]\n...",
-        "es-ES": "[{0}]\n…"
+        "es-ES": "[{0}]\n..."
     },
     "0wlhBw": {
         "en-US": "[{0}]\nLet me call in a healer.",
@@ -142,7 +142,7 @@
     "3AlhBw": {
         "en-US": "[Elisha]\nUm, let's see...\nI'm sorry, but you're not on the list. Could you check your registration status?",
         "pt-BR": "[Elisha]\nAh, vamos ver...\nSinto muito, mas você não está na lista. Pode verificar o status do seu registro?",
-        "es-ES": "[Elisha]\nEh, veamos…\nLo siento, pero no estás en la lista. ¿Podrías comprobar el estado de tu registro?"
+        "es-ES": "[Elisha]\nEh, veamos...\nLo siento, pero no estás en la lista. ¿Podrías comprobar el estado de tu registro?"
     },
     "3QlhBw": {
         "en-US": "[Elisha]\nYou're back already.",
@@ -152,7 +152,7 @@
     "3glhBw": {
         "en-US": "[Elisha]\nLet's see...\nAh, I've found your name.\nWould you like to ^0000FFmove to Phantasmagorika^000000 now?",
         "pt-BR": "[Elisha]\nVejamos...\nAh, achei o seu nome.\nGostaria de ^0000FFir para Verus^000000 agora?",
-        "es-ES": "[Elisha]\nVeamos…\nAh, encontré tu nombre.\n¿Te gustaría ^0000FFtrasladarte a Fantasmagórica^000000 ahora?"
+        "es-ES": "[Elisha]\nVeamos...\nAh, encontré tu nombre.\n¿Te gustaría ^0000FFtrasladarte a Fantasmagórica^000000 ahora?"
     },
     "3wlhBw": {
         "en-US": "No.",
@@ -197,7 +197,7 @@
     "5wlhBw": {
         "en-US": "[Elisha]\nUm...\nWhat's wrong with it?\nPlease give me a moment.",
         "pt-BR": "[Elisha]\nUm...\nQual será o problema desta vez?\nPor favor, me dê um minuto.",
-        "es-ES": "[Elisha]\nEh…\n¿Qué le pasa?\nDame un momento."
+        "es-ES": "[Elisha]\nEh...\n¿Qué le pasa?\nDame un momento."
     },
     "6AlhBw": {
         "en-US": "[Elisha]\nUh-oh.\nIs it out of order?\nIt can't be!",
@@ -227,7 +227,7 @@
     "7QlhBw": {
         "en-US": "[Elisha]\nLet's see...\nA... B... C... D... E... F... Ah, there it is!",
         "pt-BR": "[Elisha]\nVejamos...\nA... B... C... D... E... F... Ah, aqui está!",
-        "es-ES": "[Elisha]\nVeamos…\nA… B… C… D… E… F… ¡Ah, ahí está!"
+        "es-ES": "[Elisha]\nVeamos...\nA... B... C... D... E... F... ¡Ah, ahí está!"
     },
     "7glhBw": {
         "en-US": "[Elisha]\n{0}, your registration has been confirmed.\nWould you like to move to Phantasmagorika?",
@@ -292,7 +292,7 @@
     "+glhBw": {
         "en-US": "[Scarlet]\nOh, that's already taken care of.\nPoof! I'm sorry. I didn't mean to laugh... Poof!",
         "pt-BR": "[Scarlet]\nAh, já foi tudo resolvido.\n(Puf!) Sinto muito. Eu não queria rir... (Puf!)",
-        "es-ES": "[Scarlet]\nAh, eso ya está solucionado.\n¡Puf! Lo siento. No quería reírme… ¡Puf!"
+        "es-ES": "[Scarlet]\nAh, eso ya está solucionado.\n¡Puf! Lo siento. No quería reírme... ¡Puf!"
     },
     "+wlhBw": {
         "en-US": "[Scarlet]\n*Clears her throat*\nThis facility is provided by ^0000FFRekenber^000000",
@@ -352,12 +352,12 @@
     "BgphBw": {
         "en-US": "[Deu]\nBut he started it...",
         "pt-BR": "[Du Lian]\nMas foi ele quem começou...",
-        "es-ES": "[Du Lian]\nPero él empezó…"
+        "es-ES": "[Du Lian]\nPero él empezó..."
     },
     "BwphBw": {
         "en-US": "[Mark]\n...",
         "pt-BR": "[Mark]\n...",
-        "es-ES": "[Mark]\n…"
+        "es-ES": "[Mark]\n..."
     },
     "CAphBw": {
         "en-US": "[Tamarin]\nI told you stop jumping!",
@@ -372,7 +372,7 @@
     "CgphBw": {
         "en-US": "[Scarlet]\nWe all should get off and call in a techni...",
         "pt-BR": "[Scarlet]\nNós deveríamos sair e ligar para um técni...",
-        "es-ES": "[Scarlet]\nDeberíamos bajarnos y llamar a un técni…"
+        "es-ES": "[Scarlet]\nDeberíamos bajarnos y llamar a un técni..."
     },
     "CwphBw": {
         "en-US": "^FF0000- THUD -^000000",
@@ -382,7 +382,7 @@
     "DAphBw": {
         "en-US": "[Magi]\nKyaaaaah-!",
         "pt-BR": "[Maggi]\nKyaaaaah-!",
-        "es-ES": "[Magi]\n*¡Iaaaaaaa…!*"
+        "es-ES": "[Magi]\n*¡Iaaaaaaa...!*"
     },
     "DQphBw": {
         "en-US": "[Deu]\nWah!\nThe floor rattled!",
@@ -422,7 +422,7 @@
     "FAphBw": {
         "en-US": "[Deu]\nWAH-!\nWe're going to crash to the ground!",
         "pt-BR": "[Du Lian]\nWAH-!\nNós vamos despencar até o chão!",
-        "es-ES": "[Du Lian]\n*¡AHH…!*\n¡Nos estrellaremos contra el suelo!"
+        "es-ES": "[Du Lian]\n*¡AHH...!*\n¡Nos estrellaremos contra el suelo!"
     },
     "FQphBw": {
         "en-US": "[Tamarin]\nDon't say that!\nThis is your fault!",
@@ -462,7 +462,7 @@
     "HAphBw": {
         "en-US": "[Scarlet]\nWhew...\nI'm glad no one's hurt.\nI'll let this go,\nbut never again!",
         "pt-BR": "[Scarlet]\nUfa...\nFico feliz que ninguém se machucou.\nVou deixar essa passar,\nmas só dessa vez!",
-        "es-ES": "[Scarlet]\nFiu…\nMe alegro de que no haya heridos.\nLo dejaré pasar,\n¡pero nunca más!"
+        "es-ES": "[Scarlet]\nFiu...\nMe alegro de que no haya heridos.\nLo dejaré pasar,\n¡pero nunca más!"
     },
     "HQphBw": {
         "en-US": "[Scarlet]\nAnd{0}, thank you so much.\nWe could have been in big trouble if it weren't for you.",
@@ -487,12 +487,12 @@
     "IQphBw": {
         "en-US": "[Magi]\n*Sob* *Hiccup*\nTh-thanks... *Sob* *Hiccup*\nI was so scared! Wah-!",
         "pt-BR": "[Maggi]\n*Snif**Hic*\nObr... obrigada... *Snif**Hic*\nEu estava com tanto medo! Wah-!",
-        "es-ES": "[Magi]\n*Solloza* *Hipo*\nG-gracias… *Solloza* *Hipo*\n¡Estaba tan asustada! *¡Ahh…!*"
+        "es-ES": "[Magi]\n*Solloza* *Hipo*\nG-gracias... *Solloza* *Hipo*\n¡Estaba tan asustada! *¡Ahh...!*"
     },
     "IgphBw": {
         "en-US": "[Deu]\n...Sorry.",
         "pt-BR": "[Du Lian]\n... Desculpa.",
-        "es-ES": "[Du Lian]\n…Perdón."
+        "es-ES": "[Du Lian]\n...Perdón."
     },
     "IwphBw": {
         "en-US": "[Tamarin]\nThank you.\nSigh, I don't want to imagine what might have happened if you{0}didn't pass by at that moment.",
@@ -502,7 +502,7 @@
     "JAphBw": {
         "en-US": "[Alf]\n...Thank you.",
         "pt-BR": "[Alp]\n... Obrigado.",
-        "es-ES": "[Alf]\n…Gracias."
+        "es-ES": "[Alf]\n...Gracias."
     },
     "JQphBw": {
         "en-US": "[Tamarin]\nBy the way, don't you think it's strange\nthat an elevator is set up and running in the newly discovered ruins?",
@@ -542,7 +542,7 @@
     "LAphBw": {
         "en-US": "[Scarlet]\nHm...\nYes,{0}, your registration has been confirmed.\nWould you like to move to the entrance to Juperos?",
         "pt-BR": "[Scarlet]\nHum...\nSim. {0}, seu registro foi confirmado.\nVocê gostaria de ir para o Desfiladeiro de Elmes?",
-        "es-ES": "[Scarlet]\nMmm…\nSí, {0}, tu registro está confirmado.\n¿Quieres avanzar a la entrada de Juperos?"
+        "es-ES": "[Scarlet]\nMmm...\nSí, {0}, tu registro está confirmado.\n¿Quieres avanzar a la entrada de Juperos?"
     },
     "LQphBw": {
         "en-US": "[Scarlet]\nHave a good day.",
@@ -572,7 +572,7 @@
     "MgphBw": {
         "en-US": "[Deu]\nWAAAAAHH-!",
         "pt-BR": "[Du Lian]\nWAAAAAHH-!",
-        "es-ES": "[Du Lian]\n*¡AAAAHHHHH…!*"
+        "es-ES": "[Du Lian]\n*¡AAAAHHHHH...!*"
     },
     "MwphBw": {
         "en-US": "[Deu]\nSomeone please do something!",
@@ -587,7 +587,7 @@
     "NQphBw": {
         "en-US": "[Deu]\nHm...\nThis place doesn't look as exciting as I thought.",
         "pt-BR": "[Du Lian]\nHum...\nEste lugar não parece tão empolgante quanto eu imaginei.",
-        "es-ES": "[Du Lian]\nMmm…\nEste lugar no parece tan interesante como pensaba."
+        "es-ES": "[Du Lian]\nMmm...\nEste lugar no parece tan interesante como pensaba."
     },
     "NgphBw": {
         "en-US": "[Mark]\nWhat did you expect?",
@@ -607,7 +607,7 @@
     "OQphBw": {
         "en-US": "[Alf]\nUm...\nThe place may not look like much, but the building styles and materials are not like what I've seen in Midgard.",
         "pt-BR": "[Alp]\nUm...\nEste lugar pode não parecer muita coisa, mas o estilo e os materiais das construções não parecem com nada que já vi em Midgard.",
-        "es-ES": "[Alf]\nEh…\nEl lugar no parecerá gran cosa, pero los estilos de construcción y los materiales no se parecen a los que he visto en Midgard."
+        "es-ES": "[Alf]\nEh...\nEl lugar no parecerá gran cosa, pero los estilos de construcción y los materiales no se parecen a los que he visto en Midgard."
     },
     "OgphBw": {
         "en-US": "[Alf]\nOr in Juperos.",
@@ -687,12 +687,12 @@
     "SQphBw": {
         "en-US": "[Alf]\n...\nS-stop moving.",
         "pt-BR": "[Alp]\n...\nP-parem de se mexer.",
-        "es-ES": "[Alf]\n…\nD-dejen de moverse."
+        "es-ES": "[Alf]\n...\nD-dejen de moverse."
     },
     "SgphBw": {
         "en-US": "[Alf]\nS-stop moving.\nTh-the f-floor...",
         "pt-BR": "[Alp]\nP-parem de se mexer.\nO-o pi-piso...",
-        "es-ES": "[Alf]\nD-dejen de moverse.\nEl p-piso…"
+        "es-ES": "[Alf]\nD-dejen de moverse.\nEl p-piso..."
     },
     "SwphBw": {
         "en-US": "[Alf]\nWhat about the fountain?",
@@ -712,7 +712,7 @@
     "TgphBw": {
         "en-US": "[Magi]\nKyaaaahhh-!",
         "pt-BR": "[Maggi]\nKyaaaahhh-!",
-        "es-ES": "[Magi]\n*¡Iaaaaaaa…!*"
+        "es-ES": "[Magi]\n*¡Iaaaaaaa...!*"
     },
     "TwphBw": {
         "en-US": "[Magi]\nDeu is full of bile and vinegar.\nWhat's so interesting about the fountain?",
@@ -757,7 +757,7 @@
     "VwphBw": {
         "en-US": "[Leitner]\nAnyway, let's get you registered. I want to get back to my break.\nErr... Write down your name here, and put your fingerprint next to it.\nDone. Easy, huh?",
         "pt-BR": "[Leitner]\nEnfim, vamos fazer o seu registro. Quero voltar para minha folga.\nErr... Escreva seu nome aqui e coloque sua digital do lado.\nPronto. Fácil, né?",
-        "es-ES": "[Leitner]\nEn fin, vamos a registrarte. Quiero volver a mi descanso.\nEh… Escribe tu nombre aquí y coloca tu huella dactilar al lado.\nListo. Fácil, ¿no?"
+        "es-ES": "[Leitner]\nEn fin, vamos a registrarte. Quiero volver a mi descanso.\nEh... Escribe tu nombre aquí y coloca tu huella dactilar al lado.\nListo. Fácil, ¿no?"
     },
     "WAphBw": {
         "en-US": "[Leitner]\nI know, I know; why the extra step when the elevator is open to the public?",
@@ -807,7 +807,7 @@
     "YQphBw": {
         "en-US": "[Alf]\nUm...\nWait.",
         "pt-BR": "[Alp]\nUm...\nEsperem.",
-        "es-ES": "[Alf]\nEh…\nEspera."
+        "es-ES": "[Alf]\nEh...\nEspera."
     },
     "YgphBw": {
         "en-US": "[Alf]\nLook, it doesn't look like it's been buried deep underground for centuries.",
@@ -822,12 +822,12 @@
     "ZAphBw": {
         "en-US": "[Alf]\nLet's see...",
         "pt-BR": "[Alp]\nVejamos...",
-        "es-ES": "[Alf]\nVeamos…"
+        "es-ES": "[Alf]\nVeamos..."
     },
     "ZQphBw": {
         "en-US": "[Alf]\nUm...\nIt's too clean. I can't tell anything about it.",
         "pt-BR": "[Alp]\nUm...\nEstá limpa demais. Não consigo dizer mais nada a seu respeito.",
-        "es-ES": "[Alf]\nEh…\nEstá muy limpia. No puedo decir nada al respecto."
+        "es-ES": "[Alf]\nEh...\nEstá muy limpia. No puedo decir nada al respecto."
     },
     "ZgphBw": {
         "en-US": "[Alf]\nIf this fountain was ever used, it should have some sort of deposit left on the bottom, but there's none at all. It's almost as if the water was drained out of it at once.",
@@ -862,7 +862,7 @@
     "bAphBw": {
         "en-US": "[Alf]\nHm...\nEverything looks too clean.\nThis site doesn't look like it's as old as we thought it was.",
         "pt-BR": "[Alp]\nHum...\nTudo parece limpo demais.\nEste lugar não parece tão velho quanto nós achávamos que fosse.",
-        "es-ES": "[Alf]\nMmm…\nTodo parece demasiado limpio.\nEste sitio no parece tan antiguo como pensábamos."
+        "es-ES": "[Alf]\nMmm...\nTodo parece demasiado limpio.\nEste sitio no parece tan antiguo como pensábamos."
     },
     "bQphBw": {
         "en-US": "[Alf]\nAside from those piles of broken machines, nothing looks too special.",
@@ -1002,7 +1002,7 @@
     "iAphBw": {
         "en-US": "[Deu]\nWhoa...\nI thought this place would be the same as the last one, but it's overrun with machines.",
         "pt-BR": "[Du Lian]\nNossa...\nEu pensei que este lugar seria igual ao outro, mas está cheio de máquinas.",
-        "es-ES": "[Du Lian]\nVaya…\nCreí que este lugar sería igual al anterior, pero está plagado de máquinas."
+        "es-ES": "[Du Lian]\nVaya...\nCreí que este lugar sería igual al anterior, pero está plagado de máquinas."
     },
     "iQphBw": {
         "en-US": "[Deu]\nAre these the same as those in Juperos?",
@@ -1022,7 +1022,7 @@
     "jAphBw": {
         "en-US": "[Alf]\nHm...\nThis place is disturbingly clean.",
         "pt-BR": "[Alp]\nHum...\nEste lugar está perturbadoramente limpo.",
-        "es-ES": "[Alf]\nMmm…\nEste lugar está perturbadoramente limpio."
+        "es-ES": "[Alf]\nMmm...\nEste lugar está perturbadoramente limpio."
     },
     "jQphBw": {
         "en-US": "[Tamarin]\nAll the buildings are well preserved. What do you think happened to the owners?",
@@ -1032,7 +1032,7 @@
     "jgphBw": {
         "en-US": "[Alf]\nIf they're dead, they're not buried or left to rot in here. If they left... well, I don't think they did.",
         "pt-BR": "[Alp]\nSe eles morreram, não foram enterrados ou deixados para apodrecer aqui. Se eles foram embora... Bom, não acho que seja o caso.",
-        "es-ES": "[Alf]\nSi murieron, no los enterraron ni los dejaron aquí para que se pudran. Si se fueron… bueno, no creo que se hayan ido."
+        "es-ES": "[Alf]\nSi murieron, no los enterraron ni los dejaron aquí para que se pudran. Si se fueron... bueno, no creo que se hayan ido."
     },
     "jwphBw": {
         "en-US": "[Magi]\nI tried to read with magic,\nbut to no avail.",
@@ -1117,7 +1117,7 @@
     "nwphBw": {
         "en-US": "[Tamarin]\n...!\nThat's a first. You earned the nickname Red-haired Boar because you never stop running.",
         "pt-BR": "[Tamarin]\n...!\nPrimeira vez que ouço isso. Você ganhou o apelido de Javali Ruivo porque nunca para de correr.",
-        "es-ES": "[Tamarin]\n¡…!\nEso es una novedad. Te ganaste el apodo de Jabalí Pelirrojo porque nunca paras de correr."
+        "es-ES": "[Tamarin]\n¡...!\nEso es una novedad. Te ganaste el apodo de Jabalí Pelirrojo porque nunca paras de correr."
     },
     "oAphBw": {
         "en-US": "[Deu]\nNo one calls me that!",
@@ -1207,7 +1207,7 @@
     "sQphBw": {
         "en-US": "[Adventurer]\nI'm impressed by Rekenber's support.\nUm...",
         "pt-BR": "[Aventureira]\nEstou impressionada com o apoio da Rekenber.\nUm...",
-        "es-ES": "[Trotamundos]\nEstoy impresionado por el apoyo de Rekenber.\nEh…"
+        "es-ES": "[Trotamundos]\nEstoy impresionado por el apoyo de Rekenber.\nEh..."
     },
     "sgphBw": {
         "en-US": "Merchant",
@@ -1252,12 +1252,12 @@
     "ugphBw": {
         "en-US": "[Adventurer]\n*Stomach rumbles*\nAww, I'm hungry...",
         "pt-BR": "[Aventureiro]\n*Barriga roncando*\nAi, estou com fome...",
-        "es-ES": "[Trotamundos]\n*Estómago ruge*\nAyy, tengo hambre…"
+        "es-ES": "[Trotamundos]\n*Estómago ruge*\nAyy, tengo hambre..."
     },
     "uwphBw": {
         "en-US": "[Adventurer]\nBut I have no money to buy food...",
         "pt-BR": "[Aventureiro]\nMas não tenho dinheiro para comprar comida...",
-        "es-ES": "[Trotamundos]\nPero no tengo dinero para comprar comida…"
+        "es-ES": "[Trotamundos]\nPero no tengo dinero para comprar comida..."
     },
     "vAphBw": {
         "en-US": "[Jean Baljean]\nUgh, I was struck 19 times for a piece of bread.",
@@ -1297,7 +1297,7 @@
     "wwphBw": {
         "en-US": "[Adventurer Cat]\nI must investi... ga... te...\nZzz... Zzz...",
         "pt-BR": "[Gato Aventureiro]\nEu devo inves...ti...gar...\nZzz... Zzz...",
-        "es-ES": "[Gato aventurero]\nDebo investi… ga… rr…\nZzz… Zzz…"
+        "es-ES": "[Gato aventurero]\nDebo investi... ga... rr...\nZzz... Zzz..."
     },
     "xAphBw": {
         "en-US": "Cow",

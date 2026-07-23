@@ -50,14 +50,14 @@
         "es-ES": "[Empleado de la posada]\nLa salida es hasta las 2 de la tarde del día siguiente. ¡Descansa bien!"
     },
     "SkuBDA": {
-        "en-US": "[???]\n…….",
-        "pt-BR": "[???]\n…….",
-        "es-ES": "[???]\n……."
+        "en-US": "[???]\n.......",
+        "pt-BR": "[???]\n.......",
+        "es-ES": "[???]\n......."
     },
     "S0uBDA": {
-        "en-US": "[{0}]\n(……I feel as if I'm being watched.)",
-        "pt-BR": "[{0}]\n(……Sinto como se estivesse sendo observado por alguém)",
-        "es-ES": "[{0}]\n(……Siento que me miran desde algún lado)"
+        "en-US": "[{0}]\n(......I feel as if I'm being watched.)",
+        "pt-BR": "[{0}]\n(......Sinto como se estivesse sendo observado por alguém)",
+        "es-ES": "[{0}]\n(......Siento que me miran desde algún lado)"
     },
     "TEuBDA": {
         "en-US": "Look around.",
@@ -66,8 +66,8 @@
     },
     "TUuBDA": {
         "en-US": "[{0}]\n(Am I seeing things? ...Nope. There she is.)",
-        "pt-BR": "[{0}]\n(Será que é minha imaginação… Não, não é)",
-        "es-ES": "[{0}]\n(¿Será mi imaginación?…… No, no lo es)"
+        "pt-BR": "[{0}]\n(Será que é minha imaginação... Não, não é)",
+        "es-ES": "[{0}]\n(¿Será mi imaginación?...... No, no lo es)"
     },
     "TkuBDA": {
         "en-US": "[{0}]\n(I don't think she wants to hurt me. I'm just going to watch her for now.)",
@@ -152,7 +152,7 @@
     "XkuBDA": {
         "en-US": "[{0}]\n(It's true my training has hit a plateau... How does this girl know my condition?)",
         "pt-BR": "[{0}]\n(É verdade que meu treino está estagnado... Como essa garota sabe do meu estado?)",
-        "es-ES": "[{0}]\n(Es cierto que he llegado a un estancamiento en mi entrenamiento… ¿Cómo sabe cómo estoy, este chico?)"
+        "es-ES": "[{0}]\n(Es cierto que he llegado a un estancamiento en mi entrenamiento... ¿Cómo sabe cómo estoy, este chico?)"
     },
     "X0uBDA": {
         "en-US": "[Seriang]\nSeriang has been watching you much longer than you know. Long enough to know you've been anxious.",
@@ -195,9 +195,9 @@
         "es-ES": "[Seriang]\nSolo hay una persona que puede resolver tus dificultades. Es... <B>el dios Odín</B>."
     },
     "Z0uBDA": {
-        "en-US": "……Not buying.",
-        "pt-BR": "……Não quero.",
-        "es-ES": "……No, gracias."
+        "en-US": "......Not buying.",
+        "pt-BR": "......Não quero.",
+        "es-ES": "......No, gracias."
     },
     "aEuBDA": {
         "en-US": "[Seriang]\nOh, come on. Why are you like that? Can't you take a joke?",
@@ -280,9 +280,9 @@
         "es-ES": "[Einhar]\nSi algún día llegas al final de tu entrenamiento y te topas con un muro, acuérdate de mí, que estoy aquí."
     },
     "eEuBDA": {
-        "en-US": "[Einhar]\n…….",
-        "pt-BR": "[Einhar]\n…….",
-        "es-ES": "[Einhar]\n……."
+        "en-US": "[Einhar]\n.......",
+        "pt-BR": "[Einhar]\n.......",
+        "es-ES": "[Einhar]\n......."
     },
     "eUuBDA": {
         "en-US": "[{0}]\n(Who's this man? I can tell he's strong.)",
@@ -320,9 +320,9 @@
         "es-ES": "[Einhar]\nLo que necesitas es mejorar tu entrenamiento. Romper la barrera que te impide ser más fuerte."
     },
     "gEuBDA": {
-        "en-US": "[{0}]\n(<I>……How does he know?</I>)",
-        "pt-BR": "[{0}]\n(<I>……Como ele sabe disso?</I>)",
-        "es-ES": "[{0}]\n(<I>……¿Cómo lo sabes?</I>)"
+        "en-US": "[{0}]\n(<I>......How does he know?</I>)",
+        "pt-BR": "[{0}]\n(<I>......Como ele sabe disso?</I>)",
+        "es-ES": "[{0}]\n(<I>......¿Cómo lo sabes?</I>)"
     },
     "gUuBDA": {
         "en-US": "[Einhar]\nI could tell because Seriang finds those Suras and sends them my way.",
@@ -330,9 +330,9 @@
         "es-ES": "[Einhar]\nSe-ryang busca a suras como tú y me los envía, así que me lo imaginaba."
     },
     "gkuBDA": {
-        "en-US": "[{0}]\n(<I>……Why is he reading my mind?!</I>)",
-        "pt-BR": "[{0}]\n(<I>……Por que ele lê meus pensamentos?!</I>)",
-        "es-ES": "[{0}]\n(<I>……¡¿Por qué me lees la mente?!</I>)"
+        "en-US": "[{0}]\n(<I>......Why is he reading my mind?!</I>)",
+        "pt-BR": "[{0}]\n(<I>......Por que ele lê meus pensamentos?!</I>)",
+        "es-ES": "[{0}]\n(<I>......¡¿Por qué me lees la mente?!</I>)"
     },
     "g0uBDA": {
         "en-US": "You ask who you are.",
@@ -482,7 +482,7 @@
     "oEuBDA": {
         "en-US": "Still, I have my pride...",
         "pt-BR": "Mesmo assim, tenho meu orgulho...",
-        "es-ES": "Pero tengo mi orgullo…"
+        "es-ES": "Pero tengo mi orgullo..."
     },
     "oUuBDA": {
         "en-US": "[Einhar]\nCome back. He's waiting for you with His doors wide open.",
@@ -665,9 +665,9 @@
         "es-ES": "[Einhar]\nEste es el proceso de regresar al seno de los dioses.\nLas expediciones de exorcismo repetidas se convertirán en tu rutina diaria. Necesitas acostumbrarte a eso."
     },
     "xUuBDA": {
-        "en-US": "[Einhar]\nI witnessed your defeat of that heinous monster. Your skill shines brilliantly.\nThen, <B>once more</B>……,",
-        "pt-BR": "[Einhar]\nVi bem como derrotaste aquele monstro terrível. A sua destreza brilha de forma deslumbrante.\nEntão, <B>mais uma vez</B>……,",
-        "es-ES": "[Einhar]\nHe visto bien cómo derrotas a ese monstruo atroz. Tu destreza brilla de manera deslumbrante.\nEntonces, <B>una vez más</B>……,"
+        "en-US": "[Einhar]\nI witnessed your defeat of that heinous monster. Your skill shines brilliantly.\nThen, <B>once more</B>......,",
+        "pt-BR": "[Einhar]\nVi bem como derrotaste aquele monstro terrível. A sua destreza brilha de forma deslumbrante.\nEntão, <B>mais uma vez</B>......,",
+        "es-ES": "[Einhar]\nHe visto bien cómo derrotas a ese monstruo atroz. Tu destreza brilla de manera deslumbrante.\nEntonces, <B>una vez más</B>......,"
     },
     "xkuBDA": {
         "en-US": "Again?!",
@@ -681,8 +681,8 @@
     },
     "yEuBDA": {
         "en-US": "[Einhar]\n...I'd like to say one more time, but the test ends here.\nTorture? No. I just wanted to check their firmness of heart one more time, Seriang.",
-        "pt-BR": "[Einhar]\n……Gostaria de dizer “mais uma vez”, mas o teste termina por aqui.\nAtormentar? É apenas para confirmar mais uma vez a convicção no coração deles, Seriang.",
-        "es-ES": "[Einhar]\n……Me gustaría decir «otra vez», pero la prueba termina aquí.\n¿Que lo estoy atormentando? Solo quiero confirmar una vez más que tienes un corazón firme, Se-ryang."
+        "pt-BR": "[Einhar]\n......Gostaria de dizer “mais uma vez”, mas o teste termina por aqui.\nAtormentar? É apenas para confirmar mais uma vez a convicção no coração deles, Seriang.",
+        "es-ES": "[Einhar]\n......Me gustaría decir «otra vez», pero la prueba termina aquí.\n¿Que lo estoy atormentando? Solo quiero confirmar una vez más que tienes un corazón firme, Se-ryang."
     },
     "yUuBDA": {
         "en-US": "[Einhar]\nBut as Seriang said, the test seems sufficient.\nHearing Seriang's story and coming to me confirmed how desperately you wanted to grow.",

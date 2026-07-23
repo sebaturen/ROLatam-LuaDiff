@@ -287,12 +287,12 @@
     "efOt": {
         "en-US": "^800000Kafra Corporation^4D4DFF has been providing Storage Services,\nSave Point Services and Teleport Services^4D4DFF to our valued customers for years. Just listen to these real customers...^000000",
         "pt-BR": "^800000A Corporação Kafra^4D4DFF vem fornecendo Serviços de Armazenamento,\nServiços de Save Point e Serviços de Teletransporte^4D4DFF para nossos valiosos clientes há anos. Basta ouvir esses clientes reais...^000000",
-        "es-ES": "Hace años que la ^800000Corporación Kafra^4D4DFF proporciona servicios de almacenamiento,\npuntos de guardado y de teletransporte^4D4DFF a todos nuestros valiosos clientes. Escucha estos testimonios de clientes reales…^000000"
+        "es-ES": "Hace años que la ^800000Corporación Kafra^4D4DFF proporciona servicios de almacenamiento,\npuntos de guardado y de teletransporte^4D4DFF a todos nuestros valiosos clientes. Escucha estos testimonios de clientes reales...^000000"
     },
     "evOt": {
         "en-US": "^4D4DFF[Karkatan]\nMy land suffered from poor customer service...until Kafra came along!",
         "pt-BR": "^4D4DFF[Karkatan]\nMinha terra sofria com o mau atendimento ao cliente... até que Kafra apareceu!",
-        "es-ES": "^4D4DFF[Karkatan]\nMi tierra tenía muy mal servicio al cliente… ¡hasta que llegó Kafra!"
+        "es-ES": "^4D4DFF[Karkatan]\nMi tierra tenía muy mal servicio al cliente... ¡hasta que llegó Kafra!"
     },
     "e/Ot": {
         "en-US": "[Curator Guiss]\nOh, Kafra is simply the best!^000000",
@@ -417,7 +417,7 @@
     "k/Ot": {
         "en-US": "Al De Baran Turbo Track is brought to you by...",
         "pt-BR": "Al De Baran Turbo Track é trazido a você por...",
-        "es-ES": "La Pista turbo de Aldebaran es presentada por…"
+        "es-ES": "La Pista turbo de Aldebaran es presentada por..."
     },
     "lPOt": {
         "en-US": "[Al De Baran Kafra Corporation Headquarters]",
@@ -472,7 +472,7 @@
     "nvOt": {
         "en-US": "Unfortunately, I can't give\nyou any Turbo Track Points\nsince you would exceed the\nmaximum limit. Sorry,\n{0}...",
         "pt-BR": "Infelizmente, não posso lhe dar\na você nenhum ponto de Turbo Track\npois você excederia o\nlimite máximo. Desculpe-me,\n{0}...",
-        "es-ES": "Por desgracia, no te puedo dar\npuntos de Pista turbo\nporque superarás\nel límite máximo. Lo siento,\n{0}…"
+        "es-ES": "Por desgracia, no te puedo dar\npuntos de Pista turbo\nporque superarás\nel límite máximo. Lo siento,\n{0}..."
     },
     "n/Ot": {
         "en-US": "[Guide]\nThank you for\nparticipating in\nin Turbo Track.\nYou will be guided\nto a Waiting Room soon.",
@@ -492,7 +492,7 @@
     "ovOt": {
         "en-US": "[Guide]\nUnfortunately, I can't give\nyou any Turbo Track Points\nsince you would exceed the\nmaximum limit. Sorry,\n{0}...",
         "pt-BR": "[Guia]\nInfelizmente, não posso lhe dar\na você nenhum ponto de Turbo Track\njá que você excederia o\nlimite máximo. Desculpe-me,\n{0}...",
-        "es-ES": "[Guía]\nPor desgracia, no te puedo dar\npuntos de Pista turbo\nporque superarás\nel límite máximo. Lo siento,\n{0}…"
+        "es-ES": "[Guía]\nPor desgracia, no te puedo dar\npuntos de Pista turbo\nporque superarás\nel límite máximo. Lo siento,\n{0}..."
     },
     "o/Ot": {
         "en-US": "{0} is now entering the Small Cave!",

@@ -27,7 +27,7 @@
     "ZUEBCA": {
         "en-US": "[{0}]\nWhy should I...?",
         "pt-BR": "[{0}]\nPor que eu faria isso...?",
-        "es-ES": "[{0}]\n¿Por qué debería…?"
+        "es-ES": "[{0}]\n¿Por qué debería...?"
     },
     "ZkEBCA": {
         "en-US": "[Eggling]\nDo you really want to sign yourself up for the worst voyage of your life?",
@@ -67,7 +67,7 @@
     "bUEBCA": {
         "en-US": "[Eggling]\nWell... I don't mean... Hum... Well 10 seconds has passed. Bring me ^0000CD3 Basilac Clam^000000, no less. Bring them without anyone knowing. I will make you regret if you tell anyone.",
         "pt-BR": "[Miauxuruca]\nTá. Você precisa me trazer ^0000CD3 Conchas de Basilisco.^000000 Faça isso com discrição, não podem saber que estamos atrás dessas Conchas.",
-        "es-ES": "[Eggling]\nBueno… No quería… Mmm… Bueno, pasaron 10 segundos. Tráeme ^0000CD3 Piedras basil^000000, no menos. Tráelas sin que nadie lo sepa. Haré que te arrepientas si se lo cuentas a alguien."
+        "es-ES": "[Eggling]\nBueno... No quería... Mmm... Bueno, pasaron 10 segundos. Tráeme ^0000CD3 Piedras basil^000000, no menos. Tráelas sin que nadie lo sepa. Haré que te arrepientas si se lo cuentas a alguien."
     },
     "bkEBCA": {
         "en-US": "[Eggling]\nIt looks a lot and large. How about cutting down some?",
@@ -252,7 +252,7 @@
     "kkEBCA": {
         "en-US": "[Eggling]\nHow stupid... I told you to bring ^0000CD3^000000. I said 3! You can get them from the ^0000CDBasilisks^000000. How many times I have to tell you that? I think I said it about 100 times!",
         "pt-BR": "[Miauxuruca]\nEu disse que precisava de ^0000CDConchas de Basilisco^000000! ^0000CDTrês^000000 delas!",
-        "es-ES": "[Eggling]\nQué estupidez… Te dije que trajeras ^0000CD3^000000. ¡Dije 3! Puedes conseguirlas de los ^0000CDBasiliscos^000000. ¿Cuántas veces tengo que decírtelo? ¡Creo que lo dije unas 100 veces!"
+        "es-ES": "[Eggling]\nQué estupidez... Te dije que trajeras ^0000CD3^000000. ¡Dije 3! Puedes conseguirlas de los ^0000CDBasiliscos^000000. ¿Cuántas veces tengo que decírtelo? ¡Creo que lo dije unas 100 veces!"
     },
     "k0EBCA": {
         "en-US": "[Eggling]\nYou wouldn't get on the ship until you bring it to me!",
@@ -302,7 +302,7 @@
     "nEEBCA": {
         "en-US": "[{0}]\nHere...",
         "pt-BR": "[{0}]\nAqui está...",
-        "es-ES": "[{0}]\nAquí…"
+        "es-ES": "[{0}]\nAquí..."
     },
     "nUEBCA": {
         "en-US": "[Eggling]\nHey, adventurer! Is it your first voyage?",
@@ -347,7 +347,7 @@
     "pUEBCA": {
         "en-US": "[Eggling]\nYou seem to understand it so well. I like it. What is your name, by the way? Haha...",
         "pt-BR": "[Miauxuruca]\nAliás, só por curiosidade, qual é o seu nome?",
-        "es-ES": "[Eggling]\nPareces entenderlo muy bien. Me gusta. Por cierto, ¿cómo te llamas? Ja, ja…"
+        "es-ES": "[Eggling]\nPareces entenderlo muy bien. Me gusta. Por cierto, ¿cómo te llamas? Ja, ja..."
     },
     "pkEBCA": {
         "en-US": "[{0}]\nMy name is{0}.",
@@ -457,7 +457,7 @@
     "u0EBCA": {
         "en-US": "Nya nya nya... A problem.",
         "pt-BR": "Isso é péssimo...",
-        "es-ES": "Miau, miau, miau… Un problema."
+        "es-ES": "Miau, miau, miau... Un problema."
     },
     "vEEBCA": {
         "en-US": "[{0}]\nI have handed it over. And the Boatswain wanted to know when the ^0000CDSailing Signal^000000 would be issued.",
@@ -502,7 +502,7 @@
     "xEEBCA": {
         "en-US": "[{0}]\nThe fog...?",
         "pt-BR": "[{0}]\nUma neblina...?",
-        "es-ES": "[{0}]\n¿La niebla…?"
+        "es-ES": "[{0}]\n¿La niebla...?"
     },
     "xUEBCA": {
         "en-US": "[Purser]\nYes. The ^0000CDfog^000000 over the sea. The sea fog.",
@@ -572,7 +572,7 @@
     "0kEBCA": {
         "en-US": "[Purser]\nI suppose so. They must be drinking Kahlugna Milk and snoring somewhere. They will come back when it is the time to set off. You can meet them then...",
         "pt-BR": "[Comissário]\nEles devem estar por aí tomando Leite de Kaluna. Mas tenho certeza de que voltarão até a hora de partirmos.",
-        "es-ES": "[Sobrecargo]\nSupongo que sí. Deben estar bebiendo Leche de Kahluna y roncando en alguna parte. Volverán cuando llegue la hora de partir. Podrás conocerlos entonces…"
+        "es-ES": "[Sobrecargo]\nSupongo que sí. Deben estar bebiendo Leche de Kahluna y roncando en alguna parte. Volverán cuando llegue la hora de partir. Podrás conocerlos entonces..."
     },
     "00EBCA": {
         "en-US": "They will come back when it is the time to set off anyway.",
@@ -622,7 +622,7 @@
     "3EEBCA": {
         "en-US": "[Purser]\nI smell something. The smell of a rookie...\nYou are?",
         "pt-BR": "[Comissário]\nVocê cheira a... alguém inexperiente.\nQual é seu nome?",
-        "es-ES": "[Sobrecargo]\nHuelo algo. El olor a principiante…\n¿Tú eres…?"
+        "es-ES": "[Sobrecargo]\nHuelo algo. El olor a principiante...\n¿Tú eres...?"
     },
     "3UEBCA": {
         "en-US": "Tell me your name.",
@@ -642,7 +642,7 @@
     "4EEBCA": {
         "en-US": "[{0}]\nYes... Nice to meet you.",
         "pt-BR": "[{0}]\nAguardo as ordens!",
-        "es-ES": "[{0}]\nSí… Qué bueno conocerte."
+        "es-ES": "[{0}]\nSí... Qué bueno conocerte."
     },
     "4UEBCA": {
         "en-US": "[Purser]\ndon't need to sweat. I believe you have got enough training out there so there is not much for you to do now. Why don't you go and familiarize yourself with the crews and their name?",
@@ -817,7 +817,7 @@
     "A0IBCA": {
         "en-US": "My house was the invisible prison trapping me inside and I was a bird longing for freedom...",
         "pt-BR": "Para alguém que queria tanto se aventurar, ficar em casa era uma prisão...",
-        "es-ES": "Mi casa era la prisión invisible que me impedía salir, y yo era un pájaro que ansiaba la libertad…"
+        "es-ES": "Mi casa era la prisión invisible que me impedía salir, y yo era un pájaro que ansiaba la libertad..."
     },
     "BEIBCA": {
         "en-US": "[Stello]\nOh, strange. This is not the story I have heard from your mother, Captain. She said you didn't want to help the butcher's shop business, and you went out from the early morning.",
@@ -847,7 +847,7 @@
     "CUIBCA": {
         "en-US": "[Stello]\nI heard that story. That's why you were called the mad...",
         "pt-BR": "[Stello]\nAaaah, então foi nessa época que você começou a ser chamado de...",
-        "es-ES": "[Stello]\nEscuché esa historia. Por eso, te llamaban el perro…"
+        "es-ES": "[Stello]\nEscuché esa historia. Por eso, te llamaban el perro..."
     },
     "CkIBCA": {
         "en-US": "No, never mind.",
@@ -857,22 +857,22 @@
     "C0IBCA": {
         "en-US": "[Gamberi]\nI was interested in the fishing industry, and I went into the ^0000CDanchovy processing^000000 business with Pepperoncino. We made a fortune. We wondered what to do with all the money we had...",
         "pt-BR": "[Capitão Gamberi]\nEu sempre me interessei muito por pesca, então o Peperocino e eu começamos a pescar e vender ^0000CDanchovas^000000. Fizemos muito dinheiro com esse negócio, e estávamos pensando em como usá-lo...",
-        "es-ES": "[Gamberi]\nMe interesaba la industria pesquera y entré en el negocio del ^0000CDprocesado de anchoas^000000 con Peperoncino. Hicimos una fortuna. Nos preguntábamos qué hacer con todo el dinero que teníamos…"
+        "es-ES": "[Gamberi]\nMe interesaba la industria pesquera y entré en el negocio del ^0000CDprocesado de anchoas^000000 con Peperoncino. Hicimos una fortuna. Nos preguntábamos qué hacer con todo el dinero que teníamos..."
     },
     "DEIBCA": {
         "en-US": "[Stello]\nIt really was...",
         "pt-BR": "[Stello]\nBem, na verdade, esse dinheiro era pra...",
-        "es-ES": "[Stello]\nLa verdad, fue…"
+        "es-ES": "[Stello]\nLa verdad, fue..."
     },
     "DUIBCA": {
         "en-US": "Really was?",
         "pt-BR": "Sim? Por favor, continue.",
-        "es-ES": "¿La verdad fue…?"
+        "es-ES": "¿La verdad fue...?"
     },
     "DkIBCA": {
         "en-US": "No, never mind me...",
         "pt-BR": "Nada, desculpe.",
-        "es-ES": "No, no dije nada…"
+        "es-ES": "No, no dije nada..."
     },
     "D0IBCA": {
         "en-US": "[Gamberi]\nYou may not see it now, but Lasagna used to be a dark place. Bad Dorams everywhere on the street, and there were a lot of fights.",
@@ -887,12 +887,12 @@
     "EUIBCA": {
         "en-US": "[Gamberi]\nIt was 10 years ago when peace was brought to this town as Pepperoncino and Thomas worked together in accord...",
         "pt-BR": "[Capitão Gamberi]\nHá mais ou menos dez anos, Peperocino, Tomas e eu nos juntamos e trouxemos paz a Lasagna...",
-        "es-ES": "[Gamberi]\nFue hace 10 años cuando la paz llegó a este pueblo gracias a la colaboración entre Peperoncino y Thomas…"
+        "es-ES": "[Gamberi]\nFue hace 10 años cuando la paz llegó a este pueblo gracias a la colaboración entre Peperoncino y Thomas..."
     },
     "EkIBCA": {
         "en-US": "[Stello]\nYou needed some manpower...",
         "pt-BR": "[Stello]\nBom, eles precisaram de muita ajuda dos outros e...",
-        "es-ES": "[Stello]\nNecesitabas mano de obra…"
+        "es-ES": "[Stello]\nNecesitabas mano de obra..."
     },
     "E0IBCA": {
         "en-US": "......",
@@ -902,7 +902,7 @@
     "FEIBCA": {
         "en-US": "....... Huh...",
         "pt-BR": "E... e... Nada. Desculpe.",
-        "es-ES": "....... Mmm…"
+        "es-ES": "....... Mmm..."
     },
     "FUIBCA": {
         "en-US": "[Gamberi]\nI met Stello then. I ^0000CDcorrected Stello who was a pickpocket^000000 back then. He has become the Chief Office.",
@@ -942,7 +942,7 @@
     "HEIBCA": {
         "en-US": "[Stello]\nAre you going to join me or get punched in the face? Are you going to keep living in the gutter? Who wouldn't join the vigilante corps hearing those threats...",
         "pt-BR": "[Stello]\nTambém, o capitão praticamente ameaçava as pessoas pra fazerem parte... ''Você quer continuar vivendo desse jeito?'', ''Esse é o futuro que você quer para os seus filhos?''",
-        "es-ES": "[Stello]\n¿Te unirás o recibirás un puñetazo en el rostro? ¿Piensas seguir viviendo en la miseria? ¿Quién no se uniría al cuerpo de justicieros después de oír esas amenazas…?"
+        "es-ES": "[Stello]\n¿Te unirás o recibirás un puñetazo en el rostro? ¿Piensas seguir viviendo en la miseria? ¿Quién no se uniría al cuerpo de justicieros después de oír esas amenazas...?"
     },
     "HUIBCA": {
         "en-US": "[Gamberi]\nStello?",
@@ -977,7 +977,7 @@
     "I0IBCA": {
         "en-US": "[Stello]\nThat was because Pepperoncino...",
         "pt-BR": "[Stello]\nBem, mas...",
-        "es-ES": "[Stello]\nEso fue porque Peperoncino…"
+        "es-ES": "[Stello]\nEso fue porque Peperoncino..."
     },
     "JEIBCA": {
         "en-US": "It was because of Pepperoncino.",
@@ -987,7 +987,7 @@
     "JUIBCA": {
         "en-US": "Well, he may have had some influence...",
         "pt-BR": "Bem, até certo ponto, sim... Não posso negar que ele ajudou.",
-        "es-ES": "Bueno, puede haber tenido alguna influencia…"
+        "es-ES": "Bueno, puede haber tenido alguna influencia..."
     },
     "JkIBCA": {
         "en-US": "[Gamberi]\nAnd we were caught in a storm and parted with ^0000CDThomas' ship, Navi^000000. We kept on looking for Navi.",
@@ -1107,7 +1107,7 @@
     "PUIBCA": {
         "en-US": "The fog...",
         "pt-BR": "Nossa, que neblina densa!",
-        "es-ES": "La niebla…"
+        "es-ES": "La niebla..."
     },
     "PkIBCA": {
         "en-US": "[Stello]\nOh, the red ^0000CDfog^000000! It seemed all right just a while ago!",
@@ -1217,7 +1217,7 @@
     "U0IBCA": {
         "en-US": "[Stello]\nHum... OK. Please go to see ^0000CDthe vigilante guarding the south bridge of the village^000000, and check the state of the dragon.",
         "pt-BR": "[Stello]\nHmm... tudo bem. Vá encontrar o ^0000CDPannacotta. Ele está na ponte na parte sul da vila^000000.",
-        "es-ES": "[Stello]\nMmm… De acuerdo. Ve a ver al ^0000CDjusticiero que vigila el puente sur de la aldea^000000 y averigua el estado del dragón."
+        "es-ES": "[Stello]\nMmm... De acuerdo. Ve a ver al ^0000CDjusticiero que vigila el puente sur de la aldea^000000 y averigua el estado del dragón."
     },
     "VEIBCA": {
         "en-US": "[Stello]\nSince the condition of the dragon is very important in Lasagna, the vigilantes check it at all time.",
@@ -1262,7 +1262,7 @@
     "XEIBCA": {
         "en-US": "[{0}]\nWell, is this...",
         "pt-BR": "[{0}]\nBem...",
-        "es-ES": "[{0}]\nBueno, esto es…"
+        "es-ES": "[{0}]\nBueno, esto es..."
     },
     "XUIBCA": {
         "en-US": "[{0}]\nHello, I am{0}who is on a new adventure.",
@@ -1277,7 +1277,7 @@
     "X0IBCA": {
         "en-US": "Knock... Yes, it is very important to knock.",
         "pt-BR": "Mas nunca se esqueça de bater na porta.",
-        "es-ES": "Golpea… Sí, es muy importante llamar a la puerta."
+        "es-ES": "Golpea... Sí, es muy importante llamar a la puerta."
     },
     "YEIBCA": {
         "en-US": "[Captain Gamberi]\nI am Captain^0000CDGamberi^000000 in charge of this ship. Welcome aboard.",
@@ -1367,7 +1367,7 @@
     "cUIBCA": {
         "en-US": "[Captain Gamberi]\nWe were wondering if we had to go down there to recover your dead body...",
         "pt-BR": "[Capitão Gamberi]\nEstávamos planejando como resgataríamos seu corpo caso...",
-        "es-ES": "[Capitán Gamberi]\nNos preguntábamos si teníamos que bajar a recuperar tu cadáver…"
+        "es-ES": "[Capitán Gamberi]\nNos preguntábamos si teníamos que bajar a recuperar tu cadáver..."
     },
     "ckIBCA": {
         "en-US": "[{0}]\nWhat? Was it such a dangerous mission?",
@@ -1482,7 +1482,7 @@
     "iEIBCA": {
         "en-US": "[Stello]\nJust saying... It doesn't hurt to say that.",
         "pt-BR": "[Stello]\nEi, eu estou só perguntando. Perguntar não ofende, certo?",
-        "es-ES": "[Stello]\nSolo digo… No está de más decirlo."
+        "es-ES": "[Stello]\nSolo digo... No está de más decirlo."
     },
     "iUIBCA": {
         "en-US": "[{0}]\nDear Chief Officer!",
@@ -1507,7 +1507,7 @@
     "jUIBCA": {
         "en-US": "Oh, that! I must have put it near here...",
         "pt-BR": "Ah, é claro!",
-        "es-ES": "¡Ah, eso! Debo haberlo puesto por aquí…"
+        "es-ES": "¡Ah, eso! Debo haberlo puesto por aquí..."
     },
     "jkIBCA": {
         "en-US": "[Stello]\nOh! How did you know?",
@@ -1527,7 +1527,7 @@
     "kUIBCA": {
         "en-US": "[{0}]\nWhat... What is it?",
         "pt-BR": "[{0}]\nAh, agora eu quero!",
-        "es-ES": "[{0}]\n¿Qué…? ¿Qué sucede?"
+        "es-ES": "[{0}]\n¿Qué...? ¿Qué sucede?"
     },
     "kkIBCA": {
         "en-US": "[Stello]\nIt is the little present prepared for the novice adventurer by the leader of Farfalle vigilante corps and the captain of Con-Chilina in celebration of the first mission.",
@@ -1572,7 +1572,7 @@
     "mkIBCA": {
         "en-US": "[Stello]\nHow is the dragon doing? Is it still upset? We cannot afford any more delay...",
         "pt-BR": "[Stello]\nAlguma novidade para reportar?",
-        "es-ES": "[Stello]\n¿Cómo está el dragón? ¿Sigue molesto? No podemos permitirnos más retrasos…"
+        "es-ES": "[Stello]\n¿Cómo está el dragón? ¿Sigue molesto? No podemos permitirnos más retrasos..."
     },
     "m0IBCA": {
         "en-US": "[Stello]\nWhat is going on?",
@@ -1597,7 +1597,7 @@
     "n0IBCA": {
         "en-US": "[Stello]\nHum... This fog must be...",
         "pt-BR": "[Stello]\nHmm... Essa neblina é... obviamente...",
-        "es-ES": "[Stello]\nMmm… Esta niebla debe ser…"
+        "es-ES": "[Stello]\nMmm... Esta niebla debe ser..."
     },
     "oEIBCA": {
         "en-US": "[Captain Gamberi]\nIt is ^0000CDthat one^000000 again.",
@@ -1637,7 +1637,7 @@
     "p0IBCA": {
         "en-US": "[Stello]\n... I guess I should go. Damn it.",
         "pt-BR": "[Stello]\n...Tá. Eu vou, saco.",
-        "es-ES": "[Stello]\n… Supongo que debería irme. Maldita sea."
+        "es-ES": "[Stello]\n... Supongo que debería irme. Maldita sea."
     },
     "qEIBCA": {
         "en-US": "He will just make things worse.",
@@ -1657,7 +1657,7 @@
     "q0IBCA": {
         "en-US": "[{0}]\nWell... The Purser has sent me to take care of the problem.",
         "pt-BR": "[{0}]\nErr... Quando o Comissário me enviou, ele sugeriu que eu resolvesse a situação por conta própria.",
-        "es-ES": "[{0}]\nBueno… El sobrecargo me envió para ocuparme del problema."
+        "es-ES": "[{0}]\nBueno... El sobrecargo me envió para ocuparme del problema."
     },
     "rEIBCA": {
         "en-US": "[Stello]\nThere is.",
@@ -1857,7 +1857,7 @@
     "00IBCA": {
         "en-US": "[{0}]\nThen, the captain must have...?",
         "pt-BR": "[{0}]\nO capitão... Fez algo de errado?",
-        "es-ES": "[{0}]\nEntonces, ¿el capitán debe tener…?"
+        "es-ES": "[{0}]\nEntonces, ¿el capitán debe tener...?"
     },
     "1EIBCA": {
         "en-US": "[Recorder]\nAs more people started using the ship and accessing the record, he must have felt embarrassed by the record filled with his not so pretty past.",
@@ -1927,7 +1927,7 @@
     "4UIBCA": {
         "en-US": "[Recorder]\nHowever, I cannot let the records be lost like this. What should I do...",
         "pt-BR": "[Arquivista]\nMas não posso deixar a nossa história esburacada desse jeito...",
-        "es-ES": "[Registrador]\nPero no puedo dejar que los registros se pierdan así. ¿Qué debo hacer…?"
+        "es-ES": "[Registrador]\nPero no puedo dejar que los registros se pierdan así. ¿Qué debo hacer...?"
     },
     "4kIBCA": {
         "en-US": "[{0}]\nHow about asking Captain Thomas of Navi?",
@@ -1952,7 +1952,7 @@
     "5kIBCA": {
         "en-US": "[Recorder]\nLasagna is somewhere you just drop by to make some dough when you are young. Most of them just leave this place...",
         "pt-BR": "[Arquivista]\nPuxa... Lasagna é uma cidade em que as pessoas saem muito jovens. É um lugar apenas para começar suas jornadas...",
-        "es-ES": "[Registrador]\nLasagna es solo un lugar donde uno pasa cuando es joven para hacer algo de dinero. La mayoría deja este lugar sin más…"
+        "es-ES": "[Registrador]\nLasagna es solo un lugar donde uno pasa cuando es joven para hacer algo de dinero. La mayoría deja este lugar sin más..."
     },
     "50IBCA": {
         "en-US": "[Recorder]\nOh, you are right. There is ^0000CDthis one person^000000.",
@@ -1962,7 +1962,7 @@
     "6EIBCA": {
         "en-US": "[Recorder]\nWhere the Adventurer Club is now, there used to be ^0000CDPub-Oven^000000. The place used to sell Kahlugna Milk. You can go to see ^0000CDthe first owner^000000 of the place. However...",
         "pt-BR": "[Arquivista]\nSabe onde fica o Clube dos Aventureiros? A ^9370DBdona da extinta Taverna Forninho^000000 mora ali perto. No entanto...",
-        "es-ES": "[Registrador]\nDonde ahora está el Club de Trotamundos, antes estaba el ^0000CDbar Oven^000000. El lugar solía vender Leche de Kahluna. Puedes ir a ver a ^0000CDla primera propietaria^000000 del lugar. Sin embargo…"
+        "es-ES": "[Registrador]\nDonde ahora está el Club de Trotamundos, antes estaba el ^0000CDbar Oven^000000. El lugar solía vender Leche de Kahluna. Puedes ir a ver a ^0000CDla primera propietaria^000000 del lugar. Sin embargo..."
     },
     "6UIBCA": {
         "en-US": "[{0}]\nWhat's the problem?",
@@ -1972,7 +1972,7 @@
     "6kIBCA": {
         "en-US": "[Recorder]\nHowever, she doesn't think clearly now... I guess she may remember the past more vividly because of it. It is like she is living in the past.",
         "pt-BR": "[Arquivista]\nEla não tá muito bem da cabeça... mas pode nos ajudar. Na cabeça dela, ela ainda está vivendo nos tempos antigos.",
-        "es-ES": "[Registrador]\nTen en cuenta que ahora no piensa con claridad… Quizás recuerde el pasado más vívidamente por ello. Es como si viviera en el pasado."
+        "es-ES": "[Registrador]\nTen en cuenta que ahora no piensa con claridad... Quizás recuerde el pasado más vívidamente por ello. Es como si viviera en el pasado."
     },
     "60IBCA": {
         "en-US": "[Recorder]\nGo to meet ^0000CDthe old lady who used to be the owner of Pub-Oven^000000. She is living in a ^0000CD small house near the Adventurer Club^000000.",
@@ -2092,7 +2092,7 @@
     "AkMBCA": {
         "en-US": "[Recorder]\nI told not to disturb... Oh, who are you?",
         "pt-BR": "[Arquivista]\nEu já falei pra você não me atrap... Oh, quem é você?",
-        "es-ES": "[Registrador]\nDije que no me molestaran… Ah, ¿quién eres?"
+        "es-ES": "[Registrador]\nDije que no me molestaran... Ah, ¿quién eres?"
     },
     "A0MBCA": {
         "en-US": "[{0}]\nHello. I am an adventurer who has set off on an adventure on Con-Chilina.",
@@ -2102,12 +2102,12 @@
     "BEMBCA": {
         "en-US": "[{0}]\nYou must be...{0}. Right? I remember.",
         "pt-BR": "[{0}]\nVocê se chama... {0}. Certo.",
-        "es-ES": "[{0}]\nTú debes ser… {0}. ¿Verdad? Lo recuerdo."
+        "es-ES": "[{0}]\nTú debes ser... {0}. ¿Verdad? Lo recuerdo."
     },
     "BUMBCA": {
         "en-US": "Since you were... No, never mind.",
         "pt-BR": "Hmm... já que está aqui...",
-        "es-ES": "Ya que estabas… No, olvídalo."
+        "es-ES": "Ya que estabas... No, olvídalo."
     },
     "BkMBCA": {
         "en-US": "[{0}]\nHello, I am {0}, looking for adventure from the new continent. I am here to say hi as the Purser has advised.",
@@ -2122,7 +2122,7 @@
     "CEMBCA": {
         "en-US": "[Recorder]\nLet me record your profile now. Oh, you don't need to do anything. You may just stand there. Your name is...{0}...The height must be... and the color is... like this...",
         "pt-BR": "[Arquivista]\nAgora deixe-me registrar seus dados. Aguarde um momento. Nome, {0}... Sua altura é... Cor... Tamanho da calça...",
-        "es-ES": "[Registrador]\nPermíteme registrar tu perfil ahora. No hace falta que hagas nada. Puedes quedarte de pie allí. Tu nombre es…{0}. La altura debe ser… y el color es… así…"
+        "es-ES": "[Registrador]\nPermíteme registrar tu perfil ahora. No hace falta que hagas nada. Puedes quedarte de pie allí. Tu nombre es...{0}. La altura debe ser... y el color es... así..."
     },
     "CUMBCA": {
         "en-US": "The people from the new continent are so tall.",
@@ -2132,7 +2132,7 @@
     "CkMBCA": {
         "en-US": "[Recorder]\nOh, never mind. I am not writing down your faults... This is enough.",
         "pt-BR": "[Arquivista]\nCerto. Isso deve ser o suficiente.",
-        "es-ES": "[Registrador]\nAh, no importa. No estoy anotando tus defectos… Esto es suficiente."
+        "es-ES": "[Registrador]\nAh, no importa. No estoy anotando tus defectos... Esto es suficiente."
     },
     "C0MBCA": {
         "en-US": "[{0}]\nHow do you know such things in detail?",
@@ -2252,7 +2252,7 @@
     "IkMBCA": {
         "en-US": "It was a relief that not all of it had been gone...",
         "pt-BR": "Era uma página com muitas informações...",
-        "es-ES": "Fue un alivio que no se haya perdido todo…"
+        "es-ES": "Fue un alivio que no se haya perdido todo..."
     },
     "I0MBCA": {
         "en-US": "[{0}]\nWhat were the missing pages about?",
@@ -2387,7 +2387,7 @@
     "PUMBCA": {
         "en-US": "[Recorder]\nThe basilisk is... No, never mind.",
         "pt-BR": "[Arquivista]\nO basilisco é... Não, deixa pra lá.",
-        "es-ES": "[Registrador]\nLos Basiliscos están… No, olvídalo."
+        "es-ES": "[Registrador]\nLos Basiliscos están... No, olvídalo."
     },
     "PkMBCA": {
         "en-US": "[Recorder]\nYou are one your way to meet Tartufi. That dragon is so interesting and I wish I had more conversation with it. However, it is just very dificult.",
@@ -2452,17 +2452,17 @@
     "SkMBCA": {
         "en-US": "[Recorder]\nYour name is...{0}...The height must be... and the color is... like this... The accent of yours... You must have lived in Pane and moved to Bongola.",
         "pt-BR": "[Arquivista]\nSeu nome é...{0}... A altura deve ser... e a cor é... assim... O seu sotaque...",
-        "es-ES": "[Registrador]\nTu nombre es…{0}. La altura debe ser... y el color es... así... Tu acento... Debes haber vivido en Pane y mudado a Bongola."
+        "es-ES": "[Registrador]\nTu nombre es...{0}. La altura debe ser... y el color es... así... Tu acento... Debes haber vivido en Pane y mudado a Bongola."
     },
     "S0MBCA": {
         "en-US": "And you are here in Lasagna...",
         "pt-BR": "E você está aqui em Lasagna...",
-        "es-ES": "Y estás aquí, en Lasagna…"
+        "es-ES": "Y estás aquí, en Lasagna..."
     },
     "TEMBCA": {
         "en-US": "[Recorder]\nThe dirt and grass on your feet... You are not a neat person... Oh, never mind. I am not writing down your faults... This is enough.",
         "pt-BR": "[Arquivista]\nA terra e a grama nos seus pés... Você não é uma pessoa organizada... Ah, deixa pra lá. Não vou anotar seus defeitos... Já chega.",
-        "es-ES": "[Registrador]\nLa tierra y el césped bajo tus pies… No eres una persona ordenada… Ah, no importa. No estoy anotando tus defectos… Esto es suficiente."
+        "es-ES": "[Registrador]\nLa tierra y el césped bajo tus pies... No eres una persona ordenada... Ah, no importa. No estoy anotando tus defectos... Esto es suficiente."
     },
     "TUMBCA": {
         "en-US": "[Recorder]\nLet's see, you must have met the Captain and the Chief Officer. This place must be your second stop.",
@@ -2537,7 +2537,7 @@
     "W0MBCA": {
         "en-US": "[Sous Chef]\nCat's Ship Biscuit and Malangdo Canned Food... Well, they will last long enough.",
         "pt-BR": "[Sous-chef]\nEssas comidas vão durar bastante...",
-        "es-ES": "[Sous-chef]\nGalleta Marinera Gatuna y Conservas de Malangdo… Bueno, durarán lo suficiente."
+        "es-ES": "[Sous-chef]\nGalleta Marinera Gatuna y Conservas de Malangdo... Bueno, durarán lo suficiente."
     },
     "XEMBCA": {
         "en-US": "I can feed them to my grandchildren.",
@@ -2562,7 +2562,7 @@
     "YEMBCA": {
         "en-US": "[Sous Chef]\nOh, this is the Bun... It sure is hot and huge. This is totally different from that of our side.",
         "pt-BR": "[Sous-chef]\nAh, esse é o tal do Bolinho... Tão quentinho. As coisas do novo mundo realmente são diferentes.",
-        "es-ES": "[Sous-chef]\nAh, este es el Bollo… Está caliente y es enorme. Es muy distinto a lo que hay en nuestro lado."
+        "es-ES": "[Sous-chef]\nAh, este es el Bollo... Está caliente y es enorme. Es muy distinto a lo que hay en nuestro lado."
     },
     "YUMBCA": {
         "en-US": "Give me one. Even one of them would be enough to keep me full all day.",
@@ -2722,7 +2722,7 @@
     "gEMBCA": {
         "en-US": "[Sous Chef]\nI told you not to enter the kitchen like that... Oh... You seem familiar...",
         "pt-BR": "[Sous-chef]\nEu te disse para não entrar na cozinha desse jeito... Ah... Você parece familiar...",
-        "es-ES": "[Sous-chef]\nTe dije que no entraras así a la cocina… Oh… Me resultas familiar…"
+        "es-ES": "[Sous-chef]\nTe dije que no entraras así a la cocina... Oh... Me resultas familiar..."
     },
     "gUMBCA": {
         "en-US": "[{0}]\nHello. I am an adventurer{0}who has set off on an adventure on Con-Killina.",
@@ -2747,7 +2747,7 @@
     "hUMBCA": {
         "en-US": "[Sous Chef]\nI told you not to enter the kitchen like that... Oh... Are you from the new continent?",
         "pt-BR": "[Sous-chef]\nOh... Você é do novo mundo?",
-        "es-ES": "[Sous-chef]\nTe dije que no entraras así a la cocina… Oh… ¿Eres del nuevo continente?"
+        "es-ES": "[Sous-chef]\nTe dije que no entraras así a la cocina... Oh... ¿Eres del nuevo continente?"
     },
     "hkMBCA": {
         "en-US": "The new continent! The new continent!",
@@ -2852,7 +2852,7 @@
     "mkMBCA": {
         "en-US": "[{0}]\nHum, there are many kinds of food. We also hunt the ingredients and cook. There are many things for sure...",
         "pt-BR": "[{0}]\nHã... Tem muitos tipos de comida... É difícil escolher um prato só.",
-        "es-ES": "[{0}]\nMm, hay muchos tipos de comida. También cazamos los ingredientes y los cocinamos. Seguro que hay muchas cosas…"
+        "es-ES": "[{0}]\nMm, hay muchos tipos de comida. También cazamos los ingredientes y los cocinamos. Seguro que hay muchas cosas..."
     },
     "m0MBCA": {
         "en-US": "[Sous Chef]\nI happen to have a ^0000CDCookbook of the new continent^000000. Do you have any of the ingredients for the food now?",
@@ -2862,12 +2862,12 @@
     "nEMBCA": {
         "en-US": "[{0}]\nNot really...",
         "pt-BR": "[{0}]\nAgora, agora, eu não tenho nada...",
-        "es-ES": "[{0}]\nEn realidad, no…"
+        "es-ES": "[{0}]\nEn realidad, no..."
     },
     "nUMBCA": {
         "en-US": "[Sous Chef]\nWell, then let me ask you a favor. Please bring me some of the ingredients in this ^0000CDCookbook^000000. This thing called ^0000CDMastela Fruit Wine^000000... I am curious about this, but it requires some ingredients which are not found here.",
         "pt-BR": "[Sous-chef]\nEntão faça-me um favor: pode encontrar os ingredientes listados nesse ^0000CDLivro de Receitas?^000000. Vinho de Ma... Marcela? Ah, ^0000CDVinho de Mastela^000000. Estou curioso sobre esta bebida e gostaria de prepará-la.",
-        "es-ES": "[Sous-chef]\nBueno, entonces déjame pedirte un favor. Tráeme algunos de los ingredientes de este ^0000CDlibro de cocina^000000. Esta cosa llamada ^0000CDVino de frutas de Mastela^000000… Esto me interesa, pero requiere algunos ingredientes que no se encuentran aquí."
+        "es-ES": "[Sous-chef]\nBueno, entonces déjame pedirte un favor. Tráeme algunos de los ingredientes de este ^0000CDlibro de cocina^000000. Esta cosa llamada ^0000CDVino de frutas de Mastela^000000... Esto me interesa, pero requiere algunos ingredientes que no se encuentran aquí."
     },
     "nkMBCA": {
         "en-US": "[Sous Chef]\nAnd please get me some ^0000CDCat's Ship Biscuit made by the Head Chef of Navi^000000 as well. I have heard that it doesn't taste good, but it is nutritious and easy to store.",
@@ -3252,12 +3252,12 @@
     "6kMBCA": {
         "en-US": "Yes, I did. The kids these days...They sure are reckless...",
         "pt-BR": "Pois é. Essas crianças estão ousadas...",
-        "es-ES": "Sí. La juventud de hoy en día… Qué imprudentes…"
+        "es-ES": "Sí. La juventud de hoy en día... Qué imprudentes..."
     },
     "60MBCA": {
         "en-US": "[{0}]\nI don't mean.... I don't mean... That...",
         "pt-BR": "[{0}]\nN-não! Você não entendeu! O Miauxuruca...",
-        "es-ES": "[{0}]\nNo quería decir… No quería decir… Eso…"
+        "es-ES": "[{0}]\nNo quería decir... No quería decir... Eso..."
     },
     "7EMBCA": {
         "en-US": "[Sous Chef]\nYou tiny rat! Now tell me. I don't think a rookie like you would come up with this on your own. Who sent you here?",
@@ -3277,7 +3277,7 @@
     "70MBCA": {
         "en-US": "Wait, that guy is holding...",
         "pt-BR": "Ah, mas olha o que tá nas mãos dele...",
-        "es-ES": "Espera, ese sujeto está sosteniendo…"
+        "es-ES": "Espera, ese sujeto está sosteniendo..."
     },
     "8EMBCA": {
         "en-US": "[Helmsman]\nSous Chef! I think this guy's telling the truth. It is ordered by you, right?",
@@ -3507,12 +3507,12 @@
     "HUQBCA": {
         "en-US": "[Boatswain]\nArgh... Give it to me. No, no. Not like that. Just wrap it a little so that no one can see. Right. Like that. Give me all you have.",
         "pt-BR": "[Barqueiro]\nOh, obrigado!",
-        "es-ES": "[Contramaestre]\nAy… ¡Dámelas! No, no. Así no. Envuélvelas un poco para que nadie las vea. Bien. Así. Dame todo lo que tengas."
+        "es-ES": "[Contramaestre]\nAy... ¡Dámelas! No, no. Así no. Envuélvelas un poco para que nadie las vea. Bien. Así. Dame todo lo que tengas."
     },
     "HkQBCA": {
         "en-US": "I can't believe I should keep it with me all day...",
         "pt-BR": "Não acredito que tenho que ficar com ele comigo o dia todo...",
-        "es-ES": "No puedo creer que deba tenerlas conmigo todo el día…"
+        "es-ES": "No puedo creer que deba tenerlas conmigo todo el día..."
     },
     "H0QBCA": {
         "en-US": "[{0}]\nThis is difficult.",
@@ -3532,7 +3532,7 @@
     "IkQBCA": {
         "en-US": "[Boatswain]\nThis... This is...",
         "pt-BR": "[Barqueiro]\nNa verdade...",
-        "es-ES": "[Contramaestre]\nEsto… Esto es…"
+        "es-ES": "[Contramaestre]\nEsto... Esto es..."
     },
     "I0QBCA": {
         "en-US": "[{0}]\nWhat do you think?",
@@ -3687,12 +3687,12 @@
     "QUQBCA": {
         "en-US": "[Boatswain]\nWhat? Wait... That is...",
         "pt-BR": "[Barqueiro]\nPera... Oi?",
-        "es-ES": "[Contramaestre]\n¿Qué? Espera… Eso no…"
+        "es-ES": "[Contramaestre]\n¿Qué? Espera... Eso no..."
     },
     "QkQBCA": {
         "en-US": "That is not good... I won't last?",
         "pt-BR": "Hoje? Amanhã?!",
-        "es-ES": "Eso no es bueno… ¿No duraré?"
+        "es-ES": "Eso no es bueno... ¿No duraré?"
     },
     "Q0QBCA": {
         "en-US": "[{0}]\nYou can survive through a day with a ^0000CDdaily amulet^000000. I guess you should be closer to the Shaman meow now.",
@@ -3712,17 +3712,17 @@
     "RkQBCA": {
         "en-US": "[Boatswain]\nBa... Basilisks... Out of the frying pan into the fire. I don't like to deal with those dirty things.",
         "pt-BR": "[Barqueiro]\nB-Basiliscos? Esse forninho já não tá pesado o suficiente pra eu carregar? Eu vou ter que enfrentar BASILISCOS?",
-        "es-ES": "[Contramaestre]\nBa… Basiliscos… De mal en peor. No me gusta tratar con esas cosas sucias."
+        "es-ES": "[Contramaestre]\nBa... Basiliscos... De mal en peor. No me gusta tratar con esas cosas sucias."
     },
     "R0QBCA": {
         "en-US": "Should I just jump off the deck...?",
         "pt-BR": "Acho que preferiria andar na prancha...",
-        "es-ES": "¿Debería saltar por la cubierta…?"
+        "es-ES": "¿Debería saltar por la cubierta...?"
     },
     "SEQBCA": {
         "en-US": "[{0}]\nWell, That's it from me. I should get going...",
         "pt-BR": "[{0}]\nBom, isso é tudo. Eu vou-me indo...",
-        "es-ES": "[{0}]\nBueno, eso es todo de mi parte. Debería ir…"
+        "es-ES": "[{0}]\nBueno, eso es todo de mi parte. Debería ir..."
     },
     "SUQBCA": {
         "en-US": "[Boatswain]\nYeah, the stranger taking care of this problem. It must have been our destiny.",
@@ -3797,7 +3797,7 @@
     "V0QBCA": {
         "en-US": "Oh! You adventurer! You don't want to deal with him so seriously...!",
         "pt-BR": "Não o leve a sério.",
-        "es-ES": "¡Ah! ¡Trotamundos! ¡No querrás tratar con él tan seriamente…!"
+        "es-ES": "¡Ah! ¡Trotamundos! ¡No querrás tratar con él tan seriamente...!"
     },
     "WEQBCA": {
         "en-US": "[{0}]\nI don't know much about sailing, but none of those sounds relevant to the ship.",
@@ -3807,7 +3807,7 @@
     "WUQBCA": {
         "en-US": "[Boatswain]\nIt is not your business... Well, ^0000CDa stranger from a new place is supposed to solve this problem^000000.",
         "pt-BR": "[Barqueiro]\nNada, só não estamos prontos para essa viagem... Err...",
-        "es-ES": "[Contramaestre]\nNo es asunto tuyo… Bueno, se supone que ^0000CDuna persona extraña de un nuevo lugar resuelva este problema^000000."
+        "es-ES": "[Contramaestre]\nNo es asunto tuyo... Bueno, se supone que ^0000CDuna persona extraña de un nuevo lugar resuelva este problema^000000."
     },
     "WkQBCA": {
         "en-US": "And here is a stranger from a new place in front of me.",
@@ -3817,7 +3817,7 @@
     "W0QBCA": {
         "en-US": "[Boatswain]\nI am the sailor of sailors. The real seaman. I am the boatswain of this ship who is in charge of taking care of tough sailors and all the business on the deck. The story I am about to tell you... You shouldn't tell it to anyone else.",
         "pt-BR": "[Barqueiro]\nEu sou o marinheiro dos marinheiros. O verdadeiro marinheiro. Eu sou o contramestre deste navio, encarregado de cuidar dos marinheiros durões e de todos os negócios no convés. A história que estou prestes a lhe contar... Você não deveria contá-la a mais ninguém.",
-        "es-ES": "[Contramaestre]\nNadie es mejor marinero que yo. Le hago honor al oficio. Soy el contramaestre de este barco, me encargo de cuidar de los fuertes marineros y de todos los asuntos en la cubierta. La historia que estoy a punto de contarte… No deberías contársela a nadie más."
+        "es-ES": "[Contramaestre]\nNadie es mejor marinero que yo. Le hago honor al oficio. Soy el contramaestre de este barco, me encargo de cuidar de los fuertes marineros y de todos los asuntos en la cubierta. La historia que estoy a punto de contarte... No deberías contársela a nadie más."
     },
     "XEQBCA": {
         "en-US": "[Boatswain]\nThen you would learn how fearful a sailor can be.",
@@ -3847,7 +3847,7 @@
     "YUQBCA": {
         "en-US": "[Boatswain]\nDo you believe in invisible things? Like those which don't really exist? Especially the special ones that appear in the night...",
         "pt-BR": "[Barqueiro]\nAntes de tudo... Você acredita no sobrenatural? Em coisas que não pertencem ao mundo dos vivos?",
-        "es-ES": "[Contramaestre]\n¿Crees en las cosas invisibles? ¿En cosas que, en realidad, no existen? En particular, las especiales que aparecen por la noche…"
+        "es-ES": "[Contramaestre]\n¿Crees en las cosas invisibles? ¿En cosas que, en realidad, no existen? En particular, las especiales que aparecen por la noche..."
     },
     "YkQBCA": {
         "en-US": "[{0}]\nOh, the dead.",
@@ -3892,7 +3892,7 @@
     "akQBCA": {
         "en-US": "Curiosity kills the Doram, they say...",
         "pt-BR": "E bem, sabe como é o ditado... A curiosidade matou o Doram...",
-        "es-ES": "Dicen que la curiosidad mata al Doram…"
+        "es-ES": "Dicen que la curiosidad mata al Doram..."
     },
     "a0QBCA": {
         "en-US": "[Boatswain]\nGamberi who came there tried to stop me, but I opened the seal. There was nothing in the ^0000CDpot^000000, and nothing happened.",
@@ -4092,7 +4092,7 @@
     "kkQBCA": {
         "en-US": "Are you going to go there yourself? What if anything happens? wouldn't it cause any diplomatic problem...? Oh... The end of Lasagna... No way!",
         "pt-BR": "Endoideceu? Se acontecer algo com você lá, eu não consigo nem imaginar o escândalo diplomático que isso daria...",
-        "es-ES": "¿Irás por tu cuenta? ¿Y si pasa algo? ¿No causaría algún problema diplomático…? Oh… El fin de Lasagna… ¡De ninguna manera!"
+        "es-ES": "¿Irás por tu cuenta? ¿Y si pasa algo? ¿No causaría algún problema diplomático...? Oh... El fin de Lasagna... ¡De ninguna manera!"
     },
     "k0QBCA": {
         "en-US": "[Vigilante]\nCome with me then. The <NAVI>^4D4DFF[Dragon's Nest]^000000<INFO>lasa_fild02,340,244,000,1,</INFO></NAVI> is in the cave at the right end of the field outside the village.",
@@ -4117,7 +4117,7 @@
     "l0QBCA": {
         "en-US": "[{0}]\nThen the Dragon is...",
         "pt-BR": "[{0}]\nÉ que é meio urgente...",
-        "es-ES": "[{0}]\nEntonces, el dragón es…"
+        "es-ES": "[{0}]\nEntonces, el dragón es..."
     },
     "mEQBCA": {
         "en-US": "[Vigilante]\nThe patrol who went to check it ^0000CDhasn't returned yet^000000. Something must have happened. You said you would go there to check the condition of the dragon, right? Come with me.Stone",
@@ -4167,7 +4167,7 @@
     "oUQBCA": {
         "en-US": "[Machie]\nArgh...",
         "pt-BR": "[Maekchi]\n...",
-        "es-ES": "[Machie]\nAy…"
+        "es-ES": "[Machie]\nAy..."
     },
     "okQBCA": {
         "en-US": "[Vigilante]\nHey! Machie! Wake up! What's going on? didn't you say that you would like to bring your mother from your hometown? You cannot die like this!",
@@ -4192,7 +4192,7 @@
     "pkQBCA": {
         "en-US": "[Machie]\nPhew... I tried so hard to fake death. Is it gone now?",
         "pt-BR": "[Maekchi]\nUfa... Parece que eu me fingi de morto muito bem... Ele já foi embora?",
-        "es-ES": "[Machie]\nFiu… Me esforcé tanto por fingir la muerte. ¿Ya se fue?"
+        "es-ES": "[Machie]\nFiu... Me esforcé tanto por fingir la muerte. ¿Ya se fue?"
     },
     "p0QBCA": {
         "en-US": "It's gone. What a relief!",
@@ -4282,7 +4282,7 @@
     "uEQBCA": {
         "en-US": "[Machie]\nOut of curiosity perhaps. I would poke at everything if I go to the new continent too. Argh... Please hold me a little. I cannot walk properly.",
         "pt-BR": "[Maekchi]\nBom, acho que se eu estivesse em um continente completamente novo, acho que eu ia querer sair mexendo com tudo que é novo também.\nUgh... Pannacotta, me dá uma mão aqui, eu nem consigo levantar.",
-        "es-ES": "[Machie]\nQuizá por curiosidad. Yo también hurgaría todo si fuera al nuevo continente. Ay… Sostenme un poco, por favor. No puedo caminar bien."
+        "es-ES": "[Machie]\nQuizá por curiosidad. Yo también hurgaría todo si fuera al nuevo continente. Ay... Sostenme un poco, por favor. No puedo caminar bien."
     },
     "uUQBCA": {
         "en-US": "[Vigilante]\nDear adventurer, I should take him to the base. Would you be able to go there alone? ^0000CDTartufi^000000 is upstairs. Go and ask him what the problem is.",
@@ -4332,7 +4332,7 @@
     "wkQBCA": {
         "en-US": "[Vigilante]\nHey! Machie! Wake up! What's going on? Oh, my...",
         "pt-BR": "[Pannacotta]\nEi! Maekchi! Acorda! O que aconteceu com você?",
-        "es-ES": "[Justiciero]\n¡Oye! ¡Machie! ¡Despierta! ¿Qué ocurre? Ay, ay…"
+        "es-ES": "[Justiciero]\n¡Oye! ¡Machie! ¡Despierta! ¿Qué ocurre? Ay, ay..."
     },
     "w0QBCA": {
         "en-US": "[Vigilante]\ndidn't you say that you would like to bring your mother from your hometown? You cannot die like this! Hey, buddy! Machie! don't die on me!",
@@ -4352,7 +4352,7 @@
     "xkQBCA": {
         "en-US": "[Machie]\nArgh... Please hold me a little. I cannot walk properly.",
         "pt-BR": "[Maekchi]\nUgh... Pannacotta, me dá uma mão aqui, eu nem consigo levantar.",
-        "es-ES": "[Machie]\nAy… Sostenme un poco, por favor. No puedo caminar bien."
+        "es-ES": "[Machie]\nAy... Sostenme un poco, por favor. No puedo caminar bien."
     },
     "x0QBCA": {
         "en-US": "[Vigilante]\nDear adventurer, I should take him to the base. Would you be able to go there alone?",
@@ -4407,7 +4407,7 @@
     "0UQBCA": {
         "en-US": "[Machie]\nIt is hard to miss. You can tell that it is the dragon's nest when you see it. It is located in a high place and very flashy... Well, you can just tell.",
         "pt-BR": "[Maekchi]\nVocê vai entender quando encontrar. Certamente vai ser um lugar que você vai olhar e pensar:\n''Nossa, esse deve ser o Ninho do Dragão!''. Sacou?",
-        "es-ES": "[Machie]\nEs difícil no verlo. Sabrás que es el nido del dragón cuando lo veas. Está situado en un lugar alto y muy llamativo… Bueno, te darás cuenta."
+        "es-ES": "[Machie]\nEs difícil no verlo. Sabrás que es el nido del dragón cuando lo veas. Está situado en un lugar alto y muy llamativo... Bueno, te darás cuenta."
     },
     "0kQBCA": {
         "en-US": "[{0}]\nWell, I'll be back.",
@@ -4427,7 +4427,7 @@
     "1UQBCA": {
         "en-US": "[Machie]\nNo. I hope someone carries me on his back...",
         "pt-BR": "[Maekchi]\nAinda não... Bem que alguém podia me carregar...",
-        "es-ES": "[Machie]\nNo. Espero que alguien me lleve a cuestas…"
+        "es-ES": "[Machie]\nNo. Espero que alguien me lleve a cuestas..."
     },
     "1kQBCA": {
         "en-US": "[Vigilante]\nYou are saying that for me to hear. don't you even dream of it. I am tired tool.",
@@ -4562,12 +4562,12 @@
     "8EQBCA": {
         "en-US": "[Tartufi]\nAnnoying flies. Annoying mosquitoes. Just annoying. For what fame and riches am I doing here all alone...",
         "pt-BR": "[Tartufi]\nVou te curar para que você volte à luta revigorado.",
-        "es-ES": "[Tartufi]\nMoscas molestas. Mosquitos molestos. Qué molestos. Qué demonios estoy haciendo aquí sin nadie más…"
+        "es-ES": "[Tartufi]\nMoscas molestas. Mosquitos molestos. Qué molestos. Qué demonios estoy haciendo aquí sin nadie más..."
     },
     "8UQBCA": {
         "en-US": "Mom, dad... I miss you.",
         "pt-BR": "Curar!!",
-        "es-ES": "Mamá, papá… Los extraño."
+        "es-ES": "Mamá, papá... Los extraño."
     },
     "8kQBCA": {
         "en-US": "[{0}]\nTartufi?",
@@ -4592,7 +4592,7 @@
     "9kQBCA": {
         "en-US": "[Tartufi]\nWho are you? Then again, I've never seen you before... Where's Magchi?",
         "pt-BR": "[Tartufi]\nEntão quem é você? Nunca te vi antes. Aliás, onde está o Maekchi?",
-        "es-ES": "[Tartufi]\n¿Quién eres? Además, no te había visto antes… ¿Dónde está Machie?"
+        "es-ES": "[Tartufi]\n¿Quién eres? Además, no te había visto antes... ¿Dónde está Machie?"
     },
     "90QBCA": {
         "en-US": "[{0}]\nMagchi was injured during a patrol and went back.",
@@ -4727,7 +4727,7 @@
     "EUUBCA": {
         "en-US": "[Tartufi]\nZzz... zzz...",
         "pt-BR": "[Tartufi]\nZz... Zzz...",
-        "es-ES": "[Tartufi]\nZzz… Zzz…"
+        "es-ES": "[Tartufi]\nZzz... Zzz..."
     },
     "EkUBCA": {
         "en-US": "[{0}]\nWhew. All taken care of.",
@@ -4907,7 +4907,7 @@
     "NUUBCA": {
         "en-US": "[{0}]\nUh... yes. I'm sorry. I didn't mean to.",
         "pt-BR": "[{0}]\nHãã... É. Me desculpe. Eu não sabia que isso ia acontecer.",
-        "es-ES": "[{0}]\nEh… sí. Lo siento. No fue mi intención."
+        "es-ES": "[{0}]\nEh... sí. Lo siento. No fue mi intención."
     },
     "NkUBCA": {
         "en-US": "[Tartufi]\nNo, no. I'm not saying what you did was wrong. But can you tell me more about that?",
@@ -4932,7 +4932,7 @@
     "OkUBCA": {
         "en-US": "[{0}]\nWell, I guess you can say that...",
         "pt-BR": "[{0}]\nAh, bem, se você tá dizendo...",
-        "es-ES": "[{0}]\nBueno, supongo que se puede decir que…"
+        "es-ES": "[{0}]\nBueno, supongo que se puede decir que..."
     },
     "O0UBCA": {
         "en-US": "[Tartufi]\nMagchi just drove off the basilisks that came this way every day. That was enough, but without Magchi, they are bothering me again. So annoying.",
@@ -4952,7 +4952,7 @@
     "PkUBCA": {
         "en-US": "[Tartufi]\nHis name is Imoogi. I don't know where he lives, but there's something ^0000CDup there that can communicate with Imoogi^000000. Basilisks go there every morning and hear something...",
         "pt-BR": "[Tartufi]\nEle se chama Imugi. Não sei onde exatamente ele fica, mas você deve conseguir se comunicar com ele ^0000CDde alguma forma no nível de cima da caverna^000000.",
-        "es-ES": "[Tartufi]\nSe llama Imuk. No sé dónde vive, pero hay algo ^0000CDallí arriba que puede comunicarse con Imuk^000000. Los Basiliscos van allí cada mañana y oyen algo…"
+        "es-ES": "[Tartufi]\nSe llama Imuk. No sé dónde vive, pero hay algo ^0000CDallí arriba que puede comunicarse con Imuk^000000. Los Basiliscos van allí cada mañana y oyen algo..."
     },
     "P0UBCA": {
         "en-US": "[{0}]\nI see. Sorry about the basilisks. I'll take care of it.",
@@ -4997,7 +4997,7 @@
     "R0UBCA": {
         "en-US": "[{0}]\nOww...that hurts. I'm sorry if I've offended you, but are you Imoogi, the chief of the Basilisk?",
         "pt-BR": "[{0}]\nAi... Me desculpe se eu te desrespeitei. Você é o Imugi, rei dos Basiliscos?",
-        "es-ES": "[{0}]\nAy… eso duele. Perdón por ofenderte, pero ¿eres Imuk, el líder de los Basiliscos?"
+        "es-ES": "[{0}]\nAy... eso duele. Perdón por ofenderte, pero ¿eres Imuk, el líder de los Basiliscos?"
     },
     "SEUBCA": {
         "en-US": "[Lord Imuk]\nYour language is as vulgar as your appearance.",
@@ -5017,7 +5017,7 @@
     "S0UBCA": {
         "en-US": "[{0}]\nLord Imuk... Did you say you lived for 2,500 years?",
         "pt-BR": "[{0}]\nAcender? Tipo, que nem um farol?",
-        "es-ES": "[{0}]\nLord Imuk… ¿Dijiste que llevas 2500 años de vida?"
+        "es-ES": "[{0}]\nLord Imuk... ¿Dijiste que llevas 2500 años de vida?"
     },
     "TEUBCA": {
         "en-US": "[Lord Imuk]\nYes. And I was supposed to ^0000CDbecome a dragon and ascend to heaven^000000.",
@@ -5062,7 +5062,7 @@
     "VEUBCA": {
         "en-US": "[{0}]\nMm... I understand. So you have no intention of giving up until you get that Yeouiju. I'll ask Tartufi about Yeouiju.",
         "pt-BR": "[{0}]\nEntendo. Então você só vai descansar depois de conseguir a pérola... Nesse caso, eu vou falar com o Tartufi.",
-        "es-ES": "[{0}]\nMm… entiendo. Así que no tienes intención de rendirte hasta que consigas a ese Yeouiju. Le preguntaré a Tartufi sobre él."
+        "es-ES": "[{0}]\nMm... entiendo. Así que no tienes intención de rendirte hasta que consigas a ese Yeouiju. Le preguntaré a Tartufi sobre él."
     },
     "VUUBCA": {
         "en-US": "[Lord Imuk]\nThanks. Now I must continue with my training so do not disturb me and go away.",
@@ -5107,7 +5107,7 @@
     "XUUBCA": {
         "en-US": "[Shaman meow]\nWhere... yes, yeah... today is that one? Got it.",
         "pt-BR": "[Miáugico]\nOnde... sim, sim... é hoje? Entendi.",
-        "es-ES": "[Chamán Miau]\n¿Dónde…? Sí, sí… ¿Hoy es ese? Entendido."
+        "es-ES": "[Chamán Miau]\n¿Dónde...? Sí, sí... ¿Hoy es ese? Entendido."
     },
     "XkUBCA": {
         "en-US": "Meow meow",
@@ -5117,7 +5117,7 @@
     "X0UBCA": {
         "en-US": "[Shaman meow]\nI'll tell you today's talisman. It is...",
         "pt-BR": "[Miáugico]\nPara o amuleto de hoje, vamos precisar de...",
-        "es-ES": "[Chamán Miau]\nTe diré cuál es el talismán de hoy. Son…"
+        "es-ES": "[Chamán Miau]\nTe diré cuál es el talismán de hoy. Son..."
     },
     "YEUBCA": {
         "en-US": "[Shaman meow]\n^0000CD5 Basilac Clams and 1 holy water^000000. In the new world, the holy water drives the evil spirits away. It must've worked when the boatswain came in contact with the people of the new world.",
@@ -5167,7 +5167,7 @@
     "aUUBCA": {
         "en-US": "[{0}]\nElderly lady? She doesn't look like one. Like a very... young doram.",
         "pt-BR": "[{0}]\nIdosa? Ela não parece uma. Parece um doram muito... jovem.",
-        "es-ES": "[{0}]\n¿Anciana? No lo aparenta. Parece… una Doram muy joven."
+        "es-ES": "[{0}]\n¿Anciana? No lo aparenta. Parece... una Doram muy joven."
     },
     "akUBCA": {
         "en-US": "[Shaman meow]\nNot me!",
@@ -5267,7 +5267,7 @@
     "fUUBCA": {
         "en-US": "[{0}]\nT-then, you've also...",
         "pt-BR": "[{0}]\nE-então, você também...",
-        "es-ES": "[{0}]\nE-entonces, tú también…"
+        "es-ES": "[{0}]\nE-entonces, tú también..."
     },
     "fkUBCA": {
         "en-US": "[Shaman meow]\nI opened the jar. It was an unfortunate accident.",
@@ -5332,7 +5332,7 @@
     "ikUBCA": {
         "en-US": "[{0}]\nWell... He seems to be living off on one superstition to another. Like dolls and salts.",
         "pt-BR": "[{0}]\nEle falou algo sobre tomar banhos de sal grosso...",
-        "es-ES": "[{0}]\nBueno… Parece vivir de superstición en superstición. Como muñecas y sales."
+        "es-ES": "[{0}]\nBueno... Parece vivir de superstición en superstición. Como muñecas y sales."
     },
     "i0UBCA": {
         "en-US": "[Shaman meow]\nOh my, he really is an idiot. Had he come to me earlier, I would have told him about a less painful path.",
@@ -5347,12 +5347,12 @@
     "jUUBCA": {
         "en-US": "[Shaman meow]\nToday's talisman... Let me see.",
         "pt-BR": "[Miáugico]\nQue alma caridosa. Bem, o amuleto de hoje consiste de...",
-        "es-ES": "[Chamán Miau]\nEl talismán para hoy… Déjame ver."
+        "es-ES": "[Chamán Miau]\nEl talismán para hoy... Déjame ver."
     },
     "jkUBCA": {
         "en-US": "[Shaman meow]\nOh, that? Really? Ooh, That's awful... Seriously, how would that...ugh.",
         "pt-BR": "[Miáugico]\nSério? Ooh, isso é horrível... Sério, como isso... ugh.",
-        "es-ES": "[Chamán Miau]\nOh, ¿eso? ¿De verdad? Uh, qué feo… En serio, ¿cómo podría…? Eh."
+        "es-ES": "[Chamán Miau]\nOh, ¿eso? ¿De verdad? Uh, qué feo... En serio, ¿cómo podría...? Eh."
     },
     "j0UBCA": {
         "en-US": "[Shaman meow]\nToday's talisman is ^0000CD20 basils and 5 Basilac Clams^000000. Tie them firmly and carry them around. Then he'll be safe today.",
@@ -5632,7 +5632,7 @@
     "xkUBCA": {
         "en-US": "Well, It's really not because we're shorthanded...",
         "pt-BR": "Não é por falta de pessoal...",
-        "es-ES": "Bueno, en realidad, no es porque estemos cortos de personal…"
+        "es-ES": "Bueno, en realidad, no es porque estemos cortos de personal..."
     },
     "x0UBCA": {
         "en-US": "[Kalu]\nLooks like the two can be sent to the delivery team while Legalas is working. For wage, a meal per day would do.",
@@ -5692,7 +5692,7 @@
     "0kUBCA": {
         "en-US": "[{0}]\nSince when was I part of the team? All right, fine... Let's go.",
         "pt-BR": "[{0}]\nQuando é que eu concordei com isso...? Ah, esquece. Vamos.",
-        "es-ES": "[{0}]\n¿Desde cuándo soy parte del equipo? De acuerdo, está bien… Vamos."
+        "es-ES": "[{0}]\n¿Desde cuándo soy parte del equipo? De acuerdo, está bien... Vamos."
     },
     "00UBCA": {
         "en-US": "[Kalu]\ndidn't you say you were going to find out why Legalas was not able to make the delivery?",
@@ -5707,7 +5707,7 @@
     "1UUBCA": {
         "en-US": "Even my mustache is thinning... Help me...",
         "pt-BR": "Me ajude...",
-        "es-ES": "Incluso mi bigote está más fino… Ayúdame…"
+        "es-ES": "Incluso mi bigote está más fino... Ayúdame..."
     },
     "1kUBCA": {
         "en-US": "[{0}]\nA glass of kahlunac milk please.",
@@ -5802,7 +5802,7 @@
     "6EUBCA": {
         "en-US": "[Kalu]\nThen Lasagna will return to its former state of filth and danger. I can't let that happen. We're finally living like decent human beings but to go back to that dark age...",
         "pt-BR": "[Kalu]\nE aí Lasagna retornará ao que era antes: um antro de escuridão e maldade. Não podemos voltar a esses tempos...",
-        "es-ES": "[Kalu]\nY Lasagna volverá a su antiguo estado de suciedad y peligro. No puedo permitirlo. Por fin, estamos viviendo como seres humanos decentes, pero volver a esa época oscura…"
+        "es-ES": "[Kalu]\nY Lasagna volverá a su antiguo estado de suciedad y peligro. No puedo permitirlo. Por fin, estamos viviendo como seres humanos decentes, pero volver a esa época oscura..."
     },
     "6UUBCA": {
         "en-US": "Then I'll just leave Lasagna without hesitation.",
@@ -6222,7 +6222,7 @@
     "PEYBCA": {
         "en-US": "[Legalas]\nWho knows where the pigs suddenly disappeared to, but I hope they're not back anytime soon. I'm on a roll here! A little more, just a little more...!",
         "pt-BR": "[Regulus]\nEspero que aqueles glutões não voltem!",
-        "es-ES": "[Legalas]\nQuién sabe dónde se habrán metido los cerdos, pero espero que no vuelvan pronto. ¡Estoy de buena racha! ¡Un poco más, solo un poco más…!"
+        "es-ES": "[Legalas]\nQuién sabe dónde se habrán metido los cerdos, pero espero que no vuelvan pronto. ¡Estoy de buena racha! ¡Un poco más, solo un poco más...!"
     },
     "PUYBCA": {
         "en-US": "[Legalas]\nThey won't listen no matter what. Look at those bellies. They're from eating so much kahlunac and kahlunac.",
@@ -6237,7 +6237,7 @@
     "P0YBCA": {
         "en-US": "[Daldal]\nConscience? Mm... Sorry, but I don't know because I have no clue where my conscience is.",
         "pt-BR": "[Daldal]\nDesculpa, mas a minha consciência já morreu tem um bom tempo.",
-        "es-ES": "[Daldal]\n¿Conciencia? Mm… Perdón, pero no lo sé porque no tengo ni idea de dónde está mi conciencia."
+        "es-ES": "[Daldal]\n¿Conciencia? Mm... Perdón, pero no lo sé porque no tengo ni idea de dónde está mi conciencia."
     },
     "QEYBCA": {
         "en-US": "I don't know where my conscience is.",
@@ -6342,7 +6342,7 @@
     "VEYBCA": {
         "en-US": "[Legalas]\nI just want to make kahlunac without any worries...",
         "pt-BR": "[Regulus]\nAquilo mudou a minha vida pra sempre... Por isso, me dedico de corpo e alma para trabalhar com essa iguaria.",
-        "es-ES": "[Legalas]\nSolo quiero hacer Kahluna sin preocupaciones…"
+        "es-ES": "[Legalas]\nSolo quiero hacer Kahluna sin preocupaciones..."
     },
     "VUYBCA": {
         "en-US": "[Gopara]\nI said I'll go see Kalu. I was bored anyway, so It's all good. Go, you lead the way.",
@@ -6522,7 +6522,7 @@
     "eEYBCA": {
         "en-US": "[{0}]\nGreat attitude! Now Legalas will...",
         "pt-BR": "[{0}]\nEssa é uma boa ideia...",
-        "es-ES": "[{0}]\n¡Excelente actitud! Ahora Legalas…"
+        "es-ES": "[{0}]\n¡Excelente actitud! Ahora Legalas..."
     },
     "eUYBCA": {
         "en-US": "[Gopara]\nNow, teach us.",
@@ -6552,7 +6552,7 @@
     "fkYBCA": {
         "en-US": "Doram trash? What the? How can you say such a thing?!",
         "pt-BR": "Lixo? O quê? Como você pode dizer uma coisa dessas?!",
-        "es-ES": "¿Basura Doram? ¿Qué dem…? ¡¿Cómo puedes decir tal cosa?!"
+        "es-ES": "¿Basura Doram? ¿Qué dem...? ¡¿Cómo puedes decir tal cosa?!"
     },
     "f0YBCA": {
         "en-US": "What does that mean?",
@@ -6637,7 +6637,7 @@
     "j0YBCA": {
         "en-US": "[{0}]\nBaby, cute...",
         "pt-BR": "[{0}]\nQue criança fofinha...",
-        "es-ES": "[{0}]\nQué bebé más adorable…"
+        "es-ES": "[{0}]\nQué bebé más adorable..."
     },
     "kEYBCA": {
         "en-US": "[Baby]\nWaa waa!",
@@ -6672,17 +6672,17 @@
     "lkYBCA": {
         "en-US": "[Daldal]\nBaby...right?",
         "pt-BR": "[Daldal]\nISSO AÍ é o bebê?!",
-        "es-ES": "[Daldal]\nBebé… ¿verdad?"
+        "es-ES": "[Daldal]\nBebé... ¿verdad?"
     },
     "l0YBCA": {
         "en-US": "[{0}]\nBig but definitely... a baby.",
         "pt-BR": "[{0}]\nÉ meio grande, mas... é um bebê.",
-        "es-ES": "[{0}]\nEs grande, pero, sin dudas, es… un bebé."
+        "es-ES": "[{0}]\nEs grande, pero, sin dudas, es... un bebé."
     },
     "mEYBCA": {
         "en-US": "Waa - aah - meow",
         "pt-BR": "Buááá! Miau!",
-        "es-ES": "Buaa… ahhh… miau"
+        "es-ES": "Buaa... ahhh... miau"
     },
     "mUYBCA": {
         "en-US": "[Gopara]\nOkay, I'm sitting now.",
@@ -6712,7 +6712,7 @@
     "nkYBCA": {
         "en-US": "Patiently -",
         "pt-BR": "Olhe como estamos de olho!",
-        "es-ES": "Me siento…"
+        "es-ES": "Me siento..."
     },
     "n0YBCA": {
         "en-US": "[Baby]\nWaa. Waa!",
@@ -6807,7 +6807,7 @@
     "sUYBCA": {
         "en-US": "[Baby]\nTwinkle twinkle little star - how I wonder what you are -\nUp above the world so high - like a diamond in the sky -",
         "pt-BR": "[Bebêzão]\nBrilha, brilha, estrelinha...",
-        "es-ES": "[Bebé]\nEstrellita dónde estás me pregunto qué serás,\nEn el cielo y en el mar, un diamante de verdad…"
+        "es-ES": "[Bebé]\nEstrellita dónde estás me pregunto qué serás,\nEn el cielo y en el mar, un diamante de verdad..."
     },
     "skYBCA": {
         "en-US": "[Baby]\nTwinkle twinkle little star - how I wonder what you are -",
@@ -6872,7 +6872,7 @@
     "vkYBCA": {
         "en-US": "[Gopara]\nWhat... is this.",
         "pt-BR": "[Gopara]\nO que... é isso...?",
-        "es-ES": "[Gopara]\nQué… es esto."
+        "es-ES": "[Gopara]\nQué... es esto."
     },
     "v0YBCA": {
         "en-US": "[Daldal]\nWhat is this gross looking thing?",
@@ -6887,7 +6887,7 @@
     "wUYBCA": {
         "en-US": "[Gopara]\nAnchovy is a long and thin snack That's a bit salty, Isn't it? But this thing has a head... and eyes too!",
         "pt-BR": "[Gopara]\nAnchovas não são uns lanchinhos gostosos e salgados? Por que é que esse negócio aqui tem uma cabeça e olhos...?",
-        "es-ES": "[Gopara]\nLa anchoa es un bocadillo largo y delgado. Es un poco salada, ¿no? Pero esta cosa tiene cabeza… ¡y también ojos!"
+        "es-ES": "[Gopara]\nLa anchoa es un bocadillo largo y delgado. Es un poco salada, ¿no? Pero esta cosa tiene cabeza... ¡y también ojos!"
     },
     "wkYBCA": {
         "en-US": "Are you snubbing us?",
@@ -6917,7 +6917,7 @@
     "x0YBCA": {
         "en-US": "[{0}]\nGuys... how can you not know that an anchovy is a fish? What kind of lives did you guys live?",
         "pt-BR": "[{0}]\n...Eu não sei como vocês conseguiram viver por tanto tempo sendo tão ignorantes.",
-        "es-ES": "[{0}]\nChicos… ¿cómo pueden no saber que una anchoa es un pez? ¿Qué tipo de vida llevan?"
+        "es-ES": "[{0}]\nChicos... ¿cómo pueden no saber que una anchoa es un pez? ¿Qué tipo de vida llevan?"
     },
     "yEYBCA": {
         "en-US": "[Workshop Manager]\nWhere in the world did you find these idiots? Do you think they can handle this job?",
@@ -6947,7 +6947,7 @@
     "zUYBCA": {
         "en-US": "[{0}]\nHa... Is that so? Seems like this job is not for you either. Then Let's go find something else. Was there any other job you wanted to try?",
         "pt-BR": "[{0}]\n... Certo, esse trabalho também não é pra vocês. O que mais vocês sonham em fazer?",
-        "es-ES": "[{0}]\nJa… ¿De verdad? Me parece que este trabajo tampoco es el adecuado. En ese caso, busquemos otra cosa. ¿Hay algún otro trabajo que quisieran probar?"
+        "es-ES": "[{0}]\nJa... ¿De verdad? Me parece que este trabajo tampoco es el adecuado. En ese caso, busquemos otra cosa. ¿Hay algún otro trabajo que quisieran probar?"
     },
     "zkYBCA": {
         "en-US": "[Daldal]\nShip. I want to be on a ^0000CDship^000000!",
@@ -7217,7 +7217,7 @@
     "A0cBCA": {
         "en-US": "[Gopara]\nI've always wanted to be on a boat... hah... nostalgia...",
         "pt-BR": "[Gopara]\nEu sempre quis andar em um barco!",
-        "es-ES": "[Gopara]\nSiempre quise estar en un barco… ja, ja… qué nostalgia…."
+        "es-ES": "[Gopara]\nSiempre quise estar en un barco... ja, ja... qué nostalgia...."
     },
     "BEcBCA": {
         "en-US": "[Daldal]\nI'm hungry, too. I want to eat kahlunac.",
@@ -7237,7 +7237,7 @@
     "B0cBCA": {
         "en-US": "[Panna]\nThanks to you, I was able to eat a hearty meal. Please tell Kalu that I'm grateful for the delicious lunch. Hopefully, today will be another safe...",
         "pt-BR": "[Bana]\nObrigado pela marmita. Diga ao Kalu que eu agradeci também. Se cuida!",
-        "es-ES": "[Panna]\nGracias a ti, pude disfrutar de una comida abundante. Dile a Kalu que agradezco el delicioso almuerzo. Esperemos que hoy sea otro día…"
+        "es-ES": "[Panna]\nGracias a ti, pude disfrutar de una comida abundante. Dile a Kalu que agradezco el delicioso almuerzo. Esperemos que hoy sea otro día..."
     },
     "CEcBCA": {
         "en-US": "[Panna]\nOh, I'm so hungry. When is the food coming? Food.",
@@ -7247,7 +7247,7 @@
     "CUcBCA": {
         "en-US": "[{0}]\nPanna? Here's your lunchbox...",
         "pt-BR": "[{0}]\nBana? Aqui está a sua marmita...",
-        "es-ES": "[{0}]\n¿Panna? Aquí está tu comida…"
+        "es-ES": "[{0}]\n¿Panna? Aquí está tu comida..."
     },
     "CkcBCA": {
         "en-US": "[Panna]\nFood!!!",
@@ -7272,12 +7272,12 @@
     "DkcBCA": {
         "en-US": "[Daldal]\nThat looks delicious...",
         "pt-BR": "[Daldal]\nParece delicioso...",
-        "es-ES": "[Daldal]\nEso se ve delicioso…"
+        "es-ES": "[Daldal]\nEso se ve delicioso..."
     },
     "D0cBCA": {
         "en-US": "Give me a bite...",
         "pt-BR": "Dá um pedaço",
-        "es-ES": "Dame un mordisco…"
+        "es-ES": "Dame un mordisco..."
     },
     "EEcBCA": {
         "en-US": "How can you even think about taking his food? Hang on just a bit longer.",
@@ -7432,7 +7432,7 @@
     "LkcBCA": {
         "en-US": "[Peperoncino]\nMy story... Why are you curious? But since you asked, I'll tell you. I was born outside of Lasagna called ^0000CDFusilli^000000. Back then, you mention the name Peperoncino and everyone in Fusilli knew.",
         "pt-BR": "[Peperocino]\nSobre mim... Bem, eu sou de ^0000CDFusilli^000000, uma cidade MUITO longe de Lasagna. Até hoje, todo mundo de lá me conhece.",
-        "es-ES": "[Peperoncino]\nMi historia… ¿Por qué te da curiosidad? Pero ya que preguntas, te la contaré. Nací fuera de Lasagna, en un lugar llamado ^0000CDFusilli^000000. Por aquel entonces, mencionabas el nombre de Peperoncino, y todo el mundo en Fusilli lo conocía."
+        "es-ES": "[Peperoncino]\nMi historia... ¿Por qué te da curiosidad? Pero ya que preguntas, te la contaré. Nací fuera de Lasagna, en un lugar llamado ^0000CDFusilli^000000. Por aquel entonces, mencionabas el nombre de Peperoncino, y todo el mundo en Fusilli lo conocía."
     },
     "L0cBCA": {
         "en-US": "The day I left, the entire Fusilli was in tears.",
@@ -7477,7 +7477,7 @@
     "N0cBCA": {
         "en-US": "That's right, Gamberry...",
         "pt-BR": "Gamberi...",
-        "es-ES": "Así es, Gamberi…"
+        "es-ES": "Así es, Gamberi..."
     },
     "OEcBCA": {
         "en-US": "[Peperoncino]\n^0000CDGamberry was a hoodlum who reminded me of a ruffian^000000. He soon was moved by my words and joined me in the business.",
@@ -7602,7 +7602,7 @@
     "UEcBCA": {
         "en-US": "[Peperoncino]\nThe ^0000CDvigilance corps and merchants^000000 are... um... Among several organizations that run Lasagna, you can say that the two created today's Lasagna. And Gamberry, Thomas, and I were at the heart of it.",
         "pt-BR": "[Peperocino]\n^0000CDEssas duas organizações^000000 tornaram Lasagna o que ela é hoje. E no centro disso tudo estávamos eu, Gamberi e Tomas.",
-        "es-ES": "[Peperoncino]\nEl ^0000CDcuerpo de justicieros y los comerciantes^000000 son… em… De las distintas organizaciones que dirigen Lasagna, se puede decir que son las dos que crearon la Lasagna de hoy. Y Gamberi, Thomas y yo estábamos en el centro de todo."
+        "es-ES": "[Peperoncino]\nEl ^0000CDcuerpo de justicieros y los comerciantes^000000 son... em... De las distintas organizaciones que dirigen Lasagna, se puede decir que son las dos que crearon la Lasagna de hoy. Y Gamberi, Thomas y yo estábamos en el centro de todo."
     },
     "UUcBCA": {
         "en-US": "[Peperoncino]\nWhen we jumped into the specialty product business, many dorams who were moved by us wanted to help.",
@@ -7642,7 +7642,7 @@
     "WEcBCA": {
         "en-US": "[Vigilante Chef]\nWell, that was Stello of Con-Chilina...",
         "pt-BR": "[Chef Poncho]\nMas o Stello, do Con-Chilina, que encontrou uma rota e...",
-        "es-ES": "[Jefe justiciero]\nBueno, eso fue obra de Stello del Con-Chilina…"
+        "es-ES": "[Jefe justiciero]\nBueno, eso fue obra de Stello del Con-Chilina..."
     },
     "WUcBCA": {
         "en-US": "Banquet?",
@@ -7662,7 +7662,7 @@
     "XEcBCA": {
         "en-US": "[{0}]\nThat was... what an amazing adventure. Thank you for sharing your story. I can clearly see where your dignified manner comes from.",
         "pt-BR": "[{0}]\nSei que está ocupado, então agradeço em dobro por dedicar esse tempo para me contar sua história.",
-        "es-ES": "[{0}]\nQué… Qué aventura increíble. Gracias por compartir su historia. Ahora entiendo claramente de dónde viene su porte tan digno."
+        "es-ES": "[{0}]\nQué... Qué aventura increíble. Gracias por compartir su historia. Ahora entiendo claramente de dónde viene su porte tan digno."
     },
     "XUcBCA": {
         "en-US": "[{0}]\nThank you for your time.",
@@ -7777,7 +7777,7 @@
     "c0cBCA": {
         "en-US": "[Grandma]\nAfter that, he couldn't get on a boat ever again. Haha. He became indebted because of the ^0000CDpenalty for breach of contract^000000 and couldn't leave. So he ended up in the anchovy workshop where he removes anchovy head and guts...",
         "pt-BR": "[Mill Enair]\nEntão ele sequer podia pôr o pé num barco, hoho. E ele também não podia sair da cidade porque havia assinado ^0000CDum contrato para me pagar pelo estrago na taverna^000000. Então ele começou a trabalhar preparando anchovas.",
-        "es-ES": "[Abuela]\nDespués de eso, no pudo subirse a un barco nunca más. Ja, ja. Se endeudó debido a la ^0000CDpenalización por incumplimiento de contrato^000000 y no pudo marcharse. Así que terminó en el taller de anchoas, donde le quitan la cabeza y las vísceras…"
+        "es-ES": "[Abuela]\nDespués de eso, no pudo subirse a un barco nunca más. Ja, ja. Se endeudó debido a la ^0000CDpenalización por incumplimiento de contrato^000000 y no pudo marcharse. Así que terminó en el taller de anchoas, donde le quitan la cabeza y las vísceras..."
     },
     "dEcBCA": {
         "en-US": "I think they are used to make fertilizers.",
@@ -7817,7 +7817,7 @@
     "e0cBCA": {
         "en-US": "[Grandma]\nI guess sticks do make dorams. The two sent those hoodlums to the merchants and vigilance corps. Mm... I remember those boys. Their beards were cut and tails were tattered.",
         "pt-BR": "[Mill Enair]\nEles surravam quem estava agindo fora da lei, e então jogavam eles para trabalhar na Pata de Gato ou nos Farfelle. Não bastasse isso, eles pegavam essas pessoas e cortavam seus bigodes.",
-        "es-ES": "[Abuela]\nSupongo que a golpes se forjan los Doram. Ellos dos enviaron a esos malhechores a los comerciantes y al cuerpo de justicieros. Mm… Recuerdo a esos chicos. Con sus barbas cortadas y las colas deshilachadas."
+        "es-ES": "[Abuela]\nSupongo que a golpes se forjan los Doram. Ellos dos enviaron a esos malhechores a los comerciantes y al cuerpo de justicieros. Mm... Recuerdo a esos chicos. Con sus barbas cortadas y las colas deshilachadas."
     },
     "fEcBCA": {
         "en-US": "[Grandma]\nThose doram mouse-looking ones all left Lasagna and only the ones who wanted to live a decent life stayed. They're the ones who made current Lasagna.",
@@ -7832,7 +7832,7 @@
     "fkcBCA": {
         "en-US": "[{0}]\nI'll get going now...",
         "pt-BR": "[{0}]\nEr... Não, valeu. Vou-me indo.",
-        "es-ES": "[{0}]\nCreo que me iré yendo…"
+        "es-ES": "[{0}]\nCreo que me iré yendo..."
     },
     "f0cBCA": {
         "en-US": "[Grandma]\nWith no customers, my pub will soon be out of business.",
@@ -7842,7 +7842,7 @@
     "gEcBCA": {
         "en-US": "[Grandma]\nZzz...zzzz...",
         "pt-BR": "[Mill Enair]\nZz... Zzz...",
-        "es-ES": "[Abuela]\nZzz… zzzz…"
+        "es-ES": "[Abuela]\nZzz... zzzz..."
     },
     "gUcBCA": {
         "en-US": "- Knock knock -",
@@ -7907,7 +7907,7 @@
     "jUcBCA": {
         "en-US": "Month X Day X\nThe long-awaited first voyage. After unloading everything, I hope we return as full ship again...",
         "pt-BR": "Mês X, Dia Y\nA tão aguardada primeira viagem. Espero que todos sobrevivam até lá...",
-        "es-ES": "Día X del mes X\nEl tan esperado primer viaje. Después de descargar todo, espero que volvamos con el barco lleno otra vez…"
+        "es-ES": "Día X del mes X\nEl tan esperado primer viaje. Después de descargar todo, espero que volvamos con el barco lleno otra vez..."
     },
     "jkcBCA": {
         "en-US": "Month X Day X\nBusiness is good everywhere we go. I'm amazed by the insight of Captain Peperoncino and his crewmen.",
@@ -7992,7 +7992,7 @@
     "nkcBCA": {
         "en-US": "Month X Day X\nTuna is served again. First day was tuna, second day was tuna pasta, third day was fried tuna, fourth day was braised tuna... I'm sick of it. Just had it. Did we do something to anger the sous chef?",
         "pt-BR": "Mês X, Dia Y\nMais atum hoje. Nos últimos dias, tivemos atum cru, patê de atum, atum grelhado e atum assado... Cansei de comer atum já.",
-        "es-ES": "Día X del mes X\nOtra vez, se sirvió atún. El primer día, fue atún; el segundo día, pasta de atún; el tercer día, atún frito; el cuarto día, atún estofado… Estoy harto. Lo acabo de comer. ¿Hicimos algo para enfadar al sous-chef?"
+        "es-ES": "Día X del mes X\nOtra vez, se sirvió atún. El primer día, fue atún; el segundo día, pasta de atún; el tercer día, atún frito; el cuarto día, atún estofado... Estoy harto. Lo acabo de comer. ¿Hicimos algo para enfadar al sous-chef?"
     },
     "n0cBCA": {
         "en-US": "Month X Day X\nBoatswain tried to throw out the remaining tuna and got caught by the sous chef. We all learned how scary he can be.",
@@ -8017,7 +8017,7 @@
     "o0cBCA": {
         "en-US": "Month X Day X\nWe never had any rats but all of a sudden the ship is infested. Upon investigation, the boatswain... you're such a...",
         "pt-BR": "Mês X, Dia Y\nInterroguei a tripulação sobre a infestação de rato e parece que foi o Barqueiro que causou... Mas que droga...",
-        "es-ES": "Día X del mes X\nNunca tuvimos ratas, pero, de repente, el barco está infestado. Al investigar, el contramaestre… Eres un…"
+        "es-ES": "Día X del mes X\nNunca tuvimos ratas, pero, de repente, el barco está infestado. Al investigar, el contramaestre... Eres un..."
     },
     "pEcBCA": {
         "en-US": "Month X Day X\nA year may pass but we cannot give up the search. We're combing through the area where we lost them.",
@@ -8397,12 +8397,12 @@
     "70cBCA": {
         "en-US": "Is this your first time on Con-Chilina? I was on this ship before to get to the new world once my training was over. Back then, the food was really good, so...",
         "pt-BR": "Essa é a sua primeira vez a bordo do Con-Chilina? Eu já fui pro novo mundo uma vez...",
-        "es-ES": "¿Es tu primera vez en el Con-Chilina? Estuve una vez en este barco para llegar al nuevo mundo después de terminar mi entrenamiento. Por aquel entonces, la comida era muy buena, así que…"
+        "es-ES": "¿Es tu primera vez en el Con-Chilina? Estuve una vez en este barco para llegar al nuevo mundo después de terminar mi entrenamiento. Por aquel entonces, la comida era muy buena, así que..."
     },
     "8EcBCA": {
         "en-US": "The minute I landed on the new world, I went right back to the boat. Just loved the food...",
         "pt-BR": "A comida de lá é péssima...",
-        "es-ES": "En cuanto llegué al nuevo mundo, volví al barco. Me encantó la comida…"
+        "es-ES": "En cuanto llegué al nuevo mundo, volví al barco. Me encantó la comida..."
     },
     "8UcBCA": {
         "en-US": "Heading to Midgarde? It's my first time in Lasagna and It's great, really! So I'm just going to stay here for good. I found a place to live and signed the papers, too!",
@@ -8497,7 +8497,7 @@
     "A0gBCA": {
         "en-US": "[Cow]\nMoo -",
         "pt-BR": "[Vaca]\nMuu...",
-        "es-ES": "[Vaca]\nMuu…"
+        "es-ES": "[Vaca]\nMuu..."
     },
     "BEgBCA": {
         "en-US": "[Boatswain]\nTake your filthy hand off from her! [Woncow] is sensitive, so no one besides me can touch her!",
@@ -8507,7 +8507,7 @@
     "BUgBCA": {
         "en-US": "[{0}]\nA cow's name is [Woncow]...",
         "pt-BR": "[{0}]\nÉ sério que você deu à sua vaca o nome de Chuleta?",
-        "es-ES": "[{0}]\nEl nombre de la vaca es [Woncow]…"
+        "es-ES": "[{0}]\nEl nombre de la vaca es [Woncow]..."
     },
     "BkgBCA": {
         "en-US": "[Boatswain]\nSo? What! I won her on a bet. Every time I call her name, it reminds me of that moment of victory. It's beautiful.",
@@ -8517,7 +8517,7 @@
     "B0gBCA": {
         "en-US": "Moo -",
         "pt-BR": "Muu.",
-        "es-ES": "Muu…"
+        "es-ES": "Muu..."
     },
     "CEgBCA": {
         "en-US": "Right?",
@@ -8537,7 +8537,7 @@
     "C0gBCA": {
         "en-US": "Moo- Moo -",
         "pt-BR": "Muu... Muu...",
-        "es-ES": "Muu… Muu…"
+        "es-ES": "Muu... Muu..."
     },
     "DEgBCA": {
         "en-US": "[{0}]\nYou brought a cow on board for fresh milk?",
@@ -8562,7 +8562,7 @@
     "EEgBCA": {
         "en-US": "Moo --------",
         "pt-BR": "Muuuuu.",
-        "es-ES": "Muuuuuuu…"
+        "es-ES": "Muuuuuuu..."
     },
     "EUgBCA": {
         "en-US": "No, no - that person won't hurt you-",
@@ -8622,7 +8622,7 @@
     "HEgBCA": {
         "en-US": "S-someone help me... Dorams, they're so cute I'm going to die...",
         "pt-BR": "A-alguém me ajude... Os Doram... S-são tão fofos...",
-        "es-ES": "Q-que alguien me ayude… Los Doram son tan adorables que me matarán…"
+        "es-ES": "Q-que alguien me ayude... Los Doram son tan adorables que me matarán..."
     },
     "HUgBCA": {
         "en-US": "Crewman of Anchovy Fishing Boat",
@@ -8732,7 +8732,7 @@
     "MkgBCA": {
         "en-US": "[Meow goon]\nIf you run into a problem, ask them for help. You know, the twins in the vigilante corps. Aglio... Ali... Ol...",
         "pt-BR": "[Trabalhador]\nSe tiver qualquer problema, fale com aquela dupla dos Farfelle. Os... os...",
-        "es-ES": "[Matón Miau]\nSi te encuentras con un problema, pídeles ayuda. Ya sabes, a los gemelos del cuerpo de justicieros. Aglio… Ali… Ol…"
+        "es-ES": "[Matón Miau]\nSi te encuentras con un problema, pídeles ayuda. Ya sabes, a los gemelos del cuerpo de justicieros. Aglio... Ali... Ol..."
     },
     "M0gBCA": {
         "en-US": "[Meow goon]\nRight! They're Aglio and Oligo!",
@@ -8747,7 +8747,7 @@
     "NUgBCA": {
         "en-US": "[Goon meow]\nHey, That's not it... No...",
         "pt-BR": "[Trabalhador]\nEi, não é isso... Não...",
-        "es-ES": "[Matón Miau]\nNo es así… No…"
+        "es-ES": "[Matón Miau]\nNo es así... No..."
     },
     "NkgBCA": {
         "en-US": "[Meow goon]\nNo?",
@@ -8797,12 +8797,12 @@
     "P0gBCA": {
         "en-US": "[Goon meow]\nI'm... finished... You go ahead...",
         "pt-BR": "[Trabalhador]\nEu... terminei... Podem ir...",
-        "es-ES": "[Matón Miau]\nEstoy… liquidado… Tú sigue adelante…"
+        "es-ES": "[Matón Miau]\nEstoy... liquidado... Tú sigue adelante..."
     },
     "QEgBCA": {
         "en-US": "[Meow goon]\nKah... The poltergeist that had been sleeping inside my bag is raging!",
         "pt-BR": "[Trabalhador]\nKah... O poltergeist que estava dormindo dentro da minha bolsa está furioso!",
-        "es-ES": "[Matón Miau]\nKah… ¡El poltergeist que dormía dentro de mi bolsa está fuera de control!"
+        "es-ES": "[Matón Miau]\nKah... ¡El poltergeist que dormía dentro de mi bolsa está fuera de control!"
     },
     "QUgBCA": {
         "en-US": "[Goon meow]\nGood! This should be enough to keep me from getting snubbed in the new world.",
@@ -8957,7 +8957,7 @@
     "X0gBCA": {
         "en-US": "Cheesy...",
         "pt-BR": "Brega...",
-        "es-ES": "Qué cursi…"
+        "es-ES": "Qué cursi..."
     },
     "YEgBCA": {
         "en-US": "Ha- ppi- ness-",
@@ -8997,7 +8997,7 @@
     "Z0gBCA": {
         "en-US": "[Vongolo]\nOh, It's really good...",
         "pt-BR": "[Vongolo]\nAh, é muito bom...",
-        "es-ES": "[Vongolo]\nAy, es muy rico…"
+        "es-ES": "[Vongolo]\nAy, es muy rico..."
     },
     "aEgBCA": {
         "en-US": "Fettuccina",
@@ -9012,7 +9012,7 @@
     "akgBCA": {
         "en-US": "[Fettuccina]\nA glass before sailing out, a glass on land after a long voyage, a glass for everyone who came from out of town to make an oven resolution, a glass for every regular customers, a glass for everyone who drinks because others drink it..",
         "pt-BR": "[Fettucina]\nMas nunca dá pra fazer tudo pra um dia só. Faltam horas no dia!",
-        "es-ES": "[Fettuccina]\nUna copa antes de zarpar, una copa en tierra después de un largo viaje, una copa para todos los que vinieron desde otros lugares para acordar una Resolución de Oven, una copa para todos los clientes habituales, una copa para todos los que beben porque otros beben…"
+        "es-ES": "[Fettuccina]\nUna copa antes de zarpar, una copa en tierra después de un largo viaje, una copa para todos los que vinieron desde otros lugares para acordar una Resolución de Oven, una copa para todos los clientes habituales, una copa para todos los que beben porque otros beben..."
     },
     "a0gBCA": {
         "en-US": "[Fettuccina]\nSo basically, It's beyond your imagination how many glasses I have to wash each day. Not only that, I have to listen to vigilance corps and merchants' low-ranking dorams whine, and counsel rookie adventurers.",
@@ -9062,17 +9062,17 @@
     "dEgBCA": {
         "en-US": "I'm the boss of this playground-",
         "pt-BR": "Sou eu que mando neste parquinho!",
-        "es-ES": "Soy el jefe de este patio de juegos…"
+        "es-ES": "Soy el jefe de este patio de juegos..."
     },
     "dUgBCA": {
         "en-US": "Whew, you little kids... You guys are too young for me.",
         "pt-BR": "Aiaiai, essas crianças... Aposto que você é mais novo que eu!",
-        "es-ES": "Uf, chiquillos… Son demasiado jóvenes para mí."
+        "es-ES": "Uf, chiquillos... Son demasiado jóvenes para mí."
     },
     "dkgBCA": {
         "en-US": "There are one ten two ten three ten yarn balls... So many!",
         "pt-BR": "Um, dez, dois, quatro, sete, três... Estou aprendendo a contar!",
-        "es-ES": "Hay una, dos, tres decenas de Bolas de lana… ¡Son tantas!"
+        "es-ES": "Hay una, dos, tres decenas de Bolas de lana... ¡Son tantas!"
     },
     "d0gBCA": {
         "en-US": "Anyone who wants to ride the seesaw- come here-",
@@ -9272,7 +9272,7 @@
     "nkgBCA": {
         "en-US": "[Chef]\nThey're honey-crazy creatures who are masters when it comes to collecting honey... We can't get rid of them entirely since the flowers need to be pollenated, but there's a need to control their number.",
         "pt-BR": "[Chef]\nEles são doidos por mel.",
-        "es-ES": "[Chef]\nSon criaturas que se enloquecen por la miel y la recolectan de manera increíble… No podemos deshacernos de ellos por completo, ya que las flores deben polinizarse, pero es necesario controlar su población."
+        "es-ES": "[Chef]\nSon criaturas que se enloquecen por la miel y la recolectan de manera increíble... No podemos deshacernos de ellos por completo, ya que las flores deben polinizarse, pero es necesario controlar su población."
     },
     "n0gBCA": {
         "en-US": "[Chef]\nSo when the time comes, we hire adventurers to hunt the wild hornets.",
@@ -9407,7 +9407,7 @@
     "uUgBCA": {
         "en-US": "[Chef]\nNo, no. That's the most popular menu. What I mean is... right! Chef's specialty menu is what I meant.",
         "pt-BR": "[Chef]\nNão, o PRATO! Não a bebida.",
-        "es-ES": "[Chef]\nNo, no. Ese el menú más popular. Lo que quiero decir es… ¡ah, claro! Me refiero a la especialidad del chef."
+        "es-ES": "[Chef]\nNo, no. Ese el menú más popular. Lo que quiero decir es... ¡ah, claro! Me refiero a la especialidad del chef."
     },
     "ukgBCA": {
         "en-US": "[Chef]\nIt's the fish cake, there Aren't too many who ask for it. So we don't even have the ingredients in store.",
@@ -9602,7 +9602,7 @@
     "4EgBCA": {
         "en-US": "[Chef]\nOur cow...should eat lots of tasty stuff... Please take care of five Leaf Lunatics and five Grass Fabres.",
         "pt-BR": "[Chef]\nO pastinho das minhas vacas está ameaçado... Derrote 5 Lunáticos Folhados e 5 Fabres Gramíneos, por favor...",
-        "es-ES": "[Chef]\nNuestra vaca… tiene que comer muchas cosas sabrosas… Consigue 5Lunáticas de hoja y 5Fabre de hierba."
+        "es-ES": "[Chef]\nNuestra vaca... tiene que comer muchas cosas sabrosas... Consigue 5Lunáticas de hoja y 5Fabre de hierba."
     },
     "4UgBCA": {
         "en-US": "[Chef]\nAdventurer, can you do me a small favor? There are things I must do right now but as you can see, I am shorthanded. What'd you say?",
@@ -9672,17 +9672,17 @@
     "7kgBCA": {
         "en-US": "Moo - Moo -",
         "pt-BR": "Muu... Muu",
-        "es-ES": "Muu… Muu…"
+        "es-ES": "Muu... Muu..."
     },
     "70gBCA": {
         "en-US": "Bba -",
         "pt-BR": "Muu...",
-        "es-ES": "Baa…"
+        "es-ES": "Baa..."
     },
     "8EgBCA": {
         "en-US": "Mum - mum -",
         "pt-BR": "Muu Muuuuuu",
-        "es-ES": "Mum… Mum…"
+        "es-ES": "Mum... Mum..."
     },
     "8UgBCA": {
         "en-US": "Shepherd",
@@ -9702,7 +9702,7 @@
     "9EgBCA": {
         "en-US": "[Shepherd]\nNot today. Maybe tomorrow? Let me see... Who said needed some help?",
         "pt-BR": "[Risotto]\nHoje não. Talvez amanhã? Deixe-me ver... Quem disse que precisava de ajuda?",
-        "es-ES": "[Pastor]\nHoy no. ¿Quizás mañana? Déjame ver… ¿Quién dijo que necesitaba ayuda?"
+        "es-ES": "[Pastor]\nHoy no. ¿Quizás mañana? Déjame ver... ¿Quién dijo que necesitaba ayuda?"
     },
     "9UgBCA": {
         "en-US": "[Shepherd]\nI heard that honey collect is in need of help, so you should go see ^4D4DFF[Florin]^000000. Thank you for helping us.",
@@ -9762,7 +9762,7 @@
     "AEkBCA": {
         "en-US": "[Shepherd]\nMm...good. This area is settled now. You're really good at this.",
         "pt-BR": "[Risotto]\nA área parece segura agora...",
-        "es-ES": "[Pastor]\nMmm… bien. Esta zona ya está controlada. Te va muy bien haciendo esto."
+        "es-ES": "[Pastor]\nMmm... bien. Esta zona ya está controlada. Te va muy bien haciendo esto."
     },
     "AUkBCA": {
         "en-US": "[Shepherd]\nThank you so much. I hope you can help us again next time. So what'd you say? Please give it a thought.",
@@ -9817,7 +9817,7 @@
     "C0kBCA": {
         "en-US": "[Shepherd]\nAnd... Oh, I don't even want to imagine after that.",
         "pt-BR": "[Risotto]\nE... Ah, nem quero imaginar depois disso.",
-        "es-ES": "[Pastor]\nY… Ay, no quiero ni imaginar qué sucede después de eso."
+        "es-ES": "[Pastor]\nY... Ay, no quiero ni imaginar qué sucede después de eso."
     },
     "DEkBCA": {
         "en-US": "[Shepherd]\nSo I need you to catch Grass Fabres and Leaf Lunatics. Five each. Okay, then start!",
@@ -9917,7 +9917,7 @@
     "H0kBCA": {
         "en-US": "[Florin]\nApiculture? Taking honey...collected by bees? There was such a method? But for some reason, I feel bad for the hornets.",
         "pt-BR": "[Florin]\nHum... Sabe que eu nunca tinha pensado nisso?",
-        "es-ES": "[Florin]\n¿Apicultura? ¿Recolectar miel… recolectada por las abejas? ¿Existía tal método? Por alguna razón, me siento mal por los Avispones."
+        "es-ES": "[Florin]\n¿Apicultura? ¿Recolectar miel... recolectada por las abejas? ¿Existía tal método? Por alguna razón, me siento mal por los Avispones."
     },
     "IEkBCA": {
         "en-US": "[{0}]\nBetween taking the collected honey and killing it, I don't know which is worse for the hornets.",
@@ -9972,7 +9972,7 @@
     "KkkBCA": {
         "en-US": "[Florin]\nReally... you'll help me? Even after I had hit you? Well, I'm so grateful if you can because I need some help right now.",
         "pt-BR": "[Florin]\nSério... você vai me ajudar? Mesmo depois de eu ter te batido? Bem, eu ficaria muito grata se você pudesse, porque preciso de ajuda agora.",
-        "es-ES": "[Florin]\nEn serio… ¿me ayudarás? ¿Incluso después de haberte golpeado? Bueno, te agradeceré mucho si puedes porque, en este momento, necesito ayuda."
+        "es-ES": "[Florin]\nEn serio... ¿me ayudarás? ¿Incluso después de haberte golpeado? Bueno, te agradeceré mucho si puedes porque, en este momento, necesito ayuda."
     },
     "K0kBCA": {
         "en-US": "[Florin]\nI'm collecting honey needed to ferment kahlunac from the blooming flowers here, but our biggest rivals, the hornets, are taking everything before we even get a chance.",
@@ -9982,7 +9982,7 @@
     "LEkBCA": {
         "en-US": "[Florin]\nAt this rate, I won't have enough honey and won't be able to make kahlunac milk. If people can't drink kahlunac milk, then there will be a riot and...",
         "pt-BR": "[Florin]\nDesse jeito, eu vou acabar ficando sem mel.\nSem mel, não dá pra fazer o Leite de Kaluna, e as pessoas são capazes de queimar colchões se não beberem o leite delas no final do dia...",
-        "es-ES": "[Florin]\nA este paso, no tendré suficiente miel y no podré hacer Leche de Kahluna. Si la gente no puede beber Leche de Kahluna, habrá disturbios y…"
+        "es-ES": "[Florin]\nA este paso, no tendré suficiente miel y no podré hacer Leche de Kahluna. Si la gente no puede beber Leche de Kahluna, habrá disturbios y..."
     },
     "LUkBCA": {
         "en-US": "[Florin]\nAdventurer, I beg you. We must stop Lasagna from going back to its dark ages. Everything is in your hands!",
@@ -10052,7 +10052,7 @@
     "OkkBCA": {
         "en-US": "[Prok]\nSlippery- sticky- It's amazing such creatures exist.",
         "pt-BR": "[Prog]\nSapos são tão escorregadios... Não é engraçado?",
-        "es-ES": "[Prok]\nResbaladizas, pegajosas… Es increíble que existan criaturas así."
+        "es-ES": "[Prok]\nResbaladizas, pegajosas... Es increíble que existan criaturas así."
     },
     "O0kBCA": {
         "en-US": "[Prok]\nYou're here again. But I don't need sticky webfeet yet. What you sent yesterday is enough.",
@@ -10092,7 +10092,7 @@
     "QkkBCA": {
         "en-US": "[Prok]\nYou need to catch ten... I also need five sticky webfeet.",
         "pt-BR": "[Prog]\nLembre-se: 10 Sapos de Rodda Doces e 5 Patas Pegajosas. Muito obrigado!",
-        "es-ES": "[Prok]\nTienes que atrapar 10… También necesito 5Patas palmípedas pegajosas."
+        "es-ES": "[Prok]\nTienes que atrapar 10... También necesito 5Patas palmípedas pegajosas."
     },
     "Q0kBCA": {
         "en-US": "[Prok]\nCan you by any chance help me? If you have time, that is.",
@@ -10122,7 +10122,7 @@
     "SEkBCA": {
         "en-US": "[Prok]\nChef must be waiting... It's such a relief that you're helping me.",
         "pt-BR": "[Prog]\nO Chef deve estar esperando... Que alívio que você esteja me ajudando.",
-        "es-ES": "[Prok]\nEl chef debe estar esperando… Es un alivio que me ayudes."
+        "es-ES": "[Prok]\nEl chef debe estar esperando... Es un alivio que me ayudes."
     },
     "SUkBCA": {
         "en-US": "[Prok]\nCould you catch Sweet Roda Frogs and bring me sticky webfeet? Around five of them. Thank you!",
@@ -10247,7 +10247,7 @@
     "YUkBCA": {
         "en-US": "[Fisher]\nThen again...It's hard to forget this fish once you get a taste of it since the flavors are concentrated.",
         "pt-BR": "[Pescador]\nMas é difícil esquecer este peixe depois de experimentá-lo, já que os sabores são concentrados.",
-        "es-ES": "[Fisher]\nAdemás… es difícil olvidar este pescado una vez que lo pruebas, ya que los sabores están concentrados."
+        "es-ES": "[Fisher]\nAdemás... es difícil olvidar este pescado una vez que lo pruebas, ya que los sabores están concentrados."
     },
     "YkkBCA": {
         "en-US": "[Fisher]\nBut this is Chef's favorite snack. It's the only snack that picky eater likes.",
@@ -10277,7 +10277,7 @@
     "Z0kBCA": {
         "en-US": "[Sleepy meow]\nAdventurer. You're kind... You saved my life.",
         "pt-BR": "[Ronquinho]\nVocê é muito legal. Obrigado por me ajudar.",
-        "es-ES": "[Miau Somnoliento]\nTrotamundos. Qué amable… Me salvaste la vida."
+        "es-ES": "[Miau Somnoliento]\nTrotamundos. Qué amable... Me salvaste la vida."
     },
     "aEkBCA": {
         "en-US": "[Sleepy meow]\nBut what are you doing in such a rustic place? Isn't it better that you go and search for a bigger world? Like the new world, for example.",
@@ -10332,17 +10332,17 @@
     "ckkBCA": {
         "en-US": "[Sleepy meow]\ndon't block the sunlight meow...",
         "pt-BR": "[Ronquinho]\nEi, você tá tampando o sol...",
-        "es-ES": "[Miau Somnoliento]\nNo bloquees la luz solar, miau…"
+        "es-ES": "[Miau Somnoliento]\nNo bloquees la luz solar, miau..."
     },
     "c0kBCA": {
         "en-US": "[Sleepy meow]\nthere's no more for today, so can go...",
         "pt-BR": "[Ronquinho]\nVocê já fez muito... por hoje...",
-        "es-ES": "[Miau Somnoliento]\nNo hay más nada que hacer hoy, así que puedes irte…"
+        "es-ES": "[Miau Somnoliento]\nNo hay más nada que hacer hoy, así que puedes irte..."
     },
     "dEkBCA": {
         "en-US": "[Sleepy meow]\ndon't disturb my... sleep...",
         "pt-BR": "[Ronquinho]\nNão interrompa meu sono, por favor...",
-        "es-ES": "[Miau Somnoliento]\nNo interrumpas mi… sueño…"
+        "es-ES": "[Miau Somnoliento]\nNo interrumpas mi... sueño..."
     },
     "dUkBCA": {
         "en-US": "[Sleepy meow]\nAn adventurer. The adventurer from yesterday. Great, please save me today as well meow.",
@@ -10362,12 +10362,12 @@
     "eEkBCA": {
         "en-US": "[Sleepy meow]\nPlease...help me...",
         "pt-BR": "[Ronquinho]\nMe ajude... Por favor...",
-        "es-ES": "[Miau Somnoliento]\nAyúdame… por favor…"
+        "es-ES": "[Miau Somnoliento]\nAyúdame... por favor..."
     },
     "eUkBCA": {
         "en-US": "[Sleepy meow]\nAdventurer...? Are you waking me up cuz you're done? Let me see...",
         "pt-BR": "[Ronquinho]\nZzzzz...? Você está me acordando porque já terminou? Deixa eu ver...",
-        "es-ES": "[Miau Somnoliento]\n¿Trotamundos…? ¿Me estás despertando porque terminaste? Déjame ver…"
+        "es-ES": "[Miau Somnoliento]\n¿Trotamundos...? ¿Me estás despertando porque terminaste? Déjame ver..."
     },
     "ekkBCA": {
         "en-US": "[Sleepy meow]\nWow, you're really done! That was so quick of you that I am wide awake. You really are a wonder!",
@@ -10387,7 +10387,7 @@
     "fUkBCA": {
         "en-US": "[Sleepy meow]\nAdventurer...please save me...",
         "pt-BR": "[Ronquinho]\nMe ajude... Por favor...",
-        "es-ES": "[Miau Somnoliento]\nTrotamundos… sálvame, por favor…"
+        "es-ES": "[Miau Somnoliento]\nTrotamundos... sálvame, por favor..."
     },
     "fkkBCA": {
         "en-US": "Why? What's wrong?",
@@ -10402,7 +10402,7 @@
     "gEkBCA": {
         "en-US": "[Sleepy meow]\nI think I'm going to die at this rate...",
         "pt-BR": "[Ronquinho]\nAcho que vou morrer nesse ritmo...",
-        "es-ES": "[Miau Somnoliento]\nCreo que moriré a este paso…"
+        "es-ES": "[Miau Somnoliento]\nCreo que moriré a este paso..."
     },
     "gUkBCA": {
         "en-US": "[{0}]\nSo what's the matter?",
@@ -10412,7 +10412,7 @@
     "gkkBCA": {
         "en-US": "[Sleepy meow]\nMy dad, I mean, Chef, told me to get mushroom spores or something...",
         "pt-BR": "[Ronquinho]\nMeu pai, quer dizer, o Chef, me disse para pegar esporos de cogumelo ou algo assim...",
-        "es-ES": "[Miau Somnoliento]\nMi papá, digo, el chef, me dijo que consiguiera Esporas de hongo o algo así…"
+        "es-ES": "[Miau Somnoliento]\nMi papá, digo, el chef, me dijo que consiguiera Esporas de hongo o algo así..."
     },
     "g0kBCA": {
         "en-US": "[Sleepy meow]\nBut look. The sunlight.",
@@ -10422,12 +10422,12 @@
     "hEkBCA": {
         "en-US": "[Sleepy meow]\nI must bathe in the sunlight and sleep on days like this...",
         "pt-BR": "[Ronquinho]\nPreciso tomar banho de sol e dormir em dias como este...",
-        "es-ES": "[Miau Somnoliento]\nEn días como este, debo bañarme en la luz solar y dormir…"
+        "es-ES": "[Miau Somnoliento]\nEn días como este, debo bañarme en la luz solar y dormir..."
     },
     "hUkBCA": {
         "en-US": "[Sleepy meow]\nThis sunlight is putting me to sleep meow...",
         "pt-BR": "[Ronquinho]\nEssa luz do sol está me fazendo dormir, miau...",
-        "es-ES": "[Miau Somnoliento]\nEsta luz solar me está durmiendo, miau…"
+        "es-ES": "[Miau Somnoliento]\nEsta luz solar me está durmiendo, miau..."
     },
     "hkkBCA": {
         "en-US": "[Sleepy meow]\nI was here, desperately fighting against the sunlight and waiting for someone to pass by meow.",
@@ -10487,7 +10487,7 @@
     "kUkBCA": {
         "en-US": "[Sleepy meow]\nSo, please think of it as... saving someone's life...and help meeee...",
         "pt-BR": "[Ronquinho]\nEntão, por favor, pense nisso como... salvar a vida de alguém... e me ajudeeee...",
-        "es-ES": "[Miau Somnoliento]\nAsí que puedes pensarlo como… salvar la vida de alguien… y ayudarmeee…"
+        "es-ES": "[Miau Somnoliento]\nAsí que puedes pensarlo como... salvar la vida de alguien... y ayudarmeee..."
     },
     "kkkBCA": {
         "en-US": "[{0}]\nI think someone with more experience should take care of this. I'm still a rookie.",
@@ -10497,6 +10497,6 @@
     "k0kBCA": {
         "en-US": "[Sleepy meow]\nSo cold-hearted...",
         "pt-BR": "[Ronquinho]\nMas olha esse solzinho... Dá pra não tirar um cochilo nele?",
-        "es-ES": "[Miau Somnoliento]\nCuánta frialdad…"
+        "es-ES": "[Miau Somnoliento]\nCuánta frialdad..."
     }
 }

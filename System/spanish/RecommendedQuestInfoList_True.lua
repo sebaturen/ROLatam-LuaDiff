@@ -85,5 +85,88 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = {
 			"^ff0000Esta página es una presentación de la actualización, no una misión. Ten en cuenta que no se eliminará aunque completes la misión.^000000"
 		}
+	},
+	[81] = {
+		Title = "Torre de las Constelaciones",
+		IconName = "ico_sc.bmp",
+		Summary = "Enfréntate al nuevo señor",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "e_tower",
+		NpcPosX = 71,
+		NpcPosY = 115,
+		BgName = "reco_81.bmp",
+		QuestInfo1 = {
+			"^003355¿Que ha cambiado de dueño?^000000",
+			"Parece que alguien ha puesto patas arriba la torre conocida como Torre Infinita.",
+			"Sin saber qué clase de peligrosa entidad es, alguien debe averiguar la identidad del nuevo señor."
+		},
+		QuestInfo2 = {
+			"Condiciones de acceso",
+			"Aventureros de ^990000nivel 240 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000? Esta página es una introducción de actualización, no una misión. Ten en cuenta que no se eliminará aunque completes la misión.^000000"
+		}
+	},
+	[78] = {
+		Title = "Torre Hundida",
+		IconName = "ico_sc.bmp",
+		Summary = "Huéspedes no bienvenidos de la zona de erosión",
+		NpcSpr = "4_4JOB_LETICIA",
+		NpcNavi = "alberta",
+		NpcPosX = 213,
+		NpcPosY = 71,
+		BgName = "reco_78.bmp",
+		QuestInfo1 = {
+			"^003355Alguien tiene que hacerlo^000000",
+			"Dicen que, bajo la zona de erosión de la Torre Infinita hundida, se están colando/expulsando seres poco bienvenidos!",
+			"No creo que puedas conseguir un gran tesoro... pero quizá sí sea una buena experiencia. Y tú, que parece que tendrás que echarle fuerza por allí, tampoco eres una excepción, ¿no?"
+		},
+		QuestInfo2 = {
+			"Condición del desafío",
+			"^990000Aventureros de nivel 40 o superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000 Esta página no es una misión. Ten en cuenta que, aunque completes la misión, no se eliminará.^000000"
+		}
+	},
+	[82] = {
+		Title = "MD Memórias dos Heróis Túmulo do Arrependimento",
+		IconName = "ico_sc.bmp",
+		Summary = "O espadachim mágico encontrado em Túmulo do Arrependimento e a espada mágica que anseia por sangue",
+		BgName = "reco_82.bmp",
+		NpcSpr = "MD_TIARA",
+		NpcNavi = "dali",
+		NpcPosX = 124,
+		NpcPosY = 88,
+		QuestInfo1 = {
+			"Um pedido recebido da princesa de um reino arruinado, e o contratante da espada mágica encontrado no destino alcançado.",
+			"A Espada ruge, e o cadáver que se ergueu fora de seu tempo derrama lágrimas."
+		},
+		QuestInfo2 = {
+			"Condições de acesso",
+			"Aventureiros de nível 220 ou superior"
+		},
+		QuestInfo3 = {
+			"^ff0000 Esta página é uma apresentação de atualização, não uma missão. Observe que ela não será excluída mesmo que a missão seja concluída.^000000"
+		}
+	},
+	[7] = {
+		Title = "Festival de Fideos",
+		IconName = "ico_ev.bmp",
+		Summary = "¡Ven a Lasagna!",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"¿Qué tal un poco de fideos deliciosos?",
+			"¡Únete al Festival de Fideos en <NAVI>[Lasagna]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>! ¡Puedes conseguir grandes recompensas!"
+		},
+		QuestInfo2 = {
+			"Evento Limitado",
+			"Consulta los requisitos",
+			"^ff0000Nivel mínimo: 50^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Ø Periodo: Del 3 al 18 de agosto.^000000"
+		}
 	}
 }

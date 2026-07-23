@@ -1218,5 +1218,80 @@
         "en-US": "^nItemID^31953",
         "pt-BR": "^nItemID^31953",
         "es-ES": "^nItemID^31953"
+    },
+    "dC7iAQ": {
+        "en-US": "^nItemID^19824",
+        "pt-BR": "^nItemID^19824",
+        "es-ES": "^nItemID^19824"
+    },
+    "dS7iAQ": {
+        "en-US": "^nItemID^20069",
+        "pt-BR": "^nItemID^20069",
+        "es-ES": "^nItemID^20069"
+    },
+    "di7iAQ": {
+        "en-US": "^nItemID^20071",
+        "pt-BR": "^nItemID^20071",
+        "es-ES": "^nItemID^20071"
+    },
+    "dy7iAQ": {
+        "en-US": "^nItemID^20460",
+        "pt-BR": "^nItemID^20460",
+        "es-ES": "^nItemID^20460"
+    },
+    "eC7iAQ": {
+        "en-US": "^nItemID^20590",
+        "pt-BR": "^nItemID^20590",
+        "es-ES": "^nItemID^20590"
+    },
+    "eS7iAQ": {
+        "en-US": "^nItemID^31410",
+        "pt-BR": "^nItemID^31410",
+        "es-ES": "^nItemID^31410"
+    },
+    "ei7iAQ": {
+        "en-US": "^nItemID^31432",
+        "pt-BR": "^nItemID^31432",
+        "es-ES": "^nItemID^31432"
+    },
+    "ey7iAQ": {
+        "en-US": "^nItemID^31480",
+        "pt-BR": "^nItemID^31480",
+        "es-ES": "^nItemID^31480"
+    },
+    "fC7iAQ": {
+        "en-US": "^nItemID^31611",
+        "pt-BR": "^nItemID^31611",
+        "es-ES": "^nItemID^31611"
+    },
+    "fS7iAQ": {
+        "en-US": "^nItemID^400729",
+        "pt-BR": "^nItemID^400729",
+        "es-ES": "^nItemID^400729"
+    },
+    "fi7iAQ": {
+        "en-US": "^nItemID^400739",
+        "pt-BR": "^nItemID^400739",
+        "es-ES": "^nItemID^400739"
+    },
+    "fy7iAQ": {
+        "en-US": "^nItemID^420774",
+        "pt-BR": "^nItemID^420774",
+        "es-ES": "^nItemID^420774"
+    },
+    "gC7iAQ": {
+        "en-US": "^nItemID^420775",
+        "pt-BR": "^nItemID^420775",
+        "es-ES": "^nItemID^420775"
+    },
+    "gS7iAQ": {
+        "en-US": "^nItemID^480802",
+        "pt-BR": "^nItemID^480802",
+        "es-ES": "^nItemID^480802"
+    },
+    "gi7iAQ": {
+        "en-US": "^nItemID^480807",
+        "pt-BR": "^nItemID^480807",
+        "es-ES": "^nItemID^480807"
     }
 }

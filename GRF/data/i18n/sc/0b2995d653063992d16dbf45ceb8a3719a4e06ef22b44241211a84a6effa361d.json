@@ -32,7 +32,7 @@
     "xljCBg": {
         "en-US": "[Battle Instructor Subino]\nYou shouldn't be like this, you are high enough to change your job.\nI won't stop you even if you stay still...",
         "pt-BR": "[Spino]\nVocê não prosseguir sem antes aumentar seu nível.\nNão me importo se quiser ficar, mas precisa aumentar seu nível.",
-        "es-ES": "[Instructor Subino]\nNo deberías ponerte así, tienes lo necesario para cambiar de clase.\nNo te detendré aunque no te muevas…"
+        "es-ES": "[Instructor Subino]\nNo deberías ponerte así, tienes lo necesario para cambiar de clase.\nNo te detendré aunque no te muevas..."
     },
     "x1jCBg": {
         "en-US": "[Battle Instructor Subino]\nTry to talk to ^FF0000each job instructor^000000 on the 2nd floor of the Academy if you aren't sure what job you want still.",
@@ -82,7 +82,7 @@
     "0FjCBg": {
         "en-US": "[Battle Instructor Subino]\nWow..!!\nWell done!!",
         "pt-BR": "[Spino]\nOpa!\nÓtimo, ótimo...",
-        "es-ES": "[Instructor Subino]\n¡Guau…!\n¡Bien hecho!"
+        "es-ES": "[Instructor Subino]\n¡Guau...!\n¡Bien hecho!"
     },
     "0VjCBg": {
         "en-US": "[Battle Instructor Subino]\nYou don't have enough ^FF0000Jellopy^000000\nDo better!",
@@ -162,7 +162,7 @@
     "4FjCBg": {
         "en-US": "[Battle Instructor Subino]\n^FF0000Lunatic^000000 are very cute animal that live near Prontera.\nTender...soft...very cute... it is very cute........",
         "pt-BR": "[Spino]\nA melhor forma de se obter Cenoura é derrotando Lunáticos.\nApesar do nome, são criaturas fofas... Eu acho...",
-        "es-ES": "[Instructor Subino]\nLas ^FF0000Lunáticas^000000 son unos animales muy adorables que viven cerca de Prontera.\nTiernas… suaves… muy adorables… son muy adorables……"
+        "es-ES": "[Instructor Subino]\nLas ^FF0000Lunáticas^000000 son unos animales muy adorables que viven cerca de Prontera.\nTiernas... suaves... muy adorables... son muy adorables......"
     },
     "4VjCBg": {
         "en-US": "[Battle Instructor Subino]\nIt always bring ^FF0000Carrot^000000s with it, so it is easy to get a delicious carrot by hunting them.",
@@ -242,7 +242,7 @@
     "8FjCBg": {
         "en-US": "[Battle Instructor Subino]\n^FF0000Hornet^000000s are a group of bees that live near Prontera under control of the Queen bee Mistress.\nNot aggressive... they only attack with their stingers when they are in danger.",
         "pt-BR": "[Spino]\nO ^FF0000Zangão^000000 é uma criatura que vive em grupo. Juntos protegem a Abelha-Rainha.\nNão costuma ser uma criatura agressiva, mas o ferrão pode machucar.",
-        "es-ES": "[Instructor Subino]\nLos ^FF0000Avispones^000000 son un grupo de abejas que viven cerca de Prontera bajo el control de la Abeja reina.\nNo son agresivos… solo usan sus aguijones para atacar cuando están en peligro."
+        "es-ES": "[Instructor Subino]\nLos ^FF0000Avispones^000000 son un grupo de abejas que viven cerca de Prontera bajo el control de la Abeja reina.\nNo son agresivos... solo usan sus aguijones para atacar cuando están en peligro."
     },
     "8VjCBg": {
         "en-US": "[Battle Instructor Subino]\nThere is a study about using the poison extracted from their stingers to make an antidote in Criatura Academy.",
@@ -252,7 +252,7 @@
     "8ljCBg": {
         "en-US": "[Battle Instructor Subino]\nHornets are found in ^FF0000West field of Prontera^000000.\nHornet are difficult to catch for a Novice... but if you gather more Novices, you can do it.",
         "pt-BR": "[Spino]\nVocê pode encontrar Zangões a Oeste de Prontera. Prontera está a Noroeste de Izlude, que é onde a Academia Criatura fica.",
-        "es-ES": "[Instructor Subino]\nLos Avispones se encuentran en el ^FF0000campo del oeste de Prontera^000000.\nA los Principiantes les resulta difícil atrapar a los Avispones por su cuenta… pero si reúnes a más Principiantes, podrás hacerlo."
+        "es-ES": "[Instructor Subino]\nLos Avispones se encuentran en el ^FF0000campo del oeste de Prontera^000000.\nA los Principiantes les resulta difícil atrapar a los Avispones por su cuenta... pero si reúnes a más Principiantes, podrás hacerlo."
     },
     "81jCBg": {
         "en-US": "[Battle Instructor Subino]\nHunt ^FF000010 Hornets^000000 and bring ^FF00003 Bee Stings^000000.\nYou can check received quests by pressing ^FF0000Alt+U^000000",
@@ -282,7 +282,7 @@
     "+FjCBg": {
         "en-US": "[Alice Yisha]\nIt is annoying... but you need to register so you can receive ^FF0000lots of education and service of Criatura Academy^000000.",
         "pt-BR": "[Alice, dos Noviços]\nApesar da burocracia, se registrar garante muitos serviços exclusivos da Academia Criatura.",
-        "es-ES": "[Alice Yisha]\nEs molesto… pero tienes que registrarte para que puedas recibir ^FF0000toda la educación y los servicios de la Academia de criaturas^000000."
+        "es-ES": "[Alice Yisha]\nEs molesto... pero tienes que registrarte para que puedas recibir ^FF0000toda la educación y los servicios de la Academia de criaturas^000000."
     },
     "+VjCBg": {
         "en-US": "[Alice Yisha]\noh my!\nNice to meet you.\nI am Alice Yisha ^FF0000in charge of the Acolyte^000000s.",
@@ -372,7 +372,7 @@
     "ClnCBg": {
         "en-US": "[Alice Yisha]\nFor the character of ^FF0000Attack type^000000, ^FF0000DEX^000000 will be most important status...no?\nIf the attack does not hit the enemy, the attack is meaningless.\nYou may increase STR, VIT, AGI according to your style.",
         "pt-BR": "[Alice, dos Noviços]\nO DES é um atributo que ajuda na velocidade de lançamento de magias, o que pode ajudar caso um caminho híbrido entre Cura e Combate seja escolhido.\nO importante é encontrar um estabilidade entre os atributos, focando sempre no que achar crucial.",
-        "es-ES": "[Alice Yisha]\nPara los Acólitos de ^FF0000tipo Ataque^000000, la ^FF0000DES^000000 es la estadística más importante… ¿no?\nSi el ataque no golpea al enemigo, el ataque no tiene sentido.\nPuedes aumentar la FUE, la VIT y la AGI según tu estilo."
+        "es-ES": "[Alice Yisha]\nPara los Acólitos de ^FF0000tipo Ataque^000000, la ^FF0000DES^000000 es la estadística más importante... ¿no?\nSi el ataque no golpea al enemigo, el ataque no tiene sentido.\nPuedes aumentar la FUE, la VIT y la AGI según tu estilo."
     },
     "C1nCBg": {
         "en-US": "[Alice Yisha]\nYou might think an Acolyte is not strong enough because it has no attack type skill, it enables use of sub essential skills which enhance the powers as much as you want. It helps your stable hunting.",
@@ -407,7 +407,7 @@
     "EVnCBg": {
         "en-US": "[Alice Yisha]\noh my!\nSo.. you decided to be an Acolyte?\nOdin welcomes you.",
         "pt-BR": "[Alice, dos Noviços]\nOpa, puxa!\nVocê decidiu seguir o caminho do Noviço?\nOdin ficará feliz e de braços abertos.",
-        "es-ES": "[Alice Yisha]\n¡Ay, vaya!\nAsí que… ¿decidiste ser de clase Acólito?\nOdín te da la bienvenida."
+        "es-ES": "[Alice Yisha]\n¡Ay, vaya!\nAsí que... ¿decidiste ser de clase Acólito?\nOdín te da la bienvenida."
     },
     "ElnCBg": {
         "en-US": "[Alice Yisha]\nThen, go to ^FF0000Father Marcis^000000 at the ^FF0000Cathedral^000000 at the northeast ^FF0000Prontera^000000.\nIf your ^FF0000Job Level 10^000000, you can change to Acolyte.",
@@ -437,7 +437,7 @@
     "F1nCBg": {
         "en-US": "[Alice Yisha]\nEither way, it's up to you...",
         "pt-BR": "[Alice, dos Noviços]\nDe qualquer forma, a escolha é sua...",
-        "es-ES": "[Alice Yisha]\nDe cualquier forma, depende de ti…"
+        "es-ES": "[Alice Yisha]\nDe cualquier forma, depende de ti..."
     },
     "GFnCBg": {
         "en-US": "Still, I want to change jobs right away.",
@@ -542,7 +542,7 @@
     "LFnCBg": {
         "en-US": "[A nun]\nWell.. if you are not interested.. fine.\nmurmuring",
         "pt-BR": "Hmm, não quero, não...",
-        "es-ES": "[Monja]\nBueno… si no te interesa… está bien.\n*Murmura*"
+        "es-ES": "[Monja]\nBueno... si no te interesa... está bien.\n*Murmura*"
     },
     "LVnCBg": {
         "en-US": "[Alice Yisha]\nIf you go to the logistics room ^FF0000on the first floor^000000, <NAVI>[Svino]<INFO>iz_ac01_b,59,83,</INFO></NAVI> will give you a quest.",
@@ -702,7 +702,7 @@
     "TFnCBg": {
         "en-US": "- Sha sha shak shak shak  -\n- chikak, crack crak.. -\n- snap, snap snap..crack -\n- Sha sha shak shak shak  -",
         "pt-BR": "Sha sha shak shak shak -\nchikak, crack crak.. -\nsnap, snap snap..crack -\nSha sha shak shak shak -",
-        "es-ES": "*Sha, sha, shac, shac, shac*\n*Chicac, crac, crac*\n*Trac, trac, trac… crac*\n*Sha, sha, shac, shac, shac*"
+        "es-ES": "*Sha, sha, shac, shac, shac*\n*Chicac, crac, crac*\n*Trac, trac, trac... crac*\n*Sha, sha, shac, shac, shac*"
     },
     "TVnCBg": {
         "en-US": "[Otter Samssoon]\noh my! oh my! oh my!\nthis hair style suits to you~\nWhat do you think?",
@@ -717,7 +717,7 @@
     "T1nCBg": {
         "en-US": "[Otter Samssoon]\nhoney~ you don't like it?\nAhem.. do you want to read style book again?\nTake your time and tell me when you decide~ okay?~",
         "pt-BR": "[Otto]\nDocinho~ não gostou?\nAhem... quer ver o catálogo de estilos de novo?\nPense com calma e me avise quando decidir~ ok?~",
-        "es-ES": "[Nutria Samssoon]\nCariño~, ¿no te gusta?\nEjem… ¿Quieres leer el libro de estilos otra vez?\nTómate tu tiempo y avísame cuando hayas tomado una decisión~, ¿sí~?"
+        "es-ES": "[Nutria Samssoon]\nCariño~, ¿no te gusta?\nEjem... ¿Quieres leer el libro de estilos otra vez?\nTómate tu tiempo y avísame cuando hayas tomado una decisión~, ¿sí~?"
     },
     "UFnCBg": {
         "en-US": "[Otter Samssoon]\nYou can receive ^FF0000Criatura beauty coupon^000000 from ^FF0000vending machine for novice in 1st job guild or paradise club^000000.",
@@ -727,12 +727,12 @@
     "UVnCBg": {
         "en-US": "[Otter Samssoon]\nthey don't give for free.. well.. the equipment you had received when you arrived at academy?\nThey change ^FF0000egg shell for novice^000000 to coupon?",
         "pt-BR": "[Otto]\nNão é de graça... bem... lembrou do equipamento que ganhou na academia?\nEles trocam a ^FF0000Chapéu de Ovo do Aprendiz^000000 pelo cupom.",
-        "es-ES": "[Nutria Samssoon]\nNo los dan gratis… bueno… ¿y el equipamiento que recibiste cuando llegaste a la Academia?\n¿Cambian una ^FF0000Cáscara de huevo para Principiantes^000000 por un cupón?"
+        "es-ES": "[Nutria Samssoon]\nNo los dan gratis... bueno... ¿y el equipamiento que recibiste cuando llegaste a la Academia?\n¿Cambian una ^FF0000Cáscara de huevo para Principiantes^000000 por un cupón?"
     },
     "UlnCBg": {
         "en-US": "[Otter Samssoon]\nThis service has started since I came here. so..no free service if you have no coupon~",
         "pt-BR": "[Otto]\nEste serviço começou quando cheguei aqui. Então... nada de grátis sem cupom~",
-        "es-ES": "[Nutria Samssoon]\nEste servicio comenzó cuando llegué aquí. Así que… no hay servicio gratis si no tienes un cupón~."
+        "es-ES": "[Nutria Samssoon]\nEste servicio comenzó cuando llegué aquí. Así que... no hay servicio gratis si no tienes un cupón~."
     },
     "U1nCBg": {
         "en-US": "[Otter Samssoon]\noh my !!?honey, you are not going to change hair?\nyou look nice now rough style.",

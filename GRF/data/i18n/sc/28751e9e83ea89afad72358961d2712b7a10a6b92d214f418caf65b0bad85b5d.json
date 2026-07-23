@@ -57,12 +57,12 @@
     "K0+1CA": {
         "en-US": "But who are you?",
         "pt-BR": "Quem é você?",
-        "es-ES": "¿Quién eres…?"
+        "es-ES": "¿Quién eres...?"
     },
     "LE+1CA": {
         "en-US": "[Ingrata D]\nWho am I? Hmm... I do not know either. When I was recreated from the molecular structure, a piece went missing. Similar to a neuron for organisms like you.",
         "pt-BR": "[Ingrata D]\nQuem sou eu? Bem... também não tenho certeza. Quando fui regenerada da estrutura molecular, algumas das partes correspondentes aos neurônios em termos biológicos foram arrancadas.",
-        "es-ES": "[IngrataD]\n¿Qué quién soy? Mmm… Yo tampoco lo sé. Cuando me recrearon a partir de la estructura molecular, faltaba una pieza. Similar a una neurona para organismos como el tuyo."
+        "es-ES": "[IngrataD]\n¿Qué quién soy? Mmm... Yo tampoco lo sé. Cuando me recrearon a partir de la estructura molecular, faltaba una pieza. Similar a una neurona para organismos como el tuyo."
     },
     "LU+1CA": {
         "en-US": "[Ingrata D]\nAfter speaking with Ingrata over there, all I was able to decipher is that I once belonged to the Ingrata Code.\nBut I do not even know what the Ingrata Code is.",
@@ -72,7 +72,7 @@
     "Lk+1CA": {
         "en-US": "[Ingrata D]\nI must return home somewhere, my strong desire for cards... But I do not believe that I can go back to my previous form.\nI am just doing what I can here with the resources I have left.",
         "pt-BR": "[Ingrata D]\nA necessidade de voltar a algum lugar, o desejo intenso por um cartão... Provavelmente não poderei voltar a ser como era antes.\nEstamos apenas fazendo o que podemos com nossos recursos.",
-        "es-ES": "[IngrataD]\nDebo regresar a casa en alguna parte, tengo un fuerte deseo de cartas… Pero no creo que pueda volver a mi forma anterior.\nSolo hago lo que puedo aquí con los recursos que me quedan."
+        "es-ES": "[IngrataD]\nDebo regresar a casa en alguna parte, tengo un fuerte deseo de cartas... Pero no creo que pueda volver a mi forma anterior.\nSolo hago lo que puedo aquí con los recursos que me quedan."
     },
     "L0+1CA": {
         "en-US": "[Ingrata D]\nLet me know if you need an upgrade.",
@@ -147,7 +147,7 @@
     "PU+1CA": {
         "en-US": "[Ingrata D]\n^990099{0}^000000?!\nSorry, but I don't think I can handle this item...",
         "pt-BR": "[Ingrata D]\n^990099{0}^000000??\nNão estou interessada neste produto...",
-        "es-ES": "[IngrataD]\n^990099{0}^000000¡¿?!\nLo siento, pero no creo que pueda manejar este objeto…"
+        "es-ES": "[IngrataD]\n^990099{0}^000000¡¿?!\nLo siento, pero no creo que pueda manejar este objeto..."
     },
     "Pk+1CA": {
         "en-US": "Enchant Attack",
@@ -287,7 +287,7 @@
     "WU+1CA": {
         "en-US": "[Ingrata D]\nUmm... I don't think this is the right item. Please check again.",
         "pt-BR": "[Ingrata D]\nNão é possível usar esse produto. Por favor, verifique.",
-        "es-ES": "[IngrataD]\nMmm… No creo que este sea el objeto correcto. Búscalo de nuevo."
+        "es-ES": "[IngrataD]\nMmm... No creo que este sea el objeto correcto. Búscalo de nuevo."
     },
     "Wk+1CA": {
         "en-US": "[Ingrata D]\nIt seems like this has already been enhanced. This item can't be enhanced again.",

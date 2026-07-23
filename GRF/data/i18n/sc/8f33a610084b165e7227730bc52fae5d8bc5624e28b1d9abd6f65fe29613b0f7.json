@@ -1,0 +1,547 @@
+{
+    "IC9JDQ": {
+        "en-US": "Princess of Regret",
+        "pt-BR": "Princesa do Arrependimento",
+        "es-ES": "Princesa del Remordimiento"
+    },
+    "IS9JDQ": {
+        "en-US": "[Princess of Regret]\n.......",
+        "pt-BR": "[Princesa do Arrependimento]\n…….",
+        "es-ES": "[Princesa del Remordimiento]\n……."
+    },
+    "Ii9JDQ": {
+        "en-US": "[Princess of Regret]\nThere is something I wish to ask of you, but I would like to do so together with your future self.",
+        "pt-BR": "[Princesa do Arrependimento]\nTenho algo a pedir, mas gostaria de fazê-lo ao lado de você no futuro.",
+        "es-ES": "[Princesa del Remordimiento]\nHay algo que quisiera pedirte, pero me gustaría hacerlo junto a tu futuro yo."
+    },
+    "Iy9JDQ": {
+        "en-US": "- This quest can be completed at Lv. 220 or higher. -",
+        "pt-BR": "- Esta missão pode ser realizada a partir do nível 220. -",
+        "es-ES": "- Esta misión puede realizarse a partir del nivel 220. -"
+    },
+    "JC9JDQ": {
+        "en-US": "[Princess of Regret]\nAh, you are the hero of this place.\nEven without words, the traces of your great deeds are etched into your every action.",
+        "pt-BR": "[Princesa do Arrependimento]\nAh, você é o herói deste lugar.\nMesmo sem palavras, os vestígios de seus feitos estão gravados em cada uma de suas ações.",
+        "es-ES": "[Princesa del Remordimiento]\nAh, tú eres el héroe de este lugar.\nAunque no lo digas, las huellas de tus hazañas están grabadas en cada una de tus acciones."
+    },
+    "JS9JDQ": {
+        "en-US": "[Princess of Regret]\nI wish to ask such a person for a favor.\nWill you grant rest to the dead who wander the afterlife?",
+        "pt-BR": "[Princesa do Arrependimento]\nÉ a você que desejo fazer um pedido.\nPoderia conceder repouso aos mortos que vagam pelo além?",
+        "es-ES": "[Princesa del Remordimiento]\nEs a esa persona a quien quiero pedirle un favor. ¿Podrías conceder descanso a los muertos que vagan por el más allá?"
+    },
+    "Ji9JDQ": {
+        "en-US": "Listen in detail.",
+        "pt-BR": "Ouvir os detalhes.",
+        "es-ES": "Escuchar los detalles."
+    },
+    "Jy9JDQ": {
+        "en-US": "Refuse.",
+        "pt-BR": "Recusar.",
+        "es-ES": "Rechazar."
+    },
+    "KC9JDQ": {
+        "en-US": "[Princess of Regret]\nThank you.\nPlease listen...... to my story.",
+        "pt-BR": "[Princesa do Arrependimento]\nObrigada.\nPor favor, ouça…… a minha história.",
+        "es-ES": "[Princesa del Remordimiento]\nGracias.\nEscucha, por favor…… mi historia."
+    },
+    "KS9JDQ": {
+        "en-US": "[Princess of Regret]\nI am the princess of an old fallen kingdom.",
+        "pt-BR": "[Princesa do Arrependimento]\nSou uma princesa de um antigo reino decadente.",
+        "es-ES": "[Princesa del Remordimiento]\nSoy la princesa de un antiguo reino caído."
+    },
+    "Ki9JDQ": {
+        "en-US": "[Princess of Regret]\nI have come to ask for help for those who cannot rest even after closing their eyes.",
+        "pt-BR": "[Princesa do Arrependimento]\nVim pedir ajuda por aqueles que não conseguem descansar, nem mesmo depois de fechar os olhos.",
+        "es-ES": "[Princesa del Remordimiento]\nVine a pedir ayuda para quienes no pueden descansar ni siquiera tras cerrar los ojos."
+    },
+    "Ky9JDQ": {
+        "en-US": "[Princess of Regret]\nWill you go with me? Please, to the Tomb of Regret.......",
+        "pt-BR": "[Princesa do Arrependimento]\nPoderia vir comigo? Por favor, até o Túmulo do Remorso…….",
+        "es-ES": "[Princesa del Remordimiento]\n¿Podrías venir conmigo? Por favor... al Mausoleo Fantasma..."
+    },
+    "LC9JDQ": {
+        "en-US": "[Princess of Regret]\nPlease grant us rest. Please.",
+        "pt-BR": "[Princesa do Arrependimento]\nConceda-nos descanso. Por favor.",
+        "es-ES": "[Princesa del Remordimiento]\nConcédenos descanso. Te lo suplico."
+    },
+    "LS9JDQ": {
+        "en-US": "[Princess of Regret]\nThis is a tale from long ago.",
+        "pt-BR": "[Princesa do Arrependimento]\nEsta é uma história de muito tempo atrás.",
+        "es-ES": "[Princesa del Remordimiento]\nEs una historia de hace mucho tiempo."
+    },
+    "Li9JDQ": {
+        "en-US": "[Princess of Regret]\nDeceived by wicked temptation, I and all the people of the old kingdom lost our lives in vain.",
+        "pt-BR": "[Princesa do Arrependimento]\nCaindo em uma tentação maligna, eu e todos os habitantes do antigo reino perdemos a vida em vão.",
+        "es-ES": "[Princesa del Remordimiento]\nSeducidos por una perversa tentación, el pueblo del antiguo reino y yo perdimos la vida en vano."
+    },
+    "Ly9JDQ": {
+        "en-US": "[Princess of Regret]\nIt would have been better had it ended there, but even after closing our eyes, we could not find peace.",
+        "pt-BR": "[Princesa do Arrependimento]\nTeria sido melhor se tudo tivesse terminado ali, mas não conseguimos encontrar paz mesmo depois de fechar os olhos.",
+        "es-ES": "[Princesa del Remordimiento]\nOjalá todo hubiera terminado ahí, pero ni siquiera tras cerrar los ojos pudimos hallar paz."
+    },
+    "MC9JDQ": {
+        "en-US": "[Princess of Regret]\nFor we were raised by someone without our souls, becoming bodies that wander the afterlife.",
+        "pt-BR": "[Princesa do Arrependimento]\nPois fomos erguidos por alguém, privados de nossas almas, e nos tornamos corpos que vagam pelo além.",
+        "es-ES": "[Princesa del Remordimiento]\nPorque alguien nos resucitó sin nuestras almas, convirtiéndonos en cuerpos que vagan por el más allá."
+    },
+    "MS9JDQ": {
+        "en-US": "[Princess of Regret]\nWe wandered the empty castle like specters and phantoms, searching for someone who could grant us rest.",
+        "pt-BR": "[Princesa do Arrependimento]\nVagamos pelo castelo vazio como espíritos errantes, procurando alguém que pudesse nos conceder repouso.",
+        "es-ES": "[Princesa del Remordimiento]\nVagábamos por el castillo vacío como espíritus errantes, buscando a alguien que pudiera concedernos descanso."
+    },
+    "Mi9JDQ": {
+        "en-US": "[Princess of Regret]\nIf you can help us, please follow me.",
+        "pt-BR": "[Princesa do Arrependimento]\nSe puder nos ajudar, siga-me.",
+        "es-ES": "[Princesa del Remordimiento]\nSi puedes ayudarnos, sígueme, por favor."
+    },
+    "My9JDQ": {
+        "en-US": "[Princess of Regret]\nAh, please save those poor souls who could not find peace even after death.......",
+        "pt-BR": "[Princesa do Arrependimento]\nAh, salve estes pobres seres que não encontraram paz nem mesmo após a morte…….",
+        "es-ES": "[Princesa del Remordimiento]\nAh, salva a esas pobres almas que no hallaron paz ni siquiera después de morir………"
+    },
+    "NC9JDQ": {
+        "en-US": "[Princess of Regret]\nEven a hero must need rest.",
+        "pt-BR": "[Princesa do Arrependimento]\nAté mesmo um herói precisa de descanso.",
+        "es-ES": "[Princesa del Remordimiento]\nTambién un héroe necesita descansar."
+    },
+    "NS9JDQ": {
+        "en-US": "[Princess of Regret]\nPlease return after dawn has passed.",
+        "pt-BR": "[Princesa do Arrependimento]\nVolte ao final da madrugada.",
+        "es-ES": "[Princesa del Remordimiento]\nVuelve cuando haya amanecido."
+    },
+    "Ni9JDQ": {
+        "en-US": "[Princess of Regret]\nMy family and my people have all become undead.",
+        "pt-BR": "[Princesa do Arrependimento]\nMinha família e meu povo tornaram-se todos mortos-vivos.",
+        "es-ES": "[Princesa del Remordimiento]\nMi familia y mi pueblo se convirtieron todos en no- muertos."
+    },
+    "Ny9JDQ": {
+        "en-US": "[Princess of Regret]\nNo matter how many times they died or were slain, they rose again, staggering between fallen pillars and torn curtains.",
+        "pt-BR": "[Princesa do Arrependimento]\nPor mais que morressem, ou que fossem mortos, levantavam-se novamente e caminhavam cambaleando entre colunas caídas e cortinas rasgadas.",
+        "es-ES": "[Princesa del Remordimiento]\nPor mucho que murieran o fueran abatidos, volvían a levantarse, tambaleándose entre columnas derrumbadas y cortinajes rasgados."
+    },
+    "OC9JDQ": {
+        "en-US": "[Princess of Regret]\nMy heart is now too weary even to seek the reason. I only wish to find rest.\nYet even that is beyond my power.......",
+        "pt-BR": "[Princesa do Arrependimento]\nAgora meu coração está cansado demais até para buscar o motivo. Tudo o que desejo é encontrar descanso.\nMas nem mesmo isso posso fazer…….",
+        "es-ES": "[Princesa del Remordimiento]\nAhora mi corazón está demasiado agotado incluso para comprender la razón, y solo deseo hallar descanso.\nPero ni siquiera eso está a mi alcance……."
+    },
+    "OS9JDQ": {
+        "en-US": "[Princess of Regret]\nHero, please help us.",
+        "pt-BR": "[Princesa do Arrependimento]\nÓ herói, por favor, ajude-nos.",
+        "es-ES": "[Princesa del Remordimiento]\nHéroe, te lo ruego, ayúdanos."
+    },
+    "Oi9JDQ": {
+        "en-US": "Marquis of Regret : Hm, are you one recognized by the princess? Speak with me for a moment.",
+        "pt-BR": "Marquês do Arrependimento : Hmm, você é alguém reconhecido pela princesa? Venha falar comigo um instante.",
+        "es-ES": "Marqués del Remordimiento : Mmm, ¿La princesa te ha reconocido? Ven a verme un momento."
+    },
+    "Oy9JDQ": {
+        "en-US": "[Princess of Regret]\nWill you go with me?\nTo the royal palace where spirits wander in weary flesh, the Tomb of Regret.......",
+        "pt-BR": "[Princesa do Arrependimento]\nPoderia vir conosco?\nAo palácio onde os espectros obtiveram corpos exaustos e vagam, o Túmulo do Remorso…….",
+        "es-ES": "[Princesa del Remordimiento]\n¿Vendrás conmigo?\nAl palacio donde los espíritus vagan en cuerpos consumidos, al Mausoleo Fantasma……."
+    },
+    "PC9JDQ": {
+        "en-US": "^FF0000Please note that if you perform arbitrary actions inside the dungeon, such as monster taming, it will not be considered normal progression.^000000",
+        "pt-BR": "^FF0000Se forem realizados procedimentos arbitrários dentro da instância, como domar monstros, o progresso não será considerado normal. Tenha cuidado.^000000",
+        "es-ES": "^FF0000Si realizas acciones arbitrarias dentro de la mazmorra, como domar monstruos, no se considerará un progreso normal. Tenlo en cuenta.^000000"
+    },
+    "PS9JDQ": {
+        "en-US": "Apply to enter Tomb of Regret",
+        "pt-BR": "Solicitar entrada no Túmulo do Remorso",
+        "es-ES": "Solicitar entrada al Mausoleo Fantasma"
+    },
+    "Pi9JDQ": {
+        "en-US": "Enter Tomb of Regret",
+        "pt-BR": "Entrar no Túmulo do Remorso",
+        "es-ES": "Entrar en el Mausoleo Fantasma"
+    },
+    "Py9JDQ": {
+        "en-US": "[Princess of Regret]\nI worry about sending you alone.\nPlease go with companions you trust, hero.",
+        "pt-BR": "[Princesa do Arrependimento]\nFico preocupada em te enviar só.\nPor favor, venha com companheiros em quem possa confiar, herói.",
+        "es-ES": "[Princesa del Remordimiento]\nMe preocupa enviarte en solitario.\nHéroe, ve acompañado de compañeros en quienes puedas confiar."
+    },
+    "QC9JDQ": {
+        "en-US": "^FF0000Please form a party, then try speaking again.^000000",
+        "pt-BR": "^FF0000Forme um Grupo e tente falar novamente.^000000",
+        "es-ES": "^FF0000Forma un grupo y vuelve a hablar conmigo.^000000"
+    },
+    "QS9JDQ": {
+        "en-US": "[Princess of Regret]\nIt seems the threads of causality have become tangled. Please check once more.......",
+        "pt-BR": "[Princesa do Arrependimento]\nParece que os fios de causa e efeito se emaranharam. Por favor, verifique mais uma vez…….",
+        "es-ES": "[Princesa del Remordimiento]\nParece que los hilos de la causalidad se han enredado. Compruébalo una vez más……."
+    },
+    "Qi9JDQ": {
+        "en-US": "[Princess of Regret]\nOnce the application is complete, speak to me again and select ^0000CDEnter Tomb of Regret^000000.",
+        "pt-BR": "[Princesa do Arrependimento]\nQuando a solicitação for concluída, fale comigo novamente e selecione ^0000CDEntrar no Túmulo do Remorso^000000.",
+        "es-ES": "[Princesa del Remordimiento]\nCuando se complete la solicitud, vuelve a hablar conmigo y selecciona ^0000CDEntrar en el Mausoleo Fantasma^000000."
+    },
+    "Qy9JDQ": {
+        "en-US": "An adventurer from the {0} party enters Tomb of Regret.",
+        "pt-BR": "Um aventureiro do Grupo {0} entra no Túmulo do Remorso.",
+        "es-ES": "Un aventurero del grupo {0} entra en el Mausoleo Fantasma."
+    },
+    "RC9JDQ": {
+        "en-US": "[Princess of Regret]\nIt seems the party leader has not yet created the dungeon. Please check again shortly.......",
+        "pt-BR": "[Princesa do Arrependimento]\nParece que o líder do Grupo ainda não criou a instância. Verifique novamente em breve…….",
+        "es-ES": "[Princesa del Remordimiento]\nParece que el líder del grupo aún no ha creado la mazmorra. Vuelve a intentarlo en un momento……."
+    },
+    "RS9JDQ": {
+        "en-US": "[Princess of Regret]\nIt seems the dungeon has not yet been created. Please check again shortly.......",
+        "pt-BR": "[Princesa do Arrependimento]\nParece que a instância ainda não foi criada. Verifique novamente em breve…….",
+        "es-ES": "[Princesa del Remordimiento]\nParece que la mazmorra aún no se ha creado. Vuelve a intentarlo en un momento……."
+    },
+    "Ri9JDQ": {
+        "en-US": "[Princess of Regret]\nIt seems an error has occurred. Please check again shortly.......",
+        "pt-BR": "[Princesa do Arrependimento]\nParece que ocorreu um erro. Verifique novamente em instantes…….",
+        "es-ES": "[Princesa del Remordimiento]\nParece que ha ocurrido un error. Vuelve a intentarlo en un momento……."
+    },
+    "Ry9JDQ": {
+        "en-US": "[Princess of Regret]\nIt seems an unknown error has occurred. Please check again shortly.......",
+        "pt-BR": "[Princesa do Arrependimento]\nParece que ocorreu um erro desconhecido. Verifique novamente em instantes…….",
+        "es-ES": "[Princesa del Remordimiento]\nParece que ha ocurrido un error desconocido. Vuelve a intentarlo en un momento……."
+    },
+    "SC9JDQ": {
+        "en-US": "[Princess of Regret]\nIt seems an error has occurred. Please check again shortly.",
+        "pt-BR": "[Princesa do Arrependimento]\nParece que ocorreu um erro. Verifique novamente em instantes.",
+        "es-ES": "[Princesa del Remordimiento]\nParece que ha ocurrido un error. Vuelve a intentarlo en un momento."
+    },
+    "SS9JDQ": {
+        "en-US": "[Princess of Regret]\nThank you for your help.",
+        "pt-BR": "[Princesa do Arrependimento]\nAgradeço a sua ajuda.",
+        "es-ES": "[Princesa del Remordimiento]\nGracias por tu ayuda."
+    },
+    "Si9JDQ": {
+        "en-US": "[Princess of Regret]\nWithout the hero's help, we would have wandered forever, like specters and phantoms.",
+        "pt-BR": "[Princesa do Arrependimento]\nSem a ajuda do herói, teríamos vagado eternamente como espíritos errantes.",
+        "es-ES": "[Princesa del Remordimiento]\nSin la ayuda del héroe, habríamos vagado eternamente como espectros y espíritus errantes."
+    },
+    "Sy9JDQ": {
+        "en-US": "Marquis of Regret",
+        "pt-BR": "Marquês das Mágoas",
+        "es-ES": "Marqués del Remordimiento"
+    },
+    "TC9JDQ": {
+        "en-US": "[Notice]\n - Your bag is full. Please check your carried weight and number of carried items, then speak again. -",
+        "pt-BR": "[Aviso]\n- Sua bolsa está cheia. Verifique o peso e a quantidade de itens, então fale novamente. -",
+        "es-ES": "[Aviso]\n- La bolsa está llena. Comprueba el peso y la cantidad de objetos que llevas y vuelve a hablarme. -"
+    },
+    "TS9JDQ": {
+        "en-US": "[Marquis of Regret]\nEven if the princess trusts you, I do not expect much.\nThough your desire to help is truly admirable.",
+        "pt-BR": "[Marquês das Mágoas\nMesmo que a princesa confie em você, não posso dizer que tenho grandes expectativas.\nEmbora o desejo de ajudar seja realmente admirável.",
+        "es-ES": "[Marqués del Remordimiento]\nAunque la princesa confíe en ti, no espero gran cosa. Aun así, tu deseo de ayudar es realmente loable."
+    },
+    "Ti9JDQ": {
+        "en-US": "[Marquis of Regret]\nAre you the one the princess trusts?\nIf so, perhaps even I may rely on you a little.",
+        "pt-BR": "[Marquês das Mágoas]\nVocê ganhou a confiança da princesa?\nSe é assim, talvez eu também possa depender um pouco de você.",
+        "es-ES": "[Marqués del Remordimiento]\n¿Eres aquel en quien confía la princesa?\nSi es así, quizá yo también pueda confiar un poco en ti."
+    },
+    "Ty9JDQ": {
+        "en-US": "Thread of a Severed Bond",
+        "pt-BR": "Fio de um Vínculo Rompido",
+        "es-ES": "Hilo de un vínculo roto"
+    },
+    "UC9JDQ": {
+        "en-US": "Cutting Through Tears",
+        "pt-BR": "Abrindo Caminho Entre as Lágrimas",
+        "es-ES": "Atravesando las lágrimas"
+    },
+    "US9JDQ": {
+        "en-US": "Fragmented Memories",
+        "pt-BR": "Memórias Fragmentadas",
+        "es-ES": "Recuerdos fragmentados"
+    },
+    "Ui9JDQ": {
+        "en-US": "Shattered Past",
+        "pt-BR": "Passado Destruído",
+        "es-ES": "Pasado hecho fragmentos"
+    },
+    "Uy9JDQ": {
+        "en-US": "Mineas Exchange",
+        "pt-BR": "Trocar Mineas",
+        "es-ES": "Intercambiar Mineas"
+    },
+    "VC9JDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "VS9JDQ": {
+        "en-US": "[Marquis of Regret]\nUnless the root is uncovered, those pitiful souls filled with regret will rise again and again.\nThe battle will continue to repeat.",
+        "pt-BR": "[Marquês das Mágoas]\nEnquanto a raiz não for desvendada, essas pobres almas tomadas pelo arrependimento continuarão a se levantar repetidas vezes.\nA luta continuará se repetindo.",
+        "es-ES": "[Marqués del Remordimiento]\nMientras no se investigue la raíz, esos pobres seres cargados de remordimiento se alzarán una y otra vez.\nLa lucha seguirá repitiéndose."
+    },
+    "Vi9JDQ": {
+        "en-US": "[Marquis of Regret]\nBut there is still time enough to enjoy a brief rest.\nRest until dawn has passed, hero.",
+        "pt-BR": "[Marquês das Mágoas]\nMas ao menos há tempo para desfrutar de um breve descanso.\nDescanse até a madrugada passar, herói.",
+        "es-ES": "[Marqués del Remordimiento]\nPero al menos hay tiempo para disfrutar de un breve descanso.\nDescansa hasta que pase el amanecer y vuelve, héroe."
+    },
+    "Vy9JDQ": {
+        "en-US": "[Marquis of Regret]\nDo you know who those beings wandering inside that Tomb of Regret are, hero?",
+        "pt-BR": "[Marquês das Mágoas]\nVocê sabe quem são aqueles que vagam pelo interior daquele Túmulo do Remorso?",
+        "es-ES": "[Marqués del Remordimiento]\nHéroe, ¿sabes quiénes son los que vagan dentro del Mausoleo Fantasma?"
+    },
+    "WC9JDQ": {
+        "en-US": "[Marquis of Regret]\nCursed bodies that rot and wander, unable to sleep forever...\nAnd among them, one whose soul is bound to a magic sword, unable to live or die, wanders as well.",
+        "pt-BR": "[Marquês das Mágoas]\nCorpos amaldiçoados que jamais dormem, apodrecendo enquanto vagam...\nE, entre eles, havia alguém cuja alma foi presa a uma espada demoníaca, incapaz de morrer ou viver.",
+        "es-ES": "[Marqués del Remordimiento]\nCuerpos malditos que se pudren y vagan, condenados a no descansar jamás...\nY entre ellos, hay alguien cuya alma quedó atada a una espada demoníaca, incapaz de vivir o morir."
+    },
+    "WS9JDQ": {
+        "en-US": "[Marquis of Regret]\nYou, hero, are one personally summoned by the princess, but he is not.\nHe will surely interfere with the task the princess asked of you.",
+        "pt-BR": "[Marquês das Mágoas]\nHerói, você foi chamado pessoalmente pela princesa, mas ele não.\nCertamente se tornará um obstáculo ao pedido que a princesa lhe fez.",
+        "es-ES": "[Marqués del Remordimiento]\nHéroe, tú fuiste llamado directamente por la princesa, pero él no.\nSin duda será un obstáculo para lo que la princesa te ha pedido."
+    },
+    "Wi9JDQ": {
+        "en-US": "[Marquis of Regret]\nThe one the princess longs for...... But the thread of that bond was severed long ago.\nThe only mercy that can be granted him is to make him leave this stage.",
+        "pt-BR": "[Marquês das Mágoas]\nAquele desejado pela princesa…… Mas o fio desse vínculo já foi rompido há muito tempo.\nA única misericórdia que se pode conceder a ele é fazê-lo sair deste palco.",
+        "es-ES": "[Marqués del Remordimiento]\nAquel a quien la princesa añora…… Pero el hilo de ese vínculo se rompió hace ya mucho tiempo.\nLa única misericordia que puede concedérsele es hacer que abandone este mundo."
+    },
+    "Wy9JDQ": {
+        "en-US": "[Marquis of Regret]\nOne the princess has entrusted herself to, will you lend your strength?",
+        "pt-BR": "[Marquês das Mágoas]\nAquele em quem a princesa se apoiou, poderia emprestar sua força?",
+        "es-ES": "[Marqués del Remordimiento]\nTú, en quien la princesa ha depositado su confianza, ¿nos prestarás tu fuerza?"
+    },
+    "XC9JDQ": {
+        "en-US": "Lend your strength.",
+        "pt-BR": "Emprestar força.",
+        "es-ES": "Prestar tu fuerza."
+    },
+    "XS9JDQ": {
+        "en-US": "Do not lend your strength.",
+        "pt-BR": "Não emprestar força.",
+        "es-ES": "No prestar tu fuerza."
+    },
+    "Xi9JDQ": {
+        "en-US": "[Marquis of Regret]\nI thank you for that choice.\nAt the place reached at the very end, the one who will point his Sword at you last of all.\nDefeat ^0000CDMagic Swordsman Sakray^000000.",
+        "pt-BR": "[Marquês das Mágoas]\nAgradeço por essa escolha.\nNo último lugar que você chegar, aquele que por último apontará uma Espada a você.\nDerrote o ^0000CDCavaleiro Mágico Sakray^000000.",
+        "es-ES": "[Marqués del Remordimiento]\nTe agradezco esa elección.\nEn el lugar al que llegarás al final te esperará aquel que, por último, alzará su espada contra ti.\nDerrota a ^0000CDEspadachín Mágico Sakray^000000"
+    },
+    "Xy9JDQ": {
+        "en-US": "[Marquis of Regret]\nI will be waiting there.\nI will see you there, hero.",
+        "pt-BR": "[Marquês das Mágoas]\nEstarei esperando naquele lugar.\nTe vejo por lá, herói.",
+        "es-ES": "[Marqués del Remordimiento]\nTe esperaré en ese lugar.\nNos veremos allí, héroe."
+    },
+    "YC9JDQ": {
+        "en-US": "[Marquis of Regret]\nEven if I owe you, it would be difficult for me to repay you, so perhaps that is a wise choice on your part.",
+        "pt-BR": "[Marquês das Mágoas]\nMesmo que eu fique em dívida, não será fácil retribuir. Talvez essa seja uma escolha sábia para você.",
+        "es-ES": "[Marqués del Remordimiento]\nAunque quedara en deuda contigo, no me sería fácil saldarla, así que quizá sea una decisión sabia por tu parte."
+    },
+    "YS9JDQ": {
+        "en-US": "[Marquis of Regret]\nIt seems there are still no debts or favors to settle regarding ^0000CDMagic Swordsman Sakray^000000.\nOne trusted by the princess, I ask this of you.",
+        "pt-BR": "[Marquês das Mágoas]\nParece que você ainda não tem dívidas ou favores a acertar com ^0000CDCavaleiro Mágico Sakray^000000.\nAquele em quem a princesa confia, conto com você.",
+        "es-ES": "[Marqués del Remordimiento]\nParece que aún no tienes ninguna deuda ni favor que saldar con ^0000CDEspadachín Mágico Sakray^000000.\nTú en quien confía la princesa, cuento contigo."
+    },
+    "Yi9JDQ": {
+        "en-US": "[Marquis of Regret]\nThe princess may grieve.\nBut now, that bond has long since scattered, faded, and left nothing behind.",
+        "pt-BR": "[Marquês das Mágoas]\nTalvez a princesa se lamente.\nMas agora, o vínculo já se dispersou e se apagou, sem nada restar.",
+        "es-ES": "[Marqués del Remordimiento]\nQuizá la princesa se entristezca.\nPero, a estas alturas, ese vínculo se ha dispersado, se ha desvanecido y ya no queda nada de él."
+    },
+    "Yy9JDQ": {
+        "en-US": "[Marquis of Regret]\nThere was likely no place for him on this sorrowful stage from the beginning.\nThank you for excluding him from this place.",
+        "pt-BR": "[Marquês das Mágoas]\nNeste palco melancólico, provavelmente nunca houve lugar para ele desde o início.\nAgradeço por tê-lo removido daqui.",
+        "es-ES": "[Marqués del Remordimiento]\nDesde el principio, él no debía tener lugar en este triste escenario.\nGracias por excluirlo de este lugar."
+    },
+    "ZC9JDQ": {
+        "en-US": "[Marquis of Regret]\nIt is a small reward, but it is all I can give you now. A crystal of regret created by the princess.",
+        "pt-BR": "[Marquês das Mágoas]\nÉ uma pequena recompensa, mas é tudo que posso lhe dar agora. Um cristal de arrependimento criado pela princesa.",
+        "es-ES": "[Marqués del Remordimiento]\nEs una pequeña recompensa, pero es todo lo que puedo darte por ahora. Un cristal de remordimiento creado por la princesa."
+    },
+    "ZS9JDQ": {
+        "en-US": "[Marquis of Regret]\nDo not cling to a severed bond.\nThere must have been a reason it was severed.",
+        "pt-BR": "[Marquês das Mágoas]\nNão se apegue a um vínculo rompido.\nPois deve ter tido um motivo para se romper.",
+        "es-ES": "[Marqués del Remordimiento]\nNo te aferres a los vínculos rotos.\nDebieron de romperse por alguna razón."
+    },
+    "Zi9JDQ": {
+        "en-US": "[Marquis of Regret]\nSometimes, that is how it is. There are things one must do, even if it tears the heart apart.\nIf it is ultimately the better choice, then one must do it, however painful it may be.",
+        "pt-BR": "[Marquês das Mágoas]\nÀs vezes é assim. Mesmo que o coração se despedace, há coisas que precisam ser feitas.\nSe no fim essa for a melhor escolha, deve ser feita, por mais dolorosa que seja.",
+        "es-ES": "[Marqués del Remordimiento]\nA veces es así. Hay cosas que deben hacerse, aunque desgarren el corazón.\nSi es la mejor decisión, hay que hacerlo, por doloroso que sea."
+    },
+    "Zy9JDQ": {
+        "en-US": "[Marquis of Regret]\nThe princess is speaking with you now, but that will not last long.\nHer clear reason will be severed by the curse.",
+        "pt-BR": "[Marquês das Mágoas]\nA princesa está conversando com você agora, mas isso não durará muito.\nA sanidade dela será prejudicada pela maldição.",
+        "es-ES": "[Marqués del Remordimiento]\nLa princesa está hablando contigo ahora, pero eso no durará mucho.\nSu lucidez será arrebatada por la maldición."
+    },
+    "aC9JDQ": {
+        "en-US": "[Marquis of Regret]\nAfter that, like the other undead here, nothing will remain in her mind but an instinct for blood.",
+        "pt-BR": "[Marquês das Mágoas]\nDepois disso, como os outros mortos-vivos daqui, restará em sua mente apenas o instinto por sangue.",
+        "es-ES": "[Marqués del Remordimiento]\nDespués, como los demás no-muertos de este lugar, solo le quedará en la mente el instinto de sangre."
+    },
+    "aS9JDQ": {
+        "en-US": "[Marquis of Regret]\nHer Highness the princess wishes to be removed from the stage before she harms someone.\nThe princess herself hopes that you will grant that wish, hero.",
+        "pt-BR": "[Marquês das Mágoas]\nO desejo de Sua Alteza é ser removida do palco antes que acabe ferindo alguém.\nA própria princesa deseja que você atenda a esse pedido.",
+        "es-ES": "[Marqués del Remordimiento]\nSu Alteza desea abandonar este mundo antes de hacer daño a alguien.\nLa propia princesa espera que tú le concedas ese deseo, héroe."
+    },
+    "ai9JDQ": {
+        "en-US": "[Marquis of Regret]\nIf ^0000CDPrincess Tiara^000000 attacks you inside that Tomb of Regret, will you personally end her life?",
+        "pt-BR": "[Marquês das Mágoas]\nSe a ^0000CDPrincesa Tiara^000000 atacar você dentro do Túmulo do Remorso, você vai acabar com a vida dela pessoalmente?",
+        "es-ES": "[Marqués del Remordimiento]\nSi ^0000CDla Princesa Tiara^000000 te ataca dentro del Mausoleo Fantasma, ¿le pondrás fin a su vida?"
+    },
+    "ay9JDQ": {
+        "en-US": "Grant the request.",
+        "pt-BR": "Atender ao pedido.",
+        "es-ES": "Aceptar la petición."
+    },
+    "bC9JDQ": {
+        "en-US": "Do not grant the request.",
+        "pt-BR": "Não atender ao pedido.",
+        "es-ES": "No aceptar la petición."
+    },
+    "bS9JDQ": {
+        "en-US": "[Marquis of Regret]\nI respect that choice.\nHer Highness the princess must be wandering near the path leading down to the tomb.",
+        "pt-BR": "[Marquês das Mágoas]\nRespeito essa escolha.\nSua Alteza deve estar vagando pelo caminho que desce até o túmulo.",
+        "es-ES": "[Marqués del Remordimiento]\nRespeto tu decisión.\nSu Alteza debe de estar cerca del camino que conduce al Mausoleo Fantasma."
+    },
+    "bi9JDQ": {
+        "en-US": "[Marquis of Regret]\nIt is a trace of reason faintly remaining even after instinct has consumed her.\nShe wishes to stop the undead of the tomb from coming upward.",
+        "pt-BR": "[Marquês das Mágoas]\nÉ um vestígio frágil de consciência que permaneceu mesmo após ser devorada pelo instinto.\nEla deseja impedir que os mortos-vivos do túmulo subam.",
+        "es-ES": "[Marqués del Remordimiento]\nEs un tenue rastro de razón que permanece incluso después de que el instinto la haya consumido.\nDesea impedir que los no-muertos del mausoleo suban."
+    },
+    "by9JDQ": {
+        "en-US": "[Marquis of Regret]\nIt seems there are still no debts or favors to settle regarding ^0000CDPrincess Tiara^000000.\nI ask this of you.",
+        "pt-BR": "[Marquês das Mágoas]\nParece que você ainda não tem dívidas ou favores a acertar com a ^0000CDPrincesa Tiara^000000.\nConto com você.",
+        "es-ES": "[Marqués del Remordimiento]\nParece que aún no tienes ninguna deuda ni favor que saldar con ^0000CDla Princesa Tiara^000000.\nCuento contigo."
+    },
+    "cC9JDQ": {
+        "en-US": "[Marquis of Regret]\nYou have safely closed the princess's eyes.\nHm, in my time, that was the prince's role. Is that not an honor for a mere adventurer?",
+        "pt-BR": "[Marquês das Mágoas]\nVocê voltou depois de fechar os olhos da princesa em segurança.\nHmm, no meu tempo isso era trabalho de um príncipe. Não é uma honra para um simples aventureiro?",
+        "es-ES": "[Marqués del Remordimiento]\nHas cerrado los ojos de la princesa sin contratiempos.\nMmm, en mis tiempos esa era tarea de un príncipe. ¿No es todo un honor para un simple aventurero?"
+    },
+    "cS9JDQ": {
+        "en-US": "[Marquis of Regret]\nA joke, a joke. You are no mere adventurer, but a hero.\nShe will soon rise again, but I hope she rests deeply until then.",
+        "pt-BR": "[Marquês das Mágoas]\nÉ brincadeira, brincadeira. Você não é um simples aventureiro, mas um herói.\nEla logo se levantará novamente, mas espero que descanse bem até lá.",
+        "es-ES": "[Marqués del Remordimiento]\nEs broma, es broma. No eres un simple aventurero, sino un héroe.\nAunque pronto volverá a levantarse, espero que descanse profundamente hasta entonces."
+    },
+    "ci9JDQ": {
+        "en-US": "[Marquis of Regret]\nIt is a small reward, but it is all I can give you. A crystal of regret created by the princess.",
+        "pt-BR": "[Marquês das Mágoas]\nÉ uma pequena recompensa, mas é tudo o que posso lhe dar. Um cristal de arrependimento criado pela princesa.",
+        "es-ES": "[Marqués del Remordimiento]\nEs una pequeña recompensa, pero es todo lo que puedo darte. Es un cristal de remordimiento creado por la princesa."
+    },
+    "cy9JDQ": {
+        "en-US": "[Marquis of Regret]\nEven now, the princess still cares more for others than herself...",
+        "pt-BR": "[Marquês das Mágoas]\nMesmo nesta situação, a princesa ainda se importa mais com os outros do que com ela mesma...",
+        "es-ES": "[Marqués del Remordimiento]\nIncluso ahora, la princesa sigue preocupándose más por los demás que por sí misma..."
+    },
+    "dC9JDQ": {
+        "en-US": "[Marquis of Regret]\nSomewhere in the castle and tomb, fragments of old memories lie dormant.\nI know only that they exist, not what they contain.",
+        "pt-BR": "[Marquês das Mágoas] \nEm algum lugar do castelo e do túmulo, fragmentos de antigas memórias estão adormecidos.\nSei apenas que existem, mas não sei o que contêm.",
+        "es-ES": "[Marqués del Remordimiento]\nEn algún lugar del castillo y del mausoleo duermen antiguos fragmentos de recuerdos.\nSé que existen, aunque desconozco su contenido."
+    },
+    "dS9JDQ": {
+        "en-US": "[Marquis of Regret]\nNo matter how hard I tried, I could not find them.\nIf they are found, we may learn more about what happened in this castle......",
+        "pt-BR": "[Marquês das Mágoas]\nPor mais que eu tentasse, não consegui encontrá-los.\nSe forem encontrados, talvez possamos saber um pouco mais sobre o que aconteceu neste castelo…...",
+        "es-ES": "[Marqués del Remordimiento]\nPor mucho que lo intenté, no pude encontrarlos.\nSi se encuentran, quizá podamos saber algo más sobre lo que ocurrió en este castillo…..."
+    },
+    "di9JDQ": {
+        "en-US": "[Marquis of Regret]\nPerhaps I cannot find them because I am bound to this place.\nAnd so, will you find the memory fragments for me?",
+        "pt-BR": "[Marquês das Mágoas]\nTalvez eu não consiga encontrá-los justamente por ser uma existência presa a este lugar.\nPor isso, poderia encontrar os fragmentos de memória para mim?",
+        "es-ES": "[Marqués del Remordimiento]\nQuizá no pueda encontrarlos porque estoy atado a este lugar.\nAsí que, ¿encontrarás los fragmentos de memoria por mí?"
+    },
+    "dy9JDQ": {
+        "en-US": "[Marquis of Regret]\nEvents from before this palace became a tomb, or traces left behind afterward.\nThey say three fragments lie dormant.",
+        "pt-BR": "[Marquês das Mágoas]\nCoisas que aconteceram antes deste palácio se tornar um túmulo, ou certos vestígios deixados depois disso.\nDizem que há três fragmentos adormecidos no total.",
+        "es-ES": "[Marqués del Remordimiento]\nSucesos de antes de que este palacio se convirtiera en mausoleo, o rastros que quedaron después.\nDicen que hay tres fragmentos dormidos."
+    },
+    "eC9JDQ": {
+        "en-US": "Find them.",
+        "pt-BR": "Procurar.",
+        "es-ES": "Buscarlos."
+    },
+    "eS9JDQ": {
+        "en-US": "Do not find them.",
+        "pt-BR": "Não procurar.",
+        "es-ES": "No buscarlos."
+    },
+    "ei9JDQ": {
+        "en-US": "[Marquis of Regret]\nI honor that choice.\nThey say these fragments cannot be taken outside, so I will be waiting inside.",
+        "pt-BR": "[Marquês das Mágoas]\nRespeito a essa escolha.\nDizem que estes fragmentos não podem ser levados para fora, então esperarei lá dentro.",
+        "es-ES": "[Marqués del Remordimiento]\nRespeto esa decisión.\nDicen que estos fragmentos no pueden sacarse al exterior, así que esperaré dentro."
+    },
+    "ey9JDQ": {
+        "en-US": "[Marquis of Regret]\nOnce everything inside is finished, I will be waiting there.",
+        "pt-BR": "[Marquês das Mágoas]\nQuando concluir todos os assuntos lá dentro, estarei esperando ali.",
+        "es-ES": "[Marqués del Remordimiento]\nCuando todo esté terminado allí dentro, este servidor te esperará allí."
+    },
+    "fC9JDQ": {
+        "en-US": "[Marquis of Regret]\nWhy must we suffer like this...\nI hope these fragments will provide a clue.",
+        "pt-BR": "[Marquês das Mágoas]\nPor que devemos sofrer assim…\nEspero que estes fragmentos possam nos dar uma pista.",
+        "es-ES": "[Marqués del Remordimiento]\n¿Por qué debemos sufrir así?\nOjalá estos fragmentos nos den alguna pista."
+    },
+    "fS9JDQ": {
+        "en-US": "[Marquis of Regret]\nThroughout this castle, ^0000CDfragments of the past^000000 are embedded.\nI would like the hero to gather them for me.",
+        "pt-BR": "[Marquês das Mágoas]\nHá ^0000CDFragmentos do Passado^000000 espalhados por este castelo.\nGostaria que o herói os reunisse para mim.",
+        "es-ES": "[Marqués del Remordimiento]\nPor todo este castillo hay ^0000CDfragmentos del pasado^000000 incrustados.\nQuisiera que el héroe los reuniera por mí."
+    },
+    "fi9JDQ": {
+        "en-US": "Fragments of the past?",
+        "pt-BR": "Fragmentos do Passado?",
+        "es-ES": "¿Fragmentos del pasado?"
+    },
+    "fy9JDQ": {
+        "en-US": "[Marquis of Regret]\nThey are traces of the events this castle endured in the past.\nFragments that appeared after the people of the castle scattered as monstrosities.",
+        "pt-BR": "[Marquês das Mágoas]\nSão vestígios dos acontecimentos que este castelo viveu no passado.\nFragmentos que surgiram depois que as pessoas do castelo se tornaram aberrações e se dispersaram.",
+        "es-ES": "[Marqués del Remordimiento]\nSon rastros de los sucesos que vivió este castillo en el pasado.\nFragmentos que aparecieron después de que los habitantes del castillo se convirtieran en monstruosidades y se dispersaran."
+    },
+    "gC9JDQ": {
+        "en-US": "[Marquis of Regret]\nEven after humans forgot all memories of this castle, it was as if the castle created them so it would not forget its own memories...\nThey are hidden here and there, so I would be grateful if you could find about 10 of them.",
+        "pt-BR": "[Marquês das Mágoas]\nMesmo depois que os humanos esqueceram todas as memórias deste castelo, é como se o próprio castelo os tivesse criado para não esquecer suas próprias lembranças…\nEles estão escondidos por vários lugares. Eu agradeceria se encontrasse cerca de 10.",
+        "es-ES": "[Marqués del Remordimiento]\nComo si el castillo hubiera creado esos fragmentos para no olvidar sus recuerdos, incluso después de que los humanos olvidaran este castillo…\nEstán ocultos aquí y allá. Te agradecería que encontraras unos 10."
+    },
+    "gS9JDQ": {
+        "en-US": "[Marquis of Regret]\nThough it is my own decision, I want to gather them and one day tell others that this place existed.\nEven if they are fragmented.",
+        "pt-BR": "[Marquês das Mágoas]\nÉ uma decisão arbitrária minha, mas desejo reuni-los para um dia transmitir o fato de que este lugar existiu.\nMesmo que estejam fragmentados.",
+        "es-ES": "[Marqués del Remordimiento]\nAunque sea una decisión de este servidor, quiero reunirlos y algún día contarles a otros que este lugar existió.\nAunque estén fragmentados."
+    },
+    "gi9JDQ": {
+        "en-US": "Accept fragment collection.",
+        "pt-BR": "Aceitar coletar os fragmentos.",
+        "es-ES": "Aceptar recoger fragmentos."
+    },
+    "gy9JDQ": {
+        "en-US": "Refuse fragment collection.",
+        "pt-BR": "Recusar coletar os fragmentos.",
+        "es-ES": "Rechazar recoger fragmentos."
+    },
+    "hC9JDQ": {
+        "en-US": "[Marquis of Regret]\nI express Hoi for that choice.\nThese fragments cannot be brought outside, so I will be waiting inside.",
+        "pt-BR": "[Marquês das Mágoas]\nRespeito essa escolha.\nEstes fragmentos não podem ser levados para fora, então esperarei lá dentro.",
+        "es-ES": "[Marqués del Remordimiento]\nRespeto esa decisión.\nEstos fragmentos no pueden sacarse al exterior, así que esperaré dentro."
+    },
+    "hS9JDQ": {
+        "en-US": "[Marquis of Regret]\nCan these fragments provide a clue as to why such things happened?",
+        "pt-BR": "[Marquês das Mágoas]\nSerá que estes fragmentos poderão nos dar uma pista de tudo que aconteceu?",
+        "es-ES": "[Marqués del Remordimiento]\n¿Podrán estos fragmentos dar alguna pista sobre por qué ocurrió todo esto?"
+    },
+    "hi9JDQ": {
+        "en-US": "[Marquis of Regret]\nThere was a jewel I gave you inside. A stone gathered from the princess's regrets.\nIt alone would be useless to a hero. Now, if there is something you need, I will exchange it.",
+        "pt-BR": "[Marquês das Mágoas]\nHavia uma joia que lhe dei lá dentro. Uma pedra formada pelo arrependimento da princesa.\nIsso por si só não deve ter utilidade para o herói. Bem, se houver algo de que precise, eu troco.",
+        "es-ES": "[Marqués del Remordimiento]\nHabía una joya que te di allí dentro. Una piedra formada por los remordimientos de la princesa.\nPor sí sola no tiene utilidad para un héroe. Si necesitas algo, te la cambiaré."
+    },
+    "hy9JDQ": {
+        "en-US": "Jewel Exchange",
+        "pt-BR": "Trocar Joias",
+        "es-ES": "Intercambio de joyas"
+    },
+    "iC9JDQ": {
+        "en-US": "Weapon Exchange",
+        "pt-BR": "Trocar Arma",
+        "es-ES": "Intercambio de armas"
+    },
+    "iS9JDQ": {
+        "en-US": "[Marquis of Regret]\nWell, think carefully.",
+        "pt-BR": "[Marquês das Mágoas]\nBem, pense com cuidado.",
+        "es-ES": "[Marqués del Remordimiento]\nBueno, piénsalo con cuidado."
+    },
+    "ii9JDQ": {
+        "en-US": "[Marquis of Regret]\nVery well. I shall watch for now.\nEven if the princess brought you here, I will acknowledge you only after seeing your skill for myself.",
+        "pt-BR": "[Marquês das Mágoas]\nCerto, eu ficarei de olho.\nMesmo que a princesa tenha trazido você, só o reconhecerei depois de ver sua habilidade com meus próprios olhos.",
+        "es-ES": "[Marqués del Remordimiento]\nBien. Observaré por ahora.\nAunque la princesa te haya traído hasta aquí, solo te reconoceré después de comprobar tu habilidad con mis propios ojos."
+    },
+    "iy9JDQ": {
+        "en-US": "[Marquis of Regret]\nWere you called the hero of this place?\n......It seems the princess trusts you.",
+        "pt-BR": "[Marquês das Mágoas]\nDisseram que você é o herói deste lugar?\n……Parece que a princesa confia em você.",
+        "es-ES": "[Marqués del Remordimiento]\n¿Dijeron que eras el héroe de este lugar?\n……Parece que la princesa confía en ti."
+    },
+    "jC9JDQ": {
+        "en-US": "[Marquis of Regret]\nI shall watch for now.\nEven if the princess brought you here, I will acknowledge you only after seeing your skill for myself.",
+        "pt-BR": "[Marquês das Mágoas]\nEu ficarei de olho.\nMesmo que a princesa tenha trazido você, só o reconhecerei depois de ver sua habilidade com meus próprios olhos.",
+        "es-ES": "[Marqués del Remordimiento]\nObservaré por ahora.\nAunque la princesa te haya traído hasta aquí, solo te reconoceré después de comprobar tu habilidad con mis propios ojos."
+    }
+}

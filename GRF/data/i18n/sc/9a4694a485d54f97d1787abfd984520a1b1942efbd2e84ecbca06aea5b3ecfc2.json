@@ -12,12 +12,12 @@
     "oiUm": {
         "en-US": "[Splendide Guard]\nTal-!\nAnuDur AmanDana Goth nar!\nAgoltas Me...",
         "pt-BR": "[Guarda de Esplendor]\nTal-!\nAnuDur AmanDana Goth nar!\nAgoltas Me...",
-        "es-ES": "[Guardia de Splendide]\n¡Tal…!\n¡AnuDur AmanDana Goth nar!\nAgoltas Me…"
+        "es-ES": "[Guardia de Splendide]\n¡Tal...!\n¡AnuDur AmanDana Goth nar!\nAgoltas Me..."
     },
     "oyUm": {
         "en-US": "- Looks like we don't understand each other. This could be troublesome... -",
         "pt-BR": "- Parece que não estamos nos entendendo. Isso pode ser problemático... -",
-        "es-ES": "(Parece que no nos entendemos. Podría ser un problema…)."
+        "es-ES": "(Parece que no nos entendemos. Podría ser un problema...)."
     },
     "pCUm": {
         "en-US": "- You have too many items to proceed with the quest. -",
@@ -37,7 +37,7 @@
     "pyUm": {
         "en-US": "[Arc]\nMy name is Arc.\nBy the way, hmm... Can you understand what I'm saying?",
         "pt-BR": "[Arc]\nMeu nome é Arc.\nA propósito, hmm... Você consegue entender o que estou dizendo?",
-        "es-ES": "[Arc]\nMe llamo Arc.\nPor cierto, mmm… ¿Entiendes lo que digo?"
+        "es-ES": "[Arc]\nMe llamo Arc.\nPor cierto, mmm... ¿Entiendes lo que digo?"
     },
     "qCUm": {
         "en-US": "Yes.",
@@ -57,17 +57,17 @@
     "qyUm": {
         "en-US": "- I show my ring to Arc and explain everything including how I ended up here... -",
         "pt-BR": "- Mostro meu anel para Arc e explico tudo, inclusive como vim parar aqui... -",
-        "es-ES": "(Le muestro a Arc el anillo y le explico todo, hasta cómo llegué hasta aquí…)."
+        "es-ES": "(Le muestro a Arc el anillo y le explico todo, hasta cómo llegué hasta aquí...)."
     },
     "rCUm": {
         "en-US": "[Arc]\nSo...hmm, That's how it is...\nThe source of that huge shock and mysterious explosion...",
         "pt-BR": "[Arc]\nEntão... hmm, então é isso...\nA origem desse enorme choque e dessa misteriosa explosão...",
-        "es-ES": "[Arc]\nAsí que… Eso fue lo que pasó...\nPor eso ese gran temblor y la explosión misteriosa…"
+        "es-ES": "[Arc]\nAsí que... Eso fue lo que pasó...\nPor eso ese gran temblor y la explosión misteriosa..."
     },
     "rSUm": {
         "en-US": "[Arc]\nQuite an interesting story.\nThat's why you humans were exploring here and there...",
         "pt-BR": "[Arc]\nUma história bastante interessante.\nÉ por isso que vocês, humanos, estavam explorando aqui e ali...",
-        "es-ES": "[Arc]\nQué historia tan emocionante.\nPor eso ustedes los humanos exploraban de aquí para allá…"
+        "es-ES": "[Arc]\nQué historia tan emocionante.\nPor eso ustedes los humanos exploraban de aquí para allá..."
     },
     "riUm": {
         "en-US": "[Arc]\nNow I clearly understand that you are not sent by the giants of Manuk.\nThank you for telling me these interesting stories.",
@@ -77,12 +77,12 @@
     "ryUm": {
         "en-US": "[Arc]\nOh? Is that so?\nWe use different languages as expected...\nThat's a bit frustrating.",
         "pt-BR": "[Arc]\nAh? É isso mesmo?\nUsamos idiomas diferentes, como era de se esperar...\nUm pouco frustrante.",
-        "es-ES": "[Arc]\n¿Eh? ¿De verdad?\nComo era de esperar, tenemos idiomas diferentes…\nEs un poco frustrante."
+        "es-ES": "[Arc]\n¿Eh? ¿De verdad?\nComo era de esperar, tenemos idiomas diferentes...\nEs un poco frustrante."
     },
     "sCUm": {
         "en-US": "[Arc]\nBy the way, you... \nNo, never mind.\nWhat is your name?",
         "pt-BR": "[Arc]\nA propósito, você... \nNão, esqueça.\nQual é o seu nome?",
-        "es-ES": "[Arc]\nPor cierto, tú… \nNo, olvídalo.\n¿Cómo te llamas?"
+        "es-ES": "[Arc]\nPor cierto, tú... \nNo, olvídalo.\n¿Cómo te llamas?"
     },
     "sSUm": {
         "en-US": "{0}",
@@ -92,7 +92,7 @@
     "siUm": {
         "en-US": "[Arc]\nAh, right.{0} !\nThat's a strange pronunciation.\nI might mispronunce it, so please understand...",
         "pt-BR": "[Arc]\nAh, certo. {0}!\nQue pronúncia estranha.\nPosso pronunciar errado, então, por favor, entenda...",
-        "es-ES": "[Arc]\nAh, claro. ¡{0}!\nQué pronunciación tan extraña.\nQuizás lo pronuncie mal, así que tenme paciencia…"
+        "es-ES": "[Arc]\nAh, claro. ¡{0}!\nQué pronunciación tan extraña.\nQuizás lo pronuncie mal, así que tenme paciencia..."
     },
     "syUm": {
         "en-US": "[Arc]\nAnyways, I have a favor to ask you. Is it okay?",
@@ -112,7 +112,7 @@
     "tiUm": {
         "en-US": "[Arc]\nUm...Ah..It's...\nA little...complicated..",
         "pt-BR": "[Arc]\nHum... Ah... É...\nUm pouco... complicado...",
-        "es-ES": "[Arc]\nMmm… Ah… Es…\nUn poco… complicado…"
+        "es-ES": "[Arc]\nMmm... Ah... Es...\nUn poco... complicado..."
     },
     "tyUm": {
         "en-US": "- Arc looks around to check if someone else is around. Satisfied you're alone he continues with his story in a low tone. -",
@@ -132,7 +132,7 @@
     "uiUm": {
         "en-US": "[Arc]\nSince she left without permission, I can't even report to my superiors... that will just end up as a bigger problem.",
         "pt-BR": "[Arc]\nJá que ela saiu sem permissão, não posso nem mesmo me reportar aos meus superiores... isso vai acabar se tornando um problema maior.",
-        "es-ES": "[Arc]\nY, como se fue sin permiso, ni siquiera puedo informarles a mis superiores… No quiero que esto acabe siendo un problema mayor."
+        "es-ES": "[Arc]\nY, como se fue sin permiso, ni siquiera puedo informarles a mis superiores... No quiero que esto acabe siendo un problema mayor."
     },
     "uyUm": {
         "en-US": "[Arc]\nThe thought of it just worries me.\nAs a matter of fact, we are trying not to have any contact with the giants of Manuk so we stay away from each other's territory.",
@@ -142,22 +142,22 @@
     "vCUm": {
         "en-US": "[Arc]\nThat camp of yours is located in the area that has been acting as the neutral zone between our two races...",
         "pt-BR": "[Arc]\nEsse seu acampamento está localizado na área que tem atuado como zona neutra entre nossas duas raças...",
-        "es-ES": "[Arc]\nTu campamento se encuentra en la zona que sirve de área neutral entre ambas razas…"
+        "es-ES": "[Arc]\nTu campamento se encuentra en la zona que sirve de área neutral entre ambas razas..."
     },
     "vSUm": {
         "en-US": "[Arc]\nIf she has gotten close to their side then she might have gone over to the snow fields...\nThat will make it even more difficult for us to look for her...",
         "pt-BR": "[Arc]\nSe ela se aproximou do lado deles, então pode ter ido para os campos de neve...\nIsso vai dificultar ainda mais a nossa busca por ela...",
-        "es-ES": "[Arc]\nSi ella se acercó al lado que les pertenece, entonces quizás podría estar en los campos nevados…\nLo cual dificultará aún más la búsqueda…"
+        "es-ES": "[Arc]\nSi ella se acercó al lado que les pertenece, entonces quizás podría estar en los campos nevados...\nLo cual dificultará aún más la búsqueda..."
     },
     "viUm": {
         "en-US": "[Arc]\nThe Manuk giants might misunderstand this as provoking them...Couldn't they?",
         "pt-BR": "[Arc]\nOs gigantes Manuk poderiam interpretar isso como uma provocação... Não poderiam?",
-        "es-ES": "[Arc]\nLos gigantes de Manuk podrían malinterpretarlo como una provocación… ¿No crees?"
+        "es-ES": "[Arc]\nLos gigantes de Manuk podrían malinterpretarlo como una provocación... ¿No crees?"
     },
     "vyUm": {
         "en-US": "[{0}]\nSo...the point is, you want me to look for your friend. Right?\nBecause you can't do it yourself from all these complicated situations?",
         "pt-BR": "[{0}]\nEntão... a questão é que você quer que eu procure sua amiga. Certo?\nPorque você não consegue fazer isso sozinho com todas essas situações complicadas?",
-        "es-ES": "[{0}]\nEntonces… Quieres que busque a tu amiga, ¿verdad?\nYa que no puedes hacerlo tú por lo complicada de la situación."
+        "es-ES": "[{0}]\nEntonces... Quieres que busque a tu amiga, ¿verdad?\nYa que no puedes hacerlo tú por lo complicada de la situación."
     },
     "wCUm": {
         "en-US": "[Arc]\nExactly!\nYou're quite observant.",
@@ -192,27 +192,27 @@
     "xiUm": {
         "en-US": "[Arc]\nIt can be hard to look for them, but it's better than doing nothing...\nPlease, I beg of you.",
         "pt-BR": "[Arc]\nPode ser difícil procurar por eles, mas é melhor do que não fazer nada...\nPor favor, eu imploro.",
-        "es-ES": "[Arc]\nPuede ser difícil ubicarlas, pero es mejor que quedarse de brazos cruzados…\nPor favor, te lo ruego."
+        "es-ES": "[Arc]\nPuede ser difícil ubicarlas, pero es mejor que quedarse de brazos cruzados...\nPor favor, te lo ruego."
     },
     "xyUm": {
         "en-US": "[Arc]\nAh, and please keep this a secret from the other Laphines.",
         "pt-BR": "[Arc]\nAh, e, por favor, mantenha isso em segredo para os outras Laphines.",
-        "es-ES": "[Arc]\nAh… Por favor, no les cuentes nada de esto a los demás laphines."
+        "es-ES": "[Arc]\nAh... Por favor, no les cuentes nada de esto a los demás laphines."
     },
     "yCUm": {
         "en-US": "[Arc]\nRemember {0}... you must keep this to yourself.\nPlease, find her.",
         "pt-BR": "[Arc]\nLembre-se, {0}... você deve manter segredo.\nPor favor, encontre-a.",
-        "es-ES": "[Arc]\nRecuerda, {0}… Debes guardar el secreto.\nPor favor, encuéntrala."
+        "es-ES": "[Arc]\nRecuerda, {0}... Debes guardar el secreto.\nPor favor, encuéntrala."
     },
     "ySUm": {
         "en-US": "[Arc]\nIt sure was an unreasonable favor..\nYou too were sent here to carry on a mission...\nThat was thoughtless of me.",
         "pt-BR": "[Arc]\nCom certeza foi um favor irracional...\nTambém enviaram você aqui para cumprir uma missão...\nIsso foi uma falta de consideração da minha parte.",
-        "es-ES": "[Arc]\nCiertamente fue un favor inaceptable.\nTambién te enviaron para llevar a cabo una misión…\nFui algo desconsiderado."
+        "es-ES": "[Arc]\nCiertamente fue un favor inaceptable.\nTambién te enviaron para llevar a cabo una misión...\nFui algo desconsiderado."
     },
     "yiUm": {
         "en-US": "[Arc]\nIs that so? Of course.\nYou were sent here to carry on your own mission...",
         "pt-BR": "[Arc]\nÉ isso mesmo? Claro que sim.\nEnviaram você aqui para cumprir sua própria missão...",
-        "es-ES": "[Arc]\n¿De verdad? Por supuesto.\nTe enviaron a continuar con tu misión…"
+        "es-ES": "[Arc]\n¿De verdad? Por supuesto.\nTe enviaron a continuar con tu misión..."
     },
     "yyUm": {
         "en-US": "[Arc]\n^4D4DFFTerra^000000 has a habit of making a knot out of plants to mark her destination.\nKeep that in mind when searching for her. And don't tell any other Laphine's about her missing.",
@@ -222,7 +222,7 @@
     "zCUm": {
         "en-US": "[Arc]\nYou {0} are the only one I could ask for help...\nDo me this favor please.",
         "pt-BR": "[Arc]\nVocê, {0}, é a única pessoa a quem posso pedir ajuda...\nFaça-me esse favor, eu imploro.",
-        "es-ES": "[Arc]\n{0}, eres la única persona a la que puedo pedirle ayuda…\nTe ruego que me hagas este favor."
+        "es-ES": "[Arc]\n{0}, eres la única persona a la que puedo pedirle ayuda...\nTe ruego que me hagas este favor."
     },
     "zSUm": {
         "en-US": "[Arc]\nDid you find anything?\nHave you found any knotted plants?\nYeah, that's the mark\nthat Terra leaves.",
@@ -252,12 +252,12 @@
     "0iUm": {
         "en-US": "[Arc]\nTerra...",
         "pt-BR": "[Arc]\nTerra...",
-        "es-ES": "[Arc]\nTerra…"
+        "es-ES": "[Arc]\nTerra..."
     },
     "0yUm": {
         "en-US": "[Arc]\nTerra came back!!!\nbut, she was covered all over with wounds...",
         "pt-BR": "[Arc]\nTerra voltou!\nMas ela estava toda cheia de feridas...",
-        "es-ES": "[Arc]\n¡Terra volvió!\nPero estaba muy malherida…"
+        "es-ES": "[Arc]\n¡Terra volvió!\nPero estaba muy malherida..."
     },
     "1CUm": {
         "en-US": "Covered with wounds?",
@@ -272,12 +272,12 @@
     "1iUm": {
         "en-US": "[Arc]\nDidn't even tell me the reason!\nI told her no, but she wouldn't listen to me!\nIt happened all of a sudden...",
         "pt-BR": "[Arc]\nNem sequer me disse o motivo!\nMandei ela parar, mas ela não me ouviu!\nFoi tão de repente...",
-        "es-ES": "[Arc]\n¡Ni siquiera me dijo por qué!\nLe dije que no lo hiciera, ¡pero no me hizo caso!\nSucedió de repente…"
+        "es-ES": "[Arc]\n¡Ni siquiera me dijo por qué!\nLe dije que no lo hiciera, ¡pero no me hizo caso!\nSucedió de repente..."
     },
     "1yUm": {
         "en-US": "[Arc]\n{0}!\nWhat shoud I do now?\nWhat do I have to do?\nTerra left again and she was hurt...",
         "pt-BR": "[Arc]\n{0}!\nO que devo fazer agora?\nO eu faço?\nA Terra foi embora de novo e ela estava ferida...",
-        "es-ES": "[Arc]\n¡{0}!\n¿Y ahora qué hago?\n¿Qué tengo que hacer?\nTerra volvió a irse y encima estaba herida…"
+        "es-ES": "[Arc]\n¡{0}!\n¿Y ahora qué hago?\n¿Qué tengo que hacer?\nTerra volvió a irse y encima estaba herida..."
     },
     "2CUm": {
         "en-US": "[Arc]\nAnd I just stood here...doing nothing",
@@ -292,7 +292,7 @@
     "2iUm": {
         "en-US": "[Arc]\n.........anyways.\nI couldn't either stop her, or follow her.\nWhat now...?\nWhy did she take the Bradium...?",
         "pt-BR": "[Arc]\n... Enfim\nEu não podia detê-la nem segui-la.\nE agora...?\nPor que ela levou o Bradium...?",
-        "es-ES": "[Arc]\n…En fin.\nNo podía detenerla ni seguirla.\n¿Y ahora qué…?\n¿Por qué se llevó el Bradium…?"
+        "es-ES": "[Arc]\n...En fin.\nNo podía detenerla ni seguirla.\n¿Y ahora qué...?\n¿Por qué se llevó el Bradium...?"
     },
     "2yUm": {
         "en-US": "- You tell Arc about the Giant from the cave. -",
@@ -302,7 +302,7 @@
     "3CUm": {
         "en-US": "[Arc]\nWhat? Is that what happened?\nBradium...is certainly a precious ore for Sapha.\nThey use a refined Bradium ore...",
         "pt-BR": "[Arc]\nO quê? Foi isso que aconteceu?\nBradium... é certamente um minério precioso para os Sapha.\nEles usam um minério de Bradium refinado...",
-        "es-ES": "[Arc]\n¿Qué? ¿Eso es lo que pasó?\nSin dudas, el Bradium… es un mineral precioso para los saphas.\nUsan un mineral de Bradium refinado…"
+        "es-ES": "[Arc]\n¿Qué? ¿Eso es lo que pasó?\nSin dudas, el Bradium... es un mineral precioso para los saphas.\nUsan un mineral de Bradium refinado..."
     },
     "3SUm": {
         "en-US": "[Arc]\nYou said that a Sapha was hurt?\nAnd its body was already stiff?\nImpossible!\nTerra!!",
@@ -337,27 +337,27 @@
     "4yUm": {
         "en-US": "[Arc]\nIt's.. \n...No.... \nShit, then what should I do!!",
         "pt-BR": "[Arc]\nÉ... \n... Não... \nMerda, então o que devo fazer...?!",
-        "es-ES": "[Arc]\nPero…\nYo…\nMierda, ¡¿entonces qué hago?!"
+        "es-ES": "[Arc]\nPero...\nYo...\nMierda, ¡¿entonces qué hago?!"
     },
     "5CUm": {
         "en-US": "[Arc]\nIt's..\n...No....\nShit, then what should I do!!",
         "pt-BR": "[Arc]\nÉ... \n... Não... \nMerda, então o que devo fazer...?!",
-        "es-ES": "[Arc]\nPero…\nYo…\nMierda, ¡¿entonces qué hago?!"
+        "es-ES": "[Arc]\nPero...\nYo...\nMierda, ¡¿entonces qué hago?!"
     },
     "5SUm": {
         "en-US": "[{0}]\nLet's hear rest of the story from Terra.\nIt is important for you to guard this place, isn't it?\nIf Terra really took the Bradium without any permission...",
         "pt-BR": "[{0}]\nVamos ouvir o resto da história da Terra.\nÉ importante que você proteja aqui, não é?\nSe a Terra realmente pegou o Bradium sem nenhuma permissão...",
-        "es-ES": "[{0}]\nEscuchemos lo que Terra tenga para decir sobre el resto.\nEs importante que vigiles este lugar, ¿no?\nSi Terra en verdad se llevó el Bradium sin permiso…"
+        "es-ES": "[{0}]\nEscuchemos lo que Terra tenga para decir sobre el resto.\nEs importante que vigiles este lugar, ¿no?\nSi Terra en verdad se llevó el Bradium sin permiso..."
     },
     "5iUm": {
         "en-US": "[Arc]\nThe higher ups won't just remain still.\nI'm sorry to ask you but.\nPlease go and bring her back here...",
         "pt-BR": "[Arc]\nOs superiores não ficarão parados.\nDesculpe-me por pedir, mas...\nPor favor, vá e traga-a de volta para cá...",
-        "es-ES": "[Arc]\nLos superiores no se van a quedar de brazos cruzados.\nMe da vergüenza pedírtelo, pero…\nPor favor, ve y tráela de regreso…"
+        "es-ES": "[Arc]\nLos superiores no se van a quedar de brazos cruzados.\nMe da vergüenza pedírtelo, pero...\nPor favor, ve y tráela de regreso..."
     },
     "5yUm": {
         "en-US": "[Arc]\nI'm really sorry for getting you into this mess...\n...Please, find Terra.",
         "pt-BR": "[Arc]\nEu realmente sinto muito por ter posto você nessa confusão...\n... Por favor, encontre a Terra.",
-        "es-ES": "[Arc]\nLamento mucho haberte metido en este lío…\n…Por favor, encuentra a Terra."
+        "es-ES": "[Arc]\nLamento mucho haberte metido en este lío...\n...Por favor, encuentra a Terra."
     },
     "6CUm": {
         "en-US": "[Arc]\nWhat? A wounded Laphine in the Sapha's village?\nWas it Terra?! Was she captured by those Sapha bastards?!",
@@ -372,12 +372,12 @@
     "6iUm": {
         "en-US": "[{0}]\nAlso, they were looking for something that can cure a wounded Laphine...\nIf we bring some medicine to them, we might have a chance to see who the Laphine is.",
         "pt-BR": "[{0}]\nAlém disso, eles estavam procurando por algo que pudesse curar um Laphine Ferida...\nSe levarmos algum remédio para eles, talvez tenhamos uma chance de ver quem é o Laphine.",
-        "es-ES": "[{0}]\nAdemás, buscaban algo para curarle las heridas a un laphine…\nSi les llevamos medicamentos, quizás tengamos la oportunidad de ver quién es el laphine."
+        "es-ES": "[{0}]\nAdemás, buscaban algo para curarle las heridas a un laphine...\nSi les llevamos medicamentos, quizás tengamos la oportunidad de ver quién es el laphine."
     },
     "6yUm": {
         "en-US": "[{0}]\nI understand how anxious you feel.. but that is the only way I can think of finding out who it is.",
         "pt-BR": "[{0}]\nEntendo como você está nervoso... mas essa é a única maneira que encontrei para descobrir quem é.",
-        "es-ES": "[{0}]\nEntiendo que te inquiete… Pero es la única forma que se me ocurre para averiguar quién es."
+        "es-ES": "[{0}]\nEntiendo que te inquiete... Pero es la única forma que se me ocurre para averiguar quién es."
     },
     "7CUm": {
         "en-US": "[{0}]\nI will take some things to treat the wounds with me and if it turns out that the captured Laphine is Terra, I will bring her back.",
@@ -387,27 +387,27 @@
     "7SUm": {
         "en-US": "[Arc]\n...........\nOK, that seems like the best thing we can do for this situation...",
         "pt-BR": "[Arc]\n...........\nTá, isso parece ser a melhor coisa que podemos fazer para essa situação...",
-        "es-ES": "[Arc]\n...........\nBueno, parece que es lo mejor que podemos hacer en este momento…"
+        "es-ES": "[Arc]\n...........\nBueno, parece que es lo mejor que podemos hacer en este momento..."
     },
     "7iUm": {
         "en-US": "[Arc]\nDo you by any chance know about the 'Yggdrasil'?\nThere's nothing better than the Yggdrasilberry to treat wounds...\nEspecially for us Laphine...",
         "pt-BR": "[Arc]\nPor acaso você conhece a 'Yggdrasil'?\nNão há nada melhor do que a Fruto de Yggdrasil para tratar feridas...\nEspecialmente para nós, Laphine...",
-        "es-ES": "[Arc]\n¿De casualidad conoces algo sobre Yggdrasil?\nPara tratar las heridas, no hay nada mejor que los frutos de Yggdrasil…\nEn particular, si son heridas de un laphine…"
+        "es-ES": "[Arc]\n¿De casualidad conoces algo sobre Yggdrasil?\nPara tratar las heridas, no hay nada mejor que los frutos de Yggdrasil...\nEn particular, si son heridas de un laphine..."
     },
     "7yUm": {
         "en-US": "[Arc]\nIf you have a Yggdrasilberry, you can use it to cure that Laphine.\nYggdrasil is the tree of life... its roots are in touch with everything in this world.",
         "pt-BR": "[Arc]\nSe você tiver um Fruto de Yggdrasil, poderá usá-lo para curar esse Laphine.\nYggdrasil é a árvore da vida... suas raízes estão em contato com tudo neste mundo.",
-        "es-ES": "[Arc]\nSi tienes un fruto de Yggdrasil, puedes usarlo para curar al laphine.\nYggdrasil es el árbol de la vida… Sus raíces se entrelazan con todo lo que existe en el mundo."
+        "es-ES": "[Arc]\nSi tienes un fruto de Yggdrasil, puedes usarlo para curar al laphine.\nYggdrasil es el árbol de la vida... Sus raíces se entrelazan con todo lo que existe en el mundo."
     },
     "8CUm": {
         "en-US": "[Arc]\nI have...\n...only three Yggdrasilberries...",
         "pt-BR": "[Arc]\nEu tenho...\n... só três Frutos de Yggdrasil...",
-        "es-ES": "[Arc]\nSolo tengo…\n…tres frutos de Yggdrasil…"
+        "es-ES": "[Arc]\nSolo tengo...\n...tres frutos de Yggdrasil..."
     },
     "8SUm": {
         "en-US": "[Arc]\nI will give you these but they won't be enough.\nOutside... there is a huge tree... where the root of the Yggdrasil is exposed.... it should be there.",
         "pt-BR": "[Arc]\nEu vou te dar eles, mas não serão o suficiente.\nLá fora... há uma árvore enorme... onde a raiz da Yggdrasil está exposta.... deve ter lá.",
-        "es-ES": "[Arc]\nTe los daré, pero necesitarás más.\nAfuera… Hay un árbol enorme… Y allí, la raíz de Yggdrasil está al descubierto… Debería estar allí."
+        "es-ES": "[Arc]\nTe los daré, pero necesitarás más.\nAfuera... Hay un árbol enorme... Y allí, la raíz de Yggdrasil está al descubierto... Debería estar allí."
     },
     "8iUm": {
         "en-US": "[Arc]\nSometimes you can find Yggdrasilberries around there.\nGo find few more and bring them with you. Hurry!",
@@ -427,27 +427,27 @@
     "9SUm": {
         "en-US": "[Arc]\nYou will need at least 6~7 of them..\n.... .. I hope she is safe..",
         "pt-BR": "[Arc]\nVocê precisará de pelo menos 6~7 deles.\n.... ... Espero que ela esteja bem...",
-        "es-ES": "[Arc]\nNecesitarás al menos 6 o 7…\n.... .. Espero que esté a salvo…"
+        "es-ES": "[Arc]\nNecesitarás al menos 6 o 7...\n.... .. Espero que esté a salvo..."
     },
     "9iUm": {
         "en-US": "[Arc]\nAs soon as you are done collecting the berries, bring them to the Sapha Village right away!!!\nTerra... please be safe.",
         "pt-BR": "[Arc]\nAssim que terminar de coletar as frutinhas, leve-as para a Aldeia Sapha imediatamente!\nTerra... por favor, fique bem.",
-        "es-ES": "[Arc]\nEn cuanto termines de recolectar los frutos, ¡llévalos de inmediato a la aldea de los saphas!\nTerra… Cuídate, por favor."
+        "es-ES": "[Arc]\nEn cuanto termines de recolectar los frutos, ¡llévalos de inmediato a la aldea de los saphas!\nTerra... Cuídate, por favor."
     },
     "9yUm": {
         "en-US": "[Arc]\n...Oh where is Terra...?",
         "pt-BR": "[Arc]\n... Ah, onde está a Terra...?",
-        "es-ES": "[Arc]\n…Oh, ¿dónde está Terra…?"
+        "es-ES": "[Arc]\n...Oh, ¿dónde está Terra...?"
     },
     "+CUm": {
         "en-US": "[Arc]\n{0}!!\nTerra's back!!!\nShe is back in one piece!\n...She hasn't been saying a single word since her return, I told her to rest in Yai...",
         "pt-BR": "[Arc]\n{0}!\nA Terra voltou!\nEla voltou inteira!\n... Ela não disse uma única palavra que voltou. Falei para ela descansar no Yai...",
-        "es-ES": "[Arc]\n¡{0}!\n¡Terra volvió!\n¡Volvió sana y salva!\n… No dijo ni una sola palabra desde que volvió, le dije que descansara en el yai…"
+        "es-ES": "[Arc]\n¡{0}!\n¡Terra volvió!\n¡Volvió sana y salva!\n... No dijo ni una sola palabra desde que volvió, le dije que descansara en el yai..."
     },
     "+SUm": {
         "en-US": "[Arc]\nPlease come by if you don't mind.\nTerra's Yai.\nWhich is her Private Residences... It's located at the Southeast direction from here.",
         "pt-BR": "[Arc]\nApareça lá, se não se importar.\nYai da Terra.\nQue é a residência particular... Está localizada no sudeste daqui.",
-        "es-ES": "[Arc]\nSi no te molesta, ve a visitarla.\nEl yai de Terra\nes su residencia privada… Se encuentra al sureste de aquí."
+        "es-ES": "[Arc]\nSi no te molesta, ve a visitarla.\nEl yai de Terra\nes su residencia privada... Se encuentra al sureste de aquí."
     },
     "+iUm": {
         "en-US": "[Arc]\nI would like to hear a detailed account of what happened.",
@@ -462,12 +462,12 @@
     "/CUm": {
         "en-US": "[Arc]\nI really appreciate what you've done for us.\nBut, I'm worried about Terra.\nI hope she can be her old self...",
         "pt-BR": "[Arc]\nSou muito grato pelo que você fez por nós.\nMas estou preocupado com a Terra.\nEspero que ela possa voltar a ser o que era...",
-        "es-ES": "[Arc]\nAgradezco mucho lo que hiciste por nosotros.\nPero me preocupa Terra.\nEspero que pueda volver a ser la de antes…"
+        "es-ES": "[Arc]\nAgradezco mucho lo que hiciste por nosotros.\nPero me preocupa Terra.\nEspero que pueda volver a ser la de antes..."
     },
     "/SUm": {
         "en-US": "[Arc]\nAh~Ah~Stop right there..\nThis area is off-limits to unauthorized personnel.",
         "pt-BR": "[Arc]\nAh~ Ah~ Pare aí mesmo...\nEssa área está fora dos limites para pessoas não autorizadas.",
-        "es-ES": "[Arc]\nOye, oye… Alto ahí…\nSolo personal autorizado puede acceder a esta zona."
+        "es-ES": "[Arc]\nOye, oye... Alto ahí...\nSolo personal autorizado puede acceder a esta zona."
     },
     "/iUm": {
         "en-US": "[Arc]\nYur,Dur AnoVa?\nWha? Dieb OsaDur .. \nah..RuffThus NeAsh. man nesAsh OdesAlah ?",
@@ -477,7 +477,7 @@
     "/yUm": {
         "en-US": "[Arc]\nYur,Dur AnoVa?\nWha? Dieb OsaDur ..\nah..RuffThus NeAsh. man nesAsh OdesAlah ?",
         "pt-BR": "- Não consigo entender o que ele está dizendo... Céus, que frustrante. -",
-        "es-ES": "(No entiendo lo que dice… Cielos, ¡qué frustrante!)."
+        "es-ES": "(No entiendo lo que dice... Cielos, ¡qué frustrante!)."
     },
     "ACYm": {
         "en-US": "[Splendide Guard]\nNeiVil !\nnarNoth nesMush.\nAnuDur AmanDana Goth nar!",
@@ -552,7 +552,7 @@
     "DiYm": {
         "en-US": "There's evidence that there was a fight here too.\nThese footsteps can't be a Laphine's...",
         "pt-BR": "Há evidências de que houve uma briga aqui também.\nEssas pegadas não podem ser de um Laphine...",
-        "es-ES": "Aquí también hay evidencias de una pelea.\nEstas huellas no pueden pertenecer a un laphine…"
+        "es-ES": "Aquí también hay evidencias de una pelea.\nEstas huellas no pueden pertenecer a un laphine..."
     },
     "DyYm": {
         "en-US": "There are footprints that lead to^4D4DFF the Root of a huge tree^000000.",
@@ -562,7 +562,7 @@
     "ECYm": {
         "en-US": "There's a stem entangled inside an opening in the roots of a huge tree...\nIt looks like something slipped here.",
         "pt-BR": "Há um caule emaranhado em uma abertura nas raízes de uma árvore enorme...\nParece que algo escorregou aqui.",
-        "es-ES": "Hay un tallo enredado dentro de una abertura entre las raíces del árbol enorme…\nParece que algo se deslizó dentro."
+        "es-ES": "Hay un tallo enredado dentro de una abertura entre las raíces del árbol enorme...\nParece que algo se deslizó dentro."
     },
     "ESYm": {
         "en-US": "A cold breeze is blowing out from deep inside the tree.",
@@ -577,7 +577,7 @@
     "EyYm": {
         "en-US": "Looks dangerous... head back.",
         "pt-BR": "Parece perigoso... voltar.",
-        "es-ES": "Parece peligroso… Retroceder."
+        "es-ES": "Parece peligroso... Retroceder."
     },
     "FCYm": {
         "en-US": "You take a one step forward carefully through the muddy roots and slip.",
@@ -587,7 +587,7 @@
     "FSYm": {
         "en-US": "It's too dark to see anything inside...but it feels like there's a big hole at the bottom.\nI'd better step back...It looks dangerous.",
         "pt-BR": "Está muito escuro para ver qualquer coisa lá dentro... mas parece que há um grande buraco no fundo.\nÉ melhor eu voltar... parece perigoso.",
-        "es-ES": "Adentro está demasiado oscuro y no ves nada… pero parece que en el fondo hay un gran agujero.\nSerá mejor retroceder… Parece peligroso."
+        "es-ES": "Adentro está demasiado oscuro y no ves nada... pero parece que en el fondo hay un gran agujero.\nSerá mejor retroceder... Parece peligroso."
     },
     "FiYm": {
         "en-US": "Between huge roots, there is a hole leads to the underground cave.",
@@ -617,7 +617,7 @@
     "GyYm": {
         "en-US": "Strange looking stems are entangled inside an opening of huge roots.\nSurface looks unstable...I should step away before I slip on it.",
         "pt-BR": "Os caules de aparência estranha estão emaranhados em uma abertura de raízes enormes.\nA superfície parece instável... melhor me afastar antes que eu escorregue nela.",
-        "es-ES": "Hay tallos de aspecto extraño enredados dentro de una abertura entre las raíces enormes.\nLa superficie no parece estable… Debería retroceder antes de que me resbale."
+        "es-ES": "Hay tallos de aspecto extraño enredados dentro de una abertura entre las raíces enormes.\nLa superficie no parece estable... Debería retroceder antes de que me resbale."
     },
     "HCYm": {
         "en-US": "Petrified Sapha",
@@ -642,27 +642,27 @@
     "ICYm": {
         "en-US": "[{0}]\nA statue in a place like this...\nInteresting.",
         "pt-BR": "[{0}]\nUma estátua em um lugar como este...\nInteressante.",
-        "es-ES": "[{0}]\n¿Una estatua en un lugar como este…?\nInteresante."
+        "es-ES": "[{0}]\n¿Una estatua en un lugar como este...?\nInteresante."
     },
     "ISYm": {
         "en-US": "[{0}]\nHm, This resembles... that giant tribe in Manuk...\nHuh? It's wearing a muffler..\n....It can't be!",
         "pt-BR": "[{0}]\nHm, isso se parece... aquela tribo gigante em Manuk...\nHã? Está usando um abafador...\n... Não pode ser!",
-        "es-ES": "[{0}]\nMmm, se parece a… Esa tribu de gigantes de Manuk…\n¿Eh? Lleva una bufanda…\n¡…No puede ser!"
+        "es-ES": "[{0}]\nMmm, se parece a... Esa tribu de gigantes de Manuk...\n¿Eh? Lleva una bufanda...\n¡...No puede ser!"
     },
     "IiYm": {
         "en-US": "[{0}]\nIt has a lot of scars on it... as if it had been in a severe fight...",
         "pt-BR": "[{0}]\nTem muitas cicatrizes... como se tivesse participado de uma luta intensa...",
-        "es-ES": "[{0}]\nTiene muchas cicatrices… Como si se hubiera enfrascado en una lucha ardua…"
+        "es-ES": "[{0}]\nTiene muchas cicatrices... Como si se hubiera enfrascado en una lucha ardua..."
     },
     "IyYm": {
         "en-US": "[{0}]\nAnd it appears like it's holding something in its arms...\n...Just what happened here?",
         "pt-BR": "[{0}]\nE parece que está segurando algo em seus braços...\n... O que aconteceu aqui?",
-        "es-ES": "[{0}]\nY parece que sostiene algo entre los brazos…\n¿…Qué pasó aquí?"
+        "es-ES": "[{0}]\nY parece que sostiene algo entre los brazos...\n¿...Qué pasó aquí?"
     },
     "JCYm": {
         "en-US": "[{0}]\nI can't imagine what happened here, but I don't see Terra's marks anymore...\nand this cave looks unsafe... I'd better go back to Arc for now.",
         "pt-BR": "[{0}]\nNão consigo imaginar o que aconteceu aqui, mas não estou mais vendo as marcas da Terra...\nE esta caverna não parece segura... É melhor eu voltar para o Arc por enquanto.",
-        "es-ES": "[{0}]\nNo me imagino lo que puede haber pasado aquí, pero ya no veo las marcas de Terra…\nY esta cueva no parece segura… Por ahora será mejor volver con Arc."
+        "es-ES": "[{0}]\nNo me imagino lo que puede haber pasado aquí, pero ya no veo las marcas de Terra...\nY esta cueva no parece segura... Por ahora será mejor volver con Arc."
     },
     "JSYm": {
         "en-US": "[{0}]\nCould it be... Terra was fighting this Giant?",
@@ -672,12 +672,12 @@
     "JiYm": {
         "en-US": "[{0}]\nAnyways... How do I get out of here?\nThat hole I came in is too slippery to climb back out...",
         "pt-BR": "[{0}]\nEnfim... Como faço para sair daqui?\nO buraco por onde entrei é muito escorregadio para sair de novo...",
-        "es-ES": "[{0}]\nEn fin… ¿Cómo salgo de aquí?\nEl agujero por el que entré es demasiado resbaloso como para salir por allí…"
+        "es-ES": "[{0}]\nEn fin... ¿Cómo salgo de aquí?\nEl agujero por el que entré es demasiado resbaloso como para salir por allí..."
     },
     "JyYm": {
         "en-US": "[{0}]\nLight is coming in from the ceiling above... Maybe I should just climb a stem around here...",
         "pt-BR": "[{0}]\nA luz está vindo do teto acima... Talvez eu consiga escalar um tronco por aqui...",
-        "es-ES": "[{0}]\nEntra luz por el techo… Quizás pueda escalar por alguno de estos tallos…"
+        "es-ES": "[{0}]\nEntra luz por el techo... Quizás pueda escalar por alguno de estos tallos..."
     },
     "KCYm": {
         "en-US": "[{0}]\nI'm done with this place.\nI should go back to Arc.\nLet's find an exit.",
@@ -687,22 +687,22 @@
     "KSYm": {
         "en-US": "I came back here, but there's no trace of Terra.\nThere's only one thing different from the last time..Small particles of an ore are sprinkled around the Sapha's dead body.",
         "pt-BR": "Voltei aqui, mas não há nenhum rastro da Terra.\nTem só uma coisa diferente da última vez... Pequenas partículas de um minério estão espalhadas ao redor do corpo morto do Sapha.",
-        "es-ES": "Volví, pero no hay rastro de Terra.\nUna sola cosa cambió desde la última vez… Hay pequeñas partículas de algún mineral esparcidas alrededor del cuerpo del sapha."
+        "es-ES": "Volví, pero no hay rastro de Terra.\nUna sola cosa cambió desde la última vez... Hay pequeñas partículas de algún mineral esparcidas alrededor del cuerpo del sapha."
     },
     "KiYm": {
         "en-US": "[{0}]\nSo...Terra was here...\nPowdered Bradium...\nWhat was she trying to do with this Sapha?",
         "pt-BR": "[{0}]\nEntão... Terra estava aqui...\nBradium em pó...\nO que ela estava tentando fazer com esse Sapha?",
-        "es-ES": "[{0}]\nEntonces… Terra estuvo aquí…\nBradium en polvo…\n¿Qué intentaba hacer con este sapha?"
+        "es-ES": "[{0}]\nEntonces... Terra estuvo aquí...\nBradium en polvo...\n¿Qué intentaba hacer con este sapha?"
     },
     "KyYm": {
         "en-US": "[{0}]\nI can't just go back to Arc without anything... he'd be so disappointed...\nHmm, Should I go to the Sapha's village?",
         "pt-BR": "[{0}]\nNão posso simplesmente voltar pra o Arc sem nada... ele ficaria muito decepcionado...\nHmm, que tal ir para a vila dos Sapha?",
-        "es-ES": "[{0}]\nNo puedo regresar con Arc con las manos vacías… Se decepcionaría mucho…\nMmm, ¿debería ir a la aldea de los saphas?"
+        "es-ES": "[{0}]\nNo puedo regresar con Arc con las manos vacías... Se decepcionaría mucho...\nMmm, ¿debería ir a la aldea de los saphas?"
     },
     "LCYm": {
         "en-US": "[{0}]\nI can't find any traces of Terra anymore.\nOne thing that bugs me is...These particles of an ore.",
         "pt-BR": "[{0}]\nNão consigo mais encontrar nenhum vestígio da Terra.\nUma coisa que me incomoda é... essas partículas de minério.",
-        "es-ES": "[{0}]\nYa no encuentro rastros de Terra.\nAlgo que me intriga… son estas partículas minerales."
+        "es-ES": "[{0}]\nYa no encuentro rastros de Terra.\nAlgo que me intriga... son estas partículas minerales."
     },
     "LSYm": {
         "en-US": "[{0}]\nI should go back to Arc and ask about it, or go to Sapha's Village and investigate some more.",
@@ -712,7 +712,7 @@
     "LiYm": {
         "en-US": "A giant from the race called Sapha is petrified here.\nIt looks like it's dead..",
         "pt-BR": "Um gigante da raça chamada Sapha está petrificado aqui.\nParece que está morto...",
-        "es-ES": "Aquí hay un gigante petrificado de la raza llamada sapha.\nParece estar muerto…"
+        "es-ES": "Aquí hay un gigante petrificado de la raza llamada sapha.\nParece estar muerto..."
     },
     "LyYm": {
         "en-US": "I need to bring back some evidence of this giant in the cave.\nWhat should I bring with me?",
@@ -752,12 +752,12 @@
     "NiYm": {
         "en-US": "And...what else should I take?",
         "pt-BR": "E... o que mais devo levar?",
-        "es-ES": "Y… ¿Qué más debería llevarme?"
+        "es-ES": "Y... ¿Qué más debería llevarme?"
     },
     "NyYm": {
         "en-US": "...Why am I trying to strip off a MAN's pants?!....",
         "pt-BR": "... Por que estou tentando tirar a calça de um HOMEM?!...",
-        "es-ES": "¡¿…Por qué estoy intentando quitarle los pantalones a un hombre muerto…?!"
+        "es-ES": "¡¿...Por qué estoy intentando quitarle los pantalones a un hombre muerto...?!"
     },
     "OCYm": {
         "en-US": "You pick up a fragment of Bradium scattered on the ground.\nThis should be enough.",
@@ -767,7 +767,7 @@
     "OSYm": {
         "en-US": "... I don't want to take off a dead MAN's pants.....",
         "pt-BR": "... Não quero tirar as calças de um HOMEM morto.....",
-        "es-ES": "… No quiero sacarle los pantalones a un hombre muerto…"
+        "es-ES": "... No quiero sacarle los pantalones a un hombre muerto..."
     },
     "OiYm": {
         "en-US": "You pick up a fragment of Bradium scattered on the ground.\nThis will prove Terra's effort.\nAnd what else?",
@@ -782,7 +782,7 @@
     "PCYm": {
         "en-US": "...Trying to strip off a dead MAN's pants just seems wrong...",
         "pt-BR": "... Tentar tirar as calças de um HOMEM morto parece errado...",
-        "es-ES": "… Intentar quitarle los pantalones a un hombre muerto no me parece correcto…"
+        "es-ES": "... Intentar quitarle los pantalones a un hombre muerto no me parece correcto..."
     },
     "PSYm": {
         "en-US": "Petrified Sapha.\nNow I have the muffler, let's go back to Luik and Snorren.",
@@ -792,62 +792,62 @@
     "PiYm": {
         "en-US": "[Snorren]\nOgen!!!!!!\n...Ogen... Ogen...\n....Ogeeen......",
         "pt-BR": "[Snorren]\nOgen!\n...Ogen... Ogen...\n....Ogeeen......",
-        "es-ES": "[Snorren]\n¡Ogen!\n…Ogen… Ogen…\n…Ogeeen…"
+        "es-ES": "[Snorren]\n¡Ogen!\n...Ogen... Ogen...\n...Ogeeen..."
     },
     "PyYm": {
         "en-US": "You don't mean..?",
         "pt-BR": "Você não quer dizer...?",
-        "es-ES": "¿No querrás decir que…?"
+        "es-ES": "¿No querrás decir que...?"
     },
     "QCYm": {
         "en-US": "[Snorren]\nThis.. is.. worse than I could have imagined...\nOgen... this doesn't look like it can be reversed...",
         "pt-BR": "[Snorren]\nIsso... é... pior do que eu poderia ter imaginado...\nOgen... parece que isso não pode ser revertido...",
-        "es-ES": "[Snorren]\nEs… Peor de lo que podría imaginar…\nOgen… Parece que no se puede revertir…"
+        "es-ES": "[Snorren]\nEs... Peor de lo que podría imaginar...\nOgen... Parece que no se puede revertir..."
     },
     "QSYm": {
         "en-US": "[Snorren]\nNo matter how much bradium fluid we inject... Ogen can't come back alive...",
         "pt-BR": "[Snorren]\nNão importa a quantidade de fluido de bradium que injetemos... Ogen não pode voltar vivo...",
-        "es-ES": "[Snorren]\nNo importa la cantidad de fluido de Bradium que inyectemos… No podemos resucitar a Ogen…"
+        "es-ES": "[Snorren]\nNo importa la cantidad de fluido de Bradium que inyectemos... No podemos resucitar a Ogen..."
     },
     "QiYm": {
         "en-US": "[Snorren]\nOgen... really was adament... about protecting that Laphine... to protect Terra...\nHe did his best 'til the last...",
         "pt-BR": "[Snorren]\nOgen... realmente estava determinado... a proteger aquele Laphine... a proteger a Terra...\nEle fez o melhor que pôde até o fim...",
-        "es-ES": "[Snorren]\nOgen… realmente estaba decidido… a proteger a esa laphine… a proteger a Terra…\nHizo todo lo posible hasta el final…"
+        "es-ES": "[Snorren]\nOgen... realmente estaba decidido... a proteger a esa laphine... a proteger a Terra...\nHizo todo lo posible hasta el final..."
     },
     "QyYm": {
         "en-US": "[Snorren]\nLook at this, {0}\nHis petrifyied body...\nprotected Terra...like this.",
         "pt-BR": "[Snorren]\nOlhe só, {0}.\nSeu corpo petrificado...\nProtegeu a Terra... assim.",
-        "es-ES": "[Snorren]\nMira esto, {0}.\nSu cuerpo petrificado…\nProtegió así… A Terra."
+        "es-ES": "[Snorren]\nMira esto, {0}.\nSu cuerpo petrificado...\nProtegió así... A Terra."
     },
     "RCYm": {
         "en-US": "[Snorren]\nOgen... made himself an unbreakable shield...",
         "pt-BR": "[Snorren]\nOgen... fez de si um escudo inquebrável...",
-        "es-ES": "[Snorren]\nOgen… se convirtió en un escudo irrompible…"
+        "es-ES": "[Snorren]\nOgen... se convirtió en un escudo irrompible..."
     },
     "RSYm": {
         "en-US": "[Snorren]\nOgen... you can now go back to the bosom of the Motherland...\nThis statue will be a monument to your courage...",
         "pt-BR": "[Snorren]\nOgen... agora você pode voltar para o seio da Pátria...\nEsta estátua será um monumento à sua coragem...",
-        "es-ES": "[Snorren]\nOgen… Ya puedes regresar al seno de tu tierra natal…\nEsta estatua será un homenaje a tu valentía…"
+        "es-ES": "[Snorren]\nOgen... Ya puedes regresar al seno de tu tierra natal...\nEsta estatua será un homenaje a tu valentía..."
     },
     "RiYm": {
         "en-US": "- I can't begin to describe the sorrow of losing a close friend... -",
         "pt-BR": "- Não tenho palavras para descrever a tristeza de perder um amigo próximo... -",
-        "es-ES": "(No hay palabras para describir el dolor de perder a un amigo cercano…)."
+        "es-ES": "(No hay palabras para describir el dolor de perder a un amigo cercano...)."
     },
     "RyYm": {
         "en-US": "- All I could do was to keep tapping his shoulder... as he quietly sobbed... -",
         "pt-BR": "- Tudo o que eu podia fazer era continuar batendo em seu ombro... enquanto ele soluçava baixinho... -",
-        "es-ES": "(Lo único que podría hacer era seguir dándole palmadas en el hombro… mientras sollozaba en silencio…)."
+        "es-ES": "(Lo único que podría hacer era seguir dándole palmadas en el hombro... mientras sollozaba en silencio...)."
     },
     "SCYm": {
         "en-US": "[{0}]\nLet's.. go back.\nOgen wouldn't want you to be so sad and depressed.",
         "pt-BR": "[{0}]\nVamos... voltar.\nOgen não gostaria que você ficasse tão triste e deprimido.",
-        "es-ES": "[{0}]\nRegresemos…\nOgen no querría que te entristezcas ni te deprimas tanto."
+        "es-ES": "[{0}]\nRegresemos...\nOgen no querría que te entristezcas ni te deprimas tanto."
     },
     "SSYm": {
         "en-US": "[Snorren]\n...I guess you are right.\nThere's... sunlight shining here...\nThis... must be a comfort resting place for Ogen.",
         "pt-BR": "[Snorren]\n... Acho que você tem razão.\nHá... luz do sol brilhando aqui...\nEste... deve ser um local de descanso confortável para o Ogen.",
-        "es-ES": "[Snorren]\n…Supongo que tienes razón.\nAquí… entra algo de luz del sol…\nEste… debe ser el lugar de descanso para Ogen."
+        "es-ES": "[Snorren]\n...Supongo que tienes razón.\nAquí... entra algo de luz del sol...\nEste... debe ser el lugar de descanso para Ogen."
     },
     "SiYm": {
         "en-US": "[Snorren]\nI should go and tell Luik and the townspeople about this.\nI will go on ahead.",
@@ -857,7 +857,7 @@
     "SyYm": {
         "en-US": "- Snorren stood up with a bitter smile.\n...I should go back too... I'm worried about Terra. -",
         "pt-BR": "- Snorren se levantou com um sorriso amargo.\n... Eu também deveria voltar... Estou preocupado com a Terra. -",
-        "es-ES": "(Snorren se levantó con una sonrisa amarga.\n…También debería regresar… Me preocupa Terra)."
+        "es-ES": "(Snorren se levantó con una sonrisa amarga.\n...También debería regresar... Me preocupa Terra)."
     },
     "TCYm": {
         "en-US": "[{0}]\nWhoa, I almost forgot the ring.",
@@ -867,7 +867,7 @@
     "TSYm": {
         "en-US": "Ogen... was petrified as he covered Terra.\nWhat was going on between them that they would see past their racial differences...?",
         "pt-BR": "Ogen... ficou petrificado enquanto cobria Terra.\nO que estava acontecendo entre eles para que pudessem ver além das diferenças raciais...?",
-        "es-ES": "Ogen… se petrificó protegiendo a Terra.\n¿Qué sucedía entre ellos para que pudieran ignorar las diferencias entre sus razas?"
+        "es-ES": "Ogen... se petrificó protegiendo a Terra.\n¿Qué sucedía entre ellos para que pudieran ignorar las diferencias entre sus razas?"
     },
     "TiYm": {
         "en-US": "There's a statue-like thing made out of rock.",
@@ -927,7 +927,7 @@
     "WSYm": {
         "en-US": "[{0}]\n(Hmm? a Fairy? Wounded?\nAre they talking about Terra..?!)",
         "pt-BR": "[{0}]\n(Hmm? Uma fada? Ferida?\nEstão falando da Terra...?!)",
-        "es-ES": "[{0}]\n(¿Mmm? ¿Un hada? ¿Herida?\n¡¿Están hablando de Terra…?!)."
+        "es-ES": "[{0}]\n(¿Mmm? ¿Un hada? ¿Herida?\n¡¿Están hablando de Terra...?!)."
     },
     "WiYm": {
         "en-US": "Break into their conversation.",
@@ -967,7 +967,7 @@
     "YSYm": {
         "en-US": "[Villager Rivier]\nWell, how are we going to understand what she wants...\nSince we don't even understand Fairy Language.",
         "pt-BR": "[Aldeão Rivier]\nBem, como vamos entender o que ela quer...\nJá que não entendemos nem mesmo o idioma delas.",
-        "es-ES": "[Aldeano Rivier]\nBueno, ¿entonces cómo podemos entender lo que quiere…?\nPorque ni siquiera entendemos el idioma de las hadas."
+        "es-ES": "[Aldeano Rivier]\nBueno, ¿entonces cómo podemos entender lo que quiere...?\nPorque ni siquiera entendemos el idioma de las hadas."
     },
     "YiYm": {
         "en-US": "[Villager Rivier]\nAnyhow, that Fairy is kept in a prison cell.\nOh right, Lawine.\nWe have to go to the Refinery.\nDon't forget.",
@@ -1007,7 +1007,7 @@
     "aSYm": {
         "en-US": "[Villager]\n...Outsider?\nDo you have a permission to come into our village?\n...That's right..Do you even understand me?",
         "pt-BR": "[Aldeão]\n... Você não é daqui.\nVocê por acaso tem permissão para entrar em nossa aldeia?\n... Isso mesmo... Você está me entendendo?",
-        "es-ES": "[Aldeano]\n¿De dónde eres?\n¿Tienes autorización para entrar a nuestra aldea?\n… Oh, cierto, ¿siquiera me entiendes?"
+        "es-ES": "[Aldeano]\n¿De dónde eres?\n¿Tienes autorización para entrar a nuestra aldea?\n... Oh, cierto, ¿siquiera me entiendes?"
     },
     "aiYm": {
         "en-US": "[Villager]\nUrh?\nEhdkk Odhehl Pekaha?\nSelj pdd eid Huwe mldkeo an",
@@ -1017,7 +1017,7 @@
     "ayYm": {
         "en-US": "[Villager Lawine]\n...Why did that Fairy come out this far?\nIs she captured?",
         "pt-BR": "[Aldeão Lawine]\n... Por que aquela fada chegou tão longe?\nEla foi capturada?",
-        "es-ES": "[Aldeano Lawine]\n¿… Por qué esa hada llegó tan lejos?\n¿La capturaron?"
+        "es-ES": "[Aldeano Lawine]\n¿... Por qué esa hada llegó tan lejos?\n¿La capturaron?"
     },
     "bCYm": {
         "en-US": "[Villager Rivier]\nNo, She's not.\nShe came here herself.\nHow impudent. She was badly wounded.",
@@ -1027,7 +1027,7 @@
     "bSYm": {
         "en-US": "[{0}]\n(Hmm? A Fairy? Wounded?\nCan't it be..Terra!)",
         "pt-BR": "[{0}]\n(Hmm? Uma fada? Ferida?\nNão pode ser... Terra!)",
-        "es-ES": "[{0}]\n(¿Mmm? ¿Un hada? ¿Herida?\nNo puede ser… ¡Terra!)."
+        "es-ES": "[{0}]\n(¿Mmm? ¿Un hada? ¿Herida?\nNo puede ser... ¡Terra!)."
     },
     "biYm": {
         "en-US": "[Villager Lawine]\nOutsider?!\nWhat is he doing here?",
@@ -1037,7 +1037,7 @@
     "byYm": {
         "en-US": "[Villager Rivier]\nWell, how are we going to understand what she wants...\nSince we don't understand Fairy language.",
         "pt-BR": "[Aldeão Rivier]\nBem, como vamos entender o que ela quer...?\nJá que não entendemos o idioma das fadas...",
-        "es-ES": "[Aldeano Rivier]\nBueno, ¿entonces cómo podemos entender lo que quiere…?\nYa que no entendemos el idioma de las hadas."
+        "es-ES": "[Aldeano Rivier]\nBueno, ¿entonces cómo podemos entender lo que quiere...?\nYa que no entendemos el idioma de las hadas."
     },
     "cCYm": {
         "en-US": "[Villager Rivier]\nAnyhow, that Fairy is kept in a prison cell.\nOh, right, Lawine.\nWe have to go to the Refinery.\nDon't you forget.",
@@ -1057,12 +1057,12 @@
     "cyYm": {
         "en-US": "[Villager]\n...Outsider, huh.\nSince when did we allow outsiders to come and visit?.",
         "pt-BR": "[Aldeão]\n... Veio de fora, hm.\nDesde quando permitimos que pessoas de fora venham nos visitar?",
-        "es-ES": "[Aldeano]\n… Así que no eres de aquí, ¿eh?\n¿Desde cuándo permitimos visitas de extraños?"
+        "es-ES": "[Aldeano]\n... Así que no eres de aquí, ¿eh?\n¿Desde cuándo permitimos visitas de extraños?"
     },
     "dCYm": {
         "en-US": "[Villager]\n...I guess it doesn't matter...\nAh, Do we even understand each other?",
         "pt-BR": "[Aldeão]\n... acho que não importa...\nAh, acho que a gente nem se entende.",
-        "es-ES": "[Aldeano]\n… Supongo que no importa…\nAh, ¿siquiera nos entendemos?"
+        "es-ES": "[Aldeano]\n... Supongo que no importa...\nAh, ¿siquiera nos entendemos?"
     },
     "dSYm": {
         "en-US": "- You have too many items to proceed with the quest.-",
@@ -1077,7 +1077,7 @@
     "dyYm": {
         "en-US": "[Snorren]\n.. Argh.. Why not?!\nWhat a blockhead..\nHmm?\nWho are you?!\nHow could an outsider be here...?",
         "pt-BR": "[Snorren]\n... Argh... Por que não?!\nQue cabeça de vento...\nHmm?\nQuem é você?!\nComo pode alguém de fora estar aqui...?",
-        "es-ES": "[Snorren]\n.. Uf… ¡¿Por qué no?!\nQué bruto…\n¿Mmm?\n¡¿Quién eres?!\n¿Cómo puede haber un extraño aquí…?"
+        "es-ES": "[Snorren]\n.. Uf... ¡¿Por qué no?!\nQué bruto...\n¿Mmm?\n¡¿Quién eres?!\n¿Cómo puede haber un extraño aquí...?"
     },
     "eCYm": {
         "en-US": "About the Captured Fairy",
@@ -1092,12 +1092,12 @@
     "eiYm": {
         "en-US": "[Snorren]\nHow does an outsider like you know that?\nAnd..? What? How can you understand what I'm saying?",
         "pt-BR": "[Snorren]\nComo uma pessoa de fora como você sabe disso?\nE...? O quê? Como pode entender o que estou dizendo?",
-        "es-ES": "[Snorren]\n¿Cómo un extraño como tú sabe algo como eso?\n¿Y…? ¿Qué? ¿Cómo es que entiendes lo que digo?"
+        "es-ES": "[Snorren]\n¿Cómo un extraño como tú sabe algo como eso?\n¿Y...? ¿Qué? ¿Cómo es que entiendes lo que digo?"
     },
     "eyYm": {
         "en-US": "[Snorren]\nHelloo..,?\nCan you understand the words coming out of my mouth?",
         "pt-BR": "[Snorren]\nOlá...?\nVocê consegue entender as palavras que saem da minha boca?",
-        "es-ES": "[Snorren]\n¿Hola…?\n¿Entiendes las palabras que salen de mi boca?"
+        "es-ES": "[Snorren]\n¿Hola...?\n¿Entiendes las palabras que salen de mi boca?"
     },
     "fCYm": {
         "en-US": "- I show the ring to Snorren. -",
@@ -1107,7 +1107,7 @@
     "fSYm": {
         "en-US": "[Snorren]\nAha! Now I understand.\nThat's amazing. a ring capable of interpreting between different languages... and you were able to come all the way here.",
         "pt-BR": "[Snorren]\nAha! Agora eu entendo.\nIsso é incrível. Um anel capaz de interpretar diferentes idiomas... e você conseguiu vir até aqui.",
-        "es-ES": "[Snorren]\n¡Ajá! Ahora lo entiendo.\n¡Qué asombroso! Un anillo capaz de interpretar los diferentes idiomas… Y lograste llegar hasta aquí."
+        "es-ES": "[Snorren]\n¡Ajá! Ahora lo entiendo.\n¡Qué asombroso! Un anillo capaz de interpretar los diferentes idiomas... Y lograste llegar hasta aquí."
     },
     "fiYm": {
         "en-US": "[Snorren]\nI heard there are outsiders helping our people\nYou must be one of them!",
@@ -1132,12 +1132,12 @@
     "giYm": {
         "en-US": "[Snorren]\nAn interpreter? Certainly!\nBut I can't just do it arbitrarily....\nThe reason why I want to have a word with that fairy, I mean Laphine...",
         "pt-BR": "[Snorren]\nUm intérprete? Com certeza!\nMas não posso fazer isso arbitrariamente...\nA razão pela qual quero conversar com aquela fada, quero dizer, Laphine...",
-        "es-ES": "[Snorren]\n¿Un intérprete? ¡Claro!\nPero no puedo hacerlo de forma arbitraria…\nEl motivo por el que quiero hablar con esa hada, digo, con esa laphine…"
+        "es-ES": "[Snorren]\n¿Un intérprete? ¡Claro!\nPero no puedo hacerlo de forma arbitraria...\nEl motivo por el que quiero hablar con esa hada, digo, con esa laphine..."
     },
     "gyYm": {
         "en-US": "[Snorren]\nI... want to find out if she's got anything to do with my friend...",
         "pt-BR": "[Snorren]\nEu... quero descobrir se ela tem alguma coisa a ver com meu amigo...",
-        "es-ES": "[Snorren]\nEs porque… Quiero saber si sabe algo de mi amigo…"
+        "es-ES": "[Snorren]\nEs porque... Quiero saber si sabe algo de mi amigo..."
     },
     "hCYm": {
         "en-US": "Your friend?",
@@ -1172,17 +1172,17 @@
     "iiYm": {
         "en-US": "[{0}]\nYou should calm down a bit... Tell me about that captured Laphine.",
         "pt-BR": "[{0}]\nVocê deveria se acalmar um pouco... Fale-me sobre a Laphine capturada.",
-        "es-ES": "[{0}]\nDeberías calmarte un poco… Háblame del laphine que capturaron."
+        "es-ES": "[{0}]\nDeberías calmarte un poco... Háblame del laphine que capturaron."
     },
     "iyYm": {
         "en-US": "[Snorren]\nRight, I'm sorry.\nAnyways, shortly after Ogen went missing the fairy appears... this is too suspicious....\nand that fairy was severely wounded too.",
         "pt-BR": "[Snorren]\nCerto, me desculpe.\nDe qualquer forma, logo após o desaparecimento de Ogen, a fada apareceu... isso é muito suspeito....\nE essa fada também foi gravemente ferida.",
-        "es-ES": "[Snorren]\nCierto, lo siento.\nEn fin, poco después de que Ogen desapareciera, apareció el hada… Es demasiado sospechoso…\nY además el hada estaba muy malherida."
+        "es-ES": "[Snorren]\nCierto, lo siento.\nEn fin, poco después de que Ogen desapareciera, apareció el hada... Es demasiado sospechoso...\nY además el hada estaba muy malherida."
     },
     "jCYm": {
         "en-US": "[Snorren]\nI think...",
         "pt-BR": "[Snorren]\nAcho que...",
-        "es-ES": "[Snorren]\nCreo…"
+        "es-ES": "[Snorren]\nCreo..."
     },
     "jSYm": {
         "en-US": "[Snorren]\nThat fairy attacked Ogen as he was trying to peek on your camp.\nAnd she was drawn by Ogen's bradium and came all the way here to find more bradium!",
@@ -1192,42 +1192,42 @@
     "jiYm": {
         "en-US": "That could be right...",
         "pt-BR": "Isso pode estar certo...",
-        "es-ES": "Podría ser…"
+        "es-ES": "Podría ser..."
     },
     "jyYm": {
         "en-US": "I don't see it that way...",
         "pt-BR": "Não vejo as coisas dessa forma...",
-        "es-ES": "No creo que haya sucedido eso…"
+        "es-ES": "No creo que haya sucedido eso..."
     },
     "kCYm": {
         "en-US": "[{0}]\nBut does that Ore called bradium really possess an overwhelming magical power?\nIt didn't seem like that...",
         "pt-BR": "[{0}]\nMas será que aquele minério chamado bradium realmente possui um poder mágico desses?\nNão parecia ser isso...",
-        "es-ES": "[{0}]\n¿El Bradium de verdad posee un poder mágico tan poderoso?\nNo parecía…"
+        "es-ES": "[{0}]\n¿El Bradium de verdad posee un poder mágico tan poderoso?\nNo parecía..."
     },
     "kSYm": {
         "en-US": "[Snorren]\nReally? But, we Sapha can't live without bradium.\nThis war with the Laphine... is to protect the bradium from them...",
         "pt-BR": "[Snorren]\nSério? Mas nós, Sapha, não podemos viver sem o bradium.\nEssa guerra com as Laphine... é para proteger o bradium das mãos deles...",
-        "es-ES": "[Snorren]\n¿De verdad? Pero los saphas no podemos vivir sin Bradium.\nEsta guerra contra los laphines… Es para proteger el Bradium de ellos…"
+        "es-ES": "[Snorren]\n¿De verdad? Pero los saphas no podemos vivir sin Bradium.\nEsta guerra contra los laphines... Es para proteger el Bradium de ellos..."
     },
     "kiYm": {
         "en-US": "[{0}]\nI see...\nYour people and their people are fighting over the bradium...",
         "pt-BR": "[{0}]\nEntendo...\nSeu povo e o povo deles estão brigando pelo bradium...",
-        "es-ES": "[{0}]\nYa veo…\nTu pueblo y el de ellos se pelean por el Bradium…"
+        "es-ES": "[{0}]\nYa veo...\nTu pueblo y el de ellos se pelean por el Bradium..."
     },
     "kyYm": {
         "en-US": "[Snorren]\nIs... Is that so?\nThen how do you see this situation?",
         "pt-BR": "[Snorren]\nÉ... É isso mesmo?\nEntão como você vê essa situação?",
-        "es-ES": "[Snorren]\nEh… ¿Eso crees?\n¿Entonces qué piensas que pasó?"
+        "es-ES": "[Snorren]\nEh... ¿Eso crees?\n¿Entonces qué piensas que pasó?"
     },
     "lCYm": {
         "en-US": "[{0}]\nWell... It just occurred to me...\nIt's like some kind of forbidden area...",
         "pt-BR": "[{0}]\nBem... Isso acabou de me ocorrer...\nÉ como se fosse um tipo de área proibida...",
-        "es-ES": "[{0}]\nBueno… Se me acaba de ocurrir que…\nEs como una especie de zona prohibida…"
+        "es-ES": "[{0}]\nBueno... Se me acaba de ocurrir que...\nEs como una especie de zona prohibida..."
     },
     "lSYm": {
         "en-US": "[{0}]\nAnyhow, You are going to ask that fairy about Ogen, right?\nIf that's the case, I could interpret between you two...",
         "pt-BR": "[{0}]\nDe qualquer jeito, você vai perguntar àquela fada sobre Ogen, certo?\nSe for esse o caso, eu poderia interpretar entre vocês dois...",
-        "es-ES": "[{0}]\nEn cualquier caso, le vas a preguntar al hada sobre Ogen, ¿cierto?\nSi así fuera, podría hacer de intérprete entre ustedes…"
+        "es-ES": "[{0}]\nEn cualquier caso, le vas a preguntar al hada sobre Ogen, ¿cierto?\nSi así fuera, podría hacer de intérprete entre ustedes..."
     },
     "liYm": {
         "en-US": "[Snorren]\nYeah?!\nThen just wait here for a sec!\nI will go and ask Luik about this!",
@@ -1237,7 +1237,7 @@
     "lyYm": {
         "en-US": "[Snorren]\nUh, Ah~!\nThis is a prison.\nYou need to obey the rules to keep a peaceful group life.",
         "pt-BR": "[Snorren]\nAh, ah!\nAqui é uma prisão.\nVocê precisa obedecer às regras para manter uma vida pacífica em grupo.",
-        "es-ES": "[Snorren]\n¡Uh, ah…!\nEsto es una prisión.\nDebes obedecer las normas para mantener una vida grupal pacífica."
+        "es-ES": "[Snorren]\n¡Uh, ah...!\nEsto es una prisión.\nDebes obedecer las normas para mantener una vida grupal pacífica."
     },
     "mCYm": {
         "en-US": "[Snorren]\nThis is where people who break the rules are kept overnight.",
@@ -1252,7 +1252,7 @@
     "miYm": {
         "en-US": "[Snorren]\nUmm.. Hold on a sec.\nLuik. It's me. Snorren",
         "pt-BR": "[Snorren]\nUmm... Espere um segundo.\nLuik. Sou eu. Snorren.",
-        "es-ES": "[Snorren]\nEh… Espera un segundo.\nLuik. Soy yo. Snorren."
+        "es-ES": "[Snorren]\nEh... Espera un segundo.\nLuik. Soy yo. Snorren."
     },
     "myYm": {
         "en-US": "[Voice through the door]\nAh, I told you it's not possible Snorren!\nI can only put you in a cell for one night!",
@@ -1267,7 +1267,7 @@
     "nSYm": {
         "en-US": "[Luik's Voice]\nShut up! Anyway, we have more things to worry about. This Laphine, we need to treat her wounds...",
         "pt-BR": "[Voz de Luik]\nCale a boca! De qualquer forma, temos mais coisas com que nos preocupar. Essa Laphine, precisamos tratar de seus ferimentos...",
-        "es-ES": "[Voz de Luik]\n¡Cállate! Sabes, tenemos otra cosa de la que preocuparnos. Necesitamos curar las heridas de esta laphine…"
+        "es-ES": "[Voz de Luik]\n¡Cállate! Sabes, tenemos otra cosa de la que preocuparnos. Necesitamos curar las heridas de esta laphine..."
     },
     "niYm": {
         "en-US": "[Luik's Voice]\nHer body is completely different from ours. What should we do?\nHey, Snorren! Bring me anything. Anything like herbs!",
@@ -1282,7 +1282,7 @@
     "oCYm": {
         "en-US": "Nothing gets past you...",
         "pt-BR": "Nada passa por você...",
-        "es-ES": "No se te escapa nada…"
+        "es-ES": "No se te escapa nada..."
     },
     "oSYm": {
         "en-US": "[Snorren]\nDo you have anything on your mind?",
@@ -1302,7 +1302,7 @@
     "pCYm": {
         "en-US": "[{0}]\n(I think I have no choice but to go back and ask Arc....)",
         "pt-BR": "[{0}]\n(Acho que não tenho escolha a não ser voltar e perguntar ao Arc....)",
-        "es-ES": "[{0}]\n(Creo que no tengo más remedio que volver y preguntarle a Arc…)."
+        "es-ES": "[{0}]\n(Creo que no tengo más remedio que volver y preguntarle a Arc...)."
     },
     "pSYm": {
         "en-US": "[Snorren]\nHurry up and go find a way to cure this Laphine.\nThen Luik might let us in.",
@@ -1312,7 +1312,7 @@
     "piYm": {
         "en-US": "[Snorren]\nDid you find a cure?\nThis.. is one strange looking fruit.\nI saw this fruit time to time, but never thought this would be a cure..?",
         "pt-BR": "[Snorren]\nVocê encontrou uma cura?\nEssa... é uma fruta de aparência estranha.\nEu via essa fruta de vez em quando, mas nunca pensei que fosse uma cura...?",
-        "es-ES": "[Snorren]\n¿Encontraste una cura?\nQué… Qué fruto de aspecto tan extraño.\nHe visto este fruto un par de veces, pero jamás pensé que podría curar a alguien…"
+        "es-ES": "[Snorren]\n¿Encontraste una cura?\nQué... Qué fruto de aspecto tan extraño.\nHe visto este fruto un par de veces, pero jamás pensé que podría curar a alguien..."
     },
     "pyYm": {
         "en-US": "[Snorren]\nI will take everything you've brought with you!",
@@ -1327,7 +1327,7 @@
     "qSYm": {
         "en-US": "[{0}]\nHmm...this won't be enough..\nI would need at least 6~7 of these...",
         "pt-BR": "[{0}]\nHmm... isso não será suficiente...\nEu precisaria de pelo menos 6~7 desses...",
-        "es-ES": "[{0}]\nMmm… No será suficiente…\nNecesitaré al menos 6 o 7 de estos…"
+        "es-ES": "[{0}]\nMmm... No será suficiente...\nNecesitaré al menos 6 o 7 de estos..."
     },
     "qiYm": {
         "en-US": "[Snorren]\nIs something wrong?",
@@ -1337,7 +1337,7 @@
     "qyYm": {
         "en-US": "[{0}]\nHuh? Ah, I think we would need more than what I've brought here... I'll be back.",
         "pt-BR": "[{0}]\nHã? Ah, acho que precisaríamos de mais do que o que eu trouxe aqui... Já volto.",
-        "es-ES": "[{0}]\n¿Eh? Ah, creo que necesitaremos más de los que traje… Ya regreso."
+        "es-ES": "[{0}]\n¿Eh? Ah, creo que necesitaremos más de los que traje... Ya regreso."
     },
     "rCYm": {
         "en-US": "[Snorren]\nI already told Luik everything about you.\nLet's go inside.",
@@ -1352,12 +1352,12 @@
     "riYm": {
         "en-US": "[Snorren]\nI'm really confused now...Should I believe your story or not.\nIf it is true that cave really exists and Ogen is hurt...",
         "pt-BR": "[Snorren]\nEstou realmente confuso agora... Não sei se devo acreditar em sua história ou não.\nSe for verdade que a caverna realmente existe e que Ogen está ferido...",
-        "es-ES": "[Snorren]\nAhora estoy muy confundido… ¿Debería creer tu historia?\nSi es verdad que la cueva existe y Ogen está herido…"
+        "es-ES": "[Snorren]\nAhora estoy muy confundido... ¿Debería creer tu historia?\nSi es verdad que la cueva existe y Ogen está herido..."
     },
     "ryYm": {
         "en-US": "[Snorren]\nThe approximate location is...\nHuge Roots of a tree. Got it.\nYou go ahead first. I will stop by at a refinery and be right after you.",
         "pt-BR": "[Snorren]\nA localização aproximada é...\nRaízes enormes de uma árvore. Entendi.\nVocê vai na frente primeiro. Eu vou passar numa refinaria e já vou atrás de você.",
-        "es-ES": "[Snorren]\nLa ubicación aproximada es…\nRaíces enormes de un árbol. Entendido.\nTú primero. Pasaré por la refinería y te alcanzaré enseguida."
+        "es-ES": "[Snorren]\nLa ubicación aproximada es...\nRaíces enormes de un árbol. Entendido.\nTú primero. Pasaré por la refinería y te alcanzaré enseguida."
     },
     "sCYm": {
         "en-US": "[Snorren]\nSince that place is Laphine's territory, I will go quitely so they won't notice me .\nYou just go on ahead, I will be right behind you.",
@@ -1367,27 +1367,27 @@
     "sSYm": {
         "en-US": "[Snorren]\nYou are back. .. Luik wanted me to tell you this.\nTerra, that Laphine, is free now.",
         "pt-BR": "[Snorren]\nVocê voltou. Luik queria que eu te dissesse isso.\nTerra, aquela Laphine, está livre agora.",
-        "es-ES": "[Snorren]\nVolviste… Luik quería que te lo dijera.\nTerra, esa laphine, ya está libre."
+        "es-ES": "[Snorren]\nVolviste... Luik quería que te lo dijera.\nTerra, esa laphine, ya está libre."
     },
     "siYm": {
         "en-US": "[Snorren]\nWe are tired of fighting. We didn't even want to start...\nAnd we saw her true intention before everything else.",
         "pt-BR": "[Snorren]\nEstamos cansados de lutar. Nem queríamos começar...\nE vimos a real intenção dela antes de tudo.",
-        "es-ES": "[Snorren]\nEstamos cansados de luchar. Ni siquiera queríamos comenzar…\nY pudimos ver sus verdaderas intenciones antes que todo."
+        "es-ES": "[Snorren]\nEstamos cansados de luchar. Ni siquiera queríamos comenzar...\nY pudimos ver sus verdaderas intenciones antes que todo."
     },
     "syYm": {
         "en-US": "[Snorren]\nGo and check if Terra went back to her home safely...\nOgen... He went back to Mother Nature.",
         "pt-BR": "[Snorren]\nVá checar se a Terra voltou para casa em segurança...\nOgen... Ele voltou para a Mãe Natureza.",
-        "es-ES": "[Snorren]\nVe y confirma que Terra haya llegado a casa sana y salva…\nOgen… Volvió con la Madre Naturaleza."
+        "es-ES": "[Snorren]\nVe y confirma que Terra haya llegado a casa sana y salva...\nOgen... Volvió con la Madre Naturaleza."
     },
     "tCYm": {
         "en-US": "[Snorren]\nI really don't think what Ogen did was the right thing to do.\nBut that was... Ogen...",
         "pt-BR": "[Snorren]\nEu realmente não acho que o que o Ogen fez foi a coisa certa a se fazer.\nMas isso foi... Ogen...",
-        "es-ES": "[Snorren]\nNo creo que lo que hizo Ogen haya sido lo correcto.\nPero fue… Ogen…"
+        "es-ES": "[Snorren]\nNo creo que lo que hizo Ogen haya sido lo correcto.\nPero fue... Ogen..."
     },
     "tSYm": {
         "en-US": "[Snorren]\nForgive me, I'm a bit depressed.\nI'd rather just rest here.\n...I really appreciate what you've done.",
         "pt-BR": "[Snorren]\nPerdoe-me, estou um pouco deprimido.\nQuero só descansar aqui.\n... Eu realmente aprecio o que você fez.",
-        "es-ES": "[Snorren]\nLo siento, me entristece un poco.\nPrefiero descansar aquí.\n…Aprecio mucho lo que hiciste."
+        "es-ES": "[Snorren]\nLo siento, me entristece un poco.\nPrefiero descansar aquí.\n...Aprecio mucho lo que hiciste."
     },
     "tiYm": {
         "en-US": "[Snorren]\nCome back anytime.\nOk?",
@@ -1397,7 +1397,7 @@
     "tyYm": {
         "en-US": "[Snorren]\nWhat do you think of this muffler?\nThis belonged to Ogen...\nDoes it look good on me?",
         "pt-BR": "[Snorren]\nO que você acha desse cachecol?\nEle pertencia a Ogen...\nFica bem em mim?",
-        "es-ES": "[Snorren]\n¿Qué te parece esta bufanda?\nEsto le pertenecía a Ogen…\n¿Me queda bien?"
+        "es-ES": "[Snorren]\n¿Qué te parece esta bufanda?\nEsto le pertenecía a Ogen...\n¿Me queda bien?"
     },
     "uCYm": {
         "en-US": "[Snorren]\nOutsiders shouldn't be here without permission.\nPlease get out of here.",
@@ -1412,7 +1412,7 @@
     "uiYm": {
         "en-US": "The doors are locked... I can't get in.",
         "pt-BR": "As portas estão trancadas... Não consigo entrar.",
-        "es-ES": "Las puertas están cerradas… No puedo entrar."
+        "es-ES": "Las puertas están cerradas... No puedo entrar."
     },
     "uyYm": {
         "en-US": "Captured Laphine",
@@ -1427,12 +1427,12 @@
     "vSYm": {
         "en-US": "Luik and Snorren did everything to extract juice out of a Yggdrasilberry\nchopped and stuffed it into a mouth and paste them on the body....",
         "pt-BR": "Luik e Snorren fizeram de tudo para extrair o suco de um Fruto de Yggdrasil.\nCortaram e enfiaram ela numa boca e uma pasta no corpo...",
-        "es-ES": "Luik y Snorren hicieron todo lo posible por extraer el jugo de un fruto de Yggdrasil.\nLo picaron y se lo metieron en la boca, y luego le pusieron un poco en el cuerpo…"
+        "es-ES": "Luik y Snorren hicieron todo lo posible por extraer el jugo de un fruto de Yggdrasil.\nLo picaron y se lo metieron en la boca, y luego le pusieron un poco en el cuerpo..."
     },
     "viYm": {
         "en-US": "[Wounded Laphine]\nHmm...",
         "pt-BR": "[Laphine Ferida]\nHmm...",
-        "es-ES": "[Laphine herida]\nMmm…"
+        "es-ES": "[Laphine herida]\nMmm..."
     },
     "vyYm": {
         "en-US": "[Luik]\nFinally she's coming to.\nOk {0} it's up to you now.\nAnd you better not fake any of the words she's saying.",
@@ -1452,12 +1452,12 @@
     "wiYm": {
         "en-US": "[Wounded Laphine]\n...Where... am I?\nOh My! That's right! I need a Bradium!\nGet me out of here!",
         "pt-BR": "[Laphine Ferida]\n... Onde... estou?\nAh, céus! É isso mesmo! Preciso de um Bradium!\nTirem-me daqui!",
-        "es-ES": "[Laphine herida]\n¿…Dónde… estoy?\n¡Ay! ¡Así es! ¡Necesito Bradium!\n¡Sáquenme de aquí!"
+        "es-ES": "[Laphine herida]\n¿...Dónde... estoy?\n¡Ay! ¡Así es! ¡Necesito Bradium!\n¡Sáquenme de aquí!"
     },
     "wyYm": {
         "en-US": "[Wounded Laphine]\nIf I don't go back to him quickly, he... he is going to die!!",
         "pt-BR": "[Laphine Ferida]\nSe eu não voltar para ele agora, ele... ele vai morrer!",
-        "es-ES": "[Laphine herida]\nSi no regreso a su lado pronto… ¡Morirá!"
+        "es-ES": "[Laphine herida]\nSi no regreso a su lado pronto... ¡Morirá!"
     },
     "xCYm": {
         "en-US": "Who is HE?",
@@ -1472,12 +1472,12 @@
     "xiYm": {
         "en-US": "[Wounded Laphine]\nA giant... a giant in a cave...\nHe...He's hurt trying to protect me\nHe wouldn't move!\nHis body was getting cold.",
         "pt-BR": "[Laphine Ferida]\nUm gigante... um gigante em uma caverna...\nEle... Ele se feriu tentando me proteger.\nEle não se mexia!\nSeu corpo estava ficando frio.",
-        "es-ES": "[Laphine herida]\nUn gigante… Un gigante en una cueva…\nÉl… Se lastimó tratando de protegerme.\n¡No se movía!\nSe le estaba enfriando el cuerpo."
+        "es-ES": "[Laphine herida]\nUn gigante... Un gigante en una cueva...\nÉl... Se lastimó tratando de protegerme.\n¡No se movía!\nSe le estaba enfriando el cuerpo."
     },
     "xyYm": {
         "en-US": "[Wounded Laphine]\nWe were each other's enemy....\nbut he saved me.\nI heard they need a bradium to live!",
         "pt-BR": "[Laphine Ferida]\nÉramos inimigos um do outro...\nMas ele me salvou.\nOuvi dizer que eles precisam de um bradium para viver!",
-        "es-ES": "[Laphine herida]\nSe supone que éramos enemigos…\n¡Pero me salvó!\n¡Escuché que necesitan Bradium para vivir!"
+        "es-ES": "[Laphine herida]\nSe supone que éramos enemigos...\n¡Pero me salvó!\n¡Escuché que necesitan Bradium para vivir!"
     },
     "yCYm": {
         "en-US": "[Wounded Laphine]\nGive me a bradium. Hurry!\nI can't be late!",
@@ -1492,27 +1492,27 @@
     "yiYm": {
         "en-US": "[Terra]\nHow...How do you know my name?\nWho are you?",
         "pt-BR": "[Terra]\nComo... Como você sabe meu nome?\nQuem é você?",
-        "es-ES": "[Terra]\n¿Cómo…? ¿Cómo sabes mi nombre?\n¿Quién eres?"
+        "es-ES": "[Terra]\n¿Cómo...? ¿Cómo sabes mi nombre?\n¿Quién eres?"
     },
     "yyYm": {
         "en-US": "[{0}]\nArc asked me to find you. So I came here\nBy the way.. You were saying about a giant, do you mean a Sapha?",
         "pt-BR": "[{0}]\nO Arc me pediu para encontrá-la.\nA propósito... Você estava falando de um gigante, quer dizer um Sapha?",
-        "es-ES": "[{0}]\nArc me pidió que te encontrara. Así que vine hasta aquí.\nPor cierto… Hablabas de un gigante, ¿te refieres a un sapha?"
+        "es-ES": "[{0}]\nArc me pidió que te encontrara. Así que vine hasta aquí.\nPor cierto... Hablabas de un gigante, ¿te refieres a un sapha?"
     },
     "zCYm": {
         "en-US": "[{0}]\nThe Sapha in the cave...\n...His body was already petrified when I got there.",
         "pt-BR": "[{0}]\nO Sapha na caverna...\n... Seu corpo já estava petrificado quando cheguei lá.",
-        "es-ES": "[{0}]\nEl sapha de la cueva…\n…Su cuerpo ya estaba petrificado cuando llegué."
+        "es-ES": "[{0}]\nEl sapha de la cueva...\n...Su cuerpo ya estaba petrificado cuando llegué."
     },
     "zSYm": {
         "en-US": "[Terra]\nGiants.. It is said that the Sapha people are cursed to be petrified.\nAnd that the Bradium is what prevents them from becoming petrified.",
         "pt-BR": "[Terra]\nGigantes... Dizem que o povo Sapha é amaldiçoado a ser petrificado.\nE que o Bradium é o que os impede de ficarem petrificados.",
-        "es-ES": "[Terra]\nGigantes… Se dice que los saphas tienen una maldición por la cual quedan petrificados.\nY que el Bradium es lo único que impide que se petrifiquen."
+        "es-ES": "[Terra]\nGigantes... Se dice que los saphas tienen una maldición por la cual quedan petrificados.\nY que el Bradium es lo único que impide que se petrifiquen."
     },
     "ziYm": {
         "en-US": "[Terra]\nSo I tried to bring a bradium to him... \nBut he... Sob...",
         "pt-BR": "[Terra]\nEntão, tentei levar um bradium para ele... \nMas ele... Aaahh...",
-        "es-ES": "[Terra]\nAsí que intenté llevarle Bradium… \nPero… *Solloza*"
+        "es-ES": "[Terra]\nAsí que intenté llevarle Bradium... \nPero... *Solloza*"
     },
     "zyYm": {
         "en-US": "- Terra couldn't continue to talk as she was agonizing in the pain from her wounds. -",
@@ -1532,17 +1532,17 @@
     "0iYm": {
         "en-US": "[Terra]\nTo find a... Bra.. dium.\nThat's right. Bradium! Give me a bradium!!",
         "pt-BR": "[Terra]\nPara encontrar um... Bra... dium.\nÉ isso mesmo. Bradium! Me dê um brádio!!",
-        "es-ES": "[Terra]\nPara encontrar… Bra… dium.\nAsí es. ¡Bradium! ¡Dame Bradium!"
+        "es-ES": "[Terra]\nPara encontrar... Bra... dium.\nAsí es. ¡Bradium! ¡Dame Bradium!"
     },
     "0yYm": {
         "en-US": "[Terra]\nA giant.. a giant in a cave...\nHe... He's hurt trying to protect me\nHe wouldn't move!\nHis body was getting cold.",
         "pt-BR": "[Terra]\nUm gigante... um gigante em uma caverna...\nEle... Ele se feriu tentando me proteger\nEle não se mexia!\nSeu corpo estava ficando frio.",
-        "es-ES": "[Terra]\nUn gigante… Hay un gigante en una cueva…\nÉl… Se lastimó tratando de protegerme.\n¡No se movía!\nSe le estaba enfriando el cuerpo."
+        "es-ES": "[Terra]\nUn gigante... Hay un gigante en una cueva...\nÉl... Se lastimó tratando de protegerme.\n¡No se movía!\nSe le estaba enfriando el cuerpo."
     },
     "1CYm": {
         "en-US": "[Terra]\nWe were each other's enemy....\nbut he saved me.\nI heard they need a bradium to live!",
         "pt-BR": "[Terra]\nÉramos o inimigo um do outro...\nMas ele me salvou.\nOuvi dizer que eles precisam de um Bradium para viver!",
-        "es-ES": "[Terra]\nSe supone que éramos enemigos…\n¡Pero me salvó!\n¡Escuché que necesitan Bradium para vivir!"
+        "es-ES": "[Terra]\nSe supone que éramos enemigos...\n¡Pero me salvó!\n¡Escuché que necesitan Bradium para vivir!"
     },
     "1SYm": {
         "en-US": "[Terra]\nGive me a bradium. Hurry!\nI can't be late!",
@@ -1552,12 +1552,12 @@
     "1iYm": {
         "en-US": "[{0}]\nThat Sapha in the cave...\n...His body was already petrified when I got there.",
         "pt-BR": "[{0}]\nAquele Sapha na caverna...\n... O corpo dele já estava petrificado quando cheguei lá.",
-        "es-ES": "[{0}]\nEse sapha de la cueva…\n…Su cuerpo ya estaba petrificado cuando llegué."
+        "es-ES": "[{0}]\nEse sapha de la cueva...\n...Su cuerpo ya estaba petrificado cuando llegué."
     },
     "1yYm": {
         "en-US": "[Terra]\nGiants.. It is said that the Sapha people are cursed to be petrified.\nAnd the Bradium is what prevents them from becoming petrified.",
         "pt-BR": "[Terra]\nGigantes... Dizem que o povo Sapha é amaldiçoado a ser petrificado.\nE o Bradium é o que os impede de ficarem petrificados.",
-        "es-ES": "[Terra]\nGigantes… Se dice que los saphas tienen una maldición por la cual quedan petrificados.\nY el Bradium es lo que impide que se petrifiquen."
+        "es-ES": "[Terra]\nGigantes... Se dice que los saphas tienen una maldición por la cual quedan petrificados.\nY el Bradium es lo que impide que se petrifiquen."
     },
     "2CYm": {
         "en-US": "[Luik]\nLet that Fairy rest for a while, now tell me what you were talking about.",
@@ -1587,7 +1587,7 @@
     "3SYm": {
         "en-US": "[Wounded Laphine]\n...Riveh...AshIman Or mah...\n..ah..Thor..ThorOsa Yee Lu..ung...",
         "pt-BR": "[Laphine Ferida]\n...Riveh...AshIman Or mah...\n...ah...Thor...ThorOsa Yee Lu...ung...",
-        "es-ES": "[Laphine herida]\n…Riveh… AshIman Or mah…\n…ah…Thor…ThorOsa Yee Lu… ung…"
+        "es-ES": "[Laphine herida]\n...Riveh... AshIman Or mah...\n...ah...Thor...ThorOsa Yee Lu... ung..."
     },
     "3iYm": {
         "en-US": "[Snorren]\nHere, Luik. He said this is a cure for Laphine.\nShould we just let her eat it as it is?",
@@ -1597,7 +1597,7 @@
     "3yYm": {
         "en-US": "[Snorren]\nUh.. and your name was..?",
         "pt-BR": "[Snorren]\nHã... seu nome era...?",
-        "es-ES": "[Snorren]\nEh… ¿Y tu nombre era…?"
+        "es-ES": "[Snorren]\nEh... ¿Y tu nombre era...?"
     },
     "4CYm": {
         "en-US": "[Snorren]\nYeah, Right.\n{0}, you should try talking to that Laphine.\nLet's hear her story.",
@@ -1617,7 +1617,7 @@
     "4yYm": {
         "en-US": "[Snorren]\nLet's listen to her story.\nWhy don't we start from... Why does she want a bradium?",
         "pt-BR": "[Snorren]\nVamos ouvir a história dela.\nPor que não começamos de... Por que ela quer um bradium?",
-        "es-ES": "[Snorren]\nEscuchemos su historia.\n¿Por qué no empezamos con…? ¿Para qué quiere Bradium?"
+        "es-ES": "[Snorren]\nEscuchemos su historia.\n¿Por qué no empezamos con...? ¿Para qué quiere Bradium?"
     },
     "5CYm": {
         "en-US": "[Snorren]\nThis part must be told to Luik in exact detail.",
@@ -1627,12 +1627,12 @@
     "5SYm": {
         "en-US": "[Snorren]\nWhat should I do if the Sapha in the Cave is really Ogen...?\nOgen... What should I do if anything happened to him...?",
         "pt-BR": "[Snorren]\nO que devo fazer se o Sapha na caverna for realmente Ogen...?\nOgen... O que devo fazer se algo acontecer com ele...?",
-        "es-ES": "[Snorren]\n¿Qué hago si el sapha de la cueva es realmente Ogen…?\nOgen… ¿Qué hago si le pasa algo…?"
+        "es-ES": "[Snorren]\n¿Qué hago si el sapha de la cueva es realmente Ogen...?\nOgen... ¿Qué hago si le pasa algo...?"
     },
     "5iYm": {
         "en-US": "[Luik]\n...This Bradium has not been refined properly.\nThis would be no help.\nand, this muffler...",
         "pt-BR": "[Luik]\n... Esse Bradium não foi refinado adequadamente.\nNão ajudaria em nada.\nE esse cachecol...",
-        "es-ES": "[Luik]\n…Este Bradium no se refinó correctamente.\nNo serviría de nada.\nY esta bufanda…"
+        "es-ES": "[Luik]\n...Este Bradium no se refinó correctamente.\nNo serviría de nada.\nY esta bufanda..."
     },
     "5yYm": {
         "en-US": "[Snorren]\nThis is Ogen! Ogen's muffler!\nLuik! Ogen! This is Ogen!\nUnrefined Bradium!",
@@ -1642,7 +1642,7 @@
     "6CYm": {
         "en-US": "[Snorren]\nLu.. Luik. Ogen.. Ogen...?!\nI'm going to Ogen!\nWhere is that cave?! Where!",
         "pt-BR": "[Snorren]\nLu... Luik. Ogen... Ogen...?!\nVou até o Ogen!\nOnde fica essa caverna?! Onde?",
-        "es-ES": "[Snorren]\nLu… Luik. Ogen… ¡¿Ogen…?!\n¡Iré a buscar a Ogen!\n¡¿Dónde está la cueva?! ¡¿Dónde?!"
+        "es-ES": "[Snorren]\nLu... Luik. Ogen... ¡¿Ogen...?!\n¡Iré a buscar a Ogen!\n¡¿Dónde está la cueva?! ¡¿Dónde?!"
     },
     "6SYm": {
         "en-US": "Calm down!",
@@ -1652,7 +1652,7 @@
     "6iYm": {
         "en-US": "[Luik]\nYeah. Listen to him, calm down. Snorren.\nIf it is Ogen... We could be able to save him if we make haste.",
         "pt-BR": "[Sim.]\nSim. Ouça-o, acalme-se. Snorren.\nSe for o Ogen... Poderemos salvá-lo se nos apressarmos.",
-        "es-ES": "[Luik]\nSí. Escúchalo; cálmate. Snorren.\nSi es Ogen… Podríamos salvarlo si nos apresuramos."
+        "es-ES": "[Luik]\nSí. Escúchalo; cálmate. Snorren.\nSi es Ogen... Podríamos salvarlo si nos apresuramos."
     },
     "6yYm": {
         "en-US": "[Luik]\nSnorren. Go to Refinery and get the finest bradium.\nSave him.",
@@ -1662,7 +1662,7 @@
     "7CYm": {
         "en-US": "[Luik]\n{0}...eh?\nPlease look after Snorren...and Ogen.\nThis Laphine, I mean Terra...\nShe truly wanted to save Ogen...",
         "pt-BR": "[Luik]\n{0} ...é?\nPor favor, cuide do Snorren... e do Ogen.\nEssa Laphine, quero dizer, Terra...\nEla realmente queria salvar o Ogen...",
-        "es-ES": "[Luik]\n{0}, ¿eh…?\nPor favor, cuida de Snorren… Y de Ogen.\nEsta laphine, quiero decir, Terra…\nDe verdad quería salvar a Ogen…"
+        "es-ES": "[Luik]\n{0}, ¿eh...?\nPor favor, cuida de Snorren... Y de Ogen.\nEsta laphine, quiero decir, Terra...\nDe verdad quería salvar a Ogen..."
     },
     "7SYm": {
         "en-US": "[Luik]\nI will talk to my superiors to try and settle this matter.\nPlease save Ogen.",
@@ -1672,12 +1672,12 @@
     "7iYm": {
         "en-US": "[Luik]\nDidn't I tell you to bring back something that can prove your story?\n...We've been fighting for too long to believe someone without any reasons.",
         "pt-BR": "[Luik]\nEu não te disse para trazer algo que possa provar sua história?\n... Estamos lutando há muito tempo para acreditar em alguém sem nenhuma razão.",
-        "es-ES": "[Luik]\n¿No te dije que trajeras algo para confirmar tu historia?\n…Hace demasiado tiempo que venimos luchando como para creer en alguien sin motivos."
+        "es-ES": "[Luik]\n¿No te dije que trajeras algo para confirmar tu historia?\n...Hace demasiado tiempo que venimos luchando como para creer en alguien sin motivos."
     },
     "7yYm": {
         "en-US": "[Snorren]\n...He's right... Just anything would be good..Prove yourself to us.",
         "pt-BR": "[Snorren]\n... Ele tem razão... Qualquer coisa seria boa... Prove que você fala a verdade.",
-        "es-ES": "[Snorren]\n…Tiene razón… Cualquier cosa estaría bien. Demuestra que dices la verdad."
+        "es-ES": "[Snorren]\n...Tiene razón... Cualquier cosa estaría bien. Demuestra que dices la verdad."
     },
     "8CYm": {
         "en-US": "[Snorren]\nHurry up and take the lead!\nWhich way should we go now?",
@@ -1697,7 +1697,7 @@
     "8yYm": {
         "en-US": "[Luik]\n...I really look forward to drawing something useful out of her.\nYour interpretion is trustworthy, right?",
         "pt-BR": "[Luik]\n... Estou bem ansioso para extrair algo útil dela.\nSua interpretação é confiável, certo?",
-        "es-ES": "[Luik]\n…Tengo muchas ganas de sacarle alguna información útil.\nTu interpretación es fiable, ¿no?"
+        "es-ES": "[Luik]\n...Tengo muchas ganas de sacarle alguna información útil.\nTu interpretación es fiable, ¿no?"
     },
     "9CYm": {
         "en-US": "[Luik]\nFirst of all, Why did that Laphine come here?\nWhy does she need a bradium?",
@@ -1707,12 +1707,12 @@
     "9SYm": {
         "en-US": "To give it to a Sapha in a cave...",
         "pt-BR": "Para dar a um Sapha em uma caverna...",
-        "es-ES": "Para dárselo a un sapha en una cueva…"
+        "es-ES": "Para dárselo a un sapha en una cueva..."
     },
     "9iYm": {
         "en-US": "[Luik]\nSapha in a cave? What cave?\nNear mind.... Snorren. You must know something about that cave, right?",
         "pt-BR": "[Luik]\nUm Sapha em uma caverna? Que caverna?\nDeixa pra lá... Snorren. Você deve saber algo sobre essa caverna, certo?",
-        "es-ES": "[Luik]\n¿Un sapha en una cueva? ¿Qué cueva?\nOlvídalo… Snorren. Debes saber algo sobre esa cueva, ¿no?"
+        "es-ES": "[Luik]\n¿Un sapha en una cueva? ¿Qué cueva?\nOlvídalo... Snorren. Debes saber algo sobre esa cueva, ¿no?"
     },
     "9yYm": {
         "en-US": "[Luik]\nNo, Wait.\nWhy would a Laphine give a bradium to our friend?",
@@ -1722,7 +1722,7 @@
     "+CYm": {
         "en-US": "[{0}]\nThey fought in the cave and your friend got hurt and began to petrify.\nSo she came here to get a bradium to try to save his life...",
         "pt-BR": "[{0}]\nEles lutaram na caverna e seu amigo foi ferido e começou a se petrificar.\nEntão ela veio até aqui para pegar um bradium e tentar salvar a vida dele...",
-        "es-ES": "[{0}]\nLucharon en la cueva y tu amigo resultó herido y empezó a petrificarse.\nAsí que vino a buscar Bradium para intentar salvarle la vida…"
+        "es-ES": "[{0}]\nLucharon en la cueva y tu amigo resultó herido y empezó a petrificarse.\nAsí que vino a buscar Bradium para intentar salvarle la vida..."
     },
     "+SYm": {
         "en-US": "[Luik]\nThey fought?\nSnorren! What's that look on your face?\nSpit if out if you have anything to say.",
@@ -1732,7 +1732,7 @@
     "+iYm": {
         "en-US": "[Snorren]\nFrankly, Luik. I... told you... Ogen's missing.\nOgen's missing and that Laphine's arrival coincider...",
         "pt-BR": "[Snorren]\nFrancamente, Luik. Eu... te disse... Ogen está desaparecido.\nOgen está desaparecido e a chegada de Laphine coincidiu com...",
-        "es-ES": "[Snorren]\nFrancamente, Luik. Te… Te lo dije… La desaparición de Ogen.\nLa desaparición de Ogen y la llegada de la laphine coinciden…"
+        "es-ES": "[Snorren]\nFrancamente, Luik. Te... Te lo dije... La desaparición de Ogen.\nLa desaparición de Ogen y la llegada de la laphine coinciden..."
     },
     "+yYm": {
         "en-US": "[Luik]\nAnd?",
@@ -1772,22 +1772,22 @@
     "Aicm": {
         "en-US": "[{0}]\nThat cave really exists, I swear!\nI.. yeah. I saw a petrified Sapha in that cave.",
         "pt-BR": "[{0}]\nEssa caverna realmente existe, eu juro!\nEu... sim. Eu vi um Sapha petrificado naquela caverna.",
-        "es-ES": "[{0}]\nLa cueva sí existe, ¡lo juro!\nYo… Sí. Vi a un sapha petrificado en esa cueva."
+        "es-ES": "[{0}]\nLa cueva sí existe, ¡lo juro!\nYo... Sí. Vi a un sapha petrificado en esa cueva."
     },
     "Aycm": {
         "en-US": "[{0}]\nI will bring back something that will make you believe.\nI'm not sure if that Sapha is this Ogen you are looking for.\nBut I'll come back...",
         "pt-BR": "[{0}]\nVou trazer algo que vai te fazer acreditar.\nNão tenho certeza se esse Sapha é o Ogen que você está procurando.\nMas eu voltarei...",
-        "es-ES": "[{0}]\nLes traeré algo para que me crean.\nNo sé si ese sapha es el Ogen que están buscando.\nPero volveré…"
+        "es-ES": "[{0}]\nLes traeré algo para que me crean.\nNo sé si ese sapha es el Ogen que están buscando.\nPero volveré..."
     },
     "BCcm": {
         "en-US": "[{0}]\nDon't you dare...try to do any harm to Terra.",
         "pt-BR": "[{0}]\nNão ouse... tentar fazer qualquer mal à Terra.",
-        "es-ES": "[{0}]\nNo se atrevan… A intentar hacerle daño a Terra."
+        "es-ES": "[{0}]\nNo se atrevan... A intentar hacerle daño a Terra."
     },
     "BScm": {
         "en-US": "[Luik]\n...Anything will do. Try and make me believe you -Outsider- and that Laphine.\nWe Sapha are not stupid people.",
         "pt-BR": "[Luik]\n... Qualquer coisa serve. Tente me fazer acreditar em você, viajante, e naquela Laphine.\nNós, Sapha, não somos idiotas.",
-        "es-ES": "[Luik]\n…Cualquier cosa servirá. Haz algo para que te crea, extraño, y a esa laphine.\nLos saphas no somos estúpidos."
+        "es-ES": "[Luik]\n...Cualquier cosa servirá. Haz algo para que te crea, extraño, y a esa laphine.\nLos saphas no somos estúpidos."
     },
     "Bicm": {
         "en-US": "[Luik]\nI promise you that we will continue to treat that Laphine as we did so far and will not do any harm to her.",
@@ -1807,7 +1807,7 @@
     "CScm": {
         "en-US": "[Luik]\nYeah, Calm down. Snorren.\nIf it is Ogen... We should be able to save him if we make haste.",
         "pt-BR": "[Luik]\nSim, acalme-se. Snorren.\nSe for o Ogen... Devemos ser capazes de salvá-lo se nos apressarmos.",
-        "es-ES": "[Luik]\nSí, cálmate. Snorren.\nSi es Ogen… Podríamos salvarlo si nos apresuramos."
+        "es-ES": "[Luik]\nSí, cálmate. Snorren.\nSi es Ogen... Podríamos salvarlo si nos apresuramos."
     },
     "Cicm": {
         "en-US": "[Luik]\nSnorren. Go to the Refinery and get the finest bradium.\nSave him.",
@@ -1817,7 +1817,7 @@
     "Cycm": {
         "en-US": "[Luik]\n{0}...right?\nPlease look after Snorren and Ogen.\nThis Laphine, I mean Terra...\nShe truly wanted to save Ogen...",
         "pt-BR": "[Luik]\n{0}... certo?\nPor favor, cuide de Snorren e Ogen.\nEssa Laphine, quero dizer, Terra...\nEla queria mesmo salvar o Ogen...",
-        "es-ES": "[Luik]\n{0}, ¿cierto…?\nPor favor, cuida de Snorren y de Ogen.\nEsta laphine, quiero decir, Terra…\nDe verdad quería salvar a Ogen…"
+        "es-ES": "[Luik]\n{0}, ¿cierto...?\nPor favor, cuida de Snorren y de Ogen.\nEsta laphine, quiero decir, Terra...\nDe verdad quería salvar a Ogen..."
     },
     "DCcm": {
         "en-US": "[Luik]\nDidn't I tell you to bring back something that can prove your story?\nWe've been fighting for too long to believe someone without any reason.",
@@ -1827,12 +1827,12 @@
     "DScm": {
         "en-US": "[Luik]\nJust anything that you think that would be enough proof... Prove yourself to us.",
         "pt-BR": "[Luik]\nQualquer coisa que você ache que seria prova suficiente... Prove que está falando a verdade.",
-        "es-ES": "[Luik]\nCualquier cosa que creas que sea una prueba suficiente… Demuestra que dices la verdad."
+        "es-ES": "[Luik]\nCualquier cosa que creas que sea una prueba suficiente... Demuestra que dices la verdad."
     },
     "Dicm": {
         "en-US": "[Luik]\nPlease... Help Ogen.",
         "pt-BR": "[Luik]\nPor favor... Ajude o Ogen.",
-        "es-ES": "[Luik]\nPor favor… Ayuda a Ogen."
+        "es-ES": "[Luik]\nPor favor... Ayuda a Ogen."
     },
     "Dycm": {
         "en-US": "[Luik]\nYou still have something to do here?\nWhy are you still here?",
@@ -1867,7 +1867,7 @@
     "FScm": {
         "en-US": "[Arc]\nI see. That's what happened.\nBut... That Sapha...What has he become to you in that short period of time?",
         "pt-BR": "[Arc]\nEntendo. Foi isso que aconteceu.\nMas... Aquele Sapha... O que ele se tornou para você nesse curto período de tempo?",
-        "es-ES": "[Arc]\nYa veo. Eso es lo que pasó.\nPero… Ese sapha… ¿Qué se volvió para ti en tan poco tiempo?"
+        "es-ES": "[Arc]\nYa veo. Eso es lo que pasó.\nPero... Ese sapha... ¿Qué se volvió para ti en tan poco tiempo?"
     },
     "Ficm": {
         "en-US": "Arc?",
@@ -1892,7 +1892,7 @@
     "Gicm": {
         "en-US": "[Terra]\nThank you.\nI'm sorry Arc... Sorry...\n....",
         "pt-BR": "[Terra]\nObrigada.\nMe desculpe, Arc... Desculpe...\n....",
-        "es-ES": "[Terra]\nGracias.\nLo siento, Arc… Lo siento…\n...."
+        "es-ES": "[Terra]\nGracias.\nLo siento, Arc... Lo siento...\n...."
     },
     "Gycm": {
         "en-US": "[Arc]\nSo, this is the story.\nTerra was wandering around your Camp and found a Sapha who was also wandering around your Camp at the time.",
@@ -1912,17 +1912,17 @@
     "Hicm": {
         "en-US": "[Terra]\nYeah... We were both unconscious for some time..\nAnd by the time we were able to wake up and see... We were surrounded.",
         "pt-BR": "[Terra]\nSim... Nós ficamos inconscientes por algum tempo...\nE quando conseguimos acordar e ver... Estávamos cercados.",
-        "es-ES": "[Terra]\nSí… Ambos nos desmayamos por un tiempo…\nY para cuando nos despertamos y pudimos ver alrededor… Estábamos rodeados."
+        "es-ES": "[Terra]\nSí... Ambos nos desmayamos por un tiempo...\nY para cuando nos despertamos y pudimos ver alrededor... Estábamos rodeados."
     },
     "Hycm": {
         "en-US": "[Terra]\nOur main concern was getting out of there...\nEven though we couldn't understand each other's language... We made a temporary truce.",
         "pt-BR": "[Terra]\nNossa principal preocupação era sair de lá...\nApesar de não conseguirmos entender a língua um do outro... Fizemos uma trégua temporária.",
-        "es-ES": "[Terra]\nNuestra preocupación principal era salir de allí…\nAunque no entendíamos nuestros idiomas… Hicimos una tregua temporal."
+        "es-ES": "[Terra]\nNuestra preocupación principal era salir de allí...\nAunque no entendíamos nuestros idiomas... Hicimos una tregua temporal."
     },
     "ICcm": {
         "en-US": "[Terra]\nAnd then....\n..........",
         "pt-BR": "[Terra]\nE depois....\n..........",
-        "es-ES": "[Terra]\nY luego…\n.........."
+        "es-ES": "[Terra]\nY luego...\n.........."
     },
     "IScm": {
         "en-US": "So that's what happened.",
@@ -1937,12 +1937,12 @@
     "Iycm": {
         "en-US": "[Terra]\nSo... I wanted to help him..\nI was just trying to repay him...",
         "pt-BR": "[Terra]\nEntão... eu queria ajudá-lo...\nEu só estava tentando retribuir...",
-        "es-ES": "[Terra]\nAsí que… Quería ayudarlo…\nSolo intentaba devolverle el favor…"
+        "es-ES": "[Terra]\nAsí que... Quería ayudarlo...\nSolo intentaba devolverle el favor..."
     },
     "JCcm": {
         "en-US": "[Terra]\nWas I wrong..?\nWas I thinking wrong?",
         "pt-BR": "[Terra]\nEu estava errada...?\nMe enganei, por acaso?",
-        "es-ES": "[Terra]\n¿Me equivoqué…?\n¿Estaba razonando mal?"
+        "es-ES": "[Terra]\n¿Me equivoqué...?\n¿Estaba razonando mal?"
     },
     "JScm": {
         "en-US": "[Arc]\nRepaying one's dept is a good thing.\nEspecially for a proud Laphine, It sure is.",
@@ -1952,17 +1952,17 @@
     "Jicm": {
         "en-US": "[Arc]\nBut Terra.\nYou've made two big mistakes.\nFirst is, You went away without permission.\nAnd secondly...",
         "pt-BR": "[Arc]\nMas, Terra.\nVocê cometeu dois grandes erros.\nO primeiro é que você foi embora sem permissão.\nE o segundo...",
-        "es-ES": "[Arc]\nPero Terra.\nCometiste dos grandes errores.\nEl primero es que te fuiste sin permiso.\nY el segundo…"
+        "es-ES": "[Arc]\nPero Terra.\nCometiste dos grandes errores.\nEl primero es que te fuiste sin permiso.\nY el segundo..."
     },
     "Jycm": {
         "en-US": "[Arc]\nYou didn't ask for help.\nIf something like that happened... of course I would help...",
         "pt-BR": "[Arc]\nVocê não pediu ajuda.\nSe algo assim acontecesse... é claro que eu ajudaria...",
-        "es-ES": "[Arc]\nNo pediste ayuda.\nSi sucediera algo así… Por supuesto que te ayudaría…"
+        "es-ES": "[Arc]\nNo pediste ayuda.\nSi sucediera algo así... Por supuesto que te ayudaría..."
     },
     "KCcm": {
         "en-US": "[Terra]\nI'm sorry Arc... I'm sorry.\nI won't act foolish ever again.",
         "pt-BR": "[Terra]\nMe desculpe, Arc... Eu sinto muito.\nNão farei nenhuma besteira novamente.",
-        "es-ES": "[Terra]\nLo siento, Arc… Lo siento.\nJamás volveré a cometer una locura como esta."
+        "es-ES": "[Terra]\nLo siento, Arc... Lo siento.\nJamás volveré a cometer una locura como esta."
     },
     "KScm": {
         "en-US": "[Arc]\nGet some rest.\nI will put in a good word to the superiors.\nAnd {0}.\nThank you.",
@@ -1982,32 +1982,32 @@
     "LCcm": {
         "en-US": "[Terra]\nArc... I will get some rest...\nI'm sorry... And. You..",
         "pt-BR": "[Terra]\nArc... Vou descansar um pouco...\nSinto muito... E. Você...",
-        "es-ES": "[Terra]\nArc… Voy a descansar un rato…\nLo siento… Y. Tú…"
+        "es-ES": "[Terra]\nArc... Voy a descansar un rato...\nLo siento... Y. Tú..."
     },
     "LScm": {
         "en-US": "[Terra]\nOriginally.. we Laphine were extremely reluctant to have others in our area.\nbut you are ok...",
         "pt-BR": "[Terra]\nOriginalmente... nós, Laphine, estávamos extremamente relutantes em ter outras pessoas em nossa área.\nMas você não é ruim...",
-        "es-ES": "[Terra]\nAl principio… Los laphines éramos muy reacios a que hubiera seres de otras razas en nuestra zona.\nPero no hay problema contigo…"
+        "es-ES": "[Terra]\nAl principio... Los laphines éramos muy reacios a que hubiera seres de otras razas en nuestra zona.\nPero no hay problema contigo..."
     },
     "Licm": {
         "en-US": "[Terra]\nFeel free to visit us anytime...",
         "pt-BR": "[Terra]\nSinta-se à vontade para nos visitar a qualquer momento...",
-        "es-ES": "[Terra]\nNo dudes en venir a visitarnos cuando quieras…"
+        "es-ES": "[Terra]\nNo dudes en venir a visitarnos cuando quieras..."
     },
     "Lycm": {
         "en-US": "[Terra]\nI'm sorry.\nMy body is not fully recovered yet...",
         "pt-BR": "[Terra]\nSinto muito.\nMeu corpo ainda não está totalmente recuperado...",
-        "es-ES": "[Terra]\nLo siento.\nAún no me recupero del todo físicamente…"
+        "es-ES": "[Terra]\nLo siento.\nAún no me recupero del todo físicamente..."
     },
     "MCcm": {
         "en-US": "[Terra]\nSorry... I'm sleepy...\nGood bye...",
         "pt-BR": "[Terra]\nDesculpe... Estou com sono...\nAté logo...",
-        "es-ES": "[Terra]\nLo siento… Tengo sueño…\nAdiós…"
+        "es-ES": "[Terra]\nLo siento... Tengo sueño...\nAdiós..."
     },
     "MScm": {
         "en-US": "[Terra]\nModBurDana...? Mu AnduWehFus Yee OsaLoLars...\neoFusser....\nmaurNohser Ur...... ThorNuffLars So",
         "pt-BR": "[Terra]\nModBurDana...? Mu AnduWehFus Yee OsaLoLars...\neoFusser....\nmaurNohser Ur...... ThorNuffLars So",
-        "es-ES": "[Terra]\n¿ModBurDana…? Mu AnduWehFus Yee OsaLoLars…\neoFusser…\nmaurNohser Ur… ThorNuffLars So."
+        "es-ES": "[Terra]\n¿ModBurDana...? Mu AnduWehFus Yee OsaLoLars...\neoFusser...\nmaurNohser Ur... ThorNuffLars So."
     },
     "Micm": {
         "en-US": "Arc",
@@ -2017,12 +2017,12 @@
     "Mycm": {
         "en-US": "[Arc]\nTerra. Get some rest.\nRest easy.\nAnd...",
         "pt-BR": "[Arc]\nTerra. Descanse um pouco.\nDescanse bem.\nE...",
-        "es-ES": "[Arc]\nTerra. Descansa un poco.\nDescansa tranquila.\nY…"
+        "es-ES": "[Arc]\nTerra. Descansa un poco.\nDescansa tranquila.\nY..."
     },
     "NCcm": {
         "en-US": "[Arc]\nOriginally.. we Laphine were extremely reluctant to have others in our area.\n{0}, you will be a special exception.",
         "pt-BR": "[Arc]\nOriginalmente... nós, Laphine, estávamos extremamente relutantes em ter outras pessoas em nossa área.\n{0}, você será uma exceção especial.",
-        "es-ES": "[Arc]\nAl principio… Los laphines éramos muy reacios a que hubiera seres de otras razas en nuestra zona.\n{0}, contigo haremos una excepción especial."
+        "es-ES": "[Arc]\nAl principio... Los laphines éramos muy reacios a que hubiera seres de otras razas en nuestra zona.\n{0}, contigo haremos una excepción especial."
     },
     "NScm": {
         "en-US": "[Arc]\nThat's what Terra wants too.\nIt might be cramped, but you are always welcome to visit us.",
@@ -2037,12 +2037,12 @@
     "Nycm": {
         "en-US": "[Arc]\nLooks like it's a time to go back...\n.......",
         "pt-BR": "[Arc]\nParece que é hora de voltar...\n.......",
-        "es-ES": "[Arc]\nParece que es hora de regresar…\n......."
+        "es-ES": "[Arc]\nParece que es hora de regresar...\n......."
     },
     "OCcm": {
         "en-US": "[Arc]\nHirWosWeh. Yee DiebVilFar U manTalVil.\nLarsNeiser...??\nVeldTiTal Ko SharDurYur Di ?",
         "pt-BR": "[Arc]\nHirWosWeh. Yee DiebVilFar U manTalVil.\nLarsNeiser...??\nVeldTiTal Ko SharDurYur Di ?",
-        "es-ES": "[Arc]\nHirWosWeh. Yee DiebVilFar U manTalVil.\n¿LarsNeiser…?\n¿VeldTiTal Ko SharDurYur Di?"
+        "es-ES": "[Arc]\nHirWosWeh. Yee DiebVilFar U manTalVil.\n¿LarsNeiser...?\n¿VeldTiTal Ko SharDurYur Di?"
     },
     "OScm": {
         "en-US": "It's locked.",
@@ -2067,7 +2067,7 @@
     "PScm": {
         "en-US": "I've already pulled out a Yggdradsil... but is there anyting else..?",
         "pt-BR": "Eu já peguei um Yggdrasil... mas há mais alguma coisa...?",
-        "es-ES": "Ya saqué un fruto de Yggdradsil… ¿Pero hay algo más…?"
+        "es-ES": "Ya saqué un fruto de Yggdradsil... ¿Pero hay algo más...?"
     },
     "Picm": {
         "en-US": "I've been bitten by an unknown insect.\nIt hurts!",
@@ -2102,7 +2102,7 @@
     "RCcm": {
         "en-US": "I've already pulled out a Yggdradsil.. .but is there anyting else..?",
         "pt-BR": "Eu já peguei um Yggdrasil... mas tem mais alguma coisa...?",
-        "es-ES": "Ya saqué un fruto de Yggdradsil… ¿Pero hay algo más…?"
+        "es-ES": "Ya saqué un fruto de Yggdradsil... ¿Pero hay algo más...?"
     },
     "RScm": {
         "en-US": "I've been bitten by an unknown insect.\nIt! Hurts!",
@@ -2132,16 +2132,16 @@
     "Sicm": {
         "en-US": "[Arc]\nBy the way, you...\nNo, never mind.\nWhat is your name?",
         "pt-BR": "[Arc]\nA propósito, você... \nNão, esqueça.\nQual é o seu nome?",
-        "es-ES": "[Arc]\nPor cierto, tú… \nNo, olvídalo.\n¿Cómo te llamas?"
+        "es-ES": "[Arc]\nPor cierto, tú... \nNo, olvídalo.\n¿Cómo te llamas?"
     },
     "Sycm": {
         "en-US": "[Terra]\nSo I tried to bring a bradium to him...\nBut he... Sob...",
         "pt-BR": "[Terra]\nEntão, tentei levar um bradium para ele... \nMas ele... Aaahh...",
-        "es-ES": "[Terra]\nAsí que intenté llevarle Bradium… \nPero… *Solloza*"
+        "es-ES": "[Terra]\nAsí que intenté llevarle Bradium... \nPero... *Solloza*"
     },
     "TCcm": {
         "en-US": "[Terra]\nModBurDana...? Mu AnduWehFus Yee OsaLoLars...\neoFusser....\nmaurNohser Ur...... ThorNuffLars So",
         "pt-BR": "[Terra]\nModBurDana...? Mu AnduWehFus Yee OsaLoLars...\neoFusser....\nmaurNohser Ur...... ThorNuffLars So",
-        "es-ES": "[Terra]\n¿ModBurDana…? Mu AnduWehFus Yee OsaLoLars…\neoFusser…\nmaurNohser Ur… ThorNuffLars So."
+        "es-ES": "[Terra]\n¿ModBurDana...? Mu AnduWehFus Yee OsaLoLars...\neoFusser...\nmaurNohser Ur... ThorNuffLars So."
     }
 }

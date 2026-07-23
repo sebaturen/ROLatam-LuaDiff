@@ -32,7 +32,7 @@
     "ZvdUAw": {
         "en-US": "[Rigel]\nHowever......\nYou see the abandoned cathedral here, right?\nAnd there's also a graveyard right next to it\n...",
         "pt-BR": "[Lígia]\nDaí eu.......\nSabe essa Catedral abandonada aqui?\nHá um cemitério ao lado dele.\n....",
-        "es-ES": "[Rigel]\nSin embargo…\nVes la catedral abandonada, ¿verdad?\nTambién hay un cementerio justo al lado…\n…"
+        "es-ES": "[Rigel]\nSin embargo...\nVes la catedral abandonada, ¿verdad?\nTambién hay un cementerio justo al lado...\n..."
     },
     "Z/dUAw": {
         "en-US": "[Rigel]\nAnd I heard it. The sound of the ghost.\nI believed it was a lie, but I heard the sound myself!",
@@ -42,7 +42,7 @@
     "aPdUAw": {
         "en-US": "[Rigel]\nSo I secretly filed a request to Eden Group's office.\nA member from Eden Group came and went in there alone to investigate, but...",
         "pt-BR": "[Lígia]\nEntão eu fiz um pedido para o Grupo do Éden.\nEles mandaram alguém para investigar...",
-        "es-ES": "[Rigel]\nAsí que, en secreto, presenté una solicitud a la oficina del Grupo del Edén.\nUn miembro del Grupo del Edén entró allí a solas para investigar, pero…"
+        "es-ES": "[Rigel]\nAsí que, en secreto, presenté una solicitud a la oficina del Grupo del Edén.\nUn miembro del Grupo del Edén entró allí a solas para investigar, pero..."
     },
     "afdUAw": {
         "en-US": "[Rigel]\nHe hasn't come out even once since then.\nWhat if the ghost got him?\nPlease, go in there and see if he's alive!",
@@ -67,7 +67,7 @@
     "bfdUAw": {
         "en-US": "[Rigel]\nI-I can't do that!\nThis area is off-limits to academy students.\nI might get suspended... or even expelled!",
         "pt-BR": "[Lígia]\nNão... não!\nEssa área é probida aos alunos.\nEu ia acabar sendo suspensa... ou expulsa!",
-        "es-ES": "[Rigel]\n¡N-no puedo hacer eso!\nEs una zona prohibida para los estudiantes de la academia.\nPodrían suspenderme… ¡o incluso expulsarme!"
+        "es-ES": "[Rigel]\n¡N-no puedo hacer eso!\nEs una zona prohibida para los estudiantes de la academia.\nPodrían suspenderme... ¡o incluso expulsarme!"
     },
     "bvdUAw": {
         "en-US": "[Rigel]\n*Sigh...* Alright.\nI'll look for someone else.\nThank you for listening to me.",
@@ -87,12 +87,12 @@
     "cfdUAw": {
         "en-US": "[Rigel]\nOh... You need to investigate more.\nI get it.\nIt's a relief that everyone's all right.",
         "pt-BR": "[Lígia]\nAh... você precisa investigar mais.\nFaz sentido.\nEstou feliz que todos estejam bem.",
-        "es-ES": "[Rigel]\nAh… Tienes que investigar más.\nEntiendo.\nEs un alivio que todos estén bien."
+        "es-ES": "[Rigel]\nAh... Tienes que investigar más.\nEntiendo.\nEs un alivio que todos estén bien."
     },
     "cvdUAw": {
         "en-US": "[Rigel]\nWell... I think I'll get suspended or expelled if I tell my friends\nabout this place and word gets around.\nI'll keep this a secret and make sure no one approaches here.",
         "pt-BR": "[Lígia]\nPor favor... não conte para ninguém sobre essa entrada...\nImagina se descobrem?\nEu seria expulsa na hora.",
-        "es-ES": "[Rigel]\nBueno… Me suspenderán o expulsarán si les cuento a mis amistades\nsobre este lugar y se corre la voz.\nMantendré esto en secreto y me aseguraré de que nadie se acerque."
+        "es-ES": "[Rigel]\nBueno... Me suspenderán o expulsarán si les cuento a mis amistades\nsobre este lugar y se corre la voz.\nMantendré esto en secreto y me aseguraré de que nadie se acerque."
     },
     "c/dUAw": {
         "en-US": "[Rigel]\n*Humming* I sure hope someone strong shows up here soon.",
@@ -152,7 +152,7 @@
     "fvdUAw": {
         "en-US": "[Cursa]\nHmm... Adventurer, how about you go in there while I stand guard out here?",
         "pt-BR": "[Kauan]\n...Você quer ir enquanto eu fico desse lado?",
-        "es-ES": "[Cursa]\nMmm… Trotamundos, ¿qué tal si entras mientras yo hago guardia aquí fuera?"
+        "es-ES": "[Cursa]\nMmm... Trotamundos, ¿qué tal si entras mientras yo hago guardia aquí fuera?"
     },
     "f/dUAw": {
         "en-US": "Sure.",
@@ -177,7 +177,7 @@
     "g/dUAw": {
         "en-US": "[Cursa]\nOh, this is troublesome.\nI can't be here doing nothing all day...",
         "pt-BR": "[Kauan]\nMeh, tudo bem.\nNão vou te forçar.",
-        "es-ES": "[Cursa]\nAh, qué molestia.\nNo puedo estar todo el día aquí sin hacer nada…"
+        "es-ES": "[Cursa]\nAh, qué molestia.\nNo puedo estar todo el día aquí sin hacer nada..."
     },
     "hPdUAw": {
         "en-US": "[Cursa]\nPlease check the inside while I'm operating this door.\nEven better if you'd destroy a robot and bring me its part.",
@@ -202,7 +202,7 @@
     "iPdUAw": {
         "en-US": "[Cursa]\nI don't really want to dig into the background of this place, but I accepted the request, so...\nThis much investigation would be manageable, I think.",
         "pt-BR": "[Kauan]\nEu realmente não pretendo me aprofundar nas circunstâncias deste lugar, mas eu fui enviado pra cá....\nNão preciso investigar tanto.",
-        "es-ES": "[Cursa]\nEn realidad, no quiero indagar sobre el pasado de este lugar, pero acepté la solicitud, así que…\nEsta investigación no debería ser complicada."
+        "es-ES": "[Cursa]\nEn realidad, no quiero indagar sobre el pasado de este lugar, pero acepté la solicitud, así que...\nEsta investigación no debería ser complicada."
     },
     "ifdUAw": {
         "en-US": "[Cursa]\nAnyway, I think these parts will be helpful in my work.\nIf you want to go to the lower floor, I'll operate the door again for you.",
@@ -277,7 +277,7 @@
     "l/dUAw": {
         "en-US": "[Acher]\nThe sound was coming from the island far, far over there across the sea.\nI hear it every night. It's just too painful...",
         "pt-BR": "[Taíssa]\nLá~ lá longe, naquela ilha.\nDá para ouvir daqui os gritos assustadores à noite....",
-        "es-ES": "[Acher]\nEl sonido venía de una isla muy muy lejana, al otro lado del mar.\nLo oigo todas las noches. Es demasiado doloroso…"
+        "es-ES": "[Acher]\nEl sonido venía de una isla muy muy lejana, al otro lado del mar.\nLo oigo todas las noches. Es demasiado doloroso..."
     },
     "mPdUAw": {
         "en-US": "[Acher]\nPlease, adventurer, get rid of the ^4D4DFFsource of the cry^000000 which appears on Unnamed Islet in the night.\nI think it is non other than a ^4D4DFFBanshee^000000.",
@@ -302,12 +302,12 @@
     "nPdUAw": {
         "en-US": "[Acher]\nOh... What a pity.\nI'm sure someone generous enough to help out will show up one day.\nThank you for listening to my story.",
         "pt-BR": "[Taíssa]\n... você não pode me ajudar.\nMas tenho certeza que alguém pode.\nObrigada por me ouvir.",
-        "es-ES": "[Acher]\nAh… Qué pena.\nAlgún día aparecerá una persona lo suficientemente generosa para ayudarme.\nGracias por escuchar mi historia."
+        "es-ES": "[Acher]\nAh... Qué pena.\nAlgún día aparecerá una persona lo suficientemente generosa para ayudarme.\nGracias por escuchar mi historia."
     },
     "nfdUAw": {
         "en-US": "[Acher]\nOh... I doubt this place is a good fishing spot...",
         "pt-BR": "[Taíssa]\nSim... esse é um ótimo lugar para pescar e coletar algumas pedras...",
-        "es-ES": "[Acher]\nAh… Dudo que este sea un buen sitio para pescar…"
+        "es-ES": "[Acher]\nAh... Dudo que este sea un buen sitio para pescar..."
     },
     "nvdUAw": {
         "en-US": "[Acher]\nThe strange wail coming from across the sea is making me unable to sleep,\nand you promised me to get rid of the source of that wail.",
@@ -337,7 +337,7 @@
     "o/dUAw": {
         "en-US": "[Acher]\nOh... Oooh... Oooooh...!\nThank you.\nTalk to me anytime if you need a boat in the future.\nI'm your personal boatman to the Unnamed Islet from now on!",
         "pt-BR": "[Taíssa]\nOh... oh... oh...\nObrigada.\nSe você precisar de um barco, pode contar comigo.\nPela sua ajuda, a viagem fica por conta da casa!",
-        "es-ES": "[Acher]\nAh… Ahhhh… ¡Ahhhhh…!\nGracias.\nSi en algún momento necesitas un barco, ven a verme.\n¡De ahora en más, soy tu barquero personal hacia la Isla anónima!"
+        "es-ES": "[Acher]\nAh... Ahhhh... ¡Ahhhhh...!\nGracias.\nSi en algún momento necesitas un barco, ven a verme.\n¡De ahora en más, soy tu barquero personal hacia la Isla anónima!"
     },
     "pPdUAw": {
         "en-US": "[Acher]\nDo you want to go to the Unnamed Islet?\nI think it'll be night by the time we get there.",
@@ -372,7 +372,7 @@
     "qvdUAw": {
         "en-US": "What a horrifying cry. I'm so sick of it...",
         "pt-BR": "Estou cansada desses gritos...",
-        "es-ES": "Qué llanto tan horrible. Ya me hartó…"
+        "es-ES": "Qué llanto tan horrible. Ya me hartó..."
     },
     "q/dUAw": {
         "en-US": "[Acher]\nWhat a pity. I'd ask you to take care of\nthe Banshee wail coming from across the sea if you were just a little bit stronger.",
@@ -417,7 +417,7 @@
     "s/dUAw": {
         "en-US": "[Eridanus]\nMaintenance work, as you can see.\n...But I'm feeling a little uneasy.",
         "pt-BR": "[Eduardo]\nNão vês que trabalho com manutenção?\n...mas eu não estou bem.",
-        "es-ES": "[Eridanus]\nMantenimiento, como puedes ver.\n…Pero me siento un poco intranquilo."
+        "es-ES": "[Eridanus]\nMantenimiento, como puedes ver.\n...Pero me siento un poco intranquilo."
     },
     "tPdUAw": {
         "en-US": "[Eridanus]\nHmm. You're an adventurer.\nI've been hearing a strange noise coming from the holy ground recently.",
@@ -427,7 +427,7 @@
     "tfdUAw": {
         "en-US": "[Eridanus]\nI think it's because of the accident a while ago...",
         "pt-BR": "[Eduardo]\nEu acho que é por causa daquele incidente antes...",
-        "es-ES": "[Eridanus]\nCreo que es por el accidente de hace un tiempo…"
+        "es-ES": "[Eridanus]\nCreo que es por el accidente de hace un tiempo..."
     },
     "tvdUAw": {
         "en-US": "Accident?",
@@ -442,12 +442,12 @@
     "uPdUAw": {
         "en-US": "[Eridanus]\nMy superiors dismissed it as a hogwash,\nbut listen.\n...Can't you hear this strange noise coming from below?",
         "pt-BR": "[Eduardo]\nOs superiores deram uma desculpinha.\nEscuta só.\nConsegue ouvir esse som estranho?",
-        "es-ES": "[Eridanus]\nMis superiores aseguran que son tonterías,\npero escucha.\n…¿No oyes ese ruido extraño que viene de abajo?"
+        "es-ES": "[Eridanus]\nMis superiores aseguran que son tonterías,\npero escucha.\n...¿No oyes ese ruido extraño que viene de abajo?"
     },
     "ufdUAw": {
         "en-US": "[Eridanus]\nIf this really is a monster, it means there's a monster trapped in the holy temple, which is a big problem.\nUgh...",
         "pt-BR": "[Eduardo]\nE se for um demônio dentro de um santuário sagrado?\nAff...",
-        "es-ES": "[Eridanus]\nSi realmente hay un monstruo, significa que está atrapado en el templo sagrado, lo cual es un gran problema.\nUf…"
+        "es-ES": "[Eridanus]\nSi realmente hay un monstruo, significa que está atrapado en el templo sagrado, lo cual es un gran problema.\nUf..."
     },
     "uvdUAw": {
         "en-US": "[Eridanus]\nOh right! You can get rid of the monster for our goddess!\nI'm sure the higher-ups will reprimand me for being indulgent, but I can't turn my eyes away from a monster problem!",
@@ -472,12 +472,12 @@
     "vvdUAw": {
         "en-US": "[Eridanus]\nGrr, I can't just stand by when monsters are rampaging in there...!",
         "pt-BR": "[Eduardo]\nVocê tem que ouvir esses barulhos pra entender!",
-        "es-ES": "[Eridanus]\n¡Grr, no puedo quedarme de brazos cruzados mientras los monstruos hacen estragos…!"
+        "es-ES": "[Eridanus]\n¡Grr, no puedo quedarme de brazos cruzados mientras los monstruos hacen estragos...!"
     },
     "v/dUAw": {
         "en-US": "[Eridanus]\n...I asked you to get rid of the monsters in the holy ground for the pope and our goddess Freyja.",
         "pt-BR": "[Eduardo]\n...Por amor à Papisa e à Freya que eu pedi sua ajuda.",
-        "es-ES": "[Eridanus]\n…Te pedí que te deshicieras de los monstruos en la tierra sagrada en nombre de la papisa y de nuestra diosa Freya."
+        "es-ES": "[Eridanus]\n...Te pedí que te deshicieras de los monstruos en la tierra sagrada en nombre de la papisa y de nuestra diosa Freya."
     },
     "wPdUAw": {
         "en-US": "[Eridanus]\nI can get you there through the shaft right now if you're ready.",
@@ -532,7 +532,7 @@
     "yvdUAw": {
         "en-US": "[Eridanus]\n(Gives a thumbs-up with a nod.)\n...",
         "pt-BR": "[Eduardo]\n(Abre a passagem da tubulação.)\n....",
-        "es-ES": "[Eridanus]\n(Levanta el pulgar y asiente con la cabeza).\n…"
+        "es-ES": "[Eridanus]\n(Levanta el pulgar y asiente con la cabeza).\n..."
     },
     "y/dUAw": {
         "en-US": "[Eridanus]\nWell, next time, then.",
@@ -542,7 +542,7 @@
     "zPdUAw": {
         "en-US": "...Looks like something will break out soon.",
         "pt-BR": "...Algo vai acontecer em breve.",
-        "es-ES": "…Parece que algo está por escapar."
+        "es-ES": "...Parece que algo está por escapar."
     },
     "zfdUAw": {
         "en-US": "Village Iyla",
@@ -582,7 +582,7 @@
     "1PdUAw": {
         "en-US": "[Iyla]\nI'm nervous.\nI'm worried about the thing living in this sewer pipe...\nIf there is a monster, please get rid of it.",
         "pt-BR": "[Laura]\nEu estou nervosa e com medo.\nSe existirem monstros dentro do esgoto...\nEu queria que você matasse eles.",
-        "es-ES": "[Iyla]\nEstoy nerviosa.\nMe preocupa la cosa que vive en esta alcantarilla…\nSi hay un monstruo, deshazte de él."
+        "es-ES": "[Iyla]\nEstoy nerviosa.\nMe preocupa la cosa que vive en esta alcantarilla...\nSi hay un monstruo, deshazte de él."
     },
     "1fdUAw": {
         "en-US": "[Iyla]\nI want to live without worrying about such thing.\nIf you want, I can watch over this sewer pipe constantly.",
@@ -607,7 +607,7 @@
     "2fdUAw": {
         "en-US": "[Iyla]\nDo come back... Please.\nI'm scared.",
         "pt-BR": "[Laura]\nSnif... tudo bem.\nVou me acalmar.",
-        "es-ES": "[Iyla]\nVuelve… Por favor.\nTengo miedo."
+        "es-ES": "[Iyla]\nVuelve... Por favor.\nTengo miedo."
     },
     "2vdUAw": {
         "en-US": "[Iyla]\nThe soldiers and security guards of this city do not work for the slums!\nTheir purpose is to keep an eye on us, not protect us.",
@@ -617,7 +617,7 @@
     "2/dUAw": {
         "en-US": "[Iyla]\n...I'll wait for another adventurer to show up.",
         "pt-BR": "[Laura]\n...Vou esperar outra pessoa.",
-        "es-ES": "[Iyla]\n…Esperaré a que aparezca otro trotamundos."
+        "es-ES": "[Iyla]\n...Esperaré a que aparezca otro trotamundos."
     },
     "3PdUAw": {
         "en-US": "[Iyla]\nAre you here to investigate the sewer?\nI blocked it off so that the corporate lackeys don't notice.",
@@ -642,7 +642,7 @@
     "4PdUAw": {
         "en-US": "[Iyla]\nI know I'm living in a slum, but this is just too terrifying.\nIf you were just a little bit stronger...",
         "pt-BR": "[Laura]\nApesar de ser uma Favela, eu até conseguia dormir bem, mas agora...\nCéus... queria ajuda de alguém mais forte.",
-        "es-ES": "[Iyla]\nSé que vivo en un barrio bajo, pero esto es demasiado aterrador.\nSi fueras un poco más fuerte…"
+        "es-ES": "[Iyla]\nSé que vivo en un barrio bajo, pero esto es demasiado aterrador.\nSi fueras un poco más fuerte..."
     },
     "4fdUAw": {
         "en-US": "Dimensional Cat Myumyu",

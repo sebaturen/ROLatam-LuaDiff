@@ -27,7 +27,7 @@
     "ZYI7": {
         "en-US": "[Ben]\n................\nOh no you don't...",
         "pt-BR": "[Viajante Ben]\n...\nSuspira, como você é babaca.",
-        "es-ES": "[Ben]\n……………\nOh, no…"
+        "es-ES": "[Ben]\n...............\nOh, no..."
     },
     "ZoI7": {
         "en-US": "[Maha]\nThey may make an\nannouncement soon.\nAll we need to do is wait for it and we'll have all our questions answered.",
@@ -47,22 +47,22 @@
     "aYI7": {
         "en-US": "[Ben]\nHuh? Did you hear us?\nNothing really or maybe something...\nSo...",
         "pt-BR": "[Viajante Ben]\nErr, você estava nos escutando escondido?\nNão é nada... Bom, talvez seja algo.\nEntão...",
-        "es-ES": "[Ben]\n¿Eh? ¿Nos escuchaste?\nLa verdad, nada. O, tal vez, algo…\nAsí que…"
+        "es-ES": "[Ben]\n¿Eh? ¿Nos escuchaste?\nLa verdad, nada. O, tal vez, algo...\nAsí que..."
     },
     "aoI7": {
         "en-US": "[Ben]\nResearch members dispatched to Manuk just came back.\nBut...",
         "pt-BR": "[Viajante Ben]\nUm investigador acaba de voltar de Manuk.\nE...",
-        "es-ES": "[Ben]\nLos miembros de la investigación enviados a Manuk acaban de regresar.\nPero…"
+        "es-ES": "[Ben]\nLos miembros de la investigación enviados a Manuk acaban de regresar.\nPero..."
     },
     "a4I7": {
         "en-US": "But?",
         "pt-BR": "E?",
-        "es-ES": "¿Pero…?"
+        "es-ES": "¿Pero...?"
     },
     "bII7": {
         "en-US": "[Ben]\nWell.. they came back with a Manuk messenger!\n...some important Sapha from Manuk.",
         "pt-BR": "[Viajante Ben]\nVeio uma mensageira junto.\nSabe, dos Manuks.",
-        "es-ES": "[Ben]\nBueno… ¡volvieron con un mensajero de Manuk!\nUna especie de miembro importante de los sapha de Manuk."
+        "es-ES": "[Ben]\nBueno... ¡volvieron con un mensajero de Manuk!\nUna especie de miembro importante de los sapha de Manuk."
     },
     "bYI7": {
         "en-US": "Where is he?!",
@@ -82,7 +82,7 @@
     "cII7": {
         "en-US": "[Ben]\nHmm...\nThat can be true but aren't you thinking about it too much?",
         "pt-BR": "[Viajante Ben]\nAcho que sim...\nMesmo assim, você parece indiferente demais sobre isso.",
-        "es-ES": "[Ben]\nMmm…\nEso puede ser cierto, pero ¿no crees que estás pensando demasiado en eso?"
+        "es-ES": "[Ben]\nMmm...\nEso puede ser cierto, pero ¿no crees que estás pensando demasiado en eso?"
     },
     "cYI7": {
         "en-US": "[Maha]\nI don't like to get into trouble.\nI only follow orders.\nBesides, there is nothing out of the ordinary with those Sapha.",
@@ -132,12 +132,12 @@
     "eoI7": {
         "en-US": "[Aello]\nDo you happen to know that a messenger from Manuk is here?\nNot a big secret but...",
         "pt-BR": "[Aello]\nSabia que chegou uma mensageira de Manuk?\nIsso não é um segredo.",
-        "es-ES": "[Aello]\n¿Por casualidad sabes que vino un mensajero de Manuk?\nNo es un gran secreto, pero…"
+        "es-ES": "[Aello]\n¿Por casualidad sabes que vino un mensajero de Manuk?\nNo es un gran secreto, pero..."
     },
     "e4I7": {
         "en-US": "[Aello]\nThe Sapha from Manuk wants to talk to you.\nAgip says anyone from the expedition can meet him but..\nI think someone with more experience should go.",
         "pt-BR": "[Aello]\nQue um Manuk quer conversar conosco.\nO comandante Agip disse que qualquer integrante da Expedição pode conversar com ela,\nmas eu não mandaria qualquer um. Preciso de alguém em quem posso confiar.",
-        "es-ES": "[Aello]\nEl sapha de Manuk quiere hablar contigo.\nAgip dice que cualquiera de los miembros de la expedición puede reunirse con él, pero…\nCreo que debería ir alguien con más experiencia."
+        "es-ES": "[Aello]\nEl sapha de Manuk quiere hablar contigo.\nAgip dice que cualquiera de los miembros de la expedición puede reunirse con él, pero...\nCreo que debería ir alguien con más experiencia."
     },
     "fII7": {
         "en-US": "[Aello]\nI know your abilities and trust you.\nThe delegation is in the room at the right on the second floor.",
@@ -172,7 +172,7 @@
     "goI7": {
         "en-US": "[Aello]\nBut.. you are a new face around here.\nHmm... sorry but you won't do.\nYou'll have to get yourself familiar with this camp first.",
         "pt-BR": "[Aello]\nAcho que nunca vi você por aqui antes.\nUm... Desculpe, mas ainda não posso conversar com você.\nConheça os arredores primeiro, está bem?",
-        "es-ES": "[Aello]\nPero… parece que es la primera vez que vienes por aquí.\nMmm… lo siento, pero no me serás de utilidad.\nPrimero, tendrás que familiarizarte con este campamento."
+        "es-ES": "[Aello]\nPero... parece que es la primera vez que vienes por aquí.\nMmm... lo siento, pero no me serás de utilidad.\nPrimero, tendrás que familiarizarte con este campamento."
     },
     "g4I7": {
         "en-US": "Soldier",
@@ -227,7 +227,7 @@
     "jYI7": {
         "en-US": "[Sapha]\nXXXXXXXXXX...\nXXXXXX?\nXXX..?",
         "pt-BR": "[Embaixador de Manuk]\n???? ? ??...\n??? ? ?\n??..?",
-        "es-ES": "[Sapha]\nXXXXXXXXXX…\n¿XXXXXX?\n¿XXX?"
+        "es-ES": "[Sapha]\nXXXXXXXXXX...\n¿XXXXXX?\n¿XXX?"
     },
     "joI7": {
         "en-US": "[Hound]\nWhere is your interpreter ring?\nI'm not going to be your personal translater.",
@@ -262,7 +262,7 @@
     "lII7": {
         "en-US": "[Hound]\nOkay. You should be able\nto talk to him, right?\nShall we start with\nintroducing ourselves?\nThis is..\n{0}...",
         "pt-BR": "[Hound]\nEntendo. Espero que consiga entendê-la.\nVamos começar com uma apresentação.\nSeu nome é...\n{0}?",
-        "es-ES": "[Hound]\nDe acuerdo. Deberías poder\nhablar con él, ¿no?\n¿Y si primero\nnos presentamos?\nSoy…\n{0}…"
+        "es-ES": "[Hound]\nDe acuerdo. Deberías poder\nhablar con él, ¿no?\n¿Y si primero\nnos presentamos?\nSoy...\n{0}..."
     },
     "lYI7": {
         "en-US": "[Vyhannus]\nMy name is Vyhannus.\n{0}..?\nGlad to meet you.",
@@ -282,7 +282,7 @@
     "mII7": {
         "en-US": "[Vyhannus]\nAmazing.\nLike with Hound, that ring\nyou humans made...\nis like a ring of wisdom.",
         "pt-BR": "[Vehanus]\nIsso é incrível!\nHound mostrou o dele, mas esse anel...\nÉ a prova de seu avanço tecnológico.",
-        "es-ES": "[Vyhannus]\nAsombroso.\nAl igual que Hound, ese anillo\nque hicieron ustedes los humanos…\nes como un anillo de sabiduría."
+        "es-ES": "[Vyhannus]\nAsombroso.\nAl igual que Hound, ese anillo\nque hicieron ustedes los humanos...\nes como un anillo de sabiduría."
     },
     "mYI7": {
         "en-US": "[Hound]\nWhat are you saying?\nThat was rude!",
@@ -297,7 +297,7 @@
     "m4I7": {
         "en-US": "[Vyhannus]\nShall we skip to the point?\nThe reason why I am here...",
         "pt-BR": "[Vehanus]\nVamos direto ao ponto, está bem?\nEu vim aqui porque...",
-        "es-ES": "[Vyhannus]\n¿Y si vamos al grano?\nLa razón por la que estoy aquí…"
+        "es-ES": "[Vyhannus]\n¿Y si vamos al grano?\nLa razón por la que estoy aquí..."
     },
     "nII7": {
         "en-US": "[Someone's voice]\nExcuse me, hold on a second.",
@@ -317,7 +317,7 @@
     "n4I7": {
         "en-US": "[Hibba Agip]\nHm... Ah.\nIs it you?\nI see, just as Aello explained.\nThen I think we are in good hands.",
         "pt-BR": "[Hibba Agip]\nOh.\nEntão, é você.\nAello tem bom olho.\nMuito bem, eu aprovo esse aventureiro.",
-        "es-ES": "[Hibba Agip]\nMmm… Ah.\n¿Eres tú?\nYa veo, tal y como explicó Aello.\nEntonces, creo que estamos en buenas manos."
+        "es-ES": "[Hibba Agip]\nMmm... Ah.\n¿Eres tú?\nYa veo, tal y como explicó Aello.\nEntonces, creo que estamos en buenas manos."
     },
     "oII7": {
         "en-US": "What are you implying?",
@@ -347,7 +347,7 @@
     "pYI7": {
         "en-US": "[Hound]\nWell..\nNot totally wrong, I guess...",
         "pt-BR": "[Hound]\nBem...\nEntendo seu argumento.",
-        "es-ES": "[Hound]\nBueno…\nSupongo que tienes algo de razón..."
+        "es-ES": "[Hound]\nBueno...\nSupongo que tienes algo de razón..."
     },
     "poI7": {
         "en-US": "[Vyhannus]\n(Vyhannus smiles)\nWe have told Ravail about you humans.\nRavail is the highest elder of glorious ^4D4DFFEl Dicastes^000000.",
@@ -367,7 +367,7 @@
     "qYI7": {
         "en-US": "[Hibba Agip]\nThen it's settled.\nAnd... ah yes, you.\nPlease go meet the inspector in the next room after this.\nGot it?",
         "pt-BR": "[Hibba Agip]\nEntão, mantenha o aventureiro com você e...\nVocê.\nQuando terminar aqui, quero que você fale com o inspetor na sala ao lado.\nEntendeu?",
-        "es-ES": "[Hibba Agip]\nEntonces, ya está decidido.\nY… ah sí, tú.\nVe a reunirte con el inspector en la sala de al lado cuando termines.\n¿Entendido?"
+        "es-ES": "[Hibba Agip]\nEntonces, ya está decidido.\nY... ah sí, tú.\nVe a reunirte con el inspector en la sala de al lado cuando termines.\n¿Entendido?"
     },
     "qoI7": {
         "en-US": "[Hibba Agip]\nI'm leaving now.\nVyhannus? I'll come by to see you again.\nAnd you should ^4D4DFFmeet Inspector Doha after talking with Vyhannus^000000.\nThen bye everyone.",
@@ -387,7 +387,7 @@
     "rYI7": {
         "en-US": "[Hound]\nLet's continue..\nAlthough the details are already settled.",
         "pt-BR": "[Hound]\nVamos voltar ao assunto em questão,\napesar de parecer que a decisão já foi tomada.",
-        "es-ES": "[Hound]\nContinuemos…\nAunque ya discutimos todos los detalles."
+        "es-ES": "[Hound]\nContinuemos...\nAunque ya discutimos todos los detalles."
     },
     "roI7": {
         "en-US": "[Vyhannus]\nAh, yes.\nWhere was I?\nEl Dicastes!\nThe capital city of the Sapha.",
@@ -427,7 +427,7 @@
     "tYI7": {
         "en-US": "[Hound]\nJust as he said.\nOur expedition team has helped the Saphas for some time.\nCollect Bradium for their survival or eliminate the vicious beasts that threaten them.\n........",
         "pt-BR": "[Hound]\nSim.\nNossos integrantes em Manuk fizeram muitas coisas pelos residentes Manuks.\nEles coletaram Bradiums, que são necessários para a sustentabilidade dos Manuks.",
-        "es-ES": "[Hound]\nTal como él dijo.\nNuestro equipo de expedición lleva tiempo ayudando a los saphas.\nRecolecta bradium para su supervivencia o elimina a las bestias despiadadas que los acechan.\n………"
+        "es-ES": "[Hound]\nTal como él dijo.\nNuestro equipo de expedición lleva tiempo ayudando a los saphas.\nRecolecta bradium para su supervivencia o elimina a las bestias despiadadas que los acechan.\n........."
     },
     "toI7": {
         "en-US": "[Hound]\nThey have given us an official invitation to visit their capital city in return.\nThat is why I've been selecting expedition members to send to El Dicastes.",
@@ -437,7 +437,7 @@
     "t4I7": {
         "en-US": "You mean...",
         "pt-BR": "Você está dizendo que...?",
-        "es-ES": "Quieres decir que…"
+        "es-ES": "Quieres decir que..."
     },
     "uII7": {
         "en-US": "[Vyhannus]\nYes.\nThat is what he meant.\nAgip also approved before he left.\n{0}, you are invited.",
@@ -467,7 +467,7 @@
     "vYI7": {
         "en-US": "[Hound]\nShouldn't you already be used to the unexpected by now?\nCome on... you're not a newbie haha.",
         "pt-BR": "[Hound]\nVocê já deveria estar acostumado a receber surpresas.\nVocê não é um iniciante.",
-        "es-ES": "[Hound]\n¡Ya deberías haberte acostumbrado a esto!\nVamos… no eres principiante, ja, ja."
+        "es-ES": "[Hound]\n¡Ya deberías haberte acostumbrado a esto!\nVamos... no eres principiante, ja, ja."
     },
     "voI7": {
         "en-US": "[Hound]\nIf you are going to leave, it better be now.\nCome back to me once\nyou are ready to leave.\nI will let you know your mission.",
@@ -542,12 +542,12 @@
     "zII7": {
         "en-US": "[Hound]\nOkay. You should be able to talk to him, right?\nShall we start with introducing ourselves?\nThis is..\n{0}...",
         "pt-BR": "[Hound]\nEntendo. Espero que você o entenda. \nVamos começar com uma apresentação.\nSeu nome é...\n{0}?",
-        "es-ES": "[Hound]\nDe acuerdo. Deberías poder hablar con él, ¿no?\n¿Y si primero nos presentamos?\nSoy…\n{0}…"
+        "es-ES": "[Hound]\nDe acuerdo. Deberías poder hablar con él, ¿no?\n¿Y si primero nos presentamos?\nSoy...\n{0}..."
     },
     "zYI7": {
         "en-US": "[Vyhannus]\nAmazing.\nLike with Hound, that ring you humans made...\nis like a ring of wisdom.",
         "pt-BR": "[Hound]\nOnde está o seu anel tradutor?\nSe você não o tem, é melhor fazer um.\nEla quer falar com você pessoalmente.",
-        "es-ES": "[Vyhannus]\nAsombroso.\nAl igual que Hound, ese anillo que hicieron ustedes los humanos…\nes como un anillo de sabiduría."
+        "es-ES": "[Vyhannus]\nAsombroso.\nAl igual que Hound, ese anillo que hicieron ustedes los humanos...\nes como un anillo de sabiduría."
     },
     "zoI7": {
         "en-US": "[Hibba Agip]\nHuh? Nothing.\nWas there anything.\nYou said you wanted to send a trustworthy person, right?\nI wanted to see the person Aello chose to send.",
@@ -557,12 +557,12 @@
     "z4I7": {
         "en-US": "[Hibba Agip]\nHm... Ah.\nIs it you?\nI see, just as Aello explained.\nWell, I think we are in good hands if it is you.",
         "pt-BR": "[Hibba Agip]\nOh.\nEntão, é você.\nAello tem bom olho.\nMuito bem, eu aprovo esse aventureiro.",
-        "es-ES": "[Hibba Agip]\nMmm… Ah.\n¿Eres tú?\nYa veo, tal y como explicó Aello.\nSi eres tú, entonces, creo que estamos en buenas manos."
+        "es-ES": "[Hibba Agip]\nMmm... Ah.\n¿Eres tú?\nYa veo, tal y como explicó Aello.\nSi eres tú, entonces, creo que estamos en buenas manos."
     },
     "0II7": {
         "en-US": "[Vyhannus]\nSo... It's like this.\nBoth Saphas and humans had many differences in the past.",
         "pt-BR": "[Vehanus]\nDeixe-me explicar.\nMuitas coisas aconteceram entre nós e vocês.",
-        "es-ES": "[Vyhannus]\nAsí que… Lo siguiente.\nTanto los saphas como los humanos tuvieron muchas diferencias en el pasado."
+        "es-ES": "[Vyhannus]\nAsí que... Lo siguiente.\nTanto los saphas como los humanos tuvieron muchas diferencias en el pasado."
     },
     "0YI7": {
         "en-US": "[Hibba Agip]\nI'm leaving now.\nI'll come by to see you again Vyhannus.\nAnd you should ^4D4DFFmeet Inspector Doha after talking with Vyhannus^000000.\nThen bye everyone.",
@@ -592,7 +592,7 @@
     "1oI7": {
         "en-US": "[Hound]\nI've just returned from Manuk from a long term dispatch\nand haven't gotten any rest yet.\nEl Dicastes.. I will find the time to visit once your advance party settles in.",
         "pt-BR": "[Hound]\nAcabo de voltar de minha longa estadia em Manuk\ne ainda não posso ir para casa.\nEl Dicastes, é? Talvez eu deva fazer uma visita depois que você e muitos outros integrantes da expedição abram caminho para mim.",
-        "es-ES": "[Hound]\nAcabo de volver de Manuk de un largo viaje\ny aún no tomo un descanso.\nEl Dicastes… Ya tendré tiempo para visitarte una vez que tu grupo se instale."
+        "es-ES": "[Hound]\nAcabo de volver de Manuk de un largo viaje\ny aún no tomo un descanso.\nEl Dicastes... Ya tendré tiempo para visitarte una vez que tu grupo se instale."
     },
     "14I7": {
         "en-US": "[Hound]\nI have to take care of Vyhannus here.\nWe might see the day when Saphas like Vyhannus will be living with us on our continent.",
@@ -607,7 +607,7 @@
     "2YI7": {
         "en-US": "[Hibba Agip]\nHmm..?\nI should go now.",
         "pt-BR": "[Hibba Agip]\nHã?\nOh, é melhor eu voltar.",
-        "es-ES": "[Hibba Agip]\n¿Mmm…?\nDebería irme."
+        "es-ES": "[Hibba Agip]\n¿Mmm...?\nDebería irme."
     },
     "2oI7": {
         "en-US": "Inspector Doha",
@@ -641,13 +641,13 @@
     },
     "4II7": {
         "en-US": "[Doha]\nMe?\nAre you the person the captain was talkin' about?\nWhat was the name...?",
-        "pt-BR": "[Doha]\nComigo?\nOh, o Comandante mandou você?\nEntão, seu nome é…",
-        "es-ES": "[Doha]\n¿A mí?\n¿Eres la persona de la que hablaba el capitán?\n¿Cómo te llamabas…?"
+        "pt-BR": "[Doha]\nComigo?\nOh, o Comandante mandou você?\nEntão, seu nome é...",
+        "es-ES": "[Doha]\n¿A mí?\n¿Eres la persona de la que hablaba el capitán?\n¿Cómo te llamabas...?"
     },
     "4YI7": {
         "en-US": "[Doha]\nHmm.. I don't know why you were chosen but I guess they trusted you enough.\nSo you were chosen to visit El Dicastes?",
         "pt-BR": "[Doha]\nNão sei o que você tem de especial, mas confio no julgamento do Comandante.\nFiquei sabendo que você foi escolhido para visitar El Dicastes, a capital dos Manuks.",
-        "es-ES": "[Doha]\nMmm… No sé por qué te eligieron, pero supongo que te tenían bastante confianza.\n¿Así que te eligieron para visitar El Dicastes?"
+        "es-ES": "[Doha]\nMmm... No sé por qué te eligieron, pero supongo que te tenían bastante confianza.\n¿Así que te eligieron para visitar El Dicastes?"
     },
     "4oI7": {
         "en-US": "[Doha]\nI have a secret mission\nregarding this visit.\nMore like an order.",
@@ -667,7 +667,7 @@
     "5YI7": {
         "en-US": "[Doha]\nYou haven't heard of it?\nI thought you already knew...\nSo you're not the one that collected the report back then?",
         "pt-BR": "[Doha]\nVocê não sabe?\nPensei que você soubesse.\nNão foi você quem coletou o relatório em questão?",
-        "es-ES": "[Doha]\n¿No lo sabías?\nCreía que ya lo sabías…\nEntonces, ¿no fuiste tú quien tomó el informe?"
+        "es-ES": "[Doha]\n¿No lo sabías?\nCreía que ya lo sabías...\nEntonces, ¿no fuiste tú quien tomó el informe?"
     },
     "5oI7": {
         "en-US": "[Doha]\nWhen the expedition was first dispatched there was a general report on our research results and the messenger, that was carrying this report back home, was attacked.",
@@ -702,7 +702,7 @@
     "7II7": {
         "en-US": "[Doha]\nI was investigating at the location assumed to be where the attack took place when I met a cat. Well... I don't know what else I'm supposed to call them.",
         "pt-BR": "[Doha]\nEu conheci o gato\nenquanto investigava a cena do ataque.",
-        "es-ES": "[Doha]\nEstaba investigando en el lugar donde se supone que ocurrió el ataque cuando me encontré con un gato. Bueno… No sé de qué otra forma podría llamarlos."
+        "es-ES": "[Doha]\nEstaba investigando en el lugar donde se supone que ocurrió el ataque cuando me encontré con un gato. Bueno... No sé de qué otra forma podría llamarlos."
     },
     "7YI7": {
         "en-US": "[Doha]\nBut it turns out, I was lucky to meet this cat.\nBecause he turned out to be a witness to the case.",
@@ -722,12 +722,12 @@
     "8II7": {
         "en-US": "[Doha]\nSigh...\nHe did witness the case but the description I got was...\nsuspicious at best.",
         "pt-BR": "[Doha]\nBem...\nEle disse que sim, mas a sua descrição do criminoso...\nNão sei se posso confiar nele.",
-        "es-ES": "[Doha]\n*Suspira*\nSí fue testigo del ataque, pero la descripción que me dio fue…\nsospechosa, en el mejor de los casos."
+        "es-ES": "[Doha]\n*Suspira*\nSí fue testigo del ataque, pero la descripción que me dio fue...\nsospechosa, en el mejor de los casos."
     },
     "8YI7": {
         "en-US": "[Doha]\nWell... the cat said in his own words, 'the guy you're looking for might be one of us because he was very agile and quick.'",
         "pt-BR": "[Doha]\nBasicamente, ele disse",
-        "es-ES": "[Doha]\nBueno… el gato dijo en sus propias palabras: El tipo que estás buscando podría ser uno de nosotros porque era muy ágil y rápido."
+        "es-ES": "[Doha]\nBueno... el gato dijo en sus propias palabras: El tipo que estás buscando podría ser uno de nosotros porque era muy ágil y rápido."
     },
     "8oI7": {
         "en-US": "Same race? A cat?",
@@ -742,7 +742,7 @@
     "9II7": {
         "en-US": "[Doha]\nHmm... my throat is sore from talking too much.\nLet's continue later after I get some rest.\nI think I need a cup of water.",
         "pt-BR": "[Doha]\nEstou com a garganta seca de tanto falar.\nVamos fazer uma pausa.\nQuero um copo de água.",
-        "es-ES": "[Doha]\nMmm… me duele la garganta de tanto hablar.\nDescansemos un poco y continuemos después.\nCreo que necesito un vaso de agua."
+        "es-ES": "[Doha]\nMmm... me duele la garganta de tanto hablar.\nDescansemos un poco y continuemos después.\nCreo que necesito un vaso de agua."
     },
     "9YI7": {
         "en-US": "[Doha]\nThank you.\nI'm a little tired now.\nI hope to see you next time.",
@@ -752,7 +752,7 @@
     "9oI7": {
         "en-US": "[Doha]\nWow.... they say this is the water melted from the snow from the snowy fields.\nVery refreshing, don't you agree?\n....",
         "pt-BR": "[Doha]\nAh, isso é neve derretida e purificada do campo de neve.\nNão tem gosto ruim.\n...",
-        "es-ES": "[Doha]\nVaya… dicen que es el agua derretida de la nieve de los campos nevados.\nMuy refrescante, ¿no te parece?\n…"
+        "es-ES": "[Doha]\nVaya... dicen que es el agua derretida de la nieve de los campos nevados.\nMuy refrescante, ¿no te parece?\n..."
     },
     "94I7": {
         "en-US": "[Doha]\nThen back to the story.\nSo I asked why the cat thought it was his own kind.",
@@ -787,7 +787,7 @@
     "/YI7": {
         "en-US": "[Doha]\nAre you talking about the Kitty Band that was popular in Prontera?\nIf a full grown male was wearing one of those... and also a tail?",
         "pt-BR": "[Doha]\nEstá falando como o Chapéu de Gato que já foi popular em Prontera?\nNão consigo imaginar um homem adulto usando um chapéu tão peculiar com uma cauda falsa.",
-        "es-ES": "[Doha]\n¿Te refieres a la Banda de gato que estaba de moda en Prontera?\nImagina si un hombre adulto llevara una de esas… y también una cola."
+        "es-ES": "[Doha]\n¿Te refieres a la Banda de gato que estaba de moda en Prontera?\nImagina si un hombre adulto llevara una de esas... y también una cola."
     },
     "/oI7": {
         "en-US": "Was he in disguise?",
@@ -797,12 +797,12 @@
     "/4I7": {
         "en-US": "To each their own...",
         "pt-BR": "Não devemos julgar seu estilo, por mais que seja bizarro.",
-        "es-ES": "Pues cada quien con lo suyo…"
+        "es-ES": "Pues cada quien con lo suyo..."
     },
     "AIM7": {
         "en-US": "[Doha]\nHe had to be...\nI think one of the countries is behind this.\nI honestly think both the Sapha and Laphine won't get anything out of this.",
         "pt-BR": "[Doha]\nConcordo.\nSei que um dos três estados está por trás do ataque.\nMas o ataque não beneficia os Manuks nem os Laphines.",
-        "es-ES": "[Doha]\nSeguramente…\nCreo que uno de los países está detrás de esto.\nA decir verdad, creo que ni los sapha ni los laphine sacarán algo de esto."
+        "es-ES": "[Doha]\nSeguramente...\nCreo que uno de los países está detrás de esto.\nA decir verdad, creo que ni los sapha ni los laphine sacarán algo de esto."
     },
     "AYM7": {
         "en-US": "[Doha]\nI guess the only way to hide where you're from is with a disguise right?\nDisguised as a cat, that is!",
@@ -812,12 +812,12 @@
     "AoM7": {
         "en-US": "[Doha]\n....................\n............Of course\ndifferent tastes should be respected.",
         "pt-BR": "[Doha]\n...\nNão estou tentando\ndiscriminá-lo com base no seu estilo de se vestir.",
-        "es-ES": "[Doha]\n…………………\n…Por supuesto,\nhay que respetar los diferentes gustos."
+        "es-ES": "[Doha]\n.....................\n...Por supuesto,\nhay que respetar los diferentes gustos."
     },
     "A4M7": {
         "en-US": "[Doha]\n....Ahem.\nMy conclusion is\nSomeone disguised themselves ridiculously in order to hide where they came from!",
         "pt-BR": "[Doha]\n...Aham.\nIsso é o que eu acho:\nalguém se esforçou muito para esconder sua origem.",
-        "es-ES": "[Doha]\n…Ejem.\nMi conclusión es que\n¡alguien usó un disfraz ridículo para ocultar de dónde venía!"
+        "es-ES": "[Doha]\n...Ejem.\nMi conclusión es que\n¡alguien usó un disfraz ridículo para ocultar de dónde venía!"
     },
     "BIM7": {
         "en-US": "[Doha]\nSo what we need to do now\nis find a guy with cat ears.\nBut I'm not so sure he will\nhave them on him now.",
@@ -887,7 +887,7 @@
     "EYM7": {
         "en-US": "[Doha]\nHmm..\nI actually gave the same mission to all the other people heading for El Dicastes.",
         "pt-BR": "[Doha]\n...Entendo.\nEu dei a mesma tarefa para outros integrantes da expedição enviados para El Dicastes.",
-        "es-ES": "[Doha]\nMmm…\nEn realidad, le di la misma misión a todas las personas que se dirigían a El Dicastes."
+        "es-ES": "[Doha]\nMmm...\nEn realidad, le di la misma misión a todas las personas que se dirigían a El Dicastes."
     },
     "EoM7": {
         "en-US": "[Doha]\nThey have all brought information based on assumptions.\nMeaning your evidence is not much different from the others.",
@@ -912,7 +912,7 @@
     "FoM7": {
         "en-US": "[Doha]\n....\nSapha and Laphine, which ever.\nI have something more urgent.",
         "pt-BR": "[Doha]\n...\nOs Manuks e Laphines podem esperar.\nTenho um problema mais urgente em mãos.",
-        "es-ES": "[Doha]\n…\nSea sapha o laphine, me da igual.\nTengo algo más urgente que hacer."
+        "es-ES": "[Doha]\n...\nSea sapha o laphine, me da igual.\nTengo algo más urgente que hacer."
     },
     "F4M7": {
         "en-US": "Can you repeat that?",
@@ -922,7 +922,7 @@
     "GIM7": {
         "en-US": "[Doha]\n..? \nI didn't say a thing.\nI guess you heard wrong.\nWill you leave now? Because I have to organize a report.",
         "pt-BR": "[Doha]\n...? \nNão, não disse.\nVocê deve ter ouvido outra coisa.\nCom licença, tenho um relatório para redigir.",
-        "es-ES": "[Doha]\n¿…? \nNo dije nada.\nCreo que escuchaste mal.\n¿Te puedes ir ya? Tengo que preparar un informe."
+        "es-ES": "[Doha]\n¿...? \nNo dije nada.\nCreo que escuchaste mal.\n¿Te puedes ir ya? Tengo que preparar un informe."
     },
     "GYM7": {
         "en-US": "You are missing evidence to submit with your report:\nClotted Bloodstain, Piece of Frozen Skin, Strange Magic Stone.\nYou will have to collect the items again.",
@@ -1012,7 +1012,7 @@
     "KoM7": {
         "en-US": "[Avalanche]\nOh.. You have the Light of El Dicastes.\nit would be helpful for your travel.",
         "pt-BR": "[Avalanche]\nOh, você recebeu a Luz de Dicastes.\nEla será útil em sua jornada.",
-        "es-ES": "[Avalanche]\nAh… Tienes la Luz de El Dicastes.\nTe será útil en tu viaje."
+        "es-ES": "[Avalanche]\nAh... Tienes la Luz de El Dicastes.\nTe será útil en tu viaje."
     },
     "K4M7": {
         "en-US": "[Avalanche]\nThe path to the capital city was previously a mine.\nso we have reports of wild monsters appearing although the tunnel is well maintained.",
@@ -1022,7 +1022,7 @@
     "LIM7": {
         "en-US": "[Avalanche]\nAlways take care of yourself at all times.\nHaha.. but then you humans are very strong.",
         "pt-BR": "[Avalanche]\nEstamos de olho neles para a segurança dos viajantes, mas...\nHa ha, o que estou falando? Vocês todos têm cara de quem pode se cuidar sozinho.",
-        "es-ES": "[Avalanche]\nDebes tener cuidado en todo momento.\nJa, ja… Sin embargo, ustedes, los humanos, son muy fuertes."
+        "es-ES": "[Avalanche]\nDebes tener cuidado en todo momento.\nJa, ja... Sin embargo, ustedes, los humanos, son muy fuertes."
     },
     "LYM7": {
         "en-US": "Entrance Manager",
@@ -1072,7 +1072,7 @@
     "NoM7": {
         "en-US": "[Capital City Guard]\nXXXXXXXXXX...\nXXXXXX?\nXXX..?",
         "pt-BR": "[Guarda da Capital]\n??? ? ???\n??\n??? ? ??? ? ?",
-        "es-ES": "[Guardia de la Capital]\nXXXXXXXXXX…\n¿XXXXXX?\n¿XXX?"
+        "es-ES": "[Guardia de la Capital]\nXXXXXXXXXX...\n¿XXXXXX?\n¿XXX?"
     },
     "N4M7": {
         "en-US": "Cannot communicate with him.",
@@ -1152,7 +1152,7 @@
     "RoM7": {
         "en-US": "[Clerk Knit]\nXXXXXXXXXXXX...?\nXXX ... XXXXXXXXXXXX...",
         "pt-BR": "[Processor Nit]\n??? ? ??? ? ?...?\n??? ... ? ??? ? ???...",
-        "es-ES": "[Dependiente knit]\n¿XXXXXXXXXXX…?\nXXX… XXXXXXXXXXXX…"
+        "es-ES": "[Dependiente knit]\n¿XXXXXXXXXXX...?\nXXX... XXXXXXXXXXXX..."
     },
     "R4M7": {
         "en-US": "[Clerk Rhawyne]\nHow can I help you?",
@@ -1202,7 +1202,7 @@
     "UIM7": {
         "en-US": "[Clerk Rhawyne]\nYes... {0}...\nI found it.\nWelcome to El Dicastes.",
         "pt-BR": "[Aventureiro Escrivão]\nCerto. {0}...\nEncontrei você.\nSeja bem-vindo a El Dicastes.",
-        "es-ES": "[Dependiente Rhawyne]\nSí… {0}…\nLo encontré.\nTe damos la bienvenida a El Dicastes."
+        "es-ES": "[Dependiente Rhawyne]\nSí... {0}...\nLo encontré.\nTe damos la bienvenida a El Dicastes."
     },
     "UYM7": {
         "en-US": "[Clerk Rhawyne]\nYou will be treated the same as other Saphas here. Allowed to do as you wish and can have contracts with official requests from Dicastes.",
@@ -1217,7 +1217,7 @@
     "U4M7": {
         "en-US": "[Clerk Rhawyne]\nThere is a special place for humans located beneath the residential area of Pioms.\nIt is called in your language...\na pub. Hope you get to visit there.",
         "pt-BR": "[Aventureiro Escrivão]\nUm espaço especial foi preparado para você no porão do Enclave Peom.\nNa sua língua, esse lugar se chama...\ntaverna. Dê uma olhada.",
-        "es-ES": "[Dependiente Rhawyne]\nDebajo de la zona residencial de los pioms, hay un lugar especial para los humanos.\nEn tu idioma, lo llaman…\nbar. Espero que puedas visitarlo."
+        "es-ES": "[Dependiente Rhawyne]\nDebajo de la zona residencial de los pioms, hay un lugar especial para los humanos.\nEn tu idioma, lo llaman...\nbar. Espero que puedas visitarlo."
     },
     "VIM7": {
         "en-US": "[Clerk Rhawyne]\nStrange.\nAren't you already registered?\nI see your name in the records.",
@@ -1377,7 +1377,7 @@
     "c4M7": {
         "en-US": "[Clerk Rhawyne]\nIf you want to meet Ahat..well.\nHe is really good at his work but is very shy of strangers..",
         "pt-BR": "[Aventureiro Escrivão]\nO senhor Ahat é uma celebridade por direito.\nGeralmente, ele está confinado em seu escritório, trabalhando...",
-        "es-ES": "[Dependiente Rhawyne]\nSi quieres conocer a Ahat… bueno.\nHace muy bien su trabajo, pero siente timidez con los extraños…"
+        "es-ES": "[Dependiente Rhawyne]\nSi quieres conocer a Ahat... bueno.\nHace muy bien su trabajo, pero siente timidez con los extraños..."
     },
     "dIM7": {
         "en-US": "[Clerk Rhawyne]\nHe doesn't like to be in places where a lot of people are gathered.\nThat is why we barely see him.",
@@ -1412,7 +1412,7 @@
     "eoM7": {
         "en-US": "Welcome to Burman Flone...",
         "pt-BR": "...Berman Flowne.",
-        "es-ES": "Te damos la bienvenida a Burman Flone…"
+        "es-ES": "Te damos la bienvenida a Burman Flone..."
     },
     "e4M7": {
         "en-US": "Whatcha want?",
@@ -1487,7 +1487,7 @@
     "iYM7": {
         "en-US": "[Shay]\nHere.. \n......Hmmm...\nNah.",
         "pt-BR": "[Shai]\nQuer dizer, aqui? \nNão.\nDesculpe.",
-        "es-ES": "[Shay]\nAquí tienes… \nMmmm…\nNa."
+        "es-ES": "[Shay]\nAquí tienes... \nMmmm...\nNa."
     },
     "ioM7": {
         "en-US": "[Shay]\nIf you haven't registered at Diel yet, you better do it soon.\nThat is the only way to start receiving requests and guarantee your safety here.",
@@ -1527,7 +1527,7 @@
     "kYM7": {
         "en-US": "....Hmm..",
         "pt-BR": "Humpf.",
-        "es-ES": "Mmm…"
+        "es-ES": "Mmm..."
     },
     "koM7": {
         "en-US": "[Shay]\nMe?\nIf you are asking about my name, it is written on my badge here.\nIt's Shay.",
@@ -1562,12 +1562,12 @@
     "mIM7": {
         "en-US": "[Shay]\nSo the framework and style,\narchitect was brought in..\nand then I found myself managing the whole project?",
         "pt-BR": "[Shai]\nEntão, convidei um arquiteto\ne mandei ele construir esta taverna midgardesca.\nFiquei muito envolvido no processo de construção.",
-        "es-ES": "[Shay]\nAsí que, una vez que definieron la estructura y el estilo,\ntrajeron a un arquitecto…\ny luego me encontré dirigiendo todo el proyecto."
+        "es-ES": "[Shay]\nAsí que, una vez que definieron la estructura y el estilo,\ntrajeron a un arquitecto...\ny luego me encontré dirigiendo todo el proyecto."
     },
     "mYM7": {
         "en-US": "[Shay]\nAnd...\nthat is how I got here.\nI've been here ever since!",
         "pt-BR": "[Shai]\n...Então\nfoi isso que aconteceu\ne agora estou preso aqui.",
-        "es-ES": "[Shay]\nY…\nasí es como llegué aquí.\n¡Y he estado aquí desde entonces!"
+        "es-ES": "[Shay]\nY...\nasí es como llegué aquí.\n¡Y he estado aquí desde entonces!"
     },
     "moM7": {
         "en-US": "[Shay]\nI don't remember what my original job was.\nLittle rusty on the Katar, I guess...",
@@ -1582,7 +1582,7 @@
     "nIM7": {
         "en-US": "[Shay]\nSapha?\nYou are surrounded by Saphas.\n......",
         "pt-BR": "[Shai]\n???\nVocê está na cidade deles.\n...",
-        "es-ES": "[Shay]\n¿Sobre los sapha?\nEstás en la tierra de los saphas.\n……"
+        "es-ES": "[Shay]\n¿Sobre los sapha?\nEstás en la tierra de los saphas.\n......"
     },
     "nYM7": {
         "en-US": "[Shay]\nWhat are you asking me?\nJust ask any Sapha passing by.\nAsk 'what are you'.",
@@ -1617,7 +1617,7 @@
     "o4M7": {
         "en-US": "[Shay]\nWell... bigger than them?\nNot sure. Haven't heard of it.\nWhy don't you ask the\n^4D4DFFSapha around here?^000000",
         "pt-BR": "[Shai]\nMaior do que a maioria deles?\nEu não sei.\nPor que você não ^4D4DFFpergunta aos Manuks?^000000",
-        "es-ES": "[Shay]\nBueno… ¿más grande que ese?\nNo estoy seguro. No he oído hablar sobre eso.\n¿Por qué no les preguntas a los\n^4D4DFFsapha de por aquí?^000000"
+        "es-ES": "[Shay]\nBueno... ¿más grande que ese?\nNo estoy seguro. No he oído hablar sobre eso.\n¿Por qué no les preguntas a los\n^4D4DFFsapha de por aquí?^000000"
     },
     "pIM7": {
         "en-US": "[Shay]\nButterfly wings? Are you talking about Laphine?\nDon't know them?\nYou really know nothing.",
@@ -1632,7 +1632,7 @@
     "poM7": {
         "en-US": "[Shay]\nWhat...\nI'm not that busy but don't bother me too much.",
         "pt-BR": "[Shai]\nO quê? \nNão posso dizer que estou ocupado, mas eu não gosto de ser chamado quando não sou necessário.",
-        "es-ES": "[Shay]\nQué…\nNo estoy tan ocupado, pero no me molestes demasiado."
+        "es-ES": "[Shay]\nQué...\nNo estoy tan ocupado, pero no me molestes demasiado."
     },
     "p4M7": {
         "en-US": "[Shay]\nWhat is it now?\nAny luck?",
@@ -1682,7 +1682,7 @@
     "sIM7": {
         "en-US": "[{0}]\nMoan...",
         "pt-BR": "[{0}]\nBah...",
-        "es-ES": "[{0}]\nAhhh…"
+        "es-ES": "[{0}]\nAhhh..."
     },
     "sYM7": {
         "en-US": "[Shay]\nYou look lost as if nothing makes sense anymore.\nThe solution is simply to ask around.",
@@ -1707,7 +1707,7 @@
     "tYM7": {
         "en-US": "[Shay]\nAnyway...\nTry this.\nI've been working on this for some time and hope that this can go on the menu.",
         "pt-BR": "[Shai]\nDe qualquer forma,\nprove isso.\nÉ uma receita nova que estou experimentando. Quero ver se ficou bom.",
-        "es-ES": "[Shay]\nEn fin…\nPrueba esto.\nLlevo tiempo trabajando en esto. Espero poder agregarlo al menú."
+        "es-ES": "[Shay]\nEn fin...\nPrueba esto.\nLlevo tiempo trabajando en esto. Espero poder agregarlo al menú."
     },
     "toM7": {
         "en-US": "- Shay places a baked pie with the base made out of carrots.\nTopped with something that looks like apples or bananas.\nYou immediately think it is too risky to try.",
@@ -1717,7 +1717,7 @@
     "t4M7": {
         "en-US": "The minced ingredient is...",
         "pt-BR": "Essas fatias são de quê?",
-        "es-ES": "El ingrediente picado es…"
+        "es-ES": "El ingrediente picado es..."
     },
     "uIM7": {
         "en-US": "[Shay]\nAn apple pie.\nI garnished it with bananas.\nDoesn't look like it but this is an apple pie.",
@@ -1742,17 +1742,17 @@
     "vIM7": {
         "en-US": "[Shay]\nOops.. umph.. hmph...\nPhew... sigh...\n...........",
         "pt-BR": "[Shai]\nHumpf...\nGrr...\n...",
-        "es-ES": "[Shay]\nUps… Uf… Mmm…\nUf… Ay…\n…………"
+        "es-ES": "[Shay]\nUps... Uf... Mmm...\nUf... Ay...\n............"
     },
     "vYM7": {
         "en-US": "[Shay]\nS...Sorry. Aello told me to help you but..\n.......\nI couldn't help myself.",
         "pt-BR": "[Shai]\nDesculpe-me. Aello pediu para que eu cuidasse de você.\n...\nNão era a minha intenção.",
-        "es-ES": "[Shay]\nL-Lo siento. Aello me dijo que te ayudara, pero…\n……\nNo pude evitarlo."
+        "es-ES": "[Shay]\nL-Lo siento. Aello me dijo que te ayudara, pero...\n......\nNo pude evitarlo."
     },
     "voM7": {
         "en-US": "[Shay]\nHa.. there is a cat named BK among the Cat Merchants.\nHe might have the information you want.\n... Go.. meet BK.",
         "pt-BR": "[Shai]\nSuspira. Um integrante da Pata de Gato se chama B. K.\nTalvez ele tenha informações para você.\nVá falar com ele.",
-        "es-ES": "[Shay]\nEntre los gatos comerciantes, hay un gato llamado BK.\nPodría tener la información que buscas.\n… Ve a buscar a BK."
+        "es-ES": "[Shay]\nEntre los gatos comerciantes, hay un gato llamado BK.\nPodría tener la información que buscas.\n... Ve a buscar a BK."
     },
     "v4M7": {
         "en-US": "[Shay]\nAnd if he ignores you, tell him that ^4D4DFFShay's special drink will be delivered^000000.",
@@ -1792,7 +1792,7 @@
     "xoM7": {
         "en-US": "[Shay]\nI guess it makes sense that there's a dimensional crack here too...\nSounds like what happened at Morroc.",
         "pt-BR": "[Shai]\nAh, a Fissura.\nParece que nunca consigo me livrar\ndaquele lugar maldito.",
-        "es-ES": "[Shay]\nSupongo que tiene sentido que aquí también haya una brecha dimensional…\nSe parece a lo que pasó en Morroc."
+        "es-ES": "[Shay]\nSupongo que tiene sentido que aquí también haya una brecha dimensional...\nSe parece a lo que pasó en Morroc."
     },
     "x4M7": {
         "en-US": "[Shay]\nIt is always better to go to the site.\nBecause it is difficult to meet the minister.",
@@ -1837,7 +1837,7 @@
     "z4M7": {
         "en-US": "[Shay]\nI didn't expect this.\nThen who is Ahat...?\n...I smell something fishy.",
         "pt-BR": "[Shai]\nEssa é uma reviravolta inesperada.\nQuem é esse tal Ahat na verdade?\nHá algo errado.",
-        "es-ES": "[Shay]\nEsto no me lo esperaba.\nEntonces, ¿quién es Ahat?\n…Algo me huele mal."
+        "es-ES": "[Shay]\nEsto no me lo esperaba.\nEntonces, ¿quién es Ahat?\n...Algo me huele mal."
     },
     "0IM7": {
         "en-US": "[Shay]\nI don't know since I haven't\nseen Ahat in person but\nwe must find out what\nall this means.",
@@ -1862,7 +1862,7 @@
     "1IM7": {
         "en-US": "[Shay]\nYou can't just waltz in on him.\nIt's even harder for outsiders\nlike us to meet him.\nHm...",
         "pt-BR": "[Shai]\nNão é fácil encontrá-lo pessoalmente.\nEspecialmente para Outros como nós.\nHum...",
-        "es-ES": "[Shay]\nNo puedes presentarte a verlo así como así.\nPara los extraños como nosotros es\naún más difícil conocerlo.\nMmm…"
+        "es-ES": "[Shay]\nNo puedes presentarte a verlo así como así.\nPara los extraños como nosotros es\naún más difícil conocerlo.\nMmm..."
     },
     "1YM7": {
         "en-US": "[Shay]\nWe can try collecting\nSapha Certifications.\nThose who did great deeds get the opportunity to meet the minister.",
@@ -1897,7 +1897,7 @@
     "24M7": {
         "en-US": "[Shay]\n................\nDo you think I'm that free?\nI'm not the one receiving requests, I'm the one that makes the requests!",
         "pt-BR": "[Shai]\n...\nDiferente de você, tenho trabalho a fazer.\nEu não recebo missões, eu as distribuo!",
-        "es-ES": "[Shay]\n……………\n¿Acaso crees que tengo tanto tiempo libre?\nYo no soy el que recibe solicitudes, ¡yo soy el que las hace!"
+        "es-ES": "[Shay]\n...............\n¿Acaso crees que tengo tanto tiempo libre?\nYo no soy el que recibe solicitudes, ¡yo soy el que las hace!"
     },
     "3IM7": {
         "en-US": "[Shay]\nThink of what you have to do.\nMeet Ahat by collecting\nSapha Certifications.\nThen find doubt about his relationship between him and the crack.",
@@ -1927,7 +1927,7 @@
     "4YM7": {
         "en-US": "Oh..no..",
         "pt-BR": "Não, por favor...",
-        "es-ES": "Oh… No…"
+        "es-ES": "Oh... No..."
     },
     "4oM7": {
         "en-US": "[Shay]\nWhen I was in Morroc.\nA colleague from the guild used to make chocolate stuff you see?\nI thought it would be simple since he was making it.",
@@ -1937,7 +1937,7 @@
     "44M7": {
         "en-US": "So.....",
         "pt-BR": "Mas você é... Quero dizer...",
-        "es-ES": "Así que……"
+        "es-ES": "Así que......"
     },
     "5IM7": {
         "en-US": "[Shay]\nWait till you taste it.\nNow, get going.",
@@ -1957,12 +1957,12 @@
     "54M7": {
         "en-US": "Beautiful...",
         "pt-BR": "Não há palavras para descrever sua beleza.",
-        "es-ES": "Tiene una belleza…"
+        "es-ES": "Tiene una belleza..."
     },
     "6IM7": {
         "en-US": "[Shay]\nSo... how strange.\nWas it bad or good?\nNo, that isn't important. Try to remember what you were there for.",
         "pt-BR": "[Shai]\nO que quer dizer?\nEle é amigável ou não?\nBem, isso não importa. Lembre-se de que você o conheceu por um motivo.",
-        "es-ES": "[Shay]\nBueno… es extraño.\n¿Fue bueno o malo?\nNo, eso no es lo importante. Intenta recordar para qué estabas allí."
+        "es-ES": "[Shay]\nBueno... es extraño.\n¿Fue bueno o malo?\nNo, eso no es lo importante. Intenta recordar para qué estabas allí."
     },
     "6YM7": {
         "en-US": "[Shay]\nHuh? Really?\nYou can tell the beauty even if the race is different.\nDo your job instead of dreaming about his appearance.",
@@ -1972,7 +1972,7 @@
     "6oM7": {
         "en-US": "[Shay]\nHmm...\nClearing the area?\nSounds weird.\nSomething smells fishy.",
         "pt-BR": "[Shai]\nHum...\nLimpando o perímetro da Fissura?\nPor que ele lhe pediria isso?\nTem algo errado nisso.",
-        "es-ES": "[Shay]\nMmm…\n¿Despejando la zona?\nSuena raro.\nAlgo huele mal."
+        "es-ES": "[Shay]\nMmm...\n¿Despejando la zona?\nSuena raro.\nAlgo huele mal."
     },
     "64M7": {
         "en-US": "[Shay]\nDon't forget to bring back evidence.\nAnd to pretend you are hypnotized.\nGood. This is our secret.",
@@ -2022,7 +2022,7 @@
     "9IM7": {
         "en-US": "[Shay]\nReally?\nGood for you.\n.....\nMission. Haven't heard that word for ages.",
         "pt-BR": "[Shai]\nÉ?\nBom pra você.\n...\nMissão cumprida. Há séculos que eu não dizia isso.",
-        "es-ES": "[Shay]\n¿De verdad?\nMe alegro por ti.\n……\nMisión. Hace muchos años que no escuchaba esa palabra."
+        "es-ES": "[Shay]\n¿De verdad?\nMe alegro por ti.\n......\nMisión. Hace muchos años que no escuchaba esa palabra."
     },
     "9YM7": {
         "en-US": "[Shay]\nNow go.\nI'm busy.\nNew ingredients are coming in today.\nGo now.",
@@ -2037,12 +2037,12 @@
     "94M7": {
         "en-US": "Ah, that is um...",
         "pt-BR": "Hmm, está...",
-        "es-ES": "Ah, eso es… am…"
+        "es-ES": "Ah, eso es... am..."
     },
     "+IM7": {
         "en-US": "[Shay]\nHuh? Get lost.\nUngrateful....",
         "pt-BR": "[Shai]\nEntão caia fora!\nSeu ingrato!",
-        "es-ES": "[Shay]\n¿Eh? Sal de aquí.\nDesagradecido…"
+        "es-ES": "[Shay]\n¿Eh? Sal de aquí.\nDesagradecido..."
     },
     "+YM7": {
         "en-US": "[Shay]\nWhat do you want?",
@@ -2057,7 +2057,7 @@
     "+4M7": {
         "en-US": "Nope..",
         "pt-BR": "Não...",
-        "es-ES": "No…"
+        "es-ES": "No..."
     },
     "/IM7": {
         "en-US": "[Shay]\nNo, I told you my story before.\nBut since you have bad memory, I'll tell you again.",
@@ -2082,12 +2082,12 @@
     "AIQ7": {
         "en-US": "[Shay]\nWhat did you bring here now?\n.........\nWhat? No?",
         "pt-BR": "[Shai]\nQue tipo de problema você tem agora?\n...\nNão?",
-        "es-ES": "[Shay]\n¿Qué trajiste ahora?\n………\n¿Qué? ¿No?"
+        "es-ES": "[Shay]\n¿Qué trajiste ahora?\n.........\n¿Qué? ¿No?"
     },
     "AYQ7": {
         "en-US": "[Shay]\nTsk.... boring.",
         "pt-BR": "[Shai]\nBah, que decepção.",
-        "es-ES": "[Shay]\nPf… aburrido."
+        "es-ES": "[Shay]\nPf... aburrido."
     },
     "AoQ7": {
         "en-US": "[Shay]\nWhy is strawberry chocolate so difficult to make?\nWhy is my chocolate falling apart?",
@@ -2102,7 +2102,7 @@
     "BIQ7": {
         "en-US": "[Shay]\nHow did my colleague make this?!\n............\nDo girls like this?",
         "pt-BR": "[Shai]\nQuando Zicklin fazia, parecia tão fácil.\n...\nAs mulheres gostam mesmo de coisas de chocolate?",
-        "es-ES": "[Shay]\n¡¿Cómo logró hacerlo mi colega?!\n………\n¿A las chicas les gusta esto?"
+        "es-ES": "[Shay]\n¡¿Cómo logró hacerlo mi colega?!\n.........\n¿A las chicas les gusta esto?"
     },
     "BYQ7": {
         "en-US": "They normally do like homemade chocolate.",
@@ -2117,12 +2117,12 @@
     "B4Q7": {
         "en-US": "[Shay]\nI see.\nSo...\nAre you married?",
         "pt-BR": "[Shai]\nEntendo.\nDeve ser por isso \nque você se casou tão jovem.",
-        "es-ES": "[Shay]\nYa veo.\nAsí que…\n¿Estás casado?"
+        "es-ES": "[Shay]\nYa veo.\nAsí que...\n¿Estás casado?"
     },
     "CIQ7": {
         "en-US": "[Shay]\nYou're alone, right?\n....\nSorry.\nWe're in the same boat.",
         "pt-BR": "[Shai]\nVocê ainda está solteiro, não está?\n...\nDesculpe.\nNão seja assim.",
-        "es-ES": "[Shay]\nNo tienes pareja, ¿verdad?\n…\nLo siento.\nEstamos iguales."
+        "es-ES": "[Shay]\nNo tienes pareja, ¿verdad?\n...\nLo siento.\nEstamos iguales."
     },
     "CYQ7": {
         "en-US": "[Shay]\nSuit yourself.",
@@ -2162,7 +2162,7 @@
     "EIQ7": {
         "en-US": "[Knit]\nAnd then the cats..\nAh, did you see the group of cats in front of the castle?\nThey are really soft and cuddly unlike us.",
         "pt-BR": "[Nit]\nE os gatos...\nAh, você viu aqueles gatos?\nEles são cobertos de pelo macio, diferente de nossas peles grossas.",
-        "es-ES": "[Knit]\nY también están los gatos…\nAh, ¿viste el grupo de gatos delante del castillo?\nA diferencia de nosotros, son muy suaves y adorables."
+        "es-ES": "[Knit]\nY también están los gatos...\nAh, ¿viste el grupo de gatos delante del castillo?\nA diferencia de nosotros, son muy suaves y adorables."
     },
     "EYQ7": {
         "en-US": "[Knit]\nAnd especially their ears and tail!!",
@@ -2182,17 +2182,17 @@
     "FIQ7": {
         "en-US": "[Knit]\nHumans are amazing!\nDidn't even think of that...!\n.....",
         "pt-BR": "[Nit]\nUau, é possível fazer isso,\ngrudar orelhas de gato em você mesmo?\n...",
-        "es-ES": "[Knit]\n¡Los humanos son increíbles!\n¡Jamás se me habría ocurrido algo así…!\n……"
+        "es-ES": "[Knit]\n¡Los humanos son increíbles!\n¡Jamás se me habría ocurrido algo así...!\n......"
     },
     "FYQ7": {
         "en-US": "[Knit]\nBut they are really lovely.\nThose cute cats..",
         "pt-BR": "[Nit]\nDe qualquer modo, eu adoro os gatos.\nEles são criaturas lindas.",
-        "es-ES": "[Knit]\nPero, de verdad, son muy encantadores.\nEsos adorables gatitos…"
+        "es-ES": "[Knit]\nPero, de verdad, son muy encantadores.\nEsos adorables gatitos..."
     },
     "FoQ7": {
         "en-US": "[Knit]\nBut Ahat is also loveable even for a Sapha.\n....if my hair is like a dry winter tree..\nAhat's hair is like new sprouts in early spring.....",
         "pt-BR": "[Nit]\nIsso me lembra como eles são parecidos com o senhor Ahat, mesmo ele sendo um de nós.\nEnquanto os ramos de minha cabeça são secos, enfraquecidos pelos ventos do inverno,\nos de Ahat são verdes e exuberantes, como brotos na primavera.",
-        "es-ES": "[Knit]\nSin embargo, Ahat también es adorable, a pesar de ser sapha.\nSi mi cabello es como un árbol seco en pleno invierno,\nel cabello de Ahat es como los primeros brotes en primavera…"
+        "es-ES": "[Knit]\nSin embargo, Ahat también es adorable, a pesar de ser sapha.\nSi mi cabello es como un árbol seco en pleno invierno,\nel cabello de Ahat es como los primeros brotes en primavera..."
     },
     "F4Q7": {
         "en-US": "[Knit]\nI can't believe how he does his work for Dicastes and still maintains such great hair.\nI can almost see a glow.",
@@ -2217,12 +2217,12 @@
     "G4Q7": {
         "en-US": "[Knit]\nThey are really lovely.\nThose cute cats..",
         "pt-BR": "[Nit]\nEu adoro os gatos.\nEles são criaturas lindas.",
-        "es-ES": "[Knit]\nSon realmente encantadores.\nEsos adorables gatitos…"
+        "es-ES": "[Knit]\nSon realmente encantadores.\nEsos adorables gatitos..."
     },
     "HIQ7": {
         "en-US": "[Knit]\nAh.. I'm so jealous, envious..",
         "pt-BR": "[Nit]\nAh, tenho tanta inveja.",
-        "es-ES": "[Knit]\nAh… Siento muchos celos, qué envidia…"
+        "es-ES": "[Knit]\nAh... Siento muchos celos, qué envidia..."
     },
     "HYQ7": {
         "en-US": "[Knit]\nAs you can see, I'm taking a walk.\nI should walk from time to time to prevent myself from getting stiff.\nI really don't like to get stiff.",
@@ -2232,12 +2232,12 @@
     "HoQ7": {
         "en-US": "[Knit]\nDon't you think cats are amazing.\nI heard from where you came from, you have pets..",
         "pt-BR": "[Nit]\nAqueles gatos são fascinantes.\nOuvi dizer que os humanos costumam criá-los como mascotes.",
-        "es-ES": "[Knit]\n¿No crees que los gatos son increíbles?\nEscuché que, de donde vienes, las personas tienen mascotas…"
+        "es-ES": "[Knit]\n¿No crees que los gatos son increíbles?\nEscuché que, de donde vienes, las personas tienen mascotas..."
     },
     "H4Q7": {
         "en-US": "[Knit]\nIs it okay to raise other creatures?\nDo they want that?\nIt's a difficult issue..",
         "pt-BR": "[Nit]\nÉ permitido criar outras raças como mascotes?\nEles querem ser mascotes?\nÉ complicado.",
-        "es-ES": "[Knit]\n¿Está bien criar a otras criaturas?\n¿A ellos les gusta eso?\nEs un tema complicado…"
+        "es-ES": "[Knit]\n¿Está bien criar a otras criaturas?\n¿A ellos les gusta eso?\nEs un tema complicado..."
     },
     "IIQ7": {
         "en-US": "Resting Piom",
@@ -2252,7 +2252,7 @@
     "IoQ7": {
         "en-US": "[Piom]\nPhew.. I need to rest.\nHuh? You're... human!\nWhy are you here?",
         "pt-BR": "[Peom]\nAh, preciso de uma pausa.\nOh, você é um humano.\nO que lhe traz aqui?",
-        "es-ES": "[Piom]\nFiu… Necesito descansar.\n¿Eh? Eres… ¡de la raza humana!\n¿A qué viniste?"
+        "es-ES": "[Piom]\nFiu... Necesito descansar.\n¿Eh? Eres... ¡de la raza humana!\n¿A qué viniste?"
     },
     "I4Q7": {
         "en-US": "Ask about human with cat ears.",
@@ -2267,7 +2267,7 @@
     "JYQ7": {
         "en-US": "[Piom]\nHaha.. ... funny.\nHuman with cat ears?\nNever heard of such thing.\nBut you seem to be new around here.",
         "pt-BR": "[Peom]\nAh, isso é tão engraçado!\nUm humano com orelhas de gato. Nunca ouvi falar disso.\nDeve ser novidade.",
-        "es-ES": "[Piom]\nJa, ja… qué gracioso.\n¿Un humano con orejas de gato?\nJamás había escuchado tal cosa.\nAl parecer, eres nuevo por aquí."
+        "es-ES": "[Piom]\nJa, ja... qué gracioso.\n¿Un humano con orejas de gato?\nJamás había escuchado tal cosa.\nAl parecer, eres nuevo por aquí."
     },
     "JoQ7": {
         "en-US": "[Piom]\nDon't waste your time on something ridiculous as that.\nThat's it! I think you are the right person.",
@@ -2312,12 +2312,12 @@
     "LoQ7": {
         "en-US": "[Galten]\nXXXXXXXXXX?\nXXXXXXXXXXXX...\nXXXXXXXX..!",
         "pt-BR": "[Garton Treinador]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
-        "es-ES": "[Galten]\n¿XXXXXXXXXX?\nXXXXXXXXXXXX…\n¡XXXXXXXX!"
+        "es-ES": "[Galten]\n¿XXXXXXXXXX?\nXXXXXXXXXXXX...\n¡XXXXXXXX!"
     },
     "L4Q7": {
         "en-US": "[Galten]\nHmm...another peaceful day.\nHmm? Aren't you the outsider that came here a while ago?\nHave you come to see the training grounds?",
         "pt-BR": "[Garton Treinador]\nAh, hoje está tranquilo como sempre.\nHmm, você é o Outro que eu vi chegando à cidade outro dia.\nVocê veio nos ver treinando?",
-        "es-ES": "[Galten]\nMmm… otro día en paz.\n¿Mmm? ¿Tú no estuviste por aquí hace un tiempo?\n¿Viniste a ver los campos de entrenamiento?"
+        "es-ES": "[Galten]\nMmm... otro día en paz.\n¿Mmm? ¿Tú no estuviste por aquí hace un tiempo?\n¿Viniste a ver los campos de entrenamiento?"
     },
     "MIQ7": {
         "en-US": "About a human with cat ears..",
@@ -2347,7 +2347,7 @@
     "NYQ7": {
         "en-US": "[Galten]\nEveryone says Ahat is like a delicate spring sprout but I don't agree!\nI've never seen a stronger Sapha before.\nI don't quite understand why he didn't become a Galten...",
         "pt-BR": "[Garton Treinador]\nTodos dizem que Ahat é como um broto na primavera.\nEles são loucos!\nNunca vi um Manuk tão forte.\nÉ um mistério por que ele não quis ser um Garten.",
-        "es-ES": "[Galten]\nTodo el mundo dice que Ahat es como un delicado retoño primaveral, ¡pero yo no creo lo mismo!\nNunca antes había visto a un sapha tan fuerte.\nNo entiendo muy bien por qué no se volvió un galten…"
+        "es-ES": "[Galten]\nTodo el mundo dice que Ahat es como un delicado retoño primaveral, ¡pero yo no creo lo mismo!\nNunca antes había visto a un sapha tan fuerte.\nNo entiendo muy bien por qué no se volvió un galten..."
     },
     "NoQ7": {
         "en-US": "- Continues to talk about Ahat.\nI don't think I'll get any more information. -",
@@ -2357,12 +2357,12 @@
     "N4Q7": {
         "en-US": "[Galten]\nAhat...\nHe is a strong Sapha.\nHe may be a minister working through piles of documents but he must be hiding his power!",
         "pt-BR": "[Garton Treinador]\nAhat.\nEle é um Manuk forte.\nSim, ele é um burocrata, mas não acredito que ele seja um mero funcionário.\nReconheço um guerreiro forte quando o vejo.",
-        "es-ES": "[Galten]\nAhat…\nEs un sapha fuerte.\nQuizás parezca un ministro que solo se ocupa del papeleo, ¡pero debe estar ocultando su poder!"
+        "es-ES": "[Galten]\nAhat...\nEs un sapha fuerte.\nQuizás parezca un ministro que solo se ocupa del papeleo, ¡pero debe estar ocultando su poder!"
     },
     "OIQ7": {
         "en-US": "[Galten]\nMaybe he is physically strong but has a warm heart..\nbut you never know...",
         "pt-BR": "[Garton Treinador]\nTalvez sua mente não\nseja tão forte quanto seu corpo.",
-        "es-ES": "[Galten]\nTal vez sea fuerte físicamente, pero con un corazón bondadoso…\nNunca se sabe…"
+        "es-ES": "[Galten]\nTal vez sea fuerte físicamente, pero con un corazón bondadoso...\nNunca se sabe..."
     },
     "OYQ7": {
         "en-US": "[Galten]\nYou seem to be an experienced adventurer.\nI would like to try testing your strength.\nHahahah~\nJust joking. I can't fight a guest to our land.",
@@ -2377,7 +2377,7 @@
     "O4Q7": {
         "en-US": "[Diel Guard]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
         "pt-BR": "[Guarda de Diel]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
-        "es-ES": "[Guardia de Diel]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
+        "es-ES": "[Guardia de Diel]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\n¡XXXXXXXXXX!"
     },
     "PIQ7": {
         "en-US": "[Galten]\nXXXXXXXXXX?\nXXXXXXXXXXXX...\nXXXXXXXX..!",
@@ -2402,7 +2402,7 @@
     "QIQ7": {
         "en-US": "[Diel Guard]\nWait...\n{0}......ah...\nI see your name on the list.\nI'm sorry.\nPlease go through.",
         "pt-BR": "[Guarda de Diel]\nVejamos... \n{0}Ah, encontrei seu nome na lista de convidados.\nPeço desculpas pela demora.\nVou lhe mandar direto para o escritório.",
-        "es-ES": "[Guardia de Diel]\nEspera…\n{0}……ah…\nVeo que tu nombre aparece en la lista.\nLo siento.\nAdelante, por favor."
+        "es-ES": "[Guardia de Diel]\nEspera...\n{0}......ah...\nVeo que tu nombre aparece en la lista.\nLo siento.\nAdelante, por favor."
     },
     "QYQ7": {
         "en-US": "[Diel Guard]\nSigh...\nPlease understand.\nThere are many that try to meet the minister.\nThat is why security is heavy.",
@@ -2507,7 +2507,7 @@
     "VYQ7": {
         "en-US": "[Ahat]\nHahaha... that's fine.\nI understand you can't help being surprised at my appearance.\nHow do I look to you?",
         "pt-BR": "[Ahat]\nHa ha.\nEstou acostumado com pessoas impressionadas com minha aparência.\nO que pareço para você?",
-        "es-ES": "[Ahat]\nJa, ja, ja… está bien.\nComprendo que no puedas evitar sorprenderte por mi apariencia.\n¿Qué ves cuando me miras?"
+        "es-ES": "[Ahat]\nJa, ja, ja... está bien.\nComprendo que no puedas evitar sorprenderte por mi apariencia.\n¿Qué ves cuando me miras?"
     },
     "VoQ7": {
         "en-US": "[Ahat]\nA perfect male?\nA perfect female?\nDoesn't matter.",
@@ -2522,7 +2522,7 @@
     "WIQ7": {
         "en-US": "[Ahat]\nJust an image from a\nmemory in your fixed concept...\nLook deep into your past.",
         "pt-BR": "[Ahat]\nUma coleção de imagens confusas confinada na moldura chamada conceito.\nOlhe para dentro de mim.",
-        "es-ES": "[Ahat]\nSolo la imagen de un\nrecuerdo en tu concepto fijo…\nMira profundamente en tu pasado."
+        "es-ES": "[Ahat]\nSolo la imagen de un\nrecuerdo en tu concepto fijo...\nMira profundamente en tu pasado."
     },
     "WYQ7": {
         "en-US": "Ahat's voice rings\npleasantly in your ears.\nEach syllable he says\ntakes effect on your body.",
@@ -2532,7 +2532,7 @@
     "WoQ7": {
         "en-US": "You see someone smiling\npeacefully at you from afar...",
         "pt-BR": "Por trás da miragem ondulante, alguém está sorrindo.",
-        "es-ES": "Ves a alguien sonriéndote\npacíficamente desde lejos…"
+        "es-ES": "Ves a alguien sonriéndote\npacíficamente desde lejos..."
     },
     "W4Q7": {
         "en-US": "[Soft Voice]\nWho is the master?",
@@ -2577,7 +2577,7 @@
     "Y4Q7": {
         "en-US": "[Ahat]\n........ ah, no.\nNo need to kill yourself\nNow you are under my spell.\n....",
         "pt-BR": "[Ahat]\nNão.\nIsso não é necessário.\nFinalmente peguei você.\n...",
-        "es-ES": "[Ahat]\nOh, no.\nNo tienes por qué suicidarte.\nAhora estás bajo mi hechizo.\n…"
+        "es-ES": "[Ahat]\nOh, no.\nNo tienes por qué suicidarte.\nAhora estás bajo mi hechizo.\n..."
     },
     "ZIQ7": {
         "en-US": "[Ahat]\nWho are you to me?",
@@ -2617,7 +2617,7 @@
     "a4Q7": {
         "en-US": "[Ahat]\nAmusing.\nDon't you think, Cheshire?\nHahaha. Playing hard to get.. this will be fun.",
         "pt-BR": "[Ahat]\nInteressante.\nNão é, Chesher?\nNão seria divertido se você sucumbisse facilmente.",
-        "es-ES": "[Ahat]\nQué divertido.\n¿No te parece, Cheshire?\nJa, ja, ja. Está oponiendo resistencia… esto será divertido."
+        "es-ES": "[Ahat]\nQué divertido.\n¿No te parece, Cheshire?\nJa, ja, ja. Está oponiendo resistencia... esto será divertido."
     },
     "bIQ7": {
         "en-US": "You close your eyes.",
@@ -2627,7 +2627,7 @@
     "bYQ7": {
         "en-US": "[Ahat]\nNo, no.. you mustn't close them.\nCheshire.",
         "pt-BR": "[Ahat]\nTsc, tsc. Você sabe que não é assim.\nChesher.",
-        "es-ES": "[Ahat]\nNo, no… tú no tienes que cerrarlos.\nCheshire."
+        "es-ES": "[Ahat]\nNo, no... tú no tienes que cerrarlos.\nCheshire."
     },
     "boQ7": {
         "en-US": "- As soon as the order was made\nAhat's aide comes to make you stare at Ahat.-",
@@ -2657,12 +2657,12 @@
     "c4Q7": {
         "en-US": "[Ahat]\nAmusing.\nDon't you think, Cheshire?\nHahaha. Playing hard to get.. this will be fun..",
         "pt-BR": "[Ahat]\nInteressante.\nNão é, Chesher?\nNão seria divertido se você sucumbisse facilmente.",
-        "es-ES": "[Ahat]\nQué divertido.\n¿No te parece, Cheshire?\nJa, ja, ja. Está oponiendo resistencia… esto será divertido."
+        "es-ES": "[Ahat]\nQué divertido.\n¿No te parece, Cheshire?\nJa, ja, ja. Está oponiendo resistencia... esto será divertido."
     },
     "dIQ7": {
         "en-US": "[Ahat]\nStop that! You look pathetic.\nJust relax...",
         "pt-BR": "[Ahat]\nPare com isso. É patético.\nPare de resistir e entregue sua mente para mim.",
-        "es-ES": "[Ahat]\n¡Ya basta! ¡Qué patético!\nRelájate…"
+        "es-ES": "[Ahat]\n¡Ya basta! ¡Qué patético!\nRelájate..."
     },
     "dYQ7": {
         "en-US": "- Ahat seems to be casting a powerful spell.\nThis might be his real ability. -",
@@ -2682,12 +2682,12 @@
     "eIQ7": {
         "en-US": "[Ahat]\nIt's useless to resist...\nBut this is fun from time to time.\nI can always cast a spell on you again.",
         "pt-BR": "[Ahat]\nVocê está resistindo para nada...\nBom, às vezes gosto que minhas presas lutem.\nSempre posso tentar hipnotizar você de novo.",
-        "es-ES": "[Ahat]\nEs inútil resistirse…\nPero es divertido hacerlo de vez en cuando.\nPuedo volver a hechizarte cuando quiera."
+        "es-ES": "[Ahat]\nEs inútil resistirse...\nPero es divertido hacerlo de vez en cuando.\nPuedo volver a hechizarte cuando quiera."
     },
     "eYQ7": {
         "en-US": "[Ahat]\nNow.. hold up your head\nand look into my eyes.\n....",
         "pt-BR": "[Ahat]\nAgora, coloque sua cabeça para cima e olhe em meus olhos.\n...",
-        "es-ES": "[Ahat]\nAhora… levanta la cabeza\ny mírame a los ojos.\n…"
+        "es-ES": "[Ahat]\nAhora... levanta la cabeza\ny mírame a los ojos.\n..."
     },
     "eoQ7": {
         "en-US": "[Ahat]\nMy loyal evil servant.\nCome closer.",
@@ -2777,12 +2777,12 @@
     "i4Q7": {
         "en-US": "[Ahat]\nWell...\nYou don't need to know now.\nOr probably never need to know.\nHo ho.",
         "pt-BR": "[Ahat]\nBem...\nVocê não precisa saber.\nNa verdade, você não pode saber.\nHahaha!",
-        "es-ES": "[Ahat]\nBueno…\nNo necesitas saberlo ahora.\nProbablemente, no necesites saberlo nunca.\nJo, jo."
+        "es-ES": "[Ahat]\nBueno...\nNo necesitas saberlo ahora.\nProbablemente, no necesites saberlo nunca.\nJo, jo."
     },
     "jIQ7": {
         "en-US": "[Ahat]\nWhere will your sword point at..\nthe day you get to know..\nNow leave me since I'm tired.",
         "pt-BR": "[Ahat]\nO dia que você descobrir a verdade deles,\nme pergunto para quem apontará sua espada.\nVocê deve estar exausto. Por que não vai descansar?",
-        "es-ES": "[Ahat]\nHacia dónde apuntará tu espada…\nel día que llegues a conocer.\nYa déjame que necesito descansar."
+        "es-ES": "[Ahat]\nHacia dónde apuntará tu espada...\nel día que llegues a conocer.\nYa déjame que necesito descansar."
     },
     "jYQ7": {
         "en-US": "[Ahat]\nI'm still the minister of El Dicastes and have piles of work to do.\nBecause it is difficult to satisfy everyone with only one loaf of bread.",
@@ -2812,7 +2812,7 @@
     "koQ7": {
         "en-US": "[Cheshire]\n........\n........Humph.",
         "pt-BR": "[Chesher]\n...\n*Bufada*",
-        "es-ES": "[Cheshire]\n………\n…Puf."
+        "es-ES": "[Cheshire]\n.........\n...Puf."
     },
     "k4Q7": {
         "en-US": "- Cheshire stands quietly next to Ahat with his head and face\ncovered with a bandana.\nYou see a tail behind Cheshire's hip for a split second. -",
@@ -2842,12 +2842,12 @@
     "mIQ7": {
         "en-US": "[Ahat]\n{0}....\nAll you need to do is follow Cheshire's orders.\nDon't ask stupid questions.\nThis is an order.\nCheshire. continue.",
         "pt-BR": "[Ahat]\n{0}...\nVocê segue as instruções de Chesher.\nSem perguntas. Isto é uma ordem.\nChesher, continue.",
-        "es-ES": "[Ahat]\n{0}…\nLo único que tienes que hacer es seguir las órdenes de Cheshire.\nNo hagas preguntas tontas.\nEs una orden.\nCheshire, continúa."
+        "es-ES": "[Ahat]\n{0}...\nLo único que tienes que hacer es seguir las órdenes de Cheshire.\nNo hagas preguntas tontas.\nEs una orden.\nCheshire, continúa."
     },
     "mYQ7": {
         "en-US": "[Cheshire]\nHmm... here is what you need to do.\nThere is a huge crack south from the city.\nThere are many accidents\nhappening near it.",
         "pt-BR": "[Chesher]\nAh, deixe-me dizer o que fazer.\nApareceu uma Fissura gigante na parte sul da cidade.\nVários eventos ocorreram\nao redor da a Fissura.",
-        "es-ES": "[Cheshire]\nMmm… esto es lo que tienes que hacer.\nHay una enorme brecha al sur de la ciudad.\nOcurren muchos accidentes\na su alrededor."
+        "es-ES": "[Cheshire]\nMmm... esto es lo que tienes que hacer.\nHay una enorme brecha al sur de la ciudad.\nOcurren muchos accidentes\na su alrededor."
     },
     "moQ7": {
         "en-US": "[Cheshire]\nI need you to go and\nclear out any traces.\nYou'll find ^4D4DFFClotted Bloodstains, Strange Magic Stones, and Frozen Piece of Skin^000000s.",
@@ -2937,7 +2937,7 @@
     "q4Q7": {
         "en-US": "[Quiet Voice]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...",
         "pt-BR": "[Low Voice]\n??? ???....\n??? ??? ? ???...",
-        "es-ES": "[Voz tranquila]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…"
+        "es-ES": "[Voz tranquila]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX..."
     },
     "rIQ7": {
         "en-US": "Jarute HesLanta",
@@ -2947,7 +2947,7 @@
     "rYQ7": {
         "en-US": "[Jarute HesLanta]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
         "pt-BR": "[Jeruth HesLanta]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
-        "es-ES": "[Jarute HesLanta]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
+        "es-ES": "[Jarute HesLanta]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\n¡XXXXXXXXXX!"
     },
     "roQ7": {
         "en-US": "Cannot communicate with him.\nThe Sapha minister looking hopeless gestures with an expression of abandonment.",
@@ -3122,7 +3122,7 @@
     "0IQ7": {
         "en-US": "[HesLanta]\n... you went through that..\nHe is strange.\nI only thought he was a Sapha colleague that avoided the curse.\nSo everything started from the crack.",
         "pt-BR": "[Hesranta]\nEntendo.\nEle está agindo de maneira muito suspeita.\nAchava que ele era só mais um Manuk que escapou da maldição.\nTudo começou com a Fissura.",
-        "es-ES": "[HesLanta]\nCon que eso te pasó…\nEs alguien fuera de lo común.\nCreía que era un colega de los saphas que evitó la maldición.\nAsí que todo empezó en la brecha."
+        "es-ES": "[HesLanta]\nCon que eso te pasó...\nEs alguien fuera de lo común.\nCreía que era un colega de los saphas que evitó la maldición.\nAsí que todo empezó en la brecha."
     },
     "0YQ7": {
         "en-US": "He is human.",
@@ -3222,7 +3222,7 @@
     "5IQ7": {
         "en-US": "[HesLanta]\nAh, sorry.\nI was thinking.\nThe Crack.. hypnotism.. and the evidence you showed me.",
         "pt-BR": "[Hesranta]\nAh, me desculpe.\nEu estava pensando\nsobre a Fissura, sua habilidade de hipnotizar e essas coisas que você me mostrou.",
-        "es-ES": "[HesLanta]\nAh, lo siento.\nEstaba pensando.\nLa grieta… el hipnotismo… y la evidencia que me mostraste."
+        "es-ES": "[HesLanta]\nAh, lo siento.\nEstaba pensando.\nLa grieta... el hipnotismo... y la evidencia que me mostraste."
     },
     "5YQ7": {
         "en-US": "[HesLanta]\nI don't know why you think Ahat is human but that can also be part of his spell.",
@@ -3237,7 +3237,7 @@
     "54Q7": {
         "en-US": "[HesLanta]\nBecause we Saphas mustn't know about the crack traces.\nThat means, Ahat is..\n^4D4DFFcleaning up his traces that started from the crack^000000.",
         "pt-BR": "[Hesranta]\npara esconder de nós a presença daqueles vestígios.\nIsso significa...\nEle está ^4D4DFFeliminando os seus vestígios de perto da Fissura^000000.",
-        "es-ES": "[HesLanta]\nPara que los sapha no los descubramos.\nEso significa que Ahat está…\n^4D4DFFlimpiando su rastro, que comienza desde la brecha^000000."
+        "es-ES": "[HesLanta]\nPara que los sapha no los descubramos.\nEso significa que Ahat está...\n^4D4DFFlimpiando su rastro, que comienza desde la brecha^000000."
     },
     "6IQ7": {
         "en-US": "Erasing his own traces from the crack!!",
@@ -3257,7 +3257,7 @@
     "64Q7": {
         "en-US": "[HesLanta]\nI only get suspicious more and more when I hear your story.\nBut the reason I can't agree with this story is...",
         "pt-BR": "[Hesranta]\nQuanto mais eu lhe ouço, mais desconfiado eu fico.\nMas eu não posso desafiá-lo publicamente",
-        "es-ES": "[HesLanta]\nDespués de escuchar tu historia, comienzo a sospechar aún más.\nPero esta historia no me convence del todo porque…"
+        "es-ES": "[HesLanta]\nDespués de escuchar tu historia, comienzo a sospechar aún más.\nPero esta historia no me convence del todo porque..."
     },
     "7IQ7": {
         "en-US": "[HesLanta]\nAhat is pure.\nHe is truly working for Sapha and Dicastes.",
@@ -3272,7 +3272,7 @@
     "7oQ7": {
         "en-US": "[HesLanta]\nAhat is loyal and is working wonders for the Sapha community but.",
         "pt-BR": "[Hesranta]\nEle realmente é leal e esforçado,",
-        "es-ES": "[HesLanta]\nAhat es leal y está haciendo maravillas por la comunidad sapha, pero…"
+        "es-ES": "[HesLanta]\nAhat es leal y está haciendo maravillas por la comunidad sapha, pero..."
     },
     "74Q7": {
         "en-US": "[HesLanta]\nRavail's trust and popularity from other Saphas\nis concentrating Dicastes's power to one place.",
@@ -3287,7 +3287,7 @@
     "8YQ7": {
         "en-US": "[HesLanta]\nThat is how everyone can monitor and check each other...\nand try their best and not stray to the wrong side of the road\nthat is how we can live together.",
         "pt-BR": "[Hesranta]\npara que possam ficar de olho uns nos outros\ne trabalhar juntos para\nque tudo seja melhor para todos.",
-        "es-ES": "[HesLanta]\nAsí es como todos pueden supervisarse y controlarse mutuamente…\ny esforzarse al máximo para no desviarse del camino,\nasí es como podemos convivir."
+        "es-ES": "[HesLanta]\nAsí es como todos pueden supervisarse y controlarse mutuamente...\ny esforzarse al máximo para no desviarse del camino,\nasí es como podemos convivir."
     },
     "8oQ7": {
         "en-US": "[HesLanta]\nBut if power is concentrated to one place and abused?\nIf all decisions are made by Ahat. Then what can he do with just a nod or shake of his head?",
@@ -3302,7 +3302,7 @@
     "9IQ7": {
         "en-US": "[HesLanta]\nAhat has slowly become the center.\nIf what he was holding in his was not bread but a sword..\n.......",
         "pt-BR": "[Hesranta]\nEle chegou ao centro do poder lentamente, mas gradualmente.\nE se ele estiver manejando, em vez de pão, uma espada...\n...",
-        "es-ES": "[HesLanta]\nAhat se ha convertido poco a poco en el centro de atención.\n¿Y si lo que sostenía no era pan, sino una espada?\n……"
+        "es-ES": "[HesLanta]\nAhat se ha convertido poco a poco en el centro de atención.\n¿Y si lo que sostenía no era pan, sino una espada?\n......"
     },
     "9YQ7": {
         "en-US": "[HesLanta]\nI've gone too emotional.\nSorry.\nMy mind is so complicated now after hearing your story.",
@@ -3357,7 +3357,7 @@
     "/4Q7": {
         "en-US": "[{0}]\nAhat is Satan Morroc?\nNo...\nThis is unbelievable.",
         "pt-BR": "[{0}]\nAhat é o Deus Demoníaco?\nNão.\nSendo verdade ou não, isso é muito importante.",
-        "es-ES": "[{0}]\n¿Ahat es Satán Morroc?\nNo…\nNo puedo creerlo."
+        "es-ES": "[{0}]\n¿Ahat es Satán Morroc?\nNo...\nNo puedo creerlo."
     },
     "AIU7": {
         "en-US": "[{0}]\nI must go back to the expedition camp to report to Doha!",
@@ -3367,7 +3367,7 @@
     "AYU7": {
         "en-US": "[{0}]\nFirst the report culprit was..",
         "pt-BR": "[{0}]\nAgora, o agressor do ataque do relatório é...",
-        "es-ES": "[{0}]\nEn primer lugar, el responsable del robo del informe fue…"
+        "es-ES": "[{0}]\nEn primer lugar, el responsable del robo del informe fue..."
     },
     "AoU7": {
         "en-US": "Cheshire",
@@ -3422,7 +3422,7 @@
     "DIU7": {
         "en-US": "[{0}]\nCheshire's master is Ahat.\nSo all his actions are to..",
         "pt-BR": "[{0}]\nChesher trabalha para Ahat.\nTudo que ele faz...",
-        "es-ES": "[{0}]\nEl amo de Cheshire es Ahat.\nAsí que todas sus acciones son para…"
+        "es-ES": "[{0}]\nEl amo de Cheshire es Ahat.\nAsí que todas sus acciones son para..."
     },
     "DYU7": {
         "en-US": "Cheshire is plotting on his own.",
@@ -3452,7 +3452,7 @@
     "EoU7": {
         "en-US": "[{0}]\nAnd tries to erase all traces found near the crack.\nAnd Ahat wants to eliminate...",
         "pt-BR": "[{0}]\nEle quer eliminar os vestígios que alguém deixou ao redor da Fissura,\ne essa pessoa é...",
-        "es-ES": "[{0}]\nAhora intenta borrar todos los rastros encontrados cerca de la brecha.\nY Ahat quiere eliminar…"
+        "es-ES": "[{0}]\nAhora intenta borrar todos los rastros encontrados cerca de la brecha.\nY Ahat quiere eliminar..."
     },
     "E4U7": {
         "en-US": "Himself.",
@@ -3467,7 +3467,7 @@
     "FYU7": {
         "en-US": "[{0}]\nYes, Ahat might just be a shell...\nSaphas want to hide something that is why they hired me.",
         "pt-BR": "[{0}]\nSim, talvez sejam seus próprios vestígios que ele quer eliminar\ne não quer que os Manuks descubram. Então, ele forçou sua hipnose\nem uma terceira pessoa, eu, para fazer seu trabalho sujo.",
-        "es-ES": "[{0}]\nSí, Ahat podría ser solo la fachada de todo…\nLos saphas quieren ocultar algo; por eso me contrataron."
+        "es-ES": "[{0}]\nSí, Ahat podría ser solo la fachada de todo...\nLos saphas quieren ocultar algo; por eso me contrataron."
     },
     "FoU7": {
         "en-US": "[{0}]\nA bit dramatic but we cannot rule out Satan Morroc.\nBecause the crack was created by him.",
@@ -3477,22 +3477,22 @@
     "F4U7": {
         "en-US": "[{0}]\nAhat and the crack and then Morroc...\nI can tell there is a relationship between them but I can't pinpoint it.\nAnd in the expedition's report was content of...",
         "pt-BR": "[{0}]\nAhat, uma Fissura e Morro, o criador das Fissuras.\nHá uma conexão, apesar de não ser clara.\nE o relatório da Expedição...",
-        "es-ES": "[{0}]\nAhat, la brecha, y Morroc…\nSé que están relacionados de algún modo, pero no sé exactamente cómo.\nY en el informe de la expedición había información sobre…"
+        "es-ES": "[{0}]\nAhat, la brecha, y Morroc...\nSé que están relacionados de algún modo, pero no sé exactamente cómo.\nY en el informe de la expedición había información sobre..."
     },
     "GIU7": {
         "en-US": "conflict between the 3 countries..",
         "pt-BR": "Descreve a tensão entre os três estados.",
-        "es-ES": "el conflicto entre los 3 países…"
+        "es-ES": "el conflicto entre los 3 países..."
     },
     "GYU7": {
         "en-US": "Satan Morroc...",
         "pt-BR": "Contém uma história sobre o Rei Demoníaco Morroc.",
-        "es-ES": "Satán Morroc…"
+        "es-ES": "Satán Morroc..."
     },
     "GoU7": {
         "en-US": "[{0}]\nThere was something about the conflict between three countries..\nBut.. I don't think it all adds up?\nLet's think it over.",
         "pt-BR": "[{0}]\nHá tensão entre os três estados,\nmas isso não é relevante neste caso.\nÉ melhor eu pensar novamente.",
-        "es-ES": "[{0}]\nHabía algo sobre el conflicto entre los tres países…\nPero… No creo que todo encaje, ¿o sí?\nSigamos pensando."
+        "es-ES": "[{0}]\nHabía algo sobre el conflicto entre los tres países...\nPero... No creo que todo encaje, ¿o sí?\nSigamos pensando."
     },
     "G4U7": {
         "en-US": "[{0}]\nYes. There is a report from the tracking team led by Echinacea.\nIt was about Satan Morroc.",
@@ -3517,7 +3517,7 @@
     "H4U7": {
         "en-US": "[HesLanta]\nI only hope nothing sad will happen.\n........",
         "pt-BR": "[Hesranta]\nEu quero muito que isso não aconteça, mas...\n...",
-        "es-ES": "[HesLanta]\nSolo espero que no ocurra nada triste.\n………"
+        "es-ES": "[HesLanta]\nSolo espero que no ocurra nada triste.\n........."
     },
     "IIU7": {
         "en-US": "[HesLanta]\nI'm sorry to take your time. I will send you out now.\nIt was great to talk with you today.",
@@ -3597,7 +3597,7 @@
     "L4U7": {
         "en-US": "[BK]\nHa. I'm the information collector of the Cat Hand Merchants.\nAsk me anything...but..\nMeow.. I'm not an easy cat you see.",
         "pt-BR": "[B. K.]\nHeh, sou o coletor de informações do Grupo Pata de Gato.\nPode me perguntar qualquer coisa,\nmas não espere uma resposta. *Miau*",
-        "es-ES": "[BK]\nJa. Soy el recolector de información de los comerciantes de Pata de Gato.\nPregúntame cualquier cosa… pero…\nMiau… No soy un gato muy amistoso, ¿sabes?"
+        "es-ES": "[BK]\nJa. Soy el recolector de información de los comerciantes de Pata de Gato.\nPregúntame cualquier cosa... pero...\nMiau... No soy un gato muy amistoso, ¿sabes?"
     },
     "MIU7": {
         "en-US": "[BK]\nGo away, Ha",
@@ -3607,7 +3607,7 @@
     "MYU7": {
         "en-US": "[BK]\nHmph...\nWhat is it?\n...Oh, a human in the capital city of Sapha.\nMeow...",
         "pt-BR": "[B. K.]\n*Ronron*\nO que lhe traz aqui?\nOh, um humano veio à capital dos Manuks.\n*Miau*",
-        "es-ES": "[BK]\nFiu…\n¿Qué sucede?\n…Oh, un humano en la capital de los sapha.\nMiau…"
+        "es-ES": "[BK]\nFiu...\n¿Qué sucede?\n...Oh, un humano en la capital de los sapha.\nMiau..."
     },
     "MoU7": {
         "en-US": "About a man with cat ears",
@@ -3627,7 +3627,7 @@
     "NYU7": {
         "en-US": "[BK]\nI'm not an easy cat you see.\nMeow... meow\nMeow.. cat ears. Hahaha.. I heard of some.. meow..",
         "pt-BR": "[B. K.]\nNão sou um gato fácil.\n*Miau*\nUm homem com orelhas de gato? *Ronron* Conheço algumas criaturas que têm orelhas como as nossas.",
-        "es-ES": "[BK]\nNo soy un gato muy amistoso, ¿sabes?\nMiau, miau.\nMiau… orejas de gato. Ja, ja, ja… He oído hablar de algunos, miau…"
+        "es-ES": "[BK]\nNo soy un gato muy amistoso, ¿sabes?\nMiau, miau.\nMiau... orejas de gato. Ja, ja, ja... He oído hablar de algunos, miau..."
     },
     "NoU7": {
         "en-US": "[BK]\nI'm not telling you~!",
@@ -3637,12 +3637,12 @@
     "N4U7": {
         "en-US": "[BK]\nHa. I'm the information collector of the Cat Merchants.\nAsk me anything...but..\nMeow.. I'm not an easy cat you see.",
         "pt-BR": "[B. K.]\nHeh, sou o coletor de informações do Grupo Pata de Gato.\nPode me perguntar qualquer coisa,\nmas não espere uma resposta. *Miau*",
-        "es-ES": "[BK]\nJa. Soy el recolector de información de los gatos comerciantes.\nPregúntame cualquier cosa… pero…\nMiau… No soy un gato muy amistoso, ¿sabes?"
+        "es-ES": "[BK]\nJa. Soy el recolector de información de los gatos comerciantes.\nPregúntame cualquier cosa... pero...\nMiau... No soy un gato muy amistoso, ¿sabes?"
     },
     "OIU7": {
         "en-US": "[BK]\nHa. I'm the information collector of the Cat Merchants.\n..............\nI don't give out information just to anyone.\nMeow...",
         "pt-BR": "[B. K.]\nHeh, sou o coletor de informações do Grupo Pata de Gato.\n...\nNão dou informações facilmente.\n*Miau*",
-        "es-ES": "[BK]\nJa. Soy el recolector de información de los gatos comerciantes.\n……………\nNo doy información a cualquiera.\nMiau…"
+        "es-ES": "[BK]\nJa. Soy el recolector de información de los gatos comerciantes.\n...............\nNo doy información a cualquiera.\nMiau..."
     },
     "OYU7": {
         "en-US": "- BK of the Cat Merchant group is being difficult.\nWhat did Shay tell you to do?-",
@@ -3657,7 +3657,7 @@
     "O4U7": {
         "en-US": "[BK]\nWhat?!\nWhat do you want.\nWhy are you harassing me?\nBully... sob",
         "pt-BR": "[B. K.]\nO-O quê?!\nO-O que você quer de mim?\nPor que está me perturbando?\nShai é o próprio Demônio! *Choradeira*",
-        "es-ES": "[BK]\n¡¿Qué?!\n¿Qué quieres?\n¿Por qué me acosas?\nQué abuso… *Solloza*"
+        "es-ES": "[BK]\n¡¿Qué?!\n¿Qué quieres?\n¿Por qué me acosas?\nQué abuso... *Solloza*"
     },
     "PIU7": {
         "en-US": "[BK]\nOkay. I will cooperate.\nBut with some conditions.\nFirst, you must tell Shay that I cooperated with you.",
@@ -3677,17 +3677,17 @@
     "P4U7": {
         "en-US": "[{0}]\n{1}.....?\nHmm.. I think you are wrong?\nWhat was it..",
         "pt-BR": "[{0}]\n{1}...?\nNão é isso.\nO que ele disse exatamente?",
-        "es-ES": "[{0}]\n¿{1}…?\nMmm… ¿Creo que te equivocas?\n¿Qué era…?"
+        "es-ES": "[{0}]\n¿{1}...?\nMmm... ¿Creo que te equivocas?\n¿Qué era...?"
     },
     "QIU7": {
         "en-US": "[BK]\nWhat. Are you threatening me with that?\nMeow.. You don't know my well enough~!!",
         "pt-BR": "[B. K.]\n*Bufada* Eu não respondo muito bem a ameaças.\n*Ronron* Você não me conhece mesmo!",
-        "es-ES": "[BK]\n¿Qué? ¿Me estás amenazando con eso?\nMiau… ¡Creo que no me conoces bien!"
+        "es-ES": "[BK]\n¿Qué? ¿Me estás amenazando con eso?\nMiau... ¡Creo que no me conoces bien!"
     },
     "QYU7": {
         "en-US": "[BK]\n... So what do you want to know?",
         "pt-BR": "[B. K.]\nEntão, o que quer saber?",
-        "es-ES": "[BK]\n… ¿Qué quieres saber?"
+        "es-ES": "[BK]\n... ¿Qué quieres saber?"
     },
     "QoU7": {
         "en-US": "About other feline races",
@@ -3697,7 +3697,7 @@
     "Q4U7": {
         "en-US": "[BK]\nFeline? Are you asking about us cats?\nWell~\nDon't know about races... unless...",
         "pt-BR": "[B. K.]\nFeras, como nós gatos?\nBem...\nDeixe-me ver... Feras, feras... *Tocando em seu queixo*",
-        "es-ES": "[BK]\n¿Felinos? ¿Preguntas por nosotros, los gatos?\nBueno.\nNo sé de razas… a menos que…"
+        "es-ES": "[BK]\n¿Felinos? ¿Preguntas por nosotros, los gatos?\nBueno.\nNo sé de razas... a menos que..."
     },
     "RIU7": {
         "en-US": "- BK asks for a Sapha Certification. -",
@@ -3727,7 +3727,7 @@
     "SYU7": {
         "en-US": "[BK]\nI even saw him meet the ^4D4DFFnew minister^000000 alone.\nHu hu...\nSatisfied?",
         "pt-BR": "[B. K.]\nTambém o vi com o ^4D4DFFcortesão novo^000000.\nHeh.\nÉ isso, então?",
-        "es-ES": "[BK]\nIncluso lo vi reunirse a solas con el ^4D4DFFnuevo ministro^000000.\nClaro…\n¿Te basta con eso?"
+        "es-ES": "[BK]\nIncluso lo vi reunirse a solas con el ^4D4DFFnuevo ministro^000000.\nClaro...\n¿Te basta con eso?"
     },
     "SoU7": {
         "en-US": "- BK says this and takes the Sapha Certification out of your hand.\nInformation on the person with animal ears Doha mentioned!-",
@@ -3767,12 +3767,12 @@
     "UYU7": {
         "en-US": "[BK]\n.......ah.........\nI should have gotten a Sapha Certification before answering.",
         "pt-BR": "[B. K.]\n...Droga.\nEu me esqueci de exigir o Certificado.",
-        "es-ES": "[BK]\n……Ah………\nDebería haberte pedido una Certificación sapha antes de contestar."
+        "es-ES": "[BK]\n......Ah.........\nDebería haberte pedido una Certificación sapha antes de contestar."
     },
     "UoU7": {
         "en-US": "[BK]\nThe infamous ^4D4DFFAhat^000000.\nThe new minister...\n(BK rubs his front paws\ntogether and winks)",
         "pt-BR": "[B. K.]\nEle é o assunto do momento,\n^4D4DFFAhat^000000.\nEeeeee esse novo Cortesão é...\n(B. K. esfrega suas patas dianteiras.)",
-        "es-ES": "[BK]\nEl infame ^4D4DFFAhat^000000.\nEl nuevo ministro…\n(BK se frota las patas delanteras\ny hace un guiño)."
+        "es-ES": "[BK]\nEl infame ^4D4DFFAhat^000000.\nEl nuevo ministro...\n(BK se frota las patas delanteras\ny hace un guiño)."
     },
     "U4U7": {
         "en-US": "Give him a Sapha Certification.",
@@ -3807,7 +3807,7 @@
     "WYU7": {
         "en-US": "[BK]\nYes.\nBut, isn't it strange?\nAll the Saphas here think\nhe is a beautiful Sapha...\nBut I've seen him from a\ndistance and he wasn't.",
         "pt-BR": "[B. K.]\nNão.\nMas há algo de errado.\nTodos os Manuks que encontrei acham que ele é um Manuk lindo,\nmas ele não é Manuk, apesar de eu só tê-lo visto de longe.",
-        "es-ES": "[BK]\nNo.\nSin embargo, ¿no es extraño?\nTodos los saphas de aquí creen\nque es muy hermoso…\nPero lo vi desde\nlejos y no era así."
+        "es-ES": "[BK]\nNo.\nSin embargo, ¿no es extraño?\nTodos los saphas de aquí creen\nque es muy hermoso...\nPero lo vi desde\nlejos y no era así."
     },
     "WoU7": {
         "en-US": "[BK]\nTo me, he is a feline.\nHe might even be a\nlost friend of mine.",
@@ -3827,7 +3827,7 @@
     "XYU7": {
         "en-US": "[{0}]\n...I must find out.\n.. Near the crack he said...\nShould I talk to Shay?",
         "pt-BR": "[{0}]\nÉ melhor eu solucionar esse mistério.\nPerto da Fissura...\nÉ melhor eu consultar Shai.",
-        "es-ES": "[{0}]\nDebo averiguarlo.\n… Cerca de la brecha, dijo…\n¿Debería hablar con Shay?"
+        "es-ES": "[{0}]\nDebo averiguarlo.\n... Cerca de la brecha, dijo...\n¿Debería hablar con Shay?"
     },
     "XoU7": {
         "en-US": "- BK holds up a front paw at my question.\nThe pink jelly like paws are asking for a Sapha Certification.-",
@@ -3857,7 +3857,7 @@
     "Y4U7": {
         "en-US": "Nothing...",
         "pt-BR": "Nada...",
-        "es-ES": "Nada…"
+        "es-ES": "Nada..."
     },
     "ZIU7": {
         "en-US": "[BK]\nBecause he isn't Sapha!",
@@ -3867,7 +3867,7 @@
     "ZYU7": {
         "en-US": "[BK]\nYes.\nBut isn't it strange.\nAll the Saphas here think he is a beautiful Sapha...\nBut I've seen him from a distance and he wasn't.",
         "pt-BR": "[B. K.]\nNão.\nMas há algo de errado.\nTodos os Manuks que encontrei acham que ele é um Manuk lindo, mas ele não é Manuk, apesar de eu só tê-lo visto de longe.",
-        "es-ES": "[BK]\nSí.\nPero, ¿no es extraño?\nTodos los saphas de aquí piensan que es sapha y que es muy hermoso…\nPero lo vi desde lejos y no era así."
+        "es-ES": "[BK]\nSí.\nPero, ¿no es extraño?\nTodos los saphas de aquí piensan que es sapha y que es muy hermoso...\nPero lo vi desde lejos y no era así."
     },
     "ZoU7": {
         "en-US": "[BK]\nTo me, he is a feline.\nHe might even be a lost friend of mine.",
@@ -3922,7 +3922,7 @@
     "cIU7": {
         "en-US": "[{0}]\nHmm.. I may need to discuss these with Shay.",
         "pt-BR": "[{0}]\nTalvez eu deva mostrar isso para Shai e pedir seu conselho.",
-        "es-ES": "[{0}]\nMmm… Es posible que deba discutir esto con Shay."
+        "es-ES": "[{0}]\nMmm... Es posible que deba discutir esto con Shay."
     },
     "cYU7": {
         "en-US": "[{0}]\nCollected Clotted Bloodstains from the dirt pile here.\nAlso feel a strange energy around.\nI should go back to the pub and talk with Shay.",
@@ -4192,7 +4192,7 @@
     "poU7": {
         "en-US": "[Vigilante]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
         "pt-BR": "[Vigilante]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
-        "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
+        "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\n¡XXXXXXXXXX!"
     },
     "p4U7": {
         "en-US": "The area below is restricted because it is dangerous.\nI cannot let you pass because you are here as a guest.\nPlease follow the tunnel to get to the capital city.",
@@ -4267,7 +4267,7 @@
     "tYU7": {
         "en-US": "[Vigilante]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...",
         "pt-BR": "[Vigilante]\n??? ? ????\n??? ? ??? ? ???...",
-        "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…"
+        "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX..."
     },
     "toU7": {
         "en-US": "The Vigilante says something and then shakes his head.\nLooks like a negative reaction from the looks of his firm pose holding his shield in front of him.",
@@ -4317,7 +4317,7 @@
     "v4U7": {
         "en-US": "[Suspicious Guy]\n.....",
         "pt-BR": "[Homem Suspeito]\n...",
-        "es-ES": "[Tipo sospechoso]\n……"
+        "es-ES": "[Tipo sospechoso]\n......"
     },
     "wIU7": {
         "en-US": "- You are carrying too many items to proceed with this quest. -",
@@ -4327,21 +4327,21 @@
     "wYU7": {
         "en-US": "[Shay]\nHere..\n......Hmmm...\nNah.",
         "pt-BR": "[Shai]\nQuer dizer, aqui? \nNão.\nDesculpe.",
-        "es-ES": "[Shay]\nAquí tienes… \nMmmm…\nNa."
+        "es-ES": "[Shay]\nAquí tienes... \nMmmm...\nNa."
     },
     "woU7": {
         "en-US": "[Diel Guard]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
         "pt-BR": "[Guarda de Diel]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
-        "es-ES": "[Guardia de Diel]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
+        "es-ES": "[Guardia de Diel]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\n¡XXXXXXXXXX!"
     },
     "w4U7": {
         "en-US": "[Jarute HesLanta]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
         "pt-BR": "[Jeruth HesLanta]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
-        "es-ES": "[Jarute HesLanta]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
+        "es-ES": "[Jarute HesLanta]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\n¡XXXXXXXXXX!"
     },
     "xIU7": {
         "en-US": "[Vigilante]\nXXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\nXXXXXXXXXX..!",
         "pt-BR": "[Vigilante]\n??? ? ????\n??? ? ??? ? ???...\n??? ? ??? ?..!",
-        "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX…\n¡XXXXXXXXXX!"
+        "es-ES": "[Justiciero]\n¿XXXXXXXXXXXXX?\nXXXXXXXXXXXXXXX...\n¡XXXXXXXXXX!"
     }
 }

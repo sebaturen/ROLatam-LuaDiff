@@ -7,7 +7,7 @@
     "QRZA": {
         "en-US": "[Frede]\nMoan... moan...",
         "pt-BR": "[Frede]\n*gemidos*",
-        "es-ES": "[Frede]\nAy… Ayyy…"
+        "es-ES": "[Frede]\nAy... Ayyy..."
     },
     "QhZA": {
         "en-US": "[{0}]\nAre you alright?\nYou don't look well. Do you need help?",
@@ -17,7 +17,7 @@
     "QxZA": {
         "en-US": "[Frede]\nAh... thank you.\nMy leg is injured...",
         "pt-BR": "[Frede]\nAh... Obrigado.\n É por causa da minha perna ferida.",
-        "es-ES": "[Frede]\nAh… Gracias.\nTengo la pierna lastimada…"
+        "es-ES": "[Frede]\nAh... Gracias.\nTengo la pierna lastimada..."
     },
     "RBZA": {
         "en-US": "[Frede]\nDo you mind helping me get to the building over there?\nI will feel better if I rest a little.",
@@ -47,22 +47,22 @@
     "SRZA": {
         "en-US": "[Frede]\nZzz...Zzz...",
         "pt-BR": "[Frede]\nZzz...Zzz...",
-        "es-ES": "[Frede]\nZzz… Zzz…"
+        "es-ES": "[Frede]\nZzz... Zzz..."
     },
     "ShZA": {
         "en-US": "[Frede]\nPhew...\nThank you so much.\nI'm glad I got a shot of ^F57D7DBradium^000000 before it was too late.",
         "pt-BR": "[Frede]\nUfa...\nMuito obrigado.\nQue bom que tomei uma dose de ^F57D7DBradium^000000 antes que fosse tarde demais.",
-        "es-ES": "[Frede]\nFiu…\nMuchas gracias.\nMe alegro de haber recibido una inyección de ^F57D7DBradium^000000 antes de que fuera demasiado tarde."
+        "es-ES": "[Frede]\nFiu...\nMuchas gracias.\nMe alegro de haber recibido una inyección de ^F57D7DBradium^000000 antes de que fuera demasiado tarde."
     },
     "SxZA": {
         "en-US": "[{0}]\nHuff...Huff...\nI'm glad that you feel better.",
         "pt-BR": "[{0}]\nUff... Uff...\nQue bom que você está se sentindo melhor.",
-        "es-ES": "[{0}]\nUf… Uf…\nMe alegro de que te sientas mejor."
+        "es-ES": "[{0}]\nUf... Uf...\nMe alegro de que te sientas mejor."
     },
     "TBZA": {
         "en-US": "[Frede]\nOh my!! Why are you sweating so much!\nYou look a little pale too......",
         "pt-BR": "[Frede]\nMinha nossa!! Por que está suando tanto? \nVocê também está um pouco pálido...",
-        "es-ES": "[Frede]\n¡Santo cielo! ¿Por qué estás sudando tanto?\nY tu aspecto es un poco pálido…"
+        "es-ES": "[Frede]\n¡Santo cielo! ¿Por qué estás sudando tanto?\nY tu aspecto es un poco pálido..."
     },
     "TRZA": {
         "en-US": "[{0}]\nNo, it's nothing.\nI'm only a little tired, that's all.",
@@ -97,7 +97,7 @@
     "UxZA": {
         "en-US": "[Frede]\nBut I'm grateful that I can still move around.\nHa......\nWhen did we start to be afraid of 'death'?",
         "pt-BR": "[Frede]\nMas, sou grato por ainda conseguir andar.\nHa... \nQuando começamos a temer a 'morte'?",
-        "es-ES": "[Frede]\nPero agradezco poder seguir moviéndome.\nJa…\n¿Cuándo empezamos a tenerle miedo a la muerte?"
+        "es-ES": "[Frede]\nPero agradezco poder seguir moviéndome.\nJa...\n¿Cuándo empezamos a tenerle miedo a la muerte?"
     },
     "VBZA": {
         "en-US": "[Frede]\nSaphas have never had any 'sicknesses' and we don't die unless there is a terrible accident.",
@@ -157,12 +157,12 @@
     "XxZA": {
         "en-US": "[Frede]\n......umm......\n..............",
         "pt-BR": "[Frede]\n...Hum...\n..............",
-        "es-ES": "[Frede]\nUm…\n.............."
+        "es-ES": "[Frede]\nUm...\n.............."
     },
     "YBZA": {
         "en-US": "[Frede]\nOh no!!!!!!!!!!!!!!!!\nCome... to think of it....\nMy friends!!!!!!!!!!",
         "pt-BR": "[Frede]\nOh, não!!!!!!!!!!!!!!\nAgora que me lembrei...\nMeus amigos!!!!!!!!!",
-        "es-ES": "[Frede]\n¡Ay, no!\nAhora que lo pienso…\n¡Mis amigos!"
+        "es-ES": "[Frede]\n¡Ay, no!\nAhora que lo pienso...\n¡Mis amigos!"
     },
     "YRZA": {
         "en-US": "[Frede]\nI haven't seen my friends who I worked with in the cave.",
@@ -172,7 +172,7 @@
     "YhZA": {
         "en-US": "[Frede]\nThey have to return to the village once every few days to replenish their Bradium.\nMaybe......they forgot?",
         "pt-BR": "[Frede]\nEles precisam voltar à vila depois de alguns dias para reabastecer o Bradium.\nSerá que... se esqueceram?",
-        "es-ES": "[Frede]\nTienen que volver a la aldea cada un par de días para reabastecer sus fuentes de Bradium.\n¿Quizás… se les olvidó?"
+        "es-ES": "[Frede]\nTienen que volver a la aldea cada un par de días para reabastecer sus fuentes de Bradium.\n¿Quizás... se les olvidó?"
     },
     "YxZA": {
         "en-US": "[Frede]\nOh.. what should I do...?\nI would run there myself if only my legs would move normally.",
@@ -207,7 +207,7 @@
     "aRZA": {
         "en-US": "[Frede]\nI guess I can't do anything about it.\nBut drag myself there.",
         "pt-BR": "[Frede]\nHá alguns dias, vi meus amigos saindo da vila depois de voltar para buscar mais Bradium.",
-        "es-ES": "[Frede]\nSupongo que no puedo hacer nada al respecto…\nExcepto arrastrarme hasta allá."
+        "es-ES": "[Frede]\nSupongo que no puedo hacer nada al respecto...\nExcepto arrastrarme hasta allá."
     },
     "ahZA": {
         "en-US": "Thank you so much.\nMy memory is a bit fuzzy since its been a while since I came back to the village,\nbut you will find a ^F57D7Dcave nearby the village with repair work going on^000000.",
@@ -222,7 +222,7 @@
     "bBZA": {
         "en-US": "[Frede]\nHmmm..",
         "pt-BR": "[Frede]\nHumm...",
-        "es-ES": "[Frede]\nMmm…"
+        "es-ES": "[Frede]\nMmm..."
     },
     "bRZA": {
         "en-US": "[Frede]\nI'm sorry to ask again but can you take some Bradium to my friends?",
@@ -267,12 +267,12 @@
     "dRZA": {
         "en-US": "[Frede]\nSo they are out of Braidum.\nWill they need to wait till other Piom or Galtens return?",
         "pt-BR": "[Frede]\nEntão, eles estão sem Bradium.\nSerá que vão ter de esperar até que os outros Mineiros ou Gartons voltem?",
-        "es-ES": "[Frede]\nAsí que se les acabó el Bradium…\nMe pregunto si tendrán que esperar hasta que otros pioms o galtens vuelvan…"
+        "es-ES": "[Frede]\nAsí que se les acabó el Bradium...\nMe pregunto si tendrán que esperar hasta que otros pioms o galtens vuelvan..."
     },
     "dhZA": {
         "en-US": "[Frede]\nSo they are out of Braidum.\nWill they need to wait till other Piom or Galtens return?.",
         "pt-BR": "[Frede]\nEntão, eles estão sem Bradium.\nSerá que vão ter de esperar até que os outros Mineiros ou Gartons voltem?",
-        "es-ES": "[Frede]\nAsí que se les acabó el Bradium…\nMe pregunto si tendrán que esperar hasta que otros pioms o galtens vuelvan…"
+        "es-ES": "[Frede]\nAsí que se les acabó el Bradium...\nMe pregunto si tendrán que esperar hasta que otros pioms o galtens vuelvan..."
     },
     "dxZA": {
         "en-US": "[Frede]\nYou have too many kinds of items.\nPlease return after reducing the number of items.",
@@ -322,7 +322,7 @@
     "gBZA": {
         "en-US": "[Brian]\nOh... that reminds me, how many days passed since I came here...\nDo you happen to know what day it is today?",
         "pt-BR": "[Brian]\nOh... Isso me lembra, quantos dias se passaram desde que vim para cá?...\nPor acaso, você sabe que dia é hoje?",
-        "es-ES": "[Brian]\nHablando de eso… ¿hace cuántos días que estoy aquí?\n¿De casualidad sabes qué día es hoy?"
+        "es-ES": "[Brian]\nHablando de eso... ¿hace cuántos días que estoy aquí?\n¿De casualidad sabes qué día es hoy?"
     },
     "gRZA": {
         "en-US": "[Brian]\nHmm. But what brings an outsider here?",
@@ -342,7 +342,7 @@
     "hBZA": {
         "en-US": "[Brian]\nI hope he is getting used to his new work.\nI shouldn't be worried because he is very hardworking but...",
         "pt-BR": "[Brian]\nEspero que ele esteja se acostumando com o trabalho novo.\nEu não devia me preocupar, pois ele é muito esforçado, mas...",
-        "es-ES": "[Brian]\nEspero que se esté acostumbrando a su nuevo trabajo.\nNo debería preocuparme porque es muy trabajador, pero…"
+        "es-ES": "[Brian]\nEspero que se esté acostumbrando a su nuevo trabajo.\nNo debería preocuparme porque es muy trabajador, pero..."
     },
     "hRZA": {
         "en-US": "[Brian]\nHe got sick by overworking himself already. But you don't have to tell him I said this.",
@@ -387,7 +387,7 @@
     "jRZA": {
         "en-US": "[Brian]\nI'm out of Bradium already.\nFrede has been nagging me about this all the time but now I see why.\nHa ha..",
         "pt-BR": "[Brian]\nJá estou sem Bradium.\nFrede me alerta sobre isso o tempo todo, mas agora entendo o motivo.\nHa ha...",
-        "es-ES": "[Brian]\nMis provisiones de Bradium ya se acabaron.\nFrede me ha insistido incansablemente sobre ello, y ahora entiendo el porqué.\nJa, ja…"
+        "es-ES": "[Brian]\nMis provisiones de Bradium ya se acabaron.\nFrede me ha insistido incansablemente sobre ello, y ahora entiendo el porqué.\nJa, ja..."
     },
     "jhZA": {
         "en-US": "[Brian]\nYou saved me from the inevitable.\nIf I didn't take Bradium then, I would have been frozen and gradually died.",
@@ -427,7 +427,7 @@
     "lRZA": {
         "en-US": "[John]\nOh well...\nThere... is nothing to worry about.",
         "pt-BR": "[John]\nAh, bem...\nNão há... nada com o que se preocupar.",
-        "es-ES": "[John]\nAh, bueno…\nNo hay nada de qué… preocuparse."
+        "es-ES": "[John]\nAh, bueno...\nNo hay nada de qué... preocuparse."
     },
     "lhZA": {
         "en-US": "[John]\nDon't worry.",
@@ -452,7 +452,7 @@
     "mhZA": {
         "en-US": "[John]\n......\nThanks....",
         "pt-BR": "[John]\n......\nObrigado...",
-        "es-ES": "[John]\n......\nGracias…"
+        "es-ES": "[John]\n......\nGracias..."
     },
     "mxZA": {
         "en-US": "[John]\n......",
@@ -467,7 +467,7 @@
     "nRZA": {
         "en-US": "[John]\n...\nI'm... okay now...\nThanks...",
         "pt-BR": "[John]\n...\nEstou... bem agora...\nObrigado...",
-        "es-ES": "[John]\n…\nMe… siento mejor ahora.\nGracias…"
+        "es-ES": "[John]\n...\nMe... siento mejor ahora.\nGracias..."
     },
     "nhZA": {
         "en-US": "[John]\nXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXXXXXXX",
@@ -612,7 +612,7 @@
     "uhZA": {
         "en-US": "[Rose]\nWhat? You came on behalf of Frede?\nYou mean you're not my admirer?\nTsk....",
         "pt-BR": "[Rose]\nHein? Veio por causa de Frede? \nEntão, não é meu admirador? \nTsc...",
-        "es-ES": "[Rose]\n¿Qué? ¿Viniste de parte de Frede?\n¿Quieres decir que no viniste porque me admiras?\nTsc…"
+        "es-ES": "[Rose]\n¿Qué? ¿Viniste de parte de Frede?\n¿Quieres decir que no viniste porque me admiras?\nTsc..."
     },
     "uxZA": {
         "en-US": "[Rose]\nI'll return to the village soon.\nWe can meet up then~",
@@ -642,7 +642,7 @@
     "wBZA": {
         "en-US": "[Rose]\nAww... you shouldn't have.\nMy ^F57D7Dheartbeat^000000 skipped.\nYou are already taking care of me.\nHe he he",
         "pt-BR": "[Rose]\nAhh... Não precisava.\n^F57D7DMeu coração até deu um salto.^000000\nVocê já está até tomando conta de mim.\nHe he he!",
-        "es-ES": "[Rose]\nAyyyy… no debiste molestarte.\nSentí que ^F57D7Del corazón me dio un brinco^000000.\nYa estás cuidándome.\nJe, je, je…"
+        "es-ES": "[Rose]\nAyyyy... no debiste molestarte.\nSentí que ^F57D7Del corazón me dio un brinco^000000.\nYa estás cuidándome.\nJe, je, je..."
     },
     "wRZA": {
         "en-US": "[Rose]\nYou're here?\nJust in time when I was about to return to the village because I missed you.",
@@ -737,7 +737,7 @@
     "0xZA": {
         "en-US": "[Lash]\nSigh......\nI'm so tired...\nBut fatigue helps me to move forward.",
         "pt-BR": "[Lash]\n*suspiro*\nEstou tão cansado...\nMas, a fadiga me ajuda a seguir em frente.",
-        "es-ES": "[Lash]\n*Suspira…*\nSiento tanto cansancio…\nPero el cansancio me ayuda a seguir adelante."
+        "es-ES": "[Lash]\n*Suspira...*\nSiento tanto cansancio...\nPero el cansancio me ayuda a seguir adelante."
     },
     "1BZA": {
         "en-US": "[Lash]\nThe sweat, heavy breathing, and continuous tiredness proves that I'm a true Sapha.\nAnd I actually enjoy it. Ha ha ha ha.",
@@ -777,7 +777,7 @@
     "2xZA": {
         "en-US": "[Lash]\nMoan...\nIs... this what they call fatigue!\nNever knew I would feel this. Sob.",
         "pt-BR": "[Lash]\n*resmungo*\n É... É isso que se chama fadiga!\nNunca achei que sentiria isso. *choro*",
-        "es-ES": "[Lash]\nAhhh…\n¿Esto es a lo que llaman fatiga?\nJamás imaginé que podía sentir esto. *Solloza*"
+        "es-ES": "[Lash]\nAhhh...\n¿Esto es a lo que llaman fatiga?\nJamás imaginé que podía sentir esto. *Solloza*"
     },
     "3BZA": {
         "en-US": "You give Bradium to Lash.",

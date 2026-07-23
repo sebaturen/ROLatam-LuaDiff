@@ -57,7 +57,7 @@
     "6/VBAQ": {
         "en-US": "[Hua Tuo]\nIf you don't know how to use the weapon's power, you will not be strong... You will be weak.",
         "pt-BR": "[Hua Tuo]\nSe você não souber como usar o poder da arma, não será forte... Será fraco.",
-        "es-ES": "[Hua Tuo]\nSi no sabes usar el poder del arma, no serás fuerte… Serás débil."
+        "es-ES": "[Hua Tuo]\nSi no sabes usar el poder del arma, no serás fuerte... Serás débil."
     },
     "7PVBAQ": {
         "en-US": "[Hua Tuo]\nWhen the tools or weapons\noverwhelm your capabilities,\nthe worst situations result.",
@@ -67,12 +67,12 @@
     "7fVBAQ": {
         "en-US": "[Hua Tuo]\nHmmm...\nI'm in trouble...",
         "pt-BR": "[Hua Tuo]\nHmmm...\nEstou em apuros...",
-        "es-ES": "[Hua Tuo]\nMmmm…\nEstoy en problemas…"
+        "es-ES": "[Hua Tuo]\nMmmm...\nEstoy en problemas..."
     },
     "7vVBAQ": {
         "en-US": "[Hua Tuo]\nI cannot do anything without my medicine. But one my patients\nneeds immediate treatment and\nI can't leave the office...",
         "pt-BR": "[Hua Tuo]\nNão posso fazer nada sem meu medicamento. Mas um de meus pacientes\nprecisa de tratamento imediato, e\nnão posso sair do consultório...",
-        "es-ES": "[Hua Tuo]\nNo puedo hacer nada sin mi medicina. Pero uno de mis pacientes\nnecesita un tratamiento inmediato y\nno puedo irme del consultorio…"
+        "es-ES": "[Hua Tuo]\nNo puedo hacer nada sin mi medicina. Pero uno de mis pacientes\nnecesita un tratamiento inmediato y\nno puedo irme del consultorio..."
     },
     "7/VBAQ": {
         "en-US": "I can help you.",
@@ -87,7 +87,7 @@
     "8fVBAQ": {
         "en-US": "[Hua Tuo]\nHuh...?\nAre...\nAre you serious?",
         "pt-BR": "[Hua Tuo]\nHein...?\nVocê está...\nEstá falando sério?",
-        "es-ES": "[Hua Tuo]\n¿Eh…?\n¿Es…?\n¿Es en serio?"
+        "es-ES": "[Hua Tuo]\n¿Eh...?\n¿Es...?\n¿Es en serio?"
     },
     "8vVBAQ": {
         "en-US": "[Hua Tuo]\nThis won't take much effort, but it may be too much to ask this of you, especially since we have just met.",
@@ -97,7 +97,7 @@
     "8/VBAQ": {
         "en-US": "If you feel burdened...",
         "pt-BR": "Se você se sente sobrecarregada...",
-        "es-ES": "Si sientes agobio…"
+        "es-ES": "Si sientes agobio..."
     },
     "9PVBAQ": {
         "en-US": "I don't mind, I'd be glad to help.",
@@ -112,7 +112,7 @@
     "9vVBAQ": {
         "en-US": "[Hua Tuo]\nHowever, I will ask you\nif we meet another time.\nNow, if you'll excuse me...",
         "pt-BR": "[Hua Tuo]\nMas vou perguntar\nse nos encontrarmos em outra ocasião.\nAgora, se me der licença...",
-        "es-ES": "[Hua Tuo]\nSin embargo, lo haré \nsi nos vemos en otra ocasión.\nAhora, si me disculpas…"
+        "es-ES": "[Hua Tuo]\nSin embargo, lo haré \nsi nos vemos en otra ocasión.\nAhora, si me disculpas..."
     },
     "9/VBAQ": {
         "en-US": "[Hua Tuo]\nHmm, I see.\nWell then, let me\nask a favor of you.",
@@ -152,7 +152,7 @@
     "/vVBAQ": {
         "en-US": "[Hua Tuo]\nYou haven't gotten\nthe medicine yet...?\nI hope you can get it\nas soon as you can...",
         "pt-BR": "[Hua Tuo]\nVocê ainda não pegou\no remédio...?\nEspero que você pegue\no quanto antes...",
-        "es-ES": "[Hua Tuo]\n¿No conseguiste\nla medicina todavía…?\nEspero que puedas conseguirla\nlo más pronto posible…"
+        "es-ES": "[Hua Tuo]\n¿No conseguiste\nla medicina todavía...?\nEspero que puedas conseguirla\nlo más pronto posible..."
     },
     "//VBAQ": {
         "en-US": "[Hua Tuo]\nIn order to prescribe medicine\nand apply acupuncture suited to\na patient, I must first consider many different factors related to health.",
@@ -167,7 +167,7 @@
     "AfZBAQ": {
         "en-US": "[Hua Tuo]\nUmm.....\nIs that so...?\nI can understand if you\ntake your time to bring the item. There's no need to rush.",
         "pt-BR": "[Hua Tuo]\nHmm.....\nÉ mesmo...?\nPosso entender se você\ndemorar pra trazer o item. Sem pressa.",
-        "es-ES": "[Hua Tuo]\nMmm…\nAh, ¿sí?\nPuedo entender si\nte tomas tu tiempo para conseguir el objeto. No hay necesidad de apurarse."
+        "es-ES": "[Hua Tuo]\nMmm...\nAh, ¿sí?\nPuedo entender si\nte tomas tu tiempo para conseguir el objeto. No hay necesidad de apurarse."
     },
     "AvZBAQ": {
         "en-US": "[Hua Tuo]\nEverybody has their own\nworries, and I understand if your own problems must take priority.",
@@ -182,12 +182,12 @@
     "BPZBAQ": {
         "en-US": "[Hua Tuo]\nUmm.....\nIs that so...?\nI can understand if you\ntake your time in bringing what I need. There's no rush.",
         "pt-BR": "[Hua Tuo]\nHmm.....\nÉ mesmo...?\nPosso entender se você\ndemorar pra trazer o que eu preciso. Sem pressa.",
-        "es-ES": "[Hua Tuo]\nMmm…\nAh, ¿sí?\nPuedo entender si\nte tomas tu tiempo para traer lo que necesito. No hay prisa."
+        "es-ES": "[Hua Tuo]\nMmm...\nAh, ¿sí?\nPuedo entender si\nte tomas tu tiempo para traer lo que necesito. No hay prisa."
     },
     "BfZBAQ": {
         "en-US": "[Hua Tuo]\nAh...\nYou've finally\nbrought it to me!\nThank you so much,\nI feel much more relieved...",
         "pt-BR": "[Hua Tuo]\nAh...\nVocê finalmente\ntrouxe!\nMuito obrigada,\nme sinto aliviada...",
-        "es-ES": "[Hua Tuo]\nAh…\n¡Por fin\nlo trajiste!\nMuchas gracias.\nMe alivia muchísimo…"
+        "es-ES": "[Hua Tuo]\nAh...\n¡Por fin\nlo trajiste!\nMuchas gracias.\nMe alivia muchísimo..."
     },
     "BvZBAQ": {
         "en-US": "[Hua Tuo]\nI apologize\nin advance,\nbut may I ask\nanother favor of you?",
@@ -212,7 +212,7 @@
     "CvZBAQ": {
         "en-US": "[Hua Tuo]\nAlright....\nI understand.\nBut let me thank you\nfor helping me out.\nPlease take this...",
         "pt-BR": "[Hua Tuo]\nTudo bem....\nEu entendo.\nMas me deixe agradecer\npela ajuda.\nAceite isso...",
-        "es-ES": "[Hua Tuo]\nMuy bien…\nLo entiendo.\nPero déjame darte las gracias\npor ayudarme.\nPor favor, toma esto…"
+        "es-ES": "[Hua Tuo]\nMuy bien...\nLo entiendo.\nPero déjame darte las gracias\npor ayudarme.\nPor favor, toma esto..."
     },
     "C/ZBAQ": {
         "en-US": "[Hua Tuo]\nThis medicine is not that\ngreat, but it's an old family secret. I hope it will be useful to you if you find yourself in great danger.",
@@ -232,12 +232,12 @@
     "DvZBAQ": {
         "en-US": "[Hua Tuo]\nI hope that I am not causing\nyou too much trouble. Um, so the medicines I'll need are...",
         "pt-BR": "[Hua Tuo]\nEspero que eu não esteja causando\nmuito problema. Hum, os medicamentos que eu preciso são...",
-        "es-ES": "[Hua Tuo]\nEspero no estar causándote\ndemasiados problemas. Eh, entonces, las medicinas que necesitaré son…"
+        "es-ES": "[Hua Tuo]\nEspero no estar causándote\ndemasiados problemas. Eh, entonces, las medicinas que necesitaré son..."
     },
     "D/ZBAQ": {
         "en-US": "[Hua Tuo]\n^0000FF2 Leopard Claw^000000 which strengthen bones, ^0000FF10 Solid Peach^000000 which strengthens muscle, ^0000FF5 Poisonous Toad Skin^000000 which replenishes the skin...",
         "pt-BR": "[Hua Tuo]\n^0000FF2 Garras de Leopardo^000000, que fortalecem os ossos, ^0000FF10 Pêssego Petrificado^000000, que fortalecem os músculos, ^0000FF5 Peles de Sapo^000000, que revigora a pele...",
-        "es-ES": "[Hua Tuo]\n^0000FF2 Garras de leopardo^000000 para fortalecer los huesos, ^0000FF10 Duraznos sólidos^000000 para fortalecer los músculos, ^0000FF5 Pieles de sapo venenoso^000000 para reponer la piel…"
+        "es-ES": "[Hua Tuo]\n^0000FF2 Garras de leopardo^000000 para fortalecer los huesos, ^0000FF10 Duraznos sólidos^000000 para fortalecer los músculos, ^0000FF5 Pieles de sapo venenoso^000000 para reponer la piel..."
     },
     "EPZBAQ": {
         "en-US": "[Hua Tuo]\n^0000FF20 Brown Root^000000 which regulates the heart, ^0000FF10 Sprout^000000 which eases the abdomen and ^0000FF5 Honey Pot^000000 which provides nutrition.",
@@ -247,7 +247,7 @@
     "EfZBAQ": {
         "en-US": "[Hua Tuo]\nI hope you were\nable to memorize all\nof that. Once again, that's...",
         "pt-BR": "[Hua Tuo]\nEspero que você seja\ncapaz de memorizar\ntudo isso. Mais uma vez...",
-        "es-ES": "[Hua Tuo]\nEspero que\nhayas podido memorizar todo\neso. Una vez más…"
+        "es-ES": "[Hua Tuo]\nEspero que\nhayas podido memorizar todo\neso. Una vez más..."
     },
     "EvZBAQ": {
         "en-US": "[Hua Tuo]\n^3355FF2 Leopard Claw^000000,\n^3355FF10 Solid Peach^000000,\n^3355FF5 Poisonous Toad Skin^000000,\n^3355FF20 Brown Root^000000,\n^3355FF10 Sprout^000000 and\n^3355FF5 Honey Pot^000000.",
@@ -257,17 +257,17 @@
     "E/ZBAQ": {
         "en-US": "[Hua Tuo]\nAh...\nDid you just say you're going to gather all the items soon? Oh, thank you for your kindness.\nI appreciate your effort\non my behalf.",
         "pt-BR": "[Hua Tuo]\nAh...\nVocê acabou de dizer que vai pegar todos os itens em breve? Ah, obrigado por sua gentileza.\nAgradeço seu esforço\npor mim.",
-        "es-ES": "[Hua Tuo]\nAh…\n¿Acabas de decir que vas a reunir todos los objetos pronto? Ah, gracias por tu amabilidad.\nAgradezco tu esfuerzo\nen mi nombre."
+        "es-ES": "[Hua Tuo]\nAh...\n¿Acabas de decir que vas a reunir todos los objetos pronto? Ah, gracias por tu amabilidad.\nAgradezco tu esfuerzo\nen mi nombre."
     },
     "FPZBAQ": {
         "en-US": "[Hua Tuo]\nAh....\nDid you just say you're going to gather all the items soon? Oh, thank you for your kindness.\nI appreciate your effort\non my behalf.",
         "pt-BR": "[Hua Tuo]\nAh...\nVocê acabou de dizer que vai pegar todos os itens em breve? Ah, obrigado por sua gentileza.\nAgradeço seu esforço\npor mim.",
-        "es-ES": "[Hua Tuo]\nAh…\n¿Acabas de decir que vas a reunir todos los objetos pronto? Ah, gracias por tu amabilidad.\nAgradezco tu esfuerzo\nen mi nombre."
+        "es-ES": "[Hua Tuo]\nAh...\n¿Acabas de decir que vas a reunir todos los objetos pronto? Ah, gracias por tu amabilidad.\nAgradezco tu esfuerzo\nen mi nombre."
     },
     "FfZBAQ": {
         "en-US": "[Hua Tuo]\nUmm.....\nIs that so...?\nI understand even\nif you can't bring\nthe medicine right away.",
         "pt-BR": "[Hua Tuo]\nHmm.....\nÉ mesmo...?\nEu entendo\nse você não puder trazer\no remédio imediatamente.",
-        "es-ES": "[Hua Tuo]\nMmm…\nAh, ¿sí?\nEntiendo\nsi no puedes traer\nla medicina de inmediato."
+        "es-ES": "[Hua Tuo]\nMmm...\nAh, ¿sí?\nEntiendo\nsi no puedes traer\nla medicina de inmediato."
     },
     "FvZBAQ": {
         "en-US": "[Hua Tuo]\nIt's okay for now,\nso don't rush yourself.\nEverybody has their own problems, so I can understand if your own troubles must take priority.",
@@ -282,7 +282,7 @@
     "GPZBAQ": {
         "en-US": "[Hua Tuo]\nAh, finally...\nYou've brought what I need. Thank you so much, it's such a relief to have this medicine onhand again.",
         "pt-BR": "[Hua Tuo]\nAh, finalmente...\nVocê trouxe o que eu precisava. Muito obrigado, é um grande alívio ter esse medicamento à mão novamente.",
-        "es-ES": "[Hua Tuo]\nAh, por fin…\nTrajiste lo que necesito. Muchas gracias, es un alivio volver a tener esta medicina a mano."
+        "es-ES": "[Hua Tuo]\nAh, por fin...\nTrajiste lo que necesito. Muchas gracias, es un alivio volver a tener esta medicina a mano."
     },
     "GfZBAQ": {
         "en-US": "[Hua Tuo]\nI apologize in advance,\nbut may I ask you another favor?\nI am asking for your help once more, since I know I can depend on you. Of course, I will compensate you for your trouble.",
@@ -292,12 +292,12 @@
     "GvZBAQ": {
         "en-US": "I'm sorry...",
         "pt-BR": "Desculpa...",
-        "es-ES": "Lo siento…"
+        "es-ES": "Lo siento..."
     },
     "G/ZBAQ": {
         "en-US": "[Hua Tuo]\nAlright....\nI understand.\nBut thank you for\nhelping me out.\nPlease take this...",
         "pt-BR": "[Hua Tuo]\nTudo bem....\nEu entendo.\nMas me deixe agradecer\npela ajuda.\nAceite isso...",
-        "es-ES": "[Hua Tuo]\nMuy bien…\nLo entiendo.\nPero gracias por\nayudarme.\nPor favor, toma esto…"
+        "es-ES": "[Hua Tuo]\nMuy bien...\nLo entiendo.\nPero gracias por\nayudarme.\nPor favor, toma esto..."
     },
     "HPZBAQ": {
         "en-US": "[Hua Tuo]\nIt's not much, but this medicine\nis an old family secret. I hope that it will be of use to you in dangerous situations.",
@@ -317,12 +317,12 @@
     "H/ZBAQ": {
         "en-US": "[Hua Tuo]\nThe medicines I need are ^0000FF2 Leopard Claw^000000 which supports the bones, ^0000FF10 Solid Peach^000000 which strengthens the muscle, ^0000FF5 Poisonous Toad Skin^000000 which replenishes the skin...",
         "pt-BR": "[Hua Tuo]\nOs medicamentos que preciso são: ^0000FF2 Garras de Leopardo^000000, que fortalecem os ossos, ^0000FF10 Pêssegos Petrificados^000000, que fortalecem os músculos, ^0000FF5 Peles de Sapo^000000, que revigora a pele...",
-        "es-ES": "[Hua Tuo]\nLas medicinas que necesito son: ^0000FF2 Garras de leopardo^000000 para fortalecer los huesos, ^0000FF10 Duraznos sólidos^000000 para fortalecer los músculos, ^0000FF5 Pieles de sapo venenoso^000000 para reponer la piel…"
+        "es-ES": "[Hua Tuo]\nLas medicinas que necesito son: ^0000FF2 Garras de leopardo^000000 para fortalecer los huesos, ^0000FF10 Duraznos sólidos^000000 para fortalecer los músculos, ^0000FF5 Pieles de sapo venenoso^000000 para reponer la piel..."
     },
     "IPZBAQ": {
         "en-US": "[Hua Tuo]\nI hope you've\nmemorized it all.\nOnce again, that's...",
         "pt-BR": "[Hua Tuo]\nEspero que tenha\nmemorizado\ntudo. Mais uma vez...",
-        "es-ES": "[Hua Tuo]\nEspero que\nhayas memorizado todo.\nUna vez más…"
+        "es-ES": "[Hua Tuo]\nEspero que\nhayas memorizado todo.\nUna vez más..."
     },
     "IfZBAQ": {
         "en-US": "[Hua Tuo]\nHm? Ah, you have returned.\nSorry, I was taking care of my other patients. Have you already gathered the medicines I'll need?",
@@ -332,7 +332,7 @@
     "IvZBAQ": {
         "en-US": "[Hua Tuo]\nLet's see...\nOh, you've brought them all.\nThank you so much for your\ngenerous help. It's such a relief to have these medicines available again...",
         "pt-BR": "[Hua Tuo]\nVamos ver...\nAh, você trouxe tudo.\nMuito obrigado por sua\ngenerosidade. É um grande alívio ter esses medicamentos disponíveis novamente...",
-        "es-ES": "[Hua Tuo]\nVeamos…\nAh, trajiste todo.\nMuchas gracias por tu\ngenerosa ayuda. Es un alivio volver a disponer de estas medicinas…"
+        "es-ES": "[Hua Tuo]\nVeamos...\nAh, trajiste todo.\nMuchas gracias por tu\ngenerosa ayuda. Es un alivio volver a disponer de estas medicinas..."
     },
     "I/ZBAQ": {
         "en-US": "[Hua Tuo]\nPlease take this as a token of my appreciation. It's not much, but this medicine is an old family secret. I hope it will be helpful to you in dangerous situations.",
@@ -347,7 +347,7 @@
     "JfZBAQ": {
         "en-US": "[Hua Tuo]\nHmm...\nUnfortunately, you haven't collected everything that I need yet. Once again, please gather...",
         "pt-BR": "[Hua Tuo]\nHmm...\nInfelizmente, você ainda não pegou tudo o que eu preciso. Mais uma vez, pegue...",
-        "es-ES": "[Hua Tuo]\nMmm…\nPor desgracia, aún no recolectaste todo lo que necesito. Una vez más, recolecta…"
+        "es-ES": "[Hua Tuo]\nMmm...\nPor desgracia, aún no recolectaste todo lo que necesito. Una vez más, recolecta..."
     },
     "JvZBAQ": {
         "en-US": "[Hua Tuo]\nYour health is affected by\nmany factors. Nutricious food and medicine alone cannot guarantee\na healthy lifestyle.",
@@ -367,7 +367,7 @@
     "KfZBAQ": {
         "en-US": "[Hua Tuo]\nHahaha...\nI hope you enjoy\nyour visit here\nin Louyang.",
         "pt-BR": "[Hua Tuo]\nHahahaha...\nEspero que você aproveite\nsua visita aqui\nem Louyang.",
-        "es-ES": "[Hua Tuo]\nJa,ja,ja…\nEspero que disfrutes\ntu visita\na Luoyang."
+        "es-ES": "[Hua Tuo]\nJa,ja,ja...\nEspero que disfrutes\ntu visita\na Luoyang."
     },
     "KvZBAQ": {
         "en-US": "Familiar-Looking Patient",
@@ -377,17 +377,17 @@
     "K/ZBAQ": {
         "en-US": "[??????]\nAwwww.....\nUmmm....\n^666666*Cough...cough...*^000000",
         "pt-BR": "[??????]\nAwwww.....\nHmmm....\n^666666*Tosse... Tosse...*^000000",
-        "es-ES": "[??????]\nAyyyy…\nMmmm…\n^666666*Cof… cof…*^000000"
+        "es-ES": "[??????]\nAyyyy...\nMmmm...\n^666666*Cof... cof...*^000000"
     },
     "LPZBAQ": {
         "en-US": "[??????]\n^666666*Cough cough...*^000000\nAww......www...\nAww...wwww..",
         "pt-BR": "[??????]\n^666666*Tosse, Tosse...*^000000\nAww......www...\nAww... wwww...",
-        "es-ES": "[??????]\n^666666*Cof cof…*^000000\nAyy… yyy…\nAyy… yyyy…"
+        "es-ES": "[??????]\n^666666*Cof cof...*^000000\nAyy... yyy...\nAyy... yyyy..."
     },
     "LfZBAQ": {
         "en-US": "[??????]\nZzzzzzz\nZzzzz.....\nZzzzz.....",
         "pt-BR": "[??????]\nZzzzzzz\nZzzzz.....\nZzzzz.....",
-        "es-ES": "[??????]\nZzzzzzz\nZzzzz…\nZzzzz…"
+        "es-ES": "[??????]\nZzzzzzz\nZzzzz...\nZzzzz..."
     },
     "LvZBAQ": {
         "en-US": "Tool Shop Master",
@@ -397,12 +397,12 @@
     "L/ZBAQ": {
         "en-US": "[Wang Chuiyi]\nMy business hasn't been doing\nwell recently. And what is wrong with this weather? I don't know what's going on with the world...",
         "pt-BR": "[Wang Chuiyi]\nMeus negócios não estão indo bem\nbem recentemente. E o que há de errado com esse clima? Não sei o que está acontecendo com o mundo...",
-        "es-ES": "[Wang Chuiyi]\nA mi negocio no le está yendo\nbien últimamente. ¿Y qué le pasa al clima? No sé qué está sucediendo con el mundo…"
+        "es-ES": "[Wang Chuiyi]\nA mi negocio no le está yendo\nbien últimamente. ¿Y qué le pasa al clima? No sé qué está sucediendo con el mundo..."
     },
     "MPZBAQ": {
         "en-US": "[Wang Chuiyi]\nDarn it!\nI hate this\nweather...!",
         "pt-BR": "[Wang Chuiyi]\nQue droga!\nEu odeio esse\ntempo...!",
-        "es-ES": "[Wang Chuiyi]\n¡Maldición!\n¡Odio este\nclima…!"
+        "es-ES": "[Wang Chuiyi]\n¡Maldición!\n¡Odio este\nclima...!"
     },
     "MfZBAQ": {
         "en-US": "[Wang Chuiyi]\nUm? Can I help\nyou with anything?",
@@ -412,7 +412,7 @@
     "MvZBAQ": {
         "en-US": "I'm here to get something for the doctor...",
         "pt-BR": "Estou aqui pra pegar algo pro médico...",
-        "es-ES": "Vine a buscar algo para la doctora…"
+        "es-ES": "Vine a buscar algo para la doctora..."
     },
     "M/ZBAQ": {
         "en-US": "I agree, the weather really is bad.",
@@ -432,7 +432,7 @@
     "NvZBAQ": {
         "en-US": "[Wang Chuiyi]\nTell me about it. This weather keeps stressing me out. Damn,\nI don't think I'll live very long if I keep getting aggravated like\nthis by the weather...",
         "pt-BR": "[Wang Chuiyi]\nNem me fala. Esse clima continua me estressando. Que droga,Acho que não vou viver muito tempo se continuar me irritando assim\nassim com o clima...",
-        "es-ES": "[Wang Chuiyi]\nNi que lo digas. Este clima sigue estresándome. Maldita sea,\nno creo que viva mucho tiempo si sigo irritándome\nasí por el clima…"
+        "es-ES": "[Wang Chuiyi]\nNi que lo digas. Este clima sigue estresándome. Maldita sea,\nno creo que viva mucho tiempo si sigo irritándome\nasí por el clima..."
     },
     "N/ZBAQ": {
         "en-US": "[Wang Chuiyi]\nI can't understand why outsiders continue to travel here to Louyang despite the weather. I'm also getting tired of keeping my business here. Sooner or later,\nI may have to leave.",
@@ -467,7 +467,7 @@
     "PfZBAQ": {
         "en-US": "[Jiang Xiayou]\n^666666*Yawn...*^000000\nThis is boring...\nSo boring, it's ridiculous. I don't wanna waste any more time here, I've got important things to do...",
         "pt-BR": "[Jiang Xiayou]\n^666666*Bocejo...*^000000\nIsso é chato...\nTão chato que chega a ser ridículo. Não quero perder mais tempo aqui, tenho coisas importantes pra fazer...",
-        "es-ES": "[Jiang Xiayou]\n^666666*Bosteza…*^000000\nEsto es aburrido…\nTan aburrido que hasta es ridículo. No quiero perder más tiempo aquí, tengo cosas importantes que hacer…"
+        "es-ES": "[Jiang Xiayou]\n^666666*Bosteza...*^000000\nEsto es aburrido...\nTan aburrido que hasta es ridículo. No quiero perder más tiempo aquí, tengo cosas importantes que hacer..."
     },
     "PvZBAQ": {
         "en-US": "[Jiang Xiayou]\nHuh?\nWhat, what are you doing here?\nIf you don't need anything, you better get a move on.",
@@ -502,7 +502,7 @@
     "RPZBAQ": {
         "en-US": "[Jiang Xiayou]\nOh yeah?\nWell, why didn't you\nsay so? Let's see.\nHmmm...",
         "pt-BR": "[Jiang Xiayou]\nAh, é?\nE por que você não\ndisse isso? Vamos ver.\nHmmm...",
-        "es-ES": "[Jiang Xiayou]\nAh, ¿sí?\nBueno, ¿por qué no\nlo mencionaste? Veamos.\nMmmm…"
+        "es-ES": "[Jiang Xiayou]\nAh, ¿sí?\nBueno, ¿por qué no\nlo mencionaste? Veamos.\nMmmm..."
     },
     "RfZBAQ": {
         "en-US": "[Jiang Xiayou]\nActually, could you help me\nout first? Don't worry, it's not so hard but it's pretty important for me. Once you help me out, I'll\nget you what you need.",
@@ -587,7 +587,7 @@
     "VfZBAQ": {
         "en-US": "[Jiang Xiayou]\nHah...\nSorry pal, you'll have to find the medicines on your own. A man's life is at stake, so I guess you oughta get a move on.",
         "pt-BR": "[Jiang Xiayou]\nHah...\nDesculpa, amigo, você terá que encontrar os medicamentos por conta própria. A vida de um homem está em jogo, então acho que você deve se mexer.",
-        "es-ES": "[Jiang Xiayou]\nJa…\nLo siento, tendrás que encontrar las medicinas por tu cuenta. La vida de una persona está en juego, así que supongo que deberías ponerte en marcha."
+        "es-ES": "[Jiang Xiayou]\nJa...\nLo siento, tendrás que encontrar las medicinas por tu cuenta. La vida de una persona está en juego, así que supongo que deberías ponerte en marcha."
     },
     "VvZBAQ": {
         "en-US": "[Jiang Xiayou]\nHuh?\nHaven't you gone\nto City Hall yet?\nWhaaaat a lazy ass.",
@@ -602,7 +602,7 @@
     "WPZBAQ": {
         "en-US": "[Jiang Xiayou]\nI guess you're\nthe forgetful type...\nWhen the guy asks what\nyou need, you tell him:",
         "pt-BR": "[Jiang Xiayou]\nAcho que você é\ndo tipo esquecido...\nQuando o cara perguntar o que\nvocê precisa, você responde:",
-        "es-ES": "[Jiang Xiayou]\nSupongo que eres\nel tipo de persona olvidadiza…\nCuando te pregunten qué \nnecesitas, responde:"
+        "es-ES": "[Jiang Xiayou]\nSupongo que eres\nel tipo de persona olvidadiza...\nCuando te pregunten qué \nnecesitas, responde:"
     },
     "WfZBAQ": {
         "en-US": "'^FF0000Residence Transfer Application^000000.'",
@@ -632,17 +632,17 @@
     "XvZBAQ": {
         "en-US": "[Jiang Xiayou]\nHmm...\nYou're lucky.\nAlright, go ahead.\nStill, things have\nbecome complicated...",
         "pt-BR": "[Jiang Xiayou]\nHmm...\nVocê tem sorte.\nTudo bem, vá em frente.\nAinda assim, as coisas\nficaram complicadas...",
-        "es-ES": "[Jiang Xiayou]\nMmm…\nTienes suerte.\nMuy bien, adelante.\nDe todos modos, las cosas\nse complicaron…"
+        "es-ES": "[Jiang Xiayou]\nMmm...\nTienes suerte.\nMuy bien, adelante.\nDe todos modos, las cosas\nse complicaron..."
     },
     "X/ZBAQ": {
         "en-US": "[Jiang Xiayou]\n^666666*Yawn~*^000000 I really hope the\nweather gets better. Man, now why did I have to think about the heat? Now I'm all depressed...",
         "pt-BR": "[Jiang Xiayou]\n^666666*Bocejo~*^000000 Espero realmente que o tempo melhore.\nCara, por que eu tinha que pensar no calor? Agora fiquei deprimido...",
-        "es-ES": "[Jiang Xiayou]\n^666666*Bosteza*^000000 Realmente espero que el\nclima mejore. ¿Por qué tuve que pensar en el calor? Ahora me deprimí…"
+        "es-ES": "[Jiang Xiayou]\n^666666*Bosteza*^000000 Realmente espero que el\nclima mejore. ¿Por qué tuve que pensar en el calor? Ahora me deprimí..."
     },
     "YPZBAQ": {
         "en-US": "[Jiang Xiayou]\nHuh. I guess I should\ntake care of these things\nas soon as I can...",
         "pt-BR": "[Jiang Xiayou]\nHuh. Acho que devo\ncuidar dessas coisas\no mais rápido possível...",
-        "es-ES": "[Jiang Xiayou]\nMmm. Supongo que debería\nocuparme de esto\ntan pronto como pueda…"
+        "es-ES": "[Jiang Xiayou]\nMmm. Supongo que debería\nocuparme de esto\ntan pronto como pueda..."
     },
     "YfZBAQ": {
         "en-US": "[Jiang Xiayou]\nHuh?\nHaven't you gone to City Hall yet? Whaaaaat a lazy ass.",
@@ -667,7 +667,7 @@
     "ZfZBAQ": {
         "en-US": "[Jiang Xiayou]\nYou finally brought it! Haha,\nI just got everything you need, too. Let me see...\nYup, this is it!\nGood, good...",
         "pt-BR": "[Jiang Xiayou]\nVocê finalmente conseguiu! Haha,\nTambém tenho tudo o que você precisa. Vamos ver...\nSim, é isso!\nBom, bom...",
-        "es-ES": "[Jiang Xiayou]\n¡Por fin la trajiste! Ja,ja,\ntengo todo lo que necesitas. Déjame ver…\n¡Sí, eso es todo!\nBien, bien…"
+        "es-ES": "[Jiang Xiayou]\n¡Por fin la trajiste! Ja,ja,\ntengo todo lo que necesitas. Déjame ver...\n¡Sí, eso es todo!\nBien, bien..."
     },
     "ZvZBAQ": {
         "en-US": "^3355FF*Rummage rummage*\n......^000000",
@@ -682,7 +682,7 @@
     "aPZBAQ": {
         "en-US": "[Jiang Xiayou]\nHuh?\nAh....\nHaha...\nSorry about\nthat. Hahaha~",
         "pt-BR": "[Jiang Xiayou]\nHã?\nAh....\nHaha...\nMe desculpa por\nisso. Hahaha~",
-        "es-ES": "[Jiang Xiayou]\n¿Eh?\nAh…\nJa,ja…\nSiento mucho\neso. Ja,ja,ja."
+        "es-ES": "[Jiang Xiayou]\n¿Eh?\nAh...\nJa,ja...\nSiento mucho\neso. Ja,ja,ja."
     },
     "afZBAQ": {
         "en-US": "[Jiang Xiayou]\nAh! Here you go. Even if it was kind of annoying to do, I guess\nwe gotta help each other, right? Alright then, I'll see ya around.",
@@ -727,7 +727,7 @@
     "cfZBAQ": {
         "en-US": "[Jin Chiyuan]\n^333333*Whispers*\nWell, there is a way that you can, shall we say, expediate our processing of your request...^000000",
         "pt-BR": "[Jin Chiyuan]\n^333333*Sussurros*\nOlha, tem um jeito de você, digamos, acelerar o processamento da sua solicitação...^000000",
-        "es-ES": "[Jin Chiyuan]\n^333333*Susurra*\nBueno, digamos que hay una forma de acelerar el proceso de tu solicitud…^000000"
+        "es-ES": "[Jin Chiyuan]\n^333333*Susurra*\nBueno, digamos que hay una forma de acelerar el proceso de tu solicitud...^000000"
     },
     "cvZBAQ": {
         "en-US": "Huh? Come again?",
@@ -742,7 +742,7 @@
     "dPZBAQ": {
         "en-US": "[Jin Chiyuan]\n^666666*Ahem!*^000000 Nothing.\nNothing of importance. Now, I'm very busy, so if you would go fill the application over there...",
         "pt-BR": "[Jin Chiyuan]\n^666666*Ahem!*^000000 Nada.\nNada de importante. Agora, estou muito ocupado, portanto, preencha o formulário de inscrição ali...",
-        "es-ES": "[Jin Chiyuan]\n^666666*¡Ejem!*^000000 Nada.\nNada importante. Ahora, estoy muy ocupado, así que ve a llenar la solicitud allí…"
+        "es-ES": "[Jin Chiyuan]\n^666666*¡Ejem!*^000000 Nada.\nNada importante. Ahora, estoy muy ocupado, así que ve a llenar la solicitud allí..."
     },
     "dfZBAQ": {
         "en-US": "[Jin Chiyuan]\nGood lord,\nwhat are you thinking?\nWhat am I, a beggar?!\nThat's a poor excuse\nfor a bribe!",
@@ -752,12 +752,12 @@
     "dvZBAQ": {
         "en-US": "[Jin Chiyuan]\nI mean...\nHow dare you bribe an officer of the law! I hope other outsiders are not like you! Please leave immediately!",
         "pt-BR": "[Jin Chiyuan]\nQuero dizer...\nComo ousa subornar um oficial da lei? Espero que outros forasteiros não sejam como você! Por favor, saia imediatamente!",
-        "es-ES": "[Jin Chiyuan]\nEs decir…\n¡Cómo te atreves a sobornar a un funcionario de la ley! ¡Espero que el resto de los forasteros no sean como tú! ¡Por favor, vete inmediatamente!"
+        "es-ES": "[Jin Chiyuan]\nEs decir...\n¡Cómo te atreves a sobornar a un funcionario de la ley! ¡Espero que el resto de los forasteros no sean como tú! ¡Por favor, vete inmediatamente!"
     },
     "d/ZBAQ": {
         "en-US": "[Jin Chiyuan]\nWhat...?!\nThat's not what I meant,\nbut if you insist on donating to our government...",
         "pt-BR": "[Jin Chiyuan]\nO quê...?!\nNão foi isso que eu quis dizer,\nmas se você insiste em doar pro nosso governo...",
-        "es-ES": "[Jin Chiyuan]\n¡¿Qué?!\nNo me refería a eso,\npero si insistes en hacer donaciones a nuestro gobierno…"
+        "es-ES": "[Jin Chiyuan]\n¡¿Qué?!\nNo me refería a eso,\npero si insistes en hacer donaciones a nuestro gobierno..."
     },
     "ePZBAQ": {
         "en-US": "[Jin Chiyuan]\n^666666*Whispers*^000000\n^333333When you go up stairs, another officer will give you the document you want.^000000 ^666666*Ahem*^000000 Louyang thanks you!",
@@ -772,7 +772,7 @@
     "evZBAQ": {
         "en-US": "[Jin Chiyuan]\nOh well...\nLet me tell you that this is not a good time for tourists. I hope you don't wander into places you're\nnot supposed to be.",
         "pt-BR": "[Jin Chiyuan]\nAh, bem...\nEssa não é uma boa época pra turistas. Espero que não entrem em lugares que\nnão deveriam estar.",
-        "es-ES": "[Jin Chiyuan]\nAh, bueno…\nDéjame decirte que no es un buen momento para los turistas. Espero que no deambules por lugares\ndonde no debes."
+        "es-ES": "[Jin Chiyuan]\nAh, bueno...\nDéjame decirte que no es un buen momento para los turistas. Espero que no deambules por lugares\ndonde no debes."
     },
     "e/ZBAQ": {
         "en-US": "[Jin Chiyuan]\nQuite frankly,\nit's a dangerous climate for curiosity right now. Please,\nbe careful.",
@@ -787,12 +787,12 @@
     "ffZBAQ": {
         "en-US": "[Jin Chiyuan]\nHahahaha...\nTake care,\nRune-Midgardian.",
         "pt-BR": "[Jin Chiyuan]\nHahahahaha...\nSe cuida,\nRune-Midgardiano.",
-        "es-ES": "[Jin Chiyuan]\nJa,ja,ja,ja…\n¡Cuídate,\nRune-Midgardiano!"
+        "es-ES": "[Jin Chiyuan]\nJa,ja,ja,ja...\n¡Cuídate,\nRune-Midgardiano!"
     },
     "fvZBAQ": {
         "en-US": "[Jin Chiyuan]\nAh~\nYou met him,\ndidn't you?\nHahaha...\nEnjoy your stay\nin Louyang!",
         "pt-BR": "[Jin Chiyuan]\nAh~\nVocê encontrou ele,\nnão foi?\nHahahaha...\nAproveite sua estadia\nem Louyang!",
-        "es-ES": "[Jin Chiyuan]\nAh.\nLo viste,\n¿verdad?\nJa,ja,ja…\n¡Disfruta de tu estadía\nen Luoyang!"
+        "es-ES": "[Jin Chiyuan]\nAh.\nLo viste,\n¿verdad?\nJa,ja,ja...\n¡Disfruta de tu estadía\nen Luoyang!"
     },
     "f/ZBAQ": {
         "en-US": "[Jin Chiyuan]\nWelcome.\nHow may I help you?",
@@ -827,7 +827,7 @@
     "hfZBAQ": {
         "en-US": "[Huang Zhishu]\nHmmm...?\nWell...\n...\nI see...\n^666666*Mumble mumble...*^000000",
         "pt-BR": "[Huang Zhishu]\nHmmm...?\nOlha...\n...\nEntendi...\n^666666*Resmungo, resmungo...*^000000",
-        "es-ES": "[Huang Zhishu]\n¿Mmm…?\nBueno…\n…\nYa veo…\n^666666*Murmura, murmura…*^000000"
+        "es-ES": "[Huang Zhishu]\n¿Mmm...?\nBueno...\n...\nYa veo...\n^666666*Murmura, murmura...*^000000"
     },
     "hvZBAQ": {
         "en-US": "[Huang Zhishu]\n.........\n^666666*Mumble mumble*^000000",
@@ -842,7 +842,7 @@
     "iPZBAQ": {
         "en-US": "[Huang Zhishu]\n^666666*Mumble mumble...*^000000\nHmm... I see...\nAh, I see....\n^666666*Mumble mumble...*^000000",
         "pt-BR": "[Huang Zhishu]\n^666666*Resmungo, resmungo...*^000000\nHmm... Entendi...\nAh, entendi....\n^666666*Resmungo, resmungo...*^000000",
-        "es-ES": "[Huang Zhishu]\n^666666*Murmura, murmura…*^000000\nMmm… Ya veo…\nAh, ya veo…\n^666666*Murmura, murmura…*^000000"
+        "es-ES": "[Huang Zhishu]\n^666666*Murmura, murmura...*^000000\nMmm... Ya veo...\nAh, ya veo...\n^666666*Murmura, murmura...*^000000"
     },
     "ifZBAQ": {
         "en-US": "[Huang Zhishu]\nA book is more than a mere collection of pages and words are more than simple arrangements of letters that mean nothing.",
@@ -862,7 +862,7 @@
     "jPZBAQ": {
         "en-US": "^3355FF*Rummage rummage...*^000000",
         "pt-BR": "^3355FF*Vasculha, vasculha...*^000000",
-        "es-ES": "^3355FF*Hurga, hurga…*^000000"
+        "es-ES": "^3355FF*Hurga, hurga...*^000000"
     },
     "jfZBAQ": {
         "en-US": "[Huang Zhishu]\nA book is more than a mere collection of pages and words are more than simple arrangements of letters.",
@@ -882,7 +882,7 @@
     "kPZBAQ": {
         "en-US": "[Huang Zhishu]\n^3355FF*Rummage rummage...*^000000",
         "pt-BR": "[Huang Zhishu]\n^3355FF*Vasculha, vasculha...*^000000",
-        "es-ES": "[Huang Zhishu]\n^3355FF*Hurga, hurga…*^000000"
+        "es-ES": "[Huang Zhishu]\n^3355FF*Hurga, hurga...*^000000"
     },
     "kfZBAQ": {
         "en-US": "[Huang Zhishu]\nHuh?\nWhat are you doing here?\nPlease don't disturb me,\nI'm trying to study.",
@@ -897,47 +897,47 @@
     "k/ZBAQ": {
         "en-US": "[Huang Zhishu]\nApology accepted.\nHmmm....\nOh I see, I see...",
         "pt-BR": "[Huang Zhishu]\nDesculpa aceita.\nHmmm....\nAh, entendi, entendi...",
-        "es-ES": "[Huang Zhishu]\nAcepto tus disculpas.\nMmm…\nAh, ya veo, ya veo…"
+        "es-ES": "[Huang Zhishu]\nAcepto tus disculpas.\nMmm...\nAh, ya veo, ya veo..."
     },
     "lPZBAQ": {
         "en-US": "^3355FF*Rummage rummage...*\n.........^000000",
         "pt-BR": "^3355FF*Vasculha, vasculha...*\n.........^000000",
-        "es-ES": "^3355FF*Hurga, hurga…*\n.........^000000"
+        "es-ES": "^3355FF*Hurga, hurga...*\n.........^000000"
     },
     "lfZBAQ": {
         "en-US": "[Huang Zhishu]\nHuh?\nAh...\nYou're the one I'm waiting for.\nSo what kind of document\ndid you need?",
         "pt-BR": "[Huang Zhishu]\nHã?\nAh...\nÉ você que eu tô esperando.\nEntão, que tipo de documento\nvocê precisa?",
-        "es-ES": "[Huang Zhishu]\n¿Eh?\nAh…\nTe estaba esperando.\n¿Qué tipo de documento\nnecesitabas?"
+        "es-ES": "[Huang Zhishu]\n¿Eh?\nAh...\nTe estaba esperando.\n¿Qué tipo de documento\nnecesitabas?"
     },
     "mvZBAQ": {
         "en-US": "[Huang Zhishu]\nLet's see, now.\nYou want...\na {0}?",
         "pt-BR": "[Huang Zhishu]\nVamos ver.\nVocê quer...\num(a) {0}?",
-        "es-ES": "[Huang Zhishu]\nVeamos.\n¿Quieres…\nlo siguiente: {0}?"
+        "es-ES": "[Huang Zhishu]\nVeamos.\n¿Quieres...\nlo siguiente: {0}?"
     },
     "nPZBAQ": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "nfZBAQ": {
         "en-US": "...\n......",
         "pt-BR": "...\n......",
-        "es-ES": "…\n......"
+        "es-ES": "...\n......"
     },
     "nvZBAQ": {
         "en-US": "...\n......\n.........",
         "pt-BR": "...\n......\n.........",
-        "es-ES": "…\n......\n........."
+        "es-ES": "...\n......\n........."
     },
     "n/ZBAQ": {
         "en-US": "...\n......\n.........\n............",
         "pt-BR": "...\n......\n.........\n............",
-        "es-ES": "…\n......\n.........\n............"
+        "es-ES": "...\n......\n.........\n............"
     },
     "oPZBAQ": {
         "en-US": "...\n......\n.........\n............\n...............",
         "pt-BR": "...\n......\n.........\n............\n...............",
-        "es-ES": "…\n......\n.........\n............\n..............."
+        "es-ES": "...\n......\n.........\n............\n..............."
     },
     "ofZBAQ": {
         "en-US": "[Huang Zhishu]\nHere it is. A few days ago, someone asked me for the same document,\nso I was able to find it again pretty easily. I hope it's useful to you.",
@@ -947,7 +947,7 @@
     "ovZBAQ": {
         "en-US": "[Huang Zhishu]\nHuh?\nWha...?",
         "pt-BR": "[Huang Zhishu]\nHã?\nO quê...?",
-        "es-ES": "[Huang Zhishu]\n¿Eh?\n¿Qué…?"
+        "es-ES": "[Huang Zhishu]\n¿Eh?\n¿Qué...?"
     },
     "o/ZBAQ": {
         "en-US": "[Huang Zhishu]\nI'm sorry but I don't think we have that one. You might want to check the name of the document once\nmore, and then ask me again.",
@@ -977,12 +977,12 @@
     "q/ZBAQ": {
         "en-US": "[Huang Zhishu]\nHuh?\nWha...",
         "pt-BR": "[Huang Zhishu]\nHã?\nO quê...",
-        "es-ES": "[Huang Zhishu]\n¿Eh?\n¿Qué…?"
+        "es-ES": "[Huang Zhishu]\n¿Eh?\n¿Qué...?"
     },
     "rPZBAQ": {
         "en-US": "[Huang Zhishu]\nHmmm...?\nDo you think I need to go outside more often? Well, I guess for some reason, I don't feel well. I guess I really should get some fresh air. ^666666*Yawn...*^000000",
         "pt-BR": "[Huang Zhishu]\nHmmm...?\nVocê acha que eu preciso sair mais vezes? Bem, acho que, por algum motivo, não estou me sentindo bem. Acho que eu realmente deveria tomar um pouco de ar fresco. ^666666*Bocejo...*^000000",
-        "es-ES": "[Huang Zhishu]\n¿Mmm…?\n¿Crees que tengo que salir más a menudo? Bueno, por alguna razón, no me siento bien. Supongo que debería tomar un poco de aire fresco. ^666666*Bosteza…*^000000"
+        "es-ES": "[Huang Zhishu]\n¿Mmm...?\n¿Crees que tengo que salir más a menudo? Bueno, por alguna razón, no me siento bien. Supongo que debería tomar un poco de aire fresco. ^666666*Bosteza...*^000000"
     },
     "rfZBAQ": {
         "en-US": "[Huang Zhishu]\nBut you should get out more often yourself! It's not a good idea to always stay home. If you don't get some exercise when you're young,\nit could affect your health later.",
@@ -1012,7 +1012,7 @@
     "svZBAQ": {
         "en-US": "[Jiang Xiayou]\nWhat...!\nYou found it...?!\nBah, I can't believe it!\nYou're just lucked out!\n^666666*Grumble grumble*^000000",
         "pt-BR": "[Jiang Xiayou]\nO que...!\nVocê a encontrou...?!\nBah, não acredito!\nVocê teve sorte!\n^666666*Resmunga, resmunga*^000000",
-        "es-ES": "[Jiang Xiayou]\n¡Qué…!\n¡¿La encontraste…?!\nBah, ¡no puedo creerlo!\n¡Tienes suerte!\n^666666*Gruñe, gruñe*^000000"
+        "es-ES": "[Jiang Xiayou]\n¡Qué...!\n¡¿La encontraste...?!\nBah, ¡no puedo creerlo!\n¡Tienes suerte!\n^666666*Gruñe, gruñe*^000000"
     },
     "s/ZBAQ": {
         "en-US": "^3355FF*Rummage rummage*\n*Rummage rummage*\n*Rummage rummage*\nYou didn't find anything.^000000",
@@ -1022,7 +1022,7 @@
     "tPZBAQ": {
         "en-US": "[Jiang Xiayou]\nHey, hey...\nI told you! It's not too late, why don't you do me the favor I asked? I'm only asking you once!",
         "pt-BR": "[Jiang Xiayou]\nEi, ei...\nJá falei! Não é tarde demais, por que você não faz o favor que eu pedi? Só uma vez!",
-        "es-ES": "[Jiang Xiayou]\nOye, oye…\n¡Ya te lo dije! No es demasiado tarde, ¿por qué no me haces el favor que te pedí? ¡Solo te lo pido una vez!"
+        "es-ES": "[Jiang Xiayou]\nOye, oye...\n¡Ya te lo dije! No es demasiado tarde, ¿por qué no me haces el favor que te pedí? ¡Solo te lo pido una vez!"
     },
     "tfZBAQ": {
         "en-US": "^3355FF*Rummage rummage*\nYou didn't find anything. You decided to give up your search.^000000",
@@ -1052,12 +1052,12 @@
     "uvZBAQ": {
         "en-US": "[Jiang Xiayou]\nErr...\nYou found it...?!\nI can't believe it!\nYou just lucked out.",
         "pt-BR": "[Jiang Xiayou]\nErr...\nVocê encontrou...?!\nNão posso acreditar!\nVocê simplesmente teve sorte.",
-        "es-ES": "[Jiang Xiayou]\nEh…\n¡¿La encontraste…?!\nNo puedo creerlo.\nTuviste suerte."
+        "es-ES": "[Jiang Xiayou]\nEh...\n¡¿La encontraste...?!\nNo puedo creerlo.\nTuviste suerte."
     },
     "u/ZBAQ": {
         "en-US": "[Jiang Xiayou]\nHey, hey...\nI told you!\nIt's not too late for you\nto do the favor I asked.\nI'm only asking you once!",
         "pt-BR": "[Jiang Xiayou]\nEi, ei...\nJá falei!\nNão é tarde demais, por que você não faz \no favor que eu pedi?\nSó uma vez!",
-        "es-ES": "[Jiang Xiayou]\nOye, oye…\n¡Ya te lo dije!\nAún estás a tiempo\nde hacerme el favor que te pedí.\n¡Solo te lo pido una vez!"
+        "es-ES": "[Jiang Xiayou]\nOye, oye...\n¡Ya te lo dije!\nAún estás a tiempo\nde hacerme el favor que te pedí.\n¡Solo te lo pido una vez!"
     },
     "vPZBAQ": {
         "en-US": "^3355FFThere are many things piled up to the ceiling. Since there is too much stuff jumbled together, it doesn't seem possible that you'll find anything in this stack.^000000",

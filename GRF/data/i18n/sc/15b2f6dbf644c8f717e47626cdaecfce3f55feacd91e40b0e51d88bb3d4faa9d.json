@@ -207,7 +207,7 @@
     "Kbrb": {
         "en-US": "^3355FFThe numbers one\nthrough nine are\netched on the surface\nof the metal plate on\ntop of the box you found,\nlike some kind of keypad...^000000",
         "pt-BR": "^3355FFOs números de um\na nove estão gravados,\ncomo um tipo de teclado,\nna superfície da placa de\nmetal que fica sobre a\ncaixa que você encontrou...^000000",
-        "es-ES": "^3355FFLa placa metálica\nde la caja que encontraste\ntiene grabados números\ndel uno al nueve\nen la superficie,\ncomo una especie de teclado…^000000"
+        "es-ES": "^3355FFLa placa metálica\nde la caja que encontraste\ntiene grabados números\ndel uno al nueve\nen la superficie,\ncomo una especie de teclado...^000000"
     },
     "Krrb": {
         "en-US": "^3355FFDoing that probably won't\nbreak open this keg. You'll\nneed to try something else.^000000",
@@ -217,12 +217,12 @@
     "K7rb": {
         "en-US": "^3355FFYou decide to enter\nsome numbers into the\nmetallic keypad. Remember,\nyou can only enter single\ndigit numbers at one time...^000000",
         "pt-BR": "^3355FFVocê decide tentar\nalguns números no\nteclado metálico. Lembre-se,\nvocê só pode digitar um único\nnúmero de um dígito por vez...^000000",
-        "es-ES": "^3355FFDecides introducir\nalgunos números en el\nteclado metálico. Recuerda que\nsolo puedes introducir\nnúmeros de un dígito a la vez…^000000"
+        "es-ES": "^3355FFDecides introducir\nalgunos números en el\nteclado metálico. Recuerda que\nsolo puedes introducir\nnúmeros de un dígito a la vez...^000000"
     },
     "LLrb": {
         "en-US": "^3355FFNothing happened...^000000",
         "pt-BR": "^3355FFNada acontece...^000000",
-        "es-ES": "^3355FFNo pasó nada…^000000"
+        "es-ES": "^3355FFNo pasó nada...^000000"
     },
     "Lbrb": {
         "en-US": "^3355FFYou decide to enter\nsome numbers into the\nnumberpad etched on the\nmetal plate on top of the box\nyou found inside the keg.^000000",
@@ -297,7 +297,7 @@
     "O7rb": {
         "en-US": "^3355FFNow, if you could\nsomehow shut down the\nPower Generator in this\nroom, the bulb would be\ncool enough for you to touch...^000000",
         "pt-BR": "^3355FFMas, se de alguma forma,\nvocê conseguir desligar\no Gerador de Força dessa\nsala, a lâmpada deve\nesfriar o suficiente para você tocá-lo...^000000",
-        "es-ES": "^3355FFSi pudieras\napagar de alguna forma\nel generador de energía\nde esta sala, la bombilla se\nenfriaría y podrías tocarla…^000000"
+        "es-ES": "^3355FFSi pudieras\napagar de alguna forma\nel generador de energía\nde esta sala, la bombilla se\nenfriaría y podrías tocarla...^000000"
     },
     "PLrb": {
         "en-US": "The Status Light\nis now off and the\nbulb has cooled down.",
@@ -417,7 +417,7 @@
     "U7rb": {
         "en-US": "^3355FFThis desk drawer is\nlocked very securely.\nThe owner of this desk\nwas wise to provide a\nmeasure of drawer security.\nBut why put sticks under the\ndesk? This is most curious...^000000",
         "pt-BR": "^3355FFEssa gaveta está \nmuito bem trancada.\nO dono dessa gaveta\nfoi astuto para criar\numa medida de proteção para ela.\nMas porque colocar bastões sob\na mesa? Isso é bastante intrigante...^000000",
-        "es-ES": "^3355FFEste cajón del escritorio\nestá bien cerrado.\nQuien posee este escritorio\ntuvo la prudencia de agregar\nuna medida de seguridad al cajón.\nPero ¿por qué poner varas debajo del\nescritorio? Eso sí es curioso…^000000"
+        "es-ES": "^3355FFEste cajón del escritorio\nestá bien cerrado.\nQuien posee este escritorio\ntuvo la prudencia de agregar\nuna medida de seguridad al cajón.\nPero ¿por qué poner varas debajo del\nescritorio? Eso sí es curioso...^000000"
     },
     "VLrb": {
         "en-US": "Bed",
@@ -457,7 +457,7 @@
     "W7rb": {
         "en-US": "^3355FFIn a distant and\ndusty corner beneath\nthe bed, you manage to\nspot an object. If only you\ncould reach it somehow...^000000",
         "pt-BR": "^3355FFNum canto distante\ne empoeirado debaixo\nda cama, você consegue\nver um objeto. Se você \nconseguisse alcançá-lo...^000000",
-        "es-ES": "^3355FFEn un lejano y\npolvoriento rincón debajo de\nla cama, te las arreglas para\navistar un objeto. Si tan solo pudieras\nalcanzarlo de alguna forma…^000000"
+        "es-ES": "^3355FFEn un lejano y\npolvoriento rincón debajo de\nla cama, te las arreglas para\navistar un objeto. Si tan solo pudieras\nalcanzarlo de alguna forma...^000000"
     },
     "XLrb": {
         "en-US": "Short Stick",
@@ -587,7 +587,7 @@
     "dbrb": {
         "en-US": "^3355FFWhatever you tried\ndid not succeed in\nopening this cabinet.\nThink. Think of how\nlocks are unlocked...\nThen you'll find the\nanswer you seek.^000000",
         "pt-BR": "^3355FFMesmo usando isso \nvocê não consegue\nabrir o gabinete.\nPense. Pense em como\nabrir uma fechadura...\nEntão encontrará a\nresposta que procura.^000000",
-        "es-ES": "^3355FFLo que hayas intentado\nno sirvió para\nabrir este armario.\nPiensa. Piensa en cómo\nse abren las cerraduras…\nEntonces, encontrarás la\nrespuesta que buscas.^000000"
+        "es-ES": "^3355FFLo que hayas intentado\nno sirvió para\nabrir este armario.\nPiensa. Piensa en cómo\nse abren las cerraduras...\nEntonces, encontrarás la\nrespuesta que buscas.^000000"
     },
     "drrb": {
         "en-US": "^3355FFThis is the locker\nwhere you used the\nGreen Key to open one\nof the Drawers and obtained\na ^000000Polygon^3355FF. You're pretty happy\nwith your Polygon and don't\nneed to open the other drawers.^000000",
@@ -622,7 +622,7 @@
     "fLrb": {
         "en-US": "^3355FFThis is where you\nobtained the ^000000Oval^3355FF.\nAs you look around\nthe tube's location,\nyou notice an artificial\nground fissure which\ncan probably open up...^000000",
         "pt-BR": "^3355FFAqui é o lugar onde\nvocê obteve o objeto ^000000 Oval^3355FF.\nQuando você examina\no lugar onde está o tubo,\npercebe uma fissura artificial\nno chão que provavelmente\npode ser aberta...^000000",
-        "es-ES": "^3355FFAquí es donde\nobtuviste el ^000000Óvalo^3355FF.\nAl mirar alrededor\nde la ubicación del tubo,\nnotas una fisura artificial\nen el suelo que probablemente\npuedas abrir…^000000"
+        "es-ES": "^3355FFAquí es donde\nobtuviste el ^000000Óvalo^3355FF.\nAl mirar alrededor\nde la ubicación del tubo,\nnotas una fisura artificial\nen el suelo que probablemente\npuedas abrir...^000000"
     },
     "fbrb": {
         "en-US": "^3355FFThere is a narrow,\nrectangular card slot\nin front of the tube.^000000",
@@ -647,7 +647,7 @@
     "gbrb": {
         "en-US": "^3355FFYou walk down\nthe long flight\nof winding stairs...^000000",
         "pt-BR": "^3355FFVocê desce\nos longos lances\nda sinuosa escada...^000000",
-        "es-ES": "^3355FFDesciendes por el largo\ntramo de escaleras\nde caracol…^000000"
+        "es-ES": "^3355FFDesciendes por el largo\ntramo de escaleras\nde caracol...^000000"
     },
     "grrb": {
         "en-US": "^3355FF..............\nNothing happened.^000000",
@@ -662,7 +662,7 @@
     "hLrb": {
         "en-US": "^3355FFThis is where you\nobtained the ^000000Oval^3355FF.\nAs you look around\nthe tube's location,\nyou notice an articial\nground fissure which\ncan probably open up...^000000",
         "pt-BR": "^3355FFAqui é o lugar onde\nvocê obteve o objeto ^000000 Oval^3355FF.\nQuando você examina\no lugar onde está o tubo,\npercebe uma fissura\nartificial no chão que\nprovavelmente pode ser aberta...^000000",
-        "es-ES": "^3355FFAquí es donde\nobtuviste el ^000000Óvalo^3355FF.\nAl mirar alrededor\nde la ubicación del tubo,\nnotas una fisura artificial\nen el suelo que probablemente\npuedas abrir…^000000"
+        "es-ES": "^3355FFAquí es donde\nobtuviste el ^000000Óvalo^3355FF.\nAl mirar alrededor\nde la ubicación del tubo,\nnotas una fisura artificial\nen el suelo que probablemente\npuedas abrir...^000000"
     },
     "hbrb": {
         "en-US": "Box",

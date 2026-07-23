@@ -12,7 +12,7 @@
     "4ge8AQ": {
         "en-US": "[Catalogue Magician]\nLook... theMagic Academy in Geffen is now directly selling\nthe brand new, ^007777Window Shopper Catalogue^000000!",
         "pt-BR": "[Catalogador Mágico]\nA Guilda dos Magos em Geffen está comercializando diretamente \no novo item, ^007777Catálogo de Vendas Prata^000000!",
-        "es-ES": "[Catálogo de Mago]\nMira… ahora la Academia de Magia en Geffen vende directamente\nel nuevo ^007777Catálogo de escaparate de tienda^000000."
+        "es-ES": "[Catálogo de Mago]\nMira... ahora la Academia de Magia en Geffen vende directamente\nel nuevo ^007777Catálogo de escaparate de tienda^000000."
     },
     "4we8AQ": {
         "en-US": "He is looking at the words\nwritten on his hand.\nSeems that he's too busy\nto look at you.",
@@ -52,7 +52,7 @@
     "6ge8AQ": {
         "en-US": "[Catalogue Magician]\nTrade has been stopped!\nI don't know what to do next...\nWhat should I do?",
         "pt-BR": "[Catalogador Mágico]\nA negociação não será concluída, mas...\nEu não sei o que fazer... \nO que eu deveria fazer agora?",
-        "es-ES": "[Catálogo de Mago]\n¡El comercio se detuvo!\nNo sé qué hacer ahora…\n¿Qué debo hacer?"
+        "es-ES": "[Catálogo de Mago]\n¡El comercio se detuvo!\nNo sé qué hacer ahora...\n¿Qué debo hacer?"
     },
     "6we8AQ": {
         "en-US": "[Catalogue Magician]\nIt should no more than 50 pieces.",
@@ -72,7 +72,7 @@
     "7ge8AQ": {
         "en-US": "[Catalogue Magician]\nArgh...you really need this item....\nDo you want me to explain again?\nI don't know what to do next...\nWhat should I do?",
         "pt-BR": "[Catalogador Mágico]\nArgh...você realmente precisará desses itens... \nVocê quer que eu lhe explique novamente? \nEu não sei o que devo fazer agora... \nO que eu devo fazer?",
-        "es-ES": "[Catálogo de Mago]\nUf… Realmente necesitas este objeto…\n¿Quieres que te lo explique otra vez?\nNo sé qué hacer ahora…\n¿Qué debo hacer?"
+        "es-ES": "[Catálogo de Mago]\nUf... Realmente necesitas este objeto...\n¿Quieres que te lo explique otra vez?\nNo sé qué hacer ahora...\n¿Qué debo hacer?"
     },
     "7we8AQ": {
         "en-US": "[Catalogue Magician]\nMy real job is a magician.\nI was going to ask the merchant guild to sell them, but they were trying to use them as an appendix into broom sales.\nThat's why I am selling 'em by myself.",
@@ -82,6 +82,6 @@
     "8Ae8AQ": {
         "en-US": "[Catalogue Magician]\nThere are many adventurers here coming and going.\nI'm pretty sure that I can sell them all soon.\nDon't you think so?\nSo... let's start! Buy more of them, please!... PLEASE!",
         "pt-BR": "[Catalogador Mágico]\nExistem muitos aventureiros aqui que sempre vem e vão. \nTenho certeza que venderei todos esses itens em breve. \nVocê não acha?\nEntão, quer comprar mais alguns? Por favor?!... POR FAVORRR?!",
-        "es-ES": "[Catálogo de Mago]\nAquí hay muchos trotamundos que van y vienen.\nEstoy seguro de que pronto podré venderlos todos.\n¿Lo crees?\nEntonces… ¡empecemos! ¡Compra más, por favor! ¡POR FAVOR!"
+        "es-ES": "[Catálogo de Mago]\nAquí hay muchos trotamundos que van y vienen.\nEstoy seguro de que pronto podré venderlos todos.\n¿Lo crees?\nEntonces... ¡empecemos! ¡Compra más, por favor! ¡POR FAVOR!"
     }
 }

@@ -1,0 +1,1112 @@
+{
+    "4Ow5DQ": {
+        "en-US": "Broadcast Check",
+        "pt-BR": "Checagem de transmissão",
+        "es-ES": "Comprobación de emisión"
+    },
+    "4ew5DQ": {
+        "en-US": "[Test]\n2024 Reduced Spawn Coordinates\nround_chk {0}\nmonster_chk {1}",
+        "pt-BR": "[Teste]\nRedução das coordenadas de ressurgimento de 2024\nround_chk {0}\nmonster_chk {1}",
+        "es-ES": "[Prueba]\nReducción de coordenadas de reaparición 2024\nround_chk {0}\nmonster_chk {1}"
+    },
+    "4uw5DQ": {
+        "en-US": "Move Floors",
+        "pt-BR": "Mover de andar",
+        "es-ES": "Mover de planta"
+    },
+    "4+w5DQ": {
+        "en-US": "Shuffle",
+        "pt-BR": "Embaralhar",
+        "es-ES": "Mezclar"
+    },
+    "5Ow5DQ": {
+        "en-US": "Display Monsters",
+        "pt-BR": "Exibir monstros",
+        "es-ES": "Mostrar monstruos"
+    },
+    "5ew5DQ": {
+        "en-US": "Actual Progress",
+        "pt-BR": "Progresso real",
+        "es-ES": "Progreso real"
+    },
+    "5uw5DQ": {
+        "en-US": "[Constellation's Whisper]\nWhere did the rest of your companions go? Tell them all to come in instead of running away.",
+        "pt-BR": "[Sussurro da Constelação]\nOnde estão seus outros companheiros? Não fujam. Diga a todos para entrarem.",
+        "es-ES": "[Susurro de la constelación]\n¿Dónde están tus demás compañeros? Diles que dejen de huir y entren todos."
+    },
+    "5+w5DQ": {
+        "en-US": "[Constellation's Whisper]\nNow go forth. I will watch your progress.",
+        "pt-BR": "[Sussurro da Constelação]\nAgora, avance. Observarei seus passos.",
+        "es-ES": "[Susurro de la constelación]\nAhora avanza. Observaré tus pasos."
+    },
+    "6Ow5DQ": {
+        "en-US": "^0000FFThe brazier wants an offering.^000000",
+        "pt-BR": "^0000FFO braseiro deseja uma oferenda.^000000",
+        "es-ES": "^0000FFEl brasero exige una ofrenda.^000000"
+    },
+    "6ew5DQ": {
+        "en-US": "Offer {0} Meteor Dust and move to floor {1}",
+        "pt-BR": "Oferecer {0} Pó de Meteorito e ir para o {1}º andar",
+        "es-ES": "Ofrecer {0} uds. de Polvo de meteorito y moverse a la planta {1}"
+    },
+    "6uw5DQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "6+w5DQ": {
+        "en-US": "^0000FFThe brazier loses its light, as if disappointed.^000000",
+        "pt-BR": "^0000FFO braseiro perde o brilho, como se estivesse decepcionado.^000000",
+        "es-ES": "^0000FFEl brasero pierde su brillo, como decepcionado.^000000"
+    },
+    "7Ow5DQ": {
+        "en-US": "^0000FF{0} Meteor Dust is required.^000000",
+        "pt-BR": "^0000FFSão necessários {0} Pó de Meteorito.^000000",
+        "es-ES": "^0000FFSe necesitan {0} uds. de Polvo de meteorito.^000000"
+    },
+    "7ew5DQ": {
+        "en-US": "Offer {0} Meteor Dust as an offering and warp the party to floor {1}",
+        "pt-BR": "Oferecer {0} Pó de Meteorito como oferenda e teleportar o grupo para o {1}º andar",
+        "es-ES": "Ofrecer {0} uds. de Polvo de meteorito y teletransportar al grupo a la planta {1}"
+    },
+    "7uw5DQ": {
+        "en-US": "To Betel",
+        "pt-BR": "Para Betel",
+        "es-ES": "Hacia Betel"
+    },
+    "7+w5DQ": {
+        "en-US": "Direct to Nacht Sieger",
+        "pt-BR": "Direto para Nacht Sieger",
+        "es-ES": "Directo a Nacht Sieger"
+    },
+    "8Ow5DQ": {
+        "en-US": "[Oscar]\nAre you fully prepared? If you are ready, shall we begin climbing the tower?",
+        "pt-BR": "[Oscar]\nVocê já está preparado? Se estiver, vamos subir a torre agora?",
+        "es-ES": "[Oscar]\n¿Ya estáis preparados? Si estáis listos, ¿subimos directamente a la torre?"
+    },
+    "8ew5DQ": {
+        "en-US": "Please wait a moment!",
+        "pt-BR": "Espere um pouco!",
+        "es-ES": "¡Espera un momento!"
+    },
+    "8uw5DQ": {
+        "en-US": "Let's depart now.",
+        "pt-BR": "Vamos partir agora",
+        "es-ES": "Partamos ya"
+    },
+    "8+w5DQ": {
+        "en-US": "[Oscar]\nWe do not have much time. Please hurry.",
+        "pt-BR": "[Oscar]\nNão temos muito tempo. Por favor, apresse-se.",
+        "es-ES": "[Oscar]\nNo tenemos mucho tiempo. Daos prisa."
+    },
+    "9Ow5DQ": {
+        "en-US": "[Oscar]\nWhere are your other companions? Tell them all to come in.",
+        "pt-BR": "[Oscar]\nOnde estão os outros companheiros? Diga a todos para entrarem.",
+        "es-ES": "[Oscar]\n¿Dónde están los demás compañeros? Decidles que entren todos."
+    },
+    "9ew5DQ": {
+        "en-US": "[Oscar]\nI will go on ahead to the upper floors of this tower. Please handle the cleanup.",
+        "pt-BR": "[Oscar]\nVou subir primeiro para o topo desta torre. Cuide da limpeza, por favor.",
+        "es-ES": "[Oscar]\nYo subiré primero a la parte superior de esta torre. Os dejo que os ocupéis de esto."
+    },
+    "9uw5DQ": {
+        "en-US": "Oscar: Oh, the monsters gathered on the lower floors are already near death. It seems the higher up we go, the more of their original power they have preserved.",
+        "pt-BR": "Oscar: Ah, os monstros reunidos nos andares inferiores já estão à beira da morte. Parece que, quanto mais alto subimos, mais eles preservam sua força original.",
+        "es-ES": "Oscar: Oh, los monstruos concentrados en las plantas inferiores ya están moribundos. Parece que, cuanto más se asciende, más conservan su fuerza original."
+    },
+    "9+w5DQ": {
+        "en-US": "Oscar: I suspect they were severely attacked by someone on the upper floors of the tower and driven down.",
+        "pt-BR": "Oscar: Talvez tenham recebido um ataque intenso de alguém nos andares superiores da torre e tenham sido expulsos para baixo.",
+        "es-ES": "Oscar: Supongo que alguien los atacó con dureza en las plantas superiores de la torre y los obligó a bajar."
+    },
+    "+Ow5DQ": {
+        "en-US": "Oscar: In any case, be careful. I will be releasing the barriers blocking the floors.",
+        "pt-BR": "Oscar: De qualquer forma, tenha cuidado. Vou desfazer as barreiras que bloqueiam os andares.",
+        "es-ES": "Oscar: En cualquier caso, tened cuidado. Yo iré deshaciendo las barreras que bloquean las plantas."
+    },
+    "+ew5DQ": {
+        "en-US": "Constellation's Whisper: One of your companions has fled like a coward. Call them here at once.",
+        "pt-BR": "Sussurro da Constelação: Há um covarde entre seus companheiros que fugiu. Traga-o para cá imediatamente.",
+        "es-ES": "Susurro de la constelación: Uno de tus compañeros ha huido cobardemente. Llámalo aquí de inmediato."
+    },
+    "+uw5DQ": {
+        "en-US": "Constellation's Whisper: Do you intend to abandon a fallen companion? How pathetic.",
+        "pt-BR": "Sussurro da Constelação: Pretende abandonar um companheiro caído? Que patético.",
+        "es-ES": "Susurro de la constelación: ¿Vas a abandonar a un compañero caído? Qué despreciable."
+    },
+    "++w5DQ": {
+        "en-US": "Constellation's Whisper: There are still living beings remaining. Surely you are not running away?",
+        "pt-BR": "Sussurro da Constelação: Ainda há seres vivos restantes. Não vai me dizer que está fugindo, vai?",
+        "es-ES": "Susurro de la constelación: Aún queda un ser con vida. ¿Acaso piensas huir?"
+    },
+    "/Ow5DQ": {
+        "en-US": "ROUND{0}",
+        "pt-BR": "ROUND{0}",
+        "es-ES": "ROUND{0}"
+    },
+    "/ew5DQ": {
+        "en-US": "ROUND{0}",
+        "pt-BR": "ROUND{0}",
+        "es-ES": "ROUND{0}"
+    },
+    "/uw5DQ": {
+        "en-US": "Jakk",
+        "pt-BR": "Jakk",
+        "es-ES": "Jakk"
+    },
+    "/+w5DQ": {
+        "en-US": "Purple Dimik",
+        "pt-BR": "Dimik Roxo",
+        "es-ES": "Dimik Morado"
+    },
+    "AO05DQ": {
+        "en-US": "Nightmare Terror",
+        "pt-BR": "Pesadelo Sombrio",
+        "es-ES": "Terror Nocturno"
+    },
+    "Ae05DQ": {
+        "en-US": "Stone Shooter",
+        "pt-BR": "Atirador de Pedras",
+        "es-ES": "Tirador Pétreo"
+    },
+    "Au05DQ": {
+        "en-US": "Mini Demon",
+        "pt-BR": "Diabinho",
+        "es-ES": "Minidemonio"
+    },
+    "A+05DQ": {
+        "en-US": "Anolian",
+        "pt-BR": "Anolian",
+        "es-ES": "Anolian"
+    },
+    "BO05DQ": {
+        "en-US": "Grizzly",
+        "pt-BR": "Grizzly",
+        "es-ES": "Grizzly"
+    },
+    "Be05DQ": {
+        "en-US": "Leib Olmai",
+        "pt-BR": "Leib Olmai",
+        "es-ES": "Leib Olmai"
+    },
+    "Bu05DQ": {
+        "en-US": "Bloody Murderer",
+        "pt-BR": "Serial Killer",
+        "es-ES": "Asesino Sangriento"
+    },
+    "B+05DQ": {
+        "en-US": "Stalactic Golem",
+        "pt-BR": "Golem Estalactítico",
+        "es-ES": "Gólem de Estalactita"
+    },
+    "CO05DQ": {
+        "en-US": "Wanderer",
+        "pt-BR": "Andarilho",
+        "es-ES": "Vagabundo"
+    },
+    "Ce05DQ": {
+        "en-US": "Aliot",
+        "pt-BR": "Aliot",
+        "es-ES": "Aliot"
+    },
+    "Cu05DQ": {
+        "en-US": "Chimera",
+        "pt-BR": "Quimera",
+        "es-ES": "Quimera"
+    },
+    "C+05DQ": {
+        "en-US": "Baroness of Retribution",
+        "pt-BR": "Retribuição",
+        "es-ES": "Baronesa de la Retribución"
+    },
+    "DO05DQ": {
+        "en-US": "Red Venatu",
+        "pt-BR": "Venatu Vermelho",
+        "es-ES": "Venatu Rojo"
+    },
+    "De05DQ": {
+        "en-US": "Karakasa",
+        "pt-BR": "Karakasa",
+        "es-ES": "Karakasa"
+    },
+    "Du05DQ": {
+        "en-US": "Flame Skull",
+        "pt-BR": "Crânio Flamejante",
+        "es-ES": "Cráneo en Llamas"
+    },
+    "D+05DQ": {
+        "en-US": "Death Word",
+        "pt-BR": "Palavra Morta",
+        "es-ES": "Palabra de Muerte"
+    },
+    "EO05DQ": {
+        "en-US": "Rideword",
+        "pt-BR": "Rideword",
+        "es-ES": "Rideword"
+    },
+    "Ee05DQ": {
+        "en-US": "Abysmal Knight",
+        "pt-BR": "Cavaleiro do Abismo",
+        "es-ES": "Caballero Abismal"
+    },
+    "Eu05DQ": {
+        "en-US": "Plasma",
+        "pt-BR": "Plasma",
+        "es-ES": "Plasma"
+    },
+    "E+05DQ": {
+        "en-US": "Parasite",
+        "pt-BR": "Parasita",
+        "es-ES": "Parásito"
+    },
+    "FO05DQ": {
+        "en-US": "Banshee",
+        "pt-BR": "Banshee",
+        "es-ES": "Banshee"
+    },
+    "Fe05DQ": {
+        "en-US": "Purple Dimik",
+        "pt-BR": "Dimik Roxo",
+        "es-ES": "Dimik Morado"
+    },
+    "Fu05DQ": {
+        "en-US": "Wraith",
+        "pt-BR": "Alma Penada",
+        "es-ES": "Espectro"
+    },
+    "F+05DQ": {
+        "en-US": "Jakk",
+        "pt-BR": "Jakk",
+        "es-ES": "Jakk"
+    },
+    "GO05DQ": {
+        "en-US": "Mini Demon",
+        "pt-BR": "Diabinho",
+        "es-ES": "Minidemonio"
+    },
+    "Ge05DQ": {
+        "en-US": "Flying Petite",
+        "pt-BR": "Petite Voador",
+        "es-ES": "Petite Volador"
+    },
+    "Gu05DQ": {
+        "en-US": "Stone Shooter",
+        "pt-BR": "Atirador de Pedras",
+        "es-ES": "Tirador Pétreo"
+    },
+    "G+05DQ": {
+        "en-US": "Leib Olmai",
+        "pt-BR": "Leib Olmai",
+        "es-ES": "Leib Olmai"
+    },
+    "HO05DQ": {
+        "en-US": "Wind Ghost",
+        "pt-BR": "Xamã do Vento",
+        "es-ES": "Fantasma de Viento"
+    },
+    "He05DQ": {
+        "en-US": "Grizzly",
+        "pt-BR": "Grizzly",
+        "es-ES": "Grizzly"
+    },
+    "Hu05DQ": {
+        "en-US": "Wanderer",
+        "pt-BR": "Musa",
+        "es-ES": "Nómada"
+    },
+    "H+05DQ": {
+        "en-US": "Clock",
+        "pt-BR": "Relógio",
+        "es-ES": "Reloj"
+    },
+    "IO05DQ": {
+        "en-US": "Stalactic Golem",
+        "pt-BR": "Golem Estalactítico",
+        "es-ES": "Gólem de Estalactita"
+    },
+    "Ie05DQ": {
+        "en-US": "Baroness of Retribution",
+        "pt-BR": "Retribuição",
+        "es-ES": "Baronesa de la Retribución"
+    },
+    "Iu05DQ": {
+        "en-US": "Raydric Archer",
+        "pt-BR": "Raydric Arqueiro",
+        "es-ES": "Arquero Raydric"
+    },
+    "I+05DQ": {
+        "en-US": "Chimera",
+        "pt-BR": "Quimera",
+        "es-ES": "Quimera"
+    },
+    "JO05DQ": {
+        "en-US": "Flame Skull",
+        "pt-BR": "Crânio Flamejante",
+        "es-ES": "Cráneo en Llamas"
+    },
+    "Je05DQ": {
+        "en-US": "Mi Gao",
+        "pt-BR": "Mi Gao",
+        "es-ES": "Mi Gao"
+    },
+    "Ju05DQ": {
+        "en-US": "Karakasa",
+        "pt-BR": "Karakasa",
+        "es-ES": "Karakasa"
+    },
+    "J+05DQ": {
+        "en-US": "Abysmal Knight",
+        "pt-BR": "Cavaleiro do Abismo",
+        "es-ES": "Caballero Abismal"
+    },
+    "KO05DQ": {
+        "en-US": "Penomena",
+        "pt-BR": "Penomena",
+        "es-ES": "Fenómena"
+    },
+    "Ke05DQ": {
+        "en-US": "Rideword",
+        "pt-BR": "Rideword",
+        "es-ES": "Rideword"
+    },
+    "Ku05DQ": {
+        "en-US": "Banshee",
+        "pt-BR": "Banshee",
+        "es-ES": "Banshee"
+    },
+    "K+05DQ": {
+        "en-US": "Ground Petite",
+        "pt-BR": "Petite",
+        "es-ES": "Petite Terrestre"
+    },
+    "LO05DQ": {
+        "en-US": "Parasite",
+        "pt-BR": "Parasita",
+        "es-ES": "Parásito"
+    },
+    "Le05DQ": {
+        "en-US": "Jakk",
+        "pt-BR": "Jakk",
+        "es-ES": "Jakk"
+    },
+    "Lu05DQ": {
+        "en-US": "Alarm",
+        "pt-BR": "Alarme",
+        "es-ES": "Alarma"
+    },
+    "L+05DQ": {
+        "en-US": "Wraith",
+        "pt-BR": "Alma Penada",
+        "es-ES": "Espectro"
+    },
+    "MO05DQ": {
+        "en-US": "Stone Shooter",
+        "pt-BR": "Atirador de Pedras",
+        "es-ES": "Tirador Pétreo"
+    },
+    "Me05DQ": {
+        "en-US": "Zombie Prisoner",
+        "pt-BR": "Zumbi Prisioneiro",
+        "es-ES": "Prisionero Zombi"
+    },
+    "Mu05DQ": {
+        "en-US": "Flying Petite",
+        "pt-BR": "Petite Voador",
+        "es-ES": "Petite Volador"
+    },
+    "M+05DQ": {
+        "en-US": "Grizzly",
+        "pt-BR": "Grizzly",
+        "es-ES": "Grizzly"
+    },
+    "NO05DQ": {
+        "en-US": "Marionette",
+        "pt-BR": "Marionete",
+        "es-ES": "Marioneta"
+    },
+    "Ne05DQ": {
+        "en-US": "Wind Ghost",
+        "pt-BR": "Xamã do Vento",
+        "es-ES": "Fantasma de Viento"
+    },
+    "Nu05DQ": {
+        "en-US": "Stalactic Golem",
+        "pt-BR": "Golem Estalactítico",
+        "es-ES": "Gólem de Estalactita"
+    },
+    "N+05DQ": {
+        "en-US": "Permeter",
+        "pt-BR": "Batedor",
+        "es-ES": "Permeter"
+    },
+    "OO05DQ": {
+        "en-US": "Clock",
+        "pt-BR": "Relógio",
+        "es-ES": "Reloj"
+    },
+    "Oe05DQ": {
+        "en-US": "Chimera",
+        "pt-BR": "Quimera",
+        "es-ES": "Quimera"
+    },
+    "Ou05DQ": {
+        "en-US": "Skel Prisoner",
+        "pt-BR": "Esqueleto Prisioneiro",
+        "es-ES": "Prisionero Esqueleto"
+    },
+    "O+05DQ": {
+        "en-US": "Raydric Archer",
+        "pt-BR": "Raydric Arqueiro",
+        "es-ES": "Arquero Raydric"
+    },
+    "PO05DQ": {
+        "en-US": "Karakasa",
+        "pt-BR": "Karakasa",
+        "es-ES": "Karakasa"
+    },
+    "Pe05DQ": {
+        "en-US": "Owl Duke",
+        "pt-BR": "Duque Coruja",
+        "es-ES": "Duque Búho"
+    },
+    "Pu05DQ": {
+        "en-US": "Mi Gao",
+        "pt-BR": "Mi Gao",
+        "es-ES": "Mi Gao"
+    },
+    "P+05DQ": {
+        "en-US": "Rideword",
+        "pt-BR": "Rideword",
+        "es-ES": "Rideword"
+    },
+    "QO05DQ": {
+        "en-US": "Deviruchi",
+        "pt-BR": "Deviruchi",
+        "es-ES": "Deviruchi"
+    },
+    "Qe05DQ": {
+        "en-US": "Penomena",
+        "pt-BR": "Penomena",
+        "es-ES": "Fenómena"
+    },
+    "Qu05DQ": {
+        "en-US": "Parasite",
+        "pt-BR": "Parasita",
+        "es-ES": "Parásito"
+    },
+    "Q+05DQ": {
+        "en-US": "Bloody Butterfly",
+        "pt-BR": "Borboleta Sanguinária",
+        "es-ES": "Mariposa Sangrienta"
+    },
+    "RO05DQ": {
+        "en-US": "Ground Petite",
+        "pt-BR": "Petite",
+        "es-ES": "Petite Terrestre"
+    },
+    "Re05DQ": {
+        "en-US": "Wraith",
+        "pt-BR": "Alma Penada",
+        "es-ES": "Espectro"
+    },
+    "Ru05DQ": {
+        "en-US": "Stapo",
+        "pt-BR": "Stapo",
+        "es-ES": "Stapo"
+    },
+    "R+05DQ": {
+        "en-US": "Alarm",
+        "pt-BR": "Alarme",
+        "es-ES": "Alarma"
+    },
+    "SO05DQ": {
+        "en-US": "Flying Petite",
+        "pt-BR": "Petite Voador",
+        "es-ES": "Petite Volador"
+    },
+    "Se05DQ": {
+        "en-US": "Taoist Hermit",
+        "pt-BR": "Ermitão Maligno",
+        "es-ES": "Ermitaño Taoísta"
+    },
+    "Su05DQ": {
+        "en-US": "Zombie Prisoner",
+        "pt-BR": "Zumbi Prisioneiro",
+        "es-ES": "Prisionero Zombi"
+    },
+    "S+05DQ": {
+        "en-US": "Wind Ghost",
+        "pt-BR": "Xamã do Vento",
+        "es-ES": "Fantasma de Viento"
+    },
+    "TO05DQ": {
+        "en-US": "The Paper",
+        "pt-BR": "Papel",
+        "es-ES": "Papel"
+    },
+    "Te05DQ": {
+        "en-US": "Marionette",
+        "pt-BR": "Marionete",
+        "es-ES": "Marioneta"
+    },
+    "Tu05DQ": {
+        "en-US": "Clock",
+        "pt-BR": "Relógio",
+        "es-ES": "Reloj"
+    },
+    "T+05DQ": {
+        "en-US": "Tengu",
+        "pt-BR": "Tengu",
+        "es-ES": "Tengu"
+    },
+    "UO05DQ": {
+        "en-US": "Permeter",
+        "pt-BR": "Batedor",
+        "es-ES": "Permeter"
+    },
+    "Ue05DQ": {
+        "en-US": "Raydric Archer",
+        "pt-BR": "Raydric Arqueiro",
+        "es-ES": "Arquero Raydric"
+    },
+    "Uu05DQ": {
+        "en-US": "Alice",
+        "pt-BR": "Alice",
+        "es-ES": "Alice"
+    },
+    "U+05DQ": {
+        "en-US": "Skel Prisoner",
+        "pt-BR": "Esqueleto Prisioneiro",
+        "es-ES": "Prisionero Esqueleto"
+    },
+    "VO05DQ": {
+        "en-US": "Mi Gao",
+        "pt-BR": "Mi Gao",
+        "es-ES": "Mi Gao"
+    },
+    "Ve05DQ": {
+        "en-US": "Anacondaq",
+        "pt-BR": "Anaconda",
+        "es-ES": "Serpiente Venenosa"
+    },
+    "Vu05DQ": {
+        "en-US": "Owl Duke",
+        "pt-BR": "Duque Coruja",
+        "es-ES": "Duque Búho"
+    },
+    "V+05DQ": {
+        "en-US": "Penomena",
+        "pt-BR": "Penomena",
+        "es-ES": "Fenómena"
+    },
+    "WO05DQ": {
+        "en-US": "Gargoyle",
+        "pt-BR": "Gárgula",
+        "es-ES": "Gárgola"
+    },
+    "We05DQ": {
+        "en-US": "Deviruchi",
+        "pt-BR": "Deviruchi",
+        "es-ES": "Deviruchi"
+    },
+    "Wu05DQ": {
+        "en-US": "Ground Petite",
+        "pt-BR": "Petite",
+        "es-ES": "Petite Terrestre"
+    },
+    "W+05DQ": {
+        "en-US": "Carat",
+        "pt-BR": "Carat",
+        "es-ES": "Carat"
+    },
+    "XO05DQ": {
+        "en-US": "Bloody Butterfly",
+        "pt-BR": "Borboleta Sanguinária",
+        "es-ES": "Mariposa Sangrienta"
+    },
+    "Xe05DQ": {
+        "en-US": "Alarm",
+        "pt-BR": "Alarme",
+        "es-ES": "Alarma"
+    },
+    "Xu05DQ": {
+        "en-US": "Sting",
+        "pt-BR": "Sting",
+        "es-ES": "Sting"
+    },
+    "X+05DQ": {
+        "en-US": "Stapo",
+        "pt-BR": "Stapo",
+        "es-ES": "Stapo"
+    },
+    "YO05DQ": {
+        "en-US": "Zombie Prisoner",
+        "pt-BR": "Zumbi Prisioneiro",
+        "es-ES": "Prisionero Zombi"
+    },
+    "Ye05DQ": {
+        "en-US": "Gryphon",
+        "pt-BR": "Grifo",
+        "es-ES": "Grifo"
+    },
+    "Yu05DQ": {
+        "en-US": "Taoist Hermit",
+        "pt-BR": "Ermitão Maligno",
+        "es-ES": "Ermitaño Taoísta"
+    },
+    "Y+05DQ": {
+        "en-US": "Marionette",
+        "pt-BR": "Marionete",
+        "es-ES": "Marioneta"
+    },
+    "ZO05DQ": {
+        "en-US": "Gibbet",
+        "pt-BR": "Árvore Maldita",
+        "es-ES": "Horca"
+    },
+    "Ze05DQ": {
+        "en-US": "The Paper",
+        "pt-BR": "Papel",
+        "es-ES": "Papel"
+    },
+    "Zu05DQ": {
+        "en-US": "Permeter",
+        "pt-BR": "Batedor",
+        "es-ES": "Permeter"
+    },
+    "Z+05DQ": {
+        "en-US": "Nightmare Terror",
+        "pt-BR": "Pesadelo Sombrio",
+        "es-ES": "Terror Nocturno"
+    },
+    "aO05DQ": {
+        "en-US": "Tengu",
+        "pt-BR": "Tengu",
+        "es-ES": "Tengu"
+    },
+    "ae05DQ": {
+        "en-US": "Skel Prisoner",
+        "pt-BR": "Esqueleto Prisioneiro",
+        "es-ES": "Prisionero Esqueleto"
+    },
+    "au05DQ": {
+        "en-US": "Anolian",
+        "pt-BR": "Anolian",
+        "es-ES": "Anolian"
+    },
+    "a+05DQ": {
+        "en-US": "Alice",
+        "pt-BR": "Alice",
+        "es-ES": "Alice"
+    },
+    "bO05DQ": {
+        "en-US": "Owl Duke",
+        "pt-BR": "Duque Coruja",
+        "es-ES": "Duque Búho"
+    },
+    "be05DQ": {
+        "en-US": "Bloody Murderer",
+        "pt-BR": "Serial Killer",
+        "es-ES": "Asesino Sangriento"
+    },
+    "bu05DQ": {
+        "en-US": "Anacondaq",
+        "pt-BR": "Anaconda",
+        "es-ES": "Serpiente Venenosa"
+    },
+    "b+05DQ": {
+        "en-US": "Deviruchi",
+        "pt-BR": "Deviruchi",
+        "es-ES": "Deviruchi"
+    },
+    "cO05DQ": {
+        "en-US": "Aliot",
+        "pt-BR": "Aliot",
+        "es-ES": "Aliot"
+    },
+    "ce05DQ": {
+        "en-US": "Gargoyle",
+        "pt-BR": "Gárgula",
+        "es-ES": "Gárgola"
+    },
+    "cu05DQ": {
+        "en-US": "Bloody Butterfly",
+        "pt-BR": "Borboleta Sanguinária",
+        "es-ES": "Mariposa Sangrienta"
+    },
+    "c+05DQ": {
+        "en-US": "Red Venatu",
+        "pt-BR": "Venatu Vermelho",
+        "es-ES": "Venatu Rojo"
+    },
+    "dO05DQ": {
+        "en-US": "Carat",
+        "pt-BR": "Carat",
+        "es-ES": "Carat"
+    },
+    "de05DQ": {
+        "en-US": "Stapo",
+        "pt-BR": "Stapo",
+        "es-ES": "Stapo"
+    },
+    "du05DQ": {
+        "en-US": "Death Word",
+        "pt-BR": "Palavra Morta",
+        "es-ES": "Palabra de Muerte"
+    },
+    "d+05DQ": {
+        "en-US": "Sting",
+        "pt-BR": "Sting",
+        "es-ES": "Sting"
+    },
+    "eO05DQ": {
+        "en-US": "Taoist Hermit",
+        "pt-BR": "Ermitão Maligno",
+        "es-ES": "Ermitaño Taoísta"
+    },
+    "ee05DQ": {
+        "en-US": "Plasma",
+        "pt-BR": "Plasma",
+        "es-ES": "Plasma"
+    },
+    "eu05DQ": {
+        "en-US": "Gryphon",
+        "pt-BR": "Grifo",
+        "es-ES": "Grifo"
+    },
+    "e+05DQ": {
+        "en-US": "The Paper",
+        "pt-BR": "Papel",
+        "es-ES": "Papel"
+    },
+    "fO05DQ": {
+        "en-US": "Purple Dimik",
+        "pt-BR": "Dimik Roxo",
+        "es-ES": "Dimik Morado"
+    },
+    "fe05DQ": {
+        "en-US": "Gibbet",
+        "pt-BR": "Árvore Maldita",
+        "es-ES": "Horca"
+    },
+    "fu05DQ": {
+        "en-US": "Tengu",
+        "pt-BR": "Tengu",
+        "es-ES": "Tengu"
+    },
+    "f+05DQ": {
+        "en-US": "Mini Demon",
+        "pt-BR": "Diabinho",
+        "es-ES": "Minidemonio"
+    },
+    "gO05DQ": {
+        "en-US": "Nightmare Terror",
+        "pt-BR": "Pesadelo Sombrio",
+        "es-ES": "Terror Nocturno"
+    },
+    "ge05DQ": {
+        "en-US": "Alice",
+        "pt-BR": "Alice",
+        "es-ES": "Alice"
+    },
+    "gu05DQ": {
+        "en-US": "Leib Olmai",
+        "pt-BR": "Leib Olmai",
+        "es-ES": "Leib Olmai"
+    },
+    "g+05DQ": {
+        "en-US": "Anolian",
+        "pt-BR": "Anolian",
+        "es-ES": "Anolian"
+    },
+    "hO05DQ": {
+        "en-US": "Anacondaq",
+        "pt-BR": "Anaconda",
+        "es-ES": "Serpiente Venenosa"
+    },
+    "he05DQ": {
+        "en-US": "Wanderer",
+        "pt-BR": "Musa",
+        "es-ES": "Nómada"
+    },
+    "hu05DQ": {
+        "en-US": "Bloody Murderer",
+        "pt-BR": "Serial Killer",
+        "es-ES": "Asesino Sangriento"
+    },
+    "h+05DQ": {
+        "en-US": "Gargoyle",
+        "pt-BR": "Gárgula",
+        "es-ES": "Gárgola"
+    },
+    "iO05DQ": {
+        "en-US": "Baroness of Retribution",
+        "pt-BR": "Retribuição",
+        "es-ES": "Baronesa de la Retribución"
+    },
+    "ie05DQ": {
+        "en-US": "Aliot",
+        "pt-BR": "Aliot",
+        "es-ES": "Aliot"
+    },
+    "iu05DQ": {
+        "en-US": "Carat",
+        "pt-BR": "Carat",
+        "es-ES": "Carat"
+    },
+    "i+05DQ": {
+        "en-US": "Flame Skull",
+        "pt-BR": "Crânio Flamejante",
+        "es-ES": "Cráneo en Llamas"
+    },
+    "jO05DQ": {
+        "en-US": "Red Venatu",
+        "pt-BR": "Venatu Vermelho",
+        "es-ES": "Venatu Rojo"
+    },
+    "je05DQ": {
+        "en-US": "Sting",
+        "pt-BR": "Sting",
+        "es-ES": "Sting"
+    },
+    "ju05DQ": {
+        "en-US": "Abysmal Knight",
+        "pt-BR": "Cavaleiro do Abismo",
+        "es-ES": "Caballero Abismal"
+    },
+    "j+05DQ": {
+        "en-US": "Death Word",
+        "pt-BR": "Palavra Morta",
+        "es-ES": "Palabra de Muerte"
+    },
+    "kO05DQ": {
+        "en-US": "Gryphon",
+        "pt-BR": "Grifo",
+        "es-ES": "Grifo"
+    },
+    "ke05DQ": {
+        "en-US": "Banshee",
+        "pt-BR": "Banshee",
+        "es-ES": "Banshee"
+    },
+    "ku05DQ": {
+        "en-US": "Plasma",
+        "pt-BR": "Plasma",
+        "es-ES": "Plasma"
+    },
+    "k+05DQ": {
+        "en-US": "Gibbet",
+        "pt-BR": "Árvore Maldita",
+        "es-ES": "Horca"
+    },
+    "lO05DQ": {
+        "en-US": "ROUND {0} - {1} - {2} - {3}",
+        "pt-BR": "ROUND {0} - {1} - {2} - {3}",
+        "es-ES": "ROUND {0} - {1} - {2} - {3}"
+    },
+    "le05DQ": {
+        "en-US": "Thoughts of floor {0}",
+        "pt-BR": "Memória do {0}º andar",
+        "es-ES": "Rencor de la planta {0}"
+    },
+    "lu05DQ": {
+        "en-US": "{0}#{1}",
+        "pt-BR": "{0}#{1}",
+        "es-ES": "{0}#{1}"
+    },
+    "l+05DQ": {
+        "en-US": "{0}#{1}",
+        "pt-BR": "{0}#{1}",
+        "es-ES": "{0}#{1}"
+    },
+    "mO05DQ": {
+        "en-US": "{0}#{1}",
+        "pt-BR": "{0}#{1}",
+        "es-ES": "{0}#{1}"
+    },
+    "me05DQ": {
+        "en-US": "HP - {0} Name - {1}",
+        "pt-BR": "HP - {0} Nome - {1}",
+        "es-ES": "Vida - {0} Nombre - {1}"
+    },
+    "mu05DQ": {
+        "en-US": "Goblin Leader",
+        "pt-BR": "Líder Goblin",
+        "es-ES": "Jefe Duende"
+    },
+    "m+05DQ": {
+        "en-US": "Ghostring",
+        "pt-BR": "Ghostring",
+        "es-ES": "Ghostring"
+    },
+    "nO05DQ": {
+        "en-US": "Dark Lord",
+        "pt-BR": "Senhor das Trevas",
+        "es-ES": "Señor Oscuro"
+    },
+    "ne05DQ": {
+        "en-US": "Deviling",
+        "pt-BR": "Deviling",
+        "es-ES": "Deviling"
+    },
+    "nu05DQ": {
+        "en-US": "Doppelganger",
+        "pt-BR": "Doppelganger",
+        "es-ES": "Doppelganger"
+    },
+    "n+05DQ": {
+        "en-US": "Drake",
+        "pt-BR": "Drake",
+        "es-ES": "Drake"
+    },
+    "oO05DQ": {
+        "en-US": "Vagabond Wolf",
+        "pt-BR": "Lobo Errante",
+        "es-ES": "Lobo Vagabundo"
+    },
+    "oe05DQ": {
+        "en-US": "Mastering",
+        "pt-BR": "Mastering",
+        "es-ES": "Mastering"
+    },
+    "ou05DQ": {
+        "en-US": "Maya",
+        "pt-BR": "Maya",
+        "es-ES": "Maya"
+    },
+    "o+05DQ": {
+        "en-US": "Mistress",
+        "pt-BR": "Abelha-Rainha",
+        "es-ES": "Abeja Reina"
+    },
+    "pO05DQ": {
+        "en-US": "Baphomet",
+        "pt-BR": "Bafomé",
+        "es-ES": "Baphomet"
+    },
+    "pe05DQ": {
+        "en-US": "Valkyrie Randgris",
+        "pt-BR": "Valquíria Randgris",
+        "es-ES": "Valkiria Randgris"
+    },
+    "pu05DQ": {
+        "en-US": "White Lady",
+        "pt-BR": "Lady Branca",
+        "es-ES": "Dama Blanca"
+    },
+    "p+05DQ": {
+        "en-US": "Hell Fly",
+        "pt-BR": "Mosca Infernal",
+        "es-ES": "Mosca del Infierno"
+    },
+    "qO05DQ": {
+        "en-US": "Vocal",
+        "pt-BR": "Vocal",
+        "es-ES": "Vocal"
+    },
+    "qe05DQ": {
+        "en-US": "Amon Ra",
+        "pt-BR": "Amon Ra",
+        "es-ES": "Amon Ra"
+    },
+    "qu05DQ": {
+        "en-US": "Arc Angeling",
+        "pt-BR": "ArchAngeling",
+        "es-ES": "Archangeling"
+    },
+    "q+05DQ": {
+        "en-US": "Atroce",
+        "pt-BR": "Atroce",
+        "es-ES": "Atroce"
+    },
+    "rO05DQ": {
+        "en-US": "Angeling",
+        "pt-BR": "Angeling",
+        "es-ES": "Angeling"
+    },
+    "re05DQ": {
+        "en-US": "Osiris",
+        "pt-BR": "Osíris",
+        "es-ES": "Osiris"
+    },
+    "ru05DQ": {
+        "en-US": "Golden Thief Bug",
+        "pt-BR": "Besouro-Ladrão Dourado",
+        "es-ES": "Bicho Ladrón Dorado"
+    },
+    "r+05DQ": {
+        "en-US": "Orc Lord",
+        "pt-BR": "Senhor dos Orcs",
+        "es-ES": "Lord Orco"
+    },
+    "sO05DQ": {
+        "en-US": "Orc Hero",
+        "pt-BR": "Orc Herói",
+        "es-ES": "Héroe Orco"
+    },
+    "se05DQ": {
+        "en-US": "Samurai Specter",
+        "pt-BR": "Samurai Encarnado",
+        "es-ES": "Aparición Samurái"
+    },
+    "su05DQ": {
+        "en-US": "Moonlight Flower",
+        "pt-BR": "Flor do Luar",
+        "es-ES": "Flor Lunar"
+    },
+    "s+05DQ": {
+        "en-US": "Egnigem Cenia",
+        "pt-BR": "Egnigem Cenia",
+        "es-ES": "Egnigem Cenia"
+    },
+    "tO05DQ": {
+        "en-US": "Ifrit",
+        "pt-BR": "Ifrit",
+        "es-ES": "Ifrit"
+    },
+    "te05DQ": {
+        "en-US": "Kobold Leader",
+        "pt-BR": "Líder Kobold",
+        "es-ES": "Líder Kobold"
+    },
+    "tu05DQ": {
+        "en-US": "Fallen Bishop",
+        "pt-BR": "Bispo Decadente",
+        "es-ES": "Obispo Caído"
+    },
+    "t+05DQ": {
+        "en-US": "Turtle General",
+        "pt-BR": "General Tartaruga",
+        "es-ES": "General Tortuga"
+    },
+    "uO05DQ": {
+        "en-US": "Toad",
+        "pt-BR": "Sapo-Cururu",
+        "es-ES": "Sapo"
+    },
+    "ue05DQ": {
+        "en-US": "Pharaoh",
+        "pt-BR": "Faraó",
+        "es-ES": "Faraón"
+    },
+    "uu05DQ": {
+        "en-US": "Phreeoni",
+        "pt-BR": "Freeoni",
+        "es-ES": "Phreeoni"
+    },
+    "u+05DQ": {
+        "en-US": "Evil Snake Lord",
+        "pt-BR": "Serpente Suprema",
+        "es-ES": "Señor de las Serpientes Maligno"
+    },
+    "vO05DQ": {
+        "en-US": "Entweihen Crothen",
+        "pt-BR": "Entweihen Crothen",
+        "es-ES": "Entweihen Crothen"
+    },
+    "ve05DQ": {
+        "en-US": "ROUND {0} - {1} - {2} - {3}",
+        "pt-BR": "ROUND {0} - {1} - {2} - {3}",
+        "es-ES": "ROUND {0} - {1} - {2} - {3}"
+    }
+}

@@ -17,12 +17,12 @@
     "o+g+AQ": {
         "en-US": "[Chang Pai]\n^666666*Yawn...*^000000\nSo...\nSleepy...",
         "pt-BR": "[Chang Pai]\n^666666*Bocejo...*^000000\nTanto...\nSono...",
-        "es-ES": "[Chang Pai]\n^666666*Bosteza…*^000000\nAsí que…\nTengo tanto sueño…"
+        "es-ES": "[Chang Pai]\n^666666*Bosteza...*^000000\nAsí que...\nTengo tanto sueño..."
     },
     "pOg+AQ": {
         "en-US": "[Chang Pai]\nHuh...?\nWho are you!?\nHey, I got a thief here!",
         "pt-BR": "[Chang Pai]\nHein...?\nQuem é você!?\nEi, tem um ladrão aqui!",
-        "es-ES": "[Chang Pai]\n¿Eh…?\n¿Quién eres?\n¡Ey, hay un ladrón aquí!"
+        "es-ES": "[Chang Pai]\n¿Eh...?\n¿Quién eres?\n¡Ey, hay un ladrón aquí!"
     },
     "peg+AQ": {
         "en-US": "[Chang Pai]\nWelcome, welcome!\nWe are ready to serve you~!\nNow, go ahead and go upstairs~!",
@@ -32,17 +32,17 @@
     "pug+AQ": {
         "en-US": "[Chang Pai]\n^666666*Yawn...*^000000",
         "pt-BR": "[Chang Pai]\n^666666*Bocejo...*^000000",
-        "es-ES": "[Chang Pai]\n^666666*Bosteza…*^000000"
+        "es-ES": "[Chang Pai]\n^666666*Bosteza...*^000000"
     },
     "p+g+AQ": {
         "en-US": "[Huang Jia Xian]\nWhat the...?\nHey, what\nare you doing?\nGet out of here!",
         "pt-BR": "[Huang Jia Xian]\nMas o que...?\nEi, o que\nvocê tá fazendo?\nSaia daqui!",
-        "es-ES": "[Huang Jia Xian]\n¿Pero qué…?\nOye, ¿qué \nestás haciendo?\n¡Fuera de aquí!"
+        "es-ES": "[Huang Jia Xian]\n¿Pero qué...?\nOye, ¿qué \nestás haciendo?\n¡Fuera de aquí!"
     },
     "qOg+AQ": {
         "en-US": "[Huang Jia Xian]\n*Yawn...*\nSo very tired...",
         "pt-BR": "[Huang Jia Xian]\n*Bocejo...*\nQue cansaço...",
-        "es-ES": "[Huang Jia Xian]\n*Bosteza…*\nEstoy tan cansado…"
+        "es-ES": "[Huang Jia Xian]\n*Bosteza...*\nEstoy tan cansado..."
     },
     "qeg+AQ": {
         "en-US": "[Huang Jia Xian]\nHey, what are you\ndoing here? Are you\na Thief?! Somebody help!\nThere's a Thief!",
@@ -62,12 +62,12 @@
     "rOg+AQ": {
         "en-US": "[Huang Jia Xian]\n^666666*Sigh...*^000000\nI don't even\nhave time to eat.\nI'm starving...!",
         "pt-BR": "[Huang Jia Xian]\n^666666*Suspiro...*^000000\nEu nem mesmo\ntenho tempo pra comer.\nTô morrendo de fome...!",
-        "es-ES": "[Huang Jia Xian]\n^666666*Suspira…*^000000\nNi siquiera\ntengo tiempo para comer.\n¡Me muero de hambre…!"
+        "es-ES": "[Huang Jia Xian]\n^666666*Suspira...*^000000\nNi siquiera\ntengo tiempo para comer.\n¡Me muero de hambre...!"
     },
     "reg+AQ": {
         "en-US": "[Huang Jia Xian]\nEhhhh...\nForgive me...\n....................\n...Zzzzz...Zzzz...",
         "pt-BR": "[Huang Jia Xian]\nEhhhh...\nMe desculpa...\n....................\n...Zzzzz...Zzzz...",
-        "es-ES": "[Huang Jia Xian]\nEhhhh…\nPerdóname…\n....................\n…Zzzzz… zzzz…"
+        "es-ES": "[Huang Jia Xian]\nEhhhh...\nPerdóname...\n....................\n...Zzzzz... zzzz..."
     },
     "rug+AQ": {
         "en-US": "[Ya Hua]\nWhat do you think\nyou're doing here?!\nPut that down and\nleave right now!",
@@ -77,12 +77,12 @@
     "r+g+AQ": {
         "en-US": "[Ya Hua]\n^666666*Yawn...*^000000\nEyelids...\nGetting...\nHeavier...",
         "pt-BR": "[Ya Hua]\n^666666*Bocejo...*^000000\nPálpebras...\nFicando...\nPesadas...",
-        "es-ES": "[Ya Hua]\n^666666*Bosteza…*^000000\nMis párpados…\nEstán cada vez…\nMás pesados…"
+        "es-ES": "[Ya Hua]\n^666666*Bosteza...*^000000\nMis párpados...\nEstán cada vez...\nMás pesados..."
     },
     "sOg+AQ": {
         "en-US": "[Ya Hua]\nWait a sec...\nAre you a Thief?!\nGet out of here!!",
         "pt-BR": "[Ya Hua]\nCalma aí...\nVocê é um ladrão?!\nSaia daqui!!!",
-        "es-ES": "[Ya Hua]\nEspera un segundo…\n¡¿Eres un ladrón?!\n¡Fuera de aquí!"
+        "es-ES": "[Ya Hua]\nEspera un segundo...\n¡¿Eres un ladrón?!\n¡Fuera de aquí!"
     },
     "seg+AQ": {
         "en-US": "[Ya Hua]\nWelcome, welcome!\nWe have many rooms\navailable! Why don't\nyou go upstairs?\nHa ha ha!",
@@ -102,7 +102,7 @@
     "tOg+AQ": {
         "en-US": "[Ya Hua]\n^666666*Yawn...*^000000",
         "pt-BR": "[Ya Hua]\n^666666*Bocejo...*^000000",
-        "es-ES": "[Ya Hua]\n^666666*Bosteza…*^000000"
+        "es-ES": "[Ya Hua]\n^666666*Bosteza...*^000000"
     },
     "teg+AQ": {
         "en-US": "Chef",
@@ -117,12 +117,12 @@
     "t+g+AQ": {
         "en-US": "[Wang Shi Long]\n^666666*Yawn...*^000000\nHm...?\nWho's that?",
         "pt-BR": "[Wang Shi Long]\n^666666*Bocejo...*^000000\nHm...?\nQuem tá aí?",
-        "es-ES": "[Wang Shi Long]\n^666666*Bosteza…*^000000\n¿Mmm…?\n¿Quién es?"
+        "es-ES": "[Wang Shi Long]\n^666666*Bosteza...*^000000\n¿Mmm...?\n¿Quién es?"
     },
     "uOg+AQ": {
         "en-US": "[Wang Shi Long]\nWait...!\nWhat are you doing?!\nG-Get out of here!",
         "pt-BR": "[Wang Shi Long]\nEspera...!\nO que está fazendo?!\nS-Saia daqui!",
-        "es-ES": "[Wang Shi Long]\n¡Espera…!\n¡¿Qué estás haciendo?!\n¡Ve-vete de aquí!"
+        "es-ES": "[Wang Shi Long]\n¡Espera...!\n¡¿Qué estás haciendo?!\n¡Ve-vete de aquí!"
     },
     "ueg+AQ": {
         "en-US": "[Wang Shi Long]\nHm? Aren't you a customer? I am Wang Shi Long, the chef of this restaurant.",
@@ -157,7 +157,7 @@
     "v+g+AQ": {
         "en-US": "[Wang Shi Long]\nRecently, though, I've had a bad feeling that someone is trying to take over our restaurant...",
         "pt-BR": "[Wang Shi Long]\nMas recentemente, tive um mau pressentimento de que alguém está tentando tomar nosso restaurante...",
-        "es-ES": "[Wang Shi Long]\nSin embargo, últimamente tengo la mala sensación de que alguien está tratando de quitarnos nuestro restaurante…"
+        "es-ES": "[Wang Shi Long]\nSin embargo, últimamente tengo la mala sensación de que alguien está tratando de quitarnos nuestro restaurante..."
     },
     "wOg+AQ": {
         "en-US": "[Wang Shi Long]\nOh, well. Maybe I'm in a different mood because of some other reason. It's probably nothing.",
@@ -167,12 +167,12 @@
     "weg+AQ": {
         "en-US": "[Wang Shi Long]\n^666666*Moans and Cries*^000000\nI guess this is it...!\nThe end of my family's glory.\nSomeone stole the base broth\nof my Dragon Soup!",
         "pt-BR": "[Wang Shi Long]\n^666666*Gemidos e Choramingos*^000000\nAcho que é isso...!\nO fim da glória da minha família.\nAlguém roubou o caldo básico\nda minha Sopa de Dragão!",
-        "es-ES": "[Wang Shi Long]\n^666666*Gime y llora*^000000\n¡Supongo que esto es todo…!\nEl fin de la gloria de mi familia.\n¡Alguien robó el caldo base\nde mi sopa de dragón!"
+        "es-ES": "[Wang Shi Long]\n^666666*Gime y llora*^000000\n¡Supongo que esto es todo...!\nEl fin de la gloria de mi familia.\n¡Alguien robó el caldo base\nde mi sopa de dragón!"
     },
     "wug+AQ": {
         "en-US": "[Wang Shi Long]\nWhat should I do, now?\nWithout Dragon Soup, my family's restaurant will now just be like all the others...",
         "pt-BR": "[Wang Shi Long]\nO que vou fazer agora?\nSem a Sopa do Dragão, o restaurante da minha família será igual a todos os outros...",
-        "es-ES": "[Wang Shi Long]\n¿Qué hago ahora?\nSin la sopa de dragón, el restaurante de mi familia será como cualquier otro…"
+        "es-ES": "[Wang Shi Long]\n¿Qué hago ahora?\nSin la sopa de dragón, el restaurante de mi familia será como cualquier otro..."
     },
     "w+g+AQ": {
         "en-US": "[Wang Shi Long]\nHello, are you\none of our customers?\nI am Wang Shi Long,\nthe chef of this\nrestaurant.",
@@ -267,12 +267,12 @@
     "1eg+AQ": {
         "en-US": "[Jiu Lian Bu]\nI've been caught for tagging walls, shoplifting, scamming, stealing a few girlfriends... So yeah, I'm not exactly known as a sterling citizen.",
         "pt-BR": "[Jiu Lian Bu]\nJá fui pego por pichar paredes, furtar lojas, trapacear, roubar algumas namoradas... Então, sim, não sou exatamente conhecido como um cidadão exemplar.",
-        "es-ES": "[Jiu Lian Bu]\nMe atraparon por pintar paredes, robar, estafar, quitarles a otros unas cuantas novias… Así que sí, no soy precisamente conocido por ser un ciudadano ejemplar."
+        "es-ES": "[Jiu Lian Bu]\nMe atraparon por pintar paredes, robar, estafar, quitarles a otros unas cuantas novias... Así que sí, no soy precisamente conocido por ser un ciudadano ejemplar."
     },
     "1ug+AQ": {
         "en-US": "[Jiu Lian Bu]\nSay, wait a minute. The local people around here aren't too familiar with you. Hmmm...",
         "pt-BR": "[Jiu Lian Bu]\nEspera aí. As pessoas daqui não estão muito familiarizadas com você. Hmmm...",
-        "es-ES": "[Jiu Lian Bu]\nEspera un momento. La gente de aquí no te conoce demasiado. Mmmm…"
+        "es-ES": "[Jiu Lian Bu]\nEspera un momento. La gente de aquí no te conoce demasiado. Mmmm..."
     },
     "1+g+AQ": {
         "en-US": "[Jiu Lian Bu]\nWould you sneak into that restaurant and steal the\n^3131FFDragon Soup Broth^000000 for me?",
@@ -332,12 +332,12 @@
     "4ug+AQ": {
         "en-US": "[Jiu Lian Bu]\nThat joint isn't even that great. I mean, it's so obvious that they rip off their customers! Dragon Soup?! More like... Dragon Crap Soup!",
         "pt-BR": "[Jiu Lian Bu]\nEsse estabelecimento nem é tão bom assim. Quero dizer, é tão óbvio que eles roubam seus clientes! Sopa de Dragão?! Tá mais pra... Sopa de Merda de Dragão!",
-        "es-ES": "[Jiu Lian Bu]\nEse antro ni siquiera es tan bueno. Quiero decir, ¡es obvio que estafan a sus clientes! ¡¿Sopa de dragón?! Más bien… ¡Sopa de porquería de dragón!"
+        "es-ES": "[Jiu Lian Bu]\nEse antro ni siquiera es tan bueno. Quiero decir, ¡es obvio que estafan a sus clientes! ¡¿Sopa de dragón?! Más bien... ¡Sopa de porquería de dragón!"
     },
     "4+g+AQ": {
         "en-US": "[Jiu Lian Bu]\nHuh...?\nWhoa, I thought you were on your way to the restaurant. You better get a move on.",
         "pt-BR": "[Jiu Lian Bu]\nHein...?\nUau, pensei que estivesse a caminho do restaurante. É melhor você se mexer.",
-        "es-ES": "[Jiu Lian Bu]\n¿Eh…?\nVaya, pensé que estabas de camino al restaurante. Será mejor que te apures."
+        "es-ES": "[Jiu Lian Bu]\n¿Eh...?\nVaya, pensé que estabas de camino al restaurante. Será mejor que te apures."
     },
     "5Og+AQ": {
         "en-US": "[Jiu Lian Bu]\nAlright then, pal. Make sure the guys who work there don't catch you. Good luck~",
@@ -347,7 +347,7 @@
     "5eg+AQ": {
         "en-US": "[Jiu Lian Bu]\nWow! You made it!\nLet me see...",
         "pt-BR": "[Jiu Lian Bu]\nUau! Você conseguiu!\nQuero ver...",
-        "es-ES": "[Jiu Lian Bu]\n¡Guau! ¡Lo lograste!\nDéjame ver…"
+        "es-ES": "[Jiu Lian Bu]\n¡Guau! ¡Lo lograste!\nDéjame ver..."
     },
     "5ug+AQ": {
         "en-US": "^3355FFJiu Lian Bu takes\na hearty sip of the\nbroth you've managed\nto steal for him.^000000",
@@ -357,12 +357,12 @@
     "5+g+AQ": {
         "en-US": "[Jiu Lian Bu]\nOhhhh man....\nThis is soooo not Dragon Soup Broth. Sorry, but would you go\nand try to get it again?",
         "pt-BR": "[Jiu Lian Bu]\nAhhhh, cara....\nIsso não é Caldo de Sopa de Dragão. Desculpa, mas você pode\ntentar pegar novamente?",
-        "es-ES": "[Jiu Lian Bu]\nUgh…\nEsto no es para nada caldo de sopa de dragón. Lo siento, pero ¿irías\ne intentarías conseguirlo de nuevo?"
+        "es-ES": "[Jiu Lian Bu]\nUgh...\nEsto no es para nada caldo de sopa de dragón. Lo siento, pero ¿irías\ne intentarías conseguirlo de nuevo?"
     },
     "6Og+AQ": {
         "en-US": "[Jiu Lian Bu]\nWow!\nYou made it!\nLet me see...",
         "pt-BR": "[Jiu Lian Bu]\nUau!\nVocê conseguiu!\nQuero ver...",
-        "es-ES": "[Jiu Lian Bu]\n¡Guau!\n¡Lo lograste!\nDéjame ver…"
+        "es-ES": "[Jiu Lian Bu]\n¡Guau!\n¡Lo lograste!\nDéjame ver..."
     },
     "6eg+AQ": {
         "en-US": "[Jiu Lian Bu]\nOoooh. Ooh yeah.\nThis is the stuff.\nMuhahahahahaha~!\nThis'll put the chef\nin agony for a while!",
@@ -402,12 +402,12 @@
     "8Og+AQ": {
         "en-US": "[Jiu Lian Bu]\nWha...?\nHey, who are you? If you don't got anything to say to me, then get lost!",
         "pt-BR": "[Jiu Lian Bu]\nO quê...?\nEi, quem é você? Se não tem nada a dizer, caia fora!",
-        "es-ES": "[Jiu Lian Bu]\n¿Qué…?\nOye, ¿quién eres? Si no tienes nada para decirme, ¡lárgate!"
+        "es-ES": "[Jiu Lian Bu]\n¿Qué...?\nOye, ¿quién eres? Si no tienes nada para decirme, ¡lárgate!"
     },
     "8eg+AQ": {
         "en-US": "[Jiu Lian Bu]\nSo...\nWhaddya think?\nPrettiest place\nin Louyang, isn't it?",
         "pt-BR": "[Jiu Lian Bu]\nE aí...\nO que achou?\nO lugar mais bonito\nde Louyang, não é?",
-        "es-ES": "[Jiu Lian Bu]\nAsí que…\n¿Qué te parece?\nEl lugar más bonito\nde Luoyang, ¿no?"
+        "es-ES": "[Jiu Lian Bu]\nAsí que...\n¿Qué te parece?\nEl lugar más bonito\nde Luoyang, ¿no?"
     },
     "8ug+AQ": {
         "en-US": "[Jiu Lian Bu]\nWhenever I'm depressed\nor need to relax, I just sit here in enjoy the breeze. It helps me forget all my worries.",
@@ -422,12 +422,12 @@
     "9Og+AQ": {
         "en-US": "[Jiu Lian Bu]\nWhy don't you sit down and close your eyes, and feel that soothing wind. It's pretty refreshing...",
         "pt-BR": "[Jiu Lian Bu]\nPor que você não se senta, fecha os olhos e sente esse vento suave? É bem refrescante...",
-        "es-ES": "[Jiu Lian Bu]\n¿Por qué no te sientas, cierras los ojos y sientes esa brisa reconfortante? Es bastante refrescante…"
+        "es-ES": "[Jiu Lian Bu]\n¿Por qué no te sientas, cierras los ojos y sientes esa brisa reconfortante? Es bastante refrescante..."
     },
     "9eg+AQ": {
         "en-US": "[Jiu Lian Bu]\nAlso...\nI'm a little\nembarrassed to\nsay this but...",
         "pt-BR": "[Jiu Lian Bu]\nTambém...\nEstou um pouco\nenvergonhado de\ndizer isso, mas...",
-        "es-ES": "[Jiu Lian Bu]\nAdemás…\nMe da un poco\nde vergüenza\ndecir esto pero…"
+        "es-ES": "[Jiu Lian Bu]\nAdemás...\nMe da un poco\nde vergüenza\ndecir esto pero..."
     },
     "9ug+AQ": {
         "en-US": "[Jiu Lian Bu]\nI'm the kind of guy who speaks his mind. If there's something you just wanna say, but can't, it's kind of like poison in your mind.",
@@ -442,7 +442,7 @@
     "+Og+AQ": {
         "en-US": "[Jiu Lian Bu]\nSo...\nThis is what you do.\nClench your fist, take\na deep breath.",
         "pt-BR": "[Jiu Lian Bu]\nEntão...\nIsso é o que você deve fazer.\nCerre o punho, respire\nprofundamente.",
-        "es-ES": "[Jiu Lian Bu]\nAsí que…\nEsto es lo que haces.\nAprieta el puño,\nrespira profundamente"
+        "es-ES": "[Jiu Lian Bu]\nAsí que...\nEsto es lo que haces.\nAprieta el puño,\nrespira profundamente"
     },
     "+eg+AQ": {
         "en-US": "[Jiu Lian Bu]\nAnd just yell\nwhatever you want!\nIf you don't know\nthe words, just\nscreaming will do.\nLet everything out!",
@@ -477,7 +477,7 @@
     "/+g+AQ": {
         "en-US": "[Jiu Lian Bu]\nSo...\nWhaddya wanna do?",
         "pt-BR": "[Jiu Lian Bu]\nE aí...\nO que quer fazer?",
-        "es-ES": "[Jiu Lian Bu]\nAsí que…\n¿Qué quieres hacer?"
+        "es-ES": "[Jiu Lian Bu]\nAsí que...\n¿Qué quieres hacer?"
     },
     "AOk+AQ": {
         "en-US": "Shout.",
@@ -507,7 +507,7 @@
     "Bek+AQ": {
         "en-US": "[Jiu Lian Bu]\nAhhh...\nAlright, let's\nget a groove on.",
         "pt-BR": "[Jiu Lian Bu]\nAhhh...\nTudo bem, vamos\nbotar pra quebrar.",
-        "es-ES": "[Jiu Lian Bu]\nAhhh…\nMuy bien, vamos a\ndisfrutar el momento."
+        "es-ES": "[Jiu Lian Bu]\nAhhh...\nMuy bien, vamos a\ndisfrutar el momento."
     },
     "Buk+AQ": {
         "en-US": "[Jiu Lian Bu]\nHey, pal~! This is my turf! Whaddya think you're doin' here?!",
@@ -517,7 +517,7 @@
     "B+k+AQ": {
         "en-US": "[Jiu Lian Bu]\nNow...\nGet the hell\noutta here.",
         "pt-BR": "[Jiu Lian Bu]\nVá...\nSaia daqui\nagora mesmo.",
-        "es-ES": "[Jiu Lian Bu]\nAhora…\nVete ya mismo\nde aquí."
+        "es-ES": "[Jiu Lian Bu]\nAhora...\nVete ya mismo\nde aquí."
     },
     "COk+AQ": {
         "en-US": "Pot",
@@ -557,7 +557,7 @@
     "D+k+AQ": {
         "en-US": "^3131FFAll you have\nto do now is get\naway from this restaurant\nwithout getting caught...^000000",
         "pt-BR": "^3131FFTudo o que você precisa\nfazer agora é sair\ndesse restaurante\nsem ser pego...^000000",
-        "es-ES": "^3131FFTodo lo que debes\nhacer ahora es alejarte\nde este restaurante\nsin que te descubran…^000000"
+        "es-ES": "^3131FFTodo lo que debes\nhacer ahora es alejarte\nde este restaurante\nsin que te descubran...^000000"
     },
     "EOk+AQ": {
         "en-US": "^3131FFOnly the restaurant\nemployees are around,\nand they busy chatting\namongst each other.^000000",
@@ -592,7 +592,7 @@
     "Fuk+AQ": {
         "en-US": "[Chef]\nAh...!\nPlease, do not\ntouch the pots!",
         "pt-BR": "[Chef]\nAh...!\nPor favor, não\ntoque nas panelas!",
-        "es-ES": "[Chef]\n¡Ah…!\n¡Por favor, no\ntoques las ollas!"
+        "es-ES": "[Chef]\n¡Ah...!\n¡Por favor, no\ntoques las ollas!"
     },
     "F+k+AQ": {
         "en-US": "^3131FFBeneath the shadows,\nyou find a large pot filled with dark, red liquid.^000000",
@@ -667,7 +667,7 @@
     "Jek+AQ": {
         "en-US": "[Jin Wei Ling]\nWaaa...\nWaaa Taaah-!!!!!",
         "pt-BR": "[Jin Wei Ling]\nWaaa...\nWaaa Taaah-!!!!!",
-        "es-ES": "[Jin Wei Ling]\nWaaa…\n¡¡¡¡¡Waaa Taaah-!!!!!"
+        "es-ES": "[Jin Wei Ling]\nWaaa...\n¡¡¡¡¡Waaa Taaah-!!!!!"
     },
     "Juk+AQ": {
         "en-US": "^3355FF* Chop chop chop chop chop *^000000",
@@ -692,7 +692,7 @@
     "Kuk+AQ": {
         "en-US": "[Li Min]\nThe worst part is that I'm already addicted to the taste! ^666666*Sob...*^000000",
         "pt-BR": "[Li Min]\nO problema é que já estou viciado no sabor! ^666666*Soluço...*^000000",
-        "es-ES": "[Li Min]\n¡Lo peor es que me encanta su sabor! ^666666*Solloza…*^000000"
+        "es-ES": "[Li Min]\n¡Lo peor es que me encanta su sabor! ^666666*Solloza...*^000000"
     },
     "K+k+AQ": {
         "en-US": "[Li Min]\nWell, I don't really\nlive here in Louyang.\nStill, I come here often\nenough to visit.",
@@ -712,12 +712,12 @@
     "Luk+AQ": {
         "en-US": "[Li Min]\nThe taste, the texture.\nThe sweetness, melting down into my mouth, and its tempting scent lingering on my lips...",
         "pt-BR": "[Li Min]\nO sabor, a textura.\nA doçura, derretendo na minha boca, e o gosto tentador que permaneceu nos meus lábios...",
-        "es-ES": "[Li Min]\nEl sabor, la textura.\nLa dulzura, derritiéndose en mi boca, y su aroma tentador sobre mis labios…"
+        "es-ES": "[Li Min]\nEl sabor, la textura.\nLa dulzura, derritiéndose en mi boca, y su aroma tentador sobre mis labios..."
     },
     "L+k+AQ": {
         "en-US": "[Li Min]\nUmmmmm...\nRoyal Jelly!\nIt makes my\nmouth water~",
         "pt-BR": "[Li Min]\nHmmmmm...\nGeleia Real!\nIsso me dá\nágua na boca~",
-        "es-ES": "[Li Min]\nÑammmm…\n¡Jalea real!\nSe me hace\nagua la boca."
+        "es-ES": "[Li Min]\nÑammmm...\n¡Jalea real!\nSe me hace\nagua la boca."
     },
     "MOk+AQ": {
         "en-US": "Liu Jia Lim",
@@ -737,7 +737,7 @@
     "M+k+AQ": {
         "en-US": "[Liu Jia Lim]\nI'm not sure what happened,\nbut people say this restaurant no longer sells Dragon Soup.\nWas it because of the price...?",
         "pt-BR": "[Liu Jia Lim]\nNão tenho certeza do que aconteceu,\nmas as pessoas dizem que esse restaurante não vende mais Sopa de Dragão.\nFoi por causa do preço...?",
-        "es-ES": "[Liu Jia Lim]\nNo sé qué es lo que pasó,\npero la gente dice que este restaurante ya no vende sopa de dragón.\n¿Se debe al precio…?"
+        "es-ES": "[Liu Jia Lim]\nNo sé qué es lo que pasó,\npero la gente dice que este restaurante ya no vende sopa de dragón.\n¿Se debe al precio...?"
     },
     "NOk+AQ": {
         "en-US": "[Liu Jia Lim]\nDo you know what's the best dish at this restaurant? It's Dragon Soup! They've been selling it here for as long as this restaurant has been around.",
@@ -782,12 +782,12 @@
     "POk+AQ": {
         "en-US": "[Chi Wu Ping]\nI don't feel good...\nSo... Totally out of it...",
         "pt-BR": "[Chi Wu Ping]\nNão estou me sentindo bem...\nEntão... Nada, nada bem...",
-        "es-ES": "[Chi Wu Ping]\nNo me siento bien…\nTodo me da vueltas…"
+        "es-ES": "[Chi Wu Ping]\nNo me siento bien...\nTodo me da vueltas..."
     },
     "Pek+AQ": {
         "en-US": "[Chi Wu Ping]\nOh, my aching body!\nAll my muscles are sore...\nThere's only one thing that could cure all of this agonizing... pain...",
         "pt-BR": "[Chi Wu Ping]\nAi, meu corpo tá doendo!\nTodos os meus músculos estão doloridos...\nSó uma coisa pode curar essa dor agonizante...",
-        "es-ES": "[Chi Wu Ping]\n¡Ay, me duele el cuerpo!\nMe duelen todos los músculos…\nSolo hay una cosa que podría curar todo este dolor… tan agonizante…"
+        "es-ES": "[Chi Wu Ping]\n¡Ay, me duele el cuerpo!\nMe duelen todos los músculos...\nSolo hay una cosa que podría curar todo este dolor... tan agonizante..."
     },
     "Puk+AQ": {
         "en-US": "[Chi Wu Ping]\nHey kid~!\nYou don't look like a local!\nWhy don't you follow the road ahead and check out the big restaurant?",
@@ -822,22 +822,22 @@
     "ROk+AQ": {
         "en-US": "[Jiu Chi Ling]\nThere's a strange rumor going around that the restaurant is no longer selling Dragon Soup...",
         "pt-BR": "[Jiu Chi Ling]\nTem um rumor estranho circulando por aí de que o restaurante não tá mais vendendo Sopa de Dragão...",
-        "es-ES": "[Jiu Chi Ling]\nCorre el extraño rumor de que el restaurante ya no vende sopa de dragón…"
+        "es-ES": "[Jiu Chi Ling]\nCorre el extraño rumor de que el restaurante ya no vende sopa de dragón..."
     },
     "Rek+AQ": {
         "en-US": "[Jiu Chi Ling]\nDo you think\nmy brother did\nsomething bad again!?\nI hope not! If he did...\nWhat am I supposed to do?!",
         "pt-BR": "[Jiu Chi Ling]\nVocê acha que\nmeu irmão fez\nalgo ruim de novo?!\nEspero que não! Se ele fez...\nO que posso fazer?!",
-        "es-ES": "[Jiu Chi Ling]\n¡¿Crees que\nmi hermano hizo\nalgo malo otra vez?!\n¡Espero que no! Si lo hizo…\n¡¿Qué se supone que debo hacer?!"
+        "es-ES": "[Jiu Chi Ling]\n¡¿Crees que\nmi hermano hizo\nalgo malo otra vez?!\n¡Espero que no! Si lo hizo...\n¡¿Qué se supone que debo hacer?!"
     },
     "Ruk+AQ": {
         "en-US": "[Jiu Chi Ling]\nI'm worried about my brother.\nHe's young, rebellious and doesn't listen to anybody...",
         "pt-BR": "[Jiu Chi Ling]\nTô preocupado com meu irmão.\nEle é jovem, rebelde e não dá ouvidos a ninguém...",
-        "es-ES": "[Jiu Chi Ling]\nMe preocupa mi hermano.\nEs joven, rebelde y no escucha a nadie…"
+        "es-ES": "[Jiu Chi Ling]\nMe preocupa mi hermano.\nEs joven, rebelde y no escucha a nadie..."
     },
     "R+k+AQ": {
         "en-US": "[Jiu Chi Ling]\nHe just left the\nhouse while he was\ncomplaining about\nthat restaurant...",
         "pt-BR": "[Jiu Chi Ling]\nEle acabou de sair de\ncasa enquanto\nreclamava\ndaquele restaurante...",
-        "es-ES": "[Jiu Chi Ling]\nAcaba de irse\nde casa y mientras tanto\nse quejaba de\nese restaurante…"
+        "es-ES": "[Jiu Chi Ling]\nAcaba de irse\nde casa y mientras tanto\nse quejaba de\nese restaurante..."
     },
     "SOk+AQ": {
         "en-US": "[Jiu Chi Ling]\n^666666*Sigh~~*^000000\nI'm not gonna let him\nget away this time!",

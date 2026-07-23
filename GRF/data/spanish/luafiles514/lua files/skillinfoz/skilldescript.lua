@@ -1,3 +1,4 @@
+
 SKILL_DESCRIPT = {
 	[SKID.NV_BASIC] = {
 		"Habilidad Básica ^777777(Basic Skill)^000000",
@@ -14145,7 +14146,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777450%^000000 l ^7777779x9 casillas^000000"
 	},
 	[SKID.AG_TWOHANDSTAFF] = {
-		"Maestría de Báculo de dos Manos ^777777(Two Staff)^000000",
+		"Maestría de Báculo de Dos Manos ^777777(Two Staff)^000000",
 		"Nv. máx: 10",
 		"Clase: ^993300Pasiva^000000",
 		"Descripción:",
@@ -17265,7 +17266,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQF +12^000000"
 	},
 	[SKID.NW_GRENADE_MASTERY] = {
-		"Maestria de Granadas",
+		"Maestría de Granadas",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^000099Pasiva^000000",
@@ -17315,7 +17316,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 7]: ^777777Quita la propiedad de la granada^000000"
 	},
 	[SKID.NW_THE_VIGILANTE_AT_NIGHT] = {
-		"El Justiciero de Noche",
+		"Vigilia Nocturna",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: P.F.I 3, Objetivo intensivo 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17393,7 +17394,7 @@ SKILL_DESCRIPT = {
 		"ATQ (Rifle) 4900 + (Recuento de punteria x 750) %/Alcance: 7 x 7 celulas^000000"
 	},
 	[SKID.NW_MAGAZINE_FOR_ONE] = {
-		"Cargador para Uno",
+		"Artillería Pesada",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: P.F.I 3, Objetivo intensivo 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17463,7 +17464,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQ 5500 + (Nv. de Maestria de granadas x 50) %/Alcance: 5 x 5 celulas^000000"
 	},
 	[SKID.NW_HASTY_FIRE_IN_THE_HOLE] = {
-		"Alerta Apresurada de Explosion",
+		"Alerta Apresurada de Explosión",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Granada explosiva 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17505,7 +17506,7 @@ SKILL_DESCRIPT = {
 		"alcance de la explosion: 5 x 5 celulas/Cantidad de granadas lanzadas: 3^000000"
 	},
 	[SKID.NW_AUTO_FIRING_LAUNCHER] = {
-		"Lanzador Automatico de Granadas",
+		"Lanzador Automático de Granadas",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Lanzamiento de granadas 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17544,7 +17545,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777Dano fisico a distancia +100 %/ATQF +30^000000"
 	},
 	[SKID.NW_MISSION_BOMBARD] = {
-		"Operacion Bombardeo",
+		"Operación Bombardeo",
 		"Nv. max.: 10",
 		"^777777Habilidades requeridas: Maestria de granadas 5, Lanzamiento de granadas 3^000000",
 		"Forma de habilidad: ^3F0099Activa (PA)^000000",
@@ -17576,7 +17577,7 @@ SKILL_DESCRIPT = {
 		"ATQ por golpe 2800 + (Nv. de Maestria de granadas x 30) %^000000"
 	},
 	[SKID.SOA_TALISMAN_MASTERY] = {
-		"Maestria de Talismanes",
+		"Maestría de Talismanes",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^000099Pasiva^000000",
@@ -17594,7 +17595,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQMH +10^000000"
 	},
 	[SKID.SOA_SOUL_MASTERY] = {
-		"Maestria de Almas",
+		"Maestría de Almas",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^000099Pasiva^000000",
@@ -17612,7 +17613,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777HAB +10^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_PROTECTION] = {
-		"Talisman de Proteccion",
+		"Talismán de Protección",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Maestria de talismanes 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17630,7 +17631,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777Cantidad de curacion: 2500 + (Nv. de Maestria de talismanes x 250)/Duracion: 300 s^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_WARRIOR] = {
-		"Talisman del Guerrero",
+		"Talismán del Guerrero",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Maestria de talismanes 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17648,7 +17649,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQF +10/Duracion: 300 s^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_MAGICIAN] = {
-		"Talisman del Mago",
+		"Talismán del Mago",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Maestria de talismanes 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17666,7 +17667,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQMH +10/Duracion: 300 s^000000"
 	},
 	[SKID.SOA_SOUL_GATHERING] = {
-		"Reunion de Almas",
+		"Convocar Almas",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Investigacion de la energia del alma 5, Maestria de almas 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17682,7 +17683,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777Tiempo de recarga de la habilidad: 1 s^000000"
 	},
 	[SKID.SOA_TOTEM_OF_TUTELARY] = {
-		"Totem del Tutelar",
+		"Tótem del Tutelar",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Maestria de talismanes 3, Maestria de almas 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17704,7 +17705,7 @@ SKILL_DESCRIPT = {
 		"Recuperacion de SP: 250 + (Nv. de Maestria de talismanes x 25)/AdE: 9 x 9 celulas^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_FIVE_ELEMENTS] = {
-		"Talisman de los Cinco Elementos",
+		"Talismán de los Cinco Elementos",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Maestria de talismanes 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17721,7 +17722,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777Bonificacion de dano +20 %/Duracion: 300 s^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_SOUL_STEALING] = {
-		"Talisman del Robo de Almas",
+		"Talismán del Robo de Almas",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Maestria de talismanes 1, Maestria de almas 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17740,7 +17741,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQM 3500 + [(Nv. de Maestria de talismanes + Nv. de Maestria de almas) x 35] %^000000"
 	},
 	[SKID.SOA_EXORCISM_OF_MALICIOUS_SOUL] = {
-		"Exorcismo del Alma Maliciosa",
+		"Exorcismo de Almas",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Maldicion del espiritu maligno 5, Reunion de almas 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17764,7 +17765,7 @@ SKILL_DESCRIPT = {
 		"ATQM (Maldicion) [1250 + (Nv. de Maestria de almas x 2)] x % de Energia del alma/Alcance: 13 x 13 celulas^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_BLUE_DRAGON] = {
-		"Talisman del Dragon Azul",
+		"Talismán del Dragón Azul",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Talisman del robo de almas 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17789,7 +17790,7 @@ SKILL_DESCRIPT = {
 		"ATQM 6750 + (Nv. de Maestria de talismanes x 75) % (Circulo de direcciones y elementales)^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_WHITE_TIGER] = {
-		"Talisman del Tigre Blanco",
+		"Talismán del Tigre Blanco",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Talisman del dragon azul 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17815,7 +17816,7 @@ SKILL_DESCRIPT = {
 		"ATQM 5000 + (Nv. de Maestria de talismanes x 75) % (Circulo de direcciones y elementales)/Alcance: 15 x 15 celulas^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_RED_PHOENIX] = {
-		"Talisman del Fenix Rojo",
+		"Talismán del Fénix Rojo",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Talisman del tigre blanco 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17841,7 +17842,7 @@ SKILL_DESCRIPT = {
 		"ATQM 6500 + (Nv. de Maestria de talismanes x 75) % (Circulo de direcciones y elementales)/Alcance: 7 x 7 celulas^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_BLACK_TORTOISE] = {
-		"Talisman de la Tortuga Negra",
+		"Talismán de la Tortuga Negra",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Talisman del fenix rojo 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17867,7 +17868,7 @@ SKILL_DESCRIPT = {
 		"ATQM 8750 + (Nv. de Maestria de talismanes x 75) % (Circulo de direcciones y elementales)/Alcance: 11 x 11 celulas^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_FOUR_BEARING_GOD] = {
-		"Talisman de los Cuatro Dioses Portadores",
+		"Talismán de las Divinidades",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Talisman del dragon azul 1, Talisman del tigre blanco 1, Talisman del fenix rojo 1, Talisman de la tortuga negra 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17893,7 +17894,7 @@ SKILL_DESCRIPT = {
 		"alcance: 11 x 11 celulas^000000"
 	},
 	[SKID.SOA_CIRCLE_OF_DIRECTIONS_AND_ELEMENTALS] = {
-		"Circulo de Direcciones y Elementales",
+		"Círculo de los Elementos",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Maestria de almas 3, Talisman de los cuatro dioses portadores 1, Talisman de los cinco elementos 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17918,7 +17919,7 @@ SKILL_DESCRIPT = {
 		"alcance: 11 x 11 celulas/300 s, ATQMH +25^000000"
 	},
 	[SKID.SOA_SOUL_OF_HEAVEN_AND_EARTH] = {
-		"Alma del Cielo y de la Tierra",
+		"Recuperación de Alma",
 		"Nv. max.: 10",
 		"^777777Habilidades requeridas: Talisman de proteccion 5, Talisman del guerrero 5, Talisman del mago 5, Talisman de los cinco elementos 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -17941,7 +17942,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777meleeCuerpo a cuerpo/a distancia/dano magico de todos los atributos +25 %/PA +30^000000"
 	},
 	[SKID.SH_MYSTICAL_CREATURE_MASTERY] = {
-		"Maestria de Criaturas Misticas",
+		"Maestría Mística",
 		"Nv. max.: 10",
 		"Forma de habilidad: ^000099Pasiva^000000",
 		"Detalles: ^777777Desarrolla la capacidad de comunicarse con espiritus.",
@@ -17959,52 +17960,52 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQF/ATQMH +15^000000"
 	},
 	[SKID.SH_COMMUNE_WITH_CHUL_HO] = {
-		"Comunion con Chulho",
+		"Pacto del Tigre",
 		"Nv. max.: 1",
 		"^777777Habilidades requeridas: Maestria de criaturas misticas 7, Golpe de Hogogong 3^000000",
 		"Forma de habilidad: ^993300Pasiva^000000",
-		"Detalles: ^777777Potencia las habilidades que toman prestado el poder de Chulho mediante una comunion perfecta con la criatura mistica Chulho.^000000"
+		"Detalles: ^777777Potencia las habilidades que toman prestado el poder de Cheol-ho mediante una comunion perfecta con la criatura mistica Cheol-ho.^000000"
 	},
 	[SKID.SH_CHUL_HO_SONIC_CLAW] = {
-		"Garra Sonica de Chulho",
+		"Garras del Tigre",
 		"Nv. max.: 7",
 		"Habilidad requerida: ^777777Maestria de criaturas misticas 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Fisica a distancia^000000",
 		"Objetivo: ^777777Objetivo unico^000000",
 		"Recuperacion: ^0054FFPA 1^000000",
-		"Detalles: ^777777Usando la afilada garra de Chulho arana el aire hacia el objetivo e inflige dano fisico a distancia al objetivo.",
+		"Detalles: ^777777Usando la afilada garra de Cheol-ho arana el aire hacia el objetivo e inflige dano fisico a distancia al objetivo.",
 		"Inflige dano adicional que depende del nivel de Maestria de criaturas misticas que aprendio el usuario, del nivel de base del usuario y de su POT.",
-		"Si el usuario aprendio Comunion con Chulho, aumenta el dano de la habilidad y aplica dano critico; la probabilidad del dano critico es el CRIT del usuario.",
+		"Si el usuario aprendio Comunion con Cheol-ho, aumenta el dano de la habilidad y aplica dano critico; la probabilidad del dano critico es el CRIT del usuario.",
 		"El modificador de eficacia de dano critico se aplica por la mitad.^000000",
 		"^FFFFFF_^000000",
 		"[Nv. 1]: ^777777ATQ 400 + (Nv. de Maestria de criaturas misticas x 30) %,",
-		"ATQ (Comunion con Chulho) 450 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
+		"ATQ (Comunion con Cheol-ho) 450 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
 		"[Nv. 2]: ^777777ATQ 800 + (Nv. de Maestria de criaturas misticas x 30) %,",
-		"ATQ (Comunion con Chulho) 900 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
+		"ATQ (Comunion con Cheol-ho) 900 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
 		"[Nv. 3]: ^777777ATQ 1200 + (Nv. de Maestria de criaturas misticas x 30) %,",
-		"ATQ (Comunion con Chulho) 1350 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
+		"ATQ (Comunion con Cheol-ho) 1350 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
 		"[Nv. 4]: ^777777ATQ 1600 + (Nv. de Maestria de criaturas misticas x 30) %,",
-		"ATQ (Comunion con Chulho) 1800 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
+		"ATQ (Comunion con Cheol-ho) 1800 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
 		"[Nv. 5]: ^777777ATQ 2000 + (Nv. de Maestria de criaturas misticas x 30) %,",
-		"ATQ (Comunion con Chulho) 2250 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
+		"ATQ (Comunion con Cheol-ho) 2250 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
 		"[Nv. 6]: ^777777ATQ 2400 + (Nv. de Maestria de criaturas misticas x 30) %,",
-		"ATQ (Comunion con Chulho) 2700 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
+		"ATQ (Comunion con Cheol-ho) 2700 + (Nv. de Maestria de criaturas misticas x 50) %^000000",
 		"[Nv. 7]: ^777777ATQ 2800 + (Nv. de Maestria de criaturas misticas x 30) %,",
-		"ATQ (Comunion con Chulho) 3150 + (Nv. de Maestria de criaturas misticas x 50) %^000000"
+		"ATQ (Comunion con Cheol-ho) 3150 + (Nv. de Maestria de criaturas misticas x 50) %^000000"
 	},
 	[SKID.SH_HOWLING_OF_CHUL_HO] = {
-		"Aullido de Chulho",
+		"Rugido del Tigre",
 		"Nv. max.: 7",
-		"^777777Habilidades requeridas: Maestria de criaturas misticas 3, Garra sonica de Chulho 3^000000",
+		"^777777Habilidades requeridas: Maestria de criaturas misticas 3, Garra sonica de Cheol-ho 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Fisica a distancia^000000",
 		"Objetivo: ^777777Lanzamiento instantaneo^000000",
 		"Recuperacion: ^0054FFPA 2^000000",
-		"Detalles: ^777777Ruge con todas tus fuerzas usando el poder de Chulho e inflige dano fisico a distancia a los enemigos dentro de tu alcance.",
+		"Detalles: ^777777Ruge con todas tus fuerzas usando el poder de Cheol-ho e inflige dano fisico a distancia a los enemigos dentro de tu alcance.",
 		"Cuando se lanza, otorga el [efecto de Hogogong] a los enemigos dentro de su alcance durante 10 segundos.",
 		"Inflige dano adicional que depende del nivel de Maestria de criaturas misticas que aprendio el usuario, del nivel de base del usuario y de su POT.",
-		"Si el usuario aprendio Comunion con Chulho, aumenta el dano de la habilidad.^000000",
+		"Si el usuario aprendio Comunion con Cheol-ho, aumenta el dano de la habilidad.^000000",
 		"^FFFFFF_^000000",
 		"[Nv. 1]: ^777777ATQ 1250 + (Nv. de Maestria de criaturas misticas x 30) %,",
 		"ATQ (Comunion) 1550 + (Nv. de Maestria de criaturas misticas x 50) %,",
@@ -18031,15 +18032,15 @@ SKILL_DESCRIPT = {
 	[SKID.SH_HOGOGONG_STRIKE] = {
 		"Golpe de Hogogong",
 		"Nv. max.: 7",
-		"^777777Habilidades requeridas: Maestria de criaturas misticas 5, Aullido de Chulho 3^000000",
+		"^777777Habilidades requeridas: Maestria de criaturas misticas 5, Aullido de Cheol-ho 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Fisica a distancia^000000",
 		"Objetivo: ^777777Objetivo unico^000000",
-		"Recuperacion: ^0054FFPA 1, 2 (si se aprende Comunion con Chulho)^000000",
-		"Detalles: ^777777Lanza un ataque con las patas delanteras de Chulho a los objetivos cercanos afectados por el [efecto de Hogogong] e inflige dano fisico a distancia.",
+		"Recuperacion: ^0054FFPA 1, 2 (si se aprende Comunion con Cheol-ho)^000000",
+		"Detalles: ^777777Lanza un ataque con las patas delanteras de Cheol-ho a los objetivos cercanos afectados por el [efecto de Hogogong] e inflige dano fisico a distancia.",
 		"Inflige dano adicional que depende del nivel de Maestria de criaturas misticas que aprendio el usuario, del nivel de base del usuario y de su POT; tiene una probabilidad de activar el dano critico; la probabilidad del dano critico es el CRIT del usuario.",
 		"El modificador de eficacia de dano critico se aplica por la mitad.",
-		"Si el usuario aprendio Comunion con Chulho, aumenta el dano de la habilidad y la cantidad de recuperacion de PA.^000000",
+		"Si el usuario aprendio Comunion con Cheol-ho, aumenta el dano de la habilidad y la cantidad de recuperacion de PA.^000000",
 		"^FFFFFF_^000000",
 		"[Nv. 1]: ^777777ATQ por golpe 300 + (Nv. de Maestria de criaturas misticas x 10) %,",
 		"ATQ por golpe (Comunion) 300 + (Nv. de Maestria de criaturas misticas x 20) %,",
@@ -18064,14 +18065,14 @@ SKILL_DESCRIPT = {
 		"alcance: 11 x 11 celulas^000000"
 	},
 	[SKID.SH_COMMUNE_WITH_KI_SUL] = {
-		"Comunion con Kisul",
+		"Pacto de la Tortuga",
 		"Nv. max.: 1",
-		"^777777Habilidades requeridas: Maestria de criaturas misticas 7, Desenfreno de Kisul 3^000000",
+		"^777777Habilidades requeridas: Maestria de criaturas misticas 7, Desenfreno de Gwisul 3^000000",
 		"Forma de habilidad: ^993300Pasiva^000000",
-		"Detalles: ^777777Potencia las habilidades que toman prestado el poder de Kisul mediante una comunion perfecta con la criatura mistica Kisul.^000000"
+		"Detalles: ^777777Potencia las habilidades que toman prestado el poder de Gwisul mediante una comunion perfecta con la criatura mistica Gwisul.^000000"
 	},
 	[SKID.SH_KI_SUL_WATER_SPRAYING] = {
-		"Rocio de Agua de Kisul",
+		"Rocío de Agua de Gwisul",
 		"Nv. max.: 7",
 		"Habilidad requerida: ^777777Maestria de criaturas misticas 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18080,7 +18081,7 @@ SKILL_DESCRIPT = {
 		"Recuperacion: ^0054FFPA 1^000000",
 		"Detalles: ^777777Dispara un canon de agua lleno del poder curativo de los fantasmas, y recupera tus HP y los de los miembros del grupo que te rodean.",
 		"Recupera una cantidad adicional que depende del nivel de Maestria de criaturas misticas que aprendio el usuario, del nivel de base y la CRE del usuario.",
-		"Si el usuario aprendio Comunion con Kisul, aumenta el zona de efecto y la cantidad de curacion.^000000",
+		"Si el usuario aprendio Comunion con Gwisul, aumenta el zona de efecto y la cantidad de curacion.^000000",
 		"^FFFFFF_^000000",
 		"[Nv. 1]: ^777777Cantidad de recuperacion 500 + (Nv. de Maestria de criaturas misticas x 100)/Alcance: 7 x 7 celulas/Cantidad de recuperacion (Comunion) 750 + (Nv. de Maestria de criaturas misticas x 150)/Alcance: 11 x 11 celulas^000000",
 		"[Nv. 2]: ^777777Cantidad de recuperacion 1000 + (Nv. de Maestria de criaturas misticas x 100)/Alcance: 7 x 7 celulas/Cantidad de recuperacion (Comunion) 1500 + (Nv. de Maestria de criaturas misticas x 150)/Alcance: 11 x 11 celulas^000000",
@@ -18091,15 +18092,15 @@ SKILL_DESCRIPT = {
 		"[Nv. 7]: ^777777Cantidad de recuperacion 3500 + (Nv. de Maestria de criaturas misticas x 100)/Alcance: 13 x 13 celulas/Cantidad de recuperacion (Comunion) 5250 + (Nv. de Maestria de criaturas misticas x 150)/Alcance: 17 x 17 celulas^000000"
 	},
 	[SKID.SH_MARINE_FESTIVAL_OF_KI_SUL] = {
-		"Festival Marino de Kisul",
+		"Festival Marino de Gwisul",
 		"Nv. max.: 5",
-		"^777777Habilidades requeridas: Maestria de criaturas misticas 3, Rocio de agua de Kisul 3^000000",
+		"^777777Habilidades requeridas: Maestria de criaturas misticas 3, Rocio de agua de Gwisul 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Buff^000000",
 		"Objetivo: ^777777Lanzamiento instantaneo^000000",
 		"Recuperacion: ^0054FFPA 2^000000",
-		"Detalles: ^777777Con el poder del mar de Kisul, aumenta la POT, la CRE y la CON del usuario y de los miembros del grupo cercanos al usuario.",
-		"Si el usuario aprendio Comunion con Kisul, aumenta el zona de efecto y duplica la duracion de la habilidad.",
+		"Detalles: ^777777Con el poder del mar de Gwisul, aumenta la POT, la CRE y la CON del usuario y de los miembros del grupo cercanos al usuario.",
+		"Si el usuario aprendio Comunion con Gwisul, aumenta el zona de efecto y duplica la duracion de la habilidad.",
 		"No es compatible con Benedictum de Cardenal.^000000",
 		"^FFFFFF_^000000",
 		"[Nv. 1]: ^777777POT, CRE, CON +2/Duracion: 60 s,",
@@ -18114,15 +18115,15 @@ SKILL_DESCRIPT = {
 		"alcance: 13 x 13 celulas/Alcance (Comunion): 17 x 17 celulas^000000"
 	},
 	[SKID.SH_SANDY_FESTIVAL_OF_KI_SUL] = {
-		"Festival Arenoso de Kisul",
+		"Festival Arenoso de Gwisul",
 		"Nv. max.: 5",
-		"^777777Habilidades requeridas: Maestria de criaturas misticas 3, Rocio de agua de Kisul 3^000000",
+		"^777777Habilidades requeridas: Maestria de criaturas misticas 3, Rocio de agua de Gwisul 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Buff^000000",
 		"Objetivo: ^777777Lanzamiento instantaneo^000000",
 		"Recuperacion: ^0054FFPA 2^000000",
-		"Detalles: ^777777Con el poder del mar de Kisul, aumenta la HAB, la SAB y la AGU del usuario y de los miembros del grupo cercanos al usuario.",
-		"Si el usuario aprendio Comunion con Kisul, aumenta el zona de efecto y duplica la duracion de la habilidad.",
+		"Detalles: ^777777Con el poder del mar de Gwisul, aumenta la HAB, la SAB y la AGU del usuario y de los miembros del grupo cercanos al usuario.",
+		"Si el usuario aprendio Comunion con Gwisul, aumenta el zona de efecto y duplica la duracion de la habilidad.",
 		"No es compatible con Religion del Cardenal.^000000",
 		"^FFFFFF_^000000",
 		"[Nv. 1]: ^777777HAB, SAB, AGU +2/Duracion: 60 s,",
@@ -18137,16 +18138,16 @@ SKILL_DESCRIPT = {
 		"alcance: 13 x 13 celulas/Alcance (Comunion): 17 x 17 celulas^000000"
 	},
 	[SKID.SH_KI_SUL_RAMPAGE] = {
-		"Desenfreno de Kisul",
+		"Ira de la Tortuga",
 		"Nv. max.: 7",
-		"^777777Habilidades requeridas: Maestria de criaturas misticas 5, Festival marino de Kisul 2, Festival arenoso de Kisul 2^000000",
+		"^777777Habilidades requeridas: Maestria de criaturas misticas 5, Festival marino de Gwisul 2, Festival arenoso de Gwisul 2^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Recuperacion^000000",
 		"Objetivo: ^777777Lanzamiento instantaneo^000000",
-		"Detalles: ^777777Usando el poderoso efecto curativo de Kisul,",
+		"Detalles: ^777777Usando el poderoso efecto curativo de Gwisul,",
 		"recupera 3 PA cada 1 segundo para todos los miembros del grupo, a excepcion del usuario, en una zona de 7 x 7 celulas alrededor del usuario.",
 		"El lanzador no puede usar otras habilidades mientras dure el efecto de la habilidad, y el efecto se cancela si el usuario abandona las celulas actuales debido a un efecto como movimiento o empujon.",
-		"Si se aprende Comunion con Kisul, el zona de efecto aumenta a 11 x 11 celulas, y la cantidad de recuperacion de PA aumenta a 6.^000000",
+		"Si se aprende Comunion con Gwisul, el zona de efecto aumenta a 11 x 11 celulas, y la cantidad de recuperacion de PA aumenta a 6.^000000",
 		"^FFFFFF_^000000",
 		"[Nv. 1]: ^777777Duracion: 4 s^000000",
 		"[Nv. 2]: ^777777Duracion: 5 s^000000",
@@ -18157,9 +18158,9 @@ SKILL_DESCRIPT = {
 		"[Nv. 7]: ^777777Duracion: 10 s^000000"
 	},
 	[SKID.SH_COMMUNE_WITH_HYUN_ROK] = {
-		"Comunion con Hyunrok",
+		"Pacto del Ciervo",
 		"Nv. max.: 1",
-		"^777777Habilidades requeridas: Maestria de criaturas misticas 7, Canon de Hyunrok 3^000000",
+		"^777777Habilidades requeridas: Maestria de criaturas misticas 7, Cañón de Hyunrok 3^000000",
 		"Forma de habilidad: ^993300Pasiva^000000",
 		"Detalles: ^777777Potencia las habilidades que toman prestado el poder de Hyunrok mediante una comunion perfecta con la criatura mistica Hyunrok.^000000"
 	},
@@ -18170,7 +18171,7 @@ SKILL_DESCRIPT = {
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Apoyo^000000",
 		"Objetivo: ^777777Lanzamiento instantaneo^000000",
-		"Detalles: ^777777Con el misterioso poder magico de Hyunrok, dota de propiedad elemental a Meteoro CN, Brisa de Hyunrok y Canon de Hyunrok durante 300 segundos.",
+		"Detalles: ^777777Con el misterioso poder magico de Hyunrok, dota de propiedad elemental a Meteoro CN, Brisa de Hyunrok y Cañón de Hyunrok durante 300 segundos.",
 		"Si el usuario aprendio Comunion con Hyunrok, usar esta habilidad tambien aumenta un 50 % el dano de Meteoro CN.",
 		"Cuando se usa el nivel de habilidad 7, se cancela la dotacion.^000000",
 		"^FFFFFF_^000000",
@@ -18183,7 +18184,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 7]: ^777777Quita la dotacion^000000"
 	},
 	[SKID.SH_HYUN_ROKS_BREEZE] = {
-		"Brisa de Hyunrok",
+		"Brisa Silvestre",
 		"Nv. max.: 7",
 		"^777777Habilidades requeridas: Maestria de criaturas misticas 3, Colores de Hyunrok 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18218,7 +18219,7 @@ SKILL_DESCRIPT = {
 		"alcance: 11 x 11 celulas^000000"
 	},
 	[SKID.SH_HYUN_ROK_CANNON] = {
-		"Canon de Hyunrok",
+		"Lanza Ramificada",
 		"Nv. max.: 7",
 		"^777777Habilidades requeridas: Maestria de criaturas misticas 5, Brisa de Hyunrok 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18246,15 +18247,15 @@ SKILL_DESCRIPT = {
 		"ATQM (Comunion) 4400 + (Nv. de Maestria de criaturas misticas x 75) %^000000"
 	},
 	[SKID.SH_TEMPORARY_COMMUNION] = {
-		"Comunion temporal",
+		"Comunión Temporal",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Maestria de criaturas misticas 10^000000",
 		"Forma de habilidad: ^3F0099Activa (PA)^000000",
 		"Tipo: ^777777Apoyo^000000",
 		"Objetivo: ^777777Lanzamiento instantaneo^000000",
 		"Consume: ^FF0000PA 150^000000",
-		"Detalles: ^777777Puede usarse si adquiriste al menos una habilidad de comunicacion con espiritus para Chulho, Kisul y Hyunrok.",
-		"Mediante la comunion temporal con Chulho, Kisul y Hyunrok, el usuario se encuentra en el estado de comunion de las tres criaturas misticas durante un tiempo determinado.",
+		"Detalles: ^777777Puede usarse si adquiriste al menos una habilidad de comunicacion con espiritus para Cheol-ho, Gwisul y Hyunrok.",
+		"Mediante la comunion temporal con Cheol-ho, Gwisul y Hyunrok, el usuario se encuentra en el estado de comunion de las tres criaturas misticas durante un tiempo determinado.",
 		"Aumenta el ATQF, el ATQMH y la CUR.EXT mientras dura.^000000",
 		"^FFFFFF_^000000",
 		"[Nv. 1]: ^777777Duracion: 30 s/ATQF/ATQMH/CUR.EXT +3^000000",
@@ -18264,9 +18265,9 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777Duracion: 150 s/ATQF/ATQMH/CUR.EXT +15^000000"
 	},
 	[SKID.SH_BLESSING_OF_MYSTICAL_CREATURES] = {
-		"Bendicion de Criaturas Misticas",
+		"Bendición de la Naturaleza",
 		"Nv. max.: 5",
-		"^777777Habilidades requeridas: Maestria de criaturas misticas 10, Comunion con Kisul 1^000000",
+		"^777777Habilidades requeridas: Maestria de criaturas misticas 10, Comunion con Gwisul 1^000000",
 		"Forma de habilidad: ^3F0099Activa (PA)^000000",
 		"Tipo: ^777777Apoyo^000000",
 		"Objetivo: ^777777Objetivo unico^000000",
@@ -18281,8 +18282,8 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQF/ATQMH +50^000000"
 	},
 	[SKID.HN_SELFSTUDY_TATICS] = {
-		"Tacticas de Autoaprendizaje",
-		"Nv. max.: 10",
+		"Físico Autodidacta",
+		"Nv. max.: ^77777710^000000",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^000099Pasiva^000000",
 		"Detalles: ^777777Mejora el conocimiento de tecnicas fisicas, aumenta el ATQF y el dano de las habilidades fisicas.",
@@ -18301,7 +18302,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQF +10^000000"
 	},
 	[SKID.HN_SELFSTUDY_SOCERY] = {
-		"Hechiceria Autodidacta",
+		"Hechicería Autodidacta",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^000099Pasiva^000000",
@@ -18344,7 +18345,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQ por golpe 2100 + (Nv. de Tacticas de autoaprendizaje x 30) %^000000"
 	},
 	[SKID.HN_MEGA_SONIC_BLOW] = {
-		"Mega Impacto Sonico",
+		"Mega Impacto Sónico",
 		"Nv. max.: 10",
 		"^777777Requisito de habilidad: Golpe Expansivo doble 7^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18369,7 +18370,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQ 2300 + (Nv. de Tacticas de autoaprendizaje x 50) %^000000"
 	},
 	[SKID.HN_SHIELD_CHAIN_RUSH] = {
-		"Rafaga de Escudos en Cadena",
+		"Impacto Violento",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Tacticas de autoaprendizaje 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18394,7 +18395,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQ 3400 + (Nv. de Tacticas de autoaprendizaje x 30) %^000000"
 	},
 	[SKID.HN_SPIRAL_PIERCE_MAX] = {
-		"Perforacion Maxima en Espiral",
+		"Espiral Perforante Máxima",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Rafaga de escudos en cadena 7^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18419,7 +18420,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQ [3000 + (Nv. de Tacticas de autoaprendizaje x 30)] x % de factor de dano^000000"
 	},
 	[SKID.HN_METEOR_STORM_BUSTER] = {
-		"Buster de Tormenta de Meteoros",
+		"Tormenta de Meteoritos",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Hechiceria autodidacta 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18452,7 +18453,7 @@ SKILL_DESCRIPT = {
 		"ATQM (Explosion) 1950 + (Nv. de Hechiceria autodidacta x 50) %^000000"
 	},
 	[SKID.HN_JUPITEL_THUNDER_STORM] = {
-		"Tormenta de Rayo de Jupitel",
+		"Tormenta de Júpiter",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Hechiceria autodidacta 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18484,7 +18485,7 @@ SKILL_DESCRIPT = {
 		"alcance de 9 x 9 celulas^000000"
 	},
 	[SKID.HN_JACK_FROST_NOVA] = {
-		"Nova de Jack Escarcha",
+		"Esfera Gélida",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Hechiceria autodidacta 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18551,7 +18552,7 @@ SKILL_DESCRIPT = {
 		"alcance de 9 x 9 celulas^000000"
 	},
 	[SKID.HN_GROUND_GRAVITATION] = {
-		"Gravitacion Terrestre",
+		"Zona Gravitacional",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Hechiceria autodidacta 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18586,13 +18587,13 @@ SKILL_DESCRIPT = {
 		"ATQM por golpe (Gravitatorio) 3400 + (Nv. de Hechiceria autodidacta x 20) %^000000"
 	},
 	[SKID.HN_NAPALM_VULCAN_STRIKE] = {
-		"Golpe de Vulcano Napalm",
+		"Espectro Napalm",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Hechiceria autodidacta 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Magia^000000",
 		"Objetivo: ^777777Objetivo unico^000000",
-		"Recuperacion: ^0054FFPA 5^000000",
+		"Recuperacion: ^0054FFPA 1^000000",
 		"Detalles: ^777777Provoca un fuerte ataque en oleada usando telequinesis sobre un objetivo y los enemigos en un alcance de 5 x 5 celulas a su alrededor, que inflige dano magico y aplica Maldicion con cierta probabilidad.",
 		"La probabilidad y la duracion de la maldicion dependen de la resistencia del objetivo a los efectos negativos del estado.",
 		"El dano aumenta mas segun el nivel de Hechiceria autodidacta, y el nivel de base y la HAB del lanzador.^000000",
@@ -18609,7 +18610,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQM 2750 + (Nv. de Hechiceria autodidacta x 40) %^000000"
 	},
 	[SKID.HN_BREAKINGLIMIT] = {
-		"Romper los Limites",
+		"Ángel del Poder",
 		"Nv. max.: 1",
 		"^777777Habilidades requeridas: Golpe Expansivo doble 7, Rafaga de escudos en cadena 7, Mega impacto sonico 7, Perforacion maxima en espiral 7^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18625,7 +18626,7 @@ SKILL_DESCRIPT = {
 		"Perforacion maxima en espiral: ^777777100Amplificacion 100 %^000000"
 	},
 	[SKID.HN_RULEBREAK] = {
-		"Romper las Reglas",
+		"Ángel de la Magia",
 		"Nv. max.: 1",
 		"^777777Habilidades requeridas: Buster de tormenta de meteoros 5, Tormenta de rayo de Jupitel 5, Nova de Jack Escarcha 5, Furia infernal 5, Gravitacion terrestre 5, Golpe de Vulcano Napalm 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18643,15 +18644,15 @@ SKILL_DESCRIPT = {
 		"Golpe de Vulcano Napalm: ^777777100Amplificacion 100 %^000000"
 	},
 	[SKID.SKE_SKY_MASTERY] = {
-		"Maestria del Cielo",
+		"Maestría Celestial",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^000099Pasiva^000000",
 		"Detalles: ^777777Comprende los principios de los cuerpos celestes y aumenta la eficacia de las tecnicas de cuerpos celestes.",
-		"Aumenta el dano de Salida del sol, Rafaga del mediodia, Rafaga del crepusculo, Salida de la luna, Patada de medianoche, Descanso al amanecer, Galaxia centelleante, Explosion estelar y Canon estelar.^000000"
+		"Aumenta el dano de Salida del sol, Rafaga del mediodia, Rafaga del crepusculo, Salida de la luna, Patada de medianoche, Descanso al amanecer, Galaxia centelleante, Explosion estelar y Cañón estelar.^000000"
 	},
 	[SKID.SKE_WAR_BOOK_MASTERY] = {
-		"Maestria del Libro de Guerra",
+		"Maestría del Libro de Guerra",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^000099Pasiva^000000",
@@ -18688,7 +18689,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQ 2500 + (Nv. de Maestria del cielo x 25) %^000000"
 	},
 	[SKID.SKE_NOON_BLAST] = {
-		"Rafaga del Mediodia",
+		"Explosión del Atardecer",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Maestria del cielo 3, Salida del sol 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18708,7 +18709,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQ 6000 + (Nv. de Maestria del cielo x 25) %/7 x 7 celulas^000000"
 	},
 	[SKID.SKE_SUNSET_BLAST] = {
-		"Rafaga del Crepusculo",
+		"Explosión del Crepúsculo",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Maestria del cielo 5, Rafaga del mediodia 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18727,7 +18728,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQ 2400 + (Nv. de Maestria del cielo x 25) %/7 x 7 celulas^000000"
 	},
 	[SKID.SKE_RISING_MOON] = {
-		"Salida de la Luna",
+		"Anochecer",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Maestria del cielo 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18769,7 +18770,7 @@ SKILL_DESCRIPT = {
 		"ATQ (Medianoche) 7500 + (Nv. de Maestria del cielo x 25) %/9 x 9 celulas^000000"
 	},
 	[SKID.SKE_DAWN_BREAK] = {
-		"Descanso al Amanecer",
+		"Alborada",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Maestria del cielo 5, Patada de medianoche 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18810,7 +18811,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQ 2200 + (Nv. de Maestria del cielo x 15) %/AdE de Galaxia centelleante: 9 x 9 celulas^000000"
 	},
 	[SKID.SKE_STAR_BURST] = {
-		"Explosion Estelar",
+		"Explosión Estelar",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Maestria del cielo 3, Galaxia centelleante 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18829,7 +18830,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQ 2500 + (Nv. de Maestria del cielo x 25) %^000000"
 	},
 	[SKID.SKE_STAR_CANNON] = {
-		"Canon Estelar",
+		"Cañón Estelar",
 		"Nv. max.: 5",
 		"^777777Habilidades requeridas: Maestria del cielo 5, Explosion estelar 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18839,7 +18840,7 @@ SKILL_DESCRIPT = {
 		"Detalles: ^777777Solo puede usarse dentro del alcance de la habilidad Galaxia centelleante del usuario.",
 		"Suspende Galaxia centelleante y la cambia por la habilidad mas potente.",
 		"Arroja varias Estrellas fugaces, hasta 4, una vez cada 0,3 segundos durante 4,5 segundos dentro de su alcance.",
-		"La estrella fugaz de Canon estelar inflige dano fisico cuerpo a cuerpo al objetivo y a los enemigos que lo rodean en una zona de 7 x 7 celulas.",
+		"La estrella fugaz de Cañón estelar inflige dano fisico cuerpo a cuerpo al objetivo y a los enemigos que lo rodean en una zona de 7 x 7 celulas.",
 		"Inflige dano adicional que depende del nivel de Maestria del cielo aprendido por el usuario, del nivel de base del usuario y de su POT.^000000",
 		"^FFFFFF_^000000",
 		"[Nv. 1]: ^777777ATQ 700 + (Nv. de Maestria del cielo x 5) %,",
@@ -18854,7 +18855,7 @@ SKILL_DESCRIPT = {
 		"alcance de la naturaleza: 9 x 9 celulas/Max. de estrellas fugaces por lanzamiento: 4^000000"
 	},
 	[SKID.SKE_ALL_IN_THE_SKY] = {
-		"Todo en el Cielo",
+		"Firmamento",
 		"Nv. max.: 10",
 		"^777777Habilidades requeridas: Maestria del libro de guerra 5, Salida del sol 1, Salida de la luna 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18939,7 +18940,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQ 3500 %^000000"
 	},
 	[SKID.SS_AKUMUKESU] = {
-		"Eliminacion de Pesadillas",
+		"Devorar Pesadilla",
 		"Nv. max.: 1",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -18962,11 +18963,11 @@ SKILL_DESCRIPT = {
 		"Baile de sombras: ^777777Baile de sombras activado^000000",
 		"Destello de sombras: ^777777Destello de sombras activado^000000",
 		"Kunai: Distorsion: ^777777Kunai: Distorsion activada^000000",
-		"Canon de llamas rojas: ^777777Canon oscurecedor activado^000000",
-		"Canon implacable: ^777777Canon oscurecedor activado^000000",
-		"Canon atronador: ^777777Canon oscurecedor activado^000000",
-		"Canon del dragon dorado: ^777777Oscurecimiento activado^000000",
-		"Canon oscurecedor: ^777777Canon oscurecedor activado^000000"
+		"Cañón de llamas rojas: ^777777Cañón oscurecedor activado^000000",
+		"Cañón implacable: ^777777Cañón oscurecedor activado^000000",
+		"Cañón atronador: ^777777Cañón oscurecedor activado^000000",
+		"Cañón del dragon dorado: ^777777Oscurecimiento activado^000000",
+		"Cañón oscurecedor: ^777777Cañón oscurecedor activado^000000"
 	},
 	[SKID.SS_KAGEGARI] = {
 		"Caceria de Sombras",
@@ -19059,7 +19060,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQ por golpe 2700 + (Nv. de Huuma Shuriken: Linea recta x 50) %^000000"
 	},
 	[SKID.SS_FUUMAKOUCHIKU] = {
-		"Huuma Shuriken: Linea Recta",
+		"Huuma Shuriken: Línea Recta",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Huuma Shuriken: Suelo 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -19091,7 +19092,7 @@ SKILL_DESCRIPT = {
 		"ATQ (Explosion) 6800 + (Nv. de Huuma Shuriken: Suelo x 300) %^000000"
 	},
 	[SKID.SS_KUNAIWAIKYOKU] = {
-		"Kunai: Distorsion",
+		"Kunai: Distorsión",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Espejismo 1^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -19114,7 +19115,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQ 4000 + (Nv. de Kunai: Refraccion x 70) %^000000"
 	},
 	[SKID.SS_KUNAIKAITEN] = {
-		"Kunai: Rotacion",
+		"Kunai: Rotación",
 		"Nv. max.: 5",
 		"Habilidad requerida: ^777777Kunai: Distorsion 3^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -19132,7 +19133,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777ATQ por golpe 3300 + (Nv. de Kunai: Distorsion x 250) %^000000"
 	},
 	[SKID.SS_KUNAIKUSSETSU] = {
-		"Kunai: Refraccion",
+		"Kunai: Refracción",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Kunai: Rotacion 5^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -19154,95 +19155,95 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777ATQ por golpe 3800 + (Nv. de Kunai: Rotacion x 70) %^000000"
 	},
 	[SKID.SS_SEKIENHOU] = {
-		"Canon de Llamas Rojas",
+		"Cañón de Llamas Rojas",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Magia^000000",
 		"Objetivo: ^77777711 casilla en el suelo^000000",
 		"Detalles: ^777777Usando la niebla de las llamas rojas, arroja poderosas llamas que infligen dano magico de la propiedad Fuego a los objetivos dentro del alcance hacia adelante.",
-		"Inflige dano adicional que depende del nivel de la habilidad Canon oscurecedor que aprendio el usuario, y del nivel de base y de la HAB del usuario.",
+		"Inflige dano adicional que depende del nivel de la habilidad Cañón oscurecedor que aprendio el usuario, y del nivel de base y de la HAB del usuario.",
 		"Consume 1 unidad de Niebla ardiente.^000000",
 		"^FFFFFF_^000000",
-		"[Nv. 1]: ^777777ATQM 1250 + (Nv. de Canon oscurecedor x 50) %^000000",
-		"[Nv. 2]: ^777777ATQM 1800 + (Nv. de Canon oscurecedor x 100) %^000000",
-		"[Nv. 3]: ^777777ATQM 2350 + (Nv. de Canon oscurecedor x 150) %^000000",
-		"[Nv. 4]: ^777777ATQM 2900 + (Nv. de Canon oscurecedor x 200) %^000000",
-		"[Nv. 5]: ^777777ATQM 3450 + (Nv. de Canon oscurecedor x 250) %^000000",
-		"[Nv. 6]: ^777777ATQM 4000 + (Nv. de Canon oscurecedor x 300) %^000000",
-		"[Nv. 7]: ^777777ATQM 4550 + (Nv. de Canon oscurecedor x 350) %^000000",
-		"[Nv. 8]: ^777777ATQM 5100 + (Nv. de Canon oscurecedor x 400) %^000000",
-		"[Nv. 9]: ^777777ATQM 5650 + (Nv. de Canon oscurecedor x 450) %^000000",
-		"[Nv. 10]: ^777777ATQM 6200 + (Nv. de Canon oscurecedor x 500) %^000000"
+		"[Nv. 1]: ^777777ATQM 1250 + (Nv. de Cañón oscurecedor x 50) %^000000",
+		"[Nv. 2]: ^777777ATQM 1800 + (Nv. de Cañón oscurecedor x 100) %^000000",
+		"[Nv. 3]: ^777777ATQM 2350 + (Nv. de Cañón oscurecedor x 150) %^000000",
+		"[Nv. 4]: ^777777ATQM 2900 + (Nv. de Cañón oscurecedor x 200) %^000000",
+		"[Nv. 5]: ^777777ATQM 3450 + (Nv. de Cañón oscurecedor x 250) %^000000",
+		"[Nv. 6]: ^777777ATQM 4000 + (Nv. de Cañón oscurecedor x 300) %^000000",
+		"[Nv. 7]: ^777777ATQM 4550 + (Nv. de Cañón oscurecedor x 350) %^000000",
+		"[Nv. 8]: ^777777ATQM 5100 + (Nv. de Cañón oscurecedor x 400) %^000000",
+		"[Nv. 9]: ^777777ATQM 5650 + (Nv. de Cañón oscurecedor x 450) %^000000",
+		"[Nv. 10]: ^777777ATQM 6200 + (Nv. de Cañón oscurecedor x 500) %^000000"
 	},
 	[SKID.SS_REIKETSUHOU] = {
-		"Canon Implacable",
+		"Cañón Implacable",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Magia^000000",
 		"Objetivo: ^77777711 casilla en el suelo^000000",
 		"Detalles: ^777777Lanza una neblina de hielo y nieve, e invoca esferas implacables que explotan en la zona e infligen dano magico de la propiedad Agua a los objetivos dentro del alcance.",
-		"Inflige dano adicional que depende del nivel de la habilidad Canon oscurecedor que aprendio el usuario, y del nivel de base y de la HAB del usuario. El zona de efecto de la habilidad es de 5 x 5 a un maximo de 9 x 9 casilla segun el nivel de la habilidad.",
+		"Inflige dano adicional que depende del nivel de la habilidad Cañón oscurecedor que aprendio el usuario, y del nivel de base y de la HAB del usuario. El zona de efecto de la habilidad es de 5 x 5 a un maximo de 9 x 9 casilla segun el nivel de la habilidad.",
 		"Consume 1 unidad de Niebla helada.^000000",
 		"^FFFFFF_^000000",
-		"[Nv. 1]: ^777777ATQM 350 + (Nv. de Canon oscurecedor x 25) %^000000",
-		"[Nv. 2]: ^777777ATQM 700 + (Nv. de Canon oscurecedor x 50) %^000000",
-		"[Nv. 3]: ^777777ATQM 1050 + (Nv. de Canon oscurecedor x 75) %^000000",
-		"[Nv. 4]: ^777777ATQM 1400 + (Nv. de Canon oscurecedor x 100) %^000000",
-		"[Nv. 5]: ^777777ATQM 1750 + (Nv. de Canon oscurecedor x 125) %^000000",
-		"[Nv. 6]: ^777777ATQM 2100 + (Nv. de Canon oscurecedor x 150) %^000000",
-		"[Nv. 7]: ^777777ATQM 2450 + (Nv. de Canon oscurecedor x 175) %^000000",
-		"[Nv. 8]: ^777777ATQM 2800 + (Nv. de Canon oscurecedor x 200) %^000000",
-		"[Nv. 9]: ^777777ATQM 3150 + (Nv. de Canon oscurecedor x 225) %^000000",
-		"[Nv. 10]: ^777777ATQM 3500 + (Nv. de Canon oscurecedor x 250) %^000000"
+		"[Nv. 1]: ^777777ATQM 350 + (Nv. de Cañón oscurecedor x 25) %^000000",
+		"[Nv. 2]: ^777777ATQM 700 + (Nv. de Cañón oscurecedor x 50) %^000000",
+		"[Nv. 3]: ^777777ATQM 1050 + (Nv. de Cañón oscurecedor x 75) %^000000",
+		"[Nv. 4]: ^777777ATQM 1400 + (Nv. de Cañón oscurecedor x 100) %^000000",
+		"[Nv. 5]: ^777777ATQM 1750 + (Nv. de Cañón oscurecedor x 125) %^000000",
+		"[Nv. 6]: ^777777ATQM 2100 + (Nv. de Cañón oscurecedor x 150) %^000000",
+		"[Nv. 7]: ^777777ATQM 2450 + (Nv. de Cañón oscurecedor x 175) %^000000",
+		"[Nv. 8]: ^777777ATQM 2800 + (Nv. de Cañón oscurecedor x 200) %^000000",
+		"[Nv. 9]: ^777777ATQM 3150 + (Nv. de Cañón oscurecedor x 225) %^000000",
+		"[Nv. 10]: ^777777ATQM 3500 + (Nv. de Cañón oscurecedor x 250) %^000000"
 	},
 	[SKID.SS_RAIDENPOU] = {
-		"Canon Atronador",
+		"Cañón Atronador",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Magia^000000",
 		"Objetivo: ^77777711 casilla en el suelo^000000",
 		"Detalles: ^777777Lanza niebla del viento del norte al suelo para invocar el poderoso viento, inflige dano magico de la propiedad Viento al objetivo y a los enemigos que lo rodean.",
-		"Inflige dano adicional que depende del nivel de la habilidad Canon oscurecedor que aprendio el usuario, y del nivel de base y de la HAB del usuario.",
+		"Inflige dano adicional que depende del nivel de la habilidad Cañón oscurecedor que aprendio el usuario, y del nivel de base y de la HAB del usuario.",
 		"Consume 1 unidad de Niebla del viento del norte.^000000",
 		"^FFFFFF_^000000",
-		"[Nv. 1]: ^777777ATQM 650 + (Nv. de Canon oscurecedor x 50) %^000000",
-		"[Nv. 2]: ^777777ATQM 1300 + (Nv. de Canon oscurecedor x 100) %^000000",
-		"[Nv. 3]: ^777777ATQM 1950 + (Nv. de Canon oscurecedor x 150) %^000000",
-		"[Nv. 4]: ^777777ATQM 2600 + (Nv. de Canon oscurecedor x 200) %^000000",
-		"[Nv. 5]: ^777777ATQM 3250 + (Nv. de Canon oscurecedor x 250) %^000000",
-		"[Nv. 6]: ^777777ATQM 3900 + (Nv. de Canon oscurecedor x 300) %^000000",
-		"[Nv. 7]: ^777777ATQM 4550 + (Nv. de Canon oscurecedor x 350) %^000000",
-		"[Nv. 8]: ^777777ATQM 5200 + (Nv. de Canon oscurecedor x 400) %^000000",
-		"[Nv. 9]: ^777777ATQM 5850 + (Nv. de Canon oscurecedor x 450) %^000000",
-		"[Nv. 10]: ^777777ATQM 6500 + (Nv. de Canon oscurecedor x 500) %^000000"
+		"[Nv. 1]: ^777777ATQM 650 + (Nv. de Cañón oscurecedor x 50) %^000000",
+		"[Nv. 2]: ^777777ATQM 1300 + (Nv. de Cañón oscurecedor x 100) %^000000",
+		"[Nv. 3]: ^777777ATQM 1950 + (Nv. de Cañón oscurecedor x 150) %^000000",
+		"[Nv. 4]: ^777777ATQM 2600 + (Nv. de Cañón oscurecedor x 200) %^000000",
+		"[Nv. 5]: ^777777ATQM 3250 + (Nv. de Cañón oscurecedor x 250) %^000000",
+		"[Nv. 6]: ^777777ATQM 3900 + (Nv. de Cañón oscurecedor x 300) %^000000",
+		"[Nv. 7]: ^777777ATQM 4550 + (Nv. de Cañón oscurecedor x 350) %^000000",
+		"[Nv. 8]: ^777777ATQM 5200 + (Nv. de Cañón oscurecedor x 400) %^000000",
+		"[Nv. 9]: ^777777ATQM 5850 + (Nv. de Cañón oscurecedor x 450) %^000000",
+		"[Nv. 10]: ^777777ATQM 6500 + (Nv. de Cañón oscurecedor x 500) %^000000"
 	},
 	[SKID.SS_KINRYUUHOU] = {
-		"Canon del Dragon Dorado",
+		"Cañón del Dragón Dorado",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^993300Activa^000000",
 		"Tipo: ^777777Magia^000000",
 		"Objetivo: ^777777Objetivo unico^000000",
 		"Detalles: ^777777Arroja una niebla de tierra e inflige dano magico de la propiedad Tierra a los enemigos que estan alrededor.",
-		"Inflige dano adicional que depende del nivel de la habilidad Canon oscurecedor que aprendio el usuario, y del nivel de base y de la HAB del usuario.",
+		"Inflige dano adicional que depende del nivel de la habilidad Cañón oscurecedor que aprendio el usuario, y del nivel de base y de la HAB del usuario.",
 		"Consume 1 unidad de Niebla de tierra.^000000",
 		"^FFFFFF_^000000",
-		"[Nv. 1]: ^777777ATQM 370 + (Nv. de Canon oscurecedor x 7) %^000000",
-		"[Nv. 2]: ^777777ATQM 590 + (Nv. de Canon oscurecedor x 14) %^000000",
-		"[Nv. 3]: ^777777ATQM 810 + (Nv. de Canon oscurecedor x 21) %^000000",
-		"[Nv. 4]: ^777777ATQM 1030 + (Nv. de Canon oscurecedor x 28) %^000000",
-		"[Nv. 5]: ^777777ATQM 1250 + (Nv. de Canon oscurecedor x 35) %^000000",
-		"[Nv. 6]: ^777777ATQM 1470 + (Nv. de Canon oscurecedor x 42) %^000000",
-		"[Nv. 7]: ^777777ATQM 1690 + (Nv. de Canon oscurecedor x 49) %^000000",
-		"[Nv. 8]: ^777777ATQM 1910 + (Nv. de Canon oscurecedor x 56) %^000000",
-		"[Nv. 9]: ^777777ATQM 2130 + (Nv. de Canon oscurecedor x 63) %^000000",
-		"[Nv. 10]: ^777777ATQM 2350 + (Nv. de Canon oscurecedor x 70) %^000000"
+		"[Nv. 1]: ^777777ATQM 370 + (Nv. de Cañón oscurecedor x 7) %^000000",
+		"[Nv. 2]: ^777777ATQM 590 + (Nv. de Cañón oscurecedor x 14) %^000000",
+		"[Nv. 3]: ^777777ATQM 810 + (Nv. de Cañón oscurecedor x 21) %^000000",
+		"[Nv. 4]: ^777777ATQM 1030 + (Nv. de Cañón oscurecedor x 28) %^000000",
+		"[Nv. 5]: ^777777ATQM 1250 + (Nv. de Cañón oscurecedor x 35) %^000000",
+		"[Nv. 6]: ^777777ATQM 1470 + (Nv. de Cañón oscurecedor x 42) %^000000",
+		"[Nv. 7]: ^777777ATQM 1690 + (Nv. de Cañón oscurecedor x 49) %^000000",
+		"[Nv. 8]: ^777777ATQM 1910 + (Nv. de Cañón oscurecedor x 56) %^000000",
+		"[Nv. 9]: ^777777ATQM 2130 + (Nv. de Cañón oscurecedor x 63) %^000000",
+		"[Nv. 10]: ^777777ATQM 2350 + (Nv. de Cañón oscurecedor x 70) %^000000"
 	},
 	[SKID.SS_ANTENPOU] = {
-		"Canon Oscurecedor",
+		"Cañón Oscurecedor",
 		"Nv. max.: 10",
 		"Habilidad requerida: ^777777Habilidad basica^000000",
 		"Forma de habilidad: ^993300Activa^000000",
@@ -19293,9 +19294,9 @@ SKILL_DESCRIPT = {
 		"[Nv. 1]: ^777777ATQ 15 000 %^000000"
 	},
 	[SKID.SS_ANKOKURYUUAKUMU] = {
-		"Dragon Oscuro: Pesadilla",
+		"Dragón Oscuro: Pesadilla",
 		"Nv. max.: 1",
-		"^777777Habilidades requeridas: Espejismo 1, Canon de llamas rojas 5, Canon implacable 5, Canon atronador 5, Canon del dragon dorado 5, Canon oscurecedor 5^000000",
+		"^777777Habilidades requeridas: Espejismo 1, Cañón de llamas rojas 5, Cañón implacable 5, Cañón atronador 5, Cañón del dragon dorado 5, Cañón oscurecedor 5^000000",
 		"Forma de habilidad: ^3F0099Activa (PA)^000000",
 		"Tipo: ^777777Magia^000000",
 		"Objetivo: ^777777Lanzamiento instantaneo^000000",
@@ -19365,7 +19366,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777+90^000000 l ^777777+60^000000 l ^7777775 min.^000000"
 	},
 	[SKID.HAMI_CASTLE] = {
-		"Enroque ^777777(Castling)^000000",
+		"Cambio de Lugar ^777777(Castling)^000000",
 		"Nv. máx.: 5",
 		"Descripción: ^777777Cambia instantáneamente la ubicación del",
 		"lanzador con el homúnculo Amistr para que",

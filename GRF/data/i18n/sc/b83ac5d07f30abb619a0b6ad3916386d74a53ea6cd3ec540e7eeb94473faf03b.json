@@ -27,7 +27,7 @@
     "5TIp": {
         "en-US": "Your language seems gentle, but it seems like you are here to create more tension...",
         "pt-BR": "Sua linguagem parece gentil, mas parece que você está aqui para criar mais tensão...",
-        "es-ES": "Su idioma parece amable, pero parece que vinieron para generar más tensión…"
+        "es-ES": "Su idioma parece amable, pero parece que vinieron para generar más tensión..."
     },
     "5jIp": {
         "en-US": "Keep the peace.",
@@ -37,12 +37,12 @@
     "5zIp": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "6DIp": {
         "en-US": "[{0}]\nYes, we humans are smaller than you... but...\nwe have been training ourselves to be strong.",
         "pt-BR": "[{0}]\nSim, nós, humanos, somos menores que vocês... mas...\nestamos treinando para sermos fortes.",
-        "es-ES": "[{0}]\nSí, los humanos somos más pequeños que ustedes… pero…\nnos entrenamos para ser fuertes."
+        "es-ES": "[{0}]\nSí, los humanos somos más pequeños que ustedes... pero...\nnos entrenamos para ser fuertes."
     },
     "6TIp": {
         "en-US": "[{0}]\nNow let me show you that\nwe can match your strength!",
@@ -52,7 +52,7 @@
     "6jIp": {
         "en-US": "[Strom]\nAnyway...\nSome bad things happened to my one of my colleagues in that cave you found recently.",
         "pt-BR": "[Strom]\nEnfim...\nAlgumas coisas ruins aconteceram com um dos meus colegas naquela caverna que você encontrou recentemente.",
-        "es-ES": "[Strom]\nEn fin…\nA uno de mis colegas le sucedió algo malo en esa cueva que encontraron hace poco."
+        "es-ES": "[Strom]\nEn fin...\nA uno de mis colegas le sucedió algo malo en esa cueva que encontraron hace poco."
     },
     "6zIp": {
         "en-US": "[Strom]\nThere're monsters called. ^4D4DFFRata^000000and ^4D4DFFDueyrr^000000.\nIf you terminate them, I would regard you as a decent and strong person.",
@@ -62,7 +62,7 @@
     "7DIp": {
         "en-US": "[Strom]\n...Um.\nLet me consider that suggestion.",
         "pt-BR": "[Strom]\n... Hum.\nDeixe-me considerar essa sugestão.",
-        "es-ES": "[Strom]\n…Mmm.\nDéjame considerar tu ofrecimiento."
+        "es-ES": "[Strom]\n...Mmm.\nDéjame considerar tu ofrecimiento."
     },
     "7TIp": {
         "en-US": "[{0}]\nYes, human beings can be stronger when all they work together.",
@@ -82,7 +82,7 @@
     "8DIp": {
         "en-US": "[Strom]\nIf you want to show you're so strong...\nPlease find and defeat the Rata and Duneyrr in the cave.",
         "pt-BR": "[Strom]\nSe você quiser mostrar que é muito forte...\nEncontre e derrote Rata e Duneyrr na caverna.",
-        "es-ES": "[Strom]\nSi quieres demostrar que son tan fuertes…\nencuentra y derrota a Rata y a Duneyrr; están en la cueva."
+        "es-ES": "[Strom]\nSi quieres demostrar que son tan fuertes...\nencuentra y derrota a Rata y a Duneyrr; están en la cueva."
     },
     "8TIp": {
         "en-US": "[Strom]\nIt's pretty cold here, but we can bear the weather.",
@@ -92,7 +92,7 @@
     "8jIp": {
         "en-US": "[Strom]\nBut you're different.\nTo bear this weather, you should wear Hillslion fur...\njust cheer up.",
         "pt-BR": "[Strom]\nMas você é diferente.\nPara aguentar esse clima, seria melhor usar pele de Leão da Montanha...\nAnime-se.",
-        "es-ES": "[Strom]\nPero ustedes son diferentes.\nPara soportar este clima, deben usar pieles de León de montaña…\n¡Arriba el ánimo!"
+        "es-ES": "[Strom]\nPero ustedes son diferentes.\nPara soportar este clima, deben usar pieles de León de montaña...\n¡Arriba el ánimo!"
     },
     "8zIp": {
         "en-US": "[Manuk Garten]\nH heakden Qauedh Ihehe?\nEHadkiekd O pekdh?\nLehdhak Gehdah?",
@@ -182,12 +182,12 @@
     "BDMp": {
         "en-US": "[Manuk Engineer]\nWe refine Bradium and extract special things from it...\nThen form that into an injection.\nWhen it is refined it is used to maintain our body cycles.",
         "pt-BR": "[Engenheiro Manuk]\nNós refinamos o Bradium e extraímos coisas especiais dele...\nDepois, transformamos em uma injeção.\nQuando refinado, o usamos para manter nossos ciclos corporais.",
-        "es-ES": "[Ingeniero Manuk]\nRefinamos el Bradium y extraemos cosas especiales de él…\nLuego, con eso, preparamos una inyección.\nUna vez que se refina, se usa para mantener nuestros ciclos corporales."
+        "es-ES": "[Ingeniero Manuk]\nRefinamos el Bradium y extraemos cosas especiales de él...\nLuego, con eso, preparamos una inyección.\nUna vez que se refina, se usa para mantener nuestros ciclos corporales."
     },
     "BTMp": {
         "en-US": "[Manuk Engineer]\nThat's why we are quite advanced in this industry.\nOther industries are also well developed... but...",
         "pt-BR": "[Engenheiro Manuk]\nÉ por isso que estamos bastante avançados nesse setor.\nOutros setores também estão bem desenvolvidos... mas...",
-        "es-ES": "[Ingeniero Manuk]\nPor eso estamos tan avanzados en esta industria.\nLas demás industrias también están bastante desarrolladas… Pero…"
+        "es-ES": "[Ingeniero Manuk]\nPor eso estamos tan avanzados en esta industria.\nLas demás industrias también están bastante desarrolladas... Pero..."
     },
     "BjMp": {
         "en-US": "[Manuk Engineer]\nThis is our top priority because it is crucial for our survival.",
@@ -297,17 +297,17 @@
     "GzMp": {
         "en-US": "[Laphine craftsman]\nYai....\nAll grown Laphine have one.\nThey're essential for all Laphine to live in since we are very private people.",
         "pt-BR": "[Artesão Laphine]\nYai...\ntodas as Laphine adultos têm um.\nSão essenciais para todas as Laphine viverem, já que somos pessoas muito reservadas.",
-        "es-ES": "[Artesano Laphine]\nYais…\nTodos los laphines adultos tienen uno.\nSon esenciales para los laphines, ya que somos personas muy reservadas."
+        "es-ES": "[Artesano Laphine]\nYais...\nTodos los laphines adultos tienen uno.\nSon esenciales para los laphines, ya que somos personas muy reservadas."
     },
     "HDMp": {
         "en-US": "It's a house...?",
         "pt-BR": "É uma casa...?",
-        "es-ES": "¿Es una casa…?"
+        "es-ES": "¿Es una casa...?"
     },
     "HTMp": {
         "en-US": "[Laphine craftsman]\nYes...\nThat's it. We sometimes invite our friends or guests to our Yai.\nAnd decorations for Yai are quite important to us...",
         "pt-BR": "[Artesão Laphine]\nSim...\nÉ isso aí. Às vezes, convidamos nossos amigos ou hóspedes para o nosso Yai.\nE as decorações para o Yai são muito importantes para nós...",
-        "es-ES": "[Artesano Laphine]\nSí…\nEso es. A veces invitamos amigos o huéspedes al yai.\nY para nosotros es muy importante que el yai esté decorado…"
+        "es-ES": "[Artesano Laphine]\nSí...\nEso es. A veces invitamos amigos o huéspedes al yai.\nY para nosotros es muy importante que el yai esté decorado..."
     },
     "HjMp": {
         "en-US": "[Laphine craftsman]\nWe Laphine care about ourselves and our Yai as well.",
@@ -317,7 +317,7 @@
     "HzMp": {
         "en-US": "[Laphine craftsman]\nWe are far away from our hometown now...\nIf we don't have this kind of hobby, there's nothing to enjoy here.",
         "pt-BR": "[Artesão Laphine]\nEstamos longe de nossa cidade natal agora...\nSe não tivermos esse tipo de hobby, não haverá nada para aproveitar aqui.",
-        "es-ES": "[Artesano Laphine]\nAhora estamos muy lejos de nuestro pueblo natal…\nSin este tipo de pasatiempos, no hay nada para divertirse."
+        "es-ES": "[Artesano Laphine]\nAhora estamos muy lejos de nuestro pueblo natal...\nSin este tipo de pasatiempos, no hay nada para divertirse."
     },
     "IDMp": {
         "en-US": "[Laphine craftsman]\nIf it's not that important to you, can you let me do it first?\nSince I should finish up all of this decoration stuff today.\nI am quite busy.",
@@ -327,7 +327,7 @@
     "ITMp": {
         "en-US": "[Laphine craftsman]\nYur,Dur AnoVa?\nWha? Dieb OsaDur .. \nah..RuffThus NeAsh. man nesAsh OdesAlah ?",
         "pt-BR": "[Artesão Laphine]\nYur, Dur AnoVa?\nWha? Dieb OsaDur ... \nah...RuffThus NeAsh. man nesAsh OdesAlah ?",
-        "es-ES": "[Artesano Laphine]\n¿Yur,Dur AnoVa?\n¿Qu…? Dieb OsaDur .. \n¿ah..RuffThus NeAsh. man nesAsh OdesAlah?"
+        "es-ES": "[Artesano Laphine]\n¿Yur,Dur AnoVa?\n¿Qu...? Dieb OsaDur .. \n¿ah..RuffThus NeAsh. man nesAsh OdesAlah?"
     },
     "IjMp": {
         "en-US": "Pet Breeder",
@@ -347,7 +347,7 @@
     "JTMp": {
         "en-US": "[Tabb]\nThat's very dangerous. Do you want to die..?!",
         "pt-BR": "[Tabb]\nÉ muito perigoso. Você quer morrer?!",
-        "es-ES": "[Tabb]\nEs muy peligroso. ¡¿Quieres morirte…?!"
+        "es-ES": "[Tabb]\nEs muy peligroso. ¡¿Quieres morirte...?!"
     },
     "JjMp": {
         "en-US": "[Pinedel]\nAre you ignoring cute pets??\nWe've been able to get Pickys and even Zealotus!",
@@ -357,7 +357,7 @@
     "JzMp": {
         "en-US": "[Tabb]\nNo way, even if you ask me...\nHillslion is very adorable...\nBut you can't.",
         "pt-BR": "[Tabb]\nDe jeito nenhum, mesmo se você me perguntar...\nO Leão da Montanha é muito adorável...\nMas você não pode.",
-        "es-ES": "[Tabb]\nNi lo sueñes, ni aunque me lo pidas por favor…\nEl León de montaña es muy lindo…\nPero no puedes."
+        "es-ES": "[Tabb]\nNi lo sueñes, ni aunque me lo pidas por favor...\nEl León de montaña es muy lindo...\nPero no puedes."
     },
     "KDMp": {
         "en-US": "[Pinedel]\nThen let me know why you object to this.",
@@ -372,17 +372,17 @@
     "KjMp": {
         "en-US": "[Tabb]\nCan't you see that?\nI've tried to train them... but I couldn't.\nHow can we can train them as a cute pet...?",
         "pt-BR": "[Tabb]\nNão consegue ver?\nEu tentei treiná-los... mas não consegui.\nComo podemos treiná-los como um mascote fofo...?",
-        "es-ES": "[Tabb]\n¿No te das cuenta?\nYo mismo intenté entrenarlos… Y no pude.\n¿Cómo crees que podríamos entrenarlos para que sean mascotas adorables?"
+        "es-ES": "[Tabb]\n¿No te das cuenta?\nYo mismo intenté entrenarlos... Y no pude.\n¿Cómo crees que podríamos entrenarlos para que sean mascotas adorables?"
     },
     "KzMp": {
         "en-US": "[Tabb]\nIt would definitely try to escape from us...\nThen he would become very awful..\nI don't agree with this.",
         "pt-BR": "[Tabb]\nEle definitivamente tentaria escapar da gente...\nE isso seria muito terrível...\nNão concordo com isso.",
-        "es-ES": "[Tabb]\nSin dudas intentaría escapar…\nEntonces las cosas se pondrían muy feas…\nNo estoy de acuerdo."
+        "es-ES": "[Tabb]\nSin dudas intentaría escapar...\nEntonces las cosas se pondrían muy feas...\nNo estoy de acuerdo."
     },
     "LDMp": {
         "en-US": "[Pinedel]\nNah....\nCan't we control them with magical power?\nWe've done it before......",
         "pt-BR": "[Pinedel]\nNah...\nNão podemos controlá-los com poder mágico?\nJá fizemos isso antes...",
-        "es-ES": "[Pinedel]\nBah…\n¿No podemos controlarlos con el poder mágico?\nYa lo hicimos antes…"
+        "es-ES": "[Pinedel]\nBah...\n¿No podemos controlarlos con el poder mágico?\nYa lo hicimos antes..."
     },
     "LTMp": {
         "en-US": "- They just continue to argue -",
@@ -412,12 +412,12 @@
     "MjMp": {
         "en-US": "[Pinedel]\nThis is Rin's cherished treasure box...\nThis is enough payment, right?",
         "pt-BR": "[Pinedel]\nEsta é a caixa do tesouro da Rin...\nÉ pagamento suficiente, certo?",
-        "es-ES": "[Pinedel]\nEs la preciada Caja del tesoro de Rin…\nEs suficiente como pago, ¿no?"
+        "es-ES": "[Pinedel]\nEs la preciada Caja del tesoro de Rin...\nEs suficiente como pago, ¿no?"
     },
     "MzMp": {
         "en-US": "[Pinedel]\nI know you haven't terminated the Runaway Dandelion yet...\nDon't take me for a fool.",
         "pt-BR": "[Pinedel]\nSei que você ainda não exterminou o Dandelion Fugitivo...\nNão ache que sou idiota.",
-        "es-ES": "[Pinedel]\nSé que aún no acabaste con el miembro de Diente de León fugitivo…\nNo me tomes por tonta."
+        "es-ES": "[Pinedel]\nSé que aún no acabaste con el miembro de Diente de León fugitivo...\nNo me tomes por tonta."
     },
     "NDMp": {
         "en-US": "[Pinedel]\nI will forward everything to Rin.\nShe'll love it.\nJust tell her your name {0} .",
@@ -527,7 +527,7 @@
     "STMp": {
         "en-US": "[Tabb]\nWould you just give up making exogamous beings into cute pets...",
         "pt-BR": "[Tabb]\nVocê desistiria de transformar seres exogâmicos em bichinhos fofos...?",
-        "es-ES": "[Tabb]\n¡¿Quieres dejar de convertir a esos seres de diferentes razas en mascotas adorables…?!"
+        "es-ES": "[Tabb]\n¡¿Quieres dejar de convertir a esos seres de diferentes razas en mascotas adorables...?!"
     },
     "SjMp": {
         "en-US": "[Pinedel]\nTabb doesn't have any guts!",
@@ -542,7 +542,7 @@
     "TDMp": {
         "en-US": "[Wanted]\n^FFFFFF_^000000\nWanted: Dandelion\nRequester: Rin\nReward : treasure box.\n^FFFFFF_^000000\nNotice : We thought that all of the Dandelion gang were terminated.\nBut they weren't.\nI've heard that there was a Dandelion's black clothing found in Ash-Vacuum.\nThere were some problems...\nI need someone to find the Dandelion and terminate them.\nI can provide a treasure box that I cherish.\nI've heard a rumor that he's in a cave somewhere..!\n^FFFFFF_^000000\nPS> They have a bad reputation...\nSo you may not want to go alone...\n^FFFFFF_^000000\nPSS> I can't reward you directly...\n'Pinedel will reward you once the deed is done..!\n^FFFFFF_^000000",
         "pt-BR": "[Procurado]\n^FFFFFF_^000000\nProcura-se: Dandelion\nSolicitante: Rin\nRecompensa: caixa do tesouro.\n^FFFFFF_^000000\nAviso : Pensamos que todos os membros da gangue Dandelion haviam sido eliminados.\nMas não foram.\nOuvi dizer que a roupa preta de um Dandelion foi encontrada em Ash-Vacuum.\nHouve alguns problemas...\nPreciso de alguém para encontrar o Dandelion e acabar com ele.\nPosso fornecer uma caixa de tesouro que eu prezo.\nOuvi um boato de que ele está em uma caverna em algum lugar...!\n^FFFFFF_^000000\nPS> Eles têm uma reputação ruim...\nPortanto, talvez você não queira ir sozinho...\n^FFFFFF_^000000\nPSS> Não posso recompensá-lo diretamente...\nPinedel o recompensará quando a ação for concluída...!\n^FFFFFF_^000000",
-        "es-ES": "[Se busca]\n^FFFFFF_^000000\nSe busca: Diente de León.\nSolicitante: Rin.\nPremio: Caja del tesoro.\n^FFFFFF_^000000\nAviso: Pensábamos que habíamos acabado con toda la pandilla Diente de León.\nPero no era así.\nEscuché que encontraron la ropa negra de un miembro de Diente de León en Ash Vacuum.\nHubo algunos problemas…\nNecesito que alguien encuentre al miembro de Diente de León y acabe con él.\nPuedo pagarte con una Caja del tesoro que valoro mucho.\n¡Escuché el rumor de que está en alguna cueva!\n^FFFFFF_^000000\nP.D.: Tiene mala reputación.\nAsí que quizás no quieras ir sin compañía…\n^FFFFFF_^000000\nP.D. 2: No puedo darte la recompensa en persona.\n¡Una vez que esté hecho, Pinedel te entregará el premio!\n^FFFFFF_^000000"
+        "es-ES": "[Se busca]\n^FFFFFF_^000000\nSe busca: Diente de León.\nSolicitante: Rin.\nPremio: Caja del tesoro.\n^FFFFFF_^000000\nAviso: Pensábamos que habíamos acabado con toda la pandilla Diente de León.\nPero no era así.\nEscuché que encontraron la ropa negra de un miembro de Diente de León en Ash Vacuum.\nHubo algunos problemas...\nNecesito que alguien encuentre al miembro de Diente de León y acabe con él.\nPuedo pagarte con una Caja del tesoro que valoro mucho.\n¡Escuché el rumor de que está en alguna cueva!\n^FFFFFF_^000000\nP.D.: Tiene mala reputación.\nAsí que quizás no quieras ir sin compañía...\n^FFFFFF_^000000\nP.D. 2: No puedo darte la recompensa en persona.\n¡Una vez que esté hecho, Pinedel te entregará el premio!\n^FFFFFF_^000000"
     },
     "TTMp": {
         "en-US": "Do you accept Rin's request?",

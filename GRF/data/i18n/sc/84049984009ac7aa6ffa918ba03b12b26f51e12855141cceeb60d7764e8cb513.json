@@ -32,17 +32,17 @@
     "ZkCfBg": {
         "en-US": "[Bishop Paul]\nHm...?\nAh, I sense that you are a warrior that has been to Valhalla. You who have been reborn... We are here to look after you.",
         "pt-BR": "[Bispo Tomás]\nVocê foi renascido e, uma vez mais, vive neste mundo.\nA igreja de Prontera espera por você.",
-        "es-ES": "[Obispo Paul]\n¿Mmm?\nAh, siento que tu alma guerrera ya ha estado en el Valhalla. Tú que has renacido… Estamos aquí para cuidar de ti."
+        "es-ES": "[Obispo Paul]\n¿Mmm?\nAh, siento que tu alma guerrera ya ha estado en el Valhalla. Tú que has renacido... Estamos aquí para cuidar de ti."
     },
     "Z0CfBg": {
         "en-US": "[Bishop Paul]\nDo not let evil conquer your soul. You have enough courage and power to overcome the hardest situation. May God bless you...",
         "pt-BR": "[Bispo Tomás]\nNão tema os julgamentos.\nVocê tem força e coragem para superá-los.\nDeus abençoe você...",
-        "es-ES": "[Obispo Paul]\nNo dejes que el mal conquiste tu alma. Tienes el valor y el poder suficientes para superar el más difícil de los problemas. Que los dioses te cuiden…"
+        "es-ES": "[Obispo Paul]\nNo dejes que el mal conquiste tu alma. Tienes el valor y el poder suficientes para superar el más difícil de los problemas. Que los dioses te cuiden..."
     },
     "aECfBg": {
         "en-US": "[Bishop Paul]\nAh...",
         "pt-BR": "[Bispo Tomás]\nAh...",
-        "es-ES": "[Obispo Paul]\nAh…"
+        "es-ES": "[Obispo Paul]\nAh..."
     },
     "aUCfBg": {
         "en-US": "It is good to see you again, Brother {0}. Once again, God's grace has caused our paths to cross.",
@@ -122,7 +122,7 @@
     "eECfBg": {
         "en-US": "[Bishop Paul]\nI will now send you to the training place for Acolytes. Please send my regards to Brother Peter...",
         "pt-BR": "[Bispo Tomás]\nEu vou mandá-lo para o campo de testes.\nAjude os Noviços a ser tornarem bons Sacerdotes.",
-        "es-ES": "[Obispo Paul]\nAhora te enviaré al lugar de entrenamiento para Acólitos. Por favor, envíale mis saludos al hermano Peter…"
+        "es-ES": "[Obispo Paul]\nAhora te enviaré al lugar de entrenamiento para Acólitos. Por favor, envíale mis saludos al hermano Peter..."
     },
     "eUCfBg": {
         "en-US": "[Bishop Paul]\nI hope you will assist this Acolyte in becoming a Priest.",
@@ -137,22 +137,22 @@
     "e0CfBg": {
         "en-US": "[Bishop Paul]\nI see, take your time. Don't forget to bring a ^0000FFRosary^000000...",
         "pt-BR": "[Bispo Tomas]\nTome o tempo que for necessário.\nNão se esqueça de trazer o seu ^0000FFRosário^000000.",
-        "es-ES": "[Obispo Paul]\nYa veo, tómate tu tiempo. No olvides traer un ^0000FFRosario^000000…"
+        "es-ES": "[Obispo Paul]\nYa veo, tómate tu tiempo. No olvides traer un ^0000FFRosario^000000..."
     },
     "fECfBg": {
         "en-US": "[Bishop Paul]\nYou must be strong. Have faith, as you are loved by God. I pray the wounds of the body are healed soon...",
         "pt-BR": "[Bispo Tomas]\nAqui está um filho teu, que sente a fraqueza que o Senhor nós deu.\nO Homem não vive apenas de pão, por favor, nós ajude em a sua graça infinita.",
-        "es-ES": "[Obispo Paul]\nDebes ser fuerte. Ten fe, pues los dioses te aman. Rezo para que las heridas del cuerpo se curen pronto…"
+        "es-ES": "[Obispo Paul]\nDebes ser fuerte. Ten fe, pues los dioses te aman. Rezo para que las heridas del cuerpo se curen pronto..."
     },
     "fUCfBg": {
         "en-US": "[Bishop Paul]\nGod, please look after your poor children. Help them overcome their hardships and difficulties. Refresh their spirits...",
         "pt-BR": "[Bispo Tomas]\nMesmo nesses momentos, o Senhor você meu filho.\nVamos juntos rezar a Deus para curar seu corpo dolorido e sua mente cansada.",
-        "es-ES": "[Obispo Paul]\nDioses, por favor, cuiden de sus pobres hijos. Ayúdenlos a superar las adversidades y las dificultades. Alivien sus espíritus…"
+        "es-ES": "[Obispo Paul]\nDioses, por favor, cuiden de sus pobres hijos. Ayúdenlos a superar las adversidades y las dificultades. Alivien sus espíritus..."
     },
     "fkCfBg": {
         "en-US": "[Bishop Paul]\nI hope my invocation has eased your pain. Now please go forth and spread God's message. May God be with you...",
         "pt-BR": "[Bispo Tomás]\nSe você passar o seu tempo limpando as lagrimas dos outros, não terá tempo para derramar as suas próprias.\nE logo você não verá necessidade em derramar suas lágrimas. Vá e espalhe a palavra de Deus.",
-        "es-ES": "[Obispo Paul]\nEspero que mi invocación haya aliviado tu dolor. Ahora, por favor, ve y difunde el mensaje de los dioses. Que los dioses te acompañen…"
+        "es-ES": "[Obispo Paul]\nEspero que mi invocación haya aliviado tu dolor. Ahora, por favor, ve y difunde el mensaje de los dioses. Que los dioses te acompañen..."
     },
     "f0CfBg": {
         "en-US": "[Bishop Paul]\nMay God be\nwith you, brother.",
@@ -187,7 +187,7 @@
     "hUCfBg": {
         "en-US": "[Bishop Paul]\nOh I see...\nIf you wish to become an Acolyte, please visit the other room.",
         "pt-BR": "[Bispo Tomás]\nPara se tornar um Noviço você deve ir no quarto adiante deste.\nBoa sorte no seu teste, que a graça do Senhor esteja contigo.",
-        "es-ES": "[Obispo Paul]\nAh, ya veo…\nSi quieres convertirse en Acólito, visita la otra sala."
+        "es-ES": "[Obispo Paul]\nAh, ya veo...\nSi quieres convertirse en Acólito, visita la otra sala."
     },
     "hkCfBg": {
         "en-US": "[Bishop Paul]\nOh I see. However, you must first become an Acolyte before becoming a Priest. Please visit the other room.",
@@ -237,7 +237,7 @@
     "j0CfBg": {
         "en-US": "[Bishop Paul]\nIf you pass the test, you will be able to use more powerful skills that will be effective against Demon and Undead creatures...",
         "pt-BR": "[Bispo Tomás]\nUm Sacerdote tem ainda mais habilidades contra os Demônios e os Malditos, e mais forças para ajudar os outros.",
-        "es-ES": "[Obispo Paul]\nSi pasas la prueba, podrás utilizar habilidades más poderosas que serán eficaces contra criaturas tipo Demonio y Muerto viviente…"
+        "es-ES": "[Obispo Paul]\nSi pasas la prueba, podrás utilizar habilidades más poderosas que serán eficaces contra criaturas tipo Demonio y Muerto viviente..."
     },
     "kECfBg": {
         "en-US": "[Bishop Paul]\nWith all of your ability, you will play an important role in towns and dungeons.",
@@ -272,7 +272,7 @@
     "lkCfBg": {
         "en-US": "[Bishop Paul]\nWell...\nMay God\nbless you.",
         "pt-BR": "[Bispo Tomás]\nQue o Senhor esteja contigo.",
-        "es-ES": "[Obispo Paul]\nBueno…\nQué los dioses\nte cuiden."
+        "es-ES": "[Obispo Paul]\nBueno...\nQué los dioses\nte cuiden."
     },
     "l0CfBg": {
         "en-US": "[Bishop Paul]\nMay God bless\nyou, Brother.\nWhat brings\nyou to me?",
@@ -312,7 +312,7 @@
     "nkCfBg": {
         "en-US": "I need some time to think about it...",
         "pt-BR": "Eu preciso pensar melhor.",
-        "es-ES": "Necesito tiempo para pensarlo…"
+        "es-ES": "Necesito tiempo para pensarlo..."
     },
     "n0CfBg": {
         "en-US": "[Bishop Paul]\nYou are not yet qualified to be a Priest. Please go out into the world and broaden your experiences.",
@@ -397,7 +397,7 @@
     "r0CfBg": {
         "en-US": "[Bishop Paul]\nNo problem, take your time.\nMay God give you the strength to overcome your fears...",
         "pt-BR": "[Bispo Tomás]\nTome o tempo que for preciso.\nQue o Senhor esteja contigo.",
-        "es-ES": "[Obispo Paul]\nNo hay problema, tómate tu tiempo.\nQue los dioses te den la fuerza para superar tus miedos…"
+        "es-ES": "[Obispo Paul]\nNo hay problema, tómate tu tiempo.\nQue los dioses te den la fuerza para superar tus miedos..."
     },
     "sECfBg": {
         "en-US": "[Bishop Paul]\nWell, let me tell you the order of the ascetic Priests that you must visit for your pilgrimage.",
@@ -432,17 +432,17 @@
     "tkCfBg": {
         "en-US": "[Bishop Paul]\nMay God\nbless you...",
         "pt-BR": "[Bispo Tomás]\nQue o Senhor esteja contigo.",
-        "es-ES": "[Obispo Paul]\nQué los dioses\nte cuiden…"
+        "es-ES": "[Obispo Paul]\nQué los dioses\nte cuiden..."
     },
     "t0CfBg": {
         "en-US": "[Bishop Paul]\nPlease take your time.\nYou are always welcomed.\nMay God bless you...",
         "pt-BR": "[Bispo Tomas]\nTome o tempo que for necessário.\nQuando você tiver feito sua decisão, fale comigo.",
-        "es-ES": "[Obispo Paul]\nTómate tu tiempo.\nSiempre te recibiremos aquí.\nQue los dioses te cuiden…"
+        "es-ES": "[Obispo Paul]\nTómate tu tiempo.\nSiempre te recibiremos aquí.\nQue los dioses te cuiden..."
     },
     "uECfBg": {
         "en-US": "[Bishop Paul]\nI see...\nI am doing fine\nand am in good health.\nThank you for asking.",
         "pt-BR": "[Bispo Tomas]\nEntendo...\nEstou indo bem\ne estou com boa saúde.\nObrigado por perguntar.",
-        "es-ES": "[Obispo Paul]\nYa veo…\nMe va bien\ny gozo de buena salud.\nGracias por preguntar."
+        "es-ES": "[Obispo Paul]\nYa veo...\nMe va bien\ny gozo de buena salud.\nGracias por preguntar."
     },
     "uUCfBg": {
         "en-US": "[Bishop Paul]",
@@ -462,7 +462,7 @@
     "vECfBg": {
         "en-US": "[Bishop Paul]\nHopefully, our paths\nwill cross again.\nMay God bless you...",
         "pt-BR": "[Bispo Tomás]\nVolte trazendo novidades.\nQue o Senhor esteja contigo.",
-        "es-ES": "[Obispo Paul]\nEsperemos que nuestros caminos\nvuelvan a cruzarse.\nQue los dioses te cuiden…"
+        "es-ES": "[Obispo Paul]\nEsperemos que nuestros caminos\nvuelvan a cruzarse.\nQue los dioses te cuiden..."
     },
     "vUCfBg": {
         "en-US": "[Bishop Paul]\nMay I ask you the reason you're still here? You didn't forget your pilgrimage, did you?",
@@ -512,7 +512,7 @@
     "xkCfBg": {
         "en-US": "[Bishop Paul]\nMay God bless you...",
         "pt-BR": "[Bispo Tomás]\nBoa sorte.\nQue o Senhor esteja contigo.",
-        "es-ES": "[Obispo Paul]\nQue los dioses te cuiden…"
+        "es-ES": "[Obispo Paul]\nQue los dioses te cuiden..."
     },
     "x0CfBg": {
         "en-US": "[Bishop Paul]\nI see. But still, if you have any questions, you may wish to ask Sister Cecilia. She will address any of your concerns.",
@@ -522,12 +522,12 @@
     "yECfBg": {
         "en-US": "[Bishop Paul]\nWell then, I shall pray for your safe journey. May God bless you...",
         "pt-BR": "[Bispo Tomás]\nVolte trazendo novidades.\nQue o Senhor esteja contigo.",
-        "es-ES": "[Obispo Paul]\nAhora rezaré para que tengas un buen viaje. Que los dioses te cuiden…"
+        "es-ES": "[Obispo Paul]\nAhora rezaré para que tengas un buen viaje. Que los dioses te cuiden..."
     },
     "yUCfBg": {
         "en-US": "[Bishop Paul]\nI see you have returned from your meeting with Father Rubalkabara. How is he doing? I am worried about his health, since he's been there all alone...",
         "pt-BR": "[Bispo Tomas]\nVocê já se encontrou com o Irmão Simão, que bom!\nComo ele está? Ele sempre foi uma figura com aqueles Yoyos...",
-        "es-ES": "[Obispo Paul]\nVeo que ya volviste de ver al padre Rubalkabara. ¿Qué tal le va? Me preocupa su salud, ya que está mucho tiempo solo…"
+        "es-ES": "[Obispo Paul]\nVeo que ya volviste de ver al padre Rubalkabara. ¿Qué tal le va? Me preocupa su salud, ya que está mucho tiempo solo..."
     },
     "ykCfBg": {
         "en-US": "[Bishop Paul]\nFor your next quest, you should meet Sister Mathilda. I shall be awaiting your safe return.",
@@ -572,7 +572,7 @@
     "0kCfBg": {
         "en-US": "[Bishop Paul]\nNo problem,\ntake your time.\nMay God grant you\nthe strength to\novercome your fears...",
         "pt-BR": "[Bispo Tomas]\nNão tem problema,\nnão tenha pressa.\nQue Deus lhe conceda\na força para\nsuperar seus medos...",
-        "es-ES": "[Obispo Paul]\nNo hay problema,\ntómate tu tiempo.\nQue los dioses te concedan\nla fuerza para\nsupera tus miedos…"
+        "es-ES": "[Obispo Paul]\nNo hay problema,\ntómate tu tiempo.\nQue los dioses te concedan\nla fuerza para\nsupera tus miedos..."
     },
     "00CfBg": {
         "en-US": "[Bishop Paul]\nYou seem confident about the spiritual training. Shall we begin?",
@@ -607,7 +607,7 @@
     "2UCfBg": {
         "en-US": "[Bishop Paul]\nNow, you must go and swear your devotion to God with Sister Cecilia. Don't be nervous...",
         "pt-BR": "[Bispo Tomás]\nFale de novo com a Irmã Cecília e faça seu juramento.\nSe você não acertar, é melhor que faça uma peregrinação para limpar a sua mente.",
-        "es-ES": "[Obispo Paul]\nAhora debes ir y jurar tu devoción a los dioses con la monja Cecilia. No sientas nervios…"
+        "es-ES": "[Obispo Paul]\nAhora debes ir y jurar tu devoción a los dioses con la monja Cecilia. No sientas nervios..."
     },
     "2kCfBg": {
         "en-US": "[Bishop Paul]\nJust answer honestly, and listen to the voice of God that speaks quietly in your heart.",
@@ -617,7 +617,7 @@
     "20CfBg": {
         "en-US": "[Bishop Paul]\nWell then...\nI will be here\nwaiting for you.",
         "pt-BR": "[Bispo Tomas]\nBem, então...\nEu estarei aqui\nesperando por você.",
-        "es-ES": "[Obispo Paul]\nBueno…\nyo estaré aquí\nesperándote."
+        "es-ES": "[Obispo Paul]\nBueno...\nyo estaré aquí\nesperándote."
     },
     "3ECfBg": {
         "en-US": "[Bishop Paul]\nHmm? You haven't made your oath yet...? Without the conviction of an oath to God, you may be tempted by evil at anytime.",
@@ -662,7 +662,7 @@
     "5ECfBg": {
         "en-US": "[Bishop Paul]\nMake this servant of yours an instrument of your miraculous works...",
         "pt-BR": "[Bispo Tomás]\nConcede-nos o caminho,\npermita-nos que realizemos milagres em vosso nome.",
-        "es-ES": "[Obispo Paul]\nHaz de tu sirviente instrumento de tus milagros…"
+        "es-ES": "[Obispo Paul]\nHaz de tu sirviente instrumento de tus milagros..."
     },
     "5UCfBg": {
         "en-US": "[Bishop Paul]\nNow you are born again as a Priest. I congratulate you, and hope you will greatly help other people for the rest of your life.",
@@ -677,12 +677,12 @@
     "50CfBg": {
         "en-US": "[Bishop Paul]\nYou've shown great effort, and have made admirable progress in your personal quest for holiness. Please lead your life as a sincere Priest...",
         "pt-BR": "[Bispo Tomás]\nMonstre a nossos irmãos e irmãs como usar as suas habilidades.\nPermita-nos que realizemos milagres em vosso nome!",
-        "es-ES": "[Obispo Paul]\nDemostraste gran determinación y el progreso que hiciste en tu misión personal hacia la santidad resulta admirable. Por favor, guía tu vida con la sinceridad de un Sacerdote…"
+        "es-ES": "[Obispo Paul]\nDemostraste gran determinación y el progreso que hiciste en tu misión personal hacia la santidad resulta admirable. Por favor, guía tu vida con la sinceridad de un Sacerdote..."
     },
     "6ECfBg": {
         "en-US": "[Bishop Paul]\nAnd...\nThis book is for you. I hope it will aid you in spreading God's message on earth.",
         "pt-BR": "[Bispo Tomás]\nEste livro é para celebrar a sua transformação em Sacerdotisa.\nEle será de grande ajuda quando enfrentar as hordas do mal.",
-        "es-ES": "[Obispo Paul]\nY…\nEste libro es para ti. Espero que te ayude a difundir el mensaje de los dioses en la Tierra."
+        "es-ES": "[Obispo Paul]\nY...\nEste libro es para ti. Espero que te ayude a difundir el mensaje de los dioses en la Tierra."
     },
     "6UCfBg": {
         "en-US": "Sister Cecilia",
@@ -737,7 +737,7 @@
     "80CfBg": {
         "en-US": "[Sister Cecilia]\nBut please...\nTake your time, and decide what job will be the best for you.",
         "pt-BR": "[Irmã Cecília]\npor favor, pense a respeito com carinho.",
-        "es-ES": "[Monja Cecilia]\nPero, por favor…\nTómate tu tiempo y decide qué clase será la mejor para ti."
+        "es-ES": "[Monja Cecilia]\nPero, por favor...\nTómate tu tiempo y decide qué clase será la mejor para ti."
     },
     "9ECfBg": {
         "en-US": "Welcome to Prontera parish. How may I help you?",
@@ -777,7 +777,7 @@
     "+0CfBg": {
         "en-US": "[Sister Cecilia]\nMay God bless you...",
         "pt-BR": "[Irmã Cecília]\nVá com Deus.",
-        "es-ES": "[Monja Cecilia]\nQue los dioses te cuiden…"
+        "es-ES": "[Monja Cecilia]\nQue los dioses te cuiden..."
     },
     "/ECfBg": {
         "en-US": "[Sister Cecilia]\nMay God bless you, brother.",
@@ -832,7 +832,7 @@
     "BkGfBg": {
         "en-US": "[Sister Cecilia]\nMake yourself at home. I insist that you recover and take a rest in this Sanctuary. May God bless you...",
         "pt-BR": "[Irmã Cecília]\nDescanse um pouco aqui.",
-        "es-ES": "[Monja Cecilia]\nSiéntete como en casa. Insisto en que te recuperes y descanses en este santuario. Que los dioses te cuiden…"
+        "es-ES": "[Monja Cecilia]\nSiéntete como en casa. Insisto en que te recuperes y descanses en este santuario. Que los dioses te cuiden..."
     },
     "B0GfBg": {
         "en-US": "[Sister Cecilia]\nAh, you've started your pilgrimage. Please do your best to accomplish this first trial.",
@@ -852,7 +852,7 @@
     "CkGfBg": {
         "en-US": "[Sister Cecilia]\nOf course, you can also head 1 field East from Prontera, then go 1 field north, and then go 2 fields East...",
         "pt-BR": "[Irmã Cecília]\nA Abadia fica no canto direito do mapa.\nLá é cheio de Yoyos, uns macaquinhos muito bonitinhos.",
-        "es-ES": "[Monja Cecilia]\nPor supuesto, también puedes dirigirte 1 campo al este desde Prontera, luego ir 1 campo al norte y luego ir 2 campos al este…"
+        "es-ES": "[Monja Cecilia]\nPor supuesto, también puedes dirigirte 1 campo al este desde Prontera, luego ir 1 campo al norte y luego ir 2 campos al este..."
     },
     "C0GfBg": {
         "en-US": "[Sister Cecilia]\nFather Rubalkabara will be at the entrance of the Prontera Ruins. Be careful. That place is a habitat for aggressive Chocos.",
@@ -902,7 +902,7 @@
     "FEGfBg": {
         "en-US": "[Sister Cecilia]\nAlthough there are still two trials awaiting you, I have faith that you will be able to accomplish your goal of becoming a Priest...",
         "pt-BR": "[Irmã Cecília]\nA peregrinação não é a última parte do teste, mas já é alguma coisa.\nBoa sorte!",
-        "es-ES": "[Monja Cecilia]\nAunque aún te esperan dos pruebas, tengo fe en que podrás cumplir tu objetivo de convertirte en Sacerdote…"
+        "es-ES": "[Monja Cecilia]\nAunque aún te esperan dos pruebas, tengo fe en que podrás cumplir tu objetivo de convertirte en Sacerdote..."
     },
     "FUGfBg": {
         "en-US": "[Sister Cecilia]\nWelcome. You demonstrated great effort to accomplish your first trial. Now, speak to Bishop Paul so that you can begin your next trial on your path to Priesthood.",
@@ -917,12 +917,12 @@
     "F0GfBg": {
         "en-US": "Brother {0}...",
         "pt-BR": "Eu o ouvi, irmão.",
-        "es-ES": "Hermano {0}…"
+        "es-ES": "Hermano {0}..."
     },
     "GEGfBg": {
         "en-US": "Sister {0}...",
         "pt-BR": "Eu a ouvi, irmã.",
-        "es-ES": "Hermana {0}…"
+        "es-ES": "Hermana {0}..."
     },
     "GUGfBg": {
         "en-US": "The spiritual training is much more difficult than the pilgrimage, but I believe in you.",
@@ -1002,7 +1002,7 @@
     "KEGfBg": {
         "en-US": "[Sister Cecilia]\nAw...? How could you give me that kind of answer? I assume you're not ready to be a Priest yet...",
         "pt-BR": "[Irmã Cecília]\nComo você sequer consegue pensar em ser uma Sacerdotisa?\nVocê não tem força de vontade o bastante.",
-        "es-ES": "[Monja Cecilia]\n¿Eh…? ¿Qué tipo de respuesta es esa? Supongo que aún te falta preparación para ser sacerdote…"
+        "es-ES": "[Monja Cecilia]\n¿Eh...? ¿Qué tipo de respuesta es esa? Supongo que aún te falta preparación para ser sacerdote..."
     },
     "KUGfBg": {
         "en-US": "[Sister Cecilia]\nYou should reflect a little more on the teachings of holiness and come back later. You can't be a Priest if your spirit is weak.",
@@ -1022,7 +1022,7 @@
     "LEGfBg": {
         "en-US": "[Sister Cecilia]\nAw...? God won't grant you the power of holiness if your goals aren't just and pure. Meditate on your motivations for a while, and then come back to me.",
         "pt-BR": "[Irmã Cecília]\nNão, não, não...\nUma verdadeira Sacerdotisa não pode pensar assim.",
-        "es-ES": "[Monja Cecilia]\n¿Eh…? Los dioses no te concederán este santo poder si tus objetivos no son justos y puros. Medita un rato sobre tus motivaciones y luego vuelve a verme."
+        "es-ES": "[Monja Cecilia]\n¿Eh...? Los dioses no te concederán este santo poder si tus objetivos no son justos y puros. Medita un rato sobre tus motivaciones y luego vuelve a verme."
     },
     "LUGfBg": {
         "en-US": "[Sister Cecilia]\nThink about the qualities that make Priests people of respect. You can't be a Priest if your spirit is not in accordance with God.",
@@ -1052,7 +1052,7 @@
     "MkGfBg": {
         "en-US": "[Sister Cecilia]\nHow can you say no...? That's one of the basic principles of Priesthood. You must value the welfare of others over your own safety.",
         "pt-BR": "[Irmã Cecília]\nMas que tipo de resposta é essa?\nNós sacrificarmos pelos outros faz parte de nossa missão.",
-        "es-ES": "[Monja Cecilia]\n¿Cómo puedes decir que no…? Ese es uno de los principios básicos del Sacerdocio. Debes valorar el bienestar de los demás por encima de tu propia seguridad."
+        "es-ES": "[Monja Cecilia]\n¿Cómo puedes decir que no...? Ese es uno de los principios básicos del Sacerdocio. Debes valorar el bienestar de los demás por encima de tu propia seguridad."
     },
     "M0GfBg": {
         "en-US": "[Sister Cecilia]\nGo and think about the value of suffering and the meaning of sacrifice. When you think you understand more about helping those in need, come back to me.",
@@ -1067,12 +1067,12 @@
     "NUGfBg": {
         "en-US": "[Sister Cecilia]\nNo no no... You've got it wrong. Even though your purpose is to spread God's message, no one will eagerly accept what you say when you spam text.",
         "pt-BR": "[Irmã Cecília]\nNaninãnão. Isso é algo que nenhuma classe deve fazer.\nMesmo que sejam as palavras do Senhor, não é correto incomodar os outros desse jeito.",
-        "es-ES": "[Monja Cecilia]\nNo, no, no… Eso no es correcto. Aunque tu propósito sea difundir el mensaje de los dioses, nadie aceptará con entusiasmo si lo único que haces es decir lo mismo como disco rayado."
+        "es-ES": "[Monja Cecilia]\nNo, no, no... Eso no es correcto. Aunque tu propósito sea difundir el mensaje de los dioses, nadie aceptará con entusiasmo si lo único que haces es decir lo mismo como disco rayado."
     },
     "NkGfBg": {
         "en-US": "[Sister Cecilia]\nRemember...\nYou must be a moral person, and display maturity and respect to other players. This kind of attitude applies for all classes,\nI believe.",
         "pt-BR": "[Irmã Cecília]\nSeu comportamento não parece ser o de uma Sacerdotisa.\nPense a respeito, se você gostaria de alguém buzinando no seu ouvido.",
-        "es-ES": "[Monja Cecilia]\nRecuerda…\nDebes ser una persona con moral y mostrar madurez y respeto hacia los demás jugadores. Este tipo de comportamiento se aplica a todas las clases,\ncreo."
+        "es-ES": "[Monja Cecilia]\nRecuerda...\nDebes ser una persona con moral y mostrar madurez y respeto hacia los demás jugadores. Este tipo de comportamiento se aplica a todas las clases,\ncreo."
     },
     "N0GfBg": {
         "en-US": "[Sister Cecilia]\nWill you lure many monsters to help your party members level up?",
@@ -1122,22 +1122,22 @@
     "QEGfBg": {
         "en-US": "[Sister Cecilia]\nNow go to Bishop Paul. And remember, we are all brothers and sisters in the eyes of God. Peace be with you...",
         "pt-BR": "[Irmã Cecília]\nEste é o fim do juramento.\nVá ao Bispo Tomas para se tornar uma Sacerdotisa.",
-        "es-ES": "[Monja Cecilia]\nVe con el obispo Paul. Y recuerda que todos somos hermanos y hermanas ante los ojos de los dioses. La paz sea contigo…"
+        "es-ES": "[Monja Cecilia]\nVe con el obispo Paul. Y recuerda que todos somos hermanos y hermanas ante los ojos de los dioses. La paz sea contigo..."
     },
     "QUGfBg": {
         "en-US": "[Sister Cecilia]\n...",
         "pt-BR": "[Irmã Cecília]\n..............",
-        "es-ES": "[Monja Cecilia]\n…"
+        "es-ES": "[Monja Cecilia]\n..."
     },
     "QkGfBg": {
         "en-US": "[Sister Cecilia]\n...\n......",
         "pt-BR": "[Irmã Cecília]\n.............",
-        "es-ES": "[Monja Cecilia]\n…\n......"
+        "es-ES": "[Monja Cecilia]\n...\n......"
     },
     "Q0GfBg": {
         "en-US": "[Sister Cecilia]\nYou've come so far...\nWhy would you want\nto throw this all away...?",
         "pt-BR": "[Irmã Cecília]\nPode parecer como uma boa idéia, mas não é.\nVocê pode estar causando uma ameaça para todos à sua volta fazendo isso.",
-        "es-ES": "[Monja Cecilia]\nHas llegado tan lejos…\n¿Por qué querrías\ntirar todo esto a la basura…?"
+        "es-ES": "[Monja Cecilia]\nHas llegado tan lejos...\n¿Por qué querrías\ntirar todo esto a la basura...?"
     },
     "REGfBg": {
         "en-US": "[Sister Cecilia]\nWelcome back.\nI hope that you've reflected on what you've said last time, and that you now have the attitude to become a Priest.",
@@ -1147,7 +1147,7 @@
     "RUGfBg": {
         "en-US": "We will now begin your formal oath for the Priesthood. This time, listen closely to your heart...",
         "pt-BR": "Eu lhe farei as mesmas perguntas que fiz antes.",
-        "es-ES": "Comenzaremos tu juramento formal para el Sacerdocio. Esta vez, escucha atentamente a tu corazón…"
+        "es-ES": "Comenzaremos tu juramento formal para el Sacerdocio. Esta vez, escucha atentamente a tu corazón..."
     },
     "RkGfBg": {
         "en-US": "[Sister Cecilia]\nCongratulations.\nYou've completed all three trials required for the Priesthood. Bishop Paul is now waiting for you.",
@@ -1157,7 +1157,7 @@
     "R0GfBg": {
         "en-US": "[Sister Cecilia]\nPeace be with you...",
         "pt-BR": "[Irmã Cecília]\nA paz esteja convosco...",
-        "es-ES": "[Monja Cecilia]\nLa paz sea contigo…"
+        "es-ES": "[Monja Cecilia]\nLa paz sea contigo..."
     },
     "SEGfBg": {
         "en-US": "Peter S. Alberto",
@@ -1202,7 +1202,7 @@
     "UEGfBg": {
         "en-US": "[Father Peter]\nSo...\nAre you gonna help him right now?",
         "pt-BR": "[Irmão Pedro]\nAfinal, você quer ir ajudar alguém?",
-        "es-ES": "[Padre Peter]\nAsí que…\n¿Lo ayudarás ahora mismo?"
+        "es-ES": "[Padre Peter]\nAsí que...\n¿Lo ayudarás ahora mismo?"
     },
     "UUGfBg": {
         "en-US": "Yes, I am.",
@@ -1227,7 +1227,7 @@
     "VUGfBg": {
         "en-US": "[Father Peter]\nOh...?\nThen please,\ngo ahead. God bless\nyou, and take care!",
         "pt-BR": "[Irmão Pedro]\nSe é o que você deseja.\nDeus te abençoe.",
-        "es-ES": "[Padre Peter]\n¿Ah…?\nEntonces, por favor,\ncontinúa. ¡Que los dioses te cuiden\ny te acompañen!"
+        "es-ES": "[Padre Peter]\n¿Ah...?\nEntonces, por favor,\ncontinúa. ¡Que los dioses te cuiden\ny te acompañen!"
     },
     "VkGfBg": {
         "en-US": "[Father Peter]\nWelcome~!\nI congratulate you\nfor passing the first trail.",
@@ -1252,7 +1252,7 @@
     "WkGfBg": {
         "en-US": "Sorry...",
         "pt-BR": "Não, eu já sei de tudo.",
-        "es-ES": "Lo siento…"
+        "es-ES": "Lo siento..."
     },
     "W0GfBg": {
         "en-US": "[Father Peter]\nHaha, I like you! But it never hurts to have too much information. The more well informed you are, the more easily you'll pass the test!",
@@ -1307,7 +1307,7 @@
     "ZUGfBg": {
         "en-US": "[Father Peter]\nNow...\nGo for it!",
         "pt-BR": "[Irmão Pedro]\nO teste vai começar agora, boa sorte!",
-        "es-ES": "[Padre Peter]\nAhora…\n¡Adelante!"
+        "es-ES": "[Padre Peter]\nAhora...\n¡Adelante!"
     },
     "ZkGfBg": {
         "en-US": "[Father Peter]\nHm? What is it you need?\nWell, no problem. You can\nafford to take your time.",
@@ -1317,7 +1317,7 @@
     "Z0GfBg": {
         "en-US": "[Father Peter]\nWhat...?\nYou wanna go back??",
         "pt-BR": "[Irmão Pedro]\nCidade? Você está desistindo?\nQuem sou eu pra julgar... Mas você parece ser muito medroso.",
-        "es-ES": "[Padre Peter]\n¿Qué…?\n¿¿Quieres regresar??"
+        "es-ES": "[Padre Peter]\n¿Qué...?\n¿¿Quieres regresar??"
     },
     "aEGfBg": {
         "en-US": "[Father Peter]\nI understand. I suppose you have some important reason or business that you must attend to. Come back whenever you can.",
@@ -1337,12 +1337,12 @@
     "a0GfBg": {
         "en-US": "[Father Peter]\nNow, let the spiritual training begin. For the glory of God, for peace on earth, and goodwill towards all men...",
         "pt-BR": "[Irmão Pedro]\nÉ simples, mate todos os monstros.\nEste teste tem várias etapas, então esteja preparada.",
-        "es-ES": "[Padre Peter]\nQue comience el entrenamiento espiritual. Por la gloria de dioses, por la paz en la Tierra y la buena voluntad hacia toda la humanidad…"
+        "es-ES": "[Padre Peter]\nQue comience el entrenamiento espiritual. Por la gloria de dioses, por la paz en la Tierra y la buena voluntad hacia toda la humanidad..."
     },
     "bEGfBg": {
         "en-US": "[Father Peter]\nGo...\nKill those\nmisbegotten creatures!",
         "pt-BR": "[Irmão Pedro]\nMate todos eles e entre no portal no final do mapa.\nMas lembre-se, você precisa matar TODOS eles.",
-        "es-ES": "[Padre Peter]\nVe…\n¡Mata a esas\ncriaturas que se alejaron del camino!"
+        "es-ES": "[Padre Peter]\nVe...\n¡Mata a esas\ncriaturas que se alejaron del camino!"
     },
     "bUGfBg": {
         "en-US": "[Father Peter]\nGo back!",
@@ -1362,7 +1362,7 @@
     "cEGfBg": {
         "en-US": "[Father Peter]\nWell, another Acolyte is in the training ground right now. You'll need to wait a little bit longer...",
         "pt-BR": "[Irmão Pedro]\nPorém você vai precisar esperar um pouco para entrar no teste.\nJá tem outras pessoas lá dentro.",
-        "es-ES": "[Padre Peter]\nBueno, otro Acólito está en el campo de entrenamiento ahora mismo. Tendrás que esperar un poco más…"
+        "es-ES": "[Padre Peter]\nBueno, otro Acólito está en el campo de entrenamiento ahora mismo. Tendrás que esperar un poco más..."
     },
     "cUGfBg": {
         "en-US": "[Father Peter]\nPlease come back a little later. If this acolyte's done with the training, I will send you to the training area.",
@@ -1382,7 +1382,7 @@
     "dEGfBg": {
         "en-US": "[Father Peter]\nPeace...\nBe with you.",
         "pt-BR": "[Irmão Pedro]\nA paz esteja convosco...",
-        "es-ES": "[Padre Peter]\nQue la paz…\nesté contigo."
+        "es-ES": "[Padre Peter]\nQue la paz...\nesté contigo."
     },
     "dUGfBg": {
         "en-US": "Zombie_Generator",
@@ -1467,7 +1467,7 @@
     "hUGfBg": {
         "en-US": "[Father Peter]\nRemember...\nThis trial must be\ncompleted within\n5 minutes. Best of luck~",
         "pt-BR": "[Irmão Pedro]\nLembre-se...\nEsse teste deve ser\nconcluído em\n5 minutos. Boa sorte~",
-        "es-ES": "[Padre Peter]\nRecuerda…\nEsta prueba debe\nfinalizarse en\n5 minutos. Toda la suerte del mundo."
+        "es-ES": "[Padre Peter]\nRecuerda...\nEsta prueba debe\nfinalizarse en\n5 minutos. Toda la suerte del mundo."
     },
     "hkGfBg": {
         "en-US": "[Father Peter]\nI will give you exactly 5 minutes! You must proceed slowly and eliminate the Zombies.",
@@ -1487,7 +1487,7 @@
     "iUGfBg": {
         "en-US": "[Deviruchi]\nWhaaaaat...?\nWhat are you\ndoing back here?",
         "pt-BR": "[Deviruchi]\nHuauauau, um Sacerdote aqui! Porque você não está na igreja rezando?\nRezando, rezando... É só o que vocês sabem fazer!",
-        "es-ES": "[Deviruchi]\n¿Quééééé…?\n¡¿Qué estás\nhaciendo aquí?"
+        "es-ES": "[Deviruchi]\n¿Quééééé...?\n¡¿Qué estás\nhaciendo aquí?"
     },
     "ikGfBg": {
         "en-US": "[Deviruchi]\nWell, look who's the ^660000BMOC^000000 now. That's '^660000B^000000ig ^660000M^000000an ^660000O^000000n ^660000C^000000ampus,' if you didn't know. By the way, I was being sarcastic. You know, if you didn't notice.",
@@ -1507,27 +1507,27 @@
     "jUGfBg": {
         "en-US": "[Deviruchi]\nWhy...\nHello little Aco.",
         "pt-BR": "[Deviruchi]\nPor que...\nOlá, pequeno Noviço.",
-        "es-ES": "[Deviruchi]\nPor qué…\nHola, pequeño Aco."
+        "es-ES": "[Deviruchi]\nPor qué...\nHola, pequeño Aco."
     },
     "jkGfBg": {
         "en-US": "[Deviruchi]\nYou must be here training hard to be a Priest. Funny, I know a lot of God's servants, actually. They tell me that it's really tough serving that God guy all the time. So... So ^666666tiring^000000 and ^666666unrewarding^000000.",
         "pt-BR": "[Deviruchi]\nAs pessoas te vêem como uma poção ambulante, pedem 'cura' sem nem dizer 'obrigado'.\nE sendo que você nem bate nos monstros! Que tipo de função é essa?",
-        "es-ES": "[Deviruchi]\nDebes estar aquí entrenando mucho para volverte Sacerdote. Es curioso, conozco a muchos sirvientes de los dioses, de hecho. Me dicen que es muy difícil servir a esos dioses todo el tiempo. Así que… Es ^666666agotador^000000 y ^666666poco gratificante^000000."
+        "es-ES": "[Deviruchi]\nDebes estar aquí entrenando mucho para volverte Sacerdote. Es curioso, conozco a muchos sirvientes de los dioses, de hecho. Me dicen que es muy difícil servir a esos dioses todo el tiempo. Así que... Es ^666666agotador^000000 y ^666666poco gratificante^000000."
     },
     "j0GfBg": {
         "en-US": "[Deviruchi]\nI mean, people are always crying to Priests for help no matter where they are. And Priests never get anything in return...",
         "pt-BR": "[Deviruchi]\nImagine, você não vai poder descansar um só momento.\nO tempo todo, pessoas vão vir e pedir cura, benção, agilidade, portais... Sem nem olhar na sua cara!",
-        "es-ES": "[Deviruchi]\nLa gente siempre pide ayuda a los Sacerdotes, sin importar el lugar. Y los Sacerdotes nunca reciben nada a cambio…"
+        "es-ES": "[Deviruchi]\nLa gente siempre pide ayuda a los Sacerdotes, sin importar el lugar. Y los Sacerdotes nunca reciben nada a cambio..."
     },
     "kEGfBg": {
         "en-US": "[Deviruchi]\nIt's tragic really, how unappreciated Priests are.\nIt's so clear that any job is better. Anything at all...",
         "pt-BR": "[Deviruchi]\nÉ realmente trágico como os sacerdotes não são valorizados.\nÉ tão claro que qualquer trabalho é melhor. Qualquer coisa...",
-        "es-ES": "[Deviruchi]\nQué trágico; los Sacerdotes no son nada apreciados.\nEstá claro que cualquier clase es mejor. Cualquier cosa…"
+        "es-ES": "[Deviruchi]\nQué trágico; los Sacerdotes no son nada apreciados.\nEstá claro que cualquier clase es mejor. Cualquier cosa..."
     },
     "kUGfBg": {
         "en-US": "[Deviruchi]\nWouldn't life be so much easier if you weren't a Priest? And it'd be so easy. All you'd have to do is quit right now...",
         "pt-BR": "[Deviruchi]\nEu vou ser honesto com você, desista desse teste idiota\nEscolha outra classe, uma que não exija tanta paciência.",
-        "es-ES": "[Deviruchi]\n¿No crees que la vida sería mucho más fácil si no fueras Sacerdote? Mucho más fácil. Lo único que tendrías que hacer es renunciar ahora mismo…"
+        "es-ES": "[Deviruchi]\n¿No crees que la vida sería mucho más fácil si no fueras Sacerdote? Mucho más fácil. Lo único que tendrías que hacer es renunciar ahora mismo..."
     },
     "kkGfBg": {
         "en-US": "You're right, I quit!",
@@ -1542,12 +1542,12 @@
     "lEGfBg": {
         "en-US": "[Deviruchi]\n^660000YES~!^000000 I mean...\nGood for you!",
         "pt-BR": "[Deviruchi]\nBoa escolha!\nEu vou te dar um presente por ter feito a escolha certa!",
-        "es-ES": "[Deviruchi]\n^660000¡SÍ!^000000 Quiero decir…\n¡Me alegro por ti!"
+        "es-ES": "[Deviruchi]\n^660000¡SÍ!^000000 Quiero decir...\n¡Me alegro por ti!"
     },
     "lUGfBg": {
         "en-US": "[Deviruchi]\nOh...?\nLook at the ^660000time^000000.\nYou better get going.",
         "pt-BR": "[Deviruchi]\nUm almoço com os meus parentes! Huauauauuauauaua!",
-        "es-ES": "[Deviruchi]\n¿Ah…?\nMira la ^660000hora^000000.\nSerá mejor que te vayas."
+        "es-ES": "[Deviruchi]\n¿Ah...?\nMira la ^660000hora^000000.\nSerá mejor que te vayas."
     },
     "lkGfBg": {
         "en-US": "[Deviruchi]\nBWAHAHAHAHAHAH!\nGET THE JOKE!?",
@@ -1562,12 +1562,12 @@
     "mEGfBg": {
         "en-US": "[Deviruchi]\nBut how about this...? Now, isn't this an attractive sight? A nice, shiny new card. Mint condition. Not too many people have this you know. But I happen to have soooo many, my pockets hurt.",
         "pt-BR": "[Deviruchi]\nSe as minhas palavras não foram o bastante, talvez você precise de algo mais tátil.\nAlgo que você nunca vai ter na sua vida.",
-        "es-ES": "[Deviruchi]\nPero, ¿qué te parece esto…? ¿No es lo más bonito que has visto? Una bonita y reluciente carta nueva. En perfecto estado. No mucha gente tiene esto, ¿sabes? Pero resulta que tengo tantas que ya ni me caben en los bolsillos."
+        "es-ES": "[Deviruchi]\nPero, ¿qué te parece esto...? ¿No es lo más bonito que has visto? Una bonita y reluciente carta nueva. En perfecto estado. No mucha gente tiene esto, ¿sabes? Pero resulta que tengo tantas que ya ni me caben en los bolsillos."
     },
     "mUGfBg": {
         "en-US": "[Deviruchi]\nIsn't it everyone's dream to have one of these? Think about it, being a Priest can only bring you suffering...",
         "pt-BR": "[Deviruchi]\nEu lhe darei ela se você desistir de ser um Sacerdote.\nPense bem, você nunca conseguirá essa carta sendo um mero religioso..",
-        "es-ES": "[Deviruchi]\n¿No es el sueño de todo el mundo tener una de estas? Piénsalo, ser Sacerdote solo te traerá sufrimiento…"
+        "es-ES": "[Deviruchi]\n¿No es el sueño de todo el mundo tener una de estas? Piénsalo, ser Sacerdote solo te traerá sufrimiento..."
     },
     "mkGfBg": {
         "en-US": "You're right, I'll take it!",
@@ -1582,7 +1582,7 @@
     "nEGfBg": {
         "en-US": "[Deviruchi]\nGood choice!\nThis card can\ncan be yours...",
         "pt-BR": "[Deviruchi]\nVocê fez uma decisão muito inteligente.\nVocê terá essa carta...",
-        "es-ES": "[Deviruchi]\n¡Buena elección!\nEsta tarjeta puede\nser tuya…"
+        "es-ES": "[Deviruchi]\n¡Buena elección!\nEsta tarjeta puede\nser tuya..."
     },
     "nUGfBg": {
         "en-US": "[Deviruchi]\nTheoretically!\nBWAHAHAHAHAHAHAHA!\nGo and earn it yourself!",
@@ -1592,12 +1592,12 @@
     "nkGfBg": {
         "en-US": "[Deviruchi]\nDid...\nDid you just tell\nme to shut up?\nOh my God...",
         "pt-BR": "[Deviruchi]\nQue tipo de idiota você é para recusar essa carta?\nQuero só ver se você vai conseguir chegar até o fim deste teste!",
-        "es-ES": "[Deviruchi]\nAcaso…\n¿Acabas de decirme\nque me calle?\nPor los dioses…"
+        "es-ES": "[Deviruchi]\nAcaso...\n¿Acabas de decirme\nque me calle?\nPor los dioses..."
     },
     "n0GfBg": {
         "en-US": "[Deviruchi]\nSorry...\nOh ^660000your^000000 God.\nFine, get going.\nBut you'll regret\nyour decision later!",
         "pt-BR": "[Deviruchi]\nE quando você falhar.. Vai chorar de arrependimento! Hehehehehhehe.",
-        "es-ES": "[Deviruchi]\nLo siento…\nAy, ^660000tus^000000 dioses.\nBien, ya vete.\n¡Pero lamentarás\ntu decisión más tarde!"
+        "es-ES": "[Deviruchi]\nLo siento...\nAy, ^660000tus^000000 dioses.\nBien, ya vete.\n¡Pero lamentarás\ntu decisión más tarde!"
     },
     "oEGfBg": {
         "en-US": "Doppelganger",
@@ -1607,7 +1607,7 @@
     "oUGfBg": {
         "en-US": "[Doppelganger]\nWhat are you doing here? You've already made your choice, there's no going back... Priest.",
         "pt-BR": "Sacerdote tolo, o que você faz aqui?\nVeio ajudar outro de sua laia?",
-        "es-ES": "[Doppelganger]\n¿Qué haces aquí? Ya elegiste, no hay vuelta atrás… Sacerdote."
+        "es-ES": "[Doppelganger]\n¿Qué haces aquí? Ya elegiste, no hay vuelta atrás... Sacerdote."
     },
     "okGfBg": {
         "en-US": "[Doppelganger]\nBesides, this is none of your business. Whether or not this Acolyte becomes a Priest isn't up to you. Now get out of here, before I get violent.",
@@ -1627,7 +1627,7 @@
     "pUGfBg": {
         "en-US": "[Doppelganger]\nOf course, I'll let you redistribute your stat points by your base level. Now, isn't that a sweet deal...?",
         "pt-BR": "[Doppelganger]\nMas é claro que você ainda vai ter todos os seus pontos de classe e de habilidade.\nNão é ótimo? Você só precisa dizer que sim.",
-        "es-ES": "[Doppelganger]\nPor supuesto, te dejaré redistribuir tus puntos de estadística de acuerdo a tu nivel de base. ¿No es un buen trato…?"
+        "es-ES": "[Doppelganger]\nPor supuesto, te dejaré redistribuir tus puntos de estadística de acuerdo a tu nivel de base. ¿No es un buen trato...?"
     },
     "pkGfBg": {
         "en-US": "Deal, Deal!",
@@ -1637,7 +1637,7 @@
     "p0GfBg": {
         "en-US": "No deal... Doppelganger.",
         "pt-BR": "Vade Retro, Satanás!",
-        "es-ES": "No hay trato… Doppelganger."
+        "es-ES": "No hay trato... Doppelganger."
     },
     "qEGfBg": {
         "en-US": "[Doppelganger]\nGood choice~\nI shall return your\njob to a Novice\nas you wish.",
@@ -1657,7 +1657,7 @@
     "q0GfBg": {
         "en-US": "[Doppelganger]\nJust don't become a Priest. I won't ask you more than once. Then you can choose a better job... perhaps a Swordman like me.",
         "pt-BR": "[Doppelganger]\nTudo que você precisa fazer é desistir de ser um Sacerdote.\nVocê vai poder ser qualquer outra classe, até um Espadachim como eu!",
-        "es-ES": "[Doppelganger]\nNo te conviertas en Sacerdote. No te lo preguntaré otra vez. Luego, podrías elegir una clase mejor… quizás Espadachín, como yo."
+        "es-ES": "[Doppelganger]\nNo te conviertas en Sacerdote. No te lo preguntaré otra vez. Luego, podrías elegir una clase mejor... quizás Espadachín, como yo."
     },
     "rEGfBg": {
         "en-US": "I don't want to be a Priest!",
@@ -1677,12 +1677,12 @@
     "r0GfBg": {
         "en-US": "[Doppelganger]\nHmpf. I admire\nyour determination.\nOkay, you can pass.\nFor now.",
         "pt-BR": "[Doppelganger]\nEu nunca vou entender vocês...",
-        "es-ES": "[Doppelganger]\nPff… Admiro\ntu determinación.\nMuy bien, puedes pasar.\nPor ahora."
+        "es-ES": "[Doppelganger]\nPff... Admiro\ntu determinación.\nMuy bien, puedes pasar.\nPor ahora."
     },
     "sEGfBg": {
         "en-US": "[Doppelganger]\nBut if by chance we meet again,\nI assure you... You won't be happy at all to see me.",
         "pt-BR": "[Doppelganger]\nSe eu encontrar com você novamente, não terei piedade.",
-        "es-ES": "[Doppelganger]\nPero si, de casualidad, nos volvemos a encontrar,\nte aseguro… que no estarás muy feliz de verme."
+        "es-ES": "[Doppelganger]\nPero si, de casualidad, nos volvemos a encontrar,\nte aseguro... que no estarás muy feliz de verme."
     },
     "sUGfBg": {
         "en-US": "Dark Lord",
@@ -1742,7 +1742,7 @@
     "vEGfBg": {
         "en-US": "I beg you, don't...!",
         "pt-BR": "Não me mate!",
-        "es-ES": "¡Te lo ruego, no…!"
+        "es-ES": "¡Te lo ruego, no...!"
     },
     "vUGfBg": {
         "en-US": "Begone, vile fiend!",
@@ -1752,12 +1752,12 @@
     "vkGfBg": {
         "en-US": "[Dark Lord]\n^330033Why...\nWhy don't you fear me?!\nFor a frail mortal, you\nare quite annoying.^000000",
         "pt-BR": "[Senhor das Trevas]\nHumano idiota, o que você ainda faz aqui?",
-        "es-ES": "[Señor Oscuro]\n^330033Por qué…\n¡¿Por qué no me tienes miedo!\nPara ser un frágil mortal, tú\neres todo un fastidio.^000000"
+        "es-ES": "[Señor Oscuro]\n^330033Por qué...\n¡¿Por qué no me tienes miedo!\nPara ser un frágil mortal, tú\neres todo un fastidio.^000000"
     },
     "v0GfBg": {
         "en-US": "[Dark Lord]\n^330033When next we meet, I will shall escort you to a realm of suffering where you shall spend years immersed in excruciating pain.\nMark my words...^000000",
         "pt-BR": "[Senhor das Trevas]\nEncontre-me em minha casa, e eu o mandarei para o inferno!",
-        "es-ES": "[Señor Oscuro]\n^330033La próxima vez que nos veamos, te llevaré a un reino de sufrimiento en donde pasarás años lamentándote en un sufrimiento que no tendrá fin.\nRecuerda mis palabras…^000000"
+        "es-ES": "[Señor Oscuro]\n^330033La próxima vez que nos veamos, te llevaré a un reino de sufrimiento en donde pasarás años lamentándote en un sufrimiento que no tendrá fin.\nRecuerda mis palabras...^000000"
     },
     "wEGfBg": {
         "en-US": "Baphomet",
@@ -1767,7 +1767,7 @@
     "wUGfBg": {
         "en-US": "[Baphomet]\nI hate\nPriests...",
         "pt-BR": "[Bafomé]\nHomem de Fé, você se diz?",
-        "es-ES": "[Baphomet]\nOdio\na los Sacerdotes…"
+        "es-ES": "[Baphomet]\nOdio\na los Sacerdotes..."
     },
     "wkGfBg": {
         "en-US": "[Baphomet]\nI don't have any business with you, servant of God. Just pass through.",
@@ -1782,7 +1782,7 @@
     "xEGfBg": {
         "en-US": "[Baphomet]\n...{0}.",
         "pt-BR": "[Bafomé]\nVocê quer fazer um pacto comigo?",
-        "es-ES": "[Baphomet]\n… {0}."
+        "es-ES": "[Baphomet]\n... {0}."
     },
     "xUGfBg": {
         "en-US": "[Baphomet]\nYes, human,\nI know who you are.",
@@ -1797,7 +1797,7 @@
     "x0GfBg": {
         "en-US": "[Baphomet]\nI can grant you any treasure you desire and infinite power at your fingertips. Powerful weapons that humans have never before seen...",
         "pt-BR": "[Bafomé] Eu posso lhe conceder qualquer tesouro que desejar e poder infinito na ponta dos seus dedos. Armas poderosas que os humanos nunca viram antes...",
-        "es-ES": "[Baphomet]\nPuedo concederte cualquier tesoro que desees y un poder infinito con solo pedirlo. Poderosas armas que los humanos nunca han siquiera visto…"
+        "es-ES": "[Baphomet]\nPuedo concederte cualquier tesoro que desees y un poder infinito con solo pedirlo. Poderosas armas que los humanos nunca han siquiera visto..."
     },
     "yEGfBg": {
         "en-US": "[Baphomet]\nMountains of zeny that you cannot possibly hope to spend in a lifetime. Though, who's to say that your lifespan should be limited? Fame, power, immortality: It can all be yours.",
@@ -1827,7 +1827,7 @@
     "zUGfBg": {
         "en-US": "[Baphomet]\nThen we shall form a contract. You won't ever regret this moment...",
         "pt-BR": "[Bafomé]\nSiga-me.\nFaremos o\ncontrato em meu\nsantuário das trevas.",
-        "es-ES": "[Baphomet]\nEntonces, haremos un contrato. Nunca te arrepentirás de esto…"
+        "es-ES": "[Baphomet]\nEntonces, haremos un contrato. Nunca te arrepentirás de esto..."
     },
     "zkGfBg": {
         "en-US": "[Baphomet]\nFollow me.\nWe will make the\ncontract in my\nsanctum of darkness.",
@@ -1837,7 +1837,7 @@
     "z0GfBg": {
         "en-US": "[Baphomet]\nFoolish human...\nYou have made your choice. I will leave you alone for now, then. However, your training won't be as easy as you think.",
         "pt-BR": "[Bafomé]\nIdiota...\nVocê fez sua escolha. Então, vou te deixar em paz por enquanto. No entanto, seu treinamento não será tão fácil quanto você pensa.",
-        "es-ES": "[Baphomet]\nHumano tonto…\nYa tomaste tu decisión. Te dejaré por ahora. Sin embargo, tu entrenamiento no será tan fácil como crees."
+        "es-ES": "[Baphomet]\nHumano tonto...\nYa tomaste tu decisión. Te dejaré por ahora. Sin embargo, tu entrenamiento no será tan fácil como crees."
     },
     "0EGfBg": {
         "en-US": "[Baphomet]\nI shall be preparing my troops for you. The day will come when I shall enjoy watching you writhe in agony as my fiends slowly devour you.",
@@ -1882,6 +1882,6 @@
     "2EGfBg": {
         "en-US": "[Bishop Paul]\nI see you have returned from your meeting with Father Rubalkabara. How is he doing? I am worried about his health, since he's been there all alone...",
         "pt-BR": "[Bispo Tomas]\nVocê já se encontrou com o Irmão Simão, que bom!\nComo ele está? Ele sempre foi uma figura com aqueles Yoyos...",
-        "es-ES": "[Obispo Paul]\nVeo que ya volviste de ver al padre Rubalkabara. ¿Qué tal le va? Me preocupa su salud, ya que está mucho tiempo solo…"
+        "es-ES": "[Obispo Paul]\nVeo que ya volviste de ver al padre Rubalkabara. ¿Qué tal le va? Me preocupa su salud, ya que está mucho tiempo solo..."
     }
 }

@@ -32,7 +32,7 @@
     "JqpE": {
         "en-US": "[{0}]\nSir... Are you okay?\nYou will lose all\nyour hair like that.\nCalm down.",
         "pt-BR": "[{0}]\nSenhor... O senhor está bem?\nVocê vai perder todo o\nseu cabelo assim.\nAcalme-se.",
-        "es-ES": "[{0}]\nSeñor… ¿Se encuentra bien?\nPerderá todo\nsu cabello así.\nTranquilícese."
+        "es-ES": "[{0}]\nSeñor... ¿Se encuentra bien?\nPerderá todo\nsu cabello así.\nTranquilícese."
     },
     "J6pE": {
         "en-US": "[Theore]\nSob.......",
@@ -102,7 +102,7 @@
     "NKpE": {
         "en-US": "[Theore]\nSo won't you give me a hand?!\nYour help will be acknowledged fully - I will tell the professor myself!",
         "pt-BR": "[Theore]\nEntão, não quer me dar uma mãozinha?\nSua ajuda será totalmente reconhecida - eu mesmo contarei ao professor!",
-        "es-ES": "[Theore]\nAsí que… ¡¿me darías una mano?!\nTe aseguro que tu ayuda será reconocida por completo. ¡Yo mismo se lo diré al profesor!"
+        "es-ES": "[Theore]\nAsí que... ¡¿me darías una mano?!\nTe aseguro que tu ayuda será reconocida por completo. ¡Yo mismo se lo diré al profesor!"
     },
     "NapE": {
         "en-US": "Help.",
@@ -182,7 +182,7 @@
     "RKpE": {
         "en-US": "[Theore]\nWell...\nI got so excited after the professor assigned me to this research project.......\nthat I combed through Splendide night and day, and they finally kicked me out.\nHa ha ha!",
         "pt-BR": "[Theore]\nBem...\nFiquei tão empolgado depois que o professor me designou para esse projeto de pesquisa.......\nque vasculhei o Esplendor dia e noite, e eles finalmente me expulsaram.\nHa ha ha!",
-        "es-ES": "[Theore]\nBueno…\nEs que me emocioné tanto cuando el profesor me asignó este proyecto de investigación.......\nque me metía en todos los rincones del Splendide día y noche, y al final me echaron.\n¡Ja, ja, ja!"
+        "es-ES": "[Theore]\nBueno...\nEs que me emocioné tanto cuando el profesor me asignó este proyecto de investigación.......\nque me metía en todos los rincones del Splendide día y noche, y al final me echaron.\n¡Ja, ja, ja!"
     },
     "RapE": {
         "en-US": "[Theore]\nThe Laphines may look cute, but they are combat specialists.......\nSo here I am, without the courage to sneak in, but with the report half-finished.......",
@@ -242,7 +242,7 @@
     "UKpE": {
         "en-US": "[Theore]\nHmm...... They were rummaging through the bushes?\nHmm... Hmm...",
         "pt-BR": "[Theore]\nHmm...... Eles estavam remexendo nos arbustos?\nHmm... Hmm...",
-        "es-ES": "[Theore]\nMmm… ¿Estaban hurgando en los arbustos?\nMmm… Mmm…"
+        "es-ES": "[Theore]\nMmm... ¿Estaban hurgando en los arbustos?\nMmm... Mmm..."
     },
     "UapE": {
         "en-US": "[Theore]\nThey may have left a clue, can you please look around the area?\nIf they were looking through the bushes, they may have been looking for something they've lost.\nOr they may have left something behind.",
@@ -252,12 +252,12 @@
     "UqpE": {
         "en-US": "[Theore]\nA pouch that a Laphine dropped as it fled?\nHmm... Hmm... A soft leather pouch with a string made by soaking dried vines in oil.... too small for humans or Saphas to use...",
         "pt-BR": "[Theore]\nUma bolsa que um Laphine deixou cair ao fugir?\nHmm... Hmm... Uma bolsa de couro macio com um cordão feito de vinhas secas embebidas em óleo.... pequeno demais para ser usado por humanos ou Saphas...",
-        "es-ES": "[Theore]\n¿Una bolsa que se le cayó a un laphine mientras huía?\nMmm… Mmm… Una bolsa de cuero suave con una cuerda que se hace remojando lianas secas en aceite… demasiado pequeña para que los humanos o los saphas la usen…"
+        "es-ES": "[Theore]\n¿Una bolsa que se le cayó a un laphine mientras huía?\nMmm... Mmm... Una bolsa de cuero suave con una cuerda que se hace remojando lianas secas en aceite... demasiado pequeña para que los humanos o los saphas la usen..."
     },
     "U6pE": {
         "en-US": "[Theore]\nCould... Could it be??!!\nthat object?!\nthat I've only heard about, but never came across!!!",
         "pt-BR": "[Theore]\nPoderia... Poderia ser??!!!\naquele objeto?!\nque eu só ouvi falar, mas nunca encontrei!!!",
-        "es-ES": "[Theore]\n¡¿Podría…?! ¡¿Podría ser?!\n¡¿Ese objeto?!\n¡¡¡Solo oí hablar de él, pero nunca lo había visto!!!"
+        "es-ES": "[Theore]\n¡¿Podría...?! ¡¿Podría ser?!\n¡¿Ese objeto?!\n¡¡¡Solo oí hablar de él, pero nunca lo había visto!!!"
     },
     "VKpE": {
         "en-US": "[Theore]\nIn the ancient times, Laphines used to carry fairy dust - such as the flying dust, minimizing dust - in a small pouch like this.",
@@ -292,7 +292,7 @@
     "WqpE": {
         "en-US": "[Theore]\nOh...\nBerries......and leaves?\n.......",
         "pt-BR": "[Theore]\nAh...\nBagas...... e folhas?\n.......",
-        "es-ES": "[Theore]\nOh…\nBayas......¿y hojas?\n......."
+        "es-ES": "[Theore]\nOh...\nBayas......¿y hojas?\n......."
     },
     "W6pE": {
         "en-US": "[Theore]\n......What about the flying dust?\nNoooo!\nMy poor innocent imagination!!!!",
@@ -392,7 +392,7 @@
     "bqpE": {
         "en-US": "- You've found a Small pouch.. -",
         "pt-BR": "- Você encontrou uma bolsa pequena... -",
-        "es-ES": "-Encontraste una bolsita…-"
+        "es-ES": "-Encontraste una bolsita...-"
     },
     "b6pE": {
         "en-US": "- You didn't find anything. -",
@@ -487,7 +487,7 @@
     "gapE": {
         "en-US": "[Tired-looking Fairy]\nBut it won't be easy to find its owner with just the pouch...",
         "pt-BR": "[Fada Exausta]\nMas não será fácil encontrar seu dono apenas com a bolsa...",
-        "es-ES": "[Hada de aspecto cansado]\nPero no será fácil encontrar a su dueño solo con la bolsa…"
+        "es-ES": "[Hada de aspecto cansado]\nPero no será fácil encontrar a su dueño solo con la bolsa..."
     },
     "gqpE": {
         "en-US": "I think I saw a fairy that might be the owner.",
@@ -577,7 +577,7 @@
     "k6pE": {
         "en-US": "[Tired-looking Fairy]\nHmm...\nI don't remember seeing such a fairy.\nAre you sure you're not mistaken?\nTry to remember it again.",
         "pt-BR": "[Fada Exausta]\nHmm...\nNão me lembro de ter visto uma fada assim.\nTem certeza de que não está enganado?\nTente se lembrar novamente.",
-        "es-ES": "[Hada de aspecto cansado]\nMmm…\nNo recuerdo haber visto un hada así.\n¿Seguro que no te equivocas?\nTrata de recordarla de nuevo."
+        "es-ES": "[Hada de aspecto cansado]\nMmm...\nNo recuerdo haber visto un hada así.\n¿Seguro que no te equivocas?\nTrata de recordarla de nuevo."
     },
     "lKpE": {
         "en-US": "[Tired-looking Fairy]\nA dark-skinned fairy with blonde hair and two pairs of wings, dressed in snow-white clothing.......",
@@ -662,7 +662,7 @@
     "pKpE": {
         "en-US": "[Tired-looking Fairy]\nA light-skinned fairy with blonde hair and two pairs of wings, dressed in grape clothing.......\nHmm...... That must be Kusmi.",
         "pt-BR": "[Fada Exausta]\nUma fada de pele clara com cabelos loiros e dois pares de asas, vestida com roupas de uva.......\nHmm...... Essa deve ser a Kusmi.",
-        "es-ES": "[Hada de aspecto cansado]\nUn hada de piel clara, cabello rubio y dos pares de alas, vestida con ropa color uva.......\nMmm… Debe ser Kusmi."
+        "es-ES": "[Hada de aspecto cansado]\nUn hada de piel clara, cabello rubio y dos pares de alas, vestida con ropa color uva.......\nMmm... Debe ser Kusmi."
     },
     "papE": {
         "en-US": "[Tired-looking Fairy]\nKusmi must be roaming the area southeast of the village.\nGo see if she has lost her pouch.",
@@ -712,7 +712,7 @@
     "rqpE": {
         "en-US": "[Tired-looking Fairy]\nA dark-skinned fairy with grassy-green hair and round wings, dressed in snow-white clothing.......\nHmm......That must be Theodore.",
         "pt-BR": "[Fada Exausta]\nUma fada de pele escura com cabelos verde-grama e asas redondas, vestida com roupas brancas como a neve.......\nHmm...... Deve ser o Theodore.",
-        "es-ES": "[Hada de aspecto cansado]\nUn hada de piel oscura, cabello verde hierba y alas redondas, vestida con ropa blanca como la nieve.......\nMmm… Debe ser Theodore."
+        "es-ES": "[Hada de aspecto cansado]\nUn hada de piel oscura, cabello verde hierba y alas redondas, vestida con ropa blanca como la nieve.......\nMmm... Debe ser Theodore."
     },
     "r6pE": {
         "en-US": "[Tired-looking Fairy]\nTheodore must be roaming the area northeast of the village.\nGo see if he has lost his pouch.",
@@ -1012,7 +1012,7 @@
     "6qpE": {
         "en-US": "[Tired-looking Fairy]\nA dark-skinned fairy with sea-blue hair and characteristic wings, dressed in grassy-green clothing.......\nHmm......That must be Pauchon.",
         "pt-BR": "[Fada Exausta]\nUma fada de pele escura com cabelo azul-marinho e asas características, vestida com roupas verde-grama.......\nHmm...... Deve ser Pauchon.",
-        "es-ES": "[Hada de aspecto cansado]\nUn hada de piel oscura, cabello azul marino y alas características, vestida con ropa verde hierba.......\nMmm… Debe ser Pauchon."
+        "es-ES": "[Hada de aspecto cansado]\nUn hada de piel oscura, cabello azul marino y alas características, vestida con ropa verde hierba.......\nMmm... Debe ser Pauchon."
     },
     "66pE": {
         "en-US": "[Tired-looking Fairy]\nPauchon must be roaming the area north of the village.\nGo see if she has lost her pouch.",
@@ -1127,7 +1127,7 @@
     "AatE": {
         "en-US": "[Kusmi]\nThat's a difficult questionn!\nBut you've returned my pouch, so I'll have to answerr......",
         "pt-BR": "[Kusmi]\nEssa é uma pergunta difícil!\nMas você devolveu minha bolsa, então terei que responder......",
-        "es-ES": "[Kusmi]\n¡Es una pregunta difícill!\nPero me devolviste mi bolsa, así que tendré que contestarr…"
+        "es-ES": "[Kusmi]\n¡Es una pregunta difícill!\nPero me devolviste mi bolsa, así que tendré que contestarr..."
     },
     "AqtE": {
         "en-US": "[Kusmi]\nPromise me you won't tell anyonee!\nIf you can promise, please talk to me againn.",
@@ -1172,7 +1172,7 @@
     "CqtE": {
         "en-US": "[Kusmi]\nWe can't leave the battleground because we're in war, so we can't go checkk.\nI am curiousss.......",
         "pt-BR": "[Kusmi]\nNão podemos sair do campo de batalha porque estamos em guerra, então não podemos ir checar.\nEstou curioso.......",
-        "es-ES": "[Kusmi]\nNo podemos salir del campo de batalla porque estamos en guerra, así que no podemos ir a ver qué pasa.\nTengo curiosidadd…"
+        "es-ES": "[Kusmi]\nNo podemos salir del campo de batalla porque estamos en guerra, así que no podemos ir a ver qué pasa.\nTengo curiosidadd..."
     },
     "C6tE": {
         "en-US": "[Kusmi]\nNot just me, but many Laphines are worriedd.\nWell that's the situation, so if you meet a Laphine in the bushes please don't talk to himm.\nIt's embarrassingg!!!",
@@ -1182,7 +1182,7 @@
     "DKtE": {
         "en-US": "[Kusmi]\nOh, and you must never ever tell anyone about what happened todayy!\nUnless that person wanted to help uss... spreading the word won't do Splendide any goood.",
         "pt-BR": "[Kusmi]\nAh, e você nunca deve contar a ninguém sobre o que aconteceu hoje!\nA menos que essa pessoa queira nos ajudar... espalhar a notícia não fará bem a Esplendor.",
-        "es-ES": "[Kusmi]\nAh, ¡y nunca jamás debes contarle a nadie lo que acabas de escuchar hoyy!\nA menos que esa persona quiera ayudarnoss… Si se corre la voz, eso podría perjudicarr a Splendide."
+        "es-ES": "[Kusmi]\nAh, ¡y nunca jamás debes contarle a nadie lo que acabas de escuchar hoyy!\nA menos que esa persona quiera ayudarnoss... Si se corre la voz, eso podría perjudicarr a Splendide."
     },
     "DatE": {
         "en-US": "[Kusmi]\nEh?\nYou stilll want to talk?",
@@ -1227,7 +1227,7 @@
     "FatE": {
         "en-US": "[Kusmi]\nA crevicee?\nThat's why we couldn't contact the mainland.\nUrggg.......\nIt would be good to know what's going on up theree.",
         "pt-BR": "[Kusmi]\nUma fenda?\nÉ por isso que não conseguimos entrar em contato com o continente.\nUrggg.......\nSeria bom saber o que está acontecendo lá em cima.",
-        "es-ES": "[Kusmi]\n¿Una grietaa?\nEs por eso que no pudimos comunicarnos con el continente.\nUf…\nSería bueno saber qué está pasando ahí arribaa."
+        "es-ES": "[Kusmi]\n¿Una grietaa?\nEs por eso que no pudimos comunicarnos con el continente.\nUf...\nSería bueno saber qué está pasando ahí arribaa."
     },
     "FqtE": {
         "en-US": "[Kusmi]\nIf you happen to go through Bifrost, please figure out what's going onn.\nIn the middle of Bifrost is a small village called 'Mora.' All the supplies from the mainland come through that villagee.",
@@ -1377,7 +1377,7 @@
     "M6tE": {
         "en-US": "[Theodore]\nHmm... if you hear that, you might just have to help us out?\nDo you still want to know?",
         "pt-BR": "[Theodore]\nHmm... se você ouvir isso, talvez tenha que nos ajudar?\nVocê ainda quer saber?",
-        "es-ES": "[Theodore]\nHmm… si escuchas eso, quizás tengas que ayudarnos.\n¿Aún así quieres saberlo?"
+        "es-ES": "[Theodore]\nHmm... si escuchas eso, quizás tengas que ayudarnos.\n¿Aún así quieres saberlo?"
     },
     "NKtE": {
         "en-US": "[Theodore]\nThe supply route comes through Bifrost, and you can get to it from the back of the Splendide Basecamp.\nThat is why we set up the basecamp here.\nThe origin of the route is unclear, but it has been known for a long time to be a bridge that connects continents.",
@@ -1402,7 +1402,7 @@
     "OKtE": {
         "en-US": "[Theodore]\nHmm...\nI can't leave here, but you would be able to, no?\nThe supplies from the mainland come through 'Mora' Village, which is located in the middle of Bifrost.",
         "pt-BR": "[Theodore]\nHmm...\nEu não posso sair daqui, mas você poderia, não?\nOs suprimentos do continente chegam pela Vila de Mora, que fica no meio de Bifrost.",
-        "es-ES": "[Theodore]\nMmm…\nYo no puedo salir de aquí, pero tú sí podrías ir, ¿no?\nLos suministros del continente pasan por el pueblo de Mora, en el centro de Bifrost."
+        "es-ES": "[Theodore]\nMmm...\nYo no puedo salir de aquí, pero tú sí podrías ir, ¿no?\nLos suministros del continente pasan por el pueblo de Mora, en el centro de Bifrost."
     },
     "OatE": {
         "en-US": "[Theodore]\nIf you speak to the Warehouse Manager of Mora Village, you'd be able to get more information.\nIf you're willing, will you go to Bifrost's 'Mora' Village and meet the Warehouse Manager?",
@@ -1412,7 +1412,7 @@
     "OqtE": {
         "en-US": "[Theodore]\nAnd if it's not too much trouble, you could drop by my friend Lilitia's also...",
         "pt-BR": "[Theodore]\nE se não for muito incômodo, você poderia passar na casa da minha amiga Lilitia também...",
-        "es-ES": "[Theodore]\nY si no es mucha molestia, podrías pasar también por casa de mi amiga Lilitia…"
+        "es-ES": "[Theodore]\nY si no es mucha molestia, podrías pasar también por casa de mi amiga Lilitia..."
     },
     "O6tE": {
         "en-US": "[Theodore]\nWow!!!\nSo you went through the Maze of the Hazy Forest and returned from Mora Village.\nI made the right decision by asking you!",
@@ -1422,7 +1422,7 @@
     "PKtE": {
         "en-US": "[Theodore]\nThank you.\nI hope this gets resolved soon...\nI don't want to further upset Lilitia...",
         "pt-BR": "[Theodore]\nObrigado.\nEspero que isso seja resolvido logo...\nNão quero perturbar ainda mais a Lilitia...",
-        "es-ES": "[Theodore]\nGracias.\nEspero que esto se resuelva pronto…\nNo quiero molestar más a Lilitia…"
+        "es-ES": "[Theodore]\nGracias.\nEspero que esto se resuelva pronto...\nNo quiero molestar más a Lilitia..."
     },
     "PatE": {
         "en-US": "[Theodore]\nOh, and Daphrer is in northwest Splendide.",
@@ -1452,12 +1452,12 @@
     "QqtE": {
         "en-US": "[Pauchon]\nGood heavens...!\nI think this is mine!\nThank you.\nI've been worried since I lost it, you lifted a burden off of my mind.",
         "pt-BR": "[Pauchon]\nDeus do céu...!\nAcho que isso é meu!\nObrigado a você.\nEu estava preocupado desde que o perdi, você tirou um peso das minhas costas.",
-        "es-ES": "[Pauchon]\n¡Santo cielo…!\n¡Creo que esto es mío!\nGracias.\nEstuve preocupada desde que lo perdí; usted acaba de quitarme un peso de encima."
+        "es-ES": "[Pauchon]\n¡Santo cielo...!\n¡Creo que esto es mío!\nGracias.\nEstuve preocupada desde que lo perdí; usted acaba de quitarme un peso de encima."
     },
     "Q6tE": {
         "en-US": "[Pauchon]\nThat's not easy for me to answer...\nI do appreciate you finding my pouch.... Hmm...\nPlease give me some time to think..",
         "pt-BR": "[Pauchon]\nNão é fácil para eu responder...\nAgradeço por ter encontrado minha bolsa.... Hmm...\nPor favor, me dê um tempo para pensar...",
-        "es-ES": "[Pauchon]\nNo es una pregunta de fácil respuesta…\nValoro que haya encontrado mi bolsa… Mmm…\nDeme un poco de tiempo para pensar…"
+        "es-ES": "[Pauchon]\nNo es una pregunta de fácil respuesta...\nValoro que haya encontrado mi bolsa... Mmm...\nDeme un poco de tiempo para pensar..."
     },
     "RKtE": {
         "en-US": "[Pauchon]\nOh dear. It's not mine.\nBut to carelessly drop such an important object!\nI don't know who it is, but that Laphine needs a lesson!",
@@ -1467,7 +1467,7 @@
     "RatE": {
         "en-US": "[Pauchon]\nHuh? Do you see something?\nI don't see anything...",
         "pt-BR": "[Pauchon]\nHã? Você está vendo alguma coisa?\nNão estou vendo nada...",
-        "es-ES": "[Pauchon]\n¿Eh? ¿Puede ver algo?\nNo veo nada…"
+        "es-ES": "[Pauchon]\n¿Eh? ¿Puede ver algo?\nNo veo nada..."
     },
     "RqtE": {
         "en-US": "[Pauchon]\nWhat I'm about to tell you is top secret!\nWe don't even talk about it amongst ourselves!\nHow would we say that the supply from the mainland's been cut off like that!",
@@ -1477,12 +1477,12 @@
     "R6tE": {
         "en-US": "[Pauchon]\nUgh?!\nOh boy... I've done it....\nIt's really a top secret!!\nDon't tell anybody!",
         "pt-BR": "[Pauchon]\nUgh?!\nPuxa vida... Eu consegui....\nÉ realmente um segredo!!!\nNão conte a ninguém!",
-        "es-ES": "[Pauchon]\n¡¿Eh?!\nAy, no… Lo arruiné…\n¡Es realmente ultrasecreto!\n¡No se lo diga a nadie!"
+        "es-ES": "[Pauchon]\n¡¿Eh?!\nAy, no... Lo arruiné...\n¡Es realmente ultrasecreto!\n¡No se lo diga a nadie!"
     },
     "SKtE": {
         "en-US": "[Pauchon]\nWell since I spilled the beans already... oh well, too late.\nSo it's been a while since we received supplies from the mainland.",
         "pt-BR": "[Pauchon]\nBem, já que eu já falei tudo... ah, bem, tarde demais.\nEntão, já faz algum tempo que não recebemos suprimentos do continente.",
-        "es-ES": "[Pauchon]\nBueno, ya que lo dije… bueno, ya es demasiado tarde.\nHace tiempo que no recibimos suministros del continente."
+        "es-ES": "[Pauchon]\nBueno, ya que lo dije... bueno, ya es demasiado tarde.\nHace tiempo que no recibimos suministros del continente."
     },
     "SatE": {
         "en-US": "[Pauchon]\nWe're not starving, but we're receiving less and less food.\nI was hungry so I went to go pick fruit, but in this cold climate there are no fruit trees.",
@@ -1492,12 +1492,12 @@
     "SqtE": {
         "en-US": "[Pauchon]\nAnd the people higher up only tell us to wait... I'm so tired of waiting!\nBut the instant I leave this place, I'll end up going to prison....",
         "pt-BR": "[Pauchon]\nE as pessoas do alto escalão só nos dizem para esperar... Estou tão cansado de esperar!\nMas no instante em que eu sair deste lugar, acabarei indo para a prisão....",
-        "es-ES": "[Pauchon]\nY los jefes solo nos dicen que esperemos… ¡Estoy harta de esperar!\nPero en cuanto me vaya de aquí, creo que acabaré en prisión…"
+        "es-ES": "[Pauchon]\nY los jefes solo nos dicen que esperemos... ¡Estoy harta de esperar!\nPero en cuanto me vaya de aquí, creo que acabaré en prisión..."
     },
     "S6tE": {
         "en-US": "[Pauchon]\nSo I'm stuck here, and I'll be stuck here, suffering from hunger.... *sob*",
         "pt-BR": "[Pauchon]\nEntão, estou preso aqui e ficarei preso aqui, sofrendo de fome.... *soluço*",
-        "es-ES": "[Pauchon]\nAsí que estoy atrapada aquí, y voy a estar atrapada aquí, sufriendo hambre… *Solloza*"
+        "es-ES": "[Pauchon]\nAsí que estoy atrapada aquí, y voy a estar atrapada aquí, sufriendo hambre... *Solloza*"
     },
     "TKtE": {
         "en-US": "[Pauchon]\nI'd eat the bark off of that tree if I could.\nIf only somebody could help. *sob*",
@@ -1507,7 +1507,7 @@
     "TatE": {
         "en-US": "[Pauchon]\nWhat?\nWhat do you want... I'm hungry, don't have energy to talk...",
         "pt-BR": "[Pauchon]\nO quê?\nO que você quer... Estou com fome, não tenho energia para conversar...",
-        "es-ES": "[Pauchon]\n¿Qué?\n¿Qué necesita…? Tengo hambre, no tengo energía para hablar…"
+        "es-ES": "[Pauchon]\n¿Qué?\n¿Qué necesita...? Tengo hambre, no tengo energía para hablar..."
     },
     "TqtE": {
         "en-US": "[Pauchon]\nAre you going to help me if I tell you?\nIf not, I won't tell.",
@@ -1527,12 +1527,12 @@
     "UatE": {
         "en-US": "[Pauchon]\nThank you for finding the pouch.\nUgh... I'm starving... I suppose I'll have to eat these bitter berries...",
         "pt-BR": "[Pauchon]\nObrigado por encontrar a bolsa.\nUgh... Estou morrendo de fome... Acho que vou ter que comer essas bagas amargas...",
-        "es-ES": "[Pauchon]\nGracias por encontrar la bolsa.\nAgh… Tengo hambre… Supongo que tendré que comer estas bayas amargas…"
+        "es-ES": "[Pauchon]\nGracias por encontrar la bolsa.\nAgh... Tengo hambre... Supongo que tendré que comer estas bayas amargas..."
     },
     "UqtE": {
         "en-US": "[Pauchon]\nCrevice?!?\nHmm I have heard that crevices are creeping up here and there, but it even infiltrated Bifrost....\nIt appears to be more serious than I had imagined.",
         "pt-BR": "[Pauchon]\nFenda?!?\nHmm, ouvi dizer que as fendas estão surgindo aqui e ali, mas até mesmo se infiltraram em Bifrost....\nParece ser mais sério do que eu imaginava.",
-        "es-ES": "[Pauchon]\n¡¿Una grieta?!\nMmm, escuché que estaban apareciendo grietas por aquí y por allá, pero ahora incluso se infiltraron en Bifrost…\nParece que es más grave de lo que pensaba."
+        "es-ES": "[Pauchon]\n¡¿Una grieta?!\nMmm, escuché que estaban apareciendo grietas por aquí y por allá, pero ahora incluso se infiltraron en Bifrost...\nParece que es más grave de lo que pensaba."
     },
     "U6tE": {
         "en-US": "[Pauchon]\nIf you can, would you go to 'Mora' Village in Bifrost and figure out what's going on?",
@@ -1557,12 +1557,12 @@
     "V6tE": {
         "en-US": "[Pauchon]\nI had my doubts...But you really did cross the legendary Maze of the Hazy Forest...\nI'm very impressed.",
         "pt-BR": "[Pauchon]\nEu tinha minhas dúvidas... Mas você realmente atravessou o lendário Labirinto da Floresta Nebulosa...\nEstou muito impressionado.",
-        "es-ES": "[Pauchon]\nTenía mis dudas… Pero usted realmente logró cruzar el legendario laberinto del Bosque brumoso…\nEstoy muy impresionada."
+        "es-ES": "[Pauchon]\nTenía mis dudas... Pero usted realmente logró cruzar el legendario laberinto del Bosque brumoso...\nEstoy muy impresionada."
     },
     "WKtE": {
         "en-US": "[Pauchon]\nI really appreciate your help.\nI hope this gets resolved soon.\nWhat I'm really afraid of... is hunger. More than war.",
         "pt-BR": "[Pauchon]\nAgradeço muito sua ajuda.\nEspero que isso seja resolvido logo.\nO que eu realmente temo... é a fome. Mais do que a guerra.",
-        "es-ES": "[Pauchon]\nLe agradezco mucho su ayuda.\nEspero que esto se resuelva pronto.\nLo que me da miedo… es el hambre. Más que la guerra."
+        "es-ES": "[Pauchon]\nLe agradezco mucho su ayuda.\nEspero que esto se resuelva pronto.\nLo que me da miedo... es el hambre. Más que la guerra."
     },
     "WatE": {
         "en-US": "[Pauchon]\nPlease pay a visit to my friend Humming.\nHe's such a flighty guy, might have already left, but we were supposed to meet up in Mora Village.",
@@ -1577,7 +1577,7 @@
     "W6tE": {
         "en-US": "[Pauchon]\nAh... I'm hungry. \nWhen I get back to the mainland I'm going to stuff my belly until it bursts.",
         "pt-BR": "[Pauchon]\nAh... estou com fome. \nQuando eu voltar para o continente, vou encher minha barriga até ela estourar.",
-        "es-ES": "[Pauchon]\nAh… Tengo hambre. \nCuando vuelva al continente me voy a llenar la barriga hasta reventar."
+        "es-ES": "[Pauchon]\nAh... Tengo hambre. \nCuando vuelva al continente me voy a llenar la barriga hasta reventar."
     },
     "XKtE": {
         "en-US": "[Pauchon]\nDimFusTal Mu Lars\nModAnduLo\nMod\nDorDuMe U NohLarsFulo Mu Fus",
@@ -1627,7 +1627,7 @@
     "ZatE": {
         "en-US": "[Warehouse Manager]\nAh!\nYou're from Splendide?\nLet's see ...\nAll the supplies from over there to there are destined for Splendide.",
         "pt-BR": "[Gerente de Armazém]\nAh!\nVocê é de Esplendor?\nVejamos...\nTodos os suprimentos de lá para cá são destinados a Esplendor.",
-        "es-ES": "[Admin. del depósito]\n¡Ah!\n¿Eres de Splendide?\nVeamos…\nTodos los suministros desde ahí hasta allá son de Splendide."
+        "es-ES": "[Admin. del depósito]\n¡Ah!\n¿Eres de Splendide?\nVeamos...\nTodos los suministros desde ahí hasta allá son de Splendide."
     },
     "ZqtE": {
         "en-US": "[Warehouse Manager]\nWe are quite worried too because the crevice in Bifrost has made it impossible to deliver these goods.",
@@ -1737,7 +1737,7 @@
     "e6tE": {
         "en-US": "[Jones]\nOh.... Darn.......\nI can't go down, and I can't go back. My credibility that I've worked so hard on is just crumbling into dust.",
         "pt-BR": "[Jones]\nOh.... Droga.......\nNão posso ir para baixo e não posso voltar atrás. Minha credibilidade, na qual trabalhei tanto, está se desfazendo em pó.",
-        "es-ES": "[Jones]\nOh… Maldición…\nNo puedo bajar y tampoco puedo volver. Mi credibilidad, que tanto trabajo me costó lograr, se está convirtiendo en polvo."
+        "es-ES": "[Jones]\nOh... Maldición...\nNo puedo bajar y tampoco puedo volver. Mi credibilidad, que tanto trabajo me costó lograr, se está convirtiendo en polvo."
     },
     "fKtE": {
         "en-US": "[Jones]\nAh, are you the traveler who came through the Maze of the Hazy Forest from Splendide?\nIf you plan to go back, can you please deliver this to the Splendide army?",
@@ -1752,7 +1752,7 @@
     "fqtE": {
         "en-US": "[Jones]\nDeliveries to other places have all stopped also. Ah, my credibility is suffering....",
         "pt-BR": "[Jones]\nAs entregas em outros lugares também pararam. Ah, minha credibilidade está sofrendo....",
-        "es-ES": "[Jones]\nTambién se suspendieron las entregas a otros lugares. Ah, mi credibilidad se desvanece…"
+        "es-ES": "[Jones]\nTambién se suspendieron las entregas a otros lugares. Ah, mi credibilidad se desvanece..."
     },
     "f6tE": {
         "en-US": "[Jones]\nThank you.\nYou are carrying too much weight. Please lighten your load and come back.",
@@ -1762,7 +1762,7 @@
     "gKtE": {
         "en-US": "[Jones]\nI'm a bit embarrassed to ask this of a stranger...... Ha ha!",
         "pt-BR": "[Jones]\nEstou um pouco envergonhado de perguntar isso a um estranho...... Ha ha!",
-        "es-ES": "[Jones]\nMe da un poco de vergüenza pedirle esto a una persona desconocida… ¡Ja, ja!"
+        "es-ES": "[Jones]\nMe da un poco de vergüenza pedirle esto a una persona desconocida... ¡Ja, ja!"
     },
     "gatE": {
         "en-US": "[Jones]\nYou have too many kinds of items. Please lighten your load and come back.",
@@ -1797,12 +1797,12 @@
     "h6tE": {
         "en-US": "[Daphrer]\nOh....\nI've been waiting for you.",
         "pt-BR": "[Daphrer]\nOh....\nEu estava esperando por você.",
-        "es-ES": "[Daphrer]\nOh…\nTe estaba esperando."
+        "es-ES": "[Daphrer]\nOh...\nTe estaba esperando."
     },
     "iKtE": {
         "en-US": "[Daphrer]\nThis was urgently needed so thank you for bringing it here, I hope I haven't caused you too much trouble..",
         "pt-BR": "[Daphrer]\nIsso era urgentemente necessário, então obrigado por trazê-lo aqui, espero não ter lhe causado muitos problemas...",
-        "es-ES": "[Daphrer]\nNecesitábamos esto urgente, así que gracias por traerlo; espero no haberte causado muchos problemas…"
+        "es-ES": "[Daphrer]\nNecesitábamos esto urgente, así que gracias por traerlo; espero no haberte causado muchos problemas..."
     },
     "iatE": {
         "en-US": "[Daphrer]\nThis is probably too small to be a reward, but please accept this as a sign of my gratitude.",
@@ -1812,12 +1812,12 @@
     "iqtE": {
         "en-US": "[Daphrer]\nOh....\nSo you lost the item on the way.",
         "pt-BR": "[Daphrer]\nOh....\nEntão você perdeu o item no caminho.",
-        "es-ES": "[Daphrer]\nOh…\nAsí que perdiste el objeto en el camino."
+        "es-ES": "[Daphrer]\nOh...\nAsí que perdiste el objeto en el camino."
     },
     "i6tE": {
         "en-US": "[Daphrer]\nI knew that it was probably a stretch......\nPerhaps I've been unrealistic.\nBut I thank you for your trouble anyway. Please accept this as a sign of my gratitude.",
         "pt-BR": "[Daphrer]\nEu sabia que provavelmente era um trecho......\nTalvez eu tenha sido irrealista.\nMas, de qualquer forma, agradeço pelo seu trabalho. Aceite isso como um sinal de minha gratidão.",
-        "es-ES": "[Daphrer]\nSabía que era algo difícil…\nQuizá no fui realista.\nPero te agradezco las molestias de todos modos. Acepta esto como muestra de mi gratitud."
+        "es-ES": "[Daphrer]\nSabía que era algo difícil...\nQuizá no fui realista.\nPero te agradezco las molestias de todos modos. Acepta esto como muestra de mi gratitud."
     },
     "jKtE": {
         "en-US": "[Daphrer]\nFor me, a drop of water to make a flower blossom is more important than a sword for war.",

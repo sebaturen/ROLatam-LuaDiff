@@ -22,7 +22,7 @@
     "RIVCBw": {
         "en-US": "[Prince Canet]\nLet's see I've got a...\nRing of something!\nSword of stuff!\nA backpack of some sort!",
         "pt-BR": "[Canet, príncipe mercador]\nO que eu vendo?\nO Anel da Ressonância!\nO Anel do Senhor das Chamas!\nUma mochila de aventureiro!",
-        "es-ES": "[Príncipe Canet]\nVeamos, tengo…\n¡Un Anillo para algo!\n¡Una Espada de nosequé!\n¡Una especie de Mochila!"
+        "es-ES": "[Príncipe Canet]\nVeamos, tengo...\n¡Un Anillo para algo!\n¡Una Espada de nosequé!\n¡Una especie de Mochila!"
     },
     "RYVCBw": {
         "en-US": "[Prince Canet]\nTell me if you need anything,",
@@ -42,7 +42,7 @@
     "SIVCBw": {
         "en-US": "[Jumpy Knight]\nI'm shaking...",
         "pt-BR": "[Repressor]\nQue seja...",
-        "es-ES": "[Caballero saltarín]\nMe muero de miedo…"
+        "es-ES": "[Caballero saltarín]\nMe muero de miedo..."
     },
     "SYVCBw": {
         "en-US": "Jumpy Knight",
@@ -77,7 +77,7 @@
     "T4VCBw": {
         "en-US": "[Prince Canet]\nCome here...",
         "pt-BR": "[Canet, príncipe mercador]\nVenha aqui!",
-        "es-ES": "[Príncipe Canet]\nVen aquí…"
+        "es-ES": "[Príncipe Canet]\nVen aquí..."
     },
     "UIVCBw": {
         "en-US": "[Jumpy Knight]\nI knew you would be here!!\nNo illegal trading is allowed here!\nDon't you know?",
@@ -137,7 +137,7 @@
     "W4VCBw": {
         "en-US": "[Prince Canet]\nUgh! How are you always following me?\nGot some kind of crush on me or something?\nI don't think you and I make a good match...",
         "pt-BR": "[Canet, príncipe mercador]\nUgh! Por que você me segue\npor toda parte?\nVocê gosta de mim? É isso?\nQuer o meu telefone?",
-        "es-ES": "[Príncipe Canet]\n¡Uf! ¿Por qué siempre me sigues?\n¿Te enamoraste de mí o qué?\nNo creo que hagamos buena pareja…"
+        "es-ES": "[Príncipe Canet]\n¡Uf! ¿Por qué siempre me sigues?\n¿Te enamoraste de mí o qué?\nNo creo que hagamos buena pareja..."
     },
     "XIVCBw": {
         "en-US": "[Jumpy Knight]\nWhy don't we find out then?",
@@ -202,7 +202,7 @@
     "aIVCBw": {
         "en-US": "Party member : Well, I am kind of hungry... Can we get something warm to eat?",
         "pt-BR": "Membro do grupo: Bom, estou com um pouco de fome... Podemos comer batata doce com castanha ou bolinhos?",
-        "es-ES": "Miembro del grupo: Bueno, tengo un poco de hambre… ¿Podemos comer algo caliente?"
+        "es-ES": "Miembro del grupo: Bueno, tengo un poco de hambre... ¿Podemos comer algo caliente?"
     },
     "aYVCBw": {
         "en-US": "Party member : You want to eat again?",
@@ -212,7 +212,7 @@
     "aoVCBw": {
         "en-US": "Party member : I am just wondering about the tournament..",
         "pt-BR": "Membro do grupo: Só andei pensando sobre a Torneio de Magia...",
-        "es-ES": "Miembro del grupo: Me pregunto sobre el torneo…"
+        "es-ES": "Miembro del grupo: Me pregunto sobre el torneo..."
     },
     "a4VCBw": {
         "en-US": "Party member : I need to eat something before doing anything.",
@@ -227,7 +227,7 @@
     "bYVCBw": {
         "en-US": "Party member : I just saw a street trader passing by... Where is he?",
         "pt-BR": "Membro do grupo: Eu vi um comerciante de rua passando... Onde era...?",
-        "es-ES": "Miembro del grupo: Acabo de ver pasar a un buhonero… ¿Dónde está?"
+        "es-ES": "Miembro del grupo: Acabo de ver pasar a un buhonero... ¿Dónde está?"
     },
     "boVCBw": {
         "en-US": "Party member : Oh? What? You didn't get in yet?",
@@ -267,7 +267,7 @@
     "dYVCBw": {
         "en-US": "Party member : That is your wish....",
         "pt-BR": "Membro do grupo: É isso o que você quer...",
-        "es-ES": "Miembro del grupo: Eso esperas…"
+        "es-ES": "Miembro del grupo: Eso esperas..."
     },
     "doVCBw": {
         "en-US": "Party member : I want to buy cold grape juice~",
@@ -312,12 +312,12 @@
     "foVCBw": {
         "en-US": "Party member : So mean.. I won't eat then.",
         "pt-BR": "Membro do grupo: Que maldade... Não vou comer.",
-        "es-ES": "Miembro del grupo: Qué maldad… Entonces no como."
+        "es-ES": "Miembro del grupo: Qué maldad... Entonces no como."
     },
     "f4VCBw": {
         "en-US": "Party member : right.. I should have entered with another group!",
         "pt-BR": "Membro do grupo: Certo... Eu devia ter entrado em outro lugar... Se eu soubesse!",
-        "es-ES": "Miembro del grupo: Claro… ¡Debería haber entrado con otro grupo!"
+        "es-ES": "Miembro del grupo: Claro... ¡Debería haber entrado con otro grupo!"
     },
     "gIVCBw": {
         "en-US": "Party member : I will let it go.",
@@ -337,7 +337,7 @@
     "g4VCBw": {
         "en-US": "Party member : You are scared huh... chuckling~",
         "pt-BR": "Membro do grupo: Você está com medo... hahaha.",
-        "es-ES": "Miembro del grupo: Tienes miedo, ¿eh…? *Risitas~*"
+        "es-ES": "Miembro del grupo: Tienes miedo, ¿eh...? *Risitas~*"
     },
     "hIVCBw": {
         "en-US": "Party member : Bah,  I do not care.  I'm gonna take a nap so wake me up when we're ready.",
@@ -352,7 +352,7 @@
     "hoVCBw": {
         "en-US": "Party member : Can I get back before I die...",
         "pt-BR": "Membro do grupo: Posso voltar antes de morrer?",
-        "es-ES": "Miembro del grupo: ¿Puedo volver antes de morir…?"
+        "es-ES": "Miembro del grupo: ¿Puedo volver antes de morir...?"
     },
     "h4VCBw": {
         "en-US": "Party member : What? You, we gotta talk! I've been too nice to you!",
@@ -362,7 +362,7 @@
     "iIVCBw": {
         "en-US": "Party Leader : Excuse me..... everyone.............?",
         "pt-BR": "Líder do grupo: Com licença... pessoal...?",
-        "es-ES": "Líder del grupo: Perdón… ¿Me escuchan…?"
+        "es-ES": "Líder del grupo: Perdón... ¿Me escuchan...?"
     },
     "iYVCBw": {
         "en-US": "Party member : No!!!!!!!!!",
@@ -382,11 +382,11 @@
     "jIVCBw": {
         "en-US": "Party member : I'm so pissed off right now...",
         "pt-BR": "Membro do grupo: Que raiva... Que raiva...",
-        "es-ES": "Miembro del grupo: Me carcome la ira…"
+        "es-ES": "Miembro del grupo: Me carcome la ira..."
     },
     "jYVCBw": {
         "en-US": "Party Leader : Please listen....",
         "pt-BR": "Líder do grupo: Por favor, escutem...",
-        "es-ES": "Líder del grupo: Escuchen, por favor…"
+        "es-ES": "Líder del grupo: Escuchen, por favor..."
     }
 }

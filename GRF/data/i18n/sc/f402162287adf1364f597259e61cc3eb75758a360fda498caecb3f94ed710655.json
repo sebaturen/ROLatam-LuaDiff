@@ -67,22 +67,22 @@
     "zfTAAg": {
         "en-US": "[Thief Guild Member]\nWhat the heck...?",
         "pt-BR": "[Gatuna Ajudante]\nQue diabos...?",
-        "es-ES": "[Guía del Gremio]\n¿Qué demonios…?"
+        "es-ES": "[Guía del Gremio]\n¿Qué demonios...?"
     },
     "zvTAAg": {
         "en-US": "Huh.. you are a Swordman blockhead...!",
         "pt-BR": "Hã... você se juntou aos mimadinhos dos Espadachins...!",
-        "es-ES": "¡Mmm… eres de esos Espadachines sin cerebro…!"
+        "es-ES": "¡Mmm... eres de esos Espadachines sin cerebro...!"
     },
     "z/TAAg": {
         "en-US": "Oh, are you a Mage from a circus troupe...?",
         "pt-BR": "Ah, você se juntou aos Maguinhos frangotes...?",
-        "es-ES": "Ah, ¿eres de esos Magos del circo…?"
+        "es-ES": "Ah, ¿eres de esos Magos del circo...?"
     },
     "0PTAAg": {
         "en-US": "Huh.. a silly Archer is here...?",
         "pt-BR": "Hã... se perdeu da guilda dos Arqueiros...?",
-        "es-ES": "Mmm… ¿en serio hay un tonto Arquero aquí…?"
+        "es-ES": "Mmm... ¿en serio hay un tonto Arquero aquí...?"
     },
     "0fTAAg": {
         "en-US": "Oh, you are a mean and wicked Merchant...!",
@@ -107,12 +107,12 @@
     "1fTAAg": {
         "en-US": "Ehh... Seems like a beloved son of a rich family, but why are you here in this dirty place?",
         "pt-BR": "Err... O que um filhinho de papai está fazendo aqui?",
-        "es-ES": "Ehh… Pareces el hijo querido de una familia rica, ¿pero por qué estás aquí, en este sucio lugar?"
+        "es-ES": "Ehh... Pareces el hijo querido de una familia rica, ¿pero por qué estás aquí, en este sucio lugar?"
     },
     "1vTAAg": {
         "en-US": "Ehh... Seems like a beloved daughter of a rich family, but why are you here in this dirty place?",
         "pt-BR": "Err... O que uma dondoca está fazendo aqui?",
-        "es-ES": "Ehh… Pareces la querida hija de una familia rica, ¿pero por qué estás aquí, en este sucio lugar?"
+        "es-ES": "Ehh... Pareces la querida hija de una familia rica, ¿pero por qué estás aquí, en este sucio lugar?"
     },
     "1/TAAg": {
         "en-US": "I want to be a Thief.",
@@ -152,7 +152,7 @@
     "3vTAAg": {
         "en-US": "[Thief Guild Member]\nOh, do you...? Huh.. well... I do live and learn to see strange people like you.",
         "pt-BR": "[Gatuna Ajudante]\nAh, quer...? Hum... bem... Vivendo e conhecendo pessoas estranhas como você.",
-        "es-ES": "[Guía del Gremio]\nAh, ¿tú…? Ja… Bueno… Vivo y aprendo a ver gente extraña como tú."
+        "es-ES": "[Guía del Gremio]\nAh, ¿tú...? Ja... Bueno... Vivo y aprendo a ver gente extraña como tú."
     },
     "3/TAAg": {
         "en-US": "[Thief Guild Member]\nThen why are you here? Do you think you can become a thief so easily?",
@@ -162,7 +162,7 @@
     "4PTAAg": {
         "en-US": "[Thief Guild Member]\nEh..? me? me?\nWell... I just fit well to being a thief... characteristically...  I don't mind this silly matter.",
         "pt-BR": "[Gatuna Ajudante]\nEr...? Eu? Eu?\nBem... Eu apenas me encaixo como um gatuno.. pelas minhas características... ... Eu não ligo para essas tolices.",
-        "es-ES": "[Guía del Gremio]\n¿Eh…? ¿Yo? ¿Yo?\nBueno… Solo siento que sería buen Ladrón… como persona…  No me importa esta tontería."
+        "es-ES": "[Guía del Gremio]\n¿Eh...? ¿Yo? ¿Yo?\nBueno... Solo siento que sería buen Ladrón... como persona...  No me importa esta tontería."
     },
     "4fTAAg": {
         "en-US": "[Thief Guild Member]\nAnyway, in the outside world, never say that you want to be a Thief!!",
@@ -182,17 +182,17 @@
     "5PTAAg": {
         "en-US": "[Thief Guild Member]\nAlright, tell me your name. Huh? What?\n{0}. So {0} , right...?",
         "pt-BR": "[Gatuna Ajudante]\nMuito bem, me diga seu nome. É o quê?\n{0}. Então é {0}, certo...?",
-        "es-ES": "[Guía del Gremio]\nMuy bien, dime tu nombre. ¿Eh? ¿Qué?\n{0}. Entonces eres {0}, ¿verdad…?"
+        "es-ES": "[Guía del Gremio]\nMuy bien, dime tu nombre. ¿Eh? ¿Qué?\n{0}. Entonces eres {0}, ¿verdad...?"
     },
     "5fTAAg": {
         "en-US": "[Thief Guild Member]\nI can see your strong will to become a Thief......\nBut only with your will, you cannot make it in a real fight, can you? So go and reach at least Basic Skill Level 9.",
         "pt-BR": "[Gatuna Ajudante]\nPosso ver sua grande vontade......\nMas somente com a sua vontade, você não conseguirá vencer em uma luta real, certo? Portanto, vá e alcance pelo menos o Nível 9 de Habilidades Básicas.",
-        "es-ES": "[Guía del Gremio]\nPuedo ver tu fuerte voluntad de convertirte en Ladrón…\nPero solo con tu voluntad no podrías ganar en un combate real, ¿verdad? Así que ve y alcanza al menos el nivel 9 de Habilidad básica."
+        "es-ES": "[Guía del Gremio]\nPuedo ver tu fuerte voluntad de convertirte en Ladrón...\nPero solo con tu voluntad no podrías ganar en un combate real, ¿verdad? Así que ve y alcanza al menos el nivel 9 de Habilidad básica."
     },
     "5vTAAg": {
         "en-US": "[Thief Guild Member]\nHmm.... I found your interesting criminal records from the data of the detective agency. Well you seem to have what takes to be a thief good.\n{0}. I now declare that you have passed the job interview!",
         "pt-BR": "[Gatuna Ajudante]\nHmm... Eu achei seu interessante histórico criminal.\n{0}: declaro agora que você passou na entrevista para a Classe!",
-        "es-ES": "[Guía del Gremio]\nMmm… Encontré tus peculiares antecedentes penales en los datos de la agencia de detectives. Pues parece que tienes lo que se necesita para ser un buen Ladrón.\n{0}. ¡Declaro que pasaste la entrevista de Clase!"
+        "es-ES": "[Guía del Gremio]\nMmm... Encontré tus peculiares antecedentes penales en los datos de la agencia de detectives. Pues parece que tienes lo que se necesita para ser un buen Ladrón.\n{0}. ¡Declaro que pasaste la entrevista de Clase!"
     },
     "5/TAAg": {
         "en-US": "[Thief Guild Member]\nWell, I'm not in charge of making you a Thief. I just accept applications, get it?\nIf you want to become a Thief, ask the guy next to me.",
@@ -202,7 +202,7 @@
     "6PTAAg": {
         "en-US": "[Thief Guild Member]\nWell... do what you want to do~ Go your way~",
         "pt-BR": "[Gatuna Ajudante]\nBem... faça o que quiser fazer... Siga seu caminho~",
-        "es-ES": "[Guía del Gremio]\nBueno… haz lo que quieras hacer. Sigue tu camino."
+        "es-ES": "[Guía del Gremio]\nBueno... haz lo que quieras hacer. Sigue tu camino."
     },
     "6fTAAg": {
         "en-US": "[Thief Guild Member]\nWell, I'm not in charge of making you a Thief. I just accept applications, get it?\nIf you want to become a Thief, ask the sharp-eyed guy next to me.",
@@ -212,7 +212,7 @@
     "6vTAAg": {
         "en-US": "[Thief Guild Member]\nAahh, in the old days... I told you to gather mushrooms... right?\nWell, it's just a silly joke.\nNow I don't give you that test anymore, so if you want to be a thief, so be it!",
         "pt-BR": "[Gatuna Ajudante]\nAh, antigamente... Eu falei para você recolher cogumelos... certo?\nEra apenas uma piada boba.\nAgora não faço mais esse teste, então, se você quiser ser um Gatuno, que seja!",
-        "es-ES": "[Guía del Gremio]\nAahh, en los viejos tiempos… Te dije que recolectaras hongos… ¿verdad?\nBueno, era solo una broma tonta.\nYo ya no hago esa prueba, así que, si quieres ser Ladrón, ¡que así sea!"
+        "es-ES": "[Guía del Gremio]\nAahh, en los viejos tiempos... Te dije que recolectaras hongos... ¿verdad?\nBueno, era solo una broma tonta.\nYo ya no hago esa prueba, así que, si quieres ser Ladrón, ¡que así sea!"
     },
     "6/TAAg": {
         "en-US": "[Thief Guild Member]\nHey, I'm just joking.\nHaha hahahaha~!!",
@@ -222,7 +222,7 @@
     "7PTAAg": {
         "en-US": "[Thief Guild Member]\nYou know you cannot be a thief without an application.....\nWhat's on your mind..?",
         "pt-BR": "[Gatuna Ajudante]\nVocê sabe que não pode ser um Gatuno sem se inscrever...\nO que está pensando?",
-        "es-ES": "[Guía del Gremio]\nNo sabes que no puedes convertirte en Ladrón sin una solicitud…\n¿En qué piensas…?"
+        "es-ES": "[Guía del Gremio]\nNo sabes que no puedes convertirte en Ladrón sin una solicitud...\n¿En qué piensas...?"
     },
     "7fTAAg": {
         "en-US": "[Thief Guild Member]\nSince this is a request from the Eden group, it would be a good idea to participate considering the journey ahead.",
@@ -277,7 +277,7 @@
     "9/TAAg": {
         "en-US": "[Thief Guild Member]\nGo away.\nThis is not your place...",
         "pt-BR": "[Chefe dos Gatunos]\nVá embora.\nEste não é o seu lugar...",
-        "es-ES": "[Guía del Gremio]\nVete.\nEste no es lugar para ti…"
+        "es-ES": "[Guía del Gremio]\nVete.\nEste no es lugar para ti..."
     },
     "+PTAAg": {
         "en-US": "[Thief Guild Member]\nYou set out to walk the same path as us?\nAny person is welcome.\nBut are you really confident that you won't regret it?\nThink again.",
@@ -302,7 +302,7 @@
     "/PTAAg": {
         "en-US": "[Thief Guild Member]\nI understand your strong will to become a thief...\nGo finish learning the Basic Novice Skills first.",
         "pt-BR": "[Chefe dos Gatunos]\nEntendo sua forte vontade de se juntar à nós...\nPrimeiro, termine de aprender as Habilidades Básicas de Aprendiz.",
-        "es-ES": "[Guía del Gremio]\nReconozco tu gran voluntad para convertirte en Ladrón…\nPrimero, termina de aprender las habilidades básicas de Principiante."
+        "es-ES": "[Guía del Gremio]\nReconozco tu gran voluntad para convertirte en Ladrón...\nPrimero, termina de aprender las habilidades básicas de Principiante."
     },
     "/fTAAg": {
         "en-US": "[Thief Guild Member]\nGood. I'll accept you.\nLet's begin the job-changing ceremony of our guild!",
@@ -357,7 +357,7 @@
     "B/XAAg": {
         "en-US": "[Thief Guild Member]\nWhat's going on...\nI can't believe you came to such a rough place.",
         "pt-BR": "[Chefe dos Gatunos]\nO que está acontecendo...\nNão acredito que você veio para um lugar tão difícil.",
-        "es-ES": "[Guía del Gremio]\nQué pasa…\nNo puedo creer que hayas venido a un lugar tan peligroso."
+        "es-ES": "[Guía del Gremio]\nQué pasa...\nNo puedo creer que hayas venido a un lugar tan peligroso."
     },
     "CPXAAg": {
         "en-US": "Suspicious Person",
@@ -402,7 +402,7 @@
     "EPXAAg": {
         "en-US": "[Suspicious Person]\nWhere is this strange smell coming from...\nYou. Now why would that be?",
         "pt-BR": "[Chefe dos Gatunos]\nDe onde está vindo esse cheiro estranho...?\nDe você! Qual o motivo?",
-        "es-ES": "[Persona Sospechosa]\n¿De dónde viene este extraño olor…?\nTú. ¿Pero por qué será?"
+        "es-ES": "[Persona Sospechosa]\n¿De dónde viene este extraño olor...?\nTú. ¿Pero por qué será?"
     },
     "EfXAAg": {
         "en-US": "[Suspicious Person]\nHey Novice!\nDo you want to live fantastic life? more easy life?\nThen, be a thief and join our guild. you are always welcome.",
@@ -432,7 +432,7 @@
     "FvXAAg": {
         "en-US": "[Thief Guild Member]\nWell, I got this feeling like you've been through a lifetime of fighting, so I'm promoting you to a Thief right this minute.\nI better give you tough guys what you want...",
         "pt-BR": "[Gatuna Ajudante] \nBem, tenho a sensação de que você já passou por uma vida inteira de luta, por isso estou mudando sua classe agora. Parabéns...!",
-        "es-ES": "[Guía del Gremio] \nVaya, tengo la sensación de que llevas toda una vida luchando, así que te ascenderé a Ladrón ahora mismo. Si has luchado tanto como parece, mejor te doy lo que quieres…"
+        "es-ES": "[Guía del Gremio] \nVaya, tengo la sensación de que llevas toda una vida luchando, así que te ascenderé a Ladrón ahora mismo. Si has luchado tanto como parece, mejor te doy lo que quieres..."
     },
     "F/XAAg": {
         "en-US": "[Thief Guild Member]\nSince you've become a Thief, live as a Thief.\nNow, go for it! Next~",

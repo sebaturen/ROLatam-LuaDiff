@@ -12,17 +12,17 @@
     "4kZnAw": {
         "en-US": "I hope Kale is alright...",
         "pt-BR": "Espero que Kayle esteja bem...",
-        "es-ES": "Espero que Kale esté bien…"
+        "es-ES": "Espero que Kale esté bien..."
     },
     "40ZnAw": {
         "en-US": "[Timothy]\nDamn it... I need to go and save Kale from the Shipwreck. But I'm too scared to go there.",
         "pt-BR": "[Timothy]\nDroga... Eu preciso ir e salvar Kayle do Navio Fantasma. Mas estou com muito medo de ir até lá.",
-        "es-ES": "[Timothy]\nMaldición… Tengo que ir a salvar a Kale del barco hundido. Pero me da mucho miedo ir allí."
+        "es-ES": "[Timothy]\nMaldición... Tengo que ir a salvar a Kale del barco hundido. Pero me da mucho miedo ir allí."
     },
     "5EZnAw": {
         "en-US": "[Timothy]\nIf you were a more experienced adventurer, I would have asked you....",
         "pt-BR": "[Timothy]\nSe você fosse mais forte, eu pediria à você...",
-        "es-ES": "[Timothy]\nSi tuvieras más experiencia como trotamundos, te lo hubiera pedido…"
+        "es-ES": "[Timothy]\nSi tuvieras más experiencia como trotamundos, te lo hubiera pedido..."
     },
     "5UZnAw": {
         "en-US": "[Timothy]\nMmm, you're no different from me.",
@@ -52,7 +52,7 @@
     "6kZnAw": {
         "en-US": "Ugh... What should I do, what should I do.",
         "pt-BR": "Ah... o que devo fazer?",
-        "es-ES": "Uf… ¿Qué debo hacer, qué debo hacer?"
+        "es-ES": "Uf... ¿Qué debo hacer, qué debo hacer?"
     },
     "60ZnAw": {
         "en-US": "[Timothy]\nOh! You seem to live a prodigiously free life. Are you an adventurer?",
@@ -62,7 +62,7 @@
     "7EZnAw": {
         "en-US": "Who are you calling prodigious...",
         "pt-BR": "Sim...",
-        "es-ES": "¿A quién llamas prodigio…?"
+        "es-ES": "¿A quién llamas prodigio...?"
     },
     "7UZnAw": {
         "en-US": "[Timothy]\nYou always seek adventure and treasure, never settling down,\nand you sleep in a different town every other day - of course you're a prodigal!",
@@ -127,7 +127,7 @@
     "+UZnAw": {
         "en-US": "Uh, that one who was a bit dramatic...",
         "pt-BR": "Esse mesmo...",
-        "es-ES": "Eh, ese que era un poco dramático…"
+        "es-ES": "Eh, ese que era un poco dramático..."
     },
     "+kZnAw": {
         "en-US": "[Timothy]\nSo you did know. Yeah, that guy.",
@@ -137,7 +137,7 @@
     "+0ZnAw": {
         "en-US": "[Timothy]\nAt least look around when you visit this town... Anyway.",
         "pt-BR": "[Timothy]\nExiste, aquele cara.",
-        "es-ES": "[Timothy]\nAl menos mira a tu alrededor cuando visites esta ciudad… En fin."
+        "es-ES": "[Timothy]\nAl menos mira a tu alrededor cuando visites esta ciudad... En fin."
     },
     "/EZnAw": {
         "en-US": "[Timothy]\nHe is from the Zonda Agency, which sends adventurers to the Shipwreck. Everything was fine when he was there alone. He was very useful for adventurers.",
@@ -197,12 +197,12 @@
     "B0dnAw": {
         "en-US": "[Timothy]\nBecause of that, Kale... My friend Kale hit it off with a red-haired swordsman and went to the Shipwreck.",
         "pt-BR": "[Timothy]\nGraças a você... meu amigo Kayle se interessou pela história de um Espadachim ruivo e foi pro navio.",
-        "es-ES": "[Timothy]\nPor eso, Kale… Mi amigo Kale congenió con un espadachín pelirrojo y se fueron al barco hundido."
+        "es-ES": "[Timothy]\nPor eso, Kale... Mi amigo Kale congenió con un espadachín pelirrojo y se fueron al barco hundido."
     },
     "CEdnAw": {
         "en-US": "...A red-haired swordsman?",
         "pt-BR": "...Um espadachim ruivo?",
-        "es-ES": "…¿Un espadachín pelirrojo?"
+        "es-ES": "...¿Un espadachín pelirrojo?"
     },
     "CUdnAw": {
         "en-US": "[Timothy]\nI don't know how amazing that swordsman is, but Kale is just a worker who carries loads at the pier, just like me.",
@@ -212,7 +212,7 @@
     "CkdnAw": {
         "en-US": "[Timothy]\nI'm sure he's in trouble and got stuck somewhere...\nUgh, what should I do? I need to go and save that kiddo.",
         "pt-BR": "[Timothy]\nTenho certeza que ele está em apuros...\nUgh, o que devo fazer? Preciso ir procurá-lo.",
-        "es-ES": "[Timothy]\nEstoy seguro de que está en problemas y quedó atrapado en algún sitio…\nAy, ¿qué debo hacer? Tengo que ir a salvar a ese chico."
+        "es-ES": "[Timothy]\nEstoy seguro de que está en problemas y quedó atrapado en algún sitio...\nAy, ¿qué debo hacer? Tengo que ir a salvar a ese chico."
     },
     "C0dnAw": {
         "en-US": "[Timothy]\nI, uh, need you to go instead of me. Kale is so feeble that he wouldn't have explored too far.",
@@ -232,7 +232,7 @@
     "DkdnAw": {
         "en-US": "...Why don't you go?",
         "pt-BR": "...Por que você não vai?",
-        "es-ES": "…¿Por qué no te vas tú?"
+        "es-ES": "...¿Por qué no te vas tú?"
     },
     "D0dnAw": {
         "en-US": "Oh, I thought all adventurers were arrogant, snobbish bastards, but you're a good person, quite rare to find.",
@@ -242,7 +242,7 @@
     "EEdnAw": {
         "en-US": "[Timothy]\nThank you! I'm not sure since I've never been there...\nBut according to what I heard from the other adventurers, getting rid of about ^4D4DFF10 Pirate Skeletons at the Shipwreck 1F^000000 would be enough.",
         "pt-BR": "[Timothy]\nObrigado! Eu nunca estive lá, então não sei...\nPelo o que eu ouvi, acho que ^4D4DFFcaçar 10 Esqueletos Piratas no Navio Fantasma^000000 será o suficiente.",
-        "es-ES": "[Timothy]\n¡Gracias! No estoy seguro, ya que nunca fui…\nPero según lo que oí de otros trotamundos, deshacerse de unos ^4D4DFF10Esqueletos pirata en el piso1 del barco hundido^000000 sería suficiente."
+        "es-ES": "[Timothy]\n¡Gracias! No estoy seguro, ya que nunca fui...\nPero según lo que oí de otros trotamundos, deshacerse de unos ^4D4DFF10Esqueletos pirata en el piso1 del barco hundido^000000 sería suficiente."
     },
     "EUdnAw": {
         "en-US": "[Timothy]\nDon't forget to save Kale as well!",
@@ -252,7 +252,7 @@
     "EkdnAw": {
         "en-US": "[Timothy]\nI'm... I'm, scared... No, no, I, I, I'm too busy to go!!!",
         "pt-BR": "[Timothy]\nE-eu... estou com m-medo... não posso fazer isso!!",
-        "es-ES": "[Timothy]\nYo estoy… estoy asustado… ¡No, no, estoy… estoy demasiado ocupado para ir!"
+        "es-ES": "[Timothy]\nYo estoy... estoy asustado... ¡No, no, estoy... estoy demasiado ocupado para ir!"
     },
     "E0dnAw": {
         "en-US": "[Timothy]\nI need you to go instead of me. I beg you. Please, okay?",
@@ -272,7 +272,7 @@
     "FkdnAw": {
         "en-US": "Tsk... Like a typical adventurer, you're arrogant and snobbish, but you're still a good person.",
         "pt-BR": "Hmpf... você é arrogante demais...",
-        "es-ES": "Pf… Eres arrogante y clasista, como todos los trotamundos, pero sigues siendo una buena persona."
+        "es-ES": "Pf... Eres arrogante y clasista, como todos los trotamundos, pero sigues siendo una buena persona."
     },
     "F0dnAw": {
         "en-US": "[Timothy]\nBut according to what I heard from the other adventurers, getting rid of about ^4D4DFF10 Pirate Skeletons at the Shipwreck 1F^000000 would be enough.",
@@ -282,12 +282,12 @@
     "GEdnAw": {
         "en-US": "[Timothy]\nUgh... You're so mean...",
         "pt-BR": "[Timothy]\nUgh... Você é mesmo cruel...",
-        "es-ES": "[Timothy]\nUf… Cuánta maldad…"
+        "es-ES": "[Timothy]\nUf... Cuánta maldad..."
     },
     "GUdnAw": {
         "en-US": "I hope Kale is alright. That adventurer... Huh?",
         "pt-BR": "Kayle tem que estar bem!... Hã?",
-        "es-ES": "Espero que Kale esté bien. Los trotamundos… ¿Eh?"
+        "es-ES": "Espero que Kale esté bien. Los trotamundos... ¿Eh?"
     },
     "GkdnAw": {
         "en-US": "[Timothy]\nHuh??\nHuh? Why haven't you left yet?",
@@ -297,7 +297,7 @@
     "G0dnAw": {
         "en-US": "[Timothy]\nWhat if something terrible happens to Kale...?",
         "pt-BR": "[Timothy]\nE se algo terrível acontecer com Kayle...?",
-        "es-ES": "[Timothy]\n¿Y si le pasa algo terrible a Kale…?"
+        "es-ES": "[Timothy]\n¿Y si le pasa algo terrible a Kale...?"
     },
     "HEdnAw": {
         "en-US": "[Timothy]\nHurry up and go. You know how to get there, don't you? Talk to that fellow from the Zonda Agency in the middle of the pier.",
@@ -327,7 +327,7 @@
     "IUdnAw": {
         "en-US": "[Timothy]\nThat idiot, falsely hoping to become an adventurer...!",
         "pt-BR": "[Timothy]\nAquele idiota, iludido achando que vai virar aventureiro...!",
-        "es-ES": "[Timothy]\n¡Ese idiota tiene la falsa esperanza de convertirse en trotamundos…!"
+        "es-ES": "[Timothy]\n¡Ese idiota tiene la falsa esperanza de convertirse en trotamundos...!"
     },
     "IkdnAw": {
         "en-US": "[Timothy]\nYep, Kale is back. Thanks.\nThough that kiddo blames me for not earning a single coin.",
@@ -397,7 +397,7 @@
     "L0dnAw": {
         "en-US": "[Kale]\nAdventurer... Thank you for coming all the way to the Shipwreck. Even though I'm in a shameful state.",
         "pt-BR": "[Kayle]\nViajante... Obrigado por ir até o Navio Fantasma. Apesar desse barraco todo.",
-        "es-ES": "[Kale]\nTrotamundos… Gracias por ir hasta el barco hundido. Aunque estoy avergonzado."
+        "es-ES": "[Kale]\nTrotamundos... Gracias por ir hasta el barco hundido. Aunque estoy avergonzado."
     },
     "MEdnAw": {
         "en-US": "What are you ashamed about! Forget it, I'm going to have a word with that Zonda crook, not you!",
@@ -412,7 +412,7 @@
     "MkdnAw": {
         "en-US": "...I've a bone to pick with her as well. She said it was a treasure ship, but there wasn't even a coin.",
         "pt-BR": "...É verdade, ela disse que tinha tesouros no navio, mas não tem.",
-        "es-ES": "…Yo también tengo asuntos pendientes con ella. Dijo que era un barco del tesoro, pero no había ni una sola moneda."
+        "es-ES": "...Yo también tengo asuntos pendientes con ella. Dijo que era un barco del tesoro, pero no había ni una sola moneda."
     },
     "M0dnAw": {
         "en-US": "[Kale]\nI don't want to agree with Timothy, but I also need to have a word with her, so I'll be right back.",
@@ -422,7 +422,7 @@
     "NEdnAw": {
         "en-US": "Uh... I'll go instead.",
         "pt-BR": "Er... Deixa que eu vou.",
-        "es-ES": "Eh… Yo iré en tu lugar."
+        "es-ES": "Eh... Yo iré en tu lugar."
     },
     "NUdnAw": {
         "en-US": "(Let's not interfere)",
@@ -432,7 +432,7 @@
     "NkdnAw": {
         "en-US": "[Kale]\nCould you, please? Phew, I am so sorry...",
         "pt-BR": "[Kayle]\nVocê iria? Ah, tudo bem...",
-        "es-ES": "[Kale]\n¿Podrías hacerlo? Uf, lo siento mucho…"
+        "es-ES": "[Kale]\n¿Podrías hacerlo? Uf, lo siento mucho..."
     },
     "N0dnAw": {
         "en-US": "Alright! Go there and give that sucker a good punch!",
@@ -447,7 +447,7 @@
     "OUdnAw": {
         "en-US": "[Kale]\nI'll leave it to you. Go there and have a word with her instead of us.\nHmm... I would like you to solve this by talking it over.",
         "pt-BR": "[Kayle]\nPor favor, vá e converse por nós.\nHm... eu gostaria que você resolvesse isso através do diálogo civilizado.",
-        "es-ES": "[Kale]\nLo dejo en tus manos. Ve allí y habla con ella por nosotros.\nMmm… Me gustaría que lo resolvieras hablando."
+        "es-ES": "[Kale]\nLo dejo en tus manos. Ve allí y habla con ella por nosotros.\nMmm... Me gustaría que lo resolvieras hablando."
     },
     "OkdnAw": {
         "en-US": "[Kale]\nI heard that she rents a room next to the Alberta hair salon.",
@@ -457,7 +457,7 @@
     "O0dnAw": {
         "en-US": "[Kale]\nI... Phew, even talking to that Timothy is exhausting.\nWhen will he stop seeing me as a child? Well, I should get going.",
         "pt-BR": "[Kayle]\nE... aff, cansei de falar com o Timothy.\nEle ainda acha que eu sou uma criancinha. Vou embora.",
-        "es-ES": "[Kale]\nYo… Uf, hasta hablar con Timothy es agotador.\n¿Cuándo dejará de verme como un niño? Bueno, debería irme."
+        "es-ES": "[Kale]\nYo... Uf, hasta hablar con Timothy es agotador.\n¿Cuándo dejará de verme como un niño? Bueno, debería irme."
     },
     "PEdnAw": {
         "en-US": "Huh? Hey!!! Kale!!!",
@@ -492,7 +492,7 @@
     "QkdnAw": {
         "en-US": "[{0}]\n(But I'm not sure whether or not it is worth interfering...)",
         "pt-BR": "[{0}]\n(Mas é muito complicado intervir...)",
-        "es-ES": "[{0}]\n(Pero no sé si vale la pena interferir o no…)"
+        "es-ES": "[{0}]\n(Pero no sé si vale la pena interferir o no...)"
     },
     "Q0dnAw": {
         "en-US": "You haven't changed since we were kids. I'm sick and tired of getting caught up in your troubles. I'm leaving.",
@@ -502,12 +502,12 @@
     "REdnAw": {
         "en-US": "[{0}]\n(Will it really be okay...?)",
         "pt-BR": "[{0}]\n(Será que realmente vai ficar tudo bem...?)",
-        "es-ES": "[{0}]\n(¿Realmente estará bien…?)"
+        "es-ES": "[{0}]\n(¿Realmente estará bien...?)"
     },
     "RUdnAw": {
         "en-US": "Kale, that idiot... He doesn't remember me scolding him after he got beaten all the time by that girl Carrot!",
         "pt-BR": "Kale, aquele idiota... Ele nem lembra de quando eu brigava com ele por sempre apanhar daquela garota, a Carrot!",
-        "es-ES": "Kale, ese idiota… ¡No se acuerda de que lo regañé después de que recibiera una paliza tras otra de esa chica Carrot!"
+        "es-ES": "Kale, ese idiota... ¡No se acuerda de que lo regañé después de que recibiera una paliza tras otra de esa chica Carrot!"
     },
     "RkdnAw": {
         "en-US": "[{0}]\n - Timothy is fuming alone -",
@@ -532,17 +532,17 @@
     "SkdnAw": {
         "en-US": "(...I don't want to interfere)",
         "pt-BR": "(...não quero interferir)",
-        "es-ES": "(No quiero interferir…)"
+        "es-ES": "(No quiero interferir...)"
     },
     "S0dnAw": {
         "en-US": "[Timothy]\nUh... Why are you interfering?! It's me who has business with her!",
         "pt-BR": "[Timothy]\nHmpf...por que você está interferindo?! Sou eu quem tem quem que lidar com isso!",
-        "es-ES": "[Timothy]\nEh… ¡¿Por qué interfieres?! ¡Soy yo quien tiene asuntos que resolver con ella!"
+        "es-ES": "[Timothy]\nEh... ¡¿Por qué interfieres?! ¡Soy yo quien tiene asuntos que resolver con ella!"
     },
     "TEdnAw": {
         "en-US": "If I let you go, something bad might happen...",
         "pt-BR": "Acho ruim você ir só...",
-        "es-ES": "Si te dejo ir, podría pasar algo malo…"
+        "es-ES": "Si te dejo ir, podría pasar algo malo..."
     },
     "TUdnAw": {
         "en-US": "[Timothy]\nHuh? What do you mean, something bad?",
@@ -557,17 +557,17 @@
     "T0dnAw": {
         "en-US": "[Timothy]\nWhat the...? I don't get it.\nDo whatever you want.",
         "pt-BR": "[Timothy]\nGrrr... eu não entendo.\nFaça o que quiser.",
-        "es-ES": "[Timothy]\n¿Pero qué…? No lo entiendo.\nHaz lo que quieras."
+        "es-ES": "[Timothy]\n¿Pero qué...? No lo entiendo.\nHaz lo que quieras."
     },
     "UEdnAw": {
         "en-US": "[{0}]\n(Something's not right, but no need to go looking for trouble...)",
         "pt-BR": "[{0}]\n(Estou me coçando para não me meter nisso...)",
-        "es-ES": "[{0}]\n(Algo no está bien, pero no hace falta andar buscando problemas…)"
+        "es-ES": "[{0}]\n(Algo no está bien, pero no hace falta andar buscando problemas...)"
     },
     "UUdnAw": {
         "en-US": "[Timothy]\nWhat the...? You said you were going. Why haven't you left yet? Should I just go with Kale?",
         "pt-BR": "[Timothy]\nVocê disse que estava indo, por que ainda não foi? Devo ir com Kayle?",
-        "es-ES": "[Timothy]\n¿Pero qué…? Dijiste que irías. ¿Por qué aún no te fuiste? ¿Debería ir yo con Kale?"
+        "es-ES": "[Timothy]\n¿Pero qué...? Dijiste que irías. ¿Por qué aún no te fuiste? ¿Debería ir yo con Kale?"
     },
     "UkdnAw": {
         "en-US": "No no no! I'll go, you rest.",
@@ -577,7 +577,7 @@
     "U0dnAw": {
         "en-US": "[Timothy]\nTsk... How boring.",
         "pt-BR": "[Timothy]\nAh... Tá bom.",
-        "es-ES": "[Timothy]\nPf… Qué aburrimiento."
+        "es-ES": "[Timothy]\nPf... Qué aburrimiento."
     },
     "VEdnAw": {
         "en-US": "[Timothy]\nDid you meet that Zonda woman? What did she say?",
@@ -587,7 +587,7 @@
     "VUdnAw": {
         "en-US": "Uh... It's complicated.",
         "pt-BR": "É... complicado.",
-        "es-ES": "Eh… Es complicado."
+        "es-ES": "Eh... Es complicado."
     },
     "VkdnAw": {
         "en-US": "I'll let you know a bit later.",
@@ -597,12 +597,12 @@
     "V0dnAw": {
         "en-US": "[Timothy]\nWhat's so complicated about it...?",
         "pt-BR": "[Timothy]\nVocê quem está complicando as coisas...",
-        "es-ES": "[Timothy]\n¿Qué tiene de complicado…?"
+        "es-ES": "[Timothy]\n¿Qué tiene de complicado...?"
     },
     "WEdnAw": {
         "en-US": "[Timothy]\nThere's nothing worth hiding...",
         "pt-BR": "[Timothy]\nO que você tem a esconder...?",
-        "es-ES": "[Timothy]\nNo hay nada que valga la pena ocultar…"
+        "es-ES": "[Timothy]\nNo hay nada que valga la pena ocultar..."
     },
     "WUdnAw": {
         "en-US": "Don't tell me you got coaxed by that crook into doing something weird?!",
@@ -627,7 +627,7 @@
     "XUdnAw": {
         "en-US": "Well, it's not that I don't like it...",
         "pt-BR": "Bem, não é que eu não goste...",
-        "es-ES": "Bueno, no es que no me guste…"
+        "es-ES": "Bueno, no es que no me guste..."
     },
     "XkdnAw": {
         "en-US": "[Timothy]\nThat idiot Kale still seems to consider himself an adventurer, though.",
@@ -637,7 +637,7 @@
     "X0dnAw": {
         "en-US": "[Timothy]\nI think he's still very excited about finding treasures at the Shipwreck...\nHe might disappear again, so please come back soon.",
         "pt-BR": "[Timothy]\nVocê parece bem feliz com a exploração no navio...\nEnfim, venha me visitar uma próxima vez.",
-        "es-ES": "[Timothy]\nCreo que sigue muy emocionado por encontrar tesoros en el barco hundido…\nPodría desaparecer de nuevo, así que vuelve pronto."
+        "es-ES": "[Timothy]\nCreo que sigue muy emocionado por encontrar tesoros en el barco hundido...\nPodría desaparecer de nuevo, así que vuelve pronto."
     },
     "YEdnAw": {
         "en-US": "[Timothy]\nI knew this would happen! That fool Kale disappeared again. I asked the dockers, and they said they saw him taking a boat to the Shipwreck.",
@@ -672,7 +672,7 @@
     "ZkdnAw": {
         "en-US": "[Timothy]\nWhat...?",
         "pt-BR": "[Timothy]\nO que...?",
-        "es-ES": "[Timothy]\n¿Qué…?"
+        "es-ES": "[Timothy]\n¿Qué...?"
     },
     "Z0dnAw": {
         "en-US": "[Timothy]\nI didn't know! I had no idea, I never saw him do that. He didn't tell me, either.",
@@ -702,17 +702,17 @@
     "bEdnAw": {
         "en-US": "[Timothy]\nWhat...? No way. How would Kale be fine?\nI guess you're making excuses because you don't want to go there. I'm disappointed...",
         "pt-BR": "[Timothy]\nO quê...? Não pode ser. O Kayle?\nVocê está dando desculpas porque está com preguiça de ir. Estou desapontado...",
-        "es-ES": "[Timothy]\n¿Qué…? De ninguna manera. ¿Cómo podría estar bien Kale?\nSupongo que pones excusas porque no quieres ir allí. Estoy decepcionado…"
+        "es-ES": "[Timothy]\n¿Qué...? De ninguna manera. ¿Cómo podría estar bien Kale?\nSupongo que pones excusas porque no quieres ir allí. Estoy decepcionado..."
     },
     "bUdnAw": {
         "en-US": "[Timothy]\nKale's not here yet.\nNo way he really became an adventurer and traveled somewhere far away...",
         "pt-BR": "[Timothy]\nKayle ainda não voltou.\nEu não acho que ele vai se tornar um aventureiro indo para lugares assim...",
-        "es-ES": "[Timothy]\nKale aún no llegó.\nEs imposible que se haya convertido en trotamundos y haya viajado a algún lugar lejano…"
+        "es-ES": "[Timothy]\nKale aún no llegó.\nEs imposible que se haya convertido en trotamundos y haya viajado a algún lugar lejano..."
     },
     "bkdnAw": {
         "en-US": "[Timothy]\nOh! What the? What are you doing here?! Go to Kale.",
         "pt-BR": "[Timothy]\nHmpf! Por que você está aqui? Vá ver Kayle.",
-        "es-ES": "[Timothy]\n¡Ah! ¿Qué dem…? ¡¿Qué haces aquí?! Ve a buscar a Kale."
+        "es-ES": "[Timothy]\n¡Ah! ¿Qué dem...? ¡¿Qué haces aquí?! Ve a buscar a Kale."
     },
     "b0dnAw": {
         "en-US": "[Timothy]\nKilling skeletons is good, but you haven't forgotten why, have you?",
@@ -742,12 +742,12 @@
     "dEdnAw": {
         "en-US": "Argh! Get away from me! Argh! I don't like skeletons! I really don't...!",
         "pt-BR": "Não se aproxime! Eu odeio esqueletos...!!",
-        "es-ES": "¡Aj! ¡Aléjate de mí! ¡Aj! ¡No me gustan los esqueletos! ¡De verdad que no…!"
+        "es-ES": "¡Aj! ¡Aléjate de mí! ¡Aj! ¡No me gustan los esqueletos! ¡De verdad que no...!"
     },
     "dUdnAw": {
         "en-US": "[Leno]\nArghh! Argh! No! Save me! Ahhh! Friends... My friends...",
         "pt-BR": "[Leno]\nAi! Aaai!",
-        "es-ES": "[Leno]\n¡Arghh! ¡Aj! ¡No! ¡Sálvame! ¡Ahhh! Amigos... Mis amigos…"
+        "es-ES": "[Leno]\n¡Arghh! ¡Aj! ¡No! ¡Sálvame! ¡Ahhh! Amigos... Mis amigos..."
     },
     "dkdnAw": {
         "en-US": "[{0}]\n - Not a sound is heard -",
@@ -757,7 +757,7 @@
     "d0dnAw": {
         "en-US": "[Leno]\nEh... Ehhh... Phew, sigh...\nThank you, my friends... I really love you!",
         "pt-BR": "[Leno]\nAh... ai... ui... ai...\nObrigado, pessoal... eu amo muito vocês!!",
-        "es-ES": "[Leno]\nEh… Ehhh… Uf, ay…\nGracias, amigos… ¡Los quiero mucho!"
+        "es-ES": "[Leno]\nEh... Ehhh... Uf, ay...\nGracias, amigos... ¡Los quiero mucho!"
     },
     "eEdnAw": {
         "en-US": "[Leno]\nThank you so much! Well, I'll be going now!",
@@ -767,22 +767,22 @@
     "eUdnAw": {
         "en-US": "[Leno]\nI love you! I've got nobody but you! So...\nLet's go outside so that I can calmly share my love and gratitude!",
         "pt-BR": "[Leno]\nEu te amo! Só você! Quer dizer...\nVamos lá fora para eu te agradecer devidamente!",
-        "es-ES": "[Leno]\n¡Los quiero! ¡No tengo a nadie más que a ustedes! Es que…\n¡Salgamos para que pueda compartir con calma mi amor y mi gratitud!"
+        "es-ES": "[Leno]\n¡Los quiero! ¡No tengo a nadie más que a ustedes! Es que...\n¡Salgamos para que pueda compartir con calma mi amor y mi gratitud!"
     },
     "ekdnAw": {
         "en-US": "[Kale]\n...Oh... Do you know that swordsman?",
         "pt-BR": "[Kayle]\n...Uh... Viajante, você conhece aquele Espadachim?",
-        "es-ES": "[Kale]\nAh… ¿Conoces a ese espadachín?"
+        "es-ES": "[Kale]\nAh... ¿Conoces a ese espadachín?"
     },
     "e0dnAw": {
         "en-US": "[{0}]\nNot really......",
         "pt-BR": "[{0}]\nEntão......",
-        "es-ES": "[{0}]\nLa verdad es que no…"
+        "es-ES": "[{0}]\nLa verdad es que no..."
     },
     "fEdnAw": {
         "en-US": "[Leno]\nAhahaha...\nMy friends... This is no place for meeee...",
         "pt-BR": "[Leno]\nAhhhh...\nMeu Deus... Aqui não é o meu lugar...",
-        "es-ES": "[Leno]\nJa, ja, ja…\nMis amigos… Este no es lugar para mí…"
+        "es-ES": "[Leno]\nJa, ja, ja...\nMis amigos... Este no es lugar para mí..."
     },
     "fUdnAw": {
         "en-US": "[Kale]\nAre you still not used to it, Mr. Swordsman?",
@@ -797,7 +797,7 @@
     "f0dnAw": {
         "en-US": "[Kale]\nThis is troublesome...\nI can't believe that he just gave up.",
         "pt-BR": "[Kayle]\nEu tô lascado...\nNão imaginei que você ia se fingir de morto.",
-        "es-ES": "[Kale]\nEsto es problemático…\nNo puedo creer que se haya rendido."
+        "es-ES": "[Kale]\nEsto es problemático...\nNo puedo creer que se haya rendido."
     },
     "gEdnAw": {
         "en-US": "[Kale]\nI didn't expect Mr. Swordsman, who came with me, to be so scared of the Undead.",
@@ -807,12 +807,12 @@
     "gUdnAw": {
         "en-US": "[Kale]\nWow... Are you an adventurer? Please help us. I can manage it when I'm alone, but doing it while protecting Mr. Swordsman is too much...",
         "pt-BR": "[Kayle]\nAh... Viajante? Por favor, me ajude. Se eu estivesse sozinho, faria alguma coisa, mas é impossível proteger até mesmo esse Espadachim...",
-        "es-ES": "[Kale]\nGuau… ¿Eres trotamundos? Ayúdanos, por favor. Puedo arreglármelas cuando estoy solo, pero hacerlo mientras protejo al señorEspadachín es demasiado…"
+        "es-ES": "[Kale]\nGuau... ¿Eres trotamundos? Ayúdanos, por favor. Puedo arreglármelas cuando estoy solo, pero hacerlo mientras protejo al señorEspadachín es demasiado..."
     },
     "gkdnAw": {
         "en-US": "[Leno]\nArghhh! My friend! My friends! Please catch these disgusting thiiiiiiings....",
         "pt-BR": "[Leno]\nAh! Socorro! Me protejam desses esqueletos!",
-        "es-ES": "[Leno]\n¡Arghhh! ¡Colega! ¡Amigos! Por favor, encárguense de esas cosas repugnantes…"
+        "es-ES": "[Leno]\n¡Arghhh! ¡Colega! ¡Amigos! Por favor, encárguense de esas cosas repugnantes..."
     },
     "g0dnAw": {
         "en-US": "[Kale]\nI think I can manage it if you kill some Pirate Skeletons around here. Please!",
@@ -822,12 +822,12 @@
     "hEdnAw": {
         "en-US": "[Kale]\nPhew... That was chaotic. Thank you for helping me.",
         "pt-BR": "[Kayle]\nUfa... estou salvo. Muito obrigado pela ajuda.",
-        "es-ES": "[Kale]\nUf… Eso fue caótico. Gracias por ayudarme."
+        "es-ES": "[Kale]\nUf... Eso fue caótico. Gracias por ayudarme."
     },
     "hUdnAw": {
         "en-US": "[Kale]\nHas Mr. Swordsman... calmed... down for now?\nAnyway, are you also an adventurer? Did you come to explore the Shipwreck?",
         "pt-BR": "[Kayle]\nO Espadachim... se acalmou...?\nDe qualquer forma, você veio explorar os destroços?",
-        "es-ES": "[Kale]\n¿El señorEspadachín… se calmó… por ahora?\nEn fin, ¿tú también eres trotamundos? ¿Viniste a explorar el barco hundido?"
+        "es-ES": "[Kale]\n¿El señorEspadachín... se calmó... por ahora?\nEn fin, ¿tú también eres trotamundos? ¿Viniste a explorar el barco hundido?"
     },
     "hkdnAw": {
         "en-US": "Since you're with that swordsman, are you Kale?",
@@ -837,7 +837,7 @@
     "h0dnAw": {
         "en-US": "[Kale]\nThat's right, but... Do you know me?",
         "pt-BR": "[Kayle]\nIsso mesmo... você me conhece?",
-        "es-ES": "[Kale]\nSí, pero… ¿me conoces?"
+        "es-ES": "[Kale]\nSí, pero... ¿me conoces?"
     },
     "iEdnAw": {
         "en-US": "Timothy asked me to save you and bring you back.",
@@ -847,7 +847,7 @@
     "iUdnAw": {
         "en-US": "[Kale]\nHuh? Timothy asked you to bring me back?\nUm... Timothy seems to think that I'm still that little boy who followed him around.",
         "pt-BR": "[Kayle]\nOi? Timothy disse para você me buscar?\nGrr... Timothy ainda acha que eu sou um bebê.",
-        "es-ES": "[Kale]\n¿Eh? ¿Timothy te pidió que me llevaras de vuelta?\nEh… Parece que Timothy piensa que sigo siendo aquel niñito que lo seguía a todas partes."
+        "es-ES": "[Kale]\n¿Eh? ¿Timothy te pidió que me llevaras de vuelta?\nEh... Parece que Timothy piensa que sigo siendo aquel niñito que lo seguía a todas partes."
     },
     "ikdnAw": {
         "en-US": "[Kale]\nI am fine. If I were still alone, I would have escaped without your help.",
@@ -897,17 +897,17 @@
     "k0dnAw": {
         "en-US": "[Kale]\nPhew... He's always been like that.\nGuess I don't have a choice. Let me just tidy up my bag, and then I will go back too.",
         "pt-BR": "[Kayle]\nMeh... ele sempre faz isso.\nNão posso evitar. Vou apenas pegar minhas coisas e voltar.",
-        "es-ES": "[Kale]\nUf… Siempre ha sido así.\nSupongo que no tengo elección. Deja que ordene mi bolso, y yo también volveré luego."
+        "es-ES": "[Kale]\nUf... Siempre ha sido así.\nSupongo que no tengo elección. Deja que ordene mi bolso, y yo también volveré luego."
     },
     "lEdnAw": {
         "en-US": "[Kale]\nI can always come to the Shipwreck again...\nI shouldn't keep Timothy waiting forever, so could you go ahead and tell him I'm going back?",
         "pt-BR": "[Kayle]\nQue desastre. Isso vai demorar...\nEu não posso deixar Timothy esperando para sempre, então você poderia ir na frente e dizer que eu estou indo?",
-        "es-ES": "[Kale]\nSiempre puedo volver al barco hundido…\nNo debería hacer esperar a Timothy, así que ¿podrías adelantarte y decirle que voy en camino?"
+        "es-ES": "[Kale]\nSiempre puedo volver al barco hundido...\nNo debería hacer esperar a Timothy, así que ¿podrías adelantarte y decirle que voy en camino?"
     },
     "lUdnAw": {
         "en-US": "[Kale]\nSo Timothy is worried about me...",
         "pt-BR": "[Kayle]\nEntão o Timothy está preocupado comigo...",
-        "es-ES": "[Kale]\nAsí que Timothy está preocupado por mí…"
+        "es-ES": "[Kale]\nAsí que Timothy está preocupado por mí..."
     },
     "lkdnAw": {
         "en-US": "[Kale]\nI'm not as weak as he thinks I am.",
@@ -932,7 +932,7 @@
     "mkdnAw": {
         "en-US": "[Kale]\nI wish Timothy knew that...",
         "pt-BR": "[Kayle]\nGostaria que Timothy soubesse disso...",
-        "es-ES": "[Kale]\nOjalá Timothy lo supiera…"
+        "es-ES": "[Kale]\nOjalá Timothy lo supiera..."
     },
     "m0dnAw": {
         "en-US": "[Kale]\nOh? Adventurer. Good to see you here again.",
@@ -942,7 +942,7 @@
     "nEdnAw": {
         "en-US": "[Kale]\nI haven't found any decent treasure yet, though... I came here just to get some fresh air and do some training.",
         "pt-BR": "[Kayle]\nAinda não encontrei nenhum tesouro decente... mas só vim aqui para tomar um pouco de ar fresco e praticar.",
-        "es-ES": "[Kale]\nAunque todavía no encontré ningún tesoro decente… Vine solo para tomar aire fresco y entrenar un poco."
+        "es-ES": "[Kale]\nAunque todavía no encontré ningún tesoro decente... Vine solo para tomar aire fresco y entrenar un poco."
     },
     "nUdnAw": {
         "en-US": "[Kale]\nAh, please don't tell Timothy.",
@@ -982,7 +982,7 @@
     "pEdnAw": {
         "en-US": "[Kale]\nPhew, he's not even my mother, but he nags so much...\nWhat can I do, though. He's my friend.",
         "pt-BR": "[Kayle]\nMeh, ele nem é minha mãe, mas fica no meu pé...\nMas o que posso fazer? Ele é um amigo.",
-        "es-ES": "[Kale]\nUf, ni siquiera es mi madre, pero regaña tanto…\nPero ¿qué le voy a hacer? Es mi amigo."
+        "es-ES": "[Kale]\nUf, ni siquiera es mi madre, pero regaña tanto...\nPero ¿qué le voy a hacer? Es mi amigo."
     },
     "pUdnAw": {
         "en-US": "[Kale]\nHello! We keep running into each other, don't we? Please don't tell Timothy, okay?",
@@ -992,17 +992,17 @@
     "pkdnAw": {
         "en-US": "[Kale]\nHuh, he already knows...?\nOh, I guess I don't have a choice. When I go back, I'm going to get an earful from him.",
         "pt-BR": "[Kayle]\nEi, ele já sabe...?\nArgh. Vou ouvir outra reclamação.",
-        "es-ES": "[Kale]\nEh, ¿ya lo sabe…?\nSupongo que no tengo elección. Cuando vuelva, me dará un sermón."
+        "es-ES": "[Kale]\nEh, ¿ya lo sabe...?\nSupongo que no tengo elección. Cuando vuelva, me dará un sermón."
     },
     "p0dnAw": {
         "en-US": "[Kale]\nI might as well quickly hear what I need to hear and move on... Please help me kill Pirate Skeletons so I can go back quickly.",
         "pt-BR": "[Kayle]\nEnfim... Por favor, ajude-me a pegar os Esqueletos Piratas para que eu possa voltar logo.",
-        "es-ES": "[Kale]\nPodría oír rápidamente lo que haga falta y seguir adelante… Por favor, ayúdame a matar Esqueletos pirata para volver rápidamente."
+        "es-ES": "[Kale]\nPodría oír rápidamente lo que haga falta y seguir adelante... Por favor, ayúdame a matar Esqueletos pirata para volver rápidamente."
     },
     "qEdnAw": {
         "en-US": "[Kale]\nThank you! Thanks to you, I can go back in no time. If I'm lucky, I can pretend that I did nothing...\nWould that be difficult...?",
         "pt-BR": "[Kayle]\nObrigado! Graças a você, posso voltar em breve. Se eu tiver sorte, poderei fingir que não fiz nada...\nSerá que isso seria difícil...?",
-        "es-ES": "[Kale]\n¡Gracias! Gracias a ti, puedo volver en un abrir y cerrar de ojos. Si tengo suerte, puedo fingir que no hice nada…\n¿Sería difícil…?"
+        "es-ES": "[Kale]\n¡Gracias! Gracias a ti, puedo volver en un abrir y cerrar de ojos. Si tengo suerte, puedo fingir que no hice nada...\n¿Sería difícil...?"
     },
     "qUdnAw": {
         "en-US": "[Kale]\nOh, by the way, I found treasure today! I opened a box I've seen here every day and found an Old Coin inside.",
@@ -1017,7 +1017,7 @@
     "q0dnAw": {
         "en-US": "[Kale]\nTimothy doesn't know that I'm here yet, does he?\nNot getting caught by Timothy is training in itself...",
         "pt-BR": "[Kayle]\nEi, você ainda não conhece Timothy?\nEu espero não ser visto por ele...",
-        "es-ES": "[Kale]\nTimothy aún no sabe que estoy aquí, ¿verdad?\nQue Timothy no me descubra es todo un entrenamiento…"
+        "es-ES": "[Kale]\nTimothy aún no sabe que estoy aquí, ¿verdad?\nQue Timothy no me descubra es todo un entrenamiento..."
     },
     "rEdnAw": {
         "en-US": "Drake's Ghost",
@@ -1062,7 +1062,7 @@
     "tEdnAw": {
         "en-US": "[Mulberry]\nTidy up your inventory a bit... then hurry back.",
         "pt-BR": "[Amora]\nSe sim, esvazie seu inventário... e volte logo.",
-        "es-ES": "[Mulberry]\nOrdena un poco tu inventario… y vuelve pronto."
+        "es-ES": "[Mulberry]\nOrdena un poco tu inventario... y vuelve pronto."
     },
     "tUdnAw": {
         "en-US": "[Mulberry]\nOh my, it seems that you've got the quest I requested from the Eden Group. I cannot believe you came to me. You look very, very earnest.",
@@ -1102,7 +1102,7 @@
     "vEdnAw": {
         "en-US": "[Mulberry]\nHow annoying... Oh my, hoho, ohohoho. What am I saying.",
         "pt-BR": "[Amora]\nQue desagradável... Hahahah... Veio aqui por quê?",
-        "es-ES": "[Mulberry]\nQué fastidio… Vaya, jo, jo, jo, jo, jo. ¿Qué estoy diciendo?"
+        "es-ES": "[Mulberry]\nQué fastidio... Vaya, jo, jo, jo, jo, jo. ¿Qué estoy diciendo?"
     },
     "vUdnAw": {
         "en-US": "[Mulberry]",
@@ -1207,7 +1207,7 @@
     "0UdnAw": {
         "en-US": "[Mulberry]\nOf-of-of course, I did exaggerate too... I mean, I admit that I did, very slightly, show some aspects in their best light.",
         "pt-BR": "[Amora]\nHm, Hmpf... tá, talvez eu tenha exagerado um pouco.",
-        "es-ES": "[Mulberry]\nP-p-por supuesto, también exageré… Quiero decir, admito que, muy ligeramente, exageré algunos aspectos para hacerlos más atractivos."
+        "es-ES": "[Mulberry]\nP-p-por supuesto, también exageré... Quiero decir, admito que, muy ligeramente, exageré algunos aspectos para hacerlos más atractivos."
     },
     "0kdnAw": {
         "en-US": "[Mulberry]\nBut I would never do anything terrible to people on purpose, would I?",
@@ -1232,22 +1232,22 @@
     "1kdnAw": {
         "en-US": "[Mulberry]\nI offer adventurers dreams and romance only the Shipwreck can give...",
         "pt-BR": "[Amora]\nSó dei aos aventureiros a romantização dos naufrágios... Vendi o sonho da exploração...",
-        "es-ES": "[Mulberry]\nOfrezco sueños y romances a los trotamundos que solo el barco hundido puede dar…"
+        "es-ES": "[Mulberry]\nOfrezco sueños y romances a los trotamundos que solo el barco hundido puede dar..."
     },
     "10dnAw": {
         "en-US": "[Mulberry]\nSo when a lot of blockheads come to the Shipwreck, they will thoroughly explore the Shipwreck and discover real treasure...",
         "pt-BR": "[Amora]\nEntão, quando muitos idiotas vão lá, eles exploram os destroços e encontram tesouros...",
-        "es-ES": "[Mulberry]\nAsí, cuando un montón de idiotas lleguen al barco hundido, lo explorarán a fondo y descubrirán el verdadero tesoro…"
+        "es-ES": "[Mulberry]\nAsí, cuando un montón de idiotas lleguen al barco hundido, lo explorarán a fondo y descubrirán el verdadero tesoro..."
     },
     "2EdnAw": {
         "en-US": "[Mulberry]\nAnd then our company, the Zonda Agency, will take our share and boast about it...",
         "pt-BR": "[Amora]\nA Corporação Zonda só tem a ganhar com isso...",
-        "es-ES": "[Mulberry]\n Y entonces, nuestra empresa, la Agencia Zonda, tomará su parte y se jactará de ello…"
+        "es-ES": "[Mulberry]\n Y entonces, nuestra empresa, la Agencia Zonda, tomará su parte y se jactará de ello..."
     },
     "2UdnAw": {
         "en-US": "I mean, hoho, ohohoho. Anyway... Come to think of it, you are an adventurer, aren't you, honey?",
         "pt-BR": "Hohohoho~ Enfim... Pensando bem, você também gosta de aventuras, certo?",
-        "es-ES": "Es decir, jo, jo, jo, jo, jo. En fin… Ahora que lo pienso, eres trotamundos, ¿verdad, cariño?"
+        "es-ES": "Es decir, jo, jo, jo, jo, jo. En fin... Ahora que lo pienso, eres trotamundos, ¿verdad, cariño?"
     },
     "2kdnAw": {
         "en-US": "[Mulberry]\nThat is good, honey. Do business with me. This is a very, very good opportunity.",
@@ -1262,7 +1262,7 @@
     "3EdnAw": {
         "en-US": "No, not really...",
         "pt-BR": "Não, na verdade não...",
-        "es-ES": "No, en realidad no…"
+        "es-ES": "No, en realidad no..."
     },
     "3UdnAw": {
         "en-US": "Sure, I guess.",
@@ -1272,7 +1272,7 @@
     "3kdnAw": {
         "en-US": "[Mulberry]\nThat is too, too bad... Honey, you don't have much business sense.",
         "pt-BR": "[Amora]\nÉ uma pena... você não tem a mente de empreendedor.",
-        "es-ES": "[Mulberry]\nEso es muy, pero muy malo… Cariño, no tienes mucho olfato para los negocios."
+        "es-ES": "[Mulberry]\nEso es muy, pero muy malo... Cariño, no tienes mucho olfato para los negocios."
     },
     "30dnAw": {
         "en-US": "[Mulberry]\nIt is such a shame you don't recognize that this is a very, very good opportunity. If you change your mind, talk to me again.",
@@ -1287,7 +1287,7 @@
     "4UdnAw": {
         "en-US": "[Mulberry]\nAlright, so first of all... Let us see if there is absolutely no treasure left in the Shipwreck.",
         "pt-BR": "[Amora]\nBom, primeiramente... vamos ver se realmente não há nenhum tesouro deixado no Navio Fantasma.",
-        "es-ES": "[Mulberry]\nMuy bien, en primer lugar… Veamos si no queda absolutamente ningún tesoro en el barco hundido."
+        "es-ES": "[Mulberry]\nMuy bien, en primer lugar... Veamos si no queda absolutamente ningún tesoro en el barco hundido."
     },
     "4kdnAw": {
         "en-US": "Did you really think there was?!",
@@ -1297,7 +1297,7 @@
     "40dnAw": {
         "en-US": "[Mulberry]\nHmm, hmm, even if there is really no treasure... Maybe the Kukres who lived there for a long time swallowed a few Old Coins.",
         "pt-BR": "[Amora]\nUhum, o Kukre... pode ter comido os tesouros!!!",
-        "es-ES": "[Mulberry]\nMmm, incluso si realmente no hay ningún tesoro… Tal vez los Kukre que vivieron allí durante mucho tiempo se tragaron unas cuantas Monedas antiguas."
+        "es-ES": "[Mulberry]\nMmm, incluso si realmente no hay ningún tesoro... Tal vez los Kukre que vivieron allí durante mucho tiempo se tragaron unas cuantas Monedas antiguas."
     },
     "5EdnAw": {
         "en-US": "[Mulberry]\nIt is very, very possible, isn't it? Then go to the Shipwreck, kill some Kukres, and see what they have.",
@@ -1327,7 +1327,7 @@
     "6UdnAw": {
         "en-US": "[Mulberry]\nOh my... We should do business together! I make a plan, you carry it out, hmm.",
         "pt-BR": "[Amora]\nAh... Temos que fazer negócios juntos! Eu faço os planos e você os executa.",
-        "es-ES": "[Mulberry]\nVaya… ¡Deberíamos hacer negocios! Yo planifico y tú ejecutas, mmm."
+        "es-ES": "[Mulberry]\nVaya... ¡Deberíamos hacer negocios! Yo planifico y tú ejecutas, mmm."
     },
     "6kdnAw": {
         "en-US": "[Mulberry]\nYou are just very, very tired, aren't you? Let's talk again after a break, then.",
@@ -1377,7 +1377,7 @@
     "80dnAw": {
         "en-US": "Ohoho, how very, very dim-witted... I mean, hoho, how wishy-washy you are.",
         "pt-BR": "Ohohoho~... Que ignorância.",
-        "es-ES": "Jo, jo, jo, eres muy, pero muy poco vivaz… Es decir, jo, jo, qué poca determinación."
+        "es-ES": "Jo, jo, jo, eres muy, pero muy poco vivaz... Es decir, jo, jo, qué poca determinación."
     },
     "9EdnAw": {
         "en-US": "[Mulberry]\nHoney, you seem clueless. The core of any business is speed and accuracy.",
@@ -1402,27 +1402,27 @@
     "+EdnAw": {
         "en-US": "Hmm...",
         "pt-BR": "Hmm...",
-        "es-ES": "Mmm…"
+        "es-ES": "Mmm..."
     },
     "+UdnAw": {
         "en-US": "[Mulberry]\nHmm........",
         "pt-BR": "[Amora]\nHmm........",
-        "es-ES": "[Mulberry]\nMmm……"
+        "es-ES": "[Mulberry]\nMmm......"
     },
     "+kdnAw": {
         "en-US": "[Mulberry]\nHmm...............",
         "pt-BR": "[Amora]\nHmm...............",
-        "es-ES": "[Mulberry]\nMmm…………"
+        "es-ES": "[Mulberry]\nMmm............"
     },
     "+0dnAw": {
         "en-US": "[Mulberry]\nHmm...............\nThat won't do.\nWe need a special plan.",
         "pt-BR": "[Amora]\nHm............... \nNão pode ser.\nIsso requer tomar uma atitude drástica.",
-        "es-ES": "[Mulberry]\nMmm…………\nEso no servirá.\nNecesitamos un plan especial."
+        "es-ES": "[Mulberry]\nMmm............\nEso no servirá.\nNecesitamos un plan especial."
     },
     "/EdnAw": {
         "en-US": "[Mulberry]\nIf there is no treasure... we'll invent one.",
         "pt-BR": "[Amora]\nSe não houver um tesouro... vamos inventar um.",
-        "es-ES": "[Mulberry]\nSi no hay ningún tesoro… inventaremos uno."
+        "es-ES": "[Mulberry]\nSi no hay ningún tesoro... inventaremos uno."
     },
     "/UdnAw": {
         "en-US": "Invent one?",
@@ -1462,7 +1462,7 @@
     "BEhnAw": {
         "en-US": "I guess so...",
         "pt-BR": "Acho que sim...",
-        "es-ES": "Supongo que sí…"
+        "es-ES": "Supongo que sí..."
     },
     "BUhnAw": {
         "en-US": "[Mulberry]\nIf people work harder to explore it, won't they find the treasure faster?",
@@ -1472,7 +1472,7 @@
     "BkhnAw": {
         "en-US": "I guess... so?",
         "pt-BR": "Acho que sim... e?",
-        "es-ES": "¿Supongo… que sí?"
+        "es-ES": "¿Supongo... que sí?"
     },
     "B0hnAw": {
         "en-US": "[Mulberry]\nYes, indeed! It is very, very obvious. Alright, I'm counting on you!",
@@ -1487,7 +1487,7 @@
     "CUhnAw": {
         "en-US": "We... are...",
         "pt-BR": "Acho... que sim...",
-        "es-ES": "Lo… estamos…"
+        "es-ES": "Lo... estamos..."
     },
     "CkhnAw": {
         "en-US": "No, we shouldn't be in a shipwreck!",
@@ -1512,7 +1512,7 @@
     "DkhnAw": {
         "en-US": "......Oh my, honey, you cannot take a joke.\nHow boring.",
         "pt-BR": "...Oh, meu bem, isso é só uma piada.\nNão é de verdade.",
-        "es-ES": "…Ay, cariño, no aguantas una broma.\nQué aburrimiento."
+        "es-ES": "...Ay, cariño, no aguantas una broma.\nQué aburrimiento."
     },
     "D0hnAw": {
         "en-US": "[Mulberry]\nOh well, never mind. That is too, too bad, though.",
@@ -1527,7 +1527,7 @@
     "EUhnAw": {
         "en-US": "[Mulberry]\nDo you want to hide the coins... I mean, did you decide to go and plant motivation in there?",
         "pt-BR": "[Amora]\nVocê quer esconder as moedas... Quer dizer, você decidiu plantar motivação lá dentro?",
-        "es-ES": "[Mulberry]\n¿Quieres esconder las monedas…? Es decir, ¿decidiste ir y plantar motivación allí?"
+        "es-ES": "[Mulberry]\n¿Quieres esconder las monedas...? Es decir, ¿decidiste ir y plantar motivación allí?"
     },
     "EkhnAw": {
         "en-US": "[Mulberry]\nOh my, honey. Are you not done yet?\nBe very, very careful not to be caught by adventurers who have come to explore.",
@@ -1542,7 +1542,7 @@
     "FEhnAw": {
         "en-US": "No one, but something strange happened...",
         "pt-BR": "Ninguém, mas algo estranho aconteceu...",
-        "es-ES": "Nadie, pero ocurrió algo extraño…"
+        "es-ES": "Nadie, pero ocurrió algo extraño..."
     },
     "FUhnAw": {
         "en-US": "[Mulberry]\nSomething strange?",
@@ -1567,7 +1567,7 @@
     "GUhnAw": {
         "en-US": "[Mulberry]\nBut... I am afraid this is very, very hard for us to figure out for ourselves.",
         "pt-BR": "[Amora]\nMas... acho que vai ser muito difícil para descobrirmos sem ajuda.",
-        "es-ES": "[Mulberry]\nPero… Me temo que es muy, pero muy difícil que podamos descubrirlo."
+        "es-ES": "[Mulberry]\nPero... Me temo que es muy, pero muy difícil que podamos descubrirlo."
     },
     "GkhnAw": {
         "en-US": "[Mulberry]\nActually, there's one more person in this town who studies the Shipwreck.",
@@ -1577,7 +1577,7 @@
     "G0hnAw": {
         "en-US": "[Mulberry]\nHe is kind of weird... I am not sure if... you two would get along, honey...",
         "pt-BR": "[Amora]\nÉ uma pessoa especial... mas não tenho certeza se conseguiremos nos comunicar direito...",
-        "es-ES": "[Mulberry]\nEs un poco raro… No estoy segura de si… se llevarían bien, cariño…"
+        "es-ES": "[Mulberry]\nEs un poco raro... No estoy segura de si... se llevarían bien, cariño..."
     },
     "HEhnAw": {
         "en-US": "[Mulberry]\nAnyway, you can meet him on the island where the Shipwreck is.",
@@ -1597,7 +1597,7 @@
     "H0hnAw": {
         "en-US": "[Mulberry]\nHe is kind of a weird person, so I don't... Please just go there and meet him.",
         "pt-BR": "[Amora]\nEle é meio estranho, então eu não... Bem, vá até lá e o conheça.",
-        "es-ES": "[Mulberry]\nEs una persona un poco rara, así que yo no… Ve allí y reúnete con él."
+        "es-ES": "[Mulberry]\nEs una persona un poco rara, así que yo no... Ve allí y reúnete con él."
     },
     "IEhnAw": {
         "en-US": "[Mulberry]\nYou can probably find him on the island where the Shipwreck is.",
@@ -1607,7 +1607,7 @@
     "IUhnAw": {
         "en-US": "[Mulberry]\nGo to the front of the ship, and if he isn't there... Look around the ship. He might be walking around...",
         "pt-BR": "[Amora]\nVá para a frente do navio e, se ele não estiver lá... Olhe ao redor do navio. Ele pode estar andando por aí...",
-        "es-ES": "[Mulberry]\nVe al frente del barco y, si no está ahí… mira alrededor del barco. Podría estar caminando por ahí…"
+        "es-ES": "[Mulberry]\nVe al frente del barco y, si no está ahí... mira alrededor del barco. Podría estar caminando por ahí..."
     },
     "IkhnAw": {
         "en-US": "[Mulberry]\nDespite being a Shipwreck Researcher, he cannot go into the Shipwreck by himself. So he might be wandering around the area.",
@@ -1637,12 +1637,12 @@
     "J0hnAw": {
         "en-US": "[Mulberry]\nOh my, is that a real sword? This... is in very, very poor shape. It looks like a rusty club...",
         "pt-BR": "[Amora]\nNossa, isso é uma espada de verdade? Sério? Está tão enferrujada...",
-        "es-ES": "[Mulberry]\nVaya, ¿es una espada de verdad? Esto… está en muy, pero muy mal estado. Parece un palo oxidado…"
+        "es-ES": "[Mulberry]\nVaya, ¿es una espada de verdad? Esto... está en muy, pero muy mal estado. Parece un palo oxidado..."
     },
     "KEhnAw": {
         "en-US": "[Mulberry]\nYou have not solved the secret of that voice yet. Admiral's Sword, hmm... Is this good?\nIs this expensive?",
         "pt-BR": "[Amora]\nO segredo da voz ainda não foi desvendado. A Espada de um Almirante, hmm... interessante, hein?\nEssa espada vale quanto?",
-        "es-ES": "[Mulberry]\nAún no resolviste el secreto de esa voz. La Espada del almirante, mmm… ¿Es valiosa?\n¿Es cara?"
+        "es-ES": "[Mulberry]\nAún no resolviste el secreto de esa voz. La Espada del almirante, mmm... ¿Es valiosa?\n¿Es cara?"
     },
     "KUhnAw": {
         "en-US": "It's in such a sorry state that it's hardly worth anything.",
@@ -1652,7 +1652,7 @@
     "KkhnAw": {
         "en-US": "[Mulberry]\nHmm... I see. Can I pull it out?",
         "pt-BR": "[Amora]\nHmm... entendo. Posso pegar nela?",
-        "es-ES": "[Mulberry]\nMmm… Ya veo. ¿Puedo sacarla?"
+        "es-ES": "[Mulberry]\nMmm... Ya veo. ¿Puedo sacarla?"
     },
     "K0hnAw": {
         "en-US": "- Swish! -",
@@ -1687,22 +1687,22 @@
     "MUhnAw": {
         "en-US": "Oh my... That is a bit strange.",
         "pt-BR": "Hmm... pensando bem...",
-        "es-ES": "Vaya… Eso es un poco extraño."
+        "es-ES": "Vaya... Eso es un poco extraño."
     },
     "MkhnAw": {
         "en-US": "Hmm......",
         "pt-BR": "Hmm......",
-        "es-ES": "Mmm…"
+        "es-ES": "Mmm..."
     },
     "M0hnAw": {
         "en-US": "[Mulberry]\nHoney, you feel the same, right?\nThat ghost... It is a ghost, right? He thinks he is still the Admiral.",
         "pt-BR": "[Amora]\nMeu bem, você é um fantasma, não é?\nVocê... ainda pensa que é um Almirante.",
-        "es-ES": "[Mulberry]\nCariño, tú sientes lo mismo, ¿verdad?\nEse fantasma… Es un fantasma, ¿verdad? Cree que sigue siendo el almirante."
+        "es-ES": "[Mulberry]\nCariño, tú sientes lo mismo, ¿verdad?\nEse fantasma... Es un fantasma, ¿verdad? Cree que sigue siendo el almirante."
     },
     "NEhnAw": {
         "en-US": "Hmm, I think he could be useful to us...",
         "pt-BR": "Hmm, acho que posso cobrar mais caro...",
-        "es-ES": "Mmm, creo que podría sernos útil…"
+        "es-ES": "Mmm, creo que podría sernos útil..."
     },
     "NUhnAw": {
         "en-US": "Useful?",
@@ -1722,17 +1722,17 @@
     "OEhnAw": {
         "en-US": "[Drake's Ghost]\nWha... What?\nThen why did you scurvy dogs hide gold in my ship?",
         "pt-BR": "[Fantasma do Drake]\nO quê?\nEntão, por que você escondeu ouro ou algo assim no meu navio?",
-        "es-ES": "[Fantasma de Drake]\n¿Qué…? ¿Qué?\nEntonces, perros de agua dulce, ¿por qué escondieron oro en mi barco?"
+        "es-ES": "[Fantasma de Drake]\n¿Qué...? ¿Qué?\nEntonces, perros de agua dulce, ¿por qué escondieron oro en mi barco?"
     },
     "OUhnAw": {
         "en-US": "W-Well... So...\nYes! It was meant to attract those greedy, greedy pirates!",
         "pt-BR": "Ah... foi... é...\nSim! Foi para atrair os piratas que eram tão gananciosos!",
-        "es-ES": "B-bueno… Es que…\n¡Sí! ¡Era para atraer a esos piratas tan, pero tan avaros!"
+        "es-ES": "B-bueno... Es que...\n¡Sí! ¡Era para atraer a esos piratas tan, pero tan avaros!"
     },
     "OkhnAw": {
         "en-US": "[Mulberry]\nIf you saw someone hiding the coins... Well! You must have seen that person luring and defeating the very, very evil pirates as well!",
         "pt-BR": "[Amora]\nViu como os aventureiros escondem moedas... Aí....é... Você não viu eles lutando contra aqueles piratas?!",
-        "es-ES": "[Mulberry]\nSi viste a alguien escondiendo las monedas… ¡Bueno! ¡Seguro viste a esa persona atraer y derrotar a esos piratas tan, pero tan malvados!"
+        "es-ES": "[Mulberry]\nSi viste a alguien escondiendo las monedas... ¡Bueno! ¡Seguro viste a esa persona atraer y derrotar a esos piratas tan, pero tan malvados!"
     },
     "O0hnAw": {
         "en-US": "You killed some Pirate Skeletons while hiding the coins, didn't you?",
@@ -1742,22 +1742,22 @@
     "PEhnAw": {
         "en-US": "Well, I did, but...",
         "pt-BR": "Bem, sim, mas...",
-        "es-ES": "Bueno, sí, pero…"
+        "es-ES": "Bueno, sí, pero..."
     },
     "PUhnAw": {
         "en-US": "[Drake's Ghost]\nCome to think of it, that could be true...",
         "pt-BR": "[Fantasma do Drake]\nPensando bem, é verdade...",
-        "es-ES": "[Fantasma de Drake]\nAhora que lo pienso, puede que sea verdad…"
+        "es-ES": "[Fantasma de Drake]\nAhora que lo pienso, puede que sea verdad..."
     },
     "PkhnAw": {
         "en-US": "[Mulberry]\nOh, great Pirate... I mean, oh great Admiral Drake, we did such a thing because we could not help but feel sorry for you who could not rest in peace!",
         "pt-BR": "[Amora]\nLamentamos a invasão dos piratas... O Grande Almirante Drake está descansando, por isso chamamos aventureiros!",
-        "es-ES": "[Mulberry]\nOh, gran pirata… Es decir… ¡oh, gran almirante Drake, hicimos eso porque nos daba lástima que no pudieras descansar en paz!"
+        "es-ES": "[Mulberry]\nOh, gran pirata... Es decir... ¡oh, gran almirante Drake, hicimos eso porque nos daba lástima que no pudieras descansar en paz!"
     },
     "P0hnAw": {
         "en-US": "....You're good at crafting stories.",
         "pt-BR": "...Você faz bons discursos.",
-        "es-ES": "…Se te da bien inventar historias."
+        "es-ES": "...Se te da bien inventar historias."
     },
     "QEhnAw": {
         "en-US": "Shh! That one almost fooled him.",
@@ -1767,17 +1767,17 @@
     "QUhnAw": {
         "en-US": "[Drake's Ghost]\nHmm......",
         "pt-BR": "[Fantasma do Drake]\nHum...",
-        "es-ES": "[Fantasma de Drake]\nMmm…"
+        "es-ES": "[Fantasma de Drake]\nMmm..."
     },
     "QkhnAw": {
         "en-US": "Is that so... It looks like I misunderstood you two.\nI shall tell His Majesty of your contributions.",
         "pt-BR": "Acho... acho que foi um mal-entendido.\nVou contar ao rei sobre suas realizações e homenageá-la.",
-        "es-ES": "¿De verdad…? Parece que entendí mal.\nLe informaré a Su Majestad de sus contribuciones."
+        "es-ES": "¿De verdad...? Parece que entendí mal.\nLe informaré a Su Majestad de sus contribuciones."
     },
     "Q0hnAw": {
         "en-US": "[Drake's Ghost]\nAlso... could you help me find peace?",
         "pt-BR": "[Fantasma do Drake]\nEntão... você pode me ajudar para me fazer descansar novamente?",
-        "es-ES": "[Fantasma de Drake]\nAdemás… ¿podrían ayudarme a encontrar la paz?"
+        "es-ES": "[Fantasma de Drake]\nAdemás... ¿podrían ayudarme a encontrar la paz?"
     },
     "REhnAw": {
         "en-US": "Of course.",
@@ -1787,12 +1787,12 @@
     "RUhnAw": {
         "en-US": "...That's a bit annoying...",
         "pt-BR": "Isso é um pouco chato...",
-        "es-ES": "Eso es una molestia…"
+        "es-ES": "Eso es una molestia..."
     },
     "RkhnAw": {
         "en-US": "[Drake's Ghost]\nGood... Thank you. It should not be difficult for you.",
         "pt-BR": "[Fantasma do Drake]\nOk... Obrigado. Não vai ser difícil para vocês.",
-        "es-ES": "[Fantasma de Drake]\nBien… Gracias. No debería resultarles difícil."
+        "es-ES": "[Fantasma de Drake]\nBien... Gracias. No debería resultarles difícil."
     },
     "R0hnAw": {
         "en-US": "Hey! Do you want to end your life now?!",
@@ -1807,7 +1807,7 @@
     "SUhnAw": {
         "en-US": "[Drake's Ghost]\nHmm... Alright. It should not be difficult for you.",
         "pt-BR": "[Fantasma do Drake]\nHmm... sim. Não deve ser difícil para vocês.",
-        "es-ES": "[Fantasma de Drake]\nMmm… De acuerdo. No debería resultarles difícil."
+        "es-ES": "[Fantasma de Drake]\nMmm... De acuerdo. No debería resultarles difícil."
     },
     "SkhnAw": {
         "en-US": "[Drake's Ghost]\nAs you know, since my ship was wrecked, it lured pirates and filthy monsters who ran rampant.",
@@ -1817,7 +1817,7 @@
     "S0hnAw": {
         "en-US": "[Drake's Ghost]\nIt is regrettable that I was unable to fulfill my duties as the Admiral of the Rune Midgard Navy before I died, but...",
         "pt-BR": "[Fantasma do Drake]\nÉ lamentável que eu tenha morrido sem cumprir minha missão como almirante de Rune-Midgard...",
-        "es-ES": "[Fantasma de Drake]\nEs lamentable que no haya podido cumplir mis deberes como almirante de la Armada de Rune-Midgard antes de morir, pero…"
+        "es-ES": "[Fantasma de Drake]\nEs lamentable que no haya podido cumplir mis deberes como almirante de la Armada de Rune-Midgard antes de morir, pero..."
     },
     "TEhnAw": {
         "en-US": "[Drake's Ghost]\nI cannot rest in peace as long as a ship bestowed from the state is neglected like this.\nWould you clear away the filthy scallywags from my ship?",
@@ -1827,7 +1827,7 @@
     "TUhnAw": {
         "en-US": "[Mulberry]\nOf course! By all means! We would very, very much love to do it!\nUh, but...",
         "pt-BR": "[Amora]\nSim! Tanto quanto você quiser! Eu realmente quero fazer isso!\nM-mas...",
-        "es-ES": "[Mulberry]\n¡Por supuesto! ¡Cueste lo que cueste! ¡Nos encantaría mucho, pero mucho hacerlo!\nEh, pero…"
+        "es-ES": "[Mulberry]\n¡Por supuesto! ¡Cueste lo que cueste! ¡Nos encantaría mucho, pero mucho hacerlo!\nEh, pero..."
     },
     "TkhnAw": {
         "en-US": "[Drake's Ghost]\nWhat is it?",
@@ -1837,12 +1837,12 @@
     "T0hnAw": {
         "en-US": "[Mulberry]\nIt might be a tiny, tiny bit overwhelming for the two of us...\nIf you don't mind, can we do it with the help of our very, very earnest adventurers?",
         "pt-BR": "[Amora]\nPode ser um pouco assustador para uma dama como eu...\nSe você não se importa, posso recrutar aventureiros para esse trabalho?",
-        "es-ES": "[Mulberry]\nPodría ser tan solo un poco abrumador para solo dos personas…\nSi no te importa, ¿podemos hacerlo con la ayuda de nuestros muy, pero muy honestos trotamundos?"
+        "es-ES": "[Mulberry]\nPodría ser tan solo un poco abrumador para solo dos personas...\nSi no te importa, ¿podemos hacerlo con la ayuda de nuestros muy, pero muy honestos trotamundos?"
     },
     "UEhnAw": {
         "en-US": "[Drake's Ghost]\nHmm... That would be fine.\nGood... Then I will return to my ship and trust you two.",
         "pt-BR": "[Fantasma do Drake]\nHmm... tudo bem.\nOk... confio em você... Agora, retornarei ao meu descanso.",
-        "es-ES": "[Fantasma de Drake]\nMmm… Sería bueno.\nBien… Entonces, volveré a mi nave y confiaré en ustedes."
+        "es-ES": "[Fantasma de Drake]\nMmm... Sería bueno.\nBien... Entonces, volveré a mi nave y confiaré en ustedes."
     },
     "UUhnAw": {
         "en-US": "[Mulberry]\nOh my, yes! Good! Rest well! Sleep tight!",
@@ -1852,12 +1852,12 @@
     "UkhnAw": {
         "en-US": "[Mulberry]\n......Phew......",
         "pt-BR": "[Amora]\n......Ufa......",
-        "es-ES": "[Mulberry]\nFiu…"
+        "es-ES": "[Mulberry]\nFiu..."
     },
     "U0hnAw": {
         "en-US": "[Mulberry]\n............He's gone............",
         "pt-BR": "[Amora]\n............Isso foi............",
-        "es-ES": "[Mulberry]\nSe fue…"
+        "es-ES": "[Mulberry]\nSe fue..."
     },
     "VEhnAw": {
         "en-US": "[Mulberry]\nThat was fantastic! That was truly very, very incredible!",
@@ -1882,7 +1882,7 @@
     "WEhnAw": {
         "en-US": "[Mulberry]\nIf he realizes that he is a real pirate, while the Shipwreck is so close to town...",
         "pt-BR": "[Amora]\nDá para atrair bastante gente. O navio está tão perto da cidade...",
-        "es-ES": "[Mulberry]\nSi se da cuenta de que, en realidad, es un pirata, y mientras el barco hundido está tan cerca de la ciudad…"
+        "es-ES": "[Mulberry]\nSi se da cuenta de que, en realidad, es un pirata, y mientras el barco hundido está tan cerca de la ciudad..."
     },
     "WUhnAw": {
         "en-US": "[Mulberry]\nAll hell would break loose, wouldn't it? I just told a white lie.",
@@ -1892,7 +1892,7 @@
     "WkhnAw": {
         "en-US": "Hmm...",
         "pt-BR": "Hmm...",
-        "es-ES": "Mmm…"
+        "es-ES": "Mmm..."
     },
     "W0hnAw": {
         "en-US": "So, what's your real goal?",
@@ -1927,7 +1927,7 @@
     "YUhnAw": {
         "en-US": "[Mulberry]\nThat promise to the ghost... We can fulfill it later.\nNow, I am busy. Come back again later!",
         "pt-BR": "[Amora]\nUma promessa com um fantasma... eu preciso pensar em um slogan.\nAgora, com licença, estou ocupada. Volte mais tarde!",
-        "es-ES": "[Mulberry]\nLa promesa que le hicimos al fantasma… podemos cumplirla después.\nAhora estoy ocupada. ¡Regresa después!"
+        "es-ES": "[Mulberry]\nLa promesa que le hicimos al fantasma... podemos cumplirla después.\nAhora estoy ocupada. ¡Regresa después!"
     },
     "YkhnAw": {
         "en-US": "[Mulberry]\nWhat happened? What did he say?",
@@ -1942,17 +1942,17 @@
     "ZEhnAw": {
         "en-US": "[Mulberry]\n......Who?",
         "pt-BR": "[Amora]\n......Quem?",
-        "es-ES": "[Mulberry]\n…¿Quién?"
+        "es-ES": "[Mulberry]\n...¿Quién?"
     },
     "ZUhnAw": {
         "en-US": "......",
         "pt-BR": "......",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "ZkhnAw": {
         "en-US": "[Mulberry]\nHmm... I'm too busy now. Can you come back after dawn?",
         "pt-BR": "[Amora]\nHmm... Estou muito ocupada agora. Você pode voltar depois do amanhecer?",
-        "es-ES": "[Mulberry]\nMmm… Ahora, estoy demasiado ocupada. ¿Puedes volver después del amanecer?"
+        "es-ES": "[Mulberry]\nMmm... Ahora, estoy demasiado ocupada. ¿Puedes volver después del amanecer?"
     },
     "Z0hnAw": {
         "en-US": "[Mulberry]\nOhoho! That was a joke. What is wrong with me? I almost forgot that you were coming because I was very, very busy.",
@@ -1992,7 +1992,7 @@
     "bkhnAw": {
         "en-US": "[Mulberry]\nLet's see... Killing Kukres, hmm. You'll only need to complete this once a day.",
         "pt-BR": "[Amora]\nVamos ver... Kukre. Uma vez por dia é o suficiente.",
-        "es-ES": "[Mulberry]\nVeamos… Matar Kukre, mmm. Solo tendrás que hacerlo una vez al día."
+        "es-ES": "[Mulberry]\nVeamos... Matar Kukre, mmm. Solo tendrás que hacerlo una vez al día."
     },
     "b0hnAw": {
         "en-US": "[Mulberry]\nIf there is no treasure, catching vermin won't be much more fun than being in an empty ship.",
@@ -2037,17 +2037,17 @@
     "d0hnAw": {
         "en-US": "[Mulberry]\nLet's see... Was there any treasure?",
         "pt-BR": "[Amora]\nVejamos... Havia um tesouro?",
-        "es-ES": "[Mulberry]\nVeamos… ¿Encontraste algún tesoro?"
+        "es-ES": "[Mulberry]\nVeamos... ¿Encontraste algún tesoro?"
     },
     "eEhnAw": {
         "en-US": "......Of course... there wasn't any...",
         "pt-BR": "...Não havia...",
-        "es-ES": "Claro que… no había nada…"
+        "es-ES": "Claro que... no había nada..."
     },
     "eUhnAw": {
         "en-US": "[Mulberry]\nHmm, that is too, too bad... But you did a fabulous job. I'll see you again tomorrow.",
         "pt-BR": "[Amora]\nHmm, é muito, muito triste... Mas você fez um trabalho muito, muito bom. Por favor, volte amanhã também.",
-        "es-ES": "[Mulberry]\nMmm, eso es muy, pero muy malo… Pero hiciste un trabajo fabuloso. Hasta mañana."
+        "es-ES": "[Mulberry]\nMmm, eso es muy, pero muy malo... Pero hiciste un trabajo fabuloso. Hasta mañana."
     },
     "ekhnAw": {
         "en-US": "[Mulberry]\nYou know, let's plant MOTIVATION only once a day.",
@@ -2122,7 +2122,7 @@
     "iEhnAw": {
         "en-US": "[Mulberry]\nHmm... You only need to clean out 1F once a day. Even the ghost would be satisfied with that.",
         "pt-BR": "[Amora]\nHmm... Você só precisa limpar o 1º andar uma vez por dia. Até o fantasma ficaria satisfeito com isso.",
-        "es-ES": "[Mulberry]\nMmm… Solo tienes que limpiar el piso1 una vez al día. Incluso el fantasma estaría satisfecho con eso."
+        "es-ES": "[Mulberry]\nMmm... Solo tienes que limpiar el piso1 una vez al día. Incluso el fantasma estaría satisfecho con eso."
     },
     "iUhnAw": {
         "en-US": "[Mulberry]\nWouldn't he? So, please come back again tomorrow.",
@@ -2182,7 +2182,7 @@
     "lEhnAw": {
         "en-US": "[Mulberry]\nHmm... You only need to clean 2F once a day. Even the ghost would be satisfied with that.",
         "pt-BR": "[Amora]\nHmm... Você só precisa limpar o 2º andar uma vez por dia. Até o fantasma ficaria satisfeito com isso.",
-        "es-ES": "[Mulberry]\nMmm… Solo tienes que limpiar el piso2 una vez al día. Incluso el fantasma estaría satisfecho con eso."
+        "es-ES": "[Mulberry]\nMmm... Solo tienes que limpiar el piso2 una vez al día. Incluso el fantasma estaría satisfecho con eso."
     },
     "lUhnAw": {
         "en-US": "[Mulberry]\n The second floor should be clean to satisfy the ghost, right? Kill ^4D4DFF10 Whispers and 1 Swift Pirate Skeleton at Shipwreck 2F^000000.",
@@ -2197,7 +2197,7 @@
     "l0hnAw": {
         "en-US": "[Mulberry]\nOh my, honey! You know we are busy. If you do it every day, it's win-win for both of us...",
         "pt-BR": "[Amora]\nOh, meu bem! Você sabe que sou muito ocupada. Se você fizer isso todos os dias, eu vou ficar feliz e você vai ficar feliz também...",
-        "es-ES": "[Mulberry]\n¡Vaya, cariño! Sabes que tenemos mucho que hacer. Si lo haces todos los días, saldremos ganando…"
+        "es-ES": "[Mulberry]\n¡Vaya, cariño! Sabes que tenemos mucho que hacer. Si lo haces todos los días, saldremos ganando..."
     },
     "mEhnAw": {
         "en-US": "[Mulberry]\nIf you are exhausted, then get some rest for a while and come back to do it again. Understand?",
@@ -2217,17 +2217,17 @@
     "m0hnAw": {
         "en-US": "Sigh... The Shipwreck... So magnificent. She must be filled with treasure and pirate ghosts trying to protect it. How romantic...",
         "pt-BR": "Hmmm... O Navio Fantasma... é tão legal. Dentro deve estar cheio de tesouros e fantasmas de piratas tentando protegê-los. Romântico...",
-        "es-ES": "*Suspira…* El barco hundido… es tan magnífico. Debe estar lleno de tesoros y piratas fantasmas que intentan protegerlo. Qué romántico…"
+        "es-ES": "*Suspira...* El barco hundido... es tan magnífico. Debe estar lleno de tesoros y piratas fantasmas que intentan protegerlo. Qué romántico..."
     },
     "nEhnAw": {
         "en-US": "[Aspa]\nAnyway, are you also an adventurer? Is that why you came to the Shipwreck? When you get back, tell me about it.\nWhat is in there, how it smells, how it tastes, what happened in there... I want to know everything.",
         "pt-BR": "[Aspar]\nVocê veio visitar o navio também? Me conte o que você descobriu lá dentro.\nQuero saber o que é, que cheiro tem, que sabor tem, o que aconteceu... tudo.",
-        "es-ES": "[Aspa]\nEn fin, ¿tú también eres trotamundos? ¿Por eso viniste al barco hundido? Cuando vuelvas, cuéntamelo todo.\nQué hay adentro, cómo huele, cómo sabe, qué pasó… Quiero saberlo todo."
+        "es-ES": "[Aspa]\nEn fin, ¿tú también eres trotamundos? ¿Por eso viniste al barco hundido? Cuando vuelvas, cuéntamelo todo.\nQué hay adentro, cómo huele, cómo sabe, qué pasó... Quiero saberlo todo."
     },
     "nUhnAw": {
         "en-US": "[Aspa]\nYou want me to go in there and find out myself? I... I've got a situation!",
         "pt-BR": "[Aspar]\nEu não tenho como entrar lá, sabe? Eu... e-eu tenho alguns problemas!",
-        "es-ES": "[Aspa]\n¿Quieres que entre y lo averigüe yo mismo? Yo… ¡tengo un problema!"
+        "es-ES": "[Aspa]\n¿Quieres que entre y lo averigüe yo mismo? Yo... ¡tengo un problema!"
     },
     "nkhnAw": {
         "en-US": "Why are you so curious about someone else's situation?\nJust trust me.",
@@ -2237,7 +2237,7 @@
     "n0hnAw": {
         "en-US": "[Aspa]\nSigh... The Shipwreck... So magnificent...\nHmm? Who's this snooping around in front of me? You are blocking my view of the Shipwreck, so get out of the way.",
         "pt-BR": "[Aspar]\nHmm... O navio naufragado... que legal...\nOi? Você está me encarando?",
-        "es-ES": "[Aspa]\n*Suspira…* El barco hundido… es tan magnífico…\n¿Mmm? ¿Quién está husmeando delante de mí? Me estás tapando la vista del barco hundido, así que apártate."
+        "es-ES": "[Aspa]\n*Suspira...* El barco hundido... es tan magnífico...\n¿Mmm? ¿Quién está husmeando delante de mí? Me estás tapando la vista del barco hundido, así que apártate."
     },
     "oEhnAw": {
         "en-US": "I came here because Ms. Mulberry told me about you.",
@@ -2252,7 +2252,7 @@
     "okhnAw": {
         "en-US": "[Aspa]\nHmm? Mulberry? Why would she do that? She doesn't usually talk to me...",
         "pt-BR": "[Aspar]\nHã? Amora? O que houve com a minha irmã? Ela geralmente não fala comigo...",
-        "es-ES": "[Aspa]\n¿Mmm? ¿Mulberry? ¿Por qué haría eso? No suele hablar conmigo…"
+        "es-ES": "[Aspa]\n¿Mmm? ¿Mulberry? ¿Por qué haría eso? No suele hablar conmigo..."
     },
     "o0hnAw": {
         "en-US": "Something strange happened to me in the Shipwreck.",
@@ -2297,7 +2297,7 @@
     "q0hnAw": {
         "en-US": "[Aspa]\nHmm... Perhaps the captain is clinging to this world because he had some problem with his men.\nBut even so, it sounds a little weird. Sounds like he is denying that he's a pirate.",
         "pt-BR": "[Aspar]\nHmm... Talvez o capitão ainda esteja preso a este mundo por algum conflito com sua tripulação.\nMas, mesmo assim, há algo estranho. Ele parece recusar-se a aceitar que ele é um pirata.",
-        "es-ES": "[Aspa]\nMmm… Quizá el capitán se aferra a este mundo porque tuvo algún problema con su tripulación.\nPero aun así, suena un poco raro. Parece que negara que es un pirata."
+        "es-ES": "[Aspa]\nMmm... Quizá el capitán se aferra a este mundo porque tuvo algún problema con su tripulación.\nPero aun así, suena un poco raro. Parece que negara que es un pirata."
     },
     "rEhnAw": {
         "en-US": "[Aspa]\nAh! I'm excited! What in the world happened in that ship? I'm curious!\nI want to know! I'm so, so curious that I can't stand it!",
@@ -2317,7 +2317,7 @@
     "r0hnAw": {
         "en-US": "[Aspa]\nI... Hmm, hmm. As you can see, I am a brainy type, so getting in there is a little...",
         "pt-BR": "[Aspar]\nEu sou... er.... como você pode ver um pesquisador fraquinho...",
-        "es-ES": "[Aspa]\nYo… Mmm, mmm. Como puedes ver, soy un cerebrito, así que entrar ahí es un poco…"
+        "es-ES": "[Aspa]\nYo... Mmm, mmm. Como puedes ver, soy un cerebrito, así que entrar ahí es un poco..."
     },
     "sEhnAw": {
         "en-US": "[Aspa]\nWhile you are there, I'll look for any documents related to the Shipwreck.",
@@ -2327,12 +2327,12 @@
     "sUhnAw": {
         "en-US": "[Aspa]\nSearch the floors of the Shipwreck thoroughly! Also, if you see anything suspicious, please bring it here.\nVery, very thoroughly... Haha...",
         "pt-BR": "[Aspar]\nDê uma boa olhada nos destroços!\nE se vir algo suspeito, traga para mim...",
-        "es-ES": "[Aspa]\n¡Explora a fondo los pisos del barco hundido! Además, si ves algo sospechoso, tráelo.\nMuy a fondo… Ja, ja…"
+        "es-ES": "[Aspa]\n¡Explora a fondo los pisos del barco hundido! Además, si ves algo sospechoso, tráelo.\nMuy a fondo... Ja, ja..."
     },
     "skhnAw": {
         "en-US": "[Aspa]\nEven if it's just an unusual shell, be sure to bring it here. If it's something from the Shipwreck...",
         "pt-BR": "[Aspar]\nMesmo que seja apenas uma concha diferente, não deixe de trazê-la aqui. Se for algo do Navio Fantasma...",
-        "es-ES": "[Aspa]\nAunque solo sea una caracola inusual, no olvides traerla aquí. Si es algo del barco hundido…"
+        "es-ES": "[Aspa]\nAunque solo sea una caracola inusual, no olvides traerla aquí. Si es algo del barco hundido..."
     },
     "s0hnAw": {
         "en-US": "[Aspa]\nOh, right! If you find anything, please handle it carefully.\nEven if it looks old, it might be a valuable relic. It could also be dangerous if you handle it carelessly.",
@@ -2347,7 +2347,7 @@
     "tUhnAw": {
         "en-US": "[Aspa]\nBut I am a brainy type....\nI love the Shipwreck so much, but I can't get in... Haa...",
         "pt-BR": "[Aspar]\nMas eu sou só um estudioso....\nEu gosto tanto do Navio Fantasma, mas não consigo entrar... Haa...",
-        "es-ES": "[Aspa]\nPero soy un cerebrito…\nMe encanta el barco hundido, pero no puedo entrar… Jaa…"
+        "es-ES": "[Aspa]\nPero soy un cerebrito...\nMe encanta el barco hundido, pero no puedo entrar... Jaa..."
     },
     "tkhnAw": {
         "en-US": "[Aspa]\nHmm, hmm. Oh well.\nI'll look for the documents here, so can you search throughout the Shipwreck?",
@@ -2382,22 +2382,22 @@
     "vEhnAw": {
         "en-US": "[Aspa]\nFabulous! I can't believe this. It must have been hard to find, but you did well. Ah... The traces of the long years... So ecstatic!",
         "pt-BR": "[Aspar]\nIncrível! Deve ter sido difícil de encontrar. Aah... vestígios depois de tantos anos... que encantador!",
-        "es-ES": "[Aspa]\n¡Fabuloso! No puedo creerlo. Debe haber sido difícil de encontrar, pero lo hiciste bien. Ah… Los vestigios de largos años… ¡Qué extasiante!"
+        "es-ES": "[Aspa]\n¡Fabuloso! No puedo creerlo. Debe haber sido difícil de encontrar, pero lo hiciste bien. Ah... Los vestigios de largos años... ¡Qué extasiante!"
     },
     "vUhnAw": {
         "en-US": "[Aspa]\nStroke, stroke... Tinker, tinker...\nSigh, guess I have to pull it out carefully so that it doesn't break....\nClick, click... Sniff, sniff... Lick, lick...",
         "pt-BR": "[Aspar]\n*acaricia* \n*cheira* \n*lambe*",
-        "es-ES": "[Aspa]\n*Toc, toc…* *Tin, tin…*\nUf, supongo que tengo que sacarla con cuidado para que no se rompa…\n*Clic, clic…* *Snif, snif…* *Chup, chup…*"
+        "es-ES": "[Aspa]\n*Toc, toc...* *Tin, tin...*\nUf, supongo que tengo que sacarla con cuidado para que no se rompa...\n*Clic, clic...* *Snif, snif...* *Chup, chup...*"
     },
     "vkhnAw": {
         "en-US": "...What on Earth is he doing...",
         "pt-BR": "...O que tu tá fazendo...?",
-        "es-ES": "¿Qué demonios está haciendo…?"
+        "es-ES": "¿Qué demonios está haciendo...?"
     },
     "v0hnAw": {
         "en-US": "[Aspa]\nCompare this to the document I found... It's too rusty to recognize it, but here... Can you see that unique shape on the handle?",
         "pt-BR": "[Aspar]\nComparando com os dados que pesquisei. Está tão enferrujada que é difícil de analisar, mas veja... Vê a forma incomum no cabo?",
-        "es-ES": "[Aspa]\nCompara esto con el documento que encontré… Está demasiado oxidada para reconocerla, pero aquí… ¿Puedes ver esa forma única en el mango?"
+        "es-ES": "[Aspa]\nCompara esto con el documento que encontré... Está demasiado oxidada para reconocerla, pero aquí... ¿Puedes ver esa forma única en el mango?"
     },
     "wEhnAw": {
         "en-US": "[Aspa]\nThis is the sword of Rune Midgard's former Admiral!",
@@ -2422,7 +2422,7 @@
     "xEhnAw": {
         "en-US": "Oh, I see...",
         "pt-BR": "Ah, sei...",
-        "es-ES": "Ah, ya veo…"
+        "es-ES": "Ah, ya veo..."
     },
     "xUhnAw": {
         "en-US": "[Aspa]\nThis is a jeweled sword bestowed by the King when a new Admiral is appointed. It's very valuable!",
@@ -2457,7 +2457,7 @@
     "y0hnAw": {
         "en-US": "[Aspa]\nIt's definitely expensive!\n......I wish I could say that...",
         "pt-BR": "[Aspar]\nNão tem preço!\nQuer dizer...",
-        "es-ES": "[Aspa]\n¡Sin duda es cara!\nOjalá pudiera decir eso…"
+        "es-ES": "[Aspa]\n¡Sin duda es cara!\nOjalá pudiera decir eso..."
     },
     "zEhnAw": {
         "en-US": "[Aspa]\nIt used to be really expensive. Its historical value is priceless.",
@@ -2477,17 +2477,17 @@
     "z0hnAw": {
         "en-US": "[Aspa]\nYes! Isn't it magnificent? Sigh... Thank you so much. I'm ecstatic...",
         "pt-BR": "[Aspar]\nSim! Não é magnífico? Ai... Agradeço muito. Estou em êxtase...",
-        "es-ES": "[Aspa]\n¡Sí! ¿No es magnífica? *Suspira…* Muchas gracias. Estoy extasiado…"
+        "es-ES": "[Aspa]\n¡Sí! ¿No es magnífica? *Suspira...* Muchas gracias. Estoy extasiado..."
     },
     "0EhnAw": {
         "en-US": "[Aspa]\nBut now I have some new questions...",
         "pt-BR": "[Aspar]\nMas agora eu tenho algumas novas perguntas...",
-        "es-ES": "[Aspa]\nPero ahora tengo más preguntas…"
+        "es-ES": "[Aspa]\nPero ahora tengo más preguntas..."
     },
     "0UhnAw": {
         "en-US": "[Aspa]\nEven though he was an Admiral in the past, it doesn't change the fact that he was a pirate when he died...",
         "pt-BR": "[Aspar]\nMesmo que Drake tenha sido um almirante no passado, não muda o fato de que ele era um pirata quando morreu...",
-        "es-ES": "[Aspa]\nAunque fuera almirante en el pasado, eso no cambia el hecho de que murió siendo pirata…"
+        "es-ES": "[Aspa]\nAunque fuera almirante en el pasado, eso no cambia el hecho de que murió siendo pirata..."
     },
     "0khnAw": {
         "en-US": "[Aspa]\nSo why did that voice imply that he wasn't a pirate?",
@@ -2497,12 +2497,12 @@
     "00hnAw": {
         "en-US": "[Aspa]\nHe said it was his ship, so he is certainly the ship's captain...",
         "pt-BR": "[Aspar]\nVisto que ele disse que o navio era seu, está claro que ele deveria ser o capitão do navio...",
-        "es-ES": "[Aspa]\nDijo que era su barco, así que sin duda es el capitán del barco…"
+        "es-ES": "[Aspa]\nDijo que era su barco, así que sin duda es el capitán del barco..."
     },
     "1EhnAw": {
         "en-US": "[Aspa]\n......I'll continue to search for historical records and tell you when I find out something new.",
         "pt-BR": "[Aspar]\n...Continuarei a procurar registros históricos sobre essa situação e, se descobrir algo novo, avisarei.",
-        "es-ES": "[Aspa]\n…Seguiré buscando registros históricos y te avisaré cuando descubra algo nuevo."
+        "es-ES": "[Aspa]\n...Seguiré buscando registros históricos y te avisaré cuando descubra algo nuevo."
     },
     "1UhnAw": {
         "en-US": "[Aspa]\nFor now, you'd better tell Ms. Mulberry what you've learned so far. She is really impatient.",
@@ -2512,17 +2512,17 @@
     "1khnAw": {
         "en-US": "[Aspa]\nIt'd be awkward if I go there.... Can you go there instead?",
         "pt-BR": "[Aspar]\nAcho que seria estranho se eu fosse... Você poderia ir, viajante?",
-        "es-ES": "[Aspa]\nSería incómodo si fuera yo… ¿Puedes ir en mi lugar?"
+        "es-ES": "[Aspa]\nSería incómodo si fuera yo... ¿Puedes ir en mi lugar?"
     },
     "10hnAw": {
         "en-US": "[Aspa]\nThe Admiral's Sword... Ugh... It's a shame... It's such a shame... Can... Can you show it to her and bring it back here?",
         "pt-BR": "[Aspar]\nA Espada do Almirante... ah... Que tesouro... Que desperdício... Você pode mostrá-la para ela e trazê-la de volta?",
-        "es-ES": "[Aspa]\nLa Espada del almirante… Uf… Es una pena… Es una verdadera pena… ¿Puedes…? ¿Puedes mostrársela y traerla de vuelta?"
+        "es-ES": "[Aspa]\nLa Espada del almirante... Uf... Es una pena... Es una verdadera pena... ¿Puedes...? ¿Puedes mostrársela y traerla de vuelta?"
     },
     "2EhnAw": {
         "en-US": "[Aspa]\nIf you can't, it can't be helped...",
         "pt-BR": "[Aspar]\nSe você não conseguir, não consigo ajudar...",
-        "es-ES": "[Aspa]\nSi no puedes, no hay nada que hacer…"
+        "es-ES": "[Aspa]\nSi no puedes, no hay nada que hacer..."
     },
     "2UhnAw": {
         "en-US": "[Aspa]\nYou're back! Now, please show me something!\nMy heart is pounding so hard!",
@@ -2532,12 +2532,12 @@
     "2khnAw": {
         "en-US": "Uh... I don't have anything yet.",
         "pt-BR": "Ah... Ainda não consegui nada.",
-        "es-ES": "Eh… Aún no tengo nada."
+        "es-ES": "Eh... Aún no tengo nada."
     },
     "20hnAw": {
         "en-US": "[Aspa]\nHuh...? You don't have anything yet...?\nWhat does that mean......?",
         "pt-BR": "[Aspar]\nHã...? Você ainda não conseguiu nada...?\nPor que......?",
-        "es-ES": "[Aspa]\n¿Eh…? ¿Aún no tienes nada…?\n¿Qué significa eso…?"
+        "es-ES": "[Aspa]\n¿Eh...? ¿Aún no tienes nada...?\n¿Qué significa eso...?"
     },
     "3EhnAw": {
         "en-US": "[Aspa]\nThat definitely means you'll go back again, right?\nCome on, please go there now.",
@@ -2547,17 +2547,17 @@
     "3UhnAw": {
         "en-US": "[Aspa]\nHmm... As expected, it's beautiful. That sleek hull! That tragic beauty half submerged in water!",
         "pt-BR": "[Aspar]\nOh... Aquele destroço é tão lindo! Que tragédia mais adorável!",
-        "es-ES": "[Aspa]\nMmm… Como era de esperar, es precioso. ¡Ese casco elegante! ¡Esa belleza trágica medio sumergida en el agua!"
+        "es-ES": "[Aspa]\nMmm... Como era de esperar, es precioso. ¡Ese casco elegante! ¡Esa belleza trágica medio sumergida en el agua!"
     },
     "3khnAw": {
         "en-US": "I can't see her bow very well... When I look at its shape... (Blah, blah, blah.)",
         "pt-BR": "... E a forma como a água entra no buraco!!",
-        "es-ES": "No puedo ver muy bien su proa… Cuando miro su forma… (Bla, bla, bla)."
+        "es-ES": "No puedo ver muy bien su proa... Cuando miro su forma... (Bla, bla, bla)."
     },
     "30hnAw": {
         "en-US": "[{0}]\n(...Guess I should stay put)",
         "pt-BR": "[{0}]\n(...Acho melhor ignorar)",
-        "es-ES": "[{0}]\n(…Supongo que debería quedarme aquí)."
+        "es-ES": "[{0}]\n(...Supongo que debería quedarme aquí)."
     },
     "4EhnAw": {
         "en-US": "[Leno]\nHey, friend! Nice to meet you! Good to see you here again.",
@@ -2587,7 +2587,7 @@
     "5UhnAw": {
         "en-US": "[Leno]\nHaha...... My friend...",
         "pt-BR": "[Leno]\nHaha... ah, colega...",
-        "es-ES": "[Leno]\nJa, ja… Colega…"
+        "es-ES": "[Leno]\nJa, ja... Colega..."
     },
     "5khnAw": {
         "en-US": "[Reno]",
@@ -2597,37 +2597,37 @@
     "50hnAw": {
         "en-US": "......??",
         "pt-BR": "......??",
-        "es-ES": "¿…?"
+        "es-ES": "¿...?"
     },
     "6EhnAw": {
         "en-US": "Life is... quite tough. Don't you agree...?",
         "pt-BR": "A vida... parece difícil, não é...?",
-        "es-ES": "La vida es… bastante dura. ¿No crees…?"
+        "es-ES": "La vida es... bastante dura. ¿No crees...?"
     },
     "6UhnAw": {
         "en-US": "[Leno]\nUgh... I would never have gone there if I'd known there were so many undead!",
         "pt-BR": "[Leno]\nUgh... Se eu soubesse que havia tantos mortos-vivos lá, eu nunca teria ido!!",
-        "es-ES": "[Leno]\nUf… ¡Nunca habría ido si hubiera sabido que había tantos muertos vivientes!"
+        "es-ES": "[Leno]\nUf... ¡Nunca habría ido si hubiera sabido que había tantos muertos vivientes!"
     },
     "6khnAw": {
         "en-US": "[Leno]\nThank you for coming to my rescue... \nYou are a good friend, as always!",
         "pt-BR": "[Leno]\nObrigado por vir me resgatar...\nEu sabia que você era de respeito!",
-        "es-ES": "[Leno]\nGracias por venir a rescatarme… \n¡Como siempre, eres muy amable, colega!"
+        "es-ES": "[Leno]\nGracias por venir a rescatarme... \n¡Como siempre, eres muy amable, colega!"
     },
     "60hnAw": {
         "en-US": "[Leno]\nKale keeps begging me to go back to the Shipwreck...",
         "pt-BR": "[Leno]\nKayle continua me implorando para voltar aos destroços do navio...",
-        "es-ES": "[Leno]\nKale sigue rogándome que vuelva al barco hundido…"
+        "es-ES": "[Leno]\nKale sigue rogándome que vuelva al barco hundido..."
     },
     "7EhnAw": {
         "en-US": "[Leno]\n...but I need to save face, so I can't refuse his pleas on the grounds that I'm afraid of ghosts.\nThis is difficult......",
         "pt-BR": "[Leno]\n...Eu não posso recusar só porque tenho medo de fantasmas.\nIsso é problemático...",
-        "es-ES": "[Leno]\n…pero necesito guardar las apariencias, así que no puedo rechazarlo por mi temor a los fantasmas.\nEsto es difícil……"
+        "es-ES": "[Leno]\n...pero necesito guardar las apariencias, así que no puedo rechazarlo por mi temor a los fantasmas.\nEsto es difícil......"
     },
     "7UhnAw": {
         "en-US": "[Leno]\nHe's a good friend, so I'd love to go with him if circumstances allow.\nBut I hate the undead... They are disgusting...",
         "pt-BR": "[Leno]\nEu gostaria de ir com você, se possível.\nMas eu odeio os mortos-vivos... nojentos...",
-        "es-ES": "[Leno]\nEs un buen amigo, así que me encantaría ir con él si las circunstancias lo permiten.\nPero odio a los muertos vivientes… Son repugnantes…"
+        "es-ES": "[Leno]\nEs un buen amigo, así que me encantaría ir con él si las circunstancias lo permiten.\nPero odio a los muertos vivientes... Son repugnantes..."
     },
     "7khnAw": {
         "en-US": "Old Box",
@@ -2762,7 +2762,7 @@
     "CElnAw": {
         "en-US": "I don't know why I have to do this...",
         "pt-BR": "Não sei por que tenho que fazer isso...",
-        "es-ES": "No sé por qué tengo que hacer esto…"
+        "es-ES": "No sé por qué tengo que hacer esto..."
     },
     "CUlnAw": {
         "en-US": "- A knight in shining armor is lamenting -",
@@ -2772,7 +2772,7 @@
     "CklnAw": {
         "en-US": "[Knight Thibault]\nHey, you...\nNo, never mind.",
         "pt-BR": "[Soldado Tibalto]\nOlha, ei...\nNão não.",
-        "es-ES": "[Caballero Tibalt]\nOye, tú…\nNo, olvídalo."
+        "es-ES": "[Caballero Tibalt]\nOye, tú...\nNo, olvídalo."
     },
     "C0lnAw": {
         "en-US": "[Knight Thibault]",
@@ -2792,7 +2792,7 @@
     "DklnAw": {
         "en-US": "[Knight Thibault]\nHmm... It seems that you've got the quest I requested the Eden Group to do.",
         "pt-BR": "[Soldado Tibalto]\nHmm... Parece que você recebeu a missão que pedi ao Grupo do Éden.",
-        "es-ES": "[Caballero Tibalt]\nMmm… Parece que tienes la misión que le pedí al Grupo del Edén."
+        "es-ES": "[Caballero Tibalt]\nMmm... Parece que tienes la misión que le pedí al Grupo del Edén."
     },
     "D0lnAw": {
         "en-US": "[Knight Thibault]\nYou don't look half bad, so do your best. If you want to hear more details, come to me again.",
@@ -2812,12 +2812,12 @@
     "EklnAw": {
         "en-US": "I am Thibault of the 1st Chivalry of the Alberta Guard.\nThe Alberta Guard is unofficially seeking adventurers' help...",
         "pt-BR": "Eu sou Tibalto, da 1ª Brigada de Segurança de Alberta.\nEstamos buscando cooperação extraoficial de aventureiros como você...",
-        "es-ES": "Soy Tibalt de la Primera Caballería de la Guardia de Alberta.\nLa Guardia de Alberta busca, extraoficialmente, la ayuda de los trotamundos…"
+        "es-ES": "Soy Tibalt de la Primera Caballería de la Guardia de Alberta.\nLa Guardia de Alberta busca, extraoficialmente, la ayuda de los trotamundos..."
     },
     "E0lnAw": {
         "en-US": "Phew... What good is all this?\nEnough of this nonsense. Are you looking for work?",
         "pt-BR": "Bom... *suspira*... Posso contar com você?\nGostaria de se unir aos nossos esforços?",
-        "es-ES": "Uf… ¿De qué sirve todo esto?\nBasta ya de tonterías. ¿Estás buscando trabajo?"
+        "es-ES": "Uf... ¿De qué sirve todo esto?\nBasta ya de tonterías. ¿Estás buscando trabajo?"
     },
     "FElnAw": {
         "en-US": "What kind of work?",
@@ -2832,12 +2832,12 @@
     "FklnAw": {
         "en-US": "[Knight Thibault]\nOur job is to find the missing knights of the ^4D4DFF2nd Chivalry of Alberta^000000.\nUm... Who went missing several years ago.",
         "pt-BR": "[Soldado Tibalto]\nPara encontrar os membros desaparecidos da ^4D4DFF2ª Brigada de Segurança de Alberta^000000.\nEles... desapareceram anos atrás.",
-        "es-ES": "[Caballero Tibalt]\nNuestro trabajo consiste en encontrar a los Caballeros desaparecidos de la ^4D4DFFSegunda Caballería de Alberta^000000.\nEh… Desaparecieron hace varios años."
+        "es-ES": "[Caballero Tibalt]\nNuestro trabajo consiste en encontrar a los Caballeros desaparecidos de la ^4D4DFFSegunda Caballería de Alberta^000000.\nEh... Desaparecieron hace varios años."
     },
     "F0lnAw": {
         "en-US": "[Knight Thibault]\nYour eyes are asking why we are looking for them now after all these years...\nPhew...",
         "pt-BR": "[Soldado Tibalto]\nVocê deve querer saber o motivo de precisarmos de alguém como você...\n*suspira*...",
-        "es-ES": "[Caballero Tibalt]\nParece que te preguntas por qué los buscamos ahora, después de todos estos años…\nUf…"
+        "es-ES": "[Caballero Tibalt]\nParece que te preguntas por qué los buscamos ahora, después de todos estos años...\nUf..."
     },
     "GElnAw": {
         "en-US": "[Knight Thibault]\nWell, it doesn't matter if you can't find them. The only purpose of this job is to fire me, since I am old and underachieving.",
@@ -2847,7 +2847,7 @@
     "GUlnAw": {
         "en-US": "[Knight Thibault]\nThey assign me something stupid like this... Then they wait until I pack my bags and leave the Chivalry myself.",
         "pt-BR": "[Soldado Tibalto]\nPrefiro deixar esse trabalho pros outros... mesmo que você não encontre eles, eu pretendo me aposentar mais cedo.",
-        "es-ES": "[Caballero Tibalt]\nMe asignan algo estúpido como esto… y esperan que haga las maletas y yo mismo me vaya de la caballería."
+        "es-ES": "[Caballero Tibalt]\nMe asignan algo estúpido como esto... y esperan que haga las maletas y yo mismo me vaya de la caballería."
     },
     "GklnAw": {
         "en-US": "[Knight Thibault]\nAll you need to do is go to ^4D4DFFTurtle Island^000000, where the 2nd Chivalry was last seen, take a stroll, kill some monsters, and come back to report.",
@@ -2872,17 +2872,17 @@
     "HklnAw": {
         "en-US": "[Knight Thibault]\nAlright... Thank you. \nThe place where you need to go is Turtle Island. That is where the 2nd Chivalry went missing.",
         "pt-BR": "[Soldado Tibalto]\nSim... obrigado.\nVá para a ilha da Tartaruga. As últimas informações dos Brigadistas vieram de lá.",
-        "es-ES": "[Caballero Tibalt]\nMuy bien… Gracias. \nEl lugar al que tienes que ir es Isla Tortuga. Allí es donde desapareció la Segunda Caballería."
+        "es-ES": "[Caballero Tibalt]\nMuy bien... Gracias. \nEl lugar al que tienes que ir es Isla Tortuga. Allí es donde desapareció la Segunda Caballería."
     },
     "H0lnAw": {
         "en-US": "[Knight Thibault]\nThere is a legend about a treasure on Turtle Island...\nThat is why some residents of Al De Baran went out rashly to find it. They then went missing, so the 2nd Chivalry went out there to find them.",
         "pt-BR": "[Soldado Tibalto]\nHá uma lenda de um tesouro valioso naquela ilha...\nPor causa disso, alguns moradores se arriscam lá. Isso obrigou os Brigadistas a procurarem por esses moradores.",
-        "es-ES": "[Caballero Tibalt]\nHay una leyenda sobre un tesoro de la Isla Tortuga…\nPor eso, algunos habitantes de Aldebaran salieron precipitadamente a buscarlo. Pero desaparecieron, así que la Segunda Caballería salió a buscarlos."
+        "es-ES": "[Caballero Tibalt]\nHay una leyenda sobre un tesoro de la Isla Tortuga...\nPor eso, algunos habitantes de Aldebaran salieron precipitadamente a buscarlo. Pero desaparecieron, así que la Segunda Caballería salió a buscarlos."
     },
     "IElnAw": {
         "en-US": "[Knight Thibault]\nThen they also went missing...",
         "pt-BR": "[Soldado Tibalto]\nE os Brigadistas também se perderam...",
-        "es-ES": "[Caballero Tibalt]\nY, luego, también desaparecieron…"
+        "es-ES": "[Caballero Tibalt]\nY, luego, también desaparecieron..."
     },
     "IUlnAw": {
         "en-US": "[Knight Thibault]\nIt has been a while, so you probably won't be able to find them. Rumor has it that they've been wiped out already.\nJust go take a look around and kill some monsters.",
@@ -2897,7 +2897,7 @@
     "I0lnAw": {
         "en-US": "[Knight Thibault]\nCome to think of it, I heard that Turtle Island is so dangerous that no one can go there...",
         "pt-BR": "[Soldado Tibalto]\nInclusive, ouvi dizer que a ilha da Tartaruga é um lugar perigoso, não é qualquer um que pode ir lá...",
-        "es-ES": "[Caballero Tibalt]\nAhora que lo pienso, escuché que la Isla Tortuga es tan peligrosa que nadie puede ir…"
+        "es-ES": "[Caballero Tibalt]\nAhora que lo pienso, escuché que la Isla Tortuga es tan peligrosa que nadie puede ir..."
     },
     "JElnAw": {
         "en-US": "[Knight Thibault]\nSo I asked around, and a heavily drunk old man in Alberta Inn seems to know a bit about Turtle Island.",
@@ -2917,17 +2917,17 @@
     "J0lnAw": {
         "en-US": "......Haha!\nNow even a mere adventurer looks down on me!\nSo I am a completely washed-up knight, hmm?",
         "pt-BR": ".......haha!\nAgora até meros aventureiros estão me ignorando!\nÉ assim?",
-        "es-ES": "…¡Ja, ja, ja!\n¡Qué bajo he caído para que me menosprecie alguien tan insignificante como tú, simple trotamundos!\nAsí que soy un caballero completamente acabado, ¿eh?"
+        "es-ES": "...¡Ja, ja, ja!\n¡Qué bajo he caído para que me menosprecie alguien tan insignificante como tú, simple trotamundos!\nAsí que soy un caballero completamente acabado, ¿eh?"
     },
     "KElnAw": {
         "en-US": "[Knight Thibault]\n...No, I am sorry, I was not trying to insult you.\nI am the one who should be looked down on...",
         "pt-BR": "[Soldado Tibalto]\n...Me desculpe, eu não quis desrespeitar você.\nAcho que quero ser ignorado...",
-        "es-ES": "[Caballero Tibalt]\n…No, lo siento, no era mi intención insultarte.\nMe merezco ser menospreciado…"
+        "es-ES": "[Caballero Tibalt]\n...No, lo siento, no era mi intención insultarte.\nMe merezco ser menospreciado..."
     },
     "KUlnAw": {
         "en-US": "[Knight Thibault]\nI am sorry... You may leave.",
         "pt-BR": "[Soldado Tibalto]\nSinto muito... vá embora.",
-        "es-ES": "[Caballero Tibalt]\nLo siento… Puedes irte."
+        "es-ES": "[Caballero Tibalt]\nLo siento... Puedes irte."
     },
     "KklnAw": {
         "en-US": "[Knight Thibault]\nIt is because I feel pathetic.\nI was praised for being a knight of the 1st Chivalry back in my old days, but now my only honor I have left is to leave the Chivalry of my own will before I get fired.",
@@ -2942,7 +2942,7 @@
     "LElnAw": {
         "en-US": "[Knight Thibault]\nThere is no way we can find them...\nThis job has been assigned arbitrarily because they couldn't just fire me.",
         "pt-BR": "[Soldado Tibalto]\nNão tem como eu achar...\nNão quer fazer isso pra mim?",
-        "es-ES": "[Caballero Tibalt]\nNo hay manera de que podamos encontrarlos…\nMe asignaron este trabajo de forma arbitraria porque no podían simplemente despedirme."
+        "es-ES": "[Caballero Tibalt]\nNo hay manera de que podamos encontrarlos...\nMe asignaron este trabajo de forma arbitraria porque no podían simplemente despedirme."
     },
     "LUlnAw": {
         "en-US": "[Knight Thibault]\nAll you need to do is go to ^4D4DFFTurtle Island^000000, where they were last seen, look for them briefly, kill some monsters, and come back to report.",
@@ -2982,12 +2982,12 @@
     "NElnAw": {
         "en-US": "[Knight Thibault]\nThanks to your hard work opening the way, some other adventurers have even entered the Turtle Island dungeon.\nThey said that they found signs of human activity inside the dungeon... But that can't be.",
         "pt-BR": "[Soldado Tibalto]\nCom você abrindo caminho para outros aventureiros, a ilha da Tartaruga está mais fácil de ser explorada.\nFiquei sabendo que há até rastros de sobreviventes lá... mas eu duvido muito.",
-        "es-ES": "[Caballero Tibalt]\nGracias a tu arduo trabajo abriendo camino, otros trotamundos entraron a la mazmorra de la Isla Tortuga.\nDijeron que encontraron señales de actividad humana dentro de la mazmorra… Pero no puede ser."
+        "es-ES": "[Caballero Tibalt]\nGracias a tu arduo trabajo abriendo camino, otros trotamundos entraron a la mazmorra de la Isla Tortuga.\nDijeron que encontraron señales de actividad humana dentro de la mazmorra... Pero no puede ser."
     },
     "NUlnAw": {
         "en-US": "[Knight Thibault]\nBut since we have been briefed, we can't not go there... Can you please go inside the dungeon?",
         "pt-BR": "[Soldado Tibalto]\nMesmo assim, não posso deixar de ficar voltando lá diariamente... Você se importaria de fazer isso por mim?",
-        "es-ES": "[Caballero Tibalt]\nY como fuimos informados, tenemos que ir allí… ¿Puedes entrar a la mazmorra?"
+        "es-ES": "[Caballero Tibalt]\nY como fuimos informados, tenemos que ir allí... ¿Puedes entrar a la mazmorra?"
     },
     "NklnAw": {
         "en-US": "[Knight Thibault]\nWhile you're inside, kill the monsters there for the other adventurers, and if there is anyone else inside, ask them who they are and why they are wandering in there.",
@@ -3022,7 +3022,7 @@
     "PElnAw": {
         "en-US": "[Knight Thibault]\n...What did you say?\nHaha... Hahaha.",
         "pt-BR": "[Soldado Tibalto]\n...oi?\nHa ha ha ha ha.",
-        "es-ES": "[Caballero Tibalt]\n…¿Qué dijiste?\nJa, ja… Ja, ja, ja."
+        "es-ES": "[Caballero Tibalt]\n...¿Qué dijiste?\nJa, ja... Ja, ja, ja."
     },
     "PUlnAw": {
         "en-US": "[Knight Thibault]\nFine, do whatever you want. You have done well.",
@@ -3057,7 +3057,7 @@
     "Q0lnAw": {
         "en-US": "[Knight Thibault]\n...Do not make fun of me.\nI have been trained in how to use weapons, just like you.",
         "pt-BR": "[Soldado Tibalto]\n... não tire sarro de mim.\nAssim como você, eu sei como segurar uma arma.",
-        "es-ES": "[Caballero Tibalt]\n…No te burles de mí.\nFui entrenado en el uso de armas, igual que tú."
+        "es-ES": "[Caballero Tibalt]\n...No te burles de mí.\nFui entrenado en el uso de armas, igual que tú."
     },
     "RElnAw": {
         "en-US": "[Knight Thibault]\nLet us act honorably toward each other.",
@@ -3112,7 +3112,7 @@
     "TklnAw": {
         "en-US": "No... No. I am moved.",
         "pt-BR": "Não... não. Eu estou chorando...",
-        "es-ES": "No… No. Estoy conmovido."
+        "es-ES": "No... No. Estoy conmovido."
     },
     "T0lnAw": {
         "en-US": "Huuuh?",
@@ -3127,7 +3127,7 @@
     "UUlnAw": {
         "en-US": "[Knight Thibault]\nI understand. He may seem clumsy and reckless to you...",
         "pt-BR": "[Soldado Tibalto]\nDe emoção. Parece brega para você, mas...",
-        "es-ES": "[Caballero Tibalt]\nEntiendo. Puede parecerte torpe e imprudente…"
+        "es-ES": "[Caballero Tibalt]\nEntiendo. Puede parecerte torpe e imprudente..."
     },
     "UklnAw": {
         "en-US": "[{0}]\nWouldn't he seem clumsy and reckless to anyone?",
@@ -3137,12 +3137,12 @@
     "U0lnAw": {
         "en-US": "[Knight Thibault]\nNo. I can feel... Was his name Takoyaki? Takayaku?",
         "pt-BR": "[Soldado Tibalto]\nNão. Como é mesmo o nome dele... Expiatório? Expedito?",
-        "es-ES": "[Caballero Tibalt]\nNo. Puedo sentirlo… ¿Se llamaba Takoyaki? ¿Takayaku?"
+        "es-ES": "[Caballero Tibalt]\nNo. Puedo sentirlo... ¿Se llamaba Takoyaki? ¿Takayaku?"
     },
     "VElnAw": {
         "en-US": "[{0}]\nIt's Leader Takuyaka...",
         "pt-BR": "[{0}]\nCapitão Expedito...",
-        "es-ES": "[{0}]\nEs el líder Takuyaka…"
+        "es-ES": "[{0}]\nEs el líder Takuyaka..."
     },
     "VUlnAw": {
         "en-US": "[Knight Thibault]\nYes, yes. I can understand how Leader Takuyaka feels.",
@@ -3152,27 +3152,27 @@
     "VklnAw": {
         "en-US": "[Knight Thibault]\nI am sure he was puzzled after getting his mission.\nThe Leader of the Knights getting assigned to a mere resident rescue mission...",
         "pt-BR": "[Soldado Tibalto]\nEle deve ter ficado constrangido com a missão.\nUma missão simples de resgate civil que virou uma operação militar...",
-        "es-ES": "[Caballero Tibalt]\nEstoy seguro de que se quedó perplejo tras recibir su misión.\nEl líder de los Caballeros destinado a una mera misión de rescate de ciudadanos…"
+        "es-ES": "[Caballero Tibalt]\nEstoy seguro de que se quedó perplejo tras recibir su misión.\nEl líder de los Caballeros destinado a una mera misión de rescate de ciudadanos..."
     },
     "V0lnAw": {
         "en-US": "[Knight Thibault]\nBut he has been trying to perform his duties for years...!",
         "pt-BR": "[Soldado Tibalto]\nMas ele está tentando cumprir sua missão há anos...!!",
-        "es-ES": "[Caballero Tibalt]\n¡Pero lleva años intentando cumplir su deber…!"
+        "es-ES": "[Caballero Tibalt]\n¡Pero lleva años intentando cumplir su deber...!"
     },
     "WElnAw": {
         "en-US": "[Knight Thibault]\nEven after so many years during which no one knew whether the residents were alive or dead...!",
         "pt-BR": "[Soldado Tibalto]\nMesmo depois de muito tempo, não se sabe se os civis estão vivos ou mortos...!!",
-        "es-ES": "[Caballero Tibalt]\n¡Incluso después de tantos años en los que nadie sabía si los ciudadanos estaban vivos o muertos…!"
+        "es-ES": "[Caballero Tibalt]\n¡Incluso después de tantos años en los que nadie sabía si los ciudadanos estaban vivos o muertos...!"
     },
     "WUlnAw": {
         "en-US": "Isn't that chivalry...?\nIsn't that the spirit of a true knight?!",
         "pt-BR": "Isso não é braço forte...\nIsso é mão amiga!!",
-        "es-ES": "¿No es eso caballerosidad…?\n¡¿No es ese el espíritu de un verdadero caballero?!"
+        "es-ES": "¿No es eso caballerosidad...?\n¡¿No es ese el espíritu de un verdadero caballero?!"
     },
     "WklnAw": {
         "en-US": "[{0}]\n(...This man is weird, too...)",
         "pt-BR": "[{0}]\n(...Ele tá citando o lema do exército...)",
-        "es-ES": "[{0}]\n(Este hombre también es raro…)"
+        "es-ES": "[{0}]\n(Este hombre también es raro...)"
     },
     "W0lnAw": {
         "en-US": "[Knight Thibault]\nLook, I have decided to stay here from now on and support the 2nd Chivalry with all my strength.\nAfter they complete their mission, I will return to my post with them.",
@@ -3187,7 +3187,7 @@
     "XUlnAw": {
         "en-US": "Well, if you pay my wages...",
         "pt-BR": "Só se me recompensar...",
-        "es-ES": "Bueno, si me pagas un sueldo…"
+        "es-ES": "Bueno, si me pagas un sueldo..."
     },
     "XklnAw": {
         "en-US": "I don't really want to.",
@@ -3222,7 +3222,7 @@
     "ZElnAw": {
         "en-US": "[Knight Thibault]\nHmm? What happened to you?\nI can't imagine what happened...",
         "pt-BR": "[Soldado Tibalto]\nHmm? O que você está fazendo?\nEu acho que algo estranho aconteceu...",
-        "es-ES": "[Caballero Tibalt]\n¿Mmm? ¿Qué te pasó?\nNo puedo imaginarme qué habrá pasado…"
+        "es-ES": "[Caballero Tibalt]\n¿Mmm? ¿Qué te pasó?\nNo puedo imaginarme qué habrá pasado..."
     },
     "ZUlnAw": {
         "en-US": "[Knight Thibault]\nIf I keep repeating the same dialogue, contact customer support.\nI have no idea what is happening.",
@@ -3357,7 +3357,7 @@
     "f0lnAw": {
         "en-US": "[Crow]\nCaw-!\nCaaaw-!",
         "pt-BR": "[Corvo]\nCááá~ Cáááá~\nCááá~ Cáááá~",
-        "es-ES": "[Cuervo]\n*¡Cra…!*\n*¡Craaa…!*"
+        "es-ES": "[Cuervo]\n*¡Cra...!*\n*¡Craaa...!*"
     },
     "gElnAw": {
         "en-US": "[?]\nAaaargh! That awful crow!\nWhere the hell is it?",
@@ -3377,7 +3377,7 @@
     "g0lnAw": {
         "en-US": "[Takuyaka]\nWhat the? Why are you staggering so much?\nCome back once you're rested!",
         "pt-BR": "[Expedito]\nPra quê tanta pressa?\nDescanse um pouco!",
-        "es-ES": "[Takuyaka]\n¿Qué dem…? ¿Por qué te tambaleas tanto?\n¡Vuelve cuando hayas descansado!"
+        "es-ES": "[Takuyaka]\n¿Qué dem...? ¿Por qué te tambaleas tanto?\n¡Vuelve cuando hayas descansado!"
     },
     "hElnAw": {
         "en-US": "[Takuyaka]\nWhat the hell is this?\nWhere are all my men?\nWhy can't anything go right!",
@@ -3427,7 +3427,7 @@
     "jUlnAw": {
         "en-US": "[Takuyaka]\nHmm... {0}...\nYou have a better name than me.\nNow I see you have more hair than me.\nHmmm...",
         "pt-BR": "[Expedito]\nHmm... {0}...\nVocê tem um nome melhor que o meu.\nAgora vejo que você tem mais cabelo do que eu.\nUmmm...",
-        "es-ES": "[Takuyaka]\nHmm… {0}…\nTu nombre es mejor que el mío.\nAhora veo que tienes más cabello que yo.\nMmmm…"
+        "es-ES": "[Takuyaka]\nHmm... {0}...\nTu nombre es mejor que el mío.\nAhora veo que tienes más cabello que yo.\nMmmm..."
     },
     "jklnAw": {
         "en-US": "[Takuyaka]\nDon't you have anything to give me? Like money or snacks.\nGive me something later.\nWell, it's not that I actually need it, but I want to have it.",
@@ -3542,12 +3542,12 @@
     "pElnAw": {
         "en-US": "Oh, yes... Well.",
         "pt-BR": "Meh...",
-        "es-ES": "Ah, sí… Bueno."
+        "es-ES": "Ah, sí... Bueno."
     },
     "pUlnAw": {
         "en-US": "[Takuyaka]\nOh, yes... Well.",
         "pt-BR": "[Expedito]\nMeh... ?",
-        "es-ES": "[Takuyaka]\nAh, sí… Bueno."
+        "es-ES": "[Takuyaka]\nAh, sí... Bueno."
     },
     "pklnAw": {
         "en-US": "[Takuyaka]\nWhat?!\nYou won't believe in my greatness?!\nYou won't even believe in my height, reliability, and versatility?!",
@@ -3557,7 +3557,7 @@
     "p0lnAw": {
         "en-US": "[Mudasamu]\nYou... You are tall, reliable, and versatile, Boss!",
         "pt-BR": "[Mudasamu]\nO capitão é alto, confiável e versátil!",
-        "es-ES": "[Mudasamu]\nEres… ¡eres alto, fiable y versátil, jefe!"
+        "es-ES": "[Mudasamu]\nEres... ¡eres alto, fiable y versátil, jefe!"
     },
     "qElnAw": {
         "en-US": "[Takuyaka]\nForget it! I don't need you.\nI will not speak to you!",
@@ -3572,7 +3572,7 @@
     "qklnAw": {
         "en-US": "[{0}]\nIt's because you...",
         "pt-BR": "[{0}]\nBom, deixa eu expicar...",
-        "es-ES": "[{0}]\nEs que tú…"
+        "es-ES": "[{0}]\nEs que tú..."
     },
     "q0lnAw": {
         "en-US": "[{0}]\n - You tell him you came to find the missing 2nd Chivalry of Alberta -",
@@ -3582,17 +3582,17 @@
     "rElnAw": {
         "en-US": "[Takuyaka]\nWhat the?! Me and my men have been declared missing for years?\nMy men are also presumed dead?",
         "pt-BR": "[Expedito]\nO quê?! Eu e meus homens estamos desaparecidos há anos?\nAlém disso, acham que estamos mortos?",
-        "es-ES": "[Takuyaka]\n¡¿Qué ca…?! ¿Nos declararon desaparecidos a mis hombres y a mí hace años?\n¿También dieron por muertos a mis hombres?"
+        "es-ES": "[Takuyaka]\n¡¿Qué ca...?! ¿Nos declararon desaparecidos a mis hombres y a mí hace años?\n¿También dieron por muertos a mis hombres?"
     },
     "rUlnAw": {
         "en-US": "[Takuyaka]\nAlright... We were definitely scattered after getting attacked by monsters...\nThe reason no one returned was that our mission was urgent... at least, that was what I thought.\nSo I was waiting with Mudasamu...",
         "pt-BR": "[Expedito]\nSim... Nós obviamente fomos atacados por monstros e nos separamos...\nEu pensei que a razão pela qual todos não voltavam era porque estavam perdidos...\nFiquei aqui esperando com o Mudasamu...",
-        "es-ES": "[Takuyaka]\nEstá bien… Claramente nos dispersamos después de que nos atacaran los monstruos…\nLa razón por la que nadie regresó es que nuestra misión era urgente… al menos, eso pensaba.\nPor eso estaba esperando con Mudasamu…"
+        "es-ES": "[Takuyaka]\nEstá bien... Claramente nos dispersamos después de que nos atacaran los monstruos...\nLa razón por la que nadie regresó es que nuestra misión era urgente... al menos, eso pensaba.\nPor eso estaba esperando con Mudasamu..."
     },
     "rklnAw": {
         "en-US": "[Mudasamu]\nThis can't be...",
         "pt-BR": "[Mudasamu]\nInacreditável...",
-        "es-ES": "[Mudasamu]\nNo puede ser…"
+        "es-ES": "[Mudasamu]\nNo puede ser..."
     },
     "r0lnAw": {
         "en-US": "[Takuyaka]\nAlright! I have made up my mind!",
@@ -3612,7 +3612,7 @@
     "sklnAw": {
         "en-US": "Why don't the two of you head back instead...",
         "pt-BR": "Vocês podem morrer...",
-        "es-ES": "¿Por qué no regresan ustedes dos…?"
+        "es-ES": "¿Por qué no regresan ustedes dos...?"
     },
     "s0lnAw": {
         "en-US": "[Takuyaka]\nWhat are you saying! How can a Leader of the Knights act like that!\nWe have not completed our mission, we lost our knights, so how can we go back with heads held high?!",
@@ -3622,7 +3622,7 @@
     "tElnAw": {
         "en-US": "[{0}]\nI mean, at least the two of you should be safe...",
         "pt-BR": "[{0}]\nMas só tem vocês dois...",
-        "es-ES": "[{0}]\nEs decir, al menos ustedes dos deberían estar a salvo…"
+        "es-ES": "[{0}]\nEs decir, al menos ustedes dos deberían estar a salvo..."
     },
     "tUlnAw": {
         "en-US": "[Takuyaka]\nMy body may be safe, but my heart has died of dishonor!",
@@ -3632,7 +3632,7 @@
     "tklnAw": {
         "en-US": "[{0}]\nSo you two...",
         "pt-BR": "[{0}]\nEntão vocês dois...",
-        "es-ES": "[{0}]\nAsí que ustedes dos…"
+        "es-ES": "[{0}]\nAsí que ustedes dos..."
     },
     "t0lnAw": {
         "en-US": "[Takuyaka]\nAre dead!!!",
@@ -3642,7 +3642,7 @@
     "uElnAw": {
         "en-US": "[{0}]\n...Oh, yes... Oh well, whatever...",
         "pt-BR": "[{0}]\n...Ah, sim... entendi..",
-        "es-ES": "[{0}]\n…Ah, sí… Bueno, da igual…"
+        "es-ES": "[{0}]\n...Ah, sí... Bueno, da igual..."
     },
     "uUlnAw": {
         "en-US": "[Takuyaka]\nIn that case, let me entrust you with this glorious mission as well.\nYou're an adventurer, so you know how to fight, don't you?",
@@ -3652,7 +3652,7 @@
     "uklnAw": {
         "en-US": "Wha... You said you were dead...",
         "pt-BR": "Bem... sim...",
-        "es-ES": "¿Qué…? Dijiste que estabas muerto…"
+        "es-ES": "¿Qué...? Dijiste que estabas muerto..."
     },
     "u0lnAw": {
         "en-US": "[Takuyaka]\nUh-huh, that's just a metaphor.\nIt's just, we need to search the surrounding area to rescue the others, but as you know, there is a lot of violent turtles here.",
@@ -3662,7 +3662,7 @@
     "vElnAw": {
         "en-US": "[Takuyaka]\nI can manage the others, but that ninja... Hmm, when Assaulters harry me, I cannot shake them off.",
         "pt-BR": "[Expedito]\nMas tem uma em especial que é... urgh a pior de todas elas.",
-        "es-ES": "[Takuyaka]\nPuedo encargarme de las otras, pero esos ninjas… Mmm, cuando los Atacantes me acosan, no puedo quitármelos de encima."
+        "es-ES": "[Takuyaka]\nPuedo encargarme de las otras, pero esos ninjas... Mmm, cuando los Atacantes me acosan, no puedo quitármelos de encima."
     },
     "vUlnAw": {
         "en-US": "[Takuyaka]\nSo you should do it.\nYour important mission is to hunt ^4D4DFF10 Assaulters^000000 while we search around.",
@@ -3672,7 +3672,7 @@
     "vklnAw": {
         "en-US": "Okay, I will...",
         "pt-BR": "Bem, vamos fazer isso...",
-        "es-ES": "De acuerdo, lo haré…"
+        "es-ES": "De acuerdo, lo haré..."
     },
     "v0lnAw": {
         "en-US": "Do it yourself.",
@@ -3692,7 +3692,7 @@
     "wklnAw": {
         "en-US": "[Takuyaka]\nHmph, adventurers are selfish anyway... Grumbles.",
         "pt-BR": "[Expedito]\nAventureiros são egoístas... É uma bagunça.",
-        "es-ES": "[Takuyaka]\nMmm, de todos modos, los trotamundos son egoístas… *Gruñe*"
+        "es-ES": "[Takuyaka]\nMmm, de todos modos, los trotamundos son egoístas... *Gruñe*"
     },
     "w0lnAw": {
         "en-US": "[Takuyaka]\nHmm? What? Why are you hanging around?\nDo you have a sudden desire to help me?",
@@ -3712,7 +3712,7 @@
     "xklnAw": {
         "en-US": "Yes, I will help you...",
         "pt-BR": "Sim, vou ajudar...",
-        "es-ES": "Sí, te ayudaré…"
+        "es-ES": "Sí, te ayudaré..."
     },
     "x0lnAw": {
         "en-US": "I'm not going to fall for that excuse!",
@@ -3727,12 +3727,12 @@
     "yUlnAw": {
         "en-US": "[Takuyaka]\nEx, ahem, excuses! No?",
         "pt-BR": "[Takuyaka]\nEr... hum! Desculpas! Não?",
-        "es-ES": "[Takuyaka]\nExcu…*Ejem*, ¡¿excusas?! ¿No?"
+        "es-ES": "[Takuyaka]\nExcu...*Ejem*, ¡¿excusas?! ¿No?"
     },
     "yklnAw": {
         "en-US": "[Takuyaka]\nAdventurers are twisted inside.... Grumbles.",
         "pt-BR": "[Expedito]\nHmpf.",
-        "es-ES": "[Takuyaka]\nLos trotamundos son retorcidos… *Gruñe*"
+        "es-ES": "[Takuyaka]\nLos trotamundos son retorcidos... *Gruñe*"
     },
     "y0lnAw": {
         "en-US": "[Takuyaka]\nIt's ^4D4DFF10 Assaulters^000000! Alright, go there!",
@@ -3742,7 +3742,7 @@
     "zElnAw": {
         "en-US": "[Takuyaka]\nHere, start with these monsters around us here.\nAdventurers are slow to act unless you pay them.... Grumbles.",
         "pt-BR": "[Expedito]\nEles ficam por aqui.\nMas tanto a Vila das Boas Tartarugas quanto o Palácio Tartaruga tem bastante.",
-        "es-ES": "[Takuyaka]\nEmpieza por los monstruos que nos rodean.\nLos trotamundos tardan en actuar a menos que les pagues… *Gruñe*"
+        "es-ES": "[Takuyaka]\nEmpieza por los monstruos que nos rodean.\nLos trotamundos tardan en actuar a menos que les pagues... *Gruñe*"
     },
     "zUlnAw": {
         "en-US": "[Takuyaka]\nOh, did you kill them? Good, very good. You are sincere.\nThen we will continue our search.",
@@ -3767,7 +3767,7 @@
     "0UlnAw": {
         "en-US": "[Takuyaka]\nI hope you get some ingredients for meat skewers on the way here.\nTalking about tenderizing makes me want to eat meat skewers...",
         "pt-BR": "[Expedito]\nSeria bom você evitar os espetos daquelas shurikens.\nFalando em espetinhos, eu quero comer espetinhos...",
-        "es-ES": "[Takuyaka]\nEspero que consigas ingredientes para brochetas de carne de camino aquí.\nHablando de ablandar, me dieron ganas de comer brochetas de carne…"
+        "es-ES": "[Takuyaka]\nEspero que consigas ingredientes para brochetas de carne de camino aquí.\nHablando de ablandar, me dieron ganas de comer brochetas de carne..."
     },
     "0klnAw": {
         "en-US": "[Takuyaka]\nWelcome! Avoiding those Turtles was a great workout for my leg muscles.",
@@ -3792,7 +3792,7 @@
     "1klnAw": {
         "en-US": "[Takuyaka]\nWhat the?\nYou did it last time!\nWhy aren't you doing it this time?\nDo it! Do it!!!",
         "pt-BR": "[Expedito]\nOi?\nVocê fez isso da última vez!\nPor que não desta vez!!\nFaça, faça!!!",
-        "es-ES": "[Takuyaka]\n¿Qué dem…?\n¡Lo hiciste la vez pasada!\n¿Por qué no lo haces esta vez?\n¡Hazlo! ¡¡¡Hazlo!!!"
+        "es-ES": "[Takuyaka]\n¿Qué dem...?\n¡Lo hiciste la vez pasada!\n¿Por qué no lo haces esta vez?\n¡Hazlo! ¡¡¡Hazlo!!!"
     },
     "10lnAw": {
         "en-US": "Kill just ^4D4DFF10 Assaulters^000000 as usual. I mean these monsters around us here.\nYou'll do it, of course?",

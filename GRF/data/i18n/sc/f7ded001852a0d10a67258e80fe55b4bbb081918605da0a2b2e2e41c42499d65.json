@@ -47,7 +47,7 @@
     "CYNACg": {
         "en-US": "[Lumin]\nDodge, and then attack quickly.\nWhether Thief, Rogue, or Assassin, it's all part of the job.\nBut it depends on your personal preference as well.",
         "pt-BR": "[Rumin]\nEsquivar-se e depois atacar rapidamente.\nSeja Thief, Arruaceiro ou Assassin, tudo isso faz parte do trabalho.\nMas isso também depende de sua preferência pessoal.",
-        "es-ES": "[Rumin]\nEvitar los ataques de forma rápida y eficaz…\nIndependientemente de si eres un Ladrón o una clase más avanzada, ¡eso es lo que debes hacer!\nPero sigue siendo tu elección…"
+        "es-ES": "[Rumin]\nEvitar los ataques de forma rápida y eficaz...\nIndependientemente de si eres un Ladrón o una clase más avanzada, ¡eso es lo que debes hacer!\nPero sigue siendo tu elección..."
     },
     "CoNACg": {
         "en-US": "[Lumin]\nDEX primarily affects HIT, and helps increase ASPD slightly.\nDEX is important so that your attacks don't miss the target.",
@@ -77,12 +77,12 @@
     "D4NACg": {
         "en-US": "[Lumin]\nThat's everything, right?\nFor your information, I primarily invest in AGI.\nAs well as enough DEX, so that I don't miss my target.",
         "pt-BR": "[Rumin]\nIsso é tudo, certo?\nPara sua informação, eu invisto principalmente em AGI.\nE também em DEX suficiente, para que eu não perca meu alvo.",
-        "es-ES": "[Rumin]\nSuena bien, ¿verdad?\nYo personalmente invierto en AGI…\nY un poco en DES…"
+        "es-ES": "[Rumin]\nSuena bien, ¿verdad?\nYo personalmente invierto en AGI...\nY un poco en DES..."
     },
     "EINACg": {
         "en-US": "[Lumin]\nEverything else comes later.",
         "pt-BR": "[Rumin]\nTodo o resto vem depois.",
-        "es-ES": "[Rumin]\nMm…"
+        "es-ES": "[Rumin]\nMm..."
     },
     "EYNACg": {
         "en-US": "[Lumin]\nWhat skill do you want to understand more about?",
@@ -122,7 +122,7 @@
     "GINACg": {
         "en-US": "[Lumin]\nStone Fling is when you throw a stone at your opponents. It inflicts a status effect similar to Stun.",
         "pt-BR": "[Rumin]\nStone Fling é quando você joga uma pedra em seus oponentes. Ele causa um efeito de status semelhante ao de atordoamento.",
-        "es-ES": "[Rumin]\nLanzamiento de piedras… Bueno, lanza una piedra que inflige daño y puede infligir aturdimiento."
+        "es-ES": "[Rumin]\nLanzamiento de piedras... Bueno, lanza una piedra que inflige daño y puede infligir aturdimiento."
     },
     "GYNACg": {
         "en-US": "[Lumin]\nBack Slide is a skill by which you slide backwards. It's useful when escaping.",
@@ -132,7 +132,7 @@
     "GoNACg": {
         "en-US": "[Lumin]\nSand Attack... is when you spray sand on your enemies. But in my view, Stone Fling is more useful.",
         "pt-BR": "[Rumin]\nSand Attack... é quando você joga areia nos inimigos. Mas, na minha opinião, o Stone Fling é mais útil.",
-        "es-ES": "[Rumin]\nUna habilidad similar al Lanzamiento de piedras es Ataque de arena, pero entre la arena y las piedras, me quedo con las piedras…"
+        "es-ES": "[Rumin]\nUna habilidad similar al Lanzamiento de piedras es Ataque de arena, pero entre la arena y las piedras, me quedo con las piedras..."
     },
     "G4NACg": {
         "en-US": "[Lumin]\nThat's everything, right?",
@@ -142,22 +142,22 @@
     "HINACg": {
         "en-US": "[Lumin]\n^4D4DFFHiding is when you hide on the spot.^000000\nIt's good to escape danger, but demons and insects can detect you.",
         "pt-BR": "[Rumin]\n^4D4DFFEsconderijo é quando você se esconde no local.^000000\nÉ bom para escapar do perigo, mas demônios e insetos podem detectá-lo.",
-        "es-ES": "[Rumin]\nOcultamiento crea un hueco para… Ocultarse…\nEs bueno para una huida de última hora, pero algunos monstruos pueden verte."
+        "es-ES": "[Rumin]\nOcultamiento crea un hueco para... Ocultarse...\nEs bueno para una huida de última hora, pero algunos monstruos pueden verte."
     },
     "HYNACg": {
         "en-US": "[Lumin]\nOh, and Hunters' Detect, Mages' Sight, Acolytes' Ruwach...\nAny skill that is used to find a hidden enemy will help to detect you.",
         "pt-BR": "[Rumin]\nAh, e Detectar dos caçadores, Visão dos magos, Ruwach dos noviços...\nQualquer habilidade que seja usada para encontrar um inimigo oculto ajudará a detectá-lo.",
-        "es-ES": "[Rumin]\nEs útil, pero no siempre, aunque es bueno… Me perdí.\nEn cualquier caso, vale la pena intentarlo."
+        "es-ES": "[Rumin]\nEs útil, pero no siempre, aunque es bueno... Me perdí.\nEn cualquier caso, vale la pena intentarlo."
     },
     "HoNACg": {
         "en-US": "[Lumin]\nSteal lets you steal items from monsters.\n... What other explanation do you need..?",
         "pt-BR": "[Rumin]\nSteal permite que você roube itens de monstros.\n... Que outra explicação você precisa...?",
-        "es-ES": "[Rumin]\nRobar es básicamente tomar los objetos de un monstruo sin permiso.\nEs muy divertido…"
+        "es-ES": "[Rumin]\nRobar es básicamente tomar los objetos de un monstruo sin permiso.\nEs muy divertido..."
     },
     "H4NACg": {
         "en-US": "[Lumin]\n^4D4DFFImprove Dodge^000000 and ^4D4DFFDouble Attack^000000 are\n^4D4DFFpassive skills^000000 that your body will execute automatically once you've learned them.",
         "pt-BR": "[Rumin]\n^4D4DFFMelhorar a Esquiva^000000 e ^4D4DFFAtaque Duplo^000000 são\n^4D4DFFhabilidades passivas^000000 que seu corpo executará automaticamente depois de aprendê-las.",
-        "es-ES": "[Rumin]\nEvasión mejorada y Doble ataque…\nAmbas son lo que llamamos habilidades pasivas…"
+        "es-ES": "[Rumin]\nEvasión mejorada y Doble ataque...\nAmbas son lo que llamamos habilidades pasivas..."
     },
     "IINACg": {
         "en-US": "[Lumin]\nEnvenom, Hiding, and Steal are skills that must be invoked to become active,\nwhile Improve Dodge and Double Attack are passive skills that are invoked automatically.",
@@ -177,22 +177,22 @@
     "I4NACg": {
         "en-US": "[Lumin]\n^4D4DFFEnvenom uses poison to attack the enemy.^000000\nAnd ^4D4DFFDetoxify lifts the effect of the poison.^000000\n... It's easy. Simple.",
         "pt-BR": "[Rumin]\n^4D4DFFEnvenom usa veneno para atacar o inimigo.\nE ^4D4DFFDetoxify retira o efeito do veneno.\n... É fácil. Simples.",
-        "es-ES": "[Rumin]\nEnvenenamiento consiste en infligir veneno al enemigo.\nDesintoxicación elimina los efectos del veneno…\nEso fue un poco… Obvio."
+        "es-ES": "[Rumin]\nEnvenenamiento consiste en infligir veneno al enemigo.\nDesintoxicación elimina los efectos del veneno...\nEso fue un poco... Obvio."
     },
     "JINACg": {
         "en-US": "[Lumin]\nSince my duty right now is to provide help and information,\nask me if there's anything else you'd like to know about.",
         "pt-BR": "[Rumin]\nComo meu dever no momento é fornecer ajuda e informações,\npergunte-me se há algo mais que você gostaria de saber.",
-        "es-ES": "[Rumin]\nBueno, estoy aquí para darte explicaciones, ¿no…?\nPregúntame cualquier cosa…"
+        "es-ES": "[Rumin]\nBueno, estoy aquí para darte explicaciones, ¿no...?\nPregúntame cualquier cosa..."
     },
     "JYNACg": {
         "en-US": "[Lumin]\nThe superiors have left these quests here for their subordinates.\nThey're quite simple, like pushing a rag around with your feet.",
         "pt-BR": "[Rumin]\nOs superiores deixaram essas missões aqui para seus subordinados.\nElas são bem simples, como empurrar um pano com os pés.",
-        "es-ES": "[Rumin]\nLas misiones iniciales que hacen los veteranos…\nSon tan fáciles que hasta dan sueño."
+        "es-ES": "[Rumin]\nLas misiones iniciales que hacen los veteranos...\nSon tan fáciles que hasta dan sueño."
     },
     "JoNACg": {
         "en-US": "[Lumin]\nIf you're curious, you can take one and try.\nThere are some quests that earn you rewards.",
         "pt-BR": "[Rumin]\nSe estiver curioso, você pode pegar um e experimentar.\nHá algumas missões que lhe dão recompensas.",
-        "es-ES": "[Rumin]\nPuedes aceptar una si quieres…\nPueden ser difíciles para ti… Ja, ja, ja."
+        "es-ES": "[Rumin]\nPuedes aceptar una si quieres...\nPueden ser difíciles para ti... Ja, ja, ja."
     },
     "J4NACg": {
         "en-US": "[Lumin]\nHey, you don't have to yell.",
@@ -207,7 +207,7 @@
     "KYNACg": {
         "en-US": "[Lumin]\n... .. . . .\nWhere was it that we met?\nSorry. I forget unpleasant memories as soon as possible.",
         "pt-BR": "[Rumin]\n... .. . . .\nOnde foi que nos conhecemos?\nDesculpe-me. Eu esqueço as lembranças desagradáveis o mais rápido possível.",
-        "es-ES": "[Rumin]\nMm…\n…\nLo siento, se mezclaron mis pensamientos por un momento…"
+        "es-ES": "[Rumin]\nMm...\n...\nLo siento, se mezclaron mis pensamientos por un momento..."
     },
     "KoNACg": {
         "en-US": "Kaizel",
@@ -232,7 +232,7 @@
     "LoNACg": {
         "en-US": "Ah... How annoying.",
         "pt-BR": "Ah... Que irritante.",
-        "es-ES": "Mm… Tal vez no…"
+        "es-ES": "Mm... Tal vez no..."
     },
     "L4NACg": {
         "en-US": "[Kaizel]\nIn the vicinity of Morroc, ¡°Drops,¡±",
@@ -267,17 +267,17 @@
     "NYNACg": {
         "en-US": "I don't know.",
         "pt-BR": "Eu não sei.",
-        "es-ES": "Ay, no lo sé…"
+        "es-ES": "Ay, no lo sé..."
     },
     "NoNACg": {
         "en-US": "[Kaizel]\nUnfortunately, Drops are Plants.\nI don't know how Plants evolve into moving life forms,\nbut they can become Herb Fairies.",
         "pt-BR": "[Kaizel]\nInfelizmente, os Drops são plantas.\nNão sei como as plantas evoluem para formas de vida móveis,\nmas elas podem se tornar Herb Fairies.",
-        "es-ES": "[Kaizel]\nLamentablemente, no estoy seguro de qué son los Drops…\nAsí que no puedo considerar esa opción…"
+        "es-ES": "[Kaizel]\nLamentablemente, no estoy seguro de qué son los Drops...\nAsí que no puedo considerar esa opción..."
     },
     "N4NACg": {
         "en-US": "[Kaizel]\nUnfortunately, Picky is small and Drops are medium-sized.\nSmall and medium monsters can be fought equally with a dagger.",
         "pt-BR": "[Kaizel]\nInfelizmente, o Picky é pequeno e os Drops são de tamanho médio.\nMonstros pequenos e médios podem ser combatidos igualmente com uma adaga.",
-        "es-ES": "[Kaizel]\nImposible, el Picky es pequeño y los Drops no…\nAunque la Cría de Lobo de desierto… No importa."
+        "es-ES": "[Kaizel]\nImposible, el Picky es pequeño y los Drops no...\nAunque la Cría de Lobo de desierto... No importa."
     },
     "OINACg": {
         "en-US": "[Kaizel]\nCorrect!\nSo you know the answer.",
@@ -312,12 +312,12 @@
     "PoNACg": {
         "en-US": "[Kaizel]\nIn other words,\nFire defeats Earth,\nEarth defeats Wind,\nWind is stronger than Water,\nWater defeats Fire.",
         "pt-BR": "[Kaizel]\nEm outras palavras,\nO fogo derrota a terra,\nA Terra vence o Vento,\nO vento é mais forte que a água,\na água vence o fogo.",
-        "es-ES": "[Kaizel]\nSi lo piensas de otra manera…\nEl Fuego derrota a la Tierra.\nLa Tierra derrota al Viento.\nEl Viento derrota al Agua.\nEl Agua derrota al Fuego."
+        "es-ES": "[Kaizel]\nSi lo piensas de otra manera...\nEl Fuego derrota a la Tierra.\nLa Tierra derrota al Viento.\nEl Viento derrota al Agua.\nEl Agua derrota al Fuego."
     },
     "P4NACg": {
         "en-US": "[Kaizel]\nIt's okay if you don't get all this right away.\nLet's try hunting 3 types of Fire property enemies now.",
         "pt-BR": "[Kaizel]\nNão tem problema se você não entender tudo isso logo de cara.\nVamos tentar caçar 3 tipos de inimigos com propriedade Fire agora.",
-        "es-ES": "[Kaizel]\nQuizá no lo entiendas a la primera…\n¿Qué te parece si derrotas criaturas para consolidar los conocimientos?"
+        "es-ES": "[Kaizel]\nQuizá no lo entiendas a la primera...\n¿Qué te parece si derrotas criaturas para consolidar los conocimientos?"
     },
     "QINACg": {
         "en-US": "Sure!",
@@ -327,7 +327,7 @@
     "QYNACg": {
         "en-US": "No thanks.",
         "pt-BR": "Não, obrigado.",
-        "es-ES": "[Ted Ado] Los Fabre y Chonchon son un poco peligrosos, ¿de acuerdo? A menudo los Ladrones envían a jóvenes a hacer este trabajo…"
+        "es-ES": "[Ted Ado] Los Fabre y Chonchon son un poco peligrosos, ¿de acuerdo? A menudo los Ladrones envían a jóvenes a hacer este trabajo..."
     },
     "QoNACg": {
         "en-US": "[Kaizel]\nLet's catch 5 monsters in the field south of Morroc.\nPicky, Drops, Baby Desert Wolves.",
@@ -337,7 +337,7 @@
     "Q4NACg": {
         "en-US": "[Kaizel]\nThe Baby Desert Wolf lives in the southeast fields of Morroc.\nBe careful of scorpions in the desert.",
         "pt-BR": "[Kaizel]\nO bebê lobo do deserto vive nos campos do sudeste de Morroc.\nCuidado com os escorpiões no deserto.",
-        "es-ES": "[Kaizel]\nComo referencia, la Cría de Lobo de desierto vive en los desiertos al sureste de Morroc…\nCuidado con los Escorpiones."
+        "es-ES": "[Kaizel]\nComo referencia, la Cría de Lobo de desierto vive en los desiertos al sureste de Morroc...\nCuidado con los Escorpiones."
     },
     "RINACg": {
         "en-US": "[Kaizel]\nI will give credit only for ^4D4DFFregular Pickys that don't use eggshells^000000.",
@@ -352,12 +352,12 @@
     "RoNACg": {
         "en-US": "[Kaizel]\n... What useless things have I been doing all this time?",
         "pt-BR": "[Kaizel]\n... Que coisas inúteis eu tenho feito todo esse tempo?",
-        "es-ES": "[Kaizel]\n…"
+        "es-ES": "[Kaizel]\n..."
     },
     "R4NACg": {
         "en-US": "[Kaizel]\n... I've embarrassed myself.",
         "pt-BR": "[Kaizel]\n... Eu me envergonhei.",
-        "es-ES": "[Kaizel]\n…"
+        "es-ES": "[Kaizel]\n..."
     },
     "SINACg": {
         "en-US": "[Kaizel]\nGo to ^4D4DFFFields in South Morroc, Southeast Morroc^000000\nand defeat 5 of each: Drops, Picky, and Baby Desert Wolf.",
@@ -387,17 +387,17 @@
     "TYNACg": {
         "en-US": "[Kaizel]\nConfirmed.\nYou did a good job!\nIf you felt a difference, that's a good thing.",
         "pt-BR": "[Kaizel]\nConfirmado.\nVocê fez um bom trabalho!\nSe você sentiu uma diferença, isso é bom.",
-        "es-ES": "[Kaizel]\n¡Oh, sí!\n¡Bien hecho!\nRealmente lo lograste…"
+        "es-ES": "[Kaizel]\n¡Oh, sí!\n¡Bien hecho!\nRealmente lo lograste..."
     },
     "ToNACg": {
         "en-US": "[Kaizel]\nTake your time to learn about the elemental properties.\nDon't forget to learn about properties of weapons , too.",
         "pt-BR": "[Kaizel]\nReserve um tempo para aprender sobre as propriedades elementares.\nNão se esqueça de aprender também sobre as propriedades das armas.",
-        "es-ES": "[Kaizel]\nYa que aprendiste sobre las propiedades…\nCreo que ahora te interesan más estas cosas…"
+        "es-ES": "[Kaizel]\nYa que aprendiste sobre las propiedades...\nCreo que ahora te interesan más estas cosas..."
     },
     "T4NACg": {
         "en-US": "[Kaizel]\nThey will be useful for you, so long as you make use of them, that is.\nWhat weapons you select are important, too.",
         "pt-BR": "[Kaizel]\nElas serão úteis para você, desde que você as utilize.\nAs armas que você escolher também são importantes.",
-        "es-ES": "[Kaizel]\nLos conocimientos te servirán, ya lo verás…\nEs importante tenerlo todo en cuenta al entrar en combate."
+        "es-ES": "[Kaizel]\nLos conocimientos te servirán, ya lo verás...\nEs importante tenerlo todo en cuenta al entrar en combate."
     },
     "UINACg": {
         "en-US": "[Kaizel]\nWeapons with specific properties are forged by master ^4D4DFFBlacksmiths^000000.\nIf there's a specific property you'd like a weapon to have, you can locate a Blacksmith and ask them for help.",
@@ -407,22 +407,22 @@
     "UYNACg": {
         "en-US": "[Kaizel]\nHey, kid.\nAre you ready to enter this world?\nHah, you're brave indeed!",
         "pt-BR": "[Kaizel]\nEi, garoto.\nVocê está pronto para entrar neste mundo?\nHah, você é realmente corajoso!",
-        "es-ES": "[Kaizel]\n¡Eh, muchacho!\n¿De verdad andas por aquí?\nVaya, eso sí que es ser valiente…"
+        "es-ES": "[Kaizel]\n¡Eh, muchacho!\n¿De verdad andas por aquí?\nVaya, eso sí que es ser valiente..."
     },
     "UoNACg": {
         "en-US": "[Kaizel]\nFor your Job Change - can you see the people over there with the forms?\nGo ask them.",
         "pt-BR": "[Kaizel]\nPara sua Mudança de Classe - você consegue ver as pessoas ali com os formulários?\nVá lhes perguntar.",
-        "es-ES": "[Kaizel]\nSolo no te quedes mirando a la gente, ¿eh?\nPodrías tener problemas…"
+        "es-ES": "[Kaizel]\nSolo no te quedes mirando a la gente, ¿eh?\nPodrías tener problemas..."
     },
     "U4NACg": {
         "en-US": "[Kaizel]\nWhy do you big folks come here?\nNothing's going to just fall into your hands here.",
         "pt-BR": "[Kaizel]\nPor que vocês, pessoas grandes, vêm aqui?\nNada vai cair em suas mãos aqui.",
-        "es-ES": "[Kaizel]\n¿Por qué hay tanta gente aquí?\nEstoy un poco confundido por toda esta gente…"
+        "es-ES": "[Kaizel]\n¿Por qué hay tanta gente aquí?\nEstoy un poco confundido por toda esta gente..."
     },
     "VINACg": {
         "en-US": "[Kaizel]\nSince you're here, why don't you help to train some of the newcomers?\nGive them a hand, maybe teach them a thing or two.",
         "pt-BR": "[Kaizel]\nJá que você está aqui, por que não ajuda a treinar alguns dos recém-chegados?\nAjude-os, talvez lhes ensine uma ou duas coisas.",
-        "es-ES": "[Kaizel]\nSi quieres, puedes entrenar aquí.\nQuizá un novato pueda enseñarme algo… Ja, ja, ja."
+        "es-ES": "[Kaizel]\nSi quieres, puedes entrenar aquí.\nQuizá un novato pueda enseñarme algo... Ja, ja, ja."
     },
     "VYNACg": {
         "en-US": "[Kaizel]\nWhy should people of other professions be here?\nThis isn't a playground.",
@@ -562,7 +562,7 @@
     "cINACg": {
         "en-US": "You agree to complete the quest.\nThe completion report will be available on the board.",
         "pt-BR": "Você concorda em concluir a missão.\nO relatório de conclusão estará disponível no quadro.",
-        "es-ES": "Decidiste continuar con la misión…\nRepórtate en el tablero de misiones fáciles."
+        "es-ES": "Decidiste continuar con la misión...\nRepórtate en el tablero de misiones fáciles."
     },
     "cYNACg": {
         "en-US": "You'll complete the quest the next time.",
@@ -602,7 +602,7 @@
     "eINACg": {
         "en-US": "[Quest Details]\nSometimes, I feel like having mushroom soup, but I don't dig for mushrooms anymore.\nAnything is fine, so please bring me some mushrooms from the mushroom farm.\n     - Shay",
         "pt-BR": "[Detalhes da missão]\nÀs vezes, tenho vontade de tomar sopa de cogumelos, mas não procuro mais cogumelos.\nQualquer coisa serve, então, por favor, traga-me alguns cogumelos da fazenda de cogumelos.\n- Shay",
-        "es-ES": "[Detalles de la misión]\nA veces me dan ganas de comer hongos…\nSi pudieras conseguirme algunos, ¡sería estupendo!\n-Anónimo."
+        "es-ES": "[Detalles de la misión]\nA veces me dan ganas de comer hongos...\nSi pudieras conseguirme algunos, ¡sería estupendo!\n-Anónimo."
     },
     "eYNACg": {
         "en-US": "[Quest List]\n^4D4DFF3 Orange Gooey Mushrooms^000000 harvested from the mushroom farm\nAsk ^4D4DFFMash of the Oasis^000000 for information on the farm's location.\nReward: Exp 3,000 JEXP 500",
@@ -612,12 +612,12 @@
     "eoNACg": {
         "en-US": "[Lumin]\nDo you know where the mushroom farm is?\nIn the small oasis in front of the pyramid...\nThere you can find ^4D4DFFBored Mash on the southern bank^000000.",
         "pt-BR": "[Rumin]\nVocê sabe onde fica a fazenda de cogumelos?\nNo pequeno oásis em frente à pirâmide...\nLá você pode encontrar ^4D4DFFBored Mash na margem sul^000000.",
-        "es-ES": "[Rumin]\n¿Sabes dónde está la Granja de hongos?\nHay un pequeño oasis frente a la pirámide…\nBusca a Ted Ado, él te ayudará…"
+        "es-ES": "[Rumin]\n¿Sabes dónde está la Granja de hongos?\nHay un pequeño oasis frente a la pirámide...\nBusca a Ted Ado, él te ayudará..."
     },
     "e4NACg": {
         "en-US": "[Lumin]\nThere are many insects in the mushroom farm.\nThey get excited and go on all out attack when they see people.\nThey're famished, so there may be bloodshed.",
         "pt-BR": "[Rumin]\nHá muitos insetos na fazenda de cogumelos.\nEles ficam empolgados e atacam com toda a força quando veem pessoas.\nEles estão famintos, então pode haver derramamento de sangue.",
-        "es-ES": "[Rumin]\nLa granja está llena de insectos.\nAtacan inmediatamente…\nPuede haber sangre y desesperación…"
+        "es-ES": "[Rumin]\nLa granja está llena de insectos.\nAtacan inmediatamente...\nPuede haber sangre y desesperación..."
     },
     "fINACg": {
         "en-US": "You completed the Memorable Mushroom Soup quest.",
@@ -627,7 +627,7 @@
     "fYNACg": {
         "en-US": "[Quest Details]\nSometimes, I feel like having mushroom soup, but I don't dig for mushrooms anymore.\nAnything is fine, so please bring me some mushrooms from the mushroom farm.\n     - Kai",
         "pt-BR": "[Detalhes da missão]\nÀs vezes, tenho vontade de tomar sopa de cogumelos, mas não procuro mais cogumelos.\nQualquer coisa serve, então, por favor, traga-me alguns cogumelos da fazenda de cogumelos.\n- Kai",
-        "es-ES": "[Detalles de la misión]\nA veces me dan ganas de comer hongos…\nSi pudieras conseguirme algunos, ¡sería estupendo!\n-Anónimo."
+        "es-ES": "[Detalles de la misión]\nA veces me dan ganas de comer hongos...\nSi pudieras conseguirme algunos, ¡sería estupendo!\n-Anónimo."
     },
     "foNACg": {
         "en-US": "[Quest Details]\nGo to Eden Group.\nGo twice!",
@@ -687,7 +687,7 @@
     "iYNACg": {
         "en-US": "[Quest Details]\nHow have you been, lads?\nThe rascal I'll introduce to you today is one of the strongest knights the world has ever seen!\nIt's Ambernite!\nIt will be a long journey. Getting out of the desert will be hard enough.\nGood luck!",
         "pt-BR": "[Detalhes da missão]\nComo vocês têm passado, rapazes?\nO patife que vou apresentar a vocês hoje é um dos cavaleiros mais fortes que o mundo já viu!\nÉ Ambernite!\nSerá uma longa jornada. Sair do deserto já será bastante difícil.\nBoa sorte!",
-        "es-ES": "[Detalles de la misión]\nEspero que estés preparado…\n¡Este será el mayor reto de tu vida!\n¡Derrota al Ambarnito!\nSerá un largo viaje…\n¡Buena suerte!\n-Anónimo."
+        "es-ES": "[Detalles de la misión]\nEspero que estés preparado...\n¡Este será el mayor reto de tu vida!\n¡Derrota al Ambarnito!\nSerá un largo viaje...\n¡Buena suerte!\n-Anónimo."
     },
     "ioNACg": {
         "en-US": "- Master Thief Hohenhulhogh",
@@ -732,7 +732,7 @@
     "koNACg": {
         "en-US": "[Lumin]\nThat's Ambernite.\n... There's a rumor that he was once a Knight of Abyss and a worthy opponent, but I don't know if its true...",
         "pt-BR": "[Rumin]\nIsso é Ambernite.\n... Há um boato de que ele já foi um Cavaleiro do Abismo e um oponente digno, mas não sei se é verdade...",
-        "es-ES": "[Rumin]\nEs Ambarnito.\nCuenta la leyenda que a veces se despojaba de su caparazón y se convertía en un monstruo gigante…"
+        "es-ES": "[Rumin]\nEs Ambarnito.\nCuenta la leyenda que a veces se despojaba de su caparazón y se convertía en un monstruo gigante..."
     },
     "k4NACg": {
         "en-US": "[Lumin]\nBe safe.\nIf you run into me, I'll help you.",
@@ -762,7 +762,7 @@
     "mINACg": {
         "en-US": "[Lumin]\nAfter exiting through the west exit of Prontera, proceed straight until you see the snail.\nHmm...",
         "pt-BR": "[Rumin]\nDepois de sair pela saída oeste de Prontera, siga em frente até ver o caracol.\nHmm...",
-        "es-ES": "[Rumin]\nSigue hacia el oeste y te encontrarás con los Ambarnitos…\n…"
+        "es-ES": "[Rumin]\nSigue hacia el oeste y te encontrarás con los Ambarnitos...\n..."
     },
     "mYNACg": {
         "en-US": "[Lumin]\nWe'll work together if you are lucky enough to run into me.",
@@ -772,7 +772,7 @@
     "moNACg": {
         "en-US": "[Quest Details]\nOn a day when the sandy winds were gushing strong,\namidst the sprayed sand,\nI faced my enemies.\n17 of the vile beasts!\nI lost the battle,\nand the memory of my defeat tastes bitter.",
         "pt-BR": "[Detalhes da missão]\nEm um dia em que os ventos arenosos estavam soprando forte,\nem meio à areia pulverizada,\nenfrentei meus inimigos.\n17 das bestas vis!\nPerdi a batalha,\ne a lembrança de minha derrota tem um gosto amargo.",
-        "es-ES": "[Detalles de la misión]\nEn medio de una tormenta de arena…\nCuando no podías ver nada a tu alrededor…\nMe rodearon los enemigos…\nUnos 17 de ellos me amenazaron.\nObviamente perdí…\nFue una buena derrota… Quiero decir, recuerdo."
+        "es-ES": "[Detalles de la misión]\nEn medio de una tormenta de arena...\nCuando no podías ver nada a tu alrededor...\nMe rodearon los enemigos...\nUnos 17 de ellos me amenazaron.\nObviamente perdí...\nFue una buena derrota... Quiero decir, recuerdo."
     },
     "m4NACg": {
         "en-US": "[Quest List]\n^4D4DFFDefeat 17 Scorpions^000000.\nArea: South Morroc - South Field",
@@ -822,7 +822,7 @@
     "pINACg": {
         "en-US": "[Quest Details]\nMore people have been visiting the mushroom farm lately.\nBut there are still many insects.\nThey're very rude and bad-tempered insects. Help me eliminate them.\n     - Bored Mash",
         "pt-BR": "[Detalhes da missão]\nMais pessoas têm visitado a fazenda de cogumelos ultimamente.\nMas ainda há muitos insetos.\nSão insetos muito rudes e mal-humorados. Ajude-me a eliminá-los.\n- Mash entediado",
-        "es-ES": "[Detalles de la misión]\nMucha gente visita la Granja de hongos.\nY siempre hay insectos ahí…\nPor favor, ¡deshazte de estos insectos!\n-Anónimo."
+        "es-ES": "[Detalles de la misión]\nMucha gente visita la Granja de hongos.\nY siempre hay insectos ahí...\nPor favor, ¡deshazte de estos insectos!\n-Anónimo."
     },
     "pYNACg": {
         "en-US": "[Quest List]\n^4D4DFFDefeat 10 Chonchon and Fabre at the Mushroom Farm^000000",
@@ -877,12 +877,12 @@
     "r4NACg": {
         "en-US": "[Lumin]\nDisplay on minimap.\nSince it's located right in the middle,\nyou won't get lost as long as you follow the map closely.",
         "pt-BR": "[Rumin]\nExibição no minimapa.\nComo ele está localizado bem no meio,\nvocê não se perderá, desde que siga o mapa de perto.",
-        "es-ES": "Ya lo sé…"
+        "es-ES": "Ya lo sé..."
     },
     "sINACg": {
         "en-US": "[Lumin]\nSure.\nOkay.",
         "pt-BR": "[Rumin]\nClaro.\nEstá bem.",
-        "es-ES": "[Rumin]\nDe acuerdo, lo marqué en tu minimapa… \nEstá justo en el centro…\nSi te fijas bien, ¡no te perderás!"
+        "es-ES": "[Rumin]\nDe acuerdo, lo marqué en tu minimapa... \nEstá justo en el centro...\nSi te fijas bien, ¡no te perderás!"
     },
     "sYNACg": {
         "en-US": "Bored Mash",
@@ -907,7 +907,7 @@
     "tYNACg": {
         "en-US": "[Mash]\nHuh? A farm?\nThere's been no reason to go there recently...\nAh, you got my quest.",
         "pt-BR": "[Mash]\nHã? Uma fazenda?\nNão há motivos para ir até lá recentemente...\nAh, você conseguiu minha missão.",
-        "es-ES": "[Ted Ado]\nMm… ¿Granja?\nNadie busca la Granja de hongos últimamente…\nAh, tienes una misión, ¿no?"
+        "es-ES": "[Ted Ado]\nMm... ¿Granja?\nNadie busca la Granja de hongos últimamente...\nAh, tienes una misión, ¿no?"
     },
     "toNACg": {
         "en-US": "[Mash]\nFabre and Chonchon are a little tough. Will you be comfortable?\nThis place is a little dangerous, as it was previously used for the Thief Job Change exam.",
@@ -922,22 +922,22 @@
     "uINACg": {
         "en-US": "[Mash]\nBland?",
         "pt-BR": "[Mash]\nSem graça?",
-        "es-ES": "[Ted Ado]\nQué aburrido…"
+        "es-ES": "[Ted Ado]\nQué aburrido..."
     },
     "uYNACg": {
         "en-US": "[Mash]\nI'm bored. I'm so very bored.\nIt's obvious that everyone has forgotten about the mushroom farm!",
         "pt-BR": "[Mash]\nEstou entediado. Estou muito entediado.\nÉ óbvio que todos se esqueceram da fazenda de cogumelos!",
-        "es-ES": "[Ted Ado]\nMm… ¿ayudar a Morroc?\nEstoy muy aburrido…"
+        "es-ES": "[Ted Ado]\nMm... ¿ayudar a Morroc?\nEstoy muy aburrido..."
     },
     "uoNACg": {
         "en-US": "[Rumin]\n...  .. .\nHere's your reward.\n... Don't accept these kinds of quests next time... They're exhausting.",
         "pt-BR": "[Rumin]\n... .. .\nAqui está sua recompensa.\n... Não aceite esse tipo de missão da próxima vez... Elas são exaustivas.",
-        "es-ES": "[Rumin]\n…\nAquí está la recompensa de la misión.\nLa próxima vez no tardes tanto…"
+        "es-ES": "[Rumin]\n...\nAquí está la recompensa de la misión.\nLa próxima vez no tardes tanto..."
     },
     "u4NACg": {
         "en-US": "[Rumin]\nSince you accepted that quest, I had to hide and wait for you to return.",
         "pt-BR": "[Rumin]\nDesde que você aceitou essa missão, tive que me esconder e esperar que você voltasse.",
-        "es-ES": "[Rumin]\nDesde que aceptaste la misión, evité estar al descubierto hasta que volvieras…"
+        "es-ES": "[Rumin]\nDesde que aceptaste la misión, evité estar al descubierto hasta que volvieras..."
     },
     "vINACg": {
         "en-US": "Generic Desert Thief",
@@ -947,7 +947,7 @@
     "vYNACg": {
         "en-US": "[GDT]\nSo you're a novice?\nWhat are you looking for?\nJust for today, I'll tell you everything I know.",
         "pt-BR": "[GDT]\nEntão você é um aprendiz?\nO que está procurando?\nSó por hoje, vou lhe dizer tudo o que sei.",
-        "es-ES": "[Ladrón del desierto]\n¿Cómo? ¿Un novato?\n¿Qué buscas?\nSolo dímelo de una vez…"
+        "es-ES": "[Ladrón del desierto]\n¿Cómo? ¿Un novato?\n¿Qué buscas?\nSolo dímelo de una vez..."
     },
     "voNACg": {
         "en-US": "Location of Thief Guild",
@@ -972,7 +972,7 @@
     "woNACg": {
         "en-US": "[GDT]\nYou'll see the pyramid immediately once you leave from the northwest exit of Morroc.\nIt'll be right in front of you.",
         "pt-BR": "[GDT]\nVocê verá a pirâmide imediatamente após sair da saída noroeste de Morroc.\nEla estará bem na sua frente.",
-        "es-ES": "[Ladrón del desierto]\nLa pirámide está cerca de la salida noroeste de Morroc.\nEstará justo delante de ti…"
+        "es-ES": "[Ladrón del desierto]\nLa pirámide está cerca de la salida noroeste de Morroc.\nEstará justo delante de ti..."
     },
     "w4NACg": {
         "en-US": "[GDT]\nIf you go out from the northwest exit of Morroc...!\nThere's an oasis.",
@@ -997,32 +997,32 @@
     "x4NACg": {
         "en-US": "[GDT]\nI see... Generic Desert Thief... right...\nNo, I am none other than...!",
         "pt-BR": "[GDT]\nEstou vendo... Ladrão genérico do deserto... certo...\nNão, eu sou ninguém menos que...!",
-        "es-ES": "[Ladrón del desierto]\n…\nNunca sabrás mi identidad…"
+        "es-ES": "[Ladrón del desierto]\n...\nNunca sabrás mi identidad..."
     },
     "yINACg": {
         "en-US": "[GDT]\nWhat are you looking at?\nIs my name that funny?\nYou seem confused.\nIt's an alias. A-li-as",
         "pt-BR": "[GDT]\nPara onde está olhando?\nMeu nome é tão engraçado assim?\nVocê parece confuso.\nÉ um pseudônimo. A-li-as",
-        "es-ES": "[Ladrón del desierto]\n¿Qué miras?\n¿Te pareció gracioso mi nombre?\nNi siquiera tengo un nombre…\nLlevo tanto tiempo en el desierto que ya lo olvidé."
+        "es-ES": "[Ladrón del desierto]\n¿Qué miras?\n¿Te pareció gracioso mi nombre?\nNi siquiera tengo un nombre...\nLlevo tanto tiempo en el desierto que ya lo olvidé."
     },
     "yYNACg": {
         "en-US": "[GDT]\nWasn't that brilliant? Very clever!\nIt stands for Greatest Desert Thief! That is just the opposite of generic!\nGDT does not stand for Generic Desert Thief! Stop laughing at me now!",
         "pt-BR": "[GDT]\nNão foi brilhante? Muito inteligente!\nSignifica Greatest Desert Thief (Maior Ladrão do Deserto)! Isso é exatamente o oposto de genérico!\nGDT não significa Ladrão do Deserto Genérico! Pare de rir de mim agora!",
-        "es-ES": "[Ladrón del desierto]\nSi no te gusta, llámame como quieras.\nEl nombre actual significa que paso mucho tiempo aquí…\n¡Al menos soy bueno en eso!"
+        "es-ES": "[Ladrón del desierto]\nSi no te gusta, llámame como quieras.\nEl nombre actual significa que paso mucho tiempo aquí...\n¡Al menos soy bueno en eso!"
     },
     "yoNACg": {
         "en-US": "[Lumin]\n... Hm...\nDo you know what Odd Jobs are?\nOn the guild's quest board, there's a quest to beat Ambernite.",
         "pt-BR": "[Rumin]\n... Hm...\nVocê sabe o que são Odd Jobs?\nNo quadro de missões da guilda, há uma missão para derrotar o Ambernite.",
-        "es-ES": "[Rumin]\n…\n¿Conoces las misiones fáciles?\nEs un tipo de misión en el gremio de Ladrones…"
+        "es-ES": "[Rumin]\n...\n¿Conoces las misiones fáciles?\nEs un tipo de misión en el gremio de Ladrones..."
     },
     "y4NACg": {
         "en-US": "[Lumin]\nIf it catches your eye, try to complete it.",
         "pt-BR": "[Rumin]\nSe ela chamar sua atenção, tente completá-la.",
-        "es-ES": "[Rumin]\nSi estás interesado, adelante…"
+        "es-ES": "[Rumin]\nSi estás interesado, adelante..."
     },
     "zINACg": {
         "en-US": "[Lumin]\n...\n... Hm...",
         "pt-BR": "[Rumin]\n...\n... Hm...",
-        "es-ES": "[Rumin]\n…\nMm…"
+        "es-ES": "[Rumin]\n...\nMm..."
     },
     "zYNACg": {
         "en-US": "What are you doing?",
@@ -1032,7 +1032,7 @@
     "zoNACg": {
         "en-US": "[Lumin]\nI'm sorting through my memories to see if I can recognize this fellow.\nHm... Sorry. Not a clue!\n... I am very forgetful.",
         "pt-BR": "[Rumin]\nEstou examinando minhas memórias para ver se consigo reconhecer esse sujeito.\nHm... Desculpe. Não é uma pista!\n... Sou muito esquecido.",
-        "es-ES": "[Rumin]\nMis pensamientos se tornan conflictivos…\nOcurre de vez en cuando…\nY luego acabo olvidándome de todo."
+        "es-ES": "[Rumin]\nMis pensamientos se tornan conflictivos...\nOcurre de vez en cuando...\nY luego acabo olvidándome de todo."
     },
     "z4NACg": {
         "en-US": "[Lumin]\nThe Pumpkin Knight can be considered an Ambernite too,\nbut the target of your quest is none other than that snail.",
@@ -1052,7 +1052,7 @@
     "0oNACg": {
         "en-US": "[Lumin]\nGoing all the way back to Morroc is quite exhausting, you know.\nIt's the least I can do for a fellow guild member.\n...\nThough it'll only make things harder for me...",
         "pt-BR": "[Rumin]\nVoltar até Morroc é bastante cansativo, você sabe.\nÉ o mínimo que posso fazer por um colega da guilda.\n...\nEmbora isso só vá tornar as coisas mais difíceis para mim...",
-        "es-ES": "[Rumin]\nSé que es difícil desplazarse por Morroc.\n¡Es una apreciación que hace el propio gremio!\nPero soy el único que habla abiertamente sobre…"
+        "es-ES": "[Rumin]\nSé que es difícil desplazarse por Morroc.\n¡Es una apreciación que hace el propio gremio!\nPero soy el único que habla abiertamente sobre..."
     },
     "04NACg": {
         "en-US": "[Lumin]\nDefeat 10 Ambernite.\nGood! I confirmed your progress.\nHere's your reward.",
@@ -1062,12 +1062,12 @@
     "1INACg": {
         "en-US": "[Lumin]\nSince it's quite far,\nYou'll get a coupon for the wharf.",
         "pt-BR": "[Rumin]\nJá que é bem longe,\nVocê receberá um cupom para o cais.",
-        "es-ES": "[Rumin]\nEs una larga distancia…\nTe daré un boleto."
+        "es-ES": "[Rumin]\nEs una larga distancia...\nTe daré un boleto."
     },
     "1YNACg": {
         "en-US": "[Lumin]\nThe bored rubbernecker Priest can probably help you with simple teleportation,\nso make use of his help as you need.",
         "pt-BR": "[Rumin]\nO sacerdote entediado pode provavelmente ajudá-lo com um simples teletransporte,\nportanto, faça uso de sua ajuda quando precisar.",
-        "es-ES": "[Rumin]\nTienes que tener cuidado al caminar por ahí…\nPiensa bien cómo desplazarte…"
+        "es-ES": "[Rumin]\nTienes que tener cuidado al caminar por ahí...\nPiensa bien cómo desplazarte..."
     },
     "1oNACg": {
         "en-US": "[Lumin]\nDid you like the Ambernites?\nOr was it the field that you liked?",
@@ -1077,7 +1077,7 @@
     "14NACg": {
         "en-US": "[Lumin]\nWell, none of my business.\nIf there's something you need, go ahead and ask the Priest next to you.",
         "pt-BR": "[Rumin]\nBem, não é da minha conta.\nSe precisar de algo, vá em frente e peça ao sacerdote ao seu lado.",
-        "es-ES": "[Rumin]\nBueno, no me importa.\nSi necesitas algo, no me lo pidas a mí…\nHabla con la Sacerdotisa que está a mi lado."
+        "es-ES": "[Rumin]\nBueno, no me importa.\nSi necesitas algo, no me lo pidas a mí...\nHabla con la Sacerdotisa que está a mi lado."
     },
     "2INACg": {
         "en-US": "Bored Priest",
@@ -1087,7 +1087,7 @@
     "2YNACg": {
         "en-US": "[Rubbernecker]\nHey, cuties.\nDo you need something?\nTell me everything!",
         "pt-BR": "[Rubbernecker]\nEi, gatinhas.\nPrecisam de alguma coisa?\nMe contem tudo!",
-        "es-ES": "[Sacerdotisa aburrida]\nSaludos…\n¿Necesitas algo?\nEscucha la melodía…"
+        "es-ES": "[Sacerdotisa aburrida]\nSaludos...\n¿Necesitas algo?\nEscucha la melodía..."
     },
     "2oNACg": {
         "en-US": "I'm tired.",
@@ -1107,7 +1107,7 @@
     "3YNACg": {
         "en-US": "[Rubbernecker]\nReally?\nSo you just need me to heal you? Just like this?",
         "pt-BR": "[Rubbernecker]\nSério?\nEntão você só precisa que eu o cure? Assim, sem mais nem menos?",
-        "es-ES": "[Sacerdotisa aburrida]\nPues bien…\nTe curaré…"
+        "es-ES": "[Sacerdotisa aburrida]\nPues bien...\nTe curaré..."
     },
     "3oNACg": {
         "en-US": "[Rubbernecker]\nAh-hah! Are you feeling better now?",
@@ -1117,7 +1117,7 @@
     "34NACg": {
         "en-US": "[Rubbernecker]\nI'll keep you in my prayers then!\nYep!",
         "pt-BR": "[Rubbernecker]\nVou mantê-lo em minhas orações, então!\nSim!",
-        "es-ES": "[Sacerdotisa aburrida]\nRezaré para que mejores…\n¡Amén!"
+        "es-ES": "[Sacerdotisa aburrida]\nRezaré para que mejores...\n¡Amén!"
     },
     "4INACg": {
         "en-US": "[Rubbernecker]\nOh my... then I'll just send you to a saved location!\n^4D4DFFGo to a saved location?^000000",

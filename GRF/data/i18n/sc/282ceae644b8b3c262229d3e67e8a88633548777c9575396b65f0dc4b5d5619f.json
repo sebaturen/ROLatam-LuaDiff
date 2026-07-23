@@ -1,11 +1,11 @@
 {
     "wAXZAQ": {
-        "en-US": "Ninja Tool Merchant",
+        "en-US": "Ninja Merchant",
         "pt-BR": "Vendedor Ninja",
         "es-ES": "Comerciante Ninja"
     },
     "wQXZAQ": {
-        "en-US": "[Ninja Tool Merchant]\nHello, how may I help you?",
+        "en-US": "[Ninja Merchant]\nHello, how can I help you?",
         "pt-BR": "[Vendedor Ninja]\nOlá, em que posso ajudar?",
         "es-ES": "[Comerciante Ninja]\nHola, ¿en qué puedo ayudarte?"
     },
@@ -15,12 +15,12 @@
         "es-ES": "Comprar herramientas ninja."
     },
     "wwXZAQ": {
-        "en-US": "Exchange Scrolls",
+        "en-US": "Create Emakimono",
         "pt-BR": "Criar Emakimono",
         "es-ES": "Intercambiar por pergaminos."
     },
     "xAXZAQ": {
-        "en-US": "Sell Items",
+        "en-US": "Sell items",
         "pt-BR": "Vender meus itens",
         "es-ES": "Vender objetos."
     },

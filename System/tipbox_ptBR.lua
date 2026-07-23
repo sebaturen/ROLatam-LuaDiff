@@ -6105,5 +6105,257 @@ tbl_string = {
 				[19] = "<TIPBOX>»Ver Lista de Dicas<INFO>1000</INFO></TIPBOX>"
 			}
 		}
+	},
+	[9031] = {
+		Title = "Personagem: Classes",
+		Page = {
+			[1] = {
+				[1] = "No mundo de Ragnarok, existem diversas classes.",
+				[2] = "<TIPBOX>§Guia de mudança para 1ª classe<INFO>9032</INFO></TIPBOX>",
+				[3] = "<TIPBOX>§Guia de mudança para 2ª classe<INFO>9000</INFO></TIPBOX>",
+				[4] = "<TIPBOX>§Sobre as classes transcendentes<INFO>9051</INFO></TIPBOX>",
+				[5] = "<TIPBOX>§Guia de mudança para 3ª classe<INFO>9052</INFO></TIPBOX>",
+				[6] = "<TIPBOX>§Guia de mudança para 4ª classe<INFO>9136</INFO></TIPBOX>",
+				[7] = "",
+				[8] = "<TIPBOX>§Guia de mudança para classes expandidas<INFO>9039</INFO></TIPBOX>",
+				[9] = "<TIPBOX>§Guia de avanço superior de classes expandidas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>§Guia dos Doram<INFO>9044</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "<TIPBOX>»Classes de produção<INFO>9068</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»Para a página de personagens<INFO>1001</INFO></TIPBOX>",
+				[14] = "<TIPBOX>»Missões<INFO>4100</INFO></TIPBOX>",
+				[15] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9043] = {
+		Title = "JQ Mudança de classe para Superaprendiz",
+		Page = {
+			[1] = {
+				[1] = "Superaprendiz é uma classe que, ao contrário do Superaprendiz, que só pode usar Primeiros Socorros e Fingir de Morto, pode usar a maior parte das habilidades das 6 classes de 1ª classe. O maior atrativo de Superaprendiz é poder aprender a maior parte das habilidades das classes de 1ª classe.",
+				[2] = "No entanto, Superaprendiz também é uma classe própria, então, ao se tornar Superaprendiz, não será possível mudar para outra classe de 1ª classe.",
+				[3] = "^663399§Nível de base 45 ou superior^000000",
+				[4] = "^663399§Nível de classe 10 ou superior^000000",
+				[5] = "^663399§Alvo: Superaprendiz^000000",
+				[6] = "",
+				[7] = "<NAVI>[Tzerero]<INFO>aldeba_in,223,167,0,101,0,</INFO></NAVI>",
+				[8] = "",
+				[9] = "Superaprendiz com nível de base 200 e nível de classe (Job Nível) 70 ou superior poderá mudar para uma classe expandida superior.",
+				[10] = "<TIPBOX>▷Hyper Novice<INFO>4250</INFO></TIPBOX>",
+				[11] = "",
+				[12] = "<TIPBOX>»Voltar à página anterior<INFO>9039</INFO></TIPBOX>",
+				[13] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9044] = {
+		Title = "JQ Guia dos Doram",
+		Page = {
+			[1] = {
+				[1] = "Os Doram possuem excelentes capacidades como Invocador e, em geral, escolhem o caminho de se tornarem Invocador.",
+				[2] = "A aventura de um Doram Invocador, que acaba de estrear como aventureiro, começa agora em Midgard.",
+				[3] = "",
+				[4] = "Invocador com nível de base 200 e nível de classe (Job Nível) 60 ou superior poderá mudar para uma classe expandida superior.",
+				[5] = "<TIPBOX>▷Animista<INFO>4251</INFO></TIPBOX>",
+				[6] = "",
+				[7] = "<TIPBOX>»Voltar à página anterior<INFO>9039</INFO></TIPBOX>",
+				[8] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9047] = {
+		Title = "JQ Mudança de classe para Mestre Estelar",
+		Page = {
+			[1] = {
+				[1] = "Entre os Mestre Taekwon, que manipulam o poder do Sol, da Lua e das Estrelas, aqueles que buscavam um conhecimento mais amplo para fortalecer seu poder compreenderam o conhecimento do universo, a lógica de todas as coisas, e passaram a se chamar Imperadores Estelares.",
+				[2] = "^663399§Nível de base 99 ou superior^000000",
+				[3] = "^663399§Nível de classe 50 ou superior^000000",
+				[4] = "^663399§Alvo: Mestre Taekwon^000000",
+				[5] = "",
+				[6] = "<NAVI>[Cara bem-vestido]<INFO>payon,171,171,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Mestre Estelar com nível de base 200 e nível de classe (Job Nível) 70 ou superior poderá mudar para uma classe expandida superior.",
+				[9] = "<TIPBOX>▷Mestre Celestial<INFO>4252</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Voltar à página anterior<INFO>9045</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9048] = {
+		Title = "JQ Mudança de classe para Ceifador de Almas",
+		Page = {
+			[1] = {
+				[1] = "A grande Espiritualista, que alcançou a compreensão da energia espiritual, tornou-se uma Ceifador de Almas, mas não pôde mais retornar à superfície. Em vez disso, ela aguarda os Espiritualista que virão ao pós-vida para estudar as almas, assim como ela.",
+				[2] = "^663399§Nível de base 99 ou superior^000000",
+				[3] = "^663399§Nível de classe 50 ou superior^000000",
+				[4] = "^663399§Alvo: Espiritualista^000000",
+				[5] = "",
+				[6] = "<NAVI>[Banyak]<INFO>pay_fild08,51,82,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Ceifador de Almas com nível de base 200 e nível de classe (Job Nível) 70 ou superior poderá mudar para uma classe expandida superior.",
+				[9] = "<TIPBOX>▷Asceta<INFO>4253</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Voltar à página anterior<INFO>9046</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9049] = {
+		Title = "JQ Mudança de classe para Kagerou/Oboro",
+		Page = {
+			[1] = {
+				[1] = "O clã que passou longos anos oculto nas Sombra do mundo revelou-se quando tempos turbulentos e caóticos chegaram, mas ainda não surgiu alguém capaz de herdar seu verdadeiro nome.",
+				[2] = "^663399§Nível de base 99 ou superior^000000",
+				[3] = "^663399§Nível de classe 70 ou superior^000000",
+				[4] = "^663399§Alvo: Ninja^000000",
+				[5] = "",
+				[6] = "<NAVI>[Caminho para o local de mudança de classe Ninja]<INFO>que_ng,28,156,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Kagerou/Oboro com nível de base 200 e nível de classe (Job Nível) 70 ou superior poderá mudar para uma classe expandida superior.",
+				[9] = "<TIPBOX>▷Shinkiro/Shiranui<INFO>4254</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Voltar à página anterior<INFO>9041</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[9050] = {
+		Title = "JQ Mudança de classe para Insurgente",
+		Page = {
+			[1] = {
+				[1] = "Insurgente, a classe superior de Justiceiro, que domina todas as armas de fogo, não só utiliza todo tipo de arma de fogo, como também pode marcar alvos ou causar dano poderoso contra alvos marcados.",
+				[2] = "^663399§Nível de base 99 ou superior^000000",
+				[3] = "^663399§Nível de classe 70 ou superior^000000",
+				[4] = "^663399§Alvo: Justiceiro^000000",
+				[5] = "",
+				[6] = "<NAVI>[Homem suspeito]<INFO>moc_fild12,261,318,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "Insurgente com nível de base 200 e nível de classe (Job Nível) 70 ou superior poderá mudar para uma classe expandida superior.",
+				[9] = "<TIPBOX>▷Guerrilheiro<INFO>4255</INFO></TIPBOX>",
+				[10] = "",
+				[11] = "<TIPBOX>»Voltar à página anterior<INFO>9042</INFO></TIPBOX>",
+				[12] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4249] = {
+		Title = "Guia de avanço superior de classes expandidas",
+		Page = {
+			[1] = {
+				[1] = "Classes expandidas com nível de base 200 e nível de classe (Job Nível) 70 ou superior podem mudar para classes expandidas superiores.",
+				[2] = "<TIPBOX>▷Hiperaprendiz<INFO>4250</INFO></TIPBOX>",
+				[3] = "<TIPBOX>▷Animista<INFO>4251</INFO></TIPBOX>",
+				[4] = "<TIPBOX>▷Mestre Celestial<INFO>4252</INFO></TIPBOX>",
+				[5] = "<TIPBOX>▷Asceta<INFO>4253</INFO></TIPBOX>",
+				[6] = "<TIPBOX>▷Shinkiro/Shiranui<INFO>4254</INFO></TIPBOX>",
+				[7] = "<TIPBOX>▷Guerrilheiro<INFO>4255</INFO></TIPBOX>",
+				[8] = "",
+				[9] = "<TIPBOX>»Personagem: Classes<INFO>9031</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4250] = {
+		Title = "JQ Mudança de classe para Hiperaprendiz",
+		Page = {
+			[1] = {
+				[1] = "Hiperaprendiz, classe derivada de Superaprendiz, estudou ainda mais as técnicas de outras classes, aprimorando-as para que os frágeis Noviços pudessem utilizá-las melhor e transformando-as em habilidades de fortalecimento próprias. Superaprendiz continua fraco, mas usa técnicas aprimoradas para subjugar inimigos em um instante.",
+				[2] = "^663399§Nível de base 200 ou superior^000000",
+				[3] = "^663399§Nível de classe 70 ou superior^000000",
+				[4] = "^663399§Alvo: Superaprendiz^000000",
+				[5] = "",
+				[6] = "<NAVI>[Grape]<INFO>aldebaran,110,70,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Mudança de classe para Superaprendiz<INFO>9043</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guia de avanço superior de classes expandidas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4251] = {
+		Title = "JQ Mudança de classe para Animista",
+		Page = {
+			[1] = {
+				[1] = "Animista, classe derivada de Invocador, segue um novo caminho ao encontrar bestas espirituais especiais. Os Doram que se tornam Animista podem usar o poder de poderosas bestas espirituais para aproveitar aventuras ainda mais empolgantes com seus companheiros.",
+				[2] = "^663399§Nível de base 200 ou superior^000000",
+				[3] = "^663399§Nível de classe 60 ou superior^000000",
+				[4] = "^663399§Alvo: Invocador^000000",
+				[5] = "",
+				[6] = "<NAVI>[Quadro de Solicitações]<INFO>payon,165,116,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Guia dos Doram<INFO>9044</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guia de avanço superior de classes expandidas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4252] = {
+		Title = "JQ Mudança de classe para Mestre Celestial",
+		Page = {
+			[1] = {
+				[1] = "Mestre Estelar, que compreendeu as leis de Movimento dos Céus, renasce como Mestre Celestial e passa a concentrar e controlar as energias do Sol, da Lua e das Estrelas.",
+				[2] = "^663399§Nível de base 200 ou superior^000000",
+				[3] = "^663399§Nível de classe 70 ou superior^000000",
+				[4] = "^663399§Alvo: Mestre Estelar^000000",
+				[5] = "",
+				[6] = "<NAVI>[Placa]<INFO>payon,213,202,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Mudança de classe para Mestre Estelar<INFO>9047</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guia de avanço superior de classes expandidas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4253] = {
+		Title = "JQ Mudança de classe para Asceta",
+		Page = {
+			[1] = {
+				[1] = "Asceta, classe derivada de Ceifador de Almas, treinou artes de talismãs como um poderoso meio de auxiliar no controle das almas. Asceta pode usar diversos talismãs para empregar técnicas de suporte e ataque ainda mais poderosas.",
+				[2] = "^663399§Nível de base 200 ou superior^000000",
+				[3] = "^663399§Nível de classe 70 ou superior^000000",
+				[4] = "^663399§Alvo: Ceifador de Almas^000000",
+				[5] = "",
+				[6] = "<NAVI>[Atendente]<INFO>payon,197,119,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Mudança de classe para Ceifador de Almas<INFO>9048</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guia de avanço superior de classes expandidas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4254] = {
+		Title = "JQ Mudança de classe para Shinkiro/Shiranui",
+		Page = {
+			[1] = {
+				[1] = "Shinkiro/Shiranui, classes derivadas de Kagerou/Oboro, aprenderam artes secretas perdidas dos antigos Ninja e passaram a usar poderosas técnicas de ocultação e ninjutsu.",
+				[2] = "^663399§Nível de base 200 ou superior^000000",
+				[3] = "^663399§Nível de classe 70 ou superior^000000",
+				[4] = "^663399§Alvo: Kagerou/Oboro^000000",
+				[5] = "",
+				[6] = "<NAVI>[Seoyeon]<INFO>amatsu,82,118,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Mudança de classe para Kagerou/Oboro<INFO>9049</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guia de avanço superior de classes expandidas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[4255] = {
+		Title = "JQ Mudança de classe para Guerrilheiro",
+		Page = {
+			[1] = {
+				[1] = "Insurgente decide se tornar Guerrilheiro, um vigilante que monitora empresas e governos para garantir a segurança do povo. É possível desfrutar dos combates explosivos de Guerrilheiro, fortemente armado com armas de fogo poderosas.",
+				[2] = "^663399§Nível de base 200 ou superior^000000",
+				[3] = "^663399§Nível de classe 70 ou superior^000000",
+				[4] = "^663399§Alvo: Insurgente^000000",
+				[5] = "",
+				[6] = "<NAVI>[Yana]<INFO>einbroch,313,324,0,101,0,</INFO></NAVI>",
+				[7] = "",
+				[8] = "<TIPBOX>»JQ Mudança de classe para Insurgente<INFO>9050</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Guia de avanço superior de classes expandidas<INFO>4249</INFO></TIPBOX>",
+				[10] = "<TIPBOX>»Ver lista de dicas<INFO>1000</INFO></TIPBOX>"
+			}
+		}
 	}
 }

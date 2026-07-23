@@ -6,8 +6,8 @@
     },
     "AS6TAg": {
         "en-US": "[Priest Krift]\nAh... brothers and sisters!\nDo you lack the strength\n to save the struggling lambs?\nI am here to help you.",
-        "pt-BR": "[Sacerdote Krift]\nAh… irmãos e irmãs.\nFalta-lhes força para salvar\nos cordeiros que sofrem?\nEstou aqui para ajudá-los.",
-        "es-ES": "[Sacerdote Krift]\nAh… hermanos y hermanas.\n¿Les falta la fuerza para salvar\na los corderos que sufren?\nEstoy aquí para ayudarlos."
+        "pt-BR": "[Sacerdote Krift]\nAh... irmãos e irmãs.\nFalta-lhes força para salvar\nos cordeiros que sofrem?\nEstou aqui para ajudá-los.",
+        "es-ES": "[Sacerdote Krift]\nAh... hermanos y hermanas.\n¿Les falta la fuerza para salvar\na los corderos que sufren?\nEstoy aquí para ayudarlos."
     },
     "Ai6TAg": {
         "en-US": "Ask about ^3355FF'Priest’s Hidden Power'^000000.",
@@ -51,8 +51,8 @@
     },
     "Ci6TAg": {
         "en-US": "[Priest Krift]\nBrother, sister... you have already\nbeen granted the right\nto use `Holy Light`.\nMay this power\nbe used for your good deeds...",
-        "pt-BR": "[Sacerdote Krift]\nIrmão, irmã… já lhe foi concedido\no direito de usar a habilidade Luz Sagrada.\nQue esse poder\nsirva às suas boas obras…",
-        "es-ES": "[Sacerdote Krift]\nHermano, hermana… ya se te ha otorgado\nel derecho de usar la habilidad Luz Sagrada.\nQue este poder\nsirva para tus buenas obras…"
+        "pt-BR": "[Sacerdote Krift]\nIrmão, irmã... já lhe foi concedido\no direito de usar a habilidade Luz Sagrada.\nQue esse poder\nsirva às suas boas obras...",
+        "es-ES": "[Sacerdote Krift]\nHermano, hermana... ya se te ha otorgado\nel derecho de usar la habilidad Luz Sagrada.\nQue este poder\nsirva para tus buenas obras..."
     },
     "Cy6TAg": {
         "en-US": "My skill disappeared.",
@@ -66,8 +66,8 @@
     },
     "DS6TAg": {
         "en-US": "[Priest Krift]\nOh, brother, sister...\nyou are not yet\nqualified to inherit\n‘Holy Light’.",
-        "pt-BR": "[Sacerdote Krift]\nOh, irmão, irmã…\nvocê ainda não está\nqualificado para herdar\na habilidade Luz Sagrada.",
-        "es-ES": "[Sacerdote Krift]\nOh, hermano, hermana…\naún no estás\ncalificado para heredar\nla habilidad Luz Sagrada."
+        "pt-BR": "[Sacerdote Krift]\nOh, irmão, irmã...\nvocê ainda não está\nqualificado para herdar\na habilidade Luz Sagrada.",
+        "es-ES": "[Sacerdote Krift]\nOh, hermano, hermana...\naún no estás\ncalificado para heredar\nla habilidad Luz Sagrada."
     },
     "Di6TAg": {
         "en-US": "[Priest Krift]\nIf you listen carefully\nto what I tell you\nabout the priest’s hidden power,\nyou may find a way\nto fill what you lack.",
@@ -76,28 +76,28 @@
     },
     "Dy6TAg": {
         "en-US": "[Priest Krift]\nTo you, whose faith is strong,\nI grant the right\nto use ‘Holy Light’.\nMay your path ahead\nbe filled with happiness...",
-        "pt-BR": "[Sacerdote Krift]\nA você, cuja fé é forte,\nconcedo o direito\nde usar Luz Sagrada.\nQue seu caminho\nse encha de bênçãos…",
-        "es-ES": "[Sacerdote Krift]\nA ti, cuya fe es fuerte,\nte otorgo el derecho\nde usar Luz Sagrada.\nQue tu camino\nse llene de bendiciones…"
+        "pt-BR": "[Sacerdote Krift]\nA você, cuja fé é forte,\nconcedo o direito\nde usar Luz Sagrada.\nQue seu caminho\nse encha de bênçãos...",
+        "es-ES": "[Sacerdote Krift]\nA ti, cuya fe es fuerte,\nte otorgo el derecho\nde usar Luz Sagrada.\nQue tu camino\nse llene de bendiciones..."
     },
     "EC6TAg": {
         "en-US": "[Priest Krift]\nThere. You can now use ‘Holy Light’\nonce again.\nMay this power be used\nfor your good deeds...",
-        "pt-BR": "[Sacerdote Krift]\nPronto. Agora você pode usar Luz Sagrada\nmais uma vez.\nQue esse poder\nsirva às suas boas obras…",
-        "es-ES": "[Sacerdote Krift]\nListo. Ahora puedes usar Luz Sagrada\nuna vez más.\nQue este poder\nsirva para tus buenas obras…"
+        "pt-BR": "[Sacerdote Krift]\nPronto. Agora você pode usar Luz Sagrada\nmais uma vez.\nQue esse poder\nsirva às suas boas obras...",
+        "es-ES": "[Sacerdote Krift]\nListo. Ahora puedes usar Luz Sagrada\nuna vez más.\nQue este poder\nsirva para tus buenas obras..."
     },
     "ES6TAg": {
         "en-US": "[Priest Krift]\nMay glory be upon\nyour future...",
-        "pt-BR": "[Sacerdote Krift]\nQue a glória recaia\nsobre seu futuro…",
-        "es-ES": "[Sacerdote Krift]\nQue la gloria recaiga\nsobre tu futuro…"
+        "pt-BR": "[Sacerdote Krift]\nQue a glória recaia\nsobre seu futuro...",
+        "es-ES": "[Sacerdote Krift]\nQue la gloria recaiga\nsobre tu futuro..."
     },
     "Ei6TAg": {
         "en-US": "[Priest Krift]\nThere. You can now use ‘Holy Light’.\nI hope this power\nis used for your good deeds...",
-        "pt-BR": "[Sacerdote Krift]\nPronto. Já pode usar Luz Sagrada.\nEspero que esse poder\nsirva às suas boas obras…",
-        "es-ES": "[Sacerdote Krift]\nListo. Ya puedes usar Luz Sagrada.\nEspero que este poder\nsirva para tus buenas obras…"
+        "pt-BR": "[Sacerdote Krift]\nPronto. Já pode usar Luz Sagrada.\nEspero que esse poder\nsirva às suas boas obras...",
+        "es-ES": "[Sacerdote Krift]\nListo. Ya puedes usar Luz Sagrada.\nEspero que este poder\nsirva para tus buenas obras..."
     },
     "Ey6TAg": {
         "en-US": "[Priest Krift]\n......\nI understand your decision.\nTake your time,\nthink it over,\nand act slowly.\nMay glory be upon\nyour future...",
-        "pt-BR": "[Sacerdote Krift]\n……\nEntendo sua decisão.\nTire seu tempo,\npense bem\ne aja com calma.\nQue a glória\nacompanhe seu futuro…",
-        "es-ES": "[Sacerdote Krift]\n……\nEntiendo tu decisión.\nTómate tu tiempo,\npiénsalo bien\ny actúa con calma.\nQue la gloria\nacompañe tu futuro…"
+        "pt-BR": "[Sacerdote Krift]\n......\nEntendo sua decisão.\nTire seu tempo,\npense bem\ne aja com calma.\nQue a glória\nacompanhe seu futuro...",
+        "es-ES": "[Sacerdote Krift]\n......\nEntiendo tu decisión.\nTómate tu tiempo,\npiénsalo bien\ny actúa con calma.\nQue la gloria\nacompañe tu futuro..."
     },
     "FC6TAg": {
         "en-US": "Archwizard",
@@ -131,13 +131,13 @@
     },
     "Gi6TAg": {
         "en-US": "[Blizzardris]\nBut then... I figured out\nhow to cast that ancient spell\nso that others can use it!\nPu-hahaha!!",
-        "pt-BR": "[Blizzardris]\nMas então… descobri como lançar\nesse feitiço antigo\npara que outros também\npudessem usá-lo.\nPu-jajaja!",
-        "es-ES": "[Blizzardris]\nPero luego… descubrí cómo lanzar\nese hechizo antiguo\npara que otros también\npudieran usarlo.\n¡Pu-jajaja!"
+        "pt-BR": "[Blizzardris]\nMas então... descobri como lançar\nesse feitiço antigo\npara que outros também\npudessem usá-lo.\nPu-jajaja!",
+        "es-ES": "[Blizzardris]\nPero luego... descubrí cómo lanzar\nese hechizo antiguo\npara que otros también\npudieran usarlo.\n¡Pu-jajaja!"
     },
     "Gy6TAg": {
         "en-US": "[Blizzardris]\nAlright, alright, calm down...\nNow listen carefully.\nThis incantation draws out\nthe power sleeping within you\nand awakens it.\nThat’s its true purpose!",
-        "pt-BR": "[Blizzardris]\nCerto, certo, acalme-se…\nAgora escute com atenção.\nEsse encantamento extrai\no poder que dorme em você\ne o desperta.\nEsse é seu verdadeiro propósito!",
-        "es-ES": "[Blizzardris]\nBien, bien, cálmate…\nAhora escucha con atención.\nEste encantamiento extrae\nel poder que duerme en ti\ny lo despierta.\n¡Ese es su verdadero propósito!"
+        "pt-BR": "[Blizzardris]\nCerto, certo, acalme-se...\nAgora escute com atenção.\nEsse encantamento extrai\no poder que dorme em você\ne o desperta.\nEsse é seu verdadeiro propósito!",
+        "es-ES": "[Blizzardris]\nBien, bien, cálmate...\nAhora escucha con atención.\nEste encantamiento extrae\nel poder que duerme en ti\ny lo despierta.\n¡Ese es su verdadero propósito!"
     },
     "HC6TAg": {
         "en-US": "[Blizzardris]\nBecause of that, it comes with\nseveral strict conditions.\nFirst of all, you’ll need\nsome special items.",
@@ -161,8 +161,8 @@
     },
     "IC6TAg": {
         "en-US": "[Blizzardris]\nWell...\nthat’s the end of my explanation\nabout awakening.",
-        "pt-BR": "[Blizzardris]\nCerto…\nessa foi toda minha explicação\nsobre o despertar.",
-        "es-ES": "[Blizzardris]\nBien…\nesa es toda mi explicación\nsobre el despertar."
+        "pt-BR": "[Blizzardris]\nCerto...\nessa foi toda minha explicação\nsobre o despertar.",
+        "es-ES": "[Blizzardris]\nBien...\nesa es toda mi explicación\nsobre el despertar."
     },
     "IS6TAg": {
         "en-US": "[Blizzardris]\nYou’ve already awakened\nthe Mage’s latent power\nand can use `Energy Coat`.\nThere’s nothing more\nI can teach you.",
@@ -176,13 +176,13 @@
     },
     "Iy6TAg": {
         "en-US": "[Blizzardris]\nThen I’ll cast the spell\nand awaken you again...\n........\n......................\n..............................",
-        "pt-BR": "[Blizzardris]\nEntão lançarei o feitiço\ne o despertarei novamente…\n........\n......................\n..............................",
-        "es-ES": "[Blizzardris]\nEntonces lanzaré el hechizo\ny te despertaré otra vez…\n........\n......................\n.............................."
+        "pt-BR": "[Blizzardris]\nEntão lançarei o feitiço\ne o despertarei novamente...\n........\n......................\n..............................",
+        "es-ES": "[Blizzardris]\nEntonces lanzaré el hechizo\ny te despertaré otra vez...\n........\n......................\n.............................."
     },
     "JC6TAg": {
         "en-US": "[Blizzardris]\n......\nNow you can form\na barrier of willpower\nto block enemy attacks\nwith ^3355FF'Energy Coat'^000000.",
-        "pt-BR": "[Blizzardris]\n……\nAgora você pode formar\numa barreira de vontade\npara bloquear ataques inimigos\ncom ^3355FFProteção Arcana^000000.",
-        "es-ES": "[Blizzardris]\n……\nAhora puedes formar\nuna barrera de voluntad\npara bloquear ataques enemigos\ncon ^3355FFProtección Arcana^000000."
+        "pt-BR": "[Blizzardris]\n......\nAgora você pode formar\numa barreira de vontade\npara bloquear ataques inimigos\ncom ^3355FFProteção Arcana^000000.",
+        "es-ES": "[Blizzardris]\n......\nAhora puedes formar\nuna barrera de voluntad\npara bloquear ataques enemigos\ncon ^3355FFProtección Arcana^000000."
     },
     "JS6TAg": {
         "en-US": "[Blizzardris]\nPlease use this power\nfor the right purposes,\nso as not to stain\nthe name of the ancient masters.",
@@ -191,18 +191,18 @@
     },
     "Ji6TAg": {
         "en-US": "[Blizzardris]\nThen I’ll cast the spell\nand awaken you...\n........\n......................\n..............................",
-        "pt-BR": "[Blizzardris]\nEntão lançarei o feitiço\ne o despertarei novamente…\n........\n......................\n..............................",
-        "es-ES": "[Blizzardris]\nEntonces lanzaré el hechizo\ny te despertaré otra vez…\n........\n......................\n.............................."
+        "pt-BR": "[Blizzardris]\nEntão lançarei o feitiço\ne o despertarei novamente...\n........\n......................\n..............................",
+        "es-ES": "[Blizzardris]\nEntonces lanzaré el hechizo\ny te despertaré otra vez...\n........\n......................\n.............................."
     },
     "Jy6TAg": {
         "en-US": "[Blizzardris]\nO ancient master of Geffen,\nhere stands your new disciple,\neager to wield a magic barrier\nthat can deflect even\n a blade of steel before you...",
-        "pt-BR": "[Blizzardris]\nMestre ancestral de Geffen,\naqui está seu novo discípulo,\nansioso para usar uma barreira mágica\ncapaz de desviar até\numa espada de aço diante de ti…",
-        "es-ES": "[Blizzardris]\nMaestro ancestral de Geffen,\naquí está tu nuevo discípulo,\nansioso por usar una barrera mágica\nque pueda desviar incluso\nuna espada de acero ante ti…"
+        "pt-BR": "[Blizzardris]\nMestre ancestral de Geffen,\naqui está seu novo discípulo,\nansioso para usar uma barreira mágica\ncapaz de desviar até\numa espada de aço diante de ti...",
+        "es-ES": "[Blizzardris]\nMaestro ancestral de Geffen,\naquí está tu nuevo discípulo,\nansioso por usar una barrera mágica\nque pueda desviar incluso\nuna espada de acero ante ti..."
     },
     "KC6TAg": {
         "en-US": "[Blizzardris]\nNurture the great power\nsleeping within...\nEtifilto, Polsfilto,\nManashilto, Metal Armor...\n......................\nEnergy Coat!!",
-        "pt-BR": "[Blizzardris]\nConcede-me o grande poder\nadormecido…\nLibere seu espírito. Escudo de Mana, Armadura Metálica…\n........................\nProteção Arcana!",
-        "es-ES": "[Blizzardris]\nConcédeme el gran poder\nadormecido…\nLibera tu espíritu. Escudo de Maná, Armadura Metálica…\n........................\n¡Protección Arcana!"
+        "pt-BR": "[Blizzardris]\nConcede-me o grande poder\nadormecido...\nLibere seu espírito. Escudo de Mana, Armadura Metálica...\n........................\nProteção Arcana!",
+        "es-ES": "[Blizzardris]\nConcédeme el gran poder\nadormecido...\nLibera tu espíritu. Escudo de Maná, Armadura Metálica...\n........................\n¡Protección Arcana!"
     },
     "KS6TAg": {
         "en-US": "[Blizzardris]\nHey, you!\nListen to my explanation properly!\nYou’re not ready yet\nfor ‘awakening’.\nGo check again!",
@@ -276,8 +276,8 @@
     },
     "Ny6TAg": {
         "en-US": "[Nami]\nWelcome. It must’ve been hard\nto gather all the supplies.\nIf nothing else, I imagine\nthe cranky personality of the\nProntera nurse officer\ngave you quite a tough time.\nHeehee...",
-        "pt-BR": "[Nami]\nBem-vindo. Deve ter sido difícil\nreunir todos os suprimentos.\nImagino que teve dificuldades\ncom a personalidade rabugenta\nda oficial de enfermagem\nde Prontera.\nJejeje…",
-        "es-ES": "[Nami]\nBienvenido. Debió ser complicado\nreunir todos los suministros.\nMe imagino que te la hayas pasado mal con la personalidad\ngruñona de la oficial de enfermería\nde Prontera.\nJejeje…"
+        "pt-BR": "[Nami]\nBem-vindo. Deve ter sido difícil\nreunir todos os suprimentos.\nImagino que teve dificuldades\ncom a personalidade rabugenta\nda oficial de enfermagem\nde Prontera.\nJejeje...",
+        "es-ES": "[Nami]\nBienvenido. Debió ser complicado\nreunir todos los suministros.\nMe imagino que te la hayas pasado mal con la personalidad\ngruñona de la oficial de enfermería\nde Prontera.\nJejeje..."
     },
     "OC6TAg": {
         "en-US": "[Nami]\nAlright then, let’s begin.\nFirst Aid is a technique\nthat consumes your SP\nto restore HP.\nIt uses about 3 SP\nto recover around 5 HP,\nand the emergency supplies you need—",
@@ -286,13 +286,13 @@
     },
     "OS6TAg": {
         "en-US": "[Nami]\nthe way you make the medicine\nand how you wrap\nthe wounded area...\nyou do it like this, and this,\nthen like so and so.\nEasy, right?",
-        "pt-BR": "[Nami]\na forma de preparar o remédio\ne como envolver a área ferida…\nfaz assim, e assim,\ndepois assim e assado.\nFácil, não é?",
-        "es-ES": "[Nami]\nla forma de preparar el remedio\ny cómo envolver el área herida…\nse hace así, y así,\nluego así y asá.\nFácil, ¿verdad?"
+        "pt-BR": "[Nami]\na forma de preparar o remédio\ne como envolver a área ferida...\nfaz assim, e assim,\ndepois assim e assado.\nFácil, não é?",
+        "es-ES": "[Nami]\nla forma de preparar el remedio\ny cómo envolver el área herida...\nse hace así, y así,\nluego así y asá.\nFácil, ¿verdad?"
     },
     "Oi6TAg": {
         "en-US": "[Nami]\nTo explain a bit more—\ntake half a ladle of leftover potion,\na thumb-sized piece of Red Herb,\nmix this and that...\nand ta-da!!",
-        "pt-BR": "[Nami]\nExplicando um pouco mais:\npegue meia colher de poção restante,\num pedaço de Erva Vermelha\ndo tamanho de um polegar,\nmisture isso e aquilo…\ne *tcharam!!*",
-        "es-ES": "[Nami]\nPara explicarlo un poco más:\ntoma media cucharada de poción sobrante,\nun pedazo de Hierba Roja\ndel tamaño de un pulgar,\nmezcla esto y aquello…\n¡y ta-dá!!"
+        "pt-BR": "[Nami]\nExplicando um pouco mais:\npegue meia colher de poção restante,\num pedaço de Erva Vermelha\ndo tamanho de um polegar,\nmisture isso e aquilo...\ne *tcharam!!*",
+        "es-ES": "[Nami]\nPara explicarlo un poco más:\ntoma media cucharada de poción sobrante,\nun pedazo de Hierba Roja\ndel tamaño de un pulgar,\nmezcla esto y aquello...\n¡y ta-dá!!"
     },
     "Oy6TAg": {
         "en-US": "[Nami]\nY-yes, that’s it exactly.\nLooks like you’ve got\nthe basics down now.\nI hope you make good use\nof this skill.\nGoodbye~",
@@ -301,18 +301,18 @@
     },
     "PC6TAg": {
         "en-US": "[Nami]\n...... Z z z\nI’m sorry, teacher...\nwaah, waah...\n!! Hah!!\n- looks around frantically -",
-        "pt-BR": "[Nami]\n...Zzz...\nDesculpe, mestre...\nGuaaah, guaaah…\nAh!!\n(Olha ao redor nervosa).",
-        "es-ES": "[Nami]\n...Zzz...\nPerdón, maestro...\nGuaaah, guaaah…\n¡¡Ah!!\n(Mira alrededor nerviosa)."
+        "pt-BR": "[Nami]\n...Zzz...\nDesculpe, mestre...\nGuaaah, guaaah...\nAh!!\n(Olha ao redor nervosa).",
+        "es-ES": "[Nami]\n...Zzz...\nPerdón, maestro...\nGuaaah, guaaah...\n¡¡Ah!!\n(Mira alrededor nerviosa)."
     },
     "PS6TAg": {
         "en-US": "[Nami]\nGah... h-hey, where are you going?!\nGet back here so I can\ngive you a shot, wham!\nCatch that ‘patient’!!",
-        "pt-BR": "[Nami]\nGah… e-ei, aonde vai?!\nVolte aqui para que eu possa\ndar-lhe uma injeção! Paf!\nPeguem esse paciente!",
-        "es-ES": "[Nami]\nGah… o-oye, ¿a dónde vas?!\n¡Regresa para que pueda\nponerte una inyección! ¡Paf!\n¡Atrapen a ese paciente!"
+        "pt-BR": "[Nami]\nGah... e-ei, aonde vai?!\nVolte aqui para que eu possa\ndar-lhe uma injeção! Paf!\nPeguem esse paciente!",
+        "es-ES": "[Nami]\nGah... o-oye, ¿a dónde vas?!\n¡Regresa para que pueda\nponerte una inyección! ¡Paf!\n¡Atrapen a ese paciente!"
     },
     "Pi6TAg": {
         "en-US": "[Nami]\nI’ve been working so hard\nto get my nurse teacher license,\nbut my results\nhaven’t been that great...\nI guess I still need\nmore practice, right?",
-        "pt-BR": "[Nami]\nTenho trabalhado muito\npara conseguir minha licença\nde instrutora de enfermagem,\nmas meus resultados\nnão têm sido tão bons…\nAcho que ainda\npreciso de mais prática, não?",
-        "es-ES": "[Nami]\nHe trabajado muy duro\npara obtener mi licencia\nde instructora de enfermería,\npero mis resultados\nno han sido tan buenos…\nSupongo que todavía\nnecesito más práctica, ¿verdad?"
+        "pt-BR": "[Nami]\nTenho trabalhado muito\npara conseguir minha licença\nde instrutora de enfermagem,\nmas meus resultados\nnão têm sido tão bons...\nAcho que ainda\npreciso de mais prática, não?",
+        "es-ES": "[Nami]\nHe trabajado muy duro\npara obtener mi licencia\nde instructora de enfermería,\npero mis resultados\nno han sido tan buenos...\nSupongo que todavía\nnecesito más práctica, ¿verdad?"
     },
     "Py6TAg": {
         "en-US": "[Nami]\nIf you were in a less demanding\nadvanced job, or a ^3355FFNovice Job Level 4 or higher^000000,\nwe could have talked\nfor a little longer . . . . .",
@@ -331,13 +331,13 @@
     },
     "Qi6TAg": {
         "en-US": "[Bulma]\nHey there, Novice friend—\nthose innocent, childlike eyes of yours\nreally take me back.\nKaaaah, I miss those days . .\nAh, sorry, I sound like some old man.\nI’m still young and fresh too, you know.",
-        "pt-BR": "[Bulma]\nEi, amigo Noviço!\nEsses seus olhos tão puros\ne inocentes me lembram\nmeus velhos tempos.\nKaaaah, que nostalgia…\nAh, perdão, soei como um velho.\nEu também sou jovem, sabia?",
-        "es-ES": "[Bulma]\n¡Hey, amigo Principiante!\nEsos ojos tuyos, tan puros\ne inocentes, me recuerdan\nmis viejos tiempos.\nKaaaah, qué nostalgia…\nAh, perdón, soné como un viejo.\nYo también soy joven, ¿sabes?"
+        "pt-BR": "[Bulma]\nEi, amigo Noviço!\nEsses seus olhos tão puros\ne inocentes me lembram\nmeus velhos tempos.\nKaaaah, que nostalgia...\nAh, perdão, soei como um velho.\nEu também sou jovem, sabia?",
+        "es-ES": "[Bulma]\n¡Hey, amigo Principiante!\nEsos ojos tuyos, tan puros\ne inocentes, me recuerdan\nmis viejos tiempos.\nKaaaah, qué nostalgia...\nAh, perdón, soné como un viejo.\nYo también soy joven, ¿sabes?"
     },
     "Qy6TAg": {
         "en-US": "[Bulma]\nI’m a young man, after all. Heh heh . .\nIf you tough it out just a bit more,\nyou’ll get the job you want\nand live in style.\nThere’s this amazing skill\nI learned back when I was a Novice,\nand I’d like to give you\none little piece of advice about it . .",
-        "pt-BR": "[Bulma]\nAinda sou jovem, afinal. Hehe…\nSe aguentar um pouco mais,\nconseguirá o trabalho que deseja\ne viverá com estilo.\nHá uma habilidade incrível\nque aprendi quando era Noviço,\ne quero lhe dar\num pequeno conselho sobre ela…",
-        "es-ES": "[Bulma]\nSoy un joven, después de todo. Jeje…\nSi aguantas un poco más,\nconseguirás el trabajo que quieres\ny vivirás con estilo.\nHay una habilidad increíble\nque aprendí cuando era Principiante,\ny quiero darte\nun pequeño consejo sobre ella…"
+        "pt-BR": "[Bulma]\nAinda sou jovem, afinal. Hehe...\nSe aguentar um pouco mais,\nconseguirá o trabalho que deseja\ne viverá com estilo.\nHá uma habilidade incrível\nque aprendi quando era Noviço,\ne quero lhe dar\num pequeno conselho sobre ela...",
+        "es-ES": "[Bulma]\nSoy un joven, después de todo. Jeje...\nSi aguantas un poco más,\nconseguirás el trabajo que quieres\ny vivirás con estilo.\nHay una habilidad increíble\nque aprendí cuando era Principiante,\ny quiero darte\nun pequeño consejo sobre ella..."
     },
     "RC6TAg": {
         "en-US": "[Bulma]\n. . . . . You look interested,\nbut also a little suspicious.\nStill, this skill could be quite helpful\nfor someone like you right now . .",
@@ -412,7 +412,7 @@
     "Ui6TAg": {
         "en-US": "[Bulma]\nHey, hey—\nwhere’d your Novice Tag go?\nGood grief. You dropped it somewhere\nwithout even noticing . .\nNo good, no good.\nWe’ll have to start over\nfrom the very beginning.",
         "pt-BR": "[Bulma]\nEi, espere—\ne sua Etiqueta de Noviço?\nAh... você a perdeu\nsem nem perceber.\nNão, assim não serve.\nVamos ter que começar tudo\ndesde o início.",
-        "es-ES": "[Bulma]\nEh, oye—\n¿y tu Etiqueta de Principiante?\nHombre… la perdiste por ahí\nsin darte cuenta.\nNo, no sirve así.\nTendremos que empezar todo\ndesde el principio."
+        "es-ES": "[Bulma]\nEh, oye—\n¿y tu Etiqueta de Principiante?\nHombre... la perdiste por ahí\nsin darte cuenta.\nNo, no sirve así.\nTendremos que empezar todo\ndesde el principio."
     },
     "Uy6TAg": {
         "en-US": "[Bulma]\nI think you’re\nunderestimating me a bit . .\nBe careful.\nA seat in the Prontera Knight Corps\nisn’t something you get for free.\nShall we do this properly\nfrom the top?!",
@@ -872,7 +872,7 @@
     "ri6TAg": {
         "en-US": "[Ditomaso]\nOh no, you look badly hurt!\nAre you all right?\nTo fight so fiercely\nthat you end up like this...\nA Swordsman’s path truly demands\nduty and sacrifice.",
         "pt-BR": "[Ditomaso]\nAh não, você está muito ferido!\nEstá tudo bem?\nLutar tão ferozmente\npara acabar assim...\nO caminho do Espadachim\nexige dever e sacrifício.",
-        "es-ES": "[Ditomaso]\n¡Oh no, estás muy herido!\n¿Estás bien?\nPelear tan ferozmente\npara terminar así…\nEl camino del Espadachín\nexige deber y sacrificio."
+        "es-ES": "[Ditomaso]\n¡Oh no, estás muy herido!\n¿Estás bien?\nPelear tan ferozmente\npara terminar así...\nEl camino del Espadachín\nexige deber y sacrificio."
     },
     "ry6TAg": {
         "en-US": "[Ditomaso]",
@@ -927,12 +927,12 @@
     "uS6TAg": {
         "en-US": "[Ditomaso]\nWell, no... they’re not exactly required.\nMy nephew has a summer homework project\nabout collecting insects and such...\nSure, it’d be easier if I got them myself,\nbut I’m stuck working here all day,\nno time to run around.",
         "pt-BR": "[Ditomaso]\nBem, não... não é que sejam necessárias.\nMeu sobrinho tem um trabalho de verão\nsobre coletar insetos e tal...\nClaro, seria mais fácil se eu buscasse,\nmas estou preso aqui trabalhando\no dia inteiro, sem tempo para correr.",
-        "es-ES": "[Ditomaso]\nBueno, no… no es que sean necesarias.\nMi sobrino tiene una tarea de verano\nsobre recolectar insectos y eso...\nClaro, sería más fácil si yo las buscara,\npero estoy atrapado aquí trabajando\ntodo el día, sin tiempo para correr."
+        "es-ES": "[Ditomaso]\nBueno, no... no es que sean necesarias.\nMi sobrino tiene una tarea de verano\nsobre recolectar insectos y eso...\nClaro, sería más fácil si yo las buscara,\npero estoy atrapado aquí trabajando\ntodo el día, sin tiempo para correr."
     },
     "ui6TAg": {
-        "en-US": "[Ditomaso]\nI’m stuck working in one place all day… don’t you feel sorry for me? Please go get it for me… sniff… If you don’t… you won’t get anything from me! Mwahaha.",
+        "en-US": "[Ditomaso]\nI’m stuck working in one place all day... don’t you feel sorry for me? Please go get it for me... sniff... If you don’t... you won’t get anything from me! Mwahaha.",
         "pt-BR": "[Ditomaso]\nEstou preso no mesmo lugar o dia inteiro...\nnão sente pena de mim?\nPor favor, vá buscá-las... sniff...\nSe não fizer isso...\nvocê não vai ganhar nada de mim! Mwahaha!",
-        "es-ES": "[Ditomaso]\nEstoy atrapado en un solo lugar todo el día…\n¿no te doy lástima?\nPor favor, ve a conseguirlas… sniff…\nSi no lo haces…\n¡no obtendrás nada de mí! ¡Mwahaha!"
+        "es-ES": "[Ditomaso]\nEstoy atrapado en un solo lugar todo el día...\n¿no te doy lástima?\nPor favor, ve a conseguirlas... sniff...\nSi no lo haces...\n¡no obtendrás nada de mí! ¡Mwahaha!"
     },
     "uy6TAg": {
         "en-US": "[Ditomaso]\nKkaeng~",
@@ -940,9 +940,9 @@
         "es-ES": "[Ditomaso]\n¡Kkaeng~!"
     },
     "vC6TAg": {
-        "en-US": "[Ditomaso]\nMy name is Ditomaso Carlos, Knight of Prontera’s 3rd Division. I’m currently active on… a certain assignment. Ahem! No need to say more.",
+        "en-US": "[Ditomaso]\nMy name is Ditomaso Carlos, Knight of Prontera’s 3rd Division. I’m currently active on... a certain assignment. Ahem! No need to say more.",
         "pt-BR": "[Ditomaso]\nMeu nome é Ditomaso Carlos,\nCavaleiro da 3ª Divisão de Prontera.\nAtualmente estou ativo em... certa missão.\nEhem! Não preciso dizer mais nada.",
-        "es-ES": "[Ditomaso]\nMi nombre es Ditomaso Carlos,\nCaballero de la 3.ª División de Prontera.\nActualmente estoy activo en… cierta misión.\n¡Ejem! No hace falta decir más."
+        "es-ES": "[Ditomaso]\nMi nombre es Ditomaso Carlos,\nCaballero de la 3.ª División de Prontera.\nActualmente estoy activo en... cierta misión.\n¡Ejem! No hace falta decir más."
     },
     "vS6TAg": {
         "en-US": "[Ditomaso]\nOh, it’s you! Been a while! You look healthier than before! Hahaha! Stay safe! See you again!",
@@ -1022,7 +1022,7 @@
     "zC6TAg": {
         "en-US": "[Leon]\nOh? Wondered who it was—turns out it’s the friend I saw before! Good to see you! Doing well? Stay careful! Haha!",
         "pt-BR": "[Leon]\nOh? Quem era...?\nAh, o amigo que vi antes!\nQue bom te ver! Tudo bem?\nTome cuidado! Hahaha!",
-        "es-ES": "[Leon]\n¿Oh? ¿Quién era…?\n¡Ah, el amigo que vi antes!\n¡Qué gusto verte! ¿Todo bien?\n¡Ten cuidado! ¡Jajaja!"
+        "es-ES": "[Leon]\n¿Oh? ¿Quién era...?\n¡Ah, el amigo que vi antes!\n¡Qué gusto verte! ¿Todo bien?\n¡Ten cuidado! ¡Jajaja!"
     },
     "zS6TAg": {
         "en-US": "[Leon]\nAlright, here I go!",
@@ -1095,9 +1095,9 @@
         "es-ES": "[Leon]\nHooh, con esos brazos,\nseguro te encanta Golpe Fulminante."
     },
     "2y6TAg": {
-        "en-US": "No, I just…",
+        "en-US": "No, I just...",
         "pt-BR": "Não, eu só...",
-        "es-ES": "No, yo solo…"
+        "es-ES": "No, yo solo..."
     },
     "3C6TAg": {
         "en-US": "[Leon]\nNothing shocking—if you wield a sword, strong arms are natural. In these lazy times, meeting a strong swordsman like you is a joy.",
@@ -1120,9 +1120,9 @@
         "es-ES": "[Leon]\nJaja, nada especial.\nSolo una habilidad para golpear puntos vitales."
     },
     "4C6TAg": {
-        "en-US": "[Leon]\nBack when I was a swordsman like you, I loved Bash. I wondered—wouldn’t it be better if it also stunned? After retiring from the front, I kept researching… and now, here we are!",
+        "en-US": "[Leon]\nBack when I was a swordsman like you, I loved Bash. I wondered—wouldn’t it be better if it also stunned? After retiring from the front, I kept researching... and now, here we are!",
         "pt-BR": "[Leon]\nQuando eu era espadachim como você,\nadorava Golpe Fulminante. Pensei:\nnão seria melhor se também atordoasse?\nDepois de me aposentar do fronte,\ncontinuei pesquisando... e aqui estamos!",
-        "es-ES": "[Leon]\nCuando yo era espadachín como tú,\namaba Golpe Fulminante. Pensé:\n¿no sería mejor si también aturdiera?\nTras retirarme del frente,\nseguí investigando… ¡y aquí estamos!"
+        "es-ES": "[Leon]\nCuando yo era espadachín como tú,\namaba Golpe Fulminante. Pensé:\n¿no sería mejor si también aturdiera?\nTras retirarme del frente,\nseguí investigando... ¡y aquí estamos!"
     },
     "4S6TAg": {
         "en-US": "[Leon]\nAfter leaving the front lines, I kept studying—now I have results! Want to learn this skill?",
@@ -1150,9 +1150,9 @@
         "es-ES": "[Leon]\nTrae los materiales y vuelve.\nEntonces hablaremos."
     },
     "5i6TAg": {
-        "en-US": "[Leon]\nHahahahahahaha! … … … How embarrassing!?",
-        "pt-BR": "[Leon]\nHahahahahahaha!\n……\n… Que vergonha!",
-        "es-ES": "[Leon]\n¡Jajajajajajaja!\n… …\n… ¡Qué vergüenza!"
+        "en-US": "[Leon]\nHahahahahahaha! ... ... ... How embarrassing!?",
+        "pt-BR": "[Leon]\nHahahahahahaha!\n......\n... Que vergonha!",
+        "es-ES": "[Leon]\n¡Jajajajajajaja!\n... ...\n... ¡Qué vergüenza!"
     },
     "5y6TAg": {
         "en-US": "[Sushi King Leon]\nWhen eating sushi, use your hands. Basic stuff. And dip soy sauce on the fish side, not the rice.",
@@ -1187,7 +1187,7 @@
     "7S6TAg": {
         "en-US": "[Juan]\nGood. Now then.",
         "pt-BR": "[Juan]\nCerto. Então...",
-        "es-ES": "[Juan]\nBien. Entonces…"
+        "es-ES": "[Juan]\nBien. Entonces..."
     },
     "7i6TAg": {
         "en-US": "[Juan]\nYou are now a swordsman who can unleash Auto Berserk. From here on, fight like a raging beast!",
@@ -1235,9 +1235,9 @@
         "es-ES": "[Juan]\nSi lo olvidas, puede terminar de pronto\nen batalla y sorprenderte.\nTen cuidado."
     },
     "9y6TAg": {
-        "en-US": "[Juan]\nThen… truly goodbye~",
+        "en-US": "[Juan]\nThen... truly goodbye~",
         "pt-BR": "[Juan]\nEntão... agora sim, adeus~",
-        "es-ES": "[Juan]\nEntonces… adiós de verdad~"
+        "es-ES": "[Juan]\nEntonces... adiós de verdad~"
     },
     "+C6TAg": {
         "en-US": "[Juan]\nAuto Berserk? It’s known as the Flower of Battle. When your HP enters the red, your latent power automatically triggers Provoke.",
@@ -1250,9 +1250,9 @@
         "es-ES": "[Juan]\n¡Una habilidad para quienes luchan\ncomo llamas en el campo de batalla!\nCon tu nivel, puedes aprenderla.\nTe explicaré los materiales."
     },
     "+i6TAg": {
-        "en-US": "[Juan]\nFirst, 35 Butterfly Wing Powders—energy drawn from the souls of brilliant butterflies to focus your power! Then 10 Dead Man’s Teeth. 10 Dead Man’s Nails. And lastly… 10 Honeys!",
+        "en-US": "[Juan]\nFirst, 35 Butterfly Wing Powders—energy drawn from the souls of brilliant butterflies to focus your power! Then 10 Dead Man’s Teeth. 10 Dead Man’s Nails. And lastly... 10 Honeys!",
         "pt-BR": "[Juan]\nPrimeiro, 35 Pó de Borboleta,\nenergia das almas de borboletas brilhantes\npara concentrar seu poder.\nDepois, 10 Mandíbulas Horríveis.\n10 Unhas Apodrecidas.\nE por fim... 10 Méis!",
-        "es-ES": "[Juan]\nPrimero, 35 Polvos de Mariposa,\nenergía de las almas de mariposas brillantes\npara concentrar tu poder.\nLuego, 10 Mandíbulas Horribles.\n10 Uñas Descompuestas.\nY por último… ¡10 Mieles!"
+        "es-ES": "[Juan]\nPrimero, 35 Polvos de Mariposa,\nenergía de las almas de mariposas brillantes\npara concentrar tu poder.\nLuego, 10 Mandíbulas Horribles.\n10 Uñas Descompuestas.\nY por último... ¡10 Mieles!"
     },
     "+y6TAg": {
         "en-US": "[Juan]\nGot all that? Prepare everything and come back. I’ll be waiting.",
@@ -1265,9 +1265,9 @@
         "es-ES": "[Juan]\nOh cielos, tienes muchas heridas.\n¿Volverás a lanzarte así al combate?\nTe estás excediendo."
     },
     "/S6TAg": {
-        "en-US": "[Juan]\nEven with plenty of strength, limits are limits. Don’t overdo it. Though… our lab *has* developed a skill that surpasses such limits.",
+        "en-US": "[Juan]\nEven with plenty of strength, limits are limits. Don’t overdo it. Though... our lab *has* developed a skill that surpasses such limits.",
         "pt-BR": "[Juan]\nMesmo com grande força,\nlimites são limites.\nNão exagere.\nEmbora... nosso laboratório\ntenha desenvolvido uma habilidade\nque supera esses limites.",
-        "es-ES": "[Juan]\nIncluso con gran fuerza,\nlos límites son límites.\nNo te pases.\nAunque… nuestro laboratorio\nha desarrollado una habilidad\nque supera esos límites."
+        "es-ES": "[Juan]\nIncluso con gran fuerza,\nlos límites son límites.\nNo te pases.\nAunque... nuestro laboratorio\nha desarrollado una habilidad\nque supera esos límites."
     },
     "/i6TAg": {
         "en-US": "What?! What do you mean?",
@@ -1300,9 +1300,9 @@
         "es-ES": "[Juan Enfurecido]\n¡Grrrrr! ¡Wraaaah! ¡Grrraaah!"
     },
     "BC+TAg": {
-        "en-US": "[Juan]\nEnjoying your travels? May your days be pleasant. Ah, I am Juan, the courteous knight. Don’t worry about a thing. Hahaha…",
+        "en-US": "[Juan]\nEnjoying your travels? May your days be pleasant. Ah, I am Juan, the courteous knight. Don’t worry about a thing. Hahaha...",
         "pt-BR": "[Juan]\nAproveitando suas viagens?\nQue seus dias sejam agradáveis.\nAh, sou Juan, o cavaleiro cortês.\nNão se preocupe com nada.\nHahaha...",
-        "es-ES": "[Juan]\n¿Disfrutando tus viajes?\nQue tus días sean agradables.\nAh, soy Juan, el caballero cortés.\nNo te preocupes por nada.\nJajaja…"
+        "es-ES": "[Juan]\n¿Disfrutando tus viajes?\nQue tus días sean agradables.\nAh, soy Juan, el caballero cortés.\nNo te preocupes por nada.\nJajaja..."
     },
     "BS+TAg": {
         "en-US": "Gyeolnari",
@@ -1325,14 +1325,14 @@
         "es-ES": "[Gyeolnari]\nYa no tendrás que preocuparte\npor flechas."
     },
     "CS+TAg": {
-        "en-US": "[Gyeolnari]\nHaha…! Feels much better now, doesn’t it? Haha… anyway, I’m glad. Visit often and bring news from home. Goodbye~",
+        "en-US": "[Gyeolnari]\nHaha...! Feels much better now, doesn’t it? Haha... anyway, I’m glad. Visit often and bring news from home. Goodbye~",
         "pt-BR": "[Gyeolnari]\nHaha... Bem melhor, né?\nHaha... enfim, fico feliz.\nVisite sempre e traga notícias de casa.\nTchau~",
-        "es-ES": "[Gyeolnari]\nJaja… ¡Se siente mucho mejor, verdad?\nJaja… en fin, me alegra.\nVisita seguido y trae noticias de casa.\nAdiós~"
+        "es-ES": "[Gyeolnari]\nJaja... ¡Se siente mucho mejor, verdad?\nJaja... en fin, me alegra.\nVisita seguido y trae noticias de casa.\nAdiós~"
     },
     "Ci+TAg": {
-        "en-US": "[Gyeolnari]\nHmm… what is it? Something to say? I… have nothing to say. A difference in skill ends conversation.",
+        "en-US": "[Gyeolnari]\nHmm... what is it? Something to say? I... have nothing to say. A difference in skill ends conversation.",
         "pt-BR": "[Gyeolnari]\nHmm... o que houve?\nAlgo a dizer?\nEu... não tenho nada a dizer.\nUma diferença de habilidade\nencerra a conversa.",
-        "es-ES": "[Gyeolnari]\nHmm… ¿qué pasa?\n¿Algo que decir?\nYo… no tengo nada que decir.\nUna diferencia de habilidad\ntermina la conversación."
+        "es-ES": "[Gyeolnari]\nHmm... ¿qué pasa?\n¿Algo que decir?\nYo... no tengo nada que decir.\nUna diferencia de habilidad\ntermina la conversación."
     },
     "Cy+TAg": {
         "en-US": "[Gyeolnari]\nNo!",
@@ -1340,9 +1340,9 @@
         "es-ES": "[Gyeolnari]\n¡No!"
     },
     "DC+TAg": {
-        "en-US": "You are…",
+        "en-US": "You are...",
         "pt-BR": "Você é...",
-        "es-ES": "Eres…"
+        "es-ES": "Eres..."
     },
     "DS+TAg": {
         "en-US": "[Gyeolnari]\nYou won’t need to worry about arrows now. Oh, and have you seen Gaehoran in Payon? Be careful—he’s extremely vicious.",
@@ -1355,9 +1355,9 @@
         "es-ES": "[Gyeolnari]\nSi vas a Payon, solo ten cuidado\ncon Gaehoran. Recuérdalo.\nAdiós~ y gracias otra vez\npor el regalo~"
     },
     "Dy+TAg": {
-        "en-US": "[Gyeolnari]\nA bow-user from Payon!? So good to see you! Meeting someone from home out here… sniff sniff! I came to Morroc alone… bullied by the locals… waaah~ I was so lonely~",
+        "en-US": "[Gyeolnari]\nA bow-user from Payon!? So good to see you! Meeting someone from home out here... sniff sniff! I came to Morroc alone... bullied by the locals... waaah~ I was so lonely~",
         "pt-BR": "[Gyeolnari]\nUm arqueiro de Payon!?\nQue alegria te ver!\nEncontrar alguém de casa aqui...\nsniff sniff...\nVim sozinha para Morroc... me intimidaram...\nwaaah~ Eu estava tão sozinha~!",
-        "es-ES": "[Gyeolnari]\n¿¡Un arquero de Payon!?\n¡Qué gusto verte!\nEncontrar alguien de casa aquí…\nsniff sniff…\nVine a Morroc sola… me intimidaron…\nwaaah~ ¡Estaba tan solo~!"
+        "es-ES": "[Gyeolnari]\n¿¡Un arquero de Payon!?\n¡Qué gusto verte!\nEncontrar alguien de casa aquí...\nsniff sniff...\nVine a Morroc sola... me intimidaron...\nwaaah~ ¡Estaba tan solo~!"
     },
     "EC+TAg": {
         "en-US": "It must’ve been tough. Stay strong.",
@@ -1370,9 +1370,9 @@
         "es-ES": "Entonces sigue sufriendo."
     },
     "Ei+TAg": {
-        "en-US": "[Gyeolnari]\nYes, thank you… You must’ve had a hard time out here too. Hard to get arrows, right? That’s why I make my own.",
+        "en-US": "[Gyeolnari]\nYes, thank you... You must’ve had a hard time out here too. Hard to get arrows, right? That’s why I make my own.",
         "pt-BR": "[Gyeolnari]\nSim, obrigada...\nVocê também deve ter passado por dificuldades aqui.\nÉ complicado conseguir flechas, né?\nPor isso eu faço as minhas.",
-        "es-ES": "[Gyeolnari]\nSí, gracias…\nTú también debiste tenerlo difícil aquí.\nEs complicado conseguir flechas, ¿no?\nPor eso hago las mías."
+        "es-ES": "[Gyeolnari]\nSí, gracias...\nTú también debiste tenerlo difícil aquí.\nEs complicado conseguir flechas, ¿no?\nPor eso hago las mías."
     },
     "Ey+TAg": {
         "en-US": "Really?!",
@@ -1390,9 +1390,9 @@
         "es-ES": "Por favor, enséñame."
     },
     "Fi+TAg": {
-        "en-US": "[Gyeolnari]\nBut I can’t teach you for free. Nothing in life is free~ Hmm… how about this? Bring me what I ask for, and I’ll teach you the skill.",
+        "en-US": "[Gyeolnari]\nBut I can’t teach you for free. Nothing in life is free~ Hmm... how about this? Bring me what I ask for, and I’ll teach you the skill.",
         "pt-BR": "[Gyeolnari]\nMas não posso ensinar de graça.\nNada na vida é de graça~\nHmm... que tal isso?\nTraga o que eu pedir\ne eu te ensinarei a habilidade.",
-        "es-ES": "[Gyeolnari]\nPero no puedo enseñarte gratis.\nNada en la vida es gratis~\nHmm… ¿qué tal esto?\nTráeme lo que pida\ny te enseñaré la habilidad."
+        "es-ES": "[Gyeolnari]\nPero no puedo enseñarte gratis.\nNada en la vida es gratis~\nHmm... ¿qué tal esto?\nTráeme lo que pida\ny te enseñaré la habilidad."
     },
     "Fy+TAg": {
         "en-US": "[Gyeolnari]\nI’m so lonely being away from home. I want things from Payon to comfort me. Bring me 20 Tree Sap from the old trees in Payon Forest, and 1 Red Potion from the Payon shop.",
@@ -1405,9 +1405,9 @@
         "es-ES": "[Gyeolnari]\nY trae 13 Bloques de Madera\nde los Sauces cerca de Payon,\n41 Escamas Puntiagudas,\ny 7 Esporas de Hongo."
     },
     "GS+TAg": {
-        "en-US": "[Gyeolnari]\nThen I’ll teach you the skill. I’ll be waiting… and for news from home as well.",
+        "en-US": "[Gyeolnari]\nThen I’ll teach you the skill. I’ll be waiting... and for news from home as well.",
         "pt-BR": "[Gyeolnari]\nEntão eu te ensinarei a habilidade.\nVou te esperar... e também notícias de casa.",
-        "es-ES": "[Gyeolnari]\nEntonces te enseñaré la habilidad.\nTe esperaré… y también noticias de casa."
+        "es-ES": "[Gyeolnari]\nEntonces te enseñaré la habilidad.\nTe esperaré... y también noticias de casa."
     },
     "Gi+TAg": {
         "en-US": "[Gyeolnari]",
@@ -1415,24 +1415,24 @@
         "es-ES": "[Gyeolnari]"
     },
     "Gy+TAg": {
-        "en-US": "…Hey, miss.",
+        "en-US": "...Hey, miss.",
         "pt-BR": "...Ei.",
-        "es-ES": "…Oye."
+        "es-ES": "...Oye."
     },
     "HC+TAg": {
-        "en-US": "…Hey, you there.",
+        "en-US": "...Hey, you there.",
         "pt-BR": "...Ei, você.",
-        "es-ES": "…Oye, tú."
+        "es-ES": "...Oye, tú."
     },
     "HS+TAg": {
-        "en-US": "…Watch your step at night.",
+        "en-US": "...Watch your step at night.",
         "pt-BR": "...Cuidado ao andar de noite.",
-        "es-ES": "…Cuidado al caminar de noche."
+        "es-ES": "...Cuidado al caminar de noche."
     },
     "Hi+TAg": {
-        "en-US": "[?]\nWhat… never seen an Archer? Move along. I don’t speak unless it’s to someone skilled.",
+        "en-US": "[?]\nWhat... never seen an Archer? Move along. I don’t speak unless it’s to someone skilled.",
         "pt-BR": "[?]\nO quê... nunca viu um Arqueiro?\nSiga seu caminho.\nNão falo com qualquer um;\napenas com gente habilidosa.",
-        "es-ES": "[?]\n¿Qué… nunca has visto un Arquero?\nSigue tu camino.\nNo hablo con cualquiera;\nsolo con gente hábil."
+        "es-ES": "[?]\n¿Qué... nunca has visto un Arquero?\nSigue tu camino.\nNo hablo con cualquiera;\nsolo con gente hábil."
     },
     "Hy+TAg": {
         "en-US": "Gaeho",
@@ -1440,9 +1440,9 @@
         "es-ES": "Gaeho"
     },
     "IC+TAg": {
-        "en-US": "[???]\nGrrrrrr…",
+        "en-US": "[???]\nGrrrrrr...",
         "pt-BR": "[???]\nGrrrrrr...",
-        "es-ES": "[???]\nGrrrrrr…"
+        "es-ES": "[???]\nGrrrrrr..."
     },
     "IS+TAg": {
         "en-US": "[Gaeho]\nHngh, you again.",
@@ -1460,24 +1460,24 @@
         "es-ES": "[Gaeho]\nVuelve a las mazmorras y campos\ny presume tu nueva habilidad.\n¡Aaaang~!"
     },
     "JC+TAg": {
-        "en-US": "[Gaeho]\nWeird… why does my voice go “aang aang” whenever I see the same person? Aang… anyway, good to see you. Aang… but don’t come back. Aang…",
+        "en-US": "[Gaeho]\nWeird... why does my voice go “aang aang” whenever I see the same person? Aang... anyway, good to see you. Aang... but don’t come back. Aang...",
         "pt-BR": "[Gaeho]\nQue estranho... por que minha voz\nfaz 'aang aang' toda vez\nque vejo a mesma pessoa?\nAang... enfim, que bom te ver.\nAang... mas não volte. Aang...",
-        "es-ES": "[Gaeho]\nQué extraño… ¿por qué mi voz\nhace “aang aang” cada vez\nque veo a la misma persona?\nAang… en fin, qué gusto verte.\nAang… pero no vuelvas. Aang…"
+        "es-ES": "[Gaeho]\nQué extraño... ¿por qué mi voz\nhace “aang aang” cada vez\nque veo a la misma persona?\nAang... en fin, qué gusto verte.\nAang... pero no vuelvas. Aang..."
     },
     "JS+TAg": {
-        "en-US": "[Gaeho]\nHooh… you’re an Archer. Work a little harder and you’ll earn quite a reputation! Keep pushing!",
+        "en-US": "[Gaeho]\nHooh... you’re an Archer. Work a little harder and you’ll earn quite a reputation! Keep pushing!",
         "pt-BR": "[Gaeho]\nHooh... você é um Arqueiro.\nTrabalhe mais um pouco e ganhará\ngrande reputação.\nContinue se esforçando!",
-        "es-ES": "[Gaeho]\nHooh… eres un Arquero.\nTrabaja un poco más y ganarás\nuna gran reputación.\n¡Sigue esforzándote!"
+        "es-ES": "[Gaeho]\nHooh... eres un Arquero.\nTrabaja un poco más y ganarás\nuna gran reputación.\n¡Sigue esforzándote!"
     },
     "Ji+TAg": {
-        "en-US": "[Gaeho]\nDamn… this wound won’t heal. Can’t believe I ended up like this… I was careless. Tch… but even so, to injure *me* like this…",
+        "en-US": "[Gaeho]\nDamn... this wound won’t heal. Can’t believe I ended up like this... I was careless. Tch... but even so, to injure *me* like this...",
         "pt-BR": "[Gaeho]\nTch... este ferimento não sara.\nNão acredito que acabei assim...\nFui descuidado. Tch...\nAinda assim, alguém me\nferir *a mim*...",
-        "es-ES": "[Gaeho]\nTch… esta herida no sana.\nNo puedo creer que terminé así…\nFui descuidado. Tch…\nAun así, que alguien me\nhiera así a *mí*…"
+        "es-ES": "[Gaeho]\nTch... esta herida no sana.\nNo puedo creer que terminé así...\nFui descuidado. Tch...\nAun así, que alguien me\nhiera así a *mí*..."
     },
     "Jy+TAg": {
-        "en-US": "[Gaeho]\nWhat should I do with that Gyeolnari brat… hmm—ah! You? How long have you been there? Hm… you’re skilled. Someone like you *must* know Charge Arrow already.",
+        "en-US": "[Gaeho]\nWhat should I do with that Gyeolnari brat... hmm—ah! You? How long have you been there? Hm... you’re skilled. Someone like you *must* know Charge Arrow already.",
         "pt-BR": "[Gaeho]\nO que eu vou fazer com aquela tola da Gyeolnari...?\nHmm—ah! Você?\nDesde quando está aí?\nHmm... você é habilidoso.\nAlguém como você *deve* saber\nFlecha de Empurrão já.",
-        "es-ES": "[Gaeho]\n¿Qué haré con ese tonto de Gyeolnari…?\nHmm—¡ah! ¿Tú?\n¿Desde cuándo estás ahí?\nHmm… eres hábil.\nAlguien como tú *debe* saber\nFlecha de Empuje ya."
+        "es-ES": "[Gaeho]\n¿Qué haré con ese tonto de Gyeolnari...?\nHmm—¡ah! ¿Tú?\n¿Desde cuándo estás ahí?\nHmm... eres hábil.\nAlguien como tú *debe* saber\nFlecha de Empuje ya."
     },
     "KC+TAg": {
         "en-US": "Teach it to me now.",
@@ -1485,9 +1485,9 @@
         "es-ES": "Enséñamelo ahora."
     },
     "KS+TAg": {
-        "en-US": "[Gaeho]\n…You’re joking? You reached that level without learning Charge Arrow? You’re a strange one.",
+        "en-US": "[Gaeho]\n...You’re joking? You reached that level without learning Charge Arrow? You’re a strange one.",
         "pt-BR": "[Gaeho]\n...Está brincando?\nVocê chegou a esse nível sem aprender\nFlecha de Empurrão?\nQue pessoa mais estranha.",
-        "es-ES": "[Gaeho]\n…¿Estás bromeando?\n¿Llegaste a ese nivel sin aprender\nFlecha de Empuje?\nQué persona tan extraña."
+        "es-ES": "[Gaeho]\n...¿Estás bromeando?\n¿Llegaste a ese nivel sin aprender\nFlecha de Empuje?\nQué persona tan extraña."
     },
     "Ki+TAg": {
         "en-US": "[Gaeho]\n(Gaeho is lost in delusion.)",
@@ -1510,9 +1510,9 @@
         "es-ES": "[Gaeho]\nPerfecto para Arqueros\nque pelean de cerca.\nSi quieres aprenderlo, vuelve.\nNecesitarás materiales."
     },
     "Li+TAg": {
-        "en-US": "[Gaeho]\nFirst, we must modify your bow. Bring one unused Crossbow. Then 10 Tentacles, 10 Bird Beaks, 3 Monkey Tails—excellent elasticity. Also 2 Emeralds. And lastly… 36 Banana Juices, my favorite!",
+        "en-US": "[Gaeho]\nFirst, we must modify your bow. Bring one unused Crossbow. Then 10 Tentacles, 10 Bird Beaks, 3 Monkey Tails—excellent elasticity. Also 2 Emeralds. And lastly... 36 Banana Juices, my favorite!",
         "pt-BR": "[Gaeho]\nPrimeiro, precisamos modificar seu arco.\nTraga uma besta sem uso.\nDepois, 10 Tentáculos,\n10 Bicos de Ave,\n3 Caudas de Macaco—excelente elasticidade.\nTambém 2 Esmeraldas.\nE por fim... 36 Sucos de Banana,\nmeu favorito!",
-        "es-ES": "[Gaeho]\nPrimero, debemos modificar tu arco.\nTráeme una ballesta sin usar.\nLuego, 10 Tentáculos,\n10 Picos de Ave,\n3 Colas de Mono—excelente elasticidad.\nTambién 2 Esmeraldas.\nY por último… ¡36 Jugos de Banana,\nmi favorito!"
+        "es-ES": "[Gaeho]\nPrimero, debemos modificar tu arco.\nTráeme una ballesta sin usar.\nLuego, 10 Tentáculos,\n10 Picos de Ave,\n3 Colas de Mono—excelente elasticidad.\nTambién 2 Esmeraldas.\nY por último... ¡36 Jugos de Banana,\nmi favorito!"
     },
     "Ly+TAg": {
         "en-US": "[Gaeho]\nAhem! Bring all that and I’ll teach you Charge Arrow. Off you go. (If they don’t bring the Banana Juice, I’ll smack them.)",
@@ -1530,9 +1530,9 @@
         "es-ES": "[Gaeho]\n¡Oh! ¡Mejor de lo esperado!\nNo necesitas mejorar el arco.\nToma esto de vuelta~\nAhora ve a las mazmorras y a los campos\ny muestra tu habilidad.\n¡Pfft~ hmph~!"
     },
     "Mi+TAg": {
-        "en-US": "[Gaeho]\nHmm… not enough. You’re missing some things. Again: 2 Emeralds, 3 Monkey Tails, 10 Tentacles, 10 Bird Beaks, and 36 Banana Juices!",
+        "en-US": "[Gaeho]\nHmm... not enough. You’re missing some things. Again: 2 Emeralds, 3 Monkey Tails, 10 Tentacles, 10 Bird Beaks, and 36 Banana Juices!",
         "pt-BR": "[Gaeho]\nHmm... não é suficiente.\nFaltam coisas. De novo:\n2 Esmeraldas, 3 Caudas de Macaco,\n10 Tentáculos,\n10 Bicos de Ave\ne 36 Sucos de Banana.",
-        "es-ES": "[Gaeho]\nHmm… no es suficiente.\nFaltan cosas. De nuevo:\n2 Esmeraldas, 3 Colas de Mono,\n10 Tentáculos,\n10 Picos de Ave\ny 36 Jugos de Banana."
+        "es-ES": "[Gaeho]\nHmm... no es suficiente.\nFaltan cosas. De nuevo:\n2 Esmeraldas, 3 Colas de Mono,\n10 Tentáculos,\n10 Picos de Ave\ny 36 Jugos de Banana."
     },
     "My+TAg": {
         "en-US": "[Gaeho]\nBring everything and come back!",
@@ -1575,9 +1575,9 @@
         "es-ES": "[Neko]\n¡¡KHAHAHAHAHAHA!!!\n¡¡FUKAKAKAKA!!!\n¡¡PYAKIKIKIKIKIKIKI!!"
     },
     "Oy+TAg": {
-        "en-US": "[Neko]\nOh? Did you come because you love my voice? Of course—it’s loud! You can hear it from afar! And you know… (looks around)",
+        "en-US": "[Neko]\nOh? Did you come because you love my voice? Of course—it’s loud! You can hear it from afar! And you know... (looks around)",
         "pt-BR": "[Neko]\nOh? Veio porque ama minha voz?\nClaro—é forte!\nÉ ouvida de longe!\nE sabe... (olha ao redor)",
-        "es-ES": "[Neko]\n¿Oh? ¿Viniste porque amas mi voz?\nClaro—¡es fuerte!\n¡Se escucha desde lejos!\nY sabes… (mira alrededor)"
+        "es-ES": "[Neko]\n¿Oh? ¿Viniste porque amas mi voz?\nClaro—¡es fuerte!\n¡Se escucha desde lejos!\nY sabes... (mira alrededor)"
     },
     "PC+TAg": {
         "en-US": "[Neko]\nMy voice isn’t just loud! If your Merchant level reaches around 15, I’ll share my secret! Come back later!!!",
@@ -1610,9 +1610,9 @@
         "es-ES": "[Neko]\n¡¡Aprendiste Rugido de Batalla!!\n¡Ve a gritar libremente!\n¡Jajajaja!"
     },
     "Qi+TAg": {
-        "en-US": "[Neko]\nHuh… I see. Hngh…",
+        "en-US": "[Neko]\nHuh... I see. Hngh...",
         "pt-BR": "[Neko]\nHmm... entendi. Hngh...",
-        "es-ES": "[Neko]\nHmm… ya veo. Hngh…"
+        "es-ES": "[Neko]\nHmm... ya veo. Hngh..."
     },
     "Qy+TAg": {
         "en-US": "[Neko]\nSuper Shout is a technique that ignites your fighting spirit with a roar! It consumes 8 SP and boosts STR by 4 for 5 minutes!!!!! Using it again refreshes the duration from that moment.",
@@ -1640,14 +1640,14 @@
         "es-ES": "[Neko]\nPara romper tu voz, ve al\nPueblo de los Arqueros, en Payon,\ny encuentra al bardo de voz fuerte\npara tomar lecciones."
     },
     "SC+TAg": {
-        "en-US": "[Neko]\nBut he died! So now you can’t learn from him! Hahahahahaha!!!! ……………… You look disappointed… do you want to learn Super Shout?",
-        "pt-BR": "[Neko]\nMas ele morreu!\nEntão você não pode mais aprender com ele!\nJajajajajajaja!!!!\n………………\nVocê está com cara de decepção...\nQuer aprender Rugido de Batalha?",
-        "es-ES": "[Neko]\n¡Pero murió!\n¡Así que ya no puedes aprender con él!\n¡Jajajajajajaja!!!!\n………………\nTienes cara de decepción…\n¿Quieres aprender Rugido de Batalla?"
+        "en-US": "[Neko]\nBut he died! So now you can’t learn from him! Hahahahahaha!!!! .................. You look disappointed... do you want to learn Super Shout?",
+        "pt-BR": "[Neko]\nMas ele morreu!\nEntão você não pode mais aprender com ele!\nJajajajajajaja!!!!\n..................\nVocê está com cara de decepção...\nQuer aprender Rugido de Batalha?",
+        "es-ES": "[Neko]\n¡Pero murió!\n¡Así que ya no puedes aprender con él!\n¡Jajajajajajaja!!!!\n..................\nTienes cara de decepción...\n¿Quieres aprender Rugido de Batalla?"
     },
     "SS+TAg": {
-        "en-US": "[Neko]\nHmm… shall I teach you? If you really want it, I can. First, we must sear your vocal cords. To do that, you need materials.",
+        "en-US": "[Neko]\nHmm... shall I teach you? If you really want it, I can. First, we must sear your vocal cords. To do that, you need materials.",
         "pt-BR": "[Neko]\nHmm... devo te ensinar?\nSe realmente quiser, posso fazer isso.\nPrimeiro, precisamos queimar suas cordas vocais.\nPara isso, você precisa de materiais.",
-        "es-ES": "[Neko]\nHmm… ¿debería enseñarte?\nSi realmente lo quieres, puedo hacerlo.\nPrimero, debemos quemar tus cuerdas vocales.\nPara eso, necesitas materiales."
+        "es-ES": "[Neko]\nHmm... ¿debería enseñarte?\nSi realmente lo quieres, puedo hacerlo.\nPrimero, debemos quemar tus cuerdas vocales.\nPara eso, necesitas materiales."
     },
     "Si+TAg": {
         "en-US": "[Neko]\nBring 7 Pearls, 1 Banana Juice, and 50 Spores!",
@@ -1725,9 +1725,9 @@
         "es-ES": "[Shailon]\nSaludos, colega comerciante.\nSi no me equivoco, eres\nquien todos están mencionando últimamente."
     },
     "WS+TAg": {
-        "en-US": "[Shailon]\nBut that cart you’re dragging… quite shabby. Embarrassing, isn’t it?",
+        "en-US": "[Shailon]\nBut that cart you’re dragging... quite shabby. Embarrassing, isn’t it?",
         "pt-BR": "[Shailon]\nMas essa carreta que você arrasta...\nbastante lamentável.\nVocê não tem vergonha?",
-        "es-ES": "[Shailon]\nPero esa carreta que arrastras…\nBastante lamentable.\n¿No te da pena?"
+        "es-ES": "[Shailon]\nPero esa carreta que arrastras...\nBastante lamentable.\n¿No te da pena?"
     },
     "Wi+TAg": {
         "en-US": "That’s why I came to you.",
@@ -1805,9 +1805,9 @@
         "es-ES": "[Shailon]\nCon eso, podremos armar todo juntos.\nReúne los materiales y regresa.\n¿Entendido?"
     },
     "aS+TAg": {
-        "en-US": "[Shailon]\n…It’s not a *card*!",
+        "en-US": "[Shailon]\n...It’s not a *card*!",
         "pt-BR": "[Shailon]\n...Não é uma *carta*!",
-        "es-ES": "[Shailon]\n…¡No es una *carta*!"
+        "es-ES": "[Shailon]\n...¡No es una *carta*!"
     },
     "ai+TAg": {
         "en-US": "[Shailon]\nI’m Shailon, merchant of many goods. If you find anything valuable, bring it to me. Let’s trade.",
@@ -1820,9 +1820,9 @@
         "es-ES": "Gosangs"
     },
     "bC+TAg": {
-        "en-US": "[Gosangs]\nAh, long time! Hoho, that deep red stain on your cart… that’s definitely the mark of *that* technique. Seems I taught you well!",
+        "en-US": "[Gosangs]\nAh, long time! Hoho, that deep red stain on your cart... that’s definitely the mark of *that* technique. Seems I taught you well!",
         "pt-BR": "[Gosangs]\nAh, quanto tempo!\nHoho, aquela mancha vermelha escura\nna sua carreta...\né definitivamente a marca\n*dessa* técnica.\nParece que te ensinei bem!",
-        "es-ES": "[Gosangs]\nAh, ¡cuánto tiempo!\nHoho, esa mancha roja oscura\nen tu carreta…\nes definitivamente la marca\nde *esa* técnica.\n¡Parece que te enseñé bien!"
+        "es-ES": "[Gosangs]\nAh, ¡cuánto tiempo!\nHoho, esa mancha roja oscura\nen tu carreta...\nes definitivamente la marca\nde *esa* técnica.\n¡Parece que te enseñé bien!"
     },
     "bS+TAg": {
         "en-US": "[Gosangs]\nHeh heh! Very well! I’ll teach you Cart Revolution again!",
@@ -1855,9 +1855,9 @@
         "es-ES": "[Gosangs]\nHmm, eres un joven comerciante.\nClaro que arrastras una carreta,\nes parte del oficio.\nPero ¿solo sirve para eso?"
     },
     "cy+TAg": {
-        "en-US": "[Gosangs]\nI studied other uses for carts. I cooked ramen on one… used one for jump-rope… but nothing satisfied me.",
+        "en-US": "[Gosangs]\nI studied other uses for carts. I cooked ramen on one... used one for jump-rope... but nothing satisfied me.",
         "pt-BR": "[Gosangs]\nEstudei outros usos para a carreta.\nCozinhei ramen nela,\nusei outra para pular corda...\nmas nada me satisfez.",
-        "es-ES": "[Gosangs]\nEstudié otros usos de la carreta.\nCociné ramen en una,\nhice salto de cuerda con otra…\npero nada me satisfizo."
+        "es-ES": "[Gosangs]\nEstudié otros usos de la carreta.\nCociné ramen en una,\nhice salto de cuerda con otra...\npero nada me satisfizo."
     },
     "dC+TAg": {
         "en-US": "I know, I know.",
@@ -1865,14 +1865,14 @@
         "es-ES": "Lo sé, lo sé."
     },
     "dS+TAg": {
-        "en-US": "…?",
+        "en-US": "...?",
         "pt-BR": "...?",
-        "es-ES": "…?"
+        "es-ES": "...?"
     },
     "di+TAg": {
-        "en-US": "[Gosangs]\n…No, what I mean is this.",
+        "en-US": "[Gosangs]\n...No, what I mean is this.",
         "pt-BR": "[Gosangs]\n...Não, o que quero dizer é isto.",
-        "es-ES": "[Gosangs]\n…No, lo que quiero decir es esto."
+        "es-ES": "[Gosangs]\n...No, lo que quiero decir es esto."
     },
     "dy+TAg": {
         "en-US": "[Gosangs]\nI wandered the fields in despair. As I drifted aimlessly, I met a powerful monster. My life was at risk—and of all days, I had no weapon!",
@@ -1880,9 +1880,9 @@
         "es-ES": "[Gosangs]\nVagué por los campos en desesperación.\nMientras deambulaba sin rumbo,\nme encontré con un monstruo poderoso.\nMi vida estaba en riesgo,\n¡y justo ese día no tenía arma!"
     },
     "eC+TAg": {
-        "en-US": "[Gosangs]\nI panicked—I thought I’d die miserably. So I grabbed at the last hope I had… I slammed the monster with my cart! And then! And then—!",
+        "en-US": "[Gosangs]\nI panicked—I thought I’d die miserably. So I grabbed at the last hope I had... I slammed the monster with my cart! And then! And then—!",
         "pt-BR": "[Gosangs]\nEntrei em pânico. Achei que morreria\nmiseravelmente.\nEntão me agarrei à última esperança...\ne esmaguei o monstro com a minha carreta!\nE então! E então...",
-        "es-ES": "[Gosangs]\nEntré en pánico. Pensé que moriría\nmiserablemente.\nAsí que me aferré a la última esperanza…\n¡y aplasté al monstruo con mi carreta!\n¡Y entonces! Y entonces..."
+        "es-ES": "[Gosangs]\nEntré en pánico. Pensé que moriría\nmiserablemente.\nAsí que me aferré a la última esperanza...\n¡y aplasté al monstruo con mi carreta!\n¡Y entonces! Y entonces..."
     },
     "eS+TAg": {
         "en-US": "[Gosangs]\nThe monster shattered in one blow. That’s when I realized—a cart can be a weapon! You can strike enemies with it!",
@@ -1910,9 +1910,9 @@
         "es-ES": "¡Sí!!"
     },
     "fi+TAg": {
-        "en-US": "I’d prefer sushi skills…",
+        "en-US": "I’d prefer sushi skills...",
         "pt-BR": "Prefiro habilidades de sushi...",
-        "es-ES": "Prefiero habilidades de sushi…"
+        "es-ES": "Prefiero habilidades de sushi..."
     },
     "fy+TAg": {
         "en-US": "[Gosangs]\nGood! Then I’ll train you. First—build your stamina! Raise your Merchant Job Level to 35! Then we’ll talk.",
@@ -1955,9 +1955,9 @@
         "es-ES": "[Gosangs]\nJejeje. Bien.\n¡Te enseñaré Revolución Rodante ahora mismo!"
     },
     "hy+TAg": {
-        "en-US": "[Gosangs]\nOh! Banana Juice—my favorite! I’ll enjoy this! ………Kaaah!",
+        "en-US": "[Gosangs]\nOh! Banana Juice—my favorite! I’ll enjoy this! .........Kaaah!",
         "pt-BR": "[Gosangs]\nOh! Suco de Banana, meu favorito!\nVou aproveitar!\n.........Kaaah!",
-        "es-ES": "[Gosangs]\n¡Oh! ¡Jugo de Banana, mi favorito!\n¡Lo disfrutaré!\n………..¡Kaaah!"
+        "es-ES": "[Gosangs]\n¡Oh! ¡Jugo de Banana, mi favorito!\n¡Lo disfrutaré!\n...........¡Kaaah!"
     },
     "iC+TAg": {
         "en-US": "Delicious! Thank you! Off you go!",
@@ -1970,9 +1970,9 @@
         "es-ES": "[Gosangs]\n¿Hm? ¿Aún aquí?\nAh, ¿todavía quieres aprender Revolución Rodante?\nBien. En honor al Jugo de Banana,\nte enseñaré especialmente."
     },
     "ii+TAg": {
-        "en-US": "[Gosangs]\nTeaching the skill is easy—but for cart modification, you’ll need materials. What you need is…",
+        "en-US": "[Gosangs]\nTeaching the skill is easy—but for cart modification, you’ll need materials. What you need is...",
         "pt-BR": "[Gosangs]\nEnsinar a habilidade é fácil,\nmas, para modificar a carreta,\nvocê precisa de materiais.\nO que você precisa é...",
-        "es-ES": "[Gosangs]\nEnseñar la habilidad es fácil,\npero, para modificar la carreta,\nnecesitas materiales.\nLo que necesitas es…"
+        "es-ES": "[Gosangs]\nEnseñar la habilidad es fácil,\npero, para modificar la carreta,\nnecesitas materiales.\nLo que necesitas es..."
     },
     "iy+TAg": {
         "en-US": "[Gosangs]\nFirst, 20 Iron to reinforce the cart. Then 30 Sticky Mucus for shock-absorbing gel. About 20 Fly Wings? Maybe 5 Tentacles? And two bottles of Grape Juice for me!",
@@ -2005,9 +2005,9 @@
         "es-ES": "[Gosangs]\n¡Bien! ¡Te enseñaré Revolución Rodante ahora mismo!"
     },
     "kS+TAg": {
-        "en-US": "[Gosangs]\nHmph… so you don’t know Cart Revolution. Fine, I’ll tell you what I’ve never told anyone. Listen carefully.",
+        "en-US": "[Gosangs]\nHmph... so you don’t know Cart Revolution. Fine, I’ll tell you what I’ve never told anyone. Listen carefully.",
         "pt-BR": "[Gosangs]\nHmph... então você não conhece Revolução Rodante.\nCerto, vou te contar o que nunca contei a ninguém.\nEscute com atenção.",
-        "es-ES": "[Gosangs]\nHmph… así que no conoces Revolución Rodante.\nBien, te diré lo que nunca conté a nadie.\nEscucha con atención."
+        "es-ES": "[Gosangs]\nHmph... así que no conoces Revolución Rodante.\nBien, te diré lo que nunca conté a nadie.\nEscucha con atención."
     },
     "ki+TAg": {
         "en-US": "[Gosangs]\nI panicked—thought I’d die miserably. So I grabbed the last straw and smashed the monster with my cart!",
@@ -2015,9 +2015,9 @@
         "es-ES": "[Gosangs]\nEntré en pánico: pensé que moriría\nmiserablemente.\nAsí que me aferré a la última esperanza\ny aplasté al monstruo con mi carreta."
     },
     "ky+TAg": {
-        "en-US": "[Gosangs]\nThe monster shattered in one blow. That’s when I realized… a cart can be a weapon! You can attack enemies with it!",
+        "en-US": "[Gosangs]\nThe monster shattered in one blow. That’s when I realized... a cart can be a weapon! You can attack enemies with it!",
         "pt-BR": "[Gosangs]\nO monstro virou farelo em um golpe.\nFoi então que eu entendi...\numa carreta pode ser uma arma!\nVocê pode atacar inimigos com ela!",
-        "es-ES": "[Gosangs]\nEl monstruo se hizo trizas de un golpe.\nAhí entendí…\n¡una carreta puede ser un arma!\n¡Puedes atacar enemigos con ella!"
+        "es-ES": "[Gosangs]\nEl monstruo se hizo trizas de un golpe.\nAhí entendí...\n¡una carreta puede ser un arma!\n¡Puedes atacar enemigos con ella!"
     },
     "lC+TAg": {
         "en-US": "[Gosangs]\nCart Revolution! A cart-attack skill I developed. It uses 12 SP to lift your cart and smash it onto an enemy!",

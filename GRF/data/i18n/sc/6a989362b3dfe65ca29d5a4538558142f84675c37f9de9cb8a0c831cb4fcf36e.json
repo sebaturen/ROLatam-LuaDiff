@@ -42,7 +42,7 @@
     "aDjEBw": {
         "en-US": "[Dien]\nHello, {0}.\nWe're here because we have something to take care of right now...\nIt would be a bit troublesome if the others found out.",
         "pt-BR": "[Dien]\nOi, {0}.\nEstamos aqui para fazer uma coisinha...\nnão podemos deixar que os outros saibam onde estamos.",
-        "es-ES": "[Dien]\nHola, {0}.\nEstamos aquí para hacer una cosita…\nno podemos dejar que los demás sepan dónde estamos."
+        "es-ES": "[Dien]\nHola, {0}.\nEstamos aquí para hacer una cosita...\nno podemos dejar que los demás sepan dónde estamos."
     },
     "aTjEBw": {
         "en-US": "Dien: Hello, {0}.",
@@ -52,17 +52,17 @@
     "ajjEBw": {
         "en-US": "Dien: We're here because we have something to take care of right now... It would be a bit troublesome if the others found out.",
         "pt-BR": "Dien: Estamos aqui para fazer uma coisinha... não podemos deixar que os outros saberem onde estamos.",
-        "es-ES": "Dien: Estamos aquí para hacer una cosita… no podemos dejar que los demás sepan dónde estamos."
+        "es-ES": "Dien: Estamos aquí para hacer una cosita... no podemos dejar que los demás sepan dónde estamos."
     },
     "azjEBw": {
-        "en-US": "[Dien]\nIf you keep it a secret that you saw us here…",
+        "en-US": "[Dien]\nIf you keep it a secret that you saw us here...",
         "pt-BR": "[Dien]\nPor favor, não conte para ninguém que nos viu aqui...",
-        "es-ES": "[Dien]\nPor favor, no le digas a nadie que nos viste aquí…"
+        "es-ES": "[Dien]\nPor favor, no le digas a nadie que nos viste aquí..."
     },
     "bDjEBw": {
-        "en-US": "Dien: If you keep it a secret that you saw us here…",
+        "en-US": "Dien: If you keep it a secret that you saw us here...",
         "pt-BR": "Dien: Por favor, não conte para ninguém que nos viu aqui...",
-        "es-ES": "Dien: Por favor, no le digas a nadie que nos viste aquí…"
+        "es-ES": "Dien: Por favor, no le digas a nadie que nos viste aquí..."
     },
     "bTjEBw": {
         "en-US": "[Ridsh]\nSis~~\nHow could you break it while we were talking!",
@@ -307,12 +307,12 @@
     "nTjEBw": {
         "en-US": "[Est]\nOh my...\nI was wondering where you were sneaking off to, and it turns out you’re doing something here?",
         "pt-BR": "[Est]\nOra, ora...\nO que as veteranas da Rebelião fazem se esgueirando por aqui?",
-        "es-ES": "[Est]\nVaya, vaya…\n¿Qué hacen las veteranas de la Rebelión escabulléndose por aquí?"
+        "es-ES": "[Est]\nVaya, vaya...\n¿Qué hacen las veteranas de la Rebelión escabulléndose por aquí?"
     },
     "njjEBw": {
         "en-US": "Est: I was wondering where you were sneaking off to, and it turns out you’re doing something here?",
         "pt-BR": "Est: Ora, ora... O que as veteranas da Rebelião fazem se esgueirando por aqui?",
-        "es-ES": "Est: Vaya, vaya… ¿Qué hacen las veteranas de la Rebelión escabulléndose por aquí?"
+        "es-ES": "Est: Vaya, vaya... ¿Qué hacen las veteranas de la Rebelión escabulléndose por aquí?"
     },
     "nzjEBw": {
         "en-US": "[Est]\nPlease don't cause any unnecessary trouble. Just go back and enjoy your tea gracefully.",
@@ -452,7 +452,7 @@
     "ujjEBw": {
         "en-US": "[Dien]\nPhew, finally...\nIf I can just get past this door...\n...",
         "pt-BR": "[Dien]\nFinalmente...\nAgora é só passar por essa porta...\n...",
-        "es-ES": "[Dien]\nPor fin…\nAhora solo queda cruzar esta puerta…\n…"
+        "es-ES": "[Dien]\nPor fin...\nAhora solo queda cruzar esta puerta...\n..."
     },
     "uzjEBw": {
         "en-US": "[Est]\nLet's hurry and go before more of them show up.",
@@ -502,17 +502,17 @@
     "xDjEBw": {
         "en-US": "[Ridsh]\nWhat, you made it all the way here and now this?!",
         "pt-BR": "[Ridsh]\nUé?! Você chegou até aqui sem ele...",
-        "es-ES": "[Ridsh]\n¿Eh?! Llegaste hasta aquí sin él…"
+        "es-ES": "[Ridsh]\n¿Eh?! Llegaste hasta aquí sin él..."
     },
     "xTjEBw": {
-        "en-US": "[Dien]\n…",
+        "en-US": "[Dien]\n...",
         "pt-BR": "[Dien]\n...",
-        "es-ES": "[Dien]\n…"
+        "es-ES": "[Dien]\n..."
     },
     "xjjEBw": {
         "en-US": "[Ridsh]\nAh... seriously...\nAlright.",
         "pt-BR": "[Ridsh]\nAi, Dien... Você só pode estar brincando...\nUrgh.",
-        "es-ES": "[Ridsh]\nAy, Dien… tienes que estar bromeando…\nUrgh."
+        "es-ES": "[Ridsh]\nAy, Dien... tienes que estar bromeando...\nUrgh."
     },
     "xzjEBw": {
         "en-US": "[Ridsh]\nWe'll be opening the last door, so could you go to ^FF0000Clana Nemieri^000000 for us?",
@@ -537,7 +537,7 @@
     "yzjEBw": {
         "en-US": "[Dien]\nAs I get older, traveling long distances has become difficult...\nCould you do me a favor?",
         "pt-BR": "[Dien]\nNão ia ter físico para dar tantas voltas...\nObrigada.",
-        "es-ES": "[Dien]\nNo tendría fuerzas para dar tantas vueltas…\nGracias."
+        "es-ES": "[Dien]\nNo tendría fuerzas para dar tantas vueltas...\nGracias."
     },
     "zDjEBw": {
         "en-US": "[Dien]\nIf you go into my room and look at the top of the left drawer among the dressers by the window, you should see a round An ornamental box next to the tall vase.^000000",

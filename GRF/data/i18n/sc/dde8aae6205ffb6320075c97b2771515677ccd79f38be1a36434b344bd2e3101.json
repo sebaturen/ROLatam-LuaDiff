@@ -57,7 +57,7 @@
     "yy1VCA": {
         "en-US": "Zeith: ...Something's been bothering me.",
         "pt-BR": "Zeith: ...Algo está me incomodando.",
-        "es-ES": "Zeith: …Algo me está molestando."
+        "es-ES": "Zeith: ...Algo me está molestando."
     },
     "zC1VCA": {
         "en-US": "Vrid: What's up?",
@@ -192,7 +192,7 @@
     "5i1VCA": {
         "en-US": "Zeith: ...Ugh...",
         "pt-BR": "Zeith: ...Ugh...",
-        "es-ES": "Zeith: …Uf…"
+        "es-ES": "Zeith: ...Uf..."
     },
     "5y1VCA": {
         "en-US": "Corrupt Orc Zombie",
@@ -222,7 +222,7 @@
     "7C1VCA": {
         "en-US": "Zeith: Nope, we aren't so lucky--more is on the way!",
         "pt-BR": "Zeith: Não, nós não somos tão sortudos. Mais estão a caminho!",
-        "es-ES": "Zeith: No, no tenemos tanta suerte… ¡hay más en camino!"
+        "es-ES": "Zeith: No, no tenemos tanta suerte... ¡hay más en camino!"
     },
     "7S1VCA": {
         "en-US": "Corrupt Megalodon",
@@ -277,7 +277,7 @@
     "9y1VCA": {
         "en-US": "Vrid: Damn it, I can't move...",
         "pt-BR": "Vrid: Droga, eu não posso me mexer...",
-        "es-ES": "Vrid: Maldita sea, no puedo moverme…"
+        "es-ES": "Vrid: Maldita sea, no puedo moverme..."
     },
     "+C1VCA": {
         "en-US": "Vrid: Ack, I'm sorry we can't help.",
@@ -287,7 +287,7 @@
     "+S1VCA": {
         "en-US": "Zeith: Ugh... I feel so helpless...",
         "pt-BR": "Zeith: Ahhh... Eu me sinto tão indefeso...",
-        "es-ES": "Zeith: Uf… Me siento tan impotente…"
+        "es-ES": "Zeith: Uf... Me siento tan impotente..."
     },
     "+i1VCA": {
         "en-US": "Zeith: That guy Yanku smells dangerous. You better move once he starts using a skill.",
@@ -302,12 +302,12 @@
     "/C1VCA": {
         "en-US": "Reaper Ankou: You're strong...",
         "pt-BR": "Ceifador Ankou: Você é tão forte...",
-        "es-ES": "Segador Ankou: Eres fuerte…"
+        "es-ES": "Segador Ankou: Eres fuerte..."
     },
     "/S1VCA": {
         "en-US": "Reaper Ankou: But my goal has been accomplished... Don't think this is over.",
         "pt-BR": "Ceifador Ankou: Mas meu objetivo foi alcançado... Não pense que isso acabou.",
-        "es-ES": "Segador Ankou: Pero se cumplió mi objetivo… No creas que esto terminó."
+        "es-ES": "Segador Ankou: Pero se cumplió mi objetivo... No creas que esto terminó."
     },
     "/i1VCA": {
         "en-US": "Reaper Ankou: Soon Lord Morroc will return. *Chuckle* The fear of death will follow you wherever you go.",
@@ -322,7 +322,7 @@
     "AC5VCA": {
         "en-US": "Zeith: Hmpf, I'm ashamed of myself for being so weak...",
         "pt-BR": "Zeith: Hmpf, eu estou envergonhado por ser tão fraco...",
-        "es-ES": "Zeith: Pff, me avergüenza ser tan débil…"
+        "es-ES": "Zeith: Pff, me avergüenza ser tan débil..."
     },
     "AS5VCA": {
         "en-US": "Vrid: Whew, that reaper was much stronger than me and Zeith combined.",

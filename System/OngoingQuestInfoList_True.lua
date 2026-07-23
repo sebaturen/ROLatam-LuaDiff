@@ -1,3 +1,4 @@
+
 QuestInfoList = {
 	[1] = {
 		Title = "Título",
@@ -7868,7 +7869,7 @@ QuestInfoList = {
 	[3522] = {
 		Title = "Traços de Yeongwi",
 		Description = {
-			"Vamos procurar vestígios de Yeongwi em algum lugar em <NAVI>[Amatsu Underground Forest Battleground]<INFO>ama_dun02.gat,121,47,0,101,0</INFO></NAVI>."
+			"Vamos procurar vestígios de Yeongwi em algum lugar em <NAVI>[Campo de Batalha da Floresta Subterrânea de Amatsu]<INFO>ama_dun02.gat,121,47,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Localizar rastros"
 	},
@@ -15919,224 +15920,224 @@ QuestInfoList = {
 		Summary = "Derrote 5 Salgueiros"
 	},
 	[7128] = {
-		Title = "[É] Conhecer o Deserto",
+		Title = "Conhecer o Deserto",
 		Description = {
 			"Você iniciou seu treinamento com o Grupo do Éden. Procure o <NAVI>[Cão Falante]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> em Sograt e diga ^4d4dffA Boya é incrível^000000."
 		},
 		Summary = "Fale com Mutt"
 	},
 	[7129] = {
-		Title = "[É] Conhecer o Deserto",
+		Title = "Conhecer o Deserto",
 		Description = {
 			"Derrote 10 Condores à pedido de <NAVI>[Mutt]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> no deserto de Sograt."
 		},
 		Summary = "10 Condor"
 	},
 	[7130] = {
-		Title = "[É] Conhecer o Deserto",
+		Title = "Conhecer o Deserto",
 		Description = {
 			"Derrote 10 Filhotes de Lobo do Deserto à pedido de <NAVI>[Mutt]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> no deserto de Sograt."
 		},
 		Summary = "10 Filhotes de Lobo"
 	},
 	[7131] = {
-		Title = "[É] Conhecer o Deserto",
+		Title = "Conhecer o Deserto",
 		Description = {
 			"Derrote 5 Escorpiões à pedido de <NAVI>[Mutt]<INFO>moc_fild11,180,253,0,101,0</INFO></NAVI> no deserto de Sograt"
 		},
 		Summary = "5 Escorpiões"
 	},
 	[7132] = {
-		Title = "[É] Conhecer o Deserto",
+		Title = "Conhecer o Deserto",
 		Description = {
 			"Você completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Boya"
 	},
 	[7133] = {
-		Title = "[É] Conhecer os Esgotos",
+		Title = "Conhecer os Esgotos",
 		Description = {
 			"Você iniciou seu treinamento com o Grupo do Éden. Procure o <NAVI>[Gato Falante]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI> nos Esgotos de Prontera e diga ^4d4dffUm belo atum^000000."
 		},
 		Summary = "Fale com Perrault"
 	},
 	[7134] = {
-		Title = "[É] Conhecer os Esgotos",
+		Title = "Conhecer os Esgotos",
 		Description = {
 			"Derrote 10 Besouros-Ladrões à pedido de <NAVI>[Perrault]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI> nos esgotos."
 		},
 		Summary = "10 Besouros-Ladrões"
 	},
 	[7135] = {
-		Title = "[É] Conhecer os Esgotos",
+		Title = "Conhecer os Esgotos",
 		Description = {
 			"Derrote 10 Tarous à pedido de <NAVI>[Perrault]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI> nos esgotos."
 		},
 		Summary = "10 Tarou"
 	},
 	[7136] = {
-		Title = "[É] Conhecer os Esgotos",
+		Title = "Conhecer os Esgotos",
 		Description = {
 			"Derrote 5 Familiares à pedido de <NAVI>[Perrault]<INFO>prt_sewb1,131,262,0,101,0</INFO></NAVI> nos esgotos."
 		},
 		Summary = "5 Familiar"
 	},
 	[7137] = {
-		Title = "[É] Conhecer os Esgotos",
+		Title = "Conhecer os Esgotos",
 		Description = {
 			"Você completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Boya"
 	},
 	[7138] = {
-		Title = "[É] Conhecer a Caverna",
+		Title = "Conhecer a Caverna",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Coral]<INFO>pay_arche,41,136,0,101,0</INFO></NAVI> na Vila dos Arqueiros."
 		},
 		Summary = "Fale com Coral"
 	},
 	[7139] = {
-		Title = "[É] Conhecer a Caverna",
+		Title = "Conhecer a Caverna",
 		Description = {
 			"Há muitos monstros perigosos nessa caverna e um deles é o Skeletons."
 		},
 		Summary = "Caçar 15 esqueletos"
 	},
 	[7140] = {
-		Title = "[É] Conhecer a Caverna",
+		Title = "Conhecer a Caverna",
 		Description = {
 			"Derrote 10 Poporings à pedido de <NAVI>[Coral]<INFO>pay_arche,41,136,0,101,0</INFO></NAVI> na Vila dos Arqueiros."
 		},
 		Summary = "Caçar 10 Poporings"
 	},
 	[7141] = {
-		Title = "[É] Conhecer a Caverna",
+		Title = "Conhecer a Caverna",
 		Description = {
 			"Você completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Boya"
 	},
 	[7142] = {
-		Title = "[É] Conhecer o Formigueiro",
+		Title = "Conhecer o Formigueiro",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Clod]<INFO>anthell01,29,264,0,101,0</INFO></NAVI> no Formigueiro Infernal."
 		},
 		Summary = "Fale com Clod"
 	},
 	[7143] = {
-		Title = "[É] Conhecer o Formigueiro",
+		Title = "Conhecer o Formigueiro",
 		Description = {
 			"Derrote 15 Pierres à pedido de <NAVI>[Clod]<INFO>anthell01,29,264,0,101,0</INFO></NAVI> no Formigueiro Infernal."
 		},
 		Summary = "15 Pierres"
 	},
 	[7144] = {
-		Title = "[É] Conhecer o Formigueiro",
+		Title = "Conhecer o Formigueiro",
 		Description = {
 			"Derrote 15 Andres à pedido de <NAVI>[Clod]<INFO>anthell01,29,264,0,101,0</INFO></NAVI> no Formigueiro Infernal."
 		},
 		Summary = "15 Andres"
 	},
 	[7145] = {
-		Title = "[É] Conhecer o Formigueiro",
+		Title = "Conhecer o Formigueiro",
 		Description = {
 			"Derrote 10 Vitatas à pedido de <NAVI>[Clod]<INFO>anthell01,29,264,0,101,0</INFO></NAVI> no Formigueiro Infernal."
 		},
 		Summary = "10 Vitatas"
 	},
 	[7146] = {
-		Title = "[É] Conhecer o Formigueiro",
+		Title = "Conhecer o Formigueiro",
 		Description = {
 			"Você completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Boya"
 	},
 	[7147] = {
-		Title = "[É] Conhecer a Vila dos Orcs",
+		Title = "Conhecer a Vila dos Orcs",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."
 		},
 		Summary = "Fale com Absalom"
 	},
 	[7148] = {
-		Title = "[É] Conhecer a Vila dos Orcs",
+		Title = "Conhecer a Vila dos Orcs",
 		Description = {
 			"Derrote 10 Filhotes de Orc à pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."
 		},
 		Summary = "10 Filhotes de Orc"
 	},
 	[7149] = {
-		Title = "[É] Conhecer a Vila dos Orcs",
+		Title = "Conhecer a Vila dos Orcs",
 		Description = {
 			"Derrote 10 Guerreiros Orc à pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."
 		},
 		Summary = "10 Guerreiros Orc"
 	},
 	[7150] = {
-		Title = "[É] Conhecer a Vila dos Orcs",
+		Title = "Conhecer a Vila dos Orcs",
 		Description = {
 			"Derrote 10 Senhoras Orc à pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."
 		},
 		Summary = "10 Senhoras Orc"
 	},
 	[7151] = {
-		Title = "[É] Conhecer a Vila dos Orcs",
+		Title = "Conhecer a Vila dos Orcs",
 		Description = {
 			"Você completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Boya"
 	},
 	[7152] = {
-		Title = "[É] Conhecer a Caverna Orc",
+		Title = "Conhecer a Caverna Orc",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."
 		},
 		Summary = "Fale com Absalom"
 	},
 	[7153] = {
-		Title = "[É] Conhecer a Caverna Orc",
+		Title = "Conhecer a Caverna Orc",
 		Description = {
 			"Derrote 20 Orcs Zumbis à pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."
 		},
 		Summary = "20 Orcs Zumbis"
 	},
 	[7154] = {
-		Title = "[É] Conhecer a Caverna Orc",
+		Title = "Conhecer a Caverna Orc",
 		Description = {
 			"Derrote 20 Orcs Esqueletos à pedido de <NAVI>[Absalom]<INFO>in_orcs01,38,175,0,101,0</INFO></NAVI> na Vila dos Orcs."
 		},
 		Summary = "20 Orcs Esqueletos"
 	},
 	[7155] = {
-		Title = "[É] Conhecer a Caverna Orc",
+		Title = "Conhecer a Caverna Orc",
 		Description = {
 			"Você completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Boya"
 	},
 	[7156] = {
-		Title = "[É] Conhecer Byalan",
+		Title = "Conhecer Byalan",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Callandiva]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> no Túnel Submarino da ilha Byalan."
 		},
 		Summary = "Fale com Callandiva"
 	},
 	[7157] = {
-		Title = "[É] Conhecer Byalan",
+		Title = "Conhecer Byalan",
 		Description = {
 			"Derrote 15 Tritões à pedido de <NAVI>[Callandiva]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> no Túnel Submarino da ilha Byalan."
 		},
 		Summary = "15 Tritões"
 	},
 	[7158] = {
-		Title = "[É] Conhecer Byalan",
+		Title = "Conhecer Byalan",
 		Description = {
 			"Derrote 10 Stroufs à pedido de <NAVI>[Callandiva]<INFO>iz_dun04,43,46,0,101,0</INFO></NAVI> no Túnel Submarino da ilha Byalan."
 		},
 		Summary = "10 Stroufs"
 	},
 	[7159] = {
-		Title = "[É] Conhecer Byalan",
+		Title = "Conhecer Byalan",
 		Description = {
 			"Você completou todas as tarefas. Fale com a <NAVI>[Instrutora Boya]<INFO>moc_para01,25,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
@@ -16537,196 +16538,196 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[7214] = {
-		Title = "[É] Treino em Comodo",
+		Title = "Treino em Comodo",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Romeo]<INFO>comodo,173,354,0,101,0</INFO></NAVI> na entrada da caverna norte de Comodo."
 		},
 		Summary = "Fale com Romeo"
 	},
 	[7215] = {
-		Title = "[É] Treino em Comodo",
+		Title = "Treino em Comodo",
 		Description = {
 			"<NAVI>[Romeo]<INFO>comodo,173,354,0,101,0</INFO></NAVI> pediu para que você derrotasse Golens Estalactíticos."
 		},
 		Summary = "3 Golem Estalactítico"
 	},
 	[7216] = {
-		Title = "[É] Treino em Comodo",
+		Title = "Treino em Comodo",
 		Description = {
 			"Agora que você já sabe como é, derrote mais 10 Golens Estalactíticos e encontre Romeo na <NAVI>[Floresta de Luluka]<INFO>um_fild01,34,280,0,101,0</INFO></NAVI>."
 		},
 		Summary = "À Floresta de Luluka"
 	},
 	[7217] = {
-		Title = "[É] Treino em Comodo",
+		Title = "Treino em Comodo",
 		Description = {
 			"<NAVI>[Romeo]<INFO>um_fild01,34,280,0,101,0</INFO></NAVI> te passou uma última missão. Derrote Guerreiros Wootan e Dríades para conseguir alguns 5 Ombreiras e 7 Folhas Afiadas."
 		},
 		Summary = "5 Ombreira, 7 Folha Afiada"
 	},
 	[7218] = {
-		Title = "[É] Treino em Comodo",
+		Title = "Treino em Comodo",
 		Description = {
 			"Você completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Ur"
 	},
 	[7219] = {
-		Title = "[É] Treino em Glastheim",
+		Title = "Treino em Glastheim",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Johan]<INFO>glast_01,195,131,0,101,0</INFO></NAVI> na entrada da Abadia de Glastheim."
 		},
 		Summary = "Encontre Johan"
 	},
 	[7220] = {
-		Title = "[É] Treino em Glastheim",
+		Title = "Treino em Glastheim",
 		Description = {
 			"<NAVI>[Johan]<INFO>glast_01,195,131,0,101,0</INFO></NAVI> pediu para você derrotar algumas 'Almas Penadas' no primeiro andar da Abadia de Glastheim."
 		},
 		Summary = "20 Almas Penadas"
 	},
 	[7221] = {
-		Title = "[É] Treino em Glastheim",
+		Title = "Treino em Glastheim",
 		Description = {
 			"Há alguns druidas na Abadia. Entretanto, eles foram corrompidos e não salvam pessoas. Vamos atender o pedido de <NAVI>[Johan]<INFO>glast_01,195,131,0,101,0</INFO></NAVI>."
 		},
 		Summary = "10 Druida Maligno"
 	},
 	[7222] = {
-		Title = "[É] Treino em Glastheim",
+		Title = "Treino em Glastheim",
 		Description = {
 			"Você completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Ur"
 	},
 	[7223] = {
-		Title = "[É] Treino em Einbroch",
+		Title = "Treino em Einbroch",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> ao sul de Einbroch."
 		},
 		Summary = "Fale com Girhen"
 	},
 	[7224] = {
-		Title = "[É] Treino em Einbroch",
+		Title = "Treino em Einbroch",
 		Description = {
 			"<NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI>, um cara muito relaxado, pediu para você caçar alguns Porcellios."
 		},
 		Summary = "30 Porcellios"
 	},
 	[7225] = {
-		Title = "[É] Treino em Einbroch",
+		Title = "Treino em Einbroch",
 		Description = {
 			"Os cidadãos de Einbroch pediram para derrotar Nuvens Tóxicas, mas <NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> não deu a mínima."
 		},
 		Summary = "Ignore a Nuvem Tóxica"
 	},
 	[7226] = {
-		Title = "[É] Treino em Einbroch",
+		Title = "Treino em Einbroch",
 		Description = {
 			"Essa missão é um pedido de 100% dos cidadãos de Einbroch, mas reporte para <NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> quando terminar."
 		},
 		Summary = "30 Nuvens Venenosas"
 	},
 	[7227] = {
-		Title = "[É] Treino em Einbroch",
+		Title = "Treino em Einbroch",
 		Description = {
 			"Um cidadão pediu e é muito importante. Alguns Ursinhos podem causar o caos. <NAVI>[Girhen]<INFO>ein_fild08,172,359,0,101,0</INFO></NAVI> pediu para ter cuidado com esse poderoso inimigo."
 		},
 		Summary = "5 Ursinhos"
 	},
 	[7228] = {
-		Title = "[É] Treino em Einbroch",
+		Title = "Treino em Einbroch",
 		Description = {
 			"Você completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Ur"
 	},
 	[7229] = {
-		Title = "[É] Treino na Caverna de Gelo",
+		Title = "Treino na Caverna de Gelo",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Neomi]<INFO>ice_dun01,154,13,0,101,0</INFO></NAVI> na Caverna de Gelo."
 		},
 		Summary = "Fale com Neomi"
 	},
 	[7230] = {
-		Title = "[É] Treino na Caverna de Gelo",
+		Title = "Treino na Caverna de Gelo",
 		Description = {
 			"Esta é uma missão de <NAVI>[Neomi]<INFO>ice_dun01,154,13,0,101,0</INFO></NAVI>. Vamos derrotar alguns Siromas que estão atrapalhando a coleta de gelo."
 		},
 		Summary = "30 Siromas"
 	},
 	[7231] = {
-		Title = "[É] Treino na Caverna de Gelo",
+		Title = "Treino na Caverna de Gelo",
 		Description = {
 			"Você precisa derrotar Siromas novamente para <NAVI>[Neomi]<INFO>ice_dun01,154,13,0,101,0</INFO></NAVI>. Ela também precisa de 30 Cubos de Gelo, 1 Molho Doce e 1 Leite."
 		},
 		Summary = "Cubos de Gelo, Molho Doce e Leite"
 	},
 	[7232] = {
-		Title = "[É] Treino na Caverna de Gelo",
+		Title = "Treino na Caverna de Gelo",
 		Description = {
 			"Você completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Ur"
 	},
 	[7233] = {
-		Title = "[É] Treino em Ash Vacuum",
+		Title = "Treino em Ash Vacuum",
 		Description = {
 			"Você iniciou seu treinamento para conseguir Equipamentos do Éden. Procure <NAVI>[Magret]<INFO>mid_camp,212,229,0,101,0</INFO></NAVI> no Acampamento em Ash Vacuum."
 		},
 		Summary = "Fale com Magret"
 	},
 	[7234] = {
-		Title = "[É] Treino em Ash Vacuum",
+		Title = "Treino em Ash Vacuum",
 		Description = {
 			"<NAVI>[Magret]<INFO>mid_camp,212,229,0,101,0</INFO></NAVI> precisa encontrar seus colegas Miru e Mineh. Encontre Miru a oeste e Mine a leste do acampamento. Vá primeiro até <NAVI>[Miru]<INFO>man_fild01,43,234,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Fale com Miru"
 	},
 	[7235] = {
-		Title = "[É] Treino em Ash Vacuum",
+		Title = "Treino em Ash Vacuum",
 		Description = {
 			"Os gêmeos Miru e Mineh estão brigado e querem provar que estão certos ao seu modo. <NAVI>[Miru]<INFO>man_fild01,43,234,0,101,0</INFO></NAVI> pediu para que você derrotasse uma Nephentes."
 		},
 		Summary = "1 Nephentes"
 	},
 	[7236] = {
-		Title = "[É] Treino em Ash Vacuum",
+		Title = "Treino em Ash Vacuum",
 		Description = {
 			"<NAVI>[Mineh]<INFO>spl_fild02,377,149,0,101,0</INFO></NAVI> pediu ajuda pra derrotar Pinguiculas. Você precisará derrotar 5 delas."
 		},
 		Summary = "5 Pinguiculas"
 	},
 	[7237] = {
-		Title = "[É] Treino em Ash Vacuum",
+		Title = "Treino em Ash Vacuum",
 		Description = {
 			"Você completou todas as tarefas. Fale com o <NAVI>[Instrutor Ur]<INFO>moc_para01,23,35,0,101,0</INFO></NAVI> no Grupo do Éden."
 		},
 		Summary = "Fale com Ur"
 	},
 	[7238] = {
-		Title = "[É] Pedido Fácil de Torhen",
+		Title = "Pedido Fácil de Torhen",
 		Description = {
 			"O <NAVI>[Ferreiro Torhen]<INFO>moc_para01,111,83,0,101,0</INFO></NAVI> só encantará seus equipamentos se trouxer 20 Minérios de Ferro e 10 Ferros. Esse pedido é fácil porque seu nível está entre 60 a 79."
 		},
 		Summary = "10 Ferro, 20 Minério de Ferro"
 	},
 	[7239] = {
-		Title = "[É] Pedido Difícil de Torhen",
+		Title = "Pedido Difícil de Torhen",
 		Description = {
 			"O <NAVI>[Ferreiro Torhen]<INFO>moc_para01,111,83,0,101,0</INFO></NAVI> só encantará seus equipamentos se trouxer 20 Placas de Ferro Usada. Esse pedido é difícil porque seu nível acima do 80."
 		},
 		Summary = "20 Placa de Ferro Usada"
 	},
 	[7240] = {
-		Title = "[É] Pedido de Torhen",
+		Title = "Pedido de Torhen",
 		Description = {
 			"Como recompensa pela missão, <NAVI>[Ferreiro Torhen]<INFO>moc_para01,111,83,0,101,0</INFO></NAVI> prometeu encantar um dos seus Equipamentos do Grupo Éden. O encantamento será aleatório."
 		},
 		Summary = "Fale com Torhen"
 	},
 	[7241] = {
-		Title = "[É] Pedido de Torhen",
+		Title = "Pedido de Torhen",
 		Description = {
 			"Thorn parece não precisar de mais nada. Visite-o amanhã."
 		},
@@ -26908,28 +26909,28 @@ QuestInfoList = {
 	[9374] = {
 		Title = "As Profecias de K",
 		Description = {
-			"Vá para o 3º nível do Labirinto de Prontera e cace Bafomés Jr. para coletar 100 Fragmento de Alma de Carneiro."
+			"Vá para o 3º nível do Labirinto de Prontera e cace Bafomés Jr. para coletar 100 Fragmento de Alma de Cabra."
 		},
-		Summary = "100 Fragmento de Alma de Carneiro"
+		Summary = "100 Fragmento de Alma de Cabra"
 	},
 	[9375] = {
 		Title = "As Profecias de K",
 		Description = {
-			"Cace Bodes no Campo de Juno para coletar 150 Fragmento de Alma de Carneiro"
+			"Cace Bodes no Campo de Juno para coletar 150 Fragmento de Alma de Cabra"
 		},
-		Summary = "150 Fragmento de Alma de Carneiro"
+		Summary = "150 Fragmento de Alma de Cabra"
 	},
 	[9376] = {
 		Title = "As Profecias de K",
 		Description = {
-			"Vá para Juno e encontre a pessoa com a energia do Carneiro"
+			"Vá para Juno e encontre a pessoa com a energia do Cabra"
 		},
-		Summary = "Alguém com Fragmento de Alma de Carneiro"
+		Summary = "Alguém com energia da Cabra"
 	},
 	[9377] = {
 		Title = "As Profecias de K",
 		Description = {
-			"Cace Planta Carnívora no Campo de Juno e Salgueiro na Floresta de Payon, e leve 20 Raízes de Planta Carnívora e 20 Raízes para Michael Tail"
+			"Cace Planta Carnívora no Campo de Juno e Salgueiro na Floresta de Payon, e leve 20 Raízes de Planta Carnívora e 20 Raízes de Árvore para Michael Tail"
 		},
 		Summary = "Conquiste Michael Tail"
 	},
@@ -33237,6 +33238,7 @@ QuestInfoList = {
 	},
 	[11769] = {
 		Title = "Mudança de emprego do Spirit Handler!",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Hyeonrok deixou uma carta dizendo obrigado por ajudar. Vamos falar com Chulho em <NAVI>[Deep Forest Entrance]<INFO>pay_fild09,108,346,0,101,0</INFO></NAVI>."
 		},
@@ -33244,6 +33246,7 @@ QuestInfoList = {
 	},
 	[11770] = {
 		Title = "Espíritos Amigos (1)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Há uma solicitação da loja de madeira para lenha de Payon. Vamos visitar <NAVI>[Firewood Woodworking Shop]<INFO>payon,252,297,0,101,0</INFO></NAVI> e verificar a solicitação."
 		},
@@ -33251,6 +33254,7 @@ QuestInfoList = {
 	},
 	[11771] = {
 		Title = "Espíritos Amigos (2)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"A pessoa que coloca a comissão parece estar na ^ff3456Payon Forest^000000. Vamos nos encontrar <NAVI>[Firewood]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI> lá."
 		},
@@ -33258,6 +33262,7 @@ QuestInfoList = {
 	},
 	[11772] = {
 		Title = "Espíritos Amigos (3)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"A lenha parece ter sofrido muitos danos causados por animais selvagens. Vamos examinar as <NAVI>[ferramentas]<INFO>pay_fild08,155,128,0,101,0</INFO></NAVI> quebradas pelos animais selvagens."
 		},
@@ -33265,6 +33270,7 @@ QuestInfoList = {
 	},
 	[11773] = {
 		Title = "Espíritos Amigos (4)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Há pegadas de animais espalhadas pelas ferramentas quebradas. Seria uma boa ideia verificar <NAVI>[Messy Traces]<INFO>pay_fild08,153,116,0,101,0</INFO></NAVI> ao seu redor."
 		},
@@ -33272,6 +33278,7 @@ QuestInfoList = {
 	},
 	[11774] = {
 		Title = "Espíritos Amigos (5)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Há pegadas semelhantes às encontradas ao lado da caixa de ferramentas. Vamos <NAVI>[mover]<INFO>pay_fild08,137,88,0,101,0</INFO></NAVI> seguir o rastro."
 		},
@@ -33279,6 +33286,7 @@ QuestInfoList = {
 	},
 	[11775] = {
 		Title = "Espíritos Amigos (6)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"A julgar pelas pegadas grandes e profundas dos cascos, parece ser um herbívoro de grande porte. Vamos continuar <NAVI>[em movimento]<INFO>pay_fild08,165,68,0,101,0</INFO></NAVI> ao longo da trilha."
 		},
@@ -33286,6 +33294,7 @@ QuestInfoList = {
 	},
 	[11776] = {
 		Title = "Espíritos Amigos (7)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Olhando para as densas pegadas de cascos, parece que há mais do que apenas um ou dois animais. Vamos continuar <NAVI>[em movimento]<INFO>pay_fild08,214,89,0,101,0</INFO></NAVI> ao longo da trilha."
 		},
@@ -33293,6 +33302,7 @@ QuestInfoList = {
 	},
 	[11777] = {
 		Title = "Espíritos Amigos (8)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Os animais parecem ter se deslocado diretamente para a oficina de lenha ao longo da estrada. Vamos continuar <NAVI>[movendo-se]<INFO>pay_fild09,31,87,0,101,0</INFO></NAVI> ao longo da trilha."
 		},
@@ -33300,6 +33310,7 @@ QuestInfoList = {
 	},
 	[11778] = {
 		Title = "Espíritos Amigos (9)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Parece que os animais da montanha ficaram sem comida ao longo do caminho. Vamos voltar para <NAVI>[Firewood]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI> e relatar a situação."
 		},
@@ -33307,6 +33318,7 @@ QuestInfoList = {
 	},
 	[11779] = {
 		Title = "Espíritos Amigos (10)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Parece que alguém deixou comida na oficina de lenha. Vamos dar uma olhada mais de perto nas <NAVI>[ferramentas quebradas]<INFO>pay_fild08,155,128,0,101,0</INFO></NAVI> para encontrar uma pista."
 		},
@@ -33314,6 +33326,7 @@ QuestInfoList = {
 	},
 	[11780] = {
 		Title = "Espíritos Amigos (11)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Em troca de receber o morango, Chulho diz que lhe dirá de onde vem o <NAVI>[cheiro delicioso]<INFO>payon,233,159,0,101,0</INFO></NAVI>. Vamos seguir Chulho."
 		},
@@ -33321,6 +33334,7 @@ QuestInfoList = {
 	},
 	[11781] = {
 		Title = "Espíritos Amigos (12)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"A pessoa que arruinou o trabalho de Firewood foi Idegam, que encomendou o trabalho. Parece que alguém está muito chateado com isso, então vamos seguir <NAVI>[Chulho]<INFO>pay_fild09,108,346,0,101,0</INFO></NAVI>."
 		},
@@ -33328,6 +33342,7 @@ QuestInfoList = {
 	},
 	[11782] = {
 		Title = "Espíritos Amigos (13)",
+		IconName = "ico_jq.bmp",
 		Description = {
 			"Vamos falar com Chulho dentro da <NAVI>[Floresta Profunda]<INFO>pay_fild09,108,346,0,101,0</INFO></NAVI>."
 		},
@@ -37038,16 +37053,16 @@ QuestInfoList = {
 		Summary = "Recolha mercadorias"
 	},
 	[12540] = {
-		Title = "Torre Afundada",
+		Title = "Torre Submersa",
 		Description = {
-			"Há uma necessidade urgente de alguém para eliminar as criaturas distorcidas que infestaram o subsolo da torre destruída por Betelgeuse."
+			"Necessitamos urgentemente de alguém que possa eliminar as criaturas distorcidas que infestaram o subsolo da torre destruída por Betelgeuse."
 		},
 		Summary = "Purificação Subterrânea"
 	},
 	[12541] = {
-		Title = "Horário da Maré Alta",
+		Title = "[Espera] Período de Maré Alta",
 		Description = {
-			"Durante o período em que a maré está subindo, não é possível entrar pela entrada da Torre Afundada."
+			"Durante o período em que a maré está subindo, não é possível entrar na Torre Submersa."
 		},
 		Summary = "Reentrada às 4h da manhã após 3 dias",
 		CoolTimeQuest = 1
@@ -37055,7 +37070,7 @@ QuestInfoList = {
 	[12542] = {
 		Title = "Bênção da Deusa",
 		Description = {
-			"A bênção da deusa está com você. Se chegar a determinado ponto portando essa bênção, isso ajudará no seu crescimento."
+			"A bênção da deusa está com você. Alcançar um certo ponto portando essa bênção ajudará no seu crescimento."
 		},
 		Summary = "Vamos descer logo."
 	},
@@ -41621,126 +41636,126 @@ QuestInfoList = {
 	[14958] = {
 		Title = "O guardião da caverna Nyail",
 		Description = {
-			"<NAVI>[Festa Receptionist]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>Vá encontrá-los e parta para a Nyail Cave!"
+			"<NAVI>[Recepcionista do Festival]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>Vá encontrá-los e parta para a Caverna Nyail do Mar de Lasagna!"
 		},
-		Summary = "Para a Recepcionista da Festa"
+		Summary = "Para a Recepcionista do Festival"
 	},
 	[14959] = {
 		Title = "O início do festival",
 		Description = {
-			"Traga um Spaghetti, Ribbon Noodle e Meatball, que são ingredientes para fazer macarrão delicioso. - <NAVI>[Gerente da Festa]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"
+			"Traga un Macarrão Espaguete, Macarrão Gravatinha e Almôndega, que são ingredientes para fazer macarrão delicioso. - <NAVI>[Gerente do Festival]<INFO>malangdo,133,170,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Almôndegas, ingredientes do macarrão"
 	},
 	[14960] = {
-		Title = "Artesão de macarrão",
+		Title = "Mestre Macarrão",
 		Description = {
-			"Se você vier à Noodle Festa, deve experimentar o macarrão. Você pode provar o melhor macarrão visitando <NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>."
+			"Se você vier à Noodle Festa, deve experimentar o macarrão. Você pode provar o melhor macarrão visitando <NAVI>[Mestre Macarrão Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Noodle Master Orzo"
+		Summary = "Mestre Macarrão Orzo"
 	},
 	[14961] = {
 		Title = "Sobremesa de melancia",
 		Description = {
-			"Lembra-me uma sobremesa fresca e doce em um dia quente de verão? <NAVI>[Helper Lami]<INFO>malangdo, 196,217,0,101,0,</INFO></INFO></NAVI> o guiará pelo evento onde você pode obter o Watermelon Pudding (Pudim de melancia)."
+			"Lembra-me uma sobremesa fresca e doce em um dia quente de verão? <NAVI>[Ajudante Rami]<INFO>malangdo, 196,217,0,101,0,</INFO></INFO></NAVI> o guiará pelo evento onde você pode obter o Watermelon Pudding (Pudim de melancia)."
 		},
 		Summary = "Ajudante Lami"
 	},
 	[14962] = {
 		Title = "Caça aos Vermes do Mar",
 		Description = {
-			"Você já ouviu falar de minhocas do mar? Visite <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>para obter orientações sobre como caçar Sea Worms."
+			"Você já ouviu falar de Macarrão Estragado? Visite <NAVI>[Ajudante Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>para obter orientações sobre como caçar Macarrão Estragado."
 		},
 		Summary = "Ajudante Domi"
 	},
 	[14963] = {
-		Title = "Sorvete legal",
+		Title = "Sorvete refrescante",
 		Description = {
-			"No verão, o sorvete doce e fresco vem à mente. Você pode convidar <NAVI>[The Merchant Borame]<INFO>malangdo, 155,183,0,101,0,</INFO></NAVI> e também saborear sorvete aqui."
+			"No verão, o sorvete doce e fresco vem à mente. Você pode convidar <NAVI>[Comerciante Borame]<INFO>malangdo, 155,183,0,101,0,</INFO></NAVI> e também saborear sorvete aqui."
 		},
 		Summary = "O Mercador Borame"
 	},
 	[14964] = {
 		Title = "Ingredientes do macarrão",
 		Description = {
-			"<NAVI>[Noodle Master Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>Leve a ele 5 espaguetes que andam no redemoinho, 5 noodles de fita que crescem na Dandy Star e 3 almôndegas."
+			"<NAVI>[Mestre Macarrão Orzo]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI>Leve a ele 5 Macarrão Espaguete dos Torvelinhos, 5 Macarrão Gravatinha das Estrelitas e 3 Almôndegas."
 		},
-		Summary = "Ingredientes de almôndegas e macarrão"
+		Summary = "Almôndegas e macarrão"
 	},
 	[14965] = {
-		Title = "Esperando: Today's Noodles (macarrão de hoje)",
+		Title = "[Espera] Macarrão de hoje",
 		Description = {
-			"O evento de hoje está sendo preparado. Depois do amanhecer, você pode visitar <NAVI>[Noodle Maker Orzo]<INFO>malangdo, 165,133,0,101,0,</INFO></NAVI>."
+			"O evento de hoje está sendo preparado. Depois do amanhecer, você pode visitar <NAVI>[Mestre Macarrão Orzo]<INFO>malangdo, 165,133,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Tempo de inicialização 04:00"
+		Summary = "Renicia às 04:00"
 	},
 	[14966] = {
 		Title = "Fãs de melancia",
 		Description = {
-			"Quebre as melancias maduras enterradas no canteiro de melancias e encontre o leque promocional! Colete 10 e leve-os para <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
+			"Quebre as melancias maduras enterradas no canteiro de melancias e encontre o leques do festival! Colete 10 e leve-os para <NAVI>[Ajudante Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 ventiladores promocionais"
+		Summary = "10 Leques do Festival"
 	},
 	[14967] = {
-		Title = "Esperando: Fãs de melancia",
+		Title = "[Espera] Fãs de melancia",
 		Description = {
-			"O evento de hoje terminou. Depois do amanhecer, você poderá participar novamente visitando <NAVI>[Helper Lami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
+			"O evento de hoje terminou. Depois do amanhecer, você poderá participar novamente visitando <NAVI>[Ajudante Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Tempo de inicialização 04:00"
+		Summary = "Reinicia às 04:00"
 	},
 	[14968] = {
-		Title = "Caça aos Vermes do Mar",
+		Title = "Caça ao Macarrão Estragado",
 		Description = {
-			"Pegue 10 vermes marinhos e traga 10 peles de macarrão duro para mim, <NAVI>[Ajudante Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."
+			"Cace 10 Macarrão Estragado e traga 10 peles de Macarrão Podre para mim, <NAVI>[Ajudante Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 Peles de Macarrão Duro"
+		Summary = "10 Peles de Macarrão Podre"
 	},
 	[14969] = {
-		Title = "Em espera: Caça aos Vermes do Mar",
+		Title = "[Espera] Caça ao Macarrão Estragado",
 		Description = {
-			"Você deve estar cansado tentando pegar os fortes Vermes do Mar, mas, por favor, descanse hoje e aproveite o festival novamente depois do amanhecer! - <NAVI>[Helper Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"
+			"Você deve estar cansado tentando pegar os fortes Macarrões Estragados, mas, por favor, descanse hoje e aproveite o festival novamente depois do amanhecer! - <NAVI>[Ajudante Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Tempo de inicialização 04:00"
 	},
 	[14970] = {
 		Title = "Sorvete fresco e doce",
 		Description = {
-			"Pegue 5 redemoinhos pequenos e 5 Dandy Stars cada e me traga 5 Noodle Sap. - <NAVI>[The Merchant Borame]<INFO>malangdo,155,183,0,101,0,</INFO></NAVI>"
+			"Cace 5 Torvelinho os e 5 Estrelitas cada e me traga 5 Noodle Sap. - <NAVI>[The Merchant Borame]<INFO>malangdo,155,183,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "5 Noodle Sap"
 	},
 	[14971] = {
-		Title = "Esperando: Sorvete fresco e doce",
+		Title = "[Espera] Sorvete fresco e doce",
 		Description = {
 			"Você participou recentemente de um evento? A regra é uma vez por dia, portanto, faça uma pausa e volte. Está bem? - <NAVI>[O Mercador Borame]<INFO>malangdo,155,183,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Tempo de inicialização 04:00"
 	},
 	[14972] = {
-		Title = "Cupom: Evento Complete Noodle",
+		Title = "Cupom: Evento de Macarrão Completo",
 		Description = {
-			"Como foi o macarrão de hoje? Depois de concluir todos os eventos de hoje, vá para <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>e carimbe o cupom!"
+			"Como foi o macarrão de hoje? Depois de concluir todos os eventos de hoje, vá para <NAVI>[Recepção de Cupons]<INFO>malangdo, 141,155,0,101,0,</INFO>e carimbe o cupom!"
 		},
-		Summary = "Confira o Noodle Maker Orzo"
+		Summary = "Confira o Mestre Macarrão Orzo"
 	},
 	[14973] = {
 		Title = "Cupom: Sobremesa Completa de Melancia",
 		Description = {
-			"Você terminou o Watermelon Crushing Event (Evento de esmagamento de melancia). Depois de concluir todos os quatro eventos de hoje, vá para <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>e carimbe o cupom!"
+			"Você terminou o Watermelon Crushing Event (Evento de esmagamento de melancia). Depois de concluir todos os quatro eventos de hoje, vá para <NAVI>[Recepção de Cupons]<INFO>malangdo, 141,155,0,101,0,</INFO>e carimbe o cupom!"
 		},
-		Summary = "Confira o Helper Lami"
+		Summary = "Confira o Ajudante Rami"
 	},
 	[14974] = {
-		Title = "Cupom: Vermes do Mar Completo",
+		Title = "Cupom: Macarrão Estragado Completo",
 		Description = {
-			"Você pegou todos os Vermes do Mar. Depois de concluir todos os quatro eventos de hoje, vá para <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>e carimbe o cupom!"
+			"Você pegou todos os Macarrões Estragados. Depois de concluir todos os quatro eventos de hoje, vá para <NAVI>[Recepção de Cupons]<INFO>malangdo, 141,155,0,101,0,</INFO>e carimbe o cupom!"
 		},
-		Summary = "Confira o Helper Domi"
+		Summary = "Confira o Ajudante Domi"
 	},
 	[14975] = {
 		Title = "Cupom: Sorvete Completo",
 		Description = {
-			"Como estava o sorvete gelado? Depois de concluir todos os quatro eventos de hoje, vá para <NAVI>[Coupon Reception]<INFO>malangdo, 141,155,0,101,0,</INFO>e carimbe o cupom!"
+			"Como estava o sorvete gelado? Depois de concluir todos os quatro eventos de hoje, vá para <NAVI>[Recepção de Cupons]<INFO>malangdo, 141,155,0,101,0,</INFO>e carimbe o cupom!"
 		},
 		Summary = "Confira O Mercador Borame"
 	},
@@ -46107,94 +46122,105 @@ QuestInfoList = {
 	},
 	[17307] = {
 		Title = "Festival do Macarrão",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Diretor do Festival]<INFO>malangdo,133,168,0,101,0,</INFO></NAVI> levará seu personagem para a caverna do mar de Lasagna!"
+			"O [<NAVI>Gerente do Festival<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>] levará seu personagem para a caverna do mar de Lasagna!"
 		},
-		Summary = "Fale com o Oceanógrafo"
+		Summary = "Fale com o Gerente do Festival"
 	},
 	[17308] = {
 		Title = "Festival do Macarrão",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Traga 1 Almôndega, 1 Macarrão Gravatinha, 1 Macarrão Parafuso e 1 Macarrão Espaguete para o <NAVI>[Diretor do Festival]<INFO>malangdo,133,168,0,101,0,</INFO></NAVI>"
+			"Traga 1 Almôndega, 1 Macarrão Gravatinha, 1 Macarrão Parafuso e 1 Macarrão Espaguete para o <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Traga os itens"
 	},
 	[17309] = {
 		Title = "Cozinhar Macarrão",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Encontre o <NAVI>[Chef Orochi]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> no Festival do Macarrão."
+			"Encontre o [<NAVI>Mestre Macarrão Orzo<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>] no Festival do Macarrão."
 		},
-		Summary = "Chef Orochi"
+		Summary = "Mestre Macarrão Orzo"
 	},
 	[17310] = {
 		Title = "Colheita de Melancia",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Encontre o <NAVI>[Fazendeiro Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> no Festival do Macarrão."
+			"Encontre o [<NAVI>Ajudante Rami<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>] no Festival do Macarrão."
 		},
-		Summary = "Fazendeiro Rami"
+		Summary = "Ajudante Rami"
 	},
 	[17311] = {
 		Title = "Macarrão Estragado",
-		Description = {
-			"Encontre o <NAVI>[Marinheiro Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI> no Festival do Macarrão."
-		},
-		Summary = "Marinheiro Domi"
-	},
-	[17312] = {
-		Title = "Festival do Macarr?o",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Se voc? estiver interesse em outro macarr?o, recomendo o <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>. Voc? n?o vai se decepcionar."
+			"Encontre o [<NAVI>Ajudante Domi<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>] no Festival do Macarrão."
+		},
+		Summary = "Ajudante Domi"
+	},
+	[17312] = {
+		Title = "Festival do Macarrão",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Se você tiver interesse em outro macarrão, recomendo falar com <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Fale com Nike"
 	},
 	[17313] = {
 		Title = "Cozinhar Macarrão",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Chef Orochi]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> pediu 5 Macarrão Gravatinha, 5 Macarrão Espaguete, 5 Macarrão Parafuso e 3 Almôndegas."
+			"Traga 5 Macarrão Gravatinha, 5 Macarrão Espaguete, 5 Macarrão Parafuso e 3 Almôndegas para o <NAVI>[Mestre Macarrão Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Traga os itens"
 	},
 	[17314] = {
 		Title = "[Espera] Cozinhar Macarrão",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Você concluiu a missão diária de hoje. Após o amanhecer, você pode visitar <NAVI>[Chef Orochi]<INFO>malangdo,165,133,0,101,0,</INFO></NAVI> novamente."
+			"Você concluiu a missão diária de hoje. Após o amanhecer, você pode visitar o <NAVI>[Mestre Macarrão Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Reinicio às 04:00 (UTC-3)"
+		Summary = "Reinicia às 04:00"
 	},
 	[17315] = {
 		Title = "Colheita de Melancia",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Fazendeiro Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> pediu a caça de algumas Melancias e trazer 10 Leques do Festival."
+			"Elimine Melancias e traga 10 Leques do Festival para o <NAVI>[Ajudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "10 Leques do Festival"
 	},
 	[17316] = {
 		Title = "[Espera] Colheita de Melancia",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Você concluiu a missão diária de hoje. Após o amanhecer, você pode visitar <NAVI>[Fazendeiro Rami]<INFO>malangdo,196,217,0,101,0,</INFO></NAVI> novamente."
+			"Você concluiu a missão diária de hoje. Após o amanhecer, você pode visitar o <NAVI>[Ajudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Reinicio às 04:00 (UTC-3)"
+		Summary = "Reinicia às 04:00."
 	},
 	[17317] = {
 		Title = "Macarrão Estragado",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Marinheiro Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI> pediu que você traga 10 Macarrões Podres."
+			"Traga 10 Macarrão Podre para o <NAVI>[Ajudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "10 Macarrão Podre"
 	},
 	[17318] = {
 		Title = "[Espera] Macarrão Estragado",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Você concluiu a missão diária de hoje. Após o amanhecer, você pode visitar <NAVI>[Marinheiro Domi]<INFO>malangdo,183,221,0,101,0,</INFO></NAVI> novamente."
+			"Você concluiu a missão diária de hoje. Após o amanhecer, você pode visitar o <NAVI>[Ajudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>"
 		},
-		Summary = "Reinicio às 04:00 (UTC-3)"
+		Summary = "Reinicia às 04:00"
 	},
 	[17319] = {
 		Title = "Festival do Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Voc? poderia perguntar ao <NAVI>[meu amigo]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>, que mora ao meu lado, como chegar ? Caverna?"
+			"Vamos conversar com <NAVI>[Chipol]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Fale com Chipol"
 	},
@@ -46202,7 +46228,7 @@ QuestInfoList = {
 		Title = "Festival do Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Encontre o <NAVI>[Pescador]<INFO>malangdo,209,110,0,101,0,</INFO></NAVI>."
+			"Encontre o <NAVI>[Pescador]<INFO>lasagna,213,254,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Fale com o Pescador"
 	},
@@ -46210,7 +46236,7 @@ QuestInfoList = {
 		Title = "Festival do Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"O pescador pediu que você se encontre com <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+			"O pescador pediu que você se encontre com <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Fale com Nike"
 	},
@@ -46218,15 +46244,15 @@ QuestInfoList = {
 		Title = "Festival do Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Vamos reportar a situação ao <NAVI>[Diretor do Festival]<INFO>malangdo,140,164,0,101,0,</INFO></NAVI>."
+			"Vamos entrar na Caverna Nyail do Mar de Lasagna falando com o <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>·Î!!"
 		},
-		Summary = "Fale com o Diretor"
+		Summary = "Fale com o Gerente do Festival"
 	},
 	[17323] = {
 		Title = "Festival do Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Traga 1x Cauda de Peixe, 1x Tinta de Polvo, 1x Macarrão Espaguete e 1x Almôndega. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+			"Traga 1x Cauda de Peixe, 1x Tinta de Polvo, 1x Macarrão Espaguete e 1x Almôndega. para <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Colete os itens"
 	},
@@ -46234,7 +46260,7 @@ QuestInfoList = {
 		Title = "Festival do Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Viajante, por favor, entregue esse macarrão <NAVI>[nesse local]<INFO>malangdo,168,219,101,0,</INFO></NAVI>."
+			"Viajante, por favor, entregue esse macarrão <NAVI>[aqui]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Fale com Po"
 	},
@@ -46242,7 +46268,7 @@ QuestInfoList = {
 		Title = "Festival do Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Agora que terminamos, vamos voltara falar com <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>."
+			"Agora que terminamos, vamos voltar a falar com <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Fale com Nike"
 	},
@@ -46250,7 +46276,7 @@ QuestInfoList = {
 		Title = "Especial da Casa",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Traga 1x Cauda de Peixe, 5x Tinta de Polvo, 5x Macarrão Espaguete e 5x Almôndega. - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+			"Traga 1x Cauda de Peixe, 5x Tinta de Polvo, 5x Macarrão Espaguete e 5x Almôndega para <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Colete os itens"
 	},
@@ -46258,46 +46284,49 @@ QuestInfoList = {
 		Title = "[Espera] Especial da Casa",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Você já ajudou muito por hoje! Por favor, venha com a mesma energia altruísta amanhã! - <NAVI>[Nike]<INFO>malangdo,162,218,0,101,0,</INFO></NAVI>"
+			"Você já ajudou muito por hoje! Por favor, venha com a mesma energia altruísta amanhã! - <NAVI>[Nike]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
 		},
-		Summary = "Volte amanhã.­",
-		CoolTimeQuest = 1
+		Summary = "Reinicia às 04:00"
 	},
 	[17328] = {
 		Title = "[Feito] Cozinhar Macarrão",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Se você completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> para confirar sua presença no festival!"
+			"Se você completou todas as atividades de hoje, encontre o [<NAVI>Organizador<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>] para confirmar sua presença no festival!"
 		},
-		Summary = "Fale com o Organizador"
+		Summary = "Missão Completa!"
 	},
 	[17329] = {
 		Title = "[Feito] Colheita de Melancia",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Se você completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> para confirar sua presença no festival!"
+			"Se você completou todas as atividades de hoje, encontre o [<NAVI>Organizador<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>] para confirmar sua presença no festival!"
 		},
-		Summary = "Fale com o Organizador"
+		Summary = "Missão Completa!"
 	},
 	[17330] = {
 		Title = "[Feito] Macarrão Estragado",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Se você completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI> para confirar sua presença no festival!"
+			"Se você completou todas as atividades de hoje, encontre o [<NAVI>Organizador<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>] para confirmar sua presença no festival!"
 		},
-		Summary = "Fale com o Organizador"
+		Summary = "Missão Completa!"
 	},
 	[17331] = {
 		Title = "Festival do Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Se você completou todas as atividades de hoje, encontre o <NAVI>[Organizador do Festival]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>."
+			"Se você completou todas as atividades de hoje, encontre o <NAVI>[Organizador]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Ao Organizador"
 	},
 	[17332] = {
 		Title = "Visual do Macarrão",
+		IconName = "ico_ev.bmp",
 		Description = {
-			"Feliz festival!"
+			"Você recebeu o visual desse ano!"
 		},
-		Summary = "Você recebeu o visual desse ano"
+		Summary = "Feliz festival!"
 	},
 	[17333] = {
 		Title = "O Legado do Sábio",
@@ -47428,14 +47457,14 @@ QuestInfoList = {
 	[17539] = {
 		Title = "Caminho do Céu: 1º Bom Karma",
 		Description = {
-			"Se você ajudar os outros, eu também o ajudarei. Há uma <NAVI>[pessoa]<INFO>veias,238,110,0,101,0,</INFO></NAVI> que fez um desejo para mim, vamos visitá-la lá."
+			"Se você ajudar os outros, eu também o ajudarei. Há uma <NAVI>[pessoa]<INFO>veins,238,110,0,101,0,</INFO></NAVI> que fez um desejo para mim, vamos visitá-la lá."
 		},
 		Summary = "Visite a pessoa necessitada"
 	},
 	[17540] = {
 		Title = "Caminho do Céu: 1º Bom Karma",
 		Description = {
-			"Ajude a pessoa necessitada. Traga 3 Sticky Poison, 20 Maneater Blossom, 3 Maneater Root para <NAVI>[Veil]<INFO>veins,238,110,0,101,0,</INFO></NAVI>."
+			"Ajude a pessoa necessitada. Traga 3 Veneno Pegajoso, 20 Flor de Planta Carnívora, 3 Raiz de Planta Carnívora para <NAVI>[Veil]<INFO>veins,238,110,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reunir os materiais"
 	},
@@ -47482,7 +47511,7 @@ QuestInfoList = {
 	[17546] = {
 		Title = "Caminho do Céu: 4º Bom Karma",
 		Description = {
-			"O último... vamos ajudar aquele <NAVI>[person]<INFO>payon,215,201,0,101,0,</INFO></NAVI> que vimos em Payon."
+			"O último... vamos ajudar aquele <NAVI>[pessoa]<INFO>payon,215,201,0,101,0,</INFO></NAVI> que vimos em Payon."
 		},
 		Summary = "Ir para Payon"
 	},
@@ -47527,6 +47556,119 @@ QuestInfoList = {
 			"'Tudo o que <NAVI>[ I ]<INFO>payon,197,122,0,101,0,</INFO></NAVI> pode fazer é ensinar. O aprendizado e o domínio dependem inteiramente do aluno.'"
 		},
 		Summary = "Concluir o treinamento"
+	},
+	[17554] = {
+		Title = "Pato Perdido",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Em Lasagna, há um [<NAVI>Pato<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>] perto do local de pesca ao sul. Se o proprietário não vier buscá-lo, leve-o ao Centro de Achados e Perdidos."
+		},
+		Summary = "Ao Pato"
+	},
+	[17555] = {
+		Title = "Cozinhar Macarrão",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[Mestre Macarrão Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, em Lasagna, pediu 5 Macarrão Gravatinha, 5 Macarrão Espaguete, 5 Macarrão Parafuso e 3 Almôndegas."
+		},
+		Summary = "Traga os itens"
+	},
+	[17556] = {
+		Title = "Festival Completado!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Ajudei os patos. Como você completou todos os 4 eventos, vá para <NAVI>[Malangdo]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Fale com o Pato"
+	},
+	[17557] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Vá para a <NAVI>[Caverna Nyail]<INFO>lasa_sea,21,144,0,101,0,</INFO></NAVI>! Lá, colete botões que se parecem com uma estrela."
+		},
+		Summary = "Para a Caverna"
+	},
+	[17558] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Em algum lugar da caverna, há patos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,74,202,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encontre Patos"
+	},
+	[17559] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Em algum lugar da caverna, há patos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,135,70,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encontre Patos"
+	},
+	[17560] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Em algum lugar da caverna, há patos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,18,51,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encontre Patos"
+	},
+	[17561] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Em algum lugar da caverna, há patos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encontre Patos"
+	},
+	[17562] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Vamos voltar para <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Encontre Patos"
+	},
+	[17563] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Parece confuso, vamos aguardar o Pato em­ <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Aguarde"
+	},
+	[17564] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Converse com o <NAVI>[Pato]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "Fale com Pato­"
+	},
+	[17565] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Vá para a Caverna, elimine Estrelitas para conseguir 20 Botões de Estrela e entregue-as para <NAVI>[mim]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "20 Botões de Estrela"
+	},
+	[17566] = {
+		Title = "[Espera] Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Vamos esperar o dia seguinte para mais. - <NAVI>[Pato]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[17567] = {
+		Title = "Botão de Estrela?!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"Vá para a Caverna, elimine Estrelitas para conseguir 20 Botões de Estrela e entregue-as para <NAVI>[mim]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+		},
+		Summary = "20 Botões de Estrela"
 	},
 	[17568] = {
 		Title = "Caminho do Céu: Ponto Marcado",
@@ -49796,7 +49938,7 @@ QuestInfoList = {
 		Summary = "Ajudando Leno"
 	},
 	[21015] = {
-		Title = "[É] Guerra aos Mortos",
+		Title = "Guerra aos Mortos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na Vila dos Arqueiros, e elimine 20 Esqueletos e 10 Zumbis de dentro da <NAVI>[Caverna de Payon]<INFO>pay_dun00,155,174,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -49812,7 +49954,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21017] = {
-		Title = "[É] Ritual de Exorcismo",
+		Title = "Ritual de Exorcismo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No 3º subsolo da Caverna de Payon, elimine 15 Munaks e 15 Bonguns. Ao derrotá-los, haverá uma chance de conseguir <ITEM>[Amuleto]<INFO>609</INFO></ITEM> direto para o seu inventário. Traga 15 deles. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -49828,7 +49970,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21019] = {
-		Title = "[É] Oferenda aos Espíritos",
+		Title = "Oferenda aos Espíritos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Colete 10 <ITEM>[Últimos Suspiros]<INFO>25079</INFO></ITEM>. Pegue o Licor de Lotus com o <NAVI>[Aldeão]<INFO>payon,192,109,0,101,0</INFO></NAVI>, vá na Caverna de Payon e encontre os Espíritos Malignos até conseguir o item Último Suspiro. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -49844,7 +49986,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21021] = {
-		Title = "[É] Cheiro de Magia",
+		Title = "Cheiro de Magia",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Pesquisador]<INFO>payon,198,111,0,101,0</INFO></NAVI> encontrou vestígios de magia nas Lenços de Menina da Sohee. Elimine algumas delas e traga 3 unidades de <ITEM>[Lenço de Menina]<INFO>25188</INFO></ITEM> para ele. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -49897,7 +50039,7 @@ QuestInfoList = {
 		Summary = "2 Tronco Estéril"
 	},
 	[21028] = {
-		Title = "[É] Trabalho Braçal",
+		Title = "Trabalho Braçal",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Ricardo, o filho de um Pai Nervoso, que você faça o trabalho para ele. Elimine Salgueiros e colete <ITEM>[Tronco Estéril]<INFO>1068</INFO></ITEM>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -49920,7 +50062,7 @@ QuestInfoList = {
 		Summary = "Caçar Jiboia"
 	},
 	[21031] = {
-		Title = "[É] Medo de Cobras",
+		Title = "Medo de Cobras",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Uma <NAVI>[Moça Assustada]<INFO>payon,217,94,0,101,0</INFO></NAVI> pediu que você elimine 5 Jiboias na floresta próxima a Payon. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -49943,7 +50085,7 @@ QuestInfoList = {
 		Summary = "1 Escama Afiada"
 	},
 	[21034] = {
-		Title = "[É] Não é uma Cebola",
+		Title = "Não é uma Cebola",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na floresta próxima de Payon, elimine os Rabos de Verme, que se parecem com uma cebola verde. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -49966,7 +50108,7 @@ QuestInfoList = {
 		Summary = "Caçar Esporos"
 	},
 	[21037] = {
-		Title = "[É] Cogumelo Estranho",
+		Title = "Cogumelo Estranho",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Vovozinho]<INFO>payon,239,64,0,101,0</INFO></NAVI> de Payon parece surpreso com a fertilidade do Esporo. Ele quer que você o elimine antes que a floresta fique coberta de esporos. Vamos caçar Esporos! Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -49989,7 +50131,7 @@ QuestInfoList = {
 		Summary = "Fale com o Pai Nervoso"
 	},
 	[21040] = {
-		Title = "[É] Fugitivos da Prisão",
+		Title = "Fugitivos da Prisão",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na prisão de Glastheim, um prisioneiro que já havia morrido foi revivido como um morto-vivo e está caminhando. Elimine o Esqueleto Prisioneiro e o Zumbi Prisioneiro para <NAVI>[Karon]<INFO>glast_01,206,291,0,101,0</INFO></NAVI> em Glastheim. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50005,7 +50147,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21042] = {
-		Title = "[É] Torturador Sádico",
+		Title = "Torturador Sádico",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dizem que na Prisão de Glastheim, há demônios torturadores. <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> tentou ajudar <NAVI>[Karon]<INFO>glast_01,206,291,0,101,0</INFO></NAVI>, mas não foi o suficiente. <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> pediu para você derrotar Rybio. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50021,7 +50163,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21044] = {
-		Title = "[É] Gosto da Vingança",
+		Title = "Gosto da Vingança",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dizem que na Prisão de Glastheim, há demônios torturados. <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> tentou ajudar <NAVI>[Karon]<INFO>glast_01,206,291,0,101,0</INFO></NAVI>, mas não foi o suficiente. <NAVI>[Nadir]<INFO>glast_01,204,291,0,101,0</INFO></NAVI> pediu para você derrotar Injustiçados. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50044,7 +50186,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21047] = {
-		Title = "[É] Pesadelo Soviético",
+		Title = "Pesadelo Soviético",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Kikimoras na ^4d4dffFloresta Encantada de Moscóvia^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50060,7 +50202,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21049] = {
-		Title = "[É] Bonecas Delicadas",
+		Title = "Bonecas Delicadas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Miyabi Ningyo no ^4d4dffLabirinto de Tatames em Amatsu^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50076,7 +50218,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21051] = {
-		Title = "[É] Areias Atacam?",
+		Title = "Areias Atacam?",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Mi Gao nos ^4d4dffarredores de Louyang^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50092,7 +50234,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21053] = {
-		Title = "[É] Lenda do Folclore",
+		Title = "Lenda do Folclore",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Mula sem Cabeça na ^4d4dffFloresta de Brasilis^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50108,7 +50250,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21055] = {
-		Title = "[É] Arauto do Templo",
+		Title = "Arauto do Templo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Tamruan no ^4d4dffSantuário Ancestral de Ayothaya^000000. A cidade pode ser acessada pelo barco em Alberta. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50124,7 +50266,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21057] = {
-		Title = "[É] Pássaro Colorido",
+		Title = "Pássaro Colorido",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Espírito do Vento na ^4d4dffFloresta de Brasilis^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50140,7 +50282,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21059] = {
-		Title = "[É] Vovó Vidente",
+		Title = "Vovó Vidente",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Baba-Yaga na ^4d4dffFloresta Encantada de Moscóvia^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50156,7 +50298,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21061] = {
-		Title = "[É] Vigia Morto-Vivo",
+		Title = "Vigia Morto-Vivo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Zumbi Atirador no ^4d4dffLabirinto de Tatames em Amatsu^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50172,7 +50314,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21063] = {
-		Title = "[É] Donzela Celestial",
+		Title = "Donzela Celestial",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Ninfa Perversa na ^4d4dffTerra das Fadas em Kunlun^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50188,7 +50330,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21065] = {
-		Title = "[É] Tumba de Segredos",
+		Title = "Tumba de Segredos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Yao Jun e Mao Guai na ^4d4dffTumba Real de Louyang^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50204,7 +50346,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21067] = {
-		Title = "[É] Alguém à Espreita",
+		Title = "Alguém à Espreita",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Shinobi no ^4d4dffLabirinto de Tatames em Amatsu^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50220,7 +50362,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21069] = {
-		Title = "[É] Pêssegos e Yoyos",
+		Title = "Pêssegos e Yoyos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Pessegueira Encantada no ^4d4dffSantuário de Xi Wang Mu de Kunlun^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50236,7 +50378,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21071] = {
-		Title = "[É] Homem nas Nuvens",
+		Title = "Homem nas Nuvens",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Ermitão Maligno no ^4d4dffTabuleiro de Go em Kunlun^000000. A cidade pode ser acessada pelo barco em Alberta."
@@ -50448,7 +50590,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21101] = {
-		Title = "[É] Caça à Caçadora",
+		Title = "Caça à Caçadora",
 		Description = {
 			"Na <NAVI>[Torre de Geffen]<INFO>gef_dun00,104,99,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
 		},
@@ -50463,7 +50605,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21103] = {
-		Title = "[É] Caça à Caçadora",
+		Title = "Caça à Caçadora",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Geffen]<INFO>gef_dun00,104,99,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50471,7 +50613,7 @@ QuestInfoList = {
 		Summary = "Caçar Moscas Caçadoras"
 	},
 	[21104] = {
-		Title = "[É] Magia Maligna",
+		Title = "Magia Maligna",
 		Description = {
 			"Na <NAVI>[Torre de Geffen]<INFO>gef_dun01,115,236,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
 		},
@@ -50486,7 +50628,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21106] = {
-		Title = "[É] Magia Maligna",
+		Title = "Magia Maligna",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Geffen]<INFO>gef_dun01,115,236,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50494,7 +50636,7 @@ QuestInfoList = {
 		Summary = "Caça na Torre"
 	},
 	[21107] = {
-		Title = "[É] Seres Demoníacos",
+		Title = "Seres Demoníacos",
 		Description = {
 			"Na <NAVI>[Torre de Geffen]<INFO>gef_dun02,106,132,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
 		},
@@ -50509,7 +50651,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21109] = {
-		Title = "[É] Seres Demoníacos",
+		Title = "Seres Demoníacos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Geffen]<INFO>gef_dun02,106,132,0,101,0</INFO></NAVI>, elimine aqueles monstros que estão proliferando rapidamente. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50517,7 +50659,7 @@ QuestInfoList = {
 		Summary = "Caçar Demônios"
 	},
 	[21110] = {
-		Title = "[É] Cavalos Sinistros",
+		Title = "Cavalos Sinistros",
 		Description = {
 			"O <NAVI>[Homem Cansado]<INFO>gef_tower,48,140,0,101,0</INFO></NAVI> afirma que não consegue dormir porque tem pesadelos no subterrâneo da Torre de Geffen."
 		},
@@ -50532,7 +50674,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21112] = {
-		Title = "[É] Cavalos Sinistros",
+		Title = "Cavalos Sinistros",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Homem Cansado]<INFO>gef_tower,48,140,0,101,0</INFO></NAVI> disse que teve um pesadelo. O Pesadelo é realmente o problema? Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50540,7 +50682,7 @@ QuestInfoList = {
 		Summary = "Caçar 10 Pesadelos"
 	},
 	[21113] = {
-		Title = "[É] Dragões Fofinhos",
+		Title = "Dragões Fofinhos",
 		Description = {
 			"<NAVI>[Petito]<INFO>geffen,40,113,0,101,0</INFO></NAVI> diz que Petites são muito violentos para se aproximar. Vá até o <NAVI>[campo dos petites]<INFO>gef_fild08,357,187,0,101,0</INFO></NAVI> verificar."
 		},
@@ -50555,7 +50697,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21115] = {
-		Title = "[É] Dragões Fofinhos",
+		Title = "Dragões Fofinhos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Petito]<INFO>geffen,40,113,0,101,0</INFO></NAVI> diz que Petites são muito violentos para se aproximar. Vá até o <NAVI>[campo dos petites]<INFO>gef_fild08,357,187,0,101,0</INFO></NAVI> verificar."
@@ -50563,7 +50705,7 @@ QuestInfoList = {
 		Summary = "Caçar Petite Voador"
 	},
 	[21116] = {
-		Title = "[É] Dragões Fortinhos",
+		Title = "Dragões Fortinhos",
 		Description = {
 			"O Petite Verde pode servir, então <NAVI>[Petito]<INFO>geffen,40,113,0,101,0</INFO></NAVI> quer que você vá até o <NAVI>[habitat]<INFO>gef_fild06,218,20,0,101,0</INFO></NAVI> deles. Quantos Petites você tem que lutar para encontrar um que não ataque? Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
 		},
@@ -50578,7 +50720,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21118] = {
-		Title = "[É] Dragões Fortinhos",
+		Title = "Dragões Fortinhos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Vamos abordar Petites Verdes em seu <NAVI>[habitat]<INFO>gef_fild06,218,20,0,101,0</INFO></NAVI>. Se um Petite atacar, revide! Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50601,7 +50743,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21122] = {
-		Title = "[É] Resgatar Amigos",
+		Title = "Resgatar Amigos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine 20 Esqueletos Piratas no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50638,7 +50780,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21127] = {
-		Title = "[É] Barata do Mar",
+		Title = "Barata do Mar",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Kukres no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI> para encontrar algum tesouro que pode ter sido comido por ele. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50661,7 +50803,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21130] = {
-		Title = "[É] Tesouro do Mar",
+		Title = "Tesouro do Mar",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Vamos esconder <ITEM>[Dobrão]<INFO>25074</INFO></ITEM> para motivar os aventureiros no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50706,7 +50848,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21136] = {
-		Title = "[É] Limpando o Navio",
+		Title = "Limpando o Navio",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para manter a promessa com o fantasma de Drake, elimine Hidras e colete 10 <ITEM>[Ossos]<INFO>932</INFO></ITEM>, 5 <ITEM>[Peles de Verme]<INFO>955</INFO></ITEM> e 5 <ITEM>[Tentáculos]<INFO>962</INFO></ITEM> no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50722,7 +50864,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21138] = {
-		Title = "[É] Navio Assombrado",
+		Title = "Navio Assombrado",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para manter a promessa com o fantasma de Drake, vamos eliminar os monstros no <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>. O Marinheiro Ágil é um monstro campeão que aparece raramente no 1º andar do Navio. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50730,7 +50872,7 @@ QuestInfoList = {
 		Summary = "Caçada no Navio"
 	},
 	[21140] = {
-		Title = "[É] Peregrinação Pacífica",
+		Title = "Peregrinação Pacífica",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para proteger os peregrinos e aventureiros que vêm e vão para o <NAVI>[Aeroporto de Rachel]<INFO>ra_fild12,296,200,0,101,0</INFO></NAVI>, vamos caçar Roween."
@@ -50746,7 +50888,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21142] = {
-		Title = "[É] Peregrinação Pacífica",
+		Title = "Peregrinação Pacífica",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Vamos caçar 30 Roweens para que o <NAVI>[Guarda Aeroportuário]<INFO>ra_fild12,296,200,0,101,0</INFO></NAVI> e os peregrinos fracos não se machuquem. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50754,7 +50896,7 @@ QuestInfoList = {
 		Summary = "Caçar 30 Roween"
 	},
 	[21143] = {
-		Title = "[É] Guardião da Beleza",
+		Title = "Guardião da Beleza",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Vingue-se do Jovem que ficou com o rosto desconfigurado. Vá até a <NAVI>[Caverna de Gelo]<INFO>ice_dun01,158,16,0,101,0</INFO></NAVI> e elimine Siromas."
@@ -50770,7 +50912,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21145] = {
-		Title = "[É] Guardião da Beleza",
+		Title = "Guardião da Beleza",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Não sei se é algo para ficar com raiva, mas de qualquer maneira, aqueles que pregam peças ruins precisam ser repreendidos. Vamos pegar 30 Siromas na <NAVI>[Caverna de Gelo]<INFO>ice_dun01,158,16,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50778,7 +50920,7 @@ QuestInfoList = {
 		Summary = "Caçar Siroma"
 	},
 	[21146] = {
-		Title = "[É] Pedra sobre Pedra",
+		Title = "Pedra sobre Pedra",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para ajudar os aldeões a ganhar a vida coletando minerais, elimine 30 <NAVI>[Stapos]<INFO>STAPO,0,0,3,-222,1</INFO></NAVI> para que eles possam coletar minerais."
@@ -50794,7 +50936,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21148] = {
-		Title = "[É] Pedra sobre Pedra",
+		Title = "Pedra sobre Pedra",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para que os aldeões possam pegar minerais, vamos caçar 30 <NAVI>[Stapos]<INFO>STAPO,0,0,3,-222,1</INFO></NAVI>, pedras que vão engolir qualquer coisa. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50802,7 +50944,7 @@ QuestInfoList = {
 		Summary = "Caçar Stapo"
 	},
 	[21149] = {
-		Title = "[É] Passeio pela Ilha",
+		Title = "Passeio pela Ilha",
 		Description = {
 			"Vamos eliminar Lavadeiras e Coelhos na <NAVI>[Ilha da Tartaruga]<INFO>tur_dun01,157,39,0,101,0</INFO></NAVI>. Você pode acessá-la pelo barco em Alberta. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
 		},
@@ -50817,7 +50959,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21151] = {
-		Title = "[É] Passeio pela Ilha",
+		Title = "Passeio pela Ilha",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Vamos eliminar Lavadeiras e Coelhos na <NAVI>[Ilha da Tartaruga]<INFO>tur_dun01,157,39,0,101,0</INFO></NAVI>. Você pode acessá-la pelo barco em Alberta. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50825,14 +50967,14 @@ QuestInfoList = {
 		Summary = "Ilha da Tartaruga"
 	},
 	[21152] = {
-		Title = "[É] Nativos da Ilha 1",
+		Title = "Nativos da Ilha 1",
 		Description = {
 			"Para que quem explora o <NAVI>[subterrâneo]<INFO>tur_dun02,148,264,0,101,0</INFO></NAVI> não caia em perigo, vamos caçar Solidificadores e Batedores. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
 		},
 		Summary = "Caçar Tartarugas"
 	},
 	[21153] = {
-		Title = "[É] Nativos da Ilha 1",
+		Title = "Nativos da Ilha 1",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para que quem explora o <NAVI>[subterrâneo]<INFO>tur_dun02,148,264,0,101,0</INFO></NAVI> não caia em perigo, vamos caçar Solidificadores e Batedores. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50840,14 +50982,14 @@ QuestInfoList = {
 		Summary = "Caçar Tartarugas"
 	},
 	[21154] = {
-		Title = "[É] Nativos da Ilha 2",
+		Title = "Nativos da Ilha 2",
 		Description = {
 			"Vamos caçar Congeladores e Aquecedores na <NAVI>[Vila das Boas Tartarugas]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
 		},
 		Summary = "Caçar Tartarugas"
 	},
 	[21155] = {
-		Title = "[É] Nativos da Ilha 2",
+		Title = "Nativos da Ilha 2",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Vamos caçar Congeladores e Aquecedores na <NAVI>[Vila das Boas Tartarugas]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50870,7 +51012,7 @@ QuestInfoList = {
 		Summary = "Fale com Expedito"
 	},
 	[21158] = {
-		Title = "[É] Tartaruga Ninja",
+		Title = "Tartaruga Ninja",
 		Description = {
 			"Vamos eliminar 10 Agressores na <NAVI>[Vila das Boas Tartarugas]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
 		},
@@ -50885,7 +51027,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21160] = {
-		Title = "[É] Tartaruga Ninja",
+		Title = "Tartaruga Ninja",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Vamos eliminar 10 Agressores na <NAVI>[Vila das Boas Tartarugas]<INFO>tur_dun03,132,189,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -50900,7 +51042,7 @@ QuestInfoList = {
 		Summary = "Fale com Tibalto"
 	},
 	[21162] = {
-		Title = "[É] Tesouro do Mar",
+		Title = "Tesouro do Mar",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."
@@ -50908,7 +51050,7 @@ QuestInfoList = {
 		Summary = "Caixa Antiga"
 	},
 	[21163] = {
-		Title = "[É] Tesouro do Mar novamente",
+		Title = "Tesouro do Mar novamente",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."
@@ -50916,7 +51058,7 @@ QuestInfoList = {
 		Summary = "Caixa Antiga"
 	},
 	[21164] = {
-		Title = "[É] Tesouro do Mar",
+		Title = "Tesouro do Mar",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."
@@ -50924,7 +51066,7 @@ QuestInfoList = {
 		Summary = "Caixa Antiga"
 	},
 	[21165] = {
-		Title = "[É] Tesouro do Mar",
+		Title = "Tesouro do Mar",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."
@@ -50932,7 +51074,7 @@ QuestInfoList = {
 		Summary = "Caixa Antiga"
 	},
 	[21166] = {
-		Title = "[É] Tesouro do Mar",
+		Title = "Tesouro do Mar",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro do <NAVI>[Navio Fantasma]<INFO>treasure01,69,24,0,101,0</INFO></NAVI>, clique na Caixa Antiga. Elas estão espalhadas por todo o lugar."
@@ -51122,7 +51264,7 @@ QuestInfoList = {
 		Summary = "Ao Jovem Andarilho"
 	},
 	[21202] = {
-		Title = "[É] Areia Movediça",
+		Title = "Areia Movediça",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Jovem Andarilho]<INFO>moc_fild17,358,277,0,101,0</INFO></NAVI> diz que não pode ir mais longe por causa do Arenoso. Ele pede para você eliminar Arenosos e coletar 5 <ITEM>[Torrões de Areia]<INFO>1056</INFO></ITEM>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51145,7 +51287,7 @@ QuestInfoList = {
 		Summary = "1 Pá de Campo"
 	},
 	[21205] = {
-		Title = "[É] Preciso Dormir!",
+		Title = "Preciso Dormir!",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Um pedido de <NAVI>[Rumin]<INFO>moc_ruins,105,124,0,101,0</INFO></NAVI> que vive na Guilda dos Gatunos. Os membros da guilda estão desconfortáveis por causa de Verit e Minorous morando no porão da guilda. Vamos derrotar Verit e Minorous. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51203,7 +51345,7 @@ QuestInfoList = {
 		Summary = "1 Antigo Papiro"
 	},
 	[21213] = {
-		Title = "[É] Metade Cobra",
+		Title = "Metade Cobra",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Ísis no segundo piso da Pirâmide. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51219,7 +51361,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21215] = {
-		Title = "[É] Pedreiros",
+		Title = "Pedreiros",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Devo eliminar Zerom e Réquiem, que estão interferindo na investigação interna da Esfinge. Zerom e Réquiem aparecem principalmente no 1º e 2º andares da Esfinge. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51235,7 +51377,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21217] = {
-		Title = "[É] Enigma da Esfinge",
+		Title = "Enigma da Esfinge",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Marduk e Pasana na Esfinge. Ao derrotar Marduk, haverá uma chance de conseguir <ITEM>[Antigo Papiro]<INFO>25073</INFO></ITEM> direto no seu inventário. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51251,7 +51393,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21219] = {
-		Title = "[É] A Caixa da Múmia",
+		Title = "A Caixa da Múmia",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A pedido do <NAVI>[Líder Maximus]<INFO>moc_pryd01,20,192,0,101,0</INFO></NAVI>, devo eliminar ^4d4dff10 Múmias e pegar 1 Espólio^000000. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51274,7 +51416,7 @@ QuestInfoList = {
 		Summary = "Caça no Deserto"
 	},
 	[21222] = {
-		Title = "[É] Bichos Barulhentos",
+		Title = "Bichos Barulhentos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine PecoPeco e Muka no <NAVI>[deserto de Sograt]<INFO>moc_fild01,253,357,0,101,0</INFO></NAVI>. As reclamações dizem que são 'muito ruidosos'. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51297,7 +51439,7 @@ QuestInfoList = {
 		Summary = "Caçada em Sograt"
 	},
 	[21225] = {
-		Title = "[É] Estranhos do Deserto",
+		Title = "Estranhos do Deserto",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Solicitação da <NAVI>[Instrutora Pontis]<INFO>izlude,132,207,0,101,0</INFO></NAVI> para treinamento. Elimine os monstros no <NAVI>[deserto de Sograt]<INFO>prt_fild09,380,237,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51320,7 +51462,7 @@ QuestInfoList = {
 		Summary = "Fale com o Biólogo"
 	},
 	[21228] = {
-		Title = "[É] Biologia Marinha",
+		Title = "Biologia Marinha",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Biólogo Helder]<INFO>izlu2dun,105,68,0,101,0</INFO></NAVI> diz que precisa de uma amostra. Entre no <NAVI>[Túnel Submarino]<INFO>iz_dun00,168,166,0,101,0</INFO></NAVI> e consiga 10 <ITEM>[Células Únicas]<INFO>1052</INFO></ITEM> caçando Marina ou Plâncton. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51343,7 +51485,7 @@ QuestInfoList = {
 		Summary = "5 Garras de Crustáceo"
 	},
 	[21231] = {
-		Title = "[É] Amuleto de Caranguejo",
+		Title = "Amuleto de Caranguejo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Ambulante]<INFO>izlu2dun,108,68,0,101,0</INFO></NAVI> disse que iria lhe recompensar se você obtivesse 5 <ITEM>[Garras de Crustáceo]<INFO>960</INFO></ITEM> que podem ser obtidas ao derrotar <NAVI>[Vadon]<INFO>iz_dun00,168,166,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51373,7 +51515,7 @@ QuestInfoList = {
 		Summary = "10 Tintas de Polvo"
 	},
 	[21235] = {
-		Title = "[É] Sereia Encantadora",
+		Title = "Sereia Encantadora",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O pobre <NAVI>[Ankana]<INFO>iz_dun02,231,230,0,101,0</INFO></NAVI> continua falando sobre uma certa mulher que conheceu, ele duvida que seja uma sereia. Derrote Obeaune e pegue 1 <ITEM>[Coração de Sereia]<INFO>950</INFO></ITEM> como prova. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51388,7 +51530,7 @@ QuestInfoList = {
 		Summary = "Leve a Sopa para Ernesto"
 	},
 	[21237] = {
-		Title = "[É] Cuidando do Grupo",
+		Title = "Cuidando do Grupo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Ernesto]<INFO>iz_dun01,121,158,0,101,0</INFO></NAVI> parece estar de alguma forma comovido com a maneira como os membros do grupo cuidam dele. Como gratidão, ele quer que você elimine alguns monstros no <NAVI>[Túnel Submarino]<INFO>iz_dun03,37,64,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51404,7 +51546,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21239] = {
-		Title = "[É] Ingredientes Culinários",
+		Title = "Ingredientes Culinários",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O jovem <NAVI>[Kysekili]<INFO>iz_dun02,228,229,0,101,0</INFO></NAVI> está cheio de pensamentos sobre cozinhar. Derrote Martes e traga <ITEM>[Tinta de Polvo]<INFO>1024</INFO></ITEM>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51427,7 +51569,7 @@ QuestInfoList = {
 		Summary = "1 Nadadeira e 1 Lábio"
 	},
 	[21242] = {
-		Title = "[É] Deus dos Oceanos",
+		Title = "Deus dos Oceanos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Líder Maximus]<INFO>iz_dun02,229,231,0,101,0</INFO></NAVI> descobriu que Strouf e Tritão não eram Deuses do mar, mas ele pediu que fossem eliminados no <NAVI>[Túnel Submarino]<INFO>iz_dun04,28,35,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51472,7 +51614,7 @@ QuestInfoList = {
 		Summary = "Caçar Ambernite"
 	},
 	[21249] = {
-		Title = "[É] Salvando o Parquinho",
+		Title = "Salvando o Parquinho",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O pequeno <NAVI>[Paulinho]<INFO>prt_fild05,353,221,0,101,0</INFO></NAVI> quer que você elimine os Zangões do campo à esquerda de Prontera. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51480,7 +51622,7 @@ QuestInfoList = {
 		Summary = "Caçar Zangão"
 	},
 	[21250] = {
-		Title = "[É] Insetos Musicais",
+		Title = "Insetos Musicais",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O pequeno <NAVI>[Paulinho]<INFO>prt_fild05,353,221,0,101,0</INFO></NAVI> quer que você elimine os Rockers do <NAVI>[campo ao sul]<INFO>prt_fild07,251,364,0,101,0</INFO></NAVI> do parquinho. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51488,7 +51630,7 @@ QuestInfoList = {
 		Summary = "Caçar Rocker"
 	},
 	[21251] = {
-		Title = "[É] Problema Pegajoso",
+		Title = "Problema Pegajoso",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A pequena <NAVI>[Aninha]<INFO>prt_fild05,351,220,0,101,0</INFO></NAVI> acha que Ambernites são cavaleiros de armadura redonda. Vamos até o <NAVI>[habitat]<INFO>prt_fild04,380,160,0,101,0</INFO></NAVI> deles e eliminar alguns para tranquilizar essas crianças. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51527,7 +51669,7 @@ QuestInfoList = {
 		Summary = "Fale com a Escrivã"
 	},
 	[21256] = {
-		Title = "[É] Família Orc",
+		Title = "Família Orc",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Atendendo ao pedido do <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI>, vamos eliminar ^4d4dffGuerreiro Orc, Senhora Orc e Filhote de Orc^000000! Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51543,7 +51685,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21258] = {
-		Title = "[É] Orcs Infernais",
+		Title = "Orcs Infernais",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Atendendo ao pedido do <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI>, vamos eliminar ^4d4dffOrc Zumbi e Orc Esqueleto^000000 na caverna subterrânea. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51559,7 +51701,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21260] = {
-		Title = "[É] Ganancioso",
+		Title = "Ganancioso",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Atendendo ao pedido do <NAVI>[Líder da Tropa]<INFO>gef_fild10,78,340,0,101,0</INFO></NAVI>, vamos eliminar ^4d4dffZenorc^000000 na caverna subterrânea. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51575,7 +51717,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21262] = {
-		Title = "[É] Goblins Ferozes",
+		Title = "Goblins Ferozes",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> da tropa na Vila Goblin quer que você elimine Goblins específicos. Preste atenção: são Goblins carregando Machado e Mangual. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51591,7 +51733,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21264] = {
-		Title = "[É] Goblins Velozes",
+		Title = "Goblins Velozes",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> da tropa na Vila Goblin quer que você elimine Goblins específicos. Preste atenção: são Goblins carregando Martelo e Adaga. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51631,7 +51773,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21269] = {
-		Title = "[É] Goblins Atrozes",
+		Title = "Goblins Atrozes",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Vice-Líder]<INFO>gef_fild11,128,351,0,101,0</INFO></NAVI> da tropa na Vila Goblin quer que você elimine Goblins específicos. Preste atenção: são Goblins carregando Maça e Arco. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51654,7 +51796,7 @@ QuestInfoList = {
 		Summary = "Encontre Cláudio"
 	},
 	[21272] = {
-		Title = "[É] Purificando o Lugar",
+		Title = "Purificando o Lugar",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Cláudio]<INFO>glast_01,205,131,0,101,0</INFO></NAVI> pediu para lidar com mortos-vivos na Abadia. Se você encontrar outras meninas da Catedral de Prontera, elas poderão lhe ajudar."
@@ -51670,7 +51812,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21274] = {
-		Title = "[É] Cemitério de Sacerdotes",
+		Title = "Cemitério de Sacerdotes",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Derrote o Sacerdote Maldito e sua versão campeã, o Sacerdote Maldito Feroz, para o monge <NAVI>[Cláudio]<INFO>glast_01,205,131,0,101,0</INFO></NAVI>."
@@ -51694,7 +51836,7 @@ QuestInfoList = {
 		Summary = "Fale com o Guarda"
 	},
 	[21277] = {
-		Title = "[É] Problema na Fronteira",
+		Title = "Problema na Fronteira",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Capitão <NAVI>[César]<INFO>yuno_fild01,193,158,0,101,0</INFO></NAVI> solicitou a caçada aos monstros ao redor da fronteira. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51717,7 +51859,7 @@ QuestInfoList = {
 		Summary = "Pele de Bode e Pena de Peco"
 	},
 	[21280] = {
-		Title = "[É] Proteger a Academia",
+		Title = "Proteger a Academia",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Guarda da Academia]<INFO>yuno_fild08,198,200,0,101,0</INFO></NAVI> encarregado da segurança disse que muitas pessoas foram atacadas por Harpias e Rochosos no campus. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51733,7 +51875,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21282] = {
-		Title = "[É] Itens Valiosos",
+		Title = "Itens Valiosos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Ambulante]<INFO>yuno_fild08,172,198,0,101,0</INFO></NAVI> solicitou ^4d4dff10 Peles de Bode e 10 Penas de GrandPeco^000000. Ele parece estar vendendo cobertores e travesseiros para os estudantes. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51749,7 +51891,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21284] = {
-		Title = "[É] Animais no Campus",
+		Title = "Animais no Campus",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A <NAVI>[Aluna da Academia]<INFO>yuno_fild08,179,200,0,101,0</INFO></NAVI> fez um pedido adicional de eliminar Grand Pecos e Bodes. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51765,7 +51907,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21286] = {
-		Title = "[É] Faxina na Torre",
+		Title = "Faxina na Torre",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Zelador]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI> pediu para eliminar os monstros na <NAVI>[Torre do Relógio]<INFO>c_tower1,200,192,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51781,7 +51923,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21288] = {
-		Title = "[É] Objeto Animado",
+		Title = "Objeto Animado",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Zelador]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI> pediu para eliminar os monstros na <NAVI>[Sala do Pêndulo]<INFO>c_tower2,263,26,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51797,7 +51939,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21290] = {
-		Title = "[É] Objeto Vivo",
+		Title = "Objeto Vivo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Zelador]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI> pediu para eliminar os monstros no <NAVI>[andar superior]<INFO>c_tower3,66,145,0,101,0</INFO></NAVI> da Torre do Relógio. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51813,7 +51955,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21292] = {
-		Title = "[É] Risadas no Subsolo",
+		Title = "Risadas no Subsolo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Zelador]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI> conta que ouve barulhos sinistros vindo do <NAVI>[subsolo]<INFO>alde_dun04,80,265,0,101,0</INFO></NAVI> da Torre do Relógio. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51829,7 +51971,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21294] = {
-		Title = "[É] Guerra na Praia",
+		Title = "Guerra na Praia",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O pescador <NAVI>[Raimundo]<INFO>hugel,100,149,0,101,0</INFO></NAVI> pediu para você se livrar dos Caranguejos e Estrelas do Mar afim de evitar que as redes de pesca fossem danificadas. Vamos fazer uma limpa na <NAVI>[praia]<INFO>hu_fild06,200,364,0,101,0</INFO></NAVI> sul de Hugel. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51837,7 +51979,7 @@ QuestInfoList = {
 		Summary = "Caça na Praia"
 	},
 	[21295] = {
-		Title = "[É] Catador de Ostras",
+		Title = "Catador de Ostras",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O pescador <NAVI>[Raimundo]<INFO>hugel,100,149,0,101,0</INFO></NAVI> um prato delicioso para você usando <ITEM>[Carne de Ostra]<INFO>966</INFO></ITEM>, dos <NAVI>[Moluscos]<INFO>hu_fild06,200,364,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51845,7 +51987,7 @@ QuestInfoList = {
 		Summary = "5 Carnes de Ostra"
 	},
 	[21296] = {
-		Title = "[É] Um Grande Lago",
+		Title = "Um Grande Lago",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Hudson]<INFO>hugel,91,142,0,101,0</INFO></NAVI>, responsável pelo abastecimento de água de Hugel, solicitou que os Novus fossem eliminados. Eles estão quebrando o cano de água conectado ao <NAVI>[Lago do Abismo]<INFO>hu_fild05,335,153,0,101,0</INFO></NAVI> todas as vezes. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51892,7 +52034,7 @@ QuestInfoList = {
 		Summary = "Fale com Fred"
 	},
 	[21302] = {
-		Title = "[É] Patrulhamento",
+		Title = "Patrulhamento",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A pedido de <NAVI>[Fred]<INFO>ein_fild06,163,173,0,101,0</INFO></NAVI>, decidi eliminar os Metallings e Holdens que comem e danificam a Usina. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51915,7 +52057,7 @@ QuestInfoList = {
 		Summary = "Fale com Aiden"
 	},
 	[21305] = {
-		Title = "[É] Trabalhadores da Mina",
+		Title = "Trabalhadores da Mina",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Devo eliminar os Mineiros que está causando problemas nas <NAVI>[Minas de Einbech]<INFO>ein_dun01,22,23,0,101,0</INFO></NAVI>. Vamos nos concentrar no primeiro andar da mina de carvão. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51931,7 +52073,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21307] = {
-		Title = "[É] Como isso se move?",
+		Title = "Como isso se move?",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dizem que a Fornalha Velha, que era usada pelos Mineiros na <NAVI>[Mina de Einbech]<INFO>ein_dun02,291,292,0,101,0</INFO></NAVI>, começou a apresentar defeito e atacar os viajantes. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51947,7 +52089,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21309] = {
-		Title = "[É] Minérios Saltitantes",
+		Title = "Minérios Saltitantes",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Os Mineiros estão tendo problemas com Minerais e Obsidianas no segundo andar da <NAVI>[Mina de Einbech]<INFO>ein_dun02,291,292,0,101,0</INFO></NAVI>. Vamos lidar com isso. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51970,7 +52112,7 @@ QuestInfoList = {
 		Summary = "Fale com Aisen"
 	},
 	[21312] = {
-		Title = "[É] Gases Venenosos",
+		Title = "Gases Venenosos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A poluição do ar na cidade de Einbroch não pode se espalhar para outras áreas. Elimine Nuvens Venenosas nos <NAVI>[arredores]<INFO>ein_fild04,183,40,0,101,0</INFO></NAVI> de Einbroch. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -51986,7 +52128,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21314] = {
-		Title = "[É] Gases Tóxicos",
+		Title = "Gases Tóxicos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A poluição do ar na cidade de Einbroch não pode se espalhar para outras áreas. Elimine Nuvens Tóxicas nos <NAVI>[arredores]<INFO>ein_fild04,183,40,0,101,0</INFO></NAVI> de Einbroch. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52002,7 +52144,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21316] = {
-		Title = "[É] Boneco Assassino",
+		Title = "Boneco Assassino",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[campos de Einbroch]<INFO>ein_fild03,159,279,0,101,0</INFO></NAVI> há muitos Ursinhos atacando aventureiros. Não se deixe enganar pela aparência fofa deles. O <NAVI>[Guarda Aisen]<INFO>einbroch,220,254,0,101,0</INFO></NAVI> pediu para você derrotar o Ursinho. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52025,7 +52167,7 @@ QuestInfoList = {
 		Summary = "Fale com Carlos"
 	},
 	[21319] = {
-		Title = "[É] Uma Grande Piscina",
+		Title = "Uma Grande Piscina",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Amy, moradora de Lighthalzen, reclama sobre não poder usar a <NAVI>[Piscina Pública]<INFO>lhz_fild01,231,104,0,101,0</INFO></NAVI>. Por isso, <NAVI>[Teodoro]<INFO>lighthalzen,200,314,0,101,0</INFO></NAVI> quer que você elimine as Rafflesias do local. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52041,7 +52183,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21321] = {
-		Title = "[É] Bate no Tornozelo",
+		Title = "Bate no Tornozelo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Teodoro]<INFO>lighthalzen,200,314,0,101,0</INFO></NAVI> ouviu que Miya foi atacada no tornozelo por Talos de Verme na <NAVI>[Piscina Pública]<INFO>lhz_fild01,207,75,0,101,0</INFO></NAVI>. Vamos revidar contra esses monstros. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52057,7 +52199,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21323] = {
-		Title = "[É] Brisa Desagradável",
+		Title = "Brisa Desagradável",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O Cavaleiro <NAVI>[Leno]<INFO>lighthalzen,208,314,0,101,0</INFO></NAVI> está com medo de um lugar chamado <NAVI>[Vale da Morte]<INFO>lhz_fild02,36,221,0,101,0</INFO></NAVI>, mas ele precisa cumprir sua missão de eliminar Breezes. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52255,7 +52397,7 @@ QuestInfoList = {
 		Summary = "Fale com o Líder Maximus"
 	},
 	[21351] = {
-		Title = "[É] Formigas de Aço",
+		Title = "Formigas de Aço",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Ernesto]<INFO>yuno_fild07,232,176,0,101,0</INFO></NAVI> encarregou você de exterminar Venatu (Laranja) e Venatu (Verde), que estão interferindo na exploração de Juperos."
@@ -52271,7 +52413,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21353] = {
-		Title = "[É] Formigas de Ferro",
+		Title = "Formigas de Ferro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Ernesto]<INFO>yuno_fild07,232,176,0,101,0</INFO></NAVI> encarregou você de exterminar Venatu (Vermelho) e Venatu (Azul), que estão interferindo na exploração de Juperos."
@@ -52287,7 +52429,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21355] = {
-		Title = "[É] Robôs Coloridos",
+		Title = "Robôs Coloridos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Maximus]<INFO>yuno_fild07,228,172,0,101,0</INFO></NAVI> pediu para você eliminar Dimik (Verde) e Dimik (Azul) que estão interferindo na exploração de Juperos."
@@ -52303,7 +52445,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21357] = {
-		Title = "[É] Robôs Multicoloridos",
+		Title = "Robôs Multicoloridos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Maximus]<INFO>yuno_fild07,228,172,0,101,0</INFO></NAVI> pediu para você eliminar Dimik (Laranja) e Dimik (Vermelho) que estão interferindo na exploração de Juperos."
@@ -52347,7 +52489,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21363] = {
-		Title = "[É] Irmãos Zumbis",
+		Title = "Irmãos Zumbis",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Rotert]<INFO>nameless_n,243,237,0,101,0</INFO></NAVI> pediu para você eliminar ^4d4dffMassacres e Zumbis Dilacerados^000000 na ilha Esquecida."
@@ -52363,7 +52505,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21365] = {
-		Title = "[É] Gritos e mais Gritos",
+		Title = "Gritos e mais Gritos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Rotert]<INFO>nameless_n,243,237,0,101,0</INFO></NAVI> solicitou que você matasse ^4d4dffBanshee^000000 para purificar a ilha Esquecida."
@@ -52379,7 +52521,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21367] = {
-		Title = "[É] Controle dos Mortos",
+		Title = "Controle dos Mortos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Rotert]<INFO>nameless_n,243,237,0,101,0</INFO></NAVI> solicitou que você derrotasse ^4d4dffNecromante^000000 para purificar a ilha Esquecida."
@@ -52395,7 +52537,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21369] = {
-		Title = "[É] Limpe a Ala Oeste",
+		Title = "Limpe a Ala Oeste",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A <NAVI>[Noviça Thelma]<INFO>rachel,161,243,0,101,0</INFO></NAVI> solicita que você elimine ^4d4dffVanberk e Isilla^000000 no Santuário de Rachel. Se você não em acesso ao santuário, fale com <NAVI>[Eduardo]<INFO>ra_temple,168,169,0,101,0</INFO></NAVI>."
@@ -52411,7 +52553,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21371] = {
-		Title = "[É] Limpe a Ala Leste",
+		Title = "Limpe a Ala Leste",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A <NAVI>[Noviça Thelma]<INFO>rachel,161,243,0,101,0</INFO></NAVI> solicita que você elimine ^4d4dffHodremlin^000000 no Santuário de Rachel. Se você não em acesso ao santuário, fale com <NAVI>[Eduardo]<INFO>ra_temple,168,169,0,101,0</INFO></NAVI>."
@@ -52427,7 +52569,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21373] = {
-		Title = "[É] Limpe a Ala Sul",
+		Title = "Limpe a Ala Sul",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A <NAVI>[Noviça Thelma]<INFO>rachel,161,243,0,101,0</INFO></NAVI> solicita que você elimine ^4d4dffAgav e Echio^000000 no Santuário de Rachel. Se você não em acesso ao santuário, fale com <NAVI>[Eduardo]<INFO>ra_temple,168,169,0,101,0</INFO></NAVI>."
@@ -52443,7 +52585,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21375] = {
-		Title = "[É] Vilarejo dos Kobolds",
+		Title = "Vilarejo dos Kobolds",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Recebi um pedido de <NAVI>[Harim]<INFO>ra_fild08,274,252,0,101,0</INFO></NAVI>, um caçador na Planície de Ida, para caçar Kobolds de qualquer tipo."
@@ -52459,7 +52601,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21377] = {
-		Title = "[É] Vila da Colina",
+		Title = "Vila da Colina",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Recebi um pedido de <NAVI>[Harim]<INFO>ra_fild08,274,252,0,101,0</INFO></NAVI>, um caçador na Planície de Ida, para caçar Vento da Colina."
@@ -52475,7 +52617,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21379] = {
-		Title = "[É] Pelos de Cachorro",
+		Title = "Pelos de Cachorro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O fazendeiro <NAVI>[Cheda]<INFO>rachel,247,120,0,101,0</INFO></NAVI>, de Rachel, solicitou 20 <ITEM>[Cabelos Azuis]<INFO>1034</INFO></ITEM> dos Kobolds."
@@ -52491,7 +52633,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21381] = {
-		Title = "[É] Guerra contra as Plantas",
+		Title = "Guerra contra as Plantas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A jardineira <NAVI>[Minne]<INFO>veins,183,91,0,101,0</INFO></NAVI> solicitou que você corte ^4d4dffDrosera e Muscipular^000000 por serem ervas daninhas."
@@ -52507,7 +52649,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21383] = {
-		Title = "[É] Mutação Vulcânica",
+		Title = "Mutação Vulcânica",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Vigia de Veins]<INFO>veins,157,29,0,101,0</INFO></NAVI> encomendou a caça dos ^4d4dffMagmarings^000000 gerados a partir de um vulcão próximo. Dizem que se eles proliferarem, a vegetação vai queimar."
@@ -52523,7 +52665,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21385] = {
-		Title = "[É] Alcateia no Deserto",
+		Title = "Alcateia no Deserto",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"<NAVI>[Sarim]<INFO>ra_fild01,225,325,0,101,0</INFO></NAVI>, o caçador na frente da Caverna de Gelo, pediu para você derrotar 30 ^4d4dffLobos do Deserto^000000."
@@ -52539,7 +52681,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21387] = {
-		Title = "[É] Minhas Bebidas Geladas",
+		Title = "Minhas Bebidas Geladas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"A Barista de Rachel, <NAVI>[Tarim]<INFO>rachel,91,134,0,101,0</INFO></NAVI>, pediu para você pegar 20 <ITEM>[Corações Glaciais]<INFO>7561</INFO></ITEM> na <NAVI>[Caverna de Gelo]<INFO>ice_dun01,157,18,0,101,0</INFO></NAVI>."
@@ -52555,7 +52697,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21389] = {
-		Title = "[É] Monstro das Neves",
+		Title = "Monstro das Neves",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Amigo do Mago]<INFO>ice_dun01,149,168,0,101,0</INFO></NAVI> da Caverna de Gelo me pediu para se livrar de ^4d4dffYetis^000000 no caminho."
@@ -52571,7 +52713,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21391] = {
-		Title = "[É] Cristais são Duros?",
+		Title = "Cristais são Duros?",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Amigo do Mago]<INFO>ice_dun01,149,168,0,101,0</INFO></NAVI> da Caverna de Gelo me pediu para derrotar ^4d4dffTitãs de Gelo e Gazetis^000000."
@@ -52587,7 +52729,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21393] = {
-		Title = "[É] Demônios dos Sonhos",
+		Title = "Demônios dos Sonhos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Em Geffen, <NAVI>[Mingmin]<INFO>geffen,129,46,0,101,0</INFO></NAVI> permitirá que você entre em Geffenia se ajudá-la a lidar com ^4d4dffIncubus e Succubus^000000 para sua pesquisa."
@@ -52667,7 +52809,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21411] = {
-		Title = "[É] Churrasco Ruim",
+		Title = "Churrasco Ruim",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Churrasqueiro]<INFO>comodo,206,304,0,101,0</INFO></NAVI> me pediu 10 <ITEM>[Patas Pegajosas]<INFO>918</INFO></ITEM> dos Sapos de Thara. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52683,7 +52825,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21413] = {
-		Title = "[É] Tratamento de Pele",
+		Title = "Tratamento de Pele",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Traga 5 <ITEM>[Tentáculos]<INFO>962</INFO></ITEM> obtidos ao eliminar 10 <NAVI>[Hidras]<INFO>beach_dun3,23,260,0,101,0</INFO></NAVI> para <NAVI>[Bunny]<INFO>comodo,249,300,0,101,0</INFO></NAVI>, que está sofrendo os efeitos colaterais da aplicação do Korasera. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52699,7 +52841,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21415] = {
-		Title = "[É] Tempero Korasera",
+		Title = "Tempero Korasera",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para ajudar <NAVI>[Seravi]<INFO>comodo,166,137,0,101,0</INFO></NAVI> a crescer Korasera, elimine 10 Megalodons. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52707,7 +52849,7 @@ QuestInfoList = {
 		Summary = "Caçar Megalodon"
 	},
 	[21416] = {
-		Title = "[É] Amigos na Praia",
+		Title = "Amigos na Praia",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Soldado]<INFO>comodo,326,215,5,0,0</INFO></NAVI> na Fortaleza de Sanderman quer que você elimine Focas e Lontras na <NAVI>[Praia de Kokomo]<INFO>cmd_fild02,220,365,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52723,7 +52865,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21418] = {
-		Title = "[É] Duro como Pedra",
+		Title = "Duro como Pedra",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"O <NAVI>[Soldado]<INFO>comodo,170,347,0,101,0</INFO></NAVI> solicita a eliminação de monstros na <NAVI>[caverna norte]<INFO>beach_dun2,153,38,0,101,0</INFO></NAVI> afim de abrir caminho para Umbala. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52739,7 +52881,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21420] = {
-		Title = "[É] A Cor Verde",
+		Title = "A Cor Verde",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine 15 Groves e 10 Crocodilos para o <NAVI>[Explorador]<INFO>cmd_fild01,40,320,0,101,0</INFO></NAVI> que está pesquisando a ecologia da <NAVI>[Floresta Papuchica]<INFO>cmd_fild01,82,250,0,101,0</INFO></NAVI> e do <NAVI>[Mangue Zenhai]<INFO>cmd_fild03,79,188,0,101,0</INFO></NAVI>. Se você conseguiu esta missão no Grupo do Éden, reporte-a ao Quadro."
@@ -52916,7 +53058,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[21501] = {
-		Title = "[É] Zangão Fugaz",
+		Title = "Zangão Fugaz",
 		Description = {
 			"Vamos caçar uma Zangão Fugaz no campo a oeste de Prontera."
 		},
@@ -52930,7 +53072,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21503] = {
-		Title = "[É] Rocker Fugaz",
+		Title = "Rocker Fugaz",
 		Description = {
 			"Vamos caçar um Rocker Fugaz no campo a sudoeste de Prontera."
 		},
@@ -52944,7 +53086,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21505] = {
-		Title = "[É] Ambernite Fugaz",
+		Title = "Ambernite Fugaz",
 		Description = {
 			"Vamos caçar Ambernite Fugaz no campo a oeste de Prontera."
 		},
@@ -52958,7 +53100,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21507] = {
-		Title = "[É] Muka Alfa",
+		Title = "Muka Alfa",
 		Description = {
 			"Vamos caçar um Muka Alfa no campo a sudoeste de Izlude."
 		},
@@ -52972,7 +53114,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21509] = {
-		Title = "[É] Pé-Grande Alfa",
+		Title = "Pé-Grande Alfa",
 		Description = {
 			"Vamos caçar um Pé-Grande Alfa no campo a sudeste de Payon."
 		},
@@ -52986,7 +53128,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21511] = {
-		Title = "[É] Besouro-Chifre Brutal",
+		Title = "Besouro-Chifre Brutal",
 		Description = {
 			"Vamos caçar um Besouro-Chifre Brutal no campo a leste de Payon."
 		},
@@ -53000,7 +53142,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21513] = {
-		Title = "[É] Salgueiro Ancião Ágil",
+		Title = "Salgueiro Ancião Ágil",
 		Description = {
 			"Cace um Salgueiro Ancião Ágil no campo a sudeste de Oak Village."
 		},
@@ -53014,7 +53156,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21515] = {
-		Title = "[É] Koko Brutal",
+		Title = "Koko Brutal",
 		Description = {
 			"Cace um Koko Brutal no campo sudoeste de Prontera."
 		},
@@ -53028,7 +53170,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21517] = {
-		Title = "[É] Yoyo Ágil",
+		Title = "Yoyo Ágil",
 		Description = {
 			"Vamos caçar um Yoyo Ágil no campo a nordeste de Prontera."
 		},
@@ -53042,7 +53184,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21519] = {
-		Title = "[É] Magnólia Fugaz",
+		Title = "Magnólia Fugaz",
 		Description = {
 			"Vamos caçar uma Magnólia Fugaz no campo ao sul de Izlude."
 		},
@@ -53056,7 +53198,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21521] = {
-		Title = "[É] Guerreiro Orc Feroz",
+		Title = "Guerreiro Orc Feroz",
 		Description = {
 			"Vamos caçar um Guerreiro Orc Feroz em uma Orc Village."
 		},
@@ -53070,7 +53212,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21523] = {
-		Title = "[É] Goblin Ágil",
+		Title = "Goblin Ágil",
 		Description = {
 			"Cace um Goblin Ágil no campo ao sul da Vila Orc."
 		},
@@ -53084,7 +53226,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21525] = {
-		Title = "[É] Goblin Fugaz",
+		Title = "Goblin Fugaz",
 		Description = {
 			"Vamos caçar um Goblin Fugaz no campo a sudeste da Vila Orc."
 		},
@@ -53098,7 +53240,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21527] = {
-		Title = "[É] Petite Ágil",
+		Title = "Petite Ágil",
 		Description = {
 			"Vamos caçar um Petite Ágil no campo a oeste de Geffen."
 		},
@@ -53112,7 +53254,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21529] = {
-		Title = "[É] Petite Brutal",
+		Title = "Petite Brutal",
 		Description = {
 			"Vamos caçar um Petite Brutal no campo ao norte de Geffen West."
 		},
@@ -53126,7 +53268,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21531] = {
-		Title = "[É] Arenoso Feroz",
+		Title = "Arenoso Feroz",
 		Description = {
 			"Vamos caçar um Arenoso Feroz no campo sul-sudeste de Morroc."
 		},
@@ -53140,7 +53282,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21533] = {
-		Title = "[É] Foca Ágil",
+		Title = "Foca Ágil",
 		Description = {
 			"Vamos caçar uma Foca Ágil no campo a sudeste de Comodo."
 		},
@@ -53154,7 +53296,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21535] = {
-		Title = "[É] Grove Fugaz",
+		Title = "Grove Fugaz",
 		Description = {
 			"Vamos caçar um Grove Fugaz no campo a leste de Comodo."
 		},
@@ -53168,7 +53310,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21537] = {
-		Title = "[É] Crocodilo Brutal",
+		Title = "Crocodilo Brutal",
 		Description = {
 			"Vamos caçar um Crocodilo Brutal no campo a leste de Comodo."
 		},
@@ -53182,7 +53324,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21539] = {
-		Title = "[É] Guerreiro Wootan Feroz",
+		Title = "Guerreiro Wootan Feroz",
 		Description = {
 			"Vamos caçar um Guerreiro Wootan Feroz no campo oeste de Umbala."
 		},
@@ -53196,7 +53338,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21541] = {
-		Title = "[É] Dríade Ágil",
+		Title = "Dríade Ágil",
 		Description = {
 			"Cace uma Dríade Ágil nos campos a noroeste de Comodo."
 		},
@@ -53210,7 +53352,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21543] = {
-		Title = "[É] Molusco Ágil",
+		Title = "Molusco Ágil",
 		Description = {
 			"Vamos caçar um Molusco Ágil no campo ao sul de Huigel."
 		},
@@ -53224,7 +53366,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21545] = {
-		Title = "[É] Planta Carnívora Brutal",
+		Title = "Planta Carnívora Brutal",
 		Description = {
 			"Cace uma Planta Carnívora Brutal nos campos ao norte de Al De Baran."
 		},
@@ -53238,7 +53380,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21547] = {
-		Title = "[É] Grand Peco Alfa",
+		Title = "Grand Peco Alfa",
 		Description = {
 			"Vamos caçar o Grand Peco Alfa no campo norte-noroeste de Al De Baran."
 		},
@@ -53252,7 +53394,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21549] = {
-		Title = "[É] Bode Alfa",
+		Title = "Bode Alfa",
 		Description = {
 			"Vamos caçar um Bode Alfa no campo sul-sudeste de Juno."
 		},
@@ -53266,7 +53408,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21551] = {
-		Title = "[É] Rochoso Ágil",
+		Title = "Rochoso Ágil",
 		Description = {
 			"Vamos caçar um Rochoso Ágil no campo sul-sudeste de Juno."
 		},
@@ -53280,7 +53422,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21553] = {
-		Title = "[É] Talo de Verme Ágil",
+		Title = "Talo de Verme Ágil",
 		Description = {
 			"Vamos caçar um Talo de Verme Ágil no campo a nordeste de Lighthalzen."
 		},
@@ -53294,7 +53436,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21555] = {
-		Title = "[É] Holden Brutal",
+		Title = "Holden Brutal",
 		Description = {
 			"Vamos caçar um Holden Brutal no campo a nordeste de Einbroch."
 		},
@@ -53308,7 +53450,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21557] = {
-		Title = "[É] Rafflesia Ágil",
+		Title = "Rafflesia Ágil",
 		Description = {
 			"Vamos caçar uma Rafflesia Ágil no campo ao norte de Lighthalzen."
 		},
@@ -53322,7 +53464,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21559] = {
-		Title = "[É] Nuvem Venenosa Alfa",
+		Title = "Nuvem Venenosa Alfa",
 		Description = {
 			"Vamos caçar uma Nuvem Venenosa Alfa no campo ao norte de Einbroch."
 		},
@@ -53336,7 +53478,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21561] = {
-		Title = "[É] Nuvem Tóxica Feroz",
+		Title = "Nuvem Tóxica Feroz",
 		Description = {
 			"Vamos caçar uma Nuvem Tóxica Feroz no campo a nordeste de Einbroch."
 		},
@@ -53350,7 +53492,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21563] = {
-		Title = "[É] Novus Fugaz",
+		Title = "Novus Fugaz",
 		Description = {
 			"Vamos caçar um Novus Fugaz no campo a sudoeste de Hugel."
 		},
@@ -53364,7 +53506,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21565] = {
-		Title = "[É] Roween Brutal",
+		Title = "Roween Brutal",
 		Description = {
 			"Vamos caçar um Roween Brutal no campo a leste de Rachel."
 		},
@@ -53378,7 +53520,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21567] = {
-		Title = "[É] Stapo Alfa",
+		Title = "Stapo Alfa",
 		Description = {
 			"Vamos caçar um Stapo Alfa no campo ao sul de Veins."
 		},
@@ -53392,7 +53534,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21569] = {
-		Title = "[É] Fumacento Feroz",
+		Title = "Fumacento Feroz",
 		Description = {
 			"Vamos caçar um Fumacento Feroz em Ayothaya Field."
 		},
@@ -53406,7 +53548,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21571] = {
-		Title = "[É] Pirralho Alfa",
+		Title = "Pirralho Alfa",
 		Description = {
 			"Vamos caçar um Pirralho Alfa em Kunlun Field."
 		},
@@ -53420,7 +53562,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21573] = {
-		Title = "[É] Espírito do Vento Feroz",
+		Title = "Espírito do Vento Feroz",
 		Description = {
 			"Vamos caçar um Espírito do Vento Feroz no Campo Brasilis."
 		},
@@ -53434,7 +53576,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21575] = {
-		Title = "[É] Sorrateiro Brutal",
+		Title = "Sorrateiro Brutal",
 		Description = {
 			"Cace um Sorrateiro Brutal no Campo Moscovia."
 		},
@@ -53448,7 +53590,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21577] = {
-		Title = "[É] Karakasa Ágil",
+		Title = "Karakasa Ágil",
 		Description = {
 			"Vamos caçar um Karakasa Ágil no Campo de Amatsu."
 		},
@@ -53462,7 +53604,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21579] = {
-		Title = "[É] Mi Gao Fugaz",
+		Title = "Mi Gao Fugaz",
 		Description = {
 			"Vamos caçar um Mi Gao Fugaz no campo do Castelo de Papel."
 		},
@@ -53483,7 +53625,7 @@ QuestInfoList = {
 		Summary = "Ao Templo de Odin"
 	},
 	[21582] = {
-		Title = "[É] Menina Gótica",
+		Title = "Menina Gótica",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esse é um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 20 Skogul que supostamente se comunicam com demônios."
@@ -53499,7 +53641,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21584] = {
-		Title = "[É] Menina Gótica",
+		Title = "Menina Gótica",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esse é um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 20 Skogul que supostamente se comunicam com demônios."
@@ -53507,7 +53649,7 @@ QuestInfoList = {
 		Summary = "20 Skogul"
 	},
 	[21585] = {
-		Title = "[É] Purificar o Mal",
+		Title = "Purificar o Mal",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esse é um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 20 Frus cujos movimentos bizarros são assustadores."
@@ -53523,7 +53665,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21587] = {
-		Title = "[É] Purificar o Mal",
+		Title = "Purificar o Mal",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esse é um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 20 Frus cujos movimentos bizarros são assustadores."
@@ -53531,7 +53673,7 @@ QuestInfoList = {
 		Summary = "20 Frus"
 	},
 	[21588] = {
-		Title = "[É] Seres Gelatinosos",
+		Title = "Seres Gelatinosos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esse é um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 5 Skeggiold marrons e 5 azuis, que parecem fofos, mas são monstros assustadores."
@@ -53547,7 +53689,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21590] = {
-		Title = "[É] Seres Gelatinosos",
+		Title = "Seres Gelatinosos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Esse é um pedido de <NAVI>[Morband]<INFO>hugel,209,109,0,101,0</INFO></NAVI>. Vamos caçar 5 Skeggiold marrons e 5 azuis, que parecem fofos, mas são monstros assustadores."
@@ -53562,7 +53704,7 @@ QuestInfoList = {
 		Summary = "Ao Laboratório"
 	},
 	[21592] = {
-		Title = "[É] Cobaia Espadachim",
+		Title = "Cobaia Espadachim",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Egnigem Cenia. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53578,7 +53720,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21594] = {
-		Title = "[É] Cobaia Espadachim",
+		Title = "Cobaia Espadachim",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Egnigem Cenia. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53586,7 +53728,7 @@ QuestInfoList = {
 		Summary = "30 Egnigem Cenia"
 	},
 	[21595] = {
-		Title = "[É] Cobaia Mercadora",
+		Title = "Cobaia Mercadora",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Armeyer Dinze. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53602,7 +53744,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21597] = {
-		Title = "[É] Cobaia Mercadora",
+		Title = "Cobaia Mercadora",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Armeyer Dinze. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53610,7 +53752,7 @@ QuestInfoList = {
 		Summary = "30 Armeyer Dinze"
 	},
 	[21598] = {
-		Title = "[É] Cobaia Gatuna",
+		Title = "Cobaia Gatuna",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Wickebine Tres. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53626,7 +53768,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21600] = {
-		Title = "[É] Cobaia Gatuna",
+		Title = "Cobaia Gatuna",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Wickebine Tres. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53634,7 +53776,7 @@ QuestInfoList = {
 		Summary = "30 Wickebine Tres"
 	},
 	[21601] = {
-		Title = "[É] Cobaia Arqueiro",
+		Title = "Cobaia Arqueiro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Kavach Ícaro. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53650,7 +53792,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21603] = {
-		Title = "[É] Cobaia Arqueiro",
+		Title = "Cobaia Arqueiro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Kavach Ícaro. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53658,7 +53800,7 @@ QuestInfoList = {
 		Summary = "30 Kavach Ícaro"
 	},
 	[21604] = {
-		Title = "[É] Cobaia Noviço",
+		Title = "Cobaia Noviço",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Errende Ebecee. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53674,7 +53816,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21606] = {
-		Title = "[É] Cobaia Noviço",
+		Title = "Cobaia Noviço",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Errende Ebecee. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53682,7 +53824,7 @@ QuestInfoList = {
 		Summary = "30 Errende Ebecee"
 	},
 	[21607] = {
-		Title = "[É] Cobaia Mago",
+		Title = "Cobaia Mago",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Laurell Weinder. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53698,7 +53840,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21609] = {
-		Title = "[É] Cobaia Mago",
+		Title = "Cobaia Mago",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Laurell Weinder. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53706,7 +53848,7 @@ QuestInfoList = {
 		Summary = "30 Laurell Weinder"
 	},
 	[21610] = {
-		Title = "[É] Cobaia Atiradora",
+		Title = "Cobaia Atiradora",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Cecil Damon. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53722,7 +53864,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21612] = {
-		Title = "[É] Cobaia Atiradora",
+		Title = "Cobaia Atiradora",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Cecil Damon. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53730,7 +53872,7 @@ QuestInfoList = {
 		Summary = "2 Cecil Damon"
 	},
 	[21613] = {
-		Title = "[É] Cobaia Arquimaga",
+		Title = "Cobaia Arquimaga",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Kathryne Keyron. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53746,7 +53888,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21615] = {
-		Title = "[É] Cobaia Arquimaga",
+		Title = "Cobaia Arquimaga",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Kathryne Keyron. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53754,7 +53896,7 @@ QuestInfoList = {
 		Summary = "2 Kathryne Keyron"
 	},
 	[21616] = {
-		Title = "[É] Cobaia Sacerdotisa",
+		Title = "Cobaia Sacerdotisa",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Margaretha Sorin. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53770,7 +53912,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21618] = {
-		Title = "[É] Cobaia Sacerdotisa",
+		Title = "Cobaia Sacerdotisa",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Margaretha Sorin. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53778,7 +53920,7 @@ QuestInfoList = {
 		Summary = "2 Margaretha Sorin"
 	},
 	[21619] = {
-		Title = "[É] Cobaia Lorde",
+		Title = "Cobaia Lorde",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Seyren Windsor. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53794,7 +53936,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21621] = {
-		Title = "[É] Cobaia Lorde",
+		Title = "Cobaia Lorde",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Seyren Windsor. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53802,7 +53944,7 @@ QuestInfoList = {
 		Summary = "2 Seyren Windsor"
 	},
 	[21622] = {
-		Title = "[É] Cobaia Algoz",
+		Title = "Cobaia Algoz",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Eremes Guile. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53818,7 +53960,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21624] = {
-		Title = "[É] Cobaia Algoz",
+		Title = "Cobaia Algoz",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Eremes Guile. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53826,7 +53968,7 @@ QuestInfoList = {
 		Summary = "2 Eremes Guile"
 	},
 	[21625] = {
-		Title = "[É] Cobaia Ferreiro",
+		Title = "Cobaia Ferreiro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine para Howard Alteisen. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53842,7 +53984,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21627] = {
-		Title = "[É] Cobaia Ferreiro",
+		Title = "Cobaia Ferreiro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine Howard Alteisen. Se não tiver a missão de acesso, você pode entrar no Laboratório de Somatologia falando com <NAVI>[Laura]<INFO>lighthalzen,310,306,0,101,0</INFO></NAVI> em Lighthalzen."
@@ -53857,7 +53999,7 @@ QuestInfoList = {
 		Summary = "Para a Caverna de Magma"
 	},
 	[21629] = {
-		Title = "[É] Filtro dos Sonhos",
+		Title = "Filtro dos Sonhos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, elimine 30 Pesadelos Sombrios em nome do Museu de Monstros de Juno."
@@ -53873,7 +54015,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21631] = {
-		Title = "[É] Filtro dos Sonhos",
+		Title = "Filtro dos Sonhos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, elimine 30 Pesadelos Sombrios em nome do Museu de Monstros de Juno."
@@ -53881,7 +54023,7 @@ QuestInfoList = {
 		Summary = "30 Pesadelos Sombrios"
 	},
 	[21632] = {
-		Title = "[É] Dragões de Fogo",
+		Title = "Dragões de Fogo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, elimine 30 Exterminadores e 30 Deletérios em nome do Museu de Monstros de Juno."
@@ -53897,7 +54039,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21634] = {
-		Title = "[É] Dragões de Fogo",
+		Title = "Dragões de Fogo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, elimine 30 Exterminadores e 30 Deletérios em nome do Museu de Monstros de Juno."
@@ -53905,7 +54047,7 @@ QuestInfoList = {
 		Summary = "Caçar Dragões"
 	},
 	[21635] = {
-		Title = "[É] Estudo Geológico",
+		Title = "Estudo Geológico",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, colete 10 <ITEM>[Pedras Pomes]<INFO>7096</INFO></ITEM> em nome do Museu de Monstros de Juno."
@@ -53921,7 +54063,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21637] = {
-		Title = "[É] Estudo Geológico",
+		Title = "Estudo Geológico",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Caverna de Magma]<INFO>mag_dun01,126,73,0,101,0</INFO></NAVI>, colete 10 <ITEM>[Pedras Pomes]<INFO>7096</INFO></ITEM> em nome do Museu de Monstros de Juno."
@@ -53943,7 +54085,7 @@ QuestInfoList = {
 		Summary = "Volte para Hugel"
 	},
 	[21640] = {
-		Title = "[É] Dragões do Lago",
+		Title = "Dragões do Lago",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para a segurança dos viajantes, vamos caçar 30 Ferus Escarlate e 30 Ferus Verdes no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."
@@ -53959,7 +54101,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21642] = {
-		Title = "[É] Dragões do Lago",
+		Title = "Dragões do Lago",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para a segurança dos viajantes, vamos caçar 30 Ferus Escarlate e 30 Ferus Verdes no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."
@@ -53967,7 +54109,7 @@ QuestInfoList = {
 		Summary = "Caçar Ferus"
 	},
 	[21643] = {
-		Title = "[É] Dragões do Subsolo",
+		Title = "Dragões do Subsolo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para a segurança dos viajantes, vamos caçar 30 Acidus Dourados e 30 Acidus Azuis no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."
@@ -53983,7 +54125,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21645] = {
-		Title = "[É] Dragões do Subsolo",
+		Title = "Dragões do Subsolo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para a segurança dos viajantes, vamos caçar 30 Acidus Dourados e 30 Acidus Azuis no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."
@@ -53991,7 +54133,7 @@ QuestInfoList = {
 		Summary = "Caçar Acidus"
 	},
 	[21646] = {
-		Title = "[É] Dragão do Tesouro",
+		Title = "Dragão do Tesouro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para a segurança dos viajantes, vamos caçar 1 Hydrolancer no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."
@@ -54007,7 +54149,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21648] = {
-		Title = "[É] Dragão do Tesouro",
+		Title = "Dragão do Tesouro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Para a segurança dos viajantes, vamos caçar 1 Hydrolancer no <NAVI>[Lago do Abismo]<INFO>hu_fild05,196,210,0,101,0</INFO></NAVI>."
@@ -54029,7 +54171,7 @@ QuestInfoList = {
 		Summary = "Pedido de Talita"
 	},
 	[21651] = {
-		Title = "[É] Uma Caixa Viva",
+		Title = "Uma Caixa Viva",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Este é um pedido da Felícia, que parece estar mais interessada no conteúdo do que nos monstros. Cace 30 Mímicos Anciões na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>."
@@ -54045,7 +54187,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21653] = {
-		Title = "[É] Uma Caixa Viva",
+		Title = "Uma Caixa Viva",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Este é um pedido da Felícia, que parece estar mais interessada no conteúdo do que nos monstros. Cace 30 Mímicos Anciões na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>."
@@ -54053,7 +54195,7 @@ QuestInfoList = {
 		Summary = "30 Mímicos Anciões"
 	},
 	[21654] = {
-		Title = "[É] Palavras ao Vento",
+		Title = "Palavras ao Vento",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine 30 Palavras Mortas na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>."
@@ -54069,7 +54211,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21656] = {
-		Title = "[É] Palavras ao Vento",
+		Title = "Palavras ao Vento",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine 30 Palavras Mortas na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>."
@@ -54077,7 +54219,7 @@ QuestInfoList = {
 		Summary = "30 Palavras Mortas"
 	},
 	[21657] = {
-		Title = "[É] Barão do Reino",
+		Title = "Barão do Reino",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine 20 Barões Coruja na <NAVI>[Torre de Thanatos]<INFO>tha_t04,60,142,0,101,0</INFO></NAVI>."
@@ -54093,7 +54235,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21659] = {
-		Title = "[É] Barão do Reino",
+		Title = "Barão do Reino",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Elimine 20 Barões Coruja na <NAVI>[Torre de Thanatos]<INFO>tha_t04,60,142,0,101,0</INFO></NAVI>."
@@ -54101,7 +54243,7 @@ QuestInfoList = {
 		Summary = "20 Barões Coruja"
 	},
 	[21660] = {
-		Title = "[É] Páginas de um Livro",
+		Title = "Páginas de um Livro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>, algumas Palavras Mortas derrubam <ITEM>[Página Sangrenta]<INFO>7449</INFO></ITEM>. Vamos coletar 10 unidades."
@@ -54117,7 +54259,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21662] = {
-		Title = "[É] Páginas de um Livro",
+		Title = "Páginas de um Livro",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>, algumas Palavras Mortas derrubam <ITEM>[Página Sangrenta]<INFO>7449</INFO></ITEM>. Vamos coletar 10 unidades."
@@ -54125,7 +54267,7 @@ QuestInfoList = {
 		Summary = "10 Páginas Sangrentas"
 	},
 	[21663] = {
-		Title = "[É] Manuscritos Mágicos",
+		Title = "Manuscritos Mágicos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>, alguns Anciões derrubam <ITEM>[Pergaminho Antigo]<INFO>7099</INFO></ITEM>. Vamos coletar 10 unidades."
@@ -54141,7 +54283,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21665] = {
-		Title = "[É] Manuscritos Mágicos",
+		Title = "Manuscritos Mágicos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t02,149,130,0,101,0</INFO></NAVI>, alguns Anciões derrubam <ITEM>[Pergaminho Antigo]<INFO>7099</INFO></ITEM>. Vamos coletar 10 unidades."
@@ -54149,7 +54291,7 @@ QuestInfoList = {
 		Summary = "10 Pergaminhos Antigos"
 	},
 	[21666] = {
-		Title = "[É] Aula de Reciclagem",
+		Title = "Aula de Reciclagem",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t04,60,142,0,101,0</INFO></NAVI>, alguns Duques e Barões Corujas derrubam <ITEM>[Farrapos]<INFO>7071</INFO></ITEM>. Vamos coletar 30 unidades."
@@ -54165,7 +54307,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21668] = {
-		Title = "[É] Aula de Reciclagem",
+		Title = "Aula de Reciclagem",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t04,60,142,0,101,0</INFO></NAVI>, alguns Duques e Barões Corujas derrubam <ITEM>[Farrapos]<INFO>7071</INFO></ITEM>. Vamos coletar 30 unidades."
@@ -54173,7 +54315,7 @@ QuestInfoList = {
 		Summary = "30 Farrapos"
 	},
 	[21669] = {
-		Title = "[É] Punição Angelical",
+		Title = "Punição Angelical",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Retribuições."
@@ -54189,7 +54331,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21671] = {
-		Title = "[É] Punição Angelical",
+		Title = "Punição Angelical",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Retribuições."
@@ -54197,7 +54339,7 @@ QuestInfoList = {
 		Summary = "30 Retribuições"
 	},
 	[21672] = {
-		Title = "[É] Som Angelical",
+		Title = "Som Angelical",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Confortos."
@@ -54213,7 +54355,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21674] = {
-		Title = "[É] Som Angelical",
+		Title = "Som Angelical",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Confortos."
@@ -54221,7 +54363,7 @@ QuestInfoList = {
 		Summary = "30 Confortos"
 	},
 	[21675] = {
-		Title = "[É] Descanso Angelical",
+		Title = "Descanso Angelical",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Abrigos."
@@ -54237,7 +54379,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21677] = {
-		Title = "[É] Descanso Angelical",
+		Title = "Descanso Angelical",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Abrigos."
@@ -54245,7 +54387,7 @@ QuestInfoList = {
 		Summary = "30 Abrigos"
 	},
 	[21678] = {
-		Title = "[É] Vigia Angelical",
+		Title = "Vigia Angelical",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Observações."
@@ -54261,7 +54403,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21680] = {
-		Title = "[É] Vigia Angelical",
+		Title = "Vigia Angelical",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Torre de Thanatos]<INFO>tha_t07,30,166,0,101,0</INFO></NAVI>, elimine 30 Observações."
@@ -54283,7 +54425,7 @@ QuestInfoList = {
 		Summary = "Acesso Glastheim"
 	},
 	[21683] = {
-		Title = "[É] Pobre Palhaço",
+		Title = "Pobre Palhaço",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[Castelo de Glastheim]<INFO>gl_cas01,199,29,0,101,0</INFO></NAVI>, elimine 30 Carats."
@@ -54299,7 +54441,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21685] = {
-		Title = "[É] Pobre Palhaço",
+		Title = "Pobre Palhaço",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[Castelo de Glastheim]<INFO>gl_cas01,199,29,0,101,0</INFO></NAVI>, elimine 30 Carats."
@@ -54307,7 +54449,7 @@ QuestInfoList = {
 		Summary = "30 Carats"
 	},
 	[21686] = {
-		Title = "[É] O MVP mais Forte",
+		Title = "O MVP mais Forte",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Caverna de Glastheim]<INFO>gl_dun01,133,271,0,101,0</INFO></NAVI>, elimine 30 Arclouses e envie-os para o Deus que cuida até desses pequenos insetos."
@@ -54323,7 +54465,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21688] = {
-		Title = "[É] O MVP mais Forte",
+		Title = "O MVP mais Forte",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Caverna de Glastheim]<INFO>gl_dun01,133,271,0,101,0</INFO></NAVI>, elimine 30 Arclouses e envie-os para o Deus que cuida até desses pequenos insetos."
@@ -54331,7 +54473,7 @@ QuestInfoList = {
 		Summary = "30 Arclouses"
 	},
 	[21689] = {
-		Title = "[É] Limpeza de Esgoto",
+		Title = "Limpeza de Esgoto",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[Aquedutos de Glastheim]<INFO>gl_sew04,68,277,0,101,0</INFO></NAVI>, elimine 30 Anolians."
@@ -54347,7 +54489,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21691] = {
-		Title = "[É] Limpeza de Esgoto",
+		Title = "Limpeza de Esgoto",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[Aquedutos de Glastheim]<INFO>gl_sew04,68,277,0,101,0</INFO></NAVI>, elimine 30 Anolians."
@@ -54355,7 +54497,7 @@ QuestInfoList = {
 		Summary = "30 Anolians"
 	},
 	[21692] = {
-		Title = "[É] Mão Inimiga",
+		Title = "Mão Inimiga",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[Esgotos de Glastheim]<INFO>gl_sew03,171,283,0,101,0</INFO></NAVI>, elimine 30 Stings."
@@ -54371,7 +54513,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21694] = {
-		Title = "[É] Mão Inimiga",
+		Title = "Mão Inimiga",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[Esgotos de Glastheim]<INFO>gl_sew03,171,283,0,101,0</INFO></NAVI>, elimine 30 Stings."
@@ -54379,7 +54521,7 @@ QuestInfoList = {
 		Summary = "30 Stings"
 	},
 	[21695] = {
-		Title = "[É] Touro Valente",
+		Title = "Touro Valente",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nas <NAVI>[Profundezas de Glastheim]<INFO>gl_dun02,224,266,0,101,0</INFO></NAVI>, elimine 30 Majoruros."
@@ -54395,7 +54537,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21697] = {
-		Title = "[É] Touro Valente",
+		Title = "Touro Valente",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nas <NAVI>[Profundezas de Glastheim]<INFO>gl_dun02,224,266,0,101,0</INFO></NAVI>, elimine 30 Majorous."
@@ -54403,7 +54545,7 @@ QuestInfoList = {
 		Summary = "30 Majorous"
 	},
 	[21698] = {
-		Title = "[É] Armadura Vazia",
+		Title = "Armadura Vazia",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Cavalaria de Glastheim]<INFO>gl_knt01,150,15,0,101,0</INFO></NAVI>, elimine 30 Raydrics para ajudar Thiago."
@@ -54419,7 +54561,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21700] = {
-		Title = "[É] Armadura Vazia",
+		Title = "Armadura Vazia",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Cavalaria de Glastheim]<INFO>gl_knt01,150,15,0,101,0</INFO></NAVI>, elimine 30 Raydrics para ajudar Thiago."
@@ -54427,7 +54569,7 @@ QuestInfoList = {
 		Summary = "30 Raydrics"
 	},
 	[21701] = {
-		Title = "[É] Ajeite a Postura",
+		Title = "Ajeite a Postura",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Cavalaria de Glastheim]<INFO>gl_knt01,150,15,0,101,0</INFO></NAVI>, elimine 30 Khalitzburgs para ajudar Thiago."
@@ -54443,7 +54585,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21703] = {
-		Title = "[É] Ajeite a Postura",
+		Title = "Ajeite a Postura",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Na <NAVI>[Cavalaria de Glastheim]<INFO>gl_knt01,150,15,0,101,0</INFO></NAVI>, elimine 30 Khalitzburgs para ajudar Thiago."
@@ -54451,7 +54593,7 @@ QuestInfoList = {
 		Summary = "30 Khalitzburgs"
 	},
 	[21704] = {
-		Title = "[É] Viajante sem Rumo",
+		Title = "Viajante sem Rumo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No<NAVI>[Castelo de Glastheim]<INFO>gl_cas02,104,33,0,101,0</INFO></NAVI>, elimine 30 Andarilhos para ajudar Thiago."
@@ -54467,7 +54609,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21706] = {
-		Title = "[É] Viajante sem Rumo",
+		Title = "Viajante sem Rumo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No<NAVI>[Castelo de Glastheim]<INFO>gl_cas02,104,33,0,101,0</INFO></NAVI>, elimine 30 Andarilhos para ajudar Thiago."
@@ -54475,7 +54617,7 @@ QuestInfoList = {
 		Summary = "30 Andarilhos"
 	},
 	[21707] = {
-		Title = "[É] Inimigo à Altura",
+		Title = "Inimigo à Altura",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No<NAVI>[Castelo de Glastheim]<INFO>gl_cas02,104,33,0,101,0</INFO></NAVI>, elimine 10 Cavaleiros do Abismo para ajudar Thiago."
@@ -54491,7 +54633,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21709] = {
-		Title = "[É] Inimigo à Altura",
+		Title = "Inimigo à Altura",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No<NAVI>[Castelo de Glastheim]<INFO>gl_cas02,104,33,0,101,0</INFO></NAVI>, elimine 10 Cavaleiros do Abismo para ajudar Thiago."
@@ -54520,7 +54662,7 @@ QuestInfoList = {
 		Summary = "Vila Mora"
 	},
 	[21713] = {
-		Title = "[É] Menina das Flores",
+		Title = "Menina das Flores",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[campos esplêndidos]<INFO>spl_fild02,376,143,0,101,0</INFO></NAVI>, elimine 30 Pinguiculas."
@@ -54536,7 +54678,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21715] = {
-		Title = "[É] Menina das Flores",
+		Title = "Menina das Flores",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[campos esplêndidos]<INFO>spl_fild02,376,143,0,101,0</INFO></NAVI>, elimine 30 Pinguiculas."
@@ -54544,7 +54686,7 @@ QuestInfoList = {
 		Summary = "30 Pinguiculas"
 	},
 	[21716] = {
-		Title = "[É] Brilho Fatal",
+		Title = "Brilho Fatal",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[campos esplêndidos]<INFO>spl_fild02,376,143,0,101,0</INFO></NAVI>, elimine 30 Vespas Vagalume."
@@ -54560,7 +54702,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21718] = {
-		Title = "[É] Brilho Fatal",
+		Title = "Brilho Fatal",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[campos esplêndidos]<INFO>spl_fild02,376,143,0,101,0</INFO></NAVI>, elimine 30 Vespas Vagalume."
@@ -54568,7 +54710,7 @@ QuestInfoList = {
 		Summary = "30 Vespas Vagalume"
 	},
 	[21719] = {
-		Title = "[É] Rei do Novo Mundo",
+		Title = "Rei do Novo Mundo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 1 Leão de Vinhas."
@@ -54584,7 +54726,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21721] = {
-		Title = "[É] Rei do Novo Mundo",
+		Title = "Rei do Novo Mundo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 1 Leão de Vinhas."
@@ -54592,7 +54734,7 @@ QuestInfoList = {
 		Summary = "1 Leão de Vinhas"
 	},
 	[21722] = {
-		Title = "[É] Menina Veneno",
+		Title = "Menina Veneno",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo norte]<INFO>spl_fild01,289,32,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Pinguiculas Sombrias."
@@ -54608,7 +54750,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21724] = {
-		Title = "[É] Menina Veneno",
+		Title = "Menina Veneno",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo norte]<INFO>spl_fild01,289,32,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Pinguiculas Sombrias."
@@ -54616,7 +54758,7 @@ QuestInfoList = {
 		Summary = "30 Pinguiculas Sombrias"
 	},
 	[21725] = {
-		Title = "[É] Marcador de Páginas",
+		Title = "Marcador de Páginas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[arredores de Manuk]<INFO>man_fild01,35,238,0,101,0</INFO></NAVI>, elimine 30 Nepenthes com lindas flores."
@@ -54632,7 +54774,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21727] = {
-		Title = "[É] Marcador de Páginas",
+		Title = "Marcador de Páginas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[arredores de Manuk]<INFO>man_fild01,35,238,0,101,0</INFO></NAVI>, elimine 30 Nepenthes com lindas flores."
@@ -54640,7 +54782,7 @@ QuestInfoList = {
 		Summary = "30 Nepenthes"
 	},
 	[21728] = {
-		Title = "[É] Belos Músculos!",
+		Title = "Belos Músculos!",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Nagas com grandes músculos."
@@ -54656,7 +54798,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21730] = {
-		Title = "[É] Belos Músculos!",
+		Title = "Belos Músculos!",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Nagas com grandes músculos."
@@ -54664,7 +54806,7 @@ QuestInfoList = {
 		Summary = "30 Nagas"
 	},
 	[21731] = {
-		Title = "[É] Conto de Fadas",
+		Title = "Conto de Fadas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Cornus que parecem estar em um conto de fadas."
@@ -54680,7 +54822,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21733] = {
-		Title = "[É] Conto de Fadas",
+		Title = "Conto de Fadas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, elimine 30 Cornus que parecem estar em um conto de fadas."
@@ -54688,7 +54830,7 @@ QuestInfoList = {
 		Summary = "30 Cornus"
 	},
 	[21734] = {
-		Title = "[É] Espinhos Perigosos",
+		Title = "Espinhos Perigosos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[arredores de Manuk]<INFO>man_fild01,35,238,0,101,0</INFO></NAVI>, elimine 20 Larvas de Centopéia que são tão fofas."
@@ -54704,7 +54846,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21736] = {
-		Title = "[É] Espinhos Perigosos",
+		Title = "Espinhos Perigosos",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[arredores de Manuk]<INFO>man_fild01,35,238,0,101,0</INFO></NAVI>, elimine 20 Larvas de Centopéia que são tão fofas."
@@ -54712,7 +54854,7 @@ QuestInfoList = {
 		Summary = "20 Larvas de Centopéia"
 	},
 	[21737] = {
-		Title = "[É] Poder do Chifre",
+		Title = "Poder do Chifre",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, vamos coletar 20 <ITEM>[Chifres Místicos]<INFO>6023</INFO></ITEM> contendo o poder mágico de Cornus."
@@ -54728,7 +54870,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21739] = {
-		Title = "[É] Poder do Chifre",
+		Title = "Poder do Chifre",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[campo sul]<INFO>spl_fild03,306,376,0,101,0</INFO></NAVI> dos esplêndidos, vamos coletar 20 <ITEM>[Chifres Místicos]<INFO>6023</INFO></ITEM> contendo o poder mágico de Cornus."
@@ -54736,7 +54878,7 @@ QuestInfoList = {
 		Summary = "20 Chifres Místicos"
 	},
 	[21740] = {
-		Title = "[É] Alerta Venenoso",
+		Title = "Alerta Venenoso",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[campos de Manuk]<INFO>man_fild02,38,264,0,101,0</INFO></NAVI>, elimine 20 Centopéias."
@@ -54752,7 +54894,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21742] = {
-		Title = "[É] Alerta Venenoso",
+		Title = "Alerta Venenoso",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[campos de Manuk]<INFO>man_fild02,38,264,0,101,0</INFO></NAVI>, elimine 20 Centopéias."
@@ -54760,7 +54902,7 @@ QuestInfoList = {
 		Summary = "20 Centopéias"
 	},
 	[21743] = {
-		Title = "[É] Animal Pateta",
+		Title = "Animal Pateta",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[campos de Manuk]<INFO>man_fild02,38,264,0,101,0</INFO></NAVI>, elimine 20 Tatachos."
@@ -54776,7 +54918,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21745] = {
-		Title = "[É] Animal Pateta",
+		Title = "Animal Pateta",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Nos <NAVI>[campos de Manuk]<INFO>man_fild02,38,264,0,101,0</INFO></NAVI>, elimine 20 Tatachos."
@@ -54784,7 +54926,7 @@ QuestInfoList = {
 		Summary = "20 Tatachos"
 	},
 	[21746] = {
-		Title = "[É] Parece uma Joia",
+		Title = "Parece uma Joia",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[Monte Kamidal]<INFO>dic_fild02,238,34,0,101,0</INFO></NAVI>, elimine 30 Dolomedes para que os tolos não sejam seduzidos pela aparência."
@@ -54800,7 +54942,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21748] = {
-		Title = "[É] Parece uma Joia",
+		Title = "Parece uma Joia",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[Monte Kamidal]<INFO>dic_fild02,238,34,0,101,0</INFO></NAVI>, elimine 30 Dolomedes para que os tolos não sejam seduzidos pela aparência."
@@ -54808,7 +54950,7 @@ QuestInfoList = {
 		Summary = "30 Dolomedes"
 	},
 	[21749] = {
-		Title = "[É] Um Único Chifre",
+		Title = "Um Único Chifre",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro do <NAVI>[Túnel Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Chifre. São os Scarabas que carregam uma lança."
@@ -54824,7 +54966,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21751] = {
-		Title = "[É] Um Único Chifre",
+		Title = "Um Único Chifre",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro do <NAVI>[Túnel Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Chifre. São os Scarabas que carregam uma lança."
@@ -54832,7 +54974,7 @@ QuestInfoList = {
 		Summary = "30 Scarabas Chifre"
 	},
 	[21752] = {
-		Title = "[É] São Dois Chifres",
+		Title = "São Dois Chifres",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro do <NAVI>[Túnel Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scaraba Chifres Duplos. São os Scarabas que carregam uma adaga."
@@ -54848,7 +54990,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21754] = {
-		Title = "[É] São Dois Chifres",
+		Title = "São Dois Chifres",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro do <NAVI>[Túnel Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Chifres Duplos. São os Scarabas que carregam uma adaga."
@@ -54856,7 +54998,7 @@ QuestInfoList = {
 		Summary = "30 Chifres Duplos"
 	},
 	[21755] = {
-		Title = "[É] Chifres de Galho",
+		Title = "Chifres de Galho",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro da <NAVI>[Caverna Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Galhados."
@@ -54872,7 +55014,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21757] = {
-		Title = "[É] Chifres de Galho",
+		Title = "Chifres de Galho",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro da <NAVI>[Caverna Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Galhados."
@@ -54880,7 +55022,7 @@ QuestInfoList = {
 		Summary = "30 Scarabas Galhados"
 	},
 	[21758] = {
-		Title = "[É] Chifres de Pinça",
+		Title = "Chifres de Pinça",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro da <NAVI>[Caverna Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Ancinho."
@@ -54896,7 +55038,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21760] = {
-		Title = "[É] Chifres de Pinça",
+		Title = "Chifres de Pinça",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Dentro da <NAVI>[Caverna Kamidal]<INFO>dic_dun01,290,104,0,101,0</INFO></NAVI>, elimine 30 Scarabas Ancinho."
@@ -54904,7 +55046,7 @@ QuestInfoList = {
 		Summary = "30 Scarabas Ancinho"
 	},
 	[21761] = {
-		Title = "[É] Animais de Fogo",
+		Title = "Animais de Fogo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[Círculo de Fogo]<INFO>moro_vol,131,103,0,101,0</INFO></NAVI>, elimine 15 Condores de Fogo e 15 Frilldoras de Fogo."
@@ -54920,7 +55062,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21763] = {
-		Title = "[É] Animais de Fogo",
+		Title = "Animais de Fogo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[Círculo de Fogo]<INFO>moro_vol,131,103,0,101,0</INFO></NAVI>, elimine 15 Condores de Fogo e 15 Frilldoras de Fogo."
@@ -54928,7 +55070,7 @@ QuestInfoList = {
 		Summary = "No Círculo de Fogo"
 	},
 	[21764] = {
-		Title = "[É] Criaturas de Fogo",
+		Title = "Criaturas de Fogo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[Círculo de Fogo]<INFO>moro_vol,131,103,0,101,0</INFO></NAVI>, elimine 15 Arenosos de Fogo e 15 Golens de Fogo."
@@ -54944,7 +55086,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21766] = {
-		Title = "[É] Criaturas de Fogo",
+		Title = "Criaturas de Fogo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"No <NAVI>[Círculo de Fogo]<INFO>moro_vol,131,103,0,101,0</INFO></NAVI>, elimine 15 Arenosos de Fogo e 15 Golens de Fogo."
@@ -54952,7 +55094,7 @@ QuestInfoList = {
 		Summary = "No Círculo de Fogo"
 	},
 	[21767] = {
-		Title = "[É] Carinha Felpudo",
+		Title = "Carinha Felpudo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Ajude Lulu caçando 20 Plagiadores em <NAVI>[Bifröst]<INFO>bif_fild02,286,327,0,101,0</INFO></NAVI>."
@@ -54968,7 +55110,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21769] = {
-		Title = "[É] Carinha Felpudo",
+		Title = "Carinha Felpudo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Ajude Lulu caçando 20 Plagiadores em <NAVI>[Bifröst]<INFO>bif_fild02,286,327,0,101,0</INFO></NAVI>."
@@ -54976,7 +55118,7 @@ QuestInfoList = {
 		Summary = "20 Plagiadores"
 	},
 	[21770] = {
-		Title = "[É] Fada Travessa",
+		Title = "Fada Travessa",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Ajude Lulu caçando 20 Pequenos Fatum em <NAVI>[Bifröst]<INFO>bif_fild02,286,327,0,101,0</INFO></NAVI>."
@@ -54992,7 +55134,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21772] = {
-		Title = "[É] Fada Travessa",
+		Title = "Fada Travessa",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Ajude Lulu caçando 20 Pequenos Fatum em <NAVI>[Bifröst]<INFO>bif_fild02,286,327,0,101,0</INFO></NAVI>."
@@ -55007,7 +55149,7 @@ QuestInfoList = {
 		Summary = "Os Pecados de Morroc"
 	},
 	[21774] = {
-		Title = "[É] Forma de Anjo",
+		Title = "Forma de Anjo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"À pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>dali02,46,96,0,101,0</INFO></NAVI> caçar 30 Sombras da Inveja."
@@ -55023,7 +55165,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21776] = {
-		Title = "[É] Forma de Anjo",
+		Title = "Forma de Anjo",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"À pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>dali02,46,96,0,101,0</INFO></NAVI> caçar 30 Sombras da Inveja."
@@ -55031,7 +55173,7 @@ QuestInfoList = {
 		Summary = "30 Sombras da Inveja"
 	},
 	[21777] = {
-		Title = "[É] Forma de Lama",
+		Title = "Forma de Lama",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"À pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>dali02,46,96,0,101,0</INFO></NAVI> caçar 30 Sombras da Gula."
@@ -55047,7 +55189,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21779] = {
-		Title = "[É] Forma de Lama",
+		Title = "Forma de Lama",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"À pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>dali02,46,96,0,101,0</INFO></NAVI> caçar 30 Sombras da Gula."
@@ -55055,7 +55197,7 @@ QuestInfoList = {
 		Summary = "30 Sombras da Gula"
 	},
 	[21780] = {
-		Title = "[É] Forma Humana",
+		Title = "Forma Humana",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"À pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>dali02,46,96,0,101,0</INFO></NAVI> caçar 30 Sombras da Vaidade."
@@ -55071,7 +55213,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21782] = {
-		Title = "[É] Forma Humana",
+		Title = "Forma Humana",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"À pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>dali02,46,96,0,101,0</INFO></NAVI> caçar 30 Sombras da Vaidade."
@@ -55079,7 +55221,7 @@ QuestInfoList = {
 		Summary = "30 Sombras da Vaidade"
 	},
 	[21783] = {
-		Title = "[É] Forma Fantasma",
+		Title = "Forma Fantasma",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"À pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>dali02,46,96,0,101,0</INFO></NAVI> caçar 30 Sombras da Ira."
@@ -55095,7 +55237,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21785] = {
-		Title = "[É] Forma Fantasma",
+		Title = "Forma Fantasma",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"À pedido de Lartal, vamos para a <NAVI>[Fenda Dimensional]<INFO>dali02,46,96,0,101,0</INFO></NAVI> caçar 30 Sombras da Ira."
@@ -55103,7 +55245,7 @@ QuestInfoList = {
 		Summary = "30 Sombras da Ira"
 	},
 	[21786] = {
-		Title = "[É] Carat Fugaz",
+		Title = "Carat Fugaz",
 		Description = {
 			"Vamos caçar um Carat Fugaz no primeiro andar do Castelo de Glastheim."
 		},
@@ -55117,7 +55259,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21788] = {
-		Title = "[É] Majoruros Feroz",
+		Title = "Majoruros Feroz",
 		Description = {
 			"Vamos caçar um Majoruros Feroz no 2º andar da caverna subterrânea em Glastheim."
 		},
@@ -55131,7 +55273,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21790] = {
-		Title = "[É] Raydric Brutal",
+		Title = "Raydric Brutal",
 		Description = {
 			"Vamos caçar um Raydric Brutal no 1º andar da Cavalaria de Glastheim."
 		},
@@ -55145,7 +55287,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21792] = {
-		Title = "[É] Raydric Ágil",
+		Title = "Raydric Ágil",
 		Description = {
 			"Cace um Raydric Ágil no 2º andar da Cavalaria de Glastheim."
 		},
@@ -55159,7 +55301,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21794] = {
-		Title = "[É] Andarilho Feroz",
+		Title = "Andarilho Feroz",
 		Description = {
 			"Vamos caçar um Andarilho Feroz no 2º andar do Castelo de Glastheim."
 		},
@@ -55173,7 +55315,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21796] = {
-		Title = "[É] Massacre Ágil",
+		Title = "Massacre Ágil",
 		Description = {
 			"Vamos caçar um Massacre Ágil no 1º andar do Monastério da Ilha Esquecida."
 		},
@@ -55187,7 +55329,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21798] = {
-		Title = "[É] Banshee Ágil",
+		Title = "Banshee Ágil",
 		Description = {
 			"Cace uma Banshee Ágil no primeiro andar do Monastério na Ilha Esquecida."
 		},
@@ -55201,7 +55343,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21800] = {
-		Title = "[É] Necromante Alfa",
+		Title = "Necromante Alfa",
 		Description = {
 			"Vamos caçar um Necromante Alfa no 2º nível do Monastério da Ilha Esquecida."
 		},
@@ -55215,7 +55357,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21802] = {
-		Title = "[É] Pesadelo Sombrio Feroz",
+		Title = "Pesadelo Sombrio Feroz",
 		Description = {
 			"Cace um Pesadelo Sombrio Feroz no 2º andar da Caverna de Magma."
 		},
@@ -55229,7 +55371,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21804] = {
-		Title = "[É] Mímico Ancião Alfa",
+		Title = "Mímico Ancião Alfa",
 		Description = {
 			"Vamos caçar um Mímico Ancião Alfa no museu no nível inferior da Torre de Thanatos."
 		},
@@ -55243,7 +55385,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21806] = {
-		Title = "[É] Palavra Morta Brutal",
+		Title = "Palavra Morta Brutal",
 		Description = {
 			"Vamos caçar uma Palavra Morta Brutal no espaço abandonado na parte inferior da Torre de Thanatos."
 		},
@@ -55257,7 +55399,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21808] = {
-		Title = "[É] Venatu Feroz",
+		Title = "Venatu Feroz",
 		Description = {
 			"Cace um Venatu Feroz nas Ruínas de Juperos."
 		},
@@ -55271,7 +55413,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21810] = {
-		Title = "[É] Dimik Ágil",
+		Title = "Dimik Ágil",
 		Description = {
 			"Vamos caçar um Dimik Ágil no centro de Juperos."
 		},
@@ -55285,7 +55427,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21812] = {
-		Title = "[É] Ferus Feroz",
+		Title = "Ferus Feroz",
 		Description = {
 			"Vamos caçar um Ferus Feroz no 1º andar da caverna subterrânea do Lago do Abismo."
 		},
@@ -55299,7 +55441,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21814] = {
-		Title = "[É] Acidus Brutal",
+		Title = "Acidus Brutal",
 		Description = {
 			"Vamos caçar um Acidus Brutal no 2º andar da caverna subterrânea do Lago do Abismo."
 		},
@@ -55313,7 +55455,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21816] = {
-		Title = "[É] Senhora Fugaz",
+		Title = "Senhora Fugaz",
 		Description = {
 			"Vamos caçar uma Senhora Fugaz na Torre de Thanatos."
 		},
@@ -55327,7 +55469,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21818] = {
-		Title = "[É] Dama da Guarda Alfa",
+		Title = "Dama da Guarda Alfa",
 		Description = {
 			"Vamos caçar Dama da Guarda Alfa na Torre de Thanatos."
 		},
@@ -55341,7 +55483,7 @@ QuestInfoList = {
 		Summary = "Reseta 4 da manhã"
 	},
 	[21820] = {
-		Title = "[É] Laurell Weinder Alfa",
+		Title = "Laurell Weinder Alfa",
 		Description = {
 			"Vamos caçar Laurell Weinder Alfa no 2º andar do Biolaboratório."
 		},
@@ -55355,7 +55497,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21822] = {
-		Title = "[É] Cecil Damon Brutal",
+		Title = "Cecil Damon Brutal",
 		Description = {
 			"Vamos caçar Cecil Damon Brutal no 3º andar do Biolaboratório."
 		},
@@ -55369,7 +55511,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21824] = {
-		Title = "[É] Vento da Colina Ágil",
+		Title = "Vento da Colina Ágil",
 		Description = {
 			"Vamos caçar um Vento da Colina Ágil nos campos nordeste e noroeste de Rachel."
 		},
@@ -55383,7 +55525,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21826] = {
-		Title = "[É] Kobold Brutal",
+		Title = "Kobold Brutal",
 		Description = {
 			"Vamos caçar um Kobold Brutal no campo norte-noroeste de Lighthalzen."
 		},
@@ -55397,7 +55539,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21828] = {
-		Title = "[É] Kobold Arqueiro Ágil",
+		Title = "Kobold Arqueiro Ágil",
 		Description = {
 			"Vamos caçar um Kobold Arqueiro Ágil no campo ao norte de Lighthalzen."
 		},
@@ -55411,7 +55553,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21830] = {
-		Title = "[É] Yeti Brutal",
+		Title = "Yeti Brutal",
 		Description = {
 			"Vamos caçar um Yeti Brutal no segundo andar da caverna de gelo."
 		},
@@ -55425,7 +55567,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21832] = {
-		Title = "[É] Titã de Gelo Ágil",
+		Title = "Titã de Gelo Ágil",
 		Description = {
 			"Cace um Titã de Gelo Ágil no 3º andar da caverna de gelo."
 		},
@@ -55439,7 +55581,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21834] = {
-		Title = "[É] Isilla Alfa",
+		Title = "Isilla Alfa",
 		Description = {
 			"Vamos caçar Isilla Alfa no primeiro andar do santuário de Rachel."
 		},
@@ -55453,7 +55595,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21836] = {
-		Title = "[É] Echio Alfa",
+		Title = "Echio Alfa",
 		Description = {
 			"Vamos caçar Echio Alfa na área sul do 1º andar do santuário de Rachel."
 		},
@@ -55467,7 +55609,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21838] = {
-		Title = "[É] Agav Ágil",
+		Title = "Agav Ágil",
 		Description = {
 			"Vamos caçar um Agav Ágil na área central do 2º andar do santuário de Rachel."
 		},
@@ -55481,7 +55623,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21840] = {
-		Title = "[É] Vespa Vagalume Fugaz",
+		Title = "Vespa Vagalume Fugaz",
 		Description = {
 			"Vamos caçar uma Vespa Vagalume Fugaz no Campo Esplêndido."
 		},
@@ -55495,7 +55637,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21842] = {
-		Title = "[É] Pinguicula Brutal",
+		Title = "Pinguicula Brutal",
 		Description = {
 			"Vamos caçar uma Pinguicula Brutal no Campo Esplêndido."
 		},
@@ -55509,7 +55651,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21844] = {
-		Title = "[É] Centopéia Ágil",
+		Title = "Centopéia Ágil",
 		Description = {
 			"Vamos caçar uma Centopéia Ágil no sopé da Montanha Kamidal."
 		},
@@ -55523,7 +55665,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21846] = {
-		Title = "[É] Dolomedes Alfa",
+		Title = "Dolomedes Alfa",
 		Description = {
 			"Vamos caçar Dolomedes Alfa no sopé da Montanha Kamidal."
 		},
@@ -55537,7 +55679,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21848] = {
-		Title = "[É] Scaraba Galhado Fugaz",
+		Title = "Scaraba Galhado Fugaz",
 		Description = {
 			"Vamos caçar um Scaraba Galhado Fugaz no 1º andar do Túnel Kamidal."
 		},
@@ -55551,7 +55693,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21850] = {
-		Title = "[É] Plagiador Alfa",
+		Title = "Plagiador Alfa",
 		Description = {
 			"Vamos caçar um Plagiador Alfa no sul de Bifröst."
 		},
@@ -55565,7 +55707,7 @@ QuestInfoList = {
 		Summary = "Reseta às 4 da manhã"
 	},
 	[21852] = {
-		Title = "[É] Pequeno Fatum Feroz",
+		Title = "Pequeno Fatum Feroz",
 		Description = {
 			"Vamos caçar um Pequeno Fatum Feroz no norte de Bifröst."
 		},
@@ -55735,7 +55877,7 @@ QuestInfoList = {
 	[21922] = {
 		Title = "Explorando o Mundo",
 		Description = {
-			"Leno diz que há um rastro suspeito de movimento que vai para o leste. Vamos segui-lo."
+			"Leno diz que há um rastro suspeito de movimento que vai para o sul. Vamos segui-lo."
 		},
 		Summary = "Fale com o soldado"
 	},
@@ -72251,6 +72393,264 @@ QuestInfoList = {
 			"Alcance o nível 185 / Apenas 1 vez durante este evento"
 		},
 		Summary = "Missão da Temporada 1 do Passe de Batalha concluída."
+	},
+	[295490] = {
+		Title = "Passe de Batalha Diário 1-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 40 Pitayas Vermelhas e 40 Pitayas Amarelas em <NAVI>[Estufa de Pitayas]<INFO>ba_lost,160,60,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrote 40 Pitayas Vermelhas e 40 Pitayas Amarelas"
+	},
+	[295491] = {
+		Title = "[Espera] Passe de Batalha: Derrotar Pitaya",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta missão é uma missão diária. Após o término do tempo de espera, você poderá recebê-la novamente. Você também pode aceitar a missão no <NAVI>[Quadro de Missões]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, da atividade Passe de Batalha 5."
+		},
+		Summary = "Reinicia às 04:00"
+	},
+	[295492] = {
+		Title = "Passe de Batalha Diário 1-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 40 Pitayas Azuis e 40 Pitayas Violetas em <NAVI>[Estufa de Pitayas]<INFO>ba_lost,160,60,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrote 40 Pitayas Azuis e 40 Pitayas Violetas"
+	},
+	[295493] = {
+		Title = "[Espera] Passe de Batalha: Coletar Fragmentos de Memória",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta missão é uma missão diária. Após o término do tempo de espera, você poderá recebê-la novamente. Você também pode aceitar a missão no <NAVI>[Quadro de Missões]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, da atividade Passe de Batalha 5."
+		},
+		Summary = "Reinicia às 04:00"
+	},
+	[295494] = {
+		Title = "Passe de Batalha Diário 1-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 40 Pitayas Verdes e 10 cada das outras cores (Vermelha, Amarela, Azul e Violeta) em <NAVI>[Estufa de Pitayas]<INFO>ba_lost,160,60,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Derrote 40 Pitayas Verdes e 10 cada das outras cores"
+	},
+	[295495] = {
+		Title = "[Espera] Passe de Batalha: Exploração da Instância 17.2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta missão é uma missão diária. Após o término do tempo de espera, você poderá recebê-la novamente. Você também pode aceitar a missão no <NAVI>[Quadro de Missões]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, da atividade Passe de Batalha 5."
+		},
+		Summary = "Reinicia às 04:00"
+	},
+	[295496] = {
+		Title = "Passe de Batalha Diário 3-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 1 Sweety em <NAVI>[Sweety]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrote 1 Sweety"
+	},
+	[295497] = {
+		Title = "[Espera] Passe de Batalha: Derrotar Monstros na Torre de Thanatos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta missão é uma missão diária. Após o término do tempo de espera, você poderá recebê-la novamente. Você também pode aceitar a missão no <NAVI>[Quadro de Missões]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, da atividade Passe de Batalha 5."
+		},
+		Summary = "Reinicia às 04:00"
+	},
+	[295498] = {
+		Title = "Passe de Batalha Diário 3-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 1 Papilia Violeta em <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Derrote 1 Papilia Violeta"
+	},
+	[295499] = {
+		Title = "[Espera] Passe de Batalha: Derrotar Pimentão",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta missão é uma missão diária. Após o término do tempo de espera, você poderá recebê-la novamente. Você também pode aceitar a missão no <NAVI>[Quadro de Missões]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, da atividade Passe de Batalha 5."
+		},
+		Summary = "Reinicia às 04:00"
+	},
+	[295500] = {
+		Title = "Passe de Batalha Diário 3-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 1 Chefe Pitaya em <NAVI>[Luynan]<INFO>ba_maison,311,206,0,101,0</INFO></NAVI>"
+		},
+		Summary = "Derrote 1 Chefe Pitaya"
+	},
+	[295501] = {
+		Title = "[Espera] Passe de Batalha: Derrotar Thanatos ou Fragmento de Thanatos",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Esta missão é uma missão diária. Após o término do tempo de espera, você poderá recebê-la novamente. Você também pode aceitar a missão no <NAVI>[Quadro de Missões]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, da atividade Passe de Batalha 5."
+		},
+		Summary = "Reinicia às 04:00"
+	},
+	[295502] = {
+		Title = "Passe de Batalha Diário 4-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 5 Mímicos do Vazio e 5 Livros da Morte em <NAVI>[Torre de Thanatos - Sala da Agonia]<INFO>tha_t09,20,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrote 5 Mímicos do Vazio e 5 Livros da Morte"
+	},
+	[295503] = {
+		Title = "Missão Sazonal do Passe de Batalha 5 - Concluída",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você completou um total de 444 missões diárias."
+		},
+		Summary = "Parabéns. Você é um jogador muito dedicado."
+	},
+	[295504] = {
+		Title = "Passe de Batalha Diário 4-2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 5 Anciões Primitivos e 10 Duques Corvos em <NAVI>[Torre de Thanatos - Sala da Agonia]<INFO>tha_t09,20,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrote 5 Anciões Primitivos e 10 Duques Corvos"
+	},
+	[295506] = {
+		Title = "Passe de Batalha Diário 4-3",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 15 Barões Corvos em <NAVI>[Torre de Thanatos - Sala da Agonia]<INFO>tha_t09,20,99,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrote 15 Barões Corvos"
+	},
+	[295508] = {
+		Title = "Passe de Batalha Diário 5",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 1 Pimentão em [Lamda (Difícil)]ba_maison,120,321,0,101,0"
+		},
+		Summary = "Derrote 1 Pimentão"
+	},
+	[295510] = {
+		Title = "Passe de Batalha Diário 6-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 1 Thanatos em <NAVI>[Memórias de Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrote 1 Thanatos"
+	},
+	[295511] = {
+		Title = "Passe de Batalha Diário 6-1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Derrote 1 Fragmento de Thanatos em <NAVI>[Memórias de Thanatos]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Derrote 1 Fragmento de Thanatos"
+	},
+	[295512] = {
+		Title = "Passe de Batalha Diário 2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Colete 3 Fragmentos de Memória de cada cor em <NAVI>[Torre de Thanatos - Sala do Ódio]<INFO>tha_t12,129,51,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Colete 3 Fragmentos de Memória de cada cor"
+	},
+	[295513] = {
+		Title = "Missão Sazonal do Passe de Batalha 5",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Após completar um total de 444 missões diárias, você pode verificar seu progresso no <NAVI>[Quadro de Missões]<INFO>prontera,165,252,0,101,0</INFO></NAVI>, da atividade Passe de Batalha 5."
+		},
+		Summary = "Complete um total de 444 missões diárias"
+	},
+	[295520] = {
+		Title = "[Espera] Loja da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"A lista da loja diária de hoje foi atualizada. Você pode redefinir a lista através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[295521] = {
+		Title = "[Espera] 1º Item da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você comprou o 1º item da loja diária. Você pode redefinir a lista através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[295522] = {
+		Title = "[Espera] 2º Item da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você comprou o 2º item da loja diária. Você pode redefinir a lista através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[295523] = {
+		Title = "[Espera] 3º Item da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você comprou o 3º item da loja diária. Você pode redefinir a lista através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[295524] = {
+		Title = "[Espera] 4º Item da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você comprou o 4º item da loja diária. Você pode redefinir a lista através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[295525] = {
+		Title = "[Espera] 5º Item da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você comprou o 5º item da loja diária. Você pode redefinir a lista através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[295526] = {
+		Title = "[Espera] 6º Item da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você comprou o 6º item da loja diária. Você pode redefinir a lista através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[295527] = {
+		Title = "[Espera] 7º Item da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você comprou o 7º item da loja diária. Você pode redefinir a lista através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[295528] = {
+		Title = "[Espera] 8º Item da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você comprou o 8º item da loja diária. Você pode redefinir a lista através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
+	},
+	[295529] = {
+		Title = "[Espera] Loja da Máquina Tlim-tlim",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"Você usou todas as redefinições da loja diária. Você poderá usá-la novamente após às 04:00 através de <NAVI>[Máquina Tlim-tlim]<INFO>prontera,164,282,0,101,0</INFO></NAVI>."
+		},
+		Summary = "Reinicia às 04:00",
+		CoolTimeQuest = 1
 	},
 	[297001] = {
 		Title = "Fale com o Soldado Woods Goofus",

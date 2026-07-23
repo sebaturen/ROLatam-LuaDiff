@@ -7,7 +7,7 @@
     "QQmwBg": {
         "en-US": "[Thug]\n*Sigh...*\nWhat is life?\nAnd what use\nis money? ...Damn.\nDamn this worthless life!",
         "pt-BR": "[Sujeito Estranho]\n*Suspiro...*\nO que é a vida?\nE para que serve\no dinheiro? ... Droga.\nMaldita seja esta vida miserável!",
-        "es-ES": "[Matón]\n*Suspira…*\n¿Qué es la vida?\n¿Y para qué sirve\nel dinero? Maldición.\n¡Maldita sea esta vida inútil!"
+        "es-ES": "[Matón]\n*Suspira...*\n¿Qué es la vida?\n¿Y para qué sirve\nel dinero? Maldición.\n¡Maldita sea esta vida inútil!"
     },
     "QgmwBg": {
         "en-US": "[Thug]\nHey, kid.\nWhat the hell\nare you lookin' at?",
@@ -32,12 +32,12 @@
     "RgmwBg": {
         "en-US": "[Thug]\nHmmm...\nMaybe I'll swing by the ^0000FFRogue Guild^000000 in ^0000FFParos Lighthouse^000000...",
         "pt-BR": "[Sujeito Estranho]\nHumm...\nTalvez eu passe na ^0000FFGuilda dos Arruaceiros^000000 no ^0000FFFarol de Paros^000000...",
-        "es-ES": "[Matón]\nMmmm…\nTal vez, me pase por el ^0000FFgremio de Pícaros^000000 en el ^0000FFfaro de Paros^000000…"
+        "es-ES": "[Matón]\nMmmm...\nTal vez, me pase por el ^0000FFgremio de Pícaros^000000 en el ^0000FFfaro de Paros^000000..."
     },
     "RwmwBg": {
         "en-US": "[Thug]\nI needz my money,\nand they best have it...",
         "pt-BR": "[Sujeito Estranho]\nPreciso do meu dinheiro,\ne é bom que eles o tenham...",
-        "es-ES": "[Matón]\nNezezito mi dinero,\ny será mejor que lo tengan…"
+        "es-ES": "[Matón]\nNezezito mi dinero,\ny será mejor que lo tengan..."
     },
     "SAmwBg": {
         "en-US": "Rogue Guildsman",
@@ -72,7 +72,7 @@
     "TgmwBg": {
         "en-US": "[Markie]\nEh? You...you...?!\nHey, haven't we met before?",
         "pt-BR": "[Marty]\nHein? Você... você...?!\nEi, já não nos conhecemos?",
-        "es-ES": "[Markie]\n¿Eh? ¡¿Tú… tú…?!\nOye, ¿no nos conocemos?"
+        "es-ES": "[Markie]\n¿Eh? ¡¿Tú... tú...?!\nOye, ¿no nos conocemos?"
     },
     "TwmwBg": {
         "en-US": "[Markie]\n..............\nAwww, ^FF0000I am sorry^000000! I think I misunderstood you from someone I know.",
@@ -82,12 +82,12 @@
     "UAmwBg": {
         "en-US": "[Markie]\n.......\n........It is strange though. Umm.",
         "pt-BR": "[Marty]\n.......\n... Mas é estranho. Humm.",
-        "es-ES": "[Markie]\n.......\n…Aunque es extraño. Mmm."
+        "es-ES": "[Markie]\n.......\n...Aunque es extraño. Mmm."
     },
     "UQmwBg": {
         "en-US": "[Markie]\nI never misunderstand people...oh well, be safe anyway!",
         "pt-BR": "[Marty]\nEu nunca confundo as pessoas... bom, fique bem mesmo assim!",
-        "es-ES": "[Markie]\nNunca confundo a la gente… bueno, ¡cuídate!"
+        "es-ES": "[Markie]\nNunca confundo a la gente... bueno, ¡cuídate!"
     },
     "UgmwBg": {
         "en-US": "[Rogue Guildsman]\nYo, what are you doin'?!\nYou can't change your job if you got unused skill points, so use 'em all up. You bettah check yo-self before you wreck yo-self.",
@@ -102,22 +102,22 @@
     "VAmwBg": {
         "en-US": "Oh, I get it now...\nThe widdle boy wants\nto be a ^800000Rogue^000000.",
         "pt-BR": "Ah, agora entendi...\nO garotinho quer\nser um ^800000Arruaceiro^000000.",
-        "es-ES": "Ah, ahora entiendo…\nEl pequeño niño quiere\nser ^800000Pícaro^000000."
+        "es-ES": "Ah, ahora entiendo...\nEl pequeño niño quiere\nser ^800000Pícaro^000000."
     },
     "VQmwBg": {
         "en-US": "Oh, I see...\nLil' cutie wants \nto be a ^800000Rogue^000000.",
         "pt-BR": "Oh, entendo...\nA coisinha fofa quer \nser uma ^800000Arruaceira^000000.",
-        "es-ES": "Ah, ya veo…\nLa ternurita quiere \nser ^800000Pícaro^000000."
+        "es-ES": "Ah, ya veo...\nLa ternurita quiere \nser ^800000Pícaro^000000."
     },
     "VgmwBg": {
         "en-US": "[Rogue Guildsman]\nEh, nice meetin' you, I guess. I'm Markie, and I do work for the Rogue Guild, a philanthro-- *ahem* a ^800000feelanthropist^000000 group, as you can see. So what's your name?",
         "pt-BR": "[Arruaceira da Guilda]\nEr, muito prazer, eu acho. Sou a Marty e trabalho para a Guilda dos Arruaceiros, um grupo filantróp... *aham* ^800000lucrantrópico^000000, como você pode ver. Então, qual é o seu nome?",
-        "es-ES": "[Pícaro del gremio]\nEh, encantada de conocerte, supongo. Soy Markie y trabajo para el gremio de Pícaros, un grupo filan… *ejem* un grupo ^800000serio de filántropos^000000, como puedes ver. ¿Y cómo te llamas?"
+        "es-ES": "[Pícaro del gremio]\nEh, encantada de conocerte, supongo. Soy Markie y trabajo para el gremio de Pícaros, un grupo filan... *ejem* un grupo ^800000serio de filántropos^000000, como puedes ver. ¿Y cómo te llamas?"
     },
     "VwmwBg": {
         "en-US": "[Markie]\n...{0}?\nHeh heh! Cool name.\nIf it was dorky, we'd\nmake you change it,\nso you're in luck.",
         "pt-BR": "[Marty]\n...{0}?\nHehehehe! Que nome legal.\nSe fosse bobo, nós\nfaríamos você mudá-lo,\nentão está com sorte.",
-        "es-ES": "[Markie]\n¿…{0}?\n¡Je, je! Es un nombre genial.\nSi fuera tonto, nos gustaría\nque lo cambiaras,\nasí que tienes suerte."
+        "es-ES": "[Markie]\n¿...{0}?\n¡Je, je! Es un nombre genial.\nSi fuera tonto, nos gustaría\nque lo cambiaras,\nasí que tienes suerte."
     },
     "WAmwBg": {
         "en-US": "[Markie]\nSo why you wanna join up with the Rogues? I guess you gave me your real name, so you'd be an honest Rogue. Not many of those around, heh heh~",
@@ -127,7 +127,7 @@
     "WQmwBg": {
         "en-US": "[Markie]\nRule number 1 for Rouges...\nNever give out your real identity to most people, most of the time. It's just a little backup measure we like to use.",
         "pt-BR": "[Marty]\nRegra número 1 dos Arruaceiros...\nQuase nunca revele a sua verdadeira identidade para as pessoas. É apenas um cuidado que gostamos de tomar.",
-        "es-ES": "[Markie]\nRegla número 1 de los Pícaros…\nNunca reveles tu verdadera identidad a la mayoría de la gente, la mayoría de las veces. Es solo una pequeña medida de seguridad que nos gusta usar."
+        "es-ES": "[Markie]\nRegla número 1 de los Pícaros...\nNunca reveles tu verdadera identidad a la mayoría de la gente, la mayoría de las veces. Es solo una pequeña medida de seguridad que nos gusta usar."
     },
     "WgmwBg": {
         "en-US": "[Markie]\nRight. I'm officially accepting your application, so now you gotta take a test. Don't sweat it, this first one is real simple.",
@@ -137,7 +137,7 @@
     "WwmwBg": {
         "en-US": "[Markie]\nAlright...\nLet's get started!",
         "pt-BR": "[Marty]\nCerto...\nVamos começar!",
-        "es-ES": "[Markie]\nMuy bien…\n¡Empecemos!"
+        "es-ES": "[Markie]\nMuy bien...\n¡Empecemos!"
     },
     "XAmwBg": {
         "en-US": "[Markie]\nYou again?\nOkay, you probably screwed up last time 'cuz you were way too nervous. So just chill and pass\nthis test, okay?",
@@ -152,22 +152,22 @@
     "XgmwBg": {
         "en-US": "[Markie]\nYeah...\nThat guy can be pretty anal, but we need a guy like him in our guild. Anyway, be careful. Lots of luck to you, pal.",
         "pt-BR": "[Marty]\nSim...\nAquele cara pode ser bem chato, mas precisamos de alguém como ele em nossa guilda. De qualquer forma, tenha cuidado. Muita sorte, parceiro.",
-        "es-ES": "[Markie]\nSí…\nEse tipo puede ser bastante obsesivo, pero necesitamos a alguien como él en nuestro gremio. De todos modos, ten cuidado. Mucha suerte, colega."
+        "es-ES": "[Markie]\nSí...\nEse tipo puede ser bastante obsesivo, pero necesitamos a alguien como él en nuestro gremio. De todos modos, ten cuidado. Mucha suerte, colega."
     },
     "XwmwBg": {
         "en-US": "[Markie]\nHey yo...\nDo your best.",
         "pt-BR": "[Marty]\nEi, você...\nFaça o seu melhor.",
-        "es-ES": "[Markie]\nOye…\nHaz tu mejor esfuerzo."
+        "es-ES": "[Markie]\nOye...\nHaz tu mejor esfuerzo."
     },
     "YAmwBg": {
         "en-US": "[Markie]\nHeh heh...\nFresh meat. This'll be\na cinch to--Wait! Er, I wasn't talkin' about you! I meant the other fresh meat~",
         "pt-BR": "[Marty]\nHehehe...\nCarne fresca. Vai ser\nfácil de... Espera aí! Er, eu não estava falando de você! Eu quis dizer a outra carne fresca...",
-        "es-ES": "[Markie]\nJe, je…\nCarne fresca. Esto será\nun juego de niños para… ¡Espera! ¡No hablaba de ti! Me refería a la otra carne fresca~."
+        "es-ES": "[Markie]\nJe, je...\nCarne fresca. Esto será\nun juego de niños para... ¡Espera! ¡No hablaba de ti! Me refería a la otra carne fresca~."
     },
     "YQmwBg": {
         "en-US": "Please get off of that creature you're riding on\nthen come to find me again...",
         "pt-BR": "Por favor, desça dessa criatura em que está montado\ne depois venha me encontrar novamente...",
-        "es-ES": "Bájate de la criatura que estás montando\ny ven a verme nuevamente…"
+        "es-ES": "Bájate de la criatura que estás montando\ny ven a verme nuevamente..."
     },
     "YgmwBg": {
         "en-US": "[Markie]\nOh! It's you!\nYou were actually able to put up with that guy? Good stuff! Must've had a rough time collect all those items, eh?",
@@ -182,7 +182,7 @@
     "ZAmwBg": {
         "en-US": "[Markie]\nNow...\nIt's time\nfor me to make\na speech~ *Ahem*",
         "pt-BR": "[Marty]\nAgora...\né hora\nde eu fazer\num discurso... *Aham*",
-        "es-ES": "[Markie]\nAhora…\nEs hora de\nque yo pronuncie\nun discurso. *Ejem*"
+        "es-ES": "[Markie]\nAhora...\nEs hora de\nque yo pronuncie\nun discurso. *Ejem*"
     },
     "ZQmwBg": {
         "en-US": "[Markie]\nEnjoy your freedom as a Rogue. Just remember that you gotta be free and responsible at the same time. So treat other guys the way you wanna be treated, kay? Alright, seeya round.",
@@ -212,12 +212,12 @@
     "agmwBg": {
         "en-US": "[Markie]\nGet ready...?\nFine, fine.\nTake your sweet\ntime, why don't you?\nBut hurry up and\ncome back, got it?",
         "pt-BR": "[Marty]\nSe preparar...?\nCerto, certo.\nLeve o\ntempo que quiser. \nMas se apresse e\nvolte aqui, sacou?",
-        "es-ES": "[Markie]\n¿Prepararte…?\nEstá bien.\nTómate tu\ntiempo, ¿por qué no?\nPero date prisa y\nvuelve, ¿entendido?"
+        "es-ES": "[Markie]\n¿Prepararte...?\nEstá bien.\nTómate tu\ntiempo, ¿por qué no?\nPero date prisa y\nvuelve, ¿entendido?"
     },
     "awmwBg": {
         "en-US": "[Markie]\nListen carefully, and\npick the right answer.\nCapish? Now, lemme\nread these questions...",
         "pt-BR": "[Marty]\nOuça com atenção e\nescolha a resposta certa.\nSacou? Agora, vou\nler as perguntas...",
-        "es-ES": "[Markie]\nEscucha con atención y\nelige la respuesta correcta.\n¿Entendido? Bien, déjame\nleer estas preguntas…"
+        "es-ES": "[Markie]\nEscucha con atención y\nelige la respuesta correcta.\n¿Entendido? Bien, déjame\nleer estas preguntas..."
     },
     "bAmwBg": {
         "en-US": "[Markie]\n1. Choose the skill necessary for learning ^880000Stalk^000000.",
@@ -947,7 +947,7 @@
     "/QmwBg": {
         "en-US": "[Markie]\nLet's see.\nYou got...\n{0} points.",
         "pt-BR": "[Marty]\nVamos ver.\nVocê conseguiu...\n{0} pontos.",
-        "es-ES": "[Markie]\nVeamos.\nObtuviste…\n{0}puntos."
+        "es-ES": "[Markie]\nVeamos.\nObtuviste...\n{0}puntos."
     },
     "/gmwBg": {
         "en-US": "Good. You passed.\nWe don't gotta\ndo that again.",
@@ -962,12 +962,12 @@
     "AAqwBg": {
         "en-US": "[Markie]\nSo...\nGo find Smith and finish up this test, yeah? Be careful though, Smith's a pretty anal guy.",
         "pt-BR": "[Marty]\nEntão...\nEncontre Smith e conclua o teste, ok? Mas tenha cuidado. Smith é um cara muito chato.",
-        "es-ES": "[Markie]\nAsí que…\nVe a buscar a Smith y termina esta prueba, ¿sí? Pero ten cuidado, Smith es un tipo bastante obsesivo."
+        "es-ES": "[Markie]\nAsí que...\nVe a buscar a Smith y termina esta prueba, ¿sí? Pero ten cuidado, Smith es un tipo bastante obsesivo."
     },
     "AQqwBg": {
         "en-US": "Aw crud... You failed!",
         "pt-BR": "Ah, droga... Você falhou!",
-        "es-ES": "Oh, rayos… ¡No pasaste!"
+        "es-ES": "Oh, rayos... ¡No pasaste!"
     },
     "AgqwBg": {
         "en-US": "[Markie]\nMan, you shoulda learned more when you had the chance. Thanks for wasting my time.",
@@ -977,7 +977,7 @@
     "AwqwBg": {
         "en-US": "[Markie]\n*Sigh...* Lemme give you some tips, yeah? I'm supposed to tell you about some kind of ^990000iro.ragnarokonline.com^000000 to help you learn what you need to know.",
         "pt-BR": "[Marty]\n*Suspiro...* Com o tempo, você aprenderá mais e mais.\nDevo lhe contar sobre algum tipo de ^990000ro.gnjoylatam.com^000000 para ajudá-lo a aprender o que você precisa saber.",
-        "es-ES": "[Markie]\n*Suspira…* Déjame darte algunos consejos, ¿sí? Se supone que debo contarte de algo como ^990000ro.gnjoylatam.com^000000 para ayudarte a aprender lo que necesitas saber."
+        "es-ES": "[Markie]\n*Suspira...* Déjame darte algunos consejos, ¿sí? Se supone que debo contarte de algo como ^990000ro.gnjoylatam.com^000000 para ayudarte a aprender lo que necesitas saber."
     },
     "BAqwBg": {
         "en-US": "[Markie]\nOf course, I don't know what the heck it means, but if you understand it, it'll probably help you out a lot.",
@@ -992,17 +992,17 @@
     "BgqwBg": {
         "en-US": "[Rogue Guildsman]\nHuh...?\nWhat's an Assassin doin' here? Uh, you haven't been assigned to kill someone in the Rogue Guild, are you?",
         "pt-BR": "[Arruaceira da Guilda]\nHã...?\nO que um Mercenário está fazendo aqui? Uh, você não foi designado a matar alguém na Guilda dos Arruaceiros, né?",
-        "es-ES": "[Pícaro del gremio]\n¿Eh…?\n¿Qué hace aquí un Asesino? No te asignaron matar a alguien del gremio de Pícaros, ¿verdad?"
+        "es-ES": "[Pícaro del gremio]\n¿Eh...?\n¿Qué hace aquí un Asesino? No te asignaron matar a alguien del gremio de Pícaros, ¿verdad?"
     },
     "BwqwBg": {
         "en-US": "[Rogue Guildsman]\nIn any case, don't mess with us! You can't catch me... I'm a smooth criminal!",
         "pt-BR": "[Arruaceira da Guilda]\nSeja como for, não mexa conosco! Você não pode me alcançar... Sou uma criminosa esperta!",
-        "es-ES": "[Pícaro del gremio]\nEn todo caso, ¡no te metas con nosotros! No puedes atraparme… ¡Soy un hábil criminal!"
+        "es-ES": "[Pícaro del gremio]\nEn todo caso, ¡no te metas con nosotros! No puedes atraparme... ¡Soy un hábil criminal!"
     },
     "CAqwBg": {
         "en-US": "[Rogue Guildsman]\nDon't get it, huh? It's something I always used to say to Huey. If you're in the Assassin Guild, you oughta have met him...",
         "pt-BR": "[Arruaceira da Guilda]\nNão entendeu, né? É o que eu costumava dizer para o Huey. Se você está na Guilda dos Mercenários, deve tê-lo conhecido...",
-        "es-ES": "[Pícaro del gremio]\n¿No lo entiendes? Es algo que siempre le decía a Huey. Si estás en el gremio de Asesinos, deberías saber de quién hablo…"
+        "es-ES": "[Pícaro del gremio]\n¿No lo entiendes? Es algo que siempre le decía a Huey. Si estás en el gremio de Asesinos, deberías saber de quién hablo..."
     },
     "CQqwBg": {
         "en-US": "[Markie]\nHey hey~\nLong time no see.\nEh, right now we don't\nany requests from the\nguild for you, so just\ncheck back again later.",
@@ -1012,7 +1012,7 @@
     "CgqwBg": {
         "en-US": "[Rogue Guildsman]\nHey you...\nGet your ugly\nass out of here\nbefore I redecorate\nthat face of yours!",
         "pt-BR": "[Arruaceira da Guilda]\nEi, você...\nLeve essa cara\nfeia para longe daqui\nantes que eu faça\numa plástica em você!",
-        "es-ES": "[Pícaro del gremio]\nOye, tú…\n¡Saca tu feo\ntrasero de aquí\nantes de que te arregle\nese rostro que tienes!"
+        "es-ES": "[Pícaro del gremio]\nOye, tú...\n¡Saca tu feo\ntrasero de aquí\nantes de que te arregle\nese rostro que tienes!"
     },
     "CwqwBg": {
         "en-US": "Mr. Smith",
@@ -1027,7 +1027,7 @@
     "DQqwBg": {
         "en-US": "[Mr. Smith]\nBefore we get started,\nI want you to know\nabout something...",
         "pt-BR": "[Smithrato]\nAntes de começarmos,\nquero que você saiba\numa coisa...",
-        "es-ES": "[Sr. Smith]\nAntes de empezar,\nQuiero que sepas\nalgo…"
+        "es-ES": "[Sr. Smith]\nAntes de empezar,\nQuiero que sepas\nalgo..."
     },
     "DgqwBg": {
         "en-US": "[Mr. Smith]\nAll new Rogues are required to pay an application fee, so I hope you take care of that first.",
@@ -1052,7 +1052,7 @@
     "EgqwBg": {
         "en-US": "[Mr. Smith]\nHmm...?\nWhat was that?\nDid you just say that\nyou're willing to donate\nmore for the guild?",
         "pt-BR": "[Smithrato]\nHumm...?\nO que foi?\nVocê disse que\nestá disposto a doar\nmais dinheiro para a guilda?",
-        "es-ES": "[Sr. Smith]\n¿Mmm…?\n¿Qué fue eso?\n¿Acabas de decir que\nquieres donar\nmás para el gremio?"
+        "es-ES": "[Sr. Smith]\n¿Mmm...?\n¿Qué fue eso?\n¿Acabas de decir que\nquieres donar\nmás para el gremio?"
     },
     "EwqwBg": {
         "en-US": "[Mr. Smith]\nThat sounds sweet,\nI appreciate that.\nBut come back when\nyou're ready.",
@@ -1072,22 +1072,22 @@
     "FgqwBg": {
         "en-US": "[Mr. Smith]\nI will let you know...",
         "pt-BR": "[Smithrato]\nVocê vai saber...",
-        "es-ES": "[Sr. Smith]\nTe lo diré…"
+        "es-ES": "[Sr. Smith]\nTe lo diré..."
     },
     "FwqwBg": {
         "en-US": "[Mr. Smith]\nI will let you know......",
         "pt-BR": "[Smithrato]\nVocê vai saber...",
-        "es-ES": "[Sr. Smith]\nTe lo diré……"
+        "es-ES": "[Sr. Smith]\nTe lo diré......"
     },
     "GAqwBg": {
         "en-US": "[Mr. Smith]\nI will let you know........\nBy the way.....",
         "pt-BR": "[Smithrato]\nVocê vai saber...\nFalando nisso...",
-        "es-ES": "[Sr. Smith]\nTe lo diré………\nPor cierto…"
+        "es-ES": "[Sr. Smith]\nTe lo diré.........\nPor cierto..."
     },
     "GQqwBg": {
         "en-US": "[Mr. Smith]\nOh man...\nThis is...\nDamn...\nAnnoying!",
         "pt-BR": "[Smithrato]\nOh, cara...\nIsso é...\nDroga...\nUma chatice!",
-        "es-ES": "[Sr. Smith]\nVaya…\nEsto es…\nMaldita sea…\n¡Qué molesto!"
+        "es-ES": "[Sr. Smith]\nVaya...\nEsto es...\nMaldita sea...\n¡Qué molesto!"
     },
     "GgqwBg": {
         "en-US": "[Mr. Smith]\n...",
@@ -1137,12 +1137,12 @@
     "IwqwBg": {
         "en-US": "[Mr. Smith]\nThat dipshit who just tried to change his job, the one before you...",
         "pt-BR": "[Smithrato]\nAquele babaca que acabou de tentar mudar de classe, aquele antes de você...",
-        "es-ES": "[Sr. Smith]\nEse imbécil que acaba de intentar cambiar de clase, el que vino antes de ti…"
+        "es-ES": "[Sr. Smith]\nEse imbécil que acaba de intentar cambiar de clase, el que vino antes de ti..."
     },
     "JAqwBg": {
         "en-US": "That dipshit who just tried to change his job, the one before you...",
         "pt-BR": "Aquele babaca que acabou de tentar mudar de classe, aquele antes de você...",
-        "es-ES": "Ese imbécil que acaba de intentar cambiar de clase, el que vino antes de ti…"
+        "es-ES": "Ese imbécil que acaba de intentar cambiar de clase, el que vino antes de ti..."
     },
     "JQqwBg": {
         "en-US": "You know what the f#@k he talked to me about?!?",
@@ -1167,27 +1167,27 @@
     "KQqwBg": {
         "en-US": "[Mr. Smith]\nWhat the--?! What's with this chat filter?! Stop #*!@$ing me! you stupid F#$%*! Let me talk!!!",
         "pt-BR": "[Smithrato]\nMas o quê...? Para que este filtro de conversa?? Chega! Me deixa $#@&! falar!!!!!!",
-        "es-ES": "[Sr. Smith]\n¡¿Pero qué…?! ¡¿Qué pasa con este filtro de chat?! ¡Deja de j#*!@$me! ¡Estúpido #$%*! ¡Déjame hablar!"
+        "es-ES": "[Sr. Smith]\n¡¿Pero qué...?! ¡¿Qué pasa con este filtro de chat?! ¡Deja de j#*!@$me! ¡Estúpido #$%*! ¡Déjame hablar!"
     },
     "KgqwBg": {
         "en-US": "What the--?! What's with this chat filter?! Stop #*!@$ing me! you stupid F#$%*! Let me talk!!!",
         "pt-BR": "Mas o quê...? Para que este filtro de conversa?? Chega! Me deixa $#@&! falar!!!",
-        "es-ES": "¡¿Pero qué…?! ¡¿Qué pasa con este filtro de chat?! ¡Deja de j#*!@$me! ¡Estúpido #$%*! ¡Déjame hablar!"
+        "es-ES": "¡¿Pero qué...?! ¡¿Qué pasa con este filtro de chat?! ¡Deja de j#*!@$me! ¡Estúpido #$%*! ¡Déjame hablar!"
     },
     "KwqwBg": {
         "en-US": "[Mr. Smith]\nWhat the f#@k you looking at...? {0}? That's your name!?",
         "pt-BR": "[Smithrato]\nDo que está olhando...? {0}? Esse é o seu nome??",
-        "es-ES": "[Sr. Smith]\n¿Qué m#@a estás mirando…? ¿{0}? ¿¡Ese es tu nombre!?"
+        "es-ES": "[Sr. Smith]\n¿Qué m#@a estás mirando...? ¿{0}? ¿¡Ese es tu nombre!?"
     },
     "LAqwBg": {
         "en-US": "What the f#@k you looking at...? {0}? That's your name!?",
         "pt-BR": "Do que está olhando...? {0}? Esse é o seu nome??",
-        "es-ES": "¿Qué m#@a estás mirando…? ¿{0}? ¿¡Ese es tu nombre!?"
+        "es-ES": "¿Qué m#@a estás mirando...? ¿{0}? ¿¡Ese es tu nombre!?"
     },
     "LQqwBg": {
         "en-US": "[{0}]\nUmm...\nSir...?\nI didn't mean to make you upset. I just came here to so I could become a Rogue.",
         "pt-BR": "[{0}]\nHumm...\nSenhor...?\nNão quis deixar você chateado. Eu só vim aqui para me tornar um Templário.",
-        "es-ES": "[{0}]\nMmm…\n¿Señor…?\nNo era mi intención molestarlo. Solo vine aquí para poder convertirme en Pícaro."
+        "es-ES": "[{0}]\nMmm...\n¿Señor...?\nNo era mi intención molestarlo. Solo vine aquí para poder convertirme en Pícaro."
     },
     "LgqwBg": {
         "en-US": "[Mr. Smith]\nHoly shit on a stick, what the f#$k was I just f!#king talking about, you moron!",
@@ -1222,7 +1222,7 @@
     "NAqwBg": {
         "en-US": "[Mr. Smith]\nYour application fee... ^FF000010,000 zeny^000000!!",
         "pt-BR": "[Smithrato]\nA sua taxa de inscrição é... ^FF000010.000 Zenys^000000!!",
-        "es-ES": "[Sr.Smith]\n¡Tu cuota de inscripción es… ^FF000010000 zeny^000000!"
+        "es-ES": "[Sr.Smith]\n¡Tu cuota de inscripción es... ^FF000010000 zeny^000000!"
     },
     "NQqwBg": {
         "en-US": "[Mr. Smith]\n^FF00005 Crysalis^000000!\n^FF00005 Empty Bottle^000000!\n^FF00005 Iron Ore^000000!\n^FF00005 Stone Heart^000000!!",
@@ -1277,37 +1277,37 @@
     "PwqwBg": {
         "en-US": "[Mr. Smith]\nThree thousand, two hundred seventy two. Three thousand, two hundred seventy three. Three thousand, two hundred seventy four...",
         "pt-BR": "[Smithrato]\nTrês mil, duzentos e setenta dois. Três mil, duzentos e setenta três. Três mil, duzentos e setenta quatro...",
-        "es-ES": "[Sr. Smith]\nTres mil doscientos setenta y dos. Tres mil doscientos setenta y tres. Tres mil doscientos setenta y cuatro…"
+        "es-ES": "[Sr. Smith]\nTres mil doscientos setenta y dos. Tres mil doscientos setenta y tres. Tres mil doscientos setenta y cuatro..."
     },
     "QAqwBg": {
         "en-US": "[Mr. Smith]\nUhh...\nHeadache...\nThis is too much\nzeny to count.",
         "pt-BR": "[Smithrato]\nHum...\nQue dor de cabeça...\nHá muitos\nZenys para contar.",
-        "es-ES": "[Sr. Smith]\nAhh…\nQué dolor de cabeza…\nEsto es demasiado\nzeny para contar."
+        "es-ES": "[Sr. Smith]\nAhh...\nQué dolor de cabeza...\nEsto es demasiado\nzeny para contar."
     },
     "QQqwBg": {
         "en-US": "[Mr. Smith]\nUh...?\nWhat are you doing here? If you're going to talk about the job change, you need to speak to the other guy first.",
         "pt-BR": "[Smithrato]\nHumm...?\nO que está fazendo aqui? Se vai falar sobre a mudança de classe, precisa conversar com o outro cara primeiro.",
-        "es-ES": "[Sr. Smith]\n¿Eh…?\n¿Qué haces aquí? Si es sobre el cambio de clase, primero, tienes que hablar con el otro tipo."
+        "es-ES": "[Sr. Smith]\n¿Eh...?\n¿Qué haces aquí? Si es sobre el cambio de clase, primero, tienes que hablar con el otro tipo."
     },
     "QgqwBg": {
         "en-US": "[Mr. Smith]\n...Shit!\nI lost count!",
         "pt-BR": "[Smithrato]\n... Droga!\nPerdi a conta!",
-        "es-ES": "[Sr. Smith]\n…¡Rayos!\n¡Perdí la cuenta!"
+        "es-ES": "[Sr. Smith]\n...¡Rayos!\n¡Perdí la cuenta!"
     },
     "QwqwBg": {
         "en-US": "[Mr. Smith]\nOkay, we've got the application fee, ^FF000010,000 zeny^000000, 10 Skel-Bone, 6 Blue Herb, 10 Decayed Nail and 10 Horrendous Mouth...",
         "pt-BR": "[Smithrato]\nCerto, temos a taxa de inscrição, ^FF000010.000 Zenys^000000, 10 Ossos, 6 Ervas Azuis, 10 Unhas Apodrecidas e 10 Mandíbulas Horrendas...",
-        "es-ES": "[Sr.Smith]\nBien, tenemos la cuota de inscripción, ^FF000010000 zeny^000000, 10 Huesos de esqueleto, 6 Hierbas azules, 10 Uñas descompuestas y 10Mandíbulas horribles…"
+        "es-ES": "[Sr.Smith]\nBien, tenemos la cuota de inscripción, ^FF000010000 zeny^000000, 10 Huesos de esqueleto, 6 Hierbas azules, 10 Uñas descompuestas y 10Mandíbulas horribles..."
     },
     "RAqwBg": {
         "en-US": "[Mr. Smith]\nGreat, great...\nI think you\nbrought everything.",
         "pt-BR": "[Smithrato]\nÓtimo, ótimo...\nEu acho que você \ntrouxe tudo.",
-        "es-ES": "[Sr. Smith]\nGenial, genial…\nCreo que\ntrajiste todo."
+        "es-ES": "[Sr. Smith]\nGenial, genial...\nCreo que\ntrajiste todo."
     },
     "RQqwBg": {
         "en-US": "[Mr. Smith]\nAlright, wait just a moment while\nI prepare these things. Let's see... Your next test is...",
         "pt-BR": "[Smithrato]\nCerto, espere um minuto, enquanto\npreparo essas coisas. Vejamos... Seu próximo teste é...",
-        "es-ES": "[Sr. Smith]\nMuy bien, espera un momento mientras\npreparo estas cosas. Veamos… Tu próxima prueba es…"
+        "es-ES": "[Sr. Smith]\nMuy bien, espera un momento mientras\npreparo estas cosas. Veamos... Tu próxima prueba es..."
     },
     "RgqwBg": {
         "en-US": "[Mr. Smith]\nWhat the f$@k!? You didn't bring all the required items?! Are you telling me that you need to check the requirements again!?",
@@ -1317,7 +1317,7 @@
     "RwqwBg": {
         "en-US": "[Mr. Smith]\nNow listen...!\nBring ^FF000010,000 zeny^000000,\nand the following items...",
         "pt-BR": "[Smithrato]\nAgora escute...!\nTraga ^FF000010.000 Zenys^000000\ne os seguintes itens...",
-        "es-ES": "[Sr.Smith]\n¡Ahora, escucha…!\nTrae ^FF000010000 zeny^000000,\ny los siguientes objetos…"
+        "es-ES": "[Sr.Smith]\n¡Ahora, escucha...!\nTrae ^FF000010000 zeny^000000,\ny los siguientes objetos..."
     },
     "SAqwBg": {
         "en-US": "[Mr. Smith]\n^FF000010 Skel-bone^000000,\n^FF00006 Blue Herb^000000,\n^FF000010 Decayed Nail^000000, and\n^FF000010 Horrendous Mouth^000000.\nYou got it this time?",
@@ -1332,7 +1332,7 @@
     "SgqwBg": {
         "en-US": "[Mr. Smith]\nAlright, wait just a moment while I prepare these things. Let's see... Your next test is...",
         "pt-BR": "[Smithrato]\nCerto, espere um minuto, enquanto preparo essas coisas. Vejamos... Seu próximo teste é...",
-        "es-ES": "[Sr. Smith]\nMuy bien, espera un momento mientras preparo estas cosas. Veamos… Tu próxima prueba es…"
+        "es-ES": "[Sr. Smith]\nMuy bien, espera un momento mientras preparo estas cosas. Veamos... Tu próxima prueba es..."
     },
     "SwqwBg": {
         "en-US": "[Mr. Smith]\n^FF000010 Green Herb^000000,\n^FF000010 Crab Shell^000000,\n^FF000010 Snake Scale^000000 and\n^FF000010 Garlet^000000.\nDon't forget this time!",
@@ -1352,12 +1352,12 @@
     "TgqwBg": {
         "en-US": "[Mr. Smith]\nUmmm...let's see...",
         "pt-BR": "[Smithrato]\nHummm... vamos ver...",
-        "es-ES": "[Sr. Smith]\nMmm… veamos…"
+        "es-ES": "[Sr. Smith]\nMmm... veamos..."
     },
     "TwqwBg": {
         "en-US": "[Mr. Smith]\nWow, you've brought each and every single thing I asked you to. Good work... I salute you.",
         "pt-BR": "[Smithrato]\nUau, você trouxe tudo o que eu pedi. Bom trabalho... Parabéns.",
-        "es-ES": "[Sr. Smith]\nVaya, trajiste cada una de las cosas que te pedí. Buen trabajo… Te felicito."
+        "es-ES": "[Sr. Smith]\nVaya, trajiste cada una de las cosas que te pedí. Buen trabajo... Te felicito."
     },
     "UAqwBg": {
         "en-US": "^CCCCCC- Middle Finger -^000000'\n*Grins*",
@@ -1372,22 +1372,22 @@
     "UgqwBg": {
         "en-US": "[Mr. Smith]\nBut I'm sure you'll be a great asset to the Rogue Guild. Hmm, I don't have a blank piece of paper right now, so take this instead...",
         "pt-BR": "[Smithrato]\nMas tenho certeza de que você será ótimo para a Guilda dos Arruaceiros. Humm, eu não tenho um pedaço de papel, então leve isto no lugar...",
-        "es-ES": "[Sr. Smith]\nPero estoy seguro de que serás un gran recurso para el gremio de Pícaros. Mmm, no tengo una hoja de papel en blanco, así que mejor toma esto…"
+        "es-ES": "[Sr. Smith]\nPero estoy seguro de que serás un gran recurso para el gremio de Pícaros. Mmm, no tengo una hoja de papel en blanco, así que mejor toma esto..."
     },
     "UwqwBg": {
         "en-US": "[Mr. Smith]\n*Sigh...*\nI know, I know. I'm supposed to control myself in the work place. Getting enraged is a bad habit...",
         "pt-BR": "[Smithrato]\n*Suspiro...*\nEu sei, eu sei. Eu deveria me comportar no meu local de trabalho. Ficar nervoso é um péssimo hábito...",
-        "es-ES": "[Sr. Smith]\n*Suspira…*\nLo sé, lo sé. Se supone que debo controlarme en el trabajo. Enojarse es una mala costumbre…"
+        "es-ES": "[Sr. Smith]\n*Suspira...*\nLo sé, lo sé. Se supone que debo controlarme en el trabajo. Enojarse es una mala costumbre..."
     },
     "VAqwBg": {
         "en-US": "[Mr. Smith]\n*Mumble mumble...*\nHow was I... *Mumble...*\nHow did... I remember...\n*Sigh* It was all because of my bad temper!",
         "pt-BR": "[Smithrato]\n*Resmunga Resmunga*\nComo eu estava... *Resmunga*\nComo... Eu me lembro...\n*Suspiro* Tudo por causa do meu mau temperamento!",
-        "es-ES": "[Sr. Smith]\n*Murmura…*\n¿Cómo yo…? *Murmura…*\n¿Cómo…? Recuerdo…\n*Suspira* ¡Todo fue por mi mal genio!"
+        "es-ES": "[Sr. Smith]\n*Murmura...*\n¿Cómo yo...? *Murmura...*\n¿Cómo...? Recuerdo...\n*Suspira* ¡Todo fue por mi mal genio!"
     },
     "VQqwBg": {
         "en-US": "[Mr. Smith]\nWah....!!!",
         "pt-BR": "[Smithrato]\nUah...!!!",
-        "es-ES": "[Sr. Smith]\n¡Bua…!"
+        "es-ES": "[Sr. Smith]\n¡Bua...!"
     },
     "VgqwBg": {
         "en-US": "^3355FFIt might be a better\nidea to come back later.^000000",
@@ -1417,7 +1417,7 @@
     "WwqwBg": {
         "en-US": "[Mr. Smith]\nLet me see...\nWho would should\nI send you to...?",
         "pt-BR": "[Smithrato]\nDeixe-me ver...\nPara quem devo\nmandar você...?",
-        "es-ES": "[Sr. Smith]\nDéjame ver…\n¿A quién debería\nenviarte…?"
+        "es-ES": "[Sr. Smith]\nDéjame ver...\n¿A quién debería\nenviarte...?"
     },
     "XAqwBg": {
         "en-US": "[Mr. Smith]\nRight! I know\njust the guy~!",
@@ -1457,12 +1457,12 @@
     "YwqwBg": {
         "en-US": "[Mr. Smith]\nWell, I will wish you luck. His place isn't that far from here, so come back as soon as possible. Being swift... That is the spirit of the Rogue.",
         "pt-BR": "[Smithrato]\nBem, eu lhe desejo boa sorte. A casa dele não é longe daqui, então volte o mais rápido possível. Rapidez... essa é a qualidade dos Arruaceiros.",
-        "es-ES": "[Sr. Smith]\nBueno, te deseo suerte. Su casa no está muy lejos de aquí, así que vuelve cuanto antes. Ser rápido… Ese es el espíritu de los Pícaros."
+        "es-ES": "[Sr. Smith]\nBueno, te deseo suerte. Su casa no está muy lejos de aquí, así que vuelve cuanto antes. Ser rápido... Ese es el espíritu de los Pícaros."
     },
     "ZAqwBg": {
         "en-US": "[Mr. Smith]\nHmm...\nThis guy might be\ngood for you, but...\nHe's a little dangerous.",
         "pt-BR": "[Smithrato]\nHumm...\nEste cara vai ser\nbom para você, mas...\nele é meio perigoso.",
-        "es-ES": "[Sr. Smith]\nMmm…\nEste tipo podría ser\nbueno para ti, pero…\nEs un poco peligroso."
+        "es-ES": "[Sr. Smith]\nMmm...\nEste tipo podría ser\nbueno para ti, pero...\nEs un poco peligroso."
     },
     "ZQqwBg": {
         "en-US": "[Mr. Smith]\nI want you to meet Antonio Junior, son of Antonio the first. For some reason people have been trying to kill him because of something his father did in the past.",
@@ -1477,7 +1477,7 @@
     "ZwqwBg": {
         "en-US": "[Mr. Smith]\nI've heard lately that he's been complaining a lot about the noise outside of his house, and he fears an assassination attempt. Anyway...",
         "pt-BR": "[Smithrato]\nOuvi dizer que ele anda reclamando muito sobre o barulho do lado de fora da casa. Ele teme que seja uma tentativa de assassinato. De qualquer forma...",
-        "es-ES": "[Sr. Smith]\nOí que últimamente se queja mucho del ruido que hay fuera de su casa y teme un intento de asesinato. En fin…"
+        "es-ES": "[Sr. Smith]\nOí que últimamente se queja mucho del ruido que hay fuera de su casa y teme un intento de asesinato. En fin..."
     },
     "aAqwBg": {
         "en-US": "[Mr. Smith]\nHe's kind of tense, so he throws a dagger at anyone who approches his house. He has a violent personality.",
@@ -1517,7 +1517,7 @@
     "bwqwBg": {
         "en-US": "[Mr. Smith]\nAlright... Now that I've calmed down, I can inform you of your next destination. *Whew*",
         "pt-BR": "[Smithrato]\nCerto... Agora que estou mais calmo, posso informar o seu próximo destino. *Ufa*",
-        "es-ES": "[Sr. Smith]\nMuy bien… Ahora que ya me calmé, puedo indicarte tu próximo destino. *Fiu*"
+        "es-ES": "[Sr. Smith]\nMuy bien... Ahora que ya me calmé, puedo indicarte tu próximo destino. *Fiu*"
     },
     "cAqwBg": {
         "en-US": "[Mr. Smith]\nGo and find Hermanthorn Junior, who is living near the ^0000FFthe checkpoint of Paros Lighthouse^000000, which is at the border between Morroc and Comodo.",
@@ -1527,12 +1527,12 @@
     "cQqwBg": {
         "en-US": "[Mr. Smith]\nAh...almost forgot, keep in mind not to mention anything about upgrading items. This is very important.",
         "pt-BR": "[Smithrato]\nAh... quase esqueci: lembre-se de não falar nada sobre itens de aprimoramento. Isso é muito importante.",
-        "es-ES": "[Sr. Smith]\nAh… casi lo olvido, recuerda no mencionar nada sobre la mejora de objetos. Es muy importante."
+        "es-ES": "[Sr. Smith]\nAh... casi lo olvido, recuerda no mencionar nada sobre la mejora de objetos. Es muy importante."
     },
     "cgqwBg": {
         "en-US": "[Mr. Smith]\nWhat...?\nDid you just\nsay that you\nforgot where to go?",
         "pt-BR": "[Smithrato]\nQuê...?\nVocê acabou de\ndizer que\nesqueceu para onde deve ir?",
-        "es-ES": "[Sr. Smith]\n¿Qué…?\n¿Acabas de\ndecir que\nolvidaste adónde ir?"
+        "es-ES": "[Sr. Smith]\n¿Qué...?\n¿Acabas de\ndecir que\nolvidaste adónde ir?"
     },
     "cwqwBg": {
         "en-US": "[Mr. Smith]\nHead one field East and enter the building that is South of the Sandarman Fortress to meet Aragham Junior.",
@@ -1562,7 +1562,7 @@
     "eAqwBg": {
         "en-US": "[Mr. Smith]\nHmmm...?\nDon't you have\nto go somewhere\nelse to complete\nyour Rogue training?",
         "pt-BR": "[Smithrato]\nHummm...?\nVocê não tem\nde ir para algum lugar\npara concluir\no seu treinamento como Arruaceiro?",
-        "es-ES": "[Sr. Smith]\n¿Mmm…?\n¿No tienes\nque ir a otro lugar\npara completar\ntu entrenamiento de Pícaro?"
+        "es-ES": "[Sr. Smith]\n¿Mmm...?\n¿No tienes\nque ir a otro lugar\npara completar\ntu entrenamiento de Pícaro?"
     },
     "eQqwBg": {
         "en-US": "[???]\nWho's there?!\nWho would dare\nintrude my territory?",
@@ -1747,7 +1747,7 @@
     "nQqwBg": {
         "en-US": "[???]\nWhat the...?\nGet lost!",
         "pt-BR": "[???]\nMas quê...?\nSuma daqui!",
-        "es-ES": "[¿¿¿???]\n¿Pero qué…?\n¡Sal de aquí!"
+        "es-ES": "[¿¿¿???]\n¿Pero qué...?\n¡Sal de aquí!"
     },
     "ngqwBg": {
         "en-US": "takes",
@@ -1932,7 +1932,7 @@
     "wgqwBg": {
         "en-US": "[HermanthornJr.]\nI see...\nYou must be from\nthe Rogue guild.\nYou must be one of the\nones Mr. Smith wasn't\ntoo happy with...",
         "pt-BR": "[Hermanthorn Jr]\nEntendo...\nVocê deve ser\nda Guilda dos Arruaceiros.\nVocê deve ser um daqueles\ncom quem o Sr. Smith não estava\nmuito feliz...",
-        "es-ES": "[Hermanthorn Jr.]\nYa veo…\nDebes ser de\nal gremio de Pícaros.\nDebes ser uno de los\nque el Sr. Smith no estaba\nfeliz de ver…"
+        "es-ES": "[Hermanthorn Jr.]\nYa veo...\nDebes ser de\nal gremio de Pícaros.\nDebes ser uno de los\nque el Sr. Smith no estaba\nfeliz de ver..."
     },
     "wwqwBg": {
         "en-US": "[HermanthornJr.]\nHe threw a fit and you brought him all the items he asked for, didn't you? Well, I can see that you're still pretty naive. Hahaha~",
@@ -1962,12 +1962,12 @@
     "yAqwBg": {
         "en-US": "[HermanthornJr.]\nA bunch of pricks have been throwing Dead Branches and casting Hocus Pocus all over the place...",
         "pt-BR": "[Hermanthorn Jr]\nUm bando de bagunceiros jogou Galhos Secos e lançaram Hocus Pocus por todo o lugar...",
-        "es-ES": "[Hermanthorn Jr.]\nUn montón de idiotas estuvieron usando Ramas secas y lanzando Abracadabra por todo el lugar…"
+        "es-ES": "[Hermanthorn Jr.]\nUn montón de idiotas estuvieron usando Ramas secas y lanzando Abracadabra por todo el lugar..."
     },
     "yQqwBg": {
         "en-US": "[HermanthornJr.]\nWell...\nJust make it back to the Rogue Guild alive. That's all you have to do!",
         "pt-BR": "[Hermanthorn Jr]\nBem...\nBasta voltar vivo para a Guilda dos Arruaceiros. É só isso o que você precisa fazer!",
-        "es-ES": "[Hermanthorn Jr.]\nBueno…\nSolo regresa al gremio de Pícaros con vida. ¡Eso es lo único que tienes que hacer!"
+        "es-ES": "[Hermanthorn Jr.]\nBueno...\nSolo regresa al gremio de Pícaros con vida. ¡Eso es lo único que tienes que hacer!"
     },
     "ygqwBg": {
         "en-US": "[HermanthornJr.]\nOh right. This is really important. You need a password to enter the tunnel. To unlock the door, the four number combination is ^0000FF3019^000000.",
@@ -1977,7 +1977,7 @@
     "ywqwBg": {
         "en-US": "[HermanthornJr.]\nHuh...?\nWhat the hell\nare you doing here.\nScram, why don't you?",
         "pt-BR": "[Hermanthorn Jr]\nHã...?\nO que diabos\nvocê está fazendo aqui?\nCaia fora.",
-        "es-ES": "[Hermanthorn Jr.]\n¿Eh…?\n¡¿Qué demonios\nestás haciendo aquí?\n¿Por qué no te largas?"
+        "es-ES": "[Hermanthorn Jr.]\n¿Eh...?\n¡¿Qué demonios\nestás haciendo aquí?\n¿Por qué no te largas?"
     },
     "zAqwBg": {
         "en-US": "^3355FFThe door is locked. You'll need to enter the four number combination to open it.^000000",
@@ -2012,7 +2012,7 @@
     "0gqwBg": {
         "en-US": "[HermanthornJr.]\nWell...\nDidn't I tell you\nthat I changed the\npassword? *Wink Wink*",
         "pt-BR": "[Hermanthorn Jr]\nBem...\nEu não lhe disse\nque mudei a\nsenha? *Pisca Pisca*",
-        "es-ES": "[Hermanthorn Jr.]\nBueno…\n¿No te lo dije\nque cambié la\ncontraseña? *Guiño*"
+        "es-ES": "[Hermanthorn Jr.]\nBueno...\n¿No te lo dije\nque cambié la\ncontraseña? *Guiño*"
     },
     "0wqwBg": {
         "en-US": "Zombie",
@@ -2037,7 +2037,7 @@
     "1wqwBg": {
         "en-US": "[Aragham Jr.]\nOh, you must be\nfrom the Rogue Guild...",
         "pt-BR": "[Aragham Jr.]\nOh, você deve ser\nda Guilda de Arruaceiros...",
-        "es-ES": "[Aragham Jr.]\nOh, debes ser\ndel gremio de Pícaros…"
+        "es-ES": "[Aragham Jr.]\nOh, debes ser\ndel gremio de Pícaros..."
     },
     "2AqwBg": {
         "en-US": "[Aragham Jr.]\nMy name is\nAragham Junior,\nRogue of the Desert.\nAre you ready to learn\nhow to be a Rogue?",
@@ -2052,7 +2052,7 @@
     "2gqwBg": {
         "en-US": "[Aragham Jr.]\nAvoid the strong!\nBe malicious to the weak!\nIt's a simple rule...",
         "pt-BR": "[Aragham Jr.]\nEvite os mais fortes!\nEngane os mais fracos!\nÉ uma regra simples...",
-        "es-ES": "[Aragham Jr.]\n¡Evita a los fuertes!\n¡Sé malicioso con los débiles!\nEs una regla simple…"
+        "es-ES": "[Aragham Jr.]\n¡Evita a los fuertes!\n¡Sé malicioso con los débiles!\nEs una regla simple..."
     },
     "2wqwBg": {
         "en-US": "[Aragham Jr.]\nNow, remember it as you go through ^0000FFthe Underground Tunnel^000000. Try to walk all the way to the Rogue Guild.",
@@ -2077,7 +2077,7 @@
     "3wqwBg": {
         "en-US": "[Aragham Jr.]\nAlright...\nGood luck, then.",
         "pt-BR": "[Aragham Jr.]\nCerto...\nBoa sorte.",
-        "es-ES": "[Aragham Jr.]\nMuy bien…\nBuena suerte."
+        "es-ES": "[Aragham Jr.]\nMuy bien...\nBuena suerte."
     },
     "4AqwBg": {
         "en-US": "[Aragham Jr.]\nFine, fine.\nTake your time\nand come back\nwhen you're ready.",
@@ -2087,7 +2087,7 @@
     "4QqwBg": {
         "en-US": "[Aragham Jr.]\nOh, you're back.\nI think you'll do well this time. Another motto Rogues have is '^0000FFFailure teaches success^000000.' Well, then again...",
         "pt-BR": "[Aragham Jr.]\nAh, você voltou.\nAcho que você vai se sair bem desta vez. Outro lema dos Arruaceiros é '^0000FFO fracasso ensina o sucesso^000000.' Bem, então, mais uma vez...",
-        "es-ES": "[Aragham Jr.]\nAh, volviste.\nCreo que esta vez lo harás bien. Otro lema de los Pícaros es: ^0000FFEl éxito se aprende del fracaso^000000. Bueno, entonces…"
+        "es-ES": "[Aragham Jr.]\nAh, volviste.\nCreo que esta vez lo harás bien. Otro lema de los Pícaros es: ^0000FFEl éxito se aprende del fracaso^000000. Bueno, entonces..."
     },
     "4gqwBg": {
         "en-US": "Re-Test",
@@ -2107,7 +2107,7 @@
     "5QqwBg": {
         "en-US": "[Aragham Jr.]\nHuh...?\nWho are you?!\nYou're not from\nthe Rogue Guild!!",
         "pt-BR": "[Aragham Jr.]\nHã...?\nQuem é você??\nVocê não é \nda Guilda dos Arruaceiros!!",
-        "es-ES": "[Aragham Jr.]\n¿Eh…?\n¡¿Quién eres?!\n¡No eres del\ngremio de Pícaros!"
+        "es-ES": "[Aragham Jr.]\n¿Eh...?\n¡¿Quién eres?!\n¡No eres del\ngremio de Pícaros!"
     },
     "5gqwBg": {
         "en-US": "[Aragham Jr.]\nYou've come here to kill me, haven't you? N-no! I'm can't die yet! Get lost! Otherwise, I'll kill you first!",
@@ -2117,7 +2117,7 @@
     "5wqwBg": {
         "en-US": "[Aragham Jr.]\nHey...\nwhat brings\nyou back here?\nWhy don't you\ntake a rest\nbefore you leave?",
         "pt-BR": "[Aragham Jr.]\nEi...\no que traz\nvocê de volta?\nPor que você não\ndescansa\nantes de partir?",
-        "es-ES": "[Aragham Jr.]\nOye…\n¿qué te trae\nde vuelta?\n¿Por qué no te\ndescansas\nantes de irte?"
+        "es-ES": "[Aragham Jr.]\nOye...\n¿qué te trae\nde vuelta?\n¿Por qué no te\ndescansas\nantes de irte?"
     },
     "6AqwBg": {
         "en-US": "Hollgrehenn junior",
@@ -2127,7 +2127,7 @@
     "6QqwBg": {
         "en-US": "[Hollgrehenn Jr.]\nHuh...\nFrom the\nRogue guild, huh?",
         "pt-BR": "[Holgrehen Jr.]\nUh...\nDa\nguilda dos Arruaceiros, hein?",
-        "es-ES": "[Hollgrehenn Jr.]\nMmm…\nDel\ngremio de Pícaros, ¿eh?"
+        "es-ES": "[Hollgrehenn Jr.]\nMmm...\nDel\ngremio de Pícaros, ¿eh?"
     },
     "6gqwBg": {
         "en-US": "[Hollgrehenn Jr.]\nI'm Hollgrehenn Junior. I tend to a lot of our underground business. So are you ready to take on my test?",
@@ -2182,22 +2182,22 @@
     "9AqwBg": {
         "en-US": "[Hollgrehenn Jr.]\nHuh...?\nYou're not from\nthe Rogue Guild...",
         "pt-BR": "[Holgrehen Jr.]\nHã...?\nVocê não é \nda Guilda dos Arruaceiros...",
-        "es-ES": "[Hollgrehenn Jr.]\n¿Eh…?\n¡No eres del\ngremio de Pícaros…"
+        "es-ES": "[Hollgrehenn Jr.]\n¿Eh...?\n¡No eres del\ngremio de Pícaros..."
     },
     "9QqwBg": {
         "en-US": "[Hollgrehenn Jr.]\nYou better get out\nof here right now\nif you know what's\ngood for you...",
         "pt-BR": "[Holgrehen Jr.]\nÉ melhor dar\no fora daqui agora mesmo,\nse souber o que é \nmelhor para você...",
-        "es-ES": "[Hollgrehenn Jr.]\nSerá mejor que te largues\nde aquí ahora mismo\nsi sabes lo que\nte conviene…"
+        "es-ES": "[Hollgrehenn Jr.]\nSerá mejor que te largues\nde aquí ahora mismo\nsi sabes lo que\nte conviene..."
     },
     "9gqwBg": {
         "en-US": "[Hollgrehenn Jr.]\nNow...\nBeat it before\nI change my mind\nabout killing you.",
         "pt-BR": "[Holgrehen Jr.]\nAgora...\ncaia fora antes\nque eu mude de ideia\nsobre matar você.",
-        "es-ES": "[Hollgrehenn Jr.]\nAhora…\nLárgate antes de\nque cambie de opinión\nsobre matarte."
+        "es-ES": "[Hollgrehenn Jr.]\nAhora...\nLárgate antes de\nque cambie de opinión\nsobre matarte."
     },
     "9wqwBg": {
         "en-US": "[Hollgrehenn Jr.]\nHey...\nCome to visit?\nWe Rogues gotta\nstick together, huh?",
         "pt-BR": "[Holgrehen Jr.]\nEi...\nVeio fazer uma visita?\nNós, Arruaceiros, precisamos\nficar unidos, né?",
-        "es-ES": "[Hollgrehenn Jr.]\nOye…\n¿Vienes de visita?\nLos Pícaros tenemos que\npermanecer unidos, ¿eh?"
+        "es-ES": "[Hollgrehenn Jr.]\nOye...\n¿Vienes de visita?\nLos Pícaros tenemos que\npermanecer unidos, ¿eh?"
     },
     "+AqwBg": {
         "en-US": "Antonio junior",
@@ -2242,7 +2242,7 @@
     "AAuwBg": {
         "en-US": "[Antonio Jr.]\nI hope you do\nnot fail this test\nYou can only become\na Rogue if you pass...",
         "pt-BR": "[Antônio Jr.]\nEspero que você não\nfalhe nesse teste.\nVocê só poderá se juntar \naos Arruaceiros se passar...",
-        "es-ES": "[Antonio Jr.]\nEspero que\nno falles en esta prueba.\nSolo puedes convertirte\nen Pícaro si apruebas…"
+        "es-ES": "[Antonio Jr.]\nEspero que\nno falles en esta prueba.\nSolo puedes convertirte\nen Pícaro si apruebas..."
     },
     "AQuwBg": {
         "en-US": "[Antonio Jr.]\nI don't have time\nto fool around with\nyou. Hurry up, get\nready, then take\nthe test.",
@@ -2252,7 +2252,7 @@
     "AguwBg": {
         "en-US": "[Antonio Jr.]\nYou failed...?\nI guess that's life.\nAre you gonna try\nagain or what?",
         "pt-BR": "[Antônio Jr.]\nVocê falhou...?\nA vida é assim.\nVai tentar\nde novo?",
-        "es-ES": "[Antonio Jr.]\n¿Fallaste…?\nSupongo que así es la vida.\n¿Lo intentarás\nde nuevo o qué?"
+        "es-ES": "[Antonio Jr.]\n¿Fallaste...?\nSupongo que así es la vida.\n¿Lo intentarás\nde nuevo o qué?"
     },
     "AwuwBg": {
         "en-US": "Re-test",
@@ -2262,12 +2262,12 @@
     "BAuwBg": {
         "en-US": "[Antonio Jr.]\nRemember, I'm doing\nyou a favor here...\nNow, don't come back\nuntil you're a Rogue.",
         "pt-BR": "[Antônio Jr.]\nLembre-se: \nestou fazendo um favor...\nNão volte enquanto não se\njuntar aos Arruaceiros.",
-        "es-ES": "[Antonio Jr.]\nRecuerda que te estoy haciendo\nun favor aquí…\nNo vuelvas\nhasta que seas Pícaro."
+        "es-ES": "[Antonio Jr.]\nRecuerda que te estoy haciendo\nun favor aquí...\nNo vuelvas\nhasta que seas Pícaro."
     },
     "BQuwBg": {
         "en-US": "Huh...?\nWho are you?!\nYou're not from\nthe Rogue Guild!!",
         "pt-BR": "Hã...?\nQuem é você?!\nVocê não é da\nGuilda dos Arruaceiros!!!",
-        "es-ES": "¿Eh…?\n¡¿Quién eres?!\n¡No eres del\ngremio de Pícaros!"
+        "es-ES": "¿Eh...?\n¡¿Quién eres?!\n¡No eres del\ngremio de Pícaros!"
     },
     "BguwBg": {
         "en-US": "[Antonio Jr.]\nYou've come here to kill me?! I won't let you!! Come on, give me your best shot! You can't fight if I rip out your eyes!",
@@ -2312,6 +2312,6 @@
     "DguwBg": {
         "en-US": "Oh, I see...\nLil' cutie wants\nto be a ^800000Rogue^000000.",
         "pt-BR": "Oh, entendo...\nA coisinha fofa quer \nser uma ^800000Arruaceira^000000.",
-        "es-ES": "Ah, ya veo…\nLa ternurita quiere \nser ^800000Pícaro^000000."
+        "es-ES": "Ah, ya veo...\nLa ternurita quiere \nser ^800000Pícaro^000000."
     }
 }

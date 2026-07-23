@@ -112,7 +112,7 @@
     "dhrnAg": {
         "en-US": "[Merito]\nYour name is... [{0}] Correct?",
         "pt-BR": "[Merito]\nEntão, você é [{0}].",
-        "es-ES": "[Merito]\nTu nombre es… [{0}] ¿Correcto?"
+        "es-ES": "[Merito]\nTu nombre es... [{0}] ¿Correcto?"
     },
     "dxrnAg": {
         "en-US": "[Merito]\nLet me register it first. Please talk to me again later.",
@@ -172,7 +172,7 @@
     "ghrnAg": {
         "en-US": "[Merito]\nShh! That knowledge is taboo! You can't speak it out loud--they'll make you disappear forever!",
         "pt-BR": "[Merito]\nQuê?? Como ousa!?!",
-        "es-ES": "[Merito]\n¡Shh! ¡Ese conocimiento es tabú! No puedes decirlo en voz alta… ¡Te harán desaparecer para siempre!"
+        "es-ES": "[Merito]\n¡Shh! ¡Ese conocimiento es tabú! No puedes decirlo en voz alta... ¡Te harán desaparecer para siempre!"
     },
     "gxrnAg": {
         "en-US": "[Merito]\nThat's right! Sorcerers are the most famous for their ability to commune with elemental spirits.",
@@ -282,7 +282,7 @@
     "mBrnAg": {
         "en-US": "[Karakas]\n...",
         "pt-BR": "[Karacas]\n....",
-        "es-ES": "[Karakas]\n…"
+        "es-ES": "[Karakas]\n..."
     },
     "mRrnAg": {
         "en-US": "Erm, hello.",
@@ -292,7 +292,7 @@
     "mhrnAg": {
         "en-US": "[Karakas]\n...Zzz...",
         "pt-BR": "[Karacas]\n... (Z z z~)",
-        "es-ES": "[Karakas]\n…Zzz…"
+        "es-ES": "[Karakas]\n...Zzz..."
     },
     "mxrnAg": {
         "en-US": "Ahem!",
@@ -317,12 +317,12 @@
     "nxrnAg": {
         "en-US": "[Karakas]\nAh, please give me a minute.\nYour information... It's already here.",
         "pt-BR": "[Karacas]\nEntendo, me dê um instante.\nA lista... já chegou.",
-        "es-ES": "[Karakas]\nAh, dame un minuto.\nTu información… ya está aquí."
+        "es-ES": "[Karakas]\nAh, dame un minuto.\nTu información... ya está aquí."
     },
     "oBrnAg": {
         "en-US": "[Karakas]\nYour name is... [{0}] Correct?",
         "pt-BR": "[Karacas]\nEntão, você é [{0}]... certo?",
-        "es-ES": "[Karakas]\nTu nombre es… [{0}]. ¿Correcto?"
+        "es-ES": "[Karakas]\nTu nombre es... [{0}]. ¿Correcto?"
     },
     "oRrnAg": {
         "en-US": "Yes.",
@@ -357,7 +357,7 @@
     "pxrnAg": {
         "en-US": "S-sir... Is that even possible?",
         "pt-BR": "Ahh... senhor. É realmente possível fazer isso?",
-        "es-ES": "Señor… ¿De verdad es eso posible?"
+        "es-ES": "Señor... ¿De verdad es eso posible?"
     },
     "qBrnAg": {
         "en-US": "[Karakas]\nOf course, it's impossible to meet all the elemental spirits in the world. You'll have to train for a long time to be able to materialize a spirit in front of you.",
@@ -492,7 +492,7 @@
     "whrnAg": {
         "en-US": "[Karakas]\nAh... In that case, you'll have to get some more and try again. That'll be troublesome, for sure.",
         "pt-BR": "[Karacas]\nAhahaha... Se as suas pedras elementais acabarem, você terá que conseguir mais.",
-        "es-ES": "[Karakas]\nAh… En ese caso, tendrás que conseguir más y volver a intentarlo. Eso sería un problema."
+        "es-ES": "[Karakas]\nAh... En ese caso, tendrás que conseguir más y volver a intentarlo. Eso sería un problema."
     },
     "wxrnAg": {
         "en-US": "[Karakas]\nUsually, the applicants carry as many elemental stones as they can to take the test. Those I asked for you are only the minimum amount.",

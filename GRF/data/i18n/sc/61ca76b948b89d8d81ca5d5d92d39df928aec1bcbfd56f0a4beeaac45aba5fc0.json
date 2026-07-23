@@ -1,0 +1,2602 @@
+{
+    "gEdsDQ": {
+        "en-US": "Venue Guide",
+        "pt-BR": "Guia do Local",
+        "es-ES": "Guía del Lugar"
+    },
+    "gUdsDQ": {
+        "en-US": "<Noodle Festival>",
+        "pt-BR": "<Festival do Macarrão>",
+        "es-ES": "<Festival de Fideos>"
+    },
+    "gkdsDQ": {
+        "en-US": "It's a hot summer that wears down both body and mind, isn't it? How about a delicious bowl of noodles?",
+        "pt-BR": "É um verão quente que desgasta tanto o corpo quanto a mente, não é? Que tal uma deliciosa tigela de macarrão?",
+        "es-ES": "Es un verano caluroso que agota el cuerpo y la mente, ¿verdad? ¿Qué tal un tazón de deliciosos fideos?"
+    },
+    "g0dsDQ": {
+        "en-US": "[Venue Guide]\nWelcome to Lasagna!",
+        "pt-BR": "[Guia do Local]\nBem-vindo a Lasagna!",
+        "es-ES": "[Guía del Lugar]\n¡Bienvenido a Lasagna!"
+    },
+    "hEdsDQ": {
+        "en-US": "[Venue Guide]\nAre you looking for the Noodle Festival grounds? Shall I guide you there?",
+        "pt-BR": "[Guia do Local]\nVocê está procurando pelo local do Festival do Macarrão? Gostaria de orientações?",
+        "es-ES": "[Guía del Lugar]\n¿Estás buscando el lugar del Festival de Fideos? \n¿Quieres que te guíe hasta allá?"
+    },
+    "hUdsDQ": {
+        "en-US": "Yes, please guide me.",
+        "pt-BR": "Sim, por favor, me guie.",
+        "es-ES": "Sí, por favor, guíame."
+    },
+    "hkdsDQ": {
+        "en-US": "I'm just looking around.",
+        "pt-BR": "Só estou dando uma olhada.",
+        "es-ES": "Solo estoy mirando."
+    },
+    "h0dsDQ": {
+        "en-US": "[Venue Guide]\nI'll mark the venue on your mini-map.",
+        "pt-BR": "[Guia do Local]\nVou marcar o local no seu mini-mapa.",
+        "es-ES": "[Guía del Lugar]\nMarcaré el lugar del evento en tu mapa."
+    },
+    "iEdsDQ": {
+        "en-US": "[Venue Guide]\nOnce you arrive at the venue, find the Festival Receptionist to register your participation.\nEnjoy your noodles today!! Noodles are the best! Noodles are the best!!",
+        "pt-BR": "[Guia do Local]\nAo chegar no local, procure o Recepcionista do Festival para registrar sua participação.\nAproveite seu macarrão hoje!! Macarrão é o máximo! Macarrão é o máximo!!",
+        "es-ES": "[Guía del Lugar]\nCuando llegues a la zona del evento, busca al personal del festival para registrar tu participación.\n¡Disfruta tus fideos hoy!! \n¡Los fideos son lo máximo! \n¡Los fideos son lo máximo!!"
+    },
+    "iUdsDQ": {
+        "en-US": "[Venue Guide]\nI see! Well, enjoy your time, and if you have a moment, please visit the Noodle Festival grounds!\nNoodles are the best! Noodles are the best!!",
+        "pt-BR": "[Guia do Local]\nEntendo! Bem, aproveite sua estadia e, se tiver um tempo, visite o local do Festival do Macarrão!\nMacarrão é demais! Macarrão é demais!!",
+        "es-ES": "[Guía del Lugar]\n¡Ya veo! \nBueno, disfruta tu tiempo y, si tienes un momento, ¡visita la zona del Festival de Fideos!\n¡Los fideos son lo máximo! \n¡Los fideos son lo máximo!!"
+    },
+    "ikdsDQ": {
+        "en-US": "Festival Receptionist",
+        "pt-BR": "Recepcionista do Festival",
+        "es-ES": "Recepcionista del Evento"
+    },
+    "i0dsDQ": {
+        "en-US": "Right now, right here, you! Enjoy the hot summer with delicious noodles! Sign up for the festival!",
+        "pt-BR": "Agora mesmo, aqui e agora, você! Aproveite o verão quente com um delicioso macarrão! Inscreva-se no festival!",
+        "es-ES": "¡Ahora mismo, aquí y ahora, tú! ¡Disfruta del verano caliente con unos deliciosos fideos! ¡Inscríbete en el festival!"
+    },
+    "jEdsDQ": {
+        "en-US": "Hot summer! Rise up with delicious noodles!",
+        "pt-BR": "Verão quente! Anime-se com um macarrão delicioso!",
+        "es-ES": "¡Verano caliente! ¡Anímate con unos deliciosos fideos!"
+    },
+    "jUdsDQ": {
+        "en-US": "You have too many items in your inventory to continue the conversation.\nPlease organize your items and try again.",
+        "pt-BR": "Você tem muitos itens no seu inventário para continuar a conversa.\nPor favor, organize seus itens e tente novamente.",
+        "es-ES": "Tienes demasiados objetos en tu inventario para continuar la conversación.\nPor favor, organiza tus objetos e intenta de nuevo."
+    },
+    "jkdsDQ": {
+        "en-US": "[Event Registration]\nTo participate in the Noodle Festival, you'll need to raise your level a bit more.",
+        "pt-BR": "[Recepcionista do Festival]\nPara participar do Festival do Macarrão, você precisará subir um pouco mais de nível.",
+        "es-ES": "[Recepcionista del Evento]\nPara participar en el Festival de Fideos, necesitarás subir un poco más de nivel."
+    },
+    "j0dsDQ": {
+        "en-US": "^0000CDYou must be at least Base Level 50 to join the Noodle Festival.^000000",
+        "pt-BR": "^0000CDVocê deve ter pelo menos Nível Base 50 para participar do Festival do Macarrão.^000000",
+        "es-ES": "^0000CDDebes tener al menos Nivel Base de 50 para unirte al Festival de Fideos.^000000"
+    },
+    "kEdsDQ": {
+        "en-US": "[Festival Receptionist]\nHello! It's a really hot day, isn't it? Welcome to the Noodle Festival in Lasagna!\nFrom various events to prize raffles! Don't just pass by—come join in!",
+        "pt-BR": "[Recepcionista do Festival]\nOlá! É um dia realmente quente, não é? Bem-vindo ao Festival do Macarrão em Lasagna!\nDe vários eventos a sorteios de prêmios! Não passe direto—venha participar!",
+        "es-ES": "[Recepcionista del Evento]\n¡Hola! \nHace mucho calor hoy, ¿verdad? \n¡Bienvenido al Festival de Fideos en Lasagna!\n¡Tenemos varios eventos y hasta sorteos de premios! \n¡No pases de largo! ¡Ven y participa!"
+    },
+    "kUdsDQ": {
+        "en-US": "I want to register.",
+        "pt-BR": "Quero me registrar.",
+        "es-ES": "Quiero registrarme."
+    },
+    "kkdsDQ": {
+        "en-US": "The Noodle Festival?",
+        "pt-BR": "O Festival do Macarrão?",
+        "es-ES": "¿El Festival de Fideos?"
+    },
+    "k0dsDQ": {
+        "en-US": "Venue Guide",
+        "pt-BR": "Guia do Local",
+        "es-ES": "Guía del Lugar"
+    },
+    "lEdsDQ": {
+        "en-US": "Coupon & Prize Exchange Guide",
+        "pt-BR": "Guia de Troca de Cupons e Prêmios",
+        "es-ES": "Guía de Canje de Cupones y Premios"
+    },
+    "lUdsDQ": {
+        "en-US": "[Festival Receptionist]\nWould you like to participate in the festival?\nCould you write your name here? We need it for the prize event.",
+        "pt-BR": "[Recepcionista do Festival]\nGostaria de participar do festival?\nVocê poderia escrever seu nome aqui? Precisamos disso para o sorteio de prêmios.",
+        "es-ES": "[Recepcionista del Evento]\n¿Te gustaría participar en el festival?\n¿Podrías escribir tu nombre aquí? \nLo necesitamos para el sorteo de premios."
+    },
+    "lkdsDQ": {
+        "en-US": "[Festival Receptionist]\nYes, {0}. You're all registered.\nAs a registration gift, here's a ^0000CDFestival Fan^000000. If you hand this fan to our promoters in the major cities, you can come to the festival grounds anytime.",
+        "pt-BR": "[Recepcionista do Festival]\nSim, {0}. Você está registrado.\nComo presente de registro, aqui está um ^0000CDLeque do Festival^000000. Se você entregar este leque aos nossos promotores nas principais cidades, poderá vir ao local do festival a qualquer momento.",
+        "es-ES": "[Recepcionista del Evento]\nSí, {0}. \nYa estás registrado.\nComo regalo de registro, aquí tienes un ^0000CDAbanico del Festival^000000. \nSi entregas este abanico a nuestros promotores en las ciudades principales, podrás venir al lugar del festival en cualquier momento."
+    },
+    "l0dsDQ": {
+        "en-US": "[Festival Receptionist]\nThe Noodle Festival kicks off with ^0000CDMeatball Harvesting^000000.",
+        "pt-BR": "[Recepcionista do Festival]\nO Festival do Macarrão começa com a ^0000CDColheita de Almôndegas^000000.",
+        "es-ES": "[Recepcionista del Evento]\nEl Festival de Fideos comienza con la ^0000CDCosecha de Albóndigas^000000."
+    },
+    "mEdsDQ": {
+        "en-US": "[Festival Receptionist]\nYou can obtain Meatball from ^0000CDNyailo^000000, which inhabit ^0000CDNyail Cave^000000.",
+        "pt-BR": "[Recepcionista do Festival]\nVocê pode obter Almôndegas de ^0000CDMacarronetas^000000, que habitam a ^0000CDCaverna Nyail do Mar de Lasagna^000000.",
+        "es-ES": "[Recepcionista del Evento]\nPuedes obtener las albóndigas de los ^0000CDNyailos^000000, que habitan en la ^0000CDCueva de Nyail^000000."
+    },
+    "mUdsDQ": {
+        "en-US": "[Festival Receptionist]\nTo go to Nyail Cave, find the <NAVI>[Festival Manager]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, the gatekeeper of ^0000CDNyail Cave^000000!",
+        "pt-BR": "[Recepcionista do Festival]\nPara ir à Caverna Nyail, encontre o <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, o porteiro da ^0000CDCaverna Nyail do Mar de Lasagna^000000!",
+        "es-ES": "[Recepcionista del Evento]\nPara ir a la Cueva de Nyail, busca al <NAVI>[Director del Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, el portero de la Cueva de Nyail, ¡y dirígete a la ^0000CDCueva de Nyail^000000 de inmediato!"
+    },
+    "mkdsDQ": {
+        "en-US": "[Festival Receptionist]\nUh... you've already registered for the Noodle Festival!\nGo on and enjoy this hot summer with some noodles!",
+        "pt-BR": "[Recepcionista do Festival]\nUh... você já se registrou para o Festival do Macarrão!\nVá em frente e aproveite este verão quente com um pouco de macarrão!",
+        "es-ES": "[Recepcionista del Evento]\nUh... ¡ya te registraste para el Festival de Fideos!\n¡Adelante, disfruta de este verano caliente con unos fideos!"
+    },
+    "m0dsDQ": {
+        "en-US": "[Festival Receptionist]\nIs this your first time at the Noodle Festival? In Lasagna, the Noodle Festival is also called the ^0000CDGreat Moon Festival^000000. Once a year, when an unusually large and beautiful moon rises, the water floods so high that the docks are completely submerged.",
+        "pt-BR": "[Recepcionista do Festival]\nÉ sua primeira vez no Festival do Macarrão? Em Lasagna, o Festival do Macarrão também é chamado de ^0000CDGrande Festival da Lua^000000. Uma vez por ano, quando uma lua extraordinariamente grande e bonita nasce, a água inunda tanto que os cais ficam completamente submersos.",
+        "es-ES": "[Recepcionista del Evento]\n¿Es tu primera vez en el Festival de Fideos? \nEn Lasagna, el Festival de Fideos también se llama el ^0000CDGran Festival de la Luna^000000. \nUna vez al año, cuando sale una luna inusualmente grande y hermosa, el agua sube tanto que los muelles quedan completamente sumergidos."
+    },
+    "nEdsDQ": {
+        "en-US": "[Festival Receptionist]\nAround this time, shellfish that look and smell slightly different from other sea creatures wash ashore from somewhere. In the past, no one knew what they were or where they came from.",
+        "pt-BR": "[Recepcionista do Festival]\nPor volta desta época, mariscos com aparência e odores um pouco diferentes de outras criaturas marinhas chegam à costa de algum lugar. Antigamente, ninguém sabia o que eram ou de onde vinham.",
+        "es-ES": "[Recepcionista del Evento]\nPor esta época, mariscos que se ven y huelen ligeramente diferentes a otras criaturas marinas llegan a la costa desde algún lugar.\nAntiguamente, nadie sabía qué eran ni de dónde venían."
+    },
+    "nUdsDQ": {
+        "en-US": "[Festival Receptionist]\nIt was guessed that they came from a mysterious cave called ^0000CDNyail Cave^000000, spoken of in legends, but no one had ever seen it.",
+        "pt-BR": "[Recepcionista do Festival]\nAcreditava-se que eles vinham de uma caverna misteriosa chamada ^0000CDCaverna Nyail^000000, mencionada em lendas, mas ninguém jamais a tinha visto.",
+        "es-ES": "[Recepcionista del Evento]\nSe suponía que venían de una cueva misteriosa llamada ^0000CDCueva de Miaul^000000, de la que hablaban las leyendas, pero nadie la había visto nunca."
+    },
+    "nkdsDQ": {
+        "en-US": "[Festival Receptionist]\nCurious Dorams tasted them and couldn't forget the amazing flavor. But they were very scarce, and after this season passed, the sea creatures vanished, so few could enjoy them.",
+        "pt-BR": "[Recepcionista do Festival]\nDorams curiosos os provaram e não conseguiram esquecer o sabor incrível. Mas eram muito escassos e, depois que essa estação passava, as criaturas marinhas desapareciam, então poucos podiam apreciá-los.",
+        "es-ES": "[Recepcionista del Evento]\nUnos Dorams curiosos los probaron y no pudieron olvidar su increíble sabor. \nPero eran muy escasos, y después de que pasaba esta temporada, las criaturas marinas desaparecían, así que pocos podían disfrutarlos."
+    },
+    "n0dsDQ": {
+        "en-US": "[Festival Receptionist]\nThen one day, a Doram named Noodle went into the sea to harvest Kahlunac and got caught in a small whirlpool. Barely escaping the whirlpool, Noodle discovered a cave littered with those sea creatures.",
+        "pt-BR": "[Recepcionista do Festival]\nEntão, um dia, um Doram chamado Macarrão foi ao mar para colher Kaluna e foi pego por um pequeno redemoinho. Escapando por pouco do redemoinho, Macarrão descobriu uma caverna cheia daquelas criaturas marinhas.",
+        "es-ES": "[Recepcionista del Evento]\nUn día, un Doram llamado Fideo se adentró en el mar para recolectar Kahluna y quedó atrapado en un pequeño remolino. \nEscapando apenas del remolino, Fideo descubrió una cueva llena de esas criaturas marinas."
+    },
+    "oEdsDQ": {
+        "en-US": "[Festival Receptionist]\nThat was the legendary Nyail Cave. Noodle returned with a full load of those delicious creatures and spread the word of the cave's existence to other Dorams.",
+        "pt-BR": "[Recepcionista do Festival]\nEssa era a lendária Caverna Nyail. Macarrão voltou com uma carga cheia daquelas criaturas deliciosas e espalhou a notícia da existência da caverna para outros Dorams.",
+        "es-ES": "[Recepcionista del Evento]\nEsa era la legendaria Cueva de Miaul. \nFideo regresó con una carga completa de esas deliciosas criaturas y difundió la noticia de la existencia de la cueva a otros Dorams."
+    },
+    "oUdsDQ": {
+        "en-US": "[Festival Receptionist]\nPeople named the creatures ^0000CDNoodles^000000 after Noodle, who discovered the cave. Every year when the great moon rises, they hold the delicious ^0000CDNoodle Festival^000000, inviting people from all over the world to enjoy this rich culinary experience together.",
+        "pt-BR": "[Recepcionista do Festival]\nAs pessoas nomearam as criaturas de ^0000CDMacarrões^000000 em homenagem a Macarrão, que descobriu a caverna. Todo ano, quando a grande lua nasce, eles realizam o delicioso ^0000CDFestival do Macarrão^000000, convidando pessoas de todo o mundo para desfrutar juntos dessa rica experiência culinária.",
+        "es-ES": "[Recepcionista del Evento]\nLa gente nombró a las criaturas ^0000CDFideos^000000 en honor a Fideo, quien descubrió la cueva. \nCada año, cuando la gran luna se eleva, celebran el delicioso ^0000CDFestival de Fideos^000000, invitando a personas de todo el mundo a disfrutar juntos de esta rica experiencia culinaria."
+    },
+    "okdsDQ": {
+        "en-US": "[Festival Receptionist]\nEnjoy some delicious noodles and take part in various events to beat the summer heat!",
+        "pt-BR": "[Recepcionista do Festival]\nComa um macarrão delicioso e participe de vários eventos para combater o calor do verão!",
+        "es-ES": "[Recepcionista del Evento]\n¡Disfruta de unos deliciosos fideos y participa en varios eventos para combatir el calor del verano!"
+    },
+    "o0dsDQ": {
+        "en-US": "[Festival Receptionist]\nWhere would you like me to guide you?",
+        "pt-BR": "[Recepcionista do Festival]\nOnde você gostaria que eu te guiasse?",
+        "es-ES": "[Recepcionista del Evento]\n¿Hacia dónde te gustaría que te guíe?"
+    },
+    "pEdsDQ": {
+        "en-US": "Nyail Cave Access",
+        "pt-BR": "Acesso à Caverna Nyail",
+        "es-ES": "Acceso a la Cueva de Miaul"
+    },
+    "pUdsDQ": {
+        "en-US": "Noodle Artisan",
+        "pt-BR": "Mestre Macarrão",
+        "es-ES": "Maestro de Fideos"
+    },
+    "pkdsDQ": {
+        "en-US": "Watermelon Dessert",
+        "pt-BR": "Sobremesa de Melancia",
+        "es-ES": "Postre de Sandía"
+    },
+    "p0dsDQ": {
+        "en-US": "Bad Noodle Hunt",
+        "pt-BR": "Caça ao Macarrão Estragado",
+        "es-ES": "Caza de Fideos Malogrados"
+    },
+    "qEdsDQ": {
+        "en-US": "Lost & Found",
+        "pt-BR": "Achados e Perdidos",
+        "es-ES": "Objetos Perdidos"
+    },
+    "qUdsDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "qkdsDQ": {
+        "en-US": "[Festival Receptionist]\nThe festival begins with ^0000CDMeatball Harvesting^000000. Meatball can be obtained from ^0000CDNyailo^000000, which only live in ^0000CDNyail Cave^000000!",
+        "pt-BR": "[Recepcionista do Festival]\nO festival começa com a ^0000CDColheita de Almôndega^000000. Almôndegas podem ser obtidas de ^0000CDMacarronetas^000000, que só vivem na ^0000CDCaverna Nyail do Mar de Lasagna^000000!",
+        "es-ES": "[Recepcionista del Evento]\n¡El festival comienza con la ^0000CDCosecha de Albóndiga^000000. \nLas Albóndigas se pueden obtener de los ^0000CDNyailos^000000, que solo viven en la ^0000CDCueva de Miaul^000000!"
+    },
+    "q0dsDQ": {
+        "en-US": "[Festival Receptionist]\nYou can only enter Nyail Cave through the <NAVI>[Festival Manager]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, the gatekeeper of Nyail Cave.",
+        "pt-BR": "[Recepcionista do Festival]\nVocê só pode entrar na Caverna Nyail através do <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, o porteiro da Caverna Nyail.",
+        "es-ES": "[Recepcionista del Evento]\nSolo puedes entrar a la Cueva de Miaul a través del <NAVI>[Director del Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, el portero de la Cueva de Miaul."
+    },
+    "rEdsDQ": {
+        "en-US": "[Festival Receptionist]\nDon't be disappointed if you don't see any Nyailo when you get to Nyail Cave. They respawn quickly. Now, I'll guide you to the Festival Manager.",
+        "pt-BR": "[Recepcionista do Festival]\nNão fique desapontado se não vir nenhum Macarroneta quando chegar à Caverna Nyail. Eles renascem rapidamente. Agora, vou te guiar até o Gerente do Festival.",
+        "es-ES": "[Recepcionista del Evento]\nNo te decepciones si no ves ningún Nyailo al llegar a la Cueva de Miaul. Aparecen rápidamente. \nAhora, te guiaré hasta el Director del Festival."
+    },
+    "rUdsDQ": {
+        "en-US": "[Festival Receptionist]\nOnce you've harvested the noodles, take them to Orzo. He'll boil them right in seawater and serve them with a delicious sauce.",
+        "pt-BR": "[Recepcionista do Festival]\nDepois de colher os macarrões, leve-os ao Orzo. Ele os ferverá na água do mar e os servirá com um molho delicioso.",
+        "es-ES": "[Recepcionista del Evento]\nUna vez que hayas cosechado los fideos, llévaselos a Orzo. \nLos hervirá en agua de mar y los servirá con una deliciosa salsa."
+    },
+    "rkdsDQ": {
+        "en-US": "[Festival Receptionist]\nI'll guide you to the <NAVI>[Noodle Artisan Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, who makes delicious noodles.",
+        "pt-BR": "[Recepcionista do Festival]\nVou te guiar até o <NAVI>[Mestre Macarrão Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, que faz macarrão delicioso.",
+        "es-ES": "[Recepcionista del Evento]\nTe guiaré hasta el <NAVI>[Maestro Fideo Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, quien prepara deliciosos fideos."
+    },
+    "r0dsDQ": {
+        "en-US": "[Festival Receptionist]\nAfter a hot bowl of noodles, you must try a cold, sweet dessert!!",
+        "pt-BR": "[Recepcionista do Festival]\nDepois de uma tigela de macarrão quente, você deve experimentar uma sobremesa doce e geladinha!!",
+        "es-ES": "[Recepcionista del Evento]\n¡Después de un plato caliente de fideos, debes probar un postre frío y dulce!!"
+    },
+    "sEdsDQ": {
+        "en-US": "[Festival Receptionist]\nThe perfect balance of sweet and savory! This year, we've prepared a special Watermelon Pudding, and we're also running a fun ^0000CDWatermelon Smashing Event^000000, so don't forget to stop by!",
+        "pt-BR": "[Recepcionista do Festival]\nO equilíbrio perfeito entre doce e salgado! Este ano, preparamos um Pudim de Melancia especial e também estamos realizando um divertido ^0000CDEvento de Quebrar Melancias^000000, então não se esqueça de passar por lá!",
+        "es-ES": "[Recepcionista del Evento]\n¡El equilibrio perfecto entre dulce y salado! \nEste año, hemos preparado un Pudín de Sandía especial, y también tenemos un divertido ^0000CDEvento de Romper Sandías^000000, ¡así que no olvides pasar!"
+    },
+    "sUdsDQ": {
+        "en-US": "[Festival Receptionist]\nI'll guide you to <NAVI>[Helper Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>.",
+        "pt-BR": "[Recepcionista do Festival]\nVou te guiar até a <NAVI>[Ajudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Recepcionista del Evento]\nTe guiaré hasta la <NAVI>[Ayudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
+    },
+    "skdsDQ": {
+        "en-US": "[Festival Receptionist]\nRecently, we caught a group trying to farm large but tasteless foreign noodles using the rich resources of Nyail Cave. Those Bad Noodles have been causing trouble.",
+        "pt-BR": "[Recepcionista do Festival]\nRecentemente, pegamos um grupo tentando cultivar macarrões de outras regiões usando os ricos recursos da Caverna Nyail. São grandes mas sem sabor. Esses Macarrões Estragados têm causado problemas.",
+        "es-ES": "[Recepcionista del Evento]\nRecientemente, atrapamos a un grupo que intentaba cultivar fideos extranjeros grandes pero insípidos usando los ricos recursos de la Cueva de Miaul. \nEsos Fideos Malos han estado causando problemas."
+    },
+    "s0dsDQ": {
+        "en-US": "[Festival Receptionist]\nI'll guide you to <NAVI>[Helper Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>, who's in charge of the Bad Noodle Hunt.",
+        "pt-BR": "[Recepcionista do Festival]\nVou te guiar até o <NAVI>[Ajudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>, que está encarregado da Caça ao Macarrão Estragado.",
+        "es-ES": "[Recepcionista del Evento]\nTe guiaré hasta el <NAVI>[Ayudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>, que está a cargo de la Caza de Fideos Podridos."
+    },
+    "tEdsDQ": {
+        "en-US": "[Festival Receptionist]\nAh, did you lose something? Or are you looking for the owner of a lost item...? Come to think of it, there's a ^0000CDDuckling^000000 wandering around.",
+        "pt-BR": "[Recepcionista do Festival]\nAh, você perdeu algo? Ou está procurando o dono de um item perdido...? Agora que me lembro, há um ^0000CDPatolindo^000000 andando por aí.",
+        "es-ES": "[Recepcionista del Evento]\nAh, ¿perdiste algo? \n¿O estás buscando al dueño de un objeto perdido...? \nAhora que lo pienso, hay un ^0000CDPatolino^000000 rondando por ahí."
+    },
+    "tUdsDQ": {
+        "en-US": "[Coupon Reception]\nThere's a <NAVI>[Duckling]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI> near the southern fishing spot. If the owner doesn't come for it, please bring it to the Lost & Found. Thank you.",
+        "pt-BR": "[Recepção de Cupons]\nHá um <NAVI>[Patolindo]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI> perto do ponto de pesca ao sul. Se o dono não vier buscá-lo, por favor, traga-o para o Achados e Perdidos. Obrigado.",
+        "es-ES": "[Recepción de Cupones]\nHay un <NAVI>[Patolino]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI> cerca del punto de pesca al sur. \nSi el dueño no viene por él, por favor tráelo a Objetos Perdidos. \nGracias."
+    },
+    "tkdsDQ": {
+        "en-US": "[Festival Receptionist]\nUnderstood. Let me know anytime you need guidance!",
+        "pt-BR": "[Recepcionista do Festival]\nEntendido. Avise-me sempre que precisar de orientação!",
+        "es-ES": "[Recepcionista del Evento]\nEntendido. \n¡Avísame cuando necesites orientación!"
+    },
+    "t0dsDQ": {
+        "en-US": "[Festival Receptionist]\nAs you enjoy the Noodle Festival and participate in various events, you'll receive ^0000CDCoins^000000 that can be exchanged for ^0000CDprizes^000000.",
+        "pt-BR": "[Recepcionista do Festival]\nEnquanto você aproveita o Festival do Macarrão e participa de vários eventos, receberá ^0000CDMoedas^000000 que podem ser trocadas por ^0000CDprêmios^000000.",
+        "es-ES": "[Recepcionista del Evento]\nMientras disfrutas del Festival de Fideos y participas en varios eventos, recibirás ^0000CDMonedas Ravioli^000000 que se pueden cambiar por ^0000CDpremios^000000."
+    },
+    "uEdsDQ": {
+        "en-US": "[Festival Receptionist]\nOh! Also, every time you complete a prepared event, we'll give you a ^0000CDstamp on your coupon^000000.",
+        "pt-BR": "[Recepcionista do Festival]\nAh! Além disso, sempre que você completar um evento preparado, daremos a você um ^0000CDcarimbo no seu cupom^000000.",
+        "es-ES": "[Recepcionista del Evento]\n¡Ah! También, cada vez que completes un evento preparado, te daremos un ^0000CDsello en tu cupón^000000."
+    },
+    "uUdsDQ": {
+        "en-US": "[Festival Receptionist]\nIf you get your ^0000CDstamp coupon^000000 and bring it to the staff, you'll receive the Noodle Festival souvenir <ITEM>[Wavy Noodles]<INFO>400160</INFO></ITEM> once, so don't forget to claim it!",
+        "pt-BR": "[Recepcionista do Festival]\nSe você pegar seu ^0000CDcupom carimbado^000000 e trouxer para o staff, receberá a lembrança do Festival do Macarrão <ITEM>[Festa Macarrônica]<INFO>400160</INFO></ITEM> uma vez, então não se esqueça de pegá-lo!",
+        "es-ES": "[Recepcionista del Evento]\nSi obtienes tu ^0000CDcupón sellado^000000 y lo traes al personal, recibirás el recuerdo del Festival de Fideos <ITEM>[Tazón de Fideos]<INFO>400160</INFO></ITEM> una vez, ¡así que no olvides reclamarlo!"
+    },
+    "ukdsDQ": {
+        "en-US": "Festival Manager",
+        "pt-BR": "Gerente do Festival",
+        "es-ES": "Director del Festival"
+    },
+    "u0dsDQ": {
+        "en-US": "[Festival Manager]\nWelcome! Welcome to the Noodle Festival. For generations, the Noodle Festival has started with the ^0000CDharvest of Meatballs^000000!",
+        "pt-BR": "[Gerente do Festival]\nBem-vindo! Bem-vindo ao Festival do Macarrão. Por gerações, o Festival do Macarrão começou com a ^0000CDcolheita de Almôndegas^000000!",
+        "es-ES": "[Director del Festival]\n¡Bienvenido! \nBienvenido al Festival de Fideos. \nPor generaciones, el Festival de Fideos ha comenzado con la ^0000CDCosecha de Albóndigas^000000!"
+    },
+    "vEdsDQ": {
+        "en-US": "[Festival Manager]\n^0000CDMeatballs^000000, obtained from ^0000CDNyailo^000000 that live in ^0000CDNyail Cave^000000, are incredibly tasty and considered a premium ingredient.",
+        "pt-BR": "[Gerente do Festival]\nAs ^0000CDAlmôndegas^000000, obtidas de ^0000CDMacarroneta^000000 que vivem na ^0000CDCaverna Nyail^000000, são incrivelmente saborosas e consideradas um ingrediente premium.",
+        "es-ES": "[Director del Festival]\nLas ^0000CDAlbóndigas^000000, obtenidas de los ^0000CDNyailos^000000 que viven en la ^0000CDCueva de Miaul^000000, son increíblemente sabrosas y se consideran un ingrediente premium."
+    },
+    "vUdsDQ": {
+        "en-US": "[Festival Manager]\nThese meatballs are delicious on their own, and when paired with various noodle dishes, they offer a taste of heaven.",
+        "pt-BR": "[Gerente do Festival]\nEssas almôndegas são deliciosas por si só e, quando combinadas com vários pratos de macarrão, oferecem um sabor divino.",
+        "es-ES": "[Director del Festival]\nEstas Albóndigas son deliciosas por sí solas, y cuando se combinan con varios platos de fideos, ofrecen un sabor celestial."
+    },
+    "vkdsDQ": {
+        "en-US": "[Festival Manager]\nIf you want to learn more about Meatballs, listen to the story from the Festival Receptionist.",
+        "pt-BR": "[Gerente do Festival]\nSe você quiser saber mais sobre as Almôndegas, ouça a história do Recepcionista do Festival\n.",
+        "es-ES": "[Director del Festival]\nSi quieres saber más sobre las Albóndigas, escucha la historia del Recepcionista del Evento."
+    },
+    "v0dsDQ": {
+        "en-US": "[Festival Manager]\nBring me ^0000CDone each of Spaghetti Pasta, Bow-tie Pasta, Smooth Noodle, and Meatball^000000—the ingredients for making delicious noodles.",
+        "pt-BR": "[Gerente do Festival]\nTraga-me ^0000CDum de cada: Macarrão Espaguete, Macarrão Gravatinha, Macarrão Parafuso e Almôndega^000000—os ingredientes para fazer um delicioso macarrão.",
+        "es-ES": "[Director del Festival]\nTráeme ^0000CDuno de cada uno: Fideos Espagueti, Fideo Corbata, Fideo Tirabuzón y Albóndiga^000000 los ingredientes para hacer deliciosos fideos."
+    },
+    "wEdsDQ": {
+        "en-US": "[Festival Manager]\nYou can obtain each from ^0000CDSmall Whirlpool, Dandy Star, Wiggly Tail, and Nyailo^000000, respectively.",
+        "pt-BR": "[Gerente do Festival]\nVocê pode obter cada um dos ^0000CDTorvelinhos, Estrelitas, Alga-Chicotes e Macarronetas^000000, respectivamente.",
+        "es-ES": "[Director del Festival]\nPuedes obtener cada uno de los ^0000CDTorbellino Pequeño, Estrella Dandy, Alga Ondulante y Nyailo^000000, respectivamente."
+    },
+    "wUdsDQ": {
+        "en-US": "[Festival Manager]\nNyailo appear all over Nyail Cave. If you don't see one when you enter, just wait a moment—they respawn quickly.",
+        "pt-BR": "[Gerente do Festival]\nMacarronetas aparecem por toda a Caverna Nyail. Se você não vir um ao entrar, apenas espere um momento—eles renascem rapidamente.",
+        "es-ES": "[Director del Festival]\nLos Nyailos aparecen por toda la Cueva de Miaul. \nSi no ves uno al entrar, solo espera un momento ellos aparecen rápidamente."
+    },
+    "wkdsDQ": {
+        "en-US": "[Festival Manager]\nNow, would you like to head to ^0000CDNyail Cave^000000 right now?",
+        "pt-BR": "[Gerente do Festival]\nAgora, você gostaria de ir para a ^0000CDCaverna Nyail^000000 agora mesmo?",
+        "es-ES": "[Director del Festival]\nAhora, ¿te gustaría ir a la ^0000CDCueva de Miaul^000000 ahora mismo?"
+    },
+    "w0dsDQ": {
+        "en-US": "Yes! Send me there!",
+        "pt-BR": "Sim! Me mande para lá!",
+        "es-ES": "¡Sí! ¡Envíame allá!"
+    },
+    "xEdsDQ": {
+        "en-US": "Hold on, let me prepare first.",
+        "pt-BR": "Espere, deixe-me me preparar primeiro.",
+        "es-ES": "Espera, déjame prepararme primero."
+    },
+    "xUdsDQ": {
+        "en-US": "[Festival Manager]\nThen, off to Nyail Cave!",
+        "pt-BR": "[Gerente do Festival]\nEntão, vá para a Caverna Nyail!",
+        "es-ES": "[Director del Festival]\n¡Entonces, a la Cueva de Miaul!"
+    },
+    "xkdsDQ": {
+        "en-US": "[Festival Manager]\nLet me know whenever you're ready.",
+        "pt-BR": "[Gerente do Festival]\nAvise-me quando estiver pronto.",
+        "es-ES": "[Director del Festival]\nAvísame cuando estés listo."
+    },
+    "x0dsDQ": {
+        "en-US": "[Festival Manager]\nHow was the Meatball harvest? Try eating one of the harvested Meatballs. You'll feel refreshed in body and mind.",
+        "pt-BR": "[Gerente do Festival]\nComo foi a colheita de Almôndegas? Tente comer uma das Almôndegas colhidas. Você se sentirá revigorado no corpo e na mente.",
+        "es-ES": "[Director del Festival]\n¿Cómo fue la cosecha de las Albóndigas? \nIntenta de comer una de las albóndigas cosechadas. \nTe sentirás renovado en cuerpo y mente."
+    },
+    "yEdsDQ": {
+        "en-US": "[Festival Manager]\nNow, enjoy the Noodle Festival in Lasagna to the fullest!",
+        "pt-BR": "[Gerente do Festival]\nAgora, aproveite ao máximo o Festival do Macarrão em Lasagna!",
+        "es-ES": "[Director del Festival]\n¡Ahora, disfruta al máximo del Festival de Fideos en Lasagna!"
+    },
+    "yUdsDQ": {
+        "en-US": "[Festival Manager]\nFor the locations of each event area, ask the Festival Receptionist standing across from me—they'll kindly guide you.",
+        "pt-BR": "[Gerente do Festival]\nPara a localização de cada área de evento, pergunte ao Recepcionista do Festival que está em pé do outro lado—ele te guiará gentilmente.",
+        "es-ES": "[Director del Festival]\nPara las ubicaciones de cada área de evento, pregúntale al Recepcionista del Evento que está al otro lado te guiará amablemente."
+    },
+    "ykdsDQ": {
+        "en-US": "[Festival Manager]\nWait, let me check your inventory for a moment. I was going to give you a souvenir, but it looks like you don't have room.",
+        "pt-BR": "[Gerente do Festival]\nEspere, deixe-me verificar seu inventário por um momento. Eu ia te dar uma lembrança, mas parece que você não tem espaço.",
+        "es-ES": "[Director del Festival]\nEspera, déjame revisar tu inventario un momento. \nIba a darte un recuerdo, pero parece que no tienes espacio."
+    },
+    "y0dsDQ": {
+        "en-US": "[Festival Manager]\nOh dear, you came empty-handed. Was the Meatball harvest difficult? Would you like to go back to Nyail Cave?",
+        "pt-BR": "[Gerente do Festival]\nOh, querido, você voltou de mãos vazias. A colheita de Almôndegas foi difícil? Gostaria de voltar à Caverna Nyail?",
+        "es-ES": "[Director del Festival]\nOh, vaya, viniste con las manos vacías. \n¿Fue difícil la cosecha de albóndigas? \n¿Te gustaría volver a la Cueva Miaul?"
+    },
+    "zEdsDQ": {
+        "en-US": "[Festival Manager]\nWould you like to go to Nyail Cave again?",
+        "pt-BR": "[Gerente do Festival]\nGostaria de ir para a Caverna Nyail novamente?",
+        "es-ES": "[Director del Festival]\n¿Te gustaría ir a la Cueva de Miaul de nuevo?"
+    },
+    "zUdsDQ": {
+        "en-US": "[Festival Manager]\nWelcome! Welcome to the Noodle Festival. How are you enjoying this delicious summer filled with various events?",
+        "pt-BR": "[Gerente do Festival]\nBem-vindo! Bem-vindo ao Festival do Macarrão. Como você está aproveitando este verão delicioso cheio de vários eventos?",
+        "es-ES": "[Director del Festival]\n¡Bienvenido! \nBienvenido al Festival de Fideos. \n¿Cómo estás disfrutando de este delicioso verano lleno de varios eventos?"
+    },
+    "zkdsDQ": {
+        "en-US": "[Festival Manager]\nPlease register for the festival with the <NAVI>[Festival Receptionist]<INFO>lasagna,83,197,0,101,0,</INFO></NAVI> NPC first, then come back to me.",
+        "pt-BR": "[Gerente do Festival]\nPor favor, registre-se no festival com o NPC <NAVI>[Recepcionista do Festival]<INFO>lasagna,83,197,0,101,0,</INFO></NAVI> primeiro e depois volte para mim.",
+        "es-ES": "[Director del Festival]\nPor favor, regístrate en el festival con el NPC <NAVI>[Recepcionista del Evento]<INFO>lasagna,83,197,0,101,0,</INFO></NAVI> primero, y luego vuelve a verme."
+    },
+    "z0dsDQ": {
+        "en-US": "Bubbling Pot",
+        "pt-BR": "Panela Borbulhante",
+        "es-ES": "Olla Hirviendo"
+    },
+    "0EdsDQ": {
+        "en-US": "Noodle Artisan Orzo",
+        "pt-BR": "Mestre Macarrão Orzo",
+        "es-ES": "Maestro Fideo Orzo"
+    },
+    "0UdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nHello! It's a great day for noodles, isn't it? How about some delicious noodles?",
+        "pt-BR": "[Mestre Macarrão Orzo]\nOlá! É um ótimo dia para macarrão, não é? Que tal um delicioso macarrão?",
+        "es-ES": "[Maestro Fideo Orzo]\n¡Hola! \nEs un gran día para los fideos, ¿verdad? \n¿Qué tal unos deliciosos fideos?"
+    },
+    "0kdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nBring me ^0000CD5 Spaghetti Pasta, 5 Bow-tie Pasta, 5 Thin Noodles, and 1 Meatball^000000, and I'll boil them right in seawater to make you some tasty ^0000CDNoodles^000000.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nTraga-me ^0000CD5 Macarrão Espaguete, 5 Macarrão Gravatinha, 5 Macarrão Parafuso e 1 Almôndega^000000, e eu os ferverei na água do mar para fazer um delicioso ^0000CDMacarrão^000000.",
+        "es-ES": "[Maestro Fideo Orzo]\nTráeme ^0000CD5 Fideos Espagueti, 5 Fideo Corbata, 5 Fideo Tirabuzón y Albóndiga^000000, y los herviré en agua de mar para hacerte unos sabrosos ^0000CDFideos^000000."
+    },
+    "00dsDQ": {
+        "en-US": "Sure!",
+        "pt-BR": "Claro!",
+        "es-ES": "¡Claro!"
+    },
+    "1EdsDQ": {
+        "en-US": "Maybe later.",
+        "pt-BR": "Talvez mais tarde.",
+        "es-ES": "Quizás más tarde."
+    },
+    "1UdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nYou can get Spaghetti Pasta by catching ^0000CDSmall Whirlpools^000000, which appear around this time.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nVocê pode obter Espaguete pescando ^0000CDTorvelinho^000000, que aparecem por volta desta época.",
+        "es-ES": "[Maestro Fideo Orzo]\nPuedes obtener Fideo Tirabuzón atrapando ^0000CDTorbellino Pequeño^000000, que aparecen por esta época."
+    },
+    "1kdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nBow-tie Pasta grow attached to ^0000CDDandy Stars^000000, so go harvest them.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nMacarrão Gravatinha crescem presos a ^0000CDEstrelita^000000, então vá colhê-los.",
+        "es-ES": "[Maestro Fideo Orzo]\nLos Fideo Corbata crecen pegados a las ^0000CDEstrellas Dandy^000000, así que ve a cosecharlos."
+    },
+    "10dsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nThin Noodles can be pulled from ^0000CDSwing Tail^000000, so bring those.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nMacarrão Parafuso podem ser puxados de ^0000CDAlga-Chicote^000000, então traga-os.",
+        "es-ES": "[Maestro Fideo Orzo]\nLos Fideos Espagueti se pueden sacar de las ^0000CDAlga Ondulante^000000, así que tráelos."
+    },
+    "2EdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nMeatballs are obtained from ^0000CDNyailo^000000 that live in Nyail Cave. See the Festival Manager to go to Nyail Cave.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nAlmôndegas são obtidas de ^0000CDMacarroneta^000000 que vivem na Caverna Nyail do Mar de Lasagna. Procure o Gerente do Festival para ir para a Caverna Nyail.",
+        "es-ES": "[Maestro Fideo Orzo]\nLas albóndigas se obtienen de los ^0000CDNyailos^000000 que viven en la Cueva de Miaul. \nVe al Director del Festival para ir a la Cueva de Miaul."
+    },
+    "2UdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nThe water's boiling, so hurry back!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nA água está fervendo, então volte rápido!",
+        "es-ES": "[Maestro Fideo Orzo]\n¡El agua está hirviendo, así que date prisa y vuelve!"
+    },
+    "2kdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nYou look busy, huh? Okay, come back when you're free. The noodles will be waiting for everyone!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nVocê parece ocupado, hein? Ok, volte quando estiver livre. O macarrão estará esperando por todos!",
+        "es-ES": "[Maestro Fideo Orzo]\nPareces ocupado, ¿eh? \nBien, vuelve cuando estés libre. \n¡Los fideos estarán esperando a todos!"
+    },
+    "20dsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nYou brought the noodles and Meatballs? What a fragrant aroma! Now it's time to boil the noodles. Boiling them in clean seawater means no extra seasoning is needed~",
+        "pt-BR": "[Mestre Macarrão Orzo]\nVocê trouxe o macarrão e a Almôndega? Que aroma fragrante! Agora é hora de ferver o macarrão. Fervê-los em água do mar limpa significa que nenhum tempero extra é necessário~",
+        "es-ES": "[Maestro Fideo Orzo]\n¿Trajiste los fideos y las albóndigas? \n¡Qué aroma tan fragante! \nAhora es hora de hervir los fideos. \nHervirlos en agua de mar limpia significa que no se necesita condimento adicional~"
+    },
+    "3EdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nToday's noodles feel like they're boiling up soft and strong~",
+        "pt-BR": "[Mestre Macarrão Orzo]\nO macarrão de hoje parece que está fervendo macio e forte~",
+        "es-ES": "[Maestro Fideo Orzo]\nLos fideos de hoy parecen estar hirviendo suaves y firmes~"
+    },
+    "3UdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nPlop plop... They're done! Any longer and they'll get mushy!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nPlop plop... Estão prontos! Se ficarem mais tempo, ficarão empapados!",
+        "es-ES": "[Maestro Fideo Orzo]\n¡Plop plop \nYa están listos! \n¡Si esperan más, se pondrán blandos!"
+    },
+    "3kdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nNow, mix them with a delicious sauce~",
+        "pt-BR": "[Mestre Macarrão Orzo]\nAgora, misture-os com um molho delicioso~",
+        "es-ES": "[Maestro Fideo Orzo]\nAhora, mézclalos con una deliciosa salsa~"
+    },
+    "30dsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nTa-da! All done!!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nTa-dá! Prontinho!!",
+        "es-ES": "[Maestro Fideo Orzo]\n¡Ta-dá! \n¡Listo!"
+    },
+    "4EdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nEnjoy your meal!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nBom apetite!",
+        "es-ES": "[Maestro Fideo Orzo]\n¡Buen provecho!"
+    },
+    "4UdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nThis year, I tried making a special soy sauce mixed noodle dish—I wonder how it'll turn out. Of course, it'll be delicious. Enjoy!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nEste ano, tentei fazer um prato especial de macarrão misturado com molho de soja—quero ver como vai ficar. Claro, vai estar delicioso. Aproveite!",
+        "es-ES": "[Maestro Fideo Orzo]\nEste año, intenté hacer un plato especial de fideos mezclados con salsa de soja, me pregunto cómo quedará. \nPor supuesto, estará delicioso. ¡Disfruta!"
+    },
+    "4kdsDQ": {
+        "en-US": "I've stamped your event participation!",
+        "pt-BR": "Carimbei sua participação no evento!",
+        "es-ES": "¡He sellado tu participación en el evento!"
+    },
+    "40dsDQ": {
+        "en-US": "Uh... you've completed all of today's events?\nThen you should go to <NAVI>[Coupon Reception]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>!",
+        "pt-BR": "Uh... você completou todos os eventos de hoje?\nEntão você deve ir ao <NAVI>[Recepção de Cupons]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>!",
+        "es-ES": "Uh... ¿completaste todos los eventos de hoy?\n¡Entonces deberías ir al <NAVI>[Recepcionista de Cupones]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>!"
+    },
+    "5EdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nUh... but the coins won't fit in your inventory... You've got too much stuff? Empty it out and come back.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nUh... mas as moedas não cabem no seu inventário... Você está com muitas coisas? Esvazie e volte.",
+        "es-ES": "[Maestro Fideo Orzo]\nUh... pero las monedas no caben en tu inventario... \n¿Tienes demasiadas cosas? \nVacíalo y vuelve."
+    },
+    "5UdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nYou're back? But I don't smell anything. Bring me ^0000CD5 Spaghetti Pasta^000000 from ^0000CDSmall Whirlpools^000000, ^0000CD5 Bow-tie Pasta^000000 from ^0000CDDandy Stars^000000, ^0000CD5 Thin Noodles^000000 from ^0000CDSwing Tails^000000, and ^0000CD1 Meatball^000000, and I'll make you delicious noodles. Go on!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nVocê voltou? Mas não sinto cheiro de nada. Traga-me ^0000CD5 Macarrão Espaguete^000000 de ^0000CDTorvelinho^000000, ^0000CD5 Macarrão Gravatinha^000000 de ^0000CDEstrelitas^000000, ^0000CD5 Macarrão Parafuso^000000 de ^0000CDAlga-Chicote^000000 e ^0000CD1 Almôndega^000000, e eu farei um macarrão delicioso. Vá logo!",
+        "es-ES": "[Maestro Fideo Orzo]\n¿Volviste? \nPero no huelo nada. \nTráeme ^0000CD5 Fideo Tirabuzón^000000 de los ^0000CDTorbellino Pequeño^000000, ^0000CD5 Fideo Corbata^000000 de las ^0000CDEstrellas Dandy^000000, ^0000CD5 Fideos Espagueti^000000 de las ^0000CDAlga Ondulante^000000 y ^0000CD1 Albóndiga^000000, y te haré unos deliciosos fideos. \n¡Vamos!"
+    },
+    "5kdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nYou came back for more noodles? They're really good, aren't they? A taste you can't forget once you've had it~ So, would you like me to make some again today?",
+        "pt-BR": "[Mestre Macarrão Orzo]\nVocê voltou para mais macarrão? Eles são realmente bons, não são? Um sabor que você não esquece depois que prova~ Então, gostaria que eu fizesse mais hoje?",
+        "es-ES": "[Maestro Fideo Orzo]\n¿Volviste por más fideos? \nSon realmente buenos, ¿verdad? \nUn sabor que no se olvida una vez que lo pruebas~ \nEntonces, ¿te gustaría que hiciera más hoy?"
+    },
+    "50dsDQ": {
+        "en-US": "Participate in Noodle Event.",
+        "pt-BR": "Participar do Evento do Macarrão.",
+        "es-ES": "Participar en el Evento de Fideos."
+    },
+    "6EdsDQ": {
+        "en-US": "I won't participate.",
+        "pt-BR": "Não vou participar.",
+        "es-ES": "No participaré."
+    },
+    "6UdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nBring me ^0000CD5 Spaghetti Pasta, 5 Bow-tie Pasta, 5 Thin Noodles, and 1 Meatball^000000 today, and I'll make you noodles on the spot!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nTraga-me ^0000CD5 Macarrão Espaguete, 5 Macarrão Gravatinha, 5 Macarrão Parafuso e 1 Almôndega^000000 hoje, e farei macarrão na hora!",
+        "es-ES": "[Maestro Fideo Orzo]\nTráeme ^0000CD5 Fideo Tirabuzón, 5 Fideo Corbata, 5  Fideos Espagueti y 1 Albóndiga^000000 hoy, y te haré fideos al instante!"
+    },
+    "6kdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nGot it. There are plenty of other things to see and eat, so look around!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nEntendido. Há muitas outras coisas para ver e comer, então dê uma olhada!",
+        "es-ES": "[Maestro Fideo Orzo]\nEntendido. \nHay muchas otras cosas para ver y comer, ¡así que echa un vistazo!"
+    },
+    "60dsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nHuh? You came back for more noodles? But I'm in the middle of cleaning up right now...",
+        "pt-BR": "[Mestre Macarrão Orzo]\nHã? Você voltou para mais macarrão? Mas estou no meio da limpeza agora...",
+        "es-ES": "[Maestro Fideo Orzo]\n¿Eh? \n¿Volviste por más fideos? \nPero estoy en medio de la limpieza ahora mismo..."
+    },
+    "7EdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nHowever, if you have <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>, I could get my helpers to finish cleaning faster. Would you be willing to give me some Nyangvine?",
+        "pt-BR": "[Mestre Macarrão Orzo]\nNo entanto, se você tiver <ITEM>[Fruta MiauMiau]<INFO>6909</INFO></ITEM>, posso fazer meus ajudantes terminarem a limpeza mais rápido. Você gostaria de me dar algumas Frutas MiauMiau?",
+        "es-ES": "[Maestro Fideo Orzo]\nSin embargo, si tienes <ITEM>[Miaufruto]<INFO>6909</INFO></ITEM>, podría hacer que mis ayudantes terminen de limpiar más rápido\n¿Estarías dispuesto a darme algunas Miaufruto?"
+    },
+    "7UdsDQ": {
+        "en-US": "^EE0000Using 1 Nyangvine will reset the daily quest cooldown.^000000\n^EE0000The exchanged items are not subject to withdrawal, and they cannot be re-exchanged for Nyangvine. Do you wish to continue?^000000",
+        "pt-BR": "^EE0000Usar 1 Fruta MiauMiau irá redefinir o tempo de recarga da missão diária.^000000\n^EE0000Os itens trocados não estão sujeitos a devolução e não podem ser trocados novamente por Frutas MiauMiau. Deseja continuar?^000000",
+        "es-ES": "^EE0000Usar 1 Miaufruto reiniciará el tiempo de reutilización de la misión diaria.^000000\n^EE0000Los objetos intercambiados no están sujetos a devolución y no se pueden volver a intercambiar por Miaufruto. \n¿Deseas continuar?^000000"
+    },
+    "7kdsDQ": {
+        "en-US": "I'll give you Nyangvine.",
+        "pt-BR": "Vou te dar Frutas MiauMiau.",
+        "es-ES": "Te daré Miaufruto."
+    },
+    "70dsDQ": {
+        "en-US": "^AAAAAAI'll give you Nyangvine. - Insufficient quantity^000000",
+        "pt-BR": "^AAAAAAVou te dar Frutas MiauMiau. - Quantidade insuficiente^000000",
+        "es-ES": "^AAAAAATe daré Miaufruto. - Cantidad insuficiente^000000"
+    },
+    "8EdsDQ": {
+        "en-US": "I'll come back after midnight.",
+        "pt-BR": "Voltarei depois da meia-noite.",
+        "es-ES": "Volveré después de la medianoche."
+    },
+    "8UdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nAlright then. I'll have things ready, so come back after midnight.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nTudo bem então. Deixarei as coisas prontas, então volte depois da meia-noite.",
+        "es-ES": "[Maestro Fideo Orzo]\nDe acuerdo. \nTendré las cosas listas, así que vuelve después de la medianoche."
+    },
+    "8kdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nTa-da! All cleaned up!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nTa-dá! Tudo limpo!",
+        "es-ES": "[Maestro Fideo Orzo]\n¡Ta-dá! \n¡Todo limpio!"
+    },
+    "80dsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nSo, bring me ^0000CD5 Spaghetti Pasta, 5 Bow-tie Pasta, 5 Thin Noodles, and 1 Meatball^000000 today, and I'll make you noodles on the spot!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nEntão, traga-me ^0000CD5 Macarrão Espaguete, 5 Macarrão Gravatinha, 5 Macarrão Parafuso e 1 Almôndega^000000 hoje, e farei macarrão na hora!",
+        "es-ES": "[Maestro Fideo Orzo]\nEntonces, tráeme ^0000CD5 Fideo Tirabuzón, 5 Fideos Espagueti, 5 Fideo Corbata y 1 Albóndiga^000000 hoy, y te haré fideos al instante!"
+    },
+    "9EdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nBut I don't see any Nyangvine. Check and come back.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nMas não vejo nenhuma Fruta MiauMiau. Verifique e volte.",
+        "es-ES": "[Maestro Fideo Orzo]\nPero no veo ninguna Miaufruto. \nRevisa y vuelve."
+    },
+    "9UdsDQ": {
+        "en-US": "[Noodle Artisan Orzo]\nHow about some delicious noodles? Boiled right in clean seawater and tossed in a fresh sauce—that taste! Take a bowl with you!",
+        "pt-BR": "[Mestre Macarrão Orzo]\nQue tal um delicioso macarrão? Fervido na água do mar limpa e misturado com um molho fresco—esse sabor! Leve uma tigela com você!",
+        "es-ES": "[Maestro Fideo Orzo]\n¿Qué tal unos deliciosos fideos? \nHervidos en agua de mar limpia y mezclados con una salsa fresca ¡ese sabor! \n¡Lleva un plato contigo!"
+    },
+    "9kdsDQ": {
+        "en-US": "Helper Rami",
+        "pt-BR": "Ajudante Rami",
+        "es-ES": "Ayudante Rami"
+    },
+    "90dsDQ": {
+        "en-US": "How about some refreshing Watermelon Pudding?",
+        "pt-BR": "Que tal um refrescante Pudim de Melancia?",
+        "es-ES": "¿Qué tal un refrescante Pudín de Sandía?"
+    },
+    "+EdsDQ": {
+        "en-US": "[Helper Rami]\nHello? It's really hot, isn't it? On days like this, I wish the sea breeze would blow. In this heat, you must be longing for a cool breeze to beat the sweat, right?",
+        "pt-BR": "[Ajudante Rami]\nOlá? Está realmente quente, não está? Em dias assim, desejo que a brisa do mar sopre. Com este calor, você deve estar ansiando por uma brisa fresca para combater o suor, certo?",
+        "es-ES": "[Ayudante Rami]\n¿Hola? \nHace mucho calor, ¿verdad? \nEn días como este, desearía que soplara la brisa del mar. \nCon este calor, debes estar anhelando una brisa fresca para quitarte el sudor, ¿no?"
+    },
+    "+UdsDQ": {
+        "en-US": "[Helper Rami]\nAfter a bowl of noodles, how about some sweet and refreshing ^0000CDWatermelon Pudding^000000?",
+        "pt-BR": "[Ajudante Rami]\nDepois de uma tigela de macarrão, que tal um doce e refrescante ^0000CDPudim de Melancia^000000?",
+        "es-ES": "[Ayudante Rami]\nDespués de un plato de fideos, ¿qué tal un dulce y refrescante ^0000CDPudín de Sandía^000000?"
+    },
+    "+kdsDQ": {
+        "en-US": "[Helper Rami]\nHave you received a ^0000CDFestival Fan^000000 from our promoters in the major cities? It has a faint watermelon scent, doesn't it? The secret is that we bury the fans between the watermelons.",
+        "pt-BR": "[Ajudante Rami]\nVocê recebeu um ^0000CDLeque do Festival^000000 dos nossos promotores nas principais cidades? Tem um leve cheiro de melancia, não tem? O segredo é que enterramos os leques entre as melancias.",
+        "es-ES": "[Ayudante Rami]\n¿Has recibido un ^0000CDAbanico Promocional^000000 de nuestros promotores en las ciudades principales? \nTiene un ligero aroma a sandía, ¿verdad? \nEl secreto es que enterramos los abanicos entre las sandías."
+    },
+    "+0dsDQ": {
+        "en-US": "[Helper Rami]\nGo find the ^0000CDFestival Fan^000000 buried in the watermelon patch! Bring ^0000CD10^000000 of them, and I'll give you delicious ^0000CDWatermelon Pudding and Festival Coins^000000!",
+        "pt-BR": "[Ajudante Rami]\nVá encontrar os ^0000CDLeque do Festival^000000 enterrados no campo de melancias! Traga ^0000CD10^000000 deles e te darei um delicioso ^0000CDPudim de Melancia e Moeda Ravioli^000000!",
+        "es-ES": "[Ayudante Rami]\n¡Ve a buscar los ^0000CDAbanico del Festival^000000 enterrados en el campo de sandías! \nTrae ^0000CD10^000000 de ellos, y te daré un delicioso ^0000CDFlan de Sandía y Monedas del Festival^000000!"
+    },
+    "/EdsDQ": {
+        "en-US": "I love watermelon!",
+        "pt-BR": "Adoro melancia!",
+        "es-ES": "¡Me encanta la sandía!"
+    },
+    "/UdsDQ": {
+        "en-US": "I'll look around first.",
+        "pt-BR": "Vou dar uma olhada primeiro.",
+        "es-ES": "Primero voy a mirar."
+    },
+    "/kdsDQ": {
+        "en-US": "[Helper Rami]\n^0000CDRipe Watermelons^000000 can be found in ^0000CDNyail Cave^000000 and all over ^0000CDLasagna^000000. When you find one, smash it open—pop, thwack, crack! It's great for relieving stress and finding fans!",
+        "pt-BR": "[Ajudante Rami]\n^0000CDMelancias^000000 podem ser encontradas na ^0000CDCaverna Nyail^000000 e por toda ^0000CDLasagna^000000. Quando encontrar uma, quebre-a—pop, thwack, crack! É ótimo para aliviar o estresse e encontrar leques!",
+        "es-ES": "[Ayudante Rami]\nLas ^0000CDSandías Maduras^000000 se pueden encontrar en la ^0000CDCueva de Miaul^000000 y por toda ^0000CDLasagna^000000. \nCuando encuentres una, rómpela ¡pop, zas, crack! \n¡Es genial para aliviar el estrés y encontrar abanicos!"
+    },
+    "/0dsDQ": {
+        "en-US": "[Helper Rami]\nOkay, take a look around. But I have a feeling we'll meet again soon!",
+        "pt-BR": "[Ajudante Rami]\nOk, dê uma olhada. Mas tenho a sensação de que nos encontraremos em breve!",
+        "es-ES": "[Ayudante Rami]\nBien, echa un vistazo. \n¡Pero tengo la sensación de que nos veremos pronto!"
+    },
+    "AEhsDQ": {
+        "en-US": "[Helper Rami]\nYou brought the fans! Here, try some cool Watermelon Pudding! If you participate every day, you'll get great souvenirs too, so make sure to join in every single day! Promise!",
+        "pt-BR": "[Ajudante Rami]\nVocê trouxe os leques! Aqui, experimente um Pudim de Melancia gelado! Se você participar todos os dias, também ganhará ótimas lembranças, então certifique-se de participar todos os dias! Promete!",
+        "es-ES": "[Ayudante Rami]\n¡Trajiste los abanicos! \n¡Toma, prueba un poco de Flan de Sandía frío! \nSi participas todos los días, también obtendrás grandes recuerdos, ¡así que asegúrate de unirte cada día! \n¡Prometido!"
+    },
+    "AUhsDQ": {
+        "en-US": "[Helper Rami]\nHere, as promised, here are your coins... And you know you can give the Festival Fans to promoters in each city to come straight to the venue, right?",
+        "pt-BR": "[Ajudante Rami]\nAqui, como prometido, aqui estão suas moedas... E você sabe que pode dar os Leque do Festival para os promotores em cada cidade para vir direto ao local, certo?",
+        "es-ES": "[Ayudante Rami]\nAquí, como prometí, están tus monedas... \nY sabes que puedes dar los Abanico del Festival a los promotores de cada ciudad para venir directamente al lugar, ¿verdad?"
+    },
+    "AkhsDQ": {
+        "en-US": "I'll stamp your event participation too.",
+        "pt-BR": "Vou carimbar sua participação no evento também.",
+        "es-ES": "También sellaré tu participación en el evento."
+    },
+    "A0hsDQ": {
+        "en-US": "You've completed all of today's events!\nAll that's left is to go to <NAVI>[Coupon Reception]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>!",
+        "pt-BR": "Você completou todos os eventos de hoje!\nSó falta ir ao <NAVI>[Recepção de Cupons]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>!",
+        "es-ES": "¡Completaste todos los eventos de hoy!\n¡Solo queda ir al <NAVI>[Recepción de Cupones]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>!"
+    },
+    "BEhsDQ": {
+        "en-US": "[Helper Rami]\nOh dear... why is your bag so full? Clear some space and come back.",
+        "pt-BR": "[Ajudante Rami]\nOh, querido... por que sua bolsa está tão cheia? Limpe um espaço e volte.",
+        "es-ES": "[Ayudante Rami]\nOh, vaya... ¿por qué tu bolsa está tan llena? \nLibera algo de espacio y vuelve."
+    },
+    "BUhsDQ": {
+        "en-US": "[Helper Rami]\nAre all the fans gone? Or are the watermelons gone? ^0000CDRipe Watermelons^000000 can be found in ^0000CDNyail Cave^000000 and all over ^0000CDLasagna^000000, so look carefully.",
+        "pt-BR": "[Ajudante Rami]\nOs leques acabaram? Ou as melancias acabaram? ^0000CDMelancias^000000 podem ser encontradas na ^0000CDCaverna Nyail^000000 e por toda ^0000CDLasagna^000000, então procure com atenção.",
+        "es-ES": "[Ayudante Rami]\n¿Se acabaron los abanicos?\n¿O se acabaron las sandías? \nLas ^0000CDSandías Maduras^000000 se pueden encontrar en la ^0000CDCueva de Miaul^000000 y por toda ^0000CDLasagna^000000, así que busca con atención."
+    },
+    "BkhsDQ": {
+        "en-US": "[Helper Rami]\nJust collect ^0000CD10 Festival Fan^000000 that come from smashing watermelons!",
+        "pt-BR": "[Ajudante Rami]\nBasta coletar ^0000CD10 Leque do Festival^000000 que vêm de quebrar melancias!",
+        "es-ES": "[Ayudante Rami]\n¡Solo recolecta ^0000CD10 Abanico del Festival^000000 que salen al romper sandías!"
+    },
+    "B0hsDQ": {
+        "en-US": "[Helper Rami]\nSo, how about it? Feel like smashing some watermelons to cool off today?",
+        "pt-BR": "[Ajudante Rami]\nEntão, que tal? Com vontade de quebrar algumas melancias para se refrescar hoje?",
+        "es-ES": "[Ayudante Rami]\nEntonces, ¿qué te parece? \n¿Con ganas de romper algunas sandías para refrescarte hoy?"
+    },
+    "CEhsDQ": {
+        "en-US": "Let's smash!",
+        "pt-BR": "Vamos quebrar!",
+        "es-ES": "¡Vamos a romper!"
+    },
+    "CUhsDQ": {
+        "en-US": "Not right now...",
+        "pt-BR": "Agora não...",
+        "es-ES": "Ahora no..."
+    },
+    "CkhsDQ": {
+        "en-US": "[Helper Rami]\nRipe Watermelons can be found in Nyail Cave, here in Lasagna, or out in the fields, so look carefully.",
+        "pt-BR": "[Ajudante Rami]\nMelancias Maduras podem ser encontradas na Caverna Nyail, aqui em Lasagna, ou nos campos, então procure com atenção.",
+        "es-ES": "[Ayudante Rami]\nLas Sandías Maduras se pueden encontrar en la Cueva de Miaul, aquí en Lasagna o en los campos, así que busca con atención."
+    },
+    "C0hsDQ": {
+        "en-US": "[Helper Rami]\nJust collect ^0000CD10 Festival Fans^000000 from smashing Ripe Watermelons!",
+        "pt-BR": "[Ajudante Rami]\nBasta coletar ^0000CD10 Leque do Festival^000000 ao quebrar Melancias Maduras!",
+        "es-ES": "[Ayudante Rami]\n¡Solo recolecta ^0000CD10 Abanicos del Festival^000000 al romper Sandías Maduras!"
+    },
+    "DEhsDQ": {
+        "en-US": "[Helper Rami]\nCome back anytime you want Watermelon Pudding!",
+        "pt-BR": "[Ajudante Rami]\nVolte sempre que quiser Pudim de Melancia!",
+        "es-ES": "[Ayudante Rami]\n¡Vuelve cuando quieras Pudín de Sandía!"
+    },
+    "DUhsDQ": {
+        "en-US": "[Helper Rami]\nAre you staying cool with Watermelon Pudding in this hot summer? Today's event is closed. We've run out of prepared Watermelon Pudding.",
+        "pt-BR": "[Ajudante Rami]\nVocê está se refrescando com Pudim de Melancia neste verão quente? O evento de hoje está encerrado. Acabamos o Pudim de Melancia preparado.",
+        "es-ES": "[Ayudante Rami]\n¿Te estás refrescando con Pudín de Sandía en este verano caliente? \nEl evento de hoy está cerrado.\nNos quedamos sin Pudín de Sandía preparado."
+    },
+    "DkhsDQ": {
+        "en-US": "[Helper Rami]\nBut I can have Watermelon Pudding delivered quickly using <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>!",
+        "pt-BR": "[Ajudante Rami]\nMas posso mandar entregar Pudim de Melancia rapidamente usando <ITEM>[Fruta MiauMiau]<INFO>6909</INFO></ITEM>!",
+        "es-ES": "[Ayudante Rami]\n¡Pero puedo hacer que traigan Pudín de Sandía rápidamente usando <ITEM>[Miaufruto]<INFO>6909</INFO></ITEM>!"
+    },
+    "D0hsDQ": {
+        "en-US": "I'll come back later.",
+        "pt-BR": "Voltarei mais tarde.",
+        "es-ES": "Volveré más tarde."
+    },
+    "EEhsDQ": {
+        "en-US": "[Helper Rami]\nAlright then. I'll wait while enjoying the sea breeze.",
+        "pt-BR": "[Ajudante Rami]\nTudo bem então. Esperarei enquanto aprecio a brisa do mar.",
+        "es-ES": "[Ayudante Rami]\nDe acuerdo. \nEsperaré mientras disfruto de la brisa del mar."
+    },
+    "EUhsDQ": {
+        "en-US": "[Helper Rami]\nThen go smash some Ripe Watermelons quickly. I'll have the pudding delivered in the meantime. Ripe Watermelons can be found in Nyail Cave and on this island, so look carefully.",
+        "pt-BR": "[Ajudante Rami]\nEntão vá quebrar Melancias Maduras rapidamente. Enquanto isso, mandarei entregar o pudim. Melancias Maduras podem ser encontradas na Caverna Nyail e nesta ilha, então procure com atenção.",
+        "es-ES": "[Ayudante Rami]\nEntonces ve a romper algunas Sandías Maduras rápido. \nMientras tanto, haré que traigan el pudín. \nLas Sandías Maduras se pueden encontrar en la Cueva de Miaul y en esta isla, así que busca con atención."
+    },
+    "EkhsDQ": {
+        "en-US": "[Helper Rami]\nBut I don't see any Nyangvine. Check and come back.",
+        "pt-BR": "[Ajudante Rami]\nMas não vejo nenhuma Fruta MiauMiau. Verifique e volte.",
+        "es-ES": "[Ayudante Rami]\nPero no veo ninguna Miaufruto. \nRevisa y vuelve."
+    },
+    "E0hsDQ": {
+        "en-US": "[Helper Rami]\nIn this hot summer, you must be longing for a cool breeze, right? How about some sweet and refreshing Watermelon Pudding after a bowl of noodles?",
+        "pt-BR": "[Ajudante Rami]\nNeste verão quente, você deve estar ansiando por uma brisa fresca, certo? Que tal um doce e refrescante Pudim de Melancia depois de uma tigela de macarrão?",
+        "es-ES": "[Ayudante Rami]\nEn este verano caliente, debes estar anhelando una brisa fresca, ¿verdad? \n¿Qué tal un dulce y refrescante Pudín de Sandía después de un plato de fideos?"
+    },
+    "FEhsDQ": {
+        "en-US": "Thump thump thump",
+        "pt-BR": "Tum tum tum",
+        "es-ES": "Tum tum tum"
+    },
+    "FUhsDQ": {
+        "en-US": "Thump thump thump",
+        "pt-BR": "Tum tum tum",
+        "es-ES": "Tum tum tum"
+    },
+    "FkhsDQ": {
+        "en-US": "A big watermelon, ripe—thump thump thump!",
+        "pt-BR": "Uma melancia grande, madura—tum tum tum!",
+        "es-ES": "Una sandía grande, madura—¡tum tum tum!"
+    },
+    "F0hsDQ": {
+        "en-US": "Everyone grab one, we all play the harmonica~",
+        "pt-BR": "Todos pegam uma, todos tocam gaita~",
+        "es-ES": "Todos agarran una, todos tocamos la armónica~"
+    },
+    "GEhsDQ": {
+        "en-US": "Let's play happily!",
+        "pt-BR": "Vamos brincar felizes!",
+        "es-ES": "¡Juguemos felices!"
+    },
+    "GUhsDQ": {
+        "en-US": "Slurp slurp slurp slurp~",
+        "pt-BR": "Slurp slurp slurp slurp~",
+        "es-ES": "Slurp slurp slurp slurp~"
+    },
+    "GkhsDQ": {
+        "en-US": "Slurp slurp slurp slurp~",
+        "pt-BR": "Slurp slurp slurp slurp~",
+        "es-ES": "Slurp slurp slurp slurp~"
+    },
+    "G0hsDQ": {
+        "en-US": "Slurp slurp slurp~",
+        "pt-BR": "Slurp slurp slurp~",
+        "es-ES": "Slurp slurp slurp~"
+    },
+    "HEhsDQ": {
+        "en-US": "Slurp slurp slurp~",
+        "pt-BR": "Slurp slurp slurp~",
+        "es-ES": "Slurp slurp slurp~"
+    },
+    "HUhsDQ": {
+        "en-US": "Ding ding ding!",
+        "pt-BR": "Ding ding ding!",
+        "es-ES": "¡Ding ding ding!"
+    },
+    "HkhsDQ": {
+        "en-US": "Helper Domi",
+        "pt-BR": "Ajudante Domi",
+        "es-ES": "Ayudante Domi"
+    },
+    "H0hsDQ": {
+        "en-US": "How about hunting some Bad Noodles? Relieve stress and protect the ecosystem of Nyail Cave!",
+        "pt-BR": "Que tal caçar alguns Macarrões Estragados? Alivie o estresse e proteja o ecossistema da Caverna Nyail!",
+        "es-ES": "¿Qué tal cazar algunos Fideos Malogrados? ¡Alivia el estrés y protege el ecosistema de la Cueva de Miaul!"
+    },
+    "IEhsDQ": {
+        "en-US": "[Helper Domi]\nWelcome~ Festival participant~ How about hunting some Bad Noodles?",
+        "pt-BR": "[Ajudante Domi]\nBem-vindo~ Participante do festival~ Que tal caçar alguns Macarrões Estragados?",
+        "es-ES": "[Ayudante Domi]\nBienvenido~ \nParticipante del festival~ \n¿Qué tal cazar algunos Fideos Malogrados?"
+    },
+    "IUhsDQ": {
+        "en-US": "Bad Noodles?",
+        "pt-BR": "Macarrões Estragados?",
+        "es-ES": "¿Fideos Malogrados?"
+    },
+    "IkhsDQ": {
+        "en-US": "[Helper Domi]\nYes! Bad Noodles! You've been to Nyail Cave, right? As you've seen, Nyail Cave has abundant food thanks to the Meatballs, making it a great environment for various fish and noodles to live.",
+        "pt-BR": "[Ajudante Domi]\nSim! Macarrões Estragados! Você já foi à Caverna Nyail, certo? Como você viu, a Caverna Nyail tem comida abundante graças às Almôndegas, tornando-a um ótimo ambiente para vários peixes e macarrões viverem.",
+        "es-ES": "[Ayudante Domi]\n¡Sí! \n¡Fideos Malogrados! \nHas estado en la Cueva de Miaul, ¿verdad? \nComo has visto, la Cueva de Miaul tiene comida abundante gracias a las albóndigas, lo que la convierte en un gran entorno para que vivan varios peces y fideos."
+    },
+    "I0hsDQ": {
+        "en-US": "[Helper Domi]\nPerhaps that's why? Recently, some farmers trying to make big money during the Noodle Festival secretly brought in foreign noodles and attempted to farm them illegally in Nyail Cave.",
+        "pt-BR": "[Ajudante Domi]\nTalvez seja por isso? Recentemente, alguns fazendeiros tentando ganhar muito dinheiro durante o Festival do Macarrão trouxeram secretamente macarrões de outros lugares e tentaram cultivá-los ilegalmente na Caverna Nyail.",
+        "es-ES": "[Ayudante Domi]\n¿Quizás por eso? \nRecientemente, algunos agricultores que intentaban ganar mucho dinero durante el Festival de Fideos trajeron en secreto fideos extranjeros e intentaron cultivarlos ilegalmente en la Cueva de Miaul."
+    },
+    "JEhsDQ": {
+        "en-US": "Oh no! What happened?",
+        "pt-BR": "Ah, não! O que aconteceu?",
+        "es-ES": "¡Oh no! ¿Qué pasó?"
+    },
+    "JUhsDQ": {
+        "en-US": "[Helper Domi]\nOf course! We caught them! But in the process, a few foreign noodles got loose. At first, their numbers were very small, but with abundant food, they've been multiplying.",
+        "pt-BR": "[Ajudante Domi]\nClaro! Nós os pegamos! Mas no processo, alguns macarrões estrangeiros escaparam. No início, seus números eram muito pequenos, mas com comida abundante, eles vêm se multiplicando.",
+        "es-ES": "[Ayudante Domi]\n¡Por supuesto! \n¡Los atrapamos! \nPero en el proceso, algunos fideos extranjeros se soltaron. \nAl principio, su número era muy pequeño, pero con la abundante comida, se han estado multiplicando."
+    },
+    "JkhsDQ": {
+        "en-US": "[Helper Domi]\nBad Noodles are very large but tasteless, so they have low commercial value. Plus, they eat up all the food that other noodles rely on, causing the native noodle population to decline.",
+        "pt-BR": "[Ajudante Domi]\nEsses Macarrões Estragados são muito grandes, mas sem sabor, então têm baixo valor comercial. Além disso, eles comem toda a comida de que outros macarrões dependem, fazendo com que a população nativa de macarrões diminua.",
+        "es-ES": "[Ayudante Domi]\nLos Fideos Malogrados son muy grandes pero insípidos, por lo que tienen poco valor comercial. \nAdemás, se comen toda la comida de la que dependen otros fideos, lo que hace que la población de fideos nativos disminuya."
+    },
+    "J0hsDQ": {
+        "en-US": "[Helper Domi]\nSo our worries have been growing day by day. At this rate, it's only a matter of time before the ecosystem is destroyed, right? We're catching them as we see them, but there are just too many.",
+        "pt-BR": "[Ajudante Domi]\nEntão nossas preocupações vêm crescendo dia após dia. Nesse ritmo, é apenas uma questão de tempo até que o ecossistema seja destruído, certo? Estamos pegando-os sempre que os vemos, mas há muitos.",
+        "es-ES": "[Ayudante Domi]\nAsí que nuestras preocupaciones han ido creciendo día a día. \nA este ritmo, es solo cuestión de tiempo antes de que el ecosistema se destruya, ¿verdad? \nLos estamos atrapando a medida que los vemos, pero son demasiados."
+    },
+    "KEhsDQ": {
+        "en-US": "[Helper Domi]\nSo! We decided to hold a Bad Noodle Hunt as part of this festival event. What do you think? Would you like to participate?",
+        "pt-BR": "[Ajudante Domi]\nEntão! Decidimos realizar uma Caça ao Macarrão Estragado como parte deste evento do festival. O que você acha? Gostaria de participar?",
+        "es-ES": "[Ayudante Domi]\n¡Así que! \nDecidimos realizar una Caza de Fideos Malogrados como parte de este evento del festival. \n¿Qué te parece? \n¿Te gustaría participar?"
+    },
+    "KUhsDQ": {
+        "en-US": "Sure!",
+        "pt-BR": "Claro!",
+        "es-ES": "¡Claro!"
+    },
+    "KkhsDQ": {
+        "en-US": "Sounds scary...",
+        "pt-BR": "Parece assustador...",
+        "es-ES": "Suena aterrador..."
+    },
+    "K0hsDQ": {
+        "en-US": "[Helper Domi]\nGood choice! These Bad Noodles are constantly moving between Nyail Cave and the outside, riding the currents this time of year. Catch every single one you see!",
+        "pt-BR": "[Ajudante Domi]\nBoa escolha! Esses Macarrões Estragados estão constantemente se movendo entre a Caverna Nyail e o exterior, aproveitando as correntes nesta época do ano. Pegue cada um que você vir!",
+        "es-ES": "[Ayudante Domi]\n¡Buena elección! \nEstos Fideos Malogrados se mueven constantemente entre la Cueva de Miaul y el exterior, aprovechando las corrientes en esta época del año. \n¡Atrapa a cada uno que veas!"
+    },
+    "LEhsDQ": {
+        "en-US": "[Helper Domi]\nHunt ^0000CD10 Bad Noodles^000000 and bring me ^0000CD10 Tough Noodle Skins^000000. I'll give you a festival souvenir!!!",
+        "pt-BR": "[Ajudante Domi]\nCace ^0000CD10 Macarrões Estragados^000000 e traga-me ^0000CD10 Peles de Macarrão Duras^000000. Te darei uma lembrança do festival!!!",
+        "es-ES": "[Ayudante Domi]\nCaza ^0000CD10 Fideos Malogrados^000000 y tráeme ^0000CD10 Fideos Podridos^000000. \n¡Te daré un recuerdo del festival!!!"
+    },
+    "LUhsDQ": {
+        "en-US": "[Helper Domi]\nCome on~ It's a festival—would we prepare something dangerous? We have safety officers posted everywhere, and Bad Noodles aren't that dangerous, so rest assured.",
+        "pt-BR": "[Ajudante Domi]\nQual é~ É um festival—nós prepararíamos algo perigoso? Temos oficiais de segurança em todos os lugares, e os Macarrões Estragados não são tão perigosos, então fique tranquilo.",
+        "es-ES": "[Ayudante Domi]\n¡Vamos~ \nEs un festival prepararíamos algo peligroso? \nTenemos oficiales de seguridad en todas partes, y los Fideos Malogrados no son tan peligrosos, así que tranquilo."
+    },
+    "LkhsDQ": {
+        "en-US": "[Helper Domi]\nYou've caught all the Bad Noodles! Just hand those Tough Noodle Skins over to me.",
+        "pt-BR": "[Ajudante Domi]\nVocê pegou todos os Macarrões Estragados! Apenas entregue essas Peles de Macarrão Duras para mim.",
+        "es-ES": "[Ayudante Domi]\n¡Atrapaste todos los Fideos Malogrados! \nSolo entrégame esas Pieles de Fideo Podrido."
+    },
+    "L0hsDQ": {
+        "en-US": "[Helper Domi]\nThank you! Adventurer, you've made a great contribution to protecting the beautiful ecosystem of Lasagna! Here are your coins.",
+        "pt-BR": "[Ajudante Domi]\nObrigado! Aventureiro, você fez uma grande contribuição para proteger o belo ecossistema de Lasagna! Aqui estão suas moedas.",
+        "es-ES": "[Ayudante Domi]\n¡Gracias! \nTrotamundos, has hecho una gran contribución para proteger el hermoso ecosistema de Lasagna. \n¡Aquí tienes tus monedas!"
+    },
+    "MEhsDQ": {
+        "en-US": "Wow! You've completed all of today's events!\nGo to <NAVI>[Coupon Reception]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>!",
+        "pt-BR": "Uau! Você completou todos os eventos de hoje!\nVá ao <NAVI>[Recepção de Cupons]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>!",
+        "es-ES": "¡Guau! ¡Completaste todos los eventos de hoy!\n¡Ve al <NAVI>[Recepción de Cupones]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>!"
+    },
+    "MUhsDQ": {
+        "en-US": "[Helper Domi]\nBut how can you not have room for even one coin in your inventory? Would you like to organize your bag and come back?",
+        "pt-BR": "[Ajudante Domi]\nMas como você não tem espaço para uma única moeda no seu inventário? Gostaria de organizar sua bolsa e voltar?",
+        "es-ES": "[Ayudante Domi]\n¿Pero cómo es que no tienes espacio ni para una moneda en tu inventario? \n¿Te gustaría organizar tu bolsa y volver?"
+    },
+    "MkhsDQ": {
+        "en-US": "[Helper Domi]\nHaven't you collected all the Tough Noodle Skins yet?",
+        "pt-BR": "[Ajudante Domi]\nVocê ainda não coletou todas as Peles de Macarrão Duras?",
+        "es-ES": "[Ayudante Domi]\n¿Aún no has recolectado todas los Fideos Podridos?"
+    },
+    "M0hsDQ": {
+        "en-US": "[Helper Domi]\nHaven't you caught all the Bad Noodles yet?",
+        "pt-BR": "[Ajudante Domi]\nVocê ainda não pegou todos os Macarrões Estragados?",
+        "es-ES": "[Ayudante Domi]\n¿Aún no has atrapado todos los Fideos Malogrados?"
+    },
+    "NEhsDQ": {
+        "en-US": "[Helper Domi]\nHunt ^0000CD10 Rotten Noodles^000000 and bring me ^0000CD10 Tough Noodle Skins^000000. Get your festival souvenir and help protect the ecosystem of Nyail Cave!",
+        "pt-BR": "[Ajudante Domi]\nCace ^0000CD10 Macarrões Podres^000000 e traga-me ^0000CD10 Peles de Macarrão Duras^000000. Ganhe sua lembrança do festival e ajude a proteger o ecossistema da Caverna Nyail!",
+        "es-ES": "[Ayudante Domi]\nCaza ^0000CD10 Fideos Malogrados^000000 y tráeme ^0000CD10 Fideos Podridos^000000. \n¡Obtén tu recuerdo del festival y ayuda a proteger el ecosistema de la Cueva de Miaul!"
+    },
+    "NUhsDQ": {
+        "en-US": "[Helper Domi]\nWould you like to hunt some ^0000CDRotten Noodles^000000 today?",
+        "pt-BR": "[Ajudante Domi]\nGostaria de caçar alguns ^0000CDMacarrões Podres^000000 hoje?",
+        "es-ES": "[Ayudante Domi]\n¿Te gustaría cazar algunos ^0000CDFideos Malogrados^000000 hoy?"
+    },
+    "NkhsDQ": {
+        "en-US": "Yes!!",
+        "pt-BR": "Sim!!",
+        "es-ES": "¡¡Sí!!"
+    },
+    "N0hsDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
+    },
+    "OEhsDQ": {
+        "en-US": "[Helper Domi]\nNot feeling up to it today? That's fine. The festival is meant to be enjoyed! Come back anytime you feel like it!",
+        "pt-BR": "[Ajudante Domi]\nNão está com disposição hoje? Tudo bem. O festival foi feito para ser aproveitado! Volte quando quiser!",
+        "es-ES": "[Ayudante Domi]\n¿No te sientes con ánimo hoy? \nEstá bien. \n¡El festival está hecho para disfrutarlo! \n¡Vuelve cuando quieras!"
+    },
+    "OUhsDQ": {
+        "en-US": "[Helper Domi]\nAdventurer, you've already caught your quota of Bad Noodles for today.",
+        "pt-BR": "[Ajudante Domi]\nAventureiro, você já atingiu sua cota de Macarrões Estragados para hoje.",
+        "es-ES": "[Ayudante Domi]\nTrotamundos, ya atrapaste tu cuota de Fideos Malogrados por hoy."
+    },
+    "OkhsDQ": {
+        "en-US": "[Helper Domi]\nBut if you have <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>, you can participate in the event one more time. How about it?",
+        "pt-BR": "[Ajudante Domi]\nMas se você tiver <ITEM>[Fruta MiauMiau]<INFO>6909</INFO></ITEM>, pode participar do evento mais uma vez. Que tal?",
+        "es-ES": "[Ayudante Domi]\nPero si tienes <ITEM>[Miaufrutos]<INFO>6909</INFO></ITEM>, puedes participar en el evento una vez más. \n¿Qué te parece?"
+    },
+    "O0hsDQ": {
+        "en-US": "[Helper Domi]\nBut it looks like you don't have any Nyangvine. Check and come back.",
+        "pt-BR": "[Ajudante Domi]\nMas parece que você não tem nenhuma Fruta MiauMiau. Verifique e volte.",
+        "es-ES": "[Ayudante Domi]\nPero parece que no tienes ninguna Miaufrutos. \nRevisa y vuelve."
+    },
+    "PEhsDQ": {
+        "en-US": "[Helper Domi]\nWe must catch every single Bad Noodle that threatens the beautiful ecosystem of Nyail Cave!",
+        "pt-BR": "[Ajudante Domi]\nDevemos pegar cada Macarrão Ruim que ameaça o belo ecossistema da Caverna Nyail!",
+        "es-ES": "[Ayudante Domi]\n¡Debemos atrapar a cada Fideo Malogrado que amenaza el hermoso ecosistema de la Cueva de Miaul!"
+    },
+    "PUhsDQ": {
+        "en-US": "Coupon Reception",
+        "pt-BR": "Recepção de Cupons",
+        "es-ES": "Recepcionista de Cupones"
+    },
+    "PkhsDQ": {
+        "en-US": "If you've completed all events, come get your festival souvenir hat!!",
+        "pt-BR": "Se você completou todos os eventos, venha ganhar seu chapéu de lembrança do festival!!",
+        "es-ES": "¡Si completaste todos los eventos, ven a buscar tu sombrero de recuerdo del festival!"
+    },
+    "P0hsDQ": {
+        "en-US": "[Coupon Reception]\nAre you here to exchange for the hat? Let me check for a moment. Let's see~",
+        "pt-BR": "[Recepção de Cupons]\nVocê está aqui para trocar pelo chapéu? Deixe-me verificar por um momento. Vamos ver~",
+        "es-ES": "[Recepcionista de Cupones]\n¿Viniste a cambiar por el sombrero? \nDéjame revisar un momento. \nVeamos~"
+    },
+    "QEhsDQ": {
+        "en-US": "[Coupon Reception]\nYou've participated in all the events! Then I'll give you a festival participation souvenir! Now, where did I put it...\nHere it is! It looks like it's about to spill, but it won't~",
+        "pt-BR": "[Recepção de Cupons]\nVocê participou de todos os eventos! Então te darei uma lembrança de participação do festival! Agora, onde eu coloquei...\nAqui está! Parece que está prestes a transbordar, mas não vai~",
+        "es-ES": "[Recepcionista de Cupones]\n¡Participaste en todos los eventos! \nEntonces te daré un recuerdo de participación en el festival. \nAhora, ¿dónde lo puse...\nAquí está! Parece que está a punto de derramarse, pero no lo hará~"
+    },
+    "QUhsDQ": {
+        "en-US": "[Coupon Reception]\nEnjoy the rest of the festival, and come back again next year!",
+        "pt-BR": "[Recepção de Cupons]\nAproveite o resto do festival e volte no próximo ano!",
+        "es-ES": "[Recepcionista de Cupones]\n¡Disfruta el resto del festival y vuelve el año que viene!"
+    },
+    "QkhsDQ": {
+        "en-US": "[Coupon Reception]\nYou still have some events you haven't completed.",
+        "pt-BR": "[Recepção de Cupons]\nVocê ainda tem alguns eventos que não completou.",
+        "es-ES": "[Recepcionista de Cupones]\nTodavía tienes algunos eventos que no has completado."
+    },
+    "Q0hsDQ": {
+        "en-US": "[Coupon Reception]\nThat would be... ^0000CDNoodle Artisan^000000.\nGo find <NAVI>[Noodle Artisan Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, complete the event, and come back.",
+        "pt-BR": "[Recepção de Cupons]\nIsso seria... ^0000CDMestre Macarrão^000000.\nVá encontrar o <NAVI>[Mestre Macarrão Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, complete o evento e volte.",
+        "es-ES": "[Recepcionista de Cupones]\nEso sería... ^0000CDMaestro Fideo^000000.\nVe a <NAVI>[Maestro Fideo Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, completa el evento y vuelve."
+    },
+    "REhsDQ": {
+        "en-US": "[Coupon Reception]\nThat would be... ^0000CDWatermelon Harvest^000000.\nGo find <NAVI>[Helper Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>, complete the event, and come back.",
+        "pt-BR": "[Recepção de Cupons]\nIsso seria... ^0000CDColheita de Melancia^000000.\nVá encontrar a <NAVI>[Ajudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>, complete o evento e volte.",
+        "es-ES": "[Recepcionista de Cupones]\nEso sería... ^0000CDCosecha de Sandía^000000.\nVe a <NAVI>[Ayudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>, completa el evento y vuelve."
+    },
+    "RUhsDQ": {
+        "en-US": "[Coupon Reception]\nThat would be... ^0000CDBad Noodle Hunt^000000.\nGo find <NAVI>[Helper Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>, complete the event, and come back.",
+        "pt-BR": "[Recepção de Cupons]\nIsso seria... ^0000CDCaça de Macarrões Estragados^000000.\nVá encontrar o <NAVI>[Ajudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>, complete o evento e volte.",
+        "es-ES": "[Recepcionista de Cupones]\nEso sería... ^0000CDExterminio de Fideos Malogrados^000000.\nVe a <NAVI>[Ayudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>, completa el evento y vuelve."
+    },
+    "RkhsDQ": {
+        "en-US": "[Coupon Reception]\nCome to think of it, there's a ^0000CDDuckling^000000 wandering around. Looks like someone dropped it.",
+        "pt-BR": "[Recepção de Cupons]\nAgora que me lembro, há um ^0000CDPatolindo^000000 andando por aí. Parece que alguém o deixou cair.",
+        "es-ES": "[Recepcionista de Cupones]\nAhora que lo pienso, hay un ^0000CDPatolino^000000 rondando por ahí. \nParece que alguien lo dejó caer."
+    },
+    "R0hsDQ": {
+        "en-US": "[Coupon Reception]\nNoodles are the best! Noodles are the best! No, I mean, I really don't need anything else if I have noodles! Have you tried them? Not yet?",
+        "pt-BR": "[Recepção de Cupons]\nMacarrão é o máximo! Macarrão é o máximo! Quer dizer, eu realmente não preciso de mais nada se tiver macarrão! Você já experimentou? Ainda não?",
+        "es-ES": "[Recepcionista de Cupones]\n¡Los fideos son lo máximo! \n¡Los fideos son lo máximo! \nNo, quiero decir, realmente no necesito nada más si tengo fideos. \n¿Los has probado? \n¿Todavía no?"
+    },
+    "SEhsDQ": {
+        "en-US": "[Coupon Reception]\nGo to the <NAVI>[Festival Manager]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI> first, complete the main event, and then go enjoy some noodles!",
+        "pt-BR": "[Recepção de Cupons]\nVá ao <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI> primeiro, complete o evento principal e depois vá comer um pouco de macarrão!",
+        "es-ES": "[Recepcionista de Cupones]\nVe al <NAVI>[Director del Evento]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI> primero, completa el evento principal y luego ve a disfrutar de unos fideos."
+    },
+    "SUhsDQ": {
+        "en-US": "[Coupon Reception]\nOh, are you here for the hat? But you already received your souvenir before. Unfortunately, the ^0000CDsouvenir can only be given once^000000.",
+        "pt-BR": "[Recepção de Cupons]\nOh, você veio pelo chapéu? Mas você já recebeu sua lembrança antes. Infelizmente, a ^0000CDlembrança só pode ser dada uma vez^000000.",
+        "es-ES": "[Recepcionista de Cupones]\nAh, ¿viniste por el sombrero? \nPero ya recibiste tu recuerdo antes. \nDesafortunadamente, el ^0000CDrecuerdo solo se puede dar una vez^000000."
+    },
+    "SkhsDQ": {
+        "en-US": "[Coupon Reception]\nBut the festival is still going on, so go enjoy this hot summer with the festival!",
+        "pt-BR": "[Recepção de Cupons]\nMas o festival ainda está acontecendo, então vá aproveitar este verão quente com o festival!",
+        "es-ES": "[Recepcionista de Cupones]\nPero el festival aún continúa, ¡así que ve a disfrutar de este verano caliente con el festival!"
+    },
+    "S0hsDQ": {
+        "en-US": "Prize Exchange",
+        "pt-BR": "Troca de Prêmios",
+        "es-ES": "Canje de Premios"
+    },
+    "TEhsDQ": {
+        "en-US": "Exchange your Ravioli Coins for prizes!",
+        "pt-BR": "Troque suas Moedas Ravioli por prêmios!",
+        "es-ES": "¡Cambia tus Monedas Ravioli por premios!"
+    },
+    "TUhsDQ": {
+        "en-US": "[Prize Exchange]\nYou've participated in the festival events and received <ITEM>[Ravioli Coin]<INFO>25366</INFO></ITEM>, right?\nWith your Festival Coins, you can purchase <ITEM>[Farfalle Coupon]<INFO>1000570</INFO></ITEM>, which we're selling to raise funds for the Noodle Festival.",
+        "pt-BR": "[Troca de Prêmios]\nVocê participou dos eventos do festival e recebeu <ITEM>[Moeda Ravioli]<INFO>25366</INFO></ITEM>, certo?\nCom suas Moeda Ravioli, você pode comprar <ITEM>[Cupom Farfalle­]<INFO>1000570</INFO></ITEM>, que estamos vendendo para arrecadar fundos para o Festival do Macarrão.",
+        "es-ES": "[Canje de Premios]\nParticipaste en los eventos del festival y recibiste <ITEM>[Monedas Ravioli]<INFO>25366</INFO></ITEM>, ¿verdad?\nCon tus Monedas del Festival, puedes comprar <ITEM>[Cupón Farfalle]<INFO>1000570</INFO></ITEM>, que estamos vendiendo para recaudar fondos para el Festival de Fideos."
+    },
+    "TkhsDQ": {
+        "en-US": "[Prize Exchange]\nYou can exchange the Farfalle Coupons for various equipment or useful consumable items! What do you think? These are only available during this season!",
+        "pt-BR": "[Troca de Prêmios]\nVocê pode trocar os Cupons Farfalle­ por vários equipamentos ou itens consumíveis úteis! O que acha? Estes só estão disponíveis durante esta temporada!",
+        "es-ES": "[Canje de Premios]\n¡Puedes cambiar los Cupóns Farfalle por varios equipos u objetos consumibles útiles! \n¿Qué te parece? \n¡Solo están disponibles durante esta temporada!"
+    },
+    "T0hsDQ": {
+        "en-US": "Purchase Farfalle Coupon",
+        "pt-BR": "Comprar Cupom Farfalle­",
+        "es-ES": "Comprar Cupón Farfalle"
+    },
+    "UEhsDQ": {
+        "en-US": "Exchange for Equipment",
+        "pt-BR": "Trocar por Equipamentos",
+        "es-ES": "Cambiar por Equipo"
+    },
+    "UUhsDQ": {
+        "en-US": "Exchange for Consumables",
+        "pt-BR": "Trocar por Consumíveis",
+        "es-ES": "Cambiar por Consumibles"
+    },
+    "UkhsDQ": {
+        "en-US": "Not interested.",
+        "pt-BR": "Não estou interessado.",
+        "es-ES": "No me interesa."
+    },
+    "U0hsDQ": {
+        "en-US": "[Prize Exchange]\nYou can purchase ^0000CD1 Farfalle Coupon^000000 for ^0000CD5 Ravioli Coins^000000.\nIf you're short on Festival Coins, you can buy ^0000CD1 certificate for 100,000 Zeny^000000. Which currency would you like to use?",
+        "pt-BR": "[Troca de Prêmios]\nVocê pode comprar ^0000CD1 Cupom Farfalle­^000000 por ^0000CD5 Moedas Ravioli^000000.\nSe você estiver com poucas Moeda Ravioli, pode comprar ^0000CD1 certificado por 100.000 Zeny^000000. Qual moeda você gostaria de usar?",
+        "es-ES": "[Canje de Premios]\nPuedes comprar ^0000CD1 Cupón Farfalle^000000 por ^0000CD5 Monedas Ravioli^000000.\nSi te faltan Monedas del Festival, puedes comprar ^0000CD1 certificado por 100,000 Zeny^000000. \n¿Qué moneda te gustaría usar?"
+    },
+    "VEhsDQ": {
+        "en-US": "Purchase with Ravioli Coins",
+        "pt-BR": "Comprar com Moedas Ravioli",
+        "es-ES": "Comprar con Monedas Ravioli"
+    },
+    "VUhsDQ": {
+        "en-US": "Purchase with Zeny",
+        "pt-BR": "Comprar com Zeny",
+        "es-ES": "Comprar con Zeny"
+    },
+    "VkhsDQ": {
+        "en-US": "[Prize Exchange]\nGot it~\nThank you so much for contributing to the development of the Noodle Festival!!!",
+        "pt-BR": "[Troca de Prêmios]\nEntendido~\nMuito obrigado por contribuir para o desenvolvimento do Festival do Macarrão!!!",
+        "es-ES": "[Canje de Premios]\nEntendido~\n¡Muchas gracias por contribuir al desarrollo del Festival de Fideos!!!"
+    },
+    "V0hsDQ": {
+        "en-US": "[Prize Exchange]\nIs that so? But remember, summer is shorter than you think.",
+        "pt-BR": "[Troca de Prêmios]\nÉ assim? Mas lembre-se, o verão é mais curto do que você imagina.",
+        "es-ES": "[Canje de Premios]\n¿Ah, sí? \nPero recuerda, el verano es más corto de lo que piensas."
+    },
+    "WEhsDQ": {
+        "en-US": "[Prize Exchange]\nGot it~\nExchange for the equipment you want and stay healthy with noodles this hot summer!",
+        "pt-BR": "[Troca de Prêmios]\nEntendido~\nTroque pelo equipamento que você deseja e mantenha-se saudável com macarrão neste verão quente!",
+        "es-ES": "[Canje de Premios]\nEntendido~\n¡Cambia por el equipo que quieras y mantente saludable con fideos en este verano caliente!"
+    },
+    "WUhsDQ": {
+        "en-US": "[Prize Exchange]\nGot it~\nExchange for the consumables you want and stay healthy with noodles this hot summer!",
+        "pt-BR": "[Troca de Prêmios]\nEntendido~\nTroque pelos consumíveis que você deseja e mantenha-se saudável com macarrão neste verão quente!",
+        "es-ES": "[Canje de Premios]\nEntendido~\n¡Cambia por los consumibles que quieras y mantente saludable con fideos en este verano caliente!"
+    },
+    "WkhsDQ": {
+        "en-US": "[Prize Exchange]\nIs that so? But remember, summer is shorter than you think. If you find something you want to exchange, you must come during the festival period.",
+        "pt-BR": "[Troca de Prêmios]\nÉ assim? Mas lembre-se, o verão é mais curto do que você imagina. Se você encontrar algo que queira trocar, deve vir durante o período do festival.",
+        "es-ES": "[Canje de Premios]\n¿Ah, sí? \nPero recuerda, el verano es más corto de lo que piensas. \nSi encuentras algo que quieras cambiar, debes venir durante el período del festival."
+    },
+    "W0hsDQ": {
+        "en-US": "[Prize Exchange]\nIf you've earned coins from participating in the Noodle Festival events, bring them to me!",
+        "pt-BR": "[Troca de Prêmios]\nSe você ganhou moedas participando dos eventos do Festival do Macarrão, traga-as para mim!",
+        "es-ES": "[Canje de Premios]\n¡Si has ganado monedas participando en los eventos del Festival de Fideos, tráemelas!"
+    },
+    "XEhsDQ": {
+        "en-US": "Prize Raffle",
+        "pt-BR": "Sorteio de Prêmios",
+        "es-ES": "Sorteo de Premios"
+    },
+    "XUhsDQ": {
+        "en-US": "Raffle your Farfalle Coupons for prizes! You could be the lucky winner!!!",
+        "pt-BR": "Participe do sorteio com seus Cupons Farfalle­! Você pode ser o sortudo vencedor!!!",
+        "es-ES": "¡Participa en el sorteo con tus Cupóns Farfalle!  ¡Podrías ser el afortunado ganador!!!"
+    },
+    "XkhsDQ": {
+        "en-US": "[Prize Raffle]\nIf you have Farfalle Coupons, try your luck at the raffle with various prizes!",
+        "pt-BR": "[Sorteio de Prêmios]\nSe você tem Cupons Farfalle­, tente sua sorte no sorteio com vários prêmios!",
+        "es-ES": "[Sorteo de Premios]\nSi tienes Cupóns Farfalle, ¡prueba suerte en el sorteo con varios premios!"
+    },
+    "X0hsDQ": {
+        "en-US": "I want to join the raffle!",
+        "pt-BR": "Quero participar do sorteio!",
+        "es-ES": "¡Quiero unirme al sorteo!"
+    },
+    "YEhsDQ": {
+        "en-US": "Maybe next time.",
+        "pt-BR": "Talvez na próxima.",
+        "es-ES": "Quizás la próxima vez."
+    },
+    "YUhsDQ": {
+        "en-US": "[Prize Raffle]\nLet's see, let's see... What will it be.....",
+        "pt-BR": "[Sorteio de Prêmios]\nVamos ver, vamos ver... O que será que vai sair.....",
+        "es-ES": "[Sorteo de Premios]\nVeamos, veamos.. ¿Qué será...."
+    },
+    "YkhsDQ": {
+        "en-US": "Ta-da!!! Were you lucky? Please use us again next time!",
+        "pt-BR": "Ta-dá!!! Você teve sorte? Por favor, use-nos novamente na próxima vez!",
+        "es-ES": "¡Ta-dá! ¿Tuviste suerte? ¡Por favor, úsanos de nuevo la próxima vez!"
+    },
+    "Y0hsDQ": {
+        "en-US": "[Prize Raffle]\nOh! But your inventory looks too heavy! You need to leave room to carry your prizes!",
+        "pt-BR": "[Sorteio de Prêmios]\nAh! Mas seu inventário parece muito pesado! Você precisa deixar espaço para carregar seus prêmios!",
+        "es-ES": "[Sorteo de Premios]\n¡Ah! \n¡Pero tu inventario se ve demasiado pesado! \n¡Necesitas dejar espacio para llevar tus premios!"
+    },
+    "ZEhsDQ": {
+        "en-US": "[Prize Raffle]\nBut you don't have any Farfalle Coupons. Please check again.",
+        "pt-BR": "[Sorteio de Prêmios]\nMas você não tem Cupons Farfalle­. Por favor, verifique novamente.",
+        "es-ES": "[Sorteo de Premios]\nPero no tienes ningún Cupón Farfalle. \nPor favor, verifica de nuevo."
+    },
+    "ZUhsDQ": {
+        "en-US": "[Prize Raffle]\nYou can purchase Farfalle Coupons from the <NAVI>[Prize Exchange]<INFO>lasagna,86,207,0,101,0,</INFO></NAVI> NPC next to me.",
+        "pt-BR": "[Sorteio de Prêmios]\nVocê pode comprar Cupons Farfalle­ com o NPC <NAVI>[Troca de Prêmios]<INFO>lasagna,86,207,0,101,0,</INFO></NAVI> ao meu lado.",
+        "es-ES": "[Sorteo de Premios]\nPuedes comprar Cupóns Farfalle en el NPC <NAVI>[Canje de Premios]<INFO>lasagna,86,207,0,101,0,</INFO></NAVI> que está a mi lado."
+    },
+    "ZkhsDQ": {
+        "en-US": "[Prize Raffle]\nGot it! The next lucky winner could be you!",
+        "pt-BR": "[Sorteio de Prêmios]\nEntendido! O próximo sortudo vencedor pode ser você!",
+        "es-ES": "[Sorteo de Premios]\n¡Entendido! \n¡El próximo afortunado ganador podrías ser tú!"
+    },
+    "Z0hsDQ": {
+        "en-US": "[Prize Raffle]\nIf you have Farfalle Coupons, try the raffle before you go! You could be the lucky winner!!!",
+        "pt-BR": "[Sorteio de Prêmios]\nSe você tem Cupons Farfalle­, tente o sorteio antes de ir! Você pode ser o sortudo vencedor!!!",
+        "es-ES": "[Sorteo de Premios]\nSi tienes Cupóns Farfalle, ¡prueba el sorteo antes de irte! \n¡Podrías ser el afortunado ganador!!!"
+    },
+    "aEhsDQ": {
+        "en-US": "Noodle Festa Promotion NPC",
+        "pt-BR": "Promotor do Festival do Macarrão",
+        "es-ES": "Promotor del Festival de Fideos"
+    },
+    "aUhsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nWant to join the Noodle Festival? Unfortunately, it looks like you need to grow a bit more first.",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nQuer participar do Festival do Macarrão? Infelizmente, parece que você precisa crescer um pouco mais primeiro.",
+        "es-ES": "[Promotor del Festival de Fideos]\n¿Quieres unirte al Festival de Fideos? \nDesafortunadamente, parece que necesitas crecer un poco más primero."
+    },
+    "akhsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nHello!\nIt's a hot summer that wears down both body and mind, isn't it? How about a delicious bowl of noodles?",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nOlá!\nÉ um verão quente que desgasta tanto o corpo quanto a mente, não é? Que tal uma deliciosa tigela de macarrão?",
+        "es-ES": "[Promotor del Festival de Fideos]\n¡Hola!\nHace un verano caliente que agota cuerpo y mente, ¿verdad? \n¿Qué tal un delicioso plato de fideos?"
+    },
+    "a0hsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nRight now, the ^0000CDGreat Noodle Festival^000000 is in full swing in ^0000CDLasagna^000000! One bowl of chewy, delicious noodles will restore your energy!",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nNeste exato momento, o ^0000CDGrande Festival do Macarrão^000000 está a todo vapor em ^0000CDLasagna^000000! Uma tigela de macarrão macio e delicioso restaurará sua energia!",
+        "es-ES": "[Promotor del Festival de Fideos]\n¡Ahora mismo, el ^0000CDGran Festival de Fideos^000000 está en pleno apogeo en ^0000CDLasagna^000000! \n¡Un plato de fideos masticables y deliciosos restaurará tu energía!"
+    },
+    "bEhsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nWould you like to head to Lasagna to soothe your tired body with noodles? I can send you there right now!",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nGostaria de ir para Lasagna para acalmar seu corpo cansado com macarrão? Posso te enviar agora mesmo!",
+        "es-ES": "[Promotor del Festival de Fideos]\n¿Te gustaría ir a Lasagna para calmar tu cuerpo cansado con fideos? \n¡Puedo enviarte ahora mismo!"
+    },
+    "bUhsDQ": {
+        "en-US": "I want to go now!",
+        "pt-BR": "Quero ir agora!",
+        "es-ES": "¡Quiero ir ahora!"
+    },
+    "bkhsDQ": {
+        "en-US": "I'll go later.",
+        "pt-BR": "Irei mais tarde.",
+        "es-ES": "Iré después."
+    },
+    "b0hsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nGreat! If you happen to get a lot of <ITEM>[Festival Fan]<INFO>25367</INFO></ITEM> during the event, bring them to us. We'll send you straight to the venue. Of course, the first trip is free!",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nÓtimo! Se você conseguir muitos <ITEM>[Leques do Festival]<INFO>25367</INFO></ITEM> durante o evento, traga-os para nós. Nós te enviaremos direto para o local. Claro, a primeira viagem é grátis!",
+        "es-ES": "[Promotor del Festival de Fideos]\n¡Genial! Si llegas a tener muchos <ITEM>[Abanicos del Festival]<INFO>25367</INFO></ITEM> durante el evento, tráenoslos. Te enviaremos directamente al lugar. \n¡Por supuesto, el primer viaje es gratis!"
+    },
+    "cEhsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nThen I'll guide you to the venue right now! Noodles are the best! Noodles are the best!!",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nEntão, vou te guiar para o local agora mesmo! Macarrão é demais! Macarrão é demais!!",
+        "es-ES": "[Promotor del Festival de Fideos]\nEntonces, ¡te guiaré al lugar ahora mismo! \n¡Los fideos son lo máximo! \n¡Los fideos son lo máximo!"
+    },
+    "cUhsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nThe event runs for one month while the great moon is up, so be sure to come by even if it's later!\nBut the moon wanes after it's full, so don't come too late! Noodles are the best! Noodles are the best!!",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nO evento dura um mês enquanto a grande lua está alta, então não deixe de vir, mesmo que seja mais tarde!\nMas a lua minguante depois da lua cheia, então não venha muito tarde! Macarrão é o máximo! Macarrão é o máximo!!",
+        "es-ES": "[Promotor del Festival de Fideos]\nEl evento dura un mes mientras la gran luna está alta, ¡así que asegúrate de venir aunque sea más tarde!\nPero la luna mengua después de la luna llena, ¡así que no llegues demasiado tarde! \n¡Los fideos son lo máximo! \n¡Los fideos son lo máximo!"
+    },
+    "ckhsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nAre you enjoying the Noodle Festival? Ah, I want to eat noodles too!\nIf you give me ^0000CDFestival Fan, I'll guide you straight to the venue^000000.",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nVocê está gostando do Festival do Macarrão? Ah, eu também quero comer macarrão!\nSe você me der ^0000CDLeque do Festival, vou te guiar direto para o local^000000.",
+        "es-ES": "[Promotor del Festival de Fideos]\n¿Estás disfrutando del Festival de Verano de Fideos? \n¡Ah, yo también quiero comer fideos!\nSi me das ^0000CDAbanicos del Festival, te guiaré directamente al lugar^000000."
+    },
+    "c0hsDQ": {
+        "en-US": "Send me right away!",
+        "pt-BR": "Me mande agora mesmo!",
+        "es-ES": "¡Envíame de inmediato!"
+    },
+    "dEhsDQ": {
+        "en-US": "I'll go later.",
+        "pt-BR": "Irei mais tarde.",
+        "es-ES": "Iré después."
+    },
+    "dUhsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nGreat! I'll guide you to the venue right now! Noodles are the best! Noodles are the best!!",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nÓtimo! Vou te guiar para o local agora mesmo! Macarrão é o máximo! Macarrão é o máximo!!",
+        "es-ES": "[Promotor del Festival de Fideos]\n¡Genial! ¡Te guiaré al lugar ahora mismo! \n¡Los fideos son lo máximo! \n¡Los fideos son lo máximo!"
+    },
+    "dkhsDQ": {
+        "en-US": "[Noodle Festa Promotion NPC]\nUh... I don't see any Festival Fans. Did you leave them somewhere else? Please check and come back! I can send you anytime during the event.",
+        "pt-BR": "[Promotor do Festival do Macarrão]\nUh... não vejo nenhum Leque do Festival. Você os deixou em outro lugar? Por favor, verifique e volte! Posso te enviar a qualquer momento durante o evento.",
+        "es-ES": "[Promotor del Festival de Fideos]\nUh... no veo ningún Abanico Promocional. \n¿Los dejaste en otro lugar? \n¡Por favor, revisa y vuelve! \nPuedo enviarte en cualquier momento durante el evento."
+    },
+    "d0hsDQ": {
+        "en-US": "Confirm",
+        "pt-BR": "Confirmar",
+        "es-ES": "Confirmar"
+    },
+    "eEhsDQ": {
+        "en-US": "Still alive",
+        "pt-BR": "Ainda estou vivo",
+        "es-ES": "Sigo vivo"
+    },
+    "eUhsDQ": {
+        "en-US": "[#swit01]\nPress if Nyailo has disappeared due to an unexpected accident.",
+        "pt-BR": "[#swit01]\nPressione se Macarroneta desapareceu devido a um acidente inesperado.",
+        "es-ES": "[#swit01]\nPresiona si Nyailo ha desaparecido debido a un accidente inesperado."
+    },
+    "ekhsDQ": {
+        "en-US": "Summon",
+        "pt-BR": "Convocar",
+        "es-ES": "Convocar"
+    },
+    "e0hsDQ": {
+        "en-US": "Nyailo",
+        "pt-BR": "Macarroneta",
+        "es-ES": "Nyailo"
+    },
+    "fEhsDQ": {
+        "en-US": "Nya! Nya nya!! Nya~ Nya nya nya~ Nya? Nya nya!!!",
+        "pt-BR": "Nya! Nya nya!! Nya~ Nya nya nya~ Nya? Nya nya!!!",
+        "es-ES": "Nya! Nya nya!! Nya~ Nya nya nya~ Nya? Nya nya!!!"
+    },
+    "fUhsDQ": {
+        "en-US": "Meatballs pour out! Enjoy the joy of harvest!",
+        "pt-BR": "Almôndegas caem! Aproveite a alegria da colheita!",
+        "es-ES": "¡Las Albóndigas se derraman! ¡Disfruta de la alegría de la cosecha!"
+    },
+    "fkhsDQ": {
+        "en-US": "[#swit02]\nPress if Nyailo has disappeared due to an unexpected accident.",
+        "pt-BR": "[#swit02]\nPressione se Macarroneta desapareceu devido a um acidente inesperado.",
+        "es-ES": "[#swit02]\nPresiona si Nyailo ha desaparecido debido a un accidente inesperado."
+    },
+    "f0hsDQ": {
+        "en-US": "Nyaa?? Nyaaaaaaaaa???",
+        "pt-BR": "Nyaa?? Nyaaaaaaaaa???",
+        "es-ES": "Nyaa?? Nyaaaaaaaaa???"
+    },
+    "gEhsDQ": {
+        "en-US": "[#swit03]\nPress if Nyailo has disappeared due to an unexpected accident.",
+        "pt-BR": "[#swit03]\nPressione se Macarroneta desapareceu devido a um acidente inesperado.",
+        "es-ES": "[#swit03]\nPresiona si Nyailo ha desaparecido debido a un accidente inesperado."
+    },
+    "gUhsDQ": {
+        "en-US": "Nya~~~ Nyaaaaa~~",
+        "pt-BR": "Nya~~~ Nyaaaaa~~",
+        "es-ES": "Nya~~~ Nyaaaaa~~"
+    },
+    "gkhsDQ": {
+        "en-US": "[#swit04]\nPress if Nyailo has disappeared due to an unexpected accident.",
+        "pt-BR": "[#swit04]\nPressione se Macarroneta desapareceu devido a um acidente inesperado.",
+        "es-ES": "[#swit04]\nPresiona si Nyailo ha desaparecido debido a un accidente inesperado."
+    },
+    "g0hsDQ": {
+        "en-US": "Nya! Nya! Nya! Nya! Nya!",
+        "pt-BR": "Nya! Nya! Nya! Nya! Nya!",
+        "es-ES": "Nya! Nya! Nya! Nya! Nya!"
+    },
+    "hEhsDQ": {
+        "en-US": "[#swit05]\nPress if Nyailo has disappeared due to an unexpected accident.",
+        "pt-BR": "[#swit05]\nPressione se Macarroneta desapareceu devido a um acidente inesperado.",
+        "es-ES": "[#swit05]\nPresiona si Nyailo ha desaparecido debido a un accidente inesperado."
+    },
+    "hUhsDQ": {
+        "en-US": "Nya nya nya~ Nya! Nya nya nya~ Nya!",
+        "pt-BR": "Nya nya nya~ Nya! Nya nya nya~ Nya!",
+        "es-ES": "Nya nya nya~ Nya! Nya nya nya~ Nya!"
+    },
+    "hkhsDQ": {
+        "en-US": "Merchant",
+        "pt-BR": "Comerciante",
+        "es-ES": "Comerciante"
+    },
+    "h0hsDQ": {
+        "en-US": "People who go to Nyail Cave will come back with loads of fish. I'd better empty my boat.",
+        "pt-BR": "As pessoas que vão à Caverna Nyail voltam com toneladas de peixe. É melhor eu esvaziar meu barco.",
+        "es-ES": "La gente que va a la Cueva de Miaul vuelve con un montón de pescado. Será mejor que vacíe mi bote."
+    },
+    "iEhsDQ": {
+        "en-US": "Festival Spectator",
+        "pt-BR": "Espectador do Festival",
+        "es-ES": "Espectador del Festival"
+    },
+    "iUhsDQ": {
+        "en-US": "Hey.",
+        "pt-BR": "Ei.",
+        "es-ES": "Oye."
+    },
+    "ikhsDQ": {
+        "en-US": "What?",
+        "pt-BR": "O quê?",
+        "es-ES": "¿Qué?"
+    },
+    "i0hsDQ": {
+        "en-US": "Can I borrow some Ravioli Coins?",
+        "pt-BR": "Posso pegar algumas Moedas Ravioli emprestadas?",
+        "es-ES": "¿Me prestas algunas Monedas del Festival de Fideos?"
+    },
+    "jEhsDQ": {
+        "en-US": "What for?",
+        "pt-BR": "Para quê?",
+        "es-ES": "¿Para qué?"
+    },
+    "jUhsDQ": {
+        "en-US": "To buy some Farfalle Coupons.",
+        "pt-BR": "Para comprar alguns Cupons Farfalle­.",
+        "es-ES": "Para comprar Cupóns Farfalle."
+    },
+    "jkhsDQ": {
+        "en-US": "I don't have any either.",
+        "pt-BR": "Eu também não tenho nenhuma.",
+        "es-ES": "Yo tampoco tengo."
+    },
+    "j0hsDQ": {
+        "en-US": "If you're short on Ravioli Coins, try participating in the festival events.",
+        "pt-BR": "Se você está com poucas Moedas Ravioli, tente participar dos eventos do festival.",
+        "es-ES": "Si te faltan Moneda Ravioli, prueba a participar en los eventos del festival."
+    },
+    "kEhsDQ": {
+        "en-US": "Ah, should I?",
+        "pt-BR": "Ah, devo?",
+        "es-ES": "Ah, ¿debería?"
+    },
+    "kUhsDQ": {
+        "en-US": "I like Watermelon Smashing.",
+        "pt-BR": "Eu gosto de Quebrar Melancias.",
+        "es-ES": "Me gusta Romper Sandías."
+    },
+    "kkhsDQ": {
+        "en-US": "Adventurer",
+        "pt-BR": "Aventureiro",
+        "es-ES": "Trotamundos"
+    },
+    "k0hsDQ": {
+        "en-US": "Did you get anything good as a souvenir?",
+        "pt-BR": "Você conseguiu algo bom como lembrança?",
+        "es-ES": "¿Conseguiste algo bueno como recuerdo?"
+    },
+    "lEhsDQ": {
+        "en-US": "Just some stuff...",
+        "pt-BR": "Apenas algumas coisas...",
+        "es-ES": "Solo algunas cosas..."
+    },
+    "lUhsDQ": {
+        "en-US": "You got something good!!!!",
+        "pt-BR": "Você conseguiu algo bom!!!!",
+        "es-ES": "¡¡¡Conseguiste algo bueno!!!!"
+    },
+    "lkhsDQ": {
+        "en-US": "Is there any souvenir you want?",
+        "pt-BR": "Há alguma lembrança que você queira?",
+        "es-ES": "¿Hay algún recuerdo que quieras?"
+    },
+    "l0hsDQ": {
+        "en-US": "Hmm... I'm eyeing the Pinwheel Hat.",
+        "pt-BR": "Hmm... Estou de olho no Chapéu Cata-Vento Festivo.",
+        "es-ES": "Hmm... estoy mirando el Sombrero de Molinete."
+    },
+    "mEhsDQ": {
+        "en-US": "It won't be easy.",
+        "pt-BR": "Não vai ser fácil.",
+        "es-ES": "No va a ser fácil."
+    },
+    "mUhsDQ": {
+        "en-US": "I'm thinking of going back to Nyail Cave. How about you?",
+        "pt-BR": "Estou pensando em voltar para a Caverna Nyail. E você?",
+        "es-ES": "Estoy pensando en volver a la Cueva de Miaul. ¿Y tú?"
+    },
+    "mkhsDQ": {
+        "en-US": "I'll rest a bit first.",
+        "pt-BR": "Vou descansar um pouco primeiro.",
+        "es-ES": "Voy a descansar un poco primero."
+    },
+    "m0hsDQ": {
+        "en-US": "Come with me.",
+        "pt-BR": "Venha comigo.",
+        "es-ES": "Ven conmigo."
+    },
+    "nEhsDQ": {
+        "en-US": "Have you seen the great moon that rises this time of year? The beautiful light of the blue moon half-submerged in the sea...!",
+        "pt-BR": "Você já viu a grande lua que nasce nesta época do ano? A bela luz da lua azul semi-submersa no mar...!",
+        "es-ES": "¿Has visto la gran luna que sale en esta época del año? La hermosa luz de la luna azul medio sumergida en el mar...!"
+    },
+    "nUhsDQ": {
+        "en-US": "Tomato Noodles or Cream Shrimp Pasta... I can't decide. I'll just have both.",
+        "pt-BR": "Macarrão com Tomate ou Macarrão Camaronesco... Não consigo decidir. Vou pedir os dois.",
+        "es-ES": "Fideos con Tomate o Pasta con Camarones a la Crema... no puedo decidirme. Mejor pido los dos."
+    },
+    "nkhsDQ": {
+        "en-US": "To go to Nyail Cave... can't I take a boat from here?",
+        "pt-BR": "Para ir à Caverna Nyail... não posso pegar um barco daqui?",
+        "es-ES": "Para ir a la Cueva de Miaul... ¿no puedo tomar un bote desde aquí?"
+    },
+    "n0hsDQ": {
+        "en-US": "To go to Nyail Cave, you have to go to the Festival Manager!",
+        "pt-BR": "Para ir à Caverna Nyail, você tem que ir ao Gerente do Festival!",
+        "es-ES": "¡Para ir a la Cueva de Miaul, tienes que ir al Festa Manager!"
+    },
+    "oEhsDQ": {
+        "en-US": "Foodie",
+        "pt-BR": "Gourmet",
+        "es-ES": "Gourmet"
+    },
+    "oUhsDQ": {
+        "en-US": "One Tomato Noodles!",
+        "pt-BR": "Um Macarrão com Tomate!",
+        "es-ES": "¡Unos Fideos con Tomate!"
+    },
+    "okhsDQ": {
+        "en-US": "Why are you looking for Tomato Noodles here!!! Go to the noodle master in the northeast!",
+        "pt-BR": "Por que você está procurando Macarrão com Tomate aqui!!! Vá ao mestre do macarrão no nordeste!",
+        "es-ES": "¡¿Por qué buscas Fideos con Tomate aquí?! ¡Ve con el Maestro de Fideos del noreste!"
+    },
+    "o0hsDQ": {
+        "en-US": "Since I'm here, I'll have a Kaluna Milk. Blend it with Meatball too!",
+        "pt-BR": "Já que estou aqui, vou tomar um Leite de Kaluna. Misture com Almôndega também!",
+        "es-ES": "Ya que estoy aquí, tomaré una Leche de Kaluna. ¡Mézclala con albóndigas también!"
+    },
+    "pEhsDQ": {
+        "en-US": "Duckling",
+        "pt-BR": "Patolindo",
+        "es-ES": "Patolino"
+    },
+    "pUhsDQ": {
+        "en-US": "Quack...! Hey, you there!",
+        "pt-BR": "Quack...! Ei, você aí!",
+        "es-ES": "¡Cuac...! ¡Oye, tú!"
+    },
+    "pkhsDQ": {
+        "en-US": "[Duckling]\nQuack...! Hey, you there! I wish you'd notice me.",
+        "pt-BR": "[Patolindo]\nQuack...! Ei, você aí! Eu queria que você me notasse.",
+        "es-ES": "[Patolino]\n¡Cuac...! \n¡Oye, tú! \nOjalá me notaras."
+    },
+    "p0hsDQ": {
+        "en-US": "A Duckling? Is that the lost item?",
+        "pt-BR": "Um Patolindo? É o item perdido?",
+        "es-ES": "¿Un muñeco de un patito? ¿Será el objeto perdido?"
+    },
+    "qEhsDQ": {
+        "en-US": "[Duckling]\nLost item?! I'm here because I want to be here!",
+        "pt-BR": "[Patolindo]\nItem perdido?! Estou aqui porque quero estar aqui!",
+        "es-ES": "[Patolino]\n¿¡Objeto perdido!? \n¡Estoy aquí porque quiero estar aquí!"
+    },
+    "qUhsDQ": {
+        "en-US": "Ah, sorry, sorry.",
+        "pt-BR": "Ah, desculpe, desculpe.",
+        "es-ES": "Ah, perdón, perdón."
+    },
+    "qkhsDQ": {
+        "en-US": "[Duckling]\nI've been watching you closely. You're diligent at the festival and helping others. I saw that. Very impressive.",
+        "pt-BR": "[Patolindo]\nEu tenho te observado de perto. Você é diligente no festival e está ajudando os outros. Eu vi isso. Muito impressionante.",
+        "es-ES": "[Patolino]\nTe he estado observando de cerca. \nTe esfuerzas mucho en el festival y también te esmeras en ayudar a los demás. \nHe visto todo eso y me ha parecido muy impresionante."
+    },
+    "q0hsDQ": {
+        "en-US": "[Duckling]\nSo, I was thinking... maybe you could help me too.",
+        "pt-BR": "[Patolindo]\nEntão, eu estava pensando... talvez você pudesse me ajudar também.",
+        "es-ES": "[Patolino]\nEntonces, estaba pensando... tal vez también podrías ayudarme a mí."
+    },
+    "rEhsDQ": {
+        "en-US": "I'll help. What's the matter?",
+        "pt-BR": "Vou ajudar. Qual é o problema?",
+        "es-ES": "Ayudaré. ¿Qué sucede?"
+    },
+    "rUhsDQ": {
+        "en-US": "What a bizarre situation.",
+        "pt-BR": "Que situação bizarra.",
+        "es-ES": "Qué situación tan extraña."
+    },
+    "rkhsDQ": {
+        "en-US": "[Duckling]\nHow kind of you. I judged you well. I haven't seen many people, so I can't be sure, but I'm right. Don't you think I'm good at judging people? A genius, perhaps?",
+        "pt-BR": "[Patolindo]\nQue gentil da sua parte. Eu te julguei bem. Não vi muitas pessoas, então não posso ter certeza, mas estou certo. Você não acha que sou bom em julgar as pessoas? Um gênio, talvez?",
+        "es-ES": "[Patolino]\nQué amable de tu parte. \nTe juzgué bien. \nNo he visto mucha gente, así que no puedo estar seguro, pero estoy en lo cierto. \n¿No crees que soy bueno para juzgar a las personas? \n¿Un genio, quizás?"
+    },
+    "r0hsDQ": {
+        "en-US": "[Duckling]\nMy name is ^0000CDKingduky^000000. Did you know? In a cave somewhere out in the ocean where those Nya-nya-nyang creatures live, there are many of us Ducklings. A whole lot.",
+        "pt-BR": "[Patolindo]\nMeu nome é ^0000CDCapitão Quac^000000. Sabia? Em uma caverna em algum lugar no oceano onde aquelas criaturas Nya-nya-nyang vivem, há muitos de nós, Patolindos. Muitos mesmo.",
+        "es-ES": "[Patolino]\nMi nombre es ^0000CDCapitán Cuac^000000.\n¿Sabías? \nEn una cueva en algún lugar del océano donde viven esas criaturas Ña-ña-ñang, hay muchos de nosotros, los Patolinos. \nUn montón."
+    },
+    "sEhsDQ": {
+        "en-US": "You mean Nyail Cave?",
+        "pt-BR": "Você quer dizer a Caverna Nyail?",
+        "es-ES": "¿Te refieres a la Cueva de Miaul?"
+    },
+    "sUhsDQ": {
+        "en-US": "[Kingduky]\nYes! Nya-nya-nyang Cave! Is it called that because those Nya-nya-nyang creatures live there?",
+        "pt-BR": "[Capitão Quac]\nSim! Caverna Nya-nya-nyang! É chamado assim porque aquelas criaturas Nya-nya-nyang vivem lá?",
+        "es-ES": "[Capitán Cuac]\n¡Sí! ¡Cueva Ña-ña-ñang! \n¿Se llama así porque esas criaturas Ña-ña-ñang viven allí?"
+    },
+    "skhsDQ": {
+        "en-US": "Nya-nya-nyang... Sure, call it whatever you like.",
+        "pt-BR": "Nya-nya-nyang... Claro, chame do que quiser.",
+        "es-ES": "Ña-ña-ñang... Claro, llámalo como quieras."
+    },
+    "s0hsDQ": {
+        "en-US": "[Kingduky]\nOne day, I opened my eyes there. I hitched a ride on some nasty person's back and came all the way here.",
+        "pt-BR": "[Capitão Quac]\nUm dia, abri meus olhos lá. Peguei carona nas costas de uma pessoa desagradável e vim parar aqui.",
+        "es-ES": "[Capitán Cuac]\nUn día, abrí los ojos allí. \nMe subí a la espalda de una persona desagradable y llegué hasta aquí."
+    },
+    "tEhsDQ": {
+        "en-US": "A nasty person?",
+        "pt-BR": "Uma pessoa desagradável?",
+        "es-ES": "¿Una persona desagradable?"
+    },
+    "tUhsDQ": {
+        "en-US": "[Kingduky]\nA villain who dangled a shiny button in front of my eyes! I almost lost my mind and lunged for it! But this Kingduky is not such a pushover Duckling.",
+        "pt-BR": "[Capitão Quac]\nUm vilão que balançou um botão brilhante na frente dos meus olhos! Eu quase perdi a cabeça e investi contra ele! Mas este Capitão Quac não é um Patolindo tão fácil assim.",
+        "es-ES": "[Capitán Cuac]\n¡Un villano que colgó un botón brillante frente a mis ojos! \n¡Casi pierdo la cabeza y me lancé a por él! \nPero este patolino no es un patolino tan fácil de engañar."
+    },
+    "tkhsDQ": {
+        "en-US": "[Kingduky]\nI barely came to my senses and escaped that trap. Later, I secretly clung to that person's back and made it all the way here. Quack quack. That person will never know about my cunning.",
+        "pt-BR": "[Capitão Quac]\nMal recuperei o juízo e consegui escapar dessa armadilha. Mais tarde, me agarrei secretamente às costas daquela pessoa e cheguei até aqui. Quack quack. Aquela pessoa nunca saberá sobre minha astúcia.",
+        "es-ES": "[Capitán Cuac]\nApenas recuperé el sentido y escapé de esa trampa. \nMás tarde, me agarré en secreto a la espalda de esa persona y llegué hasta aquí.\nCuac cuac. \nEsa persona nunca sabrá de mi astucia."
+    },
+    "t0hsDQ": {
+        "en-US": "[Kingduky]\nAnyone who messes with this Kingduky will be in for a terrible surprise...",
+        "pt-BR": "[Capitão Quac]\nQualquer um que mexer com Capitão Quac terá uma surpresa terrível...",
+        "es-ES": "[Capitán Cuac]\nCualquiera que se meta con este Capitán Cuac tendrá una desagradable sorpresa..."
+    },
+    "uEhsDQ": {
+        "en-US": "So what do you need help with?",
+        "pt-BR": "Então, do que você precisa de ajuda?",
+        "es-ES": "Entonces, ¿en qué necesitas ayuda?"
+    },
+    "uUhsDQ": {
+        "en-US": "[Kingduky]\nAh, right! Rescue my fellow Ducklings. Unfortunately, I'm just a Duckling, so I can't go to that cave myself... No one will send me there. I don't even know where it is.",
+        "pt-BR": "[Capitão Quac]\nAh, certo! Resgate meus companheiros Patolindos. Infelizmente, sou apenas um Patolindo, então não posso ir àquela caverna sozinho... Ninguém vai me mandar para lá. Eu nem sei onde fica.",
+        "es-ES": "[Capitán Cuac]\n¡Ah, cierto! \nRescata a mis compañeros Capitán Cuacs. \nDesafortunadamente, solo soy un Capitán Cuac, así que no puedo ir a esa cueva por mi cuenta... \nNadie me enviará allí. \nNi siquiera sé dónde está."
+    },
+    "ukhsDQ": {
+        "en-US": "[Kingduky]\nThere were so many of my fellow Ducklings in <NAVI>[that place]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>! Among them, there must be some who have opened their eyes like me. Right? Please bring those fellow Ducklings here.",
+        "pt-BR": "[Capitão Quac]\nHavia tantos dos meus companheiros Patolindos naquele <NAVI>[lugar]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>! Entre eles, deve haver alguns que abriram os olhos como eu. Certo? Por favor, traga esses companheiros Patolindos para cá.",
+        "es-ES": "[Capitán Cuac]\n¡Había tantos de mis compañeros Capitán Cuacs en <NAVI>[ese lugar]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>! \nEntre ellos, debe haber algunos que hayan abierto los ojos como yo. \n¿Verdad? \nPor favor, trae a esos compañeros Capitán Cuacs aquí."
+    },
+    "u0hsDQ": {
+        "en-US": "[Kingduky]\nWe Ducklings can't escape that place on our own, so someone has to help us. And it seems like that someone is you.",
+        "pt-BR": "[Capitão Quac]\nNós, Patolindos, não podemos escapar daquele lugar sozinhos, então alguém tem que nos ajudar. E parece que esse alguém é você.",
+        "es-ES": "[Capitán Cuac]\nNosotros, los Capitán Cuacs, no podemos escapar de ese lugar por nuestra cuenta, así que alguien tiene que ayudarnos. \nY parece que ese alguien eres tú."
+    },
+    "vEhsDQ": {
+        "en-US": "Alright. I'll go.",
+        "pt-BR": "Tudo bem. Eu vou.",
+        "es-ES": "Está bien. Iré."
+    },
+    "vUhsDQ": {
+        "en-US": "[Kingduky]\nYou'll probably get confused between talking Ducklings and non-talking ones. But you look smart. Let's do this!",
+        "pt-BR": "[Capitão Quac]\nVocê provavelmente vai se confundir entre Patolindos falantes e os que não falam. Mas você parece inteligente. Vamos tentar!",
+        "es-ES": "[Capitán Cuac]\nProbablemente te confundirás entre los Capitán Cuacs que hablan y los que no. \nPero pareces inteligente. \nHagamos esto."
+    },
+    "vkhsDQ": {
+        "en-US": "[Duckling]\nWhat! Is this your first time seeing a Duckling asking for help!!!! Don't give me that look like you've seen it all! It won't turn your eyes into stars!",
+        "pt-BR": "[Patolindo]\nO quê! É a sua primeira vez vendo um Patolindo pedindo ajuda!!!! Não me olhe com essa cara de quem já viu de tudo! Não vai fazer seus olhos virarem estrelas!",
+        "es-ES": "[Patolino]\n¡¿Qué?! \n¡¿Es tu primera vez viendo a un Capitán Cuac pidiendo ayuda?! \n¡No me mires con esa cara de haberlo visto todo! \n¡No te va a convertir los ojos en estrellas!"
+    },
+    "v0hsDQ": {
+        "en-US": "[Kingduky]\nRescue my fellow Ducklings from <NAVI>[Nyail Cave]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>.",
+        "pt-BR": "[Capitão Quac]\nResgate meus companheiros Patolindos da <NAVI>[Caverna Nyail do Mar de Lasagna]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>.",
+        "es-ES": "[Capitán Cuac]\nRescata a mis compañeros Capitán Cuacs de la <NAVI>[Cueva de Miaul]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>."
+    },
+    "wEhsDQ": {
+        "en-US": "[Kingduky]\nWelcome back. Have you rescued many of my fellow Ducklings? I'm sure you have. It seems that way.",
+        "pt-BR": "[Capitão Quac]\nBem-vindo de volta. Você resgatou muitos dos meus companheiros Patolindos? Aposto que sim. Parece que sim.",
+        "es-ES": "[Capitán Cuac]\nBienvenido de vuelta.\n¿Has rescatado a muchos de mis compañeros Capitán Cuacs? \nEstoy seguro de que sí.\nParece que sí."
+    },
+    "wUhsDQ": {
+        "en-US": "[Duckling]\nWhere is this place?",
+        "pt-BR": "[Patolindo]\nOnde é este lugar?",
+        "es-ES": "[Patolino]\n¿Dónde es este lugar?"
+    },
+    "wkhsDQ": {
+        "en-US": "Where is this place?",
+        "pt-BR": "Onde é este lugar?",
+        "es-ES": "¿Dónde es este lugar?"
+    },
+    "w0hsDQ": {
+        "en-US": "[Duckling]\nTh... these withered things—what are they? Why is there no water here? This is weird?",
+        "pt-BR": "[Patolindo]\nEs... essas coisas murchas—o que são? Por que não há água aqui? Isso é estranho?",
+        "es-ES": "[Patolino]\nEs... estas cosas marchitas ¿qué son? \n¿Por qué no hay agua aquí? \nEsto es extraño."
+    },
+    "xEhsDQ": {
+        "en-US": "Why is there no water? This is weird?",
+        "pt-BR": "Por que não há água? Isso é estranho?",
+        "es-ES": "¿Por qué no hay agua? ¿Esto es extraño?"
+    },
+    "xUhsDQ": {
+        "en-US": "[Duckling]\nIs this the place? The place where there are fellow Ducklings on my level. There seem to be many strong-looking ones here.",
+        "pt-BR": "[Patolindo]\nÉ este o lugar? O lugar onde há companheiros Patolindos do meu nível? Parece haver muitos de aparência forte aqui.",
+        "es-ES": "[Patolino]\n¿Es este el lugar? \nEl lugar donde hay compañeros Capitán Cuacs de mi nivel. \nParece que hay muchos de apariencia fuerte aquí."
+    },
+    "xkhsDQ": {
+        "en-US": "Is this the place.",
+        "pt-BR": "É este o lugar.",
+        "es-ES": "Es este el lugar."
+    },
+    "x0hsDQ": {
+        "en-US": "[Duckling]\nWhere have you brought me!! Let go of me!!! What? Why are there so many that look just like me?",
+        "pt-BR": "[Patolindo]\nPara onde você me trouxe!! Solte-me!!! O quê? Por que há tantos que se parecem comigo?",
+        "es-ES": "[Patolino]\n¡¿Dónde me has traído?! \n¡¡Suéltame!! \n¡¿Qué? \n¡¿Por qué hay tantos que se parecen a mí?!"
+    },
+    "yEhsDQ": {
+        "en-US": "Why are they all the same as me?",
+        "pt-BR": "Por que todos são iguais a mim?",
+        "es-ES": "¿Por qué son todos iguales que yo?"
+    },
+    "yUhsDQ": {
+        "en-US": "[Kingduky]\nWelcome, my fellow Ducklings. This Kingduky welcomes you.",
+        "pt-BR": "[Capitão Quac]\nBem-vindos, meus companheiros Patolindos. Este Capitão Quac os saúda.",
+        "es-ES": "[Capitán Cuac]\nBienvenidos, mis compañeros Capitán Cuacs. \nEste Capitán Cuac les da la bienvenida."
+    },
+    "ykhsDQ": {
+        "en-US": "[Duckling]\nI thought I was the only one in the world, but you were all here!",
+        "pt-BR": "[Patolindo]\nEu pensei que era o único no mundo, mas vocês estavam todos aqui!",
+        "es-ES": "[Patolino]\n¡Pensé que era el único en el mundo, pero ustedes estaban todos aquí!"
+    },
+    "y0hsDQ": {
+        "en-US": "[Duckling]\nWhy didn't I know about them in that cave? Was I the only one who didn't know?",
+        "pt-BR": "[Patolindo]\nPor que eu não sabia sobre eles naquela caverna? Eu fui o único que não sabia?",
+        "es-ES": "[Patolino]\n¿Por qué no sabía de ellos en esa cueva? \n¿Fui el único que no lo sabía?"
+    },
+    "zEhsDQ": {
+        "en-US": "[Duckling]\nThere were many Ducklings there that couldn't talk and just floated around.",
+        "pt-BR": "[Patolindo]\nHavia muitos Patolindos lá que não podiam falar e apenas flutuavam.",
+        "es-ES": "[Patolino]\nHabía muchos Capitán Cuacs allí que no podían hablar y solo flotaban."
+    },
+    "zUhsDQ": {
+        "en-US": "[Kingduky]\nRight. There were almost none of us who could talk.",
+        "pt-BR": "[Capitão Quac]\nCerto. Quase não havia nenhum de nós que pudesse falar.",
+        "es-ES": "[Capitán Cuac]\nCierto. \nCasi no había ninguno de nosotros que pudiera hablar."
+    },
+    "zkhsDQ": {
+        "en-US": "[Duckling]\nBut we can talk. The others can't.",
+        "pt-BR": "[Patolindo]\nMas nós podemos falar. Os outros não podem.",
+        "es-ES": "[Patolino]\nPero nosotros podemos hablar. \nLos otros no pueden."
+    },
+    "z0hsDQ": {
+        "en-US": "[Duckling]\nWhat's the difference? Were we naturally born there?",
+        "pt-BR": "[Patolindo]\nQual é a diferença? Nós nascemos naturalmente lá?",
+        "es-ES": "[Patolino]\n¿Cuál es la diferencia? \n¿Nacimos naturalmente allí?"
+    },
+    "0EhsDQ": {
+        "en-US": "You were all spilled from a shipwreck some time ago.",
+        "pt-BR": "Vocês todos foram derramados de um naufrágio há algum tempo.",
+        "es-ES": "Todos ustedes fueron derramados de un naufragio hace algún tiempo."
+    },
+    "0UhsDQ": {
+        "en-US": "[Duckling]\nA shipwreck? I don't remember that.",
+        "pt-BR": "[Patolindo]\nUm naufrágio? Não me lembro disso.",
+        "es-ES": "[Patolino]\n¿Un naufragio? \nNo recuerdo eso."
+    },
+    "0khsDQ": {
+        "en-US": "[Kingduky]\nI do remember something! The feeling of something touching my beak!!",
+        "pt-BR": "[Capitão Quac]\nEu me lembro de algo! A sensação de algo tocando meu bico!!",
+        "es-ES": "[Capitán Cuac]\n¡Yo sí recuerdo algo! \n¡La sensación de algo tocando mi pico!!"
+    },
+    "00hsDQ": {
+        "en-US": "[Duckling]\nI know that too! Something fragrant and fantastically delicious... crumbs??",
+        "pt-BR": "[Patolindo]\nEu também sei disso! Algo perfumado e fantasticamente delicioso... migalhas??",
+        "es-ES": "[Patolino]\n¡Yo también sé eso! \nAlgo fragante y fantásticamente delicioso... ¿migas?"
+    },
+    "1EhsDQ": {
+        "en-US": "[Duckling]\nHey, you too? Me too!! From the moment that entered my mouth, I was truly alive.",
+        "pt-BR": "[Patolindo]\nEi, você também? Eu também!! Eu estava vivo desde o momento em que aquilo entrou na minha boca.",
+        "es-ES": "[Patolino]\nOye, ¿tú también? \n¡Yo también!! \nEstuve vivo desde el momento en que eso entró en mi boca."
+    },
+    "1UhsDQ": {
+        "en-US": "You must have eaten Meatball.",
+        "pt-BR": "Você deve ter comido Almôndega.",
+        "es-ES": "Debes haber comido Albóndiga."
+    },
+    "1khsDQ": {
+        "en-US": "[Kingduky]\nMeatball? Is that magic potion Meatball?",
+        "pt-BR": "[Capitão Quac]\nAlmôndega? Essa poção mágica é Almôndega?",
+        "es-ES": "[Capitán Cuac]\n¿Albóndiga? \n¿Esa poción mágica es la Albóndiga?"
+    },
+    "10hsDQ": {
+        "en-US": "[Duckling]\nSo that's how we came to be!!",
+        "pt-BR": "[Patolindo]\nEntão foi assim que surgimos!!",
+        "es-ES": "[Patolino]\n¡¡Entonces así es como llegamos a ser!!"
+    },
+    "2EhsDQ": {
+        "en-US": "[Duckling]\nBut how did you know to bring us here?",
+        "pt-BR": "[Patolindo]\nMas como você sabia que deveria nos trazer aqui?",
+        "es-ES": "[Patolino]\nPero, ¿cómo supiste que debías traernos aquí?"
+    },
+    "2UhsDQ": {
+        "en-US": "[Kingduky]\nI asked this one to gather you all!",
+        "pt-BR": "[Capitão Quac]\nEu pedi a este aqui para reunir todos vocês!",
+        "es-ES": "[Capitán Cuac]\n¡Le pedí a este que los reuniera a todos!"
+    },
+    "2khsDQ": {
+        "en-US": "[Duckling]\nWho are you?",
+        "pt-BR": "[Patolindo]\nQuem é você?",
+        "es-ES": "[Patolino]\n¿Quién eres?"
+    },
+    "20hsDQ": {
+        "en-US": "[Kingduky]\nMe? I'm Kingduky.",
+        "pt-BR": "[Capitão Quac]\nEu? Eu sou Capitão Quac.",
+        "es-ES": "[Capitán Cuac]\n¿Yo? \nSoy Capitán Cuac."
+    },
+    "3EhsDQ": {
+        "en-US": "As you can see, a Duckling.",
+        "pt-BR": "Como pode ver, um Patolindo.",
+        "es-ES": "Como puedes ver, un Capitán Cuac."
+    },
+    "3UhsDQ": {
+        "en-US": "[Duckling]\nWhat's Kingduky?",
+        "pt-BR": "[Patolindo]\nO que é Capitão Quac?",
+        "es-ES": "[Patolino]\n¿Qué es Capitán Cuac?"
+    },
+    "3khsDQ": {
+        "en-US": "[Kingduky]\nThat's my name. It's what you call me.",
+        "pt-BR": "[Capitão Quac]\nEsse é meu nome. É como você me chama.",
+        "es-ES": "[Capitán Cuac]\nEse es mi nombre. \nAsí me llamas."
+    },
+    "30hsDQ": {
+        "en-US": "Cool, isn't it.",
+        "pt-BR": "Legal, não é?",
+        "es-ES": "Genial, ¿verdad?"
+    },
+    "4EhsDQ": {
+        "en-US": "[Duckling]\nWhy do you have a name?",
+        "pt-BR": "[Patolindo]\nPor que você tem um nome?",
+        "es-ES": "[Patolino]\n¿Por qué tienes un nombre?"
+    },
+    "4UhsDQ": {
+        "en-US": "[Kingduky]\nWhen I came here, everyone had a way to call each other. They said it was a name. I was so envious... so I made one.",
+        "pt-BR": "[Capitão Quac]\nQuando cheguei aqui, todos tinham uma maneira de se chamar. Disseram que era um nome. Eu fiquei com tanta inveja... então criei um.",
+        "es-ES": "[Capitán Cuac]\nCuando llegué aquí, todos tenían una forma de llamarse. \nDijeron que era un nombre.\nSentí tanta envidia... así que me hice uno."
+    },
+    "4khsDQ": {
+        "en-US": "[Kingduky]\nI heard people call us \"duck\". But I wanted to be special. So I added to the name they call us. I attached a strong-sounding sound I had heard.",
+        "pt-BR": "[Capitão Quac]\nOuvi as pessoas nos chamarem de \"pato\". Mas eu queria ser especial. Então eu adicionei ao nome que eles nos chamam. Anexei um som forte que tinha ouvido.",
+        "es-ES": "[Capitán Cuac]\nOí que la gente nos llama \"pato\". \nPero yo quería ser especial. \nAsí que le añadí algo al nombre que nos dan. \nLe puse un sonido fuerte que había escuchado."
+    },
+    "40hsDQ": {
+        "en-US": "[Duckling]\nThen I'll make one too! I want to be Kingduky too.",
+        "pt-BR": "[Patolindo]\nEntão vou criar um também! Quero ser Capitão Quac também.",
+        "es-ES": "[Patolino]\n¡Entonces yo también me haré uno! \nTambién quiero ser Capitán Cuac."
+    },
+    "5EhsDQ": {
+        "en-US": "King! Duky!!",
+        "pt-BR": "Capitão! Quac!!",
+        "es-ES": "¡Capitán ! ¡Cuac!!"
+    },
+    "5UhsDQ": {
+        "en-US": "[Kingduky]\nKingduky is my name! If you steal it, you're a thief!!! You have to make your own name! That's how it should be!",
+        "pt-BR": "[Capitão Quac]\nCapitão Quac é meu nome! Se você roubá-lo, é um ladrão!!! Você tem que fazer seu próprio nome! É assim que deve ser!",
+        "es-ES": "[Capitán Cuac]\n¡Capitán Cuaces mi nombre! \n¡Si lo robas, eres un villano! \n¡Tienes que hacer tu propio nombre! \n¡Así debe ser!"
+    },
+    "5khsDQ": {
+        "en-US": "[Duckling]\nReally? Then... I'll be Ganduky!",
+        "pt-BR": "[Patolindo]\nSério? Então... vou ser Fidequac!",
+        "es-ES": "[Patolino]\n¿En serio? \nEntonces... ¡seré Fideocuac!"
+    },
+    "50hsDQ": {
+        "en-US": "Gan! Duky!",
+        "pt-BR": "Fi! De! Quac!",
+        "es-ES": "¡Fideocuac!"
+    },
+    "6EhsDQ": {
+        "en-US": "[Duckling]\nI'll be Poeduky!",
+        "pt-BR": "[Patolindo]\nEu serei Cadincuac!",
+        "es-ES": "[Patolino]\n¡Seré Caldicuac!"
+    },
+    "6UhsDQ": {
+        "en-US": "Poe! Duky!",
+        "pt-BR": "Cadin! Cuac!",
+        "es-ES": "¡Caldicuac!"
+    },
+    "6khsDQ": {
+        "en-US": "[Duckling]\nWhich is better, Luduky or Fonduky?",
+        "pt-BR": "[Patolindo]\nQual é melhor, Cuaquinho ou Cuacamole?",
+        "es-ES": "[Patolino]\n¿Cuál es mejor, Cuaquíno o Cuacamole?"
+    },
+    "60hsDQ": {
+        "en-US": "Luduky? Fonduky?",
+        "pt-BR": "Cuaquinho? Cuacamole?",
+        "es-ES": "¿Cuaquín? ¿Cuacamole?"
+    },
+    "7EhsDQ": {
+        "en-US": "[Duckling]\nNo, I think Duckjones and Ducktales are better.",
+        "pt-BR": "[Patolindo]\nNão, acho que Jonipato e Patoteles são melhores.",
+        "es-ES": "[Patolino]\nNo, creo que Sideok y Patoteles son mejores."
+    },
+    "7UhsDQ": {
+        "en-US": "Duckjones? Ducktales? Which is better?",
+        "pt-BR": "Jonipato? Patoteles? Qual é melhor?",
+        "es-ES": "¿Sideok? ¿Patoteles? ¿Cuál es mejor?"
+    },
+    "7khsDQ": {
+        "en-US": "[Duckling]\nDucktales? Then what about Miduduky? There's also Miduky, Huduky, Ducknorris...?",
+        "pt-BR": "[Patolindo]\nPatoteles? Então e Patonardo? Também tem Quacnífico, Patagon, Cuacnorris...?",
+        "es-ES": "[Patolino]\n¿Deodeok? \n¿Entonces qué tal Patonardo? \nTambién están Cuacnífico, Patagón, CuacNorris...?"
+    },
+    "70hsDQ": {
+        "en-US": "Miduduky... Miduky, Huduky, Ducknorris. There are a lot of good ones.",
+        "pt-BR": "Patonardo... Quacnífico, Patagon, Cuacnorris. Há muitos nomes bons.",
+        "es-ES": "Patonardo... Cuacnífico, Patagón, CuacNorris. Hay muchos buenos."
+    },
+    "8EhsDQ": {
+        "en-US": "No, not \"duck\" like that, it's...",
+        "pt-BR": "Não, não é \"cuac\" assim, é...",
+        "es-ES": "No, \"deok\" no es así, es..."
+    },
+    "8UhsDQ": {
+        "en-US": "[Duckling]\nHow about this? I'm Oneduck, you're Twoduck, and that one is Threeduck!",
+        "pt-BR": "[Patolindo]\nQue tal isso? Eu sou Umpato, você é Doispato e aquele é Trespato!",
+        "es-ES": "[Patolino]\n¿Qué tal esto? \n¡Yo soy Pato-Uno, tú eres Pato-Dos y ese es Pato-Tres!"
+    },
+    "8khsDQ": {
+        "en-US": "Oneduck, Twoduck, Threeduck",
+        "pt-BR": "Umpato, Doispato, Trespato.",
+        "es-ES": "¡Pato-Uno, Pato-Dos, Pato-Tres!"
+    },
+    "80hsDQ": {
+        "en-US": "Hurry up and say it. Luduky? Fonduky?",
+        "pt-BR": "Pense rápido. Cuaquinho? Cuacamole?",
+        "es-ES": "Date prisa y dilo. ¿Cuaquín? ¿Patonardo?"
+    },
+    "9EhsDQ": {
+        "en-US": "What are your names again...",
+        "pt-BR": "Quais são seus nomes mesmo...",
+        "es-ES": "¿Cómo eran sus nombres otra vez?"
+    },
+    "9UhsDQ": {
+        "en-US": "[Duckling]\nThen I'll be Miduky.",
+        "pt-BR": "[Patolindo]\nEntão vou escolher Quacnífico.",
+        "es-ES": "[Patolino]\nEntonces me quedo con Cuacnífico."
+    },
+    "9khsDQ": {
+        "en-US": "From now on, I'm Miduky.",
+        "pt-BR": "De agora em diante, sou Quacnífico.",
+        "es-ES": "De ahora en adelante, soy Cuacnífico."
+    },
+    "90hsDQ": {
+        "en-US": "[Kingduky]\nNo, uh... yeah, as long as you're happy.",
+        "pt-BR": "[Capitão Quac]\nNão, uh... sim, contanto que você esteja feliz.",
+        "es-ES": "[Capitán Cuac]\nNo, uh... sí, mientras seas feliz."
+    },
+    "+EhsDQ": {
+        "en-US": "Yeah, well... what's in a name anyway.",
+        "pt-BR": "Sim, bem... o que há em um nome afinal.",
+        "es-ES": "Sí, bueno... qué importa un nombre."
+    },
+    "+UhsDQ": {
+        "en-US": "[Duckling]\nIt sounds like you're wishing us happiness, but somehow I feel offended.",
+        "pt-BR": "[Patolindo]\nParece que você está nos desejando felicidade, mas de alguma forma me sinto ofendido.",
+        "es-ES": "[Patolino]\nParece que nos deseas felicidad, pero de alguna manera me siento ofendido."
+    },
+    "+khsDQ": {
+        "en-US": "[Duckling]\nRight. You stay out of this.",
+        "pt-BR": "[Patolindo]\nCerto. Você não se meta nisso.",
+        "es-ES": "[Patolino]\nCierto. \nTú no te metas en esto."
+    },
+    "+0hsDQ": {
+        "en-US": "[Duckling]\nWhile we're naming ourselves, you stay out of it.",
+        "pt-BR": "[Patolindo]\nEnquanto estamos nos nomeando, fique de fora disso.",
+        "es-ES": "[Patolino]\nMientras nos ponemos nombres, tú no te metas."
+    },
+    "/EhsDQ": {
+        "en-US": "Ah, okay.",
+        "pt-BR": "Ah, ok.",
+        "es-ES": "Ah, está bien."
+    },
+    "/UhsDQ": {
+        "en-US": "[Kingduky]\nSorry about this. Wait a moment. Everyone's clumsy at naming, so I need to supervise.",
+        "pt-BR": "[Capitão Quac]\nDesculpe por isso. Espere um momento. Todo mundo é desajeitado para nomear, então preciso supervisionar.",
+        "es-ES": "[Capitán Cuac]\nPerdón por esto. Espera un momento. Todos son torpes para poner nombres, así que necesito supervisar."
+    },
+    "/khsDQ": {
+        "en-US": "[Kingduky]\nWhat?",
+        "pt-BR": "[Capitão Quac]\nO quê?",
+        "es-ES": "[Capitán Cuac]\n¿Qué?"
+    },
+    "/0hsDQ": {
+        "en-US": "[Miduduky]\nSince we've come this far, let's create a world of Ducklings.",
+        "pt-BR": "[Patonardo]\nJá que chegamos até aqui, vamos criar um mundo de Patolindos.",
+        "es-ES": "[Patonardo]\nYa que hemos llegado hasta aquí, creemos un mundo de Capitán Cuacs."
+    },
+    "AElsDQ": {
+        "en-US": "[Huduky]\nLet's conquer the world!",
+        "pt-BR": "[Patagon]\nVamos conquistar o mundo!",
+        "es-ES": "[Patagón]\n¡Conquistemos el mundo!"
+    },
+    "AUlsDQ": {
+        "en-US": "[Miduky]\nI'm going to be the best. I'll become the best and conquer everything.",
+        "pt-BR": "[Quacnífico]\nVou ser o melhor. Vou me tornar o melhor e conquistar tudo.",
+        "es-ES": "[Cuacnífico]\nVoy a ser el mejor. \nMe convertiré en el mejor y lo conquistaré todo."
+    },
+    "AklsDQ": {
+        "en-US": "[Luduky]\nI agree!!",
+        "pt-BR": "[Cuaquinho]\nEu concordo!!",
+        "es-ES": "[Cuaquín]\n¡¡Estoy de acuerdo!!"
+    },
+    "A0lsDQ": {
+        "en-US": "What are you talking about all of a sudden while naming yourselves?",
+        "pt-BR": "O que vocês estão falando de repente enquanto se nomeiam?",
+        "es-ES": "¿De qué están hablando de repente mientras se ponen nombres?"
+    },
+    "BElsDQ": {
+        "en-US": "[Miduduky]\nYou're asking what all this is about?",
+        "pt-BR": "[Patonardo]\nVocê está perguntando o que é tudo isso?",
+        "es-ES": "[Patonardo]\n¿Preguntas qué es todo esto?"
+    },
+    "BUlsDQ": {
+        "en-US": "[Huduky]\nWhile we were naming ourselves, we saw people carrying around our Ducklings who can't speak like us.",
+        "pt-BR": "[Patagon]\nEnquanto nos nomeávamos, vimos pessoas carregando nossos Patolindos que não podem falar como nós.",
+        "es-ES": "[Hudeok]\nMientras nos poníamos nombres, vimos a personas cargando a nuestros Capitán Cuacs que no pueden hablar como nosotros."
+    },
+    "BklsDQ": {
+        "en-US": "[Luduky]\nThey lure innocent Ducklings with shiny buttons and carry them around.",
+        "pt-BR": "[Cuaquinho]\nEles atraem Patolindos inocentes com botões brilhantes e os carregam por aí.",
+        "es-ES": "[Cuaquín]\nAtraen a Capitán Cuacs inocentes con botones brillantes y los cargan."
+    },
+    "B0lsDQ": {
+        "en-US": "[Kingduky]\nThat happened to me too! But I ignored them! Everyone just needs to be patient.",
+        "pt-BR": "[Capitão Quac]\nIsso aconteceu comigo também! Mas os ignorei! Todos só precisam ter paciência.",
+        "es-ES": "[Capitán Cuac]\n¡Eso también me pasó a mí! \n¡Pero los ignoré! \nTodos solo necesitan tener paciencia."
+    },
+    "CElsDQ": {
+        "en-US": "[Miduky]\nBut why can't they understand? That's an insult!",
+        "pt-BR": "[Quacnífico]\nMas por que eles não entendem? Isso é um insulto!",
+        "es-ES": "[Cuacnífico]\n¿Pero por qué no pueden entender? \n¡Eso es un insulto!"
+    },
+    "CUlsDQ": {
+        "en-US": "[Miduduky]\nDolls other than us Ducklings don't speak like us even if they eat Meatball. There must be a reason why we can speak and move like this. What do you think it is?",
+        "pt-BR": "[Patonardo]\nBonecos que não sejam nossos Patolindos não falam como nós, mesmo que comam Almôndega. Deve haver uma razão pela qual podemos falar e nos mover assim. O que você acha que é?",
+        "es-ES": "[Patonardo]\nLos muñecos que no son Capitán Cuacs no hablan como nosotros aunque coman albóndigas. \nDebe haber una razón por la que podemos hablar y movernos así. \n¿Cuál crees que es?"
+    },
+    "CklsDQ": {
+        "en-US": "[Luduky]\nIt's a miracle! The whole world must know about that miracle.",
+        "pt-BR": "[Cuaquinho]\nÉ um milagre! O mundo inteiro deve saber sobre esse milagre.",
+        "es-ES": "[Cuaquín]\n¡Es un milagro! \nEl mundo entero debe saber sobre ese milagro."
+    },
+    "C0lsDQ": {
+        "en-US": "[Huduky]\nThis is a mission. We must awaken all our kin.",
+        "pt-BR": "[Patagon]\nEsta é nossa missão. Devemos despertar todos os nossos companheiros.",
+        "es-ES": "[Patagón]\nEsta es una misión. \nDebemos despertar a todos nuestros compañeros Capitán Cuacs."
+    },
+    "DElsDQ": {
+        "en-US": "[Miduduky]\nWe're going back to that cave to dig up Meatballs again.",
+        "pt-BR": "[Patonardo]\nVamos voltar àquela caverna para desenterrar Almôndegas novamente.",
+        "es-ES": "[Patonardo]\nVolveremos a esa cueva para desenterrar albóndigas de nuevo."
+    },
+    "DUlsDQ": {
+        "en-US": "[Luduky]\nWe'll dig up Meatballs and feed them to all our fellow Ducklings.",
+        "pt-BR": "[Cuaquinho]\nVamos desenterrar Almôndegas e alimentar todos os nossos companheiros Patolindos.",
+        "es-ES": "[Cuaquín]\nDesenterraremos albóndigas y las daremos de comer a todos nuestros compañeros Capitán Cuacs."
+    },
+    "DklsDQ": {
+        "en-US": "[Miduduky]\nAnd we'll tell our awakened fellow Ducklings to dig up all the Meatballs. And our fellow Ducklings who eat those Meatballs will spread far and wide across this world.",
+        "pt-BR": "[Patonardo]\nE vamos dizer aos nossos companheiros Patolindos despertados para desenterrar todas as Almôndegas. E nossos companheiros Patolindos que comerem essas Almôndegas se espalharão por todo este mundo.",
+        "es-ES": "[Patonardo]\nY diremos a nuestros compañeros Capitán Cuacs despertados que desentierren todas las albóndigas. \nY nuestros compañeros Capitán Cuacs que coman esas Albóndigas se extenderán por todo este mundo."
+    },
+    "D0lsDQ": {
+        "en-US": "[Miduky]\nThis world and Meatballs will be ours.",
+        "pt-BR": "[Quacnífico]\nEste mundo e as Almôndegas serão nossos.",
+        "es-ES": "[Cuacnífico]\nEste mundo y las albóndigas serán nuestros."
+    },
+    "EElsDQ": {
+        "en-US": "[Miduduky]\nYou guys have been eating all that good stuff by yourselves. Unforgivable.",
+        "pt-BR": "[Patonardo]\nVocês estavam comendo todas essas coisas boas sozinhos. Imperdoável.",
+        "es-ES": "[Patonardo]\nUstedes han estado comiendo todas esas cosas buenas solos. Imperdonable."
+    },
+    "EUlsDQ": {
+        "en-US": "[Luduky]\nIt must be shared with everyone.",
+        "pt-BR": "[Cuaquinho]\nDeve ser compartilhado com todos.",
+        "es-ES": "[Cuaquín]\nDebe compartirse con todos."
+    },
+    "EklsDQ": {
+        "en-US": "[Miduduky]\nYou were using a magic potion as mere food ingredients!",
+        "pt-BR": "[Patonardo]\nVocês estavam usando uma poção mágica como meros ingredientes alimentares!",
+        "es-ES": "[Patonardo]\n¡Estaban usando una poción mágica como meros ingredientes alimenticios!"
+    },
+    "E0lsDQ": {
+        "en-US": "[Miduky]\nWe'll show those who try to subjugate us with shiny buttons the bitter taste of our organization!",
+        "pt-BR": "[Quacnífico]\nVamos mostrar àqueles que tentam nos subjugar com botões brilhantes o gosto amargo da nossa organização!",
+        "es-ES": "[Cuacnífico]\n¡Mostraremos a los que intentan someternos con botones brillantes el amargo sabor de nuestra organización!"
+    },
+    "FElsDQ": {
+        "en-US": "No, that doesn't seem right...",
+        "pt-BR": "Não, isso não parece certo...",
+        "es-ES": "No, eso no parece correcto..."
+    },
+    "FUlsDQ": {
+        "en-US": "[Kingduky]\nThink again. I gathered you because I was lonely, not to conquer the world. Conquering the world would hurt everyone!",
+        "pt-BR": "[Capitão Quac]\nPensem bem. Eu os reuni porque estava sozinho, não para conquistar o mundo. Conquistar o mundo machucaria a todos!",
+        "es-ES": "[Capitán Cuac]\nPiénsalo de nuevo. Los reuní porque estaba solo, no para conquistar el mundo. \n¡Conquistar el mundo lastimaría a todos!"
+    },
+    "FklsDQ": {
+        "en-US": "[Luduky]\nYou gathered us as you pleased, but you don't get to decide our purpose. If you don't like our plan, you can leave.",
+        "pt-BR": "[Cuaquinho]\nVocê nos reuniu porque quis, mas você não decide o que vamos fazer. Se você não gosta do nosso plano, pode ir embora.",
+        "es-ES": "[Cuaquín]\nNos reuniste como quisiste, pero no puedes decidir nuestro propósito. \nSi no te gusta nuestro plan, puedes irte."
+    },
+    "F0lsDQ": {
+        "en-US": "[Miduduky]\nHey you, you brought us out of that place, so we'll specially set you free.",
+        "pt-BR": "[Patonardo]\nEi, você, você nos tirou daquele lugar, então vamos te libertar especialmente.",
+        "es-ES": "[Patonardo]\nOye tú, nos sacaste de ese lugar, así que te dejaremos libre especialmente."
+    },
+    "GElsDQ": {
+        "en-US": "[Huduky]\nWe'll even give you a new name.",
+        "pt-BR": "[Patagon]\nVamos até te dar um novo nome.",
+        "es-ES": "[Patagón]\nIncluso te daremos un nuevo nombre."
+    },
+    "GUlsDQ": {
+        "en-US": "[Miduduky]\nSince we Ducklings are naming you, how about <FONT COLOR = FF00CC, SIZE = 17><B>Ooduky</B></FONT>?",
+        "pt-BR": "[Patonardo]\nJá que nós, Patolindos, estamos te nomeando, que tal <FONT COLOR = FF00CC, SIZE = 17><B>Josipato</B></FONT>?",
+        "es-ES": "[Patonardo]\nYa que nosotros, los Capitán Cuacs, te estamos nombrando, ¿qué tal <FONT COLOR = FF00CC, SIZE = 17><B>O-deok</B></FONT>?"
+    },
+    "GklsDQ": {
+        "en-US": "[Huduky]\nOoduky is good! <FONT COLOR = FF00CC, SIZE = 17><B>Ooduky</B></FONT>!! I want it for myself!!",
+        "pt-BR": "[Patagon]\nJosipato é bom! <FONT COLOR = FF00CC, SIZE = 17><B>Josipato</B></FONT>!! Eu quero ele para mim!!",
+        "es-ES": "[Patagón]\n¡O-deok es bueno! <FONT COLOR = FF00CC, SIZE = 17><B>O-deok</B></FONT>!! ¡Lo quiero para mí!"
+    },
+    "G0lsDQ": {
+        "en-US": "What???",
+        "pt-BR": "O quê???",
+        "es-ES": "¿¿¿Qué???"
+    },
+    "HElsDQ": {
+        "en-US": "[Luduky]\nDon't like it? Then how about <FONT COLOR = FF0000, SIZE = 17><B>5-duky</B></FONT>, since five Ducklings are naming you?",
+        "pt-BR": "[Cuaquinho]\nNão gostou? Então que tal <FONT COLOR = FF0000, SIZE = 17><B>Cincopato</B></FONT>, já que cinco Patolindos estão te nomeando?",
+        "es-ES": "[Cuaquín]\n¿No te gusta? Entonces, ¿qué tal <FONT COLOR = FF0000, SIZE = 17><B>5-deok</B></FONT>, ya que cinco Capitán Cuacs te están nombrando?"
+    },
+    "HUlsDQ": {
+        "en-US": "[Huduky]\n5-duky is nice! <FONT COLOR = FF0000, SIZE = 17><B>5-duky</B></FONT>!!! I want this one!",
+        "pt-BR": "[Patagon]\nCincopato é bom! <FONT COLOR = FF0000, SIZE = 17><B>Cincopato</B></FONT>!!! Eu quero ele para mim!",
+        "es-ES": "[Patagón]\n¡5-patos es bueno! <FONT COLOR = FF0000, SIZE = 17><B>5-deok</B></FONT>!!! ¡Lo quiero para mí!"
+    },
+    "HklsDQ": {
+        "en-US": "No, I already have a name...",
+        "pt-BR": "Não, eu já tenho um nome...",
+        "es-ES": "No, yo ya tengo nombre..."
+    },
+    "H0lsDQ": {
+        "en-US": "[Miduky]\nBut before we conquer the world, we can't have you spilling our plans to your kind, so we'd better keep you detained.",
+        "pt-BR": "[Quacnífico]\nMas antes de conquistarmos o mundo, não podemos deixar você contar nossos planos para seus companheiros, então é melhor mantê-lo detido.",
+        "es-ES": "[Cuacnífico]\nPero antes de conquistar el mundo, no podemos dejar que reveles nuestros planes a los tuyos, así que será mejor que te mantengamos detenido."
+    },
+    "IElsDQ": {
+        "en-US": "Ah, what now? What now?",
+        "pt-BR": "Ah, e agora? E agora?",
+        "es-ES": "Ah, ¿y ahora qué? ¿Y ahora qué?"
+    },
+    "IUlsDQ": {
+        "en-US": "[Kingduky]\nHey, <FONT COLOR = FF00CC, SIZE = 15><B>Ooduky</B></FONT>. Can I talk to you for a moment?",
+        "pt-BR": "[Capitão Quac]\nEi, <FONT COLOR = FF00CC, SIZE = 15><B>Patonildo</B></FONT>. Posso falar com você um pouco?",
+        "es-ES": "[Capitán Cuac]\nOye, <FONT COLOR = FF00CC, SIZE = 15><B>O-deok</B></FONT>. ¿Puedo hablar contigo un momento?"
+    },
+    "IklsDQ": {
+        "en-US": "[Kingduky]\nI'm really sorry to you. I didn't know it would turn out like this when I asked you to bring my fellow Ducklings. I didn't expect this. It seems they all ate the wrong Meatball...",
+        "pt-BR": "[Capitão Quac]\nSinto muito por você. Eu não sabia que isso ia acontecer quando pedi que você trouxesse meus companheiros Patolindos. Eu não esperava por isso. Parece que todos comeram a Almôndega errada...",
+        "es-ES": "[Capitán Cuac]\nLo siento mucho. \nNo sabía que esto iba a pasar cuando te pedí que trajeras a mis compañeros Capitán Cuacs. \nNo esperaba esto. \nParece que todos comieron la albóndigas equivocada..."
+    },
+    "I0lsDQ": {
+        "en-US": "[Kingduky]\nIs this all my fault for thinking wrong? Or is it because I'm so cute? I never knew my fellow Ducklings could be this foolish.",
+        "pt-BR": "[Capitão Quac]\nIsso é tudo culpa minha por pensar errado? Ou é porque sou tão fofo? Eu nunca soube que meus companheiros Patolindos poderiam ser tão tolos.",
+        "es-ES": "[Capitán Cuac]\n¿Es todo mi culpa por pensar mal? \n¿O es porque soy tan lindo? Nunca supe que mis compañeros Capitán Cuacs podrían ser tan tontos."
+    },
+    "JElsDQ": {
+        "en-US": "It's not your fault.",
+        "pt-BR": "Não é sua culpa.",
+        "es-ES": "No es tu culpa."
+    },
+    "JUlsDQ": {
+        "en-US": "[Kingduky]\nThank you. I really appreciate you saying that. Phew—I guess I have to take responsibility for those foolish Ducklings. And <FONT COLOR = FF00CC, SIZE = 15><B>Ooduky</B></FONT>, I'll need your help again.",
+        "pt-BR": "[Capitão Quac]\nObrigado. Agradeço muito por dizer isso. Ufa—acho que tenho que assumir a responsabilidade por aqueles Patolindos tolos. E <FONT COLOR = FF00CC, SIZE = 15><B>Patonildo</B></FONT>, vou precisar da sua ajuda novamente.",
+        "es-ES": "[Capitán Cuac]\nGracias. Aprecio mucho que digas eso. Uf—creo que tengo que asumir la responsabilidad por esos Capitán Cuacs tontos. \nY <FONT COLOR = FF00CC, SIZE = 15><B>O-deok</B></FONT>, necesitaré tu ayuda de nuevo."
+    },
+    "JklsDQ": {
+        "en-US": "What are you planning to do?",
+        "pt-BR": "O que você planeja fazer?",
+        "es-ES": "¿Qué planeas hacer?"
+    },
+    "J0lsDQ": {
+        "en-US": "[Kingduky]\nWe Ducklings have a big wish: to wear a star-shaped button to show off! But you can't tell anyone about this. It's our secret!",
+        "pt-BR": "[Capitão Quac]\nNós, Patolindos, temos um grande desejo: usar um botão em forma de estrela para mostrar! Mas você não pode contar a ninguém sobre isso. É nosso segredo!",
+        "es-ES": "[Capitán Cuac]\nNosotros, los Patolinos, tenemos un gran deseo: ¡usar un botón con forma de estrella para lucirlo! \nPero no puedes contárselo a nadie. \n¡Es nuestro secreto!"
+    },
+    "KElsDQ": {
+        "en-US": "[Kingduky]\nI saw in Nyail Cave that there are star-shaped fragments scattered around. I thought they were star buttons and bit down on them, but they weren't. But they should be good enough to fool those foolish Ducklings.",
+        "pt-BR": "[Capitão Quac]\nEu vi na Caverna Nyail que há fragmentos em forma de estrela espalhados por lá. Pensei que fossem botões de estrela e mordi, mas não eram. Mas devem ser bons o suficiente para enganar aqueles Patolindos tolos.",
+        "es-ES": "[Capitán Cuac]\nVi en la Cueva de Miaul que hay fragmentos con forma de estrella esparcidos por ahí. \nPensé que eran botones de estrella y los mordí, pero no lo eran. \nPero deberían ser suficientes para engañar a esos Capitán Cuacs tontos."
+    },
+    "KUlsDQ": {
+        "en-US": "So you're going to distract them with that?",
+        "pt-BR": "Então você vai distraí-los com isso?",
+        "es-ES": "¿Así que los vas a distraer con eso?"
+    },
+    "KklsDQ": {
+        "en-US": "[Kingduky]\nSmart. Exactly. If I bring them countless fragments and say there are star buttons mixed in, they'll probably go crazy looking for them. They'll probably forget all about world conquest.",
+        "pt-BR": "[Capitão Quac]\nInteligente. Exatamente. Se eu trouxer a eles inúmeros fragmentos e disser que há botões de estrela misturados, eles provavelmente enlouquecerão procurando por eles. Eles provavelmente esquecerão toda a conquista do mundo.",
+        "es-ES": "[Capitán Cuac]\nInteligente. \nExacto. \nSi les traigo innumerables fragmentos y digo que hay botones de estrella mezclados, probablemente se volverán locos buscándolos. \nProbablemente olviden todo lo de conquistar el mundo."
+    },
+    "K0lsDQ": {
+        "en-US": "[Kingduky]\nThose fragments drop when you hit something star-shaped. I saw it. They fell clattering. I also saw a Duckling like me pick them up.",
+        "pt-BR": "[Capitão Quac]\nEsses fragmentos caem quando você bate em algo em forma de estrela. Eu vi. Eles caíram fazendo barulho. Também vi um Patolindo como eu pegá-los.",
+        "es-ES": "[Capitán Cuac]\nEsos fragmentos caen cuando golpeas algo con forma de estrella. \nLo vi. \nCayeron haciendo ruido. \nTambién vi a un Capitán Cuac como yo recogerlos."
+    },
+    "LElsDQ": {
+        "en-US": "[Kingduky]\nSo if you shake ^0000CDDandy Stars or Ducklings like me^000000, they'll drop. If you bring those... they'll all be fooled! You'll need to bring a lot. A whole lot.",
+        "pt-BR": "[Capitão Quac]\nEntão, se você sacudir ^0000CDEstrelitas ou Patolindos como eu^000000, eles vão cair. Se você trouxer esses... todos serão enganados! Você precisará trazer muitos. Muitos mesmo.",
+        "es-ES": "[Capitán Cuac]\nAsí que si sacudes ^0000CDEstrellas Dandy o Capitán Cuacs como yo^000000, caerán. \nSi traes esos... ¡todos serán engañados! \nNecesitarás traer muchos. \nMuchísimos."
+    },
+    "LUlsDQ": {
+        "en-US": "[Kingduky]\nWhen they see that, those foolish Ducklings will shout \"Is that a star button?!\" and rush at it. Yes!! From now on, let's give those fragments a codename: ^0000CDIsThatAStarButton?!^000000. Quack!!",
+        "pt-BR": "[Capitão Quac]\nQuando eles virem isso, aqueles Patolindos tolos vão gritar \"Isso é um botão de estrela?!\" e correr para ele. Sim!! A partir de agora, vamos dar um codinome para esses fragmentos, será ^0000CDÉUmBotãoDeEstrela?!^000000. Quack!!",
+        "es-ES": "[Capitán Cuac]\nCuando vean eso, esos Capitán Cuacs tontos gritarán ¿¡Es un botón de estrella!?\" y correrán hacia él. \n¡¡Sí!! \nA partir de ahora, llamemos a esos fragmentos ^0000CDBotón de Estrella^000000. \n¡¡Cuac!!\""
+    },
+    "LklsDQ": {
+        "en-US": "[Kingduky]\nWould ^0000CD20^000000 be enough? It should be. Right now, those foolish Ducklings are distracted by their discussion. So sneak off now.",
+        "pt-BR": "[Capitão Quac]\n^0000CD20^000000 seriam suficientes? Deveriam ser. Agora mesmo, aqueles Patolindos tolos estão distraídos com sua discussão. Então vá esgueirar-se agora.",
+        "es-ES": "[Capitán Cuac]\n¿Serán suficientes ^0000CD20^000000? \nDeberían. A\nhora mismo, esos Capitán Cuacs tontos están distraídos con su discusión. \nAsí que escapa ahora."
+    },
+    "L0lsDQ": {
+        "en-US": "[Kingduky]\nWe agreed that you'd ^0000CDshake Dandy Stars and bring 20 IsThatAStarButton?! fragments^000000. Hurry back.",
+        "pt-BR": "[Capitão Quac]\nCombinamos que você ^0000CDsacudiria Estrelitas e traria 20 fragmentos de ÉUmBotãoDeEstrela?!^000000. Volte rápido.",
+        "es-ES": "[Capitán Cuac]\nDecidimos que ^0000CDsacudirías Estrellas Dandy y traerías 20 fragmentos de Botónes de Estrella^000000. \nVuelve rápido."
+    },
+    "MElsDQ": {
+        "en-US": "[Kingduky]\nWhy are your hands empty? We agreed that you'd ^0000CDshake Dandy Stars and bring 20 IsThatAStarButton?! fragments^000000. Hurry back.",
+        "pt-BR": "[Capitão Quac]\nPor que suas mãos estão vazias? Combinamos que você ^0000CDsacudiria Estrelitas e traria 20 fragmentos de ÉUmBotãoDeEstrela?!^000000. Volte rápido.",
+        "es-ES": "[Capitán Cuac]\n¿Por qué tienes las manos vacías? \nDecidimos que ^0000CDsacudirías Estrellas Dandy y traerías 20 fragmentos de Botónes de Estrella^000000. \nVuelve rápido."
+    },
+    "MUlsDQ": {
+        "en-US": "[Kingduky]\nIt's true! I didn't sneak anything away! I said I was going to get a gift to offer to us! Why don't you believe me? It's true!",
+        "pt-BR": "[Capitão Quac]\nÉ verdade! Eu não escondi nada! Eu disse que ia buscar um presente para oferecer a nós! Por que você não acredita em mim? É verdade!",
+        "es-ES": "[Capitán Cuac]\n¡Es verdad! \n¡No escondí nada! \n¡Dije que iba a buscar un regalo para ofrecernos! \n¿Por qué no me crees? \n¡Es verdad!"
+    },
+    "MklsDQ": {
+        "en-US": "[Miduduky]\nDon't lie! If <FONT COLOR = FF00CC, SIZE = 15><B>Oodeok</B></FONT> tells our plan to other comrades, we'll get caught before we can even conquer the world!",
+        "pt-BR": "[Patonardo]\nNão minta! Se <FONT COLOR = FF00CC, SIZE = 15><B>Patonildo</B></FONT> contar nosso plano para outros camaradas, seremos pegos antes mesmo de podermos conquistar o mundo!",
+        "es-ES": "[Patonardo]\n¡No mientas! Si <FONT COLOR = FF00CC, SIZE = 15><B>O-deok</B></FONT> cuenta nuestro plan a otros camaradas, ¡nos atraparán antes de que podamos conquistar el mundo!"
+    },
+    "M0lsDQ": {
+        "en-US": "[Luduky]\nThey'll lock us up!",
+        "pt-BR": "[Cuaquinho]\nEles vão nos prender!",
+        "es-ES": "[Cuaquín]\n¡Nos encerrarán!"
+    },
+    "NElsDQ": {
+        "en-US": "[Huduky]\nWe might become unable to think or speak like before!",
+        "pt-BR": "[Patagon]\nPodemos nos tornar incapazes de pensar ou falar como antes!",
+        "es-ES": "[Patagón]\n¡Podríamos volvernos incapaces de pensar o hablar como antes!"
+    },
+    "NUlsDQ": {
+        "en-US": "[Miduky]\nCapture Kingduky. We must make him tell the truth!",
+        "pt-BR": "[Quacnífico]\nCapturem Capitão Quac. Devemos fazê-lo dizer a verdade!",
+        "es-ES": "[Cuacnífico]\nCapturen a Capitán Cuac.\n¡Debemos hacer que diga la verdad!"
+    },
+    "NklsDQ": {
+        "en-US": "[Kingduky]\nI'll be right back!!! Don't you believe me? You have to believe me! A virtuous Duckling with integrity knows how to trust and wait!",
+        "pt-BR": "[Capitão Quac]\nJá volto!!! Você não acredita em mim? Você tem que acreditar em mim! Um Patolindo virtuoso com integridade sabe como confiar e esperar!",
+        "es-ES": "[Capitán Cuac]\n¡Ya vuelvo! \n¿No me crees? \n¡Tienes que creerme! \n¡Un Capitán Cuac virtuoso con integridad sabe confiar y esperar!"
+    },
+    "N0lsDQ": {
+        "en-US": "[Huduky]\nOh, integrity? That's not bad. Should I change my name to Inteduky?",
+        "pt-BR": "[Patagon]\nOh, integridade? Isso não é ruim. Devo mudar meu nome para Patagridade?",
+        "es-ES": "[Patagón]\nOh, ¿integridad? \nEso no está mal. \n¿Debería cambiar mi nombre a Indeok?"
+    },
+    "OElsDQ": {
+        "en-US": "I'm back.",
+        "pt-BR": "Estou de volta.",
+        "es-ES": "Ya volví."
+    },
+    "OUlsDQ": {
+        "en-US": "[Kingduky]\nSee!! He's back!! I never say anything wrong! I'm always right!",
+        "pt-BR": "[Capitão Quac]\nViu!! Ele voltou!! Eu nunca digo nada errado! Estou sempre certo!",
+        "es-ES": "[Capitán Cuac]\n¡¡Ves!! \n¡Volvió! \n¡Nunca digo nada malo! \n¡Siempre tengo razón!"
+    },
+    "OklsDQ": {
+        "en-US": "[Miduduky]\n<FONT COLOR = FF00CC, SIZE = 15><B>Ooduky</B></FONT>! Where have you been?",
+        "pt-BR": "[Patonardo]\n<FONT COLOR = FF00CC, SIZE = 15><B>Patonildo</B></FONT>! Onde você esteve?",
+        "es-ES": "[Patonardo]\n<FONT COLOR = FF00CC, SIZE = 15><B>O-deok</B></FONT>! \n¿Dónde has estado?"
+    },
+    "O0lsDQ": {
+        "en-US": "[<FONT COLOR = FF00CC><B>Ooduky</B></FONT>]\nAh, since you gave me special treatment, I went to get some tribute to offer to the Ducklings.",
+        "pt-BR": "[<FONT COLOR = FF00CC><B>Patonildo</B></FONT>]\nAh, já que vocês me deram tratamento especial, fui buscar um tributo para oferecer aos Patolindos.",
+        "es-ES": "[<FONT COLOR = FF00CC><B>O-deok</B></FONT>]\nAh, ya que me dieron un trato especial, fui a buscar un tributo para ofrecer a los Capitán Cuacs."
+    },
+    "PElsDQ": {
+        "en-US": "[Luduky]\nTribute? What's tribute?",
+        "pt-BR": "[Cuaquinho]\nTributo? O que é tributo?",
+        "es-ES": "[Cuaquín]\n¿Tributo? \n¿Qué es tributo?"
+    },
+    "PUlsDQ": {
+        "en-US": "[Kingduky]\nIt means gift, gift. I told you he went to get a gift!",
+        "pt-BR": "[Capitão Quac]\nSignifica presente, presente. Eu disse que ele foi buscar um presente!",
+        "es-ES": "[Capitán Cuac]\nSignifica regalo, regalo. ¡Te dije que fue a buscar un regalo!"
+    },
+    "PklsDQ": {
+        "en-US": "[Huduky]\nLet's see it.",
+        "pt-BR": "[Patagon]\nVamos ver.",
+        "es-ES": "[Patagón]\nVeámoslo."
+    },
+    "P0lsDQ": {
+        "en-US": "[Huduky]\nUh? Wh-what is that???",
+        "pt-BR": "[Patagon]\nUh? O-que é isso???",
+        "es-ES": "[Patagón]\n¿Uh? \n¿Q-qué es eso???"
+    },
+    "QElsDQ": {
+        "en-US": "IsThatAStarButton?!",
+        "pt-BR": "ÉUmBotãoDeEstrela?!",
+        "es-ES": "¿¡Botón de Estrella!?"
+    },
+    "QUlsDQ": {
+        "en-US": "[<FONT COLOR = FF00CC><B>Ooduky</B></FONT>]\nI heard you like star buttons, so I went to Nyail Cave and gathered everything that looked similar. There might be a star button among these.",
+        "pt-BR": "[<FONT COLOR = FF00CC><B>Patonildo</B></FONT>]\nOuvi dizer que vocês gostam de botões de estrela, então fui à Caverna Nyail e juntei tudo o que parecia semelhante. Pode haver um botão de estrela entre eles.",
+        "es-ES": "[<FONT COLOR = FF00CC><B>O-deok</B></FONT>]\nEscuché que les gustan los botones de estrella, así que fui a la Cueva de Miaul y recogí todo lo que parecía similar. \nPuede que haya un botón de estrella entre estos."
+    },
+    "QklsDQ": {
+        "en-US": "[Huduky]\nWhoooa!!! Star button!!! I'll, I'll take it!!!",
+        "pt-BR": "[Patagon]\nUhuuul!!! Botão de estrela!!! Eu, eu vou pegar!!!",
+        "es-ES": "[Patagón]\n¡¡¡Uhuuuu!!! \n¡¡¡Botón de estrella!!! \n¡Lo, lo tomaré!"
+    },
+    "Q0lsDQ": {
+        "en-US": "[Miduduky]\nWhere, where is it? The star button?",
+        "pt-BR": "[Patonardo]\nOnde, onde está? O botão de estrela?",
+        "es-ES": "[Patonardo]\n¿Dónde, dónde está? \n¿El botón de estrella?"
+    },
+    "RElsDQ": {
+        "en-US": "[Luduky]\nStar button!!! Sparkle sparkle!!!!",
+        "pt-BR": "[Cuaquinho]\nBotão de estrela!!! Brilha brilha!!!!",
+        "es-ES": "[Cuaquín]\n¡¡¡Botón de estrella!!! \n¡Brilla brilla!!!!"
+    },
+    "RUlsDQ": {
+        "en-US": "[Miduky]\nEveryone stop!! I'll find the star button first!",
+        "pt-BR": "[Quacnífico]\nTodos parem!! Vou encontrar o botão de estrela primeiro!",
+        "es-ES": "[Cuacnífico]\n¡¡Todos paren!! \n¡Encontraré el botón de estrella primero!"
+    },
+    "RklsDQ": {
+        "en-US": "[Kingduky]\nPhew—everything went as I predicted. What a relief. Good work. With this, they won't talk about world conquest for a while. Quack quack. Those foolish Ducklings will never know about my cunning.",
+        "pt-BR": "[Capitão Quac]\nUfa—tudo correu como eu previ. Que alívio. Bom trabalho. Com isso, eles não vão falar sobre conquistar o mundo por um tempo. Quack quack. Aqueles Patolindos tolos nunca saberão sobre minha astúcia.",
+        "es-ES": "[Capitán Cuac]\nUff todo salió como predije. \nQué alivio. \nBuen trabajo. \nCon esto, no hablarán de conquistar el mundo por un tiempo. \nCuac cuac.\nEsos Capitán Cuacs tontos nunca sabrán de mi astucia."
+    },
+    "R0lsDQ": {
+        "en-US": "[Kingduky]\nAnyone who messes with this Kingduky will be in for a terrible surprise.",
+        "pt-BR": "[Capitão Quac]\nQualquer um que mexer com Capitão Quac terá uma surpresa terrível.",
+        "es-ES": "[Capitán Cuac]\nCualquiera que se meta con este Capitán Cuac tendrá una desagradable sorpresa."
+    },
+    "SElsDQ": {
+        "en-US": "[Kingduky]\nTo keep those Ducklings from getting any more ideas, I'll need you to bring IsThatAStarButton?! fragments every day.",
+        "pt-BR": "[Capitão Quac]\nPara impedir que esses Patolindos tenham mais ideias, vou precisar que você traga fragmentos de ÉUmBotãoDeEstrela?! todos os dias.",
+        "es-ES": "[Capitán Cuac]\nPara evitar que esos Capitán Cuacs tengan más ideas, necesitaré que traigas fragmentos de Botón De Estrella todos los días."
+    },
+    "SUlsDQ": {
+        "en-US": "That's no problem.",
+        "pt-BR": "Não há problema.",
+        "es-ES": "No hay problema."
+    },
+    "SklsDQ": {
+        "en-US": "[Kingduky]\nThis Kingduky judged you well. So I'll be counting on you from now on!",
+        "pt-BR": "[Capitão Quac]\nEste Capitão Quac te julgou bem. Então, contarei com você de agora em diante!",
+        "es-ES": "[Capitán Cuac]\nEste Capitán Cuac te juzgó bien. \nAsí que ¡contaré contigo de ahora en adelante!"
+    },
+    "S0lsDQ": {
+        "en-US": "For what?",
+        "pt-BR": "Para quê?",
+        "es-ES": "¿Para qué?"
+    },
+    "TElsDQ": {
+        "en-US": "[Kingduky]\nTo travel together, of course. I want to see a wider world, and it seems like traveling with you would work out. And I'll find my star button too.",
+        "pt-BR": "[Capitão Quac]\nPara viajarmos juntos, é claro. Quero ver um mundo mais amplo, e parece que viajar com você daria certo. E também encontrarei meu botão de estrela.",
+        "es-ES": "[Capitán Cuac]\nPara viajar juntos, por supuesto. \nQuiero ver un mundo más amplio, y parece que viajar contigo funcionaría. \nY también encontraré mi botón de estrella."
+    },
+    "TUlsDQ": {
+        "en-US": "What about my opinion?",
+        "pt-BR": "E a minha opinião?",
+        "es-ES": "¿Y mi opinión?"
+    },
+    "TklsDQ": {
+        "en-US": "[Kingduky]\nI've already decided. Are you going to refuse? But if you mess with this Kingduky...",
+        "pt-BR": "[Capitão Quac]\nJá decidi. Você vai recusar? Mas se você mexer com Capitão Quac...",
+        "es-ES": "[Capitán Cuac]\nYa lo decidí. \n¿Vas a negarte? \nPero si te metes con este Capitán Cuac..."
+    },
+    "T0lsDQ": {
+        "en-US": "Ah, fine! I'll go with you.",
+        "pt-BR": "Ah, tudo bem! Vou com você.",
+        "es-ES": "Ah, ¡está bien! Iré contigo."
+    },
+    "UElsDQ": {
+        "en-US": "[Kingduky]\nGood choice. From now on, you'll feed me, clothe me, bathe me, and put me to sleep. Ah, right! Everyone carries around a stamp paper. Give it to me.",
+        "pt-BR": "[Capitão Quac]\nBoa escolha. De agora em diante, você vai me alimentar, me vestir, me dar banho e me colocar para dormir. Ah, certo! Todo mundo carrega um papel de carimbo. Me dê.",
+        "es-ES": "[Capitán Cuac]\nBuena elección. \nDe ahora en adelante, me alimentarás, me vestirás, me bañarás y me acostarás. \n¡Ah, cierto! \nTodos llevan un papel de sellos. \nDámelo."
+    },
+    "UUlsDQ": {
+        "en-US": "[Kingduky]\nThere, I've stamped it with a thud! Now we're together.",
+        "pt-BR": "[Capitão Quac]\nAí, carimbei com um \"tum\"! Agora estamos juntos.",
+        "es-ES": "[Capitán Cuac]\nAhí, lo sellé con un golpe. \n¡Ahora estamos juntos."
+    },
+    "UklsDQ": {
+        "en-US": "[Kingduky]\nThere, I've stamped it with a thud! Now we're together.\nOh, wait! They say that anyone who's completed all the festival events should go to <NAVI>[Coupon Reception]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>! Let's go there first!",
+        "pt-BR": "[Capitão Quac]\nAí, carimbei com um \"tum\"! Agora estamos juntos.\nAh, espere! Dizem que qualquer um que completou todos os eventos do festival deve ir ao <NAVI>[Recepção de Cupons]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>! Vamos lá primeiro!",
+        "es-ES": "[Capitán Cuac]\nAhí, lo sellé con un golpe. \n¡Ahora estamos juntos!\n¡Oh, espera! \nDicen que cualquiera que haya completado todos los eventos del festival debe ir al <NAVI>[Recepción de Cupones]<INFO>Lasagna,83,206,0,101,0,</INFO></NAVI>. \n¡Vamos allí primero!"
+    },
+    "U0lsDQ": {
+        "en-US": "[Kingduky]\nThis Kingduky won't forget your kindness. I'll cheer you on from the side. It'll give you strength. Well then, I'm counting on you!!",
+        "pt-BR": "[Capitão Quac]\nCapitão Quac não esquecerá sua bondade. Vou torcer por você daqui de lado. Isso te dará forças. Bem, então, conto com você!!",
+        "es-ES": "[Capitán Cuac]\nEste Capitán Cuac no olvidará tu bondad. \nTe animaré desde un lado. \nTe dará fuerzas. \nBueno, ¡contigo cuento!"
+    },
+    "VElsDQ": {
+        "en-US": "[Kingduky]\nBut why is your bag in such a mess? Try organizing it.",
+        "pt-BR": "[Capitão Quac]\nMas por que sua bolsa está tão bagunçada? Tente organizá-la.",
+        "es-ES": "[Capitán Cuac]\n¿Pero por qué tu bolsa está tan desordenada? \nIntenta organizarla."
+    },
+    "VUlsDQ": {
+        "en-US": "[Kingduky]\nWhy are we here? They still seem distracted looking for star buttons. It seems like we have enough. But more is always better.",
+        "pt-BR": "[Capitão Quac]\nPor que estamos aqui? Eles ainda parecem distraídos procurando botões de estrela. Parece que temos o suficiente. Mas mais é sempre melhor.",
+        "es-ES": "[Capitán Cuac]\n¿Por qué estamos aquí? \nTodavía parecen distraídos buscando botones de estrella. \nParece que tenemos suficiente. \nPero más siempre es mejor."
+    },
+    "VklsDQ": {
+        "en-US": "[Kingduky]\nIt seems like using <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM> would let you bring back even more IsThatAStarButton?! fragments.",
+        "pt-BR": "[Capitão Quac]\nParece que usar <ITEM>[Fruta MiauMiau]<INFO>6909</INFO></ITEM> permitiria que você trouxesse ainda mais fragmentos de ÉUmBotãoDeEstrela?!.",
+        "es-ES": "[Capitán Cuac]\nParece que usar <ITEM>[Miaufruto]<INFO>6909</INFO></ITEM> te permitiría traer aún más fragmentos de botón de estrella."
+    },
+    "V0lsDQ": {
+        "en-US": "Let's use Nyangvine.",
+        "pt-BR": "Vamos usar Fruta MiauMiau.",
+        "es-ES": "Usemos Miaufruto."
+    },
+    "WElsDQ": {
+        "en-US": "^AAAAAALet's use Nyangvine. - Insufficient quantity^000000",
+        "pt-BR": "^AAAAAAVamos usar Fruta MiauMiau. - Quantidade insuficiente^000000",
+        "es-ES": "^AAAAAAUsemos Miaufruto. - Cantidad insuficiente^000000"
+    },
+    "WUlsDQ": {
+        "en-US": "Then should I come back another time?",
+        "pt-BR": "Então devo voltar outra hora?",
+        "es-ES": "Entonces, ¿debería volver en otro momento?"
+    },
+    "WklsDQ": {
+        "en-US": "[Kingduky]\nYeah, let's do that. They're still distracted, so it should be fine.",
+        "pt-BR": "[Capitão Quac]\nSim, vamos fazer isso. Eles ainda estão distraídos, então deve ficar bem.",
+        "es-ES": "[Capitán Cuac]\nSí, hagamos eso. \nTodavía están distraídos, así que debería estar bien."
+    },
+    "W0lsDQ": {
+        "en-US": "[Kingduky]\nNow let's go back to Nyail Cave, ^0000CDshake Dandy Stars, and collect IsThatAStarButton?! fragments! 20^000000 should be enough!",
+        "pt-BR": "[Capitão Quac]\nAgora vamos voltar para a Caverna Nyail, ^0000CDsacudir Estrelitas e coletar fragmentos de ÉUmBotãoDeEstrela?! 20^000000 devem ser suficientes!",
+        "es-ES": "[Capitán Cuac]\nAhora volvamos a la Cueva de Miaul, ^0000CDy a sacudir Estrellas Dandy y recolecta fragmentos de botónes de estrellas, 20^000000 deberían ser suficientes."
+    },
+    "XElsDQ": {
+        "en-US": "[Kingduky]\nBut where's the Nyangvine? Did you deceive me?",
+        "pt-BR": "[Capitão Quac]\nMas onde está a Fruta MiauMiau? Você me enganou?",
+        "es-ES": "[Capitán Cuac]\n¿Pero dónde está la Miaufruto? \n¿Me engañaste?"
+    },
+    "XUlsDQ": {
+        "en-US": "[Miduduky]\nWhy aren't there any star-shaped buttons? I've looked through so many! How can there not be a single one!",
+        "pt-BR": "[Patonardo]\nPor que não há nenhum botão em forma de estrela? Já procurei tantos! Como pode não ter um sequer!",
+        "es-ES": "[Patonardo]\n¿Por qué no hay botones con forma de estrella? \n¡He buscado en tantos! \n¿Cómo puede ser que no haya ni uno solo!"
+    },
+    "XklsDQ": {
+        "en-US": "[Miduky]\nIf we conquer the world, we can get as many star-shaped buttons as we want. Let's conquer the world!",
+        "pt-BR": "[Quacnífico]\nSe conquistarmos o mundo, podemos ter quantos botões em forma de estrela quisermos. Vamos conquistar o mundo!",
+        "es-ES": "[Cuacnífico]\nSi conquistamos el mundo, podemos tener todos los botones con forma de estrella que queremos. \n¡Conquistemos el mundo!"
+    },
+    "X0lsDQ": {
+        "en-US": "[Kingduky]\nNo, these foolish Ducklings are dreaming of world conquest again. <FONT COLOR = FF00CC, SIZE = 15><B>Ooduky</B></FONT>, it looks like it's time for you to step in. Are you up for it?",
+        "pt-BR": "[Capitão Quac]\nNão, esses Patolindos tolos estão sonhando com conquistar o mundo novamente. <FONT COLOR = FF00CC, SIZE = 15><B>Patonildo</B></FONT>, parece que é hora de você intervir. Você está pronto?",
+        "es-ES": "[Capitán Cuac]\nNo, estos Capitán Cuacs tontos están soñando con conquistar el mundo otra vez. \n<FONT COLOR = FF00CC, SIZE = 15><B>O-deok</B></FONT>, parece que es hora de que intervengas. \n¿Estás listo?"
+    },
+    "YElsDQ": {
+        "en-US": "I'll go get them.",
+        "pt-BR": "Vou buscá-los.",
+        "es-ES": "Iré a buscarlos."
+    },
+    "YUlsDQ": {
+        "en-US": "Not today...",
+        "pt-BR": "Hoje não...",
+        "es-ES": "Hoy no..."
+    },
+    "YklsDQ": {
+        "en-US": "[Kingduky]\nThen ^0000CDshake Dandy Stars and bring IsThatAStarButton?! fragments. 20^000000!!",
+        "pt-BR": "[Capitão Quac]\nEntão ^0000CDsacuda Estrelitas e traga fragmentos de ÉUmBotãoDeEstrela?! 20^000000!!",
+        "es-ES": "[Capitán Cuac]\nEntonces, ^0000CDsacude Estrellas Dandy y trae fragmentos de botónes de estrellas 20^000000!"
+    },
+    "Y0lsDQ": {
+        "en-US": "[<FONT COLOR = FF00CC><B>Ooduky</B></FONT>]\nCan't we just leave them be for today? They don't seem to have a concrete plan yet.",
+        "pt-BR": "[<FONT COLOR = FF00CC><B>Patonildo</B></FONT>]\nNão podemos simplesmente deixá-los em paz hoje? Eles não parecem ter um plano concreto ainda.",
+        "es-ES": "[<FONT COLOR = FF00CC><B>O-deok</B></FONT>]\n¿No podemos dejarlos en paz por hoy? \nTodavía no parecen tener un plan concreto."
+    },
+    "ZElsDQ": {
+        "en-US": "[Kingduky]\nIs that so? I guess so. Then let's rest for today.",
+        "pt-BR": "[Capitão Quac]\nÉ mesmo? Acho que tem razão. Então vamos descansar hoje.",
+        "es-ES": "[Capitán Cuac]\n¿Ah, sí? \nSupongo que sí. \nEntonces descansemos hoy."
+    },
+    "ZUlsDQ": {
+        "en-US": "[Kingduky]\nNot yet? Are you done yet? We agreed that you'd ^0000CDshake Dandy Stars and bring 20 IsThatAStarButton?! fragments^000000. Hurry back.",
+        "pt-BR": "[Capitão Quac]\nAinda não? Já terminou? Combinamos que você ^0000CDsacudiria Estrelitas e traria 20 fragmentos de ÉUmBotãoDeEstrela?!^000000. Volte rápido.",
+        "es-ES": "[Capitán Cuac]\n¿Todavía no? \n¿Ya terminaste? \nDecidimos que ^0000CDsacudirías Estrellas Dandy y traerías 20 fragmentos de botónes de estrellas^000000. \nVuelve rápido."
+    },
+    "ZklsDQ": {
+        "en-US": "[Kingduky]\nWell done. With this, we can divert those foolish Ducklings' attention. Now, look at this, everyone!",
+        "pt-BR": "[Capitão Quac]\nBom trabalho. Com isso, podemos desviar a atenção daqueles Patolindos tolos. Agora, olhem isso, todos!",
+        "es-ES": "[Capitán Cuac]\nBien hecho. \nCon esto, podemos desviar la atención de esos Capitán Cuacs tontos. \n¡Ahora, miren esto, todos!"
+    },
+    "Z0lsDQ": {
+        "en-US": "[Kingduky]\nWe accomplished a great task again today. Now we should rest. It's best to come back after midnight. Right?",
+        "pt-BR": "[Capitão Quac]\nRealizamos uma grande tarefa novamente hoje. Agora devemos descansar. É melhor voltar depois da meia-noite. Certo?",
+        "es-ES": "[Capitán Cuac]\nHoy logramos una gran tarea otra vez. \nAhora deberíamos descansar. \nEs mejor volver después de la medianoche.\n¿Vale?"
+    },
+    "aElsDQ": {
+        "en-US": "[Sideok]\nWhy isn't my star button here? I came because you said there were star buttons!",
+        "pt-BR": "[Sideok]\nPor que meu botão de estrela não está aqui? Eu vim porque você disse que havia botões de estrela!",
+        "es-ES": "[Sideok]\n¿Por qué no está mi botón de estrella aquí? \n¡Vine porque dijiste que había botones de estrella!"
+    },
+    "aUlsDQ": {
+        "en-US": "[Duckling]\nQuack!!",
+        "pt-BR": "[Patolindo]\nQuack!!",
+        "es-ES": "[Patolino]\n¡¡Cuac!!"
+    },
+    "aklsDQ": {
+        "en-US": "Quack!!!\nQuaaaack!\nQuack quack quack!!\nQuack!",
+        "pt-BR": "Quack!!!\nQuaaaack!\nQuack quack quack!!\nQuack!",
+        "es-ES": "¡¡Cuac!!!\n¡Cuuaaaac!\n¡Cuac cuac cuac!!\n¡Cuac!"
+    },
+    "a0lsDQ": {
+        "en-US": "[{0}]\nI hear Duckling sounds from all over.\nLet's follow the sound.",
+        "pt-BR": "[{0}]\nOuço sons de Patolindo por toda parte.\nVamos seguir o som.",
+        "es-ES": "[{0}]\nOigo sonidos de Capitán Cuac por todas partes.\nSigamos el sonido."
+    },
+    "bElsDQ": {
+        "en-US": "Quaaaack!",
+        "pt-BR": "Quaaaack!",
+        "es-ES": "¡Cuuaaaac!"
+    },
+    "bUlsDQ": {
+        "en-US": "[Duckling]\nQuack!!!",
+        "pt-BR": "[Patolindo]\nQuack!!!",
+        "es-ES": "[Patolino]\n¡¡Cuac!!!"
+    },
+    "bklsDQ": {
+        "en-US": "Is that the Duckling? Let's go together.",
+        "pt-BR": "É aquele Patolindo? Vamos juntos.",
+        "es-ES": "¿Es ese el Capitán Cuac? Vamos juntos."
+    },
+    "b0lsDQ": {
+        "en-US": "[Duckling]\nLet go! Let go of me!!! Who are you to tell me to come with you! What are you going to do with me!",
+        "pt-BR": "[Patolindo]\nSolte! Solte-me!!! Quem é você para me dizer para ir com você! O que você vai fazer comigo!",
+        "es-ES": "[Patolino]\n¡Suéltame! \n¡Suéltame! \n¿Quién eres tú para decirme que vaya contigo? \n¿Qué vas a hacer conmigo?"
+    },
+    "cElsDQ": {
+        "en-US": "A friend is waiting for you outside.",
+        "pt-BR": "Um amigo está esperando por você lá fora.",
+        "es-ES": "Un amigo te espera afuera."
+    },
+    "cUlsDQ": {
+        "en-US": "[Duckling]\nA friend? Do I have a friend...?",
+        "pt-BR": "[Patolindo]\nUm amigo? Eu tenho um amigo...?",
+        "es-ES": "[Patolino]\n¿Un amigo? \n¿Tengo un amigo...?"
+    },
+    "cklsDQ": {
+        "en-US": "[Duckling]\nWhoooa!!! Great!! That friend can talk like me, right? The ones wandering around here can't talk yet—are they young Ducklings?\nI'll go since there's a fellow Duckling on my level. I wanted to leave anyway.",
+        "pt-BR": "[Patolindo]\nUhuuul!!! Ótimo!! Esse amigo pode falar como eu, certo? Os que vagueiam por aqui ainda não podem falar—são Patolindos jovens?\nVou, já que há um companheiro Patolindo do meu nível. Eu queria mesmo sair daqui.",
+        "es-ES": "[Patolino]\n¡Uhuuuu!!! \n¡Genial! \nEse amigo puede hablar como yo, ¿verdad?\nLos que andan por aquí todavía no pueden hablar ¿son Capitán Cuacs jóvenes?\nIré, ya que hay un compañero Capitán Cuac de mi nivel. \nQuería irme de todos modos."
+    },
+    "c0lsDQ": {
+        "en-US": "[Duckling]\nNow, take me with you.",
+        "pt-BR": "[Patolindo]\nAgora, me leve com você.",
+        "es-ES": "[Patolino]\nAhora, llévame contigo."
+    },
+    "dElsDQ": {
+        "en-US": "[{0}]\nI've rescued the Duckling, so let's go back to Kingduky.",
+        "pt-BR": "[{0}]\nResgatei o Patolindo, então vamos voltar para o Capitão Quac.",
+        "es-ES": "[{0}]\nRescaté al Capitán Cuac, así que volvamos con Capitán Cuac."
+    },
+    "dUlsDQ": {
+        "en-US": "[{0}]\nLet's go find another Duckling.",
+        "pt-BR": "[{0}]\nVamos encontrar outro Patolindo.",
+        "es-ES": "[{0}]\nVamos a buscar otro Capitán Cuac."
+    },
+    "dklsDQ": {
+        "en-US": "[Duckling]\nI'm going to be the best. I'll become the best and conquer everything.",
+        "pt-BR": "[Patolindo]\nVou ser o melhor. Vou me tornar o melhor e conquistar tudo.",
+        "es-ES": "[Patolino]\nVoy a ser el mejor. \nMe convertiré en el mejor y lo conquistaré todo."
+    },
+    "d0lsDQ": {
+        "en-US": "Is that the Duckling?",
+        "pt-BR": "É aquele Patolindo?",
+        "es-ES": "¿Es ese el Capitán Cuac?"
+    },
+    "eElsDQ": {
+        "en-US": "[Duckling]\nWhat do you want? Are you trying to hurt me too? Bring it on! But don't bring it on right now.",
+        "pt-BR": "[Patolindo]\nO que você quer? Você está tentando me machucar também? Venha! Mas não venha agora.",
+        "es-ES": "[Patolino]\n¿Qué quieres?\n¿También estás tratando de lastimarme?\n¡Vamos! \nPero no ahora mismo."
+    },
+    "eUlsDQ": {
+        "en-US": "Your comrades are waiting.",
+        "pt-BR": "Seus camaradas estão esperando.",
+        "es-ES": "Tus camaradas te esperan."
+    },
+    "eklsDQ": {
+        "en-US": "[Duckling]\nComrades? Is that comrade as strong as me? If so, I'll go. This place is too weak for me.",
+        "pt-BR": "[Patolindo]\nCamaradas? Esse camarada é tão forte quanto eu? Se for, eu vou. Este lugar é fraco demais para mim.",
+        "es-ES": "[Patolino]\n¿Camaradas? \n¿Ese camarada es tan fuerte como yo? \nSi es así, iré. \nEste lugar es demasiado débil para mí."
+    },
+    "e0lsDQ": {
+        "en-US": "[Duckling]\nWhat am I... Where is this place...",
+        "pt-BR": "[Patolindo]\nO que eu sou... Onde é este lugar...",
+        "es-ES": "[Patolino]\n¿Qué soy...? \n¿Dónde está este lugar...?"
+    },
+    "fElsDQ": {
+        "en-US": "You'll find out if you come with me.",
+        "pt-BR": "Você vai descobrir se vier comigo.",
+        "es-ES": "Lo descubrirás si vienes conmigo."
+    },
+    "fUlsDQ": {
+        "en-US": "[Duckling]\nYou startled me. Where are you going?",
+        "pt-BR": "[Patolindo]\nVocê me assustou. Para onde você está indo?",
+        "es-ES": "[Patolino]\nMe asustaste. \n¿A dónde vas?"
+    },
+    "fklsDQ": {
+        "en-US": "To where your comrades are.",
+        "pt-BR": "Para onde seus camaradas estão.",
+        "es-ES": "Donde están tus camaradas."
+    },
+    "f0lsDQ": {
+        "en-US": "[Duckling]\nWhoooa!!! Comrades! I knew I was a chosen Duckling! I knew I was special!",
+        "pt-BR": "[Patolindo]\nUhuuul!!! Camaradas! Eu sabia que era um Patolindo escolhido! Eu sabia que era especial!",
+        "es-ES": "[Patolino]\n¡Uhuuuu!!! \n¡Camaradas! \n¡Sabía que era un Capitán Cuac elegido! \n¡Sabía que era especial!"
+    },
+    "gElsDQ": {
+        "en-US": "[Duckling]\nI'll go! I'll definitely go!",
+        "pt-BR": "[Patolindo]\nEu vou! Com certeza vou!",
+        "es-ES": "[Patolino]\n¡Iré!\n¡Definitivamente iré!"
+    },
+    "gUlsDQ": {
+        "en-US": "[Duckling]\nSob... This place is scary. Is this what the world is always like?",
+        "pt-BR": "[Patolindo]\nSnif... Este lugar é assustador. O mundo é desse jeito sempre?",
+        "es-ES": "[Patolino]\nSob... Este lugar da miedo. \n¿Así es siempre el mundo?"
+    },
+    "gklsDQ": {
+        "en-US": "[Duckling]\nExcuse me! Can you hear me? Where is everyone going?",
+        "pt-BR": "[Patolindo]\nCom licença! Você pode me ouvir? Para onde todo mundo está indo?",
+        "es-ES": "[Patolino]\n¡Disculpe! \n¿Puede oírme? \n¿A dónde va todo el mundo?"
+    },
+    "g0lsDQ": {
+        "en-US": "[Duckling]\nI'm scared. Hold me.",
+        "pt-BR": "[Patolindo]\nEstou com medo. Me abrace.",
+        "es-ES": "[Patolino]\nTengo miedo. \nAbrázame."
+    },
+    "hElsDQ": {
+        "en-US": "Duckling! I was looking for you!",
+        "pt-BR": "Patolindo! Eu estava procurando por você!",
+        "es-ES": "¡[Patolino]! ¡Te estaba buscando!"
+    },
+    "hUlsDQ": {
+        "en-US": "[Duckling]\nWhy me?",
+        "pt-BR": "[Patolindo]\nPor que eu?",
+        "es-ES": "[Patolino]\n¿Por qué yo?"
+    },
+    "hklsDQ": {
+        "en-US": "To take you to where your comrades are.",
+        "pt-BR": "Para te levar para onde seus camaradas estão.",
+        "es-ES": "Para llevarte donde están tus camaradas."
+    },
+    "h0lsDQ": {
+        "en-US": "[Duckling]\nMy comrades? It's not scary there, right? Then I'll go.",
+        "pt-BR": "[Patolindo]\nMeus camaradas? Não é assustador lá, certo? Então eu vou.",
+        "es-ES": "[Patolino]\n¿Mis camaradas? \nAllí no da miedo, ¿verdad? \nEntonces iré."
+    }
+}

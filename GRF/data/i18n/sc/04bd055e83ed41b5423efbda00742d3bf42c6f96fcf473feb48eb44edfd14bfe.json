@@ -17,7 +17,7 @@
     "42n5Ag": {
         "en-US": "[Mage Chuck]\nSomeone like you\nwho has magic talent\nbut doesn't know how\nto become a Mage.\nFor a ^FF0000Novice^000000 like you\nI'm offering my training.",
         "pt-BR": "[Charles]\nAlguém...\nCom talento pra magias...\nQue não saiba como se tornar um mago,\ndeve vir até mim, para ser\ndevidamente treinado por um gênio!\nEu, é claro!",
-        "es-ES": "[Mago Chuck]\nA alguien como tú \nque tiene un talento mágico\npero no sabe cómo\nser de la clase Mago…\ncomo eres ^FF0000principiante^000000,\nme ofrezco a entrenarte."
+        "es-ES": "[Mago Chuck]\nA alguien como tú \nque tiene un talento mágico\npero no sabe cómo\nser de la clase Mago...\ncomo eres ^FF0000principiante^000000,\nme ofrezco a entrenarte."
     },
     "5Gn5Ag": {
         "en-US": "[Mage Chuck]\nSo what do you think?\nYou can't listen to this even if you pay money\nGreat lecture\nWould you like to listen?",
@@ -212,7 +212,7 @@
     "Cmr5Ag": {
         "en-US": "[Mage Chuck]\nHmm, I'll change jobs to a mage right away\nDo you want to go?",
         "pt-BR": "[Charles]\nDeseja trocar de Classe?\nPor que não disse antes?",
-        "es-ES": "[Mago Chuck]\nMmm… voy a cambiar de clase a Mago ya mismo.\n¿Quieres ir?"
+        "es-ES": "[Mago Chuck]\nMmm... voy a cambiar de clase a Mago ya mismo.\n¿Quieres ir?"
     },
     "C2r5Ag": {
         "en-US": "[Mage Chuck]\nI think\nI already used great magic\nto send you away~?\nThere are so many students like you\nthat it would be impossible to repeat twice!",
@@ -227,12 +227,12 @@
     "DWr5Ag": {
         "en-US": "[Mage Chuck]\nHmm, I'll change jobs to a magician right away\nDo you want to go?",
         "pt-BR": "[Mago Chuck]\nHm. Posso trocar sua classe para mago agora mesmo.\nVocê quer?",
-        "es-ES": "[Mago Chuck]\nMmm… voy a cambiar de clase a Mago ya mismo.\n¿Quieres ir?"
+        "es-ES": "[Mago Chuck]\nMmm... voy a cambiar de clase a Mago ya mismo.\n¿Quieres ir?"
     },
     "Dmr5Ag": {
         "en-US": "[Mage Chuck]\nIn order to change jobs,\nyou have to go to the ^8B4513magician job change center^000000.\nThis body itself!!\nWe can send it to you nearby!\nBut...",
         "pt-BR": "[Charles]\nPara trocar sua Classe,\nvá para a ^8B4513Guilda dos Magos^000000.\nPosso mandar você \npara um lugar próximo a Guilda.\nContudo...",
-        "es-ES": "[Mago Chuck]\nPara cambiar de clase,\ntienes que ir al ^8B4513centro de cambio de clase de Magos^000000.\n¡¡Este mismísimo cuerpo!!\n¡Podemos enviártelo cerca!\nPero…"
+        "es-ES": "[Mago Chuck]\nPara cambiar de clase,\ntienes que ir al ^8B4513centro de cambio de clase de Magos^000000.\n¡¡Este mismísimo cuerpo!!\n¡Podemos enviártelo cerca!\nPero..."
     },
     "D2r5Ag": {
         "en-US": "[Mage Chuck]\n^006400Job level 10^000000\n^006400Novice Skill Level 9^000000\nYou must make it! You must make it!\nThen shall we take a look?",
@@ -362,7 +362,7 @@
     "KGr5Ag": {
         "en-US": "[Magician's Guild guide]\nBut you look downtrodden. \nTo become a Mage\nyou're a bit...",
         "pt-BR": "[Guia da Guilda dos Magos]\nObrigada por vir\naté aqui, estudante!\nEsse é um grande passo\npara um estudante da Academia Criatura.",
-        "es-ES": "[Guía de Magos]\nPero tienes un aspecto destruido. \nPara ser de la clase Mago\nestás un poco…"
+        "es-ES": "[Guía de Magos]\nPero tienes un aspecto destruido. \nPara ser de la clase Mago\nestás un poco..."
     },
     "KWr5Ag": {
         "en-US": "[Magician's Guild guide]\nWell, it's my job after all.\nI'll lead you to the \nMage's Guild!\nGo straight to the right ^8B4513Cross the bridge^000000 and\nyou will see the entrance to ^FF0000Geffen^000000~!",
@@ -392,7 +392,7 @@
     "Lmr5Ag": {
         "en-US": "[Magician's Guild guide]\nHm you did well\ncoming this far!\nIt's not bad for an\nacademy novice!",
         "pt-BR": "[Guia da Guilda dos Magos]\nO caminho para a Guilda dos Magos\né muito simples.\nÉ só seguir para\no noroeste de Geffen, a cidade da magia.\nVocê com certeza achará a Guilda dos Magos.",
-        "es-ES": "[Guía de Magos]\nMmm… hiciste bien\nen venir hasta aquí.\n¡No está mal para un\nPrincipiante de la Academia!"
+        "es-ES": "[Guía de Magos]\nMmm... hiciste bien\nen venir hasta aquí.\n¡No está mal para un\nPrincipiante de la Academia!"
     },
     "L2r5Ag": {
         "en-US": "[Magician's Guild guide]\nIn the past, kids needed everything told to them in order to find their directions it was a lot of hassle.",

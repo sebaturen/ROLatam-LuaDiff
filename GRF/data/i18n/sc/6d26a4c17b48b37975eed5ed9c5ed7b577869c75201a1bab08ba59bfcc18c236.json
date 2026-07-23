@@ -7,7 +7,7 @@
     "YUncBg": {
         "en-US": "[Instructor Argos]\n(Zzzz...)",
         "pt-BR": "[Instrutor Argus]\nUgh... Argh...",
-        "es-ES": "[Instructor Argos]\n(Zzzz…)"
+        "es-ES": "[Instructor Argos]\n(Zzzz...)"
     },
     "YkncBg": {
         "en-US": "- ......",
@@ -22,12 +22,12 @@
     "ZEncBg": {
         "en-US": "- Could it be...",
         "pt-BR": "O que está acontecendo...?!",
-        "es-ES": "Será que…"
+        "es-ES": "Será que..."
     },
     "ZUncBg": {
         "en-US": "- There must have been...\n- Yes, cold-blooded murder!\n- There's a murderer nearby!",
         "pt-BR": "Isso deve ter sido um assassinato...\nÉ. Só pode ser um caso de homicídio!\nO assassino não deve estar longe!",
-        "es-ES": "Esto debe ser un…\n¡Sí, un asesinato a sangre fría!\n¡Hay un asesino cerca!"
+        "es-ES": "Esto debe ser un...\n¡Sí, un asesinato a sangre fría!\n¡Hay un asesino cerca!"
     },
     "ZkncBg": {
         "en-US": "- In the name of my grandfather,\n- I will solve this case!",
@@ -37,7 +37,7 @@
     "Z0ncBg": {
         "en-US": "[Instructor Argos]\n(Yawns) Who are you?\nWhat are you babbling about...?",
         "pt-BR": "[Instrutor Argus]\nErr... Oi?\nO que você tá fazendo aqui?",
-        "es-ES": "[Instructor Argos]\n*Bosteza* ¿Quién eres?\n¿Qué estás balbuceando…?"
+        "es-ES": "[Instructor Argos]\n*Bosteza* ¿Quién eres?\n¿Qué estás balbuceando...?"
     },
     "aEncBg": {
         "en-US": "Aren't you dead?",
@@ -47,7 +47,7 @@
     "aUncBg": {
         "en-US": "[Instructor Argos]\nDead? Who...?\nMe? (Laughs)",
         "pt-BR": "[Instrutor Argus]\nVocê achou que eu estava morto?\nHahahahaha!!!",
-        "es-ES": "[Instructor Argos]\n¿Muerto? ¿Quién…?\n¿Yo? *Ríe*"
+        "es-ES": "[Instructor Argos]\n¿Muerto? ¿Quién...?\n¿Yo? *Ríe*"
     },
     "akncBg": {
         "en-US": "[Instructor Argos]\nOh, sorry. But that's a good one. (Laughs)\nI was taking a nap, isn't it such a nice day?",
@@ -57,12 +57,12 @@
     "a0ncBg": {
         "en-US": "But I didn't hear you breathing...",
         "pt-BR": "Você parecia não estar respirando...",
-        "es-ES": "Pero no te oía respirar…"
+        "es-ES": "Pero no te oía respirar..."
     },
     "bEncBg": {
         "en-US": "[Instructor Argos]\nOh, that...\nNo wonder you thought I was dead.",
         "pt-BR": "[Instrutor Argus]\nHum... Talvez você tenha se enganado.",
-        "es-ES": "[Instructor Argos]\nAh, eso…\nNo me extraña que pensaras que estaba muerto."
+        "es-ES": "[Instructor Argos]\nAh, eso...\nNo me extraña que pensaras que estaba muerto."
     },
     "bUncBg": {
         "en-US": "[Instructor Argos]\nI used my ^FF0000Play Dead^000000 skill, as I didn't want monsters to disturb my slumber.",
@@ -77,12 +77,12 @@
     "b0ncBg": {
         "en-US": "[Instructor Argos]\nBy the by... You're a novice who hasn't been here for long, huh?",
         "pt-BR": "[Instrutor Argus]\nA propósito... Você é um novato que não está aqui há muito tempo, não é?",
-        "es-ES": "[Instructor Argos]\nPor cierto… No llevas mucho tiempo aquí, ¿eh, principiante?"
+        "es-ES": "[Instructor Argos]\nPor cierto... No llevas mucho tiempo aquí, ¿eh, principiante?"
     },
     "cEncBg": {
         "en-US": "[Instructor Argos]\nAre you interested in learning my ^FF0000Play Dead^000000 skill? It's my trademark nap... I mean, battle strategy.",
         "pt-BR": "[Instrutor Argus]\nVocê está interessado em aprender minha habilidade ^FF0000Fingir de Morto^000000? É a minha marca registrada, a soneca... Quero dizer, estratégia de batalha",
-        "es-ES": "[Instructor Argos]\n¿Te interesa aprender mi habilidad ^FF0000Hacerse el Muerto^000000? Es mi siesta característica… Quiero decir, mi estrategia de combate."
+        "es-ES": "[Instructor Argos]\n¿Te interesa aprender mi habilidad ^FF0000Hacerse el Muerto^000000? Es mi siesta característica... Quiero decir, mi estrategia de combate."
     },
     "cUncBg": {
         "en-US": "[Instructor Argos]\nIt will be helpful to you. What do you say?",
@@ -102,7 +102,7 @@
     "dEncBg": {
         "en-US": "[Instructor Argos]\nOh, okay. I see.\nLet me get back to sleep...\n(Yawns)",
         "pt-BR": "[Instrutor Argus]\nTudo bem.\nVou voltar ao meu cochilo...",
-        "es-ES": "[Instructor Argos]\nAh, está bien. Ya veo.\nDéjame seguir durmiendo…\n*Bosteza*"
+        "es-ES": "[Instructor Argos]\nAh, está bien. Ya veo.\nDéjame seguir durmiendo...\n*Bosteza*"
     },
     "dUncBg": {
         "en-US": "[Instructor Argos]\nHey, good thinking!\nI'm not just teaching you this willy-nilly, you know!",

@@ -7,7 +7,7 @@
     "oUDd": {
         "en-US": "[Fishbone]\nWhat...?\nIs there something\non my face? Quit looking\nat me and let me do my work.",
         "pt-BR": "[Espinha de Peixe]\nO que...\nTem alguma coisa\nno meu rosto? Pare de olhar\npara mim e me deixe trabalhar.",
-        "es-ES": "[Fishbone]\n¿Qué…?\n¿Tengo algo\nen el rostro? Ya no me mires\ny déjame trabajar en paz."
+        "es-ES": "[Fishbone]\n¿Qué...?\n¿Tengo algo\nen el rostro? Ya no me mires\ny déjame trabajar en paz."
     },
     "okDd": {
         "en-US": "[Fishbone]\nHey. Hey you.\nYou're still looking\nat me. Quit it. I'm busy\nhere and you're bothering me.",
@@ -32,7 +32,7 @@
     "pkDd": {
         "en-US": "[{0}]\nNah...\nI just think\nyou're uptight\nin general.",
         "pt-BR": "[{0}]\nNão...\nEu acho que\nvocê é nervoso\nsempre.",
-        "es-ES": "[{0}]\nNop…\nSe me hace que\nsiempre estás tenso\nen general."
+        "es-ES": "[{0}]\nNop...\nSe me hace que\nsiempre estás tenso\nen general."
     },
     "p0Dd": {
         "en-US": "[Fishbone]\nMuthafruit!\nSo you're just\ngonna sit and watch\nme all day?! Fine! Then\nI'll just ignore you, jerk!",
@@ -42,12 +42,12 @@
     "qEDd": {
         "en-US": "[Fishbone]\n...\n......\nDamn it!\nThis is really\nticking me off! Why\ndon't you go away?!",
         "pt-BR": "[Espinha de Peixe]\n...\n......\nDroga!\nIsso está realmente\nme irritando! Por que\nvocê não vai embora?!",
-        "es-ES": "[Fishbone]\n…\n......\n¡Maldita sea!\n¡No sabes\ncuánto me irritas! ¡¿Por qué \nno te largas?!"
+        "es-ES": "[Fishbone]\n...\n......\n¡Maldita sea!\n¡No sabes\ncuánto me irritas! ¡¿Por qué \nno te largas?!"
     },
     "qUDd": {
         "en-US": "[{0}]\nWell, I was also\nwondering why you're\nworking in a place that's\nso, um... depressing.",
         "pt-BR": "[{0}]\nBom, eu também estava\nme perguntando por que você está\ntrabalhando em um lugar que é\ntão, hum... deprimente.",
-        "es-ES": "[{0}]\nBueno, también me\npreguntaba por qué \ntrabajas en este lugar\ntan… deprimente."
+        "es-ES": "[{0}]\nBueno, también me\npreguntaba por qué \ntrabajas en este lugar\ntan... deprimente."
     },
     "qkDd": {
         "en-US": "[Fishbone]\nAlright, fine!\nBut once I tell you\nwhat I do here, you're\noutta here! Okay? Now,\nyour lips are frickin' sealed.^FFFFFF    ^000000 See, what I do is kinda illegal.",
@@ -57,7 +57,7 @@
     "q0Dd": {
         "en-US": "[Fishbone]\nI provide routes that let\npeople enter Lighthalzen,\nor even go anywhere in this\ncity, without authorization.\nHell, I could even get you\ninto that Laboratory...",
         "pt-BR": "[Espinha de Peixe]\nEu forneço rotas que permitem\nque as pessoas entrem em Lighthalzen,\nou mesmo irem a qualquer lugar desta\ncidade sem autorização.\nNossa, eu poderia até mesmo te colocar\nnaquele laboratório...",
-        "es-ES": "[Fishbone]\nOfrezco rutas para que\nla gente entre a Lighthalzen,\no incluso vaya a cualquier parte\nde la ciudad sin autorización.\nHasta podría hacer que entres\na ese laboratorio…"
+        "es-ES": "[Fishbone]\nOfrezco rutas para que\nla gente entre a Lighthalzen,\no incluso vaya a cualquier parte\nde la ciudad sin autorización.\nHasta podría hacer que entres\na ese laboratorio..."
     },
     "rEDd": {
         "en-US": "[{0}]\nW-wait!\nLaboratory?!\nAre you serious?\nCan you get me\ninto that place?",
@@ -67,7 +67,7 @@
     "rUDd": {
         "en-US": "[Fishbone]\nSonuva--You're not\ngonna leave me alone,\nare you? Look, you seem\nokay, even if you are kinda\nstubborn, kid. But I don't trust^FFFFFF  ^000000 or serve strangers, period.",
         "pt-BR": "[Espinha de Peixe]\nSonuva... Você não vai\nme deixar em paz,\nné? Olha, você parece\ngente boa, ainda que um pouco\ncabeça-dura, jovem. Mas eu não confio^FFFFFF ^000000 nem sirvo estranhos, ponto final.",
-        "es-ES": "[Fishbone]\nHijue… No vas\na dejarme en paz,\n¿verdad? Mira, pareces\nbuena persona, a pesar de la\nterquedad. Pero no confío en extraños^FFFFFF ^000000ni los ayudo. Y punto."
+        "es-ES": "[Fishbone]\nHijue... No vas\na dejarme en paz,\n¿verdad? Mira, pareces\nbuena persona, a pesar de la\nterquedad. Pero no confío en extraños^FFFFFF ^000000ni los ayudo. Y punto."
     },
     "rkDd": {
         "en-US": "[{0}]\nBut isn't there\nanything I can do\nso you can help me\nget into the Laboratory?",
@@ -82,12 +82,12 @@
     "sEDd": {
         "en-US": "[{0}]\nPlease...\nPlease tell me\nhow I can get inside\nthe Laboratory. I'm...\nI'm begging you!",
         "pt-BR": "[{0}]\nPor favor...\nPor favor, me diga\ncomo posso entrar no\nlaboratório. Eu...\nestou implorando!",
-        "es-ES": "[{0}]\nPor favor…\nPor favor, dime\ncómo puedo entrar\nal laboratorio. Yo…\n¡Te lo suplico!"
+        "es-ES": "[{0}]\nPor favor...\nPor favor, dime\ncómo puedo entrar\nal laboratorio. Yo...\n¡Te lo suplico!"
     },
     "sUDd": {
         "en-US": "[Fishbone]\nNo! Now shaddup\nand stop begging, okay?\nYou're only embarassing\nyourself! Good grief...",
         "pt-BR": "[Espinha de Peixe]\nNão! Agora cala a boquinha\ne para de implorar, beleza?\nVocê só está\npagando mico! Caramba...",
-        "es-ES": "[Fishbone]\n¡No! Ahora cállate\ny deja de rogar, ¿quieres?\n¡No haces más que\nquedar en ridículo! Santo cielo…"
+        "es-ES": "[Fishbone]\n¡No! Ahora cállate\ny deja de rogar, ¿quieres?\n¡No haces más que\nquedar en ridículo! Santo cielo..."
     },
     "skDd": {
         "en-US": "[{0}]\nWhy won't you\nheeeeelp meee?\nPleeeeeeeease~\nYou're the only one\nwho knoooooows~",
@@ -102,7 +102,7 @@
     "tEDd": {
         "en-US": "[{0}]\nBut there's gotta\nbe something I can\ndo so you'll help me?\nTh-that's the way i-it\nalways w-works. You\ncan't just-- You c-can't...",
         "pt-BR": "[{0}]\nMas tem que haver\nalguma coisa que eu possa\nfazer para você me ajudar.\nI-Isso sempre\nf-funcionou assim.\nVocê não pode simplesmente... Você n-não pode...",
-        "es-ES": "[{0}]\nPero tiene que haber\nalgo que pueda\nhacer para que me ayudes.\nA-así es c-como\nsiempre f-funciona. Tú \nn-no… no p-puedes…"
+        "es-ES": "[{0}]\nPero tiene que haber\nalgo que pueda\nhacer para que me ayudes.\nA-así es c-como\nsiempre f-funciona. Tú \nn-no... no p-puedes..."
     },
     "tUDd": {
         "en-US": "[Fishbone]\nAlright, you got me.\nBut if I'm gonna risk\nmy life to help you get\ninto that Laboratory I want\nsomething in return. Okay?",
@@ -117,12 +117,12 @@
     "t0Dd": {
         "en-US": "[{0}]\nYou're joking right?!\nThere's no way I can ever\nget that much zeny! I'd...\nI'd have to at least take\nover the world or, or...",
         "pt-BR": "[{0}]\nVocê está brincando, certo?!\nNão tem como eu arranjar\ntanto Zeny assim! Eu...\nEu teria que, no mínimo, dominar\no mundo ou, ou...",
-        "es-ES": "[{0}]\n¡Dime que estás bromeando!\n¡No hay forma de que pueda\nconseguir tantos zeny! T-\ntendría que por lo menos\nconquistar el mundo o, o…"
+        "es-ES": "[{0}]\n¡Dime que estás bromeando!\n¡No hay forma de que pueda\nconseguir tantos zeny! T-\ntendría que por lo menos\nconquistar el mundo o, o..."
     },
     "uEDd": {
         "en-US": "[Fishbone]\nGood point.\nFine, maybe that\nprice is a little high.\nI'll just cut it in half,\nthen. Still want my\nhelp? Then bring me...",
         "pt-BR": "[Espinha de Peixe]\nTem razão.\nCerto, talvez o\nvalor seja um pouco alto.\nVou reduzi-lo pela metade,\nentão. Ainda quer minha\najuda? Então me traga...",
-        "es-ES": "[Fishbone]\nBuen punto.\nEstá bien, tal vez\nexageré un poco con el precio.\nTráeme la mitad,\nentonces. ¿Todavía quieres mi\nayuda? Entonces tráeme…"
+        "es-ES": "[Fishbone]\nBuen punto.\nEstá bien, tal vez\nexageré un poco con el precio.\nTráeme la mitad,\nentonces. ¿Todavía quieres mi\nayuda? Entonces tráeme..."
     },
     "uUDd": {
         "en-US": "[Fishbone]",
@@ -132,12 +132,12 @@
     "ukDd": {
         "en-US": "...^FF000020 Jellopy^000000.",
         "pt-BR": "...^FF000020Jellopies^000000.",
-        "es-ES": "…^FF000020 Jellopy^000000."
+        "es-ES": "...^FF000020 Jellopy^000000."
     },
     "u0Dd": {
         "en-US": "[Fishbone]\nGosh.\nIt's like I'm\ndoing this for free...",
         "pt-BR": "[Jellopy]\nNossa.\nÉ como se eu estivesse\nfazendo isso de graça...",
-        "es-ES": "[Fishbone]\nRayos.\nEs como si te\nayudara gratis…"
+        "es-ES": "[Fishbone]\nRayos.\nEs como si te\nayudara gratis..."
     },
     "vEDd": {
         "en-US": "Okay.",
@@ -157,12 +157,12 @@
     "v0Dd": {
         "en-US": "[Fishbone]\nWhat are you--\nOkay, now you're the\none who's joking around.\nLook, it's either bring me\n20 Jellopy or 71,381,3--\nwhatever number I said-- zeny!",
         "pt-BR": "[Espinha de Peixe]\nO que você...\nCerto, agora é você que\nestá brincando.\nOlha, ou me traz\n20 Jellopies ou 71.381.3...\ne tantos Zeny que eu disse!",
-        "es-ES": "[Fishbone]\n¿Qué estás…?\nAh, ahora a ti\nse te dio por bromear.\nMira, ¡o me traes\n20 Jellopy o me traes 713813…\n(no me acuerdo cuántos) zeny!"
+        "es-ES": "[Fishbone]\n¿Qué estás...?\nAh, ahora a ti\nse te dio por bromear.\nMira, ¡o me traes\n20 Jellopy o me traes 713813...\n(no me acuerdo cuántos) zeny!"
     },
     "wEDd": {
         "en-US": "[Fishbone]\nSo...\nDid you bring\nthe stuff?",
         "pt-BR": "[Espinha de Peixe]\nE aí...\nVocê trouxe\nas coisas?",
-        "es-ES": "[Fishbone]\nAsí que…\n¿Pudiste traer\nmis cosas?"
+        "es-ES": "[Fishbone]\nAsí que...\n¿Pudiste traer\nmis cosas?"
     },
     "wUDd": {
         "en-US": "I'm still working on it.",
@@ -177,7 +177,7 @@
     "w0Dd": {
         "en-US": "Um... Stuff?",
         "pt-BR": "Coisas?",
-        "es-ES": "Eh… ¿Cosas?"
+        "es-ES": "Eh... ¿Cosas?"
     },
     "xEDd": {
         "en-US": "[Fishbone]\nStill working on it?\nOkay, I know I didn't\nask you for very much,\nbut gimme some respect\nand get serious about it!\nIt's 20 friggin' Jellopies!",
@@ -192,7 +192,7 @@
     "xkDd": {
         "en-US": "[Fishbone]\nNow, if you're wondering\nwhy I don't got much qualm\nagainst helping you, it's\nbecause I used to work in\nthe Laboratory... But then\nthey laid me off unfairly.",
         "pt-BR": "[Espinha de Peixe]\nAgora, se você está se perguntando\npor que eu não tenho muito escrúpulo\ncontra te ajudar, é\nporque eu costumava trabalhar no\nlaboratório... Mas depois\neles me demitiram injustamente.",
-        "es-ES": "[Fishbone]\nAhora, si te preguntas\npor qué no tengo tanto reparo\nen ayudarte, es\nporque solía trabajar en\nese laboratorio… Hasta que\nme despidieron injustamente."
+        "es-ES": "[Fishbone]\nAhora, si te preguntas\npor qué no tengo tanto reparo\nen ayudarte, es\nporque solía trabajar en\nese laboratorio... Hasta que\nme despidieron injustamente."
     },
     "x0Dd": {
         "en-US": "[Fishbone]\nAnyway, anything I can\ndo to cause them trouble\nis good in my book. Let me\nget some stuff ready and\nthen I'll tell you what you\nreally need to know.",
@@ -202,17 +202,17 @@
     "yEDd": {
         "en-US": "[Fishbone]\nUh...\nI said 20 Jellopies,\ndidn't I? This ain't\nenough pal, so go out\nand get some more!",
         "pt-BR": "[Espinha de Peixe]\nHã...\nEu disse 20 Jellopies,\nnão disse? Isso não é\nsuficiente, camarada, então saia\ne pegue mais!",
-        "es-ES": "[Fishbone]\nOye…\nDije 20 Jellopy,\n¿no? Esto no alcanza,\ncolega, ¡así que ve\ny consigue más!"
+        "es-ES": "[Fishbone]\nOye...\nDije 20 Jellopy,\n¿no? Esto no alcanza,\ncolega, ¡así que ve\ny consigue más!"
     },
     "yUDd": {
         "en-US": "[Fishbone]\nWhat the...?\nHow could you forget\nsomething like that?\nAnyway, I asked you to\nbring 20 Jellopies.",
         "pt-BR": "[Espinha de Peixe]\nMas o que...\nComo você pôde esquecer\nalgo assim?\nDe qualquer forma, eu te pedi para\ntrazer 20 Jellopies.",
-        "es-ES": "[Fishbone]\n¿Pero qué…?\n¿Cómo podrías olvidarte\nalgo como eso?\nEn fin, te pedí que me\ntrajeras 20 Jellopy."
+        "es-ES": "[Fishbone]\n¿Pero qué...?\n¿Cómo podrías olvidarte\nalgo como eso?\nEn fin, te pedí que me\ntrajeras 20 Jellopy."
     },
     "ykDd": {
         "en-US": "[Fishbone]\nAlright. There's no easy\nway to get into Regenschrim\nLab. However, I do know of\nthis secret maze that should\nget you there. Still, if you're\nwilling and ready to go...",
         "pt-BR": "[Espinha de peixe]\nCerto. Não há uma maneira fácil\nde entrar no Laboratório\nRegenschrim. No entanto, eu conheço\num labirinto secreto que deve\nte levar até lá. Ainda assim, se você\nquiser ir agora...",
-        "es-ES": "[Fishbone]\nDe acuerdo. No hay una forma\nfácil de entrar al laboratorio\nde Regenschirm. Sin embargo, sé de\nun laberinto secreto que debería\nllevarte hasta ahí. Ahora bien, si ya\nte preparaste para ir…"
+        "es-ES": "[Fishbone]\nDe acuerdo. No hay una forma\nfácil de entrar al laboratorio\nde Regenschirm. Sin embargo, sé de\nun laberinto secreto que debería\nllevarte hasta ahí. Ahora bien, si ya\nte preparaste para ir..."
     },
     "y0Dd": {
         "en-US": "Wait, not yet!",
@@ -227,7 +227,7 @@
     "zUDd": {
         "en-US": "[Fishbone]\nEh...?\nAlright, it's\nnot a problem.\nJust take your time.",
         "pt-BR": "[Espinha de Peixe]\nHã...?\nTudo bem,\nsem problema.\nNão tenha pressa.",
-        "es-ES": "[Fishbone]\n¿Eh…?\nMuy bien,\nno hay problema.\nTómate tu tiempo."
+        "es-ES": "[Fishbone]\n¿Eh...?\nMuy bien,\nno hay problema.\nTómate tu tiempo."
     },
     "zkDd": {
         "en-US": "[Fishbone]\nGreat!\nOkay then,\nhere we go!",
@@ -257,7 +257,7 @@
     "00Dd": {
         "en-US": "[Fishbone]\nGot a lot of\nspirit in you,\ndon't you? Heh!\nI like you style~\nGet ready, 'cuz\nhere we go...!",
         "pt-BR": "[Espinha de Peixe]\nVocê tem muita\ngarra,\nné? Hehe!\nGosto do seu estilo~\nPrepare-se, porque\naqui vamos nós...!",
-        "es-ES": "[Fishbone]\nSí que\ntienes espíritu,\n¿verdad? ¡Je!\nMe gusta tu estilo.\n¡Prepárate, porque\nallá vamos…!"
+        "es-ES": "[Fishbone]\nSí que\ntienes espíritu,\n¿verdad? ¡Je!\nMe gusta tu estilo.\n¡Prepárate, porque\nallá vamos...!"
     },
     "1EDd": {
         "en-US": "[Fishbone]\nHey, you came back!\nGood, I was starting\nto get a little worried\nabout what happened to\nyou. So did you get what\nyou wanted over there?",
@@ -267,7 +267,7 @@
     "1UDd": {
         "en-US": "[{0}]\nYeah...\nI hope so,\nanyway.",
         "pt-BR": "[{0}]\nSim...\nEspero que sim,\nde qualquer forma.",
-        "es-ES": "[{0}]\nSí…\nEso espero,\nal menos…"
+        "es-ES": "[{0}]\nSí...\nEso espero,\nal menos..."
     },
     "1kDd": {
         "en-US": "[Fishbone]\nGood! Whatever you did,\nI hope it messes them up big\ntime! I usedta be a respected\nscientist for Regenschirm till\nthey laid me off! Serves those\nungrateful jerkoffs right!",
@@ -282,7 +282,7 @@
     "2EDd": {
         "en-US": "[Fishbone]\nOh yeah, the place you\njust went to? There's a\nsecret path the Laboratory\nthere. If you want, I can\nsend you back there. So\nwhat do you say?",
         "pt-BR": "[Espinha de Peixe]\nAh, sim, o lugar que você\nacabou de ir? Há um caminho\nsecreto para o laboratório\nlá. Se você quiser, posso te\nmandar de volta para lá. E aí,\no que acha?",
-        "es-ES": "[Fishbone]\nAh, sí, ¿el lugar al\nque acabas de ir? Hay un\ncamino secreto al laboratorio\nahí. Si quieres, puedo\nenviarte de vuelta. Así que…\n¿qué dices?"
+        "es-ES": "[Fishbone]\nAh, sí, ¿el lugar al\nque acabas de ir? Hay un\ncamino secreto al laboratorio\nahí. Si quieres, puedo\nenviarte de vuelta. Así que...\n¿qué dices?"
     },
     "2UDd": {
         "en-US": "Sure",
@@ -302,12 +302,12 @@
     "3EDd": {
         "en-US": "[Fishbone]\nAlright, it's your\nchoice. Oh, and that\npass you have should\nlet you into the Laboratory\nanyway. Good luck to you, pal.",
         "pt-BR": "[Espinha de Peixe]\nBeleza, a escolha é sua.\nAh, e aquele\npasse que você tem deve\nte deixar entrar no laboratório,\nde qualquer forma. Boa sorte para você, camarada.",
-        "es-ES": "[Fishbone]\nBueno, es tu\nelección. Ah, y ese\npase que tienes debería\nservir para entrar al laboratorio\nal menos… Buena suerte, colega."
+        "es-ES": "[Fishbone]\nBueno, es tu\nelección. Ah, y ese\npase que tienes debería\nservir para entrar al laboratorio\nal menos... Buena suerte, colega."
     },
     "3UDd": {
         "en-US": "[Fishbone]\nOh hey, it's you!\nNow, listen. If you wanna\nget into Regenschirm again,\nyou gotta enter that Sewer Pipe\nthat's like, northeast from me.\nIt's gross, but you gotta...",
         "pt-BR": "[Espinha de Peixe]\nAh, ei, é você!\nAgora ouça. Se você quiser\nentrar no Regenschirm de novo,\nprecisa entrar naquele cano de esgoto\nque fica a nordeste daqui.\nÉ nojento, mas necessário...",
-        "es-ES": "[Fishbone]\n¡Oh, hola, eres tú!\nAhora, escucha. Si quieres\nentrar en Regenschirm de nuevo,\ntienes que entrar en esa alcantarilla\nque está a mi noreste.\nEs un asco, pero no queda otra…"
+        "es-ES": "[Fishbone]\n¡Oh, hola, eres tú!\nAhora, escucha. Si quieres\nentrar en Regenschirm de nuevo,\ntienes que entrar en esa alcantarilla\nque está a mi noreste.\nEs un asco, pero no queda otra..."
     },
     "3kDd": {
         "en-US": "[Fishbone]\nAnyway, good luck in\nwhatever it is you're doing\nhere in Lighthazlen. Oh, and\nbe real careful! Something\nshadier than me is going\non in this big city~",
@@ -332,7 +332,7 @@
     "4kDd": {
         "en-US": "[Fishbone]\nOkay...\nAre you ready now?\nI'm gonna send you\nsomeplace where you\ncan find the Lab entrance.",
         "pt-BR": "[Espinha de Peixe]\nCerto...\nQuer ir agora?\nVou te mandar\npara um lugar onde você\npoderá encontrar a entrada do laboratório.",
-        "es-ES": "[Fishbone]\nBueno…\n¿Ya está todo listo?\nVoy a enviarte\na un lugar en el que\nencontrarás la entrada al laboratorio."
+        "es-ES": "[Fishbone]\nBueno...\n¿Ya está todo listo?\nVoy a enviarte\na un lugar en el que\nencontrarás la entrada al laboratorio."
     },
     "40Dd": {
         "en-US": "Not yet.",
@@ -342,7 +342,7 @@
     "5EDd": {
         "en-US": "[Fishbone]\nHm, you must not have\naccomplished whatever\nit was you were doing\nin the Laboratory. Do\nyou want me to send\nyou there again?",
         "pt-BR": "[Espinha de Peixe]\nHum, você não deve ter\nfeito o que\nprecisa fazer no laboratório\nainda.\nQuer que eu te mande\npara lá de novo?",
-        "es-ES": "[Fishbone]\nMm, quizá todavía\nno hiciste lo que sea\nque estabas haciendo\nen el laboratorio. ¿Quieres…?\n¿Quieres que te envíe\nahí otra vez?"
+        "es-ES": "[Fishbone]\nMm, quizá todavía\nno hiciste lo que sea\nque estabas haciendo\nen el laboratorio. ¿Quieres...?\n¿Quieres que te envíe\nahí otra vez?"
     },
     "5UDd": {
         "en-US": "[Fishbone]\nGood! Whatever you did,\nI hope it messes them up big\ntime! I usedta be a respected\nscientist for Regenschirm till\nthey laid me off! Serves those\nungrateful jerkoffs right!",
@@ -417,7 +417,7 @@
     "80Dd": {
         "en-US": "[Bonse]\n*Hiccup* I loooove\nthis rum! I caught a cold\nonce and one glass made\nit go away! 'Course, I slept\nfor a week too, but that don't\nmatter! Pshaw! Science...",
         "pt-BR": "[Bonse]\n*Hiccup* Eu amo\neste rum! Peguei um resfriado\numa vez e um copo disso\nme curou! Claro que eu dormi\npor uma semana também, mas isso não\nimporta! Pei! Ciência...",
-        "es-ES": "[Bonse]\n*Hip* ¡Me encaaanta\neste ron! ¡Una vez me resfrié \ny con una sola copa\nya me había curado! Claro, también dormí \nuna semana, ¡pero eso es\naparte! ¡Bah! Ciencia…"
+        "es-ES": "[Bonse]\n*Hip* ¡Me encaaanta\neste ron! ¡Una vez me resfrié \ny con una sola copa\nya me había curado! Claro, también dormí \nuna semana, ¡pero eso es\naparte! ¡Bah! Ciencia..."
     },
     "9EDd": {
         "en-US": "[Bonse]\nOh, the flavor is just\nso clean, but it's also\ngot a bit of a kick. I don't\nknow how to describe it.\nIts the taste of happiness?\nI'm too drunk to even tell!",
@@ -442,7 +442,7 @@
     "+EDd": {
         "en-US": "[Linus]\nAfter ten years\nof marriage. My\nwife divorced me...",
         "pt-BR": "[Linus]\nDepois de dez anos\ncasado. Minha\nesposa se divorciou de mim...",
-        "es-ES": "[Linus]\nDespués de diez años\nde matrimonio, mi\nesposa me pidió el divorcio…"
+        "es-ES": "[Linus]\nDespués de diez años\nde matrimonio, mi\nesposa me pidió el divorcio..."
     },
     "+UDd": {
         "en-US": "[Linus]\nSo I guess there's no\nplace for me but here for\nnow. I don't know what it is,\nbut the rum is really good\ntoday. Like, it's the flavor\nof relaxing, joyous relief~",
@@ -492,17 +492,17 @@
     "AkHd": {
         "en-US": "[Lanko]\nWhen I get some time\noff, I'm going to explore\nLighthalzen and see all that\nthere is to see. But for now,\nit doesn't look like we've got\nany real shortage of drunks...",
         "pt-BR": "[Lanko]\nQuando eu tiver uma\nfolga, vou explorar\nLighthalzen e ver tudo o que\nhá para ver. Mas, por enquanto,\ntemos bêbados\nde sobra...",
-        "es-ES": "[Lanko]\nCuando tenga tiempo\nlibre, saldré a explorar\nLighthalzen y a conocer todos\nlos sitios de interés. Pero por el momento,\nno parece que vayan a faltar\nborrachos a los que servir…"
+        "es-ES": "[Lanko]\nCuando tenga tiempo\nlibre, saldré a explorar\nLighthalzen y a conocer todos\nlos sitios de interés. Pero por el momento,\nno parece que vayan a faltar\nborrachos a los que servir..."
     },
     "A0Hd": {
         "en-US": "[Garry]\nHey! Hey you...!\nD'you wanna, you\nwanna hear me tell\nyou a joke?! It goes...\nUm, it goes like this...",
         "pt-BR": "[Garry]\nEi! Ei, você...!\nVocê quer, você quer\nquer me ouvir contar\numa piada?! É assim...\nHum, é assim...",
-        "es-ES": "[Garry]\n¡Oye! ¡Oye, tú…!\n¿Q-quieres\nque te cuente\nun chiste? Dice…\neh, dice así…"
+        "es-ES": "[Garry]\n¡Oye! ¡Oye, tú...!\n¿Q-quieres\nque te cuente\nun chiste? Dice...\neh, dice así..."
     },
     "BEHd": {
         "en-US": "[Garry]\nHey riddle middle,\nthe cat and th--\nNo! No, damn it!\nThat's a song!\nNo, wait, that's\nnot a song either...",
         "pt-BR": "[Garry]\nEi, charadinha,\no gato e a...\nNão! Não, droga!\nIsso é uma música!\nNão, espere, isso\ntambém não é uma música...",
-        "es-ES": "[Garry]\nAy, tirirín, tirirín,\nel gato y el…\n¡No! ¡No, maldita sea,\nesa es una canción!\nNo, espera,\ntampoco es una canción…"
+        "es-ES": "[Garry]\nAy, tirirín, tirirín,\nel gato y el...\n¡No! ¡No, maldita sea,\nesa es una canción!\nNo, espera,\ntampoco es una canción..."
     },
     "BUHd": {
         "en-US": "[Duff]\nHey, you're from\nRune-Midgard, right?\nPlease make yourself\nat home while you're here\nin Lighthalzen and have\nyourself a good time.",
@@ -532,7 +532,7 @@
     "CkHd": {
         "en-US": "[Hachi]\nWeird. It's the very first\ntime I've tried this place's\nrum, but doesn't it taste like\npure sexiness to you? Huh...\nOh well, back to schmoozin'\nwith all the hot chicks~",
         "pt-BR": "[Hachi]\nEstranho. É a primeira vez\nvez que experimento o\nrum deste lugar, mas ele não tem gosto de\npura sensualidade para você? Huh...\nAh, enfim, de volta ao papo\ncom todas as gatas~",
-        "es-ES": "[Hachi]\nQué raro. Es la primera vez\nque pruebo el ron de este lugar,\npero, ¿no te parece que sabe\na pura sensualidad? Mmm…\nQué va. Mejor vuelvo a charlotear\ncon esas lindas pollitas."
+        "es-ES": "[Hachi]\nQué raro. Es la primera vez\nque pruebo el ron de este lugar,\npero, ¿no te parece que sabe\na pura sensualidad? Mmm...\nQué va. Mejor vuelvo a charlotear\ncon esas lindas pollitas."
     },
     "C0Hd": {
         "en-US": "Customer",
@@ -542,17 +542,17 @@
     "DEHd": {
         "en-US": "[Greenfield]\nI don't believe it...\nThis unlucky streak\nwill never end, will it?\nI lost all my Apples\nplaying Dice today.\nAgain. Oh man...",
         "pt-BR": "[Greenfield]\nNão acredito nisso...\nEssa maré de azar\nnunca vai passar, não é?\nPerdi todas as minhas maçãs\njogando dados hoje.\nDe novo. Poxa vida...",
-        "es-ES": "[Greenfield]\nImposible…\n¿Esta mala racha\nse acabará alguna vez?\nPerdí todas las manzanas\njugando a los dados hoy.\nUna vez más. Vaya…"
+        "es-ES": "[Greenfield]\nImposible...\n¿Esta mala racha\nse acabará alguna vez?\nPerdí todas las manzanas\njugando a los dados hoy.\nUna vez más. Vaya..."
     },
     "DUHd": {
         "en-US": "[Greenfield]\nOkay. Okay.\nIf I just keep\nplaying, eventually\nI'll win. I mean, that's\nthe way the odds work, right?\nEven when they're against me...",
         "pt-BR": "[Greenfield]\nCerto. Beleza.\nSe eu continuar\njogando, vou acabar\nganhando. Quero dizer,\né assim que as probabilidades funcionam, certo?\nMesmo quando elas estão contra mim...",
-        "es-ES": "[Greenfield]\nBueno. Bueno.\nSi sigo jugando,\nen algún momento\nvoy a ganar. Digo, así es como\nfuncionan las probabilidades, ¿no?\nIncluso cuando estén en mi contra…"
+        "es-ES": "[Greenfield]\nBueno. Bueno.\nSi sigo jugando,\nen algún momento\nvoy a ganar. Digo, así es como\nfuncionan las probabilidades, ¿no?\nIncluso cuando estén en mi contra..."
     },
     "DkHd": {
         "en-US": "[Terry]\nI'm not big on drinking,\nbut the atmosphere in this\nplace is really nice. The\nmusic they play is always\nsmooth and relaxing...",
         "pt-BR": "[Terry]\nNão gosto muito de beber,\nmas o clima deste\nlugar é muito agradável. A\nmúsica que tocam é sempre\nsuave e relaxante...",
-        "es-ES": "[Terry]\nNo me gusta mucho beber,\npero este lugar tiene\nun ambiente muy bonito. La\nmúsica que tocan siempre es\nsuave y relajante…"
+        "es-ES": "[Terry]\nNo me gusta mucho beber,\npero este lugar tiene\nun ambiente muy bonito. La\nmúsica que tocan siempre es\nsuave y relajante..."
     },
     "D0Hd": {
         "en-US": "[Terry]\nYeah, this is a real cozy\njoint. I recommend it to\nall you tourists, acutally.\nNow why don't you kick\nback and chill with me?",
@@ -562,7 +562,7 @@
     "EEHd": {
         "en-US": "[Sei]\nYou see that guy?\nThat guy over there is\nalways looking at me.\nI wonder... Does he want\nto ask me out or something?",
         "pt-BR": "[Sei]\nEstá vendo aquele cara?\nEle não\ntira os olhos de mim.\nEu me pergunto... Será que ele quer\nme convidar para sair ou algo assim?",
-        "es-ES": "[Sei]\n¿Ves al que está allá?\nEse tipo no deja\nde mirarme.\nMe pregunto… si quiere\ninvitarme a salir o algo así."
+        "es-ES": "[Sei]\n¿Ves al que está allá?\nEse tipo no deja\nde mirarme.\nMe pregunto... si quiere\ninvitarme a salir o algo así."
     },
     "EUHd": {
         "en-US": "[Sei]\nWell, if he does,\nshouldn't he have\nmore guts? Or are \nyou boys much more\nshy than I think you are?",
@@ -572,7 +572,7 @@
     "EkHd": {
         "en-US": "[Sei]\nWell, he is sort of\ncute. Geez, this would\nbe so much easier if he\nwould just come up and\nstart talking to me...",
         "pt-BR": "[Sei]\nBom, ele é boa\npinta. Aff, isso seria\nmuito mais fácil se\nele simplesmente viesse\nfalar comigo...",
-        "es-ES": "[Sei]\nBueno, la verdad es\nbastante lindo. Cielos, sería mucho\nmás fácil si solo\nse acercara y empezara\na hablarme…"
+        "es-ES": "[Sei]\nBueno, la verdad es\nbastante lindo. Cielos, sería mucho\nmás fácil si solo\nse acercara y empezara\na hablarme..."
     },
     "E0Hd": {
         "en-US": "[Rona]\nI hate it when guys\njust sidle up and sort\nof just skip Steps One\nand Two. And before you\nget all weird, Step Three\nis ''Ask for my phone number.''",

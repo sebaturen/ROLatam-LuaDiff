@@ -32,7 +32,7 @@
     "BsegBg": {
         "en-US": "[Catherine]\n? Excuse me, I am wondering if we have met before...?\nHey~ you have changed a lot! So, what happened?",
         "pt-BR": "[Catarina]\nCom licença. Já não nos conhecemos antes...?\nNossa, você mudou muito! O que aconteceu?",
-        "es-ES": "[Catherine]\n¿? Disculpa, ¿acaso nos conocemos…?\nHola~ ¡Has cambiado mucho! Dime, ¿qué pasó?"
+        "es-ES": "[Catherine]\n¿? Disculpa, ¿acaso nos conocemos...?\nHola~ ¡Has cambiado mucho! Dime, ¿qué pasó?"
     },
     "B8egBg": {
         "en-US": "[Catherine]\nI feel you have become so much powerful, eh?\nCongratulations and good luck with your life!",
@@ -47,22 +47,22 @@
     "CcegBg": {
         "en-US": "[Catherine]\nWell, If you intended to ask me on a date...  I appreciate it...hohoho.",
         "pt-BR": "[Catarina]\nSe você quiser me chamar para sair... eu vou adorar... hohoho.",
-        "es-ES": "[Catherine]\nBueno, si pretendías invitarme a una cita…  Te lo agradezco… jo, jo, jo, jo."
+        "es-ES": "[Catherine]\nBueno, si pretendías invitarme a una cita...  Te lo agradezco... jo, jo, jo, jo."
     },
     "CsegBg": {
         "en-US": "[Catherine]\nSince you're already a Wizard, you don't have any more business with me...\nNow, excuse me.",
         "pt-BR": "[Catarina]\nAgora que você é um Bruxo, não quer mais saber de mim...\nAgora, com licença.",
-        "es-ES": "[Catherine]\nAhora que eres parte de los Hechiceros, ya no tienes nada que hablar conmigo…\nBien, con permiso."
+        "es-ES": "[Catherine]\nAhora que eres parte de los Hechiceros, ya no tienes nada que hablar conmigo...\nBien, con permiso."
     },
     "C8egBg": {
         "en-US": "[Catherine]\nWell, if you fix me up with a cute guy...  I'd appreciate it...hohoho!.",
         "pt-BR": "[Catarina]\nSe você quiser me apresentar para um carinha bonitinho... eu vou adorar... hohoho!",
-        "es-ES": "[Catherine]\nBueno, si me consigues una cita con un chico simpático…  Te lo agradeceré… ¡jo, jo, jo, jo!"
+        "es-ES": "[Catherine]\nBueno, si me consigues una cita con un chico simpático...  Te lo agradeceré... ¡jo, jo, jo, jo!"
     },
     "DMegBg": {
         "en-US": "[Wizard Guildsman]\nOh my goodness, it's a novice~ ain't you the cutest little thing.\nBy the way honey, this place is for Wizards.",
         "pt-BR": "[Wizard Guildsman]\nMinha nossa, é um aprendiz... mas que coisinha mais fofa.\nA propósito, queridinho, este é um lugar para Bruxos.",
-        "es-ES": "[Hechicera del gremio]\nOh, cielos, principiante… Eres la cosita más linda que he visto.\nPor cierto, cariño, este lugar es para Hechiceros."
+        "es-ES": "[Hechicera del gremio]\nOh, cielos, principiante... Eres la cosita más linda que he visto.\nPor cierto, cariño, este lugar es para Hechiceros."
     },
     "DcegBg": {
         "en-US": "[Wizard Guildsman]\nIf you are interested in magic,\nGo visit the ^0000FFMage^000000 guild.",
@@ -72,7 +72,7 @@
     "DsegBg": {
         "en-US": "[Wizard Guildsman]\nHuh?  what brings you to such a high place...?\nIf you don't have any specific business, please leave immediately.\nThis place is for Wizards, you know?",
         "pt-BR": "[Wizard Guildsman]\nHã? O que traz você a um lugar tão alto...?\nSe não tem nada específico a tratar, saia imediatamente.\nEste é um lugar para Bruxos, tá?",
-        "es-ES": "[Hechicera del gremio]\n¿Eh? ¿Qué te trae a un lugar tan alto…?\nSi no tienes ningún asunto concreto que tratar, retírate de inmediato.\nEste lugar es para Hechiceros , ¿entiendes?"
+        "es-ES": "[Hechicera del gremio]\n¿Eh? ¿Qué te trae a un lugar tan alto...?\nSi no tienes ningún asunto concreto que tratar, retírate de inmediato.\nEste lugar es para Hechiceros , ¿entiendes?"
     },
     "D8egBg": {
         "en-US": "[Wizard Guildsman]\nOk, then. Farewell.",
@@ -82,7 +82,7 @@
     "EMegBg": {
         "en-US": "[Wizard Guildsman]\nHuh?  What are you doing way up here...?\nSo what brings you here?",
         "pt-BR": "[Wizard Guildsman]\nHã? O que está fazendo aqui em cima...?\nO que traz você aqui?",
-        "es-ES": "[Hechicera del gremio]\n¿Eh?  ¿Qué haces aquí arriba…?\n¿Qué te trae por aquí?"
+        "es-ES": "[Hechicera del gremio]\n¿Eh?  ¿Qué haces aquí arriba...?\n¿Qué te trae por aquí?"
     },
     "EcegBg": {
         "en-US": "I want to become a Wizard.",
@@ -92,12 +92,12 @@
     "EsegBg": {
         "en-US": "...nothing.",
         "pt-BR": "... nada.",
-        "es-ES": "… Nada."
+        "es-ES": "... Nada."
     },
     "E8egBg": {
         "en-US": "[Wizard Guildsman]\nI see...  Well, of course you want to become a Wizard, otherwise you wouldn't have walked up all those stairs right?\nAnyways, I would like to welcome you.  I will assist you in becoming a Wizard.",
         "pt-BR": "[Wizard Guildsman]\nEntendo... É claro que você quer se tornar um Bruxo. Se não, não teria subido todas essas escadas, não é?\nDe qualquer forma, seja bem-vindo. Vou ajudar você a se tornar um Bruxo.",
-        "es-ES": "[Hechicera del gremio]\nYa veo…  Bueno, está claro que quieres unirte a los Hechiceros, de lo contrario, no habrías subido todas esas escaleras, ¿verdad?\nEn cualquier caso, me gustaría darte la bienvenida.  Te ayudaré a unirte a los Hechiceros."
+        "es-ES": "[Hechicera del gremio]\nYa veo...  Bueno, está claro que quieres unirte a los Hechiceros, de lo contrario, no habrías subido todas esas escaleras, ¿verdad?\nEn cualquier caso, me gustaría darte la bienvenida.  Te ayudaré a unirte a los Hechiceros."
     },
     "FMegBg": {
         "en-US": "[Wizard Guildsman]\nMy name is Catherine Medici.  Just between me and you, I just became a Wizard too!\nYou can call me Cathy if you want.  Hehehehehe~",
@@ -112,7 +112,7 @@
     "FsegBg": {
         "en-US": "[Catherine]\nAlso only mages who have reached a job level of 40 or higher are qualified for these quests.\nLower level mages aren't experienced enough with magic to become Wizards...",
         "pt-BR": "[Catarina]\nAlém disso, somente os magos que alcançaram um nível de classe 40 ou maior são qualificados para essas missões.\nOs magos de nível inferior não têm experiência suficiente com magia para se tornarem Bruxos...",
-        "es-ES": "[Catherine]\nAdemás, solo los Magos que tengan un nivel de clase de 40 o más califican para estas misiones.\nLos Magos de nivel inferior no tienen suficiente experiencia con la magia para convertirse en Hechiceros…"
+        "es-ES": "[Catherine]\nAdemás, solo los Magos que tengan un nivel de clase de 40 o más califican para estas misiones.\nLos Magos de nivel inferior no tienen suficiente experiencia con la magia para convertirse en Hechiceros..."
     },
     "F8egBg": {
         "en-US": "[Catherine]\nWell, I will give you more information when you apply for the job.\nSo!  Do you want to apply now?",
@@ -132,7 +132,7 @@
     "GsegBg": {
         "en-US": "[Catherine]\nHey hey, weren't you listening to me?\nI told you that you need to be at least job level 40 to sign up for the quest...",
         "pt-BR": "[Catarina]\nEi, ei, você não estava me ouvindo?\nEu disse que você precisa ter um nível de classe 40, no mínimo, para se inscrever para a missão...",
-        "es-ES": "[Catherine]\nOye, oye, ¿no me estabas escuchando?\nDije que debes tener al menos un nivel de clase de 40 para esta misión…"
+        "es-ES": "[Catherine]\nOye, oye, ¿no me estabas escuchando?\nDije que debes tener al menos un nivel de clase de 40 para esta misión..."
     },
     "G8egBg": {
         "en-US": "[Catherine]\nNo need to hurry, go experience and ponder more about the world of magic.\nWhen I deem you're qualified, I will accept your application.",
@@ -142,12 +142,12 @@
     "HMegBg": {
         "en-US": "[Catherine]\nUmm...  You're well qualified, but you have some unused skill points left.\nYou'd better learn more skills before applying again.",
         "pt-BR": "[Catarina]\nHumm... Você está bem qualificado, mas não utilizou todos os seus pontos de habilidade.\nÉ melhor aprender mais habilidades antes de se inscrever novamente.",
-        "es-ES": "[Catherine]\nMmm…  Reúnes los requisitos, pero te quedan algunos puntos de habilidad sin usar.\nSerá mejor que aprendas más habilidades antes de volver a solicitarlo."
+        "es-ES": "[Catherine]\nMmm...  Reúnes los requisitos, pero te quedan algunos puntos de habilidad sin usar.\nSerá mejor que aprendas más habilidades antes de volver a solicitarlo."
     },
     "HcegBg": {
         "en-US": "[Catherine]\nVery well then, I accept your application.\nYour name is...{0}, isn't it?  I am not sure if I pronounced it correctly?",
         "pt-BR": "[Catarina]\nMuito bem. Então, eu aceito a sua inscrição.\nSeu nome é...{0}, não é? Eu o pronunciei corretamente?",
-        "es-ES": "[Catherine]\nMuy bien, acepto tu solicitud.\nTu nombre es… {0}, ¿verdad?  No sé si lo pronuncié correctamente."
+        "es-ES": "[Catherine]\nMuy bien, acepto tu solicitud.\nTu nombre es... {0}, ¿verdad?  No sé si lo pronuncié correctamente."
     },
     "HsegBg": {
         "en-US": "[Catherine]\nThe Wizard job change quest is divided into 3 parts.\n1st part, gathering magic items.\n2nd part, a written test.\nThe last part is a practical magic test.",
@@ -187,7 +187,7 @@
     "JcegBg": {
         "en-US": "[Catherine]\nThe items you must collect are...",
         "pt-BR": "[Catarina]\nOs itens que você precisa recolher são...",
-        "es-ES": "[Catherine]\nLos objetos que debes recolectar son…"
+        "es-ES": "[Catherine]\nLos objetos que debes recolectar son..."
     },
     "JsegBg": {
         "en-US": "^3355FFRed Gemstone^000000 10 each,\n^3355FFBlue Gemstone^000000 10 each,\n^3355FFYellow Gemstone^000000 10 each,",
@@ -202,7 +202,7 @@
     "KMegBg": {
         "en-US": "...is it too hard?  No, any would be Wizard should be able to at least get these items.",
         "pt-BR": "... se vai ser muito difícil? Não, qualquer candidato a Bruxo deve ser capaz de conseguir pelo menos esses itens.",
-        "es-ES": "… ¿es demasiado difícil?  No, cualquier aspirante a Hechicero debería poder conseguir estos objetos, al menos."
+        "es-ES": "... ¿es demasiado difícil?  No, cualquier aspirante a Hechicero debería poder conseguir estos objetos, al menos."
     },
     "KcegBg": {
         "en-US": "[Catherine]\nWell, good luck.\nI'll be happily waiting. ~Hehe.",
@@ -212,7 +212,7 @@
     "KsegBg": {
         "en-US": "[Catherine]\nOh, ok then, take your time.\nSince I'll always be here, accepting applications...*sigh*...anyways! ~Hehehehe.",
         "pt-BR": "[Catarina]\nAh, tudo bem, não se apresse.\nEu sempre estarei aqui, aceitando inscrições... *suspiro*...! Hehehehe.",
-        "es-ES": "[Catherine]\nOh, está bien, tómate tu tiempo.\nDespués de todo, yo seguiré siempre aquí… *Suspiro* …¡aceptando solicitudes! ~Je, je, je, je."
+        "es-ES": "[Catherine]\nOh, está bien, tómate tu tiempo.\nDespués de todo, yo seguiré siempre aquí... *Suspiro* ...¡aceptando solicitudes! ~Je, je, je, je."
     },
     "K8egBg": {
         "en-US": "[Wizard Guildsman]\nGeez, what a lame person.\nYou have no business here, hope you don't mind, now off you go!",
@@ -222,7 +222,7 @@
     "LMegBg": {
         "en-US": "[Catherine]\nLet me see, did you get all the items?\nThen let's check...",
         "pt-BR": "[Catarina]\nVejamos, você conseguiu todos os itens?\nEntão, vamos conferir...",
-        "es-ES": "[Catherine]\nA ver, ¿conseguiste todos los objetos?\nVeamos…"
+        "es-ES": "[Catherine]\nA ver, ¿conseguiste todos los objetos?\nVeamos..."
     },
     "LcegBg": {
         "en-US": "[Catherine]\nPerfect!  You got all the items.  I like!~\nThese items will be put to great use in our guild. ~Hehehee.",
@@ -237,12 +237,12 @@
     "L8egBg": {
         "en-US": "[Catherine]\nGo talk to the guy in the corner for the rest of the tests.\nIt might be a bit hard, so be careful, I wouldn't want you ending up like most of the Mages that come for these exams...poor souls indeed, may they rest in peace. ~Hehehe.",
         "pt-BR": "[Catarina]\nVá falar com aquele homem ali no canto para fazer os outros testes.\nEles podem ser difíceis, então tenha cuidado. Não quero que você termine como a maioria dos Magos que quer fazer esses exames... pobrezinhos, que descansem em paz. Hehehe.",
-        "es-ES": "[Catherine]\nHabla con el tipo del rincón para conocer las demás pruebas.\nEs un poco difícil, así que ten cuidado; no quiero que acabes como la mayoría de los Magos que hacen estas pruebas… pobres almas, en verdad, que en paz descansen. ~Je, je, je."
+        "es-ES": "[Catherine]\nHabla con el tipo del rincón para conocer las demás pruebas.\nEs un poco difícil, así que ten cuidado; no quiero que acabes como la mayoría de los Magos que hacen estas pruebas... pobres almas, en verdad, que en paz descansen. ~Je, je, je."
     },
     "MMegBg": {
         "en-US": "[Catherine]\nHey, what's this?  Umm...I don't think you have everything yet!",
         "pt-BR": "[Catarina]\nEi, o que é isso? Humm... acho que você ainda não tem tudo!",
-        "es-ES": "[Catherine]\nEh, ¿qué es esto?  Umm… ¡No parece que tuvieras todo!"
+        "es-ES": "[Catherine]\nEh, ¿qué es esto?  Umm... ¡No parece que tuvieras todo!"
     },
     "McegBg": {
         "en-US": "[Catherine]\nIt might've been tough coming all the way up here, what with this altitude and all, but go back and collect the items.\nLife's short enough as it is, so stop wasting your time and gather the items I told you before.",
@@ -252,17 +252,17 @@
     "MsegBg": {
         "en-US": "[Catherine]\n^3355FFRed Gemstone^000000 10 each,\n^3355FFBlue Gemstone^000000 10 each,\n^3355FFYellow Gemstone^000000 10 each,\nDon't forget this time, and bring all the items, ok?...",
         "pt-BR": "[Catarina]\n10 ^3355FFGemas Vermelhas^000000,\n10 ^3355FFGemas Azuis^000000,\n10 ^3355FFGemas Amarelas^000000,\nNão se esqueça dessa vez e traga todos os itens, ok...?",
-        "es-ES": "[Catherine]\n^3355FFGema roja:^000000 10 unidades.\n^3355FFGema azul:^000000 10 unidades.\n^3355FFGema amarilla:^000000 10 unidades.\nNo lo olvides esta vez y trae todos los objetos, ¿de acuerdo?…"
+        "es-ES": "[Catherine]\n^3355FFGema roja:^000000 10 unidades.\n^3355FFGema azul:^000000 10 unidades.\n^3355FFGema amarilla:^000000 10 unidades.\nNo lo olvides esta vez y trae todos los objetos, ¿de acuerdo?..."
     },
     "M8egBg": {
         "en-US": "[Catherine]\nDid you get all the items?\nLet's see...  Do you have the right ones?...",
         "pt-BR": "[Catarina]\nVocê conseguiu todos os itens?\nVejamos... Você tem os itens corretos...?",
-        "es-ES": "[Catherine]\n¿Conseguiste todos los objetos?\nVeamos…  ¿Está todo correcto?…"
+        "es-ES": "[Catherine]\n¿Conseguiste todos los objetos?\nVeamos...  ¿Está todo correcto?..."
     },
     "NMegBg": {
         "en-US": "[Catherine]\nPerfect!  Good job...I'm satisfied! ~Hehe\nOur guild greatly appreciates these items and will use them wisely.",
         "pt-BR": "[Catarina]\nPerfeito! Muito bem... estou satisfeita! Hehe.\nA nossa guilda agradece muito e usará esses itens com sabedoria.",
-        "es-ES": "[Catherine]\n¡Perfecto!  Buen trabajo… ¡Estoy conforme! ~Ja, ja\nNuestro gremio agradece enormemente estos objetos y los usará con gran sabiduría."
+        "es-ES": "[Catherine]\n¡Perfecto!  Buen trabajo... ¡Estoy conforme! ~Ja, ja\nNuestro gremio agradece enormemente estos objetos y los usará con gran sabiduría."
     },
     "NcegBg": {
         "en-US": "[Catherine]\nGood.  You've passed the first test now.\nBut you still have two more tests to go, so don't get too laid back, because it only gets harder from here. ~Hehehe",
@@ -272,7 +272,7 @@
     "NsegBg": {
         "en-US": "[Catherine]\nGo talk to that guy in the corner to take the rest of the tests.\nIt might be a bit hard, so be careful, I wouldn't want you ending up like most of the Mages that come for these exams...poor souls indeed, may they rest in peace. ~Hehehe.",
         "pt-BR": "[Catarina]\nVá falar com aquele homem ali no canto para fazer os outros testes.\nEles podem ser difíceis, então tenha cuidado. Não quero que você termine como a maioria dos Magos que quer fazer esses exames... pobrezinhos, que descansem em paz. Hehehe.",
-        "es-ES": "[Catherine]\nVe a hablar con el tipo del rincón para hacer el resto de las pruebas.\nEs un poco difícil, así que ten cuidado; no quiero que acabes como la mayoría de los Magos que hacen estas pruebas… pobres almas, en verdad, que en paz descansen. ~Je, je, je."
+        "es-ES": "[Catherine]\nVe a hablar con el tipo del rincón para hacer el resto de las pruebas.\nEs un poco difícil, así que ten cuidado; no quiero que acabes como la mayoría de los Magos que hacen estas pruebas... pobres almas, en verdad, que en paz descansen. ~Je, je, je."
     },
     "N8egBg": {
         "en-US": "[Catherine]\nEh, what's this?  I don't think you have everything?",
@@ -282,17 +282,17 @@
     "OMegBg": {
         "en-US": "[Catherine]\nI regret that you had to go through the trouble of coming all the way up here, but go get the right items again.\nStop wasting your time and get the items I initially requested.  For goodness sakes...This is the easiest part of the exam.",
         "pt-BR": "[Catarina]\nSinto muito que você tenha tido todo o trabalho de subir até aqui, mas vá buscar os itens corretos.\nPare de desperdiçar seu tempo e consiga os itens que eu pedi. Fala sério... essa é a parte mais fácil do exame.",
-        "es-ES": "[Catherine]\nLamento que te hayas tomado la molestia de venir hasta aquí, pero vuelve a buscar los objetos adecuados.\nDeja de perder el tiempo y consigue los objetos que te pedí.  Por todos los cielos… Esta es la parte más fácil de la prueba."
+        "es-ES": "[Catherine]\nLamento que te hayas tomado la molestia de venir hasta aquí, pero vuelve a buscar los objetos adecuados.\nDeja de perder el tiempo y consigue los objetos que te pedí.  Por todos los cielos... Esta es la parte más fácil de la prueba."
     },
     "OcegBg": {
         "en-US": "[Catherine]\n^3355FFCrystsal Blue^000000 5 each,\n^3355FFGreen Live^000000 5 each,\n^3355FFRed Blood^000000 5 each,\n^3355FFWind of Verdure^000000 5 each,\nDon't forget them this time and gather the correct ones, ok?  See you soon...",
         "pt-BR": "[Catarina]\n5 ^3355FFCristais Azuis^000000,\n5 ^3355FFVidas Verdejantes^000000,\n5 ^3355FFSangues Escarlates^000000,\n5 ^3355FFFrescores do Vento^000000.\nNão os esqueça dessa vez e recolha os itens corretos, ok? Até logo...",
-        "es-ES": "[Catherine]\n^3355FFAzul cristal^000000 5 unidades.\n^3355FFVida verde^000000 5 unidades.\n^3355FFSangre roja^000000 5 unidades.\n^3355FFViento de verdor^000000 5 unidades.\nNo los olvides esta vez y consigue los correctos, ¿de acuerdo?  Hasta pronto…"
+        "es-ES": "[Catherine]\n^3355FFAzul cristal^000000 5 unidades.\n^3355FFVida verde^000000 5 unidades.\n^3355FFSangre roja^000000 5 unidades.\n^3355FFViento de verdor^000000 5 unidades.\nNo los olvides esta vez y consigue los correctos, ¿de acuerdo?  Hasta pronto..."
     },
     "OsegBg": {
         "en-US": "[Catherine]\nWhat is it?  You didn't go talk to the guy in the corner?\nYou can't become a Wizard by just brining the items I requested, no no, that just wont do...",
         "pt-BR": "[Catarina]\nO que é? Você não foi falar com o homem no canto?\nVocê não pode se tornar um Bruxo só porque trouxe os itens que eu pedi. Não, não. Não vai dar...",
-        "es-ES": "[Catherine]\n¿Qué sucede?  ¿No fuiste a hablar con el tipo del rincón?\nPara unirte a los Hechiceros, no alcanza con traer los objetos que te pedí, no, no, eso solo no es suficiente…"
+        "es-ES": "[Catherine]\n¿Qué sucede?  ¿No fuiste a hablar con el tipo del rincón?\nPara unirte a los Hechiceros, no alcanza con traer los objetos que te pedí, no, no, eso solo no es suficiente..."
     },
     "O8egBg": {
         "en-US": "[Catherine]\nYou can only prove yourself Wizard material after you take the two remaining tests.\nI'll be waiting, so go now.",
@@ -302,12 +302,12 @@
     "PMegBg": {
         "en-US": "[Catherine]\n*sigh*...Poor thing, what a pity.\nHow can you think of trying to become a Wizard when you can't even answer those simple questions?",
         "pt-BR": "[Catarina]\n*suspiro*... Pobrezinho, que pena.\nComo você pode sequer pensar em se tornar um Bruxo se não consegue nem responder essas perguntas simples?",
-        "es-ES": "[Catherine]\n*Suspiro* …Pobre, qué pena.\n¿Cómo se te ocurre intentar unirte a los Hechiceros si ni siquiera puedes responder esas sencillas preguntas?"
+        "es-ES": "[Catherine]\n*Suspiro* ...Pobre, qué pena.\n¿Cómo se te ocurre intentar unirte a los Hechiceros si ni siquiera puedes responder esas sencillas preguntas?"
     },
     "PcegBg": {
         "en-US": "[Catherine]\nLet's see...  Should I give you some hints as your senior?\nBut I'm a bit thirsty, so give me 1 Apple Juice, and we got a deal. ~Hehehe",
         "pt-BR": "[Catarina]\nVejamos... Já que sou mais experiente, posso lhe dar algumas dicas?\nEstou com sede. Me dê 1 Suco de Maçã e temos um acordo. Hehehe",
-        "es-ES": "[Catherine]\nVeamos…  ¿Debería darte algunas pistas ya que soy sénior?\nPero tengo un poco de sed, así que dame 1 Jugo de manzana y trato hecho. Je, je, je"
+        "es-ES": "[Catherine]\nVeamos...  ¿Debería darte algunas pistas ya que soy sénior?\nPero tengo un poco de sed, así que dame 1 Jugo de manzana y trato hecho. Je, je, je"
     },
     "PsegBg": {
         "en-US": "Give me some hints, please.",
@@ -322,7 +322,7 @@
     "QMegBg": {
         "en-US": "[Catherine]\nYummers, Apple Juice is the best...\nGulp gulp gulp...  Haaaaaah... ~Hehe",
         "pt-BR": "[Catarina]\nHummm, adoro Suco de Maçã...\nGlup, glup, glup... Aaaaaah... Hehe.",
-        "es-ES": "[Catherine]\nQué rico, el Jugo de manzana es lo mejor…\nGlu, glu, glu…  Aaaaaaah… Je, je."
+        "es-ES": "[Catherine]\nQué rico, el Jugo de manzana es lo mejor...\nGlu, glu, glu...  Aaaaaaah... Je, je."
     },
     "QcegBg": {
         "en-US": "[Catherine]\nWell then, I'll give you a hint for the second test.",
@@ -332,27 +332,27 @@
     "QsegBg": {
         "en-US": "[Catherine]\nHe asks three types of questions.\nQuestions about Magic, Monsters...\nand Magicians...also known as Mages.",
         "pt-BR": "[Catarina]\nEle fará três tipos de perguntas.\nPerguntas sobre Magia, Monstros...\ne Magos...",
-        "es-ES": "[Catherine]\nTe hará tres tipos de preguntas.\nPreguntas sobre magia, monstruos…\ne ilusionistas… también conocidos como Magos."
+        "es-ES": "[Catherine]\nTe hará tres tipos de preguntas.\nPreguntas sobre magia, monstruos...\ne ilusionistas... también conocidos como Magos."
     },
     "Q8egBg": {
         "en-US": "[Catherine]\nIt's up to him to decide which questions to ask.\n*sigh*...He'd look much better if he cut his hair and shaved...\nHe always looks so grungy because he doesn't take care of himself...*sigh*...pity, he could be a regular lady killer. ~tehehehe",
         "pt-BR": "[Catarina]\nÉ ele quem decide quais perguntas serão feitas.\n*suspiro*... Ele ficaria bem mais bonito se cortasse o cabelo e fizesse a barba...\nSempre parece maltrapilho porque não se cuida... *suspiro*... é uma pena. Ele faria sucesso entre as mulheres. Hehehehe.",
-        "es-ES": "[Catherine]\nÉl decide qué preguntas hacer.\n*Suspiro*… Sería mucho más atractivo si se cortara el pelo y se afeitara…\nSiempre luce como sucio porque no cuida su apariencia… *Suspiro* …lástima, podría ser un conquistador si se lo propusiera. ~Ji, ji, ji, ji"
+        "es-ES": "[Catherine]\nÉl decide qué preguntas hacer.\n*Suspiro*... Sería mucho más atractivo si se cortara el pelo y se afeitara...\nSiempre luce como sucio porque no cuida su apariencia... *Suspiro* ...lástima, podría ser un conquistador si se lo propusiera. ~Ji, ji, ji, ji"
     },
     "RMegBg": {
         "en-US": "[Catherine]\nAnyways, as for the questions about magic...\nThey're usually about the spells you've learned.",
         "pt-BR": "[Catarina]\nBom, quanto às perguntas sobre magia...\nElas costumam ser sobre os feitiços que você aprendeu.",
-        "es-ES": "[Catherine]\nEn fin, en cuanto a las preguntas sobre la magia…\nSuelen ser sobre los hechizos que has aprendido."
+        "es-ES": "[Catherine]\nEn fin, en cuanto a las preguntas sobre la magia...\nSuelen ser sobre los hechizos que has aprendido."
     },
     "RcegBg": {
         "en-US": "[Catherine]\nIf it's something you haven't learned or haven't experienced, or anything like that...\nI heard there's a nice place you can refer to that's very well organized.",
         "pt-BR": "[Catarina]\nSe for algo que você ainda não aprendeu ou não experimentou, ou algo parecido...\nOuvi falar que há um lugar muito bem organizado que você pode consultar.",
-        "es-ES": "[Catherine]\nSi es algo que aún no aprendiste ni experimentaste ni nada…\nDicen que hay un sitio al que puedes ir que está muy bien organizado."
+        "es-ES": "[Catherine]\nSi es algo que aún no aprendiste ni experimentaste ni nada...\nDicen que hay un sitio al que puedes ir que está muy bien organizado."
     },
     "RsegBg": {
         "en-US": "[Catherine]\nYou just have to cast the spell, you know...the one that looks like a big bold *e* symbol.\nThe magic words are... iro.ragnarokonline.com ~Or so they say!\nStrange spell, don't you think?  I don't know how to make it work myself.",
         "pt-BR": "[Catarina]\nVocê só tem que lançar o feitiço... aquele que se parece com uma grande letra *E* em negrito.\nAs palavras mágicas são... ro.gnjoylatam.com. Pelo menos é o que dizem!\nFeitiço estranho, não acha? Nem eu sei como fazer isso funcionar.",
-        "es-ES": "[Catherine]\nSolo tienes que lanzar ese hechizo, ya sabes… el que parece un gran símbolo *e* en negrita.\nLas palabras mágicas son… ro.gnjoylatam.com ~¡O eso dicen!\nEs un hechizo extraño, ¿no crees?  Ni yo sé cómo hacerlo funcionar."
+        "es-ES": "[Catherine]\nSolo tienes que lanzar ese hechizo, ya sabes... el que parece un gran símbolo *e* en negrita.\nLas palabras mágicas son... ro.gnjoylatam.com ~¡O eso dicen!\nEs un hechizo extraño, ¿no crees?  Ni yo sé cómo hacerlo funcionar."
     },
     "R8egBg": {
         "en-US": "[Catherine]\nAnd about the monster questions.\nFighting them yourself and learning is the best way to go about that.",
@@ -367,7 +367,7 @@
     "ScegBg": {
         "en-US": "[Catherine]\nLast, but not least, questions about Mages.\nThis is something that most others cannot teach you...\nBecause you are a Mage.",
         "pt-BR": "[Catarina]\nPor último, as perguntas sobre os Magos.\nIsso é algo com o qual as outras pessoas não podem ajudar...\nPorque você é um Mago.",
-        "es-ES": "[Catherine]\nPor último, pero no menos importante, las preguntas sobre los Magos.\nEsto es algo que la mayoría de las personas no pueden enseñarte…\nPorque tú eres del gremio de los Magos."
+        "es-ES": "[Catherine]\nPor último, pero no menos importante, las preguntas sobre los Magos.\nEsto es algo que la mayoría de las personas no pueden enseñarte...\nPorque tú eres del gremio de los Magos."
     },
     "SsegBg": {
         "en-US": "[Catherine]\nIt's hard to know about others when you don't even know about yourself, right?\nSo if you get one of these questions, think about it carefully then answer.",
@@ -377,7 +377,7 @@
     "S8egBg": {
         "en-US": "[Catherine]\nLike I said, I'll think about it if you give me 1 Apple Juice.\nIf not...  Well, you can think about it on your own.  Hey I don't make the rules here i just follow em!  Can't argue with this one though. ~tehehehe",
         "pt-BR": "[Catarina]\nComo eu lhe falei, vou pensar no assunto se você me der 1 Suco de Maçã.\nSe não... Aí, você vai ter que pensar sozinho. Ei, não sou eu que faço as regras! Mas não posso discordar disso. Hehehehe.",
-        "es-ES": "[Catherine]\nComo dije, lo pensaré si me das 1 Zumo de manzana.\nDe lo contrario…  Bueno, puedes pensarlo por tu cuenta.  Yo no hago las reglas aquí, solo las cumplo.  Aunque no puedo discutir esta. ~Ji, ji, ji, ji"
+        "es-ES": "[Catherine]\nComo dije, lo pensaré si me das 1 Zumo de manzana.\nDe lo contrario...  Bueno, puedes pensarlo por tu cuenta.  Yo no hago las reglas aquí, solo las cumplo.  Aunque no puedo discutir esta. ~Ji, ji, ji, ji"
     },
     "TMegBg": {
         "en-US": "[Catherine]\nYeah, you get the most satisfaction when you solve things on your own.\nGo finish the rest of the tests with that spirit!",
@@ -387,12 +387,12 @@
     "TcegBg": {
         "en-US": "[Catherine]\nWell then, see you soon! *crosses fingers* dont end up like the others before you!  May God rest thier souls...huh?  Oh nothing! ~Hehehehe\nHurry, he's waiting for you!",
         "pt-BR": "[Catarina]\nBem, então, vejo você em breve! *cruzando os dedos* Não termine como os que vieram antes de você! Que a alma deles descanse em paz... hã? Ah, nada! Hehehehe.\nDepressa! Ele está esperando por você!",
-        "es-ES": "[Catherine]\nBueno, ¡nos vemos pronto! *Cruza los dedos* ¡No acabes como los anteriores!  Que estén descansando en paz… ¿Qué?  ¡Oh, nada! ~Je, je, je, je\n¡Date prisa, te está esperando!"
+        "es-ES": "[Catherine]\nBueno, ¡nos vemos pronto! *Cruza los dedos* ¡No acabes como los anteriores!  Que estén descansando en paz... ¿Qué?  ¡Oh, nada! ~Je, je, je, je\n¡Date prisa, te está esperando!"
     },
     "TsegBg": {
         "en-US": "[Catherine]\nTehehehe~ I was listening all along.\nWell done in answering all those questions.  I want to give something, like a present...",
         "pt-BR": "[Catarina]\nHehehehe... Eu ouvi tudo.\nVocê respondeu muito bem todas as perguntas. Eu quero dar algo a você, um presente...",
-        "es-ES": "[Catherine]\nJi, ji, ji, ji. Lo escuché todo.\nHiciste un buen trabajo al responder todas esas preguntas. \nQuiero darte algo, como un regalo…"
+        "es-ES": "[Catherine]\nJi, ji, ji, ji. Lo escuché todo.\nHiciste un buen trabajo al responder todas esas preguntas. \nQuiero darte algo, como un regalo..."
     },
     "T8egBg": {
         "en-US": "[Catherine]\nYou still have one more test to go, right?\nJust a bit more and you will be qualified to be a Wizard, so I'll give you the present then. ~Hehe",
@@ -402,12 +402,12 @@
     "UMegBg": {
         "en-US": "[Catherine]\nSee ya, well...hopefully!\nHe's waiting for you!",
         "pt-BR": "[Catarina]\nAté mais... espero!\nEle está esperando por você!",
-        "es-ES": "[Catherine]\nNos vemos… Bueno, ¡eso espero!\n¡Te está esperando!"
+        "es-ES": "[Catherine]\nNos vemos... Bueno, ¡eso espero!\n¡Te está esperando!"
     },
     "UcegBg": {
         "en-US": "[Catherine]\nEh, did you leave in the middle of the test?\nYou...*sigh*...I didn't think you would do such a dishonorable thing.",
         "pt-BR": "[Catarina]\nEr, você abandonou o teste?\nVocê... *suspiro*... eu não esperava que você fosse fazer algo tão vergonhoso.",
-        "es-ES": "[Catherine]\nEh, ¿te fuiste a mitad de la prueba?\nTú… *Suspiro*… Nunca pensé que harías algo tan deshonroso."
+        "es-ES": "[Catherine]\nEh, ¿te fuiste a mitad de la prueba?\nTú... *Suspiro*... Nunca pensé que harías algo tan deshonroso."
     },
     "UsegBg": {
         "en-US": "[Catherine]\nGranted you're a mage, but how could a guy be so weak?!\nWell, at least your alive still.  Go back and try harder this time. ~tehehehe",
@@ -427,7 +427,7 @@
     "VcegBg": {
         "en-US": "[Catherine]\nSo, try harder this time...\nHe's waiting!",
         "pt-BR": "[Catarina]\nEntão, tente com mais vontade dessa vez...\nEle está esperando!",
-        "es-ES": "[Catherine]\nAsí que esfuérzate más esta vez…\n¡Te está esperando!"
+        "es-ES": "[Catherine]\nAsí que esfuérzate más esta vez...\n¡Te está esperando!"
     },
     "VsegBg": {
         "en-US": "[Catherine]\nHey, what don't you get it?\nI said you must be at least job level 40 to change your job, got it?",
@@ -447,12 +447,12 @@
     "WcegBg": {
         "en-US": "Please get off of that creature you're riding on\nthen come to find me again...",
         "pt-BR": "[Catarina]\nUaaaaaaaaaaaaau... você terminou todos os testes?!\nParabéns, parabéns, parabéns! Iupiiiiiiiiii! Hehehehehehe.",
-        "es-ES": "Bájate de la criatura que estás montando\ny luego vuelve a buscarme…"
+        "es-ES": "Bájate de la criatura que estás montando\ny luego vuelve a buscarme..."
     },
     "WsegBg": {
         "en-US": "[Catherine]\nWooooooooooooow...you finished all the tests?!\nCongratulations, congrats, congrats!  Wooopiiieeeee!  ~Hehehehehehe",
         "pt-BR": "[Catarina]\nBom, não há mais o que esperar. Parabéns. Eu nomeio você Bruxo.",
-        "es-ES": "[Catherine]\nGuaaaaaaaaaaaau… ¡¿Ya terminaste todas las pruebas?!\n¡Felicitaciones, felicitaciones, felicitaciones!  ¡Iuuuujuuuuuuuuu! ~Je, je, je, je, je, je…"
+        "es-ES": "[Catherine]\nGuaaaaaaaaaaaau... ¡¿Ya terminaste todas las pruebas?!\n¡Felicitaciones, felicitaciones, felicitaciones!  ¡Iuuuujuuuuuuuuu! ~Je, je, je, je, je, je..."
     },
     "W8egBg": {
         "en-US": "[Catherine]\nWell, no need to wait, I congratulate you.  I hearby deem you Wizard.",
@@ -472,12 +472,12 @@
     "XsegBg": {
         "en-US": "[Catherine]\nGo join parties with others and keep training.\nAnd...oh, wait, I prepared a present for you, one sec.",
         "pt-BR": "[Catarina]\nJunte-se a algum grupo e continue praticando.\nE... ah, espere, preparei um presente para você, um segundo.",
-        "es-ES": "[Catherine]\nÚnete a otros grupos y sigue entrenando.\nY… oh, espera, tengo un regalo para ti, un segundo."
+        "es-ES": "[Catherine]\nÚnete a otros grupos y sigue entrenando.\nY... oh, espera, tengo un regalo para ti, un segundo."
     },
     "X8egBg": {
         "en-US": "[Catherine]\nrummage rummage...\nshuffle shuffle...",
         "pt-BR": "[Catarina]\nProcura procura...\nMexe mexe...",
-        "es-ES": "[Catherine]\n*Hurga, hurga…*\n*Revuelve, revuelve…*"
+        "es-ES": "[Catherine]\n*Hurga, hurga...*\n*Revuelve, revuelve...*"
     },
     "YMegBg": {
         "en-US": "[Catherine]\nHere you go.  I hope you'll make good use of it when you need it. ~tehehe\nI gave them to you as a present, so don't go out and sell it.  Use it for yourself, ok?",
@@ -487,7 +487,7 @@
     "YcegBg": {
         "en-US": "[Catherine]\nWell, then...*sight*...live a wonderful life as a Wizard, become the strongest out there!",
         "pt-BR": "[Catarina]\nMuito bem... *suspiro*... tenha uma boa vida de Bruxo e se torne o mais forte de todos!",
-        "es-ES": "[Catherine]\nBueno, pues… *Suspiro* … vive una vida maravillosa de hechicerías, ¡y supéralos a todos!"
+        "es-ES": "[Catherine]\nBueno, pues... *Suspiro* ... vive una vida maravillosa de hechicerías, ¡y supéralos a todos!"
     },
     "YsegBg": {
         "en-US": "Gloomy Wizard",
@@ -517,17 +517,17 @@
     "Z8egBg": {
         "en-US": "[Raulel]\nIf you don't want that, go hit on a guy or something! ~Hahahaha\nIf you don't pay attention to yourself, you'll be engulfed by magic one day...",
         "pt-BR": "[Lauro]\nSe não quiser isso, vá brigar com alguém ou algo parecido! Hahahaha.\nSe não prestar atenção, você será consumido pela magia um dia...",
-        "es-ES": "[Raulel]\nSi no quieres eso, ¡vete a seducir a un tipo o algo! ~Ja, ja, ja, ja\nSi no prestas atención a lo que haces, un día te engullirá la magia…"
+        "es-ES": "[Raulel]\nSi no quieres eso, ¡vete a seducir a un tipo o algo! ~Ja, ja, ja, ja\nSi no prestas atención a lo que haces, un día te engullirá la magia..."
     },
     "aMegBg": {
         "en-US": "[Raulel]\nGo away, one who works for the Church!\nMagic repels Holy power, jeez...your messing up my aura.",
         "pt-BR": "[Lauro]\nVá embora, pessoa que trabalha para a Igreja!\nA magia repele o poder sagrado... afe, você está bagunçando a minha aura.",
-        "es-ES": "[Raulel]\n¡Vete, tú que trabajas para la Iglesia!\nLa magia repele el poder sagrado. Cielos… estás arruinando mi aura."
+        "es-ES": "[Raulel]\n¡Vete, tú que trabajas para la Iglesia!\nLa magia repele el poder sagrado. Cielos... estás arruinando mi aura."
     },
     "acegBg": {
         "en-US": "[Raulel]\nAnd plus, *cough* *cough* my health isn't all that good right now either...\nDon't come any closer, just leave!",
         "pt-BR": "[Lauro]\nE, além disso, *cof* *cof*, a minha saúde não está aquelas coisas...\nNem chegue perto, apenas vá embora!",
-        "es-ES": "[Raulel]\nY además *Tos* *Tos* mi salud deja mucho que desear por el momento…\n¡No te acerques más, vete!"
+        "es-ES": "[Raulel]\nY además *Tos* *Tos* mi salud deja mucho que desear por el momento...\n¡No te acerques más, vete!"
     },
     "asegBg": {
         "en-US": "[Raulel]\nWhy did a little one like  you come here?!\nGet lost! ~Hahahahaha",
@@ -537,12 +537,12 @@
     "a8egBg": {
         "en-US": "[Raulel]\n*sneeze* *cough* Oooowww...my entire body is in pain.  I feel like I'm trapped in a tub of ice water!",
         "pt-BR": "[Lauro]\n*atchim* *cof* Aaaiii... o meu corpo está todo dolorido. Sinto que estou cercado de água congelada!",
-        "es-ES": "[Raulel]\n*Estornudo* *Tos* Aaauuuch… me duele todo el cuerpo.  ¡Me siento como si estuviera atrapado en una bañera con agua helada!"
+        "es-ES": "[Raulel]\n*Estornudo* *Tos* Aaauuuch... me duele todo el cuerpo.  ¡Me siento como si estuviera atrapado en una bañera con agua helada!"
     },
     "bMegBg": {
         "en-US": "[Raulel]\nWhat do you want?  Jeez...just get lost, won't you?",
         "pt-BR": "[Lauro]\nO que você quer? Afe... suma daqui!",
-        "es-ES": "[Raulel]\n¿Qué quieres?  Cielos… piérdete, ¿quieres?"
+        "es-ES": "[Raulel]\n¿Qué quieres?  Cielos... piérdete, ¿quieres?"
     },
     "bcegBg": {
         "en-US": "[Raulel]\n*cough* *cough* *sneeze*  I don't know who you are and what you do, but I don't have any business with you.",
@@ -562,7 +562,7 @@
     "cMegBg": {
         "en-US": "[Raulel]\n*sneeze*  If you just lived as you were, all you'd have to do was hunt a little and live the easy life...",
         "pt-BR": "[Lauro]\n*atchim* Se continuar do jeito que está, tudo o que precisará fazer será caçar um pouco e viver uma vida fácil...",
-        "es-ES": "[Raulel]\n*Estornudo* Si vivieras como hasta ahora, todo lo que tendrías que hacer sería cazar y vivir una vida fácil…"
+        "es-ES": "[Raulel]\n*Estornudo* Si vivieras como hasta ahora, todo lo que tendrías que hacer sería cazar y vivir una vida fácil..."
     },
     "ccegBg": {
         "en-US": "[Raulel]\n*Cough* *cough*  Let's see how well you live as a Wizard. ~Hahahahhaha",
@@ -572,7 +572,7 @@
     "csegBg": {
         "en-US": "[Raulel]\n*Cough* *cough*...You must've passed the first test.\nOk, I'm the Wizard in charge of your testing from now on.  My name is 'Raulel Asparagus'.",
         "pt-BR": "[Lauro]\n*Cof* *cof*... Você deve ter passado do primeiro teste.\nOk, eu serei o Bruxo encarregado do seu teste de agora em diante. Meu nome é 'Raulel Asparagus'.",
-        "es-ES": "[Raulel]\n*Tos* *Tos*… Debes de haber pasado la primera prueba.\nDe acuerdo, a partir de ahora, yo seré el Hechicero encargado de tus pruebas.  Me llamo Raulel Espárrago."
+        "es-ES": "[Raulel]\n*Tos* *Tos*... Debes de haber pasado la primera prueba.\nDe acuerdo, a partir de ahora, yo seré el Hechicero encargado de tus pruebas.  Me llamo Raulel Espárrago."
     },
     "c8egBg": {
         "en-US": "[Raulel]\n*sneeze*  It's not too late yet, wouldn't you rather just go back to town and enjoy the peaceful life?",
@@ -582,7 +582,7 @@
     "dMegBg": {
         "en-US": "[Raulel]\nHahahaha~  You don't know how dangerous it is...to deal with Greater Magic.",
         "pt-BR": "[Lauro]\nHahahaha... Você não sabe como é perigoso... mexer com a Grande Magia.",
-        "es-ES": "[Raulel]\nJa, ja, ja, ja~ No sabes lo peligroso que es… usar la Magia superior."
+        "es-ES": "[Raulel]\nJa, ja, ja, ja~ No sabes lo peligroso que es... usar la Magia superior."
     },
     "dcegBg": {
         "en-US": "I want to live as a normal Mage.",
@@ -597,7 +597,7 @@
     "d8egBg": {
         "en-US": "[Raulel]\nHahaha~ *sneeze*  Good choice...*cough* *cough*~\nBest not to even dream about life as a Wizard.  Graa...Greaa...*sneeze*  Greater Magic wasn't meant for humans to use!",
         "pt-BR": "[Lauro]\nHahaha... *atchim* Boa escolha... *cof* *cof*\nÉ melhor nem sonhar com a vida de um Bruxo. Óti... Ótiiim... *atchim* A Grande Magia não foi feita para os humanos!",
-        "es-ES": "[Raulel]\nJa, ja, ja. *Estornudo* Buena elección…*Tos* *Tos*\nMejor ni soñar con la vida de Hechicero.  La ma… La maaa… *Estornudo* ¡La Magia superior no deberían usarla los humanos!"
+        "es-ES": "[Raulel]\nJa, ja, ja. *Estornudo* Buena elección...*Tos* *Tos*\nMejor ni soñar con la vida de Hechicero.  La ma... La maaa... *Estornudo* ¡La Magia superior no deberían usarla los humanos!"
     },
     "eMegBg": {
         "en-US": "[Raulel]\nLeave the top of this tower quietly and don't ever look back.\nJust live peacefully with the powers that you have right now.",
@@ -1332,12 +1332,12 @@
     "CsigBg": {
         "en-US": "[Raulel]\nHmmm...Good job, you finished answering all the questions, go buy yourself some potions or something, thats IF you have the Zeny.  Hahahahahahahah~",
         "pt-BR": "[Lauro]\nHummm... Muito bem. Você terminou de responder todas as perguntas. Vá comprar algumas poções ou algo do gênero. Quer dizer, se você tiver Zenys suficientes. Hahahahahahahaha.",
-        "es-ES": "[Raulel]\nMmm… Buen trabajo, respondiste todas las preguntas. Ve a comprarte unas pociones o algo, si es que tienes el zeny para hacerlo.  Ja, ja, ja, ja, ja, ja, ja, ja~"
+        "es-ES": "[Raulel]\nMmm... Buen trabajo, respondiste todas las preguntas. Ve a comprarte unas pociones o algo, si es que tienes el zeny para hacerlo.  Ja, ja, ja, ja, ja, ja, ja, ja~"
     },
     "C8igBg": {
         "en-US": "[Raulel]\nYour score is... {0} points!",
         "pt-BR": "[Lauro]\nSeu resultado é... {0} pontos!",
-        "es-ES": "[Raulel]\nTu puntaje es de… ¡{0}puntos!"
+        "es-ES": "[Raulel]\nTu puntaje es de... ¡{0}puntos!"
     },
     "DMigBg": {
         "en-US": "*cough* *Cough*  Well done, you passed the second test.",
@@ -1347,7 +1347,7 @@
     "DcigBg": {
         "en-US": "[Raulel]\nHahahaha~  Don't relax just yet, there's still the third test.\n*sneeze*  I advise you to rest a bit while the final test is prepared...Hahahahah~",
         "pt-BR": "[Lauro]\nHahahaha... Mas não relaxe ainda. Você precisa fazer o terceiro teste.\n*atchim* Aconselho que descanse um pouco enquanto o teste final está sendo preparado... hahahahaha.",
-        "es-ES": "[Raulel]\nJa, ja, ja, ja~ No te relajes todavía, aún queda la tercera prueba.\n*Estornudo* Te aconsejo que descanses un poco mientras se prepara la prueba final… Ja, ja, ja, ja, ja~"
+        "es-ES": "[Raulel]\nJa, ja, ja, ja~ No te relajes todavía, aún queda la tercera prueba.\n*Estornudo* Te aconsejo que descanses un poco mientras se prepara la prueba final... Ja, ja, ja, ja, ja~"
     },
     "DsigBg": {
         "en-US": "Hahahaha~  I'll let you slide by since you only missed one problem.  You passed the second test.",
@@ -1357,22 +1357,22 @@
     "D8igBg": {
         "en-US": "You failed.  I will let you come back again...after you've learned more relating to the type of questions I've asked you.",
         "pt-BR": "Você falhou. Eu deixo você voltar... depois de aprender mais sobre os assuntos das perguntas que fiz.",
-        "es-ES": "No pasaste.  Te dejaré intentar otra vez… después de que hayas aprendido más cosas relacionadas con el tipo de preguntas que te hice."
+        "es-ES": "No pasaste.  Te dejaré intentar otra vez... después de que hayas aprendido más cosas relacionadas con el tipo de preguntas que te hice."
     },
     "EMigBg": {
         "en-US": "[Raulel]\nTisk...not enough, not enough!  Did you really think you could become a Wizard with the little bit of knowledge you have?\nGet lost!  If you were a Wizard right now, the monsters I deal with would eat you up in no time!",
         "pt-BR": "[Lauro]\nTsc... não é o suficiente, não é o suficiente! Você acha mesmo que poderia se tornar um Bruxo com o pouco conhecimento que possui?\nSuma daqui! Se fosse um Bruxo, os monstros que eu enfrento devorariam você vivo bem rápido!",
-        "es-ES": "[Raulel]\nTsc… ¡no es suficiente, no es suficiente!  ¿En serio creíste que podías unirte a los Hechiceros con los pocos conocimientos que tienes?\n¡Sal de aquí!  Si fueras Hechicero, ¡los monstruos con los que me encuentro te devorarían en un santiamén!"
+        "es-ES": "[Raulel]\nTsc... ¡no es suficiente, no es suficiente!  ¿En serio creíste que podías unirte a los Hechiceros con los pocos conocimientos que tienes?\n¡Sal de aquí!  Si fueras Hechicero, ¡los monstruos con los que me encuentro te devorarían en un santiamén!"
     },
     "EcigBg": {
         "en-US": "[Raulel]\nHahahaha~  Are you that desperate?  *sneeze* What a pain in the arse...",
         "pt-BR": "[Lauro]\nHahahaha... Você está tão desesperado assim? *atchim* Que encheção...",
-        "es-ES": "[Raulel]\nJa, ja, ja, ja~ ¿Es tanta tu desesperación? *Estornudo* Qué pesadilla eres…"
+        "es-ES": "[Raulel]\nJa, ja, ja, ja~ ¿Es tanta tu desesperación? *Estornudo* Qué pesadilla eres..."
     },
     "EsigBg": {
         "en-US": "[Raulel]\nSince you don't want to settle for a stable and peaceful life, I'll give you another chance...",
         "pt-BR": "[Lauro]\nJá que você não quer se conformar com uma vida estável e tranquila, vou dar outra chance...",
-        "es-ES": "[Raulel]\nYa que no quieres conformarte con una vida estable y tranquila, te daré otra oportunidad…"
+        "es-ES": "[Raulel]\nYa que no quieres conformarte con una vida estable y tranquila, te daré otra oportunidad..."
     },
     "E8igBg": {
         "en-US": "[Raulel]\nIf you miss one single question, then just give up.  You wouldn't have any talent in being a Wizard! ~Hahahahaha",
@@ -1387,7 +1387,7 @@
     "FcigBg": {
         "en-US": "[Raulel]\nHahahaha~  Surprising, comming from you, that's a very wise choice...*cough* *cough*\nIf i were you, i would never, ever dream of becoming a Wizard again.  Gre...Greaa...*sneeze* Greater Magic wasn't meant for humans to use.",
         "pt-BR": "[Lauro]\nHahahaha... Que surpresa. Vindo de você, é uma escolha sábia... *cof* *cof*\nSe eu fosse você, nunca mais sonharia em me tornar um Bruxo. Ótim... Ótiim... *atchim* A Grande Magia não foi feita para os humanos.",
-        "es-ES": "[Raulel]\nJa, ja, ja, ja~ Me sorprendes. Viniendo de ti, esa es una elección muy sabia…*Tos* *Tos*\nEn tu lugar, yo nunca jamás volvería a soñar con convertirme en Hechicero.  Lama… La maaa… *Estornudo* La Magia superior no deberían usarla los humanos."
+        "es-ES": "[Raulel]\nJa, ja, ja, ja~ Me sorprendes. Viniendo de ti, esa es una elección muy sabia...*Tos* *Tos*\nEn tu lugar, yo nunca jamás volvería a soñar con convertirme en Hechicero.  Lama... La maaa... *Estornudo* La Magia superior no deberían usarla los humanos."
     },
     "FsigBg": {
         "en-US": "[Raulel]\nJust leave the top of this tower quietly and never look back.\nLive peacefully with the powers that you have right now.",
@@ -1402,7 +1402,7 @@
     "GMigBg": {
         "en-US": "[Raulel]\nThen let's begin the test!\nIf you don't answer all of them correctly, you fail...  ~Hahahahahha",
         "pt-BR": "[Lauro]\nEntão, vamos começar o teste!\nSe não responder tudo corretamente, você não será aprovado... Hahahahahha.",
-        "es-ES": "[Raulel]\nDe acuerdo, ¡comencemos la prueba!\nSi no respondes todas correctamente, no pasarás… ~Ja, ja, ja, ja, ja"
+        "es-ES": "[Raulel]\nDe acuerdo, ¡comencemos la prueba!\nSi no respondes todas correctamente, no pasarás... ~Ja, ja, ja, ja, ja"
     },
     "GcigBg": {
         "en-US": "[Raulel]\nI'll give you 10 questions so give me the correct answers.\nIf you get something wrong, I won't tell you what it is!",
@@ -1457,17 +1457,17 @@
     "I8igBg": {
         "en-US": "[Raulel]\nGood job, you finished answered all the questions... Go buy yourself some potions or something if you have the Zeny. Haha...",
         "pt-BR": "[Lauro]\nBom trabalho, você terminou de responder todas as perguntas... Vá comprar algumas poções ou algo assim se você tiver o Zeny. Haha...",
-        "es-ES": "[Raulel]\nBuen trabajo, respondiste todas las preguntas… Ve a comprarte unas pociones o algo, si es que tienes el zeny para hacerlo. Ja, ja…"
+        "es-ES": "[Raulel]\nBuen trabajo, respondiste todas las preguntas... Ve a comprarte unas pociones o algo, si es que tienes el zeny para hacerlo. Ja, ja..."
     },
     "JMigBg": {
         "en-US": "[Raulel]\nYour score is...  {0}points.....",
         "pt-BR": "[Lauro]\nSua pontuação é... {0}pontos.....",
-        "es-ES": "[Raulel]\nTu puntaje es de… {0}puntos…"
+        "es-ES": "[Raulel]\nTu puntaje es de... {0}puntos..."
     },
     "JcigBg": {
         "en-US": "Hahahahahahah~  Well done, you passed the second test.\nIt wasn't done in one try like mine was, but I'll let you slide...",
         "pt-BR": "Hahahahahahah... Muito bem, você passou no segundo teste.\nNão foi na primeira tentativa, como aconteceu comigo, mas vou deixar passar...",
-        "es-ES": "Ja, ja, ja, ja, ja, ja~ Bien hecho, pasaste la segunda prueba.\nNo lo lograste a la primera, como yo, pero te lo dejaré pasar…"
+        "es-ES": "Ja, ja, ja, ja, ja, ja~ Bien hecho, pasaste la segunda prueba.\nNo lo lograste a la primera, como yo, pero te lo dejaré pasar..."
     },
     "JsigBg": {
         "en-US": "[Raulel]\n*sneeze*  Don't relax just yet, there's still the matter of the third and final test.\nI advise you to rest a bit while the final test is prepared.  Your gonna need it.  Hahahahaha~",
@@ -1477,12 +1477,12 @@
     "J8igBg": {
         "en-US": "Hahaha~  Since you only missed one problem, you passed the second test.\nIt wasn't done in one try like mine was, but I'll let you slide...",
         "pt-BR": "Hahaha... Como errou só uma resposta, você passou no segundo teste.\nNão foi na primeira tentativa, como aconteceu comigo, mas vou deixar passar...",
-        "es-ES": "Ja, ja, ja~ Como solo te equivocaste en una pregunta, pasaste la segunda prueba.\nNo lo lograste a la primera, como yo, pero te lo dejaré pasar…"
+        "es-ES": "Ja, ja, ja~ Como solo te equivocaste en una pregunta, pasaste la segunda prueba.\nNo lo lograste a la primera, como yo, pero te lo dejaré pasar..."
     },
     "KMigBg": {
         "en-US": "Sheez...  You didn't do very well, but you passed the second test.\nIt wasn't done in one try like mine was, but I'll let you slide...",
         "pt-BR": "Vixe... Você não se saiu muito bem, mas passou no segundo teste.\nNão foi na primeira tentativa, como aconteceu comigo, mas vou deixar passar...",
-        "es-ES": "Caray…  No lo hiciste muy bien, pero pasaste la segunda prueba.\nNo lo lograste a la primera, como yo, pero te lo dejaré pasar…"
+        "es-ES": "Caray...  No lo hiciste muy bien, pero pasaste la segunda prueba.\nNo lo lograste a la primera, como yo, pero te lo dejaré pasar..."
     },
     "KcigBg": {
         "en-US": "You failed. Go study some more!",
@@ -1502,7 +1502,7 @@
     "LMigBg": {
         "en-US": "[Raulel]\nShould I explain a little about this final test?  It is difficult, I will not hide that from you...",
         "pt-BR": "[Lauro]\nDevo explicar um pouco como vai ser este teste final? É difícil, não vou esconder isso de você...",
-        "es-ES": "[Raulel]\n¿Te parece que explique un poco esta prueba final?  Es difícil, no voy a mentirte…"
+        "es-ES": "[Raulel]\n¿Te parece que explique un poco esta prueba final?  Es difícil, no voy a mentirte..."
     },
     "LcigBg": {
         "en-US": "No, it's ok, I'm ready.",
@@ -1517,7 +1517,7 @@
     "L8igBg": {
         "en-US": "[Raulel]\nWhat a rash person.  Your the type that rushes into battle without thinking, what in the world are you doing here instead of with the Prontera Chivalry?  Heck, go for it!  *cough* Not my fault if you end up dying.\nJust consider yourself a glass cannon...because the monsters are going to break you into pieces.  Hahahahahahahahaha~",
         "pt-BR": "[Lauro]\nQue pessoa apressada. Você é do tipo que se lança à batalha sem pensar. Mas por que você está aqui, e não com a Cavalaria de Prontera? Ora, vá em frente! *cof* A culpa não será minha se você acabar morrendo.\nComece a se imaginar como um canhão de vidro... porque os monstros vão partir você em pedacinhos. Hahahahahahahahaha.",
-        "es-ES": "[Raulel]\nQué persona tan imprudente.  Eres de los que se lanzan a la batalla sin pensar. ¿Qué demonios haces aquí en vez de en la caballería de Prontera?  ¡Qué diablos, adelante, entonces! *Tos* No será culpa mía si acabas muriendo.\nSerás como un cañón de cristal… porque los monstruos van a romperte en pedazos.  ¡Ja, ja, ja, ja ja, ja, ja, ja~!"
+        "es-ES": "[Raulel]\nQué persona tan imprudente.  Eres de los que se lanzan a la batalla sin pensar. ¿Qué demonios haces aquí en vez de en la caballería de Prontera?  ¡Qué diablos, adelante, entonces! *Tos* No será culpa mía si acabas muriendo.\nSerás como un cañón de cristal... porque los monstruos van a romperte en pedazos.  ¡Ja, ja, ja, ja ja, ja, ja, ja~!"
     },
     "MMigBg": {
         "en-US": "[Raulel]\nThen, as you wish.  I'll send you there right now.\nOh, if you see a white light at the end of a tunnel, that means your pathetic cause you failed!  Hahahahahah~",
@@ -1542,17 +1542,17 @@
     "NMigBg": {
         "en-US": "[Raulel]\nOnce you defeat all the monsters within the given time in any one room...\nyou'll be moved to the next room.",
         "pt-BR": "[Lauro]\nDepois de derrotar todos os monstros de uma sala no limite de tempo...\nvocê avançará para a próxima sala.",
-        "es-ES": "[Raulel]\nUna vez que derrotes a todos los monstruos dentro del tiempo límite en una sala…\nte trasladarás a la siguiente sala."
+        "es-ES": "[Raulel]\nUna vez que derrotes a todos los monstruos dentro del tiempo límite en una sala...\nte trasladarás a la siguiente sala."
     },
     "NcigBg": {
         "en-US": "[Raulel]\nAfter these three rooms are clear, the testing is over.\nYou will become a Wizard which is controlled by Greater Magic Powers!  Know this...There is no returning to an easy life.",
         "pt-BR": "[Lauro]\nO teste terminará quando as três salas forem concluídas.\nVocê se tornará um Bruxo que é controlado pelos Poderes da Grande Magia! E lembre-se... não há como ter uma vida tranquila de volta.",
-        "es-ES": "[Raulel]\nUna vez despejadas estas tres salas, la prueba habrá terminado.\n¡Te convertirás en un Hechicero bajo el control de los poderes mágicos superiores!  Y recuerda… No podrás nunca volver a la vida fácil que tenías."
+        "es-ES": "[Raulel]\nUna vez despejadas estas tres salas, la prueba habrá terminado.\n¡Te convertirás en un Hechicero bajo el control de los poderes mágicos superiores!  Y recuerda... No podrás nunca volver a la vida fácil que tenías."
     },
     "NsigBg": {
         "en-US": "[Raulel]\nHahaha~  You look frightened.  You know, it's not too late to turn back and live an easy life.\nIf you want, I can send you back to town right now...  What do you want to do?",
         "pt-BR": "[Lauro]\nHahaha... Você parece assustado. Não é tarde demais para voltar atrás e ter uma vida tranquila.\nSe quiser, posso mandar você de volta para a cidade agora mesmo... O que você quer fazer?",
-        "es-ES": "[Raulel]\nJa, ja, ja~ Parece que eso te da miedo.  No es demasiado tarde para arrepentirse y vivir una vida fácil.\nSi quieres, puedo enviarte de vuelta a la ciudad ahora mismo…  ¿Qué quieres hacer?"
+        "es-ES": "[Raulel]\nJa, ja, ja~ Parece que eso te da miedo.  No es demasiado tarde para arrepentirse y vivir una vida fácil.\nSi quieres, puedo enviarte de vuelta a la ciudad ahora mismo...  ¿Qué quieres hacer?"
     },
     "N8igBg": {
         "en-US": "Continue testing.",
@@ -1577,17 +1577,17 @@
     "O8igBg": {
         "en-US": "[Raulel]\nHahahahahaha~  I've never seen anyone so...sooo...*sneeze* tenacious as you.\nSo you want to try again eh?  Even though I've ridiculed you for your failures before??",
         "pt-BR": "[Lauro]\nHahahahahaha~ Eu nunca vi ninguém tão... tããão... *espirro* tenaz quanto você.\nEntão você quer tentar de novo, hein? Mesmo que eu já tenha ridicularizado você por seus fracassos antes??",
-        "es-ES": "[Raulel]\nJa, ja, ja, ja, ja, ja, ja~ Nunca había visto a nadie tan… taaaan… *Estornudo* tenaz como tú.\nAsí que quieres volver a intentarlo, ¿eh?  ¿Aunque te haya ridiculizado antes por tus fracasos?"
+        "es-ES": "[Raulel]\nJa, ja, ja, ja, ja, ja, ja~ Nunca había visto a nadie tan... taaaan... *Estornudo* tenaz como tú.\nAsí que quieres volver a intentarlo, ¿eh?  ¿Aunque te haya ridiculizado antes por tus fracasos?"
     },
     "PMigBg": {
         "en-US": "[Raulel]\nOk then, here's a proposition.  Since you're probably worn out as it is, and I can clearly see the lust for Greater Magic burning in your eyes...\nHahahahaha~ yeah! Go bring me a ^3355FFWorn Out Scroll^000000.",
         "pt-BR": "[Lauro]\nOk então, aqui vai uma proposta. Já que você provavelmente já está exausto, e eu posso ver claramente a luxúria por Magia Maior queimando em seus olhos...\nHahahahaha~ sim! Vá me trazer um ^3355FFPergaminho Desgastado^000000.",
-        "es-ES": "[Raulel]\nDe acuerdo, entonces, ¿qué te parece esto?  Ya que probablemente necesites un descanso, y puedo ver claramente la lujuria por la Magia superior ardiendo en tus ojos…\nJa, ja, ja, ja, ja, ja~ ¡Sí! Ve a traerme un ^3355FFPergamino desgastado^000000."
+        "es-ES": "[Raulel]\nDe acuerdo, entonces, ¿qué te parece esto?  Ya que probablemente necesites un descanso, y puedo ver claramente la lujuria por la Magia superior ardiendo en tus ojos...\nJa, ja, ja, ja, ja, ja~ ¡Sí! Ve a traerme un ^3355FFPergamino desgastado^000000."
     },
     "PcigBg": {
         "en-US": "[Raulel]\nIf not, you can take the test again...\nWell, I'll send you to take the test for now.  Hahahaha~",
         "pt-BR": "[Lauro]\nSe não, você pode fazer o teste de novo...\nBem, eu vou te mandar fazer o teste por enquanto. Hahahaha~",
-        "es-ES": "[Raulel]\nSi no, puedes volver a hacer la prueba…\nBueno, por ahora, te mandaré a hacer la prueba.  Ja, ja, ja, ja~"
+        "es-ES": "[Raulel]\nSi no, puedes volver a hacer la prueba...\nBueno, por ahora, te mandaré a hacer la prueba.  Ja, ja, ja, ja~"
     },
     "PsigBg": {
         "en-US": "[Raulel]\nOh!  So you're back?  Hahahahaha~\n*Cough* Cough* Do you want to take the test again?  Or did you bring the ^3355FFWorn Out Scroll^000000?",
@@ -1612,7 +1612,7 @@
     "QsigBg": {
         "en-US": "[Raulel]\nHahahahahahahaha~  *Cough* *cough* So you ended up bringing one of these eh?  Good job...\nI think I can continue my research with this...",
         "pt-BR": "[Lauro]\nHahahahahahahaha... *Cof* *cof* Então, você acabou trazendo um desses? Bom trabalho...\nAcho que posso continuar a minha pesquisa com isso...",
-        "es-ES": "[Raulel]\nJa, ja, ja, ja, ja, ja, ja~ *Tos* *Tos* Veo que terminaste trayendo uno de estos.  Buen trabajo…\nCreo que puedo continuar mi investigación con esto…"
+        "es-ES": "[Raulel]\nJa, ja, ja, ja, ja, ja, ja~ *Tos* *Tos* Veo que terminaste trayendo uno de estos.  Buen trabajo...\nCreo que puedo continuar mi investigación con esto..."
     },
     "Q8igBg": {
         "en-US": "[Raulel]\nEven though your not Grade A Wizard material, I can tell your serious about wanting the Greater Magic.  I'll tell Catherine that you passed.  Hahahahahahahahah~\nYou went through a lot of trouble here, and that is the true purpose for us selecting Wizards.  Only those who will devote themselves to the art will ever become Wizards.  Good luck to you.  Become much Stronger.  Hahahahahaha~",
@@ -1622,12 +1622,12 @@
     "RMigBg": {
         "en-US": "[Raulel]\n*sneeze* What?  You want to take the test again?\nGeez...you already failed the battle test!  Hahahahahahahaha~  So you like magic that much, eh?",
         "pt-BR": "[Lauro]\n*atchim* Quê? Quer fazer o teste de novo?\nPoxa... você já falhou no teste de batalha! Hahahahahahahaha... Você gosta tanto assim de magia?",
-        "es-ES": "[Raulel]\n*Estornudo* ¿Qué?  ¿Quieres volver a hacer la prueba?\nVaya… pero ¡si no pasaste la prueba de batalla!  Ja, ja, ja, ja, ja, ja, ja, ja~ ¿Tanto te gusta la magia?"
+        "es-ES": "[Raulel]\n*Estornudo* ¿Qué?  ¿Quieres volver a hacer la prueba?\nVaya... pero ¡si no pasaste la prueba de batalla!  Ja, ja, ja, ja, ja, ja, ja, ja~ ¿Tanto te gusta la magia?"
     },
     "RcigBg": {
         "en-US": "[Raulel]\nSince your so weak that you can't finish this final test on your own...you need a separate test to help you out.\n*Cough* If you can't pass the battle test, then do a good job with this one.  Hahahahahahah~",
         "pt-BR": "[Lauro]\nJá que está tão fraco que não consegue terminar o teste final sozinho... vou lhe dar um teste separado para ajudar você.\n*Cof* Se não pode passar no teste de batalha, tente se sair bem neste aqui. Hahahahahaha!!",
-        "es-ES": "[Raulel]\nYa que eres tan débil que no puedes terminar la prueba final por tus propios medios… te daré una prueba distinta.\n*Tos* Si no puedes pasar la prueba de batalla, esfuérzate por pasar esta.  Ja, ja, ja, ja, ja, ja~"
+        "es-ES": "[Raulel]\nYa que eres tan débil que no puedes terminar la prueba final por tus propios medios... te daré una prueba distinta.\n*Tos* Si no puedes pasar la prueba de batalla, esfuérzate por pasar esta.  Ja, ja, ja, ja, ja, ja~"
     },
     "RsigBg": {
         "en-US": "[Raulel]\nWell, you better answer these problems if you plan on becoming a Wizard.  Hahahahahahaha~",
@@ -1742,7 +1742,7 @@
     "XMigBg": {
         "en-US": "Eh, soso...\nI'll let you retake the test.",
         "pt-BR": "Er, mais ou menos...\nVou deixar você refazer o teste.",
-        "es-ES": "Bueno, bueno…\nTe dejaré repetir la prueba."
+        "es-ES": "Bueno, bueno...\nTe dejaré repetir la prueba."
     },
     "XcigBg": {
         "en-US": "You failed!  Go study some more!",
@@ -1752,7 +1752,7 @@
     "XsigBg": {
         "en-US": "[Raulel]\nYou lack something...*sneez*...like intelligence.  That's why you keep on failing.  Hahahahahahahaha~",
         "pt-BR": "[Lauro]\nVocê precisa de algo... *atchim*... chamado inteligência. É por isso que continua falhando. Hahahahahahahaha.",
-        "es-ES": "[Raulel]\nTe falta algo… *Estornudo* …como inteligencia.  Por eso sigues fallando.  Ja, ja, ja, ja, ja, ja, ja, ja~"
+        "es-ES": "[Raulel]\nTe falta algo... *Estornudo* ...como inteligencia.  Por eso sigues fallando.  Ja, ja, ja, ja, ja, ja, ja, ja~"
     },
     "X8igBg": {
         "en-US": "Begin the test please.",
@@ -1767,7 +1767,7 @@
     "YcigBg": {
         "en-US": "[Raulel]\nNobody is going to help you become a Wizard.  Hahahahahahahaha~\n*Cough* *cough* No point in crying after dying...",
         "pt-BR": "[Lauro]\nNinguém vai ajudar você a se tornar um Bruxo. Hahahahahahahaha.\n*Cof* *cof* Não dá para chorar depois de morrer...",
-        "es-ES": "[Raulel]\nNadie te ayudará a convertirte en Hechicero.  ¡Ja, ja, ja, ja ja, ja, ja, ja~!\n*Tos* *Tos* No tiene sentido llorar después de morir…"
+        "es-ES": "[Raulel]\nNadie te ayudará a convertirte en Hechicero.  ¡Ja, ja, ja, ja ja, ja, ja, ja~!\n*Tos* *Tos* No tiene sentido llorar después de morir..."
     },
     "YsigBg": {
         "en-US": "[Raulel]\nThen, as you wish.  I'll send you to fight.\nOh!  If you see some tall pearly gates and hear a booming deep voice from behind it, that means that your a failure when it comes to Magic.  Hahahahahahahahaha~",
@@ -1782,7 +1782,7 @@
     "ZMigBg": {
         "en-US": "[Raulel]\nThere are 3 parts to this final test.\nThe order is...*sneez*...the Water Room, Earth Room, and then the Fire Room.  Each room has monsters of that attribute in it.",
         "pt-BR": "[Lauro]\nO teste final tem 3 partes.\nA ordem é... *atchim*... a Sala de Água, a Sala de Terra e, depois, a Sala de Fogo. Em cada sala, há monstros com o mesmo atributo.",
-        "es-ES": "[Raulel]\nEsta prueba final tiene 3partes.\nEl orden es… *Estornudo* …la sala del Agua, la sala de la Tierra y la sala del Fuego.  Cada sala tiene monstruos del atributo correspondiente."
+        "es-ES": "[Raulel]\nEsta prueba final tiene 3partes.\nEl orden es... *Estornudo* ...la sala del Agua, la sala de la Tierra y la sala del Fuego.  Cada sala tiene monstruos del atributo correspondiente."
     },
     "ZcigBg": {
         "en-US": "[Raulel]\nYou'll see what monsters they are when you enter.\nIf you use the appropriate spells against them, it shouldn't be that difficult.  Hahahahahahaha~",
@@ -1792,7 +1792,7 @@
     "ZsigBg": {
         "en-US": "[Raulel]\nWithin the given time, if you defeat all the monsters...\nyou will be sent to the next room.",
         "pt-BR": "[Lauro]\nSe derrotar todos os monstros no limite de tempo...\nvocê avançará para a próxima sala.",
-        "es-ES": "[Raulel]\nSi derrotas a todos los monstruos dentro del tiempo límite…\npasarás a la siguiente sala."
+        "es-ES": "[Raulel]\nSi derrotas a todos los monstruos dentro del tiempo límite...\npasarás a la siguiente sala."
     },
     "Z8igBg": {
         "en-US": "[Raulel]\nAfter that, the test is over.\nYou will then become a Wizard controlled by Greater Magic powers!  There is no coming back to the easy life you have known thus far.",
@@ -1832,7 +1832,7 @@
     "bsigBg": {
         "en-US": "[Raulel]\nGo!  Go and become the Wizard you really want to be.\nAnd be careful!  Greater Magic will always be after you...",
         "pt-BR": "[Lauro]\nVá! Torne-se o Bruxo que você realmente quer ser.\nE tenha cuidado! A Grande Magia sempre estará ao seu encalço...",
-        "es-ES": "[Raulel]\n¡Adelante!  Ve y conviértete en la clase de Hechicero que realmente quieres ser.\n¡Y ten cuidado!  La Magia superior siempre estará al acecho…"
+        "es-ES": "[Raulel]\n¡Adelante!  Ve y conviértete en la clase de Hechicero que realmente quieres ser.\n¡Y ten cuidado!  La Magia superior siempre estará al acecho..."
     },
     "b8igBg": {
         "en-US": "Arena Assistant",
@@ -2152,7 +2152,7 @@
     "rsigBg": {
         "en-US": "[Dog]\nSheesh...Why would a person that can't even cast a spell a single spell come up here?\n*Pfft* If you're that bored, do the world a favor and climb to the top of this building via the outside, then proceed to do some acrobatics if you get there.",
         "pt-BR": "[Cão]\nCredo... Por que uma pessoa que não consegue lançar sequer um feitiço viria até aqui?\n*Pfft* Se está tão entediado assim, faça um favor para todo mundo: escale este prédio pelo lado de fora e, depois, faça algumas acrobacias.",
-        "es-ES": "[Perra]\nCaray… ¿Por qué vendría aquí una persona que ni siquiera puede lanzar un solo hechizo?\n*Pfff* Si te aburres tanto, hazle un favor al mundo y escala a lo alto de este edificio por el exterior y, si llegas a la cima, procede a hacer algunas acrobacias."
+        "es-ES": "[Perra]\nCaray... ¿Por qué vendría aquí una persona que ni siquiera puede lanzar un solo hechizo?\n*Pfff* Si te aburres tanto, hazle un favor al mundo y escala a lo alto de este edificio por el exterior y, si llegas a la cima, procede a hacer algunas acrobacias."
     },
     "r8igBg": {
         "en-US": "[Dog]\n*Bark* Get lost!\nI don't have time for people like you!",
@@ -2162,7 +2162,7 @@
     "sMigBg": {
         "en-US": "[Dog]\nAh...I know what you're about to say.  You want to change jobs to a Wizard, right?",
         "pt-BR": "[Cão]\nAh... eu sei o que você vai falar. Você quer se tornar um Mago, certo?",
-        "es-ES": "[Perra]\nAh… ya sé lo que vas a decir.  Quieres cambiar a la clase Hechicero, ¿verdad?"
+        "es-ES": "[Perra]\nAh... ya sé lo que vas a decir.  Quieres cambiar a la clase Hechicero, ¿verdad?"
     },
     "scigBg": {
         "en-US": "[Dog]\nGo talk to Catherine.  She'll help you.",
@@ -2177,22 +2177,22 @@
     "s8igBg": {
         "en-US": ".......",
         "pt-BR": ".......",
-        "es-ES": "……"
+        "es-ES": "......"
     },
     "tMigBg": {
         "en-US": "A Dog is talking to me...",
         "pt-BR": "Uma cadela está falando comigo...",
-        "es-ES": "Un perro me está hablando…"
+        "es-ES": "Un perro me está hablando..."
     },
     "tcigBg": {
         "en-US": "[Dog]\n...*bark*...?  What is it??  Why are you looking at me like that?!\nIs it your first time seeing a Dog talk?",
         "pt-BR": "[Cão]\n... *au*...? O que foi?? Por que está me olhando assim??\nÉ a primeira vez que você vê uma cadela falante?",
-        "es-ES": "[Perra]\n…*Ladrido*…  ¿Qué sucede?  ¡¿Por qué me miras así?!\n¿Es la primera vez que oyes hablar a un perro?"
+        "es-ES": "[Perra]\n...*Ladrido*...  ¿Qué sucede?  ¡¿Por qué me miras así?!\n¿Es la primera vez que oyes hablar a un perro?"
     },
     "tsigBg": {
         "en-US": "[Dog]\n*Bark* It's not common that you see a Dog talking I suppose.  bark~\n...Yes i suppose it is a rare site...*grrr*...Stop Gawking for goodness sakes!",
         "pt-BR": "[Cão]\n*Au* Acho que não é comum ver uma cadela falante. Au...\n... É, acho que é uma coisa rara...*grrr*... Pare de me olhar com essa cara de idiota!",
-        "es-ES": "[Perra]\n*Ladrido* No es común que veas a un perro que habla, supongo. Ladrido~\n…Sí, supongo que es un fenómeno raro… *Grrr* …¡Deja de estar mirándome, por todos los cielos!"
+        "es-ES": "[Perra]\n*Ladrido* No es común que veas a un perro que habla, supongo. Ladrido~\n...Sí, supongo que es un fenómeno raro... *Grrr* ...¡Deja de estar mirándome, por todos los cielos!"
     },
     "t8igBg": {
         "en-US": "[Dog]\nMy name is 'Maria Splodofska'.  Just call me 'Maria'.\nI'm helping candidates that wish to become Wizards.",
@@ -2202,12 +2202,12 @@
     "uMigBg": {
         "en-US": "[Maria]\n*Bark* Well, the reason I became a dog is...I was helping my boyfriend in experimenting to prepare for his Final for his Magic Degree.  Well, *Grrrr* he accidentally turned me into a dog.\nTheoretically, in a couple months the chemicals should wear off and I should be returned to normal.  When exactly, I have no idea?",
         "pt-BR": "[Maria]\n*Au* Bom, eu me tornei uma cadela porque... estava ajudando o meu namorado em uma experiência. Ele se preparava para o teste final para conseguir um Diploma de Magia. Bem, *grrrr*, ele me transformou em uma cadela por acidente.\nTeoricamente, o efeito deve passar em alguns meses e eu voltarei ao normal. Quando, eu não sei.",
-        "es-ES": "[Maria]\n*Ladrido* Bueno, el motivo por el que me convertí en perro es… que estaba ayudando a mi novio a practicar para el examen final de su carrera en Magia.  Bueno *Grrrr* accidentalmente, me convirtió en un perro.\nEn teoría, en un par de meses, se terminará el efecto de los químicos y yo volveré a la normalidad.  ¿Cuándo exactamente? No tengo ni idea."
+        "es-ES": "[Maria]\n*Ladrido* Bueno, el motivo por el que me convertí en perro es... que estaba ayudando a mi novio a practicar para el examen final de su carrera en Magia.  Bueno *Grrrr* accidentalmente, me convirtió en un perro.\nEn teoría, en un par de meses, se terminará el efecto de los químicos y yo volveré a la normalidad.  ¿Cuándo exactamente? No tengo ni idea."
     },
     "ucigBg": {
         "en-US": "[Maria]\nWell...it doesn't concern you anyways.\nNow, where were we.",
         "pt-BR": "[Maria]\nBom... também não é da sua conta.\nAgora, onde estávamos?",
-        "es-ES": "[Maria]\nBueno… de todas formas, no es asunto tuyo.\n¿Dónde estábamos?"
+        "es-ES": "[Maria]\nBueno... de todas formas, no es asunto tuyo.\n¿Dónde estábamos?"
     },
     "usigBg": {
         "en-US": "[Dog]\n*Bark* *bark* *bark* Don't state the obvious!  Alright, I know I'm a dog!",
@@ -2222,7 +2222,7 @@
     "vMigBg": {
         "en-US": "[Dog called 'Maria']\nThe reason I became a dog is...My boyfriend that was experimenting to prepare for the Magic Degree, accidentally turned me into a dog.\nTheoretically, in a couple months, the chemicals should wear off and I should be returned to normal. Exactly when, I have no idea?",
         "pt-BR": "[Cão chamado 'Maria']\nEu me tornei uma cadela porque... o meu namorado estava fazendo uma experiência, para conseguir o Diploma de Magia, e me transformou por acidente.\nTeoricamente, o efeito deve passar em alguns meses e eu voltarei ao normal. Quando, eu não sei.",
-        "es-ES": "[Perra llamada Maria]\nEl motivo por el que me convertí en perro es… Mi novio, que estaba practicando para su título en Magia, me convirtió en perro accidentalmente.\nEn teoría, en un par de meses, los químicos van a desaparecer y yo volveré a la normalidad. ¿Cuándo exactamente? No sabría decirte."
+        "es-ES": "[Perra llamada Maria]\nEl motivo por el que me convertí en perro es... Mi novio, que estaba practicando para su título en Magia, me convirtió en perro accidentalmente.\nEn teoría, en un par de meses, los químicos van a desaparecer y yo volveré a la normalidad. ¿Cuándo exactamente? No sabría decirte."
     },
     "vcigBg": {
         "en-US": "[Dog called 'Maria']\nI'm not a 'dog' called 'Maria'!!  Oi!!  Listen to me!!",
@@ -2232,12 +2232,12 @@
     "vsigBg": {
         "en-US": "[Dog... 'Maria'...]\n..........",
         "pt-BR": "[Cão... 'Maria'...]\n..........",
-        "es-ES": "[Perro… Maria…]\n………"
+        "es-ES": "[Perro... Maria...]\n........."
     },
     "v8igBg": {
         "en-US": "[Maria]\n...*BARK* *BARK* *BARK*...  I'm upset, but whatever!!  You seem busy so I'll just drop it.",
         "pt-BR": "[Maria]\n... *AU* *AU* *AU*... Estou chateada, mas tudo bem!! Você parece ocupado, então não vou dizer mais nada.",
-        "es-ES": "[Maria]\n…*LADRIDO* *LADRIDO* *LADRIDO*…  Estoy molesta, pero ¡da igual!  Parece que no es buen momento, así que lo dejaré."
+        "es-ES": "[Maria]\n...*LADRIDO* *LADRIDO* *LADRIDO*...  Estoy molesta, pero ¡da igual!  Parece que no es buen momento, así que lo dejaré."
     },
     "wMigBg": {
         "en-US": "[Maria]\nLike I said before, to change jobs, talk to Catherine.\nShe's a new Wizard too.",
@@ -2262,7 +2262,7 @@
     "xMigBg": {
         "en-US": "A talking dog...",
         "pt-BR": "Uma cadela falante...",
-        "es-ES": "Un perro que habla…"
+        "es-ES": "Un perro que habla..."
     },
     "xcigBg": {
         "en-US": "[Maria]\nOK, I will explain the process for you.",
@@ -2287,7 +2287,7 @@
     "ycigBg": {
         "en-US": "[Maria]\nThere are questions about magic, monsters, and Mages.\nOut of the 10 questions, if you don't get them all correct, he doesn't let you pass.  In other words, you fail...",
         "pt-BR": "[Maria]\nHaverá perguntas sobre magia, monstros e Magos.\nSe não acertar as 10 perguntas, ele não deixará você passar. Em outras palavras, você fracassa...",
-        "es-ES": "[Maria]\nHay preguntas sobre magia, monstruos y Magos.\nSi no respondes bien las 10preguntas, no te dejará pasar la prueba.  En otras palabras, fracasarás…"
+        "es-ES": "[Maria]\nHay preguntas sobre magia, monstruos y Magos.\nSi no respondes bien las 10preguntas, no te dejará pasar la prueba.  En otras palabras, fracasarás..."
     },
     "ysigBg": {
         "en-US": "[Maria]\nOddly enough, He is in charge of the 3rd test too.\nThe third test is eliminating monsters.",
@@ -2327,7 +2327,7 @@
     "0cigBg": {
         "en-US": "[Maria]\nYou seem lost...\nYou've applied, and now you're looking for the items right?",
         "pt-BR": "[Maria]\nVocê parece perdido...\nVocê se inscreveu e agora está procurando os itens, não é?",
-        "es-ES": "[Maria]\nParece que te perdiste…\nYa presentaste la solicitud y ahora estás buscando los objetos, ¿verdad?"
+        "es-ES": "[Maria]\nParece que te perdiste...\nYa presentaste la solicitud y ahora estás buscando los objetos, ¿verdad?"
     },
     "0sigBg": {
         "en-US": "[Maria]\nBut since this is only the first test, don't depend on others.\nComplete it yourself.  Thats the best way.",
@@ -2337,7 +2337,7 @@
     "08igBg": {
         "en-US": "[Maria]\nFrom what I've heard, you have to gather gemstones...\nI can't help you directly, but I can give you some advice.",
         "pt-BR": "[Maria]\nPelo que ouvi falar, você tem de recolher gemas...\nNão posso ajudar você diretamente, mas posso dar um conselho.",
-        "es-ES": "[Maria]\nPor lo que he oído, tienes que recolectar gemas…\nNo puedo ayudarte directamente, pero puedo darte algunos consejos."
+        "es-ES": "[Maria]\nPor lo que he oído, tienes que recolectar gemas...\nNo puedo ayudarte directamente, pero puedo darte algunos consejos."
     },
     "1MigBg": {
         "en-US": "[Maria]\nFirst, to get Red Gemstones, go to Culverts in Prontera.\nYou can obtain them from the Thief Bugs and Thief Bug eggs found plentiful there.",
@@ -2352,12 +2352,12 @@
     "1sigBg": {
         "en-US": "[Maria]\nAnd...*woof* to get Blue Gemstones.  Try going to the Byalan Dungeons.\nCornutus, Vadon, and monsters like Mars can drop those Gems.",
         "pt-BR": "[Maria]\nE... *au* consiga Gemas Azuis. Tente ir à Masmorra de Byalan.\nCornutus, Vadon e monstros como Marte deixam cair esses Gemas.",
-        "es-ES": "[Maria]\nY… *Guau* para conseguir Gemas Azules,  prueba en las mazmorras de Byalan.\nLos Cornutus, los Vadon y los monstruos como los Mars suelen dejar caer esas gemas."
+        "es-ES": "[Maria]\nY... *Guau* para conseguir Gemas Azules,  prueba en las mazmorras de Byalan.\nLos Cornutus, los Vadon y los monstruos como los Mars suelen dejar caer esas gemas."
     },
     "18igBg": {
         "en-US": "[Maria]\nOf course you can get blue Gemstones at the magic shop here in town...\nBut, finding them yourself would be much more rewarding and helpful later in the test.",
         "pt-BR": "[Maria]\nÉ claro que você pode conseguir Gemas Azuis na loja de magia aqui da cidade...\nPorém, encontrá-las sozinho é muito mais recompensador e vai ajudar você no teste mais tarde.",
-        "es-ES": "[Maria]\nClaro que también puedes conseguir Gemas azules en la tienda de magia de la ciudad…\nPero encontrarlas por tu cuenta será mucho más gratificante y útil más adelante en la prueba."
+        "es-ES": "[Maria]\nClaro que también puedes conseguir Gemas azules en la tienda de magia de la ciudad...\nPero encontrarlas por tu cuenta será mucho más gratificante y útil más adelante en la prueba."
     },
     "2MigBg": {
         "en-US": "[Maria]\nAnyways, try your best.\nThis is the basics of being a Wizard.",
@@ -2372,12 +2372,12 @@
     "2sigBg": {
         "en-US": "[Maria]\nFrom what I've heard, you have to gather elemental stones...\nI can't help you directly, but I can give you some advice.",
         "pt-BR": "[Maria]\nPelo que ouvi falar, você tem de recolher pedras elementais...\nNão posso ajudar você diretamente, mas posso dar um conselho.",
-        "es-ES": "[Maria]\nPor lo que he oído, tienes que recolectar piedras elementales…\nNo puedo ayudarte directamente, pero puedo darte algunos consejos."
+        "es-ES": "[Maria]\nPor lo que he oído, tienes que recolectar piedras elementales...\nNo puedo ayudarte directamente, pero puedo darte algunos consejos."
     },
     "28igBg": {
         "en-US": "[Maria]\nWell, you can find the Crystal Blue in Byalan Dungeon.\nCornutus, Kukre, Marina, Vadon...these monsters drop them frequently.",
         "pt-BR": "[Maria]\nBom, você pode encontrar o Cristal Azul na Masmorra de Byalan.\nCornutus, Kukre, Marina, Vadon... esses monstros costumam deixá-los cair com frequência.",
-        "es-ES": "[Maria]\nPuedes encontrar Azul cristal en la mazmorra de Byalan.\nCornutus, Kukre, Marina, Vadon… estos monstruos las dejan caer con frecuencia."
+        "es-ES": "[Maria]\nPuedes encontrar Azul cristal en la mazmorra de Byalan.\nCornutus, Kukre, Marina, Vadon... estos monstruos las dejan caer con frecuencia."
     },
     "3MigBg": {
         "en-US": "[Maria]\nYou can get Green Live from insect type monsters.\nTry hunting monsters like Horn, Mantis, or Vitata.",
@@ -2387,7 +2387,7 @@
     "3cigBg": {
         "en-US": "[Maria]\nOh and *woof*, Red Blood.  I heard you can get a lot of those from...\nElder Willows, Metallers or Scorpions found in the desert would work well too.",
         "pt-BR": "[Maria]\nAh e, *au*, Sangue Escarlate. Ouvi dizer que você pode conseguir muito com...\nSalgueiros Anciões, Metallers e Escorpiões encontrados no deserto.",
-        "es-ES": "[Maria]\nAh, y *Guau* Sangre Roja.  He oído que puedes conseguir muchas de esas de…\nSauces ancianos, Metaleros o Escorpiones que se encuentran en el desierto."
+        "es-ES": "[Maria]\nAh, y *Guau* Sangre Roja.  He oído que puedes conseguir muchas de esas de...\nSauces ancianos, Metaleros o Escorpiones que se encuentran en el desierto."
     },
     "3sigBg": {
         "en-US": "[Maria]\nFor Wind of Verdue.  Hornet, Stainer, Steel Chonchon.\nIf you try just a bit, you can get them really easily.",
@@ -2407,12 +2407,12 @@
     "4cigBg": {
         "en-US": "[Maria]\nZzzzZzzzZzzz...",
         "pt-BR": "[Maria]\nZzzzZzzzZzzz...",
-        "es-ES": "[Maria]\nZzzzZzzzZzzz…"
+        "es-ES": "[Maria]\nZzzzZzzzZzzz..."
     },
     "4sigBg": {
         "en-US": "[Maria]\n*wimper*...Blizadris...you suck...Zzz...",
         "pt-BR": "[Maria]\n*Sonâmbula*... Lauro ... você não vale nada... Zzz...",
-        "es-ES": "[Maria]\n*gimoteo* …Blizadris… eres de lo peor… Zzz…"
+        "es-ES": "[Maria]\n*gimoteo* ...Blizadris... eres de lo peor... Zzz..."
     },
     "48igBg": {
         "en-US": "[Maria]\nOh, you're doing well aren't you?",
@@ -2427,12 +2427,12 @@
     "5cigBg": {
         "en-US": "[Maria]\n*BARK*...you gave up?\n*Sigh*...How can you become a Wizard with such a weak heart?",
         "pt-BR": "[Maria]\n*AU*... você desistiu?\n*Suspiro*... Como pode se tornar Bruxo com um coração tão fraco?",
-        "es-ES": "[Maria]\n*LADRIDO* …¿Te rindes?\n*Suspiro* …¿Crees que puedes ser parte de los Hechiceros con un corazón tan débil?"
+        "es-ES": "[Maria]\n*LADRIDO* ...¿Te rindes?\n*Suspiro* ...¿Crees que puedes ser parte de los Hechiceros con un corazón tan débil?"
     },
     "5sigBg": {
         "en-US": "[Maria]\nYou know that each room has monsters of the same attribute...\nIf you're a person that deals with magic, you need to know about the different spells.",
         "pt-BR": "[Maria]\nVocê sabe que cada sala tem monstros com a mesma propriedade...\nSe você é uma pessoa que lida com magia, precisa conhecer os diferentes feitiços.",
-        "es-ES": "[Maria]\nSabes que cada sala tiene monstruos del mismo atributo…\nSi sueles usar la magia, necesitas conocer los diferentes hechizos."
+        "es-ES": "[Maria]\nSabes que cada sala tiene monstruos del mismo atributo...\nSi sueles usar la magia, necesitas conocer los diferentes hechizos."
     },
     "58igBg": {
         "en-US": "[Maria]\nYou also need to learn how to counter monsters that use skills.\nYour best bet is to kill the monsters that are attacking you first.",

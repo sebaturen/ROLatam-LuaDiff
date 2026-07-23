@@ -32,7 +32,7 @@
     "Ri2kBw": {
         "en-US": "[Rookie]\nAs they occupied this place, they are remodeling some of the routes to make a training camp.\n... Oh ... I hate it already.",
         "pt-BR": "[Lukie]\nComo ocuparam esse lugar, eles estão remodelando algumas das rotas para fazer um campo de treinamento.\n... Ah... Já detesto.",
-        "es-ES": "[Lukie]\nComo ocuparon este lugar, están remodelando algunas rutas para construir un campo de entrenamiento.\n… Ah… Ya lo odio."
+        "es-ES": "[Lukie]\nComo ocuparon este lugar, están remodelando algunas rutas para construir un campo de entrenamiento.\n... Ah... Ya lo odio."
     },
     "Ry2kBw": {
         "en-US": "Enter the military base.",
@@ -42,17 +42,17 @@
     "SC2kBw": {
         "en-US": "[Rookie]\nThere are still come remnants inside the research facilities.\nActually ... they are more like monsters.\nAnyway, take care of yourself.",
         "pt-BR": "[Lukie]\nAinda sobraram alguns nas instalações de pesquisa.\nNa verdade... parecem mais monstros.\nEnfim, tenha cuidado.",
-        "es-ES": "[Lukie]\nAún quedan algunos restos en las instalaciones de investigación.\nEn realidad… son más bien… monstruos.\nDe todos modos, cuídate."
+        "es-ES": "[Lukie]\nAún quedan algunos restos en las instalaciones de investigación.\nEn realidad... son más bien... monstruos.\nDe todos modos, cuídate."
     },
     "SS2kBw": {
         "en-US": "[Rookie]\nOh ... arg ...",
         "pt-BR": "[Lukie]\nOh... argh...",
-        "es-ES": "[Lukie]\nAh… uf…"
+        "es-ES": "[Lukie]\nAh... uf..."
     },
     "Si2kBw": {
         "en-US": "[Rookie]\n... I really hate training ...",
         "pt-BR": "[Lukie]\n... Eu odeio treinar...",
-        "es-ES": "[Lukie]\n… Realmente odio entrenar…"
+        "es-ES": "[Lukie]\n... Realmente odio entrenar..."
     },
     "Sy2kBw": {
         "en-US": "- Cannot continue quest because you have too many items in your possession. -",
@@ -67,7 +67,7 @@
     "TS2kBw": {
         "en-US": "[Rookie]\nTeleport?\nThey cannot use it.\nWe have blocked it.\nActually, it's something we had never thought of ...",
         "pt-BR": "[Lukie]\nTeleporte?\nEles não podem usar.\nNós bloqueamos.\nNa verdade, nunca pensamos nisso...",
-        "es-ES": "[Lukie]\n¿Teletransporte?\nEllos no pueden usarlo.\nLo bloqueamos.\nEn realidad, nunca lo habíamos pensado…"
+        "es-ES": "[Lukie]\n¿Teletransporte?\nEllos no pueden usarlo.\nLo bloqueamos.\nEn realidad, nunca lo habíamos pensado..."
     },
     "Ti2kBw": {
         "en-US": "You are the exception! Use it whenever you want!",
@@ -112,12 +112,12 @@
     "Vi2kBw": {
         "en-US": "[Skia]\n... What on earth was it?",
         "pt-BR": "[Skia]\n... O que raios foi aquilo?",
-        "es-ES": "[Skia]\n… ¿Qué rayos fue eso?"
+        "es-ES": "[Skia]\n... ¿Qué rayos fue eso?"
     },
     "Vy2kBw": {
         "en-US": "[Skia]\nOn my god ... Seyren Windsor?\nAnd you've found it?",
         "pt-BR": "[Skia]\nAh, meu Deus... Seyren Windsor?\nE você encontrou?",
-        "es-ES": "[Skia]\nDios mío… ¿Seyren Windsor?\n¿Y lo encontraste?"
+        "es-ES": "[Skia]\nDios mío... ¿Seyren Windsor?\n¿Y lo encontraste?"
     },
     "WC2kBw": {
         "en-US": "[Skia]\nThen we must go back quickly.\nOur mission is completed.\nLet's go back to the hotel first.",
@@ -127,7 +127,7 @@
     "WS2kBw": {
         "en-US": "[Rookie]\nYeah. The rest of it is our task.\nThere are still plenty of monster experimental subjects inside, but\nThat's what we have to contend with.",
         "pt-BR": "[Lukie]\nSim. O restante é tarefa nossa.\nAinda há muitas cobaias monstruosas lá dentro, mas...\nTeremos que lidar com isso.",
-        "es-ES": "[Lukie]\nSí. El resto es nuestro trabajo.\nTodavía hay muchos monstruos experimentales dentro, pero…\neso es con lo que tenemos que lidiar."
+        "es-ES": "[Lukie]\nSí. El resto es nuestro trabajo.\nTodavía hay muchos monstruos experimentales dentro, pero...\neso es con lo que tenemos que lidiar."
     },
     "Wi2kBw": {
         "en-US": "[Rookie]\nDamn, go away!",
@@ -182,7 +182,7 @@
     "ZC2kBw": {
         "en-US": "[Rookie]\nMaybe this guy is one of the objects that were split by transplanting the hearts of Ymir ...",
         "pt-BR": "[Lukie]\nTalvez esse cara seja uma das cobaias que foram divididas pelo transplante dos corações de Ymir...",
-        "es-ES": "[Lukie]\nTal vez este individuo es uno de los objetos que se dividieron al trasplantar los Corazones de Ymir…"
+        "es-ES": "[Lukie]\nTal vez este individuo es uno de los objetos que se dividieron al trasplantar los Corazones de Ymir..."
     },
     "ZS2kBw": {
         "en-US": "[Rookie]\nAnyway, let's see if that guy shows up again.\nIt's so~ interesting.",
@@ -252,7 +252,7 @@
     "ci2kBw": {
         "en-US": "[Rookie]\nThis is how the aftermath of the biological experiment shows up.\nSeyren must be special to you...",
         "pt-BR": "[Lukie]\nE é assim que vemos o resultado do experimento biológico.\nSeyren deve ser especial para você...",
-        "es-ES": "[Lukie]\nAsí es como aparecen las consecuencias del experimento biológico.\nSeyren debe ser especial para ti…"
+        "es-ES": "[Lukie]\nAsí es como aparecen las consecuencias del experimento biológico.\nSeyren debe ser especial para ti..."
     },
     "cy2kBw": {
         "en-US": "[Rookie]\nSo the magic is reproducing the appearance of him?\nSo it's a pile of magic.",
@@ -262,12 +262,12 @@
     "dC2kBw": {
         "en-US": "[Rookie]\nIt only looks same on the outside. So sad.\n...So sad.",
         "pt-BR": "[Lukie]\nSó se parecesse o mesmo por fora. É tão triste.\n...Tão triste.",
-        "es-ES": "[Lukie]\nSolo se ve igual por fuera. Es triste.\n…Muy triste."
+        "es-ES": "[Lukie]\nSolo se ve igual por fuera. Es triste.\n...Muy triste."
     },
     "dS2kBw": {
         "en-US": "[Rookie]\nWhy did Werner do that?\nI don't understand.\n...No. Maybe it's weird to understand a lunatic.",
         "pt-BR": "[Lukie]\nPor que Werner fez isso?\nEu não entendo.\n...Não. Talvez seja estranho entender um lunático.",
-        "es-ES": "[Lukie]\n¿Por qué Werner hizo eso?\nNo entiendo.\n…No. Debe ser raro entender a un lunático."
+        "es-ES": "[Lukie]\n¿Por qué Werner hizo eso?\nNo entiendo.\n...No. Debe ser raro entender a un lunático."
     },
     "di2kBw": {
         "en-US": "[Rookie]\nAnyways, We have to observe the central room's core.\nAs long as there are magic inside, the same thing will happen again.",
@@ -277,7 +277,7 @@
     "dy2kBw": {
         "en-US": "... Shall I go in now?",
         "pt-BR": "... Devo ir agora?",
-        "es-ES": "… ¿Entro ahora?"
+        "es-ES": "... ¿Entro ahora?"
     },
     "eC2kBw": {
         "en-US": "Skia",
@@ -317,7 +317,7 @@
     "fy2kBw": {
         "en-US": "[Tess]\nYou may have received it already through the Rebellion.\nSince this token is a prize for someone who did a job for Schwartzwald ...",
         "pt-BR": "[Tess]\nVocê já pode tê-lo recebido através da Rebelião.\nJá que esse brasão é um prêmio para alguém que prestou serviço a Schwartzwald...",
-        "es-ES": "[Tess]\nPuede que ya la hayas recibido de la Rebelión.\nComo esta insignia es un premio para alguien que hizo un trabajo para Schwarzwald…"
+        "es-ES": "[Tess]\nPuede que ya la hayas recibido de la Rebelión.\nComo esta insignia es un premio para alguien que hizo un trabajo para Schwarzwald..."
     },
     "gC2kBw": {
         "en-US": "[Tess]\nIf you want, you can receive them by continuing to help us.",
@@ -377,7 +377,7 @@
     "iy2kBw": {
         "en-US": "[Tess]\n.......\nThen we cannot afford it.\n... No, no.",
         "pt-BR": "[Tess]\n.......\nEntão não podemos fazer isso.\n... Não, não...",
-        "es-ES": "[Tess]\n.......\nEntonces no podemos pagarlo.\n… No, no."
+        "es-ES": "[Tess]\n.......\nEntonces no podemos pagarlo.\n... No, no."
     },
     "jC2kBw": {
         "en-US": "[Tess]\nWe already heard of your performance from the Rebellion.\nThank you for cooperating with the republic.",
@@ -432,7 +432,7 @@
     "li2kBw": {
         "en-US": "[Tess]\n... How many more facilities like this are there in Schwartzwald?\nHaa ...",
         "pt-BR": "[Tess]\n... Quantas instalações como essa existem em Schwartzwald?\nHum...",
-        "es-ES": "[Tess]\n… ¿Cuántas instalaciones más como esta hay en Schwarzwald?\nMmm…"
+        "es-ES": "[Tess]\n... ¿Cuántas instalaciones más como esta hay en Schwarzwald?\nMmm..."
     },
     "ly2kBw": {
         "en-US": "[Rookie]\nTake a look at this.\nAccording to the design drawing, this part is connected to the central room... But I only see a suspicious gate.",
@@ -462,7 +462,7 @@
     "nC2kBw": {
         "en-US": "Why ... why are you doing this to me?!",
         "pt-BR": "Por que... Por que vocês estão fazendo isso comigo?!",
-        "es-ES": "¡¿Por qué… por qué me haces esto?!"
+        "es-ES": "¡¿Por qué... por qué me haces esto?!"
     },
     "nS2kBw": {
         "en-US": "[Skia]\nI asked him whether he knows the paths here, and his answer was yes. So I brought him here.\nHe will activate the gate to the central room.",
@@ -472,7 +472,7 @@
     "ni2kBw": {
         "en-US": "This ... is the way to do it.",
         "pt-BR": "Assim... é assim que se faz.",
-        "es-ES": "Así… es como se hace."
+        "es-ES": "Así... es como se hace."
     },
     "ny2kBw": {
         "en-US": "[Rookie]\nHmm, I see. That's the way to operate it.\nGreat, now I got it.\nAnd we don't need him anymore.",
@@ -522,7 +522,7 @@
     "qC2kBw": {
         "en-US": "[Rookie]\nOops! Something does not work ...\nWait a moment. Let me operate the equipment in order again.",
         "pt-BR": "[Lukie]\nOops! Algo não funciona...\nEspere um momento. Deixe-me colocar o equipamento em ordem novamente.",
-        "es-ES": "[Lukie]\n¡Ups! Algo no funciona…\n¡Espera un momento. Déjame operar el equipo en orden otra vez."
+        "es-ES": "[Lukie]\n¡Ups! Algo no funciona...\n¡Espera un momento. Déjame operar el equipo en orden otra vez."
     },
     "qS2kBw": {
         "en-US": "[Rookie]\nPlease wait for a while until this is operated properly.",
@@ -562,7 +562,7 @@
     "sC2kBw": {
         "en-US": "[Rookie]\nWhat kind of facility is this?\nSsss.\nOnce it is identified appropriately, I might ask you for a settlement ...\nI will have to guard the gate of the central room again.",
         "pt-BR": "[Lukie]\nQue tipo de instalação é essa?\nDepois que ela for devidamente identificada,\nacho que vou pedir uma compensação a você...\nPrecisarei fazer a guarda do portão da sala central novamente.",
-        "es-ES": "[Lukie]\n¿Qué tipo de instalación es esta?\nUna vez que lo identifiquemos adecuadamente, tal vez te pida una indemnización…\nTendré que vigilar la puerta de la sala central otra vez."
+        "es-ES": "[Lukie]\n¿Qué tipo de instalación es esta?\nUna vez que lo identifiquemos adecuadamente, tal vez te pida una indemnización...\nTendré que vigilar la puerta de la sala central otra vez."
     },
     "sS2kBw": {
         "en-US": "[Rookie]\nIf there is a gate that has already been activated, you can see it.",
@@ -587,7 +587,7 @@
     "tS2kBw": {
         "en-US": "Mutant Homunculuses, they are quite threatening. Aren't they?",
         "pt-BR": "As quimeras mutantes são ameaçadoras. Não são?",
-        "es-ES": "Homúnculos mutantes… Son bastante amenazadores. ¿No es así?"
+        "es-ES": "Homúnculos mutantes... Son bastante amenazadores. ¿No es así?"
     },
     "ti2kBw": {
         "en-US": "Scared researcher",
@@ -622,7 +622,7 @@
     "vC2kBw": {
         "en-US": "[Rookie]\nThe gate is malfunctioning now. It's dangerous like this ...\nPlease wait for a while.",
         "pt-BR": "[Lukie]\nO portão não está funcionando corretamente no momento. Ele é perigoso nesse estado...\nPor favor, espere um pouco.",
-        "es-ES": "[Lukie]\nAhora la puerta está funcionando mal. Así es de peligrosa…\nPor favor, espera un momento."
+        "es-ES": "[Lukie]\nAhora la puerta está funcionando mal. Así es de peligrosa...\nPor favor, espera un momento."
     },
     "vS2kBw": {
         "en-US": "^4D4DFFThis event is proceeded through the Memorial.\nPlease try again after organizing a party.^000000",
@@ -642,7 +642,7 @@
     "wC2kBw": {
         "en-US": "[Rookie]\nOh ... I have to turn it on every time. It's so inconvenient!",
         "pt-BR": "[Lukie]\nAh... Preciso ligar todas as vezes. É tão inconveniente!",
-        "es-ES": "[Lukie]\nAh… Tengo que encenderlo cada vez. ¡Es tan molesto!"
+        "es-ES": "[Lukie]\nAh... Tengo que encenderlo cada vez. ¡Es tan molesto!"
     },
     "wS2kBw": {
         "en-US": "^4D4DFFMD Only the party leader can enter [Central_room] now.^000000",
@@ -650,7 +650,7 @@
         "es-ES": "^4D4DFFMazmorra del recuerdo: solo el líder del grupo puede entrar a la [sala central] ahora.^000000"
     },
     "wi2kBw": {
-        "en-US": "[Rookie]\nBut let's call it a day.\nLet's go there once the Cutie is found.",
+        "en-US": "[Rookie]\nBut let's call it a day.\nLet's go there once the pet child is found.",
         "pt-BR": "[Lukie]\nMas vamos encerrar por hoje.\nVamos para lá assim que o Fofinho for encontrado.",
         "es-ES": "[Lukie]\nPero dejémoslo aquí por hoy.\nVayamos allí cuando aparezca el Bonitito."
     },
@@ -677,7 +677,7 @@
     "xy2kBw": {
         "en-US": ".. This looks suspicious!",
         "pt-BR": "... Isso parece suspeito!",
-        "es-ES": "… ¡Esto parece sospechoso!"
+        "es-ES": "... ¡Esto parece sospechoso!"
     },
     "yC2kBw": {
         "en-US": "Arrrgh!",
@@ -787,7 +787,7 @@
     "3S2kBw": {
         "en-US": "[Yuslan]\nI never imagined that Chimeras would be tougher than Heart Hunters ...",
         "pt-BR": "[Yuslan]\nNunca imaginei que Quimeras seriam mais duronas que Caça-Corações...",
-        "es-ES": "[Yuslan]\nNunca imaginé que las Quimeras fueran más fuertes que los Cazacorazones…"
+        "es-ES": "[Yuslan]\nNunca imaginé que las Quimeras fueran más fuertes que los Cazacorazones..."
     },
     "3i2kBw": {
         "en-US": "[Yuslan]\nJust defeat 10 of each type. That's all I ask.\nThey are ^4D4DFFMaterial type Chimeras and Human type Chimeras^000000.",
@@ -797,7 +797,7 @@
     "3y2kBw": {
         "en-US": "[Yuslan]\n... The In Vivo Experiment is really horrible.",
         "pt-BR": "[Yuslan]\n...Experimentos com seres vivos são coisas terríveis.",
-        "es-ES": "[Yuslan]\n… El experimento in vivo es realmente horrible."
+        "es-ES": "[Yuslan]\n... El experimento in vivo es realmente horrible."
     },
     "4C2kBw": {
         "en-US": "[Yuslan]\nWow, you did a great job for us!\nThank you.\nThanks to your support, we managed to get a good rest.",
@@ -837,7 +837,7 @@
     "5y2kBw": {
         "en-US": "[Yuslan]\nWell ... Yeah. This is a part of training, too. Phew.",
         "pt-BR": "[Yuslan]\nBem... É. Isso também é parte do treinamento. Ufa.",
-        "es-ES": "[Yuslan]\nBueno… Sí. Esto también es parte del entrenamiento. Fiu."
+        "es-ES": "[Yuslan]\nBueno... Sí. Esto también es parte del entrenamiento. Fiu."
     },
     "6C2kBw": {
         "en-US": "[Yuslan]\nArrrgh, why did I volunteer for this?\nMaybe I should have just been training.",
@@ -852,7 +852,7 @@
     "6i2kBw": {
         "en-US": "[Yudmil]\nNo ... why did I volunteer for this?",
         "pt-BR": "[Yudmil]\nNão... por que fui me voluntariar?",
-        "es-ES": "[Yudmil]\nNo… ¿por qué me ofrecí para esto?"
+        "es-ES": "[Yudmil]\nNo... ¿por qué me ofrecí para esto?"
     },
     "6y2kBw": {
         "en-US": "What's wrong with the Gunslinger?",
@@ -872,7 +872,7 @@
     "7i2kBw": {
         "en-US": "[Yudmil]\nArrrgh, especially Ms. Elena ... She makes us suffer ...",
         "pt-BR": "[Yudmil]\nArrrgh, especialmente a Srta. Elena... Ela faz a gente sofrer...",
-        "es-ES": "[Yudmil]\nAy, especialmente la señorita Elena… Ella nos hace sufrir…"
+        "es-ES": "[Yudmil]\nAy, especialmente la señorita Elena... Ella nos hace sufrir..."
     },
     "7y2kBw": {
         "en-US": "{0} Party's {1} member enters {2}",

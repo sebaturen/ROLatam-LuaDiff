@@ -17,12 +17,12 @@
     "o4KuBg": {
         "en-US": "[Tohobu]\nHmmm...  come in.\nYou may learn something...",
         "pt-BR": "[Tohobu]\nHum... Preste atenção na vida e nos treinos aqui dentro,\nHá muito a ser aprendido.",
-        "es-ES": "[Tohobu]\nMmm… adelante.\nQuizá aprendas algo…"
+        "es-ES": "[Tohobu]\nMmm... adelante.\nQuizá aprendas algo..."
     },
     "pIKuBg": {
         "en-US": "[Tohobu]\nHmm.....you wish to see our sensei Moohae?\nHe is in the south east section of this building.",
         "pt-BR": "[Tohobu]\nHum... Por que você não fala com o Monge Muhae?\nEle está dentro de uma abadia, à sudeste daqui.",
-        "es-ES": "[Tohobu]\nMmm…… ¿Quieres ver al senséi Moohae?\nEstá en la sección sureste de este edificio."
+        "es-ES": "[Tohobu]\nMmm...... ¿Quieres ver al senséi Moohae?\nEstá en la sección sureste de este edificio."
     },
     "pYKuBg": {
         "en-US": "[Tohobu]\nI look forward to seeing you become a monk and joining us.",
@@ -72,7 +72,7 @@
     "roKuBg": {
         "en-US": "[Tohobu]\nIt is odd...I never misunderstand people...oh, well. Have a good day.",
         "pt-BR": "[Tohobu]\nNão costume cometer estes enganos... bem, a falha foi minha.",
-        "es-ES": "[Tohobu]\nEs raro… Yo nunca confundo a la gente… En fin. Que tengas un buen día."
+        "es-ES": "[Tohobu]\nEs raro... Yo nunca confundo a la gente... En fin. Que tengas un buen día."
     },
     "r4KuBg": {
         "en-US": "[Tohobu]\nNow, please tell me your name and job level.",
@@ -97,12 +97,12 @@
     "s4KuBg": {
         "en-US": "[Tohobu]\nHmm... {0} is your name?\n...did I say it right?\nOkay, and your job level is {1} correct?",
         "pt-BR": "[Tohobu]\nHum...{0} é este seu nome?\nEstá correto?\nOk, seu nível de classe é {1}...",
-        "es-ES": "[Tohobu]\nMmm… Tu nombre es {0}.\n¿Lo dije bien?\nBueno. Y tu nivel de clase es {1}, ¿correcto?"
+        "es-ES": "[Tohobu]\nMmm... Tu nombre es {0}.\n¿Lo dije bien?\nBueno. Y tu nivel de clase es {1}, ¿correcto?"
     },
     "tIKuBg": {
         "en-US": "[Tohobu]\nVery well... why have you come here\n{0}?",
         "pt-BR": "[Tohobu]\nMuito bem, o que posso fazer por você,\n{0}?",
-        "es-ES": "[Tohobu]\nMuy bien… ¿A qué viniste aquí,\n{0}?"
+        "es-ES": "[Tohobu]\nMuy bien... ¿A qué viniste aquí,\n{0}?"
     },
     "tYKuBg": {
         "en-US": "To visit and learn about monks.",
@@ -112,22 +112,22 @@
     "toKuBg": {
         "en-US": "I wish to become a monk...",
         "pt-BR": "Quero me tornar um de vocês.",
-        "es-ES": "Quiero unirme a los Monjes…"
+        "es-ES": "Quiero unirme a los Monjes..."
     },
     "t4KuBg": {
         "en-US": "I'm tired and need to rest...",
         "pt-BR": "Prefiro dar uma volta pelo mosteiro.",
-        "es-ES": "Me cansé y quiero dormir un poco…"
+        "es-ES": "Me cansé y quiero dormir un poco..."
     },
     "uIKuBg": {
         "en-US": "[Tohobu]\nI see...\nWe monks live our lives for spiritual enlightenment.\nWe improve our bodies as well as our minds to reach true inner peace.\nMay you find your inner peace as well.",
         "pt-BR": "[Tohobu]\nHUM. Muito bem.\nFique a vontade para conhecer o mosteiro e conversar com os ascetas.\nEspero que o convívio com os Monges te ilumine.\nVá em paz.",
-        "es-ES": "[Tohobu]\nYa veo…\nLos Monjes vivimos la vida en pos de la iluminación espiritual.\nTrabajamos el cuerpo y la mente para lograr la verdadera paz interior.\nEspero que tú también puedas hallar esa paz."
+        "es-ES": "[Tohobu]\nYa veo...\nLos Monjes vivimos la vida en pos de la iluminación espiritual.\nTrabajamos el cuerpo y la mente para lograr la verdadera paz interior.\nEspero que tú también puedas hallar esa paz."
     },
     "uYKuBg": {
         "en-US": "[Tohobu]\nHmm you seem as though you have been training for this...\nThat is good. Go see our sensei Moohae. Speak with him.\nHe will help you start your training.",
         "pt-BR": "[Tohobu]\nHum... Pelo que você me disse, seu nível de classe está de acordo com o necessário.\nMuito bem, siga e converse com o Monge Muhae.\nEle será seu guia daqui em diante.",
-        "es-ES": "[Tohobu]\nMmm, parece que estuviste entrenando para esto…\nEso es bueno. Ve a ver a nuestro senséi Moohae. Habla con él.\nTe ayudará a iniciar el entrenamiento."
+        "es-ES": "[Tohobu]\nMmm, parece que estuviste entrenando para esto...\nEso es bueno. Ve a ver a nuestro senséi Moohae. Habla con él.\nTe ayudará a iniciar el entrenamiento."
     },
     "uoKuBg": {
         "en-US": "[Tohobu]\nHmm, you do not seem ready to become a monk.\nTo become a monk you must be,\nat least a job level 40 Acolyte.\nIf not, you are not yet ready to become a monk.",
@@ -152,7 +152,7 @@
     "voKuBg": {
         "en-US": "[Tohobu]\nYes, we all need to take a rest once in a while...\nIt is a good idea not to stress your self.\nCome in and make yourself comfortable.\nRest as long as you need to.",
         "pt-BR": "[Tohobu]\nAh, compreendo.\nO caminho até aqui pode ser extenuante, não é?\nPor favor, fique à vontade para descansar pelo tempo que quiser.\nO mosteiro tem suas portas abertas aos viajantes cansados.",
-        "es-ES": "[Tohobu]\nSí, todos necesitamos descansar de vez en cuando…\nEs buena idea no alimentar el estrés.\nVen conmigo y siéntete como en casa.\nDescansa el tiempo que necesites."
+        "es-ES": "[Tohobu]\nSí, todos necesitamos descansar de vez en cuando...\nEs buena idea no alimentar el estrés.\nVen conmigo y siéntete como en casa.\nDescansa el tiempo que necesites."
     },
     "v4KuBg": {
         "en-US": "[Tohobu]\nI hope that you become energized\nwhen observing our brothers in their\npursuit of spiritual enlightenment.\nI hope you reach it too.",
@@ -167,7 +167,7 @@
     "wYKuBg": {
         "en-US": "No...",
         "pt-BR": "Não..",
-        "es-ES": "No…"
+        "es-ES": "No..."
     },
     "woKuBg": {
         "en-US": "I wish to become a monk.",
@@ -177,7 +177,7 @@
     "w4KuBg": {
         "en-US": "I need to rest...",
         "pt-BR": "Posso ficar mais um tempo?",
-        "es-ES": "Necesito descansar…"
+        "es-ES": "Necesito descansar..."
     },
     "xIKuBg": {
         "en-US": "[Tohobu]\nI see, there is no shame in that.\nI hope that your experience here with\nour brothers has helped you become one\nstep closer to true enlightenment.",
@@ -201,7 +201,7 @@
     },
     "yIKuBg": {
         "en-US": "[Tohobu]\nNow, please tell me your name as well as your job level!",
-        "pt-BR": "[Tohobu]\nAgora diga seu nome e seu nível de classe…",
+        "pt-BR": "[Tohobu]\nAgora diga seu nome e seu nível de classe...",
         "es-ES": "[Tohobu]\nBien, dime tu nombre y tu nivel de clase."
     },
     "yYKuBg": {
@@ -217,12 +217,12 @@
     "y4KuBg": {
         "en-US": "[Tohobu]\nI see...\nWe monks live our lives for God and spiritual enlightenment.\nWe improve our bodies as well as our minds to reach true inner peace.\nMay you find your inner peace as well.",
         "pt-BR": "[Tohobu]\nEntendo...\nNós, monges, vivemos nossas vidas para Deus e para o esclarecimento espiritual.\nMelhoramos nossos corpos assim como nossas mentes para alcançar a verdadeira paz interior.\nQue você também encontre sua paz interior.",
-        "es-ES": "[Tohobu]\nYa veo…\nLos Monjes dedicamos nuestra vida a los dioses y a la iluminación espiritual.\nTrabajamos el cuerpo y la mente para lograr la verdadera paz interior.\nEspero que tú también puedas hallar esa paz."
+        "es-ES": "[Tohobu]\nYa veo...\nLos Monjes dedicamos nuestra vida a los dioses y a la iluminación espiritual.\nTrabajamos el cuerpo y la mente para lograr la verdadera paz interior.\nEspero que tú también puedas hallar esa paz."
     },
     "zIKuBg": {
         "en-US": "[Tohobu]\nHmm you seem as though you have been training for this...\nThat is good. Go see our sensei Moohae, speak with him\nand he will help you start new training.",
         "pt-BR": "[Tohobu]\nHmm, parece que você tem treinado para isso...\nIsso é bom. Vá ver nosso Monge Muhae, converse com ele e ele o ajudará a iniciar um novo treinamento.",
-        "es-ES": "[Tohobu]\nMmm, parece que estuviste entrenando para esto…\nEso es bueno. Ve a ver a nuestro senséi Moohae, habla con él\ny te ayudará a iniciar un nuevo entrenamiento."
+        "es-ES": "[Tohobu]\nMmm, parece que estuviste entrenando para esto...\nEso es bueno. Ve a ver a nuestro senséi Moohae, habla con él\ny te ayudará a iniciar un nuevo entrenamiento."
     },
     "zYKuBg": {
         "en-US": "[Tohobu]\nListen carefully on your journey.\nThere is much to learn.",
@@ -232,7 +232,7 @@
     "zoKuBg": {
         "en-US": "[Tohobu]\nHmm... would you like to meet sensei Moohae?\nHe is in the south east area in 'The Hall of Monks'.",
         "pt-BR": "[Tohobu]\nHmm... você gostaria de conhecer o Monge Muhae?\nEle está na área sudeste, em 'O Salão dos Monges'.",
-        "es-ES": "[Tohobu]\nMmm… ¿Quieres ver al senséi Moohae?\nSe encuentra en la zona sureste, en la Sala de los Monjes."
+        "es-ES": "[Tohobu]\nMmm... ¿Quieres ver al senséi Moohae?\nSe encuentra en la zona sureste, en la Sala de los Monjes."
     },
     "z4KuBg": {
         "en-US": "[Tohobu]\nI hope you do well in your training and I look forward to seeing you again.",
@@ -292,12 +292,12 @@
     "2oKuBg": {
         "en-US": "[Sensei Moohae]\nMy apologies... It has been some time since\nI have sensed someone with your strength.\nI hope you find your path young one.",
         "pt-BR": "[Monge Muhae]\nAh, achei por um momento... Eu estava enganado... A idade tirou minha aptidão em algumas coisas...\nMinhas desculpas...\nBem, se você me der licença...",
-        "es-ES": "[Senséi Moohae]\nMis disculpas… Hace ya algún tiempo que\nno percibía a alguien con tal fuerza.\nEspero encuentres tu camino, joven."
+        "es-ES": "[Senséi Moohae]\nMis disculpas... Hace ya algún tiempo que\nno percibía a alguien con tal fuerza.\nEspero encuentres tu camino, joven."
     },
     "24KuBg": {
         "en-US": "[Sensei Moohae]\nOh, you are the new pupil that wishes to join us...\nWell there are a few things that you should know prior to beginning your training.",
         "pt-BR": "[Monge Muhae]\nUm candidato à Monge! Isso me alegra muito.\nBem, antes que você se torne um de nós, há algo de que deve se lembrar.",
-        "es-ES": "[Senséi Moohae]\nOh, eres quien ha decidido unirse a nosotros…\nBueno, hay algunas cuestiones que deberías saber antes de empezar tu entrenamiento."
+        "es-ES": "[Senséi Moohae]\nOh, eres quien ha decidido unirse a nosotros...\nBueno, hay algunas cuestiones que deberías saber antes de empezar tu entrenamiento."
     },
     "3IKuBg": {
         "en-US": "[Sensei Moohae]\nWe monks are on a path of inner peace and enlightenment.\nWe strive to bring such peace to all others with great care.",
@@ -317,7 +317,7 @@
     "34KuBg": {
         "en-US": "[Sensei Moohae]\nThis is not an easy life and the true test of becoming a monk is having the ability to endure all of which I said...\nThe life of a monk is not for everybody, only those strong enough can become a monk.",
         "pt-BR": "[Monge Muhae]\nOs testes que pedimos dos candidatos podem parecer cruéis e de grande exigência...\nMas por isso mesmo serão eles que determinarão se você está no estado necessário para se juntar à nós.",
-        "es-ES": "[Senséi Moohae]\nEsta no es una vida fácil y la verdadera prueba para convertirse en Monje es tener la capacidad de soportar todo lo que mencioné antes…\nLa vida de un Monje no es para todo el mundo y solo quienes tengan la fuerza suficiente podrán seguir este camino."
+        "es-ES": "[Senséi Moohae]\nEsta no es una vida fácil y la verdadera prueba para convertirse en Monje es tener la capacidad de soportar todo lo que mencioné antes...\nLa vida de un Monje no es para todo el mundo y solo quienes tengan la fuerza suficiente podrán seguir este camino."
     },
     "4IKuBg": {
         "en-US": "[Sensei Moohae]\nNow, that you understand all of this,\nprepare yourself to train\nyour strength and spirit.",
@@ -417,7 +417,7 @@
     "84KuBg": {
         "en-US": "[Sensei Moohae]\nLet's see who is to see you next..\nAh... go find elder Touha.\nHe is in the north west.",
         "pt-BR": "[Monge Muhae]\nAgora, vejamos, você deve continuar as provas com outro Monge, para discutir os preceitos de nossa classe.\nProcure pelo irmão Douha.\nEle se encontra ao Norte daqui, próximo ao mausoléu de descanso dos Monges já falecidos.",
-        "es-ES": "[Senséi Moohae]\nVeamos a quién tienes que ver a continuación…\nAh… ve a buscar al anciano Touha.\nEstá en el noroeste."
+        "es-ES": "[Senséi Moohae]\nVeamos a quién tienes que ver a continuación...\nAh... ve a buscar al anciano Touha.\nEstá en el noroeste."
     },
     "9IKuBg": {
         "en-US": "[Sensei Moohae]\nHow can you think to be done?\nYou do not have what I asked for!\n5 Sticky Mucus,\n10 Earthworm Peeling,\n20 Green Herb.\nThese are the items I require, go find them all.",
@@ -472,7 +472,7 @@
     "/oKuBg": {
         "en-US": "[Sensei Moohae]\nYour next step will be with..\nelder Touha. Go find him.\nHe is in the north west.",
         "pt-BR": "[Monge Muhae]\nVocê deve continuar as provas com outro Monge, para discutir os preceitos de nossa classe.\nProcure pelo irmão Douha.\nEle se encontra ao Norte daqui, próximo ao mausoléu de descanso dos Monges já falecidos.",
-        "es-ES": "[Senséi Moohae]\nTu próximo paso será con…\nel anciano Touha. Ve a buscarlo.\nEstá en el noroeste."
+        "es-ES": "[Senséi Moohae]\nTu próximo paso será con...\nel anciano Touha. Ve a buscarlo.\nEstá en el noroeste."
     },
     "/4KuBg": {
         "en-US": "[Sensei Moohae]\nHow can you think to be done?\nYou do not have what I asked for!\n5 Solid Shell,\n20 Shell,\n5 Zargon.\nThese are the items I require, go find them all.",
@@ -492,7 +492,7 @@
     "AoOuBg": {
         "en-US": "[Sensei Moohae]\nWhere are the items...?\nYou do not have what I asked for!\n5 Cyfar,\n10 White Herb,\n10 Yellow Herb.\nThese are the items I require, go find them all.",
         "pt-BR": "[Monge Muhae]\nAinda não conseguiu tudo?\nRepetirei as instruções, então.\n5 Cyfar\n10 Ervas Brancas\n10 Ervas Amarelas\nTraga estes itens.",
-        "es-ES": "[Senséi Moohae]\n¿Dónde están los objetos…?\n¡No tienes lo que te pedí!\n5 unidades de Cyfar,\n10 Hierbas blancas,\n10 Hierbas amarillas.\nEstos son los objetos que necesito. Ve a buscar todos."
+        "es-ES": "[Senséi Moohae]\n¿Dónde están los objetos...?\n¡No tienes lo que te pedí!\n5 unidades de Cyfar,\n10 Hierbas blancas,\n10 Hierbas amarillas.\nEstos son los objetos que necesito. Ve a buscar todos."
     },
     "A4OuBg": {
         "en-US": "[Sensei Moohae]\nExcellent, all the items I asked for.\nI will tell this to the elders.",
@@ -537,7 +537,7 @@
     "C4OuBg": {
         "en-US": "[Sensei Moohae]\n.......Hmmm.....\nGo to Tomoon, get a special potion from him. It will look like a green potion, but it isn't. Bring it to me...",
         "pt-BR": "[Monge Muhae]\nHum...\nFale com o Monge Taomon, ele te dará uma poção especial.",
-        "es-ES": "[Senséi Moohae]\n…Mmm…\nVe con Tomoon y obtén una poción especial de él. Parecerá una poción verde, pero no lo es. Tráemela…"
+        "es-ES": "[Senséi Moohae]\n...Mmm...\nVe con Tomoon y obtén una poción especial de él. Parecerá una poción verde, pero no lo es. Tráemela..."
     },
     "DIOuBg": {
         "en-US": "[Sensei Moohae]\nDo you still have the medicine you were supposed to bring?\nYou must drink that green potion to strengthen yourself for becoming a monk.",
@@ -562,12 +562,12 @@
     "EIOuBg": {
         "en-US": "[Sensei Moohae]\n....with that kind of reply...\nHave you not enough heart to become a monk?\nDo you feel you have not suffered enough?",
         "pt-BR": "[Monge Muhae]\nMas como?\nSerá que você não teve tempo suficiente para pensar como um de nós?\nSe eu te mandar correr 15 voltas ao redor de Rune-Midgard, quem sabe você terá tempo pra pensar direito...",
-        "es-ES": "[Senséi Moohae]\n… Con una respuesta así…\nNo tienes corazón para convertirte Monje.\n¿Tal vez no has sufrido lo suficiente?"
+        "es-ES": "[Senséi Moohae]\n... Con una respuesta así...\nNo tienes corazón para convertirte Monje.\n¿Tal vez no has sufrido lo suficiente?"
     },
     "EYOuBg": {
         "en-US": "[Sensei Moohae]\nThink about it a little more and return!\nWe cannot accept a monk who is tainted with doubt...",
         "pt-BR": "[Monge Muhae]\nVá! Vá pensar a respeito e retorne quando entender nosso papel no mundo!\nNão quero criar um Monge manchado com coisas tão indignas...",
-        "es-ES": "[Senséi Moohae]\n¡Piénsalo un poco más y vuelve!\nLos aspirantes a Monje no pueden corromperse por la duda…"
+        "es-ES": "[Senséi Moohae]\n¡Piénsalo un poco más y vuelve!\nLos aspirantes a Monje no pueden corromperse por la duda..."
     },
     "EoOuBg": {
         "en-US": "[Sensei Moohae]\nWill you take advantage of the abilities gained through our training to use for personal benefit?",
@@ -577,12 +577,12 @@
     "E4OuBg": {
         "en-US": "[Sensei Moohae]\n...then we cannot accept you as a monk. We, monks do not practice for personal benefit.\nWe lead our lives honorably and as holy executioners to the damned.",
         "pt-BR": "[Monge Muhae]\nDe jeito nenhum. O treinamento de um Monge não deve servir em proveito próprio.\nComo agentes e executores para a vontade divina, devemos dar nossas vidas e não pedir nada em troca.",
-        "es-ES": "[Senséi Moohae]\n…Entonces, no podemos aceptarte como a un Monje. Las prácticas de los Monjes no son para beneficio personal.\nLlevamos nuestra vida honorablemente y como sagrados verdugos de los condenados."
+        "es-ES": "[Senséi Moohae]\n...Entonces, no podemos aceptarte como a un Monje. Las prácticas de los Monjes no son para beneficio personal.\nLlevamos nuestra vida honorablemente y como sagrados verdugos de los condenados."
     },
     "FIOuBg": {
         "en-US": "[Sensei Moohae]\nGo back where you're from and reconsider what it means to be a monk...\nHow you stand before me now, you will never last as a monk and will be tainted by that which is evil...",
         "pt-BR": "[Monge Muhae]\nPense corretamente a respeito.\nCom esta cobiça mundana, não há maneira de que eu aceite você como um de nós.",
-        "es-ES": "[Senséi Moohae]\nVuelve a tu lugar de origen y reconsidera lo que significa ser Monje…\nAsí como te presentas ante mí, nunca durarías como Monje y todo lo que es malo te corrompería…"
+        "es-ES": "[Senséi Moohae]\nVuelve a tu lugar de origen y reconsidera lo que significa ser Monje...\nAsí como te presentas ante mí, nunca durarías como Monje y todo lo que es malo te corrompería..."
     },
     "FYOuBg": {
         "en-US": "[Sensei Moohae]\nWill you punishing those who are against\nveritas and aequitas? ^CCCCCC(Truth and Justice)^000000",
@@ -607,7 +607,7 @@
     "GYOuBg": {
         "en-US": "[Sensei Moohae]\nDid you say no...? This is unacceptable...\nIf you can help your comrades by sacrificing yourself that is a true display of purity.",
         "pt-BR": "[Monge Muhae]\nNão, e por quê, lhe pergunto?\nMorrer ajudando seus companheiros no campo de batalha é morrer com honra.",
-        "es-ES": "[Senséi Moohae]\n¿Dijiste que no…? Eso es inaceptable…\nAyudar a tus camaradas con tu sacrificio es una verdadera muestra de pureza."
+        "es-ES": "[Senséi Moohae]\n¿Dijiste que no...? Eso es inaceptable...\nAyudar a tus camaradas con tu sacrificio es una verdadera muestra de pureza."
     },
     "GoOuBg": {
         "en-US": "[Sensei Moohae]\nGo back and contemplate upon what it means to sacrifice yourself for those you care for.\nSacrificing yourself for others may seem easy, but it's the most difficult thing to do as a human being.",
@@ -622,7 +622,7 @@
     "HIOuBg": {
         "en-US": "[Sensei Moohae]\nThat is not acceptable. Purposely taunting monsters to follow you can be very dangerous and harmful to others. This is not the way of a monk.\n... that behavior is regarded as careless and is not tolerated.",
         "pt-BR": "[Monge Muhae]\nNem pensar. Essa atitude, embora seja partilhada por muitas pessoas, é errada.\nEla pode causar danos à pessoas que estejam próximas a você.",
-        "es-ES": "[Senséi Moohae]\nEso es inaceptable. Provocar a propósito a los monstruos para que te sigan puede ser muy peligroso y perjudicial para los demás. Ese no es el camino de un monje.\n… Creemos que ese tipo de comportamiento es negligente y no podemos tolerarlo."
+        "es-ES": "[Senséi Moohae]\nEso es inaceptable. Provocar a propósito a los monstruos para que te sigan puede ser muy peligroso y perjudicial para los demás. Ese no es el camino de un monje.\n... Creemos que ese tipo de comportamiento es negligente y no podemos tolerarlo."
     },
     "HYOuBg": {
         "en-US": "[Sensei Moohae]\nEven though you may be nearly invincible when hardening your body that skill is meant to be used for emergency situation not to be used for such disrespectful use!",
@@ -672,12 +672,12 @@
     "JoOuBg": {
         "en-US": "...eh...no...",
         "pt-BR": "Não, não posso.",
-        "es-ES": "…eh… no…"
+        "es-ES": "...eh... no..."
     },
     "J4OuBg": {
         "en-US": "[Sensei Moohae]\nThen your training is complete...\nPlease come closer.",
         "pt-BR": "[Monge Muhae]\nSeu juramento está terminado.\nTodos vocês em volta, reunam-se aqui.",
-        "es-ES": "[Senséi Moohae]\nEntonces, tu entrenamiento está completo…\nAcércate, por favor."
+        "es-ES": "[Senséi Moohae]\nEntonces, tu entrenamiento está completo...\nAcércate, por favor."
     },
     "KIOuBg": {
         "en-US": "We welcome you brother, in our holy battle against evil!",
@@ -727,27 +727,27 @@
     "MYOuBg": {
         "en-US": "[Sensei Moohae]\nIn light of this, your training will start again from the beginning....",
         "pt-BR": "[Monge Muhae]\nPense a respeito disso, treine mais...\nE volte, não há nada a temer.",
-        "es-ES": "[Senséi Moohae]\nEn vista de ello, tu entrenamiento comenzará de nuevo desde el principio…"
+        "es-ES": "[Senséi Moohae]\nEn vista de ello, tu entrenamiento comenzará de nuevo desde el principio..."
     },
     "MoOuBg": {
         "en-US": "Calm down yourself...  I reconsidered... perhaps you are simply not ready for the commitment yet.\nCome back later when you're ready...",
         "pt-BR": "Acalme-se... Eu reconsiderei... talvez você simplesmente não esteja pronto para o compromisso ainda.\nVolte mais tarde quando estiver pronto...",
-        "es-ES": "Cálmate…  Me retracto… quizás todavía no tienes lo necesario para asumir este compromiso.\nVuelve más adelante cuando tengas lo necesario…"
+        "es-ES": "Cálmate...  Me retracto... quizás todavía no tienes lo necesario para asumir este compromiso.\nVuelve más adelante cuando tengas lo necesario..."
     },
     "M4OuBg": {
         "en-US": "I hope that you are able to realize what you are to become soon my boy...",
         "pt-BR": "Que você ouça a Vontade em seu coração, irmão...",
-        "es-ES": "Espero que sepas en qué te convertirás pronto, mi pequeño…"
+        "es-ES": "Espero que sepas en qué te convertirás pronto, mi pequeño..."
     },
     "NIOuBg": {
         "en-US": "I hope that you are able to realize what you are to become soon my girl...",
         "pt-BR": "Que você ouça a Vontade em seu coração, irmã...",
-        "es-ES": "Espero que sepas en qué te convertirás pronto, mi pequeña…"
+        "es-ES": "Espero que sepas en qué te convertirás pronto, mi pequeña..."
     },
     "NYOuBg": {
         "en-US": "[Sensei Moohae]\nI will now perform the ultimate techniques upon your body...",
         "pt-BR": "[Monge Muhae]\nPerfeito, é hora do ritual de modificação.",
-        "es-ES": "[Senséi Moohae]\nAhora realizaré las técnicas supremas en tu cuerpo…"
+        "es-ES": "[Senséi Moohae]\nAhora realizaré las técnicas supremas en tu cuerpo..."
     },
     "NoOuBg": {
         "en-US": "[Sensei Moohae]\nI will use these ancient techniques to amplify your strength through the use of pressure points on your body.",
@@ -757,12 +757,12 @@
     "N4OuBg": {
         "en-US": "[Sensei Moohae]\nClose your eyes.........",
         "pt-BR": "[Monge Muhae]\nHaaaaaaa...",
-        "es-ES": "[Senséi Moohae]\nCierra los ojos…"
+        "es-ES": "[Senséi Moohae]\nCierra los ojos..."
     },
     "OIOuBg": {
         "en-US": "[Sensei Moohae]\nAnd relax your body.......",
         "pt-BR": "[Monge Muhae]\nHuuuuuuu...",
-        "es-ES": "[Senséi Moohae]\nY relaja el cuerpo…"
+        "es-ES": "[Senséi Moohae]\nY relaja el cuerpo..."
     },
     "OYOuBg": {
         "en-US": "[{0}]\n^00CCCC- You breathe in deeply -^000000",
@@ -797,22 +797,22 @@
     "P4OuBg": {
         "en-US": "[Sensei Moohae]\n.... now open your eyes......",
         "pt-BR": "[Monge Muhae]\nPronto.",
-        "es-ES": "[Senséi Moohae]\n…ahora abre los ojos……"
+        "es-ES": "[Senséi Moohae]\n...ahora abre los ojos......"
     },
     "QIOuBg": {
         "en-US": "[Sensei Moohae]\n....and see life through the eyes of a monk.",
         "pt-BR": "[Monge Muhae]\nAbra seus olhos e comece sua nova vida.",
-        "es-ES": "[Senséi Moohae]\n…y ve la vida a con la percepción de un Monje."
+        "es-ES": "[Senséi Moohae]\n...y ve la vida a con la percepción de un Monje."
     },
     "QYOuBg": {
         "en-US": "Please get off of that creature you're riding on\nthen come to find me again...",
         "pt-BR": "Por favor, desça daquela criatura em que você está montado e então venha me procurar novamente...",
-        "es-ES": "Bájate de la criatura que estás montando\ny luego vuelve a verme…"
+        "es-ES": "Bájate de la criatura que estás montando\ny luego vuelve a verme..."
     },
     "QoOuBg": {
         "en-US": "[Sensei Moohae]\n....You are a monk.",
         "pt-BR": "[Monge Muhae]\n....Você é um monge.",
-        "es-ES": "[Senséi Moohae]\n…Ya eres parte de los Monjes."
+        "es-ES": "[Senséi Moohae]\n...Ya eres parte de los Monjes."
     },
     "Q4OuBg": {
         "en-US": "[Sensei Moohae]\n...heh.",
@@ -822,12 +822,12 @@
     "RIOuBg": {
         "en-US": "[Sensei Moohae]\nWell...I guess I am too old to do that anymore...I was better when I was younger...",
         "pt-BR": "[Monge Muhae]\nAcho que estou ficando um pouco velho para tantos rituais de iniciação...",
-        "es-ES": "[Senséi Moohae]\nBueno… supongo que ya soy demasiado viejo para hacer eso… en mi juventud habría podido…"
+        "es-ES": "[Senséi Moohae]\nBueno... supongo que ya soy demasiado viejo para hacer eso... en mi juventud habría podido..."
     },
     "RYOuBg": {
         "en-US": "[Sensei Moohae]\n...anyways, you are a monk now.\nWelcome!",
         "pt-BR": "[Monge Muhae]\nNão era tão extenuante fazer isso antigamente...\nBem, mas você é um Monge agora!",
-        "es-ES": "[Senséi Moohae]\n…como sea, ya eres de clase Monje.\n¡Te doy la bienvenida!"
+        "es-ES": "[Senséi Moohae]\n...como sea, ya eres de clase Monje.\n¡Te doy la bienvenida!"
     },
     "RoOuBg": {
         "en-US": "[Sensei Moohae]\nI hope you will keep your vow..",
@@ -842,12 +842,12 @@
     "SIOuBg": {
         "en-US": "[Sensei Moohae]\nNow...you may leave where the wind may take you.\nOh and I have a gift for you before you leave.",
         "pt-BR": "[Monge Muhae]\nOk... Então vá, siga o caminho da iluminação daqui em diante.\nOh, aqui está um pequeno presente para você.",
-        "es-ES": "[Senséi Moohae]\nAhora… puedes irte adonde te lleve el viento.\nAh, y antes de partir, tengo un regalo para ti."
+        "es-ES": "[Senséi Moohae]\nAhora... puedes irte adonde te lleve el viento.\nAh, y antes de partir, tengo un regalo para ti."
     },
     "SYOuBg": {
         "en-US": "[Sensei Moohae]\nYou are...an acolyte..?\nIf you seek consultation, go to the Sanctuary in Prontera. This place is for Monks, not for you.\nUnless you intend to become a monk....please leave.",
         "pt-BR": "[Monge Muhae]\nHum, um Noviço.\nSe está a procura de conselhos, sugiro que vá até a Igreja de Prontera. Este local é para o treinamento de Monges.\nSe você não tiver interesse em se tornar um Monge, não há muito o que ver por aqui.",
-        "es-ES": "[Senséi Moohae]\n¿Eres… Acólito…?\nSi buscas guía, acude al santuario de Prontera. Este lugar es para los Monjes, no para ti.\nA menos que quieras formar parte de los Monjes… por favor, vete."
+        "es-ES": "[Senséi Moohae]\n¿Eres... Acólito...?\nSi buscas guía, acude al santuario de Prontera. Este lugar es para los Monjes, no para ti.\nA menos que quieras formar parte de los Monjes... por favor, vete."
     },
     "SoOuBg": {
         "en-US": "[Sensei Moohae]\nHow's your practice going?\nI hope you are still training and keeping your vows.",
@@ -897,7 +897,7 @@
     "U4OuBg": {
         "en-US": "[Touha]\nCalm your mind.\nRelax your body...are you ready?",
         "pt-BR": "[Douha]\nSó é necessário que você escute o que lhe direi e memorize bem.\nPermaneça com calma e começaremos... Pronto?",
-        "es-ES": "[Touha]\nCalma tu mente.\nRelaja tu cuerpo… ¿Quieres seguir adelante?"
+        "es-ES": "[Touha]\nCalma tu mente.\nRelaja tu cuerpo... ¿Quieres seguir adelante?"
     },
     "VIOuBg": {
         "en-US": "[Touha]\nOk...then.",
@@ -1442,17 +1442,17 @@
     "wIOuBg": {
         "en-US": "[Touha]\n...",
         "pt-BR": "[Douha]\nMuito bem... Obrigada.",
-        "es-ES": "[Touha]\n…"
+        "es-ES": "[Touha]\n..."
     },
     "wYOuBg": {
         "en-US": "[Touha]\nHmm...",
         "pt-BR": "[Douha]\nHummm...",
-        "es-ES": "[Touha]\nMmm…"
+        "es-ES": "[Touha]\nMmm..."
     },
     "woOuBg": {
         "en-US": "[Touha]\n...well done, that was perfect. You pay attention well...",
         "pt-BR": "[Douha]\nPerfeito.",
-        "es-ES": "[Touha]\n…Bien hecho, estuvo perfecto. Prestaste mucha atención…"
+        "es-ES": "[Touha]\n...Bien hecho, estuvo perfecto. Prestaste mucha atención..."
     },
     "w4OuBg": {
         "en-US": "[Touha]\nHowever, now is not the time to relax. Your path is still long ahead of you.",
@@ -1482,12 +1482,12 @@
     "yIOuBg": {
         "en-US": "[Touha]\nI feel what grows within you.\nYou may now continue on...",
         "pt-BR": "[Douha]\nPronto, seu sangue flui como o de um Monge agora. Sente-se bem?",
-        "es-ES": "[Touha]\nSiento algo que surge dentro de ti.\nAhora puedes continuar…"
+        "es-ES": "[Touha]\nSiento algo que surge dentro de ti.\nAhora puedes continuar..."
     },
     "yYOuBg": {
         "en-US": "[Touha]\n...the next course will be with Boohae.",
         "pt-BR": "[Douha]\nVocê deve encontrar o Irmão Puhae agora.",
-        "es-ES": "[Touha]\n…la próxima lección será con Boohae."
+        "es-ES": "[Touha]\n...la próxima lección será con Boohae."
     },
     "yoOuBg": {
         "en-US": "[Touha]\nI wish you well on your journey.\nDon't forget, his name is ^CC0000Boohae^000000.",
@@ -1502,7 +1502,7 @@
     "zIOuBg": {
         "en-US": "[Touha]\nPerhaps the path of a monk is too difficult for you?\nYou must take this seriously if you wish to continue...",
         "pt-BR": "[Douha]\nNão tem confiança em seu espírito, jovem?\nA tranquilidade e a confiança são tão importantes neste teste quanto a memória.",
-        "es-ES": "[Touha]\n¿Quizá el camino del Monje es demasiado difícil para ti?\nDebes tomártelo en serio si quieres continuar…"
+        "es-ES": "[Touha]\n¿Quizá el camino del Monje es demasiado difícil para ti?\nDebes tomártelo en serio si quieres continuar..."
     },
     "zYOuBg": {
         "en-US": "[Touha]\nI will give you another chance.",
@@ -1517,7 +1517,7 @@
     "z4OuBg": {
         "en-US": "[Touha]\nNow, pay attention this time...",
         "pt-BR": "[Douha]\nMuito bem, você vai tentar de novo. Escute bem desta vez.",
-        "es-ES": "[Touha]\nAhora presta atención esta vez…"
+        "es-ES": "[Touha]\nAhora presta atención esta vez..."
     },
     "0IOuBg": {
         "en-US": "[Touha]\nOk, that is the end.",
@@ -1532,7 +1532,7 @@
     "0oOuBg": {
         "en-US": "[Touha]\nThat's it... were you paying attention?.",
         "pt-BR": "[Douha]\nÉ isso aí... você estava prestando atenção?",
-        "es-ES": "[Touha]\nEso es todo… ¿Prestaste atención?"
+        "es-ES": "[Touha]\nEso es todo... ¿Prestaste atención?"
     },
     "04OuBg": {
         "en-US": "[Touha]\nI hope you were paying attention this time. This is a sacred family prayer.",
@@ -1557,7 +1557,7 @@
     "14OuBg": {
         "en-US": "[Touha]\nHmm... did you forget who to visit?",
         "pt-BR": "[Douha]\nNão tem confiança em seu espírito, jovem?",
-        "es-ES": "[Touha]\nMmm… ¿Olvidaste a quién visitar?"
+        "es-ES": "[Touha]\nMmm... ¿Olvidaste a quién visitar?"
     },
     "2IOuBg": {
         "en-US": "[Touha]\nI wonder about your abilities if you cannot remember such a simple thing.",
@@ -1572,12 +1572,12 @@
     "2oOuBg": {
         "en-US": "[Touha]\nYou wear my patience thin...\n... go visit Boohae.",
         "pt-BR": "[Douha]\nHohoho. Brincadeira. Você deveria ter visto sua cara...\nVocê deve encontrar o senhor Puhae, ok?",
-        "es-ES": "[Touha]\nEstás agotando mi paciencia…\n…ve a visitar a Boohae."
+        "es-ES": "[Touha]\nEstás agotando mi paciencia...\n...ve a visitar a Boohae."
     },
     "24OuBg": {
         "en-US": "[Touha]\n...do your best for the final test.",
         "pt-BR": "[Douha]\nDê o melhor de si nos testes restantes!",
-        "es-ES": "[Touha]\n…haz tu mejor esfuerzo para la prueba final."
+        "es-ES": "[Touha]\n...haz tu mejor esfuerzo para la prueba final."
     },
     "3IOuBg": {
         "en-US": "[Touha]\nNever shall innocent blood be shed.",
@@ -1607,7 +1607,7 @@
     "4YOuBg": {
         "en-US": "[Touha]\n...You don't have to be afraid of me...",
         "pt-BR": "[Douha]\nEu tenho que me divertir com alguma coisa de vez em quando, não é?",
-        "es-ES": "[Touha]\n…No me tengas miedo…"
+        "es-ES": "[Touha]\n...No me tengas miedo..."
     },
     "4oOuBg": {
         "en-US": "Boohae",
@@ -1617,7 +1617,7 @@
     "44OuBg": {
         "en-US": "[Boohae]\n...",
         "pt-BR": "[Puhae]\n...",
-        "es-ES": "[Boohae]\n…"
+        "es-ES": "[Boohae]\n..."
     },
     "5IOuBg": {
         "en-US": "[Boohae]\n......",
@@ -1637,12 +1637,12 @@
     "54OuBg": {
         "en-US": "...excuse me...?",
         "pt-BR": "Com licença...",
-        "es-ES": "¿Disculpa…?"
+        "es-ES": "¿Disculpa...?"
     },
     "6IOuBg": {
         "en-US": "[Boohae]\n...\nYou just interrupted my meditation, I should break your legs...",
         "pt-BR": "[Puhae]\nO que foi?\nVocê deve uma razão muito boa para que eu te deixe com vida...",
-        "es-ES": "[Boohae]\n…\nAcabas de interrumpir mi meditación. Debería romperte las piernas…"
+        "es-ES": "[Boohae]\n...\nAcabas de interrumpir mi meditación. Debería romperte las piernas..."
     },
     "6YOuBg": {
         "en-US": "[Boohae]\n........\nI will give you a chance to explain why you interrupted me.",
@@ -1657,7 +1657,7 @@
     "64OuBg": {
         "en-US": "[Boohae]\nWell, start explaining... or you'll be crawling soon...",
         "pt-BR": "[Puhae]\nVamos. O que te trouxe aqui?\nExplique-se.",
-        "es-ES": "[Boohae]\nBueno, empieza a explicar… o pronto estarás de rodillas…"
+        "es-ES": "[Boohae]\nBueno, empieza a explicar... o pronto estarás de rodillas..."
     },
     "7IOuBg": {
         "en-US": "Touha sent me.",
@@ -1672,12 +1672,12 @@
     "7oOuBg": {
         "en-US": "[Boohae]\nI see...\nWell then, let's see....",
         "pt-BR": "[Puhae]\nIsso é verdade?\nDeixe-me ver.",
-        "es-ES": "[Boohae]\nYa veo…\nBien, veamos…"
+        "es-ES": "[Boohae]\nYa veo...\nBien, veamos..."
     },
     "74OuBg": {
         "en-US": "[Boohae]\n....your body seems..\nstrengthened. Good...",
         "pt-BR": "[Puhae]\nSim... Seu espírito parece estar...\nFluindo, sim, está de acordo.",
-        "es-ES": "[Boohae]\n…Tu cuerpo se ve…\nfortalecido. Bien…"
+        "es-ES": "[Boohae]\n...Tu cuerpo se ve...\nfortalecido. Bien..."
     },
     "8IOuBg": {
         "en-US": "[Boohae]\nWhat did you do with Touha?",
@@ -1687,7 +1687,7 @@
     "8YOuBg": {
         "en-US": "Umm... well...ah..",
         "pt-BR": "Hã...hum...éé´...",
-        "es-ES": "Mm… bueno… eh…"
+        "es-ES": "Mm... bueno... eh..."
     },
     "8oOuBg": {
         "en-US": "We recited a holy pledge.",
@@ -1707,7 +1707,7 @@
     "9YOuBg": {
         "en-US": "[Boohae]\n... I see...\nDidn't he do anything for you?",
         "pt-BR": "[Puhae]\nHmm... E depois?\nO ele fez alguma coisa?",
-        "es-ES": "[Boohae]\n… Ya veo…\n¿No hizo nada por ti?"
+        "es-ES": "[Boohae]\n... Ya veo...\n¿No hizo nada por ti?"
     },
     "9oOuBg": {
         "en-US": "He taught me about being a monk.",
@@ -1722,32 +1722,32 @@
     "+IOuBg": {
         "en-US": "[Boohae]\nThat is unimportant to me...\nStop disturbing me and go away!",
         "pt-BR": "[Puhae]\nInútil!\nSaia daqui!",
-        "es-ES": "[Boohae]\nEso no me importa…\n¡Deja de molestarme y vete!"
+        "es-ES": "[Boohae]\nEso no me importa...\n¡Deja de molestarme y vete!"
     },
     "+YOuBg": {
         "en-US": "[Boohae]\nThe teachings of becoming a monk are learned after becoming one.\nThis is not what I am looking for...",
         "pt-BR": "[Puhae]\nO que você diz é verdade, mas não é a resposta correta.\nPelo jeito você não prestou atenção na minha pergunta.",
-        "es-ES": "[Boohae]\nLas enseñanzas de los Monjes se aprenden después de que te unes a nosotros.\nEsto no es lo que estoy buscando…"
+        "es-ES": "[Boohae]\nLas enseñanzas de los Monjes se aprenden después de que te unes a nosotros.\nEsto no es lo que estoy buscando..."
     },
     "+oOuBg": {
         "en-US": "[Boohae]\nVery well, you seem to realize your body has something new inside.\nWell then, we shall move on to the next step...",
         "pt-BR": "[Puhae]\nSim. Você percebeu que seu corpo mudou.\nMuito bem, vamos ao próximo passo.",
-        "es-ES": "[Boohae]\nMuy bien, parece que te das cuenta de que tu cuerpo tiene algo nuevo dentro.\nBien, entonces, avanzaremos al siguiente paso…"
+        "es-ES": "[Boohae]\nMuy bien, parece que te das cuenta de que tu cuerpo tiene algo nuevo dentro.\nBien, entonces, avanzaremos al siguiente paso..."
     },
     "+4OuBg": {
         "en-US": "[Boohae]\n...You interrupted me to tell me that...?\nGet lost before I break your legs...",
         "pt-BR": "[Puhae]\nChecou seu...\nOra, não desperdice meu tempo e saia daqui!",
-        "es-ES": "[Boohae]\n¿Me interrumpiste para decirme eso…?\nLárgate antes de que te rompa las piernas…"
+        "es-ES": "[Boohae]\n¿Me interrumpiste para decirme eso...?\nLárgate antes de que te rompa las piernas..."
     },
     "/IOuBg": {
         "en-US": "[Boohae]\n........\n...you must have a death wish to have interrupted me intentionally...",
         "pt-BR": "[Puhae]\n........\nSim, vá enquanto ainda tem suas pernas para andar.",
-        "es-ES": "[Boohae]\n........\n…Debes desear morir para haberme interrumpido a propósito…"
+        "es-ES": "[Boohae]\n........\n...Debes desear morir para haberme interrumpido a propósito..."
     },
     "/YOuBg": {
         "en-US": "[Boohae]\nAlright... well we have two tests...\nChoose which one you want to do...",
         "pt-BR": "[Puhae]\nEsta prova não é como as outras. Ela tem duas variações.\nEscolha a que achar melhor para seu treinamento.",
-        "es-ES": "[Boohae]\nMuy bien… tenemos dos pruebas…\nElige cuál quieres hacer…"
+        "es-ES": "[Boohae]\nMuy bien... tenemos dos pruebas...\nElige cuál quieres hacer..."
     },
     "/oOuBg": {
         "en-US": "Gathering mushrooms",
@@ -1762,7 +1762,7 @@
     "AISuBg": {
         "en-US": "[Boohae]\nHmm....gathering mushrooms. So you want to test your tolerance huh?\nGo prepare and come back later when you're ready.",
         "pt-BR": "[Puhae]\nColher cogumelos... Então Você quer testar sua paciência?\nMuito bem. Fale comigo de novo quando quiser começar o teste.",
-        "es-ES": "[Boohae]\nMmm… recolectar hongos. Así que quieres poner a prueba tu tolerancia, ¿eh?\nVe a prepararte y vuelve más tarde cuando lo hayas hecho."
+        "es-ES": "[Boohae]\nMmm... recolectar hongos. Así que quieres poner a prueba tu tolerancia, ¿eh?\nVe a prepararte y vuelve más tarde cuando lo hayas hecho."
     },
     "AYSuBg": {
         "en-US": "[Boohae]\nGood choice. Forcing your physical limits to their boundaries and grants a higher amount of self control.\nGo prepare and come back later when you're ready.",
@@ -1807,7 +1807,7 @@
     "CYSuBg": {
         "en-US": "[Boohae]\nAll you have to do is run around the building as many times as you're required.\nWell... get going.",
         "pt-BR": "[Puhae]\nVocê terá que correr duas voltas em uma pista especial.\nAgora vá.",
-        "es-ES": "[Boohae]\nLo único que tienes que hacer es correr alrededor del edificio tantas veces como se te pida.\nBueno… En marcha."
+        "es-ES": "[Boohae]\nLo único que tienes que hacer es correr alrededor del edificio tantas veces como se te pida.\nBueno... En marcha."
     },
     "CoSuBg": {
         "en-US": "[Boohae]\nNow, go visit 'Tomoon'. How many times should I tell you this?\nNow you have a lot of chance to damage your body because you're so exhausted right now.\n'Tomoon' is staying in a deepest place inside a building near this abbey.",
@@ -1827,7 +1827,7 @@
     "DYSuBg": {
         "en-US": "[Boohae]\nHmmmm....!!",
         "pt-BR": "[Puhae]\nHurm....!!",
-        "es-ES": "[Boohae]\n¡¡Mmm…!!"
+        "es-ES": "[Boohae]\n¡¡Mmm...!!"
     },
     "DoSuBg": {
         "en-US": "Door Keeper",
@@ -1837,7 +1837,7 @@
     "D4SuBg": {
         "en-US": "[Keeper Chorip]\n....this place is for those\n in testing for becoming a monk.",
         "pt-BR": "[Guarda Chefe, Chori]\nEste é o lugar de exames para aqueles que desejam se tornar Monges.\nEm que posso te ajudar?",
-        "es-ES": "[Guardián Chorip]\n…Este lugar es para quienes\n realizan las pruebas a fin de unirse a los Monjes."
+        "es-ES": "[Guardián Chorip]\n...Este lugar es para quienes\n realizan las pruebas a fin de unirse a los Monjes."
     },
     "EISuBg": {
         "en-US": "[Keeper Chorip]\nHuh? Did you just say Boohae?",
@@ -1847,7 +1847,7 @@
     "EYSuBg": {
         "en-US": "[Keeper Chorip]\nBoohae... tends to hide in some quite places, so you might not be able to find him. For instance... a corner...",
         "pt-BR": "[Guarda Chefe, Chori]\nEle não é muito fácil de ser encontrado. O Puhae gosta de viver afastado dos outros... Ele deve estar em algum CANTO, sabe? *Pisca*",
-        "es-ES": "[Guardián Chorip]\nBoohae… tiende a esconderse en lugares tranquilos, así que quizá no puedas encontrarlo. Por ejemplo… en un rincón…"
+        "es-ES": "[Guardián Chorip]\nBoohae... tiende a esconderse en lugares tranquilos, así que quizá no puedas encontrarlo. Por ejemplo... en un rincón..."
     },
     "EoSuBg": {
         "en-US": "[Keeper Chorip]\nIs your name {0}?",
@@ -1857,17 +1857,17 @@
     "E4SuBg": {
         "en-US": "[Keeper Chorip]\nAlright you're cool... go on in. Your test is waiting for you. Good luck.",
         "pt-BR": "[Guarda Chefe, Chori]\nMuito bem! Pode entrar! O próximo teste lhe espera!",
-        "es-ES": "[Guardián Chorip]\nDe acuerdo, está bien… entra. Tu examen te está esperando. Buena suerte."
+        "es-ES": "[Guardián Chorip]\nDe acuerdo, está bien... entra. Tu examen te está esperando. Buena suerte."
     },
     "FISuBg": {
         "en-US": "[Keeper Chorip]\nYeah right, I know who you are... get in there... your test is ready.",
         "pt-BR": "[Guarda Chefe, Chori]\nNão?! Como não? Deixe de brincadeira e entre! O próximo teste lhe espera!",
-        "es-ES": "[Guardián Chorip]\nSí, claro, sé quién eres… Entra ahí… Tu examen está listo."
+        "es-ES": "[Guardián Chorip]\nSí, claro, sé quién eres... Entra ahí... Tu examen está listo."
     },
     "FYSuBg": {
         "en-US": "[Keeper Chorip]\n...please be quiet inside.",
         "pt-BR": "[Guarda Chefe, Chori]\nPor favor, evite fazer muito barulho aqui dentro.",
-        "es-ES": "[Guardián Chorip]\n…Guarda silencio adentro, por favor."
+        "es-ES": "[Guardián Chorip]\n...Guarda silencio adentro, por favor."
     },
     "FoSuBg": {
         "en-US": "Bashu",
@@ -1877,12 +1877,12 @@
     "F4SuBg": {
         "en-US": "[Bashu]\nSo, which test do you want to do...?",
         "pt-BR": "[Bashyu]\nEm qual das salas do próximo teste você quer entrar?",
-        "es-ES": "[Bashu]\nEntonces, ¿qué prueba quieres hacer…?"
+        "es-ES": "[Bashu]\nEntonces, ¿qué prueba quieres hacer...?"
     },
     "GISuBg": {
         "en-US": "[Bashu]\nFrom what I've heard, you chose the mushroom test...\nOh well, it's still your choice.",
         "pt-BR": "[Bashyu]\nAo que parece você escolheu colher cogumelos...\nDe qualquer maneira, não faz diferença pra mim, a escolha é sua.",
-        "es-ES": "[Bashu]\nPor lo que oí, elegiste la prueba de los hongos…\nEn fin, es tu elección."
+        "es-ES": "[Bashu]\nPor lo que oí, elegiste la prueba de los hongos...\nEn fin, es tu elección."
     },
     "GYSuBg": {
         "en-US": "[Bashu]\nWhich test hall do you wish to enter?",
@@ -1892,7 +1892,7 @@
     "GoSuBg": {
         "en-US": "[Bashu]\nWell, as far as I've been told, you chose the marathon test...\nOh well, it's your choice.",
         "pt-BR": "[Bashyu]\nAo que parece você escolheu o teste físico da maratona...\nDe qualquer maneira, não faz diferença pra mim, a escolha é sua.",
-        "es-ES": "[Bashu]\nBueno, por lo que me dijeron, elegiste la prueba de la maratón…\nBueno. Es tu elección."
+        "es-ES": "[Bashu]\nBueno, por lo que me dijeron, elegiste la prueba de la maratón...\nBueno. Es tu elección."
     },
     "G4SuBg": {
         "en-US": "[Bashu]\nWhich test hall do you wish to enter?\nYou can choose which one you want.",
@@ -1922,7 +1922,7 @@
     "IISuBg": {
         "en-US": "[Bashu]\nWelcome... this place is a training place for monks, Saint Capitolina Abbey.\nWhen you go inside....you will meet Tomoon the oldest monk who succeeds to the predecessors,",
         "pt-BR": "[Bashyu]\nOlá, como vai? Este é o campo de treinamento de Monges de nosso mosteiro.\nSe você entrar, verá o monge Taomon, que guarda as glórias dos antigos Monges.",
-        "es-ES": "[Bashu]\nTe damos la bienvenida… este es un lugar de entrenamiento para Monjes, la Abadía de Santa Capitolina.\nCuando entres… conocerás a Tomoon, el Monje más anciano que sucede a los predecesores."
+        "es-ES": "[Bashu]\nTe damos la bienvenida... este es un lugar de entrenamiento para Monjes, la Abadía de Santa Capitolina.\nCuando entres... conocerás a Tomoon, el Monje más anciano que sucede a los predecesores."
     },
     "IYSuBg": {
         "en-US": "[Bashu]\nPlease be advised and do not touch anything.\nAnd please avoid talking loud in front of Tomoon.",
@@ -1947,22 +1947,22 @@
     "JYSuBg": {
         "en-US": "[Monk Apprentice]\nJu... just run...\nuntil you're told to stop,\nRu...ruu....run!",
         "pt-BR": "[Monge Estagiário]\nÉ, bem, acho que não tem muito o que te dizer...\nÉ só correr até man-mandarem você parar.\nÉ só correr... e correr!",
-        "es-ES": "[Aprendiz de Monje]\nSo-Solo corre…\nhasta que te digan que pares,\n¡Co… cooo… rreeee!"
+        "es-ES": "[Aprendiz de Monje]\nSo-Solo corre...\nhasta que te digan que pares,\n¡Co... cooo... rreeee!"
     },
     "JoSuBg": {
         "en-US": "[Monk Apprentice]\nM... m... me? I'll run one of these days!",
         "pt-BR": "[Monge Estagiário]\nEu.. é, eu ainda vou correr aqui também, espero.",
-        "es-ES": "[Aprendiz de Monje]\n¿Y… yo? ¡Correré uno de estos días!"
+        "es-ES": "[Aprendiz de Monje]\n¿Y... yo? ¡Correré uno de estos días!"
     },
     "J4SuBg": {
         "en-US": "[Monk Apprentice]\nM... monk... are you going to be... a... m...m...monk??",
         "pt-BR": "[Monge Estagiário]\nHã, bem... Você quer me-mesmo ser Monge?",
-        "es-ES": "[Aprendiz de Monje]\nM-Monje… ¿serás… m-m-monje?"
+        "es-ES": "[Aprendiz de Monje]\nM-Monje... ¿serás... m-m-monje?"
     },
     "KISuBg": {
         "en-US": "[Monk Apprentice]\nAr...are...you...sure you are.. aren't... going to quit?",
         "pt-BR": "[Monge Estagiário]\nOu você quer de-desistir?",
-        "es-ES": "[Aprendiz de Monje]\n¿Se-seguro que… no… abandonarás?"
+        "es-ES": "[Aprendiz de Monje]\n¿Se-seguro que... no... abandonarás?"
     },
     "KYSuBg": {
         "en-US": "Quit.",
@@ -1977,17 +1977,17 @@
     "K4SuBg": {
         "en-US": "[Monk Apprentice]\n{0}...q.q..q. .quit! ...the marathon!! Y...you do not have what it takes to be a m... monk!",
         "pt-BR": "[Monge Estagiário]\nUuuuh... {0} desistiu! Não aguentou correr... Mas que mo-molenga! Huhuhuhu!",
-        "es-ES": "[Aprendiz de Monje]\n¡{0}… r-re-renuncia… a la maratón! ¡N-No tienes lo que se necesita para ser clase M-Monje!"
+        "es-ES": "[Aprendiz de Monje]\n¡{0}... r-re-renuncia... a la maratón! ¡N-No tienes lo que se necesita para ser clase M-Monje!"
     },
     "LISuBg": {
         "en-US": "{0}...q.q..q. .quit! ...the marathon!! Y...you do not have what it takes to be a m... monk!",
         "pt-BR": "Ei, pessoal, {0} desistiu do teste da maratona! Isso não se faz!",
-        "es-ES": "¡{0}… r-re-renuncia… a la maratón! ¡N-No tienes lo que se necesita para ser clase M-Monje!"
+        "es-ES": "¡{0}... r-re-renuncia... a la maratón! ¡N-No tienes lo que se necesita para ser clase M-Monje!"
     },
     "LYSuBg": {
         "en-US": "[Monk Apprentice]\nUntil you're told to stop,\nRu...ruu....run!",
         "pt-BR": "[Monge Estagiário]\nEntão é s-só correr o mais rápido possível.\nÉ, vai lá, corra até ma-mandarem pa-parar!",
-        "es-ES": "[Aprendiz de Monje]\nHasta que te digan que pares,\n¡Co… cooo… rreeee!"
+        "es-ES": "[Aprendiz de Monje]\nHasta que te digan que pares,\n¡Co... cooo... rreeee!"
     },
     "LoSuBg": {
         "en-US": "Now! This is the last lap!! If you make it you need to go visit Tomoon for the next test!",
@@ -1997,7 +1997,7 @@
     "L4SuBg": {
         "en-US": "[Supervisor]\nNow...you may go visit Tomoon.\nTomoon is in the deepest room inside a building near this abbey.",
         "pt-BR": "[Inspetora]\nMuito bem... Vá visitar o monge Taomon.\nEle se encontra no subsolo do prédio no centro do mosteiro.",
-        "es-ES": "[Supervisor]\nAhora… puedes ir a visitar a Tomoon.\nTomoon está en la sala más profunda de un edificio cercano a esta abadía."
+        "es-ES": "[Supervisor]\nAhora... puedes ir a visitar a Tomoon.\nTomoon está en la sala más profunda de un edificio cercano a esta abadía."
     },
     "MISuBg": {
         "en-US": "Congratulations!{0}!! You completed the marathon!",
@@ -2017,12 +2017,12 @@
     "M4SuBg": {
         "en-US": "[Hyunmoo]\nYou didn't bring enough mushrooms... go get some more.",
         "pt-BR": "[Hyunmoo]\nHmm... Não, ainda não. Colha mais cogumelos.",
-        "es-ES": "[Hyunmoo]\nNo trajiste suficientes hongos… ve a buscar más."
+        "es-ES": "[Hyunmoo]\nNo trajiste suficientes hongos... ve a buscar más."
     },
     "NISuBg": {
         "en-US": "[Hyunmoo]\nOr is it you want to quit... do you want to quit?",
         "pt-BR": "[Hyunmoo]\nOu quem sabe, você quer desistir?",
-        "es-ES": "[Hyunmoo]\nO será que quieres abandonar… ¿Quieres hacerlo?"
+        "es-ES": "[Hyunmoo]\nO será que quieres abandonar... ¿Quieres hacerlo?"
     },
     "NYSuBg": {
         "en-US": "[Hyunmoo]\nThen move!",
@@ -2032,7 +2032,7 @@
     "NoSuBg": {
         "en-US": "[Hyunmoo]\n.....I figured as much....you don't have a spirit.",
         "pt-BR": "[Hyunmoo]\nAh, mas que moleza é essa?",
-        "es-ES": "[Hyunmoo]\n…Me lo imaginaba… No tienes espíritu."
+        "es-ES": "[Hyunmoo]\n...Me lo imaginaba... No tienes espíritu."
     },
     "N4SuBg": {
         "en-US": "{0}, has quit his testing to become a monk.",
@@ -2082,7 +2082,7 @@
     "QISuBg": {
         "en-US": "[Hyunmoo]\n.....yeah I thought as much....you don't have the spirit needed to become a monk.",
         "pt-BR": "[Hyunmoo]\n.....sim, eu já imaginei....você não tem o espírito necessário para se tornar um monge.",
-        "es-ES": "[Hyunmoo]\n…Sí, ya me lo imaginaba… No tienes el espíritu para ser Monje."
+        "es-ES": "[Hyunmoo]\n...Sí, ya me lo imaginaba... No tienes el espíritu para ser Monje."
     },
     "QYSuBg": {
         "en-US": "{0}, has quit his training to become a monk.",
@@ -2092,7 +2092,7 @@
     "QoSuBg": {
         "en-US": "[Hyunmoo]\n...hmm... not bad.\nOk, you passed.",
         "pt-BR": "[Hyunmoo]\nHmm... Um bom número de cogumelos...\nTudo bem. Você passou.",
-        "es-ES": "[Hyunmoo]\n…Mmm… No está mal.\nMuy bien, pasaste."
+        "es-ES": "[Hyunmoo]\n...Mmm... No está mal.\nMuy bien, pasaste."
     },
     "Q4SuBg": {
         "en-US": "[Hyunmoo]\nGo meet Tomoon for your next test.\nTomoon is staying in the deepest room inside a building near this abbey.",
@@ -2117,7 +2117,7 @@
     "R4SuBg": {
         "en-US": "[Hyunmoo]\nTo be honest with you, I think gardening is the greatest thing ever...\nWe should give thanks to the brothers who prepare our food for us through their hard work.",
         "pt-BR": "[Hyunmoo]\nA maravilha da criação pode ser vista no crescimento das plantas...",
-        "es-ES": "[Hyunmoo]\nCon toda sinceridad, creo que la jardinería es lo mejor que hay…\nDebemos dar las gracias a los hermanos que nos proveen la comida con su arduo trabajo."
+        "es-ES": "[Hyunmoo]\nCon toda sinceridad, creo que la jardinería es lo mejor que hay...\nDebemos dar las gracias a los hermanos que nos proveen la comida con su arduo trabajo."
     },
     "SISuBg": {
         "en-US": "[Hyunmoo]\nDon't forget to thank them as you go by for their hard work.",
@@ -2172,12 +2172,12 @@
     "UoSuBg": {
         "en-US": "[Tomoon]\nHmm... you failed?\nCheer up! Failure is but a process to success!\nGo! Start again! Kill them all!!",
         "pt-BR": "[Taomon]\nVocê falhou?\nSe acha que pode lutar como um cão qualquer, deveria ter sido um espadachim!\nVamos, não quero ouvir choradeira! Elimine esses inimigos! Muahahaha!",
-        "es-ES": "[Tomoon]\nMmm… ¿Fallaste?\n¡Ánimo! ¡El fracaso es parte del proceso hacia el éxito!\n¡Adelante! ¡Vuelve a empezar! ¡Mátalos a todos!"
+        "es-ES": "[Tomoon]\nMmm... ¿Fallaste?\n¡Ánimo! ¡El fracaso es parte del proceso hacia el éxito!\n¡Adelante! ¡Vuelve a empezar! ¡Mátalos a todos!"
     },
     "U4SuBg": {
         "en-US": "[Tomoon]\nExcellent job!!\nI knew you'd make it through!\nNow...I will give you a secret potion which will double your physical strength.",
         "pt-BR": "[Taomon]\nMuahahahaha!\nMuito bem, você não desperdiçou nosso tempo!\nTe darei a poção que aumentará seu ki para a passagem de classe!",
-        "es-ES": "[Tomoon]\n¡Excelente trabajo!\n¡Sabía que lo lograrías!\nAhora… te daré una poción secreta que duplicará tu fuerza física."
+        "es-ES": "[Tomoon]\n¡Excelente trabajo!\n¡Sabía que lo lograrías!\nAhora... te daré una poción secreta que duplicará tu fuerza física."
     },
     "VISuBg": {
         "en-US": "Drink this potion and you will be able to become a monk!!!\n... now go back to sensei Moohae!!!",
@@ -2192,7 +2192,7 @@
     "VoSuBg": {
         "en-US": "[Tomoon]\n....be quiet.\n.....",
         "pt-BR": "[Taomon]\nSilêncio!\nQuem é que vem aqui me perturbar na minha meditação?!",
-        "es-ES": "[Tomoon]\n…Silencio.\n....."
+        "es-ES": "[Tomoon]\n...Silencio.\n....."
     },
     "V4SuBg": {
         "en-US": "[Tomoon]\nI will not allow anyone to cause any trouble in this abbey.",
@@ -2247,7 +2247,7 @@
     "YYSuBg": {
         "en-US": "[Proctor]\n....Oh yes and also there are monsters wandering around in the maze, please clear them.\nGood luck.",
         "pt-BR": "[Inspetora]\nExistem monstros vagando por este labirinto também, por isso chamamos de Exorcismo.\nVocê tem de matar todos eles. Boa sorte.",
-        "es-ES": "[Supervisor]\n…Ah, sí, y también hay monstruos deambulando por el laberinto. Elimínalos, por favor.\nBuena suerte."
+        "es-ES": "[Supervisor]\n...Ah, sí, y también hay monstruos deambulando por el laberinto. Elimínalos, por favor.\nBuena suerte."
     },
     "YoSuBg": {
         "en-US": "Zombie",
@@ -2287,7 +2287,7 @@
     "aYSuBg": {
         "en-US": "Grrrr...\nAll monsters in the monk job chance place have been reset.\nTimer's activated.",
         "pt-BR": "Grrrr...\nTodos os monstros no local de chance de trabalho do monge foram reiniciados.\nO cronômetro está ativado.",
-        "es-ES": "Grrrr…\nSe restablecieron todos los monstruos en el lugar de cambio de clase a Monje.\nEl temporizador está activado."
+        "es-ES": "Grrrr...\nSe restablecieron todos los monstruos en el lugar de cambio de clase a Monje.\nEl temporizador está activado."
     },
     "aoSuBg": {
         "en-US": "[Sensei Moohae]\nI sense a fighting spirit, do you wish to become a monk?",

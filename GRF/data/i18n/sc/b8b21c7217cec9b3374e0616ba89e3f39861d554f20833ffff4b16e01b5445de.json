@@ -92,7 +92,7 @@
     "0mVS": {
         "en-US": "[Master Tailor]\nAnd another thing - once I fail to add art to it, it becomes unusable... you'll need to buy a new one in that case.",
         "pt-BR": "[Mestre Alfaiate]\nE outra coisa: quando eu não conseguir adicionar arte a ele, ele se tornará inutilizável... nesse caso, você precisará comprar um novo.",
-        "es-ES": "[Maestro Sastre]\nY otra cosa, si no logro decorarla, entonces no podrás usarla… En ese caso, tendrás que comprar una nueva."
+        "es-ES": "[Maestro Sastre]\nY otra cosa, si no logro decorarla, entonces no podrás usarla... En ese caso, tendrás que comprar una nueva."
     },
     "02VS": {
         "en-US": "Come on, what's the rush?",
@@ -112,7 +112,7 @@
     "1mVS": {
         "en-US": "[Master Tailor]\nOh......\nI can't believe I messed up.",
         "pt-BR": "[Mestre Alfaiate]\nOh......\nNão acredito que fiz besteira.",
-        "es-ES": "[Maestro Sastre]\nOh…\nNo puedo creer que cometiera un error."
+        "es-ES": "[Maestro Sastre]\nOh...\nNo puedo creer que cometiera un error."
     },
     "12VS": {
         "en-US": "[Master Tailor]\nI want to be alone. Go away!",
@@ -177,7 +177,7 @@
     "42VS": {
         "en-US": "[Pendant Crafter]\nWhat~!!\nWhat on earth is wrong with it!!",
         "pt-BR": "[Joalheiro]\nO quê?!!!\nO que diabos há de errado com ele!!!",
-        "es-ES": "[Artesano de Colgantes]\n¡¿Qué…?!\n¡¿Qué fue lo que pasó?!"
+        "es-ES": "[Artesano de Colgantes]\n¡¿Qué...?!\n¡¿Qué fue lo que pasó?!"
     },
     "5GVS": {
         "en-US": "[Pendant Crafter]\nLooks like I did it!",
@@ -247,7 +247,7 @@
     "8WVS": {
         "en-US": "[Bulberry Westhood]\nMy specialty is bringing out the hidden power at the small cost of... \n5 Mora Coins.",
         "pt-BR": "[Bulberry Westhood]\nMinha especialidade é trazer à tona o poder oculto com o pequeno custo de... \n5 Moedas de Mora.",
-        "es-ES": "[Bulberry Westhood]\nMi especialidad es sacar a relucir su poder oculto por tan solo… \n5monedas de Mora."
+        "es-ES": "[Bulberry Westhood]\nMi especialidad es sacar a relucir su poder oculto por tan solo... \n5monedas de Mora."
     },
     "8mVS": {
         "en-US": "[Bulberry Westhood]\nCome back if you change your mind.",
@@ -272,7 +272,7 @@
     "9mVS": {
         "en-US": "Maybe later, sir...",
         "pt-BR": "Talvez mais tarde, senhor...",
-        "es-ES": "Tal vez después, señor…"
+        "es-ES": "Tal vez después, señor..."
     },
     "92VS": {
         "en-US": "I'd like to own a quality item!",
@@ -282,12 +282,12 @@
     "+GVS": {
         "en-US": "[Bulberry Westhood]\nHa...!\nYou say 'later' when you can have the best quality item right away? Well, have it your own way.",
         "pt-BR": "[Bulberry Westhood]\nHa...!\nVocê diz 'mais tarde' quando pode ter o item de melhor qualidade imediatamente? Bem, faça do seu jeito.",
-        "es-ES": "[Bulberry Westhood]\n¡Ja…!\n¿Por qué dejarlo para mañana si puedes tener el objeto de mejor calidad hoy? Bueno, como quieras."
+        "es-ES": "[Bulberry Westhood]\n¡Ja...!\n¿Por qué dejarlo para mañana si puedes tener el objeto de mejor calidad hoy? Bueno, como quieras."
     },
     "+WVS": {
         "en-US": "[Bulberry Westhood]\nAaarrgghh, this is impossible!\nMy! My Loki's Scarf!....",
         "pt-BR": "[Bulberry Westhood]\nAaarrgghh, isso é impossível!\nMeu! Meu Sobrepeliz Sombrio do Sicário!....",
-        "es-ES": "[Bulberry Westhood]\n¡Aaaaah! ¡Esto es imposible!\n¡Cielos! ¡Mi bufanda de Loki…!"
+        "es-ES": "[Bulberry Westhood]\n¡Aaaaah! ¡Esto es imposible!\n¡Cielos! ¡Mi bufanda de Loki...!"
     },
     "+mVS": {
         "en-US": "[Bulberry Westhood]\nOh, I apologize for my disgraceful behavior. I was too upset.",

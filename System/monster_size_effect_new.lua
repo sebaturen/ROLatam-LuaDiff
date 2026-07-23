@@ -1,3 +1,5 @@
+
+
 EFFECT = {}
 EFFECT.EF_NONE = -1
 EFFECT.EF_HIT1 = 0
@@ -1108,6 +1110,16 @@ EFFECT.EF_RED_WAVE3 = 1616
 EFFECT.EF_BLACK_BUBBLE1 = 1617
 EFFECT.EF_BLACK_BUBBLE2 = 1618
 EFFECT.EF_BLACK_BUBBLE3 = 1619
+EFFECT.MAGIC_CIRCLE_ANGEL = 2356
+EFFECT.MAGIC_CIRCLE_ANIMAL = 2357
+EFFECT.MAGIC_CIRCLE_DEVIL = 2358
+EFFECT.MAGIC_CIRCLE_DRAGON = 2359
+EFFECT.MAGIC_CIRCLE_FISH = 2360
+EFFECT.MAGIC_CIRCLE_HUMAN = 2361
+EFFECT.MAGIC_CIRCLE_INSECT = 2362
+EFFECT.MAGIC_CIRCLE_NOTHING = 2363
+EFFECT.MAGIC_CIRCLE_PLANT = 2364
+EFFECT.MAGIC_CIRCLE_UNDEAD = 2365
 EFFECT.EF_AMDARAIS_EFFECT = 1419
 tbl = {
 	[2603] = {
@@ -3897,9 +3909,7 @@ tbl = {
 	[20648] = {
 		MonsterSize = 1,
 		MonsterEff = {
-			EFFECT.EF_GREEN99_3,
-			EFFECT.EF_GREEN99_5,
-			EFFECT.EF_GREEN99_6
+			EFFECT.EF_LEVEL99_RED
 		}
 	},
 	[20426] = {
@@ -4014,6 +4024,102 @@ tbl = {
 		MonsterSize = 0.8,
 		MonsterEff = {
 			EFFECT.EF_NONE
+		}
+	},
+	[10403] = {
+		MonsterSize = 0.7,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10404] = {
+		MonsterSize = 0.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10405] = {
+		MonsterSize = 0.6,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10406] = {
+		MonsterSize = 0.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10407] = {
+		MonsterSize = 0.6,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10408] = {
+		MonsterSize = 0.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10409] = {
+		MonsterSize = 0.6,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10410] = {
+		MonsterSize = 0.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10411] = {
+		MonsterSize = 0.6,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10412] = {
+		MonsterSize = 0.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10413] = {
+		MonsterSize = 0.6,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10414] = {
+		MonsterSize = 0.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[10415] = {
+		MonsterSize = 0.6,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[20112] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_BOTTOM_MANHOLE
+		}
+	},
+	[20351] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_BOTTOM_BLOODYLUST
+		}
+	},
+	[20118] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_LEVEL99_RED
 		}
 	}
 }

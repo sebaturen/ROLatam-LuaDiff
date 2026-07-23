@@ -77,7 +77,7 @@
     "byFg": {
         "en-US": "[Eclage Guard]\nPrison is a place for criminals. Why would an adventurer like you go there?\nWell, it's a little suspicious...but I'll tell you the location. Follow the path on your left. They don't let anyone in though.",
         "pt-BR": "[Guarda de Eclage]\nA prisão é um lugar para criminosos. Por que um aventureiro como você iria para lá?\nBem, é um pouco suspeito... mas vou lhe dizer o local. Siga o caminho à sua esquerda. Mas eles não deixam ninguém entrar.",
-        "es-ES": "[Guardia de Eclage]\nLa prisión es un lugar para delincuentes. ¿Por qué iría allí un trotamundos como tú?\nBueno, es un poco sospechoso… pero te diré la ubicación. Sigue el camino de la izquierda. Aunque no dejan entrar a nadie."
+        "es-ES": "[Guardia de Eclage]\nLa prisión es un lugar para delincuentes. ¿Por qué iría allí un trotamundos como tú?\nBueno, es un poco sospechoso... pero te diré la ubicación. Sigue el camino de la izquierda. Aunque no dejan entrar a nadie."
     },
     "cCFg": {
         "en-US": "[Eclage Guard]\nAll your pain and weariness melt away in the arms of nature. Restore your mind and body at Eclage Clinic.\nFollow the path on your left",
@@ -157,7 +157,7 @@
     "fyFg": {
         "en-US": "[Injured Laphine]\nOoww...\nWhere...am...I?",
         "pt-BR": "[Laphine Ferida]\nOoww...\nOnde... estou...?",
-        "es-ES": "[Laphine herido]\nOohh…\n¿Dónde… estoy?"
+        "es-ES": "[Laphine herido]\nOohh...\n¿Dónde... estoy?"
     },
     "gCFg": {
         "en-US": "[Doctor]\nYou're at a clinic. Don't worry.\nWe stopped the bleeding and cast emergency spells.\nYou were bleeding a lot. That was close, you know.",
@@ -167,12 +167,12 @@
     "gSFg": {
         "en-US": "[Injured Laphine]\n......\nWhat, no, I...I don't feel anything...what's going on?",
         "pt-BR": "[Laphine Ferida]\n......\nO quê, não, eu... não estou sentindo nada... o que está acontecendo?",
-        "es-ES": "[Laphine herido]\n……\nQué, no, yo… no siento nada… ¿qué pasa?"
+        "es-ES": "[Laphine herido]\n......\nQué, no, yo... no siento nada... ¿qué pasa?"
     },
     "giFg": {
         "en-US": "[Doctor]\nUmm...the arrow damaged your wing pretty badly...",
         "pt-BR": "[Médico]\nHumm... a flecha danificou bastante sua asa...",
-        "es-ES": "[Médico]\nMmm… la flecha dañó bastante tu ala…"
+        "es-ES": "[Médico]\nMmm... la flecha dañó bastante tu ala..."
     },
     "gyFg": {
         "en-US": "[Injured Laphine]\n...what do you mean?",
@@ -182,12 +182,12 @@
     "hCFg": {
         "en-US": "[Doctor]\nWell...I was going to tell you after you recover, but you should know. You can't decorate the Yai anymore. \nIn other words, you injured your wing. The arrow went through the most critical part in the wing.",
         "pt-BR": "[Doutor]\nBem... eu ia lhe contar depois que você se recuperasse, mas precisa saber. Você não pode mais decorar o Yai. \nEm outras palavras, você feriu sua asa. A flecha atravessou a parte mais crítica dela.",
-        "es-ES": "[Médico]\nBueno… iba a decírtelo después de que te recuperaras, pero deberías saberlo. Ya no puedes decorar el yai. \nEn otras palabras, te lesionaste el ala. La flecha atravesó la parte más importante del ala."
+        "es-ES": "[Médico]\nBueno... iba a decírtelo después de que te recuperaras, pero deberías saberlo. Ya no puedes decorar el yai. \nEn otras palabras, te lesionaste el ala. La flecha atravesó la parte más importante del ala."
     },
     "hSFg": {
         "en-US": "[Injured Laphine]\nWhat? No way...please...doctor!! No!!",
         "pt-BR": "[Laphine Ferida]\nO quê? De jeito nenhum... por favor... doutor!!! Não!!",
-        "es-ES": "[Laphine herido]\n¿Qué? ¡No puede ser… por favor,… doctor! ¡No!"
+        "es-ES": "[Laphine herido]\n¿Qué? ¡No puede ser... por favor,... doctor! ¡No!"
     },
     "hiFg": {
         "en-US": "Doctor Laphine",
@@ -212,6 +212,6 @@
     "iiFg": {
         "en-US": "[Doctor]\nWell...I was going to tell you after you recover, but you should know. You can't decorate the Yai anymore.\nIn other words, you injured your wing. The arrow went through the most critical part in the wing.",
         "pt-BR": "[Doutor]\nBem... eu ia lhe contar depois que você se recuperasse, mas precisa saber. Você não pode mais decorar o Yai. \nEm outras palavras, você feriu sua asa. A flecha atravessou a parte mais crítica dela.",
-        "es-ES": "[Médico]\nBueno… iba a decírtelo después de que te recuperaras, pero deberías saberlo. Ya no puedes decorar el yai. \nEn otras palabras, te lesionaste el ala. La flecha atravesó la parte más importante del ala."
+        "es-ES": "[Médico]\nBueno... iba a decírtelo después de que te recuperaras, pero deberías saberlo. Ya no puedes decorar el yai. \nEn otras palabras, te lesionaste el ala. La flecha atravesó la parte más importante del ala."
     }
 }

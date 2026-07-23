@@ -42,7 +42,7 @@
     "KIycBw": {
         "en-US": "[Wish Robot]\nCome on... I'm just a piece of iron. That's far beyond my capability.",
         "pt-BR": "[Robô dos Desejos]\nQual é... Eu sou apenas um pedaço de metal. Isso está muito além das minhas capacidades.",
-        "es-ES": "[Robot de los Deseos]\nVamos… Solo soy un pedazo de hierro. Eso excede mis capacidades."
+        "es-ES": "[Robot de los Deseos]\nVamos... Solo soy un pedazo de hierro. Eso excede mis capacidades."
     },
     "KYycBw": {
         "en-US": "[Wish Robot]\nYikes! Who are you!",
@@ -72,7 +72,7 @@
     "LoycBw": {
         "en-US": "[USU commander Elena]\nLevedev guys baked it...\nThen, I have no choice but to taste it. Give it to me.",
         "pt-BR": "[Comandante Elena]\nForam os Levedev que cozinharam...\nEntão eu não tenho escolha a não ser experimentar. Me dê isso.",
-        "es-ES": "[Comandante Elena]\nLos gemelos Lebedev las hornearon…\nEntonces, no me queda más remedio que probarla. ¡Dámela!"
+        "es-ES": "[Comandante Elena]\nLos gemelos Lebedev las hornearon...\nEntonces, no me queda más remedio que probarla. ¡Dámela!"
     },
     "L4ycBw": {
         "en-US": "[USU commander Elena]\nIt smells good.\nSeems like they gave a great effort. Tell them thanks.",
@@ -92,7 +92,7 @@
     "MoycBw": {
         "en-US": "[USU commander Elena]\nAlthough I leashed them, they keep thinking about running out ...\nMaybe their brains are filled with gunpowder. Silly weirdos.",
         "pt-BR": "[Comandante Elena]\nEmbora eu mantenha as rédeas firmes, eles vivem pensando em fugir...\nTalvez seus cérebros estejam cheios de pólvora. Esquisitões tolos.",
-        "es-ES": "[Comandante Elena]\nAunque los amarré, siguen pensando en salir corriendo…\nQuizá tengan el cerebro lleno de pólvora. Estúpidos bichos raros."
+        "es-ES": "[Comandante Elena]\nAunque los amarré, siguen pensando en salir corriendo...\nQuizá tengan el cerebro lleno de pólvora. Estúpidos bichos raros."
     },
     "M4ycBw": {
         "en-US": "[USU commander Elena]\nWait, who are you?",
@@ -122,7 +122,7 @@
     "OIycBw": {
         "en-US": "[{0}]\nI am... You revealed you're an adventurer who came to help Secret Wings and requested cooperation to the Rebellion.",
         "pt-BR": "[{0}]\nEu sou... ^FF0000Você revelou que é um aventureiro que veio ajudar o Vento Secreto e pediu apoio à Rebelião.^000000",
-        "es-ES": "[{0}]\nSoy… Revelaste que eres la persona que vino a ayudar al Viento Secreto y pidió cooperación a Rebelión."
+        "es-ES": "[{0}]\nSoy... Revelaste que eres la persona que vino a ayudar al Viento Secreto y pidió cooperación a Rebelión."
     },
     "OYycBw": {
         "en-US": "[USU commander Elena]\nSecret Wings? They are just rookies. All they do is suck up to the president.\nYou're so brave. Who told you to visit me?\nI don't want to dance to chicks flapping their wings. Just go away.",
@@ -132,7 +132,7 @@
     "OoycBw": {
         "en-US": "[{0}]\nNo, wait please. In fact, I... no, my companion...",
         "pt-BR": "[{0}]\nNão, espere, por favor. Na verdade, eu... Não, meu companheiro...",
-        "es-ES": "[{0}]\nNo, espera por favor. De hecho, yo… no, mi compañero…"
+        "es-ES": "[{0}]\nNo, espera por favor. De hecho, yo... no, mi compañero..."
     },
     "O4ycBw": {
         "en-US": "[USU commander Elena]\nYour companion saved Gony?\n......So? You want a reward?\nI really hate those who try to use other's lives as they please.",
@@ -142,7 +142,7 @@
     "PIycBw": {
         "en-US": "[USU commander Elena]\nWell... I have a better idea.\nUnlike the wimp chatting downstairs, you look quite interesting.",
         "pt-BR": "[Comandante Elena]\nBom... Eu tenho uma ideia melhor.\nDiferente do fracote conversando lá embaixo, você parece interessante.",
-        "es-ES": "[Comandante Elena]\nBueno… Tengo una idea mejor.\nA diferencia de ese debilucho que está charlando ahí abajo, pareces bastante interesante."
+        "es-ES": "[Comandante Elena]\nBueno... Tengo una idea mejor.\nA diferencia de ese debilucho que está charlando ahí abajo, pareces bastante interesante."
     },
     "PYycBw": {
         "en-US": "[USU commander Elena]\nYou said you were just an adventurer, didn't you?\nGreat. If you defeat me in a fight, I will listen to your story.",
@@ -192,7 +192,7 @@
     "RoycBw": {
         "en-US": "[{0}]\nI don't listen to someone weaker than m...",
         "pt-BR": "[{0}]\nEu não dou ouvidos a alguém mais fraco do que eu...",
-        "es-ES": "[{0}]\nNo escucho a personas más débiles que yo…"
+        "es-ES": "[{0}]\nNo escucho a personas más débiles que yo..."
     },
     "R4ycBw": {
         "en-US": "[USU commander Elena]\nHmm? I misheard something. Haha, could you repeat it?",
@@ -207,7 +207,7 @@
     "SYycBw": {
         "en-US": "[{0}]\nYes... I'll do it.",
         "pt-BR": "[{0}]\nCerto... Eu farei isso.",
-        "es-ES": "[{0}]\nSí… Lo haré."
+        "es-ES": "[{0}]\nSí... Lo haré."
     },
     "SoycBw": {
         "en-US": "[USU commander Elena]\nGreat. Tell me when you are ready.",
@@ -232,7 +232,7 @@
     "ToycBw": {
         "en-US": "[USU commander Elena]\nHmm... By the way, are you really going to fight me?\nI am an expert in killing people. And fighting is not your main occupation. You cannot beat me.",
         "pt-BR": "[Comandante Elena]\nHumm... A propósito, você vai mesmo me enfrentar?\nEu sou uma especialista em matar pessoas. E lutar não é a sua ocupação principal. Você não pode me vencer.",
-        "es-ES": "[Comandante Elena]\nMmm… Por cierto, ¿de verdad pelearás conmigo?\nSoy una experta en matar gente. Y pelear no es tu especialidad. No puedes vencerme."
+        "es-ES": "[Comandante Elena]\nMmm... Por cierto, ¿de verdad pelearás conmigo?\nSoy una experta en matar gente. Y pelear no es tu especialidad. No puedes vencerme."
     },
     "T4ycBw": {
         "en-US": "But I will fight.",
@@ -262,7 +262,7 @@
     "VIycBw": {
         "en-US": "...I think you're right. I give up.",
         "pt-BR": "...Eu acho que você tem razão. Desisto.",
-        "es-ES": "…Creo que tienes razón. Me rindo."
+        "es-ES": "...Creo que tienes razón. Me rindo."
     },
     "VYycBw": {
         "en-US": "[USU commander Elena]\nYou must a fool who doesn't know what's going on.\nDo you think I'm kidding? Or your life is too heavy and you'd like to put everything down?",
@@ -307,7 +307,7 @@
     "XYycBw": {
         "en-US": "[{0}]\nOh... Pardon?!",
         "pt-BR": "[{0}]\nAh... Hein?!",
-        "es-ES": "[{0}]\nOh… ¡¿Perdón?!"
+        "es-ES": "[{0}]\nOh... ¡¿Perdón?!"
     },
     "XoycBw": {
         "en-US": "[USU commander Elena]\nYou said you needed my approval to persuade us. So I approve it.\nI like spunky fellows. It's fun to fight with them.",
@@ -417,7 +417,7 @@
     "c4ycBw": {
         "en-US": "[USU commander Elena]\n......Hmm.",
         "pt-BR": "[Comandante Elena]\n.....Humm.",
-        "es-ES": "[Comandante Elena]\n…Mmm."
+        "es-ES": "[Comandante Elena]\n...Mmm."
     },
     "dIycBw": {
         "en-US": "[USU commander Elena]\nA coward who's scared at me won't be helpful for the Rebellion at all.\nGet lost.",
@@ -432,7 +432,7 @@
     "doycBw": {
         "en-US": "[USU commander Elena]\n...Hmm. So this is it.\nIf you want to fight me again, I will give you another chance.",
         "pt-BR": "[Comandante Elena]\n...Humm. Então é isso.\nSe você quiser lutar contra mim de novo, lhe dou outra chance.",
-        "es-ES": "[Comandante Elena]\nMmm… Así que esto es todo.\nSi quieres volver a pelear conmigo, te daré otra oportunidad."
+        "es-ES": "[Comandante Elena]\nMmm... Así que esto es todo.\nSi quieres volver a pelear conmigo, te daré otra oportunidad."
     },
     "d4ycBw": {
         "en-US": "Enter the waiting room.",
@@ -487,7 +487,7 @@
     "gYycBw": {
         "en-US": "[{0}]\nPardon? You haven't heard my story yet...",
         "pt-BR": "[{0}]\nComo é? Você ainda não ouviu a minha história...",
-        "es-ES": "[{0}]\n¿Perdón? Aún no escuchas mi historia…"
+        "es-ES": "[{0}]\n¿Perdón? Aún no escuchas mi historia..."
     },
     "goycBw": {
         "en-US": "[USU commander Elena]\nYou don't have to tell me the story. You've already told me the story physically. If I can fight on the same side with you, I will welcome whatever it is.\nSo I support the cooperation with the Secret Wings. Do you need my signature?",
@@ -512,7 +512,7 @@
     "hoycBw": {
         "en-US": "[USU commander Elena]\n..................",
         "pt-BR": "[Comandante Elena]\n..................",
-        "es-ES": "[Comandante Elena]\n…"
+        "es-ES": "[Comandante Elena]\n..."
     },
     "h4ycBw": {
         "en-US": "[USU commander Elena]\nYou expected me to say this, didn't you?\nYou received help from your companion? What a brave guy. You tried to trick me.",
@@ -552,7 +552,7 @@
     "joycBw": {
         "en-US": "...This is it.",
         "pt-BR": "...Chegou a hora.",
-        "es-ES": "…Esto es todo."
+        "es-ES": "...Esto es todo."
     },
     "j4ycBw": {
         "en-US": "I have come to fight.",
@@ -592,7 +592,7 @@
     "loycBw": {
         "en-US": "[USU commander Elena]\nHmm...?\nI told you. I don't fight clerics.",
         "pt-BR": "[Comandante Elena]\nHumm...?\nEu falei para você. Eu não luto com religiosos.",
-        "es-ES": "[Comandante Elena]\n¿Mmm…?\nTe lo dije. No peleo contra clérigos."
+        "es-ES": "[Comandante Elena]\n¿Mmm...?\nTe lo dije. No peleo contra clérigos."
     },
     "l4ycBw": {
         "en-US": "[{0}]\nI would like to fight you! Please allow me!",
@@ -602,17 +602,17 @@
     "mIycBw": {
         "en-US": "[USU commander Elena]\nOh, every time I beat the hell out of a cleric, I become quite unlucky on that day. It's true.\nSo I'd rather not fight a cleric...",
         "pt-BR": "[Comandante Elena]\nAh, sempre que eu acabo com um religioso, eu tenho uma maré de azar naquele dia. É verdade.\nEntão eu prefiro não lutar com um religioso...",
-        "es-ES": "[Comandante Elena]\nCada vez que le doy una paliza a un clérigo, tengo muy mala suerte ese día. Es verdad.\nAsí que prefiero no luchar contra un clérigo…"
+        "es-ES": "[Comandante Elena]\nCada vez que le doy una paliza a un clérigo, tengo muy mala suerte ese día. Es verdad.\nAsí que prefiero no luchar contra un clérigo..."
     },
     "mYycBw": {
         "en-US": "[USU commander Elena]\n............",
         "pt-BR": "[Comandante Elena]\n............",
-        "es-ES": "[Comandante Elena]\n…"
+        "es-ES": "[Comandante Elena]\n..."
     },
     "moycBw": {
         "en-US": "[USU commander Elena]\n...Huh, look at your eyes. I have no choice but to fight you.\nBut I will ^0000CDgo very easy on^000000 you. Don't make drama after you defeat me.",
         "pt-BR": "[Comandante Elena]\n...Hum, veja o seu olhar. Não tenho escolha a não ser lutar contra você.\nMas eu vou ^0000CDpegar leve^000000 com você. Não faça drama depois de me derrotar.",
-        "es-ES": "[Comandante Elena]\n…Uh, mira tus ojos. No me queda más remedio que pelear contigo.\nPero seré ^0000CDbuena^000000 contigo. No hagas drama después de derrotarme."
+        "es-ES": "[Comandante Elena]\n...Uh, mira tus ojos. No me queda más remedio que pelear contigo.\nPero seré ^0000CDbuena^000000 contigo. No hagas drama después de derrotarme."
     },
     "m4ycBw": {
         "en-US": "[USU commander Elena]\nOh, great!\nTell me when you are fully ready. I will go to the waiting room.",
@@ -622,7 +622,7 @@
     "nIycBw": {
         "en-US": "[USU commander Elena]\nAren't you going to fight me?\nHm...",
         "pt-BR": "[Comandante Elena]\nVocê não vai me enfrentar?\nHum...",
-        "es-ES": "[Comandante Elena]\n¿No pelearás conmigo?\nMmm…"
+        "es-ES": "[Comandante Elena]\n¿No pelearás conmigo?\nMmm..."
     },
     "nYycBw": {
         "en-US": "[USU commander Elena]\nGood idea. You'll be quite sad if you are beat up without having done anything wrong. Won't you?",
@@ -632,12 +632,12 @@
     "noycBw": {
         "en-US": "[USU commander Elena]\n...You made me expect it. And what are you doing now?",
         "pt-BR": "[Comandante Elena]\n...Você me fez esperar por isso. E o que está fazendo agora?",
-        "es-ES": "[Comandante Elena]\n…Me hiciste esperarlo. ¿Y qué haces ahora?"
+        "es-ES": "[Comandante Elena]\n...Me hiciste esperarlo. ¿Y qué haces ahora?"
     },
     "n4ycBw": {
         "en-US": "[USU commander Elena]\nAs I told you, you don't have to do this... You're so persistent.\nWell, I remember I told you that I like it.",
         "pt-BR": "[Comandante Elena]\nComo eu disse, você não precisa fazer isso... Você é tão persistente.\nBem, eu lembro que falei que gosto disso.",
-        "es-ES": "[Comandante Elena]\nComo te dije, no tienes que hacer esto… Eres muy persistente.\nBueno, recuerdo que te dije que me gusta."
+        "es-ES": "[Comandante Elena]\nComo te dije, no tienes que hacer esto... Eres muy persistente.\nBueno, recuerdo que te dije que me gusta."
     },
     "oIycBw": {
         "en-US": "[USU commander Elena]\nGreat, I will be waiting.\nI enjoy fighting you.",
@@ -652,7 +652,7 @@
     "ooycBw": {
         "en-US": "[USU commander Elena]\n...Hmm. You're not in a top condition?\nIf you want to do this again, welcome.",
         "pt-BR": "[Comandante Elena]\n...Humm. Você não está nas melhores condições?\nSe quiser fazer isso de novo, esteja à vontade.",
-        "es-ES": "[Comandante Elena]\nMmm… ¿No estás en las mejores condiciones?\nSi quieres volver a hacerlo, hazlo."
+        "es-ES": "[Comandante Elena]\nMmm... ¿No estás en las mejores condiciones?\nSi quieres volver a hacerlo, hazlo."
     },
     "o4ycBw": {
         "en-US": "[USU commander Elena]",
@@ -697,12 +697,12 @@
     "q4ycBw": {
         "en-US": "...We have no choice. Come back later.",
         "pt-BR": "...Não temos escolha. Volte mais tarde.",
-        "es-ES": "…No tenemos elección. Vuelve más tarde."
+        "es-ES": "...No tenemos elección. Vuelve más tarde."
     },
     "rIycBw": {
         "en-US": "Hey, you don't have to do this...",
         "pt-BR": "Ei, você não precisa fazer isso.",
-        "es-ES": "Oye, no tienes que hacer esto…"
+        "es-ES": "Oye, no tienes que hacer esto..."
     },
     "rYycBw": {
         "en-US": "Great, I will be waiting.\nI enjoy fighting you.",
@@ -717,12 +717,12 @@
     "r4ycBw": {
         "en-US": "[USU commander Elena]\n...Being mean is not my character. This is why I don't want to be entangled with clerics...\nHey, pronounce the benediction for me before leaving.",
         "pt-BR": "[Comandante Elena]\n...Ser maldosa não combina comigo. É por isso que eu não quero me envolver com religiosos...\nEi, me dê uma bênção antes de partir.",
-        "es-ES": "[Comandante Elena]\n…Ser mezquina no me caracteriza. Por eso, no quiero meterme con clérigos…\nOye, bendíceme antes de irte."
+        "es-ES": "[Comandante Elena]\n...Ser mezquina no me caracteriza. Por eso, no quiero meterme con clérigos...\nOye, bendíceme antes de irte."
     },
     "sIycBw": {
         "en-US": "[USU commander Elena]\nHahaha, great fight!\nWhat a pity. I wanted to win today...",
         "pt-BR": "[Comandante Elena]\nHahaha, ótima luta!\nUma pena. Eu queria vencer hoje...",
-        "es-ES": "[Comandante Elena]\nJa, ja, ja, ¡gran pelea!\nQué pena. Quería ganar hoy…"
+        "es-ES": "[Comandante Elena]\nJa, ja, ja, ¡gran pelea!\nQué pena. Quería ganar hoy..."
     },
     "sYycBw": {
         "en-US": "[USU commander Elena]\nI'm glad that you are becoming stronger.\nI can see the result of steady training.",
@@ -742,12 +742,12 @@
     "tIycBw": {
         "en-US": "[USU commander Elena]\nNot busy? That's a good news.\nApart from fighting... I would like to ask you for a favor.",
         "pt-BR": "[Comandante Elena]\nNão está ocupado? Que boa notícia.\nAlém de lutar... Eu gostaria de pedir um favor.",
-        "es-ES": "[Comandante Elena]\n¿Estás libre? Es una buena noticia.\nAdemás de pelear… me gustaría pedirte un favor."
+        "es-ES": "[Comandante Elena]\n¿Estás libre? Es una buena noticia.\nAdemás de pelear... me gustaría pedirte un favor."
     },
     "tYycBw": {
         "en-US": "[USU commander Elena]\nI'm not sure if I can say this to an outsider... But you are close to the Rebellion now.\nWill you keep the secret?",
         "pt-BR": "[Comandante Elena]\nNão tenho certeza se posso falar isso para um forasteiro... Mas você é próximo da Rebelião agora.\nVocê vai guardar o segredo?",
-        "es-ES": "[Comandante Elena]\nNo sé si puedo decirle esto a una persona forastera… pero ahora estás cerca de la Rebelión.\n¿Guardarás el secreto?"
+        "es-ES": "[Comandante Elena]\nNo sé si puedo decirle esto a una persona forastera... pero ahora estás cerca de la Rebelión.\n¿Guardarás el secreto?"
     },
     "toycBw": {
         "en-US": "Yes, I will.",
@@ -767,17 +767,17 @@
     "uYycBw": {
         "en-US": "[USU commander Elena]\n...Then I can't tell you.\nForget what I've said.",
         "pt-BR": "[Comandante Elena]\n...Então eu não posso lhe dizer.\nEsqueça o que eu falei.",
-        "es-ES": "[Comandante Elena]\n…Entonces, no puedo decírtelo.\nOlvida lo que dije."
+        "es-ES": "[Comandante Elena]\n...Entonces, no puedo decírtelo.\nOlvida lo que dije."
     },
     "uoycBw": {
         "en-US": "[USU commander Elena]\nGood. First of all... do you know about USU that I am commanding?",
         "pt-BR": "[Comandante Elena]\nÓtimo. Em primeiro lugar... Você conhece a US que estou comandando?",
-        "es-ES": "[Comandante Elena]\nBien. En primer lugar… ¿conoces la US que estoy comandando?"
+        "es-ES": "[Comandante Elena]\nBien. En primer lugar... ¿conoces la US que estoy comandando?"
     },
     "u4ycBw": {
         "en-US": "Superior... unit?",
         "pt-BR": "Unidade... superior?",
-        "es-ES": "¿Unidad… superior?"
+        "es-ES": "¿Unidad... superior?"
     },
     "vIycBw": {
         "en-US": "Isn't it where you isolated problem children?",
@@ -787,7 +787,7 @@
     "vYycBw": {
         "en-US": "[USU commander Elena]\n...No. It's not true.\nIt's actually the opposite.",
         "pt-BR": "[Comandante Elena]\n...Não. Não é verdade.\nMuito pelo contrário.",
-        "es-ES": "[Comandante Elena]\n…No. No es verdad.\nEn realidad, es lo contrario."
+        "es-ES": "[Comandante Elena]\n...No. No es verdad.\nEn realidad, es lo contrario."
     },
     "voycBw": {
         "en-US": "[USU commander Elena]\n...What?",
@@ -797,7 +797,7 @@
     "v4ycBw": {
         "en-US": "[USU commander Elena]\nHaha... Kaka. Right. You know very well about it.\nBut don't say that in front of the troops. They might shoot you.",
         "pt-BR": "[Comandante Elena]\nHahah... Haha. Certo. Você sabe bem sobre isso.\nMas não diga isso na frente das tropas. Eles podem atirar em você.",
-        "es-ES": "[Comandante Elena]\nJa, ja… Ja, ja. Bien. Lo sabes muy bien.\nPero no digas eso delante de las tropas. Podrían dispararte."
+        "es-ES": "[Comandante Elena]\nJa, ja... Ja, ja. Bien. Lo sabes muy bien.\nPero no digas eso delante de las tropas. Podrían dispararte."
     },
     "wIycBw": {
         "en-US": "[USU commander Elena]\nUSU stands for ^0000CDUnder Seal Unit^000000. It's a group of weirdos who did some crazy things.\nSince they had done great job for the Rebellion, we isolate them with lead on their neck rather than death penalty or discharging.",
@@ -817,7 +817,7 @@
     "w4ycBw": {
         "en-US": "[USU commander Elena]\nAnd there are new members... ^0000CDJana Levedev^000000 and ^0000CDIlya Levedev^000000. They are twins and still young.\nAlthough they are young, their ability is outstanding. The problem is that they are out of control.",
         "pt-BR": "[Comandante Elena]\nE tem os membros novos... ^0000CDJana Levedev^000000 e ^0000CDIlya Levedev^000000. Eles são gêmeos e ainda jovens.\nEmbora sejam jovens, as habilidades deles são excepcionais. O problema é que eles estão descontrolados.",
-        "es-ES": "[Comandante Elena]\nY hay nuevos miembros… ^0000CDJana Levedev^000000 e ^0000CDIlya Lebedev^000000. Son gemelos y aún son jóvenes.\nAunque son jóvenes, su capacidad es extraordinaria. El problema es que están fuera de control."
+        "es-ES": "[Comandante Elena]\nY hay nuevos miembros... ^0000CDJana Levedev^000000 e ^0000CDIlya Lebedev^000000. Son gemelos y aún son jóvenes.\nAunque son jóvenes, su capacidad es extraordinaria. El problema es que están fuera de control."
     },
     "xIycBw": {
         "en-US": "[USU commander Elena]\nThey skip the training and hurt a squadder by causing an accident during training... Recently, they tried to run away from the unit and got caught. So the duty manager and I had a hard time.",
@@ -827,12 +827,12 @@
     "xYycBw": {
         "en-US": "[USU commander Elena]\nAccording to the regulation, we have to discharge them.\n...But they are still under age. According to the commander of their former unit, they don't have parents.",
         "pt-BR": "[Comandante Elena]\nDe acordo com o regulamento, temos que dispensá-los.\n...Mas eles ainda são menores de idade. Segundo o comandante da unidade anterior deles, eles não têm pais.",
-        "es-ES": "[Comandante Elena]\nSegún el reglamento, tenemos que echarlos.\n…Pero siguen siendo menores de edad. Según el comandante de su antigua unidad, no tienen padres."
+        "es-ES": "[Comandante Elena]\nSegún el reglamento, tenemos que echarlos.\n...Pero siguen siendo menores de edad. Según el comandante de su antigua unidad, no tienen padres."
     },
     "xoycBw": {
         "en-US": "[USU commander Elena]\nIf we kick out these guys, they might become hooligans. At the worst, they will be involved in crime.\nIt sounds funny that I'm saying this as a commander of USU...",
         "pt-BR": "[Comandante Elena]\nSe expulsarmos essas crianças, elas podem virar delinquentes. Na pior das hipóteses, estarão envolvidas na criminalidade.\nÉ engraçado que eu esteja falando isso como comandante da US...",
-        "es-ES": "[Comandante Elena]\nSi los expulsamos, podrían convertirse en vándalos. En el peor de los casos, estarán involucrados en delitos.\nSuena gracioso que diga esto como comandante de la US…"
+        "es-ES": "[Comandante Elena]\nSi los expulsamos, podrían convertirse en vándalos. En el peor de los casos, estarán involucrados en delitos.\nSuena gracioso que diga esto como comandante de la US..."
     },
     "x4ycBw": {
         "en-US": "[USU commander Elena]\nAt least I don't want to see kids disgracing themselves.\nBut by looking at what they are doing, they will live as animals with lead in USU at best.",
@@ -842,7 +842,7 @@
     "yIycBw": {
         "en-US": "[USU commander Elena]\n...Maybe they are already regarding me as an enemy. So they won't listen to me.\nI know how to make them listen to me. But it will only make the situation worse.",
         "pt-BR": "[Comandante Elena]\n...Talvez eles já me considerem uma inimiga. Então eles não vão me ouvir.\nEu até sei como fazer eles me ouvirem, mas isso só vai piorar a situação.",
-        "es-ES": "[Comandante Elena]\n…Quizá ya me consideren una enemiga. Así que no me escucharán.\nSé cómo hacer que me escuchen. Pero solo empeorará la situación."
+        "es-ES": "[Comandante Elena]\n...Quizá ya me consideren una enemiga. Así que no me escucharán.\nSé cómo hacer que me escuchen. Pero solo empeorará la situación."
     },
     "yYycBw": {
         "en-US": "[USU commander Elena]\nSo I request you to check their problem and solve it, adventurer.\nIf they don't say anything, ask other fellows around them.",
@@ -872,7 +872,7 @@
     "zoycBw": {
         "en-US": "[USU commander Elena]\nIn case you don't get any outcome after talking to them, talk to other fellows.\nThe mess personnel... and another fellow in the outside store seems to want to say something.",
         "pt-BR": "[Comandante Elena]\nCaso você não consiga nada depois de falar com eles, fale com outras pessoas.\nO pessoal do refeitório... E um outro cara do lado de fora parecem querer falar alguma coisa.",
-        "es-ES": "[Comandante Elena]\nHabla con otros compañeros si no obtienes resultados después de hablar con ellos.\nEl personal del comedor… y otro tipo en la tienda exterior parece que quieren decir algo."
+        "es-ES": "[Comandante Elena]\nHabla con otros compañeros si no obtienes resultados después de hablar con ellos.\nEl personal del comedor... y otro tipo en la tienda exterior parece que quieren decir algo."
     },
     "z4ycBw": {
         "en-US": "Elena Bolkova: Are they it Mason and Milo in Clana Nemieri...?",
@@ -892,7 +892,7 @@
     "0oycBw": {
         "en-US": "[USU commander Elena]\nSo, you talked to them?\nHmm, not yet...",
         "pt-BR": "[Comandante Elena]\nE então, falou com eles?\nHumm, ainda não...",
-        "es-ES": "[Comandante Elena]\nEntonces, ¿hablaste con ellos?\nMmm, todavía no…"
+        "es-ES": "[Comandante Elena]\nEntonces, ¿hablaste con ellos?\nMmm, todavía no..."
     },
     "04ycBw": {
         "en-US": "[USU commander Elena]\nYou are the only one I can trust now.\nI'll count on you, adventurer.",
@@ -922,12 +922,12 @@
     "2IycBw": {
         "en-US": "[USU commander Elena]\nHmm... Not at all?\nI though they might open their mind to a stranger. But I was wrong.",
         "pt-BR": "[Comandante Elena]\nHumm... Não conseguiu nada?\nEu achei que eles poderiam se abrir para um estranho. Mas estava enganada.",
-        "es-ES": "[Comandante Elena]\nMmm… ¿Nada?\nPensé que abrirían su mente con un extraño. Pero me equivoqué."
+        "es-ES": "[Comandante Elena]\nMmm... ¿Nada?\nPensé que abrirían su mente con un extraño. Pero me equivoqué."
     },
     "2YycBw": {
         "en-US": "[USU commander Elena]\n...There's someone you should talk to lastly.\nI didn't want to do this.",
         "pt-BR": "[Comandante Elena]\n...Há alguém com quem você deve falar ainda.\nEu não queria fazer isso.",
-        "es-ES": "[Comandante Elena]\n…Hay alguien con quien deberías hablar por último.\nYo no quería hacer esto."
+        "es-ES": "[Comandante Elena]\n...Hay alguien con quien deberías hablar por último.\nYo no quería hacer esto."
     },
     "2oycBw": {
         "en-US": "Elena Bolkova: I wanted to solve this problem myself if possible.",
@@ -937,7 +937,7 @@
     "24ycBw": {
         "en-US": "[USU commander Elena]\nGo downstairs and find ^0000CDEricsson Adler, commander of a detached force^000000. He must be nearby the fireplace.\nHe's middle-aged man... and a former boss of the twins.",
         "pt-BR": "[Comandante Elena]\nDesça e encontre ^0000CDEricsson Adler^000000, comandante de uma força destacada. Ele deve estar perto da lareira.\nEle é um homem de meia-idade... E um antigo chefe dos gêmeos.",
-        "es-ES": "[Comandante Elena]\nBaja y busca a ^0000CDEricsson Adler, comandante de una fuerza destacada^000000. Debe estar cerca de la chimenea.\nEs un hombre de mediana edad… y antiguo jefe de los gemelos."
+        "es-ES": "[Comandante Elena]\nBaja y busca a ^0000CDEricsson Adler, comandante de una fuerza destacada^000000. Debe estar cerca de la chimenea.\nEs un hombre de mediana edad... y antiguo jefe de los gemelos."
     },
     "3IycBw": {
         "en-US": "[USU commander Elena]\nSince the guys have been assigned to my unit, I wanted to take care of them here. But they're not helping us.\nIf I ask Adler about the guys, it won't look so good. That's why I am requesting you. Please.",
@@ -972,17 +972,17 @@
     "4oycBw": {
         "en-US": "[USU commander Elena]\nSo... That was the reason.\nI had already heard about that accident.",
         "pt-BR": "[Comandante Elena]\nEntão... Essa é a razão..\nJá tinha ouvido falar desse acidente.",
-        "es-ES": "[Comandante Elena]\nAsí que… Ese era el motivo.\nYa había oído hablar de ese accidente."
+        "es-ES": "[Comandante Elena]\nAsí que... Ese era el motivo.\nYa había oído hablar de ese accidente."
     },
     "44ycBw": {
         "en-US": "[USU commander Elena]\nBut I had no idea they were feeling such a burden.\nSince they were out of control... there was no way for me to recognize it.",
         "pt-BR": "[Comandante Elena]\nMas eu não fazia ideia de que eles estavam carregando um fardo tão grande.\nComo eles estavam descontrolados... Não havia como eu perceber.",
-        "es-ES": "[Comandante Elena]\nPero no tenía ni idea de que sentían esa carga.\nComo estaban fuera de control… no había forma de que me diera cuenta."
+        "es-ES": "[Comandante Elena]\nPero no tenía ni idea de que sentían esa carga.\nComo estaban fuera de control... no había forma de que me diera cuenta."
     },
     "5IycBw": {
         "en-US": "[USU commander Elena]\nWell, they're still kids after all. Since they have great ability, Me and other squadders treated them as adults.\nWe should not have done it...",
         "pt-BR": "[Comandante Elena]\nEles ainda são crianças, afinal. Como eles têm grandes habilidades, eu e os outros membros os tratamos como adultos.\nNão devíamos ter feito isso...",
-        "es-ES": "[Comandante Elena]\nBueno, al fin y al cabo, siguen siendo niños. Como tienen una gran habilidad, otros miembros del escuadrón y yo los tratamos como adultos.\nNo deberíamos haberlo hecho…"
+        "es-ES": "[Comandante Elena]\nBueno, al fin y al cabo, siguen siendo niños. Como tienen una gran habilidad, otros miembros del escuadrón y yo los tratamos como adultos.\nNo deberíamos haberlo hecho..."
     },
     "5YycBw": {
         "en-US": "[USU commander Elena]\nAnd I should have talked to Adler beforehand.\nThanks,{0}. You helped me so much.",
@@ -1012,7 +1012,7 @@
     "6oycBw": {
         "en-US": "[Jana Levedev]\n......Yes...",
         "pt-BR": "[Jana Levedev]\n.....Sim....",
-        "es-ES": "[Jana Levedev]\n…Sí…"
+        "es-ES": "[Jana Levedev]\n...Sí..."
     },
     "64ycBw": {
         "en-US": "[USU commander Elena]\nJana Levedev and Ilya Levedev! Attention!",
@@ -1042,27 +1042,27 @@
     "8IycBw": {
         "en-US": "[Levedev twins]\n......",
         "pt-BR": "[Gêmeos Levedev]\n......",
-        "es-ES": "[Gemelos  Lebedev]\n…"
+        "es-ES": "[Gemelos  Lebedev]\n..."
     },
     "8YycBw": {
         "en-US": "[Levedev twins]\n......We're sorry...",
         "pt-BR": "[Gêmeos Levedev]\n......Sentimos muito...",
-        "es-ES": "[Gemelos Lebedev]\n…Lo sentimos…"
+        "es-ES": "[Gemelos Lebedev]\n...Lo sentimos..."
     },
     "8oycBw": {
         "en-US": "[USU commander Elena]\nBut before I scold you about it...\nI am sorry.",
         "pt-BR": "[Comandante Elena]\nMas antes que eu repreenda vocês sobre isso...\nMe desculpem.",
-        "es-ES": "[Comandante Elena]\nPero antes de que los regañe por eso…\nLo siento."
+        "es-ES": "[Comandante Elena]\nPero antes de que los regañe por eso...\nLo siento."
     },
     "84ycBw": {
         "en-US": "Jana Levedev: Pardon...?",
         "pt-BR": "Jana Levedev: Hein?",
-        "es-ES": "Jana Levedev: ¿Perdón…?"
+        "es-ES": "Jana Levedev: ¿Perdón...?"
     },
     "9IycBw": {
         "en-US": "Ilya Levedev: Sorry...?",
         "pt-BR": "Ilya Levedev: Desculpar?",
-        "es-ES": "Ilya Lebedev: ¿Perdón…?"
+        "es-ES": "Ilya Lebedev: ¿Perdón...?"
     },
     "9YycBw": {
         "en-US": "[USU commander Elena]\nI didn't know that you had been forced so much and could not consider it. And I wasn't there for counseling even though I was your boss.",
@@ -1082,7 +1082,7 @@
     "+IycBw": {
         "en-US": "[Levedev twins]\n......No, no... We have to apologize.",
         "pt-BR": "[Gêmeos Levedev]\n.....Não, não... Nós temos que nos desculpar.",
-        "es-ES": "[Gemelos Lebedev]\n…No, no… Tenemos que disculparnos."
+        "es-ES": "[Gemelos Lebedev]\n...No, no... Tenemos que disculparnos."
     },
     "+YycBw": {
         "en-US": "[USU commander Elena]\nFrom now on, I will pay more attention to you.\nWould you please try to make sure this never happens again?",
@@ -1092,12 +1092,12 @@
     "+oycBw": {
         "en-US": "[Jana Levedev]\n...No... We are the ones who should apologize.",
         "pt-BR": "[Jana Levedev]\n...Não... Nós é que devemos pedir desculpas.",
-        "es-ES": "[Jana Levedev]\n…No… Somos nosotros los que debemos disculparnos."
+        "es-ES": "[Jana Levedev]\n...No... Somos nosotros los que debemos disculparnos."
     },
     "+4ycBw": {
         "en-US": "[Ilya Levedev]\nIt will never happen again...",
         "pt-BR": "[Ilya Levedev]\nIsso nunca mais vai acontecer...",
-        "es-ES": "[Ilya Lebedev]\nNo volverá a ocurrir…"
+        "es-ES": "[Ilya Lebedev]\nNo volverá a ocurrir..."
     },
     "/IycBw": {
         "en-US": "[USU commander Elena]\nSince this is a military group, you have regulations to abide by.\nBut since you are minors, I would like to give you an opportunity to grow as much as possible.",
@@ -1117,7 +1117,7 @@
     "/4ycBw": {
         "en-US": "[Jana Levedev]\nSo we're... not being kicked out?",
         "pt-BR": "[Jana Levedev]\nEntão nós... não seremos expulsos?",
-        "es-ES": "[Jana Levedev]\nEntonces… ¿no nos echarán?"
+        "es-ES": "[Jana Levedev]\nEntonces... ¿no nos echarán?"
     },
     "AI2cBw": {
         "en-US": "[USU commander Elena]\nDon't make me say it twice. I told you I was responsible for what happened.",
@@ -1127,22 +1127,22 @@
     "AY2cBw": {
         "en-US": "[Ilya Levedev]\nOh... Thank you so much!\nAnd... Sorry.",
         "pt-BR": "[Ilya Levedev]\nAh... Agradeço muito!\nE... Desculpe.",
-        "es-ES": "[Ilya Lebedev]\nOh… ¡Muchísimas gracias!\nY… Lo siento."
+        "es-ES": "[Ilya Lebedev]\nOh... ¡Muchísimas gracias!\nY... Lo siento."
     },
     "Ao2cBw": {
         "en-US": "Ilya Levedev: I'm sorry... Commander Bolkova...",
         "pt-BR": "Ilya Levedev: Me desculpe... Comandante Bolkova...",
-        "es-ES": "Ilya Lebedev: Lo siento… Comandante Bolkova…"
+        "es-ES": "Ilya Lebedev: Lo siento... Comandante Bolkova..."
     },
     "A42cBw": {
         "en-US": "[Jana Levedev]\nThank you, commander...!",
         "pt-BR": "[Jana Levedev]\nObrigada, comandante...!",
-        "es-ES": "[Jana Levedev]\n¡Gracias, comandante…!"
+        "es-ES": "[Jana Levedev]\n¡Gracias, comandante...!"
     },
     "BI2cBw": {
         "en-US": "Jana Levedev: I am sorry...",
         "pt-BR": "Jana Levedev: Eu sinto muito...",
-        "es-ES": "Jana Levedev: Lo siento…"
+        "es-ES": "Jana Levedev: Lo siento..."
     },
     "BY2cBw": {
         "en-US": "[USU commander Elena]\nThat's all about it. You can go back now. There's something I'd like to discuss with the adventurer.\nAnd if you need anything, talk to me any time.",
@@ -1157,17 +1157,17 @@
     "B42cBw": {
         "en-US": "[USU commander Elena]\nPhew...\nGreat job, {0}.\nThanks to your support and concern, we managed to do this.",
         "pt-BR": "[Comandante Elena]\nUfa...\nBom trabalho, {0}.\nGraças ao seu apoio e preocupação, conseguimos cumprir o objetivo.",
-        "es-ES": "[Comandante Elena]\nFiu…\nGran trabajo, {0}.\nGracias a tu apoyo y preocupación, lo conseguimos."
+        "es-ES": "[Comandante Elena]\nFiu...\nGran trabajo, {0}.\nGracias a tu apoyo y preocupación, lo conseguimos."
     },
     "CI2cBw": {
         "en-US": "[USU commander Elena]\nHa... I told them to do what they want. And they will wonder what to do for a while.\nFor those guys to do what they want, they'll need your help again.\nPlease help them at that time.",
         "pt-BR": "[Comandante Elena]\nAh... Eu disse a eles para fazerem o que quiserem. E eles vão se perguntar o que fazer por um tempo.\nPara que eles consigam fazer o que querem, vão precisar da sua ajuda de novo.\nPor favor, ajude-os nessa hora.",
-        "es-ES": "[Comandante Elena]\nJa… Les dije que hicieran lo que quisieran. Y se preguntarán qué hacer durante un tiempo.\nPara que esos chicos hagan lo que quieran, volverán a necesitar tu ayuda.\nPor favor, ayúdalos cuando llegue el momento."
+        "es-ES": "[Comandante Elena]\nJa... Les dije que hicieran lo que quisieran. Y se preguntarán qué hacer durante un tiempo.\nPara que esos chicos hagan lo que quieran, volverán a necesitar tu ayuda.\nPor favor, ayúdalos cuando llegue el momento."
     },
     "CY2cBw": {
         "en-US": "[USU commander Elena]\n......Thanks.\nI will count on you in the future.",
         "pt-BR": "[Comandante Elena]\n......Obrigada.\nConto com você no futuro.",
-        "es-ES": "[Comandante Elena]\n…Gracias.\nContaré contigo en el futuro."
+        "es-ES": "[Comandante Elena]\n...Gracias.\nContaré contigo en el futuro."
     },
     "Co2cBw": {
         "en-US": "[USU commander Elena]\nAre you taking care of them well?\nWow, I am relieved that they have a babysitter now.",
@@ -1367,7 +1367,7 @@
     "MY2cBw": {
         "en-US": "Jana Levedev: Oops, you are...",
         "pt-BR": "Jana Levedev: Ops, você é...",
-        "es-ES": "Jana Levedev: Uy, eres…"
+        "es-ES": "Jana Levedev: Uy, eres..."
     },
     "Mo2cBw": {
         "en-US": "[Jana Levedev]\nAre you the adventurer who defeated our commander?\nSo you're the one from the Secret Wings, aren't you?",
@@ -1392,7 +1392,7 @@
     "No2cBw": {
         "en-US": "[Jana Levedev]\nHave you brought any story filled with gunpowder?\n...Well, we cannot be involved in the mission anyway.",
         "pt-BR": "[Jana Levedev]\nVocê trouxe alguma história cheia de pólvora?\n... Bem, não podemos nos envolver na missão de qualquer maneira.",
-        "es-ES": "[Jana Levedev]\n¿Has traído alguna historia llena de pólvora?\n…Bueno, de todos modos, no podemos participar en la misión."
+        "es-ES": "[Jana Levedev]\n¿Has traído alguna historia llena de pólvora?\n...Bueno, de todos modos, no podemos participar en la misión."
     },
     "N42cBw": {
         "en-US": "[{0}]\nYou are still young.",
@@ -1402,17 +1402,17 @@
     "OI2cBw": {
         "en-US": "[Jana Levedev]\n...We'll become adults in the near future.\nWe are not that much younger compared to other people here. Does putting on several years make any diffrence?",
         "pt-BR": "[Jana Levedev]\n...Nós seremos adultos em breve.\nNão somos tão jovens em comparação com outras pessoas aqui. Ser mais velho faz alguma diferença?",
-        "es-ES": "[Jana Levedev]\n…Seremos adultos en un futuro cercano.\nNo somos mucho más jóvenes en comparación con otras personas de aquí. ¿Sirve tener muchos más años?"
+        "es-ES": "[Jana Levedev]\n...Seremos adultos en un futuro cercano.\nNo somos mucho más jóvenes en comparación con otras personas de aquí. ¿Sirve tener muchos más años?"
     },
     "OY2cBw": {
         "en-US": "[Jana Levedev]\nThey all know that we have better abilities than adults.\nIf it wasn't for one thing... No, never mind.",
         "pt-BR": "[Jana Levedev]\nTodos sabem que somos mais hábeis que os adultos.\nSe não fosse por uma coisa... Não, esqueça.",
-        "es-ES": "[Jana Levedev]\nTodos saben que tenemos mejores capacidades que los adultos.\nSi no fuera por una cosa… No, olvídalo."
+        "es-ES": "[Jana Levedev]\nTodos saben que tenemos mejores capacidades que los adultos.\nSi no fuera por una cosa... No, olvídalo."
     },
     "Oo2cBw": {
         "en-US": "[Jana Levedev]\nIt's so annoying...\nIlya, tell the adventurer to go away.",
         "pt-BR": "[Jana Levedev]\nÉ tão irritante...\nIlya, diga ao aventureiro para ir embora.",
-        "es-ES": "[Jana Levedev]\nEs tan molesto…\nIlya, dile al trotamundos que se vaya."
+        "es-ES": "[Jana Levedev]\nEs tan molesto...\nIlya, dile al trotamundos que se vaya."
     },
     "O42cBw": {
         "en-US": "Ilya Levedev: Don't worry, Jana.",
@@ -1427,7 +1427,7 @@
     "PY2cBw": {
         "en-US": "[{0}]\n(So they started to hate me pretty early... What should I do?\nMaybe I have to listen to ^0000CDRebellions around them^000000.)",
         "pt-BR": "[{0}]\n(Eles começaram a me odiar bem rápido... O que devo fazer?\nTalvez eu deva ouvir os ^0000CDoutros membros da Rebelião ao redor deles^000000)",
-        "es-ES": "[{0}]\n(Así que empezaron a odiarme bastante pronto… ¿Qué debo hacer?\nTal vez, tenga que escuchar a los miembros de ^0000CDla Rebelión que están a su alrededor^000000)."
+        "es-ES": "[{0}]\n(Así que empezaron a odiarme bastante pronto... ¿Qué debo hacer?\nTal vez, tenga que escuchar a los miembros de ^0000CDla Rebelión que están a su alrededor^000000)."
     },
     "Po2cBw": {
         "en-US": "[Jana Levedev]\nAh, Ilya. That person keeps irritating me.",
@@ -1447,7 +1447,7 @@
     "QY2cBw": {
         "en-US": "[{0}]\n(...I guess they really hate me now.)",
         "pt-BR": "[{0}]\n(...Acho que realmente me odeiam agora)",
-        "es-ES": "[{0}]\n(…Supongo que ahora me odian de verdad)."
+        "es-ES": "[{0}]\n(...Supongo que ahora me odian de verdad)."
     },
     "Qo2cBw": {
         "en-US": "[Jana Levedev]\nYou're here again?\nWe don't want to talk.",
@@ -1457,7 +1457,7 @@
     "Q42cBw": {
         "en-US": "[{0}]\n(Ask them about the incident that happened in the past...)",
         "pt-BR": "[{0}]\n(Perguntar sobre o incidente que aconteceu no passado...)",
-        "es-ES": "[{0}]\n(Pregúntales por el incidente que ocurrió en el pasado…)."
+        "es-ES": "[{0}]\n(Pregúntales por el incidente que ocurrió en el pasado...)."
     },
     "RI2cBw": {
         "en-US": "Ask them directly.",
@@ -1477,12 +1477,12 @@
     "R42cBw": {
         "en-US": "[Jana Levedev]\nWhat...!!",
         "pt-BR": "[Jana Levedev]\nO quê??",
-        "es-ES": "[Jana Levedev]\n¡Qué…!"
+        "es-ES": "[Jana Levedev]\n¡Qué...!"
     },
     "SI2cBw": {
         "en-US": "Ilya Levedev: ...What, what the hell!",
         "pt-BR": "Ilya Levedev: ...O que, que diabos!",
-        "es-ES": "Ilya Lebedev: …Espera, ¡qué demonios!"
+        "es-ES": "Ilya Lebedev: ...Espera, ¡qué demonios!"
     },
     "SY2cBw": {
         "en-US": "[Ilya Levedev]\nWhere did you hear this story!\nHey, why are you saying that?",
@@ -1492,7 +1492,7 @@
     "So2cBw": {
         "en-US": "Jana Levedev: Well, that was...",
         "pt-BR": "Jana Levedev: Bem, isso foi...",
-        "es-ES": "Jana Levedev: Bueno, eso fue…"
+        "es-ES": "Jana Levedev: Bueno, eso fue..."
     },
     "S42cBw": {
         "en-US": "[Ilya Levedev]\nGet lost! Stay away from Jana!",
@@ -1502,22 +1502,22 @@
     "TI2cBw": {
         "en-US": "Jana Levedev: I, I...",
         "pt-BR": "Jana Levedev: Eu, eu...",
-        "es-ES": "Jana Levedev: Yo, yo…"
+        "es-ES": "Jana Levedev: Yo, yo..."
     },
     "TY2cBw": {
         "en-US": "Ilya Levedev: Don't listen, Jaja...!!",
         "pt-BR": "Ilya Levedev: Não dê ouvidos, Jaja!!",
-        "es-ES": "Ilya Lebedev: No escuches, ¡¡Ja, ja…!!"
+        "es-ES": "Ilya Lebedev: No escuches, ¡¡Ja, ja...!!"
     },
     "To2cBw": {
         "en-US": "[{0}]\n(......Looks like a huge mistake. Let's go back to ^0000CDElena Bolkova^000000.)",
         "pt-BR": "[{0}]\n(.....Parece que foi um grande erro. Vamos voltar para a ^0000CDElena Bolkova^000000)",
-        "es-ES": "[{0}]\n(…Parece un gran error. Regresemos con ^0000CDElena Bolkova^000000)."
+        "es-ES": "[{0}]\n(...Parece un gran error. Regresemos con ^0000CDElena Bolkova^000000)."
     },
     "T42cBw": {
         "en-US": "[{0}]\nThere's something I would like to ask you.\nI asked others and they say you were...",
         "pt-BR": "[{0}]\nHá algo que eu gostaria de lhe perguntar.\nEu perguntei aos outros e eles disseram que você era...",
-        "es-ES": "[{0}]\nHay algo que me gustaría preguntarles.\nLes pregunté a otras personas y dicen que…"
+        "es-ES": "[{0}]\nHay algo que me gustaría preguntarles.\nLes pregunté a otras personas y dicen que..."
     },
     "UI2cBw": {
         "en-US": "[Jana Levedev]\n...Why do you pry into our private affairs?",
@@ -1527,7 +1527,7 @@
     "UY2cBw": {
         "en-US": "[{0}]\nI didn't pry into anything. I mean, they told me you look very tired these days...",
         "pt-BR": "[{0}]\nEu não me intrometi em nada. Quer dizer, eles me disseram que vocês parecem muito cansados ultimamente...",
-        "es-ES": "[{0}]\nNo me entrometí en nada. Me dijeron que se veían muy cansados estos días…"
+        "es-ES": "[{0}]\nNo me entrometí en nada. Me dijeron que se veían muy cansados estos días..."
     },
     "Uo2cBw": {
         "en-US": "[Jana Levedev]\nWe are tired because someone is irritating us.",
@@ -1537,12 +1537,12 @@
     "U42cBw": {
         "en-US": "Ilya Levedev: ......",
         "pt-BR": "Ilya Levedev: ......",
-        "es-ES": "Ilya Lebedev: …"
+        "es-ES": "Ilya Lebedev: ..."
     },
     "VI2cBw": {
         "en-US": "[{0}]\n(......This is getting difficult. Let's go back to ^0000CDElena Bolkova^000000.)",
         "pt-BR": "[{0}]\n(......Isso está ficando complicado. Vamos voltar para a ^0000CDElena Bolkova^000000)",
-        "es-ES": "[{0}]\n(…Esto se está poniendo difícil. Regresemos con ^0000CDElena Bolkova^000000)."
+        "es-ES": "[{0}]\n(...Esto se está poniendo difícil. Regresemos con ^0000CDElena Bolkova^000000)."
     },
     "VY2cBw": {
         "en-US": "[Jana Levedev]\nYou're here again?",
@@ -1552,7 +1552,7 @@
     "Vo2cBw": {
         "en-US": "[{0}]\n( I did take the cookie... Where is it?\nLet's go back to Ericsson and talk to him.)",
         "pt-BR": "[{0}]\n(Eu peguei o biscoito... Onde está?\nVamos voltar e falar com o Ericsson)",
-        "es-ES": "[{0}]\n(Agarré la galleta… ¿Dónde está?\nVolvamos con Ericsson y hablemos con él)."
+        "es-ES": "[{0}]\n(Agarré la galleta... ¿Dónde está?\nVolvamos con Ericsson y hablemos con él)."
     },
     "V42cBw": {
         "en-US": "[{0}]\nHello, guys?",
@@ -1582,12 +1582,12 @@
     "XI2cBw": {
         "en-US": "[Jana Levedev]\nI don't know what you are up to. But we...\n...Wait, where did you get this cookie?",
         "pt-BR": "[Jana Levedev]\nEu não sei o que você está tramando. Mas nós...\n...Espera, onde você conseguiu esse biscoito?",
-        "es-ES": "[Jana Levedev]\nNo sé qué estás tramando. Pero nosotros…\n…Espera, ¿de dónde sacaste esa galleta?"
+        "es-ES": "[Jana Levedev]\nNo sé qué estás tramando. Pero nosotros...\n...Espera, ¿de dónde sacaste esa galleta?"
     },
     "XY2cBw": {
         "en-US": "Jana Levedev: This cookie basket, grandma Lucy...?",
         "pt-BR": "Jana Levedev: Essa cesta de biscoitos, vovó Lucy?",
-        "es-ES": "Jana Levedev: Esta cesta de galletas, ¿la abuela Lucy…?"
+        "es-ES": "Jana Levedev: Esta cesta de galletas, ¿la abuela Lucy...?"
     },
     "Xo2cBw": {
         "en-US": "[{0}]\nSomeone you know well told me to give this to you.",
@@ -1607,7 +1607,7 @@
     "YY2cBw": {
         "en-US": "[Jana Levedev]\n......What...\nThat.. is a lie. How can I trust an adventurer...?",
         "pt-BR": "[Jana Levedev]\n......O quê...\nIsso... é mentira. Como eu posso confiar em um aventureiro...?",
-        "es-ES": "[Jana Levedev]\n…Qué…\nEso… es mentira. ¿Cómo puedo confiar en un trotamundos…?"
+        "es-ES": "[Jana Levedev]\n...Qué...\nEso... es mentira. ¿Cómo puedo confiar en un trotamundos...?"
     },
     "Yo2cBw": {
         "en-US": "Jana Levedev: Do you think you can lure us with a cookie?",
@@ -1617,7 +1617,7 @@
     "Y42cBw": {
         "en-US": "Ilya Levedev: Jana...",
         "pt-BR": "Ilya Levedev: Jana...",
-        "es-ES": "Ilya Lebedev: Jana…"
+        "es-ES": "Ilya Lebedev: Jana..."
     },
     "ZI2cBw": {
         "en-US": "[{0}]\nAs I told you earlier, please think about commander Adler.\nHe's so worried about you. So am I, and so is commander Bolkova.",
@@ -1627,7 +1627,7 @@
     "ZY2cBw": {
         "en-US": "[Jana Levedev]\nWe...\nNo. We won't tell you.",
         "pt-BR": "[Jana Levedev]\nNós...\nNão. Não vamos contar a você.",
-        "es-ES": "[Jana Levedev]\nEstábamos…\nNo. No te lo diremos."
+        "es-ES": "[Jana Levedev]\nEstábamos...\nNo. No te lo diremos."
     },
     "Zo2cBw": {
         "en-US": "[{0}]\nPlease tell me one thing.\nI heard you didn't ruin yourself like this before.\nWhy do you keep hurting yourself?",
@@ -1642,7 +1642,7 @@
     "aI2cBw": {
         "en-US": "Jana Levedev: Oh...",
         "pt-BR": "Jana Levedev: Ah...",
-        "es-ES": "Jana Levedev: Oh…"
+        "es-ES": "Jana Levedev: Oh..."
     },
     "aY2cBw": {
         "en-US": "Why do you say that? What do you know about us?\nYou know nothing!",
@@ -1652,7 +1652,7 @@
     "ao2cBw": {
         "en-US": "[Jana Levedev]\n...I was so..\nscared...... so...",
         "pt-BR": "[Jana Levedev]\n...Eu estava tão...\nAssustada..... Tão...",
-        "es-ES": "[Jana Levedev]\nYo estaba tan…\nasustada… así que…"
+        "es-ES": "[Jana Levedev]\nYo estaba tan...\nasustada... así que..."
     },
     "a42cBw": {
         "en-US": "[{0}]\nScared...?",
@@ -1667,27 +1667,27 @@
     "bY2cBw": {
         "en-US": "[Ilya Levedev]\n......",
         "pt-BR": "[Ilya Levedev]\n......",
-        "es-ES": "[Ilya Lebedev]\n…"
+        "es-ES": "[Ilya Lebedev]\n..."
     },
     "bo2cBw": {
         "en-US": "[Ilya Levedev]\nI'm sure you know what happened during our first mission... not long ago.\nAfter that. Jana had such a hard time.",
         "pt-BR": "[Ilya Levedev]\nTenho certeza que você sabe o que aconteceu durante nossa primeira missão... não faz muito tempo.\nDepois disso, Jana passou por um momento difícil.",
-        "es-ES": "[Ilya Lebedev]\nEstoy seguro de que sabes lo que pasó durante nuestra primera misión… no hace mucho.\nDespués de eso, Jana la pasó muy mal."
+        "es-ES": "[Ilya Lebedev]\nEstoy seguro de que sabes lo que pasó durante nuestra primera misión... no hace mucho.\nDespués de eso, Jana la pasó muy mal."
     },
     "b42cBw": {
         "en-US": "[Ilya Levedev]\nbecause Jana and I had been so confident that we would do well.\nThen it happened... and we... were so miserable.",
         "pt-BR": "[Ilya Levedev]\nPorque Jana e eu estávamos tão confiantes de que nos sairíamos bem.\nE então aconteceu... E nós... ficamos arrasados.",
-        "es-ES": "[Ilya Lebedev]\nJana y yo estábamos muy seguros de que nos iría bien.\nEntonces, sucedió… y nos sentimos tan mal."
+        "es-ES": "[Ilya Lebedev]\nJana y yo estábamos muy seguros de que nos iría bien.\nEntonces, sucedió... y nos sentimos tan mal."
     },
     "cI2cBw": {
         "en-US": "[Jana Levedev]\nSniffle. We didn't throw the grenade on purpose and we didn't enjoy it either. It's out fault. But, but...",
         "pt-BR": "[Jana Levedev]\nSnif. Não jogamos a granada de propósito nem gostamos de termos jogado. É nossa culpa. Mas, mas...",
-        "es-ES": "[Jana Levedev]\n*Solloza*. No lanzamos la granada a propósito y tampoco lo disfrutamos. Es culpa nuestra. Pero, pero…"
+        "es-ES": "[Jana Levedev]\n*Solloza*. No lanzamos la granada a propósito y tampoco lo disfrutamos. Es culpa nuestra. Pero, pero..."
     },
     "cY2cBw": {
         "en-US": "[Jana Levedev]\nWe were punished and moved to USU... Then we felt that everyone else regards us as horrible kids.",
         "pt-BR": "[Jana Levedev]\nFomos punidos e transferidos para a US... Então sentimos que todos nos consideravam crianças horríveis.",
-        "es-ES": "[Jana Levedev]\nNos castigaron y nos trasladaron a la US… Entonces, sentimos que los demás nos veían como unos malcriados."
+        "es-ES": "[Jana Levedev]\nNos castigaron y nos trasladaron a la US... Entonces, sentimos que los demás nos veían como unos malcriados."
     },
     "co2cBw": {
         "en-US": "Jana Levedev: Actually, we heard some people saying so. Even some people who don't know us said such things.",
@@ -1702,12 +1702,12 @@
     "dI2cBw": {
         "en-US": "[Jana Levedev]\nWe had no idea what to do. We just wanted to run away. Because everyone was blaming us and disappointed at us...\nBut we liked our unit and commander Ericsson...",
         "pt-BR": "[Jana Levedev]\nNão sabíamos o que fazer. Só queríamos fugir. Porque todos estavam decepcionados com a gente e nos culpando...\nMas gostávamos da nossa unidade e do comandante Ericsson...",
-        "es-ES": "[Jana Levedev]\nNo teníamos ni idea de qué hacer. Solo queríamos huir. Porque todo el mundo nos culpaba y estaba decepcionado de nosotros…\nPero nos gustaba nuestra unidad y el comandante Ericsson…"
+        "es-ES": "[Jana Levedev]\nNo teníamos ni idea de qué hacer. Solo queríamos huir. Porque todo el mundo nos culpaba y estaba decepcionado de nosotros...\nPero nos gustaba nuestra unidad y el comandante Ericsson..."
     },
     "dY2cBw": {
         "en-US": "[Jana Levedev]\nWe thought that we had already ruined everything.\nAs everyone was already disappointed at us, we thought we could do whetever...",
         "pt-BR": "[Jana Levedev]\nPensamos que tínhamos arruinado tudo.\nComo todos já estavam decepcionados conosco, achamos que podíamos fazer qualquer coisa...",
-        "es-ES": "[Jana Levedev]\nPensamos que ya lo habíamos estropeado todo.\nComo todo el mundo ya estaba decepcionado de nosotros, pensamos que podíamos hacer cualquier…"
+        "es-ES": "[Jana Levedev]\nPensamos que ya lo habíamos estropeado todo.\nComo todo el mundo ya estaba decepcionado de nosotros, pensamos que podíamos hacer cualquier..."
     },
     "do2cBw": {
         "en-US": "Ilya Levedev: That's why we acted at our pleasure, thinking that we would be discharged soon.",
@@ -1717,32 +1717,32 @@
     "d42cBw": {
         "en-US": "[Jana Levedev]\nAs we acted at our pleasure, things got worse and worse... So we were scared...\nThen we began to believe that we were the worst and hopeless kids...",
         "pt-BR": "[Jana Levedev]\nConforme agíamos, as coisas iam piorando cada vez mais. E nós ficamos assustados...\nEntão começamos a acreditar que éramos as piores crianças, sem salvação...",
-        "es-ES": "[Jana Levedev]\nA medida que hacíamos lo que queríamos, las cosas empeoraban… Así que teníamos miedo...\nEntonces empezamos a creer que éramos los peores niños, que no teníamos remedio..."
+        "es-ES": "[Jana Levedev]\nA medida que hacíamos lo que queríamos, las cosas empeoraban... Así que teníamos miedo...\nEntonces empezamos a creer que éramos los peores niños, que no teníamos remedio..."
     },
     "eI2cBw": {
         "en-US": "Ilya Levedev: So we thought that we would be left away again...",
         "pt-BR": "Ilya Levedev: Então pensamos que seríamos abandonados de novo...",
-        "es-ES": "Ilya Lebedev: Así que pensamos que nos dejarían de lado de nuevo…"
+        "es-ES": "Ilya Lebedev: Así que pensamos que nos dejarían de lado de nuevo..."
     },
     "eY2cBw": {
         "en-US": "[Ilya Levedev]\nIt's just our excuse that nobody stopped us...\nI'm sorry to have troubled you...",
         "pt-BR": "[Ilya Levedev]\nComo ninguém nos impedia, isso se tornou nossa desculpa...\nSinto muito ter incomodado você...",
-        "es-ES": "[Ilya Lebedev]\nSolo tenemos la excusa de que nadie nos detuvo…\nSiento haberte molestado…"
+        "es-ES": "[Ilya Lebedev]\nSolo tenemos la excusa de que nadie nos detuvo...\nSiento haberte molestado..."
     },
     "eo2cBw": {
         "en-US": "[Jana Levedev]\nI'm... sorry too...",
         "pt-BR": "[Jana Levedev]\nEu... sinto muito também...",
-        "es-ES": "[Jana Levedev]\nYo también… lo siento…"
+        "es-ES": "[Jana Levedev]\nYo también... lo siento..."
     },
     "e42cBw": {
         "en-US": "Ilya Levedev: And thank you....",
         "pt-BR": "Ilya Levedev: E obrigado...",
-        "es-ES": "Ilya Lebedev: Y gracias…"
+        "es-ES": "Ilya Lebedev: Y gracias..."
     },
     "fI2cBw": {
         "en-US": "[{0}]\nThat's what happened... Now I know you suffered a lot.\nCan I tell this to your commander?\nOf course I won't tell anyone else.",
         "pt-BR": "[{0}]\nFoi isso o que aconteceu. Agora eu sei que vocês sofreram muito.\nPosso dizer isso à sua comandante?\nClaro que eu não contarei para mais ninguém.",
-        "es-ES": "[{0}]\nEso es lo que pasó… Ahora sé que sufrieron mucho.\n¿Puedo decirle esto a su comandante?\nPor supuesto que no se lo diré a nadie más."
+        "es-ES": "[{0}]\nEso es lo que pasó... Ahora sé que sufrieron mucho.\n¿Puedo decirle esto a su comandante?\nPor supuesto que no se lo diré a nadie más."
     },
     "fY2cBw": {
         "en-US": "Ilya Levedev: Yes. please.",
@@ -1752,7 +1752,7 @@
     "fo2cBw": {
         "en-US": "Jana Levedev: Yes...",
         "pt-BR": "Jana Levedev: Certo...",
-        "es-ES": "Jana Levedev: Sí…"
+        "es-ES": "Jana Levedev: Sí..."
     },
     "f42cBw": {
         "en-US": "[{0}]\n(You heard their story. Let's go to ^0000CDElena Bolkova^000000 and tell her.)",
@@ -1767,22 +1767,22 @@
     "gY2cBw": {
         "en-US": "[Jana Levedev]\n......\nWe'll be scolded...\nBut we have no choice. It's our fault. Please report to our commander.",
         "pt-BR": "[Jana Levedev]\n......\nSeremos repreendidos...\nMas não temos escolha. É nossa culpa. Por favor, relate à nossa comandante.",
-        "es-ES": "[Jana Levedev]\n…\nNos regañarán…\nPero no tenemos elección. Es culpa nuestra. Por favor, informa a nuestra comandante."
+        "es-ES": "[Jana Levedev]\n...\nNos regañarán...\nPero no tenemos elección. Es culpa nuestra. Por favor, informa a nuestra comandante."
     },
     "go2cBw": {
         "en-US": "Jana Levedev: What if she tells us to leave this unit...?",
         "pt-BR": "Jana Levedev: E se ela falar que precisamos sair da unidade?",
-        "es-ES": "Jana Levedev: ¿Y si nos dice que abandonemos esta unidad…?"
+        "es-ES": "Jana Levedev: ¿Y si nos dice que abandonemos esta unidad...?"
     },
     "g42cBw": {
         "en-US": "[Jana Levedev]\nCall from USU commander?\nShe will tell us that story...",
         "pt-BR": "[Jana Levedev]\nA comandante Elena está nos chamando?\nEla nos contará aquela história...",
-        "es-ES": "[Jana Levedev]\n¿Nos llama la comandante Elena?\nNos contará esa historia…"
+        "es-ES": "[Jana Levedev]\n¿Nos llama la comandante Elena?\nNos contará esa historia..."
     },
     "hI2cBw": {
         "en-US": "[Jana Levedev]\nWe'll be kicked out...?",
         "pt-BR": "[Jana Levedev]\nSeremos expulsos?",
-        "es-ES": "[Jana Levedev]\n¿Nos echarán…?"
+        "es-ES": "[Jana Levedev]\n¿Nos echarán...?"
     },
     "hY2cBw": {
         "en-US": "[{0}]\nI'm coming with you. I will defend you.",
@@ -1792,17 +1792,17 @@
     "ho2cBw": {
         "en-US": "[Ilya Levedev]\nThank you...\n...I hope Jana cheers up.",
         "pt-BR": "[Ilya Levedev]\nObrigado...\n...Espero que Jana se anime.",
-        "es-ES": "[Ilya Lebedev]\nGracias…\n…espero que Jana se anime."
+        "es-ES": "[Ilya Lebedev]\nGracias...\n...espero que Jana se anime."
     },
     "h42cBw": {
         "en-US": "[Jana Levedev]\nYes, I'm coming...",
         "pt-BR": "[Jana Levedev]\nSim, estou indo...",
-        "es-ES": "[Jana Levedev]\nSí, voy…"
+        "es-ES": "[Jana Levedev]\nSí, voy..."
     },
     "iI2cBw": {
         "en-US": "[Jana Levedev]\nI'm scared what she's going to tell us... But we will still meet her.",
         "pt-BR": "[Jana Levedev]\nTenho medo do que ela vai nos dizer... Mas ainda vamos encontrá-la.",
-        "es-ES": "[Jana Levedev]\nTengo miedo de lo que nos dirá… Pero aun así nos reuniremos con ella."
+        "es-ES": "[Jana Levedev]\nTengo miedo de lo que nos dirá... Pero aun así nos reuniremos con ella."
     },
     "iY2cBw": {
         "en-US": "Ilya Levedev: It's all our fault anyway.",
@@ -1812,7 +1812,7 @@
     "io2cBw": {
         "en-US": "[Jana Levedev]\nAh,{0}It's ____!\nBy the way, we are quite sleepy now after wandering around all day long...\nI wonder it's already time for us to be sleepy. Let's play together tomorrow...Zzz",
         "pt-BR": "[Jana Levedev]\nAh, é {0}!\nA propósito, estamos com bastante sono depois de andar o dia inteiro...\nMe pergunto se já não é hora da gente dormir. Vamos brincar juntos amanhã... Zzz",
-        "es-ES": "[Jana Levedev]\n¡Ah, {0}!\nPor cierto, ahora tenemos bastante sueño después de deambular todo el día…\nMe pregunto si ya es hora de dormir. Juguemos juntos mañana… *Zzz*."
+        "es-ES": "[Jana Levedev]\n¡Ah, {0}!\nPor cierto, ahora tenemos bastante sueño después de deambular todo el día...\nMe pregunto si ya es hora de dormir. Juguemos juntos mañana... *Zzz*."
     },
     "i42cBw": {
         "en-US": "[Jana Levedev]\nOh,{0}{1}It's ____!\nHave you come to play with us? Or for another business?",
@@ -1832,17 +1832,17 @@
     "jo2cBw": {
         "en-US": "[Jana Levedev]\nWow! Really?\nBut {0} the truth is that you are not playing with us. {0} We are playing with you. Haha!\nHmm... What are we going to do?",
         "pt-BR": "[Jana Levedev]\nUau! Sério?\nMas, {0}, a verdade é que você não está brincando com a gente. {0}, nós que estamos brincando com você. Haha!\nHumm... O que vamos fazer?",
-        "es-ES": "[Jana Levedev]\n¡Guau! ¿De verdad?\nPero, {0}, la verdad es que tú no estás jugando con nosotros. {0} somos nosotros los que estamos jugando contigo. ¡Jajaja!\nMmm… ¿Qué haremos?"
+        "es-ES": "[Jana Levedev]\n¡Guau! ¿De verdad?\nPero, {0}, la verdad es que tú no estás jugando con nosotros. {0} somos nosotros los que estamos jugando contigo. ¡Jajaja!\nMmm... ¿Qué haremos?"
     },
     "j42cBw": {
         "en-US": "[Jana Levedev]\nHmm.. Commander Elena told us to make a hobby.\nI guess reading is a fine hobby. Isn't it?",
         "pt-BR": "[Jana Levedev]\nHum... A comandante Elena falou para encontrarmos um passatempo.\nAcho que ler é um bom passatempo. Não é?",
-        "es-ES": "[Jana Levedev]\nMmm… La comandante Elena nos dijo que buscáramos un pasatiempo.\nSupongo que leer es una buena opción. ¿Verdad que sí?"
+        "es-ES": "[Jana Levedev]\nMmm... La comandante Elena nos dijo que buscáramos un pasatiempo.\nSupongo que leer es una buena opción. ¿Verdad que sí?"
     },
     "kI2cBw": {
         "en-US": "[Jana Levedev]\nPlease borrow a book for us from the juvenile section of Prontera library.\nThe book's name is... ^0000CDIt's dizzy after being shaken 1,000 times^000000. Please borrow this for me.",
         "pt-BR": "[Jana Levedev]\nPor favor, pegue emprestado para nós um livro da seção infantil da biblioteca de Prontera.\nO nome do livro é... ^0000CDEnjoado de Tanto Girar^000000. Pegue emprestado para mim.",
-        "es-ES": "[Jana Levedev]\nPide un libro prestado para nosotros de la sección juvenil de la biblioteca de Prontera.\nEl nombre del libro es… ^0000CDSe marea después de ser sacudido 1000 veces^000000. Por favor, pídelo prestado para mí."
+        "es-ES": "[Jana Levedev]\nPide un libro prestado para nosotros de la sección juvenil de la biblioteca de Prontera.\nEl nombre del libro es... ^0000CDSe marea después de ser sacudido 1000 veces^000000. Por favor, pídelo prestado para mí."
     },
     "kY2cBw": {
         "en-US": "Ilya Levedev: They say it's such a famous book.",
@@ -1857,7 +1857,7 @@
     "k42cBw": {
         "en-US": "[Jana Levedev]\nPlease borrow a book for us from the juvenile section of Prontera library.\nThe book's name is... ^0000CDRebellion, the history of liberty^000000. Please borrow this book for me.",
         "pt-BR": "[Jana Levedev]\nPor favor, pegue emprestado um livro da biblioteca de Prontera.\nO nome do livro é... ^0000CDRebelião, a história da liberdade^000000. Por favor, pegue esse livro emprestado para mim.",
-        "es-ES": "[Jana Levedev]\nPide un libro prestado para nosotros de la sección juvenil de la biblioteca de Prontera.\nEl nombre del libro es… ^0000CDRebelión, la historia de la libertad^000000. Por favor, pide prestado este libro para mí."
+        "es-ES": "[Jana Levedev]\nPide un libro prestado para nosotros de la sección juvenil de la biblioteca de Prontera.\nEl nombre del libro es... ^0000CDRebelión, la historia de la libertad^000000. Por favor, pide prestado este libro para mí."
     },
     "lI2cBw": {
         "en-US": "Ilya Levedev: After looking its name, I feel like I must read it.",
@@ -1867,7 +1867,7 @@
     "lY2cBw": {
         "en-US": "[Ilya Levedev]\nI would be glad if borrow a book for me from the juvenile section of Prontera library.\nThe book's name is... ^0000CDNorgroad Horizon^000000.",
         "pt-BR": "[Ilya Levedev]\nFicaria feliz se você pegasse emprestado um livro da seção juvenil da biblioteca de Prontera.\nO nome do livro é... ^0000CDHorizonte de Nifflheim^000000.",
-        "es-ES": "[Ilya Lebedev]\nMe encantaría que me prestaran un libro de la sección juvenil de la biblioteca de Prontera.\nEl nombre del libro es… ^0000CDHorizonte Norgroad^000000."
+        "es-ES": "[Ilya Lebedev]\nMe encantaría que me prestaran un libro de la sección juvenil de la biblioteca de Prontera.\nEl nombre del libro es... ^0000CDHorizonte Norgroad^000000."
     },
     "lo2cBw": {
         "en-US": "Ilya Levedev: It's about the great adventurer who explores Norgroad.",
@@ -1887,7 +1887,7 @@
     "mY2cBw": {
         "en-US": "[Jana Levedev]\nNo! How can you say that? There are so many dangerous monsters in the mine!\nAnd we are curious to see if there are materials suitable for our research...",
         "pt-BR": "[Jana Levedev]\nNão! Como você pode dizer isso? Há tantos monstros perigosos na mina!\nE nós estamos curiosos para ver se há materiais adequados para a nossa pesquisa...",
-        "es-ES": "[Jana Levedev]\n¡No! ¿Cómo puedes decir eso? ¡Hay muchos monstruos peligrosos en la mina!\nY nos da curiosidad ver si hay materiales adecuados para nuestra investigación…"
+        "es-ES": "[Jana Levedev]\n¡No! ¿Cómo puedes decir eso? ¡Hay muchos monstruos peligrosos en la mina!\nY nos da curiosidad ver si hay materiales adecuados para nuestra investigación..."
     },
     "mo2cBw": {
         "en-US": "[Jana Levedev]\nTherefore{0}Please implement a previous exploration for us.\nPlease defeat 30 Pitman in Einbech mine and bring us a Gun_Powder.\n{0}I'm sure this is a piece of cake to you. We will count on you!",
@@ -1902,7 +1902,7 @@
     "nI2cBw": {
         "en-US": "[Ilya Levedev]\nNo! How can you say that? There are so many dangerous monsters in the mine!\nAnd Jana says she's curious to see if there are materials suitable for our research...",
         "pt-BR": "[Ilya Levedev]\nNão! Como você pode dizer isso? Há tantos monstros perigosos na mina!\nE a Jana está curiosa para ver materiais para a nossa pesquisa...",
-        "es-ES": "[Ilya Lebedev]\n¡No! ¿Cómo puedes decir eso? ¡Hay muchos monstruos peligrosos en la mina!\nY Jana dice que le da curiosidad ver si hay materiales adecuados para nuestra investigación…"
+        "es-ES": "[Ilya Lebedev]\n¡No! ¿Cómo puedes decir eso? ¡Hay muchos monstruos peligrosos en la mina!\nY Jana dice que le da curiosidad ver si hay materiales adecuados para nuestra investigación..."
     },
     "nY2cBw": {
         "en-US": "[Ilya Levedev]\nSo we'd like to request you to implement a previous exploration.\nPlease defeat 20 Bearnomus and 20 Noxious in Einbech mine and bring us one Explosive Powder.\nI know this will be cumbersome. But we will count on you.",
@@ -1917,7 +1917,7 @@
     "n42cBw": {
         "en-US": "[Jana Levedev]\n{0},{0}! We made some cookies!\nOf course we didn't do the entire cooking... Milo prepared ingredients and the cooking space.",
         "pt-BR": "[Jana Levedev]\n{0}, {0}! Preparamos alguns biscoitos!\nClaro que não cozinhamos tudo... Milo preparou os ingredientes e o espaço para cozinhar.",
-        "es-ES": "[Jana Levedev]\n¡{0}, {0}! ¡Hicimos galletas!\nClaro que no cocinamos todo… Milo preparó los ingredientes y el espacio para cocinar."
+        "es-ES": "[Jana Levedev]\n¡{0}, {0}! ¡Hicimos galletas!\nClaro que no cocinamos todo... Milo preparó los ingredientes y el espacio para cocinar."
     },
     "oI2cBw": {
         "en-US": "[Jana Levedev]\nIt tastes good! Certainly not better than those cooked by grandma Lucy. But it's still wonderful.",
@@ -1932,7 +1932,7 @@
     "oo2cBw": {
         "en-US": "[Jana Levedev]\n{0}Please have some!{0}This is for you... And could you please these five bundles to people around you?",
         "pt-BR": "[Jana Levedev]\n{0}, por favor, sirva-se! {0}, é para você... E poderia distribuir esses cinco pacotes para as pessoas próximas?",
-        "es-ES": "[Jana Levedev]\n{0} ¡Por favor, toma un poco! {0} esto es para ti… ¿Y podrías, por favor, repartir estos cinco paquetes entre las personas que te rodean?"
+        "es-ES": "[Jana Levedev]\n{0} ¡Por favor, toma un poco! {0} esto es para ti... ¿Y podrías, por favor, repartir estos cinco paquetes entre las personas que te rodean?"
     },
     "o42cBw": {
         "en-US": "[Jana Levedev]\nTo Milo, Mason and Rachel.\nAnd to commander Adler and commander Elena as well, please.\nMake sure you tell them we made these.",
@@ -1947,17 +1947,17 @@
     "pY2cBw": {
         "en-US": "[Jana Levedev]\nI see... If you are busy, we shouldn't bother you.\nBut please promise us that you will play with us after you finish your quest.",
         "pt-BR": "[Jana Levedev]\nEntendo... Se você está ocupado, não devemos te incomodar.\nMas prometa que você vai brincar com a gente depois de terminar sua missão.",
-        "es-ES": "[Jana Levedev]\nYa veo… Si no tienes tiempo, no deberíamos molestarte.\nPero prométenos que jugarás con nosotros cuando termines tu misión."
+        "es-ES": "[Jana Levedev]\nYa veo... Si no tienes tiempo, no deberíamos molestarte.\nPero prométenos que jugarás con nosotros cuando termines tu misión."
     },
     "po2cBw": {
         "en-US": "[Jana Levedev]\nDid you forget what I asked you to borrow? 'It's dizzy after being shaken 1,000 times'!\nLast time I went there with Ilya, the librarian at juvenile section found it for me...",
         "pt-BR": "[Jana Levedev]\nVocê esqueceu o livro que pedi? 'Enjoado de Tanto Girar'!\nA última vez que fui lá com Ilya, a moça encontrou pra mim...",
-        "es-ES": "[Jana Levedev]\n¿Olvidaste lo que tenías que pedir prestado? “¡Se marea después de ser sacudido 1000 veces!”.\nLa última vez que fui con Ilya, quien se encarga de la sección juvenil de la biblioteca lo encontró…"
+        "es-ES": "[Jana Levedev]\n¿Olvidaste lo que tenías que pedir prestado? “¡Se marea después de ser sacudido 1000 veces!”.\nLa última vez que fui con Ilya, quien se encarga de la sección juvenil de la biblioteca lo encontró..."
     },
     "p42cBw": {
         "en-US": "[Jana Levedev]\nDid you forget what I asked you to borrow? 'Rebellion, the history of liberty'!\nLast time I went there with Ilya, the librarian at juvenile section found it for me...",
         "pt-BR": "[Jana Levedev]\nVocê esqueceu o livro que pedi? 'Rebelião, a história da liberdade'!\nA última vez que fui lá com Ilya, a moça encontrou pra mim...",
-        "es-ES": "[Jana Levedev]\n¿Olvidaste lo que tenías que pedir prestado? “¡Rebelión, la historia de la libertad!”.\nLa última vez que fui con Ilya, quien se encarga de la sección juvenil de la biblioteca lo encontró…"
+        "es-ES": "[Jana Levedev]\n¿Olvidaste lo que tenías que pedir prestado? “¡Rebelión, la historia de la libertad!”.\nLa última vez que fui con Ilya, quien se encarga de la sección juvenil de la biblioteca lo encontró..."
     },
     "qI2cBw": {
         "en-US": "[Ilya Levedev]\nNorgroad Horizon, please.\nIf you tell the book name to the librarian, he/she will hand it you you.",
@@ -1967,12 +1967,12 @@
     "qY2cBw": {
         "en-US": "[Jana Levedev]\nOh, you're back? Please give the book!\nThe book... You don't have it? Don't tell me you lost it.",
         "pt-BR": "[Jana Levedev]\nAh, você voltou? Por favor, me dê o livro!\nO livro... Você não trouxe? Não me diga que você perdeu ele.",
-        "es-ES": "[Jana Levedev]\nOh, ¿has vuelto? ¡Por favor, dame el libro!\nEl libro… ¿No lo tienes? No me digas que lo perdiste."
+        "es-ES": "[Jana Levedev]\nOh, ¿has vuelto? ¡Por favor, dame el libro!\nEl libro... ¿No lo tienes? No me digas que lo perdiste."
     },
     "qo2cBw": {
         "en-US": "[Jana Levedev]\nIf you lost it... You have to go to the library and report of the loss of that book.",
         "pt-BR": "[Jana Levedev]\nSe você perdeu... Você tem que ir à biblioteca e informar a perda do livro.",
-        "es-ES": "[Jana Levedev]\nSi lo perdiste… Tienes que ir a la biblioteca e informar que perdiste ese libro."
+        "es-ES": "[Jana Levedev]\nSi lo perdiste... Tienes que ir a la biblioteca e informar que perdiste ese libro."
     },
     "q42cBw": {
         "en-US": "[Jana Levedev]\nOh! We're going to Einbech mine. Please implement a previous exploration for us.",
@@ -2047,7 +2047,7 @@
     "uY2cBw": {
         "en-US": "[Jana Levedev]\nI see... If you are busy, we shouldn't bother you.\nBut please don't go away without coming back to us.",
         "pt-BR": "[Jana Levedev]\nEntendo... Se você está ocupado, não devemos te incomodar.\nMas prometa que você vai brincar com a gente depois de terminar sua missão.",
-        "es-ES": "[Jana Levedev]\nYa veo… Si no tienes tiempo, no deberíamos molestarte.\nPero, por favor, no te vayas sin vernos antes."
+        "es-ES": "[Jana Levedev]\nYa veo... Si no tienes tiempo, no deberíamos molestarte.\nPero, por favor, no te vayas sin vernos antes."
     },
     "uo2cBw": {
         "en-US": "Older_sister",
@@ -2072,7 +2072,7 @@
     "vo2cBw": {
         "en-US": "[Ilya Levedev]\n......Don't talk to Jana.",
         "pt-BR": "[Ilya Levedev]\n.......Não fale com a Jana.",
-        "es-ES": "[Ilya Lebedev]\n…No hables con Jana."
+        "es-ES": "[Ilya Lebedev]\n...No hables con Jana."
     },
     "v42cBw": {
         "en-US": "[Ilya Levedev]\nDon't talk to me either.",
@@ -2082,37 +2082,37 @@
     "wI2cBw": {
         "en-US": "He held his lips tight with a stubborn face..\nSeems like it's easier to talk to the girl.",
         "pt-BR": "Ele aperta os lábios com a feição obstinada.\nParece que é mais fácil falar com a garota.",
-        "es-ES": "Mantuvo los labios apretados con un semblante obstinado…\nParece que es más fácil hablar con la chica."
+        "es-ES": "Mantuvo los labios apretados con un semblante obstinado...\nParece que es más fácil hablar con la chica."
     },
     "wY2cBw": {
         "en-US": "[Ilya Levedev]\nJana... You're cute even when you're breathing...",
         "pt-BR": "[Ilya Levedev]\nJana... Você é fofa até para respirar.",
-        "es-ES": "[Ilya Lebedev]\nJana… Eres linda incluso cuando respiras…"
+        "es-ES": "[Ilya Lebedev]\nJana... Eres linda incluso cuando respiras..."
     },
     "wo2cBw": {
         "en-US": "[Ilya Levedev]\n...?!!!\nWhy did you overhear me?",
         "pt-BR": "[Ilya Levedev]\n...?!!!\nComo você me ouviu?",
-        "es-ES": "[Ilya Lebedev]\n¡¿…?!\n¿Por qué me escuchaste?"
+        "es-ES": "[Ilya Lebedev]\n¡¿...?!\n¿Por qué me escuchaste?"
     },
     "w42cBw": {
         "en-US": "He is furious. But he's the one who said that loud...\nSeems like it's easier to talk to the girl.",
         "pt-BR": "Ele está furioso. Mas foi ele que falou aquilo em voz alta...\nParece que é mais fácil falar com a garota.",
-        "es-ES": "Está furioso. Pero fue él quien habló alto…\nParece que es más fácil hablar con la chica."
+        "es-ES": "Está furioso. Pero fue él quien habló alto...\nParece que es más fácil hablar con la chica."
     },
     "xI2cBw": {
         "en-US": "[Ilya Levedev]\n.........",
         "pt-BR": "[Ilya Levedev]\n.........",
-        "es-ES": "[Ilya Lebedev]\n…"
+        "es-ES": "[Ilya Lebedev]\n..."
     },
     "xY2cBw": {
         "en-US": "[Ilya Levedev]\n.....................",
         "pt-BR": "[Ilya Levedev]\n.....................",
-        "es-ES": "[Ilya Lebedev]\n…"
+        "es-ES": "[Ilya Lebedev]\n..."
     },
     "xo2cBw": {
         "en-US": "[Ilya Levedev]\n...................................................",
         "pt-BR": "[Ilya Levedev]\n...................................................",
-        "es-ES": "[Ilya Lebedev]\n…"
+        "es-ES": "[Ilya Lebedev]\n..."
     },
     "x42cBw": {
         "en-US": "He held his lips tight and looking at me.\nSeems like it's easier to talk to the girl.",
@@ -2127,7 +2127,7 @@
     "yY2cBw": {
         "en-US": "[Ilya Levedev]\nI mean.... how much she likes her older brother...",
         "pt-BR": "[Ilya Levedev]\nO quanto ela gosta do irmão mais velho...",
-        "es-ES": "[Ilya Lebedev]\nQuiero decir… cuánto le agrada su hermano mayor…"
+        "es-ES": "[Ilya Lebedev]\nQuiero decir... cuánto le agrada su hermano mayor..."
     },
     "yo2cBw": {
         "en-US": "[Jana Levedev]\nIlya, I heard that.",
@@ -2137,12 +2137,12 @@
     "y42cBw": {
         "en-US": "[Ilya Levedev]\nGosh! No, no... I was just...!!",
         "pt-BR": "[Ilya Levedev]\nCaramba! Não, não... Eu só estava...",
-        "es-ES": "[Ilya Lebedev]\n¡Cielos! No, no… ¡Solo estaba…!"
+        "es-ES": "[Ilya Lebedev]\n¡Cielos! No, no... ¡Solo estaba...!"
     },
     "zI2cBw": {
         "en-US": "[Ilya Levedev]\nI made cookies together with Jana. Yesterday, we read a book together. Tomorrow we will explore the dead mine...",
         "pt-BR": "[Ilya Levedev]\nEu fiz biscoitos junto com a Jana. Ontem, nós lemos um livro juntos. Amanhã nós vamos explorar a mina abandonada.",
-        "es-ES": "[Ilya Lebedev]\nHice galletas con Jana. Ayer leímos un libro juntos. Mañana exploraremos la mina abandonada…"
+        "es-ES": "[Ilya Lebedev]\nHice galletas con Jana. Ayer leímos un libro juntos. Mañana exploraremos la mina abandonada..."
     },
     "zY2cBw": {
         "en-US": "Ilya Levedev is be excited and boasting about what happened.",
@@ -2167,17 +2167,17 @@
     "0Y2cBw": {
         "en-US": "[Ilya Levedev]\nI want to be called by my first name, Ilya...",
         "pt-BR": "[Ilya Levedev]\nEu quero ser chamado pelo meu primeiro nome, Ilya...",
-        "es-ES": "[Ilya Lebedev]\nQuiero que me llamen por mi nombre, Ilya…"
+        "es-ES": "[Ilya Lebedev]\nQuiero que me llamen por mi nombre, Ilya..."
     },
     "0o2cBw": {
         "en-US": "[Ilya Levedev]\nI mean... by Jana. Not by you.",
         "pt-BR": "[Ilya Levedev]\nDigo... pela Jana. Não por você.",
-        "es-ES": "[Ilya Lebedev]\nQuiero decir… que Jana me llame así. No tú."
+        "es-ES": "[Ilya Lebedev]\nQuiero decir... que Jana me llame así. No tú."
     },
     "042cBw": {
         "en-US": "[Ilya Levedev]\nSometimes I wish she calls me 'brother'...",
         "pt-BR": "[Ilya Levedev]\nÀs vezes, eu gostaria que ela me chamasse de 'irmão'...",
-        "es-ES": "[Ilya Lebedev]\nA veces, me gustaría que me dijera “hermano”…"
+        "es-ES": "[Ilya Lebedev]\nA veces, me gustaría que me dijera “hermano”..."
     },
     "1I2cBw": {
         "en-US": "[Ilya Levedev]\nJana calls you{0}___. And why does she call me Ilya...?!",
@@ -2197,7 +2197,7 @@
     "142cBw": {
         "en-US": "[Detached Force commander Ericsson]\nSmells good. Of course it's not as good as Lucy's...",
         "pt-BR": "[Ericsson Adler]\nCheiram bem. Claro, não é tão bom quanto os da Lucy...",
-        "es-ES": "[Ericsson Adler]\nHuele bien. Por supuesto, no son tan buenas como las de Lucy…"
+        "es-ES": "[Ericsson Adler]\nHuele bien. Por supuesto, no son tan buenas como las de Lucy..."
     },
     "2I2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nHmm, good! Tell them thanks.",
@@ -2212,7 +2212,7 @@
     "2o2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nYou... You're the adventurer who showed up with the Secret Wings.\nWhat can I do for you?",
         "pt-BR": "[Ericsson Adler]\nVocê... Você é o viajante que veio com o Vento Secreto.\nEm que posso ajudar?",
-        "es-ES": "[Ericsson Adler]\nTú… Eres el trotamundos que apareció con el Viento Secreto.\n¿En qué te puedo ayudar?"
+        "es-ES": "[Ericsson Adler]\nTú... Eres el trotamundos que apareció con el Viento Secreto.\n¿En qué te puedo ayudar?"
     },
     "242cBw": {
         "en-US": "You told him what you heard from Elena Bolkova and asked him for a consultation.",
@@ -2227,7 +2227,7 @@
     "3Y2cBw": {
         "en-US": "[Detached Force commander Ericsson]\n...I heard what happened to them lately. But I didn't know they were suffering like that.",
         "pt-BR": "[Ericsson Adler]\n...Eu ouvi o que aconteceu com elas recentemente. Mas não sabia que elas estavam sofrendo assim.",
-        "es-ES": "[Ericsson Adler]\n…Me enteré de lo que les pasó últimamente. Pero no sabía que estaban sufriendo así."
+        "es-ES": "[Ericsson Adler]\n...Me enteré de lo que les pasó últimamente. Pero no sabía que estaban sufriendo así."
     },
     "3o2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nI want to talk to Levedev twins myself. But it is an arrogation and it will be bad for Commander Bolkova.\nCommander Bolkova knows that too. That's why she sent you.",
@@ -2247,7 +2247,7 @@
     "4Y2cBw": {
         "en-US": "[{0}]\n(......Cookies...?)",
         "pt-BR": "[{0}]\n(......Biscoitos?)",
-        "es-ES": "[{0}]\n(¿Galletas…?)"
+        "es-ES": "[{0}]\n(¿Galletas...?)"
     },
     "4o2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nHmm. But you don't have enough space in your bag. The cookies might be broken.",
@@ -2282,7 +2282,7 @@
     "6I2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nDid I give you that much cookies...? Sorry. Return the rest of them to me.",
         "pt-BR": "[Ericsson Adler]\nEu te dei tantos biscoitos assim? Desculpe. Traga o resto de volta pra mim.",
-        "es-ES": "[Ericsson Adler]\n¿Tantas galletas te di…? Lo siento. Devuélveme el resto."
+        "es-ES": "[Ericsson Adler]\n¿Tantas galletas te di...? Lo siento. Devuélveme el resto."
     },
     "6Y2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nI received them from someone I like. At least I have to taste the cookie so that I can make the feedback.",
@@ -2297,22 +2297,22 @@
     "642cBw": {
         "en-US": "[Detached Force commander Ericsson]\nYou...?",
         "pt-BR": "[Ericsson Adler]\nVocê?",
-        "es-ES": "[Ericsson Adler]\n¿Tú…?"
+        "es-ES": "[Ericsson Adler]\n¿Tú...?"
     },
     "7I2cBw": {
         "en-US": "[Detached Force commander Ericsson]\n...?\nYou...",
         "pt-BR": "[Ericsson Adler]\n...?\nVocê...",
-        "es-ES": "[Ericsson Adler]\n¿…?\nTú…"
+        "es-ES": "[Ericsson Adler]\n¿...?\nTú..."
     },
     "7Y2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nYou are the adventurer who created a huge noise in our hideout.\nBy the way, ...Hmm, no. Never mind.",
         "pt-BR": "[Ericsson Adler]\nVocê é o viajante que fez um estardalhaço no nosso esconderijo.\nA propósito, Humm... não. Esqueça.",
-        "es-ES": "[Ericsson Adler]\nEres el trotamundos que alborotó nuestro escondite.\nPor cierto, mmm… No, no importa."
+        "es-ES": "[Ericsson Adler]\nEres el trotamundos que alborotó nuestro escondite.\nPor cierto, mmm... No, no importa."
     },
     "7o2cBw": {
         "en-US": "[{0}]\n(...Seems like he wants to say something.)",
         "pt-BR": "[{0}]\n(...Parece que ele quer dizer alguma coisa)",
-        "es-ES": "[{0}]\n(…Parece que quiere decir algo)."
+        "es-ES": "[{0}]\n(...Parece que quiere decir algo)."
     },
     "742cBw": {
         "en-US": "Would you like to say anything?",
@@ -2327,7 +2327,7 @@
     "8Y2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nOh, actually... I wanted to ask you for a little favor.\nYou'll have to visit Einbroch for a while. Would you accept it?",
         "pt-BR": "[Ericsson Adler]\nAh, na verdade... Eu queria pedir um pequeno favor.\nVocê terá que visitar Einbroch por um tempo. Você aceitaria?",
-        "es-ES": "[Ericsson Adler]\nOh, en realidad… Quería pedirte un pequeño favor.\nTendrás que visitar Einbroch durante un tiempo. ¿Podrías hacerlo?"
+        "es-ES": "[Ericsson Adler]\nOh, en realidad... Quería pedirte un pequeño favor.\nTendrás que visitar Einbroch durante un tiempo. ¿Podrías hacerlo?"
     },
     "8o2cBw": {
         "en-US": "I will help you.",
@@ -2352,7 +2352,7 @@
     "9o2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nI will count on you. Come back and report, I mean... tell me.",
         "pt-BR": "[Ericsson Adler]\nEstou contando com você. Volte e reporte, quero dizer... conte-me.",
-        "es-ES": "[Ericsson Adler]\nCuento contigo. Regresa e infórmame, quiero decir… cuéntame."
+        "es-ES": "[Ericsson Adler]\nCuento contigo. Regresa e infórmame, quiero decir... cuéntame."
     },
     "942cBw": {
         "en-US": "[Detached Force commander Ericsson]\nSorry for this inconvenience.",
@@ -2372,7 +2372,7 @@
     "+o2cBw": {
         "en-US": "[Detached Force commander Ericsson]\nHmm... What's the matter?\nIf I keep saying the same words, print a screen and contact the administration team.",
         "pt-BR": "[Ericsson Adler]\nHumm... Qual é o problema?\nSe eu continuar falando as mesmas palavras, capture uma imagem da tela e entre em contato com a equipe administrativa.",
-        "es-ES": "[Ericsson Adler]\nMmm… ¿Qué sucede?\nSi sigo repitiendo las mismas palabras, saca captura de la pantalla y ponte en contacto con el equipo de administración."
+        "es-ES": "[Ericsson Adler]\nMmm... ¿Qué sucede?\nSi sigo repitiendo las mismas palabras, saca captura de la pantalla y ponte en contacto con el equipo de administración."
     },
     "+42cBw": {
         "en-US": "[Detached Force commander Ericsson]\nOh, it's you. Welcome back.",
@@ -2422,12 +2422,12 @@
     "BI6cBw": {
         "en-US": "[Detached Force commander Ericsson]\n...Perhaps there must have been a huge misunderstanding.\nPlease don't tell about it anyone else in the Rebellion, except Levedev twins.",
         "pt-BR": "[Ericsson Adler]\n...Talvez tenha havido um grande mal-entendido.\nPor favor, não conte isso a ninguém na Rebelião, exceto aos gêmeos Levedev.",
-        "es-ES": "[Ericsson Adler]\n…Quizá hubo un gran malentendido.\nPor favor, no se lo digas a nadie más en la Rebelión, excepto a los gemelos Lebedev."
+        "es-ES": "[Ericsson Adler]\n...Quizá hubo un gran malentendido.\nPor favor, no se lo digas a nadie más en la Rebelión, excepto a los gemelos Lebedev."
     },
     "BY6cBw": {
         "en-US": "[Detached Force commander Ericsson]\nOnly if that kid was alive...",
         "pt-BR": "[Ericsson Adler]\nSe ao menos aquela criança estivesse viva...",
-        "es-ES": "[Ericsson Adler]\nSi tan solo no hubiera muerto…"
+        "es-ES": "[Ericsson Adler]\nSi tan solo no hubiera muerto..."
     },
     "Bo6cBw": {
         "en-US": "[Detached Force commander Ericsson]\nNo, nothing.",
@@ -2497,7 +2497,7 @@
     "E46cBw": {
         "en-US": "[Flower Girl]\nFlowers, buy some flowers.\nPhew... The air is so hazy that the flowers wither quickly...",
         "pt-BR": "[Menina Florista]\nFlores, compre algumas flores.\nUfa... O dia está tão nublado que as flores murcham rápido...",
-        "es-ES": "[Chica Florista]\nFlores, compra flores.\nFiu… El aire es tan brumoso que las flores se marchitan rápidamente…"
+        "es-ES": "[Chica Florista]\nFlores, compra flores.\nFiu... El aire es tan brumoso que las flores se marchitan rápidamente..."
     },
     "FI6cBw": {
         "en-US": "[Flower Girl]\nHello. Would you like to by a flower?",
@@ -2512,12 +2512,12 @@
     "Fo6cBw": {
         "en-US": "[Flower Girl]\nYes, I will!\nOops, I'm in trouble...",
         "pt-BR": "[Menina Florista]\nCerto, farei!\nOps, estou com problemas.",
-        "es-ES": "[Chica Florista]\n¡Sí, lo haré!\nUy, estoy en problemas…"
+        "es-ES": "[Chica Florista]\n¡Sí, lo haré!\nUy, estoy en problemas..."
     },
     "F46cBw": {
         "en-US": "[Flower Girl]\nI have the flowers, but I ran out of the paper to make a Bunch Of Flowers.\nTo tell the truth, the shop where I've been buying the paper is closed...\nI can't go too far from here alone.",
         "pt-BR": "[Menina Florista]\nEu tenho as flores, mas acabou o papel para fazer um Ramo de Flores.\nPara falar a verdade, a loja onde compro o papel está fechada...\nE eu não posso ir muito longe daqui sozinha.",
-        "es-ES": "[Chica Florista]\nTengo las flores, pero me quedé sin papel para hacer un Ramo de Flores.\nA decir verdad, la tienda donde estuve comprando el papel está cerrada…\nNo puedo irme muy lejos de aquí sola."
+        "es-ES": "[Chica Florista]\nTengo las flores, pero me quedé sin papel para hacer un Ramo de Flores.\nA decir verdad, la tienda donde estuve comprando el papel está cerrada...\nNo puedo irme muy lejos de aquí sola."
     },
     "GI6cBw": {
         "en-US": "[Flower Girl]\nIf you bring me ^0000CDthree smooth paper^000000, I will make you a Bunch Of Flowers without charging you for the flower.\nI'm counting on you.",
@@ -2527,7 +2527,7 @@
     "GY6cBw": {
         "en-US": "[Flower Girl]\nWhat's going on here...?\nIf I keep saying the same thing, print a screen and contact the administration team.",
         "pt-BR": "[Menina Florista]\nO que está acontecendo aqui?\nSe eu continuar falando as mesmas palavras, capture uma imagem da tela e entre em contato com a equipe administrativa.",
-        "es-ES": "[Chica Florista]\n¿Qué está pasando aquí…?\nSi sigo repitiendo lo mismo, saca captura de la pantalla y ponte en contacto con el equipo de administración."
+        "es-ES": "[Chica Florista]\n¿Qué está pasando aquí...?\nSi sigo repitiendo lo mismo, saca captura de la pantalla y ponte en contacto con el equipo de administración."
     },
     "Go6cBw": {
         "en-US": "[Flower Girl]\nDid you bring ^0000CDthree smooth paper^000000?\nIf you bring them, I will make you a Bunch Of Flowers without charging you for the flower.",
@@ -2547,7 +2547,7 @@
     "HY6cBw": {
         "en-US": "[Flower Girl]\nOops... You don't have enough space in your bag.\nCould you please come back after arranging your inventory?",
         "pt-BR": "[Menina Florista]\nOps... Você não tem espaço suficiente na sua mochila.\nPoderia voltar depois de organizar o seu inventário?",
-        "es-ES": "[Chica Florista]\nUy… No tienes suficiente espacio en tu bolso.\n¿Podrías volver luego de arreglar tu inventario?"
+        "es-ES": "[Chica Florista]\nUy... No tienes suficiente espacio en tu bolso.\n¿Podrías volver luego de arreglar tu inventario?"
     },
     "Ho6cBw": {
         "en-US": "[Flower Girl]\nHere it is. It's beautiful.",
@@ -2557,7 +2557,7 @@
     "H46cBw": {
         "en-US": "[Flower Girl]\nA Bunch Of Flowers... Don't you need it?",
         "pt-BR": "[Menina Florista]\nUm Ramo de Flores... Você não precisa disso?",
-        "es-ES": "[Chica Florista]\nUn Ramo de Flores… ¿No lo necesitas?"
+        "es-ES": "[Chica Florista]\nUn Ramo de Flores... ¿No lo necesitas?"
     },
     "II6cBw": {
         "en-US": "[Flower Girl]\nHello, welcome back. Which flower do you need?",
@@ -2572,17 +2572,17 @@
     "Io6cBw": {
         "en-US": "[Flower Girl]\nOops... As you know, I still don't have enough paper to wrap the flower.\nIf you bring me ^0000CDthree smooth paper^000000, I will make it for you.",
         "pt-BR": "[Menina Florista]\nOps... Como você sabe, eu ainda não tenho papel suficiente para embrulhar as flores.\nSe você me trouxer ^0000CD3 Pedaços de Papel^000000, eu faço para você.",
-        "es-ES": "[Chica Florista]\nUy… Como te dije, aún no tengo suficiente papel para envolver las flores.\nSi me traes ^0000CDtres papeles lisos^000000, te lo haré."
+        "es-ES": "[Chica Florista]\nUy... Como te dije, aún no tengo suficiente papel para envolver las flores.\nSi me traes ^0000CDtres papeles lisos^000000, te lo haré."
     },
     "I46cBw": {
         "en-US": "[Flower Girl]\nSorry. If I don't have enough smooth paper, I cannot make a Bunch Of Flowers...",
         "pt-BR": "[Menina Florista]\nDesculpe. Se eu não tiver papéis suficientes, eu não posso fazer um Ramo de Flores...",
-        "es-ES": "[Chica Florista]\nLo siento. Si no tengo suficiente papel liso, no puedo hacer un Ramo de flores…"
+        "es-ES": "[Chica Florista]\nLo siento. Si no tengo suficiente papel liso, no puedo hacer un Ramo de flores..."
     },
     "JI6cBw": {
         "en-US": "[Flower Girl]\nOops! Sorry. A Bunch Of Flowers... Don't you need it?",
         "pt-BR": "[Menina Florista]\nOops! Desculpe. Um Ramo de Flores... Você não precisa disso?",
-        "es-ES": "[Chica Florista]\n¡Uy! Lo siento. Un Ramo de flores… ¿No lo necesitas?"
+        "es-ES": "[Chica Florista]\n¡Uy! Lo siento. Un Ramo de flores... ¿No lo necesitas?"
     },
     "JY6cBw": {
         "en-US": "[Flower Girl]\nThe flower withers soon. But it's beautiful while it is blooming.",
@@ -2597,12 +2597,12 @@
     "J46cBw": {
         "en-US": "[Flower Girl]\nOops... Sorry. I still don't have enough paper to wrap the flower.\nIf you bring me ^0000CDthree smooth paper^000000, I will make it for you.",
         "pt-BR": "[Menina Florista]\nOps... Como você sabe, eu ainda não tenho papel suficiente para embrulhar as flores.\nSe você me trouxer ^0000CD3 Pedaços de Papel^000000, eu faço para você.",
-        "es-ES": "[Chica Florista]\nUy… Lo siento. Todavía no tengo suficiente papel para envolver las flores.\nSi me traes ^0000CDtres papeles lisos^000000, te lo haré."
+        "es-ES": "[Chica Florista]\nUy... Lo siento. Todavía no tengo suficiente papel para envolver las flores.\nSi me traes ^0000CDtres papeles lisos^000000, te lo haré."
     },
     "KI6cBw": {
         "en-US": "[Flower Girl]\nHere you go. I wish you blessings...",
         "pt-BR": "[Menina Florista]\nAqui está. Eu lhe desejo tudo de bom...",
-        "es-ES": "[Chica Florista]\nAquí tienes. Te deseo bendiciones…"
+        "es-ES": "[Chica Florista]\nAquí tienes. Te deseo bendiciones..."
     },
     "KY6cBw": {
         "en-US": "Grandma Lucy",
@@ -2657,7 +2657,7 @@
     "M46cBw": {
         "en-US": "[Grandma]\nWell... Who is this..? Do you know Irene?\nYou look like a traveler... I have a dim memory...",
         "pt-BR": "[Vovó]\nBom... Quem é? Você conhece Irene?\nVocê parece um viajante. Eu tenho uma memória fraca...",
-        "es-ES": "[Abuela]\nBueno… ¿Quién es…? ¿Conoces a Irene?\nPareces un viajero… Tengo mala memoria…"
+        "es-ES": "[Abuela]\nBueno... ¿Quién es...? ¿Conoces a Irene?\nPareces un viajero... Tengo mala memoria..."
     },
     "NI6cBw": {
         "en-US": "[{0}]\nNo, I have been requested to come here.",
@@ -2677,7 +2677,7 @@
     "N46cBw": {
         "en-US": "[Grandma Lucy]\nAnd you came here so I asked you about him. I was right. Thank you so much...",
         "pt-BR": "[Vovó Lucy]\nE você veio aqui, então perguntei sobre ele. Eu estava certa. Muito obrigada...",
-        "es-ES": "[Abuela Lucy]\nY apareciste aquí; por eso, te pregunté por él. Tenía razón. Muchas gracias…"
+        "es-ES": "[Abuela Lucy]\nY apareciste aquí; por eso, te pregunté por él. Tenía razón. Muchas gracias..."
     },
     "OI6cBw": {
         "en-US": "Say goodbye.",
@@ -2697,7 +2697,7 @@
     "O46cBw": {
         "en-US": "[Grandma Lucy]\nIrene will thank you. Bye...",
         "pt-BR": "[Vovó Lucy]\nIrene vai te agradecer. Adeus...",
-        "es-ES": "[Abuela Lucy]\nIrene te lo agradecerá. Adiós…"
+        "es-ES": "[Abuela Lucy]\nIrene te lo agradecerá. Adiós..."
     },
     "PI6cBw": {
         "en-US": "[{0}]\nHow did commander Adler know Irene?",
@@ -2707,12 +2707,12 @@
     "PY6cBw": {
         "en-US": "[Grandma Lucy]\nCommander?\n...So it was true. Mr. Adler was a soldier with high position after all.",
         "pt-BR": "[Vovó Lucy]\nComandante?\n...Então era verdade. O Sr. Adler era um soldado com uma alta patente, afinal.",
-        "es-ES": "[Abuela Lucy]\n¿El comandante?\n…Así que era verdad. Después de todo, el señor Adler era un soldado de alto rango."
+        "es-ES": "[Abuela Lucy]\n¿El comandante?\n...Así que era verdad. Después de todo, el señor Adler era un soldado de alto rango."
     },
     "Po6cBw": {
         "en-US": "[Grandma Lucy]\nAlthough it's a long story to tell a stranger, I will tell you. And you've been sent by Mr. Adler..",
         "pt-BR": "[Vovó Lucy]\nApesar de ser uma longa história para contar a um estranho, vou lhe contar. E você foi enviado pelo Sr. Adler...",
-        "es-ES": "[Abuela Lucy]\nAunque es una larga historia para contársela a un desconocido, te la contaré. Y a ti te envió el señor Adler…"
+        "es-ES": "[Abuela Lucy]\nAunque es una larga historia para contársela a un desconocido, te la contaré. Y a ti te envió el señor Adler..."
     },
     "P46cBw": {
         "en-US": "[Grandma Lucy]\nI've been living in Einbech with Irene for a long time.\nIrene's mom and dad left the house seeking a better job. It's been more than 10 years since we lost contact.",
@@ -2727,12 +2727,12 @@
     "QY6cBw": {
         "en-US": "[Grandma Lucy]\nAnd... About this time that year, it was when the mine was not closed yet. I heard a rumor that there were bad guys called rebel forces deep inside the mine.",
         "pt-BR": "[Vovó Lucy]\nE... Por volta dessa época naquele ano, a mina ainda não estava fechada. Ouvi um rumor de que havia bandidos da Rebelião nas profundezas da mina.",
-        "es-ES": "[Abuela Lucy]\nY… Ese año cerca de esta fecha, la mina aún no estaba cerrada. Oí un rumor de que había unos tipos malos llamados fuerzas rebeldes en lo profundo de la mina."
+        "es-ES": "[Abuela Lucy]\nY... Ese año cerca de esta fecha, la mina aún no estaba cerrada. Oí un rumor de que había unos tipos malos llamados fuerzas rebeldes en lo profundo de la mina."
     },
     "Qo6cBw": {
         "en-US": "[Grandma Lucy]\nShe would go to the mine every day to sell some food. And on that day, I told her not to go there.\nBut she said it would be okay and went to the mine...",
         "pt-BR": "[Vovó Lucy]\nEla ia à mina todos os dias para vender comida. E naquele dia, eu falei para ela não ir.\nMas ela disse que ia ficar tudo bem, e foi para a mina...",
-        "es-ES": "[Abuela Lucy]\nTodos los días iba a la mina a vender comida. Y, ese día, le dije que no fuera allí.\nPero dijo que estaría bien y se fue a la mina…"
+        "es-ES": "[Abuela Lucy]\nTodos los días iba a la mina a vender comida. Y, ese día, le dije que no fuera allí.\nPero dijo que estaría bien y se fue a la mina..."
     },
     "Q46cBw": {
         "en-US": "[{0}]\n(Grandma Lucy started to shed tears and you handed her your handkerchief)",
@@ -2742,12 +2742,12 @@
     "RI6cBw": {
         "en-US": "[Grandma Lucy]\nThank you... There was an accident on that day... One of the tunnels was collapsed and some people never came back.\nIrene was one of them...",
         "pt-BR": "[Vovó Lucy]\nObrigada... Houve um acidente naquele dia... Um dos túneis desmoronou e algumas pessoas nunca voltaram.\nIrene foi uma delas...",
-        "es-ES": "[Abuela Lucy]\nGracias… Hubo un accidente ese día… Uno de los túneles se derrumbó, y algunas personas nunca volvieron.\nIrene fue una de ellas…"
+        "es-ES": "[Abuela Lucy]\nGracias... Hubo un accidente ese día... Uno de los túneles se derrumbó, y algunas personas nunca volvieron.\nIrene fue una de ellas..."
     },
     "RY6cBw": {
         "en-US": "[{0}]\nYou must have been devastated...",
         "pt-BR": "[{0}]\nVocê deve ter ficado arrasada...",
-        "es-ES": "[{0}]\nSeguro fue devastador…"
+        "es-ES": "[{0}]\nSeguro fue devastador..."
     },
     "Ro6cBw": {
         "en-US": "[Grandma Lucy]\nAlthough they said it was an accident, there was a rumor.\nPeople told me that there were bad guys hiding in the mine and soldiers came to get them.",
@@ -2757,12 +2757,12 @@
     "R46cBw": {
         "en-US": "[Grandma Lucy]\nBut it was not important to me at all.\nI just felt devastated to lose my son, daughter-in-law and granddaughter. I was absent-minded and did not find any reason to live on...",
         "pt-BR": "[Vovó Lucy]\nMas isso não importava para mim.\nEu fiquei devastada em perder o meu filho, minha nora e minha netinha. Eu fiquei perdida e não encontrei nenhuma razão para continuar a viver...",
-        "es-ES": "[Abuela Lucy]\nPero no me importó en absoluto.\nMe sentí desolada por perder a mi hijo, mi nuera y mi nieta. Estaba ausente y no encontraba ningún motivo para seguir viviendo…"
+        "es-ES": "[Abuela Lucy]\nPero no me importó en absoluto.\nMe sentí desolada por perder a mi hijo, mi nuera y mi nieta. Estaba ausente y no encontraba ningún motivo para seguir viviendo..."
     },
     "SI6cBw": {
         "en-US": "[Grandma Lucy]\nThat's when Mr. Adler visited me.\nI was so surprised when he knocked the door of my house...He came in and bowed down to me all of a sudden.",
         "pt-BR": "[Vovó Lucy]\nFoi quando o Sr. Adler me visitou.\nEu fiquei tão surpresa quando ele bateu na porta da minha casa... Ele entrou e de repente se curvou diante de mim.",
-        "es-ES": "[Abuela Lucy]\nFue entonces cuando el señor Adler me visitó.\nMe sorprendió tanto cuando llamó a la puerta de mi casa… Entró y, de repente, se inclinó ante mí."
+        "es-ES": "[Abuela Lucy]\nFue entonces cuando el señor Adler me visitó.\nMe sorprendió tanto cuando llamó a la puerta de mi casa... Entró y, de repente, se inclinó ante mí."
     },
     "SY6cBw": {
         "en-US": "[Grandma Lucy]\nI was surprised again and asked him why. Then he told me about Irene.",
@@ -2772,7 +2772,7 @@
     "So6cBw": {
         "en-US": "[Grandma Lucy]\nHe said that Irene's death was his fault and apologized knocking his head on the floor...\nI didn't know what was going on and just told him to stop it.",
         "pt-BR": "[Vovó Lucy]\nEle disse que a morte de Irene foi sua culpa e se desculpou batendo a cabeça no chão...\nEu não sabia o que estava acontecendo e pedi para ele parar.",
-        "es-ES": "[Abuela Lucy]\nDijo que la muerte de Irene fue culpa suya y se disculpó golpeándose la cabeza contra el suelo…\nNo sabía lo que estaba pasando y le dije que parara."
+        "es-ES": "[Abuela Lucy]\nDijo que la muerte de Irene fue culpa suya y se disculpó golpeándose la cabeza contra el suelo...\nNo sabía lo que estaba pasando y le dije que parara."
     },
     "S46cBw": {
         "en-US": "[Grandma Lucy]\nHe didn't tell me a detailed story. He left the house and came back later. Then he would send flowers and money to me.",
@@ -2787,12 +2787,12 @@
     "TY6cBw": {
         "en-US": "[Grandma Lucy]\nEvery time he gave me flowers or money, I always refused. But he insisted to give them to me...\nI wondered why he was doing this. Nevertheless, he was a high-ranking soldier...",
         "pt-BR": "[Vovó Lucy]\nSempre que ele me dava flores ou dinheiro, eu recusava. Mas ele insistiu em me dar...\nEu me perguntei porque ele estava fazendo isso. Afinal, ele era um soldado de patente elevada...",
-        "es-ES": "[Abuela Lucy]\nCada vez que me daba flores o dinero, yo siempre los rechazaba. Pero insistió en darme todo eso…\nMe preguntaba por qué lo hacía. Sin embargo, era un soldado de alto rango…"
+        "es-ES": "[Abuela Lucy]\nCada vez que me daba flores o dinero, yo siempre los rechazaba. Pero insistió en darme todo eso...\nMe preguntaba por qué lo hacía. Sin embargo, era un soldado de alto rango..."
     },
     "To6cBw": {
         "en-US": "[{0}]\n.........\nThank you very much for telling me the hard story.",
         "pt-BR": "[{0}]\n.........\nAgradeço por me contar uma história tão difícil.",
-        "es-ES": "[{0}]\n…\nMuchas gracias por contarme esa historia difícil."
+        "es-ES": "[{0}]\n...\nMuchas gracias por contarme esa historia difícil."
     },
     "T46cBw": {
         "en-US": "[Grandma Lucy]\nWelcome. Thanks to you, I heard the story about Mr. Adler. It makes me feel much better now.",
@@ -2802,7 +2802,7 @@
     "UI6cBw": {
         "en-US": "[Grandma Lucy]\nThank you. If you don't mind, please stop by my house occasionally and talk to this old woman...",
         "pt-BR": "[Vovó Lucy]\nObrigada. Se você não se importa, por favor, passe em casa de vez em quando e converse com esta velha senhora...",
-        "es-ES": "[Abuela Lucy]\nGracias. Si no te importa, pásate de vez en cuando por mi casa y habla con esta anciana…"
+        "es-ES": "[Abuela Lucy]\nGracias. Si no te importa, pásate de vez en cuando por mi casa y habla con esta anciana..."
     },
     "UY6cBw": {
         "en-US": "Before laying the flower, you checked whether that tree was the right one.",
@@ -2817,12 +2817,12 @@
     "U46cBw": {
         "en-US": "[{0}]\nWhere did I put the flower...?\nIt's not there. Maybe I should buy another one...",
         "pt-BR": "[{0}]\nOnde foi que eu coloquei a flor?\nNão está aqui. Talvez eu deva comprar outra...",
-        "es-ES": "[{0}]\n¿Dónde puse la flor…?\nNo está ahí. Tal vez, debería comprar otra…"
+        "es-ES": "[{0}]\n¿Dónde puse la flor...?\nNo está ahí. Tal vez, debería comprar otra..."
     },
     "VI6cBw": {
         "en-US": "[{0}]\nRest in peace, Irene...",
         "pt-BR": "[{0}]\nDescanse em paz, Irene...",
-        "es-ES": "[{0}]\nDescansa en paz, Irene…"
+        "es-ES": "[{0}]\nDescansa en paz, Irene..."
     },
     "VY6cBw": {
         "en-US": "[Grandma Lucy]\nTraveler. You came again. Thank you.\nIf you see Mr. Adler, please send him my gratitude.",
@@ -2857,7 +2857,7 @@
     "W46cBw": {
         "en-US": "[Milo River]\nYou have been requested by that unit... Then I should tell you.",
         "pt-BR": "[Milo River]\nSe é uma solicitação daquela unidade... Então eu devo te contar.",
-        "es-ES": "[Milo River]\nTe lo pidió esa unidad… Entonces, debería contarte."
+        "es-ES": "[Milo River]\nTe lo pidió esa unidad... Entonces, debería contarte."
     },
     "XI6cBw": {
         "en-US": "[Milo River]\nSeveral years ago, commander Ericsson brought them here.\nSounds like he brought them from an orphanage.",
@@ -2877,7 +2877,7 @@
     "X46cBw": {
         "en-US": "[Milo River]\nAfter that, they were moved to USU, became more educated, etc. There was a fuss.\nThat's when they began to disobey their seniors.\nI think I heard that's what they've been doing... ever since.",
         "pt-BR": "[Milo River]\nDepois disso, eles foram transferidos para a US, receberam mais treinamento, etc. Houve uma confusão.\nFoi quando eles começaram a desobedecer seus superiores.\nAcho que ouvi o que eles têm feito... desde então.",
-        "es-ES": "[Milo River]\nLuego, se trasladaron a la US, recibieron más educación, etc. Hubo un alboroto.\nFue entonces cuando empezaron a desobedecer a sus superiores.\nCreo haber oído que eso es lo que estuvieron haciendo… desde entonces."
+        "es-ES": "[Milo River]\nLuego, se trasladaron a la US, recibieron más educación, etc. Hubo un alboroto.\nFue entonces cuando empezaron a desobedecer a sus superiores.\nCreo haber oído que eso es lo que estuvieron haciendo... desde entonces."
     },
     "YI6cBw": {
         "en-US": "[Milo River]\nBefore that, they were trainees and had more free time than other squadders. They would visit the mess once in a while, receive some snacks and chat with us.",
@@ -2887,7 +2887,7 @@
     "YY6cBw": {
         "en-US": "[Milo River]\nAfter that incident, they never came. Just by hearing the stories about them, I don't feel like they are the same kids I used to know.\nThey used to be better than this... I hope you can take cake of them.",
         "pt-BR": "[Milo River]\nDepois desse incidente, eles nunca mais vieram. Só de ouvir as histórias sobre eles, eu não sinto que sejam as mesmas crianças que eu conheci um dia.\nEles costumavam ser melhores do que isso... Espero que você consiga cuidar deles.",
-        "es-ES": "[Milo River]\nDespués de ese incidente, no vinieron más. Después de escuchar sus historias, no creo que sean los mismos chicos que conocí.\nSolían ser mejores que lo que son ahora… Espero que puedas cuidarlos."
+        "es-ES": "[Milo River]\nDespués de ese incidente, no vinieron más. Después de escuchar sus historias, no creo que sean los mismos chicos que conocí.\nSolían ser mejores que lo que son ahora... Espero que puedas cuidarlos."
     },
     "Yo6cBw": {
         "en-US": "[Milo River]\nThis is all I can tell you.",
@@ -2897,17 +2897,17 @@
     "Y46cBw": {
         "en-US": "[{0}]\n(I heard a similar story from others...\nMaybe the keyword is the incident that happened at the real mission.\nI should go back to the twins and ask them about it.)",
         "pt-BR": "[{0}]\n(Outras pessoas já me contaram uma história parecida...\nTalvez a palavra-chave seja o incidente que aconteceu na missão.\nEu deveria voltar e perguntar aos gêmeos sobre isso)",
-        "es-ES": "[{0}]\n(Oí una historia similar de otras personas…\nQuizá la palabra clave sea el incidente que ocurrió en la misión real.\nDebería volver con los mellizos y preguntarles sobre esto)."
+        "es-ES": "[{0}]\n(Oí una historia similar de otras personas...\nQuizá la palabra clave sea el incidente que ocurrió en la misión real.\nDebería volver con los mellizos y preguntarles sobre esto)."
     },
     "ZI6cBw": {
         "en-US": "[Milo River]\nCookies? Made by the twins?\nOh... Those kids. They visited the mess and asked me for several things. Is this the outcome?",
         "pt-BR": "[Milo River]\nBiscoitos? Feito pelos gêmeos?\nAh... Essas crianças. Eles visitaram o refeitório e me pediram várias coisas. Este é o resultado?",
-        "es-ES": "[Milo River]\n¿Galletas? ¿Hechas por los gemelos?\nOh… Esos chicos. Visitaron el comedor y me pidieron varias cosas. ¿Este fue el resultado?"
+        "es-ES": "[Milo River]\n¿Galletas? ¿Hechas por los gemelos?\nOh... Esos chicos. Visitaron el comedor y me pidieron varias cosas. ¿Este fue el resultado?"
     },
     "ZY6cBw": {
         "en-US": "[Milo River]\nI hope they are not trying to poison me...",
         "pt-BR": "[Milo River]\nEspero que eles não estejam tentando me envenenar...",
-        "es-ES": "[Milo River]\nEspero que no estén tratando de envenenarme…"
+        "es-ES": "[Milo River]\nEspero que no estén tratando de envenenarme..."
     },
     "Zo6cBw": {
         "en-US": "[Milo River]\nHey, I'm just kidding. Don't look at me like that.\nThey seem to have found their former character. That's good. You did a great job.",
@@ -2922,7 +2922,7 @@
     "aI6cBw": {
         "en-US": "[Milo River]\n...By the way, where are the cookies?\nYou don't have anything for me? What a shame! Well~ I like cookies too~",
         "pt-BR": "[Milo River]\n...A propósito, onde estão os biscoitos?\nNão sobrou nada para mim? Que pena! Eu gosto de biscoitos também.",
-        "es-ES": "[Milo River]\n…Por cierto, ¿dónde están las galletas?\n¿No tienes nada para mí? ¡Qué lástima! Bueno~, a mí también me gustan las galletas~."
+        "es-ES": "[Milo River]\n...Por cierto, ¿dónde están las galletas?\n¿No tienes nada para mí? ¡Qué lástima! Bueno~, a mí también me gustan las galletas~."
     },
     "aY6cBw": {
         "en-US": "[Milo River]\nIt's not my fault that our meals are terrible.\nIf they give me more time and budget, I can cook much better food.",
@@ -2932,7 +2932,7 @@
     "ao6cBw": {
         "en-US": "[Milo River]\nPhew, what should I serve the gluttons today? What would they like...?",
         "pt-BR": "[Milo River]\nUfa, o que eu devo servir aos veteranos hoje? O que eles gostariam?",
-        "es-ES": "[Milo River]\nUf, ¿qué puedo servirles a los glotones hoy? ¿Qué les gustaría…?"
+        "es-ES": "[Milo River]\nUf, ¿qué puedo servirles a los glotones hoy? ¿Qué les gustaría...?"
     },
     "a46cBw": {
         "en-US": "[Milo River]\nHey, you! Adventurer?\nWhat's the matter?",
@@ -2972,7 +2972,7 @@
     "co6cBw": {
         "en-US": "[Milo River]\nTherefore, I would like to ask you for a favor... Actually for several. Because it has to be done outside.",
         "pt-BR": "[Milo River]\nPortanto eu gostaria de lhe pedir um favor... Vários, na verdade. Porque tem que ser feito do lado de fora.",
-        "es-ES": "[Milo River]\nPor lo tanto, me gustaría pedirte un favor… En realidad, varios. Porque hay que hacerlo fuera."
+        "es-ES": "[Milo River]\nPor lo tanto, me gustaría pedirte un favor... En realidad, varios. Porque hay que hacerlo fuera."
     },
     "c46cBw": {
         "en-US": "[Milo River]\nI am very busy because I have to feed the gluttons~ Well now~ I hope you can do something for me~",
@@ -3002,7 +3002,7 @@
     "eI6cBw": {
         "en-US": "[Milo River]\nThey enjoy tea time every day.\nSo I try to get prepare the best tea and snacks... But it's hard to find them in this out-of-the-way place.",
         "pt-BR": "[Milo River]\nEles apreciam a hora do chá todos os dias.\nEntão eu tento preparar o melhor chá e petiscos... Mas é difícil encontrá-los nesse fim de mundo.",
-        "es-ES": "[Milo River]\nDisfrutan de la hora del té todos los días.\nAsí que intento preparar los mejores tés y bocadillos… Pero es difícil encontrarlos en este lugar remoto."
+        "es-ES": "[Milo River]\nDisfrutan de la hora del té todos los días.\nAsí que intento preparar los mejores tés y bocadillos... Pero es difícil encontrarlos en este lugar remoto."
     },
     "eY6cBw": {
         "en-US": "[Milo River]\nSince I have to cook for our gluttons, I cannot go out too far. So I am sorry that I haven't been able to prepare something delicious.",
@@ -3022,7 +3022,7 @@
     "fI6cBw": {
         "en-US": "[Milo River]\nLet's see. ^0000CDGrape Herb Tea^000000, ^0000CDOrchid Black Tea^000000, ^0000CDHoney Herbal Tea^000000, ^0000CDChocolate Mousse^000000... or ^0000CDFruit Mix^000000.",
         "pt-BR": "[Milo River]\nVamos ver. ^0000CDChá de Ervas com Uva^000000, ^0000CDChá Vermelho de Outono^000000, ^0000CDChá de Ervas e Mel^000000, ^0000CDMousse de Chocolate^000000 ou ^0000CDSalada de Frutas^000000.",
-        "es-ES": "[Milo River]\nVeamos. ^0000CDTé de Hierbas con Uvas^000000, ^0000CDTé Rojo de Otoño^000000, ^0000CDTé de Hierbas con Miel^000000, ^0000CDPastel de Mousse de Chocolate^000000… o ^0000CDEnsalada de Frutas^000000."
+        "es-ES": "[Milo River]\nVeamos. ^0000CDTé de Hierbas con Uvas^000000, ^0000CDTé Rojo de Otoño^000000, ^0000CDTé de Hierbas con Miel^000000, ^0000CDPastel de Mousse de Chocolate^000000... o ^0000CDEnsalada de Frutas^000000."
     },
     "fY6cBw": {
         "en-US": "[Milo River]\nIf you bring one of them, our seniors will be happy.\nI am not asking you to get all of them. Just one of them will be fine.",
@@ -3042,7 +3042,7 @@
     "gI6cBw": {
         "en-US": "[Milo River]\n...Where did my lovely and sweet cat go...?\nOh, I am so gloomy and lonely!! The adventurer rejected my request!!",
         "pt-BR": "[Milo River]\n...Onde minha amada e adorada gata foi?\nAh, estou tão triste e sozinho!! Você recusou meu pedido!!",
-        "es-ES": "[Milo River]\n¿A dónde se fue mi adorable y dulce gata…?\n¡Oh, me siento tan triste y solo! ¡El trotamundos rechazó mi pedido!"
+        "es-ES": "[Milo River]\n¿A dónde se fue mi adorable y dulce gata...?\n¡Oh, me siento tan triste y solo! ¡El trotamundos rechazó mi pedido!"
     },
     "gY6cBw": {
         "en-US": "[Milo River]\nWhat have you brought? I will read the list.\nTell me what you brought!",
@@ -3087,7 +3087,7 @@
     "iY6cBw": {
         "en-US": "[Milo River]\nGive it to me!\n...What, you haven't brought any of them?",
         "pt-BR": "[Milo River]\nPode me dar!\n...Como assim, você não trouxe nenhum deles?",
-        "es-ES": "[Milo River]\n¡Dámelo!\n…Espera, ¿no trajiste nada?"
+        "es-ES": "[Milo River]\n¡Dámelo!\n...Espera, ¿no trajiste nada?"
     },
     "io6cBw": {
         "en-US": "[Milo River]\nYou brought it as you promised! A cup of Grape Herb tea. Will you give it to me now?",
@@ -3112,7 +3112,7 @@
     "jo6cBw": {
         "en-US": "[Milo River]\nThank you so much for making our seniors happy!\nI have to prepare for the tea time tomorrow as well... If you don't mind, could you bring it again tomorrow?",
         "pt-BR": "[Milo River]\nAgradeço muito por fazer nossos veteranos felizes!\nTenho que preparar a hora do chá amanhã também... Se você não se importa, poderia trazer amanhã de novo?",
-        "es-ES": "[Milo River]\nMuchas gracias por hacer felices a nuestros adultos mayores.\nYo también tengo que prepararme para la hora del té de mañana… Si no te importa, ¿podrías volver a traerlo mañana?"
+        "es-ES": "[Milo River]\nMuchas gracias por hacer felices a nuestros adultos mayores.\nYo también tengo que prepararme para la hora del té de mañana... Si no te importa, ¿podrías volver a traerlo mañana?"
     },
     "j46cBw": {
         "en-US": "[Milo River]\nWell, I see. Although you are an adventurer, they are not easy to get. Aren't they?\nAll I can get around this place are old raisins. I can't make anything nice with them.\nIt's just a lack of my ability, haha!",
@@ -3177,7 +3177,7 @@
     "m46cBw": {
         "en-US": "[Milo River]\nOops... Again?\nNo thanks. Our seniors don't eat tea and snacks for every meal! Once a day is enough.",
         "pt-BR": "[Milo River]\nOps... De novo?\nNão, obrigado. Nossos veteranos não comem chá e petiscos em todas as refeições! Uma vez ao dia é o suficiente.",
-        "es-ES": "[Milo River]\nUy… ¿De nuevo?\nNo, gracias. Nuestros veteranos  no toman té ni comen bocadillos en todas las comidas. Una vez al día es suficiente."
+        "es-ES": "[Milo River]\nUy... ¿De nuevo?\nNo, gracias. Nuestros veteranos  no toman té ni comen bocadillos en todas las comidas. Una vez al día es suficiente."
     },
     "nI6cBw": {
         "en-US": "[Milo River]\nBut thank you for your kindness. Haha!",
@@ -3247,7 +3247,7 @@
     "qY6cBw": {
         "en-US": "[Milo River]\nBy the way... Charity loves strolling and she spends about half of the day wandering outside. Look at this. I gave her forage this morning and she hasn't eaten half of it yet.",
         "pt-BR": "[Milo River]\nFalando nisso... A Charity ama passear e ela passa metade do dia vagando lá fora. Olha só isso. Eu dei comida para ela esta manhã e ela ainda não comeu nem metade.",
-        "es-ES": "[Milo River]\nPor cierto… A Charity le encanta pasear y se pasa medio día dando vueltas por ahí. Mira. Le di de comer esta mañana y todavía no se ha comido ni la mitad."
+        "es-ES": "[Milo River]\nPor cierto... A Charity le encanta pasear y se pasa medio día dando vueltas por ahí. Mira. Le di de comer esta mañana y todavía no se ha comido ni la mitad."
     },
     "qo6cBw": {
         "en-US": "[Milo River]\nPerhaps somebody is feeding her outside... But I want to feed her good forage. If somebody gives her rotten food... It must not happen.",
@@ -3267,12 +3267,12 @@
     "rY6cBw": {
         "en-US": "[Milo River]\nIf she doesn't come out... You can go somewhere else to find her. Maybe she cannot hear you at once. In that case, put Anchovy cookies on the bench and call Charity again.",
         "pt-BR": "[Milo River]\nSe ela não aparecer... Você pode ir a outro lugar para encontrá-la. Talvez ela não te ouça imediatamente. Nesse caso, coloque os biscoitos de Anchova no banco e chame a Charity de novo.",
-        "es-ES": "[Milo River]\nSi no aparece… Puedes ir a otro sitio a buscarla. Quizá no pueda oírte la primera vez. En ese caso, pon las Galletas de Anchoa en la banca y vuelve a llamar a Charity."
+        "es-ES": "[Milo River]\nSi no aparece... Puedes ir a otro sitio a buscarla. Quizá no pueda oírte la primera vez. En ese caso, pon las Galletas de Anchoa en la banca y vuelve a llamar a Charity."
     },
     "ro6cBw": {
         "en-US": "[Milo River]\nI have to prepare the meal for gluttons... Could you go bring Charity?",
         "pt-BR": "[Milo River]\nEu preciso preparar a comida para os esfomeados... Poderia ir buscar a Charity?",
-        "es-ES": "[Milo River]\nTengo que preparar la comida para los glotones… ¿Podrías ir a buscar a Charity?"
+        "es-ES": "[Milo River]\nTengo que preparar la comida para los glotones... ¿Podrías ir a buscar a Charity?"
     },
     "r46cBw": {
         "en-US": "Say yes.",
@@ -3302,7 +3302,7 @@
     "tI6cBw": {
         "en-US": "[Milo River]\nCharity... You're getting late. I hope nothing happened to you.\nI'm sure people will stop her from rushing to the train of entering the mine. Right?",
         "pt-BR": "[Milo River]\nCharity... Você está atrasada. Espero que nada tenha acontecido com você.\nTenho certeza que as pessoas vão impedi-la de correr para o trem ou entrar na mina. Certo?",
-        "es-ES": "[Milo River]\nCharity… Se está haciendo tarde. Espero que no te haya pasado nada. Seguro que te impedirán correr hacia el tren o entrar en la mina. ¿Verdad?"
+        "es-ES": "[Milo River]\nCharity... Se está haciendo tarde. Espero que no te haya pasado nada. Seguro que te impedirán correr hacia el tren o entrar en la mina. ¿Verdad?"
     },
     "tY6cBw": {
         "en-US": "[Milo River]\nHey! Please say yes. Am I right? People like you will protect her, won't they?",
@@ -3322,7 +3322,7 @@
     "uI6cBw": {
         "en-US": "[Milo River]\n...Don't tell me you ate them all.\nI never thought that you'd actually eat them. Did you eat them?",
         "pt-BR": "[Milo River]\n...Não me diga que você comeu todos eles.\nNunca imaginei que você realmente os comeria. Você os comeu?",
-        "es-ES": "[Milo River]\n…No me digas que te las comiste todas.\nNunca pensé que te las comerías. ¿Te las comiste?"
+        "es-ES": "[Milo River]\n...No me digas que te las comiste todas.\nNunca pensé que te las comerías. ¿Te las comiste?"
     },
     "uY6cBw": {
         "en-US": "[Milo River]\nOh, I'm kidding. Did Charity steal them from you? She's so fast and she can do that.",
@@ -3342,17 +3342,17 @@
     "vI6cBw": {
         "en-US": "[Milo River]\nHmm... It's been a while since Charity went out...\nBut not such a long time for us to worry about her.",
         "pt-BR": "[Milo River]\nHumm... Já faz um tempo desde que a Charity saiu...\nMas não tanto tempo para nos preocuparmos com ela.",
-        "es-ES": "[Milo River]\nMmm… Hace bastante tiempo que se fue Charity…\nPero no tanto como para preocuparnos por ella."
+        "es-ES": "[Milo River]\nMmm... Hace bastante tiempo que se fue Charity...\nPero no tanto como para preocuparnos por ella."
     },
     "vY6cBw": {
         "en-US": "[Milo River]\nTo tell the truth!! I want to see Charity!! I want to pet her!! I miss her so much!",
         "pt-BR": "[Milo River]\nPara falar a verdade!! Eu quero ver a Charity!! Eu quero acariciá-la!! Eu sinto tanta falta dela!!",
-        "es-ES": "[Milo River]\nA decir verdad… ¡Quiero ver a Charity! ¡Quiero acariciarla! ¡La extraño mucho!"
+        "es-ES": "[Milo River]\nA decir verdad... ¡Quiero ver a Charity! ¡Quiero acariciarla! ¡La extraño mucho!"
     },
     "vo6cBw": {
         "en-US": "[Milo River]\n...So, let me give you Anchovy cookies again. Please find Charity.\nPut them on ^0000CDVillage Bench^000000 in Einbech and call Charity. Will you help me?",
         "pt-BR": "[Milo River]\n...Então deixe-me dar biscoitos de Anchova de novo. Por favor, encontre Charity.\nColoque-os no ^0000CDbanco^000000 em Einbech e chame a Charity. Você vai me ajudar?",
-        "es-ES": "[Milo River]\n…Así que déjame darte más Galletas de Anchoa. Por favor, encuentra a Charity.\nPonlas en ^0000CDlos bancos^000000 de Einbech y llama a Charity. ¿Me ayudarás?"
+        "es-ES": "[Milo River]\n...Así que déjame darte más Galletas de Anchoa. Por favor, encuentra a Charity.\nPonlas en ^0000CDlos bancos^000000 de Einbech y llama a Charity. ¿Me ayudarás?"
     },
     "v46cBw": {
         "en-US": "Help him.",
@@ -3367,7 +3367,7 @@
     "wY6cBw": {
         "en-US": "[Milo River]\nThanks! Go and get her please.\nOh... I'm suffering from withdrawal symptoms... Charity... I should pet her as soon as possible to recover...",
         "pt-BR": "[Milo River]\nObrigado! Vá e pegue-a, por favor.\nAh... Estou sofrendo de sintomas de abstinência... Charity... Eu devo acariciá-la o quanto antes para me recuperar...",
-        "es-ES": "[Milo River]\n¡Gracias! Ve a buscarla, por favor.\nOh… Estoy sufriendo síntomas de abstinencia… Charity… Debería acariciarla lo antes posible para recuperarme…"
+        "es-ES": "[Milo River]\n¡Gracias! Ve a buscarla, por favor.\nOh... Estoy sufriendo síntomas de abstinencia... Charity... Debería acariciarla lo antes posible para recuperarme..."
     },
     "wo6cBw": {
         "en-US": "[Milo River]\nUse the Anchovy cookies to find Charity and bring the rest of them!\nMake sure you don't eat them. Got it?",
@@ -3377,22 +3377,22 @@
     "w46cBw": {
         "en-US": "[Milo River]\nCharity... Charity...\nArrgh... Charity... I hope they write on my tombstone that I died while missing Charity so much...",
         "pt-BR": "[Milo River]\nCharity... Charity...\nArrgh... Charity... Espero que escrevam na minha lápide que morri sentindo saudade de Charity...",
-        "es-ES": "[Milo River]\nCharity… Charity…\nGrrr… Charity… Espero que escriban en mi lápida que morí extrañando mucho a Charity…"
+        "es-ES": "[Milo River]\nCharity... Charity...\nGrrr... Charity... Espero que escriban en mi lápida que morí extrañando mucho a Charity..."
     },
     "xI6cBw": {
         "en-US": "[Milo River]\nPlease, adventurer... Will you write it on it? Please say yes...",
         "pt-BR": "[Milo River]\nPor favor, aventureiro... Você vai escrever isso? Por favor, diga sim.",
-        "es-ES": "[Milo River]\nPor favor, trotamundos… ¿Escribirás eso? Por favor, di que sí…"
+        "es-ES": "[Milo River]\nPor favor, trotamundos... ¿Escribirás eso? Por favor, di que sí..."
     },
     "xY6cBw": {
         "en-US": "[Milo River]\n...So, let me give you Anchovy cookies again. Please find Charity.\nPut them on Village Bench in Einbech and call Charity. Will you help me?",
         "pt-BR": "[Milo River]\n...Então deixe-me dar biscoitos de Anchova de novo. Por favor, encontre Charity.\nColoque-os no banco em Einbech e chame a Charity. Você vai me ajudar?",
-        "es-ES": "[Milo River]\n…Así que déjame darte más Galletas de Anchoa. Por favor, encuentra a Charity.\nPonlas en las bancas de la aldea Einbech y llama a Charity. ¿Me ayudarás?"
+        "es-ES": "[Milo River]\n...Así que déjame darte más Galletas de Anchoa. Por favor, encuentra a Charity.\nPonlas en las bancas de la aldea Einbech y llama a Charity. ¿Me ayudarás?"
     },
     "xo6cBw": {
         "en-US": "[Milo River]\nCharity... Charity...\nArrgh... Gasp... Charity... I hope they write on my tombstone that I died while missing Charity so much...",
         "pt-BR": "[Milo River]\nCharity... Charity...\nArrgh... Cof... Charity... Espero que escrevam na minha lápide que morri sentindo saudade de Charity...",
-        "es-ES": "[Milo River]\nCharity… Charity…\nArrgh… Uf… Charity… Espero que escriban en mi lápida que morí extrañando mucho a Charity…"
+        "es-ES": "[Milo River]\nCharity... Charity...\nArrgh... Uf... Charity... Espero que escriban en mi lápida que morí extrañando mucho a Charity..."
     },
     "x46cBw": {
         "en-US": "[Milo River]\nHave you found Charity? If she doesn't show up, call her several times on the same spot.",
@@ -3402,12 +3402,12 @@
     "yI6cBw": {
         "en-US": "[Milo River]\nOh, I'm kidding. Did Charity steal them from you? Phew, she is too fast...",
         "pt-BR": "[Milo River]\nAh, estou brincando. A Charity os roubou de você? Uau, ela é muito rápida.",
-        "es-ES": "[Milo River]\nOh, estoy bromeando. ¿Te las robó Charity? Uf, es demasiado rápida…"
+        "es-ES": "[Milo River]\nOh, estoy bromeando. ¿Te las robó Charity? Uf, es demasiado rápida..."
     },
     "yY6cBw": {
         "en-US": "[Milo River]\nNot to mention Charity, I feel like I'm lost...\nIf I keep saying the same thing, print the screen and ask the administration team.",
         "pt-BR": "[Milo River]\nSem falar na Charity, eu me sinto perdido...\nSe eu continuar falando a mesma coisa, capture uma imagem da tela e entre em contato com a equipe administrativa.",
-        "es-ES": "[Milo River]\nAdemás de lo de Charity, siento que estoy perdido…\nSi sigo repitiendo lo mismo, saca captura de la pantalla y ponte en contacto con el equipo de administración."
+        "es-ES": "[Milo River]\nAdemás de lo de Charity, siento que estoy perdido...\nSi sigo repitiendo lo mismo, saca captura de la pantalla y ponte en contacto con el equipo de administración."
     },
     "yo6cBw": {
         "en-US": "[Charity]\nMeow~",
@@ -3452,12 +3452,12 @@
     "0o6cBw": {
         "en-US": "[{0}]\nI'm the one who brought her and he doesn't seem to care about me...",
         "pt-BR": "[{0}]\nFui eu quem a trouxe de volta e parece que ela nem se importa comigo...",
-        "es-ES": "[{0}]\nSoy yo quien la trajo y parece que a ella no le importo…"
+        "es-ES": "[{0}]\nSoy yo quien la trajo y parece que a ella no le importo..."
     },
     "046cBw": {
         "en-US": "[Milo River]\nMiss Charity! You must have been exhausted after being brought by this dusty adventurer.. Shall I prepare the bathwater? Or your meal first? Or... Can I pet you first?!",
         "pt-BR": "[Milo River]\nSenhorita Charity! Você deve ter ficado exausta depois de ser trazida por esse aventureiro empoeirado... Devo preparar a água do banho? Ou a comida primeiro? Ou... Posso te acariciar antes?!",
-        "es-ES": "[Milo River]\n¡Señorita Charity! Debes estar exhausta después de te haya traído este polvoriento trotamundos… ¿Quieres que prepare el agua de la bañera? ¿O primero tu comida? O… ¡¿Puedo acariciarte primero?!"
+        "es-ES": "[Milo River]\n¡Señorita Charity! Debes estar exhausta después de te haya traído este polvoriento trotamundos... ¿Quieres que prepare el agua de la bañera? ¿O primero tu comida? O... ¡¿Puedo acariciarte primero?!"
     },
     "1I6cBw": {
         "en-US": "Stop it! I will pet her!!",
@@ -3467,7 +3467,7 @@
     "1Y6cBw": {
         "en-US": "Let me pet Charity... Oh, I can't stand it any more!",
         "pt-BR": "Deixe-me acariciar Charity... Ah, eu não suporto mais!",
-        "es-ES": "Déjame acariciar a Charity… ¡Oh, no puedo soportarlo más!"
+        "es-ES": "Déjame acariciar a Charity... ¡Oh, no puedo soportarlo más!"
     },
     "1o6cBw": {
         "en-US": "[{0}]\nAre they doing this on purpose?",
@@ -3507,7 +3507,7 @@
     "3Y6cBw": {
         "en-US": "Today... I will give the best Anchovy cookie to Charity!",
         "pt-BR": "Hoje... Eu vou dar o melhor biscoito de Anchova para a Charity!",
-        "es-ES": "Hoy… ¡le daré la mejor galleta de anchoa a Charity!"
+        "es-ES": "Hoy... ¡le daré la mejor galleta de anchoa a Charity!"
     },
     "3o6cBw": {
         "en-US": "How dare do you try to touch Charity with your dirty hands!!",
@@ -3527,7 +3527,7 @@
     "4Y6cBw": {
         "en-US": "[Milo River]\nMiss Charity! You must have been exhausted after being brought by this dusty adventurer.. Shall I prepare the bathwater? Or... Can I pet you first?",
         "pt-BR": "[Milo River]\nSenhorita Charity! Você deve ter ficado exausta depois de ser trazida por esse aventureiro empoeirado... Devo preparar a água do banho? Ou... Posso te acariciar antes?",
-        "es-ES": "[Milo River]\n¡Señorita Charity! Debes estar exhausta después de te haya traído este polvoriento trotamundos… ¿Quieres que prepare el agua de la bañera? O… ¿Puedo acariciarte primero?"
+        "es-ES": "[Milo River]\n¡Señorita Charity! Debes estar exhausta después de te haya traído este polvoriento trotamundos... ¿Quieres que prepare el agua de la bañera? O... ¿Puedo acariciarte primero?"
     },
     "4o6cBw": {
         "en-US": "What? I'm going to touch her! It's my turn!",
@@ -3537,7 +3537,7 @@
     "446cBw": {
         "en-US": "Please... Let me pet you, Charity.",
         "pt-BR": "Por favor... Deixe-me acariciar você, Charity.",
-        "es-ES": "Por favor… Déjame acariciarte, Charity."
+        "es-ES": "Por favor... Déjame acariciarte, Charity."
     },
     "5I6cBw": {
         "en-US": "[{0}]\nWell, I guess that's the way they live.",
@@ -3557,12 +3557,12 @@
     "546cBw": {
         "en-US": "[Milo River]\nHey, she's quite mean.\n......What a cat.",
         "pt-BR": "[Milo River]\nEi, ela é muito má.\n.....mas que gata.",
-        "es-ES": "[Milo River]\nOye, es bastante mala.\n…Qué gata."
+        "es-ES": "[Milo River]\nOye, es bastante mala.\n...Qué gata."
     },
     "6I6cBw": {
         "en-US": "[Milo River]\nYou didn't have a meal? As far as I know, every creature including humans and cats become aggressive when they are hungry~\nDo you want a warm meal? Well, I cannot guarantee the taste.",
         "pt-BR": "[Milo River]\nVocê não comeu? Até onde sei, todas as criaturas, incluindo humanos e gatos, ficam agressivos quando estão com fome.\nVocê quer uma comida quentinha? Bom, não posso garantir o sabor.",
-        "es-ES": "[Milo River]\n¿No comiste? Que yo sepa… todas las criaturas, incluidos los humanos y los gatos, se vuelven agresivos cuando tienen hambre~.\n¿Quieres una comida caliente? Bueno, no puedo asegurarte que el sabor esté bien."
+        "es-ES": "[Milo River]\n¿No comiste? Que yo sepa... todas las criaturas, incluidos los humanos y los gatos, se vuelven agresivos cuando tienen hambre~.\n¿Quieres una comida caliente? Bueno, no puedo asegurarte que el sabor esté bien."
     },
     "6Y6cBw": {
         "en-US": "Empty bench",
@@ -3572,7 +3572,7 @@
     "6o6cBw": {
         "en-US": "It's an empty bench. Take out several Anchovy cookies and...",
         "pt-BR": "É um banco vazio. Pegue vários biscoitos de Anchova e...",
-        "es-ES": "Es un banco vacío. Saca varias galletas de anchoa y…"
+        "es-ES": "Es un banco vacío. Saca varias galletas de anchoa y..."
     },
     "646cBw": {
         "en-US": "Put them on the bench.",
@@ -3622,12 +3622,12 @@
     "9I6cBw": {
         "en-US": "You kept eating and finished all the Anchovy cookies.\nI am in trouble. I will go back to Milo and tell him the truth...",
         "pt-BR": "Você continuou comendo e acabou com os biscoitos de Anchova.\nEstou com problemas. Vou voltar e contar a verdade ao Milo...",
-        "es-ES": "Seguiste comiendo y te acabaste todas las Galletas de anchoa.\nEstoy en problemas. Volveré con Milo y le diré la verdad…"
+        "es-ES": "Seguiste comiendo y te acabaste todas las Galletas de anchoa.\nEstoy en problemas. Volveré con Milo y le diré la verdad..."
     },
     "9Y6cBw": {
         "en-US": "[{0}]\nYuck! This is so fishy. What kind of food is this...!!",
         "pt-BR": "[{0}]\nEca! Tem um gosto estranho de peixe. Que tipo de comida é essa??",
-        "es-ES": "[{0}]\n¡Qué asco! Esto huele mal. ¡Qué clase de comida es esta…!"
+        "es-ES": "[{0}]\n¡Qué asco! Esto huele mal. ¡Qué clase de comida es esta...!"
     },
     "9o6cBw": {
         "en-US": "No more Anchovy cookies. Let's go back to Milo and get some more.",
@@ -3647,12 +3647,12 @@
     "+Y6cBw": {
         "en-US": "[Rachel Smith]\nCookies? Where did you get them? Aha... Made by Levedev kids?\nWell. Thank you!",
         "pt-BR": "[Rachel Smith]\nBiscoitos? Onde você os conseguiu? Aha... Feito pelas crianças Levedev?\nBom. Obrigada!",
-        "es-ES": "[Rachel Smith]\n¿Galletas? ¿De dónde las sacaste? Ajá… ¿Hechas por los chicos Lebedev?\nBueno. ¡Gracias!"
+        "es-ES": "[Rachel Smith]\n¿Galletas? ¿De dónde las sacaste? Ajá... ¿Hechas por los chicos Lebedev?\nBueno. ¡Gracias!"
     },
     "+o6cBw": {
         "en-US": "[Rachel Smith]\nSmells nice... I will ask them the recipe later.",
         "pt-BR": "[Rachel Smith]\nCheira bem... Vou pedir a receita para eles depois.",
-        "es-ES": "[Rachel Smith]\nHuelen bien… Les pediré la receta más tarde."
+        "es-ES": "[Rachel Smith]\nHuelen bien... Les pediré la receta más tarde."
     },
     "+46cBw": {
         "en-US": "[Rachel Smith]\nHmm? Where is the cookie?",
@@ -3692,12 +3692,12 @@
     "Ao+cBw": {
         "en-US": "[Rachel Smith]\nHmm... This is a nice weapon. You ran it in properly.\nIt's interesting. Although they are same weapons, they have different tendencies according to what the owner focuses on.",
         "pt-BR": "[Rachel Smith]\nHumm... Esta é uma boa arma. Você a fez adequadamente.\nÉ interessante. Apesar de serem a mesma arma, elas têm tendências diferentes de acordo com o que o dono prioriza.",
-        "es-ES": "[Rachel Smith]\nMmm… Esta es una buena arma. La manejas bien.\nEs interesante. Aunque son las mismas armas, tienen tendencias diferentes según en qué se centre su dueño."
+        "es-ES": "[Rachel Smith]\nMmm... Esta es una buena arma. La manejas bien.\nEs interesante. Aunque son las mismas armas, tienen tendencias diferentes según en qué se centre su dueño."
     },
     "A4+cBw": {
         "en-US": "[Rachel Smith]\n...But it doesn't happen to the weapons that I repaired. I don't know why.",
         "pt-BR": "[Rachel Smith]\n...Mas isso não acontece com as armas que eu consertei. Não sei o porquê.",
-        "es-ES": "[Rachel Smith]\n…Pero esto no les pasa a las armas que reparé. No sé por qué."
+        "es-ES": "[Rachel Smith]\n...Pero esto no les pasa a las armas que reparé. No sé por qué."
     },
     "BI+cBw": {
         "en-US": "[Rachel Smith]\nOh, sorry. I'm worried about something recently. Those weapons I have repaired lately have a high defect rate.\nThe people are struggling in the field because of that.",
@@ -3707,7 +3707,7 @@
     "BY+cBw": {
         "en-US": "[Rachel Smith]\nFortunately, nothing bad has happened so far. But I'm so nervous.\nEvery night I have a nightmare in which the weapon explodes in the hands of our squadders...",
         "pt-BR": "[Rachel Smith]\nFelizmente, nada de ruim aconteceu até agora. Mas estou tão nervosa.\nToda noite eu tenho um pesadelo em que a arma explode na mão dos nossos soldados...",
-        "es-ES": "[Rachel Smith]\nPor suerte, hasta ahora, no ha pasado nada malo. Pero estoy muy nerviosa.\nTodas las noches, tengo una pesadilla en la que las armas explotan en las manos de nuestros reclutas…"
+        "es-ES": "[Rachel Smith]\nPor suerte, hasta ahora, no ha pasado nada malo. Pero estoy muy nerviosa.\nTodas las noches, tengo una pesadilla en la que las armas explotan en las manos de nuestros reclutas..."
     },
     "Bo+cBw": {
         "en-US": "[Rachel Smith]\nAlthough I'm not an expert yet, I would like to solve the problems without worrying the Master or squadders.",
@@ -3737,17 +3737,17 @@
     "C4+cBw": {
         "en-US": "[Rachel Smith]\nYou have so much stuff in your bag... Could you come back after making it lighter?",
         "pt-BR": "[Rachel Smith]\nVocê tem tanta coisa na sua mochila... Poderia voltar depois de esvaziá-la um pouco?",
-        "es-ES": "[Rachel Smith]\nTienes muchas cosas en tu bolso… ¿Podrías regresar después de quitar algo?"
+        "es-ES": "[Rachel Smith]\nTienes muchas cosas en tu bolso... ¿Podrías regresar después de quitar algo?"
     },
     "DI+cBw": {
         "en-US": "[Rachel Smith]\nOh... I see.",
         "pt-BR": "[Rachel Smith]\nAh... Entendo.",
-        "es-ES": "[Rachel Smith]\nOh… Ya veo."
+        "es-ES": "[Rachel Smith]\nOh... Ya veo."
     },
     "DY+cBw": {
         "en-US": "[Rachel Smith]\nHmm... Where is my revolver?\nThis is irresponsible. I will give you another gun. Don't do this again.",
         "pt-BR": "[Rachel Smith]\nHumm... Onde está o meu revólver?\nIsso é irresponsável. Vou te dar outra arma. Não faça isso de novo.",
-        "es-ES": "[Rachel Smith]\nMmm… ¿Dónde está mi revólver?\nQué irresponsabilidad. Te daré otra arma. No vuelvas a hacerlo."
+        "es-ES": "[Rachel Smith]\nMmm... ¿Dónde está mi revólver?\nQué irresponsabilidad. Te daré otra arma. No vuelvas a hacerlo."
     },
     "Do+cBw": {
         "en-US": "[Rachel Smith]\nBring my gun to Einbroch Blacksmith guild and show it to them. I am counting on you.",
@@ -3757,7 +3757,7 @@
     "D4+cBw": {
         "en-US": "[Rachel Smith]\n...Hmm.\nIf I keep saying the same thing, print the screen and ask the administration team.",
         "pt-BR": "[Rachel Smith]\n...Humm.\nSe eu continuar falando a mesma coisa, capture uma imagem da tela e entre em contato com a equipe administrativa.",
-        "es-ES": "[Rachel Smith]\nMmm…\nSi sigo repitiendo lo mismo, saca captura de la pantalla y ponte en contacto con el equipo de administración."
+        "es-ES": "[Rachel Smith]\nMmm...\nSi sigo repitiendo lo mismo, saca captura de la pantalla y ponte en contacto con el equipo de administración."
     },
     "EI+cBw": {
         "en-US": "[Rachel Smith]\nWelcome back. What did they say?",
@@ -3767,7 +3767,7 @@
     "EY+cBw": {
         "en-US": "[Rachel Smith]\nSo... it's the material. Hmm...\nAs a matter of fact, I estimated it a little.",
         "pt-BR": "[Rachel Smith]\nEntão... É o material. Humm...\nNa verdade, pensei que fosse.",
-        "es-ES": "[Rachel Smith]\nAsí que… es el material. Mmm…\nDe hecho, me lo imaginé."
+        "es-ES": "[Rachel Smith]\nAsí que... es el material. Mmm...\nDe hecho, me lo imaginé."
     },
     "Eo+cBw": {
         "en-US": "[Rachel Smith]\nBut I had no other choice. Due to the lack of budget, I could not get better materials.",
@@ -3777,7 +3777,7 @@
     "E4+cBw": {
         "en-US": "[Rachel Smith]\nMoreover, our Master brilliantly repairs weapons with these materials. But I keep breaking them..",
         "pt-BR": "[Rachel Smith]\nAlém disso, nosso Mestre conserta armas brilhantemente com esses materiais. Mas eu continuo quebrando-as...",
-        "es-ES": "[Rachel Smith]\nAdemás, nuestro maestro repara armas magníficamente con estos materiales. Pero sigo rompiéndolas…"
+        "es-ES": "[Rachel Smith]\nAdemás, nuestro maestro repara armas magníficamente con estos materiales. Pero sigo rompiéndolas..."
     },
     "FI+cBw": {
         "en-US": "[Rachel Smith]\nSo I was trying to improve it by myself. But I changed my mind after listening to you.",
@@ -3792,7 +3792,7 @@
     "Fo+cBw": {
         "en-US": "[Rachel Smith]\nTherefore.. Adventurer, I would like to ask you for a favor. Could you please bring me the materials that I require?\nWhenever you think of it... Once a day would be perfect. If you bring them occasionally, it's also good.",
         "pt-BR": "[Rachel Smith]\nPortanto... Aventureiro, gostaria de lhe pedir um favor. Poderia me trazer os materiais que eu necessito?\nQuando você pensar nisso... Uma vez por dia seria perfeito. Se você os trouxer de vez em quando, está bom também.",
-        "es-ES": "[Rachel Smith]\nPor lo tanto… Trotamundos, quisiera pedirte un favor. ¿Podrías traerme los materiales que necesito?\nCuando puedas… Una vez al día sería perfecto. Si los traes de vez en cuando, también me sirve."
+        "es-ES": "[Rachel Smith]\nPor lo tanto... Trotamundos, quisiera pedirte un favor. ¿Podrías traerme los materiales que necesito?\nCuando puedas... Una vez al día sería perfecto. Si los traes de vez en cuando, también me sirve."
     },
     "F4+cBw": {
         "en-US": "[Rachel Smith]\nI cannot give you money for that. But I will compensate you with something else. What do you think?",
@@ -3812,7 +3812,7 @@
     "Go+cBw": {
         "en-US": "[Rachel Smith]\nThank you, adventurer.\nHmm... The most important item is.. Let me see. Today.. I need some Iron.\n5 Iron. Could you please bring them to me?",
         "pt-BR": "[Rachel Smith]\nObrigada, viajante.\nHumm... O item mais importante é... Deixe-me ver. Hoje... Preciso de um pouco de Ferro.\n5 Ferros. Poderia trazê-los para mim, por favor?",
-        "es-ES": "[Rachel Smith]\nGracias, trotamundos.\nMmm… El objeto más importante es… Déjame ver. Hoy… Necesito un poco de Hierro.\n5 Hierros. ¿Podrías traérmelas?"
+        "es-ES": "[Rachel Smith]\nGracias, trotamundos.\nMmm... El objeto más importante es... Déjame ver. Hoy... Necesito un poco de Hierro.\n5 Hierros. ¿Podrías traérmelas?"
     },
     "G4+cBw": {
         "en-US": "[Rachel Smith]\nYes. I will.\nI have no other choice.",
@@ -3827,7 +3827,7 @@
     "HY+cBw": {
         "en-US": "[Rachel Smith]\nIf you can help me again... Could you come back tomorrow? I might need other Ore.",
         "pt-BR": "[Rachel Smith]\nSe você puder me ajudar de novo... Poderia voltar amanhã? Posso precisar de outro minério.",
-        "es-ES": "[Rachel Smith]\nSi puedes ayudarme de nuevo… ¿Podrías regresar mañana? Quizá necesite otro Mineral."
+        "es-ES": "[Rachel Smith]\nSi puedes ayudarme de nuevo... ¿Podrías regresar mañana? Quizá necesite otro Mineral."
     },
     "Ho+cBw": {
         "en-US": "[Rachel Smith]\nWelcome, adventurer. Thanks to your help last time, I was able to work without difficulty.\nIs it okay if I ask you for a favor again?",
@@ -3862,12 +3862,12 @@
     "JI+cBw": {
         "en-US": "[Rachel Smith]\nHmm.. I see. But thank you for your help last time.\nThank you coming again.",
         "pt-BR": "[Rachel Smith]\nHum... Entendo. Mas obrigada por me ajudar da outra vez.\nObrigada por voltar.",
-        "es-ES": "[Rachel Smith]\nMmm… Ya veo. Pero gracias por tu ayuda la última vez.\nGracias por venir de nuevo."
+        "es-ES": "[Rachel Smith]\nMmm... Ya veo. Pero gracias por tu ayuda la última vez.\nGracias por venir de nuevo."
     },
     "JY+cBw": {
         "en-US": "[Rachel Smith]\nApart from the materials...\nCan you come here to meet me once in a while?",
         "pt-BR": "[Rachel Smith]\nAlém dos materiais...\nVocê pode vir aqui me encontrar de vez em quando?",
-        "es-ES": "[Rachel Smith]\nAparte de los materiales…\n¿Puedes venir a verme de vez en cuando?"
+        "es-ES": "[Rachel Smith]\nAparte de los materiales...\n¿Puedes venir a verme de vez en cuando?"
     },
     "Jo+cBw": {
         "en-US": "Of course it it okay.",
@@ -3882,7 +3882,7 @@
     "KI+cBw": {
         "en-US": "[Rachel Smith]\nThe blacksmiths in large cities exchange Elunium Ore with Elunium... Please bring me 2 Elunium.\nIf I had a better skill, it would have been enough with Ore. I'm ashamed...",
         "pt-BR": "[Rachel Smith]\nOs ferreiros nas cidades grandes trocam o Minério de Elunium por Elunium... Por favor, traga-me 2 Eluniuns.\nSe eu tivesse uma habilidade melhor, minérios seriam suficientes. Estou envergonhada.",
-        "es-ES": "[Rachel Smith]\nLos Herreros de las grandes ciudades intercambian Mineral de Elunium por Elunium… Tráeme 2 Elunium.\nSi fuese más habilidosa, con el Mineral, hubiera bastado. Me da vergüenza…"
+        "es-ES": "[Rachel Smith]\nLos Herreros de las grandes ciudades intercambian Mineral de Elunium por Elunium... Tráeme 2 Elunium.\nSi fuese más habilidosa, con el Mineral, hubiera bastado. Me da vergüenza..."
     },
     "KY+cBw": {
         "en-US": "[Rachel Smith]\nWe always don't have enough Iron. Bring 5 Iron please.\nThank you so much, adventurer.",
@@ -3907,7 +3907,7 @@
     "LY+cBw": {
         "en-US": "[Rachel Smith]\nThank you, adventurer...\nAlthough I cannot give you money, let me give you this.\nIf possible, I would like to ask you for a favor tomorrow too.",
         "pt-BR": "[Rachel Smith]\nObrigada, viajante...\nEmbora eu não possa lhe dar dinheiro, deixe-me dar isso.\nSe possível, eu gostaria de lhe pedir um favor amanhã também.",
-        "es-ES": "[Rachel Smith]\nGracias, trotamundos…\nAunque no te puedo dar dinero, déjame darte esto.\nSi es posible, también me gustaría pedirte un favor mañana."
+        "es-ES": "[Rachel Smith]\nGracias, trotamundos...\nAunque no te puedo dar dinero, déjame darte esto.\nSi es posible, también me gustaría pedirte un favor mañana."
     },
     "Lo+cBw": {
         "en-US": "[Rachel Smith]\nYeah. I am just requesting you.\nIf you have more important thing to do, don't worry about me.",
@@ -3957,12 +3957,12 @@
     "N4+cBw": {
         "en-US": "[Blacksmith Jack]\nHmm. This is definitely the skill of our guild member. She has developed the method we taught her.\nHer skill is good. Hmm, but...",
         "pt-BR": "[Ferreiro Jack]\nHumm. É definitivamente a habilidade de uma colega nossa. Ela desenvolveu o método que ensinamos a ela.\nSua habilidade é boa. Humm, mas...",
-        "es-ES": "[Jack el Herrero]\nMmm. Sin duda, esta es la habilidad de un miembro de nuestro gremio. Ella desarrolló el método que le enseñamos.\nEs habilidosa. Mmm, pero…"
+        "es-ES": "[Jack el Herrero]\nMmm. Sin duda, esta es la habilidad de un miembro de nuestro gremio. Ella desarrolló el método que le enseñamos.\nEs habilidosa. Mmm, pero..."
     },
     "OI+cBw": {
         "en-US": "[Blacksmith Jack]\nThis is... Hmm, I see...",
         "pt-BR": "[Ferreiro Jack]\nIsto é... Humm, entendo...",
-        "es-ES": "[Jack el Herrero]\nEsto es… Mmm, ya veo…"
+        "es-ES": "[Jack el Herrero]\nEsto es... Mmm, ya veo..."
     },
     "OY+cBw": {
         "en-US": "Jack is scrutinizing Rachel's revolver.",
@@ -3982,7 +3982,7 @@
     "PI+cBw": {
         "en-US": "[Blacksmith Jack]\nGo back and tell her. It might be exploded in the meantime...",
         "pt-BR": "[Ferreiro Jack]\nVolte e diga a ela. Isso pode acabar explodindo no caminho...",
-        "es-ES": "[Jack el Herrero]\nRegresa y díselo. Podría explotar en cualquier momento…"
+        "es-ES": "[Jack el Herrero]\nRegresa y díselo. Podría explotar en cualquier momento..."
     },
     "PY+cBw": {
         "en-US": "[Blacksmith Jack]\nAn experienced Blacksmith can recognize the status of the weapon just by feeling the vibration on the arm when he/she smashes that weapon with a hammer.",
@@ -4007,7 +4007,7 @@
     "QY+cBw": {
         "en-US": "[Mason Bender]\n......Phew, a request from commander Bolkova... I have no choice but to answer you. But I can only tell you negative things about those kids.",
         "pt-BR": "[Mason Bender]\n...Ah, um pedido da comandante Bolkova... Não tenho escolha a não ser responder você. Mas eu só posso te dizer coisas negativas sobre essas crianças.",
-        "es-ES": "[Mason Bender]\n…Uf, un pedido de la comandante Bolkova… No tengo más remedio que responderte. Pero solo puedo decirte cosas negativas de esos chicos."
+        "es-ES": "[Mason Bender]\n...Uf, un pedido de la comandante Bolkova... No tengo más remedio que responderte. Pero solo puedo decirte cosas negativas de esos chicos."
     },
     "Qo+cBw": {
         "en-US": "[Mason Bender]\nThere's nothing they can do properly. Plus, they don't even listen to us.\nThey are the worst kids. I don't know why we have to keep them here.",
@@ -4027,7 +4027,7 @@
     "RY+cBw": {
         "en-US": "[Mason Bender]\nWell, this job fits in my talents...\nThe fact I dislike those kids is a different story.",
         "pt-BR": "[Mason Bender]\nBem, este trabalho se encaixa nos meus talentos...\nO fato de eu não gostar dessas crianças é outra história.",
-        "es-ES": "[Mason Bender]\nBueno, este trabajo encaja con mis talentos…\nEl hecho de que no me gusten esos niños es otra historia."
+        "es-ES": "[Mason Bender]\nBueno, este trabajo encaja con mis talentos...\nEl hecho de que no me gusten esos niños es otra historia."
     },
     "Ro+cBw": {
         "en-US": "[Mason Bender]\nAfter being deployed in the actual battle, they made trouble and run away. I don't know why they call them genius. Someone like me can be called genius.",
@@ -4042,7 +4042,7 @@
     "SI+cBw": {
         "en-US": "[{0}]\n(I heard a similar story from other people...\nMaybe the keyword is the incident that happened at the real mission.\nI should go back to the twins and ask them about it.)",
         "pt-BR": "[{0}]\n(Ouvi uma história parecida de outras pessoas...\nTalvez a palavra-chave seja o incidente que aconteceu na missão.\nEu deveria voltar para os gêmeos e perguntar a eles sobre isso.)",
-        "es-ES": "[{0}]\n(Oí una historia similar de otras personas…\nQuizá la palabra clave sea el incidente que ocurrió en la misión real.\nDebería volver con los mellizos y preguntarles sobre esto)."
+        "es-ES": "[{0}]\n(Oí una historia similar de otras personas...\nQuizá la palabra clave sea el incidente que ocurrió en la misión real.\nDebería volver con los mellizos y preguntarles sobre esto)."
     },
     "SY+cBw": {
         "en-US": "[Mason Bender]\nCookies? Hmm, let me see. Where did you get these?",
@@ -4052,7 +4052,7 @@
     "So+cBw": {
         "en-US": "[Mason Bender]\n......Made by those kids?",
         "pt-BR": "[Mason Bender]\n......Feito por aquelas crianças?",
-        "es-ES": "[Mason Bender]\n…¿Las hicieron esos niños?"
+        "es-ES": "[Mason Bender]\n...¿Las hicieron esos niños?"
     },
     "S4+cBw": {
         "en-US": "[Mason Bender]\nNo, no. I don't have any prejudice against them any more.\nPlease give it to me. Let me judge it with my talented taste!",
@@ -4062,12 +4062,12 @@
     "TI+cBw": {
         "en-US": "[Mason Bender]\n...Hmm... Yum yum...\nWell, not bad.",
         "pt-BR": "[Mason Bender]\n...Humm... Nham nham...\nBem, nada mal.",
-        "es-ES": "[Mason Bender]\n…Hmm… Ñam, ñam…\nBueno, nada mal."
+        "es-ES": "[Mason Bender]\n...Hmm... Ñam, ñam...\nBueno, nada mal."
     },
     "TY+cBw": {
         "en-US": "[Mason Bender]\nIt is dry and I feel like it's not fully baked. It's too sweet and the shapes are not consistent. But...",
         "pt-BR": "[Mason Bender]\nEstão secos e eu sinto que estão um pouco crus. É muito doce e os formatos não são consistentes. Mas...",
-        "es-ES": "[Mason Bender]\nEstán secas y tengo la sensación de que no terminaron de hornearse. Son demasiado dulces y las formas no son uniformes. Pero…"
+        "es-ES": "[Mason Bender]\nEstán secas y tengo la sensación de que no terminaron de hornearse. Son demasiado dulces y las formas no son uniformes. Pero..."
     },
     "To+cBw": {
         "en-US": "[Mason Bender]\nI can see how much effort they gave to make them. It's delicious.",
@@ -4102,22 +4102,22 @@
     "VI+cBw": {
         "en-US": "[Mason Bender]\nFirearms are the tres... Sorry? Nemi? We are closed today?",
         "pt-BR": "[Mason Bender]\nArmas de fogo são a... Desculpe? Nemi? Estamos fechados hoje?",
-        "es-ES": "[Mason Bender]\nLas armas de fuego son… ¿Perdón? ¿Nemi? ¿Está cerrada la tienda hoy?"
+        "es-ES": "[Mason Bender]\nLas armas de fuego son... ¿Perdón? ¿Nemi? ¿Está cerrada la tienda hoy?"
     },
     "VY+cBw": {
         "en-US": "[Mason Bender]\nAh.. Yes. We are closed today. Please visit us later.",
         "pt-BR": "[Mason Bender]\nAh... Sim. Estamos fechados hoje. Visite-nos mais tarde.",
-        "es-ES": "[Mason Bender]\nAh… Sí. Hoy está cerrada. Visítanos más tarde."
+        "es-ES": "[Mason Bender]\nAh... Sí. Hoy está cerrada. Visítanos más tarde."
     },
     "Vo+cBw": {
         "en-US": "[Mason Bender]\nPhew... Oh, sorry.",
         "pt-BR": "[Mason Bender]\nUfa... Ah, desculpe.",
-        "es-ES": "[Mason Bender]\nFiu… Ah, lo siento."
+        "es-ES": "[Mason Bender]\nFiu... Ah, lo siento."
     },
     "V4+cBw": {
         "en-US": "[Mason Bender]\nYou... Yeah. You're the one who made a fuss in there, aren't you?\nIt's good. I would like to ask you for a favor. Will you accept it?",
         "pt-BR": "[Mason Bender]\nVocê... É. Você é o viajante que fez um alarde ali, não é?\nNão tem problema. Eu gostaria de pedir um favor. Você aceita?",
-        "es-ES": "[Mason Bender]\nTú… Sí. Tú eres quien provocó un alboroto ahí dentro, ¿no?\nEstá bien. Me gustaría pedirte un favor. ¿Lo aceptarás?"
+        "es-ES": "[Mason Bender]\nTú... Sí. Tú eres quien provocó un alboroto ahí dentro, ¿no?\nEstá bien. Me gustaría pedirte un favor. ¿Lo aceptarás?"
     },
     "WI+cBw": {
         "en-US": "[Mason Bender]\nI will give you an opportunity to be in charge of one wing of my talented work.",
@@ -4132,7 +4132,7 @@
     "Wo+cBw": {
         "en-US": "[Mason Bender]\nWell, it's a figure of speech. Haha...\nCan you help me?",
         "pt-BR": "[Mason Bender]\nÉ uma figura de linguagem. Hahah...\nVocê pode me ajudar?",
-        "es-ES": "[Mason Bender]\nBueno, es una forma de decir. Ja, ja…\n¿Puedes ayudarme?"
+        "es-ES": "[Mason Bender]\nBueno, es una forma de decir. Ja, ja...\n¿Puedes ayudarme?"
     },
     "W4+cBw": {
         "en-US": "I don't feel good about him. Ignore him.",
@@ -4172,12 +4172,12 @@
     "Yo+cBw": {
         "en-US": "[Mason Bender]\nTherefore! You bring this yourself! And give the leaflets kindly to each person. Make sure you pass it on someone's hand with a kind smlie on your face.",
         "pt-BR": "[Mason Bender]\nPortanto, você mesmo leva! E entrega os panfletos gentilmente para cada pessoa. Certifique-se de entregá-los na mão da pessoa, com um sorriso gentil no seu rosto.",
-        "es-ES": "[Mason Bender]\nEntonces… ¡Llévalos tú! Y entrega los folletos amablemente a cada persona. Asegúrate de entregárselos con una sonrisa amable en el rostro."
+        "es-ES": "[Mason Bender]\nEntonces... ¡Llévalos tú! Y entrega los folletos amablemente a cada persona. Asegúrate de entregárselos con una sonrisa amable en el rostro."
     },
     "Y4+cBw": {
         "en-US": "[Mason Bender]\nNemi has been angry about this malignity stock. If you do that, they will surely be sold well. Huhu...",
         "pt-BR": "[Mason Bender]\nNemi está zangado com o estoque. Se você fizer isso, com certeza eles venderão bem. Huhu...",
-        "es-ES": "[Mason Bender]\nNemi se enfadó por estos suministros arruinados. Si lo haces, seguro se venderán bien. Ju, ju…"
+        "es-ES": "[Mason Bender]\nNemi se enfadó por estos suministros arruinados. Si lo haces, seguro se venderán bien. Ju, ju..."
     },
     "ZI+cBw": {
         "en-US": "[Mason Bender]\nNow! I will give you the leaflets. See you!",
@@ -4187,17 +4187,17 @@
     "ZY+cBw": {
         "en-US": "[Mason Bender]\n...",
         "pt-BR": "[Mason Bender]\n...",
-        "es-ES": "[Mason Bender]\n…"
+        "es-ES": "[Mason Bender]\n..."
     },
     "Zo+cBw": {
         "en-US": "[Mason Bender]\nPhew... You have been stimulated by my talented eloquence. That's why you cannot even respond. Of course I understand it...",
         "pt-BR": "[Mason Bender]\nUfa... Você foi estimulado pela minha eloquência talentosa. É por isso que você não consegue responder. Claro, eu entendo...",
-        "es-ES": "[Mason Bender]\nFiu… Te animé con mi talentosa elocuencia. Por eso es que ni siquiera puedes responder. Claro que lo entiendo…"
+        "es-ES": "[Mason Bender]\nFiu... Te animé con mi talentosa elocuencia. Por eso es que ni siquiera puedes responder. Claro que lo entiendo..."
     },
     "Z4+cBw": {
         "en-US": "[Mason Bender]\nPlease calm down and talk to me again. Huhu...",
         "pt-BR": "[Mason Bender]\nAcalme-se e venha falar comigo de novo. Huhu...",
-        "es-ES": "[Mason Bender]\nPor favor, cálmate y vuelve a hablar conmigo. Ju, ju…"
+        "es-ES": "[Mason Bender]\nPor favor, cálmate y vuelve a hablar conmigo. Ju, ju..."
     },
     "aI+cBw": {
         "en-US": "[{0}]\n...Not even close!",
@@ -4212,7 +4212,7 @@
     "ao+cBw": {
         "en-US": "[Mason Bender]\nWhoops... Have you lost the leaflets?",
         "pt-BR": "[Mason Bender]\nOoops... Você perdeu os panfletos?",
-        "es-ES": "[Mason Bender]\nUy… ¿Perdiste los folletos?"
+        "es-ES": "[Mason Bender]\nUy... ¿Perdiste los folletos?"
     },
     "a4+cBw": {
         "en-US": "[Mason Bender]\nPlease don't mistreat the leaflets. This time, I will give them to you again.",
@@ -4227,7 +4227,7 @@
     "bY+cBw": {
         "en-US": "[{0}]\nWell... Just so so...",
         "pt-BR": "[{0}]\nBom... Só assim...",
-        "es-ES": "[{0}]\nBueno… Tan solo muy…"
+        "es-ES": "[{0}]\nBueno... Tan solo muy..."
     },
     "bo+cBw": {
         "en-US": "[Mason Bender]\nOh? Really?!",
@@ -4237,7 +4237,7 @@
     "b4+cBw": {
         "en-US": "[Mason Bender]\n...Oh, I see. My pink brain cells finished the deduction!\nThey haven't read my leaflets yet!",
         "pt-BR": "[Mason Bender]\n...Ah, entendo. Meus neurônios chegaram a uma conclusão!\nEles não leram meus panfletos ainda!",
-        "es-ES": "[Mason Bender]\n…Oh, ya veo. ¡Mis neuronas hicieron la deducción!\n¡Todavía no han leído mis folletos!"
+        "es-ES": "[Mason Bender]\n...Oh, ya veo. ¡Mis neuronas hicieron la deducción!\n¡Todavía no han leído mis folletos!"
     },
     "cI+cBw": {
         "en-US": "[Mason Bender]\nThey were fascinated by my talented opening so they forgot to read the rest of the leaflet!",
@@ -4247,7 +4247,7 @@
     "cY+cBw": {
         "en-US": "[Mason Bender]\nHuhu... I can't do anything about it. Let us wait evenly.",
         "pt-BR": "[Mason Bender]\nHuhu... Não posso fazer nada a respeito. Vamos aguardar.",
-        "es-ES": "[Mason Bender]\nJu, ju… No puedo hacer nada al respecto. Esperemos con calma."
+        "es-ES": "[Mason Bender]\nJu, ju... No puedo hacer nada al respecto. Esperemos con calma."
     },
     "co+cBw": {
         "en-US": "[Mason Bender]\nThere will be so many people visiting us tomorrow. So I will ask Eri about how to receive many customers.",
@@ -4257,12 +4257,12 @@
     "c4+cBw": {
         "en-US": "[Mason Bender]\nIf you don't mind, could you please come back tomorrow and help me receiving customers? Huhu...",
         "pt-BR": "[Mason Bender]\nSe não se importar, poderia voltar amanhã e me ajudar a receber os clientes? Huhu...",
-        "es-ES": "[Mason Bender]\nSi no te importa, ¿podrías regresar mañana y ayudarme a dar la bienvenida a los clientes? Ju, ju…"
+        "es-ES": "[Mason Bender]\nSi no te importa, ¿podrías regresar mañana y ayudarme a dar la bienvenida a los clientes? Ju, ju..."
     },
     "dI+cBw": {
         "en-US": "[Mason Bender]\nWelcome! Glad to meet you! Have you come to buy the mortar... Oh?\n...It's you, adventurer. Welcome.",
         "pt-BR": "[Mason Bender]\nBoas-vindas! Prazer em lhe conhecer! Você veio comprar o morteiro... Ah?\n...É você, viajante. Boas-vindas.",
-        "es-ES": "[Mason Bender]\n¡Te doy la bienvenida! Es un placer. Viniste a comprar el mortero… ¿Eh?\n…Eres tú, trotamundos. Hola."
+        "es-ES": "[Mason Bender]\n¡Te doy la bienvenida! Es un placer. Viniste a comprar el mortero... ¿Eh?\n...Eres tú, trotamundos. Hola."
     },
     "dY+cBw": {
         "en-US": "[{0}]\nWait. Were you disappointed! You were!\nSeems like your business is in trouble.",
@@ -4317,12 +4317,12 @@
     "f4+cBw": {
         "en-US": "[Mason Bender]\nWelcome! Clana Nemieri... Oh?",
         "pt-BR": "[Mason Bender]\nBoas-vindas! Clana Nemieri... Ah?",
-        "es-ES": "[Mason Bender]\n¡Hola! Clana Nemieri… ¿Eh?"
+        "es-ES": "[Mason Bender]\n¡Hola! Clana Nemieri... ¿Eh?"
     },
     "gI+cBw": {
         "en-US": "[Mason Bender]\n...Oh, what is it?{0}It was you. I thought it was a customer...",
         "pt-BR": "[Mason Bender]\n...Ah, o que é? {0}? Era você. Pensei que fosse um cliente...",
-        "es-ES": "[Mason Bender]\n…Oh, ¿qué sucedió? ¿{0}? Eras tú. Pensé que era un cliente…"
+        "es-ES": "[Mason Bender]\n...Oh, ¿qué sucedió? ¿{0}? Eras tú. Pensé que era un cliente..."
     },
     "gY+cBw": {
         "en-US": "[{0}]\nDid you sell your cannons?",
@@ -4332,17 +4332,17 @@
     "go+cBw": {
         "en-US": "[Mason Bender]\nThey are mortars, not cannons. I thought they would be sold today...",
         "pt-BR": "[Mason Bender]\nSão morteiros, não canhões. Achei que eles seriam vendidos hoje...",
-        "es-ES": "[Mason Bender]\nSon morteros, no cañones. Pensé que se venderían hoy…"
+        "es-ES": "[Mason Bender]\nSon morteros, no cañones. Pensé que se venderían hoy..."
     },
     "g4+cBw": {
         "en-US": "[Mason Bender]\nThis is strange. According to my calculation, these mortars should have been sold today... And four days later, we are supposed to reach the break-even point. After that, we will begin the turnaround.",
         "pt-BR": "[Mason Bender]\nIsso é estranho. De acordo com os meus cálculos, estes morteiros deveriam ter sido vendidos hoje... E quatro dias depois, devemos atingir o ponto de equilíbrio. Depois disso, começaremos a lucrar.",
-        "es-ES": "[Mason Bender]\nEsto es extraño… Según mis cálculos, estos morteros deberían haberse vendido hoy… Y, cuatro días después, se supone que deberíamos alcanzar el punto de equilibrio. Después de eso, comenzaríamos a ser rentables."
+        "es-ES": "[Mason Bender]\nEsto es extraño... Según mis cálculos, estos morteros deberían haberse vendido hoy... Y, cuatro días después, se supone que deberíamos alcanzar el punto de equilibrio. Después de eso, comenzaríamos a ser rentables."
     },
     "hI+cBw": {
         "en-US": "[Mason Bender]\nI don't know why. Hmm..\nWhile I analyze the phenomenon,{0}Could you please hand out the leaflets to villagers once again?",
         "pt-BR": "[Mason Bender]\nNão sei o porquê. Hum...\nEnquanto analiso o fenômeno, {0}, poderia entregar esses panfletos aos moradores de novo?",
-        "es-ES": "[Mason Bender]\nNo sé por qué. Mmm…\nMientras analizo el fenómeno, {0}, ¿podrías volver a repartir los folletos entre los aldeanos?"
+        "es-ES": "[Mason Bender]\nNo sé por qué. Mmm...\nMientras analizo el fenómeno, {0}, ¿podrías volver a repartir los folletos entre los aldeanos?"
     },
     "hY+cBw": {
         "en-US": "[Mason Bender]\nGo to the village and find three people who seem to need the mortar earnestly. And give them these leaflets.",
@@ -4367,7 +4367,7 @@
     "iY+cBw": {
         "en-US": "[Mason Bender]\nCome on... Why aren't you helping me?",
         "pt-BR": "[Mason Bender]\nQual é... Por que você não está me ajudando?",
-        "es-ES": "[Mason Bender]\nVamos… ¿Por qué no me ayudas?"
+        "es-ES": "[Mason Bender]\nVamos... ¿Por qué no me ayudas?"
     },
     "io+cBw": {
         "en-US": "[{0}]\nWell, nobody needs a mortar here.",
@@ -4387,7 +4387,7 @@
     "jY+cBw": {
         "en-US": "[Eri]\n...I hope he uses that passion elsewhere.",
         "pt-BR": "[Eri]\n...Espero que ele use essa paixão em outro lugar.",
-        "es-ES": "[Eri]\n…Espero que use esa pasión en otra parte."
+        "es-ES": "[Eri]\n...Espero que use esa pasión en otra parte."
     },
     "jo+cBw": {
         "en-US": "[Mason Bender]\nNow, I count on you.\nIn the meantime, I will get ready to receive customers.",
@@ -4407,7 +4407,7 @@
     "kY+cBw": {
         "en-US": "[Mason Bender]\nHmm... It's strange. Why is it you again, not a customer?\nIf I keep saying the same thing, print the screen and ask the administration team.",
         "pt-BR": "[Mason Bender]\nHumm... É estranho. Por que é você de novo, e não um cliente?\nSe eu continuar falando a mesma coisa, capture uma imagem da tela e entre em contato com a equipe administrativa.",
-        "es-ES": "[Mason Bender]\nMmm… Es extraño. ¿Por qué eres tú de nuevo y no un cliente?\nSi sigo repitiendo lo mismo, saca captura de la pantalla y ponte en contacto con el equipo de administración."
+        "es-ES": "[Mason Bender]\nMmm... Es extraño. ¿Por qué eres tú de nuevo y no un cliente?\nSi sigo repitiendo lo mismo, saca captura de la pantalla y ponte en contacto con el equipo de administración."
     },
     "ko+cBw": {
         "en-US": "[Mason Bender]\nI will sell electric heaters to the people of Morroc. And I will sell refrigerators in Manuc!",
@@ -4427,7 +4427,7 @@
     "lY+cBw": {
         "en-US": "[Tired Looking Man]\nI call it a pleasure... What's wrong with my life?",
         "pt-BR": "[Homem Cansado]\nEu chamo isso de prazer... O que há de errado com a minha vida?",
-        "es-ES": "[Hombre Cansado]\nLo llamo un placer… ¿Qué tiene de malo mi vida?"
+        "es-ES": "[Hombre Cansado]\nLo llamo un placer... ¿Qué tiene de malo mi vida?"
     },
     "lo+cBw": {
         "en-US": "You handed him the leaflet.",
@@ -4437,7 +4437,7 @@
     "l4+cBw": {
         "en-US": "[Tired Looking Man]\nWhat's this? A leaflet? I'm not interested... What the hell do you sell there?",
         "pt-BR": "[Homem Cansado]\nO que é isso? Um panfleto? Não estou interessado. Que raios você vende lá?",
-        "es-ES": "[Hombre Cansado]\n¿Qué es esto? ¿Un folleto? No me interesa… ¿Qué demonios venden ahí?"
+        "es-ES": "[Hombre Cansado]\n¿Qué es esto? ¿Un folleto? No me interesa... ¿Qué demonios venden ahí?"
     },
     "mI+cBw": {
         "en-US": "[Tired Looking Man]\nMortar? Are we having a war? Why would I buy it?",
@@ -4472,12 +4472,12 @@
     "no+cBw": {
         "en-US": "[Tired Looking Old man]\nWhat is this... What do you ask me to buy? A cannon? Why would I need it?",
         "pt-BR": "[Idoso Cansado]\nO que é isso... O que você quer que eu compre? Um canhão? Por que eu precisaria disso?",
-        "es-ES": "[Anciano Cansado]\n¿Qué es esto…? ¿Qué quieres que compre? ¿Un cañón? ¿Por qué debería comprarlo?"
+        "es-ES": "[Anciano Cansado]\n¿Qué es esto...? ¿Qué quieres que compre? ¿Un cañón? ¿Por qué debería comprarlo?"
     },
     "n4+cBw": {
         "en-US": "[Tired Looking Old man]\nI will take the leaflets if you give me... But I only need a little amount of gunpowder in the mine.",
         "pt-BR": "[Idoso Cansado]\nVou pegar os panfletos se você me entregar... Mas eu só preciso de uma pequena quantia de pólvora na mina.",
-        "es-ES": "[Anciano Cansado]\nAgarraré los folletos si me das… Pero solo necesito una pequeña cantidad de pólvora en la mina."
+        "es-ES": "[Anciano Cansado]\nAgarraré los folletos si me das... Pero solo necesito una pequeña cantidad de pólvora en la mina."
     },
     "oI+cBw": {
         "en-US": "[Tired Looking Old man]\nNo. I don't need a cannon.\nBesides, you don't seem to have the leaflets. What are you going to give me?",
@@ -4497,7 +4497,7 @@
     "o4+cBw": {
         "en-US": "[Sleepy Looking Old woman]\nAt my age... The only pleasure is to be bathed in the sun sitting in a warm place.",
         "pt-BR": "[Idosa Sonolenta]\nNa minha idade... O único prazer é tomar banho de sol sob um lugar quente.",
-        "es-ES": "[Anciana Somnolienta]\nA mi edad… El único placer es tomar sol sentada en un lugar cálido."
+        "es-ES": "[Anciana Somnolienta]\nA mi edad... El único placer es tomar sol sentada en un lugar cálido."
     },
     "pI+cBw": {
         "en-US": "[Sleepy Looking Old woman]\nI cannot see and hear well. But listen carefully and don't worry.",
@@ -4527,7 +4527,7 @@
     "qY+cBw": {
         "en-US": "[Sleepy Looking Old woman]\nWhat? Lunch? I've had it already. Hehe...",
         "pt-BR": "[Idosa Sonolenta]\nO quê? Almoço? Eu já almocei. Hehe...",
-        "es-ES": "[Anciana Somnolienta]\n¿Qué? ¿Almuerzo? Ya comí. Je, je…"
+        "es-ES": "[Anciana Somnolienta]\n¿Qué? ¿Almuerzo? Ya comí. Je, je..."
     },
     "qo+cBw": {
         "en-US": "Librarian in charge of juveniles",
@@ -4652,7 +4652,7 @@
     "wo+cBw": {
         "en-US": "[Librarian in charge of juveniles]\nHave you lost the book you borrowed?\nYes... We accept your report of a loss.",
         "pt-BR": "[Bibliotecária]\nVocê perdeu o livro que pegou emprestado?\nCerto... Nós aceitamos o seu relato de perda.",
-        "es-ES": "[Bibliotecario Juvenil]\n¿Perdiste el libro que te prestaron?\nSí… Aceptamos tu informe de pérdida."
+        "es-ES": "[Bibliotecario Juvenil]\n¿Perdiste el libro que te prestaron?\nSí... Aceptamos tu informe de pérdida."
     },
     "w4+cBw": {
         "en-US": "[Librarian in charge of juveniles]\nPlease be careful next time.\nIf you lose the book more than once or damage it, we may forbidthe lending to you.",

@@ -17,7 +17,7 @@
     "Qyp+Aw": {
         "en-US": "[Nahadan]\nYou're just a kid. I have to keep an eye on you, clean up after you...",
         "pt-BR": "[Nahadan]\nVocê é muito inexperiente para estar aqui. Não me responsabilizo se algo acontecer a você...",
-        "es-ES": "[Nahadan]\nPero si todavía eres una criatura. Tengo que vigilarte, limpiar lo que ensucias…"
+        "es-ES": "[Nahadan]\nPero si todavía eres una criatura. Tengo que vigilarte, limpiar lo que ensucias..."
     },
     "RCp+Aw": {
         "en-US": "[Nahadan]\nIt's all too annoying.\nCome back when you get stronger.",
@@ -67,7 +67,7 @@
     "TSp+Aw": {
         "en-US": "[Nahadan]\nWe can't go out there to hunt, so we are requesting adventurers to do the job or posting it on the Eden Group mission board... Do you want the work?",
         "pt-BR": "[Nahadan]\nComo não podemos lutar sozinhos, fazemos solicitações aos aventureiros na sede do Grupo do Éden, você já deve ter visto.",
-        "es-ES": "[Nahadan]\nNo podemos salir a cazar, así que solicitamos trotamundos que hagan el trabajo o publicamos las misiones en el tablero del Grupo del Edén… ¿Quieres el trabajo?"
+        "es-ES": "[Nahadan]\nNo podemos salir a cazar, así que solicitamos trotamundos que hagan el trabajo o publicamos las misiones en el tablero del Grupo del Edén... ¿Quieres el trabajo?"
     },
     "Tip+Aw": {
         "en-US": "[Nahadan]\nWell, it won't be a dangerous task. The lake is empty now because people are at festivals or something.\nYou know the Feruses? ^0000CDKill 30 of the red ones^000000 for me.",
@@ -77,7 +77,7 @@
     "Typ+Aw": {
         "en-US": "[Nahadan]\nI'd like to pick up some treats from the Street Stall... but I stand out too much here.\nI'll just take a nap at the lake where there will be no monsters.",
         "pt-BR": "[Nahadan]\nEnquanto isso, eu vou comprar um lanchinho nas barraquinhas em Hugel.\nQuero sentar num banco e cochilar um pouco.",
-        "es-ES": "[Nahadan]\nMe gustaría comprar algunos dulces en el puesto callejero… pero llamo demasiado la atención aquí.\nDormiré una siesta en el lago, donde no habrá monstruos."
+        "es-ES": "[Nahadan]\nMe gustaría comprar algunos dulces en el puesto callejero... pero llamo demasiado la atención aquí.\nDormiré una siesta en el lago, donde no habrá monstruos."
     },
     "UCp+Aw": {
         "en-US": "[Nahadan]\nCome find me when you're done. I'll let you know where I am on the map by the time you're done.",
@@ -87,7 +87,7 @@
     "USp+Aw": {
         "en-US": "[Nahadan]\n...Well, I won't force you.",
         "pt-BR": "[Nahadan]\n...Bem, eu não estou forçando você.",
-        "es-ES": "[Nahadan]\n…Bueno, no te obligaré."
+        "es-ES": "[Nahadan]\n...Bueno, no te obligaré."
     },
     "Uip+Aw": {
         "en-US": "[Nahadan]\nYou know the red Feruses? Kill just ^0000CD30 of them^000000 and then come to Abyss Lake. I'll be there.",
@@ -117,17 +117,17 @@
     "Vyp+Aw": {
         "en-US": "[Nahadan]\nI-I-I just saved someone at Abyss Lake from getting attacked by the Feruses.\nI-I'm not even an adventurer, but just an administrator... I didn't know things like this would happen...",
         "pt-BR": "[Nahadan]\nEu salvei alguém que foi mordido por um dragão.\nEu não sou uma aventureira, sou uma gerente... não sei como lidar com isso...",
-        "es-ES": "[Nahadan]\nA-acabo de salvar a una persona de ser atacada por los Ferus en el Lago del abismo.\nNi-ni siquiera soy un trotamundos, solo un administrador… No sabía que pasarían cosas como esta…"
+        "es-ES": "[Nahadan]\nA-acabo de salvar a una persona de ser atacada por los Ferus en el Lago del abismo.\nNi-ni siquiera soy un trotamundos, solo un administrador... No sabía que pasarían cosas como esta..."
     },
     "WCp+Aw": {
         "en-US": "[Nahadan]\nI-It was too scary... but... thank goodness. That person is okay...",
         "pt-BR": "[Nahadan]\nEstou assustada, mas fico feliz que tudo deu certo...",
-        "es-ES": "[Nahadan]\nMe-me dio mucho miedo… pero… gracias a Odín esa persona está bien…"
+        "es-ES": "[Nahadan]\nMe-me dio mucho miedo... pero... gracias a Odín esa persona está bien..."
     },
     "WSp+Aw": {
         "en-US": "[Nahadan]\nOh, you came...",
         "pt-BR": "[Nahadan]\nAh, você tá aí...",
-        "es-ES": "[Nahadan]\nAh, viniste…"
+        "es-ES": "[Nahadan]\nAh, viniste..."
     },
     "Wip+Aw": {
         "en-US": "[{0}]\nHow is he?",
@@ -137,22 +137,22 @@
     "Wyp+Aw": {
         "en-US": "[Nahadan]\nMyungkyung? He's under the church's care. He's hurt, but they said he'll be okay.\nPhew, thank goodness... What was he thinking! Going to a dangerous place by himself!",
         "pt-BR": "[Nahadan]\nDe Duda? A igreja está fazendo o tratamento, então a recuperação deve ser rápida.\nFoi um susto danado!",
-        "es-ES": "[Nahadan]\n¿Myungkyung? Está bajo el cuidado de la iglesia. Está herido, pero dicen que se pondrá bien.\nFiu, menos mal… ¿En qué estaba pensando? ¿Cómo se le ocurre ir solo a un lugar tan peligroso?"
+        "es-ES": "[Nahadan]\n¿Myungkyung? Está bajo el cuidado de la iglesia. Está herido, pero dicen que se pondrá bien.\nFiu, menos mal... ¿En qué estaba pensando? ¿Cómo se le ocurre ir solo a un lugar tan peligroso?"
     },
     "XCp+Aw": {
         "en-US": "[Nahadan]\nBut I'm glad that he's okay...",
         "pt-BR": "[Nahadan]\nEstou feliz que você está bem...",
-        "es-ES": "[Nahadan]\nPero me alegro de que esté bien…"
+        "es-ES": "[Nahadan]\nPero me alegro de que esté bien..."
     },
     "XSp+Aw": {
         "en-US": "[Nahadan]\n......\nI could've prevented this if I'd been more careful and tried harder to get some adventurer's help.",
         "pt-BR": "[Nahadan]\n......\nSe eu tivesse agido com mais responsabilidade, ninguém iria se ferir.",
-        "es-ES": "[Nahadan]\n…\nPodría haberlo evitado si hubiera tenido más cuidado y me hubiera esforzado más por conseguir la ayuda de algún trotamundos."
+        "es-ES": "[Nahadan]\n...\nPodría haberlo evitado si hubiera tenido más cuidado y me hubiera esforzado más por conseguir la ayuda de algún trotamundos."
     },
     "Xip+Aw": {
         "en-US": "[Nahadan]\n......I guess it's... my fault.",
         "pt-BR": "[Nahadan]\n.....a-acho... que a culpa é minha.",
-        "es-ES": "[Nahadan]\n…Supongo que es… mi culpa."
+        "es-ES": "[Nahadan]\n...Supongo que es... mi culpa."
     },
     "Xyp+Aw": {
         "en-US": "[Myungkyung]\nExcuse me.",
@@ -172,17 +172,17 @@
     "Yip+Aw": {
         "en-US": "[Myungkyung]\nI heard the Eden Group sent you to keep this place safe? \nTo work in such a dangerous place like this for the people's sake... Thank you so much.",
         "pt-BR": "[Duda]\nNão é você a funcionária do Grupo do Éden responsável pela segurança? \nNão acredito que você aceitou esse trabalho tão perigoso. Só tenho a agradecer você.",
-        "es-ES": "[Myungkyung]\n¿Escuché que el Grupo del Edén te envió para mantener este lugar seguro? \nTrabajar en un lugar tan peligroso como éste por el bien de la gente… Muchas gracias."
+        "es-ES": "[Myungkyung]\n¿Escuché que el Grupo del Edén te envió para mantener este lugar seguro? \nTrabajar en un lugar tan peligroso como éste por el bien de la gente... Muchas gracias."
     },
     "Yyp+Aw": {
         "en-US": "[Nahadan]\nN-No. ...That's not true.",
         "pt-BR": "[Nahadan]\nAh, não... imagina.",
-        "es-ES": "[Nahadan]\nN-No… eso no es verdad."
+        "es-ES": "[Nahadan]\nN-No... eso no es verdad."
     },
     "ZCp+Aw": {
         "en-US": "[Nahadan]\nI was just slacking off... Ouch!\n(What was that?!)",
         "pt-BR": "[Nahadan]\nEu só fui comprar um lanche e... Ai!\n(Não me cutuca desse jeito!)",
-        "es-ES": "[Nahadan]\nSolo estaba holgazaneando… ¡Auch!\n(¡¿Qué fue eso?!)"
+        "es-ES": "[Nahadan]\nSolo estaba holgazaneando... ¡Auch!\n(¡¿Qué fue eso?!)"
     },
     "ZSp+Aw": {
         "en-US": "[{0}]\nHe's a very responsible safety officer. I assure you.\nHe will continue to protect people coming to Abyss Lake from danger.",
@@ -192,12 +192,12 @@
     "Zip+Aw": {
         "en-US": "[Nahadan]\nWait, what are you...?",
         "pt-BR": "[Nahadan]\nPor que você está falando isso...?",
-        "es-ES": "[Nahadan]\nEspera, ¿qué estás…?"
+        "es-ES": "[Nahadan]\nEspera, ¿qué estás...?"
     },
     "Zyp+Aw": {
         "en-US": "[Myungkyung]\nOf course. That's how he saved my life.\nI could've... ended up as a feast for the Ferus with not a trace of me left...",
         "pt-BR": "[Duda]\nEu entendi, ela salvou a minha vida.\nAquele Ferus poderia ter devorado meu corpo vivo...",
-        "es-ES": "[Myungkyung]\nPor supuesto. Así fue que me salvó la vida.\nPodría… haber terminado como un banquete para los Ferus sin que quedara ni rastro de mí…"
+        "es-ES": "[Myungkyung]\nPor supuesto. Así fue que me salvó la vida.\nPodría... haber terminado como un banquete para los Ferus sin que quedara ni rastro de mí..."
     },
     "aCp+Aw": {
         "en-US": "[{0}]\nSo you also should be careful not to get in over your head in dangerous places. Understood?",
@@ -212,7 +212,7 @@
     "aip+Aw": {
         "en-US": "[Nahadan]\nUh... O-Okay... Take care.",
         "pt-BR": "[Nahadan]\nAh... sim, é... de nada.",
-        "es-ES": "[Nahadan]\nEh… B-bueno… Cuídate."
+        "es-ES": "[Nahadan]\nEh... B-bueno... Cuídate."
     },
     "ayp+Aw": {
         "en-US": "[Myungkyung]\nThank you so much again. I'll leave the town as soon as I recover.\nI doubt I'll see you again unless you visit my island, but I'll be grateful for the rest of my life.",
@@ -222,12 +222,12 @@
     "bCp+Aw": {
         "en-US": "[Nahadan]\nO-Okay...\n...",
         "pt-BR": "[Nahadan]\nSim, sim..\n...",
-        "es-ES": "[Nahadan]\nB-bueno…\n…"
+        "es-ES": "[Nahadan]\nB-bueno...\n..."
     },
     "bSp+Aw": {
         "en-US": "[Nahadan]\nHey, you! Why did you make things up? I just happened to find him in danger when I was looking for a place to take a nap.\nBut you made it sound like I was some big hero... You embarrassed me!",
         "pt-BR": "[Nahadan]\nAh, fala sério, porque inventou isso?\nEu estava cochilando e toda essa desgraça aconteceu!",
-        "es-ES": "[Nahadan]\n¡Oye, tú! ¿Por qué inventaste eso? Lo encontré en peligro de casualidad cuando buscaba un lugar para dormir la siesta.\nPero hiciste que sonara como si yo fuera un gran héroe… ¡Me avergonzaste!"
+        "es-ES": "[Nahadan]\n¡Oye, tú! ¿Por qué inventaste eso? Lo encontré en peligro de casualidad cuando buscaba un lugar para dormir la siesta.\nPero hiciste que sonara como si yo fuera un gran héroe... ¡Me avergonzaste!"
     },
     "bip+Aw": {
         "en-US": "[{0}]\nWell, I just told him your future prospects.\nWas I wrong?",
@@ -237,17 +237,17 @@
     "byp+Aw": {
         "en-US": "[Nahadan]\n...What is that?",
         "pt-BR": "[Nahadan]\n...Ah.",
-        "es-ES": "[Nahadan]\n…¿Qué es eso?"
+        "es-ES": "[Nahadan]\n...¿Qué es eso?"
     },
     "cCp+Aw": {
         "en-US": "[Nahadan]\nI-I'll try... but how do I know if I can be like that or not?",
         "pt-BR": "[Nahadan]\nVou tentar, mas... como vou saber se sou boa?!",
-        "es-ES": "[Nahadan]\nL-lo intentaré… pero ¿cómo sé si puedo ser así o no?"
+        "es-ES": "[Nahadan]\nL-lo intentaré... pero ¿cómo sé si puedo ser así o no?"
     },
     "cSp+Aw": {
         "en-US": "[{0}]\nWhat are you talking about...? That's your job.\nTry your best.",
         "pt-BR": "[{0}]\nO que você tá falando? Esse é o teu trabalho.\nFaça o seu melhor.",
-        "es-ES": "[{0}]\n¿De qué estás hablando…? Ese es tu trabajo.\n¡Da lo mejor de ti!"
+        "es-ES": "[{0}]\n¿De qué estás hablando...? Ese es tu trabajo.\n¡Da lo mejor de ti!"
     },
     "cip+Aw": {
         "en-US": "[Nahadan]\nI-I will! I will try my best.\nSo stop flattering me!",
@@ -297,12 +297,12 @@
     "eyp+Aw": {
         "en-US": "I'm sorry...",
         "pt-BR": "Desculpe, mas não...",
-        "es-ES": "Lo siento…"
+        "es-ES": "Lo siento..."
     },
     "fCp+Aw": {
         "en-US": "[Nahadan]\nStop bragging...\nBe careful! And don't forget to look around for any tourists.",
         "pt-BR": "[Nahadan]\nQue alma boa...\nTome cuidado.",
-        "es-ES": "[Nahadan]\nDeja de presumir…\n¡Ten cuidado! Y no olvides mirar a tu alrededor por si hay turistas."
+        "es-ES": "[Nahadan]\nDeja de presumir...\n¡Ten cuidado! Y no olvides mirar a tu alrededor por si hay turistas."
     },
     "fSp+Aw": {
         "en-US": "[Nahadan]\nYou pushed me into it just so you could sit idly by and watch from behind?!\nO-O-Of course, I didn't start working hard just because of what you said to me! Haha!",
@@ -337,7 +337,7 @@
     "gyp+Aw": {
         "en-US": "[Nahadan]\nGasp! Something doesn't feel right.\nNo, it's probably nothing... Talk to me again later.",
         "pt-BR": "[Nahadan]\nErro.\nEssa mensagem não deveria aparecer.",
-        "es-ES": "[Nahadan]\n¡Ay! Algo no va bien.\nNo, probablemente no sea nada… Vuelve a hablar conmigo más tarde."
+        "es-ES": "[Nahadan]\n¡Ay! Algo no va bien.\nNo, probablemente no sea nada... Vuelve a hablar conmigo más tarde."
     },
     "hCp+Aw": {
         "en-US": "[Nahadan]\nIf I keep on repeating what I said, please screenshot this text and make a bug report.",
@@ -377,27 +377,27 @@
     "iyp+Aw": {
         "en-US": "[Nahadan]\nWhat are you, a tourist? Adventurer? Anyways, it's dangerous here, so go to the village.\nThey have a really good clam soup...",
         "pt-BR": "[Nahadan]\nEi, turista, aqui não é um lugar seguro.\nMelhor voltar para Hugel, a Sopa de Ostras de lá é muito boa.",
-        "es-ES": "[Nahadan]\n¿Acaso eres turista? ¿Trotamundos? En fin, este lugar peligroso, así que ve a la aldea.\nTienen una Sopa de almejas muy buena…"
+        "es-ES": "[Nahadan]\n¿Acaso eres turista? ¿Trotamundos? En fin, este lugar peligroso, así que ve a la aldea.\nTienen una Sopa de almejas muy buena..."
     },
     "jCp+Aw": {
         "en-US": "[Nahadan]\nDamn, it's hard to get some free time... I'll be hiding somewhere near, so kill 30 Feruses for me.",
         "pt-BR": "[Nahadan]\nVou ficar escondida aqui, mas não se esqueça dos 30 Ferus que pedi.",
-        "es-ES": "[Nahadan]\nMaldita sea, es difícil tener tiempo libre… Me esconderé en algún lugar cercano, así que mata a 30 Ferus por mí."
+        "es-ES": "[Nahadan]\nMaldita sea, es difícil tener tiempo libre... Me esconderé en algún lugar cercano, así que mata a 30 Ferus por mí."
     },
     "jSp+Aw": {
         "en-US": "[Nahadan]\nY-Y-Y-You came? There's b-b-big-! Trouble!!!",
         "pt-BR": "[Nahadan]\nEi, ei, ei, ei, estou com um problemão!!!",
-        "es-ES": "[Nahadan]\n¿V-V-V-Viniste? ¡Hay un g-g-gran… problema!"
+        "es-ES": "[Nahadan]\n¿V-V-V-Viniste? ¡Hay un g-g-gran... problema!"
     },
     "jip+Aw": {
         "en-US": "[Nahadan]\nS-S-Someone got chased by a m-monster... I-I ran up to him and brought him here away from the monster, but I-I think he's critically injured...",
         "pt-BR": "[Nahadan]\nEla estava sendo perseguida por um dragão, eu a carreguei nas minhas costas até aqui, acho que ela está muito ferida...",
-        "es-ES": "[Nahadan]\nA-A-Alguien fue perseguido por un m-monstruo… C-Corrí hacia él y lo traje aquí, lejos del monstruo, pero c-creo que está gravemente herido…"
+        "es-ES": "[Nahadan]\nA-A-Alguien fue perseguido por un m-monstruo... C-Corrí hacia él y lo traje aquí, lejos del monstruo, pero c-creo que está gravemente herido..."
     },
     "jyp+Aw": {
         "en-US": "[Nahadan]\nHis face turned pale, and look at this b-b-blood! He's bleeding. He has trouble breathing, too...\nWhat should we do? I-I didn't think this would happen!",
         "pt-BR": "[Nahadan]\nO rosto está pálido e ela vem perdendo muito sangue...\nE agora? O que eu faço? Nunca passei por isso!",
-        "es-ES": "[Nahadan]\nSu rostro se pudo pálido, ¡y mira toda esta s-s-sangre! Está sangrando. También le cuesta respirar…\n¿Qué deberíamos hacer? ¡N-No pensé que esto pasaría!"
+        "es-ES": "[Nahadan]\nSu rostro se pudo pálido, ¡y mira toda esta s-s-sangre! Está sangrando. También le cuesta respirar...\n¿Qué deberíamos hacer? ¡N-No pensé que esto pasaría!"
     },
     "kCp+Aw": {
         "en-US": "[{0}]\nLet's take him to the village and check his wounds.",
@@ -417,7 +417,7 @@
     "kyp+Aw": {
         "en-US": "[Nahadan]\nH-H-Hurry up. I-I'm scared. I don't want to go alone.\nW-Why is this happening to me? No...",
         "pt-BR": "[Nahadan]\nVem comigo, por favor, tenho medo de ir sozinha.\nIsso não deveria ter acontecido...",
-        "es-ES": "[Nahadan]\nD-D-Deprisa. T-Tengo miedo. No quiero ir solo.\n¿P-Por qué me está pasando esto? No…"
+        "es-ES": "[Nahadan]\nD-D-Deprisa. T-Tengo miedo. No quiero ir solo.\n¿P-Por qué me está pasando esto? No..."
     },
     "lCp+Aw": {
         "en-US": "[Nahadan]\nWait, {0}! It's you.\nThank you. I realized how important my job is after the last incident.\nIt's all thanks to you.",

@@ -27,7 +27,7 @@
     "xb+0Ag": {
         "en-US": "Arrr... help me... Somebody click.. click me!",
         "pt-BR": "Alguém... Me ajude, por favor!",
-        "es-ES": "Grrr… ayúdame… ¡Que alguien me haga clic… clic!"
+        "es-ES": "Grrr... ayúdame... ¡Que alguien me haga clic... clic!"
     },
     "xr+0Ag": {
         "en-US": "Ouch...",
@@ -42,7 +42,7 @@
     "yL+0Ag": {
         "en-US": "[Injured Passenger]\n... Shoot. I can barely walk.\nI'm sorry, but can you go out and get some help?\nA kindhearted Acolyte would be best ...",
         "pt-BR": "[Passageiro Ferido]\n... Droga. Mal consigo andar.\nDesculpe, mas você pode sair e buscar ajuda?\nUm Noviço bondoso seria o ideal...",
-        "es-ES": "[Pasajero herido]\n… Rayos. Apenas puedo caminar.\nLo siento, pero ¿puedes salir y buscar ayuda?\nUn acólito de buen corazón sería lo mejor…"
+        "es-ES": "[Pasajero herido]\n... Rayos. Apenas puedo caminar.\nLo siento, pero ¿puedes salir y buscar ayuda?\nUn acólito de buen corazón sería lo mejor..."
     },
     "yb+0Ag": {
         "en-US": "^4D4DFF!- Info -!^000000\nYou got a quest from an NPC.\nCheck the ^4D4DFFquest information by pressing Alt+U^000000 or the Quest icon on the menu tray.",
@@ -87,7 +87,7 @@
     "0b+0Ag": {
         "en-US": "I don't think so..?",
         "pt-BR": "Não tinha ninguém lá...",
-        "es-ES": "¿No lo creo…?"
+        "es-ES": "¿No lo creo...?"
     },
     "0r+0Ag": {
         "en-US": "[Captain Carocc]\nThere's still someone in there?\nI'll send someone soon to rescue them.\nThank you for letting me know.",
@@ -277,12 +277,12 @@
     "97+0Ag": {
         "en-US": "[Rumin]\n...\n...?",
         "pt-BR": "[Rumin]\n...\n...?",
-        "es-ES": "[Rumin]\n…\n¿…?"
+        "es-ES": "[Rumin]\n...\n¿...?"
     },
     "+L+0Ag": {
         "en-US": "[Captain Carocc]\nAh, I saved that friend of yours who was drifting in the ocean ...\nWith all this commotion, I'm not sure who saved who.",
         "pt-BR": "[Capitão Chobber]\nEu resgatei esse aí...\nEu nem sei quem ele é... E nem ele sabe quem é, na verdade...",
-        "es-ES": "[Capitán Carocc]\nAh, salvé a ese amigo tuyo que estaba a la deriva en el océano…\nCon toda esta conmoción, no sé quién salvó a quién."
+        "es-ES": "[Capitán Carocc]\nAh, salvé a ese amigo tuyo que estaba a la deriva en el océano...\nCon toda esta conmoción, no sé quién salvó a quién."
     },
     "+b+0Ag": {
         "en-US": "[Captain Carocc]\nI could only get his name; he probably lost his memory.\nHe's called Rumin.",
@@ -292,7 +292,7 @@
     "+r+0Ag": {
         "en-US": "[Captain Carocc]\nMany young people come and visit the ^4D4DFFRune-Midgard Kingdom^000000 to make their dreams come true.\nMy ship was heading to Izlude town near Prontera, the capital ... I'm sorry things turned out like this.",
         "pt-BR": "[Capitão Chobber]\nMuitos jovens visitam o ^4D4DFFReino de Rune-Midgard^000000 para realizar seus sonhos.\nMeu navio estava indo para a cidade de Izlude, perto de Prontera, a capital... Sinto muito que as coisas tenham acontecido assim.",
-        "es-ES": "[Capitán Carocc]\nMuchos jóvenes vienen a visitar el ^4D4DFFreino de Rune-Midgard^000000 para hacer sus sueños realidad.\nMi barco se dirigía al pueblo de Izlude, cerca de Prontera, la capital… Siento que las cosas hayan sido así."
+        "es-ES": "[Capitán Carocc]\nMuchos jóvenes vienen a visitar el ^4D4DFFreino de Rune-Midgard^000000 para hacer sus sueños realidad.\nMi barco se dirigía al pueblo de Izlude, cerca de Prontera, la capital... Siento que las cosas hayan sido así."
     },
     "+7+0Ag": {
         "en-US": "[Captain Carocc]\nIzlude is filled with young people like you, people beginning their first adventure.\nI bet you will soon find yourself among their ranks.",
@@ -312,7 +312,7 @@
     "/r+0Ag": {
         "en-US": "[Rumin]\n... Rumin.",
         "pt-BR": "[Rumin]\n... Rumin.",
-        "es-ES": "[Rumin]\n… Rumin."
+        "es-ES": "[Rumin]\n... Rumin."
     },
     "/7+0Ag": {
         "en-US": "What? Are you trying to introduce yourself?",
@@ -322,22 +322,22 @@
     "AMC0Ag": {
         "en-US": "My name is...!",
         "pt-BR": "Meu nome é...",
-        "es-ES": "¡Me llamo…!"
+        "es-ES": "¡Me llamo...!"
     },
     "AcC0Ag": {
         "en-US": "[{0}]\nI am {0}!\nThe bringer of light! Savior of ...",
         "pt-BR": "[{0}]\nEu sou {0}!\nEu quero me aventurar e...",
-        "es-ES": "[{0}]\n¡Soy {0}!\n¡Quien ilumina el camino! La salvación de…"
+        "es-ES": "[{0}]\n¡Soy {0}!\n¡Quien ilumina el camino! La salvación de..."
     },
     "AsC0Ag": {
         "en-US": "[Rumin]\n...",
         "pt-BR": "[Rumin]\n...",
-        "es-ES": "[Rumin]\n…"
+        "es-ES": "[Rumin]\n..."
     },
     "A8C0Ag": {
         "en-US": "[Rumin]\n...\nAnd ...?",
         "pt-BR": "[Rumin]\n...\nE...?",
-        "es-ES": "[Rumin]\n…\n¿Y…?"
+        "es-ES": "[Rumin]\n...\n¿Y...?"
     },
     "BMC0Ag": {
         "en-US": "Uninterested, Rumin walks toward the rescue ship.",
@@ -352,7 +352,7 @@
     "BsC0Ag": {
         "en-US": "[Rumin]\n... The sailor over there\nis waiting.",
         "pt-BR": "[Rumin]\n... O marinheiro.\nEstá nos esperando.",
-        "es-ES": "[Rumin]\n… El marinero de allí\nestá esperando."
+        "es-ES": "[Rumin]\n... El marinero de allí\nestá esperando."
     },
     "B8C0Ag": {
         "en-US": "[Carocc]\nGet on the rescue ship before you miss it.",

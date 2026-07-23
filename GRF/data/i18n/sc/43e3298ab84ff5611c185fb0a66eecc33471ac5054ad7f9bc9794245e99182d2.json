@@ -1,6 +1,6 @@
 {
     "4FLKBw": {
-        "en-US": "[Boila] To think such a diligent human exists. Then please handle about ^0000CD20 Broken Assistant^000000 and bring ^0000CD5 Broken Automatron Parts^000000.",
+        "en-US": "Philopontess",
         "pt-BR": "Philopontess",
         "es-ES": "Philopontess"
     },
@@ -30,9 +30,9 @@
         "es-ES": "[Tess]\nSeñora Dien, le ruego que vuelva a verificar la autenticidad.\nSon documentos que el gobierno ha vuelto a investigar sobre el período en que los mercenarios permanecieron en la mansión Varmunt."
     },
     "5lLKBw": {
-        "en-US": "[Dien]\nWell… no matter how many times you tell us to verify its authenticity.\nI do not know just how far we are supposed to cooperate.",
+        "en-US": "[Dien]\nWell... no matter how many times you tell us to verify its authenticity.\nI do not know just how far we are supposed to cooperate.",
         "pt-BR": "[Dien]\nMe escute... mesmo que nos peçam repetidamente para confirmar a autenticidade desses documentos...\n... Não sei até que ponto devemos continuar cooperando.",
-        "es-ES": "[Dien]\nVeamos… aunque nos pidan que verifiquemos la autenticidad una y otra vez.\nNo tengo claro hasta qué punto se supone que debemos seguir cooperando."
+        "es-ES": "[Dien]\nVeamos... aunque nos pidan que verifiquemos la autenticidad una y otra vez.\nNo tengo claro hasta qué punto se supone que debemos seguir cooperando."
     },
     "51LKBw": {
         "en-US": "[Dien]\nHaving to say the same thing over and over is rather tiring.",
@@ -40,9 +40,9 @@
         "es-ES": "[Dien]\nRepetir lo mismo varias veces también resulta agotador."
     },
     "6FLKBw": {
-        "en-US": "(The mood seems bad… I should just watch for now.)",
+        "en-US": "(The mood seems bad... I should just watch for now.)",
         "pt-BR": "(Parece que o clima não está bom... Melhor observar por enquanto.)",
-        "es-ES": "(Parece que el ambiente no es bueno… Será mejor observar por ahora.)"
+        "es-ES": "(Parece que el ambiente no es bueno... Será mejor observar por ahora.)"
     },
     "6VLKBw": {
         "en-US": "[Tess]\nI believe this material is convincing.\nIt is another piece of evidence that the government tried to speak with the mercenaries at the time, but the mercenaries refused to respond.",
@@ -60,14 +60,14 @@
         "es-ES": "[Ridsh]\nAunque nos pongan delante nuevos documentos será lo mismo. ¡Son mentiras!\n¡Ya hemos dicho una y otra vez que son falsos!"
     },
     "7FLKBw": {
-        "en-US": "[Tess]\nWhy would we deliberately provide false materials…!\nAh, {0}, how long have you been here? I have shown you something shameful.",
+        "en-US": "[Tess]\nWhy would we deliberately provide false materials...!\nAh, {0}, how long have you been here? I have shown you something shameful.",
         "pt-BR": "[Tess]\nPor que mostraríamos provas falsas...?\nAh, {0}, desde quando está aqui? Peço desculpas por presenciar uma cena tão lamentável.",
-        "es-ES": "[Tess]\n¿Por qué íbamos a presentar pruebas falsas a propósito…!\nAh, señor {0}, ¿desde cuándo está aquí? Le hemos mostrado un espectáculo vergonzoso."
+        "es-ES": "[Tess]\n¿Por qué íbamos a presentar pruebas falsas a propósito...!\nAh, señor {0}, ¿desde cuándo está aquí? Le hemos mostrado un espectáculo vergonzoso."
     },
     "7VLKBw": {
-        "en-US": "[Tess]\nI am speaking with the Rebellion <NAVI>[Elder]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>, but it is difficult to prove the incident from the past….",
+        "en-US": "[Tess]\nI am speaking with the Rebellion <NAVI>[Elder]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>, but it is difficult to prove the incident from the past....",
         "pt-BR": "[Tess]\nEstá sendo difícil comprar os acontecimentos do passado com as <NAVI>[Veteranas]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>...",
-        "es-ES": "[Tess]\nEstoy conversando con los <NAVI>[Ancianos]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> de Rebellion, pero es difícil demostrar los hechos del pasado…"
+        "es-ES": "[Tess]\nEstoy conversando con los <NAVI>[Ancianos]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI> de Rebellion, pero es difícil demostrar los hechos del pasado..."
     },
     "7lLKBw": {
         "en-US": "[Tess]\nI am speaking with the Rebellion <NAVI>[Elder]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>, but perhaps because they are elders, they are quite stubborn.",
@@ -120,9 +120,9 @@
         "es-ES": "[Dien]\nEn esta casa de té sirven un té de gran calidad.\nEl que bebía en Einbech no estaba mal, pero no se puede comparar."
     },
     "+FLKBw": {
-        "en-US": "[Dien]\nHmph… Hey, you Gentleman from the government.\nIf you do not believe what we say, then why do you keep demanding proof?",
+        "en-US": "[Dien]\nHmph... Hey, you Gentleman from the government.\nIf you do not believe what we say, then why do you keep demanding proof?",
         "pt-BR": "[Dien]\nBom... Escute, Sr. Cavalheiro enviado do governo.\nSe não acredita no que dizemos, por que continua exigindo provas de nós?",
-        "es-ES": "[Dien]\nHmm… Oiga, señor Gentleman del gobierno.\nSi no confía en lo que decimos, ¿por qué sigue exigiendo pruebas?"
+        "es-ES": "[Dien]\nHmm... Oiga, señor Gentleman del gobierno.\nSi no confía en lo que decimos, ¿por qué sigue exigiendo pruebas?"
     },
     "+VLKBw": {
         "en-US": "[Dien]\nEven if you bring us a false document that pins all the blame on the mercenaries and ask us to validate it, we cannot tell you anything.",
@@ -135,9 +135,9 @@
         "es-ES": "[Dien]\nEs una pérdida de tiempo.\nEn vez de malgastarlo en algo tan contradictorio, sería mejor buscar otro método."
     },
     "+1LKBw": {
-        "en-US": "[Tess]\n…Another way? Other than investigating the records and writing a report, what other way could there be?\nYou insist that we cannot trust any report made by the government.",
+        "en-US": "[Tess]\n...Another way? Other than investigating the records and writing a report, what other way could there be?\nYou insist that we cannot trust any report made by the government.",
         "pt-BR": "[Tess]\n...Outro método? Além de investigar registros e redigir relatórios, que outro método poderia haver?\nAs senhoras não confiam em relatórios produzidos pelo governo?",
-        "es-ES": "[Tess]\n…¿Otro método? Aparte de investigar los registros y redactar informes, ¿qué otra opción hay?\n¿Acaso no dicen que no pueden confiar en ningún informe elaborado por el gobierno?"
+        "es-ES": "[Tess]\n...¿Otro método? Aparte de investigar los registros y redactar informes, ¿qué otra opción hay?\n¿Acaso no dicen que no pueden confiar en ningún informe elaborado por el gobierno?"
     },
     "/FLKBw": {
         "en-US": "[Rookie]\nWait a moment, could you listen to what I have to say?",
@@ -150,9 +150,9 @@
         "es-ES": "[Lukie]\nEn resumen, el problema no es la fiabilidad de los propios registros?\nSi desde ahí ya hay desacuerdo, por mucho que los utilicen no podrán alcanzar un consenso."
     },
     "/lLKBw": {
-        "en-US": "[Tess]\n…In the end, that is what happened.",
+        "en-US": "[Tess]\n...In the end, that is what happened.",
         "pt-BR": "[Tess]\n...Sim, é exatamente o que está acontecendo.",
-        "es-ES": "[Tess]\n…En efecto, el resultado ha sido ese."
+        "es-ES": "[Tess]\n...En efecto, el resultado ha sido ese."
     },
     "/1LKBw": {
         "en-US": "[Rookie]\nThen how about we do not rely on the government’s records, and instead learn about what truly happened here?",
@@ -202,7 +202,7 @@
     "CFPKBw": {
         "en-US": "[Tess]\nThat is a reasonable point. But... who could take on this task?\nIf I said I would do it, you would not believe me, would you?",
         "pt-BR": "[Tess]\nÉ uma opinião razoável. Contudo... quem poderia assumir essa tarefa?\nSe eu me oferecesse, não acreditariam em mim.",
-        "es-ES": "[Tess]\nEs una opinión razonable. Pero… ¿quién podría encargarse de esto?\nSi me ofreciera yo, no confiarían en mí."
+        "es-ES": "[Tess]\nEs una opinión razonable. Pero... ¿quién podría encargarse de esto?\nSi me ofreciera yo, no confiarían en mí."
     },
     "CVPKBw": {
         "en-US": "[Dien]\nWith all the lies the government has built up over time, there is nothing we can do even if we ask you to trust us.",
@@ -217,7 +217,7 @@
     "C1PKBw": {
         "en-US": "[Tess]\nEven so, the elders will not go out to investigate in person....\nAdventurer, it seems you are the only one who can take this on.",
         "pt-BR": "[Tess]\nAinda assim, as veteranas não sairão pessoalmente para investigar...\nViajante, não há pessoa mais adequada do que você para assumir essa tarefa.",
-        "es-ES": "[Tess]\nAun así, los ancianos tampoco saldrán a investigar por su cuenta…\nTrotamundos, no hay nadie más que usted para asumir esta tarea."
+        "es-ES": "[Tess]\nAun así, los ancianos tampoco saldrán a investigar por su cuenta...\nTrotamundos, no hay nadie más que usted para asumir esta tarea."
     },
     "DFPKBw": {
         "en-US": "I will do it.",
@@ -327,12 +327,12 @@
     "IVPKBw": {
         "en-US": "[Dien]\nIf we had uncovered more about H Lukenberg at that time...\nThe mercenaries' battle might have met a different ending.",
         "pt-BR": "[Dien]\nSe naquela época tivessem investigado mais sobre H Lukenberg...\ntalvez a Rebelião Mercenária tivesse tido outro desfecho.",
-        "es-ES": "[Dien]\nSi en aquel entonces se hubiera investigado más sobre H Lukenberg…\nTal vez la guerra de los mercenarios habría tenido otro desenlace."
+        "es-ES": "[Dien]\nSi en aquel entonces se hubiera investigado más sobre H Lukenberg...\nTal vez la guerra de los mercenarios habría tenido otro desenlace."
     },
     "IlPKBw": {
         "en-US": "[Tess]\nStill, I am glad we learned the circumstances from back then, even now.\nI see. This was the truth. The government sent a helping hand, but all of it was blocked by the Rekenber corporation...",
         "pt-BR": "[Tess]\nAinda assim, é um alívio conhecer as circunstâncias daquele tempo.\nEntão era essa a verdade. O governo enviou ajuda, mas tudo foi bloqueado pela Corporação Rekenber...",
-        "es-ES": "[Tess]\nPero aun así, es una suerte haber conocido ahora las circunstancias de aquel entonces.\nAsí que esta era la verdad. El gobierno envió ayuda, pero fue bloqueada por la corporación…"
+        "es-ES": "[Tess]\nPero aun así, es una suerte haber conocido ahora las circunstancias de aquel entonces.\nAsí que esta era la verdad. El gobierno envió ayuda, pero fue bloqueada por la corporación..."
     },
     "I1PKBw": {
         "en-US": "[Dien]\nSo you were not fabricating false evidence. You simply did not know the truth, either.\nI apologize for having refused to listen to your story all this time.",
@@ -347,7 +347,7 @@
     "JVPKBw": {
         "en-US": "[Kaya Tos]\n............\nI apologize for leaving so suddenly.",
         "pt-BR": "[Kaya Toss]\n............\nPeço desculpas por me ausentar de repente.",
-        "es-ES": "[Kaya Tos]\n…………\nDisculpen por ausentarme de repente."
+        "es-ES": "[Kaya Tos]\n............\nDisculpen por ausentarme de repente."
     },
     "JlPKBw": {
         "en-US": "[Kaya Tos]\nI had a suspicion and went to confirm it,\nand there are facts uncovered on this side as well, which I would like to tell you.",
@@ -362,7 +362,7 @@
     "KFPKBw": {
         "en-US": "[Kaya Tos]\nThere is someone... in the corporation's employee roster whose period of activity matches exactly with the one called H Lukenberg.",
         "pt-BR": "[Kaya Toss]\nExiste alguém cujo período de atividade coincide exatamente com o de H Lukenberg... registrado na lista de funcionários da Corporação Rekenber.",
-        "es-ES": "[Kaya Tos]\nExiste una persona cuyo período de actividad coincide exactamente con el de H. Lukenberg… figura en el registro de empleados de la corporación."
+        "es-ES": "[Kaya Tos]\nExiste una persona cuyo período de actividad coincide exactamente con el de H. Lukenberg... figura en el registro de empleados de la corporación."
     },
     "KVPKBw": {
         "en-US": "[Dien]\nJust as I thought.",
@@ -382,7 +382,7 @@
     "LFPKBw": {
         "en-US": "[Kaya Tos]\nThe subject is written ambiguously, but it is clear enough to know.\nHe must have been at the Varmunt mansion together with the mercenaries...",
         "pt-BR": "[Kaya Toss]\nO assunto está escrito de forma ambígua, mas é possível entender.\nEle deve ter estado na mansão Varmunt junto com os Rebeldes...",
-        "es-ES": "[Kaya Tos]\nEl sujeto está escrito de forma ambigua, pero es evidente.\nÉl debió de estar junto a los mercenarios en la mansión Varmunt…"
+        "es-ES": "[Kaya Tos]\nEl sujeto está escrito de forma ambigua, pero es evidente.\nÉl debió de estar junto a los mercenarios en la mansión Varmunt..."
     },
     "LVPKBw": {
         "en-US": "[Dien]\nSo that is what happened.\nOnce again, we have confirmed that the government and the mercenaries were played by the corporation.",
@@ -392,7 +392,7 @@
     "LlPKBw": {
         "en-US": "[Kaya Tos]\nIt is shameful...",
         "pt-BR": "[Kaya Toss]\nÉ algo pelo qual lamento muito...",
-        "es-ES": "[Kaya Tos]\nEs algo de lo que me avergüenzo…"
+        "es-ES": "[Kaya Tos]\nEs algo de lo que me avergüenzo..."
     },
     "L1PKBw": {
         "en-US": "Ridsh : Someone from the corporation is saying something.",
@@ -477,7 +477,7 @@
     "P1PKBw": {
         "en-US": "[Dien]\nA corpse was found that is neither Mercenary, nor someone from the mansion, nor even someone from the corporation...\nDo you have any specific information?",
         "pt-BR": "[Dien]\nFoi encontrado um cadáver que não era nem uma Rebelde, nem alguém da mansão, nem sequer da Corporação Rekenber...\nHá alguma informação mais detalhada?",
-        "es-ES": "[Dien]\n¿Se encontró un cadáver que no era ni Mercenario, ni alguien de la mansión, ni siquiera de la corporación…?\n¿Tiene información más concreta?"
+        "es-ES": "[Dien]\n¿Se encontró un cadáver que no era ni Mercenario, ni alguien de la mansión, ni siquiera de la corporación...?\n¿Tiene información más concreta?"
     },
     "QFPKBw": {
         "en-US": "You hand over the detailed materials.",
@@ -487,17 +487,17 @@
     "QVPKBw": {
         "en-US": "[Ridsh]\nIt really does not seem to be Mercenary... Why would someone like this come all the way near the Varmunt mansion, only to be murdered?",
         "pt-BR": "[Ridsh]\nRealmente não parece ser uma Rebelde... Por que alguém assim foi morta tão perto da mansão Varmunt?",
-        "es-ES": "[Ridsh]\nRealmente no parece un Mercenario… ¿Por qué alguien así fue asesinado tan cerca de la mansión Varmunt?"
+        "es-ES": "[Ridsh]\nRealmente no parece un Mercenario... ¿Por qué alguien así fue asesinado tan cerca de la mansión Varmunt?"
     },
     "QlPKBw": {
         "en-US": "[Tess]\nWait... Please show me the materials as well.",
         "pt-BR": "[Tess]\nEspere... deixe-me pensar um pouco.",
-        "es-ES": "[Tess]\nUn momento… Permítame ver esos documentos."
+        "es-ES": "[Tess]\nUn momento... Permítame ver esos documentos."
     },
     "Q1PKBw": {
-        "en-US": "[Tess]\n………………\n………………",
+        "en-US": "[Tess]\n..................\n..................",
         "pt-BR": "[Tess]\n..................\n..................",
-        "es-ES": "[Tess]\n………………\n………………"
+        "es-ES": "[Tess]\n..................\n.................."
     },
     "RFPKBw": {
         "en-US": "[Dien]\nIs there something bothering you?",
@@ -517,7 +517,7 @@
     "R1PKBw": {
         "en-US": "[Rookie]\nHow... am I supposed to explain this?\nA government official who went to meet the mercenaries was murdered before even meeting them...",
         "pt-BR": "[Lukie]\nComo... podemos explicar isso?\nUma representante do governo que foi encontrar os Rebeldes, morta antes mesmo de conseguir falar com eles...",
-        "es-ES": "[Lukie]\nEsto… ¿cómo deberíamos interpretarlo?\nUn funcionario del gobierno que fue a reunirse con los mercenarios, asesinado antes siquiera de encontrarse con ellos…"
+        "es-ES": "[Lukie]\nEsto... ¿cómo deberíamos interpretarlo?\nUn funcionario del gobierno que fue a reunirse con los mercenarios, asesinado antes siquiera de encontrarse con ellos..."
     },
     "SFPKBw": {
         "en-US": "[Rookie]\nWho could have done this?",
@@ -542,7 +542,7 @@
     "TFPKBw": {
         "en-US": "[Rookie]\n...There is no evidence, Adventurer.\nIt is only suspicion.",
         "pt-BR": "[Lukie]\n...Não há provas, viajante.\nApenas suspeitas.",
-        "es-ES": "[Lukie]\n…No hay pruebas, trotamundos.\nSolo sospechas."
+        "es-ES": "[Lukie]\n...No hay pruebas, trotamundos.\nSolo sospechas."
     },
     "TVPKBw": {
         "en-US": "[Rookie]\nI think we should speak more carefully.",
@@ -607,17 +607,17 @@
     "WVPKBw": {
         "en-US": "[Rookie]\n...But there is no evidence at all.\nAt this point, we cannot speak based on suspicion alone. We need evidence, Adventurer.",
         "pt-BR": "[Lukie]\n...Mas não há evidência alguma.\nNão é o momento de ficar acusando só com base em suspeitas. Precisamos de evidências concretas, viajante.",
-        "es-ES": "[Lukie]\n…Pero no hay ninguna prueba.\nCon meras sospechas no podemos avanzar. Necesitamos pruebas, trotamundos."
+        "es-ES": "[Lukie]\n...Pero no hay ninguna prueba.\nCon meras sospechas no podemos avanzar. Necesitamos pruebas, trotamundos."
     },
     "WlPKBw": {
         "en-US": "[Rookie]\n...There is no evidence at all.\nAt this point, we cannot speak based on suspicion alone. We need evidence, Adventurer.",
         "pt-BR": "[Lukie]\n...Mas não há evidência alguma.\nNão é o momento de ficar acusando só com base em suspeitas. Precisamos de evidências concretas, viajante.",
-        "es-ES": "[Lukie]\n…Pero no hay ninguna prueba.\nCon meras sospechas no podemos avanzar. Necesitamos pruebas, trotamundos."
+        "es-ES": "[Lukie]\n...Pero no hay ninguna prueba.\nCon meras sospechas no podemos avanzar. Necesitamos pruebas, trotamundos."
     },
     "W1PKBw": {
         "en-US": "[Kaya Tos]\nThat is... No, is that an envelope stamped with the corporation's seal? It is badly crumpled, but still.\nWhere did you obtain it? It is an item that is strictly forbidden to be leaked outside Rekenber.",
         "pt-BR": "[Kaya Toss]\nIsso não é... um envelope com o selo da Rekenber? Está bastante amassado.\nOnde conseguiu isso? É um selo cuja circulação fora da Rekenber é estritamente proibida.",
-        "es-ES": "[Kaya Tos]\nEso es… ¿no es un sobre con el sello de la corporación? Está muy arrugado.\n¿Dónde lo consiguió? Es un artículo cuya salida de Rekenber está estrictamente prohibida."
+        "es-ES": "[Kaya Tos]\nEso es... ¿no es un sobre con el sello de la corporación? Está muy arrugado.\n¿Dónde lo consiguió? Es un artículo cuya salida de Rekenber está estrictamente prohibida."
     },
     "XFPKBw": {
         "en-US": "[Dien]\nThat is not what matters. Look at what is inside the envelope.\nTime has passed and the paper is quite worn, but it is still readable. It is an order.",
@@ -627,7 +627,7 @@
     "XVPKBw": {
         "en-US": "[Dien]\nAs a result of requesting that the government official be 'dealt with' so they cannot contact the mercenaries...\nAnd it says to infiltrate Varmunt Mansion Interior and take out Varmunt's research materials...",
         "pt-BR": "[Dien]\nÉ solicitação para 'eliminar' a representante do governo antes que ela tivesse contato com os Rebeldes...\nTem também instruções para invadir a mansão e roubar a pesquisa de Varmunt...",
-        "es-ES": "[Dien]\nEl resultado de encargar que se 'eliminara' al funcionario del gobierno para impedir su contacto con los mercenarios…\nY además, una orden para infiltrarse en Interior de la Mansión Varmunt y sacar los materiales de investigación de Varmunt…"
+        "es-ES": "[Dien]\nEl resultado de encargar que se 'eliminara' al funcionario del gobierno para impedir su contacto con los mercenarios...\nY además, una orden para infiltrarse en Interior de la Mansión Varmunt y sacar los materiales de investigación de Varmunt..."
     },
     "XlPKBw": {
         "en-US": "[Rookie]\nIt bears the recipient's signature. 'H Lukenberg'\nThis is evidence of the traitor's identity that you spoke of, Adventurer.",
@@ -637,7 +637,7 @@
     "X1PKBw": {
         "en-US": "[Kaya Tos]\n.........",
         "pt-BR": "[Kaya Toss]\n.........",
-        "es-ES": "[Kaya Tos]\n………"
+        "es-ES": "[Kaya Tos]\n........."
     },
     "YFPKBw": {
         "en-US": "[Dien]\nYou from the corporation, you do not look well.",
@@ -647,7 +647,7 @@
     "YVPKBw": {
         "en-US": "[Kaya Tos]\n...Wait, there is something I would like to confirm.\nI will contact my secretary and return, so please continue the discussion.",
         "pt-BR": "[Kaya Toss]\n...Espere, há algo que preciso confirmar.\nEntrarei em contato com meu secretário e voltarei. Por favor, continuem a conversa.",
-        "es-ES": "[Kaya Tos]\n…Un momento, hay algo que deseo comprobar.\nContactaré con mi secretario y regresaré. Continúen con la conversación."
+        "es-ES": "[Kaya Tos]\n...Un momento, hay algo que deseo comprobar.\nContactaré con mi secretario y regresaré. Continúen con la conversación."
     },
     "YlPKBw": {
         "en-US": "Rookie : Let us hear what Ridsh has to say.",
@@ -662,12 +662,12 @@
     "ZFPKBw": {
         "en-US": "[Rookie]\nAdventurer, over there. Mr. Kaya left looking quite dejected.\nJust in case, could you keep an eye on Mr. Kaya, Adventurer?",
         "pt-BR": "[Lukie]\nVocê viu isso, viajante? O Sr. Kaya saiu bastante abatido.\nPor precaução, poderia dar uma olhada nele?",
-        "es-ES": "[Lukie]\nTrotamundos, eh… El señor Kaya se ha marchado con el ánimo bastante decaído.\nPor si acaso, ¿podría vigilarlo un poco?"
+        "es-ES": "[Lukie]\nTrotamundos, eh... El señor Kaya se ha marchado con el ánimo bastante decaído.\nPor si acaso, ¿podría vigilarlo un poco?"
     },
     "ZVPKBw": {
         "en-US": "[Rookie]\nAt times like this, something is always bound to happen...\nIf you could watch <NAVI>[Kaya Toss]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>, I think I would feel reassured.",
         "pt-BR": "[Lukie]\nNessas horas, algo ruim sempre acaba acontecendo...\nMelhor você ir e garantir a segurança de <NAVI>[Kaya Toss]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>.",
-        "es-ES": "[Lukie]\nEn momentos así siempre suele ocurrir algo…\nSi pudiera observar <NAVI>[desde cerca]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>, nos quedaríamos más tranquilos."
+        "es-ES": "[Lukie]\nEn momentos así siempre suele ocurrir algo...\nSi pudiera observar <NAVI>[desde cerca]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>, nos quedaríamos más tranquilos."
     },
     "ZlPKBw": {
         "en-US": "Rookie : Hmm, at this timing, it would be best to hold my tongue, would it not?",
@@ -712,7 +712,7 @@
     "blPKBw": {
         "en-US": "[Dien]\nWell... What changes if someone from the corporation feels responsible at this point?\nWill an apology bring the dead back to life?",
         "pt-BR": "[Dien]\nAh, tá... e o que muda o fato de assumir a responsabilidade neste momento, senhor Empresário?\nUm pedido de desculpas trará os mortos de volta?",
-        "es-ES": "[Dien]\nVeamos… Señor de la corporación, ¿qué cambia que asuma responsabilidad en este momento?\n¿Acaso una disculpa hará que los muertos regresen?"
+        "es-ES": "[Dien]\nVeamos... Señor de la corporación, ¿qué cambia que asuma responsabilidad en este momento?\n¿Acaso una disculpa hará que los muertos regresen?"
     },
     "b1PKBw": {
         "en-US": "[Kaya Tos]\nI will take responsibility for everything, starting with not forgetting the past.",
@@ -737,7 +737,7 @@
     "c1PKBw": {
         "en-US": "[Kaya Tos]\nBut, Elder...!",
         "pt-BR": "[Kaya Toss]\nMas, senhora...!",
-        "es-ES": "[Kaya Tos]\nPero, anciano…!"
+        "es-ES": "[Kaya Tos]\nPero, anciano...!"
     },
     "dFPKBw": {
         "en-US": "[Cotnes]\nWhen someone speaks that firmly, it is better not to cling to them so pathetically.\nHohoho, then I will be off as well.",
@@ -832,12 +832,12 @@
     "hlPKBw": {
         "en-US": "[Tatio]\nWhew... Up to now, this has all been the result of my carelessness.",
         "pt-BR": "[Tatio]\n*Suspira*... tudo isso foi resultado da minha negligência.",
-        "es-ES": "[Tatio]\nUf… Todo esto ha sido consecuencia de mi falta de atención."
+        "es-ES": "[Tatio]\nUf... Todo esto ha sido consecuencia de mi falta de atención."
     },
     "h1PKBw": {
         "en-US": "[Rookie]\nAh... Are you speaking of the secretary?",
         "pt-BR": "[Lukie]\nAh... o senhor é o secretário?",
-        "es-ES": "[Lukie]\nAh… ¿Se refiere al secretario?"
+        "es-ES": "[Lukie]\nAh... ¿Se refiere al secretario?"
     },
     "iFPKBw": {
         "en-US": "[Tatio]\nFrom now on, for the sake of the corporation's ethical management, I will strictly establish and apply rules that can practically prevent such things.",
@@ -867,7 +867,7 @@
     "jVPKBw": {
         "en-US": "[Tatio]\nOf course... That is correct.",
         "pt-BR": "[Tatio]\nClaro... é isso mesmo.",
-        "es-ES": "[Tatio]\nPor supuesto… así es."
+        "es-ES": "[Tatio]\nPor supuesto... así es."
     },
     "jlPKBw": {
         "en-US": "[Tatio]\nTo that end, the corporation would like to have more discussions with the government side, and with the Rebellion side as well.",
@@ -897,7 +897,7 @@
     "k1PKBw": {
         "en-US": "[Rookie]\nHmm, then... Adventurer. It seems the people here as representatives will be handling what comes next.\nShall we go outside?",
         "pt-BR": "[Lukie]\nEr, bem... viajante. Parece que vai acontecer uma conversa de cunho privativo entre a Corporação Rekenber, Vento Secreto e Rebelião.\nVamos sair?",
-        "es-ES": "[Lukie]\nHmm, entonces… Trotamundos. Parece que los representantes continuarán la conversación a partir de aquí.\n¿Salimos nosotros?"
+        "es-ES": "[Lukie]\nHmm, entonces... Trotamundos. Parece que los representantes continuarán la conversación a partir de aquí.\n¿Salimos nosotros?"
     },
     "lFPKBw": {
         "en-US": "I want to hear more.",
@@ -960,9 +960,9 @@
         "es-ES": "[Yunas]\nRegistros de los mercenarios solicitados por el cliente, selección aleatoria completada en la base de datos. Procedo a entregarlos."
     },
     "oFPKBw": {
-        "en-US": "………………\n………………",
+        "en-US": "..................\n..................",
         "pt-BR": "..................\n..................",
-        "es-ES": "………………\n………………"
+        "es-ES": "..................\n.................."
     },
     "oVPKBw": {
         "en-US": "[Mercenary]\nHow did we end up coming all the way here?",
@@ -972,7 +972,7 @@
     "olPKBw": {
         "en-US": "[Mercenary]\nA mansion belonging to someone we have never even met...\nIt is my first time coming into such a grand mansion.",
         "pt-BR": "[Rebelde]\nÉ a mansão de alguém que nunca vimos na vida...\nÉ a primeira vez que entro em um lugar tão grandioso.",
-        "es-ES": "[Mercenario]\nUna mansión… de alguien que ni siquiera conocemos.\nEs la primera vez que entro en un lugar tan grande."
+        "es-ES": "[Mercenario]\nUna mansión... de alguien que ni siquiera conocemos.\nEs la primera vez que entro en un lugar tan grande."
     },
     "o1PKBw": {
         "en-US": "[Mercenary]\nWhat kind of person is this man called Varmunt, who readily took us in?",
@@ -1022,17 +1022,17 @@
     "rFPKBw": {
         "en-US": "[Mercenary]\n...It seems like things have finally cooled down a bit. Everyone was truly worked up.",
         "pt-BR": "[Rebelde]\n...Acho que finalmente me acalmei um pouco. Todo mundo estava exaltado, de verdade.",
-        "es-ES": "[Mercenario]\n…Parece que por fin se nos ha enfriado un poco la Cabeza. Todos estaban terriblemente alterados."
+        "es-ES": "[Mercenario]\n...Parece que por fin se nos ha enfriado un poco la Cabeza. Todos estaban terriblemente alterados."
     },
     "rVPKBw": {
         "en-US": "[Mercenary]\nBut it was bound to happen. People died, people...\nEveryone saw blood and lost their heads. I regret it now that I think back on it, but still.",
         "pt-BR": "[Rebelde]\nTodos estavam! Uma pessoa morreu, MORREU...\nTodos viram sangue e perderam a razão. Agora, só resta tristeza.",
-        "es-ES": "[Mercenario]\nPero no era para menos. Murió una persona, una persona…\nTodos vimos sangre y perdimos la razón. Ahora lo pienso y me arrepiento."
+        "es-ES": "[Mercenario]\nPero no era para menos. Murió una persona, una persona...\nTodos vimos sangre y perdimos la razón. Ahora lo pienso y me arrepiento."
     },
     "rlPKBw": {
         "en-US": "[Mercenary]\nBecause we responded like that, the damage that did not need to happen increased.\nWe should have stopped H. When he started shouting at the front that we had to wipe them all out first, everyone got caught up in it, did they not...?",
         "pt-BR": "[Rebelde]\nNossa reação acabou causando problemas que poderiam ter sido evitados.\nDeveríamos ter contido o sr. H. Quando ele começou a gritar na linha de frente que precisávamos eliminar todo mundo, acabamos nos arrastando nisso...",
-        "es-ES": "[Mercenario]\nNuestra reacción solo provocó más daños innecesarios.\nDeberíamos haber detenido a H. Fue él quien empezó a gritar que había que eliminarlo todo desde el frente, y todos se dejaron arrastrar…"
+        "es-ES": "[Mercenario]\nNuestra reacción solo provocó más daños innecesarios.\nDeberíamos haber detenido a H. Fue él quien empezó a gritar que había que eliminarlo todo desde el frente, y todos se dejaron arrastrar..."
     },
     "r1PKBw": {
         "en-US": "[Mercenary]\nH and all of us, our blood was boiling back then. Do not blame only H too much.",
@@ -1042,7 +1042,7 @@
     "sFPKBw": {
         "en-US": "[Mercenary]\nWell, that is true... Let us stop talking about that. It only hurts to dwell on it.",
         "pt-BR": "[Rebelde]\nÉ... você tem razão. Vamos parar com isso. Ficar remoendo só nos atormenta.",
-        "es-ES": "[Mercenario]\nBueno, es cierto… Dejemos ese tema. Recordarlo solo duele."
+        "es-ES": "[Mercenario]\nBueno, es cierto... Dejemos ese tema. Recordarlo solo duele."
     },
     "sVPKBw": {
         "en-US": "[Yunas]\nDo you need any other records?",
@@ -1072,12 +1072,12 @@
     "tlPKBw": {
         "en-US": "[Yunas]\nWelcome to the Varmunt mansion.\nOur Varmunt mansion offers a variety of benefits, from medical care and shopping to entertainment and leisure activities...",
         "pt-BR": "[Yunas]\nBoas-vindas à mansão Varmunt.\nOferecemos diversos benefícios, incluindo serviços médicos, compras, entretenimento e lazer...",
-        "es-ES": "[Yunas]\nBienvenido a la mansión Varmunt.\nNuestra mansión Varmunt ofrece una amplia gama de servicios, desde atención médica hasta compras, entretenimiento y ocio…"
+        "es-ES": "[Yunas]\nBienvenido a la mansión Varmunt.\nNuestra mansión Varmunt ofrece una amplia gama de servicios, desde atención médica hasta compras, entretenimiento y ocio..."
     },
     "t1PKBw": {
         "en-US": "[Yunas]\nUh, oh. This is not it. I have mistakenly told you something unrelated.\nPlease forget it...",
         "pt-BR": "[Yunas]\nOpa. Isto não está correto. Acabei fornecendo informações equivocadas por engano.\nPor favor, desconsidere...",
-        "es-ES": "[Yunas]\nAh, ah. Esto no era lo que debía decir. Le he dado información equivocada por error.\nOlvídelo, por favor…"
+        "es-ES": "[Yunas]\nAh, ah. Esto no era lo que debía decir. Le he dado información equivocada por error.\nOlvídelo, por favor..."
     },
     "uFPKBw": {
         "en-US": "Mercenary",
@@ -1102,7 +1102,7 @@
     "vFPKBw": {
         "en-US": "[Skippy]\nLet me check for a moment... I will select one at random from the incident/accident category.",
         "pt-BR": "[Skippy]\nVerificando... selecionando aleatoriamente a categoria incidentes e acidentes.",
-        "es-ES": "[Skippy]\nPermítame comprobarlo… Seleccionando aleatoriamente dentro de la categoría de incidentes y accidentes."
+        "es-ES": "[Skippy]\nPermítame comprobarlo... Seleccionando aleatoriamente dentro de la categoría de incidentes y accidentes."
     },
     "vVPKBw": {
         "en-US": "[Skippy]\nIncident record No. 5872. Confirmed.\nI will now play back the record from that time.",
@@ -1132,7 +1132,7 @@
     "wlPKBw": {
         "en-US": "[Mercenary]\nI know. It's enough to make a ghost pale.\nI just hope it wasn't anything serious....",
         "pt-BR": "[Rebelde]\nPois é. Parece coisa de outro mundo.\nEspero que não seja nada grave...",
-        "es-ES": "[Mercenario]\nEso mismo digo. Es algo incomprensible.\nOjalá no sea nada grave…"
+        "es-ES": "[Mercenario]\nEso mismo digo. Es algo incomprensible.\nOjalá no sea nada grave..."
     },
     "w1PKBw": {
         "en-US": "[Skippy]\nRecord playback has ended.\nDo you require any other information?",
@@ -1147,7 +1147,7 @@
     "xVPKBw": {
         "en-US": "[Skippy]\nPlease wait a moment. Sex: female. Identity: unknown. Clothing: a gray suit, but it was in a very disheveled state with dirt on it.\nCause of death: from behind... and then....",
         "pt-BR": "[Skippy]\nAguarde um momento. Sexo feminino, identidade desconhecida, vestia um traje cinza bastante sujo de terra e desalinhado.\nCausa da morte: pelas costas... e então....",
-        "es-ES": "[Skippy]\nEspere un momento. Sexo femenino, identidad desconocida, vestía un traje gris, pero estaba muy desordenado y cubierto de tierra.\nCausa de la muerte: por la espalda… después…."
+        "es-ES": "[Skippy]\nEspere un momento. Sexo femenino, identidad desconocida, vestía un traje gris, pero estaba muy desordenado y cubierto de tierra.\nCausa de la muerte: por la espalda... después...."
     },
     "xlPKBw": {
         "en-US": "- Received record materials regarding an unidentified body. -",
@@ -1187,7 +1187,7 @@
     "zVPKBw": {
         "en-US": "[Adoren]\nSearching, searching... Search complete. Hardly any records remain about H themselves...\nHowever, there are many records of what others said about H.",
         "pt-BR": "[Adoren]\nPesquisando, pesquisando... pesquisa concluída. Restam poucos registros diretos sobre o próprio Sr. H...\nNo entanto, há numerosos registros de terceiros citando o Sr. H.",
-        "es-ES": "[Adoren]\nBuscando, buscando… Búsqueda completada. Apenas quedan registros personales del señor H…\nSin embargo, hay numerosos registros donde otras personas hablan sobre él."
+        "es-ES": "[Adoren]\nBuscando, buscando... Búsqueda completada. Apenas quedan registros personales del señor H...\nSin embargo, hay numerosos registros donde otras personas hablan sobre él."
     },
     "zlPKBw": {
         "en-US": "[Adoren]\nIf you would like to view them, I will prepare them for you.",
@@ -1197,7 +1197,7 @@
     "z1PKBw": {
         "en-US": "[Mercenary]\nBy the way, where did H go? I've been looking since earlier...",
         "pt-BR": "[Rebelde]\nFalando nisso, para onde foi o Sr. H? Estou procurando por ele há algum tempo...",
-        "es-ES": "[Mercenario]\nPor cierto, ¿dónde se ha metido el señor H? Lo he estado buscando desde hace rato…"
+        "es-ES": "[Mercenario]\nPor cierto, ¿dónde se ha metido el señor H? Lo he estado buscando desde hace rato..."
     },
     "0FPKBw": {
         "en-US": "[Mercenary]\nHe seems to leave his post often. What will he do if the company shows up for a surprise inspection?\nI should talk to him about it someday.",
@@ -1230,9 +1230,9 @@
         "es-ES": "[Mercenario]\nEstaban demasiado lejos, no pude oírlo."
     },
     "1lPKBw": {
-        "en-US": "[Mercenary]\nYou weren’t hiding well—you were just far away!\nAnyway, that’s really suspicious. What in the world is going on?\n………………\n………………",
+        "en-US": "[Mercenary]\nYou weren’t hiding well—you were just far away!\nAnyway, that’s really suspicious. What in the world is going on?\n..................\n..................",
         "pt-BR": "[Rebelde]\nAff!! Não é que você se escondeu bem, você estava era longe demais!\nEnfim, isso é realmente suspeito. O que será que está acontecendo?\n..................\n..................",
-        "es-ES": "[Mercenario]\n¡No es que te escondieras bien, es que estabas lejos!\nEn fin, eso es realmente sospechoso. ¿Qué estará pasando?\n………………\n………………"
+        "es-ES": "[Mercenario]\n¡No es que te escondieras bien, es que estabas lejos!\nEn fin, eso es realmente sospechoso. ¿Qué estará pasando?\n..................\n.................."
     },
     "11PKBw": {
         "en-US": "[Adoren]\nData log output is complete.\nDo you require additional information about H?",
@@ -1245,9 +1245,9 @@
         "es-ES": "Contenido de la conversación con el desconocido"
     },
     "2VPKBw": {
-        "en-US": "[Adoren]\nSearching… No results. We do not know that much, either.\nIt was a conversation held where Cleanings Robots and the administrator could not hear.",
+        "en-US": "[Adoren]\nSearching... No results. We do not know that much, either.\nIt was a conversation held where Cleanings Robots and the administrator could not hear.",
         "pt-BR": "[Adoren]\nPesquisando... sem resultados. Não temos acesso a esse conteúdo.\nFoi uma conversa realizada fora do alcance auditivo dos Robôs de Limpeza e das Autômatas.",
-        "es-ES": "[Adoren]\nBúsqueda… sin resultados. Hasta ese punto nosotros tampoco tenemos acceso.\nFue una conversación mantenida fuera del alcance auditivo de Robot de Limpieza y de los administradores."
+        "es-ES": "[Adoren]\nBúsqueda... sin resultados. Hasta ese punto nosotros tampoco tenemos acceso.\nFue una conversación mantenida fuera del alcance auditivo de Robot de Limpieza y de los administradores."
     },
     "2lPKBw": {
         "en-US": "The place where he was talking to a stranger",
@@ -1255,9 +1255,9 @@
         "es-ES": "Lugar donde hablaba con el desconocido"
     },
     "21PKBw": {
-        "en-US": "[Adoren]\nSearching… according to the Cleaning Robots' records, we can guide you to the location where Mr. H was last detected at that time.\nWe will provide the coordinates, so please move according to <NAVI>[Guide]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>.",
+        "en-US": "[Adoren]\nSearching... according to the Cleaning Robots' records, we can guide you to the location where Mr. H was last detected at that time.\nWe will provide the coordinates, so please move according to <NAVI>[Guide]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>.",
         "pt-BR": "[Adoren]\nPesquisando... por meio dos registros do Robô de Limpeza, posso informar o último local onde o Sr. H foi detectado naquele momento.\nFornecerei as coordenadas; por favor, dirija-se conforme a <NAVI>[orientação]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>.",
-        "es-ES": "[Adoren]\nBúsqueda… A través de los registros de Robot de Limpieza puedo indicarle la última ubicación donde se detectó al señor H en ese momento.\nLe proporcionaré las coordenadas; siga la <NAVI>[guía]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>."
+        "es-ES": "[Adoren]\nBúsqueda... A través de los registros de Robot de Limpieza puedo indicarle la última ubicación donde se detectó al señor H en ese momento.\nLe proporcionaré las coordenadas; siga la <NAVI>[guía]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>."
     },
     "3FPKBw": {
         "en-US": "[Adoren]\nHello, guest. What do you need?\nI am very satisfied to be able to welcome you.",
@@ -1412,7 +1412,7 @@
     "+lPKBw": {
         "en-US": "- This drawn on the bag is... the emblem of Rekenber? Why is something like this here? -",
         "pt-BR": "- O desenho no envelope é... o selo da corporação Rekenber? Por que algo assim estaria aqui? -",
-        "es-ES": "- Lo que aparece dibujado en el sobre es… ¿el emblema de Rekenber? ¿Por qué algo así estaría aquí? -"
+        "es-ES": "- Lo que aparece dibujado en el sobre es... ¿el emblema de Rekenber? ¿Por qué algo así estaría aquí? -"
     },
     "+1PKBw": {
         "en-US": "- You carefully pulled out the bag so it would not tear. -",
@@ -1422,7 +1422,7 @@
     "/FPKBw": {
         "en-US": "- ......? -",
         "pt-BR": "- ......? -",
-        "es-ES": "- ……? -"
+        "es-ES": "- ......? -"
     },
     "/VPKBw": {
         "en-US": "Assassin",
@@ -1452,7 +1452,7 @@
     "AlTKBw": {
         "en-US": "[???]\nVice President, I am someone sent in the name of the Rekenber board of directors. ......You have no need to know my personal name.",
         "pt-BR": "[???]\nVice-presidente, vim à pedido do Conselho da Rekenber. ......Você não precisa saber meu nome.",
-        "es-ES": "[???]\nVicepresidente, he venido en nombre del consejo de administración de Rekenber. ……No necesita saber mi nombre."
+        "es-ES": "[???]\nVicepresidente, he venido en nombre del consejo de administración de Rekenber. ......No necesita saber mi nombre."
     },
     "A1TKBw": {
         "en-US": "[Kaya Tos]\nInsolent...! This is not a place just anyone can come and go. How did you sneak in this far and come looking for me?",
@@ -1497,7 +1497,7 @@
     "C1TKBw": {
         "en-US": "[???]\nSigh...... If I could have reasoned with you, Vice President, I would not have come. Enough. I did not come here to talk, anyway.",
         "pt-BR": "[???]\n*Suspiro*...... Ainda tentei mudar sua cabeça, vice-presidente. Mas sabia que não adiantaria. De todo o jeito, não vim para conversar.",
-        "es-ES": "[???]\nUf… Si hubiera sido posible razonar con usted, no habría tenido que venir. Basta. De todos modos, no he venido a dialogar."
+        "es-ES": "[???]\nUf... Si hubiera sido posible razonar con usted, no habría tenido que venir. Basta. De todos modos, no he venido a dialogar."
     },
     "DFTKBw": {
         "en-US": "[Kaya Tos]\nWhat do you mean by that?",
@@ -1537,7 +1537,7 @@
     "E1TKBw": {
         "en-US": "[Kaya Tos]\nTh-thank you for helping me.\nThis is... the job I've devoted my whole life to. To think they'd send an Assassin after me.",
         "pt-BR": "[Kaya Toss]\nO-obrigado por me salvarem.\nUf... o trabalho ao qual dediquei minha vida toda. E... enviam um assassino atrás de mim.",
-        "es-ES": "[Kaya Tos]\nG-gracias por ayudarme.\nEs… la empresa a la que he dedicado toda mi vida. No pensé que me enviarían un Assassin."
+        "es-ES": "[Kaya Tos]\nG-gracias por ayudarme.\nEs... la empresa a la que he dedicado toda mi vida. No pensé que me enviarían un Assassin."
     },
     "FFTKBw": {
         "en-US": "[Kaya Tos]\nEven so, I will not be defeated. Only after the corporation clears away its past and improves the present can the path it takes become the right one.",
@@ -1582,7 +1582,7 @@
     "HFTKBw": {
         "en-US": "[Dien]\nI've heard your thoughts well. Yes... I understand that what you said about taking responsibility was not just empty words spoken with a gilded tongue in front of us.",
         "pt-BR": "[Dien]\nOuvi bem suas palavras. Sim... entendo que sua promessa de assumir responsabilidade não é apenas um discurso vazio.",
-        "es-ES": "[Dien]\nHe escuchado bien lo que piensa. Bien… Ahora entiendo que sus palabras sobre asumir la responsabilidad no eran simple palabrería."
+        "es-ES": "[Dien]\nHe escuchado bien lo que piensa. Bien... Ahora entiendo que sus palabras sobre asumir la responsabilidad no eran simple palabrería."
     },
     "HVTKBw": {
         "en-US": "[Dien]\nBut I have not the slightest thought that the company can atone for everything it has done with an incident like this. I simply feel that I should trust what you are doing a little more, and watch a little longer.",

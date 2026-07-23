@@ -67,7 +67,7 @@
     "7W2BCA": {
         "en-US": "[Khalitzburg Knightage]\nI had a weird dream last night. My mom was in it... Wonder if she is ok...",
         "pt-BR": "[Khalitzburg]\nEu tive um sonho esquisito ontem à noite. Minha mãe estava nele... Será que ela está bem?...",
-        "es-ES": "[Caballera de Khalitzburg]\nAnoche tuve un sueño extraño. Estaba mi madre… Me pregunto si estará bien…"
+        "es-ES": "[Caballera de Khalitzburg]\nAnoche tuve un sueño extraño. Estaba mi madre... Me pregunto si estará bien..."
     },
     "7m2BCA": {
         "en-US": "[White knight]\nPlease do not make a mess here.",
@@ -82,7 +82,7 @@
     "8G2BCA": {
         "en-US": "[White knight]\nHow do you know Varmunt? I heard that he's not really a friendly man...",
         "pt-BR": "[Cavaleiro Branco]\nComo você conhece o Sr. Varmunt? Eu fiquei sabendo que ele não é uma pessoa muito amigável...",
-        "es-ES": "[Caballero Blanco]\n¿Cómo conoces a Varmunt? Escuché que no es una persona muy amigable…"
+        "es-ES": "[Caballero Blanco]\n¿Cómo conoces a Varmunt? Escuché que no es una persona muy amigable..."
     },
     "8W2BCA": {
         "en-US": "[Khalitzburg Knightage]\nDoesn't this castle seem weird all of a sudden? Something's not quite right.",
@@ -97,7 +97,7 @@
     "822BCA": {
         "en-US": "[Khalitzburg Knightage]\n...",
         "pt-BR": "[Khalitzburg]\n...",
-        "es-ES": "[Caballera de Khalitzburg]\n…"
+        "es-ES": "[Caballera de Khalitzburg]\n..."
     },
     "9G2BCA": {
         "en-US": "[White knight]\nWhat can I do for you?",
@@ -152,7 +152,7 @@
     "/m2BCA": {
         "en-US": "Oh. Well I...",
         "pt-BR": "Oh. Bem, eu...",
-        "es-ES": "Ah. Bueno, yo…"
+        "es-ES": "Ah. Bueno, yo..."
     },
     "/22BCA": {
         "en-US": "[{0}]\nAh yes, I am. Herico told me to meet you.",
@@ -177,7 +177,7 @@
     "A26BCA": {
         "en-US": "Himmelmez...",
         "pt-BR": "Himmelmez...",
-        "es-ES": "Himmelmez…"
+        "es-ES": "Himmelmez..."
     },
     "BG6BCA": {
         "en-US": "[{0}]\nWho is Himmelmez?",
@@ -242,7 +242,7 @@
     "EG6BCA": {
         "en-US": "Sir, Heinrich. Varmunt...",
         "pt-BR": "Sir Heinrich. Você deveria verificar o castelo agora...",
-        "es-ES": "Señor Heinrich, Varmunt…"
+        "es-ES": "Señor Heinrich, Varmunt..."
     },
     "EW6BCA": {
         "en-US": "[{0}]\nSir, Heinrich. Do you know what is happening in the castle now?",
@@ -277,7 +277,7 @@
     "F26BCA": {
         "en-US": "Himmelmez' invasion...",
         "pt-BR": "Invasão da Himmelmez...",
-        "es-ES": "La invasión de Himmelmez…"
+        "es-ES": "La invasión de Himmelmez..."
     },
     "GG6BCA": {
         "en-US": "[{0}]\nDead man's Valkyrie, Himmelmez is coming to take the Ymir's Heart piece hidden inside this castle!",
@@ -322,7 +322,7 @@
     "IG6BCA": {
         "en-US": "Even if you don't believe me...",
         "pt-BR": "Mesmo que não acredite em mim...",
-        "es-ES": "Aunque no me creas…"
+        "es-ES": "Aunque no me creas..."
     },
     "IW6BCA": {
         "en-US": "[{0}]\nI can't make you believe me, but there's no time to argue!",
@@ -372,7 +372,7 @@
     "Km6BCA": {
         "en-US": "Himmelmez: Well well~ Am I interrupting you? Weren't you expecting me?",
         "pt-BR": "Himmelmez: Ora, ora... Estou interrompendo alguma coisa?",
-        "es-ES": "Himmelmez: Bueno, bueno… ¿Te interrumpo? ¿No me estabas esperando?"
+        "es-ES": "Himmelmez: Bueno, bueno... ¿Te interrumpo? ¿No me estabas esperando?"
     },
     "K26BCA": {
         "en-US": "Varmunt: Himmelmez!! Already!",
@@ -387,7 +387,7 @@
     "LW6BCA": {
         "en-US": "Heinrich: Aren't you a little too feminine to be the Ruler of death? We are not afraid of you...",
         "pt-BR": "Heinrich: 'Valquíria dos Mortos'? Acha que temos medo de você?",
-        "es-ES": "Heinrich: ¿No eres un poco femenina para ser la soberana de la muerte? No te tenemos miedo…"
+        "es-ES": "Heinrich: ¿No eres un poco femenina para ser la soberana de la muerte? No te tenemos miedo..."
     },
     "Lm6BCA": {
         "en-US": "Himmelmez: Let's see if you can relax like that after you find out where your king is.",
@@ -442,7 +442,7 @@
     "OG6BCA": {
         "en-US": "Heinrich: All Khalitzburg and White Knights should follow me now...",
         "pt-BR": "Heinrich: Todas as Khalitzburgs e Cavaleiros Brancos... Sigam-me!",
-        "es-ES": "Heinrich: Todos los Caballeros Blancos y las Caballeras de Khalitzburg deben seguirme ahora…"
+        "es-ES": "Heinrich: Todos los Caballeros Blancos y las Caballeras de Khalitzburg deben seguirme ahora..."
     },
     "OW6BCA": {
         "en-US": "Khalitzburg",
@@ -457,7 +457,7 @@
     "O26BCA": {
         "en-US": "Arrgg... My body",
         "pt-BR": "Argh... Meu corpo dói...",
-        "es-ES": "Ay… mi cuerpo."
+        "es-ES": "Ay... mi cuerpo."
     },
     "PG6BCA": {
         "en-US": "My throat is burning!",
@@ -472,17 +472,17 @@
     "Pm6BCA": {
         "en-US": "Kkkghk... Gggahuk",
         "pt-BR": "Arrrgh... uuUUAAAAAARGH!!!",
-        "es-ES": "Kkkghk… gggahuk."
+        "es-ES": "Kkkghk... gggahuk."
     },
     "P26BCA": {
         "en-US": "I feel sick to my stomach urrgg",
         "pt-BR": "Parece que tem um buraco no lugar do meu estômago...",
-        "es-ES": "Me siento mal del estómago, aaah…"
+        "es-ES": "Me siento mal del estómago, aaah..."
     },
     "QG6BCA": {
         "en-US": "Can someone...",
         "pt-BR": "Alguém... Por favor...",
-        "es-ES": "¿Puede alguien…"
+        "es-ES": "¿Puede alguien..."
     },
     "QW6BCA": {
         "en-US": "Help me...",
@@ -492,7 +492,7 @@
     "Qm6BCA": {
         "en-US": "My stomach is burning...",
         "pt-BR": "Minha barriga está queimando...",
-        "es-ES": "Me quema el estómago…"
+        "es-ES": "Me quema el estómago..."
     },
     "Q26BCA": {
         "en-US": "I am so thirsty.",
@@ -502,12 +502,12 @@
     "RG6BCA": {
         "en-US": "Oh...No... I can't die yet...",
         "pt-BR": "Não posso morrer agora...",
-        "es-ES": "Oh… no… No puedo morir todavía…"
+        "es-ES": "Oh... no... No puedo morir todavía..."
     },
     "RW6BCA": {
         "en-US": "Mom...",
         "pt-BR": "Mãe... É você?",
-        "es-ES": "Mamá…"
+        "es-ES": "Mamá..."
     },
     "Rm6BCA": {
         "en-US": "I don't want to die.",
@@ -537,12 +537,12 @@
     "S26BCA": {
         "en-US": "Sir. Heinrich. Save me...",
         "pt-BR": "Lorde Heinrich, me salve...",
-        "es-ES": "Señor. Heinrich. Ayuda…"
+        "es-ES": "Señor. Heinrich. Ayuda..."
     },
     "TG6BCA": {
         "en-US": "I miss my sister...",
         "pt-BR": "Gostaria de poder dar um último abraço na minha irmã...",
-        "es-ES": "Extraño a mi hermana…"
+        "es-ES": "Extraño a mi hermana..."
     },
     "TW6BCA": {
         "en-US": "Not like this, I want to leave!",
@@ -557,17 +557,17 @@
     "T26BCA": {
         "en-US": "Water... Someone give me water...",
         "pt-BR": "Água... Eu imploro. Água...",
-        "es-ES": "Agua… Que alguien me dé agua…"
+        "es-ES": "Agua... Que alguien me dé agua..."
     },
     "UG6BCA": {
         "en-US": "Kkkrrrruughgh...",
         "pt-BR": "Uuuuuuugh...",
-        "es-ES": "Kkkrrrruughgh…"
+        "es-ES": "Kkkrrrruughgh..."
     },
     "UW6BCA": {
         "en-US": "Heinrich: My men... This can't be happening!",
         "pt-BR": "Heinrich: Estas são as minhas tropas... Isso não pode estar acontecendo!",
-        "es-ES": "Heinrich: Mis hombres… ¡Esto no puede estar pasando!"
+        "es-ES": "Heinrich: Mis hombres... ¡Esto no puede estar pasando!"
     },
     "Um6BCA": {
         "en-US": "Varmunt: Sir. Heinrich, they're all monsters. You need to give them rest!",
@@ -577,7 +577,7 @@
     "U26BCA": {
         "en-US": "Heinrich: I'm so sorry...",
         "pt-BR": "Heinrich: Eu... Sinto muito...",
-        "es-ES": "Heinrich: Lo siento mucho…"
+        "es-ES": "Heinrich: Lo siento mucho..."
     },
     "VG6BCA": {
         "en-US": "Heinrich: I am sorry, my knights! Forgive me!",
@@ -597,7 +597,7 @@
     "V26BCA": {
         "en-US": "Heinrich : I killed my own men...",
         "pt-BR": "Heinrich : Eu acabei com eles com as minhas mãos...",
-        "es-ES": "Heinrich: Maté a mis propios hombres…"
+        "es-ES": "Heinrich: Maté a mis propios hombres..."
     },
     "WG6BCA": {
         "en-US": "Varmunt : Sir. Heinrich! We don't have much time!",
@@ -692,7 +692,7 @@
     "am6BCA": {
         "en-US": "[Altar boy Domun]\nSave me, save me please...",
         "pt-BR": "[Domun]\nMe tire daqui, por favor...",
-        "es-ES": "[Acólito Domun]\nSálvenme, sálvenme, por favor…"
+        "es-ES": "[Acólito Domun]\nSálvenme, sálvenme, por favor..."
     },
     "a26BCA": {
         "en-US": "Hold on! Are you the only survivor?",
@@ -712,7 +712,7 @@
     "bm6BCA": {
         "en-US": "[Altar boy Domun]\nChamberlains... monks... They all turned into monsters. I couldn't do anything.",
         "pt-BR": "[Domun]\nTodos... Todos eles... Se transformaram em monstros. Eu não pude fazer nada...",
-        "es-ES": "[Acólito Domun]\nChambelanes.… monjes… Todos se convirtieron en monstruos. No pude hacer nada."
+        "es-ES": "[Acólito Domun]\nChambelanes.... monjes... Todos se convirtieron en monstruos. No pude hacer nada."
     },
     "b26BCA": {
         "en-US": "Altar boy Domun: Chamberlains... monks... They all turned into monsters. I couldn't do anything.",
@@ -722,7 +722,7 @@
     "cG6BCA": {
         "en-US": "[Altar boy Domun]\nAll I could do was... Just hide in here... Nothing, nothing I could do...",
         "pt-BR": "[Domun]\nEu... Só me escondi... E assisti a tudo de longe...",
-        "es-ES": "[Acólito Domun]\nTodo lo que podía hacer era… Solo esconderme aquí… No había nada, nada que pudiera hacer…"
+        "es-ES": "[Acólito Domun]\nTodo lo que podía hacer era... Solo esconderme aquí... No había nada, nada que pudiera hacer..."
     },
     "cW6BCA": {
         "en-US": "Altar boy Domun: All I could do was... Just hide in here... Nothing, nothing I could do...",
@@ -772,7 +772,7 @@
     "em6BCA": {
         "en-US": "[Altar boy Domun]\nOk, I... I'll try.",
         "pt-BR": "[Domun]\nOk, Eu... Eu vou tentar.",
-        "es-ES": "[Acólito Domun]\nMuy bien, yo… Lo intentaré."
+        "es-ES": "[Acólito Domun]\nMuy bien, yo... Lo intentaré."
     },
     "e26BCA": {
         "en-US": "Altar boy Domun: Ok, I... I'll try.",
@@ -852,7 +852,7 @@
     "im6BCA": {
         "en-US": "It's dangerous here...",
         "pt-BR": "É bem perigoso ficar aqui",
-        "es-ES": "Es peligroso aquí…"
+        "es-ES": "Es peligroso aquí..."
     },
     "i26BCA": {
         "en-US": "[{0}]\nIt's dangerous here. You know the way to the middle passage? Can you move?",
@@ -877,7 +877,7 @@
     "j26BCA": {
         "en-US": "Be safe...",
         "pt-BR": "Cuidado...",
-        "es-ES": "Cuídate…"
+        "es-ES": "Cuídate..."
     },
     "kG6BCA": {
         "en-US": "[{0}]\nSorry, I can't go with you.",
@@ -937,7 +937,7 @@
     "m26BCA": {
         "en-US": "[Himmelmez]\nDon't look at me nervous like that. It will be over soon...",
         "pt-BR": "[Himmelmez]\nNossa, que cara feia... Fiquem tranquilos! Vai tudo acabar bem rápido.",
-        "es-ES": "[Himmelmez]\nNo me mires con esos nervios. Terminará pronto…"
+        "es-ES": "[Himmelmez]\nNo me mires con esos nervios. Terminará pronto..."
     },
     "nG6BCA": {
         "en-US": "Himmelmez: Guess you are either lucky or powerful, to make it this far.",
@@ -972,7 +972,7 @@
     "om6BCA": {
         "en-US": "Heinrich: What... These are!",
         "pt-BR": "Heinrich: Espera... Este é o...!",
-        "es-ES": "Heinrich: ¿Qué…? ¡Son estos!"
+        "es-ES": "Heinrich: ¿Qué...? ¡Son estos!"
     },
     "o26BCA": {
         "en-US": "Himmelmez: I will go on my way while my new toy entertains you.",

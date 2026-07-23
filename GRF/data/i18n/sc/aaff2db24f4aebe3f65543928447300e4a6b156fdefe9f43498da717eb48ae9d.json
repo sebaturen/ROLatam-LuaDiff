@@ -17,7 +17,7 @@
     "AzUM": {
         "en-US": "[United Research Official]\nHmmmm...mmm...",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nHmmmm... mmm...",
-        "es-ES": "[Oficial del GIU]\nMmm… Mmm…"
+        "es-ES": "[Oficial del GIU]\nMmm... Mmm..."
     },
     "BDUM": {
         "en-US": "[United Research Official]\nOh! Hello there!\nYou must be the adventurer from Rune Midgard.",
@@ -27,22 +27,22 @@
     "BTUM": {
         "en-US": "[United Research Official]\nWe've come all the way here to keep track of Satan Morroc, but... Now it seems that's not our priority anymore... Tsk,tsk...",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nViemos até aqui pra rastrear o Imperador Morroc, mas... agora parece que isso não é mais prioridade... Tsc, tsc...",
-        "es-ES": "[Oficial del GIU]\nVinimos hasta aquí para seguirle el rastro a Satán Morroc, pero… Bueno, digamos que eso ya no es nuestra prioridad… Ch, ch…"
+        "es-ES": "[Oficial del GIU]\nVinimos hasta aquí para seguirle el rastro a Satán Morroc, pero... Bueno, digamos que eso ya no es nuestra prioridad... Ch, ch..."
     },
     "BjUM": {
         "en-US": "[United Research Official]\nWell, since our research group has been gathered in such haste, many of our members collide too often... I think it's just the process of trial and error, but this really slows things down.",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nBem, como nosso grupo de pesquisa foi reunido às pressas, tem muito atrito entre os membros... Acho que faz parte do processo, mas isso atrasa tudo.",
-        "es-ES": "[Oficial del GIU]\nEl problema es que nuestro equipo de investigación se formó tan rápido que… digamos que hay demasiados roces entre los miembros. Supongo que es parte del proceso de prueba y error, pero esto nos está retrasando un montón."
+        "es-ES": "[Oficial del GIU]\nEl problema es que nuestro equipo de investigación se formó tan rápido que... digamos que hay demasiados roces entre los miembros. Supongo que es parte del proceso de prueba y error, pero esto nos está retrasando un montón."
     },
     "BzUM": {
         "en-US": "[United Research Official]\nAlas, the head office keeps pushing me to submit a report... As if I could perform miracles!",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nInfelizmente, a sede continua me pressionando para enviar um relatório... Como se eu pudesse fazer milagres!",
-        "es-ES": "[Oficial del GIU]\nMientras tanto, la sede central me sigue exigiendo un informe… ¿Acaso creen que puedo hacer milagros?"
+        "es-ES": "[Oficial del GIU]\nMientras tanto, la sede central me sigue exigiendo un informe... ¿Acaso creen que puedo hacer milagros?"
     },
     "CDUM": {
         "en-US": "[United Research Official]\nI can't go around and meet those people myself, mediate among troubled people... This is impossible!! Unless...Unless someone helps me with that! I need... someone...",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nNão posso ir pessoalmente falar com todos esses pesquisadores, mediar conflitos... Isso é impossível! A não ser que... alguém me ajude... preciso de alguém...",
-        "es-ES": "[Oficial del GIU]\nNo puedo estar corriendo de un lado a otro resolviendo peleas entre investigadores… ¡Es imposible! A menos que… ¡A menos que alguien me eche una mano! Necesito a alguien…"
+        "es-ES": "[Oficial del GIU]\nNo puedo estar corriendo de un lado a otro resolviendo peleas entre investigadores... ¡Es imposible! A menos que... ¡A menos que alguien me eche una mano! Necesito a alguien..."
     },
     "CTUM": {
         "en-US": "- He stares at you -\n- with sparkling -\n- eyes as if he were -\n- demanding for help! -",
@@ -52,17 +52,17 @@
     "CjUM": {
         "en-US": "[{0}]\n............................\n.....................I..I...",
         "pt-BR": "[{0}]\n............................\n.....................Eu..Eu...",
-        "es-ES": "[{0}]\n............................\nYo… Yo…"
+        "es-ES": "[{0}]\n............................\nYo... Yo..."
     },
     "CzUM": {
         "en-US": "[United Research Official]\nEh?! Oh, my... You really shouldn't. You must be extremely busy tracking down Satan Morroc!",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nEh?! Oh, meu Deus... Você não deveria. Você deve estar extremamente ocupado atrás do Imperador Morroc!",
-        "es-ES": "[Oficial del GIU]\n¡¿Eh?! Ay, ay… No deberías. ¡La búsqueda de Satán Morroc debe estar ocupando todo tu tiempo!"
+        "es-ES": "[Oficial del GIU]\n¡¿Eh?! Ay, ay... No deberías. ¡La búsqueda de Satán Morroc debe estar ocupando todo tu tiempo!"
     },
     "DDUM": {
         "en-US": "[United Research Official]\nBut... if you say so, could I really use your help? Hahaha.",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nMas... se você diz isso, posso mesmo aceitar a sua ajuda? Hahaha.",
-        "es-ES": "[Oficial del GIU]\nPero… ya que lo dices… ¿de verdad podrías ayudarme? Ja, ja, ja."
+        "es-ES": "[Oficial del GIU]\nPero... ya que lo dices... ¿de verdad podrías ayudarme? Ja, ja, ja."
     },
     "DTUM": {
         "en-US": "[United Research Official]\nThose researchers complain a lot these days. They're terribly stressed out and I think somebody should really listen to their problems.",
@@ -97,7 +97,7 @@
     "EzUM": {
         "en-US": "[United Research Official]\nAnd...and I really get to sign this thing and approve it...? Hahaha!",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nE... e eu vou poder assinar isso e aprovar? Hahaha!",
-        "es-ES": "[Oficial del GIU]\nY… ¿y de verdad me van a dejar firmar esto y aprobarlo? ¡Ja, ja, ja!"
+        "es-ES": "[Oficial del GIU]\nY... ¿y de verdad me van a dejar firmar esto y aprobarlo? ¡Ja, ja, ja!"
     },
     "FDUM": {
         "en-US": "[United Research Official]\nThis, this means I need to get prepared for the meeting! Finally! Hahahaha!",
@@ -122,12 +122,12 @@
     "GDUM": {
         "en-US": "[United Research Official]\nPeople can't always be perfect, so they stress out and get to arguing...",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nAs pessoas nem sempre podem ser perfeitas, por isso se estressam e começam a discutir...",
-        "es-ES": "[Oficial del GIU]\nY claro, como nadie es perfecto, se estresan y terminan discutiendo…"
+        "es-ES": "[Oficial del GIU]\nY claro, como nadie es perfecto, se estresan y terminan discutiendo..."
     },
     "GTUM": {
         "en-US": "[United Research Official]\nSo... Could you do me a favor?",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nEntão... Você poderia me fazer um favor?",
-        "es-ES": "[Oficial del GIU]\nAsí que… ¿Me harías un favor?"
+        "es-ES": "[Oficial del GIU]\nAsí que... ¿Me harías un favor?"
     },
     "GjUM": {
         "en-US": "[United Research Official]\nAs you've heard, about the 3 researchers, they don't agree with each other too often. It's just too obvious that their meeting will turn out a disaster, and the whole research group could break down!",
@@ -147,7 +147,7 @@
     "HTUM": {
         "en-US": "[United Research Official]\nSo, first! Can you go meet those 3 researchers and check on them to prepare for the meeting?",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nEntão, primeiro! Você pode ir ao encontro desses três pesquisadores e verificar como eles estão se preparando para a reunião?",
-        "es-ES": "[Oficial del GIU]\nPero primero… ¿Podrías ir a hablar con esos tres investigadores y ver cómo están antes de la reunión?"
+        "es-ES": "[Oficial del GIU]\nPero primero... ¿Podrías ir a hablar con esos tres investigadores y ver cómo están antes de la reunión?"
     },
     "HjUM": {
         "en-US": "[United Research Official]\nHow did it go?",
@@ -167,7 +167,7 @@
     "ITUM": {
         "en-US": "[United Research Official]\nFirst, you should go meet those 3 researchers and check on them to prepare for the meeting. Hope they're not preparing any weapons though...",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nPrimeiro, você deve ir falar com os três pesquisadores e verificar como eles estão se preparando para a reunião. Espero que eles não estejam preparando nenhuma arma...",
-        "es-ES": "[Oficial del GIU]\nPrimero, habla con esos tresinvestigadores y ve cómo están antes de la reunión. Espero que no estén preparando armas ni nada por el estilo…"
+        "es-ES": "[Oficial del GIU]\nPrimero, habla con esos tresinvestigadores y ve cómo están antes de la reunión. Espero que no estén preparando armas ni nada por el estilo..."
     },
     "IjUM": {
         "en-US": "[United Research Official]\nOhhh, you came! How generous of you!",
@@ -177,7 +177,7 @@
     "IzUM": {
         "en-US": "[United Research Official]\nThe meeting's about to begin.\nWhew... I think I'm too tense... My chest hurts... Aaaah.",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nA reunião está prestes a começar.\nUfa... Acho que estou muito nervoso... Meu peito está doendo... Aaaah.",
-        "es-ES": "[Oficial del GIU]\nLa reunión está a punto de comenzar.\nUf… Creo que estoy demasiado tenso… Me duele el pecho… Aaaah."
+        "es-ES": "[Oficial del GIU]\nLa reunión está a punto de comenzar.\nUf... Creo que estoy demasiado tenso... Me duele el pecho... Aaaah."
     },
     "JDUM": {
         "en-US": "- Somebody's knocking -\n- on the door... -",
@@ -257,7 +257,7 @@
     "MzUM": {
         "en-US": "[United Research Official]\nSo... All in all, nothing has been clearly found. Any problems among the members of the United Research Group?",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nEntão... Resumindo, nada foi claramente encontrado. Algum problema entre os membros do Grupo de Pesquisa Unificado?",
-        "es-ES": "[Oficial del GIU]\nAsí que… en resumen, no encontramos nada claro. ¿Existe algún problema entre los miembros del Grupo de Investigación Unida?"
+        "es-ES": "[Oficial del GIU]\nAsí que... en resumen, no encontramos nada claro. ¿Existe algún problema entre los miembros del Grupo de Investigación Unida?"
     },
     "NDUM": {
         "en-US": "[Ryosen]\n.................................",
@@ -277,12 +277,12 @@
     "NzUM": {
         "en-US": "- The room is in awkward silence for a short while... -",
         "pt-BR": "- A sala fica em um silêncio constrangedor por alguns instantes...-",
-        "es-ES": "(Por un momento, hay un silencio incómodo en la sala…)"
+        "es-ES": "(Por un momento, hay un silencio incómodo en la sala...)"
     },
     "ODUM": {
         "en-US": "[United Research Official]\nHa..... Hahahaha...\n... Then, anything you need to request, or suggest, perhaps? Anything you want to complain about?",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nHa..... Hahahahaha...\n... Então, tem algo que você precise pedir ou sugerir, talvez? Alguma reclamação?",
-        "es-ES": "[Oficial del GIU]\nJa… Ja, ja, ja, ja…\n… Bueno, ¿alguna solicitud o sugerencia? ¿Algo de lo que quieran quejarse?"
+        "es-ES": "[Oficial del GIU]\nJa... Ja, ja, ja, ja...\n... Bueno, ¿alguna solicitud o sugerencia? ¿Algo de lo que quieran quejarse?"
     },
     "OTUM": {
         "en-US": "- Ryosen, who was fidgeting with his files, suddenly stops and studies the others. Then, he takes out something from the bottom of the chair and puts it on the table. -",
@@ -292,7 +292,7 @@
     "OjUM": {
         "en-US": "[Ryosen]\nI'm.... I... The document file...",
         "pt-BR": "[Ryosen]\nEu.... Eu... Os documentos...",
-        "es-ES": "[Ryosen]\nYo… Yo… El documento…"
+        "es-ES": "[Ryosen]\nYo... Yo... El documento..."
     },
     "OzUM": {
         "en-US": "[United Research Official]\nAaaaaahahhhhhhhhhhcckk!!!!!",
@@ -317,7 +317,7 @@
     "PzUM": {
         "en-US": "[United Research Official]\nHhmm, hmmmm...\nI really don't know what to say.\nI mean... I'm totally OK with other monsters, mutants or whatever, but that black evil thing... Oh, I can't stand that one...",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nHhmm, hmmmm...\nEu realmente não sei o que dizer.\nQuer dizer... eu lido bem com outros monstros, mutantes ou o que for, mas aquela coisa preta e maligna... Ah, essa eu não aguento...",
-        "es-ES": "[Oficial del GIU]\nMmm… Mmm…\nNo sé ni qué decir.\nO sea… Mira que lidié con monstruos y mutantes, pero ese bicho negro… No lo soporto."
+        "es-ES": "[Oficial del GIU]\nMmm... Mmm...\nNo sé ni qué decir.\nO sea... Mira que lidié con monstruos y mutantes, pero ese bicho negro... No lo soporto."
     },
     "QDUM": {
         "en-US": "- Knock, knock. -\n- The researchers come back into the room. -",
@@ -327,7 +327,7 @@
     "QTUM": {
         "en-US": "[Ryosen]\nUh-hmm! Sorry about the mess.\nI... Something urgent came up...\n..............Aaaaaaaaahhhhhhhhh!",
         "pt-BR": "[Ryosen]\nUh-hmm! Desculpem pela bagunça.\nEu... algo urgente aconteceu...\n..............Aaaaaaaaahhhhhhhhh!",
-        "es-ES": "[Ryosen]\n¡Ay! Perdón por el desorden.\nYo… Surgió algo urgente…\n¡Aaaaaaaaahhhhhhhhh!"
+        "es-ES": "[Ryosen]\n¡Ay! Perdón por el desorden.\nYo... Surgió algo urgente...\n¡Aaaaaaaaahhhhhhhhh!"
     },
     "QjUM": {
         "en-US": "[United Research Official]\nWhhhhhhaaattt!!!! What is it!!?\nThe Thief Bug, Again!!!???",
@@ -342,7 +342,7 @@
     "RDUM": {
         "en-US": "[Ryosen]\nMy... my strawberry cake!!!",
         "pt-BR": "[Ryosen]\nMeu... meu bolo de morango!!!",
-        "es-ES": "[Ryosen]\n¡Mi… mi Pastel de fresa!"
+        "es-ES": "[Ryosen]\n¡Mi... mi Pastel de fresa!"
     },
     "RTUM": {
         "en-US": "- Ryosen picks up his strawberry cake, all squashed with some fingerprints. -",
@@ -357,7 +357,7 @@
     "RzUM": {
         "en-US": "[Ryosen]\nThis... this cake was just fine before that evil thing appeared, and there were only 4 of us here!",
         "pt-BR": "[Ryosen]\nEste... este bolo estava ótimo antes de aquela coisa maligna aparecer, e só havia quatro de nós aqui!",
-        "es-ES": "[Ryosen]\nEste… Este pastel estaba perfecto antes de que apareciera esa cosa. Solo éramos cuatro aquí."
+        "es-ES": "[Ryosen]\nEste... Este pastel estaba perfecto antes de que apareciera esa cosa. Solo éramos cuatro aquí."
     },
     "SDUM": {
         "en-US": "[Ryosen]\nOne of you must be guilty of ruining my Rune-Midgart Strawberry Cake!!!",
@@ -377,7 +377,7 @@
     "SzUM": {
         "en-US": "[Ryosen]\nWhatttttt!? Only a cake????\nAha, yeah, I just remembered. You people from Schwartzwald don't ever appreciate food at all, right?",
         "pt-BR": "[Ryosen]\nO quêêêê!? Só um bolo????\nAhá, é, eu acabei de me lembrar. Vocês, do Schwartzwald, nunca apreciam comida, né?",
-        "es-ES": "[Ryosen]\n¡¿Qué?! ¡¿Solo un pastel?!\n¡Ajá! Ya me acordé… Ustedes, los de Schwarzwald, nunca aprecian la comida, ¿verdad?"
+        "es-ES": "[Ryosen]\n¡¿Qué?! ¡¿Solo un pastel?!\n¡Ajá! Ya me acordé... Ustedes, los de Schwarzwald, nunca aprecian la comida, ¿verdad?"
     },
     "TDUM": {
         "en-US": "[Ryosen]\nEspecially when the food is NOT yours, huh? That's why you people sneak a taste of other people's food like my strawberry cake!!!",
@@ -392,7 +392,7 @@
     "TjUM": {
         "en-US": "[{0}]\nUgh... You guys, I think you should calm down... This is ridiculous.",
         "pt-BR": "[{0}]\nUgh... Pessoal, acho que vocês deveriam se acalmar... Isso é ridículo.",
-        "es-ES": "[{0}]\nUf… Creo que deberían calmarse… Esto es ridículo."
+        "es-ES": "[{0}]\nUf... Creo que deberían calmarse... Esto es ridículo."
     },
     "TzUM": {
         "en-US": "[Hansenne]\nUghhhhh! It was I who did that!!!",
@@ -407,7 +407,7 @@
     "UTUM": {
         "en-US": "[{0}]\n...Huh? No. Wait...",
         "pt-BR": "[{0}]\n...Huh? Não. Espera...",
-        "es-ES": "[{0}]\n¿…Eh? No. Espera…"
+        "es-ES": "[{0}]\n¿...Eh? No. Espera..."
     },
     "UjUM": {
         "en-US": "[Ryosen]\nYou again?!\nI can't believe how careless you are all the time, like with the requested data and all!!",
@@ -422,12 +422,12 @@
     "VDUM": {
         "en-US": "[Hue]\nNo, I...",
         "pt-BR": "[Hue]\nNão, eu...",
-        "es-ES": "[Hue]\nNo, yo…"
+        "es-ES": "[Hue]\nNo, yo..."
     },
     "VTUM": {
         "en-US": "[Ryosen]\nHey, stay on topic!!\nYou are...",
         "pt-BR": "[Ryosen]\nEi, foco no assunto!!!\nVocê está...",
-        "es-ES": "[Ryosen]\n¡Oye, concéntrate!\nEres…"
+        "es-ES": "[Ryosen]\n¡Oye, concéntrate!\nEres..."
     },
     "VjUM": {
         "en-US": "[United Research Official]\nAhhhhh! I guess we should call it a day now! Thanks for coming, all of you. Ok, let's go. Dismissed!",
@@ -447,7 +447,7 @@
     "WTUM": {
         "en-US": "[{0}]\nAh...",
         "pt-BR": "[{0}]\nAh...",
-        "es-ES": "[{0}]\nAh…"
+        "es-ES": "[{0}]\nAh..."
     },
     "WjUM": {
         "en-US": "[United Research Official]\nUgh, I've got nothing to say.\nAll I wanted was to let those people be close to each other, become more friendly. But, problems come up every single time.",
@@ -462,7 +462,7 @@
     "XDUM": {
         "en-US": "[{0}]\n...Actually... Hansenne is not the one who ruined that cake.",
         "pt-BR": "[{0}]\n...Na verdade... Não foi Hansenne quem estragou o bolo.",
-        "es-ES": "[{0}]\nEn realidad… no fue Hansenne quien arruinó el pastel."
+        "es-ES": "[{0}]\nEn realidad... no fue Hansenne quien arruinó el pastel."
     },
     "XTUM": {
         "en-US": "[United Research Official]\nEh? What did you say?",
@@ -472,12 +472,12 @@
     "XjUM": {
         "en-US": "[{0}]\nBut... I don't understand why Hansenne would take the blame...",
         "pt-BR": "[{0}]\nMas... Não entendo por que Hansenne assumiria a culpa...",
-        "es-ES": "[{0}]\nPero… No entiendo por qué Hansenne asumiría la culpa…"
+        "es-ES": "[{0}]\nPero... No entiendo por qué Hansenne asumiría la culpa..."
     },
     "XzUM": {
         "en-US": "[{0}]\n...Well, I should go now.",
         "pt-BR": "[{0}]\n...Bem, melhor eu ir agora.",
-        "es-ES": "[{0}]\nBueno, debería irme ya…"
+        "es-ES": "[{0}]\nBueno, debería irme ya..."
     },
     "YDUM": {
         "en-US": "[United Research Official]\nWhat? Ah, adventurer?!",
@@ -527,7 +527,7 @@
     "aTUM": {
         "en-US": "[United Research Official]\nNow, I should get to work on the report I need to submit to the head office. Ah, and this is nothing big, but still... This might come in handy while you travel.",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\nAgora preciso começar a trabalhar no relatório que devo enviar para a sede. Ah, e isso não é grande coisa, mas ainda assim... Pode ser útil durante suas viagens.",
-        "es-ES": "[Oficial del GIU]\nBueno, ahora tengo que ponerme a trabajar en el informe que debo enviar a la sede central. Ah, y esto no es nada del otro mundo, pero igual… Quizá te sirva en tu viaje."
+        "es-ES": "[Oficial del GIU]\nBueno, ahora tengo que ponerme a trabajar en el informe que debo enviar a la sede central. Ah, y esto no es nada del otro mundo, pero igual... Quizá te sirva en tu viaje."
     },
     "ajUM": {
         "en-US": "[United Research Official]\nPlease, stop by and say hello to us from time to time.",
@@ -547,7 +547,7 @@
     "bTUM": {
         "en-US": "[United Research Official]\n...Mmmm? What brings you here?",
         "pt-BR": "[Oficial de Pesquisa da Aliança]\n...Mmmm? O que o traz aqui?",
-        "es-ES": "[Oficial del GIU]\n¿Mmm…? ¿Qué te trae por aquí?"
+        "es-ES": "[Oficial del GIU]\n¿Mmm...? ¿Qué te trae por aquí?"
     },
     "bjUM": {
         "en-US": "[United Research Official]\nI wouldn't be roaming around this place like that, if I were you. It's very dangerous here, and people dwelling in this place are not that nice.",
@@ -582,12 +582,12 @@
     "dDUM": {
         "en-US": "[Ryosen]\nUgh! My, my... What am I gonna do with this!? Files, files, files!!! Ahhhhhkk!",
         "pt-BR": "[Ryosen]\nUgh! Ai, ai... O que eu vou fazer com isso? Arquivos, arquivos, arquivos!!! Ahhhhhkk!",
-        "es-ES": "[Ryosen]\n¡Uf! Ay… ¡¿Qué voy a hacer con esto?! ¡Documentos, documentos, documentos! ¡Ahhhh!"
+        "es-ES": "[Ryosen]\n¡Uf! Ay... ¡¿Qué voy a hacer con esto?! ¡Documentos, documentos, documentos! ¡Ahhhh!"
     },
     "dTUM": {
         "en-US": "[Ryosen]\nWhat time is it now? Ugh... This is such a mess!!",
         "pt-BR": "[Ryosen]\nQue horas são agora? Ugh... Isso está uma bagunça!!!",
-        "es-ES": "[Ryosen]\n¿Qué hora es? Uf… ¡Esto es un desastre!"
+        "es-ES": "[Ryosen]\n¿Qué hora es? Uf... ¡Esto es un desastre!"
     },
     "djUM": {
         "en-US": "[Ryosen]\nWhat are they thinking!!? I don't get it. How come I have to work, while those guys from other countries are just praying for a breakthrough, every single day!",
@@ -622,12 +622,12 @@
     "fDUM": {
         "en-US": "[Ryosen]\nUgh. I should watch my mouth. Sorry. You're on our side. I should be polite, but it's just... I'm so stressed out...",
         "pt-BR": "[Ryosen]\nUgh. Eu deveria ter cuidado com o que eu digo. Desculpa. Você está do nosso lado. Eu deveria ser educado, mas é que... Estou tão estressado...",
-        "es-ES": "[Ryosen]\nUf… Debería tener cuidado con lo que digo. Lo siento. Estás de nuestro lado. Debería ser más educado, pero es que… Estoy demasiado estresado…"
+        "es-ES": "[Ryosen]\nUf... Debería tener cuidado con lo que digo. Lo siento. Estás de nuestro lado. Debería ser más educado, pero es que... Estoy demasiado estresado..."
     },
     "fTUM": {
         "en-US": "[Ryosen]\nHow about having some tea here?\nIt's Rafflesia tea from Schwartzwald. Don't even expect taste, it's awful... But what can I do? It's the only thing I've got.",
         "pt-BR": "[Ryosen]\nQue tal tomar um chá aqui?\nÉ chá de Rafflesia de Schwartzwald. Nem espere algo bom, é horrível... Mas fazer o quê? É tudo que eu tenho.",
-        "es-ES": "[Ryosen]\n¿Qué tal si tomamos un poco de té?\nEs té de Rafflesia, de Schwarzwald. No esperes que tenga buen sabor, porque es horrible… ¿Pero qué otra cosa puedo hacer? Es lo único que tengo."
+        "es-ES": "[Ryosen]\n¿Qué tal si tomamos un poco de té?\nEs té de Rafflesia, de Schwarzwald. No esperes que tenga buen sabor, porque es horrible... ¿Pero qué otra cosa puedo hacer? Es lo único que tengo."
     },
     "fjUM": {
         "en-US": "[Ryosen]\nYou must've heard about this, but this is the place where Satan Morroc landed through the crack of dimension.",
@@ -657,7 +657,7 @@
     "gzUM": {
         "en-US": "[Ryosen]\nSo... frankly speaking... Tracking Satan Morroc is not our major concern anymore. Our expedition was formed in such haste that so many things can cause problems in this group.",
         "pt-BR": "[Ryosen]\nEntão... falando francamente... Rastrear o Imperador Morroc não é mais nossa prioridade. Nossa expedição foi formada com tanta pressa que muitas coisas podem causar problemas a esse grupo.",
-        "es-ES": "[Ryosen]\nAsí que… para ser sincero… seguir la pista de Satán Morroc ya no es nuestra mayor preocupación. Esta expedición se formó con tanta prisa que hay mil razones para tener problemas en este grupo."
+        "es-ES": "[Ryosen]\nAsí que... para ser sincero... seguir la pista de Satán Morroc ya no es nuestra mayor preocupación. Esta expedición se formó con tanta prisa que hay mil razones para tener problemas en este grupo."
     },
     "hDUM": {
         "en-US": "[Ryosen]\nPeople don't believe other members of the group except for the ones from their own countries. They're all so sensitive that every little thing hits a nerve.",
@@ -672,7 +672,7 @@
     "hjUM": {
         "en-US": "[Ryosen]\nI mean... the situation here is... just like the taste of this tea. Just awful!",
         "pt-BR": "[Ryosen]\nQuero dizer... a situação aqui é... como o gosto desse chá. Simplesmente horrível!",
-        "es-ES": "[Ryosen]\nEs decir… esta situación es igual que el sabor de este té… ¡Horrible!"
+        "es-ES": "[Ryosen]\nEs decir... esta situación es igual que el sabor de este té... ¡Horrible!"
     },
     "hzUM": {
         "en-US": "[Ryosen]\nOh, I spent too much time talking. I should be working now!",
@@ -682,17 +682,17 @@
     "iDUM": {
         "en-US": "[Ryosen]\nLook at this pile of document files... We're supposed to share all the information within these documents...",
         "pt-BR": "[Ryosen]\nOlha só essa pilha de documentos... Nós deveríamos compartilhar todas as informações contidas neles...",
-        "es-ES": "[Ryosen]\nMira nada más esta montaña de documentos… Se suponía que íbamos a compartir toda la información contenida en ellos…"
+        "es-ES": "[Ryosen]\nMira nada más esta montaña de documentos... Se suponía que íbamos a compartir toda la información contenida en ellos..."
     },
     "iTUM": {
         "en-US": "[Ryosen]\nOh, well... Maybe the same thing's happening at other offices. People from other countries might have hidden some important information behind my back.",
         "pt-BR": "[Ryosen]\nMas... talvez o mesmo esteja acontecendo em outros escritórios. Talvez estejam escondendo informações importantes de mim.",
-        "es-ES": "[Ryosen]\nEn fin… Tal vez en otras oficinas pase lo mismo. Quizá los de otros países hayan escondido información importante a mis espaldas."
+        "es-ES": "[Ryosen]\nEn fin... Tal vez en otras oficinas pase lo mismo. Quizá los de otros países hayan escondido información importante a mis espaldas."
     },
     "ijUM": {
         "en-US": "[Ryosen]\nWhatever... Could you deliver this document file to the Schwartzwald and Arunafeltz researchers?",
         "pt-BR": "[Ryosen]\nTanto faz... Você poderia entregar este arquivo de reunião aos pesquisadores de Schwartzwald e de Arunafeltz?",
-        "es-ES": "[Ryosen]\nNo importa… ¿Podrías llevar este documento a los investigadores de Schwarzwald y Arunafeltz?"
+        "es-ES": "[Ryosen]\nNo importa... ¿Podrías llevar este documento a los investigadores de Schwarzwald y Arunafeltz?"
     },
     "izUM": {
         "en-US": "Why me?",
@@ -707,7 +707,7 @@
     "jTUM": {
         "en-US": "[Ryosen]\n...Eh? Didn't you come to help us?",
         "pt-BR": "[Ryosen]\n...Hein? Você não veio nos ajudar?",
-        "es-ES": "[Ryosen]\n…¿Eh? ¿No viniste a ayudarnos?"
+        "es-ES": "[Ryosen]\n...¿Eh? ¿No viniste a ayudarnos?"
     },
     "jjUM": {
         "en-US": "[Ryosen]\nWhew~ Very good.\nNo one in our research group wants to visit the offices of the other countries!",
@@ -767,7 +767,7 @@
     "mTUM": {
         "en-US": "[Ryosen]\nNice and soft spongecake covered with sweet-tasting whipped cream; lots of fresh strawberries on top! Rune-Midgart's top chef, Charles Orleans makes it himself!!!",
         "pt-BR": "[Ryosen]\nUma massa fofinha, coberta com creme doce e muitos morangos frescos no topo! É feito pessoalmente pelo chef Charles Orleans, o melhor de Rune-Midgard!!!",
-        "es-ES": "[Ryosen]\nEsponjoso, cubierto con crema batida dulce, con un montón de fresas frescas encima… Y lo prepara el mismísimo Charles Orleans, el mejor chef de Rune-Midgard."
+        "es-ES": "[Ryosen]\nEsponjoso, cubierto con crema batida dulce, con un montón de fresas frescas encima... Y lo prepara el mismísimo Charles Orleans, el mejor chef de Rune-Midgard."
     },
     "mjUM": {
         "en-US": "[Ryosen]\nHurry, you must hurry up, or you won't be able to taste this wonderful cake!",
@@ -817,7 +817,7 @@
     "ozUM": {
         "en-US": "[Ryosen]\nHue's so egotistic and stubborn. He thinks he's some kinda royal... and... Hansenne... Whew~ nobody ever gets what he's talking about. He's just ridiculous.",
         "pt-BR": "[Ryosen]\nO Hue é tão egocêntrico e teimoso. Acha que é da realeza... E o Hansenne... Nossa~ ninguém nunca entende o que ele diz. Ele é ridículo.",
-        "es-ES": "[Ryosen]\nHue es un ególatra terco. Se cree de la realeza… Hansenne… uf, nadie entiende lo que dice. Es un caso perdido."
+        "es-ES": "[Ryosen]\nHue es un ególatra terco. Se cree de la realeza... Hansenne... uf, nadie entiende lo que dice. Es un caso perdido."
     },
     "pDUM": {
         "en-US": "[Ryosen]\nThank you for dealing with those guys. I've got to go through the file now. Please give me the Invitation.",
@@ -832,7 +832,7 @@
     "pjUM": {
         "en-US": "[Ryosen]\nHuhuhuhu, what a sight...!",
         "pt-BR": "[Ryosen]\nHuhuhuhu, olha só isso...!",
-        "es-ES": "[Ryosen]\n¡Ja! Qué espectáculo…"
+        "es-ES": "[Ryosen]\n¡Ja! Qué espectáculo..."
     },
     "pzUM": {
         "en-US": "[Ryosen]\nThis autograph here looks like Hue's. See, the letters are all so strongly pressed down with his anger. This one here should be Hansenne's, scrawled without thinking.",
@@ -847,7 +847,7 @@
     "qTUM": {
         "en-US": "[Ryosen]\nThis isn't all because of the different personalities. Lots of other members have similar problems. However, the problem among us three: Hue, Hansenne, and I... is just more visible than others'.",
         "pt-BR": "[Ryosen]\nNão é só por causa das personalidades diferentes. Outros membros têm problemas semelhantes. Mas, entre nós três: Hue, Hansenne e eu... a coisa fica mais evidente.",
-        "es-ES": "[Ryosen]\nNo es solo cuestión de personalidades. Otros miembros tienen problemas similares. Pero lo que pasa entre Hue, Hansenne y yo… es demasiado evidente."
+        "es-ES": "[Ryosen]\nNo es solo cuestión de personalidades. Otros miembros tienen problemas similares. Pero lo que pasa entre Hue, Hansenne y yo... es demasiado evidente."
     },
     "qjUM": {
         "en-US": "[Ryosen]\nSo, here we are. We are finally ordered to have a meeting and supposed to find the way to solve our problem.",
@@ -862,12 +862,12 @@
     "rDUM": {
         "en-US": "[Ryosen]\nIt wasn't our will to have this meeting, and I never imagined they'd sign this thing... Well, I just feel like I've been punched in the head or something.",
         "pt-BR": "[Ryosen]\nEssa reunião não foi ideia nossa, e eu nem imaginei que eles assinariam esse papel... Me sinto como se tivesse levado um soco na cara.",
-        "es-ES": "[Ryosen]\nNinguno de los tres quería hacer esta reunión, y jamás pensé que firmarían esto… Me siento como si me hubieran dado un golpe en la cabeza."
+        "es-ES": "[Ryosen]\nNinguno de los tres quería hacer esta reunión, y jamás pensé que firmarían esto... Me siento como si me hubieran dado un golpe en la cabeza."
     },
     "rTUM": {
         "en-US": "[Ryosen]\nWell, it's already spilled milk. I need to go to that meeting whether I like it or not. Could you please send this to the Official of the United Research?",
         "pt-BR": "[Ryosen]\nMas já era, tarde demais. Tenho que ir nessa reunião, gostando ou não. Pode entregar isso ao Oficial da Pesquisa da Aliança?",
-        "es-ES": "[Ryosen]\nPero bueno… Tengo que asistir a esa reunión, me guste o no. ¿Podrías llevarle esto al oficial del Grupo de Investigación Unida?"
+        "es-ES": "[Ryosen]\nPero bueno... Tengo que asistir a esa reunión, me guste o no. ¿Podrías llevarle esto al oficial del Grupo de Investigación Unida?"
     },
     "rjUM": {
         "en-US": "[Ryosen]\nIn the meantime, I should prepare myself for the meeting.",
@@ -927,7 +927,7 @@
     "uTUM": {
         "en-US": "[Ryosen]\n.....Whew... completely soaked, so loosely binded...torn here and there... I can't even read this thing!",
         "pt-BR": "[Ryosen]\n.....Nossa... completamente encharcado, encadernado de qualquer jeito... rasgado aqui e ali... Nem dá pra ler isso!",
-        "es-ES": "[Ryosen]\nAy… Está empapado, mal encuadernado, todo roto… ¡No se puede ni leer!"
+        "es-ES": "[Ryosen]\nAy... Está empapado, mal encuadernado, todo roto... ¡No se puede ni leer!"
     },
     "ujUM": {
         "en-US": "[Ryosen]\nWhat is he expecting from me with this!!!!",
@@ -942,17 +942,17 @@
     "vDUM": {
         "en-US": "[Ryosen]\n...Oh, this is...",
         "pt-BR": "[Ryosen]\n...Ah, isso é...",
-        "es-ES": "[Ryosen]\nAh, espera…"
+        "es-ES": "[Ryosen]\nAh, espera..."
     },
     "vTUM": {
         "en-US": "[Ryosen]\nThis is the document I requested.\nI thought the document was lost at some bridge and ruined completely, but then...",
         "pt-BR": "[Ryosen]\nEste é o documento que eu pedi.\nAchei que ele tivesse sido perdido numa ponte e totalmente destruído, mas então...",
-        "es-ES": "[Ryosen]\nEste es el documento que solicité.\nPensé que se había perdido en el puente y arruinado por completo, pero…"
+        "es-ES": "[Ryosen]\nEste es el documento que solicité.\nPensé que se había perdido en el puente y arruinado por completo, pero..."
     },
     "vjUM": {
         "en-US": "[Ryosen]\nWow... this document is amazingly neat. Looks like Hue's the one who made this... He's really picky, if you know what I mean... Anyway, it's pretty impressive...",
         "pt-BR": "[Ryosen]\nUau... Esse documento está surpreendentemente limpo. Parece que foi o Hue quem fez isso... Ele é bem perfeccionista, se é que você me entende... De qualquer forma, estou impressionado.",
-        "es-ES": "[Ryosen]\nWow, está increíblemente limpio. Parece que lo hizo Hue… Ese tipo es un perfeccionista insoportable. Pero bueno, hay que reconocer que es impresionante…"
+        "es-ES": "[Ryosen]\nWow, está increíblemente limpio. Parece que lo hizo Hue... Ese tipo es un perfeccionista insoportable. Pero bueno, hay que reconocer que es impresionante..."
     },
     "vzUM": {
         "en-US": "[Ryosen]\nI'm so relieved I got this before the meeting. I've got to go now. I'm running late.",
@@ -992,7 +992,7 @@
     "xjUM": {
         "en-US": "[Ryosen]\nAh..... That... in that meeting room... Is... everything alright now?",
         "pt-BR": "[Ryosen]\nAh..... Isso... naquela sala de reunião... Está tudo bem agora?",
-        "es-ES": "[Ryosen]\nAh… Ese… En esa sala de reuniones… ¿Está… todo bien ahora?"
+        "es-ES": "[Ryosen]\nAh... Ese... En esa sala de reuniones... ¿Está... todo bien ahora?"
     },
     "xzUM": {
         "en-US": "[Ryosen]\nOh, I need to be left alone for a while.",
@@ -1007,12 +1007,12 @@
     "yTUM": {
         "en-US": "[{0}]\nUhhhh...",
         "pt-BR": "[{0}]\nUhhhh...",
-        "es-ES": "[{0}]\nAhhh…"
+        "es-ES": "[{0}]\nAhhh..."
     },
     "yjUM": {
         "en-US": "[Ryosen]\nI know, I know! I went too far!\nI was just so shocked and disappointed at the same time. After all, it was just cake...",
         "pt-BR": "[Ryosen]\nEu sei, eu sei! Eu fui longe demais!\nFiquei tão chocado e decepcionado ao mesmo tempo. Afinal de contas, era apenas um bolo...",
-        "es-ES": "[Ryosen]\n¡Lo sé, lo sé! ¡Me pasé de la raya!\nEs que me sorprendió y decepcionó al mismo tiempo. Pero bueno, solo era un pastel…"
+        "es-ES": "[Ryosen]\n¡Lo sé, lo sé! ¡Me pasé de la raya!\nEs que me sorprendió y decepcionó al mismo tiempo. Pero bueno, solo era un pastel..."
     },
     "yzUM": {
         "en-US": "[Ryosen]\nI wasn't very mature.\nOh, what have I done?\nI should go and apologize.",
@@ -1027,7 +1027,7 @@
     "zTUM": {
         "en-US": "[Ryosen]\nA report...?\nAhhh... the one I left in the meeting room...",
         "pt-BR": "[Ryosen]\nUm relatório...?\nAhhh... aquele que deixei na sala de reuniões...",
-        "es-ES": "[Ryosen]\n¿Un informe…?\nAh… el que dejé en la sala de reuniones…"
+        "es-ES": "[Ryosen]\n¿Un informe...?\nAh... el que dejé en la sala de reuniones..."
     },
     "zjUM": {
         "en-US": "- Ryosen takes the report -\n- and gives a glance -\n- at the memo stuck on it. -",
@@ -1037,7 +1037,7 @@
     "zzUM": {
         "en-US": "[Ryosen]\n...?",
         "pt-BR": "[Ryosen]\n...?",
-        "es-ES": "[Ryosen]\n¿…?"
+        "es-ES": "[Ryosen]\n¿...?"
     },
     "0DUM": {
         "en-US": "[Ryosen]\nOh. What are you talking about?",
@@ -1057,7 +1057,7 @@
     "0zUM": {
         "en-US": "[Ryosen]\nNow that I think of it, I didn't even say 'thank you' to him for restoring my documents...",
         "pt-BR": "[Ryosen]\nPensando bem, nem agradeci a ele por restaurar meus documentos...",
-        "es-ES": "[Ryosen]\nAhora que lo pienso, ni siquiera le di las gracias por recuperar mis documentos…"
+        "es-ES": "[Ryosen]\nAhora que lo pienso, ni siquiera le di las gracias por recuperar mis documentos..."
     },
     "1DUM": {
         "en-US": "[Ryosen]\nOk. I should set up another meeting ASAP. That way, we'd have a chance to get to know each other.",
@@ -1067,12 +1067,12 @@
     "1TUM": {
         "en-US": "[Ryosen]\nSo... Could you do me another favor?\nCould you go see the Official in my stead and set up a meeting?",
         "pt-BR": "[Ryosen]\nEntão... você poderia me fazer mais um favor?\nVocê pode ir até o Oficial no meu lugar e marcar a reunião?",
-        "es-ES": "[Ryosen]\nAsí que… ¿Podrías hacerme otro favor?\n¿Podrías ir a ver al oficial en mi lugar y programar una reunión?"
+        "es-ES": "[Ryosen]\nAsí que... ¿Podrías hacerme otro favor?\n¿Podrías ir a ver al oficial en mi lugar y programar una reunión?"
     },
     "1jUM": {
         "en-US": "[Ryosen]\nOh! And... Here's Rune-Midgart's fresh strawberry cake. This is for you. I'm sorry I haven't even offered you a piece. I was so distracted with stress, I think.",
         "pt-BR": "[Ryosen]\nAh! E... aqui está o Bolo de Morango fresco de Rune-Midgard. É pra você. Desculpe não ter te oferecido um pedaço antes. Acho que o estresse me distraiu demais.",
-        "es-ES": "[Ryosen]\n¡Ah! Y… Aquí tienes un Pastel de fresa de Rune-Midgard recién hecho. Es para ti. Siento no haberte ofrecido ni un trozo antes. Me distrajo demasiado el estrés."
+        "es-ES": "[Ryosen]\n¡Ah! Y... Aquí tienes un Pastel de fresa de Rune-Midgard recién hecho. Es para ti. Siento no haberte ofrecido ni un trozo antes. Me distrajo demasiado el estrés."
     },
     "1zUM": {
         "en-US": "[Ryosen]\nThank you so much for everything you've done. And... please don't forget to do me this last favor; going to the Official and setting up a meeting.",
@@ -1082,7 +1082,7 @@
     "2DUM": {
         "en-US": "[Ryosen]\nI... think I should prepare for the meeting again.",
         "pt-BR": "[Ryosen]\nEu... acho que preciso me preparar para a reunião novamente.",
-        "es-ES": "[Ryosen]\nCreo que… debería volver a prepararme para cuando suceda."
+        "es-ES": "[Ryosen]\nCreo que... debería volver a prepararme para cuando suceda."
     },
     "2TUM": {
         "en-US": "[Ryosen]\nAgain, thank you so much.",
@@ -1092,7 +1092,7 @@
     "2jUM": {
         "en-US": "[Ryosen]\nCould you go see the Official in my stead and set up a meeting? I... think I should prepare for the meeting again.",
         "pt-BR": "[Ryosen]\nVocê pode ir até o Oficial no meu lugar e marcar a reunião? Eu... acho que preciso me preparar novamente.",
-        "es-ES": "[Ryosen]\n¿Podrías ir a ver al oficial por mí y programar una reunión? Creo que… debería volver a prepararme para cuando suceda."
+        "es-ES": "[Ryosen]\n¿Podrías ir a ver al oficial por mí y programar una reunión? Creo que... debería volver a prepararme para cuando suceda."
     },
     "2zUM": {
         "en-US": "[Ryosen]\nThank you so much.",
@@ -1112,12 +1112,12 @@
     "3jUM": {
         "en-US": "[Ryosen]\nOh, but then... Have you ever seen a ^0000FFMystic Horn^000000? I'd love to get one. I heard you can get this thing from a monster named, 'Cornus' found in the field.",
         "pt-BR": "[Ryosen]\nAh, mas então... Você já viu um ^0000FFChifre Místico^000000? Eu adoraria conseguir um. Ouvi dizer que pode ser obtido de um monstro chamado Cornus, encontrado no campo.",
-        "es-ES": "[Ryosen]\nAy, espera… ¿Alguna vez viste un ^0000FFCuerno místico^000000? Me encantaría conseguir uno. Escuché que se puede obtener de un monstruo llamado Cornus, que está en los campos."
+        "es-ES": "[Ryosen]\nAy, espera... ¿Alguna vez viste un ^0000FFCuerno místico^000000? Me encantaría conseguir uno. Escuché que se puede obtener de un monstruo llamado Cornus, que está en los campos."
     },
     "3zUM": {
         "en-US": "[Ryosen]\nOr... do you have any ^0000FFMystic Horns^000000 with you? Of course, I'm not saying that I want it for free. If you give me ^0000FF2 Mystic Horns^000000, I'd give you my Rune-Midgart's Strawberry Cake.",
         "pt-BR": "[Ryosen]\nOu... você tem algum ^0000FFChifre Místico^000000 com você? Claro, não estou pedindo de graça. Se me der ^0000FF2 Chifres Místicos^000000, eu te dou meu Bolo de Morango de Rune-Midgard.",
-        "es-ES": "[Ryosen]\nO… ¿acaso tienes algún ^0000FFCuerno místico^000000 contigo? Por supuesto, no digo que lo quiero gratis. Si me das ^0000FF2 Cuernos místicos^000000, te daré mi Pastel de fresa de Rune-Midgard."
+        "es-ES": "[Ryosen]\nO... ¿acaso tienes algún ^0000FFCuerno místico^000000 contigo? Por supuesto, no digo que lo quiero gratis. Si me das ^0000FF2 Cuernos místicos^000000, te daré mi Pastel de fresa de Rune-Midgard."
     },
     "4DUM": {
         "en-US": "I haven't seen such a thing.",
@@ -1162,7 +1162,7 @@
     "6DUM": {
         "en-US": "[Ryosen]\n...Haha, I'm joking...",
         "pt-BR": "[Ryosen]\n...Haha, estou brincando...",
-        "es-ES": "[Ryosen]\n¡Ja, ja! Estoy bromeando…"
+        "es-ES": "[Ryosen]\n¡Ja, ja! Estoy bromeando..."
     },
     "6TUM": {
         "en-US": "[Ryosen]\nAre you really, honestly, positively sure you want to exchange them for my cake?",
@@ -1177,12 +1177,12 @@
     "6zUM": {
         "en-US": "Yeah... I'll exchange.",
         "pt-BR": "Sim... vamos trocar.",
-        "es-ES": "Sí… Quiero intercambiarlos."
+        "es-ES": "Sí... Quiero intercambiarlos."
     },
     "7DUM": {
         "en-US": "[Ryosen]\nAhhh...",
         "pt-BR": "[Ryosen]\nAhhh...",
-        "es-ES": "[Ryosen]\nAhhh…"
+        "es-ES": "[Ryosen]\nAhhh..."
     },
     "7TUM": {
         "en-US": "[Ryosen]\nCome back anytime if you change your mind.",
@@ -1192,7 +1192,7 @@
     "7jUM": {
         "en-US": "[Ryosen]\nI don't need it!\n... Haha, I'm joking...",
         "pt-BR": "[Ryosen]\nNão quero!\n...Haha, estou brincando...",
-        "es-ES": "[Ryosen]\n¡No lo necesito!\n… ¡Ja, ja! Estoy bromeando…"
+        "es-ES": "[Ryosen]\n¡No lo necesito!\n... ¡Ja, ja! Estoy bromeando..."
     },
     "7zUM": {
         "en-US": "[Ryosen]\nI heard you could extract some magical energy from Mystic Horn and use it. Anyway, thank you!",
@@ -1217,17 +1217,17 @@
     "8zUM": {
         "en-US": "[Ryosen]\nYou know someting... Something comes out from this thing...",
         "pt-BR": "[Ryosen]\nSabe de uma coisa... Tem algo que sai disso aqui...",
-        "es-ES": "[Ryosen]\nSabes… Algo sale de esta cosa…"
+        "es-ES": "[Ryosen]\nSabes... Algo sale de esta cosa..."
     },
     "9DUM": {
         "en-US": "[Ryosen]\nIf anyone tries to talk to you in the middle of the night, you should just walk away... Don't ever look back!!",
         "pt-BR": "[Ryosen]\nSe alguém tentar falar com você no meio da noite, apenas vá embora... Nunca olhe pra trás!!",
-        "es-ES": "[Ryosen]\nSi alguien intenta hablarte en medio de la noche, solo sigue caminando… ¡No mires atrás!"
+        "es-ES": "[Ryosen]\nSi alguien intenta hablarte en medio de la noche, solo sigue caminando... ¡No mires atrás!"
     },
     "9TUM": {
         "en-US": "[Ryosen]\nAnd don't stare at the crack of dimension... or you'd be dragged to somewhere mysterious and never be able to come back...huhuhuhu...",
         "pt-BR": "[Ryosen]\nE não encare a fenda dimensional... ou será arrastado pra algum lugar misterioso e nunca mais voltará... huhuhuhu...",
-        "es-ES": "[Ryosen]\nY nunca mires dentro de la grieta dimensional… o te arrastrará a un lugar misterioso y nunca podrás volver… UuuUuu…"
+        "es-ES": "[Ryosen]\nY nunca mires dentro de la grieta dimensional... o te arrastrará a un lugar misterioso y nunca podrás volver... UuuUuu..."
     },
     "9jUM": {
         "en-US": "Hue",
@@ -1257,7 +1257,7 @@
     "+zUM": {
         "en-US": "Sorry...",
         "pt-BR": "Desculpe...",
-        "es-ES": "Lo siento…"
+        "es-ES": "Lo siento..."
     },
     "/DUM": {
         "en-US": "I came to show you this.",
@@ -1277,12 +1277,12 @@
     "/zUM": {
         "en-US": "[Hue]\n...An invitation to the meeting...?",
         "pt-BR": "[Hue]\n...Um convite para a reunião...?",
-        "es-ES": "[Hue]\n¿Una invitación a la reunión…?"
+        "es-ES": "[Hue]\n¿Una invitación a la reunión...?"
     },
     "ADYM": {
         "en-US": "[Hue]\nHaha. You expect me to accept this? As always, scheduling things as they want, report to us to accept it...",
         "pt-BR": "[Hue]\nHaha. Você espera que eu aceite isso? Como sempre, eles marcam as coisas sem consultar ninguém, mandam a mensagem e pronto...",
-        "es-ES": "[Hue]\nJa, ja. ¿De verdad esperas que acepte esto? Como siempre, programan cosas a su antojo, obligándonos a aceptarlo…"
+        "es-ES": "[Hue]\nJa, ja. ¿De verdad esperas que acepte esto? Como siempre, programan cosas a su antojo, obligándonos a aceptarlo..."
     },
     "ATYM": {
         "en-US": "[Hue]\nI can't think of any other words to describe them, except for this word: RUDE!",
@@ -1292,7 +1292,7 @@
     "AjYM": {
         "en-US": "[Hue]\nNever ever asking for our opinion and always delivering things through some strangers... By the way, no offense...",
         "pt-BR": "[Hue]\nNunca pedem a nossa opinião e sempre mandam tudo por algum estranho... Ah, sem ofensas.",
-        "es-ES": "[Hue]\nNunca nos piden nuestra opinión y siempre nos mandan las cosas a través de extraños… Por cierto, no es mi intención ofenderte…"
+        "es-ES": "[Hue]\nNunca nos piden nuestra opinión y siempre nos mandan las cosas a través de extraños... Por cierto, no es mi intención ofenderte..."
     },
     "AzYM": {
         "en-US": "[Hue]\nThey don't ever take the official route! Rune-Midgartish way of reporting! Very unprofessional!",
@@ -1322,12 +1322,12 @@
     "CDYM": {
         "en-US": "[Hue]\n...Meeting Schedule, on the Xth day, from hh:mm to hh:mm...\nLocation... Rune-Midgart's camp...\nHa! I knew it. Rune-Midgart's camp again!",
         "pt-BR": "[Hue]\n...Agenda da reunião, no dia X, das hh:mm às hh:mm...\nLocal... Acampamento de Rune-Midgard...\nHa! Eu sabia. De novo no acampamento de Rune-Midgard!",
-        "es-ES": "[Hue]\nHorario de la reunión, tal día, de tal hora a tal hora…\nUbicación… campamento de Rune-Midgard…\n¡Ja! Lo sabía. ¡Otra vez en el campamento de Rune-Midgard!"
+        "es-ES": "[Hue]\nHorario de la reunión, tal día, de tal hora a tal hora...\nUbicación... campamento de Rune-Midgard...\n¡Ja! Lo sabía. ¡Otra vez en el campamento de Rune-Midgard!"
     },
     "CTYM": {
         "en-US": "[Hue]\nObjectives... to report on the researching progress of tracking Satan Morroc and the Ash-Vacuum!",
         "pt-BR": "[Hue]\nObjetivos... relatar o progresso da pesquisa sobre a busca do Imperador Morroc e do Ash-Vacuum!",
-        "es-ES": "[Hue]\nObjetivos… presentar avances en la investigación sobre el rastreo de Satán Morroc y el AshVacuum…"
+        "es-ES": "[Hue]\nObjetivos... presentar avances en la investigación sobre el rastreo de Satán Morroc y el AshVacuum..."
     },
     "CjYM": {
         "en-US": "[Hue]\nHaving some time to get to know each other??? Haaaaa!",
@@ -1382,7 +1382,7 @@
     "FDYM": {
         "en-US": "[Hue]\nYou'll experience some hard time talking to Hansenne... It'll be like testing your patience. Good luck!",
         "pt-BR": "[Hue]\nVocê terá dificuldades para falar com Hansenne... Vai ser um verdadeiro teste de paciência. Boa sorte!",
-        "es-ES": "[Hue]\nTe advierto que tratar de hablar con Hansenne… será una verdadera prueba de tu paciencia. ¡Buena suerte!"
+        "es-ES": "[Hue]\nTe advierto que tratar de hablar con Hansenne... será una verdadera prueba de tu paciencia. ¡Buena suerte!"
     },
     "FTYM": {
         "en-US": "[Hue]\nCome on, what's the hurry?\nWait a few more minutes. I didn't finish reading it!",
@@ -1402,7 +1402,7 @@
     "GDYM": {
         "en-US": "[Hue]\nIs it the file Ryosen requested from Hansenne??? The one which is all ruined...?",
         "pt-BR": "[Hue]\nÉ o arquivo que o Ryosen pediu para o Hansenne??? Aquele todo destruído...?",
-        "es-ES": "[Hue]\n¡¿Es el archivo que Ryosen le pidió a Hansenne?! ¿Este desastre?…"
+        "es-ES": "[Hue]\n¡¿Es el archivo que Ryosen le pidió a Hansenne?! ¿Este desastre?..."
     },
     "GTYM": {
         "en-US": "[Hue]\nHa! Tsk,tsk! Is this some kind of joke?! Who'd manage the files like this? I'd never know!",
@@ -1412,12 +1412,12 @@
     "GjYM": {
         "en-US": "[Hue]\nWhew... I can't even stand looking at it! Oh just, give it to me!",
         "pt-BR": "[Hue]\nAff... Nem consigo olhar pra isso! Tá, me dá logo!",
-        "es-ES": "[Hue]\nUf… ¡No puedo ni verlo! Ay, ¡ya dámelo!"
+        "es-ES": "[Hue]\nUf... ¡No puedo ni verlo! Ay, ¡ya dámelo!"
     },
     "GzYM": {
         "en-US": "[Hue]\nToo bad I'm not in Schwartzwald. I could use our document restoring machine back at home... Ugh! Now I gotta do everything manually.",
         "pt-BR": "[Hue]\nPena que não estou em Schwartzwald. Lá eu usaria nossa máquina de restauração de documentos... Ugh! Agora vou ter que fazer tudo na mão.",
-        "es-ES": "[Hue]\nLástima que no estoy en Schwarzwald. Podría usar nuestra máquina restauradora de documentos… ¡Uf! Ahora tengo que hacer todo a mano."
+        "es-ES": "[Hue]\nLástima que no estoy en Schwarzwald. Podría usar nuestra máquina restauradora de documentos... ¡Uf! Ahora tengo que hacer todo a mano."
     },
     "HDYM": {
         "en-US": "[Hue]\nHmmm. It's completely soaked. I should dry this thing first and iron these crumples. Then, I should restore the texts.",
@@ -1432,7 +1432,7 @@
     "HjYM": {
         "en-US": "[Hue]\nHey, hey... don't look at me like that. I know you're not delighted to do these things but think about it, what about me? Why should I restore this garbage?",
         "pt-BR": "[Hue]\nEi, ei... não me olha com essa cara. Sei que você não tá empolgado pra fazer isso, mas e eu? Por que eu teria que restaurar esse lixo?",
-        "es-ES": "[Hue]\nOye, oye… no me mires así. Sé que no te emociona nada hacer esto, pero piensa… ¿y yo qué? ¿Por qué debería restaurar esta porquería?"
+        "es-ES": "[Hue]\nOye, oye... no me mires así. Sé que no te emociona nada hacer esto, pero piensa... ¿y yo qué? ¿Por qué debería restaurar esta porquería?"
     },
     "HzYM": {
         "en-US": "[Hue]\nListen, sometimes, we've got to do things we don't like in order to get things accomplished.",
@@ -1447,7 +1447,7 @@
     "ITYM": {
         "en-US": "[Hue]\nI wonder if the preparation for the meeting's going ok.",
         "pt-BR": "[Hue]\nSerá que os preparativos da reunião estão indo bem...?",
-        "es-ES": "[Hue]\nEspero que los preparativos de la reunión vayan bien…"
+        "es-ES": "[Hue]\nEspero que los preparativos de la reunión vayan bien..."
     },
     "IjYM": {
         "en-US": "[Hue]\nI heard Ryosen say that the file he requested from Hansenne is all ruined. I hope I don't get involved in that trouble.",
@@ -1502,12 +1502,12 @@
     "LDYM": {
         "en-US": "[Hue]\nWell, finally... it's time for the meeting.",
         "pt-BR": "[Hue]\nBem, finalmente... chegou a hora da reunião.",
-        "es-ES": "[Hue]\nBueno… llegó la hora de la reunión."
+        "es-ES": "[Hue]\nBueno... llegó la hora de la reunión."
     },
     "LTYM": {
         "en-US": "[Hue]\nLike it or not... I should go in.",
         "pt-BR": "[Hue]\nQuerendo ou não... Eu tenho que entrar.",
-        "es-ES": "[Hue]\nMe guste o no… debería entrar."
+        "es-ES": "[Hue]\nMe guste o no... debería entrar."
     },
     "LjYM": {
         "en-US": "[Hue]\n...........................",
@@ -1517,7 +1517,7 @@
     "LzYM": {
         "en-US": "[Hue]\n.....Ittt....Is... it still there...?",
         "pt-BR": "[Hue]\n.....E... ele ainda está lá...?",
-        "es-ES": "[Hue]\n¿S-s-sigue ahí…?"
+        "es-ES": "[Hue]\n¿S-s-sigue ahí...?"
     },
     "MDYM": {
         "en-US": "- Looks like he's thinking about something... very seriously. -",
@@ -1537,17 +1537,17 @@
     "MzYM": {
         "en-US": "[Hue]\nI was so bewildered that I lost the chance to say anything... but... I was such a coward to admit that I was the one who caused the trouble.",
         "pt-BR": "[Hue]\nFiquei tão confuso que perdi a chance de dizer qualquer coisa... mas... fui um covarde por não admitir que fui eu quem causou o problema.",
-        "es-ES": "[Hue]\nMe desconcertó tanto que no pude decir nada… pero… Fui un cobarde y no admití que yo lo arruiné."
+        "es-ES": "[Hue]\nMe desconcertó tanto que no pude decir nada... pero... Fui un cobarde y no admití que yo lo arruiné."
     },
     "NDYM": {
         "en-US": "[Hue]\nI must apologize.\nBut then...",
         "pt-BR": "[Hue]\nTenho que me desculpar.\nMas então...",
-        "es-ES": "[Hue]\nTengo que disculparme.\nPero entonces…"
+        "es-ES": "[Hue]\nTengo que disculparme.\nPero entonces..."
     },
     "NTYM": {
         "en-US": "[Hue]\nOh, I'm so embarrassed to see him face to face. Or.. how about...",
         "pt-BR": "[Hue]\nOh, estou tão envergonhado de vê-lo cara a cara. Ou... que tal...",
-        "es-ES": "[Hue]\nAy, qué vergüenza verlo cara a cara. O… espera…"
+        "es-ES": "[Hue]\nAy, qué vergüenza verlo cara a cara. O... espera..."
     },
     "NjYM": {
         "en-US": "[Hue]\nHere, this is the Rune-Midgart's report I took with me when everything went messy in the meeting room. Could you please give this to Ryosen?",
@@ -1557,7 +1557,7 @@
     "NzYM": {
         "en-US": "[Hue]\nI'm sorry to ask you this but... Could you? For this, I'll give you some Schwartzwald's Pineapple Jubilee.",
         "pt-BR": "[Hue]\nDesculpe pedir isso, mas... você poderia? Em troca, eu te darei um pouco de Jubileu de Abacaxi de Schwartzwald.",
-        "es-ES": "[Hue]\nSé que es mucho pedir, pero… ¿Podrías hacerlo? Si lo haces, te daré un poco de Delicia helada de piña de Schwarzwald."
+        "es-ES": "[Hue]\nSé que es mucho pedir, pero... ¿Podrías hacerlo? Si lo haces, te daré un poco de Delicia helada de piña de Schwarzwald."
     },
     "ODYM": {
         "en-US": "[Hue]\nPlease give this report to Ryosen.\nThank you.",
@@ -1572,7 +1572,7 @@
     "OjYM": {
         "en-US": "[Hue]\nI'm sorry to ask you this but.. Could you?",
         "pt-BR": "[Hue]\nDesculpe pedir isso, mas... você poderia?",
-        "es-ES": "[Hue]\nSé que es mucho pedir, pero… ¿Podrías hacerlo?"
+        "es-ES": "[Hue]\nSé que es mucho pedir, pero... ¿Podrías hacerlo?"
     },
     "OzYM": {
         "en-US": "[Hue]\nAh, hello!",
@@ -1652,7 +1652,7 @@
     "SjYM": {
         "en-US": "[Hue]\nAhhhhh...",
         "pt-BR": "[Hue]\nAhhhhh...",
-        "es-ES": "[Hue]\nAhhh…"
+        "es-ES": "[Hue]\nAhhh..."
     },
     "SzYM": {
         "en-US": "[Hue]\nCome back anytime if you change your mind.",
@@ -1722,7 +1722,7 @@
     "WDYM": {
         "en-US": "......",
         "pt-BR": "......",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "WTYM": {
         "en-US": "Come and look at this.",
@@ -1757,7 +1757,7 @@
     "XzYM": {
         "en-US": "[Hansenne]\nThey're so boring. They always report to me after making all the decisions. No sense of humor... so stubborn and strict... They're totally not my style.",
         "pt-BR": "[Hansenne]\nEles são tão chatos. Sempre me reportam depois de tomar todas as decisões. Sem senso de humor... tão teimosos e rígidos... Não têm nada a ver comigo.",
-        "es-ES": "[Hansenne]\nQué aburrido. Siempre me avisan después de tomar todas las decisiones. Sin sentido del humor… tan tercos y estrictos… No son mi estilo."
+        "es-ES": "[Hansenne]\nQué aburrido. Siempre me avisan después de tomar todas las decisiones. Sin sentido del humor... tan tercos y estrictos... No son mi estilo."
     },
     "YDYM": {
         "en-US": "[Hansenne]\nAnyway, give it to me.\nI should have a look at least.",
@@ -1797,32 +1797,32 @@
     "ZzYM": {
         "en-US": "[Hansenne]\nMeeting Schedule... on the Umpth day, from then-o'clock to later-o'clock!\nHaha, hahaha, hahahahahahahahaha.\nMeeting Schedule, shmeating schedule... Beating Schedule!!",
         "pt-BR": "[Hansenne]\nAgenda da reunião... no dia Tal, de então até mais tarde!\nHaha, hahaha, hahahahahahahahahahaha.\nAgenda de reuniões, besteira de reunião... Uma agenda ótima!",
-        "es-ES": "[Hansenne]\nHorario de la reunión, tal día, de tal hora a tal otra.\n¡Ja, ja, ja, ja, ja, ja, ja, ja!\nHorario de la reunión, reunión del horario… ¡Más bien horario de la depresión!"
+        "es-ES": "[Hansenne]\nHorario de la reunión, tal día, de tal hora a tal otra.\n¡Ja, ja, ja, ja, ja, ja, ja, ja!\nHorario de la reunión, reunión del horario... ¡Más bien horario de la depresión!"
     },
     "aDYM": {
         "en-US": "[Hansenne]\nLocation... Rune-Midgart's camp!\nRude-Midgard's camp!?!?\nAre they camping in that place??\nHaha, hahaha, hahahahahahahahaha.",
         "pt-BR": "[Hansenne]\nLocal... acampamento de Rune-Midgard!\nAcampamento de Rude-Midgard!?!?\nEles estão acampando nesse lugar??\nHaha, hahaha, hahahahahahahahaha.",
-        "es-ES": "[Hansenne]\nUbicación… ¡El campamento de Rune-Midgard!\n¡¿El campamento de Rudo-Midgarts?!\n¡¿Están acampando ahí?!\n¡Ja, ja, ja, ja, ja, ja, ja, ja!"
+        "es-ES": "[Hansenne]\nUbicación... ¡El campamento de Rune-Midgard!\n¡¿El campamento de Rudo-Midgarts?!\n¡¿Están acampando ahí?!\n¡Ja, ja, ja, ja, ja, ja, ja, ja!"
     },
     "aTYM": {
         "en-US": "[Hansenne]\nObjectives... to report on the researching progress of tracking Satan Morroc and of the Ash-Vacuum!",
         "pt-BR": "[Hansenne]\nObjetivos... relatar o progresso da pesquisa sobre a busca do Imperador Morroc e do Ash-Vacuum!",
-        "es-ES": "[Hansenne]\nObjetivos… presentar avances en la investigación sobre el rastreo de Satán Morroc y AshVacuum…"
+        "es-ES": "[Hansenne]\nObjetivos... presentar avances en la investigación sobre el rastreo de Satán Morroc y AshVacuum..."
     },
     "ajYM": {
         "en-US": "[Hansenne]\nAsh-Vacuum!\nAsh-Vacuum... what is that, a homemaker's device???\nHaha, hahaha, hahahahahahahahaha.",
         "pt-BR": "[Hansenne]\nAsh-Vacuum!\nAsh-Vacuum... o que é isso, um aparelho de dona de casa???\nHaha, hahaha, hahahahahahahahahahaha.",
-        "es-ES": "[Hansenne]\n¡Ash Vacuum!\nAshVacuum… ¿Qué es eso? ¿Una marca de aspiradora?\n¡Ja, ja, ja, ja, ja, ja, ja, ja!"
+        "es-ES": "[Hansenne]\n¡Ash Vacuum!\nAshVacuum... ¿Qué es eso? ¿Una marca de aspiradora?\n¡Ja, ja, ja, ja, ja, ja, ja, ja!"
     },
     "azYM": {
         "en-US": "[Hansenne]\n...and a very useless one which vacuums only ash!\nHaha, hahaha, hahahahahahahahaha.",
         "pt-BR": "[Hansenne]\n...e um bem inútil, que só aspira cinza!\nHaha, hahaha, hahahahahahahahaha.",
-        "es-ES": "[Hansenne]\nY una muy inútil que solo aspira ceniza…\n¡Ja, ja, ja, ja, ja, ja, ja, ja!"
+        "es-ES": "[Hansenne]\nY una muy inútil que solo aspira ceniza...\n¡Ja, ja, ja, ja, ja, ja, ja, ja!"
     },
     "bDYM": {
         "en-US": "[Hansenne]\nEhhhhh? And what's this? Having some time to get to know each other???...Pffthahahahaha... Aaahahahahaha.",
         "pt-BR": "[Hansenne]\nEhhhhhh? E isso aqui? Ter um tempo para se conhecerem melhor???... Pffthahahahaha... Aaahahahahaha.",
-        "es-ES": "[Hansenne]\n¿Eh? ¿Y qué es esto? Conocernos mejor… ¡Ja, ja, ja! ¡Ja, ja, ja, ja!"
+        "es-ES": "[Hansenne]\n¿Eh? ¿Y qué es esto? Conocernos mejor... ¡Ja, ja, ja! ¡Ja, ja, ja, ja!"
     },
     "bTYM": {
         "en-US": "What's so funny?!",
@@ -1837,7 +1837,7 @@
     "bzYM": {
         "en-US": "[Hansenne]\nHaha...get to know each other... Pfftahahaha.\nHaha, hahaha, hahahahahahahahaha.",
         "pt-BR": "[Hansenne]\nHaha... se conhecerem melhor... Pfftahahaha.\nHaha, hahaha, hahahahahahahahaha.",
-        "es-ES": "[Hansenne]\nJa, ja… Conocernos mejor… ¡Ja, ja, ja, ja!\n¡Ja, ja, ja, ja, ja, ja, ja, ja!"
+        "es-ES": "[Hansenne]\nJa, ja... Conocernos mejor... ¡Ja, ja, ja, ja!\n¡Ja, ja, ja, ja, ja, ja, ja, ja!"
     },
     "cDYM": {
         "en-US": "[Hansenne]\nPhew! Excuse me!\nI can't help it! I can't stand this! What the heck!!! What do we have to know about each other??? Hahaha!",
@@ -1852,7 +1852,7 @@
     "cjYM": {
         "en-US": "[Hansenne]\nPuhhhh-haha, this is unbelievable. Ryosen's a very funny guy. Well, he wouldn't know how funny he is... Haha, you should tell him that. Haha, hahaha, hahahahahahahahaha.",
         "pt-BR": "[Hansenne]\nPuhhhh-haha, isso é inacreditável. Ryosen é um cara muito engraçado. Bem, ele nem sabe o quanto é engraçado... Haha, você devia dizer isso pra ele. Haha, hahaha, hahahahahahahahaha.",
-        "es-ES": "[Hansenne]\n¡Pf! ¡Ja, ja! Esto es increíble. Ryosen es un tipo muy gracioso. Ni siquiera sabe lo divertido que es… ¡Ja, ja! Deberías decírselo. ¡Ja, ja, ja, ja, ja, ja, ja, ja!"
+        "es-ES": "[Hansenne]\n¡Pf! ¡Ja, ja! Esto es increíble. Ryosen es un tipo muy gracioso. Ni siquiera sabe lo divertido que es... ¡Ja, ja! Deberías decírselo. ¡Ja, ja, ja, ja, ja, ja, ja, ja!"
     },
     "czYM": {
         "en-US": "[Hansenne]\nAhhh, wait. I didn't finish reading it.",
@@ -1917,7 +1917,7 @@
     "fzYM": {
         "en-US": "[Hansenne]\nHmmmmm.\nWait for me here. Now, where did I put it...?",
         "pt-BR": "[Hansenne]\nHmmmmm.\nEspere aqui. Agora, onde foi que eu coloquei...?",
-        "es-ES": "[Hansenne]\nMmm…\nEspera aquí. A ver, ¿dónde lo puse…?"
+        "es-ES": "[Hansenne]\nMmm...\nEspera aquí. A ver, ¿dónde lo puse...?"
     },
     "gDYM": {
         "en-US": "[Hansenne]\nHmmmmm~?",
@@ -1947,12 +1947,12 @@
     "hTYM": {
         "en-US": "[Hansenne]\nIt'll take time to make it all over. Although... Hmm... Should I go fishing and catch that thing~? Those pussycats on the South-West can teach us fishing, you know.",
         "pt-BR": "[Hansenne]\nVai levar um tempo pra refazer tudo. Embora... Hmm... Será que eu devia pescar e pegar aquilo~? Aquelas gatinhas do sudoeste podem ensinar a gente a pescar, sabia?",
-        "es-ES": "[Hansenne]\nVa a tomar tiempo hacer uno nuevo. Aunque… Mmm… ¿Y si  intento pescarlo? Los michis del suroeste pueden enseñarnos cómo hacerlo, ¿sabes?"
+        "es-ES": "[Hansenne]\nVa a tomar tiempo hacer uno nuevo. Aunque... Mmm... ¿Y si  intento pescarlo? Los michis del suroeste pueden enseñarnos cómo hacerlo, ¿sabes?"
     },
     "hjYM": {
         "en-US": "[Hansenne]\nMaybe we can catch that document with a fishing rod if we're lucky! Wow!",
         "pt-BR": "[Hansenne]\nTalvez a gente consiga pegar o documento com uma vara de pesca, se tiver sorte! Uau!",
-        "es-ES": "[Hansenne]\nSi tenemos suerte, al vez podamos recuperar el documento con una caña de pescar… ¡Guau!"
+        "es-ES": "[Hansenne]\nSi tenemos suerte, al vez podamos recuperar el documento con una caña de pescar... ¡Guau!"
     },
     "hzYM": {
         "en-US": "[Hansenne]\nCool, you found it!",
@@ -1967,12 +1967,12 @@
     "iTYM": {
         "en-US": "[Hansenne]\nHmmmmm, but then... I'm afraid Ryosen would explode when he sees this! Boom!!!",
         "pt-BR": "[Hansenne]\nHmmmmm, mas... acho que o Ryosen vai explodir quando vir isso! Bum!",
-        "es-ES": "[Hansenne]\nMmm, pero entonces… Me temo que Ryosen explotará cuando lo vea. ¡Bum!"
+        "es-ES": "[Hansenne]\nMmm, pero entonces... Me temo que Ryosen explotará cuando lo vea. ¡Bum!"
     },
     "ijYM": {
         "en-US": "[Hansenne]\nSchwartzwald people have some talent in restoring things like this... Why don't you ask Hue to restore this?",
         "pt-BR": "[Hansenne]\nO pessoal de Schwartzwald tem talento pra restaurar coisas assim... Por que você não pede pro Hue consertar isso?",
-        "es-ES": "[Hansenne]\nLos de Schwarzwald son buenos reparando cosas como esta… ¿Por qué no le pides a Hue que lo restaure?"
+        "es-ES": "[Hansenne]\nLos de Schwarzwald son buenos reparando cosas como esta... ¿Por qué no le pides a Hue que lo restaure?"
     },
     "izYM": {
         "en-US": "[Hansenne]\nHe'd scream so hard and the windows might break. But he'll do it. Haha, hahaha, hahahahahahahahaha.",
@@ -2002,7 +2002,7 @@
     "kDYM": {
         "en-US": "[Hansenne]\nThat friend of yours never gets my jokes... My sense of humor is... just... out of his league!! Haha, hahaha, hahahahahahahahaha.",
         "pt-BR": "[Hansenne]\nEsse seu amigo nunca entende minhas piadas... Meu senso de humor está... além da capacidade dele!! Haha, hahaha, hahahahahahahahaha.",
-        "es-ES": "[Hansenne]\nEse amigo tuyo nunca entiende mis bromas… ¡Mi sentido del humor está… en otro nivel! ¡Ja, ja, ja, ja, ja, ja, ja, ja!"
+        "es-ES": "[Hansenne]\nEse amigo tuyo nunca entiende mis bromas... ¡Mi sentido del humor está... en otro nivel! ¡Ja, ja, ja, ja, ja, ja, ja, ja!"
     },
     "kTYM": {
         "en-US": "[Hansenne]\nHuh? You again?",
@@ -2027,22 +2027,22 @@
     "lTYM": {
         "en-US": "[Hansenne]\nWell... Who cares who did it? It was just a mistake. Nothing's gonna change even if we find out who did it. The cake is still ruined, isn't it?",
         "pt-BR": "[Hansenne]\nBom... Quem liga pra quem fez isso? Foi só um acidente. Nada vai mudar mesmo se a gente descobrir quem foi. O bolo está estragado do mesmo jeito, não está?",
-        "es-ES": "[Hansenne]\nBueno… ¿Y qué importa quién lo hizo? Fue solo un error. Nada cambiará aunque sepamos quién lo hizo. El pastel sigue arruinado, ¿no?"
+        "es-ES": "[Hansenne]\nBueno... ¿Y qué importa quién lo hizo? Fue solo un error. Nada cambiará aunque sepamos quién lo hizo. El pastel sigue arruinado, ¿no?"
     },
     "ljYM": {
         "en-US": "[Hansenne]\nHmmmmm... or... I don't know. Maybe I'm thankful that he restored my garbage looking file...?",
         "pt-BR": "[Hansenne]\nHmmmmm... ou... não sei. Talvez eu esteja grato por ele ter restaurado meu arquivo que parecia lixo...?",
-        "es-ES": "[Hansenne]\nMmm… O… No lo sé. Tal vez es mi forma de agradecer que haya restaurado el documento que estaba destrozado…"
+        "es-ES": "[Hansenne]\nMmm... O... No lo sé. Tal vez es mi forma de agradecer que haya restaurado el documento que estaba destrozado..."
     },
     "lzYM": {
         "en-US": "[{0}]\nBut... You were blamed for it. Aren't you feeling bad? It's unfair!",
         "pt-BR": "[{0}]\nMas... Foi você quem levou a culpa. Você não se sente mal? Isso não é justo!",
-        "es-ES": "[{0}]\nPero… Te culparon a ti. ¿No te sientes mal? ¡Es injusto!"
+        "es-ES": "[{0}]\nPero... Te culparon a ti. ¿No te sientes mal? ¡Es injusto!"
     },
     "mDYM": {
         "en-US": "[Hansenne]\nWell, not really.\nRyosen could be very rough when he gets freaked out, but he will forget about all that soon...",
         "pt-BR": "[Hansenne]\nBom, na verdade, não.\nRyosen pode ser bem bruto quando se apavora, mas ele logo esquece tudo isso...",
-        "es-ES": "[Hansenne]\nBueno, no tanto.\nRyosen puede ser muy brusco cuando se altera, pero pronto se le olvida…"
+        "es-ES": "[Hansenne]\nBueno, no tanto.\nRyosen puede ser muy brusco cuando se altera, pero pronto se le olvida..."
     },
     "mTYM": {
         "en-US": "[Hansenne]\nI understand. He was upset.",
@@ -2072,12 +2072,12 @@
     "njYM": {
         "en-US": "[Hansenne]\nBut the thing is that... the relationship between Ryosen and Hue isn't looking good at all. Why don't you help them get along with each other?",
         "pt-BR": "[Hansenne]\nMas a questão é que... o relacionamento entre Ryosen e Hue não está nada bom. Por que você não ajuda eles a se entenderem?",
-        "es-ES": "[Hansenne]\nPero el caso es que… la relación entre Ryosen y Hue no pinta nada bien. ¿Por qué no los ayudas a llevarse mejor?"
+        "es-ES": "[Hansenne]\nPero el caso es que... la relación entre Ryosen y Hue no pinta nada bien. ¿Por qué no los ayudas a llevarse mejor?"
     },
     "nzYM": {
         "en-US": "[Hansenne]\nSorry for asking these things of you. And... here's Arunafeltz's Desert Sandwich. It's nothing special but... tastes pretty good.",
         "pt-BR": "[Hansenne]\nDesculpa por te pedir essas coisas. E... aqui está o Sanduíche do Deserto de Arunafeltz. Não é nada demais, mas... tem um gosto até bom.",
-        "es-ES": "[Hansenne]\nPerdón por pedirte esto. Y… aquí está el Sándwich del desierto de Arunafeltz. No es nada especial pero… está bastante bueno."
+        "es-ES": "[Hansenne]\nPerdón por pedirte esto. Y... aquí está el Sándwich del desierto de Arunafeltz. No es nada especial pero... está bastante bueno."
     },
     "oDYM": {
         "en-US": "[Hansenne]\nThank you for doing me a favor. Haha, hahaha, hahahahahahahahaha.",
@@ -2102,7 +2102,7 @@
     "pDYM": {
         "en-US": "[Hansenne]\nAnyways.. I wonder if you have seen a ^0000FFPeaked Hat^000000. I heard the monster, 'Tatacho' has that hat.",
         "pt-BR": "[Hansenne]\nDe qualquer forma... será que você já viu um ^0000FFChapéu Pontudo^000000? Ouvi dizer que o monstro 'Tatacho' tem esse chapéu.",
-        "es-ES": "[Hansenne]\nEn fin… Me pregunto si viste un ^0000FFSombrero puntiagudo^000000. Oí que los Tatacho llevan esos sombrero."
+        "es-ES": "[Hansenne]\nEn fin... Me pregunto si viste un ^0000FFSombrero puntiagudo^000000. Oí que los Tatacho llevan esos sombrero."
     },
     "pTYM": {
         "en-US": "[Hansenne]\nCan you give me a ^0000FFPeaked Hat^000000 if you have any? I'm not asking for free. For ^0000FF2 Peaked Hats^000000, I'll give you my special dessert!",
@@ -2127,7 +2127,7 @@
     "qTYM": {
         "en-US": "[Hansenne]\n...Huh?",
         "pt-BR": "[Hansenne]\n...Huh?",
-        "es-ES": "[Hansenne]\n¿…Eh?"
+        "es-ES": "[Hansenne]\n¿...Eh?"
     },
     "qjYM": {
         "en-US": "[Hansenne]\nOh, it looks like you already have the Arunafeltz's Desert Sandwich.",

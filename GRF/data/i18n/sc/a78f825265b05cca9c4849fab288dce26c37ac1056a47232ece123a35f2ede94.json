@@ -57,7 +57,7 @@
     "azKtCw": {
         "en-US": "[Storekeeper]\nOh... That's a lot to carry.\nReduce the quantity or lighten your load.",
         "pt-BR": "[Almoxarife]\nAh... É muita coisa para carregar.\nReduza a quantidade ou alivie seu peso.",
-        "es-ES": "[Almacenero]\nOh… Eso es mucho para cargar.\nReduce la cantidad o aligera tu carga."
+        "es-ES": "[Almacenero]\nOh... Eso es mucho para cargar.\nReduce la cantidad o aligera tu carga."
     },
     "bDKtCw": {
         "en-US": "[Storekeeper]\nThat's not enough to pay for.\nGet more Nyangvines.",
@@ -85,14 +85,14 @@
         "es-ES": "[Almacenero]\nAquí tienes.\nMe diste {0} Fruta Silvervines\ny recibiste {1} tarjetas."
     },
     "cTKtCw": {
-        "en-US": "[Storekeeper]\nThe Cat Hand Organization has been established here for a while.\nWe tried to create a shopping district, but…\n…the Kafra Corporation and Zonda were already here.",
+        "en-US": "[Storekeeper]\nThe Cat Hand Organization has been established here for a while.\nWe tried to create a shopping district, but...\n...the Kafra Corporation and Zonda were already here.",
         "pt-BR": "[Almoxarife]\nA Agência Pata de Gato está estabelecida aqui há algum tempo.\nTentamos criar um distrito comercial, mas...\n...a Corporação Kafra e a Zonda já estavam aqui.",
-        "es-ES": "[Almacenero]\nLa Organización Pata de Gato lleva tiempo establecida aquí.\nIntentamos crear un distrito comercial, pero…\n…la Corporación Kafra y Zonda ya estaban aquí."
+        "es-ES": "[Almacenero]\nLa Organización Pata de Gato lleva tiempo establecida aquí.\nIntentamos crear un distrito comercial, pero...\n...la Corporación Kafra y Zonda ya estaban aquí."
     },
     "cjKtCw": {
-        "en-US": "[Storekeeper]\nIt's very difficult with so much competition…\nSo we looked for places that didn't offer their services.",
+        "en-US": "[Storekeeper]\nIt's very difficult with so much competition...\nSo we looked for places that didn't offer their services.",
         "pt-BR": "[Almoxarife]\nÉ muito difícil com tanta concorrência...\nEntão, procuramos lugares que não ofereciam os serviços deles.",
-        "es-ES": "[Almacenero]\nEs muy difícil con tanta competencia…\nAsí que buscamos lugares donde no prestaran sus servicios."
+        "es-ES": "[Almacenero]\nEs muy difícil con tanta competencia...\nAsí que buscamos lugares donde no prestaran sus servicios."
     },
     "czKtCw": {
         "en-US": "[Storekeeper]\nMeanwhile, we managed to develop a storage service similar to the Kafra Corporation's.",
@@ -105,9 +105,9 @@
         "es-ES": "[Almacenero]\n¡Así nació el Almacén de Pata de Gato!\n¡Con esta tarjeta, puedes abrir tu almacén en cualquier lugar!"
     },
     "dTKtCw": {
-        "en-US": "[Storekeeper]\nSo you can enjoy your adventures without worrying about the weight of your backpack…!\nIt's great to have a service like this!",
+        "en-US": "[Storekeeper]\nSo you can enjoy your adventures without worrying about the weight of your backpack...!\nIt's great to have a service like this!",
         "pt-BR": "[Almoxarife]\nAssim, você pode aproveitar suas aventuras sem se preocupar com o peso da sua mochila...!\nÉ ótimo ter um serviço como este!",
-        "es-ES": "[Almacenero]\n¡Así puedes disfrutar tus aventuras sin preocuparte por el peso de tu mochila…!\n¡Es estupendo contar con un servicio como este!"
+        "es-ES": "[Almacenero]\n¡Así puedes disfrutar tus aventuras sin preocuparte por el peso de tu mochila...!\n¡Es estupendo contar con un servicio como este!"
     },
     "djKtCw": {
         "en-US": "[Storekeeper]\nFor this service, we charge a Cat Kiwi or a Meowfruit.\nThey're delicious fruits for us cats!\nYou should try them!",
@@ -115,9 +115,9 @@
         "es-ES": "[Almacenero]\nPor este servicio, cobramos un Fruta Silvervine o un Miaufruto.\n¡Son frutas deliciosas para nosotros los gatos!\n¡Deberías probarlas!"
     },
     "dzKtCw": {
-        "en-US": "[Storekeeper]\nYou don't know what you're missing…",
+        "en-US": "[Storekeeper]\nYou don't know what you're missing...",
         "pt-BR": "[Almoxarife]\nVocê não sabe o que está perdendo...",
-        "es-ES": "[Almacenero]\nNo sabes lo que te pierdes…"
+        "es-ES": "[Almacenero]\nNo sabes lo que te pierdes..."
     },
     "eDKtCw": {
         "en-US": "[Storekeeper]\nFor this service, we charge a Cat Kiwi or a Meowfruit.\nThey're delicious fruits for us cats!\nYou should try them!",

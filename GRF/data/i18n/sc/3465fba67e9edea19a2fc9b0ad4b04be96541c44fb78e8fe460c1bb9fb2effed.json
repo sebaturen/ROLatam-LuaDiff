@@ -167,7 +167,7 @@
     "oaS/Bw": {
         "en-US": "Err, they do...?",
         "pt-BR": "...Er...?",
-        "es-ES": "…¿Eh…?"
+        "es-ES": "...¿Eh...?"
     },
     "oqS/Bw": {
         "en-US": "For real?",
@@ -407,7 +407,7 @@
     "0aS/Bw": {
         "en-US": "[Kaya]\nWho are you?",
         "pt-BR": "[Kaya]\nEntão... quem é você?",
-        "es-ES": "[Kaya]\nEntonces… ¿quién es usted?"
+        "es-ES": "[Kaya]\nEntonces... ¿quién es usted?"
     },
     "0qS/Bw": {
         "en-US": "[Leizi]\nI told you. \nAre you so forgetful?",
@@ -432,7 +432,7 @@
     "1qS/Bw": {
         "en-US": "[Leizi]\nWhy? \nWere you telling him something I shouldn't know? \nWhat's wrong with eavesdropping? \nI told you not to try too hard. \nIt's futile.",
         "pt-BR": "[Nalandro]\nPor quê? Tem coisa que eu não posso saber? Aff...",
-        "es-ES": "[Lazy]\n¿Por qué? ¿Hay algo que no deba saber? Bah…"
+        "es-ES": "[Lazy]\n¿Por qué? ¿Hay algo que no deba saber? Bah..."
     },
     "16S/Bw": {
         "en-US": "Just go away!",
@@ -567,12 +567,12 @@
     "8aS/Bw": {
         "en-US": "[Kaya]\n... Please give me ^0000CDsome time to think^000000.",
         "pt-BR": "[Kaya]\n... ^0000CDPor favor, dê-me tempo para pensar^000000.",
-        "es-ES": "[Kaya]\n… ^0000CDPor favor, deme tiempo para pensarlo^000000."
+        "es-ES": "[Kaya]\n... ^0000CDPor favor, deme tiempo para pensarlo^000000."
     },
     "8qS/Bw": {
         "en-US": "[Kaya]\nI'm having a hard time accepting Mr. Mace's opinion, but I do agree with you, Adventurer. \nI just need some time to think.",
         "pt-BR": "[Kaya]\nÉ difícil acreditar no Calango, mas o que você disse está certo. Eu vou ter que pensar um pouco...",
-        "es-ES": "[Kaya]\nEs difícil creer en Listillo, pero lo que dijiste es cierto. Tendré que pensarlo un poco…"
+        "es-ES": "[Kaya]\nEs difícil creer en Listillo, pero lo que dijiste es cierto. Tendré que pensarlo un poco..."
     },
     "86S/Bw": {
         "en-US": "[Kaya]\nI thought we've decided to go to the Einbroch Airport. \nWe'd better hurry.",
@@ -597,7 +597,7 @@
     "96S/Bw": {
         "en-US": "[Kaya]\nAdventurer, I've agreed to go and investigate with him as you suggested. I don't know if I've made the right decision, though.",
         "pt-BR": "[Kaya]\nComo você sugeriu, vou acompanhar Nalandro nas investigações, mas não sei se fiz a escolha certa...",
-        "es-ES": "[Kaya]\nComo sugeriste, acompañaré a Lazy en la investigación, pero no sé si tomé la decisión correcta…"
+        "es-ES": "[Kaya]\nComo sugeriste, acompañaré a Lazy en la investigación, pero no sé si tomé la decisión correcta..."
     },
     "+KS/Bw": {
         "en-US": "[Leizi]\nArgh, this is so frustrating! \nAdventurer, will you listen to me and tell me which one of us is right? \nGuess what that nincompoop over there told me.",
@@ -622,7 +622,7 @@
     "/KS/Bw": {
         "en-US": "[Leizi]\nYes. It's a ^0000CDlist of Rekenber employees who have disappeared^000000 without a trace. \nI've added as many people as I could find, but...",
         "pt-BR": "[Nalandro]\nSim. É um documento sobre empregados da corporação que ^0000CDdesapareceram misteriosamente^000000. Eu tentei adicionar mais nomes, mas...",
-        "es-ES": "[Lazy]\nSí. Es un documento sobre empleados de la corporación que ^0000CDdesaparecieron misteriosamente^000000. Intenté añadir más nombres, pero…"
+        "es-ES": "[Lazy]\nSí. Es un documento sobre empleados de la corporación que ^0000CDdesaparecieron misteriosamente^000000. Intenté añadir más nombres, pero..."
     },
     "/aS/Bw": {
         "en-US": "But what?",
@@ -697,7 +697,7 @@
     "C6W/Bw": {
         "en-US": "I don't think so.",
         "pt-BR": "Não...",
-        "es-ES": "No…"
+        "es-ES": "No..."
     },
     "DKW/Bw": {
         "en-US": "I know, right?",
@@ -712,7 +712,7 @@
     "DqW/Bw": {
         "en-US": "Mm...",
         "pt-BR": "...Não...",
-        "es-ES": "…No…"
+        "es-ES": "...No..."
     },
     "D6W/Bw": {
         "en-US": "What do you have to think? Am I not the most trustworthy person you know? You've seen me for so long!",
@@ -877,7 +877,7 @@
     "L6W/Bw": {
         "en-US": "The answer has already been decided. All you have to do is just say it.",
         "pt-BR": "Ai ai esses empreendedores...",
-        "es-ES": "Ay, ay, estos empresarios…"
+        "es-ES": "Ay, ay, estos empresarios..."
     },
     "MKW/Bw": {
         "en-US": "[Kaya]\nListen to me. \nI was the one who requested help to the government. \nNow that it's agreed to help, I know that I must cooperate with you as best as I can.",
@@ -912,7 +912,7 @@
     "NqW/Bw": {
         "en-US": "No, nothing. I was just praising you, Adventurer.",
         "pt-BR": "Deixa eu zoar...",
-        "es-ES": "Déjame bromear…"
+        "es-ES": "Déjame bromear..."
     },
     "N6W/Bw": {
         "en-US": "[Leizi]\nAlright, it's all water under the bridge. \nLet's do this, Mr. Vice President.",
@@ -937,7 +937,7 @@
     "O6W/Bw": {
         "en-US": "[Leizi]\nAh, because you're a ^0000CDVIP^000000, huh? Got it. \nI'll serve you with utmost sincerity, Mr. VIP.",
         "pt-BR": "[Nalandro]\nAh, quer ser ^0000CDVIP^000000? Tá bom... Vou tratá-lo com o maior respeito, VIP.",
-        "es-ES": "[Lazy]\nAh, ¿quiere ser ^0000CDVIP^000000? Está bien… Lo trataré con el mayor respeto, VIP."
+        "es-ES": "[Lazy]\nAh, ¿quiere ser ^0000CDVIP^000000? Está bien... Lo trataré con el mayor respeto, VIP."
     },
     "PKW/Bw": {
         "en-US": "[Kaya]\nDo you enjoy provoking others?",
@@ -962,7 +962,7 @@
     "QKW/Bw": {
         "en-US": "[Kaya]\n... Second, I want someone else I can trust to be included ^0000CDin the party^000000.",
         "pt-BR": "[Kaya]\n...A segunda condição é que eu quero ^0000CDuma pessoa em quem eu possa confiar^000000.",
-        "es-ES": "[Kaya]\n…La segunda condición es que quiero ^0000CDa una persona en quien pueda confiar^000000."
+        "es-ES": "[Kaya]\n...La segunda condición es que quiero ^0000CDa una persona en quien pueda confiar^000000."
     },
     "QaW/Bw": {
         "en-US": "[Leizi]\nWhy?",
@@ -982,7 +982,7 @@
     "RKW/Bw": {
         "en-US": "Boohoo! Mother, this is how I'm treated by others!",
         "pt-BR": "Eu mereço...",
-        "es-ES": "Me lo merezco…"
+        "es-ES": "Me lo merezco..."
     },
     "RaW/Bw": {
         "en-US": "[Ace]\nI can come with you!",
@@ -1002,7 +1002,7 @@
     "SKW/Bw": {
         "en-US": "[Leizi]\nWhat? \nYou? \nAdventurer? \nWhen did you become such an admirable character, volunteering for trouble like this?",
         "pt-BR": "[Nalandro]\nO quê? Você? ...Nossa! Quem diria que em algum ponto da história você iria se meter!",
-        "es-ES": "[Lazy]\n¿Qué? ¿Tú? …¡vaya! ¿Quién diría que en algún punto de la historia te meterías en esto?"
+        "es-ES": "[Lazy]\n¿Qué? ¿Tú? ...¡vaya! ¿Quién diría que en algún punto de la historia te meterías en esto?"
     },
     "SaW/Bw": {
         "en-US": "So admirable!",
@@ -1057,7 +1057,7 @@
     "U6W/Bw": {
         "en-US": "[Kaya]\n... Then, I'll take Miss Ace with me.",
         "pt-BR": "[Kaya]\n... Então, eu vou levar a senhorita Ace comigo.",
-        "es-ES": "[Kaya]\n…Entonces llevaré conmigo a la señorita Ace."
+        "es-ES": "[Kaya]\n...Entonces llevaré conmigo a la señorita Ace."
     },
     "VKW/Bw": {
         "en-US": "[Leizi]\nWow, that was so efficient of you! \nI like your quick decision-making ability. \nAlright, let's head out to the ^0000CDEinbroch^000000 <NAVI>[Airport]<INFO>einbroch,51,197,0,101,0</INFO></NAVI> now.",
@@ -1122,7 +1122,7 @@
     "YKW/Bw": {
         "en-US": "Mr. Mace... Everything you said is right, and curiously irritating.",
         "pt-BR": "O que o Calango disse é verdade... e ofensivo.",
-        "es-ES": "Lo que dijo Listillo es cierto… y ofensivo."
+        "es-ES": "Lo que dijo Listillo es cierto... y ofensivo."
     },
     "YaW/Bw": {
         "en-US": "Isn't that right?",
@@ -1167,7 +1167,7 @@
     "aaW/Bw": {
         "en-US": "[Leizi]\nLet's see... ^0000CDPatrick Kaufman^000000. \nMm... Perhaps we can call him ^0000CDPatsy^000000.",
         "pt-BR": "[Nalandro]\nVamos ver... senhor ^0000CDPatrick Kaufman^000000. Ah, vamos chamá-lo de PaKa, não melhor, ^0000CDPaca^000000.",
-        "es-ES": "[Lazy]\nVeamos… señor ^0000CDPatrick Kaufman^000000. Ah, llamémoslo PaKa, no, mejor ^0000CDPaca^000000."
+        "es-ES": "[Lazy]\nVeamos... señor ^0000CDPatrick Kaufman^000000. Ah, llamémoslo PaKa, no, mejor ^0000CDPaca^000000."
     },
     "aqW/Bw": {
         "en-US": "Don't play with people's names!",
@@ -1192,7 +1192,7 @@
     "bqW/Bw": {
         "en-US": "Ooo, that makes sense.",
         "pt-BR": "Pois é...",
-        "es-ES": "Eso…"
+        "es-ES": "Eso..."
     },
     "b6W/Bw": {
         "en-US": "[Leizi]\nNow, shall we learn more about Patsy? \nHe's from the east side of Lighthalzen, popularly known as the ^0000CDSlum^000000. \nMr. VIP, you know this already, right? \nYou've read his file hundreds of times.",
@@ -1272,7 +1272,7 @@
     "fqW/Bw": {
         "en-US": "[Kaya]\nWhat are you doing? \nI thought we were investigating, not playing.",
         "pt-BR": "[Kaya]\n... Você é louco?",
-        "es-ES": "[Kaya]\n…¿Estás loco?"
+        "es-ES": "[Kaya]\n...¿Estás loco?"
     },
     "f6W/Bw": {
         "en-US": "Mr. Vice President, it's not too late to change your mind.",
@@ -1377,7 +1377,7 @@
     "k6W/Bw": {
         "en-US": "First class? Last time, the small hole--",
         "pt-BR": "Naquela vez era um bueiro...",
-        "es-ES": "La otra vez fue un alcantarillado…"
+        "es-ES": "La otra vez fue un alcantarillado..."
     },
     "lKW/Bw": {
         "en-US": "[Leizi]\nShh! \nWe're on an official mission this time. \nWhy not fly first class while we're at it? \nAdventurer, haven't you flied first class before?",
@@ -1447,7 +1447,7 @@
     "oaW/Bw": {
         "en-US": "[Kaya]\nI get that we're here to investigate. \nCould you please stop the farce?",
         "pt-BR": "[Kaya]\nViemos investigar... você pode parar de fazer essas coisas ridículas?",
-        "es-ES": "[Kaya]\nVinimos a investigar… ¿puedes dejar de hacer estas cosas ridículas?"
+        "es-ES": "[Kaya]\nVinimos a investigar... ¿puedes dejar de hacer estas cosas ridículas?"
     },
     "oqW/Bw": {
         "en-US": "[Leizi]\nMr. VIP, you only had two conditions, and I'm following both.",
@@ -1457,7 +1457,7 @@
     "o6W/Bw": {
         "en-US": "I'm doing everything you asked me to.",
         "pt-BR": "Se quiser uma terceira condição...",
-        "es-ES": "Si quiere una tercera condición…"
+        "es-ES": "Si quiere una tercera condición..."
     },
     "pKW/Bw": {
         "en-US": "[Leizi]\nOfficially, we're on a tour around Schwarzwald, and tours are all about finding beautiful places in hidden corners.",
@@ -1562,7 +1562,7 @@
     "uKW/Bw": {
         "en-US": "I'm glad we don't have to use small holes.",
         "pt-BR": "... Pelo menos não vou entrar num bueiro como da última vez.",
-        "es-ES": "…Al menos no entraré por una alcantarilla como la última vez."
+        "es-ES": "...Al menos no entraré por una alcantarilla como la última vez."
     },
     "uaW/Bw": {
         "en-US": "[Leizi]\nNow, <NAVI>[this way]<INFO>lighthalzen,316,227,0,101,0</INFO></NAVI>.",
@@ -1647,7 +1647,7 @@
     "yaW/Bw": {
         "en-US": "[Mother]\nDo I know you...?",
         "pt-BR": "[Mãe]\nEu conheço você...?",
-        "es-ES": "[Madre]\n¿Yo te conozco…?"
+        "es-ES": "[Madre]\n¿Yo te conozco...?"
     },
     "yqW/Bw": {
         "en-US": "[Father]\nAh, you came a while here, looking for Patrick, right?",
@@ -1667,7 +1667,7 @@
     "zaW/Bw": {
         "en-US": "[Mother]\nAh, right! So, did you see my Pat?",
         "pt-BR": "[Mãe]\nVerdade! Então... você viu meu Patrick?",
-        "es-ES": "[Madre]\n¡Cierto! Entonces… ¿viste a mi Patrick?"
+        "es-ES": "[Madre]\n¡Cierto! Entonces... ¿viste a mi Patrick?"
     },
     "zqW/Bw": {
         "en-US": "[Father]\nYou know he's fine, working. \nWhy are you acting as if you're never going to see him again?",
@@ -1697,7 +1697,7 @@
     "06W/Bw": {
         "en-US": "Fight? Who's fighting?",
         "pt-BR": "Tá bom...",
-        "es-ES": "Está bien…"
+        "es-ES": "Está bien..."
     },
     "1KW/Bw": {
         "en-US": "[Leizi]\nI came with one of your son's ^0000CDbosses^000000. \nAs I told you before, we're here to check on the families of the specially recruited employees.",
@@ -1742,7 +1742,7 @@
     "3KW/Bw": {
         "en-US": "[Father]\nOh, welcome to our humble home! \nAnd thank you for giving our son a job. \nBecause of you, my family doesn't have to worry about not having food anymore. \nThank you, thank you so much!",
         "pt-BR": "[Pai]\nAh, obrigado por nos visitar, desculpe a bagunça... Graças ao emprego do meu filho, estamos conseguindo nos virar sem preocupações. Obrigado, obrigado.",
-        "es-ES": "[Padre]\nAh, gracias por visitarnos. Disculpe el desorden… Gracias al trabajo de mi hijo, estamos saliendo adelante sin preocupaciones. Gracias, gracias."
+        "es-ES": "[Padre]\nAh, gracias por visitarnos. Disculpe el desorden... Gracias al trabajo de mi hijo, estamos saliendo adelante sin preocupaciones. Gracias, gracias."
     },
     "3aW/Bw": {
         "en-US": "[Father]\nOur son may be just one of many employees you have, but he's really good at fixing things.",
@@ -1752,7 +1752,7 @@
     "3qW/Bw": {
         "en-US": "[Father]\nIt was his hands that landed him his job and have been feeding us all. \nHe's my pride and joy.",
         "pt-BR": "[Pai]\nGraças à ele, conseguimos nos alimentar, temos teto para morar... Meu filho me enche de orgulho.",
-        "es-ES": "[Padre]\nGracias a él tenemos comida y un techo donde vivir… Mi hijo me llena de orgullo."
+        "es-ES": "[Padre]\nGracias a él tenemos comida y un techo donde vivir... Mi hijo me llena de orgullo."
     },
     "36W/Bw": {
         "en-US": "[Mother]\nWell, look what good it has done him. \nNow, we don't even know if he's alive.",
@@ -1767,7 +1767,7 @@
     "4aW/Bw": {
         "en-US": "[Father]\nI told him not to cause trouble at the workplace and do as his superiors say.",
         "pt-BR": "[Pai]\nA última vez que falei com ele, foi para pedir que ele seja obediente aos seus chefes...",
-        "es-ES": "[Padre]\nLa última vez que hablé con él fue para pedirle que obedeciera a sus jefes…"
+        "es-ES": "[Padre]\nLa última vez que hablé con él fue para pedirle que obedeciera a sus jefes..."
     },
     "4qW/Bw": {
         "en-US": "[Father]\nIf you're happy with him for anything, you just tell him, and he'll listen to you. \nHe's always been a good boy since he was young.",
@@ -1782,7 +1782,7 @@
     "5KW/Bw": {
         "en-US": "What vacation days? He's lucky he's got such a great job!",
         "pt-BR": "Amor...",
-        "es-ES": "Amor…"
+        "es-ES": "Amor..."
     },
     "5aW/Bw": {
         "en-US": "A great job or not, he can't work without resting.",
@@ -1792,7 +1792,7 @@
     "5qW/Bw": {
         "en-US": "[Kaya]\nWe don't have restrictions on making personal contact. \nWe also have a vacation policy that meets the government's recommendation. \nHere, it says your son has used all his vacation days.",
         "pt-BR": "[Kaya]\nNão proibimos o contato com as famílias. Nós damos férias como diz a lei... e meus registros dizem que seu filho cumpriu todas as férias.",
-        "es-ES": "[Kaya]\nNo prohibimos el contacto con las familias. Damos vacaciones según la ley… y mis registros indican que su hijo tomó todas."
+        "es-ES": "[Kaya]\nNo prohibimos el contacto con las familias. Damos vacaciones según la ley... y mis registros indican que su hijo tomó todas."
     },
     "56W/Bw": {
         "en-US": "[Father]\nWhat? \nDid he go on a vacation instead of coming home?",
@@ -1802,12 +1802,12 @@
     "6KW/Bw": {
         "en-US": "[Mother]\nHe would never do that. \nHe looked forward to taking a trip with us on his ^0000CDfirst vacation^000000.",
         "pt-BR": "[Mãe]\nEle não é assim... Ele nos prometeu que ^0000CDlevaria a gente para viajar nas primeiras férias dele^000000.",
-        "es-ES": "[Madre]\nÉl no es así… Nos prometió que ^0000CDnos llevaría de viaje en sus primeras vacaciones^000000."
+        "es-ES": "[Madre]\nÉl no es así... Nos prometió que ^0000CDnos llevaría de viaje en sus primeras vacaciones^000000."
     },
     "6aW/Bw": {
         "en-US": "[Father]\nAh, but things are different when you work. \nMaybe he spent them with his coworkers. \nHe's too far away from us, anyway.",
         "pt-BR": "[Pai]\nAh, várias coisas podem acontecer quando você entra em um emprego novo... Ele pode ter conhecido alguém e ficado por lá!",
-        "es-ES": "[Padre]\nBueno, pueden pasar muchas cosas cuando entras a un trabajo nuevo… ¡Puede haber conocido a alguien y quedarse allí!"
+        "es-ES": "[Padre]\nBueno, pueden pasar muchas cosas cuando entras a un trabajo nuevo... ¡Puede haber conocido a alguien y quedarse allí!"
     },
     "6qW/Bw": {
         "en-US": "[Leizi]\nAh, Mr. and Mrs. Kaufman, please calm down. \nWe get that you want to hear from your son.",
@@ -1822,7 +1822,7 @@
     "7KW/Bw": {
         "en-US": "[Mother]\nYes, we'll do that. Please talk to him. I'm worried that something bad might have happened to him.",
         "pt-BR": "[Mãe]\nSim, por favor! Tenho a sensação de que algo ruim aconteceu com ele...",
-        "es-ES": "[Madre]\n¡Sí, por favor! Tengo la sensación de que algo malo le pasó…"
+        "es-ES": "[Madre]\n¡Sí, por favor! Tengo la sensación de que algo malo le pasó..."
     },
     "7aW/Bw": {
         "en-US": "[Father]\nGeez, stop worrying so much! Nothing bad happened to him. He's just too busy!",
@@ -1957,7 +1957,7 @@
     "B6a/Bw": {
         "en-US": "[Kaya]\nDo you know what Mr. Mace wants to find here? I can never tell what he's thinking.",
         "pt-BR": "[Kaya]\nNão consigo pensar no que o Calango quer aqui...",
-        "es-ES": "[Kaya]\nNo logro entender qué quiere Listillo aquí…"
+        "es-ES": "[Kaya]\nNo logro entender qué quiere Listillo aquí..."
     },
     "CKa/Bw": {
         "en-US": "[Ace]\nTopographically, this place is hard to defend. \nI hope no more people will come to gather around us.",
@@ -1977,7 +1977,7 @@
     "C6a/Bw": {
         "en-US": "I can get a job at Rekenber...",
         "pt-BR": "Eu... trabalhando na Rekenber...",
-        "es-ES": "Yo… trabajando en Rekenber…"
+        "es-ES": "Yo... trabajando en Rekenber..."
     },
     "DKa/Bw": {
         "en-US": "Pat's Mother",
@@ -1987,7 +1987,7 @@
     "Daa/Bw": {
         "en-US": "My baby... I hope he's okay...",
         "pt-BR": "Meu filho... sinto sua falta...",
-        "es-ES": "Hijo mío… te extraño…"
+        "es-ES": "Hijo mío... te extraño..."
     },
     "Dqa/Bw": {
         "en-US": "Pat's Father",
@@ -1997,7 +1997,7 @@
     "D6a/Bw": {
         "en-US": "Hmpf, why wouldn't she believe when I say he's just too busy?",
         "pt-BR": "Não se preocupe demais, meu bem...",
-        "es-ES": "No te preocupes tanto, cariño…"
+        "es-ES": "No te preocupes tanto, cariño..."
     },
     "EKa/Bw": {
         "en-US": "[Leizi]\nAdventurer, over here! \nWhere are the others?",
@@ -2022,7 +2022,7 @@
     "FKa/Bw": {
         "en-US": "This is real... I'm working at Rekenber now!",
         "pt-BR": "Isso é... é real! Eu vou mesmo trabalhar na Rekenber!",
-        "es-ES": "¡Esto es… es real! ¡De verdad voy a trabajar en Rekenber!"
+        "es-ES": "¡Esto es... es real! ¡De verdad voy a trabajar en Rekenber!"
     },
     "Faa/Bw": {
         "en-US": "[Leizi]\nWhen Patsy stood before this tall gate for the first time, he must have been on cloud nine. \nHe finally had his ticket out of the Slum.",
@@ -2122,7 +2122,7 @@
     "KKa/Bw": {
         "en-US": "[Eva]\nNo, he would never do this to me! Marcus, my Marcus...",
         "pt-BR": "[Eva]\nMeu Marcus nunca faria isso! Ah... Marcus...",
-        "es-ES": "[Eva]\n¡Mi Marcus jamás haría eso! Ah… Marcus…"
+        "es-ES": "[Eva]\n¡Mi Marcus jamás haría eso! Ah... Marcus..."
     },
     "Kaa/Bw": {
         "en-US": "[Kaya]\nI'm only a third party. \nI don't know what happened to him. \nBut I'll try to find out.",
@@ -2167,7 +2167,7 @@
     "Maa/Bw": {
         "en-US": "[Leizi]\nMr. VIP, you're so, so...",
         "pt-BR": "[Nalandro]\nSenhor VIP, o senhor é tão...",
-        "es-ES": "[Lazy]\nSeñor VIP, usted es tan…"
+        "es-ES": "[Lazy]\nSeñor VIP, usted es tan..."
     },
     "Mqa/Bw": {
         "en-US": "[Kaya]\nSo what?",
@@ -2177,7 +2177,7 @@
     "M6a/Bw": {
         "en-US": "[Leizi]\nYou're so like you, like a VIP. \nYou spoke so kindly to her that I'm moved. \nClaps, claps, claps.",
         "pt-BR": "[Nalandro]\n... tão você, sabe? O senhor prometeu a ela que iria ajudá-la. Parabéns.",
-        "es-ES": "[Lazy]\n…tan usted, ¿sabe? Le prometió que la ayudaría. Felicidades."
+        "es-ES": "[Lazy]\n...tan usted, ¿sabe? Le prometió que la ayudaría. Felicidades."
     },
     "NKa/Bw": {
         "en-US": "I'm so moved, I want to cry.",
@@ -2197,7 +2197,7 @@
     "N6a/Bw": {
         "en-US": "[Leizi]\nRekenber has been hiring them as part of its program to give back to the society. \nBut I say, it's been manipulating people's minds to its advantage.",
         "pt-BR": "[Nalandro]\nPara essas pessoas, a Rekenber faz programas especiais como parte do bem-estar social, mas a verdade? É tudo charlatanismo.",
-        "es-ES": "[Lazy]\nPara estas personas, Rekenber ofrece programas especiales como parte del bienestar social, pero la verdad… todo es charlatanería."
+        "es-ES": "[Lazy]\nPara estas personas, Rekenber ofrece programas especiales como parte del bienestar social, pero la verdad... todo es charlatanería."
     },
     "OKa/Bw": {
         "en-US": "[Kaya]\nHow dare you disparage our welfare work? \nWe equally treat every employee, special recruitment program or not.",
@@ -2377,7 +2377,7 @@
     "W6a/Bw": {
         "en-US": "[Leizi]\nGeez, okay, then we'll call them the absence of contact. \nWould that make you feel better? \nThen, let's do that. \nYou want to solve this case, though, don't you?",
         "pt-BR": "[Nalandro]\nMeu Deus. Então, vamos chamar de 'ausência temporária', pode ser? Você quer resolver esse caso, não é?",
-        "es-ES": "[Lazy]\nDios mío… Entonces llamémoslo ''ausencia temporal'', ¿le parece?\nUsted quiere resolver este caso, ¿no?"
+        "es-ES": "[Lazy]\nDios mío... Entonces llamémoslo ''ausencia temporal'', ¿le parece?\nUsted quiere resolver este caso, ¿no?"
     },
     "XKa/Bw": {
         "en-US": "[Kaya]\nOf course.",
@@ -2452,7 +2452,7 @@
     "aqa/Bw": {
         "en-US": "Ex-ex-ex...",
         "pt-BR": "Eu... eu... eu...",
-        "es-ES": "Yo… yo… yo…"
+        "es-ES": "Yo... yo... yo..."
     },
     "a6a/Bw": {
         "en-US": "Yes, how may I help you?",
@@ -2462,7 +2462,7 @@
     "bKa/Bw": {
         "en-US": "I, erm... I'm a new employee. Where should I go?",
         "pt-BR": "Eu... eu sou um novo aqui... onde eu devo ir...?",
-        "es-ES": "Yo… soy nuevo aquí… ¿a dónde debo ir…?"
+        "es-ES": "Yo... soy nuevo aquí... ¿a dónde debo ir...?"
     },
     "baa/Bw": {
         "en-US": "Your name?",
@@ -2477,7 +2477,7 @@
     "b6a/Bw": {
         "en-US": "Ka... Kaufman, Patrick. Okay, I've found your name.",
         "pt-BR": "Pa...trick K... Ah, sim, Sr. Kaufman.",
-        "es-ES": "Pa… trick K… Ah, sí, Sr. Kaufman."
+        "es-ES": "Pa... trick K... Ah, sí, Sr. Kaufman."
     },
     "cKa/Bw": {
         "en-US": "A-am I really hired?",
@@ -2537,7 +2537,7 @@
     "e6a/Bw": {
         "en-US": "This place... It's so tall and so spacious.",
         "pt-BR": "Esse lugar... é tão chique e grandioso.",
-        "es-ES": "Este lugar… es tan elegante y grandioso."
+        "es-ES": "Este lugar... es tan elegante y grandioso."
     },
     "fKa/Bw": {
         "en-US": "[Leizi]\nAdventurer, you should listen when other people speak.",
@@ -2647,7 +2647,7 @@
     "kaa/Bw": {
         "en-US": "[Employee]\nWho are you?\n ... \nWait, I know your face. \nWhere did I see it?",
         "pt-BR": "[Funcionário]\nE quem é você...? Espera...!! Eu conheço esse rosto... Quem era mesmo...?",
-        "es-ES": "[Empleado]\n¿Y usted quién es…? ¡Espera…! Conozco ese rostro… ¿Quién era…?"
+        "es-ES": "[Empleado]\n¿Y usted quién es...? ¡Espera...! Conozco ese rostro... ¿Quién era...?"
     },
     "kqa/Bw": {
         "en-US": "Think, think!",
@@ -2662,7 +2662,7 @@
     "lKa/Bw": {
         "en-US": "[Employee]\nAaah, that's right! \nHe's my vice president... \nV-Vice President?! \nH-hello!",
         "pt-BR": "[Funcionário]\nAh! Isso mesmo, isso mesmo! Era o vice-presidente!!! ... vice, vice-presidente? Ah, o-olá!!",
-        "es-ES": "[Empleado]\n¡Ah! ¡Eso es! ¡El vicepresidente! … ¿Vice-vicepresidente? ¡Ah, h-hola!"
+        "es-ES": "[Empleado]\n¡Ah! ¡Eso es! ¡El vicepresidente! ... ¿Vice-vicepresidente? ¡Ah, h-hola!"
     },
     "laa/Bw": {
         "en-US": "So, you're really from his office!",
@@ -2707,7 +2707,7 @@
     "naa/Bw": {
         "en-US": "[Employee]\nWell, things in that place tend to break easily, so they're probably needed there for repairs. \n^0000CDLately, a lot of employees have been moved there^000000, too.",
         "pt-BR": "[Funcionário]\nEu acho que as coisas quebram muito fácil, deve ser por isso, ^0000CDmas muita gente tem sido enviada para lá^000000.",
-        "es-ES": "[Empleado]\nSupongo que las cosas se rompen con facilidad… ^0000CDpero mucha gente ha sido enviada allí^000000."
+        "es-ES": "[Empleado]\nSupongo que las cosas se rompen con facilidad... ^0000CDpero mucha gente ha sido enviada allí^000000."
     },
     "nqa/Bw": {
         "en-US": "And all of them are such good employees.",
@@ -2752,7 +2752,7 @@
     "pqa/Bw": {
         "en-US": "[Leizi]\nHm... Employees ^0000CDworking less than a year usually aren't moved^000000, but he was ^0000CDespecially requested^000000 by the Lab. \nAnd he's not the only one.",
         "pt-BR": "[Nalandro]\nRecapitulando... ^0000CDEmpregados com menos de 1 ano da empresa não podem trocar de setor^000000, mas ele e alguns outros foram ^0000CDrequisitados especialmente^000000.",
-        "es-ES": "[Lazy]\nRecapitulando… ^0000CDempleados con menos de un año no pueden cambiar de sector^000000, pero algunos fueron ^0000CDrequeridos especialmente^000000."
+        "es-ES": "[Lazy]\nRecapitulando... ^0000CDempleados con menos de un año no pueden cambiar de sector^000000, pero algunos fueron ^0000CDrequeridos especialmente^000000."
     },
     "p6a/Bw": {
         "en-US": "[Leizi]\nMr. VIP, did you know this? \nIs it written in your report? \nWhy did the Lab only take healthy ones?",
@@ -2867,7 +2867,7 @@
     "vaa/Bw": {
         "en-US": "[Med]\nPa-who? \nPatrick Kaufman? \nWho's that? \nI don't know... \nOh, maybe <NAVI>[Sammy]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI> knows.\nSammy should. \nHe's the human resource manager here. \nHe's over there in the back.",
         "pt-BR": "[Med]\nPatrick Kaufman?... Ah! Pergunte ao <NAVI>[Sammy]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI>.\nEle deve saber, ele é do R.H.",
-        "es-ES": "[Med]\n¿Patrick Kaufman?… ¡Ah! Pregunta a <NAVI>[Sammy]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI>.\nÉl debe saberlo, es de RR. HH."
+        "es-ES": "[Med]\n¿Patrick Kaufman?... ¡Ah! Pregunta a <NAVI>[Sammy]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI>.\nÉl debe saberlo, es de RR. HH."
     },
     "vqa/Bw": {
         "en-US": "[Kaya]\nThank you. \nKeep up the good work restoring the lab.",
@@ -2932,7 +2932,7 @@
     "yqa/Bw": {
         "en-US": "[Sammy]\nAce? \nWhat are you doing here?",
         "pt-BR": "[Sammy]\nAce? O que está acontecendo aqui...?",
-        "es-ES": "[Sammy]\n¿Ace? ¿Qué está pasando aquí…?"
+        "es-ES": "[Sammy]\n¿Ace? ¿Qué está pasando aquí...?"
     },
     "y6a/Bw": {
         "en-US": "[Leizi]\nHello. \nI hope you don't mind my asking you a question.",
@@ -2947,7 +2947,7 @@
     "zaa/Bw": {
         "en-US": "[Leizi]\nThis man right here is your vice president.",
         "pt-BR": "[Sammy]\nEsse cara aí parece o... vice-presidente da corporação...",
-        "es-ES": "[Sammy]\nEse tipo parece el… vicepresidente de la corporación…"
+        "es-ES": "[Sammy]\nEse tipo parece el... vicepresidente de la corporación..."
     },
     "zqa/Bw": {
         "en-US": "[Sammy]\nVice President?",
@@ -2967,7 +2967,7 @@
     "0aa/Bw": {
         "en-US": "[Sammy]\nAh, Mr. Vice President! \nWhat brings you...? \nOh, what can I do for you?",
         "pt-BR": "[Sammy]\nOh, senhor vice-presidente. O que quer... Oh, o que eu posso fazer pelo senhor?",
-        "es-ES": "[Sammy]\nOh, señor vicepresidente. ¿Qué desea…? Oh, ¿en qué puedo ayudarle?"
+        "es-ES": "[Sammy]\nOh, señor vicepresidente. ¿Qué desea...? Oh, ¿en qué puedo ayudarle?"
     },
     "0qa/Bw": {
         "en-US": "[Leizi]\nWow, look how quickly he changed his attitude. \nThe magic word, Vice President. \nMakes things so easy!",
@@ -2997,7 +2997,7 @@
     "16a/Bw": {
         "en-US": "[Sammy]\nPa-Patrick Kaufman? \nPatrick... Ah, I remember him!",
         "pt-BR": "[Sammy]\nPa-Patrick Kaufman... Patrick... Ah...! Eu lembro!",
-        "es-ES": "[Sammy]\nPa-Patrick Kaufman… Patrick… ¡Ah…! ¡Lo recuerdo!"
+        "es-ES": "[Sammy]\nPa-Patrick Kaufman... Patrick... ¡Ah...! ¡Lo recuerdo!"
     },
     "2Ka/Bw": {
         "en-US": "You'll work at the new lab, starting next week. You'll be paid more, so don't be upset about being moved so far away.",
@@ -3022,7 +3022,7 @@
     "3Ka/Bw": {
         "en-US": "[Sammy]\n... Then, they took him to the other lab.",
         "pt-BR": "[Sammy]\n... e o levaram para outro laboratório.",
-        "es-ES": "[Sammy]\n… y se lo llevaron a otro laboratorio."
+        "es-ES": "[Sammy]\n... y se lo llevaron a otro laboratorio."
     },
     "3aa/Bw": {
         "en-US": "[Kaya]\nI thought less than a year long employees are usually not transferred to other departments. \nIs there a reason you continuously asked for them?",
@@ -3032,7 +3032,7 @@
     "3qa/Bw": {
         "en-US": "[Sammy]\nHuh? \nI didn't know we had such a rule. \nWe've never ^0000CDspecifically requested for people who worked at the headquarters^000000. \nSometimes people moved in from there, but I thought they were just transferred, like everyone else.",
         "pt-BR": "[Sammy]\nAh é...? Não conhecia essa regra. Nós ^0000CDnunca pedimos por novos trabalhadores^000000 da sede.\nA maioria só chega aqui e achamos que é só transferência de setor.",
-        "es-ES": "[Sammy]\n¿Ah, sí…? No conocía esa regla. Nosotros ^0000CDnunca solicitamos nuevos trabajadores^000000 desde la sede.\nLa mayoría llega aquí y pensamos que es solo una transferencia."
+        "es-ES": "[Sammy]\n¿Ah, sí...? No conocía esa regla. Nosotros ^0000CDnunca solicitamos nuevos trabajadores^000000 desde la sede.\nLa mayoría llega aquí y pensamos que es solo una transferencia."
     },
     "36a/Bw": {
         "en-US": "[Sammy]\nSo, I thought nothing of it when Patsy was moved to the new lab. \n^0000CDA lot of people were moved there^000000 from the Installation and Maintenance Team, the Logistics Team, and everywhere to that new lab.",
@@ -3052,12 +3052,12 @@
     "4qa/Bw": {
         "en-US": "[Sammy]\nI don't know. \nI've heard it's somewhere in the ^0000CDoutskirts of Einbroch^000000, like most other new labs, for experiments that are too dangerous to be conducted in the middle of cities.",
         "pt-BR": "[Sammy]\nEu não faço ideia. Dizem que é longe, ^0000CDnos arredores de Einbroch^000000...\nEstão descentralizando os laboratórios das cidades por lidarem com experimentos perigosos.",
-        "es-ES": "[Sammy]\nNo tengo idea. Dicen que está lejos, ^0000CDen los alrededores de Einbroch^000000…\nEstán descentralizando los laboratorios por los experimentos peligrosos."
+        "es-ES": "[Sammy]\nNo tengo idea. Dicen que está lejos, ^0000CDen los alrededores de Einbroch^000000...\nEstán descentralizando los laboratorios por los experimentos peligrosos."
     },
     "46a/Bw": {
         "en-US": "[Sammy]\nBy the way, is there a different reason for their transfer? \nDid... something happen to them?",
         "pt-BR": "[Sammy]\nA propósito... há algum motivo para tantas transferências? O que aconteceu... com essas pessoas?",
-        "es-ES": "[Sammy]\nPor cierto… ¿hay alguna razón para tantas transferencias? ¿Qué pasó… con esas personas?"
+        "es-ES": "[Sammy]\nPor cierto... ¿hay alguna razón para tantas transferencias? ¿Qué pasó... con esas personas?"
     },
     "5Ka/Bw": {
         "en-US": "[Leizi]\nThis new lab is where I had to stop my investigation. \nA lot of people had been moved there, and yet no one knew where it was. \nIt's fishy, isn't it?",
@@ -3097,7 +3097,7 @@
     "66a/Bw": {
         "en-US": "[Kaya]\nThis new lab... \nI'd better find out where it is. \nPerhaps I don't know about my company as well as I thought I did.",
         "pt-BR": "[Kaya]\nUm novo laboratório...? Eu vou ter que descobrir onde fica. Acho que sei menos da Rekenber do que eu achava que sabia.",
-        "es-ES": "[Kaya]\n¿Un nuevo laboratorio…? Tendré que descubrir dónde está. Sé menos de Rekenber de lo que pensaba."
+        "es-ES": "[Kaya]\n¿Un nuevo laboratorio...? Tendré que descubrir dónde está. Sé menos de Rekenber de lo que pensaba."
     },
     "7Ka/Bw": {
         "en-US": "[Leizi]\nThis is what I've been telling you. \nYou wouldn't have had to come all the way out here if you just believed me.",
@@ -3137,7 +3137,7 @@
     "86a/Bw": {
         "en-US": "Who would believe that?",
         "pt-BR": "...Quem acreditou nisso?",
-        "es-ES": "…¿Quién creyó eso?"
+        "es-ES": "...¿Quién creyó eso?"
     },
     "9Ka/Bw": {
         "en-US": "[Leizi]\nWhy not? \nAdventurer, don't you have rich relatives? \nTsk, tsk. \nYoungsters nowadays don't know romance or thrill. \nPeople of my generation dream of such a miracle all the time.",
@@ -3152,7 +3152,7 @@
     "9qa/Bw": {
         "en-US": "[Ace]\nOoo...",
         "pt-BR": "[Ace]\nOooh...",
-        "es-ES": "[Ace]\nOooh…"
+        "es-ES": "[Ace]\nOooh..."
     },
     "96a/Bw": {
         "en-US": "What's that sparkle in your eyes? Stop!",
@@ -3307,7 +3307,7 @@
     "Fae/Bw": {
         "en-US": "[Gray]\nHelping you? \nThen...? \nI knew you weren't friends with him.",
         "pt-BR": "[Gray]\nAjudando...? Ah sim... Sabia que vocês não eram antigos amigos.",
-        "es-ES": "[Gray]\n¿Ayudando…? Ah, ya veo. Sabía que no eran viejos amigos."
+        "es-ES": "[Gray]\n¿Ayudando...? Ah, ya veo. Sabía que no eran viejos amigos."
     },
     "Fqe/Bw": {
         "en-US": "[Leizi]\nWhy not? \nWhy can't we be friends? \nYou'd better explain that!",
@@ -3402,7 +3402,7 @@
     "KKe/Bw": {
         "en-US": "[Gray]\nPlease be safe, Mr. Vice President...",
         "pt-BR": "[Gray]\nPor favor, você não deveria estar aqui...",
-        "es-ES": "[Gray]\nPor favor, no debería estar aquí…"
+        "es-ES": "[Gray]\nPor favor, no debería estar aquí..."
     },
     "Kae/Bw": {
         "en-US": "[Leizi]\nThat must be the one! \nHe's got an anxious look in his eyes!",
@@ -3422,7 +3422,7 @@
     "LKe/Bw": {
         "en-US": "[Kaya]\n<NAVI>[McDonnell's lab]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI>... We've got a long way to go. Let's hurry.",
         "pt-BR": "[Kaya]\n<NAVI>[Laboratório McDonnell]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI>... Vamos apressar o passo e seguir.",
-        "es-ES": "[Kaya]\n<NAVI>[Laboratorio McDonnell]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI>… apresuremos el paso."
+        "es-ES": "[Kaya]\n<NAVI>[Laboratorio McDonnell]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI>... apresuremos el paso."
     },
     "Lae/Bw": {
         "en-US": "[Ace]\nHe looks way too suspicious. \nWe'd better check if he's Gray's contact.",
@@ -3477,7 +3477,7 @@
     "N6e/Bw": {
         "en-US": "[Employee]\nThat? \nGive me a moment...",
         "pt-BR": "[Funcionário]\nA lista? Espere um minuto...",
-        "es-ES": "[Empleado]\n¿La lista? Espere un momento…"
+        "es-ES": "[Empleado]\n¿La lista? Espere un momento..."
     },
     "OKe/Bw": {
         "en-US": "[Employee]\nI found it. \nRight here.",
@@ -3492,7 +3492,7 @@
     "Oqe/Bw": {
         "en-US": "[Leizi]\nHm... Most of names on this list are also on our list. \nI expected this, but still it's so creepy. \n*Shudder*",
         "pt-BR": "[Nalandro]\nHmm... os nomes dessa lista batem com a lista que eu tenho... Me deu até um arrepio... Ugh.",
-        "es-ES": "[Lazy]\nHmm… los nombres coinciden con los míos… Me dio hasta escalofríos… Ugh."
+        "es-ES": "[Lazy]\nHmm... los nombres coinciden con los míos... Me dio hasta escalofríos... Ugh."
     },
     "O6e/Bw": {
         "en-US": "[Kaya]\nIs Mr. Kaufman still working at Mr. McDonnell's lab?",
@@ -3502,7 +3502,7 @@
     "PKe/Bw": {
         "en-US": "[Employee]\nThat's... Actually, the members of the Installation and Maintenance Team outside HQ are on rotation basis, moving from one lab to another.\nPatrick was one of them, so he might have been moved elsewhere.",
         "pt-BR": "[Funcionário]\nEntão... a equipe de manutenção trabalha em diferentes unidades.\nO sr. Patrick poderia estar indo de laboratório em laboratório.",
-        "es-ES": "[Empleado]\nBueno… el equipo de mantenimiento trabaja en distintas unidades.\nEl Sr. Patrick podría estar yendo de laboratorio en laboratorio."
+        "es-ES": "[Empleado]\nBueno... el equipo de mantenimiento trabaja en distintas unidades.\nEl Sr. Patrick podría estar yendo de laboratorio en laboratorio."
     },
     "Pae/Bw": {
         "en-US": "[Kaya]\nLess than a year long employees are not to be moved around or transferred to different places. \nWhy was Mr. Kaufman an exception?",
@@ -3512,7 +3512,7 @@
     "Pqe/Bw": {
         "en-US": "[Employee]\nMm... Such reasons are not written in here, but we usually accept requests from labs because they're our top priority.",
         "pt-BR": "[Funcionário]\nHum... eu nem sequer mencionei o motivo aqui. Quando um pedido chega do laboratório, eu costumo aprová-lo primeiro. É uma prioridade.",
-        "es-ES": "[Empleado]\nHmm… ni siquiera indiqué el motivo aquí. Cuando llega una solicitud del laboratorio, suelo aprobarla primero. Es una prioridad."
+        "es-ES": "[Empleado]\nHmm... ni siquiera indiqué el motivo aquí. Cuando llega una solicitud del laboratorio, suelo aprobarla primero. Es una prioridad."
     },
     "P6e/Bw": {
         "en-US": "[Kaya]\nAll right, then where is Mr. Kaufman right now?",
@@ -3522,7 +3522,7 @@
     "QKe/Bw": {
         "en-US": "[Employee]\nAs I told you, since he's on rotation duty and we constantly build new labs, I can't say with confidence that he's still at McDonnell's lab.",
         "pt-BR": "[Funcionário]\nNão dá para saber... Há tantos laboratórios novos aqui e ali que ele pode estar em constante movimento.",
-        "es-ES": "[Empleado]\nNo se puede saber… Hay tantos laboratorios nuevos que puede estar en movimiento constante."
+        "es-ES": "[Empleado]\nNo se puede saber... Hay tantos laboratorios nuevos que puede estar en movimiento constante."
     },
     "Qae/Bw": {
         "en-US": "[Employee]\nHQ doesn't keep track of everyone outside it that's on rotation duty. Maybe the lab or other labs have their transfer records.",
@@ -3542,7 +3542,7 @@
     "RKe/Bw": {
         "en-US": "[Employee]\nHis vacation days... He used them all. Mm... At the end of the year at once.",
         "pt-BR": "[Funcionário]\nAs férias... ele usou todas. Hmm... pelo menos uma vez no final do ano.",
-        "es-ES": "[Empleado]\nLas vacaciones… sí, las usó. Al menos una vez al final del año."
+        "es-ES": "[Empleado]\nLas vacaciones... sí, las usó. Al menos una vez al final del año."
     },
     "Rae/Bw": {
         "en-US": "Ah, so you didn't let him take a vacation until the end of the year. So, this is what it likes to work at Rekenber.",
@@ -3577,7 +3577,7 @@
     "S6e/Bw": {
         "en-US": "[Employee]\nMarcus Holtzman? Ah, let me see...",
         "pt-BR": "[Funcionário]\nAh, Marcus Holtzman? Espere um minuto...",
-        "es-ES": "[Empleado]\n¿Marcus Holtzman? Un momento…"
+        "es-ES": "[Empleado]\n¿Marcus Holtzman? Un momento..."
     },
     "TKe/Bw": {
         "en-US": "[Employee]\nHm, Mr. Holtzman was sent to Mr. Sinclair's lab.",
@@ -3602,7 +3602,7 @@
     "UKe/Bw": {
         "en-US": "[Employee]\nLet's see... \nThey're both in the outskirts of Einbroch.\nMr. McDonnell's lab is at ^0000CD95-146, Sector 1 in the Einbroch Mountains^000000. \nMr. Sinclair's is at 43-156, Sector 11 in the Einbroch Mountains.",
         "pt-BR": "[Funcionário]\nVamos ver... eles estão todos fora de Einbroch.\nO laboratório do dr. McDonnell está localizado na ^0000CDárea 01, 95-146^000000 e o dr. Sinclair está localizado na ^0000CDárea 11, 43-156^000000. Todos nos arredores de Einbroch.",
-        "es-ES": "[Empleado]\nVeamos… todos están fuera de Einbroch.\nEl laboratorio del Dr. McDonnell está en el ^0000CDárea 01, 95-146^000000 y el del Dr. Sinclair en el ^0000CDárea 11, 43-156^000000. Ambos cerca de Einbroch."
+        "es-ES": "[Empleado]\nVeamos... todos están fuera de Einbroch.\nEl laboratorio del Dr. McDonnell está en el ^0000CDárea 01, 95-146^000000 y el del Dr. Sinclair en el ^0000CDárea 11, 43-156^000000. Ambos cerca de Einbroch."
     },
     "Uae/Bw": {
         "en-US": "[Leizi]\nOne more question. \nI know you'll say yes, but are Mr. Patrick and Marcus still working Rekenber?",
@@ -3622,7 +3622,7 @@
     "VKe/Bw": {
         "en-US": "...",
         "pt-BR": ".........",
-        "es-ES": "………"
+        "es-ES": "........."
     },
     "Vae/Bw": {
         "en-US": "Is that how he really speaks?",
@@ -3707,7 +3707,7 @@
     "Zae/Bw": {
         "en-US": "... Yes, sir.",
         "pt-BR": "... Tudo bem.",
-        "es-ES": "…Está bien."
+        "es-ES": "...Está bien."
     },
     "Zqe/Bw": {
         "en-US": "[Leizi]\nNow, let's go. \nDon't forget we'll reunite at the front of <NAVI>[McDonnell's lab]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI> when we're done.",
@@ -3762,12 +3762,12 @@
     "cKe/Bw": {
         "en-US": "[Kaya]\nNow, I feel as if everything I've seen and heard was created by an invisible hand, like that in a scenario.",
         "pt-BR": "[Kaya]\nTudo o que eu via e ouvia parece... ter evaporado. E sobraram apenas o que eu não queria acreditar.",
-        "es-ES": "[Kaya]\nTodo lo que vi y oí parece… haberse evaporado. Solo quedó lo que no quería creer."
+        "es-ES": "[Kaya]\nTodo lo que vi y oí parece... haberse evaporado. Solo quedó lo que no quería creer."
     },
     "cae/Bw": {
         "en-US": "[Kaya]\nOn the outside, it looks perfectly normal, but on the inside, it's filled with lies. \nAnd I've been fooled by it.",
         "pt-BR": "[Kaya]\nPor fora, parecia tudo tão normal, mas por dentro... Eu me sinto lesado.",
-        "es-ES": "[Kaya]\nPor fuera parecía normal, pero por dentro… me siento engañado."
+        "es-ES": "[Kaya]\nPor fuera parecía normal, pero por dentro... me siento engañado."
     },
     "cqe/Bw": {
         "en-US": "[{0}]\nIt was made to look normal, so no one would ask questions.",
@@ -3777,12 +3777,12 @@
     "c6e/Bw": {
         "en-US": "[Ace]\nBut this is wrong.",
         "pt-BR": "[Ace]\nEsse truque é muito... errado.",
-        "es-ES": "[Ace]\nEste truco es muy… incorrecto."
+        "es-ES": "[Ace]\nEste truco es muy... incorrecto."
     },
     "dKe/Bw": {
         "en-US": "But this is wrong.",
         "pt-BR": "Esse truque é muito... errado.",
-        "es-ES": "Este truco es muy… incorrecto."
+        "es-ES": "Este truco es muy... incorrecto."
     },
     "dae/Bw": {
         "en-US": "But it worked, didn't it?",
@@ -3792,12 +3792,12 @@
     "dqe/Bw": {
         "en-US": "[Ace]\nIt did.",
         "pt-BR": "[Ace]\nSim... funciona.",
-        "es-ES": "[Ace]\nSí… funciona."
+        "es-ES": "[Ace]\nSí... funciona."
     },
     "d6e/Bw": {
         "en-US": "It did.",
         "pt-BR": "Sim... funciona.",
-        "es-ES": "Sí… funciona."
+        "es-ES": "Sí... funciona."
     },
     "eKe/Bw": {
         "en-US": "If you want to know how to do it, I can teach you.  I know a few tricks like this.",
@@ -4042,7 +4042,7 @@
     "qKe/Bw": {
         "en-US": "The Vice President is going to jump down!",
         "pt-BR": "Acho que o Gerente vai pular...",
-        "es-ES": "Creo que el Gerente va a saltar…"
+        "es-ES": "Creo que el Gerente va a saltar..."
     },
     "qae/Bw": {
         "en-US": "The god of wind! Aaah!",
@@ -4067,27 +4067,27 @@
     "rae/Bw": {
         "en-US": "Hey, that's wrong. You should write, ''The owner is heavenly and the drinks are cute.'' Err, that's not right, either.",
         "pt-BR": "Você achou o dono um gato? Ahh! Você quis dizer que ele é um felino... né?",
-        "es-ES": "¿Te pareció guapo el dueño? ¡Ah! Querías decir que es un felino… ¿verdad?"
+        "es-ES": "¿Te pareció guapo el dueño? ¡Ah! Querías decir que es un felino... ¿verdad?"
     },
     "rqe/Bw": {
         "en-US": "I might have drunk too much... I feel nauseated all of a sudden...",
         "pt-BR": "Comemos demais... Quanto será que vamos pagar?",
-        "es-ES": "Comimos demasiado… ¿Cuánto pagaremos?"
+        "es-ES": "Comimos demasiado... ¿Cuánto pagaremos?"
     },
     "r6e/Bw": {
         "en-US": "Maybe you didn't eat enough. Eat something more to keep it down.",
         "pt-BR": "Os gatos têm um costume de cobrar muito caro por qualquer serviço...",
-        "es-ES": "Los gatos tienen la costumbre de cobrar caro cualquier servicio…"
+        "es-ES": "Los gatos tienen la costumbre de cobrar caro cualquier servicio..."
     },
     "sKe/Bw": {
         "en-US": "Don't touch... Toto... *Smack his lips*",
         "pt-BR": "Não me acorde agora... zZzz... zZzz... Mmm...",
-        "es-ES": "No me despiertes ahora… zZzz… zZzz… Mmm…"
+        "es-ES": "No me despiertes ahora... zZzz... zZzz... Mmm..."
     },
     "sae/Bw": {
         "en-US": "Bowwow! Bowwow!",
         "pt-BR": "Hmm... Au!",
-        "es-ES": "Hmm… ¡Au!"
+        "es-ES": "Hmm... ¡Au!"
     },
     "sqe/Bw": {
         "en-US": "I'd stay away from him if I were you. He's no longer a man at this moment.",
@@ -4097,7 +4097,7 @@
     "s6e/Bw": {
         "en-US": "What the...? Everyone's passed out already. This is not what they promised me!",
         "pt-BR": "Eles falaram que eram inimigos do fim, mas já tão caídos...",
-        "es-ES": "Decían que eran enemigos del fin, pero ya están caídos…"
+        "es-ES": "Decían que eran enemigos del fin, pero ya están caídos..."
     },
     "tKe/Bw": {
         "en-US": "Shouldn't we wake him up? Hey, wake up!",
@@ -4127,7 +4127,7 @@
     "uae/Bw": {
         "en-US": "Really? Then... I guess I can stay for a little longer.",
         "pt-BR": "Ah... então, eu vou ficar um pouco mais.",
-        "es-ES": "Ah… entonces me quedo un poco más."
+        "es-ES": "Ah... entonces me quedo un poco más."
     },
     "uqe/Bw": {
         "en-US": "I've worked hard for days like this!",
@@ -4152,12 +4152,12 @@
     "vqe/Bw": {
         "en-US": "Can I ever catch a break?",
         "pt-BR": "Quando nos veremos novamente...?",
-        "es-ES": "¿Cuándo nos volveremos a ver…?"
+        "es-ES": "¿Cuándo nos volveremos a ver...?"
     },
     "v6e/Bw": {
         "en-US": "I'm moving away to a big city, and I'm sad that I have to leave my friends behind.",
         "pt-BR": "Estou mudando de cidade. Estou triste por ficar longe dos meus amigos...",
-        "es-ES": "Me mudaré de ciudad. Me entristece dejar a mis amigos…"
+        "es-ES": "Me mudaré de ciudad. Me entristece dejar a mis amigos..."
     },
     "wKe/Bw": {
         "en-US": "Gah! Why did I say that? Mom was right: My mouth is my undoing! Argh!",

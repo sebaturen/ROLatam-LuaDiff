@@ -232,7 +232,7 @@
     "zrxvAQ": {
         "en-US": "[Totoy]\nHuh... youre a person? Who are you?",
         "pt-BR": "[Totoy]\nHuh... você é uma pessoa? Quem é você?",
-        "es-ES": "[Totoy]\n¿Eh…? ¿Eres una persona? ¿Quién eres?"
+        "es-ES": "[Totoy]\n¿Eh...? ¿Eres una persona? ¿Quién eres?"
     },
     "z7xvAQ": {
         "en-US": "- He looks you straight in the face but doesnt seem to recognize you. -",
@@ -292,7 +292,7 @@
     "2rxvAQ": {
         "en-US": "[Totoy]\nGulp, gulp...",
         "pt-BR": "[Totoy]\nGulp, gulp...",
-        "es-ES": "[Totoy]\n*Glu, glu…*"
+        "es-ES": "[Totoy]\n*Glu, glu...*"
     },
     "27xvAQ": {
         "en-US": "[Totoy]\nCant talk long. I need to heal my eyes first.\nThere should be some ^3131FFGreen Potion^000000 left inside the drawer. Will you get it for me?",
@@ -437,7 +437,7 @@
     "97xvAQ": {
         "en-US": "[Totoy]\nI have to make a grave for Ed. My loyal friend, Ed...\nIf you want to meet the ^FF0000Master of Hunting^000000, youll find him near the Weapon Store.",
         "pt-BR": "[Totoy]\nTenho de fazer uma sepultura para o Ed. Meu amigo leal, Ed...\nSe quiser conhecer o ^FF0000Mestre de Caça^000000, você o encontrará perto da Loja de Armas.",
-        "es-ES": "[Totoy]\nTengo que hacer una tumba para Ed. Mi leal amigo, Ed…\nSi quieres conocer al ^FF0000maestro de la cacería^000000, lo encontrarás cerca de la tienda de armas."
+        "es-ES": "[Totoy]\nTengo que hacer una tumba para Ed. Mi leal amigo, Ed...\nSi quieres conocer al ^FF0000maestro de la cacería^000000, lo encontrarás cerca de la tienda de armas."
     },
     "+LxvAQ": {
         "en-US": "[Totoy]\nEd!! Eeeeeddddddd!!!\nCant believe you gave your life to save me. Wail!!!",
@@ -457,7 +457,7 @@
     "+7xvAQ": {
         "en-US": "[Totoy]\nUm... Hmm...\nI was so busy running away...",
         "pt-BR": "[Totoy]\nHum... Hmm...\nEu tava tão ocupado fugindo...",
-        "es-ES": "[Totoy]\nEh… Mmm…\nMe preocupaba más correr…"
+        "es-ES": "[Totoy]\nEh... Mmm...\nMe preocupaba más correr..."
     },
     "/LxvAQ": {
         "en-US": "[Totoy]\nIt was really deep in the woods. Probably even pass Baryo Mahiwaga.\nI think I heard the sound of ^3131FFFlowing Water^000000. A large whooshing sound. This is all I remember.",
@@ -512,12 +512,12 @@
     "Br1vAQ": {
         "en-US": "Um... hey!",
         "pt-BR": "Hum... ei!",
-        "es-ES": "Mmm… ¡Oye!"
+        "es-ES": "Mmm... ¡Oye!"
     },
     "B71vAQ": {
         "en-US": "You",
         "pt-BR": "Você",
-        "es-ES": "Tú…"
+        "es-ES": "Tú..."
     },
     "CL1vAQ": {
         "en-US": "{0}Are you?!",
@@ -547,7 +547,7 @@
     "Db1vAQ": {
         "en-US": "[Totoy]\nAnyway, thanks for bringing my best friend back.\nI dont have much but would like to thank you. Wait, let me see whats inside my drawer. He he-",
         "pt-BR": "[Totoy]\nDe qualquer forma, obrigado por trazer meu melhor amigo de volta.\nNão tenho muito, mas gostaria de lhe agradecer. Espera, deixa eu ver o que tem dentro da minha gaveta. He he-",
-        "es-ES": "[Totoy]\nEn fin, gracias por traer de vuelta a mi mejor amigo.\nNo tengo mucho, pero me gustaría darte algo como agradecimiento. Espera, déjame ver qué hay dentro de mi cajón. Je, je…"
+        "es-ES": "[Totoy]\nEn fin, gracias por traer de vuelta a mi mejor amigo.\nNo tengo mucho, pero me gustaría darte algo como agradecimiento. Espera, déjame ver qué hay dentro de mi cajón. Je, je..."
     },
     "Dr1vAQ": {
         "en-US": "- Wait!! -\n- You have too many items on you -\n- Cannot receive the item. -\nClean up your items -\n- And please try again. -",
@@ -572,7 +572,7 @@
     "Er1vAQ": {
         "en-US": "[Totoy]\nHere. My mom gave it to me but I dont know how to use it... He he.\nI hope you can use it.",
         "pt-BR": "[Totoy]\nAqui. Minha mãe me deu, mas eu não sei como usá-lo... He He.\nEspero que você consiga usar.",
-        "es-ES": "[Totoy]\nToma. Me lo regaló mi madre pero no sé usarlo… Je, je.\nEspero que te sirva."
+        "es-ES": "[Totoy]\nToma. Me lo regaló mi madre pero no sé usarlo... Je, je.\nEspero que te sirva."
     },
     "E71vAQ": {
         "en-US": "[Totoy]\nVisit me when you get bored!\nJust dont ask about the treasure again~!",
@@ -632,12 +632,12 @@
     "Hr1vAQ": {
         "en-US": "[Master of Hunting]\nOh! Ho! Ho!\nI am the Master of Hunting! Im not afraid of anything with just one exception! Im afraid of outsiders...",
         "pt-BR": "[Mestre de Caça]\nAh! Ho! Ho!\nEu sou o Mestre de Caça! Não tenho medo de nada, com apenas uma exceção! Tenho medo de estrangeiros...",
-        "es-ES": "[Maestro de la cacería]\n¡Ah! ¡Jo! ¡Jo!\n¡Soy el maestro de la cacería! ¡No le temo a nada, excepto a una cosa! Le temo a la gente extraña…"
+        "es-ES": "[Maestro de la cacería]\n¡Ah! ¡Jo! ¡Jo!\n¡Soy el maestro de la cacería! ¡No le temo a nada, excepto a una cosa! Le temo a la gente extraña..."
     },
     "H71vAQ": {
         "en-US": "[Master of Hunting]\nYo! Ho! Ho!\nI am the Master of Hunting! Im not afraid of anything with just one exception! Im afraid of outsiders...",
         "pt-BR": "[Mestre de Caça]\nYo! Ho! Ho!\nEu sou o Mestre de Caça! Não tenho medo de nada, com apenas uma exceção! Tenho medo de estrangeiros...",
-        "es-ES": "[Maestro de la cacería]\n¡Oye! ¡Jo! ¡Jo!\n¡Soy el maestro de la cacería! ¡No le temo a nada, excepto a una cosa! Le temo a la gente extraña…"
+        "es-ES": "[Maestro de la cacería]\n¡Oye! ¡Jo! ¡Jo!\n¡Soy el maestro de la cacería! ¡No le temo a nada, excepto a una cosa! Le temo a la gente extraña..."
     },
     "IL1vAQ": {
         "en-US": "[Master of Hunting]\nYo! Ho! Ho!\nI went all the way to Rune-Midgard Kingdom to defeat the Angry Minorous.",
@@ -797,7 +797,7 @@
     "P71vAQ": {
         "en-US": "[Master of Hunting]\nHo! This is!!",
         "pt-BR": "[Mestre de Caça]\nHo! Isso mesmo!!!",
-        "es-ES": "[Maestro de la cacería]\n¡Jo! ¡Esto es…!"
+        "es-ES": "[Maestro de la cacería]\n¡Jo! ¡Esto es...!"
     },
     "QL1vAQ": {
         "en-US": "[Master of Hunting]\nWow! Ho! Ho! Ho! Awesome!!!!!!",
@@ -932,7 +932,7 @@
     "Wr1vAQ": {
         "en-US": "[{0}]\n...got some on your clothes.",
         "pt-BR": "[{0}]\n...tem um pouco em suas roupas.",
-        "es-ES": "[{0}]\n…tienes un poco en la ropa."
+        "es-ES": "[{0}]\n...tienes un poco en la ropa."
     },
     "W71vAQ": {
         "en-US": "[{0}]\nOh Odin! Please help me so that my hand does not slip!!",
@@ -982,7 +982,7 @@
     "ZL1vAQ": {
         "en-US": "[Guard Leader]\nHmm... will you be able to help Port Malaya?",
         "pt-BR": "[Líder da Guarda]\nHmm... você será capaz de ajudar Porto Malaya?",
-        "es-ES": "[Líder de la Guardia]\nMmm… ¿podrás ayudar a Puerto Malaya?"
+        "es-ES": "[Líder de la Guardia]\nMmm... ¿podrás ayudar a Puerto Malaya?"
     },
     "Zb1vAQ": {
         "en-US": "Leave it to me!",

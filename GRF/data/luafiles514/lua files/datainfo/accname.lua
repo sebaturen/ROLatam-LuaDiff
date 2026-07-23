@@ -2851,5 +2851,11 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Angler_Dream] = "_C_Angler_Dream",
 	[ACCESSORY_IDs.ACCESSORY_C_Deepsea_Pearls_Hat] = "_C_Deepsea_Pearls_Hat",
 	[ACCESSORY_IDs.ACCESSORY_Magical_Cape] = "_Magical_Cape",
-	[ACCESSORY_IDs.ACCESSORY_Fan_In_Mouth_PP] = "_Fan_In_Mouth_PP"
+	[ACCESSORY_IDs.ACCESSORY_Fan_In_Mouth_PP] = "_Fan_In_Mouth_PP",
+	[ACCESSORY_IDs.ACCESSORY_C_Black_Dragon_Style2] = "_C_Black_Dragon_Style2",
+	[ACCESSORY_IDs.ACCESSORY_C_Black_Dragon_Style3] = "_C_Black_Dragon_Style3",
+	[ACCESSORY_IDs.ACCESSORY_C_Dana_Rabbit_Hat] = "_C_Dana_Rabbit_Hat",
+	[ACCESSORY_IDs.ACCESSORY_C_Momo_Balloon_Hat] = "_C_Momo_Balloon_Hat",
+	[ACCESSORY_IDs.ACCESSORY_C_Boss_Ka_Hairpin] = "_C_Boss_Ka_Hairpin",
+	[ACCESSORY_IDs.ACCESSORY_C_70_Chocolate_Hat] = "_C_70_Chocolate_Hat"
 }

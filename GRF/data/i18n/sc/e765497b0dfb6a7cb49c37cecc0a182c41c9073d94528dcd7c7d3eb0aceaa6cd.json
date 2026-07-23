@@ -12,7 +12,7 @@
     "QtAbAQ": {
         "en-US": "^3355FFThis sobbing child\nlooks really upset...^000000",
         "pt-BR": "^3355FFEssa criança soluçando\nparece muito chateada...^000000",
-        "es-ES": "^3355FFEste niño está llorando\ny se ve muy angustiado…^000000"
+        "es-ES": "^3355FFEste niño está llorando\ny se ve muy angustiado...^000000"
     },
     "Q9AbAQ": {
         "en-US": "[{0}]\nHey, why are you\ncrying? Are you lost?\nWhere's your mommy?",
@@ -22,7 +22,7 @@
     "RNAbAQ": {
         "en-US": "[Kid Karyn]\nMy... Mom's\nat home...",
         "pt-BR": "[Kid Karyn]\nMinha... Mamãe está\nem casa...",
-        "es-ES": "[El niño Karyn]\nMi… mamá está \nen casa…"
+        "es-ES": "[El niño Karyn]\nMi... mamá está \nen casa..."
     },
     "RdAbAQ": {
         "en-US": "[{0}]\n......\n.........",
@@ -32,7 +32,7 @@
     "RtAbAQ": {
         "en-US": "[{0}]\nI see. So...\nAre you having\ntrouble finding\nyour way back home?",
         "pt-BR": "[{0}]\nEntendi. Então...\nVocê está com dificuldade para encontrar\no caminho de volta para casa?",
-        "es-ES": "[{0}]\nYa veo. Así que…\n¿Estás teniendo\nproblemas\npara volver a casa?"
+        "es-ES": "[{0}]\nYa veo. Así que...\n¿Estás teniendo\nproblemas\npara volver a casa?"
     },
     "R9AbAQ": {
         "en-US": "[Kid Karyn]\nNo! I'm ten years old!\nI can find my way home,\neven with my eyes closed!\n^333333*Sniff sniff*^000000 Uuuuuuweeeh~",
@@ -42,7 +42,7 @@
     "SNAbAQ": {
         "en-US": "[{0}]\nWell...",
         "pt-BR": "[{0}]\nBom...",
-        "es-ES": "[{0}]\nBueno…"
+        "es-ES": "[{0}]\nBueno..."
     },
     "SdAbAQ": {
         "en-US": "[{0}]\nCan you tell me\nwhy you're crying?",
@@ -52,32 +52,32 @@
     "StAbAQ": {
         "en-US": "[Kid Karyn]\nI... ^333333*Sniff*^000000\nI-I went to... Th-...\nVolcan.... w-w-with\nmy sist-- Waaaaaaah!",
         "pt-BR": "[Kid Karyn]\nEu... ^333333*Sniff*^000000\nEu fui até... O...\nVulcã.... com--com\nminha irmã... Waaaaaaah!",
-        "es-ES": "[El niño Karyn]\nYo… ^333333*Solloza*^000000\nf-fui al… volc…\nThor… c-c-con\nmi her… ¡Buaaaaaa!"
+        "es-ES": "[El niño Karyn]\nYo... ^333333*Solloza*^000000\nf-fui al... volc...\nThor... c-c-con\nmi her... ¡Buaaaaaa!"
     },
     "S9AbAQ": {
         "en-US": "[{0}]\nPoor kid... Come on,\ntake a deep breath so\nyou can tell me about what\nhappened a little more slowly.",
         "pt-BR": "[{0}]\nPobre criança... Certo,\nrespire fundo\npara que você possa me contar o que\naconteceu um pouco mais devagar.",
-        "es-ES": "[{0}]\nPobre niño… Vamos,\nrespira hondo así \npuedes contarme lo que\npasó un poco más despacio."
+        "es-ES": "[{0}]\nPobre niño... Vamos,\nrespira hondo así \npuedes contarme lo que\npasó un poco más despacio."
     },
     "TNAbAQ": {
         "en-US": "[Kid Karyn]\n*^333333Sob*^000000 ...It's just...\nI went to Thor Volcano\nwith my little sister to see\nwhich one of us was braver...\nBut then, we met some...\nScary people there... and...",
         "pt-BR": "[Kid Karyn]\n*^333333Soluço*^000000 ...É que...\nEu fui até o Vulcão de Thor\ncom minha irmãzinha para ver\nqual de nós era mais corajosa...\nMas então, nós encontramos algumas...\nPessoas assustadoras lá... e...",
-        "es-ES": "[El niño Karyn]\n*^333333Solloza*^000000 …Es que…\nfui al volcán Thor\ncon mi hermanita para ver\nquién de los dos era más valiente…\nPero nos encontramos…\ncon gente aterradora… y…"
+        "es-ES": "[El niño Karyn]\n*^333333Solloza*^000000 ...Es que...\nfui al volcán Thor\ncon mi hermanita para ver\nquién de los dos era más valiente...\nPero nos encontramos...\ncon gente aterradora... y..."
     },
     "TdAbAQ": {
         "en-US": "[Kid Karyn]\nI got scared, so... So...\nMy sister... Wah~! *Sob*",
         "pt-BR": "[Kid Karyn]\nEu fiquei com medo, então... Então...\nMinha irmã... Wah! *Soluço*",
-        "es-ES": "[El niño Karyn]\nme asusté, así que… Así que…\nMi hermana… ¡Buaaa! *Solloza*"
+        "es-ES": "[El niño Karyn]\nme asusté, así que... Así que...\nMi hermana... ¡Buaaa! *Solloza*"
     },
     "TtAbAQ": {
         "en-US": "[Kid Karyn]\nI-I ran away from them...\nBut I left my sister over\nthere with those weird men...",
         "pt-BR": "[Kid Karyn]\nE-eu fugi deles...\nMas deixei minha irmã lá\ncom aqueles homens estranhos...",
-        "es-ES": "[El niño Karyn]\nS-salí corriendo…\npero dejé a mi hermana\nallí con esos hombres raros…"
+        "es-ES": "[El niño Karyn]\nS-salí corriendo...\npero dejé a mi hermana\nallí con esos hombres raros..."
     },
     "T9AbAQ": {
         "en-US": "[Kid Karyn]\nMom's sick, and dad's\nalways at work... He's\nthe captain of a ship, so...\nI don't think they can help.",
         "pt-BR": "[Kid Karyn]\nA mamãe está doente, e o papai está\nsempre no trabalho... Ele é\no capitão de um navio, então...\nAcho que eles não podem ajudar.",
-        "es-ES": "[El niño Karyn]\nMamá está enferma y\npapá siempre trabaja… Es\ncapitán de un barco, así que…\nno creo que puedan ayudarme."
+        "es-ES": "[El niño Karyn]\nMamá está enferma y\npapá siempre trabaja... Es\ncapitán de un barco, así que...\nno creo que puedan ayudarme."
     },
     "UNAbAQ": {
         "en-US": "[Kid Karyn]\nCan you help me please,\nand bring my sister back?\n*Sniff* Please? I promise\nthat I can pay you as soon\nas my dad comes back!",
@@ -87,17 +87,17 @@
     "UdAbAQ": {
         "en-US": "[{0}]\nWait... I have a question.\nYou said that someone took\naway your sister at Thor\nVolcano? What did they look\nlike? Are you sure that there\nwere people there?",
         "pt-BR": "[{0}]\nEspere... Eu tenho uma pergunta.\nVocê disse que alguém pegou\nsua irmã no Vulcão de Thor? Como eles eram?\nTem certeza de que\nhavia pessoas lá?",
-        "es-ES": "[{0}]\nEspera… Tengo una pregunta.\n¿Dijiste que se llevaron\na tu hermana en el volcán\nThor? ¿Qué aspecto\ntenían? ¿Estás seguro de que\nhabía personas allí?"
+        "es-ES": "[{0}]\nEspera... Tengo una pregunta.\n¿Dijiste que se llevaron\na tu hermana en el volcán\nThor? ¿Qué aspecto\ntenían? ¿Estás seguro de que\nhabía personas allí?"
     },
     "UtAbAQ": {
         "en-US": "[Kid Karyn]\nI... I don't know!\nI got so scared, I just\nran away! I... I didn't\nmean to leave my sister!",
         "pt-BR": "[Kid Karyn]\nEu... Eu não sei!\nFiquei tão assustada que simplesmente\nfugi! Eu... Eu não queria\nqueria deixar minha irmã lá!",
-        "es-ES": "[El niño Karyn]\nYo… ¡No lo sé!\n¡Me asusté tanto\nque hui! Yo… ¡Yo no\nquise dejar a mi hermana!"
+        "es-ES": "[El niño Karyn]\nYo... ¡No lo sé!\n¡Me asusté tanto\nque hui! Yo... ¡Yo no\nquise dejar a mi hermana!"
     },
     "U9AbAQ": {
         "en-US": "[{0}]\nHmmm...\nMaybe your sister was\nkidnapped by bandits...",
         "pt-BR": "[{0}]\nHum...\nTalvez sua irmã tenha sido\nraptada por bandidos...",
-        "es-ES": "[{0}]\nMmm…\nTal vez a tu hermana\nla raptaron unos bandidos…"
+        "es-ES": "[{0}]\nMmm...\nTal vez a tu hermana\nla raptaron unos bandidos..."
     },
     "VNAbAQ": {
         "en-US": "Decline Request",
@@ -127,12 +127,12 @@
     "WdAbAQ": {
         "en-US": "[Kid Karyn]\nThank you so much!\nPlease find my sister\nCurdie soon! Oh, I hope\nshe's okay! If she's not...\n^333333*Sob*^000000 I don't know what\nI'll do! Waaaaaaaah~",
         "pt-BR": "[Kid Karyn]\nMuito obrigado!\nPor favor, encontre \na Curdie logo! Ah, espero que\nela esteja bem! Se não estiver...\n^333333*Soluço*^000000 Não sei o que vou fazer!\nWaaaaaaaah!",
-        "es-ES": "[El niño Karyn]\n¡Muchísimas gracias!\n¡Por favor, encuentra pronto\na mi hermana Curdie! Ay, ¡espero\nque esté bien! Si no lo está…\n^333333*Solloza*^000000 ¡No sé \nqué haré! ¡Buaaaaaaaaa!"
+        "es-ES": "[El niño Karyn]\n¡Muchísimas gracias!\n¡Por favor, encuentra pronto\na mi hermana Curdie! Ay, ¡espero\nque esté bien! Si no lo está...\n^333333*Solloza*^000000 ¡No sé \nqué haré! ¡Buaaaaaaaaa!"
     },
     "WtAbAQ": {
         "en-US": "[{0}]\nAlright...\nWish me luck.\nI'll go search Thor\nVolcano to find your\nlittle sister Curdie.",
         "pt-BR": "[{0}]\nTá bom...\nMe deseje sorte.\nVou procurar sua irmãzinha Curdie no Vulcão de Thor.",
-        "es-ES": "[{0}]\nMuy bien…\nDeséame suerte.\nIré al volcán Thor\nen busca de tu\nhermanita Curdie."
+        "es-ES": "[{0}]\nMuy bien...\nDeséame suerte.\nIré al volcán Thor\nen busca de tu\nhermanita Curdie."
     },
     "W9AbAQ": {
         "en-US": "[{0}]\nI'd better search\nThor Volcano for Curdie,\nKaryn's little sister.",
@@ -147,7 +147,7 @@
     "XdAbAQ": {
         "en-US": "[{0}]\nI found her,\nshe's alright but...",
         "pt-BR": "[{0}]\nEu a encontrei,\nela está bem, mas...",
-        "es-ES": "[{0}]\nLa encontré.\nEstá bien pero…"
+        "es-ES": "[{0}]\nLa encontré.\nEstá bien pero..."
     },
     "XtAbAQ": {
         "en-US": "[Kid Karyn]\nWhat? Why isn't\nshe with you?",
@@ -157,7 +157,7 @@
     "X9AbAQ": {
         "en-US": "[{0}]\nCurdie is... Well, she's\nbeen shackled down. We\nneed to find a way to free her.\nDo you know where there's\na forge or a locksmith that\nmight be able to help her?",
         "pt-BR": "[{0}]\nA Curdie foi... Bom, ela foi\nacorrentada.\nPrecisamos encontrar uma maneira de libertá-la.\nVocê sabe onde tem\numa forja ou um chaveiro que\npossa ajudá-la?",
-        "es-ES": "[{0}]\nCurdie está… Bueno, la\nencadenaron. Tenemos\nque encontrar un modo de liberarla.\n¿Sabes dónde hay\nun herrero o un cerrajero\nque pueda ayudarla?"
+        "es-ES": "[{0}]\nCurdie está... Bueno, la\nencadenaron. Tenemos\nque encontrar un modo de liberarla.\n¿Sabes dónde hay\nun herrero o un cerrajero\nque pueda ayudarla?"
     },
     "YNAbAQ": {
         "en-US": "[Kid Karyn]\nOh! Oh, there's a\nlocksmith in the market\nstreet! You can ask him\nto help free Curdie!",
@@ -167,37 +167,37 @@
     "YdAbAQ": {
         "en-US": "[{0}]\nLet's see...\nI'd better find the\nlocksmith in the market\nstreet, and ask him to help\nme unlock Curdie's shackles.",
         "pt-BR": "[{0}]\nVamos ver...\nÉ melhor eu encontrar o\nchaveiro na rua do mercado\ne pedir a ele que me ajude\na abrir as correntes da Curdie.",
-        "es-ES": "[{0}]\nVeamos…\nSerá mejor que encuentre la\ncerrajero en la calle del\ncalle y le pida ayuda al cerrajero para\nquitarle los grilletes a Curdie."
+        "es-ES": "[{0}]\nVeamos...\nSerá mejor que encuentre la\ncerrajero en la calle del\ncalle y le pida ayuda al cerrajero para\nquitarle los grilletes a Curdie."
     },
     "YtAbAQ": {
         "en-US": "[{0}]\nHuh... I'd better talk\nto Mr. Lockenlock first, the\nlocksmith in the market street.",
         "pt-BR": "[{0}]\nAh... É melhor eu falar\nprimeiro com o Sr. Lockenlock, o\nchaveiro da rua do mercado.",
-        "es-ES": "[{0}]\nMmm… Será mejor hablar\nprimero con el señor Lockenlock,\nel cerrajero de la calle del mercado."
+        "es-ES": "[{0}]\nMmm... Será mejor hablar\nprimero con el señor Lockenlock,\nel cerrajero de la calle del mercado."
     },
     "Y9AbAQ": {
         "en-US": "[{0}]\nHmm... I'd better talk\nto Ms. Ivory, the organic\nsoap maker if I want to help\nKaryn free his sister Curdie.",
         "pt-BR": "[{0}]\nHum... É melhor eu falar\ncom a Sra. Ivory, a fabricante de\nsabão orgânico, se eu quiser ajudar\no Karyn a libertar sua irmã Curdie.",
-        "es-ES": "[{0}]\nMmm… Será mejor hablar\ncon la señora Ivory, la fabricante\nde jabón orgánico, si quiero ayudar\na Karyn a liberar a su hermana Curdie."
+        "es-ES": "[{0}]\nMmm... Será mejor hablar\ncon la señora Ivory, la fabricante\nde jabón orgánico, si quiero ayudar\na Karyn a liberar a su hermana Curdie."
     },
     "ZNAbAQ": {
         "en-US": "[{0}]\nWait... I should be\nbringing Ms. Ivory all\nof the soap ingredients.\nWhat were they again...?",
         "pt-BR": "[{0}]\nEspere... Eu deveria \ntrazer para a Sra. Ivory todos\nos ingredientes do sabão.\nO que eles eram mesmo...?",
-        "es-ES": "[{0}]\nUn momento… Debería\nllevarle a la señora Ivory todos\nlos ingredientes para el jabón.\n¿Cuáles eran…?"
+        "es-ES": "[{0}]\nUn momento... Debería\nllevarle a la señora Ivory todos\nlos ingredientes para el jabón.\n¿Cuáles eran...?"
     },
     "ZdAbAQ": {
         "en-US": "[{0}]\n^4D4DFF10 Milk^000000,\n^4D4DFF100 Green Herbs^000000,\n^4D4DFF50 Jellopies^000000, and\n^4D4DFF5 Empty Bottles^000000.\n^I better get those...",
         "pt-BR": "[{0}]\n^4D4DFF10 Leites^000000,\n^4D4DFF100 Ervas verdes^000000,\n^4D4DFF50 Jellopies^000000, e\n^4D4DFF5 Garrafas vazias^000000.\nÉ melhor eu arranjar isso...",
-        "es-ES": "[{0}]\n^4D4DFF10 unidades de Leche^000000,\n^4D4DFF100 Hierbas verdes^000000,\n^4D4DFF50 Jellopy^000000 y\n^4D4DFF5 Botellas vacías^000000.\n^I Será mejor que los consiga…"
+        "es-ES": "[{0}]\n^4D4DFF10 unidades de Leche^000000,\n^4D4DFF100 Hierbas verdes^000000,\n^4D4DFF50 Jellopy^000000 y\n^4D4DFF5 Botellas vacías^000000.\n^I Será mejor que los consiga..."
     },
     "ZtAbAQ": {
         "en-US": "[{0}]\nI need to talk to\nsomeone named Saraman\nto get the soap ingredients...",
         "pt-BR": "[{0}]\nPreciso falar com\nalguém chamado Saraman\npara obter os ingredientes do sabão...",
-        "es-ES": "[{0}]\nNecesito hablar con\nalguien llamado Saraman\npara obtener los ingredientes para el jabón…"
+        "es-ES": "[{0}]\nNecesito hablar con\nalguien llamado Saraman\npara obtener los ingredientes para el jabón..."
     },
     "Z9AbAQ": {
         "en-US": "[{0}]\nLet's see...\nI need to bring\nMr. Saruman all the\nthings he needs to\nstimulate a camel's \nappetite. I need to get...",
         "pt-BR": "[{0}]\nVamos ver...\nPreciso levar ao\nSr. Saraman todas as\ncoisas que ele precisa para\nestimular o apetite de um camelo. \nPreciso conseguir...",
-        "es-ES": "[{0}]\nVeamos…\nNecesito llevar\nal señor Saraman todas las\ncosas que necesita\npara estimular el apetito \nde un camello. Necesito conseguir…"
+        "es-ES": "[{0}]\nVeamos...\nNecesito llevar\nal señor Saraman todas las\ncosas que necesita\npara estimular el apetito \nde un camello. Necesito conseguir..."
     },
     "aNAbAQ": {
         "en-US": "[{0}]\n^4D4DFF1 Unripe Apple^000000,\n^4D4DFF5 Monster's Feed^000000,\n^4D4DFF1 Empty Bottle^000000, and\n^4D4DFF1 Yellow Potion^000000.",
@@ -222,7 +222,7 @@
     "bNAbAQ": {
         "en-US": "[{0}]\nWell... I found the\ncamel. Now I need to get\nall the soap ingredients.\nThe sooner I do that, the\nsooner I can help Curdie.",
         "pt-BR": "[{0}]\nBom... Eu encontrei a camela. Agora preciso pegar\ntodos os ingredientes do sabão.\nQuanto antes eu fizer isso,\nmais rápido poderei ajudar a Curdie.",
-        "es-ES": "[{0}]\nBueno… Encontré a la\ncamella. Ahora resta conseguir\nlos ingredientes para el jabón.\nCuanto antes lo haga, más\npronto podré ayudar a Curdie."
+        "es-ES": "[{0}]\nBueno... Encontré a la\ncamella. Ahora resta conseguir\nlos ingredientes para el jabón.\nCuanto antes lo haga, más\npronto podré ayudar a Curdie."
     },
     "bdAbAQ": {
         "en-US": "[{0}]\nI managed to get the soap\ningredient and 5 of those\ncamel dung lumps. I should\nhead back to Mr. Saraman to\ntell him where his camel is,\nand then go to Ms. Ivory.",
@@ -232,7 +232,7 @@
     "btAbAQ": {
         "en-US": "[{0}]\nLet's see...\nShouldn't I be going\nto see Ms. Ivory now?",
         "pt-BR": "[{0}]\nVejamos...\nEu não deveria estar indo\nver a Sra. Ivory agora?",
-        "es-ES": "[{0}]\nVeamos…\n¿No debería ir a ver\na la señora Ivory ahora?"
+        "es-ES": "[{0}]\nVeamos...\n¿No debería ir a ver\na la señora Ivory ahora?"
     },
     "b9AbAQ": {
         "en-US": "[{0}]\nI have the Silk Sand Camel\nSoap now, so I should go\nbring it to Mr. Lockenlock.",
@@ -287,7 +287,7 @@
     "edAbAQ": {
         "en-US": "[{0}]\nUmm... I see...\nI'll come by later\nwhen Curdie's released\nfrom the hospital.",
         "pt-BR": "[{0}]\nHum... Entendi...\nVou visitar vocês depois\nque a Curdie for liberada\ndo hospital.",
-        "es-ES": "[{0}]\nMmm… Ya veo…\nPasaré más tarde\ncuando le den el alta\na Curdie."
+        "es-ES": "[{0}]\nMmm... Ya veo...\nPasaré más tarde\ncuando le den el alta\na Curdie."
     },
     "etAbAQ": {
         "en-US": "[Kid Karyn]\nYes, please do.\nI promise to help you\nwhenever you need me!",
@@ -297,7 +297,7 @@
     "e9AbAQ": {
         "en-US": "[{0}]\nHahahaha!\nWell... I guess that's\npretty reassuring. Until then,\ntake good care of your mother\nand sister. You got that?",
         "pt-BR": "[{0}]\nHahahahaha!\nBom... Acho que isso é\nbastante tranquilizador. Até lá,\ncuide bem da sua mãe\ne da sua irmã. Entendeu?",
-        "es-ES": "[{0}]\n¡Ja,ja,ja,ja!\nBueno… Creo que eso me\ntranquiliza bastante. Hasta entonces,\ncuida bien de tu madre\ny tu hermana. ¿Entendido?"
+        "es-ES": "[{0}]\n¡Ja,ja,ja,ja!\nBueno... Creo que eso me\ntranquiliza bastante. Hasta entonces,\ncuida bien de tu madre\ny tu hermana. ¿Entendido?"
     },
     "fNAbAQ": {
         "en-US": "[Kid Karyn]\nGot it!",
@@ -307,7 +307,7 @@
     "fdAbAQ": {
         "en-US": "[{0}]\nGood, good...\nIt's a promise, then.\nI'll see you later~",
         "pt-BR": "[{0}]\nBom, bom...\nÉ uma promessa, então.\nVejo você depois!",
-        "es-ES": "[{0}]\nBien, bien…\nEs una promesa, entonces.\nNos vemos luego."
+        "es-ES": "[{0}]\nBien, bien...\nEs una promesa, entonces.\nNos vemos luego."
     },
     "ftAbAQ": {
         "en-US": "[Kid Karyn]\nOh, hello! Thank you\nso much for helping me\nlast time! When I get\nolder, I'm gonna do my\nbest to help you the same\nway that you helped me!",
@@ -337,12 +337,12 @@
     "g9AbAQ": {
         "en-US": "[Kid Karyn]\nWell... Actually...\nThe pope said that my\ndad isn't allowed to use\nhis boat for a while...\nI'm not sure why.",
         "pt-BR": "[Kid Karyn]\nBom... Na verdade...\nA Papisa disse que meu\npai não tem permissão para usar\no barco por um tempo...\nNão sei bem por quê.",
-        "es-ES": "[El niño Karyn]\nBueno… En realidad…\nLa papisa dijo que mi\npapá no puede usar\nsu bote por un tiempo…\nNo sé por qué."
+        "es-ES": "[El niño Karyn]\nBueno... En realidad...\nLa papisa dijo que mi\npapá no puede usar\nsu bote por un tiempo...\nNo sé por qué."
     },
     "hNAbAQ": {
         "en-US": "[Kid Karyn]\nSo yeah. Dad's not allowed\nto go out to sea right now.\nBut it should be okay if it's\nyou, right? Hey, you helped\nme, so I hafta help you, right?",
         "pt-BR": "[Kid Karyn]\nEntão, sim. O Papai não tem permissão\nde sair para o mar no momento.\nMas não deve ter problema se for\nvocê, certo? Você me ajudou,\nentão eu tenho que ajudar você, não é mesmo?",
-        "es-ES": "[El niño Karyn]\nAsí que… A papá no le permiten\nsalir al mar ahora mismo.\nPero no estaría mal si lo haces\ntú, ¿verdad? Oye, tú me ayudaste,\nasí que ahora tengo que hacerlo yo, ¿no?"
+        "es-ES": "[El niño Karyn]\nAsí que... A papá no le permiten\nsalir al mar ahora mismo.\nPero no estaría mal si lo haces\ntú, ¿verdad? Oye, tú me ayudaste,\nasí que ahora tengo que hacerlo yo, ¿no?"
     },
     "hdAbAQ": {
         "en-US": "[Kid Karyn]\nMy dad is really mad that\nhe can't use his boat so\nmaybe we better not tell\nhim you want to use it. Let's\nkeep it our secret, okay?",
@@ -382,7 +382,7 @@
     "jNAbAQ": {
         "en-US": "[Kid Karyn]\n^333333*Sob*^000000...\n^333333*Sob*^000000...",
         "pt-BR": "[Kid Karyn]\n^333333*Soluço*^000000...\n^333333*Soluço*^000000...",
-        "es-ES": "[El niño Karyn]\n^333333*Solloza*^000000…\n^333333*Solloza*^000000…"
+        "es-ES": "[El niño Karyn]\n^333333*Solloza*^000000...\n^333333*Solloza*^000000..."
     },
     "jdAbAQ": {
         "en-US": "Little Curdie",
@@ -407,12 +407,12 @@
     "kdAbAQ": {
         "en-US": "[Little Curdie]\nHuh?!\n...Ah, owwww~\nW-waaaaaaaah!",
         "pt-BR": "[Pequena Curdie]\nHã?!\n...Ah, owwww!\nW-waaaaaaaah!",
-        "es-ES": "[Pequeña Curdie]\n¡¿Eh?!\n…¡Ay, auuuuch!\n¡B-buaaaaaa!"
+        "es-ES": "[Pequeña Curdie]\n¡¿Eh?!\n...¡Ay, auuuuch!\n¡B-buaaaaaa!"
     },
     "ktAbAQ": {
         "en-US": "[{0}]\nSorry! I didn't mean\nto make you cry! Are...\nAre you alright?",
         "pt-BR": "[{0}]\nMe desculpe! Eu não queria\nfazer você chorar! Você...\nVocê está bem?",
-        "es-ES": "[{0}]\n¡Lo siento! ¡No quise\nhacerte llorar! Estás…\n¿Estás bien?"
+        "es-ES": "[{0}]\n¡Lo siento! ¡No quise\nhacerte llorar! Estás...\n¿Estás bien?"
     },
     "k9AbAQ": {
         "en-US": "[Little Curdie]\nHuh? Wh-who are you?\nOh no, you have to get\nout of here! You'll be in\ntrouble if they catch you!",
@@ -427,32 +427,32 @@
     "ldAbAQ": {
         "en-US": "[Little Curdie]\nKaryn...?\nOh, oh no! I... They\nlocked me in these\nshackles and I can't move!\nYou have to leave before\nthose scary men come back!",
         "pt-BR": "[Pequena Curdie]\nKaryn...?\nOh, oh não! Eu... Eles\nme prenderam nessas\ncorrentes e não consigo me mexer!\nVocê tem que sair antes\nque aqueles homens assustadores voltem!",
-        "es-ES": "[Pequeña Curdie]\n¿Karyn…?\n¡Ay! ¡Oh, no! Me… ¡Me\nencadenaron con estos\ngrilletes y no puedo moverme!\n¡Vete antes de que vuelvan\nesos hombres terroríficos!"
+        "es-ES": "[Pequeña Curdie]\n¿Karyn...?\n¡Ay! ¡Oh, no! Me... ¡Me\nencadenaron con estos\ngrilletes y no puedo moverme!\n¡Vete antes de que vuelvan\nesos hombres terroríficos!"
     },
     "ltAbAQ": {
         "en-US": "[{0}]\nWhat...?!\nThose bastards!\nTying up a little\ngirl like this...",
         "pt-BR": "[{0}]\nO quê...?!\nEsses miseráveis!\nPrender uma garotinha\ndesse jeito...",
-        "es-ES": "[{0}]\n¡¿Qué?!\n¡Esos miserables!\nAtar así a una\nniñita…"
+        "es-ES": "[{0}]\n¡¿Qué?!\n¡Esos miserables!\nAtar así a una\nniñita..."
     },
     "l9AbAQ": {
         "en-US": "[{0}]\nArgh! And I can't just\nuse brute force to shatter\nthese shackles! I might\nend up hurting you...!",
         "pt-BR": "[{0}]\nArgh! E eu não posso simplesmente\nusar força bruta para quebrar\nessas correntes! Eu poderia\nacabar machucando você...!",
-        "es-ES": "[{0}]\n¡Grrr! ¡Y no puedo\nusar la fuerza bruta para romper\nestos grilletes! ¡Puedo\nlastimarte…!"
+        "es-ES": "[{0}]\n¡Grrr! ¡Y no puedo\nusar la fuerza bruta para romper\nestos grilletes! ¡Puedo\nlastimarte...!"
     },
     "mNAbAQ": {
         "en-US": "[Little Curdie]\nDon't worry about me...\nJust hurry and leave!\nI... I'll be alright! Now\nhurry! Someone's coming!",
         "pt-BR": "[Pequena Curdie]\nNão se preocupe comigo...\nApenas se apresse e vá embora!\nEu... Eu vou ficar bem! \nRápido! Alguém está chegando!",
-        "es-ES": "[Pequeña Curdie]\nNo te preocupes por mí…\n¡Date prisa y vete!\nYo… ¡Estaré bien! Ahora,\n¡apúrate! ¡Viene alguien!"
+        "es-ES": "[Pequeña Curdie]\nNo te preocupes por mí...\n¡Date prisa y vete!\nYo... ¡Estaré bien! Ahora,\n¡apúrate! ¡Viene alguien!"
     },
     "mdAbAQ": {
         "en-US": "[{0}]\nOkay, I'll go...\nBut sit tight, and\nwait for me to come\nback. I'll figure out\nsome way to free you.",
         "pt-BR": "[{0}]\nCerto, eu vou...\nMas fique calma e\nespere até que eu volte.\nEu vou descobrir\num jeito de te libertar.",
-        "es-ES": "[{0}]\nBueno, me iré…\nPero sé paciente y\nespera a que\nregrese. Averiguaré \nel modo de liberarte."
+        "es-ES": "[{0}]\nBueno, me iré...\nPero sé paciente y\nespera a que\nregrese. Averiguaré \nel modo de liberarte."
     },
     "mtAbAQ": {
         "en-US": "[Little Curdie]\n^333333*Sob*^000000 R-really...?",
         "pt-BR": "[Pequena Curdie]\n^333333*Soluço*^000000 S-sério...?",
-        "es-ES": "[Pequeña Curdie]\n^333333*Solloza*^000000 ¿E-en serio…?"
+        "es-ES": "[Pequeña Curdie]\n^333333*Solloza*^000000 ¿E-en serio...?"
     },
     "m9AbAQ": {
         "en-US": "[{0}]\nI promise.\nI'm sure that someone\nin town will know of a way\nto unlock your shackles.\nI'll be back as soon as I can!",
@@ -472,7 +472,7 @@
     "ntAbAQ": {
         "en-US": "[Little Curdie]\nI hate the metal\nclanging sounds...\nTh-the sparks,\nthey're... They're...",
         "pt-BR": "[Little Curdie]\nEu odeio o barulho do metal\nressoando...\nAs faíscas,\nelas são... Elas são...",
-        "es-ES": "[Pequeña Curdie]\nOdio el sonido\ntintineante del metal…\nL-las chispas\nson… Son…"
+        "es-ES": "[Pequeña Curdie]\nOdio el sonido\ntintineante del metal...\nL-las chispas\nson... Son..."
     },
     "n9AbAQ": {
         "en-US": "^3355FFCurdie is curled up on\nthe ground, eyes tightly\nshut, her entire body\ntrembling with fear.^000000",
@@ -537,22 +537,22 @@
     "q9AbAQ": {
         "en-US": "[Little Curdie]\nWill...\nWill I always\nbe stuck here?\nI... I want my mommy...",
         "pt-BR": "[Pequena Curdie]\nSerá que...\nSerá que eu \nficarei presa aqui para sempre?\nEu... Eu quero minha mamãe...",
-        "es-ES": "[Pequeña Curdie]\n¿Estaré…\n¿Estaré atrapada\naquí para siempre?\nYo… Quiero a mi mami…"
+        "es-ES": "[Pequeña Curdie]\n¿Estaré...\n¿Estaré atrapada\naquí para siempre?\nYo... Quiero a mi mami..."
     },
     "rNAbAQ": {
         "en-US": "[{0}]\nOh... You're awake?\nDon't worry, Curdie,\nI'm sure that I'll be\nable to get you free soon.\nTry to hold on a bit longer.",
         "pt-BR": "[{0}]\nAh... Você está acordada?\nNão se preocupe, Curdie,\nTenho certeza de que \nque vou conseguir te libertar em breve.\nTente aguentar só mais um pouco.",
-        "es-ES": "[{0}]\nAh… ¿Estás despierta?\nTranquila, Curdie,\nte aseguro que podré \nsacarte de aquí pronto.\nIntenta aguantar un poco más."
+        "es-ES": "[{0}]\nAh... ¿Estás despierta?\nTranquila, Curdie,\nte aseguro que podré \nsacarte de aquí pronto.\nIntenta aguantar un poco más."
     },
     "rdAbAQ": {
         "en-US": "[Little Curdie]\nWhen the door is open,\nI see blazing flames...\nAnd I hear... the sound\nof machines? These men\nwearing the same clothes\nkeep marching past me...",
         "pt-BR": "[Pequena Curdie]\nQuando a porta está aberta,\neu vejo chamas ardentes...\nE ouço... o som\nde máquinas? Esses homens\nvestindo as mesmas roupas\ncontinuam passando por mim...",
-        "es-ES": "[Pequeña Curdie]\nCuando la puerta está abierta,\nveo llamas ardientes…\nY escucho… ¿el sonido\nde máquinas? Unos hombres\nque llevan la misma ropa\npasan marchando a mi lado…"
+        "es-ES": "[Pequeña Curdie]\nCuando la puerta está abierta,\nveo llamas ardientes...\nY escucho... ¿el sonido\nde máquinas? Unos hombres\nque llevan la misma ropa\npasan marchando a mi lado..."
     },
     "rtAbAQ": {
         "en-US": "[Little Curdie]\nI... They scare me so much!\nTh-the man that brings me\nfood says that they won't\nlet me go because of what\nI saw inside there. They...\nThey won't let be go home...",
         "pt-BR": "[Pequena Curdie]\nEu... Eles me assustam muito!\nO homem que me traz\ncomida diz que eles não vão\nme deixar ir embora por causa do que\neu vi lá dentro. Eles...\nEles não me deixam ir para casa...",
-        "es-ES": "[Pequeña Curdie]\nMe… ¡Me dan tanto miedo!\nE-el hombre que me trae\ncomida dice que no me\ndejarán ir por lo que\nvi allí dentro. No…\nNo me dejarán ir a casa…"
+        "es-ES": "[Pequeña Curdie]\nMe... ¡Me dan tanto miedo!\nE-el hombre que me trae\ncomida dice que no me\ndejarán ir por lo que\nvi allí dentro. No...\nNo me dejarán ir a casa..."
     },
     "r9AbAQ": {
         "en-US": "^3355FFCurdie's eyes are\ndisfocused and are\npointed above your head.\nShe might not survive if\nshe's forced to remain\nhere for much longer.^000000",
@@ -562,17 +562,17 @@
     "sNAbAQ": {
         "en-US": "[{0}]\nDon't worry.\nI'll come rescue\nyou as soon as I make\nthe key to unlock these\nawful shackles. Don't worry...",
         "pt-BR": "[{0}]\nNão se preocupe.\nEu irei resgatá-la\nassim que eu conseguir\na chave para destravar essas\ncorrentes horríveis. Não se preocupe...",
-        "es-ES": "[{0}]\nNo te preocupes.\nVendré a rescatarte\ntan pronto como haga\nla llave para abrir estos\ngrilletes horribles. No te preocupes…"
+        "es-ES": "[{0}]\nNo te preocupes.\nVendré a rescatarte\ntan pronto como haga\nla llave para abrir estos\ngrilletes horribles. No te preocupes..."
     },
     "sdAbAQ": {
         "en-US": "[Little Curdie]\nIf I'm not here the\nnext time you come,\nthen just run away.\nDon't even tell my brother.\nGet far away before they\ncan catch you. I-I'm serious...",
         "pt-BR": "[Pequena Curdie]\nSe eu não estiver aqui\nda próxima vez que você vier,\nentão vá embora.\nNem conte nada para o meu irmão.\nVá para bem longe antes que eles\nconsigam te pegar. Estou falando sério...",
-        "es-ES": "[Pequeña Curdie]\nSi no estoy aquí la\npróxima vez que vengas,\nsolo vete.\nNi siquiera le digas a mi hermano.\nVete bien lejos antes de\nque te atrapen. L-lo digo en serio…"
+        "es-ES": "[Pequeña Curdie]\nSi no estoy aquí la\npróxima vez que vengas,\nsolo vete.\nNi siquiera le digas a mi hermano.\nVete bien lejos antes de\nque te atrapen. L-lo digo en serio..."
     },
     "stAbAQ": {
         "en-US": "[Little Curdie]\nEven if I don't see you\nagain... I just... I just\nwant to thank you for doing\nyour best to help me.",
         "pt-BR": "[Pequena Curdie]\nMesmo que eu não veja você\nde novo... Eu só... Eu só\nquero te agradecer por fazer\no seu melhor para me ajudar.",
-        "es-ES": "[Pequeña Curdie]\nAunque no te vuelva\na ver… Solo… Solo\nquiero agradecerte por hacer\nlo imposible por ayudarme."
+        "es-ES": "[Pequeña Curdie]\nAunque no te vuelva\na ver... Solo... Solo\nquiero agradecerte por hacer\nlo imposible por ayudarme."
     },
     "s9AbAQ": {
         "en-US": "[{0}]\nEverything will be\nalright. I just have\nto hurry a little bit.\nAlright, it's time to go.",
@@ -592,12 +592,12 @@
     "ttAbAQ": {
         "en-US": "[Little Curdie]\nY-you...\nIs it really you?",
         "pt-BR": "[Pequena Curdie]\nV-você...\nÉ realmente você?",
-        "es-ES": "[Pequeña Curdie]\nT-tú…\n¿De verdad eres tú?"
+        "es-ES": "[Pequeña Curdie]\nT-tú...\n¿De verdad eres tú?"
     },
     "t9AbAQ": {
         "en-US": "[{0}]\nHang on, Curdie!\nI hope this key works...",
         "pt-BR": "[{0}]\nAguente firme, Curdie!\nEspero que essa chave funcione...",
-        "es-ES": "[{0}]\n¡Aguanta, Curdie!\nEspero que esta llave funcione…"
+        "es-ES": "[{0}]\n¡Aguanta, Curdie!\nEspero que esta llave funcione..."
     },
     "uNAbAQ": {
         "en-US": "^3355FFYou unlock the\nshackles with\nMr. Lockenlock's key.^000000",
@@ -612,7 +612,7 @@
     "utAbAQ": {
         "en-US": "[Little Curdie]\nAaaah!\nM-my... My...!",
         "pt-BR": "[Pequena Curdie]\nAaaah!\nM-meu... Meu...!",
-        "es-ES": "[Pequeña Curdie]\n¡Aaaah!\nM-mis… ¡Mis…!"
+        "es-ES": "[Pequeña Curdie]\n¡Aaaah!\nM-mis... ¡Mis...!"
     },
     "u9AbAQ": {
         "en-US": "^3355FFCurdie's legs are\nswollen from the\nweight and pressure\nof wearing the shackles\nfor such a long time.^000000",
@@ -632,7 +632,7 @@
     "vtAbAQ": {
         "en-US": "[Little Curdie]\nOh! Thank you...\nI... I can go home...\nThank you s-so much...",
         "pt-BR": "[Pequena Curdie]\nAh! Obrigada...\nEu... Posso ir para casa...\nMuito obrigada...",
-        "es-ES": "[Pequeña Curdie]\n¡Ah! Gracias…\nYo… Puedo irme a casa…\nM-muchas gracias…"
+        "es-ES": "[Pequeña Curdie]\n¡Ah! Gracias...\nYo... Puedo irme a casa...\nM-muchas gracias..."
     },
     "v9AbAQ": {
         "en-US": "^3355FFYou use the power\nof a Butterfly Wing to\nsend Curdie back to\ntown. Hopefully, she'll\narrive safely and see\nher brother Karyn again.^000000",
@@ -642,12 +642,12 @@
     "wNAbAQ": {
         "en-US": "[{0}]\nWhat did she see behind\nthe steel door in this old\nvolcano? It must have been\ndangerous... Something\nrelated to the Rachel Army...",
         "pt-BR": "[{0}]\nO que ela viu atrás\nda porta de aço desse antigo\nvulcão? Deve ter sido algo\nperigoso... Alguma coisa\nrelacionada ao Exército de Rachel...",
-        "es-ES": "[{0}]\n¿Qué habrá visto detrás de\nla puerta de acero en este viejo\nvolcán? Debe haber sido\nalgo peligroso… Algo\nvinculado al ejército de Rachel…"
+        "es-ES": "[{0}]\n¿Qué habrá visto detrás de\nla puerta de acero en este viejo\nvolcán? Debe haber sido\nalgo peligroso... Algo\nvinculado al ejército de Rachel..."
     },
     "wdAbAQ": {
         "en-US": "[Little Curdie]\n ...@@@....",
         "pt-BR": "[Little Curdie]\n...@@@....",
-        "es-ES": "[Pequeña Curdie]\n …@@@…"
+        "es-ES": "[Pequeña Curdie]\n ...@@@..."
     },
     "wtAbAQ": {
         "en-US": "Lockenlock",
@@ -657,12 +657,12 @@
     "w9AbAQ": {
         "en-US": "[{0}]\nExcuse me...?",
         "pt-BR": "[{0}]\nCom licença...?",
-        "es-ES": "[{0}]\n¿Disculpa…?"
+        "es-ES": "[{0}]\n¿Disculpa...?"
     },
     "xNAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nHuh? Arrrgh...\nMy head... What\ndo you want?",
         "pt-BR": "[Chaveiro Lockenlock]\nHã? Arrrgh...\nMinha cabeça... O que você quer?",
-        "es-ES": "[Cerrajero Lockenlock]\n¿Eh? ¡Ayyy!\nMi cabeza… ¿Qué \nquieres?"
+        "es-ES": "[Cerrajero Lockenlock]\n¿Eh? ¡Ayyy!\nMi cabeza... ¿Qué \nquieres?"
     },
     "xdAbAQ": {
         "en-US": "[{0}]\nOh, I'd like\nto make a key.",
@@ -672,7 +672,7 @@
     "xtAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nKeys? Yeah, yeah...\nThat's what I do.\nIf you've got the lock,\nit'll be a piece of cake.",
         "pt-BR": "[Chaveiro Lockenlock]\nChaves? Sim, sim...\nÉ isso que eu faço.\nSe você tiver a fechadura,\nvai ser moleza.",
-        "es-ES": "[Cerrajero Lockenlock]\n¿Llaves? Sí, sí…\nEse es mi trabajo.\nSi tienes la cerradura,\nserá pan comido."
+        "es-ES": "[Cerrajero Lockenlock]\n¿Llaves? Sí, sí...\nEse es mi trabajo.\nSi tienes la cerradura,\nserá pan comido."
     },
     "x9AbAQ": {
         "en-US": "[Locksmith Lockenlock]\nUgh, but I'm so thirsty\nand this headache is\nkilling me. You mind\nbringing me a Yellow\nPotion first?",
@@ -687,12 +687,12 @@
     "ydAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nAh, that hit the spot!\nWait, wait... Now I feel\ndizzy... What's going...\nWhat's going on...?",
         "pt-BR": "[Serralheiro Lockenlock]\nAh, essa acertou em cheio!\nEspere, espere... Agora estou me sentindo\ntonto... O que está acontecendo...\nO que está acontecendo...?",
-        "es-ES": "[Cerrajero Lockenlock]\nAh, ¡perfecto!\nUn momento… Ahora estoy\nmareado… ¿Pero qué…\n¿Qué pasa…?"
+        "es-ES": "[Cerrajero Lockenlock]\nAh, ¡perfecto!\nUn momento... Ahora estoy\nmareado... ¿Pero qué...\n¿Qué pasa...?"
     },
     "ytAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nOkay, okay...\nI'm alright now.\nSo what'd you say you\nneeded? A key? Did you\nbring the lock with you?",
         "pt-BR": "[Locksmith Lockenlock]\nCerto, certo...\nEstou bem agora.\nEntão, o que você disse que\nprecisava? De uma chave? Você\ntrouxe a fechadura?",
-        "es-ES": "[Cerrajero Lockenlock]\nBueno, bueno…\nYa estoy bien.\nEntonces, ¿qué dijiste que\nnecesitabas? ¿Una llave? ¿Trajiste\nla cerradura contigo?"
+        "es-ES": "[Cerrajero Lockenlock]\nBueno, bueno...\nYa estoy bien.\nEntonces, ¿qué dijiste que\nnecesitabas? ¿Una llave? ¿Trajiste\nla cerradura contigo?"
     },
     "y9AbAQ": {
         "en-US": "[Locksmith Lockenlock]\nI'm an expert in crafting\nkeys and locks. Hell, my locks\nare strong enough to hold down\na dragon, you know that? I'll\nhave you know that the Rachel\nArmy's a regular customer~",
@@ -707,7 +707,7 @@
     "zdAbAQ": {
         "en-US": "[{0}]\nSo what happened was...\nI lost my key, but I can't\nbring the lock here with me.\nI think I'd end up breaking\nit if I brought it with me.",
         "pt-BR": "[{0}]\nEntão, o que aconteceu foi...\nEu perdi minha chave, mas não posso\ntrazer a fechadura comigo.\nAcho que acabaria quebrando\nse a trouxesse comigo.",
-        "es-ES": "[{0}]\nBueno, lo que pasó fue…\nque perdí mi llave, pero no puedo\ntraer la cerradura aquí.\nCreo que acabaría por romperla\nsi la traigo."
+        "es-ES": "[{0}]\nBueno, lo que pasó fue...\nque perdí mi llave, pero no puedo\ntraer la cerradura aquí.\nCreo que acabaría por romperla\nsi la traigo."
     },
     "ztAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nOh, yeah? No problem.\nJust take me to the lock.\nI'll charge you extra, though,\nespecially since my knees\nare going bad. So where\nare we going exactly?",
@@ -727,7 +727,7 @@
     "0dAbAQ": {
         "en-US": "[{0}]\nNo, it's nothing like\nthat! It's just that the lock\nis in a dangerous place.\nThis is really important...\nPlease, you have to help me!",
         "pt-BR": "[{0}]\nNão, não é nada disso!\nÉ que a fechadura\nestá em um local perigoso.\nIsso é muito importante...\nPor favor, você precisa me ajudar!",
-        "es-ES": "[{0}]\nNo, ¡no es nada de\neso! Es solo que la cerradura\nestá en un lugar peligroso.\nEs muy importante…\n¡Por favor, ayúdame!"
+        "es-ES": "[{0}]\nNo, ¡no es nada de\neso! Es solo que la cerradura\nestá en un lugar peligroso.\nEs muy importante...\n¡Por favor, ayúdame!"
     },
     "0tAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nHuh. Well, bottom line,\nI can't make a key without\nlooking at the lock. Let me\nthink of a way I can help you.\nGive me a second, will you?",
@@ -747,7 +747,7 @@
     "1dAbAQ": {
         "en-US": "[{0}]\nChamelpu Soap?\nWhat is th--",
         "pt-BR": "[{0}]\nSabão Chamelepu ?\nO que é isso?",
-        "es-ES": "[{0}]\n¿Jabón de chamelepu?\n¿Qué es el ja…"
+        "es-ES": "[{0}]\n¿Jabón de chamelepu?\n¿Qué es el ja..."
     },
     "1tAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nNo time to explain.\nYou'd better hurry and\nfind her before she closes\nshop for the day. The shop\nowner's a beauty, so it'll\nbe tough for you to miss her.",
@@ -762,12 +762,12 @@
     "2NAbAQ": {
         "en-US": "^3355FFIt's a drunkard...\nThis man must be the\nMr. Lockenlock that you seek.\nYou'd better follow Toby's\nadvice and bring this man\na Yellow Potion first.^000000",
         "pt-BR": "^3355FFÉ um bebum...\nEste homem deve ser o\nSr. Lockenlock que você procura.\nÉ melhor você seguir o conselho do Toby\ne levar para esse homem\numa Poção Amarela primeiro.^000000",
-        "es-ES": "^3355FFEs un borracho…\nEste hombre debe de ser el\nseñor Lockenlock que buscas.\nMejor sigue el consejo de\nToby y tráele a este hombre\nuna Poción amarilla primero.^000000"
+        "es-ES": "^3355FFEs un borracho...\nEste hombre debe de ser el\nseñor Lockenlock que buscas.\nMejor sigue el consejo de\nToby y tráele a este hombre\nuna Poción amarilla primero.^000000"
     },
     "2dAbAQ": {
         "en-US": "^3355FFIt's a drunkard...\nThe scent of pure\nalcohol wafts around him.\nThere's a certain beauty\nto his disheveled misery.^000000",
         "pt-BR": "^3355FFÉ um bebum...\nO cheiro de álcool puro\npaira ao seu redor.\nHá uma certa beleza\nem sua miséria desordenada.^000000",
-        "es-ES": "^3355FFEs un borracho…\nLo rodea un aroma\nde alcohol puro.\nHay una cierta belleza\nen su desgreñada miseria.^000000"
+        "es-ES": "^3355FFEs un borracho...\nLo rodea un aroma\nde alcohol puro.\nHay una cierta belleza\nen su desgreñada miseria.^000000"
     },
     "2tAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nGo to the market and\nfind a lady selling organic\nsoap. You need to get a bottle\nof Chamelepu Soap. You will\nneed that exact type of soap:\nnothing else will do.",
@@ -797,7 +797,7 @@
     "39AbAQ": {
         "en-US": "[Locksmith Lockenlock]\nFinally, bring the bottle\nback here for me so that\nI can make the key. But when\nyou come back, I need to make\nsure that the key you're making\nisn't for anything illegal...",
         "pt-BR": "[Chaveiro Lockenlock]\nFinalmente, traga a garrafa\naté aqui, para que\neu possa fazer a chave. Mas\nquando você voltar, preciso ter certeza\nde que a chave que você está fazendo\nnão é para nada ilegal...",
-        "es-ES": "[Cerrajero Lockenlock]\nPor último, vuelve aquí \ncon la botella para que\npueda hacer la llave. Pero cuando\nregreses, tengo que asegurarme\nde que la llave que quieres hacer\nno sea para algo ilegal…"
+        "es-ES": "[Cerrajero Lockenlock]\nPor último, vuelve aquí \ncon la botella para que\npueda hacer la llave. Pero cuando\nregreses, tengo que asegurarme\nde que la llave que quieres hacer\nno sea para algo ilegal..."
     },
     "4NAbAQ": {
         "en-US": "[{0}]\nAlright.",
@@ -807,17 +807,17 @@
     "4dAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nOh, you're back...\nSo did you manage\nto make the key mold?",
         "pt-BR": "[Serralheiro Lockenlock]\nAh, você voltou...\nEntão, você conseguiu\nfazer o molde da chave?",
-        "es-ES": "[Cerrajero Lockenlock]\nAh, volviste…\n¿Lograste\nhacer el molde de la llave?"
+        "es-ES": "[Cerrajero Lockenlock]\nAh, volviste...\n¿Lograste\nhacer el molde de la llave?"
     },
     "4tAbAQ": {
         "en-US": "[{0}]\nYes, I did. Would you\nplease hurry? This is an\nemergency, and it could\nget really bad if I don't\nget this key made soon...",
         "pt-BR": "[{0}]\nSim, eu consegui. Você poderia\nse apressar? Isso é uma\nemergência, e a situação pode\nficar muito ruim se eu não\nconseguir fazer essa chave logo...",
-        "es-ES": "[{0}]\nSí. ¿Podrías\ndarte prisa? Se trata de una\nemergencia y podría\nterminar muy mal si no\ntengo esta llave pronto…"
+        "es-ES": "[{0}]\nSí. ¿Podrías\ndarte prisa? Se trata de una\nemergencia y podría\nterminar muy mal si no\ntengo esta llave pronto..."
     },
     "49AbAQ": {
         "en-US": "[Locksmith Lockenlock]\nLet me see... Well,\nit's not really perfect, but\nI should be able to fashion\na key for this lock. Ooh...\nBut you know what? I don't\nhave any materials on me.",
         "pt-BR": "[Chaveiro Lockenlock]\nDeixe-me ver... Bom,\nnão ficou perfeito, mas\neu devo ser capaz de criar\numa chave para essa fechadura. Ah...\nMas sabe de uma coisa? Eu não tenho\nnenhum material comigo.",
-        "es-ES": "[Cerrajero Lockenlock]\nDéjame ver… Bueno,\nno está del todo perfecto, pero\ndebería poder crear\nuna llave para esta cerradura. Ah…\n¿Pero sabes qué? No\ntengo ningún material aquí."
+        "es-ES": "[Cerrajero Lockenlock]\nDéjame ver... Bueno,\nno está del todo perfecto, pero\ndebería poder crear\nuna llave para esta cerradura. Ah...\n¿Pero sabes qué? No\ntengo ningún material aquí."
     },
     "5NAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nI've already made all\nthe keys and locks for this\ntown, so no one's really had\nto send in any orders lately.\nThat's why I didn't have any\nmaterials onhand. Sorry.",
@@ -837,12 +837,12 @@
     "59AbAQ": {
         "en-US": "[Locksmith Lockenlock]\n...............................\nI've been studying\nthis key mold, and\nI just realized something...\nTell me right now: what\nare you using this key for?",
         "pt-BR": "[Chaveiro Lockenlock]\n...............................\nEstive estudando\nesse molde de chave e\nacabei de perceber uma coisa...\nDiga-me agora mesmo: para que\nvocê vai usar essa chave?",
-        "es-ES": "[Cerrajero Lockenlock]\n...............................\nEstuve estudiando\nel molde de esta llave y\nme di cuenta de algo…\nDime ya mismo para qué \nusarás esta llave."
+        "es-ES": "[Cerrajero Lockenlock]\n...............................\nEstuve estudiando\nel molde de esta llave y\nme di cuenta de algo...\nDime ya mismo para qué \nusarás esta llave."
     },
     "6NAbAQ": {
         "en-US": "[{0}]\nHuh...?\nWhat are you...?",
         "pt-BR": "[{0}]\nHã...?\nO que você está...?",
-        "es-ES": "[{0}]\n¿Eh…?\n¿Qué estás…?"
+        "es-ES": "[{0}]\n¿Eh...?\n¿Qué estás...?"
     },
     "6dAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nI asked you first.\nTell me what you intend\nto do with this key! If you\ndon't, I can't help you.",
@@ -852,7 +852,7 @@
     "6tAbAQ": {
         "en-US": "[{0}]\nDon't lie to me.\nThis mold... This is\nthe lock for the shackles\nthat I've made under the\norders of the Rachel Army.\nI have the master key for that.",
         "pt-BR": "[{0}]\nNão minta para mim.\nEsse molde... Esta é\na fechadura para as correntes\nque eu fiz sob as\nordens do Exército de Rachel.\nEu tenho a chave mestra para isso.",
-        "es-ES": "[{0}]\nNo me mientas.\nEste molde… Es\nla cerradura de los grilletes\nque hice por órdenes\ndel ejército de Rachel.\nTengo la llave maestra para eso."
+        "es-ES": "[{0}]\nNo me mientas.\nEste molde... Es\nla cerradura de los grilletes\nque hice por órdenes\ndel ejército de Rachel.\nTengo la llave maestra para eso."
     },
     "69AbAQ": {
         "en-US": "[Locksmith Lockenlock]\nThese shackles are only\nsupposed to be used for\nprisoners! If I release one\nof them, they will hunt you\ndown and hold me accountable.",
@@ -862,22 +862,22 @@
     "7NAbAQ": {
         "en-US": "[{0}]\nThe truth is... I really\nam trying to free somebody\nthe Rachel Army imprisoned...\nShe's Curdie, a young girl\nthat they locked up in\nThor Volcano...",
         "pt-BR": "[{0}]\nA verdade é que... Eu realmente\nestou tentando libertar alguém\nque o Exército de Rachel aprisionou...\nEla se chama Curdie, é uma jovem garota\nque eles prenderam no\nVulcão de Thor...",
-        "es-ES": "[{0}]\nLa verdad es que… Realmente,\nintento liberar a alguien\nque el ejército de Rachel capturó…\nSe llama Curdie, es una niña\nque encerraron en\nel volcán Thor…"
+        "es-ES": "[{0}]\nLa verdad es que... Realmente,\nintento liberar a alguien\nque el ejército de Rachel capturó...\nSe llama Curdie, es una niña\nque encerraron en\nel volcán Thor..."
     },
     "7dAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nWhat...?!\nAre you serious?\nY-you're... No way.\nYou're not lying. This...\nI'm sorry. You shouldn't\nhave gotten involved, but...",
         "pt-BR": "[Chaveiro Lockenlock]\nO quê...?!\nVocê está falando sério?\nVocê está... De jeito nenhum.\nNão está mentindo. Isso...\nEu sinto muito. Você não deveria\nter se envolvido, mas...",
-        "es-ES": "[Cerrajero Lockenlock]\n¡¿Qué?!\n¿Es en serio?\nE-estás… No puede ser.\nNo estás mintiendo. Este…\nLo siento. No deberías\nhaberte involucrado, pero…"
+        "es-ES": "[Cerrajero Lockenlock]\n¡¿Qué?!\n¿Es en serio?\nE-estás... No puede ser.\nNo estás mintiendo. Este...\nLo siento. No deberías\nhaberte involucrado, pero..."
     },
     "7tAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nOh God!\nThey... They\nreally imprisoned\nan innocent child?!",
         "pt-BR": "[Chaveiro Lockenlock]\nOh, Deus!\nEles... Eles\nrealmente aprisionaram\numa criança inocente?!",
-        "es-ES": "[Cerrajero Lockenlock]\n¡Por favor!\n¡¿Realmente… ¡¿Realmente\nencarcelaron a\nuna niña inocente?!"
+        "es-ES": "[Cerrajero Lockenlock]\n¡Por favor!\n¡¿Realmente... ¡¿Realmente\nencarcelaron a\nuna niña inocente?!"
     },
     "79AbAQ": {
         "en-US": "[Locksmith Lockenlock]\nHere. Take it.\nTake the master key.\nBring it to Thor Volcano\nand rescue that poor kid.\nWe could get in a lot of\ntrouble for doing this, but...",
         "pt-BR": "[Chaveiro Lockenlock]\nAqui. Pegue.\nPegue a chave mestra.\nLeve-a para o Vulcão de Thor\ne resgate essa pobre garota.\nPodemos nos meter em um monte de\nproblemas por fazer isso, mas...",
-        "es-ES": "[Cerrajero Lockenlock]\nAquí tienes. Tómala.\nToma la llave maestra.\nLlévala al volcán Thor\ny rescata a esa pobre niña.\nPodemos meternos en muchos\nproblemas por hacer esto, pero…"
+        "es-ES": "[Cerrajero Lockenlock]\nAquí tienes. Tómala.\nToma la llave maestra.\nLlévala al volcán Thor\ny rescata a esa pobre niña.\nPodemos meternos en muchos\nproblemas por hacer esto, pero..."
     },
     "8NAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nMy conscience won't allow\nthem to do something like\nthis. Rescue that kid, and\nthen throw the key away\nsomewhere when you're done.",
@@ -887,7 +887,7 @@
     "8dAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nThat way, if the army\ncomes to interrogate me,\nI'll just say that it was\nstolen from my shop by\nsome thief. I should get\nrid of all my keys too...",
         "pt-BR": "[Chaveiro Lockenlock]\nDessa forma, se o exército\nvier me interrogar,\ndirei apenas que ela foi\nroubada da minha loja por\nalgum ladrão. Eu deveria me livrar de\ntodas as minhas chaves também...",
-        "es-ES": "[Cerrajero Lockenlock]\nAsí, si el ejército\nviene a interrogarme,\nles diré que algún ladrón\nentró a mi tienda y\nme la robó. Debería deshacerme\nde todas mis llaves también…"
+        "es-ES": "[Cerrajero Lockenlock]\nAsí, si el ejército\nviene a interrogarme,\nles diré que algún ladrón\nentró a mi tienda y\nme la robó. Debería deshacerme\nde todas mis llaves también..."
     },
     "8tAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nHurry up and go!\nMake sure that you\nbring that child back\nsafe to her family!",
@@ -897,7 +897,7 @@
     "89AbAQ": {
         "en-US": "[Locksmith Lockenlock]\nHey, that kid you saved...\nCurdie. She's safely back\nin town. I feel so responsible\nabout what happened. I mean,\nshe was locked up in shackles\nthat I designed for the army.",
         "pt-BR": "[Chaveiro Lockenlock]\nEi, aquela garota que você salvou...\nCurdie. Ela está de volta em segurança\nà cidade. Eu me sinto tão responsável\npelo que aconteceu. Quero dizer,\nela estava presa com correntes\nque eu projetei para o exército.",
-        "es-ES": "[Cerrajero Lockenlock]\nOye, esa niñita que salvaste…\nCurdie. Regresó sana y salva\na la ciudad. Me siento tan responsable\npor lo que pasó. Es decir,\nla encadenaron con grilletes\nque yo diseñé para el ejército."
+        "es-ES": "[Cerrajero Lockenlock]\nOye, esa niñita que salvaste...\nCurdie. Regresó sana y salva\na la ciudad. Me siento tan responsable\npor lo que pasó. Es decir,\nla encadenaron con grilletes\nque yo diseñé para el ejército."
     },
     "9NAbAQ": {
         "en-US": "[Locksmith Lockenlock]\nAnyway, I'm packing my\nthings. I'm thinking of\nleaving this town for good.\nThe army's rotten to the core\nfor doing something like this.",
@@ -912,7 +912,7 @@
     "9tAbAQ": {
         "en-US": "[Lockenlock]\nZzzz...\nZzzz... Argh!\n...Zzz...",
         "pt-BR": "[Lockenlock]\nZzzz...\nZzzz... Argh!\n...Zzz...",
-        "es-ES": "[Lockenlock]\nZzzz…\nZzzz… ¡Aj!\n…Zzz…"
+        "es-ES": "[Lockenlock]\nZzzz...\nZzzz... ¡Aj!\n...Zzz..."
     },
     "99AbAQ": {
         "en-US": "^3355FFHe's drunk and\nfast asleep.^000000",
@@ -932,7 +932,7 @@
     "+tAbAQ": {
         "en-US": "[{0}]\nUm, this is an emergency!\nMr. Lockenlock told me to\ncome here to get some kind\nof special soap. I need it\nto make a mold for him\nto make a key for me...",
         "pt-BR": "[{0}]\nHum, isso é uma emergência!\nO Sr. Lockenlock me disse para\nvir aqui pegar um tipo de\nsabão especial. Eu preciso disso\npara fazer um molde para ele\nme fazer uma chave...",
-        "es-ES": "[{0}]\nEh, ¡es una emergencia!\nEl señor Lockenlock me dijo que\nviniera a comprar\nun jabón especial. Lo necesito\npara hacer un molde y\nque él me haga una llave…"
+        "es-ES": "[{0}]\nEh, ¡es una emergencia!\nEl señor Lockenlock me dijo que\nviniera a comprar\nun jabón especial. Lo necesito\npara hacer un molde y\nque él me haga una llave..."
     },
     "+9AbAQ": {
         "en-US": "[Organic Soap Maker Ivory]\nOh? You locked yourself\nout? Ah, Mr. Lockenlock\nmust have been talking\nabout my organic Chamelepu\nsoap. It's an artistic soap\nthat you can shape easily~",
@@ -952,7 +952,7 @@
     "/tAbAQ": {
         "en-US": "[Organic Soap Maker Ivory]\nIf you really need it\nright away, I can still\nmake it for you if can\nbring all the ingredients.\nThey might be a bit hard\nto obtain, though...",
         "pt-BR": "[Fabricante de sabão orgânico Ivory]\nSe você precisa dele\nimediatamente, ainda posso\nfazer para você se puder\ntrazer todos os ingredientes.\nMas eles podem ser um pouco difíceis\nde obter...",
-        "es-ES": "[Mercader de jabón Ivory]\nSi realmente lo necesitas\nde inmediato, puedo\nfabricártelo si me traes\ntodos los ingredientes.\nAunque pueden ser un poco difíciles\nde obtener…"
+        "es-ES": "[Mercader de jabón Ivory]\nSi realmente lo necesitas\nde inmediato, puedo\nfabricártelo si me traes\ntodos los ingredientes.\nAunque pueden ser un poco difíciles\nde obtener..."
     },
     "/9AbAQ": {
         "en-US": "[{0}]\nThat's fine. The\nimportant thing for me\nis to get this soap as\nsoon as I possibly can!",
@@ -972,7 +972,7 @@
     "AtEbAQ": {
         "en-US": "[Organic Soap Maker Ivory]\nOh, great! You brought\neverything! Now... It's\ntime for you to do the,\num, hard part.",
         "pt-BR": "[Fabricante de sabão orgânico Ivory]\nAh, ótimo! Você trouxe\ntudo! Agora... É\nhora de você fazer a..,\nhum, a parte difícil.",
-        "es-ES": "[Mercader de jabón Ivory]\nAh, ¡excelente! ¡Trajiste\ntodo! Ahora… Es\nhora de que hagas,\neh, la parte difícil."
+        "es-ES": "[Mercader de jabón Ivory]\nAh, ¡excelente! ¡Trajiste\ntodo! Ahora... Es\nhora de que hagas,\neh, la parte difícil."
     },
     "A9EbAQ": {
         "en-US": "[{0}]\n...............................\n...............................\n...............................",
@@ -987,22 +987,22 @@
     "BdEbAQ": {
         "en-US": "[{0}]\nWait...\nWhy would I want\nto see the guy that\ntakes care of Silk Sand\nCamels? What does he\nhave to do with soap?",
         "pt-BR": "[{0}]\nEspere...\nPor que eu iria querer\nver o cara que\ncuida dos\nCamelos de Veludo? O que ele\ntem a ver com sabão?",
-        "es-ES": "[{0}]\nEspera…\n¿Por qué querría\nver al tipo que\ncuida camellos de arena\nde seda? ¿Qué tiene que\nver él con el jabón?"
+        "es-ES": "[{0}]\nEspera...\n¿Por qué querría\nver al tipo que\ncuida camellos de arena\nde seda? ¿Qué tiene que\nver él con el jabón?"
     },
     "BtEbAQ": {
         "en-US": "[Organic Soap Maker Ivory]\nDon't sweat it for now...\nJust go visit Mr. Saraman,\nthe Camel Farm owner.\nI can't wait for you that long,\nso please come back here\nas soon as possible.",
         "pt-BR": "[Fabricante de sabão orgânico Ivory]\nNão se preocupe com isso por enquanto...\nApenas vá visitar o Sr. Saraman,\no proprietário da Fazenda de Camelos.\nNão posso ficar esperando por você,\nentão, por favor, volte aqui\no mais rápido possível.",
-        "es-ES": "[Mercader de jabón Ivory]\nNo te preocupes por ahora…\nVe a ver al señor Saraman,\nel dueño de la granja de camellos.\nNo puedo esperarte tanto,\nasí que te pido que regreses\nlo antes posible."
+        "es-ES": "[Mercader de jabón Ivory]\nNo te preocupes por ahora...\nVe a ver al señor Saraman,\nel dueño de la granja de camellos.\nNo puedo esperarte tanto,\nasí que te pido que regreses\nlo antes posible."
     },
     "B9EbAQ": {
         "en-US": "[{0}]\nMr. Saraman...?\nOkay, so I need to visit\nhim if I really need you\nto make the soap...",
         "pt-BR": "[{0}]\nSr. Saraman...?\nCerto, então eu preciso visitá-lo\nse eu realmente precisar de você\npara fazer o sabão...",
-        "es-ES": "[{0}]\n¿El señor Saraman…?\nBien, entonces tengo que ir\na verlo si de verdad necesito\nque me hagas el jabón…"
+        "es-ES": "[{0}]\n¿El señor Saraman...?\nBien, entonces tengo que ir\na verlo si de verdad necesito\nque me hagas el jabón..."
     },
     "CNEbAQ": {
         "en-US": "[Organic Soap Maker Ivory]\nI need to make more of\nmy soap, but I've run out\nof ingredients. Well, there's\nnot much I can do without them,\nso maybe it'd be better if\nI just close up shop today...",
         "pt-BR": "[Fabricante de sabão orgânico Ivory]\nPreciso fazer mais sabão, mas estou sem\ningredientes. Bom,\nnão há muito que eu possa fazer sem eles,\nentão talvez seja melhor\nfechar a loja hoje...",
-        "es-ES": "[Mercader de jabón Ivory]\nNecesito hacer más\njabón, pero me quedé sin\ningredientes. Bueno, no hay\nmucho que pueda hacer sin ellos,\nasí que tal vez sea mejor\ncerrar la tienda por hoy…"
+        "es-ES": "[Mercader de jabón Ivory]\nNecesito hacer más\njabón, pero me quedé sin\ningredientes. Bueno, no hay\nmucho que pueda hacer sin ellos,\nasí que tal vez sea mejor\ncerrar la tienda por hoy..."
     },
     "CdEbAQ": {
         "en-US": "[Organic Soap Maker Ivory]\nHm, did Soony give you\nany trouble? I'm guessing\nthat's why it's been taking\nyou so long to get all that\ncamel dung over here.",
@@ -1012,12 +1012,12 @@
     "CtEbAQ": {
         "en-US": "[{0}]\nIt was a pretty big\nhassle... But hopefully,\nthis will all be worth it.\nAnyway, take this camel\ndung. I don't want to\nhandle it for much longer.",
         "pt-BR": "[{0}]\nFoi um grande\nincômodo... Mas espero que\ntudo isso valha a pena.\nDe qualquer forma, pegue esse\nestrume de camelo. Eu não quero\nficar com isso por muito mais tempo.",
-        "es-ES": "[{0}]\nFue muy\nengorroso… Pero, con suerte,\nhabrá valido la pena.\nAquí tienes el estiércol\nde camello. No quiero\nseguir llevándolo."
+        "es-ES": "[{0}]\nFue muy\nengorroso... Pero, con suerte,\nhabrá valido la pena.\nAquí tienes el estiércol\nde camello. No quiero\nseguir llevándolo."
     },
     "C9EbAQ": {
         "en-US": "[Organic Soap Maker Ivory]\nYes, I can understand that.\nEven though it's in bottles,\nit's pretty gross that these\nbottles are still warm...\nAnyway, we're good to go.\nLet me make you some soap~",
         "pt-BR": "[Fabricante de sabão orgânico Ivory]\nSim, posso entender isso.\nMesmo que esteja nas garrafas,\né muito nojento que elas ainda estejam quentes...\nDe qualquer forma, estamos prontos.\nDeixe-me fazer um sabão para você!",
-        "es-ES": "[Mercader de jabón Ivory]\nSí, lo entiendo.\nAunque esté embotellado,\nes bastante asqueroso que las\nbotellas estén calientes…\nDe todos modos, ya estamos listos.\nTe fabricaré algo de jabón."
+        "es-ES": "[Mercader de jabón Ivory]\nSí, lo entiendo.\nAunque esté embotellado,\nes bastante asqueroso que las\nbotellas estén calientes...\nDe todos modos, ya estamos listos.\nTe fabricaré algo de jabón."
     },
     "DNEbAQ": {
         "en-US": "[Organic Soap Maker Ivory]\nYou spent a lot of\ntime and energy to get\nthese, so I won't charge\nyou for my service. Besides,\nyou brought enough materials\nthat I'll have some left over.",
@@ -1037,7 +1037,7 @@
     "D9EbAQ": {
         "en-US": "[Organic Soap Maker Ivory]\nAnd um... Don't let\nanyone else know what\nI use to make this soap.\nPeople won't buy it if they\nknew they were washing their\nfaces with... You know...",
         "pt-BR": "[Fabricante de sabão orgânico Ivory]\nE... Hum... Não deixe\nninguém mais saber o que\neu uso para fazer esse sabão.\nAs pessoas não vão comprar se\nsouberem que estão lavando\nseus rostos com... Você sabe...",
-        "es-ES": "[Mercader de jabón Ivory]\nY, eh… No le digas\na nadie más lo que\nuso para hacer este jabón.\nLa gente no lo comprará si\nsaben con lo que se lavan\nlos rostros… ¿Sabes…?"
+        "es-ES": "[Mercader de jabón Ivory]\nY, eh... No le digas\na nadie más lo que\nuso para hacer este jabón.\nLa gente no lo comprará si\nsaben con lo que se lavan\nlos rostros... ¿Sabes...?"
     },
     "ENEbAQ": {
         "en-US": "[{0}]\nDon't worry, I won't\ntell anyone. Thanks\nfor making the soap!",
@@ -1102,17 +1102,17 @@
     "HNEbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nSay... I wasn't expecting\nher to send a deliveryman\nuntil tomorrow. Why are\nyou here so early anyway?",
         "pt-BR": "[Proprietário da Fazenda de Camelos Saraman]\nMas diga... Eu não estava esperando\nque ela enviasse um entregador\naté amanhã. Por que você veio aqui tão cedo?",
-        "es-ES": "[Criacamellos Saraman]\nDime… No esperaba que\nenviara a un repartidor\nhasta mañana. ¿Por qué \nviniste tan pronto?"
+        "es-ES": "[Criacamellos Saraman]\nDime... No esperaba que\nenviara a un repartidor\nhasta mañana. ¿Por qué \nviniste tan pronto?"
     },
     "HdEbAQ": {
         "en-US": "[{0}]\nActually, this is kind\nof an emergency. You see,\nI need the soap to make a\nkey mold because I lost--",
         "pt-BR": "[{0}]\nNa verdade, isso é meio que uma emergência. Veja,\neu preciso do sabão para fazer um\nmolde de chave porque perdi...",
-        "es-ES": "[{0}]\nEn realidad, se trata\nde una emergencia. Verás,\nnecesito el jabón para hacer un\nmolde de llave porque perdí…"
+        "es-ES": "[{0}]\nEn realidad, se trata\nde una emergencia. Verás,\nnecesito el jabón para hacer un\nmolde de llave porque perdí..."
     },
     "HtEbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nNever mind, never mind.\nI'm sorry I asked! So this\nis a personal favor for you,\nhuh? Well, there's a bit of\na problem that we need to\nsolve first. Listen up...",
         "pt-BR": "[Proprietário da Fazenda de Camelos Saraman]\nNão se preocupe, não importa.\nMe desculpe por ter perguntado! Então, isso\né um favor pessoal para você,\nnão é? Bem, há um pequeno\nproblema que precisamos\nresolver primeiro. Ouça...",
-        "es-ES": "[Criacamellos Saraman]\nOlvídalo, no importa.\n¡Siento haber preguntado! Entonces,\nes un favor personal para ti,\n¿eh? Bueno, hay un pequeño\nproblema que tenemos que\nresolver primero. Escucha…"
+        "es-ES": "[Criacamellos Saraman]\nOlvídalo, no importa.\n¡Siento haber preguntado! Entonces,\nes un favor personal para ti,\n¿eh? Bueno, hay un pequeño\nproblema que tenemos que\nresolver primero. Escucha..."
     },
     "H9EbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nWe can only get camel\ndung after a camel eats,\nright? Well, my camel isn't\nused to eating so late in the\nday. Even if we put food in\nfront of her, she won't eat it.",
@@ -1127,12 +1127,12 @@
     "IdEbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nWell, we can't forcefeed\nher, but we can get her to\nmunch a bit on some appetite\nstimulant. I usually use that\nif she's sick, but if you say\nthat this is an emergency...",
         "pt-BR": "[Proprietário da Fazenda de Camelos Saraman]\nBem, não podemos forçá-la a comer,\nmas podemos dar para ela\num pouco de estimulante de apetite.\nEu costumo usar isso\nquando ela fica doente, mas se você está dizendo\nque se trata de uma emergência...",
-        "es-ES": "[Criacamellos Saraman]\nBueno, no podemos obligarla\na comer, pero podemos hacer\nque pique algo con un estimulante\nde apetito. Suelo usarlo cuando\nestá enferma, pero si dices\nque esto es una emergencia…"
+        "es-ES": "[Criacamellos Saraman]\nBueno, no podemos obligarla\na comer, pero podemos hacer\nque pique algo con un estimulante\nde apetito. Suelo usarlo cuando\nestá enferma, pero si dices\nque esto es una emergencia..."
     },
     "ItEbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nAlright, I guess we\ncan try it. But I want you\nto bring me the ingredients.\nGet me... Let's see now...",
         "pt-BR": "[Proprietário da Fazenda de Camelos Saraman]\nTudo bem, acho que podemos\ntentar. Mas eu quero que você\nme traga os ingredientes.\nTraga... Agora vejamos...",
-        "es-ES": "[Criacamellos Saraman]\nEstá bien, creo que\npodemos probarlo. Pero quiero que\nme traigas los ingredientes.\nConsígueme… Veamos…"
+        "es-ES": "[Criacamellos Saraman]\nEstá bien, creo que\npodemos probarlo. Pero quiero que\nme traigas los ingredientes.\nConsígueme... Veamos..."
     },
     "I9EbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\n^4D4DFF1 Unripe Apple^000000,\n^4D4DFF5 Monster's Feed^000000,\n^4D4DFF1 Empty Bottle^000000, and\n^4D4DFF1 Yellow Potion^000000.",
@@ -1142,12 +1142,12 @@
     "JNEbAQ": {
         "en-US": "[Saraman]\nZzzzz...\nZzz... Zzzzzz...",
         "pt-BR": "[Saraman]\nZzzzz...\nZzz... Zzzzzz...",
-        "es-ES": "[Saraman]\nZzzzz…\nZzz… Zzzzzz…"
+        "es-ES": "[Saraman]\nZzzzz...\nZzz... Zzzzzz..."
     },
     "JdEbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nOh good, you're back.\nDid you bring everything?\nHere, I need to mix it all\ntogether first before you\ncan feed it to my camel.\nJust a minute now...",
         "pt-BR": "[Proprietário da Fazenda de Camelos Saraman]\nAh, que bom, você voltou.\nTrouxe tudo?\nAqui, eu preciso misturar tudo\nprimeiro antes de você\nalimentar a minha camela.\nSó um minuto agora...",
-        "es-ES": "[Criacamellos Saraman]\nQué bien, volviste.\n¿Trajiste todo?\nBien, primero tengo que mezclar\ntodo antes de que\nse lo des de comer a mi camella.\nDame un segundo…"
+        "es-ES": "[Criacamellos Saraman]\nQué bien, volviste.\n¿Trajiste todo?\nBien, primero tengo que mezclar\ntodo antes de que\nse lo des de comer a mi camella.\nDame un segundo..."
     },
     "JtEbAQ": {
         "en-US": "^3355FFSaraman mixed all\nof the ingredients,\nand gingerly poured\nthem into a bottle.^000000",
@@ -1172,17 +1172,17 @@
     "KtEbAQ": {
         "en-US": "[{0}]\nMr. Saraman, none\nof the camels will eat\nthis appetite stimulant...\nAm I doing something wrong?",
         "pt-BR": "[{0}]\nSr. Saraman, nenhum\ndos camelos está querendo comer\nesse estimulante de apetite...\nEstou fazendo algo errado?",
-        "es-ES": "[{0}]\nseñor Saraman, ninguno\nde los camellos come\nel estimulante de apetito…\n¿Estoy haciendo algo mal?"
+        "es-ES": "[{0}]\nseñor Saraman, ninguno\nde los camellos come\nel estimulante de apetito...\n¿Estoy haciendo algo mal?"
     },
     "K9EbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nOh, yes, well...\nOne of my workers\njust came by, and told me\nthat my Silk Sand Camel\ndisappeared somewhere...\nThis is terrible news!",
         "pt-BR": "[Proprietário da Fazenda de Camelos Saraman]\nAh, sim, bem...\nUm dos meus funcionários\nacabou de vir aqui e disse\nque minha Camela de Veludo\ndesapareceu em algum lugar...\nÉ uma notícia terrível!",
-        "es-ES": "[Criacamellos Saraman]\nAh, sí, bueno…\nUno de mis trabajadores\nacaba de venir y me dijo\nque mi camella de arena de seda\ndesapareció en alguna parte…\n¡Es una noticia terrible!"
+        "es-ES": "[Criacamellos Saraman]\nAh, sí, bueno...\nUno de mis trabajadores\nacaba de venir y me dijo\nque mi camella de arena de seda\ndesapareció en alguna parte...\n¡Es una noticia terrible!"
     },
     "LNEbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nMy precious Silk Sand\nCamel... It's my biggest\nbusiness investment! I'm\nruined without it! Please...\nI'll reward you if you can\nfind my camel for me!",
         "pt-BR": "[Proprietário da Fazenda de Camelos Saraman]\nMinha preciosa Camela de Veludo... É meu maior\ninvestimento comercial! Estou\narruinado sem ela! Por favor...\nEu o recompensarei se você puder\nencontrar minha camela!",
-        "es-ES": "[Criacamellos Saraman]\nMi preciosa camella de arena\nde seda… ¡Es mi mayor\ninversión comercial! ¡Estoy\narruinado sin ella! Por favor…\n¡Te recompensaré si puedes\nencontrar a mi camella!"
+        "es-ES": "[Criacamellos Saraman]\nMi preciosa camella de arena\nde seda... ¡Es mi mayor\ninversión comercial! ¡Estoy\narruinado sin ella! Por favor...\n¡Te recompensaré si puedes\nencontrar a mi camella!"
     },
     "LdEbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nDamn it! My stupid worker\nforgot to tie her up, so\nshe ended up running away!\nUgh! Please help me find her!\nWithout her, you won't be able\nto get your special camel dung.",
@@ -1192,12 +1192,12 @@
     "LtEbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nWait, don't panic...\nIt'll all be alright.\nThis camel moves very slowly\nso she shouldn't be far from\nhere. Please find my camel\nSoony as soon as you can!",
         "pt-BR": "[Proprietário da Fazenda de Camelos Saraman]\nEspere, não entre em pânico...\nVai dar tudo certo.\nEssa camela se move muito devagar,\nentão ela não deve estar longe daqui.\nPor favor, encontre minha camela\nSoony o mais rápido possível!",
-        "es-ES": "[Criacamellos Saraman]\nEspera, no te desesperes…\nTodo estará bien.\nEsta camella camina muy lento,\nasí que no debería estar lejos de\naquí. ¡Encuentra a mi camella,\nSoony, lo antes posible!"
+        "es-ES": "[Criacamellos Saraman]\nEspera, no te desesperes...\nTodo estará bien.\nEsta camella camina muy lento,\nasí que no debería estar lejos de\naquí. ¡Encuentra a mi camella,\nSoony, lo antes posible!"
     },
     "L9EbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nSoony! Soony...!\nWh-where are you?!",
         "pt-BR": "[Proprietário da Fazenda de Camelos Saraman]\nSoony! Soony...!\nOnde você está?!",
-        "es-ES": "[Criacamellos Saraman]\n¡Soony! ¡Soony…!\n¡¿Dó-dónde estás?!"
+        "es-ES": "[Criacamellos Saraman]\n¡Soony! ¡Soony...!\n¡¿Dó-dónde estás?!"
     },
     "MNEbAQ": {
         "en-US": "[Camel Farm Owner Saraman]\nPlease, help me find\nmy Soony, my Silk Sand\nCamel. You won't be able to\nmake your soap without her!\nAnd my business is really\ndependent on my Soony!",
@@ -1232,7 +1232,7 @@
     "NtEbAQ": {
         "en-US": "[Saraman]\nZzz... Zzz~\nZzz...",
         "pt-BR": "[Saraman]\nZzz... Zzz~\nZzz...",
-        "es-ES": "[Saraman]\nZzz… Zzz…\nZzz…"
+        "es-ES": "[Saraman]\nZzz... Zzz...\nZzz..."
     },
     "N9EbAQ": {
         "en-US": "^3355FFWatching this man\nsnore also makes you\nwant to take a snooze.^000000",
@@ -1287,7 +1287,7 @@
     "QdEbAQ": {
         "en-US": "[{0}]\nThis must be the\nSilk Sand Camel...\nI guess all I need to\ndo is collect some of\nthat precious camel dung.",
         "pt-BR": "[{0}]\nEsta deve sera Camela de Veludo...\nAcho que tudo o que eu preciso\nfazer é coletar um pouco\ndaquele precioso estrume de camelo.",
-        "es-ES": "[{0}]\nEsta debe de ser la\ncamella de arena de seda…\nCreo que solo\ntengo que recolectar algo de\nese valioso estiércol de camello."
+        "es-ES": "[{0}]\nEsta debe de ser la\ncamella de arena de seda...\nCreo que solo\ntengo que recolectar algo de\nese valioso estiércol de camello."
     },
     "QtEbAQ": {
         "en-US": "^3355FFThe camel can smell\nthat you have food for\nit, and started salivating.\nYou may as well just feed it.^000000",
@@ -1307,7 +1307,7 @@
     "RdEbAQ": {
         "en-US": "^3355FFThe camel grimaced\nas if it were suffering\nfrom a stomachache...\nHuzzah! You got a lump\nof steaming camel dung!\nThis is cause for celebration!^000000",
         "pt-BR": "^3355FFA camela fez uma careta\ncomo se estivesse sofrendo\nde uma dor de estômago...\nHuzzah! Você obteve um bloco de estrume de camelo fumegante!\nIsso é motivo de comemoração!^000000",
-        "es-ES": "^3355FFEl camello hace una mueca\ncomo si estuviera sufriendo\nde un dolor de estómago…\n¡Hurra! ¡Tienes un trozo\nde estiércol de camello caliente!\n¡Esto es para celebrar!^000000"
+        "es-ES": "^3355FFEl camello hace una mueca\ncomo si estuviera sufriendo\nde un dolor de estómago...\n¡Hurra! ¡Tienes un trozo\nde estiércol de camello caliente!\n¡Esto es para celebrar!^000000"
     },
     "RtEbAQ": {
         "en-US": "[{0}]\nNow all I need is\njust 4 more lumps\nof this nasty old dung.",
@@ -1317,12 +1317,12 @@
     "R9EbAQ": {
         "en-US": "^3355FFThe camel grimaced\nas if it were suffering\nfrom a stomachache...\nAnd... Out pops a Sweet\nPotato. It's probably\nsafe to eat... Maybe.^000000",
         "pt-BR": "^3355FFA camela fez uma careta\ncomo se estivesse sofrendo\nde uma dor de estômago...\nE... Saiu uma batata doce.\nProvavelmente é\nsegura para comer... Talvez.^000000",
-        "es-ES": "^3355FFEl camello hace una mueca\ncomo si estuviera sufriendo\nde un dolor de estómago…\nY… Sale una\nbatata. Tal vez se\npueda comer… Quizá.^000000"
+        "es-ES": "^3355FFEl camello hace una mueca\ncomo si estuviera sufriendo\nde un dolor de estómago...\nY... Sale una\nbatata. Tal vez se\npueda comer... Quizá.^000000"
     },
     "SNEbAQ": {
         "en-US": "[{0}]\nI need to feed this camel if\nI ever want to get any dung\nfrom it. Let's see, Mr. Saraman\nmentioned that the items I got\nfor Ms. Ivory were actually\ncamel feed. I need to have...",
         "pt-BR": "[{0}]\nPreciso alimentar essa camela se\nquiser obter algum estrume\ndela. Vamos ver, o Sr. Saraman\nmencionou que os itens que recebi\nda Sra. Ivory eram, na verdade\nração de camelo. Eu preciso ter...",
-        "es-ES": "[{0}]\nNecesito alimentar a este camello si\nquiero conseguir algo de\nestiércol. Veamos, el señor Saraman\ndijo que los objetos que conseguí \npara la señora Ivory en realidad eran\ncomida para camellos. Necesito tener…"
+        "es-ES": "[{0}]\nNecesito alimentar a este camello si\nquiero conseguir algo de\nestiércol. Veamos, el señor Saraman\ndijo que los objetos que conseguí \npara la señora Ivory en realidad eran\ncomida para camellos. Necesito tener..."
     },
     "SdEbAQ": {
         "en-US": "[{0}]\n^4D4DFF10 Milk^000000,\n^4D4DFF100 Green Herbs^000000,\n^4D4DFF50 Jellopies^000000, and\n^4D4DFF5 Empty Bottles^000000.",
@@ -1337,7 +1337,7 @@
     "S9EbAQ": {
         "en-US": "^3355FFThe camel grimaced\nas if it were suffering\nfrom a stomachache...\nAnd... Out pops 2 Sweet\nPotatoes. They're probably\nsafe to eat... Hopefully.^000000",
         "pt-BR": "^3355FFA camela fez uma careta\ncomo se estivesse sofrendo\nde uma dor de estômago...\nE... Saíram 2 batatas doces.\nElas provavelmente são\nseguras para comer... Com sorte.^000000",
-        "es-ES": "^3355FFEl camello hace una mueca\ncomo si estuviera sufriendo\nde un dolor de estómago…\nY… Salen 2\nbatatas. Tal vez se\npueda comer… Eso espero.^000000"
+        "es-ES": "^3355FFEl camello hace una mueca\ncomo si estuviera sufriendo\nde un dolor de estómago...\nY... Salen 2\nbatatas. Tal vez se\npueda comer... Eso espero.^000000"
     },
     "TNEbAQ": {
         "en-US": "[{0}]\nNow all I need is\njust 3 more lumps\nof this nasty old dung.",
@@ -1347,7 +1347,7 @@
     "TdEbAQ": {
         "en-US": "[{0}]\nDid I run out of feed\nalready? Nuts, if I want\nto feed this camel again,\nthen I need to bring it...",
         "pt-BR": "[{0}]\nEu já fiquei sem ração?\nDroga, se eu quiser\nalimentar esse camelo novamente,\nentão preciso de mais...",
-        "es-ES": "[{0}]\n¿Ya me quedé sin comida?\n¿Tan rápido? Rayos, para volver\na alimentar a este camello,\nnecesito traerle…"
+        "es-ES": "[{0}]\n¿Ya me quedé sin comida?\n¿Tan rápido? Rayos, para volver\na alimentar a este camello,\nnecesito traerle..."
     },
     "TtEbAQ": {
         "en-US": "[{0}]\nNow all I need is\njust 2 more lumps\nof this nasty old dung.",
@@ -1362,7 +1362,7 @@
     "UNEbAQ": {
         "en-US": "[{0}]\nIn my hands...\nI am holding\n5 lumps of camel dung.\nThis is my finest moment.",
         "pt-BR": "[{0}]\nEm minhas mãos...\nEstou segurando\n5 blocos de estrume de camelo.\nEste é o meu melhor momento.",
-        "es-ES": "[{0}]\nEn las manos…\nsostengo…\n5 trozos de estiércol de camello.\nEste es mi mejor momento."
+        "es-ES": "[{0}]\nEn las manos...\nsostengo...\n5 trozos de estiércol de camello.\nEste es mi mejor momento."
     },
     "UdEbAQ": {
         "en-US": "[{0}]\nNever, in all my years\nof adventuring, saving the\noppressed, protecting the\ninnocent, did I dare dream\nthat I'd accomplish such\na magnificent feat.",
@@ -1372,7 +1372,7 @@
     "UtEbAQ": {
         "en-US": "[{0}]\nI am so happy--nay--\n^4D4DFFproud^000000 that my strength, my\nvalor, and my determination\nwas up to this task. May the\nannals of history never forget\nthis day! Long live {0}!",
         "pt-BR": "[{0}]\nEstou tão feliz... Não...\n^4D4DFForgulhoso^000000 que minha força, meu\nvalor e minha determinação\nestavam à altura dessa tarefa. Que os\nanais da história nunca esqueçam\neste dia! Vida longa a {0}!",
-        "es-ES": "[{0}]\nEstoy tan feliz… ¡Iuju!\nMe ^4D4DFFenorgullece^000000 que mi fuerza, mi\nvalor y mi determinación\nestuvieran a la altura de esta tarea. ¡Que la\nhistoria jamás se olvide de\neste día! ¡Larga vida a {0}!"
+        "es-ES": "[{0}]\nEstoy tan feliz... ¡Iuju!\nMe ^4D4DFFenorgullece^000000 que mi fuerza, mi\nvalor y mi determinación\nestuvieran a la altura de esta tarea. ¡Que la\nhistoria jamás se olvide de\neste día! ¡Larga vida a {0}!"
     },
     "U9EbAQ": {
         "en-US": "^3355FFIt's time for you to\nreturn to Mr. Saraman.^000000",
@@ -1412,7 +1412,7 @@
     "WtEbAQ": {
         "en-US": "[{0}]\nMr. Lockenlock, eh?\nSo where can I find him?",
         "pt-BR": "[{0}]\nSr. Lockenlock, é?\nEntão, onde posso encontrá-lo?",
-        "es-ES": "[{0}]\nCon que el señor Lockenlock…\n¿Dónde puedo encontrarlo?"
+        "es-ES": "[{0}]\nCon que el señor Lockenlock...\n¿Dónde puedo encontrarlo?"
     },
     "W9EbAQ": {
         "en-US": "[Toby]\nOh, he's always sitting\nsomewhere in the market\nstreet. He drinks a lot,\nthough, so he doesn't really\nwork when he's hung over.",
@@ -1432,12 +1432,12 @@
     "XtEbAQ": {
         "en-US": "[Toby]\nYou're so very\nwelcome! It's just...\nAfter all these years...\nI'm finally useful to someone!",
         "pt-BR": "[Toby]\nNão há de quê! É que...\nDepois de tantos anos...\nFinalmente sou útil para alguém!",
-        "es-ES": "[Toby]\n¡No es nada en\nlo absoluto! Es que…\nDespués de tantos años…\n¡Por fin le soy útil a alguien!"
+        "es-ES": "[Toby]\n¡No es nada en\nlo absoluto! Es que...\nDespués de tantos años...\n¡Por fin le soy útil a alguien!"
     },
     "X9EbAQ": {
         "en-US": "[{0}]\n...Ha...?",
         "pt-BR": "[{0}]\n...Hã...?",
-        "es-ES": "[{0}]\n¿…Ja…?"
+        "es-ES": "[{0}]\n¿...Ja...?"
     },
     "YNEbAQ": {
         "en-US": "^3355FFFind Mr. Lockenlock\nin the market street, and\nbring him a Yellow Potion.^000000",
@@ -1447,7 +1447,7 @@
     "YdEbAQ": {
         "en-US": "[Toby]\nAfter all these years...\nI'm finally useful to someone!",
         "pt-BR": "[Toby]\nDepois de tantos anos...\nFinalmente sou útil para alguém!",
-        "es-ES": "[Toby]\nDespués de tantos años…\n¡Por fin le soy útil a alguien!"
+        "es-ES": "[Toby]\nDespués de tantos años...\n¡Por fin le soy útil a alguien!"
     },
     "YtEbAQ": {
         "en-US": "[{0}]\nNo, thanks.",
@@ -1457,6 +1457,6 @@
     "Y9EbAQ": {
         "en-US": "[Native Young Man]\nYou don't...\n^333333*Sob*^000000 You don't\nneed me at all?",
         "pt-BR": "[Jovem nativo]\nVocê não...\n^333333*Soluço*^000000 Você não precisa de mim?",
-        "es-ES": "[Joven del lugar]\n¿No me…\n^333333*Solloza*^000000 ¿No me\nnecesitas para nada?"
+        "es-ES": "[Joven del lugar]\n¿No me...\n^333333*Solloza*^000000 ¿No me\nnecesitas para nada?"
     }
 }

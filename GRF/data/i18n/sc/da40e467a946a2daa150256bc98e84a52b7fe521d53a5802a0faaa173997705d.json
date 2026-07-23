@@ -12,7 +12,7 @@
     "4lsHCA": {
         "en-US": "[Goma Chara]\nI'm Goma Chara, the eldest daughter of the Charas. These brats are who quicken my ageing process...\nIf you happen to have the amulet that my brother Yota made, I can polish it for you.",
         "pt-BR": "[Trish Chara]\nEssas crianças estão me fazendo sentir velha... Eu me chamo Trish Chara, e sou a filha mais velha da família Chara.\nSe você possui um amuleto feito pelo meu irmão mais novo, eu posso melhorá-lo para você.",
-        "es-ES": "[Goma Chara]\nSoy Goma Chara, la hija mayor de los Chara. Estos mocosos son los que me hacen envejecer más rápido…\nSi, por casualidad, tienes el amuleto que hizo mi hermano Yota, puedo perfeccionarlo para ti."
+        "es-ES": "[Goma Chara]\nSoy Goma Chara, la hija mayor de los Chara. Estos mocosos son los que me hacen envejecer más rápido...\nSi, por casualidad, tienes el amuleto que hizo mi hermano Yota, puedo perfeccionarlo para ti."
     },
     "41sHCA": {
         "en-US": "Upgrade Amulet",
@@ -87,7 +87,7 @@
     "8VsHCA": {
         "en-US": "[Goma Chara]\nLet me. Hmm...{0}, it is.\n...I knew this was going to happen again. Worse, this one must require a lot more time to polish!",
         "pt-BR": "[Trish Chara]\nHum, então você tem um {0}.\n...Ai, ai... Se as pessoas fizessem esses amuletos direito, eu não precisava ficar arrumando eles.",
-        "es-ES": "[Goma Chara]\nPermíteme. Mmm…{0}, así es.\n…Sabía que esto volvería a pasar. Peor aún, seguro que este requiere mucho más tiempo para perfeccionarse."
+        "es-ES": "[Goma Chara]\nPermíteme. Mmm...{0}, así es.\n...Sabía que esto volvería a pasar. Peor aún, seguro que este requiere mucho más tiempo para perfeccionarse."
     },
     "8lsHCA": {
         "en-US": "[Goma Chara]\nHey, if you give me <ITEM>Doram Token<INFO>25142</INFO></ITEM>,{0}I'll fix this for you.\n<ITEM>This should produce the <INFO>{1}</INFO></ITEM> function, I guess. How do you like it?",
@@ -137,7 +137,7 @@
     "+1sHCA": {
         "en-US": "[Goma Chara]\nYota! Tidy up your place after making amulets! Pick up the scales of horse mackerels there. Oh, my days...",
         "pt-BR": "[Trish Chara]\nEi, Abacchio! Que bagunça é essa? Trate de arrumar essa lambança que você fez!",
-        "es-ES": "[Goma Chara]\n¡Yota! ¡Ordena tu espacio después de hacer amuletos! Recoge las escamas de jurel. Oh, no puede ser…"
+        "es-ES": "[Goma Chara]\n¡Yota! ¡Ordena tu espacio después de hacer amuletos! Recoge las escamas de jurel. Oh, no puede ser..."
     },
     "/FsHCA": {
         "en-US": "[Goma Chara]\nJogi, Dandi is about to burst into crying. Please behave yourself, will you?",
@@ -242,17 +242,17 @@
     "EFwHCA": {
         "en-US": "[Yota Chara]\nThank you. I hope my amulet will be of good use to you...",
         "pt-BR": "[Abacchio Chara]\nEspero que você goste do Amuleto!",
-        "es-ES": "[Yota Chara]\nGracias. Espero que mi amuleto te sea útil…"
+        "es-ES": "[Yota Chara]\nGracias. Espero que mi amuleto te sea útil..."
     },
     "EVwHCA": {
         "en-US": "[Yota Chara]\nDid...did I misspeak, or what?\nI'm not an expert but I did my best.",
         "pt-BR": "[Abacchio Chara]\nPuxa, sei que os amuletos não são perfeitos, mas me esforcei muito para fazê-los...",
-        "es-ES": "[Yota Chara]\n¿Me… me expresé mal o qué?\nNo soy experto, pero hice lo mejor que pude."
+        "es-ES": "[Yota Chara]\n¿Me... me expresé mal o qué?\nNo soy experto, pero hice lo mejor que pude."
     },
     "ElwHCA": {
         "en-US": "[Yota Chara]\n...My parents keep going out into the dangerous areas. I'm still a child to help them, so what I do is to make these amulets for them.",
         "pt-BR": "[Abacchio Chara]\n...Meus pais continuam indo para áreas perigosas. Eu ainda sou criança para ajudá-los, então o que eu faço é fazer esses amuletos para eles.",
-        "es-ES": "[Yota Chara]\n…Mis padres siguen yendo a las zonas peligrosas. Todavía soy solo un niño para ayudarlos, así que les hago estos amuletos."
+        "es-ES": "[Yota Chara]\n...Mis padres siguen yendo a las zonas peligrosas. Todavía soy solo un niño para ayudarlos, así que les hago estos amuletos."
     },
     "E1wHCA": {
         "en-US": "[Yota Chara]\nWhat if some bad news reach us even if I try hard making these amulets for their safety?",
@@ -262,7 +262,7 @@
     "FFwHCA": {
         "en-US": "[Yota Chara]\nI get startled each time some mail arrives...",
         "pt-BR": "[Abacchio Chara]\nMeu coração quase sai pela boca toda vez que chega uma carta nova...",
-        "es-ES": "[Yota Chara]\nMe asusto cada vez que llega un correo…"
+        "es-ES": "[Yota Chara]\nMe asusto cada vez que llega un correo..."
     },
     "FVwHCA": {
         "en-US": "[Dandi Chara]\nWhatever happened to our parents? ~Bursting into crying~",
@@ -462,7 +462,7 @@
     "PFwHCA": {
         "en-US": "[Dandi Chara]\n~Shrieks~ Hi...Hiya...\nYou really startled me... I thought it was Jogi.",
         "pt-BR": "[Narancia Chara]\nO... Oi...\nVocê me deu um baita susto... Achei que era o Mista.",
-        "es-ES": "[Dandi Chara]\n*Chilla* Ho… Hola…\nVaya susto me has dado… Pensé que eras Jogi."
+        "es-ES": "[Dandi Chara]\n*Chilla* Ho... Hola...\nVaya susto me has dado... Pensé que eras Jogi."
     },
     "PVwHCA": {
         "en-US": "Exchange Armors for Doram Token",
@@ -472,7 +472,7 @@
     "PlwHCA": {
         "en-US": "[Dandi Chara]\nDo you mind if I search you to see the items you have with you?\nIf I find an item suitable for Jogi, I'll pay <ITEM>Doram Token<INFO>25142</INFO> </ITEM>...",
         "pt-BR": "[Narancia Chara]\nO que você tem aí?\nSe for algo útil para nós, eu posso te dar alguns <ITEM>Emblemas Doram<INFO>25142</INFO></ITEM>  em troca...",
-        "es-ES": "[Dandi Chara]\n¿Te importa si miro los objetos que llevas?\nSi encuentro un objeto adecuado para Jogi, te pagaré con <ITEM>Fichas Doram<INFO>25142</INFO></ITEM>…"
+        "es-ES": "[Dandi Chara]\n¿Te importa si miro los objetos que llevas?\nSi encuentro un objeto adecuado para Jogi, te pagaré con <ITEM>Fichas Doram<INFO>25142</INFO></ITEM>..."
     },
     "P1wHCA": {
         "en-US": "Doram Suit",
@@ -597,12 +597,12 @@
     "V1wHCA": {
         "en-US": "[Dandi Chara]\n...I think That's just it. Should I look over it again, or stop right here?",
         "pt-BR": "[Narancia Chara]\nAcho que isso é tudo. Certo?",
-        "es-ES": "[Dandi Chara]\n…Creo que eso es todo. ¿Lo reviso de nuevo o me detengo aquí?"
+        "es-ES": "[Dandi Chara]\n...Creo que eso es todo. ¿Lo reviso de nuevo o me detengo aquí?"
     },
     "WFwHCA": {
         "en-US": "[Dandi Chara]\nAlright...Thank you for your...help, I guess...",
         "pt-BR": "[Narancia Chara]\nOK, valeu...",
-        "es-ES": "[Dandi Chara]\nBueno… gracias por tu… ayuda, supongo…"
+        "es-ES": "[Dandi Chara]\nBueno... gracias por tu... ayuda, supongo..."
     },
     "WVwHCA": {
         "en-US": "[Dandi Chara]\nWhoa, this must be ^3131FF{0}^000000!!\ndon't you want to exchange this with {1} <ITEM>Doram Token<INFO>25142</INFO></ITEM>?",
@@ -622,17 +622,17 @@
     "XFwHCA": {
         "en-US": "[Dandi Chara]\nI know. I searched into your inventory too much. Sorry...",
         "pt-BR": "[Narancia Chara]\nEh, eu falei alguma coisa errada? Desculpe...",
-        "es-ES": "[Dandi Chara]\nLo sé. Ya busqué demasiado en tu inventario. Lo siento…"
+        "es-ES": "[Dandi Chara]\nLo sé. Ya busqué demasiado en tu inventario. Lo siento..."
     },
     "XVwHCA": {
         "en-US": "[Dandi Chara]\nYes...",
         "pt-BR": "[Narancia Chara]\nTudo bem...",
-        "es-ES": "[Dandi Chara]\nSí…"
+        "es-ES": "[Dandi Chara]\nSí..."
     },
     "XlwHCA": {
         "en-US": "[Dandi Chara]\nShe gets angry easily but makes new clothes for me, saying I deserve pretty ones.\nI like her...",
         "pt-BR": "[Narancia Chara]\nMinha irmã fica brava muito fácil, mas ela sempre cuida da gente...\nEla é muito legal...",
-        "es-ES": "[Dandi Chara]\nSe enfada con facilidad, pero me hace ropa nueva y bonita, y dice que me la merezco.\nMe agrada…"
+        "es-ES": "[Dandi Chara]\nSe enfada con facilidad, pero me hace ropa nueva y bonita, y dice que me la merezco.\nMe agrada..."
     },
     "X1wHCA": {
         "en-US": "[Dandi Chara]\nMy brothers can be pretty mean. So I try my best to obey what Dandi tells me to.\nStill, Yota would never show his smiles, while Jogi would bring me hideous stuff like an earthworm, saying I should be tougher. ~Makes a sobbing sound~",
@@ -642,17 +642,17 @@
     "YFwHCA": {
         "en-US": "[Dandi Chara]\nWhat's more, Jogi keeps wandering near the forest, saying He's going for the Militia. Mom said it's dangerous...",
         "pt-BR": "[Narancia Chara]\nAlém disso, Mista fica vagando perto da floresta, dizendo que vai atrás dos bandidos. Mamãe disse que é perigoso...",
-        "es-ES": "[Dandi Chara]\nAdemás, Jogi se la pasa vagando por el bosque, diciendo que se irá a la milicia. Mamá dijo que es peligroso…"
+        "es-ES": "[Dandi Chara]\nAdemás, Jogi se la pasa vagando por el bosque, diciendo que se irá a la milicia. Mamá dijo que es peligroso..."
     },
     "YVwHCA": {
         "en-US": "[Dandi Chara]\nWhat if a monster takes my brother away? That monster's gotta hurt a lot...",
         "pt-BR": "[Narancia Chara]\nE se um monstro levar meu irmão? Esse monstro deve estar doendo muito...",
-        "es-ES": "[Dandi Chara]\n¿Y si un monstruo se lleva a mi hermano? Ese monstruo debe hacer mucho daño…"
+        "es-ES": "[Dandi Chara]\n¿Y si un monstruo se lleva a mi hermano? Ese monstruo debe hacer mucho daño..."
     },
     "YlwHCA": {
         "en-US": "[Dandi Chara]\nDo you happen to have any piece of armor to spare for my brother? Would you give it to me? I'll pay for it...",
         "pt-BR": "[Narancia Chara]\nVocê tem alguma peça de armadura sobrando para o meu irmão? Você me daria? Eu pago...",
-        "es-ES": "[Dandi Chara]\nPor casualidad, ¿tienes alguna pieza de armadura de sobra para mi hermano? ¿Me la darías? Pagaré por ella…"
+        "es-ES": "[Dandi Chara]\nPor casualidad, ¿tienes alguna pieza de armadura de sobra para mi hermano? ¿Me la darías? Pagaré por ella..."
     },
     "Y1wHCA": {
         "en-US": "^FF0000- Note -^000000\n^FF0000Cards, Enchants and Refine^000000\n^FF0000will be lost in the exchange.^000000\n^FF0000Please, have that in mind.^000000\n^FF0000Do you want to continue?^000000",

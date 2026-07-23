@@ -37,12 +37,12 @@
     "R1+KAw": {
         "en-US": "[Tutorial Instructor]\nHowever, looking at you\nin your current state makes me\ndoubt your ability to gather\nthe items I need...",
         "pt-BR": "[Instrutor de Tutoriais]\nVendo você assim,\ntenho minhas dúvidas\nse você realmente consegue \nobter os itens de que preciso...",
-        "es-ES": "[Instructor de entrenamiento]\nSin embargo, verte\nen tu estado actual me hace\ndudar de tu capacidad para juntar\nlos objetos que necesito…"
+        "es-ES": "[Instructor de entrenamiento]\nSin embargo, verte\nen tu estado actual me hace\ndudar de tu capacidad para juntar\nlos objetos que necesito..."
     },
     "SF+KAw": {
         "en-US": "[Tutorial Instructor]\nWell, I guess if you employ\na ^006400Mercenary^000000 for this\nthen I think I can entrust you\nwith my requests... right?",
         "pt-BR": "[Instrutor de Tutoriais]\nSe você contratar um\n^006400Assistente^000000 para a tarefa,\nquem sabe eu me sinta mais confortável\nem confiar minhas solicitações a você.",
-        "es-ES": "[Instructor de entrenamiento]\nBueno, imagino que si contratas a\nun ^006400mercenario^000000 para esto,\nentonces creo que puedo confiarte\nmis solicitudes… ¿no?"
+        "es-ES": "[Instructor de entrenamiento]\nBueno, imagino que si contratas a\nun ^006400mercenario^000000 para esto,\nentonces creo que puedo confiarte\nmis solicitudes... ¿no?"
     },
     "SV+KAw": {
         "en-US": "[Tutorial Instructor]\nIn order to employ a Mercenary\nGo find the ^006400Mercenary Guild^000000\nwhich is by the front door of ^8B4513Prontera^000000.\nGo to the ^006400Information Agent^000000\nand ask them where the ^006400Mercenary Guild Official^000000\nis located and they will let you know.",
@@ -52,12 +52,12 @@
     "Sl+KAw": {
         "en-US": "[Tutorial Instructor]\nNow... Hurry and employ\na ^006400Mercenary^000000 and come back to me",
         "pt-BR": "[Instrutor de Tutoriais]\nAgora... Rápido, contrate\num ^006400Assistente ^000000 e fale comigo novamente.",
-        "es-ES": "[Instructor de entrenamiento]\nAhora… Date prisa, contrata a\nun ^006400mercenario^000000 y vuelve conmigo."
+        "es-ES": "[Instructor de entrenamiento]\nAhora... Date prisa, contrata a\nun ^006400mercenario^000000 y vuelve conmigo."
     },
     "S1+KAw": {
         "en-US": "[Tutorial Instructor]\nWell since you said you're busy\nI can't be helped...\nWhen you're not so busy, come find me again.",
         "pt-BR": "[Instrutor de Tutoriais]\nComo você está sem tempo,\nnão pode me ajudar... Fale comigo\nnovamente quando tiver mais tempo.",
-        "es-ES": "[Instructor de entrenamiento]\nBueno, ya que dijiste que no tienes tiempo,\nno hay remedio…\nCuando tengas tiempo, vuelve a buscarme."
+        "es-ES": "[Instructor de entrenamiento]\nBueno, ya que dijiste que no tienes tiempo,\nno hay remedio...\nCuando tengas tiempo, vuelve a buscarme."
     },
     "TF+KAw": {
         "en-US": "[Tutorial Instructor]\nYou haven't gotten a mercenary yet.",
@@ -77,17 +77,17 @@
     "T1+KAw": {
         "en-US": "[Tutorial Instructor]\nNow, let's see... In order to\nget this ^006400Enchant^000000 to succeed\nyou have to go gather some materials for me...\nWhat I need is...\n..............",
         "pt-BR": "[Instrutor de Tutoriais]\nAgora, vejamos... Para que\nesse ^006400Encantamento^000000 funcione,\nvocê precisa reunir alguns materiais para mim...\nPrecisarei de...\n..............",
-        "es-ES": "[Instructor de entrenamiento]\nAhora, veamos… Para\nque funcione este ^006400encantamiento^000000\ntienes que ir a juntar algunos materiales para mí…\nLo que necesito es…\n.............."
+        "es-ES": "[Instructor de entrenamiento]\nAhora, veamos... Para\nque funcione este ^006400encantamiento^000000\ntienes que ir a juntar algunos materiales para mí...\nLo que necesito es...\n.............."
     },
     "UF+KAw": {
         "en-US": "I don't think I heard you clearly...",
         "pt-BR": "Acho que não entendi direito...",
-        "es-ES": "Creo que no te oí claramente…"
+        "es-ES": "Creo que no te oí claramente..."
     },
     "UV+KAw": {
         "en-US": "[Tutorial Instructor]\nI really don't like to repeat myself..\nIf you ask me again like that\ndoes it just make your mouth tired?\nIn these situations, open your ^006400Quest Window^000000\nand you can see what is requested of you\nand the details of my request.",
         "pt-BR": "[Instrutor de Tutoriais]\nNão gosto de falar duas vezes.\nSua boca não fica cansada\nde repetir tantas perguntas?\nAbra a ^006400Janela de Missão^000000\ne veja os detalhes da missão.\nOs itens solicitados estão lá.",
-        "es-ES": "[Instructor de entrenamiento]\nRealmente no me gusta repetir las cosas…\nSi me vuelves a preguntar así,\n¿no te cansa la boca?\nEn estas situaciones, abre tu ^006400ventana de misiones^000000\ny podrás ver lo que se te pide\ny los detalles de mi solicitud."
+        "es-ES": "[Instructor de entrenamiento]\nRealmente no me gusta repetir las cosas...\nSi me vuelves a preguntar así,\n¿no te cansa la boca?\nEn estas situaciones, abre tu ^006400ventana de misiones^000000\ny podrás ver lo que se te pide\ny los detalles de mi solicitud."
     },
     "Ul+KAw": {
         "en-US": "[Tutorial Instructor]\nIf you look at the top left\nIn the area with the information\nIt says ^006400QUEST^000000\nand if you click that\nit'll show all information\nthat pertains to the request.",
@@ -117,12 +117,12 @@
     "V1+KAw": {
         "en-US": "No...",
         "pt-BR": "Não...",
-        "es-ES": "No…"
+        "es-ES": "No..."
     },
     "WF+KAw": {
         "en-US": "Where is the Quest Window...",
         "pt-BR": "Onde está a Janela de Missão?",
-        "es-ES": "¿Dónde está la ventana de misiones…?"
+        "es-ES": "¿Dónde está la ventana de misiones...?"
     },
     "WV+KAw": {
         "en-US": "[Tutorial Instructor]\nOh yeah? Then shall I test you to see\nif you really checked it?\nWrite down what material I asked you to get.",
@@ -132,12 +132,12 @@
     "Wl+KAw": {
         "en-US": "[Tutorial Instructor]\nGood, you know.\nNow, are you feeling pretty familiar\nabout the ^006400Quest Window^000000?\nBut there is an issue...\nYou know what material to collect\nBut gathering that won't be easy.",
         "pt-BR": "[Instrutor de Tutoriais]\nQue bom, você sabe.\nJá se familiarizou com \na ^006400Janela de Missão^000000?\nSó temos um problema...\nVocê sabe quais materiais coletar,\nmas coletá-los não será fácil.",
-        "es-ES": "[Instructor de entrenamiento]\nBien.\nBueno, ¿te familiarizaste con\nla ^006400ventana de misiones^000000?\nPero hay un problema…\nYa sabes qué material recolectar,\npero hacerlo no será fácil."
+        "es-ES": "[Instructor de entrenamiento]\nBien.\nBueno, ¿te familiarizaste con\nla ^006400ventana de misiones^000000?\nPero hay un problema...\nYa sabes qué material recolectar,\npero hacerlo no será fácil."
     },
     "W1+KAw": {
         "en-US": "[Tutorial Instructor]\nAlso, there is one thing\nI absolutely think you need to try.\nAnd that is...\nthe ^006400Window Shopper Catalogue^000000",
         "pt-BR": "[Instrutor de Tutoriais]\nAlém disso, há uma coisa\nque você precisa testar.\nVocê já viu o \n^006400Catálogo de Vendas Prata^000000?",
-        "es-ES": "[Instructor de entrenamiento]\nAdemás, hay una cosa\nque creo que tienes que probar.\nY eso es…\nel ^006400Catálogo de escaparate de tienda^000000."
+        "es-ES": "[Instructor de entrenamiento]\nAdemás, hay una cosa\nque creo que tienes que probar.\nY eso es...\nel ^006400Catálogo de escaparate de tienda^000000."
     },
     "XF+KAw": {
         "en-US": "[Tutorial Instructor]\nThe ^006400Window Shopper Catalogue^000000\ncan be obtained from\nthe ^0000FFCatalogue Wizard^000000\nthat is located in South Prontera",
@@ -152,7 +152,7 @@
     "Xl+KAw": {
         "en-US": "[Tutorial Instructor]\nYou... still don't seem\nto know much about\nthe ^006400Quest Window^000000\nI will inform you again.",
         "pt-BR": "[Instrutor de Tutoriais]\nVocê... Ainda não parece\nsaber muito sobre a\n^006400Janela de Missão^000000.\nVou ensinar de novo.",
-        "es-ES": "[Instructor de entrenamiento]\nTú… todavía no pareces\nsaber mucho sobre\nla ^006400ventana de misiones^000000,\nTe informaré de nuevo."
+        "es-ES": "[Instructor de entrenamiento]\nTú... todavía no pareces\nsaber mucho sobre\nla ^006400ventana de misiones^000000,\nTe informaré de nuevo."
     },
     "X1+KAw": {
         "en-US": "[Tutorial Instructor]\nOnce you verify what materials\nyou need to gather from\nthe ^006400Quest Window^000000\nCome find and talk to me again.",
@@ -167,7 +167,7 @@
     "YV+KAw": {
         "en-US": "[Tutorial Instructor]\nIt seems that you have\none too many items on you...\nIf you want to help me out\nthen you're gonna have to put some\nstuff away then come back.",
         "pt-BR": "[Instrutor de Tutoriais]\nParece que você tem\num item a mais com você...\nSe quiser me ajudar,\nterá que guardar algumas\ncoisas antes de voltar.",
-        "es-ES": "[Instructor de entrenamiento]\nParece que eres\ntienes demasiados objetos…\nSi quieres ayudarme\nentonces vas a tener que librarte de\nalgunos y luego volver."
+        "es-ES": "[Instructor de entrenamiento]\nParece que eres\ntienes demasiados objetos...\nSi quieres ayudarme\nentonces vas a tener que librarte de\nalgunos y luego volver."
     },
     "Yl+KAw": {
         "en-US": "[Tutorial Instructor]\nOh! You managed to get\nthe ^006400Window Shopper Catalogue^000000!",
@@ -207,12 +207,12 @@
     "aV+KAw": {
         "en-US": "[Tutorial Instructor]\nHmm... It seems that you still have\nthe ^006400Window Shopper Catalogue^000000 in your inventory.\nSince you're saying you forgot how to use it\nI'll explain it to you again.",
         "pt-BR": "[Instrutor de Tutoriais]\nHum... Parece que o \n^006400Catálogo de Vendas Prata^000000 ainda está em seu inventário.\nJá que você afirmou que não lembra\ncomo usá-lo, vou explicar de novo.",
-        "es-ES": "[Instructor de entrenamiento]\nMmm… Parece que todavía tienes\nel ^006400Catálogo de escaparate de tienda^000000 en tu inventario.\nYa que dices que olvidaste cómo usarlo,\nte lo explicaré de nuevo."
+        "es-ES": "[Instructor de entrenamiento]\nMmm... Parece que todavía tienes\nel ^006400Catálogo de escaparate de tienda^000000 en tu inventario.\nYa que dices que olvidaste cómo usarlo,\nte lo explicaré de nuevo."
     },
     "al+KAw": {
         "en-US": "[Tutorial Instructor]\nYou see... The ^006400Window Shopper Catalogue^000000\nlets you browse and search\nthrough all the various stores\nthat are on the same map and\nis open for vending.",
         "pt-BR": "[Instrutor de Tutoriais]\nO ^006400Catálogo de Vendas Prata^000000\npermite que você busque\ne navegue por todas as lojas\nabertas para comércio\nlocalizadas no mesmo mapa.",
-        "es-ES": "[Instructor de entrenamiento]\nVerás… El ^006400Catálogo de escaparate de tienda^000000\nte permite navegar y buscar\npor todas las tiendas\nque están en el mismo mapa y\nabiertas para la venta."
+        "es-ES": "[Instructor de entrenamiento]\nVerás... El ^006400Catálogo de escaparate de tienda^000000\nte permite navegar y buscar\npor todas las tiendas\nque están en el mismo mapa y\nabiertas para la venta."
     },
     "a1+KAw": {
         "en-US": "[Tutorial Instructor]\nHow do you feel after trying out\nthe ^006400Window Shopper Catalogue^000000?\nIt feels a lot easier than\ngoing through each individual\nvendor and finding the item\nyou need, right??",
@@ -232,7 +232,7 @@
     "bl+KAw": {
         "en-US": "Yeah...",
         "pt-BR": "Sim...",
-        "es-ES": "Sí…"
+        "es-ES": "Sí..."
     },
     "b1+KAw": {
         "en-US": "Nope!",
@@ -257,17 +257,17 @@
     "c1+KAw": {
         "en-US": "[Tutorial Instructor]\nYou got everything I asked for!\nSo~ Shall we start on the awesome\nEnchant that I found and developed?",
         "pt-BR": "[Instrutor de Tutoriais]\nVocê tem tudo o que eu pedi!\nEntão vamos começar o incrível\nEncantamento, de minha autoria?",
-        "es-ES": "[Instructor de entrenamiento]\n¡Tienes todo lo que te pedí!\nAsí que… ¿Empezamos con el impresionante \nencantamiento que descubrí y desarrollé?"
+        "es-ES": "[Instructor de entrenamiento]\n¡Tienes todo lo que te pedí!\nAsí que... ¿Empezamos con el impresionante \nencantamiento que descubrí y desarrollé?"
     },
     "dF+KAw": {
         "en-US": "[Tutorial Instructor]\nOkay! Now for the first skill!!\nTo add a new ability to your armor...\n^006400HIDDEN SOCKET ENCHANT^000000!!",
         "pt-BR": "[Instrutor de Tutoriais]\nMuito bem! Agora a primeira habilidade!!!\nPara adicionar uma nova habilidade à sua armadura...\n^006400ENCANTAMENTOS DE ESPAÇOS OCULTOS^000000!",
-        "es-ES": "[Instructor de entrenamiento]\n¡Bien! ¡Ahora, la primera habilidad!\nPara añadir una nueva habilidad a tu armadura…\n¡^006400ENCANTAMIENTO DE RANURA OCULTA^000000!"
+        "es-ES": "[Instructor de entrenamiento]\n¡Bien! ¡Ahora, la primera habilidad!\nPara añadir una nueva habilidad a tu armadura...\n¡^006400ENCANTAMIENTO DE RANURA OCULTA^000000!"
     },
     "dV+KAw": {
         "en-US": "[Tutorial Instructor]\nAnd for the second skill!!\nTo add a new socket into your\nweapon and shield...\n^006400SOCKET ENCHANT^000000!!",
         "pt-BR": "[Instrutor de Tutoriais]\nE agora, a segunda habilidade!\nPara adicionar um novo espaço\nà sua armadura e escudo...\n^006400ENCANTAMENTO DE ESPAÇO^000000!!",
-        "es-ES": "[Instructor de entrenamiento]\n¡Y la segunda habilidad!\nPara añadir una nueva ranura a tu\narma y escudo…\n¡^006400ENCANTAMIENTO DE RANURA^000000!"
+        "es-ES": "[Instructor de entrenamiento]\n¡Y la segunda habilidad!\nPara añadir una nueva ranura a tu\narma y escudo...\n¡^006400ENCANTAMIENTO DE RANURA^000000!"
     },
     "dl+KAw": {
         "en-US": "[Tutorial Instructor]\nThere. The Enchant is done. You can't understand the the process by just watching me, so I'll let you look at the items themselves.",
@@ -282,7 +282,7 @@
     "eF+KAw": {
         "en-US": "[Tutorial Instructor]\nYou seem to have too much stuff\nin your inventory... Go put some\nstuff away then come back to me\nwhen you have less suff on you.",
         "pt-BR": "[Instrutor de Tutoriais]\nParece que você tem coisas demais\nem seu inventário... Guarde algumas\ncoisas e volte a falar comigo quando\nestiver carregando menos itens.",
-        "es-ES": "[Instructor de entrenamiento]\nParece que tienes demasiadas cosas\nen tu inventario… Despeja\ntu inventario y luego vuelve a mí\ncuando tengas menos objetos encima."
+        "es-ES": "[Instructor de entrenamiento]\nParece que tienes demasiadas cosas\nen tu inventario... Despeja\ntu inventario y luego vuelve a mí\ncuando tengas menos objetos encima."
     },
     "eV+KAw": {
         "en-US": "[Tutorial Instructor]\nWhat did you do with the Enchanted\nitems I lent to you to look at?\nUntil you don't bring back the fruits of\nmy labor, I don't want to talk to you,\nlet alone see your face",
@@ -342,22 +342,22 @@
     "hF+KAw": {
         "en-US": "About the Quest Window...",
         "pt-BR": "Sobre a Janela de Missão...",
-        "es-ES": "Acerca de la ventana de misiones…"
+        "es-ES": "Acerca de la ventana de misiones..."
     },
     "hV+KAw": {
         "en-US": "About ENCHANT...",
         "pt-BR": "Sobre o sistema de Encantamentos...",
-        "es-ES": "Acerca de los encantamientos…"
+        "es-ES": "Acerca de los encantamientos..."
     },
     "hl+KAw": {
         "en-US": "About Searching Vends...",
         "pt-BR": "Sobre o sistema de busca de vendedores...",
-        "es-ES": "Acerca de la búsqueda de ventas…"
+        "es-ES": "Acerca de la búsqueda de ventas..."
     },
     "h1+KAw": {
         "en-US": "About Mercenary and Pets...",
         "pt-BR": "Sobre Assistentes e Bichinhos...",
-        "es-ES": "Sobre los mercenarios y las mascotas…"
+        "es-ES": "Sobre los mercenarios y las mascotas..."
     },
     "iF+KAw": {
         "en-US": "End Conversation",
@@ -542,12 +542,12 @@
     "rF+KAw": {
         "en-US": "[Tutorial Goal]\nHmm, I wonder if there is any adventurer that is smart enough to challenge our Experts...",
         "pt-BR": "[Objetivo do tutorial]\nEu me pergunto se há algum aventureiro inteligente o suficiente para desafiar nossos especialistas...",
-        "es-ES": "[Objetivo de guía]\nMmm, me pregunto si habrán trotamundos lo suficientemente listos como para desafiar a nuestros expertos…"
+        "es-ES": "[Objetivo de guía]\nMmm, me pregunto si habrán trotamundos lo suficientemente listos como para desafiar a nuestros expertos..."
     },
     "rV+KAw": {
         "en-US": "[Tutorial Goal]\nHey you!  You look like an adventurer... Though you look a little dull...",
         "pt-BR": "[Objetivo do tutorial]\nEi, você! Você parece ser um aventureiro... Embora pareça meio sem graça...",
-        "es-ES": "[Objetivo de guía]\n¡Oye, tú!  Pareces un trotamundos… Aunque no pareces tan inteligente…"
+        "es-ES": "[Objetivo de guía]\n¡Oye, tú!  Pareces un trotamundos... Aunque no pareces tan inteligente..."
     },
     "rl+KAw": {
         "en-US": "What'd you say? I'm smart!",
@@ -557,7 +557,7 @@
     "r1+KAw": {
         "en-US": "Yeah... I'm dull.",
         "pt-BR": "Sim... Sou sem graça.",
-        "es-ES": "Sí… No soy tan inteligente."
+        "es-ES": "Sí... No soy tan inteligente."
     },
     "sF+KAw": {
         "en-US": "[Tutorial Goal]\nSerious? Though I don't know if I can believe that. Look at the expert who is in front of me! He took up only one area of study for 16 years and now he is as dignified as can be!",
@@ -577,12 +577,12 @@
     "s1+KAw": {
         "en-US": "Ch... Challenge!!",
         "pt-BR": "D... Desafiá-los!!!",
-        "es-ES": "De… ¡Desafío!"
+        "es-ES": "De... ¡Desafío!"
     },
     "tF+KAw": {
         "en-US": "Um... I think I'll just give up now...",
         "pt-BR": "Acho que vou desistir agora...",
-        "es-ES": "Eh… Creo que me rendiré ahora…"
+        "es-ES": "Eh... Creo que me rendiré ahora..."
     },
     "tV+KAw": {
         "en-US": "[Tutorial Goal]\nYou're braver than you look. You can't go back now that you've decided to challenge!",
@@ -597,7 +597,7 @@
     "t1+KAw": {
         "en-US": "[Tutorial Goal]\nWell, don't get discouraged... If you change your mind and want to do the challenge, come find me.",
         "pt-BR": "[Objetivo do tutorial]\nNão desanime... Se mudar de ideia e quiser participar do desafio, venha me procurar.",
-        "es-ES": "[Objetivo de guía]\nBueno, no te desanimes… Si cambias de opinión y quieres hacer el reto, ven a buscarme."
+        "es-ES": "[Objetivo de guía]\nBueno, no te desanimes... Si cambias de opinión y quieres hacer el reto, ven a buscarme."
     },
     "uF+KAw": {
         "en-US": "[Tutorial Goal]\nYou seen to be overweight with items. Go put some stuff away then come back.",
@@ -952,7 +952,7 @@
     "/l+KAw": {
         "en-US": "[Siege Expert]\nBah! You're no fun... you give up too easy! If you change your mind, come find me.",
         "pt-BR": "[Especialista em Guerras]\nAfff! Você não sabe brincar... Desiste muito fácil! Se mudar de ideia, venha me procurar.",
-        "es-ES": "[Experto en guerras]\n¡Bah! Qué aburrido… ¡te rindes demasiado fácil! Si cambias de opinión, ven a buscarme."
+        "es-ES": "[Experto en guerras]\n¡Bah! Qué aburrido... ¡te rindes demasiado fácil! Si cambias de opinión, ven a buscarme."
     },
     "/1+KAw": {
         "en-US": "[Siege Expert]\nAre you giving up? If you change your mind, come find me.",
@@ -1242,7 +1242,7 @@
     "OGCKAw": {
         "en-US": "[Party Recruiting Expert]\nIf you ever want to hear more about ^006400Party Recruiting^000000, come find me anytime..",
         "pt-BR": "[Especialista em Recrutamento de Equipes]\nSe quiser saber mais sobre ^006400Recrutamento de Equipes^000000, venha me encontrar a qualquer momento...",
-        "es-ES": "[Experto en reclutamiento para grupos]\nSi alguna vez quieres saber más acerca del ^006400reclutamiento para grupos^000000, ven a buscarme en cualquier momento…"
+        "es-ES": "[Experto en reclutamiento para grupos]\nSi alguna vez quieres saber más acerca del ^006400reclutamiento para grupos^000000, ven a buscarme en cualquier momento..."
     },
     "OWCKAw": {
         "en-US": "[Party Recruiting Expert]\nFor Party Recruiting, in order to make the\nParty Recruiting Window pop up,\nYou type in this command []\nWhat words go in the empty spaces of []?",
@@ -1297,7 +1297,7 @@
     "Q2CKAw": {
         "en-US": "[Party Recruiting Expert]\nIf you ever want to hear more about ^006400Party Recruiting^000000, come find me anytime...",
         "pt-BR": "[Especialista em Recrutamento de Equipes]\nSe quiser saber mais sobre ^006400Recrutamento de Equipes^000000, venha me encontrar a qualquer momento...",
-        "es-ES": "[Experto en reclutamiento para grupos]\nSi alguna vez quieres saber más sobre el ^006400reclutamiento para grupos^000000, búscame cuando quieras…"
+        "es-ES": "[Experto en reclutamiento para grupos]\nSi alguna vez quieres saber más sobre el ^006400reclutamiento para grupos^000000, búscame cuando quieras..."
     },
     "RGCKAw": {
         "en-US": "[Party Recruiting Expert]\nNow, then,\nWell, off you go to the ^0000FFBattleground Expert^000000! He is probably waiting for you.",
@@ -1342,7 +1342,7 @@
     "TGCKAw": {
         "en-US": "[Battleground Expert]\nTo explain ^006400Battleground^000000 easily...\nYou pick either Camp ^006400Guillaume^000000 or Camp ^006400Croix^000000 then you fight each other.",
         "pt-BR": "[Especialista em Campo de Batalha]\nDe maneira simples, nos ^006400Campos de Batalha^000000:\nVocê escolhe entre Acampamento ^006400Guillaume^000000 e Acampamento ^006400Croix^000000 e enfrenta o adversário.",
-        "es-ES": "[Experto en campos de batalla]\nPara explicar fácilmente ^006400los campos de batalla^000000…\nEliges entre el campamento ^006400Guillaume^000000 o el campamento ^006400Croix^000000 y luego luchan entre ustedes."
+        "es-ES": "[Experto en campos de batalla]\nPara explicar fácilmente ^006400los campos de batalla^000000...\nEliges entre el campamento ^006400Guillaume^000000 o el campamento ^006400Croix^000000 y luego luchan entre ustedes."
     },
     "TWCKAw": {
         "en-US": "[Battleground Expert]\nThere are 3 types of ^006400Battleground^000000s.\nFirst is ^006400KVM^000000.  It is a 5vs5 battle with the goal of reducing the number of people on either side.",
@@ -1392,7 +1392,7 @@
     "VmCKAw": {
         "en-US": "[Battleground Expert]\nFor 16 years, I experienced the intense heat of battle on the ^006400Battleground^000000s... I am the ^006400Battleground^000000 Expert!\nIt seems that the ^006400Party Recruiting Expert^000000 sent you to me since you passed his quiz.",
         "pt-BR": "[Especialista em Campo de Batalha]\nPor 16 anos, vivenciei o calor intenso da batalha no ^006400Campo de Batalha^000000... Eu sou o ^006400Especialista em Campo de Batalha^000000!\nParece que o ^006400Especialista em Recrutamento de Equipes^000000 disse para você me procurar, pois você passou no teste dele.",
-        "es-ES": "[Experto en campos de batalla]\nDurante 16 años, viví el intenso fragor de la batalla en los ^006400campos de batalla^000000… ¡Soy el ^006400experto en campos de batalla^000000!\nParece que el ^006400experto en reclutamiento para grupos^000000 te envió a mí porque superaste su cuestionario."
+        "es-ES": "[Experto en campos de batalla]\nDurante 16 años, viví el intenso fragor de la batalla en los ^006400campos de batalla^000000... ¡Soy el ^006400experto en campos de batalla^000000!\nParece que el ^006400experto en reclutamiento para grupos^000000 te envió a mí porque superaste su cuestionario."
     },
     "V2CKAw": {
         "en-US": "[Battleground Expert]\nYou may already know but if you get pass all the quizzes from the Experts, you'll get a prize!",
@@ -1660,9 +1660,9 @@
         "es-ES": "[Experto en Mazmorra del Recuerdo]\nExisten muchas ^006400mazmorras del recuerdo^000000, pero te daremos pistas para ayudarte a encontrar la del mundo de Rune-Midgard."
     },
     "jGCKAw": {
-        "en-US": "[Memorial Dungeon Expert]\nFirst, go to ^8B4513Alberta^000000 and find ^006400Captain Jansen^000000.\nHe will give you information about the really huge and tall dungeon known as ^006400Andelis Tower^000000.",
-        "pt-BR": "[Especialista em Calabouços Memoriais]\nPrimeiro, vá até ^8B4513Alberta^000000 e encontre o ^006400Capitão Jansen^000000.\nEle lhe dará informações sobre um calabouço alto e gigantesco chamado ^006400Torre Andelis^000000.",
-        "es-ES": "[Experto en Mazmorra del Recuerdo]\nEn primer lugar, ve a ^8B4513Alberta^000000 y busca al ^006400capitán Jansen^000000.\nÉl te dará información sobre la mazmorra realmente enorme y alta conocida como ^006400torre Andelis^000000."
+        "en-US": "[Memorial Dungeon Expert]\nFirst, go to ^8B4513Alberta^000000 and find ^006400Captain Janssen^000000.\nHe will give you information about the really huge and tall dungeon known as ^006400Andelis Tower^000000.",
+        "pt-BR": "[Especialista em Calabouços Memoriais]\nPrimeiro, vá até ^8B4513Alberta^000000 e encontre o ^006400Capitão Janssen^000000.\nEle lhe dará informações sobre um calabouço alto e gigantesco chamado ^006400Torre Andelis^000000.",
+        "es-ES": "[Experto en Mazmorra del Recuerdo]\nEn primer lugar, ve a ^8B4513Alberta^000000 y busca al ^006400capitán Janssen^000000.\nÉl te dará información sobre la mazmorra realmente enorme y alta conocida como ^006400torre Andelis^000000."
     },
     "jWCKAw": {
         "en-US": "[Memorial Dungeon Expert]\nSecond, go to the ^8B4513Orc Map^000000 where all the orcs live and find the ^006400Insane Scientist^000000.\nYou might be able to get some information about a dungeon that has to do with ^006400Orc's Memory^000000.",
@@ -1760,14 +1760,14 @@
         "es-ES": "Alberta, Leyablem."
     },
     "oGCKAw": {
-        "en-US": "Alberta, Captain Jansen",
-        "pt-BR": "Alberta, Capitão Jansen",
-        "es-ES": "Alberta, capitán Jansen."
+        "en-US": "Alberta, Captain Janssen",
+        "pt-BR": "Alberta, Capitão Janssen",
+        "es-ES": "Alberta, capitán Janssen."
     },
     "oWCKAw": {
-        "en-US": "Prontera, Captin Jansen",
-        "pt-BR": "Prontera, Capitão Jansen",
-        "es-ES": "Prontera, capitán Jansen."
+        "en-US": "Prontera, Captin Janssen",
+        "pt-BR": "Prontera, Capitão Janssen",
+        "es-ES": "Prontera, capitán Janssen."
     },
     "omCKAw": {
         "en-US": "[Memorial Dungeon Expert]\nIn order to enter Memorial Dungeon the [] must apply and then be on stand-by to enter. You will enter in the order the application was put in.\nWhat words go in the empty spaces of []?",
@@ -1812,12 +1812,12 @@
     "qmCKAw": {
         "en-US": "[Memorial Dungeon Expert]\nThe quiz wasn't that hard...",
         "pt-BR": "[Especialista em Calabouços Memoriais]\nO teste não foi tão difícil...",
-        "es-ES": "[Experto en Mazmorra del Recuerdo]\nEl cuestionario no era tan difícil…"
+        "es-ES": "[Experto en Mazmorra del Recuerdo]\nEl cuestionario no era tan difícil..."
     },
     "q2CKAw": {
         "en-US": "[Memorial Dungeon Expert]\nYou look like you have potential... you should try again.",
         "pt-BR": "[Especialista em Calabouços Memoriais]\nParece que você tem potencial... deveria tentar novamente.",
-        "es-ES": "[Experto en Mazmorra del Recuerdo]\nParece que tienes potencial… deberías intentarlo de nuevo."
+        "es-ES": "[Experto en Mazmorra del Recuerdo]\nParece que tienes potencial... deberías intentarlo de nuevo."
     },
     "rGCKAw": {
         "en-US": "[Memorial Dungeon Expert]\nWhen you're done with the [], you cannot re-enter the same dungeon for a certain period of time.\nWhat words go in the empty spaces of []?",
@@ -1882,7 +1882,7 @@
     "uGCKAw": {
         "en-US": "[Memorial Dungeon Expert]\nThe quiz isn't that difficult...",
         "pt-BR": "[Especialista em Calabouços Memoriais]\nO teste não é tão difícil...",
-        "es-ES": "[Experto en Mazmorra del Recuerdo]\nEl cuestionario no es tan difícil…"
+        "es-ES": "[Experto en Mazmorra del Recuerdo]\nEl cuestionario no es tan difícil..."
     },
     "uWCKAw": {
         "en-US": "[Memorial Dungeon Expert]\nIf you go to the place where you can become a monk, the Capitolina Monastery, you can meet [] He will tell you about the dungeon with the Sealed Baphomet.\nWhat words go in the empty spaces of []?",
@@ -1922,12 +1922,12 @@
     "wGCKAw": {
         "en-US": "[Memorial Dungeon Expert]\nThe quiz isn't that hard...",
         "pt-BR": "[Especialista em Calabouços Memoriais]\nO teste não é tão difícil...",
-        "es-ES": "[Experto en Mazmorra del Recuerdo]\nEl cuestionario no es tan complicado…"
+        "es-ES": "[Experto en Mazmorra del Recuerdo]\nEl cuestionario no es tan complicado..."
     },
     "wWCKAw": {
         "en-US": "[Memorial Dungeon Expert]\nBut you look like you have potential... try again!",
         "pt-BR": "[Especialista em Calabouços Memoriais]\nMas parece que você tem potencial... tente novamente!",
-        "es-ES": "[Experto en Mazmorra del Recuerdo]\nPero parece que tienes potencial… ¡inténtalo de nuevo!"
+        "es-ES": "[Experto en Mazmorra del Recuerdo]\nPero parece que tienes potencial... ¡inténtalo de nuevo!"
     },
     "wmCKAw": {
         "en-US": "[Memorial Dungeon Expert]\nTherefore, in order to enter ^006400Memorial Dungeon^000000, the Party Leader must apply to enter.\nSince you enter in the order you apply, you must be on stand-by to enter.",
@@ -2137,7 +2137,7 @@
     "62CKAw": {
         "en-US": "[Map Expert]\nThe 3 questions shouldn't have been that hard...",
         "pt-BR": "[Especialista em Mapeamento]\nAs três perguntas não deveriam ter sido tão difíceis...",
-        "es-ES": "[Experto en mapas]\nLas tres preguntas no deberían haber sido tan difíciles…"
+        "es-ES": "[Experto en mapas]\nLas tres preguntas no deberían haber sido tan difíciles..."
     },
     "7GCKAw": {
         "en-US": "[Map Expert]\nWell, you seem to be pretty smart so why not try the quiz again?",

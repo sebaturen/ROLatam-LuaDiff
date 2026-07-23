@@ -17,17 +17,17 @@
     "41YdAQ": {
         "en-US": "[{0}]\nThis guy's not going to\nlet me pass. Let's see...\nIs there some way I could\nget him to leave? What, or\neven ^FF0000who^000000, could distract him?",
         "pt-BR": "[{0}]\nEsse cara não vai\nme deixar passar. Vejamos...\nExiste alguma maneira de\nfazer com que ele saia? O que,\nou melhor, ^FF0000quem^000000 poderia distraí-lo?",
-        "es-ES": "[{0}]\nEste tipo no me\ndejará pasar. Veamos…\n¿De qué forma puedo\nconseguir que se vaya? ¿Qué \no ^FF0000quién^000000 podría distraerlo?"
+        "es-ES": "[{0}]\nEste tipo no me\ndejará pasar. Veamos...\n¿De qué forma puedo\nconseguir que se vaya? ¿Qué \no ^FF0000quién^000000 podría distraerlo?"
     },
     "5FYdAQ": {
         "en-US": "[{0}]\nWait a second...\nOf course! I should\ntalk to him about...",
         "pt-BR": "[{0}]\nEspere um segundo...\nÉ claro! Eu deveria\nfalar com ele sobre...",
-        "es-ES": "[{0}]\nUn segundo…\n¡Por supuesto! Debería\nhablarle sobre…"
+        "es-ES": "[{0}]\nUn segundo...\n¡Por supuesto! Debería\nhablarle sobre..."
     },
     "5VYdAQ": {
         "en-US": "[{0}]\nWait a second...\nOf course! I should\ntalk to him about ^FF0000{1}^000000 !!",
         "pt-BR": "[{0}]\nEspere um segundo...\nÉ claro! Eu deveria\nfalar com ele sobre ^FF0000{1}^000000 !!!",
-        "es-ES": "[{0}]\nUn segundo…\n¡Por supuesto! Debería\nhablarle sobre ^FF0000{1}^000000."
+        "es-ES": "[{0}]\nUn segundo...\n¡Por supuesto! Debería\nhablarle sobre ^FF0000{1}^000000."
     },
     "5lYdAQ": {
         "en-US": "Lamir",
@@ -37,12 +37,12 @@
     "51YdAQ": {
         "en-US": "[{0}]\nWhat the...?\nWhere did I think of that?\nThat doesn't make any sense...",
         "pt-BR": "[{0}]\nMas o que...?\nComo foi que pensei nisso?\nIsso não faz o menor sentido...",
-        "es-ES": "[{0}]\n¿Pero qué…?\n¿Dónde se me ocurrió eso?\nNo tiene ningún sentido…"
+        "es-ES": "[{0}]\n¿Pero qué...?\n¿Dónde se me ocurrió eso?\nNo tiene ningún sentido..."
     },
     "6FYdAQ": {
         "en-US": "[{0}]\nThat's right! I talked\nto Lamir a while ago.\nIf she's right, then this\nguy must be Karlum, the guy\nwho's totally in love with her.\nHmm... I know what I'll say...",
         "pt-BR": "[{0}]\nÉ isso mesmo! Eu conversei\ncom a Lamir há algum tempo.\nSe ela estiver certa, então esse\nguarda deve ser o Karlum, o cara\nque está totalmente apaixonado por ela.\nHum... Já sei o que eu vou dizer...",
-        "es-ES": "[{0}]\n¡Eso es! Hablé \ncon Lamir hace un tiempo.\nSi está en lo cierto, este\nes Karlum, el tipo\nque está locamente enamorado de ella.\nMmm… Ya sé lo que le diré…"
+        "es-ES": "[{0}]\n¡Eso es! Hablé \ncon Lamir hace un tiempo.\nSi está en lo cierto, este\nes Karlum, el tipo\nque está locamente enamorado de ella.\nMmm... Ya sé lo que le diré..."
     },
     "6VYdAQ": {
         "en-US": "[{0}]\n^333333*Ahem*^000000 Excuse me,\nbut are you Karlum?\nI've got a message for you.",
@@ -52,7 +52,7 @@
     "6lYdAQ": {
         "en-US": "[Guard Karlum]\nA message for me?\nIs that why you're still\nloitering around? Well,\nspit it out. I can't waste\ntoo much time on the job...",
         "pt-BR": "[Guarda Karlum]\nUma mensagem para mim?\nÉ por isso que você ainda está\nvagando por aí? Então\nfale logo. Não posso ficar perdendo tempo no trabalho...",
-        "es-ES": "[Guardia Karlum]\n¿Un mensaje para mí?\n¿Por eso aún sigues\nmerodeando por aquí? Bueno,\ndilo de una vez. No puedo perder\nmucho tiempo en el trabajo…"
+        "es-ES": "[Guardia Karlum]\n¿Un mensaje para mí?\n¿Por eso aún sigues\nmerodeando por aquí? Bueno,\ndilo de una vez. No puedo perder\nmucho tiempo en el trabajo..."
     },
     "61YdAQ": {
         "en-US": "[{0}]\nYou know ^3131FFLamir^000000, right?",
@@ -62,7 +62,7 @@
     "7FYdAQ": {
         "en-US": "[Guard Karlum]\nLamir? Oh... My.\nOh no! Did something\nbad happen to her?\nQuick, tell me!",
         "pt-BR": "[Guarda Karlum]\nLamir? Ah... Nossa.\nAh, não! Aconteceu alguma coisa\nruim com ela?\nFala logo!",
-        "es-ES": "[Guardia Karlum]\n¿Lamir? Por todos los cielos…\n¡Ay, no! ¿Le pasó \nalgo malo?\n¡Dímelo ya!"
+        "es-ES": "[Guardia Karlum]\n¿Lamir? Por todos los cielos...\n¡Ay, no! ¿Le pasó \nalgo malo?\n¡Dímelo ya!"
     },
     "7VYdAQ": {
         "en-US": "[{0}]\nNo, nothing like that.\nShe just told me that she\nhad something important to\ntell you, and that you had to\ncome see her when you're free.",
@@ -77,7 +77,7 @@
     "71YdAQ": {
         "en-US": "[Guard Karlum]\n...I don't believe it.\nFinally. After all these\nyears. She feels the same\nway I feel for her! My midnight\nserenade a few days ago\nmust've touched her heart.",
         "pt-BR": "[Guarda Karlum]\n...não acredito.\nFinalmente! Depois de todos esses\nanos, ela sente o mesmo\nque eu sinto por ela! Minha serenata da meia-noite\nhá alguns dias atrás\ndeve ter tocado seu coração.",
-        "es-ES": "[Guardia Karlum]\n…No puedo creerlo.\n¡Por fin! Después de todos estos\naños. ¡Ella siente lo mismo\nque yo! Mi serenata de medianoche\nde hace unos días\nle debe haber llegado al corazón."
+        "es-ES": "[Guardia Karlum]\n...No puedo creerlo.\n¡Por fin! Después de todos estos\naños. ¡Ella siente lo mismo\nque yo! Mi serenata de medianoche\nde hace unos días\nle debe haber llegado al corazón."
     },
     "8FYdAQ": {
         "en-US": "[Guard Karlum]\nScrew this stupid job!\nI've made my choice, and\nI choose true love! I can't\nkeep Lamir waiting any longer!",
@@ -92,7 +92,7 @@
     "8lYdAQ": {
         "en-US": "[{0}]\nWhat? Is that what\nhappened? I could've\nsworn th--Oooh. I get it now.\nShe must be playing hard to\nget. That must mean that\nshe's reeeeally into you.",
         "pt-BR": "[{0}]\nO quê?\nFoi isso que aconteceu? Eu jurava que--Ah... Agora estou entendendo.\nEla deve estar se fazendo de difícil.\nIsso deve significar que\nela está realmente interessada em você.",
-        "es-ES": "[{0}]\n¿Qué? ¿Eso fue lo que\nsucedió? Podría haber\njurado que… ¡Ah! Ya entiendo.\nDebe estar haciéndose la\ndifícil. Eso debe de significar\nque le gustas muuuucho."
+        "es-ES": "[{0}]\n¿Qué? ¿Eso fue lo que\nsucedió? Podría haber\njurado que... ¡Ah! Ya entiendo.\nDebe estar haciéndose la\ndifícil. Eso debe de significar\nque le gustas muuuucho."
     },
     "81YdAQ": {
         "en-US": "[Guard Karlum]\nAh! That makes perfect\nsense! No wonder she treated\nme that way! Hahaha! I should\nhave figured it out sooner!\nWell then, I should go see\nher and play hard to get too!",
@@ -142,7 +142,7 @@
     "/FYdAQ": {
         "en-US": "[{0}]\nA lot of loving care\nwas put into arranging\nthese flowers.. I can't\nbear to disturb their beauty.",
         "pt-BR": "[{0}]\nMuito carinho e cuidado\nfoi colocado no arranjo\ndessas flores. Não posso\nestragar sua beleza.",
-        "es-ES": "[{0}]\nSe puso mucho cariño\nen este arreglo\nfloral… No soporto\nalterar su belleza."
+        "es-ES": "[{0}]\nSe puso mucho cariño\nen este arreglo\nfloral... No soporto\nalterar su belleza."
     },
     "/VYdAQ": {
         "en-US": "^3355FFAnd so you just\nstood there, looking\na bit pitiable, but not\nreally all that pathetic.^000000",
@@ -227,7 +227,7 @@
     "DVcdAQ": {
         "en-US": "Guard Karlum: Wha--? But I thought...? Huh, sorry. I should get going...",
         "pt-BR": "Guarda Karlum: O qu...? Mas eu pensei...? Hã, desculpe. Eu preciso ir embora...",
-        "es-ES": "Guardia Karlum: ¿Qué…? Pero pensé… Eh, lo siento. Debo irme…"
+        "es-ES": "Guardia Karlum: ¿Qué...? Pero pensé... Eh, lo siento. Debo irme..."
     },
     "DlcdAQ": {
         "en-US": "[Guard Krodger]\nWhat's with this vase?\nThey always send me out\nhere to clean up this mess!\nI mean, it happens so often,\nI don't think it's accidental.\nYou think it's vandals?",
@@ -287,7 +287,7 @@
     "GVcdAQ": {
         "en-US": "[{0}]\nOoh...\nThis might be\nwhat I'm looking for.",
         "pt-BR": "[{0}]\nBingo!\nDeve ser isso\nque estou procurando.",
-        "es-ES": "[{0}]\nAh…\nEsto podría ser\nlo que estoy buscando."
+        "es-ES": "[{0}]\nAh...\nEsto podría ser\nlo que estoy buscando."
     },
     "GlcdAQ": {
         "en-US": "^3355FFYou take the thick report\nlabeled ''Veins Geological\nResearch Institute'' on\nthe cover, and then you\nclose the drawer.^000000",
@@ -322,7 +322,7 @@
     "IFcdAQ": {
         "en-US": "[{0}]\nWait, I can use this\nladder to sneak out of\nhere! I snuck inside so\nI'd get caught if I just\npassed the guards...",
         "pt-BR": "[{0}]\nEspere, eu posso usar esta\nescada para sair daqui!\nEu entrei escondido,\nentão seria pego se simplesmente\npassasse pelos guardas...",
-        "es-ES": "[{0}]\n¡Espera, puedo usar esta\nescalera para escabullirme\nde aquí! Entré a hurtadillas, así que\nme atraparían si paso\njunto a los guardias…"
+        "es-ES": "[{0}]\n¡Espera, puedo usar esta\nescalera para escabullirme\nde aquí! Entré a hurtadillas, así que\nme atraparían si paso\njunto a los guardias..."
     },
     "IVcdAQ": {
         "en-US": "Climb Ladder",
@@ -357,7 +357,7 @@
     "J1cdAQ": {
         "en-US": "[{0}]\nAlthough the sender's\nname isn't on this letter,\nI can guess who wrote it.\nSpeaking of which...\nWhere's the geologist?",
         "pt-BR": "[{0}]\nEmbora o nome do remetente\nnão esteja nessa carta,\nposso adivinhar quem a escreveu. \nFalando nisso...\nOnde está o geólogo?",
-        "es-ES": "[{0}]\nAunque el nombre del remitente\nno esté en esta carta,\npuedo adivinar quién la escribió. \nHablando de eso…\n¿Dónde está el geólogo?"
+        "es-ES": "[{0}]\nAunque el nombre del remitente\nno esté en esta carta,\npuedo adivinar quién la escribió. \nHablando de eso...\n¿Dónde está el geólogo?"
     },
     "KFcdAQ": {
         "en-US": "Towner",
@@ -367,7 +367,7 @@
     "KVcdAQ": {
         "en-US": "[Towner]\nThe small office on the\n2nd floor of this weapon\nshop is occupied by a\ngeologist. At least, he's\nsupposed to be one...",
         "pt-BR": "[Towner]\nO escritório pequeno no\n2º andar dessa Loja de Armas\né ocupado por um\ngeólogo. Pelo menos, ele\ndeveria ser um...",
-        "es-ES": "[Habitante]\nEn la pequeña oficina\ndel segundo piso\nde esta armería hay\nun geólogo. Al menos, se\nsupone que lo es…"
+        "es-ES": "[Habitante]\nEn la pequeña oficina\ndel segundo piso\nde esta armería hay\nun geólogo. Al menos, se\nsupone que lo es..."
     },
     "KlcdAQ": {
         "en-US": "[Towner]\nThe guy might be a quack:\nall he does is drink and\nflirt with skanky women\nall day. I thought scholars\nare supposed to read and study\nand discover things, you know?",
@@ -382,7 +382,7 @@
     "LFcdAQ": {
         "en-US": "[Drunken Man]\nSo... ^333333*Urp*^000000\nSo then I said...",
         "pt-BR": "[Homem Bêbado]\nEntão... ^333333*Urp*^000000\nEntão, eu disse...",
-        "es-ES": "[Hombre borracho]\nAsí que… ^333333*Burp*^000000\nAsí que le dije…"
+        "es-ES": "[Hombre borracho]\nAsí que... ^333333*Burp*^000000\nAsí que le dije..."
     },
     "LVcdAQ": {
         "en-US": "[Drunken Man]\n''^3131FFHey, buddy! A man\nuses his back to talk,\nnot his fists! You wanna\npiece of me? Bring it on!^000000''",
@@ -402,7 +402,7 @@
     "MFcdAQ": {
         "en-US": "[Drunken Man]\nWell... Anyone would\nhave done it. I was just\nbeing a gentleman.\nHahahah, that's right!",
         "pt-BR": "[Homem bêbado]\nBem... Qualquer um\nteria feito isso. Eu estava apenas\nsendo um cavalheiro.\nHahaha, é isso mesmo!",
-        "es-ES": "[Hombre borracho]\nBueno… Cualquiera podría\nhaberlo hecho. Solo estaba\nsiendo un caballero.\n¡Ja,ja,ja, eso es!"
+        "es-ES": "[Hombre borracho]\nBueno... Cualquiera podría\nhaberlo hecho. Solo estaba\nsiendo un caballero.\n¡Ja,ja,ja, eso es!"
     },
     "MVcdAQ": {
         "en-US": "[{0}]\nExcuse me, but are\nyou the executive director\nof the Veins Geological Team?",
@@ -412,32 +412,32 @@
     "MlcdAQ": {
         "en-US": "[Drunken Man]\nYeah, sure! Executive\ndirector, deputy director,\ndirector, researcher, CEO,\nno... No, wait, that last one\ndoesn't sound right. Hah!\nI'm all of those~",
         "pt-BR": "[Homem Bêbado]\nSim, claro! Diretor executivo,\nvice-diretor,\ndiretor, pesquisador, CEO,\nnão... Não, espere, essa última\nnão parece ser verdade. Ah!\nEu sou tudo isso!",
-        "es-ES": "[Hombre borracho]\n¡Sí, claro! Director\nejecutivo, vicepresidente,\npresidente, investigador, director general…\nNo… No, espera, eso último\nno suena bien. ¡Ja!\nSoy todo eso."
+        "es-ES": "[Hombre borracho]\n¡Sí, claro! Director\nejecutivo, vicepresidente,\npresidente, investigador, director general...\nNo... No, espera, eso último\nno suena bien. ¡Ja!\nSoy todo eso."
     },
     "M1cdAQ": {
         "en-US": "[Drunken Man]\nI'm the executive director...\nI'm the only one that works\nat the institute, really.\nWhy, what do you want?",
         "pt-BR": "[Homem Bêbado]\nSou o diretor executivo...\nSou o único que trabalha\nno instituto, na verdade.\nPor que, o que você quer?",
-        "es-ES": "[Hombre borracho]\nSoy el director ejecutivo…\nSoy el único que trabaja\nen el instituto, en realidad.\n¿Por qué? ¿Qué quieres?"
+        "es-ES": "[Hombre borracho]\nSoy el director ejecutivo...\nSoy el único que trabaja\nen el instituto, en realidad.\n¿Por qué? ¿Qué quieres?"
     },
     "NFcdAQ": {
         "en-US": "[{0}]\nUhh... There are some\nofficial notices for you\nat your office. I guess you\nneed to get some surveys\ndone? They sound like\nthey're pretty important.",
         "pt-BR": "[{0}]\nHã... Tem algumas notificações oficiais para você\nno escritório. Acho que você\nprecisa terminar algumas pesquisas, não?\nParece que elas\nsão muito importantes.",
-        "es-ES": "[{0}]\nEh… Hay algunos\navisos oficiales para ti\nen tu oficina. Supongo que\ntienes que hacer algunas\ninspecciones, ¿verdad? Parecen\nbastante importantes."
+        "es-ES": "[{0}]\nEh... Hay algunos\navisos oficiales para ti\nen tu oficina. Supongo que\ntienes que hacer algunas\ninspecciones, ¿verdad? Parecen\nbastante importantes."
     },
     "NVcdAQ": {
         "en-US": "[{0}]\nMaybe...\nMaybe even ^FF0000urgent^000000.",
         "pt-BR": "[{0}]\nTalvez...\nTalvez até ^FF0000urgentes^000000.",
-        "es-ES": "[{0}]\nTal vez…\nTal vez incluso ^FF0000urgentes^000000."
+        "es-ES": "[{0}]\nTal vez...\nTal vez incluso ^FF0000urgentes^000000."
     },
     "NlcdAQ": {
         "en-US": "[Drunken Man]\nWha--? Hey, what day\nis it today? Damn it!\nFine, fine, time to get\nto work. Just when I was\nreally enjoying myself too!\nArgh, I never wanna be sober!",
         "pt-BR": "[Homem bêbado]\nO qu...? Ei, que dia é hoje?\nQue droga!\nTá bom, tá bom, hora de ir\ntrabalhar. Bem quando eu estava\ncomeçando a me divertir também!\nArgh, eu nunca quero ficar sóbrio!",
-        "es-ES": "[Hombre borracho]\n¿Qué…? Oye, ¿qué día\nes hoy? ¡Maldita sea!\nBien, bien, es hora\nde trabajar. ¡Justo cuando\nla estaba pasando bien!\n¡Arrr, no quiero estar sobrio nunca!"
+        "es-ES": "[Hombre borracho]\n¿Qué...? Oye, ¿qué día\nes hoy? ¡Maldita sea!\nBien, bien, es hora\nde trabajar. ¡Justo cuando\nla estaba pasando bien!\n¡Arrr, no quiero estar sobrio nunca!"
     },
     "N1cdAQ": {
         "en-US": "[Drunken Man]\nBut... Working is the\nonly way for me to afford\nall this drinking... Such\nis life. Such is life.",
         "pt-BR": "[Homem Bêbado]\nMas... Trabalhar é a\núnica maneira de sustentar\ntoda essa bebedeira...A vida é assim mesmo!",
-        "es-ES": "[Hombre borracho]\nPero… El trabajo es\nla única forma de pagar\ntoda esta bebida… Así es\nla vida. Así es la vida."
+        "es-ES": "[Hombre borracho]\nPero... El trabajo es\nla única forma de pagar\ntoda esta bebida... Así es\nla vida. Así es la vida."
     },
     "OFcdAQ": {
         "en-US": "[Ladies]\nWhere are you going?\nCan't you stay a bit\nlonger and talk with\nus? Pleeeeeease?",
@@ -457,7 +457,7 @@
     "O1cdAQ": {
         "en-US": "[Drunken Man]\nAhem!\nLet's see now.\nWhat'd be best...?\n..............................\n..............................\n..............................",
         "pt-BR": "[Homem Bêbado]\nRan, ran!\nVejamos agora.\nO que seria melhor...?\n..............................\n..............................\n..............................",
-        "es-ES": "[Hombre borracho]\n¡Ejem!\nVeamos.\n¿Qué sería mejor…?\n..............................\n..............................\n.............................."
+        "es-ES": "[Hombre borracho]\n¡Ejem!\nVeamos.\n¿Qué sería mejor...?\n..............................\n..............................\n.............................."
     },
     "PFcdAQ": {
         "en-US": "[Drunken Man]\n..............................\n..............................\n........................Right!",
@@ -482,7 +482,7 @@
     "QFcdAQ": {
         "en-US": "[{0}]\nHuh...?\nI don't understand\nwhat you're talking about!",
         "pt-BR": "[{0}]\nHã...?\nNão estou entendendo\no que você está falando!",
-        "es-ES": "[{0}]\n¿Eh…?\n¡No entiendo\nde qué estás hablando!"
+        "es-ES": "[{0}]\n¿Eh...?\n¡No entiendo\nde qué estás hablando!"
     },
     "QVcdAQ": {
         "en-US": "[Drunken Man]\nHeh! You should be grateful\nthat I'm accepting you as my\nstudent! Everyone'd be proud\nto study under me, Gio, the\nworld's greatest geologist!\n(Well, maybe.)",
@@ -492,12 +492,12 @@
     "QlcdAQ": {
         "en-US": "[{0}]\nHey, I never--",
         "pt-BR": "[{0}]\nEi, eu nunca...",
-        "es-ES": "[{0}]\nOye, yo nunca…"
+        "es-ES": "[{0}]\nOye, yo nunca..."
     },
     "Q1cdAQ": {
         "en-US": "[Geologist Gio]\nAh-ah! Now that you're\nmy student, I expect you\nto work hard if you're going\nto learn anything. First thing\nfirst--go to my office and\nclear up my belated business.",
         "pt-BR": "[Geólogo Gio]\nAh-ah! Agora que você é\nmeu aluno, eu espero que você\ntrabalhe duro se quiser\naprender alguma coisa. Sua primeira tarefa é: ir até o meu escritório e\nresolver meus assuntos atrasados.",
-        "es-ES": "[Geólogo Gio]\n¡Ah, ah! Ahora que estás\nbajo mi tutela, espero que\ntrabajes duro si quieres\naprender algo. Lo primero es\nlo primero… Ve a mi oficina y\nencárgate de mis asuntos atrasados."
+        "es-ES": "[Geólogo Gio]\n¡Ah, ah! Ahora que estás\nbajo mi tutela, espero que\ntrabajes duro si quieres\naprender algo. Lo primero es\nlo primero... Ve a mi oficina y\nencárgate de mis asuntos atrasados."
     },
     "RFcdAQ": {
         "en-US": "[Geologist Gio]\nHere, take this ^FF0000reference\nguide^000000 with you to my office.\nWhen you check my desk, you'll\nfind a ^FF0000pyrometer^000000 and a ^FF0000report\nform^000000. You'll need to bring all\nthat stuff to Thor Volcano.",
@@ -552,7 +552,7 @@
     "TlcdAQ": {
         "en-US": "[Geologist Gio]\nWell, those are\nnice legs, but they're\nnot the best pair I've see--",
         "pt-BR": "[Geólogo Gio]\nSabe, essas pernas são bonitas, mas não são\no melhor par que já vi...",
-        "es-ES": "[Geólogo Gio]\nBueno, esas piernas\nson muy bonitas, pero no\nson las mejores que he vis…"
+        "es-ES": "[Geólogo Gio]\nBueno, esas piernas\nson muy bonitas, pero no\nson las mejores que he vis..."
     },
     "T1cdAQ": {
         "en-US": "[{0}]\nI'm back.",
@@ -562,7 +562,7 @@
     "UFcdAQ": {
         "en-US": "[Geologist Gio]\n*Ahem* And that's how\nerosion... Works. Tomorrow,\nI'll teach you ladies all\nabout rocks. All of them.",
         "pt-BR": "[Geólogo Gio]\n*Ran, ran* E é assim que a\nerosão... Funciona. Amanhã,\nvou ensinar às senhoras tudo\nsobre rochas. Todas elas.",
-        "es-ES": "[Geólogo Gio]\n*Ejem* Y así es como\nfunciona… la erosión. Mañana,\nles enseñaré todo sobre\nlas rocas, señoritas. Todas ellas."
+        "es-ES": "[Geólogo Gio]\n*Ejem* Y así es como\nfunciona... la erosión. Mañana,\nles enseñaré todo sobre\nlas rocas, señoritas. Todas ellas."
     },
     "UVcdAQ": {
         "en-US": "[Geologist Gio]\nWelcome back! So,\nhow was the volcanic\ntemperature report?",
@@ -582,7 +582,7 @@
     "VFcdAQ": {
         "en-US": "[{0}]\nWhat are you...?\nActually, I thought that\nmaybe the pryometer\nmight be broken.",
         "pt-BR": "[{0}]\nO que você...?\nNa verdade, pensei que\no pirômetro\ntalvez estivesse quebrado.",
-        "es-ES": "[{0}]\n¿Qué estás…?\nEn realidad, creo que\nel pirómetro puede\nestar roto."
+        "es-ES": "[{0}]\n¿Qué estás...?\nEn realidad, creo que\nel pirómetro puede\nestar roto."
     },
     "VVcdAQ": {
         "en-US": "[Geologist Gio]\nHeh! You're right~\nI broke it on purpose.",
@@ -602,22 +602,22 @@
     "WFcdAQ": {
         "en-US": "[Geologist Gio]\nThose guys've been trying\nto fire me ever since they\nrealized the volcano became\ndormant. But... They can't\nfire me if there's proof that\nit might go off anytime!",
         "pt-BR": "[Geólogo Gio]\nEsses caras estão tentando\nme demitir desde que perceberam\nque o vulcão ficou\nadormecido. Mas... Eles não podem\nme demitir se houver provas de que\no vulcão pode explodir a qualquer momento!",
-        "es-ES": "[Geólogo Gio]\nPero esos tipos intentan\ndespedirme desde que\nse dieron cuenta de que el volcán\nestaba inactivo. Pero… ¡No pueden\ndespedirme si hay pruebas de que\npuede erupcionar en cualquier momento!"
+        "es-ES": "[Geólogo Gio]\nPero esos tipos intentan\ndespedirme desde que\nse dieron cuenta de que el volcán\nestaba inactivo. Pero... ¡No pueden\ndespedirme si hay pruebas de que\npuede erupcionar en cualquier momento!"
     },
     "WVcdAQ": {
         "en-US": "[Geologist Gio]\nThen, when they're all\npanicked, I calmly and\nsuavely offer a solution\nthat looks like it works.\nOf course, there's never\na problem to begin with...",
         "pt-BR": "[Geólogo Gio]\nEntão, quando todos eles estão\nem pânico, eu calma e\nsuavemente ofereço uma solução\nque parece funcionar.\nÉ claro que nunca há\num problema para começar...",
-        "es-ES": "[Geólogo Gio]\nCuando todos entren\nen pánico, yo, con calma y\nsuavidad, les daré una solución\nque parezca funcionar.\nPor supuesto, nunca hubo\nun problema para empezar…"
+        "es-ES": "[Geólogo Gio]\nCuando todos entren\nen pánico, yo, con calma y\nsuavidad, les daré una solución\nque parezca funcionar.\nPor supuesto, nunca hubo\nun problema para empezar..."
     },
     "WlcdAQ": {
         "en-US": "[{0}]\nSo...\nYou're a con man.",
         "pt-BR": "[{0}]\nEntão...\nVocê é um vigarista.",
-        "es-ES": "[{0}]\nAsí que…\nEres un estafador."
+        "es-ES": "[{0}]\nAsí que...\nEres un estafador."
     },
     "W1cdAQ": {
         "en-US": "[Geologist Gio]\nAwww, don't look at\nme like that. I'm a real\nscientist. Come on...\nOh, come on...",
         "pt-BR": "[Geólogo Gio]\nAh, não olhe para mim\ndesse jeito. Eu sou um \ncientista de verdade. Para com isso...\nAh, para com isso...",
-        "es-ES": "[Geólogo Gio]\nAy, no me mires\nasí. Soy un científico\nde verdad. Vamos…\nAy, vamos…"
+        "es-ES": "[Geólogo Gio]\nAy, no me mires\nasí. Soy un científico\nde verdad. Vamos...\nAy, vamos..."
     },
     "XFcdAQ": {
         "en-US": "[Geologist Gio]\nLook, why don't you head\nback to my institute and\ncheck out my bookshelf?\nI keep a small box there\nwhere I keep all sorts\nof nifty little goodies.",
@@ -637,7 +637,7 @@
     "X1cdAQ": {
         "en-US": "[Drunken Man]\nYou still have that Report kid?\nI'll be needing that for my next frau--, err I mean report.",
         "pt-BR": "[Homem bêbado]\nVocê ainda tem aquele relatório?\nVou precisar dele para o meu próximo golp... quer dizer, relatório.",
-        "es-ES": "[Hombre borracho]\n¿Aún tienes el informe?\nLo necesitaré para mi próximo frau… Eh, digo, informe."
+        "es-ES": "[Hombre borracho]\n¿Aún tienes el informe?\nLo necesitaré para mi próximo frau... Eh, digo, informe."
     },
     "YFcdAQ": {
         "en-US": "Drunken Lady",
@@ -647,7 +647,7 @@
     "YVcdAQ": {
         "en-US": "[Drunken Lady]\nThis guys' actually\npretty boring, but...\nI get free drinks if\nI can put up with him~",
         "pt-BR": "[Senhora bêbada]\nNa verdade, esse cara é\nmuito chato, mas...\nVou ganhar bebidas grátis\nse eu conseguir aturá-lo.",
-        "es-ES": "[Dama borracha]\nEn realidad, este tipo\nes bastante aburrido, pero…\nconsigo bebidas gratis\nsi lo aguanto un rato."
+        "es-ES": "[Dama borracha]\nEn realidad, este tipo\nes bastante aburrido, pero...\nconsigo bebidas gratis\nsi lo aguanto un rato."
     },
     "YlcdAQ": {
         "en-US": "[Drunken Lady]\nThis tavern might look\nluxurious and gorgeous,\nbut the drinks here stink!\nI can mix better drinks\nat home, no sweat at all~",
@@ -802,7 +802,7 @@
     "gFcdAQ": {
         "en-US": "[Sahedi]\nI'm sorry, but I don't\nthink I know you. Only\nauthorized personnel is\nallowed in this area, so\nif you don't have any\nreason to be here...",
         "pt-BR": "[Sahedi]\nDesculpe, mas acho que não\nconheço você. Somente\npessoal autorizado é permitido nesta área, então\nse você não tem nenhum\nmotivo para estar aqui...",
-        "es-ES": "[Sahedi]\nLo siento, pero creo\nque no te conozco. Solo\npersonal autorizado\npuede acceder a esta zona, así que\nsi no tienes\nmotivos para estar aquí…"
+        "es-ES": "[Sahedi]\nLo siento, pero creo\nque no te conozco. Solo\npersonal autorizado\npuede acceder a esta zona, así que\nsi no tienes\nmotivos para estar aquí..."
     },
     "gVcdAQ": {
         "en-US": "[{0}]\nUm, Gio is sick right\nnow, so that's why he\nhad me fill out this report\nform and submit it for him.",
@@ -812,27 +812,27 @@
     "glcdAQ": {
         "en-US": "[Sahedi]\nAh, so that's why his\nreport's late this time.\nI'm sorry to hear that.\nAnd here I thought he was\njust wasting his time on\nwomen and alcohol...",
         "pt-BR": "[Sahedi]\nAh, então é por isso que o\nrelatório está atrasado desta vez.\nSinto muito em ouvir isso.\nE eu que pensava que ele estava\napenas perdendo seu tempo com\nmulheres e álcool...",
-        "es-ES": "[Sahedi]\nAh, así que por eso\nse demoró su informe esta vez.\nLamento oír eso.\nY yo que pensaba que\nestaba perdiendo el tiempo\nen mujeres y alcohol…"
+        "es-ES": "[Sahedi]\nAh, así que por eso\nse demoró su informe esta vez.\nLamento oír eso.\nY yo que pensaba que\nestaba perdiendo el tiempo\nen mujeres y alcohol..."
     },
     "g1cdAQ": {
         "en-US": "[Sahedi]\nLet's see...",
         "pt-BR": "[Sahedi]\nVejamos...",
-        "es-ES": "[Sahedi]\nVeamos…"
+        "es-ES": "[Sahedi]\nVeamos..."
     },
     "hFcdAQ": {
         "en-US": "[Sahedi]\nOh God! Why is the\ntemperature so high?!\nWe've had a few reports\nlike this in the past, but...\nIs this... How bad is this?",
         "pt-BR": "[Sahedi]\nMeu Deus! Por que a\ntemperatura está tão alta?!\nNós tivemos alguns relatórios\ncomo esse antes, mas...\nIsso é... Quão ruim é isso?",
-        "es-ES": "[Sahedi]\n¡Ay, por todos los dioses! ¡¿Por qué la\ntemperatura es tan alta?!\nRecibimos algunos informes\ncomo estos en el pasado, pero…\nEsto es… ¿Qué tan grave es esto?"
+        "es-ES": "[Sahedi]\n¡Ay, por todos los dioses! ¡¿Por qué la\ntemperatura es tan alta?!\nRecibimos algunos informes\ncomo estos en el pasado, pero...\nEsto es... ¿Qué tan grave es esto?"
     },
     "hVcdAQ": {
         "en-US": "[{0}]\nOh... Oh, no!\nYikes! I guess if it's\nhigher than normal...\nIt might be bad?",
         "pt-BR": "[{0}]\nAh... Ah, não!\nCaramba! Acho que se for\nmais alto do que o normal...\nPode ser ruim?",
-        "es-ES": "[{0}]\nAh… ¡Ay, no!\n¡Vaya! Supongo que si es\nmás alta de lo normal…\n¿podría ser malo?"
+        "es-ES": "[{0}]\nAh... ¡Ay, no!\n¡Vaya! Supongo que si es\nmás alta de lo normal...\n¿podría ser malo?"
     },
     "hlcdAQ": {
         "en-US": "[Sahedi]\nWhat should I do?\nShould I activate\nthe alarm? I don't...\nI don't wanna die!",
         "pt-BR": "[Sahedi]\nO que devo fazer?\nDevo acionar\no alarme? Eu não quero...\nNão quero morrer!",
-        "es-ES": "[Sahedi]\n¿Qué debo hacer?\n¿Debo activar\nla alarma? Yo no…\n¡No quiero morir!"
+        "es-ES": "[Sahedi]\n¿Qué debo hacer?\n¿Debo activar\nla alarma? Yo no...\n¡No quiero morir!"
     },
     "h1cdAQ": {
         "en-US": "[{0}]\nYou might want to calm\ndown first. I'll take a look\naround the camp, so please\ndon't say anything that will\nmake anyone else panic for now.",
@@ -842,7 +842,7 @@
     "iFcdAQ": {
         "en-US": "[Sahedi]\nOkay...\nPlease go ahead, and\nsee if this camp will be\nsafe from any disaster.",
         "pt-BR": "[Sahedi]\nTá bom...\nPor favor, vá em frente e\nveja se este acampamento vai ficar\nseguro contra qualquer desastre.",
-        "es-ES": "[Sahedi]\nBueno…\nPor favor, pasa y\ncomprueba si este campamento estará \na salvo de cualquier desastre."
+        "es-ES": "[Sahedi]\nBueno...\nPor favor, pasa y\ncomprueba si este campamento estará \na salvo de cualquier desastre."
     },
     "iVcdAQ": {
         "en-US": "[Sahedi]\nSo, are we in any\ndanger? Does it look\nlike this volcano will\nerupt anytime soon?",
@@ -872,17 +872,17 @@
     "jlcdAQ": {
         "en-US": "[{0}]\nI guess I can't hide it\nfrom you... The recent\nactivity of this volcano\nhas recently been fairly...\ndisconcerting.",
         "pt-BR": "[{0}]\nAcho que não posso esconder isso\nde você... A \natividade recente desse vulcão\ntem sido bastante...\ninstável.",
-        "es-ES": "[{0}]\nSupongo que no puedo\nocultártelo… La actividad\nreciente de este volcán\nes de lo más…\ndesconcertante."
+        "es-ES": "[{0}]\nSupongo que no puedo\nocultártelo... La actividad\nreciente de este volcán\nes de lo más...\ndesconcertante."
     },
     "j1cdAQ": {
         "en-US": "^3355FFWait... You should take\nadvantage of this situation.\nThis could be your chance to\nintervene in the conflict\nbetween two contries!^000000",
         "pt-BR": "^3355FFEspere... Você deve tirar\nvantagem dessa situação.\nEssa pode ser sua chance de\nintervir no conflito\nentre os dois países!^000000",
-        "es-ES": "^3355FFEspera… Deberías\naprovechar esta situación.\n¡Esta podría ser tu oportunidad\nde intervenir en el conflicto\nentre dos naciones!^000000"
+        "es-ES": "^3355FFEspera... Deberías\naprovechar esta situación.\n¡Esta podría ser tu oportunidad\nde intervenir en el conflicto\nentre dos naciones!^000000"
     },
     "kFcdAQ": {
         "en-US": "^3355FFYou might not be able\nto stop their war, but\nmaybe you can distract\nthem with the threat\nof natural disaster...^000000",
         "pt-BR": "^3355FFVocê pode não conseguir\nimpedir a guerra entre eles, mas\ntalvez você possa distraí-los\ncom a ameaça\nde um desastre natural...^000000",
-        "es-ES": "^3355FFEs posible que no puedas\ndetener la guerra, pero\nquizá puedas distraerlos\ncon la amenaza\nde un desastre natural…^000000"
+        "es-ES": "^3355FFEs posible que no puedas\ndetener la guerra, pero\nquizá puedas distraerlos\ncon la amenaza\nde un desastre natural...^000000"
     },
     "kVcdAQ": {
         "en-US": "[Sahedi]\nHuh? Are you serious?\nThor Volcano's gonna\nerupt?! We-we have to\nget the hell out of here!\nIt'll be a disaster, just\nlike it happened in the past!",
@@ -892,7 +892,7 @@
     "klcdAQ": {
         "en-US": "[{0}]\nYes, I agree. There's\na good chance of an...\nexplosion that'll cause\na lot of collateral damage.",
         "pt-BR": "[{0}]\nSim, eu concordo. Há\numa boa chance de uma...\nexplosão que causará\nmuitos danos colaterais.",
-        "es-ES": "[{0}]\nSí, coincido. Hay\nuna alta probabilidad de que…\nocurra una erupción que cause\nmuchos daños colaterales."
+        "es-ES": "[{0}]\nSí, coincido. Hay\nuna alta probabilidad de que...\nocurra una erupción que cause\nmuchos daños colaterales."
     },
     "k1cdAQ": {
         "en-US": "[Sahedi]\nWhat are our chances?\nHow much time do we\nhave to evacuate?",
@@ -902,7 +902,7 @@
     "lFcdAQ": {
         "en-US": "[{0}]\nWell... Uh...\nAccording to my data...\nAnalysis... There's a 75%\nchance of eruption within\nthe next thirty days.",
         "pt-BR": "[{0}]\nBem... Hã...\nDe acordo com minha análise...\nDe dados... Há 75%\nde chance de erupção\nnos próximos trinta dias.",
-        "es-ES": "[{0}]\nBueno… Eh…\nSegún mi análisis…\nde datos… hay una probabilidad del 75 %\nde que la erupción\nocurra en los próximos treinta días."
+        "es-ES": "[{0}]\nBueno... Eh...\nSegún mi análisis...\nde datos... hay una probabilidad del 75 %\nde que la erupción\nocurra en los próximos treinta días."
     },
     "lVcdAQ": {
         "en-US": "[Sahedi]\nWhat?! We must report\nthis to the high priest\nimmediately! Aitra!",
@@ -922,12 +922,12 @@
     "mFcdAQ": {
         "en-US": "[Aitra]\nHuh?\n ...Yes, sir.",
         "pt-BR": "[Aitra]\nHã?\n...Sim, senhor.",
-        "es-ES": "[Aitra]\n¿Eh?\n …Sí, señor."
+        "es-ES": "[Aitra]\n¿Eh?\n ...Sí, señor."
     },
     "mVcdAQ": {
         "en-US": "[Sahedi]\nOh, this is a nightmare...\nWill you please take your\nreport to your director, Gio?\nHopefully he'll have some\nadvice for what we can\ndo about this disaster...",
         "pt-BR": "[Sahedi]\nAh, isso é um pesadelo...\nPor favor, leve esse\nrelatório ao seu diretor, Gio!\nEspero que ele tenha alguma\nideia sobre o que podemos\nfazer a respeito desse desastre...",
-        "es-ES": "[Sahedi]\nAy, esto es una pesadilla…\n¿Le llevarías\nel informe a tu director, Gio?\nEsperemos que nos dé algún\nconsejo sobre lo que podemos\nhacer con este desastre…"
+        "es-ES": "[Sahedi]\nAy, esto es una pesadilla...\n¿Le llevarías\nel informe a tu director, Gio?\nEsperemos que nos dé algún\nconsejo sobre lo que podemos\nhacer con este desastre..."
     },
     "mlcdAQ": {
         "en-US": "[Sahedi]\nArgh, I'm so busy!",
@@ -937,12 +937,12 @@
     "m1cdAQ": {
         "en-US": "[????]\nYou...!\nWhat are you doing\njust standing around?!\nAren't you supposed to\nbe transporting cargo?\nAttention to orders!",
         "pt-BR": "[????]\nVocê...!\nO que está fazendo\nparado aí?!\nNão era para você\nestar transportando carga? \nAtenção às ordens!",
-        "es-ES": "[???]\n¡Tú…!\n¿Qué estás haciendo?\n¡¿Por qué te quedas ahí de pie?!\n¿No deberías estar\ntransportando carga? \n¡Atención!"
+        "es-ES": "[???]\n¡Tú...!\n¿Qué estás haciendo?\n¡¿Por qué te quedas ahí de pie?!\n¿No deberías estar\ntransportando carga? \n¡Atención!"
     },
     "nFcdAQ": {
         "en-US": "[{0}]\nAre you talking to me?\nNo, I'm from the Veins Geo--",
         "pt-BR": "[{0}]\nVocê está falando comigo?\nNão, sou do Instituto de...",
-        "es-ES": "[{0}]\n¿Me está hablando a mí?\nNo, soy del Instituto Geol…"
+        "es-ES": "[{0}]\n¿Me está hablando a mí?\nNo, soy del Instituto Geol..."
     },
     "nVcdAQ": {
         "en-US": "[Colonel Vito]\nLook at you. You don't\neven have your uniform\nyet. Still a rookie, eh?\nLooks like I'll have to\npersonally train you as\none of our holy knights!",
@@ -952,7 +952,7 @@
     "nlcdAQ": {
         "en-US": "[{0}]\nBut I'm not--",
         "pt-BR": "[{0}]\nMas eu não...",
-        "es-ES": "[{0}]\nPero yo no…"
+        "es-ES": "[{0}]\nPero yo no..."
     },
     "n1cdAQ": {
         "en-US": "[Colonel Vito]\nYou should be honored to\nhave the rare opportunity\nto be trained by me, the\ngreat Colonel Vito. I'll mold\nyou into a true warrior for\nFreya! Now follow me!",
@@ -1187,7 +1187,7 @@
     "zVcdAQ": {
         "en-US": "[Colonel Vito]\nChop...? It's a hand chop.\nYou strike the enemy with\nthe bottom of your hand\nlike a knife blade. How\ndid you join the army\nwithout knowing that?",
         "pt-BR": "[Coronel Vito]\nGolpear...? É um golpe de mão.\nVocê golpeia o inimigo com\na parte inferior da sua mão\ncomo se fosse uma lâmina de faca. Como\nvocê entrou para o exército\nsem saber disso?",
-        "es-ES": "[Coronel Vito]\n¿Cortarlo…? Es un corte con la mano.\nGolpeas al enemigo con\nla parte inferior de la mano\ncomo si fuera la hoja de un cuchillo. ¿Cómo es que\nte uniste al ejército\nsin saber eso?"
+        "es-ES": "[Coronel Vito]\n¿Cortarlo...? Es un corte con la mano.\nGolpeas al enemigo con\nla parte inferior de la mano\ncomo si fuera la hoja de un cuchillo. ¿Cómo es que\nte uniste al ejército\nsin saber eso?"
     },
     "zlcdAQ": {
         "en-US": "[Colonel Vito]\nThe more you train,\nthe stronger you become.\nAs you grow stronger, so\ndoes Freya's holy troops.\nTrain everyday, and don't\nyou ever slack off!",
@@ -1202,7 +1202,7 @@
     "0FcdAQ": {
         "en-US": "[{0}]\n(^333333Well... I think\nI will go back to\nSahedi. Hopefully,\nhe'll think of me as\na geological researcher\ninstead of as a soldier.^000000)",
         "pt-BR": "[{0}]\n(^333333Bom... Acho que\nvou voltar para falar com o\nSahedi. Com sorte,\nele pensar que sou\num pesquisador geológico\nem vez de um soldado.^000000)",
-        "es-ES": "[{0}]\n(^333333Bueno… Creo\nque volveré con\nSahedi. Espero\nque entienda\nque me dedico a la investigación geológica,\nno soy recluta^000000)."
+        "es-ES": "[{0}]\n(^333333Bueno... Creo\nque volveré con\nSahedi. Espero\nque entienda\nque me dedico a la investigación geológica,\nno soy recluta^000000)."
     },
     "0VcdAQ": {
         "en-US": "[Colonel Vito]\nWe must be ever\nvigilant in our training.\nYou can never know when\nFreya will call on us to fight!",
@@ -1247,7 +1247,7 @@
     "2VcdAQ": {
         "en-US": "[Thor Volcano Camp Soldier]\nHeheh...\nI can't wait for dinner!",
         "pt-BR": "[Soldado do Acampamento do Vulcão de Thor]\nHehe...\nMal posso esperar pelo jantar!",
-        "es-ES": "[Soldado del Volcán Thor]\nJe,je,je…\n¡No puedo esperar para cenar!"
+        "es-ES": "[Soldado del Volcán Thor]\nJe,je,je...\n¡No puedo esperar para cenar!"
     },
     "2lcdAQ": {
         "en-US": "Control Panel",
@@ -1262,7 +1262,7 @@
     "3FcdAQ": {
         "en-US": "[{0}]\nAll these pipes with molten\nrock flowing through them...\nI guess their heat is what\npowers this camp. That's\nactually a smart idea~",
         "pt-BR": "[{0}]\nEsses tubos têm\nrocha derretida fluindo por eles...\nAcho que seu calor é o que\nalimenta esse acampamento. Essa é\nrealmente uma ideia inteligente.",
-        "es-ES": "[{0}]\nTodas estas tuberías\npor las que fluye roca fundida…\nSupongo que su calor es lo que\nda energía al campamento. En realidad,\nes una idea brillante."
+        "es-ES": "[{0}]\nTodas estas tuberías\npor las que fluye roca fundida...\nSupongo que su calor es lo que\nda energía al campamento. En realidad,\nes una idea brillante."
     },
     "3VcdAQ": {
         "en-US": "^3355FFThe control panel emits\nfaint mechanical noises\nand seems to be running\npretty smoothly. Everything\nlooks to be in working order.",
@@ -1287,12 +1287,12 @@
     "4VcdAQ": {
         "en-US": "[{0}]\nWow...\nThey really hate the\nRune-Midgard Kingdom...\n(^333333Technically, I shouldn't\nbe doing this. Isn't this\nconsidered treason?^000000)",
         "pt-BR": "[{0}]\nNossa...\nEles realmente odeiam o\nReino de Rune-Midgard...\n(^333333Tecnicamente, eu não deveria\nestar fazendo isso. Isso não é\nconsiderado traição?^000000)",
-        "es-ES": "[{0}]\nGuau…\nRealmente odian\nal reino de Rune-Midgard…\n(^333333Técnicamente, no debería\nestar haciendo esto. ¿Acaso no\nse considera traición?^000000)."
+        "es-ES": "[{0}]\nGuau...\nRealmente odian\nal reino de Rune-Midgard...\n(^333333Técnicamente, no debería\nestar haciendo esto. ¿Acaso no\nse considera traición?^000000)."
     },
     "4lcdAQ": {
         "en-US": "[Colonel Vito]\nI can't hear you,\nsoldier! Make your\nvoice loud and clear!\nNow... Execute attack!",
         "pt-BR": "[Coronel Vito]\nNão consigo ouvi-lo,\nsoldado! Sua\nvoz precisa ser alta e clara!\nAgora... Execute o ataque!",
-        "es-ES": "[Coronel Vito]\n¡No te oigo,\nrecluta! ¡Habla\nfuerte y claro!\nAhora… ¡Ejecuta el ataque!"
+        "es-ES": "[Coronel Vito]\n¡No te oigo,\nrecluta! ¡Habla\nfuerte y claro!\nAhora... ¡Ejecuta el ataque!"
     },
     "41cdAQ": {
         "en-US": "[{0}]\nOne!",
@@ -1352,7 +1352,7 @@
     "7lcdAQ": {
         "en-US": "[Colonel Vito]\nSoldier...\nHow many times\ndid I order you to\nchop the dummy?",
         "pt-BR": "[Coronel Vito]\nSoldado...\nQuantas vezes\neu ordenei que você\ngolpeasse o boneco?",
-        "es-ES": "[Coronel Vito]\nRecluta…\n¿Cuántas veces\nte ordené \ncortar al maniquí?"
+        "es-ES": "[Coronel Vito]\nRecluta...\n¿Cuántas veces\nte ordené \ncortar al maniquí?"
     },
     "71cdAQ": {
         "en-US": "[{0}]\n10 times, sir!",
@@ -1397,7 +1397,7 @@
     "91cdAQ": {
         "en-US": "[Soldier]\nOh Freya...\nBless this Old Blue Box\nso that I don't get anything\nlame again. I am so tired\nof getting arrows from these...",
         "pt-BR": "[Soldado]\nOh Freya...\nAbençoe essa Velha Caixa Azul\npara que eu não receba nada\nruim novamente. Estou tão cansado\nde receber flechas...",
-        "es-ES": "[Soldado]\nAy, Freya…\nBendice esta Caja misteriosa\npara que no vuelva a obtener\nalgo patético. Estoy tan cansado\nde que solo me salgan flechas…"
+        "es-ES": "[Soldado]\nAy, Freya...\nBendice esta Caja misteriosa\npara que no vuelva a obtener\nalgo patético. Estoy tan cansado\nde que solo me salgan flechas..."
     },
     "+FcdAQ": {
         "en-US": "[Soldier]\nAh, time to\ngo to work.",
@@ -1407,7 +1407,7 @@
     "+VcdAQ": {
         "en-US": "[Soldier]\nWhat th-?!\nSomething smells\nlike sweaty socks that\nhaven't been washed!",
         "pt-BR": "[Soldado]\nMas o quê?\nAlguma coisa está cheirando\ncomo meias suadas que\nnão foram lavadas!",
-        "es-ES": "[Soldado]\n¡¿Qué…?!\n¡Algo huele\na calcetines sudados\nque nunca se lavaron!"
+        "es-ES": "[Soldado]\n¡¿Qué...?!\n¡Algo huele\na calcetines sudados\nque nunca se lavaron!"
     },
     "+lcdAQ": {
         "en-US": "[Soldier]\nYo-ho! Yo-ho!",
@@ -1417,7 +1417,7 @@
     "+1cdAQ": {
         "en-US": "[Soldier]\nI guess I need to go\non Guardian polishing\nduty. Those things are\nso huge, and I gotta\nclean up about twenty...",
         "pt-BR": "[Soldado]\nAcho que preciso ir\npara o serviço de polir o\nGuardião. Essas coisas são\nenormes, e eu tenho que\nlimpar uns vinte...",
-        "es-ES": "[Soldado]\nSupongo que\nlustrar será mi próxima\ntarea. Esas cosas son\nmuy grandes, y tengo que\nlimpiar como veinte…"
+        "es-ES": "[Soldado]\nSupongo que\nlustrar será mi próxima\ntarea. Esas cosas son\nmuy grandes, y tengo que\nlimpiar como veinte..."
     },
     "/FcdAQ": {
         "en-US": "Guardian",
@@ -1472,7 +1472,7 @@
     "BlgdAQ": {
         "en-US": "[House Owner]\nWh-who the hell\nare you? Honey!\nThere's this...\nperson in our home!",
         "pt-BR": "[Proprietária da casa]\nQuem diabos é você?\nQuerido!\nTem uma...\npessoa na nossa casa!",
-        "es-ES": "[Dueña de casa]\n¿Qu-quién demonios\neres? ¡Cariño!\n¡Hay una…\npersona en nuestra casa!"
+        "es-ES": "[Dueña de casa]\n¿Qu-quién demonios\neres? ¡Cariño!\n¡Hay una...\npersona en nuestra casa!"
     },
     "B1gdAQ": {
         "en-US": "^3355FFHubbie never came.\nNobody messes with\n{0}. Nobody.^000000",
@@ -1497,22 +1497,22 @@
     "C1gdAQ": {
         "en-US": "[Female Customer]\nBartender, aren't any of\nyour regulars nice young\nmen? You know, I've been\npretty lonely lately...",
         "pt-BR": "[Cliente feminino]\nGarçom, nenhum de seus clientes\nhabituais são\nhomens e bonitos? Sabe, tenho me sentido\nmuito solitária ultimamente...",
-        "es-ES": "[Clienta]\nBarman, ¿ninguno\nde tus clientes habituales son hombres\njóvenes agradables? ¿Sabes?, me estoy sintiendo\nsola últimamente…"
+        "es-ES": "[Clienta]\nBarman, ¿ninguno\nde tus clientes habituales son hombres\njóvenes agradables? ¿Sabes?, me estoy sintiendo\nsola últimamente..."
     },
     "DFgdAQ": {
         "en-US": "[Bartender]\nHaha, well,\nI'm not so sure..",
         "pt-BR": "[Garçom]\nHaha, bem,\nEu não tenho tanta certeza...",
-        "es-ES": "[Barman]\nJa,ja, bueno,\nno estoy tan seguro…"
+        "es-ES": "[Barman]\nJa,ja, bueno,\nno estoy tan seguro..."
     },
     "DVgdAQ": {
         "en-US": "[Bartender]\nHow about... me?",
         "pt-BR": "[Garçom]\nQue tal... eu?",
-        "es-ES": "[Barman]\n¿Qué hay… de mí?"
+        "es-ES": "[Barman]\n¿Qué hay... de mí?"
     },
     "DlgdAQ": {
         "en-US": "[Female Customer]\nHmpf...",
         "pt-BR": "[Cliente feminino]\nHumpf...",
-        "es-ES": "[Clienta]\nPff…"
+        "es-ES": "[Clienta]\nPff..."
     },
     "D1gdAQ": {
         "en-US": "[Bartender]\nOh, come on!\nI was kidding~",
@@ -1522,7 +1522,7 @@
     "EFgdAQ": {
         "en-US": "[Bartender]\nHaha, well,\nI'm not so sure..\nWhat about this nice\nyoung adventurer here?",
         "pt-BR": "[Garçom]\nHaha, bem,\nnão tenho tanta certeza...\nE quanto a esse simpático\njovem aventureiro aqui?",
-        "es-ES": "[Barman]\nJa,ja, bueno,\nno estoy tan seguro…\n¿Qué te parece este\njoven trotamundos de aquí?"
+        "es-ES": "[Barman]\nJa,ja, bueno,\nno estoy tan seguro...\n¿Qué te parece este\njoven trotamundos de aquí?"
     },
     "EVgdAQ": {
         "en-US": "[{0}]\nMeee?",
@@ -1532,7 +1532,7 @@
     "ElgdAQ": {
         "en-US": "[Female Customer]\nMmm...\nNot my style.",
         "pt-BR": "[Cliente feminino]\nHum...\nNão é meu estilo.",
-        "es-ES": "[Clienta]\nMmm…\nNo es mi tipo."
+        "es-ES": "[Clienta]\nMmm...\nNo es mi tipo."
     },
     "E1gdAQ": {
         "en-US": "Male Customer",
@@ -1547,7 +1547,7 @@
     "FVgdAQ": {
         "en-US": "[Male Customer]\nOh, alcohol...\nRight now, you're\nmy only friend in\nall the world...\nA toast... To drinking!",
         "pt-BR": "[Cliente masculino]\nAh, álcool...\nNeste momento, você é\nmeu único amigo em\ntodo o mundo...\nUm brinde... À bebida!",
-        "es-ES": "[Cliente]\nAy, alcohol…\nAhora,\neres mi único amigo\nen todo el mundo…\nBrindo… ¡por la bebida!"
+        "es-ES": "[Cliente]\nAy, alcohol...\nAhora,\neres mi único amigo\nen todo el mundo...\nBrindo... ¡por la bebida!"
     },
     "FlgdAQ": {
         "en-US": "thor_ws",

@@ -1,3 +1,4 @@
+
 _prt_church_effect_version = 2
 _prt_church_emitterInfo = {
 	[0] = {

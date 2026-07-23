@@ -6776,24 +6776,6 @@ SignBoardList_data = {
 		FILEPATH = "information\\ebl_manus.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
 	},
-	[929] = {
-		MAPNAME = "geffen",
-		CELLX = 138,
-		CELLY = 203,
-		HEIGHT = 10,
-		ICONID = 3,
-		FILEPATH = "information\\ebl_manus.bmp",
-		CHARCOLOR = "#0x00FFFFFF"
-	},
-	[930] = {
-		MAPNAME = "izlude",
-		CELLX = 150,
-		CELLY = 197,
-		HEIGHT = 10,
-		ICONID = 3,
-		FILEPATH = "information\\ebl_manus.bmp",
-		CHARCOLOR = "#0x00FFFFFF"
-	},
 	[92] = {
 		MAPNAME = "brasilis",
 		CELLX = 219,
@@ -7182,6 +7164,206 @@ SignBoardList_data = {
 		ICONID = 3,
 		FILEPATH = "item\\gd_hawkeyes.bmp",
 		CHARCOLOR = "#0x00FFFFFF"
+	},
+	[976] = {
+		MAPNAME = "prt_in",
+		CELLX = 162,
+		CELLY = 133,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[977] = {
+		MAPNAME = "izlude_in",
+		CELLX = 72,
+		CELLY = 106,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[978] = {
+		MAPNAME = "morocc_in",
+		CELLX = 128,
+		CELLY = 64,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[979] = {
+		MAPNAME = "geffen_in",
+		CELLX = 22,
+		CELLY = 161,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[980] = {
+		MAPNAME = "alberta_in",
+		CELLX = 177,
+		CELLY = 21,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[981] = {
+		MAPNAME = "payon_in01",
+		CELLX = 6,
+		CELLY = 132,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[982] = {
+		MAPNAME = "aldeba_in",
+		CELLX = 35,
+		CELLY = 50,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[983] = {
+		MAPNAME = "xmas_in",
+		CELLX = 167,
+		CELLY = 93,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[984] = {
+		MAPNAME = "cmd_in01",
+		CELLX = 112,
+		CELLY = 174,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[985] = {
+		MAPNAME = "um_in",
+		CELLX = 150,
+		CELLY = 127,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[986] = {
+		MAPNAME = "yuno_in01",
+		CELLX = 99,
+		CELLY = 18,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[987] = {
+		MAPNAME = "hu_in01",
+		CELLX = 91,
+		CELLY = 383,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[988] = {
+		MAPNAME = "lhz_in02",
+		CELLX = 270,
+		CELLY = 92,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[989] = {
+		MAPNAME = "ein_in01",
+		CELLX = 95,
+		CELLY = 26,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[990] = {
+		MAPNAME = "ra_in01",
+		CELLX = 169,
+		CELLY = 359,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[991] = {
+		MAPNAME = "ve_in",
+		CELLX = 347,
+		CELLY = 243,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[992] = {
+		MAPNAME = "ama_in01",
+		CELLX = 100,
+		CELLY = 25,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[993] = {
+		MAPNAME = "gonryun",
+		CELLX = 175,
+		CELLY = 91,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[994] = {
+		MAPNAME = "lou_in02",
+		CELLX = 134,
+		CELLY = 172,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[995] = {
+		MAPNAME = "ayo_in01",
+		CELLX = 77,
+		CELLY = 157,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[996] = {
+		MAPNAME = "brasilis",
+		CELLX = 252,
+		CELLY = 245,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[997] = {
+		MAPNAME = "ma_in01",
+		CELLX = 63,
+		CELLY = 19,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[998] = {
+		MAPNAME = "dewata",
+		CELLX = 223,
+		CELLY = 165,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[999] = {
+		MAPNAME = "mosk_in",
+		CELLX = 18,
+		CELLY = 174,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
+	},
+	[1000] = {
+		MAPNAME = "har_in01",
+		CELLX = 30,
+		CELLY = 84,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "group\\group_12.bmp"
 	}
 }
 local function MergeTables(dest, src)

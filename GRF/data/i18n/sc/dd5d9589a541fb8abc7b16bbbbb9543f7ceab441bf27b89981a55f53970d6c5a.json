@@ -132,7 +132,7 @@
     "GtWSAQ": {
         "en-US": "[Wandering Merchant]\nand it also has...\nincrease 100% of Clashing Spiral ATK and 50% of Inspiration ATK,\nadditional ATK + 30 when Base Lv. is over 100.\nBase ATK is 220.",
         "pt-BR": "[Mercador Errante]\nE também tem...\nAumento de 100% do ATQ de Perfurar em Espiral e 50% do ATQ de Inspiração,\n+ 30 de ATQ adicional quando o nível básico for superior a 100.\nO ATQ base é 220.",
-        "es-ES": "[Comerciante errante]\ny también…\naumenta en un 100 % el ATQ de Espiral Perforante y en un 50 % el ATQ de Inspiración,\nATQ adicional +30 cuando el nivel de base es superior a 100.\nEl ATQ base es de 220."
+        "es-ES": "[Comerciante errante]\ny también...\naumenta en un 100 % el ATQ de Espiral Perforante y en un 50 % el ATQ de Inspiración,\nATQ adicional +30 cuando el nivel de base es superior a 100.\nEl ATQ base es de 220."
     },
     "G9WSAQ": {
         "en-US": "[Wandering Merchant]\nThe price of the ^0000FF[Marlin]^000000 is \n8 E-Coins or 50 Cans.",
@@ -192,7 +192,7 @@
     "JtWSAQ": {
         "en-US": "[Wandering Merchant]\nand it also has...\nadditional ATK + 20 when Base Lv. is over 100\nor freeze oneself with low rate.",
         "pt-BR": "[Mercador Errante]\nE também tem...\n+ 20 de ATQ adicional quando o nível de base for superior a 100\nou congela a si mesmo com baixa taxa.",
-        "es-ES": "[Comerciante errante]\ny también…\nATQ adicional +20 cuando el nivel de base es superior a 100\no Congelarse con una probabilidad baja."
+        "es-ES": "[Comerciante errante]\ny también...\nATQ adicional +20 cuando el nivel de base es superior a 100\no Congelarse con una probabilidad baja."
     },
     "J9WSAQ": {
         "en-US": "[Wandering Merchant]\nThe price of the ^0000FF[Tuna]^000000 is\n8 E-Coins or 50 Cans.",
@@ -232,7 +232,7 @@
     "LtWSAQ": {
         "en-US": "[Wandering Merchant]\nadditional effects are...\ngive MATK + 20 for 7sec in a certain rate with each magical attack\nand additional MATK + 10, ATK + 10 when Base Lv. is over 100.\nBase ATK will be about 160.",
         "pt-BR": "[Mercador Errante]\nOs efeitos adicionais são...\n+ 20 de ATQM por 7s em uma determinada taxa com cada ataque mágico\ne + 10 de ATQM e + 10 de ATQ adicionais quando o nível base for superior a 100.\nO ATQ base será de aproximadamente 160.",
-        "es-ES": "[Comerciante errante]\nLos efectos adicionales son…\notorga ATQM +20 durante 7 segundos a una tasa determinada con cada ataque mágico\ny ATQM +10 adicional, ATQ +10 cuando el nivel de base es superior a 100.\nEl ATQ base es de aproximadamente 160."
+        "es-ES": "[Comerciante errante]\nLos efectos adicionales son...\notorga ATQM +20 durante 7 segundos a una tasa determinada con cada ataque mágico\ny ATQM +10 adicional, ATQ +10 cuando el nivel de base es superior a 100.\nEl ATQ base es de aproximadamente 160."
     },
     "L9WSAQ": {
         "en-US": "[Wandering Merchant]\nThe price of a ^0000FF[Saurel]^000000 is\n8 E-Coins or 50 Cans.",
@@ -247,7 +247,7 @@
     "MdWSAQ": {
         "en-US": "[Wandering Merchant]\nAre you interested in a ^0000FF[Malangdo Crab]^000000?\nThis is...\na ^DC143CBow^000000\nwhich increases LUK + 3 and 50% of critical damage.\nAlso increases 20% of long range phyical ATK when Base Lv. is over 100.\nBase ATK is 120.",
         "pt-BR": "[Mercador Errante]\nVocê está interessado em um ^0000FF[Caranguejo de Malangdo]^000000?\nIsso é...\num ^DC143CArco^000000\nque aumenta + 3 de SOR e 50% do dano crítico.\nTambém aumenta em 20% o ATQ físico de longo alcance quando o nível de base for superior a 100.\nO ATQ base é 120.",
-        "es-ES": "[Comerciante errante]\n¿Te interesa un ^0000FF[Cangrejo de Malangdo]^000000?\nEs…\nun ^DC143CArco^000000\nque aumenta SUE +3 y en un 50 % el daño crítico.\nTambién aumenta en un 20 % el ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nEl ATQ base es de 120."
+        "es-ES": "[Comerciante errante]\n¿Te interesa un ^0000FF[Cangrejo de Malangdo]^000000?\nEs...\nun ^DC143CArco^000000\nque aumenta SUE +3 y en un 50 % el daño crítico.\nTambién aumenta en un 20 % el ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nEl ATQ base es de 120."
     },
     "MtWSAQ": {
         "en-US": "[Wandering Merchant]\nThis can be used by Archer, Thief, or Roge classes.\nThe price of ^0000FF[Malang Crab]^000000 is\n8 E-Coins or 50 Cans.",
@@ -267,7 +267,7 @@
     "NdWSAQ": {
         "en-US": "[Wandering Merchant]\nMore details...\nAGI + 3, and ASPD + 2 for 5sec with certain rate with long range physical attacks.\nAlso gives additional 20% of long range physical ATK when Base Lv. is over 100.\nUsually Hunter, Bard, or Dancer classes uses it.",
         "pt-BR": "[Mercador Errante]\nMais detalhes...\n+ 3 de AGI e + 2 de VelATQ por 5s com uma determinada taxa de ataques físicos de longo alcance.\nTambém concede 20% adicionais de ATQ físico de longo alcance quando o nível de base for superior a 100.\nGeralmente é usado pelas classes Caçador, Bardo ou Odalisca.",
-        "es-ES": "[Comerciante errante]\nMás detalles…\nAGI +3 y VELA +2 durante 5 segundos a una tasa determinada con ataques físicos de largo alcance.\nTambién otorga un 20 % adicional de ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nNormalmente lo usan las clases Cazador, Bardo o Bailarina."
+        "es-ES": "[Comerciante errante]\nMás detalles...\nAGI +3 y VELA +2 durante 5 segundos a una tasa determinada con ataques físicos de largo alcance.\nTambién otorga un 20 % adicional de ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nNormalmente lo usan las clases Cazador, Bardo o Bailarina."
     },
     "NtWSAQ": {
         "en-US": "[Wandering Merchant]\nThe price of a ^0000FF[Brindle Eel]^000000 is\n8 E-Coins or 50 Cans.",
@@ -307,7 +307,7 @@
     "PdWSAQ": {
         "en-US": "[Wandering Merchant]\nAre you interested in a ^0000FF[Marlin Box(7Days)]^000000?\nThis is...\na fish that moves according to the season.\nand very tasty!\nBut this is only a food that I'm talking about, yummy~",
         "pt-BR": "[Mercador Errante]\nVocê está interessado em uma ^0000FF[Caixa de Marlim(7Dias)]^000000?\nEsse é...\num peixe que se move de acordo com a estação.\nE muito saboroso!\nMas é só estou falando de comida, delícia~",
-        "es-ES": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Marlin (7 días)]^000000?\nEs…\nun pez que migra según la estación.\n¡Y muy sabroso!\nPero es solo una comida de la que estoy hablando, ñam."
+        "es-ES": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Marlin (7 días)]^000000?\nEs...\nun pez que migra según la estación.\n¡Y muy sabroso!\nPero es solo una comida de la que estoy hablando, ñam."
     },
     "PtWSAQ": {
         "en-US": "[Wandering Merchant]\nof course, this is ^DC143CTwo-Handed Spear^000000.\nIt gives a high chance of\ncausing the Bleeding status,\nwhen you're using the Pierce, Clashing Spiral~",
@@ -327,12 +327,12 @@
     "QdWSAQ": {
         "en-US": "[Wandering Merchant]\nAre you interested in a ^0000FF[Saurel Box(7Days)]^000000?\nThis is...\na ^DC143Cdagger^000000\nwhich gives MATK + 100\nand ATK + 30 for 7sec in a certain rate with physical attack.",
         "pt-BR": "[Mercador Errante]\nVocê está interessado em uma ^0000FF[Caixa de Xáreu(7Dias)]^000000?\nIsso é...\numa ^DC143Cadaga^000000\nque dá + 100 de ATQM\ne + 30 de ATQ por 7s em uma determinada taxa com ataque físico.",
-        "es-ES": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Jurel (7 días)]^000000?\nEs…\nuna ^DC143CDaga^000000\nque otorga ATQM +100\ny ATQ +30 durante 7 segundos a una tasa determinada con cada ataque físico."
+        "es-ES": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Jurel (7 días)]^000000?\nEs...\nuna ^DC143CDaga^000000\nque otorga ATQM +100\ny ATQ +30 durante 7 segundos a una tasa determinada con cada ataque físico."
     },
     "QtWSAQ": {
         "en-US": "[Wandering Merchant]\nMore details...\nit gives MATK + 20 for 7sec in a certain rate with each magical attack\nand additional MATK + 10, ATK + 10 when Base Lv. is over 100.\nBase ATK is 160.",
         "pt-BR": "[Mercador Errante]\nMais detalhes...\nEla dá + 20 de ATQM por 7s em uma determinada taxa com cada ataque mágico\ne + 10 de ATQM adicional, + 10 de ATQ quando o nível base for superior a 100.\nO ATQ base é 160.",
-        "es-ES": "[Comerciante errante]\nMás detalles…\notorga ATQM +20 durante 7 segundos a una tasa determinada con cada ataque mágico\ny ATQM +10 adicional, ATQ +10 cuando el nivel de base es superior a 100.\nEl ATQ base es de 160."
+        "es-ES": "[Comerciante errante]\nMás detalles...\notorga ATQM +20 durante 7 segundos a una tasa determinada con cada ataque mágico\ny ATQM +10 adicional, ATQ +10 cuando el nivel de base es superior a 100.\nEl ATQ base es de 160."
     },
     "Q9WSAQ": {
         "en-US": "[Wandering Merchant]\nThe price of the ^0000FF[Saurel Box(7Days)]^000000 is\n10 Silver Vine.",
@@ -367,12 +367,12 @@
     "SdWSAQ": {
         "en-US": "[Wandering Merchant]\nAre you interested in a ^0000FF[Brindle Eel Box(7Days)]^000000?\nThis is...\na ^DC143CBow^000000.\nBecause it has the elastic force,\nwe started to use it as a Bow.\nBase ATK is 180.",
         "pt-BR": "[Mercador Errante]\nVocê está interessado em uma ^0000FF[Caixa de Enguia Tigrada(7Days)]^000000?\nEste é um ^DC143CArco^000000.\nPor ter força elástica,\ncomeçamos a usar a enguia como um arco.\nO ATQ base é 180..",
-        "es-ES": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Anguila atigrada (7 días)]^000000?\nEs…\nun ^DC143CArco^000000\nComo es elástica,\nempezamos a usarla como Arco.\nEl ATQ base es de 180."
+        "es-ES": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Anguila atigrada (7 días)]^000000?\nEs...\nun ^DC143CArco^000000\nComo es elástica,\nempezamos a usarla como Arco.\nEl ATQ base es de 180."
     },
     "StWSAQ": {
         "en-US": "[Wandering Merchant]\nMore details will be like...\nAGI + 3, and ASPD + 2 for 5sec with certain rate when long range physical attacks.\nAlso gives additional 20% of long range physical ATK when Base Lv. is over 100.\nUsually Hunter, Bard, or Dancer classes uses it.",
         "pt-BR": "[Mercador Errante]\nMais detalhes...\n+ 3 de AGI e + 2 de VelATQ por 5s com uma determinada taxa de ataques físicos de longo alcance.\nTambém concede 20% adicionais de ATQ físico de longo alcance quando o nível de base for superior a 100.\nGeralmente é usado pelas classes Caçador, Bardo ou Odalisca.",
-        "es-ES": "[Comerciante errante]\nMás detalles podrían ser…\nAGI +3 y VELA +2 durante 5 segundos a una tasa determinada al realizar ataques físicos de largo alcance.\nTambién otorga un 20 % adicional de ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nNormalmente lo usan las clases Cazador, Bardo o Bailarina."
+        "es-ES": "[Comerciante errante]\nMás detalles podrían ser...\nAGI +3 y VELA +2 durante 5 segundos a una tasa determinada al realizar ataques físicos de largo alcance.\nTambién otorga un 20 % adicional de ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nNormalmente lo usan las clases Cazador, Bardo o Bailarina."
     },
     "S9WSAQ": {
         "en-US": "[Wandering Merchant]\nThe price of a ^0000FF[Brindle Eel Box(7Days)]^000000 is\n10 Silver Vine.",
@@ -387,7 +387,7 @@
     "TdWSAQ": {
         "en-US": "[Wandering Merchant]\nAre you interested in a ^0000FF[Malangdo Crab Box(7Days)]^000000?\nThis is...\na ^DC143CBow^000000\nwhich increases LUK + 3 and 50% of critical damage.\nAlso increases 20% of long rage phyical ATK when Base Lv. is over 100.\nBase ATK is 120.",
         "pt-BR": "[Mercador Errante]\nVocê está interessado na ^0000FF[Caixa de Caranguejo de Malangdo(7Dias)]^000000?\nIsso é...\num ^DC143CArco^000000\nque aumenta + 3 de SOR e 50% do dano crítico.\nTambém aumenta em 20% o ATQ físico de longo alcance quando o nível de base for superior a 100.\nO ATQ base é 120.",
-        "es-ES": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Cangrejo de Malangdo (7 días)]^000000?\nEs…\nun ^DC143CArco^000000\nque aumenta SUE +3 y en un 50 % el daño crítico.\nTambién aumenta en un 20 % el ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nEl ATQ base es de 120."
+        "es-ES": "[Comerciante errante]\n¿Te interesa una ^0000FF[Caja de Cangrejo de Malangdo (7 días)]^000000?\nEs...\nun ^DC143CArco^000000\nque aumenta SUE +3 y en un 50 % el daño crítico.\nTambién aumenta en un 20 % el ATQ físico de largo alcance cuando el nivel de base es superior a 100.\nEl ATQ base es de 120."
     },
     "TtWSAQ": {
         "en-US": "[Wandering Merchant]\nThis can be used by Archer, Thief, or Roge classes.",
@@ -462,7 +462,7 @@
     "XNWSAQ": {
         "en-US": "[Stinky Merchant]\nAre you interested in a^0000FF[Cat's Hand Glove]^000000?\nThis is...\na glove which can give happiness just by wearing it.",
         "pt-BR": "[Mercador Fedorento]\nVocê está interessado em uma^0000FF[Luva de Mão de Gato]^000000?\nIsso é...\numa luva que pode dar felicidade só de usá-la.",
-        "es-ES": "[Comerciante apestoso]\n¿Te interesa un^0000FF[Guante de Mano Gatuna]^000000?\nEs…\nun guante que puede dar la felicidad con solo llevarlo puesto."
+        "es-ES": "[Comerciante apestoso]\n¿Te interesa un^0000FF[Guante de Mano Gatuna]^000000?\nEs...\nun guante que puede dar la felicidad con solo llevarlo puesto."
     },
     "XdWSAQ": {
         "en-US": "[Stinky Merchant]\nThis is a ^DC143CAccessory^000000\nand its defense power is 5.\nAdditional effects\nVIT + 1, AGI + 1, DEX + 1, LUK + 1.\nSLOT : 1 / Refine : Unable / Destruction : Unable",

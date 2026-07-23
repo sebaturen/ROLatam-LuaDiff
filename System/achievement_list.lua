@@ -1,3 +1,4 @@
+
 achievement_tbl = {
 	[110000] = {
 		UI_Type = 0,

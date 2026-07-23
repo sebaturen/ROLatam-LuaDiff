@@ -84,5 +84,88 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = {
 			"^ff0000Esta página é uma introdução à atualização, não uma missão. Ela não será removida mesmo após a conclusão da missão.^000000"
 		}
+	},
+	[81] = {
+		Title = "Torre das Constelações",
+		IconName = "ico_sc.bmp",
+		Summary = "Enfrente o novo dono",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "e_tower",
+		NpcPosX = 71,
+		NpcPosY = 115,
+		BgName = "reco_81.bmp",
+		QuestInfo1 = {
+			"^003355O dono mudou?^000000",
+			"Parece que alguém revirou a torre conhecida como Torre Sem Fim.",
+			"Sem saber que tipo de ser perigoso ele é, alguém precisa descobrir a identidade do novo dono."
+		},
+		QuestInfo2 = {
+			"Condições de acesso",
+			"Aventureiros de ^990000nível 240 ou superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000 Esta página é uma apresentação de atualização, não uma missão. Observe que ela não será excluída mesmo que a missão seja concluída.^000000"
+		}
+	},
+	[78] = {
+		Title = "Torre Afundada",
+		IconName = "ico_sc.bmp",
+		Summary = "Visitantes Indesejados da Área Corrompida",
+		NpcSpr = "4_4JOB_LETICIA",
+		NpcNavi = "alberta",
+		NpcPosX = 213,
+		NpcPosY = 71,
+		BgName = "reco_78.bmp",
+		QuestInfo1 = {
+			"^003355Uma tarefa que alguém precisa fazer^000000",
+			"Dizem que criaturas indesejadas estão surgindo das profundezas da área corrompida sob a Torre Sem Fim afundada!",
+			"Talvez você não consiga obter grandes riquezas, mas pode ser uma boa EXP... não, uma boa experiência. E você, que parece ter força para ajudar por lá, também não é exceção."
+		},
+		QuestInfo2 = {
+			"Condições de participação",
+			"Aventureiro ^990000de nível 40 ou superior^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000 Esta página é uma apresentação de atualização, não uma missão. Ela não será removida mesmo após a conclusão da missão. Tenha isso em mente.^000000"
+		}
+	},
+	[82] = {
+		Title = "MD Memórias dos Heróis Túmulo do Arrependimento",
+		IconName = "ico_sc.bmp",
+		Summary = "O espadachim mágico encontrado em Túmulo do Arrependimento e a espada mágica que anseia por sangue",
+		BgName = "reco_82.bmp",
+		NpcSpr = "MD_TIARA",
+		NpcNavi = "dali",
+		NpcPosX = 124,
+		NpcPosY = 88,
+		QuestInfo1 = {
+			"Um pedido recebido da princesa de um reino arruinado, e o contratante da espada mágica encontrado no destino alcançado.",
+			"A Espada ruge, e o cadáver que se ergueu fora de seu tempo derrama lágrimas."
+		},
+		QuestInfo2 = {
+			"Condições de acesso",
+			"Aventureiros de nível 220 ou superior"
+		},
+		QuestInfo3 = {
+			"^ff0000 Esta página é uma apresentação de atualização, não uma missão. Observe que ela não será excluída mesmo que a missão seja concluída.^000000"
+		}
+	},
+	[7] = {
+		Title = "Festival do Macarrão",
+		IconName = "ico_ev.bmp",
+		Summary = "Venha para Lasagna!",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"Que tal um delicioso macarrão?",
+			"Participe do Festival do Macarrão em <NAVI>[Lasanga]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>! Você pode ganhar muitas recompensas!"
+		},
+		QuestInfo2 = {
+			"Evento Temporário",
+			"Atente-se aos requisitos",
+			"^ff0000Nível mínimo: 50^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000Ø Período: 03/08 a 18/08.^000000"
+		}
 	}
 }

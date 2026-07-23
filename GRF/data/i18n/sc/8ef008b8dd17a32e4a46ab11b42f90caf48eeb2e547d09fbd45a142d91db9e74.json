@@ -7,7 +7,7 @@
     "IdjXAg": {
         "en-US": "[Praying Priest]\nYour robe...? Oh, my! I've heard one has to carry a cross on a thorny path\nto reach the pinnacle of light as an Arch Bishop, like yourself.\nThank you for using your power to bring glory, happiness, and joy to many people.",
         "pt-BR": "[Crente]\nSeu manto...? Oh, meu Deus! Ouvi dizer que é preciso carregar uma cruz em um caminho ternuoso\npara alcançar o pináculo da luz como um Arcebispo, como o senhor.\nObrigado por usar seu poder para trazer glória, felicidade e alegria a muitas pessoas.",
-        "es-ES": "[Sacerdote orante]\n¿Tu túnica…? ¡Ay, no! Escuché que hay que llevar una cruz por un camino espinoso\npara alcanzar el pináculo de la luz como Arzobispo, como tú.\nGracias por usar tu poder para traer gloria, felicidad y alegría a muchas personas."
+        "es-ES": "[Sacerdote orante]\n¿Tu túnica...? ¡Ay, no! Escuché que hay que llevar una cruz por un camino espinoso\npara alcanzar el pináculo de la luz como Arzobispo, como tú.\nGracias por usar tu poder para traer gloria, felicidad y alegría a muchas personas."
     },
     "ItjXAg": {
         "en-US": "[Praying Priest]\nAh, you're a Cardinal on a perilous path.\nThank you for using your power to bring glory, happiness, and joy to many people.",
@@ -182,7 +182,7 @@
     "RNjXAg": {
         "en-US": "[Umbala Kid]\n...",
         "pt-BR": "[Garoto de Umbala]\n........",
-        "es-ES": "[Niño de Umbala]\n…"
+        "es-ES": "[Niño de Umbala]\n..."
     },
     "RdjXAg": {
         "en-US": "Priest Dayan",
@@ -197,17 +197,17 @@
     "R9jXAg": {
         "en-US": "[Priest Dayan]\nWoon... bah... Woonbah?",
         "pt-BR": "[Sacerdote]\nUn... ba... Unba?",
-        "es-ES": "[Sacerdote Dayan]\nWoon… bah… ¿Woonbah?"
+        "es-ES": "[Sacerdote Dayan]\nWoon... bah... ¿Woonbah?"
     },
     "SNjXAg": {
         "en-US": "[Priest Dayan]\nMaybe this isn't it.\nHm... Then...\nWoom... mah? Woo... mau mah?",
         "pt-BR": "[Sacerdote]\nIsso está... certo?\nHum... então...\nUm... ma? Umau... ma?",
-        "es-ES": "[Sacerdote Dayan]\nQuizá no sea aquí.\nMmm… Entonces…\n¿Woom… mah? ¿Woo… mau, mah?"
+        "es-ES": "[Sacerdote Dayan]\nQuizá no sea aquí.\nMmm... Entonces...\n¿Woom... mah? ¿Woo... mau, mah?"
     },
     "SdjXAg": {
         "en-US": "[Priest Dayan]\n*Groan...*\nI don't know what to do. Hah hah hah.",
         "pt-BR": "[Sacerdote]\nHuuuuuu...\nAh, minha nossa! Me sinto pesado.\nHohohoho.",
-        "es-ES": "[Sacerdote Dayan]\n*Quejido…*\nNo sé qué hacer. Ja, ja, ja."
+        "es-ES": "[Sacerdote Dayan]\n*Quejido...*\nNo sé qué hacer. Ja, ja, ja."
     },
     "StjXAg": {
         "en-US": "*Stomach rumbles",
@@ -217,7 +217,7 @@
     "S9jXAg": {
         "en-US": "[Priest Dayan]\nHah hah hah.\nAh hah hah... Ahem!",
         "pt-BR": "[Sacerdote]\nHahahahaha.\nHuhuhuhu. Humhum.",
-        "es-ES": "[Sacerdote Dayan]\nJa, ja, ja.\nAh, ja, ja… ¡Ejem!"
+        "es-ES": "[Sacerdote Dayan]\nJa, ja, ja.\nAh, ja, ja... ¡Ejem!"
     },
     "TNjXAg": {
         "en-US": "[{0}]\nHello. Brother Dayan?",
@@ -242,7 +242,7 @@
     "UNjXAg": {
         "en-US": "[Priest Dayan]\nBuro... *Mumble, Mumble* ...Nya?",
         "pt-BR": "[Sacerdote]\nCochichando...",
-        "es-ES": "[Sacerdote Dayan]\n¿Buro… *Murmura, murmura* …Nya?"
+        "es-ES": "[Sacerdote Dayan]\n¿Buro... *Murmura, murmura* ...Nya?"
     },
     "UdjXAg": {
         "en-US": "[{0}]\nDAYAN! BROTHER DAYAN! Aren't you?",
@@ -302,7 +302,7 @@
     "XNjXAg": {
         "en-US": "[Priest Dayan]\n...?",
         "pt-BR": "[Sacerdote Adelir]\n..............?",
-        "es-ES": "[Sacerdote Dayan]\n¿…?"
+        "es-ES": "[Sacerdote Dayan]\n¿...?"
     },
     "XdjXAg": {
         "en-US": "The Priest faltered toward me with a hand behind his ear.",
@@ -602,17 +602,17 @@
     "mNjXAg": {
         "en-US": "[{0}]\nThe path of silence...?\nI don't think it was.",
         "pt-BR": "[{0}]\nThe way of silence...?\nEu acho que não.",
-        "es-ES": "[{0}]\n¿El camino del silencio…?\nCreo que no."
+        "es-ES": "[{0}]\n¿El camino del silencio...?\nCreo que no."
     },
     "mdjXAg": {
         "en-US": "[{0}]\nThe path of confession...?\nI don't think it was.",
         "pt-BR": "[{0}]\nO caminho da confissão...?\nEu acho que não.",
-        "es-ES": "[{0}]\n¿El camino de la confesión…?\nCreo que no."
+        "es-ES": "[{0}]\n¿El camino de la confesión...?\nCreo que no."
     },
     "mtjXAg": {
         "en-US": "[{0}]\nThe path of meditation...?\nYes, it was the path of meditation.",
         "pt-BR": "[{0}]\nO caminho da meditação...?\nIsso, é o caminho da meditação.",
-        "es-ES": "[{0}]\n¿El camino de la meditación…?\nSí, era el camino de la meditación."
+        "es-ES": "[{0}]\n¿El camino de la meditación...?\nSí, era el camino de la meditación."
     },
     "m9jXAg": {
         "en-US": "^3131FF[Priest Dayan]^000000\n^3131FFFirst, the path of meditation.^000000\n^3131FFBefore you pray, you must prepare yourself to receive God.^000000",
@@ -647,7 +647,7 @@
     "odjXAg": {
         "en-US": "[{0}]\nThe path of pain... What have I done wrong in the past?\nI should think carefully and pray to God to forgive me.",
         "pt-BR": "[{0}]\nDor... Que tipo de falhas eu tive?",
-        "es-ES": "[{0}]\nEl camino del dolor… ¿Qué hice mal en el pasado?\nDebería pensar detenidamente y rezar a los dioses para que me perdonen."
+        "es-ES": "[{0}]\nEl camino del dolor... ¿Qué hice mal en el pasado?\nDebería pensar detenidamente y rezar a los dioses para que me perdonen."
     },
     "otjXAg": {
         "en-US": "[{0}]\nDear Odin, my omnipotent god who's wiser than anyone or anything in this world, I came to confess my sins.",
@@ -672,7 +672,7 @@
     "ptjXAg": {
         "en-US": "...",
         "pt-BR": ".............................",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "p9jXAg": {
         "en-US": "... ...\n... ... ...",
@@ -717,7 +717,7 @@
     "r9jXAg": {
         "en-US": "...\n... ... ...\n... ... ... ... ... ...",
         "pt-BR": ".............................\n.........................\n.....................",
-        "es-ES": "…\n... ... ...\n... ... ... ... ... ..."
+        "es-ES": "...\n... ... ...\n... ... ... ... ... ..."
     },
     "sNjXAg": {
         "en-US": "^3131FF[Priest Dayan]^000000\n^3131FFLast, the path of light.^000000\n^3131FFHaving received a blessing from every living thing in this world, you're now free from all sins.^000000\n^3131FFAs a renewed being of light, you will sing Gloria with every soul that loves you.^000000",
@@ -817,7 +817,7 @@
     "w9jXAg": {
         "en-US": "[Vinu]\nOh...",
         "pt-BR": "[Vinue]\nAh...",
-        "es-ES": "[Vinu]\nOh…"
+        "es-ES": "[Vinu]\nOh..."
     },
     "xNjXAg": {
         "en-US": "You and Dayan, both of you are so kind.",
@@ -852,7 +852,7 @@
     "ytjXAg": {
         "en-US": "[Vinu]\nWell...\nTo tell you the truth, I started having nightmares on the first day I came here.",
         "pt-BR": "[Vinue]\nOu seja...\nNa verdade, comecei a ter sonhos ruins quando fui designada.",
-        "es-ES": "[Vinu]\nBueno…\nA decir verdad, empecé a tener pesadillas el primer día que vine aquí."
+        "es-ES": "[Vinu]\nBueno...\nA decir verdad, empecé a tener pesadillas el primer día que vine aquí."
     },
     "y9jXAg": {
         "en-US": "[Vinu]\nAt first, they were about a Valkyrie weeping sadly in the darkness.",
@@ -917,7 +917,7 @@
     "19jXAg": {
         "en-US": "[Vinu]\nHm... I don't know.\nI have no way of knowing.\nIt is possible, but even if so, what can I do about it? All I'm good at is praying.",
         "pt-BR": "[Vinue]\nHum... bem...\nNão tenho como descobrir.\nNão tenho um método, então eu só rezo.",
-        "es-ES": "[Vinu]\nMmm… No lo sé.\nNo tengo forma de saberlo.\nEs posible, pero, aun así, ¿qué puedo hacer al respecto? Lo único que puedo hacer bien es rezar."
+        "es-ES": "[Vinu]\nMmm... No lo sé.\nNo tengo forma de saberlo.\nEs posible, pero, aun así, ¿qué puedo hacer al respecto? Lo único que puedo hacer bien es rezar."
     },
     "2NjXAg": {
         "en-US": "I can look into it.",
@@ -947,7 +947,7 @@
     "3djXAg": {
         "en-US": "[Vinu]\nOh... but still, I'm so worried about you...\nThank you so much for your help. I won't forget it.",
         "pt-BR": "[Vinue]\nAh... Estou tão preocupada...\nEu nunca vou me esquecer de seu bom coração.",
-        "es-ES": "[Vinu]\nOh… pero, aun así, me preocupo mucho por ti…\nMuchas gracias por tu ayuda. No lo olvidaré."
+        "es-ES": "[Vinu]\nOh... pero, aun así, me preocupo mucho por ti...\nMuchas gracias por tu ayuda. No lo olvidaré."
     },
     "3tjXAg": {
         "en-US": "[{0}]\nHow can I get to Odin's Temple?",
@@ -1057,7 +1057,7 @@
     "89jXAg": {
         "en-US": "[Valkyrie]\nAlas! The bugle call of victory echoes through the air, but this bird can't fly or even walk.\nIt's only to be crushed... again and again!",
         "pt-BR": "[Valquíria]\nNos céus, o som das flautas se espalhou, mas um pássaro que não consegue voar rasteja e, no fim, se espatifa no chão. \nAh, sinto-me ressentida, arrependida!",
-        "es-ES": "[Valkiria]\n¡Ay! El sonido de la corneta de la victoria resuena en el aire, pero este pájaro no puede volar ni caminar.\nEs solo para ser aplastado… ¡una y otra vez!"
+        "es-ES": "[Valkiria]\n¡Ay! El sonido de la corneta de la victoria resuena en el aire, pero este pájaro no puede volar ni caminar.\nEs solo para ser aplastado... ¡una y otra vez!"
     },
     "9NjXAg": {
         "en-US": "- The Valkyrie groaned with her face in her hands. When she noticed me, she glared at me. -",
@@ -1082,7 +1082,7 @@
     "+NjXAg": {
         "en-US": "[Valkyrie Anghilde]\n...I see. You want to enter Valhalla, don't you?\nI'm sorry, but I can't help you with that.",
         "pt-BR": "[Valquíria Anguhilde]\nEntendo. O seu objetivo é entrar em Valhalla?\nSe for, é o lugar errado para você.",
-        "es-ES": "[Valkiria Anghilde]\n…Ya veo. Quieres entrar en Valhalla, ¿verdad?\nLo siento, pero no puedo ayudarte con eso."
+        "es-ES": "[Valkiria Anghilde]\n...Ya veo. Quieres entrar en Valhalla, ¿verdad?\nLo siento, pero no puedo ayudarte con eso."
     },
     "+djXAg": {
         "en-US": "[Valkyrie Anghilde]\nI've been exiled from Asgard for something I did.\nNow, my duty is to protect this small island, not to take human warriors like you to Odin. I'm too weak for that, anyway.",
@@ -1102,7 +1102,7 @@
     "/NjXAg": {
         "en-US": "[Valkyrie Anghilde]\n...",
         "pt-BR": "[Valquíria Anguhilde]\n...................",
-        "es-ES": "[Valkiria Anghilde]\n…"
+        "es-ES": "[Valkiria Anghilde]\n..."
     },
     "/djXAg": {
         "en-US": "- She spat the words, her eyes filled with impotent rage. -",
@@ -1137,7 +1137,7 @@
     "A9nXAg": {
         "en-US": "[Valkyrie Anghilde]\n...Okay.\nI don't have anywhere to hide or the strength to fight back. I have nothing to lose by trusting you, either.",
         "pt-BR": "[Valquíria Anguhilde]\nCerto...\nNão tenho mais energia para me manter, então, minha única escolha é confiar em você.",
-        "es-ES": "[Valkiria Anghilde]\n…De acuerdo.\nNo tengo dónde esconderme ni fuerzas para defenderme. Tampoco tengo nada que perder confiando en ti."
+        "es-ES": "[Valkiria Anghilde]\n...De acuerdo.\nNo tengo dónde esconderme ni fuerzas para defenderme. Tampoco tengo nada que perder confiando en ti."
     },
     "BNnXAg": {
         "en-US": "[Valkyrie Anghilde]\nI used to be just like other Valkyries, guiding warriors of this realm to Valhalla under Odin's command.",
@@ -1307,7 +1307,7 @@
     "JdnXAg": {
         "en-US": "Shouting Demons: Aren't you bored playing by yourself? Why don't you join our party? We'll make you scream--for pain!",
         "pt-BR": "Pesadelo da Valquíria: Você é tão infantil. Estou convidando você para a festa de um demônio. Vou garantir a sua diversão!",
-        "es-ES": "Demonios vociferantes: ¿No te aburre jugar por tu cuenta? ¿Por qué no te unes a nuestro grupo? Te haremos gritar… ¡de dolor!"
+        "es-ES": "Demonios vociferantes: ¿No te aburre jugar por tu cuenta? ¿Por qué no te unes a nuestro grupo? Te haremos gritar... ¡de dolor!"
     },
     "JtnXAg": {
         "en-US": "[Valkyrie Anghilde]\nDemons exist to seduce and corrupt others.\nPay them no mind.",
@@ -1367,7 +1367,7 @@
     "MdnXAg": {
         "en-US": "[Valkyrie Anghilde]\nLet me give you a necklace.\nI hope it'll be helpful, but...\nAnyway, please be careful.\nNow, make haste before the demons lose their interest and disappear.",
         "pt-BR": "[Valquíria Anguhilde]\nVou lhe dar um colar de presente.\nMas não tenho certeza se ele será útil ou não...\nCuide-se.\nPor favor, depressa!",
-        "es-ES": "[Valkiria Anghilde]\nDéjame darte un collar.\nEspero que sea útil, pero…\nDe todos modos, ten cuidado.\nAhora date prisa antes de que los demonios pierdan el interés y desaparezcan."
+        "es-ES": "[Valkiria Anghilde]\nDéjame darte un collar.\nEspero que sea útil, pero...\nDe todos modos, ten cuidado.\nAhora date prisa antes de que los demonios pierdan el interés y desaparezcan."
     },
     "MtnXAg": {
         "en-US": "Valkyrie Anghilde",
@@ -1447,7 +1447,7 @@
     "QdnXAg": {
         "en-US": "[Valkyrie Anghilde]\nGlory to Odin!\nI can feel my heart swell with happiness and gratitude.\nThis feels so warm... bright...",
         "pt-BR": "[Valquíria Anguhilde]\nHonra a Odin!\nMe sinto cheia de graça.\nTão brilhante e quente...",
-        "es-ES": "[Valkiria Anghilde]\n¡Gloria a Odín!\nSiento cómo mi corazón se agranda de felicidad y gratitud.\nSe siente tan cálido… luminoso…"
+        "es-ES": "[Valkiria Anghilde]\n¡Gloria a Odín!\nSiento cómo mi corazón se agranda de felicidad y gratitud.\nSe siente tan cálido... luminoso..."
     },
     "QtnXAg": {
         "en-US": "- *Puff!* -",
@@ -1517,7 +1517,7 @@
     "T9nXAg": {
         "en-US": "Whispering Avatar: Demons... I can feel their ominous energy. Can you hear them? They're coming.",
         "pt-BR": "Sussurro de uma personificação: Tudo pronto para o combate!",
-        "es-ES": "Avatar susurrante: Demonios… Puedo sentir su energía ominosa. ¿Los oyes? Ya vienen."
+        "es-ES": "Avatar susurrante: Demonios... Puedo sentir su energía ominosa. ¿Los oyes? Ya vienen."
     },
     "UNnXAg": {
         "en-US": "Whispering Avatar: Get ready to fight!",

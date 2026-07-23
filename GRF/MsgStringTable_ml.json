@@ -15457,7 +15457,7 @@
     },
     "TVNJX1BFVF9BVVRPX0ZFRURJTkdfT0ZG": {
         "ko-KR": "펫 자동 먹이 주기 활성화 Off",
-        "en-US": "Auto feeding inactivated.",
+        "en-US": "Auto feeding deactivated.",
         "pt-BR": "Alimentação automática de mascote desligada.",
         "es-ES": "Alimentación automática desactivada."
     },
@@ -16261,9 +16261,9 @@
     },
     "TVNJX1RBSVdBTl9DQVNIX01TR18xMQ==": {
         "ko-KR": "※수수료 3% / 최소 1仙貝의 수수료 차감",
-        "en-US": "※Charge 3% / Charging At least 1 Xianbei",
-        "pt-BR": "※Charge 3% / Charging At least 1 Xianbei",
-        "es-ES": "※Carga 3?% / Cargando al menos 1?xianbei"
+        "en-US": "*Charge 3% / Charging At least 1 Xianbei",
+        "pt-BR": "*Charge 3% / Charging At least 1 Xianbei",
+        "es-ES": "*Carga 3?% / Cargando al menos 1?xianbei"
     },
     "TVNJX1RBSVdBTl9DQVNIX0lURU1fQkFZX01BRzI=": {
         "ko-KR": "仙貝 입니다.",
@@ -16885,7 +16885,7 @@
     },
     "TVNJX1NUWUxJTkdfU0hPUF9BREpVU1RfTkVXX0NIQVJfU1RZTEU=": {
         "ko-KR": "비용을 지불하고 현재 스타일을 적용하시겠습니까?\\n(※ 비용은 반환되지 않습니다.)",
-        "en-US": "Would you like to pay the fee and apply the current style?\\n(¡Ø The fee is non-refundable.)",
+        "en-US": "Would you like to pay the fee and apply the current style?\\n(*The fee is non-refundable.)",
         "pt-BR": "Gostaria de pagar a taxa e aplicar o estilo atual?\\n(A taxa não é reembolsável.)",
         "es-ES": "Quieres pagar la tarifa y aplicar el estilo actual?\\n(La tarifa no es reembolsable)."
     },
@@ -16993,9 +16993,9 @@
     },
     "TVNJX1NUWUxJTkdfU0hPUF9TVUNDRVNT": {
         "ko-KR": "새로운 스타일을 확인해 보세요.\\n(※ 액세서리 구매 시 RODEX로 발송됩니다.)",
-        "en-US": "Come and see the new styles.\\n(※Purchased accessories will be sent via RODEX.)",
+        "en-US": "Come and see the new styles.\\n(*Purchased accessories will be sent via RODEX.)",
         "pt-BR": "Estilo alterado.\\n(Equipamentos comprados foram enviados via RODEX.)",
-        "es-ES": "Ven a ver los nuevos estilos.\\n(※ Los accesorios comprados se enviarán a través de RODEX)."
+        "es-ES": "Ven a ver los nuevos estilos.\\n(* Los accesorios comprados se enviarán a través de RODEX)."
     },
     "TVNJX1NUWUxJTkdfU0hPUF9CQVNJQ1NUWUxF": {
         "ko-KR": "기본 스타일",
@@ -17065,9 +17065,9 @@
     },
     "TVNJX1JPREVYX1JFVFVSTg==": {
         "ko-KR": "반송",
-        "en-US": "Returned",
-        "pt-BR": "Retornado",
-        "es-ES": "Devuelto"
+        "en-US": "Return",
+        "pt-BR": "Devolver",
+        "es-ES": "Devolver"
     },
     "TVNJX1JPREVYX1JFRlJFU0g=": {
         "ko-KR": "새로고침",
@@ -22295,9 +22295,9 @@
     },
     "TVNJX0NIQU5HRV9NQVRFUklBTF9NRVNTQUdF": {
         "ko-KR": "※[%s] %d~%d개 제작",
-        "en-US": "※[%s] %d~%d pieces produced",
+        "en-US": "*[%s] %d~%d pieces produced",
         "pt-BR": "× [%s] %d~%d peças produzidas",
-        "es-ES": "※[%s] %d~%d piezas producidas"
+        "es-ES": "*[%s] %d~%d piezas producidas"
     },
     "TVNJX0NIQU5HRV9NQVRFUklBTF9TVUNDRVNTX1JBVEU=": {
         "ko-KR": "%d%%",
@@ -22938,19 +22938,20 @@
     "TVNJX1JFUFVURV9OT1dfTE9BRElORw==": {
         "ko-KR": "NOW LOADING..",
         "en-US": "NOW LOADING..",
-        "pt-BR": "CARREGANDO AGORA..",
+        "pt-BR": "CARREGANDO AGORA...",
         "es-ES": "CARGANDO AHORA…"
     },
     "TVNJX0dSQURFX0VOQ0hBTlRfQURESVRJT05BTF9TT1VSQ0VfUkVTRVQ=": {
         "ko-KR": "보조 재료 선택이 초기화 됩니다.",
         "en-US": "Auxiliary material selection will be reset.",
-        "pt-BR": "A escolha será resetada. Por favor, selecione novamente.",
+        "pt-BR": "A escolha será redefinida. Por favor, selecione novamente.",
         "es-ES": "Se restablecerá la selección de material auxiliar."
     },
     "TVNJX0VOQ0hBTlQ=": {
         "ko-KR": "0",
         "en-US": "0",
-        "pt-BR": "0"
+        "pt-BR": "0",
+        "es-ES": "0"
     },
     "TVNJX0VOQ0hBTlRfVEFCX0dFTkVSQUw=": {
         "ko-KR": "일반",
@@ -22960,21 +22961,21 @@
     },
     "TVNJX0VOQ0hBTlRfVEFCX1BFUkZFQ1Q=": {
         "ko-KR": "확정",
-        "en-US": "Unconditonal",
-        "pt-BR": "Perfeito",
-        "es-ES": "Incondicional"
+        "en-US": "Selection",
+        "pt-BR": "Escolher Encanto",
+        "es-ES": "Selección"
     },
     "TVNJX0VOQ0hBTlRfVEFCX1VQR1JBREU=": {
         "ko-KR": "성장",
-        "en-US": "Growth",
-        "pt-BR": "Evoluir",
+        "en-US": "Upgrade",
+        "pt-BR": "Melhorar",
         "es-ES": "Mejora"
     },
     "TVNJX0VOQ0hBTlRfVEFCX1JFU0VU": {
         "ko-KR": "초기화",
-        "en-US": "Initialize",
-        "pt-BR": "Reset",
-        "es-ES": "Inicializar"
+        "en-US": "Reset",
+        "pt-BR": "Redefinir",
+        "es-ES": "Restablecer"
     },
     "TVNJX0VOQ0hBTlRfRkFJTEVEX09WRVJfV0VJR0hU": {
         "ko-KR": "무게가 70% 이상입니다. 무게를 줄인 후 재시도 해주세요.",
@@ -22996,44 +22997,44 @@
     },
     "TVNJX0VOQ0hBTlRfVVBHUkFERV9CVVRUT04=": {
         "ko-KR": "성장",
-        "en-US": "Growth",
-        "pt-BR": "Evoluir",
+        "en-US": "Upgrade",
+        "pt-BR": "Melhorar",
         "es-ES": "Mejora"
     },
     "TVNJX0VOQ0hBTlRfUkVTRVRfQlVUVE9O": {
         "ko-KR": "초기화",
         "en-US": "Initialize",
-        "pt-BR": "Resetar",
-        "es-ES": "Inicializar"
+        "pt-BR": "Redefinir",
+        "es-ES": "Restablecer"
     },
     "TVNJX0NMT1NFX1JPREVYX0ZPUl9FTkNIQU5U": {
         "ko-KR": "인챈트 중에는 로덱스를 사용할 수 없습니다. 로덱스를 강제 종료하였습니다.",
         "en-US": "You can not use Rodex during enchanting items. Rodex was truned off.",
-        "pt-BR": "Você não pode usar Rodex durante o encantamento de itens. Rodex foi desativado.",
+        "pt-BR": "Você não pode usar o RODEX durante o encanto. A janela foi fechada.",
         "es-ES": "No se puede usar Rodex durante el encantamiento de objetos. Rodex fue desactivado."
     },
     "TVNJX0NBTk5PVF9PUEVOX1JPREVYX0RVUklOR19FTkNIQU5U": {
         "ko-KR": "인챈트 중에는 로덱스를 사용할 수 없습니다.",
         "en-US": "You can not use Rodex during enchanting items.",
-        "pt-BR": "Você não pode usar Rodex durante o encantamento de itens.",
+        "pt-BR": "Você não pode usar o RODEX durante o encanto.",
         "es-ES": "No se puede usar Rodex durante el encantamiento de objetos."
     },
     "TVNJX0NMT1NFX0JBTktJTkdfRk9SX0VOQ0hBTlQ=": {
         "ko-KR": "인챈트 중에는 은행을 사용할 수 없습니다. 은행을 강제 종료하였습니다.",
         "en-US": "Bank cannot be used during enchantment. Bank has been forcibly terminated.",
-        "pt-BR": "O banco não pode ser usado durante o encantamento. O banco foi encerrado à força.",
+        "pt-BR": "O banco não pode ser usado durante o encanto. O banco foi fechada.",
         "es-ES": "El banco no se puede usar durante el encantamiento. El banco ha sido cancelado forzosamente."
     },
     "TVNJX0NBTk5PVF9PUEVOX0JBTktJTkdfRFVSSU5HX0VOQ0hBTlQ=": {
         "ko-KR": "인챈트 중에는 은행을 사용할 수 없습니다.",
         "en-US": "Bank cannot be used during enchantment.",
-        "pt-BR": "O banco não pode ser usado durante o encantamento.",
+        "pt-BR": "O banco não pode ser usado durante o encanto.",
         "es-ES": "El banco no se puede usar durante el encantamiento."
     },
     "TVNJX0VOQ0hBTlRfUkVRVUVTVA==": {
         "ko-KR": "인챈트를 실행하시겠습니까?",
         "en-US": "Do you want to perform enchantment?",
-        "pt-BR": "Você quer realizar o encantamento?",
+        "pt-BR": "Deseja encantar?",
         "es-ES": "¿Quieres realizar un encantamiento?"
     },
     "TVNJX0lURU1fUkVGT1JNX09L": {
@@ -23045,25 +23046,25 @@
     "TVNJX0lURU1fUkVGT1JNX1dBUk5OSU5HX05PVF9FTk9VR0hfTUFURVJJQUw=": {
         "ko-KR": "조합에 필요한 재료가 부족합니다.",
         "en-US": "Insufficient materials for combination.",
-        "pt-BR": "Materiais insuficientes para combinação.",
+        "pt-BR": "Materiais insuficientes.",
         "es-ES": "Materiales insuficientes para la combinación."
     },
     "TVNJX0lURU1fUkVGT1JNX1dBUk5OSU5HX0NBUkRfRU5DSEFOVF9MT1NU": {
         "ko-KR": "장착된 카드 아이템과 부여된 인챈트가 소실됩니다.",
         "en-US": "Equipped card items and granted enchantments will be lost.",
-        "pt-BR": "Itens de cartas equipadas e encantamentos concedidos serão perdidos.",
+        "pt-BR": "Cartas e encantos serão perdidos.",
         "es-ES": "Se perderán los objetos de cartas equipados y los encantamientos otorgados."
     },
     "TVNJX0lURU1fUkVGT1JNX1dBUk5OSU5HX0NBUkRfTUFZQkVfTE9TVA==": {
         "ko-KR": "장착된 카드 아이템이 소실될 수 있습니다.",
         "en-US": "Equipped card items may be lost.",
-        "pt-BR": "Itens de cartas equipadas podem ser perdidos.",
+        "pt-BR": "Cartas podem ser perdidas.",
         "es-ES": "Los objetos de cartas equipados podrían perderse."
     },
     "TVNJX0lURU1fUkVGT1JNX1dBUk5OSU5HX0VOQ0hBTlRfTUFZQkVfTE9TVA==": {
         "ko-KR": "부여된 인챈트가 소실될 수 있습니다.",
         "en-US": "Equipped enchantments may be lost.",
-        "pt-BR": "Encantamentos equipados podem ser perdidos.",
+        "pt-BR": "Encantos podem ser perdidos.",
         "es-ES": "Los encantamientos equipados podrían perderse."
     },
     "TVNJX0hJREVfUExBWUVSX09O": {
@@ -23081,19 +23082,19 @@
     "TVNJX0lURU1fUkVGT1JNX0NPTkZJUk1fREVUQUlMUw==": {
         "ko-KR": "세부 내용 확인",
         "en-US": "More Info",
-        "pt-BR": "Mais informações",
+        "pt-BR": "Informações",
         "es-ES": "Más información"
     },
     "TVNJX0lURU1fUkVGT1JNX1BMWl9DSEVDS19ERVRBSUxT": {
         "ko-KR": "세부 내용을 확인해주세요.",
         "en-US": "Please check More Info.",
-        "pt-BR": "Verifique Mais informações.",
+        "pt-BR": "Primeiro, leia as informações",
         "es-ES": "Revisa Más información."
     },
     "TVNJX0lURU1fUkVGT1JNX05PX0VYSVNUX1RBUkdFVF9JVEVN": {
         "ko-KR": "조합 가능한 아이템이 없습니다.",
         "en-US": "There are no items that can be combined.",
-        "pt-BR": "Não há itens que podem ser combinados.",
+        "pt-BR": "Não há itens reformáveis.",
         "es-ES": "No hay objetos que puedan combinarse."
     },
     "TVNJX0VOQ0hBTlRfU1VDQ0VTUw==": {
@@ -23111,13 +23112,13 @@
     "TVNJX0NBTk5PVF9GSU5EX0VOQ0hBTlRfSUQ=": {
         "ko-KR": "인챈트 정보를 찾을 수 없습니다",
         "en-US": "Enchantment information not found",
-        "pt-BR": "informações de encantamento não encontradas",
+        "pt-BR": "Não há informações",
         "es-ES": "Información del encantamiento no encontrada"
     },
     "TVNJX05PVF9TQVRJU0ZJRURfRU5DSEFOVF9DT05ESVRJT04=": {
         "ko-KR": "인챈트 조건을 만족하지 않습니다.",
         "en-US": "Enchantment conditions not met",
-        "pt-BR": "Condições de encantamento não atendidas",
+        "pt-BR": "Condições não atendidas",
         "es-ES": "Condiciones del encantamiento no cumplidas"
     },
     "TVNJX1JPREVYX1NQQU1PUFRJT05fRkFJTA==": {
@@ -23141,7 +23142,7 @@
     "TVNJX1JPREVYX1NQQU1PUFRJT05fVVNFUkJMT0NL": {
         "ko-KR": "%s님이 수신 거부 상태 입니다.",
         "en-US": "%s is blocking reception..",
-        "pt-BR": "%s está bloqueando a recepção..",
+        "pt-BR": "%s está bloqueando a recepção.",
         "es-ES": "%s está bloqueando la recepción…"
     },
     "TVNJX1JPREVYX1NQQU1PUFRJT05fUkVUVVJOX1NVQ0NFU1M=": {
@@ -23888,7 +23889,7 @@
     "TVNJX0RBTUFHRV9FUVVJUE1FTlRfVE9PTFRJUA==": {
         "ko-KR": "데미지 표시",
         "en-US": "Damage display",
-        "pt-BR": "Exibir dano",
+        "pt-BR": "Exibição de Dano",
         "es-ES": "Visualización de daño"
     },
     "TVNJX0RBTUFHRV9ESVJfTEVGVA==": {
@@ -24086,7 +24087,7 @@
     "TVNJX1dFRERJTkdfUklOR19JVEVNX05BTUVfRk9STUFU": {
         "ko-KR": "%s씨와의",
         "en-US": "With %s",
-        "pt-BR": "Com %s",
+        "pt-BR": "de %s",
         "es-ES": "Con %s"
     },
     "TVNJX0FDQ09VTlRfTElNSVRFRF9UT09MX1JFU1VMVF9ORVdGT1JNQVQ=": {
@@ -26158,25 +26159,31 @@
     "TVNJX0VOQ0hBTlRfVUlfUkFORE9N": {
         "ko-KR": "랜덤",
         "en-US": "Random",
-        "pt-BR": "Sorteio",
+        "pt-BR": "Encanto aleatório",
         "es-ES": "Azar"
     },
     "TVNJX1BFTkFMVFlfTUFLRV9QQVJUWQ==": {
         "ko-KR": "신고 패널티를 받은 상태에서는 파티의 가입과 생성, 몬스터로부터 경험치, 아이템 습득이 금지됩니다.",
         "en-US": "While under a report penalty, you cannot join or create a party, gain EXP from monsters, or obtain items.",
-        "pt-BR": "Enquanto estiver sob penalidade por denúncia, você não poderá entrar ou criar grupos, obter EXP de monstros nem adquirir itens.",
+        "pt-BR": "Enquanto estiver sob penalidade, você não poderá entrar ou criar grupos, obter EXP de monstros nem adquirir itens.",
         "es-ES": "Mientras tengas una penalización por reporte, no podrás unirte ni crear grupos, obtener EXP de monstruos ni adquirir objetos."
     },
     "TVNJX1BFTkFMVFlfREVCVUZGX1JFTU9WRV9OUENfT04=": {
         "ko-KR": "미니맵 내 표기된 디버프 해제 NPC는 직접 이동하여 찾아야 합니다. 순간이동 시 위치 안내가 사라집니다.",
         "en-US": "You must travel directly to find the debuff removal NPC marked on the minimap. The location marker will disappear if you teleport.",
-        "pt-BR": "Você deve ir diretamente até o NPC que remove efeitos negativos, indicado no minimapa. A localização deixará de ser exibida caso você se teletransporte.",
+        "pt-BR": "Para remover a penalidade, você deve ir até a NPC indicada no seu minimapa. A localização deixará de ser exibida caso você se teletransporte.",
         "es-ES": "Debes desplazarte directamente para encontrar al NPC que elimina efectos negativos, marcado en el minimapa. La ubicación dejará de mostrarse si te teletransportas."
     },
     "TVNJX0RFQlVGRl9SRU1PVkU=": {
         "ko-KR": "디버프 해제",
         "en-US": "Remove Debuff",
-        "pt-BR": "Remover efeito negativo",
+        "pt-BR": "Remover Penalidade",
         "es-ES": "Eliminar efecto negativo"
+    },
+    "TVNJX1JPREVYX1JFVFVSTl9UT09MVElQ": {
+        "ko-KR": "반송",
+        "en-US": "Return to Sender",
+        "pt-BR": "Devolver ao Remetente",
+        "es-ES": "Devolver al Enviador"
     }
 }

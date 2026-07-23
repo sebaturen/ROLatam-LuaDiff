@@ -2,17 +2,17 @@
     "oFJXAQ": {
         "en-US": "Kafra Employee",
         "pt-BR": "Funcionário da Kapra",
-        "es-ES": "Empleado de Kapra"
+        "es-ES": "Empleado de Kafra"
     },
     "oVJXAQ": {
         "en-US": "[Kafra Employee]\nYour Kafra Points\nhave reached a dangerous level.\nYou cannot use Kafra services\nin your current state.\nPlease visit our Al De Baran headquarters\nand exchange your Kafra Points for goods.",
         "pt-BR": "[Funcionário da Kapra]\nSeus pontos Kapra\natingiram um nível crítico.\nNestas condições, você não poderá\nutilizar nossos serviços Kapra,\npor isso, por favor, dirija-se à\nsede da Kapra em Aldebaran\npara trocar seus pontos Kapra por itens.",
-        "es-ES": "[Empleado de Kapra]\nTus puntos Kapra\nhan llegado a un nivel de riesgo.\nEn tu estado actual, no puedes\nusar nuestros servicios Kapra,\nasí que te pedimos que vayas a la\nsede central de Kapra en Aldebaran\npara canjear tus puntos Kapra por productos."
+        "es-ES": "[Empleado de Kafra]\nTus puntos Kafra\nhan llegado a un nivel de riesgo.\nEn tu estado actual, no puedes\nusar nuestros servicios Kafra,\nasí que te pedimos que vayas a la\nsede central de Kafra en Aldebaran\npara canjear tus puntos Kafra por productos."
     },
     "olJXAQ": {
         "en-US": "[Kafra Employee]\nWelcome. Kafra is always with you.\nHow may I help you today?",
         "pt-BR": "[Funcionário da Kapra]\nSeja bem-vindo. O serviço Kapra está sempre ao seu lado.\nEm que posso ajudar?",
-        "es-ES": "[Empleado de Kapra]\nBienvenido. El servicio de Kapra siempre está a tu lado.\n¿En qué puedo ayudarte?"
+        "es-ES": "[Empleado de Kafra]\nBienvenido. El servicio de Kafra siempre está a tu lado.\n¿En qué puedo ayudarte?"
     },
     "o1JXAQ": {
         "en-US": "Save Point",
@@ -42,17 +42,17 @@
     "qFJXAQ": {
         "en-US": "[Kafra Employee]\nYour point has been saved.\nThank you for your patronage.",
         "pt-BR": "[Funcionário da Kapra]\nSalvo.\nObrigado por usar o serviço.",
-        "es-ES": "[Empleado de Kapra]\nSe ha guardado.\nGracias por usar nuestro servicio."
+        "es-ES": "[Empleado de Kafra]\nSe ha guardado.\nGracias por usar nuestro servicio."
     },
     "qVJXAQ": {
         "en-US": "[Kafra Employee]\nI'm sorry,\nbut to use our Storage service, you first must increase your Novice Job Level to 6 or learn the Basic Skill.",
         "pt-BR": "[Funcionário da Kapra]\nDesculpa, cliente.\nPara usar o armazém, você precisa aumentar o nível de habilidade de iniciante para 6 ou mais, ou aprender uma nova habilidade básica.",
-        "es-ES": "[Empleado de Kapra]\nLo sentimos, cliente.\nPara usar el almacén, debes subir tu nivel de habilidad de principiante a 6 o más, o aprender una nueva habilidad básica."
+        "es-ES": "[Empleado de Kafra]\nLo sentimos, cliente.\nPara usar el almacén, debes subir tu nivel de habilidad de principiante a 6 o más, o aprender una nueva habilidad básica."
     },
     "qlJXAQ": {
         "en-US": "[Kafra Employee]\nPlease select the storage you wish to use.",
         "pt-BR": "[Funcionário da Kapra]\nEscolha o armário que deseja usar.",
-        "es-ES": "[Empleado de Kapra]\nElige el almacén que quieres usar."
+        "es-ES": "[Empleado de Kafra]\nElige el almacén que quieres usar."
     },
     "q1JXAQ": {
         "en-US": "Warehouse 1",
@@ -72,7 +72,7 @@
     "rlJXAQ": {
         "en-US": "[Kafra Employee]\nI'll open your storage.\nThank you for your patronage.",
         "pt-BR": "[Funcionário da Kapra]\nVou abrir o depósito.\nObrigado por usar nosso serviço.",
-        "es-ES": "[Empleado de Kapra]\nVoy a abrir el almacén.\nGracias por tu visita."
+        "es-ES": "[Empleado de Kafra]\nVoy a abrir el almacén.\nGracias por tu visita."
     },
     "r1JXAQ": {
         "en-US": "Storage 1",
@@ -82,7 +82,7 @@
     "sFJXAQ": {
         "en-US": "[Kafra Employee]\nCustomer. You don't have enough Zeny to pay.\nThe storage fee is 50 Zeny.",
         "pt-BR": "[Funcionário da Kapra]\nSenhor(a). O valor pago está insuficiente.\nA taxa de uso do armazém é de 50 Zeni.",
-        "es-ES": "[Empleado de Kapra]\nCliente. Te falta dinero para pagar.\nLa tarifa del almacén es de 50 jenis."
+        "es-ES": "[Empleado de Kafra]\nCliente. Te falta dinero para pagar.\nLa tarifa del almacén es de 50 jenis."
     },
     "sVJXAQ": {
         "en-US": "Warehouse 2",
@@ -97,22 +97,22 @@
     "s1JXAQ": {
         "en-US": "[Kafra Employee]\nI'm sorry.\nOnly those belonging to the merchant class can use the cart.",
         "pt-BR": "[Funcionário da Kapra]\nDesculpa.\nO carrinho só pode ser usado por pessoas que pertençam à classe de comerciantes.",
-        "es-ES": "[Empleado de Kapra]\nLo siento.\nSolo las personas que pertenecen a la clase de comerciantes pueden usar el carrito."
+        "es-ES": "[Empleado de Kafra]\nLo siento.\nSolo las personas que pertenecen a la clase de comerciantes pueden usar el carrito."
     },
     "tFJXAQ": {
         "en-US": "[Kapra Staff]\nYou currently have a cart equipped.",
         "pt-BR": "[Funcionário de Kapra]\nVocê está com o carrinho equipado no momento.",
-        "es-ES": "[Empleado de Kapra]\nActualmente tienes el carrito equipado."
+        "es-ES": "[Empleado de Kafra]\nActualmente tienes el carrito equipado."
     },
     "tVJXAQ": {
         "en-US": "[Kafra Employee]\nYou must learn the 'Push Cart Skill' to use the cart.",
         "pt-BR": "[Funcionário da Kapra]\nVocê precisa aprender a “Habilidade Carrinho de Mão” para poder usar o carrinho.",
-        "es-ES": "[Empleado de Kapra]\nTienes que aprender la «Habilidad de carrito» para poder usar el carrito."
+        "es-ES": "[Empleado de Kafra]\nTienes que aprender la «Habilidad de carrito» para poder usar el carrito."
     },
     "tlJXAQ": {
         "en-US": "[Kafra Employee]\nThe cart rental fee is 800 Zeny.\nWould you like to proceed?",
         "pt-BR": "[Funcionário da Kapra]\nA taxa de uso do carrinho é de 800 Zeny.\nDesejas utilizá-lo?",
-        "es-ES": "[Empleado de Kapra]\nEl costo del carrito es de 800 jenis.\n¿Quieres usarlo?"
+        "es-ES": "[Empleado de Kafra]\nEl costo del carrito es de 800 jenis.\n¿Quieres usarlo?"
     },
     "t1JXAQ": {
         "en-US": "Use.",
@@ -127,7 +127,7 @@
     "uVJXAQ": {
         "en-US": "[Kafra Employee]\nCustomer. Your payment amount is insufficient.\nThe cart usage fee is 800 Zeny.",
         "pt-BR": "[Funcionário da Kapra]\nOi, cliente. O valor disponível não é suficiente.\nA taxa de uso do carrinho é de 800 Zeny.",
-        "es-ES": "[Empleado de Kapra]\nOye. No tienes suficiente saldo.\nEl costo del carrito es de 800 jenis."
+        "es-ES": "[Empleado de Kafra]\nOye. No tienes suficiente saldo.\nEl costo del carrito es de 800 jenis."
     },
     "ulJXAQ": {
         "en-US": "Check Accumulated Points",
@@ -142,17 +142,17 @@
     "vFJXAQ": {
         "en-US": "[Kafra Employee]\n{0}, your accumulated points are {1} points.",
         "pt-BR": "[Funcionário da Kapra]\nSeus pontos acumulados, {0}, são {1} pontos.",
-        "es-ES": "[Empleado de Kapra]\n{0}, tus puntos acumulados son {1}."
+        "es-ES": "[Empleado de Kafra]\n{0}, tus puntos acumulados son {1}."
     },
     "vVJXAQ": {
         "en-US": "[Kapra Staff]\nAccumulated points can be exchanged for products at our Kapra headquarters.\nPlease use our convenient Kapra services and take home many products~",
         "pt-BR": "[Funcionário da Kapra]\nOs pontos acumulados podem ser trocados por produtos na sede da Kapra.\nAproveita o nosso serviço Kapra, que é super prático, e leva muitos produtos pra casa~",
-        "es-ES": "[Empleado de Kapra]\nLos puntos acumulados se pueden canjear por productos en nuestra sede central de Kapra.\nAprovecha nuestro cómodo servicio Kapra y llévate un montón de productos~"
+        "es-ES": "[Empleado de Kafra]\nLos puntos acumulados se pueden canjear por productos en nuestra sede central de Kafra.\nAprovecha nuestro cómodo servicio Kafra y llévate un montón de productos~"
     },
     "vlJXAQ": {
         "en-US": "[Kapra Staff]\nOur Kapra service strives to provide the most complete service and strict management so that our valued customers can use it with peace of mind and convenience.\nThank you for using our service.",
         "pt-BR": "[Funcionário da Kapra]\nNós, da Kapra, estamos nos empenhando ao máximo para oferecer um serviço mais completo e uma gestão rigorosa, para que todos os clientes possam usar nossos serviços com tranquilidade e conforto.\nObrigado por nos escolher.",
-        "es-ES": "[Empleado de Kapra]\nEn Kapra nos esforzamos al máximo para ofrecer un servicio más completo y una gestión rigurosa, para que puedas usar nuestros servicios con tranquilidad y comodidad.\nGracias por usarnos."
+        "es-ES": "[Empleado de Kafra]\nEn Kafra nos esforzamos al máximo para ofrecer un servicio más completo y una gestión rigurosa, para que puedas usar nuestros servicios con tranquilidad y comodidad.\nGracias por usarnos."
     },
     "v1JXAQ": {
         "en-US": "Moscovia Ambassador",

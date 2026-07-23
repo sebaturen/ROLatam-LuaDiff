@@ -747,7 +747,7 @@
     "Fd3xCw": {
         "en-US": "[White Berry]\nI got fresh Mastela Fruits!\nPlease buy a lot. Meow.\nWe grow them, but it's too sour for us to eat... Uh, never mind. Meow meow.",
         "pt-BR": "[Amora]\nTenho frutas Mastela frescas!\nPor favor, compre um lote. Miau.\nNós as cultivamos, mas são muito azedas para comermos... Uh, não importa. Miau miau.",
-        "es-ES": "[Zarzamora]\n¡Tengo Fruta de Mastela fresca!\nPor favor, compra mucho. Miau.\nLa cultivamos, pero es demasiado agria para comerla… Oh, no importa. Miau, miau."
+        "es-ES": "[Zarzamora]\n¡Tengo Fruta de Mastela fresca!\nPor favor, compra mucho. Miau.\nLa cultivamos, pero es demasiado agria para comerla... Oh, no importa. Miau, miau."
     },
     "Ft3xCw": {
         "en-US": "[White Berry]\nI'll give you a fair purrice.\nSell me something useful if you would. Meow.",
@@ -767,7 +767,7 @@
     "Gd3xCw": {
         "en-US": "[White Berry]\nI got fresh Mastela Fruits!\nPlease buy a lot. Meow.\nWe grow them, but it's too sour for us to eat... uh, never mind. Meow meow.",
         "pt-BR": "[Amora]\nTenho frutas Mastela frescas!\nPor favor, compre um lote. Miau.\nNós as cultivamos, mas são muito azedas para comermos... ah, não importa. Miau miau.",
-        "es-ES": "[Zarzamora]\n¡Tengo Fruta de Mastela fresca!\nPor favor, compra mucho. Miau.\nLas cultivamos, pero son demasiado agrias para comerlas… Oh, no importa. Miau, miau."
+        "es-ES": "[Zarzamora]\n¡Tengo Fruta de Mastela fresca!\nPor favor, compra mucho. Miau.\nLas cultivamos, pero son demasiado agrias para comerlas... Oh, no importa. Miau, miau."
     },
     "Gt3xCw": {
         "en-US": "General Store [Tag It]",
@@ -907,22 +907,22 @@
     "Nd3xCw": {
         "en-US": "[Wynn]\nUgh, my head...\nI took this job to pay for my tuition, but smelling herbs for a week straight... I think I'm gonna puke...\nHrrrurgh!",
         "pt-BR": "[Estagiário]\nUgh, minha cabeça...\nAceitei esse trabalho para pagar meus estudos, mas cheirar ervas por uma semana inteira... Acho que vou vomitar...\nHrrrurgh!",
-        "es-ES": "[Wynn]\nUy, mi cabeza…\nAcepté este trabajo para pagarme la matrícula, pero oler hierbas toda la semana… Creo que voy a vomitar…\n¡Ugh!"
+        "es-ES": "[Wynn]\nUy, mi cabeza...\nAcepté este trabajo para pagarme la matrícula, pero oler hierbas toda la semana... Creo que voy a vomitar...\n¡Ugh!"
     },
     "Nt3xCw": {
         "en-US": "[Wynn]\n...Welcome... to... Proper Prescription...\nDo you need some Blue Potions? We got WoE Potions too.\nI make 100 new bottles every day... Yes, me...",
         "pt-BR": "[Estagiário]\n...Bem-vindo... a... Farmácia...\nVocê precisa de algumas Poções Azuis? Também temos Poções WoE.\nEu faço 100 novos frascos todos os dias... Sim, eu...",
-        "es-ES": "[Wynn]\n…Te damos la bienvenida… a… Receta adecuada…\n¿Necesitas Pociones azules? También tenemos Pociones GdI.\nHago 100 botellas nuevas todos los días… Sí, yo…"
+        "es-ES": "[Wynn]\n...Te damos la bienvenida... a... Receta adecuada...\n¿Necesitas Pociones azules? También tenemos Pociones GdI.\nHago 100 botellas nuevas todos los días... Sí, yo..."
     },
     "N93xCw": {
         "en-US": "[Wynn]\nUgh... I don't know if there's anything left.\nHold on. We might be sold out...\nOh, then I have to make them again. Ooh, the stench of herbs... I-I'm gonna...",
         "pt-BR": "[Estagiário]\nUgh... Não sei se sobrou alguma coisa.\nEspere um pouco. Pode ser que esteja esgotado...\nOh, então terei que fazê-los novamente. Ooh, o cheiro de ervas... Eu vou...",
-        "es-ES": "[Wynn]\nUf… No sé si queda algo.\nEspera. Puede que se hayan agotado…\nOh, entonces tengo que hacerlas de nuevo. Oh, el hedor de las hierbas… Voy a…"
+        "es-ES": "[Wynn]\nUf... No sé si queda algo.\nEspera. Puede que se hayan agotado...\nOh, entonces tengo que hacerlas de nuevo. Oh, el hedor de las hierbas... Voy a..."
     },
     "ON3xCw": {
         "en-US": "[Wynn]\nThank you, come again...",
         "pt-BR": "[Estagiário]\nObrigado, volte sempre...",
-        "es-ES": "[Wynn]\nGracias, vuelve otra vez…"
+        "es-ES": "[Wynn]\nGracias, vuelve otra vez..."
     },
     "Od3xCw": {
         "en-US": "Shop Assistant Johanna",
@@ -1387,7 +1387,7 @@
     "ld3xCw": {
         "en-US": "[Coco]\nThese guys can block off pretty much everything. I think?",
         "pt-BR": "[Belinha]\nEsses caras conseguem bloquear praticamente tudo. Eu acho...",
-        "es-ES": "[Coco]\nEstas cosas pueden bloquear casi todo. Creo…"
+        "es-ES": "[Coco]\nEstas cosas pueden bloquear casi todo. Creo..."
     },
     "lt3xCw": {
         "en-US": "[Coco]\nSee you again.",

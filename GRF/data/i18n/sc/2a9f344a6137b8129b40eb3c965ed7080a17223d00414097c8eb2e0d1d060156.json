@@ -142,7 +142,7 @@
     "nGGM": {
         "en-US": "[Nia]\nYour last guess had ^FF0000{0}^000000\nof the correct numbers,\nand ^FF0000{1}^000000 digits in your guess\nhad the correct number in\nthe correct digit placement.\nYou only have one guess left...",
         "pt-BR": "[Nia]\nSeu palpite acertou ^FF0000{0}^000000\ndos números,\ne ^FF0000{1}^000000 número(s) em seu palpite\nestão na casa decimal correta.\nVocê só tem um palpite restante...",
-        "es-ES": "[Nia]\nTu último intento tuvo ^FF0000{0}^000000\nde los números correctos,\ny ^FF0000{1}^000000 de los dígitos\nen la posición correcta.\nSolo te queda un intento…"
+        "es-ES": "[Nia]\nTu último intento tuvo ^FF0000{0}^000000\nde los números correctos,\ny ^FF0000{1}^000000 de los dígitos\nen la posición correcta.\nSolo te queda un intento..."
     },
     "nWGM": {
         "en-US": "[Nia]\nYour last guess had ^FF0000{0}^000000\nof the correct numbers,\nand ^FF0000{1}^000000 digits in your guess\nhad the correct number in\nthe correct digit placement.\nThe answer was ^FF0000{2}^000000 ^FF0000{3}^000000 ^FF0000{4}^000000.",

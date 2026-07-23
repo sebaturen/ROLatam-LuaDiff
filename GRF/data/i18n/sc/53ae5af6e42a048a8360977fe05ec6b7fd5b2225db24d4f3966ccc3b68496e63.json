@@ -62,7 +62,7 @@
     "DB17Aw": {
         "en-US": "[Zeland]\nAhh... Okay. That's too bad.\nI'll look for another adventurer.",
         "pt-BR": "[Zeland]\nAh... uma pena.\nEncontrarei outra pessoa para me ajudar.",
-        "es-ES": "[Zeland]\nAhh… De acuerdo. Qué pena.\nBuscaré otro trotamundos."
+        "es-ES": "[Zeland]\nAhh... De acuerdo. Qué pena.\nBuscaré otro trotamundos."
     },
     "DR17Aw": {
         "en-US": "[Zeland]\n^4D4DFFThey are a group of 4 international students led by Maxim^000000.\n^4D4DFFThey must be near the Juperos Entrance.^000000 I need your help.",
@@ -92,7 +92,7 @@
     "Eh17Aw": {
         "en-US": "[Ernest]\nIs it dangerous here?\nYou look to be in danger, too.\nUm... This is not good.",
         "pt-BR": "[Ernesto]\nNão é perigoso por aqui?\nParece perigoso até mesmo para você.\nHm... é melhor ir embora.",
-        "es-ES": "[Ernest]\n¿Es peligroso aquí?\nTú también pareces estar en peligro.\nEh… Esto no es bueno."
+        "es-ES": "[Ernest]\n¿Es peligroso aquí?\nTú también pareces estar en peligro.\nEh... Esto no es bueno."
     },
     "Ex17Aw": {
         "en-US": "[Ernest]\nEveryone in Juperos is talking about either Phantasmagorika or Venus these days.\nSo we figured, why not investigate the Juperos Ruins by ourselves.",
@@ -122,7 +122,7 @@
     "GB17Aw": {
         "en-US": "[Ernest]\nSavage monsters at the entrance taught us a valuable lesson.\n...Uh, that's why... we asked the Eden Group for aid.",
         "pt-BR": "[Ernesto]\nTem umas coisas mal-encaradas lá dentro que me deixaram com medo.\n... Então, eu fiz uma solicitação ao Grupo do Éden.",
-        "es-ES": "[Ernest]\nLos monstruos salvajes de la entrada nos enseñaron una valiosa lección.\n…Es por eso que… pedimos ayuda al Grupo del Edén."
+        "es-ES": "[Ernest]\nLos monstruos salvajes de la entrada nos enseñaron una valiosa lección.\n...Es por eso que... pedimos ayuda al Grupo del Edén."
     },
     "GR17Aw": {
         "en-US": "[Ernest]\nThey won't listen to other people's warnings anyways.\nOh, I was talking about the others in my group.",
@@ -137,7 +137,7 @@
     "Gx17Aw": {
         "en-US": "[Ernest]\nWe're here to investigate the area around Juperos, but we're stuck at the entrance\nI wonder if the leader is making the right decision...\nWe'll be fine one way or another, right?",
         "pt-BR": "[Ernesto]\nVim investigar as Ruínas de Juperos, mas estou tendo muitos problemas já na entrada.\nEstou preocupado com o nosso Líder...\nSerá que vai dá certo?",
-        "es-ES": "[Ernest]\nVinimos aquí para investigar la zona alrededor de Juperos, pero estamos atascados en la entrada.\nMe pregunto si el líder está tomando la decisión correcta…\nEstaremos bien de una forma u otra, ¿verdad?"
+        "es-ES": "[Ernest]\nVinimos aquí para investigar la zona alrededor de Juperos, pero estamos atascados en la entrada.\nMe pregunto si el líder está tomando la decisión correcta...\nEstaremos bien de una forma u otra, ¿verdad?"
     },
     "HB17Aw": {
         "en-US": "Iron Ant Colony I",
@@ -182,7 +182,7 @@
     "JB17Aw": {
         "en-US": "[Ernest]\nThat would be awesome!\nUgh.. Venatus look like bugs. They're gross.",
         "pt-BR": "[Ernesto]\nUau! Você quer ajudar! Obrigado!\nEsses Venatus são assustadores, parecem insetos.",
-        "es-ES": "[Ernest]\n¡Sería fantástico!\nUf… Los Venatu parecen insectos. Son asquerosos."
+        "es-ES": "[Ernest]\n¡Sería fantástico!\nUf... Los Venatu parecen insectos. Son asquerosos."
     },
     "JR17Aw": {
         "en-US": "[Ernest]\nThen please destroy 20 ^4D4DFFpurple Venatus and green Venatus each^000000.",
@@ -252,12 +252,12 @@
     "Mh17Aw": {
         "en-US": "[Ernest]\nUm. Is this the end of our archaeological studies...?",
         "pt-BR": "[Ernesto]\nHmm. Então, nossa pesquisa sobre as Ruínas termina aqui...",
-        "es-ES": "[Ernest]\nEh… ¿Este es el final de nuestros estudios arqueológicos…?"
+        "es-ES": "[Ernest]\nEh... ¿Este es el final de nuestros estudios arqueológicos...?"
     },
     "Mx17Aw": {
         "en-US": "[Ernest]\nDo you think the Venatus might have more than four elements?\nThis needs more research.\n... Hmm.",
         "pt-BR": "[Ernesto]\nSerá que Venatu possuem outras diferenças além das cores?\nÉ algo que precisa ser estudado.\n...Bom.",
-        "es-ES": "[Ernest]\n¿Crees que los Venatu podrían tener más de cuatro elementos?\nTenemos que investigar más.\n… Mmm."
+        "es-ES": "[Ernest]\n¿Crees que los Venatu podrían tener más de cuatro elementos?\nTenemos que investigar más.\n... Mmm."
     },
     "NB17Aw": {
         "en-US": "[Ernest]\nVery well, Adventurer, we'll see you again!",
@@ -287,12 +287,12 @@
     "OR17Aw": {
         "en-US": "[Ernest]\nCome on, why would you come all the way here, then?\n... I guess I have no choice if you really mean it.",
         "pt-BR": "[Ernesto]\nPô, tu veio até aqui para recusar?\n...Então, não quero sua ajuda.",
-        "es-ES": "[Ernest]\nVamos, ¿entonces para qué te molestaste en venir hasta aquí?\n… Supongo que no tengo opción si lo dices en serio."
+        "es-ES": "[Ernest]\nVamos, ¿entonces para qué te molestaste en venir hasta aquí?\n... Supongo que no tengo opción si lo dices en serio."
     },
     "Oh17Aw": {
         "en-US": "[Ernest]\nDifferent elements didn't really make that much difference.\nHmm...",
         "pt-BR": "[Ernesto]\nPercebi que não há muita diferença entre eles além da cor.\nHmmm...",
-        "es-ES": "[Ernest]\nLos distintos elementos realmente no suponían una gran diferencia.\nMmm…"
+        "es-ES": "[Ernest]\nLos distintos elementos realmente no suponían una gran diferencia.\nMmm..."
     },
     "Ox17Aw": {
         "en-US": "[Ernest]\nVenatus have different elements depending on the color on their wrists.\nPlease destroy 20 ^4D4DFForange Venatus and blue Venatus each^000000 this time.\nThey will welcome you with open arms in Juperos.",
@@ -317,12 +317,12 @@
     "Px17Aw": {
         "en-US": "[Nonda]\nThe mysterious future beyond the desolate views...\nEndless challenge, and defeat!",
         "pt-BR": "[Ankana]\nAlém dessa paisagem há um futuro invisível...\ncom muitos desafios e derrotas!",
-        "es-ES": "[Nonda]\nEl futuro misterioso más allá del paisaje desolado…\n¡Un sinfín de desafíos y derrotas!"
+        "es-ES": "[Nonda]\nEl futuro misterioso más allá del paisaje desolado...\n¡Un sinfín de desafíos y derrotas!"
     },
     "QB17Aw": {
         "en-US": "[Nonda]\nA merciless environment like none other!\nSigh.. Juperos... these ruins... What scary ruins.",
         "pt-BR": "[Ankana]\nUm ambiente nocivo sem espaço para descanso!\nHaha... Juperos... Você está em ruínas... Assustadoras ruínas.",
-        "es-ES": "[Nonda]\n¡Un entorno despiadado como ningún otro!\n*Suspira.* Juperos… estas ruinas… Qué ruinas más tenebrosas."
+        "es-ES": "[Nonda]\n¡Un entorno despiadado como ningún otro!\n*Suspira.* Juperos... estas ruinas... Qué ruinas más tenebrosas."
     },
     "QR17Aw": {
         "en-US": "Leader Maxim",
@@ -407,7 +407,7 @@
     "UR17Aw": {
         "en-US": "[Maxim]\nWell, we owe you again.\nThey say Dimiks spawn deeper in Juperos Ruins..\nGood luck.",
         "pt-BR": "[Maximus]\nObrigado, eu devo isso à você.\nParece que os Dimik estão cada vez mais agressivos.\nTome cuidado.",
-        "es-ES": "[Maxim]\nBueno, estamos en deuda contigo otra vez.\nDicen que los Dimik emergen en las profundidades en las ruinas de Juperos…\nBuena suerte."
+        "es-ES": "[Maxim]\nBueno, estamos en deuda contigo otra vez.\nDicen que los Dimik emergen en las profundidades en las ruinas de Juperos...\nBuena suerte."
     },
     "Uh17Aw": {
         "en-US": "[Maxim]\nOh, it's okay.\nWe asked Eden Group for the same, so there should be someone coming to help.\nHahahaha!",

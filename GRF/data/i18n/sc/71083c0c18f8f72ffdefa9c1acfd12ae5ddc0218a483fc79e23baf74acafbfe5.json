@@ -42,17 +42,17 @@
     "qBQOAQ": {
         "en-US": "[Alex]\nHuh...?\nWhat do you want?",
         "pt-BR": "[Alex]\nO que você quer?\nO que você quer?",
-        "es-ES": "[Alex]\n¿Eh…?\n¿Qué quieres?"
+        "es-ES": "[Alex]\n¿Eh...?\n¿Qué quieres?"
     },
     "qRQOAQ": {
         "en-US": "Excuse me...",
         "pt-BR": "Desculpe-me...",
-        "es-ES": "Disculpa…"
+        "es-ES": "Disculpa..."
     },
     "qhQOAQ": {
         "en-US": "I saw the recruitment notice and...",
         "pt-BR": "Eu vi o aviso de recrutamento e...",
-        "es-ES": "Vi el aviso de reclutamiento y…"
+        "es-ES": "Vi el aviso de reclutamiento y..."
     },
     "qxQOAQ": {
         "en-US": "[Alex]\nOh, so you saw the\nrecruitment notice for the\nOdin Shrine Expedition, eh?",
@@ -62,12 +62,12 @@
     "rBQOAQ": {
         "en-US": "Hmmm... Alright, you look\nlike you're strong enough.\nYeah, I think you qualify.",
         "pt-BR": "Hmmm... Tudo bem, você parece\nparece ser forte o suficiente.\nSim, acho que você se qualifica.",
-        "es-ES": "Mmmm… Bien, creo que te ves\nlo suficientemente fuerte.\nSí, creo que reúnes los requisitos."
+        "es-ES": "Mmmm... Bien, creo que te ves\nlo suficientemente fuerte.\nSí, creo que reúnes los requisitos."
     },
     "rRQOAQ": {
         "en-US": "Well, I dunno. I think that\nkind of expedition would\neat you alive. No offense...",
         "pt-BR": "Bem, eu não sei. Acho que esse\ntipo de expedição\ncomer você vivo. Sem ofensa...",
-        "es-ES": "Vaya, no lo sé. Creo que\nde una expedición como esta\nno saldrías con vida. Sin ánimos de ofender…"
+        "es-ES": "Vaya, no lo sé. Creo que\nde una expedición como esta\nno saldrías con vida. Sin ánimos de ofender..."
     },
     "rhQOAQ": {
         "en-US": "[Alex]\nLook, I'll reconsider\nwhether you qualify after\nyou get train a little more,\ndevelop your skills, you know,\nget stronger. For now, though,\nI don't think we can use you.",
@@ -107,7 +107,7 @@
     "tRQOAQ": {
         "en-US": "Well...",
         "pt-BR": "Bem...",
-        "es-ES": "Bueno…"
+        "es-ES": "Bueno..."
     },
     "thQOAQ": {
         "en-US": "Yes, I do.",
@@ -117,7 +117,7 @@
     "txQOAQ": {
         "en-US": "[Alex]\nOh... Them.\nThey're officially my\nco-workers, but quite\nfrankly, they were forced\nupon me by the Rune-Midgard\nKingdom. It can't be helped...",
         "pt-BR": "[Alex]\nOh... Eles.\nEles são oficialmente meus\ncolegas de trabalho, mas,\nfrancamente, eles foram forçados\na mim pelo Reino de Rune-Midgard\nNão há como evitar...",
-        "es-ES": "[Alex]\nAh… Ellos.\nOficialmente, son mis\ncompañeros de trabajo, pero para ser más\nprecisos, el reino de\nRune-Midgard los obligó \na venir. Es lo que es, ¿no?"
+        "es-ES": "[Alex]\nAh... Ellos.\nOficialmente, son mis\ncompañeros de trabajo, pero para ser más\nprecisos, el reino de\nRune-Midgard los obligó \na venir. Es lo que es, ¿no?"
     },
     "uBQOAQ": {
         "en-US": "[Alex]\nAnyway, I have to accept\nthem to help international\nrelations or something silly\nlike that. They say they're here^FFFFFF  ^000000 to research religious relics,\nbut I just don't trust them.",
@@ -127,7 +127,7 @@
     "uRQOAQ": {
         "en-US": "[Alex]\nIn fact, I think it's\nobvious that they're here\nfor something else, though\nI'm not sure what it may be.\nAnd that gray haired lady...\nShe totally creeps me out!",
         "pt-BR": "[Alex]\nDe fato, acho que é\nóbvio que eles estão aqui\npara outra coisa, embora\nNão tenho certeza do que pode ser.\nE aquela senhora de cabelos brancos...\nEla me dá arrepios!",
-        "es-ES": "[Alex]\nDe hecho, creo que es\nobvio que están aquí \npor otro motivo, aunque\naún no sé cuál es ese motivo.\nY esa dama de pelo gris…\n¡No la soporto!"
+        "es-ES": "[Alex]\nDe hecho, creo que es\nobvio que están aquí \npor otro motivo, aunque\naún no sé cuál es ese motivo.\nY esa dama de pelo gris...\n¡No la soporto!"
     },
     "uhQOAQ": {
         "en-US": "[Alex]\nYeah, well, I know\nit might be a tough\ndecision to make. Well,\ntake your time. I understand\nthat you have to weigh the\nrisks and everything.",
@@ -167,7 +167,7 @@
     "wRQOAQ": {
         "en-US": "[Alex]\nThat's fine...\nJust keep in mind that\nwe're running behind\nschedule. If only that\ngrey haired crone wasn't\nhere... We'd be done by now!",
         "pt-BR": "[Alex]\nTudo bem...\nApenas tenha em mente que\nestamos atrasados\ndo cronograma. Se ao menos aquela\nvelha de cabelos brancos não estivesse\naqui... Já teríamos terminado!",
-        "es-ES": "[Alex]\nEstá bien…\nSolo ten en cuenta que\nnuestra misión ya va\ncon retraso. Si tan solo esa\nbruja de pelo gris no estuviera\naquí… ¡Ya habríamos terminado!"
+        "es-ES": "[Alex]\nEstá bien...\nSolo ten en cuenta que\nnuestra misión ya va\ncon retraso. Si tan solo esa\nbruja de pelo gris no estuviera\naquí... ¡Ya habríamos terminado!"
     },
     "whQOAQ": {
         "en-US": "[Alex]\nWell, it's about\ntime you came back.\nSo did you bring me\n^3355FF5 Runes of the Darkness^000000?",
@@ -177,7 +177,7 @@
     "wxQOAQ": {
         "en-US": "Er, not yet...",
         "pt-BR": "Er, ainda não...",
-        "es-ES": "Este… Aún no."
+        "es-ES": "Este... Aún no."
     },
     "xBQOAQ": {
         "en-US": "There you go!",
@@ -207,12 +207,12 @@
     "yRQOAQ": {
         "en-US": "[Alex]\nThat... grey... haired...!\nN-no... Calm down, Alex...\nLose your head, you lose\neverything... D-don't stoop\ndown to her level.",
         "pt-BR": "[Alex]\nAquele... de cabelos brancos...!\nN-não... Acalme-se, Alex...\nSe perder a cabeça, você perde\ntudo... Não se rebaixe\naté o nível dela.",
-        "es-ES": "[Alex]\n¡Esa… bruja… de pelo gris…!\nN-no… Cálmate, Alex…\nSi pierdes la calma, lo pierdes\ntodo… N-no te rebajes\na su nivel."
+        "es-ES": "[Alex]\n¡Esa... bruja... de pelo gris...!\nN-no... Cálmate, Alex...\nSi pierdes la calma, lo pierdes\ntodo... N-no te rebajes\na su nivel."
     },
     "yhQOAQ": {
         "en-US": "[Alex]\nAlright, I'm not in any\nposition to make demands\nof you... But I would really\nappreciate it if you would\nbring me 5 Runes of the\nDarkness as soon as possible.",
         "pt-BR": "[Alex]\nTudo bem, não estou em nenhuma\nposição para fazer exigências\nde você... Mas eu realmente\nagradeceria se você\nme trouxesse 5 Runas da\nDarkness o mais rápido possível.",
-        "es-ES": "[Alex]\nDe acuerdo, no estoy en\ncondiciones de exigirte\nnada… Pero de verdad\nagradecería que pudieras\nconseguirme 5 Runas de la\noscuridad tan pronto como sea posible."
+        "es-ES": "[Alex]\nDe acuerdo, no estoy en\ncondiciones de exigirte\nnada... Pero de verdad\nagradecería que pudieras\nconseguirme 5 Runas de la\noscuridad tan pronto como sea posible."
     },
     "yxQOAQ": {
         "en-US": "[Alex]\nOh! Thank you\nso much, I'm sure\nthese Runes will help\nus in our research. I know\nthis isn't much, but please\naccept this Old Blue Box.",
@@ -222,7 +222,7 @@
     "zBQOAQ": {
         "en-US": "[Julian]\nWait...\nResearch?\nSince when did\nyou do research?",
         "pt-BR": "[Julian]\nEspere...\nPesquisa?\nDesde quando\nvocê faz pesquisas?",
-        "es-ES": "[Julian]\nEspera…\n¿Investigación?\n¿Desde cuándo\nhaces investigaciones?"
+        "es-ES": "[Julian]\nEspera...\n¿Investigación?\n¿Desde cuándo\nhaces investigaciones?"
     },
     "zRQOAQ": {
         "en-US": "[Alex]\nGosh, Julian,\nwill you just\nshut up for a bit?",
@@ -232,7 +232,7 @@
     "zhQOAQ": {
         "en-US": "[Julian]\nWhy? I'm the one who\ndoes all the grunt work\nand actual research.\nYou think you're so\nbig just ''supervising...''",
         "pt-BR": "[Por que?]\nPor quê? Eu sou aquele que\nfaz todo o trabalho pesado\ne a pesquisa real.\nVocê se acha tão\ngrande apenas ''supervisionando...",
-        "es-ES": "[Julian]\n¿Por qué? Soy yo quien\nhace todo el trabajo sucio\ne investiga de verdad.\nTe crees tan\nimportante solo porque supervisas…"
+        "es-ES": "[Julian]\n¿Por qué? Soy yo quien\nhace todo el trabajo sucio\ne investiga de verdad.\nTe crees tan\nimportante solo porque supervisas..."
     },
     "zxQOAQ": {
         "en-US": "[Alex]\nJ-Julian!",
@@ -252,12 +252,12 @@
     "0hQOAQ": {
         "en-US": "[Alex]\nHm? Oh, this isn't\nenough Runes of the\nDarkness. I asked you\nto bring me 5 of them...",
         "pt-BR": "[Alex]\nHm? Oh, isso não é\nsuficientes de Runes of the\nDarkness. Eu lhe pedi\npara me trazer 5 delas...",
-        "es-ES": "[Alex]\n¿Mm? Aquí faltan\nalgunas Runas de la\noscuridad. Te pedí \nque me consiguieras 5 de ellas…"
+        "es-ES": "[Alex]\n¿Mm? Aquí faltan\nalgunas Runas de la\noscuridad. Te pedí \nque me consiguieras 5 de ellas..."
     },
     "0xQOAQ": {
         "en-US": "[Alex]\n...Darn it! I think I might\nhave miscalculated. Maybe\nI really do need more of\nthese. What am I gonna do?\nAnd what is that grey haired\ncrone thinking? Hmmmm...",
         "pt-BR": "[Alex]\n...Droga! Acho que posso\nter calculado mal. Talvez\neu realmente precise de mais\ndestes. O que eu vou fazer?\nE o que aquela velha de cabelos brancos está pensando?\nde cabelos brancos está pensando? Hmmmm...",
-        "es-ES": "[Alex]\n¡…Maldición! Puede que haya cometido\nun ligero error de cálculo. Quizá \nde verdad necesito más\nde estas. ¿Qué voy a hacer?\n¿Y qué estará tramando\nesa bruja de pelo gris? Mmmmmm…"
+        "es-ES": "[Alex]\n¡...Maldición! Puede que haya cometido\nun ligero error de cálculo. Quizá \nde verdad necesito más\nde estas. ¿Qué voy a hacer?\n¿Y qué estará tramando\nesa bruja de pelo gris? Mmmmmm..."
     },
     "1BQOAQ": {
         "en-US": "[Alex]\nO-Oh! I had no idea that\nyou were there! Y-you\ndidn't hear anything\ns-strange, did you?\nHahahahahahaha!",
@@ -282,7 +282,7 @@
     "2BQOAQ": {
         "en-US": "[Alex]\nI can't work with\nher at all! She's\nmanipulative, greedy,\nselfish, and two faced!\nThere's got to be another\nreason why she's here...!",
         "pt-BR": "[Alex]\nNão consigo trabalhar com\nela de jeito nenhum! Ela é\nmanipuladora, gananciosa,\negoísta e de duas caras!\nDeve haver outra\nmotivo para ela estar aqui...!",
-        "es-ES": "[Alex]\n¡No puedo trabajar con\nella en absoluto! ¡Es\nmanipuladora, avara,\negoísta y traicionera!\n¡Tiene que haber otra\nrazón para que haya venido…!"
+        "es-ES": "[Alex]\n¡No puedo trabajar con\nella en absoluto! ¡Es\nmanipuladora, avara,\negoísta y traicionera!\n¡Tiene que haber otra\nrazón para que haya venido...!"
     },
     "2RQOAQ": {
         "en-US": "[Alex]\nHm? Did you need\nsomething? I'm sorry,\nbut I can't help you\nright now. I'm pretty\nbusy, so I just want to\nbe left alone for a while.",
@@ -307,7 +307,7 @@
     "3RQOAQ": {
         "en-US": "Let me take a look at you...\nOh, you're all skin and bone!\nI can't use someone like you.",
         "pt-BR": "Deixe-me dar uma olhada em você...\nOh, você é só pele e osso!\nNão posso usar alguém como você.",
-        "es-ES": "Déjame echarte un vistazo…\n¡Ay, eres puro hueso y pellejo!\nNo nos sirve alguien como tú."
+        "es-ES": "Déjame echarte un vistazo...\n¡Ay, eres puro hueso y pellejo!\nNo nos sirve alguien como tú."
     },
     "3hQOAQ": {
         "en-US": "I'm Laura Laurence, the\nRune-Midgard Kingdom rep\nfor the Odin Shrine Expedition.",
@@ -347,7 +347,7 @@
     "5RQOAQ": {
         "en-US": "Nah, forget it.",
         "pt-BR": "Não, esqueça.",
-        "es-ES": "Eh… No, gracias."
+        "es-ES": "Eh... No, gracias."
     },
     "5hQOAQ": {
         "en-US": "Yes, I'll do it!",
@@ -397,7 +397,7 @@
     "7xQOAQ": {
         "en-US": "[Laura]\nWhat are we doing...?\nThis is the shrine expedition\noffice. You know, we're doing\nresearch on the artifacts found\nin the Odin Shrine on behalf\nof the Rune-Midgard Kingdom.",
         "pt-BR": "[Laura]\nO que estamos fazendo...?\nEsta é a expedição do santuário\nescritório. Sabe, estamos fazendo\npesquisa sobre os artefatos encontrados\nno Santuário de Odin em nome\ndo Reino de Rune-Midgard.",
-        "es-ES": "[Laura]\n¿Que qué estamos haciendo…?\nEsta es la oficina de la expedición\nal santuario. Te informo que estamos\ninvestigando los artefactos encontrados\nen el santuario de Odín en representación\ndel reino de Rune-Midgard."
+        "es-ES": "[Laura]\n¿Que qué estamos haciendo...?\nEsta es la oficina de la expedición\nal santuario. Te informo que estamos\ninvestigando los artefactos encontrados\nen el santuario de Odín en representación\ndel reino de Rune-Midgard."
     },
     "8BQOAQ": {
         "en-US": "About Alex and Julian",
@@ -417,7 +417,7 @@
     "8xQOAQ": {
         "en-US": "[Laura]\n...Oh. You must be working\nfor those rich Schwaltvalt\nRepublic kids. I can't work\nwith that impudent girl, at\nall, so we're actually working\nin separate offices.",
         "pt-BR": "[Laura]\n...Oh. Você deve estar trabalhando\npara aquelas crianças ricas da República de Schwaltvalt\nRepública Schwaltvalt. Não posso trabalhar\ncom aquela garota atrevida, de jeito nenhum.\nde jeito nenhum, então estamos trabalhando\nem escritórios separados.",
-        "es-ES": "[Laura]\n…Oh. Imagino que estás trabajando\npara esos niñitos ricachones de la República\nde Schwarzwald. No puedo trabajar\ncon esa chica insolente\nen absoluto, así que estamos trabajando\nen oficinas separadas."
+        "es-ES": "[Laura]\n...Oh. Imagino que estás trabajando\npara esos niñitos ricachones de la República\nde Schwarzwald. No puedo trabajar\ncon esa chica insolente\nen absoluto, así que estamos trabajando\nen oficinas separadas."
     },
     "9BQOAQ": {
         "en-US": "[Laura]\nSorry, let me introduce\nmyself. I'm Laura Laurence,\nthe leader of the Odin Shrine\nexpedition for the Rune-Midgard^FFFFFF  ^000000 Kingdom. Ashe Milton is my\nassistant for this excavation.",
@@ -437,7 +437,7 @@
     "9xQOAQ": {
         "en-US": "[Laura]\nHey, I know you...\nYou're a volunteer for the\nother office's expedition,\nright? Your timing couldn't\nbe more perfect. Why don't\nyou help us for a while?",
         "pt-BR": "[Laura]\nEi, eu conheço você...\nVocê é um voluntário da expedição\nexpedição do outro escritório,\nnão é? Seu timing não poderia ser\nser mais perfeito. Por que não\nnos ajuda por um tempo?",
-        "es-ES": "[Laura]\nOye, yo te conozco…\nEstás trabajando voluntariamente\npara la expedición de la otra oficina,\n¿verdad? No podías llegar en un momento\nmás perfecto. ¿Por qué no\nnos ayudas un rato?"
+        "es-ES": "[Laura]\nOye, yo te conozco...\nEstás trabajando voluntariamente\npara la expedición de la otra oficina,\n¿verdad? No podías llegar en un momento\nmás perfecto. ¿Por qué no\nnos ayudas un rato?"
     },
     "+BQOAQ": {
         "en-US": "[Laura]\nBasically, I want you\nto spy on that snobby girl,\nAlex of the Schwartzwald\nRepublic office, and report\nwhat she's actually doing to me. ^FFFFFF  ^000000",
@@ -447,7 +447,7 @@
     "+RQOAQ": {
         "en-US": "[Laura]\nI have to know...\nI need to know whether\nthey discovered ''that thing''\nalready. They can't have found\nit before us. It's impossible!",
         "pt-BR": "[Laura]\nEu preciso saber...\nEu preciso saber se\neles descobriram ''aquela coisa\njá. Eles não podem ter descoberto\nantes de nós. Isso é impossível!",
-        "es-ES": "[Laura]\nNecesito saber…\nNecesito saber si\ndescubrieron eso\nya. No pueden haberlo encontrado\nantes que nosotros. ¡Es imposible!"
+        "es-ES": "[Laura]\nNecesito saber...\nNecesito saber si\ndescubrieron eso\nya. No pueden haberlo encontrado\nantes que nosotros. ¡Es imposible!"
     },
     "+hQOAQ": {
         "en-US": "[Laura]\nAnyway, just eavesdrop\non the Schwaltvalt Office\nby putting your ear really\nclose to the door, and listen\nto them talk. Will you do that?",
@@ -477,7 +477,7 @@
     "/xQOAQ": {
         "en-US": "I s-s-s-suppose...!",
         "pt-BR": "Eu s-s-s-suponho...!",
-        "es-ES": "¡Su-su-supongo que lo p-puedo hacer…!"
+        "es-ES": "¡Su-su-supongo que lo p-puedo hacer...!"
     },
     "ABUOAQ": {
         "en-US": "Yes, Ma'am!",
@@ -557,12 +557,12 @@
     "DxUOAQ": {
         "en-US": "[Laura]\nAnd that Alex girl...\nShe may seem polite,\nbut she's always giving\nthese dirty looks, and\ngreets me with her fake\nsmile. I hate her!",
         "pt-BR": "[Laura]\nE aquela garota, a Alex...\nEla pode parecer educada,\nmas está sempre dando\nesses olhares sujos, e\nme cumprimenta com seu falso\nsorriso falso. Eu a odeio!",
-        "es-ES": "[Laura]\nY esa chica, Alex…\nPodrá parecer educada,\npero siempre anda dando\nmiradas despectivas y\nme saluda con una sonrisota\nfalsa. ¡La odio tanto!"
+        "es-ES": "[Laura]\nY esa chica, Alex...\nPodrá parecer educada,\npero siempre anda dando\nmiradas despectivas y\nme saluda con una sonrisota\nfalsa. ¡La odio tanto!"
     },
     "EBUOAQ": {
         "en-US": "[Ashe]\nMs. Laurence...!\nStop it, please!\nIt's embarassing to\nhear you talk about\na colleague like that.",
         "pt-BR": "[Ashe]\nSrta. Laurence...!\nPare com isso, por favor!\nÉ constrangedor\nouvir você falar sobre\num colega dessa maneira.",
-        "es-ES": "[Ashe]\n¡Srta. Laurence…!\n¡Basta, por favor!\nEs vergonzoso\noírla hablar sobre\nuna colega de esa forma."
+        "es-ES": "[Ashe]\n¡Srta. Laurence...!\n¡Basta, por favor!\nEs vergonzoso\noírla hablar sobre\nuna colega de esa forma."
     },
     "ERUOAQ": {
         "en-US": "[Laura]\nC-colleague?! No way!\nI despise that spoiled brat,\nand she doesn't deserve the\nposition that her rich daddy\nprobably bought for her! Grrr!\nCome back later, I'm too mad!",
@@ -597,7 +597,7 @@
     "FxUOAQ": {
         "en-US": "[Laura]\nWell, try to hurry up\nif you can. I'm already\nbehind schedule because\nwe have to work with those\nsnobby rich kids in the\nother office. ^333333*Sigh...*^000000",
         "pt-BR": "[Laura]\nBem, tente se apressar\nse puder. Eu já estou\natrasada porque\ntemos que trabalhar com aquelas\ncrianças ricas e esnobes no\noutro escritório. ^333333*Suspiro...*^000000",
-        "es-ES": "[Laura]\nBueno, trata de darte prisa\nsi puedes. Ya estamos\nbastante atrasados por\ntener que trabajar con esos\nniñitos ricachones y arrogantes de la\notra oficina. ^333333*Suspira…*^000000"
+        "es-ES": "[Laura]\nBueno, trata de darte prisa\nsi puedes. Ya estamos\nbastante atrasados por\ntener que trabajar con esos\nniñitos ricachones y arrogantes de la\notra oficina. ^333333*Suspira...*^000000"
     },
     "GBUOAQ": {
         "en-US": "[Laura]\nOh, you've come back.\nSo where are the Runes\nof the Darkness you brought?",
@@ -607,7 +607,7 @@
     "GRUOAQ": {
         "en-US": "Er, I don't have them yet...",
         "pt-BR": "Er, eu ainda não os tenho...",
-        "es-ES": "Este… Aún no las consigo."
+        "es-ES": "Este... Aún no las consigo."
     },
     "GhUOAQ": {
         "en-US": "Right here!",
@@ -627,12 +627,12 @@
     "HRUOAQ": {
         "en-US": "[Laura]\nHey...\nAshe. Why aren't we\nmaking any progress?\nWhat exactly have you\nbeen doing? None of those\nrunes have any writing?",
         "pt-BR": "[Laura]\nEi...\nAshe. Por que não estamos\nfazendo nenhum progresso?\nO que exatamente você\nestá fazendo? Nenhuma dessas\nrunas tem qualquer escrita?",
-        "es-ES": "[Laura]\nOye…\nAshe. ¿Por qué no\nestamos avanzando nada con la investigación?\n¿Me puedes decir exactamente qué estuviste\nhaciendo? ¿Acaso ninguna de esas Runas\ntiene algo escrito?"
+        "es-ES": "[Laura]\nOye...\nAshe. ¿Por qué no\nestamos avanzando nada con la investigación?\n¿Me puedes decir exactamente qué estuviste\nhaciendo? ¿Acaso ninguna de esas Runas\ntiene algo escrito?"
     },
     "HhUOAQ": {
         "en-US": "[Ashe]\nWell, I think there's\nsupposed to be writing,\nbut these runes are pretty\nold. I've got to polish this\ngunk off without damaging\nany writing that's there...",
         "pt-BR": "[Ashe]\nBem, eu acho que há\nque deveria estar escrito,\nmas essas runas são bem\nantigas. Tenho que polir essa\nsem danificar a escrita\nqualquer escrita que esteja lá...",
-        "es-ES": "[Ashe]\nBueno, creo que se supone\nque deberían tener cosas escritas,\npero estas Runas ya son muy\nviejas. Tengo que remover toda\nla suciedad pegada, sin dañar\nlo que sea que tengan escrito…"
+        "es-ES": "[Ashe]\nBueno, creo que se supone\nque deberían tener cosas escritas,\npero estas Runas ya son muy\nviejas. Tengo que remover toda\nla suciedad pegada, sin dañar\nlo que sea que tengan escrito..."
     },
     "HxUOAQ": {
         "en-US": "[Laura]\nWhat do you think those\nSchwartzwald snobs are doing?\nThey must think this project\nis an excuse for them to relax\nand slack off! They can afford^FFFFFF    ^000000 to, obviously. Hmpf! Rich people!",
@@ -642,12 +642,12 @@
     "IBUOAQ": {
         "en-US": "[Laura]\nThey've got things so easy,\nwhile we're barely covering\nour research expenses!\nIn fact, we've had to cut\nso many corners, skip\nmeals and amenities...",
         "pt-BR": "[Laura]\nEles têm as coisas tão fáceis,\nenquanto nós mal estamos conseguindo cobrir\nnossas despesas de pesquisa!\nDe fato, tivemos que cortar\ntantos cortes, pular\nrefeições e comodidades...",
-        "es-ES": "[Laura]\nTodo les sale siempre tan fácil,\n¡mientras nosotras apenas podemos\ncubrir los gastos de nuestra investigación!\nNo sabes lo mucho que tuvimos\nque ahorrar. Nos saltamos\ncomidas, prescindimos de comodidades…"
+        "es-ES": "[Laura]\nTodo les sale siempre tan fácil,\n¡mientras nosotras apenas podemos\ncubrir los gastos de nuestra investigación!\nNo sabes lo mucho que tuvimos\nque ahorrar. Nos saltamos\ncomidas, prescindimos de comodidades..."
     },
     "IRUOAQ": {
         "en-US": "[Ashe]\nI know! How can we\ncarry on professional\nresearch in a shack?\nWe're literally living at\npoverty standards here...\nAre we still researchers?",
         "pt-BR": "[Ashe]\nEu sei! Como podemos\nrealizar uma pesquisa profissional\npesquisa profissional em um barraco?\nEstamos literalmente vivendo em\npadrões de pobreza aqui...\nAinda somos pesquisadores?",
-        "es-ES": "[Ashe]\n¡Lo sé! ¿Cómo podemos\nhacer una investigación\nprofesional en una choza?\nVivimos literalmente\nen la indigencia por aquí…\n¿Seguimos siquiera siendo investigadores?"
+        "es-ES": "[Ashe]\n¡Lo sé! ¿Cómo podemos\nhacer una investigación\nprofesional en una choza?\nVivimos literalmente\nen la indigencia por aquí...\n¿Seguimos siquiera siendo investigadores?"
     },
     "IhUOAQ": {
         "en-US": "[Laura]\nI know that!\nI know that already!\nS-stop bringing it up!",
@@ -682,37 +682,37 @@
     "KBUOAQ": {
         "en-US": "[Laura]\n...Only one?\nLook at me. I asked\nyou for five. I know that\none is better than nothing...\nBut it's pretty darn close. Go\nget me 4 more this instant!",
         "pt-BR": "[Laura]\n...Só um?\nOlhe para mim. Eu pedi\npedi cinco. Eu sei que\num é melhor do que nada...\nMas está bem perto disso. Vá em frente\nme trazer mais 4 agora mesmo!",
-        "es-ES": "[Laura]\n¿Trajiste… solo una?\nMírame. Te pedí \ncinco. Sé que\nuna es mejor que ninguna…\n¡Pero es casi lo mismo! ¡Ve\ny consígueme otras 4 ahora mismo!"
+        "es-ES": "[Laura]\n¿Trajiste... solo una?\nMírame. Te pedí \ncinco. Sé que\nuna es mejor que ninguna...\n¡Pero es casi lo mismo! ¡Ve\ny consígueme otras 4 ahora mismo!"
     },
     "KRUOAQ": {
         "en-US": "[Laura]\nOne, two...\nHuh? Th-that's all?!\nWhen I ask for 5 Runes\nof the Darkness, I mean\n5, not 2. Now hurry up\nand just do what I asked!",
         "pt-BR": "[Um, dois.]\nUm, dois...\nHã? Isso é tudo?!\nQuando eu peço 5 Runas\ndas Trevas, quero dizer\n5, não 2. Agora se apresse\ne faça o que eu pedi!",
-        "es-ES": "[Laura]\nUna, dos…\n¿Eh? ¡¿E-esto es todo?!\nCuando pido 5 Runas\nde la oscuridad, quiero\ndecir 5, no 2. ¡Ahora date prisa\ny haz lo que te pedí!"
+        "es-ES": "[Laura]\nUna, dos...\n¿Eh? ¡¿E-esto es todo?!\nCuando pido 5 Runas\nde la oscuridad, quiero\ndecir 5, no 2. ¡Ahora date prisa\ny haz lo que te pedí!"
     },
     "KhUOAQ": {
         "en-US": "[Laura]\nOne, two, three...\nThat's it? Don't you\nknow how to count to 5?\nGo and get me more of those\nRunes of the Darkness now!",
         "pt-BR": "[Um, dois, três.]\nUm, dois, três...\nÉ só isso? Você não sabe\nsabe contar até 5?\nVá e me traga mais dessas\nRunas da Escuridão agora!",
-        "es-ES": "[Laura]\nUna, dos, tres…\n¿Estas son todas? ¿Acaso no\nsabes contar hasta 5?\nVe y tráeme más de estas\nRunas de la oscuridad, ¡ya!"
+        "es-ES": "[Laura]\nUna, dos, tres...\n¿Estas son todas? ¿Acaso no\nsabes contar hasta 5?\nVe y tráeme más de estas\nRunas de la oscuridad, ¡ya!"
     },
     "KxUOAQ": {
         "en-US": "[Laura]\nI wonder how much progress\nthose pampered Schwartzwald\nsnobs actually made. They've\ngot the funds, so they could\nactually be further ahead\nthan we are right now...",
         "pt-BR": "[Laura]\nEu me pergunto quanto progresso\naqueles esnobes mimados do Schwartzwald\nrealmente fizeram. Eles têm\ntêm os fundos, então poderiam\nestar realmente mais à frente\ndo que nós estamos agora...",
-        "es-ES": "[Laura]\nMe pregunto cuánto progreso\nhicieron esos niñitos arrogantes y mimados deSchwarzwald\nhasta ahora. Sé que\ntienen los fondos, así que\nquizá hicieron más progreso\nque nosotros…"
+        "es-ES": "[Laura]\nMe pregunto cuánto progreso\nhicieron esos niñitos arrogantes y mimados deSchwarzwald\nhasta ahora. Sé que\ntienen los fondos, así que\nquizá hicieron más progreso\nque nosotros..."
     },
     "LBUOAQ": {
         "en-US": "[Laura]\n...Hey, you.",
         "pt-BR": "[Laura]\n...Ei, você.",
-        "es-ES": "[Laura]\n…Oye, tú."
+        "es-ES": "[Laura]\n...Oye, tú."
     },
     "LRUOAQ": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "LhUOAQ": {
         "en-US": "...Me?",
         "pt-BR": "...eu?",
-        "es-ES": "…¿Yo?"
+        "es-ES": "...¿Yo?"
     },
     "LxUOAQ": {
         "en-US": "[Laura]\nHey, hey!\nHey hey hey!",
@@ -722,7 +722,7 @@
     "MBUOAQ": {
         "en-US": "[{0}]\n...Me?",
         "pt-BR": "[{0}]\n...Eu?",
-        "es-ES": "[{0}]\n…¿Yo?"
+        "es-ES": "[{0}]\n...¿Yo?"
     },
     "MRUOAQ": {
         "en-US": "[Laura]\nWhat are you standing\naround here for? Go and\neavesdrop on those snobs\nnext door! I must know\nwhat they're really up to!",
@@ -767,7 +767,7 @@
     "ORUOAQ": {
         "en-US": "[Ashe]\nAck! Wait,\ns-stop! D-don't...!",
         "pt-BR": "[Ashe]\nAck! Espere,\ns-pare! D-não...!",
-        "es-ES": "[Ashe]\n¡Ay! Espera,\n¡n-no puede ser! ¡N-no…!"
+        "es-ES": "[Ashe]\n¡Ay! Espera,\n¡n-no puede ser! ¡N-no...!"
     },
     "OhUOAQ": {
         "en-US": "[Laura]\nAshe, you know about\nthis? What exactly\nis Ymir's Heart?",
@@ -792,27 +792,27 @@
     "PhUOAQ": {
         "en-US": "Ymir was a giant...",
         "pt-BR": "Ymir era um gigante...",
-        "es-ES": "Ymir era un gigante…"
+        "es-ES": "Ymir era un gigante..."
     },
     "PxUOAQ": {
         "en-US": "[{0}]\nIt's this...\nUm, really...",
         "pt-BR": "[{0}]\nÉ isso...\nHum, realmente...",
-        "es-ES": "[{0}]\nResulta que…\nEste…"
+        "es-ES": "[{0}]\nResulta que...\nEste..."
     },
     "QBUOAQ": {
         "en-US": "[{0}]\nEr, you see...\nA lot of people know\nabout Ymir's Heart...",
         "pt-BR": "[{0}]\nVeja bem...\nMuitas pessoas sabem\nsobre o Ymir's Heart...",
-        "es-ES": "[{0}]\nBueno, verás…\nMucha gente sabe\nacerca del Corazón de Ymir…"
+        "es-ES": "[{0}]\nBueno, verás...\nMucha gente sabe\nacerca del Corazón de Ymir..."
     },
     "QRUOAQ": {
         "en-US": "[{0}]\nYou know the expression,\n''Home is where the heart\nis?'' Er, well, Ymir's Heart...",
         "pt-BR": "[{0}]\nVocê conhece a expressão,\n''O lar é onde está o coração\nestá? Er, bem, o Coração de Ymir...",
-        "es-ES": "[{0}]\nHabrás oído el dicho\nel hogar está donde está \nel corazón. Bueno, resulta que el Corazón de Ymir…"
+        "es-ES": "[{0}]\nHabrás oído el dicho\nel hogar está donde está \nel corazón. Bueno, resulta que el Corazón de Ymir..."
     },
     "QhUOAQ": {
         "en-US": "[{0}]\nThe truth is,\nYmir was this giant...",
         "pt-BR": "[{0}]\nA verdade é que,\nYmir era esse gigante...",
-        "es-ES": "[{0}]\nLa verdad es que\nYmir era un gigante…"
+        "es-ES": "[{0}]\nLa verdad es que\nYmir era un gigante..."
     },
     "QxUOAQ": {
         "en-US": "[Ashe]\nYmir's Heart?\nThat's a clothing\nbrand, isn't it? Yeah,\nit's popular amongst\nthe trendy crowd in the\nSchwartzwald Republic.",
@@ -827,7 +827,7 @@
     "RRUOAQ": {
         "en-US": "[Laura]\nIn the meantime, would\nyou do one more favor for\nme? I'd like you to go to\nthe shrine one last time.\nI hear that it's built on\ntwo connected islands...",
         "pt-BR": "[Laura]\nNesse meio tempo, poderia\nvocê poderia fazer mais um favor para mim?\nmim? Eu gostaria que você fosse ao\no santuário uma última vez.\nOuvi dizer que ele foi construído em\nduas ilhas conectadas...",
-        "es-ES": "[Laura]\nMientras tanto, ¿podrías\nhacerme un favor\nmás? Quisiera pedirte que vayas\nal santuario una última vez.\nEscuché que fue construido sobre\ndos islas conectadas…"
+        "es-ES": "[Laura]\nMientras tanto, ¿podrías\nhacerme un favor\nmás? Quisiera pedirte que vayas\nal santuario una última vez.\nEscuché que fue construido sobre\ndos islas conectadas..."
     },
     "RhUOAQ": {
         "en-US": "[Laura]\nI want you to check the\ninner island, and see\nwhat you can find while\nI investigate the Schwartzwald\nResearch Team. I'm sorry, but\nyou're the only one I can ask.",
@@ -837,22 +837,22 @@
     "RxUOAQ": {
         "en-US": "[{0}]\nWell, have you\never heard of Ymir's...",
         "pt-BR": "[{0}]\nBem, você já\njá ouviu falar do...",
-        "es-ES": "[{0}]\nBueno, ¿oíste\nalguna vez sobre Ymir y su…"
+        "es-ES": "[{0}]\nBueno, ¿oíste\nalguna vez sobre Ymir y su..."
     },
     "SBUOAQ": {
         "en-US": "[Ashe]\n...Heart?\nYmir's Heart, right?",
         "pt-BR": "[Ashe]\n...Coração?\nO coração de Ymir, certo?",
-        "es-ES": "[Ashe]\n…Corazón?\nHablas del Corazón de Ymir, ¿verdad?"
+        "es-ES": "[Ashe]\n...Corazón?\nHablas del Corazón de Ymir, ¿verdad?"
     },
     "SRUOAQ": {
         "en-US": "[Laura]\nNothing...?\nAre you sure that's\nall you learned?",
         "pt-BR": "[Laura]\nNada...?\nTem certeza de que isso é\ntudo o que você aprendeu?",
-        "es-ES": "[Laura]\n¿Nada…?\n¿De verdad es\nlo único que descubriste?"
+        "es-ES": "[Laura]\n¿Nada...?\n¿De verdad es\nlo único que descubriste?"
     },
     "ShUOAQ": {
         "en-US": "[Laura]\nI wonder...\nWhat could be going on?\nHopefully I'll be able\nto find the answers...",
         "pt-BR": "[Laura]\nEu me pergunto...\nO que poderia estar acontecendo?\nEspero que eu consiga\nencontrar as respostas...",
-        "es-ES": "[Laura]\nMe pregunto…\n¿Qué podría estar pasando?\nEspero poder\nencontrar las respuestas…"
+        "es-ES": "[Laura]\nMe pregunto...\n¿Qué podría estar pasando?\nEspero poder\nencontrar las respuestas..."
     },
     "SxUOAQ": {
         "en-US": "Julian",
@@ -862,7 +862,7 @@
     "TBUOAQ": {
         "en-US": "[Julian]\n^333333*Sigh...*^000000",
         "pt-BR": "[Julian]\n^333333*Suspiro...*^000000",
-        "es-ES": "[Julian]\n^333333*Suspira…*^000000"
+        "es-ES": "[Julian]\n^333333*Suspira...*^000000"
     },
     "TRUOAQ": {
         "en-US": "[Julian]\nSay, are you here\nfor a job? We're looking\nfor someone that's passionate\nabout ancient history. If you\nwant to make money, then this\nthis the wrong place for you~",
@@ -872,7 +872,7 @@
     "ThUOAQ": {
         "en-US": "[Julian]\nThis is supposed to be\na collaborative excavation,\nbut the team leaders are too\nstubborn, and refuse to make\nany compromises. It's been\nincredibly frustrating...",
         "pt-BR": "[Julian]\nSupõe-se que esta seja\numa escavação colaborativa,\nmas os líderes de equipe são muito\nteimosos e se recusam a fazer\nqualquer compromisso. Isso tem sido\nincrivelmente frustrante...",
-        "es-ES": "[Julian]\nSe supone que esta es\nuna excavación en conjunto,\npero los líderes del equipo son demasiado\ntercos y se niegan a hacer\ncualquier tipo de acuerdo. Fue\nincreíblemente frustrante…"
+        "es-ES": "[Julian]\nSe supone que esta es\nuna excavación en conjunto,\npero los líderes del equipo son demasiado\ntercos y se niegan a hacer\ncualquier tipo de acuerdo. Fue\nincreíblemente frustrante..."
     },
     "TxUOAQ": {
         "en-US": "[Julian]\nBasically, each of our teams\nis conducting its own research\nfor now. Now, we need your help\nto find any relics from the Odin^FFFFFF  ^000000 Shrine. We'd appreciate it if you\nbrought as many as you can!",
@@ -887,7 +887,7 @@
     "URUOAQ": {
         "en-US": "[Alex]\nJulian...!",
         "pt-BR": "[Alex]\nJulian...!",
-        "es-ES": "[Alex]\n¡Julian…!"
+        "es-ES": "[Alex]\n¡Julian...!"
     },
     "UhUOAQ": {
         "en-US": "[Julian]\nSee what I mean?",
@@ -897,17 +897,17 @@
     "UxUOAQ": {
         "en-US": "[Julian]\nWow, you must really\nlike this kind of work,\nhuh? I didn't really expect\nthat you'd go to the shrine...",
         "pt-BR": "[Julian]\nUau, você deve realmente\ngostar desse tipo de trabalho,\nnão é? Eu realmente não esperava\nque você fosse ao santuário...",
-        "es-ES": "[Julian]\nGuau, realmente\nte gusta este tipo de trabajo,\n¿eh? No esperaba que de verdad\nfueras al santuario…"
+        "es-ES": "[Julian]\nGuau, realmente\nte gusta este tipo de trabajo,\n¿eh? No esperaba que de verdad\nfueras al santuario..."
     },
     "VBUOAQ": {
         "en-US": "[Julian]\nI'm amazed to see you\nworking so hard. You must\nlike pleasing other people,\nI guess, but try not to be too\nkind. Wouldn't want that...",
         "pt-BR": "[Julian]\nEstou impressionado em ver você\ntrabalhando tão duro. Você deve\ngostar de agradar as outras pessoas,\nAcho que sim, mas tente não ser muito\ngentil demais. Não gostaria que isso acontecesse...",
-        "es-ES": "[Julian]\nMe asombra verte\ntrabajando tan duro. Te debes\ngustar complacer a los demás,\npero trata de no ser siempre tan\namable. No sería nada bueno…"
+        "es-ES": "[Julian]\nMe asombra verte\ntrabajando tan duro. Te debes\ngustar complacer a los demás,\npero trata de no ser siempre tan\namable. No sería nada bueno..."
     },
     "VRUOAQ": {
         "en-US": "[Julian]\nGeez...\nYou're a really nice\nperson, you know that?\nJust try not to be taken\nfor a sucker, okay?",
         "pt-BR": "[Julian]\nPuxa...\nVocê é uma pessoa muito legal, sabia?\npessoa, sabia?\nApenas tente não se deixar levar\npor um otário, ok?",
-        "es-ES": "[Julian]\nCielos…\nDe verdad eres una persona\nmuy amable, ¿lo sabías?\nSolo intenta que no se\naprovechen de ti, ¿sí?"
+        "es-ES": "[Julian]\nCielos...\nDe verdad eres una persona\nmuy amable, ¿lo sabías?\nSolo intenta que no se\naprovechen de ti, ¿sí?"
     },
     "VhUOAQ": {
         "en-US": "[Julian]\nWhy are both of our\nteam leaders so bull\nheaded? Maybe it has\nsomething to do with\nthem being old and single.\nDon't tell them I said that!",
@@ -917,7 +917,7 @@
     "VxUOAQ": {
         "en-US": "[Ashe]\n......?",
         "pt-BR": "[Ashe]\n......?",
-        "es-ES": "[Ashe]\n…¿?"
+        "es-ES": "[Ashe]\n...¿?"
     },
     "WBUOAQ": {
         "en-US": "[Ashe]\n......\n.........",
@@ -947,7 +947,7 @@
     "XRUOAQ": {
         "en-US": "[Ashe]\nNow, we should be working\ntogether with the Schwaltvalt\nRepublic's Research Team, but\nour leaders aren't getting along^FFFFFF  ^000000 at all. There's just a huge\nclash of personalities...",
         "pt-BR": "[Ashe]\nAgora, deveríamos estar trabalhando\nem conjunto com a Equipe de Pesquisa da República de Schwaltvalt\nRepública de Schwaltvalt, mas\nnossos líderes não estão se dando bem^FFFFFF ^000000 de forma alguma. Há um enorme\nchoque de personalidades...",
-        "es-ES": "[Ashe]\nAhora bien, deberíamos estar trabajando\nen conjunto con la República de Schwarzwald\ny su equipo de investigación, pero\nnuestras líderes no se llevan^FFFFFF^000000 para nada bien. Es un terrible\nchoque de personalidades…"
+        "es-ES": "[Ashe]\nAhora bien, deberíamos estar trabajando\nen conjunto con la República de Schwarzwald\ny su equipo de investigación, pero\nnuestras líderes no se llevan^FFFFFF^000000 para nada bien. Es un terrible\nchoque de personalidades..."
     },
     "XhUOAQ": {
         "en-US": "[Ashe]\nIn any case, if you'd\nlike to join us in our\nefforts to uncover the\nsecrets of the past, then\nplease speak to Ms. Laurence.",
@@ -992,27 +992,27 @@
     "ZhUOAQ": {
         "en-US": "[Ashe]\nI know that Ms. Laurence\ncan be... vocally aggressive,\nbut I'm sure that she really\nappreciates all of your hard\nwork. Thank you so much for\nall of your efforts~",
         "pt-BR": "[Ashe]\nSei que a Sra. Laurence\npode ser... um pouco agressiva,\nmas tenho certeza de que ela realmente\nagradece todo o seu trabalho\nduro. Muito obrigado por\ntodos os seus esforços.",
-        "es-ES": "[Ashe]\nSé que la Srta. Laurence\npuede ser… agresiva para hablar,\npero estoy seguro de que realmente\naprecia todo tu gran\ntrabajo. Muchas gracias por\ntodo tu esfuerzo."
+        "es-ES": "[Ashe]\nSé que la Srta. Laurence\npuede ser... agresiva para hablar,\npero estoy seguro de que realmente\naprecia todo tu gran\ntrabajo. Muchas gracias por\ntodo tu esfuerzo."
     },
     "ZxUOAQ": {
         "en-US": "[Ashe]\nWhy does Ms. Laurence\nhave to be this way?\nI honestly think this\nrivalry is awfully petty...",
         "pt-BR": "[Ashe]\nPor que a Sra. Laurence\ntem que ser assim?\nSinceramente, acho que essa\nrivalidade é muito mesquinha...",
-        "es-ES": "[Ashe]\n¿Por qué la Srta. Laurence\ntiene que ser así?\nHonestamente, creo que esta\nrivalidad es puro orgullo…"
+        "es-ES": "[Ashe]\n¿Por qué la Srta. Laurence\ntiene que ser así?\nHonestamente, creo que esta\nrivalidad es puro orgullo..."
     },
     "aBUOAQ": {
         "en-US": "[Ashe]\nEhm...\nDon't worry\nabout it~",
         "pt-BR": "[Ashe]\nHã...\nNão se preocupe\ncom isso.",
-        "es-ES": "[Ashe]\nEmmm…\nNo te preocupes\npor ello."
+        "es-ES": "[Ashe]\nEmmm...\nNo te preocupes\npor ello."
     },
     "aRUOAQ": {
         "en-US": "[Ashe]\nPlease don't ask\nme about anything...\nBesides, I mean\nyou no harm~",
         "pt-BR": "[Ashe]\nPor favor, não me pergunte\nnada...\nAlém disso, eu não quero\nlhe fazer mal.",
-        "es-ES": "[Ashe]\nA mí no me preguntes\nnada, por favor…\nAdemás, no tengo intención\nde hacerte daño."
+        "es-ES": "[Ashe]\nA mí no me preguntes\nnada, por favor...\nAdemás, no tengo intención\nde hacerte daño."
     },
     "ahUOAQ": {
         "en-US": "[Laura]\nWh-what...?!\nDoes this mean\nthat everyone has\nhad me fooled this\nwhole time?! This is\ncomplete lunacy!",
         "pt-BR": "[Laura]\nO quê...?!\nIsso significa que\ntodos estavam me enganando esse\ntempo todo?! Isso é\nloucura!",
-        "es-ES": "[Laura]\n¡¿Q-qué…?!\n¡¿Acaso me estoy enterando\nde que todos me\nestuvieron engañando\nhasta ahora?! ¡Es\nuna completa locura!"
+        "es-ES": "[Laura]\n¡¿Q-qué...?!\n¡¿Acaso me estoy enterando\nde que todos me\nestuvieron engañando\nhasta ahora?! ¡Es\nuna completa locura!"
     },
     "axUOAQ": {
         "en-US": "[Alex]\nWhat are you talking\nabout, you crazy wench?\nYou saw the shrine on the\nother side! That's no secret!",
@@ -1027,7 +1027,7 @@
     "bRUOAQ": {
         "en-US": "[Alex]\nLies...!\nWhere the hell did\nyou get that idea?\nWhat makes you think\nthere are artifacts buried\naround here inside town?",
         "pt-BR": "[Alex]\nMentiras...!\nDe onde diabos\nvocê tirou essa ideia?\nO que a faz pensar\nque há artefatos enterrados\ndentro da cidade?",
-        "es-ES": "[Alex]\n¡Mentiras…!\n¿De dónde diablos\nsacaste esa idea?\n¿Qué te hace pensar\nque hay artefactos enterrados\naquí en la aldea?"
+        "es-ES": "[Alex]\n¡Mentiras...!\n¿De dónde diablos\nsacaste esa idea?\n¿Qué te hace pensar\nque hay artefactos enterrados\naquí en la aldea?"
     },
     "bhUOAQ": {
         "en-US": "[Alex]\nBesides, what makes you\nthink that my brother would\nwaste so much time doing\nsomething so ridiculous?",
@@ -1057,7 +1057,7 @@
     "cxUOAQ": {
         "en-US": "[Julian]\nWhat...?\nArgh, that's--!",
         "pt-BR": "[Julian]\nO que...?\nArgh, isso é...!",
-        "es-ES": "[Julian]\n¿Qué…?\n¡Ajjj, es--!"
+        "es-ES": "[Julian]\n¿Qué...?\n¡Ajjj, es--!"
     },
     "dBUOAQ": {
         "en-US": "[Laura]\nThat's right.\nNow tell me, what the\nhell is ''^FF0000Ymir's Heart?^000000''",
@@ -1087,7 +1087,7 @@
     "eRUOAQ": {
         "en-US": "[Alex]\nI-I don't know what you're\ntalking about! J-Julian must\nhave gotten some mission, and\nhas been carrying it out without^FFFFFF  ^000000 my consent! Don't go twisting\nthe facts, you... you thief!",
         "pt-BR": "[Alex]\nEu não sei do que você está\nfalando! O Julian deve\nter recebido alguma missão\ne a está cumprindo sem ^000000 meu consentimento! Não fique distorcendo\nos fatos, sua... sua ladra!",
-        "es-ES": "[Alex]\n¡N-no tengo idea\nde lo que estás hablando! ¡Qui-quizá Julian\ntenía alguna misión personal\ny la llevaba a cabo sin^FFFFFF^000000 mi consentimiento! ¡No distorsiones\nlos hechos, tú… ¡ladrona!"
+        "es-ES": "[Alex]\n¡N-no tengo idea\nde lo que estás hablando! ¡Qui-quizá Julian\ntenía alguna misión personal\ny la llevaba a cabo sin^FFFFFF^000000 mi consentimiento! ¡No distorsiones\nlos hechos, tú... ¡ladrona!"
     },
     "ehUOAQ": {
         "en-US": "[Laura]\nThief...?!\nLook who's\ntalking!",
@@ -1117,22 +1117,22 @@
     "fxUOAQ": {
         "en-US": "[Ashe]\nOh... Oh, dear!",
         "pt-BR": "[Ashe]\nOh... Oh, meu Deus!",
-        "es-ES": "[Ashe]\nAh… ¡Oh, vaya!"
+        "es-ES": "[Ashe]\nAh... ¡Oh, vaya!"
     },
     "gBUOAQ": {
         "en-US": "[Laura]\nHah...!\nDid you...\nJust hit me?",
         "pt-BR": "[Laura]\nAi...!\nVocê...\nMe bateu?",
-        "es-ES": "[Laura]\n¡Ja!\n¿Te atreves…\na golpearme?"
+        "es-ES": "[Laura]\n¡Ja!\n¿Te atreves...\na golpearme?"
     },
     "gRUOAQ": {
         "en-US": "[Alex]\nYou crazy...!",
         "pt-BR": "[Alex]\nVocê é doida!",
-        "es-ES": "[Alex]\n¡Eres una maldita…!"
+        "es-ES": "[Alex]\n¡Eres una maldita...!"
     },
     "ghUOAQ": {
         "en-US": "[Ashe]\nThis...\nThis doesn't\nlook good at all!",
         "pt-BR": "[Ashe]\nIsso...\nIsso não\nparece nada bom!",
-        "es-ES": "[Ashe]\nEsto…\n¡Esto no\nse ve nada bien!"
+        "es-ES": "[Ashe]\nEsto...\n¡Esto no\nse ve nada bien!"
     },
     "gxUOAQ": {
         "en-US": "^3355FFAshe picked up\nthe file that Laura\ntossed away.^000000",
@@ -1142,7 +1142,7 @@
     "hBUOAQ": {
         "en-US": "[Ashe]\nUm, I've got a favor\nof my own to ask you.\nWould you please bring\nthis file to Morroc? Just\nbring it to my comrade\nover at the South Gate.",
         "pt-BR": "[Ashe]\nHum, eu preciso que você me faça um favor.\nVocê poderia levar\nesse arquivo para Morroc? Apenas\nleve-o até meu camarada\nno Portão Sul.",
-        "es-ES": "[Ashe]\nEste… Tengo un favor\npersonal que pedirte.\n¿Podrías llevar\nesta carpeta a Morroc? Solo\nllévasela a mi colega\nque está en la puerta sur."
+        "es-ES": "[Ashe]\nEste... Tengo un favor\npersonal que pedirte.\n¿Podrías llevar\nesta carpeta a Morroc? Solo\nllévasela a mi colega\nque está en la puerta sur."
     },
     "hRUOAQ": {
         "en-US": "[Ashe]\nI'm sorry, but we don't\nhave much time left. I guess\nthis is the last time we will\never see each other, so thank\nyou for all your help, friend.",
@@ -1162,17 +1162,17 @@
     "iBUOAQ": {
         "en-US": "[Julian]\nI...\nI don't know\nwhat I should do!",
         "pt-BR": "[Julian]\nEu...\nEu não sei\no que devo fazer!",
-        "es-ES": "[Julian]\nYo…\n¡No sé \nqué debería hacer!"
+        "es-ES": "[Julian]\nYo...\n¡No sé \nqué debería hacer!"
     },
     "iRUOAQ": {
         "en-US": "[Julian]\nI've stopped caring\nwhether they fight or\nnot... I'm not getting\ninvolved! If you want,\nyou can try to stop them...",
         "pt-BR": "[Julian]\nEu parei de me importar\nse eles brigam ou\nnão... Não vou ficar me envolvendo! Se você quiser,\npode tentar impedi-los...",
-        "es-ES": "[Julian]\nYa no me importa\nsi pelean o\nno… ¡No me voy a ver\nenvuelto en esto! Si lo deseas,\nsiéntete libre de intentar separarlas…"
+        "es-ES": "[Julian]\nYa no me importa\nsi pelean o\nno... ¡No me voy a ver\nenvuelto en esto! Si lo deseas,\nsiéntete libre de intentar separarlas..."
     },
     "ihUOAQ": {
         "en-US": "[???]\n...Silence.",
         "pt-BR": "[???]\n...Silêncio.",
-        "es-ES": "[¿¿¿???]\n…Silencio."
+        "es-ES": "[¿¿¿???]\n...Silencio."
     },
     "ixUOAQ": {
         "en-US": "[???]\nDon't turn, don't\nflinch, don't even\nbreathe. You're being\nfollowed. Hold on a sec\nwhile I take care of him.",
@@ -1222,12 +1222,12 @@
     "lBUOAQ": {
         "en-US": "[???]\nEverything you saw and\nheard is all true. The ghost\nof Giantes still remains within\nthe Odin Shrine. Rekenber wants\nit for their ends, as well as\nArunafeltz. It's complicated...",
         "pt-BR": "[???]\nTudo o que você viu e\nouviu é verdade. O fantasma\nde Giantes ainda permanece dentro do\nSantuário de Odin. A Rekenber o quer\npara seus fins, assim como\nArunafeltz. É complicado...",
-        "es-ES": "[¿¿¿???]\nTodo lo que viste y\nescuchaste es verdad. El fantasma\nde Giantes sigue dentro\ndel santuario de Odín. Rekenber lo quiere\nusar para sus propios fines, tal como\nArunafeltz. Es un asunto delicado…"
+        "es-ES": "[¿¿¿???]\nTodo lo que viste y\nescuchaste es verdad. El fantasma\nde Giantes sigue dentro\ndel santuario de Odín. Rekenber lo quiere\nusar para sus propios fines, tal como\nArunafeltz. Es un asunto delicado..."
     },
     "lRUOAQ": {
         "en-US": "[???]\nThe people of Rune-Midgard\nand Schwartzwald Republic still\ndon't know what's going on.\nA lot of people are just being\nused... Like that one lady,\nthat archaeologist, Laura.",
         "pt-BR": "[???]\nO povo de Rune-Midgard\ne da República de Schwartzwald ainda\nnão sabem o que está acontecendo.\nMuitas pessoas estão apenas sendo\nusadas... Como aquela mulher,\na arqueóloga, Laura.",
-        "es-ES": "[¿¿¿???]\nLa gente de Rune-Midgard\ny la República de Schwarzwald\naún no saben lo que está pasando.\nMucha gente está siendo\nusada… Como esa dama,\nLaura, la arqueóloga."
+        "es-ES": "[¿¿¿???]\nLa gente de Rune-Midgard\ny la República de Schwarzwald\naún no saben lo que está pasando.\nMucha gente está siendo\nusada... Como esa dama,\nLaura, la arqueóloga."
     },
     "lhUOAQ": {
         "en-US": "[???]\nShe'll be fine. If you're that\ninterested in archaeology,\nyou'll be happy to know that\nshe'll run the excavation the\nway she wants to. Rekenber and Arunafeltz should leave her alone.",
@@ -1242,7 +1242,7 @@
     "mBUOAQ": {
         "en-US": "[???]\n...Thanks for\nthe file. Take care.\nAlways watch your back.",
         "pt-BR": "[???]\n...Obrigado pelo\narquivo. Cuide-se.\nSempre tome cuidado.",
-        "es-ES": "[¿¿¿???]\n…Gracias por la carpeta. Buena suerte.\nNunca descuides tu espalda."
+        "es-ES": "[¿¿¿???]\n...Gracias por la carpeta. Buena suerte.\nNunca descuides tu espalda."
     },
     "mRUOAQ": {
         "en-US": "Boatman",
@@ -1287,7 +1287,7 @@
     "oRUOAQ": {
         "en-US": "I still need to look around...",
         "pt-BR": "Ainda preciso dar mais uma olhada...",
-        "es-ES": "Aún tengo cosas que hacer…"
+        "es-ES": "Aún tengo cosas que hacer..."
     },
     "ohUOAQ": {
         "en-US": "Yes, take me back to Hugel.",
@@ -1372,7 +1372,7 @@
     "shUOAQ": {
         "en-US": "[{0}]\nWhat...?\nWhat was\nthat noise?!",
         "pt-BR": "[{0}]\nO que...?\nO que foi\nesse barulho?!",
-        "es-ES": "[{0}]\n¿Qué…?\n¿Qué fue\nese ruido?!"
+        "es-ES": "[{0}]\n¿Qué...?\n¿Qué fue\nese ruido?!"
     },
     "sxUOAQ": {
         "en-US": "[{0}]\nWa...waaaahhhh!",
@@ -1412,17 +1412,17 @@
     "uhUOAQ": {
         "en-US": "[Alex]\nI understand why you wanted\nto follow me here, but there's\nno way to confirm its existence\nin this area without digging\nit up. Plus, I'm still worried\nabout the ''Shinokas'' issue...",
         "pt-BR": "[Alex]\nEu entendo por que você quis\nme seguir até aqui, mas não há\nnenhuma maneira de confirmar sua existência\nnesta área sem escavar.\nAlém disso, ainda estou preocupado\ncom a questão dos ''Shinokas''...",
-        "es-ES": "[Alex]\nAhora entiendo por qué querías\nseguirme hasta aquí, pero no tenemos\nforma de confirmar que sí existe\nen esta zona sin cavarla\npor completo. Además, todavía me preocupa\nese asunto del tal Shinokas…"
+        "es-ES": "[Alex]\nAhora entiendo por qué querías\nseguirme hasta aquí, pero no tenemos\nforma de confirmar que sí existe\nen esta zona sin cavarla\npor completo. Además, todavía me preocupa\nese asunto del tal Shinokas..."
     },
     "uxUOAQ": {
         "en-US": "[{0}]\n...Shinokas?",
         "pt-BR": "[{0}]\n...Shinokas?",
-        "es-ES": "[{0}]\n¿…Shinokas?"
+        "es-ES": "[{0}]\n¿...Shinokas?"
     },
     "vBUOAQ": {
         "en-US": "[Alex]\nWe couldn't find\nYmir's Heart inside\nthe village, either...\nWhy don't you just--",
         "pt-BR": "[Alex]\nTambém não conseguimos encontrar o\nCoração de Ymir\nna vila.\nPor que você não...",
-        "es-ES": "[Alex]\nNo pudimos encontrar\nel Corazón de Ymir en\nla aldea tampoco…\n¿Por qué no mejor te--"
+        "es-ES": "[Alex]\nNo pudimos encontrar\nel Corazón de Ymir en\nla aldea tampoco...\n¿Por qué no mejor te--"
     },
     "vRUOAQ": {
         "en-US": "[Julian]\nYeah, you think you can do\neverything yourself since\nyou're so much better than\nme, huh?! I'm the black sheep\nof the family, and father loves\nyou more than me, right?!",
@@ -1437,12 +1437,12 @@
     "vxUOAQ": {
         "en-US": "[Julian]\nWha--?!\nWhy... I...!",
         "pt-BR": "[Julian]\nO que...?!\nPor que... I...!",
-        "es-ES": "[Julian]\n¡¿Qué--?!\n¿Por qué… ¡Yo…!"
+        "es-ES": "[Julian]\n¡¿Qué--?!\n¿Por qué... ¡Yo...!"
     },
     "wBUOAQ": {
         "en-US": "[Alex]\nGeez, you're impatient.\nListen, your ambitions\ncan ruin everything. You're\nnot planning on defying me,\nare you? Because if you are...",
         "pt-BR": "[Alex]\nPuxa, você é impaciente.\nOuça, suas ambições\npodem arruinar tudo. Você não está\nplanejando me desafiar,\nestá? Porque se estiver...",
-        "es-ES": "[Alex]\nCielos, eres tan impaciente.\nEscucha, tu ambición\npodría arruinarlo todo. No\nplaneas desafiar mi autoridad,\n¿verdad? Porque si lo haces…"
+        "es-ES": "[Alex]\nCielos, eres tan impaciente.\nEscucha, tu ambición\npodría arruinarlo todo. No\nplaneas desafiar mi autoridad,\n¿verdad? Porque si lo haces..."
     },
     "wRUOAQ": {
         "en-US": "[Julian]\nYou can never understand\nwhy I want to find Ymir's\nHeat! I'm not going to give\nup looking for it, so just\nleave me alone!",
@@ -1457,7 +1457,7 @@
     "wxUOAQ": {
         "en-US": "[Julian]\nYou always...!\n...............................\nWait... You hear that?",
         "pt-BR": "[Julian]\nVocê sempre...!\n...............................\nEspere... Você ouviu isso?",
-        "es-ES": "[Julian]\n¡Tú siempre…!\n...............................\nEspera… ¿Escuchaste eso?"
+        "es-ES": "[Julian]\n¡Tú siempre...!\n...............................\nEspera... ¿Escuchaste eso?"
     },
     "xBUOAQ": {
         "en-US": "[Alex]\nWe'll continue this\nconversation later.",

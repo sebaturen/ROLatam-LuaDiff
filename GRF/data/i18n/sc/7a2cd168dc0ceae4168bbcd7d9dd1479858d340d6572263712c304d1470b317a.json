@@ -107,7 +107,7 @@
     "NSvBBw": {
         "en-US": "I arrived first...",
         "pt-BR": "Cheguei primeiro...",
-        "es-ES": "Llegué primero…"
+        "es-ES": "Llegué primero..."
     },
     "NivBBw": {
         "en-US": "[Advance Party]\nI sent someone to bring the person in charge, but it seems they got lost along the way. We are the Advance Party, here to explore and secure this area—as you can see, these people are with me.",
@@ -152,7 +152,7 @@
     "PivBBw": {
         "en-US": "[Advance Party]\nThese are the ^0000CDpeople who used to work here^000000. But as you can see, they're not even armed...",
         "pt-BR": "[Membro da Rebelião]\nEssas pessoas ^0000CDcostumam trabalhar aqui^000000. Como você pode ver, eles estão desarmados...",
-        "es-ES": "[Miembro de la Rebelión]\nEstas personas ^0000CDsuelen trabajar aquí^000000. Como puedes ver, están desarmadas…"
+        "es-ES": "[Miembro de la Rebelión]\nEstas personas ^0000CDsuelen trabajar aquí^000000. Como puedes ver, están desarmadas..."
     },
     "PyvBBw": {
         "en-US": "[Advance Party]\nThey really don’t know anything. They were just odd-job workers doing menial tasks at the ^0000CDlaboratory^000000, but when we tried to enter, they blocked our way.",
@@ -312,7 +312,7 @@
     "XivBBw": {
         "en-US": "Wait, now that I think about it, where did everyone go?",
         "pt-BR": "É mesmo... e cadê eles?",
-        "es-ES": "Es verdad… ¿y dónde están?"
+        "es-ES": "Es verdad... ¿y dónde están?"
     },
     "XyvBBw": {
         "en-US": "They'll probably show up when it's time to eat.",
@@ -322,7 +322,7 @@
     "YCvBBw": {
         "en-US": "[Advance Party]\nJudging by their appearance, these people were in charge of transporting materials, working on farm chores, cleaning, doing laundry, and there are also some low-level Researchers who don’t seem to know anything.",
         "pt-BR": "[Membro da Rebelião]\nJulgando pela aparência, essas pessoas trabalham em plantação, limpeza, lavagem de roupa, manutenção... são de baixa instrução.",
-        "es-ES": "[Miembro de la Rebelión]\nPor su apariencia, estas personas trabajan en plantaciones, limpieza, lavado de ropa, mantenimiento… tienen poca educación."
+        "es-ES": "[Miembro de la Rebelión]\nPor su apariencia, estas personas trabajan en plantaciones, limpieza, lavado de ropa, mantenimiento... tienen poca educación."
     },
     "YSvBBw": {
         "en-US": "[Advance Party]\nJudging by the signs of hastily packed belongings, it seems that the people and supplies left behind here are probably those considered expendable.",
@@ -412,7 +412,7 @@
     "civBBw": {
         "en-US": "[Advance Party]\nShall we just push forward?",
         "pt-BR": "[Membro da Rebelião]\nPerdi a paciência... eu vou passar por cima.",
-        "es-ES": "[Miembro de la Rebelión]\nPerdí la paciencia… voy a pasar por encima."
+        "es-ES": "[Miembro de la Rebelión]\nPerdí la paciencia... voy a pasar por encima."
     },
     "cyvBBw": {
         "en-US": "Just come here! I’ll show you!! Seriously!!",
@@ -447,7 +447,7 @@
     "eSvBBw": {
         "en-US": "Wait, did I just hear something? Bu, bu... what was that?",
         "pt-BR": "Espere! Falaram...Vice?",
-        "es-ES": "¡Espera! ¿Dijeron… vice?"
+        "es-ES": "¡Espera! ¿Dijeron... vice?"
     },
     "eivBBw": {
         "en-US": "[Advance Party]\nThey’re just Employees who help out at the lab but don’t know anything. \nThey won’t believe us when we tell them this place was an illegal research facility, and now they’re blocking our way.",
@@ -532,7 +532,7 @@
     "iivBBw": {
         "en-US": "[Worker]\nHey, what do you think you’re doing? \nWho said you could just barge in here? \nNot leaving? \nGet out, now!",
         "pt-BR": "[Trabalhador]\nMas o que...? Você não deveria estar aqui! Cai fora!!",
-        "es-ES": "[Trabajador]\n¿Pero qué…? ¡No deberías estar aquí! ¡Lárgate!"
+        "es-ES": "[Trabajador]\n¿Pero qué...? ¡No deberías estar aquí! ¡Lárgate!"
     },
     "iyvBBw": {
         "en-US": "[Worker]\nI wonder if they don’t get tired just standing there all the time. \nEven when I ask if they need anything, they just say no. \nThey’ve got monster stamina.",
@@ -647,7 +647,7 @@
     "oSvBBw": {
         "en-US": "Can't you tell just by looking...?",
         "pt-BR": "Me cortei descascando fruta...",
-        "es-ES": "Me corté pelando fruta…"
+        "es-ES": "Me corté pelando fruta..."
     },
     "oivBBw": {
         "en-US": "[Kaya]\nWho is the person next to you?",
@@ -672,12 +672,12 @@
     "pivBBw": {
         "en-US": "[Worker]\nHmm... Renewable energy, you say?",
         "pt-BR": "[Trabalhador]\nEr... energia renovável?",
-        "es-ES": "[Trabajador]\nEh… ¿energía renovable?"
+        "es-ES": "[Trabajador]\nEh... ¿energía renovable?"
     },
     "pyvBBw": {
         "en-US": "Hey, that's not right.",
         "pt-BR": "Ah, não é...",
-        "es-ES": "Ah, no es…"
+        "es-ES": "Ah, no es..."
     },
     "qCvBBw": {
         "en-US": "[Worker]\nI know! Isn’t it agricultural research?",
@@ -827,7 +827,7 @@
     "xSvBBw": {
         "en-US": "[Ace]\nThis is terrible. \nThey don't believe it at all.",
         "pt-BR": "[Ace]\nNossa... eles não estão acreditando no vice-presidente.",
-        "es-ES": "[Ace]\nVaya… no le están creyendo al vicepresidente."
+        "es-ES": "[Ace]\nVaya... no le están creyendo al vicepresidente."
     },
     "xivBBw": {
         "en-US": "[Advance Party]\nNo, just how did the Researcher manage to win people over so completely in just a few years?",
@@ -962,7 +962,7 @@
     "4CvBBw": {
         "en-US": "[Tess]\nHmm... We won't reach a conclusion like this. \nLet's take a moment to come up with a plan.",
         "pt-BR": "[Tess]\nHmm... não vou chegar a uma conclusão assim. Vamos pensar em outras maneiras.",
-        "es-ES": "[Tess]\nHmm… no voy a sacar una conclusión así. Pensemos en otras formas."
+        "es-ES": "[Tess]\nHmm... no voy a sacar una conclusión así. Pensemos en otras formas."
     },
     "4SvBBw": {
         "en-US": "But doesn't it seem a bit quiet?",
@@ -1207,7 +1207,7 @@
     "ESzBBw": {
         "en-US": "[Eliumina]\nGrrr...",
         "pt-BR": "[Elyumina]\nGrrr...",
-        "es-ES": "[Elyumina]\nGrrr…"
+        "es-ES": "[Elyumina]\nGrrr..."
     },
     "EizBBw": {
         "en-US": "Well done!",
@@ -1222,7 +1222,7 @@
     "FCzBBw": {
         "en-US": "[Eliumina]\nW-what? \nWhat's going on? \nWhy aren't my attacks... working...?",
         "pt-BR": "[Elyumina]\nMas o quê...? Por que meu ataque... não funciona...?",
-        "es-ES": "[Elyumina]\n¿Pero qué…? ¿Por qué mi ataque… no funciona…?"
+        "es-ES": "[Elyumina]\n¿Pero qué...? ¿Por qué mi ataque... no funciona...?"
     },
     "FSzBBw": {
         "en-US": "Now!",
@@ -1282,7 +1282,7 @@
     "ICzBBw": {
         "en-US": "[Kaya]\nI'm fine, but the others...",
         "pt-BR": "[Kaya]\nEu estou bem, mas outras pessoas...",
-        "es-ES": "[Kaya]\nYo estoy bien, pero otras personas…"
+        "es-ES": "[Kaya]\nYo estoy bien, pero otras personas..."
     },
     "ISzBBw": {
         "en-US": "Did you go? Are you gone?",
@@ -1292,12 +1292,12 @@
     "IizBBw": {
         "en-US": "[Worker]\nUgh... Ugh...",
         "pt-BR": "[Trabalhador]\nAii... aaaaah...",
-        "es-ES": "[Trabajador]\nAyy… aaaaah…"
+        "es-ES": "[Trabajador]\nAyy... aaaaah..."
     },
     "IyzBBw": {
         "en-US": "Ugh... Ugh...",
         "pt-BR": "Aii... aaaaah...",
-        "es-ES": "Ayy… aaaaah…"
+        "es-ES": "Ayy... aaaaah..."
     },
     "JCzBBw": {
         "en-US": "Ashinta, are you okay?",
@@ -1307,17 +1307,17 @@
     "JSzBBw": {
         "en-US": "[Worker]\nAh... Aaah!! I'm dying... Aaaaargh!!!",
         "pt-BR": "[Trabalhador]\nAh..! Estou morrendo. ah!!!",
-        "es-ES": "[Trabajador]\nAh… ¡me estoy muriendo! ¡Ah!"
+        "es-ES": "[Trabajador]\nAh... ¡me estoy muriendo! ¡Ah!"
     },
     "JizBBw": {
         "en-US": "Ah... Aaah!! I'm dying... Aaaaargh!!!",
         "pt-BR": "Ah..! Estou morrendo. ah!!!",
-        "es-ES": "Ah… ¡me estoy muriendo! ¡Ah!"
+        "es-ES": "Ah... ¡me estoy muriendo! ¡Ah!"
     },
     "JyzBBw": {
         "en-US": "Oh dear, what should I do...",
         "pt-BR": "Oh não...",
-        "es-ES": "Oh no…"
+        "es-ES": "Oh no..."
     },
     "KCzBBw": {
         "en-US": "[Kaya]\nFirst, we need to move people to a safe place.",
@@ -1452,7 +1452,7 @@
     "QizBBw": {
         "en-US": "[Tommy]\nThis place is really nice. It's quiet, and the air is fresh. \nI can't wait to finish work and relax...",
         "pt-BR": "[Tommy]\nÉ um lugar tão agradável aqui. É calmo e o ar é fresco. Espero que eles queiram descansar aqui depois do trabalho...",
-        "es-ES": "[Tommy]\nEs un lugar muy agradable. Es tranquilo y el aire es fresco. Ojalá quieran descansar aquí después del trabajo…"
+        "es-ES": "[Tommy]\nEs un lugar muy agradable. Es tranquilo y el aire es fresco. Ojalá quieran descansar aquí después del trabajo..."
     },
     "QyzBBw": {
         "en-US": "[Tommy]\nWhat is that huge building up ahead? \nI've never seen anything like it before.",
@@ -1467,12 +1467,12 @@
     "RSzBBw": {
         "en-US": "Oh no... I'm dying. Oh dear...",
         "pt-BR": "Oh... eu vou morrer. Agh...",
-        "es-ES": "Oh… voy a morir. Agh…"
+        "es-ES": "Oh... voy a morir. Agh..."
     },
     "RizBBw": {
         "en-US": "Ugh... Ngh...",
         "pt-BR": "Urg... Ah...",
-        "es-ES": "Urg… Ah…"
+        "es-ES": "Urg... Ah..."
     },
     "RyzBBw": {
         "en-US": "[Kaya]\nI never expected them to possess such strength. \nJust what kind of research were they conducting?",
@@ -1502,7 +1502,7 @@
     "TCzBBw": {
         "en-US": "Oh my, this is so frightening. Please, save me. Please, I beg you, spare my life.",
         "pt-BR": "O que tá acontendo, meu Deus...?",
-        "es-ES": "¿Qué está pasando, Dios mío…?"
+        "es-ES": "¿Qué está pasando, Dios mío...?"
     },
     "TSzBBw": {
         "en-US": "[Denny]\nAttacking me by surprise? How cowardly. I won't let you get away with this!",
@@ -1577,17 +1577,17 @@
     "WyzBBw": {
         "en-US": "[Worker]\nI can't believe it... Chief Researcher attacked us.",
         "pt-BR": "[Trabalhador]\nEu não acredito... A pesquisadora-chefe nos atacou.",
-        "es-ES": "[Trabajador]\nNo lo puedo creer… la investigadora jefe nos atacó."
+        "es-ES": "[Trabajador]\nNo lo puedo creer... la investigadora jefe nos atacó."
     },
     "XCzBBw": {
         "en-US": "I never expected this...",
         "pt-BR": "Inacreditável...",
-        "es-ES": "Increíble…"
+        "es-ES": "Increíble..."
     },
     "XSzBBw": {
         "en-US": "[Worker]\nHe was someone who never complained and just quietly made things...",
         "pt-BR": "[Trabalhador]\nEla sequer gritava com as pessoas... ficava ocupada criando coisas.",
-        "es-ES": "[Trabajador]\nNi siquiera le gritaba a la gente… estaba ocupada creando cosas."
+        "es-ES": "[Trabajador]\nNi siquiera le gritaba a la gente... estaba ocupada creando cosas."
     },
     "XizBBw": {
         "en-US": "You can't judge a person just by their appearance.",
@@ -1597,12 +1597,12 @@
     "XyzBBw": {
         "en-US": "[Worker]\nAre you really going to... us?",
         "pt-BR": "[Trabalhador]\nRealmente nós... fomos atacados por ela...",
-        "es-ES": "[Trabajador]\nDe verdad… ella nos atacó…"
+        "es-ES": "[Trabajador]\nDe verdad... ella nos atacó..."
     },
     "YCzBBw": {
         "en-US": "To think I’ve been with someone like that all this time... It’s so scary, I just can’t.",
         "pt-BR": "Nós trabalhamos para um monstro... estou com medo...",
-        "es-ES": "Trabajamos para un monstruo… tengo miedo…"
+        "es-ES": "Trabajamos para un monstruo... tengo miedo..."
     },
     "YSzBBw": {
         "en-US": "[Worker]\nAh, don’t say things like that.",
@@ -1627,12 +1627,12 @@
     "ZSzBBw": {
         "en-US": "[Worker]\nNo, that's not it. I just meant you shouldn't say things like that because it makes me sad. Ah, ugh, my whole body aches...",
         "pt-BR": "[Trabalhador]\nNão, não é isso, é que quanto mais eu ouço vocês falando... mais triste eu fico pensando na situação...",
-        "es-ES": "[Trabajador]\nNo, no es eso… es que cuanto más los escucho hablar… más triste me pongo al pensar en la situación…"
+        "es-ES": "[Trabajador]\nNo, no es eso... es que cuanto más los escucho hablar... más triste me pongo al pensar en la situación..."
     },
     "ZizBBw": {
         "en-US": "Do you think I'm anything special?",
         "pt-BR": "Eu também fico...",
-        "es-ES": "Yo también…"
+        "es-ES": "Yo también..."
     },
     "ZyzBBw": {
         "en-US": "[Ace]\nI’ll check the surroundings, so please stay here.",
@@ -1727,7 +1727,7 @@
     "eSzBBw": {
         "en-US": "[Worker]\nYes, I suppose that's possible. \nAll these different machines are tangled together and moving in such strange ways. \nWhew...",
         "pt-BR": "[Trabalhador]\nSim, talvez sejam ilegais. Eu vi umas máquinas que se movem de um jeito bizarro...",
-        "es-ES": "[Trabajador]\nSí, tal vez eran ilegales. Vi unas máquinas que se movían de forma extraña…"
+        "es-ES": "[Trabajador]\nSí, tal vez eran ilegales. Vi unas máquinas que se movían de forma extraña..."
     },
     "eizBBw": {
         "en-US": "Why are you only telling me that now?",
@@ -1807,7 +1807,7 @@
     "iSzBBw": {
         "en-US": "[Ace]\nVice President, excuse me... I have something to report.",
         "pt-BR": "[Ace]\nVice-presidente, espere... eu tenho algo para relatar a você.",
-        "es-ES": "[Ace]\nVicepresidente, espere… tengo algo que informarle."
+        "es-ES": "[Ace]\nVicepresidente, espere... tengo algo que informarle."
     },
     "iizBBw": {
         "en-US": "[Kaya]\nWhat is it?",
@@ -2312,7 +2312,7 @@
     "7izBBw": {
         "en-US": "[Ace]\nIt's something that can't be undone now... \nBut in any case, I'll do my best with what I can.",
         "pt-BR": "[Ace]\nO que passou, passou... Agora, estou tentando fazer o melhor que posso para que isso não se repita.",
-        "es-ES": "[Ace]\nLo que pasó, pasó… Ahora estoy tratando de hacer lo mejor que puedo para que no vuelva a suceder."
+        "es-ES": "[Ace]\nLo que pasó, pasó... Ahora estoy tratando de hacer lo mejor que puedo para que no vuelva a suceder."
     },
     "7yzBBw": {
         "en-US": "[Ace]\nIt won’t be easy, but please put ^0000CD 20 of the test subjects known as Dolor ^000000 to rest and bring me ^0000CD 10 Identification Bracelets ^000000 for Test Subjects. \nPlease be careful out there!",

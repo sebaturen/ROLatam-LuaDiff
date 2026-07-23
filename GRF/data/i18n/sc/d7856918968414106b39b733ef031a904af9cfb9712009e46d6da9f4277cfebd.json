@@ -32,12 +32,12 @@
     "5lqlBg": {
         "en-US": "[Parmy Gianino]\nWelcome to the\nAlchemist Unio--\nI-Impossible! How c-can\nsomething like this happen?",
         "pt-BR": "[Parmy Gianino]\nBem-vindo. Esta é a Guilda dos Alquimistas...\n...hã? De jeito nenhum, você é...?",
-        "es-ES": "[Parmy Gianino]\nTe doy la bienvenida\nal gremio de Alquimistas…\n¡I-imposible! ¿Cómo p-puede\nocurrir algo así?"
+        "es-ES": "[Parmy Gianino]\nTe doy la bienvenida\nal gremio de Alquimistas...\n¡I-imposible! ¿Cómo p-puede\nocurrir algo así?"
     },
     "51qlBg": {
         "en-US": "[Parmy Gianino]\nWait, wait...\nI'm sorry. I was confused,\nthat's all. You look just like\nsomeone I used to know. \nStill, I get this weird\nfeeling about you...",
         "pt-BR": "[Parmy Gianino]\n...não, não pode ser. Você parece\nalguém que conheci.\nDevo estar enganada...",
-        "es-ES": "[Parmy Gianino]\nUn momento…\nLo siento. Me confundí.\nEso es todo. Te pareces a\nalguien que conocí alguna vez. \nAun así, tengo una sensación\nextraña sobre ti…"
+        "es-ES": "[Parmy Gianino]\nUn momento...\nLo siento. Me confundí.\nEso es todo. Te pareces a\nalguien que conocí alguna vez. \nAun así, tengo una sensación\nextraña sobre ti..."
     },
     "6FqlBg": {
         "en-US": "[Parmy Gianino]\nWelcome, {0}.\nThe Alchemist Union\nis busy today, like always.",
@@ -52,7 +52,7 @@
     "6lqlBg": {
         "en-US": "[Parmy Gianino]\nEveryone is hoping that the biotechnological studies will yield positive results. Speaking of which, I wonder how the Alchemists working on artificial life are doing...",
         "pt-BR": "[Parmy Gianino]\nTodo mundo anda enlouquecido por essa nova e complicada pesquisa.\nEstamos pesquisando Biotecnologia.",
-        "es-ES": "[Parmy Gianino]\nTodos esperan que los estudios biotecnológicos arrojen resultados positivos. Hablando de eso, me pregunto cómo les irá a los Alquimistas que trabajan con la vida artificial…"
+        "es-ES": "[Parmy Gianino]\nTodos esperan que los estudios biotecnológicos arrojen resultados positivos. Hablando de eso, me pregunto cómo les irá a los Alquimistas que trabajan con la vida artificial..."
     },
     "61qlBg": {
         "en-US": "[Parmy Gianino]\nWelcome to the\nAlchemist Union.\nWe are recruiting\ntalented people\nwith novel ideas.",
@@ -157,7 +157,7 @@
     "/1qlBg": {
         "en-US": "[Parmy Gianino]\nHmmm...\nJust a moment.\nI'm sorry to say that\nyou're not experienced\nenough as a Merchant to\njoin us right now.",
         "pt-BR": "[Parmy Gianino]\nHmmm...",
-        "es-ES": "[Parmy Gianino]\nMmmm…\nUn momento.\nLamento decirte que\nno tienes experiencia\nsuficiente como Comerciante para\nunirte a nosotros en este momento."
+        "es-ES": "[Parmy Gianino]\nMmmm...\nUn momento.\nLamento decirte que\nno tienes experiencia\nsuficiente como Comerciante para\nunirte a nosotros en este momento."
     },
     "AFulBg": {
         "en-US": "[Parmy Gianino]\nYou must be at least\n^551A8BJob Level 40^000000 to become\nan Alchemist. Come back\nlater when you meet the\nJob Level requirement, okay?",
@@ -177,7 +177,7 @@
     "A1ulBg": {
         "en-US": "[Parmy Gianino]\nNow...\nPlease sign\nthe application.",
         "pt-BR": "[Parmy Gianino]\nAgora assine o papel...",
-        "es-ES": "[Parmy Gianino]\nAhora…\nFirma\nla solicitud."
+        "es-ES": "[Parmy Gianino]\nAhora...\nFirma\nla solicitud."
     },
     "BFulBg": {
         "en-US": "[Parmy Gianino]\nGood, good. Now, if you have\nthe Zeny for your application fee ready, I will tell you which items you will need to bring. Now, pay attention.",
@@ -222,7 +222,7 @@
     "DFulBg": {
         "en-US": "[Parmy Gianino]\nUmm...\nPlease let me know\nif you need anything.",
         "pt-BR": "[Parmy Gianino]\nVocê tem algo a dizer?",
-        "es-ES": "[Parmy Gianino]\nMmm…\nAvísame\nsi necesitas algo."
+        "es-ES": "[Parmy Gianino]\nMmm...\nAvísame\nsi necesitas algo."
     },
     "DVulBg": {
         "en-US": "[Parmy Gianino]\nWell now~!\nYou've brought an\nOld Magic Book and\na Hammer of Blacksmith.\nWe'll put these items\nto good use.",
@@ -237,7 +237,7 @@
     "D1ulBg": {
         "en-US": "[Parmy Gianino]\nBut before all of that, you need to speak to Raspuchin. I'm not really sure what you'll be talking about with him...",
         "pt-BR": "[Parmy Gianino]\nHmm... Antes disso, Rasputin está chamando você.\nNão, eu não sei porque...",
-        "es-ES": "[Parmy Gianino]\nPero, antes de todo eso, tienes que hablar con Raspuchin. No sé muy bien de qué hablarás con él…"
+        "es-ES": "[Parmy Gianino]\nPero, antes de todo eso, tienes que hablar con Raspuchin. No sé muy bien de qué hablarás con él..."
     },
     "EFulBg": {
         "en-US": "[Parmy Gianino]\nIt shouldn't be anything extraordinary, but you're still required to speak to Raspuchin, since apparently he's a part of the Alchemist selection process.",
@@ -312,12 +312,12 @@
     "HlulBg": {
         "en-US": "[Raspuchin Gregory]\nHeeheehee\nkeheheh~!\nHow cute, you've come\nall this way just to play...",
         "pt-BR": "[Rasputin Gregory]\nKehkehkehkeh... Que criança bonitinha,\nO que faz em um lugar tão distante de tudo, criança?",
-        "es-ES": "[Raspuchin Gregory]\nJe, je, je.\n¡Je, je, je!\nQué ternura. Viniste\nhasta aquí solo para jugar…"
+        "es-ES": "[Raspuchin Gregory]\nJe, je, je.\n¡Je, je, je!\nQué ternura. Viniste\nhasta aquí solo para jugar..."
     },
     "H1ulBg": {
         "en-US": "[Raspuchin Gregory]\nI'll let you\ngo this time...\nBut next time, don't\nexpect to leave so easily...",
         "pt-BR": "[Rasputin Gregory]\nVamos, vamos... Saia...\nAqui não é lugar para crianças.",
-        "es-ES": "[Raspuchin Gregory]\nTe dejaré \nir esta vez…\nPero, la próxima, no\nesperes irte tan fácilmente…"
+        "es-ES": "[Raspuchin Gregory]\nTe dejaré \nir esta vez...\nPero, la próxima, no\nesperes irte tan fácilmente..."
     },
     "IFulBg": {
         "en-US": "[Raspuchin Gregory]\nWhat is it?!\nYou're curious as\nto what I'm doing?",
@@ -327,12 +327,12 @@
     "IVulBg": {
         "en-US": "[Raspuchin Gregory]\nHeehee\nkeheheh~!\nWhy, I'm busy\nresearching,\nof course!",
         "pt-BR": "[Rasputin Gregory]\nPesquisando!\nSe eu conseguir essa poção...\nSerei capaz de conseguir meu próprio reino!",
-        "es-ES": "[Raspuchin Gregory]\nJe, je…\n¡Je, je, je!\n¡Estoy ocupado\ninvestigando,\npor supuesto!"
+        "es-ES": "[Raspuchin Gregory]\nJe, je...\n¡Je, je, je!\n¡Estoy ocupado\ninvestigando,\npor supuesto!"
     },
     "IlulBg": {
         "en-US": "[Raspuchin Gregory]\nOnce this\npotion is complete...\nYou can use it to take\nover an entire nation!",
         "pt-BR": "[Rasputin Gregory]\nKeekeekeekeekehkehkehkeh.\nNão perdem por esperar...",
-        "es-ES": "[Raspuchin Gregory]\nUna vez que esta\npoción esté lista…\npodrás usarla para derrotar\na una nación entera."
+        "es-ES": "[Raspuchin Gregory]\nUna vez que esta\npoción esté lista...\npodrás usarla para derrotar\na una nación entera."
     },
     "I1ulBg": {
         "en-US": "[Raspuchin Gregory]\nHee hee hee!\nSomething this\ndangerous has to\nbe kept a secret!\nUnderstand?",
@@ -357,7 +357,7 @@
     "J1ulBg": {
         "en-US": "[Raspuchin Gregory]\nWhat...?\nLearn Alchemy?!\nDon't even speak\nsuch nonsense!",
         "pt-BR": "[Rasputin Gregory]\nO quê?! Você quer aprender alquimia?\nPare de bobagem!!",
-        "es-ES": "[Raspuchin Gregory]\n¿Qué…?\n¡¿Aprender alquimia?!\n¡No digas\ntonterías!"
+        "es-ES": "[Raspuchin Gregory]\n¿Qué...?\n¡¿Aprender alquimia?!\n¡No digas\ntonterías!"
     },
     "KFulBg": {
         "en-US": "[Raspuchin Gregory]\nEven if you tried studying for a thousand years, maybe even more, it'd be useless to you! Forget about it and just worry about your store!",
@@ -367,7 +367,7 @@
     "KVulBg": {
         "en-US": "[Raspuchin Gregory]\nWhat...?\nJoin the Union!?\nI don't like it...\nI just don't...!",
         "pt-BR": "[Rasputin Gregory]\nKehkeh, Mais um qualquer,\nvindo de sei-lá-onde, inscrito na Guilda?",
-        "es-ES": "[Raspuchin Gregory]\n¿Qué…?\n¡¿Afiliarte al gremio?!\nNo me gusta esto…\n¡Simplemente no me gusta…!"
+        "es-ES": "[Raspuchin Gregory]\n¿Qué...?\n¡¿Afiliarte al gremio?!\nNo me gusta esto...\n¡Simplemente no me gusta...!"
     },
     "KlulBg": {
         "en-US": "[Raspuchin Gregory]\nNowadays, anyone thinks they can\nbe Alchemists just by knowing how to mix a few herbs. That's why my interview is necessary.",
@@ -382,7 +382,7 @@
     "LFulBg": {
         "en-US": "[Raspuchin Gregory]\nWait...\nMaybe I've\nmisjudged you.",
         "pt-BR": "[Rasputin Gregory]\nHmm, deixe-me olhar para você...",
-        "es-ES": "[Raspuchin Gregory]\nEspera…\nTal vez\nte juzgué mal."
+        "es-ES": "[Raspuchin Gregory]\nEspera...\nTal vez\nte juzgué mal."
     },
     "LVulBg": {
         "en-US": "You might be a pretty boy,\nbut I can tell you're smart\nfrom your eyes.",
@@ -517,7 +517,7 @@
     "R1ulBg": {
         "en-US": "[Raspuchin Gregory]\nOoh...\nExcellent! Great!\nYou got them all correct!?\nKeheheh, I have no choice but to acknowledge you...",
         "pt-BR": "[Rasputin Gregory]\nNossa... Brilhante! BRILHANTE!!\nVocê acertou todas na primeira tentativa!!\nKehkehkeh, eu tenho que admitir que você é um candidato excelente...",
-        "es-ES": "[Raspuchin Gregory]\nAh…\n¡Excelente! ¡Genial!\n¡¿Respondiste todas bien?!\nJe, je, je. Entonces, no me queda más remedio que felicitarte…"
+        "es-ES": "[Raspuchin Gregory]\nAh...\n¡Excelente! ¡Genial!\n¡¿Respondiste todas bien?!\nJe, je, je. Entonces, no me queda más remedio que felicitarte..."
     },
     "SFulBg": {
         "en-US": "[Raspuchin Gregory]\nYou got one wrong!\nBut I'll let it slide.\nYou pass the interview!",
@@ -547,17 +547,17 @@
     "TVulBg": {
         "en-US": "[Raspuchin Gregory]\nWhat...?!\nYou want to take\nthe test again?!\nI thought I told\nyou to leave!",
         "pt-BR": "[Rasputin Gregory]\nHmm, então você quer tentar novamente?\nEu disse para você ir embora.",
-        "es-ES": "[Raspuchin Gregory]\n¡¿Qué…?!\n¡¿Quieres hacer\nla prueba de nuevo?!\n¡Creí haberte dicho\nque te fueras!"
+        "es-ES": "[Raspuchin Gregory]\n¡¿Qué...?!\n¡¿Quieres hacer\nla prueba de nuevo?!\n¡Creí haberte dicho\nque te fueras!"
     },
     "TlulBg": {
         "en-US": "[Raspuchin Gregory]\nI don't like it...\nI don't like this!",
         "pt-BR": "[Rasputin Gregory]\nNão gosto disso... Não gosto disso mesmo...!\nVocês dizem que querem ser Alquimistas\ne se juntar à nossa Guilda\nmas acabam que passam o dia inteiro vendendo!!",
-        "es-ES": "[Raspuchin Gregory]\nNo me gusta esto…\n¡No me gusta esto!"
+        "es-ES": "[Raspuchin Gregory]\nNo me gusta esto...\n¡No me gusta esto!"
     },
     "T1ulBg": {
         "en-US": "[Raspuchin Gregory]\nFine...\nI'll try to overlook your pitiful performance last time and give\nyou another chance. Don't screw\nup again, got it?",
         "pt-BR": "[Rasputin Gregory]\nOK, mas eu, o generoso Rasputin, vou perdoá-lo,\numa vez só...\nSe esforce dessa vez...",
-        "es-ES": "[Raspuchin Gregory]\nBien…\nIntentaré pasar por alto tu lamentable rendimiento de la última vez y darte\notra oportunidad. No metas la pata\notra vez, ¿entendido?"
+        "es-ES": "[Raspuchin Gregory]\nBien...\nIntentaré pasar por alto tu lamentable rendimiento de la última vez y darte\notra oportunidad. No metas la pata\notra vez, ¿entendido?"
     },
     "UFulBg": {
         "en-US": "[Raspuchin Gregory]\nNow then,\ngive me all the\n^551A8Bright^000000 answers\nthis time.",
@@ -567,7 +567,7 @@
     "UVulBg": {
         "en-US": "[Raspuchin Gregory]\nYou've got serious\nweaknesses in math,\nbut I'll let you go this time...",
         "pt-BR": "[Rasputin Gregory]\nArgh! Você é péssimo em cálculos!\nMas você se esforçou. Eu posso notar isso.\nEntão vou perdoar seus erros...",
-        "es-ES": "[Raspuchin Gregory]\nNo se te dan nada bien\nlas matemáticas,\npero te lo dejaré pasar esta vez…"
+        "es-ES": "[Raspuchin Gregory]\nNo se te dan nada bien\nlas matemáticas,\npero te lo dejaré pasar esta vez..."
     },
     "UlulBg": {
         "en-US": "[Raspuchin Gregory]\nWhat are you doing?\nGo and find Darwin now.",
@@ -592,17 +592,17 @@
     "VlulBg": {
         "en-US": "[Darwin]\nAh...\nYou...\nYou've become\nan Alchemist.",
         "pt-BR": "[Darcya]\nAh... você... voltou... sim, sim...\nVejo que se tornou um bom Alquimista...",
-        "es-ES": "[Darwin]\nAh…\nTú…\nTe convertiste en\nAlquimista."
+        "es-ES": "[Darwin]\nAh...\nTú...\nTe convertiste en\nAlquimista."
     },
     "V1ulBg": {
         "en-US": "[Darwin]\nRemember...\nIn your quest\nto make your\ndreams come true,\ndo not lose what\nyou cherish.",
         "pt-BR": "[Darcya]\nContudo, ainda não... Flor das Ilusões\nA linda flor do luar... Ahah...",
-        "es-ES": "[Darwin]\nRecuerda…\nen tu misión\npara hacer realidad\ntus sueños,\nno pierdas aquello que\nque atesoras."
+        "es-ES": "[Darwin]\nRecuerda...\nen tu misión\npara hacer realidad\ntus sueños,\nno pierdas aquello que\nque atesoras."
     },
     "WFulBg": {
         "en-US": "[Darwin]\nAh...\nHarmona...\nMy love...",
         "pt-BR": "[Darcya]\nSe você pudesse ver a luz radiante...\nDa minha linda Ramona...\nAhahahahaha.....",
-        "es-ES": "[Darwin]\nAh…\nHarmona…\nMi amor…"
+        "es-ES": "[Darwin]\nAh...\nHarmona...\nMi amor..."
     },
     "WVulBg": {
         "en-US": "[Darwin]\nWhen you have\nyour dreams, you\nhave everything.\nWithout them, you have\nnothing more to lose.",
@@ -612,27 +612,27 @@
     "WlulBg": {
         "en-US": "[Darwin]\nThese cursed eyes...\nThey've lost sight of\nmy dreams a long time ago.\nHa ha ha ha...",
         "pt-BR": "[Darcya]\nMeus pobres olhos amaldiçoados só enxergam\numa ilusão perdida... há muito tempo atrás.\nAhahahahahaha.....",
-        "es-ES": "[Darwin]\nEstos ojos malditos…\nperdieron de vista\nmis sueños hace mucho tiempo.\nJa, ja, ja…"
+        "es-ES": "[Darwin]\nEstos ojos malditos...\nperdieron de vista\nmis sueños hace mucho tiempo.\nJa, ja, ja..."
     },
     "W1ulBg": {
         "en-US": "[Darwin]\nDoes paradise\nreally exist...?\nNot without my love...\nNot without Harmona...",
         "pt-BR": "[Darcya]\nO Céu não existe... correto?\nMinha preciosa... Ramona...",
-        "es-ES": "[Darwin]\n¿El paraíso\nexiste realmente…?\nNo sin mi amor…\nNo sin Harmona…"
+        "es-ES": "[Darwin]\n¿El paraíso\nexiste realmente...?\nNo sin mi amor...\nNo sin Harmona..."
     },
     "XFulBg": {
         "en-US": "[Darwin]\n...",
         "pt-BR": "[Darcya]\n...",
-        "es-ES": "[Darwin]\n…"
+        "es-ES": "[Darwin]\n..."
     },
     "XVulBg": {
         "en-US": "[Darwin]\n...\n......",
         "pt-BR": "[Darcya]\n...\n...........",
-        "es-ES": "[Darwin]\n…\n……"
+        "es-ES": "[Darwin]\n...\n......"
     },
     "XlulBg": {
         "en-US": "[Darwin]\n...\n......\nWho is it...?",
         "pt-BR": "[Darcya]\n...\n...\n...Quem...",
-        "es-ES": "[Darwin]\n…\n……\n¿Qué es eso…?"
+        "es-ES": "[Darwin]\n...\n......\n¿Qué es eso...?"
     },
     "X1ulBg": {
         "en-US": "Wolf",
@@ -647,7 +647,7 @@
     "YVulBg": {
         "en-US": "[Darwin]\nAfter all...\nEveryone has desires\nto fulfill. Be be careful.\nDo not be like the wild\nwolf drawn to the flowers.",
         "pt-BR": "[Darcya]\nTenha cuidado. Não se deixe levar...\nVocê pode perder tudo que é importante para você \nse se perder em uma busca sem sentido...",
-        "es-ES": "[Darwin]\nDespués de todo…\ntodo el mundo tiene deseos\nque cumplir. Ten… ten cuidado.\nNo seas como un\nlobo salvaje atraído por las flores."
+        "es-ES": "[Darwin]\nDespués de todo...\ntodo el mundo tiene deseos\nque cumplir. Ten... ten cuidado.\nNo seas como un\nlobo salvaje atraído por las flores."
     },
     "YlulBg": {
         "en-US": "[Darwin]\nIn your efforts to gain something else, you may end up sacrificing something precious to you.",
@@ -657,7 +657,7 @@
     "Y1ulBg": {
         "en-US": "[Darwin]\nCultivating joy and happiness\nis much like cultivating flowers.\nIf something is missing, the\nflower will wilt away...",
         "pt-BR": "[Darcya]\nCultivar alegria e felicidade é muito parecido com cultivar flores. Se algo estiver faltando, a flor murchará...",
-        "es-ES": "[Darwin]\nCultivar alegría y felicidad\nes como cultivar flores.\nSi falta algo, la\nflor se marchitará…"
+        "es-ES": "[Darwin]\nCultivar alegría y felicidad\nes como cultivar flores.\nSi falta algo, la\nflor se marchitará..."
     },
     "ZFulBg": {
         "en-US": "[Darwin]\nWhat brings you\nto this kind of place?",
@@ -677,12 +677,12 @@
     "Z1ulBg": {
         "en-US": "[Darwin]\nYou wish to\nlearn Alchemy?\nEverything I know,\nI've learned for the\nsake of making my\ndream come true...",
         "pt-BR": "[Darcya]\nUm humano em busca de aprender alquimia...\nSaiba que todo meu conhecimento\nvem da busca pelo meu desejo...\nMais profundo...",
-        "es-ES": "[Darwin]\n¿Quieres\naprender alquimia?\nTodo lo que sé,\nlo aprendí \npara hacer\nrealidad mi sueño…"
+        "es-ES": "[Darwin]\n¿Quieres\naprender alquimia?\nTodo lo que sé,\nlo aprendí \npara hacer\nrealidad mi sueño..."
     },
     "aFulBg": {
         "en-US": "[Darwin]\nI'll teach\nyou the basics...\nBut everything you\nlearn afterwards must\nbe directed through\nyour own motivations.",
         "pt-BR": "[Darcya]\nVou lhe explicar o básico...\nTodo mundo deve conhecer\nseu desejo...",
-        "es-ES": "[Darwin]\nTe enseñaré \nlos principios básicos…\nPero todo lo que\naprendas después\ndependerá de\ntus propias motivaciones."
+        "es-ES": "[Darwin]\nTe enseñaré \nlos principios básicos...\nPero todo lo que\naprendas después\ndependerá de\ntus propias motivaciones."
     },
     "aVulBg": {
         "en-US": "[Darwin]\nI will teach you\nhow to make simple\nmedicine. So please\nbring the following\nmaterials right away.",
@@ -702,7 +702,7 @@
     "bFulBg": {
         "en-US": "[Darwin]\nFlowers...?\nIn the darkest\nrecesses of my mind,\nthere is a blossum\nthat I faintly remember...",
         "pt-BR": "[Darcya]\nUma flor... Existe uma flor...\nQue está quase se apagando...\nDas minhas lembranças...",
-        "es-ES": "[Darwin]\n¿Flores…?\nEn los más oscuros\nrecovecos de mi mente,\nhay una flor\nque recuerdo vagamente…"
+        "es-ES": "[Darwin]\n¿Flores...?\nEn los más oscuros\nrecovecos de mi mente,\nhay una flor\nque recuerdo vagamente..."
     },
     "bVulBg": {
         "en-US": "[Darwin]\nFor the one that\nI love, I put all\nof my efforts into\nresearching that one thing.",
@@ -717,22 +717,22 @@
     "b1ulBg": {
         "en-US": "[Darwin]\nBut yes...\nIt was a flower.\nWith its shine, it was said\nto let you see paradise.\nThe ^551A8BIllusion Flower^000000...",
         "pt-BR": "[Darcya]\nSim... Uma flor.\nA ^551A8BFlor das Ilusões^000000, que é conhecida\npor guiar as pessoas na direção do Céu com sua luz...",
-        "es-ES": "[Darwin]\nPero sí…\nEra una flor.\nSe decía que su brillo\nte permitía ver el paraíso.\nLa ^551A8BFlor de ilusión^000000…"
+        "es-ES": "[Darwin]\nPero sí...\nEra una flor.\nSe decía que su brillo\nte permitía ver el paraíso.\nLa ^551A8BFlor de ilusión^000000..."
     },
     "cFulBg": {
         "en-US": "[Darwin]\nI even made\na Homunculus,\nbut no one believed that I could create new life from a flower...",
         "pt-BR": "[Darcya]\nEu criei um Homunculus.\nNinguém acreditou que\neu criei vida de uma flor.\nNão acreditaram na minha descoberta!",
-        "es-ES": "[Darwin]\nIncluso creé \nun homúnculo,\npero nadie creía que pudiera crear nueva vida a partir de una flor…"
+        "es-ES": "[Darwin]\nIncluso creé \nun homúnculo,\npero nadie creía que pudiera crear nueva vida a partir de una flor..."
     },
     "cVulBg": {
         "en-US": "[Darwin]\nThen...\nWell, some other things happened, and now I have nothing left. Time no longer has any meaning for me.",
         "pt-BR": "[Darcya]\nMas não tenho mais nada...\nAcabou...\nDepois disso é como...\nSe o tempo houvesse parado...",
-        "es-ES": "[Darwin]\nEntonces…\nBueno, pasaron otras cosas y, ahora, no me queda nada. El tiempo ya no tiene sentido para mí."
+        "es-ES": "[Darwin]\nEntonces...\nBueno, pasaron otras cosas y, ahora, no me queda nada. El tiempo ya no tiene sentido para mí."
     },
     "clulBg": {
         "en-US": "[Darwin]\nAhh...\nHarmona...\nWhere have you gone?\nI hope you're in a field\nof beautiful flowers...",
         "pt-BR": "[Darcya]\nAh... Ramona , Para onde você foste,\ndo lindo jardim,\neternamente florido...",
-        "es-ES": "[Darwin]\nAhh…\nHarmona…\n¿Dónde fuiste?\nEspero que estés en un campo\nde hermosas flores…"
+        "es-ES": "[Darwin]\nAhh...\nHarmona...\n¿Dónde fuiste?\nEspero que estés en un campo\nde hermosas flores..."
     },
     "c1ulBg": {
         "en-US": "[Darwin]\nConsider what\nis most precious\nto you. It cannot\nbe protected if you\ndo not recognize it.",
@@ -742,22 +742,22 @@
     "dFulBg": {
         "en-US": "[Darwin]\nAh...\nYou are the one who\nwishes to learn Alchemy.\nHave you prepared everything?",
         "pt-BR": "[Darcya]\nAh... o humano...\nMe disse que você quer aprender alquimia.\nVocê trouxe os itens?",
-        "es-ES": "[Darwin]\nAh…\nTú eres quien\ndesea aprender alquimia.\n¿Preparaste todo?"
+        "es-ES": "[Darwin]\nAh...\nTú eres quien\ndesea aprender alquimia.\n¿Preparaste todo?"
     },
     "dVulBg": {
         "en-US": "[Darwin]\nWait.\nThat Illusion Flower.\nHow did you get that?",
         "pt-BR": "[Darcya]\n...Espere! O que é isso!?\nSim! Como você... É a Flor das Ilusões!!",
-        "es-ES": "[Darwin]\nEspera.\nEsa Flor de ilusión…\n¿Cómo la conseguiste?"
+        "es-ES": "[Darwin]\nEspera.\nEsa Flor de ilusión...\n¿Cómo la conseguiste?"
     },
     "dlulBg": {
         "en-US": "[Darwin]\nWhere did you find it?!\nThe flower that slowly\nblooms under the\nmoonlight?\nIt's beautiful...!",
         "pt-BR": "[Darcya]\nComo você conseguiu?\nA beleza suprema...\nSua luz está um pouco ofuscada mas...\ndefinitivamente é a linda flor que brilha com a luz única do luar!!",
-        "es-ES": "[Darwin]\n¡¿Dónde la encontraste?!\n¿La flor que lentamente\nflorece bajo la\nluz de la luna?\n¡Es preciosa…!"
+        "es-ES": "[Darwin]\n¡¿Dónde la encontraste?!\n¿La flor que lentamente\nflorece bajo la\nluz de la luna?\n¡Es preciosa...!"
     },
     "d1ulBg": {
         "en-US": "[Darwin]\nTh-That flower...\nPlease let me see it.\nThe Illusion Flower!\nUwaaaaaaah!!",
         "pt-BR": "[Darcya]\nMostre-me! Vamos! Mostre-me a... flor. Oh! Oh!\nAh! Aaaah! Minha preciosa... Flor das Ilusões!!\nAaaa... Aaahh... Não! Me desculpe...",
-        "es-ES": "[Darwin]\nEsa… esa flor…\n¡Déjame verla!\n¡La Flor de ilusión!\n¡Buuuuaaaa!"
+        "es-ES": "[Darwin]\nEsa... esa flor...\n¡Déjame verla!\n¡La Flor de ilusión!\n¡Buuuuaaaa!"
     },
     "eFulBg": {
         "en-US": "[Darwin]\nWould you be so kind\nas to let me have this flower?\nI'm sure that this is the Moonlight Flower that I've been seeking!",
@@ -777,7 +777,7 @@
     "e1ulBg": {
         "en-US": "[Darwin]\nI understand.\nYou can't give\nsuch a precious\nflower to just anyone.\nWell... It's okay.",
         "pt-BR": "[Darcya]\nHmm... Claro... Essa flor preciosa...\nVocê não pode entregá-la a qualquer um...\nOk... Eu entendo.",
-        "es-ES": "[Darwin]\nEntiendo.\nNo puedes darle\nuna flor tan valiosa\na cualquiera.\nBueno… Está bien."
+        "es-ES": "[Darwin]\nEntiendo.\nNo puedes darle\nuna flor tan valiosa\na cualquiera.\nBueno... Está bien."
     },
     "fFulBg": {
         "en-US": "[Darwin]\nIt just brought back old memories. I shouldn't have asked in the first place. In any case, please bring what is needed for the experiment.",
@@ -787,17 +787,17 @@
     "fVulBg": {
         "en-US": "[Darwin]\nPlease leave that flower\nsomewhere else. It brings\nback too many memories...",
         "pt-BR": "[Darcya]\nNão traga a flor novamente...\nOutras lembranças podem surgir...\nApenas deixe-a em outro lugar... Por favor.",
-        "es-ES": "[Darwin]\nDeja esa flor\nen otro sitio. Me trae\ndemasiados recuerdos…"
+        "es-ES": "[Darwin]\nDeja esa flor\nen otro sitio. Me trae\ndemasiados recuerdos..."
     },
     "flulBg": {
         "en-US": "[Darwin]\nAre you\nserious?!\nThank you!\nSuch a precious flower.\nAh, Harmona, my love...",
         "pt-BR": "[Darcya]\nÉ sério?! Não acredito! Muito... Muito obrigado!\nMinha preciosa flor...\nAh, Ramona, minha preciosa Ramona.",
-        "es-ES": "[Darwin]\n¿Acaso\nhablas en serio?\n¡Gracias!\nQué flor tan preciosa.\nAy, Harmona, mi amor…"
+        "es-ES": "[Darwin]\n¿Acaso\nhablas en serio?\n¡Gracias!\nQué flor tan preciosa.\nAy, Harmona, mi amor..."
     },
     "f1ulBg": {
         "en-US": "[Darwin]\nYes...\nI shall repay you for this.\nI shall plant all of my knowledge of Alchemy directly into your mind...",
         "pt-BR": "[Darcya]\nObrigado... Por isso, vou recompensá-lo.\nVou-lhe passar agora...\nTodo meu conhecimento de alquimia!!",
-        "es-ES": "[Darwin]\nSí…\nTe lo pagaré.\nPlantaré todo mi conocimiento sobre la alquimia directamente en tu mente…"
+        "es-ES": "[Darwin]\nSí...\nTe lo pagaré.\nPlantaré todo mi conocimiento sobre la alquimia directamente en tu mente..."
     },
     "gFulBg": {
         "en-US": "[Darwin]\nOpen your eyes wide,\nand look into my eyes!!\nDon't stop until the end!!",
@@ -837,12 +837,12 @@
     "h1ulBg": {
         "en-US": "Lorem ipsum dolor sit amet,\nconsectetuer adipiscing elit.\nAenean fermentum ullamcorper.\nVestibulum ante ipsum primis in\nfaucibus orci luctus et ultrices\nposuere cubilia Curae; Morbi\nmassa, fermentum vitae...",
         "pt-BR": "ÇÕESPREPARARPOÇÃOFOGOGREGOT\nERRORÁCIDOARREMESSARPOÇÃOCR\nIARFLORAACRIARESFERAMARINHA\nRESVESTIRARMARESVESTIRESCUD\nORESVESTIRRMADURARESVESTIRC\nAPACETEBIOÉTICACRIARDESTRUI\nRPROTEGERTRANSMUTARALQUIMIA",
-        "es-ES": "Lorem ipsum dolor sit amet,\nconsectetuer adipiscing elit.\nAenean fermentum ullamcorper.\nVestibulum ante ipsum primis in\nfaucibus orci luctus et ultrices\nposuere cubilia Curae; Morbi\nmassa, fermentum vitae…"
+        "es-ES": "Lorem ipsum dolor sit amet,\nconsectetuer adipiscing elit.\nAenean fermentum ullamcorper.\nVestibulum ante ipsum primis in\nfaucibus orci luctus et ultrices\nposuere cubilia Curae; Morbi\nmassa, fermentum vitae..."
     },
     "iFulBg": {
         "en-US": "[Darwin]\n^666666*Gasp...*^000000\nYou are now\nan Alchemist!!\nGo to the Union\nand cast away the last\nvestiges of Merchant life!!",
         "pt-BR": "[Darcya]\nUfa!\nAgora você está pronto!! Vá falar com Vincent,\no líder da Guilda, e torne-se um Alquimista de verdade!!",
-        "es-ES": "[Darwin]\n^666666*Jadea…*^000000\n¡Ya eres\nAlquimista!\nVe al gremio\ny desecha los últimos\nvestigios de tu vida de Comerciante."
+        "es-ES": "[Darwin]\n^666666*Jadea...*^000000\n¡Ya eres\nAlquimista!\nVe al gremio\ny desecha los últimos\nvestigios de tu vida de Comerciante."
     },
     "iVulBg": {
         "en-US": "[Darwin]\nSeems like you have everything ready. As promised, I will teach you how to make simple medicine.",
@@ -887,7 +887,7 @@
     "kVulBg": {
         "en-US": "[Darwin]\nWhat...?",
         "pt-BR": "[Darcya]\n...Hã!?",
-        "es-ES": "[Darwin]\n¿Qué…?"
+        "es-ES": "[Darwin]\n¿Qué...?"
     },
     "klulBg": {
         "en-US": "[Darwin]\nNo!",
@@ -912,7 +912,7 @@
     "llulBg": {
         "en-US": "[Darwin]\n...Eh!?\nThat's not\nmedicine!",
         "pt-BR": "[Darcya]\n...O quê!?",
-        "es-ES": "[Darwin]\n…¡¿Eh?!\n¡Eso no es\nmedicina!"
+        "es-ES": "[Darwin]\n...¡¿Eh?!\n¡Eso no es\nmedicina!"
     },
     "l1ulBg": {
         "en-US": "[Darwin]\nA Harp?\nAnd how would\nyou do that?",
@@ -942,7 +942,7 @@
     "nFulBg": {
         "en-US": "[Darwin]\nAgh...!\nWhat do you\nthink you're\ndoing?!",
         "pt-BR": "[Darcya]\n...Ai! O que você está fazendo?!",
-        "es-ES": "[Darwin]\n¡Agh…!\n¿Qué \ncrees que estás\nhaciendo?!"
+        "es-ES": "[Darwin]\n¡Agh...!\n¿Qué \ncrees que estás\nhaciendo?!"
     },
     "nVulBg": {
         "en-US": "Spray clean water.",
@@ -967,7 +967,7 @@
     "oVulBg": {
         "en-US": "[Darwin]\nW-wait...\nAre you\ntaking a break?",
         "pt-BR": "[Darcya]\n...Você está com sede?",
-        "es-ES": "[Darwin]\nE-espera…\n¿Acaso\nestás tomando un descanso?"
+        "es-ES": "[Darwin]\nE-espera...\n¿Acaso\nestás tomando un descanso?"
     },
     "olulBg": {
         "en-US": "Continue crushing the Herbs.",
@@ -987,7 +987,7 @@
     "pVulBg": {
         "en-US": "[Darwin]\nEat the Herbs?\nI think you need\nto focus on the\ntask at hand...",
         "pt-BR": "[Darcya]\nQue gosto tem?",
-        "es-ES": "[Darwin]\n¿Comerte las Hierbas?\nCreo que necesitas\ncentrarte en la\ntarea en cuestión…"
+        "es-ES": "[Darwin]\n¿Comerte las Hierbas?\nCreo que necesitas\ncentrarte en la\ntarea en cuestión..."
     },
     "plulBg": {
         "en-US": "[Darwin]\nSinging and\ndancing? Alchemists\ndon't do that, have\nyou gone crazy?",
@@ -1017,7 +1017,7 @@
     "q1ulBg": {
         "en-US": "[Darwin]\nHuh...\nPretty sloppy...",
         "pt-BR": "[Darcya]\nO gosto é bom?",
-        "es-ES": "[Darwin]\nMmm…\nQué desprolijidad…"
+        "es-ES": "[Darwin]\nMmm...\nQué desprolijidad..."
     },
     "rFulBg": {
         "en-US": "[Darwin]\nYou messed up the mixture\nsince you didn't follow the procedure! Get some more ingredients so you can try it\nagain until you get it right.",
@@ -1042,7 +1042,7 @@
     "sFulBg": {
         "en-US": "[Darwin]\nHave you forgotten\nwhat you need to bring?\nLet me remind you once\nagain. You must come\nback with...",
         "pt-BR": "[Darcya]\nAcho que você esqueceu os ingredientes.\nVou lhe dizer mais uma vez.\nÉ preciso ter todos.",
-        "es-ES": "[Darwin]\n¿Te olvidaste\nde lo que tenías que traer?\nPermíteme recordarte\nde nuevo. Debes regresar\ncon…"
+        "es-ES": "[Darwin]\n¿Te olvidaste\nde lo que tenías que traer?\nPermíteme recordarte\nde nuevo. Debes regresar\ncon..."
     },
     "sVulBg": {
         "en-US": "[Darwin]\n^551A8B3 Medicine Bowls^000000,\n^551A8B3 Empty Bottle^000000,\n^551A8B1 Red Herb^000000,\n^551A8B1 Yellow Herb^000000 and\n^551A8B1 White Herb^000000.",
@@ -1052,7 +1052,7 @@
     "slulBg": {
         "en-US": "[Darwin]\nCome back\nwhen you are\nready...",
         "pt-BR": "[Darcya]\nVolte quando estiver tudo pronto.",
-        "es-ES": "[Darwin]\nVuelve\ncuando tengas todo\nlisto…"
+        "es-ES": "[Darwin]\nVuelve\ncuando tengas todo\nlisto..."
     },
     "s1ulBg": {
         "en-US": "[Darwin]\nI said to go\nto Van Helmont.\nI'd like to teach you\nmore, but I can't.",
@@ -1062,7 +1062,7 @@
     "tFulBg": {
         "en-US": "[Darwin]\nAah...\nHarmona, my love.\nI can't even see the flower anymore. My soul quietly\nwithers as well..",
         "pt-BR": "[Darcya]\nAh, Ramona... Minha preciosa.\nSó de olhar para a flor,\nminha alma chora silenciosamente...",
-        "es-ES": "[Darwin]\nAh…\nHarmona, mi amor.\nYa ni siquiera puedo ver la flor. Mi alma, en silencio,\ntambién se marchita…"
+        "es-ES": "[Darwin]\nAh...\nHarmona, mi amor.\nYa ni siquiera puedo ver la flor. Mi alma, en silencio,\ntambién se marchita..."
     },
     "tVulBg": {
         "en-US": "[Darwin]\nI have already given you all of my knowledge and have nothing more\nto teach you.",
@@ -1087,7 +1087,7 @@
     "uVulBg": {
         "en-US": "[Van Helmont]\nNow, come on...\nYou'll never get\nany research completed if you just slack off. Go out and learn all that you can.",
         "pt-BR": "[Van Helmont]\nMe desculpe, eu entendo que esteja feliz\nem se tornar um Alquimista.\nMas não conseguirá ser um Alquimista de verdade se ficar papeando por aí.",
-        "es-ES": "[Van Helmont]\nAy, vamos…\nNunca conseguirás\ncompletar ninguna investigación si holgazaneas. Sal y aprende todo lo que puedas."
+        "es-ES": "[Van Helmont]\nAy, vamos...\nNunca conseguirás\ncompletar ninguna investigación si holgazaneas. Sal y aprende todo lo que puedas."
     },
     "ululBg": {
         "en-US": "[Van Helmont]\nReading science journals and performing experiments. That's what Alchemy is all about. Now, let me get back to work!",
@@ -1097,22 +1097,22 @@
     "u1ulBg": {
         "en-US": "[Van Helmont]\nJust a little...\nA little bit more...\nNooo! Just a little\nbit more and it\nwould've been done!",
         "pt-BR": "[Van Helmont]\nUm pouco mais... só um pouquinho... mais...\nAh! Estava quase pronto!",
-        "es-ES": "[Van Helmont]\nSolo un poco…\nUn poco más…\n¡Nooo! ¡Solo un poco\nmás y\nhabría terminado!"
+        "es-ES": "[Van Helmont]\nSolo un poco...\nUn poco más...\n¡Nooo! ¡Solo un poco\nmás y\nhabría terminado!"
     },
     "vFulBg": {
         "en-US": "[Van Helmont]\nWhy...?!\nWhy, another failure?!\nMy calculations were\nall correct! W-Wait...!",
         "pt-BR": "[Van Helmont]\nPor quê? Por que falhou de novo?\nEu fiz tudo certo!\nTenho certeza! Por quê?!",
-        "es-ES": "[Van Helmont]\n¡¿Por qué…?!\n¡¿Por qué otro fracaso?!\n¡Mis cálculos fueron\ntodos correctos! ¡E-espera…!"
+        "es-ES": "[Van Helmont]\n¡¿Por qué...?!\n¡¿Por qué otro fracaso?!\n¡Mis cálculos fueron\ntodos correctos! ¡E-espera...!"
     },
     "vVulBg": {
         "en-US": "[Van Helmont]\nPerhaps, if I capacitated the thermal flux by using the neutronic gradient, it just might work...!",
         "pt-BR": "[Van Helmont]\nAgora tenho que coletar os materias todos novamente...\nMas ainda assim, completarei o projeto em um dia.\n...Ufa...",
-        "es-ES": "[Van Helmont]\n¡Quizás, si ajusto el flujo térmico usando el gradiente neutrónico, podría funcionar…!"
+        "es-ES": "[Van Helmont]\n¡Quizás, si ajusto el flujo térmico usando el gradiente neutrónico, podría funcionar...!"
     },
     "vlulBg": {
         "en-US": "[Van Helmont]\nArrrrgh...!\nWhy isn't this formula working? What's wrong? In theory, it's all correct, but there must be an error in the formula somewhere...",
         "pt-BR": "[Van Helmont]\nDroga! Algo está errado com a fórmula.\nO que pode ser?\nA teoria está correta, com certeza.\nSó pode ser algum erro na fórmula...\nAlgo pequeno.. em algum lugar...",
-        "es-ES": "[Van Helmont]\n¡Grrrr…!\n¿Por qué no funciona esta fórmula? ¿Qué está fallando? En teoría, todo es correcto, pero debe haber un error en alguna parte de la fórmula…"
+        "es-ES": "[Van Helmont]\n¡Grrrr...!\n¿Por qué no funciona esta fórmula? ¿Qué está fallando? En teoría, todo es correcto, pero debe haber un error en alguna parte de la fórmula..."
     },
     "v1ulBg": {
         "en-US": "[Van Helmont]\nI pour it in here, and it should stop. Wait, this is the wrong solution! How could I make such\na dumb mistake?! When did these\nget switched?!",
@@ -1122,27 +1122,27 @@
     "wFulBg": {
         "en-US": "[Van Helmont]\nOkay, okay...\nI just need to fix this part.\nNo need to start over. I just\nneed to fix it... But wait. Wait...",
         "pt-BR": "[Van Helmont]\nSim, eu só preciso refazer essa parte.\nNão é preciso começar tudo de novo...\nEu só preciso conseguir mais...\n...mas assim não dá!.",
-        "es-ES": "[Van Helmont]\nMuy bien…\nSolo necesito arreglar esta parte.\nNo tengo que volver a empezar. Solo\ntengo que arreglarlo… Pero espera… Espera…"
+        "es-ES": "[Van Helmont]\nMuy bien...\nSolo necesito arreglar esta parte.\nNo tengo que volver a empezar. Solo\ntengo que arreglarlo... Pero espera... Espera..."
     },
     "wVulBg": {
         "en-US": "[Van Helmont]\n.................",
         "pt-BR": "[Van Helmont]\n.................",
-        "es-ES": "[Van Helmont]\n…………….."
+        "es-ES": "[Van Helmont]\n................."
     },
     "wlulBg": {
         "en-US": "[Van Helmont]\nUm...\nWho are you?",
         "pt-BR": "[Van Helmont]\n...Quem diabos é você?!",
-        "es-ES": "[Van Helmont]\nEh…\n¿Quién eres?"
+        "es-ES": "[Van Helmont]\nEh...\n¿Quién eres?"
     },
     "w1ulBg": {
         "en-US": ".......",
         "pt-BR": ".......",
-        "es-ES": "……"
+        "es-ES": "......"
     },
     "xFulBg": {
         "en-US": "[Van Helmont]\nYou...?\nAn Alchemist?\nWhat a funny Merchant.",
         "pt-BR": "[Van Helmont]\nHmm, um candidato... Logo hoje?\nChega a ser engraçado os Mercadores\nque querem ser Alquimistas hoje em dia...",
-        "es-ES": "[Van Helmont]\n¿Tú…?\n¿Un Alquimista?\nMe das gracia, Comerciante."
+        "es-ES": "[Van Helmont]\n¿Tú...?\n¿Un Alquimista?\nMe das gracia, Comerciante."
     },
     "xVulBg": {
         "en-US": "[Van Helmont]\nWell, that's nice, but I have very urgent experiments that require\nmy attention, so don't get\nin the way.",
@@ -1152,7 +1152,7 @@
     "xlulBg": {
         "en-US": "[Van Helmont]\nHmm...?\nWhat, did you just want to watch? Fine, fine, but do it quietly and leave right when you're done.",
         "pt-BR": "[Van Helmont]\nHmm, então você está só curioso?\nOk, se você quiser, pode ser curioso,\nmas sente-se em algum lugar e fique quieto.",
-        "es-ES": "[Van Helmont]\n¿Mmm…?\n¿Qué? ¿Solo querías mirar? Bueno, bien, pero hazlo en silencio y vete cuando termines."
+        "es-ES": "[Van Helmont]\n¿Mmm...?\n¿Qué? ¿Solo querías mirar? Bueno, bien, pero hazlo en silencio y vete cuando termines."
     },
     "x1ulBg": {
         "en-US": "[Van Helmont]\nStay out of my way and don't go around touching stuff. There might be some volatile materials, so it'd be dangerous to have any accidents.",
@@ -1167,7 +1167,7 @@
     "yVulBg": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "ylulBg": {
         "en-US": "[Van Helmont]\nArgh...!\nDidn't I just tell you not to bother me? What's so hard to understand about that?",
@@ -1177,7 +1177,7 @@
     "y1ulBg": {
         "en-US": "[Van Helmont]\nFine, fine. I'll give you an assignment. Learn something\nnew and come back. Let's see.\nWhat would be good...",
         "pt-BR": "[Van Helmont]\nMuito bem, vou te passar um trabalhinho...\nAlgo para fazer fora daqui.\nVamos ver... O que poderia ser? Hmm...",
-        "es-ES": "[Van Helmont]\nEstá bien. Te asignaré una tarea. Aprende algo\nnuevo y regresa. Veamos.\n¿Qué sería bueno…?"
+        "es-ES": "[Van Helmont]\nEstá bien. Te asignaré una tarea. Aprende algo\nnuevo y regresa. Veamos.\n¿Qué sería bueno...?"
     },
     "zFulBg": {
         "en-US": "[Van Helmont]\nOkay, I got it.\nGo learn how to make\na Counteragent and Mixture\nfrom Molgenstein.",
@@ -1202,17 +1202,17 @@
     "0FulBg": {
         "en-US": "[Van Helmont]\n...",
         "pt-BR": "[Van Helmont]\n...",
-        "es-ES": "[Van Helmont]\n…"
+        "es-ES": "[Van Helmont]\n..."
     },
     "0VulBg": {
         "en-US": "[Van Helmont]\n...\n......",
         "pt-BR": "[Van Helmont]\n...\n......",
-        "es-ES": "[Van Helmont]\n…\n……"
+        "es-ES": "[Van Helmont]\n...\n......"
     },
     "0lulBg": {
         "en-US": "[Van Helmont]\nSo if I recalibrate the combustion rate of this compound, that should negate any cohesive tendencies in this particle flux...",
         "pt-BR": "[Van Helmont]\nEntão, se eu recalibrar a taxa de combustão deste composto, isso deve anular quaisquer tendências coesivas neste fluxo de partículas...",
-        "es-ES": "[Van Helmont]\nAsí que, si recalibro la tasa de combustión de este compuesto, se debería anular cualquier tendencia cohesiva en este flujo de partículas…"
+        "es-ES": "[Van Helmont]\nAsí que, si recalibro la tasa de combustión de este compuesto, se debería anular cualquier tendencia cohesiva en este flujo de partículas..."
     },
     "01ulBg": {
         "en-US": "[Van Helmont]\nBut what am I going to do\nabout all of this spontaneous\ncrystallization?! I can't very well remove this matrix, I need it for the catalyst to reach the triple point.",
@@ -1227,17 +1227,17 @@
     "1VulBg": {
         "en-US": "[Van Helmont]\nAlright, if I make an incision here in the Tentacle, and add a Jellopy and Sticky Mucus solution into the... Where the hell did my Medicine Bowl go?",
         "pt-BR": "[Van Helmont]\nSim, os tentáculos devem ser cortados assim,\nmisturados com muco pegajoso...\nA solução de jellpoy está no tubo de ensaio...\n...Droga, onde está a Vasilha de Mistura...",
-        "es-ES": "[Van Helmont]\nMuy bien, si hago una incisión aquí en el Tentáculo y agrego una solución de Jellopy y Moco pegajoso en… ¿Dónde demonios está mi Cuenco para medicina?"
+        "es-ES": "[Van Helmont]\nMuy bien, si hago una incisión aquí en el Tentáculo y agrego una solución de Jellopy y Moco pegajoso en... ¿Dónde demonios está mi Cuenco para medicina?"
     },
     "1lulBg": {
         "en-US": "[Van Helmont]\nDid I use them all at a time like this?! I wonder if Nicholas has any left. Ugh, what a pain. Wait. Wait a minute...",
         "pt-BR": "[Van Helmont]\nEu usei todos eles em um momento como esse?! Será que Nicholas ainda tem algum? Ugh, que chatice. Espera. Espera um minuto...",
-        "es-ES": "[Van Helmont]\n¡¿Los usé todos justo ahora?! Me pregunto si Nicholas tendrá alguno. Uf, qué molestia. Espera. Espera un momento…"
+        "es-ES": "[Van Helmont]\n¡¿Los usé todos justo ahora?! Me pregunto si Nicholas tendrá alguno. Uf, qué molestia. Espera. Espera un momento..."
     },
     "11ulBg": {
         "en-US": "[Van Helmont]\n...\n......\nWho are you?",
         "pt-BR": "[Van Helmont]\n...Quem diabos é você?",
-        "es-ES": "[Van Helmont]\n…\n……\n¿Quién eres?"
+        "es-ES": "[Van Helmont]\n...\n......\n¿Quién eres?"
     },
     "2FulBg": {
         "en-US": "I want to become an Alchemist?",
@@ -1357,7 +1357,7 @@
     "71ulBg": {
         "en-US": "[Van Helmont]\nWhat...?\nI thought I told you to\ntalk to Nicholas next door?",
         "pt-BR": "[Van Helmont]\nFale com Nicholas na sala ao lado.\nEu tenho que continuar meu trabalho.",
-        "es-ES": "[Van Helmont]\n¿Qué…?\nPensé que te había dicho que fueras al lado a\nhablar con Nicholas."
+        "es-ES": "[Van Helmont]\n¿Qué...?\nPensé que te había dicho que fueras al lado a\nhablar con Nicholas."
     },
     "8FulBg": {
         "en-US": "[Van Helmont]\nI need to continue my research,\nand you need to finish becoming an Alchemist. Come on, get moving!",
@@ -1367,12 +1367,12 @@
     "8VulBg": {
         "en-US": "[Van Helmont]\nWhy...?!\nWhy, another failure?!\nMy calculations were\nall correct! Wait...",
         "pt-BR": "[Van Helmont]\nPor quê...?!\nPor quê, outra falha?!\nMeus cálculos estavam\ntodos corretos! Espere...",
-        "es-ES": "[Van Helmont]\n¡¿Por qué…?!\n¡¿Por qué otro fracaso?!\n¡Mis cálculos fueron\ntodos correctos! Espera…"
+        "es-ES": "[Van Helmont]\n¡¿Por qué...?!\n¡¿Por qué otro fracaso?!\n¡Mis cálculos fueron\ntodos correctos! Espera..."
     },
     "8lulBg": {
         "en-US": "[Van Helmont]\nPerhaps, if I capacitated the thermal flux by using the neutronic gradient, it just might work...",
         "pt-BR": "[Van Helmont]\nTalvez, se eu capacitasse o fluxo térmico usando o gradiente neutrônico, poderia funcionar...\nEu mandei você atrás de algo, não foi?",
-        "es-ES": "[Van Helmont]\nQuizás, si ajusto el flujo térmico usando el gradiente neutrónico, podría funcionar…"
+        "es-ES": "[Van Helmont]\nQuizás, si ajusto el flujo térmico usando el gradiente neutrónico, podría funcionar..."
     },
     "81ulBg": {
         "en-US": "Master Alchemist",
@@ -1382,7 +1382,7 @@
     "9FulBg": {
         "en-US": "[Vincent Carsciallo]\nYou have transcended...\nExcellent, excellent.",
         "pt-BR": "[Vincent Carcialo]\nVocê transcendeu...\nExcelente, excelente.",
-        "es-ES": "[Vincent Carsciallo]\nTrascendiste…\n¡Excelente!"
+        "es-ES": "[Vincent Carsciallo]\nTrascendiste...\n¡Excelente!"
     },
     "9VulBg": {
         "en-US": "[Vincent Carsciallo]\nYou don't belong here.\nGo and explore the wide world, my friend.",
@@ -1407,7 +1407,7 @@
     "+VulBg": {
         "en-US": "[Vincent Carsciallo]\nHm...\nA Novice?\nYou shouldn't be\nplaying in a place\nlike this.",
         "pt-BR": "[Vincent Carcialo]\nAqui não é lugar para crianças.\nVocê pode se machucar brincando por aqui.",
-        "es-ES": "[Vincent Carsciallo]\nMmm…\n¿Eres Principiante?\nNo deberías\njugar en un lugar\ncomo este."
+        "es-ES": "[Vincent Carsciallo]\nMmm...\n¿Eres Principiante?\nNo deberías\njugar en un lugar\ncomo este."
     },
     "+lulBg": {
         "en-US": "[Vincent Carsciallo]\nThere are a lot of volatile chemicals and dangerous\nmaterials in this building. It'd be a lot better if you just played outside.",
@@ -1417,7 +1417,7 @@
     "+1ulBg": {
         "en-US": "[Vincent Carsciallo]\nHmm...?\nWhat's an adventurer\ndoing here in the\nAlchemist Union?",
         "pt-BR": "[Vincent Carcialo]\nHmm? Em que posso ajudar?",
-        "es-ES": "[Vincent Carsciallo]\n¿Mmm…?\nTrotamundos, ¿qué haces\naquí en el\nsindicato de Alquimistas?"
+        "es-ES": "[Vincent Carsciallo]\n¿Mmm...?\nTrotamundos, ¿qué haces\naquí en el\nsindicato de Alquimistas?"
     },
     "/FulBg": {
         "en-US": "[Vincent Carsciallo]\nI'm afraid there's\nnot much we can offer\nyou here if you're not\na member of our Union.",
@@ -1427,7 +1427,7 @@
     "/VulBg": {
         "en-US": "[Vincent Carsciallo]\nHmm...?\nA Merchant?\nAre you interested\nin learning Alchemy?",
         "pt-BR": "[Vincent Carcialo]\nOra, um Mercador!\nVocê tem interesse em alquimia?",
-        "es-ES": "[Vincent Carsciallo]\n¿Mmm…?\n¿Un Comerciante?\n¿Te interesaría\naprender alquimia?"
+        "es-ES": "[Vincent Carsciallo]\n¿Mmm...?\n¿Un Comerciante?\n¿Te interesaría\naprender alquimia?"
     },
     "/lulBg": {
         "en-US": "[Vincent Carsciallo]\nThis is the Alchemist Union.\nWe research and experiment with many different substances in order to create new materials without using magic.",
@@ -1447,7 +1447,7 @@
     "AVylBg": {
         "en-US": "[Vincent Carsciallo]\nHmm...you don't seem to be qualified yet.\nRemember, you must reach at least job level 40 to become an Alchemist.",
         "pt-BR": "[Vincent Carcialo]\nHmm... você ainda não parece estar qualificado.\nLembre-se, você deve alcançar pelo menos o nível de classe 40 para se tornar um Alquimista.",
-        "es-ES": "[Vincent Carsciallo]\nMmm… parece que aún no cumples los requisitos.\nRecuerda que debes alcanzar al menos el nivel de clase 40 para convertirte en Alquimista."
+        "es-ES": "[Vincent Carsciallo]\nMmm... parece que aún no cumples los requisitos.\nRecuerda que debes alcanzar al menos el nivel de clase 40 para convertirte en Alquimista."
     },
     "AlylBg": {
         "en-US": "[Vincent Carsciallo]\nAh, you're almost\nready to become an\nAlchemist, but you must\nfirst allocate your unused\nSkill Points.",
@@ -1467,12 +1467,12 @@
     "BVylBg": {
         "en-US": "Please get off of that creature you're riding on\nthen come to find me again...",
         "pt-BR": "Por favor, desça da criatura em que você está montado\ne então venha me procurar novamente...",
-        "es-ES": "Bájate de la criatura que estás montando\ny ven a buscarme de nuevo…"
+        "es-ES": "Bájate de la criatura que estás montando\ny ven a buscarme de nuevo..."
     },
     "BlylBg": {
         "en-US": "[Vincent Carsciallo]\nHenceforth, you are\nnow a member of our\nillustrious Union.\nI hope you learn a lot...",
         "pt-BR": "[Vincent Carcialo]\nAgora você é um membro de nossa guilda.\nComo um verdadeiro Alquimista\nvocê deve continuar sempre estudando...",
-        "es-ES": "[Vincent Carsciallo]\nA partir de ahora,\nformas parte de nuestro\nilustre gremio.\nEspero que aprendas mucho…"
+        "es-ES": "[Vincent Carsciallo]\nA partir de ahora,\nformas parte de nuestro\nilustre gremio.\nEspero que aprendas mucho..."
     },
     "B1ylBg": {
         "en-US": "[Vincent Carsciallo]\nLet me give you\nsomething special.\nYou can use this to\nbegin your life\nof research.",
@@ -1482,17 +1482,17 @@
     "CFylBg": {
         "en-US": "[Vincent Carsciallo]\nI'll see\nyou later then...\nRemember to carry\nyourself with pride\nas an Alchemist!",
         "pt-BR": "[Vincent Carcialo]\nBem, até logo!\nTenha orgulho de ser um Alquimista!",
-        "es-ES": "[Vincent Carsciallo]\nNos vemos\nmás tarde, entonces…\nRecuerda\nsentir orgullo\nde ser Alquimista."
+        "es-ES": "[Vincent Carsciallo]\nNos vemos\nmás tarde, entonces...\nRecuerda\nsentir orgullo\nde ser Alquimista."
     },
     "CVylBg": {
         "en-US": "[Vincent Carsciallo]\nAnd...\nHere's a little\nsomething to help\nyou begin your\nresearch.",
         "pt-BR": "[Vincent Carcialo]\nEsse é um presente de formatura.\nEstude com cuidado esse livro.",
-        "es-ES": "[Vincent Carsciallo]\nY…\nAquí tienes\nalgo para ayudarte\na comenzar tu\ninvestigación."
+        "es-ES": "[Vincent Carsciallo]\nY...\nAquí tienes\nalgo para ayudarte\na comenzar tu\ninvestigación."
     },
     "ClylBg": {
         "en-US": "[Vincent Carsciallo]\nAh...\nI believe you've\nalready registered\nfor training to become\nan Alchemist.",
         "pt-BR": "[Vincent Carcialo]\nImagino que você seja um candidato a Alquimista...\nBoa sorte!",
-        "es-ES": "[Vincent Carsciallo]\nAh…\nCreo que\nya te registraste\npara el entrenamiento para convertirte en\nAlquimista."
+        "es-ES": "[Vincent Carsciallo]\nAh...\nCreo que\nya te registraste\npara el entrenamiento para convertirte en\nAlquimista."
     },
     "C1ylBg": {
         "en-US": "[Vincent Carsciallo]\nPlease listen to the\nother Alchemists and follow their instructions carefully. You will learn much from them.",
@@ -1507,7 +1507,7 @@
     "DVylBg": {
         "en-US": "[Nicholas Flamel]\nOoh...\nYou're the upstart\nMerchant that wants\nto become an Alchemist?",
         "pt-BR": "[Nicholas Flamel]\nOlá! Você é o Mercador que quer se tornar Alquimista?\nMuito bem, mas você sabe, né? Nem todo mundo é capaz de ser um Alquimista.",
-        "es-ES": "[Nicholas Flamel]\nAh…\n¿Eres esa persona que comenzó \ncomo Comerciante y quiere\nconvertirse en Alquimista?"
+        "es-ES": "[Nicholas Flamel]\nAh...\n¿Eres esa persona que comenzó \ncomo Comerciante y quiere\nconvertirse en Alquimista?"
     },
     "DlylBg": {
         "en-US": "[Nicholas Flamel]\nNot just anyone can become an Alchemist, you know. You've got to have motivation and clear goals and a strong sense of focus.",
@@ -1861,8 +1861,8 @@
     },
     "VFylBg": {
         "en-US": "[Nicholas Flamel]\nAh, you finished.\nNow, let's see...",
-        "pt-BR": "[Nicholas Flamel]\nAh, você terminou.\nAgora, vamos ver…",
-        "es-ES": "[Nicholas Flamel]\nAh, terminaste.\nAhora, veamos…"
+        "pt-BR": "[Nicholas Flamel]\nAh, você terminou.\nAgora, vamos ver...",
+        "es-ES": "[Nicholas Flamel]\nAh, terminaste.\nAhora, veamos..."
     },
     "VVylBg": {
         "en-US": "Excellent job!",
@@ -1907,12 +1907,12 @@
     "XVylBg": {
         "en-US": "[Nicholas Flamel]\nWhoa...\nYou're carrying too much stuff! First, put some of your things in Kafra Storage.",
         "pt-BR": "[Nicholas Flamel]\nUau...\nVocê está carregando coisas demais! Primeiro, coloque algumas das suas coisas no Armazenamento Kafra.",
-        "es-ES": "[Nicholas Flamel]\nGuau…\nLlevas demasiados objetos. Primero, pon algunas cosas en el Almacén de Kafra."
+        "es-ES": "[Nicholas Flamel]\nGuau...\nLlevas demasiados objetos. Primero, pon algunas cosas en el Almacén de Kafra."
     },
     "XlylBg": {
         "en-US": "[Nicholas Flamel]\nAlright...\nFor your next\nassignment, you'll\nneed to travel to ^551A8BJuno^000000.",
         "pt-BR": "[Nicholas Flamel]\nCerto...\nPara sua próxima tarefa, você precisará viajar para ^551A8BJuno^000000.",
-        "es-ES": "[Nicholas Flamel]\nMuy bien…\nPara tu próxima\ntarea, tendrás\nque viajar a ^551A8BJuno^000000."
+        "es-ES": "[Nicholas Flamel]\nMuy bien...\nPara tu próxima\ntarea, tendrás\nque viajar a ^551A8BJuno^000000."
     },
     "X1ylBg": {
         "en-US": "[Nicholas Flamel]\nThere, you'll need to talk to ^551A8BBain^000000 and ^551A8BBajin^000000. Those two are doing Alchemy research with the Sages\nin Juno. You'll learn something by assisting them with their project.",
@@ -1967,11 +1967,11 @@
     "aVylBg": {
         "en-US": "[Nicholas Flamel]\nSuspendisse sit amet urna in\nnisl fringilla faucibus. Nulla scelerisque eros...\n^666666*Mumble Mumble*^000000",
         "pt-BR": "[Nicholas Flamel]\nSuspendisse sit amet urna in nisl fringilla faucibus. Nulla scelerisque eros...\n^666666Resmunga Resmunga^000000",
-        "es-ES": "[Nicholas Flamel]\nSuspendisse sit amet urna in\nnisl fringilla faucibus. Nulla scelerisque eros…\n^666666*Murmura*^000000"
+        "es-ES": "[Nicholas Flamel]\nSuspendisse sit amet urna in\nnisl fringilla faucibus. Nulla scelerisque eros...\n^666666*Murmura*^000000"
     },
     "alylBg": {
         "en-US": "[Parmy Gianino]\nWait, wait...\nI'm sorry. I was confused,\nthat's all. You look just like\nsomeone I used to know.\nStill, I get this weird\nfeeling about you...",
         "pt-BR": "[Parmy Gianino]\n...não, não pode ser. Você parece\nalguém que conheci.\nDevo estar enganada...",
-        "es-ES": "[Parmy Gianino]\nUn momento…\nLo siento. Me confundí.\nEso es todo. Te pareces a\nalguien que conocí alguna vez. \nAun así, tengo una sensación\nextraña sobre ti…"
+        "es-ES": "[Parmy Gianino]\nUn momento...\nLo siento. Me confundí.\nEso es todo. Te pareces a\nalguien que conocí alguna vez. \nAun así, tengo una sensación\nextraña sobre ti..."
     }
 }

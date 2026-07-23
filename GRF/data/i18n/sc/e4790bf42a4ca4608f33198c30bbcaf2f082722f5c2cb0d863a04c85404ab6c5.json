@@ -157,7 +157,7 @@
     "XxgEAw": {
         "en-US": "[Salim Hamid]\nAnd this place is a classroom for aspiring Merchants... and it doubles as the Academy's accounting office.",
         "pt-BR": "[Salim Hamid]\nEsse lugar é a sala de aula para Mercadores aspirantes... e funciona como o escritório de contabilidade da Academia.",
-        "es-ES": "[Salim Hamid]\nY este lugar es un aula para aspirantes a Comerciantes… y a veces también es la oficina de contabilidad de la Academia."
+        "es-ES": "[Salim Hamid]\nY este lugar es un aula para aspirantes a Comerciantes... y a veces también es la oficina de contabilidad de la Academia."
     },
     "YBgEAw": {
         "en-US": "[Salim Hamid]\nIf you'd like to learn about the Merchant class, please come to me and apply for my class. Now, if you'll excuse me, I've got some bookkeeping to do.",
@@ -207,7 +207,7 @@
     "aRgEAw": {
         "en-US": "[Salim Hamid]\nMm, your name is...\n^0000FF{0}^000000. Is that correct?",
         "pt-BR": "[Salim Hamid]\nHum, seu nome é...\n^0000FF{0}^000000. Está certo?",
-        "es-ES": "[Salim Hamid]\nMm, tu nombre es…\n^0000FF{0}^000000. ¿Es correcto?"
+        "es-ES": "[Salim Hamid]\nMm, tu nombre es...\n^0000FF{0}^000000. ¿Es correcto?"
     },
     "ahgEAw": {
         "en-US": "[Salim Hamid]\nBefore the class, I want you to start thinking like a businessman. You can't call yourself a Merchant if you don't even have 100 Zeny in your wallet.",
@@ -447,7 +447,7 @@
     "mRgEAw": {
         "en-US": "[Salim Hamid]\nSee that loud vending machine in the corner of this classroom? It used to sell beverages, but it kept swallowing up money...",
         "pt-BR": "[Salim Hamid]\nTá vendo aquela máquina de vendas barulhenta no canto dessa sala de aula? Ela costumava vender bebidas, mas está engolindo o dinheiro...",
-        "es-ES": "[Salim Hamid]\n¿Ves esa ruidosa máquina expendedora en la esquina de esta aula? Antes vendía bebidas, pero no dejaba de tragarse el dinero…"
+        "es-ES": "[Salim Hamid]\n¿Ves esa ruidosa máquina expendedora en la esquina de esta aula? Antes vendía bebidas, pero no dejaba de tragarse el dinero..."
     },
     "mhgEAw": {
         "en-US": "[Salim Hamid]\nAnyway, because of that reason, it's now being used for students' skill practice purposes. I want you to go find out the prices of Garlets and Zargons sold by that machine.",
@@ -582,12 +582,12 @@
     "tBgEAw": {
         "en-US": "[Butler Aidin]\nThere are many ways you can make a profit as a businessman. Coercion, bribery, illegal trade...",
         "pt-BR": "[Mordomo Aidin]\nExistem muitas maneiras de lucrar como alguém de negócios. Coerção, suborno, comércio ilegal...",
-        "es-ES": "[Mayordomo Aidin]\nHay muchas formas de obtener beneficios como gente de negocios. Coacción, soborno, comercio ilegal…"
+        "es-ES": "[Mayordomo Aidin]\nHay muchas formas de obtener beneficios como gente de negocios. Coacción, soborno, comercio ilegal..."
     },
     "tRgEAw": {
         "en-US": "[Butler Aidin]\nEven violence and bloodshed... (Staring into space, reminiscing)",
         "pt-BR": "[Mordomo Aidin]\nAté mesmo violência e derramamento de sangue... (Olhando para o nada, relembrando)",
-        "es-ES": "[Mayordomo Aidin]\nIncluso la violencia y matanza… *Mira fijamente a la nada, recordando*"
+        "es-ES": "[Mayordomo Aidin]\nIncluso la violencia y matanza... *Mira fijamente a la nada, recordando*"
     },
     "thgEAw": {
         "en-US": "[Butler Aidin]\nAh! What am I talking about?\nPlease disregard what I said. All of that's illegal. As a Merchant, you can make money with two skills: ^0000FFOvercharge and Discount^000000.",
@@ -732,7 +732,7 @@
     "0hgEAw": {
         "en-US": "[Butler Aidin]\nFor other information, you can talk to Master Salim Hamid. Oh, right--I've got something to give you.",
         "pt-BR": "[Mordomo Aidin]\nPara outras informações, você pode falar com o Mestre Salim Hamid. Ah, é... Eu tenho algo para lhe dar.",
-        "es-ES": "[Mayordomo Aidin]\nPara más información, puedes hablar con el Maestro Salim Hamid. Ah, cierto… tengo algo para darte."
+        "es-ES": "[Mayordomo Aidin]\nPara más información, puedes hablar con el Maestro Salim Hamid. Ah, cierto... tengo algo para darte."
     },
     "0xgEAw": {
         "en-US": "[Butler Aidin]\nThis crate contains some defective equipment that I found while taking inventory. You can use the equipment in it to try the Item Appraisal skill from the Merchant Manual.",

@@ -102,12 +102,12 @@
     "FPTRBw": {
         "en-US": "[Rookie]\n...That was almost a disaster.\nThis person is with us. Not an intruder. You said you could always communicate with Alpha, so why did you do something like this?",
         "pt-BR": "[Lukie]\n......Por pouco não aconteceu algo grave.\nEla não é uma intrusa. Disseram que sempre era possível se comunicar com Alpha, então por que fez isso?",
-        "es-ES": "[Lukie]\n……Por poco ocurre una desgracia.\nEsta persona es de nuestro grupo. No es un intruso. Se suponía que siempre podías comunicarte con Alpha, ¿por qué hiciste algo así?"
+        "es-ES": "[Lukie]\n......Por poco ocurre una desgracia.\nEsta persona es de nuestro grupo. No es un intruso. Se suponía que siempre podías comunicarte con Alpha, ¿por qué hiciste algo así?"
     },
     "FfTRBw": {
         "en-US": "[Rensiz]\nNetwork inspection, automatic error correction. Rechecking packets...\nAh, confirmed.\n...However, their behavior pattern was over 62% similar to that of intruders, so I classified them as an intruder.",
         "pt-BR": "[Rensiz]\nVerificação de rede, correção automática de erro. Reconfirmando pacote......\nAh, confirmado.\n......Contudo, ela apresentou padrão de comportamento com mais de 62% de semelhança com intrusos, portanto foi considerada intrusa.",
-        "es-ES": "[Rensiz]\nInspección de red, corrección automática de errores. Reconfirmando paquetes……\nAh, confirmado.\n……Sin embargo, mostró un patrón de comportamiento similar en más de un 62% al de los intrusos, así que lo consideré un intruso."
+        "es-ES": "[Rensiz]\nInspección de red, corrección automática de errores. Reconfirmando paquetes......\nAh, confirmado.\n......Sin embargo, mostró un patrón de comportamiento similar en más de un 62% al de los intrusos, así que lo consideré un intruso."
     },
     "FvTRBw": {
         "en-US": "[Leizi]\nWhere did the other 38% go?",
@@ -122,7 +122,7 @@
     "GPTRBw": {
         "en-US": "[Eliumina]\nWait, something's wrong with me... My head hurts, and I'm starting to feel dizzy and nauseous.",
         "pt-BR": "[Elyumina]\nEspere, estou estranha... Minha cabeça dói, estou começando a ficar tonta e enjoada.",
-        "es-ES": "[Eliumina]\nEspera, me siento rara… Me duele la cabeza, y estoy empezando a marearme y a sentir náuseas."
+        "es-ES": "[Eliumina]\nEspera, me siento rara... Me duele la cabeza, y estoy empezando a marearme y a sentir náuseas."
     },
     "GfTRBw": {
         "en-US": "[Rookie]\nWhat should we do? They said the sewage around here comes from the laboratory, so it's practically a poison.\nJust looking at it, it seems like water that would be bad for you, and she fell into it.",
@@ -172,7 +172,7 @@
     "IvTRBw": {
         "en-US": "[Rensiz]\nIf you require poison... I can provide it, but...",
         "pt-BR": "[Rensiz]\nCaso necessite de antídoto, posso fornecê-lo.......",
-        "es-ES": "[Rensiz]\nSi necesita veneno, se lo proporcionaré, pero……."
+        "es-ES": "[Rensiz]\nSi necesita veneno, se lo proporcionaré, pero......."
     },
     "I/TRBw": {
         "en-US": "Eliumina",
@@ -232,17 +232,17 @@
     "LvTRBw": {
         "en-US": "No, that’s not it...",
         "pt-BR": "Não, não é isso...",
-        "es-ES": "No, no es eso……."
+        "es-ES": "No, no es eso......."
     },
     "L/TRBw": {
         "en-US": "[Rookie]\nYour face is ashen. Your steps are unsteady... and you should change out of those wet clothes, too.\nThe adventurer will have things ready so you can be treated right away. Hang in there.",
         "pt-BR": "[Lukie]\nSeu rosto está pálido. Seus passos estão instáveis... E você precisa trocar essas roupas molhadas.\nO ambulatório já deve estar preparando tudo para que possa ser atendida imediatamente. Anime-se.",
-        "es-ES": "[Lukie]\nTienes el rostro pálido. Y caminas inestable… También deberías cambiarte la ropa mojada.\nEl trotamundos ya estará preparando todo para que puedas recibir atención de inmediato. Ánimo."
+        "es-ES": "[Lukie]\nTienes el rostro pálido. Y caminas inestable... También deberías cambiarte la ropa mojada.\nEl trotamundos ya estará preparando todo para que puedas recibir atención de inmediato. Ánimo."
     },
     "MPTRBw": {
         "en-US": "[Eliumina]\nUgh... I feel strange. Ah— I can see a river made of surging machines and screws over there...",
         "pt-BR": "[Elyumina]\nUgh... Estou me sentindo estranha. Ahh olha, estou vendo uma cachoeira de pregos e parafusos...",
-        "es-ES": "[Eliumina]\nUgh… me siento raro. ¡Aaah, allí veo un río de máquinas ondulantes y tornillos…!"
+        "es-ES": "[Eliumina]\nUgh... me siento raro. ¡Aaah, allí veo un río de máquinas ondulantes y tornillos...!"
     },
     "MfTRBw": {
         "en-US": "[Leizi]\nWhat are you looking at? You don’t seem normal. Criminal scientist, are you okay?",
@@ -257,7 +257,7 @@
     "M/TRBw": {
         "en-US": "[Eliumina]\nAh... I don’t care anymore. Intruder or whatever.\nI just need to cross that river, ahaha...",
         "pt-BR": "[Elyumina]\nAh... deixa pra lá. Seja intrusa ou o que for. Só preciso me banhar naquela cachoeira de pregos e parafusos, ahaha...",
-        "es-ES": "[Eliumina]\nAh… ya me da igual. Intruso o lo que sea. Solo tengo que cruzar ese río, ajajaja…"
+        "es-ES": "[Eliumina]\nAh... ya me da igual. Intruso o lo que sea. Solo tengo que cruzar ese río, ajajaja..."
     },
     "NPTRBw": {
         "en-US": "[Rookie]\nWait, wait a moment. This one is with our party.\nThey’re in a condition that needs diagnosis and treatment. Please, quickly.",
@@ -277,7 +277,7 @@
     "N/TRBw": {
         "en-US": "[Nid]\nOf all things, you came into contact with dangerous waste chemicals discharged from the laboratory...\nTo explain your current situation, your life is in critical danger!",
         "pt-BR": "[Nid]\nPortanto, as substâncias residuais perigosas descartadas pelo laboratório...\nPara explicar sua situação atual, você vai morrer!",
-        "es-ES": "[Nid]\nY justo tuvo contacto con los peligrosos químicos de desecho que se descargan del laboratorio…\nPara explicarle la situación actual, ¡su vida está en peligro inminente!"
+        "es-ES": "[Nid]\nY justo tuvo contacto con los peligrosos químicos de desecho que se descargan del laboratorio...\nPara explicarle la situación actual, ¡su vida está en peligro inminente!"
     },
     "OPTRBw": {
         "en-US": "[Nid]\nYou can understand it as being almost poisoned by a deadly toxin.\nHmm, this is a big problem~",
@@ -300,9 +300,9 @@
         "es-ES": "[Nid]\nMmm, cliente. Pero esa persona no es un cliente. ¿Es un intruso, no?\nNo puedo ofrecerle a un intruso los mismos beneficios que a un cliente."
     },
     "PPTRBw": {
-        "en-US": "[Eliumina]\nYes, yes. Of course. Fine, just leave it…….\nIf we leave it alone, it looks like it’ll die on its own. Farewell, my beloved machines. I’ll be going on ahead.",
+        "en-US": "[Eliumina]\nYes, yes. Of course. Fine, just leave it.......\nIf we leave it alone, it looks like it’ll die on its own. Farewell, my beloved machines. I’ll be going on ahead.",
         "pt-BR": "[Elyumina]\nÉ isso pessoal, esse é o meu fim...\nSe me deixarem assim, acabarei morrendo de qualquer forma. Adeus, minhas amadas máquinas, eu irei primeiro.",
-        "es-ES": "[Eliumina]\nSí, sí. Claro. Ya está, déjalo…\nSi lo dejo así, parece que morirá por sí solo. Adiós, mis queridas máquinas, yo me iré primero."
+        "es-ES": "[Eliumina]\nSí, sí. Claro. Ya está, déjalo...\nSi lo dejo así, parece que morirá por sí solo. Adiós, mis queridas máquinas, yo me iré primero."
     },
     "PfTRBw": {
         "en-US": "[Rookie]\nThat’s too harsh. Don’t do that—there has to be some way, right?\nJust because you were once Illusion doesn’t mean you’ll be Illusion forever. Even if you still have to pay for your sins. You have to live to do that.",
@@ -315,9 +315,9 @@
         "es-ES": "Leizi: Sí, parece que todavía es algo parecido a Illusion, pero es un poco diferente de Illusion. Un poco."
     },
     "P/TRBw": {
-        "en-US": "Eliumina: “A little”…… Could you stop lumping me in the same category as those idiots?",
+        "en-US": "Eliumina: “A little”...... Could you stop lumping me in the same category as those idiots?",
         "pt-BR": "Elyumina: Ai Nalandro... vai catar coquinho.",
-        "es-ES": "Eliumina: ¿Un poco…? ¿Podrías dejar de meterme una y otra vez en la misma categoría que esos idiotas?"
+        "es-ES": "Eliumina: ¿Un poco...? ¿Podrías dejar de meterme una y otra vez en la misma categoría que esos idiotas?"
     },
     "QPTRBw": {
         "en-US": "[Nid]\nIf you knew how much the intruders ruined our precious work, you wouldn’t be able to say that.",
@@ -330,14 +330,14 @@
         "es-ES": "[Lukie]\n¿No queda más remedio que usar este método?\n¡Argh, como Mercenario que ha venido aquí con el estatus de invitado de ^0000CDVarmunt^000000, se lo ruego!!!\nQuiero salvar a esta persona. ¡Dime cómo!!"
     },
     "QvTRBw": {
-        "en-US": "[Eliumina]\n……Why are you going that far? What am I to you? Of course, I am the great Lady Eliumina, but you…",
+        "en-US": "[Eliumina]\n......Why are you going that far? What am I to you? Of course, I am the great Lady Eliumina, but you...",
         "pt-BR": "[Elyumina]\n......Por que fez isso? Quem eu sou para você? Claro que sou a grandiosa doutora Elyumina, mas...",
-        "es-ES": "[Eliumina]\n…¿Por qué haces tanto? ¿Qué soy yo para ti? Claro, soy la grandiosa Eliumina, pero ustedes…"
+        "es-ES": "[Eliumina]\n...¿Por qué haces tanto? ¿Qué soy yo para ti? Claro, soy la grandiosa Eliumina, pero ustedes..."
     },
     "Q/TRBw": {
-        "en-US": "[Nid]\nI-if you insist that much…\nYou can make an antidote with the leaves of ^0000CDSilva Papilia^000000, a material that comes from the Floating Garden. The master raised it for that purpose.",
+        "en-US": "[Nid]\nI-if you insist that much...\nYou can make an antidote with the leaves of ^0000CDSilva Papilia^000000, a material that comes from the Floating Garden. The master raised it for that purpose.",
         "pt-BR": "[Nid]\nS-Se você insiste tanto assim...\nCom as folhas de ^0000CDPapilia^000000, do Ortus Aqua, será possível preparar um antídoto. O Mestre Varmunt as cultivava para esse propósito.",
-        "es-ES": "[Nid]\nSi… si lo dice hasta ese punto…\nPodrá hacerse un antídoto con las hojas de ^0000CDPapilia Violeta^000000, un material que sale del Jardín Suspendido. Como el amo lo cultivaba para ese propósito."
+        "es-ES": "[Nid]\nSi... si lo dice hasta ese punto...\nPodrá hacerse un antídoto con las hojas de ^0000CDPapilia Violeta^000000, un material que sale del Jardín Suspendido. Como el amo lo cultivaba para ese propósito."
     },
     "RPTRBw": {
         "en-US": "[Nid]\nBut I don’t know whether the gardeners will let you in.",
@@ -365,14 +365,14 @@
         "es-ES": "[Nid]\nAl hámster del jardín puede darle cualquier comida, y se la comerá bien.\nPero no debe golpearlo a la ligera."
     },
     "SfTRBw": {
-        "en-US": "[Nid]\nOh, you call it the Cleaning Robot? Of course, there are caretakers who call it that…….\nI call it a hamster. I read it in a book. It said that if it diligently picks things up and carries them around in its cheeks, it’s a hamster. Besides, hamsters are cuter than Cleaning Robot, aren’t they?",
+        "en-US": "[Nid]\nOh, you call it the Cleaning Robot? Of course, there are caretakers who call it that.......\nI call it a hamster. I read it in a book. It said that if it diligently picks things up and carries them around in its cheeks, it’s a hamster. Besides, hamsters are cuter than Cleaning Robot, aren’t they?",
         "pt-BR": "[Nid]\nQuem é o hamster? Me refiro ao Robô de Limpeza...\nEu chamo de Hamster. Li num livro que hamsters recolhem coisas e guardam nas bochechas. Igual ao Robô de Limpeza. Chamar de Hamster é mais fofo, não concorda?",
-        "es-ES": "[Nid]\nOh, ¿Robot de Limpieza? Claro, también hay administradores que lo llaman así, pero…\nYo lo llamo hámster. Lo leí en un libro. Decía que si recoge cosas con diligencia y se las mete en las mejillas, es un hámster. Además, ¿un hámster no es más lindo que un Robot de Limpieza?"
+        "es-ES": "[Nid]\nOh, ¿Robot de Limpieza? Claro, también hay administradores que lo llaman así, pero...\nYo lo llamo hámster. Lo leí en un libro. Decía que si recoge cosas con diligencia y se las mete en las mejillas, es un hámster. Además, ¿un hámster no es más lindo que un Robot de Limpieza?"
     },
     "SvTRBw": {
-        "en-US": "Eliumina: I don’t care anymore. To be hated like this… I don’t care what happens…….",
+        "en-US": "Eliumina: I don’t care anymore. To be hated like this... I don’t care what happens.......",
         "pt-BR": "Elyumina: Ah... deixa pra lá. Ser odiada assim, não importa o que me aconteça...",
-        "es-ES": "Eliumina: Ya me da igual. Que me odien así… no me importa lo que pase…"
+        "es-ES": "Eliumina: Ya me da igual. Que me odien así... no me importa lo que pase..."
     },
     "S/TRBw": {
         "en-US": "Leizi: This is really the first time I’ve seen the scientific criminal so down in the dumps.",
@@ -390,9 +390,9 @@
         "es-ES": "Seiyu"
     },
     "TvTRBw": {
-        "en-US": "[Seiyu]\n……………….",
+        "en-US": "[Seiyu]\n...................",
         "pt-BR": "[Seiyu]\n...................",
-        "es-ES": "[Seiyu]\n………………."
+        "es-ES": "[Seiyu]\n..................."
     },
     "T/TRBw": {
         "en-US": "[Leizi]\nSomehow, that gaze is icy.",
@@ -400,9 +400,9 @@
         "es-ES": "[Leizi]\nPor alguna razón, su mirada es fría."
     },
     "UPTRBw": {
-        "en-US": "[Seiyu]\nWelcome, customer…….\nHow may I help you?",
+        "en-US": "[Seiyu]\nWelcome, customer.......\nHow may I help you?",
         "pt-BR": "[Seiyu]\nBoas-vindas, visitante...\nComo posso ajudar?",
-        "es-ES": "[Seiyu]\nBienvenido, señor…….\n¿En qué puedo ayudarle?"
+        "es-ES": "[Seiyu]\nBienvenido, señor.......\n¿En qué puedo ayudarle?"
     },
     "UfTRBw": {
         "en-US": "[Rookie]\nCan I enter Floating Garden? I need to get ^0000CD ^000000Silva Papilia leaves^000000 inside.\nI’d like to get permission.",
@@ -445,9 +445,9 @@
         "es-ES": "[Seiyu]\n¿Es porque aún lo necesitan?\n¿Los humanos son así?"
     },
     "WfTRBw": {
-        "en-US": "[Rookie]\nTh-That is…",
+        "en-US": "[Rookie]\nTh-That is...",
         "pt-BR": "[Lukie]\nI-Isso é...",
-        "es-ES": "[Lukie]\nE-eso…"
+        "es-ES": "[Lukie]\nE-eso..."
     },
     "WvTRBw": {
         "en-US": "Eliumina is our companion.",
@@ -470,14 +470,14 @@
         "es-ES": "[Seiyu]\n¿Por qué? Estoy aprendiendo qué es un compañero.\nSegún esa definición, esa persona no es un compañero."
     },
     "XvTRBw": {
-        "en-US": "[Eliumina]\nHumans are foolish. That’s why they do things a little different from a machine’s beautiful reasoning…… It’s rather miserable that I’m talking about myself.",
+        "en-US": "[Eliumina]\nHumans are foolish. That’s why they do things a little different from a machine’s beautiful reasoning...... It’s rather miserable that I’m talking about myself.",
         "pt-BR": "[Elyumina]\nOs humanos são tolos. Por isso fazem coisas um pouco diferentes do belo raciocínio das máquinas...... Essa é a minha história miserável.",
-        "es-ES": "[Eliumina]\nLos humanos son tontos. Por eso hacen cosas un poco distintas al hermoso razonamiento de las máquinas……. Que esa sea mi historia es algo miserable."
+        "es-ES": "[Eliumina]\nLos humanos son tontos. Por eso hacen cosas un poco distintas al hermoso razonamiento de las máquinas....... Que esa sea mi historia es algo miserable."
     },
     "X/TRBw": {
         "en-US": "[Eliumina]\nAnyway, a machine that holds such curiosity is very, very charming. I want to know more about the way you think.",
         "pt-BR": "[Elyumina]\nEnfim, uma máquina com tais questionamentos é extremamente encantadora. Quero saber mais sobre a sua forma de pensar.",
-        "es-ES": "[Eliumina]\nEn fin, una máquina con esa curiosidad… es muy, muy atractiva. Quiero saber más sobre tu forma de pensar."
+        "es-ES": "[Eliumina]\nEn fin, una máquina con esa curiosidad... es muy, muy atractiva. Quiero saber más sobre tu forma de pensar."
     },
     "YPTRBw": {
         "en-US": "[Seiyu]\nI will exclude you.\nHuman judgment is difficult for me as well. But thank you for sharing your opinion.",
@@ -490,14 +490,14 @@
         "es-ES": "[Seiyu]\n¿Ah, sí? Entonces, salvarlo porque es útil significa que, en adelante, también debe seguir siendo útil, ¿no?"
     },
     "YvTRBw": {
-        "en-US": "[Eliumina]\nHa, haha… It’s similar to an automatron, isn’t it? You operate like this because you are helpful to humans, because you exist to be helpful.",
+        "en-US": "[Eliumina]\nHa, haha... It’s similar to an automatron, isn’t it? You operate like this because you are helpful to humans, because you exist to be helpful.",
         "pt-BR": "[Elyumina]\nHa, haha... Não é assim com as Autômatas? Vocês também funcionam assim porque são úteis aos humanos, porque existem para ser úteis.",
-        "es-ES": "[Eliumina]\nJa, jaja… ¿No es parecido a una muñeca automática? Porque ustedes también funcionan así, ya que son útiles para los humanos, para serles útiles."
+        "es-ES": "[Eliumina]\nJa, jaja... ¿No es parecido a una muñeca automática? Porque ustedes también funcionan así, ya que son útiles para los humanos, para serles útiles."
     },
     "Y/TRBw": {
-        "en-US": "[Seiyu]\nDo not compare us to you.\n…But humans’ standards of judgment, I feel I can almost understand them, and yet not quite.",
+        "en-US": "[Seiyu]\nDo not compare us to you.\n...But humans’ standards of judgment, I feel I can almost understand them, and yet not quite.",
         "pt-BR": "[Seiyu]\nNão nos compare com você.\n...Ainda assim, talvez eu consiga compreender um pouco os critérios de julgamento humano.",
-        "es-ES": "[Seiyu]\nNo nos compare con usted.\n…Pero el criterio de juicio humano, creo que puedo entenderlo un poco, o quizá no."
+        "es-ES": "[Seiyu]\nNo nos compare con usted.\n...Pero el criterio de juicio humano, creo que puedo entenderlo un poco, o quizá no."
     },
     "ZPTRBw": {
         "en-US": "[Seiyu]\nI did not expect you to say that.\nBased on the data so far, I understood humans to be a species that harms one another when necessary.",
@@ -515,14 +515,14 @@
         "es-ES": "[Seiyu]\nLa opinión de los excluidos no tiene valor."
     },
     "Z/TRBw": {
-        "en-US": "[Seiyu]\n…Humans truly are troublesome.\nI cannot understand your criteria for judgment, but in any case, I have understood it.",
+        "en-US": "[Seiyu]\n...Humans truly are troublesome.\nI cannot understand your criteria for judgment, but in any case, I have understood it.",
         "pt-BR": "[Seiyu]\n...Os humanos são realmente complicados.\nNão posso compreender seus critérios de julgamento, visitante, mas de qualquer forma entendi o que disse.",
-        "es-ES": "[Seiyu]\n…Los humanos son realmente complicados.\nNo puedo comprender el criterio de juicio del invitado, pero en cualquier caso lo he entendido."
+        "es-ES": "[Seiyu]\n...Los humanos son realmente complicados.\nNo puedo comprender el criterio de juicio del invitado, pero en cualquier caso lo he entendido."
     },
     "aPTRBw": {
-        "en-US": "[Seiyu]\n…Very well. Then please grant me a favor.\nI will allow you to enter Floating Garden, so in return, please help us with our work.",
+        "en-US": "[Seiyu]\n...Very well. Then please grant me a favor.\nI will allow you to enter Floating Garden, so in return, please help us with our work.",
         "pt-BR": "[Seiyu]\n...Muito bem. Então, atenda a um pedido meu.\nPermitirei sua entrada no Ortus Aqua, mas em troca, ajude-nos com nosso trabalho.",
-        "es-ES": "[Seiyu]\n…De acuerdo. Entonces, por favor, acepte mi petición.\nHaré que pueda entrar en Jardín Suspendido, pero a cambio ayúdenos con nuestro trabajo."
+        "es-ES": "[Seiyu]\n...De acuerdo. Entonces, por favor, acepte mi petición.\nHaré que pueda entrar en Jardín Suspendido, pero a cambio ayúdenos con nuestro trabajo."
     },
     "afTRBw": {
         "en-US": "[Seiyu]\nDue to interference from the intruders, some operations in Floating Garden are currently paralyzed.\nIf you promise to help with this, then I will open the gates of Floating Garden for you as well.",
@@ -550,19 +550,19 @@
         "es-ES": "[Eliumina]\nA estas alturas me entran ganas de llevar la contraria. Haré que te enamores de mí, cueste lo que cueste."
     },
     "bvTRBw": {
-        "en-US": "[Leizi]\nYou’re talking like the heroine of a romance novel, but the other party is awfully ambiguous, huh….",
+        "en-US": "[Leizi]\nYou’re talking like the heroine of a romance novel, but the other party is awfully ambiguous, huh....",
         "pt-BR": "[Nalandro]\nElyumina, você gosta de dirigir caminhão...?",
-        "es-ES": "[Leizi]\nHablas como la protagonista de una novela romántica, pero el otro es bastante ambiguo, ¿eh…?"
+        "es-ES": "[Leizi]\nHablas como la protagonista de una novela romántica, pero el otro es bastante ambiguo, ¿eh...?"
     },
     "b/TRBw": {
-        "en-US": "[Rookie]\nAlright, alright. Whether it’s a revenge drama or a romance novel, first make the antidote, drink it, and get better, then talk.\nMina, can you move? They say it’s dangerous inside….",
+        "en-US": "[Rookie]\nAlright, alright. Whether it’s a revenge drama or a romance novel, first make the antidote, drink it, and get better, then talk.\nMina, can you move? They say it’s dangerous inside....",
         "pt-BR": "[Lukie]\nENFIM. Independente de ser boa ou má, primeiro precisamos do antídoto.\nTia Elyu, consegue se mover? Disseram que lá dentro é perigoso...",
-        "es-ES": "[Lukie]\nBien, bien. Sea una historia de venganza o una novela romántica, primero prepara el antídoto, bébetelo, recupérate y luego hablamos.\nMina, ¿puedes moverte? Dicen que dentro es peligroso…."
+        "es-ES": "[Lukie]\nBien, bien. Sea una historia de venganza o una novela romántica, primero prepara el antídoto, bébetelo, recupérate y luego hablamos.\nMina, ¿puedes moverte? Dicen que dentro es peligroso...."
     },
     "cPTRBw": {
-        "en-US": "[Eliumina]\n……Sorry, I can’t.\nEven just walking right now is exhausting.",
+        "en-US": "[Eliumina]\n......Sorry, I can’t.\nEven just walking right now is exhausting.",
         "pt-BR": "[Elyumina]\n......Urgh, não consigo.\nSó de andar já é difícil.",
-        "es-ES": "[Eliumina]\n……Lo siento, no puedo.\nAhora mismo, incluso solo caminar me resulta agotador."
+        "es-ES": "[Eliumina]\n......Lo siento, no puedo.\nAhora mismo, incluso solo caminar me resulta agotador."
     },
     "cfTRBw": {
         "en-US": "[Rookie]\nHmm, then I think I should stay behind to keep an eye on Mina.\nAdventurer, could you go inside and bring back some leaves of Silva Papilia?",
@@ -590,9 +590,9 @@
         "es-ES": "[Lukie]\nConfío en usted, trotamundos.\nVaya con cuidado."
     },
     "dvTRBw": {
-        "en-US": "[Leizi]\nHuh? Adventurer… think back on the amount of fights you’ve had so far.\nI urge you to rethink what you said.",
+        "en-US": "[Leizi]\nHuh? Adventurer... think back on the amount of fights you’ve had so far.\nI urge you to rethink what you said.",
         "pt-BR": "[Nalandro]\nHã? Viajante... você enfrentou muito monstro pra chegar no nível que está agora.\nNão acho que você seja tão 'da paz' assim, não.",
-        "es-ES": "[Leizi]\n¿Eh? Trotamundos… recuerda los combates que has librado hasta ahora.\nY, con la mano en el pecho, volvamos a pensarlo."
+        "es-ES": "[Leizi]\n¿Eh? Trotamundos... recuerda los combates que has librado hasta ahora.\nY, con la mano en el pecho, volvamos a pensarlo."
     },
     "d/TRBw": {
         "en-US": "[Rookie]\nThen we will wait here.\nWhen you return, please speak to Seiyu again.",
@@ -605,9 +605,9 @@
         "es-ES": "[Seiyu]\nHabla con <NAVI>[Harad]<INFO>ba_maison,238,44,0,101,0</INFO></NAVI> que está a un lado, y podrás entrar al Jardín Suspendido.\nPuede ser peligroso una vez dentro, pero como es algo que tú mismo provocaste, ten cuidado."
     },
     "efTRBw": {
-        "en-US": "[Leizi]\nIt feels like I can hear its inner thoughts coming and going, that automatron…….",
+        "en-US": "[Leizi]\nIt feels like I can hear its inner thoughts coming and going, that automatron.......",
         "pt-BR": "[Nalandro]\nEssa autômata fala as coisas sem rodeios, isso é ótimo.",
-        "es-ES": "[Leizi]\nParece como si sus verdaderos sentimientos entraran y salieran, esa autómata……."
+        "es-ES": "[Leizi]\nParece como si sus verdaderos sentimientos entraran y salieran, esa autómata......."
     },
     "evTRBw": {
         "en-US": "[Eliumina]\nThe automatron is still fine, though.",
@@ -637,7 +637,7 @@
     "f/TRBw": {
         "en-US": "[Rookie]\nThen... could I ask you?",
         "pt-BR": "[Lukie]\nEntão... podemos contar com você?",
-        "es-ES": "[Lukie]\nEntonces… ¿podría pedírtelo?"
+        "es-ES": "[Lukie]\nEntonces... ¿podría pedírtelo?"
     },
     "gPTRBw": {
         "en-US": "[Seiyu]\nVery well. Please give me the Silva Papilia leaves.",
@@ -650,24 +650,24 @@
         "es-ES": "Entregas las hojas de Papilia Violeta."
     },
     "gvTRBw": {
-        "en-US": "[Seiyu]\n……………….\n……………….",
+        "en-US": "[Seiyu]\n...................\n...................",
         "pt-BR": "[Seiyu]\n...................\n...................",
-        "es-ES": "[Seiyu]\n……………….\n………………."
+        "es-ES": "[Seiyu]\n...................\n..................."
     },
     "g/TRBw": {
-        "en-US": "[Seiyu]\n……………….\n……………….\n……………….",
+        "en-US": "[Seiyu]\n...................\n...................\n...................",
         "pt-BR": "[Seiyu]\n...................\n...................\n...................",
-        "es-ES": "[Seiyu]\n……………….\n……………….\n………………."
+        "es-ES": "[Seiyu]\n...................\n...................\n..................."
     },
     "hPTRBw": {
-        "en-US": "[Eliumina]\nWatching a smart automatron someone else made is so nice.\nI want to research and analyze it too... if only this dizziness would go away….",
+        "en-US": "[Eliumina]\nWatching a smart automatron someone else made is so nice.\nI want to research and analyze it too... if only this dizziness would go away....",
         "pt-BR": "[Elyumina]\nVer uma Autômata feita por outra pessoa é maravilhoso.\nQuero pesquisar elas também... assim que essa tontura passar...",
-        "es-ES": "[Eliumina]\nMe encanta ver una autómata inteligente hecha por otra persona.\nYo también quiero investigarla y analizarla… si tan solo se me pasara este mareo…."
+        "es-ES": "[Eliumina]\nMe encanta ver una autómata inteligente hecha por otra persona.\nYo también quiero investigarla y analizarla... si tan solo se me pasara este mareo...."
     },
     "hfTRBw": {
         "en-US": "[Seiyu]\nYour praise does not make me happy.\n...Here, this is the antidote.",
         "pt-BR": "[Seiyu]\nElogios não me afetam.\n......Aqui está o antídoto.",
-        "es-ES": "[Seiyu]\nAunque me elogies, no me alegra.\n……Aquí tienes, el antídoto."
+        "es-ES": "[Seiyu]\nAunque me elogies, no me alegra.\n......Aquí tienes, el antídoto."
     },
     "hvTRBw": {
         "en-US": "Receive the antidote.",
@@ -847,7 +847,7 @@
     "qfTRBw": {
         "en-US": "[Seiyu]\n...................A cookie?\nYou brought this back? Of course, since it's a snack only the gardeners carry, we can use it as confirmation that they're doing well, but...",
         "pt-BR": "[Seiyu]\n........... Biscoito?\nAh, você pegou isso? Como só as jardineiras possuem isso, serve como confirmação de que estão bem.",
-        "es-ES": "[Seiyu]\n……………¿Una galleta?\n¿Has traído esto? Desde luego, como es un dulce que solo llevan los jardineros, puede servir para confirmar que están bien, pero..."
+        "es-ES": "[Seiyu]\n...............¿Una galleta?\n¿Has traído esto? Desde luego, como es un dulce que solo llevan los jardineros, puede servir para confirmar que están bien, pero..."
     },
     "qvTRBw": {
         "en-US": "[Seiyu]\nIn any case, thank you for checking. Eat the cookie. I hear it's delicious.\nThey're cookies meant to provide nutrition to the plants and animals in the garden, but guests seem to enjoy them as well.",
@@ -1065,24 +1065,24 @@
         "es-ES": "[Eliumina]\nSi piensas arrebatarme esta valiosa oportunidad de hablar con los autómatas de Varmunt, ¡no te lo perdonaré!"
     },
     "1fTRBw": {
-        "en-US": "[Eliumina]\n…………………….",
+        "en-US": "[Eliumina]\n.........................",
         "pt-BR": "[Elyumina]\n...................",
-        "es-ES": "[Eliumina]\n……………………."
+        "es-ES": "[Eliumina]\n........................."
     },
     "1vTRBw": {
         "en-US": "[Eliumina]\nDamn it if I'd die like this!\nHmph, when it's damp, drying is harder.",
         "pt-BR": "[Elyumina]\nDroga... Acha que vou morrer assim?!\nHmpf, ficar encharcada não seca tão fácil.",
-        "es-ES": "[Eliumina]\nMaldición… ¡No creas que voy a morir así!\nHmph, cuando está mojado y húmedo, ni siquiera se seca bien."
+        "es-ES": "[Eliumina]\nMaldición... ¡No creas que voy a morir así!\nHmph, cuando está mojado y húmedo, ni siquiera se seca bien."
     },
     "1/TRBw": {
         "en-US": "[Eliumina]\nI'm dizzy... Don't shake me.\nI can't go. Even if you push me from behind to make me go, I can't. I'd just be a burden if I went.",
         "pt-BR": "[Elyumina]\nEstou tonta... Não me sacuda.\nNão consigo ir, mesmo que me empurre. Só vou atrapalhar se for.",
-        "es-ES": "[Eliumina]\nMe mareo… no me sacudas.\nNo puedo ir, aunque me empujes por la espalda para que vaya, no puedo. Si voy, solo estorbaré."
+        "es-ES": "[Eliumina]\nMe mareo... no me sacudas.\nNo puedo ir, aunque me empujes por la espalda para que vaya, no puedo. Si voy, solo estorbaré."
     },
     "2PTRBw": {
         "en-US": "[Leizi]\n...A burden? You were worried about that? Scientist criminal, that's surprising.",
         "pt-BR": "[Nalandro]\n...Atrapalhar? Agora você se preocupa em não atrapalhar? Pas-sa-do.",
-        "es-ES": "[Leizi]\n…¿Estabas preocupándote por estorbar? Señor criminal científico, esto sí que me sorprende."
+        "es-ES": "[Leizi]\n...¿Estabas preocupándote por estorbar? Señor criminal científico, esto sí que me sorprende."
     },
     "2fTRBw": {
         "en-US": "[Eliumina]\nShut up! Idiots don't need consideration!\nAnyway, I'm resting here. I can't move a single step.",
@@ -1102,7 +1102,7 @@
     "3PTRBw": {
         "en-US": "Am I fated to go to Floating Garden alone...",
         "pt-BR": "Acho que irei só ao Ortus Aqua...",
-        "es-ES": "¿Estoy destinada a ir sola a Jardín Suspendido…?"
+        "es-ES": "¿Estoy destinada a ir sola a Jardín Suspendido...?"
     },
     "3fTRBw": {
         "en-US": "[Rookie]\nI’m sorry, Adventurer. Would you like to form a party with another Adventurer?",
@@ -1112,7 +1112,7 @@
     "3vTRBw": {
         "en-US": "[Eliumina]\n.........\n.........\n.........",
         "pt-BR": "[Elyumina]\n..........\n..........\n..........",
-        "es-ES": "[Eliumina]\n……….\n……….\n………."
+        "es-ES": "[Eliumina]\n..........\n..........\n.........."
     },
     "3/TRBw": {
         "en-US": "[Eliumina]\nGah, I must’ve blanked out for a moment and seen the edge of the afterlife!\nAh, this is driving me crazy. Hey, when will the antidote be ready?",
@@ -1127,7 +1127,7 @@
     "4fTRBw": {
         "en-US": "[Eliumina]\n...What is this?\nAh... Is that it? The antidote.",
         "pt-BR": "[Elyumina]\n......O que é isso?\nAh..., é isso. O antídoto.",
-        "es-ES": "[Eliumina]\n……¿Qué es esto?\nAh…, ¿eso? El antídoto."
+        "es-ES": "[Eliumina]\n......¿Qué es esto?\nAh..., ¿eso? El antídoto."
     },
     "4vTRBw": {
         "en-US": "[Rookie]\nI’m sorry we made you suffer alone. We should have gone with you.",
@@ -1137,7 +1137,7 @@
     "4/TRBw": {
         "en-US": "[Eliumina]\n...Hey, thanks.",
         "pt-BR": "[Elyumina]\n......Ei, obrigada.",
-        "es-ES": "[Eliumina]\n……Oye, gracias."
+        "es-ES": "[Eliumina]\n......Oye, gracias."
     },
     "5PTRBw": {
         "en-US": "[Leizi]\nHuh? I can’t hear you well. Say it louder.",
@@ -1157,17 +1157,17 @@
     "5/TRBw": {
         "en-US": "[Eliumina]\nAh, my head is pounding...\nAnyway, you, {0}. Thanks for getting the medicine.",
         "pt-BR": "[Elyumina]\nAh, minha cabeça...\nDe qualquer forma, obrigada por conseguir o remédio, {0}.",
-        "es-ES": "[Eliumina]\nAh, me late la cabeza….\nEn fin, tú, {0}. Gracias por conseguir la medicina."
+        "es-ES": "[Eliumina]\nAh, me late la cabeza....\nEn fin, tú, {0}. Gracias por conseguir la medicina."
     },
     "6PTRBw": {
         "en-US": "[Eliumina]\nAnd you... was it Loki? Luckye? Anyway, Rebellion, thanks for running around here and there, too.",
         "pt-BR": "[Elyumina]\nE você... Lãqui? Lúqui? Enfim, Insurgente da Rebelião, obrigada por correr de um lado para o outro também.",
-        "es-ES": "[Eliumina]\nY tú… ¿era Loki? ¿Lukie? En fin, Rebellion, gracias también por correr de un lado a otro."
+        "es-ES": "[Eliumina]\nY tú... ¿era Loki? ¿Lukie? En fin, Rebellion, gracias también por correr de un lado a otro."
     },
     "6fTRBw": {
         "en-US": "...It’s Rookie. Rookie.",
         "pt-BR": "...É Lukie, Lukie.",
-        "es-ES": "……Lukie, es Lukie."
+        "es-ES": "......Lukie, es Lukie."
     },
     "6vTRBw": {
         "en-US": "What about me? Am I not worth thanking?",
@@ -1187,12 +1187,12 @@
     "7fTRBw": {
         "en-US": "[Eliumina]\nBeing hated by cute, smart automata... that was disappointing...",
         "pt-BR": "[Elyumina]\nSer odiada pelas Autômatas bonitas e inteligentes... é decepcionante...",
-        "es-ES": "[Eliumina]\nQue esos autómatas lindos e inteligentes me odien… fue una lástima…"
+        "es-ES": "[Eliumina]\nQue esos autómatas lindos e inteligentes me odien... fue una lástima..."
     },
     "7vTRBw": {
         "en-US": "[Leizi]\nThat seems to be the main point of what you wanted to say...?",
         "pt-BR": "[Nalandro]\nEntão, você realmente dirige um caminhão...?",
-        "es-ES": "[Leizi]\n¿Ese parece ser el punto central de lo que quieres decir…?"
+        "es-ES": "[Leizi]\n¿Ese parece ser el punto central de lo que quieres decir...?"
     },
     "7/TRBw": {
         "en-US": "[Eliumina]\nAnyway, I won’t get involved with those idiots anymore. I promise.",

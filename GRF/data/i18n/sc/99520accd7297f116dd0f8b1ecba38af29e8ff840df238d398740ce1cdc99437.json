@@ -52,7 +52,7 @@
     "qi/FAQ": {
         "en-US": "[Ridwan]\nLet's see. One, two, three...\nAll three envelopes, checked and confirmed.\nHere is your 3-Day Voucher.\nPlease come again.",
         "pt-BR": "[Ridwan]\nDeixa eu ver. Um, dois, três...\nCertinho. Três passes.\nAqui está seu Passe de 3 Dias.\nVolte sempre!",
-        "es-ES": "[Ridwan]\nVeamos. Uno, dos, tres…\nSe revisaron y confirmaron los tres sobres.\nAquí tienes tu Cupón de 3 días.\nVuelve pronto."
+        "es-ES": "[Ridwan]\nVeamos. Uno, dos, tres...\nSe revisaron y confirmaron los tres sobres.\nAquí tienes tu Cupón de 3 días.\nVuelve pronto."
     },
     "qy/FAQ": {
         "en-US": "[Ridwan]\nYou need at least 3 envelopes\nof the same kind in order to exchange.\nIt seems you don't have enough right now,\nso I suggest that you do some quests\nfrom the Stall Part-time Management Center\nto procure more envelopes.",
@@ -182,7 +182,7 @@
     "xC/FAQ": {
         "en-US": "[Masha]\nOh, my... You need {0} Zeny\nto purchase {1} envelopes.\nBut you're short on money, aren't you?",
         "pt-BR": "[Masha]\nPara eu poder te vender {1},\nvou precisar de {0} Zeny.\nMas parece que seu bolso tá meio... furado.",
-        "es-ES": "[Masha]\nAy, ay… Necesitas {0}zeny\npara comprar {1}sobres.\nPero tienes poco dinero, ¿no?"
+        "es-ES": "[Masha]\nAy, ay... Necesitas {0}zeny\npara comprar {1}sobres.\nPero tienes poco dinero, ¿no?"
     },
     "xS/FAQ": {
         "en-US": "You only need to bring {0} more Zeny,\nand I can give you the amount you want.",
@@ -242,7 +242,7 @@
     "0C/FAQ": {
         "en-US": "[Masha]\nOh... That's unfortunate.\nCome back anytime if you need one!\nThe Merchant Guild Department of Employment is\nalways open for you.",
         "pt-BR": "[Masha]\nOh, que pena...\nSe precisar de nossos serviços outra hora, não hesite em voltar.\nO Departamento de Recursos Humanos da \nGuilda dos Mercadores está semprede portas abertas.",
-        "es-ES": "[Masha]\nAh… Qué lamentable.\n¡Vuelve cuando quieras si necesitas uno!\nEl departamento de recursos humanos del gremio de comerciantes\nsiempre está abierto para ti."
+        "es-ES": "[Masha]\nAh... Qué lamentable.\n¡Vuelve cuando quieras si necesitas uno!\nEl departamento de recursos humanos del gremio de comerciantes\nsiempre está abierto para ti."
     },
     "0S/FAQ": {
         "en-US": "[Masha]\nThe Merchant Guild looks forward to doing business with you!",
@@ -437,7 +437,7 @@
     "9y/FAQ": {
         "en-US": "[Masha]\nIf you take care of this request, we will let you choose between ^4D4DFFExpert Merchant Envelope (1 Day)^000000 and ^4D4DFFExpert Shopper Envelope (1 Day)^000000 as payment.\nWell... This might be a little tricky.\nYou have to go to the Bio Lab for this one.",
         "pt-BR": "[Masha]\nComo recompensa por completar sua tarefa, você poderá escolher entre um ^4D4DFFPasse de Venda (Avançado) de 1 Dia^000000 ou ^4D4DFFPasse de Compra (Avançado) de 1 Dia^000000.\nTalvez você tenha dificuldade com esse...\nVocê tem que ir ao Biolaboratório.",
-        "es-ES": "[Masha]\nSi te encargas de esta solicitud, te dejaremos elegir entre un ^4D4DFFSobre para comerciante experto (1 día)^000000 y un ^4D4DFFSobre para comprador experto (1 día)^000000 como forma de pago.\nBueno… Esto puede ser un poco complicado.\nDeberás ir al Biolaboratorio para esto."
+        "es-ES": "[Masha]\nSi te encargas de esta solicitud, te dejaremos elegir entre un ^4D4DFFSobre para comerciante experto (1 día)^000000 y un ^4D4DFFSobre para comprador experto (1 día)^000000 como forma de pago.\nBueno... Esto puede ser un poco complicado.\nDeberás ir al Biolaboratorio para esto."
     },
     "+C/FAQ": {
         "en-US": "[Masha]\nGood. There is a device installed in ^4D4DFFBio Lab Floor 3^000000\nfor environmental investigation.\nOperate the device, swipe this card,\nand come back. That's your job.",
@@ -472,7 +472,7 @@
     "/i/FAQ": {
         "en-US": "[Masha]\nDid you get the Receipt? Let me see...\nYes, this is genuine.\nWhich voucher envelope\nwould you like?",
         "pt-BR": "[Masha]\nVocê trouxe o recibo? Vamos ver...\nBacana, é esse mesmo!\nDentre os passes,\nqual você vai querer?",
-        "es-ES": "[Masha]\n¿Tienes el recibo? Déjeme ver…\nSí, esto es auténtico.\n¿Qué sobre de cupones\nquieres?"
+        "es-ES": "[Masha]\n¿Tienes el recibo? Déjeme ver...\nSí, esto es auténtico.\n¿Qué sobre de cupones\nquieres?"
     },
     "/y/FAQ": {
         "en-US": "Beginner Merchant Envelope (1 Day)",
@@ -537,7 +537,7 @@
     "CzDFAQ": {
         "en-US": "[Masha]\nDid you get the box? Let me see...\nYes, it's the right box.\nWhich voucher envelope\nwould you like?",
         "pt-BR": "[Masha]\nVocê trouxe a caixinha? Deixa eu ver...\nOk, o conteúdo tá suave na nave!\nDentre os passes,\nqual você vai querer?",
-        "es-ES": "[Masha]\n¿Recibiste la caja? Déjeme ver…\nSí, es la caja correcta.\n¿Qué sobre de cupones\nquieres?"
+        "es-ES": "[Masha]\n¿Recibiste la caja? Déjeme ver...\nSí, es la caja correcta.\n¿Qué sobre de cupones\nquieres?"
     },
     "DDDFAQ": {
         "en-US": "Normal Merchant Envelope (1 Day)",
@@ -567,7 +567,7 @@
     "ETDFAQ": {
         "en-US": "[Masha]\nEh? Where is the box?\nDid you throw it away on your way back?\nOh, my... Looks like you'll have to travel to\nCulvert Floor 3 all over again.\nYou must have dropped it somewhere.\nYou have to give us the box if you want to get paid.",
         "pt-BR": "[Masha]\nE a caixinha?\nVocê perdeu por aí?\nAi caramba... \nvocê vai ter que voltar ao terceiro subsolo do Esgoto.\nEncontre logo o item...\nNão me responsabilizo por isso!",
-        "es-ES": "[Masha]\n¿Eh? ¿Dónde está la caja?\n¿Lo tiraste al volver?\nAy, ay… Parece que tendrás que ir al\npiso 3 de la Alcantarilla otra vez.\nSe debe haber caído en algún sitio.\nTienes que darnos la caja si quieres recibir el pago."
+        "es-ES": "[Masha]\n¿Eh? ¿Dónde está la caja?\n¿Lo tiraste al volver?\nAy, ay... Parece que tendrás que ir al\npiso 3 de la Alcantarilla otra vez.\nSe debe haber caído en algún sitio.\nTienes que darnos la caja si quieres recibir el pago."
     },
     "EjDFAQ": {
         "en-US": "[Masha]\nMurian should be carrying out our request\nsomewhere in Culvert Floor 3.\nGet the item from Murian\nand bring it to me.",
@@ -587,7 +587,7 @@
     "FTDFAQ": {
         "en-US": "[Masha]\nEh? Where is the box?\nDid you throw it away on your way back?\nOh, my... Looks like you'll have to travel to\nSphinx Dungeon Floor 3 all over again\nYou must have dropped it somewhere.\nYou have to give us the box if you want to get paid.",
         "pt-BR": "[Masha]\nE a caixinha?\nVocê perdeu por aí?\nAi caramba... \nvocê tem que voltar para o segundo andar do subsolo da Esfinge.\nEncontre logo o item...\nNão me responsabilizo por isso!",
-        "es-ES": "[Masha]\n¿Eh? ¿Dónde está la caja?\n¿Lo tiraste al volver?\nAy, ay… Parece que tendrás que ir al\npiso 3 de la Mazmorra de la esfinge otra vez.\nSe debe haber caído en algún sitio.\nTienes que darnos la caja si quieres recibir el pago."
+        "es-ES": "[Masha]\n¿Eh? ¿Dónde está la caja?\n¿Lo tiraste al volver?\nAy, ay... Parece que tendrás que ir al\npiso 3 de la Mazmorra de la esfinge otra vez.\nSe debe haber caído en algún sitio.\nTienes que darnos la caja si quieres recibir el pago."
     },
     "FjDFAQ": {
         "en-US": "[Masha]\nElbury should be carrying out our request\nsomewhere in Culvert Floor 3.\nGet the item from Elbury\nand bring it to me.",
@@ -597,12 +597,12 @@
     "FzDFAQ": {
         "en-US": "[Masha]\nDid you bring back the card? Let's see...\nLet me check if the retrieved data is intact.\nGive the card to the sheep.",
         "pt-BR": "[Masha]\nVocê trouxe o cartão? Deixa eu ver...\nDeixa eu checar pra ver se é o certo.\nDê o cartão para a Ovelhinha.",
-        "es-ES": "[Masha]\n¿Trajiste la carta? Veamos…\nDéjame comprobar si los datos recuperados están intactos.\nDale la carta a la oveja."
+        "es-ES": "[Masha]\n¿Trajiste la carta? Veamos...\nDéjame comprobar si los datos recuperados están intactos.\nDale la carta a la oveja."
     },
     "GDDFAQ": {
         "en-US": "-- The sheep almost forcefully --\n-- takes the card from your hand with its mouth --\n-- and swallows it!           --\n-- The sheep's eyes start to glow blue... --",
         "pt-BR": "A Ovelhinha pega o cartão,\ntirando-o das suas mãos com a boca\ne engolindo-o de uma só vez!\nOs olhos da Ovelhinha ficam azuis...",
-        "es-ES": "(La oveja toma casi a la fuerza\nla carta de tu mano con su boca\n¡y se la traga!)\n(Los ojos de la oveja adquieren un brillo azulado…)"
+        "es-ES": "(La oveja toma casi a la fuerza\nla carta de tu mano con su boca\n¡y se la traga!)\n(Los ojos de la oveja adquieren un brillo azulado...)"
     },
     "GTDFAQ": {
         "en-US": "[Masha]\nYes, the data is intact.\nWhich voucher envelope\nwould you like?",
@@ -637,7 +637,7 @@
     "HzDFAQ": {
         "en-US": "[Masha]\nEh? Where is the card?\nDid you throw it away on your way back?\nOh, my... Looks like you'll have to travel to\nBio Lab Floor 3 all over again.\nYou must have dropped it somewhere.\nYou have to bring back the card if you want to get paid.",
         "pt-BR": "[Masha]\nE o cartão?\nVocê perdeu por aí?\nAi caramba... \nvocê tem que voltar para o terceiro andar do Biolaboratório.\nEncontre logo o item...\nNão me responsabilizo por isso!",
-        "es-ES": "[Masha]\n¿Eh? ¿Dónde está la carta?\n¿Lo tiraste al volver?\nAy, ay… Parece que tendrás que ir al\npiso 3 del Biolaboratorio otra vez.\nSe debe haber caído en algún sitio.\nTienes que traer la carta si quieres recibir el pago."
+        "es-ES": "[Masha]\n¿Eh? ¿Dónde está la carta?\n¿Lo tiraste al volver?\nAy, ay... Parece que tendrás que ir al\npiso 3 del Biolaboratorio otra vez.\nSe debe haber caído en algún sitio.\nTienes que traer la carta si quieres recibir el pago."
     },
     "IDDFAQ": {
         "en-US": "[Masha]\nSwipe the card through the card reader\non the old box located in Bio Lab Floor 3.\nThen, the data we need will be\nsaved into the card.\nDo it and bring back the card, please.",
@@ -652,7 +652,7 @@
     "IjDFAQ": {
         "en-US": "[Masha]\nGood thing we've got insurance...\nDon't ever make the same mistake again.\nI will give you the item again.\nPlease...\nDeliver it without any trouble this time.",
         "pt-BR": "[Masha]\nAinda bem que tenho seguro...\nNão faça isso de novo...\nTe darei outro pacote.\nDessa vez,\nentregue-o da forma correta!",
-        "es-ES": "[Masha]\nMenos mal que tenemos seguro…\nNo vuelvas a cometer ese error.\nTe daré el objeto de nuevo.\nPor favor…\nentrégalo sin problemas esta vez."
+        "es-ES": "[Masha]\nMenos mal que tenemos seguro...\nNo vuelvas a cometer ese error.\nTe daré el objeto de nuevo.\nPor favor...\nentrégalo sin problemas esta vez."
     },
     "IzDFAQ": {
         "en-US": "[Masha]\nWhy are you still here?",
@@ -687,12 +687,12 @@
     "KTDFAQ": {
         "en-US": "[Masha]\nWell... Was it too hard for you?\nI thought it should be manageable for you...\nAlright. Give me back the item.\nYou should always be aware of your own capability. Please be careful from now on.",
         "pt-BR": "[Masha]\nFoi muito difícil?\nAchei que você fosse dar conta...\nBeleza, me devolve o pacote.\nNão se preocupe. \nEntendo completamente o limite dos outros.",
-        "es-ES": "[Masha]\nBueno… ¿fue muy difícil para ti?\nPensé que te resultaría más manejable…\nEstá bien. Devuélveme el objeto.\nDebes ser consciente de tus capacidades. Ten más cuidado a partir de ahora."
+        "es-ES": "[Masha]\nBueno... ¿fue muy difícil para ti?\nPensé que te resultaría más manejable...\nEstá bien. Devuélveme el objeto.\nDebes ser consciente de tus capacidades. Ten más cuidado a partir de ahora."
     },
     "KjDFAQ": {
         "en-US": "[Masha]\nCome back when you think you can do it.\nOh, the documentation fees...",
         "pt-BR": "[Masha]\nVolte quando estiver a fim da tarefa.\nAi ai, agora vou ter que preencher esses formulários de cancelamento...",
-        "es-ES": "[Masha]\nVuelve cuando creas que puedas hacerlo.\nAh, los gastos de documentación…"
+        "es-ES": "[Masha]\nVuelve cuando creas que puedas hacerlo.\nAh, los gastos de documentación..."
     },
     "KzDFAQ": {
         "en-US": "[Masha]\nOooh, you want to buy vouchers with money even though you've received a request?",
@@ -712,12 +712,12 @@
     "LjDFAQ": {
         "en-US": "[Masha]\nWell... Was it too hard for you?\nI thought it should be manageable for you...\nAlright. I'll cancel the request.\nYou should always be aware of your own capability. Please be careful from now on.",
         "pt-BR": "[Masha]\nFoi muito difícil?\nAchei que você fosse dar conta...\nBeleza, tá cancelado...\nNão se preocupe. \nEntendo completamente o limite dos outros.",
-        "es-ES": "[Masha]\nBueno… ¿fue muy difícil para ti?\nPensé que te resultaría más manejable…\nEstá bien. Cancelaré la solicitud.\nDebes ser consciente de tus capacidades. Ten más cuidado a partir de ahora."
+        "es-ES": "[Masha]\nBueno... ¿fue muy difícil para ti?\nPensé que te resultaría más manejable...\nEstá bien. Cancelaré la solicitud.\nDebes ser consciente de tus capacidades. Ten más cuidado a partir de ahora."
     },
     "LzDFAQ": {
         "en-US": "[Masha]\nNext time, do check the list well before you take a request.\nOh, the documentation fees...",
         "pt-BR": "[Masha]\nDa próxima vez, escolha uma missão que consiga cumprir.\nAi ai, agora vou ter que preencher esses formulários de cancelamento...",
-        "es-ES": "[Masha]\nLa próxima vez, mira bien la lista antes de aceptar una solicitud.\nAh, los gastos de documentación…"
+        "es-ES": "[Masha]\nLa próxima vez, mira bien la lista antes de aceptar una solicitud.\nAh, los gastos de documentación..."
     },
     "MDDFAQ": {
         "en-US": "[Masha]\nIf you have completed the hunting request,\nplease report the result\nto the sheep next to me.\nThe sheep will take care of the investigation.",
@@ -727,7 +727,7 @@
     "MTDFAQ": {
         "en-US": "[Masha]\nWell... That can't be helped.\nYou should always be aware of your own capability. Please be careful from now on.",
         "pt-BR": "[Masha]\nAi... Isso é chato...\nNão se preocupe. Entendo completamente o limite dos outros.",
-        "es-ES": "[Masha]\nBueno… no puedo ayudarte con eso.\nDebes ser consciente de tus capacidades. Ten más cuidado a partir de ahora."
+        "es-ES": "[Masha]\nBueno... no puedo ayudarte con eso.\nDebes ser consciente de tus capacidades. Ten más cuidado a partir de ahora."
     },
     "MjDFAQ": {
         "en-US": "[Masha]\nNext time, be sure to select a request of an appropriate level for yourself.",
@@ -737,17 +737,17 @@
     "MzDFAQ": {
         "en-US": "[Masha]\nI mean, where in the world\ndid you drop that?\nHow old are you? Five?\nDo I have to glue it on your wrist or something?\nAre you even aware that you're working for a payment, you...",
         "pt-BR": "[Masha]\nAí não...\nDeixou cair em algum lugar?\nVocê não é mais criança,\npreciso ficar o tempo todo de olho em você?\nÉ melhor você focar nas suas tarefas...",
-        "es-ES": "[Masha]\nO sea, ¿en qué parte del mundo\nse te cayó?\n¿Qué edad tienes? ¿Cinco?\n¿Tengo que pegártelo en la muñeca o algo así?\n¿Eres consciente de que estás trabajando por dinero…?"
+        "es-ES": "[Masha]\nO sea, ¿en qué parte del mundo\nse te cayó?\n¿Qué edad tienes? ¿Cinco?\n¿Tengo que pegártelo en la muñeca o algo así?\n¿Eres consciente de que estás trabajando por dinero...?"
     },
     "NDDFAQ": {
         "en-US": "[Masha]\n...\nGood thing we've got insurance...\nDon't ever make the same mistake again.\nI will give you the item again.\nPlease...\nRetrieve the data without any trouble this time.",
         "pt-BR": "[Masha]\n...\nAinda bem que tenho seguro...\nNão faça isso de novo...\nTe darei outro pacote.\nDessa vez,\ntraga-me o correto.",
-        "es-ES": "[Masha]\n…\nMenos mal que tenemos seguro…\nNo vuelvas a cometer ese error.\nTe daré el objeto de nuevo.\nPor favor…\nRecupera los datos sin problemas esta vez."
+        "es-ES": "[Masha]\n...\nMenos mal que tenemos seguro...\nNo vuelvas a cometer ese error.\nTe daré el objeto de nuevo.\nPor favor...\nRecupera los datos sin problemas esta vez."
     },
     "NTDFAQ": {
         "en-US": "[Masha]\nGo for something easier next time.\nUgh... I've gotta do the paperwork again...",
         "pt-BR": "[Masha]\nDa próxima vez, selecione uma tarefa mais simples.\nDroga, preciso preencher mais documentos...",
-        "es-ES": "[Masha]\nElige algo más fácil la próxima vez.\nUf… Tendré que hacer el papeleo otra vez…"
+        "es-ES": "[Masha]\nElige algo más fácil la próxima vez.\nUf... Tendré que hacer el papeleo otra vez..."
     },
     "NjDFAQ": {
         "en-US": "[Masha]\nI'd like you to complete the request\nas fast as you can.\nYou do know that we don't make\nmoney from thin air, right?",
@@ -857,7 +857,7 @@
     "SzDFAQ": {
         "en-US": "[Murian]\nHere, take it to the Merchant Guild.\nUgh, this place is so...\nI really want to get out of here, but the pay is too good.",
         "pt-BR": "[Mariano]\nTudo bem, leve isso à Guilda dos Mercadores.\nArgh, esse lugar...\nSe não fosse pelo dinheiro, eu voltaria imediatamente para casa.",
-        "es-ES": "[Murian]\nToma, llévala al gremio de comerciantes.\nUf, este lugar es tan…\nDe verdad quiero irme de aquí, pero pagan muy bien."
+        "es-ES": "[Murian]\nToma, llévala al gremio de comerciantes.\nUf, este lugar es tan...\nDe verdad quiero irme de aquí, pero pagan muy bien."
     },
     "TDDFAQ": {
         "en-US": "[Murian]\nHuh? Who are you?\nAre you from the Merchant Guild?\nOf course, it's prepared.\nTake it. Just like always, make sure there's no problems.\nDon't worry.",
@@ -872,7 +872,7 @@
     "TjDFAQ": {
         "en-US": "It's about collecting......\nsomething from Thief Bugs.",
         "pt-BR": "Os Besouros-Ladrão...\nEstão aqui juntando algumas coisas deles...",
-        "es-ES": "Se trata de recolectar…\nalgo de los Bichos ladrones."
+        "es-ES": "Se trata de recolectar...\nalgo de los Bichos ladrones."
     },
     "TzDFAQ": {
         "en-US": "[Murian]\nThe Merchant Guild didn't tell me\nwhat they would do\nwith all these. So I don't even know\nwho made the request in the first place.\nI wouldn't even consider accepting this\nif it wasn't for the money they paid.",
@@ -882,7 +882,7 @@
     "UDDFAQ": {
         "en-US": "[Murian]\nI should save up some money\nand get out of here as soon as I can...",
         "pt-BR": "[Mariano]\nPreciso terminar isso rápido\ne dar o fora daqui...",
-        "es-ES": "[Murian]\nDebería ahorrar algo de dinero\ny salir de aquí en cuanto pueda…"
+        "es-ES": "[Murian]\nDebería ahorrar algo de dinero\ny salir de aquí en cuanto pueda..."
     },
     "UTDFAQ": {
         "en-US": "That's none of your business.",
@@ -897,7 +897,7 @@
     "UzDFAQ": {
         "en-US": "[Elbury]\n......\nI know why you came back.\nIt's kind of pitiful, really.\nWorking like a puppet for them...",
         "pt-BR": "[Elbury]\n...\nSei porque retornou.\nQue decepção...\nVocê caiu na lábia deles...",
-        "es-ES": "[Elbury]\n……\nSé por qué volviste.\nEs un poco lamentable, la verdad.\nTrabajar como una marioneta para ellos…"
+        "es-ES": "[Elbury]\n......\nSé por qué volviste.\nEs un poco lamentable, la verdad.\nTrabajar como una marioneta para ellos..."
     },
     "VDDFAQ": {
         "en-US": "[Elbury]\nYou're another slave who's bound to money.\n...Perhaps destiny is to blame.",
@@ -927,7 +927,7 @@
     "WTDFAQ": {
         "en-US": "[Elbury]\nYou'd smell something...\npleasant in the box.\nLet's leave it at that.",
         "pt-BR": "[Elbury]\nO interior da caixa...\nTem cheiro de bolinhos...\nÉ a única coisa que direi sobre o assunto.",
-        "es-ES": "[Elbury]\nDeberías oler algo…\nagradable en la caja.\nDejémoslo así."
+        "es-ES": "[Elbury]\nDeberías oler algo...\nagradable en la caja.\nDejémoslo así."
     },
     "WjDFAQ": {
         "en-US": "...I think it's better to be left ignorant.",
@@ -957,6 +957,6 @@
     "XzDFAQ": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     }
 }

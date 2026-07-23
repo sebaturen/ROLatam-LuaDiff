@@ -107,7 +107,7 @@
     "9f0c": {
         "en-US": "[Morestone]\nHe stole my dig dug!\nI can't stand to be without it...",
         "pt-BR": "[Morestone]\nEle roubou minha Cava-Cava!\nNão posso ficar sem ela...",
-        "es-ES": "[Morestone]\n¡Y me robó mi pico!\nNo puedo vivir sin él…"
+        "es-ES": "[Morestone]\n¡Y me robó mi pico!\nNo puedo vivir sin él..."
     },
     "9v0c": {
         "en-US": "[{0}]\nIs this the pickaxe you are looking for?",
@@ -132,7 +132,7 @@
     "+v0c": {
         "en-US": "[{0}]\nUh....\nI'm a member of  ^3131FF{1}^000000.",
         "pt-BR": "[{0}]\nAh...\nSou do clã ^3131FF{1}^000000.",
-        "es-ES": "[{0}]\nEh…\nSoy miembro de ^3131FF{1}^000000."
+        "es-ES": "[{0}]\nEh...\nSoy miembro de ^3131FF{1}^000000."
     },
     "+/0c": {
         "en-US": "[Morestone]\nOh.. Your guild has a good reputation I take it.",
@@ -192,7 +192,7 @@
     "Bv4c": {
         "en-US": "[Dwarf]\nAaahhhh....!",
         "pt-BR": "[Anão]\nAaaaa...",
-        "es-ES": "[Peque]\n¡Aaaaaah…!"
+        "es-ES": "[Peque]\n¡Aaaaaah...!"
     },
     "B/4c": {
         "en-US": "[Morestone]\nMe, Morestone, am allied with {0}.\nWow, you're one of their members.\nWould you like to go there?",
@@ -342,32 +342,32 @@
     "JP4c": {
         "en-US": "[Pierrot Doll]\nHm....",
         "pt-BR": "[Pierrô Pierre]\nHum...",
-        "es-ES": "[Muñeco Pierrot]\nMmm…"
+        "es-ES": "[Muñeco Pierrot]\nMmm..."
     },
     "Jf4c": {
         "en-US": "Pierrot : hm....",
         "pt-BR": "Pierrô Pierre: Hum...",
-        "es-ES": "Pierrot: Mmm…"
+        "es-ES": "Pierrot: Mmm..."
     },
     "Jv4c": {
         "en-US": "[Pierrot Doll]\nThat's right...",
         "pt-BR": "[Pierrô Pierre]\nCerto...",
-        "es-ES": "[Muñeco Pierrot]\nAsí es…"
+        "es-ES": "[Muñeco Pierrot]\nAsí es..."
     },
     "J/4c": {
         "en-US": "Pierrot : That's right...",
         "pt-BR": "Pierrô Pierre: Certo...",
-        "es-ES": "Pierrot: Así es…"
+        "es-ES": "Pierrot: Así es..."
     },
     "KP4c": {
         "en-US": "[Pierrot Doll]\nAll right....",
         "pt-BR": "[Pierrô Pierre]\nTudo bem...",
-        "es-ES": "[Muñeco Pierrot]\nMuy bien…"
+        "es-ES": "[Muñeco Pierrot]\nMuy bien..."
     },
     "Kf4c": {
         "en-US": "Pierrot : All right....",
         "pt-BR": "Pierrô Pierre: Tudo bem...",
-        "es-ES": "Pierrot: Muy bien…"
+        "es-ES": "Pierrot: Muy bien..."
     },
     "Kv4c": {
         "en-US": "[Pierrot Doll]\nOK!",
@@ -417,7 +417,7 @@
     "M/4c": {
         "en-US": "[Pierrot Doll]\nHere is the message from Gergoth... It's little bit old, but no need to worry.",
         "pt-BR": "[Pierrô Pierre]\nEsta é a mensagem de Gergoth. É um pouco velha, mas não se preocupe.",
-        "es-ES": "[Muñeco Pierrot]\nAquí está el mensaje de Gergoth… Es un poco viejo, pero no te preocupes."
+        "es-ES": "[Muñeco Pierrot]\nAquí está el mensaje de Gergoth... Es un poco viejo, pero no te preocupes."
     },
     "NP4c": {
         "en-US": "[Pierrot Doll]\nLet's go!",
@@ -477,7 +477,7 @@
     "P/4c": {
         "en-US": "[Pierrot Doll]\nCan you see this gracefully broad field?\nI can show you amazing magic here.\nI will change its color into a precious white... so white!",
         "pt-BR": "[Pierrô Pierre]\nEstá vendo este campo enorme?\nVou lhe mostrar uma mágica incrível.\nVou pintá-lo de branco!",
-        "es-ES": "[Muñeco Pierrot]\n¿Puedes ver este campo hermoso y extenso frente a ti?\nAquí te mostraré una magia asombrosa.\nCambiaré su color a un blanco precioso… ¡como ningún otro!"
+        "es-ES": "[Muñeco Pierrot]\n¿Puedes ver este campo hermoso y extenso frente a ti?\nAquí te mostraré una magia asombrosa.\nCambiaré su color a un blanco precioso... ¡como ningún otro!"
     },
     "QP4c": {
         "en-US": "Pierrot : Change color into preciously white, so white!",
@@ -582,7 +582,7 @@
     "VP4c": {
         "en-US": "[Pierrot Doll]\nLet me see...",
         "pt-BR": "[Pierrô Pierre]\nDeixe-me ver...",
-        "es-ES": "[Muñeco Pierrot]\nDéjame ver…"
+        "es-ES": "[Muñeco Pierrot]\nDéjame ver..."
     },
     "Vf4c": {
         "en-US": "[Pierrot Doll]\nYep!!\nSuccess!\nYou're successful.",
@@ -602,7 +602,7 @@
     "WP4c": {
         "en-US": "[Pierrot Doll]\nNothing!? You didn't find anything?\nHm... just go again and try to discover something!",
         "pt-BR": "[Pierrô Pierre]\nNada! Você não encontrou ainda?\nBem, saia e encontre.",
-        "es-ES": "[Muñeco Pierrot]\n¡¿Nada?! ¿No encontraste nada?\nMmm… ¡Vuelve e intenta encontrar el tesoro!"
+        "es-ES": "[Muñeco Pierrot]\n¡¿Nada?! ¿No encontraste nada?\nMmm... ¡Vuelve e intenta encontrar el tesoro!"
     },
     "Wf4c": {
         "en-US": "[Pierrot Doll]\nOooooohhhhhh!!\nDid you run out of time?!",
@@ -622,7 +622,7 @@
     "XP4c": {
         "en-US": "Give me more time...",
         "pt-BR": "Estou quase no fim...",
-        "es-ES": "Dame más tiempo…"
+        "es-ES": "Dame más tiempo..."
     },
     "Xf4c": {
         "en-US": "[Pierrot Doll]\nTreasure hunting is supposed to be easy, and valuable for you!",
@@ -632,7 +632,7 @@
     "Xv4c": {
         "en-US": "[Pierrot Doll]\nInvaluable things!\nTime flies so fast, too bad...",
         "pt-BR": "[Pierrô Pierre]\nAh, o tempo!\nO tempo passa tão depressa, é uma pena...",
-        "es-ES": "[Muñeco Pierrot]\n¡Cosas de valor incalculable!\nEl tiempo pasa muy rápido, qué lástima…"
+        "es-ES": "[Muñeco Pierrot]\n¡Cosas de valor incalculable!\nEl tiempo pasa muy rápido, qué lástima..."
     },
     "X/4c": {
         "en-US": "[Pierrot Doll]\nThis is Pierrot Doll! I'm not that cold.",
@@ -752,7 +752,7 @@
     "dv4c": {
         "en-US": "I'd need to check...",
         "pt-BR": "Deixe-me ver...",
-        "es-ES": "Tengo que comprobarlo…"
+        "es-ES": "Tengo que comprobarlo..."
     },
     "d/4c": {
         "en-US": "[Pierrot Doll]\nPlease, show me the palm of your hand.",
@@ -767,7 +767,7 @@
     "ef4c": {
         "en-US": "[Pierrot Doll]\nHm.\nIt's quite boring to wait...",
         "pt-BR": "[Pierrô Pierre]\nHum...\nEstou cansado de esperar por ele!",
-        "es-ES": "[Muñeco Pierrot]\nMmm.\nQué aburrido es esperar…"
+        "es-ES": "[Muñeco Pierrot]\nMmm.\nQué aburrido es esperar..."
     },
     "ev4c": {
         "en-US": "[Pierrot Doll]\n^3131FF<You're not that much generous, but passionate about things you're interested in.>^000000",
@@ -792,7 +792,7 @@
     "fv4c": {
         "en-US": "[Pierrot Doll]\nOh!!\nAre you running out of time? Isn't that thrilling? Hehehe...!",
         "pt-BR": "[Pierrô Pierre]\nOh!\nSeu tempo está se esgotando? Isso não é emocionante? Haha!",
-        "es-ES": "[Muñeco Pierrot]\n¡Ah!\n¿Se te acabó el tiempo? ¿No es emocionante? ¡Je, je, je…!"
+        "es-ES": "[Muñeco Pierrot]\n¡Ah!\n¿Se te acabó el tiempo? ¿No es emocionante? ¡Je, je, je...!"
     },
     "f/4c": {
         "en-US": "[Pierrot Doll]\nCongratulations!\nI will discuss this in detail with your leader.",
@@ -867,7 +867,7 @@
     "jf4c": {
         "en-US": "Gergoth : As well as we trusted each other faithfully...",
         "pt-BR": "Gergoth: E, mesmo assim, confiávamos um no outro.",
-        "es-ES": "Gergoth: Y además existía una confianza total entre nosotros…"
+        "es-ES": "Gergoth: Y además existía una confianza total entre nosotros..."
     },
     "jv4c": {
         "en-US": "Gergoth : When I lost my mother's remains on Mt. Graves, you suddenly appeared in front of me.",
@@ -897,7 +897,7 @@
     "k/4c": {
         "en-US": "Gergoth : Pierrot should help you. I hope that you remain with the mind of an innocent child forever...",
         "pt-BR": "Gergoth: Pierre pode ajudar você. Espero que você nunca mude...",
-        "es-ES": "Gergoth: Pierrot te ayudará. Espero que nunca pierdas esa inocencia infantil…"
+        "es-ES": "Gergoth: Pierrot te ayudará. Espero que nunca pierdas esa inocencia infantil..."
     },
     "lP4c": {
         "en-US": "Event controller",

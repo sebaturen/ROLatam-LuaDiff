@@ -37,7 +37,7 @@
     "pxiWBg": {
         "en-US": "[Altiregen]\nWait a minute, I think I've met you before.\nUmmm.....",
         "pt-BR": "[Altiregen]\nEspere um minuto, acho que já vi você antes.\nHummm...",
-        "es-ES": "[Altiregen]\nUn momento, creo que ya nos conocemos.\nEmmm……"
+        "es-ES": "[Altiregen]\nUn momento, creo que ya nos conocemos.\nEmmm......"
     },
     "qBiWBg": {
         "en-US": "[Altiregen]\nAre you the one who broke my weapon and ran away? Or are you the one who tortured me so that I'd forge a weapon for you? Why can't I remember?",
@@ -47,7 +47,7 @@
     "qRiWBg": {
         "en-US": "[Altiregen]\n.......\nI can't remember who you are for the life of me. Is this deja vu?",
         "pt-BR": "[Altiregen]\n.......\nEu não me lembro quem você é, mas tenho certeza de que já vi você antes.",
-        "es-ES": "[Altiregen]\n……\nPor mucho que lo intento, no puedo recordar quién eres. ¿Es un déjà vu?"
+        "es-ES": "[Altiregen]\n......\nPor mucho que lo intento, no puedo recordar quién eres. ¿Es un déjà vu?"
     },
     "qhiWBg": {
         "en-US": "[Altiregen]\nArgh!! This is really bugging me! But still, I can sense that there's something special about you. Oh well, whatever. Have a good day~",
@@ -82,7 +82,7 @@
     "sBiWBg": {
         "en-US": "[Altiregen]\nOh...\nThere's not much we can offer you here. And you can't really help out around here unless you know how to make stuff...",
         "pt-BR": "[Altiregen]\nAh...\nNós não temos muito para oferecer aqui. E você não pode nos ajudar, a não ser que saiba como fazer as coisas...",
-        "es-ES": "[Altiregen]\nAh…\nNo hay mucho que podamos ofrecerte aquí. Y aquí no puedes ayudar si no sabes hacer cosas…"
+        "es-ES": "[Altiregen]\nAh...\nNo hay mucho que podamos ofrecerte aquí. Y aquí no puedes ayudar si no sabes hacer cosas..."
     },
     "sRiWBg": {
         "en-US": "[Altiregen]\nOh? What's a magic user doing here? I'm surprised. Usually this kind of rough work is beneath you intellectual types.",
@@ -97,7 +97,7 @@
     "sxiWBg": {
         "en-US": "[Altiregen]\nI'm sorry...\nBut there really isn't anything for you to steal here. Well, there are the Daggers we keep in the back, but...",
         "pt-BR": "[Altiregen]\nDesculpe-me...\nMas não tem nada aí que você possa roubar. Bom, tem as adagas que a gente guarda lá no fundo, mas...",
-        "es-ES": "[Altiregen]\nLo siento…\nPero realmente no hay nada que puedas robar aquí. Bueno, están las dagas que guardamos atrás, pero…"
+        "es-ES": "[Altiregen]\nLo siento...\nPero realmente no hay nada que puedas robar aquí. Bueno, están las dagas que guardamos atrás, pero..."
     },
     "tBiWBg": {
         "en-US": "[Altiregen]\nSo how's the pharmacy business going on recently?\nWell, my forging business does not seem to grow any longer.",
@@ -137,12 +137,12 @@
     "uxiWBg": {
         "en-US": "[Altiregen]\nHmmm...\nLooks like you\nmeet the Job Level\nRequirement.",
         "pt-BR": "[Altiregen]\nHumm...\nParece que você \natende aos requisitos\ndo Nível de Classe.",
-        "es-ES": "[Altiregen]\nMmmm…\nParece que\ncumples con el requisito de\nnivel de clase."
+        "es-ES": "[Altiregen]\nMmmm...\nParece que\ncumples con el requisito de\nnivel de clase."
     },
     "vBiWBg": {
         "en-US": "[Altiregen]\nYou see, we don't accept just anybody into our guild. First, we only accept experienced Merchants with a true desire to become great Blacksmiths. Let's see...",
         "pt-BR": "[Altiregen]\nVocê sabe, nós não aceitamos qualquer um na nossa guilda. Nós só aceitamos Mercadores experientes com um verdadeiro desejo de se tornarem bons Ferreiros. Vejamos...",
-        "es-ES": "[Altiregen]\nVerás, no aceptamos a cualquiera en nuestro gremio. En primer lugar, solo aceptamos a Comerciantes experimentados con verdadero deseo de convertirse en grandes Herreros. Veamos…"
+        "es-ES": "[Altiregen]\nVerás, no aceptamos a cualquiera en nuestro gremio. En primer lugar, solo aceptamos a Comerciantes experimentados con verdadero deseo de convertirse en grandes Herreros. Veamos..."
     },
     "vRiWBg": {
         "en-US": "^3355FF*Shuffling of papers*^000000",
@@ -152,7 +152,7 @@
     "vhiWBg": {
         "en-US": "[Altiregen]\nHmmm...\nOne of our Blacksmiths in Einbech, ^8E6B23Geschupenschte^000000 has sent us word that he's short on help. Your first test of character will be to help him out.",
         "pt-BR": "[Altiregen]\nHumm...\nUm dos nossos Ferreiros em Einbech, ^8E6B23Geschupenschte^000000, nos enviou um recado dizendo que precisa de ajudantes. O seu primeiro teste de classe vai ser ajudá-lo.",
-        "es-ES": "[Altiregen]\nMmmm…\nUno de nuestros Herreros en Einbech, ^8E6B23Geschupenschte^000000, nos comunicó que necesita ayuda. Tu primera prueba de carácter será ayudarlo."
+        "es-ES": "[Altiregen]\nMmmm...\nUno de nuestros Herreros en Einbech, ^8E6B23Geschupenschte^000000, nos comunicó que necesita ayuda. Tu primera prueba de carácter será ayudarlo."
     },
     "vxiWBg": {
         "en-US": "[Altiregen]\nBe careful\nand good luck!",
@@ -182,7 +182,7 @@
     "xBiWBg": {
         "en-US": "[Altiregen]\nHmmm...\nWell, I hope\nto see you again.",
         "pt-BR": "[Altiregen]\nHumm...\nBem, espero que\nvocê volte em breve.",
-        "es-ES": "[Altiregen]\nMmmm…\nBueno, espero\nvolver a verte."
+        "es-ES": "[Altiregen]\nMmmm...\nBueno, espero\nvolver a verte."
     },
     "xRiWBg": {
         "en-US": "[Altiregen]\nYou haven't left yet?\nGo to Einbech and find ^8E6B23Geschupenschte^000000. Finish helping him out, and when you're done, come back to me.",
@@ -192,12 +192,12 @@
     "xhiWBg": {
         "en-US": "[Altiregen]\nWas the work you did for ^8E6B23Geschupenschte^000000 to your liking? He's known for being pretty exacting...",
         "pt-BR": "[Altiregen]\nVocê gostou do trabalho que fez para ^8E6B23Geschupenschte^000000? Ele é famoso por ser bem exigente...",
-        "es-ES": "[Altiregen]\n¿Te gustó el trabajo que realizaste para ^8E6B23Geschupenschte^000000? Se lo conoce por ser bastante exigente…"
+        "es-ES": "[Altiregen]\n¿Te gustó el trabajo que realizaste para ^8E6B23Geschupenschte^000000? Se lo conoce por ser bastante exigente..."
     },
     "xxiWBg": {
         "en-US": "[Altiregen]\nGreat job!!\nYou have passed\nthe first test...",
         "pt-BR": "[Altiregen]\nGrande trabalho!!\nVocê passou\nno primeiro teste...",
-        "es-ES": "[Altiregen]\n¡¡Gran trabajo!!\nPasaste\nla primera prueba…"
+        "es-ES": "[Altiregen]\n¡¡Gran trabajo!!\nPasaste\nla primera prueba..."
     },
     "yBiWBg": {
         "en-US": "[Altiregen]\nHm? You look surprised.\nI guess you didn't know that there's more than one test.\nHaha, but don't worry, you are not going to travel that far.\nPlease go talk to the guildsman inside the building for more details about your next test.",
@@ -207,7 +207,7 @@
     "yRiWBg": {
         "en-US": "I want to change my job quickly! But...oh well.",
         "pt-BR": "Eu quero mudar de classe logo! Mas... ah, tá bom.",
-        "es-ES": "¡Quiero cambiar de clase rápido! Pero… eh, bueno."
+        "es-ES": "¡Quiero cambiar de clase rápido! Pero... eh, bueno."
     },
     "yhiWBg": {
         "en-US": "Grrr! Enough is enough!",
@@ -242,7 +242,7 @@
     "0BiWBg": {
         "en-US": "Please get off of that creature you're riding on\nthen come to find me again...",
         "pt-BR": "Por favor, remova sua montaria\ne depois venha me encontrar novamente...",
-        "es-ES": "Bájate de la criatura que estás montando\ny ven a buscarme de nuevo…"
+        "es-ES": "Bájate de la criatura que estás montando\ny ven a buscarme de nuevo..."
     },
     "0RiWBg": {
         "en-US": "[Altiregen]\nExcellent, I can tell by the twinkle in your eye that you were successful. I can now bestow upon you the gift of the smithing, the art of the Blacksmith.",
@@ -282,7 +282,7 @@
     "2BiWBg": {
         "en-US": "[Geschupenschte]\nAfter all...\nI should know\nhow it's like\nto be busy~",
         "pt-BR": "[Geschupenschte]\nAfinal...\nEu sei muito\nbem como é \nquando estamos ocupados.",
-        "es-ES": "[Geschupenschte]\nDespués de todo…\nyo sé\nlo que es\nestar ocupado."
+        "es-ES": "[Geschupenschte]\nDespués de todo...\nyo sé\nlo que es\nestar ocupado."
     },
     "2RiWBg": {
         "en-US": "[Geschupenschte]\nAm I correct in assuming you are the help sent by the Blacksmith Guild? There aren't many trustyworthy people I can hire to help me, so I'm always\nshort on help.",
@@ -297,7 +297,7 @@
     "2xiWBg": {
         "en-US": "[Geschupenschte]\nSome time ago, I had a boy working for me who had no experience and bought the wrong supplies! It was terrible...",
         "pt-BR": "[Geschupenschte]\nHá algum tempo, havia um menino trabalhando para mim. Ele era inexperiente e me comprou os suprimentos errados! Isso foi terrível...",
-        "es-ES": "[Geschupenschte]\nHace algún tiempo, tenía trabajando para mí a un chico que no tenía experiencia y compraba los suministros equivocados. Fue terrible…"
+        "es-ES": "[Geschupenschte]\nHace algún tiempo, tenía trabajando para mí a un chico que no tenía experiencia y compraba los suministros equivocados. Fue terrible..."
     },
     "3BiWBg": {
         "en-US": "[Geschupenschte]\nAnyone would hate to lose money through a foolish mistake like that. However, I have a slightly more difficult job for you.",
@@ -547,7 +547,7 @@
     "DRmWBg": {
         "en-US": "[Geschupenschte]\n10. The most important\npart of being a Merchant is...?",
         "pt-BR": "[Geschupenschte]\n10. A coisa mais importante\nna carreira de um Mercador é...?",
-        "es-ES": "[Geschupenschte]\n10. Lo más importante\nde ser Comerciante es…"
+        "es-ES": "[Geschupenschte]\n10. Lo más importante\nde ser Comerciante es..."
     },
     "DhmWBg": {
         "en-US": "Credit",
@@ -732,7 +732,7 @@
     "MhmWBg": {
         "en-US": "[Geschupenschte]\nLet's see...your score is...{0} points.",
         "pt-BR": "[Geschupenschte]\nVamos ver... você obteve...{0} pontos.",
-        "es-ES": "[Geschupenschte]\nVeamos… obtuviste… {0} puntos."
+        "es-ES": "[Geschupenschte]\nVeamos... obtuviste... {0} puntos."
     },
     "MxmWBg": {
         "en-US": "Oh ho ho~\nYou'll have\nno problem\nwith this score!",
@@ -752,7 +752,7 @@
     "NhmWBg": {
         "en-US": "[Geschupenschte]\nHmm...\nIt pains me to say this, but it seems you need to study a little more. You can never be\na Blacksmith with\nthis score!",
         "pt-BR": "[Geschupenschte]\nHum...\nLamento dizer isso, mas parece que você precisa estudar mais. Você nunca será \num Ferreiro com \nessa pontuação!",
-        "es-ES": "[Geschupenschte]\nMmm…\nLamento decirlo, pero parece que te falta estudiar un poco más. ¡Nunca podrás ser\nclase Herrero con\nesta puntuación!"
+        "es-ES": "[Geschupenschte]\nMmm...\nLamento decirlo, pero parece que te falta estudiar un poco más. ¡Nunca podrás ser\nclase Herrero con\nesta puntuación!"
     },
     "NxmWBg": {
         "en-US": "[Geschupenschte]\nAh, of course I don't mind if you came back a little later. Being prepared prevents disasters\nlater, after all. No harm in\nbeing careful~",
@@ -767,7 +767,7 @@
     "ORmWBg": {
         "en-US": "[Geschupenschte]\nI admit that it's pretty unreasonable to expect anyone to get a perfect score the first time around, so I'll give you\na little break...",
         "pt-BR": "[Geschupenschte]\nEu admito que não é muito razoável esperar uma pontuação perfeita da primeira vez, mas eu vou dar outra \nchance para você...",
-        "es-ES": "[Geschupenschte]\nAdmito que no es muy razonable esperar que alguien obtenga una puntuación perfecta la primera vez, así que te daré\nun pequeño descanso…"
+        "es-ES": "[Geschupenschte]\nAdmito que no es muy razonable esperar que alguien obtenga una puntuación perfecta la primera vez, así que te daré\nun pequeño descanso..."
     },
     "OhmWBg": {
         "en-US": "[Geschupenschte]\nYou can miss\none problem!\nAlright, let's start\nwith the questions~",
@@ -802,12 +802,12 @@
     "QBmWBg": {
         "en-US": "[Geschupenschte]\nHow do I say this?\nHow did you fail again?!\nIf you plan to perform your duties in this manner, I can't trust you with any kind of job...",
         "pt-BR": "[Geschupenschte]\nComo posso dizer isso?\nComo é que você conseguiu falhar DE NOVO?!\nSe você pretende conduzir suas tarefas assim, eu não posso confiar nenhum tipo de trabalho a você...",
-        "es-ES": "[Geschupenschte]\nNo sé cómo decirte esto.\n¡¿Cómo fallaste de nuevo?!\nSi piensas desempeñar tus funciones de esta manera, no puedo confiarte ningún tipo de trabajo…"
+        "es-ES": "[Geschupenschte]\nNo sé cómo decirte esto.\n¡¿Cómo fallaste de nuevo?!\nSi piensas desempeñar tus funciones de esta manera, no puedo confiarte ningún tipo de trabajo..."
     },
     "QRmWBg": {
         "en-US": "[Geschupenschte]\nHmm...\nNow, where were\nthose order request forms...",
         "pt-BR": "[Geschupenschte]\nHumm...\nAgora, onde estão\naqueles formulários de pedidos...",
-        "es-ES": "[Geschupenschte]\nMmm…\nBien, dónde estaban\nesos formularios de solicitud de pedidos…"
+        "es-ES": "[Geschupenschte]\nMmm...\nBien, dónde estaban\nesos formularios de solicitud de pedidos..."
     },
     "QhmWBg": {
         "en-US": "^3355FF*Shuffling of Papers*\n*Rustling of Papers*^000000",
@@ -817,12 +817,12 @@
     "QxmWBg": {
         "en-US": "[Geschupenschte]\nOh! Here it is!\nThis is order that\nhas been delayed\nthe most...\nHeh heh~",
         "pt-BR": "[Geschupenschte]\nOh! Aqui está!\nEsse é o pedido\nmais atrasado\nde todos...\nHehe!",
-        "es-ES": "[Geschupenschte]\n¡Ah! ¡Aquí está!\nEsta es la orden que\nmás se\natrasó…\nJe, je~."
+        "es-ES": "[Geschupenschte]\n¡Ah! ¡Aquí está!\nEsta es la orden que\nmás se\natrasó...\nJe, je~."
     },
     "RBmWBg": {
         "en-US": "[Geschupenschte]\nWell, to make\nthis you will need...",
         "pt-BR": "[Geschupenschte]\nBem, para fazer isso,\nvocê vai precisar de...",
-        "es-ES": "[Geschupenschte]\nBueno, para hacer\nesto necesitarás…"
+        "es-ES": "[Geschupenschte]\nBueno, para hacer\nesto necesitarás..."
     },
     "RRmWBg": {
         "en-US": "[Geschupenschte]\n^8E6B231 Rotten Bandage^000000,\n^8E6B232 Blue Gemstone^000000, and\n^8E6B231 Arc Wand^000000, the kind\nyou can buy from\nan NPC shop.",
@@ -832,7 +832,7 @@
     "RhmWBg": {
         "en-US": "[Geschupenschte]\nCollecting these items will be your test. Coincidentally, it's also a bit of a good way for me to save money. I'll repeat what you'll need to bring back to me...",
         "pt-BR": "[Geschupenschte]\nO seu teste será conseguir esses itens. E também vai ser um bom jeito de eu economizar o meu dinheiro. Vou repetir o que você precisa me trazer...",
-        "es-ES": "[Geschupenschte]\nRecolectar estos objetos será tu prueba. Casualmente, también me sirve para ahorrar dinero. Te repetiré lo que tendrás que traerme…"
+        "es-ES": "[Geschupenschte]\nRecolectar estos objetos será tu prueba. Casualmente, también me sirve para ahorrar dinero. Te repetiré lo que tendrás que traerme..."
     },
     "RxmWBg": {
         "en-US": "[Geschupenschte]\n^8E6B232 Steel^000000,\n^8E6B231 Rotten Bandage^000000,\n^8E6B232 Blue Gemstone^000000, and\n^8E6B231 Arc Wand^000000, the kind\nyou can buy from\nan NPC shop.",
@@ -872,7 +872,7 @@
     "ThmWBg": {
         "en-US": "[Geschupenschte]\nOh, I guess it was\ntwo after all. Let's see...\nYeah, you got everything!\nNow, just give me a second.",
         "pt-BR": "[Geschupenschte]\nOh, eu acho que eram\ndois, afinal. Vejamos...\nÉ, você trouxe tudo!\nAgora, me dê um segundo.",
-        "es-ES": "[Geschupenschte]\nAh, supongo que eran\ndos después de todo. Veamos…\n¡Sí, tienes todo!\nDame un segundo."
+        "es-ES": "[Geschupenschte]\nAh, supongo que eran\ndos después de todo. Veamos...\n¡Sí, tienes todo!\nDame un segundo."
     },
     "TxmWBg": {
         "en-US": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Arc Wand^000000, you should really only have an Arc Wand that you bought from an NPC shop in your inventory.",
@@ -902,7 +902,7 @@
     "VBmWBg": {
         "en-US": "[Geschupenschte]\n^3355FF*Clang...!*^000000",
         "pt-BR": "[Geschupenschte]\n^3355FF*Claaaang...!*^000000",
-        "es-ES": "[Geschupenschte]\n^3355FF*¡Clang…!*^000000"
+        "es-ES": "[Geschupenschte]\n^3355FF*¡Clang...!*^000000"
     },
     "VRmWBg": {
         "en-US": "[Geschupenschte]\n^3355FF*Crash Crash!*^000000",
@@ -912,12 +912,12 @@
     "VhmWBg": {
         "en-US": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Baisulist^000000 in Geffen of Rune-Midgard Kingdom. Simply deliver it and bring me the receipt.",
         "pt-BR": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Baisulist^000000 em Geffen, no Reino de Rune-Midgard. Apenas entregue isso e me traga o recibo.",
-        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Baisulist^000000 en Geffen del reino de Rune-Midgard. Solo entrégalo y tráeme el recibo."
+        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo...\nBien, ahora, llévale esto a ^8E6B23Baisulist^000000 en Geffen del reino de Rune-Midgard. Solo entrégalo y tráeme el recibo."
     },
     "VxmWBg": {
         "en-US": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nArc Wand! Look closely\nat the handle...",
         "pt-BR": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nCetro! Olhe de perto\no punho...",
-        "es-ES": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nun Báculo de arco normal! Fíjate bien\nen el mango…"
+        "es-ES": "[Geschupenschte]\n¿Mmm...?\n¿Por qué me miras así?\n¡Esto no es\nun Báculo de arco normal! Fíjate bien\nen el mango..."
     },
     "WBmWBg": {
         "en-US": "^3355FFThe handle reads:\n'Super Arc Wand\nof Geschupenschte\nMark 2.' It does seem\nto have a completely\ndifferent feel.^000000",
@@ -932,7 +932,7 @@
     "WhmWBg": {
         "en-US": "[Geschupenschte]\nYou still haven't\nbrought all the items.\nDo you need to be reminded\nor something? Bring me...",
         "pt-BR": "[Geschupenschte]\nVocê ainda não\ntrouxe todos os itens.\nVocê quer que eu repita\na lista? Traga-me...",
-        "es-ES": "[Geschupenschte]\nTodavía no\ntrajiste todos los objetos.\n¿Necesitas que te los repita\no algo? Tráeme…"
+        "es-ES": "[Geschupenschte]\nTodavía no\ntrajiste todos los objetos.\n¿Necesitas que te los repita\no algo? Tráeme..."
     },
     "WxmWBg": {
         "en-US": "[Geschupenschte]\nNow, be sure to have\neverything I need when\nyou come back. Remember,\nthis is a test! You can't\nbe a Blacksmith if you\nslack off!",
@@ -942,7 +942,7 @@
     "XBmWBg": {
         "en-US": "[Geschupenschte]\nWait...\nDidn't I tell you\nto get 3 Star Dust?",
         "pt-BR": "[Geschupenschte]\nEspere...\nEu não lhe disse\npara trazer 3 Poeiras Estelares?",
-        "es-ES": "[Geschupenschte]\nEspera…\n¿No te dije\nque trajeras 3 unidades de Polvo de estrella?"
+        "es-ES": "[Geschupenschte]\nEspera...\n¿No te dije\nque trajeras 3 unidades de Polvo de estrella?"
     },
     "XRmWBg": {
         "en-US": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Gladius^000000, you should really only have an Gladius that you bought from an NPC shop in your inventory.",
@@ -957,12 +957,12 @@
     "XxmWBg": {
         "en-US": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Wickebine^000000 in Morroc of Rune-Midgard Kingdom. Simply deliver it and bring me the receipt.",
         "pt-BR": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Wickebine^000000 em Morroc, no Reino de Rune-Midgard. Apenas entregue isso e me traga o recibo.",
-        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Wickebine^000000 en Morroc del reino de Rune-Midgard. Solo entrégalo y tráeme el recibo."
+        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo...\nBien, ahora, llévale esto a ^8E6B23Wickebine^000000 en Morroc del reino de Rune-Midgard. Solo entrégalo y tráeme el recibo."
     },
     "YBmWBg": {
         "en-US": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nGladius! Look closely\nat the handle...",
         "pt-BR": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nGladius! Olhe de perto\no punho...",
-        "es-ES": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nuna Gladius normal! Fíjate bien\nen el mango…"
+        "es-ES": "[Geschupenschte]\n¿Mmm...?\n¿Por qué me miras así?\n¡Esto no es\nuna Gladius normal! Fíjate bien\nen el mango..."
     },
     "YRmWBg": {
         "en-US": "^3355FFThe handle reads:\n'Super Gladius\nof Geschupenschte\nMark 2.' It does seem\nto have a completely\ndifferent feel.^000000",
@@ -977,7 +977,7 @@
     "YxmWBg": {
         "en-US": "[Geschupenschte]\nWait...\nDidn't I tell you\nto get 3 Coal?",
         "pt-BR": "[Geschupenschte]\nEspere...\nEu não lhe disse\npara trazer 3 Carvões?",
-        "es-ES": "[Geschupenschte]\nEspera…\n¿No te dije\nque trajeras 3 Carbones?"
+        "es-ES": "[Geschupenschte]\nEspera...\n¿No te dije\nque trajeras 3 Carbones?"
     },
     "ZBmWBg": {
         "en-US": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Tsurugi^000000, you should really only have an Tsurugi that you bought from an NPC shop in your inventory.",
@@ -987,17 +987,17 @@
     "ZRmWBg": {
         "en-US": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Krongast^000000 in Lighthalzen. Simply deliver it and bring me the receipt.",
         "pt-BR": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Krongast^000000 em Lighthalzen. Apenas entregue isso e me traga o recibo.",
-        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Krongast^000000 en Lighthalzen. Solo entrégalo y tráeme el recibo."
+        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo...\nBien, ahora, llévale esto a ^8E6B23Krongast^000000 en Lighthalzen. Solo entrégalo y tráeme el recibo."
     },
     "ZhmWBg": {
         "en-US": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nTsurugi! Look closely\nat the blade...",
         "pt-BR": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nTsurugi! Olhe de perto\na lâmina...",
-        "es-ES": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nun Tsurugi normal! Fíjate bien\nen la hoja…"
+        "es-ES": "[Geschupenschte]\n¿Mmm...?\n¿Por qué me miras así?\n¡Esto no es\nun Tsurugi normal! Fíjate bien\nen la hoja..."
     },
     "ZxmWBg": {
         "en-US": "^3355FFThe blade reads:\n'Fine-edged\nGeschupenschte\nTsurugi Special.'\nIt does seem to feel\ncompletely different\nthan normal Tsurugis...^000000",
         "pt-BR": "[Geschupenschte]\n^3355FFA lâmina diz:\n'Linha Rasgueira - \nGeschupenschte\nTsurugi Especial'.\nEle realmente parece ter\num balanço diferente\ndos Tsurugis normais...^000000",
-        "es-ES": "^3355FFLa hoja dice:\nArma de filo preciso.\nPropiedad de Geschupenschte.\nTsurugi especial.\nSe siente\ncompletamente diferente\na los Tsurugis normales…^000000"
+        "es-ES": "^3355FFLa hoja dice:\nArma de filo preciso.\nPropiedad de Geschupenschte.\nTsurugi especial.\nSe siente\ncompletamente diferente\na los Tsurugis normales...^000000"
     },
     "aBmWBg": {
         "en-US": "[Geschupenschte]\nAnyway, take this to\n^8E6B23Krongast^000000 in Lighthalzen\nand don't forget\nthe receipt!",
@@ -1007,12 +1007,12 @@
     "aRmWBg": {
         "en-US": "[Geschupenschte]\nWait...\nDidn't I tell you\nto get 30 Iron Ore?",
         "pt-BR": "[Geschupenschte]\nEspere...\nEu não lhe disse\npara trazer 30 minérios de ferro?",
-        "es-ES": "[Geschupenschte]\nEspera…\n¿No te dije\nque trajeras 30 unidades de Mineral de hierro?"
+        "es-ES": "[Geschupenschte]\nEspera...\n¿No te dije\nque trajeras 30 unidades de Mineral de hierro?"
     },
     "ahmWBg": {
         "en-US": "[Geschupenschte]\nOh, I guess it was\neight after all. Let's see...\nYeah, you got everything!\nNow, just give me a second.",
         "pt-BR": "[Geschupenschte]\nOh, eu acho que eram\noito, afinal. Vejamos...\nÉ, você trouxe tudo!\nAgora, me dê um segundo.",
-        "es-ES": "[Geschupenschte]\nAh, supongo que eran\nocho después de todo. Veamos…\n¡Sí, tienes todo!\nDame un segundo."
+        "es-ES": "[Geschupenschte]\nAh, supongo que eran\nocho después de todo. Veamos...\n¡Sí, tienes todo!\nDame un segundo."
     },
     "axmWBg": {
         "en-US": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Arbalest^000000, you should really only have an Arbalest that you bought from an NPC shop in your inventory.",
@@ -1022,12 +1022,12 @@
     "bBmWBg": {
         "en-US": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Talpiz^000000 in Payon of Rune-Midgard Kingdom. Simply deliver this and bring me the receipt.",
         "pt-BR": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Talpiz^000000 em Payon, no Reino de Rune-Midgard. Apenas entregue isso e me traga o recibo.",
-        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Talpiz^000000 en Payon del reino de Rune-Midgard. Solo entrégalo y tráeme el recibo."
+        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo...\nBien, ahora, llévale esto a ^8E6B23Talpiz^000000 en Payon del reino de Rune-Midgard. Solo entrégalo y tráeme el recibo."
     },
     "bRmWBg": {
         "en-US": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nArbalest! Look closely\nat the bow...",
         "pt-BR": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nArbaleste! Olhe de perto\no arco...",
-        "es-ES": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nuna Arbalesta normal! Fíjate bien\nen el arco…"
+        "es-ES": "[Geschupenschte]\n¿Mmm...?\n¿Por qué me miras así?\n¡Esto no es\nuna Arbalesta normal! Fíjate bien\nen el arco..."
     },
     "bhmWBg": {
         "en-US": "^3355FFThe bow reads:\nGeschupenschte\nArbalest Luxury Edition.\nIt does seem more luxurious\nthan regular Arbalests.^000000",
@@ -1047,7 +1047,7 @@
     "cRmWBg": {
         "en-US": "[Geschupenschte]\nWait...\nDidn't I tell you\nto get 40 Iron?",
         "pt-BR": "[Geschupenschte]\nEspere...\nEu não lhe disse\npara trazer 40 Ferros?",
-        "es-ES": "[Geschupenschte]\nEspera…\n¿No te dije\nque trajeras 40 unidades de Hierro?"
+        "es-ES": "[Geschupenschte]\nEspera...\n¿No te dije\nque trajeras 40 unidades de Hierro?"
     },
     "chmWBg": {
         "en-US": "[Geschupenschte]\nOh, you should make sure that you are not carrying ^FF0000more than one Ring Pommel Saber^000000. You should really only have just one that you bought from an NPC shop in your inventory.",
@@ -1057,12 +1057,12 @@
     "cxmWBg": {
         "en-US": "[Geschupenschte]\nWooooo~~~\nAll done...\nOkay, now take this to ^8E6B23Bismarc^000000 in Hugel. Simply deliver this and bring back the receipt.",
         "pt-BR": "[Geschupenschte]\nUau!\nTudo pronto!\nCerto, agora leve isso para ^8E6B23Bismarc^000000 em Hugel. Apenas entregue isso e me traga o recibo.",
-        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo…\nBien, ahora, llévale esto a ^8E6B23Bismarc^000000 en Hugel. Solo entrégalo y tráeme el recibo."
+        "es-ES": "[Geschupenschte]\nUooooo~~~.\nTodo listo...\nBien, ahora, llévale esto a ^8E6B23Bismarc^000000 en Hugel. Solo entrégalo y tráeme el recibo."
     },
     "dBmWBg": {
         "en-US": "[Geschupenschte]\nHmm...?\nWhat's that look for?\nThis is not a normal\nRing Pommel Saber!\nLook closely at\nthe handle...",
         "pt-BR": "[Geschupenschte]\nHum...?\nPor que está com esse olhar?\nEsse não é apenas um\nSabre de Impacto!\nOlhe de perto\no punho...",
-        "es-ES": "[Geschupenschte]\n¿Mmm…?\n¿Por qué me miras así?\n¡Esto no es\nun Sable de mango de anillo normal!\nFíjate bien en\nel mango…"
+        "es-ES": "[Geschupenschte]\n¿Mmm...?\n¿Por qué me miras así?\n¡Esto no es\nun Sable de mango de anillo normal!\nFíjate bien en\nel mango..."
     },
     "dRmWBg": {
         "en-US": "^3355FFThe handle reads:\n'Green Herbal\nRing Pommel Saber\nof Geschupenschte\nMark 2.' It does seem\nto have a completely\ndifferent feel.^000000",
@@ -1112,7 +1112,7 @@
     "fhmWBg": {
         "en-US": "[Geschupenschte]\nHmmm...?\nHave you\ncompleted\nthe delivery?\nLet's see that receipt~",
         "pt-BR": "[Geschupenschte]\nEm Payon, a sudoeste, a partir do centro, você encontrará ^CCCCCCTalpiz^000000. E não se esqueça do recibo.",
-        "es-ES": "[Geschupenschte]\n¿Mmmm…?\n¿Realizaste\nla\nentrega?\nMuéstrame el recibo~."
+        "es-ES": "[Geschupenschte]\n¿Mmmm...?\n¿Realizaste\nla\nentrega?\nMuéstrame el recibo~."
     },
     "fxmWBg": {
         "en-US": "Yes sir, here it is.",
@@ -1142,7 +1142,7 @@
     "hBmWBg": {
         "en-US": "[Geschupenschte]\nYou mean...\nYou didn't get\na receipt?\nWhat...?",
         "pt-BR": "[Geschupenschte]\nVocê quer dizer...\nVocê não pegou\no recibo?\nQuê...?",
-        "es-ES": "[Geschupenschte]\nQuieres decir que…\n¿no trajiste\nun recibo?\n¿Qué…?"
+        "es-ES": "[Geschupenschte]\nQuieres decir que...\n¿no trajiste\nun recibo?\n¿Qué...?"
     },
     "hRmWBg": {
         "en-US": "[Geschupenschte]\nA receipt is\na Merchant's best friend!\nIt's necessary to your job!\nYou'll have to start your\ntest all over again!",
@@ -1152,7 +1152,7 @@
     "hhmWBg": {
         "en-US": "[Geschupenschte]\nReturn when you\nfind the receipt~\nYou didn't forget\nto receive a receipt.\nRight...?",
         "pt-BR": "[Geschupenschte]\nVolte quando\ntiver encontrado o recibo.\nVocê não se esqueceu\nde pegar o recibo.\nCerto...?",
-        "es-ES": "[Geschupenschte]\nRegresa cuando\nencuentres el recibo~.\nNo te olvidaste\nde pedir el recibo.\n¿Verdad…?"
+        "es-ES": "[Geschupenschte]\nRegresa cuando\nencuentres el recibo~.\nNo te olvidaste\nde pedir el recibo.\n¿Verdad...?"
     },
     "hxmWBg": {
         "en-US": "[Geschupenschte]\nThank you\nvery much\nyour help.\nReturn to Einbroch\nand see ^8E6B23Altiregen^000000!",
@@ -1162,7 +1162,7 @@
     "iBmWBg": {
         "en-US": "[Geschupenschte]\nHmm...?\nYou already finished\nyour test here with me!\nAnd surprisingly, I don't\nneed any more help, today.",
         "pt-BR": "[Geschupenschte]\nHum...?\nVocê já terminou\no seu teste aqui comigo!\nE, para minha surpresa, eu não\npreciso mais de ajuda por hoje.",
-        "es-ES": "[Geschupenschte]\n¿Mmm…?\n¡Ya terminaste\ntu prueba conmigo!\nY, sorprendentemente, no\nnecesito más ayuda por hoy."
+        "es-ES": "[Geschupenschte]\n¿Mmm...?\n¡Ya terminaste\ntu prueba conmigo!\nY, sorprendentemente, no\nnecesito más ayuda por hoy."
     },
     "iRmWBg": {
         "en-US": "[Geschupenschte]\nBeing\na Blacksmith\nis truly great!\nDon't you think so?\nMwahahahahah!!",
@@ -1187,7 +1187,7 @@
     "jRmWBg": {
         "en-US": "Whoops, this is one of the items I use...",
         "pt-BR": "Oooops, este é um dos itens que eu uso...",
-        "es-ES": "Ups, este es uno de los objetos que uso…"
+        "es-ES": "Ups, este es uno de los objetos que uso..."
     },
     "jhmWBg": {
         "en-US": "I'm sure! It's brand new!",
@@ -1197,7 +1197,7 @@
     "jxmWBg": {
         "en-US": "[Baisulist]\nWell...\nI guess I can\nwait a little longer.\nPlease hurry with\nmy delivery~",
         "pt-BR": "[Baisulist]\nBem...\nAcho que posso\nesperar um pouco mais.\nPor favor, faça logo\na minha entrega.",
-        "es-ES": "[Baisulist]\nBueno…\nSupongo que puedo\nesperar un poco más.\nPor favor, date prisa con\nmi entrega~."
+        "es-ES": "[Baisulist]\nBueno...\nSupongo que puedo\nesperar un poco más.\nPor favor, date prisa con\nmi entrega~."
     },
     "kBmWBg": {
         "en-US": "[Baisulist]\nYou're\nabsolutely sure?",
@@ -1207,7 +1207,7 @@
     "kRmWBg": {
         "en-US": "[Baisulist]\nThank you so much for traveling all the way here. That Geschupenschte, please smack him for me when you meet him for being so late on this order...",
         "pt-BR": "[Baisulist]\nMuito obrigada por ter vindo até aqui. E, quando puder, dê um murro naquele Geschupenschte por mim, pelo atraso no pedido.",
-        "es-ES": "[Baisulist]\nMuchas gracias por viajar hasta aquí. Ese Geschupenschte, por favor, dale una bofetada de mi parte por tardar tanto con este pedido…"
+        "es-ES": "[Baisulist]\nMuchas gracias por viajar hasta aquí. Ese Geschupenschte, por favor, dale una bofetada de mi parte por tardar tanto con este pedido..."
     },
     "khmWBg": {
         "en-US": "[Baisulist]\nPlease wait\na second, let\nme give you a receipt~",
@@ -1232,17 +1232,17 @@
     "lhmWBg": {
         "en-US": "[Baisulist]\nOh...\nIt's been a while\nsince I've been\nto Alberta.",
         "pt-BR": "[Baisulist]\nOh...\nFaz muito tempo\ndesde que estive\nem Alberta.",
-        "es-ES": "[Baisulist]\nAh…\nHace mucho\ntiempo que no\nvoy a Alberta."
+        "es-ES": "[Baisulist]\nAh...\nHace mucho\ntiempo que no\nvoy a Alberta."
     },
     "lxmWBg": {
         "en-US": "[Baisulist]\nI ordered something\nfrom there a while ago,\nbut I haven't received\nmy delivery...",
         "pt-BR": "[Baisulist]\nEu pedi uma coisa\nde lá há algum tempo,\nmas ainda não recebi\na minha entrega.",
-        "es-ES": "[Baisulist]\nPedí algo\nallí hace un tiempo,\npero no recibí\nmi pedido…"
+        "es-ES": "[Baisulist]\nPedí algo\nallí hace un tiempo,\npero no recibí\nmi pedido..."
     },
     "mBmWBg": {
         "en-US": "[Baisulist]\nI wonder...\nCould the Blacksmith Guild\nbe undermanned? I can't think of any other reason for them to be late...",
         "pt-BR": "[Baisulist]\nEu me pergunto...\nSerá que a Guilda dos Ferreiros\nestá sem funcionários? Não consigo pensar em outro motivo para um atraso tão grande...",
-        "es-ES": "[Baisulist]\nMe pregunto…\n¿Es posible que el gremio de Herreros\nesté escaso de personal? No se me ocurre ninguna otra razón por la que estarían demorados…"
+        "es-ES": "[Baisulist]\nMe pregunto...\n¿Es posible que el gremio de Herreros\nesté escaso de personal? No se me ocurre ninguna otra razón por la que estarían demorados..."
     },
     "mRmWBg": {
         "en-US": "[Baisulist]\nWhen will I get\nmy special Arc Wand?",
@@ -1257,7 +1257,7 @@
     "mxmWBg": {
         "en-US": "[Wickebine]\n...!\nIt's here!",
         "pt-BR": "[Wickebine]\n...!\nEstá aqui!",
-        "es-ES": "[Wickebine]\n¡…!\n¡Ya está aquí!"
+        "es-ES": "[Wickebine]\n¡...!\n¡Ya está aquí!"
     },
     "nBmWBg": {
         "en-US": "[Wickebine]\nThis is what I ordered, right?\nI don't want any used or old Gladius that you might have!",
@@ -1277,7 +1277,7 @@
     "nxmWBg": {
         "en-US": "[Wickebine]\nOooh...!\nHurry up\nwith my Gladius~",
         "pt-BR": "[Wickebine]\nAaah...!\nTraga logo\no meu Gladius.",
-        "es-ES": "[Wickebine]\n¡Aaah…!\nDate prisa\ncon mi Gladius~."
+        "es-ES": "[Wickebine]\n¡Aaah...!\nDate prisa\ncon mi Gladius~."
     },
     "oBmWBg": {
         "en-US": "- She seems to be upset. -",
@@ -1287,7 +1287,7 @@
     "oRmWBg": {
         "en-US": "[Wickebine]\nHah hah hah!\nFinally! Now...\nLet me have\na look!",
         "pt-BR": "[Wickebine]\nHahaha!\nFinalmente! Agora...\ndeixe-me\ndar uma olhada!",
-        "es-ES": "[Wickebine]\n¡Ja, ja, ja!\n¡Por fin! Ahora…\nDéjame\nver."
+        "es-ES": "[Wickebine]\n¡Ja, ja, ja!\n¡Por fin! Ahora...\nDéjame\nver."
     },
     "ohmWBg": {
         "en-US": "- She looks very happy. -",
@@ -1327,12 +1327,12 @@
     "qRmWBg": {
         "en-US": "[Wickebine]\n...",
         "pt-BR": "[Wickebine]\n...",
-        "es-ES": "[Wickebine]\n…"
+        "es-ES": "[Wickebine]\n..."
     },
     "qhmWBg": {
         "en-US": "[Wickemine]\n...\n......",
         "pt-BR": "[Wickemine]\n...\n......",
-        "es-ES": "[Wickebine]\n…\n......"
+        "es-ES": "[Wickebine]\n...\n......"
     },
     "qxmWBg": {
         "en-US": "[Wickmine]\nThey're late.\nThey're late,\nthey're late,\nthey're late~!",
@@ -1342,12 +1342,12 @@
     "rBmWBg": {
         "en-US": "[Wickebine]\nHow long does it take for something to ship from Geschupenschte? Usually, the Geffen Blacksmith Guild is pretty prompt...",
         "pt-BR": "[Wickebine]\nQuanto tempo leva para Geschupenschte entregar alguma coisa? Normalmente a Guilda dos Ferreiros de Geffen é bem rápida...",
-        "es-ES": "[Wickebine]\n¿Cuánto tarda Geschupenschte en enviar un pedido? Por lo general, el gremio de Herreros de Geffen es bastante rápido…"
+        "es-ES": "[Wickebine]\n¿Cuánto tarda Geschupenschte en enviar un pedido? Por lo general, el gremio de Herreros de Geffen es bastante rápido..."
     },
     "rRmWBg": {
         "en-US": "[Wickebine]\nOoohh...\nThis is very\nupsetting...",
         "pt-BR": "[Wickebine]\nOoohh...\nIsso é tão\nirritante...",
-        "es-ES": "[Wickebine]\nAaahh…\nEsto es muy\nmolest…"
+        "es-ES": "[Wickebine]\nAaahh...\nEsto es muy\nmolest..."
     },
     "rhmWBg": {
         "en-US": "Krongast",
@@ -1377,7 +1377,7 @@
     "sxmWBg": {
         "en-US": "[Krongast]\nHmmmmm!\nPlease deliver\nthe right sword!\nI've been waiting\nlong enough already...",
         "pt-BR": "[Krongast]\nHummmmm!\nPor favor, entregue\na espada certa!\nEu já esperei\ndemais da conta...",
-        "es-ES": "[Krongast]\n¡Mmmmmm!\n¡Por favor, entrega\nla espada correcta!\nYa esperé\ndemasiado…"
+        "es-ES": "[Krongast]\n¡Mmmmmm!\n¡Por favor, entrega\nla espada correcta!\nYa esperé\ndemasiado..."
     },
     "tBmWBg": {
         "en-US": "[Krongast]\nYou double checked?\nAlright then, I'll take it!",
@@ -1387,12 +1387,12 @@
     "tRmWBg": {
         "en-US": "[Krongast]\nOh ho...\nThis is good.\nMuch better than\nwhat I expected.",
         "pt-BR": "[Krongast]\nOh ho...\nIsso é bom.\nMuito melhor do que\neu esperava.",
-        "es-ES": "[Krongast]\nJo, jo…\nEs muy buena.\nMucho mejor de\nlo que esperaba."
+        "es-ES": "[Krongast]\nJo, jo...\nEs muy buena.\nMucho mejor de\nlo que esperaba."
     },
     "thmWBg": {
         "en-US": "[Krongast]\nWith this sword...\nMy special moves will be even more powerful! I may even be able to perfect my fast attacking techniques! I love it!",
         "pt-BR": "[Krongast]\nCom esta espada...\nmeus movimentos especiais serão ainda mais poderosos! Talvez eu consiga aperfeiçoar minhas técnicas de ataque rápido! Eu adorei!",
-        "es-ES": "[Krongast]\nCon esta espada…\n¡mis movimientos especiales serán aún más poderosos! ¡Quizá pueda perfeccionar mis técnicas de ataque rápido! ¡Me encanta!"
+        "es-ES": "[Krongast]\nCon esta espada...\n¡mis movimientos especiales serán aún más poderosos! ¡Quizá pueda perfeccionar mis técnicas de ataque rápido! ¡Me encanta!"
     },
     "txmWBg": {
         "en-US": "[Krongast]\nOkay then.\nLet me give\nyou a receipt.",
@@ -1407,7 +1407,7 @@
     "uRmWBg": {
         "en-US": "{0}... Thank you for the delivery.",
         "pt-BR": "{0}, muito obrigado pela entrega~",
-        "es-ES": "{0}… Gracias por la entrega."
+        "es-ES": "{0}... Gracias por la entrega."
     },
     "uhmWBg": {
         "en-US": "[Krongast]\nThank you\nfor the delivery.",
@@ -1417,12 +1417,12 @@
     "uxmWBg": {
         "en-US": "[Krongast]\n...",
         "pt-BR": "[Krongast]\n...",
-        "es-ES": "[Krongast]\n…"
+        "es-ES": "[Krongast]\n..."
     },
     "vBmWBg": {
         "en-US": "[Krongast]\n...\n......",
         "pt-BR": "[Krongast]\n...\n......",
-        "es-ES": "[Krongast]\n…\n......"
+        "es-ES": "[Krongast]\n...\n......"
     },
     "vRmWBg": {
         "en-US": "[Krongast]\nWhen will the sword\nI ordered finally arrive?\nI need to try my ultimate skill, ^2F4F4FFine Edge^000000 with it.",
@@ -1462,12 +1462,12 @@
     "xBmWBg": {
         "en-US": "[Talpiz]\nHmmmm.\nPlease hurry\nand bring the\ncorrect item.\nI've waited too\nlong already...",
         "pt-BR": "[Talpiz]\nHummmm.\nSeja rápido, por favor,\ne me traga o\nitem correto.\nEu já esperei\ndemais...",
-        "es-ES": "[Talpiz]\nMmmmm.\nPor favor, date prisa\ny tráeme el\nobjeto correcto.\nYa esperé demasiado\ntiempo…"
+        "es-ES": "[Talpiz]\nMmmmm.\nPor favor, date prisa\ny tráeme el\nobjeto correcto.\nYa esperé demasiado\ntiempo..."
     },
     "xRmWBg": {
         "en-US": "[Talpiz]\nSo, you're sure?\nLet me take a look...",
         "pt-BR": "[Talpiz]\nEntão, tem certeza?\nDeixe-me dar uma olhada...",
-        "es-ES": "[Talpiz]\nEntonces, ¿me das tu palabra?\nDéjame echar un vistazo…"
+        "es-ES": "[Talpiz]\nEntonces, ¿me das tu palabra?\nDéjame echar un vistazo..."
     },
     "xhmWBg": {
         "en-US": "[Talpiz]\n*wheet whoo*\nVery nice!!",
@@ -1502,17 +1502,17 @@
     "zBmWBg": {
         "en-US": "[Talpiz]\nEh...\nWhen will my\norder arrive?",
         "pt-BR": "[Talpiz]\nEr...\nQuando o meu\npedido vai chegar?",
-        "es-ES": "[Talpiz]\nEh…\n¿Cuándo\nllegará mi pedido?"
+        "es-ES": "[Talpiz]\nEh...\n¿Cuándo\nllegará mi pedido?"
     },
     "zRmWBg": {
         "en-US": "[Talpiz]\nA custom made Arbalest\nwith a quality case to hold your eye patches. Only one person can make something like that...",
         "pt-BR": "[Talpiz]\nUm Arbaleste personalizado\ncom um estojo para guardar o meu tapa-olho. Só uma pessoa pode fazer algo assim...",
-        "es-ES": "[Talpiz]\nUna Arbalesta a medida\ncon un estuche de calidad para guardar los parches de ojo. Solo una persona puede hacer algo así…"
+        "es-ES": "[Talpiz]\nUna Arbalesta a medida\ncon un estuche de calidad para guardar los parches de ojo. Solo una persona puede hacer algo así..."
     },
     "zhmWBg": {
         "en-US": "[Talpiz]\nAhhhhhh...\nThe waiting\nis unbearable!",
         "pt-BR": "[Talpiz]\nAhhhhhh...\nEssa espera\né insuportável!",
-        "es-ES": "[Talpiz]\nAhhhhhh…\n¡La espera\nes insoportable!"
+        "es-ES": "[Talpiz]\nAhhhhhh...\n¡La espera\nes insoportable!"
     },
     "zxmWBg": {
         "en-US": "Bismarc",
@@ -1522,12 +1522,12 @@
     "0BmWBg": {
         "en-US": "[Bismarc]\nSweet God...\nHave you sent\nan angel...?\nIs that the Ring Pommel Saber\nI ordered? It's my only hope...",
         "pt-BR": "[Bismarc]\nMeu Deus...\nVocê me mandou\num anjo?\nEsse é o sabre de impacto que\neu encomendei? É a minha única esperança...",
-        "es-ES": "[Bismarc]\nSantos cielos…\n¿Enviaron\na un ángel…?\n¿Es ese el Sable de mango de anillo\nque ordené? Es mi única esperanza…"
+        "es-ES": "[Bismarc]\nSantos cielos...\n¿Enviaron\na un ángel...?\n¿Es ese el Sable de mango de anillo\nque ordené? Es mi única esperanza..."
     },
     "0RmWBg": {
         "en-US": "[Bismarc]\n^666666*Huuuk*^000000 This is what I ordered, right? I needed one especially\nmade to stop this poison...",
         "pt-BR": "[Bismarc]\n^666666*Uuuuu*^000000 Isso foi o que eu pedi, certo? Eu preciso de um\nfeito especialmente para parar esse veneno...",
-        "es-ES": "[Bismarc]\n^666666*Aaayyy*^000000 Esto es lo que pedí, ¿verdad? Necesitaba uno hecho especialmente\npara detener este veneno…"
+        "es-ES": "[Bismarc]\n^666666*Aaayyy*^000000 Esto es lo que pedí, ¿verdad? Necesitaba uno hecho especialmente\npara detener este veneno..."
     },
     "0hmWBg": {
         "en-US": "Whoops, this is my own Ring Pommel Saber.",
@@ -1542,17 +1542,17 @@
     "1BmWBg": {
         "en-US": "[Bismarc]\nN-Nooo...\nHurry...!\nI need that\nsword for its\nan...ti...d-dote!",
         "pt-BR": "[Bismarc]\nNããão...\nRápido!\nEu preciso daquela\nespada com o\nan... tí... doto!",
-        "es-ES": "[Bismarc]\nN-Nooo…\n¡Date prisa…!\n¡Necesito esa\nespada por su\nan… tí… d-doto!"
+        "es-ES": "[Bismarc]\nN-Nooo...\n¡Date prisa...!\n¡Necesito esa\nespada por su\nan... tí... d-doto!"
     },
     "1RmWBg": {
         "en-US": "^3355FFIt looks like\nhe's slowly dying...!\nYou'd better hurry.^000000",
         "pt-BR": "^3355FFParece que\nele está morrendo beeeeem devagar!\nÉ melhor você se apressar.^000000",
-        "es-ES": "^3355FF(¡Parece que\nse está muriendo lentamente…!\nSerá mejor que te des prisa).^000000"
+        "es-ES": "^3355FF(¡Parece que\nse está muriendo lentamente...!\nSerá mejor que te des prisa).^000000"
     },
     "1hmWBg": {
         "en-US": "[Bismarc]\n^666666*Ghklk*^000000\nGive it...!\nPleeeease!",
         "pt-BR": "[Bismarc]\n^666666*Gaaah!*^000000\nMe dê isso!\nPor favoooooor!",
-        "es-ES": "[Bismarc]\n^666666*Ajjj, ajjj*^000000\n¡Dámela…!\n¡Por favoooor!"
+        "es-ES": "[Bismarc]\n^666666*Ajjj, ajjj*^000000\n¡Dámela...!\n¡Por favoooor!"
     },
     "1xmWBg": {
         "en-US": "^3355FFBismarc stabs\nhimself, repeatedly,\nwith the Ring Pommel Saber\nthat has been imbued with\nthe power of Green Herbs.^000000",
@@ -1567,7 +1567,7 @@
     "2RmWBg": {
         "en-US": "[Bismarc]\nPlease...\nHelp me up.\nThe poison is\nstill coarsing\nthrough my body...",
         "pt-BR": "[Bismarc]\nPor favor...\nMe ajude.\nO veneno ainda\nestá corroendo\no meu corpo...",
-        "es-ES": "[Bismarc]\nPor favor…\nAyúdame a levantarme.\nEl veneno\ntodavía corre\npor mi cuerpo…"
+        "es-ES": "[Bismarc]\nPor favor...\nAyúdame a levantarme.\nEl veneno\ntodavía corre\npor mi cuerpo..."
     },
     "2hmWBg": {
         "en-US": "[Bismarc]\nOwwwWWWW!!\nIT'S BURNING!",
@@ -1582,27 +1582,27 @@
     "3BmWBg": {
         "en-US": "[Bismarc]\nHere is\nyour receipt.\nT-take it...!\nIt's yours!",
         "pt-BR": "[Bismarc]\nAqui está \no seu recibo.\nPegue-o!\nÉ seu!",
-        "es-ES": "[Bismarc]\nAquí está\ntu recibo.\n¡T-tómalo…!\n¡Es tuyo!"
+        "es-ES": "[Bismarc]\nAquí está\ntu recibo.\n¡T-tómalo...!\n¡Es tuyo!"
     },
     "3RmWBg": {
         "en-US": "Thanks, {0}, for the delivery. You saved my life...",
         "pt-BR": "{0}, obrigado... por...me ...entregar o... Poderei continuar vivendo...",
-        "es-ES": "Gracias, {0}, por la entrega. Me salvaste la vida…"
+        "es-ES": "Gracias, {0}, por la entrega. Me salvaste la vida..."
     },
     "3hmWBg": {
         "en-US": "[Bismarc]\nThank you.\nYou saved\nmy life...",
         "pt-BR": "[Bismarc]\nObrigado.\nVocê salvou\na minha vida.",
-        "es-ES": "[Bismarc]\nGracias.\nMe salvaste\nla vida…"
+        "es-ES": "[Bismarc]\nGracias.\nMe salvaste\nla vida..."
     },
     "3xmWBg": {
         "en-US": "[Bismarc]\n^666666*Ghyklk*^000000\n^666666*Huk Hukk*^000000\nWhen will my\no-order arrive...?",
         "pt-BR": "[Bismarc]\n^666666*UuUuGH!*^000000\n^666666*Gaah AAAAAH*^000000\nQuando o meu\np-pedido vai chegar?",
-        "es-ES": "[Bismarc]\n^666666*Ajjj, ajjj*^000000\n^666666*Ajjj, ajjjj*^000000\n¿Cuándo\nl-llegará mi pedido…?"
+        "es-ES": "[Bismarc]\n^666666*Ajjj, ajjj*^000000\n^666666*Ajjj, ajjjj*^000000\n¿Cuándo\nl-llegará mi pedido...?"
     },
     "4BmWBg": {
         "en-US": "[Bismarc]\nThe poison in\nmy body... the pain...\nexcruciating... L-lord...",
         "pt-BR": "[Bismarc]\nO veneno no\nmeu corpo... a dor...\nhorrível... Oh, céus...",
-        "es-ES": "[Bismarc]\nEl veneno en\nmi cuerpo… el dolor…\nes insoportable… D-Dios…"
+        "es-ES": "[Bismarc]\nEl veneno en\nmi cuerpo... el dolor...\nes insoportable... D-Dios..."
     },
     "4RmWBg": {
         "en-US": "[Bismarc]\nWhen is the\nantidote gonna\nget here?!",
@@ -1617,7 +1617,7 @@
     "4xmWBg": {
         "en-US": "[Mitehmaeeuh]\nOh...so you're the one who wants to be a blacksmith?\nNice, heh heh.\nAs you've realized from your past tests, you won't be promoted from Merchant to Blacksmtih immediately.",
         "pt-BR": "[Mitehmaeeuh]\nOh, então você quer ser um ferreiro?\nLegal, hehe.\nComo você já deve ter percebido, não vai ser promovido de Mercador para Ferreiro imediatamente.",
-        "es-ES": "[Mitehmaeeuh]\nAh… ¿así que quieres ser clase Herrero?\nBien, je, je.\nComo habrás visto en tus pruebas anteriores, no ascenderás de Comerciante a Herrero de inmediato."
+        "es-ES": "[Mitehmaeeuh]\nAh... ¿así que quieres ser clase Herrero?\nBien, je, je.\nComo habrás visto en tus pruebas anteriores, no ascenderás de Comerciante a Herrero de inmediato."
     },
     "5BmWBg": {
         "en-US": "[Mitehmaeeuh]\nHow much do you truly understand about smithing? Are you ready for me to ask you some questions?",
@@ -1637,12 +1637,12 @@
     "5xmWBg": {
         "en-US": "[Mitehmaeeuh]\nAlright...\nMy test is simple.\nI'll ask five questions.\nIf you miss too many,\nyou fail. And I won't\ntell you what you missed.",
         "pt-BR": "[Mitehmaeeuh]\nCerto...\nMeu teste é simples.\nEu vou fazer cinco perguntas.\nSe você errar demais,\nfalhará. E eu não\nvou dizer quais você errou.",
-        "es-ES": "[Mitehmaeeuh]\nMuy bien…\nMi prueba es simple.\nTe haré cinco preguntas.\nSi respondes mal demasiadas veces,\nrepruebas. Y no te diré\nen cuáles erraste."
+        "es-ES": "[Mitehmaeeuh]\nMuy bien...\nMi prueba es simple.\nTe haré cinco preguntas.\nSi respondes mal demasiadas veces,\nrepruebas. Y no te diré\nen cuáles erraste."
     },
     "6BmWBg": {
         "en-US": "[Mitehmaeeuh]\nPlease listen\nand answer carefully...",
         "pt-BR": "[Mitehmaeeuh]\nAgora, escute \ne responda com cuidado...",
-        "es-ES": "[Mitehmaeeuh]\nEscucha\ny ten cuidado al contestar…"
+        "es-ES": "[Mitehmaeeuh]\nEscucha\ny ten cuidado al contestar..."
     },
     "6RmWBg": {
         "en-US": "[Mitehmaeeuh]\n1. What ability\nis required to learn\nthe ^8E6B23Discount^000000 skill?",
@@ -1957,12 +1957,12 @@
     "JxqWBg": {
         "en-US": "[Mitehmaeeuh]\nAh...\nYou've completed\nthe quiz. Let's see...",
         "pt-BR": "[Mitehmaeeuh]\nAh...\nvocê completou\no teste. Vejamos...",
-        "es-ES": "[Mitehmaeeuh]\nAh…\nCompletaste\nel cuestionario. Veamos…"
+        "es-ES": "[Mitehmaeeuh]\nAh...\nCompletaste\nel cuestionario. Veamos..."
     },
     "KBqWBg": {
         "en-US": "[Mitehmaeeuh]\nYou earned\n{0} points...",
         "pt-BR": "[Mitehmaeeuh]\nVocê conseguiu\n{0} pontos...",
-        "es-ES": "[Mitehmaeeuh]\nObtuviste\n{0} puntos…"
+        "es-ES": "[Mitehmaeeuh]\nObtuviste\n{0} puntos..."
     },
     "KRqWBg": {
         "en-US": "Very nice!\nCongratulations!\nYou just passed!",
@@ -1992,7 +1992,7 @@
     "LhqWBg": {
         "en-US": "[Mitehmaeeuh]\nOkay then.\nPlease prepare\nyourself and return\nwhen you are ready...",
         "pt-BR": "[Mitehmaeeuh]\nMuito bem.\nPor favor, prepare-se\nmelhor e volte\nquando estiver pronto...",
-        "es-ES": "[Mitehmaeeuh]\nDe acuerdo.\nPor favor, prepárate\ny regresa\ncuando tengas todo listo…"
+        "es-ES": "[Mitehmaeeuh]\nDe acuerdo.\nPor favor, prepárate\ny regresa\ncuando tengas todo listo..."
     },
     "LxqWBg": {
         "en-US": "[Mitehmaeeuh]\nYeap, you just passed the Blacksmith job test~",
@@ -2107,7 +2107,7 @@
     "RRqWBg": {
         "en-US": "[{0}]\nExcuse me, I was wondering if you could help me. Er... I'm working for the Geffen Water and Magic Bureau and need to get a set of blueprints for the city's water supply.",
         "pt-BR": "[{0}]\nCom licença, poderia me ajudar? Er... Estou trabalhando para o Escritório de Água e Magia de Geffen e preciso obter um conjunto de plantas para o abastecimento de água da cidade.",
-        "es-ES": "[{0}]\nDisculpa, me preguntaba si podrías ayudarme. Er… Trabajo para la Oficina de Agua y Magia de Geffen y necesito conseguir los planos del suministro de agua de la ciudad."
+        "es-ES": "[{0}]\nDisculpa, me preguntaba si podrías ayudarme. Er... Trabajo para la Oficina de Agua y Magia de Geffen y necesito conseguir los planos del suministro de agua de la ciudad."
     },
     "RhqWBg": {
         "en-US": "[Blacksmith Guildsman]\nThe Blacksmith's guild helped to improve the plumbing systems shortly after we were established in Geffen way back when.",

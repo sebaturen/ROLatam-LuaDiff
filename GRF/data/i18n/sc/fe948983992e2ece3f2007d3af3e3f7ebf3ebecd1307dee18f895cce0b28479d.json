@@ -292,7 +292,7 @@
     "miv/AQ": {
         "en-US": "[Ben]\nRemember...\nYou will have\n^3131FF5 minutes^000000 battle time.",
         "pt-BR": "[Ben]\nLembre-se...\nVocê terá\n^3131FF5 minutos^000000 de tempo de batalha.",
-        "es-ES": "[Ben]\nRecuerda…\nTendrás\nel tiempo que tendrás para luchar es de ^3131FF5minutos^000000."
+        "es-ES": "[Ben]\nRecuerda...\nTendrás\nel tiempo que tendrás para luchar es de ^3131FF5minutos^000000."
     },
     "myv/AQ": {
         "en-US": "[Ben]\nAfter you clear every room, including a boss room, you will be warped again to an ^3131FFPost Battle Waiting Room^000000.",
@@ -312,7 +312,7 @@
     "niv/AQ": {
         "en-US": "[Ben]\nWell...\nI hope you\nenjoy your time\nin the Arena~!",
         "pt-BR": "[Ben]\nBem...\nEspero que você\naproveite seu tempo\nna Arena~!",
-        "es-ES": "[Ben]\nBueno…\n¡Espero que\n¡que disfrutes tu tiempo\nen la Arena~!"
+        "es-ES": "[Ben]\nBueno...\n¡Espero que\n¡que disfrutes tu tiempo\nen la Arena~!"
     },
     "nyv/AQ": {
         "en-US": "Helper Vicious",
@@ -322,7 +322,7 @@
     "oCv/AQ": {
         "en-US": "[Vicious]\nHey...\nI'm Vicious, the\nLevel 70-89 Arena Stage helper.",
         "pt-BR": "[Vicious]\nOlá...\nEu sou Vicious, o ajudante do\nNível 70-89 ajudante da Arena Stage.",
-        "es-ES": "[Vicious]\nOye…\nSoy Vicious,\nel ayudante de la Arena nivel70-89."
+        "es-ES": "[Vicious]\nOye...\nSoy Vicious,\nel ayudante de la Arena nivel70-89."
     },
     "oSv/AQ": {
         "en-US": "[Vicious]\n^666666How the hell did I get\nmyself into this crappy\nline of work?! *Grumble Grumble*^000000",
@@ -382,12 +382,12 @@
     "rCv/AQ": {
         "en-US": "[Epin]\nGood day,\nI'm the helper for the\nLevel 80-99 Arena Stage.\nMy name is Epin, and I'm 19 years old, I like reading and... Huh? Don't you want to hear about me?",
         "pt-BR": "[Epin]\nBom dia,\nSou o ajudante do\nNível 80-99 Arena Stage.\nMeu nome é Epin, tenho 19 anos e gosto de ler e... Hã? Você não quer saber mais sobre mim?",
-        "es-ES": "[Epin]\n¡Buenos días!\nSoy ayudante de la\nArena nivel80-99.\nMe llamo Epin, tengo 19años, me gusta leer y… ¿Eh? ¿No quieres que te cuente sobre mí?"
+        "es-ES": "[Epin]\n¡Buenos días!\nSoy ayudante de la\nArena nivel80-99.\nMe llamo Epin, tengo 19años, me gusta leer y... ¿Eh? ¿No quieres que te cuente sobre mí?"
     },
     "rSv/AQ": {
         "en-US": "[Epin]\n^333333*Sniff*^000000\nO-okay...",
         "pt-BR": "[Epin]\n^333333*Sniff*^000000\nO-okay...",
-        "es-ES": "[Epin]\n^333333*Solloza*^000000\nB-bueno…"
+        "es-ES": "[Epin]\n^333333*Solloza*^000000\nB-bueno..."
     },
     "riv/AQ": {
         "en-US": "[Epin]\nOnly characters from\n^FF0000Level 80^000000 to ^FF0000Level 150^000000\ncan participate in the\n^3131FFLevel 80-99 Arena Stage^000000.",
@@ -547,7 +547,7 @@
     "zSv/AQ": {
         "en-US": "[Lonik]\nMy answer is...",
         "pt-BR": "[Lonik]\nMinha resposta é...",
-        "es-ES": "[Lonik]\nMi respuesta es…"
+        "es-ES": "[Lonik]\nMi respuesta es..."
     },
     "ziv/AQ": {
         "en-US": "Yes! Someone's inside!",
@@ -1207,7 +1207,7 @@
     "USz/AQ": {
         "en-US": "[Givu]\nUm...\nDid you need\nmore time to decide?",
         "pt-BR": "[Givu]\nHum...\nVocê precisou de\nmais tempo para decidir?",
-        "es-ES": "[Givu]\nEh…\n¿Necesitabas\nmás tiempo para decidirlo?"
+        "es-ES": "[Givu]\nEh...\n¿Necesitabas\nmás tiempo para decidirlo?"
     },
     "Uiz/AQ": {
         "en-US": "[Givu]\nWould you like\nto take a picture\nwith Dark Lord?",

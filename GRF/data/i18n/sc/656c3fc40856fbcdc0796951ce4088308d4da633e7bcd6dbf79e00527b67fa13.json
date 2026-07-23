@@ -57,7 +57,7 @@
     "K1Km": {
         "en-US": "[Haith]\nHuh...seems like you wanna know\nmore about the treasure. Well,\nthis information doesn't come cheap...",
         "pt-BR": "[Haith]\nHuh... parece que você quer saber\nmais sobre o tesouro. Bem,\nessa informação não é barata...",
-        "es-ES": "[Haith]\nMm… parece que quieres saber\nmás sobre el tesoro. Bueno,\nesa información tiene un precio…"
+        "es-ES": "[Haith]\nMm... parece que quieres saber\nmás sobre el tesoro. Bueno,\nesa información tiene un precio..."
     },
     "LFKm": {
         "en-US": "[La Ed]\nPlus, we'll need a little\na little something in case\n*cough!* ^555555we don't find\nanything at all.^000000",
@@ -107,12 +107,12 @@
     "NVKm": {
         "en-US": "[La Ed]\nSo! We decided to go on a journey to find treasure of our own-!!",
         "pt-BR": "[La Ed]\nEntão, decidimos sair em uma jornada para encontrar nosso próprio tesouro!",
-        "es-ES": "[La Ed]\nAsí que… ¡¡Decidimos emprender un viaje para encontrar el tesoro nosotros mismos…!!"
+        "es-ES": "[La Ed]\nAsí que... ¡¡Decidimos emprender un viaje para encontrar el tesoro nosotros mismos...!!"
     },
     "NlKm": {
         "en-US": "[Haith]\nThe problem is, we are not sure\nwhether or not Niels would tell\nus the location of where he\nfound the treasure...",
         "pt-BR": "[Haith]\nO problema é que não temos certeza\nse Niels nos diria ou não a localização\nde onde ele\nencontrou o tesouro...",
-        "es-ES": "[Haith]\nEl problema es que no estamos seguros\nde si Niels nos dirá\ndónde encontró\nel tesoro…"
+        "es-ES": "[Haith]\nEl problema es que no estamos seguros\nde si Niels nos dirá\ndónde encontró\nel tesoro..."
     },
     "N1Km": {
         "en-US": "[La Ed]\nBecause Niels always treat us like\nwe're stupid!! Bah~!!",
@@ -157,7 +157,7 @@
     "P1Km": {
         "en-US": "[Niels]\nHmm? What's that look for?\nAh~ You must of heard the rumors\nof me finding some kind of\ntreasure. Yeah, that's understandable...",
         "pt-BR": "[Niels]\nHmm? Para que esse olhar?\nAh~ Você deve ter ouvido os rumores\nde eu ter encontrado algum tipo de\ntesouro. Sim, isso é compreensível...",
-        "es-ES": "[Niels]\n¿Mmm? ¿Por qué me miras así?\nAh Ya debes haber escuchado\nque encontré una especie\nde tesoro. Sí, es entendible…"
+        "es-ES": "[Niels]\n¿Mmm? ¿Por qué me miras así?\nAh Ya debes haber escuchado\nque encontré una especie\nde tesoro. Sí, es entendible..."
     },
     "QFKm": {
         "en-US": "[Niels]\nWell, those rumors of me stumbling\non some wonderful treasure is\njust the result of overactive\nimaginations. All I've found\nwas a little something to add\nto my collection.",
@@ -167,7 +167,7 @@
     "QVKm": {
         "en-US": "[Niels]\nBut...since I've proven to myself\nthat 'it' actually exists by\nseeing it with my own eyes,\nto me, what I've obtained is a\nvaluable treasure.",
         "pt-BR": "[Niels]\nMas... já que eu provei para mim mesmo\nque ''aquilo'' realmente existe\nvendo-o com meus próprios olhos,\npara mim, o que obtive é um\ntesouro valioso.",
-        "es-ES": "[Niels]\nPero… ya que me he probado a mí mismo\nque eso realmente existe\nporque lo vi con mis propios ojos,\nsé que lo que obtuve es un\ntesoro valioso."
+        "es-ES": "[Niels]\nPero... ya que me he probado a mí mismo\nque eso realmente existe\nporque lo vi con mis propios ojos,\nsé que lo que obtuve es un\ntesoro valioso."
     },
     "QlKm": {
         "en-US": "[Niels]\nThis village of Comodo!\nDon't you think the caves are too\nsmall and narrow for some reason?",
@@ -177,7 +177,7 @@
     "Q1Km": {
         "en-US": "[Niels]\nSo I was thinking about it...\nAnd I came to the conclusion that\nthere should be something hidden\ninside the cave...",
         "pt-BR": "[Niels]\nEntão, eu estava pensando sobre isso...\nE cheguei à conclusão de que\ndeve haver algo escondido\ndentro da caverna...",
-        "es-ES": "[Niels]\nEstuve pensando en ello…\ny llegué a la conclusión de que\ndebe haber algo oculto\nen el interior de esa cueva…"
+        "es-ES": "[Niels]\nEstuve pensando en ello...\ny llegué a la conclusión de que\ndebe haber algo oculto\nen el interior de esa cueva..."
     },
     "RFKm": {
         "en-US": "[Niels]\nAnd then!\nI finally found it.\nThe patch to 'the place'\nthat no one has ever found!",
@@ -192,12 +192,12 @@
     "RlKm": {
         "en-US": "[Niels]\n.......Hm?",
         "pt-BR": "[Niels]\n.......Hm?",
-        "es-ES": "[Niels]\n… ¿Mm?"
+        "es-ES": "[Niels]\n... ¿Mm?"
     },
     "R1Km": {
         "en-US": "[Niels]\nI was expecting a spectacular and\nrather dramatic sound effect\nfor my declaration!\nEh, oh well...",
         "pt-BR": "[Niels]\nEu estava esperando um efeito sonoro espetacular e\nbastante dramático\npara minha declaração!\nEh, oh bem...",
-        "es-ES": "[Niels]\nEsperaba un efecto sonoro\nespectacular y dramático\npara mi declaración.\nEh, oh, bueno…"
+        "es-ES": "[Niels]\nEsperaba un efecto sonoro\nespectacular y dramático\npara mi declaración.\nEh, oh, bueno..."
     },
     "SFKm": {
         "en-US": "[Niels]\nWell, in the spirit of discovery,\ndon't ever think of asking me\nabout directions to 'the place'\nor about what is in 'the place.'\nI wouldn't want to spoil the\nsurprise.",
@@ -207,7 +207,7 @@
     "SVKm": {
         "en-US": "[Niels]\nIf you're a real adventurer,\nI expect you to scream at the\ntop of your lungs...",
         "pt-BR": "[Niels]\nSe você é um aventureiro de verdade,\nespero que você grite\na plenos pulmões...",
-        "es-ES": "[Niels]\nSi eres un verdadero trotamundos,\nespero que grites\ncon todas tus fuerzas…"
+        "es-ES": "[Niels]\nSi eres un verdadero trotamundos,\nespero que grites\ncon todas tus fuerzas..."
     },
     "SlKm": {
         "en-US": "[Niels]\n'Ahhhh! I need to know what it\nis!!' Kick the door open and run\nlike hell to find this place on\nyour own!!",
@@ -237,7 +237,7 @@
     "T1Km": {
         "en-US": "[Iriya]\nIn the meantime, people keep\nvisiting Mr. Niels... and I\ncan't help but wonder...\nWhere has he gone?",
         "pt-BR": "[Iriya]\nNesse meio tempo, as pessoas continuam\nvisitando o Sr. Niels... e eu\nnão consigo deixar de me perguntar...\nPara onde ele foi?",
-        "es-ES": "[Iriya]\nMientras tanto, la gente sigue\nvisitando al Sr. Niels… y yo\nno puedo evitar preguntarme…\n¿Adónde ha ido?"
+        "es-ES": "[Iriya]\nMientras tanto, la gente sigue\nvisitando al Sr. Niels... y yo\nno puedo evitar preguntarme...\n¿Adónde ha ido?"
     },
     "UFKm": {
         "en-US": "Utan villager",
@@ -257,17 +257,17 @@
     "U1Km": {
         "en-US": "[Mutakutan]\nIt's really really big and old!\nIt's so tall, even I haven't seen\nthe top of this tree yet. I tried\nclimbing it before, but I could\nnever reach the top...even though\nI'm great at tree climbing.",
         "pt-BR": "[Mutakutan]\nÉ realmente muito grande e antiga!\nÉ tão alta que nem mesmo eu vi\no topo dessa árvore ainda. Tentei\nescalá-la antes, mas\nnunca consegui chegar ao topo... mesmo sendo\nótimo em escalar árvores.",
-        "es-ES": "[Mutakutan]\n¡Es realmente grande y antiguo!\nEs tan alto que aún\nno he podido ver su parte superior. He intentado\nescalarlo antes, pero nunca\nhe podido llegar a la cima… aunque\nsoy muy bueno trepando árboles."
+        "es-ES": "[Mutakutan]\n¡Es realmente grande y antiguo!\nEs tan alto que aún\nno he podido ver su parte superior. He intentado\nescalarlo antes, pero nunca\nhe podido llegar a la cima... aunque\nsoy muy bueno trepando árboles."
     },
     "VFKm": {
         "en-US": "[Mutakutan]\nOh, also the fruits from the tree\nare very tasty! I bet they are the\nmost delicious fruit in the world~\nSweet and sour...eating it just\nmakes you feel refreshed and\ninvigorated~!",
         "pt-BR": "[Mutakutan]\nAh, e as frutas da árvore também\nsão muito saborosas! Aposto que são as\nfrutas mais deliciosas do mundo~\nDoces e azedas... comê-las apenas\nfaz você se sentir revigorado e\nrefrescado~!",
-        "es-ES": "[Mutakutan]\nAh, también los frutos del árbol\nson muy sabrosos. Apuesto a que son\nlos más deliciosos del mundo\nAgridulce… ¡con solo comerlos,\nte sentirás renovado\ny repleto de energía!"
+        "es-ES": "[Mutakutan]\nAh, también los frutos del árbol\nson muy sabrosos. Apuesto a que son\nlos más deliciosos del mundo\nAgridulce... ¡con solo comerlos,\nte sentirás renovado\ny repleto de energía!"
     },
     "VVKm": {
         "en-US": "[Mutakutan]\nThere's an amazing story about\nthis fruit. An old man in my\nvillage was suffering from a\nmortal disease...nothing\nseemed to help...",
         "pt-BR": "[Mutakutan]\nHá uma história incrível sobre\nessa fruta. Um homem idoso em minha\naldeia estava sofrendo de uma\ndoença mortal... nada\nparecia ajudar...",
-        "es-ES": "[Mutakutan]\nHay una maravillosa historia\nsobre este fruto. Un anciano de mi\naldea sufría una\nenfermedad mortal… nada\nparecía ayudar…"
+        "es-ES": "[Mutakutan]\nHay una maravillosa historia\nsobre este fruto. Un anciano de mi\naldea sufría una\nenfermedad mortal... nada\nparecía ayudar..."
     },
     "VlKm": {
         "en-US": "[Mutakutan]\nBut after he took medicine made\nfrom the ground leaves of this\ntree, he became healthy and sound\nagain! I think God sent us the\ntree to bless us.",
@@ -317,12 +317,12 @@
     "X1Km": {
         "en-US": "[Haatan]\n . . . !",
         "pt-BR": "[Haatan]\n. . . !",
-        "es-ES": "[Haatan]\n ¡…!"
+        "es-ES": "[Haatan]\n ¡...!"
     },
     "YFKm": {
         "en-US": "[Haatan]\nOh yes! Could you help me?\nYou look pretty well off...\nCan donate some money for\nre-constructing my parents' house?\nYou Rune-Midgardians are all\nrichier than Utans! I beg you!",
         "pt-BR": "[Haatan]\nAh, sim! Você poderia me ajudar?\nVocê parece estar muito bem de vida...\nPode doar algum dinheiro para\nreconstruir a casa dos meus pais?\nVocês, Rune-Midgardianos, são todos\nmais ricos do que os Utans! Eu imploro!",
-        "es-ES": "[Haatan]\n¡Oh, sí! ¿Podrías ayudarme?\nParece que tienes mucha riqueza…\n¿Puedes donar algo de dinero\npara reconstruir la casa de mis padres?\n¡Ustedes los runemidgardianos son todos\nmás ricos que los utans! ¡Te lo ruego!"
+        "es-ES": "[Haatan]\n¡Oh, sí! ¿Podrías ayudarme?\nParece que tienes mucha riqueza...\n¿Puedes donar algo de dinero\npara reconstruir la casa de mis padres?\n¡Ustedes los runemidgardianos son todos\nmás ricos que los utans! ¡Te lo ruego!"
     },
     "YVKm": {
         "en-US": "(Nod head)",
@@ -342,7 +342,7 @@
     "ZFKm": {
         "en-US": "[Haatan]\nUh...\nIt looks like...\nYou don't have much\nyourself...",
         "pt-BR": "[Haatan]\nUh...\nParece que...\nVocê não tem muito\ndinheiro...",
-        "es-ES": "[Haatan]\nUh…\nParece…\nQue no tienes\nmucho…"
+        "es-ES": "[Haatan]\nUh...\nParece...\nQue no tienes\nmucho..."
     },
     "ZVKm": {
         "en-US": "[Haatan]\nThank you so much!",
@@ -437,7 +437,7 @@
     "d1Km": {
         "en-US": "[Pasto]\nI wish I could speak their\nlanguage...*Sigh*\n...Or I wish I could meet more\npeople here that speak my\nlanguage...I...I'm...\nSo very lonely...*Sob*",
         "pt-BR": "[Pasto]\nEu gostaria de poder falar a língua deles.\n*Suspiro*\n...Ou gostaria de conhecer mais\npessoas aqui que falem meu\nidioma... Eu... estou...\nMuito solitário...*Chora*",
-        "es-ES": "[Pasto]\nOjalá pudiera hablar\nsu idioma… *Suspira*\n…o conocer a más personas\nque hablen el mío…\nMe siento…\nmuy solo… *Suspira*"
+        "es-ES": "[Pasto]\nOjalá pudiera hablar\nsu idioma... *Suspira*\n...o conocer a más personas\nque hablen el mío...\nMe siento...\nmuy solo... *Suspira*"
     },
     "eFKm": {
         "en-US": "Bertan",
@@ -457,17 +457,17 @@
     "e1Km": {
         "en-US": "[Bertan]\n...\nUh...oh!",
         "pt-BR": "[Bertan]\n...\nUh... oh!",
-        "es-ES": "[Bertan]\n...\n¡Uh… oh!"
+        "es-ES": "[Bertan]\n...\n¡Uh... oh!"
     },
     "fFKm": {
         "en-US": "[Bertan]\nIt looks like you can understand\nme--! Good job, good job!\nAlright, by way of apology,\ndo you want to hear a joke?",
         "pt-BR": "[Bertan]\nParece que você consegue entender!\nBom trabalho, bom trabalho!\nTudo bem, como pedido de desculpas,\nvocê quer ouvir uma piada?",
-        "es-ES": "[Bertan]\nParece que sí puedes\nentenderme… ¡Bien hecho!\nMuy bien, a modo de disculpa,\n¿quieres oír un chiste?"
+        "es-ES": "[Bertan]\nParece que sí puedes\nentenderme... ¡Bien hecho!\nMuy bien, a modo de disculpa,\n¿quieres oír un chiste?"
     },
     "fVKm": {
         "en-US": "[Bertan]\nAlright, alright.\nHere we go.\nUmmmm...\nAlright, I got one.",
         "pt-BR": "[Bertan]\nTudo bem, tudo bem.\nAqui vamos nós.\nUmmmm...\nTudo bem, sei de uma.",
-        "es-ES": "[Bertan]\nMuy bien, de acuerdo.\nAquí voy.\nMmm…\nMuy bien, tengo uno."
+        "es-ES": "[Bertan]\nMuy bien, de acuerdo.\nAquí voy.\nMmm...\nMuy bien, tengo uno."
     },
     "flKm": {
         "en-US": "[Bertan]\nWhat did the Rune-Midgardian\nsay to the Savage?\n...",
@@ -477,7 +477,7 @@
     "f1Km": {
         "en-US": "[Bertan]\nI don't know...\nBut they didn't have any\ntrouble understanding\neach other!!! HAHAHAHA~!\nGet it? 'Cuz, like,\nthey're both pigs~!",
         "pt-BR": "[Bertan]\nNão sei...\nMas eles não tiveram nenhum\nproblemas para entender\num ao outro! HAHAHAHA~!\nEntendeu? Porque, tipo,\nos dois são idiotas~!",
-        "es-ES": "[Bertan]\nNo sé…\n¡Pero no tuvieron\ninconvenientes\npara entenderse! ¡JA, JA, JA, JA!\n¿Lo entendiste? Porque…\n¡ambos son cerdos!"
+        "es-ES": "[Bertan]\nNo sé...\n¡Pero no tuvieron\ninconvenientes\npara entenderse! ¡JA, JA, JA, JA!\n¿Lo entendiste? Porque...\n¡ambos son cerdos!"
     },
     "gFKm": {
         "en-US": "[Bertan]\nNot funny, huh?\nOh well. I guess my\nsense of humor is just\ntoo sophisticated.",
@@ -487,7 +487,7 @@
     "gVKm": {
         "en-US": "[Bertan]\nOkay...what's the best\nway to tame an Orc Lady?\nGive up..?",
         "pt-BR": "[Bertan]\nOk... qual é a melhor\nmaneira de domar uma Dama Orc?\nDesiste...?",
-        "es-ES": "[Bertan]\nClaro… ¿Cuál es la mejor\nmanera de domar a una Dama orco?\n¿Te rindes…?"
+        "es-ES": "[Bertan]\nClaro... ¿Cuál es la mejor\nmanera de domar a una Dama orco?\n¿Te rindes...?"
     },
     "glKm": {
         "en-US": "[Bertan]\nWith a wedding ring!\nHAHAHAHAHAHAHHA!\nOh God~ I'm hilarious!!",
@@ -497,17 +497,17 @@
     "g1Km": {
         "en-US": "[Bertan]\n...\n...Wait.\nWait a minute...",
         "pt-BR": "[Bertan]\n...\n...Espere.\nEspere um pouco...",
-        "es-ES": "[Bertan]\n...\nEspera…\nEspera un momento…"
+        "es-ES": "[Bertan]\n...\nEspera...\nEspera un momento..."
     },
     "hFKm": {
         "en-US": "[Bertan]\nThat's not even funny...\nJust incredibly...\nScary...\nBrrr--!\nShe's hideous!!",
         "pt-BR": "[Bertan]\nIsso não é nem engraçado...\nApenas incrivelmente...\nAssustador...\nBrrr--!\nEla é horrível!",
-        "es-ES": "[Bertan]\nEso ni siquiera fue gracioso…\nFue increíblemente…\naterrador…\n¡Brrr…!\n¡¡Es horrible!!"
+        "es-ES": "[Bertan]\nEso ni siquiera fue gracioso...\nFue increíblemente...\naterrador...\n¡Brrr...!\n¡¡Es horrible!!"
     },
     "hVKm": {
         "en-US": "[Bertan]\nActually...forget it.",
         "pt-BR": "[Bertan]\nNa verdade... esqueça.",
-        "es-ES": "[Bertan]\nDe hecho… olvídalo."
+        "es-ES": "[Bertan]\nDe hecho... olvídalo."
     },
     "hlKm": {
         "en-US": "[Bertan]\nI was going to say a\nknock knock joke about\nIsis, but then decided\nthat kind of humor is\ntoo low brow.\n...Zing!",
@@ -517,12 +517,12 @@
     "h1Km": {
         "en-US": "[Bertan]\nWhy are Rune-Midgardians\nSOOoOOoo...\nUm, hmmmmm.\nMaybe that joke\nisn't so good for this\nsituation, yeah?",
         "pt-BR": "[Bertan]\nPor que os Rune-Midgardians são\nTÃOOOOOO...\nHum, hmmmmm.\nTalvez essa piada\nnão seja tão boa para esta\nsituação, certo?",
-        "es-ES": "[Bertan]\n¿Por qué los runemidgardianos son\ntaaaaaaaaaaaan…\nMmm…\nTal vez, ese chiste\nno es lo mejor para esa\nsituación, ¿no?"
+        "es-ES": "[Bertan]\n¿Por qué los runemidgardianos son\ntaaaaaaaaaaaan...\nMmm...\nTal vez, ese chiste\nno es lo mejor para esa\nsituación, ¿no?"
     },
     "iFKm": {
         "en-US": "[Bertan]\nOkay, why is it that\nGMs prefer not to be\nseen...? Give up?",
         "pt-BR": "[Bertan]\nCerto, por que os\nGMs preferem não ser\nvistos...? Desiste?",
-        "es-ES": "[Bertan]\n¿Por qué los GM\nprefieren que\nno se los vea…? ¿Te rindes…?"
+        "es-ES": "[Bertan]\n¿Por qué los GM\nprefieren que\nno se los vea...? ¿Te rindes...?"
     },
     "iVKm": {
         "en-US": "[Bertan]\nBECAUSE THOSE GUYS WEAR\nSKIRTS ~! HAHAHA!\nOH MAN, I MADE A FUNNY!",
@@ -557,7 +557,7 @@
     "j1Km": {
         "en-US": "[Bertan]\nNext comes the Alchemist\nand she's like '^330099I need\nhelp killing Zombies^000000' and\nthen this Marine Sphere\ncomes from out of\nnowhere and is all...",
         "pt-BR": "[Bertan]\nDepois vem a Alquimista\ne ela diz: ''^330099Preciso de\najuda para matar zumbis^000000'' e\ne então essa esfera marinha\naparece de repente\ndo nada e tal...",
-        "es-ES": "[Bertan]\nLuego, viene la Alquimista\ny dice ^330099Necesito\nayuda para matar Zombis^000000 y\nla Esfera Marina\naparece\nde la nada y dice…"
+        "es-ES": "[Bertan]\nLuego, viene la Alquimista\ny dice ^330099Necesito\nayuda para matar Zombis^000000 y\nla Esfera Marina\naparece\nde la nada y dice..."
     },
     "kFKm": {
         "en-US": "[Bertan]\n'^CC0000I got your fire. Careful\nbaby, touch me the wrong\nway and I might just\nexploooode.^000000' So then\nthey're off on their\nmerry way too.",
@@ -572,7 +572,7 @@
     "klKm": {
         "en-US": "[Bertan]\nOut of nowhere, this\nHode pops up and says...",
         "pt-BR": "[Bertan]\nDo nada,\nEspa aparece e diz...",
-        "es-ES": "[Bertan]\nDe la nada,\nHode aparece y dice…"
+        "es-ES": "[Bertan]\nDe la nada,\nHode aparece y dice..."
     },
     "k1Km": {
         "en-US": "[Bertan]\n'^CC0000I know some people\nbut let me check my\nRolodex. HODE on!^000000'\n....",
@@ -587,7 +587,7 @@
     "lVKm": {
         "en-US": "[Bertan]\nWell, come on!\nI can't be funny\nall the time, you know?",
         "pt-BR": "[Bertan]\nBem, vamos lá!\nNão posso ser engraçado\no tempo todo, sabe?",
-        "es-ES": "[Bertan]\n¡Vamos…!\nNo puedo ser divertido\ntodo el tiempo, ¿sabes?"
+        "es-ES": "[Bertan]\n¡Vamos...!\nNo puedo ser divertido\ntodo el tiempo, ¿sabes?"
     },
     "llKm": {
         "en-US": "[????]\nUmbaumba Umbaumbah",

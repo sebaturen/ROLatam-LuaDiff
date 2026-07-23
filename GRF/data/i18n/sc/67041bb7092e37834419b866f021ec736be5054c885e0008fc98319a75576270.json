@@ -262,7 +262,7 @@
     "1DgCAg": {
         "en-US": "The time has come for the Boss Battle. Please move north into the next room...",
         "pt-BR": "Chegou a hora da batalha do chefe. Vá para o norte, para a próxima sala...",
-        "es-ES": "Llegó el momento de la batalla contra el jefe. Ve hacia el norte y entra en la siguiente habitación…"
+        "es-ES": "Llegó el momento de la batalla contra el jefe. Ve hacia el norte y entra en la siguiente habitación..."
     },
     "1TgCAg": {
         "en-US": "Objective: Defeat the Boss Monster!",
@@ -372,7 +372,7 @@
     "6jgCAg": {
         "en-US": "[Staff]\nHow did you...?\nAccording to these re-\nUh oh. These records\ngot messed up somehow.\nTh-This isn't good at all!\nNow what am I gonna do?",
         "pt-BR": "[Equipe]\nComo você...?\nDe acordo com esses dados.\nUh oh. Esses registros\nforam bagunçados de alguma forma.\nIsso não é nada bom!\nO que vou fazer agora?",
-        "es-ES": "[Personal]\n¿Cómo pudiste…?\nSegún estos re-\nOh, no. Estos registros\nse estropearon de alguna manera.\n¡E-Esto no está nada bien!\n¿Y ahora qué voy a hacer?"
+        "es-ES": "[Personal]\n¿Cómo pudiste...?\nSegún estos re-\nOh, no. Estos registros\nse estropearon de alguna manera.\n¡E-Esto no está nada bien!\n¿Y ahora qué voy a hacer?"
     },
     "6zgCAg": {
         "en-US": "[Staff]\nWell, I'll give you the\nbenefit of the doubt and\nassume you completed the\narena battle under the time\nlimit. So, let me give you the\nstandard Arena Point reward.",
@@ -407,7 +407,7 @@
     "8TgCAg": {
         "en-US": "[Staff]\nWait a second...\nYour time is better\nthan that. Well now.\nIt's time I made a little\ncorrection to the records.",
         "pt-BR": "[Equipe]\nEspere um segundo...\nSeu tempo é melhor\ndo que isso. Bem, agora.\nÉ hora de eu fazer uma pequena\ncorreção nos registros.",
-        "es-ES": "[Personal]\nEspera un segundo…\nTu tiempo es mejor\nque eso. Ahora bien.\nEs hora de hacer una pequeña\ncorrección en los registros."
+        "es-ES": "[Personal]\nEspera un segundo...\nTu tiempo es mejor\nque eso. Ahora bien.\nEs hora de hacer una pequeña\ncorrección en los registros."
     },
     "8jgCAg": {
         "en-US": "[Staff]\nWow! A new record!\nExcellent!",
@@ -427,7 +427,7 @@
     "9TgCAg": {
         "en-US": "[Staff]\nAnyway, you can check\nyour current Arena Point\ntotal in the Arena Lobby\nwith Vendigos. Well, I hope\nyou enjoyed your battle. Now,^FFFFFFaaaaaa^000000 let me guide you back outside...",
         "pt-BR": "[Equipe]\nDe qualquer forma, você pode verificar\nseu total atual de Arena Points\nno lobby da Arena\ncom Vendigos. Bem, espero que\nque você tenha gostado da batalha. Agora, ^FFFFFFaaaaaaa^000000 deixe-me guiá-lo de volta para fora...",
-        "es-ES": "[Personal]\nDe todos modos, puedes consultarle a Vendigos\ntus puntos de Arena\ntotales en la sala de la Arena\n. Bueno, espero\nque hayas disfrutado de tu batalla. Ahora,^FFFFFF^000000 te guiaré de vuelta a la salida…"
+        "es-ES": "[Personal]\nDe todos modos, puedes consultarle a Vendigos\ntus puntos de Arena\ntotales en la sala de la Arena\n. Bueno, espero\nque hayas disfrutado de tu batalla. Ahora,^FFFFFF^000000 te guiaré de vuelta a la salida..."
     },
     "9jgCAg": {
         "en-US": "[Staff]\nLet me reward you with some\nArena Points. This time, you'll\nbe getting more points since\nyou set a new record. Please\ntalk with ^3131FFVendigos^000000 in the lobby\nto check your new point total.",
@@ -437,7 +437,7 @@
     "9zgCAg": {
         "en-US": "[Staff]\nWell, I hope you\nenjoyed your battle.\nNow let me guide you\nback to the Arena Lobby...",
         "pt-BR": "[Equipe]\nBem, espero que você\ntenham gostado da batalha.\nAgora, deixe-me guiá-lo\nde volta ao saguão da Arena...",
-        "es-ES": "[Personal]\nBueno, espero que\nhayas disfrutado de tu batalla.\nAhora te guiaré \nde vuelta a la sala de la Arena…"
+        "es-ES": "[Personal]\nBueno, espero que\nhayas disfrutado de tu batalla.\nAhora te guiaré \nde vuelta a la sala de la Arena..."
     },
     "+DgCAg": {
         "en-US": "[Staff]\nYou didn't break the\ncurrent record this time,\nbut you still gave an awesome\nperformance. Excellent work!",
@@ -457,7 +457,7 @@
     "+zgCAg": {
         "en-US": "[Staff]\nOooh... A brand new\nrecord. ^3131FF{0}^000000, your\nname will now be listed in\nthe Time Force Battle Arena\nAcolyte Class Records.\nCongratulations~",
         "pt-BR": "[Equipe]\nOooh... Um novo\nregistro. ^3131FF{0}^000000, seu\nnome agora será listado na\nna Time Force Battle Arena\nRegistros da Classe Acolyte.\nParabéns",
-        "es-ES": "[Personal]\nOhhhh… Un nuevo\nrécord. ^3131FF{0}^000000, tu\nnombre ahora aparecerá en\nlos registros de la Arena de batalla contrarreloj\nde clase Acólito.\n¡Felicidades~!"
+        "es-ES": "[Personal]\nOhhhh... Un nuevo\nrécord. ^3131FF{0}^000000, tu\nnombre ahora aparecerá en\nlos registros de la Arena de batalla contrarreloj\nde clase Acólito.\n¡Felicidades~!"
     },
     "/DgCAg": {
         "en-US": "This broadcast is to inform you about the Acolyte Class Arena.",

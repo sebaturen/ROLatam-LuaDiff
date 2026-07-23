@@ -42,7 +42,7 @@
     "CKHoAg": {
         "en-US": "[Waitress]\nI-I'm sorry...",
         "pt-BR": "[Garçonete]\nEu... Eu sinto muito, senhor...",
-        "es-ES": "[Mesera]\nLo siento…"
+        "es-ES": "[Mesera]\nLo siento..."
     },
     "CaHoAg": {
         "en-US": "[King Crab]\nHah hah. Stop.\nYou're scaring her.\nHey, girlie. We're not dangerous men.",
@@ -92,7 +92,7 @@
     "EqHoAg": {
         "en-US": "[King Crab]\nWhat the...?\nGirl, you'd better stop running your mouth like that.\nI'm a gentleman, but there's only so much I can take.",
         "pt-BR": "[Siri Rei]\nHein?\nComo ousa dizer uma coisa dessas, sua garota insolente?\nSó por que você é uma garota, não significa que vou deixar passar.",
-        "es-ES": "[Cangrejo Rey]\n¿Pero qué…?\nChica, será mejor que cierres la boca.\nSoy un caballero, pero mi paciencia tiene un límite."
+        "es-ES": "[Cangrejo Rey]\n¿Pero qué...?\nChica, será mejor que cierres la boca.\nSoy un caballero, pero mi paciencia tiene un límite."
     },
     "E6HoAg": {
         "en-US": "[Sludge Worm]\nUh-oh, you've made the Boss angry.\nHe could take out a girl like you with a single punch to the face!",
@@ -157,12 +157,12 @@
     "H6HoAg": {
         "en-US": "[???]\nOh, you don't have to.\nBut if you want, I'd love a loaf of bread and a hot bowl of soup.\nNow, if you'll excuse me...",
         "pt-BR": "[???]\nOh, você não precisa fazer isso.\nApenas uma fatia de pão e sopa quente serão o bastante para mim.\nEntão, tenho que dizer adeus. Tchau.",
-        "es-ES": "[¿¿¿???]\nNo hace falta.\nPero, si quieres, me gustaría una hogaza de pan y sopa caliente.\nAhora, si me disculpas…"
+        "es-ES": "[¿¿¿???]\nNo hace falta.\nPero, si quieres, me gustaría una hogaza de pan y sopa caliente.\nAhora, si me disculpas..."
     },
     "IKHoAg": {
         "en-US": "[Waitress]\nSure!\n...\n...\n... ... ... *Blush*",
         "pt-BR": "[Garçonete]\nAdeus...\n...\n.....\n........(bochechas ardendo)",
-        "es-ES": "[Mesera]\n¡Claro!\n…\n…\n………*Se ruboriza*"
+        "es-ES": "[Mesera]\n¡Claro!\n...\n...\n.........*Se ruboriza*"
     },
     "IaHoAg": {
         "en-US": "[King Crab]\nMwa hah hah hah!\nHey, bring us more beer!\nTonight, I want to drink until dawn!",
@@ -182,7 +182,7 @@
     "JKHoAg": {
         "en-US": "[King Crab]\nI think I'm in love...",
         "pt-BR": "Verme Asqueroso",
-        "es-ES": "[Cangrejo Rey]\nCreo que me enamoré…"
+        "es-ES": "[Cangrejo Rey]\nCreo que me enamoré..."
     },
     "JaHoAg": {
         "en-US": "Sludge Worm",
@@ -192,7 +192,7 @@
     "JqHoAg": {
         "en-US": "[Sludge Worm]\nBoss... Is this the end of our glory?\n*Sniffle*",
         "pt-BR": "[Verme Asqueroso]\nChefe... Já passamos mesmo do nosso auge?\n*choro*...",
-        "es-ES": "[Gusano del Lodo]\nJefe… ¿Es este el fin de nuestra gloria?\n*Solloza*"
+        "es-ES": "[Gusano del Lodo]\nJefe... ¿Es este el fin de nuestra gloria?\n*Solloza*"
     },
     "J6HoAg": {
         "en-US": "Waitress",
@@ -217,7 +217,7 @@
     "K6HoAg": {
         "en-US": "[Waitress]\nI didn't know I could fall in love with another woman. \nAwww... She's so beautiful and strong...",
         "pt-BR": "[Garçonete]\nApesar de ela ser uma mulher como eu, ela foi tão bacana!\nAhhhh~ Aquela bela e imponente figura...",
-        "es-ES": "[Mesera]\nNo sabía que podía enamorarme de otra mujer. \nAyyy… Es tan hermosa y fuerte…"
+        "es-ES": "[Mesera]\nNo sabía que podía enamorarme de otra mujer. \nAyyy... Es tan hermosa y fuerte..."
     },
     "LKHoAg": {
         "en-US": "[Waitress]\nAh!\nWhat am I doing?\nShe's waiting for her dinner. Ho ho!",
@@ -257,12 +257,12 @@
     "M6HoAg": {
         "en-US": "[{0}]\nOh, please... *Gritting teeth*",
         "pt-BR": "[{0}]\nPor favor, eu só quero conversar.",
-        "es-ES": "[{0}]\nPor favor… *Aprieta los dientes*."
+        "es-ES": "[{0}]\nPor favor... *Aprieta los dientes*."
     },
     "NKHoAg": {
         "en-US": "[???]\n...",
         "pt-BR": "[???]\n...",
-        "es-ES": "[¿¿¿???]\n…"
+        "es-ES": "[¿¿¿???]\n..."
     },
     "NaHoAg": {
         "en-US": "[{0}]\nCome on, stop ignoring me.",
@@ -287,27 +287,27 @@
     "OaHoAg": {
         "en-US": "[{0}]\n...I can't believe how heartless you are.",
         "pt-BR": "[{0}]\nVocê está indo longe demais.",
-        "es-ES": "[{0}]\n… no puedo creer que seas tan insistente."
+        "es-ES": "[{0}]\n... no puedo creer que seas tan insistente."
     },
     "OqHoAg": {
         "en-US": "[{0}]\nI thought you were an honorable warrior",
         "pt-BR": "[{0}]\nDepois que vi você lutando...",
-        "es-ES": "[{0}]\nPensé que tenías honor…"
+        "es-ES": "[{0}]\nPensé que tenías honor..."
     },
     "O6HoAg": {
         "en-US": "[{0}]\nwhen I saw you fight.",
         "pt-BR": "[{0}]\nPensei que você deve ter praticado artes marciais e vim me encontrar com você.",
-        "es-ES": "[{0}]\n… cuando te vi luchar."
+        "es-ES": "[{0}]\n... cuando te vi luchar."
     },
     "PKHoAg": {
         "en-US": "[{0}]\nObviously, you're not. Or you wouldn't have kept someone waiting outside the door",
         "pt-BR": "[{0}]\nMas vendo que você me deixou para fora desse jeito...",
-        "es-ES": "[{0}]\nObviamente, no es así. O no habrías hecho esperar en la puerta a alguien…"
+        "es-ES": "[{0}]\nObviamente, no es así. O no habrías hecho esperar en la puerta a alguien..."
     },
     "PaHoAg": {
         "en-US": "[{0}]\nwhen all they wanted was to show you respect.",
         "pt-BR": "[{0}]\nVocê deve ter um nível avançado de artes marciais...",
-        "es-ES": "[{0}]\n… que quería mostrarte respeto."
+        "es-ES": "[{0}]\n... que quería mostrarte respeto."
     },
     "PqHoAg": {
         "en-US": "[???]\nGood gods, you're persistent.",
@@ -337,7 +337,7 @@
     "Q6HoAg": {
         "en-US": "[???]\n...\n...\n...\n...\nIt's not for a fledgeling like you.",
         "pt-BR": "[???]\n...\n......\n.........\n............ Um novato como você não precisa saber.",
-        "es-ES": "[¿¿¿???]\n…\n…\n…\n…\nNo es para principiantes como tú."
+        "es-ES": "[¿¿¿???]\n...\n...\n...\n...\nNo es para principiantes como tú."
     },
     "RKHoAg": {
         "en-US": "[{0}]\nI'm not a fledgeling!\nI'm a warrior, just like you.\nI can beat anyone.",
@@ -352,7 +352,7 @@
     "RqHoAg": {
         "en-US": "[{0}]\n...No.\nThat's probably beyond my ability.\nI've got to say, I'm surprised.",
         "pt-BR": "[{0}]\nNão...\nEu acho que isso é demais... \nPara ser sincero, fiquei impressionado com você.",
-        "es-ES": "[{0}]\n… no.\nCreo que eso supera mi habilidad.\nDebo admitir que me sorprendiste."
+        "es-ES": "[{0}]\n... no.\nCreo que eso supera mi habilidad.\nDebo admitir que me sorprendiste."
     },
     "R6HoAg": {
         "en-US": "[{0}]\nWatching you fight has humbled me. I'm not as strong as I thought I was.",
@@ -542,7 +542,7 @@
     "bKHoAg": {
         "en-US": "[Buddy]\nThat prickly broad--ahem!\nSister Bruno must be very impressed by you. She's not an easy person to impress.",
         "pt-BR": "[Colega]\nAquela garota difícil... não, estou brincando.\nDeve haver uma pessoa especial para ela mandar você a mim.",
-        "es-ES": "[Buddy]\nEsa chica… ¡ejem!\nDebes haber impresionado a la hermana Bruna. No es algo fácil de lograr."
+        "es-ES": "[Buddy]\nEsa chica... ¡ejem!\nDebes haber impresionado a la hermana Bruna. No es algo fácil de lograr."
     },
     "baHoAg": {
         "en-US": "[Buddy]\nBut I'm training right now. I can't answer your questions. Why don't I introduce you to my master instead?",
@@ -582,7 +582,7 @@
     "dKHoAg": {
         "en-US": "[Buddy]\nOkay, then what brings you?\nErr, wait... Me?",
         "pt-BR": "[Colega]\nEntão, por que você está aqui?\nVocê não veio aqui para me ver, veio?",
-        "es-ES": "[Buddy]\n¿Qué te trae por aquí?\nEhh, espera… ¿Qué?"
+        "es-ES": "[Buddy]\n¿Qué te trae por aquí?\nEhh, espera... ¿Qué?"
     },
     "daHoAg": {
         "en-US": "[Buddy]\n{0}, have you talked to Master yet?",
@@ -817,7 +817,7 @@
     "o6HoAg": {
         "en-US": "[{0}]\nAh, I caught that--kkhhhk!",
         "pt-BR": "[{0}]\nAhhh! É o lobo que eu... peguei... Uhh.",
-        "es-ES": "[{0}]\nAh, yo los cacé… ¡uff!"
+        "es-ES": "[{0}]\nAh, yo los cacé... ¡uff!"
     },
     "pKHoAg": {
         "en-US": "*THUD!*",
@@ -887,7 +887,7 @@
     "saHoAg": {
         "en-US": "[Master]\nBut it's too late to regret now...",
         "pt-BR": "[Mestre]\nMas o que está feito está feito...",
-        "es-ES": "[Maestro]\nPero ya es tarde para arrepentirme…"
+        "es-ES": "[Maestro]\nPero ya es tarde para arrepentirme..."
     },
     "sqHoAg": {
         "en-US": "[Master]\nYou're not welcome here.\nPlease leave.",
@@ -937,31 +937,31 @@
     "u6HoAg": {
         "en-US": "Turning on the arena...",
         "pt-BR": "Ligar arena.",
-        "es-ES": "Activando la arena…"
+        "es-ES": "Activando la arena..."
     },
     "vKHoAg": {
         "en-US": "Turning off the arena...",
         "pt-BR": "Desligar arena.",
-        "es-ES": "Desactivando la arena…"
+        "es-ES": "Desactivando la arena..."
     },
     "vaHoAg": {
         "en-US": "Turning on the lounge...",
         "pt-BR": "Ligar a sala de estar.",
-        "es-ES": "Activando el salón…"
+        "es-ES": "Activando el salón..."
     },
     "vqHoAg": {
         "en-US": "Turning on Buddy...",
         "pt-BR": "Ligar o Colega",
-        "es-ES": "Activando a Buddy…"
+        "es-ES": "Activando a Buddy..."
     },
     "v6HoAg": {
         "en-US": "Turning on Go Away...",
         "pt-BR": "Ligar",
-        "es-ES": "Activando Vete…"
+        "es-ES": "Activando Vete..."
     },
     "wKHoAg": {
         "en-US": "Turning all off...",
         "pt-BR": "Desligar tudo.",
-        "es-ES": "Desactivando todo…"
+        "es-ES": "Desactivando todo..."
     }
 }

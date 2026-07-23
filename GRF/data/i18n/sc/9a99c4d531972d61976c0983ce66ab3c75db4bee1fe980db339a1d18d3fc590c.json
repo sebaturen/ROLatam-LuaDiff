@@ -22,7 +22,7 @@
     "ROP3Ag": {
         "en-US": "No... how did you know?",
         "pt-BR": "Ainda não...",
-        "es-ES": "No… ¿cómo sabías?"
+        "es-ES": "No... ¿cómo sabías?"
     },
     "ReP3Ag": {
         "en-US": "I decided.",
@@ -37,7 +37,7 @@
     "R+P3Ag": {
         "en-US": "[Cream Puff]\nI wanted you to take the Class aptitude test for fun...",
         "pt-BR": "[Zé Bolinho]\nCom o teste você pode ter total certeza se está no caminho correto. Pense nisso...",
-        "es-ES": "[Nube de crema]\nQuería que hicieras la prueba de aptitud de clase porque es divertido…"
+        "es-ES": "[Nube de crema]\nQuería que hicieras la prueba de aptitud de clase porque es divertido..."
     },
     "SOP3Ag": {
         "en-US": "[Cream Puff]\nOh, that is good.\nWhat is the ^0000FFClass aptitude test^000000.\nI have one book left. Do you want to try? I won't say it will be help for sure but it will be fun.",
@@ -72,7 +72,7 @@
     "TuP3Ag": {
         "en-US": "[Cream Puff]\nIf you have free time and have not decided your job... how about taking this test?",
         "pt-BR": "[Zé Bolinho]\nSe está tranquilão e ainda não decidiu sua Classe, considere fazer o Teste.",
-        "es-ES": "[Nube de crema]\nSi tienes tiempo libre y no decidiste tu clase aún… ¿te parece buena idea hacer la prueba?"
+        "es-ES": "[Nube de crema]\nSi tienes tiempo libre y no decidiste tu clase aún... ¿te parece buena idea hacer la prueba?"
     },
     "T+P3Ag": {
         "en-US": "[Cream Puff]\nAll right. Good bye",
@@ -697,7 +697,7 @@
     "y+P3Ag": {
         "en-US": "[Cream Puff]\nHmm, it says.",
         "pt-BR": "[Zé Bolinho]\n...",
-        "es-ES": "[Nube de crema]\nMmm… eso dice."
+        "es-ES": "[Nube de crema]\nMmm... eso dice."
     },
     "zOP3Ag": {
         "en-US": "[Cream Puff]\nYou do not have to choose the job from Class aptitude test. That is only just for fun.",

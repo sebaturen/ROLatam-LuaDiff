@@ -241,17 +241,17 @@
     "8GPDCQ": {
         "en-US": "Pedra de Esquiva ({0}un)",
         "pt-BR": "Pedra de Esquiva ({0} un)",
-        "es-ES": "Piedra de Huida ({0} un)"
+        "es-ES": "Piedra de Evasión ({0} un)"
     },
     "8WPDCQ": {
         "en-US": "Precisão +1",
         "pt-BR": "Precisão +1",
-        "es-ES": "Golpe +1"
+        "es-ES": "Precisión +1"
     },
     "8mPDCQ": {
         "en-US": "Esquiva +1",
         "pt-BR": "Esquiva +1",
-        "es-ES": "Huida +1"
+        "es-ES": "Evasión +1"
     },
     "82PDCQ": {
         "en-US": "^FF0000   Ø Avisos Ø^000000\n^FF0000Há uma chance de falha.^000000\n^FF0000O encanto {0} será adicionado no Visual equipável em {1}^000000\n^FF0000Posso continuar?^000000",
@@ -2142,5 +2142,140 @@
         "en-US": "Magic Digital Space({0})",
         "pt-BR": "Pedra Gráfica: Espaço Digital({0})",
         "es-ES": "Piedra Gráfica: Espacio Digital({0})"
+    },
+    "bWXDCQ": {
+        "en-US": "Magic Power Stone({0}left)",
+        "pt-BR": "Pedra de Poder Mágico({0}",
+        "es-ES": "Piedra de Poder Mágico({0}"
+    },
+    "bmXDCQ": {
+        "en-US": "Rune Knight Stone({0}left)",
+        "pt-BR": "Pedra de Cavaleiro Rúnico({0}",
+        "es-ES": "Piedra de Caballero Rúnico({0}"
+    },
+    "b2XDCQ": {
+        "en-US": "Warlock Stone({0}left)",
+        "pt-BR": "Pedra de Arcano({0}",
+        "es-ES": "Piedra de Arcano({0}"
+    },
+    "cGXDCQ": {
+        "en-US": "Royal Guard Stone({0}left)",
+        "pt-BR": "Pedra de Guardião Real({0}",
+        "es-ES": "Piedra de Guardia Real({0}"
+    },
+    "cWXDCQ": {
+        "en-US": "Magic Power Stone({0}left)",
+        "pt-BR": "Pedra de Poder Mágico({0}",
+        "es-ES": "Piedra de Poder Mágico({0}"
+    },
+    "cmXDCQ": {
+        "en-US": "Rune Knight Stone({0}left)",
+        "pt-BR": "Pedra de Cavaleiro Rúnico({0}",
+        "es-ES": "Piedra de Caballero Rúnico({0}"
+    },
+    "c2XDCQ": {
+        "en-US": "Warlock Stone({0}left)",
+        "pt-BR": "Pedra de Arcano({0}",
+        "es-ES": "Piedra de Arcano({0}"
+    },
+    "dGXDCQ": {
+        "en-US": "Royal Guard Stone({0}left)",
+        "pt-BR": "Pedra de Guardião Real({0}",
+        "es-ES": "Piedra de Guardia Real({0}"
+    },
+    "dWXDCQ": {
+        "en-US": "Magic Power Stone({0}left)",
+        "pt-BR": "Pedra de Poder Mágico({0}",
+        "es-ES": "Piedra de Poder Mágico({0}"
+    },
+    "dmXDCQ": {
+        "en-US": "Rune Knight Stone({0}left)",
+        "pt-BR": "Pedra de Cavaleiro Rúnico({0}",
+        "es-ES": "Piedra de Caballero Rúnico({0}"
+    },
+    "d2XDCQ": {
+        "en-US": "Warlock Stone({0}left)",
+        "pt-BR": "Pedra de Arcano({0}",
+        "es-ES": "Piedra de Arcano({0}"
+    },
+    "eGXDCQ": {
+        "en-US": "Royal Guard Stone({0}left)",
+        "pt-BR": "Pedra de Guardião Real({0}",
+        "es-ES": "Piedra de Guardia Real({0}"
+    },
+    "eWXDCQ": {
+        "en-US": "ASPD Stone(Dual)({0}left)",
+        "pt-BR": "Vel.Atq +1 (Dupla)({0}",
+        "es-ES": "Piedra de VELA +1 (Doble)({0}"
+    },
+    "emXDCQ": {
+        "en-US": "Minor Casting Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Fixa -0,1 (Dupla)({0}",
+        "es-ES": "Piedra de Fija -0,1 (Doble)({0}"
+    },
+    "e2XDCQ": {
+        "en-US": "Casting Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Conjuração Variável (Dupla)({0}",
+        "es-ES": "Piedra de Conjuración Variable (Doble)({0}"
+    },
+    "fGXDCQ": {
+        "en-US": "Range Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Alcance (Dupla)({0}",
+        "es-ES": "Piedra de Alcance (Doble)({0}"
+    },
+    "fWXDCQ": {
+        "en-US": "Melee Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Dano Corpo a Corpo (Dupla)({0}",
+        "es-ES": "Piedra de Daño Cuerpo a Cuerpo (Doble)({0}"
+    },
+    "fmXDCQ": {
+        "en-US": "SP Absorb Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Absorção de SP (Dupla)({0}",
+        "es-ES": "Piedra de Absorción de SP (Doble)({0}"
+    },
+    "f2XDCQ": {
+        "en-US": "HP Absorb Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Absorção de HP (Dupla)({0}",
+        "es-ES": "Piedra de Absorción de HP (Doble)({0}"
+    },
+    "gGXDCQ": {
+        "en-US": "Magic Power Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Poder Mágico (Dupla)({0}",
+        "es-ES": "Piedra de Poder Mágico (Doble)({0}"
+    },
+    "gWXDCQ": {
+        "en-US": "Reload Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Recarga (Dupla)({0}",
+        "es-ES": "Piedra de Recarga (Doble)({0}"
+    },
+    "gmXDCQ": {
+        "en-US": "Creative Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Criatividade (Dupla)({0}",
+        "es-ES": "Piedra de Creatividad (Doble)({0}"
+    },
+    "g2XDCQ": {
+        "en-US": "Critical Stone(Dual)({0}left)",
+        "pt-BR": "Pedra Crítica (Dupla)({0}",
+        "es-ES": "Piedra Crítica (Doble)({0}"
+    },
+    "hGXDCQ": {
+        "en-US": "Concentration Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Concentração (Dupla)({0}",
+        "es-ES": "Piedra de Concentración (Doble)({0}"
+    },
+    "hWXDCQ": {
+        "en-US": "Spell Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Feitiço (Dupla)({0}",
+        "es-ES": "Piedra de Hechizo (Doble)({0}"
+    },
+    "hmXDCQ": {
+        "en-US": "Power Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Poder (Dupla)({0}",
+        "es-ES": "Piedra de Poder (Doble)({0}"
+    },
+    "h2XDCQ": {
+        "en-US": "Stamina Wisdom Stone(Dual)({0}left)",
+        "pt-BR": "Pedra de Vigor e Sabedoria (Dupla)({0}",
+        "es-ES": "Piedra de Resistencia y Sabiduría (Doble)({0}"
     }
 }

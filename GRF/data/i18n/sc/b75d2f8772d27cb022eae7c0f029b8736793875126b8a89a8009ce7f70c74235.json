@@ -67,7 +67,7 @@
     "ba9sAQ": {
         "en-US": "[Singing Man]\nThe moon sets for the 89th,\nThe moon sets for the 90th,\nThe moon sets for the 191st...",
         "pt-BR": "[Cantor]\nA lua se põe no dia 89,\nA lua se põe no dia 90º,\nA lua se põe no dia 191º...",
-        "es-ES": "[Hombre cantante]\nLa luna se pone el día 89…\nLa luna se pone el día 90…\nLa luna se pone el día 191…"
+        "es-ES": "[Hombre cantante]\nLa luna se pone el día 89...\nLa luna se pone el día 90...\nLa luna se pone el día 191..."
     },
     "bq9sAQ": {
         "en-US": "[Singing Man]\nThat moon has taken my son away~\nThat horrible thing \nhas swallowed my son,\nand I will punish that moon~",
@@ -82,7 +82,7 @@
     "cK9sAQ": {
         "en-US": "[Singing Man]\nThe old lady's curse made the moon furious~\nGet rid of the old lady to calm the moon~\nIf only the old lady wasn't here, If only the old lady wasn't here...",
         "pt-BR": "[Cantor]\nA maldição da velha senhora deixou a lua furiosa.~\nLivre-se da velha senhora para acalmar a lua.~\nSe ao menos a velha senhora não estivesse aqui, Se ao menos a velha senhora não estivesse aqui...",
-        "es-ES": "[Hombre cantante]\nLa maldición de la anciana enfureció a la luna.\nElimina a la anciana para calmar a la luna.\nSi tan solo la anciana no estuviera aquí; si tan solo la anciana no estuviera aquí…"
+        "es-ES": "[Hombre cantante]\nLa maldición de la anciana enfureció a la luna.\nElimina a la anciana para calmar a la luna.\nSi tan solo la anciana no estuviera aquí; si tan solo la anciana no estuviera aquí..."
     },
     "ca9sAQ": {
         "en-US": "[Singing Man]\nI hear rumors~\nThe old lady threw herself into the lake~\nthe old lady, now turned into a dragon, will swallow the moon\nand soon swallow the village too~",
@@ -137,7 +137,7 @@
     "e69sAQ": {
         "en-US": "[Singing Woman]\nPoor Bakonawa...\nI would be happy \nif she took a big bite out of someone like you!",
         "pt-BR": "[Cantora]\nPobre Bakonawa...\nEu ficaria feliz \nse ela desse uma mordida em alguém como você!",
-        "es-ES": "[Mujer cantante]\nPobre Bakonawa…\n¡Me alegraría \nsi ella le diera un buen mordisco a alguien como tú!"
+        "es-ES": "[Mujer cantante]\nPobre Bakonawa...\n¡Me alegraría \nsi ella le diera un buen mordisco a alguien como tú!"
     },
     "fK9sAQ": {
         "en-US": "Frightened Boy",
@@ -152,7 +152,7 @@
     "fq9sAQ": {
         "en-US": "[Frightened Boy]\nThe vicious monster Bakonawa will soon come\nto swallow the moon and take vengeance upon the village.\nI'm scared, please help...",
         "pt-BR": "[Garoto Assustado]\nO monstro cruel Bakonawa logo virá\npara engolir a lua e se vingar da aldeia.\nEstou com medo, por favor, me ajude...",
-        "es-ES": "[Niño asustado]\nEl despiadado monstruo Bakonawa pronto vendrá \npara tragarse la luna y vengarse de la aldea.\nTengo miedo, ayúdame…"
+        "es-ES": "[Niño asustado]\nEl despiadado monstruo Bakonawa pronto vendrá \npara tragarse la luna y vengarse de la aldea.\nTengo miedo, ayúdame..."
     },
     "f69sAQ": {
         "en-US": "[Frightened Boy]\nThe legend of Bakonawa is all a lie?\nSo that means Bakonawa doesn't exist?\nI'm going to play with my friends at the lake later.\nYou told me it was all a lie right?",
@@ -267,7 +267,7 @@
     "la9sAQ": {
         "en-US": "[Old Legend Teller]\nThe old lady has come back\nto life as Bakonawa.\nSoon she will come to take vengeance on the village.\nWe must calm her \nif to prevent further destruction...",
         "pt-BR": "[Contador de Lendas]\nA velha senhora voltou\nà vida como Bakonawa.\nEm breve, ela virá se vingar da aldeia.\nPrecisamos acalmar ela\nse quisermos evitar destruição...",
-        "es-ES": "[Viejo contador de leyendas]\nLa anciana volvió \na la vida como Bakonawa.\nPronto vendrá y querrá vengarse de la aldea.\nDebemos calmarla \npara evitar más destrucción…"
+        "es-ES": "[Viejo contador de leyendas]\nLa anciana volvió \na la vida como Bakonawa.\nPronto vendrá y querrá vengarse de la aldea.\nDebemos calmarla \npara evitar más destrucción..."
     },
     "lq9sAQ": {
         "en-US": "Calm Bakonawa?",
@@ -302,7 +302,7 @@
     "nK9sAQ": {
         "en-US": "[Old Legend Teller]\nOf course, it will not be easy to track down the whereabouts of a person \nwho has been gone for a hundred years.\n...",
         "pt-BR": "[Contador de Lendas]\nÉ claro, não vai ser fácil rastrear o paradeiro de uma pessoa \nque está desaparecida há cem anos.\n...",
-        "es-ES": "[Viejo contador de leyendas]\nClaro que no será fácil rastrear el paradero de una persona \nque se fue hace cien años.\n…"
+        "es-ES": "[Viejo contador de leyendas]\nClaro que no será fácil rastrear el paradero de una persona \nque se fue hace cien años.\n..."
     },
     "na9sAQ": {
         "en-US": "[Old Legend Teller]\nStill, don't you think\nit is worth a try?\nPlease help us and save us from our misery",
@@ -342,7 +342,7 @@
     "pK9sAQ": {
         "en-US": "[Old Legend Teller]\nThe grudge against the people of\nBakonawa- I mean, the dead old lady.\nThe moon and this village...\nShe will try to destroy it.",
         "pt-BR": "[Contador de Lendas]\nO rancor contra o povo de\nBakonawa, quero dizer, a velha senhora morta.\nA lua e esta aldeia...\nEla vai tentar destruir tudo.",
-        "es-ES": "[Viejo contador de leyendas]\nEl rencor contra la gente que tiene\nBakonawa… Es decir, la anciana muerta.\nLa luna y esta aldea…\nElla intentará destruirlas."
+        "es-ES": "[Viejo contador de leyendas]\nEl rencor contra la gente que tiene\nBakonawa... Es decir, la anciana muerta.\nLa luna y esta aldea...\nElla intentará destruirlas."
     },
     "pa9sAQ": {
         "en-US": "Take vengeance? After all these years?",
@@ -402,17 +402,17 @@
     "sK9sAQ": {
         "en-US": "[Old Legend Teller]\nYou have a point, but\nthis is the best I can do for now.\nThe place is at the end of northwestern part of the forest.\nAfter you pass the bridge and travel west, \nyou will see a person.\nGood luck to you... for our sake...",
         "pt-BR": "[Contador de Lendas]\nVocê tem razão, mas\né o melhor que posso fazer por enquanto.\nO local fica no final da parte noroeste da floresta.\nDepois de passar pela ponte e seguir para oeste, \nvocê verá uma pessoa.\nBoa sorte para você... pelo nosso bem...",
-        "es-ES": "[Viejo contador de leyendas]\nTienes razón, pero\nes lo mejor que puedo hacer por ahora.\nEl lugar está en el límite de la parte noroeste del bosque.\nDespués de que pases el puente y viajes al oeste, \nverás a una persona.\nBuena suerte… por nuestro bien…"
+        "es-ES": "[Viejo contador de leyendas]\nTienes razón, pero\nes lo mejor que puedo hacer por ahora.\nEl lugar está en el límite de la parte noroeste del bosque.\nDespués de que pases el puente y viajes al oeste, \nverás a una persona.\nBuena suerte... por nuestro bien..."
     },
     "sa9sAQ": {
         "en-US": "[Old Legend Teller]\nYou have a good heart young man!\nThe place is at the end of northwestern part of the forest.\nAfter you pass the bridge and travel west, \nYou will see a ^0000FFMalaya Immigrant^000000.\nGood luck to you... for our sake...",
         "pt-BR": "[Contador de Lendas]\nVocê tem um bom coração, jovem!\nO local fica no final da parte noroeste da floresta.\nDepois de passar pela ponte, siga para oeste, \nVocê verá um ^0000FF Imigrante Malaya^000000.\nBoa sorte para você... pelo nosso bem...",
-        "es-ES": "[Viejo contador de leyendas]\n¡Tienes un buen corazón, joven!\nEl lugar está en el límite de la parte noroeste del bosque.\nDespués de que pases el puente y viajes al oeste, \nVerás a un ^0000FFinmigrante malayano^000000.\nBuena suerte… por nuestro bien…"
+        "es-ES": "[Viejo contador de leyendas]\n¡Tienes un buen corazón, joven!\nEl lugar está en el límite de la parte noroeste del bosque.\nDespués de que pases el puente y viajes al oeste, \nVerás a un ^0000FFinmigrante malayano^000000.\nBuena suerte... por nuestro bien..."
     },
     "sq9sAQ": {
         "en-US": "[Old Legend Teller]\nThe place is at the end of northwestern part of the forest.\nAfter you pass the bridge and travel west, \nyou will see a person.\nGood luck to you... for our sake...",
         "pt-BR": "[Contador de Lendas]\nO local fica no final da parte noroeste da floresta.\nDepois de passar pela ponte e viajar para o oeste, \nvocê verá uma pessoa.\nBoa sorte para você... pelo nosso bem...",
-        "es-ES": "[Viejo contador de leyendas]\nEl lugar está en el límite de la parte noroeste del bosque.\nDespués de que pases el puente y viajes al oeste, \nverás a una persona.\nBuena suerte… por nuestro bien…"
+        "es-ES": "[Viejo contador de leyendas]\nEl lugar está en el límite de la parte noroeste del bosque.\nDespués de que pases el puente y viajes al oeste, \nverás a una persona.\nBuena suerte... por nuestro bien..."
     },
     "s69sAQ": {
         "en-US": "[Old Legend Teller]",
@@ -422,7 +422,7 @@
     "tK9sAQ": {
         "en-US": "The track of the old lady's son\nis connected all the way to \nBaryo Mahiwaga?\nThere is a chance he wasn't a merchant...\nI'm really curious about who he was...",
         "pt-BR": "A trilha do filho da velha senhora\nestá conectada até \nBaryo Mahiwaga?\nHá uma chance de que ele não era um comerciante...\nEstou muito curioso para saber quem ele era...",
-        "es-ES": "¿Acaso el rastro del hijo de la anciana\nllega hasta \nBaryo Mahiwaga?\nExiste la posibilidad de que no fuera un comerciante…\nTengo mucha curiosidad por saber quién era…"
+        "es-ES": "¿Acaso el rastro del hijo de la anciana\nllega hasta \nBaryo Mahiwaga?\nExiste la posibilidad de que no fuera un comerciante...\nTengo mucha curiosidad por saber quién era..."
     },
     "ta9sAQ": {
         "en-US": "[Old Legend Teller]\nWhy did you come back here\ninstead of going straight to \nBaryo Mahiwaga?",
@@ -432,7 +432,7 @@
     "tq9sAQ": {
         "en-US": "[Old Legend Teller]\nIs that really true?\nBakonawa turning into an old lady\nand fabricating the legend...\nIt seems all the villagers up until now\nhave been manipulated by that terrible monster.",
         "pt-BR": "[Contador de Lendas]\nIsso é verdade?\nBakonawa se transformando em uma senhora idosa\ne fabricando a lenda...\nParece que todos os aldeões até agora\nforam manipulados por esse monstro terrível.",
-        "es-ES": "[Viejo contador de leyendas]\n¿Es eso realmente cierto?\nQue Bakonawa se convirtió en una anciana\ne inventó la leyenda…\nParece que, hasta ahora, todos los aldeanos\nfueron manipulados por ese terrible monstruo."
+        "es-ES": "[Viejo contador de leyendas]\n¿Es eso realmente cierto?\nQue Bakonawa se convirtió en una anciana\ne inventó la leyenda...\nParece que, hasta ahora, todos los aldeanos\nfueron manipulados por ese terrible monstruo."
     },
     "t69sAQ": {
         "en-US": "[Old Legend Teller]\nThere is no reason to hesitate then.\nYou must go into Bakonawa's lair\nbefore it attacks first.\nI believe we can trust you to do this, yes?",
@@ -442,7 +442,7 @@
     "uK9sAQ": {
         "en-US": "Well...",
         "pt-BR": "Olha...",
-        "es-ES": "Bueno…"
+        "es-ES": "Bueno..."
     },
     "ua9sAQ": {
         "en-US": "Of course!",
@@ -452,7 +452,7 @@
     "uq9sAQ": {
         "en-US": "[Old Legend Teller]\nThe atmosphere was really good\nbut suddenly it's all ruined.\nI didn't expect you to be so shy...",
         "pt-BR": "[Contador de Lendas]\nA atmosfera estava muito boa\nmas, de repente, está tudo arruinado.\nEu não esperava que você tivesse tanta timidez...",
-        "es-ES": "[Viejo contador de leyendas]\nEl ambiente era muy bueno\npero de repente todo se arruinó.\nNo esperaba tanta timidez de tu parte…"
+        "es-ES": "[Viejo contador de leyendas]\nEl ambiente era muy bueno\npero de repente todo se arruinó.\nNo esperaba tanta timidez de tu parte..."
     },
     "u69sAQ": {
         "en-US": "[Old Legend Teller]\nI will speak to\nthe village chief for you\nso that you can enter the Bakonawa Lake.\nPlease get rid of this monster for us.",
@@ -462,12 +462,12 @@
     "vK9sAQ": {
         "en-US": "[Old Legend Teller]\nIf you don't mind,\ncould you lend a hand to the Village Chief?\nNobody cares for each other anymore\nbecause of Bakonawa...",
         "pt-BR": "[Contador de Lendas]\nSe não se importa,\npoderia dar uma mãozinha para o chefe da aldeia?\nNinguém mais se importa uns com os outros\npor causa de Bakonawa...",
-        "es-ES": "[Viejo contador de leyendas]\nSi no te molesta,\n¿podrías darle una mano al jefe de la aldea?\nYa nadie se preocupa por los demás\ndebido a Bakonawa…"
+        "es-ES": "[Viejo contador de leyendas]\nSi no te molesta,\n¿podrías darle una mano al jefe de la aldea?\nYa nadie se preocupa por los demás\ndebido a Bakonawa..."
     },
     "va9sAQ": {
         "en-US": "[Old Legend Teller]\nThe legend that \nwe believed for a hundred years\nall lies....\nPlease get rid of this monster for us.",
         "pt-BR": "[Contador de Lendas]\nA lenda que \nacreditamos por cem anos...\nEra tudo mentira....\nLivre-se desse monstro para nós, por favor.",
-        "es-ES": "[Viejo contador de leyendas]\nLa leyenda que \ncreímos durante cien años\nes solo una mentira…\nDeshazte de este monstruo por nosotros, por favor."
+        "es-ES": "[Viejo contador de leyendas]\nLa leyenda que \ncreímos durante cien años\nes solo una mentira...\nDeshazte de este monstruo por nosotros, por favor."
     },
     "vq9sAQ": {
         "en-US": "Malaya Immigrant",
@@ -482,7 +482,7 @@
     "wK9sAQ": {
         "en-US": "[Malaya Immigrant]\nAre you the traveling merchant who used to sell Wooden Doll, right?\nI don't know about any traveling merchant, but by Wooden Doll\n(going through things) do you mean this?\nI don't know about the specifics, but\nI think it's related to what I heard long time ago.",
         "pt-BR": "[Imigrante de Malaya]\nVocê é a pessoa comerciante viajante que costumava vender Boneca de Madeira, certo?\nEu não sei sobre nenhum comerciante viajante, mas por Boneca de Madeira... você quer dizer isso?\nNão sei sobre os detalhes, mas\nacho que está relacionado ao que ouvi há muito tempo.",
-        "es-ES": "[Inmigrante malayano]\nEres el comerciante ambulante que vendía muñecas de madera, ¿verdad?\nNo conozco a ningún comerciante ambulante, pero con respecto a las muñecas de madera…\n(revisa las cosas) ¿te refieres a esto?\nNo conozco los detalles, pero\ncreo que se relaciona con algo que escuché hace tiempo."
+        "es-ES": "[Inmigrante malayano]\nEres el comerciante ambulante que vendía muñecas de madera, ¿verdad?\nNo conozco a ningún comerciante ambulante, pero con respecto a las muñecas de madera...\n(revisa las cosas) ¿te refieres a esto?\nNo conozco los detalles, pero\ncreo que se relaciona con algo que escuché hace tiempo."
     },
     "wa9sAQ": {
         "en-US": "What are you doing here?",
@@ -542,22 +542,22 @@
     "zK9sAQ": {
         "en-US": "[Malaya Immigrant]\nWell, there is a lack of information\nso I can't make say for sure but\nI'm skeptical if he was in fact even a merchant.\nComing to a town with a \ncritical wound seems too suspicious...",
         "pt-BR": "[Imigrante de Malaya]\nBem, há uma falta de informações\npor isso não posso afirmar com certeza, mas\nEstou cético se ele era de fato um comerciante.\nChegar a uma cidade com inúmeras\nferidas é muito suspeito.",
-        "es-ES": "[Inmigrante malayano]\nBueno, me falta información,\nasí que no puedo asegurarlo, pero\ntengo dudas de si era realmente un comerciante.\nLlegar a una aldea con \nuna herida grave parece muy sospechoso…"
+        "es-ES": "[Inmigrante malayano]\nBueno, me falta información,\nasí que no puedo asegurarlo, pero\ntengo dudas de si era realmente un comerciante.\nLlegar a una aldea con \nuna herida grave parece muy sospechoso..."
     },
     "za9sAQ": {
         "en-US": "[Malaya Immigrant]\nAnd craving a Wooden Doll\ncould be seen to have some kind of ritualistic meaning.\nProtecting one from some evil force...\nthat kind of thing.",
         "pt-BR": "[Imigrante de Malaya]\nE desejando por uma Boneca de Madeira\npode ser visto como tendo algum tipo de significado ritualístico.\nProteger a pessoa de alguma força maligna...\nesse tipo de coisa.",
-        "es-ES": "[Inmigrante malayano]\nY tallar una muñeca de madera\npodría tener algún significado ritual.\nComo proteger a una persona de una fuerza maligna…\no algo por el estilo."
+        "es-ES": "[Inmigrante malayano]\nY tallar una muñeca de madera\npodría tener algún significado ritual.\nComo proteger a una persona de una fuerza maligna...\no algo por el estilo."
     },
     "zq9sAQ": {
         "en-US": "Identity of the traveling merchant...\nLooks like there is one more \nmystery to be solved.\nI suppose it will all come to light\nsoon enough.",
         "pt-BR": "A identidade do comerciante viajante...\nParece que há mais um \nmistério a ser resolvido.\nSuponho que tudo virá à tona\nem breve.",
-        "es-ES": "La identidad del comerciante ambulante…\nParece que es \nun misterio más para resolver.\nSupongo que todo saldrá a la luz\nmuy pronto."
+        "es-ES": "La identidad del comerciante ambulante...\nParece que es \nun misterio más para resolver.\nSupongo que todo saldrá a la luz\nmuy pronto."
     },
     "z69sAQ": {
         "en-US": "[Malaya Immigrant]\nI will tell you again slowly\nthe story that has been passed on.\nListen carefully and repeat...\nno, I mean, you don't have repeat it.",
         "pt-BR": "[Imigrante de Malaya]\nVou lhe contar novamente\na história que foi passada adiante.\nOuça com atenção e repita comigo...\nnão, quero dizer, você não precisa repetir.",
-        "es-ES": "[Inmigrante malayano]\nTe volveré a contar lentamente\nla historia que pasó de boca en boca.\nEscucha atentamente y repite…\nno, quiero decir, no tienes que repetirlo."
+        "es-ES": "[Inmigrante malayano]\nTe volveré a contar lentamente\nla historia que pasó de boca en boca.\nEscucha atentamente y repite...\nno, quiero decir, no tienes que repetirlo."
     },
     "0K9sAQ": {
         "en-US": "[Orally Transmitted Story]\n^0000FFA wounded man who I had never seen before^000000\n^0000FFcame to my house and asked for help.^000000\n^0000FFOnce healed, as a token of gratitude, he made a Wooden Doll^000000\n^0000FFthat is suppose to chase away evil sprits.^000000\n^0000FFThen he left for Baryo Mahiwaga.^000000",
@@ -607,7 +607,7 @@
     "2a9sAQ": {
         "en-US": "[Malaya Immigrant]\nThis is the end of story.\nWithout any conclusion...",
         "pt-BR": "[Imigrante de Malaya]\nEste é o fim da história.\nSem nenhuma conclusão...",
-        "es-ES": "[Inmigrante malayano]\nEste es el final de la historia.\nSin ningún final…"
+        "es-ES": "[Inmigrante malayano]\nEste es el final de la historia.\nSin ningún final..."
     },
     "2q9sAQ": {
         "en-US": "[Malaya Immigrant]\nI heard there is a record that the swordsman left\nbut I don't understand why \nhe would leave it here in such a distant place\nhere instead of Malaya.",
@@ -687,12 +687,12 @@
     "6a9sAQ": {
         "en-US": "[Record left by a swordsman from a hundred years ago]\nI will place my trust in the one that will replace me ages from now...",
         "pt-BR": "[Registro de um espadachim de cem anos atrás]\nVou colocar minha confiança naquele que me substituirá daqui a muito tempo...",
-        "es-ES": "[Registro dejado por un espadachín hace cien años]\nDepositaré mi confianza en aquella persona que me reemplazará dentro de muchos años…"
+        "es-ES": "[Registro dejado por un espadachín hace cien años]\nDepositaré mi confianza en aquella persona que me reemplazará dentro de muchos años..."
     },
     "6q9sAQ": {
         "en-US": "How could this be...\nLie told by Bakonawa when it turned into an old lady\nin order to take revenge on the swordsman\nturned into a legend after all these years.",
         "pt-BR": "Como pode ser...\nMentira contada por Bakonawa quando ele se transformou em uma senhora idosa para se vingar do espadachim se transformou em \numa lenda depois de todos esses anos.",
-        "es-ES": "¿Cómo puede ser…?\nUna mentira que contó Bakonawa cuando se transformó en anciana\npara vengarse del espadachín\nse convirtió en una leyenda después de todos estos años."
+        "es-ES": "¿Cómo puede ser...?\nUna mentira que contó Bakonawa cuando se transformó en anciana\npara vengarse del espadachín\nse convirtió en una leyenda después de todos estos años."
     },
     "669sAQ": {
         "en-US": "I found out that Bakonawa\nis nothing but a blood thirsty monster.\nI must tell what I know to the ^0000FFOld Legend Teller^000000\nin Malaya.",
@@ -742,7 +742,7 @@
     "9K9sAQ": {
         "en-US": "[Record left by a swordsman from hundred years ago]\nI will place my trust to who that will replace me ages from now...",
         "pt-BR": "[Registro de um espadachim de cem anos atrás]\nVou colocar minha confiança em quem me substituirá daqui algum tempo...",
-        "es-ES": "[Registro dejado por un espadachín hace cien años]\nDepositaré mi confianza en aquella persona que me reemplazará dentro de muchos años…"
+        "es-ES": "[Registro dejado por un espadachín hace cien años]\nDepositaré mi confianza en aquella persona que me reemplazará dentro de muchos años..."
     },
     "9a9sAQ": {
         "en-US": "Lie told by Bakonawa which have turn into an old lady\nin order to take revenge on the swordsman\nhas turned into a legend after all these years.",
@@ -962,7 +962,7 @@
     "ILBsAQ": {
         "en-US": "[Village Chief]\nThis operation means life and death to us\nyet you refuse it easily as if\nit was some kind of a chore...",
         "pt-BR": "[Chefe da Vila]\nEssa operação significa vida ou morte para nós,\ne você recusa facilmente como se\ncomo se fosse um tipo de tarefa banal...",
-        "es-ES": "[Jefe de la Aldea]\nEsta operación es de vida o muerte para nosotros,\ny tú la rechazas tan fácilmente como\nsi fuera una simple tarea del hogar…"
+        "es-ES": "[Jefe de la Aldea]\nEsta operación es de vida o muerte para nosotros,\ny tú la rechazas tan fácilmente como\nsi fuera una simple tarea del hogar..."
     },
     "IbBsAQ": {
         "en-US": "[Village Chief]\nWhat a hero!",
@@ -1047,7 +1047,7 @@
     "MbBsAQ": {
         "en-US": "[Missing Person's Father]\nThis... is our child's ^FF0000Lost Belongings^000000\nfor sure.\nThe monster got to him after all....",
         "pt-BR": "[Pai de Pessoa Desaparecida]\nSão... os ^FF0000Bens Perdidos^000000 do nosso filho.\nSem dúvida alguma.\nO monstro realmente matou ele...",
-        "es-ES": "[Padre de la persona desaparecida]\nEstas son… las ^FF0000Pertenencias perdidas^000000 de nuestro hijo,\nsin duda.\nEl monstruo lo atacó después de todo…"
+        "es-ES": "[Padre de la persona desaparecida]\nEstas son... las ^FF0000Pertenencias perdidas^000000 de nuestro hijo,\nsin duda.\nEl monstruo lo atacó después de todo..."
     },
     "MrBsAQ": {
         "en-US": "The man is unable to continue as he tries to hold back his tears. \nLet's continue to find the lost belongings of the missing people.\nLet's retrieve them from Tiucknuc that roams Baryo Mahiwaga Field,\nseven ^FF0000Lost Belongings^000000\nand deliver them to ^0000FFMissing Person's Friend^000000.",
@@ -1057,7 +1057,7 @@
     "M7BsAQ": {
         "en-US": "[Missing Person's Father]\nMy baby... my poor baby...",
         "pt-BR": "[Pai de Pessoa Desaparecida]\nMeu bebê... meu pobre bebê...",
-        "es-ES": "[Padre de la persona desaparecida]\nMi bebé… mi pobre bebé…"
+        "es-ES": "[Padre de la persona desaparecida]\nMi bebé... mi pobre bebé..."
     },
     "NLBsAQ": {
         "en-US": "The man is unable to continue as he tries to hold back his tears. \nLet's continue to find the lost belongings of the missing people.\nRetrieve seven ^FF0000Lost Belongings^000000 from Tiucknuc\nand deliver them to ^0000FFMissing Person's Friend^000000.",
@@ -1087,7 +1087,7 @@
     "ObBsAQ": {
         "en-US": "[Missing Person's Friend]\nThese are marbles and toys I gave him...\nThese are clearly ^FF0000Lost Belongings^000000\nof my friend... Where is my friend?\nBring him here, bring him here now!",
         "pt-BR": "[Amigo de Pessoa Desaparecida]\nEstas são bolinhas de gude e brinquedos que dei a ele...\nSão os ^FF0000Bens perdidos^000000\ndo meu amigo... Onde está ele?\nAche ele... Ache ele, por favor!",
-        "es-ES": "[Amigo de la persona desaparecida]\nSon las canicas y los juguetes que le regalé…\nSin duda son las ^FF0000Pertenencias perdidas^000000\nde mi amigo… ¿Dónde está mi amigo?\n¡Tráelo! ¡Tráelo aquí ahora!"
+        "es-ES": "[Amigo de la persona desaparecida]\nSon las canicas y los juguetes que le regalé...\nSin duda son las ^FF0000Pertenencias perdidas^000000\nde mi amigo... ¿Dónde está mi amigo?\n¡Tráelo! ¡Tráelo aquí ahora!"
     },
     "OrBsAQ": {
         "en-US": "Leaving behind the crying boy,\nlet's continue to find the lost belongings of the missing people.\nRetrieve three ^FF0000Lost Belongings^000000 from Tiucknuc\nand deliver them to ^0000FFMissing Person's Son^000000.",
@@ -1117,7 +1117,7 @@
     "P7BsAQ": {
         "en-US": "[Missing Person's Son]\nThese are clearly his clothes and shoes...\nThese are ^FF0000Lost Belongings^000000 of my father.\nOh dear lord... father!",
         "pt-BR": "[Filho de Pessoa Desaparecida]\nEstas são claramente suas roupas e sapatos...\nEstes são os ^FF0000Bens Perdidos^000000 do meu pai.\nAh, meu Deus... pai!",
-        "es-ES": "[Hijo de la persona desaparecida]\nSin duda son su ropa y sus zapatos…\nEstas son las ^FF0000Pertenencias perdidas^000000 de mi padre.\n¡Dios mío… padre!"
+        "es-ES": "[Hijo de la persona desaparecida]\nSin duda son su ropa y sus zapatos...\nEstas son las ^FF0000Pertenencias perdidas^000000 de mi padre.\n¡Dios mío... padre!"
     },
     "QLBsAQ": {
         "en-US": "Man crying in agony.\nLet's continue to find the lost belongings of the missing people.\nRetrieve five ^FF0000Lost Belongings^000000 from Tiucknuc\nand deliver them to ^0000FFMissing Person's Mother^000000.",
@@ -1127,7 +1127,7 @@
     "QbBsAQ": {
         "en-US": "[Missing Person's Son]\nWhy did such a thing happen....",
         "pt-BR": "[Filho de Pessoa Desaparecida]\nPor que isso está acontecendo...",
-        "es-ES": "[Hijo de la persona desaparecida]\n¿Por qué ocurrió algo así…?"
+        "es-ES": "[Hijo de la persona desaparecida]\n¿Por qué ocurrió algo así...?"
     },
     "QrBsAQ": {
         "en-US": "Missing Person's Mother",
@@ -1147,27 +1147,27 @@
     "RbBsAQ": {
         "en-US": "[Missing Person's Mother]\nThis is my child's hair comb.\nWhy do you have five ^FF0000Lost Belongings^000000 of my child? \nWhy..? She's...dead?",
         "pt-BR": "[Mãe de Pessoa Desaparecida]\nEste é o pente de cabelo dela.\nPor que você tem cinco ^FF0000Bens Perdidos^000000 dela? \nO que...? Ela está... morta?",
-        "es-ES": "[Madre de la persona desaparecida]\nEste es el peine de mi hija.\n¿Por qué tienes las cinco ^FF0000Pertenencias perdidas^000000 de mi hija? \n¿Por qué…? ¿Está… muerta?"
+        "es-ES": "[Madre de la persona desaparecida]\nEste es el peine de mi hija.\n¿Por qué tienes las cinco ^FF0000Pertenencias perdidas^000000 de mi hija? \n¿Por qué...? ¿Está... muerta?"
     },
     "RrBsAQ": {
         "en-US": "[Missing Person's Mother]\nNo wait... I think I hear her voice.\nShe's going to be home soon. I should go home now.\nI should prepare a dinner for her. She must be starving.\nHa ha...",
         "pt-BR": "[Mãe de Pessoa Desaparecida]\nNão, espere... Acho que estou ouvindo a voz dela.\nEla vai voltar para casa em breve. Deveria ir para casa agora.\nEu deveria preparar um jantar para ela. Ela deve estar morrendo de fome.\nHa ha...",
-        "es-ES": "[Madre de la persona desaparecida]\nNo, espera… Creo que oigo su voz.\nPronto estará en casa. Debo ir a casa ahora.\nDebería prepararle la cena. Debe estar hambrienta.\nJa, ja…"
+        "es-ES": "[Madre de la persona desaparecida]\nNo, espera... Creo que oigo su voz.\nPronto estará en casa. Debo ir a casa ahora.\nDebería prepararle la cena. Debe estar hambrienta.\nJa, ja..."
     },
     "R7BsAQ": {
         "en-US": "A mother that has gone mad...\nNow that I finished finding the missing people,\nI should report back to the Village Chief.",
         "pt-BR": "Uma mãe que enlouqueceu...\nAgora que terminei de encontrar as pessoas desaparecidas,\ndevo me apresentar ao Chefe da Vila.",
-        "es-ES": "Una madre que se volvió loca…\nAhora que terminé de encontrar a los desaparecidos,\ndebo informárselo al jefe de la aldea."
+        "es-ES": "Una madre que se volvió loca...\nAhora que terminé de encontrar a los desaparecidos,\ndebo informárselo al jefe de la aldea."
     },
     "SLBsAQ": {
         "en-US": "[Missing Person's Mother]\nha ha ha I can hear my child's voice,\njust listen closely.\nCan't you hear her calling her mother?\nha ha ha...",
         "pt-BR": "[Mãe de Pessoa Desaparecida]\nHahaha, estou ouvindo a voz da minha filha,\nbasta ouvir com atenção...\nVocê não consegue ouvi-la chamando a mãe?\nha ha ha ha...",
-        "es-ES": "[Madre de la persona desaparecida]\nJa, ja, ja, puedo escuchar la voz de mi hija,\nsolo escucha con atención.\n¿No la oyes llamando a su madre?\nJa, ja, ja…"
+        "es-ES": "[Madre de la persona desaparecida]\nJa, ja, ja, puedo escuchar la voz de mi hija,\nsolo escucha con atención.\n¿No la oyes llamando a su madre?\nJa, ja, ja..."
     },
     "SbBsAQ": {
         "en-US": "A mother that has gone mad...",
         "pt-BR": "Uma mãe que enlouqueceu...",
-        "es-ES": "Una madre que se volvió loca…"
+        "es-ES": "Una madre que se volvió loca..."
     },
     "SrBsAQ": {
         "en-US": "Young Fortune Teller",
@@ -1322,7 +1322,7 @@
     "aLBsAQ": {
         "en-US": "[Grumpy Worker]\nI really don't like it here!\n...\nWith this pickax,\ndig dig dig!",
         "pt-BR": "[Trabalhador Queixoso]\nEu realmente não gosto daqui!\n...\nCom esta picareta,\ncavar, cavar, cavar!",
-        "es-ES": "[Trabajador gruñón]\n¡Realmente no me gusta esto!\n…\nCon este pico,\n¡cavo, cavo, cavo!"
+        "es-ES": "[Trabajador gruñón]\n¡Realmente no me gusta esto!\n...\nCon este pico,\n¡cavo, cavo, cavo!"
     },
     "abBsAQ": {
         "en-US": "dig dig dig!",
@@ -1342,7 +1342,7 @@
     "bLBsAQ": {
         "en-US": "[Cowardly Worker]\nVillage Chief told me to \nwait for you here.\nWhy me? I have a bad feeling about this....",
         "pt-BR": "[Trabalhador Covarde]\nO Chefe da Vila me disse para \nesperar por você aqui.\nPor que eu? Sei não, viu...",
-        "es-ES": "[Trabajador cobarde]\nEl jefe de la aldea me dijo que \nte esperara aquí.\n¿Por qué yo? Tengo un mal presentimiento sobre esto…"
+        "es-ES": "[Trabajador cobarde]\nEl jefe de la aldea me dijo que \nte esperara aquí.\n¿Por qué yo? Tengo un mal presentimiento sobre esto..."
     },
     "bbBsAQ": {
         "en-US": "[Cowardly Worker]\nset up a trap in front of here?\nVillage Chief said I have to help too?\nCan you please do it by yourself?",
@@ -1362,7 +1362,7 @@
     "cLBsAQ": {
         "en-US": "[Cowardly Worker]\nThere is nothing weird\nburied here right?\n...\nUsing the shovel, dig dig dig!",
         "pt-BR": "[Trabalhador Covarde]\nNão há nada de estranho\nenterrado aqui, né?\n...\nUsando a pá, cavar, cavar, cavar!",
-        "es-ES": "[Trabajador cobarde]\nNo hay nada raro\nenterrado aquí, ¿verdad?\n…\nCon la pala, ¡cavo, cavo, cavo!"
+        "es-ES": "[Trabajador cobarde]\nNo hay nada raro\nenterrado aquí, ¿verdad?\n...\nCon la pala, ¡cavo, cavo, cavo!"
     },
     "cbBsAQ": {
         "en-US": "[Cowardly Worker]\nGo up and you will \nfind the Gloomy Worker.",
@@ -1382,12 +1382,12 @@
     "dLBsAQ": {
         "en-US": "[Gloomy Worker]\nVillage Chief told me to wait for you here.\nHe must want me to do something.\nWhew...",
         "pt-BR": "[Trabalhador Melancólico]\nO Chefe da Vila me disse para esperar por você aqui.\nEle deve querer que eu faça alguma coisa.\nUfa...",
-        "es-ES": "[Trabajador pesimista]\nEl jefe de la aldea me dijo que te esperara aquí.\nDebe querer que haga algo.\nUf…"
+        "es-ES": "[Trabajador pesimista]\nEl jefe de la aldea me dijo que te esperara aquí.\nDebe querer que haga algo.\nUf..."
     },
     "dbBsAQ": {
         "en-US": "[Gloomy Worker]\nset up a trap on the left side?\nI don't think it will be much use...\nWhew, I should've moved away or something...",
         "pt-BR": "[Trabalhador Melancólico]\nMontar uma armadilha no lado esquerdo?\nAcho que não vai ser muito útil...\nUfa, eu deveria ter me afastado ou algo assim...",
-        "es-ES": "[Trabajador pesimista]\n¿Colocar una trampa del lado izquierdo?\nNo creo que sirva de mucho…\nUf, debería haberme mudado o algo así…"
+        "es-ES": "[Trabajador pesimista]\n¿Colocar una trampa del lado izquierdo?\nNo creo que sirva de mucho...\nUf, debería haberme mudado o algo así..."
     },
     "drBsAQ": {
         "en-US": "[Gloomy Worker]\nWe are all gonna die anyway by Bakonawa.\nThis is pointless.\nJust go up the path and you will find\nSentimental Worker.",
@@ -1397,7 +1397,7 @@
     "d7BsAQ": {
         "en-US": "[Gloomy Worker]\nBakonawa is going to attack us anyway.\nWhat pointless work...",
         "pt-BR": "[Trabalhador Melancólico]\nBakonawa vai nos atacar de qualquer maneira.\nQue trabalho inútil...",
-        "es-ES": "[Trabajador pesimista]\nBakonawa nos atacará de todos modos.\n¡Qué trabajo más inútil…!"
+        "es-ES": "[Trabajador pesimista]\nBakonawa nos atacará de todos modos.\n¡Qué trabajo más inútil...!"
     },
     "eLBsAQ": {
         "en-US": "[Gloomy Worker]\nJust catch this net,\nthrow throw!",

@@ -9,7 +9,7 @@ SignBoardList_string = {
 		CONTENTS = "  Equip. Boya"
 	},
 	[4] = {
-		CONTENTS = "  Equip. 100+ "
+		CONTENTS = "  Equip. 100+"
 	},
 	[6] = {
 		CONTENTS = "  Grupo del Edén"
@@ -30,7 +30,7 @@ SignBoardList_string = {
 		CONTENTS = "  Grupo del Edén"
 	},
 	[12] = {
-		CONTENTS = "   Grupo del Edén"
+		CONTENTS = "  Grupo del Edén"
 	},
 	[13] = {
 		CONTENTS = "  Grupo del Edén"
@@ -205,7 +205,7 @@ SignBoardList_string = {
 		CONTENTS = "  Equip. Boya"
 	},
 	[835] = {
-		CONTENTS = "  Equip. 100+ "
+		CONTENTS = "  Equip. 100+"
 	},
 	[836] = {
 		CONTENTS = "  Equip. Ur"
@@ -214,7 +214,7 @@ SignBoardList_string = {
 		CONTENTS = "  Equip. Boya"
 	},
 	[838] = {
-		CONTENTS = "  Equip. 100+ "
+		CONTENTS = "  Equip. 100+"
 	},
 	[839] = {
 		CONTENTS = "  Equip. Ur"
@@ -223,7 +223,7 @@ SignBoardList_string = {
 		CONTENTS = "  Equip. Boya"
 	},
 	[841] = {
-		CONTENTS = "  Equip. 100+ "
+		CONTENTS = "  Equip. 100+"
 	},
 	[885] = {
 		CONTENTS = "  Clan de la Espada"
@@ -299,9 +299,6 @@ SignBoardList_string = {
 	},
 	[928] = {
 		CONTENTS = "  Piedra de Grado"
-	},
-	[929] = {
-		CONTENTS = "  Evento de Reset"
 	},
 	[930] = {
 		CONTENTS = "  Evento de Arranque"

@@ -112,7 +112,7 @@
     "lvxdBw": {
         "en-US": "[Secretary Lime Eveno]\nWhat, did you think I was running this gig alone?\nThe Mistre--I mean, the Captain is rarely excited about anything, and this is one of those rare occasions. You should meet her.",
         "pt-BR": "[Secretária Lenore]\nO que, você achou que eu comandava tudo isso sozinho?\nA Senho... Quero dizer, a Capitã raramente se empolga, e esta é uma dessas ocasiões raras. Melhor você falar com ela.",
-        "es-ES": "[Secretario Lime Evenor]\n¿Acaso pensabas que hacía todo esto por mi cuenta?\nLa seño… digo, la capitana, rara vez se entusiasma por algo, así que esta es una ocasión excepcional. Ve a verla."
+        "es-ES": "[Secretario Lime Evenor]\n¿Acaso pensabas que hacía todo esto por mi cuenta?\nLa seño... digo, la capitana, rara vez se entusiasma por algo, así que esta es una ocasión excepcional. Ve a verla."
     },
     "l/xdBw": {
         "en-US": "[Secretary Lime Evenor]\nHer office is to the far left on the second floor.",
@@ -147,7 +147,7 @@
     "nfxdBw": {
         "en-US": "[Secretary Lime Evenor]\nWhat, did you think I was running this gig alone?\nThe Mistre--I mean, the Captain is rarely excited about anything, and this is one of those rare occasions. You should meet her.",
         "pt-BR": "[Secretária Lenore]\nO que, você achou que eu comandava tudo isso sozinha?\nA Senho... Quero dizer, a Capitã raramente se empolga, e esta é uma dessas ocasiões raras. Melhor você falar com ela.",
-        "es-ES": "[Secretario Lime Evenor]\n¿Acaso pensabas que hacía todo esto por mi cuenta?\nLa seño… digo, la capitana, rara vez se entusiasma por algo, así que esta es una ocasión excepcional. Ve a verla."
+        "es-ES": "[Secretario Lime Evenor]\n¿Acaso pensabas que hacía todo esto por mi cuenta?\nLa seño... digo, la capitana, rara vez se entusiasma por algo, así que esta es una ocasión excepcional. Ve a verla."
     },
     "nvxdBw": {
         "en-US": "[Secretary Lime Evenor]\nHer office is to the far left from here.",
@@ -237,7 +237,7 @@
     "r/xdBw": {
         "en-US": "[Nile]\nRight, about the extended excavation of Juperos...\nEverything that could be found was found already.\nThe unknown machine civilization. The hub of scientific knowledge. It's an old story.",
         "pt-BR": "[Nile]\nCerto, quanto à extensa escavação de Juperos...\nJá encontraram tudo o que era possível.\nA civilização de máquinas desconhecidas. O centro do conhecimento científico. Já é uma velha história.",
-        "es-ES": "[Nile]\nCierto, eso de la excavación ampliada en Juperos…\nYa se descubrió todo lo que había para descubrir.\nLa desconocida civilización de las máquinas. El centro del conocimiento científico. Es una historia antigua."
+        "es-ES": "[Nile]\nCierto, eso de la excavación ampliada en Juperos...\nYa se descubrió todo lo que había para descubrir.\nLa desconocida civilización de las máquinas. El centro del conocimiento científico. Es una historia antigua."
     },
     "sPxdBw": {
         "en-US": "[Nile]\nNow, why is Rekenber recruiting for yet another excavation project?\nHave you seen the new recruitment poster in our office?",
@@ -602,17 +602,17 @@
     "+PxdBw": {
         "en-US": "[Luke]\nHey, Lime.\nWe have a guest.\n...",
         "pt-BR": "[Luke]\nEi, Lenore.\nNós temos uma visita.\n...",
-        "es-ES": "[Luke]\nHola, Lime.\nTenemos una visita.\n…"
+        "es-ES": "[Luke]\nHola, Lime.\nTenemos una visita.\n..."
     },
     "+fxdBw": {
         "en-US": "[Luke]\n...\nI've got nothing to say to you.",
         "pt-BR": "[Luke]\n...\nEu não tenho nada para dizer a você.",
-        "es-ES": "[Luke]\n…\nNo tengo nada que decirte."
+        "es-ES": "[Luke]\n...\nNo tengo nada que decirte."
     },
     "+vxdBw": {
         "en-US": "[Luke]\nHmm...",
         "pt-BR": "[Luke]\nHum...",
-        "es-ES": "[Luke]\nMmm…"
+        "es-ES": "[Luke]\nMmm..."
     },
     "+/xdBw": {
         "en-US": "Manager Michelle",
@@ -647,7 +647,7 @@
     "Af1dBw": {
         "en-US": "[Manager Michelle]\nLet me check the roster.\nYour name is...{0}Ah, there you are.\nYou're from the Eden Group, all right.",
         "pt-BR": "[Gerente Michelle]\nDeixe-me verificar a lista.\nSeu nome é... {0} Ah, aqui está você.\nCerto, você é do Grupo Éden.",
-        "es-ES": "[Administradora Michelle]\nA ver, te buscaré en la lista.\nTú eres… {0}. Ah, aquí estás.\nEfectivamente, estás en el Grupo del Edén."
+        "es-ES": "[Administradora Michelle]\nA ver, te buscaré en la lista.\nTú eres... {0}. Ah, aquí estás.\nEfectivamente, estás en el Grupo del Edén."
     },
     "Av1dBw": {
         "en-US": "[Manager Michelle]\nThe excavation site is at the other end of this tunnel.\nOnce you're in, you're required to formally register yourself at the Central Command Center.",
@@ -712,7 +712,7 @@
     "Dv1dBw": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "D/1dBw": {
         "en-US": "Please be careful.",
@@ -852,7 +852,7 @@
     "Kv1dBw": {
         "en-US": "[Nara]\nEither you have a referral, or you have to be a member of an excavation team.\nI'm sorry.\nHm...",
         "pt-BR": "[Nara]\n É preciso ter uma referência ou fazer parte de uma equipe de escavação.\nSinto muito.\nHum...",
-        "es-ES": "[Nara]\nPodrás inscribirte si traes una recomendación o si perteneces a un equipo de excavación.\nLo siento.\nMmm…"
+        "es-ES": "[Nara]\nPodrás inscribirte si traes una recomendación o si perteneces a un equipo de excavación.\nLo siento.\nMmm..."
     },
     "K/1dBw": {
         "en-US": "[Nara]\nIf you don't know a place to get a referral or an excavation team,\nyou can always join the ^4D4DFFEden Group^000000.",
@@ -867,7 +867,7 @@
     "Lf1dBw": {
         "en-US": "[Nara]\nHm...\nI'm sorry, but my hands are tied.\nThis place is too dangerous for you at this moment.",
         "pt-BR": "[Nara]\nHum...\nSinto muito, mas não posso fazer nada.\nNo momento, este lugar é perigoso demais para você.",
-        "es-ES": "[Nara]\nMmm…\nLo siento, pero no puedo hacer nada.\nEn este momento, este lugar es muy peligroso para ti."
+        "es-ES": "[Nara]\nMmm...\nLo siento, pero no puedo hacer nada.\nEn este momento, este lugar es muy peligroso para ti."
     },
     "Lv1dBw": {
         "en-US": "[Nara]\nPlease come back when you become more experienced.\nYou must be at least ^4D4DFF Level 160^000000 to register with us.\nThis is necessary, or we'll just have a ragtag bunch of novices for the excavators.\nSorry.",
@@ -887,7 +887,7 @@
     "Mf1dBw": {
         "en-US": "[Nara]\nFrom the Eden Group, got it.\nMay I have your name?{0}...\nAh, there you are.",
         "pt-BR": "[Nara]\nFaz parte do Grupo Éden, entendi.\nPosso saber o seu nome? {0}...\nAh, aqui está você.",
-        "es-ES": "[Nara]\nDel Grupo del Edén, entendido.\n¿Me puedes indicar tu nombre? {0}…\nAh, ahí estás."
+        "es-ES": "[Nara]\nDel Grupo del Edén, entendido.\n¿Me puedes indicar tu nombre? {0}...\nAh, ahí estás."
     },
     "Mv1dBw": {
         "en-US": "[Nara]\nYou're a member of a separate excavation team.\nWhich excavation team do you belong?",
@@ -897,7 +897,7 @@
     "M/1dBw": {
         "en-US": "[Nara]\nAtnad... Atnad...\nOh, I've found it.\nWith you{0}, the team barely passed the minimum member requirement.\nOh, we don't discriminate against small groups. Don't worry.",
         "pt-BR": "[Nara]\nAtnad... Atnad...\nAh, encontrei.\nContando com você, {0}, a equipe passou por pouco no número mínimo de membros necessários.\nAh, não discriminamos equipes pequenas. Não se preocupe.",
-        "es-ES": "[Nara]\nAtnad… Atnad…\nAh, lo encontré.\nContigo, {0}, el equipo apenas alcanzó el mínimo de miembros necesarios.\nAh, no discriminamos a los grupos pequeños. No te preocupes."
+        "es-ES": "[Nara]\nAtnad... Atnad...\nAh, lo encontré.\nContigo, {0}, el equipo apenas alcanzó el mínimo de miembros necesarios.\nAh, no discriminamos a los grupos pequeños. No te preocupes."
     },
     "NP1dBw": {
         "en-US": "[Nara]\nWhile following the command of your excavation team leader,\nyou can also take on tasks available at the Central Command Center.",
@@ -917,7 +917,7 @@
     "N/1dBw": {
         "en-US": "[Nara]\n...{0}...?\nAre you sure that's correct?\nBecause I can't find that name on the list.",
         "pt-BR": "[Nara]\n...{0}...?\nTem certeza de que está certo?\nNão estou encontrando seu nome na lista.",
-        "es-ES": "[Nara]\n¿{0}…?\n¿Seguro que es así?\nPorque no encuentro el nombre en la lista."
+        "es-ES": "[Nara]\n¿{0}...?\n¿Seguro que es así?\nPorque no encuentro el nombre en la lista."
     },
     "OP1dBw": {
         "en-US": "[Nara]\nPlease check again.",
@@ -1001,8 +1001,8 @@
     },
     "SP1dBw": {
         "en-US": "[Ian Atnad's Voice]\n*Crackle* Hey... *Crackle* rookie...\n*Crackle* What's wrong... with this...\n*Crackle* I can't hear...\nRookie... *Crackle* Get your butt over here... *Crackle*\nHmpf! *Beep*",
-        "pt-BR": "[Voz de Ian Atnad]\n*Interferência* Ei... *Interferência* novato...\n*Interferência* Qual o problema... com essa...\n*Interferência* Eu não consigo ouvir...\nNovato... *Interferência* Venha logo para cá... *Interferência*\nHumpf! *Bip…*",
-        "es-ES": "[Voz de Ian Atnad]\n*Estática* Hola… *Estática* principiante…\n*Estática* ¿Qué le pasa… a este…?\n*Estática* No oigo nada…\nPrincipiante… *Estática* Ven aquí de una vez… *Estática*\n¡Mpf! *Bip*"
+        "pt-BR": "[Voz de Ian Atnad]\n*Interferência* Ei... *Interferência* novato...\n*Interferência* Qual o problema... com essa...\n*Interferência* Eu não consigo ouvir...\nNovato... *Interferência* Venha logo para cá... *Interferência*\nHumpf! *Bip...*",
+        "es-ES": "[Voz de Ian Atnad]\n*Estática* Hola... *Estática* principiante...\n*Estática* ¿Qué le pasa... a este...?\n*Estática* No oigo nada...\nPrincipiante... *Estática* Ven aquí de una vez... *Estática*\n¡Mpf! *Bip*"
     },
     "Sf1dBw": {
         "en-US": "[Louis]\nI'm sorry, the signals aren't usually so bad.\nI guess the doctor is looking for you.\nYou should go.",
@@ -1162,7 +1162,7 @@
     "aP1dBw": {
         "en-US": "...is what people say to make you think you feel better.\nYou don't have enough money.",
         "pt-BR": "...é o que as pessoas dizem para te fazer pensar que você está melhor.\nVocê não tem dinheiro suficiente.",
-        "es-ES": "…eso dice la gente para hacerte creer que te sientes mejor.\nNo tienes suficiente dinero."
+        "es-ES": "...eso dice la gente para hacerte creer que te sientes mejor.\nNo tienes suficiente dinero."
     },
     "af1dBw": {
         "en-US": "The old archaeologist has his back toward you, working on something.\nYou shouldn't disturb him.",
@@ -1522,7 +1522,7 @@
     "sP1dBw": {
         "en-US": "[Ian Atnad]\nIf you expect me to say thank you...",
         "pt-BR": "[Ian Atnad]\nSe está esperando que eu te agradeça...",
-        "es-ES": "[Ian Atnad]\nSi esperas que te dé las gracias…"
+        "es-ES": "[Ian Atnad]\nSi esperas que te dé las gracias..."
     },
     "sf1dBw": {
         "en-US": "[Aureth]\nYoung adventurer, stop listening to him and come to me!",
@@ -1532,7 +1532,7 @@
     "sv1dBw": {
         "en-US": "[Ian Atnad]\nHmpf. ...What are you doing? Go!",
         "pt-BR": "[Ian Atnad]\nHumpf. ...O que está fazendo? Vá!",
-        "es-ES": "[Ian Atnad]\nPff… ¿Qué estás haciendo? ¡Vete!"
+        "es-ES": "[Ian Atnad]\nPff... ¿Qué estás haciendo? ¡Vete!"
     },
     "s/1dBw": {
         "en-US": "[Ian Atnad]\nYou,\nstop goofing around and start working!",
@@ -1602,12 +1602,12 @@
     "wP1dBw": {
         "en-US": "[Ian Atnad]\nUm...\n.....!\nThis...!\nThe ground meat is juicy,\nand smoky.",
         "pt-BR": "[Ian Atnad]\nHum...\n.....!\nIsso...!\nA carne moída é suculenta,\ne defumada.",
-        "es-ES": "[Ian Atnad]\nEh…\n¡…!\n¡Es…!\nLa carne picada es jugosa\ny está ahumada."
+        "es-ES": "[Ian Atnad]\nEh...\n¡...!\n¡Es...!\nLa carne picada es jugosa\ny está ahumada."
     },
     "wf1dBw": {
         "en-US": "[Ian Atnad]\nAnd the blend of exotic fruits and vegetables keeps the oiliness in check.\n...!",
         "pt-BR": "[Ian Atnad]\nE a mistura de frutas exóticas e vegetais controla a oleosidade.\n...!",
-        "es-ES": "[Ian Atnad]\nY la mezcla de frutas y verduras exóticas otorga la oleosidad ideal.\n¡…!"
+        "es-ES": "[Ian Atnad]\nY la mezcla de frutas y verduras exóticas otorga la oleosidad ideal.\n¡...!"
     },
     "wv1dBw": {
         "en-US": "Now, try the leafy wrap.",
@@ -1637,12 +1637,12 @@
     "x/1dBw": {
         "en-US": "[Ian Atnad]\n...That.\nI see.\nCould you give me some time?\n....",
         "pt-BR": "[Ian Atnad]\n...Isso.\nEntendo.\nPode me dar um tempo?\n....",
-        "es-ES": "[Ian Atnad]\n…Eso.\nYa veo.\n¿Me puedes dar un tiempo?\n…"
+        "es-ES": "[Ian Atnad]\n...Eso.\nYa veo.\n¿Me puedes dar un tiempo?\n..."
     },
     "yP1dBw": {
         "en-US": "[Ian Atnad]\nI need to put my thoughts in order.\n...\nPlease\ncome back later.",
         "pt-BR": "[Ian Atnad]\nPreciso colocar meus pensamentos em ordem.\n...\nPor favor,\nvolte mais tarde.",
-        "es-ES": "[Ian Atnad]\nQuiero ordenar mis ideas.\n…\nPor favor,\nvuelve más tarde."
+        "es-ES": "[Ian Atnad]\nQuiero ordenar mis ideas.\n...\nPor favor,\nvuelve más tarde."
     },
     "yf1dBw": {
         "en-US": "[Ian Atnad]\nWhy,\nare you giving up?\nYou'd better not be.\nI thought you were better than that.",
@@ -1697,12 +1697,12 @@
     "0/1dBw": {
         "en-US": "[Ian Atnad]\nNeither could Arquien.\nShe couldn't wait long enough.\nSigh...",
         "pt-BR": "[Ian Atnad]\nAssim como a Arquien.\nEla não pode esperar o suficiente.\n*suspiro*",
-        "es-ES": "[Ian Atnad]\nArquien fue igual.\nEstaba muy ansiosa.\n*Suspira…*"
+        "es-ES": "[Ian Atnad]\nArquien fue igual.\nEstaba muy ansiosa.\n*Suspira...*"
     },
     "1P1dBw": {
         "en-US": "[Ian Atnad]\nYou brought the right things.\n...\nWhat are you looking at?\nPut them on the ground, and leave.",
         "pt-BR": "[Ian Atnad]\nVocê trouxe as coisas certas.\n...\nO que você está olhando?\nColoque no chão e caia fora.",
-        "es-ES": "[Ian Atnad]\nTodo lo que trajiste está bien.\n…\n¿Qué estás mirando?\nPonlo en el suelo y vete."
+        "es-ES": "[Ian Atnad]\nTodo lo que trajiste está bien.\n...\n¿Qué estás mirando?\nPonlo en el suelo y vete."
     },
     "1f1dBw": {
         "en-US": "[Ian Atnad]\n...I'll try not to break them so easily this time.\nI'll start the restoration process soon.",
@@ -1717,7 +1717,7 @@
     "1/1dBw": {
         "en-US": "[Ian Atnad]\nWhat do you have to do today?\nGet Power Control Devices, as usual.\n...\nIf you don't want to do it, then you don't have to.",
         "pt-BR": "[Ian Atnad]\nO que você tem que fazer hoje?\nPegar os Núcleos de Energia, como sempre.\n...\nSe você não quiser, então não precisa.",
-        "es-ES": "[Ian Atnad]\n¿Qué tienes para hacer hoy?\nConsigue Dispositivos de Energía como siempre.\n…\nSi no quieres, no hace falta que lo hagas."
+        "es-ES": "[Ian Atnad]\n¿Qué tienes para hacer hoy?\nConsigue Dispositivos de Energía como siempre.\n...\nSi no quieres, no hace falta que lo hagas."
     },
     "2P1dBw": {
         "en-US": "I'll bring Power Control Devices.",
@@ -1767,7 +1767,7 @@
     "4f1dBw": {
         "en-US": "[Ian Atnad]\nI need more time.\n...",
         "pt-BR": "[Ian Atnad]\nPreciso de mais tempo.\n...",
-        "es-ES": "[Ian Atnad]\nNecesito más tiempo.\n…"
+        "es-ES": "[Ian Atnad]\nNecesito más tiempo.\n..."
     },
     "4v1dBw": {
         "en-US": "[Ian Atnad]\nWhile working for us, you should explore the site on your own.\nAn opportunity like this doesn't come easily.",
@@ -1782,7 +1782,7 @@
     "5P1dBw": {
         "en-US": "[Luke]\n...?\nInteresting.\nHe wants something ready to eat, juicy, refreshing, and clean-tasting?",
         "pt-BR": "[Luke]\n...?\nInteressante.\nEle quer algo pronto para comer, suculento, refrescante e que limpe o paladar.",
-        "es-ES": "[Luke]\n¿…?\nInteresante.\n¿Quiere algo listo para comer, jugoso, refrescante y apetitoso?"
+        "es-ES": "[Luke]\n¿...?\nInteresante.\n¿Quiere algo listo para comer, jugoso, refrescante y apetitoso?"
     },
     "5f1dBw": {
         "en-US": "[Luke]\nWell, I've got an idea. Bring me some ingredients, and I'll cook something for you.\nI'm pretty sure it'll fit the bill.",
@@ -1827,7 +1827,7 @@
     "7f1dBw": {
         "en-US": "[Luke]\nSome of the fruits grow near the ^4D4DFFMisty Forest Labyrinth^000000.\n...",
         "pt-BR": "[Luke]\nAlgumas das frutas crescem perto do ^4D4DFFLabirinto da Neblina^000000.\n...",
-        "es-ES": "[Luke]\nAlgunas frutas crecen cerca del ^4D4DFFLaberinto del Bosque Brumoso^000000.\n…"
+        "es-ES": "[Luke]\nAlgunas frutas crecen cerca del ^4D4DFFLaberinto del Bosque Brumoso^000000.\n..."
     },
     "7v1dBw": {
         "en-US": "[Luke]\n*Chuckle*\nIf you need more, it'll be easier to buy it from the Mora Village.\nDo whatever it takes to win favor with that old man.",
@@ -1987,7 +1987,7 @@
     "Df5dBw": {
         "en-US": "[Lloyd]\nI'm analyzing the collected energy.\n...",
         "pt-BR": "[Lloyd]\nEstou analisando a energia coletada.\n...",
-        "es-ES": "[Lloyd]\nEstoy analizando la energía recolectada.\n…"
+        "es-ES": "[Lloyd]\nEstoy analizando la energía recolectada.\n..."
     },
     "Dv5dBw": {
         "en-US": "[Lloyd]\nAre you dense?\nThat means I want to be left alone!",
@@ -2092,7 +2092,7 @@
     "Iv5dBw": {
         "en-US": "Verus City, Verus Town, Verus Plaza...",
         "pt-BR": "Cidade de Verus, Praça de Verus...",
-        "es-ES": "Ciudad, pueblo y plaza de Verus…"
+        "es-ES": "Ciudad, pueblo y plaza de Verus..."
     },
     "I/5dBw": {
         "en-US": "There are two districts that remain unaccessible.",
@@ -2177,7 +2177,7 @@
     "M/5dBw": {
         "en-US": "But I can't help but think Rekenber has a hidden agenda. I'm not trying to be unappreciative, but...",
         "pt-BR": "Mas não consigo parar de pensar que a Rekenber deve ter um motivo oculto. Não quero ser ingrato, mas...",
-        "es-ES": "Pero no puedo evitar pensar que Rekenber tiene otras intenciones. No quiero que suene a ingratitud, pero…"
+        "es-ES": "Pero no puedo evitar pensar que Rekenber tiene otras intenciones. No quiero que suene a ingratitud, pero..."
     },
     "NP5dBw": {
         "en-US": "Let's focus on the present for now.",
@@ -2207,7 +2207,7 @@
     "Of5dBw": {
         "en-US": "Um...",
         "pt-BR": "Hum...",
-        "es-ES": "Eh…"
+        "es-ES": "Eh..."
     },
     "Ov5dBw": {
         "en-US": "Some frozen food. I'm just going to eat the bread I saved yesterday.",
@@ -2242,7 +2242,7 @@
     "QP5dBw": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "Qf5dBw": {
         "en-US": "Um, aren't you guys hungry?",

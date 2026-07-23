@@ -321,5 +321,9 @@ SPRITE_ROBE_IDs = {
 	ROBE_C_Tassie_Anchor = 321,
 	ROBE_C_Gerero_Spear = 322,
 	ROBE_C_S_Thanatos_Wing = 323,
-	ROBE_C_Tuna_Fishing = 324
+	ROBE_C_Tuna_Fishing = 324,
+	ROBE_C_2026RosFesta_1st = 325,
+	ROBE_C_2026RosFesta_2nd = 326,
+	ROBE_C_2026RosFesta_3rd = 327,
+	ROBE_C_2026RosFesta_4th = 328
 }

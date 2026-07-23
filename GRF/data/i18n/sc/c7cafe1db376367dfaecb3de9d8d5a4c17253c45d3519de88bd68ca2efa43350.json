@@ -37,7 +37,7 @@
     "R9q6Ag": {
         "en-US": "[Archer Guildsman]\nErr...\nYou'd better learn all the Basic Skills first before you can become an Archer.",
         "pt-BR": "[Líder dos Arqueiros]\nErr...\nÉ melhor você aprender todas as Habilidades Básicas antes de se juntar à nós.",
-        "es-ES": "[Arquero Gremial]\nEh…\nSerá mejor que aprendas primero todas las habilidades básicas antes de ser de la clase Arquero."
+        "es-ES": "[Arquero Gremial]\nEh...\nSerá mejor que aprendas primero todas las habilidades básicas antes de ser de la clase Arquero."
     },
     "SNq6Ag": {
         "en-US": "[Archer Guildsman]\nAlright, see you later.",
@@ -47,7 +47,7 @@
     "Sdq6Ag": {
         "en-US": "[Archer Guildsman]\nWell then. I don't need to say anything else.\nI know you'll make a great Archer...",
         "pt-BR": "[Líder dos Arqueiros]\nBem, é isso. Não preciso dizer mais nada.\nSei que você será excepcional no Arco e Flecha...",
-        "es-ES": "[Arquero Gremial]\nEn ese caso, no necesito decir nada más.\nSé que representarás muy bien a la clase Arquero…"
+        "es-ES": "[Arquero Gremial]\nEn ese caso, no necesito decir nada más.\nSé que representarás muy bien a la clase Arquero..."
     },
     "Stq6Ag": {
         "en-US": "[Archer Guildsman]\nAlthough there's no special\nreward for you this time, I hope you understand. Take care of yourself.",
@@ -57,12 +57,12 @@
     "S9q6Ag": {
         "en-US": "[Archer Guildsman]\nPlease get off of that creature you're riding on\nthen come to find me again...\nOkay.",
         "pt-BR": "[Líder dos Arqueiros]\nPor favor, saia da sua montaria\ne venha me encontrar novamente...\nCerto.",
-        "es-ES": "[Arquero Gremial]\nBájate de la criatura que estás montando\ny ven a buscarme nuevamente…\nDe acuerdo."
+        "es-ES": "[Arquero Gremial]\nBájate de la criatura que estás montando\ny ven a buscarme nuevamente...\nDe acuerdo."
     },
     "TNq6Ag": {
         "en-US": "[Archer Guildsman]\nHaven't you met an archer before?\nKeep go on your way.\nI'm a special...\nOoops.. this is not what I meant...?",
         "pt-BR": "[Líder dos Arqueiros]\nVocê nunca viu um Arqueiro antes?\nContinue em seu caminho.\nEu sou meio especial...\nOps... não foi isso que eu quis dizer...",
-        "es-ES": "[Arquero Gremial]\n¿Nunca habías visto a un Arquero?\nSigue tu camino.\nSoy especial…\nUps… Eso no es lo que quise decir."
+        "es-ES": "[Arquero Gremial]\n¿Nunca habías visto a un Arquero?\nSigue tu camino.\nSoy especial...\nUps... Eso no es lo que quise decir."
     },
     "Tdq6Ag": {
         "en-US": "[Archer Guildsman]\nNevermind what I told you.\nYou heard wrong.",
@@ -122,7 +122,7 @@
     "WNq6Ag": {
         "en-US": "[Archer Guildsman]\nYou are... {0}. right?",
         "pt-BR": "[Líder dos Arqueiros]\nVocê é... {0}, certo?",
-        "es-ES": "[Arquero Gremial]\nEres… {0}, ¿cierto?"
+        "es-ES": "[Arquero Gremial]\nEres... {0}, ¿cierto?"
     },
     "Wdq6Ag": {
         "en-US": "[Archer Guildsman]\nWell, you're not at the right skill level.\nYour job level must be at least ^4D4DFF10^000000\nand your Basic Skill level should reach ^4D4DFFlevel 9^000000",
@@ -137,7 +137,7 @@
     "W9q6Ag": {
         "en-US": "[Archer Guildsman]\nYour Basic Skill is now enough..\n....Hm~~ so you are now ready to be an Archer. I will take the step right away.",
         "pt-BR": "[Líder dos Arqueiros]\nSuas Habilidades Básicas agora são suficientes...\n....Hum~~ então agora você está pronto para se juntar aos Arqueiros. Vamos fazer isso imediatamente.",
-        "es-ES": "[Arquero Gremial]\nTu habilidad básica es suficiente ahora…\nMmm... Así que ahora tienes todo para ser de la clase Arquero. Este cambio será inmediato."
+        "es-ES": "[Arquero Gremial]\nTu habilidad básica es suficiente ahora...\nMmm... Así que ahora tienes todo para ser de la clase Arquero. Este cambio será inmediato."
     },
     "XNq6Ag": {
         "en-US": "[Archer Guildsman]\nCongratulations! You are now an Archer! Also, we hope that you actively participate in many programs for the revival of the Archer Guild.\nAh, items have arrived from the Production Department. Here, take these! These are all yours!",
@@ -172,7 +172,7 @@
     "Ytq6Ag": {
         "en-US": "[Archer Guildsman]\nHaha, you are kidding me..",
         "pt-BR": "[Líder dos Arqueiros]\nHaha, você está brincando comigo...",
-        "es-ES": "[Arquero Gremial]\nJa, ja, me estás tomando el pelo…"
+        "es-ES": "[Arquero Gremial]\nJa, ja, me estás tomando el pelo..."
     },
     "Y9q6Ag": {
         "en-US": "[Archer Guildsman]\nI feel sorry but only Novices can change their job.\nYou already have your own decent job, don't you?",

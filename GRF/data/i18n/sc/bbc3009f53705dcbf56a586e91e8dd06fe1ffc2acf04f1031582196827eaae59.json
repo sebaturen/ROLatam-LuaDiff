@@ -12,7 +12,7 @@
     "4sGXAg": {
         "en-US": "[Tourist]\n...........",
         "pt-BR": "[Turista]\n...........",
-        "es-ES": "[Turista]\n…………"
+        "es-ES": "[Turista]\n............"
     },
     "48GXAg": {
         "en-US": "[Tourist]\nYou're that meanie...",
@@ -57,7 +57,7 @@
     "68GXAg": {
         "en-US": "[Tourist]\nYes.\nWell, actually...",
         "pt-BR": "[Turista]\nSim.\nBem, na verdade...",
-        "es-ES": "[Turista]\nSí.\nBueno, en realidad…"
+        "es-ES": "[Turista]\nSí.\nBueno, en realidad..."
     },
     "7MGXAg": {
         "en-US": "[Tourist]\nI wanted to give my girlfriend\nsome well baked cookies.\nSadly, in my hometown of\nMorroc, we don't have fancy\nfoods like that.",
@@ -92,7 +92,7 @@
     "8sGXAg": {
         "en-US": "[Tourist]\nUmm...\nBefore we talk about that help...\nEr, hmmmm...\nWell, you know I'm pretty\nmuch starving to death now...",
         "pt-BR": "[Turista]\nHumm...\nAntes de falarmos sobre essa ajuda...\nEr, hmmmm...\nBem, você sabe que estou\npraticamente morrendo de fome agora...",
-        "es-ES": "[Turista]\nMmm…\nAntes de hablar de ese pedido de ayuda...\nMmm...\nBueno, verás que, prácticamente,\nme estoy muriendo de hambre ahora..."
+        "es-ES": "[Turista]\nMmm...\nAntes de hablar de ese pedido de ayuda...\nMmm...\nBueno, verás que, prácticamente,\nme estoy muriendo de hambre ahora..."
     },
     "88GXAg": {
         "en-US": "[Tourist]\nCould you please get me some Meat?\nI know I'm asking you too much,\nbut I'm pretty much penniless\nso I don't really have much\nof a choice...",
@@ -122,7 +122,7 @@
     "+MGXAg": {
         "en-US": "[Tourist]\nI see...I can understand that you\ncan't help me. It's alright...\nIt's not like I have the right\nto demand anything of you...\nBut...",
         "pt-BR": "[Turista]\nEntendo... Posso entender que você\nnão pode me ajudar. Está tudo bem...\nNão é que eu tenha o direito\nde exigir algo de você...\nMas...",
-        "es-ES": "[Turista]\nYa veo... entiendo que\nno puedas ayudarme. Está bien...\nNo es que tenga derecho\na exigirte nada...\nPero…"
+        "es-ES": "[Turista]\nYa veo... entiendo que\nno puedas ayudarme. Está bien...\nNo es que tenga derecho\na exigirte nada...\nPero..."
     },
     "+cGXAg": {
         "en-US": "[Tourist]\n*Sob*...so... hungry...",
@@ -137,12 +137,12 @@
     "+8GXAg": {
         "en-US": "[Tourist]\nI appreciate that you're\nhelping me out of the\ngoodness of your heart,\nbut...",
         "pt-BR": "[Turista]\nAgradeço por estar\nme ajudando com a\nbondade de seu coração,\nmas...",
-        "es-ES": "[Turista]\nAgradezco que\nme ayudes desde\nla bondad de tu corazón,\npero…"
+        "es-ES": "[Turista]\nAgradezco que\nme ayudes desde\nla bondad de tu corazón,\npero..."
     },
     "/MGXAg": {
         "en-US": "[Tourist]\nWhat are you...\nCheap?! You can feed\na starving man more\nthan this...bring me\nmore Meat!",
         "pt-BR": "[Turista]\nO que você é...\nBarato?! Você pode alimentar\num homem faminto mais\ndo que isso... traga-me\nmais carne!",
-        "es-ES": "[Turista]\n¿Qué estás…?\n¡¿Miserable?! Puedes alimentar\na un hombre que se muere de hambre\ncon algo más que esto... ¡tráeme\nmás Carne!"
+        "es-ES": "[Turista]\n¿Qué estás...?\n¡¿Miserable?! Puedes alimentar\na un hombre que se muere de hambre\ncon algo más que esto... ¡tráeme\nmás Carne!"
     },
     "/cGXAg": {
         "en-US": "[Tourist]\nI appreciate you bringing\nall this for me but...",
@@ -167,12 +167,12 @@
     "AcKXAg": {
         "en-US": "[Tourist]\n*Phew*...thanks.\nAt long last...\nI feel stuffed.\n...Oh. Right.\nMy girlfriend.",
         "pt-BR": "[Turista]\n*Obrigado.\nFinalmente...\nEstou me sentindo satisfeito.\n...Oh. Pois é.\nMinha namorada.",
-        "es-ES": "[Turista]\n*Uf*... gracias.\nPor fin...\nEstoy lleno.\n…¡Oh! Bien.\nMi novia."
+        "es-ES": "[Turista]\n*Uf*... gracias.\nPor fin...\nEstoy lleno.\n...¡Oh! Bien.\nMi novia."
     },
     "AsKXAg": {
         "en-US": "[Tourist]\nEr...about the well-baked\ncookie I told you about? Um... I\nknow I'm being rude and selfish\n...But I don't think I can find\nit on my own.",
         "pt-BR": "[Turista]\nEr... sobre o biscoito bem assado\nbiscoito que eu lhe falei? Hum... eu\nsei que estou sendo rude e egoísta\n...mas acho que não consigo encontrá-lo\nsozinho.",
-        "es-ES": "[Turista]\nMmm... en cuanto a la galleta\nbien cocida de la que te hablé Eh… Sé\nque voy a sonar grosero y egoísta\n... Pero no creo que pueda encontrarla\npor mi cuenta."
+        "es-ES": "[Turista]\nMmm... en cuanto a la galleta\nbien cocida de la que te hablé Eh... Sé\nque voy a sonar grosero y egoísta\n... Pero no creo que pueda encontrarla\npor mi cuenta."
     },
     "A8KXAg": {
         "en-US": "[Tourist]\nSo, could you bring me ^0000FF20 Well-baked Cookies^000000?",
@@ -307,7 +307,7 @@
     "HcKXAg": {
         "en-US": "[Tourist]\nI'm crazy enough to walk all\nway back to Morroc...\n...\n...unless...\nYou'll gimme a piggy-back ride?",
         "pt-BR": "[Turista]\nSou louco o suficiente para andar todo o\ncaminho de volta para Morroc...\n...\n...a menos que...\nVocê pode me dar uma carona?",
-        "es-ES": "[Turista]\nEstoy tan loco como para volver\ncaminando a Morroc...\n…\n...a menos que...\n¿Me llevarías a caballito?"
+        "es-ES": "[Turista]\nEstoy tan loco como para volver\ncaminando a Morroc...\n...\n...a menos que...\n¿Me llevarías a caballito?"
     },
     "HsKXAg": {
         "en-US": "[Tourist]\n...kidding. I'm not that\nbig of a jerk, I guess.\nTry not to look so\nsurprised!",
@@ -317,7 +317,7 @@
     "H8KXAg": {
         "en-US": "[Tourist]\nWhere am I...?\n...Who am I?",
         "pt-BR": "[Turista]\nOnde estou...?\n...Quem sou eu?",
-        "es-ES": "[Turista]\n¿Dónde estoy…?\n...¿Quién soy?"
+        "es-ES": "[Turista]\n¿Dónde estoy...?\n...¿Quién soy?"
     },
     "IMKXAg": {
         "en-US": "[Tourist]\n.........",
@@ -327,7 +327,7 @@
     "IcKXAg": {
         "en-US": "[Tourist]\n.....",
         "pt-BR": "[Turista]\n.....",
-        "es-ES": "[Turista]\n……"
+        "es-ES": "[Turista]\n......"
     },
     "IsKXAg": {
         "en-US": "[Tourist]\nMahahahahahaha!!",
@@ -342,7 +342,7 @@
     "JMKXAg": {
         "en-US": "[Tourist]\nWait...\nI have a girlfriend...\nand...and...\ncookies...?\nI feel sooo lost...",
         "pt-BR": "[Turista]\nEspere...\nEu tenho uma namorada...\ne... e...\nbiscoitos...?\nEu me sinto tão perdido...",
-        "es-ES": "[Turista]\nEspera…\nTengo una novia...\ny... y...\n¿galletas...?\nMe siento taaan perdido..."
+        "es-ES": "[Turista]\nEspera...\nTengo una novia...\ny... y...\n¿galletas...?\nMe siento taaan perdido..."
     },
     "JcKXAg": {
         "en-US": "^3355FFWe don't talk to crazy people~^000000",
@@ -527,7 +527,7 @@
     "ScKXAg": {
         "en-US": "[Tommy]\n.......\nI know you always lie to Mommy.",
         "pt-BR": "[Tommy]\n.......\nEu sei que você sempre mente para a mamãe.",
-        "es-ES": "[Tommy]\n……\nSé que siempre le mientes a mami."
+        "es-ES": "[Tommy]\n......\nSé que siempre le mientes a mami."
     },
     "SsKXAg": {
         "en-US": "[Jacob]\n..........\nNo no no no no...that's not\nconsidered lying, Tommy.\nI am just trying to make it sound better to Mommy~",
@@ -537,7 +537,7 @@
     "S8KXAg": {
         "en-US": "[Tommy]\n.......",
         "pt-BR": "[Tommy]\n.......",
-        "es-ES": "[Tommy]\n……"
+        "es-ES": "[Tommy]\n......"
     },
     "TMKXAg": {
         "en-US": "^3355FFHe looks at his father in\ndoubt. Kids are too smart\nto lie to nowadays...^000000",
@@ -952,7 +952,7 @@
     "nsKXAg": {
         "en-US": "[Elder Creek]\n...\nGet out of my sight,\nyou greedy fool.",
         "pt-BR": "[Elder Creek]\n...\nSaia de minha vista,\nseu tolo ganancioso.",
-        "es-ES": "[Arroyo Viejo]\n…\nEres una persona tonta y codiciosa.\nFuera de mi vista."
+        "es-ES": "[Arroyo Viejo]\n...\nEres una persona tonta y codiciosa.\nFuera de mi vista."
     },
     "n8KXAg": {
         "en-US": "[Elder Creek]\nBah! The more ignorant they are, the more arrogantly they act!\nDid you think that I would accept just any meaning?\nTake care, you ignorant fool.",
@@ -982,7 +982,7 @@
     "pMKXAg": {
         "en-US": "[Elder Creek]\n.....\nDid you think that I would accept just any meaning??\nTake care, you ignorant fool.",
         "pt-BR": "[Elder Creek]\n.....\nVocê achou que eu aceitaria qualquer significado?\nCuide-se, seu tolo ignorante.",
-        "es-ES": "[Arroyo Viejo]\n……\n¿Creías que aceptaría cualquier significado?\nCuídate, idiota ignorante."
+        "es-ES": "[Arroyo Viejo]\n......\n¿Creías que aceptaría cualquier significado?\nCuídate, idiota ignorante."
     },
     "pcKXAg": {
         "en-US": "[Elder Creek]\nI see. I have been trying to help\nother people who need advice in\norder to improve their lives.",
@@ -1082,7 +1082,7 @@
     "uMKXAg": {
         "en-US": "[Elder Creek]\nThey are too greedy to be in that\nposition and they don't have\ntheir priorities straight.\nInstead of improving the world, they use their power to only help themselves.",
         "pt-BR": "[Elder Creek]\nEles são muito gananciosos para estar nessa\nposição e não têm\nsuas prioridades corretas.\nEm vez de melhorar o mundo, eles usam seu poder apenas para ajudar a si mesmos.",
-        "es-ES": "[Arroyo Viejo]\n… tienen demasiada codicia para estar en ese\nlugar y no tienen\nlas prioridades ordenadas.\nEn lugar de mejorar el mundo, utilizan su poder para ayudarse a sí mismas."
+        "es-ES": "[Arroyo Viejo]\n... tienen demasiada codicia para estar en ese\nlugar y no tienen\nlas prioridades ordenadas.\nEn lugar de mejorar el mundo, utilizan su poder para ayudarse a sí mismas."
     },
     "ucKXAg": {
         "en-US": "[Elder Creek]\nIf I were them, I wouldn't want to\nrule the world in that way.",
@@ -1097,7 +1097,7 @@
     "u8KXAg": {
         "en-US": "[Elder Creek]\n.....I apologize for being short\ntempered. I just wanted to let\nyou know that money is not everything. But, it is something you need to live.",
         "pt-BR": "[Elder Creek]\n.....Peço desculpas por ter sido\nde temperamento. Eu só queria lhe dizer\nque o dinheiro não é tudo. Mas é algo de que você precisa para viver.",
-        "es-ES": "[Arroyo Viejo]\n… Pido disculpas por ser tan\nirritable. Solo quería que\nsupieras que el dinero no lo es todo. Pero es algo que necesitas para vivir."
+        "es-ES": "[Arroyo Viejo]\n... Pido disculpas por ser tan\nirritable. Solo quería que\nsupieras que el dinero no lo es todo. Pero es algo que necesitas para vivir."
     },
     "vMKXAg": {
         "en-US": "[Elder Creek]\nI'm aware that greedy people\nridicule this belief, saying\nthat it is a poor man's effort\nto protect his pride.",
@@ -1162,7 +1162,7 @@
     "yMKXAg": {
         "en-US": "[Elder Creek]\n....anyway, that is all.\nI hope you will be happy\nwith my wise advice.",
         "pt-BR": "[Elder Creek]\n....anyway, that is all.\nEspero que você fique feliz\ncom meus sábios conselhos.",
-        "es-ES": "[Arroyo Viejo]\n… En fin, eso es todo.\nEspero que seas feliz\ncon mis sabios consejos."
+        "es-ES": "[Arroyo Viejo]\n... En fin, eso es todo.\nEspero que seas feliz\ncon mis sabios consejos."
     },
     "ycKXAg": {
         "en-US": "[Elder Creek]\nThat's an agonizing thought for every young person.\nBut you have a lot time to think about what you want to do in the future.",
@@ -1177,12 +1177,12 @@
     "y8KXAg": {
         "en-US": "[Elder Creek]\nThen, you will realize what you really want to do.\n....that's all I can say.\nI hope you will be happy with my wise advice.",
         "pt-BR": "[Elder Creek]\nEntão, você perceberá o que realmente quer fazer.\n.... É tudo o que posso dizer.\nEspero que você fique feliz com meu sábio conselho.",
-        "es-ES": "[Arroyo Viejo]\nEntonces, te darás cuenta de lo que realmente quieres hacer.\n… Eso es todo lo que puedo decir.\nEspero que te sirvan mis sabios consejos."
+        "es-ES": "[Arroyo Viejo]\nEntonces, te darás cuenta de lo que realmente quieres hacer.\n... Eso es todo lo que puedo decir.\nEspero que te sirvan mis sabios consejos."
     },
     "zMKXAg": {
         "en-US": "[Elder Creek]\n....\nI see, you chose the wrong answer in the first place.",
         "pt-BR": "[Elder Creek]\n....\nEntendo, você escolheu a resposta errada em primeiro lugar.",
-        "es-ES": "[Arroyo Viejo]\n…\nYa veo, elegiste la respuesta equivocada desde el principio."
+        "es-ES": "[Arroyo Viejo]\n...\nYa veo, elegiste la respuesta equivocada desde el principio."
     },
     "zcKXAg": {
         "en-US": "[Elder Creek]\nI believe this will be a lesson to be more honest with yourself.\nChoose the right answer next time!",
@@ -1232,7 +1232,7 @@
     "1sKXAg": {
         "en-US": "[Elder Creek]\nIt's not a hard thing to do.\nThat is...",
         "pt-BR": "[Elder Creek]\nNão é uma coisa difícil de fazer.\nIsto é...",
-        "es-ES": "[Arroyo Viejo]\nNo es difícil.\nEs decir…"
+        "es-ES": "[Arroyo Viejo]\nNo es difícil.\nEs decir..."
     },
     "18KXAg": {
         "en-US": "[Elder Creek]\n10 Brigan,\n15 Clam Shell,\n10 Crab Shell\nand 50 Cyfar.",
@@ -1427,7 +1427,7 @@
     "/cKXAg": {
         "en-US": "[Tommy]\nHeh~!\nI'm so happy~\nWe're gonna get a Munak~!\nHeh heh heh~!",
         "pt-BR": "[Tommy]\nHeh~!\nEstou tão feliz!\nVamos ganhar um Munak~!\nHeh heh heh~!",
-        "es-ES": "[Tommy]\n¡Je!\nEstoy tan feliz…\n¡Vamos a tener un Munak!\nJe, je, je"
+        "es-ES": "[Tommy]\n¡Je!\nEstoy tan feliz...\n¡Vamos a tener un Munak!\nJe, je, je"
     },
     "/sKXAg": {
         "en-US": "[Tommy]\nHeh~!\nI am so happy~\nWe're gonna get a Munak~!\nHeh heh heh~!",

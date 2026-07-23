@@ -242,7 +242,7 @@
     "sCgtBw": {
         "en-US": "[Prince Croix]\nGeneral Guillaume may have an advantage in this battle as he is the great general of Maroll, but that doesn't automatically mean he'll win.\nI want to win this battle so that I can bring prosperity to the people of Maroll. They've suffered enough from war...",
         "pt-BR": "[Príncipe Croix]\nO General Guillaume pode ter vantagem nesta batalha, já que é o grande general de Maroll, mas isso não quer dizer que fatalmente ele vá vencer.\nQuero vencer esta batalha para poder trazer prosperidade ao povo de Maroll. Eles já sofreram demais com a guerra...",
-        "es-ES": "[Príncipe Croix]\nEl general Guillaume puede tener ventaja en esta batalla por ser el gran general de Maroll, pero eso no quiere decir que tenga la victoria asegurada.\nQuiero ganar esta batalla para poder traer prosperidad al pueblo de Maroll. Ya han sufrido bastante con la guerra…"
+        "es-ES": "[Príncipe Croix]\nEl general Guillaume puede tener ventaja en esta batalla por ser el gran general de Maroll, pero eso no quiere decir que tenga la victoria asegurada.\nQuiero ganar esta batalla para poder traer prosperidad al pueblo de Maroll. Ya han sufrido bastante con la guerra..."
     },
     "sSgtBw": {
         "en-US": "[Prince Croix]\nFor Maroll!",
@@ -317,7 +317,7 @@
     "vygtBw": {
         "en-US": "[General Guillaume]\nHe's too naive to understand the reality....\nI can't leave Maroll to someone like him who lives in a dream!",
         "pt-BR": "[General Guillaume]\nEle é ingênuo demais para entender a realidade...\nNão posso deixar Maroll nas mãos de alguém como ele, que vive em um sonho!",
-        "es-ES": "[General Guillaume]\nEs demasiado ingenuo para entender la realidad…\n¡No puedo dejar Maroll en manos de alguien que vive en un mundo de fantasía!"
+        "es-ES": "[General Guillaume]\nEs demasiado ingenuo para entender la realidad...\n¡No puedo dejar Maroll en manos de alguien que vive en un mundo de fantasía!"
     },
     "wCgtBw": {
         "en-US": "[General Guillaume]\nHis unrealistic beliefs will drown this country in poverty and make the people weak. If he becomes the king, Maroll will never rest from the onslaughts of other countries.\nI want to teach him what makes this small country so powerful and prosperous. It's military power!",
@@ -562,7 +562,7 @@
     "8CgtBw": {
         "en-US": "Actually, I do have some items...",
         "pt-BR": "Na verdade, eu tenho alguns itens...",
-        "es-ES": "Sí, tengo algunos objetos…"
+        "es-ES": "Sí, tengo algunos objetos..."
     },
     "8SgtBw": {
         "en-US": "None at the moment.",
@@ -582,7 +582,7 @@
     "9CgtBw": {
         "en-US": "[Repairman]\nHmm...\nLet's see...\nOut of all your items,\n{0} are damaged.",
         "pt-BR": "[Reparador]\nHmm...\nVamos ver...\nDe todos os seus itens,\n{0} está danificado.",
-        "es-ES": "[Reparador]\nMmm…\nVeamos…\nDe todos tus artículos,\n{0} están dañados."
+        "es-ES": "[Reparador]\nMmm...\nVeamos...\nDe todos tus artículos,\n{0} están dañados."
     },
     "9SgtBw": {
         "en-US": "[Repairman]\nNow each repair costs 5000 Zeny, so to repair everything would cost {0} Zeny. Would you like to repair these items?",
@@ -592,7 +592,7 @@
     "9igtBw": {
         "en-US": "[Repairman]\nHmmm...\nYou need to check\nyour wallet more\noften. I can't repair\nanything if you can't\npay me for my service!",
         "pt-BR": "[Reparador]\nHmmm...\nVocê precisa verificar\nsua carteira com mais\nfrequência. Não posso consertar\nnada se você não puder\nme pagar pelo meu serviço!",
-        "es-ES": "[Reparador]\nMmmm…\nDebes revisar\ntu billetera\nmás a menudo. ¡No puedo reparar\nnada si no puedes\npagar mi servicio!"
+        "es-ES": "[Reparador]\nMmmm...\nDebes revisar\ntu billetera\nmás a menudo. ¡No puedo reparar\nnada si no puedes\npagar mi servicio!"
     },
     "9ygtBw": {
         "en-US": "[Repairman]\nOk! All done.\nBe a little more careful.\nItems have lives too you know..",
@@ -602,16 +602,16 @@
     "+CgtBw": {
         "en-US": "[Repairman]\nMmm...?\nSomething's wrong.\nEquip the items you\nneed repaired and\ncome back.",
         "pt-BR": "[Reparador]\nMmm...?\nAlguma coisa está errada.\nEquipe os itens que você\nprecisa consertar e\nvolte.",
-        "es-ES": "[Reparador]\n¿Mmm…?\nAlgo está mal.\nEquipa los objetos\nque necesitas reparar\ny vuelve."
+        "es-ES": "[Reparador]\n¿Mmm...?\nAlgo está mal.\nEquipa los objetos\nque necesitas reparar\ny vuelve."
     },
     "+SgtBw": {
         "en-US": "[Repairman]\nHmm...\nIt doesn't matter to me, but it's not good to leave items damaged. You should get them repaired as soon as possible!",
         "pt-BR": "[Reparador]\nHmm...\nNão importa para mim, mas não é bom deixar os itens danificados. Você deve consertá-los o mais rápido possível!",
-        "es-ES": "[Reparador]\nMmm…\nA mí no me importa, pero no está bien dejar los objetos rotos. ¡Debes repararlos lo antes posible!"
+        "es-ES": "[Reparador]\nMmm...\nA mí no me importa, pero no está bien dejar los objetos rotos. ¡Debes repararlos lo antes posible!"
     },
     "+igtBw": {
         "en-US": "[Repairman]\nHohoho...\nYou don't have any\nbusiness with me\nif you've no items\nthat need repair.",
         "pt-BR": "[Reparador]\nHohoho...\nVocê não tem nenhum\nnegócio comigo\nse não tiver nenhum item\nque precise de reparo.",
-        "es-ES": "[Reparador]\nJo, jo, jo, jo…\nNo podemos hacer\nnegocios\nsi no tienes objetos\npara reparar."
+        "es-ES": "[Reparador]\nJo, jo, jo, jo...\nNo podemos hacer\nnegocios\nsi no tienes objetos\npara reparar."
     }
 }

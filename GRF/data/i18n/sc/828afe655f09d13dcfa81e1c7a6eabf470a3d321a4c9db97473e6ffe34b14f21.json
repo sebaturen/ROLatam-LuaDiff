@@ -292,7 +292,7 @@
     "Wh78AQ": {
         "en-US": "[Emily]\nHmm... sorry but you don't meet the level requirement.",
         "pt-BR": "[Emily]\nHmm... desculpe, mas você não atende ao requisito de nível.",
-        "es-ES": "[Emily]\nMmm… lo siento, pero no cumples el requisito de nivel."
+        "es-ES": "[Emily]\nMmm... lo siento, pero no cumples el requisito de nivel."
     },
     "Wx78AQ": {
         "en-US": "[Emily]\nFamily separation can only be applied after ^0000CDreaching LV.99 or higher^000000, as our policy is only to perform this process when a child is able to protect itself.",
@@ -362,12 +362,12 @@
     "aB78AQ": {
         "en-US": "[Emily]\nYou have not been adopted for 100 days yet. Hmmm. Although this decision seems a bit hasty...",
         "pt-BR": "[Emily]\nVocê ainda não foi adotado por 100 dias. Hmmm. Embora essa decisão pareça um pouco precipitada...",
-        "es-ES": "[Emily]\nAún no cumpliste 100 días de adopción. Mmm. Aunque esta decisión parece un poco precipitada…"
+        "es-ES": "[Emily]\nAún no cumpliste 100 días de adopción. Mmm. Aunque esta decisión parece un poco precipitada..."
     },
     "aR78AQ": {
         "en-US": "[Emily]\n...but since you have prepared your own certificate and commission, we will continue with the family separation process.",
         "pt-BR": "[Emily]\n...mas como você preparou seu próprio certificado e comissão, continuaremos com o processo de separação da família.",
-        "es-ES": "[Emily]\n…ya que preparaste tu certificado y la comisión, continuaremos con el proceso de separación familiar."
+        "es-ES": "[Emily]\n...ya que preparaste tu certificado y la comisión, continuaremos con el proceso de separación familiar."
     },
     "ah78AQ": {
         "en-US": "[Emily]\nA child becoming independent from their parents ^0000CDcan no longer use family skills^000000. Do you understand?",
@@ -547,7 +547,7 @@
     "jR78AQ": {
         "en-US": "[Emily]\nhmm... actually it appears that your funds are inadequate for the process fee. ^0000CDYou need 5,000,000 Zeny^000000 for the fee.",
         "pt-BR": "[Emily]\nhmm... na verdade, parece que seus fundos são inadequados para a taxa do processo. ^0000CDVocê precisa de 5.000.000 Zeny^000000 para a taxa.",
-        "es-ES": "[Emily]\nMmm… en realidad, parece que tus fondos no alcanzan para pagar la tarifa del proceso. ^0000CDNecesitas 5000000 de zeny^000000."
+        "es-ES": "[Emily]\nMmm... en realidad, parece que tus fondos no alcanzan para pagar la tarifa del proceso. ^0000CDNecesitas 5000000 de zeny^000000."
     },
     "jh78AQ": {
         "en-US": "[Emily]\nIf you're serious about this process, please return when you have adequate funds for the fee. Thank you.",
@@ -607,7 +607,7 @@
     "mR78AQ": {
         "en-US": "[Emily]\nhmm...for us to be able to complete this process and file your child as independant, ^0000CDyou need 5,000,000 Zeny. ^000000 But it appears that your funds are inadequate for this process to move forward.",
         "pt-BR": "[Emily]\nhmm... para que possamos concluir esse processo e registrar seu filho como independente, ^0000CDvocê precisa de 5.000.000 Zeny. ^000000 Mas parece que seus fundos são inadequados para que esse processo siga adiante.",
-        "es-ES": "[Emily]\nMmm… para que podamos completar este proceso y registrar a tu hijo como independiente, ^0000CDnecesitas 5000000 de zeny^000000. Pero parece que tus fondos no son suficientes para avanzar con este proceso."
+        "es-ES": "[Emily]\nMmm... para que podamos completar este proceso y registrar a tu hijo como independiente, ^0000CDnecesitas 5000000 de zeny^000000. Pero parece que tus fondos no son suficientes para avanzar con este proceso."
     },
     "mh78AQ": {
         "en-US": "[Emily]\nIf you are serious about this process, please return when you have the funds to pay for the fee and we can move forward with registering your separation. Thank you.",
@@ -677,7 +677,7 @@
     "px78AQ": {
         "en-US": "[Norton]\nHmm...sir, {0}... it seems you broke up with your companion.",
         "pt-BR": "[Norton]\nHmm... senhor, {0}... parece que você terminou com sua companheira.",
-        "es-ES": "[Norton]\nMmm… {0}… parece que te separaste de tu pareja."
+        "es-ES": "[Norton]\nMmm... {0}... parece que te separaste de tu pareja."
     },
     "qB78AQ": {
         "en-US": "[Norton]\nThere is a history about registering divorce in the past, I will delete that.",
@@ -702,7 +702,7 @@
     "rB78AQ": {
         "en-US": "[Norton]\n{0}... So, What can I do for you? Are you here for divorce?",
         "pt-BR": "[Norton]\n{0}... Então, o que posso fazer por você? Você está aqui para o divórcio?",
-        "es-ES": "[Norton]\n{0}… ¿Qué puedo hacer por ti? ¿Estás aquí por un divorcio?"
+        "es-ES": "[Norton]\n{0}... ¿Qué puedo hacer por ti? ¿Estás aquí por un divorcio?"
     },
     "rR78AQ": {
         "en-US": "Divorce?",
@@ -802,12 +802,12 @@
     "wB78AQ": {
         "en-US": "[Norton]\nExcellent, now let me finalize this for registration...",
         "pt-BR": "[Norton]\nExcelente, agora deixe-me finalizar isso para o registro...",
-        "es-ES": "[Norton]\nExcelente. Ahora, permíteme finalizar esto para el registro…"
+        "es-ES": "[Norton]\nExcelente. Ahora, permíteme finalizar esto para el registro..."
     },
     "wR78AQ": {
         "en-US": "[Norton]\nHmm... it appears you do not have the ^0000CD2,500,000 zeny^000000 to pay the fee. We are unable to move forward unless this fee is paid.",
         "pt-BR": "[Norton]\nHmm... parece que você não tem ^0000CD2.500.000 Zeny^000000 para pagar a taxa. Não poderemos avançar a menos que essa taxa seja paga.",
-        "es-ES": "[Norton]\nMmm… parece que no tienes los ^0000CD2500000 zeny^000000 para pagar la tarifa. No podremos seguir adelante, a menos que abones esa tarifa."
+        "es-ES": "[Norton]\nMmm... parece que no tienes los ^0000CD2500000 zeny^000000 para pagar la tarifa. No podremos seguir adelante, a menos que abones esa tarifa."
     },
     "wh78AQ": {
         "en-US": "[Norton]\nIf you're serious about this, please return after you have the funds to pay the fee and we can finish the divorce process.",
@@ -882,12 +882,12 @@
     "0B78AQ": {
         "en-US": "[Norton]\nOkay, lets review your application once more... Oh, it appears you're early. We are unable to process any decisions regarding your divorce until the 4 day period has completely elapsed. Please come back again after the waiting period has passed.",
         "pt-BR": "[Norton]\nOk, vamos analisar sua inscrição mais uma vez... Ah, parece que você chegou cedo. Não podemos processar nenhuma decisão referente ao seu divórcio até que o período de 4 dias tenha passado completamente. Volte novamente após o término do período de espera.",
-        "es-ES": "[Norton]\nBien, revisemos tu solicitud una vez más… Parece que viniste antes de tiempo. No podremos tramitar ninguna decisión relativa a tu divorcio hasta que haya transcurrido el período de 4 días completos. Vuelve cuando haya terminado el período de espera."
+        "es-ES": "[Norton]\nBien, revisemos tu solicitud una vez más... Parece que viniste antes de tiempo. No podremos tramitar ninguna decisión relativa a tu divorcio hasta que haya transcurrido el período de 4 días completos. Vuelve cuando haya terminado el período de espera."
     },
     "0R78AQ": {
         "en-US": "[Norton]\nOkay, lets review your application once more... Mmm hmm, okay and this is your conclusion to cancel?",
         "pt-BR": "[Norton]\nOk, vamos analisar sua inscrição mais uma vez... Mmm hmm, ok, e esta é sua conclusão para cancelar?",
-        "es-ES": "[Norton]\nBien, revisemos tu solicitud una vez más… Ajá, está bien. ¿Y decidiste cancelarla?"
+        "es-ES": "[Norton]\nBien, revisemos tu solicitud una vez más... Ajá, está bien. ¿Y decidiste cancelarla?"
     },
     "0h78AQ": {
         "en-US": "[Norton]\nUnderstood. We're glad you and your partner were able to resolve your differences.",
@@ -907,12 +907,12 @@
     "1R78AQ": {
         "en-US": "[Norton]\nHmm... It appears we have no records for filing for divorce regarding your name. So... it seems that you're not in need of canceling anything.",
         "pt-BR": "[Norton]\nHmm... Parece que não temos registros de pedidos de divórcio em seu nome. Então... parece que você não precisa cancelar nada.",
-        "es-ES": "[Norton]\nMmm… Parece que no tenemos registrada ninguna solicitud de divorcio con tu nombre. Así que… parece que no necesitas cancelar nada."
+        "es-ES": "[Norton]\nMmm... Parece que no tenemos registrada ninguna solicitud de divorcio con tu nombre. Así que... parece que no necesitas cancelar nada."
     },
     "1h78AQ": {
         "en-US": "[Norton]\nCongratulations! ... I think. If you are ever in need of divorce services, please come see us again, though we hope our services won't be needed by many couples.",
         "pt-BR": "[Norton]\nParabéns! ... Acho que sim. Se algum dia precisar de serviços de divórcio, venha nos ver novamente, embora esperemos que nossos serviços não sejam necessários para muitos casais.",
-        "es-ES": "[Norton]\n¡Felicidades…! Supongo. Si alguna vez necesitas servicios de divorcio, ven a vernos. Aunque esperamos que no muchas parejas necesiten nuestros servicios."
+        "es-ES": "[Norton]\n¡Felicidades...! Supongo. Si alguna vez necesitas servicios de divorcio, ven a vernos. Aunque esperamos que no muchas parejas necesiten nuestros servicios."
     },
     "1x78AQ": {
         "en-US": "[Norton]\nAh, well good for you. We do hope that not too many couples will arrive seeking divorce services. However if you ever find yourself weighed down by a loveless marriage, we can help!... see you soon.",
@@ -1017,7 +1017,7 @@
     "6x78AQ": {
         "en-US": "[D'Italie]\nI'm sorry, but these are only available for those who are not married and you're showing up registered as married...",
         "pt-BR": "[D'Italie]\nSinto muito, mas isso só está disponível para aqueles que não são casados e você está aparecendo registrado como casado...",
-        "es-ES": "[D'Italie]\nLo siento, pero solo están disponibles para personas que no están casadas, y en tu registro figura que te casaste…"
+        "es-ES": "[D'Italie]\nLo siento, pero solo están disponibles para personas que no están casadas, y en tu registro figura que te casaste..."
     },
     "7B78AQ": {
         "en-US": "[D'Italie]\nI'm sorry, we cannot issue a ^0000CDa baby^000000 a Marriage Covenant.",
@@ -1027,7 +1027,7 @@
     "7R78AQ": {
         "en-US": "[D'Italie]\nUmm... You are registered as an independent baby. I'm sorry, but due to Kingdom rules we cannot issue ^0000CDa baby after independence^000000 a Marriage Covenant.",
         "pt-BR": "[D'Italie]\nHumm... Você está registrada como um bebê independente. Sinto muito, mas, devido às regras do Reino, não podemos emitir ^0000CDum bebê após a independência^000000 um Pacto Matrimonial.",
-        "es-ES": "[D'Italie]\nMmm… En tu registro figura que eres un bebé independiente. Lo siento, pero según las reglas del reino, no podemos emitir un Pacto de matrimonio para ^0000CDun bebé que se independizó^000000."
+        "es-ES": "[D'Italie]\nMmm... En tu registro figura que eres un bebé independiente. Lo siento, pero según las reglas del reino, no podemos emitir un Pacto de matrimonio para ^0000CDun bebé que se independizó^000000."
     },
     "7h78AQ": {
         "en-US": "[D'Italie]\nYou don't have enough zeny.",
@@ -1317,7 +1317,7 @@
     "Jx/8AQ": {
         "en-US": "[Carnello]\nBuuuut! You can then do anything you want ^0000CDwithout any interference^000000 from a parent. How exciting!",
         "pt-BR": "[Carnello]\nMas! Você pode então fazer o que quiser ^0000CDsem qualquer interferência^000000 de um dos pais. Que emocionante!",
-        "es-ES": "[Carnello]\nPeeero… así podrás hacer lo que quieras ^0000CDsin ninguna interferencia^000000 de tus padres. ¡Qué emocionante!"
+        "es-ES": "[Carnello]\nPeeero... así podrás hacer lo que quieras ^0000CDsin ninguna interferencia^000000 de tus padres. ¡Qué emocionante!"
     },
     "KB/8AQ": {
         "en-US": "[Carnello]\nHow does independence sound to you? Exciting right?",
@@ -1402,7 +1402,7 @@
     "OB/8AQ": {
         "en-US": "[Carnello]\nLets review what we have here first... hmmm... To become independent, you need to be strong enough to protect yourself.",
         "pt-BR": "[Carnello]\nVamos revisar o que temos aqui primeiro... hmmm... Para se tornar independente, você precisa ser forte o suficiente para se proteger.",
-        "es-ES": "[Carnello]\nRepasemos primero lo que tenemos aquí… mmm… Para ser independiente, tienes que ser lo bastante fuerte para poder protegerte."
+        "es-ES": "[Carnello]\nRepasemos primero lo que tenemos aquí... mmm... Para ser independiente, tienes que ser lo bastante fuerte para poder protegerte."
     },
     "OR/8AQ": {
         "en-US": "[Carnello]\nYou'll need to reach ^0000CDLevel 99^000000 first, at least.",
@@ -1532,12 +1532,12 @@
     "Uh/8AQ": {
         "en-US": "[Carnello]\nOkay, let me just do one final review and make sure that everything is in order...",
         "pt-BR": "[Carnello]\nOk, deixe-me fazer uma revisão final e me certificar de que tudo está em ordem...",
-        "es-ES": "[Carnello]\nBien, déjame hacer una última revisión para asegurarme de que todo esté en orden…"
+        "es-ES": "[Carnello]\nBien, déjame hacer una última revisión para asegurarme de que todo esté en orden..."
     },
     "Ux/8AQ": {
         "en-US": "[Carnello]\nHmm... uh oh, you don't have enough Zeny for the fee. We can't register your independence unless the fee is paid.",
         "pt-BR": "[Carnello]\nHmm... uh oh, você não tem Zeny suficiente para a taxa. Não podemos registrar sua independência a menos que a taxa seja paga.",
-        "es-ES": "[Carnello]\nMmm… Ay, no tienes suficientes zeny para pagar la tarifa. No podemos registrar tu independencia a menos que pagues la tarifa."
+        "es-ES": "[Carnello]\nMmm... Ay, no tienes suficientes zeny para pagar la tarifa. No podemos registrar tu independencia a menos que pagues la tarifa."
     },
     "VB/8AQ": {
         "en-US": "[Carnello]\nEitehr come here again 0000cdafter 100 days of being with your parents^000000,\nor bring an 0000cdIndependence Certificate and 2,000,000 zeny^000000, like they say, freedom isn't always free right? Come back when you've got the requirements met. Bye for now!",
@@ -1567,12 +1567,12 @@
     "WR/8AQ": {
         "en-US": "[Carnello]\nWell.. You look a bit young and still in need of your parents. Also you'll need a few extra things before we can even begin an independence process for you.",
         "pt-BR": "[Carnello]\nBem... Você parece um pouco jovem e ainda precisa de seus pais. Além disso, você precisará de algumas coisas extras antes mesmo de iniciarmos um processo de independência para você.",
-        "es-ES": "[Carnello]\nBueno… Parece que eres un poco joven y todavía necesitas a tus padres. También necesitarás algunas cosas adicionales antes de que podamos iniciar tu proceso de independencia."
+        "es-ES": "[Carnello]\nBueno... Parece que eres un poco joven y todavía necesitas a tus padres. También necesitarás algunas cosas adicionales antes de que podamos iniciar tu proceso de independencia."
     },
     "Wh/8AQ": {
         "en-US": "[Carnello]\nThere's not really much I can do for you as things are now. If you're serious about this, you'll need the following...",
         "pt-BR": "[Carnello]\nNão há muito que eu possa fazer por você no momento. Se estiver levando isso a sério, você precisará do seguinte...",
-        "es-ES": "[Carnello]\nNo hay mucho que pueda hacer por ti tal y como están las cosas ahora. Si en verdad quieres hacer esto, necesitarás lo siguiente…"
+        "es-ES": "[Carnello]\nNo hay mucho que pueda hacer por ti tal y como están las cosas ahora. Si en verdad quieres hacer esto, necesitarás lo siguiente..."
     },
     "Wx/8AQ": {
         "en-US": "[Carnello]\nan Independence Certificate and 2,000,000zeny is the minimum qualification to even start this for you.",
@@ -1592,7 +1592,7 @@
     "Xh/8AQ": {
         "en-US": "[Carnello]\nCome back again if you change your mind. I'll be here to help you with your... Independence Day! Get it? Hah!",
         "pt-BR": "[Carnello]\nVolte novamente se mudar de ideia. Estarei aqui para ajudá-lo com seu... Dia da Independência! Entendeu? Hah!",
-        "es-ES": "[Carnello]\nVuelve si cambias de opinión. Estaré aquí para ayudarte con tu… ¡Día de la Independencia! ¿Entendiste? ¡Ja!"
+        "es-ES": "[Carnello]\nVuelve si cambias de opinión. Estaré aquí para ayudarte con tu... ¡Día de la Independencia! ¿Entendiste? ¡Ja!"
     },
     "Xx/8AQ": {
         "en-US": "[Carnello]\nHi. It's great weather for swimming today, don't you think? Oh, and how may I help you?",
@@ -1667,7 +1667,7 @@
     "bR/8AQ": {
         "en-US": "[Carnello]\nAnd then....",
         "pt-BR": "[Carnello]\nE depois....",
-        "es-ES": "[Carnello]\nY luego…"
+        "es-ES": "[Carnello]\nY luego..."
     },
     "bh/8AQ": {
         "en-US": "[Carnello]\nJust bring an ^0000CDIndependence Certificate and 5,000,000 zeny^000000 to me. Then I can help them become an independent member of society.",
@@ -1707,12 +1707,12 @@
     "dR/8AQ": {
         "en-US": "[Carnello]\nLet me see if you are qualified...",
         "pt-BR": "[Carnello]\nDeixe-me ver se você está qualificado...",
-        "es-ES": "[Carnello]\nDéjame ver si calificas…"
+        "es-ES": "[Carnello]\nDéjame ver si calificas..."
     },
     "dh/8AQ": {
         "en-US": "[Carnello]\nHmm... ^0000CDIt hasn't been 100 days^000000 since you adopted your baby... But your baby ^0000CDcharacter information has been deleted^000000.",
         "pt-BR": "[Carnello]\nHmm... ^0000CDAinda não se passaram 100 dias^000000 desde que você adotou seu bebê... Mas ^0000CDas informações do personagem do seu bebê foram excluídas^000000.",
-        "es-ES": "[Carnello]\nMmm… ^0000CDno pasaron 100 días^000000 desde que adoptaste a tu bebé… pero ^0000CDse eliminó la información de personaje^000000 de tu bebé."
+        "es-ES": "[Carnello]\nMmm... ^0000CDno pasaron 100 días^000000 desde que adoptaste a tu bebé... pero ^0000CDse eliminó la información de personaje^000000 de tu bebé."
     },
     "dx/8AQ": {
         "en-US": "[Carnello]\nThat's unfortunate, in this case, you can file for Family Separation right away if you have an ^0000CDIndependence Certificate and 5,000,000 zeny^000000. Did you wish to move forward with this?",
@@ -1747,7 +1747,7 @@
     "fR/8AQ": {
         "en-US": "[Carnello]\nOK. wait a moment...",
         "pt-BR": "[Carnello]\nOK. Espere um momento...",
-        "es-ES": "[Carnello]\nEstá bien. Espera un momento…"
+        "es-ES": "[Carnello]\nEstá bien. Espera un momento..."
     },
     "fh/8AQ": {
         "en-US": "[Carnello]\nYou have an Independence Certificate and the fee! Let me help you right away!",
@@ -1757,7 +1757,7 @@
     "fx/8AQ": {
         "en-US": "[Carnello]\nWell.. looks like you still need the ^0000CD5,000,000 zeny^000000 for the fee... It seems you don't have enough funds.",
         "pt-BR": "[Carnello]\nBem... parece que você ainda precisa dos ^0000CD5.000.000 Zeny^000000 para a taxa... Parece que você não tem fundos suficientes.",
-        "es-ES": "[Carnello]\nBueno… al parecer, todavía necesitas ^0000CD5000000 de zeny^000000 para la tarifa… Parece que no tienes fondos suficientes."
+        "es-ES": "[Carnello]\nBueno... al parecer, todavía necesitas ^0000CD5000000 de zeny^000000 para la tarifa... Parece que no tienes fondos suficientes."
     },
     "gB/8AQ": {
         "en-US": "[Carnello]\nSorry but I can't continue with aiding you through this process unless the fee is paid. Please come back when you have the zeny and we can resume this process.",
@@ -1832,7 +1832,7 @@
     "jh/8AQ": {
         "en-US": "[Carnello]\nI also would like to allow independence without process, but well you know...",
         "pt-BR": "[Carnello]\nEu também gostaria de permitir a independência sem processo, mas, bem, você sabe...",
-        "es-ES": "[Carnello]\nA mí también me gustaría otorgar la independencia sin este proceso, pero bueno, ya sabes…"
+        "es-ES": "[Carnello]\nA mí también me gustaría otorgar la independencia sin este proceso, pero bueno, ya sabes..."
     },
     "jx/8AQ": {
         "en-US": "[Carnello]\nHope you understand. Okay, I will ask you some questions and get your confirmation. Listen carefully.",
@@ -1857,7 +1857,7 @@
     "kx/8AQ": {
         "en-US": "[Carnello]\nAlright, just one last check...",
         "pt-BR": "[Carnello]\nTudo bem, apenas uma última verificação...",
-        "es-ES": "[Carnello]\nMuy bien, solo una última comprobación…"
+        "es-ES": "[Carnello]\nMuy bien, solo una última comprobación..."
     },
     "lB/8AQ": {
         "en-US": "[Carnello]\nWait, you don't have enough Zeny. We can't move forward unless the fee is covered.",
@@ -1892,7 +1892,7 @@
     "mh/8AQ": {
         "en-US": "[Carnello]\nWell.. If you say so... Please come here again if you change your mind.",
         "pt-BR": "[Carnello]\nBem... Se o senhor assim o diz... Por favor, venha aqui novamente se mudar de ideia.",
-        "es-ES": "[Carnello]\nBueno… si tú lo dices… Vuelve aquí si cambias de opinión."
+        "es-ES": "[Carnello]\nBueno... si tú lo dices... Vuelve aquí si cambias de opinión."
     },
     "mx/8AQ": {
         "en-US": "[Carnello]\nAnother word for challenge is opportunity.",

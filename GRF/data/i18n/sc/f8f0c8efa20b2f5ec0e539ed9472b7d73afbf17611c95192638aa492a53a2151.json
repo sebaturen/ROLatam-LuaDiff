@@ -17,7 +17,7 @@
     "A3NV": {
         "en-US": "[Laphine Soldier]\n...Are you sure you're not doing too much?\nI think you'd better get some rest.\nYou'll only wear yourself out.",
         "pt-BR": "[Soldado Laphine]\n...Tem certeza de que não está fazendo demais?\nAcho que é melhor descansar um pouco.\nVocê só vai se desgastar.",
-        "es-ES": "[Soldado Laphine]\n…¿No estás haciendo demasiado?\nCreo que sería mejor que descanses.\nSolo te cansarás más."
+        "es-ES": "[Soldado Laphine]\n...¿No estás haciendo demasiado?\nCreo que sería mejor que descanses.\nSolo te cansarás más."
     },
     "BHNV": {
         "en-US": "[Laphine Soldier]\nI don't think the authority will give you permission, either.\nEven a Sapha would be stopped from entering the forest.",
@@ -42,7 +42,7 @@
     "CHNV": {
         "en-US": "[Laphine Soldier]\nTo be able to talk with everybody...\nPerhaps that's the power of Bifrost.",
         "pt-BR": "[Soldado Laphine]\nSer capaz de conversar com todo mundo...\nTalvez esse seja o poder da Bifrost.",
-        "es-ES": "[Soldado Laphine]\nPoder hablar con todo el mundo…\nTal vez ese sea el poder de Bifrost."
+        "es-ES": "[Soldado Laphine]\nPoder hablar con todo el mundo...\nTal vez ese sea el poder de Bifrost."
     },
     "CXNV": {
         "en-US": "[Laphine Soldier]\nYou human adventurers are incredible.\nYou're always going into the forest, where no one else dares to go.",
@@ -72,17 +72,17 @@
     "DnNV": {
         "en-US": "[Laphine Soldier]\nParty Name {0}...\nParty Leader Name {1}...\nHmm...",
         "pt-BR": "[Soldado Laphine]\nNome do grupo {0}...\nNome do líder do grupo {1}...\nHmm...",
-        "es-ES": "[Soldado Laphine]\nNombre del grupo: {0}…\nNombre del líder del grupo: {1}…\nMmm…"
+        "es-ES": "[Soldado Laphine]\nNombre del grupo: {0}...\nNombre del líder del grupo: {1}...\nMmm..."
     },
     "D3NV": {
         "en-US": "[Laphine Soldier]\nIt's dangerous in the forest.\n...Why don't you just go back today?",
         "pt-BR": "[Soldado Laphine]\nA floresta é perigosa.\n...Por que você não volta hoje?",
-        "es-ES": "[Soldado Laphine]\nEl bosque es peligroso.\n…¿Por qué no regresas por hoy?"
+        "es-ES": "[Soldado Laphine]\nEl bosque es peligroso.\n...¿Por qué no regresas por hoy?"
     },
     "EHNV": {
         "en-US": "[Laphine Soldier]\nParty Name {0}...\nParty Leader Name {1}...\nI've got it. I've written them down on the report here.",
         "pt-BR": "[Soldado Laphine]\nNome do grupo {0}...\nNome do líder do grupo {1}...\nJá sei. Eu anotei no relatório aqui.",
-        "es-ES": "[Soldado Laphine]\nNombre del grupo: {0}…\nNombre del líder del grupo: {1}…\nLo tengo. Los anoté aquí en el informe."
+        "es-ES": "[Soldado Laphine]\nNombre del grupo: {0}...\nNombre del líder del grupo: {1}...\nLo tengo. Los anoté aquí en el informe."
     },
     "EXNV": {
         "en-US": "[Laphine Soldier]\nYou'll get permission soon.\nNow go to the log tunnel, the only way to get into the Hazy Forest.\nYou understand?",
@@ -107,7 +107,7 @@
     "FXNV": {
         "en-US": "[Laphine Soldier]\nI see you've been into the forest before.\nOkay, at least the forest won't reject you.\nHowever...",
         "pt-BR": "[Soldado Laphine]\nVejo que já esteve na floresta antes.\nOk, pelo menos a floresta não te rejeitará.\nNo entanto...",
-        "es-ES": "[Soldado Laphine]\nVeo que ya has estado en el bosque.\nBien, al menos el bosque no te rechazará.\nSin embargo…"
+        "es-ES": "[Soldado Laphine]\nVeo que ya has estado en el bosque.\nBien, al menos el bosque no te rechazará.\nSin embargo..."
     },
     "FnNV": {
         "en-US": "[Laphine Soldier]\nPut yourself in my shoes, the entrance guard, and let me meet the representative of your party.\nI have to discuss some things with him/her.",
@@ -237,7 +237,7 @@
     "L3NV": {
         "en-US": "[Nidhoggur the Guardian]\nAre you...?\nI see...\nI thought I was forsaken...",
         "pt-BR": "[Guardiã Nidhogg]\nVocê é...?\nEstou vendo...\nPensei que estava abandonado...",
-        "es-ES": "[Nidhogg, la guardiana]\n¿Estás…?\nYa veo…\nCreí que me habían abandonado…"
+        "es-ES": "[Nidhogg, la guardiana]\n¿Estás...?\nYa veo...\nCreí que me habían abandonado..."
     },
     "MHNV": {
         "en-US": "The Guardian slowly looked away as if deep in thought.",
@@ -257,12 +257,12 @@
     "M3NV": {
         "en-US": "[Nidhoggur the Guardian]\nLoki said...\nthat I won't cry from loneliness again.\nThat I will always have new friends like you...",
         "pt-BR": "[Guardiã Nidhogg]\nLoki disse...\nque eu não vou chorar de solidão novamente.\nQue sempre terei novos amigos como você...",
-        "es-ES": "[Nidhogg, la guardiana]\nLoki dijo…\nque no volveré a llorar por la soledad.\nQue siempre tendré nuevos amigos como tú…"
+        "es-ES": "[Nidhogg, la guardiana]\nLoki dijo...\nque no volveré a llorar por la soledad.\nQue siempre tendré nuevos amigos como tú..."
     },
     "NHNV": {
         "en-US": "[Nidhoggur the Guardian]\n...I've lost everything, but I'm happy now.",
         "pt-BR": "[Guardiã Nidhogg]\n...perdi tudo, mas agora estou feliz.",
-        "es-ES": "[Nidhogg, la guardiana]\n…Lo perdí todo, pero ahora soy feliz."
+        "es-ES": "[Nidhogg, la guardiana]\n...Lo perdí todo, pero ahora soy feliz."
     },
     "NXNV": {
         "en-US": "Sharp Eye'd Man",
@@ -312,17 +312,17 @@
     "PnNV": {
         "en-US": "[Loki]\nAnd Satan Morroc broke himself free from the seal.\nAlthough it seems like he used most of his powers just to break the seal...",
         "pt-BR": "[Loki]\nE Imperador Morroc se libertou do lacre.\nEmbora pareça que ele tenha usado a maior parte de seus poderes apenas para quebrar o lacre...",
-        "es-ES": "[Loki]\nY Satán Morroc logró liberarse de él.\nAunque parece que usó la mayoría de sus poderes solo para romperlo…"
+        "es-ES": "[Loki]\nY Satán Morroc logró liberarse de él.\nAunque parece que usó la mayoría de sus poderes solo para romperlo..."
     },
     "P3NV": {
         "en-US": "[Nidhoggur the Guardian]\nIt's all my fault.\nI couldn't break free from Satan Morroc's temptation.\nFor too... too long..",
         "pt-BR": "[Guardiã Nidhogg]\nA culpa é toda minha.\nNão consegui me libertar da tentação do Imperador Morroc.\nPor muito... muito tempo...",
-        "es-ES": "[Nidhogg, la guardiana]\nTodo es mi culpa.\nNo pude librarme de la tentación de Satán Morroc.\nDurante mucho… mucho tiempo…"
+        "es-ES": "[Nidhogg, la guardiana]\nTodo es mi culpa.\nNo pude librarme de la tentación de Satán Morroc.\nDurante mucho... mucho tiempo..."
     },
     "QHNV": {
         "en-US": "[Nidhoggur the Guardian]\n...I wanted to be relieved of my thousands of years of loneliness.\nI wasn't in my right mind then.\nIt was none other than I that broke my bond with Yggdrasil.",
         "pt-BR": "[Guardiã Nidhogg]\n...eu queria me livrar dos meus milhares de anos de solidão.\nNão estava em meu juízo perfeito na época.\nFoi somente eu quem rompeu meu vínculo com Yggdrasil.",
-        "es-ES": "[Nidhogg, la guardiana]\n…quise acabar con mis miles de años de soledad.\nNo pensaba con claridad en ese entonces.\nYo misma rompí mi vínculo con Yggdrasil."
+        "es-ES": "[Nidhogg, la guardiana]\n...quise acabar con mis miles de años de soledad.\nNo pensaba con claridad en ese entonces.\nYo misma rompí mi vínculo con Yggdrasil."
     },
     "QXNV": {
         "en-US": "[Nidhoggur the Guardian]\nI lost control of myself, and did what I shouldn't have done.\nThe other side of me became a shadow and a reckless tyrant.",
@@ -332,12 +332,12 @@
     "QnNV": {
         "en-US": "[Nidhoggur the Guardian]\nFacing the world, I realized...\nI felt too great a sense of loss... it was much more painful than the loneliness I had endured for thousands of years.",
         "pt-BR": "[Guardiã Nidhogg]\nAo encarar o mundo, percebi...\nEu sentia uma sensação de perda muito grande... era muito mais dolorosa do que a solidão que eu havia suportado por milhares de anos.",
-        "es-ES": "[Nidhogg, la guardiana]\nAl enfrentarme al mundo, me di cuenta de que…\nsentía una pérdida enorme… Era mucho más dolorosa que la soledad que había soportado durante miles de años."
+        "es-ES": "[Nidhogg, la guardiana]\nAl enfrentarme al mundo, me di cuenta de que...\nsentía una pérdida enorme... Era mucho más dolorosa que la soledad que había soportado durante miles de años."
     },
     "Q3NV": {
         "en-US": "[Nidhoggur the Guardian]\nThat's how I was left alone.\nI felt too great a sense of loss... it was much more painful than the loneliness I had endured for thousands of years.",
         "pt-BR": "[Guardiã Nidhogg]\nFoi assim que fiquei sozinho.\nTive uma sensação de perda muito grande... foi muito mais dolorosa do que a solidão que suportei por milhares de anos.",
-        "es-ES": "[Nidhogg, la guardiana]\nAsí es como me quedé sola.\nsentía una pérdida enorme… Era mucho más dolorosa que la soledad que había soportado durante miles de años."
+        "es-ES": "[Nidhogg, la guardiana]\nAsí es como me quedé sola.\nsentía una pérdida enorme... Era mucho más dolorosa que la soledad que había soportado durante miles de años."
     },
     "RHNV": {
         "en-US": "[Nidhoggur the Guardian]\nSo I became a sinner, forgotten to the world.",
@@ -352,7 +352,7 @@
     "RnNV": {
         "en-US": "[Nidhoggur the Guardian]\n... Oh, yes. It's late, but I have to fulfill my duties as a guardian.\nNow I know. I'll destroy Satan Morroc with my own hands.\nI will fulfill my duties as a guardian.",
         "pt-BR": "[Guardiã Nidhogg]\n... Ah, sim. É tarde, mas tenho que cumprir meus deveres como guardião.\nAgora eu sei. Destruirei Imperador Morroc com minhas próprias mãos.\nCumprirei meus deveres como guardião.",
-        "es-ES": "[Nidhogg, la guardiana]\n… Ah, sí. Es tarde, pero tengo que cumplir mis deberes de guardiana.\nAhora lo sé. Destruiré a Satán Morroc con mis propias manos.\nCumpliré mis deberes de guardiana."
+        "es-ES": "[Nidhogg, la guardiana]\n... Ah, sí. Es tarde, pero tengo que cumplir mis deberes de guardiana.\nAhora lo sé. Destruiré a Satán Morroc con mis propias manos.\nCumpliré mis deberes de guardiana."
     },
     "R3NV": {
         "en-US": "You're not alone.",
@@ -377,7 +377,7 @@
     "S3NV": {
         "en-US": "[Nidhoggur the Guardian]\n{0}...\nThanks for listening to my long story.",
         "pt-BR": "[Guardiã Nidhogg]\n{0}...\nObrigado por ouvir minha longa história.",
-        "es-ES": "[Nidhogg, la guardiana]\n{0}…\nGracias por escuchar mi larga historia."
+        "es-ES": "[Nidhogg, la guardiana]\n{0}...\nGracias por escuchar mi larga historia."
     },
     "THNV": {
         "en-US": "[Nidhoggur the Guardian]\nIt's what I always have with me.\nI'm sure it will protect you someday.",
@@ -392,7 +392,7 @@
     "TnNV": {
         "en-US": "[Nidhoggur the Guardian]\nMay the blessing of Mother Yggdrasil be with you...",
         "pt-BR": "[Guardiã Nidhogg]\nQue a bênção da Mãe Yggdrasil esteja com você...",
-        "es-ES": "[Nidhogg, la guardiana]\nQue la bendición de la Madre Yggdrasil esté contigo…"
+        "es-ES": "[Nidhogg, la guardiana]\nQue la bendición de la Madre Yggdrasil esté contigo..."
     },
     "T3NV": {
         "en-US": "[Loki]\nI'll be staying here for a while.\nWe may meet again.",
@@ -402,7 +402,7 @@
     "UHNV": {
         "en-US": "[Loki]\nThe day when Satan Morroc reveals his despicable nature...\nI will be waiting for him.",
         "pt-BR": "[Loki]\nO dia em que Imperador Morroc revelar sua natureza desprezível...\nEu estarei esperando por ele.",
-        "es-ES": "[Loki]\nEl día en que Satán Morroc revele su naturaleza despreciable…\nlo estaré esperando."
+        "es-ES": "[Loki]\nEl día en que Satán Morroc revele su naturaleza despreciable...\nlo estaré esperando."
     },
     "UXNV": {
         "en-US": "Hazy Forest admin",

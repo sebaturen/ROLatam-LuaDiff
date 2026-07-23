@@ -32,12 +32,12 @@
     "Bq1LBw": {
         "en-US": "Shep: *Sigh*... Y....You did.",
         "pt-BR": "Shepit: Você... você...",
-        "es-ES": "Shep: *Suspira*… … Tú."
+        "es-ES": "Shep: *Suspira*... ... Tú."
     },
     "B61LBw": {
         "en-US": "Artie: Y....You? Did I stutter? And who solved the formula calculating the dimensional gap connected to the tower?",
         "pt-BR": "Artie: Voce... voce...",
-        "es-ES": "Artie: ¿Tú…? ¿Acaso tartamudeé? ¿Y quién resolvió la fórmula para calcular la brecha interdimensional que se conecta a la torre?"
+        "es-ES": "Artie: ¿Tú...? ¿Acaso tartamudeé? ¿Y quién resolvió la fórmula para calcular la brecha interdimensional que se conecta a la torre?"
     },
     "CK1LBw": {
         "en-US": "Shep: Yes, yes it was you!",
@@ -77,7 +77,7 @@
     "D61LBw": {
         "en-US": "Artie: You sure that's the right thing to say? Maybe your recruiting tactics need refining...",
         "pt-BR": "Artie: O recrutamento está dando certo? Acho que falar sobre o demônio espanta os candidatos...",
-        "es-ES": "Artie: ¿En verdad crees que está bien decir eso? Quizá necesitas refinar un poco tus tácticas de reclutamiento…"
+        "es-ES": "Artie: ¿En verdad crees que está bien decir eso? Quizá necesitas refinar un poco tus tácticas de reclutamiento..."
     },
     "EK1LBw": {
         "en-US": "Historian Shep",
@@ -137,7 +137,7 @@
     "G61LBw": {
         "en-US": "[Shep]\nOh that's too bad\nThere is nothing I can do I guess.\nI'll just find someone else...",
         "pt-BR": "[Shepit]\nAh... que pena.\nNão tem nada.\nTemos que encontrar outra pessoa...",
-        "es-ES": "[Shep]\n¡Qué pena!\nSupongo que no puedo hacer nada.\nEncontraré a alguien más…"
+        "es-ES": "[Shep]\n¡Qué pena!\nSupongo que no puedo hacer nada.\nEncontraré a alguien más..."
     },
     "HK1LBw": {
         "en-US": "[Shep]\nFirst of all, you need to reserve a queue at the gate.\nThe Laphine Scholar Artie will reserve your queue for you.",
@@ -202,7 +202,7 @@
     "KK1LBw": {
         "en-US": "[Shep]\nOh, you are back.\nLet me see... you mean this tower has a passage to connect to the demon world.",
         "pt-BR": "[Shepit]\nAh, você voltou. Ahem , ahem...\nVejamos... quer dizer que essa torre tem uma passagem ligada ao mundo dos demônios.",
-        "es-ES": "[Shep]\nOh, volviste.\nDéjame ver… ¿Quieres decir que esta torre tiene un pasaje que se conecta con el mundo de los demonios?"
+        "es-ES": "[Shep]\nOh, volviste.\nDéjame ver... ¿Quieres decir que esta torre tiene un pasaje que se conecta con el mundo de los demonios?"
     },
     "Ka1LBw": {
         "en-US": "[Shep]\nThis is all you have.\nYou did a good job.\nI look forward to more discoveries!",
@@ -217,7 +217,7 @@
     "K61LBw": {
         "en-US": "[Shep]\nOh, you are back so soon...\nOk, I see what happened.",
         "pt-BR": "[Shepit]\nAh, você voltou. Ahem , ahem...\nVejamos... entendi o que aconteceu.",
-        "es-ES": "[Shep]\nOh, volviste muy pronto…\nSí, ya veo lo que pasó."
+        "es-ES": "[Shep]\nOh, volviste muy pronto...\nSí, ya veo lo que pasó."
     },
     "LK1LBw": {
         "en-US": "[Shep]\nSo time and space seem to have converged there?\nI'm amazed that time travel is possible.",
@@ -237,12 +237,12 @@
     "L61LBw": {
         "en-US": "[Shep]\nLet's see...\nSeems this tower has a passage connecting to the demon world...",
         "pt-BR": "[Shepit]\nVejamos... \nQuer dizer que essa torre tem uma passagem ligada ao mundo dos demônios.",
-        "es-ES": "[Shep]\nVeamos…\nParece que la torre tiene un pasaje que se conecta con el mundo de los demonios…"
+        "es-ES": "[Shep]\nVeamos...\nParece que la torre tiene un pasaje que se conecta con el mundo de los demonios..."
     },
     "MK1LBw": {
         "en-US": "[Shep]\nYou're back!\nLet me see...",
         "pt-BR": "[Shepit]\nAh, você voltou. \nAhem , ahem...",
-        "es-ES": "[Shep]\n¡Estás de vuelta!\nDéjeme ver…"
+        "es-ES": "[Shep]\n¡Estás de vuelta!\nDéjeme ver..."
     },
     "Ma1LBw": {
         "en-US": "[Shep]\nSo time and space are converging there?\nIt seems like that time traveling is real.",
@@ -312,7 +312,7 @@
     "Pq1LBw": {
         "en-US": "[Artie]\nHold on for a sec...\nIs there any problem with the Dimensional Device?\nI feel insecure.\nSomething is not quite right.",
         "pt-BR": "[Artie]\nHum... esperar...\nTem algum problema com o Dispositivo Dimensional?\nNão sinto segurança.\nPosso me perder entre as dimensões\nVou tentar de novo.",
-        "es-ES": "[Artie]\nEspera un segundo…\n¿Hay algún problema con el Dispositivo Interdimensional?\nMe genera inseguridad.\nHay algo que no está bien."
+        "es-ES": "[Artie]\nEspera un segundo...\n¿Hay algún problema con el Dispositivo Interdimensional?\nMe genera inseguridad.\nHay algo que no está bien."
     },
     "P61LBw": {
         "en-US": "[Artie]\nThe Dimensional Device is activated.\nIf you're lucky, you can get through this quickly.\nI look forward to hearing good news.",
@@ -332,7 +332,7 @@
     "Qq1LBw": {
         "en-US": "[Artie]\nHrm... It is difficult to connect to unless it is an appointed exploration time.\nNot to mention dangerous as well.",
         "pt-BR": "[Artie]\nAhem... É complicado ultrapassar o tempo de exploração indicado.\nAlém disso, é perigoso.\nVolte no tempo de exploração indicado.",
-        "es-ES": "[Artie]\nMmm… Es difícil conectarse a menos que se haya designado el horario de exploración.\nAdemás de que también es peligroso."
+        "es-ES": "[Artie]\nMmm... Es difícil conectarse a menos que se haya designado el horario de exploración.\nAdemás de que también es peligroso."
     },
     "Q61LBw": {
         "en-US": "[Artie]\nBring the Expedition Chief.\nDevil's Tower is not a place to visit alone.\nBring the manager.",
@@ -377,7 +377,7 @@
     "S61LBw": {
         "en-US": "[Artie]\nAhem.. strange.\napparently, the space seems to be unstable.\nIt will be difficult to enter at this time.",
         "pt-BR": "[Artie]\nAhem... que estranho.\nA dimensão parece instável.\nSerá difícil entrar.",
-        "es-ES": "[Artie]\nEjem… Qué extraño.\nParece que el espacio está inestable.\nSerá difícil entrar en este momento."
+        "es-ES": "[Artie]\nEjem... Qué extraño.\nParece que el espacio está inestable.\nSerá difícil entrar en este momento."
     },
     "TK1LBw": {
         "en-US": "[Shep]\nThe Dimensional Device needs to be activated first before entering.\nIt doesn't seem to be activated yet.",

@@ -7,7 +7,7 @@
     "wQLoCQ": {
         "en-US": "Tails : Let's see...",
         "pt-BR": "Tails : Onde...",
-        "es-ES": "¡Colas! Veamos…"
+        "es-ES": "¡Colas! Veamos..."
     },
     "wgLoCQ": {
         "en-US": "Sonic",
@@ -17,7 +17,7 @@
     "wwLoCQ": {
         "en-US": "[Sonic]\nAh, we're back!\n...{0}?\nWhy are you here?",
         "pt-BR": "[Sonic]\nAh, você está aqui!\n...{0}?\nPor que você está aqui??",
-        "es-ES": "[Sonic]\n¡Ah, volvimos!\n¿{0}…?\n¿Por qué estás aquí?"
+        "es-ES": "[Sonic]\n¡Ah, volvimos!\n¿{0}...?\n¿Por qué estás aquí?"
     },
     "xALoCQ": {
         "en-US": "[Tails]\nIt looks like we've been caught in the warp.",
@@ -57,12 +57,12 @@
     "ywLoCQ": {
         "en-US": "[{0}]\n(Is it like Ymir's heart...?)",
         "pt-BR": "[{0}]\n(Será que é igual ao Coração de Ymir?)",
-        "es-ES": "[{0}]\n(¿Como el corazón de Ymir…?)"
+        "es-ES": "[{0}]\n(¿Como el corazón de Ymir...?)"
     },
     "zALoCQ": {
         "en-US": "[Sonic]\nBefore meeting you, we were in battle with Dr. Eggman.\nTogether with my other companions...",
         "pt-BR": "[Sonic]\nEstávamos lutando contra o Dr. Eggman antes de encontrar você.\nJuntamente com outros amigos nossos...",
-        "es-ES": "[Sonic]\nAntes de conocerte, luchábamos contra el Dr. Eggman.\nJunto con mis otros compañeros…"
+        "es-ES": "[Sonic]\nAntes de conocerte, luchábamos contra el Dr. Eggman.\nJunto con mis otros compañeros..."
     },
     "zQLoCQ": {
         "en-US": "[Sonic]\nNow that I think about it, what about Knuckles?",
@@ -72,12 +72,12 @@
     "zgLoCQ": {
         "en-US": "[Tails]\nIt hasn't been there since I fell into that library earlier...",
         "pt-BR": "[Tails]\nEle não apareceu desde quando acordei na biblioteca...",
-        "es-ES": "¡Colas!\nNo estuvo ahí desde que me caí en esa biblioteca antes…"
+        "es-ES": "¡Colas!\nNo estuvo ahí desde que me caí en esa biblioteca antes..."
     },
     "zwLoCQ": {
         "en-US": "[Sonic]\nBut he couldn't stop Eggman from putting the Chaos Emeralds into a newly developed device.\nAnd then there was a light...",
         "pt-BR": "[Sonic]\nMas ele não conseguiu impedir o Dr. Eggman de colocar as Esmeraldas do Caos naquele dispositivo.\nE aí veio aquela luz...",
-        "es-ES": "[Sonic]\nPero no pudo evitar que Eggman pusiera las Esmeraldas del Caos en un dispositivo recién desarrollado.\nY entonces hubo una luz…"
+        "es-ES": "[Sonic]\nPero no pudo evitar que Eggman pusiera las Esmeraldas del Caos en un dispositivo recién desarrollado.\nY entonces hubo una luz..."
     },
     "0ALoCQ": {
         "en-US": "[Sonic]\nWhen I came to my senses, I was there earlier. The library you were in.",
@@ -92,7 +92,7 @@
     "0gLoCQ": {
         "en-US": "[Sonic]\nBut, {0} was also dragged in.\nI'm sorry...",
         "pt-BR": "[Sonic]\nMas {0} veio junto com a gente.\nMe desculpe...",
-        "es-ES": "[Sonic]\nPero, también arrastraron a {0}.\nLo siento…"
+        "es-ES": "[Sonic]\nPero, también arrastraron a {0}.\nLo siento..."
     },
     "0wLoCQ": {
         "en-US": "[Tails]\nThe machine that Eggman made, I can make a machine like that!\nBut it needs power. All Chaos Emeralds will have to be returned.",
@@ -117,12 +117,12 @@
     "1wLoCQ": {
         "en-US": "[Sonic]\nOkay..? It's Tails after all. But, let's make it a priority to send {0} back first.",
         "pt-BR": "[Sonic]\nSério? Boa, Tails. Então, vamos dar prioridade a levar você de volta, {0}.",
-        "es-ES": "[Sonic]\n¿Está bien…?"
+        "es-ES": "[Sonic]\n¿Está bien...?"
     },
     "2ALoCQ": {
         "en-US": "[Sonic]\nWell then, before we go find Eggman...\nI need to free those guys first.",
         "pt-BR": "[Sonic]\nPois bem, antes de encontrar o Dr. Eggman...\nEu preciso libertar esses animais primeiro.",
-        "es-ES": "[Sonic]\nBueno, entonces, antes de ir a buscar a Eggman…\nNecesito liberar a esos tipos primero."
+        "es-ES": "[Sonic]\nBueno, entonces, antes de ir a buscar a Eggman...\nNecesito liberar a esos tipos primero."
     },
     "2QLoCQ": {
         "en-US": "Sonic : Tails, help me!",
@@ -137,7 +137,7 @@
     "2wLoCQ": {
         "en-US": "[Sonic]\nHmm.\nIt's probably not a trap...",
         "pt-BR": "[Sonic]\nHmm.\nProvavelmente não é uma armadilha...",
-        "es-ES": "[Sonic]\nMmm.\nProbablemente no sea una trampa…"
+        "es-ES": "[Sonic]\nMmm.\nProbablemente no sea una trampa..."
     },
     "3ALoCQ": {
         "en-US": "[Sonic]\nThere was nothing strange about that cage, right?",
@@ -177,7 +177,7 @@
     "4wLoCQ": {
         "en-US": "[Sonic]\nThese are creatures I haven't seen before...\nWhere did Eggman get them?",
         "pt-BR": "[Sonic]\nEu nunca vi esses animais antes...\nOnde mais tem animais como eles?",
-        "es-ES": "[Sonic]\nEstas son criaturas que nunca vi antes…\n¿De dónde los sacó Eggman?"
+        "es-ES": "[Sonic]\nEstas son criaturas que nunca vi antes...\n¿De dónde los sacó Eggman?"
     },
     "5ALoCQ": {
         "en-US": "[Sonic]\nWhat? Beyond there?\nIt looks like your world is really caught up in this mess.\nWe need to deal with it quickly.",
@@ -222,7 +222,7 @@
     "7ALoCQ": {
         "en-US": "[Sonic]\nWait a minute...",
         "pt-BR": "[Sonic]\nEspere um momento...",
-        "es-ES": "[Sonic]\nEspera un momento…"
+        "es-ES": "[Sonic]\nEspera un momento..."
     },
     "7QLoCQ": {
         "en-US": "Sonic: Then let's go!!",
@@ -267,7 +267,7 @@
     "9QLoCQ": {
         "en-US": "[Tails]\nIt would be more reassuring if Knuckles was here too...",
         "pt-BR": "[Tails]\nSeria mais tranquilo se Knuckles estivesse aqui...",
-        "es-ES": "¡Colas!\nSería más tranquilizador si Knuckles estuviera aquí también…"
+        "es-ES": "¡Colas!\nSería más tranquilizador si Knuckles estuviera aquí también..."
     },
     "9gLoCQ": {
         "en-US": "[Sonic]\nWe'll be able to meet him soon.\nWell then, let's keep exploring.",
@@ -292,7 +292,7 @@
     "+gLoCQ": {
         "en-US": "Tails: Sending Metal Sonic...",
         "pt-BR": "Tails: Enviaram o Metal Sonic...",
-        "es-ES": "¡Colas! Enviando a Metal Sonic…"
+        "es-ES": "¡Colas! Enviando a Metal Sonic..."
     },
     "+wLoCQ": {
         "en-US": "Sonic: Huh?",
@@ -312,7 +312,7 @@
     "/gLoCQ": {
         "en-US": "Sonic: I think it will take too long like this... Can I just destroy it?",
         "pt-BR": "Sonic: Acho que vamos perder muito tempo assim... Posso destruir isso, logo?",
-        "es-ES": "Creo que tardará demasiado así… ¿Puedo destruirlo?"
+        "es-ES": "Creo que tardará demasiado así... ¿Puedo destruirlo?"
     },
     "/wLoCQ": {
         "en-US": "Tails: Whoa!",
@@ -357,17 +357,17 @@
     "BwPoCQ": {
         "en-US": "[Metal Sonic]\n...",
         "pt-BR": "[Metal Sonic]\n...",
-        "es-ES": "[Metal Sonic]\n…"
+        "es-ES": "[Metal Sonic]\n..."
     },
     "CAPoCQ": {
         "en-US": "[Sonic]\nOkay, I'll be the bait here...",
         "pt-BR": "[Sonic]\nCerto, vou ser a isca...",
-        "es-ES": "[Sonic]\nBueno, yo seré la carnada aquí…"
+        "es-ES": "[Sonic]\nBueno, yo seré la carnada aquí..."
     },
     "CQPoCQ": {
         "en-US": "[Tails]\nSonic, something is wrong here..\nMetal Sonic is only looking at {0}.",
         "pt-BR": "[Tails]\nSonic, há algo de errado?\nMetal Sonic está olhando para {0} fixadamente.",
-        "es-ES": "¡Colas!\nSonic, algo está mal…\nMetal Sonic solo mira a {0}."
+        "es-ES": "¡Colas!\nSonic, algo está mal...\nMetal Sonic solo mira a {0}."
     },
     "CgPoCQ": {
         "en-US": "[{0}]\nWhy?",
@@ -377,7 +377,7 @@
     "CwPoCQ": {
         "en-US": "[Tails]\nThis is just a guess...\nMetal Sonic didn't expect an irregular variable, in this case, the adventurer.",
         "pt-BR": "[Tails]\nÉ só um palpite...\nTalvez ele não esperava mais alguém com a gente...?",
-        "es-ES": "¡Colas!\nEsto es solo una suposición…\nMetal Sonic no esperaba una variable irregular, en este caso, el trotamundos."
+        "es-ES": "¡Colas!\nEsto es solo una suposición...\nMetal Sonic no esperaba una variable irregular, en este caso, el trotamundos."
     },
     "DAPoCQ": {
         "en-US": "[Sonic]\nLet's make a quick decision, {0}.\nIf you're an Adventurer, you can at least fight, right?\nJust hang in there until me and Tails save the monsters out there!",
@@ -402,12 +402,12 @@
     "EAPoCQ": {
         "en-US": "Metal Sonic: ...",
         "pt-BR": "Metal Sonic: ...",
-        "es-ES": "Metal Sonic: …"
+        "es-ES": "Metal Sonic: ..."
     },
     "EQPoCQ": {
         "en-US": "Sonic: Why...",
         "pt-BR": "Sonic: Por que...",
-        "es-ES": "Por qué…"
+        "es-ES": "Por qué..."
     },
     "EgPoCQ": {
         "en-US": "Tails: Why is this happening~!!",
@@ -417,7 +417,7 @@
     "EwPoCQ": {
         "en-US": "Sonic: Knuckles! no way...",
         "pt-BR": "Sonic: Knuckles! Sem chance...",
-        "es-ES": "¡Knuckles! De ninguna manera…"
+        "es-ES": "¡Knuckles! De ninguna manera..."
     },
     "FAPoCQ": {
         "en-US": "Knuckles: I was asked to bring an adventurer there. It seems like the adventurer is interfering with the research..",
@@ -437,7 +437,7 @@
     "FwPoCQ": {
         "en-US": "[Tails]\nPhew...\nI was so scared.",
         "pt-BR": "[Tails]\nNossa...\nEstou surpreso, sério.",
-        "es-ES": "¡Colas!\nFiu…\nTenía mucho miedo."
+        "es-ES": "¡Colas!\nFiu...\nTenía mucho miedo."
     },
     "GAPoCQ": {
         "en-US": "[Tails]\nI think that's the way out.",
@@ -447,7 +447,7 @@
     "GQPoCQ": {
         "en-US": "[Sonic]\nKnuckles... What happened?",
         "pt-BR": "[Sonic]\nKnuckles... o que aconteceu?",
-        "es-ES": "[Sonic]\nKnuckles… ¿Qué sucedió?"
+        "es-ES": "[Sonic]\nKnuckles... ¿Qué sucedió?"
     },
     "GgPoCQ": {
         "en-US": "Sonic: A little bit more!",
@@ -457,17 +457,17 @@
     "GwPoCQ": {
         "en-US": "[Sonic]\nYou are so strong, {0}.\nOf course you are adventurer, but...\nIt might have something to do with Eggman's research.",
         "pt-BR": "[Sonic]\nVocê é realmente forte, {0}.\nDeu um pouco de trabalho, mas...\nisso deve ter algo a ver com o Dr. Eggman.",
-        "es-ES": "[Sonic]\nEres tan fuerte, {0}.\nClaro que eres trotamundos, pero…\nPodría tener algo que ver con la investigación de Eggman."
+        "es-ES": "[Sonic]\nEres tan fuerte, {0}.\nClaro que eres trotamundos, pero...\nPodría tener algo que ver con la investigación de Eggman."
     },
     "HAPoCQ": {
         "en-US": "[Knuckles]\nYeah... He wanted to use you for his research, {0}. I see.",
         "pt-BR": "[Knuckles]\nSim... eu tinha uma missão.",
-        "es-ES": "[Knuckles]\nSí… Quería utilizarte para su investigación, {0}. Ya veo."
+        "es-ES": "[Knuckles]\nSí... Quería utilizarte para su investigación, {0}. Ya veo."
     },
     "HQPoCQ": {
         "en-US": "[Tails]\nIt could be... We haven't seen these animals before.",
         "pt-BR": "[Tails]\nHmm... você nunca viu esses animais daqui antes, certo?",
-        "es-ES": "¡Colas!\nPodría ser… No habíamos visto estos animales antes."
+        "es-ES": "¡Colas!\nPodría ser... No habíamos visto estos animales antes."
     },
     "HgPoCQ": {
         "en-US": "[Sonic]\nKnuckles, Don't you have anything to say?",
@@ -532,7 +532,7 @@
     "KgPoCQ": {
         "en-US": "[Tails]\nActually we didn't, but...",
         "pt-BR": "[Tails]\nVeio com a gente meio que sem querer...",
-        "es-ES": "¡Colas!\nEn realidad no lo hicimos, pero…"
+        "es-ES": "¡Colas!\nEn realidad no lo hicimos, pero..."
     },
     "KwPoCQ": {
         "en-US": "[Sonic]\nAnyway, Knuckles.\nWho told you to bring {0}?\nDr. Eggman?",
@@ -552,7 +552,7 @@
     "LgPoCQ": {
         "en-US": "[Knuckles]\nHe said he will give me back Chaos Emeralds if I...",
         "pt-BR": "[Knuckles]\nEntregando o viajante, trocaremos pelas Esmeraldas do Caos.",
-        "es-ES": "[Knuckles]\nDijo que me devolvería las Esmeraldas del Caos si yo…"
+        "es-ES": "[Knuckles]\nDijo que me devolvería las Esmeraldas del Caos si yo..."
     },
     "LwPoCQ": {
         "en-US": "[Tails]\nHe will not!",
@@ -577,7 +577,7 @@
     "MwPoCQ": {
         "en-US": "[Sonic]\nYou are not listening...",
         "pt-BR": "[Sonic]\nVocê não está ouvindo...",
-        "es-ES": "[Sonic]\nNo estás escuchando…"
+        "es-ES": "[Sonic]\nNo estás escuchando..."
     },
     "NAPoCQ": {
         "en-US": "[Tails]\nWhat should we do, Sonic?",
@@ -592,7 +592,7 @@
     "NgPoCQ": {
         "en-US": "[Knuckles]\nPhew...",
         "pt-BR": "[Knuckles]\nUfa...",
-        "es-ES": "[Knuckles]\nFiu…"
+        "es-ES": "[Knuckles]\nFiu..."
     },
     "NwPoCQ": {
         "en-US": "Knuckles",
@@ -607,7 +607,7 @@
     "OQPoCQ": {
         "en-US": "Sonic: uh? hey! you...",
         "pt-BR": "Sonic: Hã? Ei! Você...",
-        "es-ES": "Sonic: ¿Ah? ¡Ey! Tú…"
+        "es-ES": "Sonic: ¿Ah? ¡Ey! Tú..."
     },
     "OgPoCQ": {
         "en-US": "Tails: If you do this, you can't help the adventurer!",
@@ -732,7 +732,7 @@
     "UgPoCQ": {
         "en-US": "[Sonic]\nIt looks fine..",
         "pt-BR": "[Sonic]\n...Ele parece bem.",
-        "es-ES": "[Sonic]\nSe ve bien…"
+        "es-ES": "[Sonic]\nSe ve bien..."
     },
     "UwPoCQ": {
         "en-US": "[Chao]\nChaoChao, Chao~.",
@@ -767,7 +767,7 @@
     "WQPoCQ": {
         "en-US": "[Tails]\nOkay.\nThen...",
         "pt-BR": "[Tails]\nOk.\nEntão...",
-        "es-ES": "¡Colas!\nBueno.\nEntonces…"
+        "es-ES": "¡Colas!\nBueno.\nEntonces..."
     },
     "WgPoCQ": {
         "en-US": "[Sonic]\nLet's go!",
@@ -777,7 +777,7 @@
     "WwPoCQ": {
         "en-US": "Tails: Water is clean...",
         "pt-BR": "Tails: A água está bem limpa por aqui...",
-        "es-ES": "¡Colas! El agua está limpia…"
+        "es-ES": "¡Colas! El agua está limpia..."
     },
     "XAPoCQ": {
         "en-US": "Brainwashed Angeling",
@@ -827,7 +827,7 @@
     "ZQPoCQ": {
         "en-US": "[Chao]\nChao, Ch~ao...\n(It seems like we're all going somewhere together, but it's not dangerous. Chao...)",
         "pt-BR": "[Chao]\nChao, Chao...\n(Acho que estamos todos indo pro mesmo lugar Chao...)",
-        "es-ES": "[Chao]\nChao, Ch~ao…\n(Parece que vamos todos juntos a alguna parte, pero no es peligroso. Chao…)"
+        "es-ES": "[Chao]\nChao, Ch~ao...\n(Parece que vamos todos juntos a alguna parte, pero no es peligroso. Chao...)"
     },
     "ZgPoCQ": {
         "en-US": "[Chao]\nChaoChao.",
@@ -917,7 +917,7 @@
     "dwPoCQ": {
         "en-US": "[Dr. Eggman]\nCough, cough...\nStrategic, Retreat!",
         "pt-BR": "[Dr. Eggman]\nHehehe, hehehe...\nOh, é um cesar-fogo meramente operacional!",
-        "es-ES": "[Dr. Eggman]\nCof, cof…\n¡Retirada estratégica!"
+        "es-ES": "[Dr. Eggman]\nCof, cof...\n¡Retirada estratégica!"
     },
     "eAPoCQ": {
         "en-US": "[Tails]\nThat guy couldn't have gone far!",
@@ -977,12 +977,12 @@
     "gwPoCQ": {
         "en-US": "Sonic: You coward!, I... I can't move!",
         "pt-BR": "Sonic: Droga... Eu não consigo me mexer!",
-        "es-ES": "¡Cobarde! Yo… No puedo… moverme…"
+        "es-ES": "¡Cobarde! Yo... No puedo... moverme..."
     },
     "hAPoCQ": {
         "en-US": "Tails: Ugh... I can't escape!",
         "pt-BR": "Tails: Grrr... Eu também não!",
-        "es-ES": "¡Colas! Uf… ¡No puedo escapar!"
+        "es-ES": "¡Colas! Uf... ¡No puedo escapar!"
     },
     "hQPoCQ": {
         "en-US": "Dr. Eggman : I'll put an end to it!",
@@ -997,7 +997,7 @@
     "hwPoCQ": {
         "en-US": "[Dr. Eggman]\nUgh...you're really fast!",
         "pt-BR": "[Dr. Eggman]\nVocê chegou bem na hora!",
-        "es-ES": "[Dr. Eggman]\n¡Uf… eres muy rápido!"
+        "es-ES": "[Dr. Eggman]\n¡Uf... eres muy rápido!"
     },
     "iAPoCQ": {
         "en-US": "[Sonic]\nNo running away now!",
@@ -1022,7 +1022,7 @@
     "jAPoCQ": {
         "en-US": "[Sonic]\nHehe! You knew I would hear that... huh?",
         "pt-BR": "[Sonic]\nHah! Você sabe que eu posso te ouvir... né?",
-        "es-ES": "[Sonic]\nJe, je. Sabías que oiría eso… ¿eh?"
+        "es-ES": "[Sonic]\nJe, je. Sabías que oiría eso... ¿eh?"
     },
     "jQPoCQ": {
         "en-US": "[{0}]\nSince you started a fight with me, I will deal with you!\nLeave it to me!",
@@ -1032,12 +1032,12 @@
     "jgPoCQ": {
         "en-US": "[Sonic]\n...Great! Great spirit, {0}!\nOK! Show me your true power, adventurer!",
         "pt-BR": "[Sonic]\n...Ótimo! Confio em você, {0}!\nOk! Mostra pra ele do que você é capaz!",
-        "es-ES": "[Sonic]\n¡Genial…! ¡Cuánto espíritu, {0}!\n¡De acuerdo! ¡Muéstrame tu verdadero poder, trotamundos!"
+        "es-ES": "[Sonic]\n¡Genial...! ¡Cuánto espíritu, {0}!\n¡De acuerdo! ¡Muéstrame tu verdadero poder, trotamundos!"
     },
     "jwPoCQ": {
         "en-US": "[Dr. Eggman]\nHo-ho-ho... You have great confidence, young adventurer.\nJust give it a try! There's no use regretting it later!",
         "pt-BR": "[Dr. Eggman]\nHo ho ho... Quanta confiança, jovem.\nVamos! Não vamos chorar sobre o leite derramado!",
-        "es-ES": "[Dr. Eggman]\nJo, jo, jo… Tienes mucha confianza, joven trotamundos.\n¡Inténtalo! ¡No sirve de nada arrepentirse después»"
+        "es-ES": "[Dr. Eggman]\nJo, jo, jo... Tienes mucha confianza, joven trotamundos.\n¡Inténtalo! ¡No sirve de nada arrepentirse después»"
     },
     "kAPoCQ": {
         "en-US": "[{0}]\nI'll teach you a lesson!",
@@ -1052,7 +1052,7 @@
     "kgPoCQ": {
         "en-US": "[Dr. Eggman]\nUghh...",
         "pt-BR": "[Dr. Eggman]\nUrgh...",
-        "es-ES": "[Dr. Eggman]\nUfff…"
+        "es-ES": "[Dr. Eggman]\nUfff..."
     },
     "kwPoCQ": {
         "en-US": "[Sonic]\nChaos Emeralds, recovery complete.",
@@ -1062,7 +1062,7 @@
     "lAPoCQ": {
         "en-US": "[Tails]\nReally {0}, sorry to brought you in to this kind of mess...\nStill, I'm glad that all the monster friends were released.",
         "pt-BR": "[Tails]\n{0} veio parar aqui e nos ajudou muito...\nEstou feliz que todos os amigos animais estejam livres.",
-        "es-ES": "¡Colas!\n{0}, siento haberte metido en este lío…\nAun así, me alegro de que todos los monstruos amigos sean libres ahora."
+        "es-ES": "¡Colas!\n{0}, siento haberte metido en este lío...\nAun así, me alegro de que todos los monstruos amigos sean libres ahora."
     },
     "lQPoCQ": {
         "en-US": "[Sonic]\n{0}, good job.\nAlso Tails, can you fix the machine so you can send the adventurer back?",
@@ -1077,7 +1077,7 @@
     "lwPoCQ": {
         "en-US": "[Tails]\n..if you do it like this... and.. like this...",
         "pt-BR": "[Tails]\n...É só mexer aqui... e aqui...",
-        "es-ES": "¡Colas!\nSi lo haces así… y… así..."
+        "es-ES": "¡Colas!\nSi lo haces así... y... así..."
     },
     "mAPoCQ": {
         "en-US": "There you go! We can now operate stably with the power of all seven Chaos Emeralds.",
@@ -1137,7 +1137,7 @@
     "owPoCQ": {
         "en-US": "[Sonic]\nYeah!\nSomeday for sure...",
         "pt-BR": "[Sonic]\nSim!\nAlgum dia...",
-        "es-ES": "[Sonic]\n¡Sí!\nAlgún día seguro…"
+        "es-ES": "[Sonic]\n¡Sí!\nAlgún día seguro..."
     },
     "pAPoCQ": {
         "en-US": "[Tails]\nSee you again!",
@@ -1212,12 +1212,12 @@
     "sgPoCQ": {
         "en-US": "[Sonic]\nEggman...!\nYou can not run away now, huh?",
         "pt-BR": "[Sonic]\nEggman...!\nNão há para onde fugir!",
-        "es-ES": "[Sonic]\n¡Eggman…!\nNo puedes huir ahora, ¿eh?"
+        "es-ES": "[Sonic]\n¡Eggman...!\nNo puedes huir ahora, ¿eh?"
     },
     "swPoCQ": {
         "en-US": "[Sonic]\nI.. I can't move!\nEggman, you coward!",
         "pt-BR": "[Sonic]\nEu não consigo me mexer!\nDroga, Eggman!",
-        "es-ES": "[Sonic]\nYo… No puedo… moverme…\n¡Eggman, cobarde!"
+        "es-ES": "[Sonic]\nYo... No puedo... moverme...\n¡Eggman, cobarde!"
     },
     "tAPoCQ": {
         "en-US": "[Sonic]\nWe'll meet again!",

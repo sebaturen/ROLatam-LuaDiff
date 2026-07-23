@@ -7,7 +7,7 @@
     "4RD5AQ": {
         "en-US": "[Niflheim Guide]\nI would like to guide you around ^8B4513niflheim^000000....\njust ask me whatever you want...",
         "pt-BR": "[Guia de Niflheim]\nEu gostaria de guiá-lo por ^8B4513niflheim^000000....\npergunte-me o que quiser...",
-        "es-ES": "[Guía de Niflheim]\nMe gustaría guiarte por ^8B4513Niflheim^000000…\nSolo pregúntame lo que quieras…"
+        "es-ES": "[Guía de Niflheim]\nMe gustaría guiarte por ^8B4513Niflheim^000000...\nSolo pregúntame lo que quieras..."
     },
     "4hD5AQ": {
         "en-US": "Tool Shop",
@@ -62,12 +62,12 @@
     "7BD5AQ": {
         "en-US": "[Niflheim Guide]\nI would erase the spots on your map...\nDo you need any other help?..",
         "pt-BR": "[Guia de Niflheim]\nEu apagaria os pontos em seu mapa...\nVocê precisa de mais alguma ajuda?",
-        "es-ES": "[Guía de Niflheim]\nYo borraría las marcas de tu mapa…\n¿Necesitas ayuda con alguna otra cosa…?"
+        "es-ES": "[Guía de Niflheim]\nYo borraría las marcas de tu mapa...\n¿Necesitas ayuda con alguna otra cosa...?"
     },
     "7RD5AQ": {
         "en-US": "[Niflheim Guide]\n....See you..",
         "pt-BR": "[Guia de Niflheim]\n....Veja você...",
-        "es-ES": "[Guía de Niflheim]\n…Nos vemos…"
+        "es-ES": "[Guía de Niflheim]\n...Nos vemos..."
     },
     "7hD5AQ": {
         "en-US": "Umbala Guide",
@@ -157,7 +157,7 @@
     "/xD5AQ": {
         "en-US": "[Lutie Guide]\nWelcome to the \n^8B4513Lutie village.^000000\njust ask me whatever you want...",
         "pt-BR": "[Guia de Lutie]\nBem-vindo ao vilarejo de Lutie. \n^8B4513aldeia Lutie.^000000\npergunte-me o que quiser...",
-        "es-ES": "[Guía de Lutie]\nTe damos la bienvenida a la \n^8B4513aldea de Lutie.^000000\nSolo pregúntame lo que quieras…"
+        "es-ES": "[Guía de Lutie]\nTe damos la bienvenida a la \n^8B4513aldea de Lutie.^000000\nSolo pregúntame lo que quieras..."
     },
     "ABH5AQ": {
         "en-US": "Gift Shop",
@@ -222,7 +222,7 @@
     "DBH5AQ": {
         "en-US": "[Lutie Guide]\nI would erase the spot...\ndo you need any other help?..",
         "pt-BR": "[Guia Lutie]\nEu apagaria a mancha...\nvocê precisa de mais alguma ajuda?...",
-        "es-ES": "[Guía de Lutie]\nYo borraría la marca…\n¿Necesitas ayuda con alguna otra cosa…?"
+        "es-ES": "[Guía de Lutie]\nYo borraría la marca...\n¿Necesitas ayuda con alguna otra cosa...?"
     },
     "DRH5AQ": {
         "en-US": "[Lutie Guide]\nHave a good trip.",

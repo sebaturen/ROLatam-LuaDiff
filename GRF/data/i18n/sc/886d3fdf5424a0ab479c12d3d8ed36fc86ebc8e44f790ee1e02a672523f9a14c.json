@@ -142,7 +142,7 @@
     "XJxxAg": {
         "en-US": "[Mana]\nYou did it...in time.\nI don't understand why Porings appear at that time of the day.\nAnyway, good job.",
         "pt-BR": "[Mana]\nVocê conseguiu... a tempo.\nNão entendo por que os Porings aparecem a essa hora do dia.\nDe qualquer forma, bom trabalho.",
-        "es-ES": "[Mana]\nLo hiciste… a tiempo.\nNo sé por qué los Poring aparecen a esa hora del día.\nEn fin, buen trabajo."
+        "es-ES": "[Mana]\nLo hiciste... a tiempo.\nNo sé por qué los Poring aparecen a esa hora del día.\nEn fin, buen trabajo."
     },
     "XZxxAg": {
         "en-US": "[Mana]\nIt seems like you haven't accomplished the mission yet?\nThis mission is to eliminate suspicious Porings that secretly appear at the fortress in Kafragarten.",
@@ -217,12 +217,12 @@
     "a5xxAg": {
         "en-US": "[Mana]\nSince you've done a good job, I'll let you open my tool box twice.\nThere might be nothing there...\nIt's a bonus, so don't complain if you don't find anything.",
         "pt-BR": "[Mana]\nComo você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas duas vezes.\nPode ser que não haja nada lá...\nÉ um bônus, então não reclame se não encontrar nada.",
-        "es-ES": "[Mana]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas dosveces.\nPuede que no haya nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Mana]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas dosveces.\nPuede que no haya nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "bJxxAg": {
         "en-US": "Just like Mana said, you went through the box in front, and...",
         "pt-BR": "Assim como Mana disse, você passou pela caixa na frente e...",
-        "es-ES": "Tal como dijo Mana, revisaste la caja de enfrente, y…"
+        "es-ES": "Tal como dijo Mana, revisaste la caja de enfrente, y..."
     },
     "bZxxAg": {
         "en-US": "you found 'Rune Ring!'",
@@ -252,7 +252,7 @@
     "cpxxAg": {
         "en-US": "[Mana]\nYou're already on an elimination mission!\nI would like you to take care of what you already have...unless you want to cancel it.",
         "pt-BR": "[Mana]\nVocê já está em uma missão de eliminação!\nGostaria que você cuidasse do que já tem... a menos que queira cancelá-la.",
-        "es-ES": "[Mana]\n¡Ya estás en una misión de eliminación!\nPreferiría que te ocuparas de la misión que ya tienes… a menos que quieras cancelarla."
+        "es-ES": "[Mana]\n¡Ya estás en una misión de eliminación!\nPreferiría que te ocuparas de la misión que ya tienes... a menos que quieras cancelarla."
     },
     "c5xxAg": {
         "en-US": "[Mana]\nI've been told that suspicious Porings appear during the busy siege hours at the fortress in Kafragarten.\nI would like you to ^4D4DFF eliminate 10 or more of suspicious Porings^000000.",
@@ -262,7 +262,7 @@
     "dJxxAg": {
         "en-US": "[Mana]\nSince you've done a good job, I'll let you open my tool box 3 times.\nThere might be nothing there...\nIt's a bonus, so don't complain if you don't find anything.",
         "pt-BR": "[Mana]\nComo você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas 3 vezes.\nPode ser que não haja nada lá...\nÉ um bônus, então não reclame se não encontrar nada.",
-        "es-ES": "[Mana]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 3 veces.\nPuede que no haya nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Mana]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 3 veces.\nPuede que no haya nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "dZxxAg": {
         "en-US": "[Mana]\nIt seems like you didn't accomplish the mission yet?\nThis mission is to eliminate suspicious Porings that secretly appear at the fortress in Kafragarten.",
@@ -282,7 +282,7 @@
     "eJxxAg": {
         "en-US": "[Mana]\nSince you've done a good job, I'll let you open my tool box once.\nThere might be nothing there...\nIt's a bonus, so don't complain if you don't find anything.",
         "pt-BR": "[Mana]\nJá que você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas uma vez.\nPode ser que não haja nada lá...\nÉ um bônus, então não reclame se não encontrar nada.",
-        "es-ES": "[Mana]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas unavez.\nPuede que no haya nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Mana]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas unavez.\nPuede que no haya nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "eZxxAg": {
         "en-US": "[Mana]\nIt seems like you haven't accomplished the mission yet?\nThis mission is to ^4D4DFF destroy Emperiums that exist all over Gloria and Kafragarten regions.^000000",
@@ -297,7 +297,7 @@
     "e5xxAg": {
         "en-US": "[Mana]\nYou're already on a mission of the same content,\nthe level is different though...\nI would like you to take care of what you already have...unless you want to cancel it.",
         "pt-BR": "[Mana]\nVocê já está em uma missão com o mesmo conteúdo,\nmas o nível é diferente...\nGostaria que você cuidasse do que já tem... a menos que queira cancelá-la.",
-        "es-ES": "[Mana]\nYa tienes una misión del mismo tipo,\naunque el nivel sea diferente…\nPreferiría que te ocuparas de la misión que ya tienes… a menos que quieras cancelarla."
+        "es-ES": "[Mana]\nYa tienes una misión del mismo tipo,\naunque el nivel sea diferente...\nPreferiría que te ocuparas de la misión que ya tienes... a menos que quieras cancelarla."
     },
     "fJxxAg": {
         "en-US": "[Mana]\nThere is something called 'commercial development level' in each fortress.\nIt increases as much as each guild invests.",
@@ -342,7 +342,7 @@
     "hJxxAg": {
         "en-US": "[Mana]\nSince you've done a good job, I'll let you open my tool box 5 times.\nThere might be nothing there...\nIt's a bonus, so don't complain if you don't find anything.",
         "pt-BR": "[Mana]\nComo você fez um bom trabalho, vou deixá-lo abrir minha caixa de ferramentas 5 vezes.\nPode ser que não haja nada lá...\nÉ um bônus, então não reclame se não encontrar nada.",
-        "es-ES": "[Mana]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 5 veces.\nPuede que no haya nada…\nEs algo extra, así que no te quejes si no encuentras nada."
+        "es-ES": "[Mana]\nComo hiciste un buen trabajo, te dejaré abrir mi caja de herramientas 5 veces.\nPuede que no haya nada...\nEs algo extra, así que no te quejes si no encuentras nada."
     },
     "hZxxAg": {
         "en-US": "[Mana]\nGloria or Kafragarten, wherever it is! Right now, at this very hour, ^4D4DFF destroy Emperiums!^000000\n^4D4DFFTarget number is 5 or more!^000000",
@@ -352,7 +352,7 @@
     "hpxxAg": {
         "en-US": "[Mana]\n10 or more of paychecks...let's see...you've done it right.\nI don't understand why Porings would steal Kafra's Paychecks...\nAnyway, good job.",
         "pt-BR": "[Mana]\n10 ou mais contracheques... vejamos... você fez tudo certo.\nNão entendo por que Porings roubaria os contracheques da Kafra...\nDe qualquer forma, bom trabalho.",
-        "es-ES": "[Mana]\n10 o más Pagas… a ver… lo hiciste bien.\nNo entiendo por qué los Poring robarían las Pagas de Kafra…\nEn fin, buen trabajo."
+        "es-ES": "[Mana]\n10 o más Pagas... a ver... lo hiciste bien.\nNo entiendo por qué los Poring robarían las Pagas de Kafra...\nEn fin, buen trabajo."
     },
     "h5xxAg": {
         "en-US": "[Mana]\nLet me take the rest of the paychecks.\nI'll return it to its original owner.",
@@ -367,7 +367,7 @@
     "iZxxAg": {
         "en-US": "[Mana]\nHmm...you wouldn't believe it, but this mission is related to a theft.\nThey told me a bunch of Kafra's paychecks is missing from the fortress in Kafragarten.",
         "pt-BR": "[Mana]\nHmm... você não vai acreditar, mas essa missão está relacionada a um roubo.\nDisseram-me que um monte de contracheques da Kafra desapareceram da fortaleza em Kafragarten.",
-        "es-ES": "[Mana]\nMmm… no lo creerás, pero esta misión está relacionada con un robo.\nDicen que desaparecieron un montón de Pagas de Kafra de la fortaleza de Kafragarten."
+        "es-ES": "[Mana]\nMmm... no lo creerás, pero esta misión está relacionada con un robo.\nDicen que desaparecieron un montón de Pagas de Kafra de la fortaleza de Kafragarten."
     },
     "ipxxAg": {
         "en-US": "[Mana]\nThe thief probably took advantage of the siege hours.\nIt's a request to find ^4D4DFF 10 or more of Kafra's stolen paychecks^000000.",
@@ -382,7 +382,7 @@
     "jJxxAg": {
         "en-US": "[Mana]\n30 or more of paychecks...let's see...you've done it right.\nI don't understand why Porings would steal Kafra's Paychecks...\nAnyway, good job.",
         "pt-BR": "[Mana]\n30 ou mais contracheques... vejamos... você fez tudo certo.\nNão entendo por que Porings roubaria os contracheques da Kafra...\nDe qualquer forma, bom trabalho.",
-        "es-ES": "[Mana]\n30 o más Pagas… a ver… lo hiciste bien.\nNo entiendo por qué los Poring robarían las Pagas de Kafra…\nEn fin, buen trabajo."
+        "es-ES": "[Mana]\n30 o más Pagas... a ver... lo hiciste bien.\nNo entiendo por qué los Poring robarían las Pagas de Kafra...\nEn fin, buen trabajo."
     },
     "jZxxAg": {
         "en-US": "[Mana]\nThe thief probably took advantage of the siege hours.\nIt's a request to find ^4D4DFF 30 or more of Kafra's stolen paychecks^000000.",
@@ -407,7 +407,7 @@
     "kZxxAg": {
         "en-US": "Mm, you were taking a break?\nWell, it doesn't matter anymore.......",
         "pt-BR": "Mm, você estava fazendo uma pausa?\nBem, isso não importa mais.......",
-        "es-ES": "Mm, ¿te estabas tomando un descanso?\nBueno, ya no importa…"
+        "es-ES": "Mm, ¿te estabas tomando un descanso?\nBueno, ya no importa..."
     },
     "kpxxAg": {
         "en-US": "You can only check the results of the missions you've already accepted.",
@@ -417,7 +417,7 @@
     "k5xxAg": {
         "en-US": "[Mana]\nHmm...you still have some time left, but it's not the siege hour yet...\nI don't think you should go on.\nYou should cancel this mission. I would say it's failed.",
         "pt-BR": "[Mana]\nHmm... você ainda tem algum tempo sobrando, mas ainda não é a hora do cerco...\nAcho que você não deve continuar.\nVocê deve cancelar essa missão. Eu diria que ela fracassou.",
-        "es-ES": "[Mana]\nMmm… todavía te queda algo de tiempo, pero aún no es hora del guerra…\nNo creo que debas seguir.\nDeberías cancelar esta misión. Yo diría que fallaste."
+        "es-ES": "[Mana]\nMmm... todavía te queda algo de tiempo, pero aún no es hora del guerra...\nNo creo que debas seguir.\nDeberías cancelar esta misión. Yo diría que fallaste."
     },
     "lJxxAg": {
         "en-US": "I would like to go on.",
@@ -432,7 +432,7 @@
     "lpxxAg": {
         "en-US": "[Mana]\n...I don't think it's worth it. Well, good luck!",
         "pt-BR": "[Mana]\n...acho que não vale a pena. Bem, boa sorte!",
-        "es-ES": "[Mana]\n…No creo que valga la pena. Bien, ¡buena suerte!"
+        "es-ES": "[Mana]\n...No creo que valga la pena. Bien, ¡buena suerte!"
     },
     "l5xxAg": {
         "en-US": "[Mana]\nYou're not on this mission currently.\nCould you check again?",
@@ -442,7 +442,7 @@
     "mJxxAg": {
         "en-US": "[Mana]\n20 or more of paychecks...let's see...you've done it right.\nI don't understand why Porings would steal Kafra's Paychecks...\nAnyway, good job.",
         "pt-BR": "[Mana]\n20 ou mais contracheques... vejamos... você fez tudo certo.\nNão entendo por que Porings roubaria os contracheques da Kafra...\nDe qualquer forma, bom trabalho.",
-        "es-ES": "[Mana]\n20 o más Pagas… a ver… lo hiciste bien.\nNo entiendo por qué los Poring robarían las Pagas de Kafra…\nEn fin, buen trabajo."
+        "es-ES": "[Mana]\n20 o más Pagas... a ver... lo hiciste bien.\nNo entiendo por qué los Poring robarían las Pagas de Kafra...\nEn fin, buen trabajo."
     },
     "mZxxAg": {
         "en-US": "[Mana]\nSince TE Region has more of a casual atmosphere,\nit's not fun doing just siege battles, right?\nSo, I brought ^4D4DFF some works you can do during the siege hours^000000~",
@@ -472,7 +472,7 @@
     "npxxAg": {
         "en-US": "[Mana]\nAh...you...\nbased on TE rules, I won't be ordering you or asking you favors unfortunately.",
         "pt-BR": "[Mana]\nAh... é você...\ncom base nas regras da TE, infelizmente não vou lhe dar ordens nem pedir favores.",
-        "es-ES": "[Mana]\nAh… tú…\nSegún las reglas de la TE, no será posible pedirte favores ni darte órdenes, lamentablemente."
+        "es-ES": "[Mana]\nAh... tú...\nSegún las reglas de la TE, no será posible pedirte favores ni darte órdenes, lamentablemente."
     },
     "n5xxAg": {
         "en-US": "[Mana]\nHey now, since this place is just for primary and secondary job classes as well as users without expanded levels, could you leave if you got nothing else to do here?",

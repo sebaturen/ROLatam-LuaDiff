@@ -2824,7 +2824,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_Humma",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -2849,7 +2849,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_C_Humma",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -2874,7 +2874,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_Revolver",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -2899,7 +2899,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_Rifle",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -2924,7 +2924,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_Gatling",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -2949,7 +2949,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_Launcher",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -2974,7 +2974,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_Moon_B",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -2999,7 +2999,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_Star_B",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -3024,7 +3024,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_S_Stick",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -3049,7 +3049,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_D_Wand",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -3074,7 +3074,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_F_Wand",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -3099,7 +3099,7 @@ ReformInfo = {
 			Sanctuary_Sudarium = 200,
 			Ep18_Amethyst_Fragment = 400
 		},
-		ResultItem = "Vivatus_F_Lance",
+		ResultItem = "Vivatus_F_F_model",
 		NeedRefineMin = 9,
 		NeedRefineMax = 20,
 		NeedOptionNumMin = 0,
@@ -3179,7 +3179,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3199,7 +3199,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3219,7 +3219,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3239,7 +3239,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3259,7 +3259,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3279,7 +3279,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3299,7 +3299,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3319,7 +3319,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3339,7 +3339,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3359,7 +3359,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3379,7 +3379,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3399,7 +3399,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3419,7 +3419,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3439,7 +3439,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3459,7 +3459,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3479,7 +3479,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3499,7 +3499,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3519,7 +3519,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3539,7 +3539,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3559,7 +3559,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3579,7 +3579,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3599,7 +3599,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3619,7 +3619,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3639,7 +3639,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3659,7 +3659,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3679,7 +3679,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3699,7 +3699,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3719,7 +3719,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3739,7 +3739,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3759,7 +3759,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3779,7 +3779,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3799,7 +3799,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3819,7 +3819,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3839,7 +3839,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3859,7 +3859,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3879,7 +3879,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3899,7 +3899,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3919,7 +3919,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3939,7 +3939,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3959,7 +3959,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3979,7 +3979,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -3999,7 +3999,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4019,7 +4019,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4039,7 +4039,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4059,7 +4059,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4079,7 +4079,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4099,7 +4099,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4119,7 +4119,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4139,7 +4139,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4159,7 +4159,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : Mantidas",
+			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4179,7 +4179,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4199,7 +4199,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4219,7 +4219,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4239,7 +4239,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4259,7 +4259,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4279,7 +4279,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4299,7 +4299,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4319,7 +4319,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4339,7 +4339,7 @@ ReformInfo = {
 		PreserveGrade = true,
 		InformationString = {
 			"<B>Informações do resultado da combinação</B>",
-			"1) Nível de refino  : ^4D4DFF+1^000000",
+			"1) Nível de refino : ^4D4DFF+1^000000",
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas",
 			"4) Informações de classificação : Mantidas"
@@ -4365,7 +4365,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[592] = {
@@ -4388,7 +4388,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[593] = {
@@ -4411,7 +4411,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[594] = {
@@ -4434,7 +4434,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[595] = {
@@ -4457,7 +4457,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[596] = {
@@ -4480,7 +4480,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[597] = {
@@ -4503,7 +4503,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[598] = {
@@ -4526,7 +4526,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[599] = {
@@ -4549,7 +4549,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[600] = {
@@ -4572,7 +4572,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[601] = {
@@ -4595,7 +4595,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[602] = {
@@ -4618,7 +4618,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[603] = {
@@ -4641,7 +4641,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[604] = {
@@ -4664,7 +4664,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[605] = {
@@ -4687,7 +4687,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[606] = {
@@ -4710,7 +4710,7 @@ ReformInfo = {
 			"<B>Informações do resultado da combinação</B>",
 			"1) Nível de refino : Mantidas",
 			"2) Informações de opção aleatória : ser removido",
-			"3) Informações de classificação : Mantidas"
+			"3) Informações de cartas e encantamentos : Mantidas"
 		}
 	},
 	[318] = {
@@ -6516,6 +6516,806 @@ ReformInfo = {
 			"2) Informações de opção aleatória : Mantidas",
 			"3) Informações de cartas e encantamentos : Mantidas"
 		}
+	},
+	[171] = {
+		BaseItem = "S_Hasty_Weapon",
+		Material = {Shadowdecon = 10},
+		ResultItem = "S_Hasty_Shield",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : Mantidas",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[172] = {
+		BaseItem = "S_Infinity_Weapon",
+		Material = {Shadowdecon = 10},
+		ResultItem = "S_Infinity_Shield",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : Mantidas",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[269] = {
+		BaseItem = "S_CriticalHit_Armor",
+		Material = {Shadowdecon = 10},
+		ResultItem = "S_CriticalHit_Weapon",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : Mantidas",
+			"2) Informações de opção aleatória : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de classificação : Mantidas"
+		}
+	},
+	[297] = {
+		BaseItem = "S_KingbirdAncient_Armor",
+		Material = {Shadowdecon = 10},
+		ResultItem = "S_KingbirdAnc_Weapon",
+		NeedRefineMin = 0,
+		NeedRefineMax = 10,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : Mantidas",
+			"2) Informações de opção aleatória : Mantidas"
+		}
+	},
+	[918] = {
+		BaseItem = "Royal_Bow_K",
+		Material = {},
+		ResultItem = "Up_Royal_Bow_K",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[919] = {
+		BaseItem = "Shadow_Staff_K",
+		Material = {},
+		ResultItem = "Up_Shadow_Staff_K",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[920] = {
+		BaseItem = "Iron_Nail_K",
+		Material = {},
+		ResultItem = "Up_Iron_Nail_K",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[921] = {
+		BaseItem = "Ancient_Hero_Boots",
+		Material = {},
+		ResultItem = "Great_Hero_Boots",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[922] = {
+		BaseItem = "Blue_Crystal_Staff",
+		Material = {},
+		ResultItem = "Up_Blue_Crystal_Staff",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[923] = {
+		BaseItem = "Freezing_Rod",
+		Material = {},
+		ResultItem = "Up_Freezing_Rod",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[924] = {
+		BaseItem = "Sword_Of_Bluefire",
+		Material = {},
+		ResultItem = "Up_Sword_Of_Bluefire",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[925] = {
+		BaseItem = "Iron_Staff",
+		Material = {},
+		ResultItem = "Up_Iron_Staff",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[926] = {
+		BaseItem = "Oriental_Sword",
+		Material = {},
+		ResultItem = "Up_Oriental_Sword",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[927] = {
+		BaseItem = "Fog_Dew_Sword",
+		Material = {},
+		ResultItem = "Up_Fog_Dew_Sword",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[928] = {
+		BaseItem = "Humma_Clear",
+		Material = {},
+		ResultItem = "Up_Humma_Clear",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[929] = {
+		BaseItem = "Narcis_Bow",
+		Material = {},
+		ResultItem = "Up_Narcis_Bow",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[930] = {
+		BaseItem = "Magic_Sword",
+		Material = {},
+		ResultItem = "Up_Magic_Sword",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[931] = {
+		BaseItem = "Avenger",
+		Material = {},
+		ResultItem = "Up_Avenger",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[932] = {
+		BaseItem = "Undine_Spear_K",
+		Material = {},
+		ResultItem = "Up_Undine_Spear_K",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[933] = {
+		BaseItem = "Demon_Hunting_Bible_K",
+		Material = {},
+		ResultItem = "Up_Demon_Hunting_Bible",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[934] = {
+		BaseItem = "Shiver_Katar_K",
+		Material = {},
+		ResultItem = "Up_Shiver_Katar_K",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[935] = {
+		BaseItem = "OneSkyOneSun",
+		Material = {},
+		ResultItem = "Up_OneSkyOneSun",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[936] = {
+		BaseItem = "SoulWeight",
+		Material = {},
+		ResultItem = "Up_SoulWeight",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[937] = {
+		BaseItem = "MeawFoxtail",
+		Material = {},
+		ResultItem = "Up_MeawFoxtail",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[938] = {
+		BaseItem = "Freedom_Stick",
+		Material = {},
+		ResultItem = "Up_Freedom_Stick",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[939] = {
+		BaseItem = "Blessed_Knife",
+		Material = {},
+		ResultItem = "Up_Blessed_Knife",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[940] = {
+		BaseItem = "Dragonic_Slayer",
+		Material = {},
+		ResultItem = "Up_Dragonic_Slayer",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[941] = {
+		BaseItem = "Light_Blade",
+		Material = {},
+		ResultItem = "Up_Light_Blade",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[942] = {
+		BaseItem = "Slate_Sword",
+		Material = {},
+		ResultItem = "Up_Slate_Sword",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[943] = {
+		BaseItem = "Trumpet_Shell_K",
+		Material = {},
+		ResultItem = "Up_Trumpet_Shell_K",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[944] = {
+		BaseItem = "Barb_Wire_K",
+		Material = {},
+		ResultItem = "Up_Barb_Wire_K",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[945] = {
+		BaseItem = "Meteor_Striker",
+		Material = {},
+		ResultItem = "Up_Meteor_Striker",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[946] = {
+		BaseItem = "Saint_Hall",
+		Material = {},
+		ResultItem = "Up_Saint_Hall",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[947] = {
+		BaseItem = "Ray_Knuckle",
+		Material = {},
+		ResultItem = "Up_Ray_Knuckle",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[948] = {
+		BaseItem = "Blade_Katar",
+		Material = {},
+		ResultItem = "Up_Blade_Katar",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[949] = {
+		BaseItem = "Fatalist",
+		Material = {},
+		ResultItem = "Up_Fatalist",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[950] = {
+		BaseItem = "Scalet_Dragon_L_Bow",
+		Material = {},
+		ResultItem = "Up_Scalet_Dragon_L_Bow",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[951] = {
+		BaseItem = "Crimson_Rose",
+		Material = {},
+		ResultItem = "Up_Crimson_Rose",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[952] = {
+		BaseItem = "Master_Soul_Rifle",
+		Material = {},
+		ResultItem = "Up_Master_Soul_Rifle",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[953] = {
+		BaseItem = "Demon_S_Shot",
+		Material = {},
+		ResultItem = "Up_Demon_S_Shot",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[954] = {
+		BaseItem = "Golden_L_Launcher",
+		Material = {},
+		ResultItem = "Up_Golden_L_Launcher",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
+	},
+	[955] = {
+		BaseItem = "The_Black_Gatling",
+		Material = {},
+		ResultItem = "Up_The_Black_Gatling",
+		NeedRefineMin = 11,
+		NeedRefineMax = 20,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 0,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Refino: Mantido",
+			"2) Informações de opções aleatórias: Mantidas",
+			"3) Informações de cartas e encantamentos: Mantidas"
+		}
 	}
 }
 ReformItemList = {
@@ -6615,7 +7415,20 @@ ReformItemList = {
 		73,
 		74,
 		75,
-		76
+		76,
+		370,
+		371,
+		372,
+		373,
+		374,
+		375,
+		376,
+		377,
+		378,
+		379,
+		380,
+		381,
+		430
 	},
 	Consecrate_Weapon_2 = {
 		77,
@@ -6643,7 +7456,20 @@ ReformItemList = {
 		99,
 		100,
 		101,
-		102
+		102,
+		394,
+		395,
+		396,
+		397,
+		398,
+		399,
+		400,
+		401,
+		402,
+		403,
+		404,
+		405,
+		431
 	},
 	Hero_Weapon_Up_Box_1 = {
 		223,
@@ -6840,5 +7666,47 @@ ReformItemList = {
 		627,
 		628,
 		629
+	},
+	Shadow_Changer_W_Shi = {171, 172},
+	Shadow_Changer_A_W = {269, 297},
+	Hero_Up_Cube_11 = {
+		918,
+		919,
+		920,
+		921,
+		922,
+		923,
+		924,
+		925,
+		926,
+		927,
+		928,
+		929,
+		930,
+		931,
+		932,
+		933,
+		934,
+		935,
+		936,
+		937,
+		938,
+		939,
+		940,
+		941,
+		942,
+		943,
+		944,
+		945,
+		946,
+		947,
+		948,
+		949,
+		950,
+		951,
+		952,
+		953,
+		954,
+		955
 	}
 }

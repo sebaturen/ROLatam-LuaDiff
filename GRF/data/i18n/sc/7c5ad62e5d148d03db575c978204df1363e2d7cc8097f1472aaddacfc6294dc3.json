@@ -27,7 +27,7 @@
     "JXf8Ag": {
         "en-US": "[Working Blacksmith]\nHe can use safe refining... I don't understand why he takes such risks.",
         "pt-BR": "[Ferreira Winry]\nA questão é: você vai refinar com sabedoria ou está com vontade de arriscar tudo?",
-        "es-ES": "[Herrero trabajador]\nPuede usar el refinamiento seguro… No entiendo por qué se arriesga tanto."
+        "es-ES": "[Herrero trabajador]\nPuede usar el refinamiento seguro... No entiendo por qué se arriesga tanto."
     },
     "Jnf8Ag": {
         "en-US": "Refining Maniac",
@@ -37,7 +37,7 @@
     "J3f8Ag": {
         "en-US": "[Refining Maniac]\nShh...! Be quiet.\nI am focusing on ^3131FFrefining^000000.",
         "pt-BR": "[Zé Sentadinho]\nSilêncio, por favor!\nEstou focado em ^3131FFRefinar^000000 minha arma.",
-        "es-ES": "[Demente refinador]\n¡Shh…! Silencio.\nEstoy concentrado en el ^3131FFrefinamiento^000000."
+        "es-ES": "[Demente refinador]\n¡Shh...! Silencio.\nEstoy concentrado en el ^3131FFrefinamiento^000000."
     },
     "KHf8Ag": {
         "en-US": "What is refining?",
@@ -67,7 +67,7 @@
     "LXf8Ag": {
         "en-US": "[Refining Maniac]\nI'm trying to get to +10 right now... All my training is for this!",
         "pt-BR": "[Zé Sentadinho]\nEstou tentando conseguir um +10. Dessa vez vai dar certo!\nVamos, vamos. Tem que dar certo!",
-        "es-ES": "[Demente refinador]\nEstoy intentando llegar a +10 en este momento… ¡Mi entrenamiento entero es para esto!"
+        "es-ES": "[Demente refinador]\nEstoy intentando llegar a +10 en este momento... ¡Mi entrenamiento entero es para esto!"
     },
     "Lnf8Ag": {
         "en-US": "[Refining Maniac]\nPlease ask to the owner of refining, I have a important mission +10!",
@@ -77,6 +77,6 @@
     "L3f8Ag": {
         "en-US": "[Refining Maniac]\nCome on.. Co..me on...!!",
         "pt-BR": "[Zé Sentadinho]\nVamos, vamos!!!",
-        "es-ES": "[Demente refinador]\nVamos… ¡¡¡Vamos!!!"
+        "es-ES": "[Demente refinador]\nVamos... ¡¡¡Vamos!!!"
     }
 }

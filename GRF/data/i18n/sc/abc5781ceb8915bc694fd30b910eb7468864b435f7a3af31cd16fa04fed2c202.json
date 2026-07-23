@@ -57,7 +57,7 @@
     "S+Ez": {
         "en-US": "[Jahbong]\n...",
         "pt-BR": "[Jahbong]\n...",
-        "es-ES": "[Jahbong]\n…"
+        "es-ES": "[Jahbong]\n..."
     },
     "TOEz": {
         "en-US": "[Jahbong]\nYou mustn't joke about this with Jahbong. Don't do it again.",
@@ -82,7 +82,7 @@
     "UOEz": {
         "en-US": "[Jahbong]\nI don't really talk that much! Ahat looks like... meow meow meooow... sorry.",
         "pt-BR": "[Jahbong]\nEu não falo muito! O que parece... miau miau miau... desculpe.",
-        "es-ES": "[Jahbong]\n¡La verdad es que no hablo demasiado! Ahat se parece… miau, miau, miaaau… Lo siento."
+        "es-ES": "[Jahbong]\n¡La verdad es que no hablo demasiado! Ahat se parece... miau, miau, miaaau... Lo siento."
     },
     "UeEz": {
         "en-US": "[Jahbong]\nI have to groom myself everyday to maintain shiny fluffy fur. But I don't have very nice fur in the first place. Very sad.",
@@ -97,7 +97,7 @@
     "U+Ez": {
         "en-US": "[Jahbong]\nMeooooooow",
         "pt-BR": "[Jahbong]\nMiaaaaaaaaaaau!",
-        "es-ES": "[Jahbong]\nMiaaaaaaau…"
+        "es-ES": "[Jahbong]\nMiaaaaaaau..."
     },
     "VOEz": {
         "en-US": "[Jahbong]\nHuh?! Did I just say something!? Maybe it's in my head.",
@@ -232,7 +232,7 @@
     "buEz": {
         "en-US": "[Jahbong]\nHmmm... since you are a hero in our merchant group. Jahbong forgives you even for jokes like that.",
         "pt-BR": "[Jahbong]\nHmmm... já que todo mundo no nosso grupo de comerciantes conhece e admira você. Jahbong te perdoa até mesmo por piadas como essa.",
-        "es-ES": "[Jahbong]\nMmm…, como nuestro grupo de comerciantes te aprecia mucho, Jahbong te perdona incluso después de una broma como esa."
+        "es-ES": "[Jahbong]\nMmm..., como nuestro grupo de comerciantes te aprecia mucho, Jahbong te perdona incluso después de una broma como esa."
     },
     "b+Ez": {
         "en-US": "[Jahbong]\nMeooooooooooow!!!!!!!!~~ Meooooooooow!!!!!",
@@ -312,7 +312,7 @@
     "fuEz": {
         "en-US": "[Cat Paw Agent]\nHmm...{0} only have {1}Cat Merchant Points left.",
         "pt-BR": "[Agente da Pata de Gato]\nHmm... {0} só tem {1} Pontos de Comércio Gatuno restantes.",
-        "es-ES": "[Agente Pata de Gato]\nMmm… A {0} solo le quedan {1} puntos de gato comerciante."
+        "es-ES": "[Agente Pata de Gato]\nMmm... A {0} solo le quedan {1} puntos de gato comerciante."
     },
     "f+Ez": {
         "en-US": "[Cat Paw Agent]\nI'm sorry but you will need more to use the transport service here.",
@@ -352,7 +352,7 @@
     "huEz": {
         "en-US": "...the coin slot on the safe doesn't receive coins.\nYou don't have enough basic knowledge to use the safe.",
         "pt-BR": "... O compartimento de moedas do cofre não recebe moedas.\nVocê não tem conhecimento básico suficiente para usar o cofre.",
-        "es-ES": "… La ranura para monedas de la caja fuerte no recibe monedas.\nNo tienes el conocimiento básico suficiente para usar la caja fuerte."
+        "es-ES": "... La ranura para monedas de la caja fuerte no recibe monedas.\nNo tienes el conocimiento básico suficiente para usar la caja fuerte."
     },
     "h+Ez": {
         "en-US": "You don't have enough coins.\nYou need at least 500 Zeny to use the safe.",

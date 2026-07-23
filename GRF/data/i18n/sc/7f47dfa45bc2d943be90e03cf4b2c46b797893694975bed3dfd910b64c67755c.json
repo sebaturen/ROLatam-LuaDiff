@@ -77,7 +77,7 @@
     "L4NfBw": {
         "en-US": "[Police Chief Kesler]\nThis site was only recently discovered, and therefore fairly safe. I can't think of anything you should be worried about...",
         "pt-BR": "[Chefe de Polícia Kesler]\nEste lugar foi descoberto recentemente, então é bem seguro. Não consigo pensar em nada com que você deva se preocupar...",
-        "es-ES": "[Comisario Kesler]\nDescubrieron el sitio hace poco; por eso, es bastante seguro. No se me ocurre nada de lo que debas preocuparte…"
+        "es-ES": "[Comisario Kesler]\nDescubrieron el sitio hace poco; por eso, es bastante seguro. No se me ocurre nada de lo que debas preocuparte..."
     },
     "MINfBw": {
         "en-US": "[Police Chief Kesler]\nOh, strike that--there's one thing.",
@@ -107,7 +107,7 @@
     "NYNfBw": {
         "en-US": "[Police Chief Kesler]\n...",
         "pt-BR": "[Chefe de Polícia Kesler]\n...",
-        "es-ES": "[Comisario Kesler]\n…"
+        "es-ES": "[Comisario Kesler]\n..."
     },
     "NoNfBw": {
         "en-US": "[Police Chief Kesler]\nUm, didn't mean to rant about my hair.",
@@ -197,7 +197,7 @@
     "R4NfBw": {
         "en-US": "[Police Chief Kesler]\nHm...",
         "pt-BR": "[Chefe de Polícia Kesler]\nHum...",
-        "es-ES": "[Comisario Kesler]\nMmm…"
+        "es-ES": "[Comisario Kesler]\nMmm..."
     },
     "SINfBw": {
         "en-US": "[Police Chief Kesler]\nOh, I've got an idea! Bring me ^F8081EDoom Tokens^000000, and I'll exchange them with ^4E9867Packing Envelope^000000.",
@@ -407,7 +407,7 @@
     "cYNfBw": {
         "en-US": "[Police Officer Salgran]\nZzz... Zzz...",
         "pt-BR": "[Policial Salgran]\nZzz... Zzz...",
-        "es-ES": "[Oficial Salgran]\nZzz… Zzz…"
+        "es-ES": "[Oficial Salgran]\nZzz... Zzz..."
     },
     "coNfBw": {
         "en-US": "[Police Officer Salgran]\nCh-Chief, I'm sorry!",
@@ -442,7 +442,7 @@
     "eINfBw": {
         "en-US": "[Police Officer Salgran]\n...",
         "pt-BR": "[Policial Salgran]\n...",
-        "es-ES": "[Oficial Salgran]\n…"
+        "es-ES": "[Oficial Salgran]\n..."
     },
     "eYNfBw": {
         "en-US": "[Police Officer Salgran]\nWhew, you're not the Chief. Who are you?",
@@ -622,7 +622,7 @@
     "nINfBw": {
         "en-US": "[Police Officer Gerev]\nAre you helping other sectors at the same time? Impressive. If only I wasn't so stressed out...",
         "pt-BR": "[Policial Gerev]\nVocê está ajudando outros setores ao mesmo tempo? Impressionante. Se eu não estivesse tão estressado...",
-        "es-ES": "[Oficial Gerev]\n¿También estás ayudando en otros sectores? Impresionante. Si no estuviera tan estresado…"
+        "es-ES": "[Oficial Gerev]\n¿También estás ayudando en otros sectores? Impresionante. Si no estuviera tan estresado..."
     },
     "nYNfBw": {
         "en-US": "[Police Officer Gerev]\nArgh, where's my pen? I had it when I left the station. Did those robots steal it from me?",
@@ -787,22 +787,22 @@
     "vYNfBw": {
         "en-US": "[Police Officer Gerev]\nI can see one right in front of me. Ugh, my stomach...",
         "pt-BR": "[Policial Gerev]\nEstou vendo uma bem na minha frente. Ugh, meu estômago...",
-        "es-ES": "[Oficial Gerev]\nVeo una justo delante de mí. Ay, mi estómago…"
+        "es-ES": "[Oficial Gerev]\nVeo una justo delante de mí. Ay, mi estómago..."
     },
     "voNfBw": {
         "en-US": "[Police Officer Gerev]\nI must be stressed out again. I feel my stomach tightening...",
         "pt-BR": "[Policial Gerev]\nEu devo estar estressado de novo. Sinto meu estômago apertando.",
-        "es-ES": "[Oficial Gerev]\nCreo que me estresé de nuevo. Siento que se me aprieta el estómago…"
+        "es-ES": "[Oficial Gerev]\nCreo que me estresé de nuevo. Siento que se me aprieta el estómago..."
     },
     "v4NfBw": {
         "en-US": "[Police Officer Gerev]\nUgh, my stomach... I understand if you're busy. Please tell Chief Kesler that everything's quiet in my sector.",
         "pt-BR": "[Policial Gerev]\nUgh, meu estômago... Entendo se você estiver ocupado. Por favor, diga ao Chefe que está tudo quieto no meu setor.",
-        "es-ES": "[Oficial Gerev]\nAy, mi estómago… Entiendo que tengas mucho por hacer. Dile al comisario Kesler que todo está tranquilo en mi sector."
+        "es-ES": "[Oficial Gerev]\nAy, mi estómago... Entiendo que tengas mucho por hacer. Dile al comisario Kesler que todo está tranquilo en mi sector."
     },
     "wINfBw": {
         "en-US": "[Police Officer Gerev]\n...W-what? Ugh... M-my stomach...",
         "pt-BR": "[Policial Gerev]\n...Qu-quê? Ugh... M-meu estômago...",
-        "es-ES": "[Oficial Gerev]\n¿Q-qué? Eh… M-mi estómago…"
+        "es-ES": "[Oficial Gerev]\n¿Q-qué? Eh... M-mi estómago..."
     },
     "wYNfBw": {
         "en-US": "[Police Officer Gerev]\nI feel much better now. Please tell Chief Kesler that everything's good in my sector.",
@@ -812,7 +812,7 @@
     "woNfBw": {
         "en-US": "[Police Officer Gerev]\nUgh, I can feel the stress building up inside... Argh, this place is giving me an ulcer!",
         "pt-BR": "[Policial Gerev]\nUgh, consigo sentir o estresse aumentando... Argh, este lugar está me dando uma úlcera!",
-        "es-ES": "[Oficial Gerev]\nUf, siento cómo se acumula el estrés en mi cuerpo… ¡Aj, este sitio me está provocando una úlcera!"
+        "es-ES": "[Oficial Gerev]\nUf, siento cómo se acumula el estrés en mi cuerpo... ¡Aj, este sitio me está provocando una úlcera!"
     },
     "w4NfBw": {
         "en-US": "[Police Officer Gerev]\nDon't let yourself get stressed out. Stomach cramps can kill you.",
@@ -847,7 +847,7 @@
     "yYNfBw": {
         "en-US": "[Police Officer Seiden]\nGood, if you can handle all the things... *Chuckle*",
         "pt-BR": "[Policial Seiden]\nTudo bem, se você pode cuidar de tudo... *Riso*",
-        "es-ES": "[Oficial Seiden]\nBien, si puedes con todo… *Ríe*"
+        "es-ES": "[Oficial Seiden]\nBien, si puedes con todo... *Ríe*"
     },
     "yoNfBw": {
         "en-US": "[Police Officer Seiden]\n*Chuckle* The Chief sent you. I know because I've been waiting.",
@@ -907,12 +907,12 @@
     "1YNfBw": {
         "en-US": "[Police Officer Seiden]\nI don't understand. I was told this would never fail on people, hm... Oh well, tell Chief Kesler everything's good on my end.",
         "pt-BR": "[Policial Seiden]\nEu não entendo. Me disseram que isto nunca falharia com as pessoas, hum... Ah bem, diga ao Chefe que está tudo bem no meu setor.",
-        "es-ES": "[Oficial Seiden]\nNo entiendo. Me dijeron que esto era infalible con la gente. Mm… En fin. Dile al comisario Kesler que todo va bien por mi parte."
+        "es-ES": "[Oficial Seiden]\nNo entiendo. Me dijeron que esto era infalible con la gente. Mm... En fin. Dile al comisario Kesler que todo va bien por mi parte."
     },
     "1oNfBw": {
         "en-US": "[Police Officer Seiden]\nI don't understand. My friend swore this never failed on people, hm... Oh well, tell Chief Kesler everything's good on my end.",
         "pt-BR": "[Policial Seiden]\nEu não entendo. Meu amigo disse que isso sempre funcionaria com as pessoas, hum... Ah bem, diga ao Chefe que está tudo bem no meu setor.",
-        "es-ES": "[Oficial Seiden]\nNo entiendo. Mi contacto me juró que esto era infalible con la gente. Mm… En fin. Dile al comisario Kesler que todo va bien por mi parte."
+        "es-ES": "[Oficial Seiden]\nNo entiendo. Mi contacto me juró que esto era infalible con la gente. Mm... En fin. Dile al comisario Kesler que todo va bien por mi parte."
     },
     "14NfBw": {
         "en-US": "[Police Officer Seiden]\n*Chuckle* I thought it's about time.",
@@ -957,7 +957,7 @@
     "34NfBw": {
         "en-US": "[Police Officer Seiden]\n*Chuckle* Look around--there are stones everywhere. Where did you find this stone, then?",
         "pt-BR": "[Policial Seiden]\n*Riso* Olhe ao redor... Tem pedras em todos os lados. Onde você encontrou esta pedra, então?",
-        "es-ES": "[Oficial Seiden]\n*Ríe* Mira a tu alrededor… Hay piedras por todas partes. Y, entonces, ¿dónde encontraste esta?"
+        "es-ES": "[Oficial Seiden]\n*Ríe* Mira a tu alrededor... Hay piedras por todas partes. Y, entonces, ¿dónde encontraste esta?"
     },
     "4INfBw": {
         "en-US": "[Police Officer Seiden]\n*Chuckle* Thank you. The spirits of the victims are appeased for now.",
@@ -1127,7 +1127,7 @@
     "AYRfBw": {
         "en-US": "[Police Officer Piffs]\nThis herb smells good. I think it'll make good garnish for meat... *Ahem* I'm not saying I want to eat it.",
         "pt-BR": "[Policial Piffs]\nEssas ervas estão com um cheiro bom. Talvez eu as use como acompanhamento para carne... *Ahem* Não estou dizendo que quero comê-las.",
-        "es-ES": "[Oficial Piffs]\nEsta hierba huele bien. Creo que será un buen condimento para la carne… Ejem, no digo que me la quiera comer."
+        "es-ES": "[Oficial Piffs]\nEsta hierba huele bien. Creo que será un buen condimento para la carne... Ejem, no digo que me la quiera comer."
     },
     "AoRfBw": {
         "en-US": "[Police Officer Piffs]\nOops, did you see me eating herbs? Or what just happened? Well, if the same problem persists, please send a screenshot to the Operation Team.",
@@ -1402,7 +1402,7 @@
     "OIRfBw": {
         "en-US": "[Helper]\nSetting up the quests...\nLevel Requirement: 140\nYou must be Level 140 to perform the quests.",
         "pt-BR": "[Ajudante dos Adoradores do Infortúnio]\nPreparando as missões...\nNível Necessário: 140\nVocê deve estar no Nível 140 para realizar as missões.",
-        "es-ES": "[Ayudante]\nConfigurando misiones…\nNivel requerido: 140\nDebes tener nivel 140 para realizar las misiones."
+        "es-ES": "[Ayudante]\nConfigurando misiones...\nNivel requerido: 140\nDebes tener nivel 140 para realizar las misiones."
     },
     "OYRfBw": {
         "en-US": "Reset the downtime.",

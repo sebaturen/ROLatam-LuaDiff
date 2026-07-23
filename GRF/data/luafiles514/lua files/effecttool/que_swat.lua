@@ -1,3 +1,5 @@
+
+
 _que_swat_effect_version = 2
 _que_swat_emitterInfo = {
 	[0] = {

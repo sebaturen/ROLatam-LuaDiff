@@ -1,0 +1,42 @@
+{
+    "4MBqDQ": {
+        "en-US": "Talisman Merchant",
+        "pt-BR": "Mercador de Talismãs",
+        "es-ES": "Mercader de Talismanes"
+    },
+    "4cBqDQ": {
+        "en-US": "[Talisman Merchant]\nHello. Are you here to see Spirit Talismans?",
+        "pt-BR": "[Mercador de Talismãs]\nOlá. Veio ver Talismãs Espirituais?",
+        "es-ES": "[Mercader de Talismanes]\nHola.\n¿Has venido a ver talismanes espirituales?"
+    },
+    "4sBqDQ": {
+        "en-US": "Buy Talisman",
+        "pt-BR": "Comprar talismãs",
+        "es-ES": "Comprar Talismán"
+    },
+    "48BqDQ": {
+        "en-US": "Exchange Talisman Bundle",
+        "pt-BR": "Trocar pacote de talismãs",
+        "es-ES": "Intercambiar Paquete de Talismanes"
+    },
+    "5MBqDQ": {
+        "en-US": "Cancel",
+        "pt-BR": "Cancelar",
+        "es-ES": "Cancelar"
+    },
+    "5cBqDQ": {
+        "en-US": "[Talisman Merchant]\nYou will like them.",
+        "pt-BR": "[Mercador de Talismãs]\nVai gostar deles.",
+        "es-ES": "[Mercader de Talismanes]\nSeguro que será de tu agrado."
+    },
+    "5sBqDQ": {
+        "en-US": "[Talisman Merchant]\nWe also exchange them in bundles.",
+        "pt-BR": "[Mercador de Talismãs]\nTambém faço trocas por pacotes.",
+        "es-ES": "[Mercader de Talismanes]\nTambién puedo cambiarlos en paquetes."
+    },
+    "58BqDQ": {
+        "en-US": "[Talisman Merchant]\nThank you. Please come again.",
+        "pt-BR": "[Mercador de Talismãs]\nObrigado. Volte sempre.",
+        "es-ES": "[Mercader de Talismanes]\nGracias. Vuelve cuando quieras."
+    }
+}

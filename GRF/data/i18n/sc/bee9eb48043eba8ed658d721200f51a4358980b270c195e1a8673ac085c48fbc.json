@@ -62,7 +62,7 @@
     "bFy4CA": {
         "en-US": "[Luide]\n... I'm tired.",
         "pt-BR": "[Shalosh]\n......Estou cansada.",
-        "es-ES": "[Luide]\n…Estoy cansada."
+        "es-ES": "[Luide]\n...Estoy cansada."
     },
     "bVy4CA": {
         "en-US": "Eugenie",
@@ -97,12 +97,12 @@
     "c1y4CA": {
         "en-US": "Eugenie: Somehow... I feel like this is not our first time here.",
         "pt-BR": "Mingmin : Eu sinto que... já estivemos aqui antes.",
-        "es-ES": "Eugenie: De alguna manera… Siento como si esta no fuera la primera vez que estamos aquí."
+        "es-ES": "Eugenie: De alguna manera... Siento como si esta no fuera la primera vez que estamos aquí."
     },
     "dFy4CA": {
         "en-US": "Luide: ... This is my first time discovering this place. We've never been here before.",
         "pt-BR": "Shalosh : ...é a primeira vez que entramos aqui.",
-        "es-ES": "Luide: …Esta es, sin duda, mi primera vez aquí. Nunca habíamos venido a este lugar."
+        "es-ES": "Luide: ...Esta es, sin duda, mi primera vez aquí. Nunca habíamos venido a este lugar."
     },
     "dVy4CA": {
         "en-US": "Loreche: You must be imaging things. And you, Adventurer? Oh, right, this is my younger sister, Luide, and her partner, Frandell. You have already met Eugenie, right?",
@@ -117,12 +117,12 @@
     "d1y4CA": {
         "en-US": "Luide: ... Luide.",
         "pt-BR": "Shalosh : ...Shalosh.",
-        "es-ES": "Luide:… Soy… Luide."
+        "es-ES": "Luide:... Soy... Luide."
     },
     "eFy4CA": {
         "en-US": "Loreche: Regarding things you should be aware of, Luide will... Actually, I'll just tell you. First, beware of big red mushrooms.",
         "pt-BR": "Runane : Um aviso da Shalosh... precisamos tomar cuidado com os Cogumelos Vermelhos.",
-        "es-ES": "Loreche: Hay algunas cuestiones importantes que debes saber, así que Luide te… ¿Sabes? Mejor te lo digo yo. En primer lugar, ten cuidado con los Hongos Rojos."
+        "es-ES": "Loreche: Hay algunas cuestiones importantes que debes saber, así que Luide te... ¿Sabes? Mejor te lo digo yo. En primer lugar, ten cuidado con los Hongos Rojos."
     },
     "eVy4CA": {
         "en-US": "Loreche: If you get too close, you might start hallucinating. Well, one of us is usually exploring around anyway.",
@@ -157,7 +157,7 @@
     "f1y4CA": {
         "en-US": "Loreche: ... Didn't you hear something?",
         "pt-BR": "Runane : ...Vocês ouviram isso?",
-        "es-ES": "Loreche: …¿Escuchaste algo?"
+        "es-ES": "Loreche: ...¿Escuchaste algo?"
     },
     "gFy4CA": {
         "en-US": "I'll remind you again: be careful of the large red mushrooms, and check the three o'clock direction for the exit.",
@@ -192,7 +192,7 @@
     "hly4CA": {
         "en-US": "[Loreche]\nWe've only just gotten started, and I'm already tired...",
         "pt-BR": "[Runane]\nDe repente, fiquei cansada.",
-        "es-ES": "[Loreche]\nRecién comenzamos a explorar y ya estoy exhausta…"
+        "es-ES": "[Loreche]\nRecién comenzamos a explorar y ya estoy exhausta..."
     },
     "h1y4CA": {
         "en-US": "Text1-2",
@@ -207,12 +207,12 @@
     "iVy4CA": {
         "en-US": "Loreche: ... We've only just gotten started, and I'm already tired. I don't have a very good feeling about all this.",
         "pt-BR": "Runane : ......De repente, fiquei cansada. Não me sinto bem.",
-        "es-ES": "Loreche: …Recién comenzamos a explorar y ya estoy exhausta… Esto me da mala espina."
+        "es-ES": "Loreche: ...Recién comenzamos a explorar y ya estoy exhausta... Esto me da mala espina."
     },
     "ily4CA": {
         "en-US": "Loreche: I normally explore this place on my own. I think I may have overdid it by bringing so many people.",
         "pt-BR": "Runane : Normalmente, eu faço tudo sozinha, mas hoje decidi pedir ajuda.",
-        "es-ES": "Loreche: Normalmente, exploro este lugar por mi cuenta. Quizás no fue buena idea traer tanta gente…"
+        "es-ES": "Loreche: Normalmente, exploro este lugar por mi cuenta. Quizás no fue buena idea traer tanta gente..."
     },
     "i1y4CA": {
         "en-US": "Loreche: To be honest, I just wanted to bring Luide along so she can get some exercise after sitting in her lab all day everyday, but then everyone else ended up coming along too.",
@@ -222,7 +222,7 @@
     "jFy4CA": {
         "en-US": "Loreche: ... Luide must be happy that there are people worrying about her and looking after her.",
         "pt-BR": "Runane : ......Eu amo a forma que a Shalosh se preocupa e se importa comigo.",
-        "es-ES": "Loreche: …Imagino que Luide está contenta de que haya tanta gente preocupada por ella."
+        "es-ES": "Loreche: ...Imagino que Luide está contenta de que haya tanta gente preocupada por ella."
     },
     "jVy4CA": {
         "en-US": "Loreche: Ah, I'm just blabbering on. Good luck out there, hardy Adventurer!",
@@ -257,7 +257,7 @@
     "k1y4CA": {
         "en-US": "Eugenie: I wanted to go with Luide, but that partner guy took her.",
         "pt-BR": "Mingmin : Eu queria estar junto de Shalosh, mas o amigo dela foi no meu lugar.",
-        "es-ES": "Eugenie: Quería ir con Luide, pero se fue con su pareja…"
+        "es-ES": "Eugenie: Quería ir con Luide, pero se fue con su pareja..."
     },
     "lFy4CA": {
         "en-US": "Eugenie: Can't he just leave her alone? They see each other every day! I only came along so I could talk with her.",
@@ -272,12 +272,12 @@
     "lly4CA": {
         "en-US": "Eugenie: Right, set the virtual coordinates for the rift, then apply the Pere-jitt figures... then the equation should... blah blah.",
         "pt-BR": "Mingmin : Ela explica sobre coordenadas dimensionais, a geometria da fenda... equações...",
-        "es-ES": "Eugenie: Sí, sí, determinar las coordenadas virtuales de la anomalía, luego establecer los parámetros de la constante Pere-Jitt en la ecuación y bla, bla…"
+        "es-ES": "Eugenie: Sí, sí, determinar las coordenadas virtuales de la anomalía, luego establecer los parámetros de la constante Pere-Jitt en la ecuación y bla, bla..."
     },
     "l1y4CA": {
         "en-US": "Zzz... I can't understand a word you're saying. Why don't you speak so others can understand you?",
         "pt-BR": "Zzz... fale em português claro, eu não entendo nada disso.",
-        "es-ES": "Zzz… ¡No entendemos una palabra de lo que dices! ¿Por qué no hablas en un idioma que los demás entiendan?"
+        "es-ES": "Zzz... ¡No entendemos una palabra de lo que dices! ¿Por qué no hablas en un idioma que los demás entiendan?"
     },
     "mFy4CA": {
         "en-US": "Pere? Our name? Gack! Don't push me, you idiot!",
@@ -372,7 +372,7 @@
     "qly4CA": {
         "en-US": "Luide: ... I could have sworn I just heard someone.",
         "pt-BR": "Shalosh : ......Você escutou essa voz?",
-        "es-ES": "Luide: …Juraría que acabo de oír algo."
+        "es-ES": "Luide: ...Juraría que acabo de oír algo."
     },
     "q1y4CA": {
         "en-US": "Frandell: Well, let's get moving.",
@@ -447,12 +447,12 @@
     "uVy4CA": {
         "en-US": "Ah, now I want to dance! Let's go dancing!",
         "pt-BR": "Ai, eu quero dançar! Vamos dançar!",
-        "es-ES": "Ay, me dieron ganas de bailar… ¡Vamos a bailar!"
+        "es-ES": "Ay, me dieron ganas de bailar... ¡Vamos a bailar!"
     },
     "uly4CA": {
         "en-US": "Eugenie: Loreche..?",
         "pt-BR": "Mingmin : Runane...?",
-        "es-ES": "Eugenie: ¿Loreche…?"
+        "es-ES": "Eugenie: ¿Loreche...?"
     },
     "u1y4CA": {
         "en-US": "TextSafe3-1",
@@ -467,7 +467,7 @@
     "vVy4CA": {
         "en-US": "[Frandell]\nWe are all adventurers... let's do this! Haha!",
         "pt-BR": "[Rotert]\nJá que você é um desses aventureiros, faça o seu melhor! Hahah!",
-        "es-ES": "[Frandell]\nAquí todos somos trotamundos… ¡Hagámoslo! ¡Ja, ja!"
+        "es-ES": "[Frandell]\nAquí todos somos trotamundos... ¡Hagámoslo! ¡Ja, ja!"
     },
     "vly4CA": {
         "en-US": "Text3-2",
@@ -512,7 +512,7 @@
     "xly4CA": {
         "en-US": "Frandell: I thought I heard something just now... Anywho, I'll keep looking. Wish me luck!",
         "pt-BR": "Rotert : Isso foi estranho... eu vou dar uma procurada. Valeu, hahah.",
-        "es-ES": "Frandell: Me parece haber oído algo… En fin, seguiré buscando. ¡Deséame suerte!"
+        "es-ES": "Frandell: Me parece haber oído algo... En fin, seguiré buscando. ¡Deséame suerte!"
     },
     "x1y4CA": {
         "en-US": "TextSafe3-2",
@@ -567,7 +567,7 @@
     "0Vy4CA": {
         "en-US": "Eugenie: W-well..! As Luide was the one to discover this place, I merely wanted to hear her thoughts on the matter. A constructive exchange of opinion, you may call it.",
         "pt-BR": "Mingmin : Sim... desde quando Shalosh descobriu esse lugar, eu gostaria de saber as conclusões dela.",
-        "es-ES": "Eugenie: ¡P-pues…! Como fue Luide la que descubrió este lugar, quería escuchar su opinión sobre lo que ha visto. Llámalo un constructivo intercambio de opiniones."
+        "es-ES": "Eugenie: ¡P-pues...! Como fue Luide la que descubrió este lugar, quería escuchar su opinión sobre lo que ha visto. Llámalo un constructivo intercambio de opiniones."
     },
     "0ly4CA": {
         "en-US": "Frandell: That sounds good and all, but coming from her long-time partner, I think Luide could go for a break.",
@@ -612,7 +612,7 @@
     "2ly4CA": {
         "en-US": "Pere: ... Oh my, you scared me!",
         "pt-BR": "Pere : ......Ah, que susto!",
-        "es-ES": "Pere: …¡Oh, por todos los… me asustaste!"
+        "es-ES": "Pere: ...¡Oh, por todos los... me asustaste!"
     },
     "21y4CA": {
         "en-US": "[Pere]\n...Ahh!",
@@ -637,7 +637,7 @@
     "31y4CA": {
         "en-US": "Loreche: If only I could capture one alive...",
         "pt-BR": "Runane : Seria legal se eu pudesse capturá-los......",
-        "es-ES": "Loreche: Si tan solo pudiera capturar a un ejemplar vivo…"
+        "es-ES": "Loreche: Si tan solo pudiera capturar a un ejemplar vivo..."
     },
     "4Fy4CA": {
         "en-US": "No! No! No!",
@@ -657,7 +657,7 @@
     "41y4CA": {
         "en-US": "Loreche: ... I suppose it would be wise to let them go.",
         "pt-BR": "Runane : ......é melhor deixar eles fugirem.",
-        "es-ES": "Loreche: …Creo que será mejor que las deje ir."
+        "es-ES": "Loreche: ...Creo que será mejor que las deje ir."
     },
     "5Fy4CA": {
         "en-US": "TextSafe4-2",
@@ -687,7 +687,7 @@
     "6Vy4CA": {
         "en-US": "[Pere]\nIntruder! I want to dance with you... Gack!",
         "pt-BR": "[Pere]\nPere quer dançar com os intrusos... yay!!",
-        "es-ES": "[Pere]\n¡Invasor! Ven y baila conmigo… ¡Ajj!"
+        "es-ES": "[Pere]\n¡Invasor! Ven y baila conmigo... ¡Ajj!"
     },
     "6ly4CA": {
         "en-US": "[Pere]\nWe will send any intruder back from whence they came!",
@@ -702,7 +702,7 @@
     "7Fy4CA": {
         "en-US": "Pere: ...Gack!",
         "pt-BR": "Pere : .....Ah!",
-        "es-ES": "Pere: …¡Ajj!"
+        "es-ES": "Pere: ...¡Ajj!"
     },
     "7Vy4CA": {
         "en-US": "Pere: Hmm, hmm! Listen, intruders! You were all ignorant to the fact that Pere, Pere and Pere were watching you the whole time!",
@@ -712,7 +712,7 @@
     "7ly4CA": {
         "en-US": "Pere: Eavesdropping on your conversations was so much fun..!",
         "pt-BR": "Pere : Espiar intrusos é tão... divertido! Hah!",
-        "es-ES": "Pere: ¡Entrometernos en sus conversaciones fue muy divertido…!"
+        "es-ES": "Pere: ¡Entrometernos en sus conversaciones fue muy divertido...!"
     },
     "71y4CA": {
         "en-US": "Pere: We tried to get Pere, Pere, Pere, and even Pere to come along and eavesdrop with us! But, we were afraid of what the queen would say!",
@@ -847,7 +847,7 @@
     "CV24CA": {
         "en-US": "[Luide]\nI want to go home...",
         "pt-BR": "[Shalosh]\nEu quero ir para casa...",
-        "es-ES": "[Luide]\nQuiero irme a casa…"
+        "es-ES": "[Luide]\nQuiero irme a casa..."
     },
     "Cl24CA": {
         "en-US": "Text6-1",
@@ -862,7 +862,7 @@
     "DF24CA": {
         "en-US": "Luide: Pant... pant... too much running... can't breath...",
         "pt-BR": "Shalosh : Af... Af... estou correndo tanto que estou sem ar...",
-        "es-ES": "Luide: Uff… corrí demasiado… no puedo respirar…"
+        "es-ES": "Luide: Uff... corrí demasiado... no puedo respirar..."
     },
     "DV24CA": {
         "en-US": "Loreche: Sorry, Luide. If I knew it was this dangerous, I wouldn't have insisted on you coming.",
@@ -872,7 +872,7 @@
     "Dl24CA": {
         "en-US": "Luide: W-well... y-yeah, me too. I should have known we'd run into such things...",
         "pt-BR": "Shalosh : ...Ora, ora... eu também. Eu deveria ter previsto que algo assim existia...",
-        "es-ES": "Luide: B-bueno… yo tampoco habría venido. Debí imaginarme que nos encontraríamos con cosas como estas…"
+        "es-ES": "Luide: B-bueno... yo tampoco habría venido. Debí imaginarme que nos encontraríamos con cosas como estas..."
     },
     "D124CA": {
         "en-US": "Loreche: Let's finish this quickly and get out of here. I won't bring you next time.",
@@ -897,7 +897,7 @@
     "E124CA": {
         "en-US": "Luide: ...I only asked to come because I wanted to talk with you.",
         "pt-BR": "Shalosh : ......Eu disse que queria vir porque quero falar com a minha irmã.",
-        "es-ES": "Luide: …Solo vine aquí porque quería hablar contigo."
+        "es-ES": "Luide: ...Solo vine aquí porque quería hablar contigo."
     },
     "FF24CA": {
         "en-US": "TextSafe6-1",
@@ -972,7 +972,7 @@
     "Il24CA": {
         "en-US": "[Luide]\nTalking so much really wears me out...",
         "pt-BR": "[Shalosh]\nConversar demais me cansa...",
-        "es-ES": "[Luide]\nHablar tanto me agota…"
+        "es-ES": "[Luide]\nHablar tanto me agota..."
     },
     "I124CA": {
         "en-US": "[Eugenie]\nI really wanted to talk with you!",
@@ -992,7 +992,7 @@
     "Jl24CA": {
         "en-US": "Luide: Uhh... Hmm, yes. Hello.",
         "pt-BR": "Shalosh : Hm... ah, sim. Olá.",
-        "es-ES": "Luide: Eh… Sí, supongo. Hola."
+        "es-ES": "Luide: Eh... Sí, supongo. Hola."
     },
     "J124CA": {
         "en-US": "Eugenie: I was so impressed by the paper you published in the journal. May I ask a few questions?",
@@ -1002,7 +1002,7 @@
     "KF24CA": {
         "en-US": "Luide: Oh, wow... I am just so tired... wow, I could faint at any minute...",
         "pt-BR": "Shalosh : Bem... agora...? Eu estou exausta...",
-        "es-ES": "Luide: Ay, no… Me siento tan cansada… Ay, siento que me desmayaré en cualquier momento…"
+        "es-ES": "Luide: Ay, no... Me siento tan cansada... Ay, siento que me desmayaré en cualquier momento..."
     },
     "KV24CA": {
         "en-US": "Eugenie: Oh, are you holding up okay? I guess Frandell was right, you do get tired easily.",
@@ -1012,7 +1012,7 @@
     "Kl24CA": {
         "en-US": "Luide: Well, yes. Umm... I will have to rest a little more.",
         "pt-BR": "Shalosh : Sim, verdade... eu só quero repousar um pouco.",
-        "es-ES": "Luide: Sí, así es. Mmm… Más vale que descanse un poco."
+        "es-ES": "Luide: Sí, así es. Mmm... Más vale que descanse un poco."
     },
     "K124CA": {
         "en-US": "Eugenie: Ah, sure! Let's go find a place to sit. I will help you.",
@@ -1037,7 +1037,7 @@
     "L124CA": {
         "en-US": "[Frandell]\nMaybe not always good. Ah, I do like her, of course.",
         "pt-BR": "[Rotert]\nNem sempre é bom, mas eu gostei!",
-        "es-ES": "[Frandell]\nQuizás no siempre es tan buena. Es decir, sí, ella me gusta mucho, pero…"
+        "es-ES": "[Frandell]\nQuizás no siempre es tan buena. Es decir, sí, ella me gusta mucho, pero..."
     },
     "MF24CA": {
         "en-US": "Text7-2",
@@ -1057,12 +1057,12 @@
     "M124CA": {
         "en-US": "Eugenie: I thought it would always be great to have such an extraordinary genius as my partner, but I suppose that isn't the case.",
         "pt-BR": "Mingmin : Eu pensei em fazer uma parceria com uma mulher genial como ela.",
-        "es-ES": "Eugenie: Siempre pensé que sería increíble tener a un genio extraordinario como pareja, pero supongo que no es tan así…"
+        "es-ES": "Eugenie: Siempre pensé que sería increíble tener a un genio extraordinario como pareja, pero supongo que no es tan así..."
     },
     "NF24CA": {
         "en-US": "Frandell: No no, I like her! But sometimes I get worried... What if I'm not good enough for Luide...",
         "pt-BR": "Rotert : Legal, gostei. As vezes eu penso que não sou bom o bastante para ela...",
-        "es-ES": "Frandell: No me malinterpretes; ¡la adoro! Pero, a veces, me pregunto… ¿Y si no soy lo suficientemente bueno para Luide?"
+        "es-ES": "Frandell: No me malinterpretes; ¡la adoro! Pero, a veces, me pregunto... ¿Y si no soy lo suficientemente bueno para Luide?"
     },
     "NV24CA": {
         "en-US": "Eugenie: If that were the case, you wouldn't be working together in the first place! Come on, let's continue exploring.",
@@ -1167,17 +1167,17 @@
     "SV24CA": {
         "en-US": "Luide: I'm okay. Oh, and about what you said earlier... You can bring me along again.",
         "pt-BR": "Shalosh : Tudo bem. Você pode me trazer mais vezes.",
-        "es-ES": "Luide: Estoy bien. Ah, y sobre lo que dijiste antes… Puedes invitarme otra vez."
+        "es-ES": "Luide: Estoy bien. Ah, y sobre lo que dijiste antes... Puedes invitarme otra vez."
     },
     "Sl24CA": {
         "en-US": "Loreche: Huh? But you get so worn out, how could I bring you back here. And...",
         "pt-BR": "Runane : Hã? Como vou te trazer se você fica nesse estado...",
-        "es-ES": "Loreche: ¿Eh? Pero estos viajes son agotadores para ti, ¿cómo podría querer invitarte otra vez? Y…"
+        "es-ES": "Loreche: ¿Eh? Pero estos viajes son agotadores para ti, ¿cómo podría querer invitarte otra vez? Y..."
     },
     "S124CA": {
         "en-US": "Loreche: Actually... I'm sorry. I arrogantly insisted that you come along. You're such a genius, and you're stuck doing research so much that you don't meet anyone.",
         "pt-BR": "Runane : Na verdade... Desculpe. Fui eu quem insisti. Você é uma intelectual e está sempre trancafiada no laboratório.",
-        "es-ES": "Loreche: La verdad es que… lo siento. Te insistí egoístamente para que vinieras. Eres tan lista y te pasas tanto tiempo investigando que nunca te reúnes con gente."
+        "es-ES": "Loreche: La verdad es que... lo siento. Te insistí egoístamente para que vinieras. Eres tan lista y te pasas tanto tiempo investigando que nunca te reúnes con gente."
     },
     "TF24CA": {
         "en-US": "Loreche: But everyone is looking for you. They admire you and want to see you... So I got jealous, and wanted to put you in a difficult situation.",
@@ -1187,7 +1187,7 @@
     "TV24CA": {
         "en-US": "Luide: ... Dummy. You can't bottle such things up.",
         "pt-BR": "Shalosh : ...Bobagem. Não acumule esse tipo de coisa em você.",
-        "es-ES": "Luide: …Tonta. No puedes guardarte sentimientos como esos."
+        "es-ES": "Luide: ...Tonta. No puedes guardarte sentimientos como esos."
     },
     "Tl24CA": {
         "en-US": "Luide: I don't care if people think I'm a genius. I don't want you to hate me because of that.",
@@ -1202,7 +1202,7 @@
     "UF24CA": {
         "en-US": "Loreche: Yeah... you're right. I should have. It's no good to have held on to such silly thoughts.",
         "pt-BR": "Runane : É... eu não deveria alimentar esses pensamentos negativos.",
-        "es-ES": "Loreche: Sí, tienes razón… debí hacerlo. No tiene ningún sentido guardarse pensamientos tan ridículos."
+        "es-ES": "Loreche: Sí, tienes razón... debí hacerlo. No tiene ningún sentido guardarse pensamientos tan ridículos."
     },
     "UV24CA": {
         "en-US": "Luide: After you get some rest, come to my lab. I have many good teas.",
@@ -1212,7 +1212,7 @@
     "Ul24CA": {
         "en-US": "Loreche: Okay. I will do that. I'm sorry...",
         "pt-BR": "Runane : Sim, eu irei...",
-        "es-ES": "Loreche: Bueno. Lo haré. Lo siento…"
+        "es-ES": "Loreche: Bueno. Lo haré. Lo siento..."
     },
     "U124CA": {
         "en-US": "TextSafe8-2",
@@ -1237,7 +1237,7 @@
     "V124CA": {
         "en-US": "[Frandell]\nNo..! It's... It's not...",
         "pt-BR": "[Rotert]\nNão...! Isso é... algo parecido...",
-        "es-ES": "[Frandell]\n¡No…! No es… No es así…"
+        "es-ES": "[Frandell]\n¡No...! No es... No es así..."
     },
     "WF24CA": {
         "en-US": "Text9-1",
@@ -1262,7 +1262,7 @@
     "XF24CA": {
         "en-US": "Frandell: Well, it's just kind of out of the blue is all. You don't usually seem to take much interest in me...",
         "pt-BR": "Rotert : É porque não é do seu feitio fazer isso, haha...",
-        "es-ES": "Frandell: Solo me parece un poco extraño e impropio de ti. No sueles demostrar mucho interés por mí…"
+        "es-ES": "Frandell: Solo me parece un poco extraño e impropio de ti. No sueles demostrar mucho interés por mí..."
     },
     "XV24CA": {
         "en-US": "Luide: I'd never thought of putting you through so much trouble... But thank you for taking care of me.",
@@ -1277,7 +1277,7 @@
     "X124CA": {
         "en-US": "Frandell: I have never... treated you as my younger sister.",
         "pt-BR": "Rotert : Eu nunca te vi como irmã...",
-        "es-ES": "Frandell: ¡Nunca te he tratado como mi hermana menor…!"
+        "es-ES": "Frandell: ¡Nunca te he tratado como mi hermana menor...!"
     },
     "YF24CA": {
         "en-US": "Luide: Huh? Don't try to back out of this now. I won't call you big brother, but I will let you act like one though.",
@@ -1287,7 +1287,7 @@
     "YV24CA": {
         "en-US": "Frandell: Uh... Umm... Haha, Okay... Thank you... very much. Haha...",
         "pt-BR": "Rotert : Hum... Haha... Hah, Hã... Er... Obrigado. Ha... Hah...",
-        "es-ES": "Frandell: Eh… Mmm… Ja, ja… Bueno… Muchas… gracias. Ja, ja…"
+        "es-ES": "Frandell: Eh... Mmm... Ja, ja... Bueno... Muchas... gracias. Ja, ja..."
     },
     "Yl24CA": {
         "en-US": "TextSafe9-1",
@@ -1357,7 +1357,7 @@
     "b124CA": {
         "en-US": "Pere: We... we will not falter! We've got a Jitterbug!",
         "pt-BR": "Pere : Pere está feliz! Jitterbug está aqui!",
-        "es-ES": "Pere: ¡No… No nos daremos por vencidos! ¡Tenemos un Jitterbug!"
+        "es-ES": "Pere: ¡No... No nos daremos por vencidos! ¡Tenemos un Jitterbug!"
     },
     "cF24CA": {
         "en-US": "[Pere]\nThis time, we will not lose! Pere, Pere, Pere, Pere, and even Pere! We all went to go get Jitterbug!",
@@ -1387,7 +1387,7 @@
     "dV24CA": {
         "en-US": "Pere: We couldn't stop the intruders. The Queen will punish us for sure...",
         "pt-BR": "Pere : Vamos ter problemas por não pegar os intrusos...",
-        "es-ES": "Pere: No pudimos detener a los invasores. Ay, la reina seguro nos castigará…"
+        "es-ES": "Pere: No pudimos detener a los invasores. Ay, la reina seguro nos castigará..."
     },
     "dl24CA": {
         "en-US": "Pere: But Pere is Pere! We will see our plans through to the end!",
@@ -1402,7 +1402,7 @@
     "eF24CA": {
         "en-US": "Pere: Then the Queen might go easy on us...",
         "pt-BR": "Pere : A Rainha não precisa saber...",
-        "es-ES": "Pere: Quizás la reina nos perdone si los expulsamos…"
+        "es-ES": "Pere: Quizás la reina nos perdone si los expulsamos..."
     },
     "eV24CA": {
         "en-US": "Pere: So this time we got an even braver Jitterbug! Go, Jitterbug!",
@@ -1472,7 +1472,7 @@
     "hl24CA": {
         "en-US": "[Luide]\nLet's keep in touch... If you're okay with that, that is.",
         "pt-BR": "[Shalosh]\n...Se você não se importar, é tranquilo trocar isso.",
-        "es-ES": "[Luide]\nMantengámonos en contacto… si te parece bien, claro…"
+        "es-ES": "[Luide]\nMantengámonos en contacto... si te parece bien, claro..."
     },
     "h124CA": {
         "en-US": "[Eugenie]\nIt was a great pleasure to meet you, Luide!",
@@ -1487,7 +1487,7 @@
     "iV24CA": {
         "en-US": "Luide: Umm, Eugenie, can you tell me... your address?",
         "pt-BR": "Shalosh : Bem, senhorita Mingmin... me dê o seu endereço.",
-        "es-ES": "Luide: Emm, Eugenie, ¿me darías… tu dirección?"
+        "es-ES": "Luide: Emm, Eugenie, ¿me darías... tu dirección?"
     },
     "il24CA": {
         "en-US": "Eugenie: What? Huh?",
@@ -1497,17 +1497,17 @@
     "i124CA": {
         "en-US": "Luide: We didn't get to talk much today, I'd like to write you a letter some time... But if you don't want to, that's okay, too.",
         "pt-BR": "Shalosh : Eu prefiro escrever do que falar... mandarei cartas todos os dias se você quiser.",
-        "es-ES": "Luide: Hoy no tuvimos la oportunidad de hablar, así que me gustaría enviarte una carta… Pero, si no quieres, está bien."
+        "es-ES": "Luide: Hoy no tuvimos la oportunidad de hablar, así que me gustaría enviarte una carta... Pero, si no quieres, está bien."
     },
     "jF24CA": {
         "en-US": "Eugenie: No, I mean yes, I mean... I love it! I was just... I'm really happy! I'll gladly tell you my address.",
         "pt-BR": "Mingmin : Ai, eu não acredito! Eu estou tão... FELIZ!! Vou te mandar meu endereço!",
-        "es-ES": "Eugenie: ¡No, no, sí! ¡Es decir, sí quiero! ¡Me encanta! Es solo que… ¡Estoy tan feliz! Con mucho gusto, te daré mi dirección."
+        "es-ES": "Eugenie: ¡No, no, sí! ¡Es decir, sí quiero! ¡Me encanta! Es solo que... ¡Estoy tan feliz! Con mucho gusto, te daré mi dirección."
     },
     "jV24CA": {
         "en-US": "Luide: I really don't like leaving the lab, but... A letter is no problem at all.",
         "pt-BR": "Shalosh : Eu não me sinto bem fora do laboratório... eu prefiro te enviar uma carta.",
-        "es-ES": "Luide: No me gusta salir del laboratorio, pero… supongo que una carta está bien."
+        "es-ES": "Luide: No me gusta salir del laboratorio, pero... supongo que una carta está bien."
     },
     "jl24CA": {
         "en-US": "Eugenie: Of course! Oh joyful day! I will write you too! I look forward to it, Luide! Haha!",
@@ -1522,22 +1522,22 @@
     "kF24CA": {
         "en-US": "Pimpernel: The glint of a rainbow in a bursting bubble, the owner of the darkest shadow, standing in the brightest light. In failing to properly meet my guests, I have caused you much trouble.",
         "pt-BR": "Igu : O dono do sonho mais sombrio causou problemas. Logo, esse mundo desaparecerá.",
-        "es-ES": "Pimpinela: El reflejo de un arcoíris en una burbuja al estallar, el dueño de la sombra más oscura, de pie bajo la luz más brillante… He fallado en atender adecuadamente a mis invitados y, por consiguiente, les he causado muchos problemas."
+        "es-ES": "Pimpinela: El reflejo de un arcoíris en una burbuja al estallar, el dueño de la sombra más oscura, de pie bajo la luz más brillante... He fallado en atender adecuadamente a mis invitados y, por consiguiente, les he causado muchos problemas."
     },
     "kV24CA": {
         "en-US": "Pimpernel: Yet, I will not infringe upon your end. Now, a drop of dream juice on your eyelids. Sleep soundly.",
         "pt-BR": "Igu : Mas não termina aqui. Derramarei o suco dos sonhos em vossos olhos.",
-        "es-ES": "Pimpinela: Sin embargo, no rehusaré del final de la historia. Una sola gota del elixir de los sueños en sus párpados… Y a dormir."
+        "es-ES": "Pimpinela: Sin embargo, no rehusaré del final de la historia. Una sola gota del elixir de los sueños en sus párpados... Y a dormir."
     },
     "kl24CA": {
         "en-US": "Luide: I feel so sleepy all of sudden... Is it just me?",
         "pt-BR": "Shalosh : Vocês também estão ficando... com sono?",
-        "es-ES": "Luide: De pronto, tengo mucho sueño… ¿Soy solo yo?"
+        "es-ES": "Luide: De pronto, tengo mucho sueño... ¿Soy solo yo?"
     },
     "k124CA": {
         "en-US": "Eugenie: I'm about to... knock out. How strange...",
         "pt-BR": "Mingmin : Derramar... suco... sonhos...",
-        "es-ES": "Eugenie: Estoy a punto de… caer… Qué extraño…"
+        "es-ES": "Eugenie: Estoy a punto de... caer... Qué extraño..."
     },
     "lF24CA": {
         "en-US": "Pimpernel: When you awake, you will find yourselves back in the outside world. Until then, partake in the eternal dream.",
@@ -1582,7 +1582,7 @@
     "nF24CA": {
         "en-US": "Loreche: If Luide's predictions are right, we should see the end soon. I really hope we can get back safely.",
         "pt-BR": "Runane : Como previsto pela Shalosh, o fim está próximo. Devemos retornar em segurança.",
-        "es-ES": "Loreche: Si las predicciones de Luide son correctas, el final del camino está cerca. Espero que regresemos sanos y salvos…"
+        "es-ES": "Loreche: Si las predicciones de Luide son correctas, el final del camino está cerca. Espero que regresemos sanos y salvos..."
     },
     "nV24CA": {
         "en-US": "Loreche: Hm? Frandell. You don't look so good. What's the matter?",
@@ -1592,7 +1592,7 @@
     "nl24CA": {
         "en-US": "Frandell: No, it's nothing. I was just wondering... am I really good enough for Luide?",
         "pt-BR": "Rotert : Ah, nada demais... só me pergunto se não estou ajudando Shalosh o bastante...",
-        "es-ES": "Frandell: No pasa nada. Solo me preguntaba… ¿no será que Luide merece a alguien mejor que yo?"
+        "es-ES": "Frandell: No pasa nada. Solo me preguntaba... ¿no será que Luide merece a alguien mejor que yo?"
     },
     "n124CA": {
         "en-US": "Loreche: Are you still going on about that? Don't make light of her. She would not have you by her side if she thought of you that way.",
@@ -1607,12 +1607,12 @@
     "oV24CA": {
         "en-US": "Frandell: Al... Alright. Then she doesn't hate me... Does that mean that she likes me?",
         "pt-BR": "Rotert : Entendi... então, se ela não me odeia... ela gosta de mim?",
-        "es-ES": "Frandell: Está… Está bien… Entonces, si no me odia… ¿significa que le gusto?"
+        "es-ES": "Frandell: Está... Está bien... Entonces, si no me odia... ¿significa que le gusto?"
     },
     "ol24CA": {
         "en-US": "Loreche: Umm... well... Maybe? As far as I know, you're the one who meets Luide the most. So I guess she likes you..?",
         "pt-BR": "Runane : Talvez... você é a única pessoa que passa mais tempo com ela. Pode ser alguém que ela goste...?",
-        "es-ES": "Loreche: Emm… este… ¿Quizás? Por lo que sé, eres la persona con quien más tiempo pasa. Supongo que eso dice bastante."
+        "es-ES": "Loreche: Emm... este... ¿Quizás? Por lo que sé, eres la persona con quien más tiempo pasa. Supongo que eso dice bastante."
     },
     "o124CA": {
         "en-US": "Frandell: Haha, is that right? Thank you, Loreche. A spark of hope exists for me after all! Haha!",
@@ -1622,7 +1622,7 @@
     "pF24CA": {
         "en-US": "Loreche: ..?",
         "pt-BR": "Runane : ......?",
-        "es-ES": "Loreche: ¿Eh…?"
+        "es-ES": "Loreche: ¿Eh...?"
     },
     "pV24CA": {
         "en-US": "Pimpernel: Such energetic and cheerful children. How precious.",
@@ -1642,7 +1642,7 @@
     "qF24CA": {
         "en-US": "Frandell: I want to go back and get some rest too...",
         "pt-BR": "Rotert : Eu só quero dormir...",
-        "es-ES": "Frandell: Yo también quiero regresar y descansar un poco…"
+        "es-ES": "Frandell: Yo también quiero regresar y descansar un poco..."
     },
     "qV24CA": {
         "en-US": "Pimpernel: Drink up now, partake in the honey of sweet dreams and forget everything. Now, fall asleep.",
@@ -1667,7 +1667,7 @@
     "rV24CA": {
         "en-US": "Pere: Wa, waa... Why is it so strong... Gyack! They're here!",
         "pt-BR": "Pere : Grrr... de onde vem essa força... Argh!!",
-        "es-ES": "Pere: Buaa… ¿Por qué es tan fuerte? ¡Ajj! ¡Ya llegaron!"
+        "es-ES": "Pere: Buaa... ¿Por qué es tan fuerte? ¡Ajj! ¡Ya llegaron!"
     },
     "rl24CA": {
         "en-US": "[Pere]\n...Ahh! This time, Pere, Pere, and Pere will fight together!",
@@ -1692,7 +1692,7 @@
     "sl24CA": {
         "en-US": "Pere: We, we failed... Intruders! We will be punished!",
         "pt-BR": "Pere : Intrusos... a Rainha vai acabar com vocês!",
-        "es-ES": "Pere: ¡Fallamos…! ¡Invasores! ¡Ay, nos castigarán!"
+        "es-ES": "Pere: ¡Fallamos...! ¡Invasores! ¡Ay, nos castigarán!"
     },
     "s124CA": {
         "en-US": "Pere: Ahh! This time, Jitterbug and Pere, Pere, Pere, and Pere will fight all together!",
@@ -1772,7 +1772,7 @@
     "wl24CA": {
         "en-US": "[Pere]\nAhh... We lost! Pere, Pere, and even Pere fought all together, and but we lost!",
         "pt-BR": "[Pere]\nBuáá... Perdemos! Peres lutaram juntos, mas perdemos!",
-        "es-ES": "[Pere]\nAhh… ¡Perdimos! Pese a que luchamos juntos Pere, Pere e incluso Pere, ¡perdimos!"
+        "es-ES": "[Pere]\nAhh... ¡Perdimos! Pese a que luchamos juntos Pere, Pere e incluso Pere, ¡perdimos!"
     },
     "w124CA": {
         "en-US": "[Pere]\nDon't hit me so hard, fool! Waahhh!!",
@@ -1997,7 +1997,7 @@
     "7124CA": {
         "en-US": "[Pimpernel]\nThank you. Let's see... what I can give.",
         "pt-BR": "[Igu]\nObrigada...hmm... o que eu poderia te entregar?",
-        "es-ES": "[Pimpinela]\nGracias. Veamos… ¿qué podría darte a cambio?"
+        "es-ES": "[Pimpinela]\nGracias. Veamos... ¿qué podría darte a cambio?"
     },
     "8F24CA": {
         "en-US": "Frozen Breastplate",
@@ -2057,7 +2057,7 @@
     "+124CA": {
         "en-US": "[Pere]\nAre they not intruders? But they are...",
         "pt-BR": "[Pere]\nVocê não é um intruso? Que estranho...",
-        "es-ES": "[Pere]\n¿Que no son invasores? A mí me parece que sí…"
+        "es-ES": "[Pere]\n¿Que no son invasores? A mí me parece que sí..."
     },
     "/F24CA": {
         "en-US": "[Pere]\nJitterbug is awesome! Jitterbug is the best!",

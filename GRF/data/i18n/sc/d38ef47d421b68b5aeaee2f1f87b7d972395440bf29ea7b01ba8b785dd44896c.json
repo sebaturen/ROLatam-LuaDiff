@@ -32,7 +32,7 @@
     "xrmdBg": {
         "en-US": "[Captain Herman]\nHm? You're... What is it about you? I've been an honorable Knight for a long time, but I cannot understand this feeling I'm getting from you...",
         "pt-BR": "[Cavaleiro Herman]\nHum? Você... O que é que você tem de diferente? Eu já sou um Cavaleiro honrado há muito tempo, mas não consigo entender o que é essa sensação que tenho a seu respeito...",
-        "es-ES": "[Capitán Herman]\n¿Mm? Eres… ¿Qué pasa contigo? He sido un caballero de honor durante mucho tiempo, pero no puedo entender este sentimiento que estoy recibiendo de ti…"
+        "es-ES": "[Capitán Herman]\n¿Mm? Eres... ¿Qué pasa contigo? He sido un caballero de honor durante mucho tiempo, pero no puedo entender este sentimiento que estoy recibiendo de ti..."
     },
     "x7mdBg": {
         "en-US": "[Captain Herman]\nMay god bless your body and soul, warrior. I hope you will show your courage and protect those who are weaker than you.",
@@ -42,7 +42,7 @@
     "yLmdBg": {
         "en-US": "[Captain Herman]\nAh, a member of our Chivalry.\nI hope you are living up to my expectations. We have vowed to be strong for our kingdom, even if death is upon us...",
         "pt-BR": "[Cavaleiro Herman]\nAh, um integrante de nossa Cavalaria.\nEspero que você esteja vivendo de acordo com as nossas expectativas. Fizemos um voto de proteger o nosso reino, mesmo que a morte esteja próxima...",
-        "es-ES": "[Capitán Herman]\nAh, perteneces a nuestra caballería.\nEspero que estés a la altura de mis expectativas. Juramos ser fuertes por nuestro reino, aunque la muerte toque la puerta…"
+        "es-ES": "[Capitán Herman]\nAh, perteneces a nuestra caballería.\nEspero que estés a la altura de mis expectativas. Juramos ser fuertes por nuestro reino, aunque la muerte toque la puerta..."
     },
     "ybmdBg": {
         "en-US": "[Captain Herman]\nWelcome,\nthis is the\nProntera Chivalry.\nWhat brings you here?",
@@ -87,7 +87,7 @@
     "0bmdBg": {
         "en-US": "[Captain Herman]\nAh, I see that you have great ambition. But you must first become a Swordman before becoming\na Knight. One step at a time...",
         "pt-BR": "[Cavaleiro Herman]\nAh, vejo que você tem grandes ambições. Mas deve se tornar um Espadachim antes de tentar ser\num Cavaleiro. Um passo de cada vez...",
-        "es-ES": "[Capitán Herman]\nAh, veo que tienes una gran ambición. Pero primero debes ser de la clase Espadachín antes de cambiar a la de\nCaballero. Paso a paso…"
+        "es-ES": "[Capitán Herman]\nAh, veo que tienes una gran ambición. Pero primero debes ser de la clase Espadachín antes de cambiar a la de\nCaballero. Paso a paso..."
     },
     "0rmdBg": {
         "en-US": "[Captain Herman]\nFirst, visit the Swordman guild in Izlude. Then, come visit us again once you have become a well experienced Swordman.",
@@ -122,12 +122,12 @@
     "2LmdBg": {
         "en-US": "Ohh...\nA young man who wishes\nto become a Knight!",
         "pt-BR": "Ohh...\nUm jovem que deseja\nse tornar um Cavaleiro!",
-        "es-ES": "Ohh…\n¡Un joven que desea\nconvertirse en Caballero!"
+        "es-ES": "Ohh...\n¡Un joven que desea\nconvertirse en Caballero!"
     },
     "2bmdBg": {
         "en-US": "Ohh...\nA young lady who wishes\nto become a Knight!",
         "pt-BR": "Ohh...\nUma jovem que deseja\nse tornar uma Cavaleira!",
-        "es-ES": "Ohh…\n¡Una joven que desea\nconvertirse en Caballero!"
+        "es-ES": "Ohh...\n¡Una joven que desea\nconvertirse en Caballero!"
     },
     "2rmdBg": {
         "en-US": "Our Prontera Chivalry\nwill assist you.",
@@ -172,12 +172,12 @@
     "4rmdBg": {
         "en-US": "[Captain Herman]\nAh...!\nYou cannot change jobs if you have unused skill points remaining. Return when you have used\nall of your skill points.",
         "pt-BR": "[Cavaleiro Herman]\nAh...!\nVocê não pode mudar de classe se tiver pontos de habilidade não utilizados. Volte depois de usar\ntodos os seus pontos de habilidade.",
-        "es-ES": "[Capitán Herman]\n¡Ah…!\nNo puedes cambiar de clase si tienes puntos de habilidad restantes. Vuelve una vez que hayas usado\ntodos tus puntos de habilidad."
+        "es-ES": "[Capitán Herman]\n¡Ah...!\nNo puedes cambiar de clase si tienes puntos de habilidad restantes. Vuelve una vez que hayas usado\ntodos tus puntos de habilidad."
     },
     "47mdBg": {
         "en-US": "[Captain Herman]\nLet me see...\nYour name is\n{0}...\nIs that right?",
         "pt-BR": "[Cavaleiro Herman]\nDeixe-me ver...\nSeu nome é...\n{0}...\nCerto?",
-        "es-ES": "[Capitán Herman]\nDéjame ver…\nTu nombre es…\n{0}…\n¿No es así?"
+        "es-ES": "[Capitán Herman]\nDéjame ver...\nTu nombre es...\n{0}...\n¿No es así?"
     },
     "5LmdBg": {
         "en-US": "[Captain Herman]\nLet me explain the job change procedure. You must visit a series of Knights and pass each\nof their tests.",
@@ -207,7 +207,7 @@
     "6bmdBg": {
         "en-US": "[Captain Herman]\nOh...!\nWell, I don't want to pressure you. Take your time and think it over. Return when you are ready to\nchange jobs, for we will be waiting.",
         "pt-BR": "[Cavaleiro Herman]\nOh...!\nBem, eu não quero pressionar você. Não se apresse e pense com seriedade a respeito. Volte quando tiver certeza de que deseja\ntrocar de classe, pois eu estarei esperando.",
-        "es-ES": "[Capitán Herman]\n¡Oh…!\nBueno, no quiero presionarte. Tómate tu tiempo y piénsalo bien. Vuelve cuando tengas todo listo para\ncambiar de clase. Te estaremos esperando."
+        "es-ES": "[Capitán Herman]\n¡Oh...!\nBueno, no quiero presionarte. Tómate tu tiempo y piénsalo bien. Vuelve cuando tengas todo listo para\ncambiar de clase. Te estaremos esperando."
     },
     "6rmdBg": {
         "en-US": "[Captain Herman]\nCome to think of it, aren't you a Swordman? It looks like you've encountered many foes in battle.",
@@ -257,7 +257,7 @@
     "87mdBg": {
         "en-US": "[Sir Andrew]\nI said to\nvisit Sir Siracuse.\nFunny, I thought I told\nyou. Did I forget...?",
         "pt-BR": "[Cavaleiro Andrew]\nEu o instruí \na visitar Sir Siracuse.\nEngraçado, pensei ter dito isso a\nvocê. Será que me esqueci...?",
-        "es-ES": "[Sr. Andrew]\nDije que tienes que\nvisitar al Sr. Siracuse.\nQué raro. Pensé que te lo había\ndicho. ¿Me olvidé…?"
+        "es-ES": "[Sr. Andrew]\nDije que tienes que\nvisitar al Sr. Siracuse.\nQué raro. Pensé que te lo había\ndicho. ¿Me olvidé...?"
     },
     "9LmdBg": {
         "en-US": "[Captain Herman]\nDid you hear?\nGo to Sir Siracuse and take his test. Once you complete his test, do not forget who you're supposed to visit next as well.",
@@ -267,12 +267,12 @@
     "9bmdBg": {
         "en-US": "[Captain Herman]\nLet's see...\nYou've completed two tests.\nSir Siracuse, who must this Swordman visit next?",
         "pt-BR": "[Cavaleiro Herman]\nVejamos...\nVocê já completou dois testes.\nSir Siracuse, quem esse jovem Espadachim deve visitar a seguir?",
-        "es-ES": "[Capitán Herman]\nVeamos…\nCompletaste dos pruebas.\nSr. Siracuse, ¿con quién es la próxima prueba?"
+        "es-ES": "[Capitán Herman]\nVeamos...\nCompletaste dos pruebas.\nSr. Siracuse, ¿con quién es la próxima prueba?"
     },
     "9rmdBg": {
         "en-US": "[Sir Siracuse]\nOh...!\nUm, who was next...?\nRight! Sir Windsor!",
         "pt-BR": "[Cavaleiro James]\nOh...!\nHum, quem será o próximo...?\nIsso! Sir Windsor!",
-        "es-ES": "[Sr. Siracuse]\n¡Oh…!\nMmm, ¿quién seguía…?\n¡Cierto! ¡Sr. Windsor!"
+        "es-ES": "[Sr. Siracuse]\n¡Oh...!\nMmm, ¿quién seguía...?\n¡Cierto! ¡Sr. Windsor!"
     },
     "97mdBg": {
         "en-US": "[Captain Herman]\nHead over to\nSir Windsor Benedict for your next test. Listen carefully to the Knights in charge of testing so that you don't feel lost, alright?",
@@ -282,22 +282,22 @@
     "+LmdBg": {
         "en-US": "[Captain Herman]\nSir Windor...?\nWho must this\nSwordman visit\nnext?",
         "pt-BR": "[Cavaleiro Herman]\nSir Windsor...?\nQuem esse jovem\nEspadachim deve visitar\na seguir?",
-        "es-ES": "[Capitán Herman]\n¿Sr. Windsor…?\n¿Con quién es la próxima prueba?"
+        "es-ES": "[Capitán Herman]\n¿Sr. Windsor...?\n¿Con quién es la próxima prueba?"
     },
     "+bmdBg": {
         "en-US": "[Sir Windsor]\n...",
         "pt-BR": "[Cavaleiro Windser]\n...",
-        "es-ES": "[Sr.Windsor]\n…"
+        "es-ES": "[Sr.Windsor]\n..."
     },
     "+rmdBg": {
         "en-US": "[Sir Windsor]\n...\n......",
         "pt-BR": "[Cavaleiro Windser]\n...\n......",
-        "es-ES": "[Sr.Windsor]\n…\n......"
+        "es-ES": "[Sr.Windsor]\n...\n......"
     },
     "+7mdBg": {
         "en-US": "[Sir Windsor]\n...Amy Beatrice.",
         "pt-BR": "[Cavaleiro Windser]\n... Amy Beatrice.",
-        "es-ES": "[Sr.Windsor]\n… A Amy Beatrice."
+        "es-ES": "[Sr.Windsor]\n... A Amy Beatrice."
     },
     "/LmdBg": {
         "en-US": "[Captain Herman]\nAh, go and visit\nLady Amy and take her test. Make sure you pay attention to who you must go to for your next test.",
@@ -307,12 +307,12 @@
     "/bmdBg": {
         "en-US": "[Captain Herman]\nLet's see...\nLady Amy, who\nmust this Swordman\nvisit next?",
         "pt-BR": "[Cavaleiro Herman]\nVejamos...\nLady Amy, quem\nesse jovem Espadachim deve\nvisitar a seguir?",
-        "es-ES": "[Capitán Herman]\nVeamos…\nDama Amy, ¿quién está a cargo\nde la próxima prueba?"
+        "es-ES": "[Capitán Herman]\nVeamos...\nDama Amy, ¿quién está a cargo\nde la próxima prueba?"
     },
     "/rmdBg": {
         "en-US": "[Lady Amy]\nOh...\nI said to visit\nSir Edmond!\nTee hee~",
         "pt-BR": "[Cavaleira Amy]\nOh...\nEu o instruí a visitar\nSir Edmond!\nHihi!",
-        "es-ES": "[Dama Amy]\nOh…\n¡Dije que tienes que visitar\nal Sr. Edmond!\nJe, je."
+        "es-ES": "[Dama Amy]\nOh...\n¡Dije que tienes que visitar\nal Sr. Edmond!\nJe, je."
     },
     "/7mdBg": {
         "en-US": "[Captain Herman]\nNow, go and speak\nto Sir Edmond. He will\nbe in charge of your\nnext test.",
@@ -347,7 +347,7 @@
     "BbqdBg": {
         "en-US": "[Captain Herman]\nOh...!\nYou cannot change jobs if you have unused skill points remaining. Return once you have distributed all your skill points.",
         "pt-BR": "[Cavaleiro Herman]\nOh...!\nVocê não pode mudar de classe se tiver pontos de habilidade não utilizados. Volte depois de distribuir todos os seus pontos de habilidade.",
-        "es-ES": "[Capitán Herman]\n¡Oh…!\nNo puedes cambiar de clase si tienes puntos de habilidad sin utilizar. Vuelve cuando hayas distribuido todos tus puntos de habilidad."
+        "es-ES": "[Capitán Herman]\n¡Oh...!\nNo puedes cambiar de clase si tienes puntos de habilidad sin utilizar. Vuelve cuando hayas distribuido todos tus puntos de habilidad."
     },
     "BrqdBg": {
         "en-US": "[Captain Herman]\nOh, have you completed all the tests? But not everyone who completes the tests can\nbecome a Knight.",
@@ -367,7 +367,7 @@
     "CbqdBg": {
         "en-US": "[Captain Herman]\nThen...\nWe shall listen\nto everyone's thoughts!\nAndrew, what do you think?",
         "pt-BR": "[Cavaleiro Herman]\nEntão...\nDevemos ouvir\nas opiniões de todos!\nAndrew, o que você acha?",
-        "es-ES": "[Capitán Herman]\nEntonces…\n¡Escuchemos\nlo que dicen todos!\nAndrew, ¿qué opinas?"
+        "es-ES": "[Capitán Herman]\nEntonces...\n¡Escuchemos\nlo que dicen todos!\nAndrew, ¿qué opinas?"
     },
     "CrqdBg": {
         "en-US": "[Sir Andrew]\nWhat can I say?\nI approve!\nHaving lived as\na Swordsman up\nuntil now\nis enough.",
@@ -402,7 +402,7 @@
     "ELqdBg": {
         "en-US": "[Sir Siracuse]\nAfter becoming a Knight, you must build a good reputation through honor. Ehh... I approve.",
         "pt-BR": "[Cavaleiro James]\nDepois de se tornar um Cavaleiro, você deverá construir uma boa reputação para si mesmo por meio da honra. Err... Eu aprovo.",
-        "es-ES": "[Sr.Siracuse]\nTras convertirte en Caballero, debes labrarte una buena reputación a través del honor. Ehh… Doy mi aprobación."
+        "es-ES": "[Sr.Siracuse]\nTras convertirte en Caballero, debes labrarte una buena reputación a través del honor. Ehh... Doy mi aprobación."
     },
     "EbqdBg": {
         "en-US": "[Captain Herman]\nOkay...\nWindsor,\nwhat about you?",
@@ -412,7 +412,7 @@
     "ErqdBg": {
         "en-US": "[Sir Windsor]\n....Approved.",
         "pt-BR": "[Cavaleiro Windser]\n... Aprovado.",
-        "es-ES": "[Sr.Windsor]\n… Doy mi aprobación."
+        "es-ES": "[Sr.Windsor]\n... Doy mi aprobación."
     },
     "E7qdBg": {
         "en-US": "[Captain Herman]\nI don't think\nhe disapproves.\nThen, let's listen\nto Amy's opinion.",
@@ -437,7 +437,7 @@
     "F7qdBg": {
         "en-US": "[Captain Herman]\nWell...\nA strange review,\nbut I believe\nshe approves.\nEdmond, speak\nyour mind.",
         "pt-BR": "[Cavaleiro Herman]\nBem...\nUma avaliação estranha,\nmas acredito que\nela aprove o seu desempenho.\nEdmond, diga\nsua ideia.",
-        "es-ES": "[Capitán Herman]\nBueno…\nUn análisis un poco extraño,\npero creo\nque ella da su aprobación.\nEdmond,\ndi lo que piensas."
+        "es-ES": "[Capitán Herman]\nBueno...\nUn análisis un poco extraño,\npero creo\nque ella da su aprobación.\nEdmond,\ndi lo que piensas."
     },
     "GLqdBg": {
         "en-US": "[Sir Edmond]",
@@ -457,7 +457,7 @@
     "G7qdBg": {
         "en-US": "[Captain Herman]\nLastly...\nGray. I would like\nto hear your thoughts.",
         "pt-BR": "[Cavaleiro Herman]\nE, finalmente...\nGray. Eu gostaria\nde ouvir a sua opinião.",
-        "es-ES": "[Capitán Herman]\nPor último…\nGray, me gustaría\nescuchar tu opinión."
+        "es-ES": "[Capitán Herman]\nPor último...\nGray, me gustaría\nescuchar tu opinión."
     },
     "HLqdBg": {
         "en-US": "[Gray]",
@@ -467,12 +467,12 @@
     "HbqdBg": {
         "en-US": "A young gentleman coming here with the determination to become a Knight is enough...",
         "pt-BR": "Um jovem cavalheiro vindo até aqui com a determinação de se tornar um Cavaleiro é o suficiente para mim...",
-        "es-ES": "Basta con que un joven venga aquí con la determinación de convertirse en Caballero…"
+        "es-ES": "Basta con que un joven venga aquí con la determinación de convertirse en Caballero..."
     },
     "HrqdBg": {
         "en-US": "A young lady coming here with the determination to become a Knight is enough...",
         "pt-BR": "Uma jovem dama vindo até aqui com a determinação de se tornar uma Cavaleira é o suficiente para mim...",
-        "es-ES": "Basta con que una joven dama venga aquí con la determinación de convertirse en Caballero…"
+        "es-ES": "Basta con que una joven dama venga aquí con la determinación de convertirse en Caballero..."
     },
     "H7qdBg": {
         "en-US": "[Captain Herman]\nEveryone\nhas approved.\nNo one has opposed.\nThen I shall tell\nyou my opinion.",
@@ -482,7 +482,7 @@
     "ILqdBg": {
         "en-US": "[Captain Herman]\nMy decision is...",
         "pt-BR": "[Cavaleiro Herman]\nE minha decisão é...",
-        "es-ES": "[Capitán Herman]\nMi decisión es…"
+        "es-ES": "[Capitán Herman]\nMi decisión es..."
     },
     "IbqdBg": {
         "en-US": "[Captain Herman]\nI approve.",
@@ -497,7 +497,7 @@
     "I7qdBg": {
         "en-US": "Please get off of that creature you're riding on\nthen come to find me again...",
         "pt-BR": "^0000CDVocê deve distribuir seus pontos restantes. Por favor, distribua-os e tente novamente!^000000",
-        "es-ES": "Bájate de la criatura que estás montando\ny ven a buscarme nuevamente…"
+        "es-ES": "Bájate de la criatura que estás montando\ny ven a buscarme nuevamente..."
     },
     "JLqdBg": {
         "en-US": "[Captain Herman]\nI hereby declare\nyou a member of\nthe Prontera Chivalry.\nProtect the weak and\nlive with honor.",
@@ -507,7 +507,7 @@
     "JbqdBg": {
         "en-US": "[Captain Herman]\nOh...\nWe have prepared a small gift to congratulate you on your job change. Please use it when you are in battle as you honorably protect others.",
         "pt-BR": "[Cavaleiro Herman]\nOh...\nPreparamos um pequeno presente para parabenizar você pela mudança de classe. Por favor, use-o em suas batalhas enquanto luta com honra para proteger os fracos.",
-        "es-ES": "[Capitán Herman]\nOh…\nPreparamos un pequeño obsequio para felicitarte por tu cambio de clase. Úsalo cuando estés en combate protegiendo con honor a los demás."
+        "es-ES": "[Capitán Herman]\nOh...\nPreparamos un pequeño obsequio para felicitarte por tu cambio de clase. Úsalo cuando estés en combate protegiendo con honor a los demás."
     },
     "JrqdBg": {
         "en-US": "[Captain Herman]\nGo forth!\nThe future of\nRune-Midgard\nrests on your\nshoulders!",
@@ -577,7 +577,7 @@
     "M7qdBg": {
         "en-US": "[Sir Andrew]\nAh...\nYou wish\nto become a Knight.\nYour name is\n{0},\ncorrect?",
         "pt-BR": "[Cavaleiro Andrew]\nAh...\nVocê deseja\nse tornar um Cavaleiro.\nSeu nome é...\n{0},\nnão é mesmo?",
-        "es-ES": "[Sr.Andrew]\nAh…\nQuieres\nconvertirte en Caballero.\nTu nombre es…\n{0},\n¿Verdad?"
+        "es-ES": "[Sr.Andrew]\nAh...\nQuieres\nconvertirte en Caballero.\nTu nombre es...\n{0},\n¿Verdad?"
     },
     "NLqdBg": {
         "en-US": "[Sir Andrew]\nI am a Knight of\nthe Prontera Chivalry,\nAndrew Shylock.\nI am in charge of\nyour first test.",
@@ -592,12 +592,12 @@
     "NrqdBg": {
         "en-US": "[Sir Andrew]\nMmm...?\nHold on there.\nYou look like you've\nmastered being\na Swordsman.",
         "pt-BR": "[Cavaleiro Andrew]\nMmm...?\nEspere aí.\nParece que você já \ndominou as técnicas\ndos Espadachins.",
-        "es-ES": "[Sr. Andrew]\n¿Mmm…?\nEspera un momento.\nParece que\nya dominas la clase Espadachín."
+        "es-ES": "[Sr. Andrew]\n¿Mmm...?\nEspera un momento.\nParece que\nya dominas la clase Espadachín."
     },
     "N7qdBg": {
         "en-US": "[Sir Andrew]\nImpressive...!\nOn second thought,\nI don't think your\nloyalty needs to\nbe tested.",
         "pt-BR": "[Cavaleiro Andrew]\nImpressionante...!\nPensando bem,\nacredito que a sua\nlealdade não precisa\nser testada.",
-        "es-ES": "[Sr.Andrew]\n¡Impresionante…!\nPensándolo bien,\nno creo que necesitemos\nprobar\ntu lealtad."
+        "es-ES": "[Sr.Andrew]\n¡Impresionante...!\nPensándolo bien,\nno creo que necesitemos\nprobar\ntu lealtad."
     },
     "OLqdBg": {
         "en-US": "[Sir Andrew]\nPlease go to my fellow Knight, Sir Siracuse, as he will give you your next test. Well done in mastering the Swordman job.",
@@ -607,7 +607,7 @@
     "ObqdBg": {
         "en-US": "[Sir Andrew]\nWithout\nfurther ado,\nlet's begin!\nGo and gather the\nfollowing items...",
         "pt-BR": "[Cavaleiro Andrew]\nSem\nmais delongas,\nvamos começar!\nVá e busque os \nseguintes itens...",
-        "es-ES": "[Sr.Andrew]\nNo perdamos\nmás tiempo.\n¡Comencemos!\nVe y reúne los\nsiguientes objetos…"
+        "es-ES": "[Sr.Andrew]\nNo perdamos\nmás tiempo.\n¡Comencemos!\nVe y reúne los\nsiguientes objetos..."
     },
     "OrqdBg": {
         "en-US": "[Sir Andrew]",
@@ -632,12 +632,12 @@
     "PrqdBg": {
         "en-US": "[Sir Andrew]\nWell, then...\nGood day.",
         "pt-BR": "[Cavaleiro Andrew]\nBem, então...\nBom-dia.",
-        "es-ES": "[Sr.Andrew]\nBueno, entonces…\nBuenos días."
+        "es-ES": "[Sr.Andrew]\nBueno, entonces...\nBuenos días."
     },
     "P7qdBg": {
         "en-US": "[Sir Andrew]\nWelcome back~\nDid you gather\nall the items?\nLet's check and see...",
         "pt-BR": "[Cavaleiro Andrew]\nBem-vindo de volta...\nVocê conseguiu encontrar\ntodos os itens?\nVamos conferir...",
-        "es-ES": "[Sr.Andrew]\nHola de nuevo~.\n¿Reuniste\ntodos los objetos?\nVeamos…"
+        "es-ES": "[Sr.Andrew]\nHola de nuevo~.\n¿Reuniste\ntodos los objetos?\nVeamos..."
     },
     "QLqdBg": {
         "en-US": "[Sir Andrew]\nExcellent! We appreciate your effort in gathering these items. These will be used to support\nthe Chivalry's finances.",
@@ -652,7 +652,7 @@
     "QrqdBg": {
         "en-US": "[Sir Andrew]\nWait, wait...\nI think you're\nstill missing some\nitems. In case you\nforgot, let me\nremind you...",
         "pt-BR": "[Cavaleiro Andrew]\nEspere, espere...\nAcho que você \nse esqueceu de alguns\nitens. Caso tenha\nse esquecido da lista, permita-me\nlembrá-la para você...",
-        "es-ES": "[Sr.Andrew]\nUn momento…\nCreo que\ntodavía faltan algunos\nobjetos. En el caso de que\nte hayas olvidado, déjame\nque te recuerde…"
+        "es-ES": "[Sr.Andrew]\nUn momento...\nCreo que\ntodavía faltan algunos\nobjetos. En el caso de que\nte hayas olvidado, déjame\nque te recuerde..."
     },
     "Q7qdBg": {
         "en-US": "[Sir Andrew]\n^236B8E5 Elder Pixie's Moustache^000000,\n^236B8E5 Wing of Red Bat^000000,\n^236B8E5 Orcish Voucher^000000,\n^236B8E5 Moth Dust^000000,\n^236B8E5 Reptile Tongue^000000 and\n^236B8E5 Mane^000000.",
@@ -742,7 +742,7 @@
     "VLqdBg": {
         "en-US": "[Sir Siracuse]\nA weapon or some sort\nof technique like that\nwould help Knights greatly...",
         "pt-BR": "[Cavaleiro James]\nUma arma ou algum tipo\nde técnica como essa\najudaria os Cavaleiros a serem ainda mais poderosos...",
-        "es-ES": "[Sr.Siracuse]\nUn arma o algún tipo\nde técnica con esa característica\nayudaría mucho a los Caballeros…"
+        "es-ES": "[Sr.Siracuse]\nUn arma o algún tipo\nde técnica con esa característica\nayudaría mucho a los Caballeros..."
     },
     "VbqdBg": {
         "en-US": "[Sir Siracuse]\nEh?\nDo you have\nsomething to\nask me?",
@@ -757,22 +757,22 @@
     "V7qdBg": {
         "en-US": "[Sir Siracuse]\nOh, to become\na Knight? Come to\nthink of it, aren't",
         "pt-BR": "[Cavaleiro James]\nOh, para se tornar\num Cavaleiro? Pensando\nbem, você não é",
-        "es-ES": "[Sr. Siracuse]\nOh, ¿para cambiar \na Caballero? Ahora que\nlo pienso, ¿no eres…?"
+        "es-ES": "[Sr. Siracuse]\nOh, ¿para cambiar \na Caballero? Ahora que\nlo pienso, ¿no eres...?"
     },
     "WLqdBg": {
         "en-US": "you the guy that\njust applied?",
         "pt-BR": "o jovem que\nacabou de se alistar?",
-        "es-ES": "¿… el chico que\nacaba de postularse?"
+        "es-ES": "¿... el chico que\nacaba de postularse?"
     },
     "WbqdBg": {
         "en-US": "you the girl that\njust applied?",
         "pt-BR": "a jovem que\nacabou de se alistar?",
-        "es-ES": "¿… la chica que\nacaba de postularse?"
+        "es-ES": "¿... la chica que\nacaba de postularse?"
     },
     "WrqdBg": {
         "en-US": "[Sir Siracuse]\nLet's see...\nYour name was\n{0}.",
         "pt-BR": "[Cavaleiro James]\nVejamos...\nSeu nome é \n{0}.",
-        "es-ES": "[Sr.Siracuse]\nVeamos…\nTu nombre era\n{0}."
+        "es-ES": "[Sr.Siracuse]\nVeamos...\nTu nombre era\n{0}."
     },
     "W7qdBg": {
         "en-US": "[Sir Siracuse]\nBut, before you come to me, you must visit the others. The way\nI see it, you haven't proven that you know the basics. But I'll\nreconsider once you\npass the first test.",
@@ -782,7 +782,7 @@
     "XLqdBg": {
         "en-US": "[Sir Siracuse]\nHmmm...?\nAlright.\nIt's just that\nyou had that\nlook on your\nface.",
         "pt-BR": "[Cavaleiro James]\nHummm...?\nCerto.\nÉ que\nvocê estava com\numa expressão de dúvida\nsó de olhar para o meu rosto.",
-        "es-ES": "[Sr.Siracuse]\n¿Mmm…?\nDe acuerdo.\nEs que\nhabías\npuesto esa\ncara."
+        "es-ES": "[Sr.Siracuse]\n¿Mmm...?\nDe acuerdo.\nEs que\nhabías\npuesto esa\ncara."
     },
     "XbqdBg": {
         "en-US": "[Sir Siracuse]\nHahaha~!\nAren't you supposed to be taking Andrew's test? You can't just skip that, you know! All of our tests are important.",
@@ -852,7 +852,7 @@
     "arqdBg": {
         "en-US": "[Sir Siracuse]\nWrong!\nThat's a Two-Handed Sword!\nAre you sure you want to be a Knight? You don't even know the basics...",
         "pt-BR": "[Cavaleiro James]\nErrado!\nEssa é uma Espada de Duas-Mãos!\nTem certeza de que quer se tornar um Cavaleiro? Você não conhece nem mesmo os conceitos básicos...",
-        "es-ES": "[Sr. Siracuse]\n¡Incorrecto!\n¡Es una mandoble!\n¿Realmente quieres ser de la clase Caballero? Ni siquiera tienes el conocimiento básico…"
+        "es-ES": "[Sr. Siracuse]\n¡Incorrecto!\n¡Es una mandoble!\n¿Realmente quieres ser de la clase Caballero? Ni siquiera tienes el conocimiento básico..."
     },
     "a7qdBg": {
         "en-US": "[Sir Siracuse]\nIf you're not sure about anything, go into town and ask any Knight. You need to learn more about Knights before applying for the job!",
@@ -1002,7 +1002,7 @@
     "iLqdBg": {
         "en-US": "[Sir Siracuse]\nGood, good...\nI'm pretty sure you know a decent amount about Knights. Now, let me ask you some personal questions about Knights.",
         "pt-BR": "[Cavaleiro James]\nBom, bom...\nEstou certo de que você conhece o bastante sobre os Cavaleiros. Agora, permita-me fazer algumas perguntas pessoais sobre sua visão dos Cavaleiros.",
-        "es-ES": "[Sr.Siracuse]\nBien, bien…\nCreo saber con seguridad que sabes bastante sobre los Caballeros. Bien, déjame hacerte algunas preguntas personales sobre los Caballeros."
+        "es-ES": "[Sr.Siracuse]\nBien, bien...\nCreo saber con seguridad que sabes bastante sobre los Caballeros. Bien, déjame hacerte algunas preguntas personales sobre los Caballeros."
     },
     "ibqdBg": {
         "en-US": "[Sir Siracuse]\nWhat should you do when you run into a Novice asking for help in town?",
@@ -1042,7 +1042,7 @@
     "kLqdBg": {
         "en-US": "[Sir Siracuse]\nAlright...\nNow, how should\nyou act within\na party?",
         "pt-BR": "[Cavaleiro James]\nCerto...\nAgora, como você deve\nagir se fizer parte\nde um grupo?",
-        "es-ES": "[Sr.Siracuse]\nMuy bien…\nAhora bien, ¿cómo deberías\nactuar en\ngrupo?"
+        "es-ES": "[Sr.Siracuse]\nMuy bien...\nAhora bien, ¿cómo deberías\nactuar en\ngrupo?"
     },
     "kbqdBg": {
         "en-US": "Protect everyone in the front of the battle.",
@@ -1077,7 +1077,7 @@
     "l7qdBg": {
         "en-US": "[Sir Siracuse]\nLastly...\nwhat's the most\nimportant value\na Knight must have?",
         "pt-BR": "[Cavaleiro James]\nE, finalmente...\nqual é o valor\nmais importante\nque um Cavaleiro deve ter?",
-        "es-ES": "[Sr.Siracuse]\nPor último…\n¿Cuál es el\nvalor más importante\nque debe tener un Caballero?"
+        "es-ES": "[Sr.Siracuse]\nPor último...\n¿Cuál es el\nvalor más importante\nque debe tener un Caballero?"
     },
     "mLqdBg": {
         "en-US": "Honor",
@@ -1122,7 +1122,7 @@
     "oLqdBg": {
         "en-US": "[Sir Siracuse]\nWhat...\nYou again?",
         "pt-BR": "[Cavaleiro James]\nO que...\nVocê de novo?",
-        "es-ES": "[Sr.Siracuse]\n¿Qué…?\n¿Tú otra vez?"
+        "es-ES": "[Sr.Siracuse]\n¿Qué...?\n¿Tú otra vez?"
     },
     "obqdBg": {
         "en-US": "I wish to take the test again.",
@@ -1137,12 +1137,12 @@
     "o7qdBg": {
         "en-US": "[Sir Siracuse]\nAlright then,\nhere we go again...",
         "pt-BR": "[Cavaleiro James]\nMuito bem, então\nvamos tentar novamente...",
-        "es-ES": "[Sr.Siracuse]\nMuy bien,\nintentémoslo de nuevo…"
+        "es-ES": "[Sr.Siracuse]\nMuy bien,\nintentémoslo de nuevo..."
     },
     "pLqdBg": {
         "en-US": "[Sir Siracuse]\nWrong!\nThat's a Two-Handed Sword! Are you sure you want to be a Knight? You don't even know the basics...",
         "pt-BR": "[Cavaleiro James]\nErrado!\nEssa é uma Espada de Duas-Mãos! Tem certeza de que quer se tornar um Cavaleiro? Você não conhece nem mesmo os conceitos básicos...",
-        "es-ES": "[Sr.Siracuse]\n¡Incorrecto!\n¡Es una mandoble! ¿Realmente quieres ser un Caballero? Ni siquiera tienes el conocimiento básico…"
+        "es-ES": "[Sr.Siracuse]\n¡Incorrecto!\n¡Es una mandoble! ¿Realmente quieres ser un Caballero? Ni siquiera tienes el conocimiento básico..."
     },
     "pbqdBg": {
         "en-US": "[Sir Siracuse]\nIf you're not sure, go into town and ask any Knight. You need to learn more about Knights before applying for the job!",
@@ -1152,12 +1152,12 @@
     "prqdBg": {
         "en-US": "[Sir Siracuse]\nHey...\nYou already took my test, didn't you? You're done here. You should go visit Sir Windsor now...",
         "pt-BR": "[Cavaleiro James]\nEi...\nVocê já passou pelo meu teste, não é? Não há mais nada a fazer por aqui. Você deve ir até Sir Windsor agora...",
-        "es-ES": "[Sr.Siracuse]\nOye…\nYa hiciste mi prueba, ¿verdad? No hay más que hacer aquí. Deberías visitar al Sr.Windsor ahora…"
+        "es-ES": "[Sr.Siracuse]\nOye...\nYa hiciste mi prueba, ¿verdad? No hay más que hacer aquí. Deberías visitar al Sr.Windsor ahora..."
     },
     "p7qdBg": {
         "en-US": "[Sir Siracuse]\nMmm...?\nYou finished\neveryone else's\ntests as well?",
         "pt-BR": "[Cavaleiro James]\nMmm...?\nVocê completou\ntodos os outros\ntestes?",
-        "es-ES": "[Sr.Siracuse]\n¿Mmm…?\n¿Terminaste también\nlas pruebas\nde todos los demás?"
+        "es-ES": "[Sr.Siracuse]\n¿Mmm...?\n¿Terminaste también\nlas pruebas\nde todos los demás?"
     },
     "qLqdBg": {
         "en-US": "[Sir Siracuse]\nWell then,\ngo and see the\ncaptain. We'll all\nbe there to evaluate\nyour performance.",
@@ -1167,7 +1167,7 @@
     "qbqdBg": {
         "en-US": "[Sir Siracuse]\nHey again.\nDid you need something?\nSorry, but I'm busy at the moment. You should go and finish the rest of your tests.",
         "pt-BR": "[Cavaleiro James]\nOlá novamente.\nVocê precisa de alguma coisa?\nDesculpe, mas estou ocupado no momento. Você deveria seguir em frente e completar os outros testes.",
-        "es-ES": "[Sr.Siracuse]\nHola de nuevo.\n¿Necesitabas algo?\nDisculpa, pero ahora no puedo… Deberías ir a terminar el resto de tus pruebas."
+        "es-ES": "[Sr.Siracuse]\nHola de nuevo.\n¿Necesitabas algo?\nDisculpa, pero ahora no puedo... Deberías ir a terminar el resto de tus pruebas."
     },
     "qrqdBg": {
         "en-US": "Sir Windsor",
@@ -1182,27 +1182,27 @@
     "rLqdBg": {
         "en-US": "[Sir Windsor]\n...Go play\noutside.",
         "pt-BR": "[Cavaleiro Windser]\n... Vá brincar\nlá fora.",
-        "es-ES": "[Sr. Windsor]\n… Ve a jugar\nafuera."
+        "es-ES": "[Sr. Windsor]\n... Ve a jugar\nafuera."
     },
     "rbqdBg": {
         "en-US": "[Sir Windsor]\n...Hmpf.",
         "pt-BR": "[Cavaleiro Windser]\n... Humpf.",
-        "es-ES": "[Sr. Windsor]\n… Puf."
+        "es-ES": "[Sr. Windsor]\n... Puf."
     },
     "rrqdBg": {
         "en-US": "[Sir Windsor]\n...What?",
         "pt-BR": "[Cavaleiro Windser]\n... O quê?",
-        "es-ES": "[Sr. Windsor]\n… ¿Qué?"
+        "es-ES": "[Sr. Windsor]\n... ¿Qué?"
     },
     "r7qdBg": {
         "en-US": "[Sir Windsor]\n...It's not my turn.",
         "pt-BR": "[Cavaleiro Windser]\n... Não é a minha vez.",
-        "es-ES": "[Sr. Windsor]\n… No es mi turno."
+        "es-ES": "[Sr. Windsor]\n... No es mi turno."
     },
     "sLqdBg": {
         "en-US": "[Sir Windsor]\n.....What?",
         "pt-BR": "[Cavaleiro Windser]\n..........",
-        "es-ES": "[Sr. Windsor]\n… ¿Qué?"
+        "es-ES": "[Sr. Windsor]\n... ¿Qué?"
     },
     "sbqdBg": {
         "en-US": "[Sir Windsor]\n..........",
@@ -1217,7 +1217,7 @@
     "s7qdBg": {
         "en-US": "[Sir Windsor]\n...Follow me.",
         "pt-BR": "[Cavaleiro Windser]\n... Siga-me.",
-        "es-ES": "[Sr. Windsor]\n… Sígueme."
+        "es-ES": "[Sr. Windsor]\n... Sígueme."
     },
     "tLqdBg": {
         "en-US": "I want to try again!",
@@ -1227,27 +1227,27 @@
     "tbqdBg": {
         "en-US": "....Nothing.",
         "pt-BR": "... Nada.",
-        "es-ES": "… Nada."
+        "es-ES": "... Nada."
     },
     "trqdBg": {
         "en-US": "[Sir Windsor]\n...Fine.",
         "pt-BR": "[Cavaleiro Windser]\n... Pois bem.",
-        "es-ES": "[Sr. Windsor]\n… Bien."
+        "es-ES": "[Sr. Windsor]\n... Bien."
     },
     "t7qdBg": {
         "en-US": "[Sir Windsor]\n...This way.",
         "pt-BR": "[Cavaleiro Windser]\n... Por aqui.",
-        "es-ES": "[Sr. Windsor]\n… Por aquí."
+        "es-ES": "[Sr. Windsor]\n... Por aquí."
     },
     "uLqdBg": {
         "en-US": "[Sir Windsor]\n...Talk to\nthe captain.",
         "pt-BR": "[Cavaleiro Windser]\n... Fale com\no Capitão.",
-        "es-ES": "[Sr. Windsor]\n… Habla con\nel capitán."
+        "es-ES": "[Sr. Windsor]\n... Habla con\nel capitán."
     },
     "ubqdBg": {
         "en-US": "[Sir Windsor]\n...You're\ndone here.",
         "pt-BR": "[Cavaleiro Windser]\n... Você \njá acabou por aqui.",
-        "es-ES": "[Sr. Windsor]\n… Ya\nterminaste aquí."
+        "es-ES": "[Sr. Windsor]\n... Ya\nterminaste aquí."
     },
     "urqdBg": {
         "en-US": "Knight Windsor",
@@ -1257,7 +1257,7 @@
     "u7qdBg": {
         "en-US": "[Sir Windsor]\n...Question?",
         "pt-BR": "[Cavaleiro Windser]\n... Perguntas?",
-        "es-ES": "[Sr. Windsor]\n… ¿Alguna pregunta?"
+        "es-ES": "[Sr. Windsor]\n... ¿Alguna pregunta?"
     },
     "vLqdBg": {
         "en-US": "What kind of test is this?",
@@ -1282,42 +1282,42 @@
     "wLqdBg": {
         "en-US": "[Sir Windsor]\n...You fight monsters.",
         "pt-BR": "[Cavaleiro Windser]\n... Você enfrenta os monstros.",
-        "es-ES": "[Sr. Windsor]\n… Pelea contra monstruos."
+        "es-ES": "[Sr. Windsor]\n... Pelea contra monstruos."
     },
     "wbqdBg": {
         "en-US": "[Sir Windsor]\n...Kill them all.",
         "pt-BR": "[Cavaleiro Windser]\n... Mate todos eles.",
-        "es-ES": "[Sr. Windsor]\n… Mátalos a todos."
+        "es-ES": "[Sr. Windsor]\n... Mátalos a todos."
     },
     "wrqdBg": {
         "en-US": "[Sir Windsor]\n...Three stages.\nBeat them all.",
         "pt-BR": "[Cavaleiro Windser]\n... Três estágios.\nDerrote todos.",
-        "es-ES": "[Sr. Windsor]\n… Tres etapas.\nVéncelos a todos."
+        "es-ES": "[Sr. Windsor]\n... Tres etapas.\nVéncelos a todos."
     },
     "w7qdBg": {
         "en-US": "[Sir Windsor]\n......3 minutes\nfor each stage.",
         "pt-BR": "[Cavaleiro Windser]\n... 3 minutos\npara cada estágio.",
-        "es-ES": "[Sr. Windsor]\n… Tres minutos\npara cada etapa."
+        "es-ES": "[Sr. Windsor]\n... Tres minutos\npara cada etapa."
     },
     "xLqdBg": {
         "en-US": "[Sir Windsor]\n...Go in the\nwaiting room.",
         "pt-BR": "[Cavaleiro Windser]\n... Vá para a\nsala de espera.",
-        "es-ES": "[Sr. Windsor]\n… Ve a la\nsala de espera."
+        "es-ES": "[Sr. Windsor]\n... Ve a la\nsala de espera."
     },
     "xbqdBg": {
         "en-US": "[Sir Windsor]\n...Then it\nwill begin.",
         "pt-BR": "[Cavaleiro Windser]\n... Então o teste\nterá início.",
-        "es-ES": "[Sr. Windsor]\n… Luego,\ncomenzará."
+        "es-ES": "[Sr. Windsor]\n... Luego,\ncomenzará."
     },
     "xrqdBg": {
         "en-US": "[Sir Windsor]\n...You have to wait\nif someone is testing.",
         "pt-BR": "[Cavaleiro Windser]\n... Você deve esperar\nse outra pessoa estiver sendo testada.",
-        "es-ES": "[Sr. Windsor]\n… Tendrás que esperar\nsi otra persona está haciendo la prueba."
+        "es-ES": "[Sr. Windsor]\n... Tendrás que esperar\nsi otra persona está haciendo la prueba."
     },
     "x7qdBg": {
         "en-US": "[Sir Windsor]\n...You can go in\nafter that person.",
         "pt-BR": "[Cavaleiro Windser]\n... Você pode entrar\ndepois dessa pessoa.",
-        "es-ES": "[Sr. Windsor]\n… Podrás ingresar\ndespués de esa persona."
+        "es-ES": "[Sr. Windsor]\n... Podrás ingresar\ndespués de esa persona."
     },
     "yLqdBg": {
         "en-US": "Windsor Benedict",
@@ -1357,7 +1357,7 @@
     "z7qdBg": {
         "en-US": "[Sir Windsor]\n...On to\nthe next level.",
         "pt-BR": "[Cavaleiro Windser]\n... Avance para\no próximo nível.",
-        "es-ES": "[Sr. Windsor]\n… Al\nsiguiente nivel."
+        "es-ES": "[Sr. Windsor]\n... Al\nsiguiente nivel."
     },
     "0LqdBg": {
         "en-US": "Knight2",
@@ -1377,12 +1377,12 @@
     "07qdBg": {
         "en-US": "[Sir Windsor]\n...Hmm.",
         "pt-BR": "[Cavaleiro Windser]\n... Humm.",
-        "es-ES": "[Sr. Windsor]\n… Mmm."
+        "es-ES": "[Sr. Windsor]\n... Mmm."
     },
     "1LqdBg": {
         "en-US": "[Sir Windsor]\n...One stage left.",
         "pt-BR": "[Cavaleiro Windser]\n... Resta um estágio.",
-        "es-ES": "[Sr. Windsor]\n… Queda una etapa."
+        "es-ES": "[Sr. Windsor]\n... Queda una etapa."
     },
     "1bqdBg": {
         "en-US": "Knight3",
@@ -1397,12 +1397,12 @@
     "17qdBg": {
         "en-US": "[Sir Windsor]\n...Very good.",
         "pt-BR": "[Cavaleiro Windser]\n... Muito bom.",
-        "es-ES": "[Sr. Windsor]\n… Muy bien."
+        "es-ES": "[Sr. Windsor]\n... Muy bien."
     },
     "2LqdBg": {
         "en-US": "[Sir Windsor]\n...Go talk to\nAmy Beatrice now.",
         "pt-BR": "[Cavaleiro Windser]\n... Agora, vá falar com\nAmy Beatrice.",
-        "es-ES": "[Sr. Windsor]\n… Ve a hablar con\nAmy Beatrice ahora."
+        "es-ES": "[Sr. Windsor]\n... Ve a hablar con\nAmy Beatrice ahora."
     },
     "2bqdBg": {
         "en-US": "Lady Amy",
@@ -1412,7 +1412,7 @@
     "2rqdBg": {
         "en-US": "[Lady Amy]\nOh...!\nI wonder, why\nhave you come\nto visit me?",
         "pt-BR": "[Cavaleira Astrih]\nOh...!\nEu me pergunto, por que\nvocê veio me\nfazer uma visita?",
-        "es-ES": "[Dama Amy]\n¡Oh…!\nMe pregunto por qué\nviniste\na visitarme."
+        "es-ES": "[Dama Amy]\n¡Oh...!\nMe pregunto por qué\nviniste\na visitarme."
     },
     "27qdBg": {
         "en-US": "[Lady Amy]\nYou're not having\ntrouble as a Knight,\nare you? Well, I think\nyou're doing well~",
@@ -1432,7 +1432,7 @@
     "3rqdBg": {
         "en-US": "[Lady Amy]\nHeh heh...\nAre you interested\nin becoming a Knight\nlater on? You'd be\na great Knight~",
         "pt-BR": "[Cavaleira Astrih]\nHehehe...\nVocê está interessado\nem se tornar um Cavaleiro\nno futuro? Você \nseria um ótimo Cavaleiro!",
-        "es-ES": "[Dama Amy]\nJe, je…\n¿Te interesaría\ncambiarte a la clase Caballero\nmás adelante? Sé\nque serías excelente."
+        "es-ES": "[Dama Amy]\nJe, je...\n¿Te interesaría\ncambiarte a la clase Caballero\nmás adelante? Sé\nque serías excelente."
     },
     "37qdBg": {
         "en-US": "[Lady Amy]\nRemember, you're\ngoing to be a Knight,\nalright? Promise?",
@@ -1452,7 +1452,7 @@
     "4rqdBg": {
         "en-US": "[Lady Amy]\nOoh, you're\na Swordsman...?\nDid you come to\nchange jobs to\na Knight?",
         "pt-BR": "[Cavaleira Astrih]\nOoh, você é \num Espadachim...?\nVocê também veio\nmudar a sua classe para\nCavaleiro?",
-        "es-ES": "[Dama Amy]\nOh, ¿eres\nde la clase Espadachín…?\n¿Viniste para\ncambiar a la clase\nCaballero?"
+        "es-ES": "[Dama Amy]\nOh, ¿eres\nde la clase Espadachín...?\n¿Viniste para\ncambiar a la clase\nCaballero?"
     },
     "47qdBg": {
         "en-US": "[Lady Amy]\nTo apply, talk\nto the captain\nall the way over\nthere. Hee hee~",
@@ -1472,7 +1472,7 @@
     "5rqdBg": {
         "en-US": "[Lady Amy]\nBut...\nYou have to go\nto the other Knights\nbefore talking to Amy.",
         "pt-BR": "[Cavaleira Astrih]\nMas...\nVocê deve falar\ncom os outros Cavaleiros\nantes de falar com Amy.",
-        "es-ES": "[Dama Amy]\nPero…\nTienes que visitar\na los demás Caballeros\nantes de hablar conmigo."
+        "es-ES": "[Dama Amy]\nPero...\nTienes que visitar\na los demás Caballeros\nantes de hablar conmigo."
     },
     "57qdBg": {
         "en-US": "[Lady Amy]\nI'd love to test\nyou from the beginning,\nbut I'm not allowed to.\nHee hee~",
@@ -1482,7 +1482,7 @@
     "6LqdBg": {
         "en-US": "[Lady Amy]\nAww~\nAlright...",
         "pt-BR": "[Cavaleira Astrih]\nAwww!\nCerto...",
-        "es-ES": "[Dama Amy]\nOh~.\nMuy bien…"
+        "es-ES": "[Dama Amy]\nOh~.\nMuy bien..."
     },
     "6bqdBg": {
         "en-US": "[Lady Amy]\nI'd love to test\nyou right now, but\nI'm not allowed\nto quite yet.\nHee hee~",
@@ -1492,7 +1492,7 @@
     "6rqdBg": {
         "en-US": "Sir Windsor told me to--",
         "pt-BR": "Sir Windsor me mandou vir aqui...",
-        "es-ES": "El Sr. Windsor me dijo que…"
+        "es-ES": "El Sr. Windsor me dijo que..."
     },
     "67qdBg": {
         "en-US": "[Lady Amy]\nOh!\nNo need to say\nanything more.\nWelcome! It's time\nto take Amy's test!",
@@ -1542,7 +1542,7 @@
     "9LqdBg": {
         "en-US": "[Lady Amy]\nYou have formed a party with equal leveled players. There's a Priest, a Wizard, a Hunter, an Assassin, and a Blacksmith...",
         "pt-BR": "[Cavaleira Astrih]\nVocê formou um grupo de aventureiros em que todos os jogadores possuem níveis parecidos. O grupo conta com um Sacerdote, um Mago, um Caçador, um Mercenário e um Ferreiro...",
-        "es-ES": "[Dama Amy]\nFormaste un grupo con jugadores del mismo nivel. Hay un Sacerdote, un Hechicero, un Cazador, un Asesino y un Herrero…"
+        "es-ES": "[Dama Amy]\nFormaste un grupo con jugadores del mismo nivel. Hay un Sacerdote, un Hechicero, un Cazador, un Asesino y un Herrero..."
     },
     "9bqdBg": {
         "en-US": "[Lady Amy]\nThe six of you decide to go hunt and have decided to go to the Pyramids.",
@@ -1782,7 +1782,7 @@
     "JLudBg": {
         "en-US": "[Lady Amy]\nMmm...\nTo be honest, I don't think your attitude is good enough to be a Knight quite yet.",
         "pt-BR": "[Cavaleira Astrih]\nHum...\nPara ser honesta, acredito que sua atitude não é boa o suficiente para que você se torne um bom Cavaleiro.",
-        "es-ES": "[Dama Amy]\nMmm…\nSinceramente, no creo que tu actitud sea lo suficientemente buena para convertirte en Caballero todavía."
+        "es-ES": "[Dama Amy]\nMmm...\nSinceramente, no creo que tu actitud sea lo suficientemente buena para convertirte en Caballero todavía."
     },
     "JbudBg": {
         "en-US": "[Lady Amy]\nIf you really act like that, everyone will think Knights are rude! Think about how you answered my questions and come again later.",
@@ -1797,7 +1797,7 @@
     "J7udBg": {
         "en-US": "[Lady Amy]\nAww...\nAlright~",
         "pt-BR": "[Cavaleira Astrih]\nAwww...\nEstá bem!",
-        "es-ES": "[Dama Amy]\nAy…\nMuy bien~."
+        "es-ES": "[Dama Amy]\nAy...\nMuy bien~."
     },
     "KLudBg": {
         "en-US": "[Lady Amy]\nMmm~?\nHave you learned\nwhat you did wrong\nlast time? If you\nfail again, I'm going\nto be mad!",
@@ -1847,7 +1847,7 @@
     "MbudBg": {
         "en-US": "[Sir Edmond]\nFlowing water\navoids obstacles,\ngoing on its way...",
         "pt-BR": "[Cavaleiro Edmond]\nA água corrente\nevita os obstáculos,\nseguindo sempre em frente...",
-        "es-ES": "[Sr.Edmond]\nEl agua que fluye\nevita los obstáculos\nque se interponen en su camino…"
+        "es-ES": "[Sr.Edmond]\nEl agua que fluye\nevita los obstáculos\nque se interponen en su camino..."
     },
     "MrudBg": {
         "en-US": "[Sir Edmond]\nKnights must be\nable to pass things,\nlike calm water, in\nany situation.",
@@ -1857,17 +1857,17 @@
     "M7udBg": {
         "en-US": "[Sir Edmond]\nTrees with deep roots don't sway with the wind. The fact that powerful skills must be built on strong basics is immutable...",
         "pt-BR": "[Cavaleiro Edmond]\nÁrvores com raízes profundas não são dobradas pelo vento. O fato de que habilidades poderosas devem ser construídas sobre conceitos básicos fortes é incontestável...",
-        "es-ES": "[Sr.Edmond]\nLos árboles con raíces profundas no se mecen con el viento. El hecho de que las habilidades poderosas deben desarrollarse sobre bases sólidas es inmutable…"
+        "es-ES": "[Sr.Edmond]\nLos árboles con raíces profundas no se mecen con el viento. El hecho de que las habilidades poderosas deben desarrollarse sobre bases sólidas es inmutable..."
     },
     "NLudBg": {
         "en-US": "[Sir Edmond]\nYour future\ncan even be\ndecided now...",
         "pt-BR": "[Cavaleiro Edmond]\nSeu futuro\npode muito bem estar sendo\ndecidido neste momento...",
-        "es-ES": "[Sr.Edmond]\nTu futuro\nincluso puede\ndeterminarse ahora…"
+        "es-ES": "[Sr.Edmond]\nTu futuro\nincluso puede\ndeterminarse ahora..."
     },
     "NbudBg": {
         "en-US": "[Sir Edmond]\nEverything in this world exists in harmony. Living without disrupting this harmony is the right way to live...",
         "pt-BR": "[Cavaleiro Edmond]\nTudo neste mundo existe em harmonia. Viver sem perturbar essa harmonia é a forma correta de seguir a sua vida...",
-        "es-ES": "[Sr.Edmond]\nTodo en este mundo existe en armonía. Vivir sin perturbar esta armonía es la forma correcta de vivir…"
+        "es-ES": "[Sr.Edmond]\nTodo en este mundo existe en armonía. Vivir sin perturbar esta armonía es la forma correcta de vivir..."
     },
     "NrudBg": {
         "en-US": "[Sir Edmond]\nThose with ominous thoughts will only dream such dreams. It's better to have no dreams at all than to have dreams of sadness and despair.",
@@ -1877,22 +1877,22 @@
     "N7udBg": {
         "en-US": "[Sir Edmond]\nWhat is it...\nWandering Swordman?",
         "pt-BR": "[Cavaleiro Edmond]\nO que você procura...\nEspadachim Errante?",
-        "es-ES": "[Sr.Edmond]\n¿Qué sucede…\nEspadachín errante?"
+        "es-ES": "[Sr.Edmond]\n¿Qué sucede...\nEspadachín errante?"
     },
     "OLudBg": {
         "en-US": "[Sir Edmond]\nA seed must first be nestled\nin the earth before the seed may sprout. Then, the sprout must grow leaves before its buds blossom into flowers...",
         "pt-BR": "[Cavaleiro Edmond]\nUma semente deve ser plantada\nna terra antes que possa brotar. Então, o broto deve produzir folhas antes que elas se transformem em flores...",
-        "es-ES": "[Sr.Edmond]\nPrimero, se debe colocar la semilla\nen la tierra antes de que pueda brotar. Luego, el brote debe desarrollar hojas antes de que los capullos se conviertan en flores…"
+        "es-ES": "[Sr.Edmond]\nPrimero, se debe colocar la semilla\nen la tierra antes de que pueda brotar. Luego, el brote debe desarrollar hojas antes de que los capullos se conviertan en flores..."
     },
     "ObudBg": {
         "en-US": "[Sir Edmond]\nIf not...\nThe flower will\nbe incomplete.",
         "pt-BR": "[Cavaleiro Edmond]\nSenão...\na flor ficará \nincompleta.",
-        "es-ES": "[Sr.Edmond]\nDe lo contrario…\nla flor\nestará incompleta."
+        "es-ES": "[Sr.Edmond]\nDe lo contrario...\nla flor\nestará incompleta."
     },
     "OrudBg": {
         "en-US": "[Sir Edmond]\nGo to the others\nfirst, so that you\nmay find your path...",
         "pt-BR": "[Cavaleiro Edmond]\nVá até os outros\nprimeiro, para que você \npossa, finalmente, encontrar o seu caminho...",
-        "es-ES": "[Sr.Edmond]\nVisita primero\na los demás para que\npuedas encontrar tu camino…"
+        "es-ES": "[Sr.Edmond]\nVisita primero\na los demás para que\npuedas encontrar tu camino..."
     },
     "O7udBg": {
         "en-US": "[Sir Edmond]\nThe life that you\nwant will soon be\nbefore your eyes.\nEverything will\ncome in perfect\norder.",
@@ -1912,12 +1912,12 @@
     "PrudBg": {
         "en-US": "[Sir Edmond]\nThat's what\nI thought...\nGo to the\nothers first.",
         "pt-BR": "[Cavaleiro Edmond]\nFoi o que\npensei...\nVá procurar os\noutros Cavaleiros primeiro.",
-        "es-ES": "[Sr.Edmond]\nEso\npensaba…\nVer a ver a\nlos demás primero."
+        "es-ES": "[Sr.Edmond]\nEso\npensaba...\nVer a ver a\nlos demás primero."
     },
     "P7udBg": {
         "en-US": "[Sir Edmond]\nWhat is it... \nWandering Swordman?",
         "pt-BR": "[Cavaleiro Edmond]\nO que você procura... \nEspadachim Errante?",
-        "es-ES": "[Sr.Edmond]\n¿Qué sucede… \nEspadachín errante?"
+        "es-ES": "[Sr.Edmond]\n¿Qué sucede... \nEspadachín errante?"
     },
     "QLudBg": {
         "en-US": "[Sir Edmond]\nIf a tree falls\nin the woods, does\nit make a sound?",
@@ -1932,7 +1932,7 @@
     "QrudBg": {
         "en-US": "[Sir Edmond]\nGo to the others\nfirst, so that you\nmay find an answer...",
         "pt-BR": "[Cavaleiro Edmond]\nVá até os outros\nprimeiro, para que você \nvocê possa encontrar a resposta...",
-        "es-ES": "[Sr.Edmond]\nVisita primero\na los demás para que\npuedas encontrar una respuesta…"
+        "es-ES": "[Sr.Edmond]\nVisita primero\na los demás para que\npuedas encontrar una respuesta..."
     },
     "Q7udBg": {
         "en-US": "[Sir Edmond]\nChange will\ncome when all is in\nreadiness. Everything\ncomes in its own\ngood time.",
@@ -1947,12 +1947,12 @@
     "RbudBg": {
         "en-US": "[Sir Edmond]\nZzz...\nZzz...\n^666666*snort*^000000\nWah? Huh?",
         "pt-BR": "[Cavaleiro Edmond]\nZzz...\nZzz...\n^666666*ronco*^000000\nHein? Hã?",
-        "es-ES": "[Sr.Edmond]\nZzz…\nZzz…\n^666666*Resoplido*^000000\nBua… ¿Eh?"
+        "es-ES": "[Sr.Edmond]\nZzz...\nZzz...\n^666666*Resoplido*^000000\nBua... ¿Eh?"
     },
     "RrudBg": {
         "en-US": "[Sir Edmond]\nIs it my\nturn yet...?\nNo... Not yet.",
         "pt-BR": "[Cavaleiro Edmond]\nJá é a minha\nvez...?\nNão... Ainda não.",
-        "es-ES": "[Sr.Edmond]\n¿Ya es\nmi turno…?\nNo… Todavía no."
+        "es-ES": "[Sr.Edmond]\n¿Ya es\nmi turno...?\nNo... Todavía no."
     },
     "R7udBg": {
         "en-US": "[Sir Edmond]\nSorry, it's\nnot my turn yet,\nyoung one.",
@@ -1962,22 +1962,22 @@
     "SLudBg": {
         "en-US": "[Sir Edmond]\nGo to the others\nfirst and complete\ntheir tasks...",
         "pt-BR": "[Cavaleiro Edmond]\nVá até os outros\nprimeiro e complete\nseus testes...",
-        "es-ES": "[Sr.Edmond]\nVisita primero\nprimero y completa\nsus tareas…"
+        "es-ES": "[Sr.Edmond]\nVisita primero\nprimero y completa\nsus tareas..."
     },
     "SbudBg": {
         "en-US": "[Sir Edmond]\nYou're almost\nthere, don't\ngive up...",
         "pt-BR": "[Cavaleiro Edmond]\nVocê está quase\nlá. Não\ndesista...",
-        "es-ES": "[Sr.Edmond]\nYa casi\nlo logras, no te\nrindas…"
+        "es-ES": "[Sr.Edmond]\nYa casi\nlo logras, no te\nrindas..."
     },
     "SrudBg": {
         "en-US": "[Sir Edmond]\nYou are nearing the\nend of your journey...",
         "pt-BR": "[Cavaleiro Edmond]\nVocê está se aproximando do\nfim da sua jornada...",
-        "es-ES": "[Sr.Edmond]\nTe estás acercando al\nfin de tu viaje…"
+        "es-ES": "[Sr.Edmond]\nTe estás acercando al\nfin de tu viaje..."
     },
     "S7udBg": {
         "en-US": "[Sir Edmond]\nHowever, there are\nstill the final steps\nyou must take...",
         "pt-BR": "[Cavaleiro Edmond]\nNo entanto, há \nalguns passos\nque precisam ser dados...",
-        "es-ES": "[Sr.Edmond]\nSin embargo, aún\nte faltan dar\nlos últimos pasos…"
+        "es-ES": "[Sr.Edmond]\nSin embargo, aún\nte faltan dar\nlos últimos pasos..."
     },
     "TLudBg": {
         "en-US": "[Sir Edmond]\nHowever,\nmy time to test\nyou has not come\nquite yet.",
@@ -1987,12 +1987,12 @@
     "TbudBg": {
         "en-US": "[Sir Edmond]\nYou must still see\none of the others...\nBut the life that you\nwant will soon be\nbefore your eyes.",
         "pt-BR": "[Cavaleiro Edmond]\nVocê ainda deve\nprocurar um dos outros Cavaleiros...\nMas a vida que você \ndeseja logo estará \ndiante de seus olhos.",
-        "es-ES": "[Sr.Edmond]\nAún debes visitar\na uno de los demás…\nPero la vida que\nquieres pronto estará\nante tus ojos."
+        "es-ES": "[Sr.Edmond]\nAún debes visitar\na uno de los demás...\nPero la vida que\nquieres pronto estará\nante tus ojos."
     },
     "TrudBg": {
         "en-US": "[Sir Edmond]\nWhat is it...\nWandering Swordman.",
         "pt-BR": "[Cavaleiro Edmond]\nO que você procura...\nEspadachim Errante?",
-        "es-ES": "[Sr.Edmond]\n¿Qué sucede…\nEspadachín errante?"
+        "es-ES": "[Sr.Edmond]\n¿Qué sucede...\nEspadachín errante?"
     },
     "T7udBg": {
         "en-US": "Lady Amy sent me.",
@@ -2022,7 +2022,7 @@
     "VLudBg": {
         "en-US": "[Sir Edmond]\nYou must not kill monsters without reason and not take joy in doing so. Take this time to quietly think about this on your own...",
         "pt-BR": "[Cavaleiro Edmond]\nVocê não deve matar monstros sem uma boa razão e não deve ter alegria ao fazê-lo. Use esse tempo para pensar em silêncio sobre o que acabei de dizer...",
-        "es-ES": "[Sr.Edmond]\nNo debes matar monstruos sin motivo ni alegrarte de hacerlo. Tómate este tiempo para pensar con tranquilidad al respecto por tu propia cuenta…"
+        "es-ES": "[Sr.Edmond]\nNo debes matar monstruos sin motivo ni alegrarte de hacerlo. Tómate este tiempo para pensar con tranquilidad al respecto por tu propia cuenta..."
     },
     "VbudBg": {
         "en-US": "[Sir Edmond]\nThen, we shall\nbegin the test.\nKeep in mind\nthe quality of\nreverence.",
@@ -2037,7 +2037,7 @@
     "V7udBg": {
         "en-US": "I'm sorry, I didn't mean to...",
         "pt-BR": "Me desculpe, eu não queria...",
-        "es-ES": "Lo siento, no quería…"
+        "es-ES": "Lo siento, no quería..."
     },
     "WLudBg": {
         "en-US": "[Sir Edmond]\nYou were too careless in the last test. A Knight's sword exists to protect others, not to torment weaker monsters.",
@@ -2052,17 +2052,17 @@
     "WrudBg": {
         "en-US": "[Sir Edmond]\nThe test\nshall begin.\nShow me your\npatience...",
         "pt-BR": "[Cavaleiro Edmond]\nO teste\ndeve começar.\nMostre-me a sua\npaciência...",
-        "es-ES": "[Sr.Edmond]\nLa prueba\ncomenzará.\nMuéstrame tu\npaciencia…"
+        "es-ES": "[Sr.Edmond]\nLa prueba\ncomenzará.\nMuéstrame tu\npaciencia..."
     },
     "W7udBg": {
         "en-US": "[Sir Edmond]\nI have seen your character for myself. It is now time for you to take the last test. Go and speak\nto Sir Gray...",
         "pt-BR": "[Cavaleiro Edmond]\nEu já vi a sua verdadeira personalidade. Agora chegou a hora de você enfrentar o seu último teste. Vá e procure\nSir Gray...",
-        "es-ES": "[Sr.Edmond]\nVi tu carácter con mis propios ojos. Llegó el momento de realizar la última prueba. Ve y habla\ncon el Sr.Gray…"
+        "es-ES": "[Sr.Edmond]\nVi tu carácter con mis propios ojos. Llegó el momento de realizar la última prueba. Ve y habla\ncon el Sr.Gray..."
     },
     "XLudBg": {
         "en-US": "[Sir Edmond]\nI have seen your character for myself. It is now time for you to take the last test. Go and speak to Sir Gray...",
         "pt-BR": "[Cavaleiro Edmond]\nEu já vi a sua verdadeira personalidade. Agora chegou a hora de você enfrentar o seu último teste. Vá e procure Sir Gray...",
-        "es-ES": "[Sr.Edmond]\nVi tu carácter con mis propios ojos. Llegó el momento de realizar la última prueba. Ve y habla con el Sr.Gray…"
+        "es-ES": "[Sr.Edmond]\nVi tu carácter con mis propios ojos. Llegó el momento de realizar la última prueba. Ve y habla con el Sr.Gray..."
     },
     "XbudBg": {
         "en-US": "[Sir Edmond]\nGo and speak\nto our captain.\nThe time has come\nfor all of us to\nevaluate your\nperformance.",
@@ -2107,7 +2107,7 @@
     "ZbudBg": {
         "en-US": "[Sir Gray]\nYes...\n^3355FFClaymore^000000!\nEvery Knight\nwould want one!",
         "pt-BR": "[Cavaleiro Pinha]\nSim...\n^3355FFClaymore^000000!\nTodo Cavaleiro\ndeveria ter uma!",
-        "es-ES": "[Sr.Gray]\nSí…\n¡^3355FFClaymore^000000!\n¡Todo Caballero\nquerría tener una!"
+        "es-ES": "[Sr.Gray]\nSí...\n¡^3355FFClaymore^000000!\n¡Todo Caballero\nquerría tener una!"
     },
     "ZrudBg": {
         "en-US": "About ^3355FFClaymore^000000",
@@ -2142,7 +2142,7 @@
     "bLudBg": {
         "en-US": "[Sir Gray]\nOh no...\nIt seems that you are carrying too many things. You don't have enough space for a heavy Claymore in your inventory.",
         "pt-BR": "[Cavaleiro Pinha]\nOh, não....\nParece que você está carregando coisas demais. Você não tem espaço livre suficiente em seu Inventário para uma Claymore pesada.",
-        "es-ES": "[Sr.Gray]\nAy, no…\nParece que llevas demasiadas cosas. No tienes suficiente espacio para una Claymore pesada en tu inventario."
+        "es-ES": "[Sr.Gray]\nAy, no...\nParece que llevas demasiadas cosas. No tienes suficiente espacio para una Claymore pesada en tu inventario."
     },
     "bbudBg": {
         "en-US": "[Sir Gray]\nWhy don't you\ngo and organize\nyour items first.",
@@ -2177,12 +2177,12 @@
     "c7udBg": {
         "en-US": "[Sir Gray]\nCome back when\nyou have everything\nready. I shall be\nwaiting...",
         "pt-BR": "[Cavaleiro Pinha]\nVolte quando\nestiver com todos\nos itens. Eu estarei\nesperando...",
-        "es-ES": "[Sr.Gray]\nVuelve cuando\ntengas todo\nlisto. Te estaré\nesperando…"
+        "es-ES": "[Sr.Gray]\nVuelve cuando\ntengas todo\nlisto. Te estaré\nesperando..."
     },
     "dLudBg": {
         "en-US": "[Sir Gray]\nAny Knight should be able to wield a Claymore as if it were an extension of their body. I used to look forward to brandishing my Claymore in battle...",
         "pt-BR": "[Cavaleiro Pinha]\nTodo cavaleiro deve saber manusear uma Claymore como se ela fosse uma extensão de seu próprio corpo. Eu costumava ficar ansioso por brandir a minha Claymore em batalha...",
-        "es-ES": "[Sr.Gray]\nCualquier Caballero debería poder blandir una Claymore como si fuera una extensión de su cuerpo. Solía desear blandir mi Claymore en una batalla…"
+        "es-ES": "[Sr.Gray]\nCualquier Caballero debería poder blandir una Claymore como si fuera una extensión de su cuerpo. Solía desear blandir mi Claymore en una batalla..."
     },
     "dbudBg": {
         "en-US": "[Sir Gray]\nBelieve it\nor not, I was\nonce a Novice\nas well.",
@@ -2207,7 +2207,7 @@
     "ebudBg": {
         "en-US": "[Sir Gray]\nOh...\nA young Swordman.\nYes, what can\nI do for you?",
         "pt-BR": "[Cavaleiro Pinha]\nOh...\nUm jovem Espadachim.\nSim, o que posso\nfazer por você?",
-        "es-ES": "[Sr.Gray]\nOh… joven Espadachín.\nSí, ¿qué puedo\nhacer por ti?"
+        "es-ES": "[Sr.Gray]\nOh... joven Espadachín.\nSí, ¿qué puedo\nhacer por ti?"
     },
     "erudBg": {
         "en-US": "[Sir Gray]\nHoho, I see.\nSo you took\neveryone else's\ntest?",
@@ -2227,22 +2227,22 @@
     "fbudBg": {
         "en-US": "[Sir Gray]\nFirst...\nWhy did you\ndecide to become\na Knight?",
         "pt-BR": "[Cavaleiro Pinha]\nPrimeiro...\nPor que você \ndecidiu se tornar\num Cavaleiro?",
-        "es-ES": "[Sr. Gray]\nPrimero…\n¿Por qué\ndecidiste cambiar\na la clase Caballero?"
+        "es-ES": "[Sr. Gray]\nPrimero...\n¿Por qué\ndecidiste cambiar\na la clase Caballero?"
     },
     "frudBg": {
         "en-US": "To become stronger...",
         "pt-BR": "Para me tornar forte...",
-        "es-ES": "Para ser más fuerte…"
+        "es-ES": "Para ser más fuerte..."
     },
     "f7udBg": {
         "en-US": "To help my guild...",
         "pt-BR": "Para ajudar a minha Guilda...",
-        "es-ES": "Para ayudar a mi gremio…"
+        "es-ES": "Para ayudar a mi gremio..."
     },
     "gLudBg": {
         "en-US": "Because I'm unsatisfied with myself right now...",
         "pt-BR": "Porque estou insatisfeito com o que sou no momento...",
-        "es-ES": "Porque no me satisface quién soy en este momento…"
+        "es-ES": "Porque no me satisface quién soy en este momento..."
     },
     "gbudBg": {
         "en-US": "[Sir Gray]\nTo become stronger, you say?\nYes, Knights are indeed strong.\nBut why gain strength?",
@@ -2287,17 +2287,17 @@
     "ibudBg": {
         "en-US": "[Sir Gray]\nSadly, there are a few Knights who shame us by forgetting the ideals that should be basic to Knighthood...",
         "pt-BR": "[Cavaleiro Pinha]\nInfelizmente, existem alguns Cavaleiros que nos envergonham ao esquecer os ideais básicos e os valores da Cavalaria...",
-        "es-ES": "[Sr.Gray]\nLamentablemente, hay algunos Caballeros que nos avergüenzan, puesto que se olvidan de los ideales que deberían ser básicos para el cuerpo de caballeros…"
+        "es-ES": "[Sr.Gray]\nLamentablemente, hay algunos Caballeros que nos avergüenzan, puesto que se olvidan de los ideales que deberían ser básicos para el cuerpo de caballeros..."
     },
     "irudBg": {
         "en-US": "[Sir Gray]\nAh, to help your guild, or maybe even your party. Our wise and benevolent King Tristram the 3rd gave us these golden words...",
         "pt-BR": "[Cavaleiro Pinha]\nAh, para ajudar a sua Guilda ou até mesmo o seu grupo. Nosso sábio e benevolente Rei Tristram III nos presenteou com essas palavras de ouro...",
-        "es-ES": "[Sr.Gray]\nAh, para ayudar a tu gremio, o, tal vez, incluso a tu grupo. Nuestro sabio y benevolente rey Tristan III nos dio estas palabras de oro…"
+        "es-ES": "[Sr.Gray]\nAh, para ayudar a tu gremio, o, tal vez, incluso a tu grupo. Nuestro sabio y benevolente rey Tristan III nos dio estas palabras de oro..."
     },
     "i7udBg": {
         "en-US": "[Sir Gray]\n^8B7500Beyond the calm river, lies a dangerous waterfall. Therefore, you must always be prepared for everything...^000000",
         "pt-BR": "[Cavaleiro Pinha]\n^8B7500Além das águas calmas do rio, existe uma perigosa cachoeira. Por isso, você deve estar sempre preparado para tudo...^000000",
-        "es-ES": "[Sr.Gray]\n^8B7500Más allá del tranquilo río, se esconde una peligrosa cascada. Por eso, siempre hay que prepararse para todo…^000000"
+        "es-ES": "[Sr.Gray]\n^8B7500Más allá del tranquilo río, se esconde una peligrosa cascada. Por eso, siempre hay que prepararse para todo...^000000"
     },
     "jLudBg": {
         "en-US": "[Sir Gray]\nSo how do you\nthink you can\nhelp your guild?",
@@ -2342,7 +2342,7 @@
     "lLudBg": {
         "en-US": "[Sir Gray]\nSo...\nWhat part of yourself\nare you not satisfied\nwith right now?",
         "pt-BR": "[Cavaleiro Pinha]\nEntão...\nCom qual aspecto de sua vida\nvocê não está satisfeito\nno momento?",
-        "es-ES": "[Sr.Gray]\nAsí que…\n¿Qué parte de ti\nno te satisface\nen este momento?"
+        "es-ES": "[Sr.Gray]\nAsí que...\n¿Qué parte de ti\nno te satisface\nen este momento?"
     },
     "lbudBg": {
         "en-US": "Skills.",
@@ -2367,12 +2367,12 @@
     "mbudBg": {
         "en-US": "[Sir Gray]\nI see...\nAlways having a goal is very important. You may be full of ideas upon becoming a Knight, but that may change with time.",
         "pt-BR": "[Cavaleiro Pinha]\nEntendo...\nSempre ter um objetivo claro é algo muito importante. Você pode ter muitas ideias ao se tornar um Cavaleiro, mas elas podem mudar com o tempo.",
-        "es-ES": "[Sr.Gray]\nYa veo…\nTener siempre un objetivo es muy importante. Quizá tengas muchas ideas al convertirte en Caballero, pero eso puede cambiar con el tiempo."
+        "es-ES": "[Sr.Gray]\nYa veo...\nTener siempre un objetivo es muy importante. Quizá tengas muchas ideas al convertirte en Caballero, pero eso puede cambiar con el tiempo."
     },
     "mrudBg": {
         "en-US": "[Sir Gray]\nOh no...\nWhat you see isn't what really counts. A Swordman may be stronger than a Knight, and even Knight may grow weak if he becomes lazy.",
         "pt-BR": "[Cavaleiro Pinha]\nOh, não....\nO que você enxerga com os olhos não é o que realmente importa. Um Espadachim pode ser mais forte que um Cavaleiro, e mesmo o mais forte Cavaleiro pode se tornar fraco se deixar se levar pela preguiça.",
-        "es-ES": "[Sr.Gray]\nAy, no…\nLo que ves no es lo que realmente cuenta. Un Espadachín puede ser más fuerte que un Caballero e incluso el Caballero puede debilitarse si se vuelve perezoso."
+        "es-ES": "[Sr.Gray]\nAy, no...\nLo que ves no es lo que realmente cuenta. Un Espadachín puede ser más fuerte que un Caballero e incluso el Caballero puede debilitarse si se vuelve perezoso."
     },
     "m7udBg": {
         "en-US": "[Sir Gray]\nI understand your thoughts,\nbut there are those who wish to\nbecome Knights without thinking.",
@@ -2412,7 +2412,7 @@
     "orudBg": {
         "en-US": "[Sir Gray]\nBattle...?\nAnd then?",
         "pt-BR": "[Cavaleiro Pinha]\nBatalha...?\nE então?",
-        "es-ES": "[Sr.Gray]\n¿Ir a la batalla…?\n¿Y después?"
+        "es-ES": "[Sr.Gray]\n¿Ir a la batalla...?\n¿Y después?"
     },
     "o7udBg": {
         "en-US": "I will grow within a short period of time.",
@@ -2482,37 +2482,37 @@
     "sLudBg": {
         "en-US": "Always protect her...\nEven at the sacrifice\nof your own life!",
         "pt-BR": "Sempre poder protegê-la...\nMesmo com o sacrifício\nde sua própria vida!",
-        "es-ES": "Siempre debes protegerla…\n¡Incluso aunque tengas que sacrificar\ntu propia vida!"
+        "es-ES": "Siempre debes protegerla...\n¡Incluso aunque tengas que sacrificar\ntu propia vida!"
     },
     "sbudBg": {
         "en-US": "Always protect him...\nEven at the sacrifice\nof your own life!",
         "pt-BR": "Sempre poder protegê-lo...\nMesmo com o sacrifício\nde sua própria vida!",
-        "es-ES": "Siempre debes protegerlo…\n¡Incluso aunque tengas que sacrificar\ntu propia vida!"
+        "es-ES": "Siempre debes protegerlo...\n¡Incluso aunque tengas que sacrificar\ntu propia vida!"
     },
     "srudBg": {
         "en-US": "[Sir Gray]\nAlso...\nLove them forever.\nSincere affection\nis hard to find.",
         "pt-BR": "[Cavaleiro Pinha]\nAlém disso...\name essa pessoa para sempre.\nAfeição sincera\né algo muito difícil de encontrar.",
-        "es-ES": "[Sr.Gray]\nAdemás…\nAmarse para siempre.\nEl afecto sincero\nes difícil de encontrar."
+        "es-ES": "[Sr.Gray]\nAdemás...\nAmarse para siempre.\nEl afecto sincero\nes difícil de encontrar."
     },
     "s7udBg": {
         "en-US": "[Sir Gray]\nGood attitude...\nWhat do you plan\non learning?",
         "pt-BR": "[Cavaleiro Pinha]\nUma atitude honrada...\nO que você gostaria\nde aprender?",
-        "es-ES": "[Sr.Gray]\nBuena actitud…\n¿Qué planeas\naprender?"
+        "es-ES": "[Sr.Gray]\nBuena actitud...\n¿Qué planeas\naprender?"
     },
     "tLudBg": {
         "en-US": "Comfortable places for Knights to go...",
         "pt-BR": "Lugares confortáveis aonde os Cavaleiros podem ir...",
-        "es-ES": "Lugares cómodos para los Caballeros…"
+        "es-ES": "Lugares cómodos para los Caballeros..."
     },
     "tbudBg": {
         "en-US": "The different paths of a Knight...",
         "pt-BR": "Os diferentes caminhos de um Cavaleiro...",
-        "es-ES": "Los diferentes caminos de un Caballero…"
+        "es-ES": "Los diferentes caminos de un Caballero..."
     },
     "trudBg": {
         "en-US": "Ways to get more money as a Knight...",
         "pt-BR": "Formas de se ganhar mais dinheiro como um Cavaleiro...",
-        "es-ES": "Formas de conseguir más dinero como Caballero…"
+        "es-ES": "Formas de conseguir más dinero como Caballero..."
     },
     "t7udBg": {
         "en-US": "[Sir Gray]\nThere are many places that are comfortable or uncomfortable in this world. However Knights must\nbe able to survive anywhere.",
@@ -2527,12 +2527,12 @@
     "ubudBg": {
         "en-US": "[Sir Gray]\nOh no. Do you hold wealth as a priority of being a Knight? We're not meant to be that way. Come again when you have thought\nmore about it...",
         "pt-BR": "[Cavaleiro Pinha]\nOh, não. Você tem a riqueza como uma de suas prioridades para se tornar um Cavaleiro? Nós não devemos pensar assim. Volte depois de pensar mais\nsobre o que lhe disse...",
-        "es-ES": "[Sr.Gray]\nOh, no. ¿Consideras la riqueza como una prioridad de ser Caballero? No deberíamos ser así. Vuelve cuando hayas pensado\nmás al respecto…"
+        "es-ES": "[Sr.Gray]\nOh, no. ¿Consideras la riqueza como una prioridad de ser Caballero? No deberíamos ser así. Vuelve cuando hayas pensado\nmás al respecto..."
     },
     "urudBg": {
         "en-US": "[Sir Gray]\nOh no, we've been\ntalking too much...\nI apologize for\nkeeping you here\nfor so long.",
         "pt-BR": "[Cavaleiro Pinha]\nOh, não, nós já estamos\nconversando há muito tempo...\nDesculpe-me por\nsegurar você aqui\npor tanto tempo.",
-        "es-ES": "[Sr. Gray]\nOh, no. Estuvimos\nhablando demasiado…\nTe pido disculpas por\nmantenerte aquí\ndurante tanto tiempo."
+        "es-ES": "[Sr. Gray]\nOh, no. Estuvimos\nhablando demasiado...\nTe pido disculpas por\nmantenerte aquí\ndurante tanto tiempo."
     },
     "u7udBg": {
         "en-US": "[Sir Gray]\nI enjoyed talking with you. You remind me of myself as a young recruit. Shall we talk to the captain and decide on your\njob change?",
@@ -2557,7 +2557,7 @@
     "v7udBg": {
         "en-US": "[Sir Gray]\nI enjoyed talking with you. Although, there were some\nthings that bothered me...",
         "pt-BR": "[Cavaleiro Pinha]\nEu gostei muito da nossa conversa. Apesar de algumas de suas\nopiniões me preocuparem...",
-        "es-ES": "[Sr.Gray]\nMe gustó hablar contigo. Aunque hubo algunas\ncosas que me molestaron…"
+        "es-ES": "[Sr.Gray]\nMe gustó hablar contigo. Aunque hubo algunas\ncosas que me molestaron..."
     },
     "wLudBg": {
         "en-US": "[Sir Gray]\nYou should go\nto the captain\nso we can decide\non your job change.",
@@ -2567,12 +2567,12 @@
     "wbudBg": {
         "en-US": "[Sir Gray]\nDon't worry too much, coming to take my test means the others have acknowledged you as well.\nGo now...!",
         "pt-BR": "[Cavaleiro Pinha]\nNão se preocupe tanto, o fato de você ter chegado a falar comigo significa que os outros Cavaleiros também reconheceram o seu valor.\nVá agora...!",
-        "es-ES": "[Sr.Gray]\nNo te preocupes demasiado. El hecho de que vengas a realizar mi prueba significa que los demás también te han reconocido.\n¡Ahora vete…!"
+        "es-ES": "[Sr.Gray]\nNo te preocupes demasiado. El hecho de que vengas a realizar mi prueba significa que los demás también te han reconocido.\n¡Ahora vete...!"
     },
     "wrudBg": {
         "en-US": "[Sir Gray]\nConversing\nwith young ones\nis always enjoyable...",
         "pt-BR": "[Cavaleiro Pinha]\nConversar\ncom pessoas jovens\né sempre muito divertido...",
-        "es-ES": "[Sr.Gray]\nConversar\ncon jóvenes\nsiempre es un placer…"
+        "es-ES": "[Sr.Gray]\nConversar\ncon jóvenes\nsiempre es un placer..."
     },
     "w7udBg": {
         "en-US": "[Sir Gray]\nBut it seems as though your dream is elsewhere, or that your focus is hazy. Spend more time as a Swordman, and come back\nto me later.",
@@ -2602,12 +2602,12 @@
     "yLudBg": {
         "en-US": "[Sir Gray]\nIs that so...\nI wonder if you\ntruly have...",
         "pt-BR": "[Cavaleiro Pinha]\nÉ mesmo?\nEu me pergunto se você \nrealmente mudou seus pensamentos...",
-        "es-ES": "[Sr.Gray]\n¿De verdad…?\nMe pregunto si\nrealmente tienes…"
+        "es-ES": "[Sr.Gray]\n¿De verdad...?\nMe pregunto si\nrealmente tienes..."
     },
     "ybudBg": {
         "en-US": "[Sir Gray]\nThen...\nLike last time,\nI will ask again...",
         "pt-BR": "[Cavaleiro Pinha]\nEntão...\ncomo na última vez,\neu voltarei a perguntar...",
-        "es-ES": "[Sr.Gray]\nEntonces…\nComo la última vez,\npreguntaré de nuevo…"
+        "es-ES": "[Sr.Gray]\nEntonces...\nComo la última vez,\npreguntaré de nuevo..."
     },
     "yrudBg": {
         "en-US": "[Sir Gray]\nIs it to show off to others?\nTo attain fame? Or do you have a diferent reason? What do you think is so good about gaining strength as a Knight?",
@@ -2637,7 +2637,7 @@
     "z7udBg": {
         "en-US": "[Sir Gray]\nOh...\nA young Swordman.\nWhat can I do for you?",
         "pt-BR": "[Cavaleiro Pinha]\nOh...\nJovem Espadachim.\nO que posso fazer por você?",
-        "es-ES": "[Sr.Gray]\nOh…\nUn joven Espadachín.\n¿En qué te puedo ayudar?"
+        "es-ES": "[Sr.Gray]\nOh...\nUn joven Espadachín.\n¿En qué te puedo ayudar?"
     },
     "0LudBg": {
         "en-US": "[Sir Gray]\nHoho~\nThere are many\nother younger\nKnights in here.",

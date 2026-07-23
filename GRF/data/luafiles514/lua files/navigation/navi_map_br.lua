@@ -1,3 +1,4 @@
+
 Navi_Map = {
 	{
 		"06guild_01",
@@ -421,7 +422,7 @@ Navi_Map = {
 	},
 	{
 		"ba_2whs01",
-		"Piso Superior do Depósito Tártaros",
+		"Cofre Tártaro - Andar Superior",
 		5001,
 		320,
 		320
@@ -449,35 +450,35 @@ Navi_Map = {
 	},
 	{
 		"ba_go",
-		"Campo de Batalha Aquático",
+		"Campo de Batalha Fileira de Palmeiras",
 		5001,
 		104,
 		100
 	},
 	{
 		"ba_in01",
-		"Dentro da Mansão Varmunt",
+		"Interior da Mansão Varmundt",
 		5003,
 		400,
 		400
 	},
 	{
 		"ba_lib",
-		"Corredor da Biblioteca das Memórias",
+		"Salão de Memórias da Biblioteca",
 		5001,
 		320,
 		320
 	},
 	{
 		"ba_lost",
-		"Menageria do Vale Perdido",
+		"Fazenda Vale Perdido",
 		5001,
 		320,
 		360
 	},
 	{
 		"ba_maison",
-		"Jardim da Mansão Varmunt",
+		"Jardim da Mansão Varmundt",
 		5001,
 		400,
 		400
@@ -491,14 +492,14 @@ Navi_Map = {
 	},
 	{
 		"ba_pw02",
-		"Planta de Tratamento de Esgoto",
+		"Estação de Tratamento de Esgoto",
 		5001,
 		300,
 		300
 	},
 	{
 		"ba_pw03",
-		"Segunda Usina de Energia",
+		"Usina Mágica 2",
 		5001,
 		300,
 		300
@@ -1632,7 +1633,7 @@ Navi_Map = {
 	},
 	{
 		"hu_fild03",
-		"Campos de Hugel ",
+		"Campo de Ca?",
 		5001,
 		400,
 		400
@@ -4061,7 +4062,7 @@ Navi_Map = {
 	},
 	{
 		"rockrdg2",
-		"Deserto Kiwawa (2)",
+		"Kiwawa Desert",
 		5001,
 		400,
 		400

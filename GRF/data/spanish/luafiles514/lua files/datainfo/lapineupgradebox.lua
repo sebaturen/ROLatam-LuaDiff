@@ -1,3 +1,4 @@
+
 tblLapineUpgradeBox = {
 	targets = {
 		Gemstone_Of_Time = {
@@ -373,7 +374,7 @@ tblLapineUpgradeBox = {
 					1847
 				},
 				{
-					"Magic_Sword",
+					"Mágico_Sword",
 					28744
 				},
 				{
@@ -525,7 +526,7 @@ tblLapineUpgradeBox = {
 					1847
 				},
 				{
-					"Magic_Sword",
+					"Mágico_Sword",
 					28744
 				},
 				{
@@ -704,7 +705,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Thanos Long Range Weapon"
 		},
-		Gray_Charcoal_Magic = {
+		Gray_Charcoal_Mágico = {
 			ItemID = 23677,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -733,9 +734,9 @@ tblLapineUpgradeBox = {
 					1988
 				}
 			},
-			NeedSource_String = "Thanos Magic Weapon"
+			NeedSource_String = "Thanos Mágico Weapon"
 		},
-		Gray_Charcoal_Melee = {
+		Gray_Charcoal_Físico = {
 			ItemID = 23676,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -786,7 +787,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Thanos Close Range Weapon"
 		},
-		Geffen_Magic_Scroll2 = {
+		Geffen_Mágico_Scroll2 = {
 			ItemID = 23679,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -802,9 +803,9 @@ tblLapineUpgradeBox = {
 					2964
 				}
 			},
-			NeedSource_String = "Geffen Magic Contest Accessory"
+			NeedSource_String = "Geffen Mágico Contest Accessory"
 		},
-		Geffen_Magic_Scroll = {
+		Geffen_Mágico_Scroll = {
 			ItemID = 23675,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -816,11 +817,11 @@ tblLapineUpgradeBox = {
 					15074
 				},
 				{
-					"Anti_Magic_Suit",
+					"Anti_Mágico_Suit",
 					15073
 				}
 			},
-			NeedSource_String = "Geffen Magic Contest Armor"
+			NeedSource_String = "Geffen Mágico Contest Armor"
 		},
 		True_Hunting_9Refine = {
 			ItemID = 9933,
@@ -1023,7 +1024,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Up_Avenger", 620004},
 				{
-					"Up_Magic_Sword",
+					"Up_Mágico_Sword",
 					510019
 				},
 				{
@@ -1178,7 +1179,7 @@ tblLapineUpgradeBox = {
 				},
 				{"Up_Avenger", 620004},
 				{
-					"Up_Magic_Sword",
+					"Up_Mágico_Sword",
 					510019
 				},
 				{
@@ -1450,7 +1451,7 @@ tblLapineUpgradeBox = {
 			NotSocketEnchantItem = false,
 			TargetItems = {
 				{
-					"Anti_Magic_Suit",
+					"Anti_Mágico_Suit",
 					15073
 				},
 				{
@@ -1458,11 +1459,11 @@ tblLapineUpgradeBox = {
 					15074
 				},
 				{
-					"Geffen_Magic_Muffler",
+					"Geffen_Mágico_Muffler",
 					20943
 				},
 				{
-					"Anti_Magic_Manteau",
+					"Anti_Mágico_Manteau",
 					20944
 				}
 			},
@@ -1734,23 +1735,23 @@ tblLapineUpgradeBox = {
 					24034
 				},
 				{
-					"S_Magical_Earring",
+					"S_Mágicoal_Earring",
 					24021
 				},
 				{
-					"S_Magical_Pendant",
+					"S_Mágicoal_Pendant",
 					24023
 				},
 				{
-					"S_Magical_Weapon",
+					"S_Mágicoal_Weapon",
 					24022
 				},
 				{
-					"S_Magician_earring",
+					"S_Mágicoian_earring",
 					24249
 				},
 				{
-					"S_Magician_Pendant",
+					"S_Mágicoian_Pendant",
 					24254
 				},
 				{
@@ -2038,15 +2039,15 @@ tblLapineUpgradeBox = {
 					24020
 				},
 				{
-					"S_Magical_Earring",
+					"S_Mágicoal_Earring",
 					24021
 				},
 				{
-					"S_Magical_Weapon",
+					"S_Mágicoal_Weapon",
 					24022
 				},
 				{
-					"S_Magical_Pendant",
+					"S_Mágicoal_Pendant",
 					24023
 				},
 				{
@@ -2950,7 +2951,7 @@ tblLapineUpgradeBox = {
 					24248
 				},
 				{
-					"S_Magician_earring",
+					"S_Mágicoian_earring",
 					24249
 				},
 				{
@@ -2970,7 +2971,7 @@ tblLapineUpgradeBox = {
 					24253
 				},
 				{
-					"S_Magician_Pendant",
+					"S_Mágicoian_Pendant",
 					24254
 				},
 				{
@@ -3098,7 +3099,7 @@ tblLapineUpgradeBox = {
 					24285
 				},
 				{
-					"S_DoramMagical_Weapon",
+					"S_DoramMágicoal_Weapon",
 					24286
 				},
 				{
@@ -3222,7 +3223,7 @@ tblLapineUpgradeBox = {
 					24316
 				},
 				{
-					"S_DoramMagical_Shield",
+					"S_DoramMágicoal_Shield",
 					24317
 				},
 				{
@@ -3290,7 +3291,7 @@ tblLapineUpgradeBox = {
 					24333
 				},
 				{
-					"S_MagicCompose_Armor",
+					"S_MágicoCompose_Armor",
 					24334
 				},
 				{
@@ -3514,15 +3515,15 @@ tblLapineUpgradeBox = {
 					24395
 				},
 				{
-					"S_Magical_Shoes",
+					"S_Mágicoal_Shoes",
 					24396
 				},
 				{
-					"S_Magical_Shield",
+					"S_Mágicoal_Shield",
 					24397
 				},
 				{
-					"S_Magical_Armor",
+					"S_Mágicoal_Armor",
 					24398
 				},
 				{
@@ -3582,11 +3583,11 @@ tblLapineUpgradeBox = {
 					24409
 				},
 				{
-					"S_DoramMagical_Armor",
+					"S_DoramMágicoal_Armor",
 					24410
 				},
 				{
-					"S_DoramMagical_Shoes",
+					"S_DoramMágicoal_Shoes",
 					24411
 				},
 				{
@@ -4310,15 +4311,15 @@ tblLapineUpgradeBox = {
 					24615
 				},
 				{
-					"S_Super_Magic_Shield",
+					"S_Super_Mágico_Shield",
 					24616
 				},
 				{
-					"S_Super_Magic_Armor",
+					"S_Super_Mágico_Armor",
 					24617
 				},
 				{
-					"S_Super_Magic_Shoes",
+					"S_Super_Mágico_Shoes",
 					24618
 				},
 				{
@@ -5305,19 +5306,19 @@ tblLapineUpgradeBox = {
 					24990
 				},
 				{
-					"S_Magical_M_Armor",
+					"S_Mágicoal_M_Armor",
 					24993
 				},
 				{
-					"S_Magical_M_Shoes",
+					"S_Mágicoal_M_Shoes",
 					24994
 				},
 				{
-					"S_Magical_M_Earring",
+					"S_Mágicoal_M_Earring",
 					24995
 				},
 				{
-					"S_Magical_M_Pendant",
+					"S_Mágicoal_M_Pendant",
 					24996
 				},
 				{
@@ -5783,15 +5784,15 @@ tblLapineUpgradeBox = {
 					24020
 				},
 				{
-					"S_Magical_Earring",
+					"S_Mágicoal_Earring",
 					24021
 				},
 				{
-					"S_Magical_Weapon",
+					"S_Mágicoal_Weapon",
 					24022
 				},
 				{
-					"S_Magical_Pendant",
+					"S_Mágicoal_Pendant",
 					24023
 				},
 				{
@@ -6695,7 +6696,7 @@ tblLapineUpgradeBox = {
 					24248
 				},
 				{
-					"S_Magician_earring",
+					"S_Mágicoian_earring",
 					24249
 				},
 				{
@@ -6715,7 +6716,7 @@ tblLapineUpgradeBox = {
 					24253
 				},
 				{
-					"S_Magician_Pendant",
+					"S_Mágicoian_Pendant",
 					24254
 				},
 				{
@@ -6843,7 +6844,7 @@ tblLapineUpgradeBox = {
 					24285
 				},
 				{
-					"S_DoramMagical_Weapon",
+					"S_DoramMágicoal_Weapon",
 					24286
 				},
 				{
@@ -6967,7 +6968,7 @@ tblLapineUpgradeBox = {
 					24316
 				},
 				{
-					"S_DoramMagical_Shield",
+					"S_DoramMágicoal_Shield",
 					24317
 				},
 				{
@@ -7035,7 +7036,7 @@ tblLapineUpgradeBox = {
 					24333
 				},
 				{
-					"S_MagicCompose_Armor",
+					"S_MágicoCompose_Armor",
 					24334
 				},
 				{
@@ -7283,15 +7284,15 @@ tblLapineUpgradeBox = {
 					24395
 				},
 				{
-					"S_Magical_Shoes",
+					"S_Mágicoal_Shoes",
 					24396
 				},
 				{
-					"S_Magical_Shield",
+					"S_Mágicoal_Shield",
 					24397
 				},
 				{
-					"S_Magical_Armor",
+					"S_Mágicoal_Armor",
 					24398
 				},
 				{
@@ -7351,11 +7352,11 @@ tblLapineUpgradeBox = {
 					24409
 				},
 				{
-					"S_DoramMagical_Armor",
+					"S_DoramMágicoal_Armor",
 					24410
 				},
 				{
-					"S_DoramMagical_Shoes",
+					"S_DoramMágicoal_Shoes",
 					24411
 				},
 				{
@@ -8079,15 +8080,15 @@ tblLapineUpgradeBox = {
 					24615
 				},
 				{
-					"S_Super_Magic_Shield",
+					"S_Super_Mágico_Shield",
 					24616
 				},
 				{
-					"S_Super_Magic_Armor",
+					"S_Super_Mágico_Armor",
 					24617
 				},
 				{
-					"S_Super_Magic_Shoes",
+					"S_Super_Mágico_Shoes",
 					24618
 				},
 				{
@@ -8553,7 +8554,7 @@ tblLapineUpgradeBox = {
 					18977
 				},
 				{
-					"Old_Magic_Stone_Hat",
+					"Old_Mágico_Stone_Hat",
 					18978
 				},
 				{
@@ -8675,15 +8676,15 @@ tblLapineUpgradeBox = {
 					24020
 				},
 				{
-					"S_Magical_Earring",
+					"S_Mágicoal_Earring",
 					24021
 				},
 				{
-					"S_Magical_Weapon",
+					"S_Mágicoal_Weapon",
 					24022
 				},
 				{
-					"S_Magical_Pendant",
+					"S_Mágicoal_Pendant",
 					24023
 				},
 				{
@@ -9631,7 +9632,7 @@ tblLapineUpgradeBox = {
 					24333
 				},
 				{
-					"S_MagicCompose_Armor",
+					"S_MágicoCompose_Armor",
 					24334
 				},
 				{
@@ -9855,15 +9856,15 @@ tblLapineUpgradeBox = {
 					24395
 				},
 				{
-					"S_Magical_Shoes",
+					"S_Mágicoal_Shoes",
 					24396
 				},
 				{
-					"S_Magical_Shield",
+					"S_Mágicoal_Shield",
 					24397
 				},
 				{
-					"S_Magical_Armor",
+					"S_Mágicoal_Armor",
 					24398
 				},
 				{
@@ -10587,15 +10588,15 @@ tblLapineUpgradeBox = {
 					24615
 				},
 				{
-					"S_Super_Magic_Shield",
+					"S_Super_Mágico_Shield",
 					24616
 				},
 				{
-					"S_Super_Magic_Armor",
+					"S_Super_Mágico_Armor",
 					24617
 				},
 				{
-					"S_Super_Magic_Shoes",
+					"S_Super_Mágico_Shoes",
 					24618
 				},
 				{
@@ -11183,7 +11184,7 @@ tblLapineUpgradeBox = {
 					470016
 				},
 				{
-					"Noblesse_Magic_Boots",
+					"Noblesse_Mágico_Boots",
 					470017
 				},
 				{
@@ -11191,7 +11192,7 @@ tblLapineUpgradeBox = {
 					480012
 				},
 				{
-					"Noblesse_Magic_Manteau",
+					"Noblesse_Mágico_Manteau",
 					480014
 				}
 			},
@@ -11352,7 +11353,7 @@ tblLapineUpgradeBox = {
 					470018
 				},
 				{
-					"Imperial_Magic_Boots",
+					"Imperial_Mágico_Boots",
 					470019
 				},
 				{
@@ -11360,7 +11361,7 @@ tblLapineUpgradeBox = {
 					480016
 				},
 				{
-					"Imperial_Magic_Manteau",
+					"Imperial_Mágico_Manteau",
 					480017
 				}
 			},
@@ -11521,7 +11522,7 @@ tblLapineUpgradeBox = {
 					470020
 				},
 				{
-					"Grace_Magic_Boots",
+					"Grace_Mágico_Boots",
 					470021
 				},
 				{
@@ -11529,7 +11530,7 @@ tblLapineUpgradeBox = {
 					480018
 				},
 				{
-					"Grace_Magic_Manteau",
+					"Grace_Mágico_Manteau",
 					480019
 				}
 			},
@@ -11546,7 +11547,7 @@ tblLapineUpgradeBox = {
 					480016
 				},
 				{
-					"Imperial_Magic_Manteau",
+					"Imperial_Mágico_Manteau",
 					480017
 				}
 			},
@@ -11563,7 +11564,7 @@ tblLapineUpgradeBox = {
 					480016
 				},
 				{
-					"Imperial_Magic_Manteau",
+					"Imperial_Mágico_Manteau",
 					480017
 				}
 			},
@@ -11886,7 +11887,7 @@ tblLapineUpgradeBox = {
 					480018
 				},
 				{
-					"Grace_Magic_Manteau",
+					"Grace_Mágico_Manteau",
 					480019
 				}
 			},
@@ -11903,7 +11904,7 @@ tblLapineUpgradeBox = {
 					480018
 				},
 				{
-					"Grace_Magic_Manteau",
+					"Grace_Mágico_Manteau",
 					480019
 				}
 			},
@@ -12274,7 +12275,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma OS"
 		},
-		Class_Sha_R_M_Melee = {
+		Class_Sha_R_M_Físico = {
 			ItemID = 100205,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -12294,7 +12295,7 @@ tblLapineUpgradeBox = {
 					24248
 				},
 				{
-					"S_Magician_earring",
+					"S_Mágicoian_earring",
 					24249
 				},
 				{
@@ -12314,7 +12315,7 @@ tblLapineUpgradeBox = {
 					24253
 				},
 				{
-					"S_Magician_Pendant",
+					"S_Mágicoian_Pendant",
 					24254
 				},
 				{
@@ -12442,7 +12443,7 @@ tblLapineUpgradeBox = {
 					24285
 				},
 				{
-					"S_DoramMagical_Weapon",
+					"S_DoramMágicoal_Weapon",
 					24286
 				},
 				{
@@ -12566,7 +12567,7 @@ tblLapineUpgradeBox = {
 					24316
 				},
 				{
-					"S_DoramMagical_Shield",
+					"S_DoramMágicoal_Shield",
 					24317
 				},
 				{
@@ -12610,11 +12611,11 @@ tblLapineUpgradeBox = {
 					24409
 				},
 				{
-					"S_DoramMagical_Armor",
+					"S_DoramMágicoal_Armor",
 					24410
 				},
 				{
-					"S_DoramMagical_Shoes",
+					"S_DoramMágicoal_Shoes",
 					24411
 				},
 				{
@@ -12644,7 +12645,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Equipamentos Sombrios de Classe"
 		},
-		Class_Sha_R_M_Magic = {
+		Class_Sha_R_M_Mágico = {
 			ItemID = 100206,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -12664,7 +12665,7 @@ tblLapineUpgradeBox = {
 					24248
 				},
 				{
-					"S_Magician_earring",
+					"S_Mágicoian_earring",
 					24249
 				},
 				{
@@ -12684,7 +12685,7 @@ tblLapineUpgradeBox = {
 					24253
 				},
 				{
-					"S_Magician_Pendant",
+					"S_Mágicoian_Pendant",
 					24254
 				},
 				{
@@ -12812,7 +12813,7 @@ tblLapineUpgradeBox = {
 					24285
 				},
 				{
-					"S_DoramMagical_Weapon",
+					"S_DoramMágicoal_Weapon",
 					24286
 				},
 				{
@@ -12936,7 +12937,7 @@ tblLapineUpgradeBox = {
 					24316
 				},
 				{
-					"S_DoramMagical_Shield",
+					"S_DoramMágicoal_Shield",
 					24317
 				},
 				{
@@ -12980,11 +12981,11 @@ tblLapineUpgradeBox = {
 					24409
 				},
 				{
-					"S_DoramMagical_Armor",
+					"S_DoramMágicoal_Armor",
 					24410
 				},
 				{
-					"S_DoramMagical_Shoes",
+					"S_DoramMágicoal_Shoes",
 					24411
 				},
 				{
@@ -13055,7 +13056,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Egir's Power Box"
 		},
-		Egir_Magic_Box = {
+		Egir_Mágico_Box = {
 			ItemID = 100467,
 			NeedRefineMin = 0,
 			NeedOptionNumMin = 0,
@@ -13094,7 +13095,7 @@ tblLapineUpgradeBox = {
 					470070
 				}
 			},
-			NeedSource_String = "Egir's Magic Box"
+			NeedSource_String = "Egir's Mágico Box"
 		},
 		Charleston_Parts_W = {
 			ItemID = 23706,
@@ -14023,7 +14024,7 @@ tblLapineUpgradeBox = {
 					18977
 				},
 				{
-					"Old_Magic_Stone_Hat",
+					"Old_Mágico_Stone_Hat",
 					18978
 				},
 				{
@@ -14603,7 +14604,7 @@ tblLapineUpgradeBox = {
 					480088
 				}
 			},
-			NeedSource_String = "Ultio Capa Magica"
+			NeedSource_String = "Ultio Capa Mágicoa"
 		},
 		Magma_Essence = {
 			ItemID = 23815,
@@ -15027,7 +15028,7 @@ tblLapineUpgradeBox = {
 					21049
 				},
 				{
-					"Evt_Magic_Sword",
+					"Evt_Mágico_Sword",
 					28759
 				},
 				{
@@ -15688,7 +15689,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Energa del dragn caliente"
 		},
-		Auto_Imp_Melee_1 = {
+		Auto_Imp_Físico_1 = {
 			ItemID = 100164,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -15802,7 +15803,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora intermedia (fsico)"
 		},
-		Auto_Imp_Melee_2 = {
+		Auto_Imp_Físico_2 = {
 			ItemID = 100165,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -15916,7 +15917,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora avanzada (fsico)"
 		},
-		Auto_Imp_Melee_3 = {
+		Auto_Imp_Físico_3 = {
 			ItemID = 100166,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -16030,7 +16031,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora superior (fsico)"
 		},
-		Auto_Imp_Magic_1 = {
+		Auto_Imp_Mágico_1 = {
 			ItemID = 100167,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -16144,7 +16145,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora intermedia (mgico)"
 		},
-		Auto_Imp_Magic_2 = {
+		Auto_Imp_Mágico_2 = {
 			ItemID = 100168,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -16258,7 +16259,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora avanzada (mgico)"
 		},
-		Auto_Imp_Magic_3 = {
+		Auto_Imp_Mágico_3 = {
 			ItemID = 100169,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -16541,7 +16542,7 @@ tblLapineUpgradeBox = {
 					1847
 				},
 				{
-					"Magic_Sword",
+					"Mágico_Sword",
 					28744
 				},
 				{
@@ -16734,13 +16735,13 @@ tblLapineUpgradeBox = {
 					480812
 				},
 				{
-					"WM_Magical_LT",
+					"WM_Mágicoal_LT",
 					480813
 				}
 			},
 			NeedSource_String = "Capa de los Caballeros Blancos"
 		},
-		Skill_Sha_R_M_Melee = {
+		Skill_Sha_R_M_Físico = {
 			ItemID = 100207,
 			NeedRefineMin = 0,
 			NeedRefineMax = 10,
@@ -17384,15 +17385,15 @@ tblLapineUpgradeBox = {
 					24615
 				},
 				{
-					"S_Super_Magic_Shield",
+					"S_Super_Mágico_Shield",
 					24616
 				},
 				{
-					"S_Super_Magic_Armor",
+					"S_Super_Mágico_Armor",
 					24617
 				},
 				{
-					"S_Super_Magic_Shoes",
+					"S_Super_Mágico_Shoes",
 					24618
 				},
 				{
@@ -17557,7 +17558,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Sombríos de Habilidad"
 		},
-		Skill_Sha_R_M_Magic = {
+		Skill_Sha_R_M_Mágico = {
 			ItemID = 100208,
 			NeedRefineMin = 0,
 			NeedRefineMax = 10,
@@ -18105,15 +18106,15 @@ tblLapineUpgradeBox = {
 					24615
 				},
 				{
-					"S_Super_Magic_Shield",
+					"S_Super_Mágico_Shield",
 					24616
 				},
 				{
-					"S_Super_Magic_Armor",
+					"S_Super_Mágico_Armor",
 					24617
 				},
 				{
-					"S_Super_Magic_Shoes",
+					"S_Super_Mágico_Shoes",
 					24618
 				},
 				{
@@ -18738,7 +18739,7 @@ tblLapineUpgradeBox = {
 			NotSocketEnchantItem = true,
 			TargetItems = {
 				{
-					"Heart_Ace_Melee",
+					"Heart_Ace_Físico",
 					420210
 				}
 			},
@@ -18752,7 +18753,7 @@ tblLapineUpgradeBox = {
 			NotSocketEnchantItem = true,
 			TargetItems = {
 				{
-					"Spade_Ace_Melee",
+					"Spade_Ace_Físico",
 					420213
 				}
 			},
@@ -19564,6 +19565,622 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma de la Creencia Purificada"
 		},
+		Sakray_Fury = {
+			ItemID = 100479,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Poenitentia_Ensis",
+					600014
+				},
+				{
+					"Poenitentia_Catapulta",
+					630009
+				},
+				{
+					"Poenitentia_Gladius",
+					500019
+				},
+				{
+					"Poenitentia_Hasta",
+					530010
+				},
+				{
+					"Poenitentia_Ascia",
+					620006
+				},
+				{
+					"Poenitentia_Clava",
+					590016
+				},
+				{
+					"Poenitentia_Pendulus",
+					590017
+				},
+				{
+					"Poenitentia_Ligula",
+					500020
+				},
+				{
+					"Poenitentia_Termes",
+					640014
+				},
+				{
+					"Poenitentia_Virga",
+					640015
+				},
+				{
+					"Poenitentia_Scipio",
+					550019
+				},
+				{
+					"Poenitentia_Codex",
+					540014
+				},
+				{
+					"Poenitentia_Liber",
+					540015
+				},
+				{
+					"Poenitentia_Crystallum",
+					550020
+				},
+				{
+					"Poenitentia_Caestus",
+					560012
+				},
+				{
+					"Poenitentia_Ungula",
+					560013
+				},
+				{
+					"Poenitentia_Manus",
+					610016
+				},
+				{
+					"Poenitentia_Mucro",
+					510027
+				},
+				{
+					"Poenitentia_Tenon",
+					700022
+				},
+				{
+					"Poenetentia_Dilacero",
+					510028
+				},
+				{
+					"Poenitentia_Nervus",
+					700023
+				},
+				{
+					"Poenetentia_Attendo",
+					700024
+				},
+				{
+					"Poenitentia_Chorda",
+					570013
+				},
+				{
+					"Poenitentia_Flagellum",
+					580013
+				},
+				{
+					"Poenetentia_Vatia",
+					700025
+				},
+				{
+					"Poenitentia_Foramen",
+					800011
+				},
+				{
+					"Poenitentia_Penet",
+					810007
+				},
+				{
+					"Poenitentia_Veloci",
+					830010
+				},
+				{
+					"Poenitentia_Ruina",
+					840006
+				},
+				{
+					"Poenitentia_Orbis",
+					500046
+				},
+				{
+					"Poenitentia_Sol",
+					510056
+				},
+				{
+					"Poenitentia_Jana",
+					510057
+				},
+				{
+					"Poenitentia_Radius",
+					540044
+				},
+				{
+					"Poenitentia_Ramus",
+					550060
+				},
+				{
+					"Poenitentia_Planta",
+					550061
+				},
+				{
+					"Poenitentia_Ferrum",
+					550062
+				}
+			},
+			NeedSource_String = "Armas Penitencia(Físico)"
+		},
+		Sakray_Fury2 = {
+			ItemID = 100480,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Poenitentia_Ensis",
+					600014
+				},
+				{
+					"Poenitentia_Catapulta",
+					630009
+				},
+				{
+					"Poenitentia_Gladius",
+					500019
+				},
+				{
+					"Poenitentia_Hasta",
+					530010
+				},
+				{
+					"Poenitentia_Ascia",
+					620006
+				},
+				{
+					"Poenitentia_Clava",
+					590016
+				},
+				{
+					"Poenitentia_Pendulus",
+					590017
+				},
+				{
+					"Poenitentia_Ligula",
+					500020
+				},
+				{
+					"Poenitentia_Termes",
+					640014
+				},
+				{
+					"Poenitentia_Virga",
+					640015
+				},
+				{
+					"Poenitentia_Scipio",
+					550019
+				},
+				{
+					"Poenitentia_Codex",
+					540014
+				},
+				{
+					"Poenitentia_Liber",
+					540015
+				},
+				{
+					"Poenitentia_Crystallum",
+					550020
+				},
+				{
+					"Poenitentia_Caestus",
+					560012
+				},
+				{
+					"Poenitentia_Ungula",
+					560013
+				},
+				{
+					"Poenitentia_Manus",
+					610016
+				},
+				{
+					"Poenitentia_Mucro",
+					510027
+				},
+				{
+					"Poenitentia_Tenon",
+					700022
+				},
+				{
+					"Poenetentia_Dilacero",
+					510028
+				},
+				{
+					"Poenitentia_Nervus",
+					700023
+				},
+				{
+					"Poenetentia_Attendo",
+					700024
+				},
+				{
+					"Poenitentia_Chorda",
+					570013
+				},
+				{
+					"Poenitentia_Flagellum",
+					580013
+				},
+				{
+					"Poenetentia_Vatia",
+					700025
+				},
+				{
+					"Poenitentia_Foramen",
+					800011
+				},
+				{
+					"Poenitentia_Penet",
+					810007
+				},
+				{
+					"Poenitentia_Veloci",
+					830010
+				},
+				{
+					"Poenitentia_Ruina",
+					840006
+				},
+				{
+					"Poenitentia_Orbis",
+					500046
+				},
+				{
+					"Poenitentia_Sol",
+					510056
+				},
+				{
+					"Poenitentia_Jana",
+					510057
+				},
+				{
+					"Poenitentia_Radius",
+					540044
+				},
+				{
+					"Poenitentia_Ramus",
+					550060
+				},
+				{
+					"Poenitentia_Planta",
+					550061
+				},
+				{
+					"Poenitentia_Ferrum",
+					550062
+				}
+			},
+			NeedSource_String = "Armas Penitencia(Físico)"
+		},
+		Sakray_Regret = {
+			ItemID = 100485,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Poenitentia_Ensis",
+					600014
+				},
+				{
+					"Poenitentia_Catapulta",
+					630009
+				},
+				{
+					"Poenitentia_Gladius",
+					500019
+				},
+				{
+					"Poenitentia_Hasta",
+					530010
+				},
+				{
+					"Poenitentia_Ascia",
+					620006
+				},
+				{
+					"Poenitentia_Clava",
+					590016
+				},
+				{
+					"Poenitentia_Pendulus",
+					590017
+				},
+				{
+					"Poenitentia_Ligula",
+					500020
+				},
+				{
+					"Poenitentia_Termes",
+					640014
+				},
+				{
+					"Poenitentia_Virga",
+					640015
+				},
+				{
+					"Poenitentia_Scipio",
+					550019
+				},
+				{
+					"Poenitentia_Codex",
+					540014
+				},
+				{
+					"Poenitentia_Liber",
+					540015
+				},
+				{
+					"Poenitentia_Crystallum",
+					550020
+				},
+				{
+					"Poenitentia_Caestus",
+					560012
+				},
+				{
+					"Poenitentia_Ungula",
+					560013
+				},
+				{
+					"Poenitentia_Manus",
+					610016
+				},
+				{
+					"Poenitentia_Mucro",
+					510027
+				},
+				{
+					"Poenitentia_Tenon",
+					700022
+				},
+				{
+					"Poenetentia_Dilacero",
+					510028
+				},
+				{
+					"Poenitentia_Nervus",
+					700023
+				},
+				{
+					"Poenetentia_Attendo",
+					700024
+				},
+				{
+					"Poenitentia_Chorda",
+					570013
+				},
+				{
+					"Poenitentia_Flagellum",
+					580013
+				},
+				{
+					"Poenetentia_Vatia",
+					700025
+				},
+				{
+					"Poenitentia_Foramen",
+					800011
+				},
+				{
+					"Poenitentia_Penet",
+					810007
+				},
+				{
+					"Poenitentia_Veloci",
+					830010
+				},
+				{
+					"Poenitentia_Ruina",
+					840006
+				},
+				{
+					"Poenitentia_Orbis",
+					500046
+				},
+				{
+					"Poenitentia_Sol",
+					510056
+				},
+				{
+					"Poenitentia_Jana",
+					510057
+				},
+				{
+					"Poenitentia_Radius",
+					540044
+				},
+				{
+					"Poenitentia_Ramus",
+					550060
+				},
+				{
+					"Poenitentia_Planta",
+					550061
+				},
+				{
+					"Poenitentia_Ferrum",
+					550062
+				}
+			},
+			NeedSource_String = "Armas Penitencia(Mágico)"
+		},
+		Sakray_Regret2 = {
+			ItemID = 100486,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Poenitentia_Ensis",
+					600014
+				},
+				{
+					"Poenitentia_Catapulta",
+					630009
+				},
+				{
+					"Poenitentia_Gladius",
+					500019
+				},
+				{
+					"Poenitentia_Hasta",
+					530010
+				},
+				{
+					"Poenitentia_Ascia",
+					620006
+				},
+				{
+					"Poenitentia_Clava",
+					590016
+				},
+				{
+					"Poenitentia_Pendulus",
+					590017
+				},
+				{
+					"Poenitentia_Ligula",
+					500020
+				},
+				{
+					"Poenitentia_Termes",
+					640014
+				},
+				{
+					"Poenitentia_Virga",
+					640015
+				},
+				{
+					"Poenitentia_Scipio",
+					550019
+				},
+				{
+					"Poenitentia_Codex",
+					540014
+				},
+				{
+					"Poenitentia_Liber",
+					540015
+				},
+				{
+					"Poenitentia_Crystallum",
+					550020
+				},
+				{
+					"Poenitentia_Caestus",
+					560012
+				},
+				{
+					"Poenitentia_Ungula",
+					560013
+				},
+				{
+					"Poenitentia_Manus",
+					610016
+				},
+				{
+					"Poenitentia_Mucro",
+					510027
+				},
+				{
+					"Poenitentia_Tenon",
+					700022
+				},
+				{
+					"Poenetentia_Dilacero",
+					510028
+				},
+				{
+					"Poenitentia_Nervus",
+					700023
+				},
+				{
+					"Poenetentia_Attendo",
+					700024
+				},
+				{
+					"Poenitentia_Chorda",
+					570013
+				},
+				{
+					"Poenitentia_Flagellum",
+					580013
+				},
+				{
+					"Poenetentia_Vatia",
+					700025
+				},
+				{
+					"Poenitentia_Foramen",
+					800011
+				},
+				{
+					"Poenitentia_Penet",
+					810007
+				},
+				{
+					"Poenitentia_Veloci",
+					830010
+				},
+				{
+					"Poenitentia_Ruina",
+					840006
+				},
+				{
+					"Poenitentia_Orbis",
+					500046
+				},
+				{
+					"Poenitentia_Sol",
+					510056
+				},
+				{
+					"Poenitentia_Jana",
+					510057
+				},
+				{
+					"Poenitentia_Radius",
+					540044
+				},
+				{
+					"Poenitentia_Ramus",
+					550060
+				},
+				{
+					"Poenitentia_Planta",
+					550061
+				},
+				{
+					"Poenitentia_Ferrum",
+					550062
+				}
+			},
+			NeedSource_String = "Armas Penitencia(Mágico)"
+		},
 		PerfectSize_Up = {
 			ItemID = 101362,
 			NeedRefineMin = 0,
@@ -19581,6 +20198,92 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Sombria Perfeita"
+		},
+		Reload_Shadow_Up = {
+			ItemID = 101178,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_S_Reload_Shield",
+					24746
+				}
+			},
+			NeedSource_String = "Sombra Escudo de Recarga Separada"
+		},
+		M_Blitz_Shadow_Up = {
+			ItemID = 101261,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Mega_Blitz_Shield",
+					24767
+				},
+				{
+					"S_Mega_Blitz_Weapon",
+					24768
+				}
+			},
+			NeedSource_String = "Sombra Mega Blitz"
+		},
+		Absorb_Shadow_Up = {
+			ItemID = 101262,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Absorb_Shield",
+					24685
+				},
+				{
+					"S_Absorb_Weapon",
+					24686
+				}
+			},
+			NeedSource_String = "Sombra de Absorción"
+		},
+		EXPShadow_Up = {
+			ItemID = 101309,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_EXP_Shield",
+					24683
+				},
+				{
+					"S_EXP_Weapon",
+					24770
+				}
+			},
+			NeedSource_String = "Sombra de Experiencia"
+		},
+		InfinityShadow_Up = {
+			ItemID = 101311,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Infinity_Shield",
+					24733
+				},
+				{
+					"S_Infinity_Weapon",
+					24386
+				}
+			},
+			NeedSource_String = "Sombra Infinita"
 		}
 	},
 	get_lapine_box = function(in_box_id)

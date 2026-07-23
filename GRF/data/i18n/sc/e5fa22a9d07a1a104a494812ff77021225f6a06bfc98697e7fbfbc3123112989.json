@@ -7,7 +7,7 @@
     "AZdJAQ": {
         "en-US": "[Dusit]\nOh...!\nYou must be a traveller.\nI have a tale you may wish to hear if you're interested in listening.",
         "pt-BR": "[Dusit]\nAh...!\nVocê deve ser um viajante.\nTenho uma história que talvez queira ouvir, se tiver interesse.",
-        "es-ES": "[Dusit]\n¡Ah…!\nPareces estar de visita.\nTengo una historia que quizá te interese escuchar."
+        "es-ES": "[Dusit]\n¡Ah...!\nPareces estar de visita.\nTengo una historia que quizá te interese escuchar."
     },
     "ApdJAQ": {
         "en-US": "What is it?",
@@ -52,7 +52,7 @@
     "CpdJAQ": {
         "en-US": "[Dusit]\nHowever...\nI'm not sure if this actually works or not. I guess the best thing to do is just run for your life if you even suspect someone of being\nthe Sa-mhing Tiger.",
         "pt-BR": "[Dusit]\nMas...\nNão tenho certeza se isso realmente funciona ou não. Acho que a melhor coisa a fazer é correr e salvar sua vida se suspeitar que alguém é o Tigre de Sa-mhing.",
-        "es-ES": "[Dusit]\nDe todos modos…\nNo podría decirte con seguridad que funciona. Supongo que lo mejor que puedes hacer es correr por tu vida si sospechas que alguien es\nel Tigre Sa-mhing."
+        "es-ES": "[Dusit]\nDe todos modos...\nNo podría decirte con seguridad que funciona. Supongo que lo mejor que puedes hacer es correr por tu vida si sospechas que alguien es\nel Tigre Sa-mhing."
     },
     "C5dJAQ": {
         "en-US": "[Dusit]\nDo you believe\nin the existance\nof man-eating tigers?",
@@ -72,7 +72,7 @@
     "DpdJAQ": {
         "en-US": "[Dusit]\nUmm...\nOh well. My late grandfather told me about the Sa-mhing Tiger when\nI was a little kid. Of course,\nI haven't seen it.",
         "pt-BR": "[Dusit]\nHmm...\nAh, tudo bem. Meu falecido avô me contou sobre o Tigre Sa-mhing quando eu era\ncriança. Mas é claro,\nnunca vi a criatura.",
-        "es-ES": "[Dusit]\nMmm…\nAh, bueno. Mi difunto abuelo me habló del Tigre Sa-mhing cuando\nera solo un niño. Por supuesto,\nnunca lo vi."
+        "es-ES": "[Dusit]\nMmm...\nAh, bueno. Mi difunto abuelo me habló del Tigre Sa-mhing cuando\nera solo un niño. Por supuesto,\nnunca lo vi."
     },
     "D5dJAQ": {
         "en-US": "[Dusit]\nThe closest thing I've seen to the Sa-mhing Tiger was a golden cat with a bell. Somehow, I don't think it ate men.",
@@ -92,12 +92,12 @@
     "EpdJAQ": {
         "en-US": "[Dusit]\nWhy don't you talk to Boonthom? He's a pretty strange person, but there's something about him...",
         "pt-BR": "[Dusit]\nPor que você não conversa com Boonthom? Ele é uma pessoa bem estranha, mas ele ter algo pra você...",
-        "es-ES": "[Dusit]\n¿Por qué no hablas con Boonthom? Es una persona bastante extraña, pero hay algo en él…"
+        "es-ES": "[Dusit]\n¿Por qué no hablas con Boonthom? Es una persona bastante extraña, pero hay algo en él..."
     },
     "E5dJAQ": {
         "en-US": "[Dusit]\n...\n......",
         "pt-BR": "[Dusit]\n...\n......",
-        "es-ES": "[Dusit]\n…\n……"
+        "es-ES": "[Dusit]\n...\n......"
     },
     "FJdJAQ": {
         "en-US": "[Dusit]\nAh well, you'll see what I'm talking about. I hope he'll help you learn more about that evil creature.",
@@ -127,27 +127,27 @@
     "GZdJAQ": {
         "en-US": "[Boonthom]\nYou...!\nIsn't it....!\nOooooohhhhhhh!",
         "pt-BR": "[Boonthom]\nVocê...!\nNão é? ....!\nOooooohhhhhhh!",
-        "es-ES": "[Boonthom]\n¡Tú…!\n¿No es…?\n¡Aaaaaaaahhhhhhh!"
+        "es-ES": "[Boonthom]\n¡Tú...!\n¿No es...?\n¡Aaaaaaaahhhhhhh!"
     },
     "GpdJAQ": {
         "en-US": "[Boonthom]\nOh...?",
         "pt-BR": "[Boonthom]\nOh...?",
-        "es-ES": "[Boonthom]\n¿Ah…?"
+        "es-ES": "[Boonthom]\n¿Ah...?"
     },
     "G5dJAQ": {
         "en-US": "[Boonthom]\n...",
         "pt-BR": "[Boonthom]\n...",
-        "es-ES": "[Boonthom]\n…"
+        "es-ES": "[Boonthom]\n..."
     },
     "HJdJAQ": {
         "en-US": "[Boonthom]\n...\n......",
         "pt-BR": "[Boonthom]\n...\n......",
-        "es-ES": "[Boonthom]\n…\n……"
+        "es-ES": "[Boonthom]\n...\n......"
     },
     "HZdJAQ": {
         "en-US": "[Boonthom]\n...\n......\n.........",
         "pt-BR": "[Boonthom]\n...\n......\n.........",
-        "es-ES": "[Boonthom]\n…\n……\n………"
+        "es-ES": "[Boonthom]\n...\n......\n........."
     },
     "HpdJAQ": {
         "en-US": "[Boonthom]\nNever mind.\nHah! I've lost my\ntrain of thought.",
@@ -157,12 +157,12 @@
     "H5dJAQ": {
         "en-US": "[Boonthom]\nSo have you come to me to seek help? I can see the fear in your eyes. Let me gaze into your soul, and see what your fear is for myself. Hmmm...",
         "pt-BR": "[Boonthom]\nEntão, você veio até mim em busca de ajuda? Posso ver o medo em seus olhos. Me deixe olhar sua alma e ver qual é o seu medo. Hmmm...",
-        "es-ES": "[Boonthom]\n¿Así que viniste a mí en busca de ayuda? Puedo ver el miedo en tus ojos. Déjame mirar en tu alma y ver cuál es tu temor. Mmmm…"
+        "es-ES": "[Boonthom]\n¿Así que viniste a mí en busca de ayuda? Puedo ver el miedo en tus ojos. Déjame mirar en tu alma y ver cuál es tu temor. Mmmm..."
     },
     "IJdJAQ": {
         "en-US": "[Boonthom]\nWhat...!\nI see that you dread the Sa-mhing Tiger! I haven't heard any news of that monster for a long time...",
         "pt-BR": "[Boonthom]\nO quê...!\nVejo que você teme o Tigre Sa-mhing! Não ouço notícias desse monstro há muito tempo...",
-        "es-ES": "[Boonthom]\n¡Qué…!\n¡Veo que tienes miedo del Tigre Sa-mhing! Hace tiempo que no sé nada de ese monstruo…"
+        "es-ES": "[Boonthom]\n¡Qué...!\n¡Veo que tienes miedo del Tigre Sa-mhing! Hace tiempo que no sé nada de ese monstruo..."
     },
     "IZdJAQ": {
         "en-US": "[Boonthom]\nA long time ago,\nthe Sa-mhing Tiger\nreally did roam the village\nand ate innocent people.",
@@ -202,7 +202,7 @@
     "KJdJAQ": {
         "en-US": "[Boonthom]\nYou...\nYou are strange.\nYou want to explore the ancient ruins. Do all adventurers disregard their safety like that?",
         "pt-BR": "[Boonthom]\nVocê...\nVocê é estranho.\nVocê quer explorar as ruínas antigas. Será que todos os aventureiros desconsideram a própria segurança dessa maneira?",
-        "es-ES": "[Boonthom]\nTú…\nEres un ser extraño.\nQuieres explorar las ruinas antiguas. ¿A ningún trotamundos le preocupa su seguridad?"
+        "es-ES": "[Boonthom]\nTú...\nEres un ser extraño.\nQuieres explorar las ruinas antiguas. ¿A ningún trotamundos le preocupa su seguridad?"
     },
     "KZdJAQ": {
         "en-US": "[Boonthom]\nIt's your choice. But remember, it is very dangerous to go through the path to the center of the building. Usually, I forbid it.",
@@ -232,7 +232,7 @@
     "LpdJAQ": {
         "en-US": "[Boonthom]\nUmm, okay.\nSince you're\nthat interested...",
         "pt-BR": "[Boonthom]\nHmm, ok.\nJá que você está\ntão interessado...",
-        "es-ES": "[Boonthom]\nMmm, está bien.\nSi\nte interesa tanto…"
+        "es-ES": "[Boonthom]\nMmm, está bien.\nSi\nte interesa tanto..."
     },
     "L5dJAQ": {
         "en-US": "[Boonthom]\nThere are evils and malices in the ancient building but their energy is too dreadful to devour the living person.\nWell, I have a solution. You can enter it if you have 'the thing with holy power'.",
@@ -257,32 +257,32 @@
     "M5dJAQ": {
         "en-US": "[Boonthom]\nHmmm...\nNot afraid\nof it, are you?",
         "pt-BR": "[Boonthom]\nHmmm...\nNão está com medo,\nestá?",
-        "es-ES": "[Boonthom]\nMmmm…\nNo le tienes\nmiedo, ¿verdad?"
+        "es-ES": "[Boonthom]\nMmmm...\nNo le tienes\nmiedo, ¿verdad?"
     },
     "NJdJAQ": {
         "en-US": "[Boonthom]\n............\n............",
         "pt-BR": "[Boonthom]\n............\n............",
-        "es-ES": "[Boonthom]\n…………\n…………"
+        "es-ES": "[Boonthom]\n............\n............"
     },
     "NZdJAQ": {
         "en-US": "[Boonthom]\nExcellent!\nNow you have brought\neverything I need. Let me make\nthe thing for you as promised...",
         "pt-BR": "[Boonthom]\nExcelente!\nVocê trouxe\ntudo o que eu preciso. Vou fazer\no que prometi...",
-        "es-ES": "[Boonthom]\n¡Excelente!\nTrajiste\ntodo lo que necesito. Déjame fabricar\nla cosa que te prometí…"
+        "es-ES": "[Boonthom]\n¡Excelente!\nTrajiste\ntodo lo que necesito. Déjame fabricar\nla cosa que te prometí..."
     },
     "NpdJAQ": {
         "en-US": "[Boonthom]\nOoooohmmmmm...",
         "pt-BR": "[Boonthom]\nOoooohmmmmm...",
-        "es-ES": "[Boonthom]\nOoooommmmm…"
+        "es-ES": "[Boonthom]\nOoooommmmm..."
     },
     "N5dJAQ": {
         "en-US": "[Boonthom]\nHmmmmmm...\nHmmmmmmmmm.",
         "pt-BR": "[Boonthom]\nHmmmmmm...\nHmmmmmmmmm.",
-        "es-ES": "[Boonthom]\nMmmmmmm…\nMmmmmmmmmmmm."
+        "es-ES": "[Boonthom]\nMmmmmmm...\nMmmmmmmmmmmm."
     },
     "OJdJAQ": {
         "en-US": "[Boonthom]\nPffff pffff...",
         "pt-BR": "[Boonthom]\nPffff pffff...",
-        "es-ES": "[Boonthom]\nPffff pffff…"
+        "es-ES": "[Boonthom]\nPffff pffff..."
     },
     "OZdJAQ": {
         "en-US": "[Boonthom]\nHere you go.\nPlease take these holy threads.\nWith this, you will be able to enter the ruins with less worry.",
@@ -317,7 +317,7 @@
     "P5dJAQ": {
         "en-US": "[Boonthom]\nExcellent! Now you have brought everything I need, let me make the thing for you as I promised...",
         "pt-BR": "[Boonthom]\nExcelente! Agora que você trouxe tudo o que eu preciso, vou fazer o que prometi...",
-        "es-ES": "[Boonthom]\n¡Excelente! Ahora que trajiste todo lo que necesito, fabricaré lo que te prometí…"
+        "es-ES": "[Boonthom]\n¡Excelente! Ahora que trajiste todo lo que necesito, fabricaré lo que te prometí..."
     },
     "QJdJAQ": {
         "en-US": "[Boonthom]\nEven if you lose this, don't worry. Just bring me the materials, I can make you another one.",
@@ -357,12 +357,12 @@
     "R5dJAQ": {
         "en-US": "[Stone Slate]\n^333333Do not enter the\n2nd underground level\n...is danger... You wil...\n...encounter... tiger...^000000",
         "pt-BR": "[Pedra de Ardósia]\n^333333Não entre no\n2º andar subterrâneo\n...é perigoso... Você vai...\n...encontrar... tigre...^000000",
-        "es-ES": "[Pizarra de piedra]\n^333333No entrar\nal segundo nivel subterráneo\n…es peligro- Te…\n…encontrarás… tigre…^000000"
+        "es-ES": "[Pizarra de piedra]\n^333333No entrar\nal segundo nivel subterráneo\n...es peligro- Te...\n...encontrarás... tigre...^000000"
     },
     "SJdJAQ": {
         "en-US": "[Stone Slate]\n^333333You must kill... In order to do... MUST... How to go... the 2nd underground level...\nYou need more... Holy power... in order to... Otherwise, it's impossible...^000000",
         "pt-BR": "[Pedra de Ardósia]\n^333333Você deve matar... Pra fazer isso... DEVE... Como ir... para o segundo andar subterrâneo...\nVocê precisa de mais... Poder sagrado... para... Caso contrário, é impossível...^000000",
-        "es-ES": "[Pizarra de piedra]\n^333333Debes matar… Para ello… DEBE… Cómo llegar… al segundo nivel subterráneo…\nNecesitas más… Poder sagrado… para… Si no, es imposible…^000000"
+        "es-ES": "[Pizarra de piedra]\n^333333Debes matar... Para ello... DEBE... Cómo llegar... al segundo nivel subterráneo...\nNecesitas más... Poder sagrado... para... Si no, es imposible...^000000"
     },
     "SZdJAQ": {
         "en-US": "[Boonthom]\nThat was written by one of my comrades who entered the ruins,\nas he regretted letting the tiger live, lest it return.",
@@ -402,7 +402,7 @@
     "UJdJAQ": {
         "en-US": "[Boonthom]\nHmm...?\nDidn't I tell you\nwhat I need to make\na more powerful\nholy thread?",
         "pt-BR": "[Boonthom]\nHmm...?\nEu já não disse\no que preciso pra fazer\num fio sagrado\nmais poderoso?",
-        "es-ES": "[Boonthom]\n¿Mmm…?\n¿No te dije\nlo que necesito para fabricar\nhilos sagrados\nmás poderosos?"
+        "es-ES": "[Boonthom]\n¿Mmm...?\n¿No te dije\nlo que necesito para fabricar\nhilos sagrados\nmás poderosos?"
     },
     "UZdJAQ": {
         "en-US": "[Boonthom]\nReturn to me\nwith those items\nand I will craft\nmore powerful holy\nthreads for you.",
@@ -417,7 +417,7 @@
     "U5dJAQ": {
         "en-US": "[Boonthom]\nHuh...!\nYou must have seen something.\nI can tell by the gloomy look on your face, and the shadow looming over your soul.",
         "pt-BR": "[Boonthom]\nHuh...!\nVocê deve ter visto alguma coisa.\nPosso dizer pelo olhar sombrio no seu rosto e pela sombra que paira sobre sua alma.",
-        "es-ES": "[Boonthom]\n¡Eh…!\nDebes haber visto algo.\nLo sé por la expresión sombría en tu rostro y por la oscuridad que se cierne sobre tu alma."
+        "es-ES": "[Boonthom]\n¡Eh...!\nDebes haber visto algo.\nLo sé por la expresión sombría en tu rostro y por la oscuridad que se cierne sobre tu alma."
     },
     "VJdJAQ": {
         "en-US": "[{0}]\nI found\nthis old letter\nin the ruins.",
@@ -427,12 +427,12 @@
     "VZdJAQ": {
         "en-US": "[Old Letter]\n^333333Dear, Boonthom...I was a fool...There is Sa-mhing Tig'...One who ....my remains... Please take...to Boonthom...",
         "pt-BR": "[Carta antiga]\n^333333Querido Boonthom... Eu fui um tolo... O Tigre Sa-mhing existe... Aquele que...meus restos... Por favor, leve... para Boonthom...",
-        "es-ES": "[Carta antigua]\n^333333Querido Boonthom… Fui un tonto… Hay un Tig- Sa-mhing… Alguien que… mis restos… Lleva… a Boonthom…"
+        "es-ES": "[Carta antigua]\n^333333Querido Boonthom... Fui un tonto... Hay un Tig- Sa-mhing... Alguien que... mis restos... Lleva... a Boonthom..."
     },
     "VpdJAQ": {
         "en-US": "[Boonthom]\nI see...\nOh, my dear\nold friend...",
         "pt-BR": "[Boonthom]\nEntendo...\nAh, meu querido\ne velho amigo...",
-        "es-ES": "[Boonthom]\nYa veo…\nAy, mi viejo\namigo querido…"
+        "es-ES": "[Boonthom]\nYa veo...\nAy, mi viejo\namigo querido..."
     },
     "V5dJAQ": {
         "en-US": "[Boonthom]\nThank you for your trouble.\nMy friend left that box for me.\nBut I guess he would wish to give that box to the person who found his remains.",
@@ -462,7 +462,7 @@
     "XJdJAQ": {
         "en-US": "[Puraim]\nHuh...?\nI feel it!\nI can feel the\npower of holiness!\nIt's coming from you!",
         "pt-BR": "[Puraim]\nHã...?\nTô sentindo!\nEu posso sentir o\npoder da santidade!\nEle tá vindo de você!",
-        "es-ES": "[Puraim]\n¿Eh…?\n¡Lo siento!\nPuedo sentir el\nel poder sagrado.\n¡Viene de ti!"
+        "es-ES": "[Puraim]\n¿Eh...?\n¡Lo siento!\nPuedo sentir el\nel poder sagrado.\n¡Viene de ti!"
     },
     "XZdJAQ": {
         "en-US": "[Puraim]\nI guess you can go ahead\ninto the ruins. So that's\nwhat you want? To explore\nthis area?",
@@ -497,7 +497,7 @@
     "Y5dJAQ": {
         "en-US": "[Puraim]\nHmmm...\nIt seems you adventurers are tempted by the thrill of danger,\nor you've all got some death wish.",
         "pt-BR": "[Puraim]\nHmmm...\nParece que vocês, aventureiros, são tentados pela emoção do perigo,\nou todos vocês têm algum desejo de morrer.",
-        "es-ES": "[Puraim]\nMmmm…\nParece que a ustedes, trotamundos, les tienta la emoción del peligro,\no todos tienen ganas de morirse."
+        "es-ES": "[Puraim]\nMmmm...\nParece que a ustedes, trotamundos, les tienta la emoción del peligro,\no todos tienen ganas de morirse."
     },
     "ZJdJAQ": {
         "en-US": "[Puraim]\nOh well, that's none of my business. After all, you already\nhave a holy spirit. Still, be careful. You might not want to go to the 2nd underground level of the ruins.",
@@ -547,7 +547,7 @@
     "bZdJAQ": {
         "en-US": "[Aik]\nWhen you go back,\nremember to ward off\nthe evil from your mind.\nOtherwise you will encounter\ntrouble later...",
         "pt-BR": "[Aik]\nQuando você voltar,\nlembre-se de afastar\no mal da sua mente.\nCaso contrário, você terá\nproblemas mais tarde...",
-        "es-ES": "[Aik]\nCuando vuelvas,\nrecuerda proteger\ntu mente del mal.\nDe lo contrario, tendrás\nproblemas más adelante…"
+        "es-ES": "[Aik]\nCuando vuelvas,\nrecuerda proteger\ntu mente del mal.\nDe lo contrario, tendrás\nproblemas más adelante..."
     },
     "bpdJAQ": {
         "en-US": "[Aik]\nSo, would you\nlike to go back?",
@@ -557,12 +557,12 @@
     "b5dJAQ": {
         "en-US": "No, I need to look around more...",
         "pt-BR": "Não, preciso dar uma olhada mais de perto...",
-        "es-ES": "No, aún tengo cosas que hacer…"
+        "es-ES": "No, aún tengo cosas que hacer..."
     },
     "cJdJAQ": {
         "en-US": "[Aik]\nAlright then...\nHere we go...",
         "pt-BR": "[Aik]\nTudo bem, então...\nAí vamos nós...",
-        "es-ES": "[Aik]\nMuy bien, entonces…\nAquí vamos…"
+        "es-ES": "[Aik]\nMuy bien, entonces...\nAquí vamos..."
     },
     "cZdJAQ": {
         "en-US": "^3355FFHe suddenly grabbed you\nand hurled you up into the air!^000000",
@@ -592,7 +592,7 @@
     "dpdJAQ": {
         "en-US": "^3355FFThe Holy Thread in your pocket suddenly began to glow. You feel that something is near you...^000000",
         "pt-BR": "^3355FFO fio sagrado no seu bolso de repente começa a brilhar. Você sente que há algo por perto...^000000",
-        "es-ES": "^3355FFEl hilo sagrado que tienes en el bolsillo empieza a brillar de repente. Sientes que hay algo cerca de ti…^000000"
+        "es-ES": "^3355FFEl hilo sagrado que tienes en el bolsillo empieza a brillar de repente. Sientes que hay algo cerca de ti...^000000"
     },
     "d5dJAQ": {
         "en-US": "- Holy threads in your pocket suddenly started glowing. You felt something is near you. -",
@@ -617,7 +617,7 @@
     "e5dJAQ": {
         "en-US": "^3355FFIt reads '^0000FF...is danger... You wil...^3355FF.' You are unable to read the rest of the message.^000000",
         "pt-BR": "^3355FFA mensagem diz: ''...é perigoso... Você vai...''. Você não consegue ler o restante da mensagem.^000000",
-        "es-ES": "^3355FFDice ^0000FF… es peligro… Te…^3355FF. No puedes leer el resto del mensaje.^000000"
+        "es-ES": "^3355FFDice ^0000FF... es peligro... Te...^3355FF. No puedes leer el resto del mensaje.^000000"
     },
     "fJdJAQ": {
         "en-US": "^3355FFYou find a piece of a stone slate with letters etched on it. It seems to be the 3rd part of the slate.^000000",
@@ -627,7 +627,7 @@
     "fZdJAQ": {
         "en-US": "^3355FFIt reads '^0000FF...encounter... tiger...^3355FF.' You are unable to read the rest of the message.^000000",
         "pt-BR": "^3355FFA mensagem diz: ''...encontrar... tigre...''. Você não consegue ler o restante da mensagem.^000000",
-        "es-ES": "^3355FFDice ^0000FF… encontrarás… tigre…^3355FF. No puedes leer el resto del mensaje.^000000"
+        "es-ES": "^3355FFDice ^0000FF... encontrarás... tigre...^3355FF. No puedes leer el resto del mensaje.^000000"
     },
     "fpdJAQ": {
         "en-US": "^3355FFYou find a piece of a stone slate with letters etched on it. It seems to be the 4th part of the slate.^000000",
@@ -637,7 +637,7 @@
     "f5dJAQ": {
         "en-US": "^3355FFIt reads '^0000FFYou must kill... In order to do... MUST... How to go... the 2nd underground level...^3355FF' You are unable to read the rest of the message.^000000",
         "pt-BR": "^3355FFA mensagem diz: ''Você deve matar... Pra fazer isso... DEVE... Como ir... para o segundo andar subterrâneo...''. Você não consegue ler o restante da mensagem.^000000",
-        "es-ES": "^3355FFDice ^0000FFDebes matar… Para ello… DEBE… Cómo ir… segundo nivel subterráneo…^3355FF No puedes leer el resto del mensaje.^000000"
+        "es-ES": "^3355FFDice ^0000FFDebes matar... Para ello... DEBE... Cómo ir... segundo nivel subterráneo...^3355FF No puedes leer el resto del mensaje.^000000"
     },
     "gJdJAQ": {
         "en-US": "^3355FFYou find a piece of a stone slate with letters etched on it. It seems to be the 5th part of the slate.^000000",
@@ -647,7 +647,7 @@
     "gZdJAQ": {
         "en-US": "^3355FFIt reads '^0000FFYou need more... Holy power... in order to...^3355FF' You are unable to read the rest of the message.^000000",
         "pt-BR": "^3355FFA mensagem diz: ''Você precisa de mais... Poder sagrado... para...''. Você não consegue ler o restante da mensagem.^000000",
-        "es-ES": "^3355FFDice ^0000FFNecesitas más… Poder sagrado… para…^3355FF No puedes leer el resto del mensaje.^000000"
+        "es-ES": "^3355FFDice ^0000FFNecesitas más... Poder sagrado... para...^3355FF No puedes leer el resto del mensaje.^000000"
     },
     "gpdJAQ": {
         "en-US": "^3355FFYou find a piece of a stone slate with letters etched on it. It seems to be the last part of the slate.^000000",
@@ -657,7 +657,7 @@
     "g5dJAQ": {
         "en-US": "^3355FFIt reads '^0000FFOtherwise, it's impossible...^3355FF' You are unable to read the rest of the message.^000000",
         "pt-BR": "^3355FFA mensagem diz: ''Caso contrário, é impossível...''. Você não consegue ler o restante da mensagem.^000000",
-        "es-ES": "^3355FFDice ^0000FFSi no, es imposible…^3355FF No puedes leer el resto del mensaje.^000000"
+        "es-ES": "^3355FFDice ^0000FFSi no, es imposible...^3355FF No puedes leer el resto del mensaje.^000000"
     },
     "hJdJAQ": {
         "en-US": "^3355FFThe holy threads\nemanate a powerful sense\nof safety and security.\nWith the protection of\nholiness, you begin your\ndescent into the 2nd level.^000000.",
@@ -667,7 +667,7 @@
     "hZdJAQ": {
         "en-US": "^3355FFYou find what seems to be the entrance to the 2nd level. However, you are filled with an overwhelming sense of dread. Somehow, you can't bring yourself to go down...^000000",
         "pt-BR": "^3355FFVocê encontra o que parece ser a entrada para o segundo andar. Mas você está tomado por uma enorme sensação de pavor. De alguma forma, você não consegue descer...^000000",
-        "es-ES": "^3355FFEncuentras lo que parece ser la entrada al segundo nivel. Sin embargo, te invade una sensación de temor abrumadora. No puedes explicarlo, pero no te atreves a bajar…^000000"
+        "es-ES": "^3355FFEncuentras lo que parece ser la entrada al segundo nivel. Sin embargo, te invade una sensación de temor abrumadora. No puedes explicarlo, pero no te atreves a bajar...^000000"
     },
     "hpdJAQ": {
         "en-US": "^3355FFYou find half of the skeletal remains of a person sticking out from the ground. It seems to be the remains of Boonthom's comrade.^000000",
@@ -687,7 +687,7 @@
     "iZdJAQ": {
         "en-US": "[Old Letter]\n^333333Dear, Boonthom,\nI was a fool. There is 'Sa-mhing Tig'...One who ....my remains... Please take...to Boonthom...",
         "pt-BR": "[Carta Antiga]\n^333333Caro Boonthom,\nEu fui um tolo. O Tigre ''Sa-mhing Tig'' existe... Aquele que ....meus restos... Por favor, leve... para Boonthom...",
-        "es-ES": "[Carta antigua]\n^333333Querido Boonthom:\nFui un tonto. Hay un Tig… Sa-mhing… Alguien que… mis restos… Lleva… a Boonthom…"
+        "es-ES": "[Carta antigua]\n^333333Querido Boonthom:\nFui un tonto. Hay un Tig... Sa-mhing... Alguien que... mis restos... Lleva... a Boonthom..."
     },
     "ipdJAQ": {
         "en-US": "^3355FFYou pick\nup the box.^000000",

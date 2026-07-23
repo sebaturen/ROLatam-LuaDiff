@@ -120,7 +120,7 @@
         "es-ES": "[Sello Eh]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó. Pasemos al siguiente paso."
     },
     "+NGCDA": {
-        "en-US": "[Seal Eh]\nThe sealstone shows no reaction. This must not be the correct sequence…….",
+        "en-US": "[Seal Eh]\nThe sealstone shows no reaction. This must not be the correct sequence.......",
         "pt-BR": "[Selo Eh]\nA pedra de selamento não dá sinal. Parece que esta não é a ordem correta...",
         "es-ES": "[Sello Eh]\nEl sello no muestra ninguna reacción. Parece que no es este el paso correcto..."
     },
@@ -160,7 +160,7 @@
         "es-ES": "[Siegel del Sello]\nSe escuchó un zumbido grave y el sello brilló brevemente. Parece que el reconocimiento se completó. Pasemos al siguiente paso."
     },
     "ANKCDA": {
-        "en-US": "[Seal Siegel]\nThe sealstone shows no reaction. This must not be the correct sequence…….",
+        "en-US": "[Seal Siegel]\nThe sealstone shows no reaction. This must not be the correct sequence.......",
         "pt-BR": "[Selo Siegel]\nA pedra do selo não dá sinal de vida. Parece que esta não é a ordem correta...",
         "es-ES": "[Siegel del Sello]\nLa piedra del sello no muestra ninguna reacción. Parece que no es este el paso correcto..."
     },

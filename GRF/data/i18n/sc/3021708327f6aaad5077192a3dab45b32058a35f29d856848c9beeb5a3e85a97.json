@@ -7,12 +7,12 @@
     "gZuCBw": {
         "en-US": "Wait! You must be...{0} I have something to tell you!",
         "pt-BR": "Ei, {0}! Eu tenho algo para te dizer!",
-        "es-ES": "¡Espera! Tú debes ser…{0} ¡Tengo algo que decirte!"
+        "es-ES": "¡Espera! Tú debes ser...{0} ¡Tengo algo que decirte!"
     },
     "gpuCBw": {
         "en-US": "I am looking for the hero who returned from the expedition...",
         "pt-BR": "Procuro alguém que retornou do Outro Mundo...",
-        "es-ES": "Busco al valiente que regresó de la expedición…"
+        "es-ES": "Busco al valiente que regresó de la expedición..."
     },
     "g5uCBw": {
         "en-US": "- You cannot proceed with the quest since you have too many items. -",
@@ -22,7 +22,7 @@
     "hJuCBw": {
         "en-US": "[Errand Boy]\nOh, wait. You are...\n{0}, right?\nLet's see.",
         "pt-BR": "[Andarilho Real]\nVocê se chama...\n{0}, certo?\nHum, vejamos...",
-        "es-ES": "[Mensajero]\nAh, espera. Eres…\n{0}, ¿verdad?\nVeamos."
+        "es-ES": "[Mensajero]\nAh, espera. Eres...\n{0}, ¿verdad?\nVeamos."
     },
     "hZuCBw": {
         "en-US": "[Errand Boy]\nI am right. You look exactly the same as the montage from the guild. Hahahaha!\nMy eyes are doing what they are supposed to do now, I guess.",
@@ -137,7 +137,7 @@
     "m5uCBw": {
         "en-US": "I want to go home...",
         "pt-BR": "Quero ir pra casa...",
-        "es-ES": "Quiero irme a casa…"
+        "es-ES": "Quiero irme a casa..."
     },
     "nJuCBw": {
         "en-US": "[Errand Boy]\nHello!\nNow ^4D4DFFthe palace is hosting a banquet for the returning heroes from Vacuum^000000.\nPlease tell me ^4D4DFFwhere the heroes who have participated in the expedition are^000000 if you know any.",
@@ -357,7 +357,7 @@
     "x5uCBw": {
         "en-US": "Oh, my! What the...",
         "pt-BR": "Mas que...",
-        "es-ES": "¡Uyyy! ¿Pero qué…?"
+        "es-ES": "¡Uyyy! ¿Pero qué...?"
     },
     "yJuCBw": {
         "en-US": "[Terketh]\nYou are out from the Past Memories of the Royal Family?\nSince you know the way here, you must have got the permission to move.",
@@ -392,7 +392,7 @@
     "zpuCBw": {
         "en-US": "Well, sure.",
         "pt-BR": "Claro.",
-        "es-ES": "Este… bueno."
+        "es-ES": "Este... bueno."
     },
     "z5uCBw": {
         "en-US": "...Such a disturbance to my training.",
@@ -417,7 +417,7 @@
     "05uCBw": {
         "en-US": "...On duty. No problem...",
         "pt-BR": "...Em serviço.",
-        "es-ES": "…De guardia. No hay problema..."
+        "es-ES": "...De guardia. No hay problema..."
     },
     "1JuCBw": {
         "en-US": "I want to go home now.",
@@ -432,7 +432,7 @@
     "1puCBw": {
         "en-US": "[Ekinasia]\nYou have been invited to the banquet as well.\nWell, no wonder... If you think about it.",
         "pt-BR": "[Echinacea]\nVocê também veio para o banquete.",
-        "es-ES": "[Ekinasia]\nTambién te invitaron al banquete.\nBueno, no me extraña… Tiene sentido."
+        "es-ES": "[Ekinasia]\nTambién te invitaron al banquete.\nBueno, no me extraña... Tiene sentido."
     },
     "15uCBw": {
         "en-US": "[Lin]\nOh, you are still alive!\nI am glad to see you here. Life must be treating you well!",
@@ -442,12 +442,12 @@
     "2JuCBw": {
         "en-US": "[Ekinasia]\nCome to think of it, Kid is here too.\nHe met the people from the guild and went to see them...",
         "pt-BR": "[Echinacea]\nPensando bem, o Kid também está aqui.\nEle conheceu o pessoal da guilda e foi vê-los...",
-        "es-ES": "[Ekinasia]\nAhora que lo recuerdo, Kidd también está aquí.\nVio a los del gremio y fue a hablar con ellos…"
+        "es-ES": "[Ekinasia]\nAhora que lo recuerdo, Kidd también está aquí.\nVio a los del gremio y fue a hablar con ellos..."
     },
     "2ZuCBw": {
         "en-US": "[Lin]\nHum... Then he was taken by a strange guy among the bunch to the dining hall.\nYou may go say hi.",
         "pt-BR": "[Lin]\nHum... Então ele foi levado por um cara estranho no meio do grupo para o refeitório.\nVocê pode ir lá cumprimentá-lo.",
-        "es-ES": "[Lin]\nMmm… Después, un tipo raro del grupo lo llevó al comedor.\nPuedes ir a saludar."
+        "es-ES": "[Lin]\nMmm... Después, un tipo raro del grupo lo llevó al comedor.\nPuedes ir a saludar."
     },
     "2puCBw": {
         "en-US": "[Ekinasia]\nIt is a banquet in a long time. We may as well enjoy it.",
@@ -512,7 +512,7 @@
     "5puCBw": {
         "en-US": "[Kid]\n...Cut it out there, Dumk...",
         "pt-BR": "[Kidd]\n...Dumk, pare de me importunar...",
-        "es-ES": "[Kidd]\nYa basta, Dumk…"
+        "es-ES": "[Kidd]\nYa basta, Dumk..."
     },
     "55uCBw": {
         "en-US": "What did I do?",
@@ -547,7 +547,7 @@
     "7ZuCBw": {
         "en-US": "...Look for your nanny at your own home!",
         "pt-BR": "Me poupe! Que saco!",
-        "es-ES": "…¡Búscate otra niñera!"
+        "es-ES": "...¡Búscate otra niñera!"
     },
     "7puCBw": {
         "en-US": "Watch whom you are talking to!!! Do you want to pick a trouble with me!",
@@ -572,12 +572,12 @@
     "8puCBw": {
         "en-US": "[Kid]\nThey seemed very excited in the fancy place...",
         "pt-BR": "[Kidd]\nElas parecem estar bem empolgadas...",
-        "es-ES": "[Kidd]\nParecían muy felices de estar en ese lugar tan elegante…"
+        "es-ES": "[Kidd]\nParecían muy felices de estar en ese lugar tan elegante..."
     },
     "85uCBw": {
         "en-US": "...It is a pain to stand in a place where you don't belong...",
         "pt-BR": "...É uma dor estar em um lugar onde você não pertence...",
-        "es-ES": "Es incómodo estar en un lugar donde no encajas…"
+        "es-ES": "Es incómodo estar en un lugar donde no encajas..."
     },
     "9JuCBw": {
         "en-US": "Mayssel",
@@ -587,12 +587,12 @@
     "9ZuCBw": {
         "en-US": "[Mayssel]\nWho are you...?",
         "pt-BR": "[Mayssel]\nQuem é você...?",
-        "es-ES": "[Mayssel]\n¿Quién eres…?"
+        "es-ES": "[Mayssel]\n¿Quién eres...?"
     },
     "9puCBw": {
         "en-US": "[Mayssel]\n...Oh... You have visited us to change your class, I remember.\nWe have recommended you as a representative of the guild.",
         "pt-BR": "[Mayssel]\n...Oh... Você veio até aqui para mudar de classe.\nRecomendamos você como candidato para o representante da guilda.",
-        "es-ES": "[Mayssel]\nOh… Recuerdo que nos visitaste para cambiar tu clase.\nTe recomendamos como representante del gremio."
+        "es-ES": "[Mayssel]\nOh... Recuerdo que nos visitaste para cambiar tu clase.\nTe recomendamos como representante del gremio."
     },
     "95uCBw": {
         "en-US": "[Mayssel]\nI am glad to see you all grown up.\nNever forget the weight of the blood to be covered on your hands at all times.",
@@ -617,7 +617,7 @@
     "+5uCBw": {
         "en-US": "[Verkhasel]\n...I don't like a crowded place like this, but I cannot help it when I am on a mission.",
         "pt-BR": "[Verkhasel]\n...Eu não gosto de lugares tumultuados, mas se a missão exige isso...",
-        "es-ES": "[Verkhasel]\n…No me gustan los lugares tan concurridos, pero cuando estoy en una misión, no tengo opción."
+        "es-ES": "[Verkhasel]\n...No me gustan los lugares tan concurridos, pero cuando estoy en una misión, no tengo opción."
     },
     "/JuCBw": {
         "en-US": "[Verkhasel]\nYou are here too.\nWell, I guess you are supposed to be here.",
@@ -627,7 +627,7 @@
     "/ZuCBw": {
         "en-US": "[Verkhasel]\n...What a trouble.",
         "pt-BR": "[Verkhasel]\n...Mas que saco.",
-        "es-ES": "[Verkhasel]\n…Qué problema."
+        "es-ES": "[Verkhasel]\n...Qué problema."
     },
     "/puCBw": {
         "en-US": "I want to go back now.",
@@ -637,7 +637,7 @@
     "/5uCBw": {
         "en-US": "...You can't.",
         "pt-BR": "...Você não pode.",
-        "es-ES": "…No puedes."
+        "es-ES": "...No puedes."
     },
     "AJyCBw": {
         "en-US": "You made that very clear, hahahaha!",
@@ -662,12 +662,12 @@
     "BJyCBw": {
         "en-US": "[Vicente]\nHum... Did we meet at Criatura?",
         "pt-BR": "[Vicente]\nHum... Nos conhecemos na Academia em Izlude, não foi?",
-        "es-ES": "[Vicente]\nMmm… ¿Nos conocimos en Criatura?"
+        "es-ES": "[Vicente]\nMmm... ¿Nos conocimos en Criatura?"
     },
     "BZyCBw": {
         "en-US": "[Vicente]\nI have dealt with too many people...\nYour face seemed familiar...",
         "pt-BR": "[Vicente]\nHum...\nSeu rosto me é familiar...",
-        "es-ES": "[Vicente]\nHe visto a tantas personas…\nTu rostro me es conocido…"
+        "es-ES": "[Vicente]\nHe visto a tantas personas...\nTu rostro me es conocido..."
     },
     "BpyCBw": {
         "en-US": "[Vicente]\nWell whatever.\nAre you enjoying the banquet?",

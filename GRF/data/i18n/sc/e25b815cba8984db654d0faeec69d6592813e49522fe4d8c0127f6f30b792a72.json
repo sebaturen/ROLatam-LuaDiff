@@ -57,7 +57,7 @@
     "K4A5Aw": {
         "en-US": "[Mr. Hugh]\nI'm Huh from the Purchasing Team at the Alberta Merchant Guild.\nYou're...",
         "pt-BR": "[Sr. Hector]\nEu sou o Sr. Hector da Guilda dos Mercadores de Alberta.\nVocê é...?",
-        "es-ES": "[Sr. Hugh]\nSoy Hugh, del equipo de compras del gremio de comerciantes de Alberta.\nEres…"
+        "es-ES": "[Sr. Hugh]\nSoy Hugh, del equipo de compras del gremio de comerciantes de Alberta.\nEres..."
     },
     "LIA5Aw": {
         "en-US": "[Mr. Hugh]\nAh, you're not one of our official members.\nAh well, that doesn't really matter anyways.",
@@ -72,7 +72,7 @@
     "LoA5Aw": {
         "en-US": "I've never had problems buying items...",
         "pt-BR": "Nunca tive problemas para comprar itens...",
-        "es-ES": "Nunca tuve problemas para comprar objetos…"
+        "es-ES": "Nunca tuve problemas para comprar objetos..."
     },
     "L4A5Aw": {
         "en-US": "[Mr. Hugh]\nYou're right, but think about it: haven't you had a hard time buying in bulk?\nYou'd have to find and talk to everyone that has an item you want. Pretty inconvenient, isn't it?",
@@ -87,12 +87,12 @@
     "MYA5Aw": {
         "en-US": "[Mr. Hugh]\n'Let Individuals Open\na Bulk Buyer Shop!'\nThat's the title of my proposal. You'll see, when you read it...",
         "pt-BR": "[Sr. Hector]\n'Que os indivíduos abram\numa Loja de Compras em lotes!'\nEsse é o título da minha proposta. Você verá, quando a ler...",
-        "es-ES": "[Sr. Hugh]\n¡Deja que las personas puedan abrir\nuna tienda para compras al por mayor!\nEse es el título de mi propuesta. Ya verás, cuando lo leas…"
+        "es-ES": "[Sr. Hugh]\n¡Deja que las personas puedan abrir\nuna tienda para compras al por mayor!\nEse es el título de mi propuesta. Ya verás, cuando lo leas..."
     },
     "MoA5Aw": {
         "en-US": "...\n...(Mr. Hugh yammers on and on with all the details.)",
         "pt-BR": "...\n... (O Sr. Hector fala sem parar sobre todos os detalhes).",
-        "es-ES": "…\n…(El Sr. Hugh no para de dar detalles)"
+        "es-ES": "...\n...(El Sr. Hugh no para de dar detalles)"
     },
     "M4A5Aw": {
         "en-US": "Alright, what's your point?",
@@ -152,12 +152,12 @@
     "PoA5Aw": {
         "en-US": "[Mr. Hugh]\nYou've made a good decision.\nPlease give me the registration fee, and sign right here....",
         "pt-BR": "[Sr. Hector]\nO senhor tomou uma boa decisão.\nPague a taxa de registro e assine bem aqui...",
-        "es-ES": "[Sr. Hugh]\nTomaste una buena decisión.\nPor favor, dame la cuota de inscripción, y firma aquí mismo…"
+        "es-ES": "[Sr. Hugh]\nTomaste una buena decisión.\nPor favor, dame la cuota de inscripción, y firma aquí mismo..."
     },
     "P4A5Aw": {
         "en-US": "[Mr. Hugh]\n{0}....\nI like your handwriting.\nOkay, you're now approved to open the Bulk Buyer Shop.",
         "pt-BR": "[Sr. Hector]\n{0}....\nGostei da sua caligrafia.\nAgora você tem aprovação para abrir uma Loja de Compras.",
-        "es-ES": "[Sr. Hugh]\n{0}…\nMe gusta tu letra.\nBien, ya tienes aprobación para abrir la Tienda para compras al por mayor."
+        "es-ES": "[Sr. Hugh]\n{0}...\nMe gusta tu letra.\nBien, ya tienes aprobación para abrir la Tienda para compras al por mayor."
     },
     "QIA5Aw": {
         "en-US": "[Mr. Hugh]\nCurrently, only normal items ^FF0000EXCEPT^000000 equipment, certain potions, and hand-crafted items can be purchased in bulk, but this can still can be very beneficial to you, depending on how you use it.",
@@ -282,12 +282,12 @@
     "WIA5Aw": {
         "en-US": "[Mr. Jass]\n...\nHugh is a corrupt merchant\nwith no sense of business ethics.\nMy sole purpose in life is to destroy Hugh.",
         "pt-BR": "[Sr. Jass]\n...\nHugh é um mercador corrupto\nsem nenhum senso de ética comercial.\nMeu único objetivo na vida é destruir Hugh.",
-        "es-ES": "[Sr. Jass]\n…\nHugh es un comerciante corrupto\nque no tiene sentido de la ética empresarial.\nMi único propósito en la vida es destruir a Hugh."
+        "es-ES": "[Sr. Jass]\n...\nHugh es un comerciante corrupto\nque no tiene sentido de la ética empresarial.\nMi único propósito en la vida es destruir a Hugh."
     },
     "WYA5Aw": {
         "en-US": "[Mr. Jass]\nAw, I drank too much... (*Hic*) That's just the alcohol talking.\nPlease forget anything I said.",
         "pt-BR": "[Sr. Jass]\nAh, bebi demais... (*Hic*) Isso é só o álcool falando.\nEsqueça tudo o que eu disse.",
-        "es-ES": "[Sr. Jass]\nAh, bebí demasiado… (*Hic*) Eso es solo el alcohol hablando.\nPor favor, olvida todo lo que dije."
+        "es-ES": "[Sr. Jass]\nAh, bebí demasiado... (*Hic*) Eso es solo el alcohol hablando.\nPor favor, olvida todo lo que dije."
     },
     "WoA5Aw": {
         "en-US": "[Mr. Jass]\nAlright, alright! You don't have to yell.\nJust leave me alone if you've got no business with me.",

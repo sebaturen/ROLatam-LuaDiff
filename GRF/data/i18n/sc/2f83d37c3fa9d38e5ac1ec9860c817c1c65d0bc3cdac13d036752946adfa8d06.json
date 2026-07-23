@@ -7,7 +7,7 @@
     "4abgAQ": {
         "en-US": "[Guide]\nHello~\nI am a Guide to take you\nto a special place.\nWhat kind of place is that?",
         "pt-BR": "[Guia]\nOlá ~\nEu sou o guia que leva pessoas ao Shopping.\nVocê deve estar se perguntando...\nque lugar é esse?",
-        "es-ES": "[Guía]\nHola ~.\nSoy el guía que lleva a la gente a la Zona comercial.\nTe estarás preguntando…\n¿Qué es este lugar?"
+        "es-ES": "[Guía]\nHola ~.\nSoy el guía que lleva a la gente a la Zona comercial.\nTe estarás preguntando...\n¿Qué es este lugar?"
     },
     "4qbgAQ": {
         "en-US": "[Guide]\nIt's a place that sells\nall sorts of mysterious items..\nBut you will need special currency\nto buy things from there.",
@@ -27,7 +27,7 @@
     "5abgAQ": {
         "en-US": "No",
         "pt-BR": "Não",
-        "es-ES": "Yo…"
+        "es-ES": "Yo..."
     },
     "5qbgAQ": {
         "en-US": "[Guide]\nLooks like you are well prepared.\nSo, let's get some good stuff.\nOops, I forgot this, when you exit\nyou will return here.\nPlease remember~",
@@ -142,7 +142,7 @@
     "/KbgAQ": {
         "en-US": "[Switch]\nOk....",
         "pt-BR": "[Switch]\nOk....",
-        "es-ES": "[Activado/Desactivado]\nLa próxima vez…"
+        "es-ES": "[Activado/Desactivado]\nLa próxima vez..."
     },
     "/abgAQ": {
         "en-US": "[Switch]\nyour password is wrong.",

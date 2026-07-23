@@ -92,12 +92,12 @@
     "Eng/Bw": {
         "en-US": "[Unpleasent Royal Guard]\nThe monsters that attacked the palace are wandering around the secret entrance. It would be very bad if they spotted us... Please wait",
         "pt-BR": "[Guarda Real Sinistro]\nOs monstros que invadiram o palácio\nestão vagando pela passagem secreta\nVamos ter problemas se nos encontrarem\nPor favor, espere um instante.",
-        "es-ES": "[Guardia real antipático]\nLos monstruos que atacaron el palacio deambulan por la entrada secreta. No sería nada bueno que nos descubrieran… Espera, por favor."
+        "es-ES": "[Guardia real antipático]\nLos monstruos que atacaron el palacio deambulan por la entrada secreta. No sería nada bueno que nos descubrieran... Espera, por favor."
     },
     "E3g/Bw": {
         "en-US": "[Unpleasent Royal Guard]\nThank you..\nI will open the the secret passage to ^0000FF{0}^000000\nPlease be ready!",
         "pt-BR": "[Guarda Real Sinistro]\nObrigado...\n^0000FFConectando-se ao {0}.^000000\nVou abrir a passagem secreta\nPor favor, prepare-se.",
-        "es-ES": "[Guardia real antipático]\nGracias…\nAbriré el pasadizo secreto a ^0000FF{0}^000000.\n¡Prepárate!"
+        "es-ES": "[Guardia real antipático]\nGracias...\nAbriré el pasadizo secreto a ^0000FF{0}^000000.\n¡Prepárate!"
     },
     "FHg/Bw": {
         "en-US": "[Unpleasent Royal Guard]\nEven now all the royal guards are fighting and dying to the monsters.",
@@ -132,7 +132,7 @@
     "Gng/Bw": {
         "en-US": "[Unpleasent Royal Guard]\nI can see the secret passage into the Palace... Are you ready to save the princess?!",
         "pt-BR": "[Guarda Real Sinistro]\nA passagem secreta que leva ao palácio\nVocê está pronto para entrar?",
-        "es-ES": "[Guardia real antipático]\nPuedo ver el pasadizo secreto al palacio… ¡¿Todo listo para salvar a la princesa?!"
+        "es-ES": "[Guardia real antipático]\nPuedo ver el pasadizo secreto al palacio... ¡¿Todo listo para salvar a la princesa?!"
     },
     "G3g/Bw": {
         "en-US": "Enter",
@@ -227,7 +227,7 @@
     "LXg/Bw": {
         "en-US": "[Unpleasent Royal Guard]\nThank you..\nI will open the the secret passage to ^0000FF{0}^000000\nPlease be ready!",
         "pt-BR": "[Guarda Real Sinistro]\nObrigado...\n^0000FFConectando-se ao {0}.^000000\nVou abrir a passagem secreta\nPor favor, prepare-se.",
-        "es-ES": "[Guardia real antipático]\nGracias…\nAbriré el pasadizo secreto a ^0000FF{0}^000000.\n¡Prepárate!"
+        "es-ES": "[Guardia real antipático]\nGracias...\nAbriré el pasadizo secreto a ^0000FF{0}^000000.\n¡Prepárate!"
     },
     "Lng/Bw": {
         "en-US": "{0} of the party, {1}, is entering the  {2}.",

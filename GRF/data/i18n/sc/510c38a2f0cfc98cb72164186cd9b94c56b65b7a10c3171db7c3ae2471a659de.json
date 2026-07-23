@@ -117,7 +117,7 @@
     "N0lp": {
         "en-US": ".........",
         "pt-BR": ".........",
-        "es-ES": "………"
+        "es-ES": "........."
     },
     "OElp": {
         "en-US": "[Paltu]\nSee! I knew it. I knew it from the first minute.",
@@ -132,7 +132,7 @@
     "Oklp": {
         "en-US": "[Paltu]\nHmm, what was it...?\nI think you adventurers call them ^0571B0Costumes^000000? right?",
         "pt-BR": "[Paltu]\nHmm, o que era...?\nAcho que vocês, aventureiros, os chamam de ^0571B0Trajes^000000? Não é?",
-        "es-ES": "[Paltu]\nMmm, ¿qué era…?\nCreo que los trotamundos los llaman ^0571B0Atuendos^000000, ¿verdad?"
+        "es-ES": "[Paltu]\nMmm, ¿qué era...?\nCreo que los trotamundos los llaman ^0571B0Atuendos^000000, ¿verdad?"
     },
     "O0lp": {
         "en-US": "Yes~ What do you need?",
@@ -142,7 +142,7 @@
     "PElp": {
         "en-US": "[Paltu]\nI need 1 ^0571B0hat to replicate^000000 and\nI need ^E1281E 4 Crystal Mirrors^000000 for magic resistance, ^E1281E 1 Fairy Magic Powder^000000 as the catalyst, and ^E1281E Emerald, Ruby, Sapphire, Topaz, and Zircon, 10 of each^000000, to be used for amplifying the magic power.",
         "pt-BR": "[Paltu]\nPreciso de 1 ^0571B0Chapéu para replicar^000000 e\nmais ^E1281E 4 Espelhos de Cristal^000000 para resistência mágica, ^E1281E 1 Poder Mágico Angelical^000000 como catalisador e ^E1281E Esmeraldas, Rubis, Safiras, Topázios e Zircônios, 10 de cada^000000, para amplificar o poder mágico.",
-        "es-ES": "[Paltu]\nNecesito 1^0571B0sombrero para replicar^000000 y…\nNecesito ^E1281E 4 Espejos de cristal^000000 para la resistencia mágica, ^E1281E 1 Polvo mágico de hadas^000000 como catalizador y ^E1281E Esmeralda, Rubí, Zafiro, Topacio y Zircón, 10 de cada uno^000000, para amplificar el poder mágico."
+        "es-ES": "[Paltu]\nNecesito 1^0571B0sombrero para replicar^000000 y...\nNecesito ^E1281E 4 Espejos de cristal^000000 para la resistencia mágica, ^E1281E 1 Polvo mágico de hadas^000000 como catalizador y ^E1281E Esmeralda, Rubí, Zafiro, Topacio y Zircón, 10 de cada uno^000000, para amplificar el poder mágico."
     },
     "PUlp": {
         "en-US": "[Paltu]\nThere's quite a lot of ingredients, right? Well, I can't do anything about that. Dealing with magic power is not a joke.",
@@ -307,7 +307,7 @@
     "XUlp": {
         "en-US": "[Paltu]\nAy.. Credit purchases are difficult for me.",
         "pt-BR": "[Paltu]\nAi... As compras a crédito são difíceis para mim.",
-        "es-ES": "[Paltu]\nAy… Las compras a crédito me cuestan."
+        "es-ES": "[Paltu]\nAy... Las compras a crédito me cuestan."
     },
     "Xklp": {
         "en-US": "[Paltu]\n^0571B0Frog Hat^000000 and\n^E1281E 50 Splendide Coins, 4 Crystal Mirrors, 1 Fairy Magic Powder, 10 of each Emerald, Ruby, Sapphire, Topaz, and Zircon ^000000 are necessary.",
@@ -422,12 +422,12 @@
     "dElp": {
         "en-US": "Oops, I have to take care of something...",
         "pt-BR": "Opa, tenho que cuidar de uma coisa...",
-        "es-ES": "Ups, tengo que ocuparme de algo…"
+        "es-ES": "Ups, tengo que ocuparme de algo..."
     },
     "dUlp": {
         "en-US": "[Paltu]\nHey.. Hey! Hey! Where you going?",
         "pt-BR": "[Paltu]\nEi... Ei! Ei! Onde você está indo?",
-        "es-ES": "[Paltu]\nOye… ¡Oye! ¡Oye! ¿Adónde vas?"
+        "es-ES": "[Paltu]\nOye... ¡Oye! ¡Oye! ¿Adónde vas?"
     },
     "dklp": {
         "en-US": "[Paltu]\nI got it. Oh right! Almost forgot again.",
@@ -472,12 +472,12 @@
     "fklp": {
         "en-US": "[Paltu]\nDo this thing here, and do that thing there, and then do this thing here again...",
         "pt-BR": "[Paltu]\nFaça isso aqui, e faça aquilo ali, e depois faça isso aqui de novo...",
-        "es-ES": "[Paltu]\nHago esto por aquí y aquello por allá, y luego vuelvo a hacer esta cosa por aquí…"
+        "es-ES": "[Paltu]\nHago esto por aquí y aquello por allá, y luego vuelvo a hacer esta cosa por aquí..."
     },
     "f0lp": {
         "en-US": "[Paltu]\n... .. ...",
         "pt-BR": "[Paltu]\n... .. ...",
-        "es-ES": "[Paltu]\n… .. …"
+        "es-ES": "[Paltu]\n... .. ..."
     },
     "gElp": {
         "en-US": "[Paltu]\nGood. This is a satisfying result.\nI'll do even a better job next time. Please tell others about my work. Have a good day~",

@@ -52,7 +52,7 @@
     "SpLS": {
         "en-US": "[Ghalstein]\nYes, Lighthalzen\ncouldn't be perfecter.\nAhahahaha... But still...\nHm. Um. Oh, never mind.",
         "pt-BR": "[Ghalstein]\nSim, Lighthalzen\nnão poderia ser melhor.\nAhahahaha... Ainda assim...\nHm.. Hum.. Oh, deixe pra lá.",
-        "es-ES": "[Ghalstein]\nSí, Lighthalzen\nno podría ser más perfecta.\nJa, ja, ja… Pero aun así…\nMmm. Eh… Ah, no importa."
+        "es-ES": "[Ghalstein]\nSí, Lighthalzen\nno podría ser más perfecta.\nJa, ja, ja... Pero aun así...\nMmm. Eh... Ah, no importa."
     },
     "S5LS": {
         "en-US": "[Ghalstein]\nHm? It's a little\ncloudy today, isn't it?\nIt would be nice to stay\ninside, listening to some\nnice music while enjoying\na hot cup of tea, wouldn't it?",
@@ -87,22 +87,22 @@
     "UZLS": {
         "en-US": "[Ghalstein]\n...\n......\nI don't quite follow what\nyou're saying. I was merely\nenjoying the sunny perfection\nof Lighthalzen as usual...",
         "pt-BR": "[Ghalstein]\n...\n......\nAcho que eu não entendi\no que está dizendo. Eu só estou\naproveitando um dia perfeito de sol\nem Lighthalzen como sempre...",
-        "es-ES": "[Ghalstein]\n…\n......\nNo entiendo de qué \nhablas. Solo estaba\ndisfrutando de la soleada perfección\nde Lighthalzen como siempre…"
+        "es-ES": "[Ghalstein]\n...\n......\nNo entiendo de qué \nhablas. Solo estaba\ndisfrutando de la soleada perfección\nde Lighthalzen como siempre..."
     },
     "UpLS": {
         "en-US": "But I heard you talking about something...",
         "pt-BR": "Mas eu escutei você falar sobre alguma coisa...",
-        "es-ES": "Pero te oí hablar de algo…"
+        "es-ES": "Pero te oí hablar de algo..."
     },
     "U5LS": {
         "en-US": "[Ghalstein]\nNo! You must\nhave mistaken me\nfor somebody else!\nNow, if you'll excuse me...",
         "pt-BR": "[Ghalstein]\nNão! Você deve\nter me confundido\ncom outra pessoa!\nSe me der licença...",
-        "es-ES": "[Ghalstein]\n¡No! ¡Debes\nhaberme confundido\ncon otra persona!\nAhora si me disculpas…"
+        "es-ES": "[Ghalstein]\n¡No! ¡Debes\nhaberme confundido\ncon otra persona!\nAhora si me disculpas..."
     },
     "VJLS": {
         "en-US": "^3355FFEven if it wasn't\nGhalstein that you\njust heard, he reacted\npretty strongly to what\nyou said to to him. Almost\nas if he had something to hide... ^000000",
         "pt-BR": "^3355FFMesmo se não fosse o\nGhalstein que você \nacabou de escutar, ele reagiria\nbem mal ao que\nvocê disse a ele. Como\nse ele tivesse algo a esconder... ^000000",
-        "es-ES": "^3355FFAunque no fuera\nGhalstein al que acababas\nde oír, parece que le provocaste\nuna reacción bastante fuerte\ncon lo que dijiste. Casi\ncomo si tuviera algo que ocultar… ^000000"
+        "es-ES": "^3355FFAunque no fuera\nGhalstein al que acababas\nde oír, parece que le provocaste\nuna reacción bastante fuerte\ncon lo que dijiste. Casi\ncomo si tuviera algo que ocultar... ^000000"
     },
     "VZLS": {
         "en-US": "[Ghalstein]\nHm? Judging from the\nlook on your face, you\napparently still believe\nthat I was involved in some\nkind of clandestine meeting.",
@@ -117,7 +117,7 @@
     "V5LS": {
         "en-US": "Well...",
         "pt-BR": "Bem...",
-        "es-ES": "Bueno…"
+        "es-ES": "Bueno..."
     },
     "WJLS": {
         "en-US": "[{0}]\nYes, I'm sure of it!\nThat was definitely you!\nYour voice, your way of\nspeaking is unmistakable!",
@@ -127,7 +127,7 @@
     "WZLS": {
         "en-US": "[{0}]\nWell...\nNow I don't know.\nI suppose I could\nbe wrong, I guess.",
         "pt-BR": "[{0}]\nBem...\nEu não tenho certeza.\nEu também posso\nestar errado, eu acho.",
-        "es-ES": "[{0}]\nBueno…\nLa verdad no sé.\nSupongo que me pude\nhaber equivocado."
+        "es-ES": "[{0}]\nBueno...\nLa verdad no sé.\nSupongo que me pude\nhaber equivocado."
     },
     "WpLS": {
         "en-US": "[Ghalstein]\n.......\nYes, I wouldn't\nrecommend running\naround, indiscriminately\naccusing random people\nof doing strange things.",
@@ -147,7 +147,7 @@
     "XZLS": {
         "en-US": "I'm not interrogating you...",
         "pt-BR": "Eu não estou interrogando você...",
-        "es-ES": "No te estoy interrogando…"
+        "es-ES": "No te estoy interrogando..."
     },
     "XpLS": {
         "en-US": "Sorry about that.",
@@ -157,7 +157,7 @@
     "X5LS": {
         "en-US": "[{0}]\nI'm not interrogating\nyou. No, not at all.\nIt's, um, it's just...",
         "pt-BR": "[{0}]\nEu não estou interrogando\nvocê. De maneira nenhuma.\nÉ só que, hmm, é só que...",
-        "es-ES": "[{0}]\nNo te estoy\ninterrogando. No, en absoluto.\nEs solo que, mm…"
+        "es-ES": "[{0}]\nNo te estoy\ninterrogando. No, en absoluto.\nEs solo que, mm..."
     },
     "YJLS": {
         "en-US": "Who are you dealing with?",
@@ -177,22 +177,22 @@
     "Y5LS": {
         "en-US": "[{0}]\nI don't think I can\nignore hearing about\nany kind of dangerous\ncorporation, even if\nI wanted to. Turning my\nback to this seems wrong...",
         "pt-BR": "[{0}]\nEu não creio que\nposso ignorar qualquer\ntipo de corporação\nperigosa, mesmo que \nquisesse. Dar as costas\npara isso seria errado...",
-        "es-ES": "[{0}]\nCreo que no podría\nquedarme de brazos cruzados\nsabiendo que existe\nuna corporación peligrosa\ncomo esa, aunque quisiera. No puedo darle\nla espalda a esto así sin más…"
+        "es-ES": "[{0}]\nCreo que no podría\nquedarme de brazos cruzados\nsabiendo que existe\nuna corporación peligrosa\ncomo esa, aunque quisiera. No puedo darle\nla espalda a esto así sin más..."
     },
     "ZJLS": {
         "en-US": "[Ghalstein]\nJust curious...?\nWell, I hope that\nyou don't interfere\ntoo much with other\npeople's lives just\nout of curiosity.",
         "pt-BR": "[Ghalstein]\nSó curioso...?\nBem, espero que \nvocê não interfira\nmuito com a vida\ndas outras pessoas só \npor que está curioso.",
-        "es-ES": "[Ghalstein]\n¿Solo te dio curiosidad…?\nBueno, espero que\ndejes de entrometerte\ntanto en la vida\nde las personas solo\npor curiosidad."
+        "es-ES": "[Ghalstein]\n¿Solo te dio curiosidad...?\nBueno, espero que\ndejes de entrometerte\ntanto en la vida\nde las personas solo\npor curiosidad."
     },
     "ZZLS": {
         "en-US": "[Ghalstein]\nYou really shouldn't\nmake something your\nbusiness if you're not\ninterested or willing\nto commit. Now, if you\nwould excuse me...",
         "pt-BR": "[Ghalstein]\nVocê não deve se meter\nna vida dos outros\nse não estiver realmente\ninteressado e disposto\na se comprometer. Agora, se me \nder licença...",
-        "es-ES": "[Ghalstein]\nNo deberías meterte\nen los asuntos de otros\nsi no tienes interés ni\nvoluntad de\ninvolucrarte. Ahora si\nme disculpas…"
+        "es-ES": "[Ghalstein]\nNo deberías meterte\nen los asuntos de otros\nsi no tienes interés ni\nvoluntad de\ninvolucrarte. Ahora si\nme disculpas..."
     },
     "ZpLS": {
         "en-US": "[Ghalstein]\nHm...\nYou really\nfeel that way?",
         "pt-BR": "[Ghalstein]\nHm...\nVocê acha\nmesmo isso?",
-        "es-ES": "[Ghalstein]\nMmm…\n¿De veras\nte sientes así?"
+        "es-ES": "[Ghalstein]\nMmm...\n¿De veras\nte sientes así?"
     },
     "Z5LS": {
         "en-US": "[Ghalstein]\nPlease give me\na moment. I need\nsome time to think\nabout how I can best\nhandle this situation.",
@@ -242,7 +242,7 @@
     "cJLS": {
         "en-US": "I still don't get it...",
         "pt-BR": "Eu não estou entendendo...",
-        "es-ES": "Sigo sin entender…"
+        "es-ES": "Sigo sin entender..."
     },
     "cZLS": {
         "en-US": "Sure, I'll cooperate.",
@@ -337,17 +337,17 @@
     "g5LS": {
         "en-US": "[Ghalstein]\nAh, good choice.\nHowever, we still do not\nknow how much we can trust\nyou. That is why we require\none condition: that you take\nthis red tonic. Don't worry...",
         "pt-BR": "[Ghalstein]\nAh, boa escolha.\nEntretanto, nós ainda não temos\ncerteza de que podemos confiar em\nvocê. É por isso que temos\numa condição: que você beba\nesse tônico vermelho. Não se preocupe...",
-        "es-ES": "[Ghalstein]\nAh, buena elección.\nNo obstante, seguimos sin\nsaber cuánto podemos confiar en\nti. Por eso, exigimos\nuna condición: que bebas\neste elixir rojo. No te preocupes…"
+        "es-ES": "[Ghalstein]\nAh, buena elección.\nNo obstante, seguimos sin\nsaber cuánto podemos confiar en\nti. Por eso, exigimos\nuna condición: que bebas\neste elixir rojo. No te preocupes..."
     },
     "hJLS": {
         "en-US": "[Ghalstein]\nThis tonic allows us to\nmonitor your actions. Now,\nyou must take it periodically\nto prevent any negative side\neffects, but as long as you don't betray us, you'll be fine.",
         "pt-BR": "[Ghalstein]\nO tônico nos permite\nmonitorar suas ações. Por isso,\nvocê precisa tomá-lo periodicamente\npara evitar os efeitos\ncolaterais, mas, enquanto não nos trair, você ficará bem.",
-        "es-ES": "[Ghalstein]\nEl elixir nos permite\nmonitorear lo que haces. Bien…\ntendrás que tomarlo periódicamente\npara evitar cualquier efecto secundario\nnegativo pero, mientras no nos traiciones, estarás bien."
+        "es-ES": "[Ghalstein]\nEl elixir nos permite\nmonitorear lo que haces. Bien...\ntendrás que tomarlo periódicamente\npara evitar cualquier efecto secundario\nnegativo pero, mientras no nos traiciones, estarás bien."
     },
     "hZLS": {
         "en-US": ".....?",
         "pt-BR": ".....?",
-        "es-ES": "¿…?"
+        "es-ES": "¿...?"
     },
     "hpLS": {
         "en-US": "[Ghalstein]\nOnce we complete our\nmission, we will give you\nthe antidote. You'll have\nlearned what you wanted to\nknow and we would benefit\nfrom your help, adventurer.",
@@ -362,12 +362,12 @@
     "iJLS": {
         "en-US": "[Ghalstein]\nYou really feel\nthat way? Well, that's\na shame. Pity, really...",
         "pt-BR": "[Ghalstein]\nVocê tem certeza\ndisso? Bem, é uma\npena. Pena mesmo...",
-        "es-ES": "[Ghalstein]\n¿De verdad te\nsientes así? Bueno, es\nuna pena. Una verdadera lástima…"
+        "es-ES": "[Ghalstein]\n¿De verdad te\nsientes así? Bueno, es\nuna pena. Una verdadera lástima..."
     },
     "iZLS": {
         "en-US": "^3355FFYou suddenly get the\nweird feeling that someone\nhas been behind you this\nentire time. As you slowly\nturn around to look, you\nwere knocked unconscious...^000000",
         "pt-BR": "^3355FFDe repente você tem a\nestranha sensação de que alguém\nestá atrás de você \no tempo todo. Devagar, você se vira\npara olhar, mas é atingido\ncaindo inconsciente...^000000",
-        "es-ES": "^3355FFDe repente, te da\nla extraña sensación de que alguien\nha estado detrás de ti\ntodo este tiempo. Te das vuelta lentamente\npara mirar hacia atrás\ny un golpe te deja inconsciente…^000000"
+        "es-ES": "^3355FFDe repente, te da\nla extraña sensación de que alguien\nha estado detrás de ti\ntodo este tiempo. Te das vuelta lentamente\npara mirar hacia atrás\ny un golpe te deja inconsciente...^000000"
     },
     "ipLS": {
         "en-US": "..........\n........\n.....\n..",
@@ -377,7 +377,7 @@
     "i5LS": {
         "en-US": "[??????]\n^666666Now...^000000",
         "pt-BR": "[??????]\n^666666Agora...^000000",
-        "es-ES": "[???]\n^666666Ahora…^000000"
+        "es-ES": "[???]\n^666666Ahora...^000000"
     },
     "jJLS": {
         "en-US": "^666666Make him^000000",
@@ -427,7 +427,7 @@
     "lZLS": {
         "en-US": "[Ghalstein]\nIt might be helpful to\nknow that we've received\nreports about disappearances\nof people from the ^FF0000eastside\nslums^000000. We believe they are\nperhaps traveling illegally...",
         "pt-BR": "[Ghalstein]\nPode ser útil saber\nque temos recebido\nrelatórios sobre o desaparecimento\nde pessoas nas ^FF0000favelas\ndo lado leste^000000. Acreditamos que talvez elas\nestejam sendo levadas ilegalmente...",
-        "es-ES": "[Ghalstein]\nPuede ser útil saber\nque recibimos\ninformes sobre desapariciones\nde personas de los ^FF0000barrios\nbajos del este^000000. Creemos que, tal vez,\nsean viajeros ilegales…"
+        "es-ES": "[Ghalstein]\nPuede ser útil saber\nque recibimos\ninformes sobre desapariciones\nde personas de los ^FF0000barrios\nbajos del este^000000. Creemos que, tal vez,\nsean viajeros ilegales..."
     },
     "lpLS": {
         "en-US": "[Ghalstein]\nIf someone there is\ntransporting people\nwithout authorization,\nmaybe you can find a\ncontact who can sneak\nyou inside the Laboratory.",
@@ -442,7 +442,7 @@
     "mJLS": {
         "en-US": "[Ghalstein]\nHmm...\nHave you entered the Laboratory yet? I think you should do that first before I can continue.",
         "pt-BR": "[Ghalstein]\nOcorreu algum erro.",
-        "es-ES": "[Ghalstein]\nMmm…\n¿Ya entraste al laboratorio? Creo que deberías hacerlo antes de que pueda continuar."
+        "es-ES": "[Ghalstein]\nMmm...\n¿Ya entraste al laboratorio? Creo que deberías hacerlo antes de que pueda continuar."
     },
     "mZLS": {
         "en-US": "[Ghalstein]\nAh, this looks like a\nsufficient amount of\nevidence for us to be\nable to effectively attack\nour enemy. I believe you're\nready for the next mission.",
@@ -507,7 +507,7 @@
     "pZLS": {
         "en-US": "[Ghalstein]\nI'd like you to take\nthis small gift, as way\nof apology. We asked you\nto do so much, but ultimately,\nwe weren't able to accomplish\nwhat we set out to do. Still...",
         "pt-BR": "[Ghalstein]\nEu quero que você aceite\nesse pequeno presente, como\ndesculpas. Nós pedimos tanto\na você, mas no final,\nnão conseguimos completar o\nque queríamos fazer. Ainda assim...",
-        "es-ES": "[Ghalstein]\nQuisiera darte\neste pequeño regalo, a modo\nde disculpa. Te exigimos\ndemasiado pero, en definitiva,\nno fuimos capaces de lograr\nnuestro objetivo. Aun así…"
+        "es-ES": "[Ghalstein]\nQuisiera darte\neste pequeño regalo, a modo\nde disculpa. Te exigimos\ndemasiado pero, en definitiva,\nno fuimos capaces de lograr\nnuestro objetivo. Aun así..."
     },
     "ppLS": {
         "en-US": "[Ghalstein]\nI'd like to thank you\nfor everything. Hopefully,\nyou found the answers\nthat you were looking for\nwhen you decided to help\nus. Farewell, faithful friend.",
@@ -517,7 +517,7 @@
     "p5LS": {
         "en-US": "[Ghalstein]\nI hate being patient,\nbut the old adage is\ntrue. He who runs away,\nlives to fight another day.\nBut that day seems so\nfar off into the future...",
         "pt-BR": "[Ghalstein]\nEu odeio ser paciente,\nmas o velho ditado está \ncerto. Aquele que foge hoje,\nvive para lutar outro dia.\nMas esse dia parece estar\ntão distante, no futuro...",
-        "es-ES": "[Ghalstein]\nOdio ser paciente,\npero el viejo refrán es\ncierto. El que huye,\nvive para pelear otro día.\nPero ese día parece cada\nvez más lejano…"
+        "es-ES": "[Ghalstein]\nOdio ser paciente,\npero el viejo refrán es\ncierto. El que huye,\nvive para pelear otro día.\nPero ese día parece cada\nvez más lejano..."
     },
     "qJLS": {
         "en-US": "[??????]\n^666666Come on.\nThis way.^000000",
@@ -527,12 +527,12 @@
     "qZLS": {
         "en-US": "[??????]\n^333333Hurry up, before\nthe others see you...^000000",
         "pt-BR": "[??????]\n^333333Rápido, antes que\nos outros vejam vocês...^000000",
-        "es-ES": "[???]\n^333333Date prisa, antes de\nque los demás te vean…^000000"
+        "es-ES": "[???]\n^333333Date prisa, antes de\nque los demás te vean...^000000"
     },
     "qpLS": {
         "en-US": "[{0}]\n(Wait a second...\nThat voice is\nawfully familiar.)",
         "pt-BR": "[{0}]\n(Espere um pouco...\nEssa voz é \nbastante familiar).",
-        "es-ES": "[{0}]\n(Un momento…\nEsa voz me suena\nmuy familiar)."
+        "es-ES": "[{0}]\n(Un momento...\nEsa voz me suena\nmuy familiar)."
     },
     "q5LS": {
         "en-US": "Ignore it.",
@@ -547,27 +547,27 @@
     "rZLS": {
         "en-US": "[{0}]\n(That voice is\nawfully familiar...\nBut what do I care?)",
         "pt-BR": "[{0}]\n(Essa voz é \nbastante familiar...\nMas e eu com isso?)",
-        "es-ES": "[{0}]\n(Esa voz me suena\nmuy familiar…\nPero ¿qué más da?)."
+        "es-ES": "[{0}]\n(Esa voz me suena\nmuy familiar...\nPero ¿qué más da?)."
     },
     "rpLS": {
         "en-US": "[{0}]\n(This is too weird.\nI guess I better keep\nlistening to see what\nI can learn about this...)",
         "pt-BR": "[{0}]\n(Que estranho.\nÉ melhor eu continuar\na escutar e ver o que\nposso descobrir disso...)",
-        "es-ES": "[{0}]\n(Esto es demasiado raro.\nSerá mejor que siga\nescuchando para ver\nqué más puedo averiguar…)."
+        "es-ES": "[{0}]\n(Esto es demasiado raro.\nSerá mejor que siga\nescuchando para ver\nqué más puedo averiguar...)."
     },
     "r5LS": {
         "en-US": "[??????]\n^333333So why did you tell\nme to come to such\na dangerous place...?^000000",
         "pt-BR": "[??????]\n^333333Mas porque você me\nmandou vir por um\nlugar tão perigoso...?^000000",
-        "es-ES": "[???]\n^333333Y ¿por qué me dijiste\nque venga a un sitio\ntan peligroso…?^000000"
+        "es-ES": "[???]\n^333333Y ¿por qué me dijiste\nque venga a un sitio\ntan peligroso...?^000000"
     },
     "sJLS": {
         "en-US": "^3355FFThat's...^000000\nThat's ^660000Ghalstein's^3355FF voice!^000000",
         "pt-BR": "^3355FFEssa é...^000000\nEssa é a voz do ^660000Ghalstein^3355FF!^000000",
-        "es-ES": "^3355FFEsa es…^000000\n¡Es la voz de ^660000Ghalstein^3355FF!^000000"
+        "es-ES": "^3355FFEsa es...^000000\n¡Es la voz de ^660000Ghalstein^3355FF!^000000"
     },
     "sZLS": {
         "en-US": "[????]\n^666666Something unexpected\ncame up. Hence the sudden\nchange in plans. Now listen...^000000",
         "pt-BR": "[????]\n^666666Aconteceu uma coisa\ninesperada. Por isso a mudança\nde planos. Agora escutem...^000000",
-        "es-ES": "[???]\n^666666Surgió un\nimprevisto. De ahí, el repentino\ncambio de planes. Ahora escucha…^000000"
+        "es-ES": "[???]\n^666666Surgió un\nimprevisto. De ahí, el repentino\ncambio de planes. Ahora escucha...^000000"
     },
     "spLS": {
         "en-US": "^3355FFSuddenly, both of the\nvoices grew much quieter\nas the two men spoke to each\nother in low, hoarse whispers\nthat are almost inaudible.^000000",
@@ -597,7 +597,7 @@
     "t5LS": {
         "en-US": "^3355FFThat other voice...\nWhoever it belonged\nto is gone! What's\ngoing on here?^000000",
         "pt-BR": "^3355FFEssa outra voz...\nSeja de quem for,\nse foi! O que\nestá acontecendo aqui?^000000",
-        "es-ES": "^3355FFEsa otra voz…\n¡Quienquiera que fuese,\ndesapareció! ¿Qué está \npasando aquí?^000000"
+        "es-ES": "^3355FFEsa otra voz...\n¡Quienquiera que fuese,\ndesapareció! ¿Qué está \npasando aquí?^000000"
     },
     "uJLS": {
         "en-US": "Dismal Guy",
@@ -662,12 +662,12 @@
     "xJLS": {
         "en-US": "[Gushaar]\nYeah, that's what\nI wanted to see. Good,\nyou're the one I've been\nwaiting here for. Alright,\njust give me a second...",
         "pt-BR": "[Gushaar]\nSim, era isso o que\neu queria ver. Bem,\nvocê é quem eu estava\nesperando. Certo,\nsó um segundo...",
-        "es-ES": "[Gushaar]\nSí, eso es lo que\nquería ver. Bien,\neres tú a quien\nesperaba aquí. Muy bien,\nsolo dame un segundo…"
+        "es-ES": "[Gushaar]\nSí, eso es lo que\nquería ver. Bien,\neres tú a quien\nesperaba aquí. Muy bien,\nsolo dame un segundo..."
     },
     "xZLS": {
         "en-US": "[Gushaar]\nHey... Umm...\nAren't you supposed\nto be carrying some\nsort of secret something?\nI'd tell you want it was if we\nweren't so, well, secretive.",
         "pt-BR": "[Gushaar]\nEi... humm...\nVocê não deveria\nestar levando alguma\ncoisa do tipo... secreta?\nEu diria o que é se nós não fossemos \nassim tão, bem, cheios de segredos.",
-        "es-ES": "[Gushaar]\nOye… Mmm…\n¿No tendrías que\nllevar un objeto\nsecreto o algo así?\nTe diría lo que es si no\nfuéramos tan, eh, reservados."
+        "es-ES": "[Gushaar]\nOye... Mmm...\n¿No tendrías que\nllevar un objeto\nsecreto o algo así?\nTe diría lo que es si no\nfuéramos tan, eh, reservados."
     },
     "xpLS": {
         "en-US": "[Gushaar]\nHuh?! Oh geez, I almost\nnever make this mistake.\nI'm sorry, I thought you might\nhave been someone else.",
@@ -677,7 +677,7 @@
     "x5LS": {
         "en-US": "[Gushaar]\nBlue...? Huh.\nThat shouldn't be\nthe one you want.\nWell, if you're who\nI think you are... Are you?",
         "pt-BR": "[Gushaar]\nAzul...? Humm.\nEssa não deveria ser\naquela que você quer.\nBem, se você for\naquele que eu penso que é... é você?",
-        "es-ES": "[Gushaar]\n¿Azul…? Mm.\nEse no debería ser\nel que quieres.\nBueno, si eres quien\ncreo que eres… ¿Lo eres?"
+        "es-ES": "[Gushaar]\n¿Azul...? Mm.\nEse no debería ser\nel que quieres.\nBueno, si eres quien\ncreo que eres... ¿Lo eres?"
     },
     "yJLS": {
         "en-US": "[Gushaar]\nAlright, first of all,\nyou should know why the\nRekenber Corporation is\nour sworn enemy. Did you\nknow that it basically controls\nthe Schwartzwald Republic?",
@@ -692,7 +692,7 @@
     "ypLS": {
         "en-US": "[Gushaar]\nRekenber Corporation...\nThey've even got a hold on\nall the other companies, simply\nby bribing politicians to pass\nthe bills they want passed.\nThis isn't a real republic...",
         "pt-BR": "[Gushaar]\nA Corporação Rekenber...\nEla até consegue tolher\ntodas as outras empresas simplesmente\nsubornando os políticos para passarem\nas leis que ela quer que passe.\nUma república de verdade não pode ser assim...",
-        "es-ES": "[Gushaar]\nLa Corporación Rekenber…\nIncluso consiguieron convencer a\ntodas las demás empresas simplemente\nsobornando a los políticos para que aprueben\nlos proyectos de ley que ellos prefieren.\nEsta no es una verdadera república…"
+        "es-ES": "[Gushaar]\nLa Corporación Rekenber...\nIncluso consiguieron convencer a\ntodas las demás empresas simplemente\nsobornando a los políticos para que aprueben\nlos proyectos de ley que ellos prefieren.\nEsta no es una verdadera república..."
     },
     "y5LS": {
         "en-US": "[Gushaar]\nThe ultimate goal of our\ngroup, ''Secret Wing,'' is to\nestablish true independence\nin the Schwartzwald Republic\nby destroying Rekenber Corporation.",
@@ -727,7 +727,7 @@
     "0ZLS": {
         "en-US": "[Gushaar]\nRekenber...\nI shall see your\ndestruction if it's the\nvery last thing I do!",
         "pt-BR": "[Gushaar]\nRekenber...\nEu ainda vou ver\na sua destruição nem que seja\na última coisa que eu faça!",
-        "es-ES": "[Gushaar]\nRekenber…\n¡Los veré caer\naunque sea lo último\nque haga en la vida!"
+        "es-ES": "[Gushaar]\nRekenber...\n¡Los veré caer\naunque sea lo último\nque haga en la vida!"
     },
     "0pLS": {
         "en-US": "Secretary",
@@ -752,7 +752,7 @@
     "1pLS": {
         "en-US": "W-who are you...?",
         "pt-BR": "Q-Quem é você...?",
-        "es-ES": "¿Q-quién es usted…?"
+        "es-ES": "¿Q-quién es usted...?"
     },
     "15LS": {
         "en-US": "[Hes O'Neil]\nSince this is an\nimportant government\nbuilding, please keep\nin mind that certain areas,\nmonitored by guards, are\noff limits to visitors.",
@@ -797,7 +797,7 @@
     "35LS": {
         "en-US": "[Hes O'Neil]\nHmm...?\nI'm the personal\nsecretary to the\npresident of the\nSchwartzwald Republic,\nif that's what you mean.",
         "pt-BR": "[Hes O'Neil]\nHmm...?\nEu sou a secretária\npessoal do \npresidente da\nrepública de Schwartzwald,\nse é isso que quer saber.",
-        "es-ES": "[Hes O'Neil]\n¿Mmm…?\nSoy la secretaria\npersonal del\npresidente de la\nRepública de Schwarzwald,\nsi se refiere a eso."
+        "es-ES": "[Hes O'Neil]\n¿Mmm...?\nSoy la secretaria\npersonal del\npresidente de la\nRepública de Schwarzwald,\nsi se refiere a eso."
     },
     "4JLS": {
         "en-US": "Show Secret Wing Card.",
@@ -822,17 +822,17 @@
     "5JLS": {
         "en-US": "[Hes O'Neil]\nOh... I see.\nThe president has\nbeen expecting you.\nPlease, right this way.",
         "pt-BR": "[Hes O'Neil]\nAh... Entendo.\nO presidente está \nesperando você.\nPor favor, por aqui.",
-        "es-ES": "[Hes O'Neil]\nAh… Ya veo.\nEl presidente\nse reunirá con usted.\nSígame, por favor."
+        "es-ES": "[Hes O'Neil]\nAh... Ya veo.\nEl presidente\nse reunirá con usted.\nSígame, por favor."
     },
     "5ZLS": {
         "en-US": "[Hes O'Neil]\nOh... I see.\nI'm sorry, but you've\ncome too early for your\nappointment. Would you\ncome back to see the\npresident later?",
         "pt-BR": "[Hes O'Neil]\nAh... Entendo.\nDesculpe-me, mas você \nchegou muito cedo para \nsua reunião. Poderia\nvoltar mais tarde\npara ver o presidente?",
-        "es-ES": "[Hes O'Neil]\nAh… Ya veo.\nLo siento, pero llegó \ndemasiado temprano\na la cita. ¿Quisiera\nvolver más tarde\npara ver al presidente?"
+        "es-ES": "[Hes O'Neil]\nAh... Ya veo.\nLo siento, pero llegó \ndemasiado temprano\na la cita. ¿Quisiera\nvolver más tarde\npara ver al presidente?"
     },
     "5pLS": {
         "en-US": "^3355FFWait a second...\nYou don't seem to\nbe carrying your\n''Secret Wing''\nMembership Card.^000000",
         "pt-BR": "^3355FFEspere um pouco...\nParece que você não\nestá levando o \nseu Cartão de Filiação do\n''Vento Secreto''^000000.",
-        "es-ES": "^3355FFEspera un segundo…\nNo parece\nque lleves tu\nTarjeta de Membresía\ndel Viento Secreto.^000000"
+        "es-ES": "^3355FFEspera un segundo...\nNo parece\nque lleves tu\nTarjeta de Membresía\ndel Viento Secreto.^000000"
     },
     "55LS": {
         "en-US": "[Hes O'Neil]\nAlright, let me see.\nMay I please have your\nname so that I can look\nit up in today's schedule.",
@@ -847,7 +847,7 @@
     "6ZLS": {
         "en-US": "[Hes O'Neil]\nThen please...",
         "pt-BR": "[Hes O'Neil]\nPor favor...",
-        "es-ES": "[Hes O'Neil]\nEntonces…"
+        "es-ES": "[Hes O'Neil]\nEntonces..."
     },
     "6pLS": {
         "en-US": "Follow me this way, sir.",
@@ -882,7 +882,7 @@
     "8JLS": {
         "en-US": "[Hes O'Neil]\nHm? I thought the\npresident was supposed\nto give you some kind of\nfile, but perhaps I was\nmistaken? Let me think...",
         "pt-BR": "[Hes O'Neil]\nHm? Eu achei que o\npresidente lhe daria\nalgum tipo de \narquivo, mas talvez eu \nesteja enganada! Deixe-me ver...",
-        "es-ES": "[Hes O'Neil]\n¿Eh? Pensé que la idea era\nque el presidente le diera\nalgún tipo de expediente,\npero, tal vez, me\nequivoqué. Déjeme pensar…"
+        "es-ES": "[Hes O'Neil]\n¿Eh? Pensé que la idea era\nque el presidente le diera\nalgún tipo de expediente,\npero, tal vez, me\nequivoqué. Déjeme pensar..."
     },
     "8ZLS": {
         "en-US": "[Hes O'Neil]\nI'm sorry, but the\npresident is currently\noutside on business.\nPlease come back to\nvisit him another time.",
@@ -907,22 +907,22 @@
     "9ZLS": {
         "en-US": "[Hes O'Neil]\nI'm sorry, but the\npresident is too busy\nto see anyone right now...",
         "pt-BR": "[Hes O'Neil]\nDesculpe-me, parece que o presidente quer um pouco de privacidade.",
-        "es-ES": "[Hes O'Neil]\nLo siento, pero el\npresidente está demasiado ocupado\npara ver a alguien ahora mismo…"
+        "es-ES": "[Hes O'Neil]\nLo siento, pero el\npresidente está demasiado ocupado\npara ver a alguien ahora mismo..."
     },
     "9pLS": {
         "en-US": "[{0}]\nOh, yeah?\nWhy don't you take\na look at this file.\nThis might help you\nreevaluate things...",
         "pt-BR": "[{0}]\nTenho certeza que ele irá mudar de idéia com esta informação.",
-        "es-ES": "[{0}]\n¿Ah, sí?\n¿Por qué no echa\nun vistazo a este expediente?\nCreo que la ayudará \na reevaluar las cosas…"
+        "es-ES": "[{0}]\n¿Ah, sí?\n¿Por qué no echa\nun vistazo a este expediente?\nCreo que la ayudará \na reevaluar las cosas..."
     },
     "95LS": {
         "en-US": "[Hes O'Neil]\nFine. I'll take\na look. Let's see\nwhat's in here...\nOh! Oh, my goodness...",
         "pt-BR": "[Hes O'Neil]\n...............\nÉ alguma coisa importante?",
-        "es-ES": "[Hes O'Neil]\nEstá bien. Le echaré \nun vistazo. Veamos\nqué hay aquí…\n¡Oh! Oh, por todos los dioses…"
+        "es-ES": "[Hes O'Neil]\nEstá bien. Le echaré \nun vistazo. Veamos\nqué hay aquí...\n¡Oh! Oh, por todos los dioses..."
     },
     "+JLS": {
         "en-US": "[Hes O'Neil]\nR-right this way...\nThe president will\nbe right with you.",
         "pt-BR": "[Hes O'Neil]\nOK, siga-me por favor.\n*Sussurro* Espero que você ajude nessa missão.",
-        "es-ES": "[Hes O'Neil]\nP-por aquí…\nEl presidente\nya estará con usted."
+        "es-ES": "[Hes O'Neil]\nP-por aquí...\nEl presidente\nya estará con usted."
     },
     "+ZLS": {
         "en-US": "[Hes O'Neil]\nOh, it's you. I'm sure\nthat the president always\nhas the time to see you.",
@@ -942,17 +942,17 @@
     "/JLS": {
         "en-US": "[Guard]\nPlease wait a moment.\nCurrently, the president\nis seeing another guest.\nThank you for your patience.",
         "pt-BR": "[Guarda]\nPor favor, aguarde.\nNo momento, o presidente\nestá atendendo outra pessoa.\nObrigado pela sua paciência.",
-        "es-ES": "[Guardia]\nEspere un momento…\nEn este momento, el presidente\nestá reunido con alguien más.\nGracias por su paciencia."
+        "es-ES": "[Guardia]\nEspere un momento...\nEn este momento, el presidente\nestá reunido con alguien más.\nGracias por su paciencia."
     },
     "/ZLS": {
         "en-US": "[?????]\nI see.\nThen...",
         "pt-BR": "[?????]\nÉ claro.\nEntão...",
-        "es-ES": "[???]\nYa veo.\nEntonces…"
+        "es-ES": "[???]\nYa veo.\nEntonces..."
     },
     "/pLS": {
         "en-US": "[????????]\nUmmm....\nUnderstood...\n......",
         "pt-BR": "[????????]\nHummm....\nEntendo...\n......",
-        "es-ES": "[???]\nMmm…\nEntendido…\n......"
+        "es-ES": "[???]\nMmm...\nEntendido...\n......"
     },
     "/5LS": {
         "en-US": "[?????]\n..........",
@@ -1007,7 +1007,7 @@
     "CZPS": {
         "en-US": "Who was that gentleman...?",
         "pt-BR": "Quem era aquele cavalheiro...?",
-        "es-ES": "¿Quién era ese hombre…?"
+        "es-ES": "¿Quién era ese hombre...?"
     },
     "CpPS": {
         "en-US": "[Guard]\nMr. President,",
@@ -1077,7 +1077,7 @@
     "F5PS": {
         "en-US": "[Karl]\nHow did you get in here?\nPlease leave this place\nimmediately! Security...!",
         "pt-BR": "[Karl]\nComo entrou aqui?\nPor favor, saia daqui\nimediatamente! Segurança...!",
-        "es-ES": "[Karl]\n¿Cómo entraste?\n¡Vete de aquí \nde inmediato! ¡Seguridad…!"
+        "es-ES": "[Karl]\n¿Cómo entraste?\n¡Vete de aquí \nde inmediato! ¡Seguridad...!"
     },
     "GJPS": {
         "en-US": "[Karl]\nAh, welcome~\nI understand that you\nmust have had a lot of\ntrouble coming here.\nIt's a pleasure to\nfinally meet you.",
@@ -1087,7 +1087,7 @@
     "GZPS": {
         "en-US": "[Karl]\nAs I'm sure Ghalstein\nhas told you, ''Secret Wing''\nwas formed to overthrow the\nevil Rekenber Corporation.\nNow, I'm sure that you must\nhave some questions for me...",
         "pt-BR": "[Karl]\nComo Ghalstein já deve\nter lhe contado, a ''Vento Secreto''\nfoi formada para acabar com \na maligna Corporação Rekenber.\nPorém, eu imagino que você \nqueira me fazer algumas perguntas...",
-        "es-ES": "[Karl]\nComo seguro Ghalstein\nya te comentó, el ''Viento Secreto''\nse formó para derrocar a la\nmalvada Corporación Rekenber.\nBien, seguro tienes\nalgunas preguntas…"
+        "es-ES": "[Karl]\nComo seguro Ghalstein\nya te comentó, el ''Viento Secreto''\nse formó para derrocar a la\nmalvada Corporación Rekenber.\nBien, seguro tienes\nalgunas preguntas..."
     },
     "GpPS": {
         "en-US": "Secret Wing's Background",
@@ -1212,7 +1212,7 @@
     "MpPS": {
         "en-US": "[Karl]\nHurry and complete\nthe mission given to\nyou by Benith, who is\nin the Kafra Headquarters\nin Al De Baran. It is a very\nurgent, high priority task...",
         "pt-BR": "[Karl]\nSe apresse e complete \na missão dada a você \npela Benith, que está \nna Sede da Corporação Kafra\nem Al De Baran. Isso é uma\ntarefa urgente e de alta prioridade...",
-        "es-ES": "[Karl]\nDate prisa y completa la misión\nque te asignará Benith,\nque está en la sede central de Kafra,\nen Aldebaran.\nEs una misión prioritaria y de suma urgencia…"
+        "es-ES": "[Karl]\nDate prisa y completa la misión\nque te asignará Benith,\nque está en la sede central de Kafra,\nen Aldebaran.\nEs una misión prioritaria y de suma urgencia..."
     },
     "M5PS": {
         "en-US": "[Karl]\nAh, you're here.\nGood work, I hear that\nthe mission was a success.\nAn official success anyway.\n...............................",
@@ -1222,12 +1222,12 @@
     "NJPS": {
         "en-US": "[Karl]\nPoor, dear sweet\nJargeah. Why him?\nMust fate be so cruel\nand harsh? I still can't\nbelieve he's gone. Just\nlast week, we were...",
         "pt-BR": "[Karl]\nMeu pobre amigo\nJargeah. Por que ele?\nO destino tem de ser tão\ncruel? Eu ainda não acredito\nque ele se foi. Semana\npassada, nós estávamos...",
-        "es-ES": "[Karl]\nMi querido y pobre\nJargeah. ¿Por qué a él?\n¿Por qué el destino es tan cruel\ny despiadado? Todavía no puedo\ncreer que ya no esté. Apenas\nla semana pasada, estábamos…"
+        "es-ES": "[Karl]\nMi querido y pobre\nJargeah. ¿Por qué a él?\n¿Por qué el destino es tan cruel\ny despiadado? Todavía no puedo\ncreer que ya no esté. Apenas\nla semana pasada, estábamos..."
     },
     "NZPS": {
         "en-US": "[Karl]\nI'm sorry. You didn't\nknow him that well, but\nall those who did know\nhim, loved him. And I can\nsay that with pride. L-let\nme check the files a minute...",
         "pt-BR": "[Karl]\nDesculpe. Eu não\nconhecia ele tão bem, mas\ntodos aqueles que o conheciam\no adoravam. E eu posso\ndizer isso com orgulho. D-deixe-me\nver os arquivo por um minuto...",
-        "es-ES": "[Karl]\nLo siento. No llegaste\na conocerlo muy bien, pero\ntodos sus allegados\nlo adoraban. Y puedo\ndecirlo con orgullo. D-déjame\nrevisar los expedientes un minuto…"
+        "es-ES": "[Karl]\nLo siento. No llegaste\na conocerlo muy bien, pero\ntodos sus allegados\nlo adoraban. Y puedo\ndecirlo con orgullo. D-déjame\nrevisar los expedientes un minuto..."
     },
     "NpPS": {
         "en-US": "[Karl]\nHm? I was expecting\nfor you to bring me\nback an important file.\nPlease hurry, our entire\norganization is at stake!",
@@ -1262,12 +1262,12 @@
     "PJPS": {
         "en-US": "[Karl]\nI'm sorry, but it's\ntaking me a long time\nto analyze the information\nin this file. A-and Jargeah\nsacrificed himself to get\nit for us. ^333333*Sigh*^000000 Jargeah...",
         "pt-BR": "[Karl]\nMe desculpe, mas\nanalisar as informações desse arquivo\nestá levando mais tempo\ndo que eu imaginava. E... Jargeah\nse sacrificou por esse\narquivo. ^333333*Suspiro*^000000 Jargeah...",
-        "es-ES": "[Karl]\nLo siento, pero\nme está llevando mucho tiempo\nanalizar la información\nde este expediente. Y-y Jargeah\nse sacrificó para hacérnoslo\nllegar. ^333333*Suspira*^000000 Jargeah…"
+        "es-ES": "[Karl]\nLo siento, pero\nme está llevando mucho tiempo\nanalizar la información\nde este expediente. Y-y Jargeah\nse sacrificó para hacérnoslo\nllegar. ^333333*Suspira*^000000 Jargeah..."
     },
     "PZPS": {
         "en-US": "[Karl]\nWhy don't you relax\nwhile I peruse this\nfile? I should be done\nwith this soon, hopefully...",
         "pt-BR": "[Karl]\nDescanse um pouco\nenquanto eu examino esse\narquivo. Eu devo terminar\nlogo... espero...",
-        "es-ES": "[Karl]\n¿Por qué no te relajas\nmientras leo el\nexpediente? Debería terminar\npronto con esto, espero…"
+        "es-ES": "[Karl]\n¿Por qué no te relajas\nmientras leo el\nexpediente? Debería terminar\npronto con esto, espero..."
     },
     "PpPS": {
         "en-US": "[Karl]\nYmir's Heart Pieces?\nIs that what they're\ntrying to collect?\nWhat are they going\nto do with something\nso incredibly dangerous?!",
@@ -1292,7 +1292,7 @@
     "QpPS": {
         "en-US": "[Karl]\nAnd don't worry...\nShe'll know exactly\nwho you are and\nhow to help you.",
         "pt-BR": "[Karl]\nE não se preocupe...\nEla saberá exatamente\nquem é você e\ncomo lhe ajudar.",
-        "es-ES": "[Karl]\nY no te preocupes…\nElla sabrá exactamente\nquién eres y\ncómo ayudarte."
+        "es-ES": "[Karl]\nY no te preocupes...\nElla sabrá exactamente\nquién eres y\ncómo ayudarte."
     },
     "Q5PS": {
         "en-US": "[Karl]\nWe don't know how\nhelpful Shinokas's\ninformation may be for\nus, but we must learn\nanything we can about\nthe Rekenber Corporation.",
@@ -1322,7 +1322,7 @@
     "SJPS": {
         "en-US": "Actually, Shinokas is...",
         "pt-BR": "Realmente, Shinokas é...",
-        "es-ES": "De hecho, Shinokas está…"
+        "es-ES": "De hecho, Shinokas está..."
     },
     "SZPS": {
         "en-US": "[Karl]\nThen it must be\nmy imagination.\nOkay then, go and\nfind Shinokas, he\nmay be in grave\ndanger as we speak!",
@@ -1332,12 +1332,12 @@
     "SpPS": {
         "en-US": "[Karl]\nOh...\nYou've already met\nShinokas, did you?\nYou witnessed his\ndeath?! This is a very\nstrange coincidence.",
         "pt-BR": "[Karl]\nAh...\nVocê realmente já \nconhecia Shinokas, não?\nVocê presenciou sua \nmorte?! Isso é uma coincidência\nmuito estranha.",
-        "es-ES": "[Karl]\nAh…\nYa conocías\na Shinokas, ¿verdad?\n¡¿Fuiste testigo de su \nmuerte?! Se trata de una\nextraña coincidencia."
+        "es-ES": "[Karl]\nAh...\nYa conocías\na Shinokas, ¿verdad?\n¡¿Fuiste testigo de su \nmuerte?! Se trata de una\nextraña coincidencia."
     },
     "S5PS": {
         "en-US": "[Karl]\nI see, there must be\nno need to investigate\nShinokas now. And you\ndid learn the secret for\nwhich he was hunted...",
         "pt-BR": "[Karl]\nEntendo, agora não faz\nmais sentido investigar\nShinokas. E você \nconhece o segredo pelo\nqual ele foi caçado...",
-        "es-ES": "[Karl]\nYa veo, entonces,\nno es necesario investigar\na Shinokas ahora. Y pudiste\ndescubrir el secreto\npor el que le dieron cacería…"
+        "es-ES": "[Karl]\nYa veo, entonces,\nno es necesario investigar\na Shinokas ahora. Y pudiste\ndescubrir el secreto\npor el que le dieron cacería..."
     },
     "TJPS": {
         "en-US": "[Guard]\nMr. President,\nMs. Hes O' Neil has an\nurgent message for you.",
@@ -1347,7 +1347,7 @@
     "TZPS": {
         "en-US": "[Karl]\nHmm...\nThen please,\nlet her in.",
         "pt-BR": "[Karl]\nHmm...\nPor favor,\ndeixe-a entrar.",
-        "es-ES": "[Karl]\nMmm…\nEntonces,\nhazla pasar."
+        "es-ES": "[Karl]\nMmm...\nEntonces,\nhazla pasar."
     },
     "TpPS": {
         "en-US": "[Hes O'Neil]\nSir, I'm sorry\nfor interrupting\nyou, but there's\nsomething I need to\nshow you immediately!",
@@ -1357,7 +1357,7 @@
     "T5PS": {
         "en-US": "[Karl]\nAlright, let's\nhave it. Let me\nsee those new files.\nOh, these are--! Thank\nyou, Ms. O' Neil, you\nmay leave now.",
         "pt-BR": "[Karl]\nCerto, passe\npara mim. Deixe-me\nver esses novos arquivos.\nOh, esses são...! Obrigado,\nSra. O' Neil,\npode sair agora.",
-        "es-ES": "[Karl]\nMuy bien,\nveamos. Veamos\nesos nuevos expedientes.\n¡Oh, estos son…! Gracias,\nseñorita O'Neil. Ya puedes\nretirarte."
+        "es-ES": "[Karl]\nMuy bien,\nveamos. Veamos\nesos nuevos expedientes.\n¡Oh, estos son...! Gracias,\nseñorita O'Neil. Ya puedes\nretirarte."
     },
     "UJPS": {
         "en-US": "[Hes O'Neil]\nThank you sir.\nOnce again, let me\napologize for disturbing\nyour private conference.",
@@ -1367,7 +1367,7 @@
     "UZPS": {
         "en-US": "[Karl]\nAlright. Please let me\nreview these documents\nto see if there are any\nnew developments in the\ninvestigation involving\nShinokas and his secret...",
         "pt-BR": "[Karl]\nBem. Preciso\nrever esses documentos\npara ver se não há \nnenhuma informação nova\nnas investigações sobre\nShinokas e seu segredo...",
-        "es-ES": "[Karl]\nEstá bien. Déjame revisar\nestos documentos\npara comprobar si hay\nalgún avance en la\ninvestigación sobre\nShinokas y su secreto…"
+        "es-ES": "[Karl]\nEstá bien. Déjame revisar\nestos documentos\npara comprobar si hay\nalgún avance en la\ninvestigación sobre\nShinokas y su secreto..."
     },
     "UpPS": {
         "en-US": "[Karl]\nAlright, I just\ncompleted reading\nall of these new reports\nfrom our field agents.\nThank you for waiting.",
@@ -1392,7 +1392,7 @@
     "VpPS": {
         "en-US": "[Karl]\nAh, you're here.\nI've already received a\nmessage from Esuna\nabout your success.\nIf you would, please\nlet me read the file...",
         "pt-BR": "[Karl]\nEspero que continue\nfazendo um bom\ntrabalho, não apenas para\no bem da República de\nSchwartzwald, mas pela paz\nde toda Rune-Midgard.",
-        "es-ES": "[Karl]\nAh, estás aquí.\nYa recibí un\nmensaje de Esuna\nen el que me informó que tuviste éxito.\nSi es posible,\ndéjame leer el expediente…"
+        "es-ES": "[Karl]\nAh, estás aquí.\nYa recibí un\nmensaje de Esuna\nen el que me informó que tuviste éxito.\nSi es posible,\ndéjame leer el expediente..."
     },
     "V5PS": {
         "en-US": "[Karl]\nAh, now everything is\nclearer. Shinokas and his\nfriends were killed over\nthat piece of Ymir's Heart.\nThat's what the Rekenber\nCorporation ulimately wants.",
@@ -1402,7 +1402,7 @@
     "WJPS": {
         "en-US": "[Karl]\nBut this raises some\nnew questions. What\nare they planning to\ndo with Ymir's Heart?\nIt must be more powerful\nthan we had thought...",
         "pt-BR": "[Karl]\nMas isso levanta algumas\nquestões novas. O que\neles estão planejando\nfazer com o Coração de Ymir?\nEle deve ser mais poderoso\ndo que pensávamos...",
-        "es-ES": "[Karl]\nPero, ante esto,\nsurgen nuevas dudas. ¿Qué \nplanean hacer\ncon el Corazón de Ymir?\nDebe ser más poderoso\nde lo que habíamos pensado…"
+        "es-ES": "[Karl]\nPero, ante esto,\nsurgen nuevas dudas. ¿Qué \nplanean hacer\ncon el Corazón de Ymir?\nDebe ser más poderoso\nde lo que habíamos pensado..."
     },
     "WZPS": {
         "en-US": "[Karl]\nWe'll need even more\ninformation. For now,\nplease go back to Esuna.\nIt seems that she just\nreceived some critically\nimportant intel to give you.",
@@ -1417,7 +1417,7 @@
     "W5PS": {
         "en-US": "[Karl]\nPlease hurry and meet\nEsuna just outside of\nLighthalzen. Perhaps I am\ngetting paranoid, but I keep\ngetting the feeling that\nRekenber is on to us...",
         "pt-BR": "[Karl]\nPor favor, apresse-se e encontre\nEsuna logo, na saída de \nLighthalzen. Talvez eu esteja\nficando paranóico, mas eu tenho\na sensação de que a Rekenber\nestá bem em cima da gente...",
-        "es-ES": "[Karl]\nDate prisa y reúnete con\nEsuna en las afueras de\nLighthalzen. Tal vez me estoy\nvolviendo paranoico, pero\nsigo teniendo la sensación de que\nRekenber ya nos descubrió…"
+        "es-ES": "[Karl]\nDate prisa y reúnete con\nEsuna en las afueras de\nLighthalzen. Tal vez me estoy\nvolviendo paranoico, pero\nsigo teniendo la sensación de que\nRekenber ya nos descubrió..."
     },
     "XJPS": {
         "en-US": "[Karl]\nAh, good to see you\nagain. I hear you have\nsome important news for\nme, something of the utmost\nurgency. But I fear the worst.",
@@ -1432,12 +1432,12 @@
     "XpPS": {
         "en-US": "[Karl]\nWhat...?\nI can't believe this!\nHow can our security\nbe breached like this?!\nOnly someone from\nreally deep inside could...",
         "pt-BR": "[Karl]\nQuê...?\nNão acredito nisso!\nComo nossa segurança\npôde ter uma falha desse tipo?!\nSomente alguém realmente\nmuito de dentro poderia...",
-        "es-ES": "[Karl]\n¿Qué…?\n¡No puedo creerlo!\n¡¿Cómo es posible que violaran\nnuestra seguridad de esta forma?!\nSolo alguien de mucha autoridad\npodría haberlo hecho…"
+        "es-ES": "[Karl]\n¿Qué...?\n¡No puedo creerlo!\n¡¿Cómo es posible que violaran\nnuestra seguridad de esta forma?!\nSolo alguien de mucha autoridad\npodría haberlo hecho..."
     },
     "X5PS": {
         "en-US": "[Karl]\nPlease...\nWould you go and\nspeak to Esuna one\nmore time? I need to\nknow more about how\nall of this happened...",
         "pt-BR": "[Karl]\nPor favor...\nVocê poderia ir\nfalar com Esuna mais\numa vez? Eu preciso\nsaber mais sobre como\ntudo isso aconteceu...",
-        "es-ES": "[Karl]\nPor favor…\n¿Puedes ir a\nhablar con Esuna una\nvez más? Necesito\naveriguar cómo\nsucedió todo esto…"
+        "es-ES": "[Karl]\nPor favor...\n¿Puedes ir a\nhablar con Esuna una\nvez más? Necesito\naveriguar cómo\nsucedió todo esto..."
     },
     "YJPS": {
         "en-US": "[Karl]\nYou don't have the\nfile? Retrieve it for\nme as soon as you can.\nIt's imperative that I read\nwhat Esuna has to report!",
@@ -1447,12 +1447,12 @@
     "YZPS": {
         "en-US": "[Karl]\nNo...\nI can't...\nKurelle? We've\nworked together,\ntrusted each other\nfor years. No, it's not....",
         "pt-BR": "[Karl]\nNão...\nEu não...\nKurelle? Faz anos que\nnós trabalhamos\njuntos... confiamos\num no outro. Não, isso não...",
-        "es-ES": "[Karl]\nNo…\nNo puedo…\n¿Kurelle? Hemos\ntrabajado juntos,\ny confiado en el otro\ndurante años. No, no es…"
+        "es-ES": "[Karl]\nNo...\nNo puedo...\n¿Kurelle? Hemos\ntrabajado juntos,\ny confiado en el otro\ndurante años. No, no es..."
     },
     "YpPS": {
         "en-US": "[Karl]\nIf it's true, then\nthat means I've been\nplaying into the enemy's\nhands this whole time.\nI've... I've got to know\nand ask Kurelle myself.",
         "pt-BR": "[Karl]\nSe for verdade, então\nisso significa que todo\nesse tempo eu fui uma marionete\nnas mãos do inimigo.\nEu... Eu preciso saber\ne perguntar pessoalmente a Kurelle.",
-        "es-ES": "[Karl]\nSi es la verdad,\neso significa que estuve\njugando a favor del enemigo\ntodo este tiempo.\nTengo… Tengo que saber por qué \ny preguntárselo a Kurelle yo mismo."
+        "es-ES": "[Karl]\nSi es la verdad,\neso significa que estuve\njugando a favor del enemigo\ntodo este tiempo.\nTengo... Tengo que saber por qué \ny preguntárselo a Kurelle yo mismo."
     },
     "Y5PS": {
         "en-US": "[Karl]\nO'Neil!\nBring Kurelle in\nhere, right now!",
@@ -1462,7 +1462,7 @@
     "ZJPS": {
         "en-US": "[Hes O'Neil]\n...Yes, sir.\nRight away.",
         "pt-BR": "[Hes O'Neil]\n...Sim, senhor.\nImediatamente.",
-        "es-ES": "[Hes O'Neil]\n…Sí, señor.\nEnseguida."
+        "es-ES": "[Hes O'Neil]\n...Sí, señor.\nEnseguida."
     },
     "ZZPS": {
         "en-US": "[Guard]\nAdvisor Kurelle\nis here now.",
@@ -1477,7 +1477,7 @@
     "Z5PS": {
         "en-US": "[Guard]\n...............?\nYes, sir...",
         "pt-BR": "[Guarda]\n...............?\nSim, senhor...",
-        "es-ES": "[Guardia]\n¿...............?\nSí, señor…"
+        "es-ES": "[Guardia]\n¿...............?\nSí, señor..."
     },
     "aJPS": {
         "en-US": "[Kurelle]\nHello, Mr. President.\nWhat exactly did you\nneed from me today?",
@@ -1487,7 +1487,7 @@
     "aZPS": {
         "en-US": "[Karl]\n...........\n.......\n...",
         "pt-BR": "[Karl]\n...........\n.......\n...",
-        "es-ES": "[Karl]\n...........\n.......\n…"
+        "es-ES": "[Karl]\n...........\n.......\n..."
     },
     "apPS": {
         "en-US": "[Kurelle]\n???\n.......",
@@ -1497,12 +1497,12 @@
     "a5PS": {
         "en-US": "[Karl]\nDid you...\nWhy did you betray us?!\nAfter all this time, why now?",
         "pt-BR": "[Karl]\nVocê...\nPorque você nos traiu?!\nDepois de todos esses anos, por que agora?",
-        "es-ES": "[Karl]\n¿Por qué…?\n¡¿Por qué nos traicionaste?!\nDespués de tanto tiempo, ¿por qué ahora?"
+        "es-ES": "[Karl]\n¿Por qué...?\n¡¿Por qué nos traicionaste?!\nDespués de tanto tiempo, ¿por qué ahora?"
     },
     "bJPS": {
         "en-US": "[Kurelle]\n...\n......\nSo you know.\nWell, you're smarter\nthan I gave you credit for.",
         "pt-BR": "[Kurelle]\n...\n......\nEntão, você sabe.\nBem, você foi mais esperto\ndo que eu achava que fosse.",
-        "es-ES": "[Kurelle]\n…\n......\nAsí que ya lo sabes.\nBueno, eres más astuto\nde lo que creía."
+        "es-ES": "[Kurelle]\n...\n......\nAsí que ya lo sabes.\nBueno, eres más astuto\nde lo que creía."
     },
     "bZPS": {
         "en-US": "[Kurelle]\nHa ha ha~\nRight, it was me.\nYour right hand man.\nI reported everything\nyou were doing to the\nRekenber Corporation.",
@@ -1512,7 +1512,7 @@
     "bpPS": {
         "en-US": "[Karl]\nBut why...?\nI thought we were\nworking together for\nthe greater good, to\ndo the right thing?",
         "pt-BR": "[Karl]\nMas por quê...?\nEu achava que estávamos\ntrabalhando juntos para \num bem maior, para \nfazer a coisa certa!?",
-        "es-ES": "[Karl]\n¿Pero por qué…?\nCreí que\ntrabajábamos juntos por\nel bien común, para\nhacer lo correcto…"
+        "es-ES": "[Karl]\n¿Pero por qué...?\nCreí que\ntrabajábamos juntos por\nel bien común, para\nhacer lo correcto..."
     },
     "b5PS": {
         "en-US": "[Kurelle]\nForget that! I'm sick\nof being second place\nto you. All our lives, you've\nalways been on top. School,\nathletics, politics. Well, here's my chance to finally beat you!",
@@ -1522,7 +1522,7 @@
     "cJPS": {
         "en-US": "[Karl]\nI can't believe this. All\nthose years of friendship\nwere all a lie? We even\njoined Secret Wing together.\nThis whole time, you were\nharboring a silly grudge...",
         "pt-BR": "[Karl]\nNão posso acreditar nisso. Todos\nesses anos de amizade\nforam uma mentira? Nós até \nentramos juntos no Vento Secreto.\nEsse tempo todo, você \nescondia uma inveja tola...",
-        "es-ES": "[Karl]\nNo puedo creerlo. ¿Todos\nesos años de amistad\nfueron mentira? Hasta\nnos unimos al Viento Secreto.\nTodo este tiempo, albergabas\nese absurdo rencor…"
+        "es-ES": "[Karl]\nNo puedo creerlo. ¿Todos\nesos años de amistad\nfueron mentira? Hasta\nnos unimos al Viento Secreto.\nTodo este tiempo, albergabas\nese absurdo rencor..."
     },
     "cZPS": {
         "en-US": "[Kurelle]\nShut up! It's not a\nsilly grudge! ...You there.\nAdventurer. Can't you see\nthis man is finished?! But\nit's not too late. Join us.\nRekenber could use you.",
@@ -1552,7 +1552,7 @@
     "dpPS": {
         "en-US": "[Karl]\nOh, it's you...!\nIt's really nice to\nhave you come visit me\nagain. Though, I doubt\nthat you're come merely\nto pass the time away...",
         "pt-BR": "[Karl]\nAh, é você...!\nÉ muito bom vê-lo novamente.",
-        "es-ES": "[Karl]\n¡Ah, eres tú…!\nMe alegra mucho\nque vengas a visitarme\nde nuevo. Aunque dudo\nque vengas nada más que\na pasar el rato…"
+        "es-ES": "[Karl]\n¡Ah, eres tú...!\nMe alegra mucho\nque vengas a visitarme\nde nuevo. Aunque dudo\nque vengas nada más que\na pasar el rato..."
     },
     "d5PS": {
         "en-US": "[{0}]\nSir, let me ask you\none question: are you still\nwilling to fight the Rekenber\nCorporation and free the\nSchwartzwald Republic?",
@@ -1562,7 +1562,7 @@
     "eJPS": {
         "en-US": "[Karl]\nWhy... Of course.\nBut since Secret Wing\nhas disbanded, it seems\nthat Rekenber has the upper\nhand. Lately, I've been\nnothing but their puppet...",
         "pt-BR": "[Karl]\nFilho, não posso dizer isso com certeza.\nDesde que nosso Vento Secreto se desfez, sinto-me como\numa marionette, controlada por eles, assim como os outros presidentes.",
-        "es-ES": "[Karl]\n¿Por qué…? Por supuesto.\nPero, desde que el Viento Secreto\nse disolvió, parece\nque Rekenber tiene toda\nla ventaja. En este último tiempo,\nno fui más que su marioneta…"
+        "es-ES": "[Karl]\n¿Por qué...? Por supuesto.\nPero, desde que el Viento Secreto\nse disolvió, parece\nque Rekenber tiene toda\nla ventaja. En este último tiempo,\nno fui más que su marioneta..."
     },
     "eZPS": {
         "en-US": "[{0}]\nA while ago, I met a former\nscientist that worked in\nRegenschirm. Together,\nwe stole their research, and\ndestroyed some of their\nexperimental machinery.",
@@ -1582,17 +1582,17 @@
     "fJPS": {
         "en-US": "[Karl]\nYes, yes...\nYou can count on me.\nI may have been in despair\nfor a while, but you've managed\nto rekindle my hopes. Of course,^FFFFFF  ^000000 I'll use any means to help you.",
         "pt-BR": "[Karl]\nEu juro, por esta faixa que uso, como Presidente da República de Schwartzwald.\nMeus planos foram frustrados no passado, mas esta chama jamais se apagou de verdade. \nE ela está mais acesa que nunca agora, que temos uma chance de vencer!",
-        "es-ES": "[Karl]\nSí, sí…\nCuenta conmigo.\nQuizá haya perdido\nla esperanza durante un tiempo,\npero se reavivó gracias a ti. Por supuesto,^FFFFFF ^000000 haré lo que esté a mi alcance para ayudarte."
+        "es-ES": "[Karl]\nSí, sí...\nCuenta conmigo.\nQuizá haya perdido\nla esperanza durante un tiempo,\npero se reavivó gracias a ti. Por supuesto,^FFFFFF ^000000 haré lo que esté a mi alcance para ayudarte."
     },
     "fZPS": {
         "en-US": "[Karl]\nThis is why I became\npresident: I want to fulfill\nmy dream of rooting out\ncorruption in this country.\nYes, there are still a few^FFFFFF        ^000000 Secret Wing members out there...",
         "pt-BR": "[Karl]\nEu me lembro do dia em que decide que acabaria com toda a\ncorrupção e trazer a prosperidade para este país novamente.\nMe sinto envergonhado de ter deixado essa lembrança de lado.",
-        "es-ES": "[Karl]\nPor eso, me convertí en\nel presidente: quiero cumplir\nmi sueño de eliminar\nla corrupción en este país.\nSí, todavía hay algunos miembros del^FFFFFF ^000000Viento Secreto por ahí…"
+        "es-ES": "[Karl]\nPor eso, me convertí en\nel presidente: quiero cumplir\nmi sueño de eliminar\nla corrupción en este país.\nSí, todavía hay algunos miembros del^FFFFFF ^000000Viento Secreto por ahí..."
     },
     "fpPS": {
         "en-US": "[Karl]\nI really think that\nit might be possible...\nYes, we can really expose\nRekenber's evils to the world!\nI almost can't believe it...",
         "pt-BR": "[Karl]\nAcho que sei de uma forma de re-estabelecer o Vento Secreto.\nPreciso encontrar alguns repórteres que não tenham sofrido a influência de Rekember.\nVou falar em cadeia nacional e revelar a verdade sobre a corporação!",
-        "es-ES": "[Karl]\nRealmente, creo que\npodría ser posible…\n¡Sí! ¡Podemos exponer\nlos males de Rekenber al mundo!\nCasi no puedo creerlo…"
+        "es-ES": "[Karl]\nRealmente, creo que\npodría ser posible...\n¡Sí! ¡Podemos exponer\nlos males de Rekenber al mundo!\nCasi no puedo creerlo..."
     },
     "f5PS": {
         "en-US": "[Karl]\nYour work is truly a godsend\nto our cause. Please, take this\nsmall reward for your troubles,\nand leave the rest to me.\nHopefully, we will win with\nthe truth on our side!",
@@ -1602,11 +1602,11 @@
     "gJPS": {
         "en-US": "[{0}]\nW-wait, wait...\nThere are some\ndocuments that I need\nto give to the president.\nNow, where did I put them?",
         "pt-BR": "[Karl]\nObrigado. Vamos ver o que temos aqui...*Procura procura*",
-        "es-ES": "[{0}]\nE-espera, espera…\nHay algunos\ndocumentos que tengo\nque entregar al presidente.\nBien, ¿dónde los puse?"
+        "es-ES": "[{0}]\nE-espera, espera...\nHay algunos\ndocumentos que tengo\nque entregar al presidente.\nBien, ¿dónde los puse?"
     },
     "gZPS": {
         "en-US": "[Karl]\nWhen you stole that\nmaster copy of research from\nRegenschirm, it completely\nstopped work in their labs.\nIt's more than I could\nhave hoped for.",
-        "pt-BR": "[Karl]\nNossa! Isso… É inacreditável! Você vez descobertas incríveis, filho!",
+        "pt-BR": "[Karl]\nNossa! Isso... É inacreditável! Você vez descobertas incríveis, filho!",
         "es-ES": "[Karl]\nCuando robaste esa\ncopia maestra de la investigación de\nRegenschirm, detuvieron completamente\nel trabajo de sus laboratorios.\nEs más de lo que podría\nhaber soñado."
     },
     "gpPS": {
@@ -1622,27 +1622,27 @@
     "hJPS": {
         "en-US": "^3355FFWhat the...?\nYou can hear\nwhispers coming\nfrom the window.^000000",
         "pt-BR": "^3355FFO quê...?\nVocê pode escutar\nsussurros vindo\nda janela.^000000",
-        "es-ES": "^3355FF¿Pero qué…?\nPuedes oír\nsusurros que vienen\nde la ventana.^000000"
+        "es-ES": "^3355FF¿Pero qué...?\nPuedes oír\nsusurros que vienen\nde la ventana.^000000"
     },
     "hZPS": {
         "en-US": "[????]\n^333333That's expected...\nBut... Why did...\n... the president...^000000",
         "pt-BR": "[????]\n^333333Isso era esperado...\nMas... Porque foi...\n... o presidente...^000000",
-        "es-ES": "[???]\n^333333Era de esperarse…\nPero… ¿Por qué…\n…el presidente…^000000"
+        "es-ES": "[???]\n^333333Era de esperarse...\nPero... ¿Por qué...\n...el presidente...^000000"
     },
     "hpPS": {
         "en-US": "[?????]\n^666666.......So...................\n...their investigation...\n............of course.........\n...just bait...................^000000",
         "pt-BR": "[?????]\n^666666.......Então...................\n...a investigação deles...\n............É claro.........\n...morderam a isca...................^000000",
-        "es-ES": "[???]\n^666666…Entonces…\n…su investigación…\n…por supuesto…\n…es un señuelo…^000000"
+        "es-ES": "[???]\n^666666...Entonces...\n...su investigación...\n...por supuesto...\n...es un señuelo...^000000"
     },
     "h5PS": {
         "en-US": "[????]\n^333333...Next election.....\n..............................\n....you'll be................\n...............Can't stop us.^000000",
         "pt-BR": "[????]\n^333333...Próxima eleição.....\n..............................\n....você será................\n...............Não poderá nos impedir.^000000",
-        "es-ES": "[???]\n^333333…Próxima elección…\n..............................\n…serás…\n…No pueden detenernos.^000000"
+        "es-ES": "[???]\n^333333...Próxima elección...\n..............................\n...serás...\n...No pueden detenernos.^000000"
     },
     "iJPS": {
         "en-US": "^3355FFThe whispers grow\nlower and lower until\nyou can no longer hear\nanything. One of those\nvoices seemed so familiar...^000000",
         "pt-BR": "^3355FFOs sussurros vão\ndiminuindo até \nvocê não poder mais escutar\nnada. Uma das vozes\nparece bastante familiar...^000000",
-        "es-ES": "^3355FFLos susurros se hacen\ncada vez más bajos hasta que\nya no puedes oír\nni una palabra. Una de esas\nvoces sonaba muy familiar…^000000"
+        "es-ES": "^3355FFLos susurros se hacen\ncada vez más bajos hasta que\nya no puedes oír\nni una palabra. Una de esas\nvoces sonaba muy familiar...^000000"
     },
     "iZPS": {
         "en-US": "Kafra Employee",
@@ -1707,7 +1707,7 @@
     "lZPS": {
         "en-US": "[Kafra Employee]\nThis new program will\nprovide a direct teleport\nservice to dungeons for\nthe convenience of our\nvalued customers. Is\nthat not... exciting?",
         "pt-BR": "[Kafra Recepcionista]\nEsse novo programa\nfornecerá um serviço\nde teletransporte direto para calabouços\npara a total conveniência de nossos\nvalorosos clientes. Isso\nnão é... fantástico?",
-        "es-ES": "[Personal de Kafra]\nEste nuevo programa ofrecerá \nun servicio de teletransporte\ndirecto a las mazmorras para\nla comodidad de nuestros\nqueridos clientes. ¿Acaso\nno es… emocionante?"
+        "es-ES": "[Personal de Kafra]\nEste nuevo programa ofrecerá \nun servicio de teletransporte\ndirecto a las mazmorras para\nla comodidad de nuestros\nqueridos clientes. ¿Acaso\nno es... emocionante?"
     },
     "lpPS": {
         "en-US": "[Kafra Employee]\nDue to technical issues,\nKafra Corp and Zonda Corp\nCorp cannot provide teleport\nservices to the same dungeon,\nso one common teleport service\nprovider will be selected.",
@@ -1742,12 +1742,12 @@
     "nJPS": {
         "en-US": "[Kafra Employee]\nThat makes one of u--\nI mean, your participation\nis very much appreciated.\nRemember that Kafra is\nalways on your side.",
         "pt-BR": "[Kafra Recepcionista]\nÉ assim que se fal...\nQuero dizer, sua participação\nserá muito apreciada.\nLembre-se que a Kafra está \nsempre ao seu lado.",
-        "es-ES": "[Personal de Kafra]\nSolo a ti te entusiasma…\nejem… digo…\n¡Muchas gracias por tu participación!\nRecuerde que Kafra siempre está contigo."
+        "es-ES": "[Personal de Kafra]\nSolo a ti te entusiasma...\nejem... digo...\n¡Muchas gracias por tu participación!\nRecuerde que Kafra siempre está contigo."
     },
     "nZPS": {
         "en-US": "[Kafra Employee]\nUh oh...\nDid you have a question?\nIn all honesty, I don't know\nvery much about the services\nKafra offers. My work is...\nI'm in a different department.",
         "pt-BR": "[Kafra Recepcionista]\nHã...\nVocê tem alguma pergunta?\nSendo bem sincera, eu não sei\nmuito sobre os serviços que\na Kafra oferece. Meu trabalho é...\nem outro departamento.",
-        "es-ES": "[Personal de Kafra]\nAy, no…\n¿Tienes alguna pregunta?\nSinceramente, no sé \nmucho sobre los servicios\nque ofrece Kafra. Mi trabajo es…\nEstoy en otro departamento."
+        "es-ES": "[Personal de Kafra]\nAy, no...\n¿Tienes alguna pregunta?\nSinceramente, no sé \nmucho sobre los servicios\nque ofrece Kafra. Mi trabajo es...\nEstoy en otro departamento."
     },
     "npPS": {
         "en-US": "Oh, that's okay then.",
@@ -1757,7 +1757,7 @@
     "n5PS": {
         "en-US": "Are you Benith..?",
         "pt-BR": "Você é a Benith...?",
-        "es-ES": "¿Es usted Benith…?"
+        "es-ES": "¿Es usted Benith...?"
     },
     "oJPS": {
         "en-US": "[Kafra Employee]\n*Whew!*\nOh good. Well, if you\ndo have any questions\nabout the Kafra Services,\nplease ask one of the regular\nKafra Employees. Thank you.",
@@ -1807,12 +1807,12 @@
     "qZPS": {
         "en-US": "[Benith]\nHe's seriously wounded,\nso please hurry before\nthe enemy can get to him...",
         "pt-BR": "[Benith]\nEle está seriamente ferido,\nentão, por favor, se apresse antes\nque o inimigo o encontre...",
-        "es-ES": "[Benith]\nEstá herido de gravedad,\nasí que date prisa antes\nde que lo encuentre el enemigo…"
+        "es-ES": "[Benith]\nEstá herido de gravedad,\nasí que date prisa antes\nde que lo encuentre el enemigo..."
     },
     "qpPS": {
         "en-US": "^3355FFWait...\nYou can't show\nyour ''Secret Wing''\nMembership Card\nif you don't have it!^000000",
         "pt-BR": "^3355FFEspere aí...\nVocê não pode mostrar\no seu Cartão de Filiação do\n''Vento Secreto''\nse você não está com ele!^000000",
-        "es-ES": "^3355FFEspera…\n¡No puedes mostrarle la\nmuestras tu Tarjeta de membresía\nTarjeta de membresía\nsi no la tienes contigo!^000000"
+        "es-ES": "^3355FFEspera...\n¡No puedes mostrarle la\nmuestras tu Tarjeta de membresía\nTarjeta de membresía\nsi no la tienes contigo!^000000"
     },
     "q5PS": {
         "en-US": "[Benith]\nPlease hurry and save\nJargeah. If the enemy\ngets to him before we\ndo, all his efforts, as well\nas his life, may be forfeit.",
@@ -1827,7 +1827,7 @@
     "rZPS": {
         "en-US": "[Benith]\nGreat, you're back,\nand you even have the\ninformation that Jargeah\nmanaged to obtain. But...\nWhere's Jargeah? Is he...?",
         "pt-BR": "[Benith]\nÓtimo, você voltou\ne recuperou a informação\nque Jargeah tinha\nconseguido obter. Mas...\nOnde está Jargeah? Ele...?",
-        "es-ES": "[Benith]\nGenial, volviste\ny hasta trajiste\nla información que Jargeah\nlogró conseguir. Pero…\n¿Dónde está Jargeah? ¿Está…?"
+        "es-ES": "[Benith]\nGenial, volviste\ny hasta trajiste\nla información que Jargeah\nlogró conseguir. Pero...\n¿Dónde está Jargeah? ¿Está...?"
     },
     "rpPS": {
         "en-US": "He's in a better place.",
@@ -1837,17 +1837,17 @@
     "r5PS": {
         "en-US": "[Benith]\n...\n......",
         "pt-BR": "[Benith]\n...\n......",
-        "es-ES": "[Benith]\n…\n......"
+        "es-ES": "[Benith]\n...\n......"
     },
     "sJPS": {
         "en-US": "[Benith]\nWhat...?! Noooo!\nComrade Jargeah!\nI swear to you your\ndeath won't be in vain!\nWhy did another good man\nhave to die? Answer me!!",
         "pt-BR": "[Benith]\nComo...? Nããão!\nCamarada Jargeah!\nEu juro para você que\nsua morte não será em vão!\nPorque mais um bom homem\nteve que morrer? Me diga!!",
-        "es-ES": "[Benith]\n¡¿Qué…?! ¡Noooo!\n¡Camarada Jargeah!\n¡Juro que tu\nmuerte no será en vano!\n¿Por qué tuvo que morir\notro buen hombre? ¡Dime por qué!"
+        "es-ES": "[Benith]\n¡¿Qué...?! ¡Noooo!\n¡Camarada Jargeah!\n¡Juro que tu\nmuerte no será en vano!\n¿Por qué tuvo que morir\notro buen hombre? ¡Dime por qué!"
     },
     "sZPS": {
         "en-US": "[Benith]\nI can't... No. We must\nfirst honor Jargeah's noble\nsacrifice before we can allow ourselves the luxury of mourning\nour loss. Let me read these files first before you deliver them...",
         "pt-BR": "[Benith]\nNão posso... Não. Primeiro\npreciso honrar o nobre sacrifício\nde Jargeah antes de me dar ao luxo de lamentar\nnossa perda. Deixe-me ler esses arquivos antes de você entregá-los...",
-        "es-ES": "[Benith]\nNo puedo… No. Primero,\nnuestro deber es honrar el noble\nsacrificio de Jargeah antes de permitirnos el lujo de llorar\nnuestra pérdida. Déjame leer los expedientes antes de entregarlos…"
+        "es-ES": "[Benith]\nNo puedo... No. Primero,\nnuestro deber es honrar el noble\nsacrificio de Jargeah antes de permitirnos el lujo de llorar\nnuestra pérdida. Déjame leer los expedientes antes de entregarlos..."
     },
     "spPS": {
         "en-US": "[Benith]\nPlease hurry!\nI don't want the enemy\nto find Jargeah before\nwe do! His life and the\nSecret Wing are at stake!",
@@ -1867,7 +1867,7 @@
     "tZPS": {
         "en-US": "[Benith]\nW-welcome to the\nKafra Headquarters.\nWhat's new with Kafra?\n^333333Glad... You... Asked...^000000",
         "pt-BR": "[Benith]\nB-bem-vindo à \nSede da Corporação Kafra.\nQuais são as novidades da Kafra?\n^333333Que bom... que... perguntou...^000000",
-        "es-ES": "[Benith]\nT-t damos la bienvenida a la\nsede central de Kafra.\n¿Qué hay de nuevo en Kafra?\n^333333Me alegra… que… lo preguntes…^000000"
+        "es-ES": "[Benith]\nT-t damos la bienvenida a la\nsede central de Kafra.\n¿Qué hay de nuevo en Kafra?\n^333333Me alegra... que... lo preguntes...^000000"
     },
     "tpPS": {
         "en-US": "Wounded Man",
@@ -1877,22 +1877,22 @@
     "t5PS": {
         "en-US": "[?????]\n^333333*Cough cough*^000000\nCan't hold out...\nMuch longer. They...\nThey better send\nsomeone soon...",
         "pt-BR": "[?????]\n^333333*Cof cof*^000000\nNão consigo agüentar...\nmuito mais. É melhor...\nÉ melhor que eles\nmandem alguém rápido...",
-        "es-ES": "[???]\n^333333*Cof, cof*^000000\nNo puedo aguantar…\nMucho más. Será…\nSerá mejor que envíen\na alguien pronto…"
+        "es-ES": "[???]\n^333333*Cof, cof*^000000\nNo puedo aguantar...\nMucho más. Será...\nSerá mejor que envíen\na alguien pronto..."
     },
     "uJPS": {
         "en-US": "^3355FFIt's a wounded man...!^000000",
         "pt-BR": "^3355FFÉ um homem ferido...!^000000",
-        "es-ES": "^3355FF¡Es un hombre herido…!^000000"
+        "es-ES": "^3355FF¡Es un hombre herido...!^000000"
     },
     "uZPS": {
         "en-US": "[{0}]\nH-hey...!\nAre you hurt?\nDo you need any he--",
         "pt-BR": "[{0}]\nEi...!\nvocê está machucado?\nVocê precisa de ajud...",
-        "es-ES": "[{0}]\n¡O-oye…!\n¿Estás herido?\n¿Necesitas ayu…?"
+        "es-ES": "[{0}]\n¡O-oye...!\n¿Estás herido?\n¿Necesitas ayu...?"
     },
     "upPS": {
         "en-US": "[?????]\nN-no..!\nGet away, do-gooder!\nDon't attract attention,\nthey're gonna find me!\nDon't worry, don't ask,\nj-just get the hell away!",
         "pt-BR": "[?????]\nN-não...!\nVá embora, samaritano!\nNão chame a atenção\nou eles vão me encontrar!\nNão se preocupe, não pergunte,\ns-só caia fora daqui!",
-        "es-ES": "[???]\n¡N-no…!\n¡Lárgate, metiche!\nNo llames la atención,\n¡harás que me encuentren!\nNo te preocupes, no preguntes,\n¡solo lárgate de una vez!"
+        "es-ES": "[???]\n¡N-no...!\n¡Lárgate, metiche!\nNo llames la atención,\n¡harás que me encuentren!\nNo te preocupes, no preguntes,\n¡solo lárgate de una vez!"
     },
     "u5PS": {
         "en-US": "Jargeah?",
@@ -1907,7 +1907,7 @@
     "vZPS": {
         "en-US": "[Jargeah]\n^333333*Cough Gasp*^000000\nH-how do you know my...\nNever mind that. Who...\nWhat... What organization\nare you working for...?",
         "pt-BR": "[Jargeah]\n^333333*Cof Aagh*^000000\nC-como você sabe meu...\nNão importa. Quem...\nPara qual... Para qual organização\nvocê trabalha...?",
-        "es-ES": "[Jargeah]\n^333333*Tose y jadea*^000000\n¿C-cómo sabes mi…?\nNo importa. ¿Quién…?\n¿Qué…? ¿Para qué organización\ntrabajas…?"
+        "es-ES": "[Jargeah]\n^333333*Tose y jadea*^000000\n¿C-cómo sabes mi...?\nNo importa. ¿Quién...?\n¿Qué...? ¿Para qué organización\ntrabajas...?"
     },
     "vpPS": {
         "en-US": "Kafra Corporation",
@@ -1922,7 +1922,7 @@
     "wJPS": {
         "en-US": "[Jargeah]\nNo... No, you're\nnot the one who's\nsupposed to come\nfor m-me... ^333333*Huk*^000000",
         "pt-BR": "[Jargeah]\nNão... Não, você \nnão é quem\ndeveria vir\nme resgatar... ^333333*Huk*^000000",
-        "es-ES": "[Jargeah]\nNo… No, tú no eres\nquien se supone\nque vendría\npor m-mí… ^333333*Ugh*^000000"
+        "es-ES": "[Jargeah]\nNo... No, tú no eres\nquien se supone\nque vendría\npor m-mí... ^333333*Ugh*^000000"
     },
     "wZPS": {
         "en-US": "^3355FFThis isn't good.\nJargeah just passed\nout in a very ugly way.",
@@ -1932,12 +1932,12 @@
     "wpPS": {
         "en-US": "[Jargeah]\nTh-thank goodness!\nYou finally came for me.\nIf you came a little later,\nI'd be a goner. H-here,\nt-take this with you...",
         "pt-BR": "[Jargeah]\nGr-graças aos céus!\nFinalmente você veio.\nSe chegasse um pouco mais tarde,\nEu estaria perdido. A-aqui,\nl-leve com você...",
-        "es-ES": "[Jargeah]\n¡G-gracias al cielo!\nFinalmente, viniste por mí.\nSi tardabas un poco más,\nhabría sido historia. A-aquí tienes,\nllévate esto…"
+        "es-ES": "[Jargeah]\n¡G-gracias al cielo!\nFinalmente, viniste por mí.\nSi tardabas un poco más,\nhabría sido historia. A-aquí tienes,\nllévate esto..."
     },
     "w5PS": {
         "en-US": "[Jargeah]\nOh... Oh no.\n*Cough cough*\nI think... It might\nT-tell Cilantro that...\nTell her I still lov-- ^333333*Huk*^000000",
         "pt-BR": "[Jargeah]\nArgh... Oh não.\n*Cof Cof*\nEu acho... D-diga\na Cilantro que...\nDiga a ela que eu ainda a am... ^333333*Huk*^000000",
-        "es-ES": "[Jargeah]\nAh… Oh, no.\n*Cof, cof*\nCreo… Podría\nD-dile a Cilantro que…\nDile que aún la am… ^333333*Ugh*^000000"
+        "es-ES": "[Jargeah]\nAh... Oh, no.\n*Cof, cof*\nCreo... Podría\nD-dile a Cilantro que...\nDile que aún la am... ^333333*Ugh*^000000"
     },
     "xJPS": {
         "en-US": "^3355FFAnd so you left the\nwounded man alone. Not\nexactly the best moral choice.^000000",
@@ -1947,7 +1947,7 @@
     "xZPS": {
         "en-US": "[?????]\n^333333*Cough cough*^000000\nEverything's getting\ndarker. So c-cold...",
         "pt-BR": "[?????]\n^333333*Cof cof*^000000\nTudo está ficando\nescuro. Tão f-frio...",
-        "es-ES": "[???]\n^333333*Cof, cof*^000000\nTodo se pone\noscuro. Q-qué frío…"
+        "es-ES": "[???]\n^333333*Cof, cof*^000000\nTodo se pone\noscuro. Q-qué frío..."
     },
     "xpPS": {
         "en-US": "[????]\nHere,\nCome this way.",
@@ -1967,7 +1967,7 @@
     "yZPS": {
         "en-US": "[Esuna]\nHowever, this place won't\nbe easy to infiltrate and\nthere'll be more security\nbecause they learned about\nwhat happened with Shinokas\nand... and Jargeah. Jargeah...",
         "pt-BR": "[Esuna]\nEntretanto, esse local não\nserá fácil de se infiltrar e\neles estarão mais atentos\ndepois do que aconteceu com\nShinokas e...\ne Jargeah. Ah, o Jargeah...",
-        "es-ES": "[Esuna]\nSin embargo, infiltrarse allá \nno será fácil y habrá \nmás seguridad que antes,\nya que se enteraron de\nlo que pasó con Shinokas\ny… y Jargeah. Jargeah…"
+        "es-ES": "[Esuna]\nSin embargo, infiltrarse allá \nno será fácil y habrá \nmás seguridad que antes,\nya que se enteraron de\nlo que pasó con Shinokas\ny... y Jargeah. Jargeah..."
     },
     "ypPS": {
         "en-US": "[Esuna]\nYou'll need to acquire\nidentification through one\nof our agents who's managed\nto get in really deep without\narousing any suspicion.",
@@ -1987,7 +1987,7 @@
     "zZPS": {
         "en-US": "[Esuna]\nUse the pass that you\nhave to enter the Rekenber\nbuildings and find Secret\nAgent Lestin. Remember\nthat he's undercover...",
         "pt-BR": "[Esuna]\nUse o passe que você \ntem para entrar nos edifícios\nRekenber e encontre o Agente\nSecreto Lestin. Lembre-se\nque ele está disfarçado...",
-        "es-ES": "[Esuna]\nUsa el pase que\ntienes para acceder a los edificios\nde Rekenber y busca al\nagente secreto Lestin. Recuerda\nque él está encubierto…"
+        "es-ES": "[Esuna]\nUsa el pase que\ntienes para acceder a los edificios\nde Rekenber y busca al\nagente secreto Lestin. Recuerda\nque él está encubierto..."
     },
     "zpPS": {
         "en-US": "[Esuna]\n.........",
@@ -2002,7 +2002,7 @@
     "0JPS": {
         "en-US": "[Esuna]\nI know it's sudden, but\nthere's a new development.\nI can't explain it now, but you\nhave to check on the president\nfor me first. Plus, this new\nintel needs to be confirmed...",
         "pt-BR": "[Esuna]\nEu sei que é repentino, mas\nhouve um fato novo.\nNão posso explicar agora, mas primeiro\nvocê precisa se encontrar com o presidente\npara mim. Além disso, essa nova informação\nda inteligência precisa ser confirmada...",
-        "es-ES": "[Esuna]\nSé que es repentino, pero\nhay novedades.\nNo puedo explicártelo ahora, pero\nte pido que vayas a ver\ncómo se encuentra el presidente. Además, tenemos que confirmar\nesta nueva información…"
+        "es-ES": "[Esuna]\nSé que es repentino, pero\nhay novedades.\nNo puedo explicártelo ahora, pero\nte pido que vayas a ver\ncómo se encuentra el presidente. Además, tenemos que confirmar\nesta nueva información..."
     },
     "0ZPS": {
         "en-US": "[Esuna]\n........\n.....",
@@ -2012,7 +2012,7 @@
     "0pPS": {
         "en-US": "[Esuna]\nYou're back. Listen,\nyou could not have helped\nus out at a worse time. We\njust learned that something\nhorrible has happened...",
         "pt-BR": "[Esuna]\nVocê voltou. Escute,\nvocê não poderia ter nos ajudado\nem uma hora pior. Nós\nacabamos de descobrir que algo\nhorrível aconteceu...",
-        "es-ES": "[Esuna]\n¡Estás de vuelta! Escucha,\nno podrías habernos ayudado\nen un peor momento. Acabamos\nde enterarnos\nde algo horrible…"
+        "es-ES": "[Esuna]\n¡Estás de vuelta! Escucha,\nno podrías habernos ayudado\nen un peor momento. Acabamos\nde enterarnos\nde algo horrible..."
     },
     "05PS": {
         "en-US": "[Esuna]\nI can't give you all\nthe details now, but\nyou've got to give this\nfile to the president as\nquickly as you can. Hurry!",
@@ -2022,12 +2022,12 @@
     "1JPS": {
         "en-US": "[Esuna]\nWhat are you waiting\nfor?! It's important that\nyou give that file to the\npresident as soon as\npossible! It's bad news,\nbut he deserves to know...",
         "pt-BR": "[Esuna]\nO que você está \nesperando?! É fundamental que\nvocê dê aquele arquivo ao\npresidente o quanto\nantes! São más notícias,\nmas ele precisa saber...",
-        "es-ES": "[Esuna]\n¡¿Qué estás\nesperando?! Es importante que\nle des ese expediente al\npresidente lo antes\nposible. Son malas noticias,\npero merece saberlo…"
+        "es-ES": "[Esuna]\n¡¿Qué estás\nesperando?! Es importante que\nle des ese expediente al\npresidente lo antes\nposible. Son malas noticias,\npero merece saberlo..."
     },
     "1ZPS": {
         "en-US": "[Esuna]\nGood, you're back.\nListen, all members of\nSecret Wing need to leave\nthe Schwartzwald Republic\nimmediately! We've been\nseverely compromised...",
         "pt-BR": "[Esuna]\nBom, você está de volta.\nEscute, todos os membros\ndo Vento Secreto precisam sair\nda República de Schwartzwald\nimediatamente! Nós fomos\nseriamente comprometidos...",
-        "es-ES": "[Esuna]\nBien, estás de vuelta.\n¡Escucha, todos los miembros del\nViento Secreto tienen que salir\nde la República de Schwarzwald\nde inmediato! Estamos\ngravemente comprometidos…"
+        "es-ES": "[Esuna]\nBien, estás de vuelta.\n¡Escucha, todos los miembros del\nViento Secreto tienen que salir\nde la República de Schwarzwald\nde inmediato! Estamos\ngravemente comprometidos..."
     },
     "1pPS": {
         "en-US": "What happened?",
@@ -2037,22 +2037,22 @@
     "15PS": {
         "en-US": "[Esuna]\nWe've been tremendously\ndamaged. A lot of agents\ndied to give us this intel,\nbut we've been betrayed.\nThe president's closest\naide totally sold us out...",
         "pt-BR": "[Esuna]\nNós fomos tremendamente\natacados. Muitos agentes\nmorreram para nos dar a informação\nde que estamos sendo traídos.\nO ajudante mais próximo ao presidente\nnos traiu miseravelmente...",
-        "es-ES": "[Esuna]\nSufrimos un daño enorme. Muchos agentes\nmurieron para darnos esta información, pero fuimos traicionados. El ayudante más cercano\nal presidente nos entregó…"
+        "es-ES": "[Esuna]\nSufrimos un daño enorme. Muchos agentes\nmurieron para darnos esta información, pero fuimos traicionados. El ayudante más cercano\nal presidente nos entregó..."
     },
     "2JPS": {
         "en-US": "Who could have done such....?",
         "pt-BR": "Quem poderia fazer tal...?",
-        "es-ES": "¿Quién podría haber hecho tal…?"
+        "es-ES": "¿Quién podría haber hecho tal...?"
     },
     "2ZPS": {
         "en-US": "[Esuna]\nI can't believe Kurelle\ndid this to us. And there's no\nway we can save the president.\nEven if we wanted to, we need\nto stick with our contigency\nplan. We all knew the risks...",
         "pt-BR": "[Esuna]\nEu não acredito que Kurelle\nfez isso conosco. E não há como\nsalvar o presidente.\nMesmo se quisermos, precisamos \nmanter nosso plano de\ncontingência. Todos sabíamos os riscos...",
-        "es-ES": "[Esuna]\nNo puedo creer que Kurelle\nnos haya hecho esto. Y no hay\nforma de que podamos salvar al presidente.\nAunque quisiéramos hacerlo,\ntenemos que seguir con el plan\nde contingencia. Todos conocíamos los riesgos…"
+        "es-ES": "[Esuna]\nNo puedo creer que Kurelle\nnos haya hecho esto. Y no hay\nforma de que podamos salvar al presidente.\nAunque quisiéramos hacerlo,\ntenemos que seguir con el plan\nde contingencia. Todos conocíamos los riesgos..."
     },
     "2pPS": {
         "en-US": "[Esuna]\nKurelle has been secretly\nmeeting with directors from\nRekenber Corporation and\nhis mansion is littered with\nincriminating evidence...",
         "pt-BR": "[Esuna]\nKurelle secretamente vem\nse encontrando com diretores da\nCorporação Rekenber e\nsua mansão está cheia de \nevidências incriminadoras...",
-        "es-ES": "[Esuna]\nKurelle tenía reuniones\nsecretas con los directores de la\nCorporación Rekenber\ny su mansión está llena de\nevidencia incriminatoria…"
+        "es-ES": "[Esuna]\nKurelle tenía reuniones\nsecretas con los directores de la\nCorporación Rekenber\ny su mansión está llena de\nevidencia incriminatoria..."
     },
     "25PS": {
         "en-US": "[Esuna]\nDamn it! We have no\nchoice but to abandon\nthe president now! But\nthis won't mean that his\nsacrifice, and Jargeah's\ndeath, will be vain!",
@@ -2067,7 +2067,7 @@
     "3ZPS": {
         "en-US": "[Esuna]\nFor now, this is\ngoodbye. Take care...",
         "pt-BR": "[Esuna]\nPor enquanto, isso é \num adeus. Cuide-se...",
-        "es-ES": "[Esuna]\nPor el momento, este es\nun adiós. Cuídate…"
+        "es-ES": "[Esuna]\nPor el momento, este es\nun adiós. Cuídate..."
     },
     "3pPS": {
         "en-US": "[Esuna]\n..........\n......\n....",
@@ -2082,7 +2082,7 @@
     "4JPS": {
         "en-US": "[Researcher]\nYou know what's weird?\nWhy do they use blue and\nred wires when they make\nbombs? There's so many\nothers you could use, like\npink or yellow or or green...",
         "pt-BR": "[Pesquisador]\nVocê sabe o que é estranho?\nPorque se usa um fio azul\ne outro vermelho nas\nbombas? Há tantas outras\ncores que se poderia usar,\ncomo rosa, amarelo ou verde...",
-        "es-ES": "[Investigador]\n¿Sabes lo que es raro?\n¿Por qué usan cables azules\ny rojos cuando fabrican\nbombas? Hay tantos otros colores\nque podrían usar, como\nrosa, amarillo o verde…"
+        "es-ES": "[Investigador]\n¿Sabes lo que es raro?\n¿Por qué usan cables azules\ny rojos cuando fabrican\nbombas? Hay tantos otros colores\nque podrían usar, como\nrosa, amarillo o verde..."
     },
     "4ZPS": {
         "en-US": "[Researcher]\nHey, here's a completely\nhypothetical question. Let's\nsay you find a bomb and it's\nabout to go off. You better\ncut a wire! So which one are\nyou gonna cut? Red or blue?",
@@ -2102,7 +2102,7 @@
     "5JPS": {
         "en-US": "[Researcher]\nRed, eh...?\n...................\nHeh, yeah, just like\nin the movies. I like\nthe way you think~",
         "pt-BR": "[Pesquisador]\nVermelho, né...?\n...................\nÉ, tá, igualzinho aos\nfilmes. Eu gosto\nda forma que você pensa...",
-        "es-ES": "[Investigador]\n¿Rojo, eh…?\n...................\nJe, sí, igual que\nen las películas. Me gusta\ncómo piensas."
+        "es-ES": "[Investigador]\n¿Rojo, eh...?\n...................\nJe, sí, igual que\nen las películas. Me gusta\ncómo piensas."
     },
     "5ZPS": {
         "en-US": "^3355FFYou surrepticiously\ncheck the researcher's\nID badge and see that the name ''Lestin'' is written on it.^000000",
@@ -2112,7 +2112,7 @@
     "5pPS": {
         "en-US": "[Lestin]\nSo...\nIs there anything\nI can help you with?",
         "pt-BR": "[Lestin]\nEntão...\nPosso ajudar\nem algo?",
-        "es-ES": "[Lestin]\nAsí que…\n¿Puedo ayudarte en algo?"
+        "es-ES": "[Lestin]\nAsí que...\n¿Puedo ayudarte en algo?"
     },
     "55PS": {
         "en-US": "[Lestin]\nAlright then.\nJust be quiet when\nyou're in the Laboratory.\nThe people here work\npretty feverishly and get\nirritated pretty easily, okay?",
@@ -2122,12 +2122,12 @@
     "6JPS": {
         "en-US": "[Lestin]\nSo what exactly did\nyou need? I'm just an\nordinary researcher,\nso I don't know how\nmuch help I could be...",
         "pt-BR": "[Lestin]\nBem, do que exatamente\nvocê precisa? Eu sou apenas um\npesquisador comum\nentão não sei se\nposso ser de muita ajuda...",
-        "es-ES": "[Lestin]\nEntonces, ¿qué es lo que\nnecesitabas con exactitud? Solo soy un investigador\ncomún y corriente,\nasí que no sé si puedo ser\nde mucha ayuda…"
+        "es-ES": "[Lestin]\nEntonces, ¿qué es lo que\nnecesitabas con exactitud? Solo soy un investigador\ncomún y corriente,\nasí que no sé si puedo ser\nde mucha ayuda..."
     },
     "6ZPS": {
         "en-US": "[Lestin]\nWhoa, whoa~!\nCareful where you\nflash that! Okay, I know\nwho you are. But we better\ncontinue this someplace\na bit more private...",
         "pt-BR": "[Lestin]\nOpa, opa!\nTenha mais cuidado\npara mostrar isso! Certo, eu sei\nquem você é. Mas é melhor\ncontinuarmos em algum\nlugar mais isolado...",
-        "es-ES": "[Lestin]\n¡Vaya, oye!\n¡Fíjate adónde\napuntas con eso! Está bien, sé \nquién eres. Pero mejor sigamos\nconversando en un lugar\nun poco más privado…"
+        "es-ES": "[Lestin]\n¡Vaya, oye!\n¡Fíjate adónde\napuntas con eso! Está bien, sé \nquién eres. Pero mejor sigamos\nconversando en un lugar\nun poco más privado..."
     },
     "6pPS": {
         "en-US": "[Researcher]\nBlue, huh? Yeah,\nthat's what everyone\nelse here picks. Now\nwhat color would I pick?\nWell, that's a secret~",
@@ -2207,7 +2207,7 @@
     "+ZPS": {
         "en-US": "[Lestin]\nOh man...\nEveryone here is\ngetting too paranoid\nfor their own good!\nYou better steer clear\nfrom this place for now.",
         "pt-BR": "[Lestin]\nNossa...\nTodo mundo está \nficando muito paranóico\npor aqui!\nÉ melhor sair\njá desse lugar.",
-        "es-ES": "[Lestin]\nVaya…\n¡Todos aquí \nse volvieron exageradamente\nparanoicos!\nSerá mejor que te alejes\nde aquí por ahora."
+        "es-ES": "[Lestin]\nVaya...\n¡Todos aquí \nse volvieron exageradamente\nparanoicos!\nSerá mejor que te alejes\nde aquí por ahora."
     },
     "+pPS": {
         "en-US": "^3355FFAs you approach\nthe corner, you can\nhear hushed whispers\njust over the wall.^000000",
@@ -2232,7 +2232,7 @@
     "/pPS": {
         "en-US": "[Senior Guard]\nCriminy...\nI need to go to\nthe bathroom. Well,\nI'm sure nothing will\nhappen while I'm gone.",
         "pt-BR": "[Guarda Veterano]\nCaramba...\nEu preciso ir ao\nbanheiro. Bem,\nTenho certeza que nada\nirá acontecer enquanto estiver fora.",
-        "es-ES": "[Guardia sénior]\nCaramba…\nTengo que ir\nal baño. Bueno,\nno creo que pase nada\nsi me voy un rato."
+        "es-ES": "[Guardia sénior]\nCaramba...\nTengo que ir\nal baño. Bueno,\nno creo que pase nada\nsi me voy un rato."
     },
     "/5PS": {
         "en-US": "^3355FFYou listen to the\nguard's footsteps as\nthey grow fainter and\nfainter into the distance.^000000",
@@ -2271,7 +2271,7 @@
     },
     "BpTS": {
         "en-US": "^3355FF*Beep~*\nYou hear a pleasant\nsounding electronic chirp,\nsignaling that you have input\nthe correct password. The door\nautomatically slides open.",
-        "pt-BR": "^3355FF*Bip…*\nVocê escuta o zunir de\num som eletrônico agradável, \nindicando que você inseriu\na senha correta. A porta\nse abre deslizando automaticamente.",
+        "pt-BR": "^3355FF*Bip...*\nVocê escuta o zunir de\num som eletrônico agradável, \nindicando que você inseriu\na senha correta. A porta\nse abre deslizando automaticamente.",
         "es-ES": "^3355FF*Bip*\nSe oye un agradable\nchirrido electrónico\nque indica que ingresaste\nla contraseña correcta. La puerta\nse abre automáticamente."
     },
     "B5TS": {
@@ -2497,7 +2497,7 @@
     "M5TS": {
         "en-US": "^3355FFThere's literally thousands\nof documents to sort through.\nThere's no way you can find\nsomething of value here in\njust three minutes...^000000",
         "pt-BR": "^3355FFLiteralmente há centenas\nde documentos para olhar.\nVocê não tem nenhuma chance de\nencontrar alguma coisa de valor\nem apenas três minutos...^000000",
-        "es-ES": "^3355FFHay literalmente miles\nde documentos para revisar.\nNo hay manera de que puedas encontrar\nalgo de valor aquí en\nsolo tres minutos…^000000"
+        "es-ES": "^3355FFHay literalmente miles\nde documentos para revisar.\nNo hay manera de que puedas encontrar\nalgo de valor aquí en\nsolo tres minutos...^000000"
     },
     "NJTS": {
         "en-US": "^3355FFWait, one of these files\nlooks pretty incriminating.\nIt seems to contain the\nkind of information that\nyou've been looking for.^000000",
@@ -2512,7 +2512,7 @@
     "NpTS": {
         "en-US": "[Classified Info]\n^8C1717However, something\nhappened to the miners\nwho discovered the piece\nof Ymir's Heart. Apparently,\na beast from Einbroch folk\nlore inhabited the area...^000000",
         "pt-BR": "[Informação Confidencial]\n^8C1717Entretanto, algo\naconteceu com os mineiros\nque descobriram o pedaço\ndo Coração de Ymir. Aparentemente,\na besta do folclore de Einbroch\nhabitou a área...^000000",
-        "es-ES": "[Información clasificada]\n^8C1717Sin embargo, sucedió \nalgo con los mineros\nque descubrieron la Pieza\ndel Corazón de Ymir. Al parecer,\nuna bestia de las antiguas leyendas\nde Einbroch habitaba la zona…^000000"
+        "es-ES": "[Información clasificada]\n^8C1717Sin embargo, sucedió \nalgo con los mineros\nque descubrieron la Pieza\ndel Corazón de Ymir. Al parecer,\nuna bestia de las antiguas leyendas\nde Einbroch habitaba la zona...^000000"
     },
     "N5TS": {
         "en-US": "Area 1-7",
@@ -2537,7 +2537,7 @@
     "O5TS": {
         "en-US": "[Classified Info]\n^8C1717Although there is no\nneed to bring this to the\nattention of the media, it\nis highly recommended\nto monitor his activities\nthroughout his term...^000000",
         "pt-BR": "[Informação Confidencial]\n^8C1717Embora não haja necessidade\nde chamar a atenção da\nmídia para isso, é altamente \nrecomendado monitorar\nsuas atividades até \no fim de seu mandato...^000000",
-        "es-ES": "[Información clasificada]\n^8C1717Aunque no hay\nnecesidad de llevar esto a la\natención de los medios de comunicación,\nes altamente recomendable\nmonitorear su actividad\ndurante todo su mandato…^000000"
+        "es-ES": "[Información clasificada]\n^8C1717Aunque no hay\nnecesidad de llevar esto a la\natención de los medios de comunicación,\nes altamente recomendable\nmonitorear su actividad\ndurante todo su mandato...^000000"
     },
     "PJTS": {
         "en-US": "^3355FFThere's a great amount\nof information in this file,\nbut it doesn't look like any\nof it will be of help to you.\nYou should continue with\nyour search for evidence.^000000",
@@ -2592,12 +2592,12 @@
     "RpTS": {
         "en-US": "[Classified Info]\n^8C1717...After negotiating with\nthe existing residents, all of\nthe property rights were sold\nand the city was renamed\n''Lighthalzen'' in 865.^000000",
         "pt-BR": "[Informação Confidencial]\n^8C1717...Após negociar com os\nmoradores do local, todos os\ndireitos de propriedade foram vendidos\ne a cidade foi rebatizada para\n''Lighthalzen'' em 865.^000000",
-        "es-ES": "[Información clasificada]\n^8C1717…Tras negociar con\nlos residentes originales, todos\nvendieron los derechos de propiedad\ny la ciudad pasó a llamarse\nLighthalzen en el año 865.^000000"
+        "es-ES": "[Información clasificada]\n^8C1717...Tras negociar con\nlos residentes originales, todos\nvendieron los derechos de propiedad\ny la ciudad pasó a llamarse\nLighthalzen en el año 865.^000000"
     },
     "R5TS": {
         "en-US": "[Classified Info]\n^8C1717The city was then separated\ninto three districts. These are\nthe common trade district, the\nold residential district and\nthe Rekenber Headquarters.\n.................^000000",
         "pt-BR": "[Informação Confidencial]\n^8C1717A cidade foi separada em \ntrês distritos. Tem\no distrito comercial, o antigo\ndistrito residencial e\na Sede da Rekenber.\n.................^000000",
-        "es-ES": "[Información clasificada]\n^8C1717Entonces, la ciudad se separó \nen tres distritos. Estos son\nel distrito comercial común,\nel antiguo distrito residencial y\nla Sede de Rekenber.\n…..............^000000"
+        "es-ES": "[Información clasificada]\n^8C1717Entonces, la ciudad se separó \nen tres distritos. Estos son\nel distrito comercial común,\nel antiguo distrito residencial y\nla Sede de Rekenber.\n.................^000000"
     },
     "SJTS": {
         "en-US": "^3355FFThis file covers\nLighthalzen's history.\nHowever, the founding of\nthe city is common knowlege,\nso this document probably won't\nhave any significant evidence.^000000",
@@ -2617,7 +2617,7 @@
     "S5TS": {
         "en-US": "[Classified Info]\n^8C1717Unofficially, each and\nevery single factory belongs\nto the Rekenber Corporation.\nTheir highest priority is\nto uncover Ymir Heart Pieces...^000000",
         "pt-BR": "[Informação Confidencial]\n^8C1717Não oficialmente, cada\numa das fábricas pertence\nà Corporação Rekenber.\nÉ de altíssima prioridade\nencontrar pedaços do Coração de Ymir...^000000",
-        "es-ES": "[Información clasificada]\n^8C1717Extraoficialmente, cada una\nde las fábricas pertenece\na la Corporación Rekenber.\nSu máxima prioridad es\nencontrar las Piezas del Corazón de Ymir…^000000"
+        "es-ES": "[Información clasificada]\n^8C1717Extraoficialmente, cada una\nde las fábricas pertenece\na la Corporación Rekenber.\nSu máxima prioridad es\nencontrar las Piezas del Corazón de Ymir...^000000"
     },
     "TJTS": {
         "en-US": "^3355FFAlthough this file contains\nsurprising information about\nEinbroch, none of it can be\nconsidered to be incriminating\nevidence against Rekenber.",
@@ -2662,7 +2662,7 @@
     "VJTS": {
         "en-US": "^3355FFThis weird rock\nmight be just the\nthing that ^000000Ghalstein^3355FF\nsent you here to find.\nHe was probably right\nnot to describe it to you.\nWords alone aren't enough...^000000",
         "pt-BR": "^3355FFEssa pedra estranha\nbem que pode ser\na coisa que ^000000Ghalstein^3355FF\nmandou você encontrar.\nEle estava certo\nem não descrevê-la para você.\nPalavras não são suficientes...^000000",
-        "es-ES": "^3355FFEsta roca rara\npodría ser justo lo\nque ^000000Ghalstein^3355FF\nte envió aquí a buscar.\nProbablemente, tuvo razón\nen no describírtelo.\nNo alcanzan las palabras…^000000"
+        "es-ES": "^3355FFEsta roca rara\npodría ser justo lo\nque ^000000Ghalstein^3355FF\nte envió aquí a buscar.\nProbablemente, tuvo razón\nen no describírtelo.\nNo alcanzan las palabras...^000000"
     },
     "VZTS": {
         "en-US": "^3355FFJust because this rock\nlooks funny doesn't make\nit any more special than\nthe countless number of\nrocks you've seen in\nyour entire lifetime.^000000",
@@ -2682,7 +2682,7 @@
     "WJTS": {
         "en-US": "[Bonnie]\nOh no...\nWhere did I put it?",
         "pt-BR": "[Bonnie]\nOh, não.....\nOnde foi que eu coloquei?",
-        "es-ES": "[Bonnie]\nAy, no…\n¿Dónde lo puse?"
+        "es-ES": "[Bonnie]\nAy, no...\n¿Dónde lo puse?"
     },
     "WZTS": {
         "en-US": "[Geonuii]\nGreetings. This path\nleads to the Library and\nthe Laboratory. Please be\naware that these places\nare restricted from access\nby the general public.",
@@ -2697,7 +2697,7 @@
     "W5TS": {
         "en-US": "[Lasoei]\nOh...!\nW-welcome~\nC-can I help you\nwith anything?",
         "pt-BR": "[Lasoei]\nOh...!\nS-saudações!\nP-posso ajudar\nem alguma coisa?",
-        "es-ES": "[Lasoei]\n¡Oh…!\nT-te doy la bienvenida.\n¿P-puedo ayudarte\ncon algo?"
+        "es-ES": "[Lasoei]\n¡Oh...!\nT-te doy la bienvenida.\n¿P-puedo ayudarte\ncon algo?"
     },
     "XJTS": {
         "en-US": "Zonda Staff",
@@ -2782,7 +2782,7 @@
     "bJTS": {
         "en-US": "[Baoto]\nHmmm...\nThe employees seem\nto be having too much\nfun amongst themselves\nrecently. This does not\nbode well at all...",
         "pt-BR": "[Baoto]\nHmmm....\nUltimamente os\nfuncionários parecem estar\nse divertindo muito\nentre eles. Isso não\né um bom sinal...",
-        "es-ES": "[Baoto]\nMmm…\nCreo que los empleados\nse divierten demasiado\nentre ellos\núltimamente. Esto no\naugura nada bueno…"
+        "es-ES": "[Baoto]\nMmm...\nCreo que los empleados\nse divierten demasiado\nentre ellos\núltimamente. Esto no\naugura nada bueno..."
     },
     "bZTS": {
         "en-US": "[Baoto]\nIt looks like I'm\njust going to have to\nstart cracking that whip\nmore often and much\nharder. Ha ha ha ha!",
@@ -2797,7 +2797,7 @@
     "b5TS": {
         "en-US": "[Cesuna]\n^333333*Sigh...*^000000\nI wonder if Saera\nwould ever consider\ngoing out with me?\nThat would be nice~",
         "pt-BR": "[Cesuno]\n^333333*Suspiro...*^000000\nSerá que a Saera\nalgum dia vai\naceitar sair comigo?\nIsso seria legal!",
-        "es-ES": "[Cesuna]\n^333333*Suspira…*^000000\nMe pregunto si Saera\nconsiderará alguna vez\nsalir conmigo.\nEso sería lindo."
+        "es-ES": "[Cesuna]\n^333333*Suspira...*^000000\nMe pregunto si Saera\nconsiderará alguna vez\nsalir conmigo.\nEso sería lindo."
     },
     "cJTS": {
         "en-US": "Maintenance Guy",
@@ -2807,6 +2807,6 @@
     "cZTS": {
         "en-US": "[Kudiuu]\nHoly...!\nWill this place\never get cleaned up?!\n^333333*Cough cough*^000000 There's\nso much dust here, it's\nalmost a health hazard!",
         "pt-BR": "[Kudiuu]\nCaramba...!\nEste lugar algum\ndia já foi limpo?!\n^333333*Cof cof*^000000 Tem\ntanto pó aqui, que\né quase um perigo à saúde!",
-        "es-ES": "[Kudiuu]\n¡Válgame…!\n¡¿Alguna vez\nlimpiarán este lugar?!\n^333333*Cof, cof*^000000 Hay\ntanto polvo aquí, ¡están\natentando contra la salud!"
+        "es-ES": "[Kudiuu]\n¡Válgame...!\n¡¿Alguna vez\nlimpiarán este lugar?!\n^333333*Cof, cof*^000000 Hay\ntanto polvo aquí, ¡están\natentando contra la salud!"
     }
 }

@@ -5,9 +5,9 @@
         "es-ES": "Rumin"
     },
     "YSrSDA": {
-        "en-US": "[Rumin]\nHello. Hmm …. Watching your brilliant exploits has always been my pleasure, but …. I recommend not challenging the very top of the tower.",
+        "en-US": "[Rumin]\nHello. Hmm .... Watching your brilliant exploits has always been my pleasure, but .... I recommend not challenging the very top of the tower.",
         "pt-BR": "[Rumin]\nOlá! Er... Sempre foi legal ver suas conquistas, mas... não recomendo passar desse ponto.",
-        "es-ES": "[Rumin]\nHola. \nHmm… \nSiempre ha sido un placer para mí ver tus brillantes hazañas… \npero no te recomiendo intentar llegar hasta la cima de la torre."
+        "es-ES": "[Rumin]\nHola. \nHmm... \nSiempre ha sido un placer para mí ver tus brillantes hazañas... \npero no te recomiendo intentar llegar hasta la cima de la torre."
     },
     "YirSDA": {
         "en-US": "[Rumin]\nAh, well, you probably wouldn’t be able to climb all the way anyway. I’m always cheering for you, so do your best.",
@@ -20,9 +20,9 @@
         "es-ES": "^4D4DFF Hay un evento de MD disponible a partir del nivel 180. ^000000"
     },
     "ZCrSDA": {
-        "en-US": "[Rumin]\nGoing again? Wouldn’t it be better to get some proper rest now? Of course, I understand your passionate desire to help me …. but resting is important too.",
+        "en-US": "[Rumin]\nGoing again? Wouldn’t it be better to get some proper rest now? Of course, I understand your passionate desire to help me .... but resting is important too.",
         "pt-BR": "[Rumin]\nVai tentar de novo? Não acha melhor descansar um pouco agora? Claro, eu sei muito bem do seu entusiasmo em querer me ajudar... mas descansar também é importante.",
-        "es-ES": "[Rumin]\n¿Vas a ir otra vez? \n¿No crees que ya sería bueno descansar un poco? \nClaro, sé bien que tienes muchas ganas de ayudarme… \npero descansar también es importante."
+        "es-ES": "[Rumin]\n¿Vas a ir otra vez? \n¿No crees que ya sería bueno descansar un poco? \nClaro, sé bien que tienes muchas ganas de ayudarme... \npero descansar también es importante."
     },
     "ZSrSDA": {
         "en-US": "[Rumin]\nEven if you say you don’t want to, I’ll still be waiting here for you, so what’s the hurry?",
@@ -30,9 +30,9 @@
         "es-ES": "[Rumin]\nAunque digas que no, yo seguiré aquí esperándote. \n¿Qué es lo que te apura tanto?"
     },
     "ZirSDA": {
-        "en-US": "[Rumin]\nJudging by your expression, it seems the exploration went well. If it’s something bound only to this tower, I’m not too worried ….",
+        "en-US": "[Rumin]\nJudging by your expression, it seems the exploration went well. If it’s something bound only to this tower, I’m not too worried ....",
         "pt-BR": "[Rumin]\nPela sua expressão, parece que os resultados da exploração foram bons. Se for apenas algo preso a esta torre, não me preocupo tanto assim...",
-        "es-ES": "[Rumin]\nPor tu expresión parece que los resultados de la exploración han sido buenos. \nSi se trata de una existencia ligada únicamente a esta torre, en realidad no me preocupa demasiado…"
+        "es-ES": "[Rumin]\nPor tu expresión parece que los resultados de la exploración han sido buenos. \nSi se trata de una existencia ligada únicamente a esta torre, en realidad no me preocupa demasiado..."
     },
     "ZyrSDA": {
         "en-US": "[Rumin]\nThe only thing I can give you is some very nice experience points, but take this anyway.",
@@ -80,9 +80,9 @@
         "es-ES": "[Rumin]\nEntonces, cuando estés listo, vuelve a hablar conmigo. \nAbriré otro camino hacia los pisos superiores de la torre."
     },
     "cCrSDA": {
-        "en-US": "[Rumin]\nHeh …. Yes. I like that resolute look of yours.",
+        "en-US": "[Rumin]\nHeh .... Yes. I like that resolute look of yours.",
         "pt-BR": "[Rumin]\nHehe... certo. Eu gosto desse seu jeito de decidir.",
-        "es-ES": "[Rumin]\nJeje… sí. Me gusta esa determinación tuya."
+        "es-ES": "[Rumin]\nJeje... sí. Me gusta esa determinación tuya."
     },
     "cSrSDA": {
         "en-US": "Thanatos Tower",
@@ -120,9 +120,9 @@
         "es-ES": "^4D4DFF Este es un evento que se realiza como memorial. La solicitud del Memorial Dungeon debe hacerla el líder del grupo. ^000000"
     },
     "eCrSDA": {
-        "en-US": "[Rumin]\nHmm …. Would you mind waiting for a moment?",
+        "en-US": "[Rumin]\nHmm .... Would you mind waiting for a moment?",
         "pt-BR": "[Rumin]\nHmm... quer esperar um momento?",
-        "es-ES": "[Rumin]\nHmm… ¿podrías esperar un momento?"
+        "es-ES": "[Rumin]\nHmm... ¿podrías esperar un momento?"
     },
     "eSrSDA": {
         "en-US": "[Rumin]\nSince this place has been a battleground for hundreds of years, the flow of magic is always unstable. It may take some time.",

@@ -122,7 +122,7 @@
     "+OdPBg": {
         "en-US": "[Great Merchant]\nLet's see... Mm? What did you bring? Come back equipped with a ^0000CD+9 Infiltrator[1]^000000.",
         "pt-BR": "[Albus]\nCadê? Equipe o item ^0000CD+9 Infiltrador [1]^000000 para fazermos a negociação.",
-        "es-ES": "[Gran Comerciante]\nVeamos… ¿Mm? ¿Qué trajiste? Vuelve equipado con un ^0000CDInfiltrador +9[1]^000000."
+        "es-ES": "[Gran Comerciante]\nVeamos... ¿Mm? ¿Qué trajiste? Vuelve equipado con un ^0000CDInfiltrador +9[1]^000000."
     },
     "+edPBg": {
         "en-US": "[Great Merchant]\nAh, you're equipped with the correct item.\nNow, let me check the other materials.",
@@ -157,7 +157,7 @@
     "/+dPBg": {
         "en-US": "[Great Merchant]\nAlright! Let's see...",
         "pt-BR": "[Albus]\nAguarde...",
-        "es-ES": "[Gran Comerciante]\n¡Muy bien! Veamos…"
+        "es-ES": "[Gran Comerciante]\n¡Muy bien! Veamos..."
     },
     "AOhPBg": {
         "en-US": "[Great Merchant]\nHere, take this. I hope you'll enjoy. If you find more Illusion Stones, feel free to bring them to me! *Chuckle*",
@@ -182,7 +182,7 @@
     "BOhPBg": {
         "en-US": "[Great Merchant]\nLet's see... Mm?\nWhat did you bring?\nCome back equipped with a ^0000CD+9 Sharpened Legbone of Ghoul^000000.",
         "pt-BR": "[Albus]\nCadê? Equipe o item ^0000CD+9 Osso Afiado de Carniçal^000000 para fazermos a negociação.",
-        "es-ES": "[Gran Comerciante]\nVeamos… ¿Mm? \n¿Qué trajiste? \nVuelve equipado con un ^0000CDHueso de Necrófago Afilado +9^000000."
+        "es-ES": "[Gran Comerciante]\nVeamos... ¿Mm? \n¿Qué trajiste? \nVuelve equipado con un ^0000CDHueso de Necrófago Afilado +9^000000."
     },
     "BehPBg": {
         "en-US": "[Great Merchant]\nMm, you're so impatient.\nI told you, I need ^0000CD10 Illusion Stones and 100 Clusters of Nightmares^000000.\nCheck your inventory and bring all of them.",
@@ -202,7 +202,7 @@
     "COhPBg": {
         "en-US": "[Great Merchant]\nLet's see... Mm?\nWhat did you bring?\nCome back equipped with a ^0000CD+9 Wizardry Staff^000000.",
         "pt-BR": "[Albus]\nCadê? Equipe o item ^0000CD+9 Cajado Esfíngico^000000 para fazermos a negociação.",
-        "es-ES": "[Gran Comerciante]\nVeamos… ¿Mm? \n¿Qué trajiste? \nVuelve equipado con un ^0000CDBáculo de Hechicería +9^000000."
+        "es-ES": "[Gran Comerciante]\nVeamos... ¿Mm? \n¿Qué trajiste? \nVuelve equipado con un ^0000CDBáculo de Hechicería +9^000000."
     },
     "CehPBg": {
         "en-US": "[Great Merchant]\nMm, you're so impatient.\nI told you, I need ^0000CD40 Illusion Stones and 100 Suspicious Pentacles^000000.\nCheck your inventory and bring all of them.",
@@ -212,7 +212,7 @@
     "CuhPBg": {
         "en-US": "[Great Merchant]\nIllusion Ballista... I would've loved to have this when?sigh, never mind. Let's see what you've got.",
         "pt-BR": "[Albus]\nBalista Ilusional... Agora, preciso conferir o refinamento.",
-        "es-ES": "[Gran Comerciante]\nBalista Ilusoria… Me hubiera encantado tener esto cuando… *Suspira* No importa. Veamos lo que tienes."
+        "es-ES": "[Gran Comerciante]\nBalista Ilusoria... Me hubiera encantado tener esto cuando... *Suspira* No importa. Veamos lo que tienes."
     },
     "C+hPBg": {
         "en-US": "[Great Merchant]\nOh, you must have been in a hurry: you forgot to bring the weapon.\nPlease come back equipped with a ^0000CD+9 Ballista [1]^000000. I'll wait here.",
@@ -222,7 +222,7 @@
     "DOhPBg": {
         "en-US": "[Great Merchant]\nLet's see... Mm?\nWhat did you bring?\nCome back equipped with a ^0000CD+9 Ballista [1]^000000.",
         "pt-BR": "[Albus]\nCadê? Equipe o item ^0000CD+9 Balista [1]^000000 para fazermos a negociação.",
-        "es-ES": "[Gran Comerciante]\nVeamos… ¿Mm? \n¿Qué trajiste? \nVuelve equipado con una ^0000CDBalista +9 [1]^000000."
+        "es-ES": "[Gran Comerciante]\nVeamos... ¿Mm? \n¿Qué trajiste? \nVuelve equipado con una ^0000CDBalista +9 [1]^000000."
     },
     "DehPBg": {
         "en-US": "[Great Merchant]\nMm, you're so impatient.\nI told you, I need ^0000CD50 Illusion Stones and 100 Shining Spores^000000.\nCheck your inventory and bring all of them.",
@@ -242,7 +242,7 @@
     "EOhPBg": {
         "en-US": "[Great Merchant]\nLet's see... Mm?\nWhat did you bring?\nCome back equipped with a ^0000CD+9 Book of the Apocalypse [1]^000000.",
         "pt-BR": "[Albus]\nCadê? Equipe o item ^0000CD+9 Livro do Apocalipse [1]^000000 para fazermos a negociação.",
-        "es-ES": "[Gran Comerciante]\nVeamos… ¿Mm? \n¿Qué trajiste? \nVuelve equipado con un ^0000CDLibro del Apocalipsis +9 [1]^000000."
+        "es-ES": "[Gran Comerciante]\nVeamos... ¿Mm? \n¿Qué trajiste? \nVuelve equipado con un ^0000CDLibro del Apocalipsis +9 [1]^000000."
     },
     "EehPBg": {
         "en-US": "[Great Merchant]\nMm, you're so impatient.\nI told you, I need ^0000CD50 Illusion Stones and 10 Well-dried Clovers^000000.\nCheck your inventory and bring all of them.",
@@ -277,7 +277,7 @@
     "F+hPBg": {
         "en-US": "[Great Merchant]\nLet's see... Mm?\nWhat are you wearing?\nCome back equipped with a ^0000CD+9 Ancient Cape [1]^000000.",
         "pt-BR": "[Albus]\nCadê? Equipe o item ^0000CD+9 Capa do Marquês [1]^000000 para fazermos a negociação.",
-        "es-ES": "[Gran Comerciante]\nVeamos… ¿Mm? \n¿Qué llevas puesto? \nVuelve equipado con una ^0000CDCapa Antigua +9 [1]^000000."
+        "es-ES": "[Gran Comerciante]\nVeamos... ¿Mm? \n¿Qué llevas puesto? \nVuelve equipado con una ^0000CDCapa Antigua +9 [1]^000000."
     },
     "GOhPBg": {
         "en-US": "[Great Merchant]\nMm, you're so impatient.\nI told you, I need ^0000CD30 Illusion Stones and 200 Short Bat Hairs^000000.\nCheck your inventory and bring all of them.",
@@ -307,7 +307,7 @@
     "HehPBg": {
         "en-US": "[Great Merchant]\nIllusion Skull Ring.\n*Chuckle*\nI remember when I was young, my friends and I wore this ring and played pranks?\nhah hah, never mind.\nThat was a long time ago.\nAnyway, let's see what you've got.",
         "pt-BR": "[Albus]\nAnel de Caveira Ilusional... Vamos conferir os materiais.",
-        "es-ES": "[Gran Comerciante]\nAnillo de Calavera Ilusorio. \n*Ríe* \nRecuerdo que cuando era joven, mis amigos y yo usábamos este anillo y hacíamos bromas… \nja, ja, no importa. \nEso fue hace mucho tiempo. \nDe todos modos, vamos a ver lo que tienes."
+        "es-ES": "[Gran Comerciante]\nAnillo de Calavera Ilusorio. \n*Ríe* \nRecuerdo que cuando era joven, mis amigos y yo usábamos este anillo y hacíamos bromas... \nja, ja, no importa. \nEso fue hace mucho tiempo. \nDe todos modos, vamos a ver lo que tienes."
     },
     "HuhPBg": {
         "en-US": "[Great Merchant]\nMm, you're so impatient.\nI told you, I need ^0000CD1 Skull Ring [1], 50 Illusion Stones, and 400 Dried Yggdrasil Leaves^000000.\nCheck your inventory and bring all of them.",
@@ -317,7 +317,7 @@
     "H+hPBg": {
         "en-US": "[Great Merchant]\nIllusion Ring...\nIt may not look much, but it has an important meaning to me.\nAnyway, let's see what you've got.",
         "pt-BR": "[Albus]\nAnel Ilusional... Vamos conferir os materiais.",
-        "es-ES": "[Gran Comerciante]\nAnillo Ilusorio… \nQuizá no parezca gran cosa, pero tiene un significado importante para mí. \nDe todos modos, vamos a ver lo que tienes."
+        "es-ES": "[Gran Comerciante]\nAnillo Ilusorio... \nQuizá no parezca gran cosa, pero tiene un significado importante para mí. \nDe todos modos, vamos a ver lo que tienes."
     },
     "IOhPBg": {
         "en-US": "[Great Merchant]\nMm, you're so impatient.\nI told you, I need ^0000CD1 Ring [1], 50 Illusion Stones, and 400 Suspicious Pentacles^000000.\nCheck your inventory and bring all of them.",
@@ -437,7 +437,7 @@
     "N+hPBg": {
         "en-US": "[Great Merchant]\nWhat are ^0000CDIllusion Stones^000000, you ask? Well... I don't think anyone knows exactly what they are.",
         "pt-BR": "[Albus]\n^0000CDPedras Ilusionais^000000? Ah... Você ainda não sabe?",
-        "es-ES": "[Gran Comerciante]\n¿Te preguntas qué son las ^0000CDPiedras Ilusorias^000000? Bueno… No creo que nadie sepa exactamente qué son."
+        "es-ES": "[Gran Comerciante]\n¿Te preguntas qué son las ^0000CDPiedras Ilusorias^000000? Bueno... No creo que nadie sepa exactamente qué son."
     },
     "OOhPBg": {
         "en-US": "[Great Merchant]\nI only know they're rare and can only be found in some special places, and I'm here to collect them for my clients.",

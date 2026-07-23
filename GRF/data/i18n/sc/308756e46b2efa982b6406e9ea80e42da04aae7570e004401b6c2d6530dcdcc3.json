@@ -27,7 +27,7 @@
     "ZcHmAQ": {
         "en-US": "[Premi]\nFirst!\nThe thing that Premi is most confident in!\n^49B85B[Experience Increase]^000000 Magic!\nI need about ^49B85B4 Nyangvines ^000000worth of magic, ^49B85Band I can increase the experience gained by 30% for 1 day^000000!",
         "pt-BR": "[Premi]\nPrimeiro!\nA coisa em que Premi está mais confiante!\n^49B85B[Aumento de experiência]^000000 Magia!\nPreciso de cerca de ^49B85B4 MiauMiau^000000 de magia, ^49B85Be posso aumentar a experiência adquirida em 30% por 1 dia^000000!",
-        "es-ES": "[Premi]\n¡Primero!\nLo que Premi puede hacer es…\n^49B85B¡[Aumento de EXP]^000000!\n¡Con esta magia, recibirás un ^49B85B30 % de aumento de EXP por el resto del día^000000! Pero necesitaré ^49B85B4 Miaufrutos^000000 para lanzarlo."
+        "es-ES": "[Premi]\n¡Primero!\nLo que Premi puede hacer es...\n^49B85B¡[Aumento de EXP]^000000!\n¡Con esta magia, recibirás un ^49B85B30 % de aumento de EXP por el resto del día^000000! Pero necesitaré ^49B85B4 Miaufrutos^000000 para lanzarlo."
     },
     "ZsHmAQ": {
         "en-US": "[Premi]\nNext, ^49B85B[Drop rate]^000000 Magic!\nFor ^49B85B30% increase to drop rate for 1 day^000000I would need ^49B85B2 Nyangvines ^000000worth of magic!",
@@ -37,12 +37,12 @@
     "Z8HmAQ": {
         "en-US": "[Premi]\nAlso... Eh... Next....\n^49B85B[Death Pemalty reduction]^000000 magic....\n^49B85B1 Nyangvine^000000worth of magic is required, and the effects are excellent....",
         "pt-BR": "[Premi]\nTambém... Eh... Próximo....\n^49B85B[Reduzir a pena de morte]^000000 magic....\n^49B85B1 MiauMiau^000000são necessárias muitas magias, e os efeitos são excelentes....",
-        "es-ES": "[Premi]\nY… Mmm… El siguiente es…\n^49B85B[Reducción de la pena de muerte]^000000\nSolo cuesta ^49B85B1 Miaufruto^000000 y el efecto es superbueno…"
+        "es-ES": "[Premi]\nY... Mmm... El siguiente es...\n^49B85B[Reducción de la pena de muerte]^000000\nSolo cuesta ^49B85B1 Miaufruto^000000 y el efecto es superbueno..."
     },
     "aMHmAQ": {
         "en-US": "[Premi]\nBut you have to die first for the effects to take effect...\nI can't say I've tested it...\nUhh..It's an amazing piece of magic though...\nIf you have ^49B85BDeath penalty 50% reduction^000000...",
         "pt-BR": "[Premi]\nMas você tem que morrer primeiro para que os efeitos tenham efeito...\nNão posso dizer que já testei...\nMas é uma mágica incrível...\nSe você tiver ^49B85BPenalidade de morte com redução de 50%^000000...",
-        "es-ES": "[Premi]\nPeeero solo funciona si mueres primero…\nasí que no la he probado, pero…\ncréeme, es muy útil…\nReduce ^49B85Bla pena de muerte en un 50 %^000000…"
+        "es-ES": "[Premi]\nPeeero solo funciona si mueres primero...\nasí que no la he probado, pero...\ncréeme, es muy útil...\nReduce ^49B85Bla pena de muerte en un 50 %^000000..."
     },
     "acHmAQ": {
         "en-US": "[Premi]\nAlso, if you want the ^49B85B3-in-1 magic package^000000 then I'll need ^49B85B6 Nyangvines ^000000 worth of magic!\nYou don't have to get repeated instances of magic, and you get a discount too, isn't that great?!",
@@ -57,12 +57,12 @@
     "a8HmAQ": {
         "en-US": "[Premi]\nAnd finally!\nWe're also doing exchanges for^49B85B[Premium service employee] to a Premium box^000000!",
         "pt-BR": "[Premi]\nE finalmente!\nTambém estamos fazendo trocas de^49B85B[funcionário de serviço Premium] por uma caixa Premium^000000!",
-        "es-ES": "[Premi]\nPor último…\n¡Estoy cambiando el ^49B85B[Personal de servicio prémium] por Cajas prémium^000000!"
+        "es-ES": "[Premi]\nPor último...\n¡Estoy cambiando el ^49B85B[Personal de servicio prémium] por Cajas prémium^000000!"
     },
     "bMHmAQ": {
         "en-US": "[Premi]\nOur bo.. I mean the great magician ^49B85Bhas put a ton of presents, so exchange your remaining [Premium service employee]^000000 !",
         "pt-BR": "[Premi]\nNosso bo... Quero dizer, o grande mágico ^49B85B colocou uma tonelada de presentes, então troque seu [funcionário de serviço premium]^000000 restante!",
-        "es-ES": "[Premi]\nNuestro… no, el gran hechicero ha ^49B85Bpuesto un montón de regalos ahí dentro, ¡así que puedes cambiarlos por los objetos restantes del [Personal de servicio prémium]^000000!"
+        "es-ES": "[Premi]\nNuestro... no, el gran hechicero ha ^49B85Bpuesto un montón de regalos ahí dentro, ¡así que puedes cambiarlos por los objetos restantes del [Personal de servicio prémium]^000000!"
     },
     "bcHmAQ": {
         "en-US": "[Premi]\nSo what amazing magic shall Premi cast for you today?",
@@ -217,7 +217,7 @@
     "i8HmAQ": {
         "en-US": "[Premi]\nExactly!\nNyangvines are so precious!",
         "pt-BR": "[Premi]\nExatamente!\nOs MiauMiau são tão preciosos!",
-        "es-ES": "[Premi]\nMiau…\nSé cómo te sientes, los Miaufrutos son muy valiosos, miau…"
+        "es-ES": "[Premi]\nMiau...\nSé cómo te sientes, los Miaufrutos son muy valiosos, miau..."
     },
     "jMHmAQ": {
         "en-US": "[Premi]\nIf you need Premi's help, call Premi anytime!\nPremi will always be by {0}'s side~",
@@ -347,7 +347,7 @@
     "pcHmAQ": {
         "en-US": "[Premi]\n^49B85BIf you bring more [Premium service employee] items, you can get a better box!^000000\nHonestly, Premi prefers cardbox boxes to those shiny ones anyway~",
         "pt-BR": "[Perena]\n^49B85BSe você tiver 2 ou mais Cetro do Coração Lunar, posso trocá-los por Arcas VIP!^000000 \nVocê só precisa de 1 Cetro por conta!",
-        "es-ES": "[Premi]\n^49B85BSi traes más [Personal de servicio prémium], ¡puedes canjearlos por Cajas prémium aún mejores, ¡miau!^000000\nAunque… no necesitas a nadie más mientras tengas a Premi, ¿cierto?"
+        "es-ES": "[Premi]\n^49B85BSi traes más [Personal de servicio prémium], ¡puedes canjearlos por Cajas prémium aún mejores, ¡miau!^000000\nAunque... no necesitas a nadie más mientras tengas a Premi, ¿cierto?"
     },
     "psHmAQ": {
         "en-US": "[Premi]\nOne is Premi!\n^49B85BYou must have 7 [Premium service employee] items to exchange for 1 Premium golden box!^000000\nPremi can't be changed into a Premium box!",

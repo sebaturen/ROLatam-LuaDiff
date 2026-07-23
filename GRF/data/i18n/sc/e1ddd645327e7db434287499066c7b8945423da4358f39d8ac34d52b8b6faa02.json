@@ -7,12 +7,12 @@
     "4clyAQ": {
         "en-US": "[Jeepney Driver]\nUUrgghhhh.... I'm scared... so scared... what happened to this place?",
         "pt-BR": "[Motorista de Jeepney]\nUUrgghhhh.... Estou com medo... muito medo... o que aconteceu com esse lugar?",
-        "es-ES": "[Conductor de Jeepney]\nArghhhh… Tengo miedo… mucho miedo… ¿qué pasó en este lugar?"
+        "es-ES": "[Conductor de Jeepney]\nArghhhh... Tengo miedo... mucho miedo... ¿qué pasó en este lugar?"
     },
     "4slyAQ": {
         "en-US": "[Jeepney Driver]\nThe place is still a mess... I wonder if I can operate a jeepney here...",
         "pt-BR": "[Motorista de Jeepney]\nO lugar ainda está uma bagunça... Será que posso operar um jeepney aqui...",
-        "es-ES": "[Conductor de Jeepney]\nTodo sigue hecho un desastre aquí… Me pregunto si podré conducir un Jeepney aquí…"
+        "es-ES": "[Conductor de Jeepney]\nTodo sigue hecho un desastre aquí... Me pregunto si podré conducir un Jeepney aquí..."
     },
     "48lyAQ": {
         "en-US": "[Jeepney Driver]\nHa ha ha Welcome. I am ^1561EAVol^000000, operating the 12 man Jeepney here.",
@@ -37,7 +37,7 @@
     "58lyAQ": {
         "en-US": "Ah... Yes...",
         "pt-BR": "Ah... Entendi...",
-        "es-ES": "Ah… Sí…"
+        "es-ES": "Ah... Sí..."
     },
     "6MlyAQ": {
         "en-US": "[Jeepney Driver]\nI'm afraid the Jeepney is full.\nI'm sorry but how about some other Jeepney?",
@@ -137,12 +137,12 @@
     "+8lyAQ": {
         "en-US": "[Jeepney Driver]\nWha... What's... Going on in that hospital...",
         "pt-BR": "[Motorista de Jeepney]\nO que... O que está... O que está acontecendo naquele hospital...",
-        "es-ES": "[Conductor de Jeepney]\n¿Qué...? ¿Qué… está pasando en ese hospital?"
+        "es-ES": "[Conductor de Jeepney]\n¿Qué...? ¿Qué... está pasando en ese hospital?"
     },
     "/MlyAQ": {
         "en-US": "[Jeepney Driver]\nI think the moaning coming from the hospital has lessened...",
         "pt-BR": "[Motorista de Jeepney]\nAcho que os gemidos vindos do hospital diminuíram...",
-        "es-ES": "[Conductor de Jeepney]\nCreo que los gemidos que provienen del hospital disminuyeron…"
+        "es-ES": "[Conductor de Jeepney]\nCreo que los gemidos que provienen del hospital disminuyeron..."
     },
     "/clyAQ": {
         "en-US": "[Jeepney Driver]\nI'm\t^1561EAChui^000000, operating a 12 man Jeepney. Hi there~",
@@ -152,12 +152,12 @@
     "/slyAQ": {
         "en-US": "[Jeepney Driver]\nI modified my Jeepney myself...",
         "pt-BR": "[Motorista de Jeepney]\nEu mesmo modifiquei meu Jeepney...",
-        "es-ES": "[Conductor de Jeepney]\nYo modifiqué mi Jeepney…"
+        "es-ES": "[Conductor de Jeepney]\nYo modifiqué mi Jeepney..."
     },
     "/8lyAQ": {
         "en-US": "[Jeepney Driver]\nFor safety reasons there's a limit to the number of passengers, and it's safe so no worries...",
         "pt-BR": "[Motorista de Jeepney]\nPor razões de segurança, há um limite para o número de passageiros, e é seguro, então, não se preocupe...",
-        "es-ES": "[Conductor de Jeepney]\nPor razones de seguridad hay un límite en la cantidad de pasajeros, y es seguro, así que no te preocupes…"
+        "es-ES": "[Conductor de Jeepney]\nPor razones de seguridad hay un límite en la cantidad de pasajeros, y es seguro, así que no te preocupes..."
     },
     "AMpyAQ": {
         "en-US": "Center Jeepney",
@@ -167,12 +167,12 @@
     "AcpyAQ": {
         "en-US": "[Jeepney Driver]\nIt's not good for outsiders to have a chat... Perhaps the Mumbaki Leader may have the solution for this.",
         "pt-BR": "[Motorista de Jeepney]\nNão é bom que pessoas de fora conversem... Talvez o líder Mumbaki tenha a solução para isso.",
-        "es-ES": "[Conductor de Jeepney]\nNo es bueno que los forasteros charlen… Quizás el líder mumbaki tenga la solución para esto."
+        "es-ES": "[Conductor de Jeepney]\nNo es bueno que los forasteros charlen... Quizás el líder mumbaki tenga la solución para esto."
     },
     "AspyAQ": {
         "en-US": "[Jeepney Driver]\nAre you the adventurer who recently met Mumbaki? No wait... Then you shouldn't be here... Yes it's a ghost... Arghhhh...",
         "pt-BR": "[Motorista de Jeepney]\nVocê é o aventureiro que conheceu Mumbaki recentemente? Não, espere... Então você não deveria estar aqui... Sim, é um fantasma... Arghhhh...",
-        "es-ES": "[Conductor de Jeepney]\n¿Eres esa persona trotamundos que conoció al mumbaki hace poco? No, espera… Entonces, no deberías estar aquí… Sí, es un fantasma… Arghhhh..."
+        "es-ES": "[Conductor de Jeepney]\n¿Eres esa persona trotamundos que conoció al mumbaki hace poco? No, espera... Entonces, no deberías estar aquí... Sí, es un fantasma... Arghhhh..."
     },
     "A8pyAQ": {
         "en-US": "[Jeepney Driver]\nThe name's ^1561EATop^000000, operating one of the 3 12 man Jeepneys in town.",
@@ -187,7 +187,7 @@
     "BcpyAQ": {
         "en-US": "[Jeepney Driver]\nThey all look different depending on their drivers...",
         "pt-BR": "[Motorista de Jeepney]\nTodos eles têm uma aparência diferente, dependendo de seus motoristas...",
-        "es-ES": "[Conductor de Jeepney]\nTodos tienen distinto aspecto, según el conductor…"
+        "es-ES": "[Conductor de Jeepney]\nTodos tienen distinto aspecto, según el conductor..."
     },
     "BspyAQ": {
         "en-US": "[Jeepney Driver]\nNow it is the fame of Port Malaya.",
@@ -197,12 +197,12 @@
     "B8pyAQ": {
         "en-US": "[Jeepney Driver]\nG...Go... Go away...",
         "pt-BR": "[Motorista de Jeepney]\nV... Vá... Vá embora...",
-        "es-ES": "[Conductor de Jeepney]\nV-ve… Vete…"
+        "es-ES": "[Conductor de Jeepney]\nV-ve... Vete..."
     },
     "CMpyAQ": {
         "en-US": "[Jeepney Driver]\nArghh... Scared the devil out of me... Go away... Shoo...",
         "pt-BR": "[Motorista de Jeepney]\nArghh... Me deu um susto do diabo... Vá embora... Xô...",
-        "es-ES": "[Conductor de Jeepney]\nArghh... Me diste un susto de muerte… Vete… Fuera…"
+        "es-ES": "[Conductor de Jeepney]\nArghh... Me diste un susto de muerte... Vete... Fuera..."
     },
     "CcpyAQ": {
         "en-US": "[Jeepney Driver]\n^1561EABrav^000000, 30 man Jeepney driver at your service, driving as safely as I can since I get scared easily.",
@@ -217,7 +217,7 @@
     "C8pyAQ": {
         "en-US": "Ah.. Yes...",
         "pt-BR": "Ah... sim...",
-        "es-ES": "Ah… Sí…"
+        "es-ES": "Ah... Sí..."
     },
     "DMpyAQ": {
         "en-US": "[Jeepney Driver]\nThe modified cars are decorated by their operators.",
@@ -242,12 +242,12 @@
     "EMpyAQ": {
         "en-US": "[Jeepney Driver]\nG... Ghosts in town... Hey... Do you have one on you?",
         "pt-BR": "[Motorista de Jeepney]\nF... Fantasmas na cidade... Ei... Você tem um com você?",
-        "es-ES": "[Conductor de Jeepney]\nF… Fantasmas en la ciudad… Oye… ¿Llevas uno encima?"
+        "es-ES": "[Conductor de Jeepney]\nF... Fantasmas en la ciudad... Oye... ¿Llevas uno encima?"
     },
     "EcpyAQ": {
         "en-US": "[Jeepney Driver]\nI think there are fewer ghosts now... The town is slightly quieter...",
         "pt-BR": "[Motorista de Jeepney]\nAcho que há menos fantasmas agora... A cidade está um pouco mais tranquila...",
-        "es-ES": "[Conductor de Jeepney]\nCreo que ahora hay menos fantasmas… La ciudad está un poco más tranquila…"
+        "es-ES": "[Conductor de Jeepney]\nCreo que ahora hay menos fantasmas... La ciudad está un poco más tranquila..."
     },
     "EspyAQ": {
         "en-US": "[Jeepney Driver]\nHi I'm ^1561EALivil^000000 operator for the 30 man Jeepney. Safety is my priority.",
@@ -277,12 +277,12 @@
     "F8pyAQ": {
         "en-US": "[Jeepney Driver]\nGu... Guards... What are the guards doing...",
         "pt-BR": "[Motorista de Jeepney]\nGu... Guardas... O que os guardas estão fazendo...",
-        "es-ES": "[Conductor de Jeepney]\nGu… Guardias… ¿Qué hacen los guardias…?"
+        "es-ES": "[Conductor de Jeepney]\nGu... Guardias... ¿Qué hacen los guardias...?"
     },
     "GMpyAQ": {
         "en-US": "[Jeepney Driver]\nDid the guards finally do something? Phew... What a rush...",
         "pt-BR": "[Motorista de Jeepney]\nOs guardas finalmente fizeram alguma coisa? Ufa... Que correria...",
-        "es-ES": "[Conductor de Jeepney]\n¿Finalmente hicieron algo los guardias? Fiu… ¡Qué intenso…!"
+        "es-ES": "[Conductor de Jeepney]\n¿Finalmente hicieron algo los guardias? Fiu... ¡Qué intenso...!"
     },
     "GcpyAQ": {
         "en-US": "[Jeepney Driver]\nI'm ^1561EAGad^000000, the trustworthy 30 man Jeepney driver.",
@@ -307,22 +307,22 @@
     "HcpyAQ": {
         "en-US": "[Jeepney Driver]\nThis Jeepney is my very own handiwork. Ha ha ha... It's cool right? Ha ha ha",
         "pt-BR": "[Motorista de Jeepney]\nEste Jeepney é minha própria obra. Ha ha ha... É legal, não é? Ha ha ha",
-        "es-ES": "[Conductor de Jeepney]\nEste Jeepney es obra mía. Ja, ja, ja… Es genial, ¿verdad? Ja, ja, ja."
+        "es-ES": "[Conductor de Jeepney]\nEste Jeepney es obra mía. Ja, ja, ja... Es genial, ¿verdad? Ja, ja, ja."
     },
     "HspyAQ": {
         "en-US": "[Jeepney Driver]\nEven though the customer is king, I can't let you drive it... Ha ha ha",
         "pt-BR": "[Motorista de Jeepney]\nMesmo que o cliente seja o rei, não posso deixá-lo dirigi-lo... Ha ha ha",
-        "es-ES": "[Conductor de Jeepney]\nAunque el cliente siempre tiene la razón, no puedo dejar que lo conduzcas… Ja, ja, ja."
+        "es-ES": "[Conductor de Jeepney]\nAunque el cliente siempre tiene la razón, no puedo dejar que lo conduzcas... Ja, ja, ja."
     },
     "H8pyAQ": {
         "en-US": "[Jeepney Driver]\nOh no... I think the whole village is bewitched by ghosts... Maybe... I should give the Mumbaki Leader a visit...",
         "pt-BR": "[Motorista de Jeepney]\nAh, não... Acho que a aldeia inteira está enfeitiçada por fantasmas... Talvez... Eu deveria fazer uma visita ao líder Mumbaki...",
-        "es-ES": "[Conductor de Jeepney]\nAy, no… Creo que todo el pueblo está embrujado con fantasmas… Tal vez… debería visitar al líder mumbaki…"
+        "es-ES": "[Conductor de Jeepney]\nAy, no... Creo que todo el pueblo está embrujado con fantasmas... Tal vez... debería visitar al líder mumbaki..."
     },
     "IMpyAQ": {
         "en-US": "[Jeepney Driver]\nGhost... I'm sure the Mumbaki Leader knows how to get rid of these ghosts...",
         "pt-BR": "[Motorista de Jeepney]\nFantasma... Tenho certeza de que o líder Mumbaki sabe como se livrar desses fantasmas...",
-        "es-ES": "[Conductor de Jeepney]\nFantasma… No tengo duda de que el líder mumbaki sabrá cómo deshacerse de estos fantasmas…"
+        "es-ES": "[Conductor de Jeepney]\nFantasma... No tengo duda de que el líder mumbaki sabrá cómo deshacerse de estos fantasmas..."
     },
     "IcpyAQ": {
         "en-US": "[Jeepney Driver]\n^1561EAHott^000000, at your service, the safest 60 man Jeepney Operator.",
@@ -352,7 +352,7 @@
     "JspyAQ": {
         "en-US": "[Jeepney Driver]\nHey... You... Are human right? Right? Huh? Say you are... Please...",
         "pt-BR": "[Motorista de Jeepney]\nEi... Você... É humano, certo? Não é? Não é? Diz que sim... Por favor...",
-        "es-ES": "[Conductor de Jeepney]\nOye… Tú... eres un ser humano, ¿verdad? ¿Verdad? ¿Eh? Di que lo eres… Por favor…"
+        "es-ES": "[Conductor de Jeepney]\nOye... Tú... eres un ser humano, ¿verdad? ¿Verdad? ¿Eh? Di que lo eres... Por favor..."
     },
     "J8pyAQ": {
         "en-US": "[Jeepney Driver]\nHullo, I'm ^1561EAMuyan^000000, operator of this 60 man Jeepney. Nice to meet you.",
@@ -372,12 +372,12 @@
     "KspyAQ": {
         "en-US": "[Jeepney Driver]\nMeaning!! That it is perfectly safe!! Don't you worry about the ride.",
         "pt-BR": "[Motorista de Jeepney]\nOu seja: é perfeitamente seguro!!! Não se preocupe com a viagem.",
-        "es-ES": "[Conductor de Jeepney]\nLo que significa… ¡que es perfectamente seguro! Así que no te preocupes por el viaje."
+        "es-ES": "[Conductor de Jeepney]\nLo que significa... ¡que es perfectamente seguro! Así que no te preocupes por el viaje."
     },
     "K8pyAQ": {
         "en-US": "[Jeepney Driver]\n...You're an outsider... Don't go touching anything and be careful in town...",
         "pt-BR": "[Motorista de Jeepney]\n...Você não é daqui... Não toque em nada e tenha cuidado na cidade...",
-        "es-ES": "[Conductor de Jeepney]\nEres alguien de afuera… No vayas a tocar nada y ten cuidado en la ciudad…"
+        "es-ES": "[Conductor de Jeepney]\nEres alguien de afuera... No vayas a tocar nada y ten cuidado en la ciudad..."
     },
     "LMpyAQ": {
         "en-US": "[Jeepney Driver]\nThe town is still quite dangerous. Best not touch anything until it is safe.",

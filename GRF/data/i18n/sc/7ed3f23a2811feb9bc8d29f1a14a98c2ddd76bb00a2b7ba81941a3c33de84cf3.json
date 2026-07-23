@@ -42,7 +42,7 @@
     "aMJIAw": {
         "en-US": "[Buzz]\nAh, did you rest we-- Oh.\nWhy do you look so pale?\nYou can't accomplish great\ndeeds when you're overworked!\nRest. Your guild must be able\nto depend on your strength.",
         "pt-BR": "[Buzz]\nAh, você descansou, nós... Oh.\nPor que você está tão pálido?\nVocê não pode realizar grandes\nfeitos quando se está sobrecarregado!\nDescanse. Sua guilda deve ser capaz\ndepender de sua força.",
-        "es-ES": "[Buzz]\n¿Ya descansaste lo sufici…? ¿Eh?\nNo tienes muy buena cara…\nNo se pueden lograr grandes\ncosas cuando tienes demasiadas responsabilidades a la vez.\n¡Descansa un poco! Tu clan necesita poder\ndepender de tu fortaleza."
+        "es-ES": "[Buzz]\n¿Ya descansaste lo sufici...? ¿Eh?\nNo tienes muy buena cara...\nNo se pueden lograr grandes\ncosas cuando tienes demasiadas responsabilidades a la vez.\n¡Descansa un poco! Tu clan necesita poder\ndepender de tu fortaleza."
     },
     "acJIAw": {
         "en-US": "[Buzz]\nYour determination and\nspirit is commendable, but\nhave the patience to recollect\nyourself when you must. I will\nbe waiting here, so please\ncome back to me later.",
@@ -87,12 +87,12 @@
     "ccJIAw": {
         "en-US": "...............................\n...............................",
         "pt-BR": "...............................\n...............................",
-        "es-ES": "…\n…"
+        "es-ES": "...\n..."
     },
     "csJIAw": {
         "en-US": "...............................\n...............................\n...............................",
         "pt-BR": "...............................\n...............................\n...............................",
-        "es-ES": "…\n…\n…"
+        "es-ES": "...\n...\n..."
     },
     "c8JIAw": {
         "en-US": "[Buzz]",
@@ -102,12 +102,12 @@
     "dMJIAw": {
         "en-US": "Oh! M-master? Wh-when\ndid you...? I'm so sorry.\nI was busy working.",
         "pt-BR": "Oh! M-mestre? Q-quando\no senhor...? Sinto muito.\nEu estava ocupado trabalhando.",
-        "es-ES": "¿Eh? ¿L-líder? ¿D-desde cuándo\nestás…? Lo lamento mucho.\nEstaba absorto en mi trabajo."
+        "es-ES": "¿Eh? ¿L-líder? ¿D-desde cuándo\nestás...? Lo lamento mucho.\nEstaba absorto en mi trabajo."
     },
     "dcJIAw": {
         "en-US": "[Buzz]\nIt's only been a few days\nsince you finished the trials.\nFor now, you should rest and\ntake care of your guild, okay?\nPlease come back later.\nI've got much to attend to...",
         "pt-BR": "[Buzz]\nFaz alguns dias\nque você terminou sua provação.\nPor agora, você deve descansar e\ncuidar da sua guilda, certo?\nPor favor, volte mais tarde.\nTenho muito a fazer...",
-        "es-ES": "[Buzz]\nHan pasado solo un par de días\ndesde que completaste tus pruebas.\nPor ahora, es mejor que descanses\ny cuides de tu clan, ¿está bien?\nPor favor, vuelve más tarde.\nTengo tanto que resolver por aquí…"
+        "es-ES": "[Buzz]\nHan pasado solo un par de días\ndesde que completaste tus pruebas.\nPor ahora, es mejor que descanses\ny cuides de tu clan, ¿está bien?\nPor favor, vuelve más tarde.\nTengo tanto que resolver por aquí..."
     },
     "dsJIAw": {
         "en-US": "[Buzz]\nGood day, master.\nIs something wrong?\nYou look as though\nsomething is on your mind.",
@@ -117,7 +117,7 @@
     "d8JIAw": {
         "en-US": "N-no, nothing.",
         "pt-BR": "N-não, nada.",
-        "es-ES": "N-no es nada…"
+        "es-ES": "N-no es nada..."
     },
     "eMJIAw": {
         "en-US": "I want to take a lesson.",
@@ -127,7 +127,7 @@
     "ecJIAw": {
         "en-US": "[Buzz]\nHm? That's strange.",
         "pt-BR": "[Buzz]\nHm? Que estranho.",
-        "es-ES": "[Buzz]\n¿Eh? Qué extraño…"
+        "es-ES": "[Buzz]\n¿Eh? Qué extraño..."
     },
     "esJIAw": {
         "en-US": "You didn't want to take\nthe trials again, did you?",
@@ -137,7 +137,7 @@
     "e8JIAw": {
         "en-US": "[Buzz]\nI see. You know it won't\nbe easy, but I suppose you\nare prepared. Here, take\nthe ^4D4DFFSpirit of Guild^000000, and\ngive it to your most trusted\nKnight or Lord Knight.",
         "pt-BR": "[Buzz]\nEntendo. Você sabe que não será\nfácil, mas acredito que você\nesteja preparado. Aqui, pegue\no ^4D4DFFEspírito da Guilda^000000 e\nentregue-o ao seu mais confiável\nCavaleiro ou Lorde.",
-        "es-ES": "[Buzz]\nYa veo. Sabes que no\nserá fácil, pero supongo que\npreparaste para esto. Toma…\nel ^4D4DFFSímbolo de hermandad^000000 y\nentrégaselo a un miembro\nde clase Caballero o Lord caballero."
+        "es-ES": "[Buzz]\nYa veo. Sabes que no\nserá fácil, pero supongo que\npreparaste para esto. Toma...\nel ^4D4DFFSímbolo de hermandad^000000 y\nentrégaselo a un miembro\nde clase Caballero o Lord caballero."
     },
     "fMJIAw": {
         "en-US": "[Buzz]\nThis Knight should take\nthe Spirit of Guild over\nto ^4D4DFFLenya^000000. Good luck, and\nmay the gods be with you.",
@@ -147,7 +147,7 @@
     "fcJIAw": {
         "en-US": "[Buzz]\nYou still have the Spirit of\nGuild I gave you? I suppose\nyou haven't found a Knight or\nLord Knight to which it can\nbe entrusted. It is imperative\nthat you find someone soon.",
         "pt-BR": "[Buzz]\nVocê ainda possui o Espírito da\nGuilda que lhe dei? Suponho que\nnão tenha encontrado um Cavaleiro ou\nLorde a quem ele possa\nser confiado. É importante\nque você encontre alguém logo.",
-        "es-ES": "[Buzz]\n¿Todavía llevas contigo el Símbolo\nde hermandad que te entregué? ¡Su-su-supongo que lo p-puedo hacer…!\nno has encontrado a una persona de clase Caballero\no Lord caballero a quien\nconfiarle este objeto. Es importantísimo\nque encuentres a alguien pronto."
+        "es-ES": "[Buzz]\n¿Todavía llevas contigo el Símbolo\nde hermandad que te entregué? ¡Su-su-supongo que lo p-puedo hacer...!\nno has encontrado a una persona de clase Caballero\no Lord caballero a quien\nconfiarle este objeto. Es importantísimo\nque encuentres a alguien pronto."
     },
     "fsJIAw": {
         "en-US": "[Buzz]\nFor the sake of the guild, it\nwill be advantageous to have\na Knight or Lord Knight on\nyour side: their combat skills\ncan turn the tide of battles.",
@@ -492,7 +492,7 @@
     "wsJIAw": {
         "en-US": "[Buzz]\nOh, really?\nThat's too bad...\nMy apologies, but\nI can't allow strangers\nto simply come and go\naround here. Farewell, then.",
         "pt-BR": "[Buzz]\nAh, sério?\nIsso é ruim...\nMinhas desculpas, mas\nnão posso permitir \nestranhos vagando\npor aqui. Então, adeus.",
-        "es-ES": "[Buzz]\nAh, ¿de verdad?\nQué mal…\nLo siento, pero\nno puedo permitir que gente extraña\ndeambule libremente\npor aquí. Adiós."
+        "es-ES": "[Buzz]\nAh, ¿de verdad?\nQué mal...\nLo siento, pero\nno puedo permitir que gente extraña\ndeambule libremente\npor aquí. Adiós."
     },
     "w8JIAw": {
         "en-US": "[Buzz]\nOh, really? Ah, now\nI recognize you, ^4D4DFF{0}^000000.\nPlease come in, and make\nyourself comfortable.",
@@ -507,12 +507,12 @@
     "xcJIAw": {
         "en-US": "[Lenya]\nHm. You can't just keep\nthat spirit to yourself.\nGive it to a ^FF0000Knight^000000 or\na ^FF0000Lord Knight^000000. Hurry it up!\nYou need to work fast to\nexpand your guild.",
         "pt-BR": "[Lenya]\nHm. Você não pode ficar\ncom esse espírito para você.\nDê-o a um ^FF0000Cavaleiro^000000 ou\num ^FF0000Lorde^000000. Seja rápido!\nVocê precisa trabalhar rápido para\nexpandir sua guilda.",
-        "es-ES": "[Lenya]\nMmm… No puedes quedarte\ncon ese Símbolo.\nEntrégaselo a un miembro de clase ^FF0000Caballero^000000 o\n^FF0000Lord caballero^000000. \nDeberás trabajar rápido si quieres\nhacer crecer tu clan."
+        "es-ES": "[Lenya]\nMmm... No puedes quedarte\ncon ese Símbolo.\nEntrégaselo a un miembro de clase ^FF0000Caballero^000000 o\n^FF0000Lord caballero^000000. \nDeberás trabajar rápido si quieres\nhacer crecer tu clan."
     },
     "xsJIAw": {
         "en-US": "[Lenya]\nHm. You seem awfully\nbusy. Why don't you just\ntake a break, and relax?\nIt's alright to have fun\nif you're feeling a lot of\npressure. Heh heh heh~",
         "pt-BR": "[Lenya]\nHm. Você parece extremamente\nocupado. Por que você não\nfaz uma pausa e relaxa?\nNão há problema em se divertir\nse você estiver sob muita\npressão. Heh heh heh~",
-        "es-ES": "[Lenya]\nMmm… Parece que tienes mucho\nque hacer. ¿Por qué no\nte tomas un descanso y te relajas?\nEstá bien divertirse un poco\ncuando sientes que te agobia\nla presión. Je, je, je."
+        "es-ES": "[Lenya]\nMmm... Parece que tienes mucho\nque hacer. ¿Por qué no\nte tomas un descanso y te relajas?\nEstá bien divertirse un poco\ncuando sientes que te agobia\nla presión. Je, je, je."
     },
     "x8JIAw": {
         "en-US": "[Lenya]\nFor your first test,\nI'll start you off with\nsomething pretty simple.\nJust collect some items,\nand bring them to me. Ah, and\nyour guild can help you too.",
@@ -537,7 +537,7 @@
     "y8JIAw": {
         "en-US": "[Lenya]\nHuh. I didn't actually\nexpect that you'd collect\nall these items. Good job.\nNow, take this and give it to\na Blacksmith or Mastersmith.\nYour guild's pretty good...",
         "pt-BR": "[Lenya]\nHuh. Na verdade, eu não\nacreditei que você coletaria\ntodos esses itens. Bom trabalho.\nAgora, pegue isso e entregue-o a\num Ferreiro ou Mestre-Ferreiro.\nSua guilda é muito boa...",
-        "es-ES": "[Lenya]\nMm… La verdad es que no\nesperé que me consiguieras\ntodos estos objetos. Bien hecho.\nAhora, toma esto y entrégaselo\na un miembro de clase Herrero o Maestro herrero.\nTu clan sabe lo que hace, ¿eh?"
+        "es-ES": "[Lenya]\nMm... La verdad es que no\nesperé que me consiguieras\ntodos estos objetos. Bien hecho.\nAhora, toma esto y entrégaselo\na un miembro de clase Herrero o Maestro herrero.\nTu clan sabe lo que hace, ¿eh?"
     },
     "zMJIAw": {
         "en-US": "[Lenya]\nDid you forget what\nto bring me? I wanted\n^FF000030 Tongues^000000,\n^FF000030 Dark Masks^000000, and\n^FF000030 Shoulder Protectors^000000.\nDon't forget this time.",
@@ -557,7 +557,7 @@
     "z8JIAw": {
         "en-US": "[Lenya]\nWow, you brought the\nitems sooner than I had\nexpected. Great! Well then,\nyour next task for me will\nbe to... Wait. Wait and\nkill some time. Easy, huh?",
         "pt-BR": "[Lenya]\nUau, você trouxe os\nitens antes do que eu\nesperava. Fantástico! Então,\nsua próxima tarefa para mim\nserá... Esperar. Esperar e\nmatar um tempo. Fácil, né?",
-        "es-ES": "[Lenya]\nGuau, conseguiste los\nobjetos más rápido de lo que\nesperaba. ¡Genial! Pues bien,\ntu siguiente tarea\nserá… Esperar. Quiero que esperes\ny dejes pasar el tiempo."
+        "es-ES": "[Lenya]\nGuau, conseguiste los\nobjetos más rápido de lo que\nesperaba. ¡Genial! Pues bien,\ntu siguiente tarea\nserá... Esperar. Quiero que esperes\ny dejes pasar el tiempo."
     },
     "0MJIAw": {
         "en-US": "[Lenya]\n^FF0000just waiting.^000000\nJusting wait and kill\nsome time. You can do\nwhatever you want to\ndo during that time.",
@@ -582,7 +582,7 @@
     "1MJIAw": {
         "en-US": "[Lenya]\nOh, you got it, eh?\nYou might not think this\nwill be so hard, but I'm\ngoing to give you a much\ndifferent challenge now.\nAre you ready for it?",
         "pt-BR": "[Lenya]\nAh, você conseguiu, hein?\nTalvez você não ache que isso\nnão seja tão difícil, mas eu\nvou lhe dar um desafio\nmuito diferente agora.\nEstá pronto para ele?",
-        "es-ES": "[Lenya]\nAh, ¡así que lo entregaron a ti!\nQuizá pienses que esto\nserá fácil, pero te\ndaré un desafío\nmuy diferente.\nAquí va…"
+        "es-ES": "[Lenya]\nAh, ¡así que lo entregaron a ti!\nQuizá pienses que esto\nserá fácil, pero te\ndaré un desafío\nmuy diferente.\nAquí va..."
     },
     "1cJIAw": {
         "en-US": "[Lenya]\nYour test will be to\ngrow a little stronger!\nYou'll pass once you\ngain 3 more levels.\nHow about that, eh?",
@@ -667,7 +667,7 @@
     "5cJIAw": {
         "en-US": "[Lenya]\nHm. Don't you have\nanything to do? I suppose\nit's better to be bored\nthan to be overwhelmed.\nOh well, you'll figure\nsomething out.",
         "pt-BR": "[Lenya]\nHm. Você não tem\nnada para fazer? Acho que\né melhor ficar entediado\ndo que ficar sobrecarregado.\nAh, você vai encontrar\nalgo para fazer.",
-        "es-ES": "[Lenya]\nMmm… ¿No tienes\n¡Su-su-supongo que lo p-puedo hacer…!\nes mejor aburrirse\nque sentirse abrumado.\nEn fin, ya se te ocurrirá\nalgo que hacer."
+        "es-ES": "[Lenya]\nMmm... ¿No tienes\n¡Su-su-supongo que lo p-puedo hacer...!\nes mejor aburrirse\nque sentirse abrumado.\nEn fin, ya se te ocurrirá\nalgo que hacer."
     },
     "5sJIAw": {
         "en-US": "[Lenya]\nPlease give the\nSpirit of Coordination\nto a ^FF0000Hunter^000000 or ^FF0000Sniper^000000.\nIt won't do any good in the\nhands of anybody else.",
@@ -842,7 +842,7 @@
     "CMNIAw": {
         "en-US": "[Gealuve]\nHm. You're much stronger\nthat I expected. There's no\nneed for me to encourage\nyou to develop your strength.\nI admit that you are strong.",
         "pt-BR": "[Gealuve]\nHm. Você é muito mais forte\ndo que eu esperava. Não há necessidade\nde eu encorajá-lo\na desenvolver sua força.\nAdmito que você é forte.",
-        "es-ES": "[Gealuve]\nMmm… Eres mucho más fuerte\nde lo que esperaba. No se sabe…\nno es necesario que te pida\nque te vuelvas más fuerte.\nAdmiro que tienes mucho potencial."
+        "es-ES": "[Gealuve]\nMmm... Eres mucho más fuerte\nde lo que esperaba. No se sabe...\nno es necesario que te pida\nque te vuelvas más fuerte.\nAdmiro que tienes mucho potencial."
     },
     "CcNIAw": {
         "en-US": "[Gealuve]\nAcknowledge the extent and\nlimits of your strength, but\nnever allow conceit to pollute\nyour heart. Pride will always\nshackle your power if you\nlet it. Remember humility.",
@@ -872,12 +872,12 @@
     "DsNIAw": {
         "en-US": "[Gealuve]\nHmm... I don't think you've\nspent enough time leveling\nup yet. Keep working on it.",
         "pt-BR": "[Gealuve]\nHmm... Eu não acho que você\ngastou tempo suficiente subindo de nível.\nContinue trabalhando nisso.",
-        "es-ES": "[Gealuve]\nMmm… Creo que aún no pasas\nsuficiente tiempo subiendo de nivel\n. Sigue esforzándote por ahora."
+        "es-ES": "[Gealuve]\nMmm... Creo que aún no pasas\nsuficiente tiempo subiendo de nivel\n. Sigue esforzándote por ahora."
     },
     "D8NIAw": {
         "en-US": "[Gealuve]\nHm. You're the master\nof another guild, aren't\nyou? I have no loyalty\ntowards you. Please...\nLeave this place.",
         "pt-BR": "[Gealuve]\nHm. Você é o mestre\nde outra guilda, não é?\nNão tenho lealdade\nem relação a você. Por favor...\nDeixe este lugar.",
-        "es-ES": "[Gealuve]\nMmm… Eres líder\nde otro clan, ¿no es\ncomo tú! No se me ha encomendado\nservirte a ti. Por favor…\nabandones este lugar."
+        "es-ES": "[Gealuve]\nMmm... Eres líder\nde otro clan, ¿no es\ncomo tú! No se me ha encomendado\nservirte a ti. Por favor...\nabandones este lugar."
     },
     "EMNIAw": {
         "en-US": "[Gealuve]\nHm? You have no reason\nto linger in this stronghold.\nPlease leave this place now.",
@@ -897,7 +897,7 @@
     "E8NIAw": {
         "en-US": "[Gealuve]\nI suppose you really\ndon't have much use\nfor me anymore... But I'll\nalways offer my support.",
         "pt-BR": "[Gealuve]\nAcredito que você \nnão tenha mais muita utilidade\npara mim... Mas eu\nsempre oferecerei meu apoio.",
-        "es-ES": "[Gealuve]\nSupongo que ya no hay\nnada más que pueda hacer\npor ti… Pero\nsiempre tendrás mi apoyo."
+        "es-ES": "[Gealuve]\nSupongo que ya no hay\nnada más que pueda hacer\npor ti... Pero\nsiempre tendrás mi apoyo."
     },
     "FMNIAw": {
         "en-US": "[Gealuve]\nThere's no need for you\nto hold onto that Spirit of\nCombination. Please give\nit to an Assassin or Assassin\nCross in your guild.",
@@ -922,7 +922,7 @@
     "GMNIAw": {
         "en-US": "I suppose you really\ndon't have much use\nfor me anymore... But I'll\nalways offer my support.",
         "pt-BR": "Acredito que você \nnão tenha mais muita utilidade\npara mim... Mas eu\nsempre oferecerei meu apoio.",
-        "es-ES": "Supongo que ya no hay\nnada más que pueda hacer\npor ti… Pero\nsiempre tendrás mi apoyo."
+        "es-ES": "Supongo que ya no hay\nnada más que pueda hacer\npor ti... Pero\nsiempre tendrás mi apoyo."
     },
     "GcNIAw": {
         "en-US": "[Gealuve]\nThere's no need for you\nto hold onto that Spirit\nof Solidarity. Please give\nit to a Wizard or High\nWizard in your guild.",
@@ -957,7 +957,7 @@
     "H8NIAw": {
         "en-US": "[Pariz]\nHm? That spirit that\nyou've brought with you...\nI'm sorry, but it's useless\nfor you to carry it around.",
         "pt-BR": "[Pariz]\nHm? Esse espírito que\nvocê trouxe com você...\nSinto muito, mas é inútil\npara você carregá-lo por aí.",
-        "es-ES": "[Pariz]\n¿Eh? Ese Símbolo que\ntraes contigo…\nLo siento, pero no hay motivo\npara que lo cargues contigo."
+        "es-ES": "[Pariz]\n¿Eh? Ese Símbolo que\ntraes contigo...\nLo siento, pero no hay motivo\npara que lo cargues contigo."
     },
     "IMNIAw": {
         "en-US": "[Pariz]\nPlease give that to\na ^FF0000Rogue^000000 or ^FF0000Stalker^000000\nin your guild, and then\nask him bring it to me.",
@@ -992,7 +992,7 @@
     "JsNIAw": {
         "en-US": "[Pariz]\nI see that you've\nformed a party with\nthe exact number of\npeople that I asked. Hmm.\nI guess you can be trusted\nto lead when you must.",
         "pt-BR": "[Pariz]\nEstou vendo que você\nformou um grupo com\no número exato de\npessoas que eu pedi. Hmm.\nAcho que pode se confiar em você\npara liderar, se necessário.",
-        "es-ES": "[Pariz]\nI see that you've\nformaste un grupo con\nel número exacto de\npersonas que te pedí. Mmm…\nSupongo que se puede confiar en ti\npara liderar un grupo cuando hace falta."
+        "es-ES": "[Pariz]\nI see that you've\nformaste un grupo con\nel número exacto de\npersonas que te pedí. Mmm...\nSupongo que se puede confiar en ti\npara liderar un grupo cuando hace falta."
     },
     "J8NIAw": {
         "en-US": "[Pariz]\nHere. I want you to take\nthis spirit, and then give\nit to a Priest or High\nPriest in your guild.",
@@ -1002,17 +1002,17 @@
     "KMNIAw": {
         "en-US": "[Pariz]\nI thought I asked you to\n^FF0000form a party of 6 members^000000?\nNo more and no less. Hmm.\nCome back to me after you've\nfinished this simple task.",
         "pt-BR": "[Pariz]\nPensei que tinha lhe pedido para\n^FF0000formar um grupo com 6 membros^000000?\nNem mais, nem menos. Hmm.\nVolte quando terminar\nessa simples tarefa.",
-        "es-ES": "[Pariz]\nSi no me equivoco, te pedí\n^FF0000que organizaras un grupo de 6 personas^000000, ¿no?\nMmm…\nVuelve cuando hayas\ncompletado esta sencilla tarea."
+        "es-ES": "[Pariz]\nSi no me equivoco, te pedí\n^FF0000que organizaras un grupo de 6 personas^000000, ¿no?\nMmm...\nVuelve cuando hayas\ncompletado esta sencilla tarea."
     },
     "KcNIAw": {
         "en-US": "[Pariz]\nI thought I asked you to\n^FF0000form a party of 8 members^000000?\nNo more and no less. Hmm.\nCome back to me after you've\nfinished this simple task.",
         "pt-BR": "[Pariz]\nPensei que tinha lhe pedido para\n^FF0000formar um grupo com 8 membros^000000?\nNem mais, nem menos. Hmm.\nVolte quando terminar\nessa simples tarefa.",
-        "es-ES": "[Pariz]\nSi no me equivoco, te pedí\n^FF0000que organizaras un grupo de 8 personas^000000, ¿no?\nMmm…\nVuelve cuando hayas\ncompletado esta sencilla tarea."
+        "es-ES": "[Pariz]\nSi no me equivoco, te pedí\n^FF0000que organizaras un grupo de 8 personas^000000, ¿no?\nMmm...\nVuelve cuando hayas\ncompletado esta sencilla tarea."
     },
     "KsNIAw": {
         "en-US": "[Pariz]\nI thought I asked you to\n^FF0000form a party of 10 members^000000?\nNo more and no less. Hmm.\nCome back to me after you've\nfinished this simple task.",
         "pt-BR": "[Pariz]\nPensei que tinha lhe pedido para\n^FF0000formar um grupo com 10 membros^000000?\nNem mais, nem menos. Hmm.\nVolte quando terminar\nessa simples tarefa.",
-        "es-ES": "[Pariz]\nSi no me equivoco, te pedí\n^FF0000que organizaras un grupo de 10 personas^000000, ¿no?\nMmm…\nVuelve cuando hayas\ncompletado esta sencilla tarea."
+        "es-ES": "[Pariz]\nSi no me equivoco, te pedí\n^FF0000que organizaras un grupo de 10 personas^000000, ¿no?\nMmm...\nVuelve cuando hayas\ncompletado esta sencilla tarea."
     },
     "K8NIAw": {
         "en-US": "[Pariz]\nGood work getting the\nSpirit of Determination,\nbut I want you to work on\ngetting stronger. If you\nintend to protect others,\nyou can't afford to lose.",
@@ -1047,12 +1047,12 @@
     "McNIAw": {
         "en-US": "[Pariz]\nAlright then...\nI entrust you with\nthis spirit. Please be\nsure to give it to a\n^4D4DFFCrusader^000000 or ^4D4DFFPaladin^000000\nin your guild.",
         "pt-BR": "[Pariz]\nEntão, beleza...\nEu confio a você\neste espírito. Por favor, certifique-se\nde entregá-lo a um\n^4D4DFFTemplário^000000 ou ^4D4DFFPaladino^000000\nde sua guilda.",
-        "es-ES": "[Pariz]\nMuy bien, entonces…\nDejaré en tus manos\neste Símbolo. Asegúrate de\nentregárselo a un miembro de clase\n^4D4DFFCruzado^000000 o ^4D4DFFPaladín^000000\nin your guild."
+        "es-ES": "[Pariz]\nMuy bien, entonces...\nDejaré en tus manos\neste Símbolo. Asegúrate de\nentregárselo a un miembro de clase\n^4D4DFFCruzado^000000 o ^4D4DFFPaladín^000000\nin your guild."
     },
     "MsNIAw": {
         "en-US": "[Pariz]\nHuh. I see that you've\nbecome much stronger,\njust as I asked. No wonder\nyour guild mates can rely\non you. Congratulations\non a job well done.",
         "pt-BR": "[Pariz]\nHuh. Vejo que você\nficou muito mais forte,\nexatamente como eu pedi. Não é de se admirar \nque seus companheiros de guilda possam confiar\nem você. Parabéns\npelo ótimo trabalho.",
-        "es-ES": "[Pariz]\nMm… \nte has vuelto mucho más fuerte,\ntal y como te pedí. Bueno, no me extraña...\nque tus compañeros de clan sientan que pueden depender\ncontigo? Felicitaciones-\npor un trabajo bien hecho."
+        "es-ES": "[Pariz]\nMm... \nte has vuelto mucho más fuerte,\ntal y como te pedí. Bueno, no me extraña...\nque tus compañeros de clan sientan que pueden depender\ncontigo? Felicitaciones-\npor un trabajo bien hecho."
     },
     "M8NIAw": {
         "en-US": "[Pariz]\nOk, take this and give to\nCrusader or Paladin\nwho is in our guild.\nGood luck!",
@@ -1062,7 +1062,7 @@
     "NMNIAw": {
         "en-US": "[Pariz]\nI see that you possess\nthe Spirit of Service. Hmm.\nGood job. Now, your next\ntask will test your patience.\nAll you have to do is ^FF0000wait^000000.\nWait until the time is right.",
         "pt-BR": "[Pariz]\nVejo que você possui\no Espírito do Serviço. Hmm.\nBom trabalho. Agora, sua próxima\ntarefa testará sua paciência.\nTudo o que você precisa fazer é ^FF0000esperar^000000.\nEsperar até o momento certo.",
-        "es-ES": "[Pariz]\nVeo que traes contigo\nel Símbolo de entrega. Mmm…\nBien hecho. Tu próxima tarea\npondrá a prueba tu paciencia.\nLo único que tienes que hacer es ^FF0000esperar^000000.\nEspera al momento correcto."
+        "es-ES": "[Pariz]\nVeo que traes contigo\nel Símbolo de entrega. Mmm...\nBien hecho. Tu próxima tarea\npondrá a prueba tu paciencia.\nLo único que tienes que hacer es ^FF0000esperar^000000.\nEspera al momento correcto."
     },
     "NcNIAw": {
         "en-US": "[Pariz]\nI want you to spend this\ntime to look into yourself,\nand examine your relationship\nwith your guild members.\nWhen you feel that the time\nis right, come talk to me.",
@@ -1137,7 +1137,7 @@
     "Q8NIAw": {
         "en-US": "[Pariz]\nHmm. You need to wait\nfor the right time to act.\nWhy don't you help out\nyour guild in the meantime?",
         "pt-BR": "[Pariz]\nHmm. Você precisa esperar\no momento certo para agir.\nPor que você não ajuda\nsua guilda nesse meio tempo?",
-        "es-ES": "[Pariz]\nMmm… Tienes que esperar\nel momento adecuado para actuar.\n¿Por qué no ayudas\ntu clan mientras esperas?"
+        "es-ES": "[Pariz]\nMmm... Tienes que esperar\nel momento adecuado para actuar.\n¿Por qué no ayudas\ntu clan mientras esperas?"
     },
     "RMNIAw": {
         "en-US": "[Pariz]\nPlease give the\nSpirit of Glory to\na ^FF0000Monk^000000 or ^FF0000Champion^000000.\nYou knew that already,\ndidn't you? Please hurry\nand deliver it soon.",
@@ -1162,7 +1162,7 @@
     "SMNIAw": {
         "en-US": "[Pariz]\nHmm. You have no business\nbeing here. Why don't you\nfind something productive\nto do? There is nothing\nfor you here, I assure you.",
         "pt-BR": "[Pariz]\nHmm. Você não tem nada\npara fazer aqui. Por que não\nprocura algo produtivo\npara fazer? Não há nada\npara você aqui, eu lhe garanto.",
-        "es-ES": "[Pariz]\nMmm… No hay ningún asunto\nque te convoque aquí. ¿Por qué no te\nbuscas algo más productivo\nque hacer? ¿Por qué no hay nada aquí?\npara ti aquí, te lo aseguro."
+        "es-ES": "[Pariz]\nMmm... No hay ningún asunto\nque te convoque aquí. ¿Por qué no te\nbuscas algo más productivo\nque hacer? ¿Por qué no hay nada aquí?\npara ti aquí, te lo aseguro."
     },
     "ScNIAw": {
         "en-US": "[Pariz]\nYou might be the master\nof a guild, but you and I\nhave nothing to do with\neach other. I'm sorry.",
@@ -1182,7 +1182,7 @@
     "TMNIAw": {
         "en-US": "[Pariz]\nWhat brings you here?\nI don't think I've seen\nyou around before. Hm.",
         "pt-BR": "[Pariz]\nO que o traz aqui?\nAcho que nunca vi você\npor aqui antes. Hm.",
-        "es-ES": "[Pariz]\n¿Qué te trae por aquí?\nNo creo haberte visto\nantes. Mmm…"
+        "es-ES": "[Pariz]\n¿Qué te trae por aquí?\nNo creo haberte visto\nantes. Mmm..."
     },
     "TcNIAw": {
         "en-US": "[Buzz]\nYou know the trial has\nnot yet been finished\nbut you must be very\ntired now. You should take\nthe third test\nlater.",
@@ -1197,7 +1197,7 @@
     "T8NIAw": {
         "en-US": "[Buzz]\nHello. Master.\nI am Buzz, the leader of\nfour Great Sages.\nI am here by the orders of\nyour king, Tristan III.",
         "pt-BR": "[Buzz]\nOlá. Mestre.\nEu sou Buzz, o líder dos\nquatro Grandes Sábios.\nEstou aqui por ordem de\nseu rei, Tristan III.",
-        "es-ES": "[Buzz]\nHola. Maestro…\nSoy Buzz, el líder de\nlos cuatro Grandes Sabios.\nEstoy aquí por órdenes de\ntu rey, Tristan III."
+        "es-ES": "[Buzz]\nHola. Maestro...\nSoy Buzz, el líder de\nlos cuatro Grandes Sabios.\nEstoy aquí por órdenes de\ntu rey, Tristan III."
     },
     "UMNIAw": {
         "en-US": "[Buzz]\nWe test guilds that\nown agits and check if they\nare qualified to be an elite guild.\nOur goal is to train the guilds and\nstrengthen the country's military power.",
@@ -1422,12 +1422,12 @@
     "fMNIAw": {
         "en-US": "[Lenya]\nHMM.. I guess this is enough.\nYou could have had done many\nthings during this time.\nAnyway, let's continue\nthe story.",
         "pt-BR": "[Lenya]\nHMM... Acho que isso é o suficiente.\nVocê poderia ter feito muitas\ncoisas durante esse tempo.\nDe qualquer forma, vamos continuar\na história.",
-        "es-ES": "[Lenya]\nMmm… Supongo que ya es suficiente.\nMe pregunto cuántas cosas hiciste\nmientras esperabas.\nEn fin, continuemos\nthe story."
+        "es-ES": "[Lenya]\nMmm... Supongo que ya es suficiente.\nMe pregunto cuántas cosas hiciste\nmientras esperabas.\nEn fin, continuemos\nthe story."
     },
     "fcNIAw": {
         "en-US": "[Lenya]\nHMM.. Give this to alchemist\nor bio chemist of our guild.\nAfter you finish this job,\nthere no other work left for you.",
         "pt-BR": "[Lenya]\nHMM... Dê isso a um alquimista\nou um criador de nossa guilda.\nDepois que você terminar esse trabalho,\nnão haverá mais nenhum trabalho para você.",
-        "es-ES": "[Lenya]\nMMM… Entrégale esto a un miembro de clase Alquimista\no Bioquímico de nuestro clan.\nDespués de este trabajo,\nya no tendré nada más que pedirte."
+        "es-ES": "[Lenya]\nMMM... Entrégale esto a un miembro de clase Alquimista\no Bioquímico de nuestro clan.\nDespués de este trabajo,\nya no tendré nada más que pedirte."
     },
     "fsNIAw": {
         "en-US": "[Lenya]\nUmm, you became really strong.\nYou must have done your quest well.\nAs I promised, I will give you this.\nPlease give it to\nHunter or Sniper.",
@@ -1492,7 +1492,7 @@
     "isNIAw": {
         "en-US": "[Gealuve]\nPlease make steady efforts and \nhave strength for the guild.\nI suppose you really\ndon't have much use\nfor me anymore... But I'll\nalways offer my support.",
         "pt-BR": "[Gealuve]\nPor favor, faça esforços constantes \ne tenha força para a guilda.\nAcredito que você \nnão tenha mais muita utilidade\npara mim... Mas eu\nsempre oferecerei meu apoio.",
-        "es-ES": "[Gealuve]\nSigue esforzándote como lo has hecho \nhasta ahora por el beneficio de tu clan.\nSupongo que ya no hay\nnada más que pueda hacer\npor ti… Pero\nsiempre tendrás mi apoyo."
+        "es-ES": "[Gealuve]\nSigue esforzándote como lo has hecho \nhasta ahora por el beneficio de tu clan.\nSupongo que ya no hay\nnada más que pueda hacer\npor ti... Pero\nsiempre tendrás mi apoyo."
     },
     "i8NIAw": {
         "en-US": "[Gealuve]\nYou don't need\n'Spirit of Solidarity'\nPlease give it to\nWizard or High Wizard.\nCan you do that?",
@@ -1502,22 +1502,22 @@
     "jMNIAw": {
         "en-US": "[Pariz]\nWait... On second\nthought, you're already\nstrong enough. By now,\nany extra motivation from\nme is a moot point. But...\nDon't go getting cocky.",
         "pt-BR": "[Pariz]\nEspere... Pensando bem,\nvocê já é forte \no suficiente. A esta altura,\nqualquer motivação extra de\nminha parte é um ponto irrelevante. Mas...\nNão fique convencido.",
-        "es-ES": "[Pariz]\nEspera… Ahora que lo\npienso, ya eres\nlo suficientemente fuerte. Cualquier\nintento adicional de motivarte a\nvolverte más fuerte es en vano ahora mismo. Pero…\nNunca dejes que la soberbia te domine."
+        "es-ES": "[Pariz]\nEspera... Ahora que lo\npienso, ya eres\nlo suficientemente fuerte. Cualquier\nintento adicional de motivarte a\nvolverte más fuerte es en vano ahora mismo. Pero...\nNunca dejes que la soberbia te domine."
     },
     "jcNIAw": {
         "en-US": ".............\n...... .........",
         "pt-BR": ".............\n...... .........",
-        "es-ES": "…\n…"
+        "es-ES": "...\n..."
     },
     "jsNIAw": {
         "en-US": ".............\n.............\n...... ... ....",
         "pt-BR": ".............\n.............\n...... ... ....",
-        "es-ES": "…\n…\n…"
+        "es-ES": "...\n...\n..."
     },
     "j8NIAw": {
         "en-US": ".......  ......\n.......  ......\n...... ... ....",
         "pt-BR": "....... ......\n....... ......\n...... ... ....",
-        "es-ES": "…\n…\n…"
+        "es-ES": "...\n...\n..."
     },
     "kMNIAw": {
         "en-US": "[Buzz]\nOH, this is a spirit that prooves you\nhave completed your last test.\nYou have Spirit of Victory item.\nYes, that's right. With you and\nyour guild members will work together\nto achieve victory.",
@@ -1612,7 +1612,7 @@
     "osNIAw": {
         "en-US": "[Lenya]\n...? What brings you\nhere. You don't seem\nto have a business with\nme.. MM?",
         "pt-BR": "[Lenya]\n...? O que o traz\naqui. Você não parece\nter negócios \ncomigo... MM?",
-        "es-ES": "[Lenya]\n¿…? ¿Qué te trae por\nviniste. No parece\nque tengas algún asunto pendiente\nconmigo, ¿o me equivoco?"
+        "es-ES": "[Lenya]\n¿...? ¿Qué te trae por\nviniste. No parece\nque tengas algún asunto pendiente\nconmigo, ¿o me equivoco?"
     },
     "o8NIAw": {
         "en-US": "[Gealuve]\nYou don't need\n'Spirit of Solidarity'.\nPlease give it to\nWizard or Heigh Wizard.\nCan you do that?",

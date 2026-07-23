@@ -1,3 +1,4 @@
+
 title_tbl = {
 	[1000] = "Punto decisivo de vida",
 	[1001] = "Especialista",

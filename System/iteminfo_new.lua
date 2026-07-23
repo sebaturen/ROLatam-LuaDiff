@@ -1,3 +1,4 @@
+
 tbl = {
 	[501] = {
 		unidentifiedDisplayName = "Poção Vermelha",
@@ -7807,14 +7808,14 @@ tbl = {
 		unidentifiedDisplayName = "Crina",
 		unidentifiedResourceName = "맷돼지의갈기털",
 		unidentifiedDescriptionName = {
-			"Pêlo tirado de um javali selvagem. É pontudo e forte como agulhas.",
+			"Pelo tirado de um javali selvagem. É pontudo e forte como agulhas.",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Crina",
 		identifiedResourceName = "맷돼지의갈기털",
 		identifiedDescriptionName = {
-			"Pêlo tirado de um javali selvagem. É pontudo e forte como agulhas.",
+			"Pelo tirado de um javali selvagem. É pontudo e forte como agulhas.",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
@@ -16197,7 +16198,7 @@ tbl = {
 		unidentifiedDisplayName = "Lança",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Lança de Cinzas",
 		identifiedResourceName = "타노스의창",
@@ -17427,7 +17428,7 @@ tbl = {
 		unidentifiedDisplayName = "Lança de Duas Mãos",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Lança Dupla de Cinzas",
 		identifiedResourceName = "타노스의양손창",
@@ -21177,7 +21178,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cajado de Cinzas",
 		identifiedResourceName = "타노스의지팡이",
@@ -21325,7 +21326,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Rudimentar",
 		identifiedResourceName = "초보자용강아지풀",
@@ -21352,7 +21353,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Arcana Simples",
 		identifiedResourceName = "풍성한강아지풀",
@@ -21377,7 +21378,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Resiliente",
 		identifiedResourceName = "길다란강아지풀",
@@ -21403,7 +21404,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Arcana Amadora",
 		identifiedResourceName = "잠자리앉은강아지풀",
@@ -21430,7 +21431,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Robusta",
 		identifiedResourceName = "커다란강아지풀",
@@ -21458,7 +21459,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Básica",
 		identifiedResourceName = "초보자용강아지풀",
@@ -21484,7 +21485,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Arcana Intermediária",
 		identifiedResourceName = "잠자리앉은강아지풀",
@@ -21513,7 +21514,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Arcana Avançada",
 		identifiedResourceName = "잠자리앉은강아지풀",
@@ -21548,7 +21549,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Arcana Mestra",
 		identifiedResourceName = "잠자리앉은강아지풀",
@@ -21583,7 +21584,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Arcana Dourada",
 		identifiedResourceName = "마력의노랑강아지풀",
@@ -21621,7 +21622,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Bruta Simples",
 		identifiedResourceName = "커다란강아지풀",
@@ -21651,7 +21652,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Bruta Intermediária",
 		identifiedResourceName = "커다란강아지풀",
@@ -21687,7 +21688,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Bruta Avançada",
 		identifiedResourceName = "커다란강아지풀",
@@ -21723,7 +21724,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato Bruta Dourada",
 		identifiedResourceName = "정교한노랑강아지풀모형",
@@ -21762,7 +21763,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato I",
 		identifiedResourceName = "길다란강아지풀",
@@ -24474,7 +24475,7 @@ tbl = {
 		unidentifiedDisplayName = "Soqueira",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Punho de Cinzas",
 		identifiedResourceName = "타노스의너클",
@@ -24545,7 +24546,7 @@ tbl = {
 		unidentifiedDisplayName = "Soqueira",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Combo Ilusional",
 		identifiedResourceName = "Combo_Battle_Glove_IL",
@@ -25620,7 +25621,7 @@ tbl = {
 		unidentifiedDisplayName = "Instrumento musical",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Violino de Cinzas",
 		identifiedResourceName = "타노스의바이올린",
@@ -26700,7 +26701,7 @@ tbl = {
 		unidentifiedDisplayName = "Chicote",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Chicote de Cinzas",
 		identifiedResourceName = "타노스의윕소드",
@@ -27589,7 +27590,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado de Duas Mãos",
 		unidentifiedResourceName = "완드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cajado Duplo de Cinzas",
 		identifiedResourceName = "타노스의양손지팡이",
@@ -27763,7 +27764,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado de Duas Mãos",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Esfíngico Ilusional",
 		identifiedResourceName = "Wizardy_Staff_IL",
@@ -29876,7 +29877,7 @@ tbl = {
 		unidentifiedDisplayName = "Escudo",
 		unidentifiedResourceName = "쉴드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Escudo de Cinzas",
 		identifiedResourceName = "흙빛의방패",
@@ -32419,7 +32420,7 @@ tbl = {
 		identifiedDisplayName = "Casaco de Pele",
 		identifiedResourceName = "밍크코트",
 		identifiedDescriptionName = {
-			"Casaco feito de couro, revestido com o pêlo macio de um Lunático. É bastante pesado e quente.",
+			"Casaco feito de couro, revestido com o pelo macio de um Lunático. É bastante pesado e quente.",
 			"-------------------------",
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^77777730^000000 DEFM: ^7777770^000000",
@@ -34512,7 +34513,7 @@ tbl = {
 		identifiedDisplayName = "Botas",
 		identifiedResourceName = "부츠",
 		identifiedDescriptionName = {
-			"Calçado de couro grosso que cobre parte da perna. Tem a borda revestida com o pêlo branco de um Lunático. É bem pesada, de modo que apenas quem tem treinamento de combate consegue usá-las.",
+			"Calçado de couro grosso que cobre parte da perna. Tem a borda revestida com o pelo branco de um Lunático. É bem pesada, de modo que apenas quem tem treinamento de combate consegue usá-las.",
 			"-------------------------",
 			"Tipo: ^777777Calçado^000000",
 			"DEF: ^77777716^000000 DEFM: ^7777770^000000",
@@ -34533,7 +34534,7 @@ tbl = {
 		identifiedDisplayName = "Botas",
 		identifiedResourceName = "부츠",
 		identifiedDescriptionName = {
-			"Calçado de couro grosso que cobre parte da perna. Tem a borda revestida com o pêlo branco de um Lunático. É bem pesada, de modo que apenas quem tem treinamento de combate consegue usá-las.",
+			"Calçado de couro grosso que cobre parte da perna. Tem a borda revestida com o pelo branco de um Lunático. É bem pesada, de modo que apenas quem tem treinamento de combate consegue usá-las.",
 			"-------------------------",
 			"Tipo: ^777777Calçado^000000",
 			"DEF: ^77777716^000000 DEFM: ^7777770^000000",
@@ -35609,9 +35610,9 @@ tbl = {
 		identifiedDisplayName = "Bota Aprimorável",
 		identifiedResourceName = "강화부츠",
 		identifiedDescriptionName = {
-			"Calçado de couro grosso que cobre parte da perna. Tem a borda revestida com o pêlo branco de um Lunático. É bem pesada, de modo que apenas quem tem treinamento de combate consegue usá-las.",
+			"Calçado de couro grosso que cobre parte da perna. Tem a borda revestida com o pelo branco de um Lunático. É bem pesada, de modo que apenas quem tem treinamento de combate consegue usá-las.",
 			"-------------------------",
-			"^0000ffHP máx. +3%^000000",
+			"^0000FFHP máx. +3%^000000",
 			"-------------------------",
 			"Tipo: ^777777Calçado^000000",
 			"DEF: ^7777776^000000",
@@ -78310,12 +78311,12 @@ tbl = {
 		identifiedDisplayName = "Chapéu de Lunático",
 		identifiedResourceName = "루나틱모자",
 		identifiedDescriptionName = {
-			"Um chapéu feito à imagem do fofinho Lunático. Esses animaizinhos possuem esse nome porque, de acordo com a crença local, pode-se ver sua silhueta na lua. O fato de o seu pêlo branquinho lembrar a luz do luar reforçou ainda mais essa idéia.",
-			"^0000ffSOR +5.^000000",
-			"^0000ffDEFM +2.^000000",
-			"^0000ffEsquiva Perfeita +5.^000000",
+			"Um chapéu feito à imagem do fofinho Lunático. Esses animaizinhos possuem esse nome porque, de acordo com a crença local, pode-se ver sua silhueta na lua. O fato de o seu pelo branquinho lembrar a luz do luar reforçou ainda mais essa idéia.",
+			"^0000FFSOR +5.^000000",
+			"^0000FFDEFM +2.^000000",
+			"^0000FFEsquiva Perfeita +5.^000000",
 			"Ao derrotar monstros da raça Bruto:",
-			"^0000ffChance de derrubar [Cenoura Arco-Íris].^000000",
+			"^0000FFChance de derrubar [Cenoura Arco-Íris].^000000",
 			"Tipo: ^777777Equip. para Cabeça^000000",
 			"DEF: ^7777772^000000",
 			"Equipa em: ^777777Topo^000000",
@@ -79470,7 +79471,7 @@ tbl = {
 		ClassNum = 567
 	},
 	[5592] = {
-		unidentifiedDisplayName = "Chapéu",
+		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
@@ -82279,6 +82280,27 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 0
 	},
+	[5841] = {
+		unidentifiedDisplayName = "Acessório",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Não pode ser identificado. É possível identificá-lo usando o [Lupa]."
+		},
+		identifiedDisplayName = "Chapéu do Xamã",
+		identifiedResourceName = "무속인의모자",
+		identifiedDescriptionName = {
+			"Um chapéu pequeno e vermelho com vistosas plumas de faisão. Parece ser usado para se comunicar com os espíritos.",
+			"Resistência a ataques mágicos de todas as propriedades: 3%.",
+			"Durante o período do evento, é possível obter 춘련 com baixa probabilidade.",
+			"Categoria : ^777777Elmo^000000 Defesa : ^7777771^000000",
+			"Local: ^777777Topo ^000000Peso : ^77777710^000000",
+			"Nível exigido : ^77777730^000000",
+			"Equipamento : ^777777Todas as classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 596,
+		costume = false
+	},
 	[5848] = {
 		unidentifiedDisplayName = "Disfarce de Bandido",
 		unidentifiedResourceName = "글래스",
@@ -83449,14 +83471,14 @@ tbl = {
 		costume = false
 	},
 	[6020] = {
-		unidentifiedDisplayName = "Pêlo",
+		unidentifiedDisplayName = "Pelo",
 		unidentifiedResourceName = "모피",
 		unidentifiedDescriptionName = {
 			"Bela pelagem prateada que pode ser vendida a um NPC mercador por um bom preço.",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Pêlo",
+		identifiedDisplayName = "Pelo",
 		identifiedResourceName = "모피",
 		identifiedDescriptionName = {
 			"Bela pelagem prateada que pode ser vendida a um NPC mercador por um bom preço.",
@@ -91437,8 +91459,8 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Garrafa mágica que só pode ser usada junto com outros minérios na hora de refinar. Em casos de falha, você não perderá o equipamento e o refino atual, mas esse item será consumido independente do resultado.",
 			"-------------------------",
-			"Bênção por refino:",
-			"^0000ffRefino +7 » +8: 1 un.",
+			"Unidades necessárias de ^0000FFBênção do Ferreiro^000000 por refino:",
+			"^0000FFRefino +7 » +8: 1 un.",
 			"Refino +8 » +9: 2 un.",
 			"Refino +9 » +10: 4 un.",
 			"Refino +10 » +11: 7 un.",
@@ -91453,8 +91475,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"Garrafa mágica que só pode ser usada junto com outros minérios na hora de refinar. Em casos de falha, você não perderá o equipamento e o refino atual, mas esse item será consumido independente do resultado.",
 			"-------------------------",
-			"Bênção por refino:",
-			"^0000ffRefino +7 » +8: 1 un.",
+			"Unidades necessárias de ^0000FFBênção do Ferreiro^000000 por refino:",
+			"^0000FFRefino +7 » +8: 1 un.",
 			"Refino +8 » +9: 2 un.",
 			"Refino +9 » +10: 4 un.",
 			"Refino +10 » +11: 7 un.",
@@ -93751,7 +93773,7 @@ tbl = {
 		unidentifiedDisplayName = "Talismã da Alma",
 		unidentifiedResourceName = "행운의부적",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Talismã da Alma",
 		identifiedResourceName = "행운의부적",
@@ -93785,7 +93807,7 @@ tbl = {
 		unidentifiedDisplayName = "Ordens Secretas",
 		unidentifiedResourceName = "상인만수편지",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Ordens Secretas",
 		identifiedResourceName = "상인만수편지",
@@ -95028,10 +95050,10 @@ tbl = {
 		unidentifiedDisplayName = "Oridecon Perfeito",
 		unidentifiedResourceName = "고농축오리데오콘",
 		unidentifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
+			"^FF0000Intransferível.^000000",
 			"Um Oridecon perfeito, que garante a segurança no refinamento de seu equipamento.",
 			"-------------------------",
-			"^0000ffEm casos de falha ao refinar itens +7, +8 ou +9, a arma não será perdida, mas reduz 1 nível de refino.^000000",
+			"^0000FFEm casos de falha ao refinar itens +7, +8 ou +9, a arma não será destruída, mas perderá 1 nível de refino.^000000",
 			"-------------------------",
 			"Refinarias:",
 			"<NAVI>[Prontera]<INFO>prt_in,63,59,0,100,0,0</INFO></NAVI>",
@@ -95044,10 +95066,10 @@ tbl = {
 		identifiedDisplayName = "Oridecon Perfeito",
 		identifiedResourceName = "고농축오리데오콘",
 		identifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
+			"^FF0000Intransferível.^000000",
 			"Um Oridecon perfeito, que garante a segurança no refinamento de seu equipamento.",
 			"-------------------------",
-			"^0000ffEm casos de falha ao refinar itens +7, +8 ou +9, a arma não será perdida, mas reduz 1 nível de refino.^000000",
+			"^0000FFEm casos de falha ao refinar itens +7, +8 ou +9, a arma não será destruída, mas perderá 1 nível de refino.^000000",
 			"-------------------------",
 			"Refinarias:",
 			"<NAVI>[Prontera]<INFO>prt_in,63,59,0,100,0,0</INFO></NAVI>",
@@ -95065,10 +95087,10 @@ tbl = {
 		unidentifiedDisplayName = "[Evento] Elunium Perfeito",
 		unidentifiedResourceName = "고농축에르늄",
 		unidentifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
+			"^FF0000Intransferível.^000000",
 			"Um Elunium perfeito, que garante a segurança no refinamento de seu equipamento.",
 			"-------------------------",
-			"^0000ffEm casos de falha ao refinar itens +7, +8 ou +9, o equipamento não será perdido, mas reduz 1 nível de refino.^000000",
+			"^0000FFEm casos de falha ao refinar itens +7, +8 ou +9, o equipamento não será destruído, mas perderá 1 nível de refino.^000000",
 			"-------------------------",
 			"Refinarias:",
 			"<NAVI>[Prontera]<INFO>prt_in,63,59,0,100,0,0</INFO></NAVI>",
@@ -95081,10 +95103,10 @@ tbl = {
 		identifiedDisplayName = "[Evento] Elunium Perfeito",
 		identifiedResourceName = "고농축에르늄",
 		identifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
+			"^FF0000Intransferível.^000000",
 			"Um Elunium perfeito, que garante a segurança no refinamento de seu equipamento.",
 			"-------------------------",
-			"^0000ffEm casos de falha ao refinar itens +7, +8 ou +9, o equipamento não será perdido, mas reduz 1 nível de refino.^000000",
+			"^0000FFEm casos de falha ao refinar itens +7, +8 ou +9, o equipamento não será destruído, mas perderá 1 nível de refino.^000000",
 			"-------------------------",
 			"Refinarias:",
 			"<NAVI>[Prontera]<INFO>prt_in,63,59,0,100,0,0</INFO></NAVI>",
@@ -95099,16 +95121,16 @@ tbl = {
 		costume = false
 	},
 	[6912] = {
-		unidentifiedDisplayName = "Fragmento de Alma de Carneiro",
+		unidentifiedDisplayName = "Fragmento de Alma de Cabra",
 		unidentifiedResourceName = "망자의한기",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Fragmento de Alma de Carneiro",
+		identifiedDisplayName = "Fragmento de Alma de Cabra",
 		identifiedResourceName = "망자의한기",
 		identifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
-			"Fragmento da alma de um Carneiro.",
+			"^FF0000Intransferível.^000000",
+			"Fragmento da alma de um Cabra.",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -97897,14 +97919,14 @@ tbl = {
 		unidentifiedDisplayName = "Pele de Lontra",
 		unidentifiedResourceName = "해달의가죽",
 		unidentifiedDescriptionName = {
-			"Pêlo de Lontra, muito apropriado para fabricação de roupas.",
+			"Pelo de Lontra, muito apropriado para fabricação de roupas.",
 			"Parece macio só de olhar.",
 			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Pele de Lontra",
 		identifiedResourceName = "해달의가죽",
 		identifiedDescriptionName = {
-			"Pêlo de Lontra, muito apropriado para fabricação de roupas. Parece macio só de olhar.",
+			"Pelo de Lontra, muito apropriado para fabricação de roupas. Parece macio só de olhar.",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -98926,14 +98948,14 @@ tbl = {
 		unidentifiedDisplayName = "Pelugem Incandescente",
 		unidentifiedResourceName = "뜨거운털",
 		unidentifiedDescriptionName = {
-			"Pêlo de um morcego vermelho que parecia em chamas. Apesar de quentinho, não chega nem perto de pegar fogo. Os carecas podem usar isso como peruca para arrasar na noite.",
+			"Pelo de um morcego vermelho que parecia em chamas. Apesar de quentinho, não chega nem perto de pegar fogo. Os carecas podem usar isso como peruca para arrasar na noite.",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Pelugem Incandescente",
 		identifiedResourceName = "뜨거운털",
 		identifiedDescriptionName = {
-			"Pêlo que parece estar em chamas. Apesar de quentinho, não chega nem perto de pegar fogo. Os carecas podem usar isso como peruca para arrasar na noite.",
+			"Pelo que parece estar em chamas. Apesar de quentinho, não chega nem perto de pegar fogo. Os carecas podem usar isso como peruca para arrasar na noite.",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
@@ -99788,14 +99810,14 @@ tbl = {
 		unidentifiedDisplayName = "Pele Negra de Urso",
 		unidentifiedResourceName = "검은곰의털가죽",
 		unidentifiedDescriptionName = {
-			"Um tufo da pele de um urso. O mais engraçado é que esses pêlos cheiram muito mal, como se alguém tivesse usado-os como vestimenta por anos e anos sem tirar. Evite colocar perto de qualquer item que você vá vestir depois. É capaz do mau-cheiro se impregnar nele.",
+			"Um tufo da pele de um urso. O mais engraçado é que esses pelos cheiram muito mal, como se alguém tivesse usado-os como vestimenta por anos e anos sem tirar. Evite colocar perto de qualquer item que você vá vestir depois. É capaz do mau-cheiro se impregnar nele.",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Pele Negra de Urso",
 		identifiedResourceName = "검은곰의털가죽",
 		identifiedDescriptionName = {
-			"Um tufo da pele de um urso. O mais engraçado é que esses pêlos cheiram muito mal, como se alguém tivesse usado-os como vestimenta por anos e anos sem tirar. Evite colocar perto de qualquer item que você vá vestir depois. É capaz do mau-cheiro se impregnar nele.",
+			"Um tufo da pele de um urso. O mais engraçado é que esses pelos cheiram muito mal, como se alguém tivesse usado-os como vestimenta por anos e anos sem tirar. Evite colocar perto de qualquer item que você vá vestir depois. É capaz do mau-cheiro se impregnar nele.",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
@@ -102029,7 +102051,7 @@ tbl = {
 			"- Telefone para contato no formato DDD + número;",
 			"Se as informações não conferirem ou estiverem conflitantes, os atributos não serão realocados.",
 			"4) Aguarde a análise da equipe de GMs.",
-			"^FF0000ATENÇÃO: Após a realocação de atributos, o Cupom desaparecerá de seu inventário. Uma nova realocação só poderá ser repetida após 3 meses.^00000",
+			"^FF0000ATENÇÃO: Após a realocação de atributos, o Cupom desaparecerá de seu inventário. Uma nova realocação só poderá ser repetida após 3 meses.^000000",
 			"^FF0000Este item não pode ser negociado, derrubado no chão ou colocado no carrinho, mas pode ser transferido para o armazém.^000000",
 			"Peso: ^7777771^000000"
 		},
@@ -116906,7 +116928,7 @@ tbl = {
 		costume = false
 	},
 	[10045] = {
-		unidentifiedDisplayName = "Acessório de Mascote",
+		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Pode ser identificado com uma [Lupa]."
@@ -116916,7 +116938,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Um pingente feito de estrela-do-mar que combina muito bem com um colar no pescoço.",
 			"-------------------------",
-			"Tipo: ^777777Acessório^000000",
+			"Tipo: ^777777Acessório de Mascote^000000",
 			"Serve para: ^777777Patinho^000000",
 			"Peso: ^7777771^000000"
 		},
@@ -135598,7 +135620,7 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "대거",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Adaga de Cinzas",
 		identifiedResourceName = "타노스의단검",
@@ -135630,7 +135652,7 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Punhal Esconjurante",
 		identifiedResourceName = "다마스커스",
@@ -140907,7 +140929,7 @@ tbl = {
 		unidentifiedDisplayName = "Espada",
 		unidentifiedResourceName = "소드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Espada de Cinzas",
 		identifiedResourceName = "타노스의검",
@@ -153384,7 +153406,7 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "아머",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Armadura de Cinzas",
 		identifiedResourceName = "흙빛의갑옷",
@@ -153416,7 +153438,7 @@ tbl = {
 		unidentifiedDisplayName = "Manto",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Manto de Cinzas",
 		identifiedResourceName = "흙빛의로브",
@@ -154036,7 +154058,7 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Veste Básica de Doram",
 		identifiedResourceName = "도람옷",
@@ -154092,7 +154114,7 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Colete Excelion",
 		identifiedResourceName = "엑셀리온슈츠",
@@ -154128,7 +154150,7 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Veste Elegante de Doram",
 		identifiedResourceName = "도람옷",
@@ -154185,16 +154207,16 @@ tbl = {
 		identifiedDisplayName = "Cota de Preamar",
 		identifiedResourceName = "에길아머",
 		identifiedDescriptionName = {
-			"Equipamento mergulhado nas águas em baixa-maré de Lasagna.",
+			"Equipamento mergulhado nas águas da maré alta de Lasagna.",
 			"-------------------------",
-			"^0000ffHP máx. +500.^000000",
-			"^0000ffSP máx. +50.^000000",
+			"^0000FFHP máx. +500.^000000",
+			"^0000FFSP máx. +50.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Protetor de Preamar]^000000",
-			"^0000ffResistência a raça Peixe +10%.^000000",
+			"^0000FFResistência à raça Peixe +10%.^000000",
 			"A cada refino da armadura:",
-			"^0000ffResistência a raça Peixe +1%.^000000",
+			"^0000FFResistência à raça Peixe +1%.^000000",
 			"-------------------------",
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^77777725^000000 DEFM: ^7777770^000000",
@@ -154395,7 +154417,7 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Camiseta Branca",
 		identifiedResourceName = "하얀셔츠",
@@ -154419,7 +154441,7 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Camiseta Ecológica",
 		identifiedResourceName = "하얀친환경셔츠",
@@ -154562,7 +154584,7 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Veste Luxuosa de Doram",
 		identifiedResourceName = "도람옷",
@@ -154744,21 +154766,21 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Roupa de Borracha",
 		identifiedResourceName = "브라질수영복",
 		identifiedDescriptionName = {
-			"Trajes próprios para mergulhadores e surfistas que desejam se aventurar nos túneis submarinos da ilha Byalan. Dizem que lá é possível respirar debaixo d'água!",
+			"Trajes próprios para mergulhadores e surfistas que desejam se aventurar nos túneis submarinos da Ilha Byalan. Dizem que lá é possível respirar debaixo d'água!",
 			"-------------------------",
-			"^0000ffHP e SP máx. +5%.^000000",
+			"^0000FFHP e SP máx. +5%.^000000",
 			"A cada 3 refinos:",
-			"^0000ffHP e SP máx. +1%.^000000",
+			"^0000FFHP e SP máx. +1%.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Snorkel]^000000",
-			"^0000ffEsquiva Perfeita +10.^000000",
-			"^0000ffConjuração variável -10%.^000000",
+			"^0000FFEsquiva Perfeita +10.^000000",
+			"^0000FFConjuração variável -10%.^000000",
 			"-------------------------",
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^7777771^000000 DEFM: ^7777770^000000",
@@ -155142,7 +155164,7 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Robe Puente Ilusional",
 		identifiedResourceName = "Puente_Robe_IL",
@@ -155221,7 +155243,7 @@ tbl = {
 		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Aluguel] Roupa de Borracha",
 		identifiedResourceName = "브라질수영복",
@@ -155499,12 +155521,45 @@ tbl = {
 		costume = true
 	},
 	[15282] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Armadura",
 		unidentifiedResourceName = "코튼셔츠",
-		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Camisa Fofinha",
 		identifiedResourceName = "Witchs_White_Shirt",
-		identifiedDescriptionName = {},
+		identifiedDescriptionName = {
+			"Uma camisa velha que alguma bruxa costumava usar. Dizem que a estampa de coelhos é do gosto dela.",
+			"-------------------------",
+			"^0000FFFEI e S.ATQM +1.^000000",
+			"-------------------------",
+			"A cada refino:",
+			"^0000FFATQM +5.^000000",
+			"A cada 2 refinos:",
+			"^0000FFS.ATQM +1.^000000",
+			"-------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFFEI +2 e S.ATQM +2 adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFHP e SP máx. +5%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de propriedade Fantasma e Sombrio +35%.^000000",
+			"-------------------------",
+			"Grau D ou mais:",
+			"^0000FFS.ATQM +2 adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFFEI +3 adicional.^000000",
+			"^0000FFS.ATQM +1 adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"-------------------------",
+			"Tipo: ^777777Armadura^000000",
+			"DEF: ^77777710^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777750^000000",
+			"Nível do equip.: ^7777772^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Magos, Noviços, Espiritualistas e evoluções^000000"
+		},
 		slotCount = 1,
 		ClassNum = 0,
 		costume = false
@@ -157726,7 +157781,7 @@ tbl = {
 		unidentifiedDisplayName = "Maça",
 		unidentifiedResourceName = "해머",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Maça de Cinzas",
 		identifiedResourceName = "타노스의망치",
@@ -158084,7 +158139,7 @@ tbl = {
 		unidentifiedDisplayName = "Maça",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Maça Longa Ilusional",
 		identifiedResourceName = "Long_Mace_IL",
@@ -165782,95 +165837,125 @@ tbl = {
 		costume = false
 	},
 	[18005] = {
-		unidentifiedDisplayName = "Bola de Canhão de Gelo",
+		unidentifiedDisplayName = "Bala de Canhão Gélida",
 		unidentifiedResourceName = "Ice_Cannon_Ball",
 		unidentifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Água^000000"
+			"Uma bala de canhão feita com cristais de gelo.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Água^000000",
+			"Peso: ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Bola de Canhão de Gelo",
+		identifiedDisplayName = "Bala de Canhão Gélida",
 		identifiedResourceName = "Ice_Cannon_Ball",
 		identifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Água^000000"
+			"Uma bala de canhão feita com cristais de gelo.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Água^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[18006] = {
-		unidentifiedDisplayName = "Bola de Canhão de Relâmpago",
+		unidentifiedDisplayName = "Bala de Canhão Elétrica",
 		unidentifiedResourceName = "Lightning_Cannon_Ball",
 		unidentifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Vento^000000"
+			"Uma bala de canhão que recebeu uma corrente elétrica.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Vento^000000",
+			"Peso: ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Bola de Canhão de Relâmpago",
+		identifiedDisplayName = "Bala de Canhão Elétrica",
 		identifiedResourceName = "Lightning_Cannon_Ball",
 		identifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Vento^000000"
+			"Uma bala de canhão que recebeu uma corrente elétrica.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Vento^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[18007] = {
-		unidentifiedDisplayName = "Bola de Canhão de Pedra",
+		unidentifiedDisplayName = "Bala de Canhão Terrosa",
 		unidentifiedResourceName = "Stone_Cannon_Ball",
 		unidentifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Terra^000000"
+			"Uma bala de canhão feita de argila.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Terra^000000",
+			"Peso: ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Bola de Canhão de Pedra",
+		identifiedDisplayName = "Bala de Canhão Terrosa",
 		identifiedResourceName = "Stone_Cannon_Ball",
 		identifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Terra^000000"
+			"Uma bala de canhão feita de argila.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Terra^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[18008] = {
-		unidentifiedDisplayName = "Bola de Canhão de Chamas",
+		unidentifiedDisplayName = "Bala de Canhão Ardente",
 		unidentifiedResourceName = "Flare_Cannon_Ball",
 		unidentifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Fogo^000000"
+			"Uma bala de canhão aquecida com fogo de forja.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Fogo^000000",
+			"Peso: ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Bola de Canhão de Chamas",
+		identifiedDisplayName = "Bala de Canhão Ardente",
 		identifiedResourceName = "Flare_Cannon_Ball",
 		identifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Fogo^000000"
+			"Uma bala de canhão aquecida com fogo de forja.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Fogo^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[18009] = {
-		unidentifiedDisplayName = "Bola de Canhão de Envenenamento",
+		unidentifiedDisplayName = "Bala de Canhão Venenosa",
 		unidentifiedResourceName = "Poisoning_Cannon_Ball",
 		unidentifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Veneno^000000"
+			"Uma bala de canhão imbuída com veneno.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Veneno^000000",
+			"Peso: ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Bola de Canhão de Envenenamento",
+		identifiedDisplayName = "Bala de Canhão Venenosa",
 		identifiedResourceName = "Poisoning_Cannon_Ball",
 		identifiedDescriptionName = {
-			"Munição para usar a habilidade do canhão.",
-			"Categoria : ^777777Munição^000000 Ataque : ^777777120^000000",
-			"Peso : ^7777770.1^000000 Atributo : ^777777Veneno^000000"
+			"Uma bala de canhão imbuída com veneno.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^777777120^000000",
+			"Propriedade: ^777777Veneno^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -166256,7 +166341,7 @@ tbl = {
 		unidentifiedDisplayName = "Arco",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Arco de Cinzas",
 		identifiedResourceName = "타노스의활",
@@ -166289,7 +166374,7 @@ tbl = {
 		unidentifiedDisplayName = "Arco",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Arco Esconjurante",
 		identifiedResourceName = "보우",
@@ -166558,7 +166643,7 @@ tbl = {
 		unidentifiedDisplayName = "Arco",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Balista Ilusional",
 		identifiedResourceName = "Balistar_IL",
@@ -171511,7 +171596,7 @@ tbl = {
 		unidentifiedDisplayName = "Elmo",
 		unidentifiedResourceName = "다크네스헬름",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Elmo de Cinzas",
 		identifiedResourceName = "흙빛의투구",
@@ -174100,26 +174185,26 @@ tbl = {
 	},
 	[19026] = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
-		unidentifiedResourceName = "햇",
+		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Pode ser identificado com uma [Lupa]."
 		},
 		identifiedDisplayName = "Protetor de Preamar",
 		identifiedResourceName = "에길헬름",
 		identifiedDescriptionName = {
-			"Equipamento mergulhado nas águas em baixa-maré de Lasagna.",
+			"Equipamento mergulhado nas águas da maré alta de Lasagna.",
 			"-------------------------",
-			"^0000ffVIT +3.^000000",
+			"^0000FFVIT +3.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Cota de Preamar]^000000",
 			"^FA4E09[Coturnos de Preamar]^000000",
 			"^FA4E09[Sobrepeliz de Preamar]^000000",
-			"^0000ffHP máx. +1.000.^000000",
-			"^0000ffSP máx. +100.^000000",
-			"^0000ffResistência a propriedade Água +50%.^000000",
-			"^0000ffEXP adquirida ao derrotar a raça Peixe +20%.^000000",
-			"^0000ffDano físico e mágico contra a raça Peixe +50%.^000000",
+			"^0000FFHP máx. +1.000.^000000",
+			"^0000FFSP máx. +100.^000000",
+			"^0000FFResistência à propriedade Água +50%.^000000",
+			"^0000FFEXP adquirida ao derrotar a raça Peixe +20%.^000000",
+			"^0000FFDano físico e mágico contra a raça Peixe +50%.^000000",
 			"-------------------------",
 			"Tipo: ^777777Equip. para Cabeça^000000",
 			"Equipa em: ^777777Topo^000000",
@@ -174129,7 +174214,7 @@ tbl = {
 			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0,
+		ClassNum = 870,
 		costume = false
 	},
 	[19027] = {
@@ -174366,6 +174451,30 @@ tbl = {
 		ClassNum = 1308,
 		costume = false
 	},
+	[19052] = {
+		unidentifiedDisplayName = "Acessório",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Não pode ser identificado. É possível identificá-lo usando o [Lupa]."
+		},
+		identifiedDisplayName = "Asas de Saigrun",
+		identifiedResourceName = "사이그룬의날개",
+		identifiedDescriptionName = {
+			"^000088Item de aluguel^000000",
+			"Asas misteriosas que alteram as habilidades de acordo com a classe do usuário.",
+			"As classes de Cavaleiro, Ladrão, Mercador, Taekwon e Mestre em Kwon ganham ASPD + 1.",
+			"As classes de Mago, Sacerdote, Ninja e Soul Linker ganham MATK + 5 e aumentam em 2% a quantidade de cura que você usa.",
+			"As classes de Arqueiro e o Atirador ganham 2% de dano físico à distância.",
+			"Quando uma classe Novice equipa, HP + 120, SP + 60.",
+			"Categoria : ^777777Elmo^000000 Defesa : ^7777772^000000",
+			"Local: ^777777Meio ^000000Peso : ^7777770^000000",
+			"Nível exigido : ^7777771^000000",
+			"Equipamento : ^777777Todas as classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 568,
+		costume = false
+	},
 	[19053] = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
 		unidentifiedResourceName = "햇",
@@ -174448,7 +174557,7 @@ tbl = {
 		unidentifiedDisplayName = "Equipamento para Cabeça",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Chapéu dos Farfelle",
 		identifiedResourceName = "파르펠레자경단모자",
@@ -174473,7 +174582,7 @@ tbl = {
 		costume = false
 	},
 	[19085] = {
-		unidentifiedDisplayName = "Equip. para Cabeça",
+		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Pode ser identificado com uma [Lupa]."
@@ -175717,20 +175826,20 @@ tbl = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Snorkel",
 		identifiedResourceName = "스쿠버마스크",
 		identifiedDescriptionName = {
 			"Qualquer turista que visita as praias de Kokomo compra um conjunto de Máscara de Mergulho com Snorkel para ver os belíssimos corais. Uma pena que esse equipamento não protege das esferas d'água das Lontras...",
 			"-------------------------",
-			"^0000ffATQ e ATQM +5.^000000",
+			"^0000FFATQ e ATQM +5.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Roupa de Borracha]^000000",
 			"^FA4E09[Cilindro de Oxigênio]^000000",
-			"^0000ffVelocidade de ataque +10%.^000000",
-			"^0000ffCRIT +50 em oponentes da raça Peixe.^000000",
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"^0000FFCRÍT +50 em oponentes da raça Peixe.^000000",
 			"-------------------------",
 			"Tipo: ^777777Equip. para Cabeça^000000",
 			"Equipa em: ^777777Meio^000000",
@@ -176596,7 +176705,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Chapéu de Enfermagem Ilusional",
 		identifiedResourceName = "Nurse_Cap_IL",
@@ -176627,7 +176736,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Maçã Ilusional",
 		identifiedResourceName = "Apple_Of_Archer_IL",
@@ -176712,7 +176821,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Barrete Ilusional",
 		identifiedResourceName = "Cap_IL",
@@ -177324,7 +177433,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
 		unidentifiedResourceName = "스마일",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Aluguel] Snorkel",
 		identifiedResourceName = "스쿠버마스크",
@@ -178846,15 +178955,15 @@ tbl = {
 		costume = false
 	},
 	[19466] = {
-		unidentifiedDisplayName = "Equipamento Visual",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "[Visual] Presilha de Recife",
+		identifiedDisplayName = "[Visual] Presilha de Recifes",
 		identifiedResourceName = "C_Small_Ocean",
 		identifiedDescriptionName = {
-			"Imitando os recifes de coral do mar de Lasagna, essa presilha para cabelo contém o barulho do fundo do oceano.",
+			"Imitando os recifes de corais do mar de Lasagna, essa presilha para cabelo contém o barulho do fundo do oceano.",
 			"-------------------------",
 			"Tipo: ^777777Visual ^000000",
 			"Equipa em: ^777777Topo^000000",
@@ -183473,8 +183582,8 @@ tbl = {
 		costume = true
 	},
 	[19803] = {
-		unidentifiedDisplayName = "Equipamento Visual",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Pode ser identificado com uma [Lupa]."
 		},
@@ -183482,9 +183591,9 @@ tbl = {
 		identifiedResourceName = "바람개비모자",
 		identifiedDescriptionName = {
 			"Diz a profecia que se este cata-vento girar é sinal que a ilha de Amatsu corre grande perigo.",
+			"-------------------------",
 			"Tipo: ^777777Visual^000000",
-			"DEF: ^7777770^000000",
-			"Equipa em: ^777777Topo ^000000",
+			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
 			"Nível Necessário: ^7777771^000000",
 			"Classes: ^777777Todas^000000"
@@ -183862,20 +183971,23 @@ tbl = {
 		costume = true
 	},
 	[19824] = {
-		unidentifiedDisplayName = "Equipamento Visual",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Chapéu de Druida Maligno",
+		identifiedDisplayName = "[Visual] Chapéu de Druida Maligno",
 		identifiedResourceName = "이블드루이드모자",
 		identifiedDescriptionName = {
-			"Este chapéu pertencia a um druida caçador de seres sobrenaturais que na verdade era ele próprio um vampiro chamado Allucarta. Depois de cair vítima da maldição de Glastheim, agora ele perdeu seu famoso fedora pra você!",
+			"Cartola usada pelo monstro mais famoso da abadia de Glastheim, o Druida Maligno. Dizem que seu nome era Allucarta...",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
-			"Peso: ^7777770 ^000000",
-			"Nível Necessário: ^7777771^000000",
-			"Classes: ^777777Todas ^000000"
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1053,
@@ -184253,7 +184365,7 @@ tbl = {
 	},
 	[19856] = {
 		unidentifiedDisplayName = "Visual",
-		unidentifiedResourceName = "캡",
+		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Pode ser identificado com uma [Lupa]."
 		},
@@ -184262,7 +184374,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Uma taça de sorvete de flocos com cobertura de morango. Ninguém sabe a origem desse nome, mas essa taça NUNCA cai, mesmo quando você se mexe!",
 			"-------------------------",
-			"Tipo: ^777777Visual ^000000",
+			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
@@ -184423,7 +184535,7 @@ tbl = {
 		unidentifiedDisplayName = "Chapéu",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Coelho Caído",
 		identifiedResourceName = "늘어진토끼",
@@ -186241,7 +186353,7 @@ tbl = {
 		unidentifiedDisplayName = "Equipamento Visual",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Chapéu de Rato",
 		identifiedResourceName = "생쥐모자4",
@@ -187118,20 +187230,22 @@ tbl = {
 		costume = true
 	},
 	[20069] = {
-		unidentifiedDisplayName = "Equipamento Visual",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Tiara de Grifo Real",
+		identifiedDisplayName = "[Visual] Tiara de Grifo",
 		identifiedResourceName = "그리폰머리띠",
 		identifiedDescriptionName = {
-			"Uma tiara elegante, confeccionada artesanalmente com penas caídas dos Grifos. O processo de criação deste belo adereço continua o mesmo desde a época que os Grifos foram domados pelos Guardiões Reais, três séculos atrás. Muita paciência e delicadeza são necessárias dos ourives que produzem estas peças.",
+			"Uma tiara elegante, confeccionada artesanalmente com penas caídas dos Grifos. O processo de criação deste belo adereço continua o mesmo desde a época que os Grifos foram domados pelos Guardiões Reais, três séculos atrás. ",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Tipo: ^777777Visual^000000",
-			"DEF: ^7777770^000000",
 			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
-			"Nível Necessário: ^7777771^000000",
+			"Nível necessário: ^7777771^000000",
 			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 0,
@@ -187159,23 +187273,47 @@ tbl = {
 		costume = false
 	},
 	[20071] = {
-		unidentifiedDisplayName = "Equipamento Visual",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Filhotinho de Worg",
+		identifiedDisplayName = "[Visual] Filhote de Worg",
 		identifiedResourceName = "입에문워그",
 		identifiedDescriptionName = {
-			"Dizem que quando o inverno estava chegando, os seis filhos da nobre família Tonistark encontraram sete filhotinhos de Worg: Cinza Ventoso, Lady Die, Numérica, Primavera, Cão Fofinho, Assombração e este último, que deram pra você! Agora você parece até uma mamãe loba carregando ele na boca pra todo lado. Só tome muito cuidado com cerimônias de casamento!",
-			"Tipo: ^777777Visual ^000000",
-			"Equipa em: ^777777Baixo ^000000",
-			"Peso: ^7777770 ^000000",
-			"Nível Necessário: ^7777771 ^000000",
-			"Classes: ^777777Todas ^000000"
+			"Um filhotinho de Worg que você carrega na boca igualzinho às mamães worgs.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Baixo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1235,
+		costume = true
+	},
+	[20077] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Óculos Alados",
+		identifiedResourceName = "날개안경",
+		identifiedDescriptionName = {
+			"Não é preciso usar óculos pra ver a beleza dessa peça única. Usá-la é como estar em uma passarela particular, um tapete vermelho feito especialmente pra sua exibição!",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Meio^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 925,
 		costume = true
 	},
 	[20085] = {
@@ -191941,6 +192079,29 @@ tbl = {
 		ClassNum = 1423,
 		costume = true
 	},
+	[20460] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Tiara de Rosas Espinhosas",
+		identifiedResourceName = "가시나무헤어밴드",
+		identifiedDescriptionName = {
+			"Ornamento para cabeça que usou espinhos e rosas encontradas no topo da Torre sem Fim. Dizem que pertencia ao poderoso dono do lugar, mas ninguém sabia escrever seu nome corretamente. Ant Buyanne? Entweihen Crothen?",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 921,
+		costume = true
+	},
 	[20461] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "캡",
@@ -193662,20 +193823,20 @@ tbl = {
 		costume = true
 	},
 	[20590] = {
-		unidentifiedDisplayName = "Equipamento Visual",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Cruz do Druida Maligno",
 		identifiedResourceName = "C_Evil_Druid_Cross",
 		identifiedDescriptionName = {
-			"Pegue uma dessas, vista um manto vermelho e perambule de uma ponta a outra de Glastheim fantasiado de Druida Maligno. Aproveite para sair assustando os noviços que forem upar lá: eles vão ficar muito confusos quando tentarem usar Curar em você e virem que não causou nenhum dano...",
-			"-------------------------",
+			"A cruz que o Druida Maligno carrega enquanto perambula por Glastheim. É bem leve para levar nas costas.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"^008080Exibe o visual nas costas do personagem.^000000",
-			"-------------------------",
-			"^ff0000Atenção! Esse item não pode ser negociado, derrubado no chão e nem colocado no carrinho, mas pode ser transferido para o armazém.^000000",
-			"-------------------------",
+			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Capa^000000",
 			"Peso: ^7777770^000000",
@@ -193683,7 +193844,7 @@ tbl = {
 			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0,
+		ClassNum = 67,
 		costume = true
 	},
 	[20591] = {
@@ -194109,7 +194270,7 @@ tbl = {
 		unidentifiedDisplayName = "Equipamento Visual",
 		unidentifiedResourceName = "머플러",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Mochila de Coelho Angorá ",
 		identifiedResourceName = "C_Big_B_Rabbit",
@@ -194561,7 +194722,7 @@ tbl = {
 		unidentifiedDisplayName = "Sobrepeliz",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Capa de Cinzas",
 		identifiedResourceName = "흙빛의망토",
@@ -194991,20 +195152,20 @@ tbl = {
 		identifiedDisplayName = "Sobrepeliz de Preamar",
 		identifiedResourceName = "에길망토",
 		identifiedDescriptionName = {
-			"Equipamento mergulhado nas águas em baixa-maré de Lasagna.",
+			"Equipamento mergulhado nas águas da maré alta de Lasagna.",
 			"-------------------------",
-			"^0000ffHP máx. +500.^000000",
-			"^0000ffSP máx. +50.^000000",
+			"^0000FFHP máx. +500.^000000",
+			"^0000FFSP máx. +50.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Protetor de Preamar]^000000",
-			"^0000ffRegeneração de HP de Sushi e Peixe Fresco +5%.^000000",
+			"^0000FFRegeneração de HP de Sushi e Peixe Fresco +5%.^000000",
 			"Ao derrotar monstros da raça Peixe:",
-			"^0000ffRegenera 10 de SP em ataques corpo a corpo.^000000",
-			"^0000ff0,1% de chance de derrubar Sushi ou Peixe Fresco.^000000",
+			"^0000FFRegenera 10 de SP em ataques corpo a corpo.^000000",
+			"^0000FF0,1% de chance de derrubar Sushi ou Peixe Fresco.^000000",
 			"A cada refino da capa:",
-			"^0000ffChance de derrubar Sushi e Peixe Fresco +0,3%.^000000",
-			"^0000ffRegeneração de HP do Sushi e Peixe Fresco +5%.^000000",
+			"^0000FFChance de derrubar Sushi e Peixe Fresco +0,3%.^000000",
+			"^0000FFRegeneração de HP do Sushi e Peixe Fresco +5%.^000000",
 			"-------------------------",
 			"Tipo: ^777777Capa^000000",
 			"DEF: ^77777710^000000 DEFM: ^7777770^000000",
@@ -195096,7 +195257,7 @@ tbl = {
 		unidentifiedDisplayName = "Capa",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Motor Excelion",
 		identifiedResourceName = "엑셀리온윙",
@@ -195301,7 +195462,7 @@ tbl = {
 		unidentifiedDisplayName = "Capa",
 		unidentifiedResourceName = "망토",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Manto Básico de Doram",
 		identifiedResourceName = "도람망토",
@@ -195327,7 +195488,7 @@ tbl = {
 		unidentifiedDisplayName = "Capa",
 		unidentifiedResourceName = "망토",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Manto Elegante de Doram",
 		identifiedResourceName = "도람망토",
@@ -195354,7 +195515,7 @@ tbl = {
 		unidentifiedDisplayName = "Capa",
 		unidentifiedResourceName = "망토",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Manto Luxuoso de Doram",
 		identifiedResourceName = "도람망토",
@@ -195806,7 +195967,7 @@ tbl = {
 		unidentifiedDisplayName = "Capa",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cilindro de Oxigênio",
 		identifiedResourceName = "산소통",
@@ -196127,7 +196288,7 @@ tbl = {
 		unidentifiedDisplayName = "Capa",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Sobrepeliz Ilusional",
 		identifiedResourceName = "Muffler_IL",
@@ -196153,7 +196314,7 @@ tbl = {
 		unidentifiedDisplayName = "Capa",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Capa do Marquês Ilusional",
 		identifiedResourceName = "Cape_Of_Ancient_Lord_IL",
@@ -196388,7 +196549,7 @@ tbl = {
 		unidentifiedDisplayName = "Capa",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Aluguel] Cilindro de Oxigênio",
 		identifiedResourceName = "산소통",
@@ -197922,7 +198083,7 @@ tbl = {
 		unidentifiedDisplayName = "Espada de Duas Mãos",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Grande Espada de Cinzas",
 		identifiedResourceName = "타노스의대검",
@@ -197954,7 +198115,7 @@ tbl = {
 		unidentifiedDisplayName = "Espada de Duas Mãos",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Espada Esconjurante",
 		identifiedResourceName = "바스타드소드",
@@ -198537,27 +198698,33 @@ tbl = {
 		unidentifiedDisplayName = "Espada de Duas Mãos",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Claymore Sólida",
+		identifiedDisplayName = "Florete Solidificado",
 		identifiedResourceName = "Solid_Claymore",
 		identifiedDescriptionName = {
-			"Claymore forjada com peças da Torre do Relógio refinadas e temperada com poder mágico de Éter.",
-			"Suas falhas foram corrigidas em relação à Claymore Fortify original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Dilacerar aumenta em 6%.",
-			"A cada 3 refinos, o dano de Corte e Massacre aumenta em 5%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico corpo a corpo.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW +2.",
-			"[Grau C] O dano de Dilacerar aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Espada de Duas Mãos^000000 Ataque : ^777777280^000000",
-			"Peso : ^777777250^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Cavaleiro Dragão^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Fortificada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Dilacerar] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Corte e Massacre] +5%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Dilacerar] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espada de Duas Mãos^000000",
+			"ATQ: ^777777280^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777250^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Cavaleiros Draconianos e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 49,
@@ -199144,7 +199311,7 @@ tbl = {
 		unidentifiedDisplayName = "Sapatos",
 		unidentifiedResourceName = "부츠",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Botas de Cinzas",
 		identifiedResourceName = "흙빛의신발",
@@ -199561,16 +199728,16 @@ tbl = {
 		identifiedDisplayName = "Coturnos de Preamar",
 		identifiedResourceName = "에길슈즈",
 		identifiedDescriptionName = {
-			"Equipamento mergulhado nas águas em baixa-maré de Lasagna.",
+			"Equipamento mergulhado nas águas da maré alta de Lasagna.",
 			"-------------------------",
-			"^0000ffHP máx. +500.^000000",
-			"^0000ffSP máx. +50.^000000",
+			"^0000FFHP máx. +500.^000000",
+			"^0000FFSP máx. +50.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Protetor de Preamar]^000000",
-			"^0000ffCRIT +10 contra a raça Peixe.^000000",
+			"^0000FFCRÍT +10 contra a raça Peixe.^000000",
 			"A cada refino do calçado:",
-			"^0000ffCRIT +1 contra a raça Peixe.^000000",
+			"^0000FFCRÍT +1 contra a raça Peixe.^000000",
 			"-------------------------",
 			"Tipo: ^777777Calçado^000000",
 			"DEF: ^77777713^000000 DEFM: ^7777770^000000",
@@ -199751,7 +199918,7 @@ tbl = {
 		unidentifiedDisplayName = "Calçado",
 		unidentifiedResourceName = "샌들",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Sandálias Ecológicas",
 		identifiedResourceName = "원목슬리퍼",
@@ -199775,7 +199942,7 @@ tbl = {
 		unidentifiedDisplayName = "Calçado",
 		unidentifiedResourceName = "샌들",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Botas Ecológicas",
 		identifiedResourceName = "빨간친환경장화",
@@ -199916,7 +200083,7 @@ tbl = {
 		unidentifiedDisplayName = "Calçado",
 		unidentifiedResourceName = "샌들",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Sapato Básico de Doram",
 		identifiedResourceName = "도람슈즈",
@@ -199949,7 +200116,7 @@ tbl = {
 		unidentifiedDisplayName = "Calçado",
 		unidentifiedResourceName = "샌들",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Sapato Elegante de Doram",
 		identifiedResourceName = "도람슈즈",
@@ -199982,7 +200149,7 @@ tbl = {
 		unidentifiedDisplayName = "Calçado",
 		unidentifiedResourceName = "샌들",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Sapato Luxuoso de Doram",
 		identifiedResourceName = "도람슈즈",
@@ -200197,7 +200364,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"^0000FFATQ +7.^000000",
@@ -200233,7 +200400,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"^0000FFATQM +10.^000000",
@@ -200269,7 +200436,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"^0000FFVelocidade de ataque +3%.^000000",
@@ -200305,7 +200472,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"-------------------------",
@@ -200340,7 +200507,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"^0000FFDES +3.^000000",
@@ -200377,7 +200544,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"^0000FFDano crítico +2%.^000000",
@@ -200413,7 +200580,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFATQ +7.^000000",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
@@ -200449,7 +200616,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"^0000FFATQM +10.^000000",
@@ -200485,7 +200652,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"^0000FFVelocidade de ataque +3%.^000000",
@@ -200521,7 +200688,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"-------------------------",
@@ -200556,7 +200723,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"^0000FFDES +3.^000000",
@@ -200593,7 +200760,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFHP máx. +300.^000000",
 			"^0000FFSP máx. +30.^000000",
-			"A cada 3 refinamientos:",
+			"A cada 3 refinos:",
 			"^0000FFHP máx. +100.^000000",
 			"^0000FFSP máx. +10.^000000",
 			"^0000FFDano crítico +2%.^000000",
@@ -200795,7 +200962,7 @@ tbl = {
 		unidentifiedDisplayName = "Calçado",
 		unidentifiedResourceName = "샌들",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Sapato Ilusional",
 		identifiedResourceName = "Shoes_IL",
@@ -201134,12 +201301,12 @@ tbl = {
 		identifiedDisplayName = "Bota Ilusional",
 		identifiedResourceName = "Boots_IL",
 		identifiedDescriptionName = {
-			"Calçado de couro grosso que cobre parte da perna. Tem a borda revestida com o pêlo branco de um Lunático. É bem pesada, de modo que apenas quem tem treinamento de combate consegue usá-las.",
+			"Calçado de couro grosso que cobre parte da perna. Tem a borda revestida com o pelo branco de um Lunático. É bem pesada, de modo que apenas quem tem treinamento de combate consegue usá-las.",
 			"-------------------------",
 			"A cada refino:",
-			"^0000ffVelocidade de ataque +1%.^000000",
+			"^0000FFVelocidade de ataque +1%.^000000",
 			"A cada 3 refinos:",
-			"^0000ffCRIT +5.^000000",
+			"^0000FFCRIT +5.^000000",
 			"-------------------------",
 			"Tipo: ^777777Calçado^000000",
 			"DEF: ^77777716^000000 DEFM: ^7777770^000000",
@@ -209789,13 +209956,19 @@ tbl = {
 		unidentifiedDisplayName = "Caixa de Amplificadores",
 		unidentifiedResourceName = "택배상자",
 		unidentifiedDescriptionName = {
-			"Caixa contendo um Amplificador de Fone e Fones Amplificadores.",
+			"Caixa contendo Fones Amplificadores.",
+			"-------------------------",
+			"^0000FFContém 1 Fones Amplificadores e 1 Amplificador de Fone para encantar.^000000",
+			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Caixa de Amplificadores",
 		identifiedResourceName = "택배상자",
 		identifiedDescriptionName = {
-			"Caixa contendo um Amplificador de Fone e Fones Amplificadores.",
+			"Caixa contendo Fones Amplificadores.",
+			"-------------------------",
+			"^0000FFContém 1 Fones Amplificadores e 1 Amplificador de Fone para encantar.^000000",
+			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -210890,9 +211063,8 @@ tbl = {
 		unidentifiedDisplayName = "Almôndega",
 		unidentifiedResourceName = "다크캐논볼",
 		unidentifiedDescriptionName = {
-			"O ingrediente culinário mais saboroso! A almôndega adiciona um sabor celestial quando colocada em todos os tipos de macarrão.",
-			"-------------------------",
 			"^ff0000Será deletado no final do evento.^000000",
+			"O ingrediente culinário mais saboroso! A almôndega adiciona um sabor celestial quando colocada em todos os tipos de macarrão.",
 			"-------------------------",
 			"^0000ffRegenera 10% de HP e SP.^000000",
 			"-------------------------",
@@ -210901,9 +211073,8 @@ tbl = {
 		identifiedDisplayName = "Almôndega",
 		identifiedResourceName = "다크캐논볼",
 		identifiedDescriptionName = {
-			"O ingrediente culinário mais saboroso! A almôndega adiciona um sabor celestial quando colocada em todos os tipos de macarrão.",
-			"-------------------------",
 			"^ff0000Será deletado no final do evento.^000000",
+			"O ingrediente culinário mais saboroso! A almôndega adiciona um sabor celestial quando colocada em todos os tipos de macarrão.",
 			"-------------------------",
 			"^0000ffRegenera 10% de HP e SP.^000000",
 			"-------------------------",
@@ -210917,9 +211088,8 @@ tbl = {
 		unidentifiedDisplayName = "Pudim de Melancia",
 		unidentifiedResourceName = "수박푸딩",
 		unidentifiedDescriptionName = {
-			"Um pudim de melancia com decoração de melancia.",
-			"-------------------------",
 			"^ff0000Será deletado no final do evento.^000000",
+			"Um pudim de melancia com decoração de melancia.",
 			"-------------------------",
 			"^0000ffRegenera 15% de SP.^000000",
 			"^0000ffDano mágico +5% por 10 minutos.^000000",
@@ -210929,9 +211099,8 @@ tbl = {
 		identifiedDisplayName = "Pudim de Melancia",
 		identifiedResourceName = "수박푸딩",
 		identifiedDescriptionName = {
-			"Um pudim de melancia com decoração de melancia.",
-			"-------------------------",
 			"^ff0000Será deletado no final do evento.^000000",
+			"Um pudim de melancia com decoração de melancia.",
 			"-------------------------",
 			"^0000ffRegenera 15% de SP.^000000",
 			"^0000ffDano mágico +5% por 10 minutos.^000000",
@@ -213649,6 +213818,22 @@ tbl = {
 		identifiedDescriptionName = {
 			"Recompensa da Festa do Melao.",
 			"Naoo visivel aos jogadores."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23909] = {
+		unidentifiedDisplayName = "Festival do Macarrão",
+		unidentifiedResourceName = "선물상자_2",
+		unidentifiedDescriptionName = {
+			"Caixa com prêmios aleatórios do Festival do Macarrão."
+		},
+		identifiedDisplayName = "Festival do Macarrão",
+		identifiedResourceName = "선물상자_2",
+		identifiedDescriptionName = {
+			"Caixa com prêmios aleatórios do Festival do Macarrão.",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -217905,7 +218090,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "슈즈쉐도우",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Greva Sombria de Teleporte",
 		identifiedResourceName = "슈즈쉐도우",
@@ -217932,7 +218117,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Escudo Sombrio de Teleporte",
 		identifiedResourceName = "쉴드쉐도우",
@@ -217986,7 +218171,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "이어링쉐도우",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Brinco Sombrio de Teleporte",
 		identifiedResourceName = "이어링쉐도우",
@@ -218013,7 +218198,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "펜던트쉐도우",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Colar Sombrio de Teleporte",
 		identifiedResourceName = "펜던트쉐도우",
@@ -220296,7 +220481,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Manopla Sombria Bem Forte",
 		identifiedResourceName = "웨폰쉐도우",
@@ -223875,7 +224060,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "이어링쉐도우3",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Brinco Sombrio Total",
 		identifiedResourceName = "이어링쉐도우3",
@@ -223899,7 +224084,7 @@ tbl = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "펜던트쉐도우3",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Colar Sombrio Total",
 		identifiedResourceName = "펜던트쉐도우3",
@@ -231424,6 +231609,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231459,6 +231645,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231494,6 +231681,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231528,6 +231716,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231563,6 +231752,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231597,6 +231787,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231633,6 +231824,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231667,6 +231859,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231701,19 +231894,20 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
-			"^0000FFRecarga de [Adoramus] -1 segundo.^000000",
-			"^0000FFDano mágico de propriedade Sagrado +10%.^000000",
 			"^0000FFDano mágico contra todos os tamanhos +15%.^000000",
-			"^0000FFDano de [Adoramus] e [Gemini Lumen] +15%.^000000",
+			"^0000FFRecarga de [Pó de Diamante] -4 segundos.^000000",
+			"^0000FFDano mágico de todas as propriedades +10%.^000000",
+			"^0000FFDano de [Onda Psíquica] e [Pó de Diamante] +15%.^000000",
 			"^0000FFIgnora 70% da DEF e DEFM de todas as raças de monstros.^000000",
 			"-------------------------",
 			"Tipo: ^777777Equip. Sombrio^000000",
 			"Posição: ^777777Arma^000000",
 			"Peso: ^7777770^000000 Nível mín.: ^777777100^000000",
-			"Classes: ^777777Arcebispos e evoluções^000000"
+			"Classes: ^777777Feiticeiros e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -231735,6 +231929,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231769,6 +231964,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231803,6 +231999,7 @@ tbl = {
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09Greva Sombria de Apoio^000000",
+			"^FA4E09Escudo Sombrio de Apoio^000000",
 			"^FA4E09Malha Sombria de Apoio^000000",
 			"^FA4E09Colar Sombrio de Apoio^000000",
 			"^FA4E09Brinco Sombrio de Apoio^000000",
@@ -231816,6 +232013,97 @@ tbl = {
 			"Posição: ^777777Arma^000000",
 			"Peso: ^7777770^000000 Nível mín.: ^777777100^000000",
 			"Classes: ^777777Musas, Trovadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24601] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "웨폰쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Manopla Sombria de Míssil",
+		identifiedResourceName = "웨폰쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffATQ e ATQM +1 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano físico a distância +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000ffDano físico a distância +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffDano físico a distância +4% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Malha Sombria de Míssil^000000",
+			"^fa4e09Escudo Sombrio de Míssil^000000",
+			"^0000ffDano de [Lançar Míssil] +(soma dos refinos ÷2)%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Greva Sombria de Insurgente^000000",
+			"^0000ffIgnora 40% da DEF de todas as raças de monstros.^000000",
+			"A cada refino de cada peça:",
+			"^0000ffIgnora +1% de DEF adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Arma^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24602] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "쉴드쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Escudo Sombrio de Míssil",
+		identifiedResourceName = "쉴드쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano de [Lançar Míssil] +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano de [Lançar Míssil] +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Escudo^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24603] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "아머쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Malha Sombria de Míssil",
+		identifiedResourceName = "아머쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano físco contra todos os tamanhos +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano físco contra todos os tamanhos +1%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Armadura^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -231909,6 +232197,188 @@ tbl = {
 			"Posição: ^777777Calçado^000000",
 			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
 			"Classes: ^777777Insurgentes e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24607] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "웨폰쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Manopla Sombria de Execução",
+		identifiedResourceName = "웨폰쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffATQ e ATQM +1 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano físico a distância +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000ffDano físico a distância +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffDano físico a distância +4% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Malha Sombria de Execução^000000",
+			"^fa4e09Escudo Sombrio de Execução^000000",
+			"^0000ffDano de [Execução] +(soma dos refinos ÷2)%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Greva Sombria de Insurgente^000000",
+			"^0000ffIgnora 40% da DEF de todas as raças de monstros.^000000",
+			"A cada refino de cada peça:",
+			"^0000ffIgnora +1% de DEF adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Arma^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24608] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "쉴드쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Escudo Sombrio de Execução",
+		identifiedResourceName = "쉴드쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano de [Execução] +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano de [Execução] +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Escudo^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24609] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "아머쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Malha Sombria de Execução",
+		identifiedResourceName = "아머쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000FFHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000FFDano físico contra oponentes de todas as propriedades +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000FFDano físico contra oponentes de todas as propriedades +1%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Armadura^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24610] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "이어링쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Brinco Sombrio Estilhaçante",
+		identifiedResourceName = "이어링쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffSP máx. +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000ffDano físico a distância +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffCusto de SP de [Tiro Neutralizante] -15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Greva Sombria de Estilhaçante^000000",
+			"^fa4e09Colar Sombrio de Estilhaçante^000000",
+			"^0000ffDano de [Rajada Estilhaçante] e [Tiro Neutralizante] +(soma dos refinos ÷2)%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Malha Sombria de Insurgente^000000",
+			"^0000ffIgnora 40% da DEF de todas as raças de monstros.^000000",
+			"A cada refino de cada peça:",
+			"^0000ffIgnora +1% de DEF adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Aces. Direito^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24611] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "펜던트쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Colar Sombrio de Estilhaçante",
+		identifiedResourceName = "펜던트쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano de [Rajada Estilhaçante] +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano de [Rajada Estilhaçante] +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24612] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "슈즈쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Greva Sombria de Estilhaçante",
+		identifiedResourceName = "슈즈쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano de [Tiro Neutralizante] +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano de [Tiro Neutralizante] +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Calçado^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Justiceiros e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -232189,6 +232659,97 @@ tbl = {
 			"Posição: ^777777Aces. Direito^000000",
 			"Peso: ^7777770^000000 Nv. mín.: ^77777799^000000",
 			"Classes: ^777777Aprendizes, Superaprendizes e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24622] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "웨폰쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Manopla Sombria de Kunai",
+		identifiedResourceName = "웨폰쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffATQ e ATQM +1 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano físico a distância +3%.^000000",
+			"Refino +7 ou mais:",
+			"^0000ffDano físico a distância +3% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffDano físico a distância +4% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Malha Sombria de Kunai^000000",
+			"^fa4e09Escudo Sombrio de Kunai^000000",
+			"^0000ffDano de [Turbilhão de Kunais] e [Kunai Explosiva] +(soma dos refinos ÷2)%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Greva Sombria de Kagerou^000000",
+			"^0000ffIgnora 40% da DEF de todas as raças de monstros.^000000",
+			"A cada refino de cada peça:",
+			"^0000ffIgnora +1% de DEF adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Arma^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Ninjas e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24623] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "쉴드쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Escudo Sombrio de Kunai",
+		identifiedResourceName = "쉴드쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano físco contra todos os tamanhos +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano físco contra todos os tamanhos +1%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Escudo^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Ninjas e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24624] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "아머쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Malha Sombria de Kunai",
+		identifiedResourceName = "아머쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano de [Kunai Explosiva] +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano de [Kunai Explosiva] +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Armadura^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Ninjas e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -232568,6 +233129,190 @@ tbl = {
 		ClassNum = 0,
 		costume = true
 	},
+	[24637] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "이어링쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Brinco Sombrio de Lunático",
+		identifiedResourceName = "이어링쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000FFHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000FFDano físico a distância +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico a distância +5% adcional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFCusto de SP de [Cometas Lunáticos] -10%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Greva Sombria de Lunático^000000",
+			"^FA4E09Colar Sombrio de Lunático^000000",
+			"A cada refino de cada peça:",
+			"^0000FFDano de [Cometas Lunáticos] e [Ataque Selvagem] +1%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Malha Sombria de Fauna^000000",
+			"^0000FFIgnora 40% da DEF de todas as raças de monstros.^000000",
+			"A cada refino de cada peça:",
+			"^0000FFIgnora +1% de DEF adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Aces. Direito^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Invocadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24638] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "펜던트쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Colar Sombrio de Lunático",
+		identifiedResourceName = "펜던트쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000FFHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000FFDano de [Cometas Lunáticos] +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Ataque Selvagem] +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Aces. Esquerdo^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Invocadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24639] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "슈즈쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Greva Sombria de Lunático",
+		identifiedResourceName = "슈즈쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000FFHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000FFDano físico contra todos os tamanhos +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000FFDano físico contra todos os tamanhos +1%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Calçado^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Invocadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24640] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "웨폰쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Manopla Sombria de Nepeta",
+		identifiedResourceName = "웨폰쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000FFATQ e ATQM +1 por refino.^000000",
+			"--------------------------",
+			"^0000FFDano de [Meteoros de Nepeta] +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Meteoros de Nepeta] +5% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FF]Conjuração Variável -5%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Malha Sombria de Nepeta^000000",
+			"^FA4E09Escudo Sombrio de Nepeta^000000",
+			"A cada refino de cada peça:",
+			"^0000FFDano de [Meteoros de Nepeta] +1%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Greva Sombria de Selva^000000",
+			"^0000FFIgnora 40% da DEFM de todas as raças de monstros.^000000",
+			"A cada refino de cada peça:",
+			"^0000FFIgnora +1% de DEFM adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Arma^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Invocadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24641] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "쉴드쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Escudo Sombrio de Nepeta",
+		identifiedResourceName = "쉴드쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffRecarga de [Mato de Gato] -4 segundos.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano de [Meteoros de Nepeta] +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Escudo^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Invocadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24642] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "아머쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Malha Sombria de Nepeta",
+		identifiedResourceName = "아머쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano mágico contra todos os tamanhos +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano mágico contra todos os tamanhos +1%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Armadura^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
+			"Classes: ^777777Invocadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
 	[24643] = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "이어링쉐도우",
@@ -232937,6 +233682,101 @@ tbl = {
 			"Posição: ^777777Armadura^000000",
 			"Peso: ^7777770^000000 Nível mín.: ^77777799^000000",
 			"Classes: ^777777Mestres Estelares e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24655] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "웨폰쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Manopla Sombria de Es",
+		identifiedResourceName = "웨폰쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffATQ e ATQM +1 por refino.^000000",
+			"--------------------------",
+			"^0000ffSP máx. +5%.^000000",
+			"Refino +7 ou mais:",
+			"^0000ffDano de [Esma] +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffCusto de SP de [Espa] -10%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Malha Sombria de Es^000000",
+			"^fa4e09Escudo Sombrio de Es^000000",
+			"A cada refino de cada peça:",
+			"^0000ffDano de [Espa] e [Eswhoo] +1%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Greva Sombria de Ceifador^000000",
+			"^0000ffIgnora 40% da DEFM de todas as raças de monstros.^000000",
+			"A cada refino de cada peça:",
+			"^0000ffIgnora 1% da DEFM de todas as raças de monstros.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Equipa em: ^777777Arma^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^77777799^000000",
+			"Classes: ^777777Espiritualistas e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24656] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "쉴드쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Escudo Sombrio de Es",
+		identifiedResourceName = "쉴드쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano mágico contra todos os tamanhos +5%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano mágico contra todos os tamanhos +1%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Equipa em: ^777777Escudo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^77777799^000000",
+			"Classes: ^777777Espiritualistas e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24657] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "아머쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Malha Sombria de Es",
+		identifiedResourceName = "아머쉐도우",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000ffDano de [Esma] +10%.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano de [Eswhoo] e [Espa] +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Equipa em: ^777777Armadura^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^77777799^000000",
+			"Classes: ^777777Espiritualistas e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -234142,6 +234982,66 @@ tbl = {
 		ClassNum = 0,
 		costume = true
 	},
+	[24732] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "쉴드쉐도우3",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Escudo Sombrio Fugaz",
+		identifiedResourceName = "쉴드쉐도우3",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000FFHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"^0000FFDano físico e mágico +1%.^000000",
+			"A cada 2 refinos:",
+			"^0000FFDano físico e mágico +1%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDEF +15.^000000",
+			"^0000FFEsquiva +15.^000000",
+			"Refino +10 ou mais:",
+			"^0000FFAumenta a velocidade de movimento.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Escudo^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24733] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "쉴드쉐도우3",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Escudo Sombrio do Infinito",
+		identifiedResourceName = "쉴드쉐도우3",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffHP máx. +10 por refino.^000000",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000ffResistência a todos os Tamanhos +1%.^000000",
+			"^0000ffDano físico e mágico contra todos os Tamanhos +1%.^000000",
+			"Refino +10 ou mais:",
+			"^0000ffAnula a penalidade de Tamanho.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Escudo^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
 	[24734] = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "웨폰쉐도우",
@@ -234270,6 +235170,34 @@ tbl = {
 		ClassNum = 0,
 		costume = true
 	},
+	[24738] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "웨폰쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Manopla Sombria do Ataque Crítico",
+		identifiedResourceName = "웨폰쉐도우3",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffATQ e ATQM +1 por refino.^000000",
+			"--------------------------",
+			"^0000ffATQ +15. CRIT +7.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano crítico +1%.^000000",
+			"Refino +7 ou mais:",
+			"^0000ffCRIT +7 adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Arma^000000",
+			"Peso: ^7777770^000000 Nível mín.: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
 	[24739] = {
 		unidentifiedDisplayName = "Equip. Sombrio",
 		unidentifiedResourceName = "웨폰쉐도우",
@@ -234302,6 +235230,34 @@ tbl = {
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
 			"Classes: ^777777Invocadores e evoluções^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24745] = {
+		unidentifiedDisplayName = "Equip. Sombrio",
+		unidentifiedResourceName = "웨폰쉐도우",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Manopla Sombria Cicloncestral",
+		identifiedResourceName = "웨폰쉐도우3",
+		identifiedDescriptionName = {
+			"Equipamento nascido das sombras.",
+			"--------------------------",
+			"^0000ffATQ e ATQM +1 por refino.^000000",
+			"--------------------------",
+			"^0000ffATQ e Precisão +15.^000000",
+			"A cada 2 refinos:",
+			"^0000ffDano físico a distância +1%.^000000",
+			"Refino +7 ou mais:",
+			"^0000ffPrecisão +15 adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Equip. Sombrio^000000",
+			"Posição: ^777777Arma^000000",
+			"Peso: ^7777770^000000 Nv. mín.: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -241891,40 +242847,64 @@ tbl = {
 		costume = false
 	},
 	[25505] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Coringa Dourado",
 		unidentifiedResourceName = "Jokers_Wild",
-		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Um cartão coringa usado como carta de vale-tudo em um jogo. Pode ser vendido por aí.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Coringa Dourado",
 		identifiedResourceName = "Jokers_Wild",
-		identifiedDescriptionName = {},
+		identifiedDescriptionName = {
+			"Um cartão coringa usado como carta de vale-tudo em um jogo. Pode ser vendido por aí.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[25506] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Vassoura Fofinha",
 		unidentifiedResourceName = "Cute_Broom",
-		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Uma vassoura com enfeites adoráveis, do gosto de qualquer garota. Pode ser vendido por aí.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Vassoura Fofinha",
 		identifiedResourceName = "Cute_Broom",
-		identifiedDescriptionName = {},
+		identifiedDescriptionName = {
+			"Uma vassoura com enfeites adoráveis, do gosto de qualquer garota. Pode ser vendido por aí.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[25507] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Coral Brilhante",
 		unidentifiedResourceName = "Showy_Coral_Reef",
-		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Uma alga que nasce no mar. As cores chamativas são simplesmente lindas. Pode ser vendido por aí.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Coral Colorido",
 		identifiedResourceName = "Showy_Coral_Reef",
-		identifiedDescriptionName = {},
+		identifiedDescriptionName = {
+			"Uma alga que nasce no mar. As cores chamativas são simplesmente lindas. Pode ser vendido por aí.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[25508] = {
-		unidentifiedDisplayName = "Insígnia do General",
+		unidentifiedDisplayName = "Coral Colorido",
 		unidentifiedResourceName = "Token_of_OrcGeneral",
 		unidentifiedDescriptionName = {
 			"Emblema azulado que pertencia ao membro da mais alta patente do exército Orc. Pode ser vendido por aí.",
@@ -241943,12 +242923,20 @@ tbl = {
 		costume = false
 	},
 	[25509] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Casca Arredondada Brilhante",
 		unidentifiedResourceName = "Shining_Round_Shell",
-		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Uma concha que brilha intensamente. Mantém-se enrolada em formato arredondado. Pode ser vendido por aí.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Casca Arredondada Brilhante",
 		identifiedResourceName = "Shining_Round_Shell",
-		identifiedDescriptionName = {},
+		identifiedDescriptionName = {
+			"Uma concha que brilha intensamente. Mantém-se enrolada em formato arredondado. Pode ser vendido por aí.",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -246702,7 +247690,7 @@ tbl = {
 		unidentifiedDisplayName = "Lança de Duas Mãos",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Lança Espectral Ilusional",
 		identifiedResourceName = "Spectral_Spear_IL",
@@ -246820,7 +247808,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato II",
 		identifiedResourceName = "길다란강아지풀",
@@ -246849,7 +247837,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cauda de Gato III",
 		identifiedResourceName = "길다란강아지풀",
@@ -246907,7 +247895,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Cajado do Maestro Ilusional",
 		identifiedResourceName = "Staff_Of_Bordeaux_IL",
@@ -246948,7 +247936,7 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "막대사탕",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Bengala Adocicada",
 		identifiedResourceName = "CandyCaneRod",
@@ -247186,12 +248174,46 @@ tbl = {
 		costume = false
 	},
 	[26140] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
-		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Vassoura Mágica",
 		identifiedResourceName = "WitchsBroomStick",
-		identifiedDescriptionName = {},
+		identifiedDescriptionName = {
+			"Uma vassoura que parece comum, mas guarda um poder mágico misterioso.",
+			"É usada pelas bruxas mais poderosas que habitam as profundezas da Torre do Relógio.",
+			"--------------------------",
+			"^0000FFDano mágico contra a raça Amorfo +10%.^000000",
+			"--------------------------",
+			"Ao receber danos físicos:",
+			"^0000FF2% de chance de autoconjurar [Pântano dos Mortos] Nv. 1^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFATQM +35.^000000",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra a raça Amorfo +10% adicional.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPós-conjuração -10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFFEI +3.^000000",
+			"^0000FFS.ATQM +1 adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPós-conjuração -5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777117^000000 ATQM: ^777777200^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^77777730^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Magos, Espiritualistas e evoluções^000000"
+		},
 		slotCount = 2,
 		ClassNum = 69,
 		costume = false
@@ -250451,24 +251473,24 @@ tbl = {
 		unidentifiedDisplayName = "Carta Invasores",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffDaño físico a distancia +1%.^000000",
+			"^0000FFDano físico a distância +1%.^000000",
 			"-------------------------",
-			"Cada 2 refinamientos:",
-			"^0000ffCRIT +1.^000000",
-			"^0000ffDaño físico a distancia +1% adicional.^000000",
+			"A cada 2 refinos:",
+			"^0000FFCRÍT +1.^000000",
+			"^0000FFDano físico a distância +1% adicional.^000000",
 			"-------------------------",
 			"Tipo: ^777777Carta^000000",
-			"Equipo en: ^777777Arma^000000",
+			"Equipa em: ^777777Arma^000000",
 			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Carta Invasores",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffDaño físico a distancia +1%.^000000",
+			"^0000FFDano físico a distância +1%.^000000",
 			"-------------------------",
-			"Cada 2 refinamientos:",
-			"^0000ffCRIT +1.^000000",
-			"^0000ffDaño físico a distancia +1% adicional.^000000",
+			"A cada 2 refinos:",
+			"^0000FFCRÍT +1.^000000",
+			"^0000FFDano físico a distância +1% adicional.^000000",
 			"-------------------------",
 			"Tipo: ^777777Carta^000000",
 			"Equipa em: ^777777Arma^000000",
@@ -254303,7 +255325,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Katar de Cinzas",
 		identifiedResourceName = "타노스의카타르",
@@ -254337,7 +255359,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Katar Esconjurante",
 		identifiedResourceName = "카타르",
@@ -254498,7 +255520,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Infiltrador Ilusional",
 		identifiedResourceName = "Infiltrator_IL",
@@ -254541,7 +255563,7 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "카타르",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Osso Afiado Ilusional",
 		identifiedResourceName = "Ghoul_Leg_IL",
@@ -254872,7 +255894,7 @@ tbl = {
 		unidentifiedDisplayName = "Machado de Duas Mãos",
 		unidentifiedResourceName = "배틀액스",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Machado de Cinzas",
 		identifiedResourceName = "타노스의도끼",
@@ -256288,7 +257310,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Anel Cauda de Gato",
 		identifiedResourceName = "강아지풀반지",
@@ -256340,7 +257362,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Colar da Semente",
 		identifiedResourceName = "도람목걸이",
@@ -256364,7 +257386,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Colar da Raiz",
 		identifiedResourceName = "도람목걸이",
@@ -256388,7 +257410,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Colar da Árvore",
 		identifiedResourceName = "도람목걸이",
@@ -256422,7 +257444,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Colar da Papisa",
 		identifiedResourceName = "신관의목걸이",
@@ -256551,7 +257573,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Sardinha I",
 		identifiedResourceName = "전갱이",
@@ -256585,7 +257607,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Sardinha II",
 		identifiedResourceName = "전갱이",
@@ -256619,7 +257641,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Sardinha III",
 		identifiedResourceName = "전갱이",
@@ -256653,7 +257675,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Folha I",
 		identifiedResourceName = "구약",
@@ -256685,7 +257707,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Folha II",
 		identifiedResourceName = "구약",
@@ -256717,7 +257739,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Folha III",
 		identifiedResourceName = "구약",
@@ -256749,7 +257771,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Lebre I",
 		identifiedResourceName = "봉제인형",
@@ -256782,7 +257804,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Lebre II",
 		identifiedResourceName = "봉제인형",
@@ -256815,7 +257837,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Lebre III",
 		identifiedResourceName = "봉제인형",
@@ -256848,7 +257870,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Galho Cintilante",
 		identifiedResourceName = "엘더의가지",
@@ -256876,7 +257898,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Atum Fresco",
 		identifiedResourceName = "참다랑어",
@@ -256904,7 +257926,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "클립",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Amuleto Minhocão",
 		identifiedResourceName = "토실토실지렁이",
@@ -257071,7 +258093,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Ventilador Quebrado",
 		identifiedResourceName = "퍼씰선풍기",
@@ -258584,7 +259606,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Anel de Caveira Ilusional",
 		identifiedResourceName = "Skul_Ring_IL",
@@ -258608,7 +259630,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Anel Ilusional",
 		identifiedResourceName = "Ring_IL",
@@ -258634,7 +259656,7 @@ tbl = {
 		unidentifiedDisplayName = "Acessório",
 		unidentifiedResourceName = "링",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Gaiola Vampírica",
 		identifiedResourceName = "Vampire's_Servant",
@@ -259121,7 +260143,7 @@ tbl = {
 		unidentifiedDisplayName = "Livro",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Apocalipse Ilusional",
 		identifiedResourceName = "Book_Of_The_Apo_IL",
@@ -259697,7 +260719,7 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Walgwanggum Ilusional",
 		identifiedResourceName = "Moonlight_Sword_IL",
@@ -260620,7 +261642,7 @@ tbl = {
 		unidentifiedDisplayName = "Escudo",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Sancti Ilusional",
 		identifiedResourceName = "Herald_Of_GOD_IL",
@@ -269494,7 +270516,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"O trio de sorvete mais famoso do mundo! Composto de Morango, Creme e... Chocolate? Ué, cadê o Chocolate?? CADÊ O CHOCOLATE???",
 			"-------------------------",
-			"Tipo: ^777777Visual ^000000",
+			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
@@ -269513,7 +270535,7 @@ tbl = {
 		identifiedDisplayName = "[Visual] Quepe do Marinheiro",
 		identifiedResourceName = "바닷사람의모자",
 		identifiedDescriptionName = {
-			"Quepe feito de algodão conhecido por ser muito usado por marinheiros por ser parte do seu uniforme.",
+			"Quepe feito de algodão conhecido por ser parte do uniforme de marinheiros.",
 			"-------------------------",
 			"Tipo: ^777777Visual ^000000",
 			"Equipa em: ^777777Topo^000000",
@@ -272037,12 +273059,12 @@ tbl = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Lámen Quentinho",
 		identifiedResourceName = "라면모자_블랙",
 		identifiedDescriptionName = {
-			"Tigela deliciosa de um macarrão oriental. O cheio lembra muito o Festival de Verão feito em Lasagna!",
+			"Tigela deliciosa de um tipo de macarrão oriental. O cheiro lembra muito o Festival de Verão realizado em Lasagna!",
 			"-------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
@@ -272055,12 +273077,22 @@ tbl = {
 		costume = true
 	},
 	[31304] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "리본",
-		unidentifiedDescriptionName = {},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Leque de Veraneio",
 		identifiedResourceName = "풍신의부채",
-		identifiedDescriptionName = {},
+		identifiedDescriptionName = {
+			"Essencial para dias quentes, esse pequeno leque pode ser colocado na sua boca... por algum motivo.",
+			"-------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
 		slotCount = 0,
 		ClassNum = 1051,
 		costume = true
@@ -272156,7 +273188,7 @@ tbl = {
 		unidentifiedDisplayName = "Equipamento Visual",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Aluguel] Leque Festivo",
 		identifiedResourceName = "풍신의부채",
@@ -272185,7 +273217,7 @@ tbl = {
 		unidentifiedDisplayName = "Equipamento Visual",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Aluguel] Cata-Vento Festivo",
 		identifiedResourceName = "바람개비모자",
@@ -272193,12 +273225,12 @@ tbl = {
 			"^000088Item de aluguel^000000",
 			"Tiara com cata-vento na cor vermelha. Use-a durante o Festival do Macarrão para aproveitar seus efeitos especiais!",
 			"-------------------------",
-			"^0000ffConjuração variável -5%.^000000",
-			"^0000ffVelocidade de ataque +1.^000000",
-			"^0000ffVelocidade de ataque +5%.^000000",
-			"^0000ffDano físico e mágico contra a raça Peixe +10%.^000000",
+			"^0000FFConjuração variável -5%.^000000",
+			"^0000FFVelocidade de ataque +1.^000000",
+			"^0000FFVelocidade de ataque +5%.^000000",
+			"^0000FFDano físico e mágico contra a raça Peixe +10%.^000000",
 			"-------------------------",
-			"Tipo: ^777777Visual ^000000",
+			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
@@ -272881,7 +273913,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível Necessário: ^7777771^000000",
-			"Classes: ^777777Todas, exceto Doram^000000"
+			"Classes: ^777777Todas, exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1693,
@@ -273034,6 +274066,29 @@ tbl = {
 		ClassNum = 1498,
 		costume = true
 	},
+	[31410] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Elmo de Detardeurus",
+		identifiedResourceName = "신의투구",
+		identifiedDescriptionName = {
+			"Inspirado no guardião dos tesouros abissais, Detardeus, esse elmo tem um brilho excepcional quando colocado contra a luz do sol.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1678,
+		costume = true
+	},
 	[31413] = {
 		unidentifiedDisplayName = "Equipamento Visual",
 		unidentifiedResourceName = "헬름",
@@ -273165,15 +274220,18 @@ tbl = {
 		costume = true
 	},
 	[31432] = {
-		unidentifiedDisplayName = "Equipamento Visual",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Seixos Polares",
+		identifiedDisplayName = "[Visual] Gelo de Loomin",
 		identifiedResourceName = "부유하는얼음",
 		identifiedDescriptionName = {
-			"Fragmentos mágicos de rochas gélidas. Eles foram encontrados no núcleo da Caverna de Gelo, que fica nos arredores de Rachel. Equipe-os para dar um gelo nos oponentes!",
+			"Blocos de gelo flutuantes que protegem Loomin nos sonhos da Papisa.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Baixo^000000",
 			"Peso: ^7777770^000000",
@@ -273849,17 +274907,20 @@ tbl = {
 		costume = true
 	},
 	[31480] = {
-		unidentifiedDisplayName = "Equipamento Visual",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Gioia Dorminhoco",
+		identifiedDisplayName = "[Visual] Gioia Dorminhoco",
 		identifiedResourceName = "Jioia",
 		identifiedDescriptionName = {
-			"Um Gioia costuma ser bem agressivo, mas esse é o completo oposto: ele te acompanha aonde quer que você vá enquanto dorme tranquilamente. Só tome cuidado para não acordá-lo dessa soneca gostosa.",
+			"Um Gioia que te acompanha aonde quer que você vá enquanto dorme tranquilamente.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Tipo: ^777777Visual^000000",
-			"Equipa em: ^777777Meio^000000",
+			"Equipa em: ^777777Baixo^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
 			"Classes: ^777777Todas^000000"
@@ -274311,15 +275372,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"Em festa de pipoca, a panela é a passarela! Os estalos denunciam a farra e o cheirinho de manteiga abre o apetite para novas jornadas.",
 			"--------------------------",
-			"[^CD3278Durante o Evento^000000]",
-			"^0000FFATQ e ATQM +30.^000000",
-			"^0000FFEXP ao derrotar monstros +20%.^000000",
-			"^0000FFDano físico e mágico contra Vulcânicos +50%.^000000",
-			"^0000FFRegeneração de HP da Pipoca Gourmet +200%.^000000",
-			"--------------------------",
-			"Vulcânicos afetados:",
-			"^0000FFImp Vulcânico, Estrondo Vulcânico, Picky Vulcânico, PecoPeco Vulcânico e Salamandra de Lava.^000000",
-			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
@@ -274331,10 +275383,10 @@ tbl = {
 		costume = true
 	},
 	[31519] = {
-		unidentifiedDisplayName = "Equipamento Visual",
+		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Lámen Fotogênico",
 		identifiedResourceName = "Slurp_Slurp_Hat",
@@ -275530,19 +276582,22 @@ tbl = {
 		costume = true
 	},
 	[31611] = {
-		unidentifiedDisplayName = "Equipamento Visual",
-		unidentifiedResourceName = "캡",
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Manto do Riso Macabro",
+		identifiedDisplayName = "[Visual] Manto da Serpente Suprema",
 		identifiedResourceName = "C_Dark_Snake_Lord_Stall",
 		identifiedDescriptionName = {
-			"Como se já não bastasse o aspecto maltrapilho e esfarrapado desse manto, tem um rosto bizarrão na parte de trás dele. Se você acha que não consegue meter medo nos inimigos, basta virar as costas para eles e esse riso macabro vai fazer o trabalho por você!",
+			"Pequeno pedaço de pano inspirado no terrível monstro que habita as cavernas de Kunlun. O sorriso macabro bordado é só um mero detalhe.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Baixo^000000",
 			"Peso: ^7777770^000000",
-			"Nível Necessário: ^7777771^000000",
+			"Nível necessário: ^7777771^000000",
 			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 0,
@@ -276800,7 +277855,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas, exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1888,
@@ -277007,15 +278062,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"Deixe o seu Black Power com cheiro e gosto de pipoca! Usando uma magia desconhecida de Comodo, você poderá ter um cabelo totalmente comestível e delicioso!",
 			"--------------------------",
-			"[^CD3278Durante o Evento^000000]",
-			"^0000FFATQ e ATQM +30.^000000",
-			"^0000FFEXP ao derrotar monstros +20%.^000000",
-			"^0000FFDano físico e mágico contra Vulcânicos +50%.^000000",
-			"^0000FFRegeneração de HP da Pipoca Gourmet +200%.^000000",
-			"--------------------------",
-			"Vulcânicos afetados:",
-			"^0000FFImp Vulcânico, Estrondo Vulcânico, Picky Vulcânico, PecoPeco Vulcânico e Salamandra de Lava.^000000",
-			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
 			"Peso: ^7777770^000000",
@@ -277200,7 +278246,7 @@ tbl = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Item não identificado. Pode ser identificado com uma [Lupa]."
+			"Item Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "[Visual] Chapéu de Peru",
 		identifiedResourceName = "C_Turkey_Hat",
@@ -277673,7 +278719,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1945,
@@ -278589,7 +279635,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas, exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2004,
@@ -283154,6 +284200,29 @@ tbl = {
 			"Uma caixa de presente bem decorada que contém até 3 itens relacionados a mascotes",
 			"^ffffff_^000000",
 			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100158] = {
+		unidentifiedDisplayName = "Mado Gear de Emergência (Terno Reforçado)",
+		unidentifiedResourceName = "Mado_Box02",
+		unidentifiedDescriptionName = {
+			"Mado Gear de emergência fabricada para ser usada quando o Mado Gear estiver danificado, versão do terno reforçado.",
+			"[Licença do Mado Gear] habilidade: quando você a aprende, o efeito é ativado,",
+			"Ao usar, existe um tempo de reutilização de 3 minutos.",
+			"Nível necessário : ^777777100^000000",
+			"Peso : ^77777730^000000"
+		},
+		identifiedDisplayName = "Mado Gear de Emergência (Terno Reforçado)",
+		identifiedResourceName = "Mado_Box02",
+		identifiedDescriptionName = {
+			"Mado Gear de emergência fabricada para ser usada quando o Mado Gear estiver danificado, versão do terno reforçado.",
+			"[Licença do Mado Gear] habilidade: quando você a aprende, o efeito é ativado,",
+			"Ao usar, existe um tempo de reutilização de 3 minutos.",
+			"Nível necessário : ^777777100^000000",
+			"Peso : ^77777730^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -287925,7 +288994,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Caixa que adiciona 1 Bônus Aleatório nos equipamentos do Festival do Macarrão.",
 			"-------------------------",
-			"[^FF0000Itens afetados^000000]",
+			"[^ff0000Itens afetados^000000]",
 			"Protetor das Marés",
 			"Cota das Marés",
 			"Coturnos das Marés",
@@ -287942,7 +289011,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Caixa que adiciona 1 Bônus Aleatório nos equipamentos do Festival do Macarrão.",
 			"-------------------------",
-			"[^FF0000Itens afetados^000000]",
+			"[^ff0000Itens afetados^000000]",
 			"Protetor das Marés",
 			"Cota das Marés",
 			"Coturnos das Marés",
@@ -287964,7 +289033,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Caixa que adiciona 1 Bônus Aleatório nos equipamentos do Festival do Macarrão.",
 			"-------------------------",
-			"[^FF0000Itens afetados^000000]",
+			"[^ff0000Itens afetados^000000]",
 			"Protetor das Marés",
 			"Cota das Marés",
 			"Coturnos das Marés",
@@ -287981,7 +289050,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Caixa que adiciona 1 Bônus Aleatório nos equipamentos do Festival do Macarrão.",
 			"-------------------------",
-			"[^FF0000Itens afetados^000000]",
+			"[^ff0000Itens afetados^000000]",
 			"Protetor das Marés",
 			"Cota das Marés",
 			"Coturnos das Marés",
@@ -288003,7 +289072,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Combine 1 Equipamento Preamar para receber 1 Equipamento das Marés. O refino não é transferido.",
 			"-------------------------",
-			"[^FF0000Itens afetados^000000]",
+			"[^ff0000Itens afetados^000000]",
 			"Cota de Preamar",
 			"Protetor de Preamar",
 			"Coturnos de Preamar",
@@ -288016,7 +289085,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Combine 1 Equipamento Preamar para receber 1 Equipamento das Marés. O refino não é transferido.",
 			"-------------------------",
-			"[^FF0000Itens afetados^000000]",
+			"[^ff0000Itens afetados^000000]",
 			"Cota de Preamar",
 			"Protetor de Preamar",
 			"Coturnos de Preamar",
@@ -288127,16 +289196,26 @@ tbl = {
 		costume = false
 	},
 	[100477] = {
-		unidentifiedDisplayName = "Caixa de Conjunto Penitentia Gladius",
+		unidentifiedDisplayName = "Conjunto Pænitentia Mágico",
 		unidentifiedResourceName = "검은상자",
 		unidentifiedDescriptionName = {
-			"Uma caixa que contém ^32CD32Penitentia Gladius^000000 e ^32CD32Penitentia Aegis^000000, especializados em ataques mágicos (Luz da Criação, Crux Tempestas(Cross Rain)).",
+			"Uma caixa que contém equipamentos especializados em ataques mágicos para Guardiões Imperiais.",
+			"--------------------------",
+			"[^CD3278Contém^000000]",
+			"Pænitentia Gladius",
+			"Pænitentia Aegis",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Caixa de Conjunto Penitentia Gladius",
+		identifiedDisplayName = "Conjunto Pænitentia Mágico",
 		identifiedResourceName = "검은상자",
 		identifiedDescriptionName = {
-			"Uma caixa que contém ^32CD32Penitentia Gladius^000000 e ^32CD32Penitentia Aegis^000000, especializados em ataques mágicos (Luz da Criação, Crux Tempestas(Cross Rain)).",
+			"Uma caixa que contém equipamentos especializados em ataques mágicos para Guardiões Imperiais.",
+			"--------------------------",
+			"[^CD3278Contém^000000]",
+			"Pænitentia Gladius",
+			"Pænitentia Aegis",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -288144,16 +289223,26 @@ tbl = {
 		costume = false
 	},
 	[100478] = {
-		unidentifiedDisplayName = "Caixa de Conjunto Penitentia Asta",
+		unidentifiedDisplayName = "Conjunto Pœnitentia Físico",
 		unidentifiedResourceName = "검은상자",
 		unidentifiedDescriptionName = {
-			"Uma caixa que contém ^32CD32Penitentia Asta^000000 e ^32CD32Penitentia Aegis^000000, especializados em ataques físicos (Toque do Oblívio, Talho do Destino(Overslash)).",
+			"Uma caixa que contém equipamentos especializados em ataques físicos para Guardiões Imperiais.",
+			"--------------------------",
+			"[^CD3278Contém^000000]",
+			"Pænitentia Hasta",
+			"Pænitentia Aegis",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Caixa de Conjunto Penitentia Asta",
+		identifiedDisplayName = "Conjunto Pænitentia Físico",
 		identifiedResourceName = "검은상자",
 		identifiedDescriptionName = {
-			"Uma caixa que contém ^32CD32Penitentia Asta^000000 e ^32CD32Penitentia Aegis^000000, especializados em ataques físicos (Toque do Oblívio, Talho do Destino(Overslash)).",
+			"Uma caixa que contém equipamentos especializados em ataques físicos para Guardiões Imperiais.",
+			"--------------------------",
+			"[^CD3278Contém^000000]",
+			"Pænitentia Hasta",
+			"Pænitentia Aegis",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -288164,15 +289253,19 @@ tbl = {
 		unidentifiedDisplayName = "Fúria de Sakray",
 		unidentifiedResourceName = "Sakray_Fury",
 		unidentifiedDescriptionName = {
-			"Uma joia que contém Fúria de Sakray.",
-			"Ao usar em armas Penitentia, concede 2 opções relacionadas a ataques físicos.",
+			"Uma joia que contém a Fúria de Sakray condensada.",
+			"--------------------------",
+			"^0000FFAdiciona até 2 Bônus Aleatórios Físicos nas Armas Pænitentia.^000000",
+			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
 		identifiedDisplayName = "Fúria de Sakray",
 		identifiedResourceName = "Sakray_Fury",
 		identifiedDescriptionName = {
-			"Uma joia que contém Fúria de Sakray.",
-			"Ao usar em armas Penitentia, concede 2 opções relacionadas a ataques físicos.",
+			"Uma joia que contém a Fúria de Sakray condensada.",
+			"--------------------------",
+			"^0000FFAdiciona até 2 Bônus Aleatórios Físicos nas Armas Pænitentia.^000000",
+			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -288180,18 +289273,22 @@ tbl = {
 		costume = false
 	},
 	[100480] = {
-		unidentifiedDisplayName = "Fúria Condensada de Sakray",
+		unidentifiedDisplayName = "Ira de Sakray",
 		unidentifiedResourceName = "Sakray_Fury2",
 		unidentifiedDescriptionName = {
-			"Uma joia que contém Fúria de Sakray condensada.",
-			"Ao usar em armas Penitentia, concede 3 opções relacionadas a ataques físicos.",
+			"Uma joia que contém a Ira de Sakray condensada.",
+			"--------------------------",
+			"^0000FFAdiciona até 3 Bônus Aleatórios Físicos nas Armas Pænitentia.^000000",
+			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Fúria Condensada de Sakray",
+		identifiedDisplayName = "Ira de Sakray",
 		identifiedResourceName = "Sakray_Fury2",
 		identifiedDescriptionName = {
-			"Uma joia que contém Fúria de Sakray condensada.",
-			"Ao usar em armas Penitentia, concede 3 opções relacionadas a ataques físicos.",
+			"Uma joia que contém a Ira de Sakray condensada.",
+			"--------------------------",
+			"^0000FFAdiciona até 3 Bônus Aleatórios Físicos nas Armas Pænitentia.^000000",
+			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -288222,18 +289319,22 @@ tbl = {
 		costume = false
 	},
 	[100485] = {
-		unidentifiedDisplayName = "Arrependimento de Sakray",
+		unidentifiedDisplayName = "Remorso de Sakray",
 		unidentifiedResourceName = "Sakray_Regret",
 		unidentifiedDescriptionName = {
-			"Uma joia que contém Arrependimento de Sakray.",
-			"Ao usar em armas Penitentia, concede 2 opções relacionadas a ataques mágicos.",
+			"Uma joia que contém o Remorso de Sakray.",
+			"--------------------------",
+			"^0000FFAdiciona até 2 Bônus Aleatórios Mágicos nas Armas Pænitentia.^000000",
+			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Arrependimento de Sakray",
+		identifiedDisplayName = "Remorso de Sakray",
 		identifiedResourceName = "Sakray_Regret",
 		identifiedDescriptionName = {
-			"Uma joia que contém Arrependimento de Sakray.",
-			"Ao usar em armas Penitentia, concede 2 opções relacionadas a ataques mágicos.",
+			"Uma joia que contém o Remorso de Sakray.",
+			"--------------------------",
+			"^0000FFAdiciona até 2 Bônus Aleatórios Mágicos nas Armas Pænitentia.^000000",
+			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -288241,18 +289342,22 @@ tbl = {
 		costume = false
 	},
 	[100486] = {
-		unidentifiedDisplayName = "Arrependimento Condensado de Sakray",
+		unidentifiedDisplayName = "Culpa de Sakray",
 		unidentifiedResourceName = "Sakray_Regret2",
 		unidentifiedDescriptionName = {
-			"Uma joia que contém Arrependimento de Sakray condensado.",
-			"Ao usar em armas Penitentia, concede 3 opções relacionadas a ataques mágicos.",
+			"Uma joia que contém a Culpa de Sakray condensada.",
+			"--------------------------",
+			"^0000FFAdiciona até 3 Bônus Aleatórios Mágicos nas Armas Pænitentia.^000000",
+			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Arrependimento Condensado de Sakray",
+		identifiedDisplayName = "Culpa de Sakray",
 		identifiedResourceName = "Sakray_Regret2",
 		identifiedDescriptionName = {
-			"Uma joia que contém Arrependimento de Sakray condensado.",
-			"Ao usar em armas Penitentia, concede 3 opções relacionadas a ataques mágicos.",
+			"Uma joia que contém a Culpa de Sakray condensada.",
+			"--------------------------",
+			"^0000FFAdiciona até 3 Bônus Aleatórios Mágicos nas Armas Pænitentia.^000000",
+			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -288479,6 +289584,29 @@ tbl = {
 			"Estimado baú da famosíssima Loja Fashion.",
 			"-------------------------",
 			"^0000ffGarante 1x Pedra Visual aleatória.^000000",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100512] = {
+		unidentifiedDisplayName = "Cubo Sombrio de Habilidade EX",
+		unidentifiedResourceName = "보라쉐도우큐브",
+		unidentifiedDescriptionName = {
+			"Cubo especial com poderes sombrios.",
+			"-------------------------",
+			"^0000ffConcede aleatoriamente 1 Equipamento Sombrio de Habilidade de Classe 3 Expandida.^000000",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Cubo Sombrio de Habilidade EX",
+		identifiedResourceName = "보라쉐도우큐브",
+		identifiedDescriptionName = {
+			"Cubo especial com poderes sombrios.",
+			"-------------------------",
+			"^0000ffConcede aleatoriamente 1 Equipamento Sombrio de Habilidade de Classe 3 Expandida.^000000",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
@@ -290266,6 +291394,41 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[100784] = {
+		unidentifiedDisplayName = "Trocador Sombrio I",
+		unidentifiedResourceName = "Auto_M_I_Box_A",
+		unidentifiedDescriptionName = {
+			"Caixa Sombria que troca uma Manopla Sombria para um Escudo Sombrio.",
+			"Custa 10 Sombridecons para trocar.",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Manopla Sombria Fugaz",
+			"Manopla Sombria do Infinito",
+			"-------------------------",
+			"[^CD3278Resultado^000000]",
+			"Escudo Sombria Fugaz",
+			"Escudo Sombria do Infinito"
+		},
+		identifiedDisplayName = "Trocador Sombrio I",
+		identifiedResourceName = "Auto_M_I_Box_A",
+		identifiedDescriptionName = {
+			"Caixa Sombria que troca uma Manopla Sombria para um Escudo Sombrio.",
+			"Custa 10 Sombridecons para trocar.",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Manopla Sombria Fugaz",
+			"Manopla Sombria do Infinito",
+			"-------------------------",
+			"[^CD3278Resultado^000000]",
+			"Escudo Sombrio Fugaz",
+			"Escudo Sombrio do Infinito",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[100785] = {
 		unidentifiedDisplayName = "Caixa Sombria da Autoconjuração",
 		unidentifiedResourceName = "쉐도우큐브",
@@ -290572,6 +291735,151 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[100829] = {
+		unidentifiedDisplayName = "Farfale",
+		unidentifiedResourceName = "Ribbon_Noodle",
+		unidentifiedDescriptionName = {
+			"^ff0000Será deletado no final do evento.^000000",
+			"Massa feita com macarrão feito com a mistura de farinha de trigo e queijo em pó em formato de fita.",
+			"-------------------------",
+			"^0000ffDano físico a distância +15%.^000000",
+			"^0000ffDano físico corpo a corpo +15%.^000000",
+			"-------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Farfale",
+		identifiedResourceName = "Ribbon_Noodle",
+		identifiedDescriptionName = {
+			"^FF0000Será deletado no final do evento.^000000",
+			"Massa de macarrão feito com a mistura de farinha de trigo e queijo em pó em formato de fita.",
+			"-------------------------",
+			"^0000FFDano físico à distância +15%.^000000",
+			"^0000FFDano físico corpo a corpo +15%.^000000",
+			"-------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100830] = {
+		unidentifiedDisplayName = "Macarrão Camaronesco",
+		unidentifiedResourceName = "어질요리06",
+		unidentifiedDescriptionName = {
+			"^ff0000Será deletado no final do evento.^000000",
+			"Massa cremosa de camarão temperada com molho de natas. Você pode sentir o rico sabor do mar vindo do camarão junto com o sabor suave do creme.",
+			"--------------------------",
+			"^0000ffDano mágico de todas as propriedades +15%.^000000",
+			"--------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Macarrão Camaronesco",
+		identifiedResourceName = "어질요리06",
+		identifiedDescriptionName = {
+			"^ff0000Será deletado no final do evento.^000000",
+			"Massa cremosa de camarão temperada com molho de natas. Você pode sentir o rico sabor do mar vindo do camarão junto com o sabor suave do creme.",
+			"--------------------------",
+			"^0000ffDano mágico de todas as propriedades +15%.^000000",
+			"--------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100831] = {
+		unidentifiedDisplayName = "Macarrão Oriental",
+		unidentifiedResourceName = "쁘띠꼬리국수",
+		unidentifiedDescriptionName = {
+			"^FF0000Será deletado no final do evento.^000000",
+			"Macarrão branco e macio fervido e coberto com caldo e coberturas diversas. É preparado e compartilhado em ocasiões especiais.",
+			"--------------------------",
+			"^0000FFDano físico e mágico +7%.^000000",
+			"--------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Macarrão Oriental",
+		identifiedResourceName = "쁘띠꼬리국수",
+		identifiedDescriptionName = {
+			"^FF0000Será deletado no final do evento.^000000",
+			"Macarrão branco e macio fervido e coberto com caldo e coberturas diversas. É preparado e compartilhado em ocasiões especiais.",
+			"--------------------------",
+			"^0000FFDano físico e mágico +7%.^000000",
+			"--------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100832] = {
+		unidentifiedDisplayName = "Lámen",
+		unidentifiedResourceName = "똠양꿍",
+		unidentifiedDescriptionName = {
+			"^ff0000Será deletado no final do evento.^000000",
+			"Macarrão feito com fios longos e finos. É apreciado por todos como o prato de macarrão mais básico.",
+			"--------------------------",
+			"^0000ffVelocidade de ataque +5%.^000000",
+			"^0000ffConjuração variável -5%.^000000",
+			"^0000ffPós-conjuração -5%.^000000",
+			"--------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Lámen",
+		identifiedResourceName = "똠양꿍",
+		identifiedDescriptionName = {
+			"^ff0000Será deletado no final do evento.^000000",
+			"Macarrão feito com fios longos e finos. É apreciado por todos como o prato de macarrão mais básico.",
+			"--------------------------",
+			"^0000ffVelocidade de ataque +5%.^000000",
+			"^0000ffConjuração variável -5%.^000000",
+			"^0000ffPós-conjuração -5%.^000000",
+			"--------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100833] = {
+		unidentifiedDisplayName = "Macarrão Alho e Óleo",
+		unidentifiedResourceName = "어질요리02",
+		unidentifiedDescriptionName = {
+			"^ff0000Será deletado no final do evento.^000000",
+			"Macarrão espaguete feito apenas com alho e óleo.",
+			"--------------------------",
+			"^0000ffP.ATQ +7.^000000",
+			"^0000ffS.ATQM +7.^000000",
+			"--------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Nível necessário: ^777777200^000000",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Macarrão Alho e Óleo",
+		identifiedResourceName = "어질요리02",
+		identifiedDescriptionName = {
+			"^ff0000Será deletado no final do evento.^000000",
+			"Macarrão espaguete feito apenas com alho e óleo.",
+			"--------------------------",
+			"^0000ffP.ATQ +7.^000000",
+			"^0000ffS.ATQM +7.^000000",
+			"--------------------------",
+			"Duração: ^77777715 minutos^000000",
+			"Nível necessário: ^777777200^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[100834] = {
 		unidentifiedDisplayName = "Reformador Primordial III",
 		unidentifiedResourceName = "열린골드갑옷상자",
@@ -290755,6 +292063,43 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[100890] = {
+		unidentifiedDisplayName = "Trocador Sombrio II",
+		unidentifiedResourceName = "Auto_M_I_Box_A",
+		unidentifiedDescriptionName = {
+			"Caixa Sombria que troca uma Malha Sombria para uma Manopla Sombria.",
+			"Custa 10 Sombridecons para trocar.",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Malha Sombria Cicloncentral",
+			"Malha Sombria do Ataque Crítico",
+			"-------------------------",
+			"[^CD3278Resultado^000000]",
+			"Manopla Sombria Cicloncentral",
+			"Manopla Sombria do Ataque Crítico",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Trocador Sombrio II",
+		identifiedResourceName = "Auto_M_I_Box_A",
+		identifiedDescriptionName = {
+			"Caixa Sombria que troca uma Malha Sombria para uma Manopla Sombria.",
+			"Custa 10 Sombridecons para trocar.",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Malha Sombria Cicloncentral",
+			"Malha Sombria do Ataque Crítico",
+			"-------------------------",
+			"[^CD3278Resultado^000000]",
+			"Manopla Sombria Cicloncentral",
+			"Manopla Sombria do Ataque Crítico",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[100901] = {
 		unidentifiedDisplayName = "Asas de Teleporte da Vila do Lobo Cinzento",
 		unidentifiedResourceName = "보라색나비날개",
@@ -290869,6 +292214,29 @@ tbl = {
 			"Arco Primordial",
 			"Cutelo Primordial",
 			"Maça Primordial",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100920] = {
+		unidentifiedDisplayName = "Baú de Pedras Visuais 24",
+		unidentifiedResourceName = "초록상자",
+		unidentifiedDescriptionName = {
+			"Estimado baú da famosíssima Loja Fashion.",
+			"-------------------------",
+			"^0000ffGarante 1x Pedra Visual aleatória.^000000",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Baú de Pedras Visuais 24",
+		identifiedResourceName = "초록상자",
+		identifiedDescriptionName = {
+			"Estimado baú da famosíssima Loja Fashion.",
+			"-------------------------",
+			"^0000ffGarante 1x Pedra Visual aleatória.^000000",
 			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
@@ -292678,74 +294046,103 @@ tbl = {
 		costume = false
 	},
 	[101099] = {
-		unidentifiedDisplayName = "Ajustador de Corda",
+		unidentifiedDisplayName = "Chave de Corda",
 		unidentifiedResourceName = "ClockTower_Regulator",
 		unidentifiedDescriptionName = {
-			"Peça capaz de instalar e ajustar dispositivos de corda e dispositivos de ajuste.",
-			"",
-			"Peso : ^7777771^000000"
+			"Peça capaz de instalar e ajustar equipamentos da Torre do Relógio.",
+			"--------------------------",
+			"^0000FFAbre a interface de Encantamento^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
 		},
-		identifiedDisplayName = "Ajustador de Corda",
+		identifiedDisplayName = "Chave de Corda",
 		identifiedResourceName = "ClockTower_Regulator",
 		identifiedDescriptionName = {
-			"Peça capaz de instalar e ajustar dispositivos de corda e dispositivos de ajuste.",
-			"Peso : ^7777771^000000"
+			"Peça capaz de instalar e ajustar equipamentos da Torre do Relógio.",
+			"--------------------------",
+			"^0000FFAbre a interface de Encantamento^000000",
+			"--------------------------",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101100] = {
-		unidentifiedDisplayName = "Caixa de Conjunto de Duas Armas Penitentia",
+		unidentifiedDisplayName = "Conjunto Pænitentia Ninja",
 		unidentifiedResourceName = "검은상자",
 		unidentifiedDescriptionName = {
-			"Caixa contendo itens utilizáveis por Shinkiro, Shiranui: Penitentia Sol e Penitentia Yana.",
-			"",
-			"Peso : ^7777770^000000"
+			"Uma caixa que contém equipamentos especializados para Shinkiro e Shiranui",
+			"--------------------------",
+			"[^CD3278Contém^000000]",
+			"Pænitentia Sol",
+			"Pænitentia Yana",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Caixa de Conjunto de Duas Armas Penitentia",
+		identifiedDisplayName = "Conjunto Pænitentia Ninja",
 		identifiedResourceName = "검은상자",
 		identifiedDescriptionName = {
-			"Caixa contendo itens utilizáveis por Shinkiro, Shiranui: Penitentia Sol e Penitentia Yana.",
-			"Peso : ^7777770^000000"
+			"Uma caixa que contém equipamentos especializados para Shinkiro e Shiranui",
+			"--------------------------",
+			"[^CD3278Contém^000000]",
+			"Pænitentia Sol",
+			"Pænitentia Yana",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101101] = {
-		unidentifiedDisplayName = "Caixa de Conjunto de Armas de Fogo Penitentia",
+		unidentifiedDisplayName = "Conjunto Pœnitentia Arsenal",
 		unidentifiedResourceName = "검은상자",
 		unidentifiedDescriptionName = {
-			"Caixa contendo itens utilizáveis por Guerrilheiro: Penitentia Foramen, Penitentia Penet, Penitentia Veloci e Penitentia Ruina.",
-			"",
-			"Peso : ^7777770^000000"
+			"Uma caixa que contém equipamentos especializados para Guerrilheiros.",
+			"--------------------------",
+			"[^CD3278Contém^000000]",
+			"Pœnitentia Foramen",
+			"Pœnitentia Penet",
+			"Pœnitentia Veloci",
+			"Pœnitentia Ruina",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Caixa de Conjunto de Armas de Fogo Penitentia",
+		identifiedDisplayName = "Conjunto Pœnitentia Arsenal",
 		identifiedResourceName = "검은상자",
 		identifiedDescriptionName = {
-			"Caixa contendo itens utilizáveis por Guerrilheiro: Penitentia Foramen, Penitentia Penet, Penitentia Veloci e Penitentia Ruina.",
-			"Peso : ^7777770^000000"
+			"Uma caixa que contém equipamentos especializados para Guerrilheiros.",
+			"--------------------------",
+			"[^CD3278Contém^000000]",
+			"Pœnitentia Foramen",
+			"Pœnitentia Penet",
+			"Pœnitentia Veloci",
+			"Pœnitentia Ruina",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101107] = {
-		unidentifiedDisplayName = "Caixa de Bola de Canhão de Gelo",
+		unidentifiedDisplayName = "Pacote Gélido",
 		unidentifiedResourceName = "Cannon_Box_Ice",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de gelo.",
+			"Pacote com 500 Balas de Canhão Gélidas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Caixa de Bola de Canhão de Gelo",
+		identifiedDisplayName = "Pacote Gélido",
 		identifiedResourceName = "Cannon_Box_Ice",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de gelo.",
+			"Pacote com 500 Balas de Canhão Gélidas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
@@ -292753,20 +294150,22 @@ tbl = {
 		costume = false
 	},
 	[101108] = {
-		unidentifiedDisplayName = "Caixa de Bola de Canhão de Relâmpago",
+		unidentifiedDisplayName = "Pacote Elétrico",
 		unidentifiedResourceName = "Cannon_Box_Lightning",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de relâmpago.",
+			"Pacote com 500 Balas de Canhão Elétricas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Caixa de Bola de Canhão de Relâmpago",
+		identifiedDisplayName = "Pacote Elétrico",
 		identifiedResourceName = "Cannon_Box_Lightning",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de relâmpago.",
+			"Pacote com 500 Balas de Canhão Elétricas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
@@ -292774,20 +294173,22 @@ tbl = {
 		costume = false
 	},
 	[101109] = {
-		unidentifiedDisplayName = "Caixa de Bola de Canhão de Pedra",
+		unidentifiedDisplayName = "Pacote Terroso",
 		unidentifiedResourceName = "Cannon_Box_Stone",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de pedra.",
+			"Pacote com 500 Balas de Canhão Terrosas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Caixa de Bola de Canhão de Pedra",
+		identifiedDisplayName = "Pacote Terroso",
 		identifiedResourceName = "Cannon_Box_Stone",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de pedra.",
+			"Pacote com 500 Balas de Canhão Terrosas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
@@ -292795,20 +294196,22 @@ tbl = {
 		costume = false
 	},
 	[101110] = {
-		unidentifiedDisplayName = "Caixa de Bola de Canhão de Chamas",
+		unidentifiedDisplayName = "Pacote Ardente",
 		unidentifiedResourceName = "Cannon_Box_Flare",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de chamas.",
+			"Pacote com 500 Balas de Canhão Ardentes.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Caixa de Bola de Canhão de Chamas",
+		identifiedDisplayName = "Pacote Ardente",
 		identifiedResourceName = "Cannon_Box_Flare",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de chamas.",
+			"Pacote com 500 Balas de Canhão Ardentes.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
@@ -292816,20 +294219,22 @@ tbl = {
 		costume = false
 	},
 	[101111] = {
-		unidentifiedDisplayName = "Caixa de Bola de Canhão de Envenenamento",
+		unidentifiedDisplayName = "Pacote Envenenado",
 		unidentifiedResourceName = "Cannon_Box_Poisoning",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de envenenamento.",
+			"Pacote com 500 Balas de Canhão Venenosas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Caixa de Bola de Canhão de Envenenamento",
+		identifiedDisplayName = "Pacote Envenenado",
 		identifiedResourceName = "Cannon_Box_Poisoning",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"Contém 500 bolas de canhão de envenenamento.",
+			"Pacote com 500 Balas de Canhão Venenosas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
 			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
@@ -292837,277 +294242,345 @@ tbl = {
 		costume = false
 	},
 	[101112] = {
-		unidentifiedDisplayName = "Pergaminho de Invocação de Kunai",
+		unidentifiedDisplayName = "Emakimono de Kunai",
 		unidentifiedResourceName = "Kunai_Scroll",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Kunais.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Kunais.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pergaminho de Invocação de Kunai",
+		identifiedDisplayName = "Emakimono de Kunai",
 		identifiedResourceName = "Kunai_Scroll",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Kunais.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Kunais.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101113] = {
-		unidentifiedDisplayName = "Pergaminho de Invocação de Kunai Incorpóreo",
+		unidentifiedDisplayName = "Emakimono Imaterial",
 		unidentifiedResourceName = "Kunai_Scroll_Nothing",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Kunais incorpóreos.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Kunais Imateriais.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pergaminho de Invocação de Kunai Incorpóreo",
+		identifiedDisplayName = "Emakimono Imaterial",
 		identifiedResourceName = "Kunai_Scroll_Nothing",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Kunais incorpóreos.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Kunais Imateriais.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101114] = {
-		unidentifiedDisplayName = "Pergaminho de Invocação de Kunai da Sombra",
+		unidentifiedDisplayName = "Emakimono Sombrio",
 		unidentifiedResourceName = "Kunai_Scroll_Shadow",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Kunais da sombra.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Kunais Sombrias.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pergaminho de Invocação de Kunai da Sombra",
+		identifiedDisplayName = "Emakimono Sombrio",
 		identifiedResourceName = "Kunai_Scroll_Shadow",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Kunais da sombra.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Kunais Sombrias.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101115] = {
-		unidentifiedDisplayName = "Pergaminho de Invocação de Kunai de Hamaya",
+		unidentifiedDisplayName = "Emakimono Sagrado",
 		unidentifiedResourceName = "Kunai_Scroll_Hamaya",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Kunais de Hamaya.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Kunais Sagradas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pergaminho de Invocação de Kunai de Hamaya",
+		identifiedDisplayName = "Emakimono Sagrado",
 		identifiedResourceName = "Kunai_Scroll_Hamaya",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Kunais de Hamaya.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Kunais Sagradas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101116] = {
-		unidentifiedDisplayName = "Caixa de Granadas para Arremesso",
+		unidentifiedDisplayName = "Caixa de Explosivos",
 		unidentifiedResourceName = "Nw_Grenade_Box",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 granadas para arremesso.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Explosivos.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Caixa de Granadas para Arremesso",
+		identifiedDisplayName = "Caixa de Explosivos",
 		identifiedResourceName = "Nw_Grenade_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 granadas para arremesso.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Explosivos.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101117] = {
-		unidentifiedDisplayName = "Pacote de Talismãs de Espírito",
+		unidentifiedDisplayName = "Fardo de Talismãs",
 		unidentifiedResourceName = "Soa_Charm_Bundle",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Talismãs de Espírito.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Talismãs Espirituais.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pacote de Talismãs de Espírito",
+		identifiedDisplayName = "Fardo de Talismãs",
 		identifiedResourceName = "Soa_Charm_Bundle",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 Talismãs de Espírito.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Talismãs Espirituais.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101118] = {
-		unidentifiedDisplayName = "Pergaminho de Invocação da Escuridão",
+		unidentifiedDisplayName = "Manuscritos das Trevas",
 		unidentifiedResourceName = "SS_Charm_Box",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas de tinta escura.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas das Trevas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pergaminho de Invocação da Escuridão",
+		identifiedDisplayName = "Manuscritos das Trevas",
 		identifiedResourceName = "SS_Charm_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas de tinta escura.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas das Trevas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101119] = {
-		unidentifiedDisplayName = "Pergaminho de Invocação do Fogo",
+		unidentifiedDisplayName = "Manuscritos das Chamas",
 		unidentifiedResourceName = "SS_Charm_F_Box",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas de chamas rubras.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas das Chamas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pergaminho de Invocação do Fogo",
+		identifiedDisplayName = "Manuscritos das Chamas",
 		identifiedResourceName = "SS_Charm_F_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas de chamas rubras.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas das Chamas.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101120] = {
-		unidentifiedDisplayName = "Pergaminho de Invocação da Água",
+		unidentifiedDisplayName = "Manuscritos da Neve",
 		unidentifiedResourceName = "SS_Charm_W_Box",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas de gelo e neve.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas das Neves.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pergaminho de Invocação da Água",
+		identifiedDisplayName = "Manuscritos da Neve",
 		identifiedResourceName = "SS_Charm_W_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas de gelo e neve.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas das Neves.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101121] = {
-		unidentifiedDisplayName = "Pergaminho de Invocação da Terra",
+		unidentifiedDisplayName = "Manuscritos da Terra",
 		unidentifiedResourceName = "SS_Charm_G_Box",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas da terra.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas da Terra.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pergaminho de Invocação da Terra",
+		identifiedDisplayName = "Manuscritos da Terra",
 		identifiedResourceName = "SS_Charm_G_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas da terra.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas da Terra.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101122] = {
-		unidentifiedDisplayName = "Pergaminho de Invocação do Vento",
+		unidentifiedDisplayName = "Manuscritos da Trovoada",
 		unidentifiedResourceName = "SS_Charm_L_Box",
 		unidentifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas do vento cortante.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas da Trovoada.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
-		identifiedDisplayName = "Pergaminho de Invocação do Vento",
+		identifiedDisplayName = "Manuscritos da Trovoada",
 		identifiedResourceName = "SS_Charm_L_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Atenção! Se você exceder 30.000 itens mantidos no inventário, os itens poderão desaparecer.\"^000000",
-			"^ffffff_^000000",
-			"É possível invocar 500 névoas do vento cortante.=",
-			"^ffffff_^000000",
-			"Peso : ^77777725^000000"
+			"Pacote com 500 Brumas da Trovoada.",
+			"--------------------------",
+			"^FF0000Não abrir com mais de 30.000 unidades do item no inventário.^000000",
+			"--------------------------",
+			"Peso: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101168] = {
-		unidentifiedDisplayName = "[Não à venda] Poção Especial",
+		unidentifiedDisplayName = "[Evento] Poção Enhumasoh",
 		unidentifiedResourceName = "레지스트_지",
 		unidentifiedDescriptionName = {
-			"Poção especial que, por 1 hora, concede os efeitos de Poção de Vida Pequena, Poção de Vida Média, Poção de Vida Maravilhosa, Poção de Mana Pequena, Pergaminho de Defesa Brilhante e Manual de Combate Avançado.",
-			"Quando o personagem ficar incapacitado, os efeitos do item também desaparecem.",
-			"",
-			"^ff0000(Este item será removido na primeira manutenção periódica de dezembro de 2025.)^000000",
-			"",
-			"Peso : ^7777770^000000"
+			"Poção mágica que contém tudo em uma só!",
+			"--------------------------",
+			"[^CD3278Poção Menor de Mana^000000]",
+			"^0000FFRegenera 5% de SP a cada 5 segundos.^000000",
+			"--------------------------",
+			"[^CD3278Poção Menor de Vida^000000]",
+			"^0000FFRegenera 5% de HP a cada 5 segundos.^000000",
+			"--------------------------",
+			"[^CD3278Poção Média de Vida^000000]",
+			"^0000FFRegenera 7% de HP a cada 4 segundos.^000000",
+			"--------------------------",
+			"[^CD3278Água Milagrosa^000000]",
+			"^0000FFRegenera 4% de HP a cada 3 segundos.^000000",
+			"--------------------------",
+			"[^CD3278Escrituras^000000]",
+			"^0000FFDEF +500.",
+			"DEFM +200.^000000",
+			"--------------------------",
+			"[^CD3278Tomo de Batalha^000000]",
+			"^0000FFEXP adquirida +200%.^000000",
+			"--------------------------",
+			"^FF0000Perde o efeito ao morrer.^000000",
+			"--------------------------",
+			"Duração: ^77777760 minutos^000000",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "[Não à venda] Poção Especial",
+		identifiedDisplayName = "[Evento] Poção Enhumasoh",
 		identifiedResourceName = "레지스트_지",
 		identifiedDescriptionName = {
-			"Poção especial que, por 1 hora, concede os efeitos de Poção de Vida Pequena, Poção de Vida Média, Poção de Vida Maravilhosa, Poção de Mana Pequena, Pergaminho de Defesa Brilhante e Manual de Combate Avançado.",
-			"Quando o personagem ficar incapacitado, os efeitos do item também desaparecem.",
-			"",
-			"^ff0000(Este item será removido na primeira manutenção periódica de dezembro de 2025.)^000000",
-			"Peso : ^7777770^000000"
+			"Poção mágica que contém tudo em uma só!",
+			"--------------------------",
+			"[^CD3278Poção Menor de Mana^000000]",
+			"^0000FFRegenera 5% de SP a cada 5 segundos.^000000",
+			"--------------------------",
+			"[^CD3278Poção Menor de Vida^000000]",
+			"^0000FFRegenera 5% de HP a cada 5 segundos.^000000",
+			"--------------------------",
+			"[^CD3278Poção Média de Vida^000000]",
+			"^0000FFRegenera 7% de HP a cada 4 segundos.^000000",
+			"--------------------------",
+			"[^CD3278Água Milagrosa^000000]",
+			"^0000FFRegenera 4% de HP a cada 3 segundos.^000000",
+			"--------------------------",
+			"[^CD3278Escrituras^000000]",
+			"^0000FFDEF +500.",
+			"DEFM +200.^000000",
+			"--------------------------",
+			"[^CD3278Tomo de Batalha^000000]",
+			"^0000FFEXP adquirida +200%.^000000",
+			"--------------------------",
+			"^FF0000Perde o efeito ao morrer.^000000",
+			"--------------------------",
+			"Duração: ^77777760 minutos^000000",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101178] = {
+		unidentifiedDisplayName = "Caderno de Recarga",
+		unidentifiedResourceName = "오래된마법서",
+		unidentifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio da Recarga",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caderno de Recarga",
+		identifiedResourceName = "오래된마법서",
+		identifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio da Recarga",
+			"-------------------------",
+			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -293430,6 +294903,68 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101261] = {
+		unidentifiedDisplayName = "Caderno Mega Repente",
+		unidentifiedResourceName = "오래된마법서",
+		unidentifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio Mega Repente",
+			"Manopla Sombria Mega Repente",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caderno Mega Repente",
+		identifiedResourceName = "오래된마법서",
+		identifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio Mega Repente",
+			"Manopla Sombria Mega Repente",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101262] = {
+		unidentifiedDisplayName = "Caderno de Absorção",
+		unidentifiedResourceName = "오래된마법서",
+		unidentifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio de Absorção",
+			"Manopla Sombria de Absorção",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caderno de Absorção",
+		identifiedResourceName = "오래된마법서",
+		identifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio de Absorção",
+			"Manopla Sombria de Absorção",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101304] = {
 		unidentifiedDisplayName = "Registro dos Esquecidos",
 		unidentifiedResourceName = "Dead_Soul_Record_TW",
@@ -293455,6 +294990,68 @@ tbl = {
 			"Manto dos Esquecidos [1]",
 			"Grande Manto dos Esquecidos [1]",
 			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101309] = {
+		unidentifiedDisplayName = "Caderno de EXP",
+		unidentifiedResourceName = "오래된마법서",
+		unidentifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio de EXP",
+			"Manopla Sombria de EXP",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caderno de EXP",
+		identifiedResourceName = "오래된마법서",
+		identifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio de EXP",
+			"Manopla Sombria de EXP",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101311] = {
+		unidentifiedDisplayName = "Caderno do Infinito",
+		unidentifiedResourceName = "오래된마법서",
+		unidentifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio do Infinito",
+			"Manopla Sombria do Infinito",
+			"-------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Caderno do Infinito",
+		identifiedResourceName = "오래된마법서",
+		identifiedDescriptionName = {
+			"Caderno contendo textos mágicos de encantamento.",
+			"-------------------------",
+			"^0000ffAdiciona até 2 bônus aleatórios.^000000",
+			"-------------------------",
+			"[^CD3278Itens afetados^000000]",
+			"Escudo Sombrio do Infinito",
+			"Manopla Sombria do Infinito",
+			"-------------------------",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -294314,6 +295911,29 @@ tbl = {
 			"+9 Brinco Sombrio Tempeste",
 			"+9 Colar Sombrio Tempeste",
 			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102224] = {
+		unidentifiedDisplayName = "Reformador Ancestral",
+		unidentifiedResourceName = "Auto_M_I_Box_A",
+		unidentifiedDescriptionName = {
+			"Um cubo que fortalece itens de um antigo herói.",
+			"-------------------------",
+			"^0000ffTransforma uma Arma/Bota Ancestral +11 ou mais em uma Arma/Bota Primordial +11 ou mais.^000000",
+			"-------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Reformador Ancestral",
+		identifiedResourceName = "Auto_M_I_Box_A",
+		identifiedDescriptionName = {
+			"Um cubo que fortalece itens de um antigo herói.",
+			"-------------------------",
+			"^0000ffTransforma uma Arma/Bota Ancestral +11 em uma Arma/Bota Primordial +11.^000000",
+			"-------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -311329,6 +312949,112 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[107787] = {
+		unidentifiedDisplayName = "Artefato Oval Expandido",
+		unidentifiedResourceName = "Infinite_Eggs_TH",
+		unidentifiedDescriptionName = {
+			"Ovo especial para celebrar a chegada das Classes 4 Expandidas.",
+			"--------------------------",
+			"<URL>[Concede 1 item aleatório]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Artefato Oval Expandido",
+		identifiedResourceName = "Infinite_Eggs_TH",
+		identifiedDescriptionName = {
+			"Ovo especial para celebrar a chegada das Classes 4 Expandidas.",
+			"--------------------------",
+			"<URL>[Concede 1 item aleatório]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107788] = {
+		unidentifiedDisplayName = "[Evento] Artefato Oval Expandido",
+		unidentifiedResourceName = "Infinite_Eggs_TH",
+		unidentifiedDescriptionName = {
+			"Ovo especial para celebrar a chegada das Classes 4 Expandidas.",
+			"--------------------------",
+			"<URL>[Concede 1 item aleatório]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Evento] Artefato Oval Expandido",
+		identifiedResourceName = "Infinite_Eggs_TH",
+		identifiedDescriptionName = {
+			"Ovo especial para celebrar a chegada das Classes 4 Expandidas.",
+			"--------------------------",
+			"<URL>[Concede 1 item aleatório]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107789] = {
+		unidentifiedDisplayName = "Promoção 1.000%",
+		unidentifiedResourceName = "Re_Costama_Box_2023_1",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"",
+			"O patrão ficou maluco! Aproveite 1.000% de bônus com esse pacote!"
+		},
+		identifiedDisplayName = "Promoção 1.000%",
+		identifiedResourceName = "Re_Costama_Box_2023_1",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"",
+			"O patrão ficou maluco! Aproveite 1.000% de bônus com esse pacote!",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107790] = {
+		unidentifiedDisplayName = "Promoção 500%",
+		unidentifiedResourceName = "Re_Costama_Box_2023_3",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"",
+			"O patrão ficou maluco! Aproveite 500% de bônus com esse pacote!"
+		},
+		identifiedDisplayName = "Promoção 500%",
+		identifiedResourceName = "Re_Costama_Box_2023_3",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"",
+			"O patrão ficou maluco! Aproveite 500% de bônus com esse pacote!",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107791] = {
+		unidentifiedDisplayName = "Promoção 250%",
+		unidentifiedResourceName = "Re_Costama_Box_2023_4",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"",
+			"O patrão ficou maluco! Aproveite 250% de bônus com esse pacote!"
+		},
+		identifiedDisplayName = "Promoção 250%",
+		identifiedResourceName = "Re_Costama_Box_2023_4",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"",
+			"O patrão ficou maluco! Aproveite 250% de bônus com esse pacote!",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[200001] = {
 		unidentifiedDisplayName = "Cx. Expansor de Inventário (10)",
 		unidentifiedResourceName = "졸린상자",
@@ -314007,7 +315733,7 @@ tbl = {
 		identifiedDisplayName = "Piscadela Selecionável I",
 		identifiedResourceName = "LookatyouScroll_TW",
 		identifiedDescriptionName = {
-			"^ff0000Intransferível.^000000",
+			"^FF0000Intransferível.^000000",
 			"Um ovo com várias lentes de contato.",
 			"--------------------------",
 			"[^CD3278Escolha Um^000000]",
@@ -314019,8 +315745,8 @@ tbl = {
 			"[Visual] Piscadela Florestal",
 			"[Visual] Piscadela Sangrenta",
 			"[Visual] Piscadela Gelada",
-			"[Visual] Piscadela Vermelha",
 			"[Visual] Piscadela Rosa",
+			"[Visual] Piscadela Vermelha",
 			"--------------------------",
 			"Peso: ^7777771^000000"
 		},
@@ -314158,6 +315884,91 @@ tbl = {
 		identifiedDescriptionName = {
 			"^ff0000Intransferível.^000000",
 			"Experimente essa caixa cheia de consumíveis e alguns Artefatos Ovais!",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201029] = {
+		unidentifiedDisplayName = "Pacote de Pedra Visual XIV",
+		unidentifiedResourceName = "동보물상자",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Pacote de Pedra Visual XIV",
+		identifiedResourceName = "동보물상자",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"Pacote especial contendo MiauMiau, Baú de Pedras Visuais e Artefato Oval.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201030] = {
+		unidentifiedDisplayName = "Grande Pacote de Pedra Visual XIV",
+		unidentifiedResourceName = "동보물상자",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Grande Pacote de Pedra Visual XIV",
+		identifiedResourceName = "동보물상자",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"Pacote especial contendo MiauMiau, Baú de Pedras Visuais e Artefato Oval.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201031] = {
+		unidentifiedDisplayName = "Caixa Pequena de Ovos 9",
+		unidentifiedResourceName = "Re_Costama_Box_2023_1",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Caixa Pequena de Ovos 9",
+		identifiedResourceName = "Re_Costama_Box_2023_1",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"Caixa contendo poucos Artefatos Ovais.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201032] = {
+		unidentifiedDisplayName = "Caixa Média de Ovos 9",
+		unidentifiedResourceName = "Re_Costama_Box_2023_3",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Caixa Média de Ovos 9",
+		identifiedResourceName = "Re_Costama_Box_2023_3",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"Caixa contendo Artefatos Ovais.",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201033] = {
+		unidentifiedDisplayName = "Caixa Grande de Ovos 9",
+		unidentifiedResourceName = "Re_Costama_Box_2023_2",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Caixa Grande de Ovos 9",
+		identifiedResourceName = "Re_Costama_Box_2023_2",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível.^000000",
+			"Caixa contendo muitos Artefatos Ovais.",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -317221,7 +319032,7 @@ tbl = {
 		costume = false
 	},
 	[300192] = {
-		unidentifiedDisplayName = "Carta Sakray",
+		unidentifiedDisplayName = "Carta Sakray Amaldiçoado",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
 			"Não identificado. Use [Lupa] para identificar."
@@ -317229,10 +319040,16 @@ tbl = {
 		identifiedDisplayName = "Carta Sakray",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"P.ATQ + 1, S.ATQM + 1, reduz a recarga global em 5%.",
-			"Ao equipar junto com Carta Tiara, aumenta adicionalmente P.ATQ + 3 e P.ATQM + 3, e reduz adicionalmente a recarga global em 10%.",
+			"^0000FFP.ATQ e S.ATQM +1.^000000",
+			"^0000FFPós-conjuração -5%.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Carta Tiara^000000",
+			"^0000FFP.ATQ e S.ATQM + 3 adicional.^000000",
+			"^0000FFPós-conjuração -10% adicional.^000000",
+			"--------------------------",
 			"Tipo: ^777777Carta^000000",
-			"Equipa em: ^777777Cabeça^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -317249,9 +319066,11 @@ tbl = {
 		identifiedDisplayName = "Carta Tiara",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"P.ATQ + 1, S.ATQM + 1, reduz a recarga global em 5%.",
+			"^0000FFP.ATQ e S.ATQM +1.^000000",
+			"^0000FFPós-conjuração -5%.^000000",
+			"--------------------------",
 			"Tipo: ^777777Carta^000000",
-			"Equipa em: ^777777Cabeça^000000",
+			"Equipa em: ^777777Equip. para Cabeça^000000",
 			"Peso: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -319426,6 +321245,190 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 104,
+		EffectID = 1186,
+		costume = false
+	},
+	[300292] = {
+		unidentifiedDisplayName = "Carta Coringa Extra",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"^0000FFDano mágico +5%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra a raça Demônio +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra a raça Demônio +7% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Carta Coringa Extra",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"^0000FFDano mágico +5%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra a raça Demônio +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra a raça Demônio +7% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300293] = {
+		unidentifiedDisplayName = "Carta Erzsebet",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"^0000FFResistência a propriedade Neutro +15%.^000000",
+			"--------------------------",
+			"A cada refino:",
+			"^0000FFDano mágico de propriedade Veneno +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Carta Erzsebet",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"^0000FFResistência à propriedade Neutro +15%.^000000",
+			"--------------------------",
+			"A cada refino:",
+			"^0000FFDano mágico de propriedade Veneno +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300294] = {
+		unidentifiedDisplayName = "Carta Jeniffer",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"^0000FFDano mágico de propriedade Veneno e Maldito +20%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Acessório^000000",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Carta Jeniffer",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"^0000FFDano mágico de propriedade Veneno e Maldito +20%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Acessório^000000",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300295] = {
+		unidentifiedDisplayName = "Carta General Orc",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"^0000FFDano mágico +5%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra a raça Bruto +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra a raça Bruto +7% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Carta General Orc",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"^0000FFDano mágico +5%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra a raça Bruto +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra a raça Bruto +7% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300296] = {
+		unidentifiedDisplayName = "Carta Sieglouse",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"^0000FFDano mágico +5%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra a raça Inseto +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra a raça Inseto +7% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Carta Sieglouse",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"^0000FFDano mágico +5%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico contra a raça Inseto +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra a raça Inseto +7% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		EffectID = 1186,
+		costume = false
+	},
+	[300297] = {
+		unidentifiedDisplayName = "Carta Rei Goblin",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano físico contra a raça Bruto +35%.^000000",
+			"^0000FFResistência as raças Bruto e Doram ^FF0000-10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
+		},
+		identifiedDisplayName = "Carta Rei Goblin",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano físico contra a raça Bruto +35%.^000000",
+			"^0000FFResistência às raças Bruto e Doram ^FF0000-10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Carta^000000",
+			"Equipa em: ^777777Calçado^000000",
+			"Peso: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
 		EffectID = 1186,
 		costume = false
 	},
@@ -328198,6 +330201,83 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[310658] = {
+		unidentifiedDisplayName = "Fixa -0,1 (Dual)",
+		unidentifiedResourceName = "태양신의상징",
+		unidentifiedDescriptionName = {
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Fixa -0,3^000000",
+			"^000000Conjuração fixa -0,3 segundos adicional.^000000"
+		},
+		identifiedDisplayName = "Fixa -0,1 (Dual)",
+		identifiedResourceName = "태양신의상징",
+		identifiedDescriptionName = {
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Fixa -0,3^000000",
+			"^000000Conjuração fixa -0,3 segundos adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310660] = {
+		unidentifiedDisplayName = "Alcance (Dual)",
+		unidentifiedResourceName = "용의보주_황",
+		unidentifiedDescriptionName = {
+			"^000000Dano físico a distância +4%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Topo)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Meio)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Baixo)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000"
+		},
+		identifiedDisplayName = "Alcance (Dual)",
+		identifiedResourceName = "용의보주_황",
+		identifiedDescriptionName = {
+			"^000000Dano físico a distância +4%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Topo)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Meio)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Baixo)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310663] = {
+		unidentifiedDisplayName = "Absorção de SP (Dual)",
+		unidentifiedResourceName = "푸른묘안석",
+		unidentifiedDescriptionName = {
+			"^0000001% de chance de converter 1% do dano físico causado em SP.^000000"
+		},
+		identifiedDisplayName = "Absorção de SP (Dual)",
+		identifiedResourceName = "푸른묘안석",
+		identifiedDescriptionName = {
+			"^0000001% de chance de converter 1% do dano físico causado em SP.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[310674] = {
 		unidentifiedDisplayName = "Constelação do Poder 1",
 		unidentifiedResourceName = "Star_Cluster_Of_Pow",
@@ -328585,27 +330665,27 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cada 15 de CON base:",
 			"^0000FFATQ +5.",
-			"Dano físico a distância +1%.^000000",
+			"Dano físico à distância +1%.^000000",
 			"--------------------------",
 			"^CC3D3DGrau D ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +1.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau C ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +1 adicional.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau B ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +1 adicional.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau A ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +2 adicional.",
-			"Dano físico a distância +1% adicional.^000000"
+			"Dano físico à distância +1% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -328617,54 +330697,54 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"A cada 15 de CON base:",
 			"^0000FFATQ +7.",
-			"Dano físico a distância +2%.^000000",
+			"Dano físico à distância +2%.^000000",
 			"--------------------------",
 			"^CC3D3DGrau D ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +1.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau C ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +1 adicional.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau B ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +2 adicional.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau A ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +2 adicional.",
-			"Dano físico a distância +1% adicional.^000000"
+			"Dano físico à distância +2% adicional.^000000"
 		},
 		identifiedDisplayName = "Constelação da Concentração 2",
 		identifiedResourceName = "Star_Cluster_Of_Con",
 		identifiedDescriptionName = {
 			"A cada 15 de CON base:",
 			"^0000FFATQ +7.",
-			"Dano físico a distância +2%.^000000",
+			"Dano físico à distância +2%.^000000",
 			"--------------------------",
 			"^CC3D3DGrau D ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +1.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau C ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +1 adicional.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau B ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +2 adicional.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau A ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +2 adicional.",
-			"Dano físico a distância +1% adicional.^000000"
+			"Dano físico à distância +2% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -328676,54 +330756,54 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"A cada 15 de CON base:",
 			"^0000FFATQ +15.",
-			"Dano físico a distância +2%.^000000",
+			"Dano físico à distância +2%.^000000",
 			"--------------------------",
 			"^CC3D3DGrau D ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +1.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau C ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +2 adicional.",
-			"Dano físico a distância +2% adicional.^000000",
+			"Dano físico à distância +2% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau B ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +2 adicional.",
-			"Dano físico a distância +2% adicional.^000000",
+			"Dano físico à distância +2% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau A ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +3 adicional.",
-			"Dano físico a distância +3% adicional.^000000"
+			"Dano físico à distância +3% adicional.^000000"
 		},
 		identifiedDisplayName = "Constelação da Concentração 3",
 		identifiedResourceName = "Star_Cluster_Of_Con",
 		identifiedDescriptionName = {
 			"A cada 15 de CON base:",
 			"^0000FFATQ +15.",
-			"Dano físico a distância +2%.^000000",
+			"Dano físico à distância +2%.^000000",
 			"--------------------------",
 			"^CC3D3DGrau D ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +1.",
-			"Dano físico a distância +1% adicional.^000000",
+			"Dano físico à distância +1% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau C ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +2 adicional.",
-			"Dano físico a distância +2% adicional.^000000",
+			"Dano físico à distância +2% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau B ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +2 adicional.",
-			"Dano físico a distância +2% adicional.^000000",
+			"Dano físico à distância +2% adicional.^000000",
 			"--------------------------",
 			"^CC3D3DGrau A ou mais:^000000",
 			"A cada 15 de CON base:",
 			"^0000FFP.ATQ +3 adicional.",
-			"Dano físico a distância +3% adicional.^000000"
+			"Dano físico à distância +3% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -328853,7 +330933,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"A cada 15 de CRV base:",
 			"^0000FFATQ +15.",
-			"Dano crítico +2%.^000000",
+			"Dano crítico +3%.^000000",
 			"--------------------------",
 			"^CC3D3DGrau D ou mais:^000000",
 			"A cada 15 de CRV base:",
@@ -328880,7 +330960,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cada 15 de CRV base:",
 			"^0000FFATQ +15.",
-			"Dano crítico +2%.^000000",
+			"Dano crítico +3%.^000000",
 			"--------------------------",
 			"^CC3D3DGrau D ou mais:^000000",
 			"A cada 15 de CRV base:",
@@ -329458,13 +331538,13 @@ tbl = {
 		unidentifiedDisplayName = "Estrela do Esforço 1",
 		unidentifiedResourceName = "Star_Of_Sharp",
 		unidentifiedDescriptionName = {
-			"CRIT +2.",
+			"CRÍT +2.",
 			"Dano crítico +2%."
 		},
 		identifiedDisplayName = "Estrela do Esforço 1",
 		identifiedResourceName = "Star_Of_Sharp",
 		identifiedDescriptionName = {
-			"CRIT +2.",
+			"CRÍT +2.",
 			"Dano crítico +2%."
 		},
 		slotCount = 0,
@@ -329475,13 +331555,13 @@ tbl = {
 		unidentifiedDisplayName = "Estrela do Esforço 2",
 		unidentifiedResourceName = "Star_Of_Sharp",
 		unidentifiedDescriptionName = {
-			"CRIT +3.",
+			"CRÍT +3.",
 			"Dano crítico +3%."
 		},
 		identifiedDisplayName = "Estrela do Esforço 2",
 		identifiedResourceName = "Star_Of_Sharp",
 		identifiedDescriptionName = {
-			"CRIT +3.",
+			"CRÍT +3.",
 			"Dano crítico +3%."
 		},
 		slotCount = 0,
@@ -329499,7 +331579,7 @@ tbl = {
 		identifiedDisplayName = "Estrela do Esforço 3",
 		identifiedResourceName = "Star_Of_Sharp",
 		identifiedDescriptionName = {
-			"CRIT +5.",
+			"CRÍT +5.",
 			"Dano crítico +5%.",
 			"P.ATQ +1."
 		},
@@ -329511,14 +331591,14 @@ tbl = {
 		unidentifiedDisplayName = "Estrela do Esforço 4",
 		unidentifiedResourceName = "Star_Of_Sharp",
 		unidentifiedDescriptionName = {
-			"CRIT +6.",
+			"CRÍT +6.",
 			"Dano crítico +10%.",
 			"P.ATQ +2."
 		},
 		identifiedDisplayName = "Estrela do Esforço 4",
 		identifiedResourceName = "Star_Of_Sharp",
 		identifiedDescriptionName = {
-			"CRIT +6.",
+			"CRÍT +6.",
 			"Dano crítico +10%.",
 			"P.ATQ +2."
 		},
@@ -329530,7 +331610,7 @@ tbl = {
 		unidentifiedDisplayName = "Estrela do Esforço 5",
 		unidentifiedResourceName = "Star_Of_Sharp",
 		unidentifiedDescriptionName = {
-			"CRIT +8.",
+			"CRÍT +8.",
 			"Dano crítico +15%.",
 			"P.ATQ +2.",
 			"T.CRÍT +1."
@@ -329538,7 +331618,7 @@ tbl = {
 		identifiedDisplayName = "Estrela do Esforço 5",
 		identifiedResourceName = "Star_Of_Sharp",
 		identifiedDescriptionName = {
-			"CRIT +8.",
+			"CRÍT +8.",
 			"Dano crítico +15%.",
 			"P.ATQ +2.",
 			"T.CRÍT +1."
@@ -329856,7 +331936,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Efetividade de cura +10%.",
 			"SP máx. +5%.",
-			"C.Mais +1.",
+			"C.MAIS +1.",
 			"Regen. natural de SP +15%."
 		},
 		identifiedDisplayName = "Estrela do Afeto 3",
@@ -329864,7 +331944,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Efetividade de cura +10%.",
 			"SP máx. +5%.",
-			"C.Mais +1.",
+			"C.MAIS +1.",
 			"Regen. natural de SP +15%."
 		},
 		slotCount = 0,
@@ -329877,7 +331957,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Efetividade de cura +10%.",
 			"SP máx. +7%.",
-			"C.Mais +3.",
+			"C.MAIS +3.",
 			"Regen. natural de SP +15%."
 		},
 		identifiedDisplayName = "Estrela do Afeto 4",
@@ -329885,7 +331965,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Efetividade de cura +10%.",
 			"SP máx. +7%.",
-			"C.Mais +3.",
+			"C.MAIS +3.",
 			"Regen. natural de SP +15%."
 		},
 		slotCount = 0,
@@ -329898,7 +331978,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Efetividade de cura +15%.",
 			"SP máx. +10%.",
-			"C.Mais +5.",
+			"C.MAIS +5.",
 			"Regen. natural de SP +20%."
 		},
 		identifiedDisplayName = "Estrela do Afeto 5",
@@ -329906,7 +331986,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Efetividade de cura +15%.",
 			"SP máx. +10%.",
-			"C.Mais +5.",
+			"C.MAIS +5.",
 			"Regen. natural de SP +20%."
 		},
 		slotCount = 0,
@@ -330052,7 +332132,7 @@ tbl = {
 		costume = false
 	},
 	[310733] = {
-		unidentifiedDisplayName = "Nébula da da Morte 1",
+		unidentifiedDisplayName = "Nébula da Morte 1",
 		unidentifiedResourceName = "Nebula_Of_SH",
 		unidentifiedDescriptionName = {
 			"^0000FFDano crítico +5%.^000000",
@@ -330061,7 +332141,7 @@ tbl = {
 			"Refino +11 ou mais:",
 			"^0000FFDano crítico +7%.^000000"
 		},
-		identifiedDisplayName = "Nébula da da Morte 1",
+		identifiedDisplayName = "Nébula da Morte 1",
 		identifiedResourceName = "Nebula_Of_SH",
 		identifiedDescriptionName = {
 			"^0000FFDano crítico +5%.^000000",
@@ -330075,7 +332155,7 @@ tbl = {
 		costume = false
 	},
 	[310734] = {
-		unidentifiedDisplayName = "Nébula da da Morte 2",
+		unidentifiedDisplayName = "Nébula da Morte 2",
 		unidentifiedResourceName = "Nebula_Of_SH",
 		unidentifiedDescriptionName = {
 			"^0000FFDano crítico +7%.^000000",
@@ -330084,7 +332164,7 @@ tbl = {
 			"Refino +11 ou mais:",
 			"^0000FFDano crítico +12%.^000000"
 		},
-		identifiedDisplayName = "Nébula da da Morte 2",
+		identifiedDisplayName = "Nébula da Morte 2",
 		identifiedResourceName = "Nebula_Of_SH",
 		identifiedDescriptionName = {
 			"^0000FFDano crítico +7%.^000000",
@@ -330223,7 +332303,7 @@ tbl = {
 		unidentifiedResourceName = "Nebula_Of_HL",
 		unidentifiedDescriptionName = {
 			"^0000FFSP máx. +5%",
-			"Efetividade de cura +7%.",
+			"Efetividade de cura +7%.^000000",
 			"Refino +9 ou mais:",
 			"^0000FFSP máx. +3% adicional.",
 			"Efetividade de cura +5% adicional.^000000",
@@ -330235,7 +332315,7 @@ tbl = {
 		identifiedResourceName = "Nebula_Of_HL",
 		identifiedDescriptionName = {
 			"^0000FFSP máx. +5%",
-			"Efetividade de cura +7%.",
+			"Efetividade de cura +7%.^000000",
 			"Refino +9 ou mais:",
 			"^0000FFSP máx. +3% adicional.",
 			"Efetividade de cura +5% adicional.^000000",
@@ -330366,18 +332446,10 @@ tbl = {
 	[310844] = {
 		unidentifiedDisplayName = "Calor do Verão 1",
 		unidentifiedResourceName = "열혈스크롤",
-		unidentifiedDescriptionName = {
-			"^0000ffDano físico a distância +5%.^000000",
-			"^0000ffDano físico corpo a corpo +5%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Calor do Verão 1",
 		identifiedResourceName = "열혈스크롤",
-		identifiedDescriptionName = {
-			"^0000ffDano físico a distância +5%.^000000",
-			"^0000ffDano físico corpo a corpo +5%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		identifiedDescriptionName = {},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -330385,18 +332457,10 @@ tbl = {
 	[310845] = {
 		unidentifiedDisplayName = "Calor do Verão 2",
 		unidentifiedResourceName = "열혈스크롤",
-		unidentifiedDescriptionName = {
-			"^0000ffDano físico a distância +10%.^000000",
-			"^0000ffDano físico corpo a corpo +10%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Calor do Verão 2",
 		identifiedResourceName = "열혈스크롤",
-		identifiedDescriptionName = {
-			"^0000ffDano físico a distância +10%.^000000",
-			"^0000ffDano físico corpo a corpo +10%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		identifiedDescriptionName = {},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -330404,18 +332468,10 @@ tbl = {
 	[310846] = {
 		unidentifiedDisplayName = "Calor do Verão 3",
 		unidentifiedResourceName = "열혈스크롤",
-		unidentifiedDescriptionName = {
-			"^0000ffDano físico a distância +15%.^000000",
-			"^0000ffDano físico corpo a corpo +15%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Calor do Verão 3",
 		identifiedResourceName = "열혈스크롤",
-		identifiedDescriptionName = {
-			"^0000ffDano físico a distância +15%.^000000",
-			"^0000ffDano físico corpo a corpo +15%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		identifiedDescriptionName = {},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -330423,16 +332479,10 @@ tbl = {
 	[310847] = {
 		unidentifiedDisplayName = "Brisa do Verão 1",
 		unidentifiedResourceName = "수자리스크롤",
-		unidentifiedDescriptionName = {
-			"^0000ffDano mágico de todas as propriedades +5%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Brisa do Verão 1",
 		identifiedResourceName = "수자리스크롤",
-		identifiedDescriptionName = {
-			"^0000ffDano mágico de todas as propriedades +5%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		identifiedDescriptionName = {},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -330440,16 +332490,10 @@ tbl = {
 	[310848] = {
 		unidentifiedDisplayName = "Brisa do Verão 2",
 		unidentifiedResourceName = "수자리스크롤",
-		unidentifiedDescriptionName = {
-			"^0000ffDano mágico de todas as propriedades +10%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Brisa do Verão 2",
 		identifiedResourceName = "수자리스크롤",
-		identifiedDescriptionName = {
-			"^0000ffDano mágico de todas as propriedades +10%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		identifiedDescriptionName = {},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -330457,16 +332501,10 @@ tbl = {
 	[310849] = {
 		unidentifiedDisplayName = "Brisa do Verão 3",
 		unidentifiedResourceName = "수자리스크롤",
-		unidentifiedDescriptionName = {
-			"^0000ffDano mágico de todas as propriedades +15%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		unidentifiedDescriptionName = {},
 		identifiedDisplayName = "Brisa do Verão 3",
 		identifiedResourceName = "수자리스크롤",
-		identifiedDescriptionName = {
-			"^0000ffDano mágico de todas as propriedades +15%.^000000",
-			"^ff0000Efeitos serão removidos no final do evento.^000000"
-		},
+		identifiedDescriptionName = {},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -330884,6 +332922,274 @@ tbl = {
 		identifiedResourceName = "하늘색보석",
 		identifiedDescriptionName = {
 			"Reduz o tempo de conjuração variável em 5%, MATK + 3."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310881] = {
+		unidentifiedDisplayName = "Cavaleiro Rúnico (Topo)",
+		unidentifiedResourceName = "Lord_Knight_Figure",
+		unidentifiedDescriptionName = {
+			"A cada nível de [Adestrar Dragão]:",
+			"^000000Dano crítico +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000Conjuração variável -10%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Lança das Mil Pontas] +15%.^000000"
+		},
+		identifiedDisplayName = "Cavaleiro Rúnico (Topo)",
+		identifiedResourceName = "Lord_Knight_Figure",
+		identifiedDescriptionName = {
+			"A cada nível de [Adestrar Dragão]:",
+			"^000000Dano crítico +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000Conjuração variável -10%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Lança das Mil Pontas] +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310882] = {
+		unidentifiedDisplayName = "Cavaleiro Rúnico (Meio)",
+		unidentifiedResourceName = "Lord_Knight_Figure",
+		unidentifiedDescriptionName = {
+			"A cada 2 níveis de [Perícia em Runas]:",
+			"^000000Dano físico a distância +1%.^000000",
+			"^000000Dano físico corpo a corpo +1%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000Dano de [Sopro do Dragão] e [Bafo do Dragão] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Onda de Choque] +15%.^000000"
+		},
+		identifiedDisplayName = "Cavaleiro Rúnico (Meio)",
+		identifiedResourceName = "Lord_Knight_Figure",
+		identifiedDescriptionName = {
+			"A cada 2 níveis de [Perícia em Runas]:",
+			"^000000Dano físico a distância +1%.^000000",
+			"^000000Dano físico corpo a corpo +1%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000Dano de [Sopro do Dragão] e [Bafo do Dragão] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Onda de Choque] +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310883] = {
+		unidentifiedDisplayName = "Cavaleiro Rúnico (Baixo)",
+		unidentifiedResourceName = "Lord_Knight_Figure",
+		unidentifiedDescriptionName = {
+			"A cada nível de [Encantar Lâmina]:",
+			"^000000Dano de [Vento Cortante] +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000HP e SP máx. +10%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Impacto Flamejante] +15%.^000000"
+		},
+		identifiedDisplayName = "Cavaleiro Rúnico (Baixo)",
+		identifiedResourceName = "Lord_Knight_Figure",
+		identifiedDescriptionName = {
+			"A cada nível de [Encantar Lâmina]:",
+			"^000000Dano de [Vento Cortante] +5%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000HP e SP máx. +10%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Impacto Flamejante] +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310884] = {
+		unidentifiedDisplayName = "Arcano (Topo)",
+		unidentifiedResourceName = "High_Wizard_Figure",
+		unidentifiedDescriptionName = {
+			"A cada nível de [Impacto Espiritual]:",
+			"^000000Dano mágico de todas as propriedades +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Impacto Espiritual] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Esquife de Gelo] +15%.^000000"
+		},
+		identifiedDisplayName = "Arcano (Topo)",
+		identifiedResourceName = "High_Wizard_Figure",
+		identifiedDescriptionName = {
+			"A cada nível de [Impacto Espiritual]:",
+			"^000000Dano mágico de todas as propriedades +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Impacto Espiritual] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Esquife de Gelo] +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310885] = {
+		unidentifiedDisplayName = "Arcano (Meio)",
+		unidentifiedResourceName = "High_Wizard_Figure",
+		unidentifiedDescriptionName = {
+			"A cada nível de [Cometa]:",
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Meteoro Escarlate] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Esquife de Gelo] +15%.^000000"
+		},
+		identifiedDisplayName = "Arcano (Meio)",
+		identifiedResourceName = "High_Wizard_Figure",
+		identifiedDescriptionName = {
+			"A cada nível de [Cometa]:",
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Meteoro Escarlate] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Esquife de Gelo] +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310886] = {
+		unidentifiedDisplayName = "Arcano (Baixo)",
+		unidentifiedResourceName = "High_Wizard_Figure",
+		unidentifiedDescriptionName = {
+			"A cada nível de [Corrente Elétrica]:",
+			"^000000Pós-conjuração -1%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Corrente Elétrica] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Cometa] +15%.^000000"
+		},
+		identifiedDisplayName = "Arcano (Baixo)",
+		identifiedResourceName = "High_Wizard_Figure",
+		identifiedDescriptionName = {
+			"A cada nível de [Corrente Elétrica]:",
+			"^000000Pós-conjuração -1%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Corrente Elétrica] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Cometa] +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310887] = {
+		unidentifiedDisplayName = "Guardião Real (Topo)",
+		unidentifiedResourceName = "Paladin_Figure",
+		unidentifiedDescriptionName = {
+			"A cada nível de [Consagração]:",
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Disparo Perfurante] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Luz da Criação] +15%.^000000"
+		},
+		identifiedDisplayName = "Guardião Real (Topo)",
+		identifiedResourceName = "Paladin_Figure",
+		identifiedDescriptionName = {
+			"A cada nível de [Consagração]:",
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Disparo Perfurante] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Luz da Criação] +15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310888] = {
+		unidentifiedDisplayName = "Guardião Real (Meio)",
+		unidentifiedResourceName = "Paladin_Figure",
+		unidentifiedDescriptionName = {
+			"A cada nível de [Devoção]:",
+			"^000000Dano físico a distância +2%.^000000",
+			"^000000Dano mágico de todas as propriedades +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Toque do Oblívio] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Custo de SP de [Luz da Criação] -15%.^000000"
+		},
+		identifiedDisplayName = "Guardião Real (Meio)",
+		identifiedResourceName = "Paladin_Figure",
+		identifiedDescriptionName = {
+			"A cada nível de [Devoção]:",
+			"^000000Dano físico a distância +2%.^000000",
+			"^000000Dano mágico de todas as propriedades +2%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Toque do Oblívio] +15%.^000000",
+			"--------------------------",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Custo de SP de [Luz da Criação] -15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -331387,1413 +333693,1770 @@ tbl = {
 		costume = false
 	},
 	[311016] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(ATQ)",
+		unidentifiedDisplayName = "Relógio - ATQ",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"ATQ + 10%.",
-			"De acordo com o grau da arma equipada, ATQ + 2%."
+			"^0000FFDano físico +10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFDano físico +2%.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(ATQ)",
+		identifiedDisplayName = "Relógio - ATQ",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"ATQ + 10%.",
-			"De acordo com o grau da arma equipada, ATQ + 2%."
+			"^0000FFDano físico +10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFDano físico +2%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311017] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(ATQM)",
+		unidentifiedDisplayName = "Relógio - ATQM",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"ATQM + 10%.",
-			"De acordo com o grau da arma equipada, ATQM + 2% adicional."
+			"^0000FFDano mágico +10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFDano mágico +2%.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(ATQM)",
+		identifiedDisplayName = "Relógio - ATQM",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"ATQM + 10%.",
-			"De acordo com o grau da arma equipada, ATQM + 2% adicional."
+			"^0000FFDano mágico +10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFDano mágico +2%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311018] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(Atraso Após Ataque)",
+		unidentifiedDisplayName = "Relógio - Pressa",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"Aumenta a velocidade de ataque (reduz o atraso após ataque em 10%).",
-			"De acordo com o grau da arma equipada, a velocidade de ataque aumenta adicionalmente (reduz o atraso após ataque em 2%)."
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFVelocidade de ataque +2%.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(Atraso Após Ataque)",
+		identifiedDisplayName = "Relógio - Pressa",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"Aumenta a velocidade de ataque (reduz o atraso após ataque em 10%).",
-			"De acordo com o grau da arma equipada, a velocidade de ataque aumenta adicionalmente (reduz o atraso após ataque em 2%)."
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFVelocidade de ataque +2%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311019] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(Conjuração Variável)",
+		unidentifiedDisplayName = "Relógio - Cântico",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"Reduz a conjuração variável em 10%.",
-			"De acordo com o grau da arma equipada, a conjuração variável é reduzida adicionalmente em 2%."
+			"^0000FFConjuração variável -10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFConjuração variável -10%.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(Conjuração Variável)",
+		identifiedDisplayName = "Relógio - Cântico",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"Reduz a conjuração variável em 10%.",
-			"De acordo com o grau da arma equipada, a conjuração variável é reduzida adicionalmente em 2%."
+			"^0000FFConjuração variável -10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFConjuração variável -10%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311020] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(Atraso Após Habilidade)",
+		unidentifiedDisplayName = "Relógio - Atraso",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"Reduz o atraso após habilidade em 10%.",
-			"De acordo com o grau da arma equipada, o atraso após habilidade é reduzido adicionalmente em 2%."
+			"^0000FFPós-conjuração -10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFPós-conjuração -10%.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(Atraso Após Habilidade)",
+		identifiedDisplayName = "Relógio - Atraso",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"Reduz o atraso após habilidade em 10%.",
-			"De acordo com o grau da arma equipada, o atraso após habilidade é reduzido adicionalmente em 2%."
+			"^0000FFPós-conjuração -10%.^000000",
+			"A cada grau da arma:",
+			"^0000FFPós-conjuração -10%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311021] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(POW)",
+		unidentifiedDisplayName = "Relógio - POD",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"POW + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFPOD +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFPOD +1.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(POW)",
+		identifiedDisplayName = "Relógio - POD",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"POW + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFPOD +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFPOD +1.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311022] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(SPL)",
+		unidentifiedDisplayName = "Relógio - FEI",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"SPL + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFFEI +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFFEI +1.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(SPL)",
+		identifiedDisplayName = "Relógio - FEI",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"SPL + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFFEI +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFFEI +1.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311023] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(STA)",
+		unidentifiedDisplayName = "Relógio - STA",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"STA + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFSTA +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFSTA +1.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(STA)",
+		identifiedDisplayName = "Relógio - STA",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"STA + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFSTA +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFSTA +1.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311024] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(WIS)",
+		unidentifiedDisplayName = "Relógio - SAB",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"WIS + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFSAB +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFSAB +1.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(WIS)",
+		identifiedDisplayName = "Relógio - SAB",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"WIS + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFSAB +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFSAB +1.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311025] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(CRT)",
+		unidentifiedDisplayName = "Relógio - CRV",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"CRT + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFCRV +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFCRV +1.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(CRT)",
+		identifiedDisplayName = "Relógio - CRV",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"CRT + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFCRV +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFCRV +1.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311026] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(CON)",
+		unidentifiedDisplayName = "Relógio - CON",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"CON + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFCON +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFCON +1.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(CON)",
+		identifiedDisplayName = "Relógio - CON",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"CON + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFCON +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFCON +1.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311027] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(P.ATQ)",
+		unidentifiedDisplayName = "Relógio - P.ATQ",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"P.ATQ + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFP.ATQ +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFP.ATQ +1.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(P.ATQ)",
+		identifiedDisplayName = "Relógio - P.ATQ",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"P.ATQ + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFP.ATQ +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFP.ATQ +1.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311028] = {
-		unidentifiedDisplayName = "Dispositivo de Corda(S.ATQM)",
+		unidentifiedDisplayName = "Relógio - S.ATQM",
 		unidentifiedResourceName = "Gear_Enchant1",
 		unidentifiedDescriptionName = {
-			"S.ATQM + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFS.ATQM +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFS.ATQM +1.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Corda(S.ATQM)",
+		identifiedDisplayName = "Relógio - S.ATQM",
 		identifiedResourceName = "Gear_Enchant1",
 		identifiedDescriptionName = {
-			"S.ATQM + 3.",
-			"De acordo com o grau da arma equipada, o efeito aumenta em +1."
+			"^0000FFS.ATQM +3.^000000",
+			"A cada grau da arma:",
+			"^0000FFS.ATQM +1.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311029] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Dilacerar",
+		unidentifiedDisplayName = "Maquinário - Dilacerar",
 		unidentifiedResourceName = "Gear_DN",
 		unidentifiedDescriptionName = {
-			"O dano de Dilacerar aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Dilacerar aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Dilacerar aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Dilacerar aumenta adicionalmente em 6%."
+			"^0000FFDano de [Dilacerar] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Dilacerar] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Dilacerar] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Dilacerar] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Dilacerar",
+		identifiedDisplayName = "Maquinário - Dilacerar",
 		identifiedResourceName = "Gear_DN",
 		identifiedDescriptionName = {
-			"O dano de Dilacerar aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Dilacerar aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Dilacerar aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Dilacerar aumenta adicionalmente em 6%."
+			"^0000FFDano de [Dilacerar] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Dilacerar] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Dilacerar] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Dilacerar] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311030] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Corte e Massacre",
+		unidentifiedDisplayName = "Maquinário - Massacre",
 		unidentifiedResourceName = "Gear_DN",
 		unidentifiedDescriptionName = {
-			"O dano de Corte e Massacre aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Corte e Massacre aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Corte e Massacre aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Corte e Massacre aumenta adicionalmente em 10%."
+			"^0000FFDano de [Corte e Massacre] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Corte e Massacre] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Corte e Massacre] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Corte e Massacre] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Corte e Massacre",
+		identifiedDisplayName = "Maquinário - Massacre",
 		identifiedResourceName = "Gear_DN",
 		identifiedDescriptionName = {
-			"O dano de Corte e Massacre aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Corte e Massacre aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Corte e Massacre aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Corte e Massacre aumenta adicionalmente em 10%."
+			"^0000FFDano de [Corte e Massacre] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Corte e Massacre] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Corte e Massacre] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Corte e Massacre] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311031] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Machado Esmagador(Axe Stomp)",
+		unidentifiedDisplayName = "Maquinário - Esmagador",
 		unidentifiedResourceName = "Gear_MT",
 		unidentifiedDescriptionName = {
-			"O dano de Machado Esmagador(Axe Stomp) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Machado Esmagador(Axe Stomp) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Machado Esmagador(Axe Stomp) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Machado Esmagador(Axe Stomp) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Machado Esmagador] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Machado Esmagador] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Machado Esmagador] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Machado Esmagador] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Machado Esmagador(Axe Stomp)",
+		identifiedDisplayName = "Maquinário - Esmagador",
 		identifiedResourceName = "Gear_MT",
 		identifiedDescriptionName = {
-			"O dano de Machado Esmagador(Axe Stomp) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Machado Esmagador(Axe Stomp) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Machado Esmagador(Axe Stomp) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Machado Esmagador(Axe Stomp) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Machado Esmagador] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Machado Esmagador] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Machado Esmagador] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Machado Esmagador] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311032] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Fúria do Furacão",
+		unidentifiedDisplayName = "Maquinário - Fúria",
 		unidentifiedResourceName = "Gear_MT",
 		unidentifiedDescriptionName = {
-			"O dano de Fúria do Furacão aumenta em 5%, e a recarga da habilidade Fúria do Furacão diminui em 1 s.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Fúria do Furacão aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Fúria do Furacão aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Fúria do Furacão aumenta adicionalmente em 10%."
+			"^0000FFDano de [Fúria do Furacão] +5%.^000000",
+			"^0000FFRecarga de [Fúria do Furacão] -1 segundo.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Fúria do Furacão] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Fúria do Furacão] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Fúria do Furacão] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Fúria do Furacão",
+		identifiedDisplayName = "Maquinário - Fúria",
 		identifiedResourceName = "Gear_MT",
 		identifiedDescriptionName = {
-			"O dano de Fúria do Furacão aumenta em 5%, e a recarga da habilidade Fúria do Furacão diminui em 1 s.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Fúria do Furacão aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Fúria do Furacão aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Fúria do Furacão aumenta adicionalmente em 10%."
+			"^0000FFDano de [Fúria do Furacão] +5%.^000000",
+			"^0000FFRecarga de [Fúria do Furacão] -1 segundo.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Fúria do Furacão] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Fúria do Furacão] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Fúria do Furacão] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311033] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Acidificado",
+		unidentifiedDisplayName = "Maquinário - Ácido",
 		unidentifiedResourceName = "Gear_BO",
 		unidentifiedDescriptionName = {
-			"O dano de Atirar Ácido Fogoso, (Vento) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Atirar Ácido Fogoso, (Vento) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Atirar Ácido Fogoso, (Vento) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Atirar Ácido Fogoso, (Vento) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Atirar Ácido Inflamável] e [Atirar Ácido Gasoso] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Atirar Ácido Inflamável] e [Atirar Ácido Gasoso] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Atirar Ácido Inflamável] e [Atirar Ácido Gasoso] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Atirar Ácido Inflamável] e [Atirar Ácido Gasoso] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Acidificado",
+		identifiedDisplayName = "Maquinário - Ácido",
 		identifiedResourceName = "Gear_BO",
 		identifiedDescriptionName = {
-			"O dano de Atirar Ácido Fogoso, (Vento) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Atirar Ácido Fogoso, (Vento) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Atirar Ácido Fogoso, (Vento) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Atirar Ácido Fogoso, (Vento) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Atirar Ácido Inflamável] e [Atirar Ácido Gasoso] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Atirar Ácido Inflamável] e [Atirar Ácido Gasoso] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Atirar Ácido Inflamável] e [Atirar Ácido Gasoso] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Atirar Ácido Inflamável] e [Atirar Ácido Gasoso] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311034] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Tornado de Carrinho",
+		unidentifiedDisplayName = "Maquinário - Carrinho",
 		unidentifiedResourceName = "Gear_BO",
 		unidentifiedDescriptionName = {
-			"O dano de Tornado de Carrinho aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Tornado de Carrinho aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Tornado de Carrinho aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Tornado de Carrinho aumenta adicionalmente em 10%."
+			"^0000FFDano de [Tornado de Carrinho] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Tornado de Carrinho",
+		identifiedDisplayName = "Maquinário - Carrinho",
 		identifiedResourceName = "Gear_BO",
 		identifiedDescriptionName = {
-			"O dano de Tornado de Carrinho aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Tornado de Carrinho aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Tornado de Carrinho aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Tornado de Carrinho aumenta adicionalmente em 10%."
+			"^0000FFDano de [Tornado de Carrinho] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311035] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Impacto Cratera",
+		unidentifiedDisplayName = "Maquinário - Cratera",
 		unidentifiedResourceName = "Gear_SHC",
 		unidentifiedDescriptionName = {
-			"O dano de Impacto Cratera aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Impacto Cratera aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Impacto Cratera aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Impacto Cratera aumenta adicionalmente em 6%."
+			"^0000FFDano de [Impacto Cratera] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Impacto Cratera] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Impacto Cratera] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Impacto Cratera] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Impacto Cratera",
+		identifiedDisplayName = "Maquinário - Cratera",
 		identifiedResourceName = "Gear_SHC",
 		identifiedDescriptionName = {
-			"O dano de Impacto Cratera aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Impacto Cratera aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Impacto Cratera aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Impacto Cratera aumenta adicionalmente em 6%."
+			"^0000FFDano de [Impacto Cratera] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Impacto Cratera] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Impacto Cratera] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Impacto Cratera] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311036] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Impacto Brutal(Savage Impact)",
+		unidentifiedDisplayName = "Maquinário - Brutal",
 		unidentifiedResourceName = "Gear_SHC",
 		unidentifiedDescriptionName = {
-			"O dano de Impacto Brutal(Savage Impact) aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Impacto Brutal(Savage Impact) aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Impacto Brutal(Savage Impact) aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Impacto Brutal(Savage Impact) aumenta adicionalmente em 10%."
+			"^0000FFDano de [Impacto Brutal] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Impacto Brutal] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Impacto Brutal] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Impacto Brutal] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Impacto Brutal(Savage Impact)",
+		identifiedDisplayName = "Maquinário - Brutal",
 		identifiedResourceName = "Gear_SHC",
 		identifiedDescriptionName = {
-			"O dano de Impacto Brutal(Savage Impact) aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Impacto Brutal(Savage Impact) aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Impacto Brutal(Savage Impact) aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Impacto Brutal(Savage Impact) aumenta adicionalmente em 10%."
+			"^0000FFDano de [Impacto Brutal] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Impacto Brutal] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Impacto Brutal] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Impacto Brutal] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311037] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Frozen Crimson",
+		unidentifiedDisplayName = "Maquinário - Afiado",
 		unidentifiedResourceName = "Gear_AG",
 		unidentifiedDescriptionName = {
-			"O dano de Gelo Cortante, Flecha Escarlate aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Gelo Cortante, Flecha Escarlate aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Gelo Cortante, Flecha Escarlate aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Gelo Cortante, Flecha Escarlate aumenta adicionalmente em 6%."
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Frozen Crimson",
+		identifiedDisplayName = "Maquinário - Afiado",
 		identifiedResourceName = "Gear_AG",
 		identifiedDescriptionName = {
-			"O dano de Gelo Cortante, Flecha Escarlate aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Gelo Cortante, Flecha Escarlate aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Gelo Cortante, Flecha Escarlate aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Gelo Cortante, Flecha Escarlate aumenta adicionalmente em 6%."
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311038] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Cacos de Gelo",
+		unidentifiedDisplayName = "Maquinário - Gelo",
 		unidentifiedResourceName = "Gear_AG",
 		unidentifiedDescriptionName = {
-			"O dano de Cacos de Gelo aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Cacos de Gelo aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Cacos de Gelo aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Cacos de Gelo aumenta adicionalmente em 10%."
+			"^0000FFDano de [Cacos de Gelo] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Cacos de Gelo] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Cacos de Gelo] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Cacos de Gelo] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Cacos de Gelo",
+		identifiedDisplayName = "Maquinário - Gelo",
 		identifiedResourceName = "Gear_AG",
 		identifiedDescriptionName = {
-			"O dano de Cacos de Gelo aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Cacos de Gelo aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Cacos de Gelo aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Cacos de Gelo aumenta adicionalmente em 10%."
+			"^0000FFDano de [Cacos de Gelo] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Cacos de Gelo] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Cacos de Gelo] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Cacos de Gelo] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311039] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Fenda do Abismo(Abyss Square)",
+		unidentifiedDisplayName = "Maquinário - Fenda",
 		unidentifiedResourceName = "Gear_ABC",
 		unidentifiedDescriptionName = {
-			"O dano de Fenda do Abismo(Abyss Square) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Fenda do Abismo(Abyss Square) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Fenda do Abismo(Abyss Square) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Fenda do Abismo(Abyss Square) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Fenda do Abismo] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Fenda do Abismo(Abyss Square)",
+		identifiedDisplayName = "Maquinário - Fenda",
 		identifiedResourceName = "Gear_ABC",
 		identifiedDescriptionName = {
-			"O dano de Fenda do Abismo(Abyss Square) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Fenda do Abismo(Abyss Square) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Fenda do Abismo(Abyss Square) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Fenda do Abismo(Abyss Square) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Fenda do Abismo] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311040] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Invocação do Abismo(From the Abyss)",
+		unidentifiedDisplayName = "Maquinário - Invocação",
 		unidentifiedResourceName = "Gear_ABC",
 		unidentifiedDescriptionName = {
-			"O dano de Invocação do Abismo(From the Abyss) aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Invocação do Abismo(From the Abyss) aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Invocação do Abismo(From the Abyss) aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Invocação do Abismo(From the Abyss) aumenta adicionalmente em 10%."
+			"^0000FFDano de [Invocação do Abismo] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Invocação do Abismo] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Invocação do Abismo] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Invocação do Abismo] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Invocação do Abismo(From the Abyss)",
+		identifiedDisplayName = "Maquinário - Invocação",
 		identifiedResourceName = "Gear_ABC",
 		identifiedDescriptionName = {
-			"O dano de Invocação do Abismo(From the Abyss) aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Invocação do Abismo(From the Abyss) aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Invocação do Abismo(From the Abyss) aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Invocação do Abismo(From the Abyss) aumenta adicionalmente em 10%."
+			"^0000FFDano de [Invocação do Abismo] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Invocação do Abismo] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Invocação do Abismo] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Invocação do Abismo] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311041] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Conflagração Relâmpago",
+		unidentifiedDisplayName = "Maquinário - Elemento",
 		unidentifiedResourceName = "Gear_EM",
 		unidentifiedDescriptionName = {
-			"O dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Conflagração] e [Tormenta] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Conflagração Relâmpago",
+		identifiedDisplayName = "Maquinário - Elemento",
 		identifiedResourceName = "Gear_EM",
 		identifiedDescriptionName = {
-			"O dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Conflagração] e [Tormenta] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311042] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Onda Psíquica",
+		unidentifiedDisplayName = "Maquinário - Onda",
 		unidentifiedResourceName = "Gear_EM",
 		unidentifiedDescriptionName = {
-			"O dano de Onda Psíquica aumenta em 5%, e a recarga da habilidade Onda Psíquica diminui em 1.5 s.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Onda Psíquica aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Onda Psíquica aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Onda Psíquica aumenta adicionalmente em 10%."
+			"^0000FFDano de [Onda Psíquica] +5%.^000000",
+			"^0000FFRecarga de [Onda Psíquica] -1,5 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Onda Psíquica] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Onda Psíquica] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Onda Psíquica] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Onda Psíquica",
+		identifiedDisplayName = "Maquinário - Onda",
 		identifiedResourceName = "Gear_EM",
 		identifiedDescriptionName = {
-			"O dano de Onda Psíquica aumenta em 5%, e a recarga da habilidade Onda Psíquica diminui em 1.5 s.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Onda Psíquica aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Onda Psíquica aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Onda Psíquica aumenta adicionalmente em 10%."
+			"^0000FFDano de [Onda Psíquica] +5%.^000000",
+			"^0000FFRecarga de [Onda Psíquica] -1,5 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Onda Psíquica] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Onda Psíquica] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Onda Psíquica] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311043] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Vendaval de Flechas(Gale Storm)",
+		unidentifiedDisplayName = "Maquinário - Vendaval",
 		unidentifiedResourceName = "Gear_WH",
 		unidentifiedDescriptionName = {
-			"O dano de Vendaval de Flechas(Gale Storm) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Vendaval de Flechas(Gale Storm) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Vendaval de Flechas(Gale Storm) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Vendaval de Flechas(Gale Storm) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Vendaval de Flechas] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Vendaval de Flechas(Gale Storm)",
+		identifiedDisplayName = "Maquinário - Vendaval",
 		identifiedResourceName = "Gear_WH",
 		identifiedDescriptionName = {
-			"O dano de Vendaval de Flechas(Gale Storm) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Vendaval de Flechas(Gale Storm) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Vendaval de Flechas(Gale Storm) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Vendaval de Flechas(Gale Storm) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Vendaval de Flechas] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311044] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Tempestade de Flechas",
+		unidentifiedDisplayName = "Maquinário - Tempestade",
 		unidentifiedResourceName = "Gear_WH",
 		unidentifiedDescriptionName = {
-			"O dano de Tempestade de Flechas aumenta em 5%, e a recarga da habilidade Tempestade de Flechas diminui em 1.2 s.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Tempestade de Flechas aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Tempestade de Flechas aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Tempestade de Flechas aumenta adicionalmente em 10%."
+			"^0000FFDano de [Tempestade de Flechas] +5%.^000000",
+			"^0000FFRecarga de [Tempestade de Flechas] -1,2 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Tempestade de Flechas",
+		identifiedDisplayName = "Maquinário - Tempestade",
 		identifiedResourceName = "Gear_WH",
 		identifiedDescriptionName = {
-			"O dano de Tempestade de Flechas aumenta em 5%, e a recarga da habilidade Tempestade de Flechas diminui em 1.2 s.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Tempestade de Flechas aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Tempestade de Flechas aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Tempestade de Flechas aumenta adicionalmente em 10%."
+			"^0000FFDano de [Tempestade de Flechas] +5%.^000000",
+			"^0000FFRecarga de [Tempestade de Flechas] -1,2 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311045] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste do Segundo Golpe",
+		unidentifiedDisplayName = "Maquinário - Juiz",
 		unidentifiedResourceName = "Gear_IQ",
 		unidentifiedDescriptionName = {
-			"O dano de Toque Intercessor, Golpe Pantocrator aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Toque Intercessor, Golpe Pantocrator aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Toque Intercessor, Golpe Pantocrator aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Toque Intercessor, Golpe Pantocrator aumenta adicionalmente em 6%."
+			"^0000FFDano de [Toque Intercessor] e [Golpe Pantocrator] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Toque Intercessor] e [Golpe Pantocrator] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Toque Intercessor] e [Golpe Pantocrator] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Toque Intercessor] e [Golpe Pantocrator] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste do Segundo Golpe",
+		identifiedDisplayName = "Maquinário - Juiz",
 		identifiedResourceName = "Gear_IQ",
 		identifiedDescriptionName = {
-			"O dano de Toque Intercessor, Golpe Pantocrator aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Toque Intercessor, Golpe Pantocrator aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Toque Intercessor, Golpe Pantocrator aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Toque Intercessor, Golpe Pantocrator aumenta adicionalmente em 6%."
+			"^0000FFDano de [Toque Intercessor] e [Golpe Pantocrator] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Toque Intercessor] e [Golpe Pantocrator] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Toque Intercessor] e [Golpe Pantocrator] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Toque Intercessor] e [Golpe Pantocrator] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311046] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste do Terceiro Golpe",
+		unidentifiedDisplayName = "Maquinário - Carrasco",
 		unidentifiedResourceName = "Gear_IQ",
 		unidentifiedDescriptionName = {
-			"O dano de Veredicto, Soco Guilhotina aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Veredicto, Soco Guilhotina aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Veredicto, Soco Guilhotina aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Veredicto, Soco Guilhotina aumenta adicionalmente em 10%."
+			"^0000FFDano de [Veredicto] e [Soco Guilhotina] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Veredicto] e [Soco Guilhotina] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Veredicto] e [Soco Guilhotina] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Veredicto] e [Soco Guilhotina] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste do Terceiro Golpe",
+		identifiedDisplayName = "Maquinário - Carrasco",
 		identifiedResourceName = "Gear_IQ",
 		identifiedDescriptionName = {
-			"O dano de Veredicto, Soco Guilhotina aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Veredicto, Soco Guilhotina aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Veredicto, Soco Guilhotina aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Veredicto, Soco Guilhotina aumenta adicionalmente em 10%."
+			"^0000FFDano de [Veredicto] e [Soco Guilhotina] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Veredicto] e [Soco Guilhotina] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Veredicto] e [Soco Guilhotina] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Veredicto] e [Soco Guilhotina] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311047] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Arremessar Escudo(Shield Shooting)",
+		unidentifiedDisplayName = "Maquinário - Escudo",
 		unidentifiedResourceName = "Gear_IG",
 		unidentifiedDescriptionName = {
-			"O dano de Arremessar Escudo(Shield Shooting) aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Arremessar Escudo(Shield Shooting) aumenta adicionalmente em 4%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Arremessar Escudo(Shield Shooting) aumenta adicionalmente em 5%.",
-			"[Grau A] ou superior: o dano de Arremessar Escudo(Shield Shooting) aumenta adicionalmente em 7%."
+			"^0000FFDano de [Arremessar Escudo] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +4% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +5% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +7% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Arremessar Escudo(Shield Shooting)",
+		identifiedDisplayName = "Maquinário - Escudo",
 		identifiedResourceName = "Gear_IG",
 		identifiedDescriptionName = {
-			"O dano de Arremessar Escudo(Shield Shooting) aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Arremessar Escudo(Shield Shooting) aumenta adicionalmente em 4%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Arremessar Escudo(Shield Shooting) aumenta adicionalmente em 5%.",
-			"[Grau A] ou superior: o dano de Arremessar Escudo(Shield Shooting) aumenta adicionalmente em 7%."
+			"^0000FFDano de [Arremessar Escudo] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +4% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +5% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +7% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311048] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Corrente de Escudo",
+		unidentifiedDisplayName = "Maquinário - Choque",
 		unidentifiedResourceName = "Gear_IG",
 		unidentifiedDescriptionName = {
-			"O dano de Corrente de Escudo aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Corrente de Escudo aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Corrente de Escudo aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Corrente de Escudo aumenta adicionalmente em 10%."
+			"^0000FFDano de [Choque Rápido] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Choque Rápido] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Choque Rápido] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Choque Rápido] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Corrente de Escudo",
+		identifiedDisplayName = "Maquinário - Choque",
 		identifiedResourceName = "Gear_IG",
 		identifiedDescriptionName = {
-			"O dano de Corrente de Escudo aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Corrente de Escudo aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Corrente de Escudo aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Corrente de Escudo aumenta adicionalmente em 10%."
+			"^0000FFDano de [Choque Rápido] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Choque Rápido] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Choque Rápido] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Choque Rápido] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311049] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Flamen(Framen)",
+		unidentifiedDisplayName = "Maquinário - Flamen",
 		unidentifiedResourceName = "Gear_CD",
 		unidentifiedDescriptionName = {
-			"O dano de Flamen(Framen) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Flamen(Framen) aumenta adicionalmente em 3% e a cura aumenta em 6%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Flamen(Framen) aumenta adicionalmente em 4% e a cura aumenta adicionalmente em 6%.",
-			"[Grau A] ou superior: o dano de Flamen(Framen) aumenta adicionalmente em 6% e a cura aumenta adicionalmente em 6%."
+			"^0000FFDano de [Flamen] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Flamen] +3% adicional.^000000",
+			"^0000FFEfetividade de cura +6%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Flamen] +4% adicional.^000000",
+			"^0000FFEfetividade de cura +6% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Flamen] +6% adicional.^000000",
+			"^0000FFEfetividade de cura +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Flamen(Framen)",
+		identifiedDisplayName = "Maquinário - Flamen",
 		identifiedResourceName = "Gear_CD",
 		identifiedDescriptionName = {
-			"O dano de Flamen(Framen) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Flamen(Framen) aumenta adicionalmente em 3% e a cura aumenta em 6%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Flamen(Framen) aumenta adicionalmente em 4% e a cura aumenta adicionalmente em 6%.",
-			"[Grau A] ou superior: o dano de Flamen(Framen) aumenta adicionalmente em 6% e a cura aumenta adicionalmente em 6%."
+			"^0000FFDano de [Flamen] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Flamen] +3% adicional.^000000",
+			"^0000FFEfetividade de cura +6%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Flamen] +4% adicional.^000000",
+			"^0000FFEfetividade de cura +6% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Flamen] +6% adicional.^000000",
+			"^0000FFEfetividade de cura +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311050] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Arbitrium(Arbitrium)",
+		unidentifiedDisplayName = "Maquinário - Arbitrium",
 		unidentifiedResourceName = "Gear_CD",
 		unidentifiedDescriptionName = {
-			"O dano de Arbitrium(Arbitrium) aumenta adicionalmente em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Arbitrium(Arbitrium) aumenta adicionalmente em 7% e a cura aumenta em 6%.",
-			"[Grau C] ou superior: aumenta adicionalmente em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Arbitrium(Arbitrium) aumenta adicionalmente em 8% e a cura aumenta adicionalmente em 6%.",
-			"[Grau A] ou superior: o dano de Arbitrium(Arbitrium) aumenta adicionalmente em 10% e a cura aumenta adicionalmente em 6%."
+			"^0000FFDano de [Arbitrium] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Arbitrium] +7% adicional.^000000",
+			"^0000FFEfetividade de cura +6%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Arbitrium] +8% adicional.^000000",
+			"^0000FFEfetividade de cura +6% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Arbitrium] +10% adicional.^000000",
+			"^0000FFEfetividade de cura +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Arbitrium(Arbitrium)",
+		identifiedDisplayName = "Maquinário - Arbitrium",
 		identifiedResourceName = "Gear_CD",
 		identifiedDescriptionName = {
-			"O dano de Arbitrium(Arbitrium) aumenta adicionalmente em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Arbitrium(Arbitrium) aumenta adicionalmente em 7% e a cura aumenta em 6%.",
-			"[Grau C] ou superior: aumenta adicionalmente em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Arbitrium(Arbitrium) aumenta adicionalmente em 8% e a cura aumenta adicionalmente em 6%.",
-			"[Grau A] ou superior: o dano de Arbitrium(Arbitrium) aumenta adicionalmente em 10% e a cura aumenta adicionalmente em 6%."
+			"^0000FFDano de [Arbitrium] +10% adicional.^000000",
+			"--------------------------",
+			"^0000FFDano de [Arbitrium] +7% adicional.^000000",
+			"^0000FFEfetividade de cura +6%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Arbitrium] +8% adicional.^000000",
+			"^0000FFEfetividade de cura +6% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Arbitrium] +10% adicional.^000000",
+			"^0000FFEfetividade de cura +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311051] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Entardecer",
+		unidentifiedDisplayName = "Maquinário - Entardecer",
 		unidentifiedResourceName = "Gear_SKE",
 		unidentifiedDescriptionName = {
-			"O dano de Entardecer aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Entardecer aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Entardecer aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Entardecer aumenta adicionalmente em 6%."
+			"^0000FFDano de [Entardecer] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Entardecer] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Entardecer] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Entardecer] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Entardecer",
+		identifiedDisplayName = "Maquinário - Entardecer",
 		identifiedResourceName = "Gear_SKE",
 		identifiedDescriptionName = {
-			"O dano de Entardecer aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Entardecer aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Entardecer aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Entardecer aumenta adicionalmente em 6%."
+			"^0000FFDano de [Entardecer] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Entardecer] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Entardecer] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Entardecer] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311052] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Amanhecer",
+		unidentifiedDisplayName = "Maquinário - Amanhecer",
 		unidentifiedResourceName = "Gear_SKE",
 		unidentifiedDescriptionName = {
-			"O dano de Amanhecer aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Amanhecer aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Amanhecer aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Amanhecer aumenta adicionalmente em 10%."
+			"^0000FFDano de [Amanhecer] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Amanhecer] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Amanhecer] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Amanhecer] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Amanhecer",
+		identifiedDisplayName = "Maquinário - Amanhecer",
 		identifiedResourceName = "Gear_SKE",
 		identifiedDescriptionName = {
-			"O dano de Amanhecer aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Amanhecer aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Amanhecer aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Amanhecer aumenta adicionalmente em 10%."
+			"^0000FFDano de [Amanhecer] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Amanhecer] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Amanhecer] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Amanhecer] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311053] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Talismã das Divindades",
+		unidentifiedDisplayName = "Maquinário - Divindades",
 		unidentifiedResourceName = "Gear_SOA",
 		unidentifiedDescriptionName = {
-			"O dano de Talismã das Divindades aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Talismã das Divindades aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Talismã das Divindades aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Talismã das Divindades aumenta adicionalmente em 6%."
+			"^0000FFDano de [Talismã das Divindades] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Talismã das Divindades] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Talismã das Divindades] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Talismã das Divindades] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Talismã das Divindades",
+		identifiedDisplayName = "Maquinário - Divindades",
 		identifiedResourceName = "Gear_SOA",
 		identifiedDescriptionName = {
-			"O dano de Talismã das Divindades aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Talismã das Divindades aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Talismã das Divindades aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Talismã das Divindades aumenta adicionalmente em 6%."
+			"^0000FFDano de [Talismã das Divindades] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Talismã das Divindades] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Talismã das Divindades] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Talismã das Divindades] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311054] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Talismã do Ceifeiro",
+		unidentifiedDisplayName = "Maquinário - Ceifeiro",
 		unidentifiedResourceName = "Gear_SOA",
 		unidentifiedDescriptionName = {
-			"O dano de Talismã do Ceifeiro aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Talismã do Ceifeiro aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Talismã do Ceifeiro aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Talismã do Ceifeiro aumenta adicionalmente em 10%."
+			"^0000FFDano de [Talismã do Ceifeiro] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Talismã do Ceifeiro] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Talismã do Ceifeiro] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Talismã do Ceifeiro] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Talismã do Ceifeiro",
+		identifiedDisplayName = "Maquinário - Ceifeiro",
 		identifiedResourceName = "Gear_SOA",
 		identifiedDescriptionName = {
-			"O dano de Talismã do Ceifeiro aumenta em 10%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Talismã do Ceifeiro aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Talismã do Ceifeiro aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Talismã do Ceifeiro aumenta adicionalmente em 10%."
+			"^0000FFDano de [Talismã do Ceifeiro] +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Talismã do Ceifeiro] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Talismã do Ceifeiro] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Talismã do Ceifeiro] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311055] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Disparo Único",
+		unidentifiedDisplayName = "Maquinário - Único",
 		unidentifiedResourceName = "Gear_NW",
 		unidentifiedDescriptionName = {
-			"O dano de Disparo Único aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Disparo Único aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Disparo Único aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Disparo Único aumenta adicionalmente em 6%."
+			"^0000FFDano de [Tiro Único] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Tiro Único] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Tiro Único] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Tiro Único] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Disparo Único",
+		identifiedDisplayName = "Maquinário - Único",
 		identifiedResourceName = "Gear_NW",
 		identifiedDescriptionName = {
-			"O dano de Disparo Único aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Disparo Único aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Disparo Único aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Disparo Único aumenta adicionalmente em 6%."
+			"^0000FFDano de [Tiro Único] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Tiro Único] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Tiro Único] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Tiro Único] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311056] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Atirar em Espiral",
+		unidentifiedDisplayName = "Maquinário - Espiral",
 		unidentifiedResourceName = "Gear_NW",
 		unidentifiedDescriptionName = {
-			"O dano de Atirar em Espiral aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Atirar em Espiral aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Atirar em Espiral aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Atirar em Espiral aumenta adicionalmente em 6%."
+			"^0000FFDano de [Atirar em Espiral] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Atirar em Espiral",
+		identifiedDisplayName = "Maquinário - Espiral",
 		identifiedResourceName = "Gear_NW",
 		identifiedDescriptionName = {
-			"O dano de Atirar em Espiral aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Atirar em Espiral aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Atirar em Espiral aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Atirar em Espiral aumenta adicionalmente em 6%."
+			"^0000FFDano de [Atirar em Espiral] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311057] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Golpe de Tyr",
+		unidentifiedDisplayName = "Maquinário - Tyr",
 		unidentifiedResourceName = "Gear_HN",
 		unidentifiedDescriptionName = {
-			"O dano de Golpe de Tyr aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Golpe de Tyr aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Golpe de Tyr aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Golpe de Tyr aumenta adicionalmente em 6%."
+			"^0000FFDano de [Golpe de Tyr] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Golpe de Tyr] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Golpe de Tyr] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Golpe de Tyr] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Golpe de Tyr",
+		identifiedDisplayName = "Maquinário - Tyr",
 		identifiedResourceName = "Gear_HN",
 		identifiedDescriptionName = {
-			"O dano de Golpe de Tyr aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Golpe de Tyr aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Golpe de Tyr aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Golpe de Tyr aumenta adicionalmente em 6%."
+			"^0000FFDano de [Golpe de Tyr] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Golpe de Tyr] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Golpe de Tyr] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Golpe de Tyr] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311058] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Chuva de Meteoros",
+		unidentifiedDisplayName = "Maquinário - Bruxaria",
 		unidentifiedResourceName = "Gear_HN",
 		unidentifiedDescriptionName = {
-			"O dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta adicionalmente em 6%."
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Chuva de Meteoros",
+		identifiedDisplayName = "Maquinário - Bruxaria",
 		identifiedResourceName = "Gear_HN",
 		identifiedDescriptionName = {
-			"O dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta adicionalmente em 6%."
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311059] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Dança das Trevas",
+		unidentifiedDisplayName = "Maquinário - Trevas",
 		unidentifiedResourceName = "Gear_SS",
 		unidentifiedDescriptionName = {
-			"O dano de Dança das Trevas aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Dança das Trevas aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 6% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Dança das Trevas aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Dança das Trevas aumenta adicionalmente em 5%."
+			"^0000FFDano de [Dança das Trevas] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Dança das Trevas] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +6%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Dança das Trevas] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Dança das Trevas +5% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Dança das Trevas",
+		identifiedDisplayName = "Maquinário - Trevas",
 		identifiedResourceName = "Gear_SS",
 		identifiedDescriptionName = {
-			"O dano de Dança das Trevas aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Dança das Trevas aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 6% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Dança das Trevas aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Dança das Trevas aumenta adicionalmente em 5%."
+			"^0000FFDano de [Dança das Trevas] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Dança das Trevas] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +6%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Dança das Trevas] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Dança das Trevas +5% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311060] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Mahou da Escuridão",
+		unidentifiedDisplayName = "Maquinário - Mahou",
 		unidentifiedResourceName = "Gear_SS",
 		unidentifiedDescriptionName = {
-			"O dano de Mahou da Escuridão aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Mahou da Escuridão aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 6% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Mahou da Escuridão aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Mahou da Escuridão aumenta adicionalmente em 5%."
+			"^0000FFDano de [Mahou da Escuridão] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Mahou da Escuridão] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +6%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Mahou da Escuridão] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Mahou da Escuridão +5% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Mahou da Escuridão",
+		identifiedDisplayName = "Maquinário - Mahou",
 		identifiedResourceName = "Gear_SS",
 		identifiedDescriptionName = {
-			"O dano de Mahou da Escuridão aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Mahou da Escuridão aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 6% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Mahou da Escuridão aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Mahou da Escuridão aumenta adicionalmente em 5%."
+			"^0000FFDano de [Mahou da Escuridão] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Mahou da Escuridão] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +6%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Mahou da Escuridão] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Mahou da Escuridão +5% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311061] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Rosé Shooting",
+		unidentifiedDisplayName = "Maquinário - Ritmo",
 		unidentifiedResourceName = "Gear_TR",
 		unidentifiedDescriptionName = {
-			"O dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +6% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Rosé Shooting",
+		identifiedDisplayName = "Maquinário - Ritmo",
 		identifiedResourceName = "Gear_TR",
 		identifiedDescriptionName = {
-			"O dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta adicionalmente em 6%."
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +3% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +4% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +6% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311062] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Temporal de Flechas",
+		unidentifiedDisplayName = "Maquinário - Flechas",
 		unidentifiedResourceName = "Gear_TR",
 		unidentifiedDescriptionName = {
-			"O dano de Temporal de Flechas aumenta em 5%, e a recarga da habilidade Temporal de Flechas diminui em 2 s.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Temporal de Flechas aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Temporal de Flechas aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Temporal de Flechas aumenta adicionalmente em 10%."
+			"^0000FFDano de [Temporal de Flechas] +5%.^000000",
+			"^0000FFRecarga de [Temporal de Flechas] -2 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +10% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Temporal de Flechas",
+		identifiedDisplayName = "Maquinário - Flechas",
 		identifiedResourceName = "Gear_TR",
 		identifiedDescriptionName = {
-			"O dano de Temporal de Flechas aumenta em 5%, e a recarga da habilidade Temporal de Flechas diminui em 2 s.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Temporal de Flechas aumenta adicionalmente em 7%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Temporal de Flechas aumenta adicionalmente em 8%.",
-			"[Grau A] ou superior: o dano de Temporal de Flechas aumenta adicionalmente em 10%."
+			"^0000FFDano de [Temporal de Flechas] +5%.^000000",
+			"^0000FFRecarga de [Temporal de Flechas] -2 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +7% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +8% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +10% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311063] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Rugido e Golpes",
+		unidentifiedDisplayName = "Maquinário - Tigre",
 		unidentifiedResourceName = "Gear_SH",
 		unidentifiedDescriptionName = {
-			"O dano de Rugido da Onça, Patada Felina aumenta em 7%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Rugido da Onça, Patada Felina aumenta adicionalmente em 5%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Rugido da Onça, Patada Felina aumenta adicionalmente em 6%.",
-			"[Grau A] ou superior: o dano de Rugido da Onça, Patada Felina aumenta adicionalmente em 7%."
+			"^0000FFDano de [Rugido do Tigre] e [Patada Felina] +7%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Rugido do Tigre] e [Patada Felina] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Rugido do Tigre] e [Patada Felina] +6% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Rugido do Tigre] e [Patada Felina] +7% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Rugido e Golpes",
+		identifiedDisplayName = "Maquinário - Tigre",
 		identifiedResourceName = "Gear_SH",
 		identifiedDescriptionName = {
-			"O dano de Rugido da Onça, Patada Felina aumenta em 7%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Rugido da Onça, Patada Felina aumenta adicionalmente em 5%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Rugido da Onça, Patada Felina aumenta adicionalmente em 6%.",
-			"[Grau A] ou superior: o dano de Rugido da Onça, Patada Felina aumenta adicionalmente em 7%."
+			"^0000FFDano de [Rugido do Tigre] e [Patada Felina] +7%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Rugido do Tigre] e [Patada Felina] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Rugido do Tigre] e [Patada Felina] +6% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Rugido do Tigre] e [Patada Felina] +7% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311064] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Hyeonrok",
+		unidentifiedDisplayName = "Maquinário - Cervo",
 		unidentifiedResourceName = "Gear_SH",
 		unidentifiedDescriptionName = {
-			"O dano de Brisa Silvestre, Lança Galhada aumenta em 7%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Brisa Silvestre, Lança Galhada aumenta adicionalmente em 5%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Brisa Silvestre, Lança Galhada aumenta adicionalmente em 6%.",
-			"[Grau A] ou superior: o dano de Brisa Silvestre, Lança Galhada aumenta adicionalmente em 7%."
+			"^0000FFDano de [Brisa Silvestre] e [Lança Galhada] +7%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Brisa Silvestre] e [Lança Galhada] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Brisa Silvestre] e [Lança Galhada]] +6% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Brisa Silvestre] e [Lança Galhada]] +7% adicional.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Hyeonrok",
+		identifiedDisplayName = "Maquinário - Cervo",
 		identifiedResourceName = "Gear_SH",
 		identifiedDescriptionName = {
-			"O dano de Brisa Silvestre, Lança Galhada aumenta em 7%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Brisa Silvestre, Lança Galhada aumenta adicionalmente em 5%.",
-			"[Grau C] ou superior: aumenta em 10% o dano mágico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Brisa Silvestre, Lança Galhada aumenta adicionalmente em 6%.",
-			"[Grau A] ou superior: o dano de Brisa Silvestre, Lança Galhada aumenta adicionalmente em 7%."
+			"^0000FFDano de [Brisa Silvestre] e [Lança Galhada] +7%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Brisa Silvestre] e [Lança Galhada] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Brisa Silvestre] e [Lança Galhada]] +6% adicional.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Brisa Silvestre] e [Lança Galhada]] +7% adicional.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311076] = {
-		unidentifiedDisplayName = "POW Lv1",
+		unidentifiedDisplayName = "POD +1",
 		unidentifiedResourceName = "Barmund_Pow",
-		unidentifiedDescriptionName = {"POW + 1."},
-		identifiedDisplayName = "POW Lv1",
+		unidentifiedDescriptionName = {"POD +1."},
+		identifiedDisplayName = "POD +1",
 		identifiedResourceName = "Barmund_Pow",
-		identifiedDescriptionName = {"POW + 1."},
+		identifiedDescriptionName = {"POD +1."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311077] = {
-		unidentifiedDisplayName = "POW Lv2",
+		unidentifiedDisplayName = "POD +2",
 		unidentifiedResourceName = "Barmund_Pow",
-		unidentifiedDescriptionName = {"POW + 2."},
-		identifiedDisplayName = "POW Lv2",
+		unidentifiedDescriptionName = {"POD +2."},
+		identifiedDisplayName = "POD +2",
 		identifiedResourceName = "Barmund_Pow",
-		identifiedDescriptionName = {"POW + 2."},
+		identifiedDescriptionName = {"POD +2."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311078] = {
-		unidentifiedDisplayName = "WIS Lv1",
+		unidentifiedDisplayName = "SAB +1",
 		unidentifiedResourceName = "Barmund_Wis",
-		unidentifiedDescriptionName = {"WIS + 1."},
-		identifiedDisplayName = "WIS Lv1",
+		unidentifiedDescriptionName = {"SAB +1."},
+		identifiedDisplayName = "SAB +1",
 		identifiedResourceName = "Barmund_Wis",
-		identifiedDescriptionName = {"WIS + 1."},
+		identifiedDescriptionName = {"SAB +1."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311079] = {
-		unidentifiedDisplayName = "WIS Lv2",
+		unidentifiedDisplayName = "SAB +2",
 		unidentifiedResourceName = "Barmund_Wis",
-		unidentifiedDescriptionName = {"WIS + 2."},
-		identifiedDisplayName = "WIS Lv2",
+		unidentifiedDescriptionName = {"SAB +2."},
+		identifiedDisplayName = "SAB +2",
 		identifiedResourceName = "Barmund_Wis",
-		identifiedDescriptionName = {"WIS + 2."},
+		identifiedDescriptionName = {"SAB +2."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311080] = {
-		unidentifiedDisplayName = "SPL Lv1",
+		unidentifiedDisplayName = "FEI +1",
 		unidentifiedResourceName = "Barmund_Spl",
-		unidentifiedDescriptionName = {"SPL + 1."},
-		identifiedDisplayName = "SPL Lv1",
+		unidentifiedDescriptionName = {"FEI +1."},
+		identifiedDisplayName = "FEI +1",
 		identifiedResourceName = "Barmund_Spl",
-		identifiedDescriptionName = {"SPL + 1."},
+		identifiedDescriptionName = {"FEI +1."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311081] = {
-		unidentifiedDisplayName = "SPL Lv2",
+		unidentifiedDisplayName = "FEI +2",
 		unidentifiedResourceName = "Barmund_Spl",
-		unidentifiedDescriptionName = {"SPL + 2."},
-		identifiedDisplayName = "SPL Lv2",
+		unidentifiedDescriptionName = {"FEI +2."},
+		identifiedDisplayName = "FEI +2",
 		identifiedResourceName = "Barmund_Spl",
-		identifiedDescriptionName = {"SPL + 2."},
+		identifiedDescriptionName = {"FEI +2."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311082] = {
-		unidentifiedDisplayName = "STA Lv1",
+		unidentifiedDisplayName = "STA +1",
 		unidentifiedResourceName = "Barmund_Sta",
-		unidentifiedDescriptionName = {"STA + 1."},
-		identifiedDisplayName = "STA Lv1",
+		unidentifiedDescriptionName = {"STA +1."},
+		identifiedDisplayName = "STA +1",
 		identifiedResourceName = "Barmund_Sta",
-		identifiedDescriptionName = {"STA + 1."},
+		identifiedDescriptionName = {"STA +1."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311083] = {
-		unidentifiedDisplayName = "STA Lv2",
+		unidentifiedDisplayName = "STA +2",
 		unidentifiedResourceName = "Barmund_Sta",
-		unidentifiedDescriptionName = {"STA + 2."},
-		identifiedDisplayName = "STA Lv2",
+		unidentifiedDescriptionName = {"STA +2."},
+		identifiedDisplayName = "STA +2",
 		identifiedResourceName = "Barmund_Sta",
-		identifiedDescriptionName = {"STA + 2."},
+		identifiedDescriptionName = {"STA +2."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311084] = {
-		unidentifiedDisplayName = "CRT Lv1",
+		unidentifiedDisplayName = "CRV +1",
 		unidentifiedResourceName = "Barmund_Crt",
-		unidentifiedDescriptionName = {"CRT + 1."},
-		identifiedDisplayName = "CRT Lv1",
+		unidentifiedDescriptionName = {"CRV +1."},
+		identifiedDisplayName = "CRV +1",
 		identifiedResourceName = "Barmund_Crt",
-		identifiedDescriptionName = {"CRT + 1."},
+		identifiedDescriptionName = {"CRV +1."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311085] = {
-		unidentifiedDisplayName = "CRT Lv2",
+		unidentifiedDisplayName = "CRV +2",
 		unidentifiedResourceName = "Barmund_Crt",
-		unidentifiedDescriptionName = {"CRT + 2."},
-		identifiedDisplayName = "CRT Lv2",
+		unidentifiedDescriptionName = {"CRV +2."},
+		identifiedDisplayName = "CRV +2",
 		identifiedResourceName = "Barmund_Crt",
-		identifiedDescriptionName = {"CRT + 2."},
+		identifiedDescriptionName = {"CRV +2."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311086] = {
-		unidentifiedDisplayName = "CON Lv1",
+		unidentifiedDisplayName = "CON +1",
 		unidentifiedResourceName = "Barmund_Con",
-		unidentifiedDescriptionName = {"CON + 1."},
-		identifiedDisplayName = "CON Lv1",
+		unidentifiedDescriptionName = {"CON +1."},
+		identifiedDisplayName = "CON +1",
 		identifiedResourceName = "Barmund_Con",
-		identifiedDescriptionName = {"CON + 1."},
+		identifiedDescriptionName = {"CON +1."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311087] = {
-		unidentifiedDisplayName = "CON Lv2",
+		unidentifiedDisplayName = "CON +2",
 		unidentifiedResourceName = "Barmund_Con",
-		unidentifiedDescriptionName = {"CON + 2."},
-		identifiedDisplayName = "CON Lv2",
+		unidentifiedDescriptionName = {"CON +2."},
+		identifiedDisplayName = "CON +2",
 		identifiedResourceName = "Barmund_Con",
-		identifiedDescriptionName = {"CON + 2."},
+		identifiedDescriptionName = {"CON +2."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311088] = {
-		unidentifiedDisplayName = "C.RATE Lv1",
+		unidentifiedDisplayName = "T.CRÍT +1",
 		unidentifiedResourceName = "체력의니브",
 		unidentifiedDescriptionName = {
-			"C.RATE + 1."
+			"T.CRÍT +1."
 		},
-		identifiedDisplayName = "C.RATE Lv1",
+		identifiedDisplayName = "T.CRÍT +1",
 		identifiedResourceName = "체력의니브",
 		identifiedDescriptionName = {
-			"C.RATE + 1."
+			"T.CRÍT +1."
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311089] = {
-		unidentifiedDisplayName = "C.RATE Lv2",
+		unidentifiedDisplayName = "T.CRÍT +2",
 		unidentifiedResourceName = "체력의니브",
 		unidentifiedDescriptionName = {
-			"C.RATE + 2."
+			"T.CRÍT +2."
 		},
-		identifiedDisplayName = "C.RATE Lv2",
+		identifiedDisplayName = "T.CRÍT +2",
 		identifiedResourceName = "체력의니브",
 		identifiedDescriptionName = {
-			"C.RATE + 2."
+			"T.CRÍT +2."
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311090] = {
-		unidentifiedDisplayName = "H.PLUS Lv1",
+		unidentifiedDisplayName = "C.Mais +1",
 		unidentifiedResourceName = "민첩의니브",
-		unidentifiedDescriptionName = {
-			"H.PLUS + 1."
-		},
-		identifiedDisplayName = "H.PLUS Lv1",
+		unidentifiedDescriptionName = {"C.Mais +1."},
+		identifiedDisplayName = "C.Mais +1",
 		identifiedResourceName = "민첩의니브",
-		identifiedDescriptionName = {
-			"H.PLUS + 1."
-		},
+		identifiedDescriptionName = {"C.Mais +1."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311091] = {
-		unidentifiedDisplayName = "H.PLUS Lv2",
+		unidentifiedDisplayName = "C.Mais +2",
 		unidentifiedResourceName = "민첩의니브",
-		unidentifiedDescriptionName = {
-			"H.PLUS + 2."
-		},
-		identifiedDisplayName = "H.PLUS Lv2",
+		unidentifiedDescriptionName = {"C.Mais +2."},
+		identifiedDisplayName = "C.Mais +2",
 		identifiedResourceName = "민첩의니브",
-		identifiedDescriptionName = {
-			"H.PLUS + 2."
-		},
+		identifiedDescriptionName = {"C.Mais +2."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311379] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Vigília Noturna",
+		unidentifiedDisplayName = "Maquinário - Vigília",
 		unidentifiedResourceName = "Gear_NW",
 		unidentifiedDescriptionName = {
-			"O dano de Vigília Noturna aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Vigília Noturna aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Vigília Noturna aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Vigília Noturna aumenta adicionalmente em 6%."
+			"^0000FFDano de [Vigília Noturna] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Vigília Noturna] +3%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Vigília Noturna] +4%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Vigília Noturna] +6%.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Vigília Noturna",
+		identifiedDisplayName = "Maquinário - Vigília",
 		identifiedResourceName = "Gear_NW",
 		identifiedDescriptionName = {
-			"O dano de Vigília Noturna aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Vigília Noturna aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Vigília Noturna aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Vigília Noturna aumenta adicionalmente em 6%."
+			"^0000FFDano de [Vigília Noturna] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Vigília Noturna] +3%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Vigília Noturna] +4%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Vigília Noturna] +6%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311380] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Artilharia Pesada",
+		unidentifiedDisplayName = "Maquinário - Artilharia",
 		unidentifiedResourceName = "Gear_NW",
 		unidentifiedDescriptionName = {
-			"O dano de Artilharia Pesada aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Artilharia Pesada aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Artilharia Pesada aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Artilharia Pesada aumenta adicionalmente em 6%."
+			"^0000FFDano de [Artilharia Pesada] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Artilharia Pesada] +3%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Artilharia Pesada] +4%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Artilharia Pesada] +6%.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Artilharia Pesada",
+		identifiedDisplayName = "Maquinário - Artilharia",
 		identifiedResourceName = "Gear_NW",
 		identifiedDescriptionName = {
-			"O dano de Artilharia Pesada aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Artilharia Pesada aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Artilharia Pesada aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Artilharia Pesada aumenta adicionalmente em 6%."
+			"^0000FFDano de [Artilharia Pesada] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Artilharia Pesada] +3%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Artilharia Pesada] +4%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Artilharia Pesada] +6%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311381] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Tiroteio",
+		unidentifiedDisplayName = "Maquinário - Supressão",
 		unidentifiedResourceName = "Gear_NW",
 		unidentifiedDescriptionName = {
-			"O dano de Tiroteio aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Tiroteio aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Tiroteio aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Tiroteio aumenta adicionalmente em 6%."
+			"^0000FFDano de [Fogo de Supressão] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Fogo de Supressão] +3%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Fogo de Supressão] +4%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Fogo de Supressão] +6%.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Tiroteio",
+		identifiedDisplayName = "Maquinário - Supressão",
 		identifiedResourceName = "Gear_NW",
 		identifiedDescriptionName = {
-			"O dano de Tiroteio aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Tiroteio aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Tiroteio aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Tiroteio aumenta adicionalmente em 6%."
+			"^0000FFDano de [Fogo de Supressão] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Fogo de Supressão] +3%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Fogo de Supressão] +4%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Fogo de Supressão] +6%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[311382] = {
-		unidentifiedDisplayName = "Dispositivo de Ajuste Shuriken Huuma-Domínio",
+		unidentifiedDisplayName = "Maquinário - Huuma",
 		unidentifiedResourceName = "Gear_SS",
 		unidentifiedDescriptionName = {
-			"O dano de Shuriken Huuma-Domínio aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Shuriken Huuma-Domínio aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Shuriken Huuma-Domínio aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Shuriken Huuma-Domínio aumenta adicionalmente em 6%."
+			"^0000FFDano de [Huuma Aderente] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Huuma Aderente] +3%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Huuma Aderente] +4%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Huuma Aderente] +6%.^000000"
 		},
-		identifiedDisplayName = "Dispositivo de Ajuste Shuriken Huuma-Domínio",
+		identifiedDisplayName = "Maquinário - Huuma",
 		identifiedResourceName = "Gear_SS",
 		identifiedDescriptionName = {
-			"O dano de Shuriken Huuma-Domínio aumenta em 5%.",
-			"^CC3D3D[Opções adicionais por grau da arma]^000000",
-			"[Grau D] ou superior: o dano de Shuriken Huuma-Domínio aumenta adicionalmente em 3%.",
-			"[Grau C] ou superior: aumenta em 10% o dano físico causado a inimigos de todos os tamanhos.",
-			"[Grau B] ou superior: o dano de Shuriken Huuma-Domínio aumenta adicionalmente em 4%.",
-			"[Grau A] ou superior: o dano de Shuriken Huuma-Domínio aumenta adicionalmente em 6%."
+			"^0000FFDano de [Huuma Aderente] +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Huuma Aderente] +3%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano de [Huuma Aderente] +4%.^000000",
+			"Grau A ou mais:",
+			"^0000FFDano de [Huuma Aderente] +6%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -332819,67 +335482,67 @@ tbl = {
 		costume = false
 	},
 	[312189] = {
-		unidentifiedDisplayName = "POW+3",
+		unidentifiedDisplayName = "POD +3",
 		unidentifiedResourceName = "Wolf_Orb_Str_1",
-		unidentifiedDescriptionName = {"POW + 3."},
-		identifiedDisplayName = "POW+3",
+		unidentifiedDescriptionName = {"POD +3."},
+		identifiedDisplayName = "POD +3",
 		identifiedResourceName = "Wolf_Orb_Str_1",
-		identifiedDescriptionName = {"POW + 3."},
+		identifiedDescriptionName = {"POD +3."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[312190] = {
-		unidentifiedDisplayName = "STA+3",
+		unidentifiedDisplayName = "STA +3",
 		unidentifiedResourceName = "Wolf_Orb_Agi_1",
-		unidentifiedDescriptionName = {"STA + 3."},
-		identifiedDisplayName = "STA+3",
+		unidentifiedDescriptionName = {"STA +3."},
+		identifiedDisplayName = "STA +3",
 		identifiedResourceName = "Wolf_Orb_Agi_1",
-		identifiedDescriptionName = {"STA + 3."},
+		identifiedDescriptionName = {"STA +3."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[312191] = {
-		unidentifiedDisplayName = "WIS+3",
+		unidentifiedDisplayName = "SAB +3",
 		unidentifiedResourceName = "Wolf_Orb_Vit_1",
-		unidentifiedDescriptionName = {"WIS + 3."},
-		identifiedDisplayName = "WIS+3",
+		unidentifiedDescriptionName = {"SAB +3."},
+		identifiedDisplayName = "SAB +3",
 		identifiedResourceName = "Wolf_Orb_Vit_1",
-		identifiedDescriptionName = {"WIS + 3."},
+		identifiedDescriptionName = {"SAB +3."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[312192] = {
-		unidentifiedDisplayName = "SPL+3",
+		unidentifiedDisplayName = "FEI +3",
 		unidentifiedResourceName = "Wolf_Orb_Int_1",
-		unidentifiedDescriptionName = {"SPL + 3."},
-		identifiedDisplayName = "SPL+3",
+		unidentifiedDescriptionName = {"FEI +3."},
+		identifiedDisplayName = "FEI +3",
 		identifiedResourceName = "Wolf_Orb_Int_1",
-		identifiedDescriptionName = {"SPL + 3."},
+		identifiedDescriptionName = {"FEI +3."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[312193] = {
-		unidentifiedDisplayName = "CON+3",
+		unidentifiedDisplayName = "CON +3",
 		unidentifiedResourceName = "Wolf_Orb_Dex_1",
-		unidentifiedDescriptionName = {"CON + 3."},
-		identifiedDisplayName = "CON+3",
+		unidentifiedDescriptionName = {"CON +3."},
+		identifiedDisplayName = "CON +3",
 		identifiedResourceName = "Wolf_Orb_Dex_1",
-		identifiedDescriptionName = {"CON + 3."},
+		identifiedDescriptionName = {"CON +3."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[312194] = {
-		unidentifiedDisplayName = "CRT+3",
+		unidentifiedDisplayName = "CRV +3",
 		unidentifiedResourceName = "Wolf_Orb_luk_1",
-		unidentifiedDescriptionName = {"CRT + 3."},
-		identifiedDisplayName = "CRT+3",
+		unidentifiedDescriptionName = {"CRV +3."},
+		identifiedDisplayName = "CRV +3",
 		identifiedResourceName = "Wolf_Orb_luk_1",
-		identifiedDescriptionName = {"CRT + 3."},
+		identifiedDescriptionName = {"CRV +3."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -334662,7 +337325,7 @@ tbl = {
 	},
 	[400097] = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
-		unidentifiedResourceName = "햇",
+		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Pode ser identificado com uma [Lupa]."
 		},
@@ -334681,7 +337344,7 @@ tbl = {
 			"^FA4E09[Sobrepeliz das Marés]^000000",
 			"^FA4E09[Coturnos das Marés]^000000",
 			"^0000FFDano físico e mágico +5% adicional.^000000",
-			"^0000FFResistência as propriedades Vento e Água +25%.^000000",
+			"^0000FFResistência às propriedades Vento e Água +25%.^000000",
 			"^0000FFEXP ao derrotar monstros das raças Peixe e Humanoide +20%.^000000",
 			"^0000FFDano físico e mágico contra as raças Peixe e Humanoide +50%.^000000",
 			"-------------------------",
@@ -334694,7 +337357,7 @@ tbl = {
 			"Classes: ^777777Todas^000000"
 		},
 		slotCount = 1,
-		ClassNum = 0,
+		ClassNum = 870,
 		costume = false
 	},
 	[400098] = {
@@ -334806,6 +337469,63 @@ tbl = {
 		identifiedDescriptionName = {""},
 		slotCount = 1,
 		ClassNum = 2016,
+		costume = false
+	},
+	[400109] = {
+		unidentifiedDisplayName = "Equip. para Cabeça",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Boneco de Boitatá",
+		identifiedResourceName = "보이타타모자",
+		identifiedDescriptionName = {
+			"Chapéu feito em homenagem ao terror de Brasilis, a cobra de fogo aprisionada nas profundezas da cachoeira e protetor das florestas.",
+			"-------------------------",
+			"^0000ffPOD e CRV +5.^000000",
+			"^0000ffPrecisão ^ff0000-25.^000000",
+			"^0000ffVelocidade de ataque +10%.^000000",
+			"-------------------------",
+			"A cada 2 refinos:",
+			"^0000ffATQ +20. DEF +10.^000000",
+			"-------------------------",
+			"Refino +7 ou mais:",
+			"^0000ffDano físico a distância +15%.^000000",
+			"^0000ffDano físico corpo a corpo +15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffATQ +30.^000000",
+			"^0000ffDano físico +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000ffP.ATQ +8.^000000",
+			"^0000ffDano crítico +25%.^000000",
+			"-------------------------",
+			"^CC3D3DGrau D ou mais:^000000",
+			"^0000ffPOD +5.^000000",
+			"^0000ffDano físico +5% adicional.^000000",
+			"^CC3D3DGrau C ou mais:^000000",
+			"^0000ffCRIT +15.^000000",
+			"^0000ffT.CRÍT +3.^000000",
+			"^CC3D3DGrau B ou mais:^000000",
+			"^0000ffConjuração fixa -0,3 segundos.^000000",
+			"^CC3D3DGrau A ou mais:^000000",
+			"A cada 3 refinos:",
+			"^0000ffT.CRÍT +1.^000000",
+			"^0000ffDano crítico +14%.^000000",
+			"-------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Boitatá]^000000",
+			"^0000ffDano físico contra oponentes de propriedade Veneno e Água +40%.^000000",
+			"-------------------------",
+			"Tipo: ^777777Equip. para Cabeça^000000",
+			"Equipa em: ^777777Topo^000000",
+			"DEF: ^77777725^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777740^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777240^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 808,
 		costume = false
 	},
 	[400110] = {
@@ -335498,32 +338218,32 @@ tbl = {
 			"Um elmo forjado a partir de fragmentos de cinzas.",
 			"--------------------------",
 			"A cada 3 refinos:",
-			"^0000ffDano mágico +4%.^000000",
+			"^0000FFDano mágico +4%.^000000",
 			"--------------------------",
 			"Refino +7 ou mais:",
-			"^0000ffConjuração variável -10%.^000000",
+			"^0000FFConjuração variável -10%.^000000",
 			"Refino +9 ou mais:",
-			"^0000ffDano mágico de todas as propriedades +10%.^000000",
+			"^0000FFDano mágico de todas as propriedades +10%.^000000",
 			"Refino +11 ou mais:",
-			"^0000ffDano mágico contra oponentes de todas as propriedades +15%.^000000",
+			"^0000FFDano mágico contra oponentes de todas as propriedades +15%.^000000",
 			"--------------------------",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09[Cajado Duplo Cinzas-AD]^000000",
-			"^0000ffDano físico contra todos os tamanhos +10%.^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Cajado Duplo Cinzas-AD]^000000",
+			"^0000FFDano mágico contra todos os tamanhos +10%.^000000",
 			"A cada 2 refinos da arma:",
-			"^0000ffDano de [Meteoro Escarlate] +10%.^000000",
+			"^0000FFDano de [Meteoro Escarlate] +10%.^000000",
 			"--------------------------",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09[Cajado de Cinzas-AD]^000000",
-			"^0000ffDano físico contra todas as raças +10%.^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Cajado de Cinzas-AD]^000000",
+			"^0000FFDano mágico contra todas as raças +10%.^000000",
 			"A cada 2 refinos da arma:",
-			"^0000ffDano de [Lanças dos Aesir] +10%.^000000",
+			"^0000FFDano de [Lanças dos Aesir] +10%.^000000",
 			"--------------------------",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09[Adaga de Cinzas-AD]^000000",
-			"^0000ffDano mágico de todas as propriedades +10%.^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Adaga de Cinzas-AD]^000000",
+			"^0000FFDano mágico de todas as propriedades +10%.^000000",
 			"A cada 2 refinos da arma:",
-			"^0000ffDano de [Onda Psíquica] +10%.^000000",
+			"^0000FFDano de [Onda Psíquica] +10%.^000000",
 			"--------------------------",
 			"Tipo: ^777777Equip. para Cabeça^000000",
 			"Equipa em: ^777777Topo^000000",
@@ -335691,6 +338411,33 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2135,
+		costume = true
+	},
+	[400160] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Festa Macarrônica",
+		identifiedResourceName = "Wave_Noodle",
+		identifiedDescriptionName = {
+			"Aproveite o verão com essa tigela de macarrão com frutos do mar sortidos!",
+			"-------------------------",
+			"[^CD3278Durante o Evento^000000]",
+			"^0000FFATQ e ATQM +30.^000000",
+			"^0000FFDano físico a distância +7%.^000000",
+			"^0000FFDano físico corpo a corpo +7%.^000000",
+			"^0000FFDano mágico de todas as propriedades +7%.^000000",
+			"-------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2138,
 		costume = true
 	},
 	[400161] = {
@@ -338212,6 +340959,57 @@ tbl = {
 		ClassNum = 2433,
 		costume = true
 	},
+	[400511] = {
+		unidentifiedDisplayName = "Equip. para Cabeça",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Coroa Scaraba",
+		identifiedResourceName = "여왕스카라바투구",
+		identifiedDescriptionName = {
+			"Carcaça da Rainha dos Scarabas. Manuks usam como amuleto de boa sorte.",
+			"-------------------------",
+			"^0000ffPOD, CON e CRV +3.^000000",
+			"-------------------------",
+			"A cada 2 refinos:",
+			"^0000ffATQ +20. CRIT +4.^000000",
+			"A cada 3 refinos:",
+			"^0000ffDano crítico +10%.^000000",
+			"-------------------------",
+			"Refino +7 ou mais:",
+			"^0000ffDano físico +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000ffPós-conjuração -10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000ffDano físico a distância +15%.^000000",
+			"^0000ffDano físico corpo a corpo +15%.^000000",
+			"Refino +12 ou mais:",
+			"^0000ffDano físico contra todas as raças +15%.^000000",
+			"Refino +13 ou mais:",
+			"^0000ffConjuração fixa -0,5 segundos.^000000",
+			"-------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Rainha Scaraba]^000000",
+			"^0000ffDano físico contra Chefes +35%.^000000",
+			"-------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Rainha Scaraba Dourada]^000000",
+			"^0000ffP.ATQ. +20.^000000",
+			"A cada refino:",
+			"^0000ffDano crítico +10%.^000000",
+			"-------------------------",
+			"Tipo: ^777777Equip. para Cabeça^000000",
+			"Equipa em: ^777777Topo^000000",
+			"DEF: ^77777720^000000 DEFM: ^7777770^000000",
+			"Peso: ^7777771^000000",
+			"Nível necessário: ^777777130^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1231,
+		costume = false
+	},
 	[400516] = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "햇",
@@ -338453,6 +341251,29 @@ tbl = {
 		ClassNum = 2426,
 		costume = true
 	},
+	[400729] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Capuz de Drops",
+		identifiedResourceName = "C_Drops_Mascot_Costume",
+		identifiedDescriptionName = {
+			"Uma fantasia gigante do monstrinho mais fofo do deserto de Sograt: o Drops! Use-a como capuz para encontrar outros fãs desse poring amarelo.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2600,
+		costume = true
+	},
 	[400730] = {
 		unidentifiedDisplayName = "Visual",
 		unidentifiedResourceName = "머리띠",
@@ -338474,6 +341295,29 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2601,
+		costume = true
+	},
+	[400739] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Boina de Marin",
+		identifiedResourceName = "Marin_Pattern_Hat",
+		identifiedDescriptionName = {
+			"Uma boina inspirada nos porings azuis, chamados de Marin. Eles habitam os montes gelados de Lutie.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Topo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2543,
 		costume = true
 	},
 	[400744] = {
@@ -338754,18 +341598,6 @@ tbl = {
 		identifiedDescriptionName = {
 			"^FF0000Efeitos serão deletados na manutenção do dia 21 de julho de 2026.^000000",
 			"Coloque o capuz e se torne o Kumamon!",
-			"--------------------------",
-			"[^CD3278Durante o Evento^000000]",
-			"^0000FFATQ e ATQM +50.^000000",
-			"^0000FFCRÍT +10.^000000",
-			"^0000FFConjuração variável -10%.^000000",
-			"^0000FFEXP recebida de monstros +5%.^000000",
-			"^0000FFDano físico e mágico contra oponentes de todos os tamanhos +10%.^000000",
-			"^0000FFDano físico e mágico contra oponentes de todas as propriedades +10%.^000000",
-			"--------------------------",
-			"^FA4E09Conjunto^000000",
-			"^FA4E09[Visual] Mochila de Kumamon^000000",
-			"^0000FFEXP recebida de monstros +5% adicional.^000000",
 			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Topo^000000",
@@ -339885,7 +342717,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas, exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2060,
@@ -340105,15 +342937,6 @@ tbl = {
 		identifiedResourceName = "C_Pet_Popcorn_Box",
 		identifiedDescriptionName = {
 			"Pipoquinho é o seu amiguinho! Ele vai te acompanhar em todas as suas aventuras e ainda te apresentar outros coleguinhas como o Dolínho e a E-girl Migalu.",
-			"--------------------------",
-			"[^CD3278Durante o Evento^000000]",
-			"^0000FFATQ e ATQM +30.^000000",
-			"^0000FFEXP ao derrotar monstros +20%.^000000",
-			"^0000FFDano físico e mágico contra Vulcânicos +50%.^000000",
-			"^0000FFRegeneração de HP da Pipoca Gourmet e Pipoca +200%.^000000",
-			"--------------------------",
-			"Vulcânicos afetados:",
-			"^0000FFImp Vulcânico, Estrondo Vulcânico, Picky Vulcânico, PecoPeco Vulcânico e Salamandra de Lava.^000000",
 			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Meio^000000",
@@ -340392,7 +343215,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível Necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas, exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2201,
@@ -340856,7 +343679,7 @@ tbl = {
 		identifiedDisplayName = "Caveiras Místicas",
 		identifiedResourceName = "C_Spinning_Skulls",
 		identifiedDescriptionName = {
-			"Quem foi que deixou as caveiras fora da jaula?! É assustador encontrar 3 caveiras com fogo verde no meio da noite! Ainda bem que o mestre Necromancer criou uma magia que controla elas direitinho, assim você pode desfilar sem se preocupar.",
+			"Quem foi que deixou as caveiras fora da jaula?! É assustador encontrar 3 caveiras com fogo verde no meio da noite! Ainda bem que o mestre Pazzolino criou uma magia que controla elas direitinho, assim você pode desfilar sem se preocupar.",
 			"-------------------------",
 			"Tipo: ^777777Visual ^000000",
 			"Equipa em: ^777777Meio^000000",
@@ -340990,7 +343813,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas, exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2336,
@@ -341377,7 +344200,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas, exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2437,
@@ -341600,7 +344423,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas, exceto Invocadores^000000"
+			"Classes: ^777777Todas, exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2528,
@@ -341733,7 +344556,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas, exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2685,
@@ -341775,7 +344598,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2708,
@@ -341840,7 +344663,7 @@ tbl = {
 			"Equipa em: ^777777Meio^000000",
 			"Peso: ^7777770^000000",
 			"Nível necessário: ^7777771^000000",
-			"Classes: ^777777Todas^000000"
+			"Classes: ^777777Todas exceto Invocadores e evoluções^000000"
 		},
 		slotCount = 0,
 		ClassNum = 2795,
@@ -342103,6 +344926,34 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 815,
+		costume = false
+	},
+	[420005] = {
+		unidentifiedDisplayName = "Equip. para Cabeça",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+		},
+		identifiedDisplayName = "Sensação Amorosa",
+		identifiedResourceName = "Love_Feeling",
+		identifiedDescriptionName = {
+			"Uma sensação envolvente de que o amor está no ar.",
+			"-------------------------",
+			"Ao realizar ataques mágicos:",
+			"^0000ff1% de chance de ativar um [efeito] por 10 segundos.^000000",
+			"-------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffRegenera 400 de HP e 80 de SP por segundo.^000000",
+			"-------------------------",
+			"Tipo: ^777777Equip. para Cabeça^000000",
+			"Equipa em: ^777777Baixo^000000",
+			"DEF: ^7777770^000000 DEFM: ^7777770^000000",
+			"Peso: ^77777730^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1717,
 		costume = false
 	},
 	[420006] = {
@@ -345286,6 +348137,52 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 861,
 		costume = false
+	},
+	[420774] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Sopra-Poporing de Sabão",
+		identifiedResourceName = "Poporing_Soap_Pipe",
+		identifiedDescriptionName = {
+			"Um soprador de bolhas de sabão que se assemelham aos poporings! Toda criança e adulto adora o efeito que ele faz!",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Baixo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2753,
+		costume = true
+	},
+	[420775] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Peruca de Petal",
+		identifiedResourceName = "C_Petal_Twin",
+		identifiedDescriptionName = {
+			"Cabelos macios semelhantes ao pelo de Petal, o esquilinho que vive nos campos floridos de Eclage arremessando suas nozes nos aventureiros incautos.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Baixo^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2820,
+		costume = true
 	},
 	[420820] = {
 		unidentifiedDisplayName = "Equip. para Cabeça",
@@ -350760,17 +353657,17 @@ tbl = {
 		identifiedDescriptionName = {
 			"Uma réplica da vestimenta usada por seguidores do Deus das Águas, mas com poderes especiais contra as raças marinhas.",
 			"-------------------------",
-			"^0000ffHP máx. +10%.^000000",
-			"^0000ffSP máx. +5%.^000000",
+			"^0000FFHP máx. +10%.^000000",
+			"^0000FFSP máx. +5%.^000000",
 			"Refino +9 ou mais:",
-			"^0000ffHP máx. +5% adicional.^000000",
-			"^0000ffSP máx. +2% adicional.^000000",
+			"^0000FFHP máx. +5% adicional.^000000",
+			"^0000FFSP máx. +2% adicional.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Protetor das Marés]^000000",
-			"^0000ffResistência as raças Humanoide e Peixe +10%.^000000",
+			"^0000FFResistência às raças Humanoide e Peixe +10%.^000000",
 			"A cada refino da armadura:",
-			"^0000ffResistência as raças Humanoide e Peixe +1%.^000000",
+			"^0000FFResistência às raças Humanoide e Peixe +1%.^000000",
 			"-------------------------",
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^77777780^000000 DEFM: ^7777770^000000",
@@ -350841,12 +353738,12 @@ tbl = {
 			"Refino +9 ou mais:",
 			"^0000FFVelocidade de ataque +7%.^000000",
 			"Refino +11 ou mais:",
-			"^0000FFDano físico à distância +10%.^000000",
+			"^0000FFDano físico a distância +10%.^000000",
 			"--------------------------",
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^777777135^000000 DEFM: ^7777770^000000",
 			"Peso: ^777777150^000000",
-			"Nível do Equip.: ^7777772^000000",
+			"Nível do equip.: ^7777772^000000",
 			"Nível necessário: ^777777240^000000",
 			"Classes: ^777777Todas^000000"
 		},
@@ -350863,7 +353760,7 @@ tbl = {
 		identifiedDisplayName = "Armadura Astral",
 		identifiedResourceName = "Vague_Star_Armor",
 		identifiedDescriptionName = {
-			"Vestimenta encantada com o poder de uma estrela anã.",
+			"Armadura encantada com o poder de uma estrela anã.",
 			"--------------------------",
 			"^0000FFATQ +125.^000000",
 			"A cada 2 refinos:",
@@ -350876,7 +353773,7 @@ tbl = {
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^777777175^000000 DEFM: ^7777770^000000",
 			"Peso: ^777777250^000000",
-			"Nível do Equip.: ^7777772^000000",
+			"Nível do equip.: ^7777772^000000",
 			"Nível necessário: ^777777240^000000",
 			"Classes: ^777777Todas^000000"
 		},
@@ -350893,7 +353790,7 @@ tbl = {
 		identifiedDisplayName = "Armadura Nebulosa POD",
 		identifiedResourceName = "Star_Armor_Of_Pow",
 		identifiedDescriptionName = {
-			"Vestimenta encantada com o poder de uma nuvem estelar.",
+			"Armadura encantada com o poder de uma nuvem estelar.",
 			"--------------------------",
 			"^0000FFPOD +1.",
 			"ATQ +125.^000000",
@@ -350904,21 +353801,21 @@ tbl = {
 			"Refino +11 ou mais:",
 			"^0000FFDano físico corpo a corpo +20%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau D ou mais:^000000",
+			"^CC3D3DGrau D ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFATQ +2.",
-			"Dano físico +1%. ^000000",
+			"Dano físico +1%.^000000",
 			"A cada 3 refinos:",
 			"^0000FFDano físico corpo a corpo +1%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau C ou mais:^000000",
+			"^CC3D3DGrau C ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFATQ +3.",
 			"Dano físico +1%.^000000",
 			"A cada 3 refinos:",
 			"^0000FFDano físico corpo a corpo +1%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau B ou mais:^000000",
+			"^CC3D3DGrau B ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFDano físico +2%.^000000",
 			"A cada 3 refinos:",
@@ -350926,7 +353823,7 @@ tbl = {
 			"A cada 4 refinos:",
 			"^0000FFP.ATQ +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrau A ou mais:^000000",
+			"^CC3D3DGrau A ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFDano físico +3%.^000000",
 			"A cada 3 refinos:",
@@ -350937,7 +353834,7 @@ tbl = {
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^777777175^000000 DEFM: ^7777770^000000",
 			"Peso: ^777777250^000000",
-			"Nível do Equip.: ^7777772^000000",
+			"Nível do equip.: ^7777772^000000",
 			"Nível necessário: ^777777240^000000",
 			"Classes: ^777777Todas^000000"
 		},
@@ -350954,38 +353851,38 @@ tbl = {
 		identifiedDisplayName = "Armadura Nebulosa STA",
 		identifiedResourceName = "Star_Armor_Of_Sta",
 		identifiedDescriptionName = {
-			"Vestimenta encantada com o poder de uma nuvem estelar.",
+			"Armadura encantada com o poder de uma nuvem estelar.",
 			"--------------------------",
 			"^0000FFSTA +1.",
 			"HP máx. +10%.^000000",
 			"A cada 2 refinos:",
 			"^0000FFDEF +15.^000000",
 			"Refino +9 ou mais:",
-			"^0000FFCura Recebida +10%.^000000",
+			"^0000FFCura recebida +10%.^000000",
 			"Refino +11 ou mais:",
 			"^0000FFHP máx. +15%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau D ou mais:^000000",
+			"^CC3D3DGrau D ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFDEF +5.",
-			"Cura Recebida +2%.^000000",
+			"Cura recebida +2%.^000000",
 			"A cada 4 refinos:",
 			"^0000FFTEN +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrau C ou mais:^000000",
+			"^CC3D3DGrau C ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFDEF +7.",
-			"Cura Recebida +3%.^000000",
+			"Cura recebida +3%.^000000",
 			"A cada 4 refinos:",
 			"^0000FFTEN +2.^000000",
 			"--------------------------",
-			"^CC3D3DGrau B ou mais:^000000",
+			"^CC3D3DGrau B ou mais^000000",
 			"A cada 3 refinos:",
 			"^0000FFHP máx. +1%.^000000",
 			"A cada 4 refinos:",
 			"^0000FFTEN +3.^000000",
 			"--------------------------",
-			"^CC3D3DGrau A ou mais:^000000",
+			"^CC3D3DGrau A ou mais^000000",
 			"A cada 3 refinos:",
 			"^0000FFHP máx. +2%.^000000",
 			"A cada 4 refinos:",
@@ -351020,40 +353917,40 @@ tbl = {
 			"Refino +9 ou mais:",
 			"^0000FFVelocidade de ataque +10%.^000000",
 			"Refino +11 ou mais:",
-			"^0000FFDano físico à distância +20%.^000000",
+			"^0000FFDano físico a distância +20%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau D ou mais:^000000",
+			"^CC3D3DGrau D ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFATQ +2.",
 			"Dano físico +1%.",
 			"Velocidade de ataque +1%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau C ou mais:^000000",
+			"^CC3D3DGrau C ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFATQ +3.",
 			"Dano físico +2%.",
 			"Velocidade de ataque +1%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau B ou mais:^000000",
+			"^CC3D3DGrau B ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFVelocidade de ataque +2%.^000000",
 			"A cada 3 refinos:",
-			"^0000FFDano físico à distância +1%.^000000",
+			"^0000FFDano físico a distância +1%.^000000",
 			"A cada 4 refinos:",
 			"^0000FFP.ATQ +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrau A ou mais:^000000",
+			"^CC3D3DGrau A ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFVelocidade de ataque +2%.^000000",
 			"A cada 3 refinos:",
-			"^0000FFDano físico à distância +2%.^000000",
+			"^0000FFDano físico a distância +2%.^000000",
 			"A cada 4 refinos:",
 			"^0000FFP.ATQ +2.^000000",
 			"--------------------------",
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^777777135^000000 DEFM: ^7777770^000000",
 			"Peso: ^777777150^000000",
-			"Nível do Equip.: ^7777772^000000",
+			"Nível do equip.: ^7777772^000000",
 			"Nível necessário: ^777777240^000000",
 			"Classes: ^777777Todas^000000"
 		},
@@ -351077,41 +353974,42 @@ tbl = {
 			"A cada 2 refinos:",
 			"^0000FFATQ +10.^000000",
 			"Refino +9 ou mais:",
-			"^0000FFCRIT +5.^000000",
+			"^0000FFCRÍT +5.^000000",
 			"Refino +11 ou mais:",
 			"^0000FFDano crítico +20%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau D ou mais:^000000",
+			"^CC3D3DGrau D ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFATQ +1.^000000",
 			"A cada 3 refinos:",
-			"^0000FFCRIT +1.",
-			"Dano crítico +2%. ^000000",
+			"^0000FFCRÍT +1.",
+			"Dano crítico +2%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau C ou mais:^000000",
+			"^CC3D3DGrau C ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFATQ +2.^000000",
 			"A cada 3 refinos:",
-			"^0000FFCRIT +2.",
+			"^0000FFCRÍT +2.",
 			"Dano crítico +3%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau B ou mais:^000000",
+			"^CC3D3DGrau B ou mais^000000",
 			"A cada 3 refinos:",
 			"^0000FFDano crítico +5%.^000000",
 			"A cada 4 refinos:",
 			"^0000FFT.CRÍT +1.",
 			"P.ATQ +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrau A ou mais:^000000",
+			"^CC3D3DGrau A ou mais^000000",
 			"A cada 3 refinos:",
 			"^0000FFDano crítico +7%.^000000",
 			"A cada 4 refinos:",
-			"^0000FFT.CRÍT +1. P.ATQ +2.^000000",
+			"^0000FFT.CRÍT +1.",
+			"P.ATQ +2.^000000",
 			"--------------------------",
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^777777135^000000 DEFM: ^7777770^000000",
 			"Peso: ^777777150^000000",
-			"Nível do Equip.: ^7777772^000000",
+			"Nível do equip.: ^7777772^000000",
 			"Nível necessário: ^777777240^000000",
 			"Classes: ^777777Todas^000000"
 		},
@@ -351139,21 +354037,21 @@ tbl = {
 			"Refino +11 ou mais:",
 			"^0000FFDano mágico de todas as propriedades +15%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau D ou mais:^000000",
+			"^CC3D3DGrau D ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFATQM +2.",
 			"Dano mágico +1%.^000000",
 			"A cada 3 refinos:",
 			"^0000FFDano mágico de todas as propriedades +3%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau C ou mais:^000000",
+			"^CC3D3DGrau C ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFATQM +3.",
 			"Dano mágico +1%.^000000",
 			"A cada 3 refinos:",
 			"^0000FFDano mágico de todas as propriedades +3%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau B ou mais:^000000",
+			"^CC3D3DGrau B ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFDano mágico +2%.^000000",
 			"A cada 3 refinos:",
@@ -351161,7 +354059,7 @@ tbl = {
 			"A cada 4 refinos:",
 			"^0000FFS.ATQM +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrau A ou mais:^000000",
+			"^CC3D3DGrau A ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFDano mágico +3%.^000000",
 			"A cada 3 refinos:",
@@ -351172,7 +354070,7 @@ tbl = {
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^777777105^000000 DEFM: ^7777770^000000",
 			"Peso: ^77777750^000000",
-			"Nível do Equip.: ^7777772^000000",
+			"Nível do equip.: ^7777772^000000",
 			"Nível necessário: ^777777240^000000",
 			"Classes: ^777777Todas^000000"
 		},
@@ -351201,26 +354099,29 @@ tbl = {
 			"Refino +11 ou mais:",
 			"^0000FFConjuração variável -10%.^000000",
 			"--------------------------",
-			"^CC3D3DGrau D ou mais:^000000",
+			"^CC3D3DGrau D ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFRegen. natural de SP +2%.",
 			"Efetividade de cura +1%.^000000",
 			"A cada 3 refinos:",
 			"^0000FFTENM +1.^000000",
-			"^CC3D3DGrau C ou mais:^000000",
+			"--------------------------",
+			"^CC3D3DGrau C ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFRegen. natural de SP +3%.",
 			"Efetividade de cura +2%.^000000",
 			"A cada 3 refinos:",
 			"^0000FFTENM +2.^000000",
-			"^CC3D3DGrau B ou mais:^000000",
+			"--------------------------",
+			"^CC3D3DGrau B ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFSP máx. +1%.^000000",
 			"A cada 3 refinos:",
 			"^0000FFTENM +2.^000000",
 			"A cada 4 refinos:",
 			"^0000FFC.Mais +2.^000000",
-			"^CC3D3DGrau A ou mais:^000000",
+			"--------------------------",
+			"^CC3D3DGrau A ou mais^000000",
 			"A cada 2 refinos:",
 			"^0000FFSP máx. +2%.^000000",
 			"A cada 3 refinos:",
@@ -351231,7 +354132,7 @@ tbl = {
 			"Tipo: ^777777Armadura^000000",
 			"DEF: ^777777105^000000 DEFM: ^7777770^000000",
 			"Peso: ^77777750^000000",
-			"Nível do Equip.: ^7777772^000000",
+			"Nível do equip.: ^7777772^000000",
 			"Nível necessário: ^777777240^000000",
 			"Classes: ^777777Todas^000000"
 		},
@@ -351928,27 +354829,36 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Aegis",
+		identifiedDisplayName = "Pænitentia Aegis",
 		identifiedResourceName = "Poenetentia_Aegis",
 		identifiedDescriptionName = {
-			"Escudo marcado pelo arrependimento de não ter protegido.",
-			"^ffffff_^000000",
-			"MHP + 5%, MSP + 5%.",
-			"A cada 3 refinos, DEF + 50, DEFM + 10.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Arremessar Escudo(Shield Shooting) + 5%.",
-			"[Grau C] Dano de Arremessar Escudo(Shield Shooting) + 8% adicional.",
-			"[Grau B] Dano de Arremessar Escudo(Shield Shooting) + 15% adicional. POW, SPL + 1.",
-			"^ffffff_^000000",
-			"Ao equipar com [Penitentia Gladius] ou [Penitentia Asta],",
-			"aumenta a velocidade de ataque (reduz o atraso após ataque em 10%) e reduz em 10% o dano recebido de inimigos de todas as propriedades.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Escudo^000000  Defesa : ^777777120^000000",
-			"Peso : ^777777150^000000",
-			"Nível da armadura : ^7777772^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Guarda Imperial^000000"
+			"Escudo que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFHP e SP máx. +5%.^000000",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFDEF +50. DEFM +10.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD e FEI +1.^000000",
+			"^0000FFDano de [Arremessar Escudo] +15% adicional.^000000",
+			"--------------------------",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09Pænitentia Hasta^000000 ou",
+			"^FA4E09Pænitentia Gladius^000000",
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"^0000FFResistência a oponentes de todas as propriedades +10%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Escudo^000000",
+			"DEF: ^777777120^000000 DEFM: ^7777770^000000",
+			"Peso: ^777777150^000000",
+			"Nível do Equip.: ^7777772^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Guardiões Imperiais e evoluções^000000"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -353023,36 +355933,36 @@ tbl = {
 		identifiedDescriptionName = {
 			"Um par de sapatos usado por um Bispo do Santuário que foi corrompido pelos sussurros malditos da Ilha Esquecida.",
 			"--------------------------",
-			"^0000ffFEI +5.^000000",
-			"^0000ffCON +3.^000000",
-			"^0000ffCusto de SP das habilidades ^ff0000+15%.^000000",
+			"^0000FFFEI +5.^000000",
+			"^0000FFCON +3.^000000",
+			"^0000FFCusto de SP das habilidades ^FF0000+15%.^000000",
 			"--------------------------",
 			"A cada 3 refinos:",
-			"^0000ffATQM +7.^000000",
+			"^0000FFATQM +7.^000000",
 			"--------------------------",
 			"Refino +7 ou mais:",
-			"^0000ffS.ATQM +3.^000000",
-			"^0000ffDano mágico +5%.^000000",
+			"^0000FFS.ATQM +3.^000000",
+			"^0000FFDano mágico +5%.^000000",
 			"Refino +9 ou mais:",
-			"^0000ffConjuração variável -10%.^000000",
+			"^0000FFConjuração variável -10%.^000000",
 			"Refino +11 ou mais:",
-			"^0000ffDano mágico contra os tamanhos Médio e Grande +15%.^000000",
+			"^0000FFDano mágico contra os tamanhos Médio e Grande +15%.^000000",
 			"--------------------------",
 			"^CC3D3DGrau D ou mais:^000000",
-			"^0000ffFEI +5 adicional.^000000",
-			"^0000ffDano mágico +5% adicional.^000000",
+			"^0000FFFEI +5 adicional.^000000",
+			"^0000FFDano mágico +5% adicional.^000000",
 			"^CC3D3DGrau C ou mais:^000000",
-			"^0000ffConjuração fixa -1 segundo.^000000",
+			"^0000FFConjuração fixa -1 segundo.^000000",
 			"^CC3D3DGrau B ou mais:^000000",
-			"^0000ffS.ATQM +7 adicional.^000000",
+			"^0000FFS.ATQM +7 adicional.^000000",
 			"^CC3D3DGrau A ou mais:^000000",
 			"A cada 2 refinos:",
-			"^0000ffFEI +8.^000000",
+			"^0000FFFEI +8.^000000",
 			"--------------------------",
-			"^fa4e09Conjunto^000000",
-			"^fa4e09[Carta Bispo Decadente]^000000",
-			"^0000ffSP máx. +25%.^000000",
-			"^0000ffDano mágico contra a propriedade Sagrado +15%.^000000",
+			"^FA4E09Conjunto^000000",
+			"^FA4E09[Carta Bispo Decadente]^000000",
+			"^0000FFSP máx. +25%.^000000",
+			"^0000FFDano mágico contra a propriedade Sagrado +15%.^000000",
 			"--------------------------",
 			"Tipo: ^777777Calçado^000000",
 			"DEF: ^77777716^000000 DEFM: ^7777770^000000",
@@ -355509,7 +358419,7 @@ tbl = {
 		identifiedDisplayName = "Katanas do Mestre Tengu",
 		identifiedResourceName = "C_Katana_TenguMaster",
 		identifiedDescriptionName = {
-			"Katanas forjadas pelo grande mestre forjador Kai Tengu. Dizem que se você for merecedor, as katanas iram cuidar de você! E não se assuste: a máscara vermelha com cara de brava é para manter os maus espíritos longe e trazer boa sorte ao seu mestre!",
+			"Katanas forjadas pelo grande mestre forjador Goblin Tengu. Dizem que se você for merecedor, as katanas irão cuidar de você! E não se assuste: a máscara vermelha com cara de brava é para manter os maus espíritos longe e trazer boa sorte ao seu mestre!",
 			"-------------------------",
 			"Tipo: ^777777Visual ^000000",
 			"Equipa em: ^777777Capa^000000",
@@ -357038,10 +359948,6 @@ tbl = {
 			"--------------------------",
 			"^008080Exibe o visual nas costas do personagem.^000000",
 			"--------------------------",
-			"[^CD3278Durante o Evento^000000]",
-			"^0000FFTaxa de DROP +5%.^000000",
-			"^0000FFEXP recebida de monstros +5%.^000000",
-			"--------------------------",
 			"Tipo: ^777777Visual^000000",
 			"Equipa em: ^777777Capa^000000",
 			"Peso: ^7777770^000000",
@@ -357360,6 +360266,72 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 79,
 		costume = false
+	},
+	[480801] = {
+		unidentifiedDisplayName = "Item para vestir",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Não pode ser identificado. É possível identificá-lo usando o [Lupa]."
+		},
+		identifiedDisplayName = "Bolsa de Mochila Haty Bebe (Traje)",
+		identifiedResourceName = "C_Garmbebe_Bag",
+		identifiedDescriptionName = {
+			"Uma mochila feita tendo como referência o adorável Haty Bebe.",
+			"Para aventureiros que gostam do Haty Bebe, é um item essencial e fantástico.",
+			"Categoria : ^777777Equipamento de traje^000000 Defesa : ^7777770^000000",
+			"Local : ^777777Item para vestir^000000 Peso : ^7777770^000000",
+			"Nível exigido : ^7777771^000000",
+			"Equipamento : ^777777Todas as classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 306,
+		costume = true
+	},
+	[480802] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Tao Gunka Flutuante",
+		identifiedResourceName = "C_Joyful_Taogunka",
+		identifiedDescriptionName = {
+			"As cabeças flutuantes que acompanham Tao Gunka na sua vida em Luanda. Dizem que cada cabeça representa um trigêmeo que deu nome às cavernas de Comodo.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2827,
+		costume = true
+	},
+	[480807] = {
+		unidentifiedDisplayName = "Visual",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "[Visual] Escudo Petulante",
+		identifiedResourceName = "C_Cynic_Guard",
+		identifiedDescriptionName = {
+			"Esse é o famoso escudo usado pelo Cavaleiro da Tempestade. Ninguém sabe de quem é o rosto estampado no escudo, mas dizem que o Cavaleiro usa para provocar e zombar de seus oponentes.",
+			"--------------------------",
+			"^0000ffTrocável pela caixa 24 na^000000 <NAVI>[Loja Fashion]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Tipo: ^777777Visual^000000",
+			"Equipa em: ^777777Capa^000000",
+			"Peso: ^7777770^000000",
+			"Nível necessário: ^7777771^000000",
+			"Classes: ^777777Todas^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2828,
+		costume = true
 	},
 	[480812] = {
 		unidentifiedDisplayName = "Capa",
@@ -359039,17 +362011,17 @@ tbl = {
 		identifiedDisplayName = "Anel de Preamar",
 		identifiedResourceName = "EgirRing",
 		identifiedDescriptionName = {
-			"Equipamento mergulhado nas águas em baixa-maré de Lasagna.",
+			"Equipamento mergulhado nas águas da maré alta de Lasagna.",
 			"-------------------------",
-			"^0000ffATQM +10.^000000",
-			"^0000ffDano mágico de todas as propriedades +2%.^000000",
+			"^0000FFATQM +10.^000000",
+			"^0000FFDano mágico de todas as propriedades +2%.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Cota de Preamar]^000000",
 			"^FA4E09[Protetor de Preamar]^000000",
 			"^FA4E09[Coturnos de Preamar]^000000",
 			"^FA4E09[Sobrepeliz de Preamar]^000000",
-			"^0000ffDano mágico de todas as propriedades +2% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +2% adicional.^000000",
 			"-------------------------",
 			"Tipo: ^777777Aces. Direito^000000",
 			"DEF: ^7777775^000000 DEFM: ^7777770^000000",
@@ -359070,19 +362042,19 @@ tbl = {
 		identifiedDisplayName = "Pingente de Preamar",
 		identifiedResourceName = "스피카의목걸이",
 		identifiedDescriptionName = {
-			"Equipamento mergulhado nas águas em baixa-maré de Lasagna.",
+			"Equipamento mergulhado nas águas da maré alta de Lasagna.",
 			"-------------------------",
-			"^0000ffATQ +10.^000000",
-			"^0000ffDano físico a distância +2%.^000000",
-			"^0000ffDano físico corpo a corpo +2%.^000000",
+			"^0000FFATQ +10.^000000",
+			"^0000FFDano físico à distância +2%.^000000",
+			"^0000FFDano físico corpo a corpo +2%.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Cota de Preamar]^000000",
 			"^FA4E09[Protetor de Preamar]^000000",
 			"^FA4E09[Coturnos de Preamar]^000000",
 			"^FA4E09[Sobrepeliz de Preamar]^000000",
-			"^0000ffDano físico a distância +2% adicional.^000000",
-			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"^0000FFDano físico à distância +2% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +2% adicional.^000000",
 			"-------------------------",
 			"Tipo: ^777777Aces. Esquerdo^000000",
 			"DEF: ^7777775^000000 DEFM: ^7777770^000000",
@@ -359096,25 +362068,25 @@ tbl = {
 	},
 	[490092] = {
 		unidentifiedDisplayName = "Acessório",
-		unidentifiedResourceName = "링",
+		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Pode ser identificado com uma [Lupa]."
 		},
 		identifiedDisplayName = "Anel das Marés",
 		identifiedResourceName = "EgirRing",
 		identifiedDescriptionName = {
-			"Anel com poderes especiais contra criaturas marinhas. Sua joia é profunda como um abismo... e não dá pra ver o fundo.",
+			"Anel com poderes especiais contra criaturas marinhas. Sua joia é profunda como um abismo... e não dá para ver o fundo.",
 			"Fica bem melhor no seu dedo direito.",
 			"-------------------------",
-			"^0000ffATQM +30.^000000",
-			"^0000ffDano mágico de todas as propriedades +5%.^000000",
+			"^0000FFATQM +30.^000000",
+			"^0000FFDano mágico de todas as propriedades +5%.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Protetor das Marés]^000000",
 			"^FA4E09[Cota das Marés]^000000",
 			"^FA4E09[Sobrepeliz das Marés]^000000",
 			"^FA4E09[Coturnos das Marés]^000000",
-			"^0000ffDano mágico de todas as propriedades +5% adicional.^000000",
+			"^0000FFDano mágico de todas as propriedades +5% adicional.^000000",
 			"-------------------------",
 			"Tipo: ^777777Aces. Direito^000000",
 			"DEF: ^77777710^000000 DEFM: ^7777770^000000",
@@ -359137,17 +362109,17 @@ tbl = {
 		identifiedDescriptionName = {
 			"Pingente usado pra afastar as criaturas marinhas que chegam perto. A estrela brilha quando o perigo se aproxima!",
 			"-------------------------",
-			"^0000ffATQ +30.^000000",
-			"^0000ffDano físico a distância +5%.^000000",
-			"^0000ffDano físico corpo a corpo +5%.^000000",
+			"^0000FFATQ +30.^000000",
+			"^0000FFDano físico à distância +5%.^000000",
+			"^0000FFDano físico corpo a corpo +5%.^000000",
 			"-------------------------",
 			"^FA4E09Conjunto^000000",
 			"^FA4E09[Protetor das Marés]^000000",
 			"^FA4E09[Cota das Marés]^000000",
 			"^FA4E09[Sobrepeliz das Marés]^000000",
 			"^FA4E09[Coturnos das Marés]^000000",
-			"^0000ffDano físico a distância +5% adicional.^000000",
-			"^0000ffDano físico corpo a corpo +5% adicional.^000000",
+			"^0000FFDano físico à distância +5% adicional.^000000",
+			"^0000FFDano físico corpo a corpo +5% adicional.^000000",
 			"-------------------------",
 			"Tipo: ^777777Aces. Esquerdo^000000",
 			"DEF: ^77777710^000000 DEFM: ^7777770^000000",
@@ -362013,29 +364985,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Gladius",
+		identifiedDisplayName = "Pænitentia Gladius",
 		identifiedResourceName = "Poenitentia_Gladius",
 		identifiedDescriptionName = {
-			"Espada que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQM + 250.",
-			"ATQM + 10%.",
-			"Dano de Crux Tempestas(Cross Rain) + 10%.",
-			"A cada 2 refinos, dano de Luz da Criação + 4%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Luz da Criação + 25% adicional.",
-			"Ao refinar em +11, dano mágico de propriedade Sagrado + 10%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Crux Tempestas(Cross Rain) + 5% adicional,",
-			"[Grau C] Dano de Crux Tempestas(Cross Rain) + 8% adicional, S.ATQM + 1.",
-			"[Grau B] Dano de Crux Tempestas(Cross Rain) + 12% adicional, SPL + 1.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Espada^000000 Ataque : ^777777195^000000",
-			"Peso : ^777777180^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Guarda Imperial^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Crux Tempestas] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Luz da Criação] +4%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Luz da Criação] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de propriedade Sagrado +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Crux Tempestas] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Crux Tempestas] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Crux Tempestas] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espada^000000",
+			"ATQ: ^777777195^000000 ATQM: ^777777250^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Guardiões Imperiais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 42,
@@ -362047,28 +365029,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Rigula",
+		identifiedDisplayName = "Pænitentia Rigula",
 		identifiedResourceName = "Poenitentia_Ligula",
 		identifiedDescriptionName = {
-			"Espada que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Atirar Ácido(Acidified Zone)(Fogo/Água/Vento/Terra) + 10%.",
-			"A cada 2 refinos, dano de Canhão de Prótons + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Canhão de Prótons + 25% adicional.",
-			"Ao refinar em +11, dano físico à distância + 10%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Atirar Ácido(Acidified Zone)(Fogo/Vento) + 5%.",
-			"[Grau C] Dano de Atirar Ácido(Acidified Zone)(Água/Terra) + 8%. P.ATQ + 1.",
-			"[Grau B] Dano de Atirar Ácido(Acidified Zone)(Fogo/Água/Vento/Terra) + 10%. POW + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Espada^000000 Ataque : ^777777185^000000",
-			"Peso : ^777777180^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Cientista^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Gasoso] [Atirar Ácido Sólido] [Atirar Ácido Álgido] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Canhão de Prótons] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Canhão de Prótons] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico a distância +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Gasoso] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Atirar Ácido Sólido] [Atirar Ácido Álgido] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Gasoso] [Atirar Ácido Sólido] [Atirar Ácido Álgido] +10% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espada^000000",
+			"ATQ: ^777777185^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Cientistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 42,
@@ -362499,27 +365492,33 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Gume Sólido",
+		identifiedDisplayName = "Gume Solidificado",
 		identifiedResourceName = "Solid_Edge",
 		identifiedDescriptionName = {
-			"Lâmina forjada com peças da Torre do Relógio refinadas e temperada com poder mágico de Éter.",
-			"Suas falhas foram corrigidas em relação ao Gume Fortify original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Golpe de Tyr aumenta em 6%.",
-			"A cada 3 refinos, o dano de Lâminas Devastadoras aumenta em 8%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico corpo a corpo.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW +2.",
-			"[Grau C] O dano de Golpe de Tyr aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Adaga^000000 Ataque : ^777777200^000000",
-			"Peso : ^777777110^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Hiperaprendiz^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Fortificada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Golpe de Tyr] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Lâminas Devastadoras] +8%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Golpe de Tyr] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777200^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777110^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Hiperaprendizes e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 42,
@@ -362529,27 +365528,33 @@ tbl = {
 		unidentifiedDisplayName = "Espada",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Lâmina Wicked",
+		identifiedDisplayName = "Espada Malevolente",
 		identifiedResourceName = "Wicked_Blade",
 		identifiedDescriptionName = {
-			"Espada de uma mão equipada com energia impura condensada em peças da Torre do Relógio.",
-			"Tornou-se ainda mais difícil de manusear que a Lâmina Relapse original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Atirar Ácido Fogoso, (Vento) aumenta em 6%.",
-			"A cada 3 refinos, o dano de Tornado de Carrinho aumenta em 7%.",
-			"A cada 4 refinos, ATQ + 5%.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW +2.",
-			"[Grau C] O dano de Atirar Ácido Fogoso, (Vento) aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Espada^000000 Ataque : ^777777230^000000",
-			"Peso : ^777777180^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Cientista^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Decadente.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Atirar Ácido Gasoso] e [Atirar Ácido Inflamável] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Tornado de Carrinho] +7%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico +5%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Atirar Ácido Gasoso] e [Atirar Ácido Inflamável] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espada^000000",
+			"ATQ: ^777777230^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Cientistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 42,
@@ -362559,29 +365564,41 @@ tbl = {
 		unidentifiedDisplayName = "Espada",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Orbis",
+		identifiedDisplayName = "Pænitentia Orbis",
 		identifiedResourceName = "Poenitentia_Orbis",
 		identifiedDescriptionName = {
-			"Espada de uma mão que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"ATQ + 5%.",
-			"O dano de Choque Violento, Golpe de Tyr aumenta em 10%.",
-			"A cada 2 refinos, o dano de Bumerangue de Escudo, Passo para Trás aumenta em 3%.",
-			"Ao refinar para +7, aumenta a velocidade de ataque (reduz o atraso após ataque em 20%).",
-			"Ao refinar para +9, o dano de Bumerangue de Escudo, Passo para Trás aumenta adicionalmente em 25%.",
-			"Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Choque Violento, Golpe de Tyr aumenta em 5%,",
-			"[Grau C] O dano de Choque Violento, Golpe de Tyr aumenta em 3%. P.ATQ + 1.",
-			"[Grau B] O dano de Choque Violento, Golpe de Tyr aumenta adicionalmente em 5%. POW + 1.",
-			"Tipo : ^777777Espada^000000 Ataque : ^777777260^000000",
-			"Peso : ^777777160^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Hiperaprendiz^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +5%.^000000",
+			"^0000FFDano de [Choque Violento] e [Golpe de Tyr] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Escudo Bumerangue] e [Apunhalar] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +20%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Escudo Bumerangue] e [Apunhalar] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Choque Violento] e [Golpe de Tyr] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Choque Violento] e [Golpe de Tyr] +3% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Choque Violento] e [Golpe de Tyr] +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espada^000000",
+			"ATQ: ^777777260^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777160^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Hiperaprendizes e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 42,
@@ -362990,28 +366007,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Mucro",
+		identifiedDisplayName = "Pænitentia Mucro",
 		identifiedResourceName = "Poenitentia_Mucro",
 		identifiedDescriptionName = {
-			"Adaga que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Facada(Shadow Stab) + 10%.",
-			"A cada 2 refinos, dano de Lâminas Retalhadoras + 3%.",
-			"Ao refinar em +7, dano crítico + 15%.",
-			"Ao refinar em +9, dano de Lâminas Retalhadoras + 30% adicional.",
-			"Ao refinar em +11, dano físico causado a inimigos de todos os tamanhos + 15%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Facada(Shadow Stab) + 5% adicional.",
-			"[Grau C] Dano de Facada(Shadow Stab) + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Facada(Shadow Stab) + 12% adicional, POW + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Adaga^000000 Ataque: ^777777190^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Facada] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Lâminas Retalhadoras] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano crítico +15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas Retalhadoras] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Facada] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Facada] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Facada] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777190^000000 ATQM: ^7777770^000000",
 			"Peso: ^77777790^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Shadow Cross^000000"
+			"Classes: ^777777Executores e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -363023,28 +366051,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Dilacero",
+		identifiedDisplayName = "Pænitentia Dilacero",
 		identifiedResourceName = "Poenetentia_Dilacero",
 		identifiedDescriptionName = {
-			"Adaga que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Esfaquear(Deft Stab) + 10%.",
-			"A cada 2 refinos, dano de Ofensiva Fatal + 3%.",
-			"Ao refinar em +7, aumenta a velocidade de ataque (reduz o atraso após ataque em 10%).",
-			"Ao refinar em +9, dano de Ofensiva Fatal + 30% adicional.",
-			"Ao refinar em +11, atraso após habilidade - 12%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Esfaquear(Deft Stab) + 5% adicional.",
-			"[Grau C] Dano de Esfaquear(Deft Stab) + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Esfaquear(Deft Stab) + 12% adicional, POW + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Adaga^000000 Ataque: ^777777190^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Esfaquear] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Ofensiva Fatal] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ofensiva Fatal] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPós-conjuração -12%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Esfaquear] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Esfaquear] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Esfaquear] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777190^000000 ATQM: ^7777770^000000",
 			"Peso: ^77777790^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Abyss Chaser^000000"
+			"Classes: ^777777Mandraques e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -363345,32 +366384,82 @@ tbl = {
 		ClassNum = 31,
 		costume = false
 	},
+	[510049] = {
+		unidentifiedDisplayName = "Adaga",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = {
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+		},
+		identifiedDisplayName = "Punhal Enferrujado",
+		identifiedResourceName = "Rotten_Garden_knife",
+		identifiedDescriptionName = {
+			"Uma faca de jardim com a lâmina enferrujada. Por isso, cuidado! O corte dela pode causar problemas sérios.",
+			"--------------------------",
+			"Ao realizar ataques físicos corpo a corpo:",
+			"^0000FF5% de chance de autoconjurar [Maldição de Jormungand] nv.1.^000000",
+			"Ao realizar ataques físicos:",
+			"^0000FF3% de chance de ativar um [efeito] por 7 segundos.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra Pequeno e Médio +10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de propriedade Veneno +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFFEI +3.^000000",
+			"^0000FFS.ATQM +1 adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano mágico de todas as propriedades +15% adicional.^000000",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000FFDano mágico de propriedade Veneno +15%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777117^000000 ATQM: ^777777190^000000",
+			"Peso: ^77777730^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Renegados e evoluções^000000"
+		},
+		slotCount = 2,
+		ClassNum = 31,
+		costume = false
+	},
 	[510050] = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Adaga Sólida",
+		identifiedDisplayName = "Punhal Solidificado",
 		identifiedResourceName = "Solid_Dagger",
 		identifiedDescriptionName = {
-			"Adaga forjada com peças da Torre do Relógio refinadas e temperada com poder mágico de Éter.",
-			"Suas falhas foram corrigidas em relação à Adaga Fortify original.",
-			"^ffffff_^000000",
-			"ATQM + 200.",
-			"A cada 2 refinos, o dano de Mahou da Chama Vermelha, Mahou da Névoa Fria aumenta em 5%.",
-			"A cada 3 refinos, o dano de Mahou da Escuridão aumenta em 7%.",
-			"A cada 4 refinos, aumenta em 3% o dano mágico de todos os elementos.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] SPL +1.",
-			"[Grau C] O dano de Mahou da Chama Vermelha, Mahou da Névoa Fria aumenta adicionalmente em 7%.",
-			"[Grau B] S.ATQM + 1.",
-			"Tipo : ^777777Adaga^000000 Ataque : ^777777180^000000",
-			"Peso : ^777777120^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Fortificada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Mahou da Chama Vermelha] e [Mahou da Névoa Fria] +5%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Mahou da Escuridão] +7%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano mágico de todas as propriedades +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFFEI +1.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Mahou da Chama Vermelha] e [Mahou da Névoa Fria] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777180^000000 ATQM: ^777777200^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -363380,28 +366469,34 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Adaga Wicked",
+		identifiedDisplayName = "Adaga Malevolente",
 		identifiedResourceName = "Wicked_Dagger",
 		identifiedDescriptionName = {
-			"Adaga equipada com energia impura condensada em peças da Torre do Relógio.",
-			"Tornou-se ainda mais difícil de manusear que a Adaga Relapse original.",
-			"^ffffff_^000000",
-			"ATQM + 230.",
-			"A cada 2 refinos, o dano de Fenda do Abismo(Abyss Square) aumenta em 7%.",
-			"A cada 3 refinos, o dano de Invocação do Abismo(From the Abyss) aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 3% o dano mágico de todos os elementos e reduz o atraso após ataque em 7%.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] SPL +2.",
-			"[Grau C] O dano de Fenda do Abismo(Abyss Square) aumenta adicionalmente em 10%.",
-			"[Grau B] S.ATQM + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Adaga^000000 Ataque : ^777777160^000000",
-			"Peso : ^777777140^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Mandraque^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Decadente.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Fenda do Abismo] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Invocação do Abismo] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFVelocidade de ataque +7%.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFFEI +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Fenda do Abismo] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777160^000000 ATQM: ^777777230^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Mandraques e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -363411,27 +366506,33 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Gume Wicked",
+		identifiedDisplayName = "Lâmina Malevolente",
 		identifiedResourceName = "Wicked_Edge",
 		identifiedDescriptionName = {
-			"Adaga equipada com energia impura condensada em peças da Torre do Relógio.",
-			"Tornou-se ainda mais difícil de manusear que o Gume Relapse original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Dança das Trevas aumenta em 5%.",
-			"A cada 3 refinos, o dano de Centelha das Trevas aumenta em 7%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico corpo a corpo.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW +1.",
-			"[Grau C] O dano de Dança das Trevas aumenta adicionalmente em 7%.",
-			"[Grau B] P.ATQ + 1.",
-			"Tipo : ^777777Adaga^000000 Ataque : ^777777200^000000",
-			"Peso : ^777777140^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Decadente.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Dança das Trevas] +5%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Centelha das Trevas] +7%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +1.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Dança das Trevas] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777200^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -363441,23 +366542,24 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Adaga Fortify",
+		identifiedDisplayName = "Punhal Fortificado",
 		identifiedResourceName = "Fourth_1h_Nindo",
 		identifiedDescriptionName = {
-			"Arma aprimorada com o poder mágico de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"ATQM + 180.",
-			"A cada 2 refinos, o dano de Mahou da Chama Vermelha, Mahou da Névoa Fria aumenta em 4%.",
-			"A cada 4 refinos, aumenta em 2% o dano mágico de todos os elementos.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Adaga^000000 Ataque : ^777777160^000000",
-			"Peso : ^777777110^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Uma arma fortalecida com Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Mahou da Chama Vermelha] e [Mahou da Névoa Fria] +4%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano mágico de todas as propriedades +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777160^000000 ATQM: ^777777180^000000",
+			"Peso: ^777777110^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -363467,22 +366569,24 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Gume Fortify",
+		identifiedDisplayName = "Gume Fortificado",
 		identifiedResourceName = "Fourth_1h_Edge",
 		identifiedDescriptionName = {
-			"Arma aprimorada com o poder mágico de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Golpe de Tyr aumenta em 5%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico corpo a corpo.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Adaga^000000 Ataque : ^777777170^000000",
-			"Peso : ^777777100^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Hiperaprendiz^000000"
+			"Uma arma fortalecida com Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Golpe de Tyr] +5%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777170^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777100^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Hiperaprendizes e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -363492,22 +366596,24 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Gume Relapse",
+		identifiedDisplayName = "Lâmina Decadente",
 		identifiedResourceName = "Fourth_1h_Nindo2",
 		identifiedDescriptionName = {
-			"Arma aprimorada com o poder mágico de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Dança das Trevas aumenta em 4%.",
-			"A cada 4 refinos, aumenta em 2% o dano físico corpo a corpo.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Adaga^000000 Ataque : ^777777180^000000",
-			"Peso : ^777777120^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Uma arma que foi absorvendo as energias do Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Dança das Trevas] +4%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +2%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777180^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -363517,29 +366623,42 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Sol",
+		identifiedDisplayName = "Pænitentia Sol",
 		identifiedResourceName = "Poenitentia_Sol",
 		identifiedDescriptionName = {
-			"Adaga que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"ATQ + 7%.",
-			"O dano de Kunai Rotatória, Kunai Refratada aumenta em 7%.",
-			"A cada 2 refinos, o dano de Corte Cruzado aumenta em 2%.",
-			"Ao refinar para +7, aumenta em 7% o dano físico à distância.",
-			"Ao refinar para +9, o dano de Corte Cruzado aumenta adicionalmente em 20%.",
-			"Ao refinar para +11, aumenta em 10% o dano físico causado a inimigos de todos os tamanhos, e a recarga da habilidade Corte Cruzado diminui em 1 s",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Kunai Rotatória, Kunai Refratada aumenta em 5%,",
-			"[Grau C] O dano de Kunai Rotatória, Kunai Refratada aumenta em 3%. P.ATQ + 1.",
-			"[Grau B] O dano de Kunai Rotatória, Kunai Refratada aumenta adicionalmente em 5%. POW + 1.",
-			"Tipo : ^777777Adaga^000000 Ataque : ^777777210^000000",
-			"Peso : ^777777120^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +7%.^000000",
+			"^0000FFDano de [Kunai Rotatória] e [Kunai Refratada] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Impacto Cruzado] +2%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +7%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Impacto Cruzado] -1 segundo.^000000",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Kunai Rotatória] e [Kunai Refratada] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Kunai Rotatória] e [Kunai Refratada] +3% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Kunai Rotatória] e [Kunai Refratada] +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777210^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -363549,29 +366668,41 @@ tbl = {
 		unidentifiedDisplayName = "Adaga",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Yana",
+		identifiedDisplayName = "Pænitentia Yana",
 		identifiedResourceName = "Poenitentia_Jana",
 		identifiedDescriptionName = {
-			"Adaga que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"ATQM + 200, ATQM + 7%.",
-			"O dano de Mahou da Trovoada, Mahou do Dragão Áureo aumenta em 7%.",
-			"A cada 2 refinos, o dano de Flor de Chamas Rubras, Lança Glacial Cintilante, Lâmina de Vento aumenta em 2%.",
-			"Ao refinar para +7, reduz a conjuração variável em 10%.",
-			"Ao refinar para +9, o dano de Flor de Chamas Rubras, Lança Glacial Cintilante, Lâmina de Vento aumenta adicionalmente em 20%.",
-			"Ao refinar para +11, aumenta em 10% o dano mágico causado a monstros de todas as raças (exceto jogadores).",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Mahou da Trovoada, Mahou do Dragão Áureo aumenta em 5%.",
-			"[Grau C] O dano de Mahou da Trovoada, Mahou do Dragão Áureo aumenta adicionalmente em 3%. S.ATQM + 1.",
-			"[Grau B] O dano de Mahou da Trovoada, Mahou do Dragão Áureo aumenta adicionalmente em 5%. SPL + 1.",
-			"Tipo : ^777777Adaga^000000 Ataque : ^777777180^000000",
-			"Peso : ^777777110^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +7%.^000000",
+			"^0000FFDano de [Mahou da Trovoada] e [Mahou do Dragão Áureo] +7%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +2%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pétalas Flamejantes] [Lança Congelante] e [Lâmina de Vento] +20%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todas as raças de monstros +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Mahou da Trovoada] e [Mahou do Dragão Áureo] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Mahou da Trovoada] e [Mahou do Dragão Áureo] +3% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Mahou da Trovoada] e [Mahou do Dragão Áureo] +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Adaga^000000",
+			"ATQ: ^777777180^000000 ATQM: ^777777200^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -364053,28 +367184,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Asta",
+		identifiedDisplayName = "Pænitentia Hasta",
 		identifiedResourceName = "Poenitentia_Hasta",
 		identifiedDescriptionName = {
-			"Lança que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Talho do Destino(Overslash) + 10%.",
-			"A cada 2 refinos, dano de Lança do Destino + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Lança do Destino + 25% adicional.",
-			"Ao refinar em +11, dano físico corpo a corpo + 10%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Talho do Destino(Overslash) + 5% adicional,",
-			"[Grau C] Dano de Talho do Destino(Overslash) + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Talho do Destino(Overslash) + 12% adicional, POW + 1.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Lança de Uma Mão^000000 Ataque : ^777777205^000000",
-			"Peso : ^777777190^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Guarda Imperial^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Golpe do Destino] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Lança do Destino] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança do Destino] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico corpo a corpo +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Golpe do Destino] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Golpe do Destino] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Golpe do Destino] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Lança^000000",
+			"ATQ: ^777777205^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777190^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Guardiões Imperiais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 4,
@@ -364323,27 +367465,33 @@ tbl = {
 		unidentifiedDisplayName = "Lança",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Lança Sólida",
+		identifiedDisplayName = "Pique Solidificado",
 		identifiedResourceName = "Solid_Spear",
 		identifiedDescriptionName = {
-			"Lança forjada com peças da Torre do Relógio refinadas e temperada com poder mágico de Éter.",
-			"Suas falhas foram corrigidas em relação à Lança Fortify original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Arremessar Escudo(Shield Shooting) aumenta em 6%.",
-			"A cada 3 refinos, o dano de Corrente de Escudo aumenta em 15%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW +2.",
-			"[Grau C] O dano de Arremessar Escudo(Shield Shooting) aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Lança de Uma Mão^000000 Ataque : ^777777230^000000",
-			"Peso : ^777777160^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Guarda Imperial^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Fortificada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Arremessar Escudo] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Choque Rápido] +15%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +3%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Arremessar Escudo] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Lança^000000",
+			"ATQ: ^777777230^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777160^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Guardiões Imperiais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 4,
@@ -364652,30 +367800,40 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Codex",
+		identifiedDisplayName = "Pænitentia Codex",
 		identifiedResourceName = "Poenitentia_Codex",
 		identifiedDescriptionName = {
-			"Livro que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 215.",
-			"ATQM + 10%.",
-			"Dano de Execução Aurora(Diamond Storm), Tremor de Terra(Terra Drive) + 10%.",
-			"A cada 2 refinos, dano de Pó de Diamante, Castigo de Nerthus + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Pó de Diamante, Castigo de Nerthus + 25% adicional.",
-			"Ao refinar em +11, tempo de recarga de Pó de Diamante, Castigo de Nerthus - 2 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Execução Aurora(Diamond Storm), Tremor de Terra(Terra Drive) + 5%.",
-			"[Grau C] Dano de Execução Aurora(Diamond Storm), Tremor de Terra(Terra Drive) + 8%. S.ATQM + 1.",
-			"[Grau B] Dano de Execução Aurora(Diamond Storm), Tremor de Terra(Terra Drive) + 12% adicional. SPL + 1.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Livro^000000 Ataque : ^777777150^000000",
-			"Peso : ^777777160^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Mestre Elemental^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Execução Aurora] e [Tremor de Terra] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Pó de Diamante] e [Castigo de Nerthus] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Pó de Diamante] e [Castigo de Nerthus] -2 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Execução Aurora] e [Tremor de Terra] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Execução Aurora] e [Tremor de Terra] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Execução Aurora] e [Tremor de Terra] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777150^000000 ATQM: ^777777215^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777160^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Elementalistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 15,
@@ -364687,29 +367845,40 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Liber",
+		identifiedDisplayName = "Pænitentia Liber",
 		identifiedResourceName = "Poenitentia_Liber",
 		identifiedDescriptionName = {
-			"Livro que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQ + 5%, ATQM + 5%, ATQM + 215.",
-			"Dano de Petitio(Petitio) + 10%.",
-			"A cada 2 refinos, dano de Gemini Lumen + 3%.",
-			"Ao refinar em +7, aumenta a velocidade de ataque (reduz o atraso após ataque em 10%).",
-			"Ao refinar em +9, dano de Gemini Lumen + 30% adicional.",
-			"Ao refinar em +11, dano mágico de propriedade Sagrado + 15%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Petitio(Petitio) + 5%.",
-			"[Grau C] Dano de Petitio(Petitio) + 8% adicional. S.ATQM + 1.",
-			"[Grau B] Dano de Petitio(Petitio) + 12% adicional. SPL + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Livro^000000 Ataque: ^777777230^000000",
-			"Peso: ^777777100^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico e mágico +5%.^000000",
+			"^0000FFDano de [Petitio] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Gemini Lumen] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Gemini Lumen] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de propriedade Sagrado +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Petitio] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Petitio] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Petitio] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777230^000000 ATQM: ^777777215^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777160^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Cardeal^000000"
+			"Classes: ^777777Cardeais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 15,
@@ -365096,29 +368265,34 @@ tbl = {
 		unidentifiedDisplayName = "Livro",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Manual Sólido",
+		identifiedDisplayName = "Grimório Solidificado",
 		identifiedResourceName = "Solid_Manual",
 		identifiedDescriptionName = {
-			"Livro reforçado com peças da Torre do Relógio e revestido com poder mágico de Éter.",
-			"Suas falhas foram corrigidas em relação ao Manual Fortify original.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 240.",
-			"A cada 2 refinos, o dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta em 6%.",
-			"A cada 3 refinos, o dano de Onda Psíquica aumenta em 15%.",
-			"A cada 4 refinos, aumenta em 4% o dano mágico de todos os elementos.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] SPL +2.",
-			"[Grau C] O dano de Conflagração(Conflagration), Tormenta(Lightning Land) aumenta adicionalmente em 10%.",
-			"[Grau B] S.ATQM + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Livro^000000 Ataque : ^777777180^000000",
-			"Peso : ^77777790^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Mestre Elemental^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Fortificada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Onda Psíquica] +5%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano mágico de todas as propriedades +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFFEI +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777180^000000 ATQM: ^777777240^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^77777790^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Elementalistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 15,
@@ -365128,28 +368302,34 @@ tbl = {
 		unidentifiedDisplayName = "Livro",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Livro Wicked",
+		identifiedDisplayName = "Livro Malevolente",
 		identifiedResourceName = "Wicked_Book",
 		identifiedDescriptionName = {
-			"Livro equipado com energia impura condensada em peças da Torre do Relógio.",
-			"Tornou-se ainda mais difícil de manusear que o Livro Relapse original.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"A cada 2 refinos, o dano de Entardecer aumenta em 6%.",
-			"A cada 3 refinos, o dano de Amanhecer aumenta em 8%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico corpo a corpo.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW +2.",
-			"[Grau C] O dano de Entardecer aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Livro^000000 Ataque : ^777777220^000000",
-			"Peso : ^777777150^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Mestre Celestial^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Decadente.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Entardecer] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Amanhecer] +8%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Entardecer] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777220^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777150^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Mestres Celestiais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 15,
@@ -365159,23 +368339,25 @@ tbl = {
 		unidentifiedDisplayName = "Livro",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Livro Relapse",
+		identifiedDisplayName = "Livro Decadente",
 		identifiedResourceName = "Fourth_1h_Manual",
 		identifiedDescriptionName = {
-			"Indestrutível.",
-			"Arma corroída por energia impura e restaurada usando Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Entardecer aumenta em 5%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico corpo a corpo.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Livro^000000 Ataque : ^777777190^000000",
-			"Peso : ^777777130^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Mestre Celestial^000000"
+			"Uma arma relapsa que foi absorvendo as energias do Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Entardecer] +5%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777190^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em batalha^000000",
+			"Peso: ^777777130^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Mestres Celestiais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 15,
@@ -365185,29 +368367,42 @@ tbl = {
 		unidentifiedDisplayName = "Livro",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Radius",
+		identifiedDisplayName = "Pænitentia Radius",
 		identifiedResourceName = "Poenitentia_Radius",
 		identifiedDescriptionName = {
-			"Tábua que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQ + 10%.",
-			"O dano de Crepúsculo Explosivo, Alvorada aumenta em 10%.",
-			"A cada 2 refinos, o dano de Explosão Solar, Chute Lunar aumenta em 3%.",
-			"Ao refinar para +7, aumenta em 10% o dano físico corpo a corpo.",
-			"Ao refinar para +9, o dano de Explosão Solar, Chute Lunar aumenta adicionalmente em 25%.",
-			"Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Crepúsculo Explosivo, Alvorada aumenta em 5%,",
-			"[Grau C] O dano de Crepúsculo Explosivo, Alvorada aumenta em 3%. P.ATQ + 1.",
-			"[Grau B] O dano de Crepúsculo Explosivo, Alvorada aumenta adicionalmente em 5%. POW + 1.",
-			"Tipo : ^777777Livro^000000 Ataque : ^777777260^000000",
-			"Peso : ^77777790^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Mestre Celestial^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Explosão Crepuscular] e [Alvorada] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Explosão Solar] e [Chute Lunar] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico corpo a corpo +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Explosão Solar] e [Chute Lunar] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Explosão Crepuscular] e [Alvorada] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Explosão Crepuscular] e [Alvorada] +3% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Explosão Crepuscular] e [Alvorada] +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777260^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^77777790^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Mestres Celestiais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 15,
@@ -365217,30 +368412,43 @@ tbl = {
 		unidentifiedDisplayName = "Livro",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Livro de Poeira Estelar Vivatus Fides",
+		identifiedDisplayName = "Compêndio Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_Star_B",
 		identifiedDescriptionName = {
-			"Livro de Poeira Estelar renascido pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"O dano de Chuva Estelar aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 12.",
-			"Ao refinar para +7, o dano de Chuva Estelar aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos.",
-			"Ao refinar para +11, o dano de Chuva Estelar aumenta em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico corpo a corpo.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Chuva Estelar aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, POW + 1, P.ATQ + 1.",
-			"Tipo : ^777777Livro^000000 Ataque : ^777777240^000000",
-			"Peso : ^777777100^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Mestre Celestial^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +12.^000000",
+			"--------------------------",
+			"^0000FFDano de [Chuva Estelar] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chuva Estelar] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chuva Estelar] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico corpo a corpo +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Chuva Estelar] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"POD e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777240^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777100^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Mestres Celestiais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 15,
@@ -365250,30 +368458,43 @@ tbl = {
 		unidentifiedDisplayName = "Livro",
 		unidentifiedResourceName = "북",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Livro Lunar Vivatus Fides",
+		identifiedDisplayName = "Manual Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_Moon_B",
 		identifiedDescriptionName = {
-			"Livro Lunar renascido pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"O dano de Chute Lunar aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 12.",
-			"Ao refinar para +7, o dano de Chute Lunar aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos.",
-			"Ao refinar para +11, o dano de Chute Lunar aumenta em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico corpo a corpo.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Chute Lunar aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, POW + 1, P.ATQ + 1.",
-			"Tipo : ^777777Livro^000000 Ataque : ^777777230^000000",
-			"Peso : ^777777110^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Mestre Celestial^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +12.^000000",
+			"--------------------------",
+			"^0000FFDano de [Chute Lunar] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chute Lunar] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chute Lunar] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico corpo a corpo +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Chute Lunar] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"POD e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Livro^000000",
+			"ATQ: ^777777240^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777100^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Mestres Celestiais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 15,
@@ -365809,30 +369030,41 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Scipio",
+		identifiedDisplayName = "Pænitentia Scipio",
 		identifiedResourceName = "Poenitentia_Scipio",
 		identifiedDescriptionName = {
-			"Cajado que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 215.",
-			"ATQM + 10%.",
-			"Dano de Conflagração(Conflagration), Tormenta(Lightning Land) + 10%.",
-			"A cada 2 refinos, dano de Onda Psíquica, Lanças dos Aesir + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Onda Psíquica, Lanças dos Aesir + 25% adicional.",
-			"Ao refinar em +11, tempo de recarga de Onda Psíquica - 1,5 s, tempo de recarga de Lanças dos Aesir - 2 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Conflagração(Conflagration), Tormenta(Lightning Land) + 5%,",
-			"[Grau C] Dano de Conflagração(Conflagration), Tormenta(Lightning Land) + 3%. S.ATQM + 1.",
-			"[Grau B] Dano de Conflagração(Conflagration), Tormenta(Lightning Land) + 5% adicional. SPL + 1.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777150^000000",
-			"Peso : ^777777160^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Mestre Elemental^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Conflagração] e [Tormenta] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Onda Psíquica] e [Lanças dos Aesir] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Onda Psíquica] -1,5 segundos.^000000",
+			"^0000FFRecarga de [Lanças dos Aesir] -2 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Conflagração] e [Tormenta] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Conflagração] e [Tormenta] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Conflagração] e [Tormenta] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777150^000000 ATQM: ^777777215^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777160^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Elementalistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
@@ -365844,29 +369076,40 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Crystallum",
+		identifiedDisplayName = "Pænitentia Crystallum",
 		identifiedResourceName = "Poenitentia_Crystallum",
 		identifiedDescriptionName = {
-			"Cajado que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 250, ATQM + 10%.",
-			"Dano de Flamen(Framen) + 10%.",
-			"A cada 2 refinos, dano de Adoramus + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Adoramus + 30% adicional.",
-			"Ao refinar em +11, dano mágico causado a monstros de todas as raças + 15% (exceto jogadores).",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Flamen(Framen) + 5%.",
-			"[Grau C] Dano de Flamen(Framen) + 8% adicional. S.ATQM + 1.",
-			"[Grau B] Dano de Flamen(Framen) + 12% adicional. SPL + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Cajado de Uma Mão^000000 Ataque: ^777777150^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Flamen] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Adoramus] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Adoramus] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todas as raças de monstros +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Flamen] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Flamen] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Flamen] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777150^000000 ATQM: ^777777250^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
 			"Peso: ^777777100^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Cardeal^000000"
+			"Classes: ^777777Cardeais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
@@ -366463,63 +369706,74 @@ tbl = {
 		costume = false
 	},
 	[550054] = {
-		unidentifiedDisplayName = "Cajado de Uma Mão",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Varinha Sólida",
+		identifiedDisplayName = "Cajado Solidificado",
 		identifiedResourceName = "Solid_Wand",
 		identifiedDescriptionName = {
-			"Lança forjada com peças da Torre do Relógio refinadas e temperada com poder mágico de Éter.",
-			"Suas falhas foram corrigidas em relação à Varinha Fortify original.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 240.",
-			"A cada 2 refinos, o dano de Talismã das Divindades aumenta em 6%.",
-			"A cada 3 refinos, o dano de Talismã do Ceifeiro aumenta em 8%.",
-			"A cada 4 refinos, aumenta em 4% o dano mágico de todos os elementos.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] SPL +2.",
-			"[Grau C] O dano de Talismã das Divindades aumenta adicionalmente em 10%.",
-			"[Grau B] S.ATQM + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777190^000000",
-			"Peso : ^777777140^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Asceta^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Fortificada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Talismã das Divindades] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Talismã do Ceifeiro] +8%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano mágico de todas as propriedades +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFFEI +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Talismã das Divindades] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777190^000000 ATQM: ^777777240^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Ascetas das Almas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
 		costume = false
 	},
 	[550055] = {
-		unidentifiedDisplayName = "Cajado de Uma Mão",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Bastão Sólido",
+		identifiedDisplayName = "Bastão Solidificado",
 		identifiedResourceName = "Solid_Rod",
 		identifiedDescriptionName = {
-			"Bastão forjado com peças da Torre do Relógio refinadas e temperado com poder mágico de Éter.",
-			"Suas falhas foram corrigidas em relação ao Bastão Fortify original.",
-			"^ffffff_^000000",
-			"ATQM + 230.",
-			"A cada 2 refinos, o dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta em 6%.",
-			"A cada 3 refinos, o dano de Espectro Napalm aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 4% o dano mágico de todos os elementos.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] SPL +2.",
-			"[Grau C] O dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta adicionalmente em 10%.",
-			"[Grau B] S.ATQM + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777130^000000",
-			"Peso : ^777777100^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Hiperaprendiz^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Fortificada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Espectro Napalm] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano mágico de todas as propriedades +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFFEI +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777130^000000 ATQM: ^777777230^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777100^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Hiperaprendizes e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
@@ -366529,54 +369783,63 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Planta Wicked",
+		identifiedDisplayName = "Planta Malevolente",
 		identifiedResourceName = "Wicked_Plant",
 		identifiedDescriptionName = {
-			"Cajado de Uma Mão equipado com energia impura condensada em peças da Torre do Relógio.",
-			"Tornou-se ainda mais difícil de manusear que a Planta Relapse original.",
-			"^ffffff_^000000",
-			"ATQM + 220",
-			"A cada 2 refinos, o dano de Rugido da Onça, Brisa Silvestre aumenta em 6%.",
-			"A cada 3 refinos, o dano de Patada Felina, Lança Galhada aumenta em 7%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância e o dano mágico de todos os elementos.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW, SPL +1.",
-			"[Grau C] O dano de Rugido da Onça, Brisa Silvestre aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 1, S.ATQM + 1",
-			"^ffffff_^000000",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777210^000000",
-			"Peso : ^777777180^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Animista^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Decadente.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Rugido do Tigre] e [Brisa Silvestre] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Patada Felina] e [Lança Galhada] +8%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"^0000FFDano mágico de todas as propriedades +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD e FEI +1.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Rugido do Tigre] e [Brisa Silvestre] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ e S.ATQM +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777210^000000 ATQM: ^777777220^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Animistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 100,
 		costume = false
 	},
 	[550057] = {
-		unidentifiedDisplayName = "Cajado de Uma Mão",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Bastão Fortify",
+		identifiedDisplayName = "Bastão Fortificado",
 		identifiedResourceName = "Fourth_1h_Rod",
 		identifiedDescriptionName = {
-			"Arma aprimorada com o poder mágico de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"ATQM + 200.",
-			"A cada 2 refinos, o dano de Chuva de Meteoritos e Tempestade de Júpiter aumenta em 5%.",
-			"A cada 4 refinos, aumenta em 3% o dano mágico de todos os elementos.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777120^000000",
-			"Peso : ^77777790^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Hiperaprendiz^000000"
+			"Uma arma fortalecida com Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Tempestade de Júpiter] +5%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777120^000000 ATQM: ^777777200^000000",
+			"Nota: ^777777Indestrutível em batalha^000000",
+			"Peso: ^77777790^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Hiperaprendizes e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
@@ -366586,148 +369849,196 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Planta Relapse",
+		identifiedDisplayName = "Planta Decadente",
 		identifiedResourceName = "Fourth_1h_Plant",
 		identifiedDescriptionName = {
-			"Arma corroída por energia impura e restaurada usando Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"ATQM + 200.",
-			"A cada 2 refinos, o dano de Rugido da Onça, Brisa Silvestre aumenta em 5%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico à distância e o dano mágico de todos os elementos.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777190^000000",
-			"Peso : ^777777160^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Animista^000000"
+			"Uma arma que foi absorvendo as energias do Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Rugido do Tigre] e [Brisa Silvestre] +5%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +3%.^000000",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777190^000000 ATQM: ^777777200^000000",
+			"Nota: ^777777Indestrutível em batalha^000000",
+			"Peso: ^777777160^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Animistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 100,
 		costume = false
 	},
 	[550059] = {
-		unidentifiedDisplayName = "Cajado de Uma Mão",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Varinha Fortify",
+		identifiedDisplayName = "Cajado Fortificado",
 		identifiedResourceName = "Fourth_1h_Wand",
 		identifiedDescriptionName = {
-			"Arma aprimorada com o poder mágico de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"ATQM + 210.",
-			"A cada 2 refinos, o dano de Talismã das Divindades aumenta em 5%.",
-			"A cada 4 refinos, aumenta em 3% o dano mágico de todos os elementos.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777170^000000",
-			"Peso : ^777777120^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Asceta^000000"
+			"Uma arma fortalecida com Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Talismã das Divindades] +5%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFFEI +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Talismã das Divindades] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777170^000000 ATQM: ^777777210^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Ascetas das Almas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
 		costume = false
 	},
 	[550060] = {
-		unidentifiedDisplayName = "Cajado de Uma Mão",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Planta",
+		identifiedDisplayName = "Pænitentia Planta",
 		identifiedResourceName = "Poenitentia_Planta",
 		identifiedDescriptionName = {
-			"Cajado que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 250, ATQM + 10%.",
-			"O dano de Lança Galhada, Brisa Silvestre aumenta em 10%.",
-			"A cada 2 refinos, o dano de Meteoros de Nepeta aumenta em 3%.",
-			"Ao refinar para +7, reduz a conjuração variável em 10%.",
-			"Ao refinar para +9, o dano de Meteoros de Nepeta aumenta adicionalmente em 30%.",
-			"Ao refinar para +11, aumenta em 15% o dano mágico causado a monstros de todas as raças (exceto jogadores), e a recarga da habilidade Meteoros de Nepeta diminui em 2 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Lança Galhada, Brisa Silvestre aumenta em 5%.",
-			"[Grau C] O dano de Lança Galhada, Brisa Silvestre aumenta adicionalmente em 8%. S.ATQM + 1.",
-			"[Grau B] O dano de Lança Galhada, Brisa Silvestre aumenta adicionalmente em 12%. SPL + 1.",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777170^000000",
-			"Peso : ^777777130^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Animista^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Lança Galhada] e [Brisa Silvestre] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Meteoros de Nepeta] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Meteoros de Nepeta] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Meteoros de Nepeta] -2 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Lança Galhada] e [Brisa Silvestre] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Lança Galhada] e [Brisa Silvestre] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Lança Galhada] e [Brisa Silvestre] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777170^000000 ATQM: ^777777250^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777130^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Animistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 102,
 		costume = false
 	},
 	[550061] = {
-		unidentifiedDisplayName = "Cajado de Uma Mão",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Ramus",
+		identifiedDisplayName = "Pænitentia Ramus",
 		identifiedResourceName = "Poenitentia_Ramus",
 		identifiedDescriptionName = {
-			"Cajado que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 250, ATQM + 10%.",
-			"O dano de Talismã do Ceifeiro, Exorcizar Assombração aumenta em 10%.",
-			"A cada 2 refinos, o dano de Eswhoo,Espa aumenta em 3%.",
-			"Ao refinar para +7, reduz a conjuração variável em 10%.",
-			"Ao refinar para +9, o dano de Eswhoo,Espa aumenta adicionalmente em 30%.",
-			"Ao refinar para +11, aumenta em 15% o dano mágico causado a monstros de todas as raças (exceto jogadores).",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Talismã dos Elementos, Talismã do Ceifeiro aumenta em 5%.",
-			"[Grau C] O dano de Talismã dos Elementos, Talismã do Ceifeiro aumenta adicionalmente em 8%. S.ATQM + 1.",
-			"[Grau B] O dano de Talismã dos Elementos, Talismã do Ceifeiro aumenta adicionalmente em 12%. SPL + 1.",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777220^000000",
-			"Peso : ^777777140^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Asceta^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Talismã do Ceifeiro] e [Exorcizar Assombração] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Eswhoo] e [Espa] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Eswhoo] e [Espa] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todas as raças de monstros +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Talismã do Ceifeiro] e [Exorcizar Assombração] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Talismã do Ceifeiro] e [Exorcizar Assombração] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Talismã do Ceifeiro] e [Exorcizar Assombração] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777220^000000 ATQM: ^777777250^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Ascetas das Almas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
 		costume = false
 	},
 	[550062] = {
-		unidentifiedDisplayName = "Cajado de Uma Mão",
+		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Ferum",
+		identifiedDisplayName = "Pœnitentia Ferum",
 		identifiedResourceName = "Poenitentia_Ferrum",
 		identifiedDescriptionName = {
-			"Cajado que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 250, ATQM + 5%.",
-			"O dano de Chuva de Meteoritos, Esquife Congelante aumenta em 10%.",
-			"A cada 2 refinos, o dano de Chuva de Meteoros, Nova Congelante aumenta em 3%.",
-			"Ao refinar para +7, reduz a conjuração variável em 10%.",
-			"Ao refinar para +9, o dano de Chuva de Meteoros, Nova Congelante aumenta adicionalmente em 30%.",
-			"Ao refinar para +11, aumenta em 15% o dano mágico causado a monstros de todas as raças (exceto jogadores).",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Chuva de Meteoritos, Esquife Congelante aumenta em 5%.",
-			"[Grau C] O dano de Chuva de Meteoritos, Esquife Congelante aumenta adicionalmente em 8%. S.ATQM + 1.",
-			"[Grau B] O dano de Chuva de Meteoritos, Esquife Congelante aumenta adicionalmente em 12%. SPL + 1.",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777160^000000",
-			"Peso : ^777777130^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Hiperaprendiz^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Chuva de Meteoritos] e [Esquife Congelante] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Chuva de Meteoros] e [Rajada Congelante] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Chuva de Meteoros] e [Rajada Congelante] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico contra todas as raças de monstros +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Chuva de Meteoritos] e [Esquife Congelante] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Chuva de Meteoritos] e [Esquife Congelante] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Chuva de Meteoritos] e [Esquife Congelante] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777160^000000 ATQM: ^777777250^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777130^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Hiperaprendizes e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
@@ -366737,32 +370048,44 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Varinha Sombria Vivatus Fides",
+		identifiedDisplayName = "Varinha Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_D_Wand",
 		identifiedDescriptionName = {
-			"Varinha Sombria renascida pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"ATQM + 220.",
-			"Indestrutível.",
-			"O dano de Necroexplosão aumenta em 10%.",
-			"A cada 3 refinos, ATQM + 12.",
-			"Ao refinar para +7, o dano de Necroexplosão aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, aumenta em 15% o dano mágico causado a inimigos de todos os tamanhos.",
-			"Ao refinar para +11, o dano de Necroexplosão aumenta em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano mágico de propriedade Sombrio.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano mágico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Necroexplosão aumenta adicionalmente em 15%.",
-			"[Grau B] ATQM + 7%.",
-			"[Grau A] A cada 3 refinos, SPL + 1, S.ATQM + 1.",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777160^000000",
-			"Peso : ^777777160^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Asceta^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQM +12.^000000",
+			"--------------------------",
+			"^0000FFDano de [Necroexplosão] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Necroexplosão] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano mágico contra todos os tamanhos +15%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Necroexplosão] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano mágico de propriedade Sombrio +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano mágico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Necroexplosão] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano mágico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"FEI e S.ATQM +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777160^000000 ATQM: ^777777220^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777160^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Ascetas das Almas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
@@ -366772,32 +370095,44 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Cetro da Alma Vivatus Fides",
+		identifiedDisplayName = "Cajado Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_S_Stick",
 		identifiedDescriptionName = {
-			"Cetro da Alma renascido pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"ATQM + 205.",
-			"Indestrutível.",
-			"O dano de Eswhoo aumenta em 10%.",
-			"A cada 3 refinos, ATQM + 12.",
-			"Ao refinar para +7, o dano de Eswhoo aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, reduz a conjuração variável em 10%.",
-			"Ao refinar para +11, o dano de Eswhoo aumenta em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano mágico das propriedades Água, Vento, Terra, Fogo, Fantasma, Sombrio e Sagrado.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano mágico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Eswhoo aumenta adicionalmente em 15%.",
-			"[Grau B] ATQM + 7%.",
-			"[Grau A] A cada 3 refinos, SPL + 1, S.ATQM + 1.",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777160^000000",
-			"Peso : ^777777190^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Asceta^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQM +12.^000000",
+			"--------------------------",
+			"^0000FFDano de [Eswhoo] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Eswhoo] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Eswhoo] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano mágico de propriedade Água, Vento, Terra, Fogo, Fantasma, Sombrio e Sagrado +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano mágico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Eswhoo] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano mágico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"FEI e S.ATQM +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777160^000000 ATQM: ^777777205^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777190^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Ascetas das Almas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 69,
@@ -366807,32 +370142,44 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Varinha Cauda de Raposa Vivatus Fides",
+		identifiedDisplayName = "Rabo-de-Gato Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_F_Wand",
 		identifiedDescriptionName = {
-			"Varinha Cauda de Raposa renascida pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"ATQM + 350.",
-			"Indestrutível.",
-			"O dano de Meteoros de Nepeta aumenta em 10%.",
-			"A cada 3 refinos, ATQM + 12.",
-			"Ao refinar para +7, o dano de Meteoros de Nepeta aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, a recarga da habilidade Meteoros de Nepeta diminui em 2 s.",
-			"Ao refinar para +11, o dano de Meteoros de Nepeta aumenta adicionalmente em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano mágico de propriedade Neutro.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano mágico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Meteoros de Nepeta aumenta adicionalmente em 15%.",
-			"[Grau B] ATQM + 7%.",
-			"[Grau A] A cada 3 refinos, SPL + 1, S.ATQM + 1.",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777200^000000",
-			"Peso : ^777777150^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Animista^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQM +12.^000000",
+			"--------------------------",
+			"^0000FFDano de [Meteoros de Nepeta] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Meteoros de Nepeta] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Meteoros de Nepeta] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Meteoros de Nepeta] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano mágico de propriedade Neutro +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano mágico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Meteoros de Nepeta] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano mágico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"FEI e S.ATQM +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777200^000000 ATQM: ^777777350^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777150^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Animistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 99,
@@ -366842,31 +370189,44 @@ tbl = {
 		unidentifiedDisplayName = "Cajado",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Modelo Cauda de Raposa Vivatus Fides",
+		identifiedDisplayName = "Cauda de Gato Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_F_model",
 		identifiedDescriptionName = {
-			"Modelo Cauda de Raposa renascido pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"O dano de Chilique de Picky aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 12.",
-			"Ao refinar para +7, o dano de Chilique de Picky aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos.",
-			"Ao refinar para +11, o dano de Chilique de Picky aumenta adicionalmente em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico à distância.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Chilique de Picky aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, POW + 1, P.ATQ + 1.",
-			"Tipo : ^777777Cajado de Uma Mão^000000 Ataque : ^777777320^000000",
-			"Peso : ^777777180^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Animista^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +12.^000000",
+			"--------------------------",
+			"^0000FFDano de [Chilique de Picky] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Chilique de Picky] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Chilique de Picky] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Chilique de Picky] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"POD e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado^000000",
+			"ATQ: ^777777320^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Animistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 99,
@@ -367517,28 +370877,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Caestus",
+		identifiedDisplayName = "Pænitentia Caestus",
 		identifiedResourceName = "Poenitentia_Caestus",
 		identifiedDescriptionName = {
-			"Soqueira que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Golpe Pantocrator + 10%.",
-			"A cada 2 refinos, dano de Garra de Tigre + 3%.",
-			"Ao refinar em +7, MHP + 10%.",
-			"Ao refinar em +9, dano de Garra de Tigre + 30% adicional.",
-			"Ao refinar em +11, tempo de recarga de Garra de Tigre - 1 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Golpe Pantocrator + 5% adicional.",
-			"[Grau C] Dano de Golpe Pantocrator + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Golpe Pantocrator + 12% adicional, POW + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Soqueira^000000 Ataque: ^777777230^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Golpe Pantocrator] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Garra de Tigre] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFHP máx. +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Garra de Tigre] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Garra de Tigre] -1 segundo.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Golpe Pantocrator] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Golpe Pantocrator] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Golpe Pantocrator] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Soqueira^000000",
+			"ATQ: ^777777230^000000 ATQM: ^7777770^000000",
 			"Peso: ^777777150^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Inquisidor^000000"
+			"Classes: ^777777Inquisidores e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 78,
@@ -367550,28 +370921,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Ungula",
+		identifiedDisplayName = "Pænitentia Ungula",
 		identifiedResourceName = "Poenitentia_Ungula",
 		identifiedDescriptionName = {
-			"Soqueira que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Técnica da Mão Explosiva + 10%.",
-			"A cada 2 refinos, dano de Explosão Espiritual + 3%.",
-			"Ao refinar em +7, consumo de SP de Explosão Espiritual - 15%.",
-			"Ao refinar em +9, dano de Explosão Espiritual + 30% adicional.",
-			"Ao refinar em +11, tempo de recarga de Explosão Espiritual - 1 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Técnica da Mão Explosiva + 5% adicional.",
-			"[Grau C] Dano de Técnica da Mão Explosiva + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Técnica da Mão Explosiva + 12% adicional, POW + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Soqueira^000000 Ataque: ^777777230^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Técnica da Mão Explosiva] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Explosão Espiritual] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFCusto de SP de [Explosão Espiritual] -15%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Explosão Espiritual] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Explosão Espiritual] -1 segundo.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Técnica da Mão Explosiva] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Técnica da Mão Explosiva] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Técnica da Mão Explosiva] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Soqueira^000000",
+			"ATQ: ^777777230^000000 ATQM: ^7777770^000000",
 			"Peso: ^777777150^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Inquisidor^000000"
+			"Classes: ^777777Inquisidores e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 78,
@@ -367904,26 +371286,33 @@ tbl = {
 		unidentifiedDisplayName = "Soqueira",
 		unidentifiedResourceName = "바그낙",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Punho Precision",
+		identifiedDisplayName = "Punho Consertado",
 		identifiedResourceName = "Precision_Fist",
 		identifiedDescriptionName = {
-			"Soqueira aprimorada com precisão usando peças da Torre do Relógio.",
-			"Seu manuseio se tornou muito diferente da Soqueira Scrap original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Toque Intercessor, Golpe Pantocrator aumenta em 7%.",
-			"A cada 3 refinos, o dano de Veredicto, Soco Guilhotina aumenta em 8%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico corpo a corpo.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW +2.",
-			"[Grau C] O dano de Toque Intercessor, Golpe Pantocrator aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"Tipo : ^777777Soqueira^000000 Ataque : ^777777230^000000",
-			"Peso : ^777777140^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Inquisidor^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Golpe Pantocrator] e [Toque Intercessor] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Veredicto] e [Soco Guilhotina] +8%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Golpe Pantocrator] e [Toque Intercessor] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Soqueira^000000",
+			"ATQ: ^777777230^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Inquisidores e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 78,
@@ -368217,7 +371606,7 @@ tbl = {
 			"A cada 2 refinos:",
 			"^0000FFDano de [Atirar Rosas] +5%.^000000",
 			"A cada 4 refinos:",
-			"^0000FFDano físico a distância +2%.^000000",
+			"^0000FFDano físico à distância +2%.^000000",
 			"--------------------------",
 			"Tipo: ^777777Instrumento Musical^000000",
 			"ATQ: ^777777205^000000 ATQM: ^7777770^000000",
@@ -368236,29 +371625,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Corda",
+		identifiedDisplayName = "Pænitentia Chorda",
 		identifiedResourceName = "Poenitentia_Chorda",
 		identifiedDescriptionName = {
-			"Viola que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQM + 250.",
-			"ATQM + 10%.",
-			"Dano de Fúria Estridente(Metalic Fury) + 10%.",
-			"A cada 2 refinos, dano de Ressonância + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Ressonância + 30% adicional.",
-			"Ao refinar em +11, conjuração fixa de Ressonância - 0,5 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Fúria Estridente(Metalic Fury) + 5% adicional.",
-			"[Grau C] Dano de Fúria Estridente(Metalic Fury) + 8% adicional, S.ATQM + 1.",
-			"[Grau B] Dano de Fúria Estridente(Metalic Fury) + 12% adicional, SPL + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Instrumento Musical^000000 Ataque: ^777777220^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Fúria Estridente] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Ressonância] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ressonância] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração fixa de [Ressonância] -0,5 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Fúria Estridente] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Fúria Estridente] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Fúria Estridente] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Instrumento Musical^000000",
+			"ATQ: ^777777220^000000 ATQM: ^777777250^000000",
 			"Peso: ^777777110^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Maestro^000000"
+			"Classes: ^777777Maestros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 13,
@@ -368535,34 +371934,40 @@ tbl = {
 		unidentifiedDisplayName = "Instrumento Musical",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Alaúde Precision",
+		identifiedDisplayName = "Violino Consertado",
 		identifiedResourceName = "Precision_Lute",
 		identifiedDescriptionName = {
-			"Alaúde aprimorado com precisão usando peças da Torre do Relógio.",
-			"Seu manuseio se tornou muito diferente do Alaúde Scrap original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta em 7%.",
-			"A cada 3 refinos, o dano de Temporal de Flechas aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] CON +2.",
-			"[Grau C] O dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Instrumento Musical^000000 Ataque : ^777777220^000000",
-			"Peso : ^777777140^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Maestro^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Temporal de Flechas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFCON +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Instrumento Musical^000000",
+			"ATQ: ^777777220^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Maestros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 13,
 		costume = false
 	},
 	[570079] = {
-		unidentifiedDisplayName = "Violino",
+		unidentifiedDisplayName = "Instrumento Musical",
 		unidentifiedResourceName = "바이올린",
 		unidentifiedDescriptionName = {
 			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
@@ -368845,7 +372250,7 @@ tbl = {
 			"A cada 2 refinos:",
 			"^0000FFDano de [Atirar Rosas] +5%.^000000",
 			"A cada 4 refinos:",
-			"^0000FFDano físico a distância +2%.^000000",
+			"^0000FFDano físico à distância +2%.^000000",
 			"--------------------------",
 			"Tipo: ^777777Chicote^000000",
 			"ATQ: ^777777205^000000 ATQM: ^7777770^000000",
@@ -368864,29 +372269,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Flagellum",
+		identifiedDisplayName = "Pænitentia Flagellum",
 		identifiedResourceName = "Poenitentia_Flagellum",
 		identifiedDescriptionName = {
-			"Chicote que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQM + 250.",
-			"ATQM + 10%.",
-			"Dano de Fúria Estridente(Metalic Fury) + 10%.",
-			"A cada 2 refinos, dano de Ressonância + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Ressonância + 30% adicional.",
-			"Ao refinar em +11, conjuração fixa de Ressonância - 0,5 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Fúria Estridente(Metalic Fury) + 5% adicional.",
-			"[Grau C] Dano de Fúria Estridente(Metalic Fury) + 8% adicional, S.ATQM + 1.",
-			"[Grau B] Dano de Fúria Estridente(Metalic Fury) + 12% adicional, SPL + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Chicote^000000 Ataque: ^777777220^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Fúria Estridente] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Ressonância] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Ressonância] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFConjuração fixa de [Ressonância] -0,5 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Fúria Estridente] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Fúria Estridente] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +1.^000000",
+			"^0000FFDano de [Fúria Estridente] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Chicote^000000",
+			"ATQ: ^777777220^000000 ATQM: ^777777250^000000",
 			"Peso: ^777777110^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Diva^000000"
+			"Classes: ^777777Divas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 14,
@@ -369163,27 +372578,33 @@ tbl = {
 		unidentifiedDisplayName = "Chicote",
 		unidentifiedResourceName = "로프",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Chicote Precision",
+		identifiedDisplayName = "Chicote Consertado",
 		identifiedResourceName = "Precision_Whip",
 		identifiedDescriptionName = {
-			"Chicote aprimorado com precisão usando peças da Torre do Relógio.",
-			"Parece exigir um manejo mais preciso que o Chicote Scrap original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta em 7%.",
-			"A cada 3 refinos, o dano de Temporal de Flechas aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] CON +2.",
-			"[Grau C] O dano de Atirar Rosas(Rose Blossom), Disparo Rítmico(Rhythm Shooting) aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Chicote^000000 Ataque : ^777777220^000000",
-			"Peso : ^777777140^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Diva^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Temporal de Flechas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFCON +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Atirar Rosas] e [Disparo Rítmico] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Chicote^000000",
+			"ATQ: ^777777220^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Divas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 14,
@@ -369586,7 +373007,7 @@ tbl = {
 		identifiedDisplayName = "Cruz Decadente",
 		identifiedResourceName = "Fourth_1h_Mace",
 		identifiedDescriptionName = {
-			"Uma arma relapsa que foi absorvendo as energias do Éter, garantindo novos poderes a quem usá-la.",
+			"Uma arma que foi absorvendo as energias do Éter, garantindo novos poderes a quem usá-la.",
 			"--------------------------",
 			"A cada 2 refinos:",
 			"^0000FFDano de [Flamen] +5%.^000000",
@@ -369607,34 +373028,44 @@ tbl = {
 		costume = false
 	},
 	[590016] = {
-		unidentifiedDisplayName = "Maça",
+		unidentifiedDisplayName = "Machado",
 		unidentifiedResourceName = "메이스",
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Clava",
+		identifiedDisplayName = "Pænitentia Clava",
 		identifiedResourceName = "Poenitentia_Clava",
 		identifiedDescriptionName = {
-			"Machado que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQ + 10%.",
-			"Dano de Machado Esmagador(Axe Stomp) + 10%.",
-			"A cada 2 refinos, dano de Punho Foguete + 5%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Metralhadora + 25%.",
-			"Ao refinar em +11, dano de Canhão + 25%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano físico à distância + 2%,",
-			"[Grau C] Dano físico à distância + 3% adicional,",
-			"[Grau B] Dano de Canhão + 10% adicional. P.ATQ + 1.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Machado de Uma Mão^000000 Ataque : ^777777205^000000",
-			"Peso : ^777777180^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Engenheiro^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Machado Esmagador] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Punho Foguete] +5%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Metralhadora] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Canhão] +25%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano físico à distância +2%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano físico à distância +3% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Canhão] +10% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Machado^000000",
+			"ATQ: ^777777205^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Engenheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 6,
@@ -369646,28 +373077,40 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Pendulus",
+		identifiedDisplayName = "Pænitentia Pendulus",
 		identifiedResourceName = "Poenitentia_Pendulus",
 		identifiedDescriptionName = {
-			"Maça que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Atirar Ácido(Acidified Zone)(Fogo/Água/Vento/Terra) + 10%.",
-			"A cada 2 refinos, dano de Tornado de Carrinho + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Tornado de Carrinho + 25% adicional.",
-			"Ao refinar em +11, dano físico corpo a corpo + 10%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Atirar Ácido(Acidified Zone)(Fogo/Vento) + 5%.",
-			"[Grau C] Dano de Atirar Ácido(Acidified Zone)(Água/Terra) + 8%. P.ATQ + 1.",
-			"[Grau B] Dano de Atirar Ácido(Acidified Zone)(Fogo/Água/Vento/Terra) + 10%. POW + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Maça^000000 Ataque : ^777777195^000000",
-			"Peso : ^777777165^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Cientista^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Gasoso] [Atirar Ácido Sólido] [Atirar Ácido Álgido] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Tornado de Carrinho] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tornado de Carrinho] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico corpo a corpo +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Gasoso] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Atirar Ácido Sólido] [Atirar Ácido Álgido] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Atirar Ácido Inflamável] [Atirar Ácido Gasoso] [Atirar Ácido Sólido] [Atirar Ácido Álgido] +10% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Maça^000000",
+			"ATQ: ^777777195^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777165^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Cientistas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 62,
@@ -370004,29 +373447,35 @@ tbl = {
 		unidentifiedDisplayName = "Maça",
 		unidentifiedResourceName = "클럽",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Cruz Maldita",
+		identifiedDisplayName = "Cruz Malevolente",
 		identifiedResourceName = "Wicked_Cross",
 		identifiedDescriptionName = {
-			"Uma cruz equipada com energia impura concentrada em peças da torre do relógio.",
-			"Tornou-se ainda mais difícil de manejar do que a Cruz Decadente original.",
-			"^FFFFFF_^000000",
-			"Indestrutível.",
-			"MATK + 230.",
-			"A cada 2 refinos, dano de Flamen + 7%, eficácia de cura + 6%.",
-			"A cada 3 refinos, dano de Arbitrium + 7%.",
-			"A cada 4 refinos, dano mágico de todas as propriedades + 3%.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] SPL + 2.",
-			"[Grau C] Dano de Flamen adicionalmente + 10%.",
-			"[Grau B] S.MATK + 2.",
-			"^FFFFFF_^000000",
-			"Tipo : ^777777Maça^000000 Ataque : ^777777150^000000",
-			"Peso : ^777777140^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Classes : ^777777Cardinal^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Decadente.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Flamen] +7%.^000000",
+			"^0000FFEfetividade de cura +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Arbitrium] +7%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFFEI +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Flamen] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Maça^000000",
+			"ATQ: ^777777150^000000 ATQM: ^777777230^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Cardeais e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 62,
@@ -370336,28 +373785,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Ensis",
+		identifiedDisplayName = "Pænitentia Ensis",
 		identifiedResourceName = "Poenitentia_Ensis",
 		identifiedDescriptionName = {
-			"Espada que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Dilacerar + 10%.",
-			"A cada 2 refinos, dano de Impacto Flamejante + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Impacto Flamejante + 25% adicional.",
-			"Ao refinar em +11, tempo de recarga de Impacto Flamejante - 0,7 s,",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Dilacerar + 5% adicional,",
-			"[Grau C] Dano de Dilacerar + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Dilacerar + 12% adicional, POW + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Espada de Duas Mãos^000000 Ataque : ^777777315^000000",
-			"Peso : ^777777220^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Cavaleiro Dragão^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Dilacerar] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Impacto Flamejante] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Impacto Flamejante] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Impacto Flamejante] -0,7 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Dilacerar] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Dilacerar] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Dilacerar] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espada de Duas Mãos^000000",
+			"ATQ: ^777777315^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777220^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Cavaleiros Draconianos e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 49,
@@ -370927,7 +374387,7 @@ tbl = {
 		identifiedDisplayName = "Katar Decadente",
 		identifiedResourceName = "Fourth_Bh_Katar",
 		identifiedDescriptionName = {
-			"Uma arma relapsa que foi absorvendo as energias do Éter, garantindo novos poderes a quem usá-la.",
+			"Uma arma que foi absorvendo as energias do Éter, garantindo novos poderes a quem usá-la.",
 			"--------------------------",
 			"A cada 2 refinos:",
 			"^0000FFDano de [Impacto Cratera] +5%.^000000",
@@ -370951,28 +374411,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Manus",
+		identifiedDisplayName = "Pænitentia Manus",
 		identifiedResourceName = "Poenitentia_Manus",
 		identifiedDescriptionName = {
-			"Katar que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Impacto Cratera + 10%.",
-			"A cada 2 refinos, dano de Lâminas de Loki + 3%.",
-			"Ao refinar em +7, aumenta a velocidade de ataque (reduz o atraso após ataque em 10%).",
-			"Ao refinar em +9, dano de Lâminas de Loki + 30% adicional.",
-			"Ao refinar em +11, atraso após habilidade - 12%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Impacto Cratera + 5% adicional.",
-			"[Grau C] Dano de Impacto Cratera + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Impacto Cratera + 12% adicional, POW + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Katar^000000 Ataque: ^777777280^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Impacto Cratera] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Lâminas de Loki] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lâminas de Loki] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFPós-conjuração -12%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Impacto Cratera] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Impacto Cratera] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Impacto Cratera] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Katar^000000",
+			"ATQ: ^777777280^000000 ATQM: ^7777770^000000",
 			"Peso: ^777777190^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Shadow Cross^000000"
+			"Classes: ^777777Executores e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 16,
@@ -371331,27 +374802,33 @@ tbl = {
 		unidentifiedDisplayName = "Katar",
 		unidentifiedResourceName = "쥬르",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Katar Wicked",
+		identifiedDisplayName = "Katar Malevolente",
 		identifiedResourceName = "Wicked_Katar",
 		identifiedDescriptionName = {
-			"Katar equipado com energia impura condensada em peças da Torre do Relógio.",
-			"Tornou-se ainda mais difícil de manusear que o Katar Relapse original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Impacto Cratera aumenta em 6%.",
-			"A cada 3 refinos, o dano de Impacto Brutal(Savage Impact) aumenta em 7%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico corpo a corpo.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW +2.",
-			"[Grau C] O dano de Impacto Cratera aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Katar^000000 Ataque : ^777777280^000000",
-			"Peso : ^777777190^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Executor^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Decadente.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Impacto Cratera] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Impacto Brutal] +7%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Impacto Brutal] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Katar^000000",
+			"ATQ: ^777777280^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777190^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Executores e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 16,
@@ -371535,34 +375012,45 @@ tbl = {
 		costume = false
 	},
 	[620006] = {
-		unidentifiedDisplayName = "Machado",
+		unidentifiedDisplayName = "Machado de Duas Mãos",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Axia",
+		identifiedDisplayName = "Pænitentia Axia",
 		identifiedResourceName = "Poenitentia_Ascia",
 		identifiedDescriptionName = {
-			"Um grande Machado que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQ + 10%,",
-			"Dano de Machado Esmagador(Axe Stomp) + 10%.",
-			"A cada 2 refinos, dano de Fúria do Furacão + 3%.",
-			"Ao refinar em +7, aumenta a velocidade de ataque (reduz o atraso após ataque em 10%).",
-			"Ao refinar em +9, dano de Fúria do Furacão + 25% adicional.",
-			"Ao refinar em +11, dano físico causado a monstros de todos os tamanhos + 15%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Machado Esmagador(Axe Stomp) + 5% adicional,",
-			"[Grau C] Dano de Machado Esmagador(Axe Stomp) + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Machado Esmagador(Axe Stomp) + 12% adicional, POW + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Machado de Duas Mãos^000000 Ataque : ^777777325^000000",
-			"Peso : ^777777320^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Engenheiro^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Machado Esmagador] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Fúria do Furacão] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Fúria do Furacão] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Machado Esmagador] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Machado Esmagador] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +2.^000000",
+			"^0000FFDano de [Machado Esmagador] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Machado de Duas Mãos^000000",
+			"ATQ: ^777777325^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777320^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Engenheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 7,
@@ -371726,30 +375214,37 @@ tbl = {
 		costume = false
 	},
 	[620016] = {
-		unidentifiedDisplayName = "Machado",
+		unidentifiedDisplayName = "Machado de Duas Mãos",
 		unidentifiedResourceName = "액스",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Machado Wicked",
+		identifiedDisplayName = "Machado Malevolente",
 		identifiedResourceName = "Wicked_Axe",
 		identifiedDescriptionName = {
-			"Machado de duas mãos equipado com energia impura condensada em peças da Torre do Relógio.",
-			"Tornou-se ainda mais difícil de manusear que o Machado Relapse original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Machado Esmagador(Axe Stomp) aumenta em 7%.",
-			"A cada 3 refinos, o dano de Fúria do Furacão aumenta em 8%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico corpo a corpo.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] POW +2.",
-			"[Grau C] O dano de Machado Esmagador(Axe Stomp) aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Machado de Duas Mãos^000000 Ataque : ^777777300^000000",
-			"Peso : ^777777320^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Engenheiro^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Decadente.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Machado Esmagador] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Fúria do Furacão] +8%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico corpo a corpo +3%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Machado Esmagador] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Machado de Duas Mãos^000000",
+			"ATQ: ^777777300^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777320^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Engenheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 7,
@@ -371993,28 +375488,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Catapulta",
+		identifiedDisplayName = "Pænitentia Catapulta",
 		identifiedResourceName = "Poenitentia_Catapulta",
 		identifiedDescriptionName = {
-			"Lança que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Cólera Esmagadora + 10%.",
-			"A cada 2 refinos, dano de Lança das Mil Pontas + 3%.",
-			"A cada 3 refinos, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Lança das Mil Pontas + 25% adicional.",
-			"Ao refinar em +11, tempo de recarga de Lança das Mil Pontas - 2 s,",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Cólera Esmagadora + 5% adicional,",
-			"[Grau C] Dano de Cólera Esmagadora + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Cólera Esmagadora + 12% adicional, POW + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Lança de Duas Mãos^000000 Ataque : ^777777320^000000",
-			"Peso : ^777777230^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Cavaleiro Dragão^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Cólera Esmagadora] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Lança das Mil Pontas] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lança das Mil Pontas] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Lança das Mil Pontas] -2 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Cólera Esmagadora] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Cólera Esmagadora] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFPOD +1.^000000",
+			"^0000FFDano de [Cólera Esmagadora] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Lança de Duas Mãos^000000",
+			"ATQ: ^777777320^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777230^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Cavaleiros Draconianos e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 52,
@@ -372377,70 +375883,90 @@ tbl = {
 		costume = false
 	},
 	[640014] = {
-		unidentifiedDisplayName = "Cajado",
+		unidentifiedDisplayName = "Cajado de Duas Mãos",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Termes",
+		identifiedDisplayName = "Pænitentia Termes",
 		identifiedResourceName = "Poenitentia_Termes",
 		identifiedDescriptionName = {
-			"Cajado que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 300.",
-			"ATQM + 10%.",
-			"Dano de Flecha Escarlate, Gelo Cortante + 10%.",
-			"A cada 2 refinos, dano de Meteoro Escarlate, Zero Absoluto + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Meteoro Escarlate, Zero Absoluto + 25% adicional.",
-			"Ao refinar em +11, dano mágico de propriedade Fogo e Água + 10%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Flecha Escarlate, Gelo Cortante + 5% adicional,",
-			"[Grau C] Dano de Flecha Escarlate, Gelo Cortante + 8% adicional. S.ATQM + 1.",
-			"[Grau B] Dano de Flecha Escarlate, Gelo Cortante + 12% adicional. SPL + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Cajado de Duas Mãos^000000 Ataque : ^777777170^000000",
-			"Peso : ^777777200^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Arquimago^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Flecha Escarlate] e [Gelo Cortante] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Meteoro Escarlate] e [Zero Absoluto] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Meteoro Escarlate] e [Zero Absoluto] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de propriedade Fogo e Água +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Flecha Escarlate] e [Gelo Cortante] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Flecha Escarlate] e [Gelo Cortante] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +2.^000000",
+			"^0000FFDano de [Flecha Escarlate] e [Gelo Cortante] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado de Duas Mãos^000000",
+			"ATQ: ^777777170^000000 ATQM: ^777777300^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777200^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Magus e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 96,
 		costume = false
 	},
 	[640015] = {
-		unidentifiedDisplayName = "Cajado",
+		unidentifiedDisplayName = "Cajado de Duas Mãos",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Virga",
+		identifiedDisplayName = "Pænitentia Virga",
 		identifiedResourceName = "Poenitentia_Virga",
 		identifiedDescriptionName = {
-			"Cajado que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 300.",
-			"ATQM + 10%.",
-			"Dano de Lufada de Vento, Deslize de Pedras + 10%.",
-			"A cada 2 refinos, dano de Corrente Elétrica, Abalo Sísmico + 3%.",
-			"Ao refinar em +7, conjuração variável - 10%.",
-			"Ao refinar em +9, dano de Corrente Elétrica, Abalo Sísmico + 25% adicional.",
-			"Ao refinar em +11, dano mágico de propriedade Vento e Terra + 10%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Lufada de Vento, Deslize de Pedras + 5%,",
-			"[Grau C] Dano de Lufada de Vento, Deslize de Pedras + 8%. S.ATQM + 1.",
-			"[Grau B] Dano de Lufada de Vento, Deslize de Pedras + 12% adicional. SPL + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Cajado de Duas Mãos^000000 Ataque : ^777777170^000000",
-			"Peso : ^777777200^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Arquimago^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano mágico +10%.^000000",
+			"^0000FFDano de [Lufada de Vento] e [Deslize de Pedras] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Corrente Elétrica] e [Abalo Sísmico] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFConjuração variável -10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Corrente Elétrica] e [Abalo Sísmico] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano mágico de propriedade Vento e Terra +10%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Lufada de Vento] e [Deslize de Pedras] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFS.ATQM +1.^000000",
+			"^0000FFDano de [Lufada de Vento] e [Deslize de Pedras] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFFEI +2.^000000",
+			"^0000FFDano de [Lufada de Vento] e [Deslize de Pedras] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado de Duas Mãos^000000",
+			"ATQ: ^777777170^000000 ATQM: ^777777300^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777200^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Magus e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 96,
@@ -372776,32 +376302,37 @@ tbl = {
 		costume = false
 	},
 	[640031] = {
-		unidentifiedDisplayName = "Cajado",
+		unidentifiedDisplayName = "Cajado de Duas Mãos",
 		unidentifiedResourceName = "롯드",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Cajado Sólido",
+		identifiedDisplayName = "Báculo Solidificado",
 		identifiedResourceName = "Solid_Staff",
 		identifiedDescriptionName = {
-			"Cajado forjado com peças da Torre do Relógio refinadas e temperado com poder mágico de Éter.",
-			"Suas falhas foram corrigidas em relação ao Cajado Fortify original.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"ATQM + 290.",
-			"A cada 2 refinos, o dano de Gelo Cortante, Flecha Escarlate aumenta em 6%.",
-			"A cada 3 refinos, o dano de Cacos de Gelo aumenta em 5%.",
-			"A cada 4 refinos, aumenta em 3% o dano mágico de todos os elementos.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] SPL +2.",
-			"[Grau C] O dano de Gelo Cortante, Flecha Escarlate aumenta adicionalmente em 10%.",
-			"[Grau B] S.ATQM + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Duas Mãos Cajado^000000 Ataque : ^777777150^000000",
-			"Peso : ^777777220^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Arquimago^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Fortificada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Cacos de Gelo] +5%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFFEI +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Gelo Cortante] e [Flecha Escarlate] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFS.ATQM +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Cajado de Duas Mãos^000000",
+			"ATQ: ^777777220^000000 ATQM: ^777777290^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777250^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Magus e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 96,
@@ -372995,27 +376526,34 @@ tbl = {
 		unidentifiedDisplayName = "Shuriken Huuma",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Precision Slasher",
+		identifiedDisplayName = "Triturador Consertado",
 		identifiedResourceName = "Precision_Fuuma",
 		identifiedDescriptionName = {
-			"Shuriken Huuma aprimorado com precisão usando peças da Torre do Relógio.",
-			"Seu manuseio se tornou muito diferente do Scrap Slasher original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Shuriken Huuma-Domínio aumenta em 6%.",
-			"A cada 3 refinos, o dano de Shuriken Huuma - Demolição aumenta em 8%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] CON +2.",
-			"[Grau C] O dano de Shuriken Huuma-Domínio aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Shuriken Huuma^000000 Ataque : ^777777360^000000",
-			"Peso : ^777777230^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Huuma Aderente] +6%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Huuma Andarilho] +8%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFPOD +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Huuma Aderente] +10%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Shuriken Huuma^000000",
+			"ATQ: ^777777360^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777230^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 22,
@@ -373025,22 +376563,25 @@ tbl = {
 		unidentifiedDisplayName = "Shuriken Huuma",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Scrap Slasher",
+		identifiedDisplayName = "Triturador Descartado",
 		identifiedResourceName = "Fourth_Bh_Fuuma",
 		identifiedDescriptionName = {
-			"Arma rudimentar criada com vários sucates e pó de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Shuriken Huuma-Domínio aumenta em 5%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico à distância.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Shuriken Huuma^000000 Ataque : ^777777340^000000",
-			"Peso : ^777777220^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Uma arma feita de sucata e Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"Indestrutível.",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Huuma Aderente] +5%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Shuriken Huuma^000000",
+			"ATQ: ^777777340^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777220^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 22,
@@ -373050,31 +376591,44 @@ tbl = {
 		unidentifiedDisplayName = "Shuriken Huuma",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Shuriken Huuma Cruzado Vivatus Fides",
+		identifiedDisplayName = "Shuriken Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_C_Humma",
 		identifiedDescriptionName = {
-			"Shuriken Huuma cruzado renascido pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"O dano de Impacto Cruzado aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 18.",
-			"Ao refinar para +7, o dano de Impacto Cruzado aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, a recarga da habilidade Impacto Cruzado diminui em 2 s.",
-			"Ao refinar para +11, o dano de Impacto Cruzado aumenta adicionalmente em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico à distância.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Corte Cruzado aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, POW + 1, P.ATQ + 1.",
-			"Tipo : ^777777Shuriken Huuma^000000 Ataque : ^777777360^000000",
-			"Peso : ^777777220^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +18.^000000",
+			"--------------------------",
+			"^0000FFDano de [Impacto Cruzado] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Impacto Cruzado] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Impacto Cruzado] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Impacto Cruzado] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"POD e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Shuriken Huuma^000000",
+			"ATQ: ^777777360^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777220^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 22,
@@ -373084,30 +376638,44 @@ tbl = {
 		unidentifiedDisplayName = "Shuriken Huuma",
 		unidentifiedResourceName = "풍마_편익",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Shuriken Huuma Vivatus Fides",
+		identifiedDisplayName = "Huuma Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_Humma",
 		identifiedDescriptionName = {
-			"Shuriken Huuma renascido pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"O dano de Turbilhão de Pétalas aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 18.",
-			"Ao refinar para +7, o dano de Turbilhão de Pétalas aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, a recarga da habilidade Turbilhão de Pétalas diminui em 2 s.",
-			"Ao refinar para +11, o dano de Turbilhão de Pétalas aumenta adicionalmente em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Turbilhão de Pétalas aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, POW + 1, P.ATQ + 1.",
-			"Tipo : ^777777Shuriken Huuma^000000 Ataque : ^777777360^000000",
-			"Peso : ^777777200^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Shinkiro, Shiranui^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +18.^000000",
+			"--------------------------",
+			"^0000FFDano de [Turbilhão de Pétalas] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Turbilhão de Pétalas] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Turbilhão de Pétalas] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Turbilhão de Pétalas] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Turbilhão de Pétalas] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"POD e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Shuriken Huuma^000000",
+			"ATQ: ^777777360^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777200^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Shinkiro, Shiranui e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 22,
@@ -373583,7 +377151,7 @@ tbl = {
 			"A cada 2 refinos:",
 			"^0000FFDano de [Vendaval de Flechas] +5%.^000000",
 			"A cada 4 refinos:",
-			"^0000FFDano físico a distância +2%.^000000",
+			"^0000FFDano físico à distância +2%.^000000",
 			"--------------------------",
 			"Tipo: ^777777Arco^000000",
 			"ATQ: ^777777210^000000 ATQM: ^7777770^000000",
@@ -373602,28 +377170,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Tenon",
+		identifiedDisplayName = "Pænitentia Tenon",
 		identifiedResourceName = "Poenitentia_Tenon",
 		identifiedDescriptionName = {
-			"Arco que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Rajada Frenética(Frenzy Shot) + 10%.",
-			"A cada 2 refinos, dano de Disparo Triplo + 3%.",
-			"A cada 3 refinos, aumenta a velocidade de ataque (reduz o atraso após ataque em 5%).",
-			"Ao refinar em +9, dano de Disparo Triplo + 30% adicional.",
-			"Ao refinar em +11, dano físico à distância + 15%.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Rajada Frenética(Frenzy Shot) + 5% adicional.",
-			"[Grau C] Dano de Rajada Frenética(Frenzy Shot) + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Rajada Frenética(Frenzy Shot) + 12% adicional, CON + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Arco^000000 Ataque: ^777777250^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Rajada Frenética] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Disparo Triplo] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +5%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Triplo] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico distância +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Rajada Frenética] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Rajada Frenética] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano de [Rajada Frenética] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Arco^000000",
+			"ATQ: ^777777250^000000 ATQM: ^7777770^000000",
 			"Peso: ^777777140^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Abyss Chaser^000000"
+			"Classes: ^777777Mandraques e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 11,
@@ -373635,28 +377214,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Nerus",
+		identifiedDisplayName = "Pænitentia Nerus",
 		identifiedResourceName = "Poenitentia_Nervus",
 		identifiedDescriptionName = {
-			"Arco que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Tiro Crescente + 10%.",
-			"A cada 2 refinos, dano de Disparo Certeiro + 3%.",
-			"Ao refinar em +7, dano físico à distância + 10%.",
-			"Ao refinar em +9, dano de Disparo Certeiro + 30% adicional.",
-			"Ao refinar em +11, tempo de recarga de Disparo Certeiro - 1 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Tiro Crescente + 5% adicional.",
-			"[Grau C] Dano de Tiro Crescente + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Tiro Crescente + 12% adicional, CON + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Arco^000000 Ataque: ^777777250^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Tiro Crescente] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Disparo Certeiro] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico distância +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Disparo Certeiro] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Disparo Certeiro] -1 segundo.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Tiro Crescente] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Tiro Crescente] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano de [Tiro Crescente] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Arco^000000",
+			"ATQ: ^777777250^000000 ATQM: ^7777770^000000",
 			"Peso: ^777777140^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Falcão dos Ventos^000000"
+			"Classes: ^777777Falcões do Vento e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 11,
@@ -373668,28 +377258,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Atendo",
+		identifiedDisplayName = "Pænitentia Attendo",
 		identifiedResourceName = "Poenetentia_Attendo",
 		identifiedDescriptionName = {
-			"Arco que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Vendaval de Flechas(Gale Storm) + 10%.",
-			"A cada 2 refinos, dano de Tempestade de Flechas + 3%.",
-			"Ao refinar em +7, dano físico à distância + 10%.",
-			"Ao refinar em +9, dano de Tempestade de Flechas + 30% adicional.",
-			"Ao refinar em +11, tempo de recarga de Tempestade de Flechas - 0,7 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Vendaval de Flechas(Gale Storm) + 5% adicional.",
-			"[Grau C] Dano de Vendaval de Flechas(Gale Storm) + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Vendaval de Flechas(Gale Storm) + 12% adicional, CON + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Arco^000000 Ataque: ^777777250^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Vendaval de Flechas] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Tempestade de Flechas] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico distância +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Tempestade de Flechas] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Tempestade de Flechas] -0,7 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Vendaval de Flechas] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano de [Vendaval de Flechas] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Arco^000000",
+			"ATQ: ^777777250^000000 ATQM: ^7777770^000000",
 			"Peso: ^777777140^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Falcão dos Ventos^000000"
+			"Classes: ^777777Falcões do Vento e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 11,
@@ -373701,28 +377302,39 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Batia",
+		identifiedDisplayName = "Pænitentia Vatia",
 		identifiedResourceName = "Poenetentia_Vatia",
 		identifiedDescriptionName = {
-			"Arco que carrega a dor da separação.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"Dano de Disparo Rítmico(Rhythm Shooting) + 10%.",
-			"A cada 2 refinos, dano de Temporal de Flechas + 3%.",
-			"Ao refinar em +7, dano físico à distância + 10%.",
-			"Ao refinar em +9, dano de Temporal de Flechas + 30% adicional.",
-			"Ao refinar em +11, tempo de recarga de Temporal de Flechas - 2 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Dano de Disparo Rítmico(Rhythm Shooting) + 5% adicional.",
-			"[Grau C] Dano de Disparo Rítmico(Rhythm Shooting) + 8% adicional, P.ATQ + 1.",
-			"[Grau B] Dano de Disparo Rítmico(Rhythm Shooting) + 12% adicional, CON + 1.",
-			"^ffffff_^000000",
-			"Tipo: ^777777Arco^000000 Ataque: ^777777250^000000",
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Disparo Rítmico] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Temporal de Flechas] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico distância +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Temporal de Flechas] +30%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Temporal de Flechas] -2 segundos.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Disparo Rítmico] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Disparo Rítmico] +8% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano de [Disparo Rítmico] +12% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Arco^000000",
+			"ATQ: ^777777250^000000 ATQM: ^7777770^000000",
 			"Peso: ^777777100^000000",
 			"Nível da arma: ^7777775^000000",
 			"Nível necessário: ^777777230^000000",
-			"Equipável por: ^777777Maestro, Diva^000000"
+			"Classes: ^777777Maestros, Divas e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 11,
@@ -374189,30 +377801,36 @@ tbl = {
 		costume = false
 	},
 	[700050] = {
-		unidentifiedDisplayName = "Arco Precision",
+		unidentifiedDisplayName = "Arco",
 		unidentifiedResourceName = "보우",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Arco Precision",
+		identifiedDisplayName = "Arco Consertado",
 		identifiedResourceName = "Precision_Bow",
 		identifiedDescriptionName = {
-			"Arco aprimorado com precisão usando peças da Torre do Relógio.",
-			"Seu manuseio se tornou muito diferente do Arco Scrap original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Vendaval de Flechas(Gale Storm) aumenta em 7%.",
-			"A cada 3 refinos, o dano de Tempestade de Flechas aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] CON +2.",
-			"[Grau C] O dano de Vendaval de Flechas(Gale Storm) aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Arco^000000 Ataque : ^777777230^000000",
-			"Peso : ^777777180^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Falcão dos Ventos^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Vendaval de Flechas] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Tempestade de Flechas] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFCON +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Vendaval de Flechas] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Arco^000000",
+			"ATQ: ^777777230^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Falcões do Vento e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 11,
@@ -374558,26 +378176,33 @@ tbl = {
 		unidentifiedDisplayName = "Pistola",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Pistola Precision",
+		identifiedDisplayName = "Revólver Consertado",
 		identifiedResourceName = "Precision_Pistol",
 		identifiedDescriptionName = {
-			"Pistola aprimorada com precisão usando peças da Torre do Relógio.",
-			"Seu manuseio se tornou muito diferente da Pistola Scrap original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Disparo Único aumenta em 7%.",
-			"A cada 3 refinos, o dano de Descarregar Tambor aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] CON +2.",
-			"[Grau C] O dano de Disparo Único aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"Tipo : ^777777Revólver^000000 Ataque : ^777777250^000000",
-			"Peso : ^777777140^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Tiro Único] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Descarregar Tambor] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFCON +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Tiro Único] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Pistola^000000",
+			"ATQ: ^777777250^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777140^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 17,
@@ -374587,22 +378212,24 @@ tbl = {
 		unidentifiedDisplayName = "Pistola",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Pistola Scrap",
+		identifiedDisplayName = "Revólver Descartado",
 		identifiedResourceName = "Fourth_Revolver",
 		identifiedDescriptionName = {
-			"Arma rudimentar criada com vários sucates e pó de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Disparo Único aumenta em 6%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico à distância.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Revólver^000000 Ataque : ^777777230^000000",
-			"Peso : ^777777130^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Uma arma feita de sucata e Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Tiro Único] +6%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Pistola^000000",
+			"ATQ: ^777777230^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777130^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 17,
@@ -374612,29 +378239,41 @@ tbl = {
 		unidentifiedDisplayName = "Pistola",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Foramen",
+		identifiedDisplayName = "Pænitentia Flama",
 		identifiedResourceName = "Poenitentia_Foramen",
 		identifiedDescriptionName = {
-			"Pistola que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"O dano de Descarregar Tambor aumenta em 10%.",
-			"A cada 2 refinos, o dano de Descarregar Tambor aumenta em 3%.",
-			"Ao refinar para +7, aumenta em 10% o dano físico à distância.",
-			"Ao refinar para +9, o dano de Descarregar Tambor aumenta adicionalmente em 25%.",
-			"Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Disparo Único, Artilharia Pesada aumenta em 5%,",
-			"[Grau C] O dano de Disparo Único, Artilharia Pesada aumenta em 3%. P.ATQ + 1.",
-			"[Grau B] O dano de Disparo Único, Artilharia Pesada aumenta adicionalmente em 5%. CON + 1.",
-			"Tipo : ^777777Revólver^000000 Ataque : ^777777220^000000",
-			"Peso : ^777777120^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Tiro Único] e [Artilharia Pesada] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Descarregar Tambor] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico à distância +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Descarregar Tambor] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Tiro Único] e [Artilharia Pesada] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Tiro Único] e [Artilharia Pesada] +3% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano de [Tiro Único] e [Artilharia Pesada] +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Pistola^000000",
+			"ATQ: ^777777220^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 17,
@@ -374644,32 +378283,44 @@ tbl = {
 		unidentifiedDisplayName = "Pistola",
 		unidentifiedResourceName = "식스슈터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Revólver Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_Revolver",
 		identifiedDescriptionName = {
-			"Revólver renascido pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"O dano de Descarregar Tambor aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 18.",
-			"Ao refinar para +7, o dano de Descarregar Tambor aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, reduz em 15% o dano físico/mágico recebido de monstros de todas as raças",
-			"(Exceto jogadores).",
-			"Ao refinar para +11, o dano de Descarregar Tambor aumenta adicionalmente em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico à distância.",
-			"^ffffff_^000000",
-			"[Opções adicionais por grau]",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Descarregar Tambor aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, CON + 1, P.ATQ + 1.",
-			"Tipo : ^777777Revólver^000000 Ataque : ^777777210^000000",
-			"Peso : ^777777120^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +18.^000000",
+			"--------------------------",
+			"^0000FFDano de [Descarregar Tambor] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Descarregar Tambor] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFResistência a todas as raças de monstros +15%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Descarregar Tambor] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Descarregar Tambor] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"CON e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Pistola^000000",
+			"ATQ: ^777777210^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777120^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 17,
@@ -374793,26 +378444,33 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Piercer Precision",
+		identifiedDisplayName = "Atirador Consertado",
 		identifiedResourceName = "Precision_Rifle",
 		identifiedDescriptionName = {
-			"Rifle aprimorado com precisão usando peças da Torre do Relógio.",
-			"Seu manuseio se tornou muito diferente do Piercer Scrap original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Atirar em Espiral aumenta em 7%.",
-			"A cada 3 refinos, o dano de Execução aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] CON +2.",
-			"[Grau C] O dano de Atirar em Espiral aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"Tipo : ^777777Rifle^000000 Ataque : ^777777300^000000",
-			"Peso : ^777777180^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Atirar em Espiral] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Execução] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFCON +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Atirar em Espiral] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Rifle^000000",
+			"ATQ: ^777777300^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 18,
@@ -374822,22 +378480,24 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Piercer Scrap",
+		identifiedDisplayName = "Atirador Descartado",
 		identifiedResourceName = "Fourth_Rifle",
 		identifiedDescriptionName = {
-			"Arma rudimentar criada com vários sucates e pó de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Atirar em Espiral aumenta em 6%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico à distância.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Rifle^000000 Ataque : ^777777280^000000",
-			"Peso : ^777777160^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Uma arma feita de sucata e Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Atirar em Espiral] +6%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Rifle^000000",
+			"ATQ: ^777777280^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777160^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 18,
@@ -374847,29 +378507,42 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Penet",
+		identifiedDisplayName = "Pænitentia Penet",
 		identifiedResourceName = "Poenitentia_Penet",
 		identifiedDescriptionName = {
-			"Rifle que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"O dano de Execução aumenta em 10%.",
-			"A cada 2 refinos, o dano de Execução aumenta em 3%.",
-			"Ao refinar para +7, aumenta a velocidade de ataque (reduz o atraso após ataque em 10%).",
-			"Ao refinar para +9, o dano de Execução aumenta adicionalmente em 25%.",
-			"Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos, e a recarga da habilidade Execução diminui em 8 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Disparo Único, Atirar em Espiral aumenta em 5%,",
-			"[Grau C] O dano de Disparo Único, Atirar em Espiral aumenta em 3%. P.ATQ + 1.",
-			"[Grau B] O dano de Disparo Único, Atirar em Espiral aumenta adicionalmente em 5%. CON + 1.",
-			"Tipo : ^777777Rifle^000000 Ataque : ^777777270^000000",
-			"Peso : ^777777180^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Tiro Único] e [Atirar em Espiral] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Execução] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFVelocidade de ataque +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Execução] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Execução] -8 segundos.^000000",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Tiro Único] e [Atirar em Espiral] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Tiro Único] e [Atirar em Espiral] +3% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano de [Tiro Único] e [Atirar em Espiral] +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Rifle^000000",
+			"ATQ: ^777777270^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777180^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 18,
@@ -374879,31 +378552,44 @@ tbl = {
 		unidentifiedDisplayName = "Rifle",
 		unidentifiedResourceName = "라이플",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Rifle Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_Rifle",
 		identifiedDescriptionName = {
-			"Rifle renascido pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"Indestrutível.",
-			"O dano de Execução aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 18.",
-			"Ao refinar para +7, o dano de Execução aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, a recarga da habilidade Execução diminui em 8 s.",
-			"Ao refinar para +11, o dano de Execução aumenta adicionalmente em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico à distância.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Execução aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, CON + 1, P.ATQ + 1.",
-			"Tipo : ^777777Rifle^000000 Ataque : ^777777280^000000",
-			"Peso : ^777777150^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +18.^000000",
+			"--------------------------",
+			"^0000FFDano de [Execução] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Execução] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Execução] -8 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Execução] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Execução] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"CON e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Rifle^000000",
+			"ATQ: ^777777280^000000 ATQM: ^7777770^000000",
+			"Nota: ^777777Indestrutível em Batalha^000000",
+			"Peso: ^777777150^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 18,
@@ -375067,26 +378753,35 @@ tbl = {
 		unidentifiedDisplayName = "Espingarda",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Shatter Precision",
+		identifiedDisplayName = "Retalhador Consertado",
 		identifiedResourceName = "Precision_Shotgun",
 		identifiedDescriptionName = {
-			"Espingarda aprimorada com precisão usando peças da Torre do Relógio.",
-			"Seu manuseio se tornou muito diferente da Shatter Scrap original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Vigília Noturna aumenta em 7%.",
-			"A cada 3 refinos, o dano de Tiro Neutralizante aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] CON +2.",
-			"[Grau C] O dano de Vigília Noturna aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"Tipo : ^777777Espingarda^000000 Ataque : ^777777330^000000",
-			"Peso : ^777777220^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"^CD3278Mantém [Espalhar Dano] ativo.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Vigília Noturna] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Tiro Neutralizante] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFCON +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Vigília Noturna] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espingarda^000000",
+			"ATQ: ^777777330^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777220^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 20,
@@ -375096,22 +378791,26 @@ tbl = {
 		unidentifiedDisplayName = "Espingarda",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Shatter Scrap",
+		identifiedDisplayName = "Retalhador Descartado",
 		identifiedResourceName = "Fourth_Shotgun",
 		identifiedDescriptionName = {
-			"Arma rudimentar criada com vários sucates e pó de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Vigília Noturna aumenta em 6%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico à distância.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Espingarda^000000 Ataque : ^777777310^000000",
-			"Peso : ^777777200^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Uma arma feita de sucata e Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"^CD3278Mantém [Espalhar Dano] ativo.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Vigília Noturna] +6%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espingarda^000000",
+			"ATQ: ^777777310^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777200^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 20,
@@ -375121,31 +378820,45 @@ tbl = {
 		unidentifiedDisplayName = "Espingarda",
 		unidentifiedResourceName = "싱글샷건",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
 		identifiedDisplayName = "Espingarda Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_Shotgun",
 		identifiedDescriptionName = {
-			"Espingarda renascida pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"Ataque em área.",
-			"O dano de Rajada Estilhaçante aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 18.",
-			"Ao refinar para +7, o dano de Rajada Estilhaçante aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, a recarga da habilidade Rajada Estilhaçante diminui em 1 s.",
-			"Ao refinar para +11, o dano de Rajada Estilhaçante aumenta adicionalmente em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico à distância.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Rajada Estilhaçante aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, CON + 1, P.ATQ + 1.",
-			"Tipo : ^777777Espingarda^000000 Ataque : ^777777320^000000",
-			"Peso : ^777777200^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"^CD3278Mantém [Espalhar Dano] ativo.^000000",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +18.^000000",
+			"--------------------------",
+			"^0000FFDano de [Rajada Estilhaçante] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Rajada Estilhaçante] -1 segundo.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Rajada Estilhaçante] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"CON e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Espingarda^000000",
+			"ATQ: ^777777320^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777200^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 20,
@@ -375282,119 +378995,153 @@ tbl = {
 		costume = false
 	},
 	[830008] = {
-		unidentifiedDisplayName = "Metralhadora Gatling",
+		unidentifiedDisplayName = "Metralhadora",
 		unidentifiedResourceName = "드리프터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Splatter Precision",
+		identifiedDisplayName = "Aspersor Consertado",
 		identifiedResourceName = "Precision_Gatling",
 		identifiedDescriptionName = {
-			"Metralhadora Gatling aprimorada com precisão usando peças da Torre do Relógio.",
-			"Seu manuseio se tornou muito diferente da Splatter Scrap original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Artilharia Pesada aumenta em 7%.",
-			"A cada 3 refinos, o dano de Expurgar aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] CON +2.",
-			"[Grau C] O dano de Artilharia Pesada aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"Tipo : ^777777Metralhadora Gatling^000000 Ataque : ^777777290^000000",
-			"Peso : ^777777260^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Artilharia Pesada] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Expurgar] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFCON +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Vigília Noturna] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Metralhadora^000000",
+			"ATQ: ^777777290^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777260^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 19,
 		costume = false
 	},
 	[830009] = {
-		unidentifiedDisplayName = "Metralhadora Gatling",
+		unidentifiedDisplayName = "Metralhadora",
 		unidentifiedResourceName = "드리프터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Splatter Scrap",
+		identifiedDisplayName = "Aspersor Descartado",
 		identifiedResourceName = "Fourth_Gatling",
 		identifiedDescriptionName = {
-			"Arma rudimentar criada com vários sucates e pó de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Artilharia Pesada aumenta em 6%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico à distância.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Metralhadora Gatling^000000 Ataque : ^777777270^000000",
-			"Peso : ^777777240^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Uma arma feita de sucata e Éter, garantindo novos poderes a quem usá-la.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Artilharia Pesada] +6%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Metralhadora^000000",
+			"ATQ: ^777777270^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777240^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777200^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 19,
 		costume = false
 	},
 	[830010] = {
-		unidentifiedDisplayName = "Metralhadora Gatling",
+		unidentifiedDisplayName = "Metralhadora",
 		unidentifiedResourceName = "드리프터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Veloci",
+		identifiedDisplayName = "Pænitentia Veloci",
 		identifiedResourceName = "Poenitentia_Veloci",
 		identifiedDescriptionName = {
-			"Metralhadora Gatling que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"O dano de Expurgar aumenta em 10%.",
-			"A cada 2 refinos, o dano de Expurgar aumenta em 3%.",
-			"Ao refinar para +7, aumenta em 10% o dano físico à distância.",
-			"Ao refinar para +9, o dano de Expurgar aumenta adicionalmente em 25%.",
-			"Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Vigília Noturna, Artilharia Pesada aumenta em 5%,",
-			"[Grau C] O dano de Vigília Noturna, Artilharia Pesada aumenta em 3%. P.ATQ + 1.",
-			"[Grau B] O dano de Vigília Noturna, Artilharia Pesada aumenta adicionalmente em 5%. CON + 1.",
-			"Tipo : ^777777Metralhadora Gatling^000000 Ataque : ^777777260^000000",
-			"Peso : ^777777190^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Vigília Noturna] e [Artilharia Pesada] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Expurgar] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico a distância +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Expurgar] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Vigília Noturna] e [Artilharia Pesada] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Vigília Noturna] e [Artilharia Pesada] +3% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano de [Vigília Noturna] e [Artilharia Pesada] +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Metralhadora^000000",
+			"ATQ: ^777777260^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777190^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 19,
 		costume = false
 	},
 	[830011] = {
-		unidentifiedDisplayName = "Metralhadora Gatling",
+		unidentifiedDisplayName = "Metralhadora",
 		unidentifiedResourceName = "드리프터",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Metralhadora Gatling Vivatus Fides",
+		identifiedDisplayName = "Metralhadora Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_Gatling",
 		identifiedDescriptionName = {
-			"Metralhadora Gatling renascida pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"O dano de Expurgar aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 18.",
-			"Ao refinar para +7, o dano de Expurgar aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos.",
-			"Ao refinar para +11, o dano de Expurgar aumenta adicionalmente em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico à distância.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Expurgar aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, CON + 1, P.ATQ + 1.",
-			"Tipo : ^777777Metralhadora Gatling^000000 Ataque : ^777777250^000000",
-			"Peso : ^777777150^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +18.^000000",
+			"--------------------------",
+			"^0000FFDano de [Expurgar] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Expurgar] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Expurgar] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Expurgar] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"CON e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Metralhadora^000000",
+			"ATQ: ^777777250^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777150^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 19,
@@ -375546,120 +379293,154 @@ tbl = {
 		costume = false
 	},
 	[840004] = {
-		unidentifiedDisplayName = "Lança-granadas",
+		unidentifiedDisplayName = "Lança-Granadas",
 		unidentifiedResourceName = "디스트로이어",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Bomber Precision",
+		identifiedDisplayName = "Bombardeador Consertado",
 		identifiedResourceName = "Precision_Grenade",
 		identifiedDescriptionName = {
-			"Lança-granadas aprimorado com precisão usando peças da Torre do Relógio.",
-			"Seu manuseio se tornou muito diferente do Bomber Scrap original.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Tiroteio aumenta em 7%.",
-			"A cada 3 refinos, o dano de Arremessar Granada aumenta em 10%.",
-			"A cada 4 refinos, aumenta em 4% o dano físico à distância.",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] CON +2.",
-			"[Grau C] O dano de Tiroteio aumenta adicionalmente em 10%.",
-			"[Grau B] P.ATQ + 2.",
-			"Tipo : ^777777Lança-granadas^000000 Ataque : ^777777370^000000",
-			"Peso : ^777777330^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777220^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Fogo de Supressão] +7%.^000000",
+			"A cada 3 refinos:",
+			"^0000FFDano de [Arremessar Granada] +10%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +4%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFCON +2.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Fogo de Supressão] +7%.^000000",
+			"Grau B ou mais:",
+			"^0000FFP.ATQ +2.^000000",
+			"--------------------------",
+			"Tipo: ^777777Lança-Granadas^000000",
+			"ATQ: ^777777370^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777330^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 21,
 		costume = false
 	},
 	[840005] = {
-		unidentifiedDisplayName = "Lança-granadas",
+		unidentifiedDisplayName = "Lança-Granadas",
 		unidentifiedResourceName = "디스트로이어",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Bomber Scrap",
+		identifiedDisplayName = "Bombardeador Descartado",
 		identifiedResourceName = "Fourth_Grenade",
 		identifiedDescriptionName = {
-			"Arma rudimentar criada com vários sucates e pó de Éter.",
-			"Novas habilidades que não haviam sido descobertas começaram a surgir.",
-			"^ffffff_^000000",
-			"A cada 2 refinos, o dano de Tiroteio aumenta em 6%.",
-			"A cada 4 refinos, aumenta em 3% o dano físico à distância.",
-			"^ffffff_^000000",
-			"Tipo : ^777777Lança-granadas^000000 Ataque : ^777777350^000000",
-			"Peso : ^777777320^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777200^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma forjada com peças encontradas na Torre do Relógio. É mais forte que sua versão Descartada.",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Fogo de Supressão] +6%.^000000",
+			"A cada 4 refinos:",
+			"^0000FFDano físico à distância +3%.^000000",
+			"--------------------------",
+			"Tipo: ^777777Lança-Granadas^000000",
+			"ATQ: ^777777350^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777320^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777220^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 21,
 		costume = false
 	},
 	[840006] = {
-		unidentifiedDisplayName = "Lança-granadas",
+		unidentifiedDisplayName = "Lança-Granadas",
 		unidentifiedResourceName = "디스트로이어",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Não identificado. Pode ser identificado usando [Lupa]."
 		},
-		identifiedDisplayName = "Penitentia Ruina",
+		identifiedDisplayName = "Pænitentia Ruina",
 		identifiedResourceName = "Poenitentia_Ruina",
 		identifiedDescriptionName = {
-			"Lança-granadas que carrega a dor da separação pela morte.",
-			"^ffffff_^000000",
-			"ATQ + 10%.",
-			"O dano de Lançar Míssil aumenta em 10%.",
-			"A cada 2 refinos, o dano de Lançar Míssil aumenta em 3%.",
-			"Ao refinar para +7, aumenta em 10% o dano físico à distância.",
-			"Ao refinar para +9, o dano de Lançar Míssil aumenta adicionalmente em 25%.",
-			"Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os tamanhos. A recarga da habilidade Lançar Míssil diminui em 1 s.",
-			"^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] O dano de Atirar em Espiral, Tiroteio aumenta em 5%,",
-			"[Grau C] O dano de Atirar em Espiral, Tiroteio aumenta em 3%. P.ATQ + 1.",
-			"[Grau B] O dano de Atirar em Espiral, Tiroteio aumenta adicionalmente em 5%. CON + 1.",
-			"Tipo : ^777777Lança-granadas^000000 Ataque : ^777777370^000000",
-			"Peso : ^777777270^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777230^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma que carrega a dor da separação.",
+			"--------------------------",
+			"^0000FFDano físico +10%.^000000",
+			"^0000FFDano de [Atirar em Espiral] e [Fogo de Supressão] +10%.^000000",
+			"--------------------------",
+			"A cada 2 refinos:",
+			"^0000FFDano de [Lançar Míssil] +3%.^000000",
+			"--------------------------",
+			"Refino +7 ou mais:",
+			"^0000FFDano físico a distância +10%.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFDano de [Lançar Míssil] +25%.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFRecarga de [Lançar Míssil] -1 segundo.^000000",
+			"^0000FFDano físico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFDano de [Atirar em Espiral] e [Fogo de Supressão] +5% adicional.^000000",
+			"Grau C ou mais:",
+			"^0000FFP.ATQ +1.^000000",
+			"^0000FFDano de [Atirar em Espiral] e [Fogo de Supressão] +3% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFCON +1.^000000",
+			"^0000FFDano de [Atirar em Espiral] e [Fogo de Supressão] +5% adicional.^000000",
+			"--------------------------",
+			"Tipo: ^777777Lança-Granadas^000000",
+			"ATQ: ^777777370^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777270^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777230^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 21,
 		costume = false
 	},
 	[840007] = {
-		unidentifiedDisplayName = "Lança-granadas",
+		unidentifiedDisplayName = "Lança-Granadas",
 		unidentifiedResourceName = "디스트로이어",
 		unidentifiedDescriptionName = {
-			"Não identificado. Pode ser identificado com uma [Lupa]."
+			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
 		},
-		identifiedDisplayName = "Lançador Vivatus Fides",
+		identifiedDisplayName = "Granadeira Vivatus Fides",
 		identifiedResourceName = "Vivatus_F_Launcher",
 		identifiedDescriptionName = {
-			"",
-			"Lançador renascido pelo poder da fé verdadeira através de um ritual de purificação.",
-			"^ffffff_^000000",
-			"O dano de Lançar Míssil aumenta em 10%.",
-			"A cada 3 refinos, ATQ + 18.",
-			"Ao refinar para +7, o dano de Lançar Míssil aumenta adicionalmente em 20%.",
-			"Ao refinar para +9, a recarga da habilidade Lançar Míssil diminui em 2 s.",
-			"Ao refinar para +11, o dano de Lançar Míssil aumenta adicionalmente em 25%.",
-			"Ao refinar para +12, aumenta em 15% o dano físico à distância.",
-			"_^ffffff_^000000",
-			"^CC3D3D[Opções adicionais por grau]^000000",
-			"[Grau D] Ao refinar para +11, aumenta em 15% o dano físico causado a inimigos de todos os elementos.",
-			"[Grau C] O dano de Lançar Míssil aumenta adicionalmente em 15%.",
-			"[Grau B] ATQ + 7%.",
-			"[Grau A] A cada 3 refinos, CON + 1, P.ATQ + 1.",
-			"Tipo : ^777777Lança-granadas^000000 Ataque : ^777777350^000000",
-			"Peso : ^777777300^000000",
-			"Nível da arma : ^7777775^000000",
-			"Nível necessário : ^777777210^000000",
-			"Equipável por : ^777777Guerrilheiro^000000"
+			"Arma que contém o poder de uma fé verdadeira.",
+			"--------------------------",
+			"A cada 3 refinos:",
+			"^0000FFATQ +18.^000000",
+			"--------------------------",
+			"^0000FFDano de [Lançar Míssil] +10%.^000000",
+			"Refino +7 ou mais:",
+			"^0000FFDano de [Lançar Míssil] +20% adicional.^000000",
+			"Refino +9 ou mais:",
+			"^0000FFRecarga de [Lançar Míssil] -2 segundos.^000000",
+			"Refino +11 ou mais:",
+			"^0000FFDano de [Lançar Míssil] +25% adicional.^000000",
+			"Refino +12 ou mais:",
+			"^0000FFDano físico à distância +15%.^000000",
+			"--------------------------",
+			"Grau D ou mais:",
+			"^0000FFRefino +11 ou mais:",
+			"Dano físico contra oponentes de todas as propriedades +15%.^000000",
+			"Grau C ou mais:",
+			"^0000FFDano de [Lançar Míssil] +15% adicional.^000000",
+			"Grau B ou mais:",
+			"^0000FFDano físico +7%.^000000",
+			"Grau A ou mais:",
+			"^0000FFA cada 3 refinos:",
+			"CON e P.ATQ +1.^000000",
+			"--------------------------",
+			"Tipo: ^777777Lança-Granadas^000000",
+			"ATQ: ^777777350^000000 ATQM: ^7777770^000000",
+			"Peso: ^777777300^000000",
+			"Nível da arma: ^7777775^000000",
+			"Nível necessário: ^777777210^000000",
+			"Classes: ^777777Guerrilheiros e evoluções^000000"
 		},
 		slotCount = 2,
 		ClassNum = 21,
@@ -382727,14 +386508,18 @@ tbl = {
 		unidentifiedResourceName = "Mine_As",
 		unidentifiedDescriptionName = {
 			"Uma joia formada por sentimentos de arrependimento remanescentes.",
-			"Parece que pode ser trocada por algo através do ^ffffff<NAVI>^4D4DFF[Marquês do Arrependimento]^000000<INFO>dali02,78,112,0,100,0,0</INFO></NAVI>^000000.",
+			"--------------------------",
+			"<NAVI>[Trocas]<INFO>dali02,78,112,0,100,0,0</INFO></NAVI>.",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		identifiedDisplayName = "Mineas",
 		identifiedResourceName = "Mine_As",
 		identifiedDescriptionName = {
 			"Uma joia formada por sentimentos de arrependimento remanescentes.",
-			"Parece que pode ser trocada por algo através do ^ffffff<NAVI>^4D4DFF[Marquês do Arrependimento]^000000<INFO>dali02,78,112,0,100,0,0</INFO></NAVI>^000000.",
+			"--------------------------",
+			"<NAVI>[Trocas]<INFO>dali02,78,112,0,100,0,0</INFO></NAVI>.",
+			"--------------------------",
 			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -383085,14 +386870,14 @@ tbl = {
 		unidentifiedDisplayName = "Pó de Meteorito do Poder",
 		unidentifiedResourceName = "Pow_Meteorite_Dust",
 		unidentifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Pó de Meteorito do Poder",
 		identifiedResourceName = "Pow_Meteorite_Dust",
 		identifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -383104,14 +386889,14 @@ tbl = {
 		unidentifiedDisplayName = "Pó de Meteorito da Stamina",
 		unidentifiedResourceName = "Sta_Meteorite_Dust",
 		unidentifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Pó de Meteorito da Stamina",
 		identifiedResourceName = "Sta_Meteorite_Dust",
 		identifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -383123,14 +386908,14 @@ tbl = {
 		unidentifiedDisplayName = "Pó de Meteorito da Concentração",
 		unidentifiedResourceName = "Con_Meteorite_Dust",
 		unidentifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Pó de Meteorito da Concentração",
 		identifiedResourceName = "Con_Meteorite_Dust",
 		identifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -383142,14 +386927,14 @@ tbl = {
 		unidentifiedDisplayName = "Pó de Meteorito da Criatividade",
 		unidentifiedResourceName = "Crt_Meteorite_Dust",
 		unidentifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Pó de Meteorito da Criatividade",
 		identifiedResourceName = "Crt_Meteorite_Dust",
 		identifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -383161,14 +386946,14 @@ tbl = {
 		unidentifiedDisplayName = "Pó de Meteorito do Feitiço",
 		unidentifiedResourceName = "Spl_Meteorite_Dust",
 		unidentifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Pó de Meteorito do Feitiço",
 		identifiedResourceName = "Spl_Meteorite_Dust",
 		identifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -383180,14 +386965,14 @@ tbl = {
 		unidentifiedDisplayName = "Pó de Meteorito da Sabedoria",
 		unidentifiedResourceName = "Wis_Meteorite_Dust",
 		unidentifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Pó de Meteorito da Sabedoria",
 		identifiedResourceName = "Wis_Meteorite_Dust",
 		identifiedDescriptionName = {
-			"A poeira de um meteoro encontrado em uma Torre misteriosa.",
+			"A poeira de um meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -383663,7 +387448,7 @@ tbl = {
 		identifiedDisplayName = "Semijoia Inferior de Arma",
 		identifiedResourceName = "Weapon_Stone_1",
 		identifiedDescriptionName = {
-			"Material necessário para reformar Armas. Tem uma qualidade ruim.",
+			"Pedra talhada e polida a partir de Mineral Inferior de Arma. Necessária para reformar Armas. Tem uma qualidade ruim.",
 			"--------------------------",
 			"<NAVI>[Laboratório]<INFO>rgsr_in,131,187,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
@@ -383686,7 +387471,7 @@ tbl = {
 		identifiedDisplayName = "Semijoia Comum de Arma",
 		identifiedResourceName = "Weapon_Stone_2",
 		identifiedDescriptionName = {
-			"Material necessário para reformar Armas. Tem uma qualidade boa.",
+			"Pedra talhada e polida a partir de Mineral Comum de Arma. Necessária para reformar Armas. Tem uma qualidade boa.",
 			"--------------------------",
 			"<NAVI>[Laboratório]<INFO>rgsr_in,131,187,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
@@ -383755,7 +387540,7 @@ tbl = {
 		identifiedDisplayName = "Semijoia Inferior de Armadura",
 		identifiedResourceName = "Armor_Stone_1",
 		identifiedDescriptionName = {
-			"Material necessário para reformar Armaduras. Tem uma qualidade ruim.",
+			"Pedra talhada e polida a partir de Mineral Inferior de Armadura. Necessária para reformar Armaduras. Tem uma qualidade ruim.",
 			"--------------------------",
 			"<NAVI>[Laboratório]<INFO>rgsr_in,131,187,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
@@ -383778,7 +387563,7 @@ tbl = {
 		identifiedDisplayName = "Semijoia Comum de Armadura",
 		identifiedResourceName = "Armor_Stone_2",
 		identifiedDescriptionName = {
-			"Material necessário para reformar Armaduras. Tem uma qualidade boa.",
+			"Pedra talhada e polida a partir de Mineral Comum de Armadura. Necessária para reformar Armaduras. Tem uma qualidade boa.",
 			"--------------------------",
 			"<NAVI>[Laboratório]<INFO>rgsr_in,131,187,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
@@ -383930,14 +387715,14 @@ tbl = {
 		unidentifiedDisplayName = "Fragmento de Meteorito do Poder",
 		unidentifiedResourceName = "Pow_Meteorite_Fragment",
 		unidentifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Fragmento de Meteorito do Poder",
 		identifiedResourceName = "Pow_Meteorite_Fragment",
 		identifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -383949,14 +387734,14 @@ tbl = {
 		unidentifiedDisplayName = "Pó de Meteorito da Stamina",
 		unidentifiedResourceName = "Sta_Meteorite_Fragment",
 		unidentifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Fragmento de Meteorito da Stamina",
 		identifiedResourceName = "Sta_Meteorite_Fragment",
 		identifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -383968,14 +387753,14 @@ tbl = {
 		unidentifiedDisplayName = "Fragmento de Meteorito da Concentração",
 		unidentifiedResourceName = "Con_Meteorite_Fragment",
 		unidentifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Fragmento de Meteorito da Concentração",
 		identifiedResourceName = "Con_Meteorite_Fragment",
 		identifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -383987,14 +387772,14 @@ tbl = {
 		unidentifiedDisplayName = "Fragmento de Meteorito da Criatividade",
 		unidentifiedResourceName = "Crt_Meteorite_Fragment",
 		unidentifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Fragmento de Meteorito da Criatividade",
 		identifiedResourceName = "Crt_Meteorite_Fragment",
 		identifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -384006,14 +387791,14 @@ tbl = {
 		unidentifiedDisplayName = "Fragmento de Meteorito do Feitiço",
 		unidentifiedResourceName = "Spl_Meteorite_Fragment",
 		unidentifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Fragmento de Meteorito do Feitiço",
 		identifiedResourceName = "Spl_Meteorite_Fragment",
 		identifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -384025,14 +387810,14 @@ tbl = {
 		unidentifiedDisplayName = "Fragmento de Meteorito da Sabedoria",
 		unidentifiedResourceName = "Wis_Meteorite_Fragment",
 		unidentifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Fragmento de Meteorito da Sabedoria",
 		identifiedResourceName = "Wis_Meteorite_Fragment",
 		identifiedDescriptionName = {
-			"Um fragmento de meteoro encontrado em uma Torre misteriosa.",
+			"Um fragmento de meteorito encontrado em uma Torre misteriosa.",
 			"--------------------------",
 			"Peso: ^7777770,1^000000"
 		},
@@ -384968,6 +388753,105 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1000521] = {
+		unidentifiedDisplayName = "Pedra de Fixa -0,1 (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^000000Conjuração fixa -0,1 segundo.^000000 ",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Fixa -0,1 (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^000000Conjuração fixa -0,1 segundo.^000000 ",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000523] = {
+		unidentifiedDisplayName = "Pedra de Alcance (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^000000Dano físico a distância +4%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Topo)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Meio)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Baixo)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Alcance (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^000000Dano físico a distância +4%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Topo)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Meio)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Alcance (Baixo)^000000",
+			"^000000Dano físico a distância +2% adicional.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000525] = {
+		unidentifiedDisplayName = "Pedra de Absorção de SP (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000001% de chance de converter 1% do dano físico causado em SP.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Absorção de SP (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000001% de chance de converter 1% do dano físico causado em SP.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1000552] = {
 		unidentifiedDisplayName = "Água Profanada",
 		unidentifiedResourceName = "Evil_Water",
@@ -384990,128 +388874,179 @@ tbl = {
 		costume = false
 	},
 	[1000563] = {
-		unidentifiedDisplayName = "Talismã de Espírito",
+		unidentifiedDisplayName = "Talismã Espiritual",
 		unidentifiedResourceName = "Soa_Charm",
 		unidentifiedDescriptionName = {
 			"Um talismã usado para guiar espíritos.",
-			"",
-			"Peso : ^7777770.1^000000"
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Talismã de Espírito",
+		identifiedDisplayName = "Talismã Espiritual",
 		identifiedResourceName = "Soa_Charm",
 		identifiedDescriptionName = {
 			"Um talismã usado para guiar espíritos.",
-			"Peso : ^7777770.1^000000"
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000564] = {
-		unidentifiedDisplayName = "Granada para Arremesso",
+		unidentifiedDisplayName = "Explosivo",
 		unidentifiedResourceName = "Nw_Grenade",
 		unidentifiedDescriptionName = {
-			"Uma granada com considerável poder explosivo.",
-			"O dispositivo de segurança é apenas o pino; por isso, é bastante perigosa. Só usuários experientes da Night Watch podem utilizá-la.",
-			"",
-			"Peso : ^7777770.1^000000"
+			"Bomba de fabricação caseira que parece ser uma Granada. O dispositivo de segurança é apenas um pino e, por isso, é bastante perigosa.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Granada para Arremesso",
+		identifiedDisplayName = "Explosivo",
 		identifiedResourceName = "Nw_Grenade",
 		identifiedDescriptionName = {
-			"Uma granada com considerável poder explosivo.",
-			"O dispositivo de segurança é apenas o pino; por isso, é bastante perigosa. Só usuários experientes da Night Watch podem utilizá-la.",
-			"Peso : ^7777770.1^000000"
+			"Bomba de fabricação caseira que parece ser uma Granada. O dispositivo de segurança é apenas um pino e, por isso, é bastante perigosa.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000565] = {
-		unidentifiedDisplayName = "Névoa de Tinta Escura",
+		unidentifiedDisplayName = "Bruma das Trevas",
 		unidentifiedResourceName = "SS_Charm",
 		unidentifiedDescriptionName = {
-			"Uma névoa sombria que carrega uma energia escura. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina das trevas. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Névoa de Tinta Escura",
+		identifiedDisplayName = "Bruma das Trevas",
 		identifiedResourceName = "SS_Charm",
 		identifiedDescriptionName = {
-			"Uma névoa sombria que carrega uma energia escura. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina das trevas. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000566] = {
-		unidentifiedDisplayName = "Névoa de Chamas Rubras",
+		unidentifiedDisplayName = "Bruma das Chamas",
 		unidentifiedResourceName = "SS_Charm_F",
 		unidentifiedDescriptionName = {
-			"Uma névoa que carrega a energia de um rubor em chamas. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina da Chama Vermelha. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Névoa de Chamas Rubras",
+		identifiedDisplayName = "Bruma das Chamas",
 		identifiedResourceName = "SS_Charm_F",
 		identifiedDescriptionName = {
-			"Uma névoa que carrega a energia de um rubor em chamas. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina da Chama Vermelha. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000567] = {
-		unidentifiedDisplayName = "Névoa de Gelo e Neve",
+		unidentifiedDisplayName = "Bruma da Neve",
 		unidentifiedResourceName = "SS_Charm_W",
 		unidentifiedDescriptionName = {
-			"Uma névoa que carrega a energia do frio congelante. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina da Neve. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Névoa de Gelo e Neve",
+		identifiedDisplayName = "Bruma da Neve",
 		identifiedResourceName = "SS_Charm_W",
 		identifiedDescriptionName = {
-			"Uma névoa que carrega a energia do frio congelante. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina da Neve. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000568] = {
-		unidentifiedDisplayName = "Névoa da Terra",
+		unidentifiedDisplayName = "Bruma da Terra",
 		unidentifiedResourceName = "SS_Charm_G",
 		unidentifiedDescriptionName = {
-			"Uma névoa que carrega a energia firme da terra. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina da Terra. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Névoa da Terra",
+		identifiedDisplayName = "Bruma da Terra",
 		identifiedResourceName = "SS_Charm_G",
 		identifiedDescriptionName = {
-			"Uma névoa que carrega a energia firme da terra. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina da Terra. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000569] = {
-		unidentifiedDisplayName = "Névoa do Vento Cortante",
+		unidentifiedDisplayName = "Bruma da Trovoada",
 		unidentifiedResourceName = "SS_Charm_L",
 		unidentifiedDescriptionName = {
-			"Uma névoa que carrega a energia de ventos cortantes. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina da Trovoada. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Névoa do Vento Cortante",
+		identifiedDisplayName = "Bruma da Trovoada",
 		identifiedResourceName = "SS_Charm_L",
 		identifiedDescriptionName = {
-			"Uma névoa que carrega a energia de ventos cortantes. Parece difícil de controlar para quem não é um ninja habilidoso.",
-			"Peso : ^7777770.1^000000"
+			"Frasco contendo uma fina camada de neblina da Trovoada. Apenas ninjas habilidosos conseguem manusear isso.",
+			"-------------------------",
+			"Peso : ^7777770,1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000570] = {
+		unidentifiedDisplayName = "Cupom Farfalle­",
+		unidentifiedResourceName = "g링교환티켓",
+		unidentifiedDescriptionName = {
+			"Um certificado que atesta sua participação no Festival do Macarrão. Você pode usá-lo para <NAVI>[Trocar por prêmios]<INFO>lasagna,86,207,0,101,0</INFO></NAVI>.",
+			"-------------------------",
+			"^FF0000Será deletado no final do evento.^000000",
+			"-------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Cupom Farfalle­",
+		identifiedResourceName = "g링교환티켓",
+		identifiedDescriptionName = {
+			"Um certificado que atesta sua participação no Festival do Macarrão. Você pode usá-lo para <NAVI>[Trocar por prêmios]<INFO>lasagna,86,207,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"^ff0000Será deletado no final do evento.^000000",
+			"-------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000571] = {
+		unidentifiedDisplayName = "Botão de Estrela",
+		unidentifiedResourceName = "별모양장식",
+		unidentifiedDescriptionName = {
+			"Um cristal em forma de estrela. Assemelha-se ao botão de estrela que os Patinhos gostam.",
+			"-------------------------",
+			"^ff0000Será deletado no final do evento.^000000",
+			"-------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Botão de Estrela",
+		identifiedResourceName = "별모양장식",
+		identifiedDescriptionName = {
+			"Um cristal em forma de estrela. Assemelha-se ao botão de estrela que os Patinhos gostam.",
+			"-------------------------",
+			"^ff0000Será deletado no final do evento.^000000",
+			"-------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -385133,6 +389068,397 @@ tbl = {
 			"^0000ffUse para escolher sua classe.^000000",
 			"--------------------------",
 			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000610] = {
+		unidentifiedDisplayName = "Pedra de Cavaleiro Rúnico (Topo)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Adestrar Dragão]:",
+			"^000000Dano crítico +2%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000Conjuração variável -10%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Lança das Mil Pontas] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Cavaleiro Rúnico (Topo)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Adestrar Dragão]:",
+			"^000000Dano crítico +2%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000Conjuração variável -10%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Lança das Mil Pontas] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000611] = {
+		unidentifiedDisplayName = "Pedra de Cavaleiro Rúnico (Meio)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada 2 níveis de [Perícia em Runas]:",
+			"^000000Dano físico a distância +1%.^000000",
+			"^000000Dano físico corpo a corpo +1%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000Dano de [Sopro do Dragão] e [Bafo do Dragão] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Onda de Choque] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Cavaleiro Rúnico (Meio)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada 2 níveis de [Perícia em Runas]:",
+			"^000000Dano físico a distância +1%.^000000",
+			"^000000Dano físico corpo a corpo +1%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000Dano de [Sopro do Dragão] e [Bafo do Dragão] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Onda de Choque] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000612] = {
+		unidentifiedDisplayName = "Pedra de Cavaleiro Rúnico (Baixo)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Encantar Lâmina]:",
+			"^000000Dano de [Vento Cortante] +5%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000HP e SP máx. +10%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Impacto Flamejante] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Cavaleiro Rúnico (Baixo)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Encantar Lâmina]:",
+			"^000000Dano de [Vento Cortante] +5%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico (Capa)^000000",
+			"^000000HP e SP máx. +10%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Cavaleiro Rúnico II (Capa)^000000",
+			"^000000Dano de [Impacto Flamejante] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000613] = {
+		unidentifiedDisplayName = "Pedra de Arcano (Topo)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Impacto Espiritual]:",
+			"^000000Dano mágico de todas as propriedades +2%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Impacto Espiritual] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Esquife de Gelo] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Arcano (Topo)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Impacto Espiritual]:",
+			"^000000Dano mágico de todas as propriedades +2%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Impacto Espiritual] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Esquife de Gelo] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000614] = {
+		unidentifiedDisplayName = "Pedra de Arcano (Meio)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Cometa]:",
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Meteoro Escarlate] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Esquife de Gelo] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Arcano (Meio)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Cometa]:",
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Meteoro Escarlate] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Esquife de Gelo] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000615] = {
+		unidentifiedDisplayName = "Pedra de Arcano (Baixo)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Corrente Elétrica]:",
+			"^000000Pós-conjuração -1%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Corrente Elétrica] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Cometa] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Arcano (Baixo)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Corrente Elétrica]:",
+			"^000000Pós-conjuração -1%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Corrente Elétrica] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Cometa] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000616] = {
+		unidentifiedDisplayName = "Pedra de Guardião Real (Topo)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Consagração]:",
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Disparo Perfurante] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Luz da Criação] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Guardião Real (Topo)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Consagração]:",
+			"^000000Conjuração fixa -0,1 segundo.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Disparo Perfurante] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Dano de [Luz da Criação] +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000617] = {
+		unidentifiedDisplayName = "Pedra de Guardião Real (Meio)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Devoção]:",
+			"^000000Dano físico a distância +2%.^000000",
+			"^000000Dano mágico de todas as propriedades +2%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Toque do Oblívio] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Custo de SP de [Luz da Criação] -15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Guardião Real (Meio)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Devoção]:",
+			"^000000Dano físico a distância +2%.^000000",
+			"^000000Dano mágico de todas as propriedades +2%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano (Capa)^000000",
+			"^000000Dano de [Toque do Oblívio] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Arcano II (Capa)^000000",
+			"^000000Custo de SP de [Luz da Criação] -15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000618] = {
+		unidentifiedDisplayName = "Pedra de Guardião Real (Baixo)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Espiral Lunar]:",
+			"^000000Dano de [Lança do Destino] +5%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Guardião Real (Capa)^000000",
+			"^000000Dano de [Disparo Perfurante] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Guardião Real II (Capa)^000000",
+			"^000000Dano mágico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Guardião Real (Baixo)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"A cada nível de [Espiral Lunar]:",
+			"^000000Dano de [Lança do Destino] +5%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Guardião Real (Capa)^000000",
+			"^000000Dano de [Disparo Perfurante] +15%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Guardião Real II (Capa)^000000",
+			"^000000Dano mágico contra todos os tamanhos +15%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -385246,14 +389572,19 @@ tbl = {
 		unidentifiedResourceName = "ClockTower_Lead",
 		unidentifiedDescriptionName = {
 			"Fragmento de metal que parece ter caído de uma máquina antiga.",
-			"",
-			"Peso : ^7777770^000000"
+			"--------------------------",
+			"<NAVI>[Fabricação]<INFO>c_tower1,243,202,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		identifiedDisplayName = "Pedaço de Chumbo",
 		identifiedResourceName = "ClockTower_Lead",
 		identifiedDescriptionName = {
 			"Fragmento de metal que parece ter caído de uma máquina antiga.",
-			"Peso : ^7777770^000000"
+			"--------------------------",
+			"<NAVI>[Fabricação]<INFO>c_tower1,243,202,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -385264,16 +389595,19 @@ tbl = {
 		unidentifiedResourceName = "ClockTower_Gear",
 		unidentifiedDescriptionName = {
 			"Fragmento de metal que parece ter caído de uma máquina antiga.",
-			"Parece estar relativamente intacto.",
-			"",
-			"Peso : ^7777770^000000"
+			"--------------------------",
+			"<NAVI>[Fabricação]<INFO>c_tower1,243,202,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		identifiedDisplayName = "Engrenagem de Relógio",
 		identifiedResourceName = "ClockTower_Gear",
 		identifiedDescriptionName = {
 			"Fragmento de metal que parece ter caído de uma máquina antiga.",
-			"Parece estar relativamente intacto.",
-			"Peso : ^7777770^000000"
+			"--------------------------",
+			"<NAVI>[Fabricação]<INFO>c_tower1,243,202,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -385287,214 +389621,287 @@ tbl = {
 		},
 		identifiedDisplayName = "Afinador",
 		identifiedResourceName = "",
-		identifiedDescriptionName = {},
+		identifiedDescriptionName = {
+			"Não visível para os jogadores"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000684] = {
+		unidentifiedDisplayName = "Mapa de orientação para a promoção da 2.ª classe superior",
+		unidentifiedResourceName = "도심지도",
+		unidentifiedDescriptionName = {
+			"Para os aventureiros do grupo de profissões ampliadas que atingiram o nível 200, informamos os locais de promoção onde é possível se transferir para a 2.ª classe superior.",
+			"Condições para a promoção: BaseLV 200, JobLv no nível máximo",
+			"^000088[Guia de profissões para promoção disponível]^000000",
+			"Rebellion^ffffff<NAVI>^4D4DFF[Vigia Noturna]^000000<INFO>einbroch,313,324,0,100,0,0</INFO></NAVI>^000000",
+			"Imperador Sagrado^ffffff<NAVI>^4D4DFF[Emperador do Céu]^000000<INFO>payon,213,202,0,100,0,0</INFO></NAVI>^000000",
+			"Ceifador de Almas^ffffff<NAVI>^4D4DFF[Guia Espiritual]^000000<INFO>payon,197,119,0,100,0,0</INFO></NAVI>^000000",
+			"Kagerou, Oboro^ffffff<NAVI>^4D4DFF[Shinkiro, Shiranui]^000000<INFO>amatsu,82,118,0,100,0,0</INFO></NAVI>^000000",
+			"Invocador^ffffff<NAVI>^4D4DFF[Mestre dos Espíritos]^000000<INFO>payon,165,116,0,100,0,0</INFO></NAVI>^000000",
+			"Noviço Super^ffffff<NAVI>^4D4DFF[Noviço Hiper]^000000<INFO>aldebaran,110,70,0,100,0,0</INFO></NAVI>^000000"
+		},
+		identifiedDisplayName = "Mapa de orientação para a promoção da 2.ª classe superior",
+		identifiedResourceName = "도심지도",
+		identifiedDescriptionName = {
+			"Para os aventureiros do grupo de profissões ampliadas que atingiram o nível 200, informamos os locais de promoção onde é possível se transferir para a 2.ª classe superior.",
+			"Condições para a promoção: BaseLV 200, JobLv no nível máximo",
+			"^000088[Guia de profissões para promoção disponível]^000000",
+			"Rebellion^ffffff<NAVI>^4D4DFF[Vigia Noturna]^000000<INFO>einbroch,313,324,0,100,0,0</INFO></NAVI>^000000",
+			"Imperador Sagrado^ffffff<NAVI>^4D4DFF[Emperador do Céu]^000000<INFO>payon,213,202,0,100,0,0</INFO></NAVI>^000000",
+			"Ceifador de Almas^ffffff<NAVI>^4D4DFF[Guia Espiritual]^000000<INFO>payon,197,119,0,100,0,0</INFO></NAVI>^000000",
+			"Kagerou, Oboro^ffffff<NAVI>^4D4DFF[Shinkiro, Shiranui]^000000<INFO>amatsu,82,118,0,100,0,0</INFO></NAVI>^000000",
+			"Invocador^ffffff<NAVI>^4D4DFF[Mestre dos Espíritos]^000000<INFO>payon,165,116,0,100,0,0</INFO></NAVI>^000000",
+			"Noviço Super^ffffff<NAVI>^4D4DFF[Noviço Hiper]^000000<INFO>aldebaran,110,70,0,100,0,0</INFO></NAVI>^000000",
+			"Peso: ^7777770^000000"
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000685] = {
-		unidentifiedDisplayName = "Diagrama Fides Shuriken Huuma",
+		unidentifiedDisplayName = "Esboço de Shuriken",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Shuriken Vento Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Shuriken Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Shuriken Huuma",
+		identifiedDisplayName = "Esboço de Shuriken",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Shuriken Vento Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Shuriken Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000686] = {
-		unidentifiedDisplayName = "Diagrama Fides Shuriken Huuma Cruzado",
+		unidentifiedDisplayName = "Esboço de Huuma",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Shuriken Cruzado Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Huuma Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Shuriken Huuma Cruzado",
+		identifiedDisplayName = "Esboço de Huuma",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Shuriken Cruzado Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Huuma Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000687] = {
-		unidentifiedDisplayName = "Diagrama Fides Revólver",
+		unidentifiedDisplayName = "Esboço de Revólver",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Revólver Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Revólver Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Revólver",
+		identifiedDisplayName = "Esboço de Revólver",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Revólver Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Revólver Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000688] = {
-		unidentifiedDisplayName = "Diagrama Fides Espingarda",
+		unidentifiedDisplayName = "Esboço de Espingarda",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Espingarda Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Espingarda Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Espingarda",
+		identifiedDisplayName = "Esboço de Espingarda",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Espingarda Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Espingarda Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000689] = {
-		unidentifiedDisplayName = "Diagrama Fides Rifle",
+		unidentifiedDisplayName = "Esboço de Rifle",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Rifle Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Rifle Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Rifle",
+		identifiedDisplayName = "Esboço de Rifle",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Rifle Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Rifle Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000690] = {
-		unidentifiedDisplayName = "Diagrama Fides Metralhadora Gatling",
+		unidentifiedDisplayName = "Esboço de Metralhadora",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Gatling Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Metralhadora Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Metralhadora Gatling",
+		identifiedDisplayName = "Esboço de Metralhadora",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Gatling Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Metralhadora Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000691] = {
-		unidentifiedDisplayName = "Diagrama Fides Lança-granadas",
+		unidentifiedDisplayName = "Esboço de Granadeira",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Lançador Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Granadeira Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Lança-granadas",
+		identifiedDisplayName = "Esboço de Granadeira",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Lançador Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Granadeira Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000692] = {
-		unidentifiedDisplayName = "Diagrama Fides Livro Lunar",
+		unidentifiedDisplayName = "Esboço de Manual",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Livro Lunar Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Manual Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Livro Lunar",
+		identifiedDisplayName = "Esboço de Manual",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Livro Lunar Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Manual Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000693] = {
-		unidentifiedDisplayName = "Diagrama Fides Livro de Poeira Estelar",
+		unidentifiedDisplayName = "Esboço de Compêndio",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Livro Estelar Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Compêndio Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Livro de Poeira Estelar",
+		identifiedDisplayName = "Esboço de Compêndio",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Livro Estelar Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Compêndio Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000694] = {
-		unidentifiedDisplayName = "Diagrama Fides Cetro da Alma",
+		unidentifiedDisplayName = "Esboço de Cajado",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Bastão Espiritual Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Cajado Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Cetro da Alma",
+		identifiedDisplayName = "Esboço de Cajado",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Bastão Espiritual Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Cajado Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000695] = {
-		unidentifiedDisplayName = "Diagrama Fides Varinha Sombria",
+		unidentifiedDisplayName = "Esboço de Varinha",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Varinha Sombria Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Varinha Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Varinha Sombria",
+		identifiedDisplayName = "Esboço de Varinha",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Varinha Sombria Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Varinha Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000696] = {
-		unidentifiedDisplayName = "Diagrama Fides Varinha Cauda de Raposa",
+		unidentifiedDisplayName = "Esboço de Cauda de Gato",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Foxtail Varinha Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Cauda de Gato Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Varinha Cauda de Raposa",
+		identifiedDisplayName = "Esboço de Cauda de Gato",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Foxtail Varinha Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar a Cauda de Gato Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000697] = {
-		unidentifiedDisplayName = "Diagrama Fides Modelo Cauda de Raposa",
+		unidentifiedDisplayName = "Esboço de Rabo-de-Gato",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Foxtail Modelo Adulter Fides."
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Rabo-de-Gato Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
-		identifiedDisplayName = "Diagrama Fides Modelo Cauda de Raposa",
+		identifiedDisplayName = "Esboço de Rabo-de-Gato",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"Diagrama necessário para purificar e remontar Foxtail Modelo Adulter Fides.",
-			"Peso : ^7777770^000000"
+			"Pergaminho que contém desenhos explicando como purificar e remontar o Rabo-de-Gato Adulter Fides.",
+			"--------------------------",
+			"Peso: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -387307,179 +391714,886 @@ tbl = {
 		unidentifiedDisplayName = "Kunai",
 		unidentifiedResourceName = "Kunai",
 		unidentifiedDescriptionName = {
-			"Um Kunai usado normalmente. Ao usá-lo, você sente orgulho como um ninja.",
-			"Categoria : ^777777arma arremessável^000000",
-			"Ataque : ^77777730^000000",
-			"Peso : ^7777770.1^000000      Atributo : ^777777Neutro^000000"
+			"Kunai simples, usado por ninjas.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^77777730^000000",
+			"Propriedade: ^777777Neutro^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Kunai",
 		identifiedResourceName = "Kunai",
 		identifiedDescriptionName = {
-			"Um Kunai usado normalmente. Ao usá-lo, você sente orgulho como um ninja.",
-			"Categoria : ^777777arma arremessável^000000",
-			"Ataque : ^77777730^000000",
-			"Peso : ^7777770.1^000000      Atributo : ^777777Neutro^000000"
+			"Kunai simples, usado por ninjas.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^77777730^000000",
+			"Propriedade: ^777777Neutro^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1220002] = {
-		unidentifiedDisplayName = "Kunai Incorpóreo",
+		unidentifiedDisplayName = "Kunai Imaterial",
 		unidentifiedResourceName = "Kunai_Of_Nothing",
 		unidentifiedDescriptionName = {
-			"Um Kunai que possui a energia do ar; parece ter força suficiente para cortar o ar com facilidade.",
-			"Categoria : ^777777arma arremessável^000000",
-			"Ataque : ^77777730^000000",
-			"Peso : ^7777770.1^000000      Atributo : ^777777Fogo^000000"
+			"Kunai que não possui uma forma física quando lançada.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^77777730^000000",
+			"Propriedade: ^777777Fantasma^000000",
+			"Peso: ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Kunai Incorpóreo",
+		identifiedDisplayName = "Kunai Imaterial",
 		identifiedResourceName = "Kunai_Of_Nothing",
 		identifiedDescriptionName = {
-			"Um Kunai que possui a energia do ar; parece ter força suficiente para cortar o ar com facilidade.",
-			"Categoria : ^777777arma arremessável^000000",
-			"Ataque : ^77777730^000000",
-			"Peso : ^7777770.1^000000      Atributo : ^777777Fogo^000000"
+			"Kunai que não possui uma forma física quando lançada.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^77777730^000000",
+			"Propriedade: ^777777Fantasma^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1220003] = {
-		unidentifiedDisplayName = "Kunai da Sombra",
+		unidentifiedDisplayName = "Kunai Sombria",
 		unidentifiedResourceName = "Kunai_Of_Shadow",
 		unidentifiedDescriptionName = {
-			"Um Kunai com a energia da sombra. A energia escura se transmite até as pontas dos dedos.",
-			"Categoria : ^777777arma arremessável^000000",
-			"Ataque : ^77777730^000000",
-			"Peso : ^7777770.1^000000      Atributo : ^777777Trevas^000000"
+			"Kunai com energia das trevas.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^77777730^000000",
+			"Propriedade: ^777777Sombrio^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		identifiedDisplayName = "Kunai da Sombra",
 		identifiedResourceName = "Kunai_Of_Shadow",
 		identifiedDescriptionName = {
-			"Um Kunai com a energia da sombra. A energia escura se transmite até as pontas dos dedos.",
-			"Categoria : ^777777arma arremessável^000000",
-			"Ataque : ^77777730^000000",
-			"Peso : ^7777770.1^000000      Atributo : ^777777Trevas^000000"
+			"Kunai com energia das trevas.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^77777730^000000",
+			"Propriedade: ^777777Sombrio^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1220004] = {
-		unidentifiedDisplayName = "Kunai de Hamaya",
+		unidentifiedDisplayName = "Kunai Sagrada",
 		unidentifiedResourceName = "Kunai_Of_Hamaya",
 		unidentifiedDescriptionName = {
-			"Um Kunai da área sagrada. Parece capaz de derrotar todo o mal.",
-			"Categoria : ^777777arma arremessável^000000",
-			"Ataque : ^77777730^000000",
-			"Peso : ^7777770.1^000000      Atributo : ^777777Sagrado^000000"
+			"Kunai abençoada por sacerdotes do templo.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^77777730^000000",
+			"Propriedade: ^777777Sagrado^000000",
+			"Peso: ^7777770,1^000000"
 		},
-		identifiedDisplayName = "Kunai de Hamaya",
+		identifiedDisplayName = "Kunai Sagrada",
 		identifiedResourceName = "Kunai_Of_Hamaya",
 		identifiedDescriptionName = {
-			"Um Kunai da área sagrada. Parece capaz de derrotar todo o mal.",
-			"Categoria : ^777777arma arremessável^000000",
-			"Ataque : ^77777730^000000",
-			"Peso : ^7777770.1^000000      Atributo : ^777777Sagrado^000000"
+			"Kunai abençoada por sacerdotes do templo.",
+			"-------------------------",
+			"Tipo: ^777777Munição^000000",
+			"ATQ: ^77777730^000000",
+			"Propriedade: ^777777Sagrado^000000",
+			"Peso: ^7777770,1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
-	[24655] = {
-		unidentifiedDisplayName = "Equip. Sombrio",
-		unidentifiedResourceName = "웨폰쉐도우",
+	[9192] = {
+		unidentifiedDisplayName = "Ovo de Zangão Gigante",
+		unidentifiedResourceName = "풍속성알",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+			"Ovo contendo um Zangão Gigante de estimação. Deve ser chocado por uma Incubadora.",
+			"--------------------------",
+			"Na Lealdade Baixa ou Baixíssima:",
+			"^0000ffConjuração variável -2%.^000000]",
+			"--------------------------",
+			"Na Lealdade Nenhuma:",
+			"^0000ffConjuração variável -3%.^000000]",
+			"--------------------------",
+			"Na Lealdade Normal:",
+			"^0000ffConjuração variável -4%.^000000]",
+			"^0000ffDano mágico de propriedade Vento +3%.^000000]",
+			"--------------------------",
+			"Na Lealdade Alta:",
+			"^0000ffConjuração variável -5%.^000000]",
+			"^0000ffDano mágico de propriedade Vento +5%.^000000]",
+			"--------------------------",
+			"Tipo: ^777777Ovo de Mascote^000000",
+			"Comida: ^777777Ração para Bichinho^000000"
 		},
-		identifiedDisplayName = "Manopla Sombria de Es",
-		identifiedResourceName = "웨폰쉐도우",
+		identifiedDisplayName = "Ovo de Zangão Gigante",
+		identifiedResourceName = "풍속성알",
 		identifiedDescriptionName = {
-			"Equipamento nascido das sombras.",
+			"Ovo contendo um Zangão Gigante de estimação. Deve ser chocado por uma Incubadora.",
 			"--------------------------",
-			"^0000ffATQ e ATQM +1 por refino.^000000",
+			"Na Lealdade Baixa ou Baixíssima:",
+			"^0000ffConjuração variável -2%.^000000]",
 			"--------------------------",
-			"^0000ffSP máx. +5%.^000000",
-			"Refino +7 ou mais:",
-			"^0000ffDano de [Esma] +10%.^000000",
-			"Refino +9 ou mais:",
-			"^0000ffCusto de SP de [Espa] -10%.^000000",
+			"Na Lealdade Nenhuma:",
+			"^0000ffConjuração variável -3%.^000000]",
+			"--------------------------",
+			"Na Lealdade Normal:",
+			"^0000ffConjuração variável -4%.^000000]",
+			"^0000ffDano mágico de propriedade Vento +3%.^000000]",
+			"--------------------------",
+			"Na Lealdade Alta:",
+			"^0000ffConjuração variável -5%.^000000]",
+			"^0000ffDano mágico de propriedade Vento +5%.^000000]",
+			"--------------------------",
+			"Tipo: ^777777Ovo de Mascote^000000",
+			"Comida: ^777777Ração para Bichinho^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1001579] = {
+		unidentifiedDisplayName = "Ticket de Mascote Zangão Gigante",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Um ticket que pode ser trocado por um Ovo de Zangão Gigante com a <NAVI>[Gerente de Masoctes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		identifiedDisplayName = "Ticket de Mascote Zangão Gigante",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"^FF0000Intransferível.^000000",
+			"Um ticket que pode ser trocado por um Ovo de Zangão Gigante com a <NAVI>[Gerente de Masoctes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107775] = {
+		unidentifiedDisplayName = "Roleta de Agosto 1",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 1 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 1",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 1 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107776] = {
+		unidentifiedDisplayName = "Roleta de Agosto 2",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 2 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 2",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 2 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107777] = {
+		unidentifiedDisplayName = "Roleta de Agosto 3",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 3 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 3",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 3 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107778] = {
+		unidentifiedDisplayName = "Roleta de Agosto 4",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 4 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 4",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 4 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107779] = {
+		unidentifiedDisplayName = "Roleta de Agosto 5",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 5 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 5",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 5 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107780] = {
+		unidentifiedDisplayName = "Roleta de Agosto 6",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 6 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 6",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 6 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107781] = {
+		unidentifiedDisplayName = "Roleta de Agosto 7",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 7 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 7",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 7 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107782] = {
+		unidentifiedDisplayName = "Roleta de Agosto 8",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 8 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 8",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 8 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107783] = {
+		unidentifiedDisplayName = "Roleta de Agosto 9",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 9 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 9",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 9 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107784] = {
+		unidentifiedDisplayName = "Roleta de Agosto 10",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 10 da roleta de Agosto de 2026"
+		},
+		identifiedDisplayName = "Roleta de Agosto 10",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Intransferível^000000",
+			"",
+			"Prêmio número 10 da roleta de Agosto de 2026",
+			"",
+			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310889] = {
+		unidentifiedDisplayName = "Guardião Real (Baixo)",
+		unidentifiedResourceName = "Paladin_Figure",
+		unidentifiedDescriptionName = {
+			"A cada nível de [Espiral Lunar]:",
+			"^000000Dano de [Lança do Destino] +5%.^000000",
 			"--------------------------",
 			"^fa4e09Conjunto^000000",
-			"^fa4e09Malha Sombria de Es^000000",
-			"^fa4e09Escudo Sombrio de Es^000000",
-			"A cada refino de cada peça:",
-			"^0000ffDano de [Espa] e [Eswhoo] +1%.^000000",
+			"^fa4e09Guardião Real (Capa)^000000",
+			"^000000Dano de [Disparo Perfurante] +15%.^000000",
 			"--------------------------",
 			"^fa4e09Conjunto^000000",
-			"^fa4e09Greva Sombria de Ceifador^000000",
-			"^0000ffIgnora 40% da DEFM de todas as raças de monstros.^000000",
-			"A cada refino de cada peça:",
-			"^0000ffIgnora 1% da DEFM de todas as raças de monstros.^000000",
-			"--------------------------",
-			"Tipo: ^777777Equip. Sombrio^000000",
-			"Equipa em: ^777777Arma^000000",
-			"Peso: ^7777770^000000",
-			"Nível necessário: ^77777799^000000",
-			"Classes: ^777777Espiritualistas e evoluções^000000"
+			"^fa4e09Guardião Real II (Capa)^000000",
+			"^000000Dano mágico contra todos os tamanhos +15%.^000000"
 		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = true
-	},
-	[24656] = {
-		unidentifiedDisplayName = "Equip. Sombrio",
-		unidentifiedResourceName = "쉴드쉐도우",
-		unidentifiedDescriptionName = {
-			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
-		},
-		identifiedDisplayName = "Escudo Sombrio de Es",
-		identifiedResourceName = "쉴드쉐도우",
+		identifiedDisplayName = "Guardião Real (Baixo)",
+		identifiedResourceName = "Paladin_Figure",
 		identifiedDescriptionName = {
-			"Equipamento nascido das sombras.",
+			"A cada nível de [Espiral Lunar]:",
+			"^000000Dano de [Lança do Destino] +5%.^000000",
 			"--------------------------",
-			"^0000ffHP máx. +10 por refino.^000000",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Guardião Real (Capa)^000000",
+			"^000000Dano de [Disparo Perfurante] +15%.^000000",
 			"--------------------------",
-			"^0000ffDano mágico contra todos os tamanhos +5%.^000000",
-			"A cada 2 refinos:",
-			"^0000ffDano mágico contra todos os tamanhos +1%.^000000",
-			"--------------------------",
-			"Tipo: ^777777Equip. Sombrio^000000",
-			"Equipa em: ^777777Escudo^000000",
-			"Peso: ^7777770^000000",
-			"Nível necessário: ^77777799^000000",
-			"Classes: ^777777Espiritualistas e evoluções^000000"
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Guardião Real II (Capa)^000000",
+			"^000000Dano mágico contra todos os tamanhos +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
-		costume = true
+		costume = false
 	},
-	[24657] = {
-		unidentifiedDisplayName = "Equip. Sombrio",
-		unidentifiedResourceName = "아머쉐도우",
+	[310654] = {
+		unidentifiedDisplayName = "Vel.Atq +1 (Dual)",
+		unidentifiedResourceName = "태양신의상징",
 		unidentifiedDescriptionName = {
-			"Item desconhecido. Para identificá-lo, use uma [Lupa]."
+			"^0000ffVelocidade de ataque +1.^000000"
 		},
-		identifiedDisplayName = "Malha Sombria de Es",
-		identifiedResourceName = "아머쉐도우",
+		identifiedDisplayName = "Vel.Atq +1 (Dual)",
+		identifiedResourceName = "태양신의상징",
 		identifiedDescriptionName = {
-			"Equipamento nascido das sombras.",
-			"--------------------------",
-			"^0000ffHP máx. +10 por refino.^000000",
-			"--------------------------",
-			"^0000ffDano de [Esma] +10%.^000000",
-			"A cada 2 refinos:",
-			"^0000ffDano de [Eswhoo] e [Espa] +2%.^000000",
-			"--------------------------",
-			"Tipo: ^777777Equip. Sombrio^000000",
-			"Equipa em: ^777777Armadura^000000",
-			"Peso: ^7777770^000000",
-			"Nível necessário: ^77777799^000000",
-			"Classes: ^777777Espiritualistas e evoluções^000000"
+			"^0000ffVelocidade de ataque +1.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
-		costume = true
+		costume = false
+	},
+	[310662] = {
+		unidentifiedDisplayName = "Absorção de HP (Dual)",
+		unidentifiedResourceName = "묘안석",
+		unidentifiedDescriptionName = {
+			"^0000ff1% de chance de converter 1% do dano físico causado em HP.^000000"
+		},
+		identifiedDisplayName = "Absorção de HP (Dual)",
+		identifiedResourceName = "묘안석",
+		identifiedDescriptionName = {
+			"^0000ff1% de chance de converter 1% do dano físico causado em HP.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000520] = {
+		unidentifiedDisplayName = "Vel.Atq +1 (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffVelocidade de ataque +1.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Vel.Atq +1 (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffVelocidade de ataque +1.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000526] = {
+		unidentifiedDisplayName = "Pedra de Absorção de HP (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ff1% de chance de converter 1% do dano físico causado em HP.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Absorção de HP (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ff1% de chance de converter 1% do dano físico causado em HP.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000522] = {
+		unidentifiedDisplayName = "Pedra de Variável -10% (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffConjuração variável -5%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Variável -10% (Capa)^000000",
+			"^0000ffConjuração fixa -0,5 segundos.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Variável -10% (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffConjuração variável -5%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Variável -10% (Capa)^000000",
+			"^0000ffConjuração fixa -0,5 segundos.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000524] = {
+		unidentifiedDisplayName = "Pedra de Corpo (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano físico corpo a corpo +4%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Corpo (Topo)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Corpo (Meio)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Corpo (Baixo)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Corpo (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano físico corpo a corpo +4%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Corpo (Topo)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Corpo (Meio)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Corpo (Baixo)^000000",
+			"^0000ffDano físico corpo a corpo +2% adicional.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000527] = {
+		unidentifiedDisplayName = "Pedra de Propriedade (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano mágico de todas as propriedades +4%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Propriedade (Topo)^000000",
+			"^0000ffDano mágico de todas as propriedades +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Propriedade (Meio)^000000",
+			"^0000ffDano mágico de todas as propriedades +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Propriedade (Baixo)^000000",
+			"^0000ffDano mágico de todas as propriedades +2% adicional.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Propriedade (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano mágico de todas as propriedades +4%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Propriedade (Topo)^000000",
+			"^0000ffDano mágico de todas as propriedades +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Propriedade (Meio)^000000",
+			"^0000ffDano mágico de todas as propriedades +2% adicional.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Propriedade (Baixo)^000000",
+			"^0000ffDano mágico de todas as propriedades +2% adicional.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000528] = {
+		unidentifiedDisplayName = "Pedra de Propriedade (Topo)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano mágico de todas as propriedades +3%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Propriedade (Topo)^000000",
+			"^fa4e09Propriedade (Meio)^000000",
+			"^0000ffDano mágico de todas as propriedades +6% adicional.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Propriedade (Topo)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano mágico de todas as propriedades +3%.^000000",
+			"-",
+			"^fa4e09Conjunto^000000",
+			"^fa4e09Propriedade (Topo)^000000",
+			"^fa4e09Propriedade (Meio)^000000",
+			"^0000ffDano mágico de todas as propriedades +6% adicional.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000529] = {
+		unidentifiedDisplayName = "Pedra de Propriedade (Meio)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Propriedade (Meio)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000530] = {
+		unidentifiedDisplayName = "Pedra de Propriedade (Baixo)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Propriedade (Baixo)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffDano mágico de todas as propriedades +3%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000675] = {
+		unidentifiedDisplayName = "Pedra de Pós (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffPós-conjuração -5%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Pós (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffPós-conjuração -5%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000676] = {
+		unidentifiedDisplayName = "Pedra de CRV (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffCRV +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de CRV (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffCRV +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000855] = {
+		unidentifiedDisplayName = "Pedra de Critical (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffCRIT +10.^000000",
+			"^0000ffDano crítico +10%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Critical (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffCRIT +10.^000000",
+			"^0000ffDano crítico +10%.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000856] = {
+		unidentifiedDisplayName = "Pedra de CON (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffCON +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de CON (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffCON +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000921] = {
+		unidentifiedDisplayName = "Pedra de FEI (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffFEI +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de FEI (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffFEI +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1001055] = {
+		unidentifiedDisplayName = "Pedra de POD (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffPOD +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de POD (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffPOD +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1001172] = {
+		unidentifiedDisplayName = "Pedra de Sabsta (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffSAB e STA +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		identifiedDisplayName = "Pedra de Sabsta (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Leve essa pedra para a <NAVI>[Loja Fashion]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Efeito^000000]",
+			"^0000ffSAB e STA +5.^000000",
+			"--------------------------",
+			"Peso: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
 	}
 }

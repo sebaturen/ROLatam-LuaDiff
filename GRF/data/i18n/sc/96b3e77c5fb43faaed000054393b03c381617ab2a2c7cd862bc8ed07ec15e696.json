@@ -67,7 +67,7 @@
     "bbdH": {
         "en-US": "[Elephantine]\nLet me see what tasks we've got today... Hmm...",
         "pt-BR": "[Elephantine]\nDeixe-me ver quais são as tarefas que temos hoje... Hmm...",
-        "es-ES": "[Elephantine]\nDéjame ver qué tareas tenemos hoy… Mmm…"
+        "es-ES": "[Elephantine]\nDéjame ver qué tareas tenemos hoy... Mmm..."
     },
     "brdH": {
         "en-US": "[Elephantine]\nHow about this one?",
@@ -112,12 +112,12 @@
     "drdH": {
         "en-US": "[Elephantine]\nThey didn't look so ferocious... but the adventurer has asked me to get rid of them, so you'll have to do it.",
         "pt-BR": "[Elephantine]\nEles não pareciam tão ferozes... mas o aventureiro me pediu para me livrar deles, então você terá que fazer isso.",
-        "es-ES": "[Elephantine]\nNo parecían ser muy feroces…, pero el trotamundos me pidió que nos deshiciéramos de ellos, así que tendrás que hacerlo."
+        "es-ES": "[Elephantine]\nNo parecían ser muy feroces..., pero el trotamundos me pidió que nos deshiciéramos de ellos, así que tendrás que hacerlo."
     },
     "d7dH": {
         "en-US": "You have received the task ^005500Small but Ferocious...^000000. Open and see the quest window for the details.",
         "pt-BR": "Você recebeu a tarefa ^005500Pequeno mas Feroz...^000000. Abra e veja a janela da missão para obter os detalhes.",
-        "es-ES": "Recibiste la tarea ^005500Pequeño, pero feroz…^000000. Abre la ventana de misiones para ver los detalles."
+        "es-ES": "Recibiste la tarea ^005500Pequeño, pero feroz...^000000. Abre la ventana de misiones para ver los detalles."
     },
     "eLdH": {
         "en-US": "[Elephantine]\nI have qualms about this one, but somebody anonymously asked me to hunt down the naughty fairies.",
@@ -152,7 +152,7 @@
     "frdH": {
         "en-US": "[Elephantine]\nHuh? Did I see wrong? I don't see any tasks... Let me look for them again.",
         "pt-BR": "[Elephantine]\nHã? Será que eu vi errado? Não estou vendo nenhuma tarefa... Deixe-me procurá-las novamente.",
-        "es-ES": "[Elephantine]\n¿Eh? ¿Acaso me engañan mis ojos? No veo ninguna tarea… Déjame buscarlas de nuevo."
+        "es-ES": "[Elephantine]\n¿Eh? ¿Acaso me engañan mis ojos? No veo ninguna tarea... Déjame buscarlas de nuevo."
     },
     "f7dH": {
         "en-US": "Hotcha",
@@ -212,7 +212,7 @@
     "irdH": {
         "en-US": "[Hotcha]\nHmm...{0} \nIt may be a documentation error, but according to the documents, you have nothing to do with the tasks.",
         "pt-BR": "[Hotcha]\nHmm...{0} \nPode ser um erro de documentação, mas, de acordo com os documentos, você não tem nada a ver com as tarefas.",
-        "es-ES": "[Hotcha]\nMmm… {0}. \nQuizás sea un error de los documentos, pero según esto, no tienes nada que ver con las tareas."
+        "es-ES": "[Hotcha]\nMmm... {0}. \nQuizás sea un error de los documentos, pero según esto, no tienes nada que ver con las tareas."
     },
     "i7dH": {
         "en-US": "Bow-wow",
@@ -222,7 +222,7 @@
     "jLdH": {
         "en-US": "[Bow-wow]\nI try to give tasks only to reliable people. You are......... no, never mind.",
         "pt-BR": "[Bow-wow]\nTento dar tarefas somente a pessoas confiáveis. Você é......... não, não importa.",
-        "es-ES": "[Bow-wow]\nIntento dar tareas solo a gente de confianza. Tú… no, no importa."
+        "es-ES": "[Bow-wow]\nIntento dar tareas solo a gente de confianza. Tú... no, no importa."
     },
     "jbdH": {
         "en-US": "[Bow-wow]\nYou really have no clue. What could you do with such a weak body?",
@@ -262,7 +262,7 @@
     "lLdH": {
         "en-US": "[Bow-wow]\nLet me see... what supplies are we making today...?",
         "pt-BR": "[Bow-wow]\nDeixe-me ver... que suprimentos estamos fazendo hoje...?",
-        "es-ES": "[Bow-wow]\nA ver… ¿qué suministros vamos a hacer hoy…?"
+        "es-ES": "[Bow-wow]\nA ver... ¿qué suministros vamos a hacer hoy...?"
     },
     "lbdH": {
         "en-US": "[Bow-wow]\nHow about this one?",
@@ -277,7 +277,7 @@
     "l7dH": {
         "en-US": "[Bow-wow]\n*grin* None other than... Insect Feelers! The General Goods Dealer there asked me to get four of them. I personally would not eat it for all the world...",
         "pt-BR": "[Bow-wow]\n*sorrisinho* Nada menos que... Antenas de Inseto! O vendedor de produtos gerais de lá me pediu para comprar quatro deles. Eu pessoalmente não comeria isso por nada no mundo...",
-        "es-ES": "[Bow-wow]\n*Sonríe* Nada menos que… ¡Antena de insecto! El Comerciante de artículos generales me pidió que le llevara cuatro. La verdad es que yo no me la comería por nada del mundo…"
+        "es-ES": "[Bow-wow]\n*Sonríe* Nada menos que... ¡Antena de insecto! El Comerciante de artículos generales me pidió que le llevara cuatro. La verdad es que yo no me la comería por nada del mundo..."
     },
     "mLdH": {
         "en-US": "You have received the task ^880088Material for the Preservative^000000. Open and see the quest window for the details.",
@@ -342,12 +342,12 @@
     "pLdH": {
         "en-US": "You have received the task ^880088Good for Stamina...^000000. Open and see the quest window for the details.",
         "pt-BR": "Você recebeu a tarefa ^880088Bom para Estamina...^000000. Abra e veja a janela da missão para obter os detalhes.",
-        "es-ES": "Recibiste la tarea ^880088Bueno para la resistencia…^000000. Abre la ventana de misiones para ver los detalles."
+        "es-ES": "Recibiste la tarea ^880088Bueno para la resistencia...^000000. Abre la ventana de misiones para ver los detalles."
     },
     "pbdH": {
         "en-US": "[Bow-wow]\nHuh? Did I see wrong? I don't see any tasks... Let me look for them again.",
         "pt-BR": "[Bow-wow]\nHã? Será que eu vi errado? Não estou vendo nenhuma tarefa... Deixe-me procurá-las novamente.",
-        "es-ES": "[Bow-wow]\n¿Eh? ¿Acaso me engañan mis ojos? No veo ninguna tarea… Déjame buscarlas de nuevo."
+        "es-ES": "[Bow-wow]\n¿Eh? ¿Acaso me engañan mis ojos? No veo ninguna tarea... Déjame buscarlas de nuevo."
     },
     "prdH": {
         "en-US": "General Good Dealer",
@@ -402,12 +402,12 @@
     "sLdH": {
         "en-US": "[General Good Dealer]\nThe amount is not enough...",
         "pt-BR": "[Mercador de Produtos Gerais]\nO valor não é suficiente...",
-        "es-ES": "[Comerciante de art.]\nLa cantidad no es suficiente…"
+        "es-ES": "[Comerciante de art.]\nLa cantidad no es suficiente..."
     },
     "sbdH": {
         "en-US": "[General Good Dealer]\nHmm... {0} \nIt may be a documentation error, but according to the documents, you have nothing to do with the tasks.",
         "pt-BR": "[Mercador de Produtos Gerais]\nHmm... {0} \nPode ser um erro de documentação, mas, de acordo com os documentos, você não tem nada a ver com as tarefas.",
-        "es-ES": "[Comerciante de art.]\nMmm… {0}. \nQuizás sea un error de los documentos, pero según esto, no tienes nada que ver con las tareas."
+        "es-ES": "[Comerciante de art.]\nMmm... {0}. \nQuizás sea un error de los documentos, pero según esto, no tienes nada que ver con las tareas."
     },
     "srdH": {
         "en-US": "Woof-grrr",
@@ -457,7 +457,7 @@
     "u7dH": {
         "en-US": "[Woof-grrr]\nHmm... What tasks are at hand today?",
         "pt-BR": "[Woof-grrr]\nHmm... Quais são as tarefas que temos em mãos hoje?",
-        "es-ES": "[Wuf-grrr]\nMmm… ¿Qué tareas tenemos para hoy?"
+        "es-ES": "[Wuf-grrr]\nMmm... ¿Qué tareas tenemos para hoy?"
     },
     "vLdH": {
         "en-US": "[Woof-grrr]\nOh. This one looks good.",
@@ -522,7 +522,7 @@
     "yLdH": {
         "en-US": "You have received the task ^880088Poison for Poison...^000000. Open and see the quest window for the details.",
         "pt-BR": "Você recebeu a tarefa ^880088Veneno por veneno...^000000. Abra e veja a janela da missão para obter os detalhes.",
-        "es-ES": "Recibiste la tarea ^880088Veneno contra veneno…^000000. Abre la ventana de misiones para ver los detalles."
+        "es-ES": "Recibiste la tarea ^880088Veneno contra veneno...^000000. Abre la ventana de misiones para ver los detalles."
     },
     "ybdH": {
         "en-US": "[Woof-grrr]\nIt seems they have run out of the material for adding non-slip soles to shoes.",
@@ -542,7 +542,7 @@
     "zLdH": {
         "en-US": "[Woof-grrr]\nHuh? Did I see wrong? I don't see any tasks... Let me look for them again.",
         "pt-BR": "[Woof-grrr]\nHã? Será que eu vi errado? Não estou vendo nenhuma tarefa... Deixe-me procurá-las novamente.",
-        "es-ES": "[Wuf-grrr]\n¿Eh? ¿Acaso me engañan mis ojos? No veo ninguna tarea… Déjame buscarlas de nuevo."
+        "es-ES": "[Wuf-grrr]\n¿Eh? ¿Acaso me engañan mis ojos? No veo ninguna tarea... Déjame buscarlas de nuevo."
     },
     "zbdH": {
         "en-US": "Commodities Dealer",
@@ -557,7 +557,7 @@
     "z7dH": {
         "en-US": "[Commodities Dealer]\nGo away! I can't concentrate on cataloging with you hanging around like that...",
         "pt-BR": "[Negociante Mercadora]\nVá embora! Não consigo me concentrar na catalogação com você andando por aí desse jeito...",
-        "es-ES": "[Comerciante de prod.]\n¡Largo de aquí! No puedo concentrarme en catalogar mis productos contigo merodeando así…"
+        "es-ES": "[Comerciante de prod.]\n¡Largo de aquí! No puedo concentrarme en catalogar mis productos contigo merodeando así..."
     },
     "0LdH": {
         "en-US": "[Commodities Dealer]\nI see you haven't received\nany tasks yet.\nGo talk to Woof-grrr,\nand Woof-grrr will give you\none of the countless tasks.",
@@ -597,12 +597,12 @@
     "17dH": {
         "en-US": "[Commodities Dealer]\nThe amount is not enough...",
         "pt-BR": "[Negociante Mercadora]\nO valor não é suficiente...",
-        "es-ES": "[Comerciante de prod.]\nLa cantidad no es suficiente…"
+        "es-ES": "[Comerciante de prod.]\nLa cantidad no es suficiente..."
     },
     "2LdH": {
         "en-US": "[Commodities Dealer]\nHmm...{0} \nIt may be a documentation error, but according to the documents, you have nothing to do with the tasks.",
         "pt-BR": "[Negociante Mercadora]\nHmm...{0} \nPode ser um erro de documentação, mas, de acordo com os documentos, você não tem nada a ver com as tarefas.",
-        "es-ES": "[Comerciante de prod.]\nMmm… {0}. \nQuizás sea un error de los documentos, pero según esto, no tienes nada que ver con las tareas."
+        "es-ES": "[Comerciante de prod.]\nMmm... {0}. \nQuizás sea un error de los documentos, pero según esto, no tienes nada que ver con las tareas."
     },
     "2bdH": {
         "en-US": "Soul Guide",
@@ -792,7 +792,7 @@
     "/rdH": {
         "en-US": "[Wandering Customer]\nI don't know whether to believe this art dealer.. He made me standing here like this for days.... Ah.. I feel dizzy.",
         "pt-BR": "[Cliente errante]\nNão sei se devo acreditar nesse negociante de arte... Ele me fez ficar aqui parado por dias.... Ah... estou me sentindo tonto.",
-        "es-ES": "[Cliente errante]\nNo sé si creerle a este comerciante de arte… Me hizo esperarlo aquí de pie durante días… Ah… Me siento mareada."
+        "es-ES": "[Cliente errante]\nNo sé si creerle a este comerciante de arte... Me hizo esperarlo aquí de pie durante días... Ah... Me siento mareada."
     },
     "/7dH": {
         "en-US": "A Random Customer",

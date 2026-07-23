@@ -37,12 +37,12 @@
     "x9W2CA": {
         "en-US": "[Loreche]\nZzz... Zzz...",
         "pt-BR": "[Runane]\nZzz... Zzz...",
-        "es-ES": "[Loreche]\nZzz… Zzz…"
+        "es-ES": "[Loreche]\nZzz... Zzz..."
     },
     "yNW2CA": {
         "en-US": "[Loreche]\nZzz... Oh?! Could it be? The ideal Adventurer we have always dreamed of?\nErr... No, never mind. Come back after you grow some more.",
         "pt-BR": "[Runane]\nZzz... Hã?! Viajante?\nHmm... mas não tem tanta experiência ainda.",
-        "es-ES": "[Loreche]\nZzz… ¡¿Oh?! ¿Podría ser? ¿El trotamundos ideal con el que siempre soñamos?\nEh… No, olvídalo. Vuelve cuando hayas crecido un poco más."
+        "es-ES": "[Loreche]\nZzz... ¡¿Oh?! ¿Podría ser? ¿El trotamundos ideal con el que siempre soñamos?\nEh... No, olvídalo. Vuelve cuando hayas crecido un poco más."
     },
     "ydW2CA": {
         "en-US": "- You must be Lv. 120 or higher to enter this Memorial Dungeon. -",
@@ -52,12 +52,12 @@
     "ytW2CA": {
         "en-US": "[Loreche]\nZzz... Hmm, hmm... Oh, Ohhhhhh! Wait, wait a second! Where do you think you're going?!\nEugenie! Look at this Adventurer. What a find, shiny as gold!",
         "pt-BR": "[Runane]\nZzz... Hã?! Ei, ei, espera, espera!\nMingmin! Olha só quem chegou!",
-        "es-ES": "[Loreche]\nZzz… Mmm… mmm… ¡Oh, oh! ¡Espera, espera un segundo! ¿A dónde crees que vas?\n¡Eugenie! Mira a este trotamundos. Qué hallazgo, ¡brillante como el oro!"
+        "es-ES": "[Loreche]\nZzz... Mmm... mmm... ¡Oh, oh! ¡Espera, espera un segundo! ¿A dónde crees que vas?\n¡Eugenie! Mira a este trotamundos. Qué hallazgo, ¡brillante como el oro!"
     },
     "y9W2CA": {
         "en-US": "[Eugenie]\nHuh? I don't really... Oh? Ohhhhhh! Utterly outstanding, don't you think, Loreche?\nHey there, you got some time to spare?",
         "pt-BR": "[Mingmin]\nNham-hã? Isso é... viajante!? Não é incrível, Runane?\nViajante, você está com um tempo livre?",
-        "es-ES": "[Eugenie]\n¿Eh? Realmente, no… ¿Eh? ¡Ohhhhhh! Totalmente impresionante, ¿no crees, Loreche?\nHola, ¿tienes algo de tiempo libre?"
+        "es-ES": "[Eugenie]\n¿Eh? Realmente, no... ¿Eh? ¡Ohhhhhh! Totalmente impresionante, ¿no crees, Loreche?\nHola, ¿tienes algo de tiempo libre?"
     },
     "zNW2CA": {
         "en-US": "Certainly.",
@@ -72,12 +72,12 @@
     "ztW2CA": {
         "en-US": "[Eugenie]\n... Hm, they're busy... That won't do.",
         "pt-BR": "[Mingmin]\n......Er, bem não temos muito tempo mesmo, e agora?",
-        "es-ES": "[Eugenie]\n…Mmm, está sin tiempo… Eso no servirá."
+        "es-ES": "[Eugenie]\n...Mmm, está sin tiempo... Eso no servirá."
     },
     "z9W2CA": {
         "en-US": "[Loreche]\nWell... If you're busy, then I guess it can't be helped. Goodbye, our dreamy Adventurer.",
         "pt-BR": "[Runane]\nBom... não podemos fazer nada se as pessoas tem outros compromissos.",
-        "es-ES": "[Loreche]\nBueno… Si estás sin tiempo, supongo que no hay nada que hacer. Adiós, trotamundos de ensueño."
+        "es-ES": "[Loreche]\nBueno... Si estás sin tiempo, supongo que no hay nada que hacer. Adiós, trotamundos de ensueño."
     },
     "0NW2CA": {
         "en-US": "[Eugenie]\nHooray, a not busy Adventurer!",
@@ -127,7 +127,7 @@
     "2dW2CA": {
         "en-US": "[Loreche]\n... They don't want to go with us, Eugenie. Good bye, our dreamy Adventurer.",
         "pt-BR": "[Runane]\n...Provavelmente não gostou de nós duas, Mingmin. Não há nada que possamos fazer. Até logo, viajante.",
-        "es-ES": "[Loreche]\n…No quieren ir con nosotros, Eugenie. Adiós, trotamundos de ensueño."
+        "es-ES": "[Loreche]\n...No quieren ir con nosotros, Eugenie. Adiós, trotamundos de ensueño."
     },
     "2tW2CA": {
         "en-US": "[Loreche]\nAh, you won't regret this! We'll be sure to give you credit in our thesis if everything goes well.",
@@ -162,12 +162,12 @@
     "4NW2CA": {
         "en-US": "[Loreche]\nZzz... Oh?! Could it be? The ideal Adventurer we have always dreamed of?\nHey, haven't we already recruited this one, Eugenie?",
         "pt-BR": "[Runane]\n...Zzz... *ronc* Oi?\nHã? Essa pessoa não é um dos nossos aventureiros favoritos, Mingmin?",
-        "es-ES": "[Loreche]\nZzz… ¡¿Oh?! ¿Podría ser? ¿El trotamundos ideal con el que siempre soñamos?\nOye, ¿no reclutamos a este ya, Eugenie?"
+        "es-ES": "[Loreche]\nZzz... ¡¿Oh?! ¿Podría ser? ¿El trotamundos ideal con el que siempre soñamos?\nOye, ¿no reclutamos a este ya, Eugenie?"
     },
     "4dW2CA": {
         "en-US": "[Eugenie]\nErr... we have?\nOur exploration is scheduled for tomorrow, though. Strangely enough, we're all just so exhausted... That's what we said, right?",
         "pt-BR": "[Mingmin]\nHm... Sim?\nMas estamos muito cansadas agora... nós podemos fazer a exploração amanhã, o que acha?",
-        "es-ES": "[Eugenie]\nEh… ¿sí?\nSin embargo, nuestra exploración está prevista para mañana. Por extraño que parezca, todos estamos tan agotados… Eso es lo que dijimos, ¿verdad?"
+        "es-ES": "[Eugenie]\nEh... ¿sí?\nSin embargo, nuestra exploración está prevista para mañana. Por extraño que parezca, todos estamos tan agotados... Eso es lo que dijimos, ¿verdad?"
     },
     "4tW2CA": {
         "en-US": "[Loreche]\nIs that right? Strange, my memory is not very clear. Almost as if I just got up from a long dream. Lovely Adventurer, we will try to rest up as much as we can, so please come back tomorrow.",
@@ -177,17 +177,17 @@
     "49W2CA": {
         "en-US": "[Loreche]\nSee you tomorrow... Zzz...",
         "pt-BR": "[Runane]\nEu vou cochilar... Zzz...",
-        "es-ES": "[Loreche]\nHasta mañana… Zzz…"
+        "es-ES": "[Loreche]\nHasta mañana... Zzz..."
     },
     "5NW2CA": {
         "en-US": "[Loreche]\nZzz... Ah, look who's here. The Adventurer who wanted to come explore with us!",
         "pt-BR": "[Runane]\nZzz... *ronc* Opa! Você voltou!",
-        "es-ES": "[Loreche]\nZzz… Ah, mira quién está aquí. ¡El trotamundos que quería ir a explorar con nosotros!"
+        "es-ES": "[Loreche]\nZzz... Ah, mira quién está aquí. ¡El trotamundos que quería ir a explorar con nosotros!"
     },
     "5dW2CA": {
         "en-US": "[Eugenie]\nGlad to have you with us. We are the first people... well, the first Midgardians to set foot in this place, so we should be really careful.",
         "pt-BR": "[Mingmin]\nBom, por favor, tenha cuidado. Vamos juntos com cautela.",
-        "es-ES": "[Eugenie]\nMe alegra tenerte con nosotros. Somos las primeras personas… bueno, los primeros midgardianos que pisan este lugar, así que debemos tener mucho cuidado."
+        "es-ES": "[Eugenie]\nMe alegra tenerte con nosotros. Somos las primeras personas... bueno, los primeros midgardianos que pisan este lugar, así que debemos tener mucho cuidado."
     },
     "5tW2CA": {
         "en-US": "[Loreche]\nRight you are! The very first people ever! My sister discovered this place, and we will be the first ones to explore the area.",

@@ -6135,22 +6135,22 @@ StateIconList_string = {
 	[EFST_IDs.EFST_FLOWER_LEAF3] = {
 		descript = {
 			{
-				"Poder Físico"
+				"Poder Mágico"
 			},
 			{"%s"},
 			{
-				"Daño Físico +5%."
+				"Daño Mágico +5%."
 			}
 		}
 	},
 	[EFST_IDs.EFST_FLOWER_LEAF4] = {
 		descript = {
 			{
-				"Poder Mágico"
+				"Poder Físico"
 			},
 			{"%s"},
 			{
-				"Daño Mágico +5%."
+				"Daño Físico +5%."
 			}
 		}
 	},
@@ -7406,7 +7406,7 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado en el que no se puede equipar equipo shadow de arma"
+				"Estado en el que no se puede equipar un Arma Sombría"
 			}
 		}
 	},
@@ -7417,7 +7417,7 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado en el que no se puede equipar equipo shadow de armadura"
+				"Estado en el que no se puede equipar una Armadura Sombría"
 			}
 		}
 	},
@@ -7428,7 +7428,7 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado en el que no se puede equipar equipo shadow de escudo"
+				"Estado en el que no se puede equipar un Escudo Sombrío"
 			}
 		}
 	},
@@ -7439,7 +7439,7 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado en el que no se puede equipar equipo shadow de calzado"
+				"Estado en el que no se pueden equipar unos calzado Sombríos"
 			}
 		}
 	},
@@ -7450,7 +7450,7 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado en el que no se puede equipar equipo shadow de accesorio"
+				"Estado en el que no se pueden equipar unos accesorios Sombríos accesorios"
 			}
 		}
 	},
@@ -7461,7 +7461,7 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado en el que no se puede equipar equipo shadow de accesorio"
+				"Estado en el que no se pueden equipar unos accesorios Sombríos accesorios"
 			}
 		}
 	},
@@ -7472,8 +7472,24 @@ StateIconList_string = {
 			},
 			{"%s"},
 			{
-				"Estado en el que no se puede equipar ningún equipo shadow"
+				"Estado en el que no se puede equipar ningún equipo Sombrío"
 			}
+		}
+	},
+	[EFST_IDs.EFST_CURSE_R_CUBE] = {
+		descript = {
+			{
+				"Maldición del Cubo Rojo"
+			},
+			{"%s"}
+		}
+	},
+	[EFST_IDs.EFST_CURSE_B_CUBE] = {
+		descript = {
+			{
+				"Maldición del Cubo Azul"
+			},
+			{"%s"}
 		}
 	},
 	[EFST_IDs.EFST_TOXIN_OF_MANDARA] = {
@@ -8139,6 +8155,73 @@ StateIconList_string = {
 			{"%s"},
 			{
 				"Marca de Pesadilla"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_1] = {
+		descript = {
+			{
+				"Festival de Fideos - Farfalle"
+			},
+			{"%s"},
+			{
+				"Ataque cuerpo a cuerpo y a distancia"
+			},
+			{
+				"Aumenta el daño físico"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_2] = {
+		descript = {
+			{
+				"Festival de Fideos - Pasta con crema y camarones"
+			},
+			{"%s"},
+			{
+				"Todos los atributos"
+			},
+			{
+				"Aumenta el daño mágico"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_3] = {
+		descript = {
+			{
+				"Festival de Fideos - Fideos con salsa de tomate"
+			},
+			{"%s"},
+			{
+				"Reduce el tiempo de espera después de lanzar y usar habilidades"
+			},
+			{
+				"Aumenta la velocidad de ataque (reduce la demora después de atacar)"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_4] = {
+		descript = {
+			{
+				"Festival de Fideos - Fideos de banquete"
+			},
+			{"%s"},
+			{
+				"Aumenta ATK y MATK %"
+			}
+		}
+	},
+	[EFST_IDs.EFST_NOODLE_FES_5] = {
+		descript = {
+			{
+				"Festival de Fideos - Fideos mixtos con salsa de soja"
+			},
+			{"%s"},
+			{
+				"Aumenta P.ATK"
+			},
+			{
+				"Aumenta S.MATK"
 			}
 		}
 	},

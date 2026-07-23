@@ -217,7 +217,7 @@
     "S8ypCg": {
         "en-US": "[Lutie: The Winter Town]\nWelcome to Lutie, the town of year round snowfall. This town's main industry... is toy manufacturing!",
         "pt-BR": "[Lutie: A cidade do inverno]\nBem-vindo a Lutie, a cidade que neva o ano inteiro. O principal setor da cidade... é a fabricação de brinquedos!",
-        "es-ES": "[Lutie: la ciudad invernal]\nTe damos la bienvenida a Lutie, la ciudad donde nieva todo el año. La principal industria de esta ciudad… ¡es la fabricación de juguetes!"
+        "es-ES": "[Lutie: la ciudad invernal]\nTe damos la bienvenida a Lutie, la ciudad donde nieva todo el año. La principal industria de esta ciudad... ¡es la fabricación de juguetes!"
     },
     "TMypCg": {
         "en-US": "[Lutie: The Winter Town]\nDon't forget to visit Lutie during the Christmas season. We always have joyous events to celebrate the Holidays! Hooray~!",
@@ -422,12 +422,12 @@
     "dMypCg": {
         "en-US": "[Niflheim: City of the Dead]\nAnd at all cost...\nTry to avoid the\n^990000Lord of the Dead^000000,\na dangerous boss monster that despises trespassers in its realm.",
         "pt-BR": "[Niflheim: Cidade dos Mortos]\nE a todo custo...\nTente evitar o\n{Senhor dos Mortos^000000,\num perigoso monstro chefe que despreza os invasores em seu reino.",
-        "es-ES": "[Niflheim: la ciudad de los muertos]\nY a toda costa…\nintenta evitar al\n^990000Señor de los muertos^000000,\nun monstruo jefe peligroso que desprecia a los intrusos."
+        "es-ES": "[Niflheim: la ciudad de los muertos]\nY a toda costa...\nintenta evitar al\n^990000Señor de los muertos^000000,\nun monstruo jefe peligroso que desprecia a los intrusos."
     },
     "dcypCg": {
         "en-US": "[City of the Dead, Niflheim]\nTo the West is the ^660000Valley of Gyoll^000000 where most of the powerful and fearful monsters live. Escape as soon as you can, especially if you're alone or inexperienced...",
         "pt-BR": "[Cidade dos Mortos, Niflheim]\nA oeste está o ^660000Valley of Gyoll^000000, onde vive a maioria dos monstros poderosos e temíveis. Fuja o mais rápido possível, especialmente se estiver sozinho ou for inexperiente...",
-        "es-ES": "[Niflheim, la ciudad de los muertos]\nAl oeste se encuentra el ^660000Valle de Gyoll^000000, donde vive la mayoría de los monstruos más poderosos y temibles. Escapa tan pronto como puedas, especialmente si no tienes compañía o experiencia…"
+        "es-ES": "[Niflheim, la ciudad de los muertos]\nAl oeste se encuentra el ^660000Valle de Gyoll^000000, donde vive la mayoría de los monstruos más poderosos y temibles. Escapa tan pronto como puedas, especialmente si no tienes compañía o experiencia..."
     },
     "dsypCg": {
         "en-US": "[Orc Dungeon]\n^CC0000Caution!^000000\nThe Orc Dungeon is comprised\nof 2 levels. Although not very strong individually, the monsters here attack in groups. Be careful.",
@@ -572,7 +572,7 @@
     "ksypCg": {
         "en-US": "[Glastheim]\nOnly masters of combat and exploration have a chance of survival in Glastheim...",
         "pt-BR": "[Glastheim]\nSomente os mestres do combate e da exploração têm chance de sobreviver em Glastheim...",
-        "es-ES": "[Glastheim]\nSolo los maestros del combate y la exploración tienen una oportunidad de sobrevivir en Glastheim…"
+        "es-ES": "[Glastheim]\nSolo los maestros del combate y la exploración tienen una oportunidad de sobrevivir en Glastheim..."
     },
     "k8ypCg": {
         "en-US": "[Glastheim]\nMany fearsome monsters populate Glastheim, including Dark Lord, Owl Baron, Owl Duke, Dark Illusion, Bloody Knight, Abysmal Knight, Chimera and various kinds of doomed swords.",

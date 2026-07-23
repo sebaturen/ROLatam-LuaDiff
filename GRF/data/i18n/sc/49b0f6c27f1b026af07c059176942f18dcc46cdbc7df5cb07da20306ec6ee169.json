@@ -57,7 +57,7 @@
     "i25RBg": {
         "en-US": "^FF0000...? I released them from the ice earlier. Why are they frozen again?^000000",
         "pt-BR": "^FF0000Eles ficaram presos no gelo... de novo.^000000",
-        "es-ES": "¿^FF0000…? Ya los había sacado del hielo. ¿Por qué se volvieron a congelar?^000000"
+        "es-ES": "¿^FF0000...? Ya los había sacado del hielo. ¿Por qué se volvieron a congelar?^000000"
     },
     "jG5RBg": {
         "en-US": "[^0000FFZeith^000000]\nSigh, this is all because of you, idiot.",
@@ -102,7 +102,7 @@
     "lG5RBg": {
         "en-US": "[^0000FFZeith^000000]\n...Stop dumping things on me!\nI think we'll have to use fire.",
         "pt-BR": "[^0000FFZeith^000000]\n...Você jogou a responsablidade para mim!\nSei lá... tenta usar fogo, talvez.",
-        "es-ES": "[^0000FFZeith^000000]\n…¡Deja de ser tan mandón!\nCreo que tendremos que usar fuego."
+        "es-ES": "[^0000FFZeith^000000]\n...¡Deja de ser tan mandón!\nCreo que tendremos que usar fuego."
     },
     "lW5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nFire?\nBut I hate being hot, and fire could burn us to death.",
@@ -112,7 +112,7 @@
     "lm5RBg": {
         "en-US": "[^0000FFZeith^000000]\nBut we need it to melt the ice around us. We'll be okay... I think.\nSo, mm... Our new friend...",
         "pt-BR": "[^0000FFZeith^000000]\nSó o suficiente para derreter o gelo...\nEntão... er... coleguinha...",
-        "es-ES": "[^0000FFZeith^000000]\nPero lo necesitamos para derretir el hielo. Estaremos bien… Creo.\nBueno, em… Colega…"
+        "es-ES": "[^0000FFZeith^000000]\nPero lo necesitamos para derretir el hielo. Estaremos bien... Creo.\nBueno, em... Colega..."
     },
     "l25RBg": {
         "en-US": "[^0000FFZeith^000000]\nI'm sorry, but could you find some dry twigs from heaps of dry soil in this cave? We won't need more than 10.",
@@ -142,7 +142,7 @@
     "nG5RBg": {
         "en-US": "[^0000FFZeith^000000]\nYou brought all those dry twigs. Oh, we haven't introduced ourselves yet. have we?\nI'm Zeith, and this is?",
         "pt-BR": "[^0000FFZeith^000000]\n...Parece que você coletou todos.\nA propósito, eu me chamo Zeith, e esse aqui é...",
-        "es-ES": "[^0000FFZeith^000000]\nTrajiste todas las ramas secas. Ah, aún no nos hemos presentado, ¿verdad?\nYo soy Zeith y él es…"
+        "es-ES": "[^0000FFZeith^000000]\nTrajiste todas las ramas secas. Ah, aún no nos hemos presentado, ¿verdad?\nYo soy Zeith y él es..."
     },
     "nW5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nUgh, you're going to burn us to death.",
@@ -172,7 +172,7 @@
     "om5RBg": {
         "en-US": "[^0000FFZeith^000000]\n...Sigh. Alright, I'll do it.\nCould you light the twigs and place them around me?\nBut let me remind you,\ntry not to place them too close to me.",
         "pt-BR": "[^0000FFZeith^000000]\n...Tá, eu vou primeiro. \nPoderia acender um galho e colocar perto de mim?\nE por precaução,\nnão deixe o fogo muito próximo...",
-        "es-ES": "[^0000FFZeith^000000]\n…Aish. De acuerdo, hazlo.\n¿Podrías encender las ramitas y ponerlas a mi alrededor?\nPero no lo olvides,\nno las pongas demasiado cerca."
+        "es-ES": "[^0000FFZeith^000000]\n...Aish. De acuerdo, hazlo.\n¿Podrías encender las ramitas y ponerlas a mi alrededor?\nPero no lo olvides,\nno las pongas demasiado cerca."
     },
     "o25RBg": {
         "en-US": "^FF0000I lit the dry twigs and placed them around him. Some time has passed, but the ice doesn't look like it's melting.^000000",
@@ -197,7 +197,7 @@
     "p25RBg": {
         "en-US": "[^0000FFZeith^000000]\n...That's ridiculous.\nHow are we going to use their cold energy, anyway?",
         "pt-BR": "[^0000FFZeith^000000]\n...Eu acho que esse papo de diamente não é verdade. \nMas e como vamos arranjar um gelo tão duro quanto o nosso?",
-        "es-ES": "[^0000FFZeith^000000]\n…Eso es ridículo.\n¿Cómo se supone que utilicemos su energía?"
+        "es-ES": "[^0000FFZeith^000000]\n...Eso es ridículo.\n¿Cómo se supone que utilicemos su energía?"
     },
     "qG5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nJust listen.\nVrid's Report: Furious Ice Titans!",
@@ -227,12 +227,12 @@
     "rW5RBg": {
         "en-US": "[^0000FFZeith^000000]\nBut... Sigh, I can't think of a better solution.\nWe'll try your suggestion.\nAdventurer, could you hunt 10 Furious Ice Titans and come back?",
         "pt-BR": "[^0000FFZeith^000000]\nBom... não custa tentar.\nSeria possível você eliminar 10 Titãs de Cristal para nós?",
-        "es-ES": "[^0000FFZeith^000000]\nPero… Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Titanes de Hielo Furiosos y regresar?"
+        "es-ES": "[^0000FFZeith^000000]\nPero... Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Titanes de Hielo Furiosos y regresar?"
     },
     "rm5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nNo, don't hunt them?\nYou have to help them!",
         "pt-BR": "[^FF0000Vrid^000000]\nA ideia é melhor que virar churrasco!",
-        "es-ES": "[^FF0000Vrid^000000]\nNo, cazarlos no… \n¡Tienes que ayudarlos!"
+        "es-ES": "[^FF0000Vrid^000000]\nNo, cazarlos no... \n¡Tienes que ayudarlos!"
     },
     "r25RBg": {
         "en-US": "[^0000FFZeith^000000]\nSigh, whatever. Please help them.",
@@ -242,7 +242,7 @@
     "sG5RBg": {
         "en-US": "[^0000FFZeith^000000]\nYou brought all the dry twigs.\nOh, we still haven't introduced ourselves.\nI'm Zeith, and you are?",
         "pt-BR": "[^0000FFZeith^000000]\nVocê trouxe todos os galhos. Ah, ainda não nos apresentamos.\nEu sou Zeith. Quem é você?",
-        "es-ES": "[^0000FFZeith^000000]\nTrajiste todas las ramas secas. \nAh, aún no nos hemos presentado.\nYo soy Zeith y él es…"
+        "es-ES": "[^0000FFZeith^000000]\nTrajiste todas las ramas secas. \nAh, aún no nos hemos presentado.\nYo soy Zeith y él es..."
     },
     "sW5RBg": {
         "en-US": "^FF0000They asked my name again, as if they didn't remember me.\nSomething weird is going on, but I told them my name again, anyway.^000000",
@@ -257,7 +257,7 @@
     "s25RBg": {
         "en-US": "[^0000FFZeith^000000]\n...That's just outlandish.\nHow are we going to use their cold energy, anyway?",
         "pt-BR": "[^0000FFZeith^000000]\n...Eu acho que esse papo de diamante não é verdade.\nMas e como vamos arranjar um gelo tão duro quanto o nosso?",
-        "es-ES": "[^0000FFZeith^000000]\n…Eso es absurdo.\n¿Cómo se supone que utilicemos su energía?"
+        "es-ES": "[^0000FFZeith^000000]\n...Eso es absurdo.\n¿Cómo se supone que utilicemos su energía?"
     },
     "tG5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nAccording to my investigation, Furious Ice Titans are as tiny as specks of dust in the air. They just look big because of the icicles growing on their bodies.",
@@ -297,7 +297,7 @@
     "u25RBg": {
         "en-US": "[^0000FFZeith^000000]\nBut... Sigh, I can't think of a better solution.\nWe'll try your suggestion.\nAdventurer, could you hunt 10 Furious Gazetis and come back?",
         "pt-BR": "[^0000FFZeith^000000]\nBom... não custa tentar.\nSeria possível você eliminar 10 Gazetis de Cristal para nós?",
-        "es-ES": "[^0000FFZeith^000000]\nPero… Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Gazeti Furiosos y regresar?"
+        "es-ES": "[^0000FFZeith^000000]\nPero... Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Gazeti Furiosos y regresar?"
     },
     "vG5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nJust listen.\nVrid's Report: Furious Snowiers!",
@@ -307,7 +307,7 @@
     "vW5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nAccording to my investigation, Furious Snowiers were gentle creatures who loved to say hi to people.\nThey became bitter after being ignored too many times.\nNow, they pretend to be friendly, but once they get close enough, they attack people.\nMy heart goes out to them...",
         "pt-BR": "[^FF0000Vrid^000000]\nDe acordo com a minha pesquisa, o Yeti de Cristal era uma pessoa gentil, mas ele se tornou agressivo quando não responderam seu 'Bom dia'...",
-        "es-ES": "[^FF0000Vrid^000000]\nSegún mi investigación, los Nevadísimos Furiosos eran criaturas amistosas que amaban saludar a la gente.\nSe amargaron después de que los ignoraran tantas veces. \nAhora fingen ser amistosos, pero una vez que se acercan lo suficiente, atacan. \nMe duele verlos así…"
+        "es-ES": "[^FF0000Vrid^000000]\nSegún mi investigación, los Nevadísimos Furiosos eran criaturas amistosas que amaban saludar a la gente.\nSe amargaron después de que los ignoraran tantas veces. \nAhora fingen ser amistosos, pero una vez que se acercan lo suficiente, atacan. \nMe duele verlos así..."
     },
     "vm5RBg": {
         "en-US": "^FF0000Zeith stared at Vrid with incredulity in his eyes.^000000",
@@ -322,12 +322,12 @@
     "wG5RBg": {
         "en-US": "[^0000FFZeith^000000]\nBut... Sigh, I can't think of a better solution.\nWe'll try your suggestion.\nAdventurer, could you hunt 10 Furious Snowiers and come back?",
         "pt-BR": "[^0000FFZeith^000000]\nBom... não custa tentar.\nSeria possível você eliminar 10 Yetis de Cristal para nós?",
-        "es-ES": "[^0000FFZeith^000000]\nPero… Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Nevadísimos Furiosos y regresar?"
+        "es-ES": "[^0000FFZeith^000000]\nPero... Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Nevadísimos Furiosos y regresar?"
     },
     "wW5RBg": {
         "en-US": "[^0000FFZeith^000000]\n...\nThat's so dumb.\nHow are we going to use their cold energy, anyway?",
         "pt-BR": "[^0000FFZeith^000000]\nTanto faz... vamos aguardar você aqui.\nvamos aguardar você aqui.",
-        "es-ES": "[^0000FFZeith^000000]\n…\nQué tontería.\n¿Cómo se supone que utilicemos su energía?"
+        "es-ES": "[^0000FFZeith^000000]\n...\nQué tontería.\n¿Cómo se supone que utilicemos su energía?"
     },
     "wm5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nJust listen.\nVrid's Report: Hard Icicles!",
@@ -347,12 +347,12 @@
     "xW5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nWell, first of all, they were...\nMm...\nUh...",
         "pt-BR": "[^FF0000Vrid^000000]\nA história? ...hmm... er...",
-        "es-ES": "[^FF0000Vrid^000000]\nBueno, en primer lugar, eran… \nMm… \nEh…"
+        "es-ES": "[^FF0000Vrid^000000]\nBueno, en primer lugar, eran... \nMm... \nEh..."
     },
     "xm5RBg": {
         "en-US": "^FF0000Vrid grimaced, sighed, and scratched his head. He then said...^000000",
         "pt-BR": "^FF0000Vrid parece estar concentrado em algum pensamento profundo.^000000",
-        "es-ES": "^FF0000Vrid hizo una mueca, suspiró y se rascó la cabeza. Luego dijo…^000000"
+        "es-ES": "^FF0000Vrid hizo una mueca, suspiró y se rascó la cabeza. Luego dijo...^000000"
     },
     "x25RBg": {
         "en-US": "[^FF0000Vrid^000000]\nWell, icicles are icicles.\nIt's not like they have a life story, do they?",
@@ -372,12 +372,12 @@
     "ym5RBg": {
         "en-US": "[^0000FFZeith^000000]\n...Or not.",
         "pt-BR": "[^0000FFZeith^000000]\n...e... a sensatez já foi embora.",
-        "es-ES": "[^0000FFZeith^000000]\n…O no."
+        "es-ES": "[^0000FFZeith^000000]\n...O no."
     },
     "y25RBg": {
         "en-US": "[^0000FFZeith^000000]\nBut... Sigh, I can't think of a better solution.\nWe'll try your suggestion.\nAdventurer, could you hunt 10 Hard Icicles and come back?",
         "pt-BR": "[^0000FFZeith^000000]\nBom... não custa tentar.\nSeria possível você eliminar 10 Cristais de Gelo para nós?",
-        "es-ES": "[^0000FFZeith^000000]\nPero… Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Cristales de Hielo y regresar?"
+        "es-ES": "[^0000FFZeith^000000]\nPero... Aish, no se me ocurre una idea mejor.\nProbaremos tu idea. \n¿Podrías cazar 10 Cristales de Hielo y regresar?"
     },
     "zG5RBg": {
         "en-US": "[^0000FFZeith^000000]\nPlease come back after hunting 10 Furious Ice Titans inside the cave.",
@@ -392,7 +392,7 @@
     "zm5RBg": {
         "en-US": "[^0000FFZeith^000000]\n...\nIsn't this guy just really cold?",
         "pt-BR": "[^0000FFZeith^000000]\n...Está frio em qualquer lugar daqui...",
-        "es-ES": "[^0000FFZeith^000000]\n…\n¿No será que tiene mucho frío y ya?"
+        "es-ES": "[^0000FFZeith^000000]\n...\n¿No será que tiene mucho frío y ya?"
     },
     "z25RBg": {
         "en-US": "[^FF0000Vrid^000000]\nNow, come hug us.\nNo, hug me first.\nThen, light will flash as the ice around me cracks, you know, like in those fairy tales!",
@@ -427,7 +427,7 @@
     "1W5RBg": {
         "en-US": "I already know what the story is. I should just... skip it.",
         "pt-BR": "Eu já sabia...",
-        "es-ES": "Ya sé cuál es la historia.  Debería simplemente… omitirla."
+        "es-ES": "Ya sé cuál es la historia.  Debería simplemente... omitirla."
     },
     "1m5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nIt's not stupid!\nIt's the truth!\nVrid's Report:\nSecret of the Ice Cave!",
@@ -437,7 +437,7 @@
     "125RBg": {
         "en-US": "[^0000FFZeith^000000]\nSigh...",
         "pt-BR": "[^0000FFZeith^000000]\nUgh...",
-        "es-ES": "[^0000FFZeith^000000]\nAish…"
+        "es-ES": "[^0000FFZeith^000000]\nAish..."
     },
     "2G5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nAccording to my investigation, this cave used to be a subterranean kingdom, and it was entirely made of gold, like El Dorado!",
@@ -482,7 +482,7 @@
     "4G5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nHah hah, now there's only one thing left to try.\nThat is...",
         "pt-BR": "[^FF0000Vrid^000000]\nHahaha! ... Só resta uma saída!",
-        "es-ES": "[^FF0000Vrid^000000]\nJa, ja, ahora solo queda una cosa por intentar. \nEs decir…"
+        "es-ES": "[^FF0000Vrid^000000]\nJa, ja, ahora solo queda una cosa por intentar. \nEs decir..."
     },
     "4W5RBg": {
         "en-US": "[^0000FFZeith^000000]\nNo more stupid ideas, please!",
@@ -497,7 +497,7 @@
     "425RBg": {
         "en-US": "[^0000FFZeith^000000]\nSo we're resorting to brute force.\nYou want me to go first?\nCoward!\nSigh... Please be gentle?\nNo, hit me with your best shot!",
         "pt-BR": "[^0000FFZeith^000000]\nHah... Método da barbárie... Mas não há o que fazer, então... tente destruir meu gelo primeiro!",
-        "es-ES": "[^0000FFZeith^000000]\nConque vamos a recurrir a la fuerza bruta. \n¿Quieres que pruebe conmigo primero? \n¡Cobarde! Aish… Por favor, ten cuidado. \n¡No, golpéame con toda tu fuerza!"
+        "es-ES": "[^0000FFZeith^000000]\nConque vamos a recurrir a la fuerza bruta. \n¿Quieres que pruebe conmigo primero? \n¡Cobarde! Aish... Por favor, ten cuidado. \n¡No, golpéame con toda tu fuerza!"
     },
     "5G5RBg": {
         "en-US": "[^0000FFZeith^000000]\nPlease come back after hunting 10 Furious Gazetis inside the cave.",
@@ -517,7 +517,7 @@
     "525RBg": {
         "en-US": "[^0000FFZeith^000000]\n...I can't believe it worked.",
         "pt-BR": "[^0000FFZeith^000000]\n...Eu não esperava muita coisa, mas realmente pensei que o gelo quebraria.",
-        "es-ES": "[^0000FFZeith^000000]\n…No puedo creer que haya funcionado."
+        "es-ES": "[^0000FFZeith^000000]\n...No puedo creer que haya funcionado."
     },
     "6G5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nIt worked because I'm a genius!\nYou should be thanking me, Zeith!",
@@ -537,7 +537,7 @@
     "625RBg": {
         "en-US": "[^0000FFZeith^000000]\n...Sigh. You're lucky I'm too kind to just leave you here.\nI'm still too stiff to move.\nWould you take care of him, too??",
         "pt-BR": "[^0000FFZeith^000000]\n...Eu adoraria te largar aqui, mas não irei.\nVamos, quebre o gelo do meu amigo também.",
-        "es-ES": "[^0000FFZeith^000000]\n…Aish. Tienes suerte de que sea demasiado bueno como para dejarte aquí.\nTodavía estoy demasiado rígido como para moverme. \n¿Podrías liberarlo a él también?"
+        "es-ES": "[^0000FFZeith^000000]\n...Aish. Tienes suerte de que sea demasiado bueno como para dejarte aquí.\nTodavía estoy demasiado rígido como para moverme. \n¿Podrías liberarlo a él también?"
     },
     "7G5RBg": {
         "en-US": "[^0000FFZeith^000000]\nNow, we need to help Vrid.\nPlease get him out of the ice.",
@@ -557,7 +557,7 @@
     "725RBg": {
         "en-US": "[^FF0000Vrid^000000]\nWait.\nWe're warriors...\nWe can't leave without making our enemy pay for what he did to us!",
         "pt-BR": "[^FF0000Vrid^000000]\nAh, não! Que tipo de herói é esse que não busca vingança pelo o que ocorreu?!",
-        "es-ES": "[^FF0000Vrid^000000]\nEspera. \nSomos guerreros… \n¡No podemos irnos sin hacer que nuestro enemigo pague por lo que nos hizo!"
+        "es-ES": "[^FF0000Vrid^000000]\nEspera. \nSomos guerreros... \n¡No podemos irnos sin hacer que nuestro enemigo pague por lo que nos hizo!"
     },
     "8G5RBg": {
         "en-US": "[^0000FFZeith^000000]\nRevenge?\nDo you want to get frozen again?",
@@ -572,7 +572,7 @@
     "8m5RBg": {
         "en-US": "[^0000FFZeith^000000]\nSigh...\nThis knucklehead touched something he shouldn't.",
         "pt-BR": "[^0000FFZeith^000000]\nUrgh... esse mané tocou em uma coisa que não deveria ter tocado...",
-        "es-ES": "[^0000FFZeith^000000]\nAish… \nEste cabeza de chorlito tocó algo que no debía."
+        "es-ES": "[^0000FFZeith^000000]\nAish... \nEste cabeza de chorlito tocó algo que no debía."
     },
     "825RBg": {
         "en-US": "[^FF0000Vrid^000000]\nCome on, I was only trying to help!",
@@ -602,12 +602,12 @@
     "+G5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nHis real name was?\nWhat was his name??\nKtulla-something.\nSomeone once told me the lizard has been hired by the archpriests of Rachel to keep watch over a boy who is sealed inside this cave.",
         "pt-BR": "[^FF0000Vrid^000000]\nO nome verdadeiro desse lagarto é... Cthulhu alguma coisa. Eu ouvi dizer que ele fez um acordo com os Cardeais de Rachel para vigiar um garoto.",
-        "es-ES": "[^FF0000Vrid^000000]\nSe llamaba… \n¿Cómo era? \nKtulla-algo. \nDicen que los arciprestes de Rachel contrataron al lagarto para custodiar a un chico encerrado en esta cueva."
+        "es-ES": "[^FF0000Vrid^000000]\nSe llamaba... \n¿Cómo era? \nKtulla-algo. \nDicen que los arciprestes de Rachel contrataron al lagarto para custodiar a un chico encerrado en esta cueva."
     },
     "+W5RBg": {
         "en-US": "[^FF0000Vrid^000000]\nBut that story was so unrealistic?\nAnd boring?\nThat it's not worth remembering.\nA lizard is just a lizard, right?",
         "pt-BR": "[^FF0000Vrid^000000]\nQue leseira, né? Parece uma história mentirosa. Eu duvido que lagartos cuidam de meninos selados em cavernas.",
-        "es-ES": "[^FF0000Vrid^000000]\nPero la historia era tan inverosímil… \nY aburrida… \nQue ni me molesté en memorizarla. \nAl final, un lagarto es solo un lagarto, ¿no?"
+        "es-ES": "[^FF0000Vrid^000000]\nPero la historia era tan inverosímil... \nY aburrida... \nQue ni me molesté en memorizarla. \nAl final, un lagarto es solo un lagarto, ¿no?"
     },
     "+m5RBg": {
         "en-US": "[^0000FFZeith^000000]\nIf you ask me, that sounds the most plausible of all your stories I've heard.",
@@ -687,7 +687,7 @@
     "CW9RBg": {
         "en-US": "Ktullanux: I'll... be... back...",
         "pt-BR": "Ktullanux de Cristal : Eu... voltarei...",
-        "es-ES": "Ktullanux: Yo… volveré…"
+        "es-ES": "Ktullanux: Yo... volveré..."
     },
     "Cm9RBg": {
         "en-US": "This Orb of Seal is filled with energy.",
@@ -727,7 +727,7 @@
     "EW9RBg": {
         "en-US": "[Illusion Stone Researcher]\nAh, Illusion Stones are truly mysterious...",
         "pt-BR": "[Químico Ilusional]\nInteressante... a Pedra Ilusional é realmente misteriosa...",
-        "es-ES": "[Investigador de Piedras Ilusorias]\nAh, las Piedras Ilusorias son tan misteriosas…"
+        "es-ES": "[Investigador de Piedras Ilusorias]\nAh, las Piedras Ilusorias son tan misteriosas..."
     },
     "Em9RBg": {
         "en-US": "What are you doing here?",

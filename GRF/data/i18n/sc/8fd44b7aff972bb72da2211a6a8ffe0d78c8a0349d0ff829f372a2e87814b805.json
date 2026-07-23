@@ -42,12 +42,12 @@
     "6DTtAg": {
         "en-US": "[Viorel]\nMm?\nWhere's that ^FF4800homunculus^000000 from before?\nI think I'm mistaken for something...",
         "pt-BR": "[Viorel]\nHm?\nCadê aquele ^FF4800homúnculo^000000 de antes?\nAcho que me enganei com alguma coisa...",
-        "es-ES": "[Viorel]\n¿Mm?\n¿Dónde está ese ^FF4800homúnculo^000000 de antes?\nCreo que me estoy equivocando en algo…"
+        "es-ES": "[Viorel]\n¿Mm?\n¿Dónde está ese ^FF4800homúnculo^000000 de antes?\nCreo que me estoy equivocando en algo..."
     },
     "6TTtAg": {
         "en-US": "[Viorel]\n...",
         "pt-BR": "[Viorel]\n...",
-        "es-ES": "[Viorel]\n…"
+        "es-ES": "[Viorel]\n..."
     },
     "6jTtAg": {
         "en-US": "(Thinking)",
@@ -87,7 +87,7 @@
     "8TTtAg": {
         "en-US": "[Viorel]\nHm, what happened to your ^FF4800homunculus^000000 that I saw the last time?\nI think I'm mistaken for something...",
         "pt-BR": "[Viorel]\nHm, o que aconteceu com o ^FF4800homúnculo^000000 que eu vi na última vez?\nAcho que me enganei com alguma coisa...",
-        "es-ES": "[Viorel]\nMm, ¿qué pasó con tu ^FF4800homúnculo^000000, el que vi la última vez?\nCreo que me estoy equivocando en algo…"
+        "es-ES": "[Viorel]\nMm, ¿qué pasó con tu ^FF4800homúnculo^000000, el que vi la última vez?\nCreo que me estoy equivocando en algo..."
     },
     "8jTtAg": {
         "en-US": "[Viorel]\nHah hah. I thought you were someone else.\nNow, excuse me.",
@@ -232,7 +232,7 @@
     "DjXtAg": {
         "en-US": "[Jeyna's Memo]\n:: The ^FF4800Dieter^000000 is capable of\n:: ^FF0000Fire^000000 attacks\n:: and supportive skills.\n:: Definitely as unstable--I mean, reliable\n:: as he looks.",
         "pt-BR": "[Memorando de Jaina]\n:: O ^FF4800Dieter^000000 realiza\n:: ataques de ^FF0000Fogo^000000\n:: e tem habilidades de apoio.\n:: Definitivamente tão instável... digo, confiável\n:: quanto parece.",
-        "es-ES": "[Nota de Jeyna]\n:: ^FF4800Dieter^000000 puede\n:: lanzar ^FF0000ataques^000000 de fuego\n:: y tiene habilidades de apoyo.\n:: Sin duda, tan inestable… quiero decir, fiable\n:: como parece."
+        "es-ES": "[Nota de Jeyna]\n:: ^FF4800Dieter^000000 puede\n:: lanzar ^FF0000ataques^000000 de fuego\n:: y tiene habilidades de apoyo.\n:: Sin duda, tan inestable... quiero decir, fiable\n:: como parece."
     },
     "DzXtAg": {
         "en-US": "[Jeyna's Memo]\n:: The ^FF4800Dieter^000000 lives on\n:: ^0000FFBig Scells^000000.\n:: ^0000FFBig Scells^000000 can be\n:: purchased from ^005DFFTaming Merchants^000000.",
@@ -242,7 +242,7 @@
     "EDXtAg": {
         "en-US": "[Jeyna's Memo]\n:: Fourth,\n:: the ^FF4800Bayeri^000000.\n:: He's shaped like a unicorn.\n:: The ^FF4800Bayeri^000000 is...",
         "pt-BR": "[Memorando de Jaina]\n:: Quarto,\n:: o ^FF4800Bayeri^000000.\n:: Ele tem o formato de um unicórnio.\n:: O ^FF4800Bayeri^000000 é...",
-        "es-ES": "[Nota de Jeyna]\n:: Cuarto,\n:: ^FF4800Bayeri^000000.\n:: Tiene forma de unicornio.\n:: ^FF4800Bayeri^000000 puede…"
+        "es-ES": "[Nota de Jeyna]\n:: Cuarto,\n:: ^FF4800Bayeri^000000.\n:: Tiene forma de unicornio.\n:: ^FF4800Bayeri^000000 puede..."
     },
     "ETXtAg": {
         "en-US": "[Jeyna's Memo]\n:: capable of powerful charging attacks\n:: and ^006400Holy^000000 magic.\n:: Unfortunately, though,\n:: he can't be ridden.\n:: Not all quadruped animals\n:: can be ridden, if I might add.",
@@ -362,7 +362,7 @@
     "KDXtAg": {
         "en-US": "Heek! Bio... experimentation?",
         "pt-BR": "Ah! Bio... experimentação?",
-        "es-ES": "¡Ahh! Bio… ¿experimentación?"
+        "es-ES": "¡Ahh! Bio... ¿experimentación?"
     },
     "KTXtAg": {
         "en-US": "Mm, I see.",
@@ -377,7 +377,7 @@
     "KzXtAg": {
         "en-US": "[Viorel]\nWhy?\nAre you worried that you might violate your bioethics oath?\nBut...",
         "pt-BR": "[Viorel]\nPor quê?\nVocê se preocupa com a possibilidade de violar seu juramento de bioética?\nMas...",
-        "es-ES": "[Viorel]\n¿Por qué?\n¿Te preocupa violar tu juramento bioético?\nPero…"
+        "es-ES": "[Viorel]\n¿Por qué?\n¿Te preocupa violar tu juramento bioético?\nPero..."
     },
     "LDXtAg": {
         "en-US": "[Viorel]\nWe'd also fail as researchers if we continue to neglect ^FF4800homunculus^000000 technology. Don't you agree?",
@@ -432,7 +432,7 @@
     "NjXtAg": {
         "en-US": "[Viorel]\nThe only aftereffect I can think of is...\n^006400their appearance changes^000000,\nbut usually for the better.",
         "pt-BR": "[Viorel]\nO único efeito colateral que consigo imaginar é...\n^006400uma mudança na aparência^000000,\nmas geralmente é para melhor.",
-        "es-ES": "[Viorel]\nLa única secuela que se me ocurre es…\n^006400que su apariencia cambia^000000,\npero normalmente para mejor."
+        "es-ES": "[Viorel]\nLa única secuela que se me ocurre es...\n^006400que su apariencia cambia^000000,\npero normalmente para mejor."
     },
     "NzXtAg": {
         "en-US": "[Viorel]\nI remember what ^005DFFKeshibien^000000, another ^FF4800homunculus^000000 scholar, said.\n''^006400There's more than one truth.^000000''\nHah hah.",
@@ -492,7 +492,7 @@
     "QjXtAg": {
         "en-US": "[Viorel]\nYour ^FF4800homunculus^000000 has returned to its ^0000FFembryo^000000 state.\nIt looks a bit strange, but...\nDon't worry.",
         "pt-BR": "[Viorel]\nSeu ^FF4800homúnculo^000000 retornou ao estado de ^0000FFembrião^000000.\nParece um pouco estranho, mas...\nNão se preocupe.",
-        "es-ES": "[Viorel]\nTu ^FF4800homúnculo^000000 volvió a su estado de ^0000FFembrión^000000.\nParece un poco extraño, pero…\nNo te preocupes."
+        "es-ES": "[Viorel]\nTu ^FF4800homúnculo^000000 volvió a su estado de ^0000FFembrión^000000.\nParece un poco extraño, pero...\nNo te preocupes."
     },
     "QzXtAg": {
         "en-US": "[Viorel]\nBy the way,\nI forgot to tell you this earlier.\nThis transmutation is an unstable process, and stabilizing it requires a combination of materials.",
@@ -507,12 +507,12 @@
     "RTXtAg": {
         "en-US": "[Viorel]\nI wish I could give them to you for free, but I cant.\nI'm not getting as much funds as before from shady researchers.\nI don't like being told what to do by them, so...",
         "pt-BR": "[Viorel]\nEu gostaria de poder dar a você de graça, mas não posso.\nNão estou recebendo tantos fundos quanto antes de pesquisadores duvidosos.\nNão gosto que me digam o que fazer, então...",
-        "es-ES": "[Viorel]\nOjalá pudiera dártelos gratis, pero no puedo.\nYa no recibo tantos fondos como antes de investigadores sospechosos.\nNo me gusta que me digan lo que tengo que hacer, así que…"
+        "es-ES": "[Viorel]\nOjalá pudiera dártelos gratis, pero no puedo.\nYa no recibo tantos fondos como antes de investigadores sospechosos.\nNo me gusta que me digan lo que tengo que hacer, así que..."
     },
     "RjXtAg": {
         "en-US": "[Viorel]\nIf you don't have enough Zeny to pay me, you can just ^006400transmute your homunculus without stabilizing the process^000000.\nThe problem is...",
         "pt-BR": "[Viorel]\nSe não tiver Zeny suficiente para me pagar, você pode simplesmente ^006400transmutar o homúnculo sem estabilizar o processo^000000.\nO problema é que...",
-        "es-ES": "[Viorel]\nSi no tienes suficiente zeny para pagarme, puedes simplemente ^006400transmutar tu homúnculo sin estabilizar el proceso^000000.\nEl problema es…"
+        "es-ES": "[Viorel]\nSi no tienes suficiente zeny para pagarme, puedes simplemente ^006400transmutar tu homúnculo sin estabilizar el proceso^000000.\nEl problema es..."
     },
     "RzXtAg": {
         "en-US": "[Viorel]\nIn that case, ^006400you don't get to choose which homunculus you'll get^000000.",
@@ -592,7 +592,7 @@
     "VjXtAg": {
         "en-US": "[Viorel]\nNow, focus.\nFocus... Don't let your mind...\nwander.",
         "pt-BR": "[Viorel]\nAgora, concentre-se.\nConcentre-se... Não deixe a mente...\nvagar.",
-        "es-ES": "[Viorel]\nBien, concéntrate.\nConcéntrate… No dejes que tu mente…\ndeambule."
+        "es-ES": "[Viorel]\nBien, concéntrate.\nConcéntrate... No dejes que tu mente...\ndeambule."
     },
     "VzXtAg": {
         "en-US": "[Viorel]\nOkay, we're almost done!",
@@ -647,7 +647,7 @@
     "YTXtAg": {
         "en-US": "[Viorel]\nHm...\nSure, experiments are a good way\nof gaining knowledge, I guess.\n...",
         "pt-BR": "[Viorel]\nHm...\nClaro, experimentos são uma boa maneira\nde obter conhecimento, eu acho.\n...",
-        "es-ES": "[Viorel]\nMmm…\nClaro, los experimentos son una buena manera\nde adquirir conocimientos, supongo.\n…"
+        "es-ES": "[Viorel]\nMmm...\nClaro, los experimentos son una buena manera\nde adquirir conocimientos, supongo.\n..."
     },
     "YjXtAg": {
         "en-US": "[Viorel]\nHah hah.\nI feel as if I've become a blacksmith.\nAlright, now that's been decided, let's do it.",
@@ -692,7 +692,7 @@
     "ajXtAg": {
         "en-US": "[Jeyna]\nMm, and...\n^0000FF{0}^000000, you somehow remind me of ^005DFFViorel^000000, too.",
         "pt-BR": "[Jaina]\nMm, e...\n^0000FF{0}^000000, de alguma forma, você também me lembra o ^005DFFViorel^000000.",
-        "es-ES": "[Jeyna]\nMm, y…\n^0000FF{0}^000000, de alguna manera también me recuerdas a ^005DFFViorel^000000."
+        "es-ES": "[Jeyna]\nMm, y...\n^0000FF{0}^000000, de alguna manera también me recuerdas a ^005DFFViorel^000000."
     },
     "azXtAg": {
         "en-US": "[Jeyna]\nHah hah. Not in a bad way, of course.\nI like weirdos.\nOh, right!\nYou came to learn about the ^FF4800homunculus^000000 transmutation, right?",
@@ -802,7 +802,7 @@
     "gDXtAg": {
         "en-US": "[Jeyna]\nYou have to be\ncalm for this process.\n...",
         "pt-BR": "[Jaina]\nVocê precisa relaxar\npara este processo.\n...",
-        "es-ES": "[Jeyna]\nTienes que mantener\nla calma para este proceso.\n…"
+        "es-ES": "[Jeyna]\nTienes que mantener\nla calma para este proceso.\n..."
     },
     "gTXtAg": {
         "en-US": "[Jeyna]\nSoon, your ^FF4800homunculus^000000 will turn back into an embryo.",
@@ -812,17 +812,17 @@
     "gjXtAg": {
         "en-US": "[Jeyna]\nA special embryo, if I might add...",
         "pt-BR": "[Jaina]\nUm embrião especial, se posso dizer...",
-        "es-ES": "[Jeyna]\nUn embrión especial si me permites agregar…"
+        "es-ES": "[Jeyna]\nUn embrión especial si me permites agregar..."
     },
     "gzXtAg": {
         "en-US": "[Jeyna]\nWhew, it's done.\nMm, the embryo doesn't look quite right, but...",
         "pt-BR": "[Jaina]\nUfa, já está pronto.\nO embrião não parece muito bem, mas...",
-        "es-ES": "[Jeyna]\nUf, ya está.\nMm, el embrión no se ve del todo bien, pero…"
+        "es-ES": "[Jeyna]\nUf, ya está.\nMm, el embrión no se ve del todo bien, pero..."
     },
     "hDXtAg": {
         "en-US": "[Jeyna]\nWell, I don't think it's something to worry about.\nPlease be careful not to lose the ^0000FFStrange Embryo^000000 in your bag.\nAnd...",
         "pt-BR": "[Jaina]\nBem, acho que não precisamos nos preocupar.\nTome cuidado para não perder o ^0000FFEmbrião Estranho^000000 em sua bolsa.\nE...",
-        "es-ES": "[Jeyna]\nBueno, no creo que sea algo de lo que preocuparse.\nTen cuidado de no perder el ^0000FFEmbrión extraño^000000 en tu bolso.\nY…"
+        "es-ES": "[Jeyna]\nBueno, no creo que sea algo de lo que preocuparse.\nTen cuidado de no perder el ^0000FFEmbrión extraño^000000 en tu bolso.\nY..."
     },
     "hTXtAg": {
         "en-US": "[Jeyna]\nBefore you complete its mutation process, please try not to do anything else, such as changing your job.\nOr ^0000FF{0}^000000, your homunculus-related abilities will disappear permanently.",
@@ -917,7 +917,7 @@
     "lzXtAg": {
         "en-US": "[Board]\n:: The ^FF4800Dieter^000000 is capable of\n:: ^FF0000Fire^000000 attacks\n:: and supportive skills.\n:: Definitely as unstable--I mean, reliable\n:: as he looks.",
         "pt-BR": "[Quadro]\n:: O ^FF4800Dieter^000000 realiza\n:: ataques de ^FF0000Fogo^000000\n:: e tem habilidades de apoio.\n:: Definitivamente tão instável... digo, confiável\n:: quanto parece.",
-        "es-ES": "[Tablero]\n:: ^FF4800Dieter^000000 puede\n:: lanzar ^FF0000ataques^000000 de fuego\n:: y tiene habilidades de apoyo.\n:: Sin duda, tan inestable… quiero decir, fiable\n:: como parece."
+        "es-ES": "[Tablero]\n:: ^FF4800Dieter^000000 puede\n:: lanzar ^FF0000ataques^000000 de fuego\n:: y tiene habilidades de apoyo.\n:: Sin duda, tan inestable... quiero decir, fiable\n:: como parece."
     },
     "mDXtAg": {
         "en-US": "[Board]\n:: The ^FF4800Dieter^000000 lives on\n:: ^0000FFBig Scells^000000.\n:: ^0000FFBig Scells^000000 can be\n:: purchased from ^005DFFTaming Merchants^000000.",
@@ -927,7 +927,7 @@
     "mTXtAg": {
         "en-US": "[Board]\n:: Fourth,\n:: the ^FF4800Bayeri^000000.\n:: He's shaped like a unicorn.\n:: The ^FF4800Bayeri^000000 is...",
         "pt-BR": "[Quadro]\n:: Quarto,\n:: o ^FF4800Bayeri^000000.\n:: Ele tem o formato de um unicórnio.\n:: O ^FF4800Bayeri^000000 é...",
-        "es-ES": "[Tablero]\n:: Cuarto,\n:: ^FF4800Bayeri^000000.\n:: Tiene forma de unicornio.\n:: ^FF4800Bayeri^000000 puede…"
+        "es-ES": "[Tablero]\n:: Cuarto,\n:: ^FF4800Bayeri^000000.\n:: Tiene forma de unicornio.\n:: ^FF4800Bayeri^000000 puede..."
     },
     "mjXtAg": {
         "en-US": "[Board]\n:: capable of powerful charging attacks\n:: and ^006400Holy^000000 magic.\n:: Unfortunately, though,\n:: he can't be ridden.\n:: Not all quadruped animals\n:: can be ridden, if I might add.",
@@ -962,7 +962,7 @@
     "oDXtAg": {
         "en-US": "[Board]\n:: And Viorel,\n:: yesterday, you said...\n:: \n::",
         "pt-BR": "[Quadro]\n:: E, Viorel,\n:: ontem, você disse...\n:: \n::",
-        "es-ES": "[Tablero]\n:: Y, Viorel,\n:: ayer dijiste…\n:: \n::"
+        "es-ES": "[Tablero]\n:: Y, Viorel,\n:: ayer dijiste...\n:: \n::"
     },
     "oTXtAg": {
         "en-US": "--------------------------\nThe remaining part is hidden, probably because it's too private.",
@@ -1032,7 +1032,7 @@
     "rjXtAg": {
         "en-US": "[Open Book]\nShe did well up to the point that she poured water into the medicine bowl with all the other ingredients in it.\nThe last thing to do was just to pour it into an empty bottle, and...",
         "pt-BR": "[Livro aberto]\nEla se saiu bem até o ponto em que despejou água na vasilha de mistura com todos os outros ingredientes.\nA última coisa a fazer era despejar a água em uma garrafa vazia e...",
-        "es-ES": "[Libro abierto]\nLo hizo bien hasta el momento en que vertió agua en el cuenco para medicina con todos los demás ingredientes dentro.\nLo último que había que hacer era verterla en una botella vacía, y…"
+        "es-ES": "[Libro abierto]\nLo hizo bien hasta el momento en que vertió agua en el cuenco para medicina con todos los demás ingredientes dentro.\nLo último que había que hacer era verterla en una botella vacía, y..."
     },
     "rzXtAg": {
         "en-US": "[Open Book]\n^005DFFDarcia^000000, instead of telling her what to do, waited to see what she was going to do.\nThat must have stumped ^005DFFJeyna^000000 because she drank the mixture right out of the medicine bowl and said she could feel her energy being restored.",
@@ -1062,7 +1062,7 @@
     "tDXtAg": {
         "en-US": "[Open Book]\nA philosopher said the sole feature that gives an action moral worth\nis not the outcome, but the motive.\nAt first, I didn't understand that,\nbut...",
         "pt-BR": "[Livro aberto]\nUm filósofo disse que a única característica que dá valor moral a uma ação\nnão é o resultado, mas o motivo.\nNo começo, eu não entendia isso,\nmas...",
-        "es-ES": "[Libro abierto]\nUn filósofo dijo que la única función que da valor moral a una acción\nno es el resultado, sino el motivo.\nAl principio, no lo entendía,\npero…"
+        "es-ES": "[Libro abierto]\nUn filósofo dijo que la única función que da valor moral a una acción\nno es el resultado, sino el motivo.\nAl principio, no lo entendía,\npero..."
     },
     "tTXtAg": {
         "en-US": "[Open Book]\nNow, I do.\nIt's important\nthat you follow your heart.",
@@ -1142,7 +1142,7 @@
     "xDXtAg": {
         "en-US": "[Open Book]\nRecently, ^005DFFJeyna^000000 and I have been enjoying using\nthis new toy\ncalled... ^0000FFHelo^000000, I think.",
         "pt-BR": "[Livro aberto]\nRecentemente, ^005DFFJaina^000000 e eu gostamos de usar\nesse novo brinquedo\nchamado... ^0000FFHelo^000000, eu acho.",
-        "es-ES": "[Libro abierto]\nHace poco, ^005DFFJeyna^000000 y yo disfrutamos utilizando\neste nuevo juguete\nllamado… ^0000FFHelo^000000, creo."
+        "es-ES": "[Libro abierto]\nHace poco, ^005DFFJeyna^000000 y yo disfrutamos utilizando\neste nuevo juguete\nllamado... ^0000FFHelo^000000, creo."
     },
     "xTXtAg": {
         "en-US": "[Open Book]\nIt's even got an exclusive song, sung by some ^57007FMaestro^000000.\nThe song goes, ^006400''Ah, ah ah ah. Ah ah ah ah, ah ah ah.''^000000",
@@ -1207,7 +1207,7 @@
     "0TXtAg": {
         "en-US": "[Open Book]\nThis leads to\na massive war\nin the ^8B4513Morroc Desert^000000\nthat can destroy\nor save the entire world...",
         "pt-BR": "[Livro aberto]\nIsso leva a\numa grande guerra\nno ^8B4513Deserto de Morroc^000000\nque pode destruir\nou salvar o mundo inteiro...",
-        "es-ES": "[Libro abierto]\nEsto provoca\na una guerra masiva\nen el desierto de Morroc ^8B4513^000000\nque puede destruir\no salvar al mundo entero…"
+        "es-ES": "[Libro abierto]\nEsto provoca\na una guerra masiva\nen el desierto de Morroc ^8B4513^000000\nque puede destruir\no salvar al mundo entero..."
     },
     "0jXtAg": {
         "en-US": "[Open Book]\nAhem!\nI should stop revealing the story\nuntil the actual book is published.\n^0000FFMutationers^000000!\nIt'll be a masterpiece!",
@@ -1237,7 +1237,7 @@
     "1zXtAg": {
         "en-US": "[Open Book]\nFundamentally, all things in nature exist for their own selves.\nBut...",
         "pt-BR": "[Livro aberto]\nFundamentalmente, todas as coisas na natureza existem para si mesmas.\nMas...",
-        "es-ES": "[Libro abierto]\nFundamentalmente, todas las cosas de la naturaleza existen por sí mismas.\nPero…"
+        "es-ES": "[Libro abierto]\nFundamentalmente, todas las cosas de la naturaleza existen por sí mismas.\nPero..."
     },
     "2DXtAg": {
         "en-US": "[Open Book]\nNot homunculi. They're created to benefit us people,\nand is that ethical? For us? For them?",
@@ -1267,7 +1267,7 @@
     "3TXtAg": {
         "en-US": "[Jonathan]\nBaa, baa-!",
         "pt-BR": "[Jonathan]\nBaa, baa...!",
-        "es-ES": "[Jonathan]\n¡Bee, bee…!"
+        "es-ES": "[Jonathan]\n¡Bee, bee...!"
     },
     "3jXtAg": {
         "en-US": ":: This must be Viorel's homunculus.\n:: It's wearing a small name tag around its neck\n:: with the name, Jonathan, inscribed on it.",
@@ -1282,7 +1282,7 @@
     "4DXtAg": {
         "en-US": "[Jonathan]\n*Sniff...*",
         "pt-BR": "[Jonathan]\n*Sniff...*",
-        "es-ES": "[Jonathan]\n*Solloza…*"
+        "es-ES": "[Jonathan]\n*Solloza...*"
     },
     "4TXtAg": {
         "en-US": ":: The Amistr,\n:: Jonathan, looks as if it's surprised\n:: by the way my homunculus looks\n:: now that it's been transmutated.",

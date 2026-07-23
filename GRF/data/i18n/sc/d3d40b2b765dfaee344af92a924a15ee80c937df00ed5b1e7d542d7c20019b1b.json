@@ -32,7 +32,7 @@
     "Rls3Cg": {
         "en-US": "[Rigel]\nHowever......\nYou see the abandoned cathedral here, right?\nAnd there's also a graveyard right next to it\n...",
         "pt-BR": "[Rigel]\nNo entanto......\nVocê está vendo a catedral abandonada aqui, certo?\nE há também um cemitério bem próximo a ela\n...",
-        "es-ES": "[Rigel]\nSin embargo…\nVes la catedral abandonada, ¿verdad?\nTambién hay un cementerio justo al lado…\n…"
+        "es-ES": "[Rigel]\nSin embargo...\nVes la catedral abandonada, ¿verdad?\nTambién hay un cementerio justo al lado...\n..."
     },
     "R1s3Cg": {
         "en-US": "[Rigel]\nAnd I heard it. The sound of the ghost.\nI believed it was a lie, but I heard the sound myself!",
@@ -42,7 +42,7 @@
     "SFs3Cg": {
         "en-US": "[Rigel]\nSo I secretly filed a request to Eden Group's office.\nA member from Eden Group came and went in there alone to investigate, but...",
         "pt-BR": "[Rigel]\nEntão, secretamente, entrei com um pedido no escritório do Grupo do Éden.\nUm membro do Grupo do Éden foi até lá sozinho para investigar, mas...",
-        "es-ES": "[Rigel]\nAsí que, en secreto, presenté una solicitud a la oficina del Grupo del Edén.\nUn miembro del Grupo del Edén entró allí a solas para investigar, pero…"
+        "es-ES": "[Rigel]\nAsí que, en secreto, presenté una solicitud a la oficina del Grupo del Edén.\nUn miembro del Grupo del Edén entró allí a solas para investigar, pero..."
     },
     "SVs3Cg": {
         "en-US": "[Rigel]\nHe hasn't come out even once since then.\nWhat if the ghost got him?\nPlease, go in there and see if he's alive!",
@@ -67,7 +67,7 @@
     "TVs3Cg": {
         "en-US": "[Rigel]\nI-I can't do that!\nThis area is off-limits to academy students.\nI might get suspended... or even expelled!",
         "pt-BR": "[Rigel]\nEu não posso fazer isso!\nEsta área está fora dos limites para os alunos da academia.\nPosso ser suspenso... ou até expulso!",
-        "es-ES": "[Rigel]\n¡N-no puedo hacer eso!\nEs una zona prohibida para los estudiantes de la academia.\nPodrían suspenderme… ¡o incluso expulsarme!"
+        "es-ES": "[Rigel]\n¡N-no puedo hacer eso!\nEs una zona prohibida para los estudiantes de la academia.\nPodrían suspenderme... ¡o incluso expulsarme!"
     },
     "Tls3Cg": {
         "en-US": "[Rigel]\n*Sigh...* Alright.\nI'll look for someone else.\nThank you for listening to me.",
@@ -87,12 +87,12 @@
     "UVs3Cg": {
         "en-US": "[Rigel]\nOh... You need to investigate more.\nI get it.\nIt's a relief that everyone's all right.",
         "pt-BR": "[Rigel]\nOh... Você precisa investigar mais.\nEu entendo.\nÉ um alívio saber que todos estão bem.",
-        "es-ES": "[Rigel]\nAh… Tienes que investigar más.\nEntiendo.\nEs un alivio que todos estén bien."
+        "es-ES": "[Rigel]\nAh... Tienes que investigar más.\nEntiendo.\nEs un alivio que todos estén bien."
     },
     "Uls3Cg": {
         "en-US": "[Rigel]\nWell... I think I'll get suspended or expelled if I tell my friends\nabout this place and word gets around.\nI'll keep this a secret and make sure no one approaches here.",
         "pt-BR": "[Rigel]\nBem... Acho que serei suspenso ou expulso se contar \naos meus amigos sobre este lugar e a notícia se espalhar.\nVou manter isso em segredo e garantir que ninguém se aproxime daqui.",
-        "es-ES": "[Rigel]\nBueno… Me suspenderán o expulsarán si les cuento a mis amistades\nsobre este lugar y se corre la voz.\nMantendré esto en secreto y me aseguraré de que nadie se acerque."
+        "es-ES": "[Rigel]\nBueno... Me suspenderán o expulsarán si les cuento a mis amistades\nsobre este lugar y se corre la voz.\nMantendré esto en secreto y me aseguraré de que nadie se acerque."
     },
     "U1s3Cg": {
         "en-US": "[Rigel]\n*Humming* I sure hope someone strong shows up here soon.",
@@ -152,7 +152,7 @@
     "Xls3Cg": {
         "en-US": "[Cursa]\nHmm... Adventurer, how about you go in there while I stand guard out here?",
         "pt-BR": "[Cursa]\nHmm... Aventureiro, que tal você ir lá dentro enquanto eu fico de guarda aqui fora?",
-        "es-ES": "[Cursa]\nMmm… Trotamundos, ¿qué tal si entras mientras yo hago guardia aquí fuera?"
+        "es-ES": "[Cursa]\nMmm... Trotamundos, ¿qué tal si entras mientras yo hago guardia aquí fuera?"
     },
     "X1s3Cg": {
         "en-US": "Sure.",
@@ -177,7 +177,7 @@
     "Y1s3Cg": {
         "en-US": "[Cursa]\nOh, this is troublesome.\nI can't be here doing nothing all day...",
         "pt-BR": "[Cursa]\nOh, isso é um problema.\nNão posso ficar aqui sem fazer nada o dia todo...",
-        "es-ES": "[Cursa]\nAh, qué molestia.\nNo puedo estar todo el día aquí sin hacer nada…"
+        "es-ES": "[Cursa]\nAh, qué molestia.\nNo puedo estar todo el día aquí sin hacer nada..."
     },
     "ZFs3Cg": {
         "en-US": "[Cursa]\nPlease check the inside while I'm operating this door.\nEven better if you'd destroy a robot and bring me its part.",
@@ -202,7 +202,7 @@
     "aFs3Cg": {
         "en-US": "[Cursa]\nI don't really want to dig into the background of this place, but I accepted the request, so...\nThis much investigation would be manageable, I think.",
         "pt-BR": "[Cursa]\nEu realmente não quero me aprofundar no histórico desse lugar, mas aceitei o pedido, então...\nEssa quantidade de investigação seria possível, eu acho.",
-        "es-ES": "[Cursa]\nEn realidad, no quiero indagar sobre el pasado de este lugar, pero acepté la solicitud, así que…\nEsta investigación no debería ser complicada."
+        "es-ES": "[Cursa]\nEn realidad, no quiero indagar sobre el pasado de este lugar, pero acepté la solicitud, así que...\nEsta investigación no debería ser complicada."
     },
     "aVs3Cg": {
         "en-US": "[Cursa]\nAnyway, I think these parts will be helpful in my work.\nIf you want to go to the lower floor, I'll operate the door again for you.",
@@ -277,7 +277,7 @@
     "d1s3Cg": {
         "en-US": "[Acher]\nThe sound was coming from the island far, far over there across the sea.\nI hear it every night. It's just too painful...",
         "pt-BR": "[Acher]\nO som estava vindo da ilha muito, muito longe, do outro lado do mar.\nEu o ouço todas as noites. É muito doloroso...",
-        "es-ES": "[Acher]\nEl sonido venía de una isla muy muy lejana, al otro lado del mar.\nLo oigo todas las noches. Es demasiado doloroso…"
+        "es-ES": "[Acher]\nEl sonido venía de una isla muy muy lejana, al otro lado del mar.\nLo oigo todas las noches. Es demasiado doloroso..."
     },
     "eFs3Cg": {
         "en-US": "[Acher]\nPlease, adventurer, get rid of the ^4D4DFFsource of the cry^000000 which appears on Unnamed Islet in the night.\nI think it is non other than a ^4D4DFFBanshee^000000.",
@@ -302,12 +302,12 @@
     "fFs3Cg": {
         "en-US": "[Acher]\nOh... What a pity.\nI'm sure someone generous enough to help out will show up one day.\nThank you for listening to my story.",
         "pt-BR": "[Acher]\nOh... Que pena.\nTenho certeza de que alguém generoso o suficiente para ajudar aparecerá um dia.\nObrigado por ouvir minha história.",
-        "es-ES": "[Acher]\nAh… Qué pena.\nAlgún día aparecerá una persona lo suficientemente generosa para ayudarme.\nGracias por escuchar mi historia."
+        "es-ES": "[Acher]\nAh... Qué pena.\nAlgún día aparecerá una persona lo suficientemente generosa para ayudarme.\nGracias por escuchar mi historia."
     },
     "fVs3Cg": {
         "en-US": "[Acher]\nOh... I doubt this place is a good fishing spot...",
         "pt-BR": "[Acher]\nOh... duvido que este lugar seja um bom ponto de pesca...",
-        "es-ES": "[Acher]\nAh… Dudo que este sea un buen sitio para pescar…"
+        "es-ES": "[Acher]\nAh... Dudo que este sea un buen sitio para pescar..."
     },
     "fls3Cg": {
         "en-US": "[Acher]\nThe strange wail coming from across the sea is making me unable to sleep,\nand you promised me to get rid of the source of that wail.",
@@ -337,7 +337,7 @@
     "g1s3Cg": {
         "en-US": "[Acher]\nOh... Oooh... Oooooh...!\nThank you.\nTalk to me anytime if you need a boat in the future.\nI'm your personal boatman to the Unnamed Islet from now on!",
         "pt-BR": "[Acher]\nOh... Oooh... Oooooh...!\nObrigado.\nFale comigo a qualquer momento se precisar de um barco no futuro.\nDe agora em diante, serei seu barqueiro pessoal para a Ilhota Não Nomeada!",
-        "es-ES": "[Acher]\nAh… Ahhhh… ¡Ahhhhh…!\nGracias.\nSi en algún momento necesitas un barco, ven a verme.\n¡De ahora en más, soy tu barquero personal hacia la Isla anónima!"
+        "es-ES": "[Acher]\nAh... Ahhhh... ¡Ahhhhh...!\nGracias.\nSi en algún momento necesitas un barco, ven a verme.\n¡De ahora en más, soy tu barquero personal hacia la Isla anónima!"
     },
     "hFs3Cg": {
         "en-US": "[Acher]\nDo you want to go to the Unnamed Islet?\nI think it'll be night by the time we get there.",
@@ -372,7 +372,7 @@
     "ils3Cg": {
         "en-US": "What a horrifying cry. I'm so sick of it...",
         "pt-BR": "Que grito horrível. Estou tão cansado disso...",
-        "es-ES": "Qué llanto tan horrible. Ya me hartó…"
+        "es-ES": "Qué llanto tan horrible. Ya me hartó..."
     },
     "i1s3Cg": {
         "en-US": "[Acher]\nWhat a pity. I'd ask you to take care of\nthe Banshee wail coming from across the sea if you were just a little bit stronger.",
@@ -417,7 +417,7 @@
     "k1s3Cg": {
         "en-US": "[Eridanus]\nMaintenance work, as you can see.\n...But I'm feeling a little uneasy.",
         "pt-BR": "[Eridanus]\nTrabalho de manutenção, como você pode ver.\n...Mas estou me sentindo um pouco desconfortável.",
-        "es-ES": "[Eridanus]\nMantenimiento, como puedes ver.\n…Pero me siento un poco intranquilo."
+        "es-ES": "[Eridanus]\nMantenimiento, como puedes ver.\n...Pero me siento un poco intranquilo."
     },
     "lFs3Cg": {
         "en-US": "[Eridanus]\nHmm. You're an adventurer.\nI've been hearing a strange noise coming from the holy ground recently.",
@@ -427,7 +427,7 @@
     "lVs3Cg": {
         "en-US": "[Eridanus]\nI think it's because of the accident a while ago...",
         "pt-BR": "[Eridanus]\nAcho que é por causa do acidente de um tempo atrás...",
-        "es-ES": "[Eridanus]\nCreo que es por el accidente de hace un tiempo…"
+        "es-ES": "[Eridanus]\nCreo que es por el accidente de hace un tiempo..."
     },
     "lls3Cg": {
         "en-US": "Accident?",
@@ -442,12 +442,12 @@
     "mFs3Cg": {
         "en-US": "[Eridanus]\nMy superiors dismissed it as a hogwash,\nbut listen.\n...Can't you hear this strange noise coming from below?",
         "pt-BR": "[Eridanus]\nMeus superiores o descartaram como uma besteira,\nmas ouça.\n...Você não está ouvindo esse barulho estranho vindo lá de baixo?",
-        "es-ES": "[Eridanus]\nMis superiores aseguran que son tonterías,\npero escucha.\n…¿No oyes ese ruido extraño que viene de abajo?"
+        "es-ES": "[Eridanus]\nMis superiores aseguran que son tonterías,\npero escucha.\n...¿No oyes ese ruido extraño que viene de abajo?"
     },
     "mVs3Cg": {
         "en-US": "[Eridanus]\nIf this really is a monster, it means there's a monster trapped in the holy temple, which is a big problem.\nUgh...",
         "pt-BR": "[Eridanus]\nSe isso realmente for um monstro, significa que há um monstro preso no templo sagrado, o que é um grande problema.\nUgh...",
-        "es-ES": "[Eridanus]\nSi realmente hay un monstruo, significa que está atrapado en el templo sagrado, lo cual es un gran problema.\nUf…"
+        "es-ES": "[Eridanus]\nSi realmente hay un monstruo, significa que está atrapado en el templo sagrado, lo cual es un gran problema.\nUf..."
     },
     "mls3Cg": {
         "en-US": "[Eridanus]\nOh right! You can get rid of the monster for our goddess!\nI'm sure the higher-ups will reprimand me for being indulgent, but I can't turn my eyes away from a monster problem!",
@@ -472,12 +472,12 @@
     "nls3Cg": {
         "en-US": "[Eridanus]\nGrr, I can't just stand by when monsters are rampaging in there...!",
         "pt-BR": "[Eridanus]\nGrr, não posso ficar parado enquanto os monstros causam esse alvoroço...!",
-        "es-ES": "[Eridanus]\n¡Grr, no puedo quedarme de brazos cruzados mientras los monstruos hacen estragos…!"
+        "es-ES": "[Eridanus]\n¡Grr, no puedo quedarme de brazos cruzados mientras los monstruos hacen estragos...!"
     },
     "n1s3Cg": {
         "en-US": "[Eridanus]\n...I asked you to get rid of the monsters in the holy ground for the pope and our goddess Freyja.",
         "pt-BR": "[Eridanus]\n...pedi que você se livrasse dos monstros no Santuário de Rachel para a Papisa e nossa deusa Freya.",
-        "es-ES": "[Eridanus]\n…Te pedí que te deshicieras de los monstruos en la tierra sagrada en nombre de la papisa y de nuestra diosa Freya."
+        "es-ES": "[Eridanus]\n...Te pedí que te deshicieras de los monstruos en la tierra sagrada en nombre de la papisa y de nuestra diosa Freya."
     },
     "oFs3Cg": {
         "en-US": "[Eridanus]\nI can get you there through the shaft right now if you're ready.",
@@ -532,7 +532,7 @@
     "qls3Cg": {
         "en-US": "[Eridanus]\n(Gives a thumbs-up with a nod.)\n...",
         "pt-BR": "[Eridanus]\n(Faz um sinal de positivo e acena com a cabeça.)\n...",
-        "es-ES": "[Eridanus]\n(Levanta el pulgar y asiente con la cabeza).\n…"
+        "es-ES": "[Eridanus]\n(Levanta el pulgar y asiente con la cabeza).\n..."
     },
     "q1s3Cg": {
         "en-US": "[Eridanus]\nWell, next time, then.",
@@ -542,7 +542,7 @@
     "rFs3Cg": {
         "en-US": "...Looks like something will break out soon.",
         "pt-BR": "...Parece que algo vai acontecer em breve.",
-        "es-ES": "…Parece que algo está por escapar."
+        "es-ES": "...Parece que algo está por escapar."
     },
     "rVs3Cg": {
         "en-US": "Village Iyla",
@@ -582,7 +582,7 @@
     "tFs3Cg": {
         "en-US": "[Iyla]\nI'm nervous.\nI'm worried about the thing living in this sewer pipe...\nIf there is a monster, please get rid of it.",
         "pt-BR": "[Iyla]\nEstou nervosa.\nEstou preocupada com a coisa que vive nesse cano de esgoto...\nSe houver um monstro, por favor, livre-se dele.",
-        "es-ES": "[Iyla]\nEstoy nerviosa.\nMe preocupa la cosa que vive en esta alcantarilla…\nSi hay un monstruo, deshazte de él."
+        "es-ES": "[Iyla]\nEstoy nerviosa.\nMe preocupa la cosa que vive en esta alcantarilla...\nSi hay un monstruo, deshazte de él."
     },
     "tVs3Cg": {
         "en-US": "[Iyla]\nI want to live without worrying about such thing.\nIf you want, I can watch over this sewer pipe constantly.",
@@ -607,7 +607,7 @@
     "uVs3Cg": {
         "en-US": "[Iyla]\nDo come back... Please.\nI'm scared.",
         "pt-BR": "[Iyla]\nVolte... Por favor.\nEstou com medo.",
-        "es-ES": "[Iyla]\nVuelve… Por favor.\nTengo miedo."
+        "es-ES": "[Iyla]\nVuelve... Por favor.\nTengo miedo."
     },
     "uls3Cg": {
         "en-US": "[Iyla]\nThe soldiers and security guards of this city do not work for the slums!\nTheir purpose is to keep an eye on us, not protect us.",
@@ -617,7 +617,7 @@
     "u1s3Cg": {
         "en-US": "[Iyla]\n...I'll wait for another adventurer to show up.",
         "pt-BR": "[Iyla]\n...vou esperar que outro aventureiro apareça.",
-        "es-ES": "[Iyla]\n…Esperaré a que aparezca otro trotamundos."
+        "es-ES": "[Iyla]\n...Esperaré a que aparezca otro trotamundos."
     },
     "vFs3Cg": {
         "en-US": "[Iyla]\nAre you here to investigate the sewer?\nI blocked it off so that the corporate lackeys don't notice.",
@@ -642,7 +642,7 @@
     "wFs3Cg": {
         "en-US": "[Iyla]\nI know I'm living in a slum, but this is just too terrifying.\nIf you were just a little bit stronger...",
         "pt-BR": "[Iyla]\nSei que estou vivendo em uma favela, mas isso é muito assustador.\nSe você fosse apenas um pouco mais forte...",
-        "es-ES": "[Iyla]\nSé que vivo en un barrio bajo, pero esto es demasiado aterrador.\nSi fueras un poco más fuerte…"
+        "es-ES": "[Iyla]\nSé que vivo en un barrio bajo, pero esto es demasiado aterrador.\nSi fueras un poco más fuerte..."
     },
     "wVs3Cg": {
         "en-US": "Dimensional Cat Myumyu",

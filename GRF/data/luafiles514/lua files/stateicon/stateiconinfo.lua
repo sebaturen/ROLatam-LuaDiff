@@ -10610,3 +10610,123 @@ StateIconList[EFST_IDs.EFST_BLOCK] = {
 		}
 	}
 }
+StateIconList[EFST_IDs.EFST_CURSE_R_CUBE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"커스 오브 레드 큐브",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_CURSE_B_CUBE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"커스 오브 블루 큐브",
+			COLOR_TITLE_BUFF
+		},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_NOEQUIPWEAPON2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"스트립 쉐도우",
+			COLOR_TITLE_DEBUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"웨폰 쉐도우 장비를 착용할 수 없는 상태"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_NOEQUIPARMOR2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"스트립 쉐도우",
+			COLOR_TITLE_DEBUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"아머 쉐도우 장비를 착용할 수 없는 상태"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"스트립 쉐도우",
+			COLOR_TITLE_DEBUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"쉴드 웨폰 쉐도우 장비를 착용할 수 없는 상태"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_NOEQUIPSHOES2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"스트립 쉐도우",
+			COLOR_TITLE_DEBUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"신발 쉐도우 장비를 착용할 수 없는 상태"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_NOEQUIPPENDANT2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"스트립 쉐도우",
+			COLOR_TITLE_DEBUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"악세서리 쉐도우 장비를 착용할 수 없는 상태"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_NOEQUIPEARING2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"스트립 쉐도우",
+			COLOR_TITLE_DEBUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"악세서리 쉐도우 장비를 착용할 수 없는 상태"
+		}
+	}
+}
+StateIconList[EFST_IDs.EFST_NOEQUIPFULL2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{
+			"스트립 쉐도우",
+			COLOR_TITLE_DEBUFF
+		},
+		{"%s", COLOR_TIME},
+		{
+			"모든 쉐도우 장비를 착용할 수 없는 상태"
+		}
+	}
+}

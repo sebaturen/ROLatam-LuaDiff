@@ -5,29 +5,29 @@
         "es-ES": "Tablón de encargos"
     },
     "gd1TDQ": {
-        "en-US": "[Jang Jangjak's Urgent Request]\nWild animal capture request.\n^123456Requirements:^000000\nAn adventurer who handles animals\n<FONT SIZE = 14>well</FONT>\n^DD5555Base Lv. 200/Job Lv. 60^000000 or higher\n<FONT SIZE = 14>^DD5555<B>Summoner</B> class especially preferred^000000</FONT>",
-        "pt-BR": "[Pedido Urgente de Jangjangjak]\nPedido para capturar animais selvagens.\n^123456Condições:^000000\nQue saiba lidar <FONT SIZE = 14>bem</FONT> com animais,\naventureiro com ^DD5555Base LV200/Job LV60^000000 ou superior\n<FONT SIZE = 14>^DD5555Classe <B>Invocador</B> tem preferência especial^000000</FONT>",
-        "es-ES": "[Solicitud urgente de Jangjangjak]\nEncargo de captura de animales salvajes.\n^123456Condiciones:^000000\nAventureros que sepan tratar <FONT SIZE = 14>bien</FONT>\na los animales\ny tengan ^DD5555Base LV200/Job LV60^000000 o superior\n<FONT SIZE = 14>^DD5555<B>Invocador</B> tendrá preferencia especial^000000</FONT>"
+        "en-US": "[Firewood's Urgent Request]\nWild animal capture request.\n^123456Requirements:^000000\nAn adventurer who handles animals\n<FONT SIZE = 14>well</FONT>\n^DD5555Base Lv. 200/Job Lv. 60^000000 or higher\n<FONT SIZE = 14>^DD5555<B>Summoner</B> class especially preferred^000000</FONT>",
+        "pt-BR": "[Pedido Urgente de Carvalho]\nPedido para capturar animais selvagens.\n^123456Condições:^000000\nViajante saiba lidar <FONT SIZE = 14>bem</FONT> com animais,\ncom ^DD5555Nv. Base 200/Nv. Classe 60^000000 ou superior\n<FONT SIZE = 14>^DD5555Classe <B>Invocador</B> tem preferência especial^000000</FONT>",
+        "es-ES": "[Encargo urgente de Robles]\nEncargo de captura de animal salvaje.\n^123456Condiciones:^000000\nTrotamundos que sepan tratar <FONT SIZE = 14>bien</FONT>\na los animales y tengan ^DD5555Nivel de base 200/Nivel de clase 60^000000 o superior\n<FONT SIZE = 14>^DD5555<B>Invocador</B> tendrán preferencia.^000000</FONT>"
     },
     "gt1TDQ": {
         "en-US": "- This request seems too difficult for a child. Become independent and grown up before taking on the challenge! -",
         "pt-BR": "- Parece ser um pedido difícil para uma criança realizar. Tente quando for independente e adulto! -",
-        "es-ES": "- Parece un encargo difícil para niños. ¡Inténtalo cuando seas independiente y adulto! -"
+        "es-ES": "- Parece un encargo difícil para niños. ¡Inténtalo cuando seas una persona independiente y adulta! -"
     },
     "g91TDQ": {
-        "en-US": "[Jang Jangjak's Urgent Request]\n^123456Special Notes:^000000\nThose who still carry the scent of\ncarnivorous animals such as wolves or falcons\ncannot take this request.",
-        "pt-BR": "[Pedido Urgente de Jangjangjak]\n^123456Observações:^000000\nQuem ainda estiver com cheiro de\nanimais carnívoros, como lobos ou falcões,\nnão poderá realizar o pedido.",
-        "es-ES": "[Solicitud urgente de Jangjangjak]\n^123456Notas:^000000\nQuienes conserven olor a animales carnívoros,\ncomo lobos o halcones,\nno podrán realizar este encargo."
+        "en-US": "[Firewood's Urgent Request]\n^123456Special Notes:^000000\nThose who still carry the scent of\ncarnivorous animals such as wolves or falcons\ncannot take this request.",
+        "pt-BR": "[Pedido Urgente do Carpinteiro Carvalho]\n^123456Observações:^000000\nQuem ainda estiver com cheiro de\nanimais carnívoros, como lobos ou falcões,\nnão poderá realizar o pedido.",
+        "es-ES": "[Encargo urgente de Robles]\n^123456Nota:^000000\nQuienes aún tengan olor a animales carnívoros,\ncomo lobos o halcones,\nno podrán realizar este encargo."
     },
     "hN1TDQ": {
-        "en-US": "[Jang Jangjak's Urgent Request]\nFor other details, please ask ^123456Jang Jangjak^000000 at <NAVI>[Jang Jangjak Carpentry Shop]<INFO>payon,252,297,0,101,0</INFO></NAVI> in Payon directly.",
-        "pt-BR": "[Pedido Urgente de Jangjangjak]\nPara mais detalhes, fale diretamente com ^123456Jangjangjak^000000 na <NAVI>[Carpintaria de Jangjangjak]<INFO>payon,252,297,0,101,0</INFO></NAVI>, em Payon.",
-        "es-ES": "[Solicitud urgente de Jangjangjak]\nPara más detalles, consulta directamente con ^123456Jangjangjak^000000 en <NAVI>[Carpintería Jangjangjak]<INFO>payon,252,297,0,101,0</INFO></NAVI> de Payon."
+        "en-US": "[Firewood's Urgent Request]\nFor other details, please ask ^123456Firewood^000000 at <NAVI>[Firewood Carpentry Shop]<INFO>payon,252,297,0,101,0</INFO></NAVI> in Payon directly.",
+        "pt-BR": "[Pedido Urgente do Carpinteiro Carvalho]\nPara obter mais detalhes, fale diretamente com ^123456Carvalho^000000 na <NAVI>[Carpintaria do Carvalho]<INFO>payon,252,297,0,101,0</INFO></NAVI> em Payon.",
+        "es-ES": "[Encargo urgente de Robles]\nPara más detalles, consulta directamente con ^123456Robles^000000 en la <NAVI>[Carpintería Robles]<INFO>payon,252,297,0,101,0</INFO></NAVI> de Payon."
     },
     "hd1TDQ": {
         "en-US": "- Your level seems too low to take this request. -",
         "pt-BR": "- Parece que seu nível é insuficiente para realizar este pedido. -",
-        "es-ES": "- Parece que no tienes nivel suficiente para realizar el encargo. -"
+        "es-ES": "- Parece que no tienes nivel suficiente para realizar este encargo. -"
     },
     "ht1TDQ": {
         "en-US": "- This request is already in progress. -",
@@ -37,12 +37,12 @@
     "h91TDQ": {
         "en-US": "- This request has already been completed. -",
         "pt-BR": "- Este pedido já foi concluído. -",
-        "es-ES": "- Este encargo ya se ha completado. -"
+        "es-ES": "- Este encargo ya ha sido completado. -"
     },
     "iN1TDQ": {
         "en-US": "- This request seems too difficult for your current class. -",
-        "pt-BR": "- Parece ser um pedido difícil de realizar com a sua classe atual. -",
-        "es-ES": "- Parece un encargo difícil de realizar con tu profesión actual. -"
+        "pt-BR": "- Parece ser um pedido muito difícil para a sua classe atual. -",
+        "es-ES": "- Parece un encargo difícil de realizar con tu clase actual. -"
     },
     "id1TDQ": {
         "en-US": "Carpentry Shop Part-Timer",
@@ -51,18 +51,18 @@
     },
     "it1TDQ": {
         "en-US": "[Carpentry Shop Part-Timer]\nTomorrow, I should go cut wood near the pond.",
-        "pt-BR": "[Bico na Carpintaria]\nAmanhã vou tentar ir cortar madeira perto do lago.",
-        "es-ES": "[Ayudante de carpintería]\nMañana tendré que ir a cortar leña cerca del estanque."
+        "pt-BR": "[Bico na Carpintaria]\nAmanhã vou tentar cortar madeira perto do lago.",
+        "es-ES": "[Ayudante de carpintería]\nMañana tendré que ir a cortar leña cerca de la laguna."
     },
     "i91TDQ": {
-        "en-US": "- Jang Jangjak Carpentry Shop -\n- Special Discount Event!! -",
-        "pt-BR": "- Carpintaria de Jangjangjak -\n- Evento de desconto especial!! -",
-        "es-ES": "- Carpintería Jangjangjak -\n- ¡¡Evento de descuentos especiales!! -"
+        "en-US": "- Firewood Carpentry Shop -\n- Special Discount Event!! -",
+        "pt-BR": "- Carpintaria do Mestre Carvalho -\n- Evento especial de desconto!!! -",
+        "es-ES": "- Carpintería Robles -\n- ¡Evento de descuentos especiales! -"
     },
     "jN1TDQ": {
-        "en-US": "- Jang Jangjak Carpentry Shop -\n- Always on Sale!! -",
-        "pt-BR": "- Carpintaria de Jangjangjak -\n- Promoção permanente!! -",
-        "es-ES": "- Carpintería Jangjangjak -\n- ¡¡Rebajas permanentes!! -"
+        "en-US": "- Firewood Carpentry Shop -\n- Always on Sale!! -",
+        "pt-BR": "- Carpintaria do Mestre Carvalho -\n- Promoção permanente!!! -",
+        "es-ES": "- Carpintería Robles -\n- ¡Siempre con descuento! -"
     },
     "jd1TDQ": {
         "en-US": "Carpentry Shop Employee",
@@ -70,19 +70,19 @@
         "es-ES": "Empleado de carpintería"
     },
     "jt1TDQ": {
-        "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 14>Welcome, dear customer~!</FONT>\nThis is Jang Jangjak Carpentry Shop~",
-        "pt-BR": "[Funcionário da Carpintaria]\n<FONT SIZE = 14>Bem-vindo~ cliente~!</FONT>\nEsta é a Carpintaria de Jangjangjak~",
-        "es-ES": "[Empleado de carpintería]\n<FONT SIZE = 14>¡Bienvenido, cliente!</FONT>\nEsta es la Carpintería Jangjangjak."
+        "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 14>Welcome, dear customer~!</FONT>\nThis is Firewood Carpentry Shop~",
+        "pt-BR": "[Funcionário da Carpintaria]\n<FONT SIZE = 14>Boas-vindas, caro cliente~!</FONT>\nEsta é a Carpintaria de Carvalho~",
+        "es-ES": "[Empleado de carpintería]\n<FONT SIZE = 14>¡Bienvenida a nuestra clientela!</FONT>\nEsta es la Carpintería Robles."
     },
     "j91TDQ": {
         "en-US": "Welcome, dear customer~!",
-        "pt-BR": "Bem-vindo~ cliente~!",
-        "es-ES": "¡Bienvenido, cliente!"
+        "pt-BR": "Boas-vindas, caro cliente~!",
+        "es-ES": "¡Bienvenida nuestra clientela de hoy!"
     },
     "kN1TDQ": {
         "en-US": "[Carpentry Shop Employee]\nAre you looking for something, dear customer~?",
-        "pt-BR": "[Funcionário da Carpintaria]\nEstá procurando alguma coisa~ cliente~?",
-        "es-ES": "[Empleado de carpintería]\n¿Busca algún artículo en concreto, cliente?"
+        "pt-BR": "[Funcionário da Carpintaria]\nEstá procurando alguma coisa, caro cliente~?",
+        "es-ES": "[Empleado de carpintería]\n¿Busca algún artículo en concreto?"
     },
     "kd1TDQ": {
         "en-US": "About the request",
@@ -91,38 +91,38 @@
     },
     "kt1TDQ": {
         "en-US": "[Carpentry Shop Employee]\nAre you asking about a request, dear customer~?\nCould you please wait a moment?",
-        "pt-BR": "[Funcionário da Carpintaria]\nEstá falando de um pedido~ cliente~?\nPoderia aguardar um instante?",
-        "es-ES": "[Empleado de carpintería]\n¿Se refiere a un encargo, cliente?\n¿Podría esperar un momento?"
+        "pt-BR": "[Funcionário da Carpintaria]\nEstá falando de um pedido, caro cliente~?\nPoderia aguardar um instante?",
+        "es-ES": "[Empleado de carpintería]\n¿Se refiere a un encargo, estimado cliente?\n¿Podría esperar un momento?"
     },
     "k91TDQ": {
-        "en-US": "[Carpentry Shop Employee]\nThe request posted by our carpentry shop…\nHmm…",
+        "en-US": "[Carpentry Shop Employee]\nThe request posted by our carpentry shop...\nHmm...",
         "pt-BR": "[Funcionário da Carpintaria]\nO pedido feito pela carpintaria…\nHmm…",
         "es-ES": "[Empleado de carpintería]\nUn encargo de la carpintería…\nMmm…"
     },
     "lN1TDQ": {
-        "en-US": "Let's see…",
+        "en-US": "Let's see...",
         "pt-BR": "Vejamos…",
         "es-ES": "A ver…"
     },
     "ld1TDQ": {
         "en-US": "[Carpentry Shop Employee]\nI'm sorry, dear customer, but it appears that our carpentry shop did not post any request.\nMay I ask which request you saw, dear customer~?",
-        "pt-BR": "[Funcionário da Carpintaria]\nDesculpe, cliente, mas confirmei que não há nenhum pedido feito pela nossa carpintaria.\nPoderia me dizer que pedido você viu para vir até aqui? Cliente~",
-        "es-ES": "[Empleado de carpintería]\nLo siento, cliente, pero hemos comprobado que nuestra carpintería no ha publicado ningún encargo.\n¿Podría decirme qué encargo ha visto, cliente?"
+        "pt-BR": "[Funcionário da Carpintaria]\nDesculpe, caro cliente, mas parece que nenhum pedido foi feito pela nossa carpintaria.\nPoderia me dizer que pedido você viu, caro cliente~?",
+        "es-ES": "[Empleado de carpintería]\nLo siento, estimado cliente, pero hemos comprobado que nuestra carpintería no ha publicado ningún encargo.\n¿Podría decirme cuál es el encargo que usted ha visto?"
     },
     "lt1TDQ": {
-        "en-US": "Jang Jangjak's Request",
-        "pt-BR": "Pedido de Jangjangjak",
-        "es-ES": "El encargo de Jangjangjak"
+        "en-US": "Firewood's Request",
+        "pt-BR": "Pedido de Carvalho",
+        "es-ES": "El encargo de Robles"
     },
     "l91TDQ": {
         "en-US": "[Carpentry Shop Employee]\nAaah!!!\nI'm sorry, dear customer!\nIt seems the request wasn't from the carpentry shop, but was posted personally by the owner~",
-        "pt-BR": "[Funcionário da Carpintaria]\nAaaah!!!\nDesculpe, cliente!\nParece que não foi a carpintaria, mas o chefe que fez um pedido pessoalmente~",
-        "es-ES": "[Empleado de carpintería]\n¡¡¡Ahhh!!!\n¡Lo siento, cliente!\nParece que no es un encargo de la carpintería, sino uno que el jefe publicó a título personal."
+        "pt-BR": "[Funcionário da Carpintaria]\nAaaah!!!\nDesculpe, caro cliente!\nParece que não foi a carpintaria, mas o chefe que fez um pedido pessoalmente~",
+        "es-ES": "[Empleado de carpintería]\n¡¡¡Ahhh!!!\n¡Lo siento, estimado cliente!\nParece que no es un encargo de la carpintería, sino uno que el jefe publicó a título personal."
     },
     "mN1TDQ": {
-        "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 10>If the owner posted a request, he could've at least told me!</FONT>\nCould you please wait a moment, dear customer?\nI'll call the owner for…",
-        "pt-BR": "[Funcionário da Carpintaria]\n<FONT SIZE = 10>Ora, se o chefe fez um pedido, bem que podia ao menos ter me avisado!</FONT>\nPoderia aguardar um instante, cliente?\nVou chamar o chefe para…",
-        "es-ES": "[Empleado de carpintería]\n<FONT SIZE = 10>¡Si el jefe había publicado un encargo, al menos podría haberme avisado!</FONT>\n¿Podría esperar un momento, cliente?\nVoy a llamar al jefe…"
+        "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 10>If the owner posted a request, he could've at least told me!</FONT>\nCould you please wait a moment, dear customer?\nI'll call the owner for...",
+        "pt-BR": "[Funcionário da Carpintaria]\n<FONT SIZE = 10>Ora, se o chefe fez um pedido, podia ao menos ter me avisado!</FONT>\nPoderia aguardar um instante, caro cliente?\nVou chamar o chefe para…",
+        "es-ES": "[Empleado de carpintería]\n<FONT SIZE = 10>¡Si el jefe había publicado un encargo, al menos podría haberme avisado!</FONT>\n¿Podría esperar un momento, estimado cliente?\nVoy a llamar al jefe…"
     },
     "md1TDQ": {
         "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 14>No, that man has gone out again!!</FONT>\n<FONT SIZE = 10>Don't tell me he went to the forest again!</FONT>\nI can't deal with this!!!",
@@ -136,58 +136,58 @@
     },
     "m91TDQ": {
         "en-US": "[Carpentry Shop Employee]\nOh dear~ I'm sorry, dear customer.\nThe owner is away from his seat right now.",
-        "pt-BR": "[Funcionário da Carpintaria]\nAh~ desculpe, cliente.\nO chefe não está no momento.",
-        "es-ES": "[Empleado de carpintería]\nAy, lo siento mucho, cliente.\nEl jefe no está ahora mismo."
+        "pt-BR": "[Funcionário da Carpintaria]\nAh~ desculpe, caro cliente.\nO chefe não está no momento.",
+        "es-ES": "[Empleado de carpintería]\nAy, lo siento mucho, estimado cliente.\nEl jefe no se encuentra ahora mismo."
     },
     "nN1TDQ": {
         "en-US": "[Carpentry Shop Employee]\nI don't know when he'll be back,\nbut if it's urgent, could you look for him in ^DD5555Payon Forest^000000?\nYou should go to <NAVI>[This Way, That Way, That Way]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI>.",
-        "pt-BR": "[Funcionário da Carpintaria]\nNão sei quando ele voltará,\nmas se for muito urgente, poderia procurá-lo na ^DD5555Floresta de Payon^000000?\nVá até <NAVI>[Assim, Assim e Assim]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI>.",
-        "es-ES": "[Empleado de carpintería]\nNo sé cuándo volverá,\npero si le urge mucho, ¿podría ir a buscarlo al ^DD5555bosque de Payon^000000?\nTendrá que ir a <NAVI>[de una forma u otra]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI>."
+        "pt-BR": "[Funcionário da Carpintaria]\nNão sei quando ele voltará,\nmas, se for muito urgente, poderia procurá-lo na ^DD5555Floresta de Payon^000000?\nVá até <NAVI>[Assim, Assim e Assim]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI>.",
+        "es-ES": "[Empleado de carpintería]\nNo sé cuándo volverá,\npero si es muy urgente, ¿podría ir a buscarlo al ^DD5555bosque de Payon^000000?\nTendrá que ir a la <NAVI>[de una forma u otra]<INFO>pay_fild08,157,129,0,101,0</INFO></NAVI>."
     },
     "nd1TDQ": {
         "en-US": "[Carpentry Shop Employee]\nDo you have any other business, dear customer~?",
-        "pt-BR": "[Funcionário da Carpintaria]\nPrecisa de mais alguma coisa, cliente~?",
-        "es-ES": "[Empleado de carpintería]\n¿Tiene algún otro asunto, cliente?"
+        "pt-BR": "[Funcionário da Carpintaria]\nPrecisa de mais alguma coisa, caro cliente~?",
+        "es-ES": "[Empleado de carpintería]\n¿Tiene algún otro asunto, estimado cliente?"
     },
     "nt1TDQ": {
         "en-US": "Broken Cart",
         "pt-BR": "Carroça Quebrada",
-        "es-ES": "Carro averiado"
+        "es-ES": "Carreta rota"
     },
     "n91TDQ": {
-        "en-US": "Lord I",
-        "pt-BR": "Senhor Lee",
+        "en-US": "Lord Ijotu",
+        "pt-BR": "Lorde I",
         "es-ES": "Lord Lee"
     },
     "oN1TDQ": {
-        "en-US": "Carpenter Jang Jangjak",
-        "pt-BR": "Carpinteiro Jangjangjak",
-        "es-ES": "Carpintero Jangjangjak"
+        "en-US": "Carpenter Firewood",
+        "pt-BR": "Carpinteiro Carvalho",
+        "es-ES": "Carpintero Robles"
     },
     "od1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nOh dear~~\nAnother complete waste of a day! A waste!!!",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nAi, ai~~\nHoje também não consegui nada! Nadinha!!!",
-        "es-ES": "[Carpintero Jangjangjak]\nAy, ay…\n¡Hoy tampoco he conseguido nada! ¡Nada de nada!"
+        "en-US": "[Carpenter Firewood]\nOh dear~~\nAnother complete waste of a day! A waste!!!",
+        "pt-BR": "[Carpinteiro Carvalho]\nAi, ai~~\nHoje também não consegui nada! Nadinha!!!",
+        "es-ES": "[Carpintero Robles]\nAy, ay…\n¡Hoy tampoco he conseguido nada! ¡Nada de nada!"
     },
     "ot1TDQ": {
-        "en-US": "Waaah…",
+        "en-US": "Waaah...",
         "pt-BR": "Uaaah…",
-        "es-ES": "Buaaa…"
+        "es-ES": "Uaaah…"
     },
     "o91TDQ": {
-        "en-US": "Mr. Jang Jangjak?",
-        "pt-BR": "Sr. Jangjangjak?",
-        "es-ES": "¿Señor Jangjangjak?"
+        "en-US": "Mr. Firewood?",
+        "pt-BR": "Sr. Carvalho?",
+        "es-ES": "¿Señor Robles?"
     },
     "pN1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nWho are you?\n……\n……Did Lord I send you?",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nQuem é?\n……\n……O Senhor Lee mandou você?",
-        "es-ES": "[Carpintero Jangjangjak]\n¿Quién es?\n……\n……¿Te ha enviado Lord Lee?"
+        "en-US": "[Carpenter Firewood]\nWho are you?\n......\n......Did Lord I send you?",
+        "pt-BR": "[Carpinteiro Carvalho]\nQuem é?\n…\n…O Senhor Lee mandou você?",
+        "es-ES": "[Carpintero Robles]\n¿Quién eres?\n……\n……¿Te ha enviado Lord Lee?"
     },
     "pd1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nHe only just finished pestering me, and now he's sent someone again?!\nJust nagging at me won't make the work get done!",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nNem faz tanto tempo que ele ficou me pressionando, e já mandou alguém de novo?!\nNão é só ficar apressando que as coisas andam!",
-        "es-ES": "[Carpintero Jangjangjak]\n¡¿Pero cuánto hace que dejó de presionarme para volver a mandarme a alguien?!\n¡Por mucho que me meta prisa, el trabajo no va a avanzar solo!"
+        "en-US": "[Carpenter Firewood]\nHe only just finished pestering me, and now he's sent someone again?!\nJust nagging at me won't make the work get done!",
+        "pt-BR": "[Carpinteiro Carvalho]\nNem faz tanto tempo que ele estava me pressionando, e já mandou alguém de novo?!\nNão é só ficar apressando que as coisas andam!",
+        "es-ES": "[Carpintero Robles]\n¡¿Recién deja de presionarme, y ya me está mandando a alguien de nuevo?!\n¡Por mucho que él quiera apurarme, el trabajo no va a avanzar solo!"
     },
     "pt1TDQ": {
         "en-US": "I came after seeing the request.",
@@ -195,9 +195,9 @@
         "es-ES": "He venido por el encargo."
     },
     "p91TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nUh…\n<FONT SIZE = 14>Ah……</FONT>\n<FONT SIZE = 18><B>Ah!!!!!!!!!</B></FONT>",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nAh…\n<FONT SIZE = 14>A...</FONT>\n<FONT SIZE = 18><B>A!!!!!!!!!</B></FONT>",
-        "es-ES": "[Carpintero Jangjangjak]\nEh…\n<FONT SIZE = 14>Ah…</FONT>\n<FONT SIZE = 18><B>¡¡¡¡¡Ah!!!!!</B></FONT>"
+        "en-US": "[Carpenter Firewood]\nUh...\n<FONT SIZE = 14>Ah......</FONT>\n<FONT SIZE = 18><B>Ah!!!!!!!!!</B></FONT>",
+        "pt-BR": "[Carpinteiro Carvalho]\nAh…\n<FONT SIZE = 14>A...</FONT>\n<FONT SIZE = 18><B>A!!!!!!!!!</B></FONT>",
+        "es-ES": "[Carpintero Robles]\nEh…\n<FONT SIZE = 14>Ah…</FONT>\n<FONT SIZE = 18><B>¡¡¡¡¡Ah!!!!!</B></FONT>"
     },
     "qN1TDQ": {
         "en-US": "Aaah!!!!!!!",
@@ -205,9 +205,9 @@
         "es-ES": "¡¡¡Ahhh!!!"
     },
     "qd1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nAah~~!!\nOh dear!!!\n<FONT SIZE = 16>That's right!!!!!</FONT>",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nAaaah~~!!\nAi, meu Deus!!!\n<FONT SIZE = 16>É mesmo!!!!!</FONT>",
-        "es-ES": "[Carpintero Jangjangjak]\n¡¡Ah!!\n¡¡Ay, ay!!\n<FONT SIZE = 16>¡¡¡Es verdad!!!</FONT>"
+        "en-US": "[Carpenter Firewood]\nAah~~!!\nOh dear!!!\n<FONT SIZE = 16>That's right!!!!!</FONT>",
+        "pt-BR": "[Carpinteiro Carvalho]\nAaaah~~!!!\nAi, meu Deus!!!\n<FONT SIZE = 16>É mesmo!!!!!</FONT>",
+        "es-ES": "[Carpintero Robles]\n¡¡Ah!!\n¡¡Ay, ay!!\n<FONT SIZE = 16>¡¡¡Es verdad!!!</FONT>"
     },
     "qt1TDQ": {
         "en-US": "That's right!!!!!!!!!",
@@ -215,39 +215,39 @@
         "es-ES": "¡¡¡¡Es verdad!!!!!"
     },
     "q91TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\n<FONT SIZE = 14>I'm sorry!</FONT>\nWork hasn't been going anywhere and I felt so frustrated that I stepped outside for a bit, but I never expected Customer to come by in the meantime.\nHow embarrassing!\nHahaha!",
-        "pt-BR": "[Carpinteiro Jangjangjak]\n<FONT SIZE = 14>Perdoe-me!</FONT>\nO trabalho não estava avançando nada e eu estava angustiado, então saí um pouco, mas não imaginei que o Cliente chegaria nesse meio-tempo.\nQue vergonha!\nHahaha!",
-        "es-ES": "[Carpintero Jangjangjak]\n<FONT SIZE = 14>¡Lo siento!</FONT>\nEl trabajo no avanzaba nada y me sentía agobiado, así que salí un momento, y justo entonces ha venido Cliente.\n¡Qué vergüenza, de verdad!\n¡Ja, ja, ja!"
+        "en-US": "[Carpenter Firewood]\n<FONT SIZE = 14>I'm sorry!</FONT>\nWork hasn't been going anywhere and I felt so frustrated that I stepped outside for a bit, but I never expected Customer to come by in the meantime.\nHow embarrassing!\nHahaha!",
+        "pt-BR": "[Carpinteiro Carvalho]\n<FONT SIZE = 14>Perdoe-me!</FONT>\nO trabalho não estava avançando nada e eu estava angustiado, então saí um pouco, mas não imaginei que a Clientela chegaria nesse meio-tempo.\nQue vergonha!\nHahaha!",
+        "es-ES": "[Carpintero Robles]\n<FONT SIZE = 14>¡Lo siento!</FONT>\nEl trabajo no avanzaba nada y me sentía agobiado, así que salí un momento, y justo entonces ha venido un cliente.\n¡Qué vergüenza, de verdad!\n¡Ja, ja, ja!"
     },
     "rN1TDQ": {
-        "en-US": "I thought Lord I had sent someone again~",
+        "en-US": "I thought Lord Ijotu had sent someone again~",
         "pt-BR": "Achei que o Senhor Lee tivesse mandado você~",
-        "es-ES": "Creí que te había enviado Lord Lee~"
+        "es-ES": "Creí que Lord Lee había enviado a alguien de nuevo."
     },
     "rd1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nThis works out perfectly!\nSince you came all the way here, instead of going back to the carpentry shop, come here and see the mess those nasty beasts made.",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nVeio em boa hora!\nJá que veio até aqui, em vez de voltar à carpintaria, venha ver o estrago que aquelas feras malditas fizeram.",
-        "es-ES": "[Carpintero Jangjangjak]\n¡Has llegado justo a tiempo!\nYa que has venido hasta aquí, acércate y mira el desastre que han causado esas malditas bestias."
+        "en-US": "[Carpenter Firewood]\nThis works out perfectly!\nSince you came all the way here, instead of going back to the carpentry shop, come here and see the mess those nasty beasts made.",
+        "pt-BR": "[Carpinteiro Carvalho]\nVeio em boa hora!\nJá que veio até aqui, em vez de voltar à carpintaria, venha ver o estrago que essas feras malditas fizeram.",
+        "es-ES": "[Carpintero Robles]\n¡Has llegado justo a tiempo!\nYa que has venido hasta aquí, acércate y mira el desastre que han causado esas malditas bestias."
     },
     "rt1TDQ": {
         "en-US": "They've ruined all my tools. How am I supposed to get anything done?!",
-        "pt-BR": "Com as ferramentas todas destruídas, como é que dá para trabalhar?!",
+        "pt-BR": "Com as ferramentas todas destruídas, como é que eu posso trabalhar?!",
         "es-ES": "¡Me han dejado las herramientas hechas un desastre! ¿Cómo voy a trabajar así?"
     },
     "r91TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nJudging by the footprints, they seem to be hoofed creatures, like deer or boars…\nWhy are those grass-eating forest critters so ferocious?!",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nPelo formato das pegadas, parecem ser criaturas com cascos, como cervos ou javalis…\nMas por que bichos que só pastam na floresta são tão ferozes assim?",
-        "es-ES": "[Carpintero Jangjangjak]\nPor la forma de las huellas, parecen animales con pezuñas, como ciervos o jabalíes…\n¡Pero no entiendo cómo pueden ser tan feroces unas criaturas que solo pastan en el bosque!"
+        "en-US": "[Carpenter Firewood]\nJudging by the footprints, they seem to be hoofed creatures, like deer or boars...\nWhy are those grass-eating forest critters so ferocious?!",
+        "pt-BR": "[Carpinteiro Carvalho]\nPelo formato das pegadas, parecem ser criaturas com cascos, como cervos ou javalis…\nMas por que bichos que só pastam na floresta estão tão ferozes assim?",
+        "es-ES": "[Carpintero Robles]\nPor la forma de las huellas, parecen animales con pezuñas, como ciervos o jabalíes…\n¡Pero no entiendo cómo pueden ser tan feroces unas criaturas que solo pastan en el bosque!"
     },
     "sN1TDQ": {
         "en-US": "Just wait until I catch them! I'll make stew out of them!!",
-        "pt-BR": "Quando eu pegar esses malditos, vou fazer um ensopado deles!!",
-        "es-ES": "¡Como las atrape, las hago estofado!"
+        "pt-BR": "Quando eu pegar esses malditos, vou fazer um ensopado deles!",
+        "es-ES": "¡No puedo esperar a atraparlas, las voy a hacer estofado!"
     },
     "sd1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nWhat do you think, adventurer?\nDid you find anything out?",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nE então, aventureiro.\nDescobriu alguma coisa?",
-        "es-ES": "[Carpintero Jangjangjak]\n¿Qué tal, aventurero?\n¿Has descubierto algo?"
+        "en-US": "[Carpenter Firewood]\nWhat do you think, adventurer?\nDid you find anything out?",
+        "pt-BR": "[Carpinteiro Carvalho]\nE aí?\nDescobriu alguma coisa?",
+        "es-ES": "[Carpintero Robles]\n¿Qué tal, trotamundos?\n¿Has descubierto algo?"
     },
     "st1TDQ": {
         "en-US": "About the food dropped on the road.",
@@ -255,9 +255,9 @@
         "es-ES": "Sobre la comida caída en el camino."
     },
     "s91TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nWhat?! Scattering food on the road? What a wasteful thing to do, not knowing how precious food is!!",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nEspalhar comida pelo caminho? Que desperdício, como se não soubessem o valor da comida!!",
-        "es-ES": "[Carpintero Jangjangjak]\n¡Pero quién desperdicia comida tirándola por el camino! ¡No sabe lo valiosa que es!"
+        "en-US": "[Carpenter Firewood]\nWhat?! Scattering food on the road? What a wasteful thing to do, not knowing how precious food is!!",
+        "pt-BR": "[Carpinteiro Carvalho]\nEspalhar comida pelo caminho? Que desperdício, como se não soubessem o valor da comida!",
+        "es-ES": "[Carpintero Robles]\n¡Pero quién desperdicia comida tirándola por el camino! ¡No sabe lo valiosa que es!"
     },
     "tN1TDQ": {
         "en-US": "When I was young, we had nothing to eat, so we even ate tree roots!!!",
@@ -270,28 +270,28 @@
         "es-ES": "Sobre los animales salvajes."
     },
     "tt1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nWell, I'm glad the wild animals ate something, at least……",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nBom, pelo menos os animais selvagens comeram isso……",
-        "es-ES": "[Carpintero Jangjangjak]\nBueno, al menos los animales salvajes comieron algo……"
+        "en-US": "[Carpenter Firewood]\nWell, I'm glad the wild animals ate something, at least......",
+        "pt-BR": "[Carpinteiro Carvalho]\nBom, pelo menos os animais selvagens comeram a comida…",
+        "es-ES": "[Carpintero Robles]\nBueno, al menos los animales salvajes comieron algo……"
     },
     "t91TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nThen could the wild animals have come all the way here while picking that up and eating it?",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nEntão será que os animais vieram até aqui recolhendo e comendo aquilo?",
-        "es-ES": "[Carpintero Jangjangjak]\nEntonces, ¿puede que los animales salvajes vinieran hasta aquí recogiendo y comiendo eso?"
+        "en-US": "[Carpenter Firewood]\nThen could the wild animals have come all the way here while picking that up and eating it?",
+        "pt-BR": "[Carpinteiro Carvalho]\nEntão será que os animais vieram até aqui comendo a trilha de comida?",
+        "es-ES": "[Carpintero Robles]\nEntonces, ¿puede que los animales salvajes vinieran hasta aquí recogiendo y comiendo eso?"
     },
     "uN1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nWho in the world would do such a strange thing…",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nQuem diabos faria uma coisa estranha dessas…",
-        "es-ES": "[Carpintero Jangjangjak]\nPero ¿quién haría algo tan raro…?"
+        "en-US": "[Carpenter Firewood]\nWho in the world would do such a strange thing...",
+        "pt-BR": "[Carpinteiro Carvalho]\nQuem diabos faria uma coisa estranha dessas…",
+        "es-ES": "[Carpintero Robles]\nPero ¿quién haría algo tan raro…?"
     },
     "ud1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nAnyway, thanks to you taking the job, adventurer, we're starting to see at least a little clue!\nAt this rate, let's solve this before Lord Ijotu comes making a fuss agai…",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nDe todo modo, graças a você aceitar o trabalho, já parece haver uma pista!\nVamos aproveitar esse embalo e resolver isso antes que o Senhor Lee venha fazer outro escândal…",
-        "es-ES": "[Carpintero Jangjangjak]\nEn fin, gracias a que te has encargado del asunto, aventurero, ya empieza a verse alguna pista.\nA este ritmo, podremos resolverlo antes de que Lord Lee vuelva a montar otro escánd…"
+        "en-US": "[Carpenter Firewood]\nAnyway, thanks to you taking the job, adventurer, we're starting to see at least a little clue!\nAt this rate, let's solve this before Lord Ijotu comes making a fuss agai...",
+        "pt-BR": "[Carpinteiro Carvalho]\nDe todo modo, graças a você ter aceitado o trabalho, já parece haver uma pista!\nVamos aproveitar esse embalo e resolver isso antes que o Senhor Lee venha fazer outro escândalo…",
+        "es-ES": "[Carpintero Robles]\nEn fin, gracias a que te has encargado del asunto, aventurero, ya empieza a verse alguna pista.\nA este ritmo, podremos resolverlo antes de que Lord Lee vuelva a montar otro escánd…"
     },
     "ut1TDQ": {
         "en-US": "[???]\n<FONT SIZE = 16>Ahem!</FONT>\n<FONT SIZE = 14>Is Master Jang here~?</FONT>",
-        "pt-BR": "[???]\n<FONT SIZE = 16>Ehem!</FONT>\n<FONT SIZE = 14>Mestre Jang está aí~?</FONT>",
+        "pt-BR": "[???]\n<FONT SIZE = 16>Ehem!</FONT>\n<FONT SIZE = 14>O Mestre Carvalho está~?</FONT>",
         "es-ES": "[???]\n<FONT SIZE = 16>¡Ejem!</FONT>\n<FONT SIZE = 14>¿Está el Maestro Jang?</FONT>"
     },
     "u91TDQ": {
@@ -300,22 +300,22 @@
         "es-ES": "¡¡¡Ejem!!!"
     },
     "vN1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nUrgh....\nSpeak of Eddga and he appears…",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nUrgh....\nFalando em Edgar, ele aparece…",
-        "es-ES": "[Carpintero Jangjangjak]\nUgh…\nHablando de Edgar, aparece Edgar…"
+        "en-US": "[Carpenter Firewood]\nUrgh....\nSpeak of Eddga and he appears...",
+        "pt-BR": "[Carpinteiro Carvalho]\nUrgh....\nFalando em Eddga, ele aparece…",
+        "es-ES": "[Carpintero Robles]\nUgh…\nHablando de Edgar, aparece Edgar…"
     },
     "vd1TDQ": {
         "en-US": "I'd rather have Eddga.",
-        "pt-BR": "Edgar até seria melhor.",
+        "pt-BR": "Eddga até seria melhor.",
         "es-ES": "Casi preferiría a Edgar."
     },
     "vt1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nWhat brings you here again, Lord I?",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nO que traz o Senhor Lee aqui de novo?",
-        "es-ES": "[Carpintero Jangjangjak]\n¿A qué ha venido esta vez, Lord Lee?"
+        "en-US": "[Carpenter Firewood]\nWhat brings you here again, Lord Ijotu?",
+        "pt-BR": "[Carpinteiro Carvalho]\nO que traz o Senhor Lee aqui de novo?",
+        "es-ES": "[Carpintero Robles]\n¿A qué ha venido esta vez, Lord Lee?"
     },
     "v91TDQ": {
-        "en-US": "[Lord I]\nOh~~ Well~ Nothing much~\nI just came to see if the job I entrusted to you is going well.",
+        "en-US": "[Lord Ijotu]\nOh~~ Well~ Nothing much~\nI just came to see if the job I entrusted to you is going well.",
         "pt-BR": "[Senhor Lee]\nOra~~ nada de mais~\nSó vim ver se o trabalho que encomendei está indo bem.",
         "es-ES": "[Lord Lee]\nNo, no, nada especial~\nSolo he venido a ver si el trabajo que encargué avanza bien."
     },
@@ -325,22 +325,22 @@
         "es-ES": "¡Vaya! ¿Qué es todo esto en el suelo?"
     },
     "wd1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nIf you keep showing up at all hours like this, even work that could get done won't get done…",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nSe vier aqui a toda hora assim, nem o que poderia dar certo vai dar…",
-        "es-ES": "[Carpintero Jangjangjak]\nSi aparece a todas horas sin avisar, ni lo que podría salir bien saldrá bien…"
+        "en-US": "[Carpenter Firewood]\nIf you keep showing up at all hours like this, even work that could get done won't get done...",
+        "pt-BR": "[Carpinteiro Carvalho]\nSe vier aqui a toda hora assim, nem o que poderia dar certo vai dar…",
+        "es-ES": "[Carpintero Robles]\nSi aparece a todas horas sin avisar, ni lo que podría salir bien saldrá bien…"
     },
     "wt1TDQ": {
-        "en-US": "[Lord I]\nTsk~\nFrom the looks of it, it's not much different from yesterday.\nYou haven't even started the work, and yet you talk so big~",
+        "en-US": "[Lord Ijotu]\nTsk~\nFrom the looks of it, it's not much different from yesterday.\nYou haven't even started the work, and yet you talk so big~",
         "pt-BR": "[Senhor Lee]\nHmph~\nPelo que vejo, não parece muito diferente de ontem.\nNem começou o trabalho e já fala alto~",
         "es-ES": "[Lord Lee]\nBah~\nPor lo que veo, no parece muy distinto de ayer.\nNi siquiera has empezado el trabajo, y aun así presumes~"
     },
     "w91TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\n<FONT SIZE = 14>Argh… you… you…!!!</FONT>\n<FONT SIZE = 14>I'm already unable to work because the tools keep getting wrecked!!!</FONT>\n<FONT SIZE = 14>If you came here to get on my nerves, you're only getting in the way, so go on home!</FONT>",
-        "pt-BR": "[Carpinteiro Jangjangjak]\n<FONT SIZE = 14>Aaah… esse… esse…!!!</FONT>\n<FONT SIZE = 14>Minhas ferramentas continuam quebrando, então nem consigo trabalhar!!!</FONT>\n<FONT SIZE = 14>Se veio só para provocar, está atrapalhando, então vá embora!</FONT>",
-        "es-ES": "[Carpintero Jangjangjak]\n<FONT SIZE = 14>Uf… ¡Tú… tú…!</FONT>\n<FONT SIZE = 14>¡¡¡Ya de por sí no puedo trabajar porque las herramientas no paran de romperse!!!</FONT>\n<FONT SIZE = 14>¡Si has venido a provocarme, solo estorbas, así que vete ya!</FONT>"
+        "en-US": "[Carpenter Firewood]\n<FONT SIZE = 14>Argh... you... you...!!!</FONT>\n<FONT SIZE = 14>I'm already unable to work because the tools keep getting wrecked!!!</FONT>\n<FONT SIZE = 14>If you came here to get on my nerves, you're only getting in the way, so go on home!</FONT>",
+        "pt-BR": "[Carpinteiro Carvalho]\n<FONT SIZE = 14>Aaah… esse… esse…!!!</FONT>\n<FONT SIZE = 14>Minhas ferramentas continuam quebrando, então nem consigo trabalhar!!!</FONT>\n<FONT SIZE = 14>Se veio só para provocar, está atrapalhando, então vá embora!</FONT>",
+        "es-ES": "[Carpintero Robles]\n<FONT SIZE = 14>Uf… ¡Tú… tú…!</FONT>\n<FONT SIZE = 14>¡¡¡Ya de por sí no puedo trabajar porque las herramientas no paran de romperse!!!</FONT>\n<FONT SIZE = 14>¡Si has venido a provocarme, solo estorbas, así que vete ya!</FONT>"
     },
     "xN1TDQ": {
-        "en-US": "[Lord I]\nOh my, you startled me!\nI was going to leave even without you shouting like that!\n<FONT SIZE = 18>Hmph!</FONT>",
+        "en-US": "[Lord Ijotu]\nOh my, you startled me!\nI was going to leave even without you shouting like that!\n<FONT SIZE = 18>Hmph!</FONT>",
         "pt-BR": "[Senhor Lee]\nAi, que susto!\nNão precisava gritar assim, eu já ia embora!\n<FONT SIZE = 18>Hmph!</FONT>",
         "es-ES": "[Lord Lee]\n¡Ay, qué susto!\n¡No hace falta gritar así, ya me voy!\n<FONT SIZE = 18>¡Hum!</FONT>"
     },
@@ -350,14 +350,14 @@
         "es-ES": "¡¡Hum!!"
     },
     "xt1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\n<FONT SIZE = 14>Argh, that old geezer!</FONT>\nDoes he want this work done or not? He just comes here and riles me up again!",
-        "pt-BR": "[Carpinteiro Jangjangjak]\n<FONT SIZE = 14>Aaah, aquele velho maldito!</FONT>\nEle quer que eu trabalhe ou não? Só vem aqui para irritar de novo!",
-        "es-ES": "[Carpintero Jangjangjak]\n<FONT SIZE = 14>¡Uf, ese viejo!</FONT>\n¡No sé si quiere que trabaje o no, pero otra vez viene solo para sacarme de quicio!"
+        "en-US": "[Carpenter Firewood]\n<FONT SIZE = 14>Argh, that old geezer!</FONT>\nDoes he want this work done or not? He just comes here and riles me up again!",
+        "pt-BR": "[Carpinteiro Carvalho]\n<FONT SIZE = 14>Aaah, aquele velho maldito!</FONT>\nEle quer que eu trabalhe ou não? Só vem aqui para me irritar de novo!",
+        "es-ES": "[Carpintero Robles]\n<FONT SIZE = 14>¡Uf, ese viejo!</FONT>\n¡No sé si quiere que trabaje o no, pero otra vez viene solo para sacarme de quicio!"
     },
     "x91TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nFar from helping with the job he entrusted to me, he only gets in the way.\n<FONT SIZE = 14>Oh, I'm fit to burst!</FONT>",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nEm vez de ajudar no trabalho que ele mesmo encomendou, só atrapalha.\n<FONT SIZE = 14>Ai, que raiva!</FONT>",
-        "es-ES": "[Carpintero Jangjangjak]\nEn vez de ayudar con el trabajo que él mismo encargó, no hace más que estorbar.\n<FONT SIZE = 14>¡Ay, qué rabia!</FONT>"
+        "en-US": "[Carpenter Firewood]\nFar from helping with the job he entrusted to me, he only gets in the way.\n<FONT SIZE = 14>Oh, I'm fit to burst!</FONT>",
+        "pt-BR": "[Carpinteiro Carvalho]\nEm vez de ajudar no trabalho que ele mesmo encomendou, só atrapalha.\n<FONT SIZE = 14>Ai, que raiva!</FONT>",
+        "es-ES": "[Carpintero Robles]\nEn vez de ayudar con el trabajo que él mismo encargó, no hace más que estorbar.\n<FONT SIZE = 14>¡Ay, qué rabia!</FONT>"
     },
     "yN1TDQ": {
         "en-US": "Salt! I should sprinkle some salt!",
@@ -365,19 +365,19 @@
         "es-ES": "¡Sal! ¡Tendré que echar sal o algo!"
     },
     "yd1TDQ": {
-        "en-US": "About Lord I.",
+        "en-US": "About Lord Ijotu.",
         "pt-BR": "Sobre o Senhor Lee.",
         "es-ES": "Sobre Lord Lee."
     },
     "yt1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nWell, as you heard earlier, he's the lord named ^123456Ijotu^000000 who entrusted this job to me.",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nBem, como você ouviu agora há pouco, ele é o ^123456dignitário chamado Ijotu^000000, que me encarregou deste trabalho.",
-        "es-ES": "[Carpintero Jangjangjak]\nBueno, como ya has oído antes, es el noble ^123456Lee Jotu^000000, quien me encargó este trabajo."
+        "en-US": "[Carpenter Firewood]\nWell, as you heard earlier, he's the lord named ^123456Ijotu^000000 who entrusted this job to me.",
+        "pt-BR": "[Carpinteiro Carvalho]\nBem, como você ouviu agora há pouco, ele é o dignitário ^123456Lee^000000, que me encarregou deste trabalho.",
+        "es-ES": "[Carpintero Robles]\nBueno, como ya has oído antes, es el noble ^123456Lee Jotu^000000, quien me encargó este trabajo."
     },
     "y91TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nSaid he wanted to build some kind of resort around here that young folks would want to visit!",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nDisse que vai criar aqui perto um resort que atraia os jovens, ou algo assim!",
-        "es-ES": "[Carpintero Jangjangjak]\n¡Dice que va a construir por aquí un lugar de descanso al que puedan venir los jóvenes, o algo así!"
+        "en-US": "[Carpenter Firewood]\nSaid he wanted to build some kind of resort around here that young folks would want to visit!",
+        "pt-BR": "[Carpinteiro Carvalho]\nDisse que vai criar aqui perto um resort que irá atrair os jovens, ou algo assim!",
+        "es-ES": "[Carpintero Robles]\n¡Dice que va a construir por aquí un lugar de descanso al que puedan venir los jóvenes, o algo así!"
     },
     "zN1TDQ": {
         "en-US": "If that's the goal, I think it needs to be much more splendid.",
@@ -385,44 +385,44 @@
         "es-ES": "Para eso, tendría que hacerlo mucho más espléndido."
     },
     "zd1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nI did tell him from the start that construction would be difficult since monsters appear in this area, but who could have known even the wild animals would run wild like this?",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nEu já tinha avisado que a construção seria difícil, pois esta região já tinha monstros aparecendo, mas quem imaginaria que até os animais selvagens ficariam desse jeito?",
-        "es-ES": "[Carpintero Jangjangjak]\nYa le advertí que sería difícil construir en una zona donde ya aparecen monstruos, pero ¿quién iba a pensar que hasta los animales salvajes se descontrolarían así?"
+        "en-US": "[Carpenter Firewood]\nI did tell him from the start that construction would be difficult since monsters appear in this area, but who could have known even the wild animals would run wild like this?",
+        "pt-BR": "[Carpinteiro Carvalho]\nEu já tinha avisado que a construção seria difícil, pois esta região já tinha monstros aparecendo, mas quem imaginaria que até os animais selvagens ficariam desse jeito?",
+        "es-ES": "[Carpintero Robles]\nYa le advertí que sería difícil construir en una zona donde ya aparecen monstruos, pero ¿quién iba a pensar que hasta los animales salvajes se descontrolarían así?"
     },
     "zt1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nAnd while all that's going on, he comes by every single day to get on my nerves…\nIf we can't solve it this time either, I may as well quit. Tsk…",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nE no meio disso tudo ele vem aqui praticamente todo dia para me provocar…\nSe eu não resolver isto desta vez, vou largar tudo, hmph…",
-        "es-ES": "[Carpintero Jangjangjak]\nY encima viene casi todos los días a provocarme de esa manera…\nSi esta vez tampoco consigo resolverlo, tendré que mandarlo todo al diablo, bah…"
+        "en-US": "[Carpenter Firewood]\nAnd while all that's going on, he comes by every single day to get on my nerves...\nIf we can't solve it this time either, I may as well quit. Tsk...",
+        "pt-BR": "[Carpinteiro Carvalho]\nE no meio disso tudo ele vem aqui praticamente todo dia para me provocar…\nSe eu não resolver isto desta vez, vou largar tudo, hmph…",
+        "es-ES": "[Carpintero Robles]\nY encima viene casi todos los días a provocarme de esa manera…\nSi esta vez tampoco consigo resolverlo, tendré que mandarlo todo al diablo, bah…"
     },
     "z91TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nThen I'll be organizing the cargo in the cart,\nso please take a closer look at the ^DD5555broken tools^000000.",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nEntão vou organizar um pouco a carga na carroça,\npor favor examine melhor as ^DD5555ferramentas quebradas^000000.",
-        "es-ES": "[Carpintero Jangjangjak]\nEntonces yo estaré ordenando la carga del carro,\nasí que examina con más detalle las ^DD5555herramientas dañadas^000000, por favor."
+        "en-US": "[Carpenter Firewood]\nThen I'll be organizing the cargo in the cart,\nso please take a closer look at the ^DD5555broken tools^000000.",
+        "pt-BR": "[Carpinteiro Carvalho]\nEntão vou organizar um pouco a carga na carroça,\npor favor examine melhor as ^DD5555ferramentas quebradas^000000.",
+        "es-ES": "[Carpintero Robles]\nEntonces yo estaré ordenando la carga del carro,\nasí que examina con más detalle las ^DD5555herramientas dañadas^000000, por favor."
     },
     "0N1TDQ": {
         "en-US": "Oh dear~ What a life!",
-        "pt-BR": "Ai~ que sina a minha!",
+        "pt-BR": "Ai~ que sina, a minha!",
         "es-ES": "Ay… ¡Qué mala suerte la mía!"
     },
     "0d1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nAh… oh dear…\nHow could such a thing happen…",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nAh… ai, ai…\nComo uma coisa dessas pôde acontecer…",
-        "es-ES": "[Carpintero Jangjangjak]\nAh… Ay, ay…\n¿Cómo puede haber pasado algo así…?"
+        "en-US": "[Carpenter Firewood]\nAh... oh dear...\nHow could such a thing happen...",
+        "pt-BR": "[Carpinteiro Carvalho]\nAh… ai, ai…\nComo uma coisa dessas pôde acontecer…",
+        "es-ES": "[Carpintero Robles]\nAh… Ay, ay…\n¿Cómo puede haber pasado algo así…?"
     },
     "0t1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nHe was a nasty-tempered man, but he wasn't so bad as to deserve that. How did this…\nOh dear…",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nEle era um sujeito de gênio ruim, mas não era uma pessoa tão má assim. Como foi que…\nAi, meu Deus…",
-        "es-ES": "[Carpintero Jangjangjak]\nEra un hombre de mal carácter, pero tampoco era tan mala persona como para acabar así…\nAy, ay…"
+        "en-US": "[Carpenter Firewood]\nHe was a nasty-tempered man, but he wasn't so bad as to deserve that. How did this...\nOh dear...",
+        "pt-BR": "[Carpinteiro Carvalho]\nEle era um sujeito de gênio ruim, mas não era uma pessoa tão má assim. Como foi que…\nAi, meu Deus…",
+        "es-ES": "[Carpintero Robles]\nEra un hombre de mal carácter, pero tampoco era tan mala persona como para acabar así…\nAy, ay…"
     },
     "091TDQ": {
-        "en-US": "Oh dear…",
+        "en-US": "Oh dear...",
         "pt-BR": "Ai, ai…",
         "es-ES": "Ay…"
     },
     "1N1TDQ": {
-        "en-US": "Cheolho",
-        "pt-BR": "Cheolho",
-        "es-ES": "Cheolho"
+        "en-US": "Cheol-ho",
+        "pt-BR": "Cheol-ho",
+        "es-ES": "Cheol-ho"
     },
     "1d1TDQ": {
         "en-US": "Broken Tools",
@@ -435,14 +435,14 @@
         "es-ES": "- Hay herramientas dañadas dentro. -"
     },
     "191TDQ": {
-        "en-US": "- Animal footprints are scattered messily around the box, and as Jang Jangjak said, they appear to be herbivore footprints. -",
-        "pt-BR": "- Ao redor da caixa, há pegadas de animais espalhadas de modo caótico e, como Jangjangjak disse, parecem pegadas de herbívoros. -",
-        "es-ES": "- Alrededor de la caja hay huellas de animales por todas partes y, tal como dijo Jangjangjak, parecen huellas de animales herbívoros. -"
+        "en-US": "- Animal footprints are scattered messily around the box, and as Firewood said, they appear to be herbivore footprints. -",
+        "pt-BR": "- Ao redor da caixa, há pegadas de animais espalhadas de modo caótico e, como Carvalho disse, parecem pegadas de herbívoros. -",
+        "es-ES": "- Alrededor de la caja hay huellas de animales por todas partes y, tal como dijo Robles, parecen huellas de animales herbívoros. -"
     },
     "2N1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nWhat do you think, adventurer?\nDo you think you can find something out?",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nE então, aventureiro.\nAcha que descobriu algo?",
-        "es-ES": "[Carpintero Jangjangjak]\n¿Qué tal, aventurero?\n¿Crees haber descubierto algo?"
+        "en-US": "[Carpenter Firewood]\nWhat do you think, adventurer?\nDo you think you can find something out?",
+        "pt-BR": "[Carpinteiro Carvalho]\nE então, aventureiro.\nAcha que descobriu algo?",
+        "es-ES": "[Carpintero Robles]\n¿Qué tal, aventurero?\n¿Crees haber descubierto algo?"
     },
     "2d1TDQ": {
         "en-US": "I should look around the area a bit more.",
@@ -450,14 +450,14 @@
         "es-ES": "Parece que debo examinar un poco más la zona."
     },
     "2t1TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nThen take a good look around.\nWe need to start construction as soon as possible, so don't take too long.",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nEntão dê uma boa olhada.\nPrecisamos começar a construção o quanto antes, então não vá devagar demais.",
-        "es-ES": "[Carpintero Jangjangjak]\nEntonces mira con calma.\nTenemos que empezar la obra cuanto antes, así que tampoco te tomes demasiado tiempo."
+        "en-US": "[Carpenter Firewood]\nThen take a good look around.\nWe need to start construction as soon as possible, so don't take too long.",
+        "pt-BR": "[Carpinteiro Carvalho]\nEntão dê uma boa olhada.\nPrecisamos começar a construção o quanto antes, então não enrole!",
+        "es-ES": "[Carpintero Robles]\nEntonces mira con calma.\nTenemos que empezar la obra cuanto antes, así que tampoco te tomes demasiado tiempo."
     },
     "291TDQ": {
-        "en-US": "[Carpenter Jang Jangjak]\nIf you discover anything while looking around, let me know.",
-        "pt-BR": "[Carpinteiro Jangjangjak]\nSe descobrir qualquer coisa enquanto examina, conte-me.",
-        "es-ES": "[Carpintero Jangjangjak]\nSi descubres algo mientras examinas la zona, dímelo, por favor."
+        "en-US": "[Carpenter Firewood]\nIf you discover anything while looking around, let me know.",
+        "pt-BR": "[Carpinteiro Carvalho]\nSe descobrir qualquer coisa enquanto examina, conte-me.",
+        "es-ES": "[Carpintero Robles]\nSi descubres algo mientras examinas la zona, dímelo, por favor."
     },
     "3N1TDQ": {
         "en-US": "- Taking another close look at the broken tools, you see faint stains on them. -",
@@ -465,19 +465,19 @@
         "es-ES": "- Al volver a examinar detenidamente las herramientas dañadas, ves unas manchas borrosas. -"
     },
     "3d1TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 16>Oh dear!!</FONT>\n<FONT SIZE = 14>You mustn't eat that!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 16>Meu Deus!!</FONT>\n<FONT SIZE = 14>Isso não pode comer!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 16>¡¡Caramba!!</FONT>\n<FONT SIZE = 14>¡Eso no se come!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 16>Oh dear!!</FONT>\n<FONT SIZE = 14>You mustn't eat that!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 16>Meu Deus!!!</FONT>\n<FONT SIZE = 14>Isso não é de comer!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 16>¡¡Caramba!!</FONT>\n<FONT SIZE = 14>¡Eso no se come!</FONT>"
     },
     "3t1TDQ": {
         "en-US": "Oh dear!!",
-        "pt-BR": "Meu Deus!!",
+        "pt-BR": "Meu Deus!!!",
         "es-ES": "¡¡Caramba!!"
     },
     "391TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>It does smell delicious, but you'll get sick if you eat it.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Tem um cheiro gostoso, mas se comer, passa mal.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Huele delicioso, pero si lo comes te hará daño.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>It does smell delicious, but you'll get sick if you eat it.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Tem um cheiro gostoso, mas se comer, passa mal.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Huele delicioso, pero si lo comes te hará daño.</FONT>"
     },
     "4N1TDQ": {
         "en-US": "I tried it!",
@@ -485,9 +485,9 @@
         "es-ES": "¡Yo lo he probado!"
     },
     "4d1TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>The things I ate in the forest were sweet and delicious, but the snakeberry I picked up earlier was bitter!</FONT>\n<FONT SIZE = 16>It made me angry!</FONT>\n<FONT SIZE = 18>And my stomach hurt!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>As coisas que comi na floresta eram doces e gostosas, mas o morango silvestre que peguei agora há pouco era amargo!</FONT>\n<FONT SIZE = 16>Deu raiva!</FONT>\n<FONT SIZE = 18>E dor de barriga!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Las cosas que comí en el bosque eran dulces y sabrosas, pero las falsas fresas que recogí antes eran amargas!</FONT>\n<FONT SIZE = 16>¡Me enfadé!</FONT>\n<FONT SIZE = 18>¡Y me dolía la barriga!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>The things I ate in the forest were sweet and delicious, but the snakeberry I picked up earlier was bitter!</FONT>\n<FONT SIZE = 16>It made me angry!</FONT>\n<FONT SIZE = 18>And my stomach hurt!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>As coisas que comi na floresta eram doces e gostosas, mas o morango silvestre que peguei agora há pouco era amargo!</FONT>\n<FONT SIZE = 16>Deu raiva!</FONT>\n<FONT SIZE = 18>E dor de barriga!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Las cosas que comí en el bosque eran dulces y sabrosas, pero las falsas fresas que recogí antes eran amargas!</FONT>\n<FONT SIZE = 16>¡Me enfadé!</FONT>\n<FONT SIZE = 18>¡Y me dolía la barriga!</FONT>"
     },
     "4t1TDQ": {
         "en-US": "My lower belly still feels all tingly!",
@@ -495,14 +495,14 @@
         "es-ES": "¡Todavía me duele un poco la tripa!"
     },
     "491TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>The friends who came all the way here following the food probably got angry and went back!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Os amigos que vieram até aqui seguindo a comida também devem ter ficado zangados e voltado!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Los amigos que llegaron hasta aquí siguiendo la comida también habrán vuelto enfadados!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>The friends who came all the way here following the food probably got angry and went back!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Os amigos que vieram até aqui seguindo a comida também devem ter ficado zangados e voltado!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Los amigos que llegaron hasta aquí siguiendo la comida también habrán vuelto enfadados!</FONT>"
     },
     "5N1TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>There is a delicious smell on that road too, but that road leads to the village, so if wild animals like us take that road, we'll be in big trouble!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Daquela estrada também vem um cheiro gostoso, mas aquela estrada leva à cidade, então, se nós, animais selvagens, formos por ali, vai dar muito problema!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Por aquel camino también llega un olor delicioso, pero ese camino lleva al pueblo, así que si animales salvajes como nosotros vamos por ahí, ¡nos meteremos en un gran lío!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>There is a delicious smell on that road too, but that road leads to the village, so if wild animals like us take that road, we'll be in big trouble!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Daquela estrada também vem um cheiro gostoso, mas aquela estrada leva à cidade, então, se nós, animais selvagens, formos por ali, vai dar muito problema!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Por aquel camino también llega un olor delicioso, pero ese camino lleva al pueblo, así que si animales salvajes como nosotros vamos por ahí, ¡nos meteremos en un gran lío!</FONT>"
     },
     "5d1TDQ": {
         "en-US": "We'll get scolded!",
@@ -515,9 +515,9 @@
         "es-ES": "Sobre el olor delicioso."
     },
     "591TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>The smell that began in front of the forest continues along the road to the village.</FONT>\n<FONT SIZE = 14>But if it only smells good and is bitter, makes you angry, and gives you a stomachache like earlier, it's no use at all.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>O cheiro que vinha desde a frente da floresta continua pela estrada que leva à cidade.</FONT>\n<FONT SIZE = 14>Mas se só o cheiro for bom e for amargo, irritante e der dor de barriga como agora há pouco, não serve para nada.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>El olor que venía desde la entrada del bosque continúa por el camino hacia el pueblo.</FONT>\n<FONT SIZE = 14>Pero si solo huele bien y luego, como antes, sabe amargo, enfada y duele la barriga, no sirve de nada.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>The smell that began in front of the forest continues along the road to the village.</FONT>\n<FONT SIZE = 14>But if it only smells good and is bitter, makes you angry, and gives you a stomachache like earlier, it's no use at all.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>O cheiro que vinha lá da frente da floresta continua pela estrada que leva à cidade.</FONT>\n<FONT SIZE = 14>Mas se só o cheiro for bom e for amargo, irritante e der dor de barriga como agora há pouco, não adianta nada.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>El olor que venía desde la entrada del bosque continúa por el camino hacia el pueblo.</FONT>\n<FONT SIZE = 14>Pero si solo huele bien y luego, como antes, sabe amargo, enfada y duele la barriga, no sirve de nada.</FONT>"
     },
     "6N1TDQ": {
         "en-US": "Give the strawberry.",
@@ -530,9 +530,9 @@
         "es-ES": "Dejarlo."
     },
     "6t1TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>You're really giving it to me?!</FONT>\n<FONT SIZE = 14>Delicious! It's delicious!</FONT>\n<FONT SIZE = 14>It's much tastier than the snakeberries I ate in the forest!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Vai mesmo me dar isso?!</FONT>\n<FONT SIZE = 14>É gostoso! Que delícia!</FONT>\n<FONT SIZE = 14>É muito mais gostoso que o morango silvestre que comi na floresta!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¿De verdad me la das a mí?</FONT>\n<FONT SIZE = 14>¡Está rica! ¡Riquísima!</FONT>\n<FONT SIZE = 14>¡Es mucho más sabrosa que las falsas fresas que comí en el bosque!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>You're really giving it to me?!</FONT>\n<FONT SIZE = 14>Delicious! It's delicious!</FONT>\n<FONT SIZE = 14>It's much tastier than the snakeberries I ate in the forest!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Vai mesmo me dar isso?!</FONT>\n<FONT SIZE = 14>É gostoso! Que delícia!</FONT>\n<FONT SIZE = 14>É muito mais gostoso que o morango silvestre que comi na floresta!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¿De verdad me la das a mí?</FONT>\n<FONT SIZE = 14>¡Está rica! ¡Riquísima!</FONT>\n<FONT SIZE = 14>¡Es mucho más sabrosa que las falsas fresas que comí en el bosque!</FONT>"
     },
     "691TDQ": {
         "en-US": "Delicious! It's delicious!!!!",
@@ -540,23 +540,23 @@
         "es-ES": "¡Está rica! ¡Riquísima!"
     },
     "7N1TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Since you gave me something delicious, I'll take you to the place with the delicious smell you were curious about!</FONT>\n<FONT SIZE = 14>Hurry and follow me.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Já que me deu algo gostoso, vou levar você até o lugar de onde vem o cheiro gostoso que queria saber!</FONT>\n<FONT SIZE = 14>Venha logo atrás de mim.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Como me has dado algo sabroso, ¡te llevaré al lugar del olor delicioso que te daba curiosidad!</FONT>\n<FONT SIZE = 14>Sígueme deprisa.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Since you gave me something delicious, I'll take you to the place with the delicious smell you were curious about!</FONT>\n<FONT SIZE = 14>Hurry and follow me.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Já que me deu algo gostoso, vou levar você até o lugar de onde vem o cheiro gostoso que queria saber!</FONT>\n<FONT SIZE = 14>Vamos nessa! Me siga.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Como me has dado algo sabroso, ¡te llevaré al lugar del olor delicioso que te daba curiosidad!</FONT>\n<FONT SIZE = 14>Sígueme deprisa.</FONT>"
     },
     "7d1TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Hmm?</FONT>\n<FONT SIZE = 14>What are you saying you'll give me?</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Hã?</FONT>\n<FONT SIZE = 14>O que você vai me dar?</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¿Eh?</FONT>\n<FONT SIZE = 14>¿Qué dices que vas a darme?</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Hmm?</FONT>\n<FONT SIZE = 14>What are you saying you'll give me?</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Hã?</FONT>\n<FONT SIZE = 14>O que você vai me dar?</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¿Eh?</FONT>\n<FONT SIZE = 14>¿Qué dices que vas a darme?</FONT>"
     },
     "7t1TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Anyone who would trick me with a delicious smell is surely a very nasty fellow.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Enganar-me com um cheiro gostoso é certamente obra de alguém muito mal-intencionado.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Engañarme con un olor delicioso… seguro que ha sido obra de alguien con muy malas intenciones.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Anyone who would trick me with a delicious smell is surely a very nasty fellow.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Enganar-me com um cheiro gostoso é certamente obra de alguém muito mal-intencionado.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Engañarme con un olor delicioso… seguro que ha sido obra de alguien con muy malas intenciones.</FONT>"
     },
     "791TDQ": {
         "en-US": "Disordered Traces",
-        "pt-BR": "Vestígio Confuso",
+        "pt-BR": "Vestígios Confusos",
         "es-ES": "Rastro desordenado"
     },
     "8N1TDQ": {
@@ -571,7 +571,7 @@
     },
     "8t1TDQ": {
         "en-US": "- These traces look somewhat disordered. -",
-        "pt-BR": "- Parece ser um vestígio confuso. -",
+        "pt-BR": "- Estes vestígios estão muito confusos. -",
         "es-ES": "- Es un rastro que parece algo desordenado. -"
     },
     "891TDQ": {
@@ -605,14 +605,14 @@
         "es-ES": "- Al oír una voz de repente, miras a tu alrededor, pero no ves a nadie. -"
     },
     "+d1TDQ": {
-        "en-US": "- You found another trace.\nUnlike the footprints you saw at Jang Jangjak's worksite, these footprints are neat.-",
-        "pt-BR": "- Outro vestígio foi encontrado.\nDiferente do que foi visto no local de trabalho de Jangjangjak, são pegadas ordenadas.-",
-        "es-ES": "- Has encontrado otro rastro.\nA diferencia de las huellas que viste en la zona de trabajo de Jangjangjak, estas están alineadas con orden.-"
+        "en-US": "- You found another trace.\nUnlike the footprints you saw at Firewood's worksite, these footprints are neat.-",
+        "pt-BR": "- Outro vestígio foi encontrado.\nDiferente do que foi visto no local de trabalho de Carvalho, são pegadas ordenadas.-",
+        "es-ES": "- Has encontrado otro rastro.\nA diferencia de las huellas que viste en la zona de trabajo de Robles, estas están alineadas con orden.-"
     },
     "+t1TDQ": {
-        "en-US": "- It seems the animals moved straight along the road to Jang Jangjak's worksite. -",
-        "pt-BR": "- Parece que os animais seguiram diretamente pelo caminho até o local de trabalho de Jangjangjak. -",
-        "es-ES": "- Parece que los animales se dirigieron directamente a la zona de trabajo de Jangjangjak siguiendo el camino. -"
+        "en-US": "- It seems the animals moved straight along the road to Firewood's worksite. -",
+        "pt-BR": "- Parece que os animais seguiram diretamente pelo caminho até o local de trabalho de Carvalho. -",
+        "es-ES": "- Parece que los animales se dirigieron directamente a la zona de trabajo de Robles siguiendo el camino. -"
     },
     "+91TDQ": {
         "en-US": "[???]\nIs looking at footprints fun?",
@@ -645,9 +645,9 @@
         "es-ES": "¿Quién eres?"
     },
     "Ad5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>I am Cheolho.</FONT>\n<FONT SIZE = 14>I came from deeeep in the forest.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Eu sou Cheolho.</FONT>\n<FONT SIZE = 14>Vim lááá do fundo da floresta.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Soy Cheolho.</FONT>\n<FONT SIZE = 14>Vengo de muuuy adentro del bosque.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>I am Cheol-ho.</FONT>\n<FONT SIZE = 14>I came from deeeep in the forest.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Eu sou Cheol-ho.</FONT>\n<FONT SIZE = 14>Vim lááá do fundo da floresta.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Soy Cheol-ho.</FONT>\n<FONT SIZE = 14>Vengo de muuuy adentro del bosque.</FONT>"
     },
     "At5TDQ": {
         "en-US": "Ahem!",
@@ -655,29 +655,29 @@
         "es-ES": "¡Ejem!"
     },
     "A95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>I have many friends in the forest!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Na floresta há muitos amigos!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡En el bosque tengo muchos amigos!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>I have many friends in the forest!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Na floresta há muitos amigos!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡En el bosque tengo muchos amigos!</FONT>"
     },
     "BN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Today, too, I was playing in the forest, shaking tree branches, when all my friends suddenly went rushing along the road.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Hoje eu também estava brincando na floresta, balançando galhos, quando vi os outros amigos correndo em bando pelo caminho.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Hoy también estaba jugando en el bosque, sacudiendo ramas, cuando vi que otros amigos avanzaban en tropel por el camino.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Today, too, I was playing in the forest, shaking tree branches, when all my friends suddenly went rushing along the road.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Hoje eu também estava brincando na floresta, balançando galhos, quando vi os outros amigos correndo em bando pelo caminho.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Hoy también estaba jugando en el bosque, sacudiendo ramas, cuando vi que otros amigos avanzaban en tropel por el camino.</FONT>"
     },
     "Bd5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>I wondered what fun thing had everyone walking so excitedly, so I followed them.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Pensei que devia haver algo divertido para todos caminharem tão animados, então fui atrás.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Me pregunté qué cosa tan divertida habría para que caminaran tan animados, así que los seguí.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>I wondered what fun thing had everyone walking so excitedly, so I followed them.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Pensei que devia haver algo divertido para todos caminharem tão animados, então fui atrás.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Me pregunté qué cosa tan divertida habría para que caminaran tan animados, así que los seguí.</FONT>"
     },
     "Bt5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>As I walked with everyone, ^DD5555fruit and grain^000000 and other things that are hard to see in the forest were lying on the ground, so it was quite fun!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Enquanto caminhava com todos, havia ^DD5555frutas e grãos no chão^000000, coisas difíceis de ver na floresta, então foi bem divertido!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Mientras caminaba con todos, había ^DD5555fruta y cereales en el suelo^000000, cosas difíciles de ver en el bosque, ¡así que fue bastante divertido!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>As I walked with everyone, ^DD5555fruit and grain^000000 and other things that are hard to see in the forest were lying on the ground, so it was quite fun!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Enquanto caminhava com todos, havia ^DD5555frutas e grãos^000000 no chão, coisas difíceis de ver na floresta, então foi bem divertido!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Mientras caminaba con todos, había ^DD5555fruta y cereales en el suelo^000000, cosas difíciles de ver en el bosque, ¡así que fue bastante divertido!</FONT>"
     },
     "B95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Then I spotted an especially ripe barley ear that had fallen on the ground, and while I was distracted looking at it, everyone went on ahead.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Então vi uma espiga de cevada especialmente madura caída no chão e me distraí um pouco olhando para ela, e todos foram embora na frente.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Entonces vi una espiga de cebada especialmente madura caída en el suelo y me distraje un momento mirándola, y todos se fueron antes que yo.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Then I spotted an especially ripe barley ear that had fallen on the ground, and while I was distracted looking at it, everyone went on ahead.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Então vi uma espiga de cevada especialmente madura caída no chão e me distraí um pouco olhando para ela, e todos foram embora na frente.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Entonces vi una espiga de cebada especialmente madura caída en el suelo y me distraje un momento mirándola, y todos se fueron antes que yo.</FONT>"
     },
     "CN5TDQ": {
         "en-US": "It was so splendid!",
@@ -685,33 +685,33 @@
         "es-ES": "¡Era muy apetecible!"
     },
     "Cd5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>There was nothing delicious left after everyone passed by, but the footprints remained, so I followed them here.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Depois que todos passaram, não restou nada gostoso, mas as pegadas ficaram, então eu as segui até aqui.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Después de que todos pasaran ya no quedaba nada sabroso, pero sí las huellas, así que las seguí hasta aquí.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>There was nothing delicious left after everyone passed by, but the footprints remained, so I followed them here.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Depois que todos passaram, não restou nada gostoso, mas as pegadas ficaram, então eu as segui até aqui.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Después de que todos pasaran ya no quedaba nada sabroso, pero sí las huellas, así que las seguí hasta aquí.</FONT>"
     },
     "Ct5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>How delicious must it have been for them to eat it all up without leaving a trace?</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Será que estava tão gostoso a ponto de comerem tudo sem deixar vestígios?</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¿Tan rico estaba todo como para comérselo sin dejar ni rastro?</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>How delicious must it have been for them to eat it all up without leaving a trace?</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Será que estava tão gostoso a ponto de comerem tudo sem deixar vestígios?</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¿Tan rico estaba todo como para comérselo sin dejar ni rastro?</FONT>"
     },
     "C95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 17>Ah!!!</FONT>\n<FONT SIZE = 14>There's another fine snakeberry over there!!!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 17>Ah!!!</FONT>\n<FONT SIZE = 14>Ali tem outro morango silvestre lindo!!!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 17>¡¡Ah!!</FONT>\n<FONT SIZE = 14>¡¡Allí hay otra falsa fresa estupenda!!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 17>Ah!!!</FONT>\n<FONT SIZE = 14>There's another fine snakeberry over there!!!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 17>Ah!!!</FONT>\n<FONT SIZE = 14>Ali tem outro morango silvestre lindo!!!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 17>¡¡Ah!!</FONT>\n<FONT SIZE = 14>¡¡Allí hay otra falsa fresa estupenda!!</FONT>"
     },
     "DN5TDQ": {
         "en-US": "It looks delicious!!",
-        "pt-BR": "Parece gostoso!!",
+        "pt-BR": "Parece gostoso!!!",
         "es-ES": "¡¡Qué rica debe estar!!"
     },
     "Dd5TDQ": {
-        "en-US": "- You learned that food had fallen along the path the wild animals traveled.\nReturn to Jang Jangjak. -",
-        "pt-BR": "- Você descobriu que havia comida caída no caminho por onde os animais selvagens passaram.\nVolte até Jangjangjak. -",
-        "es-ES": "- Has obtenido información de que había comida caída en el camino por el que pasaron los animales salvajes.\nVuelve con Jangjangjak. -"
+        "en-US": "- You learned that food had fallen along the path the wild animals traveled.\nReturn to Firewood. -",
+        "pt-BR": "- Você descobriu que havia comida caída no caminho por onde os animais selvagens passaram.\nVolte até Carvalho. -",
+        "es-ES": "- Has obtenido información de que había comida caída en el camino por el que pasaron los animales salvajes.\nVuelve con Robles. -"
     },
     "Dt5TDQ": {
         "en-US": "Lord Ijotu",
-        "pt-BR": "Senhor Ijotu",
+        "pt-BR": "Senhor Lee",
         "es-ES": "Lord Lee Jotu"
     },
     "D95TDQ": {
@@ -725,9 +725,9 @@
         "es-ES": "Montón de comida"
     },
     "Ed5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Here, here!</FONT>\n<FONT SIZE = 14>The smell is coming from here!</FONT>\n<FONT SIZE = 16>Slurp…</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Aqui, aqui!</FONT>\n<FONT SIZE = 14>Vem muito cheiro daqui!</FONT>\n<FONT SIZE = 16>Slurp…</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Aquí, aquí!</FONT>\n<FONT SIZE = 14>¡Aquí huele muchísimo!</FONT>\n<FONT SIZE = 16>Ñam…</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Here, here!</FONT>\n<FONT SIZE = 14>The smell is coming from here!</FONT>\n<FONT SIZE = 16>Slurp...</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Aqui, aqui!</FONT>\n<FONT SIZE = 14>Vem muito cheiro daqui!</FONT>\n<FONT SIZE = 16>Slurp…</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Aquí, aquí!</FONT>\n<FONT SIZE = 14>¡Aquí huele muchísimo!</FONT>\n<FONT SIZE = 16>Ñam…</FONT>"
     },
     "Et5TDQ": {
         "en-US": "[???]\n<FONT SIZE = 14>Hey!</FONT>\nYou rascal!\nWhat did I tell you happens if you covet other people's things in the village?",
@@ -736,48 +736,48 @@
     },
     "E95TDQ": {
         "en-US": "Hey!!!!",
-        "pt-BR": "Ei!!!!",
+        "pt-BR": "Ei!!!",
         "es-ES": "¡¡Eh!!"
     },
     "FN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>I was not coveting it!</FONT>\n<FONT SIZE = 14>I was just drooling!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Eu não cobicei!</FONT>\n<FONT SIZE = 14>Só fiquei salivando!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡No lo he codiciado!</FONT>\n<FONT SIZE = 14>¡Solo se me ha hecho la boca agua!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>I was not coveting it!</FONT>\n<FONT SIZE = 14>I was just drooling!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Eu não cobicei!</FONT>\n<FONT SIZE = 14>Só fiquei salivando!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡No lo he codiciado!</FONT>\n<FONT SIZE = 14>¡Solo se me ha hecho la boca agua!</FONT>"
     },
     "Fd5TDQ": {
         "en-US": "[???]\nBesides, those are things you must not eat!",
-        "pt-BR": "[???]\nAlém disso, aquelas coisas não devem ser comidas!",
+        "pt-BR": "[???]\nAlém disso, você não deveria estar comendo isso!",
         "es-ES": "[???]\n¡Además, esas cosas no deben comerse!"
     },
     "Ft5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 18><B>Why?</B></FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 18><B>Por quê?</B></FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 18><B>¿Por qué?</B></FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 18><B>Why?</B></FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 18><B>Por quê?</B></FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 18><B>¿Por qué?</B></FONT>"
     },
     "F95TDQ": {
         "en-US": "[???]\nLately, ^DD5555wild animals that got sick after eating things dropped on the road^000000 keep coming by, and it's all because of those things.",
-        "pt-BR": "[???]\nUltimamente, ^DD5555animais selvagens que passaram mal depois de comer coisas caídas no caminho^000000 continuam vindo aqui, e é tudo por causa daquilo.",
+        "pt-BR": "[???]\nUltimamente, ^DD5555animais selvagens que passaram mal depois de comer coisas caídas no caminho^000000 continuam vindo aqui, e é tudo por causa disso.",
         "es-ES": "[???]\nÚltimamente no paran de venir ^DD5555animales salvajes que enfermaron por comer cosas caídas en el camino^000000, y todo es por eso."
     },
     "GN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Gwiseol is kind!</FONT>\n<FONT SIZE = 14>Are you worried about our friends with stomachaches?</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Gwiseol é bondoso!</FONT>\n<FONT SIZE = 14>Está preocupado com os amigos com dor de barriga?</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Gwiseol es bueno!</FONT>\n<FONT SIZE = 14>¿Te preocupan los amigos con dolor de barriga?</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Gwisul is kind!</FONT>\n<FONT SIZE = 14>Are you worried about our friends with stomachaches?</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Gwisul é bondoso!</FONT>\n<FONT SIZE = 14>Está preocupado com os amigos com dor de barriga?</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Gwisul es bueno!</FONT>\n<FONT SIZE = 14>¿Te preocupan los amigos con dolor de barriga?</FONT>"
     },
     "Gd5TDQ": {
-        "en-US": "[Gwiseol]\nThey keep coming by, so I came to punish the ones scattering strange things because it's <FONT SIZE = 14><B>annoying</B></FONT>.",
-        "pt-BR": "[Gwiseol]\nComo eles não param de vir, fiquei <FONT SIZE = 14><B>irritado</B></FONT> e vim dar uma lição em quem espalhou coisas estranhas.",
-        "es-ES": "[Gwiseol]\nComo no paran de venir, me resultan <FONT SIZE = 14><B>molestos</B></FONT>, así que he venido a dar una lección a quienes esparcieron esas cosas raras."
+        "en-US": "[Gwisul]\nThey keep coming by, so I came to punish the ones scattering strange things because it's <FONT SIZE = 14><B>annoying</B></FONT>.",
+        "pt-BR": "[Gwisul]\nComo eles não param de vir, fiquei <FONT SIZE = 14><B>irritado</B></FONT> e vim dar uma lição em quem espalhou coisas estranhas.",
+        "es-ES": "[Gwisul]\nComo no paran de venir, me resultan <FONT SIZE = 14><B>molestos</B></FONT>, así que he venido a dar una lección a quienes esparcieron esas cosas raras."
     },
     "Gt5TDQ": {
-        "en-US": "[Cheolho]\n…",
-        "pt-BR": "[Cheolho]\n…",
-        "es-ES": "[Cheolho]\n…"
+        "en-US": "[Cheol-ho]\n...",
+        "pt-BR": "[Cheol-ho]\n…",
+        "es-ES": "[Cheol-ho]\n…"
     },
     "G95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 18>So kind!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 18>Bondoso!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 18>¡Es bueno!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 18>So kind!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 18>Bondoso!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 18>¡Es bueno!</FONT>"
     },
     "HN5TDQ": {
         "en-US": "So kind!!!!!!!",
@@ -785,9 +785,9 @@
         "es-ES": "¡¡¡¡Es bueno!!!!"
     },
     "Hd5TDQ": {
-        "en-US": "[Gwiseol]\nShh!\nJudging by the sound of running, it looks like they finally discovered it.",
-        "pt-BR": "[Gwiseol]\nShh!\nPelo som de passos correndo, parece que finalmente descobriram.",
-        "es-ES": "[Gwiseol]\n¡Chist!\nPor el sonido de pasos corriendo, parece que por fin lo han descubierto."
+        "en-US": "[Gwisul]\nShh!\nJudging by the sound of running, it looks like they finally discovered it.",
+        "pt-BR": "[Gwisul]\nShh!\nPelo som de passos correndo, parece que finalmente descobriram.",
+        "es-ES": "[Gwisul]\n¡Chist!\nPor el sonido de pasos corriendo, parece que por fin lo han descubierto."
     },
     "Ht5TDQ": {
         "en-US": "Noisy.",
@@ -795,14 +795,14 @@
         "es-ES": "Qué ruidoso."
     },
     "H95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 10>What?</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 10>O quê?</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 10>¿El qué?</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 10>What?</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 10>O quê?</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 10>¿El qué?</FONT>"
     },
     "IN5TDQ": {
-        "en-US": "[Gwiseol]\nI set up a little prank so I could have a look at the faces of the wretches who annoyed me.\nStay still and watch.",
-        "pt-BR": "[Gwiseol]\nPreparei uma brincadeira para ver a cara dos patifes que me irritaram.\nFique quieto.",
-        "es-ES": "[Gwiseol]\nHe preparado una pequeña broma para verles la cara a esos malvados que me han estado molestando.\nQuédate quieto."
+        "en-US": "[Gwisul]\nI set up a little prank so I could have a look at the faces of the wretches who annoyed me.\nStay still and watch.",
+        "pt-BR": "[Gwisul]\nPreparei uma pegadinha para ver a cara dos patifes que me irritaram.\nFique quieto.",
+        "es-ES": "[Gwisul]\nHe preparado una pequeña broma para verles la cara a esos malvados que me han estado molestando.\nQuédate quieto."
     },
     "Id5TDQ": {
         "en-US": "[???]\n<FONT SIZE = 16>My lord!</FONT>",
@@ -826,42 +826,42 @@
     },
     "Jd5TDQ": {
         "en-US": "[Lord Ijotu]\nWhat is it?\nWhy all the commotion?",
-        "pt-BR": "[Senhor Ijotu]\nO que houve?\nQue barulheira.",
+        "pt-BR": "[Senhor Lee]\nO que houve?\nQue barulheira é essa?",
         "es-ES": "[Lord Lee Jotu]\n¿Qué sucede?\nQué escándalo."
     },
     "Jt5TDQ": {
-        "en-US": "[Lord I's Servant]\nThe… um… food that was stored in the barn has all disappeared!",
+        "en-US": "[Lord I's Servant]\nThe... um... food that was stored in the barn has all disappeared!",
         "pt-BR": "[Servo do Senhor Lee]\nAquelas… comidas… que deixamos no celeiro desapareceram todas!",
         "es-ES": "[Sirviente de Lord Lee]\nLa… la comida que guardamos en el granero ha desaparecido toda, señor."
     },
     "J95TDQ": {
         "en-US": "[Lord Ijotu]\n<FONT SIZE = 14>What!?</FONT>\nWhere did all that food go?!",
-        "pt-BR": "[Senhor Ijotu]\n<FONT SIZE = 14>O quê!?</FONT>\nPara onde foi toda aquela comida?",
+        "pt-BR": "[Senhor Lee]\n<FONT SIZE = 14>O quê!?</FONT>\nPara onde foi toda aquela comida?",
         "es-ES": "[Lord Lee Jotu]\n<FONT SIZE = 14>¿Qué?</FONT>\n¡¿Adónde ha ido a parar toda aquella comida?!"
     },
     "KN5TDQ": {
-        "en-US": "[Lord I's Servant]\nWell, the barn door was securely locked, and I was in the yard the whole time, but no one passed by.",
+        "en-US": "[Lord Ijotu's Servant]\nWell, the barn door was securely locked, and I was in the yard the whole time, but no one passed by.",
         "pt-BR": "[Servo do Senhor Lee]\nPois é, a porta do celeiro estava bem trancada e eu fiquei o tempo todo no pátio, mas ninguém passou por lá.",
         "es-ES": "[Sirviente de Lord Lee]\nPues la puerta del granero estaba bien cerrada, y yo he estado todo el tiempo en el patio, pero no ha pasado nadie, señor."
     },
     "Kd5TDQ": {
         "en-US": "[Lord Ijotu]\nThen are you saying the food just walked out on its own?!",
-        "pt-BR": "[Senhor Ijotu]\nEntão a comida saiu andando com as próprias pernas?!",
+        "pt-BR": "[Senhor Lee]\nEntão a comida saiu andando com as próprias pernas?!",
         "es-ES": "[Lord Lee Jotu]\n¿Entonces dices que la comida salió caminando por su propio pie?"
     },
     "Kt5TDQ": {
         "en-US": "[Lord Ijotu]\nUrgh...\nFirst, call someone to investigate the barn quietly. We'll need food to use right away, so go to the kitchen and tell them to prepare it quickly.",
-        "pt-BR": "[Senhor Ijotu]\nUrgh...\nPor ora, chame alguém para investigar o celeiro discretamente. Precisamos de comida para usar agora, então vá à cozinha e mande preparar tudo depressa.",
+        "pt-BR": "[Senhor Lee]\nUrgh...\nPor ora, chame alguém para investigar o celeiro discretamente. Precisamos de comida para usar agora, então vá à cozinha e mande preparar tudo depressa.",
         "es-ES": "[Lord Lee Jotu]\nUgh...\nDe momento, llama a alguien para que investigue el granero con discreción, y como necesitamos comida para usar ahora mismo, ve a la cocina y diles que la preparen rápido."
     },
     "K95TDQ": {
         "en-US": "We can't let something like this ruin the plan!",
-        "pt-BR": "Não posso arruinar tudo por causa disso!",
+        "pt-BR": "Não posso deixar que algo como isso arruine todo o plano!",
         "es-ES": "¡No puedo dejar que esto arruine el plan!"
     },
     "LN5TDQ": {
         "en-US": "[Lord Ijotu]\nAnd go to the guest house and tell Master Gwang to come.",
-        "pt-BR": "[Senhor Ijotu]\nE vá ao anexo e diga ao Mestre Gwang para vir.",
+        "pt-BR": "[Senhor Lee]\nE vá ao anexo e diga ao Mestre Gwang para vir.",
         "es-ES": "[Lord Lee Jotu]\nY ve al anexo y dile al Maestro Gwang que venga."
     },
     "Ld5TDQ": {
@@ -870,32 +870,32 @@
         "es-ES": "Ve en silencio y no armes ruido."
     },
     "Lt5TDQ": {
-        "en-US": "[Lord I's Servant]\nUnderstood.",
+        "en-US": "[Lord Ijotu's Servant]\nUnderstood.",
         "pt-BR": "[Servo do Senhor Lee]\nEntendido.",
         "es-ES": "[Sirviente de Lord Lee]\nEntendido, señor."
     },
     "L95TDQ": {
         "en-US": "[Lord Ijotu]\nSigh~\nIt's enough to make a ghost wail!",
-        "pt-BR": "[Senhor Ijotu]\nSuspiro~\nIsso é coisa de assombração!",
+        "pt-BR": "[Senhor Lee]\nSuspiro~\nIsso é coisa de assombração!",
         "es-ES": "[Lord Lee Jotu]\nUf~\n¡Esto parece obra de fantasmas!"
     },
     "MN5TDQ": {
         "en-US": "Do you know how hard it was to prepare that food!!!",
-        "pt-BR": "Sabe o quanto foi difícil preparar aquela comida!!!",
+        "pt-BR": "Sabe o quanto foi difícil preparar aquela comida?!!!",
         "es-ES": "¡¡¡Con lo que costó preparar esa comida!!!"
     },
     "Md5TDQ": {
         "en-US": "[Lord Ijotu]\n<FONT SIZE = 14>Whoever it was, stealing from my barn... just wait until I catch you!!!</FONT>",
-        "pt-BR": "[Senhor Ijotu]\n<FONT SIZE = 14>Não sei quem foi, mas se eu pegar o ladrão que roubou meu celeiro!!!</FONT>",
+        "pt-BR": "[Senhor Lee]\n<FONT SIZE = 14>Não sei quem foi, mas se eu pegar o ladrão que roubou meu celeiro...!!!</FONT>",
         "es-ES": "[Lord Lee Jotu]\n<FONT SIZE = 14>¡No sé quién habrá sido, pero como atrape al que robó mi granero…!</FONT>"
     },
     "Mt5TDQ": {
         "en-US": "I'll break your legs!!!",
-        "pt-BR": "Vou quebrar as pernas dele!!!",
+        "pt-BR": "Vou quebrar suas pernas!!!",
         "es-ES": "¡¡Le rompo las piernas!!"
     },
     "M95TDQ": {
-        "en-US": "[Master Gwang]\nLord I, I heard you were looking for me?",
+        "en-US": "[Master Gwang]\nLord Ijotu, I heard you were looking for me?",
         "pt-BR": "[Mestre Gwang]\nSenhor Lee, ouvi dizer que me procurava?",
         "es-ES": "[Maestro Gwang]\nLord Lee, ¿me ha llamado?"
     },
@@ -906,7 +906,7 @@
     },
     "Nd5TDQ": {
         "en-US": "[Lord Ijotu]\n<FONT SIZE = 16>Oh my~~!</FONT>\n<FONT SIZE = 16>Master Gwang!!!</FONT>\nHow did you get here so quickly?!",
-        "pt-BR": "[Senhor Ijotu]\n<FONT SIZE = 16>Meu Deus~~!</FONT>\n<FONT SIZE = 16>Mestre Gwang!!!</FONT>\nComo chegou tão rápido?!",
+        "pt-BR": "[Senhor Lee]\n<FONT SIZE = 16>Meu Deus~~!</FONT>\n<FONT SIZE = 16>Mestre Gwang!!!</FONT>\nComo chegou tão rápido?!",
         "es-ES": "[Lord Lee Jotu]\n<FONT SIZE = 16>¡Ay, ay!</FONT>\n<FONT SIZE = 16>¡¡Maestro Gwang!!</FONT>\n¡¿Cómo ha llegado tan rápido?!"
     },
     "Nt5TDQ": {
@@ -916,22 +916,22 @@
     },
     "N95TDQ": {
         "en-US": "[Master Gwang]\nYou said it was urgent, so I hurried a bit.",
-        "pt-BR": "[Mestre Gwang]\nComo disseram que me procurava com urgência, vim um pouco apressado.",
+        "pt-BR": "[Mestre Gwang]\nComo disseram que me procurava com urgência, vim com certa pressa.",
         "es-ES": "[Maestro Gwang]\nMe dijeron que me llamaba con urgencia, así que me he dado algo de prisa."
     },
     "ON5TDQ": {
         "en-US": "[Lord Ijotu]\nIt's nothing else. It seems a thief broke into the barn, and all the food disappeared.",
-        "pt-BR": "[Senhor Ijotu]\nNão é nada além do fato de que talvez um ladrão tenha entrado no celeiro e toda a comida desapareceu.",
+        "pt-BR": "[Senhor Lee]\nNão é nada além do fato de que talvez um ladrão tenha entrado no celeiro e toda a comida desapareceu.",
         "es-ES": "[Lord Lee Jotu]\nNo es nada más que esto: parece que entró un ladrón en el granero y toda la comida ha desaparecido."
     },
     "Od5TDQ": {
         "en-US": "[Master Gwang]\nOh dear!",
-        "pt-BR": "[Mestre Gwang]\nOra!",
+        "pt-BR": "[Mestre Gwang]\nOh não!",
         "es-ES": "[Maestro Gwang]\n¡Vaya!"
     },
     "Ot5TDQ": {
-        "en-US": "[Lord Ijotu]\nSo catching the culprit is one thing, but it looks like we'll need to make new food to use right away…",
-        "pt-BR": "[Senhor Ijotu]\nEntão, além de pegar o culpado, parece que precisaremos preparar nova comida para usar de imediato…",
+        "en-US": "[Lord Ijotu]\nSo catching the culprit is one thing, but it looks like we'll need to make new food to use right away...",
+        "pt-BR": "[Senhor Lee]\nEntão, além de pegar o culpado, parece que precisaremos preparar uma nova leva de comida para usar de imediato…",
         "es-ES": "[Lord Lee Jotu]\nAsí que habrá que atrapar al culpable, sí, pero parece que antes tendremos que preparar comida nueva para usar de inmediato…"
     },
     "O95TDQ": {
@@ -940,17 +940,17 @@
         "es-ES": "[Maestro Gwang]\nEntendido.\nTraeré la medicina."
     },
     "PN5TDQ": {
-        "en-US": "[Master Gwang]\nBut…\nSince you're asking, Lord I, I will prepare the ^123456medicine^000000, but weren't you the one who personally asked Master Jang to do the forest construction?\nWhy are you trying to prevent the work from getting done?",
-        "pt-BR": "[Mestre Gwang]\nMas…\nBem, como o Senhor Lee me pediu, eu preparo o ^123456remédio^000000, mas construir na floresta não foi algo que o próprio Senhor Lee pediu ao Mestre Jang?\nPor que está tentando impedir o trabalho?",
+        "en-US": "[Master Gwang]\nBut...\nSince you're asking, Lord I, I will prepare the ^123456medicine^000000, but weren't you the one who personally asked Master Jang to do the forest construction?\nWhy are you trying to prevent the work from getting done?",
+        "pt-BR": "[Mestre Gwang]\nMas…\nEu estou preparando o ^123456remédio^000000 porque o Senhor Lee pediu, mas quanto às obras na floresta, não foi o próprio Senhor Lee que pediu isso diretamente ao Mestre Carvalho?\nPor que ele estaria tentando impedir o trabalho agora?",
         "es-ES": "[Maestro Gwang]\nSin embargo…\nYo prepararé la ^123456medicina^000000 porque usted me lo pide, Lord Lee, pero ¿no fue usted quien pidió directamente al Maestro Jang que construyera en el bosque?\n¿Por qué intenta impedir que pueda trabajar?"
     },
     "Pd5TDQ": {
         "en-US": "[Lord Ijotu]\nIf you want to buy good land cheaply, effort is required.",
-        "pt-BR": "[Senhor Ijotu]\nPara comprar um bom terreno barato, é preciso se esforçar.",
+        "pt-BR": "[Senhor Lee]\nPara comprar um bom terreno barato, é preciso se esforçar.",
         "es-ES": "[Lord Lee Jotu]\nPara comprar buenas tierras baratas, hace falta esforzarse."
     },
     "Pt5TDQ": {
-        "en-US": "[Master Gwang]\nHaha.\nThat is just like you, Lord I.",
+        "en-US": "[Master Gwang]\nHaha.\nThat is just like you, Lord Ijotu.",
         "pt-BR": "[Mestre Gwang]\nHaha.\nBem típico do Senhor Lee.",
         "es-ES": "[Maestro Gwang]\nJa, ja.\nMuy propio de usted, Lord Lee."
     },
@@ -965,9 +965,9 @@
         "es-ES": "¡¡Ja, ja, ja, ja, ja, ja, ja!!"
     },
     "Qd5TDQ": {
-        "en-US": "[Gwiseol]\nTsk~\nWhat?\nI thought there might be some grand reason, but it's more trivial than I expected.",
-        "pt-BR": "[Gwiseol]\nHmph~\nO que é isso?\nAchei que haveria algum motivo grandioso, mas é mais banal do que eu esperava.",
-        "es-ES": "[Gwiseol]\nBah~\n¿Qué es esto?\nPensé que habría alguna gran razón, pero resultó ser más insulsa de lo que esperaba."
+        "en-US": "[Gwisul]\nTsk~\nWhat?\nI thought there might be some grand reason, but it's more trivial than I expected.",
+        "pt-BR": "[Gwisul]\nHmph~\nO que é isso?\nAchei que haveria algum motivo grandioso, mas é mais banal do que eu esperava.",
+        "es-ES": "[Gwisul]\nBah~\n¿Qué es esto?\nPensé que habría alguna gran razón, pero resultó ser más insulsa de lo que esperaba."
     },
     "Qt5TDQ": {
         "en-US": "How dull~",
@@ -975,9 +975,9 @@
         "es-ES": "Qué insulso~"
     },
     "Q95TDQ": {
-        "en-US": "[Gwiseol]\nThen I've completely lost interest, so I'll be heading home.",
-        "pt-BR": "[Gwiseol]\nEntão perdi todo o interesse e vou voltar para casa.",
-        "es-ES": "[Gwiseol]\nEntonces, como he perdido todo el interés de golpe, me iré a casa."
+        "en-US": "[Gwisul]\nThen I've completely lost interest, so I'll be heading home.",
+        "pt-BR": "[Gwisul]\nEntão perdi todo o interesse e vou voltar para casa.",
+        "es-ES": "[Gwisul]\nEntonces, como he perdido todo el interés de golpe, me iré a casa."
     },
     "RN5TDQ": {
         "en-US": "No fun~",
@@ -985,24 +985,24 @@
         "es-ES": "Qué aburrido~"
     },
     "Rd5TDQ": {
-        "en-US": "[Cheolho]\nHuh!\nYou're not going to stop them?",
-        "pt-BR": "[Cheolho]\nAh!\nVocê não vai impedir?",
-        "es-ES": "[Cheolho]\n¡Uf!\n¿No vas a detenerlo?"
+        "en-US": "[Cheol-ho]\nHuh!\nYou're not going to stop them?",
+        "pt-BR": "[Cheol-ho]\nAh!\nVocê não vai impedir?",
+        "es-ES": "[Cheol-ho]\n¡Uf!\n¿No vas a detenerlo?"
     },
     "Rt5TDQ": {
-        "en-US": "[Gwiseol]\nNo, well.\nThis matter must have already reached that fellow's ears by now, so won't that fellow handle it?",
-        "pt-BR": "[Gwiseol]\nOra, não.\nEste assunto já deve ter chegado aos ouvidos daquele sujeito, então ele não cuidará disso?",
-        "es-ES": "[Gwiseol]\nBueno, no.\nEste asunto ya habrá llegado a oídos de ese tipo, así que él se encargará, ¿no?"
+        "en-US": "[Gwisul]\nNo, well.\nThis matter must have already reached that fellow's ears by now, so won't that fellow handle it?",
+        "pt-BR": "[Gwisul]\nOra, não.\nEste assunto já deve ter chegado aos ouvidos daquele sujeito, então ele não cuidará disso?",
+        "es-ES": "[Gwisul]\nBueno, no.\nEste asunto ya habrá llegado a oídos de ese tipo, así que él se encargará, ¿no?"
     },
     "R95TDQ": {
-        "en-US": "[Gwiseol]\nWatching that should be rather fun.\nHehehe.",
-        "pt-BR": "[Gwiseol]\nAssistir a isso deve ser um pouco divertido.\nHihihi.",
-        "es-ES": "[Gwiseol]\nVer eso sí que puede ser divertido.\nJe, je, je."
+        "en-US": "[Gwisul]\nWatching that should be rather fun.\nHehehe.",
+        "pt-BR": "[Gwisul]\nAssistir a isso deve ser um tanto divertido.\nHihihi.",
+        "es-ES": "[Gwisul]\nVer eso sí que puede ser divertido.\nJe, je, je."
     },
     "SN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Gasp!</FONT>\n<FONT SIZE = 14>That's right!</FONT>\n<FONT SIZE = 14>This is terrible!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Ahh!</FONT>\n<FONT SIZE = 14>É verdade!</FONT>\n<FONT SIZE = 14>Isso é grave!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Uf!</FONT>\n<FONT SIZE = 14>¡Es verdad!</FONT>\n<FONT SIZE = 14>¡Esto es terrible!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Gasp!</FONT>\n<FONT SIZE = 14>That's right!</FONT>\n<FONT SIZE = 14>This is terrible!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Ahh!</FONT>\n<FONT SIZE = 14>É verdade!</FONT>\n<FONT SIZE = 14>Isso é grave!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Uf!</FONT>\n<FONT SIZE = 14>¡Es verdad!</FONT>\n<FONT SIZE = 14>¡Esto es terrible!</FONT>"
     },
     "Sd5TDQ": {
         "en-US": "It's a disaster!!!",
@@ -1010,19 +1010,19 @@
         "es-ES": "¡¡Se va a armar una buena!!"
     },
     "St5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>If Geunseok finds out that they not only dug up the forest to make something strange, but also fed our friends strange medicine, it will be a real disaster!!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Se Geunseok descobrir que, além de revirarem a floresta para criar algo estranho, ainda deram um remédio estranho aos amigos, vai ser um problemão de verdade!!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Si Geunseok se entera de que, además de remover el bosque para construir algo raro, les han dado una medicina extraña a mis amigos, ¡esto sí que será un gran problema!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>If Geunseok finds out that they not only dug up the forest to make something strange, but also fed our friends strange medicine, it will be a real disaster!!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Se Geunseok descobrir que, além de revirarem a floresta para criar algo estranho, ainda deram um remédio estranho aos amigos, vai ser um problemão de verdade!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Si Geunseok se entera de que, además de remover el bosque para construir algo raro, les han dado una medicina extraña a mis amigos, ¡esto sí que será un gran problema!</FONT>"
     },
     "S95TDQ": {
         "en-US": "If we don't hurry and stop him, everything will be smashed!",
-        "pt-BR": "Se não formos rápido impedi-lo, ele vai destruir tudo!",
+        "pt-BR": "Se não formos rápidos para impedi-lo, ele vai destruir tudo!",
         "es-ES": "¡Si no vamos rápido a detenerlo, lo hará todo pedazos!"
     },
     "TN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 16>Let's hurry!</FONT>\n<FONT SIZE = 16>Hurry!!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 16>Vamos logo!</FONT>\n<FONT SIZE = 16>Depressa!!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 16>¡Vamos rápido!</FONT>\n<FONT SIZE = 16>¡¡Rápido!!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 16>Let's hurry!</FONT>\n<FONT SIZE = 16>Hurry!!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 16>Vamos logo!</FONT>\n<FONT SIZE = 16>Depressa!!!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 16>¡Vamos rápido!</FONT>\n<FONT SIZE = 16>¡¡Rápido!!</FONT>"
     },
     "Td5TDQ": {
         "en-US": "- It looks like food is piled up here.\nWho would do such a thing in a place like this??? -",
@@ -1035,14 +1035,14 @@
         "es-ES": "- Parece que hay comida amontonada.\nAcércate para comprobarlo. -"
     },
     "T95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14><B>Gasp!</B></FONT>\n<FONT SIZE = 14><B>That's right!</B></FONT>\n<FONT SIZE = 16><B>This is terrible!</B></FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14><B>Ahh!</B></FONT>\n<FONT SIZE = 14><B>É verdade!</B></FONT>\n<FONT SIZE = 16><B>Isso é grave!</B></FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14><B>¡Uf!</B></FONT>\n<FONT SIZE = 14><B>¡Es verdad!</B></FONT>\n<FONT SIZE = 16><B>¡Esto es terrible!</B></FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14><B>Gasp!</B></FONT>\n<FONT SIZE = 14><B>That's right!</B></FONT>\n<FONT SIZE = 16><B>This is terrible!</B></FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14><B>Ahh!</B></FONT>\n<FONT SIZE = 14><B>É verdade!</B></FONT>\n<FONT SIZE = 16><B>Isso é grave!</B></FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14><B>¡Uf!</B></FONT>\n<FONT SIZE = 14><B>¡Es verdad!</B></FONT>\n<FONT SIZE = 16><B>¡Esto es terrible!</B></FONT>"
     },
     "UN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>If that fellow finds out that they not only dug up the forest to make something strange, but also fed our friends strange medicine, it will be a real disaster!!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Se aquele sujeito descobrir que, além de revirarem a floresta para criar algo estranho, ainda deram um remédio estranho aos amigos, vai ser um problemão de verdade!!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Si ese tipo se entera de que, además de remover el bosque para construir algo raro, les han dado una medicina extraña a mis amigos, ¡esto sí que será un gran problema!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>If that fellow finds out that they not only dug up the forest to make something strange, but also fed our friends strange medicine, it will be a real disaster!!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Se aquele sujeito descobrir que, além de revirarem a floresta para criar algo estranho, ainda deram um remédio estranho aos amigos, vai ser um problemão de verdade!!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Si ese tipo se entera de que, además de remover el bosque para construir algo raro, les han dado una medicina extraña a mis amigos, ¡esto sí que será un gran problema!</FONT>"
     },
     "Ud5TDQ": {
         "en-US": "Suspicious Ripple",
@@ -1071,28 +1071,28 @@
     },
     "Vt5TDQ": {
         "en-US": "^00B7EE※ This event takes place in a Memorial Dungeon.^000000\n^00B7EEThe Deep Forest can only be entered by a one-person party (party leader).^000000",
-        "pt-BR": "^00B7EE※ Este evento ocorre em modo Memorial.^000000\n^00B7EEA Floresta Profunda só pode ser realizada em um grupo de 1 pessoa (líder do grupo).^000000",
+        "pt-BR": "^00B7EE※ Este evento ocorre em modo instanciado.^000000\n^00B7EEA Floresta Profunda só pode ser realizada em um grupo de 1 pessoa (líder do grupo).^000000",
         "es-ES": "^00B7EE※ Este evento se desarrolla como memorial.^000000\n^00B7EEEl Bosque profundo solo puede realizarse en un grupo de 1 persona (líder del grupo).^000000"
     },
     "V95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Oh dear!</FONT>\n<FONT SIZE = 14>What is this ominous mood?</FONT>\n<FONT SIZE = 14>As expected, Hyeonrok seems to have noticed!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Ai, ai!</FONT>\n<FONT SIZE = 14>Que atmosfera sinistra é esta!</FONT>\n<FONT SIZE = 14>Parece que Hyeonrok percebeu mesmo!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Ay!</FONT>\n<FONT SIZE = 14>¡Qué ambiente tan siniestro!</FONT>\n<FONT SIZE = 14>¡Parece que Hyeonrok se ha dado cuenta!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Oh dear!</FONT>\n<FONT SIZE = 14>What is this ominous mood?</FONT>\n<FONT SIZE = 14>As expected, Hyunrok seems to have noticed!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Ai, ai!</FONT>\n<FONT SIZE = 14>Que atmosfera sinistra é esta!</FONT>\n<FONT SIZE = 14>Parece que Hyunrok percebeu mesmo!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Ay!</FONT>\n<FONT SIZE = 14>¡Qué ambiente tan siniestro!</FONT>\n<FONT SIZE = 14>¡Parece que Hyunrok se ha dado cuenta!</FONT>"
     },
     "WN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>At this rate, isn't something truly terrible going to happen?</FONT>\n<FONT SIZE = 14>Let's go in quickly and try to stop Hyeonrok.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Desse jeito, algo realmente terrível pode acontecer!</FONT>\n<FONT SIZE = 14>Vamos entrar logo e tentar deter Hyeonrok.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡A este paso sí que va a pasar algo terrible!</FONT>\n<FONT SIZE = 14>Entremos rápido e intentemos detener a Hyeonrok.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>At this rate, isn't something truly terrible going to happen?</FONT>\n<FONT SIZE = 14>Let's go in quickly and try to stop Hyunrok.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Desse jeito, algo realmente terrível pode acontecer!</FONT>\n<FONT SIZE = 14>Vamos entrar logo e tentar deter Hyunrok.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡A este paso sí que va a pasar algo terrible!</FONT>\n<FONT SIZE = 14>Entremos rápido e intentemos detener a Hyunrok.</FONT>"
     },
     "Wd5TDQ": {
-        "en-US": "When Hyeonrok gets angry, it's terrifying!",
-        "pt-BR": "Quando Hyeonrok fica bravo, é muito assustador!",
-        "es-ES": "¡Cuando Hyeonrok se enfada, da muchísimo miedo!"
+        "en-US": "When Hyunrok gets angry, it's terrifying!",
+        "pt-BR": "Quando Hyunrok fica bravo, é muito assustador!",
+        "es-ES": "¡Cuando Hyunrok se enfada, da muchísimo miedo!"
     },
     "Wt5TDQ": {
-        "en-US": "- You see a suspicious ripple where Cheolho disappeared. -",
-        "pt-BR": "- Há uma ondulação suspeita no local onde Cheolho desapareceu. -",
-        "es-ES": "- Ves una ondulación sospechosa donde desapareció Cheolho. -"
+        "en-US": "- You see a suspicious ripple where Cheol-ho disappeared. -",
+        "pt-BR": "- Há uma ondulação suspeita no local onde Cheol-ho desapareceu. -",
+        "es-ES": "- Ves una ondulación sospechosa donde desapareció Cheol-ho. -"
     },
     "W95TDQ": {
         "en-US": "Open the door.",
@@ -1121,7 +1121,7 @@
     },
     "YN5TDQ": {
         "en-US": "- The ripple looks unstable.\nPlease try again in a moment. -\n^00B7EE※ This event takes place in a Memorial Dungeon.^000000\n^00B7EEThe Deep Forest can only be entered by a one-person party (party leader).^000000",
-        "pt-BR": "- A ondulação parece instável.\nTente novamente em instantes. -\n^00B7EE※ Este evento ocorre em modo Memorial.^000000\n^00B7EEA Floresta Profunda só pode ser realizada em um grupo de 1 pessoa (líder do grupo).^000000",
+        "pt-BR": "- A ondulação parece instável.\nTente novamente em instantes. -\n^00B7EE※ Este evento ocorre em modo instanciado.^000000\n^00B7EEA Floresta Profunda só pode ser realizada em um grupo de 1 pessoa (líder do grupo).^000000",
         "es-ES": "- La ondulación parece inestable.\nInténtalo de nuevo dentro de un momento. -\n^00B7EE※ Este evento se desarrolla como memorial.^000000\n^00B7EEEl Bosque profundo solo puede realizarse en un grupo de 1 persona (líder del grupo).^000000"
     },
     "Yd5TDQ": {
@@ -1130,14 +1130,14 @@
         "es-ES": "{1}, del grupo {0}, entra en {2}"
     },
     "Yt5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>I was waiting!</FONT>\n<FONT SIZE = 14>It may be hard to come play in the Deep Forest now, but now that I think about it, I can just come out to play!</FONT>\n<FONT SIZE = 14>Hyeonrok probably won't come out, though!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Eu estava esperando!</FONT>\n<FONT SIZE = 14>Agora vai ser difícil vir brincar na Floresta Profunda, mas pensando bem, basta eu sair para brincar!</FONT>\n<FONT SIZE = 14>Embora Hyeonrok não queira sair!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Te estaba esperando!</FONT>\n<FONT SIZE = 14>Ahora será difícil venir a jugar al bosque profundo, pero pensándolo bien, ¡puedo salir yo a jugar!</FONT>\n<FONT SIZE = 14>¡Aunque Hyeonrok no querrá salir!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>I was waiting!</FONT>\n<FONT SIZE = 14>It may be hard to come play in the Deep Forest now, but now that I think about it, I can just come out to play!</FONT>\n<FONT SIZE = 14>Hyunrok probably won't come out, though!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Eu estava esperando!</FONT>\n<FONT SIZE = 14>Agora vai ser difícil vir brincar na Floresta Profunda, mas pensando bem, basta eu sair para brincar!</FONT>\n<FONT SIZE = 14>Embora Hyunrok não queira sair!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Te estaba esperando!</FONT>\n<FONT SIZE = 14>Ahora será difícil venir a jugar al bosque profundo, pero pensándolo bien, ¡puedo salir yo a jugar!</FONT>\n<FONT SIZE = 14>¡Aunque Hyunrok no querrá salir!</FONT>"
     },
     "Y95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Oh, right! And this is a letter from Hyeonrok!</FONT>\n<FONT SIZE = 14>Hurry and read it!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Ah, e esta é uma carta que Hyeonrok deu!</FONT>\n<FONT SIZE = 14>Leia logo!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Ah, y esta es una carta que te dio Hyeonrok.</FONT>\n<FONT SIZE = 14>Léela deprisa.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Oh, right! And this is a letter from Hyunrok!</FONT>\n<FONT SIZE = 14>Hurry and read it!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Ah, e esta é uma carta que Hyunrok deu!</FONT>\n<FONT SIZE = 14>Leia logo!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Ah, y esta es una carta que te dio Hyunrok.</FONT>\n<FONT SIZE = 14>Léela deprisa.</FONT>"
     },
     "ZN5TDQ": {
         "en-US": "Read the letter.",
@@ -1150,59 +1150,59 @@
         "es-ES": "- No puedes abrir la carta. -"
     },
     "Zt5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>You must train more before you can open the letter!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Para abrir a carta, você precisa treinar mais!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Para abrir la carta tienes que entrenar más!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>You must train more before you can open the letter!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Para abrir a carta, você precisa treinar mais!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Para abrir la carta tienes que entrenar más!</FONT>"
     },
     "Z95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Before reading the letter, go take care of all your ^DD5555skill points^000000.</FONT>\n<FONT SIZE = 14>I don't know why either!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Antes de ler a carta, vá resolver todos os seus ^DD5555pontos de habilidade^000000.</FONT>\n<FONT SIZE = 14>Eu também não sei por quê!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Antes de leer la carta, ve a gastar todos tus ^DD5555puntos de habilidad^000000.</FONT>\n<FONT SIZE = 14>¡Yo tampoco sé por qué!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Before reading the letter, go take care of all your ^DD5555skill points^000000.</FONT>\n<FONT SIZE = 14>I don't know why either!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Antes de ler a carta, vá resolver todos os seus ^DD5555pontos de habilidade^000000.</FONT>\n<FONT SIZE = 14>Eu também não sei por quê!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Antes de leer la carta, ve a gastar todos tus ^DD5555puntos de habilidad^000000.</FONT>\n<FONT SIZE = 14>¡Yo tampoco sé por qué!</FONT>"
     },
     "aN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Oh dear!</FONT>\n<FONT SIZE = 14>It's too high, so my arms can't reach!</FONT>\n<FONT SIZE = 14>Come down!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Ai, ai!</FONT>\n<FONT SIZE = 14>Está alto demais, meus braços não alcançam!</FONT>\n<FONT SIZE = 14>Desça!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Ay!</FONT>\n<FONT SIZE = 14>¡Estás demasiado alto y no te alcanzo con los brazos!</FONT>\n<FONT SIZE = 14>¡Baja!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Oh dear!</FONT>\n<FONT SIZE = 14>It's too high, so my arms can't reach!</FONT>\n<FONT SIZE = 14>Come down!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Ai, ai!</FONT>\n<FONT SIZE = 14>Está alto demais, meus braços não alcançam!</FONT>\n<FONT SIZE = 14>Desça!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Ay!</FONT>\n<FONT SIZE = 14>¡Estás demasiado alto y no te alcanzo con los brazos!</FONT>\n<FONT SIZE = 14>¡Baja!</FONT>"
     },
     "ad5TDQ": {
-        "en-US": "[Hyeonrok's Letter]\nTo {0},",
-        "pt-BR": "[Carta de Hyeonrok]\nPara {0}",
-        "es-ES": "[Carta de Hyeonrok]\nPara {0}"
+        "en-US": "[Hyunrok's Letter]\nTo {0},",
+        "pt-BR": "[Carta de Hyunrok]\nPara {0}",
+        "es-ES": "[Carta de Hyunrok]\nPara {0}"
     },
     "at5TDQ": {
-        "en-US": "[Hyeonrok's Letter]\nThey say even brushing sleeves is fate…\nSurely your entering this forest, and our meeting one another, were all bonds ordained by the heavens.",
-        "pt-BR": "[Carta de Hyeonrok]\nDizem que até um simples roçar de mangas cria um vínculo…\nO fato de você ter entrado nesta floresta e de termos nos encontrado certamente também foi um vínculo determinado pelos céus.",
-        "es-ES": "[Carta de Hyeonrok]\nDicen que incluso el más leve roce de mangas es fruto del destino…\nQue hayas entrado en este bosque y que nos hayamos conocido debe de ser también un vínculo dispuesto por los cielos."
+        "en-US": "[Hyunrok's Letter]\nThey say even brushing sleeves is fate...\nSurely your entering this forest, and our meeting one another, were all bonds ordained by the heavens.",
+        "pt-BR": "[Carta de Hyunrok]\nDizem que até um simples roçar de mangas cria um vínculo…\nO fato de você ter entrado nesta floresta e de termos nos encontrado certamente também foi um vínculo determinado pelos céus.",
+        "es-ES": "[Carta de Hyunrok]\nDicen que incluso el más leve roce de mangas es fruto del destino…\nQue hayas entrado en este bosque y que nos hayamos conocido debe de ser también un vínculo dispuesto por los cielos."
     },
     "a95TDQ": {
-        "en-US": "[Hyeonrok's Letter]\nEven though I failed to recognize that bond properly and committed discourtesy while my mind was clouded by what was before me, I will never forget the grace you showed by helping us in our hour of danger.",
-        "pt-BR": "[Carta de Hyeonrok]\nMesmo sem enxergar devidamente esse vínculo e tendo cometido uma grosseria por me deixar turvar pelo que estava diante dos olhos, jamais esquecerei a graça de ter ajudado nós que estávamos em perigo.",
-        "es-ES": "[Carta de Hyeonrok]\nAunque no supe ver ese vínculo correctamente y, nublado por lo que tenía ante mis ojos, me comporté con descortesía, jamás olvidaré la gracia de que nos ayudaras cuando estábamos en peligro."
+        "en-US": "[Hyunrok's Letter]\nEven though I failed to recognize that bond properly and committed discourtesy while my mind was clouded by what was before me, I will never forget the grace you showed by helping us in our hour of danger.",
+        "pt-BR": "[Carta de Hyunrok]\nMesmo sem enxergar devidamente esse vínculo e tendo cometido uma grosseria por me deixar turvar pelo que estava diante dos olhos, jamais esquecerei a graça de ter ajudado a nós quando estávamos em perigo.",
+        "es-ES": "[Carta de Hyunrok]\nAunque no supe ver ese vínculo correctamente y, nublado por lo que tenía ante mis ojos, me comporté con descortesía, jamás olvidaré la gracia de que nos ayudaras cuando estábamos en peligro."
     },
     "bN5TDQ": {
-        "en-US": "[Hyeonrok's Letter]\nAs Cheolho suggested, I wished to hold a feast to repay you, but remaining in this Deep Forest for long is dangerous for those from outside the forest. It weighs heavily on my heart that I had to send you back in haste without even offering proper thanks.",
-        "pt-BR": "[Carta de Hyeonrok]\nComo disse Cheolho, eu queria recompensar você dando um banquete, mas permanecer por muito tempo nesta floresta profunda é perigoso para quem vem de fora da floresta, por isso me pesa no coração ter enviado você de volta às pressas, sem poder agradecer devidamente.",
-        "es-ES": "[Carta de Hyeonrok]\nComo dijo Cheolho, quería agradecerlo celebrando incluso un banquete, pero permanecer mucho tiempo en este bosque profundo es peligroso para quienes vienen de fuera, por lo que me pesa en el corazón haberte enviado de vuelta con tanta prisa, sin poder despedirme como es debido."
+        "en-US": "[Hyunrok's Letter]\nAs Cheol-ho suggested, I wished to hold a feast to repay you, but remaining in this Deep Forest for long is dangerous for those from outside the forest. It weighs heavily on my heart that I had to send you back in haste without even offering proper thanks.",
+        "pt-BR": "[Carta de Hyunrok]\nComo disse Cheol-ho, eu gostaria de oferecer um banquete para recompensar você, mas permanecer por muito tempo nesta floresta profunda é perigoso para quem vem de fora, por isso me pesa o coração ter enviado você de volta às pressas, sem poder agradecer devidamente.",
+        "es-ES": "[Carta de Hyunrok]\nComo dijo Cheol-ho, quería agradecerlo celebrando incluso un banquete, pero permanecer mucho tiempo en este bosque profundo es peligroso para quienes vienen de fuera, por lo que me pesa en el corazón haberte enviado de vuelta con tanta prisa, sin poder despedirme como es debido."
     },
     "bd5TDQ": {
-        "en-US": "[Hyeonrok's Letter]\nI believe you will understand, as it was done for your sake.",
-        "pt-BR": "[Carta de Hyeonrok]\nFiz isso por você, então acredito que compreenderá.",
-        "es-ES": "[Carta de Hyeonrok]\nLo hice por tu bien, así que confío en que lo entenderás."
+        "en-US": "[Hyunrok's Letter]\nI believe you will understand, as it was done for your sake.",
+        "pt-BR": "[Carta de Hyunrok]\nFiz isso por você, então acredito que compreenderá.",
+        "es-ES": "[Carta de Hyunrok]\nLo hice por tu bien, así que confío en que lo entenderás."
     },
     "bt5TDQ": {
-        "en-US": "[Hyeonrok's Letter]\nAnd though it is little enough to call repayment for your help, I have engraved it upon your soul so you may call upon our strength whenever you need aid.",
-        "pt-BR": "[Carta de Hyeonrok]\nE, embora seja pouco para chamar de recompensa pela ajuda, gravei em sua alma a possibilidade de invocar nosso poder sempre que precisar de ajuda.",
-        "es-ES": "[Carta de Hyeonrok]\nAdemás, aunque es poco para llamarlo recompensa por tu ayuda, lo he grabado en tu alma para que puedas invocar nuestra fuerza siempre que la necesites."
+        "en-US": "[Hyunrok's Letter]\nAnd though it is little enough to call repayment for your help, I have engraved it upon your soul so you may call upon our strength whenever you need aid.",
+        "pt-BR": "[Carta de Hyunrok]\nE, embora seja pouco para chamar de recompensa pela ajuda, gravei em sua alma a possibilidade de invocar nosso poder sempre que precisar de ajuda.",
+        "es-ES": "[Carta de Hyunrok]\nAdemás, aunque es poco para llamarlo recompensa por tu ayuda, lo he grabado en tu alma para que puedas invocar nuestra fuerza siempre que la necesites."
     },
     "b95TDQ": {
-        "en-US": "[Hyeonrok's Letter]\nUntil the day we meet again, farewell…",
-        "pt-BR": "[Carta de Hyeonrok]\nEntão, na esperança de nos encontrarmos novamente algum dia, despeço-me…",
-        "es-ES": "[Carta de Hyeonrok]\nEntonces, esperando el día en que volvamos a encontrarnos, me despido…"
+        "en-US": "[Hyunrok's Letter]\nUntil the day we meet again, farewell...",
+        "pt-BR": "[Carta de Hyunrok]\nEntão, na esperança de nos encontrarmos novamente algum dia, despeço-me…",
+        "es-ES": "[Carta de Hyunrok]\nEntonces, esperando el día en que volvamos a encontrarnos, me despido…"
     },
     "cN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Have you finished reading the letter?</FONT>\n<FONT SIZE = 14>What did it say?</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Já leu toda a carta?</FONT>\n<FONT SIZE = 14>O que estava escrito?</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¿Has leído ya toda la carta?</FONT>\n<FONT SIZE = 14>¿Qué decía?</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Have you finished reading the letter?</FONT>\n<FONT SIZE = 14>What did it say?</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Já leu toda a carta?</FONT>\n<FONT SIZE = 14>O que estava escrito?</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¿Has leído ya toda la carta?</FONT>\n<FONT SIZE = 14>¿Qué decía?</FONT>"
     },
     "cd5TDQ": {
         "en-US": "Show the letter.",
@@ -1210,35 +1210,43 @@
         "es-ES": "Mostrarle la carta."
     },
     "ct5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Hyeonrok always says things that are hard to understand!</FONT>\n<FONT SIZE = 14>And take this too!</FONT>\n<FONT SIZE = 14>I was saving it because it's an interesting item, but I'll give it to you!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Hyeonrok sempre diz coisas difíceis de entender!</FONT>\n<FONT SIZE = 14>E leve isto também!</FONT>\n<FONT SIZE = 14>É um objeto interessante, então eu o guardei com cuidado, mas vou dá-lo a você!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Hyeonrok siempre dice cosas difíciles de entender!</FONT>\n<FONT SIZE = 14>¡Y llévate esto también!</FONT>\n<FONT SIZE = 14>Lo tenía guardado porque era un objeto divertido, pero te lo daré.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Hyunrok always says things that are hard to understand!</FONT>\n<FONT SIZE = 14>And take this too!</FONT>\n<FONT SIZE = 14>I was saving it because it's an interesting item, but I'll give it to you!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Hyunrok sempre diz coisas difíceis de entender!</FONT>\n<FONT SIZE = 14>E leve isto também!</FONT>\n<FONT SIZE = 14>É um objeto interessante, então eu o guardei com cuidado, mas vou dá-lo a você!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Hyunrok siempre dice cosas difíciles de entender!</FONT>\n<FONT SIZE = 14>¡Y llévate esto también!</FONT>\n<FONT SIZE = 14>Lo tenía guardado porque era un objeto divertido, pero te lo daré.</FONT>"
     },
     "c95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>Huh? That's strange?!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Hã? Que estranho?!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¿Eh? ¡Qué raro!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Huh? That's strange?!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Hã? Que estranho?!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¿Eh? ¡Qué raro!</FONT>"
     },
     "dN5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>You're not going to read it?</FONT>\n<FONT SIZE = 14>Then I'll keep the letter, so tell me if you feel like reading it.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Não vai ler?</FONT>\n<FONT SIZE = 14>Então vou ficar com a carta, e se tiver vontade de lê-la, fale comigo.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¿No vas a leerla?</FONT>\n<FONT SIZE = 14>Entonces guardaré yo la carta, así que dímelo si te entran ganas de leerla.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>You're not going to read it?</FONT>\n<FONT SIZE = 14>Then I'll keep the letter, so tell me if you feel like reading it.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Não vai ler?</FONT>\n<FONT SIZE = 14>Então vou ficar com a carta, e se tiver vontade de lê-la, fale comigo.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¿No vas a leerla?</FONT>\n<FONT SIZE = 14>Entonces guardaré yo la carta, así que dímelo si te entran ganas de leerla.</FONT>"
     },
     "dd5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>I'd like to give it to you, but the letter Hyeonrok gave me disappears if it gets too far from the forest.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Eu gostaria de dar a você, mas a carta que Hyeonrok deu desaparece quando se afasta da floresta.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Me gustaría dártela, pero la carta que entregó Hyeonrok desaparece al alejarse del bosque.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>I'd like to give it to you, but the letter Hyunrok gave me disappears if it gets too far from the forest.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Eu gostaria de dar a você, mas a carta que Hyunrok deu desaparece quando se afasta da floresta.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Me gustaría dártela, pero la carta que entregó Hyunrok desaparece al alejarse del bosque.</FONT>"
     },
     "dt5TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>We meet again.</FONT>\n<FONT SIZE = 14>I was just on my way out to play.</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Nos vemos de novo.</FONT>\n<FONT SIZE = 14>Eu estava justamente indo brincar.</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>Nos vemos otra vez.</FONT>\n<FONT SIZE = 14>Justo iba de camino a jugar.</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>We meet again.</FONT>\n<FONT SIZE = 14>I was just on my way out to play.</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Nos vemos de novo.</FONT>\n<FONT SIZE = 14>Eu estava justamente indo brincar.</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Nos vemos otra vez.</FONT>\n<FONT SIZE = 14>Justo iba de camino a jugar.</FONT>"
     },
     "d95TDQ": {
-        "en-US": "[Cheolho]\n<FONT SIZE = 14>There are so many fun things outside the forest!</FONT>\n<FONT SIZE = 14>Of course, the forest is fun too!</FONT>",
-        "pt-BR": "[Cheolho]\n<FONT SIZE = 14>Há muitas coisas realmente divertidas fora da floresta!</FONT>\n<FONT SIZE = 14>Claro, a floresta também é divertida!</FONT>",
-        "es-ES": "[Cheolho]\n<FONT SIZE = 14>¡Fuera del bosque hay un montón de cosas divertidas!</FONT>\n<FONT SIZE = 14>¡Por supuesto, el bosque también es divertido!</FONT>"
+        "en-US": "[Cheol-ho]\n<FONT SIZE = 14>There are so many fun things outside the forest!</FONT>\n<FONT SIZE = 14>Of course, the forest is fun too!</FONT>",
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Há muitas coisas realmente divertidas fora da floresta!</FONT>\n<FONT SIZE = 14>Claro, a floresta também é divertida!</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Fuera del bosque hay un montón de cosas divertidas!</FONT>\n<FONT SIZE = 14>¡Por supuesto, el bosque también es divertido!</FONT>"
     },
-    "eN5TDQ": {},
-    "ed5TDQ": {}
+    "eN5TDQ": {
+        "en-US": "Party Name: {0}\nParty Leader: {1}\n^0000FF{2} ^000000- Reservation Failed",
+        "pt-BR": "Nome do grupo:{0}\nLíder do grupo:{1}\n^0000FF{2} ^000000- Falha na reserva",
+        "es-ES": "Nombre del grupo:{0}\nLíder del grupo:{1}\n^0000FF{2} ^000000- Reserva fallida"
+    },
+    "ed5TDQ": {
+        "en-US": "{1} of the party {0} is entering {2}.",
+        "pt-BR": "{1} do grupo {0} entra em {2}",
+        "es-ES": "{1}, del grupo {0}, entra en {2}"
+    }
 }

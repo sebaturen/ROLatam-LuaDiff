@@ -1934,7 +1934,9 @@ TB_Layer_Priority = {
 		[ACCESSORY_IDs.ACCESSORY_C_Miriam_Hair] = {
 			Default = 143,
 			Direction = {}
-		}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Cynic_Guard] = {isHelmRobe = true},
+		[ACCESSORY_IDs.ACCESSORY_C_Joyful_Taogunka] = {isHelmRobe = true}
 	},
 	IsIgnoredRidingState = function(acc_id)
 		local Items_List = TB_Layer_Priority.Items_List

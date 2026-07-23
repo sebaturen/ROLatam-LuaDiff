@@ -1,0 +1,37 @@
+{
+    "AI5BDQ": {
+        "en-US": "[Trap Manager]\nFloor 75 Expansion - Reduced to 8% per level from 0-5, max 48%, Phase 2 96%",
+        "pt-BR": "[Administrador de Armadilhas]\nExpansão do 75º andar - reduzido para 8% por nível de 0 a 5, máximo 48%, fase 2 96%",
+        "es-ES": "[Administrador de trampas]\nAmpliación planta 75 - reducido a 8% por nivel 0~5, máx. 48%, fase 2 96%"
+    },
+    "AY5BDQ": {
+        "en-US": "Level 0-1",
+        "pt-BR": "Nível 0~1",
+        "es-ES": "Nivel 0~1"
+    },
+    "Ao5BDQ": {
+        "en-US": "Level 2",
+        "pt-BR": "Nível 2",
+        "es-ES": "Nivel 2"
+    },
+    "A45BDQ": {
+        "en-US": "Level 3~",
+        "pt-BR": "Nível 3~",
+        "es-ES": "Nivel 3~"
+    },
+    "BI5BDQ": {
+        "en-US": "Start",
+        "pt-BR": "Início",
+        "es-ES": "Inicio"
+    },
+    "BY5BDQ": {
+        "en-US": "Start2",
+        "pt-BR": "Início 2",
+        "es-ES": "Inicio2"
+    },
+    "Bo5BDQ": {
+        "en-US": "Reset",
+        "pt-BR": "Reset",
+        "es-ES": "Reinicio"
+    }
+}

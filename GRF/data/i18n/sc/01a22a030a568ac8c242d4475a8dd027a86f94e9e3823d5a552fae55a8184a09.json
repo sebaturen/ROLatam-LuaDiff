@@ -137,7 +137,7 @@
     "GxPcAQ": {
         "en-US": "[Spell Book Manager Velof]\n...Hm, I'm talking in circles. I'm sorry. Anyway, with Reading Spell Book, you can use a spell book to cast the spells you already know. It's more convenient than manual casting. Works differently, too.",
         "pt-BR": "[Mestre Velofos]\n...Ah, você só poderá usar Grimórios de habilidades que você aprendeu.",
-        "es-ES": "[Velof, administrador del Libro de hechizos]\n…Mmm, me estoy enredando. Lo siento. En fin, con Leer libro de hechizos, puedes usar un Libro de hechizos para lanzar los hechizos que ya conoces. Es más cómodo que el lanzamiento manual. También funciona de forma diferente."
+        "es-ES": "[Velof, administrador del Libro de hechizos]\n...Mmm, me estoy enredando. Lo siento. En fin, con Leer libro de hechizos, puedes usar un Libro de hechizos para lanzar los hechizos que ya conoces. Es más cómodo que el lanzamiento manual. También funciona de forma diferente."
     },
     "HBPcAQ": {
         "en-US": "How different?",
@@ -162,7 +162,7 @@
     "IBPcAQ": {
         "en-US": "[Spell Book Manager Velof]\nIf you can release magic, you can also bind magic. We'll get back to that later. For now...",
         "pt-BR": "[Mestre Velofos]\nVocê pode memorizar um feitiço que você já conhece próximo a você e lançá-lo imediatamente, sem conjuração, certo?",
-        "es-ES": "[Velof, administrador del Libro de hechizos]\nSi puedes liberar magia, también puedes ligar magia. Volveremos a ello más adelante. Por ahora…"
+        "es-ES": "[Velof, administrador del Libro de hechizos]\nSi puedes liberar magia, también puedes ligar magia. Volveremos a ello más adelante. Por ahora..."
     },
     "IRPcAQ": {
         "en-US": "[Spell Book Manager Velof]\nYou already know how to make your spells readily available and cast them at once through Release.",
@@ -267,7 +267,7 @@
     "NRPcAQ": {
         "en-US": "[Spell Book Manager Velof]\nMm... Unfortunately, I don't have any good spell book that matches your level. I do have a few basic ones. Would you like them?",
         "pt-BR": "[Mestre Velofos]\nHum... Infelizmente, não tenho Grimório Avançado comigo. Atualmente, tudo que tenho são alguns Grimórios Iniciantes... Você se importaria de levá-los?",
-        "es-ES": "[Velof, administrador del Libro de hechizos]\nMm… Por desgracia, no tengo ningún buen Libro de hechizos que sea para tu nivel. Tengo algunos básicos. ¿Los quieres?"
+        "es-ES": "[Velof, administrador del Libro de hechizos]\nMm... Por desgracia, no tengo ningún buen Libro de hechizos que sea para tu nivel. Tengo algunos básicos. ¿Los quieres?"
     },
     "NhPcAQ": {
         "en-US": "Yes, please.",
@@ -332,7 +332,7 @@
     "QhPcAQ": {
         "en-US": "[Spell Book Manager Velof]\nMm... I'm a bit busy right now. Could you ask someone else?",
         "pt-BR": "[Mestre Velofos]\nHum... estou ocupado agora, então por que você não pergunta a outra pessoa?",
-        "es-ES": "[Velof, administrador del Libro de hechizos]\nMm… Ahora estoy un poco ocupado. ¿Podrías preguntarle a otra persona?"
+        "es-ES": "[Velof, administrador del Libro de hechizos]\nMm... Ahora estoy un poco ocupado. ¿Podrías preguntarle a otra persona?"
     },
     "QxPcAQ": {
         "en-US": "[Spell Book Manager Velof]\nMm? Are you looking for the ultimate spellbooks? Who sent you?",
@@ -352,7 +352,7 @@
     "RhPcAQ": {
         "en-US": "[Spell Book Manager Velof]\nOnce, a few scholars on the Midgard Continent gathered information about ancient magic books and studied it together, but...",
         "pt-BR": "[Mestre Velofos]\nAlguns estudiosos do continente de Midgard coletaram materiais relacionados a Grimórios antigos e conduziram pesquisas...",
-        "es-ES": "[Velof, administrador del Libro de hechizos]\nUna vez, unos cuantos eruditos del continente de Midgard reunieron información sobre los Libros de magia antigua y la estudiaron juntos, pero…"
+        "es-ES": "[Velof, administrador del Libro de hechizos]\nUna vez, unos cuantos eruditos del continente de Midgard reunieron información sobre los Libros de magia antigua y la estudiaron juntos, pero..."
     },
     "RxPcAQ": {
         "en-US": "(Come on, old geezer! Get to the point!)",
@@ -557,12 +557,12 @@
     "bxPcAQ": {
         "en-US": "[Lea]\nTh-the ultimate spellbook?",
         "pt-BR": "[Lea]\nEita... você quer Grimórios Avançados?",
-        "es-ES": "[Lea]\n¿El…? ¿El Libro de hechizos definitivo?"
+        "es-ES": "[Lea]\n¿El...? ¿El Libro de hechizos definitivo?"
     },
     "cBPcAQ": {
         "en-US": "[Lea]\nAah...\nI never thought anyone would really ask for such book one day.",
         "pt-BR": "[Lea]\nHaa~\nNunca pensei que teria alguém procurando por algo assim.",
-        "es-ES": "[Lea]\nAah…\nNunca pensé que algún día en verdad alguien me pediría semejante libro."
+        "es-ES": "[Lea]\nAah...\nNunca pensé que algún día en verdad alguien me pediría semejante libro."
     },
     "cRPcAQ": {
         "en-US": "You do have it, don't you?",
@@ -587,7 +587,7 @@
     "dRPcAQ": {
         "en-US": "[Lea]\nMm... But first, why don't you train for a little longer?",
         "pt-BR": "[Lea]\nHmm... que tal treinar um pouco mais antes disso?",
-        "es-ES": "[Lea]\nMm… Pero primero, ¿por qué no entrenas un poco más?"
+        "es-ES": "[Lea]\nMm... Pero primero, ¿por qué no entrenas un poco más?"
     },
     "dhPcAQ": {
         "en-US": "[Lea]\nTo get an ultimate spellbook, you must be at least Level 140 and learn Tetra Vortex or Comet.",
@@ -622,7 +622,7 @@
     "fBPcAQ": {
         "en-US": "[Galfos]\nUgh, I'd better get out of before I'm dragged into unnecessary trouble... Or perhaps I already have been...",
         "pt-BR": "[Galfos]\nAh... Se eu demorar mais aqui, vou ficar ocioso demais. Não, preciso arranjar o que fazer...",
-        "es-ES": "[Galfos]\nUf, mejor me voy antes de que me meta en problemas innecesarios… O quizás ya lo hice…"
+        "es-ES": "[Galfos]\nUf, mejor me voy antes de que me meta en problemas innecesarios... O quizás ya lo hice..."
     },
     "fRPcAQ": {
         "en-US": "[Galfos]\nI'm sorry, but I don't want to waste my breath on someone who's not prepared.",
@@ -682,7 +682,7 @@
     "iBPcAQ": {
         "en-US": "A test subject...?",
         "pt-BR": "Uma cobaia?",
-        "es-ES": "¿Un sujeto de prueba…?"
+        "es-ES": "¿Un sujeto de prueba...?"
     },
     "iRPcAQ": {
         "en-US": "[Galfos]\nTo tell you the truth, I'm only interested in making the ultimate spellbooks. I'm not really good at using magic.",
@@ -777,7 +777,7 @@
     "mxPcAQ": {
         "en-US": "[Galfos]\nYou're incredible! This tremendous energy... It should do.",
         "pt-BR": "[Galfos]\nVocê é incrível. Essa energia... acho que isso é possível.",
-        "es-ES": "[Galfos]\n¡Eres increíble! Esta tremenda energía… Debería bastar."
+        "es-ES": "[Galfos]\n¡Eres increíble! Esta tremenda energía... Debería bastar."
     },
     "nBPcAQ": {
         "en-US": "[Galfos]\nBut I don't know if you've noticed, but I'm so broke that I can't even afford the most basic enchanting tools.",

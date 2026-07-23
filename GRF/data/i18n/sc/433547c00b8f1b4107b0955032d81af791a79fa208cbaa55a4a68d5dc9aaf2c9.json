@@ -7,7 +7,7 @@
     "ATfQAg": {
         "en-US": "[Master Miller]\nThe Eden Group's requests... Considering the journey ahead of you, I suggest you join the Group.",
         "pt-BR": "[Mestre Miller]\nOs pedidos do Grupo do Éden... Considerando a jornada que tem pela frente, sugiro que se junte ao Grupo.",
-        "es-ES": "[Maestro Miller]\nLas solicitudes del Grupo del Edén… Teniendo en cuenta el viaje que te espera, te sugiero que te unas al grupo."
+        "es-ES": "[Maestro Miller]\nLas solicitudes del Grupo del Edén... Teniendo en cuenta el viaje que te espera, te sugiero que te unas al grupo."
     },
     "AjfQAg": {
         "en-US": "[Master Miller]\nYou can do that at the ^4D4DFFCriatura Academy in Izlude^000000.\nPlease don't forget to go there.",
@@ -302,7 +302,7 @@
     "PDfQAg": {
         "en-US": "[Wise Bull Horns]\n...",
         "pt-BR": "[Sábio Chifre de Touro]\n...",
-        "es-ES": "[Sabio cuernos de toro]\n…"
+        "es-ES": "[Sabio cuernos de toro]\n..."
     },
     "PTfQAg": {
         "en-US": "[Wise Bull Horns]\n........",
@@ -347,12 +347,12 @@
     "RTfQAg": {
         "en-US": "[{0}]\n....",
         "pt-BR": "[{0}]\n....",
-        "es-ES": "[{0}]\n…"
+        "es-ES": "[{0}]\n..."
     },
     "RjfQAg": {
         "en-US": "[Wise Bull Horns]\nMm...\nMmm...",
         "pt-BR": "[Sábio Chifre de Touro]\nHumm...\nMmm...",
-        "es-ES": "[Sabio cuernos de toro]\nMm…\nMmm…"
+        "es-ES": "[Sabio cuernos de toro]\nMm...\nMmm..."
     },
     "RzfQAg": {
         "en-US": "[Wise Bull Horns]\n'Most people, when they acquire great power, don't know what to do with it and often drift into the path of darkness.",
@@ -397,7 +397,7 @@
     "TzfQAg": {
         "en-US": "[Wise Bull Horns]\nMm...\nThey're ready now.\nThis token is easy to make,\nbut I haven't made it for a long time.\nMaybe I've gotten rusty...",
         "pt-BR": "[Sábio Chifre de Touro]\nHumm...\nTudo pronto agora.\nEssa ficha é fácil de fazer,\nmas eu não a faço há muito tempo.\nTalvez eu tenha enferrujado...",
-        "es-ES": "[Sabio cuernos de toro]\nMm…\nYa están listos.\nEsta insignia es fácil de hacer,\npero hace mucho tiempo que no hacía una.\nQuizás he perdido la práctica…"
+        "es-ES": "[Sabio cuernos de toro]\nMm...\nYa están listos.\nEsta insignia es fácil de hacer,\npero hace mucho tiempo que no hacía una.\nQuizás he perdido la práctica..."
     },
     "UDfQAg": {
         "en-US": "[Wise Bull Horns]\nIt feels as if it were only yesterday\nthat I met Selena's father.\nTime flies like\nthe wind, doesn't it?",
@@ -467,7 +467,7 @@
     "XTfQAg": {
         "en-US": "[{0}]\n- Wise Bull Horns started -\n- singing a strange song. -\n- I feel... weird. -\n- I should take the token -\n- to Master Miller. -",
         "pt-BR": "[{0}]\n- O Sábio Chifre de Touro começou -\n- a cantar uma música estranha. -\n- Estou me sentindo... estranho. -\n- Eu tenho que levar a ficha -\n- para o Mestre Miller. -",
-        "es-ES": "[{0}]\n(Sabio cuernos de toro comenzó\na cantar una extraña canción).\nSiento algo… raro.\nDebería llevarle la insignia\nal maestro Miller."
+        "es-ES": "[{0}]\n(Sabio cuernos de toro comenzó\na cantar una extraña canción).\nSiento algo... raro.\nDebería llevarle la insignia\nal maestro Miller."
     },
     "XjfQAg": {
         "en-US": "[{0}]\n- I should buy 1 Milk -\n- for Wise Bull Horns. -",
@@ -497,7 +497,7 @@
     "YzfQAg": {
         "en-US": "[Wise Bull Horns]\nZzz... *Smacking his lips*",
         "pt-BR": "[Sábio Chifre de Touro]\nZzz... *Estalando os lábios*",
-        "es-ES": "[Sabio cuernos de toro]\nZzz… *Chasquea los labios*"
+        "es-ES": "[Sabio cuernos de toro]\nZzz... *Chasquea los labios*"
     },
     "ZDfQAg": {
         "en-US": "Lavet",
@@ -507,7 +507,7 @@
     "ZTfQAg": {
         "en-US": "[{0}]\nHey, hello.\nI came from the Gunslinger Guild office\nto give you this replacement part\nfor your defective--",
         "pt-BR": "[{0}]\nOlá, olá.\nVim do escritório da Guilda dos Justiceiros\npara lhe entregar esta peça de reposição\npara a sua peça defeituosa--",
-        "es-ES": "[{0}]\nHola, hola.\nVengo de la oficina del gremio de Pistoleros\npara darte esta pieza de reemplazo\npara arreglar tu…"
+        "es-ES": "[{0}]\nHola, hola.\nVengo de la oficina del gremio de Pistoleros\npara darte esta pieza de reemplazo\npara arreglar tu..."
     },
     "ZjfQAg": {
         "en-US": "[Lavet]\nNoooh!!!\nGwarrrgggh!!\nDIE!!!",
@@ -532,7 +532,7 @@
     "ajfQAg": {
         "en-US": "[Lavet]\nUrrgggh...\nGrr... Grr...\n......",
         "pt-BR": "[Lavet]\nUrrgggh...\nGrr... Grr...\n......",
-        "es-ES": "[Lavet]\nArrrgggh…\nGrrr… Grrr…\n......"
+        "es-ES": "[Lavet]\nArrrgggh...\nGrrr... Grrr...\n......"
     },
     "azfQAg": {
         "en-US": "Shivas Rugal",
@@ -1182,12 +1182,12 @@
     "7DfQAg": {
         "en-US": "[{0}]\nArgh! Wah! Please, no!\nUrgh... Waaaah!!\nGrrrgggh!\n- CRACK! -\nKyaaaaak!\nBoohoo!",
         "pt-BR": "[{0}]\nArgh! Wah! Por favor, não!\nUrgh... Waaaah!!!\nGrrrgggh!\n- CRACK! -\nKyaaaaak!\nBoohoo!",
-        "es-ES": "[{0}]\n¡Ay! ¡Bua! ¡No, por favor!\nUf… ¡Buaaa!\n¡Grrrr!\n-¡CRAC!-\n¡Iaaaaaaa!\n¡Bu!"
+        "es-ES": "[{0}]\n¡Ay! ¡Bua! ¡No, por favor!\nUf... ¡Buaaa!\n¡Grrrr!\n-¡CRAC!-\n¡Iaaaaaaa!\n¡Bu!"
     },
     "7TfQAg": {
         "en-US": "[Vanessa]\nUh-oh, did I apply too much pressure?\nMm...",
         "pt-BR": "[Vanessa]\nEita, será que apliquei muita pressão?\nHumm...",
-        "es-ES": "[Vanessa]\nOh, ¿hice demasiada fuerza?\nMm…"
+        "es-ES": "[Vanessa]\nOh, ¿hice demasiada fuerza?\nMm..."
     },
     "7jfQAg": {
         "en-US": "[{0}]\nYes, you did!\nYou jerk! You're terrible!\nBoohoo!",
@@ -1197,7 +1197,7 @@
     "7zfQAg": {
         "en-US": "[Vanessa]\nOh, no...\nI'm sorry.\nI mean it.\nPlease don't cry.",
         "pt-BR": "[Vanessa]\nAh, não...\nEu sinto muito.\nEstou falando sério.\nPor favor, não chore.",
-        "es-ES": "[Vanessa]\nAy, no…\nLo siento.\nLo digo en serio.\nPor favor, no llores."
+        "es-ES": "[Vanessa]\nAy, no...\nLo siento.\nLo digo en serio.\nPor favor, no llores."
     },
     "8DfQAg": {
         "en-US": "[{0}]\nBoohoo!",
@@ -1407,7 +1407,7 @@
     "GTjQAg": {
         "en-US": "[Ingrid]\nIt boasts destructive firepower,\nand an incredible range.\nIts ergonomic design provides\na superb grip and minimizes\nrecoil. In other words, It's the essence of\nGunslinger gunnery technology!\nHuff, huff...",
         "pt-BR": "[Ingrid]\nEla possui um poder de fogo destrutivo\ne um alcance incrível.\nSeu design ergonômico proporciona\numa excelente empunhadura e minimiza\no recuo. Em outras palavras, é a essência da\ntecnologia de artilharia dos Justiceiros!\nHuff, huff...",
-        "es-ES": "[Ingrid]\nTiene una potencia de fuego destructiva\ny un alcance increíble.\nSu diseño ergonómico proporciona\nun magnífico agarre y reduce al mínimo\nel retroceso. En otras palabras, es la esencia de\nla tecnología artillera de los Pistoleros.\nUff, uff…"
+        "es-ES": "[Ingrid]\nTiene una potencia de fuego destructiva\ny un alcance increíble.\nSu diseño ergonómico proporciona\nun magnífico agarre y reduce al mínimo\nel retroceso. En otras palabras, es la esencia de\nla tecnología artillera de los Pistoleros.\nUff, uff..."
     },
     "GjjQAg": {
         "en-US": "[{0}]\nYou know a lot about it.\n......",
@@ -1767,7 +1767,7 @@
     "YTjQAg": {
         "en-US": "[Garrison]\nOh, no.\nSo, that letter was from...\nDang, it was from\nan assassin hired by\nour guild's enemy.",
         "pt-BR": "[Garrison]\nAh, não.\nEntão, essa carta era de...\nDroga, era de\num Mercenário contratado pelo\ninimigo da nossa guilda.",
-        "es-ES": "[Garrison]\nOh, no.\nEntonces, esa carta era de…\nMaldición, era de\nun asesino contratado por\nel enemigo de nuestro gremio."
+        "es-ES": "[Garrison]\nOh, no.\nEntonces, esa carta era de...\nMaldición, era de\nun asesino contratado por\nel enemigo de nuestro gremio."
     },
     "YjjQAg": {
         "en-US": "[Garrison]\nI'm sorry\nI put you\nin harm's way.",
@@ -1952,7 +1952,7 @@
     "hjjQAg": {
         "en-US": "[N.A.]\nUno, dos, tres, cuatro, cinco, seis... Yes, 100,000 Zeny, confirmed. Let me give you your ^FF0000Butcher^000000.",
         "pt-BR": "[N.A.]\nUno, dos, tres, cuatro, cinco, seis... Sim, 100.000 Zeny, confirmado. Vou lhe dar sua ^FF0000Retalhadora^000000.",
-        "es-ES": "[N.A.]\nUno, dos, tres, cuatro, cinco, seis… Sí, 100000 zeny, confirmado. Te daré tu ^FF0000Carnicero^000000."
+        "es-ES": "[N.A.]\nUno, dos, tres, cuatro, cinco, seis... Sí, 100000 zeny, confirmado. Te daré tu ^FF0000Carnicero^000000."
     },
     "hzjQAg": {
         "en-US": "[N.A.]\nF. Harrison in Lighthalzen would love to see the new weapon. You should show it to him if you have a chance.",
@@ -2022,7 +2022,7 @@
     "lDjQAg": {
         "en-US": "[N.A.]\nHuh? ...Oh, I remember you. You got a Butcher from us, didn't you? How are you doing with using your Butcher?",
         "pt-BR": "[N.A.]\nHã? ...Ah, eu me lembro de você. Você ganhou uma Retalhadora de nós, não foi? Como está se saindo com ela?",
-        "es-ES": "[N.A.]\n¿Eh?… Oh, me acuerdo de ti. Te fabricamos una Carnicero, ¿verdad? ¿Qué tal te está yendo con tu Carnicero?"
+        "es-ES": "[N.A.]\n¿Eh?... Oh, me acuerdo de ti. Te fabricamos una Carnicero, ¿verdad? ¿Qué tal te está yendo con tu Carnicero?"
     },
     "lTjQAg": {
         "en-US": "[N.A.]\n...Say what?!! You broke it? Oh, my! I thought you'd take good care of it! I feel betrayed.",
@@ -2042,7 +2042,7 @@
     "mDjQAg": {
         "en-US": "[N.A.]\n...Oh.\nSo, F. Harrison broke it. I'm sorry I yelled at you.",
         "pt-BR": "[N.A.]\n...Oh.\nEntão, F. Harrison a quebrou. Desculpe-me por ter gritado com você.",
-        "es-ES": "[N.A.]\n…Oh.\nEntonces, F.Harrison la rompió. Siento haberte gritado."
+        "es-ES": "[N.A.]\n...Oh.\nEntonces, F.Harrison la rompió. Siento haberte gritado."
     },
     "mTjQAg": {
         "en-US": "[N.A.]\nDoctor Selena manages Special Trigger Assembly Kits, and right now she's out of the office. I don't know where they are.",
@@ -2052,7 +2052,7 @@
     "mjjQAg": {
         "en-US": "[N.A.]\nI don't have time to look for them, either, because of my new research project. *Sigh...* I need elemental bullets to study. What do I do?",
         "pt-BR": "[N.A.]\nTambém não tenho tempo para procurá-la por causa do meu novo projeto de pesquisa. *Suspiro*... Preciso de projéteis elementais para estudar. O que devo fazer?",
-        "es-ES": "[N.A.]\nTampoco tengo tiempo para buscarla debido a mi nuevo proyecto de investigación. *Suspira…* Necesito balas elementales para estudiar. ¿Qué puedo hacer?"
+        "es-ES": "[N.A.]\nTampoco tengo tiempo para buscarla debido a mi nuevo proyecto de investigación. *Suspira...* Necesito balas elementales para estudiar. ¿Qué puedo hacer?"
     },
     "mzjQAg": {
         "en-US": "I've got an idea.",
@@ -2202,7 +2202,7 @@
     "uDjQAg": {
         "en-US": "[N.A.]\nMm......",
         "pt-BR": "[N.A.]\nHum......",
-        "es-ES": "[N.A.]\nMmm…"
+        "es-ES": "[N.A.]\nMmm..."
     },
     "uTjQAg": {
         "en-US": "[N.A.]\nOh, I've got an idea.",
@@ -2262,7 +2262,7 @@
     "xDjQAg": {
         "en-US": "[N.A.]\n...Fever... Last Stand... Mm... 180 m/s or greater...",
         "pt-BR": "[N.A.]\n...Ataque Gatling.. Resistência Final... Hum... 180 m/s ou mais...",
-        "es-ES": "[N.A.]\n…Fiebre… Última línea… Mmm… 180 m/s o superior…"
+        "es-ES": "[N.A.]\n...Fiebre... Última línea... Mmm... 180 m/s o superior..."
     },
     "xTjQAg": {
         "en-US": "[N.A.]\nOh, I'm sorry. I'm busy developing a new weapon.",
@@ -2277,12 +2277,12 @@
     "xzjQAg": {
         "en-US": "[F. Harrison]\nMm... Mm? Ah... Ah?",
         "pt-BR": "[F. Harrison]\nHum... Hum? Ah... Ah?",
-        "es-ES": "[F.Harrison]\nMmm… ¿Mmm? Ah… ¿Eh?"
+        "es-ES": "[F.Harrison]\nMmm... ¿Mmm? Ah... ¿Eh?"
     },
     "yDjQAg": {
         "en-US": "[F. Harrison]\nWhew... Mm, mm... Ooo...",
         "pt-BR": "[F. Harrison]\nUfa... Hum, hum... Ooo...",
-        "es-ES": "[F.Harrison]\nUf… Mmm, mmm… Oooh…"
+        "es-ES": "[F.Harrison]\nUf... Mmm, mmm... Oooh..."
     },
     "yTjQAg": {
         "en-US": "Give me my Butcher back.",
@@ -2292,12 +2292,12 @@
     "yjjQAg": {
         "en-US": "[F. Harrison]\nHuh? Ah...! Mm... Ah... Err...",
         "pt-BR": "[F. Harrison]\nHã? Ah...! Hum... Ah... Err...",
-        "es-ES": "[F.Harrison]\n¿Eh? ¡Ah…! Mmm… Ah… Eh…"
+        "es-ES": "[F.Harrison]\n¿Eh? ¡Ah...! Mmm... Ah... Eh..."
     },
     "yzjQAg": {
         "en-US": "[F. Harrison]\nActually, that's... Hah hah, hah hah hah hah hah!",
         "pt-BR": "[F. Harrison]\nNa verdade, isso é... Hah hah, hah hah hah hah hah hah!",
-        "es-ES": "[F.Harrison]\nEn realidad, eso es… ¡Ja, ja, ja, ja, ja, ja!"
+        "es-ES": "[F.Harrison]\nEn realidad, eso es... ¡Ja, ja, ja, ja, ja, ja!"
     },
     "zDjQAg": {
         "en-US": "[F. Harrison]\nYou know!! Mwa hah hah hah!",
@@ -2307,7 +2307,7 @@
     "zTjQAg": {
         "en-US": "[F. Harrison]\nI just wanted to! Mwa hah hah hah!",
         "pt-BR": "[F. Harrison]\nEu só queria! Mwa hah hah hah!",
-        "es-ES": "[F.Harrison]\n¡Solo quería…! ¡Ja, ja, ja, ja!"
+        "es-ES": "[F.Harrison]\n¡Solo quería...! ¡Ja, ja, ja, ja!"
     },
     "zjjQAg": {
         "en-US": "[F. Harrison]\nGive it a try. Yes!",
@@ -2322,7 +2322,7 @@
     "0DjQAg": {
         "en-US": "[F. Harrison]\nAnd... Hah hah... It broke. Boohoo!",
         "pt-BR": "[F. Harrison]\nE... Hah hah... Quebrou. Que pena!",
-        "es-ES": "[F.Harrison]\nY… Ja, ja… Se rompió. ¡Bu!"
+        "es-ES": "[F.Harrison]\nY... Ja, ja... Se rompió. ¡Bu!"
     },
     "0TjQAg": {
         "en-US": "[F. Harrison]\nBut you know I'm good with my hands. I thought I could fix it, so I dismantled it. I realized I didn't have enough materials to fix it. Some of its parts looked strange to me, too. Boohoo!",
@@ -2337,7 +2337,7 @@
     "0zjQAg": {
         "en-US": "[F. Harrison]\nI need ^FF000010 Steels, 2 Eluniums, 1 Oridecon, 20 Coals,^000000 and... the ^FF0000Special Trigger Assembly Kit^000000 that's only used in Butcher. Only Doctor Selena can make it, probably.",
         "pt-BR": "[F. Harrison]\nPreciso de ^FF000010 Aços, 2 Eluniums, 1 Oridecon, 20 Carvões,^000000 e... o ^FF0000Kit Especial de Montagem de Gatilho^000000 que só é usado na Retalhadora. Provavelmente, somente a Dra. Selena pode fabricá-lo.",
-        "es-ES": "[F.Harrison]\nNecesito ^FF000010 unidades de Acero, 2 unidades de Elunium, 1 unidades de Oridecon, 20 Carbones^000000 y… el ^FF0000Kit especial de ensamblaje de gatillos^000000 que solo se usa para Carnicero. Probablemente, solo la doctora Selena puede hacerlo."
+        "es-ES": "[F.Harrison]\nNecesito ^FF000010 unidades de Acero, 2 unidades de Elunium, 1 unidades de Oridecon, 20 Carbones^000000 y... el ^FF0000Kit especial de ensamblaje de gatillos^000000 que solo se usa para Carnicero. Probablemente, solo la doctora Selena puede hacerlo."
     },
     "1DjQAg": {
         "en-US": "[F. Harrison]\nI suggest you talk to her assistant,\nN.A. She's a bit hysterical, but maybe she'll help you if you talk to her.",
@@ -2352,7 +2352,7 @@
     "1jjQAg": {
         "en-US": "[F. Harrison]\nI need ^FF000010 Steels, 2 Eluniums, 1 Oridecon, 20 Coals,^000000 and... the ^FF0000Special Trigger Assembly Kit^000000 that's only used in Butcher. You should ask N.A. for the Special Trigger Assembly Kit.",
         "pt-BR": "[F. Harrison]\nPreciso de ^FF000010 Aços, 2 Eluniums, 1 Oridecon, 20 Carvões,^000000 e... o ^FF0000Kit Especial de Montagem de Gatilho^000000 que só é usado na Retalhadora. Você deve pedir à N.A. o Kit Especial de Montagem de Gatilho.",
-        "es-ES": "[F.Harrison]\nNecesito ^FF000010 unidades de Acero, 2 unidades de Elunium, 1 unidades de Oridecon, 20 Carbones^000000 y… el ^FF0000Kit especial de ensamblaje de gatillos^000000 que solo se usa para Carnicero. Deberías pedirle a N.A. el Kit especial de ensamblaje de gatillos."
+        "es-ES": "[F.Harrison]\nNecesito ^FF000010 unidades de Acero, 2 unidades de Elunium, 1 unidades de Oridecon, 20 Carbones^000000 y... el ^FF0000Kit especial de ensamblaje de gatillos^000000 que solo se usa para Carnicero. Deberías pedirle a N.A. el Kit especial de ensamblaje de gatillos."
     },
     "1zjQAg": {
         "en-US": "[F. Harrison]\nOoo, you've brought all the materials! Thank you. Now, give me a moment to fix your gun.",
@@ -2367,7 +2367,7 @@
     "2TjQAg": {
         "en-US": "[F. Harrison]\nI need ^FF000010 Steels, 2 Eluniums, 1 Oridecon, 20 Coals,^000000 and... the ^FF0000Special Trigger Assembly Kit^000000 that's only used in Butcher. I'm glad you've found a Special Trigger Assembly Kit.",
         "pt-BR": "[F. Harrison]\nPreciso de ^FF000010 Aços, 2 Eluniums, 1 Oridecon, 20 Carvões,^000000 e... o ^FF0000Kit Especial de Montagem de Gatilho^000000 que só é usado na Retalhadora. Fico feliz que você tenha encontrado um Kit Especial de Montagem de Gatilho.",
-        "es-ES": "[F.Harrison]\nNecesito ^FF000010 unidades de Acero, 2 unidades de Elunium, 1 unidades de Oridecon, 20 Carbones^000000 y… el ^FF0000Kit especial de ensamblaje de gatillos^000000 que solo se usa para Carnicero. Me alegro de que hayas encontrado un Kit especial de ensamblaje de gatillos."
+        "es-ES": "[F.Harrison]\nNecesito ^FF000010 unidades de Acero, 2 unidades de Elunium, 1 unidades de Oridecon, 20 Carbones^000000 y... el ^FF0000Kit especial de ensamblaje de gatillos^000000 que solo se usa para Carnicero. Me alegro de que hayas encontrado un Kit especial de ensamblaje de gatillos."
     },
     "2jjQAg": {
         "en-US": "[F. Harrison]\nWhew! Thanks to you, I fixed your gun. Thank you, and sorry. I gave your gun a tweak as a token of my apology. I hope you'll like it.",

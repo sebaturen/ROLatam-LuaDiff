@@ -42,7 +42,7 @@
     "CFKHAw": {
         "en-US": "[{0}]\n(... What is that guy doing. I should keep my distance from him.)",
         "pt-BR": "[{0}]\n(......Parece ser um estranho, melhor evitá-lo.)",
-        "es-ES": "[{0}]\n(… ¿Qué hace ese sujeto? Debería mantener la distancia con él)."
+        "es-ES": "[{0}]\n(... ¿Qué hace ese sujeto? Debería mantener la distancia con él)."
     },
     "CVKHAw": {
         "en-US": "[Morvand]\nHey, you!",
@@ -127,7 +127,7 @@
     "GVKHAw": {
         "en-US": "[Morvand]\nIt's not like we should let monsters roam all the way to Hugel. There are a lot of tourists there.\nI would love to tag along and give you buffs and heal you ...",
         "pt-BR": "[Morband]\nAlém disso, não seria um grande problema se esses monstros aparecessem em Hugel?\nHá muitos turistas aqui...",
-        "es-ES": "[Morvand]\nNo podemos dejar que los monstruos lleguen hasta Hugel. Hay muchos turistas allí.\nMe encantaría acompañarte para darte buffs y curarte…"
+        "es-ES": "[Morvand]\nNo podemos dejar que los monstruos lleguen hasta Hugel. Hay muchos turistas allí.\nMe encantaría acompañarte para darte buffs y curarte..."
     },
     "GlKHAw": {
         "en-US": "[Morvand]\nbut that place is really dangerous! You might get cursed if you're unfortunate!\nI don't think I can really get in there.",
@@ -167,7 +167,7 @@
     "IVKHAw": {
         "en-US": "[Morvand]\nIn Odin Temple, ^FF0000there's a monster that must not be named ...^000000 ... wait, you wouldn't know which monsters to hunt if I didn't tell you the name, would you?",
         "pt-BR": "[Morband]\nO Templo de Odin fica na ^FF0000Ilha Angrboda...^000000, mas isso você já sabia, né?",
-        "es-ES": "[Morvand]\nEn el Templo de Odín, ^FF0000hay un monstruo que no debe ser nombrado…^000000 Espera, si no te digo el nombre, no sabrás a qué monstruos cazar, ¿verdad?"
+        "es-ES": "[Morvand]\nEn el Templo de Odín, ^FF0000hay un monstruo que no debe ser nombrado...^000000 Espera, si no te digo el nombre, no sabrás a qué monstruos cazar, ¿verdad?"
     },
     "IlKHAw": {
         "en-US": "[Morvand]\nThey are called Skoguls. There is a rumor that they drag their dark, feathered wings on the floor to communicate with the demons down below. Just the thought of it gives me goosebumps.",
@@ -187,17 +187,17 @@
     "JVKHAw": {
         "en-US": "[Morvand]\nI can ... feel it! There are evil beings there!\nJust looking at them makes me feel like I'm already dead.",
         "pt-BR": "[Morband]\nTem... tem um demônio que...!\nSó de falar dele me dá calafrios.",
-        "es-ES": "[Morvand]\nPuedo… ¡sentirlo! ¡Allí hay seres malignos!\nSolo con mirarlos siento que ya estoy muerto."
+        "es-ES": "[Morvand]\nPuedo... ¡sentirlo! ¡Allí hay seres malignos!\nSolo con mirarlos siento que ya estoy muerto."
     },
     "JlKHAw": {
         "en-US": "[Morvand]\nI'd like to help you hunt ... but it feels like I'll be cursed if I do so!\nI can't leave until an exorcist comes!",
         "pt-BR": "[Morband]\nGostaria de te ajudar, mas só de olhar para aquilo me faz sentir um cadáver!\nNão vou sem a ajuda de algum padre!",
-        "es-ES": "[Morvand]\nMe gustaría ayudarte a cazar… ¡pero siento que me caerá una maldición si lo hago!\n¡No puedo irme hasta que venga un exorcista!"
+        "es-ES": "[Morvand]\nMe gustaría ayudarte a cazar... ¡pero siento que me caerá una maldición si lo hago!\n¡No puedo irme hasta que venga un exorcista!"
     },
     "J1KHAw": {
         "en-US": "[Morvand]\nThey're called ^0000CDFruses^000000. Please go kill ^0000CD20^000000 of them,\nbefore everyone who enters Odin Temple gets possessed ...",
         "pt-BR": "[Morband]\nPor favor, acabe com ^0000CD20 Frus^000000.\nAntes que todos que vão ao Templo de Odin sejam possuídos por demônios...",
-        "es-ES": "[Morvand]\nSe llaman ^0000CDFrus^000000. Ve a matar a ^0000CD20^000000 de ellos,\nantes de que todo el que entre en el Templo de Odín sea poseído…"
+        "es-ES": "[Morvand]\nSe llaman ^0000CDFrus^000000. Ve a matar a ^0000CD20^000000 de ellos,\nantes de que todo el que entre en el Templo de Odín sea poseído..."
     },
     "KFKHAw": {
         "en-US": "[Morvand]\nOh, there are a few cute monsters at Odin Temple.\nThey have little wings with a body like a rubber box.",
@@ -222,27 +222,27 @@
     "LFKHAw": {
         "en-US": "[Morvand]\nHmm ... It can't be helped. \nI know you Adventurers are busy, but please come back and help me when you're free.",
         "pt-BR": "[Morband]\nAh, eu compreendo. \nNunca é bom acumular funções.",
-        "es-ES": "[Morvand]\nMmm… No hay remedio. \nSé que los trotamundos siempre están ocupados, pero regresa a ayudarme cuando tengas tiempo."
+        "es-ES": "[Morvand]\nMmm... No hay remedio. \nSé que los trotamundos siempre están ocupados, pero regresa a ayudarme cuando tengas tiempo."
     },
     "LVKHAw": {
         "en-US": "[Morvand]\nUmm, it's a long story ... but, this is a curse ...",
         "pt-BR": "[Morband]\nAh, é uma longa história... é uma maldição...",
-        "es-ES": "[Morvand]\nMmm, es una larga historia… pero, esto es una maldición…"
+        "es-ES": "[Morvand]\nMmm, es una larga historia... pero, esto es una maldición..."
     },
     "LlKHAw": {
         "en-US": "[Morvand]\nI already told you that I can only live in the dark, haven't I?\nThat's why I wrapped up my whole body ... but it's too ... hot ...",
         "pt-BR": "[Morband]\nEu não posso pegar a luz do sol no meu corpo, sabe?\nEntão, eu ando com muitos panos no corpo...",
-        "es-ES": "[Morvand]\nYa te dije que solo puedo vivir en la oscuridad, ¿no?\nPor eso me cubrí todo el cuerpo… pero hace demasiado… calor…"
+        "es-ES": "[Morvand]\nYa te dije que solo puedo vivir en la oscuridad, ¿no?\nPor eso me cubrí todo el cuerpo... pero hace demasiado... calor..."
     },
     "L1KHAw": {
         "en-US": "[Morvand]\nIt's really hot ... I have eczema and heat rash all over my body ...",
         "pt-BR": "[Morband]\nE eu fico com tanto calor... Piora meu Eczema, que são feridas na pele...",
-        "es-ES": "[Morvand]\nHace mucho calor… Tengo eczema y sarpullido por todo el cuerpo…"
+        "es-ES": "[Morvand]\nHace mucho calor... Tengo eczema y sarpullido por todo el cuerpo..."
     },
     "MFKHAw": {
         "en-US": "[Morvand]\nSo I'm trying my best to cool it down with cold water.\nIt's a terrible curse ... for sure ...",
         "pt-BR": "[Morband]\nPor isso estou me refrescando aos pouquinhos aqui.\nAh... que maldição horrível...",
-        "es-ES": "[Morvand]\nAsí que hago lo posible por refrescarme con agua fría.\nEs una terrible maldición… sin duda…"
+        "es-ES": "[Morvand]\nAsí que hago lo posible por refrescarme con agua fría.\nEs una terrible maldición... sin duda..."
     },
     "MVKHAw": {
         "en-US": "[Morvand]\nHuh?! What do you mean? \nHave I ever forced you to buy Prontera's newest music box or sold you the pure water of the pyramid dungeon that cleanses heart and body? You don't want to buy it?",
@@ -312,7 +312,7 @@
     "PlKHAw": {
         "en-US": "[Morvand]\nHmm ... you. Fate is somehow twisted. Not good, not good ...\nIf this continues, take a screenshot of this text and send it to the admins as a bug report.",
         "pt-BR": "[Morband]\nAlgo deu errado.\nPor favor, envie um ticket para a central de suporte.",
-        "es-ES": "[Morvand]\nMmm… tú. El destino se torció. No es bueno, no es bueno…\nSi esto continúa, haz una captura de pantalla de este texto y envíala a los administradores como informe de error."
+        "es-ES": "[Morvand]\nMmm... tú. El destino se torció. No es bueno, no es bueno...\nSi esto continúa, haz una captura de pantalla de este texto y envíala a los administradores como informe de error."
     },
     "P1KHAw": {
         "en-US": "[Morvand]\nGood call! ^0000CDIt's 20 CDFruses^000000. Make it quick!\nI'll wait here for the exorcist!",
@@ -332,7 +332,7 @@
     "QlKHAw": {
         "en-US": "[Morvand]\nPlease kill 20 ^0000CDFruses^000000.\nI'll follow you right after the exorcist comes ... but I wonder why he isn't coming ...",
         "pt-BR": "[Morband]\nElimine ^0000CD20 Frus^000000, por favor.\nEu não vou botar meus pés lá sem a ajuda de um padre...",
-        "es-ES": "[Morvand]\nMata a 20^0000CDFrus^000000.\nTe seguiré apenas llegue el exorcista… pero me pregunto por qué no viene…"
+        "es-ES": "[Morvand]\nMata a 20^0000CDFrus^000000.\nTe seguiré apenas llegue el exorcista... pero me pregunto por qué no viene..."
     },
     "Q1KHAw": {
         "en-US": "[Morvand]\nOnce you're trapped in that box, you're as good as dead! In just a matter of seconds!\nWill you take care of these dangerous monsters?",

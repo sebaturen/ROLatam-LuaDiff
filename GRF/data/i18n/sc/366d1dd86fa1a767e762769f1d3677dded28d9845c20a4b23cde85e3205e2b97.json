@@ -212,7 +212,7 @@
     "yvLdAg": {
         "en-US": "[Shining Knight]\nNo? Alright, then. Mm... Perhaps it's only this alcohol that never changes...",
         "pt-BR": "[Cavaleiro Rúnico Manuel]\nNão? Bom, então deixe para lá.\nVocê não adora o cheiro de uma bebida?",
-        "es-ES": "[Caballero radiante]\n¿No? De acuerdo. Mm… A lo mejor lo único que nunca cambia es este licor…"
+        "es-ES": "[Caballero radiante]\n¿No? De acuerdo. Mm... A lo mejor lo único que nunca cambia es este licor..."
     },
     "y/LdAg": {
         "en-US": "Rune Guide Ljungberg",
@@ -327,7 +327,7 @@
     "4fLdAg": {
         "en-US": "[Rune Guide Ljungberg]\nMm... Are you the Rune Knight candidate that Manuel told me about?",
         "pt-BR": "[Guia Jungberg]\nHum... Você é o Cavaleiro Rúnico do qual Manual falou?",
-        "es-ES": "[Guía rúnico Ljungberg]\nMm… Según me comentó Manuel, aspiras a ser Caballero rúnico, ¿verdad?"
+        "es-ES": "[Guía rúnico Ljungberg]\nMm... Según me comentó Manuel, aspiras a ser Caballero rúnico, ¿verdad?"
     },
     "4vLdAg": {
         "en-US": "[Rune Guide Ljungberg]\nYour name is {0}, right? You came highly recommended.",
@@ -402,7 +402,7 @@
     "8PLdAg": {
         "en-US": "[Rune Knights Cohort Member]\nMm... But you're on the path of the sword. You're not completely a stranger.",
         "pt-BR": "[Cavaleiro Rúnico]\nMas como você segue o caminho da Espada, talvez você tenha alguma relação conosco no futuro.",
-        "es-ES": "[Caballero rúnico]\nMm… Recorres el camino de la espada. No eres una persona extraña."
+        "es-ES": "[Caballero rúnico]\nMm... Recorres el camino de la espada. No eres una persona extraña."
     },
     "8fLdAg": {
         "en-US": "[Rune Knights Cohort Member]\nMaybe we'll meet again. Depending on your decision in the future, that is.",
@@ -477,7 +477,7 @@
     "//LdAg": {
         "en-US": "[Captain Tigris]\nMm... Not bad. I can't say you did well, but at least you passed.",
         "pt-BR": "[Chefe Tigris]\nUmm, nada mal. Não é um ótimo histórico, mas você deu o seu melhor.",
-        "es-ES": "[Capitán Tigris]\nMm… Nada mal. No puedo decir que te destacaras, pero al menos aprobaste."
+        "es-ES": "[Capitán Tigris]\nMm... Nada mal. No puedo decir que te destacaras, pero al menos aprobaste."
     },
     "APPdAg": {
         "en-US": "[Captain Tigris]\nNow that I think of it, I told you I'd give you a gift a while ago. Give me a moment.",
@@ -507,7 +507,7 @@
     "BfPdAg": {
         "en-US": "[Captain Tigris]\nAh... Are you the Rune Knight candidate that Manuel told me about? I'm Tigris, the captain of the Rune Knights. What's your name?",
         "pt-BR": "[Chefe Tigris]\nEi, você é o Cavaleiro Rúnico que o Manuel recomendou? Meu nome é Capitão Tigris, dos Cavaleiros Rúnicos, seu nome é?",
-        "es-ES": "[Capitán Tigris]\nAh… Según me comentó Manuel, aspiras a ser miembro de los Caballeroa rúnicos, ¿verdad? Soy Tigris, el capitán de los Caballeros rúnicos. ¿Cómo te llamas?"
+        "es-ES": "[Capitán Tigris]\nAh... Según me comentó Manuel, aspiras a ser miembro de los Caballeroa rúnicos, ¿verdad? Soy Tigris, el capitán de los Caballeros rúnicos. ¿Cómo te llamas?"
     },
     "BvPdAg": {
         "en-US": "[Captain Tigris]\nOh, wait. I forgot for a moment that I'd heard it. {0}, right? Welcome to our stronghold.",
@@ -522,7 +522,7 @@
     "CPPdAg": {
         "en-US": "[Spacetime Rune Knight Lunaria]\n...172.",
         "pt-BR": "[Cavaleira Rúnica Lunarea]\n... 172o.",
-        "es-ES": "[Caballera rúnica Lunarea]\n…172."
+        "es-ES": "[Caballera rúnica Lunarea]\n...172."
     },
     "CfPdAg": {
         "en-US": "[Captain Tigris]\nYes, you heard her. I really don't want to see the 173rd one. Please do your best to pass the test and join us.",
@@ -532,7 +532,7 @@
     "CvPdAg": {
         "en-US": "[Captain Tigris]\nLet's see... Manuel and Ljungberg should have checked your basic qualifications. Let's move on to the actual test.",
         "pt-BR": "[Chefe Tigris]\nDeixe-me ver... Manual e Jungberg devem ter terminado a verificação básica, então vamos começar o teste agora mesmo.",
-        "es-ES": "[Capitán Tigris]\nVeamos… Manuel y Ljungberg deberían haber comprobado tus habilidades básicas. Pasemos a la prueba real."
+        "es-ES": "[Capitán Tigris]\nVeamos... Manuel y Ljungberg deberían haber comprobado tus habilidades básicas. Pasemos a la prueba real."
     },
     "C/PdAg": {
         "en-US": "[Captain Tigris]\nLunaria, I'll let you take care of their first test.",
@@ -542,7 +542,7 @@
     "DPPdAg": {
         "en-US": "[Spacetime Rune Knight Lunaria]\n...",
         "pt-BR": "[Cavaleira Rúnica Lunarea]\n...",
-        "es-ES": "[Caballera rúnica Lunarea]\n…"
+        "es-ES": "[Caballera rúnica Lunarea]\n..."
     },
     "DfPdAg": {
         "en-US": "Lunaria, the female Rune Knight with pale skin, quietly nodded her head, looking at me.",
@@ -577,7 +577,7 @@
     "E/PdAg": {
         "en-US": "[Captain Tigris]\nOkay, Lunaria. *Sigh...* Hey, listen to me. Lunaria may be quiet and shy, but you shouldn't ignore her like this.",
         "pt-BR": "[Chefe Tigris]\nCerto, Lunarea. Ei, escute com cuidado. Lunarea é pobre com as palavras e fala pouco, mas você não deve ignorá-la.",
-        "es-ES": "[Capitán Tigris]\nBien, Lunarea. *Suspira…* Oye, escúchame. Puede que Lunarea sea callada y tímida, pero no deberías ignorarla así."
+        "es-ES": "[Capitán Tigris]\nBien, Lunarea. *Suspira...* Oye, escúchame. Puede que Lunarea sea callada y tímida, pero no deberías ignorarla así."
     },
     "FPPdAg": {
         "en-US": "[Captain Tigris]\nI'm her captain, but even I can't handle her when she's angry. Hah hah hah.",
@@ -637,7 +637,7 @@
     "H/PdAg": {
         "en-US": "[Captain Tigris]\nThat probably has to do with the test examiner's temperament... Anyway, good job.",
         "pt-BR": "[Chefe Tigris]\nEu ouvi dizer que há um grande número de candidatos que desistiram no meio do teste de Renoa.",
-        "es-ES": "[Capitán Tigris]\nSupongo que tiene que ver con el temperamento de la examinadora… En fin, buen trabajo."
+        "es-ES": "[Capitán Tigris]\nSupongo que tiene que ver con el temperamento de la examinadora... En fin, buen trabajo."
     },
     "IPPdAg": {
         "en-US": "[Captain Tigris]\nNow, you only have one test left to take. If you pass it, you'll join us, the Rune Knights.",
@@ -727,7 +727,7 @@
     "MfPdAg": {
         "en-US": "[Captain Tigris]\nHm... It seems you didn't listen to me when I talked to you.",
         "pt-BR": "[Chefe Tigris]\nNão estava ouvindo?",
-        "es-ES": "[Capitán Tigris]\nMmm… Parece que no escuchaste lo que te dije."
+        "es-ES": "[Capitán Tigris]\nMmm... Parece que no escuchaste lo que te dije."
     },
     "MvPdAg": {
         "en-US": "[Captain Tigris]\nIf you're equipped with items and carrying them as well, please unequip them and empty your inventory. Zeny, too.",
@@ -807,12 +807,12 @@
     "QfPdAg": {
         "en-US": "Quietly, she stared at me for a while, and then whispered.",
         "pt-BR": "Finalmente ela abre a boca e começa a falar.",
-        "es-ES": "(Me miró un rato, en silencio, y luego susurró…)."
+        "es-ES": "(Me miró un rato, en silencio, y luego susurró...)."
     },
     "QvPdAg": {
         "en-US": "[Spacetime Rune Knight Lunaria]\n5 minutes... If you can hold your ground and defeat them all in 5 minutes, you'll pass.",
-        "pt-BR": "[Cavaleira Rúnica Lunarea]\n5 minutos… Quando você suporta, e se livra de tudo, você será bem sucedido.",
-        "es-ES": "[Caballera rúnica Lunarea]\n5 minutos… Si resistes y los derrotas a todos en 5 minutos, aprobarás."
+        "pt-BR": "[Cavaleira Rúnica Lunarea]\n5 minutos... Quando você suporta, e se livra de tudo, você será bem sucedido.",
+        "es-ES": "[Caballera rúnica Lunarea]\n5 minutos... Si resistes y los derrotas a todos en 5 minutos, aprobarás."
     },
     "Q/PdAg": {
         "en-US": "[Spacetime Rune Knight Lunaria]\nCaptain Tigris, Lenore, Belfino, and I will be watching you.",
@@ -822,7 +822,7 @@
     "RPPdAg": {
         "en-US": "[Spacetime Rune Knight Lunaria]\nYou can ask one of us for help, but... it may come with a price.",
         "pt-BR": "[Cavaleira Rúnica Lunarea]\nSe você quiser, pode pedir ajuda a um de nós. Mas não pense que sempre ajudaremos.",
-        "es-ES": "[Caballera rúnica Lunarea]\nPuedes pedir ayuda a uno de nosotros, pero… por un precio."
+        "es-ES": "[Caballera rúnica Lunarea]\nPuedes pedir ayuda a uno de nosotros, pero... por un precio."
     },
     "RfPdAg": {
         "en-US": "^0000FFWhile Lunaria talked, a small, unfamiliar-looking device attached to her sword hilt made a pure sound as colorful rune letters appeared around it. Is this one of the Rune Knight relics I'd heard about?^000000",
@@ -832,7 +832,7 @@
     "RvPdAg": {
         "en-US": "[Spacetime Rune Knight Lunaria]\nExcuse me...",
         "pt-BR": "[Cavaleira Rúnica Lunarea]\nEi, estou falando com você.",
-        "es-ES": "[Caballera rúnica Lunarea]\nDisculpa…"
+        "es-ES": "[Caballera rúnica Lunarea]\nDisculpa..."
     },
     "R/PdAg": {
         "en-US": "^0000FFLunaria held the small device to her ear and spoke. At first, I thought she was talking to herself, but then another voice was heard from the device.^000000",
@@ -872,7 +872,7 @@
     "TvPdAg": {
         "en-US": "[Spacetime Rune Knight Lunaria]\nOr... finish your tests with the other Rune Knights first.",
         "pt-BR": "[Cavaleira Rúnica Lunarea]\nExistem outros testes que você deverá realizar, espero que não falhe.",
-        "es-ES": "[Caballera rúnica Lunarea]\nO… termina las pruebas con los otros Caballeros rúnicos primero."
+        "es-ES": "[Caballera rúnica Lunarea]\nO... termina las pruebas con los otros Caballeros rúnicos primero."
     },
     "T/PdAg": {
         "en-US": "Red Lotus Rune Knight Lenore",
@@ -937,7 +937,7 @@
     "W/PdAg": {
         "en-US": "[Red Lotus Rune Knight Lenore]\nMm... ^0000FFThe Runes and the Rune Knight^000000 , ^0000FFThe Principles of the Runes and Their Kinds^000000, and... ^0000FFHow to Make and Use Runestones^000000. I guess these three should do.",
         "pt-BR": "[Cavaleira Rúnica Renoa]\nUmm, ^0000FFRunas e Cavaleiros Rúnicos^000000, ^0000FFOs Princípios das Runas^000000, ^0000FFA criação e uso das Runas^000000. Comece com esses 3...",
-        "es-ES": "[Caballera rúnica Renoa]\nMmm… ^0000FFLas runas y el Caballero rúnico^000000, ^0000FFLos principios de las runas y sus tipos^000000, y… ^0000FFCómo hacer y usar piedras rúnicas^000000. Con estos tres bastará."
+        "es-ES": "[Caballera rúnica Renoa]\nMmm... ^0000FFLas runas y el Caballero rúnico^000000, ^0000FFLos principios de las runas y sus tipos^000000, y... ^0000FFCómo hacer y usar piedras rúnicas^000000. Con estos tres bastará."
     },
     "XPPdAg": {
         "en-US": "[Red Lotus Rune Knight Lenore]\nRead them carefully, and then come back. I hope you like reading and studying because these books are not easy to read.",
@@ -1147,7 +1147,7 @@
     "hfPdAg": {
         "en-US": "[Red Lotus Rune Knight Lenore]\nWhat the...? How did you get in here? Captain, I've found a rat here.",
         "pt-BR": "[Cavaleira Rúnica Renoa]\nEi... Como você chegou aqui? Capitão, acho que encontrei um rato aqui.",
-        "es-ES": "[Caballera rúnica Renoa]\n¿Pero qué…? ¿Cómo entraste? Capitán, encontré una rata."
+        "es-ES": "[Caballera rúnica Renoa]\n¿Pero qué...? ¿Cómo entraste? Capitán, encontré una rata."
     },
     "hvPdAg": {
         "en-US": "[Captain Tigris]\nHm? What is it, Lenore? And please stop calling people rats. We're not a shady criminal organization.",
@@ -1162,7 +1162,7 @@
     "iPPdAg": {
         "en-US": "[Captain Tigris]\nHm... Hey, you. Please come over here. Let me talk to you.",
         "pt-BR": "[Chefe Tigris]\nHumm... Ei, você. Venha aqui um minuto.",
-        "es-ES": "[Capitán Tigris]\nMmm… Oye, tú. Ven aquí. Quiero hablar contigo."
+        "es-ES": "[Capitán Tigris]\nMmm... Oye, tú. Ven aquí. Quiero hablar contigo."
     },
     "ifPdAg": {
         "en-US": "Suspicious Hole in Statue",
@@ -1197,7 +1197,7 @@
     "j/PdAg": {
         "en-US": "This shimmering rune shaped like a red spiral is...",
         "pt-BR": "Essa runa espiral vermelha e quente é...",
-        "es-ES": "Esta runa brillante con forma de espiral roja es…"
+        "es-ES": "Esta runa brillante con forma de espiral roja es..."
     },
     "kPPdAg": {
         "en-US": "Ehwaz",
@@ -1232,7 +1232,7 @@
     "lvPdAg": {
         "en-US": "This shimmering rune shaped like a burgundy-red oblique line is...",
         "pt-BR": "Esse brilho com uma linha violeta obliqua é...",
-        "es-ES": "Esta runa brillante con forma de línea oblicua rojo burdeos es…"
+        "es-ES": "Esta runa brillante con forma de línea oblicua rojo burdeos es..."
     },
     "l/PdAg": {
         "en-US": "Osilia",
@@ -1247,7 +1247,7 @@
     "mfPdAg": {
         "en-US": "This shimmering rune shaped like a green diamond is...",
         "pt-BR": "Essa runa de esmeralda diamante é...",
-        "es-ES": "Esta runa brillante con forma de diamante verde es…"
+        "es-ES": "Esta runa brillante con forma de diamante verde es..."
     },
     "mvPdAg": {
         "en-US": "Mannaz",
@@ -1262,7 +1262,7 @@
     "nPPdAg": {
         "en-US": "This shimmering rune shaped like a green circle is...",
         "pt-BR": "Essa runa brilhante com uma forma de esmeralda é...",
-        "es-ES": "Esta runa brillante con forma de círculo verde es…"
+        "es-ES": "Esta runa brillante con forma de círculo verde es..."
     },
     "nfPdAg": {
         "en-US": "Ansuz",
@@ -1277,7 +1277,7 @@
     "n/PdAg": {
         "en-US": "This shimmering rune shaped like a light blue star is...",
         "pt-BR": "Essa runa brilhante com a forma de estrela de céu azul é...",
-        "es-ES": "Esta runa brillante con forma de estrella azul claro es…"
+        "es-ES": "Esta runa brillante con forma de estrella azul claro es..."
     },
     "oPPdAg": {
         "en-US": "Hagalas",
@@ -1292,7 +1292,7 @@
     "ovPdAg": {
         "en-US": "This shimmering rune shaped like a red diamond is...",
         "pt-BR": "Essa runa brilhante com a forma de um diamante vermelho está...",
-        "es-ES": "Esta runa brillante con forma de diamante rojo es…"
+        "es-ES": "Esta runa brillante con forma de diamante rojo es..."
     },
     "o/PdAg": {
         "en-US": "Kano",
@@ -1307,7 +1307,7 @@
     "pfPdAg": {
         "en-US": "This shimmering rune shaped like a light blue oblique line is...",
         "pt-BR": "Essa runa brilhante com uma linha diagonal azulada está...",
-        "es-ES": "Esta runa brillante con forma de línea oblicua azul claro es…"
+        "es-ES": "Esta runa brillante con forma de línea oblicua azul claro es..."
     },
     "pvPdAg": {
         "en-US": "Rhydo",
@@ -1322,7 +1322,7 @@
     "qPPdAg": {
         "en-US": "This shimmering rune shaped like a yellow circle is...",
         "pt-BR": "A runa brilhando com um círculo vermelho está...",
-        "es-ES": "Esta runa brillante con forma de círculo amarillo es…"
+        "es-ES": "Esta runa brillante con forma de círculo amarillo es..."
     },
     "qfPdAg": {
         "en-US": "Turisus",
@@ -1337,7 +1337,7 @@
     "q/PdAg": {
         "en-US": "This shimmering rune shaped like a green spiral is...",
         "pt-BR": "Essa runa brilhante com uma linha de esmeralda está...",
-        "es-ES": "Esta runa brillante con forma de espiral verde es…"
+        "es-ES": "Esta runa brillante con forma de espiral verde es..."
     },
     "rPPdAg": {
         "en-US": "Dagaz",
@@ -1352,7 +1352,7 @@
     "rvPdAg": {
         "en-US": "This shimmering rune shaped like a light blue fan is...",
         "pt-BR": "A runa brilhante com a forma de ventilador com a cor azul do céu é...",
-        "es-ES": "Esta runa brillante con forma de abanico azul claro es…"
+        "es-ES": "Esta runa brillante con forma de abanico azul claro es..."
     },
     "r/PdAg": {
         "en-US": "Sowilo",
@@ -1367,7 +1367,7 @@
     "sfPdAg": {
         "en-US": "This shimmering rune shaped like a yellow diamond is...",
         "pt-BR": "A runa brilhante com a forma de diamante amarelo está...",
-        "es-ES": "Esta runa brillante con forma de diamante amarillo es…"
+        "es-ES": "Esta runa brillante con forma de diamante amarillo es..."
     },
     "svPdAg": {
         "en-US": "Laguz",
@@ -1382,7 +1382,7 @@
     "tPPdAg": {
         "en-US": "This shimmering rune shaped like a burgundy-red spiral is...",
         "pt-BR": "Essa runa brilhante com uma linha violeta está...",
-        "es-ES": "Esta runa brillante con forma de espiral rojo burdeos…"
+        "es-ES": "Esta runa brillante con forma de espiral rojo burdeos..."
     },
     "tfPdAg": {
         "en-US": "Isia",
@@ -1397,7 +1397,7 @@
     "t/PdAg": {
         "en-US": "This shimmering rune shaped like a silver spiral is...",
         "pt-BR": "A runa brilhante com uma espiral prateada está...",
-        "es-ES": "Esta runa brillante con forma de espiral plateada es…"
+        "es-ES": "Esta runa brillante con forma de espiral plateada es..."
     },
     "uPPdAg": {
         "en-US": "Pertz",
@@ -1412,7 +1412,7 @@
     "uvPdAg": {
         "en-US": "This shimmering rune shaped like a gold star is...",
         "pt-BR": "A runa brilhante com a forma de estrela de ouro está...",
-        "es-ES": "Esta runa brillante con forma de estrella dorada es…"
+        "es-ES": "Esta runa brillante con forma de estrella dorada es..."
     },
     "u/PdAg": {
         "en-US": "Verkana",
@@ -1427,7 +1427,7 @@
     "vfPdAg": {
         "en-US": "This shimmering rune shaped like a yellow cone is...",
         "pt-BR": "A runa brilhante com a forma de cone amarelo está...",
-        "es-ES": "Esta runa brillante con forma de cono amarillo es…"
+        "es-ES": "Esta runa brillante con forma de cono amarillo es..."
     },
     "vvPdAg": {
         "en-US": "Gebo",
@@ -1442,7 +1442,7 @@
     "wPPdAg": {
         "en-US": "This shimmering rune shaped like a green oblique line is...",
         "pt-BR": "A runa brilhante com uma espiral esmeralda está...",
-        "es-ES": "Esta runa brillante con forma de línea oblicua verde es…"
+        "es-ES": "Esta runa brillante con forma de línea oblicua verde es..."
     },
     "wfPdAg": {
         "en-US": "Algiz",
@@ -1457,12 +1457,12 @@
     "w/PdAg": {
         "en-US": "This shimmering rune shaped like a gray diamond is...",
         "pt-BR": "A runa brilhante com a forma de diamante cinza está...",
-        "es-ES": "Esta runa brillante con forma de diamante gris es…"
+        "es-ES": "Esta runa brillante con forma de diamante gris es..."
     },
     "xPPdAg": {
         "en-US": "This shimmering rune shaped like a gold circle is...",
         "pt-BR": "A runa brilhante com a forma de círculo de ouro está...",
-        "es-ES": "Esta runa brillante con forma de círculo dorado es…"
+        "es-ES": "Esta runa brillante con forma de círculo dorado es..."
     },
     "xfPdAg": {
         "en-US": "Teiwaz",
@@ -1477,7 +1477,7 @@
     "x/PdAg": {
         "en-US": "This shimmering rune shaped like a green star is...",
         "pt-BR": "A runa brilhante com a forma de estrela esmeralda está...",
-        "es-ES": "Esta runa brillante con forma de estrella verde es…"
+        "es-ES": "Esta runa brillante con forma de estrella verde es..."
     },
     "yPPdAg": {
         "en-US": "Wunjo",
@@ -1502,7 +1502,7 @@
     "zPPdAg": {
         "en-US": "This shimmering rune shaped like a yellow fan is...",
         "pt-BR": "A runa brilhante com a forma de ventilador com a amarela está...",
-        "es-ES": "Esta runa brillante con forma de abanico amarillo es…"
+        "es-ES": "Esta runa brillante con forma de abanico amarillo es..."
     },
     "zfPdAg": {
         "en-US": "Nosiege",
@@ -1517,7 +1517,7 @@
     "z/PdAg": {
         "en-US": "This shimmering rune shaped like a burgundy-red diamond is...",
         "pt-BR": "A runa brilhante com a forma de diamante violeta está...",
-        "es-ES": "Esta runa brillante con forma de diamante rojo burdeos es…"
+        "es-ES": "Esta runa brillante con forma de diamante rojo burdeos es..."
     },
     "0PPdAg": {
         "en-US": "Ingz",
@@ -1532,7 +1532,7 @@
     "0vPdAg": {
         "en-US": "This shimmering rune shaped like a silver circle is...",
         "pt-BR": "A runa brilhante com a forma de círculo prateado está...",
-        "es-ES": "Esta runa brillante con forma de círculo plateado es…"
+        "es-ES": "Esta runa brillante con forma de círculo plateado es..."
     },
     "0/PdAg": {
         "en-US": "Fehu",
@@ -1547,7 +1547,7 @@
     "1fPdAg": {
         "en-US": "This shimmering rune shaped like a purple oblique line is...",
         "pt-BR": "A runa brilhante com uma espiral violeta está...",
-        "es-ES": "Esta runa brillante con forma de línea oblicua morada es…"
+        "es-ES": "Esta runa brillante con forma de línea oblicua morada es..."
     },
     "1vPdAg": {
         "en-US": "Urj",
@@ -1572,7 +1572,7 @@
     "2vPdAg": {
         "en-US": "[Captain Tigris]\nAh... Hah hah hah. Lenore, cut them some slack, will you? Hey, adventurer. You shouldn't touch things without asking first.",
         "pt-BR": "[Chefe Tigris]\nEi, Renoa, vá com calma com esse Cavaleiro. Você também, é bom que você pare de tocar as coisas sem permissão.",
-        "es-ES": "[Capitán Tigris]\nAh… Ja, ja, ja. Renoa, dale un respiro, ¿quieres? Oye, trotamundos. Pide permiso antes de tocar algo."
+        "es-ES": "[Capitán Tigris]\nAh... Ja, ja, ja. Renoa, dale un respiro, ¿quieres? Oye, trotamundos. Pide permiso antes de tocar algo."
     },
     "2/PdAg": {
         "en-US": "Birth of the Rune Knights",
@@ -2027,7 +2027,7 @@
     "NfTdAg": {
         "en-US": "[Sage Serfeone]\nEverything else... I can't tell you. I can't risk my freedom of movement here by revealing too much to a stranger.",
         "pt-BR": "[Sábio Serpeone]\nMais do que isso... Eu não posso contar mais do que isso. Eu não posso falar tudo o que quiser já que estou representando o meu povo aqui e estou usando um passe especial que permite ficar em seu acampamento.",
-        "es-ES": "[Serpeone, la gran sabia]\nLo demás… no puedo contártelo. No puedo arriesgar mi libertad aquí por contar demasiado a una persona extraña."
+        "es-ES": "[Serpeone, la gran sabia]\nLo demás... no puedo contártelo. No puedo arriesgar mi libertad aquí por contar demasiado a una persona extraña."
     },
     "NvTdAg": {
         "en-US": "[Sage Serfeone]\nWelcome. You must be a Rune Knight candidate. I'm Serfeone.",
@@ -2132,7 +2132,7 @@
     "SvTdAg": {
         "en-US": "[Sage Serfeone]\nMm... Excellent! You've accumulated enough magic energy in you.",
         "pt-BR": "[Sábio Serpeone]\nUmm, isso é ótimo. Quantidade suficiente de energia mágica viva se acumulou no seu corpo.",
-        "es-ES": "[Serpeone, la gran sabia]\nMm… ¡Excelente! Acumulaste suficiente energía mágica en ti."
+        "es-ES": "[Serpeone, la gran sabia]\nMm... ¡Excelente! Acumulaste suficiente energía mágica en ti."
     },
     "S/TdAg": {
         "en-US": "[Sage Serfeone]\nNow, Lenore can teach you how to use the runestones.",
@@ -2222,7 +2222,7 @@
     "XPTdAg": {
         "en-US": "I have to have imagined that... right?",
         "pt-BR": "[Cavaleiro Rúnico Velpino]\nEu não achava que esse candidato chegaria até mim hoje...",
-        "es-ES": "Me lo debo haber imaginado… ¿no?"
+        "es-ES": "Me lo debo haber imaginado... ¿no?"
     },
     "XfTdAg": {
         "en-US": "[Raven Rune Knight Belfino]\nI didn't expect to see any candidate before the end of the day today.",
@@ -2247,7 +2247,7 @@
     "YfTdAg": {
         "en-US": "[Raven Rune Knight Belfino]\n...But not anymore.",
         "pt-BR": "[Cavaleiro Rúnico Velpino]\nO jogo de armas que você usar deve estar dentro do limite de peso de 400. As runas de pedra que serão entregues são: 30 runas de pedra de ataque e 30 runas de pedra de defesa.",
-        "es-ES": "[Caballero rúnico Velpino]\n…Pero ya no."
+        "es-ES": "[Caballero rúnico Velpino]\n...Pero ya no."
     },
     "YvTdAg": {
         "en-US": "[Raven Rune Knight Belfino]\nUnfortunately for us, the Rare Relic Protection Agency has banned the hunting of magic swords.",
@@ -2346,7 +2346,7 @@
     },
     "dfTdAg": {
         "en-US": "Captain Tigris: Rune Knight candidate, if you need help, you can talk to one of us.",
-        "pt-BR": "Capitão Tigris: Candidatos a Cavaleiros Rúnicos… Se você quiser emprestar nossa fala poderosa para um de nós.",
+        "pt-BR": "Capitão Tigris: Candidatos a Cavaleiros Rúnicos... Se você quiser emprestar nossa fala poderosa para um de nós.",
         "es-ES": "Capitán Tigris: Aspirante a Caballero rúnico, si necesitas ayuda, puedes recurrir a cualquiera de nosotros."
     },
     "dvTdAg": {
@@ -2367,7 +2367,7 @@
     "efTdAg": {
         "en-US": "Captain Tigris: Flames of life... rise again!",
         "pt-BR": "Capitão Tigris: Que a chama da vida... queime novamente.",
-        "es-ES": "Capitán Tigris: ¡Llamas de vida… resurjan!"
+        "es-ES": "Capitán Tigris: ¡Llamas de vida... resurjan!"
     },
     "evTdAg": {
         "en-US": "Captain Tigris: Ugly ghosts, go back to your graves!",

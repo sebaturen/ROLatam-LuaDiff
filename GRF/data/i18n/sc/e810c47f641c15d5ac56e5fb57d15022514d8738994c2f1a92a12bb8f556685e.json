@@ -152,7 +152,7 @@
     "vifqAg": {
         "en-US": "[Show Staff]\nHey, you over there!\nHear me out, will you?\nI'm not supposed to say this to anyone else, but--ugh!\nI'm so frustrated, I need to talk. Gaah!",
         "pt-BR": "[Gerente de Desempenho]\nEi, você aí!\nPor favor, escute a minha história.\nNa verdade, não devo contar para ninguém\nMe sinto tão mal que posso enlouquecer.  Oh, puxa.",
-        "es-ES": "[Personal del espectáculo]\n¡Oye, tú, ahí!\nEscúchame, ¿quieres?\nSe supone que no debo decirle esto a nadie más, pero…¡Aj!\nEs tal la frustración que necesito hablar. ¡Aaaa!"
+        "es-ES": "[Personal del espectáculo]\n¡Oye, tú, ahí!\nEscúchame, ¿quieres?\nSe supone que no debo decirle esto a nadie más, pero...¡Aj!\nEs tal la frustración que necesito hablar. ¡Aaaa!"
     },
     "vyfqAg": {
         "en-US": "Not interested.",
@@ -282,7 +282,7 @@
     "2CfqAg": {
         "en-US": "[{0}]\nThat's because...",
         "pt-BR": "[{0}]\n É porque...",
-        "es-ES": "[{0}]\nEso es porque…"
+        "es-ES": "[{0}]\nEso es porque..."
     },
     "2SfqAg": {
         "en-US": "^3131FF{0}^000000.\nGot it?",
@@ -392,7 +392,7 @@
     "7ifqAg": {
         "en-US": "[Dejected Maestro]\n*Sigh...*",
         "pt-BR": "[Trovador Desanimado]\nUff...",
-        "es-ES": "[Trovador abatido]\n*Suspira…*"
+        "es-ES": "[Trovador abatido]\n*Suspira...*"
     },
     "7yfqAg": {
         "en-US": "- There's a Maestro singing some strange song. -",
@@ -597,7 +597,7 @@
     "FyjqAg": {
         "en-US": "[{0}]\nI swear, I fell in love with you the moment I heard your guitar sound for the first time. \nIt sounds so soothing, like a mother singing a lullaby for her baby...  So beautiful, and sad sometimes. You're the greatest artist of this era.",
         "pt-BR": "[{0}]\nOh... Quando eu ouvi a apresentação do Canção de Violão pela primeira vez, me apaixonei por você imediatamente.\nParecia que estava ouvindo a canção de ninar de minha mãe~ Foi tão bonito e emocionante... Você é o melhor artista de nossa geração.",
-        "es-ES": "[{0}]\nTe juro que me enamoré de ti en cuanto oí el sonido de tu guitarra por primera vez. \nSuena tan relajante, como una madre cantándole una canción de cuna a su bebé…  Tan hermoso y triste a veces. Eres el mejor artista de esta época."
+        "es-ES": "[{0}]\nTe juro que me enamoré de ti en cuanto oí el sonido de tu guitarra por primera vez. \nSuena tan relajante, como una madre cantándole una canción de cuna a su bebé...  Tan hermoso y triste a veces. Eres el mejor artista de esta época."
     },
     "GCjqAg": {
         "en-US": "[Song Guitar]\nHeh heh heh! This isn't the first time I heard that, but still, thank you!",
@@ -612,22 +612,22 @@
     "GijqAg": {
         "en-US": "[{0}]\nI so badly wanted to listen to your music and dance to it, like a butterfly...\nMy heart is broken now. Hnnnggg...",
         "pt-BR": "[{0}]\nAgora não posso ouvir a melodia de Canção de Violão~~ Eu queria dançar a sua música como uma linda borboleta.\nTem algum jeito de o meu sonho se realizar agora? *choro*...",
-        "es-ES": "[{0}]\nTenía tantas ganas de escuchar tu música y bailar con ella, como una mariposa…\nAhora tengo el corazón roto. Mmm…"
+        "es-ES": "[{0}]\nTenía tantas ganas de escuchar tu música y bailar con ella, como una mariposa...\nAhora tengo el corazón roto. Mmm..."
     },
     "GyjqAg": {
         "en-US": "[Song Guitar]\nAww, that's...",
         "pt-BR": "[Canção de Violão]\nHuh huh! Não, isso não é...",
-        "es-ES": "[Guitarrista Song]\nAww, eso es…"
+        "es-ES": "[Guitarrista Song]\nAww, eso es..."
     },
     "HCjqAg": {
         "en-US": "[{0}]\nI'm so happy to meet you in person, Song, but it still saddens me that I can't watch you perform in the beautiful snowy village, Lutie. Hnngg...",
         "pt-BR": "[{0}]\nFico muito feliz por conhecê-lo pessoalmente, mas espero ver sua apresentação na linda cidade nevada, Lutie.. *choro*...",
-        "es-ES": "[{0}]\nMe alegro mucho de conocerte en persona, Song, pero aún me entristece no poder verte actuar en la preciosa aldea nevada, Lutie. Mmm…"
+        "es-ES": "[{0}]\nMe alegro mucho de conocerte en persona, Song, pero aún me entristece no poder verte actuar en la preciosa aldea nevada, Lutie. Mmm..."
     },
     "HSjqAg": {
         "en-US": "[{0}]\nSong, please. Why can't you perform?\nI'd love to know. Don't you love me anymore? Hnnggg...",
         "pt-BR": "[{0}]\nPor que você não nos mostra a apresentação, Canção de Violão?\nVocê não gosta de mim? *choro*..",
-        "es-ES": "[{0}]\nSong, por favor. ¿Por qué no puedes actuar?\nMe encantaría saberlo. ¿Ya no me quieres? Mmm…"
+        "es-ES": "[{0}]\nSong, por favor. ¿Por qué no puedes actuar?\nMe encantaría saberlo. ¿Ya no me quieres? Mmm..."
     },
     "HijqAg": {
         "en-US": "[Song Guitar]\nYes, I do!",
@@ -637,12 +637,12 @@
     "HyjqAg": {
         "en-US": "[{0}]\nThen, please tell me why you can't. This sense of sadness I'm feeling is overwhelming... I love you and your music so much...",
         "pt-BR": "[{0}]\nEntão, por favor, me diga. Eu amo a sua música de verdade... mas agora estou tão triste...",
-        "es-ES": "[{0}]\nEntonces, por favor, dime por qué no puedes. Esta sensación de tristeza que tengo es abrumadora… Te quiero tanto a ti y a tu música…"
+        "es-ES": "[{0}]\nEntonces, por favor, dime por qué no puedes. Esta sensación de tristeza que tengo es abrumadora... Te quiero tanto a ti y a tu música..."
     },
     "ICjqAg": {
         "en-US": "[Song Guitar]\nUh-oh. No, please!\nI too want to perform.\nBut I can't do that by myself.",
         "pt-BR": "[Canção de Violão]\nOh, não! você sabe...\nEu também quero dar uma apresentação!\nmas eu não posso fazer ela toda sozinho!!",
-        "es-ES": "[Guitarrista Song]\nAy, no… ¡No, por favor!\nYo también quiero actuar.\nPero no puedo hacerlo solo."
+        "es-ES": "[Guitarrista Song]\nAy, no... ¡No, por favor!\nYo también quiero actuar.\nPero no puedo hacerlo solo."
     },
     "ISjqAg": {
         "en-US": "[Song Guitar]\nGah, this is all because of Kim!\nShe got mad one day and declared she didn't want to be MMFAO anymore.\nSo, I said yes because I was also tired of her mood swings.",
@@ -677,7 +677,7 @@
     "JyjqAg": {
         "en-US": "[Song Guitar]\nBah, I wish she wasn't so difficult to please. No one can dance like she can...\nI don't know why she keeps doing this. Not long ago, she was all smiles because she liked the latest song I'd made.\nNow, I don't have anyone else who can express my music through such beautiful moves. It's all over now. My music, my career... *Mumble, Mumble...",
         "pt-BR": "[Canção de Violão]\nApesar de ela perder a cabeça facilmente, a sua dança é tão maravilhosa...\nNão sei o que estou fazendo de errado. Ela sorriu com tanta felicidade dizendo que gosta muito da música nova. Quem poderá dançar tão maravilhosamente a minha música quanto ela? Agora minha música e minha vida são passado... (cochichando).",
-        "es-ES": "[Guitarrista Song]\nBah, ojalá no fuera tan difícil de complacer. Nadie puede bailar como ella…\nNo sé por qué sigue haciendo esto. No hace mucho, era toda sonrisas porque le gustaba la última canción que había hecho.\nAhora, no tengo a nadie más que pueda expresar mi música con movimientos tan bellos. Se acabó todo. Mi música, mi carrera… *Masculla, masculla…*"
+        "es-ES": "[Guitarrista Song]\nBah, ojalá no fuera tan difícil de complacer. Nadie puede bailar como ella...\nNo sé por qué sigue haciendo esto. No hace mucho, era toda sonrisas porque le gustaba la última canción que había hecho.\nAhora, no tengo a nadie más que pueda expresar mi música con movimientos tan bellos. Se acabó todo. Mi música, mi carrera... *Masculla, masculla...*"
     },
     "KCjqAg": {
         "en-US": "[Song Guitar]\nI bet Kim's playing Monster Races in her hometown, Hugel, like she used to.\nAnd I was the one who found her and made her become so famous.",
@@ -707,7 +707,7 @@
     "LSjqAg": {
         "en-US": "[Dejected Maestro]\nWhere can I find a perfect partner...?",
         "pt-BR": "[Trovador Desanimado]\nOnde está a minha dançarina...",
-        "es-ES": "[Trovador abatido]\n¿Dónde puedo encontrar una pareja perfecta…?"
+        "es-ES": "[Trovador abatido]\n¿Dónde puedo encontrar una pareja perfecta...?"
     },
     "LijqAg": {
         "en-US": "Blank-eyed Woman",
@@ -722,7 +722,7 @@
     "MCjqAg": {
         "en-US": "[Blank-eyed Woman]\n...*Sniffle...*",
         "pt-BR": "[Moça Forasteira]\n*choro*...",
-        "es-ES": "[Mujer de mirada perdida]\n…*Solloza…*"
+        "es-ES": "[Mujer de mirada perdida]\n...*Solloza...*"
     },
     "MSjqAg": {
         "en-US": "[Blank-eyed Woman]\nI dumped my dream. Boohoo!",
@@ -742,7 +742,7 @@
     "NCjqAg": {
         "en-US": "[Blank-eyed Woman]\nWell, that's... Boohoo!",
         "pt-BR": "[Moça Forasteira]\n É porque... choro... choro!",
-        "es-ES": "[Mujer de mirada perdida]\nBueno, eso es… ¡Buaahaa!"
+        "es-ES": "[Mujer de mirada perdida]\nBueno, eso es... ¡Buaahaa!"
     },
     "NSjqAg": {
         "en-US": "You can tell me everything.",
@@ -772,7 +772,7 @@
     "OijqAg": {
         "en-US": "[Blank-eyed Woman]\nBut then...",
         "pt-BR": "[Moça Forasteira]\nMas...",
-        "es-ES": "[Mujer de mirada perdida]\nPero entonces…"
+        "es-ES": "[Mujer de mirada perdida]\nPero entonces..."
     },
     "OyjqAg": {
         "en-US": "Then, what happened?",
@@ -792,7 +792,7 @@
     "PijqAg": {
         "en-US": "[Blank-eyed Woman]\nI was flabbergasted. My own companion kicked me out of my own room!\nAt first, I thought he was just messing with me. But the look on his face when he pushed me out of the room...",
         "pt-BR": "[Moça Forasteira]\nEstávamos juntos há tanto tampo, como ele pode fazer isso comigo?\nA princípio, achei que ele estava apenas brincando comigo! Mas quando ele me colocou para fora do meu quarto...",
-        "es-ES": "[Mujer de mirada perdida]\nMe quedé sin palabras. ¡Mi propio compañero me echó de mi propia habitación!\nAl principio, pensé que me estaba tomando el pelo. Pero la expresión de su rostro cuando me empujó fuera de la habitación…"
+        "es-ES": "[Mujer de mirada perdida]\nMe quedé sin palabras. ¡Mi propio compañero me echó de mi propia habitación!\nAl principio, pensé que me estaba tomando el pelo. Pero la expresión de su rostro cuando me empujó fuera de la habitación..."
     },
     "PyjqAg": {
         "en-US": "[Blank-eyed Woman]\nWhy didn't he recognize me? Is that because I didn't have my makeup on? Boohoo!",
@@ -817,7 +817,7 @@
     "QyjqAg": {
         "en-US": "[Blank-eyed Woman]\nNo, I didn't.\nI had to because...",
         "pt-BR": "[Moça Forasteira]\nVocê tem razão. Não é apenas por causa disso.\nO verdadeiro motivo pelo qual eu abandonei a equipe é...",
-        "es-ES": "[Mujer de mirada perdida]\nNo, no lo hice.\nTuve que hacerlo porque…"
+        "es-ES": "[Mujer de mirada perdida]\nNo, no lo hice.\nTuve que hacerlo porque..."
     },
     "RCjqAg": {
         "en-US": "[Blank-eyed Woman]\nThat day, I was so disappointed in Song that I came back home to Hugel. Seede saw how depressed I was and brought me some sweet cake.",
@@ -827,7 +827,7 @@
     "RSjqAg": {
         "en-US": "[Blank-eyed Woman]\nAnd Seede makes the best cake in the world!\nA soft sponge cake covered with dark chocolate cream and topped with fresh fruits... It's famous everywhere in Hugel.",
         "pt-BR": "[Moça Forasteira]\nO bolo de Shide é tão maravilhoso!\n É o bolo mais famoso de Hugel com massa macia, frutas frescas e um doce creme de chocolate!",
-        "es-ES": "[Mujer de mirada perdida]\n¡Y Seede hace el mejor pastel del mundo!\nUn esponjoso pastel cubierto de crema de chocolate amargo y frutas frescas… Es famoso en todas partes en Hugel."
+        "es-ES": "[Mujer de mirada perdida]\n¡Y Seede hace el mejor pastel del mundo!\nUn esponjoso pastel cubierto de crema de chocolate amargo y frutas frescas... Es famoso en todas partes en Hugel."
     },
     "RijqAg": {
         "en-US": "[Blank-eyed Woman]\nAnd it took away my depression at once. I felt as if I was surrounded by fairies of happiness.",
@@ -837,12 +837,12 @@
     "RyjqAg": {
         "en-US": "[Blank-eyed Woman]\nSo... I let them console me all day... every day.",
         "pt-BR": "[Moça Forasteira]\nEntão, eu o comi toda manhã e toda noite.",
-        "es-ES": "[Mujer de mirada perdida]\nAsí que… Dejo que me consuelen todo el día… todos los días."
+        "es-ES": "[Mujer de mirada perdida]\nAsí que... Dejo que me consuelen todo el día... todos los días."
     },
     "SCjqAg": {
         "en-US": "Oh, no...!",
         "pt-BR": "Oh, você não poderia...",
-        "es-ES": "¡Oh, no…!"
+        "es-ES": "¡Oh, no...!"
     },
     "SSjqAg": {
         "en-US": "[Blank-eyed Woman]\nThey took away my depression and gave me love handles in return. Boohoo!",
@@ -862,7 +862,7 @@
     "TCjqAg": {
         "en-US": "[Blank-eyed Woman]\nA while ago, I was a beautiful butterfly. Now, I'm... a fat pigeon! Boohoo!\nMy life as a Wanderer is over now. *Sob*",
         "pt-BR": "[Moça Forasteira]\nHá pouco tempo, eu era como um lindo pássaro, mas agora sou só uma galinha gorda. *choro*...!\nAcho que agora a vida da Musa Odalisca Kim acabou. Buááááá buáááá!",
-        "es-ES": "[Mujer de mirada perdida]\nHace un tiempo, yo era una hermosa mariposa. Ahora, soy… ¡una paloma gorda! ¡Buaahaa!\nMi vida como Nómada se terminó. *Solloza*"
+        "es-ES": "[Mujer de mirada perdida]\nHace un tiempo, yo era una hermosa mariposa. Ahora, soy... ¡una paloma gorda! ¡Buaahaa!\nMi vida como Nómada se terminó. *Solloza*"
     },
     "TSjqAg": {
         "en-US": "Don't give up.",
@@ -877,7 +877,7 @@
     "TyjqAg": {
         "en-US": "[Kim Dancer]\nI'll never get over this...",
         "pt-BR": "[Odalisca Kim]\nEu acho que jamais escaparei desse desespero profundo...",
-        "es-ES": "[La bailarina Kim]\nNunca superaré esto…"
+        "es-ES": "[La bailarina Kim]\nNunca superaré esto..."
     },
     "UCjqAg": {
         "en-US": "[Kim Dancer]\nI already said goodbye to Song, too.\nIt's over. Even if it's not, I can't do anything right now.",
@@ -917,7 +917,7 @@
     "VyjqAg": {
         "en-US": "[Kim Dancer]\nI'm hopeless, too...",
         "pt-BR": "[Odalisca Kim]\nNão tenho esperanças...",
-        "es-ES": "[La bailarina Kim]\nYo también me siento impotente…"
+        "es-ES": "[La bailarina Kim]\nYo también me siento impotente..."
     },
     "WCjqAg": {
         "en-US": "[Kim Dancer]\nYou'll work out with me.\nReally?",
@@ -962,7 +962,7 @@
     "YCjqAg": {
         "en-US": "[Blank-eyed Woman]\nWhere can I find a perfect partner...?",
         "pt-BR": "[Moça Forasteira]\nOnde está o meu parceiro...",
-        "es-ES": "[Mujer de ojos blancos]\n¿Dónde puedo encontrar una pareja perfecta…?"
+        "es-ES": "[Mujer de ojos blancos]\n¿Dónde puedo encontrar una pareja perfecta...?"
     },
     "YSjqAg": {
         "en-US": "Kim Dancer",
@@ -1002,7 +1002,7 @@
     "aCjqAg": {
         "en-US": "[Kim Dancer]\nAlright, then ready... set...\nGo!",
         "pt-BR": "[Odalisca Kim]\n Ótimo! Então preparar, apontar~~\nJá!",
-        "es-ES": "[La bailarina Kim]\nMuy bien, entonces, en sus marcas… Listos…\n¡Fuera!"
+        "es-ES": "[La bailarina Kim]\nMuy bien, entonces, en sus marcas... Listos...\n¡Fuera!"
     },
     "aSjqAg": {
         "en-US": "[Kim Dancer]\nHuff, huff.\nYou won. Teehee!",
@@ -1072,7 +1072,7 @@
     "dijqAg": {
         "en-US": "[Kim Dancer]\nErr...?",
         "pt-BR": "[Odalisca Kim]\nHã...?",
-        "es-ES": "[La bailarina Kim]\n¿Eh…?"
+        "es-ES": "[La bailarina Kim]\n¿Eh...?"
     },
     "dyjqAg": {
         "en-US": "[Kim Dancer]\nPlease, tell Song Guitar I'll wait for him in Lutie.",
@@ -1087,7 +1087,7 @@
     "eSjqAg": {
         "en-US": "Kim Dancer: Sheesh, how can you be so fast? I've only hunted a few now...",
         "pt-BR": "Odalisca Kim: Ah, como você é tão ágil? Matei apenas alguns...",
-        "es-ES": "La bailarina Kim: Vaya, ¿cómo puedes hacerlo tan rápido? Solo he cazado unos pocos…"
+        "es-ES": "La bailarina Kim: Vaya, ¿cómo puedes hacerlo tan rápido? Solo he cazado unos pocos..."
     },
     "eijqAg": {
         "en-US": "Kim Dancer: Hiyah! Wait for me, Novuses!",
@@ -1107,7 +1107,7 @@
     "fSjqAg": {
         "en-US": "Kim Dancer: Ah! My nail broke! How depressing! Should I just quit...?",
         "pt-BR": "Odalisca Kim: Aahh, minha unha quebrou! Que coisa... Devo desistir...?",
-        "es-ES": "La bailarina Kim: ¡Ah! ¡Se me rompió la uña! ¡Qué deprimente! ¿Debería abandonar…?"
+        "es-ES": "La bailarina Kim: ¡Ah! ¡Se me rompió la uña! ¡Qué deprimente! ¿Debería abandonar...?"
     },
     "fijqAg": {
         "en-US": "- You don't meet the conditions to perform this quest. -",

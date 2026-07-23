@@ -57,7 +57,7 @@
     "y5PlAg": {
         "en-US": "[Girl]\nHmm... You're not ready.\nNot ready at all.",
         "pt-BR": "[Garota]\nHmm... Você não está pronto.\nNem um pouco pronto.",
-        "es-ES": "[Chica]\n Mmm… No estás preparado.\n Para nada."
+        "es-ES": "[Chica]\n Mmm... No estás preparado.\n Para nada."
     },
     "zJPlAg": {
         "en-US": "[Girl]\nWhat?\nI have no business with you.",
@@ -77,7 +77,7 @@
     "z5PlAg": {
         "en-US": "[Rote]\nWell... The only number-based password I know is 3847147298.\nWhat's this? Who wrote a village name in numbers?",
         "pt-BR": "[Lotte]\nHumm, '44231522113215'. Esta é a única coisa que eu usei em...\nEntão, por que eles usariam números para nomear os aldeões?",
-        "es-ES": "[Rote]\n Bueno… La única contraseña con números que conozco es 3847147298.\n ¿Qué es esto? ¿Quién escribió el nombre de una aldea con números?"
+        "es-ES": "[Rote]\n Bueno... La única contraseña con números que conozco es 3847147298.\n ¿Qué es esto? ¿Quién escribió el nombre de una aldea con números?"
     },
     "0JPlAg": {
         "en-US": "[Rote]\nVin, he's just trying to make fun of our lack of intelligence.",
@@ -127,7 +127,7 @@
     "2ZPlAg": {
         "en-US": "[Vin]\nUgh... I've never been good with numbers.\nGah! Take this out of my face!",
         "pt-BR": "[Vin]\nAh, eu não meu saí bem com números...\nJamais farei aquilo novamente!",
-        "es-ES": "[Vin]\n Uf… Nunca se me dieron bien los números.\n ¡Ah! ¡Quítame esto del rostro!"
+        "es-ES": "[Vin]\n Uf... Nunca se me dieron bien los números.\n ¡Ah! ¡Quítame esto del rostro!"
     },
     "2pPlAg": {
         "en-US": "[Vin]\nHeek! Th-this is the first time I meet a Shadow Chaser.\nI can't believe my own eyes!\nAt the same time... have we met before?",
@@ -137,7 +137,7 @@
     "25PlAg": {
         "en-US": "[Vin]\nHm...\nHmmm...\nEek! Whatever! Okay, I admit I'm stupid!",
         "pt-BR": "[Vin]\nHumm...\n..........\nOh, nossa! Eu não consigo lembrar...!",
-        "es-ES": "[Vin]\n Mmm…\n Mmmm…\n ¡Ay! ¡Como sea! Bueno, ¡admito mi estupidez!"
+        "es-ES": "[Vin]\n Mmm...\n Mmmm...\n ¡Ay! ¡Como sea! Bueno, ¡admito mi estupidez!"
     },
     "3JPlAg": {
         "en-US": "[Vin]\nUgh, who are you?\nWe're having lots of guests today.",
@@ -162,12 +162,12 @@
     "4JPlAg": {
         "en-US": "[Rote]\nUgh... I've never been good with numbers.\nGah! Take this out of my face!",
         "pt-BR": "[Lotte]\nAh, eu sou péssimo com números.\nNão vou lidar com eles!",
-        "es-ES": "[Rote]\n Uf… Nunca se me dieron bien los números.\n ¡Ah! ¡Quítame esto del rostro!"
+        "es-ES": "[Rote]\n Uf... Nunca se me dieron bien los números.\n ¡Ah! ¡Quítame esto del rostro!"
     },
     "4ZPlAg": {
         "en-US": "[Rote]\nWh-whoa...!\nWh-whoa, y-you're...!\nOne of those Rogues who are especially bright and artistic,\nenough to control people's feelings with their exquisite brushstrokes.",
         "pt-BR": "[Lotte]\nUau!\nVocê é o escolhido!\nExtraordinariamente inteligente e emocionalmente avançado...",
-        "es-ES": "[Rote]\n ¡G-guau…!\n ¡T-tú eres…!\n Uno de esos Pícaros que son particularmente brillantes y artísticos,\n lo suficiente para controlar los sentimientos de la gente con sus exquisitas pinceladas."
+        "es-ES": "[Rote]\n ¡G-guau...!\n ¡T-tú eres...!\n Uno de esos Pícaros que son particularmente brillantes y artísticos,\n lo suficiente para controlar los sentimientos de la gente con sus exquisitas pinceladas."
     },
     "4pPlAg": {
         "en-US": "[Rote]\nA Shadow Chaser!\nWhoa! Can I\never be one?",
@@ -177,7 +177,7 @@
     "45PlAg": {
         "en-US": "[Rote]\nGrr... Whatever. I don't care! Boo! Booo!",
         "pt-BR": "[Lotte]\nNão preciso de nada.",
-        "es-ES": "[Rote]\n Grrr… Como sea. ¡No me importa! ¡Buu! ¡Buuu!"
+        "es-ES": "[Rote]\n Grrr... Como sea. ¡No me importa! ¡Buu! ¡Buuu!"
     },
     "5JPlAg": {
         "en-US": "Scary Man",
@@ -242,7 +242,7 @@
     "8JPlAg": {
         "en-US": "Urpa produces and shows me a board with numbers written on it.\nThey are...",
         "pt-BR": "Urpa pega uma prancheta e me mostra, com ar misterioso, uma tábua cheia de números escritos.\nEles são...",
-        "es-ES": "Urpa hace aparecer un tablero con números escritos y me lo muestra.\n Es…"
+        "es-ES": "Urpa hace aparecer un tablero con números escritos y me lo muestra.\n Es..."
     },
     "8ZPlAg": {
         "en-US": "^4D4DFF\n43231114345243\n11441531241542\n2433\n3542343344154211\n^000000",
@@ -277,7 +277,7 @@
     "95PlAg": {
         "en-US": "[Urpa]\nAlright, let me explain it to you again.\n3511543433\nmeans Payon.\nHow, you ask?",
         "pt-BR": "[Urupa]\nOs números devem ser colocados em pares.\n3511543433 !\n35, 11, 54, 34, 33 se dividem em 5 pares!",
-        "es-ES": "[Urpa]\n Muy bien, te lo explicaré otra vez.\n 3511543433\n significa Payon.\n ¿Cómo? Te preguntarás…"
+        "es-ES": "[Urpa]\n Muy bien, te lo explicaré otra vez.\n 3511543433\n significa Payon.\n ¿Cómo? Te preguntarás..."
     },
     "+JPlAg": {
         "en-US": "[Urpa]\nThat concludes my explanation.\nNow, it's up to you to find the answer.",
@@ -297,7 +297,7 @@
     "+5PlAg": {
         "en-US": "[Urpa]\nYou're a Shadow Chaser now.\nMm... I knew it, of course.\nThat we Shadow Chasers use these problems to recruit new members.\nWe often come here to recruit potential candidates.",
         "pt-BR": "[Urupa]\nEntão você é um Renegado agora.\nHmm... Eu sabia, é claro.\nNós, Renegados, usamos esses enigmas para recrutar novos membros.\nCostumamos vir aqui com frequência para encontrar candidatos em potencial.",
-        "es-ES": "[Urpa]\n Ahora eres un Perseguidor de sombras.\n Mm… Claro que lo sabía.\n Que los Perseguidores de sombras usamos estos problemas para reclutar nuevos miembros.\n A veces, venimos aquí a reclutar posibles candidatos."
+        "es-ES": "[Urpa]\n Ahora eres un Perseguidor de sombras.\n Mm... Claro que lo sabía.\n Que los Perseguidores de sombras usamos estos problemas para reclutar nuevos miembros.\n A veces, venimos aquí a reclutar posibles candidatos."
     },
     "/JPlAg": {
         "en-US": "[Urpa]\nHow are you?\nI'm fine, as you can see.\nI'm still young enough to stay in the field.",
@@ -327,7 +327,7 @@
     "AZTlAg": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "ApTlAg": {
         "en-US": "[Manager]\nAh, this is why you came all the way here.\nAlright, then what's the answer to this password?\nCan you tell me?",
@@ -447,7 +447,7 @@
     "GZTlAg": {
         "en-US": "[Graham]\nIf you assign the numbers to the letters, they are...\n13-15-18-15-3-3-18-21-9-14\nM-O-R-O-C-C-R-U-I-N",
         "pt-BR": "[Graham]\nVamos ver. Por exemplo:\n18 21 9 14 1 19 4 5 13 15 18 18 15 3 = \nR U Í N A S D E M O R R O C",
-        "es-ES": "[Graham]\n Si asignas estos números a las letras, verás que…\n 18-21-9-14-1-13-15-18-18-15-3\n R-U-I-N-A-M-O-R-R-O-C"
+        "es-ES": "[Graham]\n Si asignas estos números a las letras, verás que...\n 18-21-9-14-1-13-15-18-18-15-3\n R-U-I-N-A-M-O-R-R-O-C"
     },
     "GpTlAg": {
         "en-US": "[Graham]\nAs you can see, 3 equals C.\nWhere is C in the order of the English alphabets?\nThird, isn't it?",
@@ -567,12 +567,12 @@
     "MZTlAg": {
         "en-US": "[Graham]\nDeception!\nLies, falsehood--complete hoax!",
         "pt-BR": "[Graham]\nQue enganação!\nVocê está me enganando!",
-        "es-ES": "[Graham]\n ¡Qué engaño!\n Mentiras, falsedades… ¡Es un completo fraude!"
+        "es-ES": "[Graham]\n ¡Qué engaño!\n Mentiras, falsedades... ¡Es un completo fraude!"
     },
     "MpTlAg": {
         "en-US": "[Graham]\nBut... is that all?\nJust a single key?\nIt means deception at that.\nThis is not the treasure I was looking for.",
         "pt-BR": "[Graham]\nIsso é tudo? \nSó uma chave.\nQue enganação!\nPensei que era algum tesouro.",
-        "es-ES": "[Graham]\n Pero… ¿eso es todo?\n ¿Tan solo una llave?\n Eso no es más que un engaño.\n No es el tesoro que estaba buscando."
+        "es-ES": "[Graham]\n Pero... ¿eso es todo?\n ¿Tan solo una llave?\n Eso no es más que un engaño.\n No es el tesoro que estaba buscando."
     },
     "M5TlAg": {
         "en-US": "[Graham]\nHah hah. I feel as if I got punched in the face.\nOh, well.\nThe passwords are split among the Workshop branches.",
@@ -582,7 +582,7 @@
     "NJTlAg": {
         "en-US": "[Graham]\nHm, okay. I'll tell you where the rest of them are.\nJuno and Rachel.",
         "pt-BR": "[Graham]\nCerto, há mais galerias além desta...\nJuno e Rachel têm os códigos...",
-        "es-ES": "[Graham]\n Mm… de acuerdo. Te diré dónde están las demás.\n En Juno y Rachel."
+        "es-ES": "[Graham]\n Mm... de acuerdo. Te diré dónde están las demás.\n En Juno y Rachel."
     },
     "NZTlAg": {
         "en-US": "[Graham]\nThis is just my guess, but I bet even the other passwords have nothing to do with treasures.\nEmphasize that when you ask the branches for their passwords.",
@@ -642,7 +642,7 @@
     "QJTlAg": {
         "en-US": "[Graham]\nOf course, ordinary people think of it as a place to buy antiques and art supplies, but...\nAnyway, you get what I mean.",
         "pt-BR": "[Graham]\nAs pessoas acham que estamos apenas trocando as coisas...\nMas estamos aqui por motivos muito especiais.",
-        "es-ES": "[Graham]\n La gente común y corriente piensa que es un lugar donde comprar antigüedades y suministros artísticos, pero…\n En fin, ya me entiendes."
+        "es-ES": "[Graham]\n La gente común y corriente piensa que es un lugar donde comprar antigüedades y suministros artísticos, pero...\n En fin, ya me entiendes."
     },
     "QZTlAg": {
         "en-US": "[Graham]\nGo to ^4D4DFFRachel's Shadow Workshop^000000 and pick up its clue.\nIt'll cooperate with you if you emphasize enough the importance of putting all the clues together.\nGet it?",
@@ -722,7 +722,7 @@
     "UJTlAg": {
         "en-US": "[Max]\nI have a pre-made brush here somewhere...\nMm...",
         "pt-BR": "[Max]\nAqui está o que você precisa.",
-        "es-ES": "[Max]\n Tengo un pincel ya hecho por aquí…\n Mm…"
+        "es-ES": "[Max]\n Tengo un pincel ya hecho por aquí...\n Mm..."
     },
     "UZTlAg": {
         "en-US": "[Max]\nThere you go.\nNow, enjoy!",
@@ -817,7 +817,7 @@
     "Y5TlAg": {
         "en-US": "[Manager]\nMm? This key...\nDid Graham ask you to give it to me?",
         "pt-BR": "[Gerente]\nEntão, essa chave foi enviada por ele.",
-        "es-ES": "[Administrador]\n ¿Mm? Esta llave…\n ¿Graham te pidió que me la dieras?"
+        "es-ES": "[Administrador]\n ¿Mm? Esta llave...\n ¿Graham te pidió que me la dieras?"
     },
     "ZJTlAg": {
         "en-US": "No. I've found it with one of the clues.",
@@ -842,12 +842,12 @@
     "aJTlAg": {
         "en-US": "[Manager]\n...\nMm...",
         "pt-BR": "[Gerente]\n...........\nHumm....",
-        "es-ES": "[Administrador]\n …\n Mm…"
+        "es-ES": "[Administrador]\n ...\n Mm..."
     },
     "aZTlAg": {
         "en-US": "[Manager]\n*Groan...*",
         "pt-BR": "[Gerente]\nHum...",
-        "es-ES": "[Administrador]\n *Quejido…*"
+        "es-ES": "[Administrador]\n *Quejido...*"
     },
     "apTlAg": {
         "en-US": "- The Rachel branch manager debated sharing his information with me. -\n- After a while, he resignedly produced a piece of paper from his jacket. -",
@@ -862,17 +862,17 @@
     "bJTlAg": {
         "en-US": "[Paul]\nOh, by the way, name's Paul.\n...\nNot because I'm short, of course.",
         "pt-BR": "[Gerente]\nEnfim, o meu nome é Paul.\n...........",
-        "es-ES": "[Paul]\n Ah, por cierto, me llamo Paul.\n …\n No tiene que ver con que sea bajo, por supuesto."
+        "es-ES": "[Paul]\n Ah, por cierto, me llamo Paul.\n ...\n No tiene que ver con que sea bajo, por supuesto."
     },
     "bZTlAg": {
         "en-US": "[Paul]\n*Sigh...* This clue was way too easy\nthat I already solved it.",
         "pt-BR": "[Paul]\nNaturalmente...\neu já solucionei a pista.",
-        "es-ES": "[Paul]\n *Suspira…* Esta pista era tan fácil\n que ya la resolví."
+        "es-ES": "[Paul]\n *Suspira...* Esta pista era tan fácil\n que ya la resolví."
     },
     "bpTlAg": {
         "en-US": "- The piece of paper Paul showed me had... -",
         "pt-BR": "- Aqui está o papel que -\n- Paul entregou. -",
-        "es-ES": "(El trozo de papel que Paul me mostró decía lo siguiente…)"
+        "es-ES": "(El trozo de papel que Paul me mostró decía lo siguiente...)"
     },
     "b5TlAg": {
         "en-US": "R-E-N-N-N-D\nL-N-N-W-W-N-D",
@@ -892,7 +892,7 @@
     "cpTlAg": {
         "en-US": "...No.",
         "pt-BR": "Eu não tenho a menor ideia.",
-        "es-ES": "…No."
+        "es-ES": "...No."
     },
     "c5TlAg": {
         "en-US": "[Paul]\nYou do? Good, then you can tell me what it means.\nTell me what these strings\nof letters mean.",
@@ -922,7 +922,7 @@
     "eJTlAg": {
         "en-US": "[Paul]\nOh, right--you should memorize this, too.\nYou'll need it. It came with that password as a pair. I believe it's a keyword of some sort.",
         "pt-BR": "[Paul]\nMemorize isso.\nVocê pode precisar. Pode ser uma pista para você.",
-        "es-ES": "[Paul]\n Ah, cierto… también deberías memorizar esto.\n Lo necesitarás. Venía junto con esa contraseña. Creo que es una palabra clave de algún tipo."
+        "es-ES": "[Paul]\n Ah, cierto... también deberías memorizar esto.\n Lo necesitarás. Venía junto con esa contraseña. Creo que es una palabra clave de algún tipo."
     },
     "eZTlAg": {
         "en-US": "[Paul]\n'' S E E D ''\nSeed.\nWhatever it means, it should be helpful to you.",
@@ -932,7 +932,7 @@
     "epTlAg": {
         "en-US": "[Paul]\n'' F O O T ''\n...Foot?\nWhatever it means, it should be helpful to you.",
         "pt-BR": "[Paul]\n[ P É ]\nPÉ?\nEu não sei o que isso realmente significa, mas seria útil para você descobrir.",
-        "es-ES": "[Paul]\n P I E \n ¿Pie…?\n No sé qué significa, pero debería serte útil."
+        "es-ES": "[Paul]\n P I E \n ¿Pie...?\n No sé qué significa, pero debería serte útil."
     },
     "e5TlAg": {
         "en-US": "[Paul]\n'' C O L D ''\nCold.\nWhatever it means, it should be helpful to you.",
@@ -977,7 +977,7 @@
     "g5TlAg": {
         "en-US": "I can't do this...",
         "pt-BR": "Não posso fazer isso...",
-        "es-ES": "No puedo hacerlo…"
+        "es-ES": "No puedo hacerlo..."
     },
     "hJTlAg": {
         "en-US": "[Paul]\nOh, no.\nPlease don't be disappointed, just yet.\nHow about I give you a hint?\nDo you have a compass? Why don't you take a look at it?",
@@ -997,7 +997,7 @@
     "h5TlAg": {
         "en-US": "[Paul]\nYou and Graham are so sure this will work.\nGo find whatever you can.\nAnd if my clues lead you to the real treasure...",
         "pt-BR": "[Paul]\nComo você e Graham mencionaram.\nVá e descubra.",
-        "es-ES": "[Paul]\n Tú y Graham están muy seguros de que esto funcionará.\n Ve a ver qué encuentras\n y si mis pistas te llevan al verdadero tesoro…"
+        "es-ES": "[Paul]\n Tú y Graham están muy seguros de que esto funcionará.\n Ve a ver qué encuentras\n y si mis pistas te llevan al verdadero tesoro..."
     },
     "iJTlAg": {
         "en-US": "[Paul]\nI don't have to say what I want, do I?\nI want you to bring it here.",
@@ -1042,7 +1042,7 @@
     "kJTlAg": {
         "en-US": "That's... ugh...",
         "pt-BR": "Hum...",
-        "es-ES": "Eso es… uf…"
+        "es-ES": "Eso es... uf..."
     },
     "kZTlAg": {
         "en-US": "- I gave the Key of Illusion from the Ice Cave to Paul, who was looking at me with anticipation. -",
@@ -1062,7 +1062,7 @@
     "lJTlAg": {
         "en-US": "[Paul]\nWhat do I do now...?\nThat young jerk from Lighthalzen\nfights dirty.\nYes, we should ask for help from Halled in Juno.",
         "pt-BR": "[Paul]\nÉ bastante desafiador lidar com o jovem em Lighthalzen...\nEntão, é melhor pedirmos ajuda de Haled...",
-        "es-ES": "[Paul]\n ¿Qué hago ahora…?\n Ese joven idiota de Lighthalzen\n juega sucio.\n Sí, deberíamos pedir ayuda a Halled en Juno."
+        "es-ES": "[Paul]\n ¿Qué hago ahora...?\n Ese joven idiota de Lighthalzen\n juega sucio.\n Sí, deberíamos pedir ayuda a Halled en Juno."
     },
     "lZTlAg": {
         "en-US": "[Paul]\nHey, buddy.\nIf you go to Juno,\nthere's the Shadow Workshop's Juno branch on the book street.",
@@ -1072,7 +1072,7 @@
     "lpTlAg": {
         "en-US": "[Paul]\nShow your keys to its manager, Halled, and ask for his password.\nGeez...",
         "pt-BR": "[Paul]\nEntão, você pode pedir para ele pegar a senha?\nHum...",
-        "es-ES": "[Paul]\n Muéstrale la llave a Halled, el administrador, y pídele su contraseña.\n Cielos…"
+        "es-ES": "[Paul]\n Muéstrale la llave a Halled, el administrador, y pídele su contraseña.\n Cielos..."
     },
     "l5TlAg": {
         "en-US": "[Paul]\nI have a feeling that red head at HQ is toying with us,\nbut what can I do now?\nI might as well find out what these passwords and keys mean and see where it goes.",
@@ -1101,13 +1101,13 @@
     },
     "nJTlAg": {
         "en-US": "[Paul]\nHah hah... Hah hah hah... Mwa hah hah hah!\nAww, my belly!",
-        "pt-BR": "[Paul]\nKkkkkkkkkkkkkkkkk",
-        "es-ES": "[Paul]\n Ja, ja… Ja, ja, ja… ¡Mua, ja, ja, ja!\n Ay, ¡mi barriga!"
+        "pt-BR": "[Paul]\nMuahaha... muahaha... muahaha!\nAi... minha barriga!",
+        "es-ES": "[Paul]\n Ja, ja... Ja, ja, ja... ¡Mua, ja, ja, ja!\n Ay, ¡mi barriga!"
     },
     "nZTlAg": {
         "en-US": "[Paul]\nI knew it was a cliche, but...\nI can't believe it actually happened!",
         "pt-BR": "[Paul]\nAgora eu quase adivinhei o que poderia acontecer mais tarde...\nNão pode ter acontecido isso!",
-        "es-ES": "[Paul]\n Sabía que era un cliché, pero…\n ¡No puedo creer que haya sucedido de verdad!"
+        "es-ES": "[Paul]\n Sabía que era un cliché, pero...\n ¡No puedo creer que haya sucedido de verdad!"
     },
     "npTlAg": {
         "en-US": "[Paul]\nSurprised?\nPlease don't be upset.\nAt least you've met good people. Hah hah hah!",
@@ -1197,7 +1197,7 @@
     "r5TlAg": {
         "en-US": "[Halled]\nMm... Graham and Paul sent you.\nI thought you came to borrow money in exchange for some stupid old document or fossil.",
         "pt-BR": "[Haled]\nHumm. Você foi enviado por Graham e Paul?\nPensei que você tivesse vindo aqui só para ganhar dinheiro com peças de fóssil.",
-        "es-ES": "[Halled]\n Mm… Graham y Paul te enviaron.\n Pensé que habías venido a pedir dinero a cambio de algún estúpido documento antiguo o algún fósil."
+        "es-ES": "[Halled]\n Mm... Graham y Paul te enviaron.\n Pensé que habías venido a pedir dinero a cambio de algún estúpido documento antiguo o algún fósil."
     },
     "sJTlAg": {
         "en-US": "[Halled]\nPoor scholars would do that for quick money.\nAnd we've accepted them often enough to have gained a reputation as an unofficial pawnshop.",
@@ -1217,7 +1217,7 @@
     "s5TlAg": {
         "en-US": "[Halled]\n...So,\nyou're saying\nwhat we split among ourselves, thinking it had to do with a treasure,\nled you to these mysterious keys.",
         "pt-BR": "[Haled]\nEntão...\nEu entendo perfeitamente.\nÉ o local dessa chave que\nmostrou a informação!",
-        "es-ES": "[Halled]\n … me estás diciendo\n que lo que dividimos entre nosotros, pensando que tenía que ver con un tesoro,\n te condujo a estas misteriosas llaves."
+        "es-ES": "[Halled]\n ... me estás diciendo\n que lo que dividimos entre nosotros, pensando que tenía que ver con un tesoro,\n te condujo a estas misteriosas llaves."
     },
     "tJTlAg": {
         "en-US": "[Halled]\nAlright, then we've got two keys now. What if my information leads to the real treasure chest that these keys open?",
@@ -1237,17 +1237,17 @@
     "t5TlAg": {
         "en-US": "[{0}]\nYou're not going to cooperate with us, are you?\nWell, Rachel Manager Paul said...",
         "pt-BR": "[{0}]\nPaul disse...\nNão posso lidar com isso.",
-        "es-ES": "[{0}]\n No cooperarás con nosotros, ¿no?\n Bueno, Paul, el administrador de Rachel, dijo que te dijera…"
+        "es-ES": "[{0}]\n No cooperarás con nosotros, ¿no?\n Bueno, Paul, el administrador de Rachel, dijo que te dijera..."
     },
     "uJTlAg": {
         "en-US": "[{0}]\nYou're not going to cooperate with us, are you?\nWell, Rachel Manager Paul said...\n''{1}''",
         "pt-BR": "[{0}]\nNão posso lidar com isso.\nPaul disse...\n'{1}' .",
-        "es-ES": "[{0}]\n No cooperarás con nosotros, ¿no?\n Bueno, Paul, el administrador de Rachel, dijo que te dijera…\n {1}"
+        "es-ES": "[{0}]\n No cooperarás con nosotros, ¿no?\n Bueno, Paul, el administrador de Rachel, dijo que te dijera...\n {1}"
     },
     "uZTlAg": {
         "en-US": "[Halled]\nAck, that schmuck...\nSo, he knows...\nUgh... *Groan...*\nO-okay, I'll cooperate.\nI will.",
         "pt-BR": "[Haled]\nEi... Ele...\nsabia de tudo...\nHum...\nNão posso ajudar.\nVou cooperar.",
-        "es-ES": "[Halled]\n Ay, ese idiota…\n Entonces, sabe…\n Uf… *Quejido*\n D-de acuerdo, cooperaré.\n Lo haré."
+        "es-ES": "[Halled]\n Ay, ese idiota...\n Entonces, sabe...\n Uf... *Quejido*\n D-de acuerdo, cooperaré.\n Lo haré."
     },
     "upTlAg": {
         "en-US": "[Halled]\n*Sigh...* But I need some time to gather my thoughts.\nPlease give me a moment.",
@@ -1267,12 +1267,12 @@
     "vZTlAg": {
         "en-US": "[{0}]\nSo, Paul said...",
         "pt-BR": "[{0}]\nEntão, o Paul... disse...",
-        "es-ES": "[{0}]\n Entonces, Paul dijo…"
+        "es-ES": "[{0}]\n Entonces, Paul dijo..."
     },
     "vpTlAg": {
         "en-US": "[{0}]\nSo, Paul said...\n''{1}''",
         "pt-BR": "[{0}]\nEntão, o Paul... disse...\n{1} .",
-        "es-ES": "[{0}]\n Entonces, Paul dijo…\n {1}"
+        "es-ES": "[{0}]\n Entonces, Paul dijo...\n {1}"
     },
     "v5TlAg": {
         "en-US": "[Halled]\nWhat's wrong with you?\nWhat about Paul?\nWhat are you talking about?",
@@ -1297,7 +1297,7 @@
     "w5TlAg": {
         "en-US": "[Halled]\n...Do you know where it is?\nMaybe this is just me, but...\neven if you knew,\nhow could you get to a place like that?",
         "pt-BR": "[Haled]\nVocê sabe onde fica?\nVocê sabe onde fica, certo?\nÉ só a minha opinião, mas...\nnão é possível...",
-        "es-ES": "[Halled]\n ¿Sabes dónde es?\n Tal vez solo sea mi suposición, pero…\n aunque lo supieras,\n ¿cómo podrías llegar a un lugar así?"
+        "es-ES": "[Halled]\n ¿Sabes dónde es?\n Tal vez solo sea mi suposición, pero...\n aunque lo supieras,\n ¿cómo podrías llegar a un lugar así?"
     },
     "xJTlAg": {
         "en-US": "[Halled]\nAnyway, if you're still interested, go for it.\nThat is, if you know what this song means.",
@@ -1337,12 +1337,12 @@
     "y5TlAg": {
         "en-US": "[Halled]\nWhat? ...Huh.\nI'm absolutely horrified!\nEven mine was just a key!",
         "pt-BR": "[Haled]\nHa..........ah.\nOutra chave?\nÉ a única chave??",
-        "es-ES": "[Halled]\n ¿Qué? Mmm…\n ¡Estoy completamente horrorizado!\n ¡Mi pista también llevaba a una llave!"
+        "es-ES": "[Halled]\n ¿Qué? Mmm...\n ¡Estoy completamente horrorizado!\n ¡Mi pista también llevaba a una llave!"
     },
     "zJTlAg": {
         "en-US": "[Halled]\nUgh... This means... we have to go to that young jerk in Lighthalzen.\n...\nBah!",
         "pt-BR": "[Haled]\nEntão... eu realmente tenho que pedir ajuda ao jovem de Lighthalzen?\n...........\nAh...",
-        "es-ES": "[Halled]\n Uf… Esto significa… que tenemos que ir a ver a ese idiota en Lighthalzen.\n …\n ¡Bah!"
+        "es-ES": "[Halled]\n Uf... Esto significa... que tenemos que ir a ver a ese idiota en Lighthalzen.\n ...\n ¡Bah!"
     },
     "zZTlAg": {
         "en-US": "[Halled]\nWe have no other choice.\nYou. Take all these three keys to Lighthalzen.\nGo to Vicente, the manager of the Lighthalzen branch, and explain what happened.",
@@ -1352,7 +1352,7 @@
     "zpTlAg": {
         "en-US": "[Halled]\nHe'll probably say something along the lines of ''I told you,''\n''The old coots' stubbornness has ruined it...''",
         "pt-BR": "[Haled]\nEu lhe disse que o velho é persistente e estraga tudo.",
-        "es-ES": "[Halled]\n Probablemente, dirá algo como te lo dije\n o la terquedad de los viejos cascarrabias lo arruinó…."
+        "es-ES": "[Halled]\n Probablemente, dirá algo como te lo dije\n o la terquedad de los viejos cascarrabias lo arruinó...."
     },
     "z5TlAg": {
         "en-US": "[Halled]\nBut we still need something to report back to the Guild in exchange for its information.\nWe could have looked for it\ntogether from the beginning,",
@@ -1412,7 +1412,7 @@
     "2pTlAg": {
         "en-US": "[Halled]\nDid I know?\nWell... In a way, I guess.\nHah hah. Actually, this isn't the first time I unknowingly participated in recruiting new members.",
         "pt-BR": "[Haled]\nEu sabia disso?\nClaro. Ouvi um pouco antes.\nEu costumava trabalhar assim.",
-        "es-ES": "[Halled]\n ¿Lo sabía?\n Bueno… En cierto modo, supongo que sí.\n Ja, ja. En realidad, no es la primera vez que participo sin querer en el reclutamiento de nuevos miembros."
+        "es-ES": "[Halled]\n ¿Lo sabía?\n Bueno... En cierto modo, supongo que sí.\n Ja, ja. En realidad, no es la primera vez que participo sin querer en el reclutamiento de nuevos miembros."
     },
     "25TlAg": {
         "en-US": "[Halled]\nI'm not upset. In fact, I feel honored.\nI suggest you get over it, too. You'll be a great Shadow Chaser.",
@@ -1472,7 +1472,7 @@
     "5pTlAg": {
         "en-US": "[Limi GX]\nOur manager? He's in the crafting room in the back.\nHe wouldn't be happy to see you unless you have business with him, but... go ahead.",
         "pt-BR": "[RimiGX]\nGerente? Ele está dentro do local de trabalho.\nQuando o visitar, você deve ter algo para contar para ele...",
-        "es-ES": "[Limi GX]\n ¿El administrador? Está en la sala de artesanías del fondo.\n Solo se alegraría de verte si tuvieras negocios con él, pero… ve."
+        "es-ES": "[Limi GX]\n ¿El administrador? Está en la sala de artesanías del fondo.\n Solo se alegraría de verte si tuvieras negocios con él, pero... ve."
     },
     "55TlAg": {
         "en-US": "[Manager]\nUh-oh, are you a customer?\nI'm sorry, but we're not looking to buy antiques at the moment.\nIf you'd like to buy art supplies, please talk to my employees.",
@@ -1552,7 +1552,7 @@
     "9pTlAg": {
         "en-US": "[Vicente]\nWhen I came to that conclusion, I had no choice but to wait.\nI could have asked the other managers for their keys, but...",
         "pt-BR": "[Vicente]\nEntão, tivemos que esperar por isso.\nPensei que o último homem jamais o daria para mim...",
-        "es-ES": "[Vicente]\n Cuando llegué a esa conclusión, no tuve más remedio que esperar.\n Podría haberles pedido las llaves a los demás administradores, pero…"
+        "es-ES": "[Vicente]\n Cuando llegué a esa conclusión, no tuve más remedio que esperar.\n Podría haberles pedido las llaves a los demás administradores, pero..."
     },
     "95TlAg": {
         "en-US": "[Vicente]\nThey would probably think I was lying to them to keep the treasure to myself.\nThat's why I've been waiting.",
@@ -1697,7 +1697,7 @@
     "E5XlAg": {
         "en-US": "[Vicente]\nHah... Hah hah!\nHah hah hah hah!\nI get it now!\nWow, congratulations!",
         "pt-BR": "[Vicente]\nHaha!!\nAhahahaha!!!!!\nAgora eu entendi!\nParabéns!",
-        "es-ES": "[Vicente]\n Ja… ¡Ja, ja!\n ¡Ja, ja, ja, ja!\n ¡Ya entiendo!\n Vaya, ¡felicitaciones!"
+        "es-ES": "[Vicente]\n Ja... ¡Ja, ja!\n ¡Ja, ja, ja, ja!\n ¡Ya entiendo!\n Vaya, ¡felicitaciones!"
     },
     "FJXlAg": {
         "en-US": "[Vicente]\nThis is a treasure.\nA priceless one at that!\nCome on, this is not a good place to talk.\nWhy don't we go in?",
@@ -1837,7 +1837,7 @@
     "L5XlAg": {
         "en-US": "[Doomk]\n...Vicente, you've got a solicitor in here.",
         "pt-BR": "[Dumk]\nVicente. Sem Solicitações.",
-        "es-ES": "[Oscurio]\n …Vicente, aquí hay un defensor."
+        "es-ES": "[Oscurio]\n ...Vicente, aquí hay un defensor."
     },
     "MJXlAg": {
         "en-US": "[Vicente]\nWait, not a solicitor.",
@@ -1897,7 +1897,7 @@
     "O5XlAg": {
         "en-US": "Wait, is your name Doom-k...?",
         "pt-BR": "Você é...",
-        "es-ES": "Espera, ¿tu nombre es Oscurio…?"
+        "es-ES": "Espera, ¿tu nombre es Oscurio...?"
     },
     "PJXlAg": {
         "en-US": "[Vicente]\nChicken! How about chicken for tonight's dinner?",
@@ -1912,7 +1912,7 @@
     "PpXlAg": {
         "en-US": "[Vicente]\nM-my apologies, sir...",
         "pt-BR": "[Vicente]\nDesculpe...",
-        "es-ES": "[Vicente]\n M-mis disculpas, señor…"
+        "es-ES": "[Vicente]\n M-mis disculpas, señor..."
     },
     "P5XlAg": {
         "en-US": "- Vicente looked at me and whispered, ''Talking about his name is taboo.'' -",
@@ -2027,7 +2027,7 @@
     "VZXlAg": {
         "en-US": "[Doomk]\nAnd we discovered our obsession with details and artistic tendencies resonate with...\npainting.",
         "pt-BR": "[Dumk]\nEntão, finalmente...\nencontramos as tintas!",
-        "es-ES": "[Oscurio]\n Y descubrimos que nuestra obsesión por los detalles y nuestras tendencias artísticas se conectan con…\n la pintura."
+        "es-ES": "[Oscurio]\n Y descubrimos que nuestra obsesión por los detalles y nuestras tendencias artísticas se conectan con...\n la pintura."
     },
     "VpXlAg": {
         "en-US": "[Doomk]\nPaintings draw various emotions from people who see them.\nLandscape paintings are usually calming to the mind.\nThe portrait of someone you know can make you feel happy or sad.",
@@ -2127,7 +2127,7 @@
     "aZXlAg": {
         "en-US": "[Doomk]\nAnd about this Shadow Handiwork. I designed it, and...\nMan, the tailors failed to fully embody my vision.\nIf you look at this part...",
         "pt-BR": "[Dumk]\nEsse pavão sombrio eu mesmo criei.\nÉ muito difícil criar algo que absorva meu senso artístico...\nEntão, sobre essa parte...",
-        "es-ES": "[Oscurio]\n En cuanto a este trabajo de sombras, lo diseñé yo, y…\n Vaya, los sastres no lograron representar mi visión por completo.\n Si miras esta parte…"
+        "es-ES": "[Oscurio]\n En cuanto a este trabajo de sombras, lo diseñé yo, y...\n Vaya, los sastres no lograron representar mi visión por completo.\n Si miras esta parte..."
     },
     "apXlAg": {
         "en-US": "Doomk wouldn't stop talking about fashion, artistic sensibilities, paintings, and feelings.\nHe's completely absorbed in his own world.",
@@ -2157,7 +2157,7 @@
     "b5XlAg": {
         "en-US": "[Vicente]\nYou know where our stores are, right?\nIn Prontera, Juno, Rachel, and Lighthalzen. One each.\nTo the outside world, we're just an ordinary antique dealer,\nbut we're also a front for the Guild's operations, dealing goods from... unsavory sources,",
         "pt-BR": "[Vicente]\nSabe onde ficam nossas lojas, certo?\nEm Prontera, Juno, Rachel e Lighthalzen — uma em cada.\nPara o mundo exterior, somos apenas um antiquário comum,\nmas é uma fachada para as operações da guilda, negociando mercadorias de... fontes desagradáveis...",
-        "es-ES": "[Vicente]\n Sabes dónde están nuestras tiendas, ¿cierto?\n En Prontera, Juno, Rachel y Lighthalzen. Una tienda en cada lugar.\n Para el mundo exterior, somos un anticuario cualquiera,\n pero también somos una tapadera para las operaciones del gremio, al comerciar bienes de… fuentes poco agradables,"
+        "es-ES": "[Vicente]\n Sabes dónde están nuestras tiendas, ¿cierto?\n En Prontera, Juno, Rachel y Lighthalzen. Una tienda en cada lugar.\n Para el mundo exterior, somos un anticuario cualquiera,\n pero también somos una tapadera para las operaciones del gremio, al comerciar bienes de... fuentes poco agradables,"
     },
     "cJXlAg": {
         "en-US": "[Vicente]\nselling artifacts we've found,\ndelivering information,\nand providing its members convenient services and places to stay.",
@@ -2187,7 +2187,7 @@
     "dZXlAg": {
         "en-US": "[Doomk]\nOr draw a circle on the floor to open a black hole.\n...",
         "pt-BR": "[Dumk]\nVocê não quer aprender a dominar um poder mais forte do que o que você conhece?\n....",
-        "es-ES": "[Oscurio]\n O dibujar un círculo en el suelo para abrir un agujero negro.\n …"
+        "es-ES": "[Oscurio]\n O dibujar un círculo en el suelo para abrir un agujero negro.\n ..."
     },
     "dpXlAg": {
         "en-US": "- Doomk looks disappointed by my lukewarm response. -",
@@ -2222,7 +2222,7 @@
     "fJXlAg": {
         "en-US": "[Vicente]\nHah hah...\nPlease don't be upset. Doomk is known for many things, but being a people person is not one of them.\nHe wouldn't talk to anyone below his standards.",
         "pt-BR": "[Vicente]\nHaha... ..\nPor favor, entenda. Dumk tem habilidades de comunicação muito ruins.\nEle não conversa com ninguém que não tenha um nível alto o bastante.",
-        "es-ES": "[Vicente]\n Ja, ja…\n No te enojes. Oscurio es conocido por muchas cosas, pero no por ser una persona sociable.\n No habla con nadie que esté por debajo de su nivel."
+        "es-ES": "[Vicente]\n Ja, ja...\n No te enojes. Oscurio es conocido por muchas cosas, pero no por ser una persona sociable.\n No habla con nadie que esté por debajo de su nivel."
     },
     "fZXlAg": {
         "en-US": "[Vicente]\nOr those who came unprepared.\nIf Doomk wouldn't give you the time of day,\nthen that's because ^4D4DFFyou're not up to his standards^000000.",
@@ -2267,7 +2267,7 @@
     "hZXlAg": {
         "en-US": "[Doomk]\nHmmm...\nHmpf!",
         "pt-BR": "[Dumk]\n..........\nHehe.",
-        "es-ES": "[Oscurio]\n Mmmm…\n ¡Mpf!"
+        "es-ES": "[Oscurio]\n Mmmm...\n ¡Mpf!"
     },
     "hpXlAg": {
         "en-US": "[Vicente]\nAh, my apologies.\nDoomk rarely pays attention to people that he doesn't know.\nAnd by the way, this place is for staff only.\nIf you're looking for art supplies, please go talk to our employees.",
@@ -2282,7 +2282,7 @@
     "iJXlAg": {
         "en-US": "- A blue flame is swaying in front of me. -\nThe password reads...",
         "pt-BR": "Uma chama azul está rugindo.\nO código decifrado significa...",
-        "es-ES": "(Una llama azul oscila frente a mí).\n La contraseña dice…"
+        "es-ES": "(Una llama azul oscila frente a mí).\n La contraseña dice..."
     },
     "iZXlAg": {
         "en-US": "blue fire in turtle island third floor",
@@ -2297,7 +2297,7 @@
     "i5XlAg": {
         "en-US": "[{0}]\n^4D4DFF{1}^000000\nThis has got to be it.",
         "pt-BR": "[{0}]\n^4D4DFF{1}^000000\nEstá claramente apontando para isso.",
-        "es-ES": "[{0}]\n ^4D4DFF{1}^000000\n Debe ser esto…"
+        "es-ES": "[{0}]\n ^4D4DFF{1}^000000\n Debe ser esto..."
     },
     "jJXlAg": {
         "en-US": "- I just spoke the deciphered password, and the flame immediately flared itself up. -",
@@ -2307,7 +2307,7 @@
     "jZXlAg": {
         "en-US": "[A Voice in My Head]\nHm, who are you?\nDo you also want my treasure?\nHeh heh heh. I'm sorry, but this is as far as you can go.",
         "pt-BR": "[Voz Desconhecida]\nHum? Alguém está chegando?\nÉ você quem quer tomar o meu tesouro?\nMas a sua limitação acabou.",
-        "es-ES": "[Una voz en mi cabeza]\n Mmm… ¿Quién eres?\n ¿También quieres mi tesoro?\n Je, je, je. Lo siento, pero esto es lo más lejos que llegarás."
+        "es-ES": "[Una voz en mi cabeza]\n Mmm... ¿Quién eres?\n ¿También quieres mi tesoro?\n Je, je, je. Lo siento, pero esto es lo más lejos que llegarás."
     },
     "jpXlAg": {
         "en-US": "- Surprisingly, the blue flame spoke to me. -\n- It had a hoarse, breathy voice that reminded me of a hissing snake. -\n- In the center of the flame, an eye-shaped bead had appeared. -",
@@ -2322,7 +2322,7 @@
     "kJXlAg": {
         "en-US": "[A Voice in My Head]\nDon't be so impatient.\nHee hee hee... But then, what do I expect from foolish humans?\nYou can't see the forest for the trees.",
         "pt-BR": "[Voz Desconhecida]\nVocê está com pressa.\nHahaha, humanos geralmente fazem esse tipo de coisa.\nEles não conseguem enxergar a verdade.",
-        "es-ES": "[Una voz en mi cabeza]\n No seas tan impaciente.\n Je, je, je… Y sin embargo, no debí esperar nada de los tontos \n humanos. Los árboles no les dejan ver el bosque."
+        "es-ES": "[Una voz en mi cabeza]\n No seas tan impaciente.\n Je, je, je... Y sin embargo, no debí esperar nada de los tontos \n humanos. Los árboles no les dejan ver el bosque."
     },
     "kZXlAg": {
         "en-US": "[A Voice in My Head]\nAm I wrong?\nHah hah. Don't even try to touch this flame.\nIt's two as one, one as two.",
@@ -2382,7 +2382,7 @@
     "nJXlAg": {
         "en-US": "- There's a small box made from a small turtle carapace. -\n- For some reason, its center part makes me want to... -",
         "pt-BR": "É uma pequena caixa feita de casco duro de tartaruga. \nO meio dela...",
-        "es-ES": "(Hay un pequeño cofre hecho con un caparazón de tortuga diminuto.\n Por alguna razón, su centro me hacer querer…)."
+        "es-ES": "(Hay un pequeño cofre hecho con un caparazón de tortuga diminuto.\n Por alguna razón, su centro me hacer querer...)."
     },
     "nZXlAg": {
         "en-US": "Touch it.",
@@ -2597,17 +2597,17 @@
     "x5XlAg": {
         "en-US": "[Dark Woman]\nCan you... hear me?\nHo ho ho.\nCan you see me, too?",
         "pt-BR": "[Selina]\nEstá ouvindo?\nHuhu.\nVocê pode me ver?",
-        "es-ES": "[Mujer oscura]\n ¿Me… oyes?\n Jo, jo, jo.\n ¿Tú también puedes verme?"
+        "es-ES": "[Mujer oscura]\n ¿Me... oyes?\n Jo, jo, jo.\n ¿Tú también puedes verme?"
     },
     "yJXlAg": {
         "en-US": "[Dark Woman]\nYou're... the chosen.\nThen, you must know\nthere's someone else here who shares the same soul with me.",
         "pt-BR": "[Selina]\nVocê é o escolhido?\nVocê pode saber disso.\nHá uma alma que é igual a mim.",
-        "es-ES": "[Mujer oscura]\n Eres… a quien estuve esperando.\n Entonces, debes saber\n que aquí hay alguien que comparte alma conmigo."
+        "es-ES": "[Mujer oscura]\n Eres... a quien estuve esperando.\n Entonces, debes saber\n que aquí hay alguien que comparte alma conmigo."
     },
     "yZXlAg": {
         "en-US": "[Shadow of Illusion]\nI'm a shadow...\nA wandering shadow...\nA sad, fragile soul.\nA shadow that has no true form...",
         "pt-BR": "[Selina]\nEu sou uma sombra.\nUma sombra perambulante.\nAlma triste.\nUma sombra de ilusão sem verdade.",
-        "es-ES": "[Sombra de la ilusión]\n Soy una sombra…\n Una sombra errante…\n Un alma triste y frágil.\n Una sombra que no tiene forma verdadera…"
+        "es-ES": "[Sombra de la ilusión]\n Soy una sombra...\n Una sombra errante...\n Un alma triste y frágil.\n Una sombra que no tiene forma verdadera..."
     },
     "ypXlAg": {
         "en-US": "[Shadow of Illusion]\nWhat do you want?\nTreasure?\nThen, find the other half of my soul,\nrip it apart,\nand reflect the truth on this place.",
@@ -2622,17 +2622,17 @@
     "zJXlAg": {
         "en-US": "[Shadow of Illusion]\n...Ho ho ho.\nWhat's wrong?\nYou haven't found the other half of my soul, have you?\nHo ho ho...",
         "pt-BR": "[Sombra de Ilusão]\nHihi.\nO que foi?\nVocê não conseguiu encontrar a metade de minha alma?\nOooh...",
-        "es-ES": "[Sombra de la ilusión]\n Jo, jo, jo…\n ¿Qué pasa?\n No encontraste la otra mitad de mi alma, ¿cierto?\n Jo, jo, jo…"
+        "es-ES": "[Sombra de la ilusión]\n Jo, jo, jo...\n ¿Qué pasa?\n No encontraste la otra mitad de mi alma, ¿cierto?\n Jo, jo, jo..."
     },
     "zZXlAg": {
         "en-US": "[Shadow of Illusion]\nAh... Please find it and let me rest.\nI can't wait to have the sweet taste of death.\nI don't want to be a false shadow anymore...",
         "pt-BR": "[Sombra de Ilusão]\nAh, apresse-se e me dê o resto.\nEu quero morrer tranquilamente.\nQuero desistir da vida falsa.",
-        "es-ES": "[Sombra de la ilusión]\n Ah… Encuéntrala, por favor, así puedo descansar.\n Deseo saborear la dulce muerte.\n Ya no quiero ser una sombra falsa…"
+        "es-ES": "[Sombra de la ilusión]\n Ah... Encuéntrala, por favor, así puedo descansar.\n Deseo saborear la dulce muerte.\n Ya no quiero ser una sombra falsa..."
     },
     "zpXlAg": {
         "en-US": "[Shadow of Illusion]\nHo ho ho...\nYou can only see the truth when this false shadow disappears.\nPunish my other half who deludes the blind.\nRip it apart... until it doesn't exist anymore...",
         "pt-BR": "[Sombra de Ilusão]\nOooh...\nQuando a falsa sombra se for, você poderá ver a verdade.\nPor favor, destrua o falso para ofuscar aqueles que são cegos...\nsem nenhum rastro..",
-        "es-ES": "[Sombra de la ilusión]\n Jo, jo, jo…\n Solo verás la verdad cuando esta falsa sombra desaparezca.\n Castiga a mi otra mitad que engaña a quienes no quieren ver.\n Destrózala… hasta que ya no exista…"
+        "es-ES": "[Sombra de la ilusión]\n Jo, jo, jo...\n Solo verás la verdad cuando esta falsa sombra desaparezca.\n Castiga a mi otra mitad que engaña a quienes no quieren ver.\n Destrózala... hasta que ya no exista..."
     },
     "z5XlAg": {
         "en-US": "- A red flame is swaying. -\n- The ice around me reflects its light at all angles, dazzling my eyes. -",
@@ -2662,7 +2662,7 @@
     "1JXlAg": {
         "en-US": "[{0}]\nI think I need to fit these blank squares with number sculptures.\nThere are only two squares... A two-digit number?\nWhat should I place?",
         "pt-BR": "[{0}]\nAcho que tenho que colocar o número no espaço vazio...\nTenho dois quadrados vazios, então eu tenho que colocar dois números.\n... Para que será que vai servir?",
-        "es-ES": "[{0}]\n Creo que tengo que combinar los cuadrados en blanco con las esculturas de números.\n Solo hay dos cuadrados… ¿Será un número de dos cifras?\n ¿Qué debo colocar?"
+        "es-ES": "[{0}]\n Creo que tengo que combinar los cuadrados en blanco con las esculturas de números.\n Solo hay dos cuadrados... ¿Será un número de dos cifras?\n ¿Qué debo colocar?"
     },
     "1ZXlAg": {
         "en-US": "This is related to that word from Paul.",
@@ -2672,7 +2672,7 @@
     "1pXlAg": {
         "en-US": "[{0}]\nThe word is SEED.\nShould I write SEED in numbers?\n...Wait, in numbers?",
         "pt-BR": "[{0}]\nTenho SEMENTE.\nEntão, tenho que transformar SEMENTE em números.\n... Em números?",
-        "es-ES": "[{0}]\n La palabra es SEMILLA .\n ¿Tendré que escribir SEMILLA con números?\n … espera, ¿con números?"
+        "es-ES": "[{0}]\n La palabra es SEMILLA .\n ¿Tendré que escribir SEMILLA con números?\n ... espera, ¿con números?"
     },
     "15XlAg": {
         "en-US": "Enter an answer.",
@@ -2697,12 +2697,12 @@
     "25XlAg": {
         "en-US": "[{0}]\nIt wasn't a treasure this time, either.\nThe Key of Illusion... Does it have to do with the Shadow of Illusion?\nThe key I got from Deception was the Key of Deception.",
         "pt-BR": "[{0}]\nNão é um tesouro. \nA chave da ilusão? Está relacionada com a sombra da ilusão?\nEu consegui a chave da enganação depois de lidar com a enganação.",
-        "es-ES": "[{0}]\n Esta vez tampoco fue un tesoro.\n La Llave de la ilusión… ¿tendrá que ver con la Sombra de la ilusión?\n La llave que obtuve de la Sombra del engaño fue la Llave del engaño."
+        "es-ES": "[{0}]\n Esta vez tampoco fue un tesoro.\n La Llave de la ilusión... ¿tendrá que ver con la Sombra de la ilusión?\n La llave que obtuve de la Sombra del engaño fue la Llave del engaño."
     },
     "3JXlAg": {
         "en-US": "[{0}]\nAnyway, Paul would be disappointed.\nAnother key instead of a treasure.\nBy the way... how can I get out of here?",
         "pt-BR": "[{0}]\nDe qualquer forma, Paul ficará decepcionado...\nUma chave novamente...\nComo posso escapar daqui?",
-        "es-ES": "[{0}]\n En fin, Paul estará decepcionado.\n Otra llave en vez de un tesoro.\n Por cierto… ¿cómo salgo de aquí?"
+        "es-ES": "[{0}]\n En fin, Paul estará decepcionado.\n Otra llave en vez de un tesoro.\n Por cierto... ¿cómo salgo de aquí?"
     },
     "3ZXlAg": {
         "en-US": "- I unconsciously pressed the box. The floor opened with a click, showing a passage to the outside. -",
@@ -2717,17 +2717,17 @@
     "35XlAg": {
         "en-US": "[{0}]\nWhat do I do?\nI don't know...\nDoes this use the same writing system as the Prontera Workshop?",
         "pt-BR": "[{0}]\nHumm.\nEu não entendo.\nÉ a mesma maneira para ir ao local de trabalho de Prontera...",
-        "es-ES": "[{0}]\n ¿Qué hago?\n No sé…\n ¿Usará el mismo sistema de escritura que el Taller de Prontera?"
+        "es-ES": "[{0}]\n ¿Qué hago?\n No sé...\n ¿Usará el mismo sistema de escritura que el Taller de Prontera?"
     },
     "4JXlAg": {
         "en-US": "[{0}]\nIf I apply that writing system to this box...\nA was 11 and B was 12, right?",
         "pt-BR": "[{0}]\nDe acordo com essa maneira...\n'a' significa 11 e 'b' significa 12.",
-        "es-ES": "[{0}]\n Si aplico ese sistema de escritura en el cofre…\n La A correspondía al 11 y la B al 12, ¿no?"
+        "es-ES": "[{0}]\n Si aplico ese sistema de escritura en el cofre...\n La A correspondía al 11 y la B al 12, ¿no?"
     },
     "4ZXlAg": {
         "en-US": "[{0}]\nThe word is FOOT.\nShould I write FOOT in numbers?\n...Wait, in numbers?",
         "pt-BR": "[{0}]\nTenho PÉ.\nComo posso expressar PÉ em números?\n... Em números?",
-        "es-ES": "[{0}]\n La palabra es PIE.\n ¿Tendré que escribir PIE con números?\n … espera, ¿con números?"
+        "es-ES": "[{0}]\n La palabra es PIE.\n ¿Tendré que escribir PIE con números?\n ... espera, ¿con números?"
     },
     "4pXlAg": {
         "en-US": "- I placed 2 and 5, in that order. -\n- The box opened its side with a click, and a small key rolled out of it. -",
@@ -2737,7 +2737,7 @@
     "45XlAg": {
         "en-US": "[{0}]\nThe word is COLD.\nShould I write COLD in numbers?\n...Wait, in numbers?",
         "pt-BR": "[{0}]\nA palavra que eu consegui era FRIO.\nComo posso expressar FRIO em números?\n... Em números?",
-        "es-ES": "[{0}]\n La palabra es FRÍO.\n ¿Tendré que escribir PIE con números?\n … espera, ¿con números?"
+        "es-ES": "[{0}]\n La palabra es FRÍO.\n ¿Tendré que escribir PIE con números?\n ... espera, ¿con números?"
     },
     "5JXlAg": {
         "en-US": "- I placed 2 and 0, in that order. -\n- The box opened its side with a click, and a small key rolled out of it. -",
@@ -2777,22 +2777,22 @@
     "65XlAg": {
         "en-US": "[Someone's Voice]\nThe forgotten residents of the night...",
         "pt-BR": "[Voz Desconhecida]\nResidentes da noite esquecida...",
-        "es-ES": "[Voz de alguien]\n Los olvidados que en la noche se ocultan…"
+        "es-ES": "[Voz de alguien]\n Los olvidados que en la noche se ocultan..."
     },
     "7JXlAg": {
         "en-US": "Play the waltz of desperation...",
         "pt-BR": "Quem está tocando isso?",
-        "es-ES": "Tocan el vals de su pena…"
+        "es-ES": "Tocan el vals de su pena..."
     },
     "7ZXlAg": {
         "en-US": "[Someone's Voice]\nPlay the waltz of desperation...\nat midnight.",
         "pt-BR": "[Voz Desconhecida]\nQuem está tocando a valsa do desespero?\n.....",
-        "es-ES": "[Voz de alguien]\n Tocan el vals de su pena…\n que no sepultan."
+        "es-ES": "[Voz de alguien]\n Tocan el vals de su pena...\n que no sepultan."
     },
     "7pXlAg": {
         "en-US": "[Someone's Voice]\nHaah...\nYou came to dig up the secrets of the dead.\nCould you play the Waltz of the Dead for me?",
         "pt-BR": "[Voz Desconhecida]\nHa...\nVocê veio aqui para encontrar o segredo da morte.\nVocê pode tocar a valsa da morte para mim?",
-        "es-ES": "[Voz de alguien]\n Aah…\n Viniste a desenterrar los secretos de los muertos.\n ¿Podrías tocar el Vals de los muertos para mí?"
+        "es-ES": "[Voz de alguien]\n Aah...\n Viniste a desenterrar los secretos de los muertos.\n ¿Podrías tocar el Vals de los muertos para mí?"
     },
     "75XlAg": {
         "en-US": "[Someone's Voice]\nI'm tired of being locked up in this prison\nand listening to the lamenting voices of the dead.",
@@ -2802,7 +2802,7 @@
     "8JXlAg": {
         "en-US": "[Shadow of Gaiety]\nI'm a shadow...\nI can show you the most entertaining things in this world...\nAn illusion from which you'd never want to wake up.",
         "pt-BR": "[Sombra do Prazer]\nEu sou uma sombra.\nEu mostro o melhor do prazer neste mundo.\nTantas ilusões que você não quer ser despertado do sonho.",
-        "es-ES": "[Sombra de la alegría]\n Soy una sombra…\n Puedo mostrarte las cosas más fascinantes de este mundo…\n Una ilusión de la que no querrías despertar."
+        "es-ES": "[Sombra de la alegría]\n Soy una sombra...\n Puedo mostrarte las cosas más fascinantes de este mundo...\n Una ilusión de la que no querrías despertar."
     },
     "8ZXlAg": {
         "en-US": "[Shadow of Gaiety]\nI'm a soul bound to cold metal chain.\nA shadow who can't see dreams\nand has lost the pleasure that it thought would last forever.",
@@ -2817,17 +2817,17 @@
     "85XlAg": {
         "en-US": "[Shadow of Gaiety]\nJust tighten your hands around my neck...\nJust let me fade away into oblivion...\nShortness of breath...",
         "pt-BR": "[Sombra do Prazer]\nVocê consegue me sufocar com duas mãos?\nO outro lado de meus sentidos.\nAr para respiração.",
-        "es-ES": "[Sombra de la alegría]\n Pon tus manos alrededor de mi cuello y aprieta…\n Déjame desvanecerme en la nada…\n La falta de aliento…"
+        "es-ES": "[Sombra de la alegría]\n Pon tus manos alrededor de mi cuello y aprieta...\n Déjame desvanecerme en la nada...\n La falta de aliento..."
     },
     "9JXlAg": {
         "en-US": "[Shadow of Gaiety]\nIt's the proof of my existence.\nThe proof of my crossing over.\nThe beginning of life...\nThe end of pleasure...",
         "pt-BR": "[Sombra do Prazer]\nÉ a prova de que vivo.\nÉ a prova de que atravesso a linha.\nO começo da vida.\nO último prazer.",
-        "es-ES": "[Sombra de la alegría]\n Es la prueba de mi existencia.\n La evidencia de mi paso hacia el otro lado.\n El comienzo de la vida…\n El fin del placer…"
+        "es-ES": "[Sombra de la alegría]\n Es la prueba de mi existencia.\n La evidencia de mi paso hacia el otro lado.\n El comienzo de la vida...\n El fin del placer..."
     },
     "9ZXlAg": {
         "en-US": "[Shadow of Gaiety]\nShow me death...\nSweet death...",
         "pt-BR": "[Sombra do Prazer]\nMostre-me a\ndoce morte.",
-        "es-ES": "[Sombra de la alegría]\n Déjame ver la muerte…\n La dulce muerte…"
+        "es-ES": "[Sombra de la alegría]\n Déjame ver la muerte...\n La dulce muerte..."
     },
     "9pXlAg": {
         "en-US": "- The flame suddenly flares up, projecting an image of a young woman, and then shrinks back. -\n- I think I'll have to hunt the Shadow of Gaiety, like I did the others. -",
@@ -2852,7 +2852,7 @@
     "+pXlAg": {
         "en-US": "- The note contains... -\n-----------------\n   20 21 18 14\n   1 14 4\n   19 8 1 11 5\n-----------------",
         "pt-BR": "- O papel contém o seguinte -\n-----------------\n22 9 18 1 18 \n5\n19 1 3 21 4 9 18\n-----------------",
-        "es-ES": "(La nota dice lo siguiente…).\n -----------------\n 7 9 18 1 \n 26 \n 1 7 9 21 1\n -----------------"
+        "es-ES": "(La nota dice lo siguiente...).\n -----------------\n 7 9 18 1 \n 26 \n 1 7 9 21 1\n -----------------"
     },
     "+5XlAg": {
         "en-US": "[{0}]\nA number-based password again.\nGiven the one-digit numbers,\nI think Graham's writing system can also be applied to this one.",
@@ -2862,7 +2862,7 @@
     "/JXlAg": {
         "en-US": "[{0}]\nThere's no keyword, though.\nOkay, then... 1 is A...\nNow, the answer to this password is...",
         "pt-BR": "[{0}]\nNão há pistas...\n1 pode ser igual a A\nE a resposta é...",
-        "es-ES": "[{0}]\n Pero no hay palabra clave.\n Bien, entonces… el 1 es la A…\n Entonces, la respuesta de esta contraseña es…"
+        "es-ES": "[{0}]\n Pero no hay palabra clave.\n Bien, entonces... el 1 es la A...\n Entonces, la respuesta de esta contraseña es..."
     },
     "/ZXlAg": {
         "en-US": "[{0}]\nTurn... and...\nshake?\nShake what?",
@@ -2972,7 +2972,7 @@
     "EpblAg": {
         "en-US": "[{0}]\nErr... Another key.\nHalled would be disappointed.\nI'd better go back now.",
         "pt-BR": "[{0}]\nHum... Outra chave.\nO Haled ficaria desapontado.\nÉ melhor eu voltar agora.",
-        "es-ES": "[{0}]\n Eh… Otra llave.\n Halled estará decepcionado.\n Será mejor que regrese."
+        "es-ES": "[{0}]\n Eh... Otra llave.\n Halled estará decepcionado.\n Será mejor que regrese."
     },
     "E5blAg": {
         "en-US": "- I held the miniature house's entrance door handle and tried to turn it.\n- It wouldn't budge. -",
@@ -2987,22 +2987,22 @@
     "FZblAg": {
         "en-US": "[{0}]\n{1}...?\nWhat does this mean?",
         "pt-BR": "[{0}]\n{1}...?\nO que isso significa?",
-        "es-ES": "[{0}]\n ¿{1}…?\n ¿Qué significa eso?"
+        "es-ES": "[{0}]\n ¿{1}...?\n ¿Qué significa eso?"
     },
     "FpblAg": {
         "en-US": "[{0}]\nI'd better think again slowly.\n20 21 18 14\n1 14 4 \n19 8 1 11 5\n...",
         "pt-BR": "[{0}]\nÉ melhor pensar de novo, devagar.\n22 9 18 1 18 \n5\n19 1 3 21 4 9 18\n...",
-        "es-ES": "[{0}]\n Mejor lo pienso sin apuro.\n 7 9 18 1 \n 26 \n 1 7 9 21 1\n …"
+        "es-ES": "[{0}]\n Mejor lo pienso sin apuro.\n 7 9 18 1 \n 26 \n 1 7 9 21 1\n ..."
     },
     "F5blAg": {
         "en-US": "[{0}]\nIf I apply Graham's writing system,\n1 is A, which means 4 is D.\nIf I decipher all the numbers this way, the answer is...",
         "pt-BR": "[{0}]\nSe eu aplicar o sistema de escrita do Graham,\n1 é A, o que significa que 4 é D.\nSe eu decifrar todos os números dessa forma, a resposta será...",
-        "es-ES": "[{0}]\n Si aplico el sistema de escritura de Graham,\n el 1 es la A, lo que significa que el 4 es la D.\n Si descifro todos los números de esta manera, la respuesta es…"
+        "es-ES": "[{0}]\n Si aplico el sistema de escritura de Graham,\n el 1 es la A, lo que significa que el 4 es la D.\n Si descifro todos los números de esta manera, la respuesta es..."
     },
     "GJblAg": {
         "en-US": "[{0}]\n{1}...?\nAm I wrong again? I have no idea what this means.",
         "pt-BR": "[{0}]\n{1}...?\nEstou errando de novo? Não tenho ideia do que isso significa.",
-        "es-ES": "[{0}]\n ¿{1}…?\n ¿Me equivoqué otra vez? No tengo ni idea de qué significa eso."
+        "es-ES": "[{0}]\n ¿{1}...?\n ¿Me equivoqué otra vez? No tengo ni idea de qué significa eso."
     },
     "GZblAg": {
         "en-US": "- There's no reason to stick around here anymore. -\n- I returned the house-shaped box to where it was and pressed it on the lid. An exit showed up. -",
@@ -3047,7 +3047,7 @@
     "IZblAg": {
         "en-US": "[{0}]\nFirst, Deception...\nIllusion...\nand then, Gaiety.\nThere you go.",
         "pt-BR": "[{0}]\nPrimeiro, Enganação...\nIlusão...\ne depois Prazer.\nPronto.",
-        "es-ES": "[{0}]\n Primero, la Llave del engaño…\n la Llave de la ilusión…\n y luego la Llave de la alegría.\n Eso es."
+        "es-ES": "[{0}]\n Primero, la Llave del engaño...\n la Llave de la ilusión...\n y luego la Llave de la alegría.\n Eso es."
     },
     "IpblAg": {
         "en-US": "- I insert the keys and turn them until I hear a click. -\n- The bottom of the box opens and something rolls out. -",
@@ -3067,7 +3067,7 @@
     "JZblAg": {
         "en-US": "[{0}]\nGrr... Arrrggh... Arrggggh!\nBoohoo!\nTreasure... Where's my treasure?",
         "pt-BR": "[{0}]\nGrr... Arrrggh... Arrggggh!\nBuááá!\nO tesouro... Cadê meu tesouro?",
-        "es-ES": "[{0}]\n Grrr… Grrrr… ¡Grrrr!\n ¡Bú!\n El tesoro… ¿Dónde está mi tesoro?"
+        "es-ES": "[{0}]\n Grrr... Grrrr... ¡Grrrr!\n ¡Bú!\n El tesoro... ¿Dónde está mi tesoro?"
     },
     "JpblAg": {
         "en-US": "I'm so angry!",
@@ -3082,7 +3082,7 @@
     "KJblAg": {
         "en-US": "[{0}]\n...What am I doing here?\nFirst...\nYes, I'm going to go have a word with ^4D4DFFVicente^000000, who's the youngest. He should be the easiest to deal with!",
         "pt-BR": "[{0}]\n... O que estou fazendo aqui?\nPrimeiro...\nSim, vou conversar com o ^4D4DFFVicente^000000, que é o mais novo e, por isso, deve ser o mais fácil de lidar!",
-        "es-ES": "[{0}]\n ¿Qué hago aquí?\n Primero…\n Sí, hablaré con ^4D4DFFVicente^000000, que es el más joven. ¡Debería ser el más fácil de tratar!"
+        "es-ES": "[{0}]\n ¿Qué hago aquí?\n Primero...\n Sí, hablaré con ^4D4DFFVicente^000000, que es el más joven. ¡Debería ser el más fácil de tratar!"
     },
     "KZblAg": {
         "en-US": "[{0}]\nOops, I forgot to bring all the keys.\nMy bad.",

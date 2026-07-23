@@ -7,12 +7,12 @@
     "ISbX": {
         "en-US": "[??????]\n...elp....help...",
         "pt-BR": "[??????]\n...So....Socorro...",
-        "es-ES": "[¿¿¿???]\n…ayud …ayuda…"
+        "es-ES": "[¿¿¿???]\n...ayud ...ayuda..."
     },
     "IibX": {
         "en-US": "[??????]\nI...\nI despise the living.",
         "pt-BR": "[??????]\nEu...\nEu desprezo os vivos.",
-        "es-ES": "[¿¿¿???]\nYo…\ndetesto a los vivos."
+        "es-ES": "[¿¿¿???]\nYo...\ndetesto a los vivos."
     },
     "IybX": {
         "en-US": "............",
@@ -22,22 +22,22 @@
     "JCbX": {
         "en-US": "[?????]\nHoney, I'm sorry,\nbut I... We know how\nhungry you are, but we\nhave nothing to feed you.",
         "pt-BR": "[?????]\nMeu bem, me desculpe,\nmas eu... A gente sabe como\nvocê sente fome, mas\nnão temos nada para te dar.",
-        "es-ES": "[¿¿¿???]\nLo siento, cariño,\npero yo… Sé que tienes\nmucha hambre, pero\nno tenemos nada para comer."
+        "es-ES": "[¿¿¿???]\nLo siento, cariño,\npero yo... Sé que tienes\nmucha hambre, pero\nno tenemos nada para comer."
     },
     "JSbX": {
         "en-US": "[?????]\n*Sniff* I know, I know,\nbut somehow, that tragic\ntruth eats away at me just\na little bit more everyday...",
         "pt-BR": "[?????]\n*Sniff* Sim, eu sei,\nmas, de alguma forma, essa trágica\nverdade me corrói\num pouco mais todos os dias...",
-        "es-ES": "[¿¿¿???]\n*Solloza* Sí, lo sé,\npero no puedo evitar\nque esta trágica realidad\nme consuma un poco más cada día…"
+        "es-ES": "[¿¿¿???]\n*Solloza* Sí, lo sé,\npero no puedo evitar\nque esta trágica realidad\nme consuma un poco más cada día..."
     },
     "JibX": {
         "en-US": "[?????]\nD-damn it...!\nWhy do we have\nto live like this?!\nIt's like we're less\nthan animals. I hate this!",
         "pt-BR": "[?????]\nD-Droga...!\nPor que temos que\nviver assim?!\nÉ como se fôssemos menos\ndo que animais. Eu odeio isso!",
-        "es-ES": "[¿¿¿???]\n¡Maldita sea…!\n¡¿Por qué tenemos\nque vivir así?!\nComo si fuéramos menos\nque animales. ¡Lo detesto!"
+        "es-ES": "[¿¿¿???]\n¡Maldita sea...!\n¡¿Por qué tenemos\nque vivir así?!\nComo si fuéramos menos\nque animales. ¡Lo detesto!"
     },
     "JybX": {
         "en-US": "[{0}]\nThose voices weren't\njust in my head, were they?\nHello...? Anybody there...?",
         "pt-BR": "[{0}]\nEssas vozes não estavam\napenas em minha cabeça, né?\nOlá...? Tem alguém aí...?",
-        "es-ES": "[{0}]\nEsas voces no estaban\nsolo en mi cabeza, ¿o sí?\n¿Hola…? ¿Hay alguien…?"
+        "es-ES": "[{0}]\nEsas voces no estaban\nsolo en mi cabeza, ¿o sí?\n¿Hola...? ¿Hay alguien...?"
     },
     "KCbX": {
         "en-US": "[?????]\nHey, you won't\nbelieve it! Rekenber\ndecided to hire us!",
@@ -47,7 +47,7 @@
     "KSbX": {
         "en-US": "[???????]\nYou sure that's so great?\nThose big corporations\nalways take advantage\nof the little guy. We're\nprobably gonna end up\nslavin' away for our wages...",
         "pt-BR": "[???????]\nTem certeza que isso é tão bom assim?\nEssas grandes corporações\nsempre tiram vantagem\ndos pequenos. A gente\nprovavelmente vai se matar\nde trabalhar por nossos salários...",
-        "es-ES": "[¿¿¿¿????]\n¿Crees que son buenas noticias?\nEsas grandes corporaciones\nsiempre se aprovechan\nde los humildes. No me sorprendería\nque terminemos\nesclavizados por el salario…"
+        "es-ES": "[¿¿¿¿????]\n¿Crees que son buenas noticias?\nEsas grandes corporaciones\nsiempre se aprovechan\nde los humildes. No me sorprendería\nque terminemos\nesclavizados por el salario..."
     },
     "KibX": {
         "en-US": "[?????]\nNo, that's not the\ncase at all. I mean,\nsure, we won't start off\nwith much responsibility,\nbut they'll pay us well!",
@@ -72,7 +72,7 @@
     "LibX": {
         "en-US": "[?????]\nHoney, please...\nHe's just a baby!",
         "pt-BR": "[?????]\nMeu bem, por favor...\nEle é apenas um bebê!",
-        "es-ES": "[¿¿¿???]\nCariño, por favor…\n¡es solo un bebé!"
+        "es-ES": "[¿¿¿???]\nCariño, por favor...\n¡es solo un bebé!"
     },
     "LybX": {
         "en-US": "[????]\nI don't care how\ncrummy this house is!\nIt's mine and I want quiet!",
@@ -87,7 +87,7 @@
     "MSbX": {
         "en-US": "[?????]\nMommy, why don't those\ndirty people get new clothes?\nDon't they know it's gross?\nThey're scaring me...",
         "pt-BR": "[?????]\nMamãe, por que essa gente\nsuja não compra roupas novas?\nEles não sabem que isso é nojento?\nEles tão me assustando...",
-        "es-ES": "[¿¿¿???]\nMamá, ¿por qué esa gente\nsucia no se compra ropa nueva?\n¿No saben que dan asco?\nMe están asustando…"
+        "es-ES": "[¿¿¿???]\nMamá, ¿por qué esa gente\nsucia no se compra ropa nueva?\n¿No saben que dan asco?\nMe están asustando..."
     },
     "MibX": {
         "en-US": "[???????]\nHoney, don't look at\nthem and hurry up!",
@@ -97,12 +97,12 @@
     "MybX": {
         "en-US": "[????]\nPlease, do you have\nany spare change? I...\nI need something to eat...",
         "pt-BR": "[????]\nPor favor, você tem\num trocado? Eu...\nEu preciso de algo para comer...",
-        "es-ES": "[¿¿¿???]\nPor favor, ¿le sobra\nalgo de cambio? Yo…\nnecesito comer algo…"
+        "es-ES": "[¿¿¿???]\nPor favor, ¿le sobra\nalgo de cambio? Yo...\nnecesito comer algo..."
     },
     "NCbX": {
         "en-US": "[{0}]\nThis is...\nThis is insane!\nI must be hallucinating!",
         "pt-BR": "[{0}]\nIsso é...\nIsso é loucura!\nDevo estar tendo alucinações!",
-        "es-ES": "[{0}]\nEsto es…\n¡Esto es una locura!\n¡Debo estar alucinando!"
+        "es-ES": "[{0}]\nEsto es...\n¡Esto es una locura!\n¡Debo estar alucinando!"
     },
     "NSbX": {
         "en-US": "[?????]\nListen, I know you're\nthe newest hire, but you've\nshown us a lot of potential.\nI think you'd be a perfect\nfit for this new position.",
@@ -132,7 +132,7 @@
     "OibX": {
         "en-US": "[???????]\n...Alright, I'm in.",
         "pt-BR": "[???????]\n...Tudo bem, eu aceito.",
-        "es-ES": "[¿¿¿¿????]\n… De acuerdo, me anoto."
+        "es-ES": "[¿¿¿¿????]\n... De acuerdo, me anoto."
     },
     "OybX": {
         "en-US": "[{0}]\n............",
@@ -142,7 +142,7 @@
     "PCbX": {
         "en-US": "[?????]\nSo, what exactly did you\nwant me to do? I'm sorry,\nI wasn't able to gather my\nactual job function from\nthe presentation...",
         "pt-BR": "[?????]\nEntão, o que exatamente você\nquer que eu faça? Desculpa,\nnão consegui entender o que\nrealmente vou fazer\npor essa apresentação...",
-        "es-ES": "[¿¿¿???]\nEntonces, ¿qué es exactamente lo que\nquieren que haga? Lo siento,\npero no vi en qué parte\nde la presentación dijeron\ncuál va a ser mi tarea…"
+        "es-ES": "[¿¿¿???]\nEntonces, ¿qué es exactamente lo que\nquieren que haga? Lo siento,\npero no vi en qué parte\nde la presentación dijeron\ncuál va a ser mi tarea..."
     },
     "PSbX": {
         "en-US": "[???]\nHee hee hee~\nDon't worry about it.\nJust relax and stay\nright where you are.",
@@ -152,12 +152,12 @@
     "PibX": {
         "en-US": "[?????]\nMmm. Alright.\nI just thought that I was\nsupposed to go somewhere,\nthat's all. Um, shouldn't\nI be getting ready...?",
         "pt-BR": "[?????]\nHumm. Tudo bem.\nEu só achei que\niria a algum lugar.Hum, eu não deveria\nestar me aprontando...?",
-        "es-ES": "[¿¿¿???]\nMmm. De acuerdo.\nEs solo que pensé \nque tenía que ir a alguna parte,\neso es todo. Um, ¿no me tendría\nque estar preparando…?"
+        "es-ES": "[¿¿¿???]\nMmm. De acuerdo.\nEs solo que pensé \nque tenía que ir a alguna parte,\neso es todo. Um, ¿no me tendría\nque estar preparando...?"
     },
     "PybX": {
         "en-US": "[???]\nOh, don't worry about\nthat, either. All of the\narrangements will be\ntaken care of. You'll\nbe taken to that far\noff place very soon...",
         "pt-BR": "[???]\nAh, não se preocupe com\nisso também. Todas as\nprovidências serão\ntomadas. Vão te levar àquele\nlugar distante muito em breve...",
-        "es-ES": "[¿¿¿???]\nAh, no te preocupes por\neso tampoco. Ya nos\nocupamos de todos\nlos detalles. Te\nllevaremos a ese lugar\nlugar lejano muy pronto…"
+        "es-ES": "[¿¿¿???]\nAh, no te preocupes por\neso tampoco. Ya nos\nocupamos de todos\nlos detalles. Te\nllevaremos a ese lugar\nlugar lejano muy pronto..."
     },
     "QCbX": {
         "en-US": "[????]\nOh, I'm so sorry to\nhear that you want to\nquit. Are you sure there\nisn't anything we can do\nto change your mind?",
@@ -187,22 +187,22 @@
     "RSbX": {
         "en-US": "[???]\nSir...?\nAccident...?\nI don't understand\nwhat you're talking ab--",
         "pt-BR": "[???]\nSenhor...?\nAcidente...?\nNão sei\ndo que está fa...",
-        "es-ES": "[¿¿¿???]\n¿Señor…?\n¿Qué accidente?\n¡No entiendo\nde qué está habla…!"
+        "es-ES": "[¿¿¿???]\n¿Señor...?\n¿Qué accidente?\n¡No entiendo\nde qué está habla...!"
     },
     "RibX": {
         "en-US": "[???]\nN-no! Please...!\nI didn't, I swear on\nmy life that I won't ever\nsay anything about this\nplace! I'm begging you,\nfor the love of god!",
         "pt-BR": "[???]\nN-Nnão! Por favor...!\nEu não fiz isso, juro pela\nminha vida que nunca mais\nvou dizer nada sobre esse\nlugar! Eu imploro\npor tudo que é sagrado!",
-        "es-ES": "[¿¿¿???]\n¡N-no! ¡Por favor…!\n¡Juro por mi vida\nque nunca dije ni\ndiré nada sobre este\nlugar! ¡Se lo ruego,\npor todos los dioses!"
+        "es-ES": "[¿¿¿???]\n¡N-no! ¡Por favor...!\n¡Juro por mi vida\nque nunca dije ni\ndiré nada sobre este\nlugar! ¡Se lo ruego,\npor todos los dioses!"
     },
     "RybX": {
         "en-US": "[????]\nYour life...?\nSorry, not good enough.\nYou should have known.",
         "pt-BR": "[????]\nSua vida...?\nLamento, não é bom o suficiente.\nVocê deveria saber.",
-        "es-ES": "[¿¿¿???]\n¿Tu vida…?\nLo siento, no es suficiente.\nDeberías haberlo sabido."
+        "es-ES": "[¿¿¿???]\n¿Tu vida...?\nLo siento, no es suficiente.\nDeberías haberlo sabido."
     },
     "SCbX": {
         "en-US": "[???]\nSsstop! I have chil--\nMY LEEEEGS!! OH MY GOD\nWHAT HAVE YOU DONE TO\nLEGS?! HELP ME, OH MY G--",
         "pt-BR": "[???]\nPaaare! Eu tenho fi...\nMINHAS PEEERNAS! AI, CARAMBA,\nO QUE VOCÊ FEZ COM\nELAS?! SOCORRO, MINHA NO..",
-        "es-ES": "[¿¿¿???]\n¡D-deténgase! Tengo hij…\n¡MIS PIERNAS! POR PIEDAD.\n¡¿QUÉ LE HIZO A MIS\nPIERNAS?! AYÚDENME, POR FA…"
+        "es-ES": "[¿¿¿???]\n¡D-deténgase! Tengo hij...\n¡MIS PIERNAS! POR PIEDAD.\n¡¿QUÉ LE HIZO A MIS\nPIERNAS?! AYÚDENME, POR FA..."
     },
     "SSbX": {
         "en-US": "[??]\nDoctor Varmunt,\nyou've finally agreed\nto join us. Welcome!",
@@ -212,7 +212,7 @@
     "SibX": {
         "en-US": "[Varmunt]\nWell, I don't know if I agree\nwith this company's policies,\nbut the project you're offering\nseems to be an opportunity that\ncomes once in a lifetime, so...",
         "pt-BR": "[Varmunt]\nBom, não sei se concordo\ncom as políticas dessa empresa,\nmas o projeto que está oferecendo\nparece ser uma oportunidade\núnica na vida, então...",
-        "es-ES": "[Varmunt]\nBueno, no sé si estoy de acuerdo\ncon las políticas de esta empresa,\npero el proyecto que ofrecen\nparece una oportunidad de esas que\nocurren una vez en la vida, así que…"
+        "es-ES": "[Varmunt]\nBueno, no sé si estoy de acuerdo\ncon las políticas de esta empresa,\npero el proyecto que ofrecen\nparece una oportunidad de esas que\nocurren una vez en la vida, así que..."
     },
     "SybX": {
         "en-US": "[??]\nTo be honest, this project\ncan only be a success with\nyour cooperation. We need\nyour genius and will provide\nwhatever you require.",
@@ -222,7 +222,7 @@
     "TCbX": {
         "en-US": "[Varmunt]\nI'm flattered.\nAnd of course, I'll\ndo my best. It's just\nthat this deal sounds\ntoo good to be true...",
         "pt-BR": "[Varmunt]\nSinto-me lisonjeado.\nE, é claro,\ndarei o meu melhor. É que\nque esse negócio parece\nbom demais para ser verdade...",
-        "es-ES": "[Varmunt]\nMe siento halagado.\nY por supuesto, me\nesforzaré al máximo. Es que\neste contrato suena\ndemasiado bueno para ser verdad…"
+        "es-ES": "[Varmunt]\nMe siento halagado.\nY por supuesto, me\nesforzaré al máximo. Es que\neste contrato suena\ndemasiado bueno para ser verdad..."
     },
     "TSbX": {
         "en-US": ".................",
@@ -272,7 +272,7 @@
     "VibX": {
         "en-US": "[??]\nBut why, Doctor Varmunt?\nIf you're unhappy with the\nRekenber Corporation for\nany reason whatsoever...",
         "pt-BR": "[??]\nMas por que, doutor Varmunt?\nSe você está insatisfeito com a\nCorporação Rekenber por\nqualquer motivo que seja...",
-        "es-ES": "[¿¿??]\n¿Pero por qué, doctor Varmunt?\nSi no está satisfecho con la\nCorporación Rekenber, por\nel motivo que sea…"
+        "es-ES": "[¿¿??]\n¿Pero por qué, doctor Varmunt?\nSi no está satisfecho con la\nCorporación Rekenber, por\nel motivo que sea..."
     },
     "VybX": {
         "en-US": "[Varmunt]\nWell, I don't really\nhave a reason to remain\nnow that we've accomplished\nwhat I've agreed to do. It's time^FFFFFF ^000000 for me to return and work on\nmy personal research.",
@@ -287,32 +287,32 @@
     "WSbX": {
         "en-US": "[Varmunt]\nNo, I can't...\nIf I continue to work\nhere, I'm afraid I might\nmake a lot of people\nunhappy. But, thank\nyou for everything.",
         "pt-BR": "[Varmunt]\nNão, eu não posso...\nSe eu continuar a trabalhar\naqui, temo que eu possa\ndeixar muita gente\ninfeliz. Mas obrigado\npor tudo.",
-        "es-ES": "[Varmunt]\nNo, no puedo…\nSi sigo trabajando\naquí, me temo que podría\nhacer infeliz a mucha\ngente. Pero gracias\npor todo."
+        "es-ES": "[Varmunt]\nNo, no puedo...\nSi sigo trabajando\naquí, me temo que podría\nhacer infeliz a mucha\ngente. Pero gracias\npor todo."
     },
     "WibX": {
         "en-US": "[??]\nWait...\nDoctor Varmunt.\nYou forgot your cane.",
         "pt-BR": "[??]\nEspere...\nDoutor Varmunt.\nVocê esqueceu sua bengala.",
-        "es-ES": "[¿¿??]\nEspere…\nDoctor Varmunt.\nOlvida su bastón."
+        "es-ES": "[¿¿??]\nEspere...\nDoctor Varmunt.\nOlvida su bastón."
     },
     "WybX": {
         "en-US": "[Varmunt]\nSince when have you\nseen me use a cane?\nAnd even if I did,\nthat one isn't mi--",
         "pt-BR": "[Varmunt]\nDesde quando você\nme viu usar uma bengala?\nE mesmo que eu usasse,\nessa não é mi...",
-        "es-ES": "[Varmunt]\n¿Desde cuándo\nme vio usar un bastón?\nY aunque lo usara,\nese tampoco es mi…"
+        "es-ES": "[Varmunt]\n¿Desde cuándo\nme vio usar un bastón?\nY aunque lo usara,\nese tampoco es mi..."
     },
     "XCbX": {
         "en-US": "...",
         "pt-BR": "...",
-        "es-ES": "…"
+        "es-ES": "..."
     },
     "XSbX": {
         "en-US": "...\n......",
         "pt-BR": "...\n......",
-        "es-ES": "…\n......"
+        "es-ES": "...\n......"
     },
     "XibX": {
         "en-US": "...\n......\n.........",
         "pt-BR": "...\n......\n.........",
-        "es-ES": "…\n......\n........."
+        "es-ES": "...\n......\n........."
     },
     "XybX": {
         "en-US": "Doctor Varmunt,\nyou've finally agreed\nto join us. Welcome!",
@@ -322,7 +322,7 @@
     "YCbX": {
         "en-US": "^3355FFThere's something on\nthe floor, but you can't\nreally take a good look at\nwhat it is right now. Perhaps\nif you freed up more space\nin your inventory...",
         "pt-BR": "^3355FFHá algo no\nno chão, mas não é possível\ndar uma boa olhada\nno que é neste momento. Talvez\nse você liberasse mais espaço\nem seu inventário...^000000",
-        "es-ES": "^3355FFHay algo en\nel suelo, pero no puedes\nver bien qué es\nen este momento. Quizá \nsi liberaras más espacio\nen tu inventario…"
+        "es-ES": "^3355FFHay algo en\nel suelo, pero no puedes\nver bien qué es\nen este momento. Quizá \nsi liberaras más espacio\nen tu inventario..."
     },
     "YSbX": {
         "en-US": "[???]\nIt's over.\nI really want\nto quit. This is\nthe end for me.",
@@ -337,7 +337,7 @@
     "YybX": {
         "en-US": "[???]\nHe was right to say that\nwe'd be paid well, but going\nthrough this much torture isn't\nworth any sum of money in the\nworld to me. *Sigh* Money...",
         "pt-BR": "[???]\nEle estava certo ao dizer que\nseríamos bem pagos, mas\npassar por tanta tortura não vale\nnenhuma quantia de dinheiro no\nmundo para mim. *Suspiro* Dinheiro...",
-        "es-ES": "[¿¿¿???]\nTenía razón al decir que\nnos pagarían bien, pero sufrir\nesta tortura no vale\nninguna suma de dinero en el\nmundo para mí. *Suspira* Dinero…"
+        "es-ES": "[¿¿¿???]\nTenía razón al decir que\nnos pagarían bien, pero sufrir\nesta tortura no vale\nninguna suma de dinero en el\nmundo para mí. *Suspira* Dinero..."
     },
     "ZCbX": {
         "en-US": "[???]\nShe must be so worried\nabout me by now. And her\nhealth is so bad. I'm such\na fool for leaving her behind.",
@@ -362,7 +362,7 @@
     "aCbX": {
         "en-US": "[???]\nDeath penalty?\nWhere'd you learn\nto say something weird\nlike that? Huh. That's...",
         "pt-BR": "[???]\nPena de morte?\nOnde você aprendeu\na falar algo tão estranho\nassim? Hunf. Isso é...",
-        "es-ES": "[¿¿¿???]\n¿Pena de muerte?\n¿Dónde aprendiste\ndecir algo tan\nraro? ¿Eh? Ese es…"
+        "es-ES": "[¿¿¿???]\n¿Pena de muerte?\n¿Dónde aprendiste\ndecir algo tan\nraro? ¿Eh? Ese es..."
     },
     "aSbX": {
         "en-US": "..............",
@@ -372,12 +372,12 @@
     "aibX": {
         "en-US": "[???]\nI'm the only one still\nin this room. Everyone\nelse left and never came\nback. If they were... And\nI were to go out... Then...\nMaybe I better not leave.",
         "pt-BR": "[???]\nSó tem eu\nnesta sala. Todos os outros\nsaíram e não voltaram\nmais. Se eles foram... E\nse eu saísse... Então...\nTalvez seja melhor eu não sair.",
-        "es-ES": "[¿¿¿???]\nSoy el único que sigue\nen esta sala. Todos\nlos demás se fueron y nunca\nregresaron. Y si ellos… Y\nyo fuera a salir… Entonces…\nQuizá lo mejor sea que no me vaya."
+        "es-ES": "[¿¿¿???]\nSoy el único que sigue\nen esta sala. Todos\nlos demás se fueron y nunca\nregresaron. Y si ellos... Y\nyo fuera a salir... Entonces...\nQuizá lo mejor sea que no me vaya."
     },
     "aybX": {
         "en-US": "[???]\nIf I could only give\nthis pendant back to\nher, she wouldn't have\nto worry about me that\nmuch. But I might not\nbe able to get back...",
         "pt-BR": "[???]\nSe eu pudesse devolver\nesse pingente\npara ela, ela não precisaria\nse preocupar tanto comigo.Mas talvez eu não\nconsiga voltar...",
-        "es-ES": "[¿¿¿???]\nSi tan solo pudiera darle\neste Colgante,\ntal vez haría que deje\nde preocuparse tanto\npor mí. Pero quizá ya\nno pueda volver…"
+        "es-ES": "[¿¿¿???]\nSi tan solo pudiera darle\neste Colgante,\ntal vez haría que deje\nde preocuparse tanto\npor mí. Pero quizá ya\nno pueda volver..."
     },
     "bCbX": {
         "en-US": "[???]\n........",
@@ -392,17 +392,17 @@
     "bibX": {
         "en-US": "[???]\nFinish up my...?\nN-no! I've decided!\nI'm not leaving this room!",
         "pt-BR": "[???]\nTerminar meu...\nN-Não! Eu já decidi!\nNão vou sair desta sala!",
-        "es-ES": "[¿¿¿???]\n¿Terminar mi…?\n¡N-no! ¡Ya me decidí!\n¡No voy a salir de esta sala!"
+        "es-ES": "[¿¿¿???]\n¿Terminar mi...?\n¡N-no! ¡Ya me decidí!\n¡No voy a salir de esta sala!"
     },
     "bybX": {
         "en-US": "[?????]\nHey hey, what the hell\nare you talking about?\nYou came here to work,\ndidn't you? And now it's\ntime for you to collect, so...",
         "pt-BR": "[?????]\nEi, ei, que diabos\nestá falando?\nVocê veio aqui para trabalhar,\nnão foi? E agora está na\nhora de receber, então...",
-        "es-ES": "[¿¿¿???]\nOye, oye, ¿de qué demonios\nestás hablando?\nViniste aquí a trabajar,\n¿o no? Y ya es\nhora de tu cobro, así que…"
+        "es-ES": "[¿¿¿???]\nOye, oye, ¿de qué demonios\nestás hablando?\nViniste aquí a trabajar,\n¿o no? Y ya es\nhora de tu cobro, así que..."
     },
     "cCbX": {
         "en-US": "[???]\nN-no, l-let go of me!\nPlease let me go!\nI want to see her again,\nplease let me see her...!",
         "pt-BR": "[???]\nN-Não, me solte!\nPor favor, me solte!\nEu quero vê-la de novo,\npor favor, me deixa vê-la...!",
-        "es-ES": "[¿¿¿???]\n¡No, suéltame!\n¡Por favor, déjame ir!\nQuiero volver a verla,\n¡por favor, déjame verla…!"
+        "es-ES": "[¿¿¿???]\n¡No, suéltame!\n¡Por favor, déjame ir!\nQuiero volver a verla,\n¡por favor, déjame verla...!"
     },
     "cSbX": {
         "en-US": "^3355FF*Clink*^000000",
@@ -412,7 +412,7 @@
     "cibX": {
         "en-US": "[??]\nHm? Who the hell\nbrought in this cheap\njewery? Someone must\nhave forgotten to throw\naway their trash...",
         "pt-BR": "[??]\nHum? Quem diabos\ntrouxe essa joia barata?\nAlguém deve ter\nse esquecido de jogar\nfora o lixo...",
-        "es-ES": "[¿¿??]\n¿Mm? ¿Quién diablos\ntrajo esta joyería\nbarata? Deben haberse\nolvidado de tirarla\na la basura…"
+        "es-ES": "[¿¿??]\n¿Mm? ¿Quién diablos\ntrajo esta joyería\nbarata? Deben haberse\nolvidado de tirarla\na la basura..."
     },
     "cybX": {
         "en-US": "[????]\nYeah, it's just a\ncheap trinket. That\npendant isn't even\nworth picking up.",
@@ -442,7 +442,7 @@
     "eCbX": {
         "en-US": "Um, burden...?",
         "pt-BR": "Hã, fardo...?",
-        "es-ES": "Um, ¿carga…?"
+        "es-ES": "Um, ¿carga...?"
     },
     "eSbX": {
         "en-US": "Crazy old woman!",
@@ -492,7 +492,7 @@
     "gibX": {
         "en-US": "I don't... think so.",
         "pt-BR": "Eu... acho que não.",
-        "es-ES": "No… no lo creo."
+        "es-ES": "No... no lo creo."
     },
     "gybX": {
         "en-US": "I can't remember every bad thing I've done!",
@@ -522,12 +522,12 @@
     "iCbX": {
         "en-US": "[Elder]\nI can only have the spirits\nreveal the places they wish\nfor you to search only once.\nYou must remember the\nlocations that I am about\nto show you. Get ready...",
         "pt-BR": "[Anciã]\nSó posso fazer com que os espíritos\nrevelem os lugares que desejam\npara você pesquisar apenas uma vez.\nVocê deve se lembrar dos\nlocais que estou prestes a te\nmostrar. Prepare-se...",
-        "es-ES": "[Anciana]\nSolo puedo revelar los lugares\nque los espíritus desean\nque visites una única vez.\nDebes recordar los\nlugares que estoy a punto\nde mostrarte. Prepárate…"
+        "es-ES": "[Anciana]\nSolo puedo revelar los lugares\nque los espíritus desean\nque visites una única vez.\nDebes recordar los\nlugares que estoy a punto\nde mostrarte. Prepárate..."
     },
     "iSbX": {
         "en-US": "[Elder]\nYaaaaappp ---!",
         "pt-BR": "[Anciã]\nYaaaaappp...!",
-        "es-ES": "[Anciana]\n¡Iaaaaap…!"
+        "es-ES": "[Anciana]\n¡Iaaaaap...!"
     },
     "iibX": {
         "en-US": "[Elder]\nThere! The locations\nyou must search should\nbe clear to you now! Don't\nforget these placemarks!",
@@ -537,12 +537,12 @@
     "iybX": {
         "en-US": "[Elder]\nGood luck, youngster.\nI hope you can appease\nthe wrath of these spirits...\nBut as long as you let them^FFFFFF       ^000000 guide you, you ought to be safe.",
         "pt-BR": "[Anciã]\nBoa sorte, jovem.\nEspero que você consiga apaziguar\na ira desses espíritos...\nMas, enquanto você deixá-los te^FFFFFFguiar^000000, você deve ficar a salvo.",
-        "es-ES": "[Anciana]\nBuena suerte, joven.\nEspero que logres apaciguar\nla ira de esos espíritus…\nPero mientras dejes^FFFFFF ^000000que te guíen, estarás a salvo."
+        "es-ES": "[Anciana]\nBuena suerte, joven.\nEspero que logres apaciguar\nla ira de esos espíritus...\nPero mientras dejes^FFFFFF ^000000que te guíen, estarás a salvo."
     },
     "jCbX": {
         "en-US": "[Elder]\nCrazy...? Hm, you must\nnot quite understand what's\nhappening to you. Please do\nnot hesitate to come back to\nme when you realize that you\nneed my help, youngster.",
         "pt-BR": "[Anciã]\nLouca...? Hum, você\nnão deve entender muito bem o que está\nacontecendo contigo. Por favor,\nnão hesite em me procurar\nquando perceber que precisada minha ajuda, jovem.",
-        "es-ES": "[Anciana]\n¿Loca…? Hm, no debes\nentender muy bien lo que\nte sucede. Cuando te des\ncuenta de cuánto necesitas\nmi ayuda, no dudes en volver\na visitarme, joven."
+        "es-ES": "[Anciana]\n¿Loca...? Hm, no debes\nentender muy bien lo que\nte sucede. Cuando te des\ncuenta de cuánto necesitas\nmi ayuda, no dudes en volver\na visitarme, joven."
     },
     "jSbX": {
         "en-US": "[Elder]\nI'm sorry, but there's\nnothing more I can do for\nyou right now. But if you\nfind anything related to the\nspirits that torment you,\nplease let me know.",
@@ -567,7 +567,7 @@
     "kSbX": {
         "en-US": "[Elder]\nOh my... There are some\nincredibly powerful emotions\nclinging to this pendant. If we\ndon't do anything about this,\nyou'll be cursed very soon.\nThis is what you must do.",
         "pt-BR": "[Anciã]\nAi, minha nossa... Existem algumas\nemoções incrivelmente poderosas\nagarradas a esse Pingente. Se\nnão fizermos nada a respeito,\numa maldição vai se abater sobre você muito em breve.\nÉ isso que você deve fazer.",
-        "es-ES": "[Anciana]\nVaya… Hay emociones\nincreíblemente poderosas\naferradas a este Colgante. Si\nno hacemos algo al respecto,\npronto sufrirás una maldición.\nEsto es lo que debes hacer."
+        "es-ES": "[Anciana]\nVaya... Hay emociones\nincreíblemente poderosas\naferradas a este Colgante. Si\nno hacemos algo al respecto,\npronto sufrirás una maldición.\nEsto es lo que debes hacer."
     },
     "kibX": {
         "en-US": "[Elder]\nHurry and bring\n^3131FF5 Holy Water^000000 and\n^3131FF1 Bouquet^000000. The Holy Water\nwill purify this Pendant and\nthe Bouquet will comfort\nthe spirit of its owner.",
@@ -577,12 +577,12 @@
     "kybX": {
         "en-US": "[Elder]\nYou don't have much\ntime, so return to me\nas soon as possible!\nIt won't be long until\nthe spirits are consumed\nby their supernatural rage...",
         "pt-BR": "[Anciã]\nVocê não tem muito\ntempo, então volte para mim\no mais rápido possível!\nNão vai demorar muito até que\nos espíritos sejam consumidos\npor sua fúria sobrenatural...",
-        "es-ES": "[Anciana]\nNo tienes mucho\ntiempo, así que vuelve conmigo\nlo antes posible.\nLa furia sobrenatural de los\nespíritus puede consumirlos\nen cualquier momento…"
+        "es-ES": "[Anciana]\nNo tienes mucho\ntiempo, así que vuelve conmigo\nlo antes posible.\nLa furia sobrenatural de los\nespíritus puede consumirlos\nen cualquier momento..."
     },
     "lCbX": {
         "en-US": "[Elder]\nWait...\nWhy do I sense\nthat you've found\nsomething, but have\nnot brought it with you?\nYou must retrace your steps!",
         "pt-BR": "[Anciã]\nEspere...\nPor que estou sentindo\nque você encontrou\nalgo, mas não\no trouxe com você?\nVocê precisa refazer seus passos!",
-        "es-ES": "[Anciana]\nEspere…\n¿Por qué siento\nque encontraste\nalgo, pero no\nlo trajiste contigo?\n¡Vuelve sobre tus pasos!"
+        "es-ES": "[Anciana]\nEspere...\n¿Por qué siento\nque encontraste\nalgo, pero no\nlo trajiste contigo?\n¡Vuelve sobre tus pasos!"
     },
     "lSbX": {
         "en-US": "[Elder]\nGood, good.\nAll is in readiness.\nPlease be silent as\nI focus my spirit for the\ngreat task before me.",
@@ -592,7 +592,7 @@
     "libX": {
         "en-US": "[Elder]\n...\n......\n.........\nHooooooo...",
         "pt-BR": "[Anciã]\n...\n......\n.........\nHooooooo...",
-        "es-ES": "[Anciana]\n…\n......\n.........\nJooooooo…"
+        "es-ES": "[Anciana]\n...\n......\n.........\nJooooooo..."
     },
     "lybX": {
         "en-US": "[Elder]\nYaaaaapp ---!",
@@ -602,7 +602,7 @@
     "mCbX": {
         "en-US": "[Elder]\nWhew! I've managed\nto nullify this curse for you.\nThat still doesn't change the\nfact that what happened to this\npendant's owner was tragic...",
         "pt-BR": "[Anciã]\nUfa! Consegui\nanular essa maldição para você.\nIsso ainda não muda o fato\nde que o que aconteceu com o\ndono do Pingente foi trágico...",
-        "es-ES": "[Anciana]\n¡Fiu! Logré \nanularte la maldición.\nAún así, esto no compensa\nel trágico hecho que sufrió \nsu dueño…"
+        "es-ES": "[Anciana]\n¡Fiu! Logré \nanularte la maldición.\nAún así, esto no compensa\nel trágico hecho que sufrió \nsu dueño..."
     },
     "mSbX": {
         "en-US": "[Elder]\nWhy don't you bring\nthis pendant to the place\nwhere it really belongs?\nI'm sure that would bring\ngreat comfort to its owner.",
@@ -612,7 +612,7 @@
     "mibX": {
         "en-US": "^3355FFSuddenly, the clasp on\nthe pendant pops open,\nrevealing a picture of a happy\ncouple. Somehow, the girl in\nthe picture, sitting uncomfortably^FFFFFF^3355FF in an old chair, looks familiar...^000000",
         "pt-BR": "^3355FFDe repente, o fecho do pingente\nse abre, revelando a foto de um casal feliz.\nDe alguma forma, a garota\nsentada desconfortavelmente^FFFFFF^3355FF em uma cadeira velha parece familiar...^000000",
-        "es-ES": "^3355FFDe repente, el compartimiento\ndel Colgante se abre\ny revela la imagen de una\npareja. De alguna forma, la chica de\nla foto, sentada incómodamente^FFFFFF^3355FF en una vieja silla, parece familiar…^000000"
+        "es-ES": "^3355FFDe repente, el compartimiento\ndel Colgante se abre\ny revela la imagen de una\npareja. De alguna forma, la chica de\nla foto, sentada incómodamente^FFFFFF^3355FF en una vieja silla, parece familiar...^000000"
     },
     "mybX": {
         "en-US": "[Elder]\nHurry and bring\n^3131FF5 Holy Water^000000 and\n^3131FF1 Bouquet^000000 in order\nfor me to nullify this\ncurse. Do not forget to\nbring the Pendant as well.",
@@ -652,7 +652,7 @@
     "oibX": {
         "en-US": "[Elder]\nBut now they even have\nguards to make sure that\nthe poor can't bother the\nrich. I'm pretty sure that\nthis segregation won't be\nending anytime soon...",
         "pt-BR": "[Anciã]\nMas agora eles têm até\nguardas para garantir\nque os pobres não possam incomodar os\nricos. Tenho certeza de que\nessa segregação não vai\nacabar tão cedo...",
-        "es-ES": "[Anciana]\nPero ahora hasta ponen\nguardias para que los pobres\nno se acerquen a molestar\na los ricos. No me parece que\nesta segregación vaya\na terminarse pronto…"
+        "es-ES": "[Anciana]\nPero ahora hasta ponen\nguardias para que los pobres\nno se acerquen a molestar\na los ricos. No me parece que\nesta segregación vaya\na terminarse pronto..."
     },
     "oybX": {
         "en-US": "[Elder]\nNow, I've heard that the\nRekenber Corporation is\nactually providing jobs for\npeople in the slums. Beggars\ncan't be choosers, so I'm sure\nthese jobs aren't that great.",
@@ -687,7 +687,7 @@
     "qSbX": {
         "en-US": "[Crippled Girl]\nOh, thanks,\nI'm fine. But...\nHave we met before?",
         "pt-BR": "[Garota Aleijada]\nAh, obrigada,\nestou bem. Mas...\nJá nos conhecemos?",
-        "es-ES": "[Chica inválida]\nOh, gracias.\nEstoy bien. Pero…\n¿Ya nos conocíamos?"
+        "es-ES": "[Chica inválida]\nOh, gracias.\nEstoy bien. Pero...\n¿Ya nos conocíamos?"
     },
     "qibX": {
         "en-US": "[{0}]\nYeah, we did.\nYou should know who\nI am by now. Hey, you\ndidn't forget, did you?",
@@ -697,12 +697,12 @@
     "qybX": {
         "en-US": "[Lady]\nOh, how do I put this?\nThe fever she had for the\nlast few days. She's gotten\nbetter, but she's forgotten\neverything that's happened\nin the past few weeks...",
         "pt-BR": "[Senhora]\nAh, como posso dizer?\nSobre a febre que ela teve nos\núltimos dias, ela melhorou,mas se esqueceu de\ntudo o que aconteceu\nnas últimas semanas...",
-        "es-ES": "[Dama]\nAy, cómo decirte esto.\nEsa fiebre que tuvo\nestos días. Pudo recuperarse,\npero se olvidó de todo\nlo que pasó \nen las últimas semanas…"
+        "es-ES": "[Dama]\nAy, cómo decirte esto.\nEsa fiebre que tuvo\nestos días. Pudo recuperarse,\npero se olvidó de todo\nlo que pasó \nen las últimas semanas..."
     },
     "rCbX": {
         "en-US": "[{0}]\nOh... Oh. I'm so\nsorry. But maybe this\nis for the best? Here,\nI think you should keep\nthis pendant, though.",
         "pt-BR": "[{0}]\nAh... nossa. Eu\nsinto muito. Mas talvez\nseja melhor assim. Toma,\nacho que você devia ficar com\neste Pingente.",
-        "es-ES": "[{0}]\nOh… Ah. Lo\nlamento mucho. Pero tal vez sea\npara mejor. Toma,\ncreo que deberías quedarte\ncon este Colgante, de todas formas."
+        "es-ES": "[{0}]\nOh... Ah. Lo\nlamento mucho. Pero tal vez sea\npara mejor. Toma,\ncreo que deberías quedarte\ncon este Colgante, de todas formas."
     },
     "rSbX": {
         "en-US": "^3355FFYou place the\nold pendant\ninto her hands.^000000",
@@ -717,7 +717,7 @@
     "rybX": {
         "en-US": "[{0}]\n...\n......",
         "pt-BR": "[{0}]\n...\n......",
-        "es-ES": "[{0}]\n…\n......"
+        "es-ES": "[{0}]\n...\n......"
     },
     "sCbX": {
         "en-US": "[Possessed {0}]\n^3131FFSetsu, please remember\nthat I'd never do anything\nto hurt you. Forgive me for\nleaving you behind. I hope\nthat one day we'll meet\nagain, little princess.^000000",
@@ -727,32 +727,32 @@
     "sSbX": {
         "en-US": "[Possessed {0}]\n^3131FFUntil then, I want\nyou to be happy, okay?\nYour brother's always\ngonna be looking out for\nyou, one way or another...",
         "pt-BR": "[{0} sob Possessão]\n^3131FFAté lá, quero que\nque você seja feliz, tá?\nSeu irmão sempre\nestará cuidando de\nvocê, de uma forma ou de outra...",
-        "es-ES": "[{0} poseído]\n^3131FFHasta entonces, quiero\nque seas feliz, ¿sí?\nTu hermano siempre\nestará para cuidarte,\nde una forma u otra…"
+        "es-ES": "[{0} poseído]\n^3131FFHasta entonces, quiero\nque seas feliz, ¿sí?\nTu hermano siempre\nestará para cuidarte,\nde una forma u otra..."
     },
     "sibX": {
         "en-US": "[Setsu]\nMy brother's...\nThat's my brother's\nvoice! Brother!",
         "pt-BR": "[Setsu]\nMeu irmão...\nEssa é a voz do\nmeu irmão! Irmão!",
-        "es-ES": "[Setsu]\nEsa voz…\n¡Es la voz de mi\nhermano! ¡Hermano!"
+        "es-ES": "[Setsu]\nEsa voz...\n¡Es la voz de mi\nhermano! ¡Hermano!"
     },
     "sybX": {
         "en-US": "[{0}]\nEh? What? Whoa...\nWhat came over me?\nThe last thing I reme--",
         "pt-BR": "[{0}]\nHã? O quê? Nossa...\nO que deu em mim?\nA última coisa de que me lembro...",
-        "es-ES": "[{0}]\n¿Eh? ¿Qué? Guau…\n¿Qué me pasó?\nLo último que recuerdo…"
+        "es-ES": "[{0}]\n¿Eh? ¿Qué? Guau...\n¿Qué me pasó?\nLo último que recuerdo..."
     },
     "tCbX": {
         "en-US": "[Setsu]\n...\n......",
         "pt-BR": "[Setsu]\n...\n......",
-        "es-ES": "[Setsu]\n…\n......"
+        "es-ES": "[Setsu]\n...\n......"
     },
     "tSbX": {
         "en-US": "[{0}]\nWell...\nThis is awkward.",
         "pt-BR": "[{0}]\nBom...\nIsso é estranho.",
-        "es-ES": "[{0}]\nBueno…\nQué incómodo."
+        "es-ES": "[{0}]\nBueno...\nQué incómodo."
     },
     "tibX": {
         "en-US": "[{0}]\nWell...\nThat doesn't happen\neveryday. I suppose that\nmight be for the best...",
         "pt-BR": "[{0}]\nBom...\nIsso não acontece\ntodos os dias. Acho que\npode ser melhor assim...",
-        "es-ES": "[{0}]\nBueno…\nEso no es algo que\nsuceda todos los días. Supongo que\nserá para mejor…"
+        "es-ES": "[{0}]\nBueno...\nEso no es algo que\nsuceda todos los días. Supongo que\nserá para mejor..."
     },
     "tybX": {
         "en-US": "[Setsu]\nI'm sorry. I'm still\nnot able to walk just\nyet, but I'm doing my\nbest! Wish me luck, okay?",
@@ -762,7 +762,7 @@
     "uCbX": {
         "en-US": "[Crippled Girl]\n...\n......\n^333333*Sigh...*^000000",
         "pt-BR": "[Garota Aleijada]\n...\n......\n^333333*Suspiro...*^000000",
-        "es-ES": "[Chica inválida]\n…\n......\n^333333*Suspira*^000000"
+        "es-ES": "[Chica inválida]\n...\n......\n^333333*Suspira*^000000"
     },
     "uSbX": {
         "en-US": "Hello, how are you?",
@@ -787,7 +787,7 @@
     "vSbX": {
         "en-US": "[Crippled Girl]\nOkay,\nbye-bye...",
         "pt-BR": "[Garota Aleijada]\nBeleza,\ntchauzinho...",
-        "es-ES": "[Chica inválida]\nBien,\nadiós…"
+        "es-ES": "[Chica inválida]\nBien,\nadiós..."
     },
     "vibX": {
         "en-US": "[{0}]\nUm, would you have\nany idea who might\nhave owned this pendant?",
@@ -797,7 +797,7 @@
     "vybX": {
         "en-US": "[Crippled Girl]\nPendant...?\nWell, if you could\nshow it to me, maybe\nI would have an idea...",
         "pt-BR": "[Garota Aleijada]\nPingente...?\nBom, se você puder\nme mostrar, talvez\neu tenha uma ideia...",
-        "es-ES": "[Chica inválida]\n¿Colgante…?\nBueno, si pudieras\nmostrármelo, tal vez\ntendría una idea…"
+        "es-ES": "[Chica inválida]\n¿Colgante...?\nBueno, si pudieras\nmostrármelo, tal vez\ntendría una idea..."
     },
     "wCbX": {
         "en-US": "[Crippled Girl]\nOh, that's mine!\nI gave it to my big brother\nbefore he went away on some\nsort of business trip. You must\nhis friend, is that right?",
@@ -807,7 +807,7 @@
     "wSbX": {
         "en-US": "[{0}]\nActually, um,\nyou know what...?",
         "pt-BR": "[{0}]\nNa verdade, hum,\nvocê sabe que...",
-        "es-ES": "[{0}]\nEn realidad, eh,\n¿sabes qué…?"
+        "es-ES": "[{0}]\nEn realidad, eh,\n¿sabes qué...?"
     },
     "wibX": {
         "en-US": "Brutal Truth",
@@ -822,22 +822,22 @@
     "xCbX": {
         "en-US": "[{0}]\n...So basically, your\nbrother's ghost, oh right,\ndid I mention he was dead?\nAnyway, so he's not alive\nanymore, but his spirit or\nwhatever is still around and--",
         "pt-BR": "[{0}]\n...Então, basicamente,\no fantasma de seu irmão, ah, certo,\neu disse que ele morreu?\nEnfim, ele não está mais\nvivo, mas seu espírito ou\no que quer que seja ainda está por perto e...",
-        "es-ES": "[{0}]\n…Bueno, básicamente,\nel fantasma de tu hermano, ah, cierto,\n¿mencioné que está muerto?\nComo sea, él ya no está con\nvida, sino que su espíritu o\nlo que sea todavía anda por ahí y…"
+        "es-ES": "[{0}]\n...Bueno, básicamente,\nel fantasma de tu hermano, ah, cierto,\n¿mencioné que está muerto?\nComo sea, él ya no está con\nvida, sino que su espíritu o\nlo que sea todavía anda por ahí y..."
     },
     "xSbX": {
         "en-US": "[Crippled Girl]\n...\n......",
         "pt-BR": "[Garota Aleijada]\n...\n......",
-        "es-ES": "[Chica inválida]\n…\n......"
+        "es-ES": "[Chica inválida]\n...\n......"
     },
     "xibX": {
         "en-US": "[Crippled Girl]\n...Dead?\nNo! I don't believe you!\nHe can't die! He was the\nbravest and the sweetest\nand the-- Leave me alone!\nOh god, get the hell away!",
         "pt-BR": "[Garota Aleijada]\n...Morreu?\nNão! Eu não acredito em você!\nEle não pode morrer! Ele era o\no mais corajoso e o mais doce\ne o... Me deixe em paz!\nAh, céus, saia daqui!",
-        "es-ES": "[Chica inválida]\n…¿Muerto?\n¡No! ¡No te creo!\n¡No puede estar muerto! Era el\nmás valiente y el más dulce\ny… ¡Déjame en paz!\n¡Ay, solo lárgate!"
+        "es-ES": "[Chica inválida]\n...¿Muerto?\n¡No! ¡No te creo!\n¡No puede estar muerto! Era el\nmás valiente y el más dulce\ny... ¡Déjame en paz!\n¡Ay, solo lárgate!"
     },
     "xybX": {
         "en-US": "[{0}]\n...\n......\nSheesh.\nDon't kill the\nmessenger.",
         "pt-BR": "[{0}]\n...\n......\nCaramba.\nNão precisa matar\nquem só veio avisar.",
-        "es-ES": "[{0}]\n…\n......\nVaya.\nNo mates al\nmensajero."
+        "es-ES": "[{0}]\n...\n......\nVaya.\nNo mates al\nmensajero."
     },
     "yCbX": {
         "en-US": "[{0}]\nLet's just say that\nI never met your brother\nin person. And this pendant?\nI happened to pick it up from\nthe ground and felt it would\nbe best to return it to you.",
@@ -857,7 +857,7 @@
     "yybX": {
         "en-US": "[{0}]\nHa-ha! Ha-ha!\nYeah, your brother...\nHe's probably expecting\nyou to get better soon,\nso, uh, you do that!",
         "pt-BR": "[{0}]\nHa-ha! Ha-ha!\nPois é, seu irmão...\nEle deve estar esperando\nvocê melhorar logo,\nentão, hã, faça isso!",
-        "es-ES": "[{0}]\n¡Ja, ja! ¡Ja, ja!\nSí, tu hermano…\nprobablemente está esperando\nque te mejores pronto,\nasí que, ¡sigue así!"
+        "es-ES": "[{0}]\n¡Ja, ja! ¡Ja, ja!\nSí, tu hermano...\nprobablemente está esperando\nque te mejores pronto,\nasí que, ¡sigue así!"
     },
     "zCbX": {
         "en-US": "[Crippled Girl]\nYou know what?\nI think you're right.\nIf my brother is going\nto work hard for my sake,\nI need to work hard too.\nI'm gonna train to walk!",
@@ -867,12 +867,12 @@
     "zSbX": {
         "en-US": "[Possessed {0}]\n^3131FFI'm so very proud of\nyou for being strong,\nlittle princess. Your\nbig brother will always\nlook after you, no matter\nwhat, so please be happy...^000000",
         "pt-BR": "[{0} sob Possessão]\n^3131FFEstou muito orgulhoso por\nvocê ser forte,\nprincesinha. Seu\nirmão mais velho vai semprecuidar de você, não importa\no que acontecer, então, por favor, seja feliz...^000000",
-        "es-ES": "[{0} poseído]\n^3131FFMe enorgullece\nlo fuerte que eres,\nprincesita. Tu\nhermano mayor siempre\ncuidará de ti, no importa\nlo que pase, así que sé feliz…^000000"
+        "es-ES": "[{0} poseído]\n^3131FFMe enorgullece\nlo fuerte que eres,\nprincesita. Tu\nhermano mayor siempre\ncuidará de ti, no importa\nlo que pase, así que sé feliz...^000000"
     },
     "zibX": {
         "en-US": "[Setsu]\nBr-Brother...?",
         "pt-BR": "[Setsu]\nIrmão...?",
-        "es-ES": "[Setsu]\n¿He-hermano…?"
+        "es-ES": "[Setsu]\n¿He-hermano...?"
     },
     "zybX": {
         "en-US": "[Setsu]\n................",
@@ -882,7 +882,7 @@
     "0CbX": {
         "en-US": "^3355FFSetsu look like\nshe would burst into\ntears at any minute...^000000",
         "pt-BR": "^3355FFParece que Setsu\nvai explodir em\nlágrimas a qualquer momento...^000000",
-        "es-ES": "^3355FFParece que Setsu\nva a estallar en llanto\nen cualquier momento…^000000"
+        "es-ES": "^3355FFParece que Setsu\nva a estallar en llanto\nen cualquier momento...^000000"
     },
     "0SbX": {
         "en-US": "Play off your trance as a joke.",
@@ -897,7 +897,7 @@
     "0ybX": {
         "en-US": "[{0}]\n...\nWell. Looks like\nyou fell for it! Gotcha!\nHa-ha! Yeah, I, uh, know\nyour big brother a little.",
         "pt-BR": "[{0}]\n...\nBom, parece que\nvocê caiu nessa! Peguei você!\nHa-ha! Sim, eu, hã, conheço\nseu irmão mais velho um pouco.",
-        "es-ES": "[{0}]\n…\nBueno. ¡Parece que\ncaíste en la trampa! ¡Te engañé!\n¡Ja, ja! Sí, yo, eh, conocía\nun poco a tu hermano mayor."
+        "es-ES": "[{0}]\n...\nBueno. ¡Parece que\ncaíste en la trampa! ¡Te engañé!\n¡Ja, ja! Sí, yo, eh, conocía\nun poco a tu hermano mayor."
     },
     "1CbX": {
         "en-US": "[Setsu]\nOh what?! Hah! That\nwasn't funny at all~\nYou had me fooled for\na minute there. I mean,\nonly my brother calls me\n''little princess.''",
@@ -907,7 +907,7 @@
     "1SbX": {
         "en-US": "[{0}]\nYeah, sorry.\nBut he said...\nIt would be a good\njoke. And he's sorry,\nbut he won't be able to\ncome home for a while.",
         "pt-BR": "[{0}]\nPois é, desculpa.\nMas ele disse...\nque seria uma boa\npiada. E ele sente muito,\nmas não vai poder\nvoltar para casa por um tempo.",
-        "es-ES": "[{0}]\nSí, lo siento.\nPero él me dijo…\nque sería una buena\nbroma. Y te pide perdón,\npero no podrá \nvolver a casa por un tiempo."
+        "es-ES": "[{0}]\nSí, lo siento.\nPero él me dijo...\nque sería una buena\nbroma. Y te pide perdón,\npero no podrá \nvolver a casa por un tiempo."
     },
     "1ibX": {
         "en-US": "[Setsu]\nOkay, I forgive you.\nBut once I'm able to\nwalk on my own, you have\nto promise to buy me lunch\nor I'll beat you up, okay?",
@@ -922,12 +922,12 @@
     "2CbX": {
         "en-US": "[{0}]\nAwww, hey...\nDon't cry, okay?\nListen, you said that\nyou'll do your best to\nwalk on your own, right?",
         "pt-BR": "[{0}]\nAwww, ei...\nNão chora, beleza?\nOlha, você disse que\nfará o possível para\nandar por conta própria, certo?",
-        "es-ES": "[{0}]\nAyyy, oye…\nNo llores, ¿quieres?\nEscucha, dijiste que\nharás todo lo posible para\ncaminar por ti misma, ¿no?"
+        "es-ES": "[{0}]\nAyyy, oye...\nNo llores, ¿quieres?\nEscucha, dijiste que\nharás todo lo posible para\ncaminar por ti misma, ¿no?"
     },
     "2SbX": {
         "en-US": "[Setsu]\n^333333*Sniff...*^000000\nY-yeah...",
         "pt-BR": "[Setsu]\n^333333*Sniff...*^000000\nS-Sim...",
-        "es-ES": "[Setsu]\n^333333*Solloza*^000000\nS-sí…"
+        "es-ES": "[Setsu]\n^333333*Solloza*^000000\nS-sí..."
     },
     "2ibX": {
         "en-US": "[{0}]\nAlright then, once\nyou're able to walk on\nyour very own, I promise\nthat I'll treat you to lunch\nor something, okay?",
@@ -977,7 +977,7 @@
     "4ybX": {
         "en-US": "[Shayna]\n^333333*Sigh...*^000000\nOh, you poor\ndarling girl...",
         "pt-BR": "[Shayna]\n^333333*Suspiro...*^000000\nAh, pobre\nboa garota...",
-        "es-ES": "[Shayna]\n^333333*Suspira*^000000\nOh, pobre\nniña querida…"
+        "es-ES": "[Shayna]\n^333333*Suspira*^000000\nOh, pobre\nniña querida..."
     },
     "5CbX": {
         "en-US": ".............",
@@ -997,17 +997,17 @@
     "5ybX": {
         "en-US": "[????]\n^FF0000...I'm sorry...\n......I appreciate\nthat you.............",
         "pt-BR": "[????]\n^FF0000...Desculpa...\n......Agradeço por\nvocê.............",
-        "es-ES": "[¿¿¿???]\n^FF0000… Lo siento…\n…Aprecio\nque tú…"
+        "es-ES": "[¿¿¿???]\n^FF0000... Lo siento...\n...Aprecio\nque tú..."
     },
     "6CbX": {
         "en-US": "[{0}]\nH-huh?!\nWhat was that?\nThat can't be the\nwind, I must be\nhearing things again...",
         "pt-BR": "[{0}]\nH-Hã?!\nO que foi isso?\nNão pode ser o\nvento, eu devo estar\nouvindo coisas de novo...",
-        "es-ES": "[{0}]\n¡¿Q-qué?!\n¿Qué fue eso?\nEso no puede ser el\nviento. Debo estar\nescuchando cosas de nuevo…"
+        "es-ES": "[{0}]\n¡¿Q-qué?!\n¿Qué fue eso?\nEso no puede ser el\nviento. Debo estar\nescuchando cosas de nuevo..."
     },
     "6SbX": {
         "en-US": "[{0}]\nWait. I thought I was\nrid of those thoughts\nor spirits, whatever was\nhaunting me before. Maybe\nthey still want me to do\nsomething for them. Hmmm...",
         "pt-BR": "[{0}]\nEspera. Eu pensei que estava\nlivre daqueles pensamentos\nou espíritos, o que quer que estivesse \nme assombrando. Talvez\neles ainda queiram que eu faça\nalgo por eles. Hummm...",
-        "es-ES": "[{0}]\nEspera. Pensé que me había\ndeshecho de esos pensamientos\no espíritus o lo que fuera \nque me atormentaba. Quizá \ntodavía quieren que haga\nalgo por ellos. Mmmm…"
+        "es-ES": "[{0}]\nEspera. Pensé que me había\ndeshecho de esos pensamientos\no espíritus o lo que fuera \nque me atormentaba. Quizá \ntodavía quieren que haga\nalgo por ellos. Mmmm..."
     },
     "6ibX": {
         "en-US": "[{0}]\nI get the feeling that\nall of their suffering\nis tied to the ^FF0000Rekenber\nCorporation^000000 and that\n^FF0000Regenschirm Laboratory^000000.",
@@ -1177,12 +1177,12 @@
     "CyfX": {
         "en-US": "[Wolfchev]\nNo one shall\ninterrupt my\nresearch! If you\ndare, I'll simply...\nEat you. Eat you alive.",
         "pt-BR": "[Wolfchev]\nNinguém deve\ninterromper minha\npesquisa! Se você\nousar, vou simplesmente... \ndevorar você. Enquanto respira.",
-        "es-ES": "[Wolfchev]\n¡Nadie\ninterrumpirá \nmi investigación! Atrévete\na interrumpirme y… \nTe comeré. Te comeré en vida."
+        "es-ES": "[Wolfchev]\n¡Nadie\ninterrumpirá \nmi investigación! Atrévete\na interrumpirme y... \nTe comeré. Te comeré en vida."
     },
     "DCfX": {
         "en-US": "No... N-no!",
         "pt-BR": "Não... N-Não!",
-        "es-ES": "No… ¡N-no!"
+        "es-ES": "No... ¡N-no!"
     },
     "DSfX": {
         "en-US": "Do you need any help?",
@@ -1222,12 +1222,12 @@
     "FCfX": {
         "en-US": "[Wolfchev]\n...........!",
         "pt-BR": "[Wolfchev]\n...........!",
-        "es-ES": "[Wolfchev]\n¡…!"
+        "es-ES": "[Wolfchev]\n¡...!"
     },
     "FSfX": {
         "en-US": "[Wolfchev]\nAh, but wait! I am collecting\nsomething. Yes, bring me the\nthing I must collect. Yes, yes.\nHere's a hint... It's round...\nShiny... Kids love playing games^FFFFFF  ^000000 with them! Oh, I said too much!",
         "pt-BR": "[Wolfchev]\nAh, mas espere! Estou coletando\numa coisa. Sim, traga-meaquilo que preciso coletar. Sim, sim.\nAqui vai uma dica... É redonda...\nBrilhante... As crianças adoram brincar^FFFFFF ^000000 com ela! Ah, falei demais!",
-        "es-ES": "[Wolfchev]\n¡Ah, pero espera! Estoy recolectando\nalgo. Sí, tráeme la cosa\nque tengo que recolectar. Sí, sí.\nAquí te va una pista… Son redondas…\nbrillantes… ¡a los niños les encanta jugar^FFFFFF ^000000con ellas! ¡Ay, ya dije demasiado!"
+        "es-ES": "[Wolfchev]\n¡Ah, pero espera! Estoy recolectando\nalgo. Sí, tráeme la cosa\nque tengo que recolectar. Sí, sí.\nAquí te va una pista... Son redondas...\nbrillantes... ¡a los niños les encanta jugar^FFFFFF ^000000con ellas! ¡Ay, ya dije demasiado!"
     },
     "FifX": {
         "en-US": "[Wolfchev]\n''Sorry?!'' Do you\nthink ''sorry'' will\nget back that precious\nminute I've lost yelling\nat you?! Get the hell out!",
@@ -1237,7 +1237,7 @@
     "FyfX": {
         "en-US": "[Wolfchev]\nYes...! Beads!\nYou brought them!\nYou're not as dumb\nas I thought you'd be!",
         "pt-BR": "[Wolfchev]\nSim...! Miçangas!\nVocê as trouxe!\nVocê não é tão bocó\ncomo pensei que fosse!",
-        "es-ES": "[Wolfchev]\n¡Sí…! ¡Cuentas!\n¡Las trajiste!\n¡No eres tan inútil\ncomo pensé!"
+        "es-ES": "[Wolfchev]\n¡Sí...! ¡Cuentas!\n¡Las trajiste!\n¡No eres tan inútil\ncomo pensé!"
     },
     "GCfX": {
         "en-US": "Why do you want Glass Beads?",
@@ -1267,12 +1267,12 @@
     "HSfX": {
         "en-US": "[Wolfchev]\nHyuu~ I think you're\njust a little too innocent\nto know about my secret\nhobby. Yes, yes, I couldn't\ntell you possibly, it'd be\nso weird, so strange...",
         "pt-BR": "[Wolfchev]\nNhé~ Acho que você é\num pouco inocente demais\npara saber sobre meu passatempo secreto.Sim, sim, eu provavelmente não poderia\ncontar a você, seria\ntão esquisito, tão estranho...",
-        "es-ES": "[Wolfchev]\nJi, ji. Creo que eres\ndemasiado inocente\npara conocer mi afición\nsecreta. Sí, sí, no hay posibilidad\nde que te lo diga, sería\nmuy raro, muy extraño…"
+        "es-ES": "[Wolfchev]\nJi, ji. Creo que eres\ndemasiado inocente\npara conocer mi afición\nsecreta. Sí, sí, no hay posibilidad\nde que te lo diga, sería\nmuy raro, muy extraño..."
     },
     "HifX": {
         "en-US": "[Wolfchev]\nOh. Oh no, oh no,\nI couldn't possibly...\nIt's a-- I-It's a secret.\nYou wouldn't want to know\nanyway. Bweh-heh-heh-heh!",
         "pt-BR": "[Wolfchev]\nAh. Ah, não, ah não,\neu não poderia...\nÉ... É segredo.\nVocê não ia gostar de saber\nmesmo. Muwahahahahaha!",
-        "es-ES": "[Wolfchev]\nAh. Ay, no, no, no,\njamás podría…\nEs… es un secreto.\nNo querrás saber\nde todos modos. ¡Je, je, je, je!"
+        "es-ES": "[Wolfchev]\nAh. Ay, no, no, no,\njamás podría...\nEs... es un secreto.\nNo querrás saber\nde todos modos. ¡Je, je, je, je!"
     },
     "HyfX": {
         "en-US": "[Wolfchev]\nOh, I don't know if you\ncan call it work. After all,\nI do research whatever it is\nI want. And they pay me to\ndo it! This is the best place\nfor a scientist like me, yes.",
@@ -1282,7 +1282,7 @@
     "ICfX": {
         "en-US": "[Wolfchev]\nNow, in a perfect world,\nmy test subjects would be\nmuch more cooperative, but\nI suppose I cannot blame\nthem. Not that I cause them\nundue suffering or anything...",
         "pt-BR": "[Wolfchev]\nBom, em um mundo perfeito,\nminhas cobaias seriam\nmuito mais cooperativas, mas\nsuponho que não posso culpá-las.Não que eu lhes cause\nsofrimento indevido nem nada...",
-        "es-ES": "[Wolfchev]\nAunque, si el mundo fuera perfecto,\nmis sujetos de prueba serían\nmucho más cooperativos, pero\nsupongo que no puedo\nculparlos. No es que les cause\nsufrimiento indebido ni nada…"
+        "es-ES": "[Wolfchev]\nAunque, si el mundo fuera perfecto,\nmis sujetos de prueba serían\nmucho más cooperativos, pero\nsupongo que no puedo\nculparlos. No es que les cause\nsufrimiento indebido ni nada..."
     },
     "ISfX": {
         "en-US": "What kind of research?",
@@ -1302,7 +1302,7 @@
     "JCfX": {
         "en-US": "[Wolfchev]\nI haven't made as much\nprogress as I'd like, but\nno matter. It's only a matter\nof experimentation! Yes, to\nmake mankind stronger and\nbetter and more powerful and--",
         "pt-BR": "[Wolfchev]\nNão fiz tanto\nprogresso como eu gostaria, mas\nnão importa. É apenas uma questão\nde experimentação! Sim, para\ntornar a humanidade mais forte, e\nmelhor, e mais poderosa, e...",
-        "es-ES": "[Wolfchev]\nNo tuve tanto progreso\ncomo me gustaría, pero\nno importa. ¿Es solo cuestión\nde experimentación! Sí,\nhacer a la humanidad más fuerte,\nmejor y más poderosa y…"
+        "es-ES": "[Wolfchev]\nNo tuve tanto progreso\ncomo me gustaría, pero\nno importa. ¿Es solo cuestión\nde experimentación! Sí,\nhacer a la humanidad más fuerte,\nmejor y más poderosa y..."
     },
     "JSfX": {
         "en-US": "Um, what are you testing on?",
@@ -1392,7 +1392,7 @@
     "NifX": {
         "en-US": "[Sueii Slierre]\nHow do you know\nWolfchev? Are you an\nacquaintance of his or...?",
         "pt-BR": "[Sueii Slierre]\nComo você sabe do\nWolfchev? São\nconhecidos ou...",
-        "es-ES": "[Sueii Slierre]\n¿Cómo sabes\nde Wolfchev? ¿Lo conoces\nde alguna parte o…?"
+        "es-ES": "[Sueii Slierre]\n¿Cómo sabes\nde Wolfchev? ¿Lo conoces\nde alguna parte o...?"
     },
     "NyfX": {
         "en-US": "I'm a friend of his.",
@@ -1402,12 +1402,12 @@
     "OCfX": {
         "en-US": "Oh, we're family, you know...",
         "pt-BR": "Ah, somos uma família, você sabe...",
-        "es-ES": "Ah, somos familia, ya sabes…"
+        "es-ES": "Ah, somos familia, ya sabes..."
     },
     "OSfX": {
         "en-US": "I've heard about him before, so...",
         "pt-BR": "Já ouvi falar dele antes, então...",
-        "es-ES": "Escuché hablar de él antes, así que…"
+        "es-ES": "Escuché hablar de él antes, así que..."
     },
     "OifX": {
         "en-US": "[Sueii Slierre]\nWell, Wolfchev is not\nonly brilliant, he's also\na respected professional.\nHe should be doing just fine.",
@@ -1442,7 +1442,7 @@
     "QCfX": {
         "en-US": "[Sueii Slierre]\n...\n......",
         "pt-BR": "[Sueii Slierre]\n...\n......",
-        "es-ES": "[Sueii Slierre]\n…\n......"
+        "es-ES": "[Sueii Slierre]\n...\n......"
     },
     "QSfX": {
         "en-US": "[Sueii Slierre]\nThank you for your\ncooperation. As you well\nknow, the Help Desk is there\nto answer any of your questions^FFFFFF   ^000000 regarding the Rekenber Corporation.",
@@ -1477,7 +1477,7 @@
     "RyfX": {
         "en-US": "[Sueii Slierre]\nI remember hearing that he\nreceived a high recommendation\nto work here, but specifics elude^FFFFFF ^000000 me since I don't work in Human\nResources. There's a rumor that\nhe had a troubled love life...",
         "pt-BR": "[Sueii Slierre]\nEu me lembro de ter ouvido que ele\nrecebeu uma alta recomendação\npara trabalhar aqui, mas os detalhes me escapam^FFFFFF ^000000, pois não trabalho na área de\nRecursos Humanos. Há um boato de que\ntinha uma vida amorosa conturbada...",
-        "es-ES": "[Sueii Slierre]\nRecuerdo haber oído que\nrecibió una alta recomendación\npara trabajar aquí, pero los detalles se me escapan^FFFFFF ^000000ya que no trabajo en el sector de recursos\nhumanos. Existe el rumor de que\ntenía una vida amorosa complicada…"
+        "es-ES": "[Sueii Slierre]\nRecuerdo haber oído que\nrecibió una alta recomendación\npara trabajar aquí, pero los detalles se me escapan^FFFFFF ^000000ya que no trabajo en el sector de recursos\nhumanos. Existe el rumor de que\ntenía una vida amorosa complicada..."
     },
     "SCfX": {
         "en-US": "[Sueii Slierre]\nBut aside from a few\nrumors, we really don't\nknow much about Wolfchev's\npersonal life. But then again,\nit may be unethical to pry too\nmuch into our employee's lives.",
@@ -1497,17 +1497,17 @@
     "SyfX": {
         "en-US": "His experiments are suspicious...",
         "pt-BR": "Seus experimentos são suspeitos...",
-        "es-ES": "Sus experimentos son sospechosos…"
+        "es-ES": "Sus experimentos son sospechosos..."
     },
     "TCfX": {
         "en-US": "[Sueii Slierre]\nYes, yes, I'd agree if\nI understood science a\nlittle bit better. Now, you'll\nhave to excuse me. I've been^FFFFFF      ^000000 distracted long enough as it is...",
         "pt-BR": "[Sueii Slierre]\nSim, sim, eu concordaria se\nentendesse a ciência\num pouco melhor. Agora,\ncom licença. Eu já me^FFFFFF ^000000 distraí demais...",
-        "es-ES": "[Sueii Slierre]\nSí, sí, estaría de acuerdo si\nentendiera un poco más\nsobre ciencia. Ahora, tendrás\nque disculparme. Ya llevo^FFFFFF ^000000 demasiado tiempo distraída de por sí…"
+        "es-ES": "[Sueii Slierre]\nSí, sí, estaría de acuerdo si\nentendiera un poco más\nsobre ciencia. Ahora, tendrás\nque disculparme. Ya llevo^FFFFFF ^000000 demasiado tiempo distraída de por sí..."
     },
     "TSfX": {
         "en-US": "[Sueii Slierre]\nWhat exactly do you mean?\nAre you sure that you haven't\nmisunderstood anything about\nWolfchev's work? You'll need\nto illustrate your claim for us\nto be on the same page...",
         "pt-BR": "[Sueii Slierre]\nO que exatamente você quer dizer?\nTem certeza de que não\nentendeu nada errado sobre o\ntrabalho do Wolfchev? Você vai precisar\nprovar sua afirmação para que possamos\nchegar a um entendimento...",
-        "es-ES": "[Sueii Slierre]\n¿Qué quieres decir exactamente?\n¿No habrás malinterpretado\nalgo sobre el trabajo\nde Wolfchev? Tendrás\nque demostrar tu afirmación\npara que estemos de acuerdo…"
+        "es-ES": "[Sueii Slierre]\n¿Qué quieres decir exactamente?\n¿No habrás malinterpretado\nalgo sobre el trabajo\nde Wolfchev? Tendrás\nque demostrar tu afirmación\npara que estemos de acuerdo..."
     },
     "TifX": {
         "en-US": "Show Evidence",
@@ -1532,7 +1532,7 @@
     "UifX": {
         "en-US": "[Sueii Slierre]\nSo... You're\nsuspicious about\nWolfchev's research in\nthe Regenschirm Laboratory?",
         "pt-BR": "[Sueii Slierre]\nEntão... Você está\nsuspeitando da\npesquisa do Wolfchev no\nno Laboratório Regenschirm?",
-        "es-ES": "[Sueii Slierre]\nAsí que… Llevas\nsospechando sobre\nla investigación de Wolfchev en\nel laboratorio de Regenschirm?"
+        "es-ES": "[Sueii Slierre]\nAsí que... Llevas\nsospechando sobre\nla investigación de Wolfchev en\nel laboratorio de Regenschirm?"
     },
     "UyfX": {
         "en-US": "Yes",
@@ -1582,12 +1582,12 @@
     "XCfX": {
         "en-US": "[Sueii Slierre]\nFor now, your claim\nmerits an investigation.\nI'll let you know if we\nfind anything significant...",
         "pt-BR": "[Sueii Slierre]\nPor enquanto, sua alegação\nmerece uma investigação.\nEu te informo se\nencontrarmos algo significativo...",
-        "es-ES": "[Sueii Slierre]\nPor ahora, tu acusación\nmerece una investigación.\nTe haré saber si\nencontramos algo significativo…"
+        "es-ES": "[Sueii Slierre]\nPor ahora, tu acusación\nmerece una investigación.\nTe haré saber si\nencontramos algo significativo..."
     },
     "XSfX": {
         "en-US": "[Sueii Slierre]\nEvidence...?\nI'm sorry, but you don't\nseem to be carrying anything\nthat can be construed as proof.\nI suggest you bring something^FFFFFF     ^000000 that actually supports your claim.",
         "pt-BR": "[Sueii Slierre]\nEvidências...?\nVai me desculpar, mas você não\nparece estar carregando nada\nque possa ser interpretado como prova.\nSugiro que traga algo^FFFFFF ^000000 que realmente sustente sua alegação.",
-        "es-ES": "[Sueii Slierre]\n¿Evidencia…?\nLo siento, pero no\npareces llevar nada que pueda\nconsiderarse una prueba.\nTe sugiero que traigas algo^FFFFFF ^000000que realmente justifique tu afirmación."
+        "es-ES": "[Sueii Slierre]\n¿Evidencia...?\nLo siento, pero no\npareces llevar nada que pueda\nconsiderarse una prueba.\nTe sugiero que traigas algo^FFFFFF ^000000que realmente justifique tu afirmación."
     },
     "XifX": {
         "en-US": "[Sueii Slierre]\nIf you're finished,\nI'd like to get back on\ntask. Please excuse me.",
@@ -1597,7 +1597,7 @@
     "XyfX": {
         "en-US": "[Sueii Slierre]\nHmm, have you come back\nto address your claim about\nWolfchev's work? If you don't\nhave any evidence, then you\nshouldn't be making rumors...",
         "pt-BR": "[Sueii Slierre]\nHmm, você voltou\npara abordar sua afirmação sobre o\ntrabalho do Wolfchev? Se você não\ntem nenhuma evidência, então\nnão deveria estar inventando histórias...",
-        "es-ES": "[Sueii Slierre]\nMmm, ¿volviste\npara fundamentar tu afirmación sobre\nWolfchev? Si no\ntienes evidencia, no tendrías\nque andar levantando rumores…"
+        "es-ES": "[Sueii Slierre]\nMmm, ¿volviste\npara fundamentar tu afirmación sobre\nWolfchev? Si no\ntienes evidencia, no tendrías\nque andar levantando rumores..."
     },
     "YCfX": {
         "en-US": "[Sueii Slierre]\nHmm. I can't consider\nwhatever you brought this\ntime as evidence that would\nallay my doubts about your\nclaim. Now, if you'll excuse\nme, I need to get back on task.",
@@ -1617,7 +1617,7 @@
     "YyfX": {
         "en-US": "What was he doing...?",
         "pt-BR": "O que ele estava fazendo...?",
-        "es-ES": "¿Qué estaba haciendo…?"
+        "es-ES": "¿Qué estaba haciendo...?"
     },
     "ZCfX": {
         "en-US": "[Sueii Slierre]\nIt turns out that Wolfchev\nwas kidnapping weak and sick\npeople from the slums and\nusing them as his guinea pigs.\nRest assured, he'll be punished\nfor his behavior, if not fired.",
@@ -1637,7 +1637,7 @@
     "ZyfX": {
         "en-US": "[Sueii Slierre]\nLet me promise you\nthat Rekenber will ensure\nthat this kind of incident\nwill not be repeated and\nwe'll do everything in our\npower to compensate for this...",
         "pt-BR": "[Sueii Slierre]\nEu te prometo\nque a Rekenber vai garantir\nque esse tipo de incidente\nnão se repita e\nfaremos tudo o que estiver ao nosso\nalcance para compensar isso...",
-        "es-ES": "[Sueii Slierre]\nTe prometo\nque Rekenber se asegurará \nde que este tipo de incidentes\nno se repitan y haremos\ntodo lo que esté a nuestro\nalcance para compensar esto…"
+        "es-ES": "[Sueii Slierre]\nTe prometo\nque Rekenber se asegurará \nde que este tipo de incidentes\nno se repitan y haremos\ntodo lo que esté a nuestro\nalcance para compensar esto..."
     },
     "aCfX": {
         "en-US": "[Sueii Slierre]\nOh, our investigation\nof your claim is still in\nprogress. However, we\nwill let you know when any\nnew developments arise.",
@@ -1717,7 +1717,7 @@
     "dyfX": {
         "en-US": "[Rekenber Guard]\nKeep your eyes open.\nI've heard rumors that some\nadventurers from Rune-Midgard\nare trying to sneak into here!\nI know the security here is\npretty much fail sure, but...",
         "pt-BR": "[Guarda da Rekenber]\nFique de olhos abertos.\nOuvi rumores de que alguns\naventureiros de Rune-Midgard\nestão tentando se infiltrar aqui!\nSei que a segurança daqui é\npraticamente infalível, mas...",
-        "es-ES": "[Guardia de Rekenber]\nMantén los ojos abiertos. Oí rumores de que algunos trotamundos de Rune-Midgard están tratando de colarse aquí. Sé que la seguridad de este lugar es prácticamente inexpugnable, pero…"
+        "es-ES": "[Guardia de Rekenber]\nMantén los ojos abiertos. Oí rumores de que algunos trotamundos de Rune-Midgard están tratando de colarse aquí. Sé que la seguridad de este lugar es prácticamente inexpugnable, pero..."
     },
     "eCfX": {
         "en-US": "[Rekenber Guard]\nThis area is restricted\nto the public! Who are you\nand how did you get in here?!\nHey, I need backup right away!",
@@ -1737,12 +1737,12 @@
     "eyfX": {
         "en-US": "[Rekenber Guard]\n...",
         "pt-BR": "[Guarda da Rekenber]\n...",
-        "es-ES": "[Guardia de Rekenber]\n…"
+        "es-ES": "[Guardia de Rekenber]\n..."
     },
     "fCfX": {
         "en-US": "[Rekenber Guard]\n...!",
         "pt-BR": "[Guarda da Rekenber]\n...!",
-        "es-ES": "[Guardia de Rekenber]\n¡…!"
+        "es-ES": "[Guardia de Rekenber]\n¡...!"
     },
     "fSfX": {
         "en-US": "Blackboard",
@@ -1792,12 +1792,12 @@
     "hifX": {
         "en-US": "[Jorje]\nOh man...\nI've been working so\nhard and haven't taken\nany breaks. I think I'll\nreward myself and buy\nsomething like maybe--",
         "pt-BR": "[Jorje]\nAh, cara...\nEu tenho trabalhado tanto\ne não tenho feito\nnenhum intervalo. Acho que vou me\nrecompensar e comprar\nalgo tipo...",
-        "es-ES": "[Jorje]\nVaya…\nEstuve trabajando tan\nduro y no me tomé \nningún descanso. Creo que voy a\nrecompensarme y comprar\nalgo como, tal vez…"
+        "es-ES": "[Jorje]\nVaya...\nEstuve trabajando tan\nduro y no me tomé \nningún descanso. Creo que voy a\nrecompensarme y comprar\nalgo como, tal vez..."
     },
     "hyfX": {
         "en-US": "[Jorje]\nNo! No, I'm not\ngonna buy anything!\nI've got my future wife\nto think about! Must...\nSave... More... Money!",
         "pt-BR": "[Jorje]\nNão! Não, eu não vou\ncomprar nada!\nTenho que pensar em minha futura esposa!\nPreciso...\neconomizar... mais... dinheiro!",
-        "es-ES": "[Jorje]\n¡No! ¡No, no voy\na comprar nada!\n¡Tengo que pensar\nen mi futura esposa! ¡Debo…\nahorrar… más… dinero!"
+        "es-ES": "[Jorje]\n¡No! ¡No, no voy\na comprar nada!\n¡Tengo que pensar\nen mi futura esposa! ¡Debo...\nahorrar... más... dinero!"
     },
     "iCfX": {
         "en-US": "Mereth",
@@ -1812,7 +1812,7 @@
     "iifX": {
         "en-US": "[Mereth]\nShhhhh....\nAaaaaaaahhh...",
         "pt-BR": "[Mereth]\nShhhhh....\nAaaaaaaahhhh...",
-        "es-ES": "[Mereth]\nShhhhh…\nAaaaaaaahhh…"
+        "es-ES": "[Mereth]\nShhhhh...\nAaaaaaaahhh..."
     },
     "iyfX": {
         "en-US": "^3355FFThe employee turned his\nhead and peered into your\neyes through the black mask\non his face. Mereth stared\nwordlessly for a moment and\nthen began to dance a lively,\ncreepily jovial jig.^000000",
@@ -1872,7 +1872,7 @@
     "lifX": {
         "en-US": "[Kejulle Rekenber]\nHm? Sure, my last name\nis Rekenber and that's the\nsame name as our chairman,\nbut that's just a coincidence.\nI'm merely a normal employee.\nYeah, no special treatment...",
         "pt-BR": "[Kejulle Rekenber]\nHum? Claro, meu sobrenome\né Rekenber e esse é o\nmesmo nome do nosso presidente,\nmas isso é só uma coincidência.\nSou apenas um funcionário normal.\nAham, sem tratamento especial...",
-        "es-ES": "[Kejulle Rekenber]\n¿Mm? Claro, mi apellido\nes Rekenber y es el mismo\nque el de nuestro presidente,\npero es solo una coincidencia.\nNo soy más que un empleado normal.\nSí, sin trato especial…"
+        "es-ES": "[Kejulle Rekenber]\n¿Mm? Claro, mi apellido\nes Rekenber y es el mismo\nque el de nuestro presidente,\npero es solo una coincidencia.\nNo soy más que un empleado normal.\nSí, sin trato especial..."
     },
     "lyfX": {
         "en-US": "^3355FFThis desk has a bookshelf\nthat is crammed with all sorts\nof books. Out of curiosity, you\ndecide to pick one out.^000000",
@@ -1912,7 +1912,7 @@
     "nifX": {
         "en-US": "[Mareth]\nEat it up...\nOr just melt it.\nSlather it all over me.\nBooyah. New life aspiration.",
         "pt-BR": "[Mareth]\nComa-o...\nOu simplesmente derreta-o.\nPasse-o em mim.\nÉ isso, novo propósito de vida.",
-        "es-ES": "[Mareth]\nComerlo…\nO simplemente derretirlo.\nUntarlo sobre mi cuerpo.\nHurra. Una nueva aspiración de vida."
+        "es-ES": "[Mareth]\nComerlo...\nO simplemente derretirlo.\nUntarlo sobre mi cuerpo.\nHurra. Una nueva aspiración de vida."
     },
     "nyfX": {
         "en-US": "Mazwon",
@@ -1927,7 +1927,7 @@
     "oSfX": {
         "en-US": "[Mazwon]\nNoama...!\nThese machines are\nacting up again! Get\nover here right now!",
         "pt-BR": "[Mazwon]\nNoama...!\nEssas máquinas estão\nfuncionando de novo! Vem\naqui agora mesmo!",
-        "es-ES": "[Mazwon]\n¡Noama…!\n¡Las máquinas están\nfallando de nuevo! ¡Ven\naquí ahora mismo!"
+        "es-ES": "[Mazwon]\n¡Noama...!\n¡Las máquinas están\nfallando de nuevo! ¡Ven\naquí ahora mismo!"
     },
     "oifX": {
         "en-US": "[Noama]\nWhat?!\nStop bugging me,\nI didn't do anything!",
@@ -1942,7 +1942,7 @@
     "pCfX": {
         "en-US": "[Noama]\nHee hee~!\nYou wanna hear\nsomething funny?\nI heard there's a bar in\nProntera where this guy\nsneaks singles into Jawa--",
         "pt-BR": "[Noama]\nHihihi~!\nVocê quer ouvir\nalgo engraçado?\nSoube que tem um bar em\nProntera onde um cara\nleva solteiras para Jawa...",
-        "es-ES": "[Noama]\n¡Je, je!\n¿Quieres oír\nalgo divertido?\nDicen que hay un bar en\nProntera donde hay un tipo\nque cuela solteros en Jawa…"
+        "es-ES": "[Noama]\n¡Je, je!\n¿Quieres oír\nalgo divertido?\nDicen que hay un bar en\nProntera donde hay un tipo\nque cuela solteros en Jawa..."
     },
     "pSfX": {
         "en-US": "Enoz",
@@ -1957,7 +1957,7 @@
     "pyfX": {
         "en-US": "[Enoz]\nAnyway, this new book,\n''Where the Red Plant Grows''\nis up for the Yggdrasilberry\nAward. I... I don't know why\nI was compelled to share that\nwith you. Seriously, I don't...",
         "pt-BR": "[Enoz]\nEnfim, este novo livro,\n''Onde a Planta Vermelha Cresce''\nestá concorrendo ao Prêmio Fruto de Yggdrasil.\nEu... não sei por que\nsenti necessidade de compartilhar isso\ncom você. Sério, não sei...",
-        "es-ES": "[Enoz]\nComo sea, este nuevo libro,\nDonde crece la Planta roja\ncompite por el Premio Fruto\nde Yggdrasil. Yo… No sé por qué \nme sentí obligado a compartir eso\ncontigo. En serio, no sé…"
+        "es-ES": "[Enoz]\nComo sea, este nuevo libro,\nDonde crece la Planta roja\ncompite por el Premio Fruto\nde Yggdrasil. Yo... No sé por qué \nme sentí obligado a compartir eso\ncontigo. En serio, no sé..."
     },
     "qCfX": {
         "en-US": "Leimi",
@@ -1967,12 +1967,12 @@
     "qSfX": {
         "en-US": "[Leimi]\n...\n......",
         "pt-BR": "[Leimi]\n...\n......",
-        "es-ES": "[Leimi]\n…\n......"
+        "es-ES": "[Leimi]\n...\n......"
     },
     "qifX": {
         "en-US": "[Leimi]\nOh...!\nGood heavens!\nUm, may I help you?",
         "pt-BR": "[Leimi]\nAi...!\nMinha nossa!\nHã, posso te ajudar?",
-        "es-ES": "[Leimi]\n¡Oh…!\n¡Santo cielo!\n¿Puedo ayudarte?"
+        "es-ES": "[Leimi]\n¡Oh...!\n¡Santo cielo!\n¿Puedo ayudarte?"
     },
     "qyfX": {
         "en-US": "[Leimi]\nOh, you're an Assassin!\nOh, you boys are soooo cute!\nAnd so cool and so mysterious^FFFFFF     ^000000 all at the same time! I love you!",
@@ -1982,7 +1982,7 @@
     "rCfX": {
         "en-US": "[Leimi]\nAn Assassin...?\nOh, you wouldn't happen\nto know any Assassin boys\nthat might be single, do you?\nOh-my-god, they're hunky-hot~",
         "pt-BR": "[Leimi]\nUm assassino...?\nAh, por acaso você não\nconhece algum assassino\nsolteiro, não?\nAi, nossa, eles são muito gostosos!",
-        "es-ES": "[Leimi]\n¿Una Asesina…?\nAh, de casualidad no\nconoces a algún chico Asesino\nque sea soltero, ¿no?\nAy, no puedo creer lo guapos que son."
+        "es-ES": "[Leimi]\n¿Una Asesina...?\nAh, de casualidad no\nconoces a algún chico Asesino\nque sea soltero, ¿no?\nAy, no puedo creer lo guapos que son."
     },
     "rSfX": {
         "en-US": "^3355FF*Click*^000000",
@@ -1992,7 +1992,7 @@
     "rifX": {
         "en-US": "[{0}]\nWhat the...?\nThat sound. Did...\nDid someone just\ntake my picture?",
         "pt-BR": "[{0}]\nMas o que...\nEsse som. Será que...\nAlguém acabou de\ntirar uma foto minha?",
-        "es-ES": "[{0}]\n¿Pero qué…?\nEse sonido. ¿Acaso…?\n¿Alguien acaba de\nsacarme una foto?"
+        "es-ES": "[{0}]\n¿Pero qué...?\nEse sonido. ¿Acaso...?\n¿Alguien acaba de\nsacarme una foto?"
     },
     "ryfX": {
         "en-US": "Cenku Dekdam",
@@ -2017,7 +2017,7 @@
     "syfX": {
         "en-US": "[Bankri Kun]\nMust work...\nMust focus...\nResist sleepiness...\nWhy do I keep coming\nhere? Ugh, h-horrible.",
         "pt-BR": "[Bankri Kun]\nPreciso trabalhar...\nPreciso me concentrar...\nResistir ao sono...\nPor que continuo vindo\naqui? Ugh, h-horrível.",
-        "es-ES": "[Bankri Kun]\nDebo trabajar…\nDebo concentrarme…\nResistir la somnolencia…\n¿Por qué sigo viniendo\naquí? Ugh, horrible."
+        "es-ES": "[Bankri Kun]\nDebo trabajar...\nDebo concentrarme...\nResistir la somnolencia...\n¿Por qué sigo viniendo\naquí? Ugh, horrible."
     },
     "tCfX": {
         "en-US": "[Bankri Kun]\nHey youngster. You wanted\nadventuring advice? Okay.\nUm. Hm. Always. Brush.\nYour teeth. Brush them\neveryday.  Oh, and don't\nforget to floss, either.",
@@ -2027,7 +2027,7 @@
     "tSfX": {
         "en-US": "[Bankri Kun]\nNow it's time for me\nto head back to work.\nI'll see you later, kid.\nSorry my advice was so\nlame-- I couldn't think of\nanything else to tell you.",
         "pt-BR": "[Bankri Kun]\nAgora é hora de eu\nvoltar ao trabalho.\nTe vejo mais tarde, jovem.\nDesculpa se meu conselho foi tão\nchato. Não consegui pensar em mais nada\npara te dizer.",
-        "es-ES": "[Bankri Kun]\nAhora me toca\nvolver al trabajo.\nTe veré luego, púber.\nSiento que mi consejo fuera tan\npatético… no se me ocurrió \nalgo mejor para decir."
+        "es-ES": "[Bankri Kun]\nAhora me toca\nvolver al trabajo.\nTe veré luego, púber.\nSiento que mi consejo fuera tan\npatético... no se me ocurrió \nalgo mejor para decir."
     },
     "tifX": {
         "en-US": "Leekal",
@@ -2037,7 +2037,7 @@
     "tyfX": {
         "en-US": "[Leekal]\nSo... Very broke.\nWhy did I spend so much\nmoney on wine, women and\nsong? I regret it all, all the\npleasure I've had this month.\nYes, it was too much pleasure.",
         "pt-BR": "[Leekal]\nEntão... quebrei feio.\nPor que gastei tanto\ndinheiro em vinhos, mulheres e\nmúsicas? Eu me arrependo de tudo, de todo o\nprazer que tive este mês.\nSim, foi prazer demais.",
-        "es-ES": "[Leekal]\nAsí que… tan en quiebra.\n¿Por qué gasté tanto\ndinero en vino, música\ny mujeres? Me arrepiento de todo, todo el\nplacer que tuve este mes.\nSí, fue demasiado placer."
+        "es-ES": "[Leekal]\nAsí que... tan en quiebra.\n¿Por qué gasté tanto\ndinero en vino, música\ny mujeres? Me arrepiento de todo, todo el\nplacer que tuve este mes.\nSí, fue demasiado placer."
     },
     "uCfX": {
         "en-US": "[Ninjose]\nThat's what happens\nwhen you're irresponsible\nwith your money. You really\nshould read this ''Anybody\nCan Be Rich'' book.",
@@ -2082,7 +2082,7 @@
     "wCfX": {
         "en-US": "[Ellette]\n...",
         "pt-BR": "[Ellette]\n...",
-        "es-ES": "[Ellette]\n…"
+        "es-ES": "[Ellette]\n..."
     },
     "wSfX": {
         "en-US": "[{0}]\nExcuse me.",
@@ -2092,7 +2092,7 @@
     "wifX": {
         "en-US": "[Ellette]\n...\n......",
         "pt-BR": "[Ellette]\n...\n......",
-        "es-ES": "[Ellette]\n…\n......"
+        "es-ES": "[Ellette]\n...\n......"
     },
     "wyfX": {
         "en-US": "[{0}]\nHello?",
@@ -2102,7 +2102,7 @@
     "xCfX": {
         "en-US": "[Ellette]\n...Oh! Everyone!\nI just completed\nanother one! Hooray!",
         "pt-BR": "[Ellette]\n...Ah! Pessoal!\nAcabei de completar\nmais um! Uhul!",
-        "es-ES": "[Ellette]\n…¡Oh! ¡Todos!\n¡Acabo de terminar\notra! ¡Hurra!"
+        "es-ES": "[Ellette]\n...¡Oh! ¡Todos!\n¡Acabo de terminar\notra! ¡Hurra!"
     },
     "xSfX": {
         "en-US": "[All other Employees]\nWh-what?!\nNo way, not again!",
@@ -2112,7 +2112,7 @@
     "xifX": {
         "en-US": "[Leekal]\nAre you even human?\nYou must have some\nsecret for that much\nproductivity. It's weird...",
         "pt-BR": "[Leekal]\nVocê é gente mesmo?\nVocê deve ter algum\nsegredo para tanta\nprodutividade. É estranho...",
-        "es-ES": "[Leekal]\n¿De verdad eres humana?\nDebe tener algún\nsecreto para tanta\nproductividad. Es raro…"
+        "es-ES": "[Leekal]\n¿De verdad eres humana?\nDebe tener algún\nsecreto para tanta\nproductividad. Es raro..."
     },
     "xyfX": {
         "en-US": "[Ellette]\nOh, come on.\nMaybe I'm a little\ngood at this, but there's\nno way I can beat Cenku.",
@@ -2137,7 +2137,7 @@
     "yyfX": {
         "en-US": "[Rekenber Employee]\nYou can choose to work\nfrom home, or undergo a\nlittle bit of training for more\nprofessional positions. This\nis a great chance to make a\ndifference... and some money~",
         "pt-BR": "[Funcionário da Rekenber]\nVocê pode optar por trabalhar\nde casa ou passar por um\ncurto treinamento para posições mais\nprofissionais. Essa\né uma ótima chance de fazer a\ndiferença... e ganhar dinheiro~",
-        "es-ES": "[Empleado de Rekenber]\nPuedes elegir trabajar\ndesde casa, o bien someterte\na una pequeña capacitación\npara un cargo más profesional. Es\nuna gran oportunidad para\nhacer la diferencia… y algo de dinero."
+        "es-ES": "[Empleado de Rekenber]\nPuedes elegir trabajar\ndesde casa, o bien someterte\na una pequeña capacitación\npara un cargo más profesional. Es\nuna gran oportunidad para\nhacer la diferencia... y algo de dinero."
     },
     "zCfX": {
         "en-US": "Scientist",
@@ -2147,7 +2147,7 @@
     "zSfX": {
         "en-US": "[Scientist]\nIt takes so long for\nthis device to process\nall the data and give me\nthe results. Still, the wait\nheightens my anticipation...",
         "pt-BR": "[Cientista]\nDemora muito para\nesse dispositivo processar\ntodos os dados e me dar\nos resultados. Ainda assim, a espera\naumenta minha expectativa...",
-        "es-ES": "[Científico]\nEste dispositivo tarda\ndemasiado en procesar\ntodos los datos y darme\nlos resultados. Aun así, la espera\naumenta mi expectativa…"
+        "es-ES": "[Científico]\nEste dispositivo tarda\ndemasiado en procesar\ntodos los datos y darme\nlos resultados. Aun así, la espera\naumenta mi expectativa..."
     },
     "zifX": {
         "en-US": "[Scientist]\nWhat?! Guards!\nHurry, there's an\nintruder right here!",
@@ -2162,7 +2162,7 @@
     "0CfX": {
         "en-US": "[Repairman]\nNo wonder these things\nbreak all the time! These\nmachines have been totally\nabused! Ugh, there's no\nappreciation for all of this\nconvenient technology...",
         "pt-BR": "[Mecânico]\nNão é de se admirar que essas coisas\nquebrem o tempo todo! Essas\nmáquinas foram totalmente\nabusadas! Ugh, não dão\nvalor para toda essa\ntecnologia conveniente...",
-        "es-ES": "[Reparador]\n¡No me extraña que estas cosas\nse rompan todo el tiempo! ¡Estas\nmáquinas sufren todo tipo\nde abusos! Uf, no tienen\nningún aprecio por la tecnología\nque hace todo más fácil…"
+        "es-ES": "[Reparador]\n¡No me extraña que estas cosas\nse rompan todo el tiempo! ¡Estas\nmáquinas sufren todo tipo\nde abusos! Uf, no tienen\nningún aprecio por la tecnología\nque hace todo más fácil..."
     },
     "0SfX": {
         "en-US": "[Repairman]\nYeah, all of this lab\nequipment is really sensitive,\nnot to mention expensive. If\nyou ever handle this stuff, you\nneed to be extra cautious.",
@@ -2172,7 +2172,7 @@
     "0ifX": {
         "en-US": "[Repairman]\nHey, you don't work--\nG-guards! Hurry! There's\nsomebody over here!",
         "pt-BR": "[Mecânico]\nEi, você não trabalha...\nG-Guardas! Rápido! Tem\nalguém aqui!",
-        "es-ES": "[Reparador]\nOye, tú no trabajas aquí…\n¡G-guardias! ¡Dense prisa! ¡Hay\nalguien por aquí!"
+        "es-ES": "[Reparador]\nOye, tú no trabajas aquí...\n¡G-guardias! ¡Dense prisa! ¡Hay\nalguien por aquí!"
     },
     "0yfX": {
         "en-US": "[Scientist]\nAlright. Pull one test\ntube out of the machine,\nreplace the other test\ntube over here and then\nclean the first test tube?",
@@ -2182,12 +2182,12 @@
     "1CfX": {
         "en-US": "[Scientist]\nOr do I clean the test tube,\nput it into the machine and\nthen replace the other one?\nI'm so confused with this\nprocedure! If only I didn't\nlose the instructions...",
         "pt-BR": "[Cientista]\nOu eu limpo o tubo de ensaio,\ncoloco-o na máquina e\ndepois substituo o outro?\nAi, que procedimento\nconfuso! Se ao menos eu não\ntivesse perdido as instruções...",
-        "es-ES": "[Científico]\n¿O limpio el tubo de ensayo,\nlo coloco en la máquina\ny sustituyo el otro?\n¡Este procedimiento es demasiado\nconfuso! Si tan solo no hubiera\nperdido las instrucciones…"
+        "es-ES": "[Científico]\n¿O limpio el tubo de ensayo,\nlo coloco en la máquina\ny sustituyo el otro?\n¡Este procedimiento es demasiado\nconfuso! Si tan solo no hubiera\nperdido las instrucciones..."
     },
     "1SfX": {
         "en-US": "[Scientist]\nAlright. Pull one test\ntube out of the machine,\nreplace th--hey. You're\nnot Ralphie. Wait. Guaaards!\nHelp me, there's some weirdo!",
         "pt-BR": "[Cientista]\nCerto. Retirar um tubo de ensaio\nda máquina,\nsubstituir o... Ei, você\nnão é o Ralphie. Espera. Guaaardas!\nMe ajudem, tem um esquisito aqui!",
-        "es-ES": "[Científico]\nDe acuerdo. Extraigo un tubo de ensayo\nde la máquina,\nreemplazo el… Oye. Tú \nno eres Ralphie. Espera. ¡Guardias!\n¡Ayúdenme, hay un bicho raro aquí!"
+        "es-ES": "[Científico]\nDe acuerdo. Extraigo un tubo de ensayo\nde la máquina,\nreemplazo el... Oye. Tú \nno eres Ralphie. Espera. ¡Guardias!\n¡Ayúdenme, hay un bicho raro aquí!"
     },
     "1ifX": {
         "en-US": "[Scientist]\nWhoa whoa~!\nPlease! Don't\ntouch anything!\nI'm dealing with highly\nvolatile chemicals here!",
@@ -2307,7 +2307,7 @@
     "7SfX": {
         "en-US": "[Rossa]\nOh my.. I am really sorry..\nI wasn't able to finish Doram Hair Style yet. Please come back next time, dear customer.",
         "pt-BR": "[Rossa]\nAi, minha nossa... Eu realmente sinto muito...\nAinda não consegui terminar o Doram Hair Style. Por favor, volte na próxima vez, ilustre cliente.",
-        "es-ES": "[Rossa]\nOh, vaya. Lo siento mucho…\nAún no pude terminar el peinado Doram. Vuelve más tarde, cliente."
+        "es-ES": "[Rossa]\nOh, vaya. Lo siento mucho...\nAún no pude terminar el peinado Doram. Vuelve más tarde, cliente."
     },
     "7ifX": {
         "en-US": "[Rossa]",
@@ -2322,7 +2322,7 @@
     "8CfX": {
         "en-US": "Oh, wow~ Where did\nyou get your hair styled?\nI love it! But... It would\nbe even more beautiful if\nyou dyed your hair. What\ndo you think about that?",
         "pt-BR": "Ah, nossa~ Onde você\narrumou seu cabelo?\nEu adorei! Mas... seria\nainda mais bonito se\nvocê pintasse seu cabelo. O que\nacha disso?",
-        "es-ES": "Oh, guau. ¿Dónde\nte hiciste ese peinado?\n¡Me encanta! Pero… Sería\nmucho más hermoso si\nte tiñeras el cabello. ¿Qué \nopinas de eso?"
+        "es-ES": "Oh, guau. ¿Dónde\nte hiciste ese peinado?\n¡Me encanta! Pero... Sería\nmucho más hermoso si\nte tiñeras el cabello. ¿Qué \nopinas de eso?"
     },
     "8SfX": {
         "en-US": "Dye Hair",
@@ -2417,22 +2417,22 @@
     "AyjX": {
         "en-US": "[Rossa]\nOh, I'm sorry dear,\nbut I can't dye your\nhair if you didn't bring\nScarlet Dyestuffs with you...",
         "pt-BR": "[Rossa]\nAh, me desculpe, meu bem,\nmas não posso pintar seu\ncabelo se você não tiver trazido\nTinturas Vermelhas com você...",
-        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte escarlata contigo…"
+        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte escarlata contigo..."
     },
     "BCjX": {
         "en-US": "[Rossa]\nOh, I'm sorry dear,\nbut I can't dye your\nhair if you didn't bring\nLemon Dyestuffs with you...",
         "pt-BR": "[Rossa]\nAh, me desculpe, meu bem,\nmas não posso pintar seu\ncabelo se você não trouxe\nLemon Dyestuffs com você...",
-        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte amarillo limón contigo…"
+        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte amarillo limón contigo..."
     },
     "BSjX": {
         "en-US": "[Rossa]\nOh, I'm sorry dear,\nbut I can't dye your\nhair if you didn't bring\nViolet Dyestuffs with you...",
         "pt-BR": "[Rossa]\nAh, me desculpe, meu bem,\nmas não posso pintar seu\ncabelo se você não trouxe\nViolet Dyestuffs com você...",
-        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte morado contigo…"
+        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte morado contigo..."
     },
     "BijX": {
         "en-US": "[Rossa]\nOh, I'm sorry dear,\nbut I can't dye your\nhair if you didn't bring\nOrange Dyestuffs with you...",
         "pt-BR": "[Rossa]\nAh, me desculpe, meu bem,\nmas não posso pintar seu\ncabelo se você não trouxe\nOrange Dyestuffs com você...",
-        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte naranja contigo…"
+        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte naranja contigo..."
     },
     "ByjX": {
         "en-US": "[Rossa]\nOh, I'm sorry dear,\nbut I can't dye your\nhair if you didn't bring\nDarkgreen Dyestuffs\nwith you. Would you come\nback after you get some?",
@@ -2447,12 +2447,12 @@
     "CSjX": {
         "en-US": "[Rossa]\nOh, I'm sorry dear,\nbut I can't dye your\nhair if you didn't bring\nWhite Dyestuffs with you...",
         "pt-BR": "[Rossa]\nAh, me desculpe, meu bem,\nmas não posso pintar seu\ncabelo se você não trouxe\nWhite Dyestuffs com você...",
-        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte blanco contigo…"
+        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte blanco contigo..."
     },
     "CijX": {
         "en-US": "[Rossa]\nOh, I'm sorry dear,\nbut I can't dye your\nhair if you didn't bring\nBlack Dyestuffs with you...",
         "pt-BR": "[Rossa]\nAh, me desculpe, meu bem,\nmas não posso pintar seu\ncabelo se você não trouxe\nBlack Dyestuffs com você...",
-        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte negro contigo…"
+        "es-ES": "[Rossa]\nAy, lo siento, cariño,\npero no puedo teñirte\nel cabello si no trajiste\nTinte negro contigo..."
     },
     "CyjX": {
         "en-US": "[Rossa]\nOh, I'm so sorry dear,\nbut my service fee is\n1,000 zeny. Did you forget\nto bring your money with you?",
@@ -2482,7 +2482,7 @@
     "ECjX": {
         "en-US": "[Assistant Beautician]\nWah?! Sweet Jiminy,\nyou freaked me out!\nWhat are you doing?!",
         "pt-BR": "[Assistente de Esteticista]\nQuê?! Minha nossa,\nvocê me assustou!\nO que está fazendo?!",
-        "es-ES": "[Asistente de estética]\n¡¿Bua?! Caramba…\n¡me asustaste!\n¡¿Qué estás haciendo?!"
+        "es-ES": "[Asistente de estética]\n¡¿Bua?! Caramba...\n¡me asustaste!\n¡¿Qué estás haciendo?!"
     },
     "ESjX": {
         "en-US": "[Assistant Beautician]\nOh! Um, a customer!\nH-h-h-h-h-hello! Can\nI help you with anything?",
@@ -2507,7 +2507,7 @@
     "FSjX": {
         "en-US": "[Assistant Beautician]\nOh! Me...? I'm\njust an assistant\nbeautician, but I'm\ntraining hard everyday\nso that I can become\na real professional!",
         "pt-BR": "[Assistente de Esteticista]\nAh! Eu...? Eu sou\napenas uma assistente de\nesteticista, mas\npratico duro todos os dias\npara me tornar\numa verdadeira profissional!",
-        "es-ES": "[Asistente de estética]\n¡Ah! ¿Yo…? Soy\nsolo una asistente de\nesteticista, ¡pero estoy\nentrenando duro todos los días\npara ser una verdadera\nprofesional!"
+        "es-ES": "[Asistente de estética]\n¡Ah! ¿Yo...? Soy\nsolo una asistente de\nesteticista, ¡pero estoy\nentrenando duro todos los días\npara ser una verdadera\nprofesional!"
     },
     "FijX": {
         "en-US": "[Assistant Beautician]\nYeah, I do all sorts of\ngrunt work for the boss while\nI'm in training. Sometimes, he\nmakes me work pretty hard.\nIn fact, I better get back to work before he gets angry at me!",
@@ -2517,12 +2517,12 @@
     "FyjX": {
         "en-US": "[Assistant Beautician]\nMe...? Oh no,\nno I can't! I mean,\nI'd love to but, I'm\nstill in training and\nI can't take responsibility\nif I mess up on a little kid!",
         "pt-BR": "[Assistente de Esteticista]\nEu...? Ah, não,\nnão, eu não posso! Quero dizer,\neu adoraria, mas\nainda estou em treinamento e\nnão posso assumir a responsabilidade\nse eu fizer besteira com uma criança pequena!",
-        "es-ES": "[Asistente de estética]\n¿Yo…? Ay, no,\n¡no puedo! Digo,\nme encantaría, pero todavía\nestoy en entrenamiento,\n¡y no podría responsabilizarme\nsi meto la pata con alguien!"
+        "es-ES": "[Asistente de estética]\n¿Yo...? Ay, no,\n¡no puedo! Digo,\nme encantaría, pero todavía\nestoy en entrenamiento,\n¡y no podría responsabilizarme\nsi meto la pata con alguien!"
     },
     "GCjX": {
         "en-US": "[Assistant Beautician]\nWell... I'm just an\nassistant, but I have been\nstudying hairstyling after\nwork. If you want, just bring\nme 250,000 zeny and I'll try\nmy best to change your hair~",
         "pt-BR": "[Assistente de Esteticista]\nBom... Sou apenas uma\nassistente, mas tenho\nestudado penteados depois do\ntrabalho. Se você quiser, basta trazer\n250.000 Zeny e eu darei\nmeu melhor para mudar seu cabelo~",
-        "es-ES": "[Asistente de estética]\nBueno… Solo soy una asistente,\npero he estado\nestudiando peluquería al salir del\ntrabajo. Si quieres, tráeme\n250000 zeny y haré mi mejor esfuerzo\npara cambiar tu estilo de cabello."
+        "es-ES": "[Asistente de estética]\nBueno... Solo soy una asistente,\npero he estado\nestudiando peluquería al salir del\ntrabajo. Si quieres, tráeme\n250000 zeny y haré mi mejor esfuerzo\npara cambiar tu estilo de cabello."
     },
     "GSjX": {
         "en-US": "[Assistant Beautician]\nI'd appreciate it if you'd\ngive me this chance! The\nboss doesn't think I'm ready\nfor styling real people yet, so\nI haven't had much practice!",
@@ -2532,7 +2532,7 @@
     "GijX": {
         "en-US": "[Assistant Beautician]\nI just know I could\ndo a good job on your\nhair! Just... Just please\nunderstand if I mess up.\nIt won't be too bad, I promise~",
         "pt-BR": "[Assistente de Esteticista]\nEu sei que poderia\nfazer um bom trabalho em seu\ncabelo! Só...\nentenda se eu errar, por favor.\nNão vai ser tão ruim, eu prometo~",
-        "es-ES": "[Asistente de estética]\n¡Solo sé que podría\nhacer un buen trabajo con tu\ncabello! Solo… Por favor\ntenme paciencia si meto la pata.\nNo lo haré tan mal, lo prometo."
+        "es-ES": "[Asistente de estética]\n¡Solo sé que podría\nhacer un buen trabajo con tu\ncabello! Solo... Por favor\ntenme paciencia si meto la pata.\nNo lo haré tan mal, lo prometo."
     },
     "GyjX": {
         "en-US": "[Assistant Beautician]\nYou're really going to\ngive me a chance to practice?\nOh, I love you so much! Okay,\nI'll need 250,000 zeny to make\nup for the material expenses.\nIs that okay with you?",
@@ -2547,7 +2547,7 @@
     "HSjX": {
         "en-US": "On second thought...",
         "pt-BR": "Pensando bem...",
-        "es-ES": "Pensándolo bien…"
+        "es-ES": "Pensándolo bien..."
     },
     "HijX": {
         "en-US": "[Assistant Beautician]\nGreat! Now, please\nchoose a hairstyle\nfrom ''1'' to ''23.''\nUm, if you need to\ncancel, just enter ''0.''",
@@ -2557,12 +2557,12 @@
     "HyjX": {
         "en-US": "[Assistant Beautician]\nAwwww...\nI guess you don't\ntrust me after all...",
         "pt-BR": "[Assistente de Esteticista]\nAwwww...\nAcho que você não\nconfia em mim, afinal...",
-        "es-ES": "[Asistente de estética]\nAyyy…\nSupongo que no\nconfías en mí después de todo…"
+        "es-ES": "[Asistente de estética]\nAyyy...\nSupongo que no\nconfías en mí después de todo..."
     },
     "ICjX": {
         "en-US": "[Assistant Beautician]\nHuh? I thought I asked\nyou to enter a number from\n''1'' to ''23?'' What did I do\nwrong this time? Hmmm...",
         "pt-BR": "[Assistente de Esteticista]\nO quê? Eu pensei que tinha pedido\npara você digitar um número de\n''1'' a ''23''? O que eu fiz de\nerrado dessa vez? Hummm...",
-        "es-ES": "[Asistente de estética]\n¿Eh? Pensé que te había pedido\nque ingresaras un número del\n1 al 23. ¿En qué \nme equivoqué esta vez? Mmmm…"
+        "es-ES": "[Asistente de estética]\n¿Eh? Pensé que te había pedido\nque ingresaras un número del\n1 al 23. ¿En qué \nme equivoqué esta vez? Mmmm..."
     },
     "ISjX": {
         "en-US": "[Assistant Beautician]\nSo this is the\nstyle you want me\nto try to do for you?",
@@ -2582,7 +2582,7 @@
     "JCjX": {
         "en-US": "[Assistant Beautician]\nOooh, there must\nbe some style that\nyou like, right? Hmmm...",
         "pt-BR": "[Assistente de Esteticista]\nAaah, deve haver\nalgum estilo que\nvocê gosta, certo? Hummm...",
-        "es-ES": "[Asistente de estética]\nOh, tiene que haber\nalgún estilo que\nte guste, ¿no crees? Mmmm…"
+        "es-ES": "[Asistente de estética]\nOh, tiene que haber\nalgún estilo que\nte guste, ¿no crees? Mmmm..."
     },
     "JSjX": {
         "en-US": "[Assistant Beautician]\nGreat, you finally\npicked one! What, which\none did you pick again?\nAh, I found it, I found it!\nHaha! No problem here!\nNow it's time to style!",
@@ -2602,7 +2602,7 @@
     "KCjX": {
         "en-US": "[Assistant Beautician]\nWaaaah!\nOh crap!\nWait, I can...\nI can fix this!",
         "pt-BR": "[Assistente de Esteticista]\nWaaaah!\nAi, droga!\nEspera, eu posso...\nEu posso consertar isso!",
-        "es-ES": "[Asistente de estética]\n¡Buaaa!\n¡Ay, maldita sea!\nEspera, puedo…\n¡puedo arreglarlo!"
+        "es-ES": "[Asistente de estética]\n¡Buaaa!\n¡Ay, maldita sea!\nEspera, puedo...\n¡puedo arreglarlo!"
     },
     "KSjX": {
         "en-US": "[Assistant Beautician]\n^333333*Pant Pant Pant*^000000",
@@ -2617,12 +2617,12 @@
     "KyjX": {
         "en-US": "So... How do you like\nyour new style? I love it!",
         "pt-BR": "Então... O que você acha do\nseu novo estilo? Eu adorei!",
-        "es-ES": "Así que… ¿Qué te parece\ntu nuevo estilo? ¡Me encanta!"
+        "es-ES": "Así que... ¿Qué te parece\ntu nuevo estilo? ¡Me encanta!"
     },
     "LCjX": {
         "en-US": "Wha...? This isn't what\nyou wanted? Uh oh... Um...\nWell, next time I know I can\ndo a much better job! Right!",
         "pt-BR": "Mas... Isso não é o que\nvocê queria? Vixe... Hum...\nBom, da próxima vez eu sei que posso\nfazer um trabalho muito melhor! Isso!",
-        "es-ES": "¿Qué…? ¿Esto no es lo que\nquerías? Ay, no… Eh…\nBueno, ¡sé que puedo hacer\nun trabajo mucho mejor la próxima vez! ¡Cierto!"
+        "es-ES": "¿Qué...? ¿Esto no es lo que\nquerías? Ay, no... Eh...\nBueno, ¡sé que puedo hacer\nun trabajo mucho mejor la próxima vez! ¡Cierto!"
     },
     "LSjX": {
         "en-US": "[Assistant Beautician]\nOh, you're such a\nsweetheart for helping\nme! Thank you for using\nmy service and come again~",
@@ -2632,12 +2632,12 @@
     "LijX": {
         "en-US": "[Assistant Beautician]\nHuh? Oh no, you're\nquitting? Well, I guess\nI couldn't trust me to\nstyle my hair either...\nYou're... You're right.",
         "pt-BR": "[Assistente de Esteticista]\nHã? Ai, não, você está\ndesistindo? Bom, eu acho que\nnão poderia confiar em mim para\npentear meu cabelo também...\nVocê... Você tem razão.",
-        "es-ES": "[Asistente de estética]\n¿Eh? Ay, no, ¿te\narrepentiste? Bueno, creo que yo\ntampoco confiaría en mí para\narreglarme el cabello…\nTienes… tienes razón."
+        "es-ES": "[Asistente de estética]\n¿Eh? Ay, no, ¿te\narrepentiste? Bueno, creo que yo\ntampoco confiaría en mí para\narreglarme el cabello...\nTienes... tienes razón."
     },
     "LyjX": {
         "en-US": "[Assistant Beautician]\nPrince Shammi?\nHe's only a genius when\nit comes to hairstyling!\nI'm just his apprentice, but\nmaybe someday, I can be a\nforce in the fashion world too!",
         "pt-BR": "[Assistente de Esteticista]\nPríncipe Shammi?\nEle é só um gênio quando\nse trata de penteados!\nSou apenas sua aprendiz, mas\ntalvez um dia eu possa ser uma\npotência no mundo da moda também!",
-        "es-ES": "[Asistente de estética]\n¿Príncipe Shammi?\n¡Es ni más ni menos que un genio\nen lo que se refiere a peinados!\nSolo soy su aprendiz, pero…\ntal vez algún día también pueda ser\nuna eminencia en el mundo de la moda."
+        "es-ES": "[Asistente de estética]\n¿Príncipe Shammi?\n¡Es ni más ni menos que un genio\nen lo que se refiere a peinados!\nSolo soy su aprendiz, pero...\ntal vez algún día también pueda ser\nuna eminencia en el mundo de la moda."
     },
     "MCjX": {
         "en-US": "Banquet Staff",
@@ -2672,7 +2672,7 @@
     "NijX": {
         "en-US": "[Hanccet]\nMan... I hate being ''it!''\nI'm horrible at this game!\nAlright, okay, if I were my\nsister Luccet, where would\nI think I would not look for\nme? Of course...! The sewers!",
         "pt-BR": "[Hanccet]\nCara... Odeio ser a ''coisa''!\nSou horrível nesse jogo!\nTudo bem, beleza, se eu fosse minha\nirmã Luccet, onde eu\nacho que eu não procuraria por\nmim? É claro...! Nos esgotos!",
-        "es-ES": "[Hanccet]\nVaya… Odio ser el que busca.\n¡Soy muy malo en este juego!\nBueno, bueno, si yo fuera mi\nhermana Luccet, ¿dónde\nme estaría\nbuscando? ¡Por supuesto…! ¡La alcantarilla!"
+        "es-ES": "[Hanccet]\nVaya... Odio ser el que busca.\n¡Soy muy malo en este juego!\nBueno, bueno, si yo fuera mi\nhermana Luccet, ¿dónde\nme estaría\nbuscando? ¡Por supuesto...! ¡La alcantarilla!"
     },
     "NyjX": {
         "en-US": "Annette",
@@ -2697,7 +2697,7 @@
     "OyjX": {
         "en-US": "[Benatuth]\nYeah, the chairman of\nthe Rekenber Corporation...\nHe's a really powerful person.\nIt's almost scary what he can\ndo with his money, you know?",
         "pt-BR": "[Benatuth]\nSim, o presidente da\nCorporação Rekenber...\nEle é uma pessoa muito poderosa.\nÉ quase assustador o que ele pode\nfazer com seu dinheiro, sabe?",
-        "es-ES": "[Benatuth]\nSí, el presidente de\nla Corporación Rekenber…\nEs una persona muy poderosa.\nCasi da miedo lo que puede\nhacer con su dinero, ¿sabes?"
+        "es-ES": "[Benatuth]\nSí, el presidente de\nla Corporación Rekenber...\nEs una persona muy poderosa.\nCasi da miedo lo que puede\nhacer con su dinero, ¿sabes?"
     },
     "PCjX": {
         "en-US": "Rekenber Guard Drew",
@@ -2707,7 +2707,7 @@
     "PSjX": {
         "en-US": "[Rekenber Guard Drew]\nDude, check it out~\nOfficial glossy photos\nof the Kafra Ladies. Now...\nWith 20% more garter belts!",
         "pt-BR": "[Guarda da Rekenber Drew]\nCara, dá uma olhada~\nFotos oficiais de alta qualidade\ndas mulheres da Kafra. Agora...\nCom 20% a mais de cintas-ligas!",
-        "es-ES": "[Guardia Drew]\nColega, mira esto.\nFotos oficiales en papel brillante\nde las señoritas de Kafra. Ahora…\n¡Con un 20 % más de ligas!"
+        "es-ES": "[Guardia Drew]\nColega, mira esto.\nFotos oficiales en papel brillante\nde las señoritas de Kafra. Ahora...\n¡Con un 20 % más de ligas!"
     },
     "PijX": {
         "en-US": "[Rekenber Guard Tan]\nSo they're all wearing\ngarter belts in these?\nWhoa, that means they\neven got the glasses chick\nto wear 'em too? That's the\nbest news I've heard all day!",
@@ -2717,12 +2717,12 @@
     "PyjX": {
         "en-US": "[Rekenber Guard Drew]\nOkay man, you know these\nare limited edition collector's\nitems, so each one is worth\n300,000 zeny. I mean, I have\nan extra set, but I don't know\nif you'd wanna buy them off--",
         "pt-BR": "[Guarda da Rekenber Drew]\nCerto, cara, você sabe que esses\nsão itens de colecionador de edição limitadaentão cada um vale\n300.000 Zeny. Quero dizer, eu tenho\num conjunto sobrando, mas não sei\nse você gostaria de comprá-lo...",
-        "es-ES": "[Guardia Drew]\nBueno, sabes que estos\nson objetos de edición limitada para\ncoleccionistas, por lo que cada una vale\n300000 zeny. La verdad es que tengo\nun juego extra, pero no sé \nsi quieres comprarlas…"
+        "es-ES": "[Guardia Drew]\nBueno, sabes que estos\nson objetos de edición limitada para\ncoleccionistas, por lo que cada una vale\n300000 zeny. La verdad es que tengo\nun juego extra, pero no sé \nsi quieres comprarlas..."
     },
     "QCjX": {
         "en-US": "[Rekenber Guard Tan]\nI'll take them all.\nWait, all of them except\nfor that young kid. Just the\nidea of having her glamour\nphoto around strikes me as...\nYeah.  Yeah, it's no good.",
         "pt-BR": "[Guarda da Rekenber Tan]\nVou pegar todos eles.\nEspera, todos, exceto\ndaquela jovem. Só a\nideia de ter a foto glamourosa\ndela por aí me parece...\nÉ. Pois é, não é bom.",
-        "es-ES": "[Guardia Tan]\nMe las llevo todas.\nEspera, todas menos\nlas de esa jovencita. La sola idea de tener\nuna foto glamorosa de ella\nentre mis cosas suena un poco…\nSí.  Sí, no estaría bien."
+        "es-ES": "[Guardia Tan]\nMe las llevo todas.\nEspera, todas menos\nlas de esa jovencita. La sola idea de tener\nuna foto glamorosa de ella\nentre mis cosas suena un poco...\nSí.  Sí, no estaría bien."
     },
     "QSjX": {
         "en-US": "Rekenber Guard Tan",
@@ -2732,17 +2732,17 @@
     "QijX": {
         "en-US": "[Rekenber Guard Tan]\nWhoa, whoa. Now this...\nThis is art. The lighting,\nthe angle, the... the...\nsubject matter. Oh yes.",
         "pt-BR": "[Guarda da Rekenber Tan]\nEita, eita. Agora isso...\nIsso é arte. A iluminação,\no ângulo, o... o...\nassunto. Ah, sim.",
-        "es-ES": "[Guardia Tan]\n¡Guau, guau! Ahora, esto…\nEsto es arte. La iluminación,\nel ángulo, el… el…\nobjeto de estudio. Ah, sí."
+        "es-ES": "[Guardia Tan]\n¡Guau, guau! Ahora, esto...\nEsto es arte. La iluminación,\nel ángulo, el... el...\nobjeto de estudio. Ah, sí."
     },
     "QyjX": {
         "en-US": "[Rekenber Guard Drew]\nMan, these officially licensed\nKafra Lady glossies... They're\nworth every zeny we paid. Say\ngoodbye Swimsuit Calendar,\nand hellooooo Kafra Leilah~",
         "pt-BR": "[Guarda da Rekenber Drew]\nCara, essas fotos oficialmente licenciadas da\nsenhora Kafra... Elas\nvalem cada Zeny que pagamos. Diga\nadeus ao Calendário das Nadadoras,\ne olááá à Kafra Leilah~",
-        "es-ES": "[Guardia Drew]\nAmigo, estas fotos brillantes\nde las señoritas de Kafra… Valen\nhasta el último zeny que pagamos. Adiós,\ncalendario de trajes de baño\ny hola, Leilah de Kafra."
+        "es-ES": "[Guardia Drew]\nAmigo, estas fotos brillantes\nde las señoritas de Kafra... Valen\nhasta el último zeny que pagamos. Adiós,\ncalendario de trajes de baño\ny hola, Leilah de Kafra."
     },
     "RCjX": {
         "en-US": "[Rekenber Guard Tan]\nLeilah? Oh, you mean\nthe glasses chick? Dude...\nDude. She's my favorite too!",
         "pt-BR": "[Guarda da Rekenber Tan]\nLeilah? Ah, você quer dizer\na garota de óculos? Cara...\nCara. Ela também é minha favorita!",
-        "es-ES": "[Guardia Tan]\n¿Leilah? Ah, ¿te refieres\na la chica de gafas? Cielos…\nCielos. ¡También es mi favorita!"
+        "es-ES": "[Guardia Tan]\n¿Leilah? Ah, ¿te refieres\na la chica de gafas? Cielos...\nCielos. ¡También es mi favorita!"
     },
     "RSjX": {
         "en-US": "Delna",
@@ -2772,7 +2772,7 @@
     "SijX": {
         "en-US": "[Rocky]\nGrrrrrrr...",
         "pt-BR": "[Rocky]\nGrrrrrrrrr...",
-        "es-ES": "[Rocky]\nGrrrrrr…"
+        "es-ES": "[Rocky]\nGrrrrrr..."
     },
     "SyjX": {
         "en-US": "Housemaid Jane",
@@ -2782,12 +2782,12 @@
     "TCjX": {
         "en-US": "[Housemaid Jane]\nThis house is enormous...\nIt's clearly much too big\nfor a regularly sized family.\nAnd it takes me forever to\nmake sure that it stays clean!",
         "pt-BR": "[Empregada Doméstica Jane]\nEsta casa é enorme...\nÉ claramente muito grande\npara uma família de tamanho normal.\nE eu levo uma eternidade para\ngarantir que ela fique limpa!",
-        "es-ES": "[Criada Jane]\nEsta casa es enorme…\nClaramente es demasiado grande\npara una familia de tamaño normal.\n¡Y me lleva una eternidad\nasegurarme de que quede limpia!"
+        "es-ES": "[Criada Jane]\nEsta casa es enorme...\nClaramente es demasiado grande\npara una familia de tamaño normal.\n¡Y me lleva una eternidad\nasegurarme de que quede limpia!"
     },
     "TSjX": {
         "en-US": "[Housemaid Jane]\nIt's not easy keeping\nthings neat and tidy when\nyou're responsible for acres\nof indoor living space. Being\na maid can be pretty hard...",
         "pt-BR": "[Empregada Doméstica Jane]\nNão é fácil manter\nas coisas limpas e arrumadas quando\nse é responsável por hectares\nde espaço interno. Ser\numa empregada doméstica pode ser muito difícil...",
-        "es-ES": "[Criada Jane]\nNo es fácil mantener\nlas cosas limpias y ordenadas cuando\neres la responsable de acres\nde espacio habitable de interiores. Ser\nuna criada puede ser bastante duro…"
+        "es-ES": "[Criada Jane]\nNo es fácil mantener\nlas cosas limpias y ordenadas cuando\neres la responsable de acres\nde espacio habitable de interiores. Ser\nuna criada puede ser bastante duro..."
     },
     "TijX": {
         "en-US": "Jay",
@@ -2812,6 +2812,6 @@
     "UijX": {
         "en-US": "[Housemaid Brenda]\nI better dust extra\ngently around this vase.\nIt's worth ten million zeny\nand if it were to-- No. No!\nI'm not even going to think it!",
         "pt-BR": "[Empregada Doméstica Brenda]\nÉ melhor eu tirar o pó\ncom mais cuidado ao redor desse vaso.\nEle vale dez milhões de Zeny\ne se ele... Não. Não!\nNem vou pensar nisso!",
-        "es-ES": "[Criada Brenda]\nMejor sacudo el polvo de este jarrón\ncon extrema precaución.\nVale diez millones de zeny,\ny si fuera a… No. ¡No!\n¡Ni siquiera voy a pensarlo!"
+        "es-ES": "[Criada Brenda]\nMejor sacudo el polvo de este jarrón\ncon extrema precaución.\nVale diez millones de zeny,\ny si fuera a... No. ¡No!\n¡Ni siquiera voy a pensarlo!"
     }
 }

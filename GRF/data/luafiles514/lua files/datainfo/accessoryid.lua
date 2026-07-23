@@ -2851,5 +2851,11 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Angler_Dream = 2868,
 	ACCESSORY_C_Deepsea_Pearls_Hat = 2869,
 	ACCESSORY_Magical_Cape = 2870,
-	ACCESSORY_Fan_In_Mouth_PP = 2871
+	ACCESSORY_Fan_In_Mouth_PP = 2871,
+	ACCESSORY_C_Black_Dragon_Style2 = 2872,
+	ACCESSORY_C_Black_Dragon_Style3 = 2873,
+	ACCESSORY_C_Dana_Rabbit_Hat = 2874,
+	ACCESSORY_C_Momo_Balloon_Hat = 2875,
+	ACCESSORY_C_Boss_Ka_Hairpin = 2876,
+	ACCESSORY_C_70_Chocolate_Hat = 2877
 }
