@@ -44545,6 +44545,14 @@ tbl = {
 			group = 6
 		}
 	},
+	[100475] = {
+		{
+			id = 100460,
+			prob = 10000,
+			name = "Purified Growth Potion 10",
+			group = 6
+		}
+	},
 	[100477] = {
 		{
 			id = 500019,
@@ -46471,31 +46479,31 @@ tbl = {
 		{
 			id = 1000475,
 			prob = 10,
-			name = "Conse F T Sword",
+			name = "Fides Two-handed Sword Blueprint",
 			group = 1
 		},
 		{
 			id = 1000476,
 			prob = 10,
-			name = "Conse F Lance",
+			name = "Fides Lance Blueprint",
 			group = 1
 		},
 		{
 			id = 1000477,
 			prob = 10,
-			name = "Conse F G Sword",
+			name = "Fides Guardian Sword Blueprint",
 			group = 1
 		},
 		{
 			id = 1000478,
 			prob = 10,
-			name = "Conse F G Spear",
+			name = "Fides Guardian Spear Blueprint",
 			group = 1
 		},
 		{
 			id = 1000479,
 			prob = 10,
-			name = "Conse F Axe",
+			name = "Fides Axe Blueprint",
 			group = 1
 		},
 		{
@@ -46627,31 +46635,31 @@ tbl = {
 		{
 			id = 1000475,
 			prob = 10,
-			name = "Conse F T Sword",
+			name = "Fides Two-handed Sword Blueprint",
 			group = 2
 		},
 		{
 			id = 1000476,
 			prob = 10,
-			name = "Conse F Lance",
+			name = "Fides Lance Blueprint",
 			group = 2
 		},
 		{
 			id = 1000477,
 			prob = 10,
-			name = "Conse F G Sword",
+			name = "Fides Guardian Sword Blueprint",
 			group = 2
 		},
 		{
 			id = 1000478,
 			prob = 10,
-			name = "Conse F G Spear",
+			name = "Fides Guardian Spear Blueprint",
 			group = 2
 		},
 		{
 			id = 1000479,
 			prob = 10,
-			name = "Conse F Axe",
+			name = "Fides Axe Blueprint",
 			group = 2
 		},
 		{
@@ -46783,31 +46791,31 @@ tbl = {
 		{
 			id = 1000475,
 			prob = 10,
-			name = "Conse F T Sword",
+			name = "Fides Two-handed Sword Blueprint",
 			group = 3
 		},
 		{
 			id = 1000476,
 			prob = 10,
-			name = "Conse F Lance",
+			name = "Fides Lance Blueprint",
 			group = 3
 		},
 		{
 			id = 1000477,
 			prob = 10,
-			name = "Conse F G Sword",
+			name = "Fides Guardian Sword Blueprint",
 			group = 3
 		},
 		{
 			id = 1000478,
 			prob = 10,
-			name = "Conse F G Spear",
+			name = "Fides Guardian Spear Blueprint",
 			group = 3
 		},
 		{
 			id = 1000479,
 			prob = 10,
-			name = "Conse F Axe",
+			name = "Fides Axe Blueprint",
 			group = 3
 		},
 		{
@@ -46945,7 +46953,7 @@ tbl = {
 		{
 			id = 1000686,
 			prob = 10,
-			name = "Fides Cross Huuma Shuriken Blueprint",
+			name = "Fides Cross Shuriken Blueprint",
 			group = 4
 		},
 		{
@@ -80279,15 +80287,15 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 102069,
+			id = 23335,
 			prob = 400,
-			name = "MDEF Piercinge Shadow Cube",
+			name = "Shadow Materials Cube",
 			group = 6
 		},
 		{
-			id = 102067,
+			id = 100690,
 			prob = 400,
-			name = "DEF Piercing Shadow Cube",
+			name = "Material Shadow Cube 2",
 			group = 6
 		},
 		{
@@ -80533,15 +80541,15 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 102069,
+			id = 23335,
 			prob = 400,
-			name = "MDEF Piercinge Shadow Cube",
+			name = "Shadow Materials Cube",
 			group = 6
 		},
 		{
-			id = 102067,
+			id = 100690,
 			prob = 400,
-			name = "DEF Piercing Shadow Cube",
+			name = "Material Shadow Cube 2",
 			group = 6
 		},
 		{

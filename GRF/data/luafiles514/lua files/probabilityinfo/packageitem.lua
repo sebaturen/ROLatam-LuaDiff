@@ -44545,6 +44545,14 @@ tbl = {
 			group = 6
 		}
 	},
+	[100475] = {
+		{
+			id = 100460,
+			prob = 10000,
+			name = "Elixir de Crescimento Purificado 10",
+			group = 6
+		}
+	},
 	[100477] = {
 		{
 			id = 500019,
@@ -46573,7 +46581,7 @@ tbl = {
 		{
 			id = 1000492,
 			prob = 10,
-			name = "Esboço de Varinha",
+			name = "Esboço do Cetro",
 			group = 1
 		},
 		{
@@ -46729,7 +46737,7 @@ tbl = {
 		{
 			id = 1000492,
 			prob = 10,
-			name = "Esboço de Varinha",
+			name = "Esboço do Cetro",
 			group = 2
 		},
 		{
@@ -46885,7 +46893,7 @@ tbl = {
 		{
 			id = 1000492,
 			prob = 10,
-			name = "Esboço de Varinha",
+			name = "Esboço do Cetro",
 			group = 3
 		},
 		{
@@ -46939,13 +46947,13 @@ tbl = {
 		{
 			id = 1000685,
 			prob = 10,
-			name = "Esboço de Shuriken",
+			name = "Esboço de Huuma",
 			group = 4
 		},
 		{
 			id = 1000686,
 			prob = 10,
-			name = "Esboço de Huuma",
+			name = "Esboço de Shuriken",
 			group = 4
 		},
 		{
@@ -47005,13 +47013,13 @@ tbl = {
 		{
 			id = 1000696,
 			prob = 10,
-			name = "Esboço de Cauda de Gato",
+			name = "Esboço de Rabo-de-Gato",
 			group = 4
 		},
 		{
 			id = 1000697,
 			prob = 10,
-			name = "Esboço de Rabo-de-Gato",
+			name = "Esboço de Cauda de Gato",
 			group = 4
 		}
 	},
@@ -80279,15 +80287,15 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 102069,
+			id = 23335,
 			prob = 400,
-			name = "Cubo Sombrio Anti-Racial",
+			name = "Cubo de Materiais Sombrios",
 			group = 6
 		},
 		{
-			id = 102067,
+			id = 100690,
 			prob = 400,
-			name = "Cubo Sombrio Caça-Racial",
+			name = "Cubo de Materiais Sombrios 2",
 			group = 6
 		},
 		{
@@ -80533,15 +80541,15 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 102069,
+			id = 23335,
 			prob = 400,
-			name = "Cubo Sombrio Anti-Racial",
+			name = "Cubo de Materiais Sombrios",
 			group = 6
 		},
 		{
-			id = 102067,
+			id = 100690,
 			prob = 400,
-			name = "Cubo Sombrio Caça-Racial",
+			name = "Cubo de Materiais Sombrios 2",
 			group = 6
 		},
 		{

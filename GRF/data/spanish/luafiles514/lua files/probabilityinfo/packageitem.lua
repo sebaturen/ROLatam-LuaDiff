@@ -19145,7 +19145,7 @@ tbl = {
 		{
 			id = 7776,
 			prob = 20,
-			name = "Pase de gimnasio",
+			name = "Pase Antigravitacional",
 			group = 1
 		},
 		{
@@ -20221,7 +20221,7 @@ tbl = {
 		{
 			id = 7776,
 			prob = 10,
-			name = "Pase de gimnasio",
+			name = "Pase Antigravitacional",
 			group = 0
 		}
 	},
@@ -20245,7 +20245,7 @@ tbl = {
 		{
 			id = 14539,
 			prob = 10,
-			name = "Pergamino Arm. Sombría 30",
+			name = "Perg. Arm. Oscuridad 30",
 			group = 0
 		}
 	},
@@ -20253,7 +20253,7 @@ tbl = {
 		{
 			id = 14540,
 			prob = 10,
-			name = "Pergamino de Armadura sagrada 30",
+			name = "Pergamino de Armadura Sagrada 30",
 			group = 0
 		}
 	},
@@ -21239,7 +21239,7 @@ tbl = {
 		{
 			id = 7776,
 			prob = 10,
-			name = "Pase de gimnasio 10",
+			name = "Pase Antigravitacional 10",
 			group = 0
 		}
 	},
@@ -44545,6 +44545,14 @@ tbl = {
 			group = 6
 		}
 	},
+	[100475] = {
+		{
+			id = 100460,
+			prob = 10000,
+			name = "Elixir de crecimiento purificado 10",
+			group = 6
+		}
+	},
 	[100477] = {
 		{
 			id = 500019,
@@ -46519,7 +46527,7 @@ tbl = {
 		{
 			id = 1000483,
 			prob = 10,
-			name = "Plano de Maza",
+			name = "Plano de Chakram",
 			group = 1
 		},
 		{
@@ -46573,7 +46581,7 @@ tbl = {
 		{
 			id = 1000492,
 			prob = 10,
-			name = "Plano de Varita",
+			name = "Plano de Cetro",
 			group = 1
 		},
 		{
@@ -46675,7 +46683,7 @@ tbl = {
 		{
 			id = 1000483,
 			prob = 10,
-			name = "Plano de Maza",
+			name = "Plano de Chakram",
 			group = 2
 		},
 		{
@@ -46729,7 +46737,7 @@ tbl = {
 		{
 			id = 1000492,
 			prob = 10,
-			name = "Plano de Varita",
+			name = "Plano de Cetro",
 			group = 2
 		},
 		{
@@ -46831,7 +46839,7 @@ tbl = {
 		{
 			id = 1000483,
 			prob = 10,
-			name = "Plano de Maza",
+			name = "Plano de Chakram",
 			group = 3
 		},
 		{
@@ -46885,7 +46893,7 @@ tbl = {
 		{
 			id = 1000492,
 			prob = 10,
-			name = "Plano de Varita",
+			name = "Plano de Cetro",
 			group = 3
 		},
 		{
@@ -46939,13 +46947,13 @@ tbl = {
 		{
 			id = 1000685,
 			prob = 10,
-			name = "Plano de Shuriken",
+			name = "Plano de Huuma",
 			group = 4
 		},
 		{
 			id = 1000686,
 			prob = 10,
-			name = "Plano de Huuma",
+			name = "Plano de Shuriken",
 			group = 4
 		},
 		{
@@ -47005,13 +47013,13 @@ tbl = {
 		{
 			id = 1000696,
 			prob = 10,
-			name = "Plano de Cola de Gato Físico",
+			name = "Plano de Cola de Gato Mágico",
 			group = 4
 		},
 		{
 			id = 1000697,
 			prob = 10,
-			name = "Plano de Cola de Gato Mágico",
+			name = "Plano de Cola de Gato Físico",
 			group = 4
 		}
 	},
@@ -78573,13 +78581,13 @@ tbl = {
 		{
 			id = 107570,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe",
+			name = "Caja de Yelmos de Fe",
 			group = 6
 		},
 		{
 			id = 107572,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe II",
+			name = "Caja de Yelmos de Fe II",
 			group = 6
 		},
 		{
@@ -78615,7 +78623,7 @@ tbl = {
 		{
 			id = 101389,
 			prob = 20,
-			name = "Martillo de Refinamiento de la Fe",
+			name = "Martillo de Refinamiento de Fe",
 			group = 6
 		},
 		{
@@ -78833,13 +78841,13 @@ tbl = {
 		{
 			id = 107570,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe",
+			name = "Caja de Yelmos de Fe",
 			group = 6
 		},
 		{
 			id = 107572,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe II",
+			name = "Caja de Yelmos de Fe II",
 			group = 6
 		},
 		{
@@ -78875,7 +78883,7 @@ tbl = {
 		{
 			id = 101389,
 			prob = 20,
-			name = "Martillo de Refinamiento de la Fe",
+			name = "Martillo de Refinamiento de Fe",
 			group = 6
 		},
 		{
@@ -79173,13 +79181,13 @@ tbl = {
 		{
 			id = 107570,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe",
+			name = "Caja de Yelmos de Fe",
 			group = 6
 		},
 		{
 			id = 107572,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe II",
+			name = "Caja de Yelmos de Fe II",
 			group = 6
 		},
 		{
@@ -79427,13 +79435,13 @@ tbl = {
 		{
 			id = 107570,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe",
+			name = "Caja de Yelmos de Fe",
 			group = 6
 		},
 		{
 			id = 107572,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe II",
+			name = "Caja de Yelmos de Fe II",
 			group = 6
 		},
 		{
@@ -79761,13 +79769,13 @@ tbl = {
 		{
 			id = 107570,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe",
+			name = "Caja de Yelmos de Fe",
 			group = 6
 		},
 		{
 			id = 107572,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe II",
+			name = "Caja de Yelmos de Fe II",
 			group = 6
 		},
 		{
@@ -80015,13 +80023,13 @@ tbl = {
 		{
 			id = 107570,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe",
+			name = "Caja de Yelmos de Fe",
 			group = 6
 		},
 		{
 			id = 107572,
 			prob = 80,
-			name = "Caja de Yelmos de la Fe II",
+			name = "Caja de Yelmos de Fe II",
 			group = 6
 		},
 		{
@@ -80279,15 +80287,15 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 102069,
+			id = 23335,
 			prob = 400,
-			name = "Cubo Sombrío Anti-Racial",
+			name = "Cubo de Materiales Sombríos",
 			group = 6
 		},
 		{
-			id = 102067,
+			id = 100690,
 			prob = 400,
-			name = "Cubo Sombrío Caza-Racial",
+			name = "Cubo de Materiales Sombríos 2",
 			group = 6
 		},
 		{
@@ -80323,7 +80331,7 @@ tbl = {
 		{
 			id = 101314,
 			prob = 200,
-			name = "Cofre de Yelmos de la Fe",
+			name = "Cofre de Yelmos de Fe",
 			group = 6
 		},
 		{
@@ -80533,15 +80541,15 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 102069,
+			id = 23335,
 			prob = 400,
-			name = "Cubo Sombrío Anti-Racial",
+			name = "Cubo de Materiales Sombríos",
 			group = 6
 		},
 		{
-			id = 102067,
+			id = 100690,
 			prob = 400,
-			name = "Cubo Sombrío Caza-Racial",
+			name = "Cubo de Materiales Sombríos 2",
 			group = 6
 		},
 		{
@@ -80577,7 +80585,7 @@ tbl = {
 		{
 			id = 101314,
 			prob = 200,
-			name = "Cofre de Yelmos de la Fe",
+			name = "Cofre de Yelmos de Fe",
 			group = 6
 		},
 		{
@@ -81485,7 +81493,7 @@ tbl = {
 		{
 			id = 7776,
 			prob = 0,
-			name = "Pase de gimnasio 10",
+			name = "Pase Antigravitacional 10",
 			group = 0
 		}
 	},
@@ -82003,7 +82011,7 @@ tbl = {
 		{
 			id = 7776,
 			prob = 0,
-			name = "Pase de gimnasio 2",
+			name = "Pase Antigravitacional 2",
 			group = 0
 		},
 		{
@@ -83261,7 +83269,7 @@ tbl = {
 		{
 			id = 16834,
 			prob = 10,
-			name = "Pergamino Arm. Sombría (30) 2",
+			name = "Perg. Arm. Oscuridad (30) 2",
 			group = 0
 		},
 		{
@@ -83291,7 +83299,7 @@ tbl = {
 		{
 			id = 107824,
 			prob = 10,
-			name = "[Evento] Artefacto Oval de las Flores 6",
+			name = "[Evento] Artefacto Ovalado de las Flores 6",
 			group = 0
 		}
 	},
@@ -83329,7 +83337,7 @@ tbl = {
 		{
 			id = 107824,
 			prob = 10,
-			name = "[Evento] Artefacto Oval de las Flores 6",
+			name = "[Evento] Artefacto Ovalado de las Flores 6",
 			group = 0
 		}
 	},
@@ -83381,7 +83389,7 @@ tbl = {
 		{
 			id = 107824,
 			prob = 10,
-			name = "[Evento] Artefacto Oval de las Flores 6",
+			name = "[Evento] Artefacto Ovalado de las Flores 6",
 			group = 0
 		}
 	},
@@ -83401,13 +83409,13 @@ tbl = {
 		{
 			id = 7776,
 			prob = 10,
-			name = "Pase de gimnasio 5",
+			name = "Pase Antigravitacional 5",
 			group = 0
 		},
 		{
 			id = 107824,
 			prob = 10,
-			name = "[Evento] Artefacto Oval de las Flores 6",
+			name = "[Evento] Artefacto Ovalado de las Flores 6",
 			group = 0
 		}
 	},
@@ -83445,7 +83453,7 @@ tbl = {
 		{
 			id = 107824,
 			prob = 10,
-			name = "[Evento] Artefacto Oval de las Flores 6",
+			name = "[Evento] Artefacto Ovalado de las Flores 6",
 			group = 0
 		}
 	},
@@ -83483,7 +83491,7 @@ tbl = {
 		{
 			id = 107824,
 			prob = 10,
-			name = "[Evento] Artefacto Oval de las Flores 6",
+			name = "[Evento] Artefacto Ovalado de las Flores 6",
 			group = 0
 		}
 	}
