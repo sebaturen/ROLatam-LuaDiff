@@ -7206,8 +7206,8 @@ SKILL_INFO_LIST = {
 			}
 		}
 	},
-	[SKID.BA_FROSTJOKE] = {
-		"BA_FROSTJOKE",
+	[SKID.BA_FROSTJOKER] = {
+		"BA_FROSTJOKER",
 		SkillName = "Piada Infame",
 		MaxLv = 5,
 		SpAmount = {
@@ -36184,8 +36184,8 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = {1}
 	},
-	[SKID.MH_SONIC_CRAW] = {
-		"MH_SONIC_CRAW",
+	[SKID.MH_SONIC_CLAW] = {
+		"MH_SONIC_CLAW",
 		SkillName = "Garra Supersônica",
 		MaxLv = 5,
 		SpAmount = {

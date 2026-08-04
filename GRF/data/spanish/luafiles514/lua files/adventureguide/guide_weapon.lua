@@ -1,4 +1,3 @@
-
 GuideWeapon.TitleText = "Weapons"
 GuideWeapon.MainMenuIndex = 5
 GuideWeapon.MainMenuTitle = "Weapons"

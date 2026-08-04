@@ -5331,5 +5331,14 @@ jobtbl = {
 	JT_HEADSTONE1 = 22166,
 	JT_HEADSTONE2 = 22167,
 	JT_HEADSTONE3 = 22168,
-	JT_HEADSTONE4 = 22169
+	JT_HEADSTONE4 = 22169,
+	JT_MD_Airboat_Tree = 20886,
+	JT_MD_Airboat_Poring = 20887,
+	JT_MD_Airboat_Worm = 20888,
+	JT_MD_Airboat_LEECH = 20889,
+	JT_MD_Airboat_Mos = 20890,
+	JT_MD_Airboat_Boss = 20891,
+	JT_MD_Airboat_Boss2 = 21061,
+	JT_MD_Airboat_Boss3 = 21062,
+	JT_MD_Airboat_Boss4 = 21063
 }

@@ -1,4 +1,3 @@
-
 _prt_mz03_i_effect_version = 2
 _prt_mz03_i_emitterInfo = {
 	[0] = {

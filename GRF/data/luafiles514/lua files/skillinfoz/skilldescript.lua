@@ -1,6 +1,6 @@
 SKILL_DESCRIPT = {
 	[SKID.NV_BASIC] = {
-		"Habilidades Básicas ^777777(Basic Skill)^000000",
+		"Habilidades Básicas",
 		"Nível máximo: ^7777779^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -27,7 +27,7 @@ SKILL_DESCRIPT = {
 		"[Nv 9]: ^777777Permite mudar de Classe.^000000"
 	},
 	[SKID.SM_SWORD] = {
-		"Perícia com Espada ^777777(Sword Mastery)^000000",
+		"Perícia com Espada",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -66,7 +66,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+40^000000"
 	},
 	[SKID.SM_RECOVERY] = {
-		"Aumentar Recuperação de HP ^777777(HP Recovery)^000000",
+		"Aumentar Recuperação de HP",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -86,7 +86,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+50^000000 + ^7777772,0%^000000"
 	},
 	[SKID.SM_BASH] = {
-		"Golpe Fulminante ^777777(Bash)^000000",
+		"Golpe Fulminante",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -105,7 +105,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777400%^000000 l ^77777750%^000000"
 	},
 	[SKID.SM_PROVOKE] = {
-		"Provocar ^777777(Provoke)^000000",
+		"Provocar",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -126,7 +126,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777-55%^000000 l ^777777+32%^000000"
 	},
 	[SKID.SM_MAGNUM] = {
-		"Impacto Explosivo ^777777(Magnum Break)^000000",
+		"Impacto Explosivo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Golpe Fulminante 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -149,7 +149,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777300%^000000"
 	},
 	[SKID.SM_ENDURE] = {
-		"Vigor ^777777(Endure)^000000",
+		"Vigor",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Provocar 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -172,7 +172,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777737 segundos^000000 l ^777777+10^000000"
 	},
 	[SKID.MG_SRECOVERY] = {
-		"Aumentar Recuperação de SP ^777777(SP Recovery)^000000",
+		"Aumentar Recuperação de SP",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -192,7 +192,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000 + ^7777772,0%^000000"
 	},
 	[SKID.MG_SIGHT] = {
-		"Chama Reveladora ^777777(Sight)^000000",
+		"Chama Reveladora",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -201,7 +201,7 @@ SKILL_DESCRIPT = {
 		"Consome 10 de SP e dura 10 segundos.^000000"
 	},
 	[SKID.MG_NAPALMBEAT] = {
-		"Ataque Espiritual ^777777(Napalm Beat)^000000",
+		"Ataque Espiritual",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -220,7 +220,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777170%^000000 l ^77777718^000000"
 	},
 	[SKID.MG_SAFETYWALL] = {
-		"Escudo Mágico ^777777(Safety Wall)^000000",
+		"Escudo Mágico",
 		"Nível máximo: ^77777710^000000",
 		"Pré requisitos (^008080Magos^000000):",
 		"^777777Ataque Espiritual 7, Espíritos Anciões 5^000000",
@@ -244,7 +244,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.000^000000 l ^77777711 ataques^000000"
 	},
 	[SKID.MG_SOULSTRIKE] = {
-		"Espíritos Anciões ^777777(Soul Strike)^000000",
+		"Espíritos Anciões",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ataque Espiritual 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -265,7 +265,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777775^000000 l ^777777+50%^000000 l ^77777738^000000"
 	},
 	[SKID.MG_COLDBOLT] = {
-		"Lanças de Gelo ^777777(Cold Bolt)^000000",
+		"Lanças de Gelo",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -284,7 +284,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777710^000000 l ^77777730^000000"
 	},
 	[SKID.MG_FROSTDIVER] = {
-		"Rajada Congelante ^777777(Frost Diver)^000000",
+		"Rajada Congelante",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Lanças de Gelo 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -304,7 +304,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777200%^000000 l ^77777765%^000000"
 	},
 	[SKID.MG_STONECURSE] = {
-		"Petrificar ^777777(Stone Curse)^000000",
+		"Petrificar",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -327,7 +327,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777760%^000000"
 	},
 	[SKID.MG_FIREBALL] = {
-		"Bolas de Fogo ^777777(Fire Ball)^000000",
+		"Bolas de Fogo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Lanças de Fogo 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -349,7 +349,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^777777340%^000000 l ^777777255%^000000"
 	},
 	[SKID.MG_FIREWALL] = {
-		"Barreira de Fogo ^777777(Fire Wall)^000000",
+		"Barreira de Fogo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos:",
 		"^777777Chama Reveladora 1, Bolas de Fogo 5^000000",
@@ -371,7 +371,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777712^000000 l ^77777714 segundos^000000"
 	},
 	[SKID.MG_FIREBOLT] = {
-		"Lanças de Fogo ^777777(Fire Bolt)^000000",
+		"Lanças de Fogo",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -390,7 +390,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777710^000000 l ^77777730^000000"
 	},
 	[SKID.MG_LIGHTNINGBOLT] = {
-		"Relâmpago ^777777(Lightning Bolt)^000000",
+		"Relâmpago",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -409,7 +409,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777710^000000 l ^77777730^000000"
 	},
 	[SKID.MG_THUNDERSTORM] = {
-		"Tempestade de Raios ^777777(Thunder Storm)^000000",
+		"Tempestade de Raios",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Relâmpago 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -429,7 +429,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777710^000000 l ^77777774^000000"
 	},
 	[SKID.AL_DP] = {
-		"Proteção Divina ^777777(Divine Protection)^000000",
+		"Proteção Divina",
 		"Nível máximo: ^77777710^000000",
 		"Pré requisitos (^008080Noviços^000000): ^777777Nenhum^000000",
 		"Pré requisitos (^008080Templários^000000):",
@@ -451,7 +451,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000"
 	},
 	[SKID.AL_DEMONBANE] = {
-		"Flagelo do Mal ^777777(Demon Bane)^000000",
+		"Flagelo do Mal",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos : ^777777Proteção Divina 3^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -471,7 +471,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000"
 	},
 	[SKID.AL_RUWACH] = {
-		"Revelação ^777777(Ruwach)^000000",
+		"Revelação",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -481,7 +481,7 @@ SKILL_DESCRIPT = {
 		"Custa 10 de SP e dura 10 segundos.^000000"
 	},
 	[SKID.AL_PNEUMA] = {
-		"Escudo Sagrado ^777777(Pneuma)^000000",
+		"Escudo Sagrado",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Portal 4^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -492,7 +492,7 @@ SKILL_DESCRIPT = {
 		"Custa 10 de SP.^000000"
 	},
 	[SKID.AL_TELEPORT] = {
-		"Teleporte ^777777(Teleportation)^000000",
+		"Teleporte",
 		"Nível máximo: ^7777772^000000",
 		"Pré-requisitos: ^777777Revelação 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -504,7 +504,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^777777Ponto de Retorno^000000 l ^7777779^000000"
 	},
 	[SKID.AL_WARP] = {
-		"Portal ^777777(Warp)^000000",
+		"Portal",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos: ^777777Teleporte 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -521,7 +521,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^777777Retorno + 3 mapas^000000"
 	},
 	[SKID.AL_HEAL] = {
-		"Curar ^777777(Heal)^000000",
+		"Curar",
 		"Nível máximo: ^77777710^000000",
 		"Pré requisitos (^008080Noviços^000000): ^777777Nenhum^000000",
 		"Pré requisitos (^008080Templários^000000):",
@@ -536,7 +536,7 @@ SKILL_DESCRIPT = {
 		"por bônus de efetividade de cura.^000000"
 	},
 	[SKID.AL_INCAGI] = {
-		"Aumentar Agilidade ^777777(Increase AGI)^000000",
+		"Aumentar Agilidade",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Curar 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -556,7 +556,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+12^000000 l ^777777+10%^000000 l ^777777240 segundos^000000"
 	},
 	[SKID.AL_DECAGI] = {
-		"Diminuir Agilidade ^777777(Decrease AGI)^000000",
+		"Diminuir Agilidade",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Aumentar Agilidade 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -576,7 +576,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777-12^000000 l ^77777780%^000000 l ^77777765 segundos^000000"
 	},
 	[SKID.AL_HOLYWATER] = {
-		"Aqua Benedicta ^777777(Holy Water)^000000",
+		"Aqua Benedicta",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -628,7 +628,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+50%^000000 l ^777777+500^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.AL_BLESSING] = {
-		"Bênção ^777777(Blessing)^000000",
+		"Bênção",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Proteção Divina 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -650,7 +650,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10^000000 l ^777777+20^000000 l ^777777240 segundos^000000"
 	},
 	[SKID.AL_CURE] = {
-		"Medicar ^777777(Cure)^000000",
+		"Medicar",
 		"Nível máximo: ^7777771^000000",
 		"Pré requisitos (^008080Noviços^000000): ^777777Curar 2^000000",
 		"Pré requisitos (^008080Templários^000000): ^777777Fé 5^000000",
@@ -660,7 +660,7 @@ SKILL_DESCRIPT = {
 		"Consome 15 de SP.^000000"
 	},
 	[SKID.MC_INCCARRY] = {
-		"Aumentar Capacidade de Carga ^777777(Carry)^000000",
+		"Aumentar Capacidade de Carga",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -679,7 +679,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+2.000^000000"
 	},
 	[SKID.MC_DISCOUNT] = {
-		"Desconto ^777777(Discount)^000000",
+		"Desconto",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos:",
 		"^777777Aumentar Capacidade de Carga 3^000000",
@@ -701,7 +701,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777724%^000000"
 	},
 	[SKID.MC_OVERCHARGE] = {
-		"Superfaturar ^777777(Overcharge)^000000",
+		"Superfaturar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Desconto 3^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -721,7 +721,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777724%^000000"
 	},
 	[SKID.MC_PUSHCART] = {
-		"Usar Carrinho ^777777(Push Cart)^000000",
+		"Usar Carrinho",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos:",
 		"^777777Aumentar Capacidade de Carga 5^000000",
@@ -746,7 +746,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777Normal^000000"
 	},
 	[SKID.MC_IDENTIFY] = {
-		"Identificar Item ^777777(Identify)^000000",
+		"Identificar Item",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -755,7 +755,7 @@ SKILL_DESCRIPT = {
 		"ser equipados até serem identificados.^000000"
 	},
 	[SKID.MC_VENDING] = {
-		"Comércio ^777777(Vending)^000000",
+		"Comércio",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Usar Carrinho 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -798,7 +798,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777600%^000000 l ^7777771.000 zenys^000000"
 	},
 	[SKID.AC_OWL] = {
-		"Olhos de Coruja ^777777(Owl's Eye)^000000",
+		"Olhos de Coruja",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -816,7 +816,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777DES +10^000000"
 	},
 	[SKID.AC_VULTURE] = {
-		"Olhos de Águia ^777777(Vulture's Eye)^000000",
+		"Olhos de Águia",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Olhos de Coruja 3^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -836,7 +836,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10^000000 l ^77777710 células^000000"
 	},
 	[SKID.AC_CONCENTRATION] = {
-		"Concentrar ^777777(Improve Concentration)^000000",
+		"Concentrar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Olhos de Águia 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -857,7 +857,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+12%^000000 l ^777777240 segundos^000000"
 	},
 	[SKID.AC_DOUBLE] = {
-		"Rajada de Flechas ^777777(Double Strafe)^000000",
+		"Rajada de Flechas",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -877,7 +877,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777190% x2^000000"
 	},
 	[SKID.AC_SHOWER] = {
-		"Chuva de Flechas ^777777(Arrow Shower)^000000",
+		"Chuva de Flechas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Rajada de Flechas 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -899,7 +899,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777250%^000000"
 	},
 	[SKID.TF_DOUBLE] = {
-		"Ataque Duplo ^777777(Double Attack)^000000",
+		"Ataque Duplo",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -923,7 +923,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777770%^000000 l ^777777+10%^000000"
 	},
 	[SKID.TF_MISS] = {
-		"Perícia em Esquiva ^777777(Improve Dodge)^000000",
+		"Perícia em Esquiva",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -944,7 +944,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000 l ^777777+40^000000"
 	},
 	[SKID.TF_STEAL] = {
-		"Furto ^777777(Steal)^000000",
+		"Furto",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -966,7 +966,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777762%^000000"
 	},
 	[SKID.TF_HIDING] = {
-		"Esconderijo ^777777(Hiding)^000000",
+		"Esconderijo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Furto 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -990,7 +990,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777300 segundos^000000 l ^777777A cada 14 segundos^000000"
 	},
 	[SKID.TF_POISON] = {
-		"Envenenar ^777777(Envenom)^000000",
+		"Envenenar",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -1012,7 +1012,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+150^000000 l ^77777750%^000000"
 	},
 	[SKID.TF_DETOXIFY] = {
-		"Desintoxicar ^777777(Detoxify)^000000",
+		"Desintoxicar",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Envenenar 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -1021,7 +1021,7 @@ SKILL_DESCRIPT = {
 		"Consome 10 de SP.^000000"
 	},
 	[SKID.ALL_RESURRECTION] = {
-		"Ressuscitar ^777777(Resurrection)^000000",
+		"Ressuscitar",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos: ^777777Graça Divina 1,",
 		"Aumentar Recuperação de SP 4^000000",
@@ -1037,7 +1037,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^77777780% do HP máx.^000000"
 	},
 	[SKID.KN_SPEARMASTERY] = {
-		"Perícia com Lança ^777777(Spear Mastery)^000000",
+		"Perícia com Lança",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -1057,7 +1057,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+40^000000 l ^777777+50^000000"
 	},
 	[SKID.KN_PIERCE] = {
-		"Perfurar ^777777(Pierce)^000000",
+		"Perfurar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Lança 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -1081,7 +1081,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777200%^000000 l ^777777+50%^000000"
 	},
 	[SKID.KN_BRANDISHSPEAR] = {
-		"Brandir Lança ^777777(Brandish Spear)^000000",
+		"Brandir Lança",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Montaria 1, Estocada 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -1105,7 +1105,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.400%^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.KN_SPEARSTAB] = {
-		"Estocada ^777777(Spear Stab)^000000",
+		"Estocada",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perfurar 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -1127,7 +1127,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777300%^000000"
 	},
 	[SKID.KN_SPEARBOOMERANG] = {
-		"Lança Bumerangue ^777777(Spear Boomerang)^000000",
+		"Lança Bumerangue",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perfurar 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -1145,7 +1145,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777350%^000000 l ^77777711 células^000000"
 	},
 	[SKID.KN_TWOHANDQUICKEN] = {
-		"Rapidez com Duas Mãos ^777777(Twohand Quicken)^000000",
+		"Rapidez com Duas Mãos",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia Espada 2 Mãos 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -1168,7 +1168,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+12^000000 l ^777777+20^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.KN_AUTOCOUNTER] = {
-		"Contra-Ataque ^777777(Auto Counter)^000000",
+		"Contra-Ataque",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia Espada 2 Mãos 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -1184,7 +1184,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772,0 segundos^000000"
 	},
 	[SKID.KN_BOWLINGBASH] = {
-		"Impacto de Tyr ^777777(Bowling Bash)^000000",
+		"Impacto de Tyr",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Golpe Fulminante 10,",
 		"Impacto Explosivo 3, Contra-Ataque 5",
@@ -1208,7 +1208,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777500%^000000"
 	},
 	[SKID.KN_RIDING] = {
-		"Montaria ^777777(Riding)^000000",
+		"Montaria",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Vigor 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -1222,7 +1222,7 @@ SKILL_DESCRIPT = {
 		"A montaria muda de acordo com a classe.^000000"
 	},
 	[SKID.KN_CAVALIERMASTERY] = {
-		"Perícia em Montaria ^777777(Cavalier Mastery)^000000",
+		"Perícia em Montaria",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Montaria 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -1238,7 +1238,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100%^000000"
 	},
 	[SKID.PR_MACEMASTERY] = {
-		"Perícia com Maça ^777777(Mace Mastery)^000000",
+		"Perícia com Maça",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -1320,7 +1320,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777200 segundos^000000"
 	},
 	[SKID.PR_SANCTUARY] = {
-		"Santuário ^777777(Sanctuary)^000000",
+		"Santuário",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Curar 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -1343,7 +1343,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777777^000000 l ^77777713^000000 l ^77777731 segundos^000000"
 	},
 	[SKID.PR_SLOWPOISON] = {
-		"Retardar Veneno ^777777(Slow Poison)^000000",
+		"Retardar Veneno",
 		"Nível máximo: ^7777774^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -1351,7 +1351,7 @@ SKILL_DESCRIPT = {
 		"tenha o HP drenado a cada segundo.^000000"
 	},
 	[SKID.PR_STRECOVERY] = {
-		"Graça Divina ^777777(Status Recovery)^000000",
+		"Graça Divina",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -1435,7 +1435,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777760 segundos^000000 l ^77777710^000000"
 	},
 	[SKID.PR_TURNUNDEAD] = {
-		"Esconjurar ^777777(Turn Undead)^000000",
+		"Esconjurar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ressuscitar 1, Lex Divina 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -1495,7 +1495,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777710^000000 l ^77777713 segundos^000000"
 	},
 	[SKID.WZ_FIREPILLAR] = {
-		"Coluna de Fogo ^777777(Fire Pillar)^000000",
+		"Coluna de Fogo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Barreira de Fogo 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -1518,7 +1518,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777712^000000"
 	},
 	[SKID.WZ_SIGHTRASHER] = {
-		"Supernova ^777777(Sightrasher)^000000",
+		"Supernova",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Relâmpago 1,",
 		"Chama Reveladora 1,^000000",
@@ -1542,15 +1542,15 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777300%^000000"
 	},
 	[SKID.WZ_FIREIVY] = {
-		"Hera de Fogo ^777777(Fire Ivy)^000000",
+		"Hera de Fogo",
 		"Tipo: ^777777Ofensiva^000000",
-		"Propriedade: ^bb0000Fogo^000000",
+		"Propriedade: ^BB0000Fogo^000000",
 		"Alvo: ^777777Chão^000000",
 		"Descrição: ^777777Invoca uma planta incandescente",
 		"que causa dano na área.^000000"
 	},
 	[SKID.WZ_METEOR] = {
-		"Chuva de Meteoros ^777777(Meteor Storm)^000000",
+		"Chuva de Meteoros",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Supernova 2,",
 		"Tempestade de Raios 1^000000",
@@ -1574,7 +1574,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777777 Meteoros^000000 l ^7777775^000000 l ^77777730%^000000"
 	},
 	[SKID.WZ_JUPITEL] = {
-		"Trovão de Júpiter ^777777(Jupitel Thunder)^000000",
+		"Trovão de Júpiter",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ataque Espiritual 1,",
 		"Relâmpago 1^000000",
@@ -1596,7 +1596,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777712^000000"
 	},
 	[SKID.WZ_VERMILION] = {
-		"Ira de Thor ^777777(Lord of Vermilion)^000000",
+		"Ira de Thor",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Trovão de Júpiter 5,",
 		"Tempestade de Raios 1^000000",
@@ -1620,7 +1620,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.400%^000000 l ^77777760%^000000"
 	},
 	[SKID.WZ_WATERBALL] = {
-		"Esfera d'Água ^777777(Waterball)^000000",
+		"Esfera d'Água",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lanças de Gelo 1,",
 		"Relâmpago 1^000000",
@@ -1641,7 +1641,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777250%^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.WZ_ICEWALL] = {
-		"Barreira de Gelo ^777777(Ice Wall)^000000",
+		"Barreira de Gelo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Petrificar 1,",
 		"Rajada Congelante 1^000000",
@@ -1664,7 +1664,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.200^000000"
 	},
 	[SKID.WZ_FROSTNOVA] = {
-		"Congelar ^777777(Frost Nova)^000000",
+		"Congelar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Barreira de Gelo 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -1685,7 +1685,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777783%^000000 l ^77777715,0 segundos^000000"
 	},
 	[SKID.WZ_STORMGUST] = {
-		"Nevasca ^777777(Storm Gust)^000000",
+		"Nevasca",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Trovão de Júpiter 3,",
 		"Rajada Congelante 1^000000",
@@ -1709,7 +1709,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777570%^000000"
 	},
 	[SKID.WZ_EARTHSPIKE] = {
-		"Coluna de Pedra ^777777(Earth Spike)^000000",
+		"Coluna de Pedra",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisitos (^008080Bruxos^000000): ^777777Petrificar 1^000000",
 		"Pré requisitos (^008080Sábios^000000):",
@@ -1727,7 +1727,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775^000000"
 	},
 	[SKID.WZ_HEAVENDRIVE] = {
-		"Fúria da Terra ^777777(Heaven's Drive)^000000",
+		"Fúria da Terra",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisitos (^008080Bruxos^000000):",
 		"^777777Coluna de Pedra 3^000000",
@@ -1746,7 +1746,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777625%^000000"
 	},
 	[SKID.WZ_QUAGMIRE] = {
-		"Pântano dos Mortos ^777777(Quagmire)^000000",
+		"Pântano dos Mortos",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Fúria da Terra 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -1764,7 +1764,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-50%^000000 l ^77777725 segundos^000000"
 	},
 	[SKID.WZ_ESTIMATION] = {
-		"Sentido Sobrenatural ^777777(Estimation)^000000",
+		"Sentido Sobrenatural",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -1772,7 +1772,7 @@ SKILL_DESCRIPT = {
 		"monstro para o usuário e membros do grupo.^000000"
 	},
 	[SKID.BS_IRON] = {
-		"Trabalhar Ferro ^777777(Iron Tempering)^000000",
+		"Trabalhar Ferro",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -1788,7 +1788,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777765%^000000"
 	},
 	[SKID.BS_STEEL] = {
-		"Trabalhar Aço ^777777(Steel Tempering)^000000",
+		"Trabalhar Aço",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Trabalhar Ferro 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -1805,7 +1805,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777755%^000000"
 	},
 	[SKID.BS_ENCHANTEDSTONE] = {
-		"Produzir Pedra Fundamental ^777777(Stone Craft)^000000",
+		"Produzir Pedra Fundamental",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Trabalhar Ferro 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -1828,7 +1828,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777735%^000000"
 	},
 	[SKID.BS_ORIDEOCON] = {
-		"Perícia com Oridecon ^777777(Oridecon Research)^000000",
+		"Perícia com Oridecon",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Produzir Pedra Fundamental 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -1837,7 +1837,7 @@ SKILL_DESCRIPT = {
 		"armas de nível 3 com Oridecon.^000000"
 	},
 	[SKID.BS_DAGGER] = {
-		"Forjar Adaga ^777777(Smith Dagger)^000000",
+		"Forjar Adaga",
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
 		"Descrição:",
@@ -1851,7 +1851,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777715%^000000"
 	},
 	[SKID.BS_SWORD] = {
-		"Forjar Espada ^777777(Smith Sword)^000000",
+		"Forjar Espada",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Forjar Adaga 1^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
@@ -1866,7 +1866,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777715%^000000"
 	},
 	[SKID.BS_TWOHANDSWORD] = {
-		"Forjar Espada de Duas Mãos ^777777(Smith Sword)^000000",
+		"Forjar Espada de Duas Mãos",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Forjar Espada 1^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
@@ -1882,7 +1882,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777715%^000000"
 	},
 	[SKID.BS_AXE] = {
-		"Forjar Machado ^777777(Smith Axe)^000000",
+		"Forjar Machado",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Forjar Espada 2^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
@@ -1897,7 +1897,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777715%^000000"
 	},
 	[SKID.BS_MACE] = {
-		"Forjar Maça ^777777(Smith Mace)^000000",
+		"Forjar Maça",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Forjar Soqueira 1^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
@@ -1912,7 +1912,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777715%^000000"
 	},
 	[SKID.BS_KNUCKLE] = {
-		"Forjar Soqueira ^777777(Smith Knuckle)^000000",
+		"Forjar Soqueira",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Forjar Adaga 1^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
@@ -1927,7 +1927,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777715%^000000"
 	},
 	[SKID.BS_SPEAR] = {
-		"Forjar Lança ^777777(Smith Spear)^000000",
+		"Forjar Lança",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Forjar Adaga 2^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Forja^000000",
@@ -1942,7 +1942,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777715%^000000"
 	},
 	[SKID.BS_HILTBINDING] = {
-		"Punho Firme ^777777(Hilt Binding)^000000",
+		"Punho Firme",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -1951,7 +1951,7 @@ SKILL_DESCRIPT = {
 		"Adrenalina Pura e Manejo Perfeito.^000000"
 	},
 	[SKID.BS_FINDINGORE] = {
-		"Encontrar Minério ^777777(Finding Ore)^000000",
+		"Encontrar Minério",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Punho Firme 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -1960,7 +1960,7 @@ SKILL_DESCRIPT = {
 		"chance de encontrar minérios variados.^000000"
 	},
 	[SKID.BS_WEAPONRESEARCH] = {
-		"Perícia em Armamento ^777777(Weaponry Research)^000000",
+		"Perícia em Armamento",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Punho Firme 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -1979,7 +1979,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777720%^000000 l ^777777+20^000000"
 	},
 	[SKID.BS_REPAIRWEAPON] = {
-		"Consertar Armas ^777777(Repair Weapon)^000000",
+		"Consertar Armas",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Perícia em Armamento 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -1997,7 +1997,7 @@ SKILL_DESCRIPT = {
 		"Equipamentos l ^777777Aço^000000"
 	},
 	[SKID.BS_SKINTEMPER] = {
-		"Resistência ao Fogo ^777777(Skin Tempering)^000000",
+		"Resistência ao Fogo",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -2011,7 +2011,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20%^000000 l ^777777+5%^000000"
 	},
 	[SKID.BS_HAMMERFALL] = {
-		"Martelo de Thor ^777777(Hammer Fall)^000000",
+		"Martelo de Thor",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2025,7 +2025,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777770%^000000"
 	},
 	[SKID.BS_ADRENALINE] = {
-		"Adrenalina Pura ^777777(Adrenaline Rush)^000000",
+		"Adrenalina Pura",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Martelo de Thor 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -2043,7 +2043,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20^000000 l ^777777150 segundos^000000"
 	},
 	[SKID.BS_WEAPONPERFECT] = {
-		"Manejo Perfeito ^777777(Weapon Perfection)^000000",
+		"Manejo Perfeito",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Adrenalina Pura 2",
 		"Perícia em Armamento 2^000000",
@@ -2059,7 +2059,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750 segundos^000000 l ^77777710^000000"
 	},
 	[SKID.BS_OVERTHRUST] = {
-		"Força Violenta ^777777(Over Thrust)^000000",
+		"Força Violenta",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Adrenalina Pura 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -2075,7 +2075,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+25%^000000 l ^777777+15%^000000 l ^777777100 segundos^000000"
 	},
 	[SKID.BS_MAXIMIZE] = {
-		"Amplificar Poder ^777777(Power Maximize)^000000",
+		"Amplificar Poder",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Manejo Perfeito 3,",
 		"Força Violenta 2^000000",
@@ -2093,7 +2093,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775 segundos^000000"
 	},
 	[SKID.HT_SKIDTRAP] = {
-		"Armadilha Escorregadia ^777777(Skid Trap)^000000",
+		"Armadilha Escorregadia",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2110,7 +2110,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710 células^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.HT_LANDMINE] = {
-		"Armadilha Atordoante ^777777(Land Mine)^000000",
+		"Armadilha Atordoante",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2128,7 +2128,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777740 segundos^000000"
 	},
 	[SKID.HT_ANKLESNARE] = {
-		"Instalar Armadilha ^777777(Ankle Snare)^000000",
+		"Instalar Armadilha",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Escorregadia 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2146,7 +2146,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750 segundos^000000"
 	},
 	[SKID.HT_SHOCKWAVE] = {
-		"Armadilha Extenuante ^777777(Shockwave)^000000",
+		"Armadilha Extenuante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Instalar Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2163,7 +2163,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777780%^000000 l ^77777740 segundos^000000"
 	},
 	[SKID.HT_SANDMAN] = {
-		"Armadilha Sonífera ^777777(Sandman)^000000",
+		"Armadilha Sonífera",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Luminosa 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2182,7 +2182,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777790%^000000 l ^77777730 segundos^000000"
 	},
 	[SKID.HT_FLASHER] = {
-		"Armadilha Luminosa ^777777(Flasher)^000000",
+		"Armadilha Luminosa",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Escorregadia 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2200,7 +2200,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 segundos^000000"
 	},
 	[SKID.HT_FREEZINGTRAP] = {
-		"Armadilha Congelante ^777777(Freezing Trap)^000000",
+		"Armadilha Congelante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Luminosa 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -2219,7 +2219,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 segundos^000000"
 	},
 	[SKID.HT_BLASTMINE] = {
-		"Instalar Mina ^777777(Blast Mine)^000000",
+		"Instalar Mina",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Congelante 1,",
 		"Armadilha Atordoante 1, Armadilha Sonífera 1^000000",
@@ -2239,7 +2239,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775 segundos^000000"
 	},
 	[SKID.HT_CLAYMORETRAP] = {
-		"Armadilha Explosiva ^777777(Claymore Trap)^000000",
+		"Armadilha Explosiva",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Instalar Mina 1,",
 		"Armadilha Extenuante 1^000000",
@@ -2260,7 +2260,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100 segundos^000000"
 	},
 	[SKID.HT_REMOVETRAP] = {
-		"Remover Armadilha ^777777(Remove Trap)^000000",
+		"Remover Armadilha",
 		"Nível máximo: ^7777771^000000",
 		"Pré requisitos (^008080Caçadores^000000):",
 		"^777777Armadilha Atordoante 1^000000",
@@ -2273,7 +2273,7 @@ SKILL_DESCRIPT = {
 		"Consome 5 de SP.^000000"
 	},
 	[SKID.HT_TALKIEBOX] = {
-		"Mensagem Secreta ^777777(Talkie Box)^000000",
+		"Mensagem Secreta",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Remover Armadilha 1,",
 		"Armadilha Extenuante 1^000000",
@@ -2288,7 +2288,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Armadilha.^000000"
 	},
 	[SKID.HT_BEASTBANE] = {
-		"Flagelo das Feras ^777777(Beast Bane)^000000",
+		"Flagelo das Feras",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -2307,7 +2307,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+40^000000"
 	},
 	[SKID.HT_FALCON] = {
-		"Adestrar Ave ^777777(Falconry Mastery)^000000",
+		"Adestrar Ave",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Flagelo das Feras 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -2320,7 +2320,7 @@ SKILL_DESCRIPT = {
 		"^777777Sentinelas^000000 l ^777777Coruja^000000"
 	},
 	[SKID.HT_STEELCROW] = {
-		"Garras de Aço ^777777(Steel Claw)^000000",
+		"Garras de Aço",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ataque Aéreo 5^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -2339,7 +2339,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+60^000000"
 	},
 	[SKID.HT_BLITZBEAT] = {
-		"Ataque Aéreo ^777777(Blitz Beat)^000000",
+		"Ataque Aéreo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Adestrar Ave 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -2359,7 +2359,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775^000000 l ^77777722^000000"
 	},
 	[SKID.HT_DETECTING] = {
-		"Alerta ^777777(Detecting)^000000",
+		"Alerta",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos: ^777777Adestrar Ave 1,",
 		"Concentrar 1^000000",
@@ -2375,7 +2375,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^7777778 células^000000"
 	},
 	[SKID.HT_SPRINGTRAP] = {
-		"Desativar Armadilha ^777777(Spring Trap)^000000",
+		"Desativar Armadilha",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Adestrar Ave 1,",
 		"Remover Armadilha 1^000000",
@@ -2393,7 +2393,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777778 células^000000"
 	},
 	[SKID.AS_RIGHT] = {
-		"Perícia com Mão Direita ^777777(Right Mastery)^000000",
+		"Perícia com Mão Direita",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -2409,7 +2409,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100%^000000"
 	},
 	[SKID.AS_LEFT] = {
-		"Perícia com Mão Esquerda ^777777(Left Mastery)^000000",
+		"Perícia com Mão Esquerda",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Mão Direita 2^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -2426,7 +2426,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777780%^000000"
 	},
 	[SKID.AS_KATAR] = {
-		"Perícia com Katar ^777777(Katar Mastery)^000000",
+		"Perícia com Katar",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -2444,7 +2444,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000"
 	},
 	[SKID.AS_CLOAKING] = {
-		"Furtividade ^777777(Cloaking)^000000",
+		"Furtividade",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Esconderijo 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2469,7 +2469,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777100%^000000 l ^777777125%^000000 l ^7777779 segundos^000000"
 	},
 	[SKID.AS_SONICBLOW] = {
-		"Lâminas Destruidoras ^777777(Sonic Blow)^000000",
+		"Lâminas Destruidoras",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Katar 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -2492,7 +2492,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.200%^000000 l ^77777730%^000000"
 	},
 	[SKID.AS_GRIMTOOTH] = {
-		"Tocaia ^777777(Grimtooth)^000000",
+		"Tocaia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Furtividade 2,",
 		"Lâminas Destruidoras 5^000000",
@@ -2512,7 +2512,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777200%^000000 l ^7777776 células^000000 l ^777777Distância^000000"
 	},
 	[SKID.AS_ENCHANTPOISON] = {
-		"Envenenar Arma ^777777(Enchant Poison)^000000",
+		"Envenenar Arma",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Envenenar 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -2533,7 +2533,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777165 segundos^000000"
 	},
 	[SKID.AS_POISONREACT] = {
-		"Refletir Veneno ^777777(Poison React)^000000",
+		"Refletir Veneno",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Envenenar Arma 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2559,7 +2559,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777400%^000000 l ^7777775^000000"
 	},
 	[SKID.AS_VENOMDUST] = {
-		"Névoa Tóxica ^777777(Venom Dust)^000000",
+		"Névoa Tóxica",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Envenenar Arma 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2580,7 +2580,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777750 segundos^000000"
 	},
 	[SKID.AS_SPLASHER] = {
-		"Explosão Tóxica ^777777(Venom Splasher)^000000",
+		"Explosão Tóxica",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Refletir Veneno 5,",
 		"Névoa Tóxica 5^000000",
@@ -2603,14 +2603,14 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.400%^000000 l ^7777772 segundos^000000"
 	},
 	[SKID.NV_FIRSTAID] = {
-		"Primeiros Socorros ^777777(First Aid)^000000",
+		"Primeiros Socorros",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Consome 3 de SP para recuperar 5 de HP.^000000"
 	},
 	[SKID.NV_TRICKDEAD] = {
-		"Fingir de Morto ^777777(Trick Dead)^000000",
+		"Fingir de Morto",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2619,7 +2619,7 @@ SKILL_DESCRIPT = {
 		"Use-a novamente para cancelar o efeito.^000000"
 	},
 	[SKID.SM_MOVINGRECOVERY] = {
-		"Recuperar HP em Movimento ^777777(HP Moving)^000000",
+		"Recuperar HP em Movimento",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -2627,7 +2627,7 @@ SKILL_DESCRIPT = {
 		"O efeito é 25% menos eficaz que parado.^000000"
 	},
 	[SKID.SM_FATALBLOW] = {
-		"Ataque Fatal ^777777(Fatal Blow)^000000",
+		"Ataque Fatal",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -2637,7 +2637,7 @@ SKILL_DESCRIPT = {
 		"aprendido de [Golpe Fulminante].^000000"
 	},
 	[SKID.SM_AUTOBERSERK] = {
-		"Instinto de Sobrevivência ^777777(Auto Bersek)^000000",
+		"Instinto de Sobrevivência",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2647,7 +2647,7 @@ SKILL_DESCRIPT = {
 		"for maior que 25% ou for cancelado.^000000"
 	},
 	[SKID.AC_MAKINGARROW] = {
-		"Fabricar Flechas ^777777(Making Arrow)^000000",
+		"Fabricar Flechas",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2657,7 +2657,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome materiais diversos.^000000"
 	},
 	[SKID.AC_CHARGEARROW] = {
-		"Disparo Violento ^777777(Charge Arrow)^000000",
+		"Disparo Violento",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2667,7 +2667,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Flecha.^000000"
 	},
 	[SKID.TF_SPRINKLESAND] = {
-		"Chutar Areia ^777777(Sprinkle Sand)^000000",
+		"Chutar Areia",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2676,7 +2676,7 @@ SKILL_DESCRIPT = {
 		"Terra e infligir [Cegueira] no alvo.^000000"
 	},
 	[SKID.TF_BACKSLIDING] = {
-		"Recuar ^777777(Back Slide)^000000",
+		"Recuar",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2684,7 +2684,7 @@ SKILL_DESCRIPT = {
 		"Não pode ultrapassar obstáculos.^000000"
 	},
 	[SKID.TF_PICKSTONE] = {
-		"Procurar Pedras ^777777(Pick Stone)^000000",
+		"Procurar Pedras",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2692,7 +2692,7 @@ SKILL_DESCRIPT = {
 		"^777777Pega o item [Pedra] do chão.^000000"
 	},
 	[SKID.TF_THROWSTONE] = {
-		"Arremessar Pedra ^777777(Throw Stone)^000000",
+		"Arremessar Pedra",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2702,7 +2702,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Pedra.^000000"
 	},
 	[SKID.MC_CARTREVOLUTION] = {
-		"Cavalo-de-Pau ^777777(Cart Revolution)^000000",
+		"Cavalo-de-Pau",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2714,7 +2714,7 @@ SKILL_DESCRIPT = {
 		"Consome 12 de SP.^000000"
 	},
 	[SKID.MC_CHANGECART] = {
-		"Personalizar Carrinho ^777777(Change Cart)^000000",
+		"Personalizar Carrinho",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -2723,7 +2723,7 @@ SKILL_DESCRIPT = {
 		"Mais opções aparecem com o nível de base.^000000"
 	},
 	[SKID.MC_LOUD] = {
-		"Grito de Guerra ^777777(Loud Exclamation)^000000",
+		"Grito de Guerra",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -2732,7 +2732,7 @@ SKILL_DESCRIPT = {
 		"membros do grupo ao redor da tela.^000000"
 	},
 	[SKID.AL_HOLYLIGHT] = {
-		"Luz Divina ^777777(Holy Light)^000000",
+		"Luz Divina",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -2741,7 +2741,7 @@ SKILL_DESCRIPT = {
 		"Consome 15 de SP.^000000"
 	},
 	[SKID.MG_ENERGYCOAT] = {
-		"Proteção Arcana ^777777(Energy Coat)^000000",
+		"Proteção Arcana",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -2757,7 +2757,7 @@ SKILL_DESCRIPT = {
 		"[20~ 1%]: ^777777-6%^000000 l ^7777771,0%^000000"
 	},
 	[SKID.RG_SNATCHER] = {
-		"Mãos Leves ^777777(Snatcher)^000000",
+		"Mãos Leves",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Furto 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -2778,7 +2778,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777720%^000000"
 	},
 	[SKID.RG_STEALCOIN] = {
-		"Afanar ^777777(Steal Coin)^000000",
+		"Afanar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Mãos Leves 4^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2801,7 +2801,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777710%^000000"
 	},
 	[SKID.RG_BACKSTAP] = {
-		"Apunhalar ^777777(Back Stab)^000000",
+		"Apunhalar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Afanar 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -2823,7 +2823,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777700%^000000 l ^777777350%^000000"
 	},
 	[SKID.RG_TUNNELDRIVE] = {
-		"Túnel de Fuga ^777777(Tunnel Drive)^000000",
+		"Túnel de Fuga",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Esconderijo 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -2839,7 +2839,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750%^000000"
 	},
 	[SKID.RG_RAID] = {
-		"Ataque Surpresa ^777777(Sightless Mind)^000000",
+		"Ataque Surpresa",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Apunhalar 2, Túnel de Fuga 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -2859,7 +2859,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777800%^000000 l ^77777725%^000000"
 	},
 	[SKID.RG_STRIPWEAPON] = {
-		"Remover Arma ^777777(Strip Weapon)^000000",
+		"Remover Arma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Remover Armadura 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2876,7 +2876,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730%^000000"
 	},
 	[SKID.RG_STRIPSHIELD] = {
-		"Remover Escudo ^777777(Strip Shield)^000000",
+		"Remover Escudo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Remover Capacete 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2893,7 +2893,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730%^000000"
 	},
 	[SKID.RG_STRIPARMOR] = {
-		"Remover Armadura ^777777(Strip Armor)^000000",
+		"Remover Armadura",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Remover Escudo 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2910,7 +2910,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730%^000000"
 	},
 	[SKID.RG_STRIPHELM] = {
-		"Remover Capacete ^777777(Strip Helm)^000000",
+		"Remover Capacete",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Afanar 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2927,7 +2927,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730%^000000"
 	},
 	[SKID.RG_INTIMIDATE] = {
-		"Rapto ^777777(Intimidate)^000000",
+		"Rapto",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Apunhalar 4, Ataque Surpresa 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -2944,7 +2944,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777250%^000000"
 	},
 	[SKID.RG_GRAFFITI] = {
-		"Graffiti ^777777(Graffiti)^000000",
+		"Graffiti",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Malandragem 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2955,7 +2955,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Gema Vermelha.^000000"
 	},
 	[SKID.RG_FLAGGRAFFITI] = {
-		"Pichar ^777777(Flag Graffiti)^000000",
+		"Pichar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Faxina 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2963,7 +2963,7 @@ SKILL_DESCRIPT = {
 		"^FF0000Habilidade não implementada.^000000"
 	},
 	[SKID.RG_CLEANER] = {
-		"Faxina ^777777(Cleaner)^000000",
+		"Faxina",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Malandragem 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -2971,7 +2971,7 @@ SKILL_DESCRIPT = {
 		"^FF0000Habilidade não implementada.^000000"
 	},
 	[SKID.RG_GANGSTER] = {
-		"Malandragem ^777777(Gangster Paradise)^000000",
+		"Malandragem",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Remover Escudo 3^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -2982,7 +2982,7 @@ SKILL_DESCRIPT = {
 		"Não funciona contra monstros Chefes.^000000"
 	},
 	[SKID.RG_COMPULSION] = {
-		"Extorquir ^777777(Compulsion Discount)^000000",
+		"Extorquir",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Malandragem 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -2997,7 +2997,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777725%^000000"
 	},
 	[SKID.RG_PLAGIARISM] = {
-		"Plágio ^777777(Plagiarism)^000000",
+		"Plágio",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Rapto 5^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -3024,7 +3024,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777Nível 10 l ^777777+10%^000000"
 	},
 	[SKID.AM_AXEMASTERY] = {
-		"Perícia com Machado e Espada ^777777(Axe Mastery)^000000",
+		"Perícia com Machado e Espada",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -3043,7 +3043,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000"
 	},
 	[SKID.AM_LEARNINGPOTION] = {
-		"Pesquisa de Poções ^777777(Learning Potion)^000000",
+		"Pesquisa de Poções",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -3062,7 +3062,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+50%^000000"
 	},
 	[SKID.AM_PHARMACY] = {
-		"Preparar Poção ^777777(Pharmacy)^000000",
+		"Preparar Poção",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Pesquisa de Poções 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3073,7 +3073,7 @@ SKILL_DESCRIPT = {
 		"1 Vasilha de Mistura e materiais diversos.^000000"
 	},
 	[SKID.AM_DEMONSTRATION] = {
-		"Fogo Grego ^777777(Demonstration)^000000",
+		"Fogo Grego",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Preparar Poção 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -3092,7 +3092,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777760 segundos^000000 l ^77777715%^000000"
 	},
 	[SKID.AM_ACIDTERROR] = {
-		"Terror Ácido ^777777(Acid Terror)^000000",
+		"Terror Ácido",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Preparar Poção 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -3110,7 +3110,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000 l ^77777745%^000000 l ^77777715%^000000"
 	},
 	[SKID.AM_POTIONPITCHER] = {
-		"Arremessar Poção ^777777(Potion Pitcher)^000000",
+		"Arremessar Poção",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Preparar Poção 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3129,7 +3129,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777150%^000000 l ^777777450%^000000 l ^777777Poção Azul^000000"
 	},
 	[SKID.AM_CANNIBALIZE] = {
-		"Criar Monstro Planta ^777777(Bio Cannibalize)^000000",
+		"Criar Monstro Planta",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Preparar Poção 6^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3146,7 +3146,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771 minuto^000000 l ^7777771^000000 l ^777777Planta Carnívora^000000"
 	},
 	[SKID.AM_SPHEREMINE] = {
-		"Criar Esfera Marinha ^777777(Sphere Mine)^000000",
+		"Criar Esfera Marinha",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Preparar Poção 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3166,7 +3166,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777774.000^000000"
 	},
 	[SKID.AM_CP_WEAPON] = {
-		"Revestir Arma ^777777(Chemical Protection)^000000",
+		"Revestir Arma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Revestir Armadura 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3182,7 +3182,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710 minutos^000000"
 	},
 	[SKID.AM_CP_SHIELD] = {
-		"Revestir Escudo ^777777(Chemical Protection)^000000",
+		"Revestir Escudo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Revestir Capacete 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3198,7 +3198,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710 minutos^000000"
 	},
 	[SKID.AM_CP_ARMOR] = {
-		"Revestir Armadura ^777777(Chemical Protection)^000000",
+		"Revestir Armadura",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Revestir Escudo 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3214,7 +3214,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710 minutos^000000"
 	},
 	[SKID.AM_CP_HELM] = {
-		"Revestir Capacete ^777777(Chemical Protection)^000000",
+		"Revestir Capacete",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Preparar Poção 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3230,7 +3230,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710 minutos^000000"
 	},
 	[SKID.AM_BIOETHICS] = {
-		"Bioética ^777777(Bioethics)^000000",
+		"Bioética",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -3277,7 +3277,7 @@ SKILL_DESCRIPT = {
 		"do usuário aos danos causados pelo elemento Fogo.^000000"
 	},
 	[SKID.AM_CALLHOMUN] = {
-		"Despertar Homunculus ^777777(Call Homunculus)^000000",
+		"Despertar Homunculus",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Vaporizar 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3289,7 +3289,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Semente da Vida.^000000"
 	},
 	[SKID.AM_REST] = {
-		"Vaporizar ^777777(Rest)^000000",
+		"Vaporizar",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Bioética 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3326,7 +3326,7 @@ SKILL_DESCRIPT = {
 		"Não cura outros jogadores ou a si mesmo.^000000"
 	},
 	[SKID.AM_RESURRECTHOMUN] = {
-		"Ressuscitar Homunculus ^777777(Resurrect)^000000",
+		"Ressuscitar Homunculus",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Despertar Homunculus 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3344,7 +3344,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100%^000000"
 	},
 	[SKID.CR_TRUST] = {
-		"Fé ^777777(Faith)^000000",
+		"Fé",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -3363,7 +3363,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+2.000^000000 l ^777777+50%^000000"
 	},
 	[SKID.CR_AUTOGUARD] = {
-		"Bloqueio ^777777(Guard)^000000",
+		"Bloqueio",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -3385,7 +3385,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777730%^000000"
 	},
 	[SKID.CR_SHIELDCHARGE] = {
-		"Punição Divina ^777777(Shield Charge)^000000",
+		"Punição Divina",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Bloqueio 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -3402,7 +3402,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777200%^000000 l ^77777740%^000000 l ^7777779 células^000000"
 	},
 	[SKID.CR_SHIELDBOOMERANG] = {
-		"Escudo Bumerangue ^777777(Shield Boomerang)^000000",
+		"Escudo Bumerangue",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Punição Divina 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -3419,7 +3419,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777400%^000000 l ^77777711 células^000000"
 	},
 	[SKID.CR_REFLECTSHIELD] = {
-		"Escudo Refletor ^777777(Shield Reflect)^000000",
+		"Escudo Refletor",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Escudo Bumerangue 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3441,7 +3441,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777740%^000000"
 	},
 	[SKID.CR_HOLYCROSS] = {
-		"Crux Divinum ^777777(Holy Cross)^000000",
+		"Crux Divinum",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Fé 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -3463,7 +3463,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777450%^000000 l ^777777900%^000000"
 	},
 	[SKID.CR_GRANDCROSS] = {
-		"Crux Magnum ^777777(Grand Cross)^000000",
+		"Crux Magnum",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Fé 10, Crux Divinum 6^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -3486,7 +3486,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777500%^000000"
 	},
 	[SKID.CR_DEVOTION] = {
-		"Redenção ^777777(Devotion)^000000",
+		"Redenção",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Escudo Refletor 5,",
 		"Crux Magnum 4^000000",
@@ -3507,7 +3507,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775^000000 l ^77777790 segundos^000000 l ^77777711 células^000000"
 	},
 	[SKID.CR_PROVIDENCE] = {
-		"Divina Providência ^777777(Providence)^000000",
+		"Divina Providência",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Curar 5, Proteção Divina 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3523,7 +3523,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+25%^000000"
 	},
 	[SKID.CR_DEFENDER] = {
-		"Aura Sagrada ^777777(Defender)^000000",
+		"Aura Sagrada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Escudo Bumerangue 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3540,7 +3540,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+80%^000000 l ^777777Normal^000000"
 	},
 	[SKID.CR_SPEARQUICKEN] = {
-		"Rapidez com Lança ^777777(Spear Quicken)^000000",
+		"Rapidez com Lança",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Lança 10^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3561,7 +3561,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000 l ^777777+20^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.MO_IRONHAND] = {
-		"Punhos de Ferro ^777777(Iron Hand)^000000",
+		"Punhos de Ferro",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Flagelo do Mal 10,",
 		"Proteção Divina 10^000000",
@@ -3582,7 +3582,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000"
 	},
 	[SKID.MO_SPIRITSRECOVERY] = {
-		"Meditação ^777777(Spirits Recovery)^000000",
+		"Meditação",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Dilema 2^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -3599,7 +3599,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20^000000 l ^777777+10^000000 l ^777777+1,0%^000000"
 	},
 	[SKID.MO_CALLSPIRITS] = {
-		"Invocar Esfera Espiritual ^777777(Call Spirits)^000000",
+		"Invocar Esfera Espiritual",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Punhos de Ferro 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3615,7 +3615,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775 Esferas Espirituais^000000"
 	},
 	[SKID.MO_ABSORBSPIRITS] = {
-		"Absorver Esferas Espirituais ^777777(Absorb Spirits)^000000",
+		"Absorver Esferas Espirituais",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Invocar Esfera Espiritual 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3629,7 +3629,7 @@ SKILL_DESCRIPT = {
 		"Custa 5 de SP.^000000"
 	},
 	[SKID.MO_TRIPLEATTACK] = {
-		"Combo Triplo ^777777(Triple Attack)^000000",
+		"Combo Triplo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Cair das Pétalas 5^000000",
 		"Tipo: ^777777Passiva^000000 / ^CD3278Combo^000000",
@@ -3651,7 +3651,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777300%^000000"
 	},
 	[SKID.MO_BODYRELOCATION] = {
-		"Passo Etéreo ^777777(Body Relocation)^000000",
+		"Passo Etéreo",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Punho Supremo de Asura 3,",
 		"Meditação 2, Corpo Fechado 3^000000",
@@ -3666,7 +3666,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Esfera Espiritual.^000000"
 	},
 	[SKID.MO_DODGE] = {
-		"Cair das Pétalas ^777777(Dodge)^000000",
+		"Cair das Pétalas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Punhos de Ferro 5,",
 		"Invocar Esfera Espiritual 5^000000",
@@ -3685,7 +3685,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+15^000000"
 	},
 	[SKID.MO_INVESTIGATE] = {
-		"Impacto Psíquico ^777777(Investigate)^000000",
+		"Impacto Psíquico",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Invocar Esfera Espiritual 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -3703,7 +3703,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^77777720^000000"
 	},
 	[SKID.MO_FINGEROFFENSIVE] = {
-		"Disparo de Esferas Espirituais ^777777(Throw Spirits)^000000",
+		"Disparo de Esferas Espirituais",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Impacto Psíquico 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -3719,7 +3719,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.600%^000000"
 	},
 	[SKID.MO_STEELBODY] = {
-		"Corpo Fechado ^777777(Steel Body)^000000",
+		"Corpo Fechado",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777O Último Dragão 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3737,7 +3737,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777150 segundos^000000"
 	},
 	[SKID.MO_BLADESTOP] = {
-		"Dilema ^777777(Blade Stop)^000000",
+		"Dilema",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Cair das Pétalas 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3756,7 +3756,7 @@ SKILL_DESCRIPT = {
 		"            *^777777Em [Fúria] e com 1 Esfera Espiritual^000000"
 	},
 	[SKID.MO_EXPLOSIONSPIRITS] = {
-		"Fúria Interior ^777777(Explosion Spirits)^000000",
+		"Fúria Interior",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Absorver Esferas Espirituais 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -3772,7 +3772,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20,0^000000"
 	},
 	[SKID.MO_EXTREMITYFIST] = {
-		"Punho Supremo de Asura ^777777(Extremity Fist)^000000",
+		"Punho Supremo de Asura",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Fúria Interior 3,",
 		"Disparo de Esferas Espirituais 3^000000",
@@ -3789,7 +3789,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome todas as Esferas Espirituais.^000000"
 	},
 	[SKID.MO_CHAINCOMBO] = {
-		"Combo Quádruplo ^777777(Chain Combo)^000000",
+		"Combo Quádruplo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Combo Triplo 5^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
@@ -3808,7 +3808,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^7777779^000000"
 	},
 	[SKID.MO_COMBOFINISH] = {
-		"O Último Dragão ^777777(Combo Finish)^000000",
+		"O Último Dragão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Combo Quádruplo 3^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
@@ -3828,7 +3828,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.200%^000000 l ^7777777^000000"
 	},
 	[SKID.SA_ADVANCEDBOOK] = {
-		"Estudo de Livros ^777777(Advanced Book)^000000",
+		"Estudo de Livros",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -3847,7 +3847,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000 l ^777777+5,0%^000000"
 	},
 	[SKID.SA_CASTCANCEL] = {
-		"Cancelar Magia ^777777(Cast Cancel)^000000",
+		"Cancelar Magia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estudo de Livros 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3864,7 +3864,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710%^000000"
 	},
 	[SKID.SA_MAGICROD] = {
-		"Espelho Mágico ^777777(Magic Rod)^000000",
+		"Espelho Mágico",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estudo de Livros 4^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3882,7 +3882,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771,2 segundos^000000 l ^777777100%^000000"
 	},
 	[SKID.SA_SPELLBREAKER] = {
-		"Desconcentrar ^777777(Spell Breaker)^000000",
+		"Desconcentrar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Espelho Mágico 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3900,7 +3900,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100%^000000"
 	},
 	[SKID.SA_FREECAST] = {
-		"Conjuração Livre ^777777(Free Cast)^000000",
+		"Conjuração Livre",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Cancelar Magia 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -3922,7 +3922,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777775%^000000 l ^777777100%^000000"
 	},
 	[SKID.SA_AUTOSPELL] = {
-		"Desejo Arcano ^777777(Auto Spell)^000000",
+		"Desejo Arcano",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Conjuração Livre 4^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -3946,7 +3946,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777720%^000000 l ^777777Temp. Raios / Fúria da Terra^000000"
 	},
 	[SKID.SA_FLAMELAUNCHER] = {
-		"Encantar com Chama ^777777(Flame Launcher)^000000",
+		"Encantar com Chama",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lanças de Fogo 1,",
 		"Estudo de Livros 5^000000",
@@ -3964,7 +3964,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 minutos^000000 l ^777777+5%^000000"
 	},
 	[SKID.SA_FROSTWEAPON] = {
-		"Encantar com Geada ^777777(Frost Weapon)^000000",
+		"Encantar com Geada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lanças de Gelo 1,",
 		"Estudo de Livros 5^000000",
@@ -3982,7 +3982,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 minutos^000000 l ^777777+5%^000000"
 	},
 	[SKID.SA_LIGHTNINGLOADER] = {
-		"Encantar com Ventania ^777777(Lightning Loader)^000000",
+		"Encantar com Ventania",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Relâmpago 1,",
 		"Estudo de Livros 5^000000",
@@ -4000,7 +4000,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 minutos^000000 l ^777777+5%^000000"
 	},
 	[SKID.SA_SEISMICWEAPON] = {
-		"Encantar com Terremoto ^777777(Seismic Weapon)^000000",
+		"Encantar com Terremoto",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Petrificar 1,",
 		"Estudo de Livros 5^000000",
@@ -4018,7 +4018,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 minutos^000000 l ^777777+5%^000000"
 	},
 	[SKID.SA_DRAGONOLOGY] = {
-		"Dragonologia ^777777(Dragonology)^000000",
+		"Dragonologia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estudo de Livros 9^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -4034,7 +4034,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+3^000000 l ^777777+20%^000000 l ^777777+10%^000000 l ^777777+20%^000000"
 	},
 	[SKID.SA_VOLCANO] = {
-		"Vulcão ^777777(Volcano)^000000",
+		"Vulcão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Encantar com Chama 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4054,7 +4054,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20%^000000 l ^777777+30^000000"
 	},
 	[SKID.SA_DELUGE] = {
-		"Dilúvio ^777777(Deluge)^000000",
+		"Dilúvio",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Encantar com Geada 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4074,7 +4074,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20%^000000 l ^777777+15%^000000"
 	},
 	[SKID.SA_VIOLENTGALE] = {
-		"Furacão ^777777(Whirlwind)^000000",
+		"Furacão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Encantar com Ventania 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4094,7 +4094,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20%^000000 l ^777777+15^000000"
 	},
 	[SKID.SA_LANDPROTECTOR] = {
-		"Proteger Terreno ^777777(Land Protector)^000000",
+		"Proteger Terreno",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Vulcão 3, Dilúvio 3, Furacão 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4110,7 +4110,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777300 segundos^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.SA_DISPELL] = {
-		"Desencantar ^777777(Dispell)^000000",
+		"Desencantar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Desconcentrar 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4233,7 +4233,7 @@ SKILL_DESCRIPT = {
 		"Nota: Habilidade exclusiva de Abracadabra."
 	},
 	[SKID.BD_ADAPTATION] = {
-		"Aquecimento ^777777(Adaptation to Circumstances)^000000",
+		"Aquecimento",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -4244,7 +4244,7 @@ SKILL_DESCRIPT = {
 		"Pode ser usada junto com [Bis].^000000"
 	},
 	[SKID.BD_ENCORE] = {
-		"Bis ^777777(Encore)^000000",
+		"Bis",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Aquecimento 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -4256,7 +4256,7 @@ SKILL_DESCRIPT = {
 		"[Bis] ainda será ativada.^000000"
 	},
 	[SKID.BD_LULLABY] = {
-		"Cantiga de Ninar ^777777(Lullaby)^000000",
+		"Cantiga de Ninar",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos:",
 		"^777777Assovio 10^000000 ou ^777777Sibilo 10^000000",
@@ -4271,7 +4271,7 @@ SKILL_DESCRIPT = {
 		"Nos próximos 10 segundos, sofre [Cansaço].^000000"
 	},
 	[SKID.BD_RICHMANKIM] = {
-		"Banquete de Njord ^777777(Mr. Kim A Rich Man)^000000",
+		"Banquete de Njord",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ode a Siegfried 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Dueto^000000",
@@ -4292,7 +4292,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+60%^000000"
 	},
 	[SKID.BD_ETERNALCHAOS] = {
-		"Ritmo Caótico ^777777(Eternal Chaos)^000000",
+		"Ritmo Caótico",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Lamento de Loki 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Dueto^000000",
@@ -4307,7 +4307,7 @@ SKILL_DESCRIPT = {
 		"Nos próximos 10 segundos, sofre [Cansaço].^000000"
 	},
 	[SKID.BD_DRUMBATTLEFIELD] = {
-		"Rufar dos Tambores ^777777(Battle Theme)^000000",
+		"Rufar dos Tambores",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Maçãs de Idun 10^000000 ou ^777777Dança Cigana 10^000000",
@@ -4328,7 +4328,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+40^000000 l ^777777+75^000000"
 	},
 	[SKID.BD_RINGNIBELUNGEN] = {
-		"Anel dos Nibelungos ^777777(Ring of Nibelungen)^000000",
+		"Anel dos Nibelungos",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Rufar dos Tambores 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Dueto^000000",
@@ -4354,7 +4354,7 @@ SKILL_DESCRIPT = {
 		"Nos próximos 10 segundos, sofre [Cansaço].^000000"
 	},
 	[SKID.BD_ROKISWEIL] = {
-		"Lamento de Loki ^777777(Loki's Veil)^000000",
+		"Lamento de Loki",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos:",
 		"^777777Crepúsculo Sangrento 10^000000 ou",
@@ -4372,7 +4372,7 @@ SKILL_DESCRIPT = {
 		"Nos próximos 10 segundos, sofre [Cansaço].^000000"
 	},
 	[SKID.BD_INTOABYSS] = {
-		"Canção Preciosa ^777777(Into the Abyss)^000000",
+		"Canção Preciosa",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cantiga de Ninar 1^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Dueto^000000",
@@ -4387,7 +4387,7 @@ SKILL_DESCRIPT = {
 		"Nos próximos 10 segundos, sofre [Cansaço].^000000"
 	},
 	[SKID.BD_SIEGFRIED] = {
-		"Ode a Siegfried ^777777(Invulnerable Siegfried)^000000",
+		"Ode a Siegfried",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Poema de Bragi 10^000000 ou ^777777Beijo da Sorte 10^000000",
@@ -4413,7 +4413,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.BD_RAGNAROK] = {"Ragnarök"},
 	[SKID.BA_MUSICALLESSON] = {
-		"Lições de Música ^777777(Musical Lessons)^000000",
+		"Lições de Música",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -4433,7 +4433,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30 l ^777777+10%^000000 l ^777777+10%^000000"
 	},
 	[SKID.BA_MUSICALSTRIKE] = {
-		"Flecha Melódica ^777777(Melody Strike)^000000",
+		"Flecha Melódica",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lições de Música 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -4450,7 +4450,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777310%^000000"
 	},
 	[SKID.BA_DISSONANCE] = {
-		"Dissonância ^777777(Dissonance)^000000",
+		"Dissonância",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Aquecimento 1, Lições de Música 1^000000",
@@ -4468,8 +4468,8 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^777777270%^000000",
 		"[Nv 5]: ^777777310%^000000"
 	},
-	[SKID.BA_FROSTJOKE] = {
-		"Piada Infame ^777777(Frost Joker)^000000",
+	[SKID.BA_FROSTJOKER] = {
+		"Piada Infame",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Bis 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -4485,7 +4485,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777740%^000000"
 	},
 	[SKID.BA_WHISTLE] = {
-		"Assovio ^777777(Whistle)^000000",
+		"Assovio",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dissonância 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4508,7 +4508,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+40^000000 l ^777777+5^000000"
 	},
 	[SKID.BA_ASSASSINCROSS] = {
-		"Crepúsculo Sangrento ^777777(Assassin of Sunset)^000000",
+		"Crepúsculo Sangrento",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dissonância 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4531,7 +4531,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+20%^000000"
 	},
 	[SKID.BA_POEMBRAGI] = {
-		"Poema de Bragi ^777777(Poem of Bragi)^000000",
+		"Poema de Bragi",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dissonância 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4554,7 +4554,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777-30%^000000 l ^777777-20%^000000"
 	},
 	[SKID.BA_APPLEIDUN] = {
-		"Maçãs de Idun ^777777(Apple of Idun)^000000",
+		"Maçãs de Idun",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dissonância 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4577,7 +4577,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+20%^000000 l ^777777+20%^000000"
 	},
 	[SKID.DC_DANCINGLESSON] = {
-		"Lições de Dança ^777777(Dance Lessons)^000000",
+		"Lições de Dança",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -4596,7 +4596,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30 l ^777777+10^000000 l ^777777+10%^000000"
 	},
 	[SKID.DC_THROWARROW] = {
-		"Estilingue ^777777(Throw Arrow)^000000",
+		"Estilingue",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lições de Dança 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -4613,7 +4613,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777310%^000000"
 	},
 	[SKID.DC_UGLYDANCE] = {
-		"Dança do Ventre ^777777(Ugly Dance)^000000",
+		"Dança do Ventre",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisitos",
 		"^777777Aquecimento 1, Lições de Dança 1^000000",
@@ -4631,7 +4631,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777720%^000000 l ^77777745%^000000"
 	},
 	[SKID.DC_SCREAM] = {
-		"Escândalo ^777777(Scream)^000000",
+		"Escândalo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Bis 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -4647,7 +4647,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750%^000000"
 	},
 	[SKID.DC_HUMMING] = {
-		"Sibilo ^777777(Humming)^000000",
+		"Sibilo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dança do Ventre 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4669,7 +4669,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+40^000000"
 	},
 	[SKID.DC_DONTFORGETME] = {
-		"Não Me Abandones ^777777(Don't Forget Me)^000000",
+		"Não Me Abandones",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dança do Ventre 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4693,7 +4693,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777-30%^000000 l ^777777-20%^000000"
 	},
 	[SKID.DC_FORTUNEKISS] = {
-		"Beijo da Sorte ^777777(Fortune Kiss)^000000",
+		"Beijo da Sorte",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dança do Ventre 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4716,7 +4716,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10^000000 l ^777777+20%^000000"
 	},
 	[SKID.DC_SERVICEFORYOU] = {
-		"Dança Cigana ^777777(Service for You)^000000",
+		"Dança Cigana",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dança do Ventre 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -4740,7 +4740,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+20%^000000 l ^777777-15%^000000"
 	},
 	[SKID.WE_MALE] = {
-		"Amor Verdadeiro ^777777(I'll save you)^000000",
+		"Amor Verdadeiro",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Família^000000",
 		"Descrição:",
 		"^777777Consome 10% do seu HP para regenerar",
@@ -4748,7 +4748,7 @@ SKILL_DESCRIPT = {
 		"Não pode ser usada se o HP for 10% menor.^000000"
 	},
 	[SKID.WE_FEMALE] = {
-		"Amor Eterno ^777777(I'll sacrifice myself for you)^000000",
+		"Amor Eterno",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Família^000000",
 		"Descrição:",
 		"^777777Consome 10% do seu SP para regenerar",
@@ -4756,7 +4756,7 @@ SKILL_DESCRIPT = {
 		"Não pode ser usada se o SP for 10% menor.^000000"
 	},
 	[SKID.WE_CALLPARTNER] = {
-		"Saudades de Você ^777777(I'm missing you)^000000",
+		"Saudades de Você",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Família^000000",
 		"Descrição:",
 		"^777777Invoca a pessoa amada para perto de você.",
@@ -4771,7 +4771,7 @@ SKILL_DESCRIPT = {
 		"dano físico a distância da propriedade Vento.^000000"
 	},
 	[SKID.LK_AURABLADE] = {
-		"Lâmina de Aura ^777777(Aura Blade)^000000",
+		"Lâmina de Aura",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Impacto Explosivo 5,",
 		"Perícia com Espada de Duas Mãos 5^000000",
@@ -4787,7 +4787,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777Nv. de base x 8^000000"
 	},
 	[SKID.LK_PARRYING] = {
-		"Aparar Golpe ^777777(Parry)^000000",
+		"Aparar Golpe",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Provocar 5,",
 		"Rapidez com Duas Mãos 3,",
@@ -4810,7 +4810,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777750%^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.LK_CONCENTRATION] = {
-		"Dedicação ^777777(Concentration)^000000",
+		"Dedicação",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Montaria 1, Perícia com Lança 5,",
@@ -4827,7 +4827,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50^000000 l ^777777+15%^000000 l ^777777-15%^000000"
 	},
 	[SKID.LK_TENSIONRELAX] = {
-		"Relaxar ^777777(Tension Relax)^000000",
+		"Relaxar",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Vigor 3,",
 		"Aumentar Recuperação de HP 10^000000",
@@ -4838,7 +4838,7 @@ SKILL_DESCRIPT = {
 		"ataques, a habilidade é cancelada.^000000"
 	},
 	[SKID.LK_BERSERK] = {
-		"Frenesi ^777777(Bersek)^000000",
+		"Frenesi",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Nv. de classe 50^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -4908,7 +4908,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10%^000000 l ^777777+30%^000000"
 	},
 	[SKID.HW_SOULDRAIN] = {
-		"Dreno de Alma ^777777(Soul Drain)^000000",
+		"Dreno de Alma",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Espíritos Anciões 7,",
 		"Aumentar Recuperação de SP 5^000000",
@@ -4932,7 +4932,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+20%^000000"
 	},
 	[SKID.HW_MAGICCRASHER] = {
-		"Esmagamento Mágico ^777777(Magic Crasher)^000000",
+		"Esmagamento Mágico",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos:",
 		"^777777Aumentar Recuperação de SP 1^000000",
@@ -4942,7 +4942,7 @@ SKILL_DESCRIPT = {
 		"O dano é baseado no ATQM do usuário.^000000"
 	},
 	[SKID.HW_MAGICPOWER] = {
-		"Amplificação Mística ^777777(Magic Power)^000000",
+		"Amplificação Mística",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -4960,7 +4960,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+50%^000000"
 	},
 	[SKID.PA_PRESSURE] = {
-		"Gloria Domini ^777777(Pressure)^000000",
+		"Gloria Domini",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Vigor 5, Fé 5,",
 		"Punição Divina 2^000000",
@@ -4976,7 +4976,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.250%^000000"
 	},
 	[SKID.PA_SACRIFICE] = {
-		"Sacrifício do Mártir ^777777(Sacrifice)^000000",
+		"Sacrifício do Mártir",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Vigor 1, Redenção 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -4995,7 +4995,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777x1,4^000000"
 	},
 	[SKID.PA_GOSPEL] = {
-		"Canto de Batalha ^777777(Gospel)^000000",
+		"Canto de Batalha",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Fé 8, Flagelo do Mal 5,",
 		"Proteção Divina 3^000000",
@@ -5008,7 +5008,7 @@ SKILL_DESCRIPT = {
 		"Drena HP e SP do usuário continuamente.^000000"
 	},
 	[SKID.CH_PALMSTRIKE] = {
-		"Golpe da Palma em Fúria ^777777(Palm Strike)^000000",
+		"Golpe da Palma em Fúria",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Punhos de Ferro 7,",
 		"Invocar Esfera Espiritual 5^000000",
@@ -5027,7 +5027,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000"
 	},
 	[SKID.CH_TIGERFIST] = {
-		"Punho do Tigre ^777777(Tiger Fist)^000000",
+		"Punho do Tigre",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777O Último Dragão 3^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
@@ -5045,7 +5045,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.250%^000000 l ^77777760%^000000"
 	},
 	[SKID.CH_CHAINCRUSH] = {
-		"Combo Esmagador ^777777(Chain Crush)^000000",
+		"Combo Esmagador",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Punhos de Ferro 5,",
 		"Punho do Tigre 2, Inv. Esfera Espiritual 5^000000",
@@ -5071,7 +5071,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.000%^000000"
 	},
 	[SKID.PF_HPCONVERSION] = {
-		"Indulgir ^777777(HP Conversion)^000000",
+		"Indulgir",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Espelho Mágico 1,",
 		"Aumentar Recuperação de SP 1^000000",
@@ -5089,7 +5089,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750%^000000"
 	},
 	[SKID.PF_SOULCHANGE] = {
-		"Exalar Alma ^777777(Soul Change)^000000",
+		"Exalar Alma",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos:",
 		"^777777Espelho Mágico 3, Desconcentrar 2^000000",
@@ -5100,7 +5100,7 @@ SKILL_DESCRIPT = {
 		"do seu grupo.^000000"
 	},
 	[SKID.PF_SOULBURN] = {
-		"Sifão de Alma ^777777(Soul Burn)^000000",
+		"Sifão de Alma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Cancelar Magia 5,",
 		"Espelho Mágico 3, Desencantar 3^000000",
@@ -5119,7 +5119,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777770%^000000"
 	},
 	[SKID.ASC_KATAR] = {
-		"Perícia com Katar Avançada ^777777(Adv. Katar)^000000",
+		"Perícia com Katar Avançada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ataque Duplo 5,",
 		"Perícia com Katar 7^000000",
@@ -5134,7 +5134,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20%^000000"
 	},
 	[SKID.ASC_EDP] = {
-		"Encantar com Veneno Mortal ^777777(EDP)^000000",
+		"Encantar com Veneno Mortal",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Criar Veneno Mortal 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -5151,7 +5151,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777120 segundos^000000"
 	},
 	[SKID.ASC_BREAKER] = {
-		"Destruidor de Almas ^777777(Soul Breaker)^000000",
+		"Destruidor de Almas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Envenenar Arma 6,",
 		"Ataque Duplo 5, Esconderijo 2,",
@@ -5175,7 +5175,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.500%^000000"
 	},
 	[SKID.SN_SIGHT] = {
-		"Visão Real ^777777(True Sight)^000000",
+		"Visão Real",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Precisão 10,",
 		"Olhos de Águia 10, Concentrar 10,",
@@ -5197,7 +5197,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30%^000000 l ^777777+20%^000000 l ^777777+10^000000"
 	},
 	[SKID.SN_FALCONASSAULT] = {
-		"Assalto do Falcão ^777777(Falcon Assault)^000000",
+		"Assalto do Falcão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Olhos de Águia 5, Garras de Aço 3^000000",
@@ -5208,7 +5208,7 @@ SKILL_DESCRIPT = {
 		"O nível de base afeta o dano causado.^000000"
 	},
 	[SKID.SN_SHARPSHOOTING] = {
-		"Tiro Preciso ^777777(Sharp Shooting)^000000",
+		"Tiro Preciso",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Rajada de Flechas 5, Concentrar 10^000000",
@@ -5229,7 +5229,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.800%^000000 l ^77777724^000000"
 	},
 	[SKID.SN_WINDWALK] = {
-		"Caminho do Vento ^777777(Wind Walk)^000000",
+		"Caminho do Vento",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Concentrar 9^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -5241,7 +5241,7 @@ SKILL_DESCRIPT = {
 		"pode ser reduzido por [Pântano dos Mortos].^000000"
 	},
 	[SKID.WS_MELTDOWN] = {
-		"Golpe Estilhaçante ^777777(Melt Down)^000000",
+		"Golpe Estilhaçante",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Resistência ao Fogo 3,",
 		"Força Violenta 3, Perícia em Armamento 5^000000",
@@ -5266,7 +5266,7 @@ SKILL_DESCRIPT = {
 	[SKID.WS_CREATECOIN] = {},
 	[SKID.WS_CREATENUGGET] = {},
 	[SKID.WS_CARTBOOST] = {
-		"Impulso no Carrinho ^777777(Cart Boost)^000000",
+		"Impulso no Carrinho",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Punho Firme 1,",
 		"Cavalo de Pau 1, Usar Carrinho 5,",
@@ -5281,7 +5281,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.WS_SYSTEMCREATE] = {},
 	[SKID.ST_CHASEWALK] = {
-		"Espreitar ^777777(Chase Walk)^000000",
+		"Espreitar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Esconderijo 5, Túnel de Fuga 3^000000",
@@ -5303,7 +5303,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777720^000000 l ^77777790%^000000 l ^777777+16^000000"
 	},
 	[SKID.ST_REJECTSWORD] = {
-		"Instinto de Defesa ^777777(Reject Sword)^000000",
+		"Instinto de Defesa",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -5324,7 +5324,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_ALCHEMY] = {},
 	[SKID.CR_SYNTHESISPOTION] = {},
 	[SKID.CG_ARROWVULCAN] = {
-		"Vulcão de Flechas ^777777(Arrow Vulcan)^000000",
+		"Vulcão de Flechas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Rajada de Flechas 5,",
 		"Chuva de Flechas 5, Flecha Melódica 1^000000",
@@ -5347,7 +5347,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.500%^000000"
 	},
 	[SKID.CG_MOONLIT] = {
-		"Bênção Protetora ^777777(Moonlight Water Mill)^000000",
+		"Bênção Protetora",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Concentrar 5,",
 		"Lições de Música 7^000000 ou ^777777Lições de Dança 7^000000",
@@ -5368,7 +5368,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777740 segundos^000000"
 	},
 	[SKID.CG_MARIONETTE] = {
-		"Controle de Marionete ^777777(Marionette Control)^000000",
+		"Controle de Marionete",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Concentrar 10,",
 		"Lições de Música 5^000000 ou ^777777Lições de Dança 5^000000",
@@ -5382,7 +5382,7 @@ SKILL_DESCRIPT = {
 		"se o alvo estiver distante do usuário.^000000"
 	},
 	[SKID.LK_SPIRALPIERCE] = {
-		"Perfurar em Espiral ^777777(Spiral Pierce)^000000",
+		"Perfurar em Espiral",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Lança 5,",
 		"Perfurar 5, Estocada 5^000000",
@@ -5400,7 +5400,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777400%^000000"
 	},
 	[SKID.LK_HEADCRUSH] = {
-		"Golpe Traumático ^777777(Head Crush)^000000",
+		"Golpe Traumático",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Perícia com Lança 9, Montaria 1^000000",
@@ -5416,7 +5416,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777300%^000000"
 	},
 	[SKID.LK_JOINTBEAT] = {
-		"Ataque Vital ^777777(Joint Beat)^000000",
+		"Ataque Vital",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Lança 9,",
 		"Perícia em Montaria 3, Golpe Traumático 3^000000",
@@ -5440,7 +5440,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777150%^000000"
 	},
 	[SKID.HW_NAPALMVULCAN] = {
-		"Vulcão Napalm ^777777(Napalm Vulcan)^000000",
+		"Vulcão Napalm",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ataque Espiritual 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -5458,7 +5458,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777350%^000000 l ^7777775^000000"
 	},
 	[SKID.CH_SOULCOLLECT] = {
-		"Zen ^777777(Dangerous Soul Collect)^000000",
+		"Zen",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Fúria Interior 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -5467,7 +5467,7 @@ SKILL_DESCRIPT = {
 		"possível de Esferas Espirituais.^000000"
 	},
 	[SKID.PF_MINDBREAKER] = {
-		"Enlouquecedor ^777777(Mind Breaker)^000000",
+		"Enlouquecedor",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Sifão de Alma 2,",
 		"Aumentar Recuperação de SP 3^000000",
@@ -5485,7 +5485,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+100%^000000 l ^777777-60%^000000"
 	},
 	[SKID.PF_MEMORIZE] = {
-		"Presciência ^777777(Memorize)^000000",
+		"Presciência",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Desejo Arcano 1,",
 		"Estudo de Livros 5, Conjuração Livre 5^000000",
@@ -5495,7 +5495,7 @@ SKILL_DESCRIPT = {
 		"em 50% das próximas 5 habilidades.^000000"
 	},
 	[SKID.PF_FOGWALL] = {
-		"Bruma Ofuscante ^777777(Wall of Fog)^000000",
+		"Bruma Ofuscante",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Furacão 2, Dilúvio 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -5508,7 +5508,7 @@ SKILL_DESCRIPT = {
 		"Não funciona contra jogadores fora do PvP.^000000"
 	},
 	[SKID.PF_SPIDERWEB] = {
-		"Prisão de Teia ^777777(Spider Web)^000000",
+		"Prisão de Teia",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Dragonologia 4^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -5520,7 +5520,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Teia de Aranha.^000000"
 	},
 	[SKID.ASC_METEORASSAULT] = {
-		"Impacto Meteoro ^777777(Meteor Assault)^000000",
+		"Impacto Meteoro",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Mão Direita 3",
 		"Perícia com Katar 5, Destruidor de Almas 1",
@@ -5545,7 +5545,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.400%^000000"
 	},
 	[SKID.ASC_CDP] = {
-		"Criar Veneno Mortal ^777777(CPD)^000000",
+		"Criar Veneno Mortal",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Envenenar Arma 5,",
 		"Envenenar 10, Desintoxicar 1^000000",
@@ -5564,28 +5564,28 @@ SKILL_DESCRIPT = {
 		"1 Poção da Fúria Selvagem^000000"
 	},
 	[SKID.WE_BABY] = {
-		"Mãe, Pai, amo vocês! ^777777(Mom Dad I love you)^000000",
+		"Mãe, Pai, amo vocês!",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Família^000000",
 		"Descrição:",
 		"^777777Pais ou Mães adotivos não perderão EXP",
 		"ao morrer. Consome 10% de SP da criança.^000000"
 	},
 	[SKID.WE_CALLPARENT] = {
-		"Mãe, Pai, cadê vocês? ^777777(I want to see you)^000000",
+		"Mãe, Pai, cadê vocês?",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Família^000000",
 		"Descrição:",
 		"^777777Invoca seus Pais para perto de você.",
 		"Não funciona se o [Teleporte] for desativado.^000000"
 	},
 	[SKID.WE_CALLBABY] = {
-		"Vem cá, filhote! ^777777(Baby come here)^000000",
+		"Vem cá, filhote!",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Família^000000",
 		"Descrição:",
 		"^777777Invoca sua criança para perto de você.",
 		"Não funciona se o [Teleporte] for desativado.^000000"
 	},
 	[SKID.TK_RUN] = {
-		"Corrida ^777777(Run)^000000",
+		"Corrida",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -5608,7 +5608,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10] ^777777+100^000000 l ^777777Nenhuma^000000"
 	},
 	[SKID.TK_READYSTORM] = {
-		"Postura do Tornado ^777777(Ready Storm)^000000",
+		"Postura do Tornado",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Chute do Tornado 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -5620,7 +5620,7 @@ SKILL_DESCRIPT = {
 		"[Chute do Tornado] logo em seguida.^000000"
 	},
 	[SKID.TK_STORMKICK] = {
-		"Chute do Tornado ^777777(Storm Kick)^000000",
+		"Chute do Tornado",
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5638,7 +5638,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7] ^777777300%^000000 l ^7777772^000000"
 	},
 	[SKID.TK_READYDOWN] = {
-		"Postura da Patada Voadora ^777777(Ready Down)^000000",
+		"Postura da Patada Voadora",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Patada Voadora 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -5650,7 +5650,7 @@ SKILL_DESCRIPT = {
 		"uso de [Patada Voadora] em seguida.^000000"
 	},
 	[SKID.TK_DOWNKICK] = {
-		"Patada Voadora ^777777(Down Kick)^000000",
+		"Patada Voadora",
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5668,7 +5668,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7] ^777777300%^000000 l ^7777772^000000"
 	},
 	[SKID.TK_READYTURN] = {
-		"Postura da Rasteira ^777777(Ready Turn)^000000",
+		"Postura da Rasteira",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Rasteira 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -5680,7 +5680,7 @@ SKILL_DESCRIPT = {
 		"[Rasteira] logo em seguida.^000000"
 	},
 	[SKID.TK_TURNKICK] = {
-		"Rasteira ^777777(Turn Kick)^000000",
+		"Rasteira",
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5700,7 +5700,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7] ^777777400%^000000 l ^7777772^000000"
 	},
 	[SKID.TK_READYCOUNTER] = {
-		"Postura do Contrachute ^777777(Ready Counter)^000000",
+		"Postura do Contrachute",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Contrachute 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -5712,7 +5712,7 @@ SKILL_DESCRIPT = {
 		"de [Contrachute] logo em seguida.^000000"
 	},
 	[SKID.TK_COUNTER] = {
-		"Contrachute ^777777(Counter Kick)^000000",
+		"Contrachute",
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5730,7 +5730,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7] ^777777400%^000000 l ^7777772^000000"
 	},
 	[SKID.TK_DODGE] = {
-		"Cambalhota ^777777(Dodge)^000000",
+		"Cambalhota",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Chute Aéreo 7^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -5741,7 +5741,7 @@ SKILL_DESCRIPT = {
 		"bloqueia ataques físicos de corpo a corpo.^000000"
 	},
 	[SKID.TK_JUMPKICK] = {
-		"Chute Aéreo ^777777(Jump Kick)^000000",
+		"Chute Aéreo",
 		"Nível máximo: ^7777777^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -5762,7 +5762,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7] ^777777100%^000000 l ^77777710^000000"
 	},
 	[SKID.TK_HPTIME] = {
-		"Trégua Rápida ^777777(HP Time)^000000",
+		"Trégua Rápida",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -5783,7 +5783,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10] ^777777300^000000"
 	},
 	[SKID.TK_SPTIME] = {
-		"Retiro Rápido ^777777(SP Time)^000000",
+		"Retiro Rápido",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -5819,7 +5819,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5] ^777777+85%^000000"
 	},
 	[SKID.TK_SEVENWIND] = {
-		"Brisa Leve ^777777(Seven Wind)^000000",
+		"Brisa Leve",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos:",
 		"^777777Trégua Rápida 5, Retiro Rápido 5, Kihop 5^000000",
@@ -5838,7 +5838,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7] ^77777750^000000 l ^777777Sagrado^000000"
 	},
 	[SKID.TK_HIGHJUMP] = {
-		"Salto ^777777(High Jump)^000000",
+		"Salto",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -5873,7 +5873,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3] ^777777Estelar^000000"
 	},
 	[SKID.SG_SUN_WARM] = {
-		"Calor Solar ^777777(Sun Warm)^000000",
+		"Calor Solar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 1^000000",
@@ -5891,7 +5891,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3] ^77777760 segundos^000000"
 	},
 	[SKID.SG_MOON_WARM] = {
-		"Calor Lunar ^777777(Moon Warm)^000000",
+		"Calor Lunar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 2^000000",
@@ -5909,7 +5909,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3] ^77777760 segundos^000000"
 	},
 	[SKID.SG_STAR_WARM] = {
-		"Calor Estelar ^777777(Star Warm)^000000",
+		"Calor Estelar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 3^000000",
@@ -5927,7 +5927,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3] ^77777760 segundos^000000"
 	},
 	[SKID.SG_SUN_COMFORT] = {
-		"Proteção Solar ^777777(Sun Comfort)^000000",
+		"Proteção Solar",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 1^000000",
@@ -5944,7 +5944,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4] ^77777740^000000 l ^777777320 segundos^000000"
 	},
 	[SKID.SG_MOON_COMFORT] = {
-		"Proteção Lunar ^777777(Moon Comfort)^000000",
+		"Proteção Lunar",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 2^000000",
@@ -5961,7 +5961,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4] ^77777740^000000 l ^777777320 segundos^000000"
 	},
 	[SKID.SG_STAR_COMFORT] = {
-		"Proteção Estelar ^777777(Star Comfort)^000000",
+		"Proteção Estelar",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 3^000000",
@@ -5995,7 +5995,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3] ^777777Estelar^000000 l ^777777Grande^000000 l ^77777720.000^000000"
 	},
 	[SKID.SG_SUN_ANGER] = {
-		"Fúria Solar ^777777(Sun Anger)^000000",
+		"Fúria Solar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Oposição Solar, Lunar e Estelar 1^000000",
@@ -6006,7 +6006,7 @@ SKILL_DESCRIPT = {
 		"baseado na sua SOR, DES e nível base.^000000"
 	},
 	[SKID.SG_MOON_ANGER] = {
-		"Fúria Lunar ^777777(Moon Anger)^000000",
+		"Fúria Lunar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Oposição Solar, Lunar e Estelar 2^000000",
@@ -6017,7 +6017,7 @@ SKILL_DESCRIPT = {
 		"baseado na sua SOR, DES e nível base.^000000"
 	},
 	[SKID.SG_STAR_ANGER] = {
-		"Fúria Estelar ^777777(Star Anger)^000000",
+		"Fúria Estelar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Oposição Solar, Lunar e Estelar 3^000000",
@@ -6028,7 +6028,7 @@ SKILL_DESCRIPT = {
 		"baseado na FOR, SOR, DES e nível base.^000000"
 	},
 	[SKID.SG_SUN_BLESS] = {
-		"Bênção Solar ^777777(Sun Bless)^000000",
+		"Bênção Solar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 1",
@@ -6046,7 +6046,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5] ^777777+50%^000000"
 	},
 	[SKID.SG_MOON_BLESS] = {
-		"Bênção Lunar ^777777(Moon Bless)^000000",
+		"Bênção Lunar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 2",
@@ -6064,7 +6064,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5] ^777777+50%^000000"
 	},
 	[SKID.SG_STAR_BLESS] = {
-		"Bênção Estelar ^777777(Star Bless)^000000",
+		"Bênção Estelar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Percepção Solar, Lunar e Estelar 3",
@@ -6388,7 +6388,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5] ^777777350 segundos^000000 l ^77777760^000000"
 	},
 	[SKID.BS_ADRENALINE2] = {
-		"Adrenalina Concentrada ^777777(Advanced Rush)^000000",
+		"Adrenalina Concentrada",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Pré-requisitos: ^777777Adrenalina Pura 5^000000",
@@ -6653,7 +6653,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3] ^77777730 segundos^000000 l ^77777760^000000 l ^7777771 segundo^000000"
 	},
 	[SKID.ST_PRESERVE] = {
-		"Preservar ^777777(Preserve)^000000",
+		"Preservar",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Plágio 10^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -6663,7 +6663,7 @@ SKILL_DESCRIPT = {
 		"perder a última habilidade aprendida.^000000"
 	},
 	[SKID.ST_FULLSTRIP] = {
-		"Remoção Total ^777777(Full Strip)^000000",
+		"Remoção Total",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Remover Arma 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -6680,7 +6680,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777715%^000000"
 	},
 	[SKID.WS_WEAPONREFINE] = {
-		"Aprimorar Armamento ^777777(Weapon Refine)^000000",
+		"Aprimorar Armamento",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia em Armamento 10^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -6709,7 +6709,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777até o +10.^000000"
 	},
 	[SKID.CR_SLIMPITCHER] = {
-		"Arremessar Poção Compacta ^777777(Slim Pitcher)^000000",
+		"Arremessar Poção Compacta",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Arremessar Poção 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -6732,7 +6732,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777200%^000000 l ^777777Branca^000000"
 	},
 	[SKID.CR_FULLPROTECTION] = {
-		"Proteção Química Total ^777777(Full Protection)^000000",
+		"Proteção Química Total",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Revestir Capacete 5,",
 		"Revestir Arma, Escudo, Armadura 5^000000",
@@ -6750,7 +6750,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600 segundos^000000"
 	},
 	[SKID.PA_SHIELDCHAIN] = {
-		"Choque Rápido ^777777(Shield Chain)^000000",
+		"Choque Rápido",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Escudo Bumerangue 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -6769,7 +6769,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.300%^000000"
 	},
 	[SKID.HP_MANARECHARGE] = {
-		"Riqueza de Espírito ^777777(Mana Recharge)^000000",
+		"Riqueza de Espírito",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Perícia com Maça 10, Flagelo do Mal 10^000000",
@@ -6784,7 +6784,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-20%^000000"
 	},
 	[SKID.PF_DOUBLECASTING] = {
-		"Lanças Duplas ^777777(Double Casting)^000000",
+		"Lanças Duplas",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Desejo Arcano 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -6812,7 +6812,7 @@ SKILL_DESCRIPT = {
 		"^008080O consumo de gemas não pode ser anulado.^000000"
 	},
 	[SKID.HW_GRAVITATION] = {
-		"Campo Gravitacional ^777777(Gravitational Field)^000000",
+		"Campo Gravitacional",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Amplificação Mística 10,",
 		"Esmagamento Mágico 1, Pântano dos Mortos 1^000000",
@@ -6828,7 +6828,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^77777710^000000"
 	},
 	[SKID.WS_CARTTERMINATION] = {
-		"Choque do Carrinho ^777777(Cart Termination)^000000",
+		"Choque do Carrinho",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Martelo de Thor 5,",
 		"Mammonita 10, Impulso no Carrinho 1^000000",
@@ -6853,7 +6853,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.500^000000 l ^77777750%^000000"
 	},
 	[SKID.WS_OVERTHRUSTMAX] = {
-		"Força Violentíssima ^777777(Maximum Over Thrust)^000000",
+		"Força Violentíssima",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Força Violenta 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -6868,7 +6868,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775.000^000000 l ^777777+100%^000000"
 	},
 	[SKID.CG_HERMODE] = {
-		"Bastão de Hermod ^777777(Wand of Hermode)^000000",
+		"Bastão de Hermod",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Concentrar 10,",
 		"Lições de Música 10^000000 ou ^777777Lições de Dança 10^000000",
@@ -6889,7 +6889,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750 segundos^000000"
 	},
 	[SKID.CG_TAROTCARD] = {
-		"Destino nas Cartas ^777777(Tarot Card)^000000",
+		"Destino nas Cartas",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Concentrar 10,",
 		"Dança do Ventre 3^000000 ou ^777777Dissonância 3^000000",
@@ -6905,7 +6905,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777740%^000000"
 	},
 	[SKID.CR_ACIDDEMONSTRATION] = {
-		"Bomba Ácida ^777777(Acid Demonstration)^000000",
+		"Bomba Ácida",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Fogo Grego 5, Terror Ácido 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -6932,7 +6932,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.000%^000000"
 	},
 	[SKID.CR_CULTIVATION] = {
-		"Cultivar Planta ^777777(Plant Cultivation)^000000",
+		"Cultivar Planta",
 		"Nível máximo: ^7777772^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -6944,7 +6944,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^777777Planta^000000 l ^7777771 Caule^000000"
 	},
 	[SKID.TK_MISSION] = {
-		"Missão Taekwon ^777777(TK Mission)^000000",
+		"Missão Taekwon",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Kihop 5^000000",
 		"Descrição:",
@@ -6981,7 +6981,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5] ^777777350 segundos^000000 l ^77777760^000000"
 	},
 	[SKID.KN_ONEHAND] = {
-		"Rapidez com Uma Mão ^777777(One Quicken)^000000",
+		"Rapidez com Uma Mão",
 		"Pré-requisitos: ^777777Rapidez com Duas Mãos 10^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -6992,7 +6992,7 @@ SKILL_DESCRIPT = {
 		"somente se forem usadas após a habilidade.^000000"
 	},
 	[SKID.AM_TWILIGHT1] = {
-		"Criação Espiritual de Poções I ^777777(Twilight 1)^000000",
+		"Criação Espiritual de Poções I",
 		"Pré-requisitos: ^777777Preparar Poção 10^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -7007,7 +7007,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 200 materiais de Poção Branca.^000000"
 	},
 	[SKID.AM_TWILIGHT2] = {
-		"Criação Espiritual de Poções II ^777777(Twilight 2)^000000",
+		"Criação Espiritual de Poções II",
 		"Pré-requisitos: ^777777Preparar Poção 10^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -7021,7 +7021,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 200 materiais.^000000"
 	},
 	[SKID.AM_TWILIGHT3] = {
-		"Criação Espiritual de Poções III ^777777(Twilight 3)^000000",
+		"Criação Espiritual de Poções III",
 		"Pré-requisitos: ^777777Preparar Poção 10^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -7037,7 +7037,7 @@ SKILL_DESCRIPT = {
 		"os materiais de cada item.^000000"
 	},
 	[SKID.HT_POWER] = {
-		"Ataque da Fera  ^777777(Beast Charge)^000000",
+		"Ataque da Fera",
 		"Pré-requisitos: ^777777PRajada de Flechas 10^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -7050,7 +7050,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Flecha.^000000"
 	},
 	[SKID.GS_GLITTERING] = {
-		"Cara ou Coroa ^777777(Flip the Coin)^000000",
+		"Cara ou Coroa",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -7061,7 +7061,7 @@ SKILL_DESCRIPT = {
 		"o nível da habilidade.^000000"
 	},
 	[SKID.GS_FLING] = {
-		"Atirar Moedas ^777777(Coin Fling)^000000",
+		"Atirar Moedas",
 		"Nível Máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7072,7 +7072,7 @@ SKILL_DESCRIPT = {
 		"ao número de moedas gastas.^000000"
 	},
 	[SKID.GS_TRIPLEACTION] = {
-		"Ataque Triplo ^777777(Triple Action)^000000",
+		"Ataque Triplo",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7081,7 +7081,7 @@ SKILL_DESCRIPT = {
 		"no alvo, independente da arma usada.^000000"
 	},
 	[SKID.GS_BULLSEYE] = {
-		"Ataque Certeiro ^777777(Bull's Eye)^000000",
+		"Ataque Certeiro",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7092,7 +7092,7 @@ SKILL_DESCRIPT = {
 		"Não funciona em monstros Chefes.^000000"
 	},
 	[SKID.GS_MADNESSCANCEL] = {
-		"Resistência Final ^777777(Madness Cancel)^000000",
+		"Resistência Final",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 4^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -7104,7 +7104,7 @@ SKILL_DESCRIPT = {
 		"'Pânico do Justiceiro'.^000000"
 	},
 	[SKID.GS_ADJUSTMENT] = {
-		"Pânico do Justiceiro ^777777(Adjustment)^000000",
+		"Pânico do Justiceiro",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 4^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -7116,7 +7116,7 @@ SKILL_DESCRIPT = {
 		"'Resistência Final'.^000000"
 	},
 	[SKID.GS_INCREASING] = {
-		"Aumentar Precisão ^777777(Increase Accuracy)^000000",
+		"Aumentar Precisão",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -7125,7 +7125,7 @@ SKILL_DESCRIPT = {
 		"precisão +20, AGI e DES +4 por 1 minuto.^000000"
 	},
 	[SKID.GS_MAGICALBULLET] = {
-		"Bala Mágica ^777777(Magical Bullet)^000000",
+		"Bala Mágica",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -7134,7 +7134,7 @@ SKILL_DESCRIPT = {
 		"nos ataques físicos básicos por 30 segundos"
 	},
 	[SKID.GS_CRACKER] = {
-		"Tiro Bombinha ^777777(Cracker)^000000",
+		"Tiro Bombinha",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -7145,7 +7145,7 @@ SKILL_DESCRIPT = {
 		"Consome 1 moeda.^000000"
 	},
 	[SKID.GS_SINGLEACTION] = {
-		"Ataque Concentrado ^777777(Single Action)^000000",
+		"Ataque Concentrado",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -7164,7 +7164,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777 +5%^000000 l ^777777 +20^000000"
 	},
 	[SKID.GS_SNAKEEYE] = {
-		"Olhos de Serpente ^777777(Snake Eye)^000000",
+		"Olhos de Serpente",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -7183,7 +7183,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777 +10^000000 l ^777777 +10^000000"
 	},
 	[SKID.GS_CHAINACTION] = {
-		"Reação em Cadeia ^777777(Chain Action)^000000",
+		"Reação em Cadeia",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ataque Concentrado 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -7195,7 +7195,7 @@ SKILL_DESCRIPT = {
 		"da habilidade aumenta a chance de sucesso.^000000"
 	},
 	[SKID.GS_TRACKING] = {
-		"Rastrear o Alvo ^777777(Tracking)^000000",
+		"Rastrear o Alvo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ataque Concentrado 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7216,7 +7216,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.200%^000000 l ^7777771,5 segundos^000000"
 	},
 	[SKID.GS_DISARM] = {
-		"Desarmar ^777777(Disarm)^000000",
+		"Desarmar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Rastrear o Alvo 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7228,7 +7228,7 @@ SKILL_DESCRIPT = {
 		"Não funciona em monstros Chefes.^000000"
 	},
 	[SKID.GS_PIERCINGSHOT] = {
-		"Ferir Alvo ^777777(Wounding Shot)^000000",
+		"Ferir Alvo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Rastrear o Alvo 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7244,7 +7244,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777300%^000000 l ^777777400%^000000 l ^77777715%^000000"
 	},
 	[SKID.GS_RAPIDSHOWER] = {
-		"Rajada Certeira ^777777(Rapid Shower)^000000",
+		"Rajada Certeira",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Reação em Cadeia 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7286,7 +7286,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777550%^000000 l ^77777750^000000"
 	},
 	[SKID.GS_GATLINGFEVER] = {
-		"Ataque Gatling ^777777(Gatling Fever)^000000",
+		"Ataque Gatling",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos:",
 		"^777777Desperado 5, Rajada Certeira 7^000000",
@@ -7318,7 +7318,7 @@ SKILL_DESCRIPT = {
 		"             ^777777Esquiva -50^000000 l ^777777165 segundos^000000"
 	},
 	[SKID.GS_DUST] = {
-		"Controle de Multidão ^777777(Dust)^000000",
+		"Controle de Multidão",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ataque Concentrado 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7339,7 +7339,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777600%^000000 l ^77777730^000000"
 	},
 	[SKID.GS_FULLBUSTER] = {
-		"Ataque Total ^777777(Full Blast)^000000",
+		"Ataque Total",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Controle de Multidão 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7361,7 +7361,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.300%^000000 l ^77777765^000000"
 	},
 	[SKID.GS_SPREADATTACK] = {
-		"Disparo Espalhado ^777777(Spread Attack)^000000",
+		"Disparo Espalhado",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ataque concentrado 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7382,7 +7382,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777500%^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.GS_GROUNDDRIFT] = {
-		"Mina do Justiceiro ^777777(Ground Drift)^000000",
+		"Mina do Justiceiro",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Disparo Espalhado 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7405,7 +7405,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777400%^000000 l ^77777730 segundos^000000"
 	},
 	[SKID.NJ_TOBIDOUGU] = {
-		"Perícia com Shuriken ^777777(Dagger Practice)^000000",
+		"Perícia com Shuriken",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -7423,7 +7423,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000"
 	},
 	[SKID.NJ_SYURIKEN] = {
-		"Arremessar Shuriken ^777777(Throw Shuriken)^000000",
+		"Arremessar Shuriken",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Shuriken 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7445,7 +7445,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777150%^000000"
 	},
 	[SKID.NJ_KUNAI] = {
-		"Arremessar Kunai ^777777(Throw Kunai)^000000",
+		"Arremessar Kunai",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Arremessar Shuriken 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7462,7 +7462,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000"
 	},
 	[SKID.NJ_HUUMA] = {
-		"Arremessar Huuma ^777777(Throw Huuma)^000000",
+		"Arremessar Huuma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Arremessar Kunai 5",
 		"Perícia com Shuriken 5^000000",
@@ -7480,7 +7480,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.200%^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.NJ_ZENYNAGE] = {
-		"Chuva de Moedas ^777777(Throw Coins)^000000",
+		"Chuva de Moedas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Arremessar Huuma 5,",
 		"Perícia com Shuriken 10^000000",
@@ -7505,7 +7505,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777Entre 5.000 a 10.000^000000"
 	},
 	[SKID.NJ_TATAMIGAESHI] = {
-		"Virar Tatami ^777777(Flip Tatami)^000000",
+		"Virar Tatami",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -7522,7 +7522,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777150%^000000 l ^7777773 células^000000"
 	},
 	[SKID.NJ_KASUMIKIRI] = {
-		"Corte da Névoa ^777777(Haze Slasher)^000000",
+		"Corte da Névoa",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Salto das Sombras 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7545,7 +7545,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777300%^000000"
 	},
 	[SKID.NJ_SHADOWJUMP] = {
-		"Salto das Sombras ^777777(Shadow Leap)^000000",
+		"Salto das Sombras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Virar Tatami 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -7562,7 +7562,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710 células^000000"
 	},
 	[SKID.NJ_KIRIKAGE] = {
-		"Corte das Sombras ^777777(Shadow Slash)^000000",
+		"Corte das Sombras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Corte da Névoa 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7580,7 +7580,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777800%^000000 l ^777777+50^000000"
 	},
 	[SKID.NJ_UTSUSEMI] = {
-		"Troca de Pele ^777777(Cicada Skin Shed)^000000",
+		"Troca de Pele",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Salto das Sombras 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -7597,7 +7597,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777760 segundos^000000 l ^7777773 ataques^000000"
 	},
 	[SKID.NJ_BUNSINJYUTSU] = {
-		"Imagem Falsa ^777777(Mirror Image)^000000",
+		"Imagem Falsa",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Aura Ninja 1,",
 		"Troca de Pele 4, Corte das Sombras 3^000000",
@@ -7620,7 +7620,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777240 segundos^000000 l ^7777775 ataques^000000"
 	},
 	[SKID.NJ_NINPOU] = {
-		"Perícia Ninja ^777777(Ninja Mastery)^000000",
+		"Perícia Ninja",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -7641,7 +7641,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777730^000000 l ^7777772,0%^000000"
 	},
 	[SKID.NJ_KOUENKA] = {
-		"Pétalas Flamejantes ^777777(Flaming Petals)^000000",
+		"Pétalas Flamejantes",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia Ninja 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7661,7 +7661,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777710^000000"
 	},
 	[SKID.NJ_KAENSIN] = {
-		"Escudo de Chamas ^777777(Blaze Shield)^000000",
+		"Escudo de Chamas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Pétalas Flamejantes 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7686,7 +7686,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777779 ^000000"
 	},
 	[SKID.NJ_BAKUENRYU] = {
-		"Dragão Explosivo ^777777(Exploding Dragon)^000000",
+		"Dragão Explosivo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia Ninja 10,",
 		"Escudo de Chamas 7^000000",
@@ -7703,7 +7703,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777900%^000000"
 	},
 	[SKID.NJ_HYOUSENSOU] = {
-		"Lança Congelante ^777777(Freezing Spear)^000000",
+		"Lança Congelante",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia Ninja 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7723,7 +7723,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777712 ^000000"
 	},
 	[SKID.NJ_SUITON] = {
-		"Evasão Aquática ^777777(Watery Evasion)^000000",
+		"Evasão Aquática",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Lança Congelante 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -7747,7 +7747,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777779x9 células^000000 l ^77777760 segundos^000000 l ^777777-8^000000"
 	},
 	[SKID.NJ_HYOUSYOURAKU] = {
-		"Grande Floco de Neve ^777777(Snow Flake Draft)^000000",
+		"Grande Floco de Neve",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia Ninja 10,",
 		"Evasão Aquática 7^000000",
@@ -7765,7 +7765,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777900%^000000 l ^77777760%^000000"
 	},
 	[SKID.NJ_HUUJIN] = {
-		"Lâmina de Vento ^777777(Wind Blade)^000000",
+		"Lâmina de Vento",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia Ninja 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7785,7 +7785,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777776 ^000000"
 	},
 	[SKID.NJ_RAIGEKISAI] = {
-		"Descarga Elétrica ^777777(Lightning Jolt)^000000",
+		"Descarga Elétrica",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lâmina de Vento 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -7801,7 +7801,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.NJ_KAMAITACHI] = {
-		"Brisa Cortante ^777777(First Wind)^000000",
+		"Brisa Cortante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia Ninja 10,",
 		"Descarga Elétrica 5^000000",
@@ -7819,7 +7819,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600%^000000 l ^7777773x9 células^000000"
 	},
 	[SKID.NJ_NEN] = {
-		"Aura Ninja ^777777(Ninja Aura)^000000",
+		"Aura Ninja",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia Ninja 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -7835,7 +7835,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+5^000000 l ^77777790 segundos^000000"
 	},
 	[SKID.NJ_ISSEN] = {
-		"Ataque Mortal ^777777(Final Strike)^000000",
+		"Ataque Mortal",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Aura Ninja 1,",
 		"Perícia com Shuriken 7,",
@@ -8035,7 +8035,7 @@ SKILL_DESCRIPT = {
 		"[Nv 1] : ^7777773 segundos^000000"
 	},
 	[SKID.KN_CHARGEATK] = {
-		"Avanço Ofensivo ^777777(Charge Attack)^000000",
+		"Avanço Ofensivo",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -8045,7 +8045,7 @@ SKILL_DESCRIPT = {
 		"mapas com PvP ativo, empurra 4 células.^000000"
 	},
 	[SKID.CR_SHRINK] = {
-		"Submissão ^777777(Shrink)^000000",
+		"Submissão",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -8055,7 +8055,7 @@ SKILL_DESCRIPT = {
 		"Submissão dura 15 minutos.^000000"
 	},
 	[SKID.AS_SONICACCEL] = {
-		"Lâminas Aceleradas ^777777(Sonic Acceleration)^000000",
+		"Lâminas Aceleradas",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -8063,7 +8063,7 @@ SKILL_DESCRIPT = {
 		"Precisão de [Lâminas Destruidoras] +90%.^000000"
 	},
 	[SKID.AS_VENOMKNIFE] = {
-		"Faca Envenenada ^777777(Venom Knife)^000000",
+		"Faca Envenenada",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -8073,7 +8073,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Faca Envenenada.^000000"
 	},
 	[SKID.RG_CLOSECONFINE] = {
-		"Confinamento ^777777(Close Confine)^000000",
+		"Confinamento",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -8084,7 +8084,7 @@ SKILL_DESCRIPT = {
 		"Não funciona contra monstros Chefes.^000000"
 	},
 	[SKID.WZ_SIGHTBLASTER] = {
-		"Explosão Protetora ^777777(Sight Blaster)^000000",
+		"Explosão Protetora",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -8095,7 +8095,7 @@ SKILL_DESCRIPT = {
 		"equivalente à 600% do seu ATQM.^000000"
 	},
 	[SKID.SA_CREATECON] = {
-		"Criar Conversor Elemental ^777777(Create Converter)^000000",
+		"Criar Conversor Elemental",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição: ^777777Cria 1 Conversor Elemental.^000000",
@@ -8107,7 +8107,7 @@ SKILL_DESCRIPT = {
 		"Água l ^7777771x Cristal Azul^000000"
 	},
 	[SKID.SA_ELEMENTWATER] = {
-		"Mudança Elemental - Água ^777777(Element Water)^000000",
+		"Mudança Elemental - Água",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -8116,7 +8116,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Conversor de Água.^000000"
 	},
 	[SKID.HT_PHANTASMIC] = {
-		"Flecha Ilusória ^777777(Phantasmic Arrow)^000000",
+		"Flecha Ilusória",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -8125,7 +8125,7 @@ SKILL_DESCRIPT = {
 		"propriedade Vento e empurrando 3 células.^000000"
 	},
 	[SKID.BA_PANGVOICE] = {
-		"Voz Dolorosa ^777777(Pang Voice)^000000",
+		"Voz Dolorosa",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -8135,7 +8135,7 @@ SKILL_DESCRIPT = {
 		"Não funciona contra monstros Chefes.^000000"
 	},
 	[SKID.DC_WINKCHARM] = {
-		"Piscadela ^777777(Wink Charm)^000000",
+		"Piscadela",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -8145,7 +8145,7 @@ SKILL_DESCRIPT = {
 		"Não funciona contra monstros Chefes.^000000"
 	},
 	[SKID.BS_UNFAIRLYTRICK] = {
-		"Venda Duvidosa ^777777(Unfairly Trick)^000000",
+		"Venda Duvidosa",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -8153,7 +8153,7 @@ SKILL_DESCRIPT = {
 		"e em Choque do Carrinho.^000000"
 	},
 	[SKID.BS_GREED] = {
-		"Ganância ^777777(Greed)^000000",
+		"Ganância",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -8163,7 +8163,7 @@ SKILL_DESCRIPT = {
 		"Não pode ser usada em cidades, PvP e GdE.^000000"
 	},
 	[SKID.PR_REDEMPTIO] = {
-		"Martírio ^777777(Redemptio)^000000",
+		"Martírio",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -8172,7 +8172,7 @@ SKILL_DESCRIPT = {
 		"Alvos serão ressuscitados com 50% de HP.^000000"
 	},
 	[SKID.MO_KITRANSLATION] = {
-		"Concessão Espiritual ^777777(Ki Translation)^000000",
+		"Concessão Espiritual",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -8182,7 +8182,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Esfera Espiritual.^000000"
 	},
 	[SKID.MO_BALKYOUNG] = {
-		"Punhos Intensos ^777777(Balkyoung)^000000",
+		"Punhos Intensos",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -8192,7 +8192,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 200 de HP.^000000"
 	},
 	[SKID.SA_ELEMENTGROUND] = {
-		"Mudança Elemental - Terra ^777777(Element Earth)^000000",
+		"Mudança Elemental - Terra",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -8201,7 +8201,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Conversor de Terra.^000000"
 	},
 	[SKID.SA_ELEMENTFIRE] = {
-		"Mudança Elemental - Fogo ^777777(Element Fire)^000000",
+		"Mudança Elemental - Fogo",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -8210,7 +8210,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Conversor de Fogo.^000000"
 	},
 	[SKID.SA_ELEMENTWIND] = {
-		"Mudança Elemental - Vento ^777777(Element Wind)^000000",
+		"Mudança Elemental - Vento",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -8219,7 +8219,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Conversor de Vento.^000000"
 	},
 	[SKID.RK_ENCHANTBLADE] = {
-		"Encantar Lâmina ^777777(Enchant Blade)^000000",
+		"Encantar Lâmina",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia em Runas 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -8240,7 +8240,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+300^000000"
 	},
 	[SKID.RK_SONICWAVE] = {
-		"Onda de Choque ^777777(Sonic Wave)^000000",
+		"Onda de Choque",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Encantar Lâmina 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8263,7 +8263,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.550%^000000 l ^77777711 células^000000"
 	},
 	[SKID.RK_DEATHBOUND] = {
-		"Revidar Dano ^777777(Death Bound)^000000",
+		"Revidar Dano",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Contra Ataque 1,",
 		"Encantar Lâmina 2^000000",
@@ -8286,7 +8286,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.500%^000000"
 	},
 	[SKID.RK_HUNDREDSPEAR] = {
-		"Lança das Mil Pontas ^777777(Hundred Spears)^000000",
+		"Lança das Mil Pontas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Arpão 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8308,7 +8308,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.600%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.RK_WINDCUTTER] = {
-		"Vento Cortante ^777777(Wind Cutter)^000000",
+		"Vento Cortante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Encantar Lâmina 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8327,7 +8327,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.500%^000000 l ^7777771.250%^000000 l ^7777772.000%^000000"
 	},
 	[SKID.RK_IGNITIONBREAK] = {
-		"Impacto Flamejante ^777777(Ignition Break)^000000",
+		"Impacto Flamejante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Onda de Choque 2,",
 		"Vento Cortante 3, Revidar Dano 5^000000",
@@ -8346,7 +8346,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.250%^000000"
 	},
 	[SKID.RK_DRAGONTRAINING] = {
-		"Adestrar Dragão ^777777(Dragon Training)^000000",
+		"Adestrar Dragão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia em Montaria 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -8364,7 +8364,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777140%^000000 l ^7777770%^000000 l ^777777+1.500^000000"
 	},
 	[SKID.RK_DRAGONBREATH] = {
-		"Sopro do Dragão ^777777(Dragon Breath)^000000",
+		"Sopro do Dragão",
 		"Nível máximo: ^77777710^000000",
 		"Pré requisito: ^777777Adestrar Dragão 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8381,7 +8381,7 @@ SKILL_DESCRIPT = {
 		"Runa Luxanima: ^777777Propriedade Sombrio.^000000"
 	},
 	[SKID.RK_DRAGONHOWLING] = {
-		"Rugido do Dragão ^777777(Dragon Howling)^000000",
+		"Rugido do Dragão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Adestrar Dragão 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -8397,7 +8397,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777780%^000000 l ^77777715x15 células^000000"
 	},
 	[SKID.RK_RUNEMASTERY] = {
-		"Perícia em Runas ^777777(Rune Mastery)^000000",
+		"Perícia em Runas",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição: ^777777Permite criar runas mágicas.^000000",
@@ -8436,7 +8436,7 @@ SKILL_DESCRIPT = {
 	[SKID.RK_FIGHTINGSPIRIT] = {},
 	[SKID.RK_ABUNDANCE] = {},
 	[SKID.RK_PHANTOMTHRUST] = {
-		"Arpão ^777777(Phantom Thrust)^000000",
+		"Arpão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Brandir Lança 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8456,7 +8456,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777779 células^000000 l ^777777250%^000000"
 	},
 	[SKID.GC_VENOMIMPRESS] = {
-		"Potencializar Veneno ^777777(Venom Impress)^000000",
+		"Potencializar Veneno",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Envenenar Arma 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -8471,7 +8471,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-50%^000000 l ^77777750 segundos^000000"
 	},
 	[SKID.GC_CROSSIMPACT] = {
-		"Lâminas Retalhadoras ^777777(Cross Impact)^000000",
+		"Lâminas Retalhadoras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lâminas Destruidoras 10^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8489,7 +8489,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.150%^000000"
 	},
 	[SKID.GC_DARKILLUSION] = {
-		"Passo Sombrio ^777777(Dark Illusion)^000000",
+		"Passo Sombrio",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lâminas Retalhadoras 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8506,7 +8506,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777779 células^000000"
 	},
 	[SKID.GC_RESEARCHNEWPOISON] = {
-		"Pesquisa de Toxinas ^777777(Research Poison)^000000",
+		"Pesquisa de Toxinas",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -8526,7 +8526,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777780%^000000"
 	},
 	[SKID.GC_CREATENEWPOISON] = {
-		"Criar Toxina ^777777(Create New Poison)^000000",
+		"Criar Toxina",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Pesquisa de Toxinas 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -8547,7 +8547,7 @@ SKILL_DESCRIPT = {
 		"Oblivium: ^77777710 Coração de Sereia, 1 Izidor^000000"
 	},
 	[SKID.GC_ANTIDOTE] = {
-		"Antídoto ^777777(Antidote)^000000",
+		"Antídoto",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Pesquisa de Toxinas 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -8556,7 +8556,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Antídoto.^000000"
 	},
 	[SKID.GC_POISONINGWEAPON] = {
-		"Aplicar Toxina ^777777(Poison Weapon)^000000",
+		"Aplicar Toxina",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Criar Toxina 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -8576,7 +8576,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777712%^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.GC_WEAPONBLOCKING] = {
-		"Reflexo de Combate ^777777(Weapon Block)^000000",
+		"Reflexo de Combate",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Mão Esquerda 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -8595,7 +8595,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777720%^000000"
 	},
 	[SKID.GC_COUNTERSLASH] = {
-		"Retaliação ^777777(Counter Slash)^000000",
+		"Retaliação",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Reflexo de Combate 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8617,7 +8617,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.800%^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.GC_WEAPONCRUSH] = {
-		"Estilhaçar Arma ^777777(Weapon Crush)^000000",
+		"Estilhaçar Arma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Reflexo de Combate 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8629,7 +8629,7 @@ SKILL_DESCRIPT = {
 		"efeito e a chance de sucesso da remoção.^000000"
 	},
 	[SKID.GC_VENOMPRESSURE] = {
-		"Intoxicar ^777777(Venom Pressure)^000000",
+		"Intoxicar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Reflexo de Combate 1,",
 		"Aplicar Toxina 3^000000",
@@ -8648,7 +8648,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777795%^000000 l ^777777+30^000000"
 	},
 	[SKID.GC_POISONSMOKE] = {
-		"Nevoeiro Tóxico ^777777(Poison Smoke)^000000",
+		"Nevoeiro Tóxico",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Aplicar Toxina 5, Intoxicar 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -8666,7 +8666,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777718 segundos^000000"
 	},
 	[SKID.GC_CLOAKINGEXCEED] = {
-		"Ocultação ^777777( Exceed)^000000",
+		"Ocultação",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Furtividade 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -8684,7 +8684,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775 de SP^000000 l ^7777773 Ataques^000000 l ^777777140%^000000"
 	},
 	[SKID.GC_PHANTOMMENACE] = {
-		"Ameaça Fantasma ^777777(Phantom Menace)^000000",
+		"Ameaça Fantasma",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Ocultação 5, Passo Sombrio 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8694,7 +8694,7 @@ SKILL_DESCRIPT = {
 		"estado de Esconderijo dos alvos atingidos.^000000"
 	},
 	[SKID.GC_HALLUCINATIONWALK] = {
-		"Passos da Ilusão ^777777(Hallucination Walk)^000000",
+		"Passos da Ilusão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ameaça Fantasma 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -8711,7 +8711,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750%^000000 l ^777777+250^000000"
 	},
 	[SKID.GC_ROLLINGCUTTER] = {
-		"Lâminas de Loki ^777777(Rolling Cutter)^000000",
+		"Lâminas de Loki",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lâminas Destruidoras 10^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8731,7 +8731,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777450%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.GC_CROSSRIPPERSLASHER] = {
-		"Castigo de Loki ^777777(Cross Ripper Slasher)^000000",
+		"Castigo de Loki",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lâminas de Loki 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -8845,7 +8845,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777240 segundos^000000 l ^77777731x31 células^000000"
 	},
 	[SKID.AB_CHEAL] = {
-		"Sopro Divino ^777777(Coluseo Heal)^000000",
+		"Sopro Divino",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Curar 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -8979,7 +8979,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^7777778%^000000 l ^777777180 segundos^000000"
 	},
 	[SKID.AB_HIGHNESSHEAL] = {
-		"Curatio ^777777(Highness Heal)^000000",
+		"Curatio",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Renovatio 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -8996,7 +8996,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777320%^000000"
 	},
 	[SKID.AB_CLEARANCE] = {
-		"Gênese ^777777(Clearance)^000000",
+		"Gênese",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lauda Ramus 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9028,7 +9028,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777270 segundos^000000 l ^77777725%^000000"
 	},
 	[SKID.AB_DUPLELIGHT] = {
-		"Gemini Lumen ^777777(Duple Light)^000000",
+		"Gemini Lumen",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Aspersio 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9067,7 +9067,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777717x17 células^000000"
 	},
 	[SKID.WL_WHITEIMPRISON] = {
-		"Exílio ^777777(White Imprision)^000000",
+		"Exílio",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Impacto Espiritual 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9089,7 +9089,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777790%^000000 l ^7777772.000^000000"
 	},
 	[SKID.WL_SOULEXPANSION] = {
-		"Impacto Espiritual ^777777(Soul Expansion)^000000",
+		"Impacto Espiritual",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Drenar Vida 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9106,7 +9106,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.000%^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.WL_FROSTMISTY] = {
-		"Zero Absoluto ^777777(Frost Misty)^000000",
+		"Zero Absoluto",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Invocar Esfera de Água 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9123,7 +9123,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750%^000000 l ^777777700%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.WL_JACKFROST] = {
-		"Esquife de Gelo ^777777(Jack Frost)^000000",
+		"Esquife de Gelo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Zero Absoluto 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9140,7 +9140,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500%^000000 l ^7777774.200%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.WL_MARSHOFABYSS] = {
-		"Pântano de Nifflheim ^777777(March of Abyss)^000000",
+		"Pântano de Nifflheim",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Pântano dos Mortos 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9156,7 +9156,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-90%^000000"
 	},
 	[SKID.WL_RECOGNIZEDSPELL] = {
-		"Maestria Arcana ^777777(Recognized Spell)^000000",
+		"Maestria Arcana",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lançar Magia 2,",
 		"Stasis 1 e Exílio 1^000000",
@@ -9173,7 +9173,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777180 segundos^000000"
 	},
 	[SKID.WL_SIENNAEXECRATE] = {
-		"Fúria da Medusa ^777777(Sienna Execrate)^000000",
+		"Fúria da Medusa",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Invocar Esfera de Terra 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9220,7 +9220,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750 segundos^000000 l ^77777727x27 células^000000"
 	},
 	[SKID.WL_DRAINLIFE] = {
-		"Drenar Vida ^777777(Drain Life)^000000",
+		"Drenar Vida",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Radius 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9236,7 +9236,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777790%^000000 l ^77777740%^000000 l ^7777771.000%^000000"
 	},
 	[SKID.WL_CRIMSONROCK] = {
-		"Meteoro Escarlate ^777777(Crimson Rock)^000000",
+		"Meteoro Escarlate",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Invocar Esfera de Fogo 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9253,7 +9253,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.700%^000000 l ^777777100^000000"
 	},
 	[SKID.WL_HELLINFERNO] = {
-		"Chamas de Hela ^777777(Hell Inferno)^000000",
+		"Chamas de Hela",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Meteoro Escarlate 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9269,7 +9269,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.000%^000000 l ^7777773.000%^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.WL_COMET] = {
-		"Cometa ^777777(Comet)^000000",
+		"Cometa",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chamas de Hela 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9289,7 +9289,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777776.000%^000000 l ^777777150^000000"
 	},
 	[SKID.WL_CHAINLIGHTNING] = {
-		"Corrente Elétrica ^777777(Chain Lightning)^000000",
+		"Corrente Elétrica",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Invocar Esfera de Vento 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9305,7 +9305,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000 l ^7777779^000000"
 	},
 	[SKID.WL_EARTHSTRAIN] = {
-		"Abalo Sísmico ^777777(Earth Strain)^000000",
+		"Abalo Sísmico",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Fúria da Medusa 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9344,7 +9344,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.800%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.WL_SUMMONFB] = {
-		"Invocar Esfera de Fogo ^777777(Summon Fire Ball)^000000",
+		"Invocar Esfera de Fogo",
 		"Nível máximo: ^7777772^000000",
 		"Pré-requisitos: ^777777Chuva de Meteoros 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9360,7 +9360,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^7777775 Esferas^000000"
 	},
 	[SKID.WL_SUMMONBL] = {
-		"Invocar Esfera de Vento ^777777(Summon Light Ball)^000000",
+		"Invocar Esfera de Vento",
 		"Nível máximo: ^7777772^000000",
 		"Pré-requisitos: ^777777Ira de Thor 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9376,7 +9376,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^7777775 Esferas^000000"
 	},
 	[SKID.WL_SUMMONWB] = {
-		"Invocar Esfera de Água ^777777(Summon Water Ball)^000000",
+		"Invocar Esfera de Água",
 		"Nível máximo: ^7777772^000000",
 		"Pré-requisitos: ^777777Nevasca 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9392,7 +9392,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^7777775 Esferas^000000"
 	},
 	[SKID.WL_SUMMONSTONE] = {
-		"Invocar Esfera de Terra ^777777(Summon Stone)^000000",
+		"Invocar Esfera de Terra",
 		"Nível máximo: ^7777772^000000",
 		"Pré-requisitos: ^777777Fúria da Terra 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9408,7 +9408,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^7777775 Esferas^000000"
 	},
 	[SKID.WL_RELEASE] = {
-		"Lançar Magia ^777777(Release)^000000",
+		"Lançar Magia",
 		"Nível máximo: ^7777772^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -9419,7 +9419,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^777777Esferas invocadas^000000"
 	},
 	[SKID.WL_READING_SB] = {
-		"Memorizar ^777777(Reading Spell Book)^000000",
+		"Memorizar",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -9433,7 +9433,7 @@ SKILL_DESCRIPT = {
 		"de habilidades aprendidas pelo usuário.^000000"
 	},
 	[SKID.WL_FREEZE_SP] = {
-		"Estudo Arcano Avançado ^777777(Freezing Spell)^000000",
+		"Estudo Arcano Avançado",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -9444,7 +9444,7 @@ SKILL_DESCRIPT = {
 		"Você não ultrapassar 7 magias memorizadas.^000000"
 	},
 	[SKID.RA_ARROWSTORM] = {
-		"Tempestade de Flechas ^777777(Arrow Storm)^000000",
+		"Tempestade de Flechas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Disparo Certeiro 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9467,7 +9467,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.000%^000000 l ^7777772.700%^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.RA_FEARBREEZE] = {
-		"Disparo Selvagem ^777777(Fear Breeze)^000000",
+		"Disparo Selvagem",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Camuflagem 1, Tempestade de Flechas 5^000000",
@@ -9484,7 +9484,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730%^000000 l ^777777180 segundos^000000"
 	},
 	[SKID.RA_RANGERMAIN] = {
-		"Táticas de Sobrevivência ^777777(Main Ranger)^000000",
+		"Táticas de Sobrevivência",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -9503,7 +9503,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+50^000000"
 	},
 	[SKID.RA_AIMEDBOLT] = {
-		"Disparo Certeiro ^777777(Aimed Bolt)^000000",
+		"Disparo Certeiro",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Instalar Armadilha 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9535,7 +9535,7 @@ SKILL_DESCRIPT = {
 		"7x7 células ao redor dele.^000000"
 	},
 	[SKID.RA_ELECTRICSHOCKER] = {
-		"Armadilha Energizada ^777777(Eletric Shocker)^000000",
+		"Armadilha Energizada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Extenuante 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9555,7 +9555,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777725% de SP^000000 l ^77777728 segundos^000000"
 	},
 	[SKID.RA_CLUSTERBOMB] = {
-		"Bomba Relógio ^777777(Cluster Bomb)^000000",
+		"Bomba Relógio",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Armadilha 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9575,7 +9575,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777700%^000000"
 	},
 	[SKID.RA_WUGMASTERY] = {
-		"Adestrar Worg ^777777(Worg Mastery)^000000",
+		"Adestrar Worg",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -9584,7 +9584,7 @@ SKILL_DESCRIPT = {
 		"^000088Precisa de 1 Flauta Uivante.^000000"
 	},
 	[SKID.RA_WUGRIDER] = {
-		"Montaria em Worg ^777777(Worg Rider)^000000",
+		"Montaria em Worg",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Adestrar Worg 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9596,7 +9596,7 @@ SKILL_DESCRIPT = {
 		"O movimento é acelerado enquanto monta.^000000"
 	},
 	[SKID.RA_WUGDASH] = {
-		"Assalto de Worg ^777777(Worg Dash)^000000",
+		"Assalto de Worg",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Montaria em Worg 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9609,7 +9609,7 @@ SKILL_DESCRIPT = {
 		"se o obstáculo for um oponente.^000000"
 	},
 	[SKID.RA_WUGSTRIKE] = {
-		"Investida de Worg ^777777(Worg Strike)^000000",
+		"Investida de Worg",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Presas Afiadas 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9625,7 +9625,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000"
 	},
 	[SKID.RA_WUGBITE] = {
-		"Mordida Feroz ^777777(Worg Bite)^000000",
+		"Mordida Feroz",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Investida de Worg 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9643,7 +9643,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775 segundos^000000 l ^7777771.500%^000000"
 	},
 	[SKID.RA_TOOTHOFWUG] = {
-		"Presas Afiadas ^777777(Tooth of Worg)^000000",
+		"Presas Afiadas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Adestrar Worg 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -9664,7 +9664,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+300^000000"
 	},
 	[SKID.RA_SENSITIVEKEEN] = {
-		"Faro Aguçado ^777777(Sensitive Keen)^000000",
+		"Faro Aguçado",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Presas Afiadas 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9681,7 +9681,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777350%^000000 l ^77777715x15 células^000000 l ^77777740%^000000"
 	},
 	[SKID.RA_CAMOUFLAGE] = {
-		"Camuflagem ^777777(Camouflage)^000000",
+		"Camuflagem",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Táticas de Sobrevivência 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -9701,7 +9701,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772^000000 l ^777777Normal^000000"
 	},
 	[SKID.RA_RESEARCHTRAP] = {
-		"Perícia com Armadilha ^777777(Research Trap)^000000",
+		"Perícia com Armadilha",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Armadilha Explosiva 1,",
 		"Remover Armadilha 1^000000",
@@ -9724,7 +9724,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10^000000 l ^777777+400^000000 l ^777777+5 células^000000 l ^777777+400^000000"
 	},
 	[SKID.RA_MAGENTATRAP] = {
-		"Armadilha Escarlate ^777777(Magenta Trap)^000000",
+		"Armadilha Escarlate",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Perícia com Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9737,7 +9737,7 @@ SKILL_DESCRIPT = {
 		"e 1 Armadilha Especial.^000000"
 	},
 	[SKID.RA_COBALTTRAP] = {
-		"Armadilha Cobalto ^777777(Cobalt Trap)^000000",
+		"Armadilha Cobalto",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Perícia com Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9750,7 +9750,7 @@ SKILL_DESCRIPT = {
 		"e 1 Armadilha Especial.^000000"
 	},
 	[SKID.RA_MAIZETRAP] = {
-		"Armadilha Ocre ^777777(Maize Trap)^000000",
+		"Armadilha Ocre",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Perícia com Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9763,7 +9763,7 @@ SKILL_DESCRIPT = {
 		"e 1 Armadilha Especial.^000000"
 	},
 	[SKID.RA_VERDURETRAP] = {
-		"Armadilha Esmeralda ^777777(Verdure Trap)^000000",
+		"Armadilha Esmeralda",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Perícia com Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9776,7 +9776,7 @@ SKILL_DESCRIPT = {
 		"e 1 Armadilha Especial.^000000"
 	},
 	[SKID.RA_FIRINGTRAP] = {
-		"Armadilha Incendiária ^777777(Fire Trap)^000000",
+		"Armadilha Incendiária",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Detonador 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9794,7 +9794,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100%^000000"
 	},
 	[SKID.RA_ICEBOUNDTRAP] = {
-		"Armadilha Glacial ^777777(Ice Trap)^000000",
+		"Armadilha Glacial",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Detonador 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9812,7 +9812,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100%^000000"
 	},
 	[SKID.NC_MADOLICENCE] = {
-		"Licença de Pilotagem ^777777(Madogear License)^000000",
+		"Licença de Pilotagem",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -9828,7 +9828,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+75^000000 l ^777777100%^000000"
 	},
 	[SKID.NC_BOOSTKNUCKLE] = {
-		"Punho Foguete ^777777(Boost Knuckle)^000000",
+		"Punho Foguete",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Licença de Pilotagem 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9845,7 +9845,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.300%^000000 l ^77777725^000000"
 	},
 	[SKID.NC_PILEBUNKER] = {
-		"Bate Estaca ^777777(Pile Bunker)^000000",
+		"Bate Estaca",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Punho Foguete 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9862,7 +9862,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777770%^000000"
 	},
 	[SKID.NC_VULCANARM] = {
-		"Metralhadora ^777777(Vulcan Arm)^000000",
+		"Metralhadora",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Punho Foguete 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9879,7 +9879,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777690%^000000 l ^77777715^000000"
 	},
 	[SKID.NC_FLAMELAUNCHER] = {
-		"Lança Chamas ^777777(Flame Launcher)^000000",
+		"Lança Chamas",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Metralhadora 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9896,7 +9896,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777750%^000000 l ^7777779x9 células^000000 l ^7777771.200%^000000"
 	},
 	[SKID.NC_COLDSLOWER] = {
-		"Gás Criogênico ^777777(Ice Launcher)^000000",
+		"Gás Criogênico",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Metralhadora 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -9914,7 +9914,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^7777779x9 células^000000 l ^7777771.200%^000000"
 	},
 	[SKID.NC_ARMSCANNON] = {
-		"Canhão ^777777(Arms Cannon)^000000",
+		"Canhão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lança Chamas 2,",
 		"Gás Criogênico 2^000000",
@@ -9934,7 +9934,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5] ^7777777x7 células^000000 l ^7777772.150%^000000"
 	},
 	[SKID.NC_ACCELERATION] = {
-		"Aceleração ^777777(Acceleration)^000000",
+		"Aceleração",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Licença de Pilotagem 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -9949,7 +9949,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777120 segundos^000000 l ^77777760^000000"
 	},
 	[SKID.NC_HOVERING] = {
-		"Planar ^777777(Hovering)^000000",
+		"Planar",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Aceleração 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9961,7 +9961,7 @@ SKILL_DESCRIPT = {
 		"Precisa de 1 Planador.^000000"
 	},
 	[SKID.NC_F_SIDESLIDE] = {
-		"Propulsão Traseira ^777777(Front Slide)^000000",
+		"Propulsão Traseira",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Planar 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9971,7 +9971,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Gasolina.^000000"
 	},
 	[SKID.NC_B_SIDESLIDE] = {
-		"Propulsão Dianteira ^777777(Back Slide)^000000",
+		"Propulsão Dianteira",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Planar 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -9981,7 +9981,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Gasolina.^000000"
 	},
 	[SKID.NC_MAINFRAME] = {
-		"Reforçar Estrutura ^777777(Remodel Mainframe)^000000",
+		"Reforçar Estrutura",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos: ^777777Licença de Pilotagem 4^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -10001,7 +10001,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^777777+100^000000 l ^777777450^000000"
 	},
 	[SKID.NC_SELFDESTRUCTION] = {
-		"Autodestruição ^777777(Self Destruction)^000000",
+		"Autodestruição",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Reforçar Estrutura 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10018,7 +10018,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^7777779x9 células^000000"
 	},
 	[SKID.NC_SHAPESHIFT] = {
-		"Reconfigurar Elemento ^777777(Shape Shift)^000000",
+		"Reconfigurar Elemento",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos: ^777777Reforçar Estrutura 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10035,7 +10035,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^777777Água^000000  l ^7777773 Fragmentos Azuis^000000"
 	},
 	[SKID.NC_EMERGENCYCOOL] = {
-		"Resfriamento ^777777(Emergency Cool)^000000",
+		"Resfriamento",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Autodestruição 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -10046,7 +10046,7 @@ SKILL_DESCRIPT = {
 		"Precisa de 1 Termoregulador.^000000"
 	},
 	[SKID.NC_INFRAREDSCAN] = {
-		"Sensor Infravermelho ^777777(Infrared Scan)^000000",
+		"Sensor Infravermelho",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Reconfigurar Elemento 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10057,7 +10057,7 @@ SKILL_DESCRIPT = {
 		"Revela oponentes escondidos.^000000"
 	},
 	[SKID.NC_ANALYZE] = {
-		"Analisar ^777777(Analyze)^000000",
+		"Analisar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Sensor Infravermelho 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10072,7 +10072,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777-42%^000000"
 	},
 	[SKID.NC_MAGNETICFIELD] = {
-		"Campo Magnético ^777777(Magnetic Field)^000000",
+		"Campo Magnético",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Resfriamento 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10091,7 +10091,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^7777778 segundos^000000 l ^77777780^000000"
 	},
 	[SKID.NC_NEUTRALBARRIER] = {
-		"Campo Protetor ^777777(Neutral Barrier)^000000",
+		"Campo Protetor",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Campo Magnético 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -10108,7 +10108,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777760 segundos^000000 l ^777777+25%^000000"
 	},
 	[SKID.NC_STEALTHFIELD] = {
-		"Campo de Invisibilidade ^777777(Stealth Field)^000000",
+		"Campo de Invisibilidade",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Analisar 3, Campo Protetor 2^000000",
@@ -10127,7 +10127,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777725 segundos^000000 l ^777777120^000000"
 	},
 	[SKID.NC_REPAIR] = {
-		"Reparar ^777777(Repair)^000000",
+		"Reparar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Licença de Pilotagem 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -10144,7 +10144,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777723%^000000 l ^777777Reparador C^000000"
 	},
 	[SKID.NC_TRAININGAXE] = {
-		"Maestria com Machados ^777777(Training Axe)^000000",
+		"Maestria com Machados",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -10163,7 +10163,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+50^000000 l ^777777+30^000000"
 	},
 	[SKID.NC_RESEARCHFE] = {
-		"Sabedoria de Hefesto ^777777(Fire Earth Research)^000000",
+		"Sabedoria de Hefesto",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -10177,7 +10177,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50^000000 l ^777777+50^000000"
 	},
 	[SKID.NC_AXEBOOMERANG] = {
-		"Arremesso de Machado ^777777(Axe Boomerang)^000000",
+		"Arremesso de Machado",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria com Machados 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10193,7 +10193,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^7777779 células^000000"
 	},
 	[SKID.NC_POWERSWING] = {
-		"Brandir Machado ^777777(Power Swing)^000000",
+		"Brandir Machado",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Arremesso de Machado 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10214,7 +10214,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.300%^000000 l ^77777738^000000"
 	},
 	[SKID.NC_AXETORNADO] = {
-		"Fúria do Furacão ^777777(Axe Tornado)^000000",
+		"Fúria do Furacão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria com Machados 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10230,7 +10230,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.100%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.NC_SILVERSNIPER] = {
-		"Artilharia Caçadora ^777777(Silver Sniper)^000000",
+		"Artilharia Caçadora",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Sabedoria de Hefesto 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10249,7 +10249,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777760 segundos^000000 l ^7777771.000^000000"
 	},
 	[SKID.NC_MAGICDECOY] = {
-		"Artilharia Arcana ^777777(Magic Decoy)^000000",
+		"Artilharia Arcana",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Artilharia Caçadora 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10273,7 +10273,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777760 segundos^000000 l ^777777500^000000"
 	},
 	[SKID.NC_DISJOINT] = {
-		"Remover Artilharia ^777777(Disjoint)^000000",
+		"Remover Artilharia",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Artilharia Caçadora 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10283,7 +10283,7 @@ SKILL_DESCRIPT = {
 		"ou de outros Mecânicos.^000000"
 	},
 	[SKID.SC_FATALMENACE] = {
-		"Ofensiva Fatal ^777777(Fatal Menace)^000000",
+		"Ofensiva Fatal",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Rapto 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10305,7 +10305,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.200%^000000 l ^7777775x5 células^000000 l ^777777+20^000000"
 	},
 	[SKID.SC_REPRODUCE] = {
-		"Mimetismo ^777777(Reproduce)^000000",
+		"Mimetismo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Rapto 5,",
 		"Ataque Surpresa 5, Plágio 5^000000",
@@ -10321,7 +10321,7 @@ SKILL_DESCRIPT = {
 		"Drena SP por segundo até ser desativada.^000000"
 	},
 	[SKID.SC_AUTOSHADOWSPELL] = {
-		"Desejo das Sombras ^777777(Auto Shadow Spell)^000000",
+		"Desejo das Sombras",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Mimetismo 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10345,7 +10345,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777715%^000000 l ^777777Nv. 7^000000 l ^777777+50^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SC_SHADOWFORM] = {
-		"Vínculo Sombrio ^777777(Shadow Form)^000000",
+		"Vínculo Sombrio",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Túnel de Fuga 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10366,7 +10366,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777779^000000 l ^77777770^000000 l ^7777776^000000"
 	},
 	[SKID.SC_TRIANGLESHOT] = {
-		"Disparo Triplo ^777777(Triangle Shot)^000000",
+		"Disparo Triplo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Rajada de Flechas 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10387,7 +10387,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.300%^000000 l ^77777711 células^000000"
 	},
 	[SKID.SC_BODYPAINT] = {
-		"Borrifar Tinta ^777777(Body Paint)^000000",
+		"Borrifar Tinta",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -10410,7 +10410,7 @@ SKILL_DESCRIPT = {
 		"            Vel. Atq: ^77777745%^000000"
 	},
 	[SKID.SC_INVISIBILITY] = {
-		"Forma Etérea ^777777(Invisibility)^000000",
+		"Forma Etérea",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Msc. da Vulnerabilidade 3,",
 		"Desejo das Sombras 7, Pestilência 5^000000",
@@ -10432,7 +10432,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+100^000000 l ^777777 0%^000000 l ^7777772%^000000"
 	},
 	[SKID.SC_DEADLYINFECT] = {
-		"Pestilência ^777777(Deadly Infection)^000000",
+		"Pestilência",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Vínculo Sombrio 3,",
 		"Desejo das Sombras 5^000000",
@@ -10451,7 +10451,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777780%^000000 l ^77777730 segundos^000000"
 	},
 	[SKID.SC_ENERVATION] = {
-		"Máscara da Fraqueza ^777777(M. Enervation)^000000",
+		"Máscara da Fraqueza",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Borrifar Tinta 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10467,7 +10467,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777-50%^000000 l ^77777720 segundos^000000"
 	},
 	[SKID.SC_GROOMY] = {
-		"Máscara da Melancolia ^777777(M. Gloomy)^000000",
+		"Máscara da Melancolia",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Borrifar Tinta 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10485,7 +10485,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777-50%^000000 l ^777777-60%^000000 l ^77777720 segundos^000000"
 	},
 	[SKID.SC_IGNORANCE] = {
-		"Máscara da Tolice ^777777(M. Ignorance)^000000",
+		"Máscara da Tolice",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Borrifar Tinta 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10503,7 +10503,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777300^000000 l ^77777720 segundos^000000"
 	},
 	[SKID.SC_LAZINESS] = {
-		"Máscara da Ociosidade ^777777(M. Laziness)^000000",
+		"Máscara da Ociosidade",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Máscara da Melancolia 1,",
 		"Máscara da Fraqueza 1, Máscara da Tolice 1^000000",
@@ -10522,7 +10522,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777-30%^000000 l ^777777+40%^000000 l ^77777720 segundos^000000"
 	},
 	[SKID.SC_UNLUCKY] = {
-		"Máscara do Infortúnio ^777777(M. Unlucky)^000000",
+		"Máscara do Infortúnio",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Máscara da Ociosidade 1",
 		"Máscara da Vulnerabilidade 1^000000",
@@ -10542,7 +10542,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777-30^000000 l ^777777-30^000000 l ^77777720 segundos^000000"
 	},
 	[SKID.SC_WEAKNESS] = {
-		"Máscara da Vulnerabilidade ^777777(M. Weakness)^000000",
+		"Máscara da Vulnerabilidade",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Máscara da Melancolia 1",
 		"Máscara da Fraqueza 1, Máscara da Tolice 1^000000",
@@ -10559,7 +10559,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777-30%^000000 l ^77777720 segundos^000000"
 	},
 	[SKID.SC_STRIPACCESSARY] = {
-		"Remover Acessório ^777777(Strip Accessory)^000000",
+		"Remover Acessório",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Remover Arma 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10575,7 +10575,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777722%^000000 l ^777777100 segundos^000000"
 	},
 	[SKID.SC_MANHOLE] = {
-		"Pintar Armadilha ^777777(Manhole)^000000",
+		"Pintar Armadilha",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Pichar 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10591,7 +10591,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777715 segundos^000000"
 	},
 	[SKID.SC_DIMENSIONDOOR] = {
-		"Porta Dimensional ^777777(Dimensional Door)^000000",
+		"Porta Dimensional",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Pintar Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10607,7 +10607,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777712 segundos^000000"
 	},
 	[SKID.SC_CHAOSPANIC] = {
-		"Símbolo do Caos ^777777(Chaos Panic)^000000",
+		"Símbolo do Caos",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Pintar Armadilha 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10622,7 +10622,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777780%^000000 l ^77777715 segundos^000000"
 	},
 	[SKID.SC_MAELSTROM] = {
-		"Redemoinho de Absorção ^777777(Maelstrom)^000000",
+		"Redemoinho de Absorção",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Máscara do Infortúnio 3,",
 		"Símbolo do Caos 3^000000",
@@ -10638,7 +10638,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777721 segundos^000000"
 	},
 	[SKID.SC_BLOODYLUST] = {
-		"Sede de Sangue ^777777(Bloody Lust)^000000",
+		"Sede de Sangue",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Porta Dimensional 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10654,7 +10654,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777715 segundos^000000"
 	},
 	[SKID.SC_FEINTBOMB] = {
-		"Cópia Explosiva ^777777(Feint Bomb)^000000",
+		"Cópia Explosiva",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Porta Dimensional 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10678,7 +10678,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777710 células^000000"
 	},
 	[SKID.LG_CANNONSPEAR] = {
-		"Disparo Perfurante ^777777(Cannon Spear)^000000",
+		"Disparo Perfurante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estocada Precisa 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10696,7 +10696,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600%^000000 + ^777777(FOR x 5)%^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.LG_BANISHINGPOINT] = {
-		"Toque do Oblívio ^777777(Vanishing Point)^000000",
+		"Toque do Oblívio",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Lança 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10718,7 +10718,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.000%^000000"
 	},
 	[SKID.LG_TRAMPLE] = {
-		"Pisotear Armadilha ^777777(Trample)^000000",
+		"Pisotear Armadilha",
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -10733,7 +10733,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777100%^000000"
 	},
 	[SKID.LG_SHIELDPRESS] = {
-		"Escudo Compressor ^777777(Shield Press)^000000",
+		"Escudo Compressor",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Punição Divina 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10755,7 +10755,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^7777772.000%^000000"
 	},
 	[SKID.LG_REFLECTDAMAGE] = {
-		"Escudo Supressor ^777777(Reflect Damage)^000000",
+		"Escudo Supressor",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Escudo Refletor 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -10771,7 +10771,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50%^000000 l ^777777100^000000"
 	},
 	[SKID.LG_PINPOINTATTACK] = {
-		"Estocada Precisa ^777777(Pinpoint Attack)^000000",
+		"Estocada Precisa",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Toque do Oblívio 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10791,7 +10791,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^777777Quebrar Arma^000000"
 	},
 	[SKID.LG_FORCEOFVANGUARD] = {
-		"Proteção da Vanguarda ^777777(Vanguard Force)^000000",
+		"Proteção da Vanguarda",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -10809,7 +10809,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777768%^000000 l ^77777715^000000"
 	},
 	[SKID.LG_RAGEBURST] = {
-		"Retribuição da Vanguarda ^777777(Rage Burst)^000000",
+		"Retribuição da Vanguarda",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Proteção da Vanguarda 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10820,7 +10820,7 @@ SKILL_DESCRIPT = {
 		"adquirir [Pontos de Fúria].^000000"
 	},
 	[SKID.LG_SHIELDSPELL] = {
-		"Aegis Domini ^777777(Shield Spell)^000000",
+		"Aegis Domini",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Aegis Inferi 2,",
 		"Escudo Compressor 3^000000",
@@ -10836,7 +10836,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777ATQ e ATQM +150.^000000"
 	},
 	[SKID.LG_EXEEDBREAK] = {
-		"Exceder Limite ^777777(Exceed Break)^000000",
+		"Exceder Limite",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Toque do Oblívio 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10855,7 +10855,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+500%^000000 l ^777777-10%^000000"
 	},
 	[SKID.LG_OVERBRAND] = {
-		"Lança do Destino ^777777(Overbrand)^000000",
+		"Lança do Destino",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Espiral Lunar 3, Estocada Precisa 1^000000",
@@ -10874,7 +10874,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.750%^000000 l ^7777772.500%^000000"
 	},
 	[SKID.LG_PRESTIGE] = {
-		"Prestígio Divino ^777777(Prestige)^000000",
+		"Prestígio Divino",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Pisotear Armadilha 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -10891,7 +10891,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777790 segundos^000000"
 	},
 	[SKID.LG_BANDING] = {
-		"Formação Real ^777777(Banding)^000000",
+		"Formação Real",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estocada Precisa 3,",
 		"Retribuição da Vanguarda 1^000000",
@@ -10910,7 +10910,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777Nº de membros^000000 x ^77777730^000000 l ^777777180 segundos^000000"
 	},
 	[SKID.LG_MOONSLASHER] = {
-		"Espiral Lunar ^777777(Moon Slasher)^000000",
+		"Espiral Lunar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Lança 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10929,7 +10929,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600%^000000 l ^77777710 segundos^000000"
 	},
 	[SKID.LG_RAYOFGENESIS] = {
-		"Luz da Criação ^777777(Ray of Genesis)^000000",
+		"Luz da Criação",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Crux Magnum 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10953,7 +10953,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.500%^000000"
 	},
 	[SKID.LG_PIETY] = {
-		"Devoção ^777777(Piety)^000000",
+		"Devoção",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Fé 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -10969,7 +10969,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777140 segundos^000000"
 	},
 	[SKID.LG_EARTHDRIVE] = {
-		"Aegis Inferi ^777777(Earth Drive)^000000",
+		"Aegis Inferi",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Escudo Supressor 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -10988,7 +10988,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.900%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.LG_HESPERUSLIT] = {
-		"Trindade ^777777(Hesperus Lit)^000000",
+		"Trindade",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Prestígio Divino 3, Formação Real 3^000000",
@@ -11006,7 +11006,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.500%^000000 l ^7777772.250%^000000"
 	},
 	[SKID.LG_INSPIRATION] = {
-		"Consagração ^777777(Inspiration)^000000",
+		"Consagração",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Aegis Domini 3,",
 		"Luz da Criação 4, Devoção 5^000000",
@@ -11030,7 +11030,7 @@ SKILL_DESCRIPT = {
 		"        ^777777-1,0%^000000 / ^777777-2,0%^000000 l ^777777180 segundos^000000"
 	},
 	[SKID.SR_DRAGONCOMBO] = {
-		"Punho do Dragão ^777777(Dragon Combo)^000000",
+		"Punho do Dragão",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Combo Triplo 5^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
@@ -11051,7 +11051,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777900%^000000 l ^77777711%^000000"
 	},
 	[SKID.SR_SKYNETBLOW] = {
-		"Soco Furacão ^777777(Sky Net Blow)^000000",
+		"Soco Furacão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Punho do Dragão 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11067,7 +11067,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000"
 	},
 	[SKID.SR_EARTHSHAKER] = {
-		"Impacto Sísmico ^777777(Earth Shaker)^000000",
+		"Impacto Sísmico",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Punho do Dragão 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11086,7 +11086,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.500%^000000 l ^7777772.000%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.SR_FALLENEMPIRE] = {
-		"Ruína ^777777(Fallen Empire)^000000",
+		"Ruína",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Punho do Dragão 3^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Combo^000000",
@@ -11110,7 +11110,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.100%^000000 l ^7777771 Esfera^000000"
 	},
 	[SKID.SR_TIGERCANNON] = {
-		"Garra de Tigre ^777777(Tiger Cannon)^000000",
+		"Garra de Tigre",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ruína 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11133,7 +11133,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777777x7 células^000000 l ^77777730%^000000 l ^77777715%^000000"
 	},
 	[SKID.SR_RAMPAGEBLASTER] = {
-		"Explosão Espiritual ^777777(Rampage Blaster)^000000",
+		"Explosão Espiritual",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Impacto Sísmico 2 ^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11152,7 +11152,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.750%^000000 l ^7777772.750%^000000"
 	},
 	[SKID.SR_CRESCENTELBOW] = {
-		"Cotovelada Ascendente ^777777(Crescent Elbow)^000000",
+		"Cotovelada Ascendente",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chute Rasteiro 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11173,7 +11173,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777775%^000000 l ^7777777 segundos^000000"
 	},
 	[SKID.SR_CURSEDCIRCLE] = {
-		"Campo Amaldiçoado ^777777(Cursed Circle)^000000",
+		"Campo Amaldiçoado",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Dilema 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -11190,7 +11190,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^7777777 segundos^000000"
 	},
 	[SKID.SR_LIGHTNINGWALK] = {
-		"Salto Relâmpago ^777777(Lightning Walk)^000000",
+		"Salto Relâmpago",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chute Rasteiro 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -11207,7 +11207,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777765%^000000 l ^7777779 segundos^000000"
 	},
 	[SKID.SR_KNUCKLEARROW] = {
-		"Pancada Corporal ^777777(Knuckle Arrow)^000000",
+		"Pancada Corporal",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Salto Relâmpago 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11232,7 +11232,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.500%^000000 l ^7777771.500%^000000 l ^7777772.500%^000000"
 	},
 	[SKID.SR_WINDMILL] = {
-		"Chute Rasteiro ^777777(Windmill)^000000",
+		"Chute Rasteiro",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Campo Amaldiçoado 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11242,7 +11242,7 @@ SKILL_DESCRIPT = {
 		"monstros normais sofrerão Atordoamento.^000000"
 	},
 	[SKID.SR_RAISINGDRAGON] = {
-		"Dragão Ascendente ^777777(Raising Dragon)^000000",
+		"Dragão Ascendente",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Renúncia Espiritual 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11262,7 +11262,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777715^000000 l ^777777+10%^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SR_ASSIMILATEPOWER] = {
-		"Absorção Espiritual ^777777(Power Absorb)^000000",
+		"Absorção Espiritual",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Renúncia Espiritual 1,",
 		"Absorver Esferas Espirituais 1 ^000000",
@@ -11273,7 +11273,7 @@ SKILL_DESCRIPT = {
 		"Cada esfera recupera SP do usuário.^000000"
 	},
 	[SKID.SR_POWERVELOCITY] = {
-		"Renúncia Espiritual ^777777(Power Velocity)^000000",
+		"Renúncia Espiritual",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Invocar Esfera Espiritual 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -11282,7 +11282,7 @@ SKILL_DESCRIPT = {
 		"ativas para um personagem.^000000"
 	},
 	[SKID.SR_GATEOFHELL] = {
-		"Portões do Inferno ^777777(Gates of Hell)^000000",
+		"Portões do Inferno",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos:",
 		"^777777Explosão Espiritual 1, Garra de Tigre 5^000000",
@@ -11306,7 +11306,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771,0 segundos^000000 l ^7777772,8 segundos^000000"
 	},
 	[SKID.SR_GENTLETOUCH_QUIET] = {
-		"Chakra do Silêncio ^777777(Touch - Quiet)^000000",
+		"Chakra do Silêncio",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -11322,7 +11322,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^77777725%^000000"
 	},
 	[SKID.SR_GENTLETOUCH_CURE] = {
-		"Chakra da Cura ^777777(Touch - Cure)^000000",
+		"Chakra da Cura",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chakra do Silêncio 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11338,7 +11338,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600^000000 l ^77777725%^000000"
 	},
 	[SKID.SR_GENTLETOUCH_ENERGYGAIN] = {
-		"Chakra da Energia ^777777(Touch - Energy Gain)^000000",
+		"Chakra da Energia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chakra da Cura 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11357,7 +11357,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775%^000000 l ^77777735%^000000"
 	},
 	[SKID.SR_GENTLETOUCH_CHANGE] = {
-		"Chakra da Fúria ^777777(Touch - Change)^000000",
+		"Chakra da Fúria",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chakra da Energia 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11376,7 +11376,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775%^000000 l ^777777+5%^000000 l ^777777+40^000000"
 	},
 	[SKID.SR_GENTLETOUCH_REVITALIZE] = {
-		"Chakra do Vigor ^777777(Touch - Revitalize)^000000",
+		"Chakra do Vigor",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chakra da Energia 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11394,7 +11394,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+10%^000000 l ^777777+100^000000 l ^777777+200%^000000"
 	},
 	[SKID.WA_SWING_DANCE] = {
-		"Ritmo Contagiante ^777777(Swing Dance)^000000",
+		"Ritmo Contagiante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11413,7 +11413,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+25%^000000 l ^777777-30%^000000"
 	},
 	[SKID.WA_SYMPHONY_OF_LOVER] = {
-		"Balada Sinfônica ^777777(Symphony of Lover)^000000",
+		"Balada Sinfônica",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11429,7 +11429,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+10%^000000 l ^777777+15%^000000"
 	},
 	[SKID.WA_MOONLIT_SERENADE] = {
-		"Serenata ao Luar ^777777(Moonlight Serenade)^000000",
+		"Serenata ao Luar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11447,7 +11447,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20^000000"
 	},
 	[SKID.MI_RUSH_WINDMILL] = {
-		"Sinfonia dos Ventos ^777777(Windmill Rush)^000000",
+		"Sinfonia dos Ventos",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11465,7 +11465,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20^000000"
 	},
 	[SKID.MI_ECHOSONG] = {
-		"Canção de Balder ^777777(Echo Song)^000000",
+		"Canção de Balder",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11482,7 +11482,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+30%^000000 l ^77777723x23 células^000000"
 	},
 	[SKID.MI_HARMONIZE] = {
-		"Harmonizar ^777777(Harmonize)^000000",
+		"Harmonizar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Melodia de Morfeu 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -11498,7 +11498,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-30^000000"
 	},
 	[SKID.WM_LESSON] = {
-		"Domínio Musical ^777777(Voice Lessons)^000000",
+		"Domínio Musical",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -11517,7 +11517,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+300^000000 l ^77777733^000000"
 	},
 	[SKID.WM_METALICSOUND] = {
-		"Ruído Estridente ^777777(Metallic Sound)^000000",
+		"Ruído Estridente",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Ressonância 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11540,7 +11540,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.200%^000000"
 	},
 	[SKID.WM_REVERBERATION] = {
-		"Ressonância ^777777(Reverberation)^000000",
+		"Ressonância",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Dissonância 5^000000 ou",
 		"^777777Dança do Ventre 5^000000",
@@ -11560,7 +11560,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.200%^000000"
 	},
 	[SKID.WM_SEVERE_RAINSTORM] = {
-		"Temporal de Flechas ^777777(Severe Rainstorm)^000000",
+		"Temporal de Flechas",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Estilingue 5^000000 ou ^777777Flecha Melódica 5^000000",
@@ -11581,7 +11581,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^777777600%^000000"
 	},
 	[SKID.WM_POEMOFNETHERWORLD] = {
-		"Poema de Nifflheim ^777777(Poem of Netherworld)^000000",
+		"Poema de Nifflheim",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Domínio Musical 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -11600,7 +11600,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777716 segundos^000000 l ^77777717 segundos^000000"
 	},
 	[SKID.WM_VOICEOFSIREN] = {
-		"Canto da Sereia ^777777(Voice of Siren)^000000",
+		"Canto da Sereia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Poema de Nifflheim 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -11619,7 +11619,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777727 segundos^000000 l ^77777713x13 células^000000"
 	},
 	[SKID.WM_DEADHILLHERE] = {
-		"Réquiem de Orfeu ^777777(Death Valley)^000000",
+		"Réquiem de Orfeu",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Sibilo de Eir 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11638,7 +11638,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710%^000000 l ^77777710%^000000"
 	},
 	[SKID.WM_LULLABY_DEEPSLEEP] = {
-		"Melodia de Morfeu ^777777(Deep Sleep Lullaby)^000000",
+		"Melodia de Morfeu",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Domínio Musical 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -11658,7 +11658,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775x5 células^000000 l ^777777120^000000"
 	},
 	[SKID.WM_SIRCLEOFNATURE] = {
-		"Sibilo de Eir ^777777(Circle of Nature)^000000",
+		"Sibilo de Eir",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Domínio Musical 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11676,7 +11676,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+250%^000000"
 	},
 	[SKID.WM_RANDOMIZESPELL] = {
-		"Improviso ^777777(Randomize Spell)^000000",
+		"Improviso",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Poema de Nifflheim 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -11690,7 +11690,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777780%^000000"
 	},
 	[SKID.WM_GLOOMYDAY] = {
-		"Ode a Hela ^777777(Gloomy Day)^000000",
+		"Ode a Hela",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Improviso 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -11709,7 +11709,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-45^000000 l ^777777-40%^000000 l ^777777+2,5 segundos^000000 l ^777777+50%^000000"
 	},
 	[SKID.WM_GREAT_ECHO] = {
-		"Brado de Odin ^777777(Great Echo)^000000",
+		"Brado de Odin",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ruído Estridente 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11729,7 +11729,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777779x9 células^000000 l ^7777772.750%^000000"
 	},
 	[SKID.WM_SONG_OF_MANA] = {
-		"Canção de Alfheim ^777777(Song of Mana)^000000",
+		"Canção de Alfheim",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Ritmo Contagiante 1, Balada Sinfônica 1 e",
@@ -11753,7 +11753,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777719x19 células^000000 l ^77777720%^000000 l ^777777250%^000000"
 	},
 	[SKID.WM_DANCE_WITH_WUG] = {
-		"Dança com Lobos ^777777(Dance with Worgs)^000000",
+		"Dança com Lobos",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Ritmo Contagiante 1, Balada Sinfônica 1 e",
@@ -11777,7 +11777,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777719x19 células^000000 l ^777777-70%^000000 l ^777777+5%^000000 l ^777777+25%^000000"
 	},
 	[SKID.WM_SOUND_OF_DESTRUCTION] = {
-		"Prelúdio do Ragnarök ^777777(Sound of Destruction)^000000",
+		"Prelúdio do Ragnarök",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Embalos de Sábado a Noite 3,",
@@ -11799,7 +11799,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777740%^000000 l ^77777715x15 células^000000"
 	},
 	[SKID.WM_SATURDAY_NIGHT_FEVER] = {
-		"Embalos de Sábado a Noite ^777777(S. Night Fever)^000000",
+		"Embalos de Sábado a Noite",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Dança com Lobos 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Coral^000000",
@@ -11822,7 +11822,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730%^000000 l ^777777-300^000000 l ^777777-170^000000 l ^77777715x15 células^000000"
 	},
 	[SKID.WM_LERADS_DEW] = {
-		"Orvalho de Idun ^777777(Lerad's Dew)^000000",
+		"Orvalho de Idun",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Ritmo Contagiante 1, Balada Sinfônica 1 e",
@@ -11844,7 +11844,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777715x15 células^000000 l ^777777+17%^000000"
 	},
 	[SKID.WM_MELODYOFSINK] = {
-		"Cântico da Iluminação ^777777(Melody of Sink)^000000",
+		"Cântico da Iluminação",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Canção de Alfheim 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Coral^000000",
@@ -11864,7 +11864,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730%^000000 l ^77777715x15 células^000000"
 	},
 	[SKID.WM_BEYOND_OF_WARCRY] = {
-		"Clamor de Batalha ^777777(Beyond of Warcry)^000000",
+		"Clamor de Batalha",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Orvalho de Idun 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Coral^000000",
@@ -11884,7 +11884,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777727%^000000 l ^77777715x15 células^000000"
 	},
 	[SKID.WM_UNLIMITED_HUMMING_VOICE] = {
-		"Murmúrio Perene ^777777(Humming Voice)^000000",
+		"Murmúrio Perene",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Prelúdio do Ragnarök 1, Clamor de Batalha 1^000000",
@@ -11905,7 +11905,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777715x15 células^000000 l ^777777+20%^000000"
 	},
 	[SKID.SO_FIREWALK] = {
-		"Passos da Salamandra ^777777(Fire Walk)^000000",
+		"Passos da Salamandra",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Vulcão 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11923,7 +11923,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777716 células^000000"
 	},
 	[SKID.SO_ELECTRICWALK] = {
-		"Passos da Sílfide ^777777(Eletric Walk)^000000",
+		"Passos da Sílfide",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Furacão 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11941,7 +11941,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777716 células^000000"
 	},
 	[SKID.SO_SPELLFIST] = {
-		"Punho Arcano ^777777(Spell Fist)^000000",
+		"Punho Arcano",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Desejo Arcano 4^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -11967,7 +11967,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777180 segundos^000000"
 	},
 	[SKID.SO_EARTHGRAVE] = {
-		"Castigo de Nerthus ^777777(Earth Grave)^000000",
+		"Castigo de Nerthus",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Coluna de Pedra 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -11985,7 +11985,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777779x9 células^000000"
 	},
 	[SKID.SO_DIAMONDDUST] = {
-		"Pó de Diamante ^777777(Diamond Dust)^000000",
+		"Pó de Diamante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Dilúvio 3 ^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12002,7 +12002,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777779x9 células^000000"
 	},
 	[SKID.SO_POISON_BUSTER] = {
-		"Implosão Tóxica ^777777(Poison Buster)^000000",
+		"Implosão Tóxica",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maldição de Jormungand 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12020,7 +12020,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500%^000000 l ^7777773.500%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SO_PSYCHIC_WAVE] = {
-		"Onda Psíquica ^777777(Psychic Wave)^000000",
+		"Onda Psíquica",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Desencantar 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12037,7 +12037,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.SO_CLOUD_KILL] = {
-		"Maldição de Jormungand ^777777(Cloud Kill)^000000",
+		"Maldição de Jormungand",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Fúria da Terra 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12057,7 +12057,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777200%^000000 l ^777777-25%^000000"
 	},
 	[SKID.SO_STRIKING] = {
-		"Encanto de Órion ^777777(Striking)^000000",
+		"Encanto de Órion",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Encantar com Chama 1,",
@@ -12077,7 +12077,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+100^000000 l ^777777+70^000000 l ^777777-1^000000"
 	},
 	[SKID.SO_WARMER] = {
-		"Aquecer Terreno ^777777(Warmer)^000000",
+		"Aquecer Terreno",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Vulcão 1, Furacão 1^000000",
@@ -12096,7 +12096,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777760 segundos^000000 l ^77777755 segundos^000000"
 	},
 	[SKID.SO_VACUUM_EXTREME] = {
-		"Tornado ^777777(Vacuum Extreme)^000000",
+		"Tornado",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Proteger Terreno 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12113,7 +12113,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^77777712 segundos^000000"
 	},
 	[SKID.SO_VARETYR_SPEAR] = {
-		"Lanças dos Aesir ^777777(Varetyr Spear)^000000",
+		"Lanças dos Aesir",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos:",
 		"^777777Encantar com Terremoto 1, Furacão 4^000000",
@@ -12153,7 +12153,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000"
 	},
 	[SKID.SO_EL_CONTROL] = {
-		"Domínio Elemental ^777777(Spirit Control)^000000",
+		"Domínio Elemental",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos: ^777777Análise Elemental 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12167,7 +12167,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^777777Deleta o Elemental^000000"
 	},
 	[SKID.SO_SUMMON_AGNI] = {
-		"Invocar Agni ^777777(Summon Agni)^000000",
+		"Invocar Agni",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Domínio Elemental 1, Aquecer Terreno 3^000000",
@@ -12182,7 +12182,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777720 min.^000000 l ^7777771 Coração Flamejante^000000 l ^77777711^000000"
 	},
 	[SKID.SO_SUMMON_AQUA] = {
-		"Invocar Varuna ^777777(Summon Aqua)^000000",
+		"Invocar Varuna",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Domínio Elemental 1, Pó de Diamante 3^000000",
@@ -12197,7 +12197,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777720 min.^000000 l ^7777771 Gelo Místico^000000 l ^77777711^000000"
 	},
 	[SKID.SO_SUMMON_VENTUS] = {
-		"Invocar Vayu ^777777(Summon Ventus)^000000",
+		"Invocar Vayu",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Domínio Elemental 1, Lanças dos Aesir 3^000000",
@@ -12212,7 +12212,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777720 min.^000000 l ^7777771 Vento Bruto^000000 l ^77777711^000000"
 	},
 	[SKID.SO_SUMMON_TERA] = {
-		"Invocar Chandra ^777777(Summon Tera)^000000",
+		"Invocar Chandra",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos:",
 		"^777777Domínio Elemental 1, Castigo de Nerthus 3^000000",
@@ -12227,7 +12227,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^77777720 min.^000000 l ^7777771 Natureza Grandiosa^000000 l ^77777711^000000"
 	},
 	[SKID.SO_EL_ACTION] = {
-		"Incitar Elemental ^777777(Elemental Action)^000000",
+		"Incitar Elemental",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Domínio Elemental 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12235,7 +12235,7 @@ SKILL_DESCRIPT = {
 		"^777777Ordena o Elemental a atacar.^000000"
 	},
 	[SKID.SO_EL_ANALYSIS] = {
-		"Análise Elemental ^777777(Elemental Analysis)^000000",
+		"Análise Elemental",
 		"Nível máximo: ^7777772^000000",
 		"Pré-requisitos:",
 		"^777777Encantar com Geada 1,",
@@ -12257,7 +12257,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^777777Junta minérios em Pedras.^000000"
 	},
 	[SKID.SO_EL_SYMPATHY] = {
-		"Empatia Elemental ^777777(Elemental Simpathy)^000000",
+		"Empatia Elemental",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Domínio Elemental 3^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -12272,7 +12272,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-30%^000000 l ^777777+25%^000000 l ^777777+125^000000"
 	},
 	[SKID.SO_EL_CURE] = {
-		"Troca Espiritual ^777777(Elemental Cure)^000000",
+		"Troca Espiritual",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Empatia Elemental 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12281,7 +12281,7 @@ SKILL_DESCRIPT = {
 		"para recuperar HP e SP do Elemental.^000000"
 	},
 	[SKID.SO_FIRE_INSIGNIA] = {
-		"Insígnia do Fogo ^777777(Fire Insignia)^000000",
+		"Insígnia do Fogo",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Invocar Agni 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -12302,7 +12302,7 @@ SKILL_DESCRIPT = {
 		"          ^777777Dano mágico de Fogo +25%.^000000"
 	},
 	[SKID.SO_WATER_INSIGNIA] = {
-		"Insígnia da Água ^777777(Water Insignia)^000000",
+		"Insígnia da Água",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Invocar Varuna 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -12323,7 +12323,7 @@ SKILL_DESCRIPT = {
 		"          ^777777Dano mágico de Água +25%.^000000"
 	},
 	[SKID.SO_WIND_INSIGNIA] = {
-		"Insígnia do Vento ^777777(Wind Insignia)^000000",
+		"Insígnia do Vento",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Invocar Vayu 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -12344,7 +12344,7 @@ SKILL_DESCRIPT = {
 		"          ^777777Dano mágico de Vento +25%.^000000"
 	},
 	[SKID.SO_EARTH_INSIGNIA] = {
-		"Insígnia da Terra ^777777(Earth Insignia)^000000",
+		"Insígnia da Terra",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Invocar Chandra 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -12365,7 +12365,7 @@ SKILL_DESCRIPT = {
 		"          ^777777Dano mágico de Terra +25%.^000000"
 	},
 	[SKID.GN_TRAINING_SWORD] = {
-		"Perícia em Esgrima ^777777(Training Sword)^000000",
+		"Perícia em Esgrima",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -12379,7 +12379,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50^000000 l ^777777+15^000000"
 	},
 	[SKID.GN_REMODELING_CART] = {
-		"Aprimorar Carrinho ^777777(Remodeling Cart)^000000",
+		"Aprimorar Carrinho",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -12394,7 +12394,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+2.500^000000 l ^777777+20^000000"
 	},
 	[SKID.GN_CART_TORNADO] = {
-		"Tornado de Carrinho ^777777(Cart Tornado)^000000",
+		"Tornado de Carrinho",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Aprimorar Carrinho 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12417,7 +12417,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.000%^000000"
 	},
 	[SKID.GN_CARTCANNON] = {
-		"Canhão de Prótons ^777777(Cart Cannon)^000000",
+		"Canhão de Prótons",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Aprimorar Carrinho 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12436,7 +12436,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^7777771.250%^000000 l ^777777+100%^000000"
 	},
 	[SKID.GN_CARTBOOST] = {
-		"Propulsão do Carrinho ^777777(Cart Boost)^000000",
+		"Propulsão do Carrinho",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Aprimorar Carrinho 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -12452,7 +12452,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50^000000 l ^777777+100%^000000"
 	},
 	[SKID.GN_THORNS_TRAP] = {
-		"Armadilha de Espinhos ^777777(Thorn's Trap)^000000",
+		"Armadilha de Espinhos",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Farmacologia Avançada 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12470,7 +12470,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777718 segundos^000000"
 	},
 	[SKID.GN_BLOOD_SUCKER] = {
-		"Planta Sanguessuga ^777777(Blood Sucker)^000000",
+		"Planta Sanguessuga",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Farmacologia Avançada 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -12487,7 +12487,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777779%^000000 l ^7777775%^000000 l ^777777280 segundos^000000"
 	},
 	[SKID.GN_SPORE_EXPLOSION] = {
-		"Esporo Explosivo ^777777(Spore Explosion)^000000",
+		"Esporo Explosivo",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Farmacologia Avançada 4^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12512,7 +12512,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.400%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.GN_WALLOFTHORN] = {
-		"Muralha de Espinhos ^777777(Wall of Thorn)^000000",
+		"Muralha de Espinhos",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha de Espinhos 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12535,7 +12535,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777714 segundos^000000 l ^77777712.000^000000"
 	},
 	[SKID.GN_CRAZYWEED] = {
-		"Erva Daninha ^777777(Crazy Vines)^000000",
+		"Erva Daninha",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Muralha de Espinhos 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12558,7 +12558,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777710^000000 l ^7777771.700%^000000"
 	},
 	[SKID.GN_DEMONIC_FIRE] = {
-		"Bomba Napalm ^777777(Demonic Fire)^000000",
+		"Bomba Napalm",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Esporo Explosivo 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12575,7 +12575,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777210%^000000 l ^77777718 segundos^000000 l ^77777724%^000000"
 	},
 	[SKID.GN_FIRE_EXPANSION] = {
-		"Catalisador Alquímico ^777777(Fire Expansion)^000000",
+		"Catalisador Alquímico",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Bomba Napalm 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12596,7 +12596,7 @@ SKILL_DESCRIPT = {
 		"             ^777777Altera para [Bomba Ácida] em área.^000000"
 	},
 	[SKID.GN_HELLS_PLANT] = {
-		"Planta Infernal ^777777(Hell's Plant)^000000",
+		"Planta Infernal",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Planta Sanguessuga 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12615,7 +12615,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^777777180 segundos^000000"
 	},
 	[SKID.GN_MANDRAGORA] = {
-		"Grito da Mandrágora ^777777(Mandragora Howling)^000000",
+		"Grito da Mandrágora",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Planta Infernal 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12635,7 +12635,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777715x15 células^000000 l ^77777750%^000000 l ^777777-20^000000"
 	},
 	[SKID.GN_SLINGITEM] = {
-		"Arremessar Item ^777777(Sling Item)^000000",
+		"Arremessar Item",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Reação Alquímica 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12645,7 +12645,7 @@ SKILL_DESCRIPT = {
 		"Poções transformadas por Reação Alquímica.^000000"
 	},
 	[SKID.GN_CHANGEMATERIAL] = {
-		"Reação Alquímica ^777777(Change Material)^000000",
+		"Reação Alquímica",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -12654,7 +12654,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome itens aleatórios.^000000"
 	},
 	[SKID.GN_MIX_COOKING] = {
-		"Culinária Avançada ^777777(Mixed Cooking)^000000",
+		"Culinária Avançada",
 		"Nível máximo: ^7777772^000000",
 		"Pré-requisitos: ^777777Farmacologia Avançada 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12670,7 +12670,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^77777710 por vez^000000"
 	},
 	[SKID.GN_MAKEBOMB] = {
-		"Criar Bomba Orgânica ^777777(Bomb Creation)^000000",
+		"Criar Bomba Orgânica",
 		"Nível máximo: ^7777772^000000",
 		"Pré-requisitos: ^777777Culinária Avançada 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12686,7 +12686,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^77777710 por vez^000000"
 	},
 	[SKID.GN_S_PHARMACY] = {
-		"Farmacologia Avançada ^777777(Special Pharmacy)^000000",
+		"Farmacologia Avançada",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -12724,7 +12724,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-50%^000000 l ^777777180 segundos^000000"
 	},
 	[SKID.SR_HOWLINGOFLION] = {
-		"Rugido do Leão ^777777(Howling of Lion)^000000",
+		"Rugido do Leão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:  ^777777Absorção Espiritual 1,",
 		"Tempestade Espiritual 3^000000",
@@ -12744,7 +12744,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500%^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.SR_RIDEINLIGHTNING] = {
-		"Tempestade Espiritual ^777777(Lightning Ride)^000000",
+		"Tempestade Espiritual",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		" ^777777Disparo de Esferas Espirituais 3^000000",
@@ -12771,7 +12771,7 @@ SKILL_DESCRIPT = {
 		"^777777Teleporta para El Dicastes.^000000"
 	},
 	[SKID.ALL_BUYING_STORE] = {
-		"Loja de Compras ^777777(Buying Store)^000000",
+		"Loja de Compras",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Completar Missão^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12791,7 +12791,7 @@ SKILL_DESCRIPT = {
 		"^777777Teleporta para Mora.^000000"
 	},
 	[SKID.ALL_ODINS_POWER] = {
-		"Poder de Odin ^777777(Odin's Power)^000000",
+		"Poder de Odin",
 		"Nível máximo: ^7777772^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -12803,7 +12803,7 @@ SKILL_DESCRIPT = {
 		"[Nv 2]: ^777777-40^000000 l ^777777+100^000000"
 	},
 	[SKID.MC_CARTDECORATE] = {
-		"Decorar Carrinho ^777777(Cart Decorate)^000000",
+		"Decorar Carrinho",
 		"Pré-requisitos: ^CD3278Completar missão^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -12832,7 +12832,7 @@ SKILL_DESCRIPT = {
 		"Description : ^777777 Minimize Magic item attack rate^000000"
 	},
 	[SKID.RL_RICHS_COIN] = {
-		"Farta Fortuna ^777777(Rich's Coin)^000000",
+		"Farta Fortuna",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -12844,7 +12844,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 100 Zenys.^000000"
 	},
 	[SKID.RL_MASS_SPIRAL] = {
-		"Espiral Perfurante ^777777(Mass Spiral)^000000",
+		"Espiral Perfurante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ferir Alvo 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12862,7 +12862,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^77777780%^000000 l ^7777771.000%^000000"
 	},
 	[SKID.RL_BANISHING_BUSTER] = {
-		"Tiro Neutralizante ^777777(Vanishing Buster)^000000",
+		"Tiro Neutralizante",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Rajada Estilhaçante 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12885,7 +12885,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777772.500%^000000 l ^777777100%^000000"
 	},
 	[SKID.RL_B_TRAP] = {
-		"Armadilha Aderente ^777777(Binding Trap)^000000",
+		"Armadilha Aderente",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ignição 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12906,7 +12906,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^7777777x7^000000 l ^7777774 + 10 segundos^000000"
 	},
 	[SKID.RL_FLICKER] = {
-		"Ignição ^777777(Flicker)^000000",
+		"Ignição",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -12916,7 +12916,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Moeda.^000000"
 	},
 	[SKID.RL_S_STORM] = {
-		"Rajada Estilhaçante ^777777(Shattering Storm)^000000",
+		"Rajada Estilhaçante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Desarmar 1,",
 		"Controle de Multidão 1^000000",
@@ -12938,7 +12938,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^7777772.700%^000000 l ^7777777x7 células^000000 l ^77777770^000000"
 	},
 	[SKID.RL_E_CHAIN] = {
-		"Reação Ilimitada ^777777(Eternal Chain)^000000",
+		"Reação Ilimitada",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 1",
 		"Reação em Cadeia 10^000000",
@@ -12961,7 +12961,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^777777180 segundos^000000"
 	},
 	[SKID.RL_QD_SHOT] = {
-		"Saque Rápido ^777777(Quick Draw Shot)^000000",
+		"Saque Rápido",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Reação em Cadeia 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -12975,7 +12975,7 @@ SKILL_DESCRIPT = {
 		"número de disparos adicionais.^000000"
 	},
 	[SKID.RL_C_MARKER] = {
-		"Marcar em Brasa ^777777(Crimson Marker)^000000",
+		"Marcar em Brasa",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cara ou Coroa 1^000000",
 		"Descrição:",
@@ -12989,7 +12989,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Moeda.^000000"
 	},
 	[SKID.RL_FIREDANCE] = {
-		"Descarregar Tambor ^777777(Fire Dance)^000000",
+		"Descarregar Tambor",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Desperado 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13012,7 +13012,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777771.200%^000000"
 	},
 	[SKID.RL_H_MINE] = {
-		"Arremessar Granada ^777777(Howling Mine)^000000",
+		"Arremessar Granada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Mina do Justiceiro 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13034,7 +13034,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^7777771.200%^000000 l ^7777772.000%^000000"
 	},
 	[SKID.RL_P_ALTER] = {
-		"Proteção de Platina ^777777(Platinum Altar)^000000",
+		"Proteção de Platina",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Farta Fortuna 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -13055,7 +13055,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^7777778^000000 l ^77777790 segundos^000000 l ^77777725%^000000"
 	},
 	[SKID.RL_FALLEN_ANGEL] = {
-		"Salto Etéreo ^777777(Fallen Angel)^000000",
+		"Salto Etéreo",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Desperado 10^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -13068,7 +13068,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Moeda.^000000"
 	},
 	[SKID.RL_R_TRIP] = {
-		"Expurgar ^777777(Round Trip)^000000",
+		"Expurgar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Disparo Labareda 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13094,7 +13094,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777771,0 segundo^000000 l ^77777713x13 células^000000 l ^7777772.500%^000000"
 	},
 	[SKID.RL_D_TAIL] = {
-		"Lançar Míssil ^777777(Dragon Tail)^000000",
+		"Lançar Míssil",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Marcar em Brasa 1,",
 		"Arremessar Granada 3^000000",
@@ -13120,7 +13120,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777772.500%^000000 l ^7777775.000%^000000"
 	},
 	[SKID.RL_FIRE_RAIN] = {
-		"Disparo Labareda ^777777(Fire Rain)^000000",
+		"Disparo Labareda",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ataque Gatling 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13139,7 +13139,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^7777775.000%^000000 l ^77777740%^000000"
 	},
 	[SKID.RL_HEAT_BARREL] = {
-		"Furor ^777777(Hit Barrel)^000000",
+		"Furor",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Farta Fortuna 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -13158,7 +13158,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777-50^000000 l ^777777+5^000000"
 	},
 	[SKID.RL_AM_BLAST] = {
-		"Explosão Antimatéria ^777777(Anti-Material Blast)^000000",
+		"Explosão Antimatéria",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Espiral Perfurante 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13176,7 +13176,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^77777770%^000000 l ^777777-50%^000000 l ^77777710 segundos^000000"
 	},
 	[SKID.RL_SLUGSHOT] = {
-		"Calibre Letal ^777777(Slug Shot)^000000",
+		"Calibre Letal",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Tiro Neutralizante 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13202,7 +13202,7 @@ SKILL_DESCRIPT = {
 		"             ^77777710.000% em personagens^000000"
 	},
 	[SKID.RL_HAMMER_OF_GOD] = {
-		"Execução ^777777(Hammer of God)^000000",
+		"Execução",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Farta Fortuna 1,",
 		"Explosão Antimatéria 3^000000",
@@ -13228,7 +13228,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777777x7^000000 l ^7777771.000%^000000"
 	},
 	[SKID.SJ_LIGHTOFMOON] = {
-		"Luz Lunar ^777777(Light of Moon)^000000",
+		"Luz Lunar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chute Lunar 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Lunar^000000",
@@ -13245,7 +13245,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777Dano +25%^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.SJ_LUNARSTANCE] = {
-		"Postura Lunar ^777777(Lunar Stance)^000000",
+		"Postura Lunar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Registro SLE 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Lunar^000000",
@@ -13260,7 +13260,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777HP máx. +5%^000000"
 	},
 	[SKID.SJ_FULLMOONKICK] = {
-		"Chute Lunar ^777777(Full Moon Kick)^000000",
+		"Chute Lunar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Eclipse Lunar 7^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Lunar^000000",
@@ -13283,7 +13283,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777772.100%^000000"
 	},
 	[SKID.SJ_LIGHTOFSTAR] = {
-		"Luz Estelar ^777777(Light of Star)^000000",
+		"Luz Estelar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chuva Estelar 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Estelar^000000",
@@ -13300,7 +13300,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777Dano +25%^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.SJ_STARSTANCE] = {
-		"Postura Estelar ^777777(Star Stance)^000000",
+		"Postura Estelar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Registro SLE 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Estelar^000000",
@@ -13316,7 +13316,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777Velocidade de ataque +10%^000000"
 	},
 	[SKID.SJ_NEWMOONKICK] = {
-		"Eclipse Lunar ^777777(New Moon Kick)^000000",
+		"Eclipse Lunar",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Postura Lunar 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Lunar^000000",
@@ -13338,7 +13338,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7]: ^7777771.400%^000000"
 	},
 	[SKID.SJ_FLASHKICK] = {
-		"Chute Estelar ^777777(Flash Kick)^000000",
+		"Chute Estelar",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Postura Estelar 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Estelar^000000",
@@ -13356,7 +13356,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7]: ^77777710 segundos^000000"
 	},
 	[SKID.SJ_STAREMPEROR] = {
-		"Advento Imperial ^777777(Star Emperor)^000000",
+		"Advento Imperial",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Hipernova 5,",
 		"Postura do Universo 3^000000",
@@ -13375,7 +13375,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.800%^000000"
 	},
 	[SKID.SJ_NOVAEXPLOSING] = {
-		"Hipernova ^777777(Nova Explosing)^000000",
+		"Hipernova",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Postura do Universo 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Universo^000000",
@@ -13395,7 +13395,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777700%^000000"
 	},
 	[SKID.SJ_UNIVERSESTANCE] = {
-		"Postura do Universo ^777777(Universe Stance)^000000",
+		"Postura do Universo",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Postura Solar 3,",
 		"Postura Lunar 3, Postura Estelar 3^000000",
@@ -13409,7 +13409,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777Todos os atributos +5^000000"
 	},
 	[SKID.SJ_FALLINGSTAR] = {
-		"Chuva Estelar ^777777(Falling Star)^000000",
+		"Chuva Estelar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Chute Estelar 10^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Estelar^000000",
@@ -13432,7 +13432,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777771.100%^000000"
 	},
 	[SKID.SJ_GRAVITYCONTROL] = {
-		"Controle Gravitacional ^777777(Gravity Control)^000000",
+		"Controle Gravitacional",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Postura do Universo 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Universo^000000",
@@ -13448,7 +13448,7 @@ SKILL_DESCRIPT = {
 		"O peso do alvo aumenta o dano recebido.^000000"
 	},
 	[SKID.SJ_BOOKOFDIMENSION] = {
-		"Livro das Dimensões ^777777(Book of Dimension)^000000",
+		"Livro das Dimensões",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Advento Imperial 3",
 		"Registro Solar, Lunar e Estelar 3^000000",
@@ -13466,7 +13466,7 @@ SKILL_DESCRIPT = {
 		"durabilidade igual ao seu SP máximo.^000000"
 	},
 	[SKID.SJ_BOOKOFCREATINGSTAR] = {
-		"Livro da Criação ^777777(Book of Creating Star)^000000",
+		"Livro da Criação",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Advento Imperial 3",
 		"Registro Solar, Lunar e Estelar 3^000000",
@@ -13485,7 +13485,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710 segundos^000000"
 	},
 	[SKID.SJ_DOCUMENT] = {
-		"Registro Solar, Lunar e Estelar ^777777(Document)^000000",
+		"Registro Solar, Lunar e Estelar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Percepção e Oposição SLE 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -13500,7 +13500,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777Mapas e monstros^000000"
 	},
 	[SKID.SJ_PURIFY] = {
-		"Purificação Solar, Lunar e Estelar ^777777(Purify)^000000",
+		"Purificação Solar, Lunar e Estelar",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Sombra SLE 10^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -13509,7 +13509,7 @@ SKILL_DESCRIPT = {
 		"causada pela Sombra Solar, Lunar e Estelar.^000000"
 	},
 	[SKID.SJ_LIGHTOFSUN] = {
-		"Luz Solar ^777777(Light of Sun)^000000",
+		"Luz Solar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Explosão Solar 3^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Solar^000000",
@@ -13526,7 +13526,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777Dano +25%^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.SJ_SUNSTANCE] = {
-		"Postura Solar ^777777(Sun Stance)^000000",
+		"Postura Solar",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Registro SLE 1^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Solar^000000",
@@ -13541,7 +13541,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777ATQ +5%^000000"
 	},
 	[SKID.SJ_SOLARBURST] = {
-		"Explosão Solar ^777777(Solar Burst)^000000",
+		"Explosão Solar",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Chute Solar 7^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Solar^000000",
@@ -13563,7 +13563,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777773.200%^000000"
 	},
 	[SKID.SJ_PROMINENCEKICK] = {
-		"Chute Solar ^777777(Blaze Kick)^000000",
+		"Chute Solar",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Postura Solar 1^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Solar^000000",
@@ -13582,7 +13582,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7]: ^777777500%^000000"
 	},
 	[SKID.SP_SOULGOLEM] = {
-		"Espírito do Golem ^777777(Golem Soul)^000000",
+		"Espírito do Golem",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Absorver Espírito 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -13599,7 +13599,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+300^000000 l ^777777+40^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SP_SOULSHADOW] = {
-		"Espírito das Sombras ^777777(Shadow Soul)^000000",
+		"Espírito das Sombras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777União Espiritual 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -13616,7 +13616,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20^000000 l ^777777+3^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SP_SOULFALCON] = {
-		"Espírito do Falcão ^777777(Falcon Soul)^000000",
+		"Espírito do Falcão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Absorver Espírito 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -13633,7 +13633,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50^000000 l ^777777+15^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SP_SOULFAIRY] = {
-		"Espírito da Fada ^777777(Fairy Soul)^000000",
+		"Espírito da Fada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777União Espiritual 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -13650,7 +13650,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50^000000 l ^777777-10%^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SP_CURSEEXPLOSION] = {
-		"Necroexplosão ^777777(Curse Explosion)^000000",
+		"Necroexplosão",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Necromancia 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13672,7 +13672,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777771.400%^000000 l ^7777774.200%^000000"
 	},
 	[SKID.SP_SOULCURSE] = {
-		"Necromancia ^777777(Soul Curse)^000000",
+		"Necromancia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ceifar Alma 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -13762,7 +13762,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 10]: ^7777773.500%^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.SP_SOULUNITY] = {
-		"União Espiritual ^777777(Soul Unity)^000000",
+		"União Espiritual",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Perícia com Almas 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -13784,7 +13784,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7]: ^7777771.050^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.SP_SOULDIVISION] = {
-		"Divisão de Alma ^777777(Soul Division)^000000",
+		"Divisão de Alma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Esha 5, Espa 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -13802,7 +13802,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50%^000000"
 	},
 	[SKID.SP_SOULREAPER] = {
-		"Ceifar Alma ^777777(Soul Reaper)^000000",
+		"Ceifar Alma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Coletar Alma 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -13818,7 +13818,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777735%^000000 l ^777777210 segundos^000000"
 	},
 	[SKID.SP_SOULREVOLVE] = {
-		"Absorver Espírito ^777777(Soul Revolve)^000000",
+		"Absorver Espírito",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^777777Perícia com Almas 3, Kaute 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -13832,7 +13832,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777150^000000"
 	},
 	[SKID.SP_SOULCOLLECT] = {
-		"Coletar Alma ^777777(Soul Collect)^000000",
+		"Coletar Alma",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -13848,7 +13848,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777720 segundos^000000"
 	},
 	[SKID.SP_SOULEXPLOSION] = {
-		"Sifão Espiritual ^777777(Soul Explosion)^000000",
+		"Sifão Espiritual",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Necroexplosão 2,",
 		"Espírito das Sombras 1, Espírito da Fada 1,",
@@ -13871,7 +13871,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777770%^000000"
 	},
 	[SKID.SP_SOULENERGY] = {
-		"Perícia com Almas ^777777(Soul Energy)^000000",
+		"Perícia com Almas",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Coletar Alma 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -13906,7 +13906,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777720%^000000 l ^77777720%^000000"
 	},
 	[SKID.KO_YAMIKUMO] = {
-		"Refúgio das Sombras ^777777(Shadow Hiding)^000000",
+		"Refúgio das Sombras",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Corte das Sombras 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -13916,7 +13916,7 @@ SKILL_DESCRIPT = {
 		"podendo ser cancelado se chegar a Zero.^000000"
 	},
 	[SKID.KO_RIGHT] = {
-		"Perícia com a Mão Direita ^777777(Right)^000000",
+		"Perícia com a Mão Direita",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -13932,7 +13932,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777120%^000000"
 	},
 	[SKID.KO_LEFT] = {
-		"Perícia com a Mão Esquerda ^777777(Left)^000000",
+		"Perícia com a Mão Esquerda",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -13946,7 +13946,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100%^000000"
 	},
 	[SKID.KO_JYUMONJIKIRI] = {
-		"Impacto Cruzado ^777777(Cross Slash)^000000",
+		"Impacto Cruzado",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Refúgio das Sombras 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13970,7 +13970,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.000%^000000 l ^7777777 células^000000 l ^7777773,1 segundos^000000"
 	},
 	[SKID.KO_SETSUDAN] = {
-		"Corte Espiritual ^777777(Soul Cutter)^000000",
+		"Corte Espiritual",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Impacto Cruzado 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -13986,7 +13986,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000"
 	},
 	[SKID.KO_BAKURETSU] = {
-		"Kunai Explosiva ^777777(Kunai Explosion)^000000",
+		"Kunai Explosiva",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Arremessar Kunai 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -14003,7 +14003,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777711 células^000000 l ^7777772,6 segundos^000000"
 	},
 	[SKID.KO_HAPPOKUNAI] = {
-		"Turbilhão de Kunais ^777777(Kunai Splash)^000000",
+		"Turbilhão de Kunais",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Kunai Explosiva 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -14018,7 +14018,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.KO_MUCHANAGE] = {
-		"Explosão de Moedas ^777777(Rapid Throw)^000000",
+		"Explosão de Moedas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Estrepes 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -14039,7 +14039,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777100.000^000000 l ^77777750.000 a 100.000^000000 l ^7777775x5^000000"
 	},
 	[SKID.KO_HUUMARANKA] = {
-		"Turbilhão de Pétalas ^777777(Swirling Petal)^000000",
+		"Turbilhão de Pétalas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos:",
 		"^777777Arremessar Huuma 5^000000",
@@ -14062,7 +14062,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777771.500%^000000"
 	},
 	[SKID.KO_MAKIBISHI] = {
-		"Estrepes ^777777(Makibishi)^000000",
+		"Estrepes",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chuva de Moedas 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -14079,7 +14079,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777^000000"
 	},
 	[SKID.KO_MEIKYOUSISUI] = {
-		"Purificação da Alma ^777777(Pure Soul)^000000",
+		"Purificação da Alma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia Ninja 10^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -14096,7 +14096,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710%^000000 l ^7777775%^000000"
 	},
 	[SKID.KO_ZANZOU] = {
-		"Genjutsu: Clone das Sombras ^777777(Shadow)^000000",
+		"Genjutsu: Clone das Sombras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Troca de Pele 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14112,7 +14112,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777718.000^000000 l ^77777715 segundos^000000 l ^77777718 segundos^000000"
 	},
 	[SKID.KO_KYOUGAKU] = {
-		"Genjutsu: Assalto das Sombras ^777777(Shock)^000000",
+		"Genjutsu: Assalto das Sombras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Genjutsu: Substituição 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14130,7 +14130,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777720 segundos^000000 l ^777777-10 a -15^000000"
 	},
 	[SKID.KO_JYUSATSU] = {
-		"Genjutsu: Chamado da Morte ^777777(Death)^000000",
+		"Genjutsu: Chamado da Morte",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Assalto das Sombras 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14146,7 +14146,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771,0 segundo^000000"
 	},
 	[SKID.KO_KAHU_ENTEN] = {
-		"Amuleto de Fogo ^777777(Fire Charm)^000000",
+		"Amuleto de Fogo",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -14160,7 +14160,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Amuleto de Fogo.^000000"
 	},
 	[SKID.KO_HYOUHU_HUBUKI] = {
-		"Amuleto de Água ^777777(Ice Charm)^000000",
+		"Amuleto de Água",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -14173,7 +14173,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Amuleto de Água.^000000"
 	},
 	[SKID.KO_KAZEHU_SEIRAN] = {
-		"Amuleto de Vento ^777777(Wind Charm)^000000",
+		"Amuleto de Vento",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -14187,7 +14187,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Amuleto de Vento.^000000"
 	},
 	[SKID.KO_DOHU_KOUKAI] = {
-		"Amuleto de Terra ^777777(Earth Charm)^000000",
+		"Amuleto de Terra",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -14200,7 +14200,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Amuleto de Terra.^000000"
 	},
 	[SKID.KO_KAIHOU] = {
-		"Arremessar Amuleto ^777777(Ninja Spell)^000000",
+		"Arremessar Amuleto",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos:",
 		"^777777Amuleto de Fogo 1, Amuleto de Água 1",
@@ -14213,7 +14213,7 @@ SKILL_DESCRIPT = {
 		"com a propriedade dos amuletos.^000000"
 	},
 	[SKID.KO_ZENKAI] = {
-		"Voragem Espiritual ^777777(Cast Ninja Spell)^000000",
+		"Voragem Espiritual",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Arremessar Amuleto 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14235,7 +14235,7 @@ SKILL_DESCRIPT = {
 		"da propriedade Vento.^000000"
 	},
 	[SKID.KO_GENWAKU] = {
-		"Genjutsu: Substituição ^777777(Bewitch)^000000",
+		"Genjutsu: Substituição",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Troca de Pele 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14250,7 +14250,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771,0 segundo^000000"
 	},
 	[SKID.KO_IZAYOI] = {
-		"Inspiração ^777777(16th Night)^000000",
+		"Inspiração",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia Ninja 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -14267,7 +14267,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777790 segundos^000000"
 	},
 	[SKID.KG_KAGEHUMI] = {
-		"Esmagamento Sombrio ^777777(Trampling)^000000",
+		"Esmagamento Sombrio",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Clone das Sombras 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14283,7 +14283,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777779 segundos^000000 l ^77777713x13 células^000000"
 	},
 	[SKID.KG_KYOMU] = {
-		"Vazio das Sombras ^777777(Empty Shadow)^000000",
+		"Vazio das Sombras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Esmagamento Sombrio 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14301,7 +14301,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 segundos^000000"
 	},
 	[SKID.KG_KAGEMUSYA] = {
-		"Contrato das Sombras ^777777(Shadow Warrior)^000000",
+		"Contrato das Sombras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Vazio das Sombras 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -14319,7 +14319,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777180 segundos^000000"
 	},
 	[SKID.OB_ZANGETSU] = {
-		"Distorção Crescente ^777777(Distorted Crescent)^000000",
+		"Distorção Crescente",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Genjutsu: Substituição 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14334,7 +14334,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777120 segundos^000000"
 	},
 	[SKID.OB_OBOROGENSOU] = {
-		"Ilusão do Luar ^777777(Moonlight Fantasy)^000000",
+		"Ilusão do Luar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Luar Sinistro 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14352,7 +14352,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 segundos^000000"
 	},
 	[SKID.OB_AKAITSUKI] = {
-		"Luar Sinistro ^777777(Ominous Moonlight)^000000",
+		"Luar Sinistro",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Distorção Crescente 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14369,28 +14369,28 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 segundos^000000"
 	},
 	[SKID.ECL_SNOWFLIP] = {
-		"Gardênia ^777777(Snow Flip)^000000",
+		"Gardênia",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777O alvo selecionado será curado de Incêndio,",
 		"Sono, Sono Profundo e Sangramento.^000000"
 	},
 	[SKID.ECL_PEONYMAMY] = {
-		"Peônia ^777777(Peony Mamy)^000000",
+		"Peônia",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777O alvo selecionado será curado de",
 		"Congelamento, Cristalização e Hipotermia.^000000"
 	},
 	[SKID.ECL_SADAGUI] = {
-		"Erva-Mate ^777777(Sadagui)^000000",
+		"Erva-Mate",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777O alvo selecionado será curado de Medo,",
 		"Atordoamento, Caos e Alucinação.^000000"
 	},
 	[SKID.ECL_SEQUOIADUST] = {
-		"Pó de Yggdrasil ^777777(Sequoia Dust)^000000",
+		"Pó de Yggdrasil",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777O alvo selecionado será curado de Maldição,",
@@ -14438,7 +14438,7 @@ SKILL_DESCRIPT = {
 		"Descrição: ^777777Teleporta para Lighthalzen.^000000"
 	},
 	[SKID.GC_DARKCROW] = {
-		"Garra Sombria ^777777(Dark Claw)^000000",
+		"Garra Sombria",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Passo Sombrio 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -14458,7 +14458,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^777777+150%^000000 l ^777777+75%^000000"
 	},
 	[SKID.RA_UNLIMIT] = {
-		"Ilimitar ^777777(Unlimit)^000000",
+		"Ilimitar",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Disparo Selvagem 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -14473,7 +14473,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777x3,5^000000"
 	},
 	[SKID.GN_ILLUSIONDOPING] = {
-		"Alucinógeno ^777777(Illusion Doping)^000000",
+		"Alucinógeno",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Farmacologia Avançada 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14490,7 +14490,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777729x29 células^000000"
 	},
 	[SKID.RK_DRAGONBREATH_WATER] = {
-		"Bafo do Dragão ^777777(Water Dragon Breath)^000000",
+		"Bafo do Dragão",
 		"Nível máximo: ^77777710^000000",
 		"Pré requisito: ^777777Adestrar Dragão 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -14507,7 +14507,7 @@ SKILL_DESCRIPT = {
 		"Runa Luxanima: ^777777Propriedade Neutro.^000000"
 	},
 	[SKID.NC_MAGMA_ERUPTION] = {
-		"Erupção de Magma ^777777(Magma Eruption)^000000",
+		"Erupção de Magma",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Sabedoria de Hefesto 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -14525,7 +14525,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.800^000000 l ^77777750%^000000 l ^777777100^000000"
 	},
 	[SKID.WM_FRIGG_SONG] = {
-		"Canção de Frigga ^777777(Frigg's Song)^000000",
+		"Canção de Frigga",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Domínio Musical 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -14543,7 +14543,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777180^000000 l ^777777+25%^000000 l ^77777715x15 células^000000"
 	},
 	[SKID.SO_ELEMENTAL_SHIELD] = {
-		"Escudo Elemental ^777777(Elemental Shield)^000000",
+		"Escudo Elemental",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Domínio Elemental 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -14554,7 +14554,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Gema Azul e o Elemental.^000000"
 	},
 	[SKID.SR_FLASHCOMBO] = {
-		"Combo Rápido ^777777(Flash Combo)^000000",
+		"Combo Rápido",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Punho do Dragão 3, Ruína 3,",
@@ -14577,7 +14577,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773^000000 l ^777777+120^000000"
 	},
 	[SKID.SC_ESCAPE] = {
-		"Escapar ^777777(Escape)^000000",
+		"Escapar",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Disparo Triplo 2^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -14618,7 +14618,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+200%^000000 l ^777777+150%^000000"
 	},
 	[SKID.WL_TELEKINESIS_INTENSE] = {
-		"Telecinesia ^777777(Intense Telekinesis)^000000",
+		"Telecinesia",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Impacto Espiritual 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -14638,7 +14638,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-50%^000000 l ^777777-50%^000000 l ^777777+200%^000000"
 	},
 	[SKID.LG_KINGS_GRACE] = {
-		"Graça Real ^777777(King's Grace)^000000",
+		"Graça Real",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Escudo Supressor 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -14661,7 +14661,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777778%^000000"
 	},
 	[SKID.ALL_FULL_THROTTLE] = {
-		"Maximizar Poder ^777777(Full Throttle)^000000",
+		"Maximizar Poder",
 		"Nível máximo: ^7777775^000000",
 		"Pré requisito: ^777777Classe 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -14683,7 +14683,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 segundos^000000 l ^7777771%^000000"
 	},
 	[SKID.SU_BASIC_SKILL] = {
-		"Instintos Básicos ^777777(New Basic Skill)^000000",
+		"Instintos Básicos",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -14710,7 +14710,7 @@ SKILL_DESCRIPT = {
 		"          através de um NPC de serviço.^000000"
 	},
 	[SKID.SU_BITE] = {
-		"Mordida ^777777(Bite)^000000",
+		"Mordida",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Pré-requisitos: ^777777Instintos Básicos 1^000000",
@@ -14722,7 +14722,7 @@ SKILL_DESCRIPT = {
 		"habilidade tem chance de dupla conjuração.^000000"
 	},
 	[SKID.SU_HIDE] = {
-		"Gato-Mia ^777777(Hide)^000000",
+		"Gato-Mia",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Pré-requisitos: ^777777Mordida 1^000000",
@@ -14732,7 +14732,7 @@ SKILL_DESCRIPT = {
 		"ou ser alvo de [Provocar].^000000"
 	},
 	[SKID.SU_SCRATCH] = {
-		"Arranhar ^777777(Scratch)^000000",
+		"Arranhar",
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Pré-requisitos: ^777777Gato-Mia 1^000000",
@@ -14747,7 +14747,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777200%^000000"
 	},
 	[SKID.SU_STOOP] = {
-		"Quatro Patas ^777777(Stoop)^000000",
+		"Quatro Patas",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Pré-requisitos: ^777777Arranhar 3^000000",
@@ -14757,7 +14757,7 @@ SKILL_DESCRIPT = {
 		"Cancela ao andar ou ser empurrado.^000000"
 	},
 	[SKID.SU_LOPE] = {
-		"Pulo do Gato ^777777(Lope)^000000",
+		"Pulo do Gato",
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Pré-requisitos: ^777777Quatro Patas 1^000000",
@@ -14774,7 +14774,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3] ^77777714 células^000000"
 	},
 	[SKID.SU_SPRITEMABLE] = {
-		"Invocar ^777777(Sprite Mable)^000000",
+		"Invocar",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Pulo do Gato 3^000000",
@@ -14785,7 +14785,7 @@ SKILL_DESCRIPT = {
 		"HP máx. +1.000 e SP máx. +100.^000000"
 	},
 	[SKID.SU_POWEROFLAND] = {
-		"Poder da Selva ^777777(Power of Land)^000000",
+		"Poder da Selva",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Pulverizar 3^000000",
@@ -14796,7 +14796,7 @@ SKILL_DESCRIPT = {
 		"concede dano mágico +20%.^000000"
 	},
 	[SKID.SU_SV_STEMSPEAR] = {
-		"Lança Gateira ^777777(Silvervine Stem Spear)^000000",
+		"Lança Gateira",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Selva^000000",
 		"Pré-requisitos: ^777777Invocar 1^000000",
@@ -14814,7 +14814,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777Fantasma^000000"
 	},
 	[SKID.SU_CN_POWDERING] = {
-		"Pulverizar ^777777(Catnip Powdering)^000000",
+		"Pulverizar",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Selva^000000",
 		"Pré-requisitos: ^777777Meteoros de Nepeta 3^000000",
@@ -14832,7 +14832,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^7777777 segundos^000000"
 	},
 	[SKID.SU_CN_METEOR] = {
-		"Meteoros de Nepeta (CN Meteor)",
+		"Meteoros de Nepeta",
 		"Nível máximo: 5",
 		"^777777Requisito : Hera Venenosa 3^000000",
 		"Tipo : ^777777Vegetal (Ataque)^000000",
@@ -14848,7 +14848,7 @@ SKILL_DESCRIPT = {
 		"[Nível 5] : ^777777Magia de propriedade Neutro / Área de efeito 7 x 7 / ATQM 700%^000000"
 	},
 	[SKID.SU_SV_ROOTTWIST] = {
-		"Hera Venenosa ^777777(Silvervine Root Twist)^000000",
+		"Hera Venenosa",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Selva^000000",
 		"Pré-requisitos: ^777777Lança Gateira 3^000000",
@@ -14867,7 +14867,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777715 segundos^000000"
 	},
 	[SKID.SU_POWEROFLIFE] = {
-		"Poder da Fauna ^777777(Power of Life)^000000",
+		"Poder da Fauna",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Cometas Lunáticos 3^000000",
@@ -14878,7 +14878,7 @@ SKILL_DESCRIPT = {
 		"concede dano físico a distância +20%.^000000"
 	},
 	[SKID.SU_SCAROFTAROU] = {
-		"Ferida de Tarou ^777777(Scar of Tarou)^000000",
+		"Ferida de Tarou",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Fauna^000000",
 		"Pré-requisitos: ^777777Impulso de Arclouse 3^000000",
@@ -14897,7 +14897,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000"
 	},
 	[SKID.SU_PICKYPECK] = {
-		"Chilique de Picky ^777777(Picky Peck)^000000",
+		"Chilique de Picky",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Fauna^000000",
 		"Pré-requisitos: ^777777Invocar 1^000000",
@@ -14916,7 +14916,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777700%^000000"
 	},
 	[SKID.SU_ARCLOUSEDASH] = {
-		"Impulso de Arclouse ^777777(Arclouse Dash)^000000",
+		"Impulso de Arclouse",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Fauna^000000",
 		"Pré-requisitos: ^777777Chilique de Picky 3^000000",
@@ -14933,7 +14933,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777AGI +40^000000 l ^777777100 segundos^000000"
 	},
 	[SKID.SU_LUNATICCARROTBEAT] = {
-		"Cometas Lunáticos (Lunatic Carrot Beat)",
+		"Cometas Lunáticos",
 		"Nível máximo: 5",
 		"^777777Requisito : Ferida de Tarou 3^000000",
 		"Tipo : ^777777Animal (Ataque)^000000",
@@ -14948,7 +14948,7 @@ SKILL_DESCRIPT = {
 		"[Nível 5] : ^777777ATQ 700% / Área de efeito 7 x 7 ^000000"
 	},
 	[SKID.SU_POWEROFSEA] = {
-		"Poder das Marés ^777777(Power of Sea)^000000",
+		"Poder das Marés",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Proteção da Orla 3^000000",
@@ -14961,7 +14961,7 @@ SKILL_DESCRIPT = {
 		"HP máx. +3.000 e SP máx. +300.^000000"
 	},
 	[SKID.SU_TUNABELLY] = {
-		"Dádiva do Atum ^777777(Tuna Belly)^000000",
+		"Dádiva do Atum",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
 		"Pré-requisitos: ^777777Chuva de Mariscos 3^000000",
@@ -14976,7 +14976,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777790% do HP máx.^000000"
 	},
 	[SKID.SU_TUNAPARTY] = {
-		"Proteção da Orla ^777777(Tuna Party)^000000",
+		"Proteção da Orla",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
 		"Pré-requisitos: ^777777Dádiva do Atum 3^000000",
@@ -14993,7 +14993,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750% do HP máx.^000000"
 	},
 	[SKID.SU_BUNCHOFSHRIMP] = {
-		"Chuva de Mariscos ^777777(Bunch of Shrimp)^000000",
+		"Chuva de Mariscos",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
 		"Pré-requisitos: ^777777Camarão Fresquinho 3^000000",
@@ -15010,7 +15010,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777180 segundos^000000"
 	},
 	[SKID.SU_FRESHSHRIMP] = {
-		"Camarão Fresquinho ^777777(Fresh Shrimp)^000000",
+		"Camarão Fresquinho",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
 		"Pré-requisitos: ^777777Invocar 1^000000",
@@ -15025,7 +15025,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771 segundo^000000 l ^7777776 segundos^000000"
 	},
 	[SKID.SU_SOULATTACK] = {
-		"Ampliar Alcance ^777777(Soul Attack)^000000",
+		"Ampliar Alcance",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Invocar 1^000000",
@@ -15034,7 +15034,7 @@ SKILL_DESCRIPT = {
 		"tenham alcance de 15 células.^000000"
 	},
 	[SKID.SU_POWEROFFLOCK] = {
-		"Intimidar ^777777(Power Of Lock)^000000",
+		"Intimidar",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Fauna^000000",
 		"Pré-requisitos: ^777777Riscar Fósforo 5^000000",
@@ -15050,7 +15050,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777729x29 células^000000"
 	},
 	[SKID.SU_SVG_SPIRIT] = {
-		"Ataque Selvagem ^777777(Sprit Of Savage)^000000",
+		"Ataque Selvagem",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000 / ^CD3278Fauna^000000",
 		"Pré-requisitos: ^777777Intimidar 5^000000",
@@ -15066,7 +15066,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000"
 	},
 	[SKID.SU_HISS] = {
-		"Riscar Fósforo ^777777(Hiss)^000000",
+		"Riscar Fósforo",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Fauna^000000",
 		"Pré-requisitos: ^777777Poder da Fauna 1^000000",
@@ -15084,7 +15084,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775 segundos^000000"
 	},
 	[SKID.SU_NYANGGRASS] = {
-		"Mato de Gato ^777777(Nyang Grass)^000000",
+		"Mato de Gato",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000 / ^CD3278Selva^000000",
 		"Pré-requisitos: ^777777Balaio de Gato 5^000000",
@@ -15101,7 +15101,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777779x9 células^000000 l ^77777710 segundos^000000"
 	},
 	[SKID.SU_GROOMING] = {
-		"Lambida ^777777(Grooming)^000000",
+		"Lambida",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
 		"Pré-requisitos: ^777777Poder das Marés 1^000000",
@@ -15122,7 +15122,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777 segundos^000000"
 	},
 	[SKID.SU_PURRING] = {
-		"Banho de Lambidas ^777777(Purring)^000000",
+		"Banho de Lambidas",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
 		"Pré-requisitos: ^777777Lambida 5^000000",
@@ -15144,7 +15144,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777715 segundos^000000"
 	},
 	[SKID.SU_SHRIMPARTY] = {
-		"Festa do Camarão ^777777(Tasty Shrimp Party)^000000",
+		"Festa do Camarão",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Marés^000000",
 		"Pré-requisitos: ^777777Banho de Lambidas 5^000000",
@@ -15161,7 +15161,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777720 segundos^000000"
 	},
 	[SKID.SU_SPIRITOFLIFE] = {
-		"Invocação da Fauna ^777777(Sprit Of Life)^000000",
+		"Invocação da Fauna",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Ataque Selvagem 5^000000",
@@ -15173,7 +15173,7 @@ SKILL_DESCRIPT = {
 		"Ferida de Tarou e Ataque Selvagem^000000"
 	},
 	[SKID.SU_MEOWMEOW] = {
-		"Balaio de Gato ^777777(Meow Meow)^000000",
+		"Balaio de Gato",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Selva^000000",
 		"Pré-requisitos: ^777777Despertar 5^000000",
@@ -15189,7 +15189,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777760^000000 l ^77777712 segundos^000000"
 	},
 	[SKID.SU_SPIRITOFLAND] = {
-		"Invocação da Selva ^777777(Spirit Of Land)^000000",
+		"Invocação da Selva",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Mato de Gato 5^000000",
@@ -15211,7 +15211,7 @@ SKILL_DESCRIPT = {
 		"       ^777777ATQM +1 por nv. de base.^000000"
 	},
 	[SKID.SU_CHATTERING] = {
-		"Despertar ^777777(Chattering)^000000",
+		"Despertar",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Selva^000000",
 		"Pré-requisitos: ^777777Poder da Selva 1^000000",
@@ -15228,7 +15228,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730^000000"
 	},
 	[SKID.SU_SPIRITOFSEA] = {
-		"Invocação das Marés ^777777(Spirit Of Sea)^000000",
+		"Invocação das Marés",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Festa do Camarão 5^000000",
@@ -15250,7 +15250,7 @@ SKILL_DESCRIPT = {
 		"          de cura do HP.^000000"
 	},
 	[SKID.WE_CALLALLFAMILY] = {
-		"Em Família ^777777(Call Family)^000000",
+		"Em Família",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Família^000000",
 		"Descrição:",
@@ -15268,7 +15268,7 @@ SKILL_DESCRIPT = {
 		"Não funciona se o alvo for da prop. Maldito.^000000"
 	},
 	[SKID.WE_CHEERUP] = {
-		"Animar  ^777777(Cheer Up)^000000",
+		"Animar",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000 / ^CD3278Família^000000",
 		"Descrição:",
@@ -15276,7 +15276,7 @@ SKILL_DESCRIPT = {
 		"terão todos os atributos +3 por 1 minuto.^000000"
 	},
 	[SKID.CG_SPECIALSINGER] = {
-		"Vocação Musical ^777777(Special Singer)^000000",
+		"Vocação Musical",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Controle de Marionete 1,",
 		"Dança do Ventre 3, Lições de Dança 10^000000 ou",
@@ -15317,7 +15317,7 @@ SKILL_DESCRIPT = {
 		"se você não estiver em um grupo.^000000"
 	},
 	[SKID.NV_BREAKTHROUGH] = {
-		"Crescimento ^777777(Breakthrough)^000000",
+		"Crescimento",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -15332,7 +15332,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777+100^000000 l ^777777+2.000^000000 l ^777777+200^000000 l ^777777+10%^000000"
 	},
 	[SKID.NV_HELPANGEL] = {
-		"Ajuda Angelical ^777777(Help, Angel!)^000000",
+		"Ajuda Angelical",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -15343,7 +15343,7 @@ SKILL_DESCRIPT = {
 		"Possui 300 segundos de recarga.^000000"
 	},
 	[SKID.NV_TRANSCENDENCE] = {
-		"Transcendência ^777777(Transcendence)^000000",
+		"Transcendência",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -15357,7 +15357,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777+100^000000 l ^777777+2.000^000000 l ^777777+200^000000 l ^777777+15%^000000"
 	},
 	[SKID.DK_SERVANTWEAPON] = {
-		"Espada Alada ^777777(Servant Weapon)^000000",
+		"Espada Alada",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Regen. de AP: ^0054FF(6 x Nv. da hab.)^000000",
@@ -15379,7 +15379,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777450%^000000 l ^777777150 segundos^000000"
 	},
 	[SKID.DK_SERVANT_W_SIGN] = {
-		"Marca Alada ^777777(Servant Weapon - Sign)^000000",
+		"Marca Alada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Espada Alada 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -15395,7 +15395,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710 segundos^000000"
 	},
 	[SKID.DK_SERVANT_W_PHANTOM] = {
-		"Impulsão Alada ^777777(Servant Weapon - Phantom)^000000",
+		"Impulsão Alada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Espada Alada 5,",
 		"Marca Alada 5^000000",
@@ -15419,7 +15419,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600%^000000 l ^77777780%^000000"
 	},
 	[SKID.DK_SERVANT_W_DEMOL] = {
-		"Demolição Alada ^777777(Servant W. - Demolition)^000000",
+		"Demolição Alada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Impulsão Alada 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15443,7 +15443,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777750%^000000"
 	},
 	[SKID.DK_CHARGINGPIERCE] = {
-		"Acumular Poder ^777777(Charging Pierce)^000000",
+		"Acumular Poder",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Lança das Mil Pontas 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -15468,7 +15468,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777180 segundos^000000"
 	},
 	[SKID.DK_TWOHANDDEF] = {
-		"Defesa de Duas Mãos ^777777(Two-handed Defense)^000000",
+		"Defesa de Duas Mãos",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -15488,7 +15488,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10%^000000 l ^777777+15%^000000 l ^777777+18%^000000"
 	},
 	[SKID.DK_HACKANDSLASHER] = {
-		"Corte e Massacre ^777777(Hack and Slasher)^000000",
+		"Corte e Massacre",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Defesa de Duas Mãos 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15512,7 +15512,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.000%^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.DK_DRAGONIC_AURA] = {
-		"Aura Draconiana ^777777(Dragonic Aura)^000000",
+		"Aura Draconiana",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Acumular Poder 10,",
 		"Sopro do Dragão 10 e Bafo do Dragão 10^000000",
@@ -15539,7 +15539,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777779.500%^000000 l ^77777714.000%^000000"
 	},
 	[SKID.DK_MADNESS_CRUSHER] = {
-		"Cólera Esmagadora ^777777(Madness Crusher)^000000",
+		"Cólera Esmagadora",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Acúmulo de Poder 5,",
 		"Corte e Massacre 10^000000",
@@ -15559,7 +15559,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.000%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.DK_VIGOR] = {
-		"Determinação ^777777(Vigor)^000000",
+		"Determinação",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dilacerar 5,",
 		"Demolição Alada 3^000000",
@@ -15583,7 +15583,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777300 segundos^000000 l ^777777-2^000000"
 	},
 	[SKID.DK_STORMSLASH] = {
-		"Dilacerar ^777777(Storm Slash)^000000",
+		"Dilacerar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Corte e Massacre 5",
 		"Defesa de Duas Mãos 10^000000",
@@ -15605,7 +15605,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600%^000000 l ^7777775^000000"
 	},
 	[SKID.AG_DEADLY_PROJECTION] = {
-		"Projeção Maldita ^777777(Deadly Projection)^000000",
+		"Projeção Maldita",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Portal do Submundo 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15623,7 +15623,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.000%^000000 l ^7777778 segundos^000000"
 	},
 	[SKID.AG_DESTRUCTIVE_HURRICANE] = {
-		"Tufão Destrutivo ^777777(Destructive Hurricane)^000000",
+		"Tufão Destrutivo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ciclone 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15649,7 +15649,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777778.000%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.AG_RAIN_OF_CRYSTAL] = {
-		"Cascata de Cristal ^777777(Crystal Rain)^000000",
+		"Cascata de Cristal",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Zero Absoluto 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15665,7 +15665,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777750%^000000 l ^77777719x19 células^000000"
 	},
 	[SKID.AG_MYSTERY_ILLUSION] = {
-		"Portal do Submundo ^777777(Mystery Illusion)^000000",
+		"Portal do Submundo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chamas de Hela 3,",
 		"Espíritos Ancestrais 3^000000",
@@ -15683,7 +15683,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500%^000000 l ^77777713x13 células^000000"
 	},
 	[SKID.AG_VIOLENT_QUAKE] = {
-		"Pilares de Pedra ^777777(Violent Quake)^000000",
+		"Pilares de Pedra",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Stratum Tremor 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15713,7 +15713,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600%^000000 l ^7777779x9 células^000000 l ^77777720^000000"
 	},
 	[SKID.AG_SOUL_VC_STRIKE] = {
-		"Espíritos Ancestrais ^777777(Soul Vulcan Strike)^000000",
+		"Espíritos Ancestrais",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Impacto Espiritual 5,",
 		"Perícia com Cajado de Duas Mãos 3^000000",
@@ -15748,7 +15748,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.250%^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.AG_ALL_BLOOM] = {
-		"Florescer ^777777(All Bloom)^000000",
+		"Florescer",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Vereda Floral Incandescente 3^000000",
@@ -15782,7 +15782,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^7777779x9 células^000000 l ^77777720^000000"
 	},
 	[SKID.AG_CRYSTAL_IMPACT] = {
-		"Cacos de Gelo ^777777(Crystal Impact)^000000",
+		"Cacos de Gelo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Cascata de Cristal 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15813,7 +15813,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777774.000%^000000 l ^77777715x15 células^000000"
 	},
 	[SKID.AG_TORNADO_STORM] = {
-		"Ciclone ^777777(Tornado Storm)^000000",
+		"Ciclone",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Corrente Elétrica 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15831,7 +15831,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777450%^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.AG_TWOHANDSTAFF] = {
-		"Perícia com Cajado de Duas Mãos ^777777(Two Staff)^000000",
+		"Perícia com Cajado de Duas Mãos",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -15849,7 +15849,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+20^000000"
 	},
 	[SKID.AG_FLORAL_FLARE_ROAD] = {
-		"Vereda Floral Incandescente ^777777(Floral Road)^000000",
+		"Vereda Floral Incandescente",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Meteoro Escarlate 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15867,7 +15867,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.AG_ASTRAL_STRIKE] = {
-		"Colisão Astral ^777777(Astral Strike)^000000",
+		"Colisão Astral",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Cometa 5,",
 		"Portal do Submundo 3, Projeção Maldita 3^000000",
@@ -15894,7 +15894,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777775.000%^000000 l ^77777711.000%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.AG_CLIMAX] = {
-		"Potencializar Magia ^777777(Climax)^000000",
+		"Potencializar Magia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Tetra Vortex 5",
 		"Perícia com Cajado de Duas Mãos 3^000000",
@@ -15914,7 +15914,7 @@ SKILL_DESCRIPT = {
 		"para mais detalhes sobre cada efeito.^000000"
 	},
 	[SKID.AG_ROCK_DOWN] = {
-		"Deslize de Pedras ^777777(Rock Down)^000000",
+		"Deslize de Pedras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Stratum Tremor 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15934,7 +15934,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.000%^000000 l ^7777774.250%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.AG_STORM_CANNON] = {
-		"Lufada de Vento ^777777(Storm Cannon)^000000",
+		"Lufada de Vento",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ciclone 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15954,7 +15954,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.000%^000000 l ^7777774.250%^000000"
 	},
 	[SKID.AG_CRIMSON_ARROW] = {
-		"Flecha Escarlate ^777777(Crimson Arrow)^000000",
+		"Flecha Escarlate",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Vereda Floral Incandescente 1^000000",
@@ -15977,7 +15977,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.500%^000000 l ^7777773.000%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.AG_FROZEN_SLASH] = {
-		"Gelo Cortante ^777777(Frozen Slash)^000000",
+		"Gelo Cortante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Cascata de Cristal 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -15997,7 +15997,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.000%^000000 l ^7777774.250%^000000 l ^77777713x13 células^000000"
 	},
 	[SKID.IQ_POWERFUL_FAITH] = {
-		"Mantra da Força ^777777(Powerful Faith)^000000",
+		"Mantra da Força",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Caminhos da Fé 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -16013,7 +16013,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+30^000000 l ^777777+15^000000 l ^777777240 segundos^000000"
 	},
 	[SKID.IQ_FIRM_FAITH] = {
-		"Mantra da Saúde ^777777(Firm Faith)^000000",
+		"Mantra da Saúde",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Caminhos da Fé 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -16029,7 +16029,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+10%^000000 l ^777777+40^000000 l ^777777240 segundos^000000"
 	},
 	[SKID.IQ_WILL_OF_FAITH] = {
-		"Caminhos da Fé ^777777(Will of Faith)^000000",
+		"Caminhos da Fé",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -16073,7 +16073,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.000%^000000 l ^7777777x7 células^000000 l ^7777777 segundos^000000"
 	},
 	[SKID.IQ_SINCERE_FAITH] = {
-		"Mantra da Energia ^777777(Sincere Faith)^000000",
+		"Mantra da Energia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Caminhos da Fé 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -16091,7 +16091,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+5^000000 l ^777777+20^000000 l ^777777240 segundos^000000"
 	},
 	[SKID.IQ_MASSIVE_F_BLASTER] = {
-		"Punho Labareda ^777777(Massive Flame Blaster)^000000",
+		"Punho Labareda",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisito: ^777777Técnica da Mão Explosiva 3",
 		"Oleum Sanctum 3, Caminhos da Fé 5^000000",
@@ -16123,7 +16123,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777778.000%^000000 l ^77777711.000%^000000"
 	},
 	[SKID.IQ_EXPOSION_BLASTER] = {
-		"Técnica da Mão Explosiva ^777777(Blaster)^000000",
+		"Técnica da Mão Explosiva",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Oleum Sanctum 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16144,7 +16144,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.250%^000000 l ^7777774.250%^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.IQ_FIRST_BRAND] = {
-		"Estigma ^777777(First Brand)^000000",
+		"Estigma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Caminhos da Fé 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16161,7 +16161,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.250%^000000 l ^7777775 segundos^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.IQ_FIRST_FAITH_POWER] = {
-		"Auréola do Poder ^777777(First Faith Power)^000000",
+		"Auréola do Poder",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Caminhos da Fé 3, Estigma 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -16177,7 +16177,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777300 segundos^000000"
 	},
 	[SKID.IQ_JUDGE] = {
-		"Auréola do Juiz ^777777(Judge)^000000",
+		"Auréola do Juiz",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Auréola do Poder 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -16195,7 +16195,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777300 segundos^000000"
 	},
 	[SKID.IQ_SECOND_FLAME] = {
-		"Palma Fervorosa ^777777(Second Flame)^000000",
+		"Palma Fervorosa",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Auréola das Chamas 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16218,7 +16218,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.750%^000000 l ^7777775 segundos^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.IQ_SECOND_FAITH] = {
-		"Golpe Pantocrator ^777777(Second Faith)^000000",
+		"Golpe Pantocrator",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Auréola do Poder 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16242,7 +16242,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500%^000000 l ^7777775 segundos^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.IQ_SECOND_JUDGEMENT] = {
-		"Toque Intercessor ^777777(Second Judgement)^000000",
+		"Toque Intercessor",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Auréola do Juiz 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16266,7 +16266,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.625%^000000 l ^7777775 segundos^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.IQ_THIRD_PUNISH] = {
-		"Soco Guilhotina ^777777(Third Punishment)^000000",
+		"Soco Guilhotina",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Golpe Pantocrator 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16289,7 +16289,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.250%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.IQ_THIRD_FLAME_BOMB] = {
-		"Fogueira Espiritual ^777777(Third Flame Bomb)^000000",
+		"Fogueira Espiritual",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Palma Fervorosa 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16314,7 +16314,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.250%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.IQ_THIRD_CONSECRATION] = {
-		"Veredicto ^777777(Third Consecration)^000000",
+		"Veredicto",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Toque Intercessor 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16336,7 +16336,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.250%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.IQ_THIRD_EXOR_FLAME] = {
-		"Auréola das Chamas ^777777(Third Exorcism Flame)^000000",
+		"Auréola das Chamas",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Auréola do Juiz 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -16354,7 +16354,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777300 segundos^000000"
 	},
 	[SKID.IG_GUARD_STANCE] = {
-		"Posição de Defesa ^777777(Guard Stance)^000000",
+		"Posição de Defesa",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Escudo 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -16373,7 +16373,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+300^000000 l ^777777-250^000000"
 	},
 	[SKID.IG_GUARDIAN_SHIELD] = {
-		"Escudo Guardião ^777777(Guardian Shield)^000000",
+		"Escudo Guardião",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Posição de Defesa 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -16394,7 +16394,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777250% do HP^000000"
 	},
 	[SKID.IG_REBOUND_SHIELD] = {
-		"Remissão ^777777(Rebound Shield)^000000",
+		"Remissão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Posição de Defesa 4^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -16411,7 +16411,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-50%^000000"
 	},
 	[SKID.IG_SHIELD_MASTERY] = {
-		"Perícia com Escudo ^777777(Shield Mastery)^000000",
+		"Perícia com Escudo",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -16430,7 +16430,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000"
 	},
 	[SKID.IG_SPEAR_SWORD_M] = {
-		"Maestria da Guarda ^777777(Spear Sword Mastery)^000000",
+		"Maestria da Guarda",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -16452,7 +16452,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000"
 	},
 	[SKID.IG_ATTACK_STANCE] = {
-		"Posição de Ataque ^777777(Attack Stance)^000000",
+		"Posição de Ataque",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria da Guarda 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -16469,7 +16469,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-200^000000 l ^777777+15^000000"
 	},
 	[SKID.IG_ULTIMATE_SACRIFICE] = {
-		"Ultimato ^777777(Ultimate Sacrifice)^000000",
+		"Ultimato",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Remissão 3,",
 		"    Escudo Guardião 3^000000",
@@ -16490,7 +16490,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^777777100 segundos^000000"
 	},
 	[SKID.IG_HOLY_SHIELD] = {
-		"Escudo Divino ^777777(Holy Shield)^000000",
+		"Escudo Divino",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Escudo 5,",
 		"    Crux Tempestas 3^000000",
@@ -16508,7 +16508,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+15%^000000 l ^777777+15%^000000"
 	},
 	[SKID.IG_GRAND_JUDGEMENT] = {
-		"Lança da Justiça ^777777(Grand Judgement)^000000",
+		"Lança da Justiça",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Golpe do Destino 5,",
 		"    Maestria da Guarda 5^000000",
@@ -16535,7 +16535,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777777.500%^000000 l ^77777711.000%^000000"
 	},
 	[SKID.IG_JUDGEMENT_CROSS] = {
-		"Crux Judicium ^777777(Judgement Cross)^000000",
+		"Crux Judicium",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777 Crux Tempestas 5,",
 		"    Escudo Divino 3^000000",
@@ -16559,7 +16559,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777777.500%^000000 l ^77777711.000%^000000"
 	},
 	[SKID.IG_SHIELD_SHOOTING] = {
-		"Arremessar Escudo ^777777(Shield Shooting)^000000",
+		"Arremessar Escudo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Escudo 5,",
 		"    Posição de Ataque 2^000000",
@@ -16582,7 +16582,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.000%^000000"
 	},
 	[SKID.IG_OVERSLASH] = {
-		"Golpe do Destino ^777777(Overslash)^000000",
+		"Golpe do Destino",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Posição de Ataque 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16607,7 +16607,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777800%^000000"
 	},
 	[SKID.IG_CROSS_RAIN] = {
-		"Crux Tempestas ^777777(Cross Rain)^000000",
+		"Crux Tempestas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Escudo 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16664,7 +16664,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710% do HP máx.^000000 l ^777777120 segundos^000000"
 	},
 	[SKID.CD_MACE_BOOK_M] = {
-		"Maestria Litúrgica ^777777(Mace & Book Mastery)^000000",
+		"Maestria Litúrgica",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -16817,7 +16817,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777240 segundos^000000 l ^777777100%^000000"
 	},
 	[SKID.CD_PNEUMATICUS_PROCELLA] = {
-		"Chuva Milagrosa ^777777(Pneumaticus Procella)^000000",
+		"Chuva Milagrosa",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Flamen 5, Arbitrium 10^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -16841,7 +16841,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.000%^000000 l ^7777773.000%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.CD_DILECTIO_HEAL] = {
-		"Prece Divina ^777777(Dilectio Heal)^000000",
+		"Prece Divina",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Sopro Divino 3, Curatio 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -16943,7 +16943,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500%^000000 l ^7777773.250%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SHC_SHADOW_EXCEED] = {
-		"Carrasco Sombrio ^777777(Shadow Exceed)^000000",
+		"Carrasco Sombrio",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Senso das Sombras 7,",
 		"Profanar Arma 5, Adulterar Veneno 3^000000",
@@ -16966,7 +16966,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777240 segundos^000000"
 	},
 	[SKID.SHC_DANCING_KNIFE] = {
-		"Adagas Voadoras ^777777(Dancing Knifes)^000000",
+		"Adagas Voadoras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Senso das Sombras 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -16986,7 +16986,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000 l ^777777120 segundos^000000"
 	},
 	[SKID.SHC_SAVAGE_IMPACT] = {
-		"Impacto Brutal ^777777(Savage Impact)^000000",
+		"Impacto Brutal",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Lâminas Retalhadoras 5,",
 		"    Senso das Sombras 3^000000",
@@ -17013,7 +17013,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^777777600%^000000"
 	},
 	[SKID.SHC_SHADOW_SENSE] = {
-		"Senso das Sombras ^777777(Shadow Sense)^000000",
+		"Senso das Sombras",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -17032,7 +17032,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+100^000000 l ^777777+50^000000 l ^777777+25^000000"
 	},
 	[SKID.SHC_ETERNAL_SLASH] = {
-		"Talho Eterno ^777777(Eternal Slash)^000000",
+		"Talho Eterno",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Reflexo de Combate 3,",
 		"Senso das Sombras 5, Adagas Voadoras 3^000000",
@@ -17053,7 +17053,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.750%^000000"
 	},
 	[SKID.SHC_POTENT_VENOM] = {
-		"Adulterar Veneno ^777777(Potent Venom)^000000",
+		"Adulterar Veneno",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Senso das Sombras 5,",
 		"    Profanar Arma 3^000000",
@@ -17074,7 +17074,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777730%^000000 l ^777777120 segundos^000000"
 	},
 	[SKID.SHC_SHADOW_STAB] = {
-		"Facada ^777777(Shadow Stab)^000000",
+		"Facada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Ocultação 5, Talho Eterno 3",
 		"Senso das Sombras 5, Adagas Voadoras 5^000000",
@@ -17095,7 +17095,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.750%^000000"
 	},
 	[SKID.SHC_IMPACT_CRATER] = {
-		"Impacto Cratera ^777777(Impact Crater)^000000",
+		"Impacto Cratera",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Lâminas de Loki 5,",
 		"Senso das Sombras 5, Impacto Brutal 5,",
@@ -17119,7 +17119,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777325%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SHC_ENCHANTING_SHADOW] = {
-		"Profanar Arma ^777777(Enchanting Shadow)^000000",
+		"Profanar Arma",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Aplicar Toxina 5,",
 		"    Senso das Sombras 3^000000",
@@ -17139,7 +17139,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775%^000000 l ^777777180 segundos^000000"
 	},
 	[SKID.SHC_FATAL_SHADOW_CROW] = {
-		"Revoada Sombria ^777777(Fatal Shadow Claw)^000000",
+		"Revoada Sombria",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Facada 5,",
 		"    Impacto Cratera 5^000000",
@@ -17166,7 +17166,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777776.500%^000000 l ^7777779.500%^000000"
 	},
 	[SKID.MT_AXE_STOMP] = {
-		"Machado Esmagador ^777777(Axe Stomp)^000000",
+		"Machado Esmagador",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Defesa com Machado 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17186,7 +17186,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.000%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.MT_RUSH_QUAKE] = {
-		"Avanço Sísmico ^777777(Rush Quake)^000000",
+		"Avanço Sísmico",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisito: ^777777Machado Esmagador 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17216,7 +17216,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777777.500%^000000 l ^77777711.000%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.MT_M_MACHINE] = {
-		"Criar Máquina ^777777(Manufacture Machine)^000000",
+		"Criar Máquina",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -17231,7 +17231,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777até 12 itens^000000"
 	},
 	[SKID.MT_A_MACHINE] = {
-		"Ativar Robô Atacante ^777777(Attack Machine)^000000",
+		"Ativar Robô Atacante",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Criar Máquina 3,",
 		"    Machado Esmagador 3^000000",
@@ -17250,7 +17250,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^777777240 segundos^000000"
 	},
 	[SKID.MT_D_MACHINE] = {
-		"Ativar Robô Defensor ^777777(Defense Machine)^000000",
+		"Ativar Robô Defensor",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Criar Máquina 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -17267,7 +17267,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+450^000000 l ^777777+100^000000 l ^777777240 segundos^000000"
 	},
 	[SKID.MT_TWOAXEDEF] = {
-		"Defesa com Machado ^777777(Twohand Axe Defense)^000000",
+		"Defesa com Machado",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -17286,7 +17286,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10%^000000 l ^777777+15%^000000 l ^777777+18%^000000"
 	},
 	[SKID.MT_ABR_M] = {
-		"Mecatrônica ^777777(ABR Mastery)^000000",
+		"Mecatrônica",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisito: ^777777Criar Máquina 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -17306,7 +17306,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777776.200^000000 l ^777777400.000^000000 l ^777777200^000000 l ^77777740^000000 l ^777777100^000000"
 	},
 	[SKID.MT_SUMMON_ABR_BATTLE_WARIOR] = {
-		"Fabricar Soldado ^777777(Battle Warrior)^000000",
+		"Fabricar Soldado",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisito: ^777777Mecatrônica 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -17324,7 +17324,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^777777300 segundos^000000"
 	},
 	[SKID.MT_SUMMON_ABR_DUAL_CANNON] = {
-		"Fabricar Canhoneiro ^777777(Dual Cannon)^000000",
+		"Fabricar Canhoneiro",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisito: ^777777Mecatrônica 3,",
 		"    Fabricar Soldado 2^000000",
@@ -17342,7 +17342,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^777777300 segundos^000000"
 	},
 	[SKID.MT_SUMMON_ABR_MOTHER_NET] = {
-		"Fabricar Curandeira ^777777(Mother Net)^000000",
+		"Fabricar Curandeira",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisito: ^777777Mecatrônica 5,",
 		"Fabricar Soldado 3, Fabricar Canhoneiro 3^000000",
@@ -17360,7 +17360,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^777777300 segundos^000000"
 	},
 	[SKID.MT_SUMMON_ABR_INFINITY] = {
-		"Fabricar Escoteiro ^777777(Infinity)^000000",
+		"Fabricar Escoteiro",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisito: ^777777Mecatrônica 10,",
 		"Fabricar Soldado 4, Fabricar Canhoneiro 4",
@@ -17379,7 +17379,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^777777300 segundos^000000"
 	},
 	[SKID.ABC_DAGGER_AND_BOW_M] = {
-		"Versatilidade ^777777(Dagger & Bow Mastery)^000000",
+		"Versatilidade",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -17398,7 +17398,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10%^000000 l ^777777+15%^000000 l ^777777+20%^000000"
 	},
 	[SKID.ABC_MAGIC_SWORD_M] = {
-		"Lâmina Mágica ^777777(Magic Sword Mastery)^000000",
+		"Lâmina Mágica",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Mimetismo 5,",
 		"    Desejo das Sombras 5^000000",
@@ -17419,7 +17419,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+15%^000000 l ^777777+15%^000000 l ^777777+15%^000000"
 	},
 	[SKID.ABC_STRIP_SHADOW] = {
-		"Remoção Sombria Total ^777777(Strip Shadow)^000000",
+		"Remoção Sombria Total",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Remover Acessório 1,",
 		"    Versatilidade 7^000000",
@@ -17437,7 +17437,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777740%^000000 l ^777777100 segundos^000000"
 	},
 	[SKID.ABC_ABYSS_DAGGER] = {
-		"Ofensiva Abissal ^777777(Abyss Dagger)^000000",
+		"Ofensiva Abissal",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Ofensiva Fatal 5,",
 		"    Versatilidade 3^000000",
@@ -17458,7 +17458,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.750%^000000 l ^77777715 segundos^000000"
 	},
 	[SKID.ABC_UNLUCKY_RUSH] = {
-		"Salto Revés ^777777(Unluck Rush)^000000",
+		"Salto Revés",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Ofensiva Abissal 3,",
 		"    Versatilidade 4^000000",
@@ -17476,7 +17476,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.600%^000000 l ^77777780%^000000"
 	},
 	[SKID.ABC_CHAIN_REACTION_SHOT] = {
-		"Disparo em Cadeia ^777777(Chain Reaction Shot)^000000",
+		"Disparo em Cadeia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777 Disparo Triplo 5,",
 		"    Versatilidade 3^000000",
@@ -17498,7 +17498,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.000%^000000 l ^7777774.750%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.ABC_FROM_THE_ABYSS] = {
-		"Invocação do Abismo ^777777(From the Abyss)^000000",
+		"Invocação do Abismo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Lâmina Mágica 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -17519,7 +17519,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^777777150 segundos^000000 l ^7777771,0 segundos^000000"
 	},
 	[SKID.ABC_ABYSS_SLAYER] = {
-		"Sangue-Frio ^777777(Abyss Slayer)^000000",
+		"Sangue-Frio",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisito: ^777777Esfaquear 5,",
 		"    Ofensiva Abissal 5^000000",
@@ -17541,7 +17541,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000 l ^777777+30^000000 l ^777777+300^000000"
 	},
 	[SKID.ABC_ABYSS_STRIKE] = {
-		"Meteoro Ômega ^777777(Omega Abyss Strike)^000000",
+		"Meteoro Ômega",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Invocação do Abismo 3,",
 		"    Fenda do Abismo 3^000000",
@@ -17565,7 +17565,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777776.000%^000000 l ^77777711.500%^000000"
 	},
 	[SKID.ABC_DEFT_STAB] = {
-		"Esfaquear ^777777(Deft Stab)^000000",
+		"Esfaquear",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisito: ^777777Ofensiva Abissal 3,",
 		"    Versatilidade 5^000000",
@@ -17590,7 +17590,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.600%^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.ABC_ABYSS_SQUARE] = {
-		"Fenda do Abismo ^777777(Abyss Square)^000000",
+		"Fenda do Abismo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Invocação do Abismo 1,",
 		"    Lâmina Mágica 5^000000",
@@ -17614,7 +17614,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.250 + (Nv. Lâmina Mágica x 75)%^000000"
 	},
 	[SKID.ABC_FRENZY_SHOT] = {
-		"Rajada Frenética ^777777(Frenzy Shot)^000000",
+		"Rajada Frenética",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisito: ^777777Disparo em Cadeia 3,",
 		"    Versatilidade 5^000000",
@@ -17641,7 +17641,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.500%^000000 l ^77777750%^000000"
 	},
 	[SKID.WH_ADVANCED_TRAP] = {
-		"Armadilha Avançada ^777777(Advanced Trap)^000000",
+		"Armadilha Avançada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Armadilha 3^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -17659,7 +17659,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777715 segundos^000000 l ^777777+100%^000000 l ^777777+1^000000"
 	},
 	[SKID.WH_WIND_SIGN] = {
-		"Sinal do Vento ^777777(Wind Sign)^000000",
+		"Sinal do Vento",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Amigo da Natureza 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -17676,7 +17676,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777760 segundos^000000 l ^77777740%^000000"
 	},
 	[SKID.WH_NATUREFRIENDLY] = {
-		"Amigo da Natureza ^777777(Nature Friendly)^000000",
+		"Amigo da Natureza",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -17692,7 +17692,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100%^000000"
 	},
 	[SKID.WH_HAWKRUSH] = {
-		"Mergulho Aéreo ^777777(Hawk Rush)^000000",
+		"Mergulho Aéreo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Chamar Ave 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17715,7 +17715,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000"
 	},
 	[SKID.WH_HAWK_M] = {
-		"Chamar Ave ^777777(Hawk Mastery)^000000",
+		"Chamar Ave",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Garras de Aço 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -17727,7 +17727,7 @@ SKILL_DESCRIPT = {
 		"^000088Precisa de 1 Flauta de Águia.^000000"
 	},
 	[SKID.WH_CALAMITYGALE] = {
-		"Ventos Sinistros ^777777(Calamity Gale)^000000",
+		"Ventos Sinistros",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Vendaval de Flechas 5,",
 		"    Sinal do Vento 5^000000",
@@ -17745,7 +17745,7 @@ SKILL_DESCRIPT = {
 		"possível conjurar [Ventos Sinistros].^000000"
 	},
 	[SKID.WH_HAWKBOOMERANG] = {
-		"Aterrissagem ^777777(Hawk Boomerang)^000000",
+		"Aterrissagem",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Mergulho Aéreo 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17767,7 +17767,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500%^000000 l ^7777773.750%^000000"
 	},
 	[SKID.WH_GALESTORM] = {
-		"Vendaval de Flechas ^777777(Gale Storm)^000000",
+		"Vendaval de Flechas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Tiro Crescente 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17794,7 +17794,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.500%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.WH_DEEPBLINDTRAP] = {
-		"Armadilha Sombria ^777777(Deep Blind Trap)^000000",
+		"Armadilha Sombria",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Avançada 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17814,7 +17814,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.250%^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.WH_SOLIDTRAP] = {
-		"Armadilha Terrestre ^777777(Solid Trap)^000000",
+		"Armadilha Terrestre",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Avançada 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17834,7 +17834,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.250%^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.WH_SWIFTTRAP] = {
-		"Armadilha Zéfira ^777777(Swift Trap)^000000",
+		"Armadilha Zéfira",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Sombria 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17854,7 +17854,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.250%^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.WH_CRESCIVE_BOLT] = {
-		"Tiro Crescente ^777777(Crescive Bolt)^000000",
+		"Tiro Crescente",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Disparo Certeiro 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17882,7 +17882,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.000%^000000"
 	},
 	[SKID.WH_FLAMETRAP] = {
-		"Armadilha Ardente ^777777(Flame Trap)^000000",
+		"Armadilha Ardente",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Armadilha Terrestre 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -17902,7 +17902,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.250%^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.BO_BIONIC_PHARMACY] = {
-		"Manipular Poção ^777777(Bionic Pharmacy)^000000",
+		"Manipular Poção",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Farmacologia Avançada 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -17925,7 +17925,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777Até 15 poções^000000"
 	},
 	[SKID.BO_BIONICS_M] = {
-		"Botânica ^777777(Bionic Mastery)^000000",
+		"Botânica",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -17954,7 +17954,7 @@ SKILL_DESCRIPT = {
 		"            ^777777+200^000000 l ^777777+40^000000 l ^777777+100^000000"
 	},
 	[SKID.BO_THE_WHOLE_PROTECTION] = {
-		"Proteção Química Coletiva ^777777(Protection)^000000",
+		"Proteção Química Coletiva",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Manipular Poção 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -17973,7 +17973,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777731x31 células^000000 l ^777777180 segundos^000000"
 	},
 	[SKID.BO_ADVANCE_PROTECTION] = {
-		"Proteção Sombria Total ^777777(Full Shadow)^000000",
+		"Proteção Sombria Total",
 		"Nível máximo: ^7777774^000000",
 		"Pré-requisitos: ^777777Manipular Poção 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -17990,7 +17990,7 @@ SKILL_DESCRIPT = {
 		"[Nv 4]: ^77777760 segundos^000000 l ^7777773^000000"
 	},
 	[SKID.BO_ACIDIFIED_ZONE_WATER] = {
-		"Atirar Ácido Álgido ^777777(Zone Water)^000000",
+		"Atirar Ácido Álgido",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Atirar Ácido Gasoso 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18011,7 +18011,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^7777775^000000 l ^7777772.000%^000000"
 	},
 	[SKID.BO_ACIDIFIED_ZONE_GROUND] = {
-		"Atirar Ácido Sólido ^777777(Zone Ground)^000000",
+		"Atirar Ácido Sólido",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Botânica 3,",
 		"    Manipular Poção 5^000000",
@@ -18033,7 +18033,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^7777775^000000 l ^7777772.000%^000000"
 	},
 	[SKID.BO_ACIDIFIED_ZONE_WIND] = {
-		"Atirar Ácido Gasoso ^777777(Zone Wind)^000000",
+		"Atirar Ácido Gasoso",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Botânica 3,",
 		"    Manipular Poção 5^000000",
@@ -18055,7 +18055,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^7777775^000000 l ^7777772.000%^000000"
 	},
 	[SKID.BO_ACIDIFIED_ZONE_FIRE] = {
-		"Atirar Ácido Inflamável ^777777(Zone Fire)^000000",
+		"Atirar Ácido Inflamável",
 		"Nível máximo: ^7777775",
 		"Pré-requisitos: ^777777Atirar Ácido Sólido 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18076,7 +18076,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777777x7 células^000000 l ^7777775^000000 l ^7777772.000%^000000"
 	},
 	[SKID.BO_WOODENWARRIOR] = {
-		"Cultivar Bárbaro ^777777(Wooden Warrior)^000000",
+		"Cultivar Bárbaro",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Cultivar Vinha 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18094,7 +18094,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777360 segundos^000000"
 	},
 	[SKID.BO_WOODEN_FAIRY] = {
-		"Cultivar Fada ^777777(Wooden Fairy)^000000",
+		"Cultivar Fada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Cultivar Vinha 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18112,7 +18112,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777360 segundos^000000"
 	},
 	[SKID.BO_CREEPER] = {
-		"Cultivar Vinha ^777777(Creeper)^000000",
+		"Cultivar Vinha",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Botânica 5^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18129,7 +18129,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777360 segundos^000000"
 	},
 	[SKID.BO_RESEARCHREPORT] = {
-		"Eureka ^777777(Research Report)^000000",
+		"Eureka",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos:",
 		"    ^777777Atirar Ácido Inflamável 3,",
@@ -18151,7 +18151,7 @@ SKILL_DESCRIPT = {
 		"Atirar Ácido Inflamável^000000"
 	},
 	[SKID.BO_HELLTREE] = {
-		"Cultivar Árvore Infernal ^777777(Hell Tree)^000000",
+		"Cultivar Árvore Infernal",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Cultivar Fada 3,",
 		"    Cultivar Bárbaro 3^000000",
@@ -18173,7 +18173,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777180 segundos^000000 l ^77777760^000000"
 	},
 	[SKID.TR_STAGE_MANNER] = {
-		"Presença de Palco ^777777(Stage Manner)^000000",
+		"Presença de Palco",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -18189,7 +18189,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+15^000000"
 	},
 	[SKID.TR_RETROSPECTION] = {
-		"Retrospectiva ^777777(Retrospection)^000000",
+		"Retrospectiva",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Presença de Palco 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18199,7 +18199,7 @@ SKILL_DESCRIPT = {
 		"ativar e regenerando x1,5 mais de AP.^000000"
 	},
 	[SKID.TR_MYSTIC_SYMPHONY] = {
-		"Sinfonia Mística ^777777(Mystic Symphony)^000000",
+		"Sinfonia Mística",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisito: ^777777Atirar Rosas 5,",
 		"    Fúria Estridente 1^000000",
@@ -18215,7 +18215,7 @@ SKILL_DESCRIPT = {
 		"Atirar Rosas^000000"
 	},
 	[SKID.TR_KVASIR_SONATA] = {
-		"Sonata de Kvasir ^777777(Kvasir Sonata)^000000",
+		"Sonata de Kvasir",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Caprichos de Loki 1,",
 		"    Réquiem de Niflheim 1^000000",
@@ -18229,7 +18229,7 @@ SKILL_DESCRIPT = {
 		"ainda é necessário estar em um grupo.^000000"
 	},
 	[SKID.TR_ROSEBLOSSOM] = {
-		"Atirar Rosas ^777777(Rose Blossom)^000000",
+		"Atirar Rosas",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Disparo Rítmico 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18252,7 +18252,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.750%^000000 l ^7777771.750%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.TR_RHYTHMSHOOTING] = {
-		"Disparo Rítmico ^777777(Rhythm Shooting)^000000",
+		"Disparo Rítmico",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Regen. de AP: ^0054FF1 ~ 2^000000",
@@ -18271,7 +18271,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600% x 3^000000 l ^7777772^000000"
 	},
 	[SKID.TR_METALIC_FURY] = {
-		"Fúria Estridente ^777777(Metalic Fury)^000000",
+		"Fúria Estridente",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Arranjo Musical 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18293,7 +18293,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777774.500%^000000 l ^7777777x7 células^000000 l ^7777773^000000"
 	},
 	[SKID.TR_SOUNDBLEND] = {
-		"Arranjo Musical ^777777(Sound Blend)^000000",
+		"Arranjo Musical",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisito: ^777777Ruído Estridente 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18317,7 +18317,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600%^000000 l ^77777720 segundos^000000 l ^7777772^000000"
 	},
 	[SKID.TR_GEF_NOCTURN] = {
-		"Recital de Geffenia ^777777(Geffenia Nocturne)^000000",
+		"Recital de Geffenia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Presença de Palco 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18338,7 +18338,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777723x23 células^000000"
 	},
 	[SKID.TR_ROKI_CAPRICCIO] = {
-		"Caprichos de Loki ^777777(Loki Capriccio)^000000",
+		"Caprichos de Loki",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Serenata de Jawaii 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18359,7 +18359,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777723x23 células^000000"
 	},
 	[SKID.TR_AIN_RHAPSODY] = {
-		"Rapsódia do Minerador ^777777(Miner Rhapsody)^000000",
+		"Rapsódia do Minerador",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Presença de Palco 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18380,7 +18380,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777723x23 células^000000"
 	},
 	[SKID.TR_MUSICAL_INTERLUDE] = {
-		"Interlúdio ^777777(Musical Interlude)^000000",
+		"Interlúdio",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Rapsódia do Minerador 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -18400,7 +18400,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+30^000000 l ^77777723x23 células^000000"
 	},
 	[SKID.TR_JAWAII_SERENADE] = {
-		"Serenata de Jawaii ^777777(Jawaii Serenade)^000000",
+		"Serenata de Jawaii",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Recital de Geffenia 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -18420,7 +18420,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+15^000000 l ^77777723x23 células^000000"
 	},
 	[SKID.TR_NIPELHEIM_REQUIEM] = {
-		"Réquiem de Niflheim ^777777(Niflheim Requiem)^000000",
+		"Réquiem de Niflheim",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Interlúdio 1,",
 		"    Marcha de Prontera 1^000000",
@@ -18442,7 +18442,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777723x23 células^000000"
 	},
 	[SKID.TR_PRON_MARCH] = {
-		"Marcha de Prontera ^777777(Prontera March)^000000",
+		"Marcha de Prontera",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Rapsódia do Minerador 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -18462,7 +18462,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+15^000000 l ^77777723x23 células^000000"
 	},
 	[SKID.EM_MAGIC_BOOK_M] = {
-		"Estudo Elemental ^777777(Magic Book Mastery)^000000",
+		"Estudo Elemental",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -18482,7 +18482,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10%^000000"
 	},
 	[SKID.EM_SPELL_ENCHANTING] = {
-		"Enfeitiçar ^777777(Spell Enchanting)^000000",
+		"Enfeitiçar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estudo Elemental 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -18498,7 +18498,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20^000000 l ^777777240 segundos^000000"
 	},
 	[SKID.EM_ACTIVITY_BURN] = {
-		"Exaurir ^777777(AP Burn)^000000",
+		"Exaurir",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Enfeitiçar 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18513,7 +18513,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777-70^000000 l ^77777770%^000000"
 	},
 	[SKID.EM_INCREASING_ACTIVITY] = {
-		"Canalizar Energia ^777777(Increase AP)^000000",
+		"Canalizar Energia",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Exaurir 5^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -18528,7 +18528,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777750^000000"
 	},
 	[SKID.EM_DIAMOND_STORM] = {
-		"Execução Aurora ^777777(Diamond Storm)^000000",
+		"Execução Aurora",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estudo Elemental 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18547,7 +18547,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777776.250%^000000 l ^77777712.250%^000000 l ^77777790%^000000"
 	},
 	[SKID.EM_LIGHTNING_LAND] = {
-		"Tormenta ^777777(Lightning Land)^000000",
+		"Tormenta",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estudo Elemental 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18568,7 +18568,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.000%^000000 l ^7777774.000%^000000 l ^77777760%^000000"
 	},
 	[SKID.EM_VENOM_SWAMP] = {
-		"Poço Venenoso ^777777(Venom Swamp)^000000",
+		"Poço Venenoso",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estudo Elemental 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18588,7 +18588,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.000%^000000 l ^7777774.000%^000000 l ^77777760%^000000"
 	},
 	[SKID.EM_CONFLAGRATION] = {
-		"Conflagração ^000000(Conflagration)^000000",
+		"Conflagração",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estudo Elemental 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18608,7 +18608,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.000%^000000 l ^7777774.000%^000000 l ^77777760%^000000"
 	},
 	[SKID.EM_TERRA_DRIVE] = {
-		"Tremor de Terra ^777777(Terra Drive)^000000",
+		"Tremor de Terra",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Estudo Elemental 2^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -18627,7 +18627,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777776.250%^000000 l ^77777712.250%^000000 l ^77777790%^000000"
 	},
 	[SKID.EM_ELEMENTAL_SPIRIT_M] = {
-		"Maestria Elemental ^777777(Elemental Mastery)^000000",
+		"Maestria Elemental",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Empatia Elemental 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -18657,7 +18657,7 @@ SKILL_DESCRIPT = {
 		"            ^777777+200^000000 l ^777777+40^000000 l ^777777+100^000000"
 	},
 	[SKID.EM_SUMMON_ELEMENTAL_ARDOR] = {
-		"Invocar Ardor ^777777(Summon Ardor)^000000",
+		"Invocar Ardor",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Invocar Agni 3,",
 		"    Maestria Elemental 1, Conflagração 1^000000",
@@ -18676,7 +18676,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Pedra da Chama.^000000"
 	},
 	[SKID.EM_SUMMON_ELEMENTAL_DILUVIO] = {
-		"Invocar Diluvium ^777777(Summon Diluvio)^000000",
+		"Invocar Diluvium",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Invocar Varuna 3,",
 		"    Maestria Elemental 1,",
@@ -18696,7 +18696,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Pedra da Água.^000000"
 	},
 	[SKID.EM_SUMMON_ELEMENTAL_PROCELLA] = {
-		"Invocar Procella ^777777(Summon Procella)^000000",
+		"Invocar Procella",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Invocar Vayu 3,",
 		"    Maestria Elemental 1, Tormenta 1^000000",
@@ -18715,7 +18715,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Pedra do Trovão.^000000"
 	},
 	[SKID.EM_SUMMON_ELEMENTAL_TERREMOTUS] = {
-		"Invocar Terremotus ^777777(Summon Terremotus)^000000",
+		"Invocar Terremotus",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Invocar Chandra 3,",
 		"    Maestria Elemental 1,",
@@ -18735,7 +18735,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Pedra da Folha.^000000"
 	},
 	[SKID.EM_SUMMON_ELEMENTAL_SERPENS] = {
-		"Invocar Serpens ^777777(Summon Serpens)^000000",
+		"Invocar Serpens",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Invocar Varuna 3,",
 		"    Invocar Agni 3, Invocar Vayu 3,",
@@ -18756,7 +18756,7 @@ SKILL_DESCRIPT = {
 		"^000088Consome 1 Pedra do Veneno.^000000"
 	},
 	[SKID.EM_ELEMENTAL_BUSTER] = {
-		"Círculo Elemental ^777777(Elemental Buster)^000000",
+		"Círculo Elemental",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Invocar Terremotus 1,",
 		"    Invocar Ardor 1, Invocar Procella 1,",
@@ -18783,7 +18783,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.800%^000000 l ^77777711.000%^000000"
 	},
 	[SKID.EM_ELEMENTAL_VEIL] = {
-		"Véu Elemental ^777777(Elemental Veil)^000000",
+		"Véu Elemental",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Elemental 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18799,7 +18799,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777240 segundos^000000"
 	},
 	[SKID.NW_P_F_I] = {
-		"A.D.P ^777777(Arma de Defesa Pessoal)^000000",
+		"A.D.P",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -18817,7 +18817,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^777777+12^000000"
 	},
 	[SKID.NW_GRENADE_MASTERY] = {
-		"Perícia com Explosivos ^777777(Grenade Mastery)^000000",
+		"Perícia com Explosivos",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -18836,7 +18836,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^777777+10^000000"
 	},
 	[SKID.NW_INTENSIVE_AIM] = {
-		"Mira Focalizada ^777777(Intensive Aim)^000000",
+		"Mira Focalizada",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777A.D.P 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -18846,13 +18846,13 @@ SKILL_DESCRIPT = {
 		"um máximo de 10 pontos de foco.",
 		"Nesse estado, garante:",
 		"     ATQ +150.",
-		"     CRIT +30.",
+		"     CRÍT +30.",
 		"     Precisão +250.",
 		"Sofrer empurrão ou usar a habilidade",
 		"novamente, cancelará seu foco.^000000"
 	},
 	[SKID.NW_GRENADE_FRAGMENT] = {
-		"Fragmentação ^777777(Grenade Fragment)^000000",
+		"Fragmentação",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Perícia com Explosivos 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -18869,7 +18869,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7]: ^777777Remove o efeito^000000"
 	},
 	[SKID.NW_THE_VIGILANTE_AT_NIGHT] = {
-		"Vigília Noturna ^777777(The Vigilante at Night)^000000",
+		"Vigília Noturna",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777A.D.P 3",
 		"   Mira Focalizada 1^000000",
@@ -18901,7 +18901,7 @@ SKILL_DESCRIPT = {
 		"        ^7777774.300 + (Pts. x1.000)%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.NW_ONLY_ONE_BULLET] = {
-		"Tiro Único ^777777(Only One Bullet)^000000",
+		"Tiro Único",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777A.D.P 3",
 		"     Mira Focalizada 1^000000",
@@ -18913,8 +18913,8 @@ SKILL_DESCRIPT = {
 		"de acordo com a arma de fogo equipada.^000000",
 		"Pistola: ^777777Ignora DEF.^000000",
 		"Rifle: ^777777Tem possibilidade do ataque",
-		"    ser crítico. A chance é a metade do",
-		"    CRIT do usuário.^000000",
+		"    ser crítico. A chance é igual",
+		"    ao CRIT do usuário.^000000",
 		"^777777Se tiver Pontos de Foco, eles serão",
 		"consumidos e o dano é aumentado pelo",
 		"maior número de Pontos acumulados.",
@@ -18933,7 +18933,7 @@ SKILL_DESCRIPT = {
 		"            ^7777776.500 + (Pts. x1.250)%^000000"
 	},
 	[SKID.NW_SPIRAL_SHOOTING] = {
-		"Atirar em Espiral ^777777(Spiral Shooting)^000000",
+		"Atirar em Espiral",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777A.D.P 3",
 		"    Mira Focalizada 1^000000",
@@ -18946,8 +18946,8 @@ SKILL_DESCRIPT = {
 		"com a arma de fogo equipada.^000000",
 		"Lança-Granadas: ^777777Dispara 2x^000000",
 		"Rifle: ^777777Tem possibilidade do ataque",
-		"    ser crítico. A chance é a metade do",
-		"    CRIT do usuário.^000000",
+		"    ser crítico. A chance é igual",
+		"    ao CRIT do usuário.^000000",
 		"^777777Se tiver Pontos de Foco, eles serão",
 		"consumidos e o dano é aumentado pelo",
 		"maior número de Pontos acumulados.",
@@ -18966,7 +18966,7 @@ SKILL_DESCRIPT = {
 		"        ^7777774.900 + (Pts. x750)%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.NW_MAGAZINE_FOR_ONE] = {
-		"Artilharia Pesada ^777777(Magazine for One)^000000",
+		"Artilharia Pesada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777A.D.P 3",
 		"    Mira Focalizada 1^000000",
@@ -18979,8 +18979,8 @@ SKILL_DESCRIPT = {
 		"    consome 40 Projéteis^000000",
 		"Pistola: ^777777Dispara 6x e",
 		"    tem possibilidade do ataque",
-		"    ser crítico. A chance é a metade do",
-		"    CRIT do usuário.",
+		"    ser crítico. A chance é igual",
+		"    ao CRIT do usuário.",
 		"    Consome 6 Projéteis^000000",
 		"^777777Se tiver Pontos de Foco, eles serão",
 		"consumidos e o dano é aumentado pelo",
@@ -19000,7 +19000,7 @@ SKILL_DESCRIPT = {
 		"        ^7777772.100 + (Pts. x250)%^000000"
 	},
 	[SKID.NW_WILD_FIRE] = {
-		"Fogo de Supressão ^777777(Wild Fire)^000000",
+		"Fogo de Supressão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777A.D.P 3",
 		"    Mira Focalizada 1^000000",
@@ -19008,11 +19008,11 @@ SKILL_DESCRIPT = {
 		"Regen. de AP: ^0054FF1^000000",
 		"Descrição:",
 		"^008080Apenas Lança-Granadas e Espingarda.^000000",
-		"Mira no chão para causar um incêndio.",
+		"^777777Mira no chão para causar um incêndio.",
 		"Causa dano físico a distância nos alvos.",
 		"A arma usada fornece efeitos diferentes.^000000",
-		"Espingarda: ^777777Maior área^000000",
-		"Lança-Granadas: ^777777Maior dano^000000",
+		"Espingarda: ^777777Maior dano^000000",
+		"Lança-Granadas: ^777777Maior área^000000",
 		"^777777Se tiver Pontos de Foco, eles serão",
 		"consumidos e o dano é aumentado pelo",
 		"maior número de Pontos acumulados.",
@@ -19032,7 +19032,7 @@ SKILL_DESCRIPT = {
 		"        ^7777777.000 + (Pts. x2.500)%^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.NW_BASIC_GRENADE] = {
-		"Arremessar Explosivo ^777777(Basic Grenade)^000000",
+		"Arremessar Explosivo",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Explosivos 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -19052,13 +19052,13 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777775.500%^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.NW_HASTY_FIRE_IN_THE_HOLE] = {
-		"Explosão Gradual ^777777(Hasty Fire in the Hole)^000000",
+		"Explosão Gradual",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Explosivos 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Regen. de AP: ^0054FF1^000000",
 		"Descrição:",
-		"^777777Atira explosivos no chão, causano 3 danos",
+		"^777777Atira explosivos no chão, causando 3 danos",
 		"físicos a distância entre 0,3 segundos.",
 		"A primeira explosão atinge 5x5 células.",
 		"A segunda explosão atinge 7x7 células.",
@@ -19075,7 +19075,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777776.000%^000000"
 	},
 	[SKID.NW_GRENADES_DROPPING] = {
-		"Detonação Total ^777777(Grenades Dropping)^000000",
+		"Detonação Total",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Explosão Gradual 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -19104,7 +19104,7 @@ SKILL_DESCRIPT = {
 		"        ^7777775x5 células^000000 l ^7777773^000000"
 	},
 	[SKID.NW_AUTO_FIRING_LAUNCHER] = {
-		"Disparo Automático ^777777(Auto Firing Launcher)^000000",
+		"Disparo Automático",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Detonação Total 3^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -19129,7 +19129,7 @@ SKILL_DESCRIPT = {
 		"        ^7777773% - Detonação Total^000000"
 	},
 	[SKID.NW_HIDDEN_CARD] = {
-		"Carta na Manga ^777777(Hidden Card)^000000",
+		"Carta na Manga",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777A.D.P 5",
 		"     Mira Focalizada 1^000000",
@@ -19151,7 +19151,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^777777+100%^000000 l ^777777+30^000000"
 	},
 	[SKID.NW_MISSION_BOMBARD] = {
-		"Bombardeio ^777777(Mission Bombard)^000000",
+		"Bombardeio",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Explosivos 5",
 		"    Detonação Total 3^000000",
@@ -19188,7 +19188,7 @@ SKILL_DESCRIPT = {
 		"        ^7777772.800 + (P. com Explosivos x 30)%^000000"
 	},
 	[SKID.SOA_TALISMAN_MASTERY] = {
-		"Perícia com Talismãs ^777777(Talisman Mastery)^000000",
+		"Perícia com Talismãs",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -19207,7 +19207,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^777777+10^000000"
 	},
 	[SKID.SOA_SOUL_MASTERY] = {
-		"Maestria com Almas ^777777(Soul Mastery)^000000",
+		"Maestria com Almas",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -19226,7 +19226,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^777777+10^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_PROTECTION] = {
-		"Talismã do Protetor ^777777(Protection)^000000",
+		"Talismã do Protetor",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Talismãs 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -19246,7 +19246,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500^000000 l ^777777x250^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_WARRIOR] = {
-		"Talismã do Guerreiro ^777777(Warrior)^000000",
+		"Talismã do Guerreiro",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Talismãs 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -19264,7 +19264,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+10^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_MAGICIAN] = {
-		"Talismã do Mago ^777777(Magician)^000000",
+		"Talismã do Mago",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Talismãs 1^000000",
 		"Tipo: ^777777Ativa^000000",
@@ -19283,7 +19283,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+10^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SOA_SOUL_GATHERING] = {
-		"Convocar Almas ^777777(Soul Gathering)^000000",
+		"Convocar Almas",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Almas 5",
 		"    Maestria com Almas 3^000000",
@@ -19301,7 +19301,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771 segundos^000000"
 	},
 	[SKID.SOA_TOTEM_OF_TUTELARY] = {
-		"Totem de Tutela ^777777(Totem of Tutelary)^000000",
+		"Totem de Tutela",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Talismãs 3",
 		"    Maestria com Almas 3^000000",
@@ -19328,7 +19328,7 @@ SKILL_DESCRIPT = {
 		"            ^777777250^000000 l ^777777x25^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_FIVE_ELEMENTS] = {
-		"Talismã dos Elementos ^777777(Five Elements)^000000",
+		"Talismã dos Elementos",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Talismãs 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -19347,7 +19347,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+20%^000000 l ^777777300 segundos^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_SOUL_STEALING] = {
-		"Talismã do Ceifeiro ^777777(Soul Stealing)^000000",
+		"Talismã do Ceifeiro",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Perícia com Talismãs 1",
 		"    Maestria com Almas 1^000000",
@@ -19357,7 +19357,7 @@ SKILL_DESCRIPT = {
 		"Inflige dano mágico de propriedade Neutro",
 		"e regenera uma parcela de SP do usuário.",
 		"O dano é afetado pelo nível de base, de",
-		"Perícia com Talismãs, de Mestria com Almas",
+		"Perícia com Talismãs, de Maestria com Almas",
 		"e de FEI. A propriedade do ataque pode",
 		"ser alterada pelo nível de Brisa Leve.^000000",
 		"^000088Consome 1 Talismã Espiritual.^000000",
@@ -19369,7 +19369,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.500%^000000 l ^777777x35^000000"
 	},
 	[SKID.SOA_EXORCISM_OF_MALICIOUS_SOUL] = {
-		"Exorcizar Assombração ^777777(Malicious Soul)^000000",
+		"Exorcizar Assombração",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Necromancia 5",
 		"    Convocar Almas 1^000000",
@@ -19383,7 +19383,7 @@ SKILL_DESCRIPT = {
 		"A quantidade de ataques varia de acordo",
 		"com o número de Almas consumidas.",
 		"O dano é afetado pelo nível de base, de",
-		"Mestria com Almas e de FEI.",
+		"Maestria com Almas e de FEI.",
 		"A propriedade do ataque pode ser",
 		"alterada pelo nível de Brisa Leve.^000000",
 		"^000088Consome todas as Almas.^000000",
@@ -19395,7 +19395,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777750%^000000 l ^7777771.250%^000000 l ^77777713x13 células^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_BLUE_DRAGON] = {
-		"Talismã do Dragão ^777777(Blue Dragon)^000000",
+		"Talismã do Dragão",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Talismã do Ceifeiro 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -19418,7 +19418,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777774.500%^000000 l ^7777776.750%^000000 l ^777777x75^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_WHITE_TIGER] = {
-		"Talismã do Tigre ^777777(White Tiger)^000000",
+		"Talismã do Tigre",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Talismã do Dragão 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -19448,7 +19448,7 @@ SKILL_DESCRIPT = {
 		"           ^777777x75^000000 l  ^77777715x15 células^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_RED_PHOENIX] = {
-		"Talismã da Fênix ^777777(Red Phoenix)^000000",
+		"Talismã da Fênix",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Talismã do Tigre 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -19478,7 +19478,7 @@ SKILL_DESCRIPT = {
 		"            ^777777x75^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_BLACK_TORTOISE] = {
-		"Talismã do Jabuti ^777777(Black Tortoise)^000000",
+		"Talismã do Jabuti",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Talismã da Fênix 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -19508,7 +19508,7 @@ SKILL_DESCRIPT = {
 		"            ^777777x75^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.SOA_TALISMAN_OF_FOUR_BEARING_GOD] = {
-		"Talismã das Divindades ^777777(Four Bearing God)^000000",
+		"Talismã das Divindades",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Talismã do Dragão 1",
 		"    Talismã do Tigre 1, Talismã da Fênix 1",
@@ -19534,7 +19534,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000 l ^777777x75^000000 l ^77777711x11 células^000000"
 	},
 	[SKID.SOA_CIRCLE_OF_DIRECTIONS_AND_ELEMENTALS] = {
-		"Mandala das Feras ^777777(Circle of Directions)^000000",
+		"Mandala das Feras",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria com Almas 3",
 		"    Talismã das Divindades 1",
@@ -19565,7 +19565,7 @@ SKILL_DESCRIPT = {
 		"            ^777777300 segundos^000000 l ^777777+25^000000"
 	},
 	[SKID.SOA_SOUL_OF_HEAVEN_AND_EARTH] = {
-		"Reencarnação das Almas ^777777(Heaven and Earth)^000000",
+		"Reencarnação das Almas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Talismã do Protetor 5,",
 		"    Talismã do Guerreiro 5,",
@@ -19595,7 +19595,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^777777+25%^000000 l ^777777+30^000000"
 	},
 	[SKID.SH_MYSTICAL_CREATURE_MASTERY] = {
-		"Maestria Mística ^777777(Mystical Creature Mastery)^000000",
+		"Maestria Mística",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -19614,7 +19614,7 @@ SKILL_DESCRIPT = {
 		"[Nv10]: ^777777+15^000000"
 	},
 	[SKID.SH_COMMUNE_WITH_CHUL_HO] = {
-		"Pacto com Tigre ^777777(Commune with Chulho)^000000",
+		"Pacto com Tigre",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Maestria Mística 7,",
 		"    Patada Felina 3^000000",
@@ -19627,7 +19627,7 @@ SKILL_DESCRIPT = {
 		"Patada Felina^000000"
 	},
 	[SKID.SH_CHUL_HO_SONIC_CLAW] = {
-		"Unhas de Tigre ^777777(Chulho Sonic Claw)^000000",
+		"Unhas de Tigre",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Maestria Mística 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -19657,7 +19657,7 @@ SKILL_DESCRIPT = {
 		"            ^7777773.150%^000000 l ^777777x50^000000"
 	},
 	[SKID.SH_HOWLING_OF_CHUL_HO] = {
-		"Rugido do Tigre ^777777(Howling of Chulho)^000000",
+		"Rugido do Tigre",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Maestria Mística 3,",
 		"    Unhas de Tigre 3^000000",
@@ -19690,7 +19690,7 @@ SKILL_DESCRIPT = {
 		"            ^7777777.250%^000000 l ^777777x50^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.SH_HOGOGONG_STRIKE] = {
-		"Patada Felina ^777777(Hogogong Strike)^000000",
+		"Patada Felina",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Maestria Mística 5,",
 		"    Rugido do Tigre 3^000000",
@@ -19732,7 +19732,7 @@ SKILL_DESCRIPT = {
 		"            ^77777711x11 células^000000"
 	},
 	[SKID.SH_COMMUNE_WITH_KI_SUL] = {
-		"Pacto com Tartaruga ^777777(Commune with Gwisul)^000000",
+		"Pacto com Tartaruga",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Maestria Mística 7,",
 		"    Ira da Tartaruga 3^000000",
@@ -19746,7 +19746,7 @@ SKILL_DESCRIPT = {
 		"Ira da Tartaruga^000000"
 	},
 	[SKID.SH_KI_SUL_WATER_SPRAYING] = {
-		"Esguichar Água ^777777(Gwisul Water Spraying)^000000",
+		"Esguichar Água",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Maestria Mística 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -19776,7 +19776,7 @@ SKILL_DESCRIPT = {
 		"            ^7777775.250^000000 l ^77777717x17 células^000000"
 	},
 	[SKID.SH_MARINE_FESTIVAL_OF_KI_SUL] = {
-		"Festival Marinho ^777777(Marine Festival of Gwisul)^000000",
+		"Festival Marinho",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Mística 3,",
 		"    Esguichar Água 3^000000",
@@ -19802,7 +19802,7 @@ SKILL_DESCRIPT = {
 		"            ^77777713x13 células^000000 l ^77777717x17 células^000000"
 	},
 	[SKID.SH_SANDY_FESTIVAL_OF_KI_SUL] = {
-		"Luau nas Areias ^777777(Sandy Festival of Gwisul)^000000",
+		"Luau nas Areias",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Mística 3,",
 		"    Esguichar Água 3^000000",
@@ -19828,7 +19828,7 @@ SKILL_DESCRIPT = {
 		"            ^77777713x13 células^000000 l ^77777717x17 células^000000"
 	},
 	[SKID.SH_KI_SUL_RAMPAGE] = {
-		"Ira da Tartaruga ^777777(Gwisul Rampage)^000000",
+		"Ira da Tartaruga",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Maestria Mística 5,",
 		"    Festival Marinho 2, Luau nas Areias 2^000000",
@@ -19853,7 +19853,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7]: ^77777710 segundos^000000"
 	},
 	[SKID.SH_COMMUNE_WITH_HYUN_ROK] = {
-		"Pacto com Cervo ^777777(Commune with Hyunrok)^000000",
+		"Pacto com Cervo",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Maestria Mística 7,",
 		"    Lança Galhada 3^000000",
@@ -19866,7 +19866,7 @@ SKILL_DESCRIPT = {
 		"Lança Galhada^000000"
 	},
 	[SKID.SH_COLORS_OF_HYUN_ROK] = {
-		"Cores do Arco-Íris ^777777(Colors of Hyunrok)^000000",
+		"Cores do Arco-Íris",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Maestria Mística 1^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -19888,7 +19888,7 @@ SKILL_DESCRIPT = {
 		"[Nv 7]: ^777777Cancela o efeito^000000"
 	},
 	[SKID.SH_HYUN_ROKS_BREEZE] = {
-		"Brisa Silvestre ^777777(Hyunrok Breeze)^000000",
+		"Brisa Silvestre",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Maestria Mística 3,",
 		"    Cores do Arco-Íris 3^000000",
@@ -19929,7 +19929,7 @@ SKILL_DESCRIPT = {
 		"            ^77777711x11 células^000000"
 	},
 	[SKID.SH_HYUN_ROK_CANNON] = {
-		"Lança Galhada ^777777(Hyunrok Cannon)^000000",
+		"Lança Galhada",
 		"Nível máximo: ^7777777^000000",
 		"Pré-requisitos: ^777777Maestria Mística 5,",
 		"    Brisa Silvestre 3^000000",
@@ -19962,7 +19962,7 @@ SKILL_DESCRIPT = {
 		"            ^7777774.400%^000000 l ^777777x75^000000"
 	},
 	[SKID.SH_TEMPORARY_COMMUNION] = {
-		"Aliança Animal ^777777(Temporary Communion)^000000",
+		"Aliança Animal",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Mística 10^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -19981,7 +19981,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777150 segundos^000000 l ^777777+15^000000"
 	},
 	[SKID.SH_BLESSING_OF_MYSTICAL_CREATURES] = {
-		"Bênção da Natureza ^777777(Blessing)^000000",
+		"Bênção da Natureza",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Mística 10,",
 		"    Pacto com Cervo 1^000000",
@@ -20003,7 +20003,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50^000000"
 	},
 	[SKID.HN_SELFSTUDY_TATICS] = {
-		"Físico Autodidata ^777777(Self Study Tatics)^000000",
+		"Físico Autodidata",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -20025,7 +20025,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10^000000 l ^777777+10%^000000 l ^777777+20%^000000"
 	},
 	[SKID.HN_SELFSTUDY_SOCERY] = {
-		"Mágico Autodidata ^777777(Self Study Sorcery)^000000",
+		"Mágico Autodidata",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -20048,7 +20048,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+10^000000 l ^777777+10%^000000 l ^777777+20%^000000"
 	},
 	[SKID.HN_DOUBLEBOWLINGBASH] = {
-		"Golpe de Tyr ^777777(Double Bowling Bash)^000000",
+		"Golpe de Tyr",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Físico Autodidata 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20075,7 +20075,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.100%^000000 l ^777777x30^000000"
 	},
 	[SKID.HN_MEGA_SONIC_BLOW] = {
-		"Lâminas Devastadoras ^777777(Mega Sonic Blow)^000000",
+		"Lâminas Devastadoras",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Físico Autodidata 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20102,7 +20102,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.300%^000000 l ^777777x50^000000"
 	},
 	[SKID.HN_SHIELD_CHAIN_RUSH] = {
-		"Choque Violento ^777777(Shield Chain Rush)^000000",
+		"Choque Violento",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Físico Autodidata 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20132,7 +20132,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.400%^000000 l ^777777x30^000000"
 	},
 	[SKID.HN_SPIRAL_PIERCE_MAX] = {
-		"Cortar em Espiral ^777777(Spiral Pierce Max)^000000",
+		"Cortar em Espiral",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Físico Autodidata 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20158,7 +20158,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.000%^000000 l ^777777x30^000000"
 	},
 	[SKID.HN_METEOR_STORM_BUSTER] = {
-		"Chuva de Meteoritos ^777777(Meteor Storm Buster)^000000",
+		"Chuva de Meteoritos",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Mágico Autodidata 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20188,7 +20188,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.300%^000000 l ^7777771.950%^000000 l ^777777x50^000000"
 	},
 	[SKID.HN_JUPITEL_THUNDER_STORM] = {
-		"Tempestade de Júpiter ^777777(Thunderstorm)^000000",
+		"Tempestade de Júpiter",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Mágico Autodidata 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20212,7 +20212,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777718.000%^000000 l ^777777x30^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.HN_JACK_FROST_NOVA] = {
-		"Esquife Congelante ^777777(Jack Frost Nova)^000000",
+		"Esquife Congelante",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Mágico Autodidata 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20251,7 +20251,7 @@ SKILL_DESCRIPT = {
 		"            ^777777x30^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.HN_HELLS_DRIVE] = {
-		"Ira da Terra ^777777Hell's Drive)^000000",
+		"Ira da Terra",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Mágico Autodidata 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20274,7 +20274,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777776.500%^000000 l ^777777x40^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.HN_GROUND_GRAVITATION] = {
-		"Zona Gravitacional ^777777Ground Gravitation)^000000",
+		"Zona Gravitacional",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Mágico Autodidata 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20314,7 +20314,7 @@ SKILL_DESCRIPT = {
 		"            3.400%^000000 l ^777777x20^000000"
 	},
 	[SKID.HN_NAPALM_VULCAN_STRIKE] = {
-		"Espectro Napalm ^777777Napalm Vulcan Strike)^000000",
+		"Espectro Napalm",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Mágico Autodidata 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20339,7 +20339,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.750%^000000 l ^777777x40^000000"
 	},
 	[SKID.HN_BREAKINGLIMIT] = {
-		"Anjo do Poder ^777777(Breaking Limit)^000000",
+		"Anjo do Poder",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Cortar em Espiral 7",
 		"    Golpe de Tyr 7, Choque Violento 7",
@@ -20357,7 +20357,7 @@ SKILL_DESCRIPT = {
 		"Lâminas Devastadoras: ^777777+100%^000000"
 	},
 	[SKID.HN_RULEBREAK] = {
-		"Anjo da Magia ^777777Rule Break)^000000",
+		"Anjo da MagiaRule Break",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Chuva de Meteoritos 5",
 		"    Ira da Terra 5, Espectro Napalm 5",
@@ -20379,7 +20379,7 @@ SKILL_DESCRIPT = {
 		"Tempestade de Júpiter: ^777777+70%^000000"
 	},
 	[SKID.SKE_SKY_MASTERY] = {
-		"Maestria Celestial {CL:2(Sky Mastery)^000000",
+		"Maestria Celestial",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -20396,7 +20396,7 @@ SKILL_DESCRIPT = {
 		"    Explosão Galática^000000"
 	},
 	[SKID.SKE_WAR_BOOK_MASTERY] = {
-		"Perícia com Livro {CL:2(War Book Mastery)^000000",
+		"Perícia com Livro",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -20415,7 +20415,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+12^000000 l ^777777+30^000000"
 	},
 	[SKID.SKE_RISING_SUN] = {
-		"Amanhecer {CL:2(Rising Sun)^000000",
+		"Amanhecer",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Celestial 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20434,7 +20434,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500%^000000 l ^777777x25^000000"
 	},
 	[SKID.SKE_NOON_BLAST] = {
-		"Entardecer {CL:2(Noon Blast)^000000",
+		"Entardecer",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Amanhecer 1,^000000",
 		"        Maestria Celestial 3",
@@ -20457,7 +20457,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777776.000%^000000 l ^777777x25^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SKE_SUNSET_BLAST] = {
-		"Explosão Crepuscular {CL:2(Sunset Blast)^000000",
+		"Explosão Crepuscular",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Celestial 5,",
 		"    Entardecer 1^000000",
@@ -20480,7 +20480,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.400%^000000 l ^777777x25^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SKE_RISING_MOON] = {
-		"Anoitecer {CL:2(Rising Moon)^000000",
+		"Anoitecer",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Celestial 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20499,7 +20499,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.100%^000000 l ^777777x25^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.SKE_MIDNIGHT_KICK] = {
-		"Chute Meia-Lua {CL:2(Midnight Kick)^000000",
+		"Chute Meia-Lua",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Anoitecer 1,",
 		"    Maestria Celestial 3^000000",
@@ -20527,7 +20527,7 @@ SKILL_DESCRIPT = {
 		"            ^777777x25^000000"
 	},
 	[SKID.SKE_DAWN_BREAK] = {
-		"Alvorada {CL:2(Dawn Break)^000000",
+		"Alvorada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Celestial 5,",
 		"    Chute Meia-Lua 1^000000",
@@ -20540,7 +20540,7 @@ SKILL_DESCRIPT = {
 		"pelo nível de Maestria Celestial.^000000",
 		"Em estado de [Pôr da Lua]:",
 		"^777777Inflige dano físico maior ainda.^000000",
-		"Nível l ATQ l ATQ (Meia-Noite) l Área",
+		"Nível l ATQ l ATQ (Pôr da Lua) l Área",
 		"            Nível de Maestria Celestial",
 		"[Nv 1]: ^777777700%^000000 l ^777777900%^000000 l ^7777775x5 células^000000",
 		"            ^777777x5^000000",
@@ -20554,7 +20554,7 @@ SKILL_DESCRIPT = {
 		"            ^777777x25^000000"
 	},
 	[SKID.SKE_TWINKLING_GALAXY] = {
-		"Constelação {CL:2(Twinkling Galaxy)^000000",
+		"Constelação",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Maestria Celestial 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20573,7 +20573,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.200%^000000 l ^777777x15^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.SKE_STAR_BURST] = {
-		"Colapso Estelar {CL:2(Star Burst)^000000",
+		"Colapso Estelar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Constelação 1",
 		"    Maestria Celestial 3^000000",
@@ -20597,7 +20597,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777772.500%^000000 l ^777777x25^000000"
 	},
 	[SKID.SKE_STAR_CANNON] = {
-		"Explosão Galática {CL:2(Star Cannon)^000000",
+		"Explosão Galática",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Colapso Estelar 1",
 		"    Maestria Celestial 3^000000",
@@ -20626,7 +20626,7 @@ SKILL_DESCRIPT = {
 		"            ^7777779x9 células^000000 l ^7777774^000000"
 	},
 	[SKID.SKE_ALL_IN_THE_SKY] = {
-		"Firmamento {CL:2(All in the Sky)^000000",
+		"Firmamento",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Perícia com Livro 5,",
 		"    Amanhecer 1, Anoitecer 1^000000",
@@ -20638,8 +20638,7 @@ SKILL_DESCRIPT = {
 		"corpo a corpo e drenar o AP dele para 0.",
 		"Se o alvo for da raça Humanoide ou",
 		"Demônio, inflige 3 golpes.",
-		"O dano é afetado pelo nv. de base, POD e",
-		"pelo nível de Maestria Celestial.",
+		"O dano é afetado por nv. de base e POD.",
 		"Tem possibilidade do ataque ser crítico.",
 		"A chance é a metade de CRIT do usuário.^000000",
 		"Nível l ATQ",
@@ -20655,7 +20654,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777720.000%^000000"
 	},
 	[SKID.SKE_ENCHANTING_SKY] = {
-		"Elo Celestial {CL:2(Enchanting Sky)^000000",
+		"Elo Celestial",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Maestria Celestial 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20664,8 +20663,8 @@ SKILL_DESCRIPT = {
 		"^777777Inicia uma conexão com os céus e ativa o",
 		"estado de [Elo Celestial], cancelando os",
 		"estados de Nascer do Sol/Lua, Meio-Dia,",
-		"Meia-Noite e Pôs do Sol/Lua.",
-		"Nese estado, permite usar Entardecer,",
+		"Meia-Noite e Pôr do Sol/Lua.",
+		"Nesse estado, permite usar Entardecer,",
 		"Explosão Crepuscular, Chute Meia-Lua e",
 		"Alvorada independentemente do estado.^000000",
 		"Nível l Duração",
@@ -20681,7 +20680,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777900 segundos^000000"
 	},
 	[SKID.SS_TOKEDASU] = {
-		"Derreter ^777777(Melt Away)^000000",
+		"Derreter",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Miragem 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20699,7 +20698,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.500%^000000"
 	},
 	[SKID.SS_SHIMIRU] = {
-		"Infiltrar ^777777(Infiltrate)^000000",
+		"Infiltrar",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Miragem 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20722,15 +20721,15 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.500%^000000"
 	},
 	[SKID.SS_AKUMUKESU] = {
-		"Devorar Pesadelo ^777777(Nightmare Erasion)^000000",
+		"Devorar Pesadelo",
 		"Nível máximo: ^7777771^000000",
-		"Tipo: ^777777Ativa^000000",
+		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Remove o estado de [Pesadelo] de todos os",
 		"alvos em 15x15 células ao seu redor.^000000"
 	},
 	[SKID.SS_SHINKIROU] = {
-		"Miragem ^777777(Mirage)^000000",
+		"Miragem",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -20752,7 +20751,7 @@ SKILL_DESCRIPT = {
 		"^777777Mahou da Escuridão^000000 l ^777777Mahou da Escuridão^000000"
 	},
 	[SKID.SS_KAGEGARI] = {
-		"Lâmina das Trevas ^777777(Shadow Hunting)^000000",
+		"Lâmina das Trevas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Miragem 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20777,7 +20776,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.500%^000000 l ^777777x50^000000"
 	},
 	[SKID.SS_KAGENOMAI] = {
-		"Dança das Trevas ^777777(Shadow Dance)^000000",
+		"Dança das Trevas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Lâmina das Trevas 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20800,7 +20799,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777776.500%^000000 l ^777777x500^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SS_KAGEGISSEN] = {
-		"Centelha das Trevas ^777777(Shadow Flash)^000000",
+		"Centelha das Trevas",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Dança das Sombras 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20823,7 +20822,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777779.700%^000000 l ^777777x1.000^000000"
 	},
 	[SKID.SS_FUUMASHOUAKU] = {
-		"Huuma Aderente ^777777(Huuma - Grasp)^000000",
+		"Huuma Aderente",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Kunai Distorcida 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20835,6 +20834,7 @@ SKILL_DESCRIPT = {
 		"A cada 0,25 segundos, causa dano físico",
 		"à distância e inflige o estado de",
 		"[Pesadelo] por 5 segundos.",
+		"A propriedade depende da Kunai equipada.",
 		"O dano é afetado pelo nv. de base, POD e",
 		"pelo nível de Huuma Andarilho.^000000",
 		"Nível l ATQ l Nv. de Andarilho l Área",
@@ -20850,7 +20850,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.700%^000000 l ^777777x50^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.SS_FUUMAKOUCHIKU] = {
-		"Huuma Andarilho ^777777(Huuma - Construct)^000000",
+		"Huuma Andarilho",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Huuma Aderente 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20861,6 +20861,7 @@ SKILL_DESCRIPT = {
 		"Zona Aderente no trajeto, a Zona explode",
 		"e causa um 2º dano físico à distância",
 		"na área de 9x9 células ao redor da zona.",
+		"A propriedade depende da Kunai equipada.",
 		"O dano é afetado pelo nv. de base, POD e",
 		"pelo nível de Huuma Aderente.^000000",
 		"Nível l ATQ l 2º ATQ l Nv. de Aderente",
@@ -20876,7 +20877,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.600%^000000 l ^7777776.800%^000000 l ^777777x300^000000"
 	},
 	[SKID.SS_KUNAIWAIKYOKU] = {
-		"Kunai Distorcida ^777777(Kunai - Distortion)^000000",
+		"Kunai Distorcida",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Miragem 1^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20903,7 +20904,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.000%^000000 l ^777777x70^000000"
 	},
 	[SKID.SS_KUNAIKAITEN] = {
-		"Kunai Rotatória ^777777(Kunai - Rotation)^000000",
+		"Kunai Rotatória",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Kunai Distorcida 3^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20925,7 +20926,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777773.300%^000000 l ^777777x250^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.SS_KUNAIKUSSETSU] = {
-		"Kunai Refratada ^777777(Kunai - Refraction)^000000",
+		"Kunai Refratada",
 		"Nível máximo: ^77777710^000000",
 		"Pré-requisitos: ^777777Kunai Rotatória 5^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -20952,7 +20953,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.800%^000000 l ^777777x70^000000"
 	},
 	[SKID.SS_SEKIENHOU] = {
-		"Mahou da Chama Vermelha ^777777(Red Flame)^000000",
+		"Mahou da Chama Vermelha",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -20974,7 +20975,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777776.200%^000000 l ^777777x500^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SS_REIKETSUHOU] = {
-		"Mahou da Névoa Fria ^777777(Cold Blooded)^000000",
+		"Mahou da Névoa Fria",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -20996,7 +20997,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777773.500%^000000 l ^777777x250^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.SS_RAIDENPOU] = {
-		"Mahou da Trovoada ^777777(Thundering)^000000",
+		"Mahou da Trovoada",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21018,7 +21019,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777776.500%^000000 l ^777777x500^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SS_KINRYUUHOU] = {
-		"Mahou do Dragão Áureo ^777777(Golden Dragon)^000000",
+		"Mahou do Dragão Áureo",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21040,7 +21041,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.350%^000000 l ^777777x70^000000 l ^7777775x5 células^000000"
 	},
 	[SKID.SS_ANTENPOU] = {
-		"Mahou da Escuridão ^777777(Darkening)^000000",
+		"Mahou da Escuridão",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Regen. de AP: ^0054FF2^000000",
@@ -21049,7 +21050,7 @@ SKILL_DESCRIPT = {
 		"em todos ao seu redor, infligindo",
 		"o estado de [Pesadelo] por 5 segundos.",
 		"O dano é afetado pelo nv. de base e FEI.^000000",
-		"^000088Consome 1 Bruma da Terra.^000000",
+		"^000088Consome 1 Bruma das Trevas.^000000",
 		"Nível l ATQM l Área",
 		"[Nv 1]: ^777777900%^000000 l ^7777775x5 células^000000",
 		"[Nv 2]: ^7777771.400%^000000 l ^7777775x5 células^000000",
@@ -21063,7 +21064,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777775.400%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.SS_KAGEAKUMU] = {
-		"Pesadelo das Trevas ^777777(Shadow - Nightmare)^000000",
+		"Pesadelo das Trevas",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Centelha das Trevas 7^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -21078,7 +21079,7 @@ SKILL_DESCRIPT = {
 		"O dano é afetado pelo nv. de base e POD.^000000"
 	},
 	[SKID.SS_HITOUAKUMU] = {
-		"Kunai do Pesadelo ^777777(Kunai - Nightmare)^000000",
+		"Kunai do Pesadelo",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Kunai Distorcida 5,",
 		"    Kunai Rotatória 5,",
@@ -21092,10 +21093,11 @@ SKILL_DESCRIPT = {
 		"Inflige 1,5 vezes mais dano em oponentes",
 		"afetados por [Pesadelo], cancelando",
 		"esse estado após sofrer o ataque.",
+		"A propriedade depende da Kunai equipada.",
 		"O dano é afetado pelo nv. de base e POD.^000000"
 	},
 	[SKID.SS_ANKOKURYUUAKUMU] = {
-		"Mahou do Pesadelo ^777777(Dragon - Nightmare)^000000",
+		"Mahou do Pesadelo",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Miragem 1,",
 		"    Mahou da Chama Vermelha 5,",
@@ -21115,7 +21117,7 @@ SKILL_DESCRIPT = {
 		"O dano é afetado pelo nv. de base e FEI.^000000"
 	},
 	[SKID.HLIF_HEAL] = {
-		"Cura pelas Mãos ^777777(Touch of Heal)^000000",
+		"Cura pelas Mãos",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21131,7 +21133,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777725^000000"
 	},
 	[SKID.HLIF_AVOID] = {
-		"Bater em Retirada ^777777(Emergency Avoid)^000000",
+		"Bater em Retirada",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Cura pelas Mãos 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -21146,7 +21148,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+50%^000000 l ^77777720 segundos^000000"
 	},
 	[SKID.HLIF_BRAIN] = {
-		"Cirurgia Cerebral ^777777(Brain Surgery)^000000",
+		"Cirurgia Cerebral",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Cura pelas Mãos 5^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -21162,7 +21164,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+5%^000000 l ^777777+15%^000000 l ^777777+10%^000000"
 	},
 	[SKID.HLIF_CHANGE] = {
-		"Esforço Mental ^777777(Mental Change)^000000",
+		"Esforço Mental",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -21177,7 +21179,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777+90^000000 l ^777777+60^000000 l ^7777775 min.^000000"
 	},
 	[SKID.HAMI_CASTLE] = {
-		"Troca de Lugar ^777777(Castling)^000000",
+		"Troca de Lugar",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -21192,7 +21194,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777100%^000000"
 	},
 	[SKID.HAMI_DEFENCE] = {
-		"Fortaleza ^777777(Deffence)^000000",
+		"Fortaleza",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Troca de Lugar 2^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -21206,7 +21208,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+30^000000 l ^777777+30^000000 l ^77777720 segundos^000000"
 	},
 	[SKID.HAMI_SKIN] = {
-		"Pele de Adamantium ^777777(Adamantium Skin)^000000",
+		"Pele de Adamantium",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Fortaleza 3^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -21221,7 +21223,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+10%^000000 l ^777777+20^000000 l ^777777+25%^000000"
 	},
 	[SKID.HAMI_BLOODLUST] = {
-		"Desejo por Sangue ^777777(Blood Lust)^000000",
+		"Desejo por Sangue",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -21235,7 +21237,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777+50%^000000 l ^7777775 min.^000000 l ^7777779%^000000"
 	},
 	[SKID.HFLI_MOON] = {
-		"Pica-Pau ^777777(Moonlight)^000000",
+		"Pica-Pau",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21248,7 +21250,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777660%^000000 l ^7777773 ataques^000000"
 	},
 	[SKID.HFLI_FLEET] = {
-		"Voo Frenético ^777777(Flitting)^000000",
+		"Voo Frenético",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Pica-Pau 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -21263,7 +21265,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+30%^000000 l ^777777+15%^000000 l ^77777740 segundos^000000"
 	},
 	[SKID.HFLI_SPEED] = {
-		"Voo Acelerado ^777777(Overed Speed)^000000",
+		"Voo Acelerado",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Voo Frenético 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -21287,7 +21289,7 @@ SKILL_DESCRIPT = {
 		"Quanto maior a lealdade, maior o dano.^000000"
 	},
 	[SKID.HVAN_CAPRICE] = {
-		"Capricho ^777777(Caprice)^000000",
+		"Capricho",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21302,7 +21304,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777Nível 5^000000"
 	},
 	[SKID.HVAN_CHAOTIC] = {
-		"Bênção Caótica ^777777(Chaotic Venediction)^000000",
+		"Bênção Caótica",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Capricho 3^000000",
 		"Tipo: ^777777Suporte^000000",
@@ -21318,7 +21320,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777Nv. 1 a 5^000000 l ^77777733%^000000 l ^77777734%^000000 l ^77777733%^000000"
 	},
 	[SKID.HVAN_INSTRUCT] = {
-		"Mudança de Planos ^777777(Change Instruction)^000000",
+		"Mudança de Planos",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos: ^777777Capricho 5^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -21332,7 +21334,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+5^000000 l ^777777+4^000000"
 	},
 	[SKID.HVAN_EXPLOSION] = {
-		"Bioexplosão ^777777(Bio Explosion)^000000",
+		"Bioexplosão",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
 		"Tipo: ^777777Ofensiva^000000",
@@ -21347,7 +21349,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777HP máx. × 2^000000"
 	},
 	[SKID.MH_SUMMON_LEGION] = {
-		"Convocação ^777777(Summon Legion)^000000",
+		"Convocação",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -21362,7 +21364,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777760 segundos^000000 l ^7777775x Vespa-Vagalume^000000"
 	},
 	[SKID.MH_NEEDLE_OF_PARALYZE] = {
-		"Ponto de Paralisia ^777777(Needle of Paralyze)^000000",
+		"Ponto de Paralisia",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21386,7 +21388,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777780%^000000 l ^7777774.500%^000000"
 	},
 	[SKID.MH_POISON_MIST] = {
-		"Névoa Venenosa ^777777(Poison Mist)^000000",
+		"Névoa Venenosa",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21403,7 +21405,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^7777771.000%^000000 l ^77777715 segundos^000000"
 	},
 	[SKID.MH_PAIN_KILLER] = {
-		"Analgésico ^777777(Pain Killer)^000000",
+		"Analgésico",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21422,7 +21424,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777600 segundos^000000"
 	},
 	[SKID.MH_LIGHT_OF_REGENE] = {
-		"Luz da Vida ^777777(Light of Regenerate)^000000",
+		"Luz da Vida",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21438,7 +21440,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600 segundos^000000"
 	},
 	[SKID.MH_OVERED_BOOST] = {
-		"Superestimular ^777777(Overed Boost)^000000",
+		"Superestimular",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21455,7 +21457,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600^000000 l ^777777190^000000"
 	},
 	[SKID.MH_ERASER_CUTTER] = {
-		"Choque Supersônico ^777777(Eraser Cutter)^000000",
+		"Choque Supersônico",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21475,7 +21477,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.500%^000000"
 	},
 	[SKID.MH_XENO_SLASHER] = {
-		"Onda Supersônica ^777777(Xeno Slasher)^000000",
+		"Onda Supersônica",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21496,7 +21498,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777779x9 células^000000 l ^7777773.500%^000000"
 	},
 	[SKID.MH_SILENT_BREEZE] = {
-		"Brisa da Calmaria ^777777(Silent Breeze)^000000",
+		"Brisa da Calmaria",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21513,7 +21515,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777721 segundos^000000"
 	},
 	[SKID.MH_STYLE_CHANGE] = {
-		"Estilo de Luta ^777777(Style Change)^000000",
+		"Estilo de Luta",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -21521,8 +21523,8 @@ SKILL_DESCRIPT = {
 		"No modo Batalha, ao atacar ou receber dano",
 		"físico, tem chance de ganhar 1 Esfera.^000000"
 	},
-	[SKID.MH_SONIC_CRAW] = {
-		"Garra Supersônica ^777777(Sonic Claw)^000000",
+	[SKID.MH_SONIC_CLAW] = {
+		"Garra Supersônica",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21539,7 +21541,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777300%^000000"
 	},
 	[SKID.MH_SILVERVEIN_RUSH] = {
-		"Rastro Brilhante ^777777(Silvervein Rush)^000000",
+		"Rastro Brilhante",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21560,7 +21562,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777772.500%^000000"
 	},
 	[SKID.MH_MIDNIGHT_FRENZY] = {
-		"Delírio Noturno ^777777(Midnight Frenzy)^000000",
+		"Delírio Noturno",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21582,7 +21584,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.500%^000000"
 	},
 	[SKID.MH_STAHL_HORN] = {
-		"Impacto Preciso ^777777(Stahl Horn)^000000",
+		"Impacto Preciso",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21602,7 +21604,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777779 células^000000 l ^77777740%^000000 l ^7777774.500%^000000"
 	},
 	[SKID.MH_GOLDENE_FERSE] = {
-		"Fúria Iluminada ^777777(Goldene Ferse)^000000",
+		"Fúria Iluminada",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21620,7 +21622,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+60^000000 l ^777777+26%^000000 l ^77777790 segundos^000000 l ^77777712%^000000"
 	},
 	[SKID.MH_STEINWAND] = {
-		"Luz Salvadora ^777777(Stein Wand)^000000",
+		"Luz Salvadora",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21634,7 +21636,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777600 segundos^000000 l ^777777+500^000000 l ^777777+150^000000"
 	},
 	[SKID.MH_HEILIGE_STANGE] = {
-		"Illuminatus ^777777(Heilige Stange)^000000",
+		"Illuminatus",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21654,7 +21656,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777777x7 células^000000 l ^7777774.000%^000000"
 	},
 	[SKID.MH_ANGRIFFS_MODUS] = {
-		"Raiva Iluminada ^777777(Angriffs Modus)^000000",
+		"Raiva Iluminada",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21669,7 +21671,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777790 segundos^000000 l ^777777+150^000000 l ^777777-70^000000 l ^777777-75^000000"
 	},
 	[SKID.MH_TINDER_BREAKER] = {
-		"Quebra-Costelas ^777777(Tinder Breaker)^000000",
+		"Quebra-Costelas",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21687,7 +21689,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777712.500^000000"
 	},
 	[SKID.MH_CBC] = {
-		"Dreno Traumático ^777777(C.B.C)^000000",
+		"Dreno Traumático",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21703,7 +21705,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777720.000^000000"
 	},
 	[SKID.MH_EQC] = {
-		"Estado Traumático ^777777(E.Q.C)^000000",
+		"Estado Traumático",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21719,7 +21721,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730.000^000000"
 	},
 	[SKID.MH_MAGMA_FLOW] = {
-		"Inundação de Magma ^777777(Magma Flow)^000000",
+		"Inundação de Magma",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -21734,7 +21736,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777500%^000000 l ^7777775x5 células^000000 l ^77777715%^000000"
 	},
 	[SKID.MH_GRANITIC_ARMOR] = {
-		"Armadura de Granito ^777777(Granitc Armor)^000000",
+		"Armadura de Granito",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21749,7 +21751,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+10%^000000 l ^777777-30%^000000"
 	},
 	[SKID.MH_LAVA_SLIDE] = {
-		"Derretimento com Lava ^777777(Lava Slide)^000000",
+		"Derretimento com Lava",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21770,7 +21772,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777500%^000000 l ^77777715 segundos^000000"
 	},
 	[SKID.MH_PYROCLASTIC] = {
-		"Piroclástico ^777777(Pyroclastic)^000000",
+		"Piroclástico",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21790,7 +21792,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777600 segundos^000000"
 	},
 	[SKID.MH_VOLCANIC_ASH] = {
-		"Cinzas Vulcânicas ^777777(Volcanic Ash)^000000",
+		"Cinzas Vulcânicas",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -21808,7 +21810,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777740 segundos^000000"
 	},
 	[SKID.MH_BLAST_FORGE] = {
-		"Grande Fornalha ^777777(Blast Forge)^000000",
+		"Grande Fornalha",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21830,7 +21832,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777700%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.MH_TEMPERING] = {
-		"Têmpera ^777777(Tempering)^000000",
+		"Têmpera",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -21848,7 +21850,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+15^000000 l ^777777180 segundos^000000"
 	},
 	[SKID.MH_CLASSY_FLUTTER] = {
-		"Voo Elegante ^777777(Classy Flutter)^000000",
+		"Voo Elegante",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -21866,7 +21868,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+700^000000"
 	},
 	[SKID.MH_TWISTER_CUTTER] = {
-		"Corte Supersônico ^777777(Twister Cutter)^000000",
+		"Corte Supersônico",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21886,7 +21888,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.800%^000000"
 	},
 	[SKID.MH_ABSOLUTE_ZEPHYR] = {
-		"Zéfiro Absoluto ^777777(Absolute Zephyr)^000000",
+		"Zéfiro Absoluto",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21906,7 +21908,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777775.500%^000000 l ^7777779x9 células^000000"
 	},
 	[SKID.MH_BRUSHUP_CLAW] = {
-		"Garras Afiadas ^777777(Brushup Claw)^000000",
+		"Garras Afiadas",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -21924,7 +21926,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+700^000000"
 	},
 	[SKID.MH_BLAZING_AND_FURIOUS] = {
-		"Veloz e Furiosa ^777777(Blazing And Furious)^000000",
+		"Veloz e Furiosa",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21947,7 +21949,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777800% x Esferas^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.MH_THE_ONE_FIGHTER_RISES] = {
-		"Lutadora Ascendente ^777777(The Fighter Rises)^000000",
+		"Lutadora Ascendente",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -21969,7 +21971,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777775.800%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.MH_POLISHING_NEEDLE] = {
-		"Ferrão Polido ^777777(Polishing Needle)^000000",
+		"Ferrão Polido",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -21987,7 +21989,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+500^000000 l ^777777+250^000000"
 	},
 	[SKID.MH_TOXIN_OF_MANDARA] = {
-		"Toxina de Mandara ^777777(Toxin Of Mandara)^000000",
+		"Toxina de Mandara",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22021,7 +22023,7 @@ SKILL_DESCRIPT = {
 		"           7,0 segundos^000000 l ^777777-150^000000"
 	},
 	[SKID.MH_NEEDLE_STINGER] = {
-		"Ferroada ^777777(Needle Stinger)^000000",
+		"Ferroada",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22041,7 +22043,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777775.200%^000000"
 	},
 	[SKID.MH_LICHT_GEHORN] = {
-		"Chifre Iluminado ^777777(Licht Gehorn)^000000",
+		"Chifre Iluminado",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -22059,7 +22061,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+400^000000 l ^777777+400^000000"
 	},
 	[SKID.MH_GLANZEN_SPIES] = {
-		"Ponta Reluzente ^777777(Glanzen Spies)^000000",
+		"Ponta Reluzente",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22079,7 +22081,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.800%^000000"
 	},
 	[SKID.MH_HEILIGE_PFERD] = {
-		"Equitatio ^777777(Heilige Pferd)^000000",
+		"Equitatio",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22099,7 +22101,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^7777774.700%^000000 l ^7777777x7 células^000000"
 	},
 	[SKID.MH_GOLDENE_TONE] = {
-		"Couro Dourado ^777777(Goldene Tone)^000000",
+		"Couro Dourado",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -22117,7 +22119,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+30^000000 l ^777777+30^000000 l ^777777120 segundos^000000"
 	},
 	[SKID.MH_BLAZING_LAVA] = {
-		"Lava Quente ^777777(Blazing Lava)^000000",
+		"Lava Quente",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -22135,7 +22137,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777+700^000000"
 	},
 	[SKID.MS_BASH] = {
-		"Golpe Fulminante ^777777(Bash)^000000",
+		"Golpe Fulminante",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22154,7 +22156,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777400%^000000"
 	},
 	[SKID.MS_MAGNUM] = {
-		"Impacto Explosivo ^777777(Magnum Break)^000000",
+		"Impacto Explosivo",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22177,14 +22179,14 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777300%^000000"
 	},
 	[SKID.MS_BOWLINGBASH] = {
-		"Impacto de Tyr ^777777(Bowling Bash)^000000",
+		"Impacto de Tyr",
 		"Nível máximo: ^77777710^000000",
 		"Descrição:",
 		"^777777Causa dano físico corpo a corpo no alvo e na",
 		"área de 3x3 células, empurrando oponentes.^000000"
 	},
 	[SKID.MS_PARRYING] = {
-		"Aparar Golpe ^777777(Parry)^000000",
+		"Aparar Golpe",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -22203,7 +22205,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^77777750%^000000 l ^77777760 segundos^000000"
 	},
 	[SKID.MS_REFLECTSHIELD] = {
-		"Escudo Refletor ^777777(Shield Reflect)^000000",
+		"Escudo Refletor",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -22212,7 +22214,7 @@ SKILL_DESCRIPT = {
 		"O efeito não anula o dano que você recebe.^000000"
 	},
 	[SKID.MS_BERSERK] = {
-		"Frenesi ^777777(Bersek)^000000",
+		"Frenesi",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -22227,14 +22229,14 @@ SKILL_DESCRIPT = {
 		"Deslogar o personagem cancela o efeito.^000000"
 	},
 	[SKID.MA_DOUBLE] = {
-		"Rajada de Flechas ^777777(Double Strafe)^000000",
+		"Rajada de Flechas",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
 		"^777777Causa dano físico a distância no alvo.^000000"
 	},
 	[SKID.MA_SHOWER] = {
-		"Chuva de Flechas ^777777(Arrow Shower)^000000",
+		"Chuva de Flechas",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22242,7 +22244,7 @@ SKILL_DESCRIPT = {
 		"da área selecionada, empurrando-os.^000000"
 	},
 	[SKID.MA_SKIDTRAP] = {
-		"Armadilha Escorregadia ^777777(Skid Trap)^000000",
+		"Armadilha Escorregadia",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -22258,7 +22260,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777710 células^000000 l ^777777 60 segundos^000000"
 	},
 	[SKID.MA_LANDMINE] = {
-		"Armadilha Atordoante ^777777(Land Mine)^000000",
+		"Armadilha Atordoante",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22275,7 +22277,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777740 segundos^000000"
 	},
 	[SKID.MA_SANDMAN] = {
-		"Armadilha Sonífera ^777777(Sandman)^000000",
+		"Armadilha Sonífera",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -22291,7 +22293,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777790%^000000 l ^77777730 segundos^000000"
 	},
 	[SKID.MA_FREEZINGTRAP] = {
-		"Armadilha Congelante ^777777(Freezing Trap)^000000",
+		"Armadilha Congelante",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22308,7 +22310,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^77777730 segundos^000000"
 	},
 	[SKID.MA_REMOVETRAP] = {
-		"Remover Armadilha ^777777(Remove Trap)^000000",
+		"Remover Armadilha",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -22316,7 +22318,7 @@ SKILL_DESCRIPT = {
 		"o item usado para a instação da armadilha.^000000"
 	},
 	[SKID.MA_CHARGEARROW] = {
-		"Disparo Violento ^777777(Charge Arrow)^000000",
+		"Disparo Violento",
 		"Pré-requisitos: ^CD3278Completar Missão^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22324,7 +22326,7 @@ SKILL_DESCRIPT = {
 		"oponente, o empurrando para trás.^000000"
 	},
 	[SKID.MA_SHARPSHOOTING] = {
-		"Tiro Preciso ^777777(Sharp Shooting)^000000",
+		"Tiro Preciso",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22339,7 +22341,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777350%^000000"
 	},
 	[SKID.ML_PIERCE] = {
-		"Perfurar ^777777(Pierce)^000000",
+		"Perfurar",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22350,7 +22352,7 @@ SKILL_DESCRIPT = {
 		"^777777Ao atacar, recebe um bônus de Precisão.^000000"
 	},
 	[SKID.ML_BRANDISH] = {
-		"Brandir Lança ^777777(Brandish Spear)^000000",
+		"Brandir Lança",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22359,7 +22361,7 @@ SKILL_DESCRIPT = {
 		"Quanto mais próximo do alvo, maior o dano.^000000"
 	},
 	[SKID.ML_SPIRALPIERCE] = {
-		"Perfurar em Espiral ^777777(Spiral Pierce)^000000",
+		"Perfurar em Espiral",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22368,7 +22370,7 @@ SKILL_DESCRIPT = {
 		"O dano é afetado pelo peso da arma.^000000"
 	},
 	[SKID.ML_DEFENDER] = {
-		"Aura Sagrada ^777777(Defender)^000000",
+		"Aura Sagrada",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -22377,7 +22379,7 @@ SKILL_DESCRIPT = {
 		"físicos de longa distância.^000000"
 	},
 	[SKID.ML_AUTOGUARD] = {
-		"Bloqueio ^777777(Guard)^000000",
+		"Bloqueio",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -22387,7 +22389,7 @@ SKILL_DESCRIPT = {
 		"por um tempo, cancelando seus ataques.^000000"
 	},
 	[SKID.ML_DEVOTION] = {
-		"Redenção ^777777(Devotion)^000000",
+		"Redenção",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -22408,7 +22410,7 @@ SKILL_DESCRIPT = {
 		"duas vezes mais rápido, temporariamente.^000000"
 	},
 	[SKID.MER_QUICKEN] = {
-		"Rapidez com Duas Mãos ^777777(Twohand Quicken)^000000",
+		"Rapidez com Duas Mãos",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
@@ -22427,7 +22429,7 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777300 segundos^000000"
 	},
 	[SKID.MER_SIGHT] = {
-		"Chama Reveladora ^777777(Sight)^000000",
+		"Chama Reveladora",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -22436,7 +22438,7 @@ SKILL_DESCRIPT = {
 		"Consome 10 de SP.^000000"
 	},
 	[SKID.MER_CRASH] = {
-		"Impacto ^777777(Crash)^000000",
+		"Impacto",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Ofensiva^000000",
 		"Descrição:",
@@ -22450,43 +22452,43 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777150%^000000 l ^77777730%^000000"
 	},
 	[SKID.MER_REGAIN] = {
-		"Recompor ^777777(Regain)^000000",
+		"Recompor",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Remove Atordoamento e Sono.^000000"
 	},
 	[SKID.MER_TENDER] = {
-		"Amolecer ^777777(Amolecer)^000000",
+		"Amolecer",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Remove Congelamento e Petrificação.^000000"
 	},
 	[SKID.MER_BENEDICTION] = {
-		"Bendição ^777777(Bendiction)^000000",
+		"Bendição",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Remove Cegueira e Maldição.^000000"
 	},
 	[SKID.MER_RECUPERATE] = {
-		"Restabelecer ^777777(Recuperate)^000000",
+		"Restabelecer",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Remove Silêncio e Envenenamento.^000000"
 	},
 	[SKID.MER_MENTALCURE] = {
-		"Cura Mental ^777777(Mental Cure)^000000",
+		"Cura Mental",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Remove Caos e Alucinação.^000000"
 	},
 	[SKID.MER_COMPRESS] = {
-		"Compressa ^777777(Compress)^000000",
+		"Compressa",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Remove Sangramento do alvo.^000000"
 	},
 	[SKID.MER_PROVOKE] = {
-		"Provocar ^777777(Provoke)^000000",
+		"Provocar",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -22507,14 +22509,14 @@ SKILL_DESCRIPT = {
 		"[Nv 10]: ^777777-55%^000000 l ^777777+32%^000000"
 	},
 	[SKID.MER_AUTOBERSERK] = {
-		"Instinto de Sobrevivência ^777777(Auto Bersek)^000000",
+		"Instinto de Sobrevivência",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
 		"^777777Ativa Provocar em nível 10 no próprio usuário.",
 		"Só pode ser usada com o HP abaixo de 25%.^000000"
 	},
 	[SKID.MER_DECAGI] = {
-		"Diminuir Agilidade ^777777(Decrease AGI)^000000",
+		"Diminuir Agilidade",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -22522,7 +22524,7 @@ SKILL_DESCRIPT = {
 		"e o movimento do alvo selecionado.^000000"
 	},
 	[SKID.MER_SCAPEGOAT] = {
-		"Bode Expiatório ^777777(Scape Goat)^000000",
+		"Bode Expiatório",
 		"Tipo: ^777777Suporte^000000",
 		"Descrição:",
 		"^777777Doa todo o HP restante para o mestre.",
@@ -22539,7 +22541,7 @@ SKILL_DESCRIPT = {
 		"esta habilidade removerá o Silêncio.^000000"
 	},
 	[SKID.MER_ESTIMATION] = {
-		"Sentido Sobrenatural ^777777(Estimation)^000000",
+		"Sentido Sobrenatural",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Descrição:",
@@ -22557,7 +22559,7 @@ SKILL_DESCRIPT = {
 		"integralmente no Fanático das Trevas.^000000"
 	},
 	[SKID.GD_APPROVAL] = {
-		"Autorização Oficial ^777777(Guild Approval)^000000",
+		"Autorização Oficial",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -22565,7 +22567,7 @@ SKILL_DESCRIPT = {
 		"dos castelos da Guerra do Emperium.^000000"
 	},
 	[SKID.GD_KAFRACONTRACT] = {
-		"Contrato com Kafra ^777777(Kafra Contract)^000000",
+		"Contrato com Kafra",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Autorização Oficial 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -22575,7 +22577,7 @@ SKILL_DESCRIPT = {
 		"disponibilizando serviços para os membros.^000000"
 	},
 	[SKID.GD_GUARDRESEARCH] = {
-		"Comandar Guardiões ^777777(Guardian Research)^000000",
+		"Comandar Guardiões",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Autorização Oficial 1^000000",
 		"Tipo: ^777777Passiva^000000",
@@ -22583,7 +22585,7 @@ SKILL_DESCRIPT = {
 		"^777777Contrata guardiões para vigiar seu castelo.^000000"
 	},
 	[SKID.GD_GUARDUP] = {
-		"Fortalecer Guardiões ^777777(Guard Up)^000000",
+		"Fortalecer Guardiões",
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -22591,7 +22593,7 @@ SKILL_DESCRIPT = {
 		"o ATQ dos Guardiões contratados.^000000"
 	},
 	[SKID.GD_EXTENSION] = {
-		"Expandir Clã ^777777(Guild Extension)^000000",
+		"Expandir Clã",
 		"Nível máximo: ^77777710^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -22610,7 +22612,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.GD_GLORYGUILD] = {},
 	[SKID.GD_LEADERSHIP] = {
-		"Grande Liderança ^777777(Great Leadership)^000000",
+		"Grande Liderança",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -22624,7 +22626,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+5^000000"
 	},
 	[SKID.GD_GLORYWOUNDS] = {
-		"Ferimentos de Glória ^777777(Glory Wounds)^000000",
+		"Ferimentos de Glória",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -22638,7 +22640,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+5^000000"
 	},
 	[SKID.GD_SOULCOLD] = {
-		"Coração Frio ^777777(Soul Cold)^000000",
+		"Coração Frio",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Ferimentos de Glória 1^000000",
@@ -22653,7 +22655,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+5^000000"
 	},
 	[SKID.GD_HAWKEYES] = {
-		"Olhar Apurado ^777777(Hawk Eyes)^000000",
+		"Olhar Apurado",
 		"Nível máximo: ^7777775^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Pré-requisitos: ^777777Grande Liderança 1^000000",
@@ -22668,7 +22670,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+5^000000"
 	},
 	[SKID.GD_BATTLEORDER] = {
-		"Comando de Batalha ^777777(Battle Order)^000000",
+		"Comando de Batalha",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Pré-requisitos:",
@@ -22680,7 +22682,7 @@ SKILL_DESCRIPT = {
 		"Possui 3 minutos de recarga.^000000"
 	},
 	[SKID.GD_REGENERATION] = {
-		"Regeneração ^777777(Regeneration)^000000",
+		"Regeneração",
 		"Nível máximo: ^7777773^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Pré-requisitos:",
@@ -22696,7 +22698,7 @@ SKILL_DESCRIPT = {
 		"[Nv 3]: ^777777HP e SP +200%^000000"
 	},
 	[SKID.GD_RESTORE] = {
-		"Restauração ^777777(Restore)^000000",
+		"Restauração",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Pré-requisitos: ^777777Regeneração 1^000000",
@@ -22707,7 +22709,7 @@ SKILL_DESCRIPT = {
 		"Possui 3 minutos de recarga.^000000"
 	},
 	[SKID.GD_EMERGENCYCALL] = {
-		"Chamado Urgente ^777777(Emergency Call)^000000",
+		"Chamado Urgente",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Suporte^000000",
 		"Pré-requisitos:",
@@ -22719,7 +22721,7 @@ SKILL_DESCRIPT = {
 		"Possui 5 minutos de recarga.^000000"
 	},
 	[SKID.GD_DEVELOPMENT] = {
-		"Desenvolvimento Permanente ^777777(Development)^000000",
+		"Desenvolvimento Permanente",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
@@ -22728,7 +22730,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.GD_ITEMEMERGENCYCALL] = {},
 	[SKID.GD_GUILD_STORAGE] = {
-		"Armazém do Clã ^777777(Warehouse)^000000",
+		"Armazém do Clã",
 		"Nível máximo: ^7777775^000000",
 		"Pré-requisitos:",
 		"^777777Coração Frio 1, Olhar Apurado 1",
@@ -22747,7 +22749,7 @@ SKILL_DESCRIPT = {
 		"[Nv. 5]: ^777777até 600 itens^000000"
 	},
 	[SKID.GD_CHARGESHOUT_FLAG] = {
-		"Marcar Território ^777777(Charge Shout Flag)^000000",
+		"Marcar Território",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Pré-requisitos: ^777777Chamado Urgente 1^000000",
@@ -22761,7 +22763,7 @@ SKILL_DESCRIPT = {
 		"Tem 15 minutos de recarga.^000000"
 	},
 	[SKID.GD_CHARGESHOUT_BEATING] = {
-		"Grito de Batalha ^777777(Charge Shout Beating)^000000",
+		"Grito de Batalha",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Pré-requisitos: ^777777Marcar Território 1^000000",
@@ -22774,7 +22776,7 @@ SKILL_DESCRIPT = {
 		"Tem 15 minutos de recarga.^000000"
 	},
 	[SKID.GD_EMERGENCY_MOVE] = {
-		"Disparada ^777777(Emergency Move)^000000",
+		"Disparada",
 		"Nível máximo: ^7777771^000000",
 		"Tipo: ^777777Ativa^000000",
 		"Pré-requisitos: ^777777Ferimentos de Glória 1,",

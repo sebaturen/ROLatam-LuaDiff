@@ -1,4 +1,3 @@
-
 QuestInfoList = {
 	[1] = {
 		Title = "Título",
@@ -31195,9 +31194,9 @@ QuestInfoList = {
 	[11444] = {
 		Title = "Vigilante Corp",
 		Description = {
-			"Vá para a Raviol Forest, derrote alguns Sweet Roda Frogs e colete 2 [Luxurious Cloth]."
+			"Vá para a Raviol Forest, derrote alguns Sweet Roda Frogs e colete 2x [Tecido Peculiar]."
 		},
-		Summary = "Colete 2 panos de luxo"
+		Summary = "Colete 2 Tecidos Peculiares"
 	},
 	[11445] = {
 		Title = "Vigilante Corp",
@@ -36879,76 +36878,77 @@ QuestInfoList = {
 		Summary = "Descanse por 30 minutos."
 	},
 	[12510] = {
-		Title = "Sobre a arena oculta",
+		Title = "Sobre a Arena Oculta",
 		Description = {
-			"Descobri que a arena está sendo operada de forma ilegal além da fenda dimensional.",
-			"Não sei como eles conseguem realizar o Torneio ilegal, mas com certeza é muito divertido."
+			"Descobrimos que uma arena está sendo operada por meios ilegais além da Fenda Dimensional.",
+			"Não se sabe como convenceram aqueles que já se tornaram existências do passado, mas certamente é algo bastante interessante."
 		},
-		Summary = "Regras Covardes"
+		Summary = "Regras dos Covardes"
 	},
 	[12511] = {
-		Title = "Resfriamento - Sem Arena hoje",
+		Title = "[Espera]Hoje não há partidas",
 		Description = {
-			"A arena abre uma vez a cada 3 dias. É melhor fazer uma pausa quando não houver jogo."
+			"Dizem que a arena abre uma vez a cada 3 dias. Enquanto não houver partidas, é melhor descansar."
 		},
-		Summary = "A Arena recomeça às 4:00 (UTC-3) 3 dias depois"
+		Summary = "Partidas retomadas às 4h da madrugada após 3 dias",
+		CoolTimeQuest = 1
 	},
 	[12512] = {
-		Title = "Evidência de sobrevivência",
+		Title = "Prova de Sobrevivência",
 		Description = {
-			"Se você ainda estiver de pé na arena. E se estiver olhando para este passe, é uma prova de que está vivo."
+			"Se você ainda está de pé dentro da arena, e se está vendo este passe de entrada, isso é prova de que você está vivo."
 		},
 		Summary = "Ainda não morreu."
 	},
 	[12513] = {
-		Title = "Causa da destruição da torre",
+		Title = "Causa da Destruição da Torre",
 		Description = {
-			"Parece que o responsável por toda essa confusão se instalou dentro da torre parcialmente destruída. Vamos verificar que tipo de ser ele é."
+			"Parece que o responsável por esta comoção se instalou dentro da torre meio destruída. Vamos verificar que tipo de existência ele é."
 		},
-		Summary = "Novo dono da torre"
+		Summary = "Novo Dono da Torre"
 	},
 	[12514] = {
-		Title = "Sequelas de entrar na torre",
+		Title = "Sequelas da Entrada na Torre",
 		Description = {
-			"Entrar e sair deste lugar consome muita energia mental. Mesmo que ainda haja assuntos pendentes, é melhor voltar depois de 3 dias."
+			"Entrar e sair deste lugar consome muita energia mental. Mesmo que ainda tenha assuntos pendentes, será melhor voltar depois de 3 dias."
 		},
-		Summary = "Reentrada às 4h da manhã após 3 dias",
+		Summary = "Reentrada às 4h da madrugada após 3 dias",
 		CoolTimeQuest = 1
 	},
 	[12515] = {
-		Title = "Encontro com o novo dono da torre",
+		Title = "Encontro com o Novo Dono da Torre",
 		Description = {
-			"O novo dono da torre não matou todos os habitantes dela. É realmente generoso, mas, ao ver os monstros sendo expulsos, fica impossível imaginar o quanto ele é forte."
+			"O novo dono da torre não matou todos os moradores da torre. Isso é realmente generoso, mas ao ver os monstros sendo expulsos para baixo, é impossível imaginar o quão forte ele é."
 		},
-		Summary = "Vamos nos preservar."
+		Summary = "Vamos nos resguardar."
 	},
 	[12516] = {
-		Title = "Segredo da fonte 1",
+		Title = "Segredo da Fonte 1",
 		Description = {
-			"Vença após amplificar o poder de Betelgeuse em 300% ou mais. Será adicionada uma função que usa <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para elevar uma dificuldade específica até o limite."
+			"Amplifique o poder de Betelgeuse em 300% ou mais e vença. Será adicionada a função de usar <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para elevar uma dificuldade específica até o limite."
 		},
-		Summary = "Fortalecer atributo designado"
+		Summary = "Aprimoramento de atributo especificado"
 	},
 	[12517] = {
-		Title = "Segredo da fonte 1",
+		Title = "Segredo da Fonte 1",
 		Description = {
-			"Vença após amplificar o poder de Betelgeuse em 600% ou mais. Será adicionada uma função que usa <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para selar uma dificuldade específica em 0."
+			"Amplifique o poder de Betelgeuse em 600% ou mais e vença. Será adicionada a função de usar <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para selar uma dificuldade específica em 0."
 		},
-		Summary = "Selar atributo designado"
+		Summary = "Selamento de atributo especificado"
 	},
 	[12518] = {
-		Title = "Ser expulso",
+		Title = "Existência Expulsa",
 		Description = {
-			"Certamente houve uma grande mudança no ecossistema da torre. Antes de confirmar quem é o dono do trono alterado, será necessário fazer uma boa limpeza."
+			"É certo que ocorreu uma mudança drástica no ecossistema da torre. Antes de verificar quem é o dono do trono que mudou de mãos, será necessário fazer uma limpeza adequada."
 		},
-		Summary = "Está na hora de sair."
+		Summary = "Por favor, vá saindo."
 	},
 	[12519] = {
-		Title = "Paradeiro do dono original",
+		Title = "Paradeiro do Dono Original",
 		Description = {
-			"Se a torre ficou assim, é provável que o ser que originalmente dominava este lugar também não esteja ileso."
+			"Se a torre ficou assim, a existência que originalmente dominava este lugar também não deve ter saído ilesa."
 		},
-		Summary = "Talvez não haja mais nada de especial."
+		Summary = "Talvez agora não reste nada de especial."
 	},
 	[12520] = {
 		Title = "Mansão da Desilusão",
@@ -72526,7 +72526,7 @@ QuestInfoList = {
 		Title = "Passe de Batalha Diário 5",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Derrote 1 Pimentão em [Lamda (Difícil)]ba_maison,120,321,0,101,0"
+			"Derrote 1 Pimentão em <NAVI>[Lamda (Difícil)]<INFO>ba_maison,120,321,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Derrote 1 Pimentão"
 	},

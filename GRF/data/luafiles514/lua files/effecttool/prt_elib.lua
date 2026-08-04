@@ -1,4 +1,3 @@
-
 _prt_elib_effect_version = 2
 _prt_elib_emitterInfo = {
 	[0] = {

@@ -22,7 +22,7 @@
     "xNkJAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[ Voz Ecoante ]\nValente combatente...\nDeseja retornar ao seu lugar de glória?",
-        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
     },
     "xdkJAg": {
         "en-US": "Go back to your stronghold.",
@@ -191,8 +191,8 @@
     },
     "5tkJAg": {
         "en-US": "ssss[{0}] guild has conquered Neuschwanstein in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{ignorei18n_agitName}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{ignorei18n_agitName}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
     "59kJAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -572,7 +572,7 @@
     "MtoJAg": {
         "en-US": "[Butler Alfredo]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Alfredo]\n...\nA Kafra já foi dispensada como ordenado, Vossa Alteza.",
-        "es-ES": "[Mayordomo Alfredo]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Alfredo]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
     },
     "M9oJAg": {
         "en-US": "[Butler Alfredo]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -665,43 +665,27 @@
         "es-ES": "No pasó nada."
     },
     "RdoJAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "RtoJAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "R9oJAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "SNoJAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "SdoJAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "StoJAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "S9oJAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "TNoJAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     }
 }

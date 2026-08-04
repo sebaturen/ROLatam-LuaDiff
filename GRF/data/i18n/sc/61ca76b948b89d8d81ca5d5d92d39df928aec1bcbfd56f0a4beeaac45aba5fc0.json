@@ -41,7 +41,7 @@
     },
     "iEdsDQ": {
         "en-US": "[Venue Guide]\nOnce you arrive at the venue, find the Festival Receptionist to register your participation.\nEnjoy your noodles today!! Noodles are the best! Noodles are the best!!",
-        "pt-BR": "[Guia do Local]\nAo chegar no local, procure o Recepcionista do Festival para registrar sua participação.\nAproveite seu macarrão hoje!! Macarrão é o máximo! Macarrão é o máximo!!",
+        "pt-BR": "[Guia do Local]\nAo chegar no local, procure o Recepcionista do Festival para registrar sua participação.\nAproveite seu macarrão hoje!! Macarrão é demais! Macarrão é demais!!",
         "es-ES": "[Guía del Lugar]\nCuando llegues a la zona del evento, busca al personal del festival para registrar tu participación.\n¡Disfruta tus fideos hoy!! \n¡Los fideos son lo máximo! \n¡Los fideos son lo máximo!!"
     },
     "iUdsDQ": {
@@ -56,16 +56,16 @@
     },
     "i0dsDQ": {
         "en-US": "Right now, right here, you! Enjoy the hot summer with delicious noodles! Sign up for the festival!",
-        "pt-BR": "Agora mesmo, aqui e agora, você! Aproveite o verão quente com um delicioso macarrão! Inscreva-se no festival!",
+        "pt-BR": "Aqui e agora, aqui mesmo! Aproveite o calor do verão com um delicioso macarrão! Inscreva-se no festival!",
         "es-ES": "¡Ahora mismo, aquí y ahora, tú! ¡Disfruta del verano caliente con unos deliciosos fideos! ¡Inscríbete en el festival!"
     },
     "jEdsDQ": {
         "en-US": "Hot summer! Rise up with delicious noodles!",
-        "pt-BR": "Verão quente! Anime-se com um macarrão delicioso!",
+        "pt-BR": "Nesse calor de verão! Anime-se com um delicioso macarrão!",
         "es-ES": "¡Verano caliente! ¡Anímate con unos deliciosos fideos!"
     },
     "jUdsDQ": {
-        "en-US": "You have too many items in your inventory to continue the conversation.\nPlease organize your items and try again.",
+        "en-US": "You have too many items in your inventory to proceed with the conversation.\nPlease organize your items and try again.",
         "pt-BR": "Você tem muitos itens no seu inventário para continuar a conversa.\nPor favor, organize seus itens e tente novamente.",
         "es-ES": "Tienes demasiados objetos en tu inventario para continuar la conversación.\nPor favor, organiza tus objetos e intenta de nuevo."
     },
@@ -80,18 +80,18 @@
         "es-ES": "^0000CDDebes tener al menos Nivel Base de 50 para unirte al Festival de Fideos.^000000"
     },
     "kEdsDQ": {
-        "en-US": "[Festival Receptionist]\nHello! It's a really hot day, isn't it? Welcome to the Noodle Festival in Lasagna!\nFrom various events to prize raffles! Don't just pass by—come join in!",
-        "pt-BR": "[Recepcionista do Festival]\nOlá! É um dia realmente quente, não é? Bem-vindo ao Festival do Macarrão em Lasagna!\nDe vários eventos a sorteios de prêmios! Não passe direto—venha participar!",
+        "en-US": "[Festival Receptionist]\nHello! It's a really hot day, isn't it? Welcome to the Noodle Festival in Lasagna!\nFrom various events to prize raffles! Don't just pass by, come join in!",
+        "pt-BR": "[Recepcionista do Festival]\nOlá! Hoje está quente, não é? Bem-vindo ao Festival do Macarrão em Lasagna!\nHá vários eventos e sorteios de prêmios! Não perca essa chance! Venha participar conosco!",
         "es-ES": "[Recepcionista del Evento]\n¡Hola! \nHace mucho calor hoy, ¿verdad? \n¡Bienvenido al Festival de Fideos en Lasagna!\n¡Tenemos varios eventos y hasta sorteos de premios! \n¡No pases de largo! ¡Ven y participa!"
     },
     "kUdsDQ": {
         "en-US": "I want to register.",
-        "pt-BR": "Quero me registrar.",
+        "pt-BR": "Quero me inscrever.",
         "es-ES": "Quiero registrarme."
     },
     "kkdsDQ": {
         "en-US": "The Noodle Festival?",
-        "pt-BR": "O Festival do Macarrão?",
+        "pt-BR": "Festival do Macarrão?",
         "es-ES": "¿El Festival de Fideos?"
     },
     "k0dsDQ": {
@@ -111,7 +111,7 @@
     },
     "lkdsDQ": {
         "en-US": "[Festival Receptionist]\nYes, {0}. You're all registered.\nAs a registration gift, here's a ^0000CDFestival Fan^000000. If you hand this fan to our promoters in the major cities, you can come to the festival grounds anytime.",
-        "pt-BR": "[Recepcionista do Festival]\nSim, {0}. Você está registrado.\nComo presente de registro, aqui está um ^0000CDLeque do Festival^000000. Se você entregar este leque aos nossos promotores nas principais cidades, poderá vir ao local do festival a qualquer momento.",
+        "pt-BR": "[Recepcionista do Festival]\nCerto, {0}. Você está inscrito.\nComo brinde pela sua inscrição, aqui está um ^0000CDLeque do Festival^000000. Se você entregar este leque aos nossos promotores nas cidades principais, poderá vir ao local do festival quando quiser.",
         "es-ES": "[Recepcionista del Evento]\nSí, {0}. \nYa estás registrado.\nComo regalo de registro, aquí tienes un ^0000CDAbanico del Festival^000000. \nSi entregas este abanico a nuestros promotores en las ciudades principales, podrás venir al lugar del festival en cualquier momento."
     },
     "l0dsDQ": {
@@ -126,32 +126,32 @@
     },
     "mUdsDQ": {
         "en-US": "[Festival Receptionist]\nTo go to Nyail Cave, find the <NAVI>[Festival Manager]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, the gatekeeper of ^0000CDNyail Cave^000000!",
-        "pt-BR": "[Recepcionista do Festival]\nPara ir à Caverna Nyail, encontre o <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, o porteiro da ^0000CDCaverna Nyail do Mar de Lasagna^000000!",
+        "pt-BR": "[Recepcionista do Festival]\nPara ir à Caverna Nyail, encontre o <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, o guardião da ^0000CDCaverna Nyail do Mar de Lasagna^000000!",
         "es-ES": "[Recepcionista del Evento]\nPara ir a la Cueva de Nyail, busca al <NAVI>[Director del Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, el portero de la Cueva de Nyail, ¡y dirígete a la ^0000CDCueva de Nyail^000000 de inmediato!"
     },
     "mkdsDQ": {
         "en-US": "[Festival Receptionist]\nUh... you've already registered for the Noodle Festival!\nGo on and enjoy this hot summer with some noodles!",
-        "pt-BR": "[Recepcionista do Festival]\nUh... você já se registrou para o Festival do Macarrão!\nVá em frente e aproveite este verão quente com um pouco de macarrão!",
+        "pt-BR": "[Recepcionista do Festival]\nHmm... você já se inscreveu no Festival do Macarrão!\nVá em frente e aproveite este verão quente com um pouco de macarrão!",
         "es-ES": "[Recepcionista del Evento]\nUh... ¡ya te registraste para el Festival de Fideos!\n¡Adelante, disfruta de este verano caliente con unos fideos!"
     },
     "m0dsDQ": {
         "en-US": "[Festival Receptionist]\nIs this your first time at the Noodle Festival? In Lasagna, the Noodle Festival is also called the ^0000CDGreat Moon Festival^000000. Once a year, when an unusually large and beautiful moon rises, the water floods so high that the docks are completely submerged.",
-        "pt-BR": "[Recepcionista do Festival]\nÉ sua primeira vez no Festival do Macarrão? Em Lasagna, o Festival do Macarrão também é chamado de ^0000CDGrande Festival da Lua^000000. Uma vez por ano, quando uma lua extraordinariamente grande e bonita nasce, a água inunda tanto que os cais ficam completamente submersos.",
+        "pt-BR": "[Recepcionista do Festival]\nÉ sua primeira vez no Festival do Macarrão? Em Lasagna, o Festival do Macarrão também é chamado de ^0000CDGrande Festival Lunar^000000. Uma vez por ano, quando uma bela e gigantestca lua nasce, a água dos oceanos sobe tanto que os cais ficam completamente submersos.",
         "es-ES": "[Recepcionista del Evento]\n¿Es tu primera vez en el Festival de Fideos? \nEn Lasagna, el Festival de Fideos también se llama el ^0000CDGran Festival de la Luna^000000. \nUna vez al año, cuando sale una luna inusualmente grande y hermosa, el agua sube tanto que los muelles quedan completamente sumergidos."
     },
     "nEdsDQ": {
         "en-US": "[Festival Receptionist]\nAround this time, shellfish that look and smell slightly different from other sea creatures wash ashore from somewhere. In the past, no one knew what they were or where they came from.",
-        "pt-BR": "[Recepcionista do Festival]\nPor volta desta época, mariscos com aparência e odores um pouco diferentes de outras criaturas marinhas chegam à costa de algum lugar. Antigamente, ninguém sabia o que eram ou de onde vinham.",
+        "pt-BR": "[Recepcionista do Festival]\nNesse período, mariscos com uma aparência e um cheiro um pouco diferentes de outras criaturas marinhas chegam à nossa costa. Antigamente, ninguém sabia o que eram ou de onde vinham.",
         "es-ES": "[Recepcionista del Evento]\nPor esta época, mariscos que se ven y huelen ligeramente diferentes a otras criaturas marinas llegan a la costa desde algún lugar.\nAntiguamente, nadie sabía qué eran ni de dónde venían."
     },
     "nUdsDQ": {
-        "en-US": "[Festival Receptionist]\nIt was guessed that they came from a mysterious cave called ^0000CDNyail Cave^000000, spoken of in legends, but no one had ever seen it.",
-        "pt-BR": "[Recepcionista do Festival]\nAcreditava-se que eles vinham de uma caverna misteriosa chamada ^0000CDCaverna Nyail^000000, mencionada em lendas, mas ninguém jamais a tinha visto.",
+        "en-US": "[Festival Receptionist]\nIt was believed that they came from a mysterious cave called ^0000CDNyail Cave^000000, spoken of in legends, but no one had ever seen it.",
+        "pt-BR": "[Recepcionista do Festival]\nAcredita-se que eles tenham vindo de uma caverna misteriosa chamada ^0000CDCaverna Nyail^000000, mencionada em lendas, mas que ninguém jamais viu.",
         "es-ES": "[Recepcionista del Evento]\nSe suponía que venían de una cueva misteriosa llamada ^0000CDCueva de Miaul^000000, de la que hablaban las leyendas, pero nadie la había visto nunca."
     },
     "nkdsDQ": {
         "en-US": "[Festival Receptionist]\nCurious Dorams tasted them and couldn't forget the amazing flavor. But they were very scarce, and after this season passed, the sea creatures vanished, so few could enjoy them.",
-        "pt-BR": "[Recepcionista do Festival]\nDorams curiosos os provaram e não conseguiram esquecer o sabor incrível. Mas eram muito escassos e, depois que essa estação passava, as criaturas marinhas desapareciam, então poucos podiam apreciá-los.",
+        "pt-BR": "[Recepcionista do Festival]\nDorams curiosos provaram desses mariscos e não conseguiram esquecer o incrível sabor. Mas, como eram muito escassos, passada a estação as criaturas marinhas desapareciam e poucos podiam apreciá-los.",
         "es-ES": "[Recepcionista del Evento]\nUnos Dorams curiosos los probaron y no pudieron olvidar su increíble sabor. \nPero eran muy escasos, y después de que pasaba esta temporada, las criaturas marinas desaparecían, así que pocos podían disfrutarlos."
     },
     "n0dsDQ": {
@@ -161,7 +161,7 @@
     },
     "oEdsDQ": {
         "en-US": "[Festival Receptionist]\nThat was the legendary Nyail Cave. Noodle returned with a full load of those delicious creatures and spread the word of the cave's existence to other Dorams.",
-        "pt-BR": "[Recepcionista do Festival]\nEssa era a lendária Caverna Nyail. Macarrão voltou com uma carga cheia daquelas criaturas deliciosas e espalhou a notícia da existência da caverna para outros Dorams.",
+        "pt-BR": "[Recepcionista do Festival]\nEssa era a lendária Caverna Nyail. Macarrão voltou com uma carga cheia daquelas criaturas deliciosas e falou sobre a caverna para todos os outros Dorams.",
         "es-ES": "[Recepcionista del Evento]\nEsa era la legendaria Cueva de Miaul. \nFideo regresó con una carga completa de esas deliciosas criaturas y difundió la noticia de la existencia de la cueva a otros Dorams."
     },
     "oUdsDQ": {
@@ -171,12 +171,12 @@
     },
     "okdsDQ": {
         "en-US": "[Festival Receptionist]\nEnjoy some delicious noodles and take part in various events to beat the summer heat!",
-        "pt-BR": "[Recepcionista do Festival]\nComa um macarrão delicioso e participe de vários eventos para combater o calor do verão!",
+        "pt-BR": "[Recepcionista do Festival]\nVenha curtir um macarrão delicioso e participe dos vários eventos para aguentar o calor do verão!",
         "es-ES": "[Recepcionista del Evento]\n¡Disfruta de unos deliciosos fideos y participa en varios eventos para combatir el calor del verano!"
     },
     "o0dsDQ": {
         "en-US": "[Festival Receptionist]\nWhere would you like me to guide you?",
-        "pt-BR": "[Recepcionista do Festival]\nOnde você gostaria que eu te guiasse?",
+        "pt-BR": "[Recepcionista do Festival]\nPara onde você gostaria que eu te guiasse?",
         "es-ES": "[Recepcionista del Evento]\n¿Hacia dónde te gustaría que te guíe?"
     },
     "pEdsDQ": {
@@ -216,37 +216,37 @@
     },
     "q0dsDQ": {
         "en-US": "[Festival Receptionist]\nYou can only enter Nyail Cave through the <NAVI>[Festival Manager]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, the gatekeeper of Nyail Cave.",
-        "pt-BR": "[Recepcionista do Festival]\nVocê só pode entrar na Caverna Nyail através do <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, o porteiro da Caverna Nyail.",
+        "pt-BR": "[Recepcionista do Festival]\nVocê só pode entrar na Caverna Nyail através do <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, o guardião da entrada da Caverna Nyail.",
         "es-ES": "[Recepcionista del Evento]\nSolo puedes entrar a la Cueva de Miaul a través del <NAVI>[Director del Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>, el portero de la Cueva de Miaul."
     },
     "rEdsDQ": {
         "en-US": "[Festival Receptionist]\nDon't be disappointed if you don't see any Nyailo when you get to Nyail Cave. They respawn quickly. Now, I'll guide you to the Festival Manager.",
-        "pt-BR": "[Recepcionista do Festival]\nNão fique desapontado se não vir nenhum Macarroneta quando chegar à Caverna Nyail. Eles renascem rapidamente. Agora, vou te guiar até o Gerente do Festival.",
+        "pt-BR": "[Recepcionista do Festival]\nNão fique desapontado se não vir nenhuma Macarroneta logo que chegar na Caverna Nyail. Elas renascem rapidamente. Agora, vou te guiar até o Gerente do Festival.",
         "es-ES": "[Recepcionista del Evento]\nNo te decepciones si no ves ningún Nyailo al llegar a la Cueva de Miaul. Aparecen rápidamente. \nAhora, te guiaré hasta el Director del Festival."
     },
     "rUdsDQ": {
         "en-US": "[Festival Receptionist]\nOnce you've harvested the noodles, take them to Orzo. He'll boil them right in seawater and serve them with a delicious sauce.",
-        "pt-BR": "[Recepcionista do Festival]\nDepois de colher os macarrões, leve-os ao Orzo. Ele os ferverá na água do mar e os servirá com um molho delicioso.",
+        "pt-BR": "[Recepcionista do Festival]\nDepois de colher os macarrões, leve-os ao Orzo. Ele cozinhará com água do mar e os servirá com um molho delicioso.",
         "es-ES": "[Recepcionista del Evento]\nUna vez que hayas cosechado los fideos, llévaselos a Orzo. \nLos hervirá en agua de mar y los servirá con una deliciosa salsa."
     },
     "rkdsDQ": {
         "en-US": "[Festival Receptionist]\nI'll guide you to the <NAVI>[Noodle Artisan Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, who makes delicious noodles.",
-        "pt-BR": "[Recepcionista do Festival]\nVou te guiar até o <NAVI>[Mestre Macarrão Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, que faz macarrão delicioso.",
+        "pt-BR": "[Recepcionista do Festival]\nVou te guiar até o <NAVI>[Mestre Macarrão Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, que faz um macarrão delicioso.",
         "es-ES": "[Recepcionista del Evento]\nTe guiaré hasta el <NAVI>[Maestro Fideo Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, quien prepara deliciosos fideos."
     },
     "r0dsDQ": {
         "en-US": "[Festival Receptionist]\nAfter a hot bowl of noodles, you must try a cold, sweet dessert!!",
-        "pt-BR": "[Recepcionista do Festival]\nDepois de uma tigela de macarrão quente, você deve experimentar uma sobremesa doce e geladinha!!",
+        "pt-BR": "[Recepcionista do Festival]\nDepois de uma tigela de macarrão quente, você precisa experimentar uma sobremesa doce e geladinha!!",
         "es-ES": "[Recepcionista del Evento]\n¡Después de un plato caliente de fideos, debes probar un postre frío y dulce!!"
     },
     "sEdsDQ": {
         "en-US": "[Festival Receptionist]\nThe perfect balance of sweet and savory! This year, we've prepared a special Watermelon Pudding, and we're also running a fun ^0000CDWatermelon Smashing Event^000000, so don't forget to stop by!",
-        "pt-BR": "[Recepcionista do Festival]\nO equilíbrio perfeito entre doce e salgado! Este ano, preparamos um Pudim de Melancia especial e também estamos realizando um divertido ^0000CDEvento de Quebrar Melancias^000000, então não se esqueça de passar por lá!",
+        "pt-BR": "[Recepcionista do Festival]\nO equilíbrio perfeito entre doce e salgado! Este ano, preparamos um Pudim de Melancia especial e também estamos realizando um divertido ^0000CDEvento de Quebrar Melancias^000000, então não se esqueça de dar uma passadinha!",
         "es-ES": "[Recepcionista del Evento]\n¡El equilibrio perfecto entre dulce y salado! \nEste año, hemos preparado un Pudín de Sandía especial, y también tenemos un divertido ^0000CDEvento de Romper Sandías^000000, ¡así que no olvides pasar!"
     },
     "sUdsDQ": {
         "en-US": "[Festival Receptionist]\nI'll guide you to <NAVI>[Helper Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>.",
-        "pt-BR": "[Recepcionista do Festival]\nVou te guiar até a <NAVI>[Ajudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>.",
+        "pt-BR": "[Recepcionista do Festival]\nVou te guiar até o <NAVI>[Ajudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>.",
         "es-ES": "[Recepcionista del Evento]\nTe guiaré hasta la <NAVI>[Ayudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
     },
     "skdsDQ": {
@@ -261,32 +261,32 @@
     },
     "tEdsDQ": {
         "en-US": "[Festival Receptionist]\nAh, did you lose something? Or are you looking for the owner of a lost item...? Come to think of it, there's a ^0000CDDuckling^000000 wandering around.",
-        "pt-BR": "[Recepcionista do Festival]\nAh, você perdeu algo? Ou está procurando o dono de um item perdido...? Agora que me lembro, há um ^0000CDPatolindo^000000 andando por aí.",
+        "pt-BR": "[Recepcionista do Festival]\nAh, você perdeu algo? Ou está procurando o dono de um item perdido...? Pensando bem, há um ^0000CDPatolindo^000000 andando por aí.",
         "es-ES": "[Recepcionista del Evento]\nAh, ¿perdiste algo? \n¿O estás buscando al dueño de un objeto perdido...? \nAhora que lo pienso, hay un ^0000CDPatolino^000000 rondando por ahí."
     },
     "tUdsDQ": {
         "en-US": "[Coupon Reception]\nThere's a <NAVI>[Duckling]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI> near the southern fishing spot. If the owner doesn't come for it, please bring it to the Lost & Found. Thank you.",
-        "pt-BR": "[Recepção de Cupons]\nHá um <NAVI>[Patolindo]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI> perto do ponto de pesca ao sul. Se o dono não vier buscá-lo, por favor, traga-o para o Achados e Perdidos. Obrigado.",
+        "pt-BR": "[Recepção de Cupons]\nHá um <NAVI>[Patolindo]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI> perto do ponto de pesca ao sul. Se o dono não vier buscá-lo, por favor, leve-o até o Achados e Perdidos. Obrigado.",
         "es-ES": "[Recepción de Cupones]\nHay un <NAVI>[Patolino]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI> cerca del punto de pesca al sur. \nSi el dueño no viene por él, por favor tráelo a Objetos Perdidos. \nGracias."
     },
     "tkdsDQ": {
         "en-US": "[Festival Receptionist]\nUnderstood. Let me know anytime you need guidance!",
-        "pt-BR": "[Recepcionista do Festival]\nEntendido. Avise-me sempre que precisar de orientação!",
+        "pt-BR": "[Recepcionista do Festival]\nEntendido. Avise-me sempre que precisar de orientações!",
         "es-ES": "[Recepcionista del Evento]\nEntendido. \n¡Avísame cuando necesites orientación!"
     },
     "t0dsDQ": {
-        "en-US": "[Festival Receptionist]\nAs you enjoy the Noodle Festival and participate in various events, you'll receive ^0000CDCoins^000000 that can be exchanged for ^0000CDprizes^000000.",
-        "pt-BR": "[Recepcionista do Festival]\nEnquanto você aproveita o Festival do Macarrão e participa de vários eventos, receberá ^0000CDMoedas^000000 que podem ser trocadas por ^0000CDprêmios^000000.",
+        "en-US": "[Festival Receptionist]\nAs you enjoy the Noodle Festival and participate in various events, you'll receive ^0000CDRavioli Coins^000000 that can be exchanged for ^0000CDprizes^000000.",
+        "pt-BR": "[Recepcionista do Festival]\nAo participar do Festival do Macarrão e completar vários eventos, você receberá ^0000CDMoedas Ravioli^000000, que podem ser trocadas por ^0000CDprêmios^000000.",
         "es-ES": "[Recepcionista del Evento]\nMientras disfrutas del Festival de Fideos y participas en varios eventos, recibirás ^0000CDMonedas Ravioli^000000 que se pueden cambiar por ^0000CDpremios^000000."
     },
     "uEdsDQ": {
-        "en-US": "[Festival Receptionist]\nOh! Also, every time you complete a prepared event, we'll give you a ^0000CDstamp on your coupon^000000.",
-        "pt-BR": "[Recepcionista do Festival]\nAh! Além disso, sempre que você completar um evento preparado, daremos a você um ^0000CDcarimbo no seu cupom^000000.",
+        "en-US": "[Festival Receptionist]\nOh! Also, every time you complete a designated quest, we'll give you a ^0000CDstamp on your coupon^000000.",
+        "pt-BR": "[Recepcionista do Festival]\nAh! Além disso, ao completar as missões que preparamos pra você, ^0000CDcarimbaremos o seu cupom^000000.",
         "es-ES": "[Recepcionista del Evento]\n¡Ah! También, cada vez que completes un evento preparado, te daremos un ^0000CDsello en tu cupón^000000."
     },
     "uUdsDQ": {
         "en-US": "[Festival Receptionist]\nIf you get your ^0000CDstamp coupon^000000 and bring it to the staff, you'll receive the Noodle Festival souvenir <ITEM>[Wavy Noodles]<INFO>400160</INFO></ITEM> once, so don't forget to claim it!",
-        "pt-BR": "[Recepcionista do Festival]\nSe você pegar seu ^0000CDcupom carimbado^000000 e trouxer para o staff, receberá a lembrança do Festival do Macarrão <ITEM>[Festa Macarrônica]<INFO>400160</INFO></ITEM> uma vez, então não se esqueça de pegá-lo!",
+        "pt-BR": "[Recepcionista do Festival]\nSe você trouxer seu ^0000CDcupom carimbado^000000 para os encarregados do evento, você irá ganhar a lembrança do Festival do Macarrão <ITEM>[Festa Macarrônica]<INFO>400160</INFO></ITEM>. Mas é só uma vez, então não se esqueça de garantir o seu!",
         "es-ES": "[Recepcionista del Evento]\nSi obtienes tu ^0000CDcupón sellado^000000 y lo traes al personal, recibirás el recuerdo del Festival de Fideos <ITEM>[Tazón de Fideos]<INFO>400160</INFO></ITEM> una vez, ¡así que no olvides reclamarlo!"
     },
     "ukdsDQ": {
@@ -296,57 +296,57 @@
     },
     "u0dsDQ": {
         "en-US": "[Festival Manager]\nWelcome! Welcome to the Noodle Festival. For generations, the Noodle Festival has started with the ^0000CDharvest of Meatballs^000000!",
-        "pt-BR": "[Gerente do Festival]\nBem-vindo! Bem-vindo ao Festival do Macarrão. Por gerações, o Festival do Macarrão começou com a ^0000CDcolheita de Almôndegas^000000!",
+        "pt-BR": "[Gerente do Festival]\nBem-vindo! Seja bem-vindo ao Festival do Macarrão. Por gerações, o Festival do Macarrão se inicia com a ^0000CDcolheita de Almôndegas^000000!",
         "es-ES": "[Director del Festival]\n¡Bienvenido! \nBienvenido al Festival de Fideos. \nPor generaciones, el Festival de Fideos ha comenzado con la ^0000CDCosecha de Albóndigas^000000!"
     },
     "vEdsDQ": {
         "en-US": "[Festival Manager]\n^0000CDMeatballs^000000, obtained from ^0000CDNyailo^000000 that live in ^0000CDNyail Cave^000000, are incredibly tasty and considered a premium ingredient.",
-        "pt-BR": "[Gerente do Festival]\nAs ^0000CDAlmôndegas^000000, obtidas de ^0000CDMacarroneta^000000 que vivem na ^0000CDCaverna Nyail^000000, são incrivelmente saborosas e consideradas um ingrediente premium.",
+        "pt-BR": "[Gerente do Festival]\nAs ^0000CDAlmôndegas^000000, obtidas de ^0000CDMacarronetas^000000 que vivem na ^0000CDCaverna Nyail^000000, são incrivelmente saborosas e consideradas um ingrediente de primeira qualidade.",
         "es-ES": "[Director del Festival]\nLas ^0000CDAlbóndigas^000000, obtenidas de los ^0000CDNyailos^000000 que viven en la ^0000CDCueva de Miaul^000000, son increíblemente sabrosas y se consideran un ingrediente premium."
     },
     "vUdsDQ": {
         "en-US": "[Festival Manager]\nThese meatballs are delicious on their own, and when paired with various noodle dishes, they offer a taste of heaven.",
-        "pt-BR": "[Gerente do Festival]\nEssas almôndegas são deliciosas por si só e, quando combinadas com vários pratos de macarrão, oferecem um sabor divino.",
+        "pt-BR": "[Gerente do Festival]\nEssas almôndegas são deliciosas por si só! Mas, quando combinadas com os diversos tipos de macarrão, elas despertam um sabor divino.",
         "es-ES": "[Director del Festival]\nEstas Albóndigas son deliciosas por sí solas, y cuando se combinan con varios platos de fideos, ofrecen un sabor celestial."
     },
     "vkdsDQ": {
         "en-US": "[Festival Manager]\nIf you want to learn more about Meatballs, listen to the story from the Festival Receptionist.",
-        "pt-BR": "[Gerente do Festival]\nSe você quiser saber mais sobre as Almôndegas, ouça a história do Recepcionista do Festival\n.",
+        "pt-BR": "[Gerente do Festival]\nSe quiser saber mais sobre as Almôndegas, fale com o Recepcionista do Festival e ouça a sua história.",
         "es-ES": "[Director del Festival]\nSi quieres saber más sobre las Albóndigas, escucha la historia del Recepcionista del Evento."
     },
     "v0dsDQ": {
         "en-US": "[Festival Manager]\nBring me ^0000CDone each of Spaghetti Pasta, Bow-tie Pasta, Smooth Noodle, and Meatball^000000—the ingredients for making delicious noodles.",
-        "pt-BR": "[Gerente do Festival]\nTraga-me ^0000CDum de cada: Macarrão Espaguete, Macarrão Gravatinha, Macarrão Parafuso e Almôndega^000000—os ingredientes para fazer um delicioso macarrão.",
+        "pt-BR": "[Gerente do Festival]\nTraga-me ^0000CDum de cada: Macarrão Espaguete, Macarrão Gravatinha, Macarrão Parafuso e Almôndega^000000. Estes são os ingredientes necessários para se fazer um delicioso macarrão.",
         "es-ES": "[Director del Festival]\nTráeme ^0000CDuno de cada uno: Fideos Espagueti, Fideo Corbata, Fideo Tirabuzón y Albóndiga^000000 los ingredientes para hacer deliciosos fideos."
     },
     "wEdsDQ": {
         "en-US": "[Festival Manager]\nYou can obtain each from ^0000CDSmall Whirlpool, Dandy Star, Wiggly Tail, and Nyailo^000000, respectively.",
-        "pt-BR": "[Gerente do Festival]\nVocê pode obter cada um dos ^0000CDTorvelinhos, Estrelitas, Alga-Chicotes e Macarronetas^000000, respectivamente.",
+        "pt-BR": "[Gerente do Festival]\nVocê pode obtê-los dos ^0000CDTorvelinhos, Estrelitas, Alga-Chicotes e Macarronetas^000000 respectivamente.",
         "es-ES": "[Director del Festival]\nPuedes obtener cada uno de los ^0000CDTorbellino Pequeño, Estrella Dandy, Alga Ondulante y Nyailo^000000, respectivamente."
     },
     "wUdsDQ": {
         "en-US": "[Festival Manager]\nNyailo appear all over Nyail Cave. If you don't see one when you enter, just wait a moment—they respawn quickly.",
-        "pt-BR": "[Gerente do Festival]\nMacarronetas aparecem por toda a Caverna Nyail. Se você não vir um ao entrar, apenas espere um momento—eles renascem rapidamente.",
+        "pt-BR": "[Gerente do Festival]\nMacarronetas aparecem por toda a Caverna Nyail. Se você não encontrar uma assim que entrar, apenas espere um pouco. Elas renascem rapidamente.",
         "es-ES": "[Director del Festival]\nLos Nyailos aparecen por toda la Cueva de Miaul. \nSi no ves uno al entrar, solo espera un momento ellos aparecen rápidamente."
     },
     "wkdsDQ": {
-        "en-US": "[Festival Manager]\nNow, would you like to head to ^0000CDNyail Cave^000000 right now?",
-        "pt-BR": "[Gerente do Festival]\nAgora, você gostaria de ir para a ^0000CDCaverna Nyail^000000 agora mesmo?",
+        "en-US": "[Festival Manager]\nSo, would you like to head to ^0000CDNyail Cave^000000 right now?",
+        "pt-BR": "[Gerente do Festival]\nEntão, você gostaria de ir para a ^0000CDCaverna Nyail^000000 agora?",
         "es-ES": "[Director del Festival]\nAhora, ¿te gustaría ir a la ^0000CDCueva de Miaul^000000 ahora mismo?"
     },
     "w0dsDQ": {
         "en-US": "Yes! Send me there!",
-        "pt-BR": "Sim! Me mande para lá!",
+        "pt-BR": "Sim! Me leve até lá!",
         "es-ES": "¡Sí! ¡Envíame allá!"
     },
     "xEdsDQ": {
         "en-US": "Hold on, let me prepare first.",
-        "pt-BR": "Espere, deixe-me me preparar primeiro.",
+        "pt-BR": "Espere, preciso me preparar primeiro.",
         "es-ES": "Espera, déjame prepararme primero."
     },
     "xUdsDQ": {
         "en-US": "[Festival Manager]\nThen, off to Nyail Cave!",
-        "pt-BR": "[Gerente do Festival]\nEntão, vá para a Caverna Nyail!",
+        "pt-BR": "[Gerente do Festival]\nEntão, vamos para a Caverna Nyail!",
         "es-ES": "[Director del Festival]\n¡Entonces, a la Cueva de Miaul!"
     },
     "xkdsDQ": {
@@ -356,27 +356,27 @@
     },
     "x0dsDQ": {
         "en-US": "[Festival Manager]\nHow was the Meatball harvest? Try eating one of the harvested Meatballs. You'll feel refreshed in body and mind.",
-        "pt-BR": "[Gerente do Festival]\nComo foi a colheita de Almôndegas? Tente comer uma das Almôndegas colhidas. Você se sentirá revigorado no corpo e na mente.",
+        "pt-BR": "[Gerente do Festival]\nComo foi a colheita de Almôndegas? Tente comer uma das Almôndegas que você colheu. Você se sentirá revigorado de corpo e alma.",
         "es-ES": "[Director del Festival]\n¿Cómo fue la cosecha de las Albóndigas? \nIntenta de comer una de las albóndigas cosechadas. \nTe sentirás renovado en cuerpo y mente."
     },
     "yEdsDQ": {
         "en-US": "[Festival Manager]\nNow, enjoy the Noodle Festival in Lasagna to the fullest!",
-        "pt-BR": "[Gerente do Festival]\nAgora, aproveite ao máximo o Festival do Macarrão em Lasagna!",
+        "pt-BR": "[Gerente do Festival]\nAgora, vá curtir o Festival do Macarrão em Lasagna até não poder mais!",
         "es-ES": "[Director del Festival]\n¡Ahora, disfruta al máximo del Festival de Fideos en Lasagna!"
     },
     "yUdsDQ": {
-        "en-US": "[Festival Manager]\nFor the locations of each event area, ask the Festival Receptionist standing across from me—they'll kindly guide you.",
-        "pt-BR": "[Gerente do Festival]\nPara a localização de cada área de evento, pergunte ao Recepcionista do Festival que está em pé do outro lado—ele te guiará gentilmente.",
+        "en-US": "[Festival Manager]\nFor the locations of each event area, ask the Festival Receptionist standing across from me—he'll kindly guide you.",
+        "pt-BR": "[Gerente do Festival]\nPara saber onde fica cada área de evento, pergunte ao Recepcionista do Festival que está logo à minha frente. Ele te guiará prontamente.",
         "es-ES": "[Director del Festival]\nPara las ubicaciones de cada área de evento, pregúntale al Recepcionista del Evento que está al otro lado te guiará amablemente."
     },
     "ykdsDQ": {
         "en-US": "[Festival Manager]\nWait, let me check your inventory for a moment. I was going to give you a souvenir, but it looks like you don't have room.",
-        "pt-BR": "[Gerente do Festival]\nEspere, deixe-me verificar seu inventário por um momento. Eu ia te dar uma lembrança, mas parece que você não tem espaço.",
+        "pt-BR": "[Gerente do Festival]\nEspere, deixe-me verificar seu inventário. Eu ia te dar uma lembrancinha, mas parece que você não tem espaço.",
         "es-ES": "[Director del Festival]\nEspera, déjame revisar tu inventario un momento. \nIba a darte un recuerdo, pero parece que no tienes espacio."
     },
     "y0dsDQ": {
         "en-US": "[Festival Manager]\nOh dear, you came empty-handed. Was the Meatball harvest difficult? Would you like to go back to Nyail Cave?",
-        "pt-BR": "[Gerente do Festival]\nOh, querido, você voltou de mãos vazias. A colheita de Almôndegas foi difícil? Gostaria de voltar à Caverna Nyail?",
+        "pt-BR": "[Gerente do Festival]\nPuxa vida, você voltou de mãos vazias! A colheita de Almôndegas foi tão difícil assim? Você quer voltar à Caverna Nyail?",
         "es-ES": "[Director del Festival]\nOh, vaya, viniste con las manos vacías. \n¿Fue difícil la cosecha de albóndigas? \n¿Te gustaría volver a la Cueva Miaul?"
     },
     "zEdsDQ": {
@@ -386,12 +386,12 @@
     },
     "zUdsDQ": {
         "en-US": "[Festival Manager]\nWelcome! Welcome to the Noodle Festival. How are you enjoying this delicious summer filled with various events?",
-        "pt-BR": "[Gerente do Festival]\nBem-vindo! Bem-vindo ao Festival do Macarrão. Como você está aproveitando este verão delicioso cheio de vários eventos?",
+        "pt-BR": "[Gerente do Festival]\nBem-vindo! Seja bem-vindo ao Festival do Macarrão. Você está aproveitando os vários eventos do Festival?",
         "es-ES": "[Director del Festival]\n¡Bienvenido! \nBienvenido al Festival de Fideos. \n¿Cómo estás disfrutando de este delicioso verano lleno de varios eventos?"
     },
     "zkdsDQ": {
-        "en-US": "[Festival Manager]\nPlease register for the festival with the <NAVI>[Festival Receptionist]<INFO>lasagna,83,197,0,101,0,</INFO></NAVI> NPC first, then come back to me.",
-        "pt-BR": "[Gerente do Festival]\nPor favor, registre-se no festival com o NPC <NAVI>[Recepcionista do Festival]<INFO>lasagna,83,197,0,101,0,</INFO></NAVI> primeiro e depois volte para mim.",
+        "en-US": "[Festival Manager]\nPlease, first register for the festival with the <NAVI>[Festival Receptionist]<INFO>lasagna,83,197,0,101,0,</INFO></NAVI>, then come back to me.",
+        "pt-BR": "[Gerente do Festival]\nPor favor, primeiro faça sua inscrição para o festival com o <NAVI>[Recepcionista do Festival]<INFO>lasagna,83,197,0,101,0,</INFO></NAVI> e depois venha falar comigo.",
         "es-ES": "[Director del Festival]\nPor favor, regístrate en el festival con el NPC <NAVI>[Recepcionista del Evento]<INFO>lasagna,83,197,0,101,0,</INFO></NAVI> primero, y luego vuelve a verme."
     },
     "z0dsDQ": {
@@ -406,12 +406,12 @@
     },
     "0UdsDQ": {
         "en-US": "[Noodle Artisan Orzo]\nHello! It's a great day for noodles, isn't it? How about some delicious noodles?",
-        "pt-BR": "[Mestre Macarrão Orzo]\nOlá! É um ótimo dia para macarrão, não é? Que tal um delicioso macarrão?",
+        "pt-BR": "[Mestre Macarrão Orzo]\nOlá! É um ótimo dia para macarrão, não é mesmo? Vai um macarrão quentinho aí?",
         "es-ES": "[Maestro Fideo Orzo]\n¡Hola! \nEs un gran día para los fideos, ¿verdad? \n¿Qué tal unos deliciosos fideos?"
     },
     "0kdsDQ": {
         "en-US": "[Noodle Artisan Orzo]\nBring me ^0000CD5 Spaghetti Pasta, 5 Bow-tie Pasta, 5 Thin Noodles, and 1 Meatball^000000, and I'll boil them right in seawater to make you some tasty ^0000CDNoodles^000000.",
-        "pt-BR": "[Mestre Macarrão Orzo]\nTraga-me ^0000CD5 Macarrão Espaguete, 5 Macarrão Gravatinha, 5 Macarrão Parafuso e 1 Almôndega^000000, e eu os ferverei na água do mar para fazer um delicioso ^0000CDMacarrão^000000.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nTraga-me ^0000CD5 Macarrão Espaguete, 5 Macarrão Gravatinha, 5 Macarrão Parafuso e 1 Almôndega^000000. Cozinharei tudo em água do mar para fazer um delicioso ^0000CDMacarrão^000000.",
         "es-ES": "[Maestro Fideo Orzo]\nTráeme ^0000CD5 Fideos Espagueti, 5 Fideo Corbata, 5 Fideo Tirabuzón y Albóndiga^000000, y los herviré en agua de mar para hacerte unos sabrosos ^0000CDFideos^000000."
     },
     "00dsDQ": {
@@ -426,17 +426,17 @@
     },
     "1UdsDQ": {
         "en-US": "[Noodle Artisan Orzo]\nYou can get Spaghetti Pasta by catching ^0000CDSmall Whirlpools^000000, which appear around this time.",
-        "pt-BR": "[Mestre Macarrão Orzo]\nVocê pode obter Espaguete pescando ^0000CDTorvelinho^000000, que aparecem por volta desta época.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nVocê pode obter Macarrão Espaguete caçando ^0000CDTorvelinho^000000, que aparecem por volta desta época.",
         "es-ES": "[Maestro Fideo Orzo]\nPuedes obtener Fideo Tirabuzón atrapando ^0000CDTorbellino Pequeño^000000, que aparecen por esta época."
     },
     "1kdsDQ": {
         "en-US": "[Noodle Artisan Orzo]\nBow-tie Pasta grow attached to ^0000CDDandy Stars^000000, so go harvest them.",
-        "pt-BR": "[Mestre Macarrão Orzo]\nMacarrão Gravatinha crescem presos a ^0000CDEstrelita^000000, então vá colhê-los.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nMacarrão Gravatinha pode ser colhido de ^0000CDEstrelita^000000.",
         "es-ES": "[Maestro Fideo Orzo]\nLos Fideo Corbata crecen pegados a las ^0000CDEstrellas Dandy^000000, así que ve a cosecharlos."
     },
     "10dsDQ": {
         "en-US": "[Noodle Artisan Orzo]\nThin Noodles can be pulled from ^0000CDSwing Tail^000000, so bring those.",
-        "pt-BR": "[Mestre Macarrão Orzo]\nMacarrão Parafuso podem ser puxados de ^0000CDAlga-Chicote^000000, então traga-os.",
+        "pt-BR": "[Mestre Macarrão Orzo]\nMacarrão Parafuso pode ser arrancado de ^0000CDAlga-Chicote^000000.",
         "es-ES": "[Maestro Fideo Orzo]\nLos Fideos Espagueti se pueden sacar de las ^0000CDAlga Ondulante^000000, así que tráelos."
     },
     "2EdsDQ": {

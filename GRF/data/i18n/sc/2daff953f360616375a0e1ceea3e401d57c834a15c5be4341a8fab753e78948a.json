@@ -206,8 +206,8 @@
     },
     "SYgUAg": {
         "en-US": "ssss[{0}] guild has conquered Yesnelph in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{ignorei18n_agitName}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{ignorei18n_agitName}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
     "SogUAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -587,7 +587,7 @@
     "lYgUAg": {
         "en-US": "[Butler Jyang]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Jyang]\n...\nA Kafra já foi dispensada como ordenado, Vossa Alteza.",
-        "es-ES": "[Mayordomo Jyang]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Jyang]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
     },
     "logUAg": {
         "en-US": "[Butler Jyang]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -680,43 +680,27 @@
         "es-ES": "No pasó nada."
     },
     "qIgUAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "qYgUAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "qogUAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "q4gUAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "rIgUAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "rYgUAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "rogUAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "r4gUAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     }
 }

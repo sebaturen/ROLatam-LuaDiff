@@ -5365,5 +5365,14 @@ JobNameTable = {
 	[jobtbl.JT_HEADSTONE1] = "HEADSTONE1",
 	[jobtbl.JT_HEADSTONE2] = "HEADSTONE2",
 	[jobtbl.JT_HEADSTONE3] = "HEADSTONE3",
-	[jobtbl.JT_HEADSTONE4] = "HEADSTONE4"
+	[jobtbl.JT_HEADSTONE4] = "HEADSTONE4",
+	[jobtbl.JT_MD_Airboat_Tree] = "MD_Airboat_Tree",
+	[jobtbl.JT_MD_Airboat_Poring] = "MD_Airboat_Poring",
+	[jobtbl.JT_MD_Airboat_Worm] = "MD_Airboat_Worm",
+	[jobtbl.JT_MD_Airboat_LEECH] = "MD_Airboat_LEECH",
+	[jobtbl.JT_MD_Airboat_Mos] = "MD_Airboat_Mos",
+	[jobtbl.JT_MD_Airboat_Boss] = "MD_Airboat_Boss",
+	[jobtbl.JT_MD_Airboat_Boss2] = "MD_Airboat_Boss",
+	[jobtbl.JT_MD_Airboat_Boss3] = "MD_Airboat_Boss",
+	[jobtbl.JT_MD_Airboat_Boss4] = "MD_Airboat_Boss"
 }

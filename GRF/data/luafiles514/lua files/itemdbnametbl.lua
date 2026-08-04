@@ -1479,7 +1479,9 @@ ItemDBNameTbl = {
 	Shadow_Changer_A_W = 100890,
 	S_KingbirdAnc_Weapon = 24745,
 	S_KingbirdAncient_Armor = 24401,
-	Hero_Up_Cube_11 = 102224
+	Hero_Up_Cube_11 = 102224,
+	Clock_Tower_W_Hammer = 101390,
+	Poenitentia_Hammer = 101306
 }
 function ItemDB_To_ItemID(in_ItemDB)
 	if nil == ItemDBNameTbl[in_ItemDB] then

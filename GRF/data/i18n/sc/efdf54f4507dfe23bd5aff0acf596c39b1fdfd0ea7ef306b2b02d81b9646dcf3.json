@@ -41,7 +41,7 @@
     },
     "KGRVDQ": {
         "en-US": "This does not seem like the kind of box that should be in a place like this.. It is a brightly wrapped box. Could it be a new type of Mimic?",
-        "pt-BR": "Não parece ser uma caixa que deveria estar em um lugar destes.. É uma caixa embrulhada de forma vistosa. Será algum novo tipo de Mimic?",
+        "pt-BR": "Não parece ser uma caixa que deveria estar em um lugar destes.. É uma caixa embrulhada de forma vistosa. Será algum novo tipo de Mímico?",
         "es-ES": "No parece ser una caja que deba estar en un lugar como este... pero está envuelta de manera llamativa. ¿Será una nueva especie de Mímico?"
     },
     "KWRVDQ": {
@@ -255,9 +255,9 @@
         "es-ES": "[Demonio de la Caja]\nMmm... Esto es... ¿la Torre del Reloj? Bueno, lo importante es que no es el lugar donde estaba."
     },
     "U2RVDQ": {
-        "en-US": "[Box Demon]\nHmmm~",
-        "pt-BR": "[Demônio da Caixa]\nHuu~mm~",
-        "es-ES": "[Demonio de la Caja]\nMmm~"
+        "en-US": "[Box Demon]\nHmmm...",
+        "pt-BR": "[Demônio da Caixa]\nHmm...",
+        "es-ES": "[Demonio de la Caja]\nMmm..."
     },
     "VGRVDQ": {
         "en-US": "[Box Demon]\nOh! A thick scent.. That winder smells like the place I came from. I should go back.",
@@ -301,7 +301,7 @@
     },
     "XGRVDQ": {
         "en-US": "[Box Demon]\nWhy! Why! Why! Why can't I go in!!!!!",
-        "pt-BR": "[Demônio da Caixa]\nPor quê! Por quê! Por quê! Por que não consigo entrar!!!!!",
+        "pt-BR": "[Demônio da Caixa]\nPor quê? Por quê? Por quê? Por que não consigo entrar??!!!",
         "es-ES": "[Demonio de la Caja]\n¿Por qué? ¿Por qué? ¿Por qué? ¡¡¡¡¡¿Por qué no puedo entrar?!!!!!"
     },
     "XWRVDQ": {
@@ -536,7 +536,7 @@
     },
     "i2RVDQ": {
         "en-US": "Demon: Have you finally thought to ask the name of the great demon? My name is Pakazmuchi!",
-        "pt-BR": "Demônio: Só agora pensou em perguntar o nome do grande demônio? Meu nome é Pakazmuch!",
+        "pt-BR": "Demônio: Só agora pensou em perguntar o nome do grande demônio? Meu nome é Pakazmuchi!",
         "es-ES": "Demonio: ¿Por fin se te ha ocurrido preguntar el nombre del gran demonio? ¡Mi nombre es Pakazmuchi!"
     },
     "jGRVDQ": {
@@ -641,7 +641,7 @@
     },
     "oGRVDQ": {
         "en-US": "[Daily] Demon's Pet Mimic",
-        "pt-BR": "[Diária] Mimic de Estimação do Demônio",
+        "pt-BR": "[Diária] Mímico, O Mascote do Demônio",
         "es-ES": "[Diaria] Mimic mascota del demonio"
     },
     "oWRVDQ": {

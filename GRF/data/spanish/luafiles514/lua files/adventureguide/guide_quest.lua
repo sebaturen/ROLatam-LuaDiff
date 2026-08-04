@@ -1,4 +1,3 @@
-
 GuideQuest.TitleText = "Quest"
 GuideQuest.MainMenuIndex = 3
 GuideQuest.MainMenuTitle = "Quest"

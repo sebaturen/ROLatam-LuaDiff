@@ -1,4 +1,3 @@
-
 OptionTbl = {
 	[1] = {
 		ID = TT_HIDE_AURA_ON_OFF,

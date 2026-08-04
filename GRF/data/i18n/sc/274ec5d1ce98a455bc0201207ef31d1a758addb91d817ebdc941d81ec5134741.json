@@ -236,7 +236,7 @@
     },
     "r7lfDA": {
         "en-US": "[Maggie]\nStill, I'm glad you're here with me, {0}.\nWaiting alone in a place like this would have been <FONT SIZE = 10>a bit nerve-wracking...</FONT>",
-        "pt-BR": "[Maggie]\nMas ainda bem que não estou sozinha, {0} está aqui comigo.\nFicar esperando sozinha num lugar assim <FONT SIZE = 10>me deixa um pouco nervosa...</FONT>",
+        "pt-BR": "[Maggie]\nMas ainda bem que não estou sozinha, {0} está aqui comigo.\nFicar esperando sozinha num lugar assim me deixa um pouco nervosa...",
         "es-ES": "[Magi]\nAun así, me alegro de que no estés sola, sino que {0} esté contigo.\nEsperar sola en un lugar como este <FONT SIZE = 10>me pone un poco nerviosa...</FONT>"
     },
     "sLlfDA": {
@@ -291,7 +291,7 @@
     },
     "urlfDA": {
         "en-US": "<FONT SIZE = 10>I'm a bit scared to go there alone...</FONT>",
-        "pt-BR": "<FONT SIZE = 10>É um lugar meio assustador pra ir sozinho...</FONT>",
+        "pt-BR": "É um lugar meio assustador pra ir sozinho...",
         "es-ES": "<FONT SIZE = 10>Es un lugar que da un poco de miedo ir solo...</FONT>"
     },
     "u7lfDA": {
@@ -771,7 +771,7 @@
     },
     "GrpfDA": {
         "en-US": "[Yoop]\n<FONT SIZE = 10>No, it's just... I was preparing for you to get some rest...</FONT>",
-        "pt-BR": "[Yoop]\n<FONT SIZE = 10>Não, é que... fizemos alguns preparativos para você descansar bem...</FONT>",
+        "pt-BR": "[Yoop]\nNão, é que... fizemos alguns preparativos para você descansar bem...",
         "es-ES": "[Yup]\n<FONT SIZE = 10>No, es que... preparé algo para que pudieras dormir profundamente...</FONT>"
     },
     "G7pfDA": {
@@ -781,7 +781,7 @@
     },
     "HLpfDA": {
         "en-US": "[Yoop]\nNo, <FONT SIZE = 10>it's... really nothing...</FONT> right? {0}?",
-        "pt-BR": "[Yoop]\nNão, <FONT SIZE = 10>é que... não é nada demais...</FONT> Não é mesmo, {0}?",
+        "pt-BR": "[Yoop]\nNão, é que... não é nada demais... Não é mesmo, {0}?",
         "es-ES": "[Yup]\nNo, <FONT SIZE = 10>es que... en realidad no es nada importante...</FONT> ¿Verdad? {0}?"
     },
     "HbpfDA": {
@@ -826,7 +826,7 @@
     },
     "JbpfDA": {
         "en-US": "[Maggie]\n<FONT SIZE = 10>Um... well...</FONT>\n<FONT SIZE = 10>You said that if I pass the trial, I could become an ^00B7EEArch Mage^000000...\nIs that a lie too?",
-        "pt-BR": "[Maggie]\n<FONT SIZE = 10>É que... bem...</FONT>\n<FONT SIZE = 10>Você disse</FONT> que, se eu passasse pela provação, poderia me tornar um ^00B7EEMagus^000000...\nIsso também era mentira?",
+        "pt-BR": "[Maggie]\nÉ que... bem...\nVocê disse que, se eu passasse pela provação, poderia me tornar um ^00B7EEMagus^000000...\nIsso também era mentira?",
         "es-ES": "[Magi]\n<FONT SIZE = 10>Yo... es que...</FONT>\n<FONT SIZE = 10>Dijiste que si Yup superaba la prueba, podría convertirse en ^00B7EEArcmago^000000...\n¿También es mentira eso de que puede convertirse en Arcmago?"
     },
     "JrpfDA": {

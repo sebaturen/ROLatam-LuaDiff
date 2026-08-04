@@ -20156,7 +20156,7 @@ tblLapineUpgradeBox = {
 					24746
 				}
 			},
-			NeedSource_String = "Separate Reload Shield Shadow"
+			NeedSource_String = "Shadow Cooldown Shield"
 		},
 		M_Blitz_Shadow_Up = {
 			ItemID = 101261,
@@ -20192,7 +20192,7 @@ tblLapineUpgradeBox = {
 					24686
 				}
 			},
-			NeedSource_String = "Absorb Shadow"
+			NeedSource_String = "Absorption Shadow"
 		},
 		EXPShadow_Up = {
 			ItemID = 101309,
@@ -20210,7 +20210,7 @@ tblLapineUpgradeBox = {
 					24770
 				}
 			},
-			NeedSource_String = "Experience Shadow"
+			NeedSource_String = "EXP Shadow"
 		},
 		InfinityShadow_Up = {
 			ItemID = 101311,
@@ -20229,6 +20229,209 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Infinity Shadow"
+		},
+		MD_Geffen_Rarmor = {
+			ItemID = 100365,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Suits",
+					450149
+				},
+				{
+					"MD_Geffen_Robe",
+					450150
+				}
+			},
+			NeedSource_String = "Burning Magic Accessory"
+		},
+		MD_Geffen_Rhood = {
+			ItemID = 100366,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Hood",
+					480065
+				},
+				{
+					"MD_Geffen_Hood2",
+					480066
+				},
+				{
+					"MD_Geffen_Hood3",
+					480067
+				},
+				{
+					"MD_Geffen_Hood4",
+					480068
+				}
+			},
+			NeedSource_String = "Sunken Magic Accessory"
+		},
+		MD_Geffen_Racc = {
+			ItemID = 100367,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Ring",
+					490077
+				},
+				{
+					"MD_Geffen_Ring2",
+					490078
+				}
+			},
+			NeedSource_String = "Growth Magic Accessory"
+		},
+		MD_Geffen_Rsheild = {
+			ItemID = 100368,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Shield",
+					460005
+				},
+				{
+					"MD_Geffen_Shield2",
+					460006
+				}
+			},
+			NeedSource_String = "Shining Magic Accessory"
+		},
+		MD_Airboat_Random = {
+			ItemID = 100476,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Airboat_Boots",
+					470071
+				},
+				{
+					"MD_Airboat_Boots2",
+					470072
+				},
+				{
+					"MD_Airboat_Boots3",
+					470073
+				},
+				{
+					"MD_Airboat_Boots4",
+					470074
+				},
+				{
+					"MD_Airboat_Boots5",
+					470076
+				},
+				{
+					"MD_Airboat_Boots6",
+					470077
+				}
+			},
+			NeedSource_String = "Unknown Magic"
+		},
+		Mammoth_Shadow_Up = {
+			ItemID = 101264,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_M_Mammoth_Armor",
+					24679
+				},
+				{
+					"S_M_Mammoth_Shoes",
+					24680
+				},
+				{
+					"S_M_Mammoth_Earring",
+					24681
+				},
+				{
+					"S_M_Mammoth_Pendant",
+					24682
+				}
+			},
+			NeedSource_String = "Maximum Mammoth Shadow"
+		},
+		FullPenest_Shadow_Up = {
+			ItemID = 101177,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_FullPene_Earring",
+					24661
+				},
+				{
+					"S_FullPene_Pendant",
+					24662
+				},
+				{
+					"S_FullPene_Armor",
+					24663
+				},
+				{
+					"S_FullPene_Shoes",
+					24664
+				},
+				{
+					"S_FullTemp_Earring",
+					24665
+				},
+				{
+					"S_FullTemp_Shoes",
+					24666
+				},
+				{
+					"S_FullTemp_Armor",
+					24667
+				},
+				{
+					"S_FullTemp_Pendant",
+					24668
+				}
+			},
+			NeedSource_String = "Penetration/Tempest"
+		},
+		True_GemShadow_Up = {
+			ItemID = 101308,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_TrueGem_Pendant",
+					24678
+				},
+				{
+					"S_TrueGem_Earring",
+					24677
+				},
+				{
+					"S_TrueGem_Shoes",
+					24676
+				},
+				{
+					"S_TrueGem_Armor",
+					24675
+				}
+			},
+			NeedSource_String = "Precious Stone"
 		}
 	},
 	get_lapine_box = function(in_box_id)

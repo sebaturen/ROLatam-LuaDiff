@@ -1,5 +1,3 @@
-
-
 function main()
 	for ItemID, DESC in pairs(tbl) do
 		result, msg = AddItem(ItemID, DESC.unidentifiedDisplayName, DESC.unidentifiedResourceName, DESC.identifiedDisplayName, DESC.identifiedResourceName, DESC.slotCount, DESC.ClassNum)

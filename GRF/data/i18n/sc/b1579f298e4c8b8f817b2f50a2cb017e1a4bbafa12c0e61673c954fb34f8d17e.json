@@ -1,11 +1,22 @@
 {
     "QDppDQ": {
-        "en-US": "Gheriot"
+        "en-US": "Gheriot",
+        "pt-BR": "Gheriot",
+        "es-ES": "Gheriot"
     },
     "QTppDQ": {
-        "en-US": "ssss[{0}] guild has conquered the Holy Shadow Palace Palace in the [{1}] Realm."
+        "en-US": "ssss[{0}] guild has conquered the Holy Shadow Palace Palace in the [{1}] Realm.",
+        "pt-BR": "ssss[{0}] guild has conquered the Holy Shadow Palace Palace in the [{1}] Realm.",
+        "es-ES": "ssss[{0}] guild has conquered the Holy Shadow Palace Palace in the [{1}] Realm."
     },
     "QjppDQ": {
-        "en-US": "The Emperium has been destroyed."
+        "en-US": "The Emperium has been destroyed.",
+        "pt-BR": "The Emperium has been destroyed.",
+        "es-ES": "The Emperium has been destroyed."
+    },
+    "QzppDQ": {
+        "en-US": "ssss[{0}] guild has conquered the Holy Shadow Palace Palace in the [{1}] Realm.",
+        "pt-BR": "ssss[{0}] guild has conquered the Holy Shadow Palace Palace in the [{1}] Realm.",
+        "es-ES": "ssss[{0}] guild has conquered the Holy Shadow Palace Palace in the [{1}] Realm."
     }
 }

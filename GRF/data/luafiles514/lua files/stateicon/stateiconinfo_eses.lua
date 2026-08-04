@@ -6064,7 +6064,7 @@ StateIconList_string = {
 	[EFST_IDs.EFST_SOULCURSE] = {
 		descript = {
 			{
-				"Maldición de alma"
+				"Maldición de Alma"
 			},
 			{"%s"},
 			{
@@ -7736,11 +7736,14 @@ StateIconList_string = {
 	[EFST_IDs.EFST_T_FIVETH_GOD] = {
 		descript = {
 			{
-				"Protección de los Cuatro Puntos Cardinales y los Cinco Elementos"
+				"Protección de los Elementos"
 			},
 			{"%s"},
 			{
-				"Estado de protección de las cinco direcciones"
+				"Estado de protección de las cuatro direcciones"
+			},
+			{
+				"y cinco elementos."
 			}
 		}
 	},

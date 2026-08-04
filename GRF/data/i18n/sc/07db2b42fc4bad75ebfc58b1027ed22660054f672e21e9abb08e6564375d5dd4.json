@@ -22,7 +22,7 @@
     "JL0gAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[ Voz Ecoante ]\nValente combatente...\nDeseja retornar ao seu lugar de glória?",
-        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
     },
     "Jb0gAg": {
         "en-US": "Go back to your stronghold.",
@@ -216,8 +216,8 @@
     },
     "S70gAg": {
         "en-US": "ssss[{0}] guild has conquered Kriemhild in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{ignorei18n_agitName}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{ignorei18n_agitName}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
     "TL0gAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -597,7 +597,7 @@
     "l70gAg": {
         "en-US": "[Butler Ahvray]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Ahvray]\n...\nFuncionária Kafra dispensada... mas há algo de que você não gostou?",
-        "es-ES": "[Mayordomo Ahvray]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Ahvray]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
     },
     "mL0gAg": {
         "en-US": "[Butler Ahvray]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -690,43 +690,27 @@
         "es-ES": "No pasó nada."
     },
     "qr0gAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "q70gAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "rL0gAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "rb0gAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "rr0gAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "r70gAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "sL0gAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "sb0gAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     }
 }

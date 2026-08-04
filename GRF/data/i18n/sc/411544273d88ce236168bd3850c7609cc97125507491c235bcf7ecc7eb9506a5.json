@@ -22,7 +22,7 @@
     "5O1mAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[Voz reverberante]\nBravos...\nDesejam voltar para seu lugar de honra?",
-        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
     },
     "5e1mAg": {
         "en-US": "Go back to your stronghold.",
@@ -577,7 +577,7 @@
     "U+5mAg": {
         "en-US": "[Butler Kamiyu]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Kamiyu]\n...\nFuncionária da Kafra dispensada... mas há algo de que você não gostou?",
-        "es-ES": "[Mayordomo Kamiyu]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Kamiyu]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
     },
     "VO5mAg": {
         "en-US": "[Butler Kamiyu]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -670,51 +670,27 @@
         "es-ES": "No pasó nada."
     },
     "Zu5mAg": {
-        "en-US": "\\{0}\\}"
+        "en-US": "{0} /"
     },
     "Z+5mAg": {
-        "en-US": "ssss[{0}] guild has conquered Richard in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{1}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{1}]"
+        "en-US": "{0} /"
     },
     "aO5mAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "ae5mAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "au5mAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "a+5mAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "bO5mAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "be5mAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
-    },
-    "bu5mAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
-    },
-    "b+5mAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     }
 }

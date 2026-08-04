@@ -22,7 +22,7 @@
     "5K8dAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[ Voz Ecoante ]\nValente combatente...\nDeseja retornar ao seu lugar de glória?",
-        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
     },
     "5a8dAg": {
         "en-US": "Go back to your stronghold.",
@@ -176,8 +176,8 @@
     },
     "A7AdAg": {
         "en-US": "ssss[{0}] guild has conquered the Scarlet Palace in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{ignorei18n_agitName}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{ignorei18n_agitName}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
     "BLAdAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -557,7 +557,7 @@
     "T7AdAg": {
         "en-US": "[Butler DJ]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Dee Jay]\n...\nA Kafra já foi dispensada como ordenado, Vossa Alteza.",
-        "es-ES": "[Mayordomo DJ]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo DJ]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
     },
     "ULAdAg": {
         "en-US": "[Butler DJ]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -650,43 +650,27 @@
         "es-ES": "No pasó nada."
     },
     "YrAdAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "Y7AdAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "ZLAdAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "ZbAdAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "ZrAdAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "Z7AdAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "aLAdAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "abAdAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     }
 }

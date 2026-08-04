@@ -577,7 +577,7 @@ SkillInfoList_string = {
 	[SKID.BA_DISSONANCE] = {
 		SkillName = "Unchained Serenade"
 	},
-	[SKID.BA_FROSTJOKE] = {
+	[SKID.BA_FROSTJOKER] = {
 		SkillName = "Unbarring Octave"
 	},
 	[SKID.BA_WHISTLE] = {
@@ -3414,7 +3414,7 @@ SkillInfoList_string = {
 	[SKID.MH_STYLE_CHANGE] = {
 		SkillName = "Style Change"
 	},
-	[SKID.MH_SONIC_CRAW] = {SkillName = "Sonic Claw"},
+	[SKID.MH_SONIC_CLAW] = {SkillName = "Sonic Claw"},
 	[SKID.MH_SILVERVEIN_RUSH] = {
 		SkillName = "Silvervein Rush"
 	},

@@ -683,7 +683,7 @@ SkillInfoList_string = {
 		SkillName = "Ataque Musical"
 	},
 	[SKID.BA_DISSONANCE] = {SkillName = "Disonancia"},
-	[SKID.BA_FROSTJOKE] = {
+	[SKID.BA_FROSTJOKER] = {
 		SkillName = "Octava Disonante"
 	},
 	[SKID.BA_WHISTLE] = {
@@ -3441,12 +3441,12 @@ SkillInfoList_string = {
 	[SKID.ABC_FROM_THE_ABYSS_ATK] = {
 		SkillName = "Llamado del Abismo"
 	},
-	[SKID.NW_P_F_I] = {SkillName = "P.F.I"},
+	[SKID.NW_P_F_I] = {SkillName = "A.D.P"},
 	[SKID.NW_GRENADE_MASTERY] = {
 		SkillName = "Maestría de Granadas"
 	},
 	[SKID.NW_INTENSIVE_AIM] = {
-		SkillName = "Objetivo Intensivo"
+		SkillName = "Puntería Concentrada"
 	},
 	[SKID.NW_GRENADE_FRAGMENT] = {
 		SkillName = "Fragmento de Granada"
@@ -3467,16 +3467,16 @@ SkillInfoList_string = {
 		SkillName = "Fuego Salvaje"
 	},
 	[SKID.NW_BASIC_GRENADE] = {
-		SkillName = "Granada Explosiva"
+		SkillName = "Lanzar Explosivo"
 	},
 	[SKID.NW_HASTY_FIRE_IN_THE_HOLE] = {
-		SkillName = "Alerta Apresurada de Explosión"
+		SkillName = "Explosión Gradual"
 	},
 	[SKID.NW_GRENADES_DROPPING] = {
-		SkillName = "Lanzamiento de Granadas"
+		SkillName = "Detonación Total"
 	},
 	[SKID.NW_AUTO_FIRING_LAUNCHER] = {
-		SkillName = "Lanzador Automatico de Granadas"
+		SkillName = "Disparo Automático"
 	},
 	[SKID.NW_HIDDEN_CARD] = {
 		SkillName = "Carta Oculta"
@@ -3506,7 +3506,7 @@ SkillInfoList_string = {
 		SkillName = "Tótem del Tutelar"
 	},
 	[SKID.SOA_TALISMAN_OF_FIVE_ELEMENTS] = {
-		SkillName = "Talismán de los Cinco Elementos"
+		SkillName = "Talismán de los Elementos"
 	},
 	[SKID.SOA_TALISMAN_OF_SOUL_STEALING] = {
 		SkillName = "Talismán del Robo de Almas"
@@ -3548,19 +3548,19 @@ SkillInfoList_string = {
 		SkillName = "Rugido del Tigre"
 	},
 	[SKID.SH_HOGOGONG_STRIKE] = {
-		SkillName = "Golpe de Hogogong"
+		SkillName = "Patada Felina"
 	},
 	[SKID.SH_COMMUNE_WITH_KI_SUL] = {
 		SkillName = "Pacto de la Tortuga"
 	},
 	[SKID.SH_KI_SUL_WATER_SPRAYING] = {
-		SkillName = "Rocío de Agua de Gwisul"
+		SkillName = "Rocío de Agua"
 	},
 	[SKID.SH_MARINE_FESTIVAL_OF_KI_SUL] = {
-		SkillName = "Festival Marino de Gwisul"
+		SkillName = "Festival Marino"
 	},
 	[SKID.SH_SANDY_FESTIVAL_OF_KI_SUL] = {
-		SkillName = "Festival Arenoso de Gwisul"
+		SkillName = "Festival Arenoso"
 	},
 	[SKID.SH_KI_SUL_RAMPAGE] = {
 		SkillName = "Ira de la Tortuga"
@@ -3569,7 +3569,7 @@ SkillInfoList_string = {
 		SkillName = "Pacto del Ciervo"
 	},
 	[SKID.SH_COLORS_OF_HYUN_ROK] = {
-		SkillName = "Colores de Hyunrok"
+		SkillName = "Colores del Arcoíris"
 	},
 	[SKID.SH_HYUN_ROKS_BREEZE] = {
 		SkillName = "Brisa Silvestre"
@@ -3644,7 +3644,7 @@ SkillInfoList_string = {
 	},
 	[SKID.SKE_DAWN_BREAK] = {SkillName = "Alborada"},
 	[SKID.SKE_TWINKLING_GALAXY] = {
-		SkillName = "Galaxia Centelleante"
+		SkillName = "Constelación"
 	},
 	[SKID.SKE_STAR_BURST] = {
 		SkillName = "Explosión Estelar"
@@ -3654,11 +3654,9 @@ SkillInfoList_string = {
 	},
 	[SKID.SKE_ALL_IN_THE_SKY] = {SkillName = "Firmamento"},
 	[SKID.SKE_ENCHANTING_SKY] = {
-		SkillName = "Cielo Encantador"
+		SkillName = "Vínculo Celestial"
 	},
-	[SKID.SS_TOKEDASU] = {
-		SkillName = "Desvanecerse"
-	},
+	[SKID.SS_TOKEDASU] = {SkillName = "Derretir"},
 	[SKID.SS_SHIMIRU] = {
 		SkillName = "Infiltrarse"
 	},
@@ -3667,7 +3665,7 @@ SkillInfoList_string = {
 	},
 	[SKID.SS_SHINKIROU] = {SkillName = "Espejismo"},
 	[SKID.SS_KAGEGARI] = {
-		SkillName = "Cacería de Sombras"
+		SkillName = "Cacería Sombría"
 	},
 	[SKID.SS_KAGENOMAI] = {
 		SkillName = "Baile de Sombras"
@@ -3703,16 +3701,16 @@ SkillInfoList_string = {
 		SkillName = "Cañón del Dragón Dorado"
 	},
 	[SKID.SS_ANTENPOU] = {
-		SkillName = "Cañón Oscurecedor"
+		SkillName = "Cañón de la Oscuridad"
 	},
 	[SKID.SS_KAGEAKUMU] = {
-		SkillName = "Sombra: Pesadilla"
+		SkillName = "Pesadilla Tenebrosa"
 	},
 	[SKID.SS_HITOUAKUMU] = {
 		SkillName = "Kunai: Pesadilla"
 	},
 	[SKID.SS_ANKOKURYUUAKUMU] = {
-		SkillName = "Dragón Oscuro: Pesadilla"
+		SkillName = "Dragón Sombrío: Pesadilla"
 	},
 	[SKID.NW_THE_VIGILANTE_AT_NIGHT_GUN_GATLING] = {
 		SkillName = "Vigilia Nocturna"
@@ -3788,7 +3786,7 @@ SkillInfoList_string = {
 	[SKID.MH_STYLE_CHANGE] = {
 		SkillName = "Cambio de Estilo"
 	},
-	[SKID.MH_SONIC_CRAW] = {
+	[SKID.MH_SONIC_CLAW] = {
 		SkillName = "Garra Sónica"
 	},
 	[SKID.MH_SILVERVEIN_RUSH] = {
@@ -3798,16 +3796,16 @@ SkillInfoList_string = {
 		SkillName = "Frenesí de Medianoche"
 	},
 	[SKID.MH_STAHL_HORN] = {
-		SkillName = "Lucánido de Stahl"
+		SkillName = "Impacto Preciso"
 	},
 	[SKID.MH_GOLDENE_FERSE] = {
-		SkillName = "Goldene Ferse"
+		SkillName = "Furia Iluminada"
 	},
 	[SKID.MH_STEINWAND] = {
 		SkillName = "Báculo de Stein"
 	},
 	[SKID.MH_HEILIGE_STANGE] = {
-		SkillName = "Heilage Stange"
+		SkillName = "Cetro Sagrado"
 	},
 	[SKID.MH_ANGRIFFS_MODUS] = {
 		SkillName = "Modo Angriffs"
@@ -3836,51 +3834,45 @@ SkillInfoList_string = {
 	[SKID.MH_VOLCANIC_ASH] = {
 		SkillName = "Ceniza Volcánica"
 	},
-	[SKID.MH_BLAST_FORGE] = {
-		SkillName = "Blast Forge"
-	},
-	[SKID.MH_TEMPERING] = {SkillName = "Tempering"},
+	[SKID.MH_BLAST_FORGE] = {SkillName = "Gran Forja"},
+	[SKID.MH_TEMPERING] = {SkillName = "Temple"},
 	[SKID.MH_CLASSY_FLUTTER] = {
-		SkillName = "Classy Flutter"
+		SkillName = "Vuelo Elegante"
 	},
 	[SKID.MH_TWISTER_CUTTER] = {
-		SkillName = "Twister Cutter"
+		SkillName = "Tajo Supersónico"
 	},
 	[SKID.MH_ABSOLUTE_ZEPHYR] = {
-		SkillName = "Absolute Zephyr"
+		SkillName = "Céfiro Absoluto"
 	},
 	[SKID.MH_BRUSHUP_CLAW] = {
-		SkillName = "Brushup Claw"
+		SkillName = "Garras Afiladas"
 	},
 	[SKID.MH_BLAZING_AND_FURIOUS] = {
-		SkillName = "Blazing And Furious"
+		SkillName = "Veloz y Furiosa"
 	},
 	[SKID.MH_THE_ONE_FIGHTER_RISES] = {
-		SkillName = "The One Fighter Rises"
+		SkillName = "Luchadora Ascendente"
 	},
 	[SKID.MH_POLISHING_NEEDLE] = {
-		SkillName = "Polishing Needle"
+		SkillName = "Aguijón Pulido"
 	},
 	[SKID.MH_TOXIN_OF_MANDARA] = {
-		SkillName = "Toxin Of Mandara"
+		SkillName = "Toxina de Mandara"
 	},
-	[SKID.MH_NEEDLE_STINGER] = {
-		SkillName = "Needle Stinger"
-	},
+	[SKID.MH_NEEDLE_STINGER] = {SkillName = "Aguijonazo"},
 	[SKID.MH_LICHT_GEHORN] = {
-		SkillName = "Licht Gehorn"
+		SkillName = "Cuerno Iluminado"
 	},
 	[SKID.MH_GLANZEN_SPIES] = {
-		SkillName = "Glanzen Spies"
+		SkillName = "Punta Reluciente"
 	},
-	[SKID.MH_HEILIGE_PFERD] = {
-		SkillName = "Heilige Pferd"
-	},
+	[SKID.MH_HEILIGE_PFERD] = {SkillName = "Equitatio"},
 	[SKID.MH_GOLDENE_TONE] = {
-		SkillName = "Goldene Tone"
+		SkillName = "Cuero Dorado"
 	},
 	[SKID.MH_BLAZING_LAVA] = {
-		SkillName = "Blazing Lava"
+		SkillName = "Lava Ardiente"
 	},
 	[SKID.MS_BASH] = {
 		SkillName = "Golpe Fulminante"

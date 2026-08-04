@@ -16561,7 +16561,7 @@ tbl = {
 		unidentifiedDisplayName = "Lance",
 		unidentifiedResourceName = "쟈벨린",
 		unidentifiedDescriptionName = {
-			"Item not identified. Can be identified with a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Spectral Spear",
 		identifiedResourceName = "요괴의창",
@@ -63414,7 +63414,7 @@ tbl = {
 		costume = false
 	},
 	[4808] = {
-		unidentifiedDisplayName = "Spirit of the Fighter 4",
+		unidentifiedDisplayName = "Fighting Spirit 4",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
 			"ATK + 15, Hit +5."
@@ -63459,7 +63459,7 @@ tbl = {
 		costume = false
 	},
 	[4811] = {
-		unidentifiedDisplayName = "Fighting Spirit Nv.1",
+		unidentifiedDisplayName = "Fighting Spirit 1",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
 			"ATK + 6, Accuracy + 2."
@@ -63474,12 +63474,12 @@ tbl = {
 		costume = false
 	},
 	[4812] = {
-		unidentifiedDisplayName = "Enchant 4",
+		unidentifiedDisplayName = "Spell 4",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK + 15, Decreases time between skills by 10%"
 		},
-		identifiedDisplayName = "Enchant 4",
+		identifiedDisplayName = "Spell 4",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +15. Variable cast time time -10%."
@@ -63489,12 +63489,12 @@ tbl = {
 		costume = false
 	},
 	[4813] = {
-		unidentifiedDisplayName = "Enchant 3",
+		unidentifiedDisplayName = "Spell 3",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK +12. Variable cast time time -8%."
 		},
-		identifiedDisplayName = "Enchant 3",
+		identifiedDisplayName = "Spell 3",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +12. Variable cast time time -8%."
@@ -63504,12 +63504,12 @@ tbl = {
 		costume = false
 	},
 	[4814] = {
-		unidentifiedDisplayName = "Enchant 2",
+		unidentifiedDisplayName = "Spell 2",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK +9. Variable cast time time -6%."
 		},
-		identifiedDisplayName = "Enchant 2",
+		identifiedDisplayName = "Spell 2",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +9. Variable cast time time -6%."
@@ -63519,12 +63519,12 @@ tbl = {
 		costume = false
 	},
 	[4815] = {
-		unidentifiedDisplayName = "Enchant 1",
+		unidentifiedDisplayName = "Spell 1",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK +6. Variable cast time time -3%."
 		},
-		identifiedDisplayName = "Enchant 1",
+		identifiedDisplayName = "Spell 1",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +6. Variable cast time time -3%."
@@ -63564,7 +63564,7 @@ tbl = {
 		costume = false
 	},
 	[4818] = {
-		unidentifiedDisplayName = "Precise Attack Nv.1",
+		unidentifiedDisplayName = "Sharp 1",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
 			"Crit +6, Hit +2."
@@ -63579,18 +63579,18 @@ tbl = {
 		costume = false
 	},
 	[4819] = {
-		unidentifiedDisplayName = "ATK + 1%",
+		unidentifiedDisplayName = "ATK +1%",
 		unidentifiedResourceName = "안실라",
-		unidentifiedDescriptionName = {"ATK + 1%."},
-		identifiedDisplayName = "ATK + 1%",
+		unidentifiedDescriptionName = {"ATK +1%."},
+		identifiedDisplayName = "ATK +1%",
 		identifiedResourceName = "안실라",
-		identifiedDescriptionName = {"ATK+1%."},
+		identifiedDescriptionName = {"ATK +1%."},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[4820] = {
-		unidentifiedDisplayName = "Spirit of the Fighter 5",
+		unidentifiedDisplayName = "Fighting Spirit 5",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
 			"ATK +18, Hit +5."
@@ -63605,7 +63605,7 @@ tbl = {
 		costume = false
 	},
 	[4821] = {
-		unidentifiedDisplayName = "Fighter's Spirit Nv.6",
+		unidentifiedDisplayName = "Fighting Spirit 6",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
 			"ATK +21, Hit +5."
@@ -63620,7 +63620,7 @@ tbl = {
 		costume = false
 	},
 	[4822] = {
-		unidentifiedDisplayName = "Fighter's Spirit Nv.7",
+		unidentifiedDisplayName = "Fighting Spirit 7",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
 			"ATK + 24, Hit + 5."
@@ -63635,7 +63635,7 @@ tbl = {
 		costume = false
 	},
 	[4823] = {
-		unidentifiedDisplayName = "Fighting Spirit Nv.8",
+		unidentifiedDisplayName = "Fighting Spirit 8",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
 			"ATK + 27, Hit + 5."
@@ -63650,7 +63650,7 @@ tbl = {
 		costume = false
 	},
 	[4824] = {
-		unidentifiedDisplayName = "Fighter's Spirit Nv.9",
+		unidentifiedDisplayName = "Fighting Spirit 9",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
 			"ATK + 30, Hit + 5."
@@ -63680,12 +63680,12 @@ tbl = {
 		costume = false
 	},
 	[4826] = {
-		unidentifiedDisplayName = "Enchant 5",
+		unidentifiedDisplayName = "Spell 5",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK + 18, Decreases time between skills by 10%"
 		},
-		identifiedDisplayName = "Enchant 5",
+		identifiedDisplayName = "Spell 5",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +18. Variable cast time time -10%."
@@ -63695,12 +63695,12 @@ tbl = {
 		costume = false
 	},
 	[4827] = {
-		unidentifiedDisplayName = "Enchant 6",
+		unidentifiedDisplayName = "Spell 6",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK+ 21, Decreases Casting Time by 10%."
 		},
-		identifiedDisplayName = "Enchant 6",
+		identifiedDisplayName = "Spell 6",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +21. Variable cast time time -10%."
@@ -63710,12 +63710,12 @@ tbl = {
 		costume = false
 	},
 	[4828] = {
-		unidentifiedDisplayName = "Enchant 7",
+		unidentifiedDisplayName = "Spell 7",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK + 24. Reduces conjuration time by 10%."
 		},
-		identifiedDisplayName = "Enchant 7",
+		identifiedDisplayName = "Spell 7",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +24. Variable cast time time -10%."
@@ -63725,12 +63725,12 @@ tbl = {
 		costume = false
 	},
 	[4829] = {
-		unidentifiedDisplayName = "Enchant 8",
+		unidentifiedDisplayName = "Spell 8",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK + 27. Reduces conjuration time by 10%."
 		},
-		identifiedDisplayName = "Enchant 8",
+		identifiedDisplayName = "Spell 8",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +27. Variable cast time time -10%."
@@ -63740,12 +63740,12 @@ tbl = {
 		costume = false
 	},
 	[4830] = {
-		unidentifiedDisplayName = "Enchant 9",
+		unidentifiedDisplayName = "Spell 9",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK + 30. Reduces conjuration time by 10%."
 		},
-		identifiedDisplayName = "Enchant 9",
+		identifiedDisplayName = "Spell 9",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +30. Variable cast time time -10%."
@@ -63755,12 +63755,12 @@ tbl = {
 		costume = false
 	},
 	[4831] = {
-		unidentifiedDisplayName = "Enchant 10",
+		unidentifiedDisplayName = "Spell 10",
 		unidentifiedResourceName = "용의보주_청",
 		unidentifiedDescriptionName = {
 			"MATK+ 50, Decreases Casting Time by 20%."
 		},
-		identifiedDisplayName = "Enchant 10",
+		identifiedDisplayName = "Spell 10",
 		identifiedResourceName = "용의보주_청",
 		identifiedDescriptionName = {
 			"MATK +50. Variable cast time time -20%."
@@ -63773,7 +63773,7 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 1",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Ranged attack 2%."
+			"Physical damage from a distance +2%."
 		},
 		identifiedDisplayName = "Expert Archer 1",
 		identifiedResourceName = "용의보주_황",
@@ -63788,7 +63788,7 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 2",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Expert Archer 2"
+			"Physical damage from a distance +4%."
 		},
 		identifiedDisplayName = "Expert Archer 2",
 		identifiedResourceName = "용의보주_황",
@@ -63803,7 +63803,7 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 3",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Expert Archer 3"
+			"Physical damage from a distance +6%."
 		},
 		identifiedDisplayName = "Expert Archer 3",
 		identifiedResourceName = "용의보주_황",
@@ -63818,7 +63818,7 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 4",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Long Range Attack + 8%"
+			"Physical damage from a distance +8%."
 		},
 		identifiedDisplayName = "Expert Archer 4",
 		identifiedResourceName = "용의보주_황",
@@ -63833,7 +63833,7 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 5",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Long Range Attack + 10%"
+			"Physical damage from a distance +10%."
 		},
 		identifiedDisplayName = "Expert Archer 5",
 		identifiedResourceName = "용의보주_황",
@@ -63848,7 +63848,7 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 6",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Ranged attack 12%."
+			"Physical damage from a distance +12%."
 		},
 		identifiedDisplayName = "Expert Archer 6",
 		identifiedResourceName = "용의보주_황",
@@ -63863,7 +63863,7 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 7",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Ranged attack 14%."
+			"Physical damage from a distance +14%."
 		},
 		identifiedDisplayName = "Expert Archer 7",
 		identifiedResourceName = "용의보주_황",
@@ -63878,7 +63878,7 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 8",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Ranged attack 16%."
+			"Physical damage from a distance +16%."
 		},
 		identifiedDisplayName = "Expert Archer 8",
 		identifiedResourceName = "용의보주_황",
@@ -63893,7 +63893,7 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 9",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Ranged attack 18%."
+			"Physical damage from a distance +18%."
 		},
 		identifiedDisplayName = "Expert Archer 9",
 		identifiedResourceName = "용의보주_황",
@@ -63908,7 +63908,8 @@ tbl = {
 		unidentifiedDisplayName = "Expert Archer 10",
 		unidentifiedResourceName = "용의보주_황",
 		unidentifiedDescriptionName = {
-			"Ranged attack 20%, Vel. ATK + 1."
+			"Attack speed +1.",
+			"Physical damage at a distance +20%."
 		},
 		identifiedDisplayName = "Expert Archer 10",
 		identifiedResourceName = "용의보주_황",
@@ -63936,10 +63937,10 @@ tbl = {
 		costume = false
 	},
 	[4843] = {
-		unidentifiedDisplayName = "Critical4",
+		unidentifiedDisplayName = "Sharp 4",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
-			"Critical Hit + 14, Hit + 5."
+			"CRI +14, Accuracy + 5."
 		},
 		identifiedDisplayName = "Sharp 4",
 		identifiedResourceName = "용의보주_녹",
@@ -63951,10 +63952,10 @@ tbl = {
 		costume = false
 	},
 	[4844] = {
-		unidentifiedDisplayName = "Critical5",
+		unidentifiedDisplayName = "Sharp 5",
 		unidentifiedResourceName = "용의보주_녹",
 		unidentifiedDescriptionName = {
-			"Critical Hit + 15, Hit + 6."
+			"CRI +15, Accuracy + 6."
 		},
 		identifiedDisplayName = "Sharp 5",
 		identifiedResourceName = "용의보주_녹",
@@ -108690,20 +108691,24 @@ tbl = {
 		costume = false
 	},
 	[7925] = {
-		unidentifiedDisplayName = "Powerful Dimensional Essence",
+		unidentifiedDisplayName = "Dimensional Core",
 		unidentifiedResourceName = "Ball_Of_RasenHuuma",
 		unidentifiedDescriptionName = {
-			"An essence said to have been created by refining material from another dimension.",
-			"It is unknown who could accomplish such work, or how.",
-			"",
+			"Core concentrated with essences from other dimensions.",
+			"--------------------------",
+			"<NAVI>[Edda Machine]<INFO>glast_01,223,269,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Shadow Artisan]<INFO>glast_01,184,283,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
-		identifiedDisplayName = "Powerful Dimensional Essence",
+		identifiedDisplayName = "Dimensional Core",
 		identifiedResourceName = "Ball_Of_RasenHuuma",
 		identifiedDescriptionName = {
-			"An essence said to have been created by refining material from another dimension.",
-			"It is unknown who could accomplish such work, or how.",
-			"",
+			"Core concentrated with essences from other dimensions.",
+			"--------------------------",
+			"<NAVI>[Edda Machine]<INFO>glast_01,223,269,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[Shadow Artisan]<INFO>glast_01,184,283,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -113101,6 +113106,55 @@ tbl = {
 			"--------------------------",
 			"Type: ^777777Pet Egg^000000",
 			"Food: ^777777Morning Dew^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[9192] = {
+		unidentifiedDisplayName = "Giant Hornet Egg",
+		unidentifiedResourceName = "풍속성알",
+		unidentifiedDescriptionName = {
+			"Egg containing a Giant Hornet pet. Must be hatched by an Incubator.",
+			"--------------------------",
+			"At Low or Very Low Loyalty:",
+			"^0000ffVariable Casting -2%.^000000",
+			"--------------------------",
+			"At No Loyalty:",
+			"^0000ffVariable Casting -3%.^000000",
+			"--------------------------",
+			"At Normal Loyalty:",
+			"^0000ffVariable Casting -4%.^000000",
+			"^0000ffWind property magic damage +3%.^000000",
+			"--------------------------",
+			"At High Loyalty:",
+			"^0000ffVariable Casting -5%.^000000",
+			"^0000ffWind property magic damage +5%.^000000",
+			"--------------------------",
+			"Type: ^777777Pet Egg^000000",
+			"Food: ^777777Pet Food^000000"
+		},
+		identifiedDisplayName = "Giant Hornet Egg",
+		identifiedResourceName = "풍속성알",
+		identifiedDescriptionName = {
+			"Egg containing a Giant Hornet pet. Must be hatched by an Incubator.",
+			"--------------------------",
+			"At Low or Very Low Loyalty:",
+			"^0000ffVariable Casting -2%.^000000",
+			"--------------------------",
+			"At No Loyalty:",
+			"^0000ffVariable Casting -3%.^000000",
+			"--------------------------",
+			"At Normal Loyalty:",
+			"^0000ffVariable Casting -4%.^000000",
+			"^0000ffWind property magic damage +3%.^000000",
+			"--------------------------",
+			"At High Loyalty:",
+			"^0000ffVariable Casting -5%.^000000",
+			"^0000ffWind property magic damage +5%.^000000",
+			"--------------------------",
+			"Type: ^777777Pet Egg^000000",
+			"Food: ^777777Pet Food^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -121517,11 +121571,13 @@ tbl = {
 		identifiedDisplayName = "Convex Mirror",
 		identifiedResourceName = "볼록거울",
 		identifiedDescriptionName = {
-			"^FF0000Account bound.^000000",
 			"A clean convex mirror.",
-			"^0000FFDisplays the location of an MVP on the mini-map.^000000",
-			"-^008080Losses effect when leaving the map.^000000",
-			"-^008080Displays certain MVPs and instance bosses.^000000",
+			"--------------------------",
+			"^0000FFDisplays the location of an MVP.^000000",
+			"--------------------------",
+			"Losses effect when leaving the map.",
+			"Displays certain MVPs and instance bosses.",
+			"--------------------------",
 			"Duration: ^77777710 minutes^000000",
 			"Weight: ^7777771^000000"
 		},
@@ -173632,6 +173688,30 @@ tbl = {
 		ClassNum = 829,
 		costume = false
 	},
+	[19240] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "마스크",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Toy Syringe",
+		identifiedResourceName = "입에무는주사기",
+		identifiedDescriptionName = {
+			"A syringe that contains injectable liquid. It is great for recovering from something serious.",
+			"--------------------------",
+			"^0000ffHP regeneration of White Compact Potion and [Event] White Compact Potion.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equip on: ^777777Lower^000000",
+			"DEF: ^7777773^000000 DEFM: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 842,
+		costume = false
+	},
 	[19241] = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "리본",
@@ -174415,7 +174495,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Developed and manufactured in Malangdo, everyone knows the stylish Nekobits headphone line. Some say the brand focuses more on looks than sound quality, but if style is your priority, why not? After all, those little ears are pure refinement!",
 			"--------------------------",
-			"^0000ffExchangeable at the Costume Stone Box 23 at^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for the Costume Stone Box 23 at^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Upper^000000",
@@ -180726,20 +180806,20 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "[Costume] Evil Druid Hat",
 		identifiedResourceName = "이블드루이드모자",
 		identifiedDescriptionName = {
-			"Top hat worn by the most famous monster of Glastheim Abbey, the Evil Druid. They say his name was Allucarta...",
+			"A top hat worn by the most famous monster at Glastheim Abbey, the Evil Druid. People say his name was Allucarta...",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Upper^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^7777771^000000",
-			"Classes: ^777777All^000000"
+			"Classes: ^777777All ^000000"
 		},
 		slotCount = 0,
 		ClassNum = 1053,
@@ -183982,14 +184062,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "머리띠",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Gryphon Headband",
+		identifiedDisplayName = "[Costume] Gryphon Hairband",
 		identifiedResourceName = "그리폰머리띠",
 		identifiedDescriptionName = {
-			"An elegant headband, handcrafted with feathers shed by Gryphons. The creation process of this beautiful accessory remains the same since the time Gryphons were tamed by the Royal Guardians, three centuries ago.",
+			"An elegant tiara, handcrafted from fallen gryphon feathers. The process of creating this beautiful ornament has remained the same since the Gryphons were tamed by the Royal Guardians three centuries ago.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Upper^000000",
@@ -184025,14 +184105,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Worg Puppy",
+		identifiedDisplayName = "[Costume] Warg in Mouth",
 		identifiedResourceName = "입에문워그",
 		identifiedDescriptionName = {
-			"A little Worg pup that you carry in your mouth just like the mama worgs do.",
+			"A little Worg pup that you carry in your mouth, just like Worg mamas do.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Lower^000000",
@@ -185019,7 +185099,7 @@ tbl = {
 			"A hat specially created to honor 1 of the 12 Chinese zodiac signs.",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
-			"Equip: ^777777Upper^000000",
+			"Equip: ^777777Upper, Middle, and Lower^000000",
 			"Weight: ^7777770^000000",
 			"Required level: ^7777771^000000",
 			"Classes: ^777777All^000000"
@@ -185041,7 +185121,7 @@ tbl = {
 			"A hat specially created to honor 1 of the 12 Chinese zodiac signs.",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
-			"Equip: ^777777Upper^000000",
+			"Equip: ^777777Upper, Middle, and Lower^000000",
 			"Weight: ^7777770^000000",
 			"Required level: ^7777771^000000",
 			"Classes: ^777777All^000000"
@@ -188835,14 +188915,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Thorny Rose Tiara",
+		identifiedDisplayName = "[Costume] Thornbush Hairband",
 		identifiedResourceName = "가시나무헤어밴드",
 		identifiedDescriptionName = {
-			"Head ornament that used thorns and roses found at the top of the Endless Tower. They say it belonged to the powerful owner of the place, but no one knew how to spell his name correctly. Ant Buyanne? Entweihen Crothen?",
+			"A head ornament that used thorns and roses found at the top of the Endless Tower. They say it belonged to the powerful owner of the place, but no one knew how to write his name correctly. Ant Buyanne? Entweihen Crothen?",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Upper^000000",
@@ -190578,17 +190658,17 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "[Costume] Evil Druid Cross",
 		identifiedResourceName = "C_Evil_Druid_Cross",
 		identifiedDescriptionName = {
 			"The cross that the Evil Druid carries while wandering through Glastheim. It's quite light to carry on your back.",
+			"-------------------------",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"^008080Displays the visual on the character's back.^000000",
-			"--------------------------",
+			"^008080Displays the Costume on the character's back.^000000",
+			"-------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Garment^000000",
 			"Weight: ^7777770^000000",
@@ -207803,14 +207883,113 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[23374] = {
+		unidentifiedDisplayName = "Fire Armor Scroll",
+		unidentifiedResourceName = "불의주문서",
+		unidentifiedDescriptionName = {
+			"Ancient manuscripts that contain magical power.",
+			"--------------------------",
+			"^0000ffChanges armor property to Fire.^000000",
+			"--------------------------",
+			"Duration: ^77777730 minutes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Fire Armor Scroll",
+		identifiedResourceName = "불의주문서",
+		identifiedDescriptionName = {
+			"Ancient manuscripts that contain magical power.",
+			"--------------------------",
+			"^0000ffChanges armor property to Fire.^000000",
+			"--------------------------",
+			"Duration: ^77777730 minutes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23375] = {
+		unidentifiedDisplayName = "Water Armor Scroll",
+		unidentifiedResourceName = "물의주문서",
+		unidentifiedDescriptionName = {
+			"Ancient manuscripts that contain magical power.",
+			"--------------------------",
+			"^0000ffChanges armor property to Water.^000000",
+			"--------------------------",
+			"Duration: ^77777730 minutes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Water Armor Scroll",
+		identifiedResourceName = "물의주문서",
+		identifiedDescriptionName = {
+			"Ancient manuscripts that contain magical power.",
+			"--------------------------",
+			"^0000ffChanges armor property to Water.^000000",
+			"--------------------------",
+			"Duration: ^77777730 minutes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23376] = {
+		unidentifiedDisplayName = "Wind Armor Scroll",
+		unidentifiedResourceName = "바람의주문서",
+		unidentifiedDescriptionName = {
+			"Ancient manuscripts that contain magical power.",
+			"--------------------------",
+			"^0000ffChanges armor property to Wind.^000000",
+			"--------------------------",
+			"Duration: ^77777730 minutes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Wind Armor Scroll",
+		identifiedResourceName = "바람의주문서",
+		identifiedDescriptionName = {
+			"Ancient manuscripts that contain magical power.",
+			"--------------------------",
+			"^0000ffChanges armor property to Wind.^000000",
+			"--------------------------",
+			"Duration: ^77777730 minutes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[23377] = {
+		unidentifiedDisplayName = "Earth Armor Scroll",
+		unidentifiedResourceName = "대지의주문서",
+		unidentifiedDescriptionName = {
+			"Ancient manuscripts that contain magical power.",
+			"--------------------------",
+			"^0000ffChanges armor property to Earth.^000000",
+			"--------------------------",
+			"Duration: ^77777730 minutes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Earth Armor Scroll",
+		identifiedResourceName = "대지의주문서",
+		identifiedDescriptionName = {
+			"Ancient manuscripts that contain magical power.",
+			"--------------------------",
+			"^0000ffChanges armor property to Earth.^000000",
+			"--------------------------",
+			"Duration: ^77777730 minutes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[23436] = {
 		unidentifiedDisplayName = "Shadow Refine Hammer",
 		unidentifiedResourceName = "홀그랜제련망치",
 		unidentifiedDescriptionName = {
 			"Hugo Hollgrehenn's Blacksmith's Hammer.",
-			"Refines 1 Shadow Equipment randomly from +1 to +10.",
 			"-------------------------",
-			"^CD3278Open the Combination window.^000000",
+			"^CD3278Refines 1 Shadow Equipment randomly from +1 to +10.^000000",
 			"-------------------------",
 			"[^FF0000Attention!^000000]",
 			"Increased chance of a +4 refine.",
@@ -228474,16 +228653,16 @@ tbl = {
 			"^FA4E09Booster Shadow Armor^000000",
 			"^FA4E09Booster Shadow Pendant^000000",
 			"^FA4E09Booster Shadow Earring^000000",
+			"^0000FF[Adoramus] cooldown -1 second.^000000",
+			"^0000FFHoly Property magical damage +10%.^000000",
 			"^0000FFMagical damage against all sizes +15%.^000000",
-			"^0000FF[Diamond Dust] cooldown -4 seconds.^000000",
-			"^0000FFMagical damage of all properties +10%.^000000",
-			"^0000FF[Psychic Wave] and [Diamond Dust] damage +15%.^000000",
+			"^0000FF[Adoramus] and [Duple Light] damage +15%.^000000",
 			"^0000FFIgnores 70% of DEF and MDEF of all monster races.^000000",
 			"-------------------------",
 			"Type: ^777777Shadow Gear^000000",
 			"Equip on: ^777777Weapon^000000",
 			"Weight: ^7777770^000000 Min. Level: ^777777100^000000",
-			"Classes: ^777777Sorcerer and evolutions^000000"
+			"Classes: ^777777Archbishop and evolutions^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -270451,14 +270630,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "[Costume] Detardeurus Helm",
 		identifiedResourceName = "신의투구",
 		identifiedDescriptionName = {
-			"Inspired by the guardian of the abyssal treasures, Detardeus, this helm has an exceptional shine when placed against sunlight.",
+			"Inspired by the guardian of the abyssal treasures, Detardeurus, this helm has an exceptional shine when held against the sunlight.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Upper^000000",
@@ -270604,14 +270783,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Loomin's Ice",
+		identifiedDisplayName = "[Costume] Floating Ice",
 		identifiedResourceName = "부유하는얼음",
 		identifiedDescriptionName = {
-			"Floating ice blocks that protect Loomin in the dreams of the Pope.",
+			"Floating ice blocks that protect Loomin in the dreams of the Popess.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Lower^000000",
@@ -271293,14 +271472,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Sleepy Gioia",
+		identifiedDisplayName = "[Costume] Floating Gioia",
 		identifiedResourceName = "Jioia",
 		identifiedDescriptionName = {
-			"A Gioia that follows you wherever you go while sleeping peacefully.",
+			"A Gioia that accompanies you wherever you go while sleeping peacefully.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Lower^000000",
@@ -272970,19 +273149,19 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Dark Snake Lord Stall",
+		identifiedDisplayName = "[Costume] Dark Snake Lord Stole",
 		identifiedResourceName = "C_Dark_Snake_Lord_Stall",
 		identifiedDescriptionName = {
-			"Small piece of cloth inspired by the terrible monster that inhabits the caves of Kunlun. The embroidered macabre smile is just a minor detail.",
+			"A small piece of cloth inspired by the terrible monster that inhabits the caves of Kunlun. The macabre embroidered smile is just a minor detail.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Lower^000000",
 			"Weight: ^7777770^000000",
-			"Required Level: ^7777771^000000",
+			"Required Level:  ^7777771^000000",
 			"Classes: ^777777All^000000"
 		},
 		slotCount = 0,
@@ -285380,6 +285559,49 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[100460] = {
+		unidentifiedDisplayName = "Purified Growth Potion",
+		unidentifiedResourceName = "MD_Airboat_Bexp",
+		unidentifiedDescriptionName = {
+			"When consumed, grants a certain amount of EXP.",
+			"The number of level-ups gained from this EXP is limited to 1.",
+			"If you have already grown to Lv. 231 or higher, its effect is greatly reduced.",
+			"",
+			"Weight: ^7777770^000000",
+			"Required Level: ^777777200^000000"
+		},
+		identifiedDisplayName = "Purified Growth Potion",
+		identifiedResourceName = "MD_Airboat_Bexp",
+		identifiedDescriptionName = {
+			"When consumed, grants a certain amount of EXP.",
+			"The number of level-ups gained from this EXP is limited to 1.",
+			"If you have already grown to Lv. 231 or higher, its effect is greatly reduced.",
+			"Weight : ^7777770^000000",
+			"Required Level: ^777777200^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100462] = {
+		unidentifiedDisplayName = "Contaminated Card Album",
+		unidentifiedResourceName = "MD_Airboat_Reward",
+		unidentifiedDescriptionName = {
+			"A card album obtained from a life-form whose name is not even known. The faint magic power felt from the creature seems like an empty cry asking not to be forgotten.",
+			"^ffffff_^000000",
+			"Weight: ^7777771.5^000000"
+		},
+		identifiedDisplayName = "Contaminated Card Album",
+		identifiedResourceName = "MD_Airboat_Reward",
+		identifiedDescriptionName = {
+			"A card album obtained from a life-form whose name is not even known. The faint magic power felt from the creature seems like an empty cry asking not to be forgotten.",
+			"^ffffff_^000000",
+			"Weight: ^7777771.5^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[100465] = {
 		unidentifiedDisplayName = "Costume Stone Crate I (Garment)",
 		unidentifiedResourceName = "상인전직상자",
@@ -285603,6 +285825,25 @@ tbl = {
 			"Despair Mask",
 			"Odium Mask",
 			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[100476] = {
+		unidentifiedDisplayName = "Magic-Charged Orb",
+		unidentifiedResourceName = "MD_Airboat_Random",
+		unidentifiedDescriptionName = {
+			"A stable orb-shaped mass of magic power, formed as the faint magic flowing out from a fragment of Ymir gathered and condensed. When used on resonant equipment, it can draw out the equipment's hidden power.",
+			"^ffffff_^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Magic-Charged Orb",
+		identifiedResourceName = "MD_Airboat_Random",
+		identifiedDescriptionName = {
+			"A stable orb-shaped mass of magic power, formed as the faint magic flowing out from a fragment of Ymir gathered and condensed. When used on resonant equipment, it can draw out the equipment's hidden power.",
+			"^ffffff_^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -290245,6 +290486,41 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101041] = {
+		unidentifiedDisplayName = "Mammoth Shadow Box",
+		unidentifiedResourceName = "쉐도우큐브",
+		unidentifiedDescriptionName = {
+			"Shadow box with the power of RSX-0806.",
+			"--------------------------",
+			"[^CD3278Contents^000000]",
+			"Mammoth Shadow Armor",
+			"Mammoth Shadow Shoes",
+			"Mammoth Shadow Pendant",
+			"Mammoth Shadow Earring",
+			"Mammoth Shadow Weapon",
+			"Mammoth Shadow Shield",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Mammoth Shadow Box",
+		identifiedResourceName = "쉐도우큐브",
+		identifiedDescriptionName = {
+			"Shadow box with the power of RSX-0806.",
+			"--------------------------",
+			"[^CD3278Contents^000000]",
+			"Mammoth Shadow Armor",
+			"Mammoth Shadow Shoes",
+			"Mammoth Shadow Pendant",
+			"Mammoth Shadow Earring",
+			"Mammoth Shadow Weapon",
+			"Mammoth Shadow Shield",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101042] = {
 		unidentifiedDisplayName = "Gemstone Shadow Box",
 		unidentifiedResourceName = "쉐도우큐브",
@@ -290928,6 +291204,49 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101177] = {
+		unidentifiedDisplayName = "Penetrating Tempest Notebook",
+		unidentifiedResourceName = "오래된마법서",
+		unidentifiedDescriptionName = {
+			"Notebook containing magical enchantment texts.",
+			"--------------------------",
+			"^0000ffAdds up to 2 random bonuses.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Penetrating Shadow Earring",
+			"Penetrating Shadow Necklace",
+			"Penetrating Shadow Mail",
+			"Penetrating Shadow Greave",
+			"Tempest Shadow Earring",
+			"Tempest Shadow Greave",
+			"Tempest Shadow Mail",
+			"Tempest Shadow Necklace",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Penetrating Tempest Notebook",
+		identifiedResourceName = "오래된마법서",
+		identifiedDescriptionName = {
+			"Notebook containing magical enchantment texts.",
+			"--------------------------",
+			"^0000ffAdds up to 2 random bonuses.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Penetrating Shadow Earring",
+			"Penetrating Shadow Necklace",
+			"Penetrating Shadow Mail",
+			"Penetrating Shadow Greave",
+			"Tempest Shadow Earring",
+			"Tempest Shadow Greave",
+			"Tempest Shadow Mail",
+			"Tempest Shadow Necklace",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101178] = {
 		unidentifiedDisplayName = "Recharge Notebook",
 		unidentifiedResourceName = "오래된마법서",
@@ -291331,6 +291650,41 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101264] = {
+		unidentifiedDisplayName = "Mastodon Notebook",
+		unidentifiedResourceName = "오래된마법서",
+		unidentifiedDescriptionName = {
+			"Notebook containing magical enchantment texts.",
+			"--------------------------",
+			"^0000ffAdds up to 2 random bonuses.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Mastodon Shadow Mail",
+			"Mastodon Shadow Greave",
+			"Mastodon Shadow Earring",
+			"Mastodon Shadow Necklace",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Mastodon Notebook",
+		identifiedResourceName = "오래된마법서",
+		identifiedDescriptionName = {
+			"Notebook containing magical enchantment texts.",
+			"--------------------------",
+			"^0000ffAdds up to 2 random bonuses.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Mastodon Shadow Mail",
+			"Mastodon Shadow Greave",
+			"Mastodon Shadow Earring",
+			"Mastodon Shadow Necklace",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101304] = {
 		unidentifiedDisplayName = "Record of the Fallen",
 		unidentifiedResourceName = "Dead_Soul_Record_TW",
@@ -291355,6 +291709,70 @@ tbl = {
 			"Fallen Warrior Manteau [0]",
 			"Fallen Warrior Manteau [1]",
 			"Grand Mantle of the Forgotten [1]",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101306] = {
+		unidentifiedDisplayName = "Pænitentia Refine Hammer",
+		unidentifiedResourceName = "Poenitentia_Hammer",
+		unidentifiedDescriptionName = {
+			"Hammer created by nobles of the Mausoleum of Grief.",
+			"--------------------------",
+			"^0000ffAllows adding +1 refine to a Pænitentia Weapon between +9 and +11.^000000",
+			"^0000ffEach addition costs 14x Blacksmith's Blessing.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Pænitentia Weapon"
+		},
+		identifiedDisplayName = "Pænitentia Refine Hammer",
+		identifiedResourceName = "Poenitentia_Hammer",
+		identifiedDescriptionName = {
+			"Hammer created by nobles of the Mausoleum of Grief.",
+			"--------------------------",
+			"^0000ffAllows adding +1 refine to a Pænitentia Weapon between +9 and +11.^000000",
+			"^0000ffEach addition costs 14x Blacksmith's Blessing.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Pænitentia Weapon",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101308] = {
+		unidentifiedDisplayName = "Precious Stones Notebook",
+		unidentifiedResourceName = "오래된마법서",
+		unidentifiedDescriptionName = {
+			"Notebook containing magical enchantment texts.",
+			"--------------------------",
+			"^0000ffAdds up to 2 random bonuses.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Precious Stones Shadow Mail",
+			"Precious Stones Shadow Greave",
+			"Precious Stones Shadow Earring",
+			"Precious Stones Shadow Necklace",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Precious Stones Notebook",
+		identifiedResourceName = "오래된마법서",
+		identifiedDescriptionName = {
+			"Notebook containing magical enchantment texts.",
+			"--------------------------",
+			"^0000ffAdds up to 2 random bonuses.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Precious Stones Shadow Mail",
+			"Precious Stones Shadow Greave",
+			"Precious Stones Shadow Earring",
+			"Precious Stones Shadow Necklace",
 			"--------------------------",
 			"Weight: ^7777771^000000"
 		},
@@ -291413,6 +291831,29 @@ tbl = {
 			"Infinity Shield Shadow",
 			"Infinity Weapon Shadow",
 			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101314] = {
+		unidentifiedDisplayName = "Helm of Faith Chest",
+		unidentifiedResourceName = "액세서리상자",
+		unidentifiedDescriptionName = {
+			"Box created by the Priests of the Rachel Sanctuary.",
+			"--------------------------",
+			"^0000ffProvides 1x random Helm of Faith or Helm of Faith II.^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Helm of Faith Chest",
+		identifiedResourceName = "액세서리상자",
+		identifiedDescriptionName = {
+			"Box created by the Priests of the Rachel Sanctuary.",
+			"--------------------------",
+			"^0000ffProvides 1x random Helm of Faith or Helm of Faith II.^000000",
+			"--------------------------",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -291612,6 +292053,41 @@ tbl = {
 			"[^CD3278Affected Items^000000]",
 			"Helm of Faith",
 			"Helm of Faith II",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101390] = {
+		unidentifiedDisplayName = "Clock Refine Hammer",
+		unidentifiedResourceName = "Poenitentia_Hammer",
+		unidentifiedDescriptionName = {
+			"Hammer created by a demon in a box.",
+			"--------------------------",
+			"^0000ffAllows adding +1 refine to a Clock Weapon between +9 and +11.^000000",
+			"^0000ffEach addition costs 14x Blacksmith's Blessing.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Solidified Weapons",
+			"Repaired Weapons",
+			"Malevolent Weapons",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Clock Refine Hammer",
+		identifiedResourceName = "Poenitentia_Hammer",
+		identifiedDescriptionName = {
+			"Hammer created by a demon in a box.",
+			"--------------------------",
+			"^0000ffAllows adding +1 refine to a Clock Weapon between +9 and +11.^000000",
+			"^0000ffEach addition costs 14x Blacksmith's Blessing.^000000",
+			"--------------------------",
+			"[^CD3278Affected Items^000000]",
+			"Solidified Weapons",
+			"Repaired Weapons",
+			"Malevolent Weapons",
 			"--------------------------",
 			"Weight: ^7777771^000000"
 		},
@@ -309256,6 +309732,216 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[107775] = {
+		unidentifiedDisplayName = "August Roulette 1",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #1"
+		},
+		identifiedDisplayName = "August Roulette 1",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #1",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107776] = {
+		unidentifiedDisplayName = "August Roulette 2",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #2"
+		},
+		identifiedDisplayName = "August Roulette 2",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #2",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107777] = {
+		unidentifiedDisplayName = "August Roulette 3",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #3"
+		},
+		identifiedDisplayName = "August Roulette 3",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #3",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107778] = {
+		unidentifiedDisplayName = "August Roulette 4",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #4"
+		},
+		identifiedDisplayName = "August Roulette 4",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #4",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107779] = {
+		unidentifiedDisplayName = "August Roulette 5",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #5"
+		},
+		identifiedDisplayName = "August Roulette 5",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #5",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107780] = {
+		unidentifiedDisplayName = "August Roulette 6",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #6"
+		},
+		identifiedDisplayName = "August Roulette 6",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #6",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107781] = {
+		unidentifiedDisplayName = "August Roulette 7",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #7"
+		},
+		identifiedDisplayName = "August Roulette 7",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #7",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107782] = {
+		unidentifiedDisplayName = "August Roulette 8",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #8"
+		},
+		identifiedDisplayName = "August Roulette 8",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #8",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107783] = {
+		unidentifiedDisplayName = "August Roulette 9",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #9"
+		},
+		identifiedDisplayName = "August Roulette 9",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #9",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107784] = {
+		unidentifiedDisplayName = "August Roulette 10",
+		unidentifiedResourceName = "Luxurious_Blue_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #10"
+		},
+		identifiedDisplayName = "August Roulette 10",
+		identifiedResourceName = "Luxurious_Blue_Box",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable^000000",
+			"",
+			"August 2026 Roulette Prize #10",
+			"",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[107787] = {
 		unidentifiedDisplayName = "Expanded Oval Artifact",
 		unidentifiedResourceName = "Infinite_Eggs_TH",
@@ -309343,6 +310029,52 @@ tbl = {
 			"",
 			"The boss is out of their mind! Enjoy a 250% bonus with this package!!!",
 			"Weight : ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107823] = {
+		unidentifiedDisplayName = "Flower Oval Artifact",
+		unidentifiedResourceName = "Costama_Egg145",
+		unidentifiedDescriptionName = {
+			"Special egg to celebrate the Flower Festival in Colombia.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Flower Oval Artifact",
+		identifiedResourceName = "Costama_Egg145",
+		identifiedDescriptionName = {
+			"Special egg to celebrate the Flower Festival in Colombia.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[107824] = {
+		unidentifiedDisplayName = "[Event] Flower Oval Artifact",
+		unidentifiedResourceName = "Costama_Egg145",
+		unidentifiedDescriptionName = {
+			"Special egg to celebrate the Flower Festival in Colombia.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Event] Flower Oval Artifact",
+		identifiedResourceName = "Costama_Egg145",
+		identifiedDescriptionName = {
+			"Special egg to celebrate the Flower Festival in Colombia.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -312207,6 +312939,187 @@ tbl = {
 		identifiedDescriptionName = {
 			"^ff0000Untradeable.^000000",
 			"Box containing many Oval Artifacts.",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201034] = {
+		unidentifiedDisplayName = "[Aug] Element Pack",
+		unidentifiedResourceName = "빨간상자",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "[Aug] Element Pack",
+		identifiedResourceName = "빨간상자",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special August pack.",
+			"--------------------------",
+			"[^CD3278Contains^000000]",
+			"2x Shadow Armor Scroll (30) (30)",
+			"2x Holy Armor Scroll (30)",
+			"2x Mystical Amplification Scroll (50) (50)",
+			"10x Battle Manual",
+			"25x Job Manual",
+			"6x [Event] Oval Artifact",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201035] = {
+		unidentifiedDisplayName = "[Aug] Element Pack 2",
+		unidentifiedResourceName = "빨간상자",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "[Aug] Element Pack 2",
+		identifiedResourceName = "빨간상자",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special August pack.",
+			"--------------------------",
+			"[^CD3278Contains^000000]",
+			"50x Nyangvine",
+			"20x Water Papyrus",
+			"20x Earth Papyrus",
+			"20x Fire Papyrus",
+			"20x Wind Papyrus",
+			"6x [Event] Oval Artifact",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201036] = {
+		unidentifiedDisplayName = "[Aug] Bell Box",
+		unidentifiedResourceName = "Re_Costama_Box_2023_1",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Enjoy this combo of Kafra and Peddler Bells!"
+		},
+		identifiedDisplayName = "[Aug] Bell Box",
+		identifiedResourceName = "Re_Costama_Box_2023_1",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Enjoy this combo of Kafra and Peddler Bells!",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201037] = {
+		unidentifiedDisplayName = "[Aug] Refiner Pack",
+		unidentifiedResourceName = "캐시상자_보라",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "[Aug] Refiner Pack",
+		identifiedResourceName = "캐시상자_보라",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special August pack.",
+			"--------------------------",
+			"[^CD3278Contains^000000]",
+			"35x Enriched Elunium",
+			"35x Enriched Oridecon",
+			"10x Perfect Elunium",
+			"10x Perfect Oridecon",
+			"6x [Event] Oval Artifact",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201038] = {
+		unidentifiedDisplayName = "[Aug] Inventory Pack",
+		unidentifiedResourceName = "영원스크롤",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "[Aug] Inventory Pack",
+		identifiedResourceName = "영원스크롤",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special August pack.",
+			"--------------------------",
+			"[^CD3278Contains^000000]",
+			"1x [Event] Kafra Manual (7 days)",
+			"5x Inventory Expander",
+			"5x Anti-Gravity Pass",
+			"6x [Event] Oval Artifact",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201039] = {
+		unidentifiedDisplayName = "Winners' Selectables",
+		unidentifiedResourceName = "EP20_DGA_Refine",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Winners' Selectables",
+		identifiedResourceName = "EP20_DGA_Refine",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Pack containing the Costumes from the winners of the 1st LATAM Costume Creation Contest!",
+			"--------------------------",
+			"[^CD3278Choose One^000000]",
+			"[Costume] Water Deity",
+			"[Costume] Exploration Backpack",
+			"[Costume] Arrow Quiver",
+			"[Costume] Imp Mask",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201040] = {
+		unidentifiedDisplayName = "[Aug] Consumable Box",
+		unidentifiedResourceName = "모범생선물상자",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Try this box full of consumables and some Oval Artifacts!"
+		},
+		identifiedDisplayName = "[Aug] Consumable Box",
+		identifiedResourceName = "모범생선물상자",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Try this box full of consumables and some Oval Artifacts!",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[201041] = {
+		unidentifiedDisplayName = "[Aug] Life Box",
+		unidentifiedResourceName = "응급처치상자",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Try this box full of Life Potions and some Oval Artifacts!"
+		},
+		identifiedDisplayName = "[Aug] Life Box",
+		identifiedResourceName = "응급처치상자",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Try this box full of Life Potions and some Oval Artifacts!",
+			"--------------------------",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -315267,11 +316180,559 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[300170] = {
+		unidentifiedDisplayName = "Rotten Tree Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases natural HP recovery by 100%.",
+			"Increases all damage dealt to Insect monsters by 10%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Rotten Tree Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases natural HP recovery by 100%.",
+			"Increases all damage dealt to Insect monsters by 10%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Armor^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300171] = {
+		unidentifiedDisplayName = "Grave Worm Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"If using a One-Handed Staff or Two-Handed Staff weapon, ignores 10% of the magic defense of all races (excluding players).",
+			"For every 4 refine levels, additionally ignores 2% of the enemy's magic defense and increases physical damage taken by 2%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Grave Worm Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"If using a One-Handed Staff or Two-Handed Staff weapon, ignores 10% of the magic defense of all races (excluding players).",
+			"For every 4 refine levels, additionally ignores 2% of the enemy's magic defense and increases physical damage taken by 2%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300172] = {
+		unidentifiedDisplayName = "Brain Sucker Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"MHP - 15%.",
+			"Lose 2 SP with each normal attack.",
+			"Has a chance to absorb 20% of the damage dealt to the enemy as HP.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Brain Sucker Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MHP - 15%.",
+			"Lose 2 SP with each normal attack.",
+			"Has a chance to absorb 20% of the damage dealt to the enemy as HP.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300173] = {
+		unidentifiedDisplayName = "Mosquilo Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Decreases variable casting by 7%.",
+			"Decreases attack speed (increases after attack delay by 3%).",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Mosquilo Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Decreases variable casting by 7%.",
+			"Decreases attack speed (increases after attack delay by 3%).",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300174] = {
+		unidentifiedDisplayName = "Melted Poring Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"MHP + 10%.",
+			"If VIT is 100 or higher, increases Earth and Poison property resistance by 1%.",
+			"If VIT is 130 or higher, additionally increases Earth and Poison property resistance by 3%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Headgear^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Melted Poring Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MHP + 10%.",
+			"If VIT is 100 or higher, increases Earth and Poison property resistance by 1%.",
+			"If VIT is 130 or higher, additionally increases Earth and Poison property resistance by 3%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Headgear^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300175] = {
+		unidentifiedDisplayName = "Unknown Creature Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases Poison and Shadow property magic damage by 30%.",
+			"Decreases Holy property resistance by 10%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Accessory(Right)^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Unknown Creature Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Poison and Shadow property magic damage by 30%.",
+			"Decreases Holy property resistance by 10%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Accessory(Right)^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false
+	},
+	[300176] = {
+		unidentifiedDisplayName = "Unidentified Creature Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"If the equipped weapon is a Two-Handed Sword or Two-Handed Axe, increases melee physical damage by 10%, ASPD + 1.",
+			"For every 2 refine levels, additionally increases melee physical damage by 1%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Unidentified Creature Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"If the equipped weapon is a Two-Handed Sword or Two-Handed Axe, increases melee physical damage by 10%, ASPD + 1.",
+			"For every 2 refine levels, additionally increases melee physical damage by 1%.",
+			"^ffffff_^000000",
+			"Type: ^777777Card^000000",
+			"Equipped on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 104,
+		costume = false
+	},
+	[300177] = {
+		unidentifiedDisplayName = "Arena Arhi Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases damage to monsters of all sizes by 5%, MHP + 1000, FLEE + 35",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Arhi Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases damage to monsters of all sizes by 5%, MHP + 1000, FLEE + 35",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300178] = {
+		unidentifiedDisplayName = "Arena Dio Anemos Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases Earth and Neutral property magic damage by 10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Dio Anemos Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Earth and Neutral property magic damage by 10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300179] = {
+		unidentifiedDisplayName = "Arena Thief Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases Fire and Holy property magic damage by 10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Thief Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Fire and Holy property magic damage by 10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300180] = {
+		unidentifiedDisplayName = "Arena Ruffian Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases attack speed (decreases after attack delay by 10%).",
+			"Increases critical damage by 7%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Ruffian Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases attack speed (decreases after attack delay by 10%).",
+			"Increases critical damage by 7%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300181] = {
+		unidentifiedDisplayName = "Arena Delinquent Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases attack speed (decreases after attack delay by 7%).",
+			"Increases critical damage by 10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Delinquent Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases attack speed (decreases after attack delay by 7%).",
+			"Increases critical damage by 10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300182] = {
+		unidentifiedDisplayName = "Arena Pemong Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"MSP + 20%.",
+			"When receiving physical attacks, has a chance to autocast Gwangchukgi Lv. 1.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Pemong Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"MSP + 20%.",
+			"When receiving physical attacks, has a chance to autocast Gwangchukgi Lv. 1.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300183] = {
+		unidentifiedDisplayName = "Arena Ordre Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases Wind and Water property magic damage by 10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Ordre Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Wind and Water property magic damage by 10%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300184] = {
+		unidentifiedDisplayName = "Arena Blut Haze Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"ATK + 5%.",
+			"Increases ranged physical damage by 7%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Blut Haze Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"ATK + 5%.",
+			"Increases ranged physical damage by 7%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300185] = {
+		unidentifiedDisplayName = "Arena Kuro Akuma Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Decreases variable casting by 10%.",
+			"Increases Wind Blade, Freezing Spear, and Flaming Petals damage by 15%.",
+			"Increases ranged physical damage by 8%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Kuro Akuma Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Decreases variable casting by 10%.",
+			"Increases Wind Blade, Freezing Spear, and Flaming Petals damage by 15%.",
+			"Increases ranged physical damage by 8%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300186] = {
+		unidentifiedDisplayName = "Arena Iphodos Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases attack speed (decreases after attack delay by 7%).",
+			"Increases melee physical damage by 7%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Iphodos Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases attack speed (decreases after attack delay by 7%).",
+			"Increases melee physical damage by 7%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300187] = {
+		unidentifiedDisplayName = "Arena Odoriko Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases attack speed (decreases after attack delay by 7%).",
+			"Increases ranged physical damage by 7%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Odoriko Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases attack speed (decreases after attack delay by 7%).",
+			"Increases ranged physical damage by 7%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300188] = {
+		unidentifiedDisplayName = "Arena Lecheniye Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases Holy property magic damage by 10%.",
+			"Increases Healing effectiveness by 20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Lecheniye Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Holy property magic damage by 10%.",
+			"Increases Healing effectiveness by 20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300189] = {
+		unidentifiedDisplayName = "Arena Zhu Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 15%.",
+			"If the weapon is a book, additionally increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 20%. If it is refined to +14 or higher, additionally increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 30%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Zhu Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 15%.",
+			"If the weapon is a book, additionally increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 20%. If it is refined to +14 or higher, additionally increases Fire Bolt, Cold Bolt, and Lightning Bolt damage by 30%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Weapon^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300190] = {
+		unidentifiedDisplayName = "Arena Fei Canavian Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases Neutral and Earth property magic damage by 10%.",
+			"Melee physical attacks have a low chance to possess the user with Golem for 5 seconds.",
+			"While possessed by Golem, DEF + 500 for the duration.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Fei Canavian Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Neutral and Earth property magic damage by 10%.",
+			"Melee physical attacks have a low chance to possess the user with Golem for 5 seconds.",
+			"While possessed by Golem, DEF + 500 for the duration.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[300191] = {
+		unidentifiedDisplayName = "Arena Diwai Card",
+		unidentifiedResourceName = "이름없는카드",
+		unidentifiedDescriptionName = {
+			"Increases Neutral, Shadow, and Undead property magic damage by 20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Arena Diwai Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"Increases Neutral, Shadow, and Undead property magic damage by 20%.",
+			"^ffffff_^000000",
+			"Class: ^777777Card^000000",
+			"Equipped on: ^777777Accessory^000000",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[300192] = {
 		unidentifiedDisplayName = "Sakray Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Sakray Card",
 		identifiedResourceName = "이름없는카드",
@@ -315297,7 +316758,7 @@ tbl = {
 		unidentifiedDisplayName = "Tiara Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Tiara Card",
 		identifiedResourceName = "이름없는카드",
@@ -326318,6 +327779,21 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[310654] = {
+		unidentifiedDisplayName = "ASPD +1 (Dual)",
+		unidentifiedResourceName = "태양신의상징",
+		unidentifiedDescriptionName = {
+			"^0000ffAttack Speed +1.^000000"
+		},
+		identifiedDisplayName = "ASPD +1 (Dual)",
+		identifiedResourceName = "태양신의상징",
+		identifiedDescriptionName = {
+			"^0000ffAttack Speed +1.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[310658] = {
 		unidentifiedDisplayName = "Fixed Cast -0.1 (Dual)",
 		unidentifiedResourceName = "태양신의상징",
@@ -326375,6 +327851,21 @@ tbl = {
 			"^fa4e09Set^000000",
 			"^fa4e09Range (Lower)^000000",
 			"^000000Additional long-range physical damage +2%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310662] = {
+		unidentifiedDisplayName = "HP Absorption (Dual)",
+		unidentifiedResourceName = "묘안석",
+		unidentifiedDescriptionName = {
+			"^0000ff1% chance to convert 1% of physical damage dealt into HP.^000000"
+		},
+		identifiedDisplayName = "HP Absorption (Dual)",
+		identifiedResourceName = "묘안석",
+		identifiedDescriptionName = {
+			"^0000ff1% chance to convert 1% of physical damage dealt into HP.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -329377,6 +330868,39 @@ tbl = {
 			"^fa4e09Set^000000",
 			"^fa4e09Warlock II (Garment)^000000",
 			"^000000[Light of Creation] SP cost -15%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[310889] = {
+		unidentifiedDisplayName = "Royal Guardian (Lower)",
+		unidentifiedResourceName = "Paladin_Figure",
+		unidentifiedDescriptionName = {
+			"Per level of [Lunar Spiral]:",
+			"^000000[Spear of Destiny] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09Royal Guardian (Cape)^000000",
+			"^000000[Piercing Shot] damage +15%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09Royal Guardian II (Cape)^000000",
+			"^000000Magic damage against all sizes +15%.^000000"
+		},
+		identifiedDisplayName = "Royal Guardian (Lower)",
+		identifiedResourceName = "Paladin_Figure",
+		identifiedDescriptionName = {
+			"Per level of [Lunar Spiral]:",
+			"^000000[Spear of Destiny] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09Royal Guardian (Cape)^000000",
+			"^000000[Piercing Shot] damage +15%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09Royal Guardian II (Cape)^000000",
+			"^000000Magic damage against all sizes +15%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -334447,7 +335971,7 @@ tbl = {
 		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified by using a [Magnifier]."
 		},
 		identifiedDisplayName = "[Costume] Drooping Betelgeuse",
 		identifiedResourceName = "Drooping_Betelgeuse",
@@ -334469,7 +335993,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "[Costume] Betelgeuse Wig",
 		identifiedResourceName = "Black_Dragon_Style",
@@ -334491,7 +336015,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "[Costume] Black Thunder",
 		identifiedResourceName = "C_Black_Thunder",
@@ -336520,6 +338044,641 @@ tbl = {
 		ClassNum = 2210,
 		costume = false
 	},
+	[400235] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Ninja Faith Helm",
+		identifiedResourceName = "Viva_Adul_Hat_KO",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Petal Tornado] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffRanged physical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffPhysical damage against all sizes +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffPhysical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffPOW +2. P.ATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional POW +3.^000000",
+			"^0000ffAdditional P.ATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Huuma Adulter Fides]^000000",
+			"^0000ffRanged damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Petal Tornado] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Huuma Vivatus Fides]^000000",
+			"^0000ffRanged damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Petal Tornado] damage +5%.^000000",
+			"^0000ff[Sticky Huuma] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Sticky Huuma] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Ninjas and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2217,
+		costume = false
+	},
+	[400236] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Ninja Faith Helm II",
+		identifiedResourceName = "Viva_Adul_Hat_KO",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Cross Impact] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffRanged physical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffPhysical damage against all sizes +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffPhysical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffPOW +2. P.ATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional POW +3.^000000",
+			"^0000ffAdditional P.ATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Shuriken Adulter Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Cross Impact] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Shuriken Vivatus Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Cross Impact] damage +5%.^000000",
+			"^0000ff[Distorted Kunai] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Distorted Kunai] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Ninjas and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2217,
+		costume = false
+	},
+	[400237] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Rebel Faith Helm",
+		identifiedResourceName = "Viva_Adul_Hat_RL",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Execution] [Missile Launch] and [Drum Discharge] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffRanged physical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffPhysical damage against all sizes +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffPhysical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffPOW +2. P.ATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional POW +3.^000000",
+			"^0000ffAdditional P.ATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Rifle Adulter Fides]^000000",
+			"^0000ff[Execution] cooldown -10 seconds.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Execution] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Rifle Vivatus Fides]^000000",
+			"^0000ff[Execution] cooldown -10 seconds.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Execution] damage +5%.^000000",
+			"^0000ff[Single Shot] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Single Shot] damage +15%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Revolver Adulter Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Drum Discharge] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Revolver Vivatus Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Drum Discharge] damage +5%.^000000",
+			"^0000ff[Heavy Artillery] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Heavy Artillery] damage +15%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Grenade Launcher Adulter Fides]^000000",
+			"^0000ff[Missile Launch] cooldown -2 seconds.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Missile Launch] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Grenade Launcher Vivatus Fides]^000000",
+			"^0000ff[Missile Launch] cooldown -2 seconds.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Missile Launch] damage +5%.^000000",
+			"^0000ff[Spiral Shooting] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Spiral Shooting] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Rebels and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2218,
+		costume = false
+	},
+	[400238] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Rebel Faith Helm II",
+		identifiedResourceName = "Viva_Adul_Hat_RL",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Expurgation] and [Shatter Storm] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffRanged physical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffPhysical damage against all sizes +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffPhysical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffPOW +2. P.ATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional POW +3.^000000",
+			"^0000ffAdditional P.ATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Shotgun Adulter Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Shatter Storm] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Shotgun Vivatus Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Shatter Storm] damage +5%.^000000",
+			"^0000ff[Suppressive Fire] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Suppressive Fire] damage +15%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Gatling Gun Adulter Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Expurgation] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Gatling Gun Vivatus Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Expurgation] damage +5%.^000000",
+			"^0000ff[Night Watch] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Night Watch] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Rebels and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2218,
+		costume = false
+	},
+	[400239] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Spiritual Faith Helm",
+		identifiedResourceName = "Viva_Adul_Hat_SP",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffMATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Eswhoo] and [Espa] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffAll property magical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffVariable cast time -10%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffMagical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffINT +2. S.MATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional INT +3.^000000",
+			"^0000ffAdditional S.MATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Staff Adulter Fides]^000000",
+			"^0000ffAll property magical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Eswhoo] and [Espa] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Staff Vivatus Fides]^000000",
+			"^0000ffAll property magical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Eswhoo] and [Espa] damage +5%.^000000",
+			"^0000ff[Phoenix Talisman] and [Turtle Talisman] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Phoenix Talisman] and [Turtle Talisman] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Spiritualists and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2219,
+		costume = false
+	},
+	[400240] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Spiritual Faith Helm II",
+		identifiedResourceName = "Viva_Adul_Hat_SP",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffMATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Necro Explosion] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffAll property magical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffMagical damage against all sizes +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffMagical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffINT +2. S.MATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional INT +3.^000000",
+			"^0000ffAdditional S.MATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Wand Adulter Fides]^000000",
+			"^0000ff[Necromancy] cooldown -2 seconds.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Necro Explosion] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Wand Vivatus Fides]^000000",
+			"^0000ff[Necromancy] cooldown -2 seconds.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Necro Explosion] damage +5%.^000000",
+			"^0000ff[Exorcise Haunt] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Exorcise Haunt] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Spiritualists and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2219,
+		costume = false
+	},
+	[400241] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Celestial Faith Helm",
+		identifiedResourceName = "Viva_Adul_Hat_SJ",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Lunar Eclipse] and [Moon Kick] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffMelee physical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffPhysical damage against all sizes +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffPhysical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffPOW +2. P.ATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional POW +3.^000000",
+			"^0000ffAdditional P.ATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Manual Adulter Fides]^000000",
+			"^0000ffMelee physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Lunar Eclipse] and [Moon Kick] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Manual Vivatus Fides]^000000",
+			"^0000ffMelee physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Lunar Eclipse] and [Moon Kick] damage +5%.^000000",
+			"^0000ff[Half Moon Kick] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Half Moon Kick] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Taekwon Masters and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2220,
+		costume = false
+	},
+	[400242] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Celestial Faith Helm II",
+		identifiedResourceName = "Viva_Adul_Hat_SJ",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Star Shower] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffMelee physical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffPhysical damage against all sizes +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffPhysical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffPOW +2. P.ATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional POW +3.^000000",
+			"^0000ffAdditional P.ATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Compendium Adulter Fides]^000000",
+			"^0000ffMelee physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Star Shower] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Compendium Vivatus Fides]^000000",
+			"^0000ffMelee physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Star Shower] damage +5%.^000000",
+			"^0000ff[Galactic Explosion] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Galactic Explosion] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Taekwon Masters and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2220,
+		costume = false
+	},
+	[400243] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Feline Faith Helm",
+		identifiedResourceName = "Viva_Adul_Hat_SU",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Picky Peck] and [Lunatic Comets] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffRanged physical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffPhysical damage against all sizes +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffPhysical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffPOW +2. P.ATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional POW +3.^000000",
+			"^0000ffAdditional P.ATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Cat Tail Adulter Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Picky Peck] and [Lunatic Comets] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Cat Tail Vivatus Fides]^000000",
+			"^0000ffRanged physical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Picky Peck] and [Lunatic Comets] damage +5%.^000000",
+			"^0000ff[Tiger Nails] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Tiger Nails] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Summoners and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2221,
+		costume = false
+	},
+	[400244] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Feline Faith Helm II",
+		identifiedResourceName = "Viva_Adul_Hat_SU",
+		identifiedDescriptionName = {
+			"Helm containing the power of faith.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000ffMATK +10.^000000",
+			"Every 3 refines:",
+			"^0000ff[Cat Spear] and [Nepeta Meteors] damage +15%.^000000",
+			"Every 4 refines:",
+			"^0000ffAll property magical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000ffPhysical damage against all sizes +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000ffFixed cast time -0.2 seconds.^000000",
+			"Refine +11 or higher:",
+			"^0000ffMagical damage +5%.^000000",
+			"^0000ffAdditional fixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"Base Lv. 210 or higher:",
+			"^0000ffINT +2. S.MATK +1.^000000",
+			"Base Lv. 230 or higher:",
+			"^0000ffAdditional INT +3.^000000",
+			"^0000ffAdditional S.MATK +2.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Cat Tail Adulter Fides]^000000",
+			"^0000ffAll property magical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Cat Spear] and [Nepeta Meteors] damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Cat Tail Vivatus Fides]^000000",
+			"^0000ffAll property magical damage +10%.^000000",
+			"Every 3 weapon refines:",
+			"^0000ff[Cat Spear] and [Nepeta Meteors] damage +5%.^000000",
+			"^0000ff[Wild Breeze] damage +7%.^000000",
+			"Weapon Grade C or higher:",
+			"^0000ff[Wild Breeze] damage +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Position: ^777777Top^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Item Lv.: ^7777772^000000",
+			"Required Lv.: ^777777180^000000",
+			"Classes: ^777777Summoners and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2221,
+		costume = false
+	},
 	[400253] = {
 		unidentifiedDisplayName = "Equipment Costume",
 		unidentifiedResourceName = "리본",
@@ -337444,14 +339603,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "[Costume] Drops Hood",
 		identifiedResourceName = "C_Drops_Mascot_Costume",
 		identifiedDescriptionName = {
-			"A giant costume of the cutest little monster in the Sograt desert: Drops! Wear it as a hood to find other fans of this yellow poring.",
+			"A giant costume of the cutest little monster in the Sograt Desert: Drops! Wear it as a hood to find other fans of this orange Poring.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Upper^000000",
@@ -337490,14 +339649,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "햇",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Marin Beret",
+		identifiedDisplayName = "[Costume] Archangeling Bread Hat",
 		identifiedResourceName = "Marin_Pattern_Hat",
 		identifiedDescriptionName = {
-			"A beret inspired by the blue porings called Marin. They inhabit the icy mountains of Lutie.",
+			"A beret inspired by the Porings called Archangelings. They inhabit the icy mountains of Lutie.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Upper^000000",
@@ -339250,6 +341409,124 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 2137,
 		costume = true
+	},
+	[410091] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Cor Core Headset",
+		identifiedResourceName = "Cor_Core_Headset",
+		identifiedDescriptionName = {
+			"Headphones found in the COR District.",
+			"--------------------------",
+			"^0000ffAfter-cast delay -8%.^000000",
+			"^0000ffVariable cast time -8%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Antique CD]^000000",
+			"^0000ffAll property magic damage +7%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equip on: ^777777Middle^000000",
+			"DEF: ^7777775^000000 DEFM: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777150^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2017,
+		costume = false
+	},
+	[410092] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Cor Core Headset",
+		identifiedResourceName = "Cor_Core_Headset",
+		identifiedDescriptionName = {
+			"Headphones found in the COR District.",
+			"--------------------------",
+			"^0000ffAfter-cast delay -5%.^000000",
+			"^0000ffVariable cast time -5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Antique CD]^000000",
+			"^0000ffAll property magic damage +5%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equip on: ^777777Middle^000000",
+			"DEF: ^7777775^000000 DEFM: ^7777770^000000",
+			"Weight: ^777777150^000000",
+			"Required Level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2017,
+		costume = false
+	},
+	[410093] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Sealed Chains",
+		identifiedResourceName = "금제의사슬",
+		identifiedDescriptionName = {
+			"Steel chains baptized with holy water. Used to bind evil beings.",
+			"--------------------------",
+			"^0000ffCRIT +8.^000000",
+			"^0000ffRanged physical damage +8%.^000000",
+			"^0000ffMelee physical damage +8%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Choker of Restriction]^000000",
+			"^0000ffCritical damage +7%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equip on: ^777777Middle^000000",
+			"DEF: ^7777775^000000 DEFM: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777150^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 1417,
+		costume = false
+	},
+	[410094] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Sealed Chains",
+		identifiedResourceName = "금제의사슬",
+		identifiedDescriptionName = {
+			"Steel chains baptized with holy water. Used to bind evil beings.",
+			"--------------------------",
+			"^0000ffCRIT +5.^000000",
+			"^0000ffRanged physical damage +5%.^000000",
+			"^0000ffMelee physical damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09[Choker of Restriction]^000000",
+			"^0000ffCritical damage +5%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equip on: ^777777Middle^000000",
+			"DEF: ^7777775^000000 DEFM: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777150^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 1417,
+		costume = false
 	},
 	[410095] = {
 		unidentifiedDisplayName = "Costume",
@@ -341953,6 +344230,31 @@ tbl = {
 		ClassNum = 1643,
 		costume = false
 	},
+	[420076] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Choker of Restriction",
+		identifiedResourceName = "Vassalage_Necklace",
+		identifiedDescriptionName = {
+			"Steel chains baptized with holy water. Used to bind evil beings.",
+			"--------------------------",
+			"^0000ffCRIT +3.^000000",
+			"^0000ffCritical damage +5%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equip on: ^777777Lower^000000",
+			"DEF: ^7777770^000000 DEFM: ^7777770^000000",
+			"Weight: ^7777771^000000",
+			"Required Level: ^777777150^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2018,
+		costume = false
+	},
 	[420077] = {
 		unidentifiedDisplayName = "Equipment Costume",
 		unidentifiedResourceName = "리본",
@@ -344335,14 +346637,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "[Costume] Poporing Soap Pipe",
 		identifiedResourceName = "Poporing_Soap_Pipe",
 		identifiedDescriptionName = {
-			"A soap bubble blower that produces bubbles resembling poporings! Every child and adult loves the effect it makes!",
+			"A soap bubble blower that makes bubbles resembling Poporings! Every child and adult loves the effect it creates!",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Lower^000000",
@@ -344358,14 +346660,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Petal Twin Wig",
+		identifiedDisplayName = "[Costume] Petal Wig",
 		identifiedResourceName = "C_Petal_Twin",
 		identifiedDescriptionName = {
 			"Soft hair similar to the fur of Petal, the little squirrel that lives in the flowery fields of Eclage, throwing its nuts at unwary adventurers.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Lower^000000",
@@ -344923,7 +347225,7 @@ tbl = {
 			"^0000FFMax SP +25%.^000000",
 			"--------------------------",
 			"Type: ^777777Headgear^000000",
-			"Equip on: ^777777Middle^000000",
+			"Equip on: ^777777Mid and Lower^000000",
 			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
 			"Weight: ^7777770^000000",
 			"Required Level: ^777777201^000000",
@@ -349801,6 +352103,62 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[450149] = {
+		unidentifiedDisplayName = "Armor",
+		unidentifiedResourceName = "맨틀",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Anti-Conjure Suit",
+		identifiedResourceName = "MD_Geffen_Robe",
+		identifiedDescriptionName = {
+			"A suit made even more powerful through continuous research and improvement. Designed to make handling various types of magic easier.",
+			"^ffffff_^000000",
+			"Increases healing received by 10%. Decreases SP consumption by 10%.",
+			"MHP + 3%, STR + 3, AGI +3.",
+			"For each refine level,  ATK + 10.",
+			"For every 2 refine levels,  increases attack speed (decreases after attack delay by 2%).",
+			"At +9, increases melee and ranged physical damage by 10%.",
+			"At +11, further increases attack speed (decreases after attack delay by 7%).",
+			"At +13, ATK + 60.",
+			"Class: ^777777Armor^000000  Defense: ^777777120^000000",
+			"Weight: ^77777790^000000",
+			"Armor Level: ^7777772^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[450150] = {
+		unidentifiedDisplayName = "Robe",
+		unidentifiedResourceName = "실크로브",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Magic Protector Robe",
+		identifiedResourceName = "MD_Geffen_Suits",
+		identifiedDescriptionName = {
+			"The uniform of Geffen mages. It has the ability to improve magic efficiency when chanting spells.",
+			"^ffffff_^000000",
+			"Increases healing received by 10%. Decreases SP consumption by 10%.",
+			"MHP + 3%, INT + 3, DEX + 3.",
+			"For each refine level,  MATK + 10.",
+			"For every 2 refine levels,  decreases variable casting by 2%.",
+			"At +9, increases all property magic damage by 10%.",
+			"At +11, additionally decreases variable casting by 7%.",
+			"At +13, MATK + 60.",
+			"Class: ^777777Armor^000000  Defense: ^777777110^000000",
+			"Weight: ^77777780^000000",
+			"Armor Level: ^7777772^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[450151] = {
 		unidentifiedDisplayName = "Clothes",
 		unidentifiedResourceName = "코튼셔츠",
@@ -349882,7 +352240,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothes",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Faint Star Robe",
 		identifiedResourceName = "Vague_Star_Robe",
@@ -349912,7 +352270,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothes",
 		unidentifiedResourceName = "타이즈",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Faint Star Suit",
 		identifiedResourceName = "Vague_Star_Suit",
@@ -349942,7 +352300,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "우든메일",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Faint Star Armor",
 		identifiedResourceName = "Vague_Star_Armor",
@@ -349972,7 +352330,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "우든메일",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Nebula Armor of Power",
 		identifiedResourceName = "Star_Armor_Of_Pow",
@@ -349988,21 +352346,21 @@ tbl = {
 			"Refine +11 or more:",
 			"^0000FFMelee physical damage +20%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade D or more^000000",
+			"^CC3D3DGrade D or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFATK +2.",
 			"Physical damage +1%.^000000",
 			"Every 3 refinements:",
 			"^0000FFMelee physical damage +1%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade C or more^000000",
+			"^CC3D3DGrade C or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFATK +3.",
 			"Physical damage +1%.^000000",
 			"Every 3 refinements:",
 			"^0000FFMelee physical damage +1%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade B or more^000000",
+			"^CC3D3DGrade B or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFPhyisical damage +2%.^000000",
 			"Every 3 refinements:",
@@ -350010,7 +352368,7 @@ tbl = {
 			"Every 4 refinements:",
 			"^0000FFP.ATK +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrade A or more^000000",
+			"^CC3D3DGrade A or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFPhysical damage +3%.^000000",
 			"Every 3 refinements:",
@@ -350033,7 +352391,7 @@ tbl = {
 		unidentifiedDisplayName = "Armor",
 		unidentifiedResourceName = "우든메일",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Nebula Armor of Stamina",
 		identifiedResourceName = "Star_Armor_Of_Sta",
@@ -350049,27 +352407,27 @@ tbl = {
 			"Refine +11 or more:",
 			"^0000FFMax HP +15%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade D or more^000000",
+			"^CC3D3DGrade D or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFDEF +5.",
 			"Healing received +2%.^000000",
 			"Every 4 refinements:",
 			"^0000FFTENA +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrade C or more^000000",
+			"^CC3D3DGrade C or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFDEF +7.",
 			"Healing received +3%.^000000",
 			"Every 4 refinements:",
 			"^0000FFTENA +2.^000000",
 			"--------------------------",
-			"^CC3D3DGrade B or more^000000",
+			"^CC3D3DGrade B or higher^000000",
 			"Every 3 refinements:",
 			"^0000FFMax HP +1%.^000000",
 			"Every 4 refinements:",
 			"^0000FFTENA +3.^000000",
 			"--------------------------",
-			"^CC3D3DGrade A or more^000000",
+			"^CC3D3DGrade A or higher^000000",
 			"Every 3 refinements:",
 			"^0000FFMax HP +2%.^000000",
 			"Every 4 refinements:",
@@ -350090,7 +352448,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothes",
 		unidentifiedResourceName = "타이즈",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Nebula Suit of Concentration",
 		identifiedResourceName = "Star_Suit_Of_Con",
@@ -350106,19 +352464,19 @@ tbl = {
 			"Refine +11 or more:",
 			"^0000FFRanged physical damage +20%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade D or more^000000",
+			"^CC3D3DGrade D or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFATK +2.",
 			"Physical damage +1%.",
 			"Attack speed +1%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade C or more^000000",
+			"^CC3D3DGrade C or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFATK +3.",
 			"Physical damage +2%.",
 			"Attack speed +1%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade B or more^000000",
+			"^CC3D3DGrade B or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFAttack speed +2%.^000000",
 			"Every 3 refinements:",
@@ -350126,7 +352484,7 @@ tbl = {
 			"Every 4 refinements:",
 			"^0000FFP.ATK + 1.^000000",
 			"--------------------------",
-			"^CC3D3DGrade A or more^000000",
+			"^CC3D3DGrade A or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFAttack speed +2%.^000000",
 			"Every 3 refinements:",
@@ -350149,7 +352507,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothes",
 		unidentifiedResourceName = "타이즈",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Nebula Suit of Creativity",
 		identifiedResourceName = "Star_Suit_Of_Crt",
@@ -350165,28 +352523,28 @@ tbl = {
 			"Refine +11 or more:",
 			"^0000FFCritical damage +20%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade D or more^000000",
+			"^CC3D3DGrade D or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFATK +1.^000000",
 			"Every 3 refinements:",
 			"^0000FFCRIT +1.",
 			"Critical damage +2%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade C or more^000000",
+			"^CC3D3DGrade C or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFATK +2.^000000",
 			"Every 3 refinements:",
 			"^0000FFCRIT +2",
 			"Critical damage +3%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade B or more^000000",
+			"^CC3D3DGrade B or higher^000000",
 			"Every 3 refinements:",
 			"^0000FFCritical damage +5%.^000000",
 			"Every 4 refinements:",
 			"^0000FFC.Rate +1.",
 			"P.ATK +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrade A or more^000000",
+			"^CC3D3DGrade A or higher^000000",
 			"Every 3 refinements:",
 			"^0000FFCritical damage +7%.^000000",
 			"Every 4 refinements:",
@@ -350208,7 +352566,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothes",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Nebula Robe of Spell",
 		identifiedResourceName = "Star_Robe_Of_Spl",
@@ -350224,21 +352582,21 @@ tbl = {
 			"Refine +11 or more:",
 			"^0000FFMagic damage of all properties +15%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade D or more^000000",
+			"^CC3D3DGrade D or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFMATK +2.",
 			"Magic damage +1%.^000000",
 			"Every 3 refinements:",
 			"^0000FFMagic damage of all properties +3%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade C or more^000000",
+			"^CC3D3DGrade C or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFMATK +3.",
 			"Magic damage +1%.^000000",
 			"Every 3 refinements:",
 			"^0000FFMagic damage of all properties +3%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade B or more^000000",
+			"^CC3D3DGrade B or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFMagic damage +2%.^000000",
 			"Every 3 refinements:",
@@ -350246,7 +352604,7 @@ tbl = {
 			"Every 4 refinements:",
 			"^0000FFS.MATK +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrade A or more^000000",
+			"^CC3D3DGrade A or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFMagic damage +3%.^000000",
 			"Every 3 refinements:",
@@ -350269,7 +352627,7 @@ tbl = {
 		unidentifiedDisplayName = "Clothes",
 		unidentifiedResourceName = "코튼셔츠",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Nebula Robe of Wisdom",
 		identifiedResourceName = "Star_Robe_Of_Wis",
@@ -350286,21 +352644,21 @@ tbl = {
 			"Refine +11 or more:",
 			"^0000FFVariable cast time -10%.^000000",
 			"--------------------------",
-			"^CC3D3DGrade D or more^000000",
+			"^CC3D3DGrade D or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFNatural SP recovery +2%.",
 			"Healing effectiveness +1%.^000000",
 			"Every 3 refinements:",
 			"^0000FFMTENA +1.^000000",
 			"--------------------------",
-			"^CC3D3DGrade C or more^000000",
+			"^CC3D3DGrade C or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFNatural SP recovery +3%.",
 			"Healing effectiveness +2%.^000000",
 			"Every 3 refinements:",
 			"^0000FFMTENA +2.^000000",
 			"--------------------------",
-			"^CC3D3DGrade B or more^000000",
+			"^CC3D3DGrade B or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFMax SP +1%.^000000",
 			"Every 3 refinements:",
@@ -350308,7 +352666,7 @@ tbl = {
 			"Every 4 refinements:",
 			"^0000FFH.PLUS +2. ^000000",
 			"--------------------------",
-			"^CC3D3DGrade A or more^000000",
+			"^CC3D3DGrade A or higher^000000",
 			"Every 2 refinements:",
 			"^0000FFMax SP +2%.^000000",
 			"Every 3 refinements:",
@@ -350986,6 +353344,62 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[460005] = {
+		unidentifiedDisplayName = "Shield",
+		unidentifiedResourceName = "가드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Magic Absolver",
+		identifiedResourceName = "MD_Geffen_Shield",
+		identifiedDescriptionName = {
+			"A Shield for anti-magic use that further enhances its ability to reflect magic.",
+			"Perhaps due to its nature as a shield dedicated to anti-magic combat, it is extremely thin.",
+			"^ffffff_^000000",
+			"Increases all property magic damage by 3%, MDEF + 15.",
+			"At +7, MATK + 25.",
+			"At +9, decreases variable casting by 5%.",
+			"At +12, all property magic damage + 7%.",
+			"^ffffff_^000000",
+			"When equipped with Mental Condenser or Force Condenser, MHP + 10%, decreases after skill delay by 5%.",
+			"Class: ^777777Shield^000000  Defense: ^77777750^000000",
+			"Weight: ^77777750^000000",
+			"Armor Level: ^7777772^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[460006] = {
+		unidentifiedDisplayName = "Book",
+		unidentifiedResourceName = "북",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Complete Encyclopedia",
+		identifiedResourceName = "MD_Geffen_Shield2",
+		identifiedDescriptionName = {
+			"The complete edition of the great encyclopedia from a certain Prontera publisher, famous for having hard corners.",
+			"Now, not only the corners but every surface of the Book is unbelievably heavy and hard.",
+			"^ffffff_^000000",
+			"ATK +3%, MDEF + 10.",
+			"At +7, ATK + 25, CRI + 3.",
+			"At +9, increases attack speed (decreases after attack delay by 5%).",
+			"At +12, ATK + 7%, increases critical damage by 10%.",
+			"^ffffff_^000000",
+			"When equipped with Mental Condenser or Force Condenser, MHP + 10%, decreases after skill delay by 5%.",
+			"Class: ^777777Shield^000000  Defense: ^777777150^000000",
+			"Weight: ^777777150^000000",
+			"Armor Level: ^7777772^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[460012] = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
@@ -351012,7 +353426,7 @@ tbl = {
 		unidentifiedDisplayName = "Shield",
 		unidentifiedResourceName = "가드",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Pænitentia Aegis",
 		identifiedResourceName = "Poenetentia_Aegis",
@@ -351224,6 +353638,40 @@ tbl = {
 		},
 		slotCount = 1,
 		ClassNum = 2,
+		costume = false
+	},
+	[460181] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Pænitentia Protector",
+		identifiedResourceName = "Atque_Poenitentia",
+		identifiedDescriptionName = {
+			"Shield that contains the spirit of the Mausoleum guardian.",
+			"--------------------------",
+			"^0000ffHallucination Tolerance +100%.^000000",
+			"^0000ffPhysical and magical damage against all Sizes +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09Any Pænitentia Weapon^000000",
+			"^0000ffAfter-cast delay -10%.^000000",
+			"When performing physical or magical attacks:",
+			"^0000ff3% chance to activate an [Effect] for 5 seconds.^000000",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffSkill SP cost -100%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equipped on: ^777777Middle^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777750^000000",
+			"Required Level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2594,
 		costume = false
 	},
 	[470000] = {
@@ -351874,6 +354322,134 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[470071] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "샌들",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Unknown Power Boots",
+		identifiedResourceName = "MD_Airboat_Boots",
+		identifiedDescriptionName = {
+			"Standard-issue Shoes corroded by an unknown power.",
+			"You can feel the boots respond whenever the wearer exerts strength.",
+			"^ffffff_^000000",
+			"For every 2 refine levels, ATK + 15.",
+			"For every 3 refine levels, MHP + 120, MSP + 8.",
+			"At +9, increases attack speed (decreases after attack delay by 7%).",
+			"At +11, physical attacks have a low chance to increase STR by 175 for 10 seconds.",
+			"At +13, increases melee physical damage by 7%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Grade]^000000",
+			"[D Grade] Additionally increases the STR increased for 10 seconds at a low chance when physically attacking by 25.",
+			"[C Grade] Additionally increases the STR increased for 10 seconds at a low chance when physically attacking by 25.",
+			"^ffffff_^000000",
+			"Type : ^777777Shoes^000000  Defense : ^77777760^000000",
+			"Weight : ^77777770^000000",
+			"Armor Level : ^7777772^000000",
+			"Required Level : ^777777230^000000",
+			"Equipped by : ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470072] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "샌들",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Unknown Dexterity Boots",
+		identifiedResourceName = "MD_Airboat_Boots2",
+		identifiedDescriptionName = {
+			"Standard-issue boots corroded by an unknown power.",
+			"You can feel the boots respond whenever the wearer concentrates.",
+			"^ffffff_^000000",
+			"For every 2 refine levels, ATK + 15.",
+			"For every 3 refine levels, MHP + 110, MSP + 10.",
+			"At +9, increases attack speed (decreases after attack delay by 7%).",
+			"At +11, physical/magic attacks have a low chance to increase DEX by 175 for 10 seconds.",
+			"At +13, decreases fixed casting by 0.5 seconds.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Grade]^000000",
+			"[D Grade] Additionally increases the DEX increased for 10 seconds at a low chance when physically/magically attacking by 25.",
+			"[C Grade] Additionally increases the DEX increased for 10 seconds at a low chance when physically/magically attacking by 25.",
+			"^ffffff_^000000",
+			"Type : ^777777Shoes^000000  Defense : ^77777760^000000",
+			"Weight : ^77777770^000000",
+			"Armor Level : ^7777772^000000",
+			"Required Level : ^777777230^000000",
+			"Equipped by : ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470073] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "샌들",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Unknown Vitality Boots",
+		identifiedResourceName = "MD_Airboat_Boots3",
+		identifiedDescriptionName = {
+			"Standard-issue boots corroded by an unknown power.",
+			"You can feel the boots respond whenever the wearer feels pain.",
+			"^ffffff_^000000",
+			"For every 2 refine levels, ATK + 10, MATK + 10.",
+			"For every 3 refine levels, MHP + 150, MSP + 15.",
+			"At +9, decreases variable casting by 5% and increases attack speed (decreases after attack delay by 5%).",
+			"At +11, physical/magic attacks have a low chance to increase VIT by 175 for 10 seconds.",
+			"At +13, decreases after skill delay by 5%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Grade]^000000",
+			"[D Grade] Additionally increases the VIT increased for 10 seconds at a low chance when physically/magically attacking by 25.",
+			"[C Grade] Additionally increases the VIT increased for 10 seconds at a low chance when physically/magically attacking by 25.",
+			"^ffffff_^000000",
+			"Type : ^777777Shoes^000000  Defense : ^77777765^000000",
+			"Weight : ^77777775^000000",
+			"Armor Level : ^7777772^000000",
+			"Required Level : ^777777230^000000",
+			"Equipped by : ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470074] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "샌들",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Unknown Magic Boots",
+		identifiedResourceName = "MD_Airboat_Boots4",
+		identifiedDescriptionName = {
+			"Standard-issue boots corroded by an unknown power.",
+			"You can feel the boots respond whenever the wearer concentrates magical power.",
+			"^ffffff_^000000",
+			"For every 2 refine levels, MATK + 15, Healing effectiveness + 2%.",
+			"For every 3 refine levels, MHP + 80, MSP + 20.",
+			"At +9, decreases variable casting by 7%.",
+			"At +11, magic attacks have a low chance to increase INT by 175 for 10 seconds.",
+			"At +13, increases all property magic damage by 7%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Grade]^000000",
+			"[D Grade] Additionally increases the INT increased for 10 seconds at a low chance when magically attacking by 25.",
+			"[C Grade] Additionally increases the INT increased for 10 seconds at a low chance when magically attacking by 25.",
+			"^ffffff_^000000",
+			"Type : ^777777Shoes^000000  Defense : ^77777750^000000",
+			"Weight : ^77777765^000000",
+			"Armor Level : ^7777772^000000",
+			"Required Level : ^777777230^000000",
+			"Equipped by : ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[470075] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "샌들",
@@ -351881,6 +354457,70 @@ tbl = {
 		identifiedDisplayName = "",
 		identifiedResourceName = "Peep_Toe_Sandals",
 		identifiedDescriptionName = {""},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470076] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Unknown Agility Boots",
+		identifiedResourceName = "MD_Airboat_Boots5",
+		identifiedDescriptionName = {
+			"Standard-issue boots corroded by an unknown power.",
+			"You can feel the boots respond whenever the wearer makes agile movements.",
+			"^ffffff_^000000",
+			"For every 2 refine levels, ATK + 15.",
+			"For every 3 refine levels, MHP + 120, MSP + 8.",
+			"At +9, increases attack speed (decreases after attack delay by 7%).",
+			"At +11, physical attacks have a low chance to increase AGI by 175 for 10 seconds.",
+			"At +13, increases melee physical damage by 4% and ranged physical damage by 4%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Grade]^000000",
+			"[D Grade] Additionally increases the AGI increased for 10 seconds at a low chance when physically attacking by 25.",
+			"[C Grade] Additionally increases the AGI increased for 10 seconds at a low chance when physically attacking by 25.",
+			"^ffffff_^000000",
+			"Type : ^777777Shoes^000000  Defense : ^77777760^000000",
+			"Weight : ^77777770^000000",
+			"Armor Level : ^7777772^000000",
+			"Required Level : ^777777230^000000",
+			"Equipped by : ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470077] = {
+		unidentifiedDisplayName = "Shoes",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Unknown Luck Boots",
+		identifiedResourceName = "MD_Airboat_Boots6",
+		identifiedDescriptionName = {
+			"Standard-issue Shoes corroded by an unknown power.",
+			"You can feel the boots respond whenever the wearer's luck takes effect.",
+			"^ffffff_^000000",
+			"For every 2 refine levels, ATK + 15.",
+			"For every 3 refine levels, MHP + 100, MSP + 8.",
+			"At +9, increases attack speed (decreases after attack delay by 7%).",
+			"At +11, physical attacks have a low chance to increase LUK by 175 for 10 seconds.",
+			"At +13, CRI + 7, increases critical damage by 7%, ATK + 7%.",
+			"^ffffff_^000000",
+			"^CC3D3D[Additional Options by Grade]^000000",
+			"[D Grade] Additionally increases the LUK increased for 10 seconds at a low chance when physically attacking by 25.",
+			"[C Grade] Additionally increases the LUK increased for 10 seconds at a low chance when physically attacking by 25.",
+			"^ffffff_^000000",
+			"Type : ^777777Shoes^000000  Defense : ^77777765^000000",
+			"Weight : ^77777772^000000",
+			"Armor Level : ^7777772^000000",
+			"Required Level : ^777777230^000000",
+			"Equipped by : ^777777All Classes^000000"
+		},
 		slotCount = 1,
 		ClassNum = 0,
 		costume = false
@@ -352444,6 +355084,108 @@ tbl = {
 			"DEF: ^77777720^000000 MDEF: ^7777770^000000",
 			"Weight: ^77777720^000000",
 			"Required level: ^777777100^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470458] = {
+		unidentifiedDisplayName = "Footgear",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Fountain Boots",
+		identifiedResourceName = "룬부츠",
+		identifiedDescriptionName = {
+			"Boots found near a mysterious water fountain.",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000FFMax HP and SP +1%.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000FFPhysical damage +7%.^000000",
+			"Refine +9 or higher:",
+			"^0000FFCRIT +5.^000000",
+			"^0000FFPerfect Hit +10.^000000",
+			"Refine +11 or higher:",
+			"^0000FFFixed cast time -0.5 seconds.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFTENA and MTENA +50.^000000",
+			"Grade C or higher:",
+			"^0000FFSTA and WIS +5.^000000",
+			"Grade B or higher:",
+			"^0000FFP.ATK +7.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Egnigem Cenia Card^000000",
+			"^0000FFAdditional fixed cast time -0.5 seconds.^000000",
+			"^0000FFPhysical damage against all properties +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Anonymous Cenia Card^000000",
+			"^0000FFPhysical damage against all races +10%.^000000",
+			"^0000FFMakes armor indestructible in battle.^000000",
+			"--------------------------",
+			"Type: ^777777Footgear^000000",
+			"DEF: ^77777716^000000 MDEF: ^7777770^000000",
+			"Weight: ^777777100^000000",
+			"Equipment Level: ^7777772^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470459] = {
+		unidentifiedDisplayName = "Footgear",
+		unidentifiedResourceName = "샌들",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Chimera Shoes",
+		identifiedResourceName = "Fifth_Element",
+		identifiedDescriptionName = {
+			"Shoes that concentrate all the souls of chimeras found in Amicitia.",
+			"--------------------------",
+			"^0000FFLUK and WIS +5.^000000",
+			"^0000FFAfter-cast delay -3%.^000000",
+			"--------------------------",
+			"Every 3 refines:",
+			"^0000FFMATK +7.^000000",
+			"--------------------------",
+			"Refine +7 or higher:",
+			"^0000FFS.MATK +3.^000000",
+			"^0000FFMagical damage +5%.^000000",
+			"Refine +9 or higher:",
+			"^0000FFVariable cast time -10%.^000000",
+			"Refine +11 or higher:",
+			"^0000FFMagical damage against Small and Medium sizes +15%.^000000",
+			"--------------------------",
+			"^CC3D3DGrade D or higher:^000000",
+			"^0000FFAdditional LUK +5.^000000",
+			"^0000FFAdditional magical damage +5%.^000000",
+			"^CC3D3DGrade C or higher:^000000",
+			"^0000FFFixed cast time -1 second.^000000",
+			"^CC3D3DGrade B or higher:^000000",
+			"^0000FFAdditional S.MATK +7.^000000",
+			"^CC3D3DGrade A or higher:^000000",
+			"Every 2 refines:",
+			"^0000FFLUK +8.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09[Unique Chimera Card]^000000",
+			"^0000FFSkill SP cost -15%.^000000",
+			"^0000FFMagical damage against Undead property +15%.^000000",
+			"--------------------------",
+			"Type: ^777777Footgear^000000",
+			"DEF: ^77777716^000000 MDEF: ^77777715^000000",
+			"Weight: ^777777100^000000",
+			"Equipment Level: ^7777772^000000",
+			"Required Level: ^777777240^000000",
 			"Classes: ^777777All^000000"
 		},
 		slotCount = 1,
@@ -353162,6 +355904,136 @@ tbl = {
 		identifiedResourceName = "Storm_Muffler",
 		identifiedDescriptionName = {""},
 		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[480065] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Magic Barrier Manteau",
+		identifiedResourceName = "MD_Geffen_Hood",
+		identifiedDescriptionName = {
+			"A manteau improved from one of the prizes of the Geffen Magic Tournament.",
+			"There is writing that says it is not an officially approved improved product, but its safety is excellent.",
+			"^ffffff_^000000",
+			"MHP + 1500.",
+			"For every 2 refine levels,  MHP + 1%.",
+			"For every 3 refine levels,  increases attack speed (decreases after attack delay by 2%).",
+			"At +9, increases melee physical damage by 5%.",
+			"At +11, additionally increases melee physical damage by 7%.",
+			"^ffffff_^000000",
+			"When equipped with Anti-Conjure Suit, ATK + 50.",
+			"If Anti-Conjure Suit's refine rate is +11 or higher, increases melee physical damage by 5%, increases attack speed (decreases after attack delay by 10%).",
+			"^ffffff_^000000",
+			"When equipped with Magic Protector Robe, ATK + 50.",
+			"If Magic Protector Robe's refine rate is +11 or higher, increases melee physical damage by 5%, decreases variable casting by 10%.",
+			"Class: ^777777Garment^000000  Defense: ^77777775^000000",
+			"Weight: ^77777770^000000",
+			"Armor Level: ^7777772^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480066] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Magic Barrier Muffler",
+		identifiedResourceName = "MD_Geffen_Hood2",
+		identifiedDescriptionName = {
+			"A muffler improved from one of the prizes of the Geffen Magic Tournament.",
+			"There is writing that says it is not an officially approved improved product, but its safety is excellent.",
+			"^ffffff_^000000",
+			"MHP + 1500.",
+			"For every 2 refine levels,  MHP + 1%.",
+			"For every 3 refine levels,  decreases variable casting by 2%.",
+			"At +9, MATK + 7%, Healing effectiveness + 15%",
+			"At +11, increases all property magic damage by 7%.",
+			"^ffffff_^000000",
+			"When equipped with Magic Protector Robe, MATK + 50.",
+			"If Magic Protector Robe's refine rate is +11 or higher, increases all property magic damage by 5%, decreases variable casting by 10%.",
+			"^ffffff_^000000",
+			"When equipped with Anti-Conjure Suit, MATK + 50.",
+			"If Anti-Conjure Suit's refine rate is +11 or higher, increases all property magic damage by 5%, increases attack speed (decreases after attack delay by 10%).",
+			"Class: ^777777Garment^000000  Defense: ^77777770^000000",
+			"Weight: ^77777765^000000",
+			"Armor Level: ^7777772^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480067] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Levi's Magic Manteau",
+		identifiedResourceName = "MD_Geffen_Hood3",
+		identifiedDescriptionName = {
+			"A manteau improved for anti-magic use. It not only has excellent magic defense ability, but also greatly enhances the wearer's physical abilities.",
+			"^ffffff_^000000",
+			"MHP + 1200.",
+			"For every 2 refine levels,  MHP + 1%.",
+			"For every 3 refine levels,  increases attack speed (decreases after attack delay by 2%).",
+			"At +9, increases ranged physical damage by 5%.",
+			"At +11, additionally increases ranged physical damage by 7%.",
+			"^ffffff_^000000",
+			"When equipped with Anti-Conjure Suit, ATK + 50.",
+			"If Anti-Conjure Suit's refine rate is +11 or higher, increases ranged physical damage by 5%, increases attack speed (decreases after attack delay by 10%).",
+			"^ffffff_^000000",
+			"When equipped with Magic Protector Robe, ATK + 50.",
+			"If Magic Protector Robe's refine rate is +11 or higher, increases ranged physical damage by 5%, decreases variable casting by 10%.",
+			"Class: ^777777Garment^000000  Defense: ^77777770^000000",
+			"Weight: ^77777765^000000",
+			"Armor Level: ^7777772^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[480068] = {
+		unidentifiedDisplayName = "Garment",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Levi's Magic Muffler",
+		identifiedResourceName = "MD_Geffen_Hood4",
+		identifiedDescriptionName = {
+			"A muffler improved for anti-magic use. It not only has excellent magic defense ability, but also greatly enhances the wearer's physical abilities.",
+			"^ffffff_^000000",
+			"MHP + 2000.",
+			"For every 2 refine levels,  MHP + 1%.",
+			"For every 3 refine levels,  increases attack speed (decreases after attack delay by 1%), decreases variable casting by 1%.",
+			"At +9, increases damage to monsters of all sizes by 3%.",
+			"At +11, when performing physical/magic attacks, has a low chance to recover 350 HP and 20 SP every second for 10 seconds.",
+			"^ffffff_^000000",
+			"When equipped with Anti-Conjure Suit, ATK + 50.",
+			"If Anti-Conjure Suit's refine rate is +11 or higher, ATK + 5%, increases attack speed (decreases after attack delay by 10%).",
+			"^ffffff_^000000",
+			"When equipped with Magic Protector Robe, MATK + 50.",
+			"If Magic Protector Robe's refine rate is +11 or higher, MATK + 5%, decreases variable casting by 10%.",
+			"Class: ^777777Garment^000000  Defense: ^77777790^000000",
+			"Weight: ^77777780^000000",
+			"Armor Level: ^7777772^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
 		ClassNum = 0,
 		costume = false
 	},
@@ -356453,20 +359325,22 @@ tbl = {
 		costume = false
 	},
 	[480801] = {
-		unidentifiedDisplayName = "Wearable",
+		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Not identifiable. You can identify it using the [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Outfit: Haty Bebe Backpack",
+		identifiedDisplayName = "[Costume] Hatii's Backpack",
 		identifiedResourceName = "C_Garmbebe_Bag",
 		identifiedDescriptionName = {
-			"A backpack made with the adorable Haty Bebe as inspiration.",
-			"For adventurers who love Haty Bebe, it's an incredible must-have collectible.",
-			"Type : ^777777Outfit Equipment^000000 Defense : ^7777770^000000",
-			"Location : ^777777Wearable^000000 Weight : ^7777770^000000",
-			"Required Level : ^7777771^000000",
-			"Equipped by : ^777777All Jobs^000000"
+			"A backpack made with the adorable Baby Hatii as inspiration.",
+			"For adventurers who love Baby Hatii, it's an incredible must-have collectible.",
+			"--------------------------",
+			"Type: ^777777Costume^000000",
+			"Equip on: ^777777Garment^000000",
+			"Weight: ^7777770^000000",
+			"Required Level: ^7777771^000000",
+			"Classes: ^777777All^000000"
 		},
 		slotCount = 0,
 		ClassNum = 306,
@@ -356476,14 +359350,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Floating Tao Gunka",
+		identifiedDisplayName = "[Costume] Joyful Taogunka",
 		identifiedResourceName = "C_Joyful_Taogunka",
 		identifiedDescriptionName = {
 			"The floating heads that accompany Tao Gunka in his life in Luanda. They say each head represents a triplet that gave name to the caves of Comodo.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Garment^000000",
@@ -356499,14 +359373,14 @@ tbl = {
 		unidentifiedDisplayName = "Costume",
 		unidentifiedResourceName = "후드",
 		unidentifiedDescriptionName = {
-			"Unknown item. To identify it, use a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "[Costume] Mockery Shield",
+		identifiedDisplayName = "[Costume] Petulant Shield",
 		identifiedResourceName = "C_Cynic_Guard",
 		identifiedDescriptionName = {
-			"This is the famous shield used by the Storm Knight. No one knows whose face is stamped on the shield, but they say the Knight uses it to provoke and mock his opponents.",
+			"This is the famous shield used by the Knight of the Storm. No one knows whose face is stamped on the shield, but they say the Knight uses it to provoke and mock his opponents.",
 			"--------------------------",
-			"^0000ffExchangeable at Box 24 in^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
+			"^0000FFExchangeable for Costume Stone Box 24 at the^000000 <NAVI>[Fashion Shop]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Type: ^777777Costume^000000",
 			"Equip on: ^777777Garment^000000",
@@ -358104,6 +360978,52 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[490077] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Force Condenser",
+		identifiedResourceName = "MD_Geffen_Ring",
+		identifiedDescriptionName = {
+			"A magic ring developed in Geffen that enhances physical abilities.",
+			"MHP + 5%.",
+			"ATK + 8%.",
+			"^ffffff_^000000",
+			"When equipped with Anti-Conjure Suit or Magic Protector Robe, physical attacks have a low chance to recover 400 HP every 0.5 seconds 19 times.",
+			"Class: ^777777Accessory^000000  Defense: ^77777715^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[490078] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "링",
+		unidentifiedDescriptionName = {
+			"Unidentified. Can be identified using a [Magnifier]."
+		},
+		identifiedDisplayName = "Mental Condenser",
+		identifiedResourceName = "MD_Geffen_Ring2",
+		identifiedDescriptionName = {
+			"A magic ring developed in Geffen that enhances magic abilities.",
+			"MHP + 5%.",
+			"MATK + 8%.",
+			"^ffffff_^000000",
+			"When equipped with Anti-Conjure Suit or Magic Protector Robe, magic attacks have a low chance to recover 80 SP every 0.5 seconds 19 times.",
+			"Class: ^777777Accessory^000000  Defense: ^77777715^000000",
+			"Weight: ^77777710^000000",
+			"Required Level: ^777777230^000000",
+			"Equipped by: ^777777All Classes^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[490079] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "링",
@@ -358710,7 +361630,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Signet of Star",
 		identifiedResourceName = "Signet_Of_Star",
@@ -358733,7 +361653,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Signet of Star: Power",
 		identifiedResourceName = "Signet_Of_Pow_Star",
@@ -358763,7 +361683,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Signet of Star: Stamina",
 		identifiedResourceName = "Signet_Of_Sta_Star",
@@ -358793,7 +361713,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Signet of Star: Concentration",
 		identifiedResourceName = "Signet_Of_Con_Star",
@@ -358823,7 +361743,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Signet of Star: Creativity",
 		identifiedResourceName = "Signet_Of_Crt_Star",
@@ -358853,7 +361773,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Signet of Star: Spell",
 		identifiedResourceName = "Signet_Of_Spl_Star",
@@ -358883,7 +361803,7 @@ tbl = {
 		unidentifiedDisplayName = "Accessory",
 		unidentifiedResourceName = "네클리스",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Signet of Star: Wisdom",
 		identifiedResourceName = "Signet_Of_Wis_Star",
@@ -360784,6 +363704,75 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[491084] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "네클리스",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Physical Wolf Amulet",
+		identifiedResourceName = "아움두라의혜택",
+		identifiedDescriptionName = {
+			"Necklace with a Gray Wolf fang made into a pendant. Used as an amulet in the Village.",
+			"--------------------------",
+			"^0000ffCRIT +5.^000000",
+			"^0000ffPerfect Hit +10.^000000",
+			"^0000ffAttack Speed +1.^000000",
+			"^0000ffRanged physical damage +5%.^000000",
+			"^0000ffMelee physical damage +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09Gray Wolf Ring^000000 or",
+			"^fa4e09Gray Wolf Pendant^000000",
+			"^0000ffAfter-cast delay -5%.^000000",
+			"^0000ff2% chance to convert 2% of physical damage dealt into HP and SP.^000000",
+			"--------------------------",
+			"Type: ^777777Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777190^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[491085] = {
+		unidentifiedDisplayName = "Accessory",
+		unidentifiedResourceName = "네클리스",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifying Glass]."
+		},
+		identifiedDisplayName = "Magical Wolf Amulet",
+		identifiedResourceName = "Giant_Protection",
+		identifiedDescriptionName = {
+			"Necklace with a Gray Wolf fang made into a pendant. Used as an amulet in the Village.",
+			"--------------------------",
+			"^0000ffVariable cast time -5%.^000000",
+			"^0000ffAttack Speed +1.^000000",
+			"^0000ffSkill SP cost -3%.^000000",
+			"^0000ffMagical damage of all properties +5%.^000000",
+			"--------------------------",
+			"^fa4e09Set^000000",
+			"^fa4e09Gray Wolf Necklace^000000 or",
+			"^fa4e09Gray Wolf Earrings^000000",
+			"^0000ffAfter-cast delay -5%.^000000",
+			"When performing magical attacks:",
+			"^0000ff2% chance to activate an [Effect] for 10 seconds.^000000",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffRecovers 500 HP and 120 SP every 4 seconds.^000000",
+			"--------------------------",
+			"Type: ^777777Accessory^000000",
+			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777720^000000",
+			"Required Level: ^777777190^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[500003] = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "소드",
@@ -361190,7 +364179,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Pænitentia Gladius",
 		identifiedResourceName = "Poenitentia_Gladius",
@@ -361204,7 +364193,7 @@ tbl = {
 			"^0000FF[Genesis Ray] damage +4%.^000000",
 			"--------------------------",
 			"Refine +7 or higher:",
-			"^0000FFVariable Casting Time -10%.^000000",
+			"^0000FFVariable cast time -10%.^000000",
 			"Refine +9 or higher:",
 			"^0000FF[Genesis Ray] damage +25%.^000000",
 			"Refine +11 or higher:",
@@ -361234,7 +364223,7 @@ tbl = {
 		unidentifiedDisplayName = "Sword",
 		unidentifiedResourceName = "바스타드소드",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified by using a [Magnifier]."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Pænitentia Rigula",
 		identifiedResourceName = "Poenitentia_Ligula",
@@ -361248,11 +364237,11 @@ tbl = {
 			"^0000FF[Cart Cannon] damage +3%.^000000",
 			"--------------------------",
 			"Refine +7 or higher:",
-			"^0000FFVariable Casting Time -10%.^000000",
+			"^0000FFVariable cast time -10%.^000000",
 			"Refine +9 or higher:",
 			"^0000FF[Cart Cannon] damage +25%.^000000",
 			"Refine +11 or higher:",
-			"^0000FFLong ranged physical damage +10%.^000000",
+			"^0000FFRanged physical damage +10%.^000000",
 			"--------------------------",
 			"Grade D or higher:",
 			"^0000FFAdditional [Acidified Zone (Fire/Wind)] damage +5%.^000000",
@@ -362749,7 +365738,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified with a Magnifier."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Fortified Dagger",
 		identifiedResourceName = "Fourth_1h_Nindo",
@@ -362776,7 +365765,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified with a Magnifier."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Fortified Edge",
 		identifiedResourceName = "Fourth_1h_Edge",
@@ -362803,7 +365792,7 @@ tbl = {
 		unidentifiedDisplayName = "Dagger",
 		unidentifiedResourceName = "나이프",
 		unidentifiedDescriptionName = {
-			"Unidentified. Can be identified with a Magnifier."
+			"Unidentified item. Can be identified with a [Magnifier]."
 		},
 		identifiedDisplayName = "Relapse Edge",
 		identifiedResourceName = "Fourth_1h_Nindo2",
@@ -366176,7 +369165,7 @@ tbl = {
 			"^0000FF[Talisman of Soul Stealing] and [Exorcism of Malicious Soul] damage +10%.^000000",
 			"--------------------------",
 			"Every 2 refines:",
-			"^0000FFEswhoo and Espa damage +3%.^000000",
+			"^0000FF[Eswhoo] and [Espa] damage +3%.^000000",
 			"--------------------------",
 			"Refine +7 or higher:",
 			"^0000FFVariable cast time -10%.^000000",
@@ -366212,7 +369201,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified item. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Penitentia Ferum",
+		identifiedDisplayName = "Pænitentia Ferum",
 		identifiedResourceName = "Poenitentia_Ferrum",
 		identifiedDescriptionName = {
 			"A Staff imbued with the pain of parting.",
@@ -372781,6 +375770,7 @@ tbl = {
 			"--------------------------",
 			"Type: ^777777Huuma Shuriken^000000",
 			"ATK: ^777777340^000000 MATK: ^7777770^000000",
+			"Note: ^777777Indestructible in Battle^000000",
 			"Weight: ^777777220^000000",
 			"Weapon Level: ^7777775^000000",
 			"Required Level: ^777777200^000000",
@@ -373461,7 +376451,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
 		},
-		identifiedDisplayName = "Pænitentia Atendo",
+		identifiedDisplayName = "Pænitentia Attendo",
 		identifiedResourceName = "Poenetentia_Attendo",
 		identifiedDescriptionName = {
 			"A bow filled with the pain of grief.",
@@ -373517,7 +376507,7 @@ tbl = {
 			"^0000FF[Severe Rainstorm] damage +3%.^000000",
 			"--------------------------",
 			"Refine +7 or higher:",
-			"^0000FFLong ranged physical damage +10%.^000000",
+			"^0000FFRanged physical damage +10%.^000000",
 			"Refine +9 or higher:",
 			"^0000FF[Severe Rainstorm] damage +30%.^000000",
 			"Refine +11 or higher:",
@@ -374456,7 +377446,7 @@ tbl = {
 			"^0000FF[Fire Dance] damage +3%.^000000",
 			"--------------------------",
 			"Refine +7 or higher:",
-			"^0000FFLong-ranged physical damage +10%.^000000",
+			"^0000FFRanged physical damage +10%.^000000",
 			"Refine +9 or higher:",
 			"^0000FF[Fire Dance] damage +25%.^000000",
 			"Refine +11 or higher:",
@@ -374468,7 +377458,7 @@ tbl = {
 			"^0000FFP.ATK +1.^000000",
 			"^0000FF[Only One Bullet] and [Magazine for One] damage +3% additional.^000000",
 			"Grade B or higher:",
-			"^0000FFAGI +1.^000000",
+			"^0000FFCON +1.^000000",
 			"^0000FF[Only One Bullet] and [Magazine for One] damage +5% additional.^000000",
 			"--------------------------",
 			"Type: ^777777Pistol^000000",
@@ -375030,7 +378020,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A Shotgun reborn through a purification ritual with the power of true faith.",
 			"--------------------------",
-			"^CD3278Keeps [Spread Damage] active.^000000",
+			"^CD3278Keeps [Splash Damage] active.^000000",
 			"--------------------------",
 			"Every 3 refines:",
 			"^0000FFATK +18.^000000",
@@ -375218,7 +378208,7 @@ tbl = {
 			"Grade D or higher:",
 			"^0000FFCON +2.^000000",
 			"Grade C or higher:",
-			"^0000FF[The Vigilante at Night] damage +7%.^000000",
+			"^0000FF[Magazine for One] damage +7%.^000000",
 			"Grade B or higher:",
 			"^0000FFP.ATK +2.^000000",
 			"--------------------------",
@@ -375290,7 +378280,7 @@ tbl = {
 			"^0000FFP.ATK +1.^000000",
 			"^0000FF[The Vigilante at Night] and [Magazine for One] damage +3% additional.^000000",
 			"Grade B or higher:",
-			"^0000FFAGI +1.^000000",
+			"^0000FFCON +1.^000000",
 			"^0000FF[The Vigilante at Night] and [Magazine for One] damage +5% additional.^000000",
 			"--------------------------",
 			"Type: ^777777Gatling Gun^000000",
@@ -382684,6 +385674,44 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1000363] = {
+		unidentifiedDisplayName = "Magic-Infused Stone",
+		unidentifiedResourceName = "MD_Airboat_Tokken",
+		unidentifiedDescriptionName = {
+			"A stone faintly imbued with magic power that flowed out from a fragment of Ymir when the airship crashed and exploded. Those who know the stone's value seem to make good use of it.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "Magic-Infused Stone",
+		identifiedResourceName = "MD_Airboat_Tokken",
+		identifiedDescriptionName = {
+			"A stone faintly imbued with magic power that flowed out from a fragment of Ymir when the airship crashed and exploded. Those who know the stone's value seem to make good use of it.",
+			"^ffffff_^000000",
+			"Weight: ^7777770.1^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000364] = {
+		unidentifiedDisplayName = "Contaminated Stone",
+		unidentifiedResourceName = "MD_Airboat_Ore",
+		unidentifiedDescriptionName = {
+			"A stone containing only the remaining dregs of magic power that flowed out from a fragment of Ymir when the airship crashed and exploded. It feels unsettling to simply leave it behind.",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Contaminated Stone",
+		identifiedResourceName = "MD_Airboat_Ore",
+		identifiedDescriptionName = {
+			"A stone containing only the remaining dregs of magic power that flowed out from a fragment of Ymir when the airship crashed and exploded. It feels unsettling to simply leave it behind.",
+			"^ffffff_^000000",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1000365] = {
 		unidentifiedDisplayName = "Graphic Stone: Hearts (Upper)",
 		unidentifiedResourceName = "블루크리스탈조각",
@@ -382831,7 +385859,9 @@ tbl = {
 		unidentifiedResourceName = "Meteorite_Dust",
 		unidentifiedDescriptionName = {
 			"Powder that was found on the surface of a meteorite.",
-			"It contains a small amount of the meteorite's magic."
+			"It contains a small amount of the meteorite's magic.",
+			"--------------------------",
+			"Weight: ^7777770.1^000000"
 		},
 		identifiedDisplayName = "Meteorite Dust",
 		identifiedResourceName = "Meteorite_Dust",
@@ -382850,7 +385880,11 @@ tbl = {
 		unidentifiedResourceName = "Meteorite_Fragment",
 		unidentifiedDescriptionName = {
 			"Fragment that broke off from a huge meteorite.",
-			"You can feel a considerably strong magical power."
+			"You can feel a considerably strong magical power.",
+			"--------------------------",
+			"<NAVI>[Exchange]<INFO>e_tower,72,116,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Meteorite Fragment",
 		identifiedResourceName = "Meteorite_Fragment",
@@ -384254,15 +387288,18 @@ tbl = {
 		costume = false
 	},
 	[1000475] = {
-		unidentifiedDisplayName = "Conse F T Sword",
+		unidentifiedDisplayName = "Fides Two-handed Sword Blueprint",
 		unidentifiedResourceName = "Conse_F_T_Sword",
 		unidentifiedDescriptionName = {
-			"A blueprint required to purify and reassemble Adulter Fides Two-Handed Sword."
+			"A blueprint required to purify and reassemble Adulter Fides Two-Handed Sword.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
-		identifiedDisplayName = "Conse F T Sword",
+		identifiedDisplayName = "Fides Two-handed Sword Blueprint",
 		identifiedResourceName = "Conse_F_T_Sword",
 		identifiedDescriptionName = {
 			"A blueprint required to purify and reassemble Adulter Fides Two-Handed Sword.",
+			"--------------------------",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -384270,15 +387307,18 @@ tbl = {
 		costume = false
 	},
 	[1000476] = {
-		unidentifiedDisplayName = "Conse F Lance",
+		unidentifiedDisplayName = "Fides Lance Blueprint",
 		unidentifiedResourceName = "Conse_F_Lance",
 		unidentifiedDescriptionName = {
-			"A blueprint required to purify and reassemble Adulter Fides Lance."
+			"A blueprint required to purify and reassemble Adulter Fides Lance.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
-		identifiedDisplayName = "Conse F Lance",
+		identifiedDisplayName = "Fides Lance Blueprint",
 		identifiedResourceName = "Conse_F_Lance",
 		identifiedDescriptionName = {
 			"A blueprint required to purify and reassemble Adulter Fides Lance.",
+			"--------------------------",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -384286,15 +387326,18 @@ tbl = {
 		costume = false
 	},
 	[1000477] = {
-		unidentifiedDisplayName = "Conse F G Sword",
+		unidentifiedDisplayName = "Fides Guardian Sword Blueprint",
 		unidentifiedResourceName = "Conse_F_G_Sword",
 		unidentifiedDescriptionName = {
-			"A blueprint required to purify and reassemble Adulter Fides Guardian Sword."
+			"A blueprint required to purify and reassemble Adulter Fides Guardian Sword.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
-		identifiedDisplayName = "Conse F G Sword",
+		identifiedDisplayName = "Fides Guardian Sword Blueprint",
 		identifiedResourceName = "Conse_F_G_Sword",
 		identifiedDescriptionName = {
 			"A blueprint required to purify and reassemble Adulter Fides Guardian Sword.",
+			"--------------------------",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -384302,15 +387345,18 @@ tbl = {
 		costume = false
 	},
 	[1000478] = {
-		unidentifiedDisplayName = "Conse F G Spear",
+		unidentifiedDisplayName = "Fides Guardian Spear Blueprint",
 		unidentifiedResourceName = "Conse_F_G_Spear",
 		unidentifiedDescriptionName = {
-			"A blueprint required to purify and reassemble Adulter Fides Guardian Spear."
+			"A blueprint required to purify and reassemble Adulter Fides Guardian Spear.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
-		identifiedDisplayName = "Conse F G Spear",
+		identifiedDisplayName = "Fides Guardian Spear Blueprint",
 		identifiedResourceName = "Conse_F_G_Spear",
 		identifiedDescriptionName = {
 			"A blueprint required to purify and reassemble Adulter Fides Guardian Spear.",
+			"--------------------------",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -384318,15 +387364,18 @@ tbl = {
 		costume = false
 	},
 	[1000479] = {
-		unidentifiedDisplayName = "Conse F Axe",
+		unidentifiedDisplayName = "Fides Axe Blueprint",
 		unidentifiedResourceName = "Conse_F_Axe",
 		unidentifiedDescriptionName = {
-			"A blueprint required to purify and reassemble Adulter Fides Axe."
+			"A blueprint required to purify and reassemble Adulter Fides Axe.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
-		identifiedDisplayName = "Conse F Axe",
+		identifiedDisplayName = "Fides Axe Blueprint",
 		identifiedResourceName = "Conse_F_Axe",
 		identifiedDescriptionName = {
 			"A blueprint required to purify and reassemble Adulter Fides Axe.",
+			"--------------------------",
 			"Weight : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -384337,7 +387386,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Mace Blueprint",
 		unidentifiedResourceName = "Conse_F_Mace",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Mace."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Mace.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Mace Blueprint",
 		identifiedResourceName = "Conse_F_Mace",
@@ -384354,7 +387405,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Rapier Blueprint",
 		unidentifiedResourceName = "Conse_F_Lapier",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Rapier."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Rapier.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Rapier Blueprint",
 		identifiedResourceName = "Conse_F_Lapier",
@@ -384371,7 +387424,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Scepter Blueprint",
 		unidentifiedResourceName = "Conse_F_Hall",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Scepter."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Scepter.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Scepter Blueprint",
 		identifiedResourceName = "Conse_F_Hall",
@@ -384388,7 +387443,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Chakram Blueprint",
 		unidentifiedResourceName = "Conse_F_Cakram",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Chakram."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Chakram.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Chakram Blueprint",
 		identifiedResourceName = "Conse_F_Cakram",
@@ -384405,7 +387462,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Katar Blueprint",
 		unidentifiedResourceName = "Conse_F_Katar",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Katar."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Katar.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Katar Blueprint",
 		identifiedResourceName = "Conse_F_Katar",
@@ -384422,7 +387481,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Dagger Blueprint",
 		unidentifiedResourceName = "Conse_F_Dagger",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Dagger."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Dagger.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Dagger Blueprint",
 		identifiedResourceName = "Conse_F_Dagger",
@@ -384439,7 +387500,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Crossbow Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Crossbow."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Crossbow.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Crossbow Blueprint",
 		identifiedResourceName = "Conse_F_C_Bow",
@@ -384456,7 +387519,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Two-Handed Staff Blueprint",
 		unidentifiedResourceName = "Conse_F_T_Staff",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Two-Handed Staff."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Two-Handed Staff.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Two-Handed Staff Blueprint",
 		identifiedResourceName = "Conse_F_T_Staff",
@@ -384473,7 +387538,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Rod Blueprint",
 		unidentifiedResourceName = "Conse_F_Rod",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Rod."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Rod.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Rod Blueprint",
 		identifiedResourceName = "Conse_F_Rod",
@@ -384490,7 +387557,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Magic Book Blueprint",
 		unidentifiedResourceName = "Conse_F_M_Book",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Magic Book."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Magic Book.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Magic Book Blueprint",
 		identifiedResourceName = "Conse_F_M_Book",
@@ -384507,7 +387576,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Poison Book Blueprint",
 		unidentifiedResourceName = "Conse_F_P_Book",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Poison Book."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Poison Book.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Poison Book Blueprint",
 		identifiedResourceName = "Conse_F_P_Book",
@@ -384524,7 +387595,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Bible Blueprint",
 		unidentifiedResourceName = "Conse_F_Bible",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Bible."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Bible.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Bible Blueprint",
 		identifiedResourceName = "Conse_F_Bible",
@@ -384541,12 +387614,12 @@ tbl = {
 		unidentifiedDisplayName = "Fides Wand Blueprint",
 		unidentifiedResourceName = "Conse_F_Wand",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Mace."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Wand."
 		},
 		identifiedDisplayName = "Fides Wand Blueprint",
 		identifiedResourceName = "Conse_F_Wand",
 		identifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Mace.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Wand.",
 			"--------------------------",
 			"Weight : ^7777770^000000"
 		},
@@ -384558,7 +387631,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Knuckle Blueprint",
 		unidentifiedResourceName = "Conse_F_Knuckle",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Knuckle."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Knuckle.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Knuckle Blueprint",
 		identifiedResourceName = "Conse_F_Knuckle",
@@ -384575,7 +387650,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Claw Blueprint",
 		unidentifiedResourceName = "Conse_F_Claw",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Claw."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Claw.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Claw Blueprint",
 		identifiedResourceName = "Conse_F_Claw",
@@ -384592,7 +387669,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Ballista Blueprint",
 		unidentifiedResourceName = "Conse_F_Ballista",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Ballista."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Ballista.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Ballista Blueprint",
 		identifiedResourceName = "Conse_F_Ballista",
@@ -384609,7 +387688,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Aiming Bow Blueprint",
 		unidentifiedResourceName = "Conse_F_A_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Aiming Bow."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Aiming Bow.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Aiming Bow Blueprint",
 		identifiedResourceName = "Conse_F_A_Bow",
@@ -384626,7 +387707,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Violin Blueprint",
 		unidentifiedResourceName = "Conse_F_Violin",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Violin."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Violin.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Violin Blueprint",
 		identifiedResourceName = "Conse_F_Violin",
@@ -384643,7 +387726,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Chain Rope Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Rope",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Chain Rope."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Chain Rope.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Chain Rope Blueprint",
 		identifiedResourceName = "Conse_F_C_Rope",
@@ -384660,7 +387745,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Harp Blueprint",
 		unidentifiedResourceName = "Conse_F_Harp",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Harp."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Harp.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Harp Blueprint",
 		identifiedResourceName = "Conse_F_Harp",
@@ -384677,7 +387764,9 @@ tbl = {
 		unidentifiedDisplayName = "Fides Ribbon Blueprint",
 		unidentifiedResourceName = "Conse_F_Ribbon",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Ribbon."
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Ribbon.",
+			"--------------------------",
+			"Weight : ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Ribbon Blueprint",
 		identifiedResourceName = "Conse_F_Ribbon",
@@ -384963,6 +388052,31 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1000520] = {
+		unidentifiedDisplayName = "ASPD +1 (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAttack Speed +1.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "ASPD +1 (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAttack Speed +1.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1000521] = {
 		unidentifiedDisplayName = "Fixed Cast -0.1 Stone (Dual)",
 		unidentifiedResourceName = "영혼의조각",
@@ -384970,7 +388084,7 @@ tbl = {
 			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"[^CD3278Effect^000000]",
-			"^000000Fixed cast time -0.1 second.^000000 ",
+			"^000000Fixed cast time -0.1 second.^000000",
 			"--------------------------",
 			"Weight: ^77777710^000000"
 		},
@@ -384980,7 +388094,40 @@ tbl = {
 			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"[^CD3278Effect^000000]",
-			"^000000Fixed cast time -0.1 second.^000000 ",
+			"^000000Fixed cast time -0.1 second.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000522] = {
+		unidentifiedDisplayName = "Variable Stone -10% (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffVariable cast -5%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Variable -10% (Manteau)^000000",
+			"^0000ffFixed cast -0.5 seconds.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Variable Stone -10% (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffVariable cast -5%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Variable -10% (Manteau)^000000",
+			"^0000ffFixed cast -0.5 seconds.^000000",
 			"--------------------------",
 			"Weight: ^77777710^000000"
 		},
@@ -385037,6 +388184,55 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1000524] = {
+		unidentifiedDisplayName = "Body Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffMelee physical damage +4%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Body (Top)^000000",
+			"^0000ffAdditional melee physical damage +2%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Body (Middle)^000000",
+			"^0000ffAdditional melee physical damage +2%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Body (Lower)^000000",
+			"^0000ffAdditional melee physical damage +2%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Body Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffMelee physical damage +4%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Body (Top)^000000",
+			"^0000ffAdditional melee physical damage +2%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Body (Middle)^000000",
+			"^0000ffAdditional melee physical damage +2%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Body (Lower)^000000",
+			"^0000ffAdditional melee physical damage +2%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1000525] = {
 		unidentifiedDisplayName = "SP Absorption Stone (Dual)",
 		unidentifiedResourceName = "영혼의조각",
@@ -385055,6 +388251,165 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Effect^000000]",
 			"^0000001% chance to convert 1% of physical damage dealt into SP.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000526] = {
+		unidentifiedDisplayName = "HP Absorption Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ff1% chance to convert 1% of physical damage dealt into HP.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "HP Absorption Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ff1% chance to convert 1% of physical damage dealt into HP.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000527] = {
+		unidentifiedDisplayName = "Property Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAll property magic damage +4%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Property (Top)^000000",
+			"^0000ffAdditional all property magic damage +2%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Property (Middle)^000000",
+			"^0000ffAdditional all property magic damage +2%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Property (Lower)^000000",
+			"^0000ffAdditional all property magic damage +2%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Property Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAll property magic damage +4%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Property (Top)^000000",
+			"^0000ffAdditional all property magic damage +2%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Property (Middle)^000000",
+			"^0000ffAdditional all property magic damage +2%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Property (Lower)^000000",
+			"^0000ffAdditional all property magic damage +2%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000528] = {
+		unidentifiedDisplayName = "Property Stone (Top)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAll property magic damage +3%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Property (Top)^000000",
+			"^fa4e09Property (Middle)^000000",
+			"^0000ffAdditional all property magic damage +6%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Property Stone (Top)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAll property magic damage +3%.^000000",
+			"-",
+			"^fa4e09Set^000000",
+			"^fa4e09Property (Top)^000000",
+			"^fa4e09Property (Middle)^000000",
+			"^0000ffAdditional all property magic damage +6%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000529] = {
+		unidentifiedDisplayName = "Property Stone (Middle)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAll property magic damage +3%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Property Stone (Middle)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAll property magic damage +3%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000530] = {
+		unidentifiedDisplayName = "Property Stone (Lower)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAll property magic damage +3%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Property Stone (Lower)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffAll property magic damage +3%.^000000",
 			"--------------------------",
 			"Weight: ^77777710^000000"
 		},
@@ -385772,6 +389127,56 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1000675] = {
+		unidentifiedDisplayName = "Post-Cast Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffPost-cast -5%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Post-Cast Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffPost-cast -5%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000676] = {
+		unidentifiedDisplayName = "CRV Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffCRV +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "CRV Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffCRV +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1000680] = {
 		unidentifiedDisplayName = "Clock Lead",
 		unidentifiedResourceName = "ClockTower_Lead",
@@ -385867,14 +389272,14 @@ tbl = {
 		unidentifiedDisplayName = "Fides Huuma Shuriken Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Shuriken.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Huuma Shuriken.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Huuma Shuriken Blueprint",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Shuriken.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Huuma Shuriken.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -385883,17 +389288,17 @@ tbl = {
 		costume = false
 	},
 	[1000686] = {
-		unidentifiedDisplayName = "Fides Cross Huuma Shuriken Blueprint",
+		unidentifiedDisplayName = "Fides Cross Shuriken Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Huuma.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Cross Shuriken.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
-		identifiedDisplayName = "Fides Cross Huuma Shuriken Blueprint",
+		identifiedDisplayName = "Fides Cross Shuriken Blueprint",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Huuma.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Cross Shuriken.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -386000,14 +389405,14 @@ tbl = {
 		unidentifiedDisplayName = "Fides Moon Book Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Manual.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Moon Book.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Moon Book Blueprint",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Manual.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Moon Book.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -386019,14 +389424,14 @@ tbl = {
 		unidentifiedDisplayName = "Fides Stardust Book Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Compendium.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Stardust Book.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Stardust Book Blueprint",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Compendium.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Stardust Book.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -386038,14 +389443,14 @@ tbl = {
 		unidentifiedDisplayName = "Fides Soul Stick Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Staff.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Soul Stick.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Soul Stick Blueprint",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Staff.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Soul Stick.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -386057,14 +389462,14 @@ tbl = {
 		unidentifiedDisplayName = "Fides Dark Wand Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Wand.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Dark Wand.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Dark Wand Blueprint",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Wand.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Dark Wand.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -386076,14 +389481,14 @@ tbl = {
 		unidentifiedDisplayName = "Fides Foxtail Wand Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Cat Tail.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Foxtail Wand.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Foxtail Wand Blueprint",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Cat Tail.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Foxtail Wand.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -386095,14 +389500,14 @@ tbl = {
 		unidentifiedDisplayName = "Fides Foxtail Model Blueprint",
 		unidentifiedResourceName = "Conse_F_C_Bow",
 		unidentifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Cat-tail.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Foxtail Model.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Fides Foxtail Model Blueprint",
 		identifiedResourceName = "Conse_F_C_Bow",
 		identifiedDescriptionName = {
-			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Cat-tail.",
+			"A scroll containing diagrams explaining how to purify and reassemble the Adulter Fides Foxtail Model.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -386126,6 +389531,58 @@ tbl = {
 			"A ticket that can be exchanged for a Zumbichano Egg with the <NAVI>[Pet Manager]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000855] = {
+		unidentifiedDisplayName = "Critical Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffCRIT +10.^000000",
+			"^0000ffCritical damage +10%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Critical Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffCRIT +10.^000000",
+			"^0000ffCritical damage +10%.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1000856] = {
+		unidentifiedDisplayName = "CON Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffCON +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "CON Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffCON +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -386247,6 +389704,31 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1000921] = {
+		unidentifiedDisplayName = "FEI Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffFEI +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "FEI Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffFEI +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1000924] = {
 		unidentifiedDisplayName = "Fantastic bookmark",
 		unidentifiedResourceName = "VR_Bookmark",
@@ -386284,6 +389766,31 @@ tbl = {
 			"^FF0000Account bound.^000000",
 			"-------------------------",
 			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1001055] = {
+		unidentifiedDisplayName = "POD Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffPOD +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "POD Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffPOD +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -386703,6 +390210,31 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[1001172] = {
+		unidentifiedDisplayName = "Sabsta Stone (Dual)",
+		unidentifiedResourceName = "영혼의조각",
+		unidentifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffSAB and STA +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		identifiedDisplayName = "Sabsta Stone (Dual)",
+		identifiedResourceName = "영혼의조각",
+		identifiedDescriptionName = {
+			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"[^CD3278Effect^000000]",
+			"^0000ffSAB and STA +5.^000000",
+			"--------------------------",
+			"Weight: ^77777710^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1001175] = {
 		unidentifiedDisplayName = "Graphic Stone: Romantic Roses (Middle)",
 		unidentifiedResourceName = "블루크리스탈조각",
@@ -386903,6 +390435,27 @@ tbl = {
 			"Um ticket que pode ser trocado por um Ovo de Mistress com a <NAVI>[Gerente de Mascotes]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
 			"--------------------------",
 			"Peso: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[1001579] = {
+		unidentifiedDisplayName = "Giant Hornet Pet Ticket",
+		unidentifiedResourceName = "쿠폰",
+		unidentifiedDescriptionName = {
+			"^FF0000Untradeable.^000000",
+			"A ticket that can be exchanged for a Giant Hornet Egg with the <NAVI>[Pet Manager]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Giant Hornet Pet Ticket",
+		identifiedResourceName = "쿠폰",
+		identifiedDescriptionName = {
+			"^FF0000Untradeable.^000000",
+			"A ticket that can be exchanged for a Giant Hornet Egg with the <NAVI>[Pet Manager]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -387986,792 +391539,6 @@ tbl = {
 			"Category : ^777777Throwing Weapon^000000",
 			"Attack : ^77777730^000000",
 			"Weight : ^7777770.1^000000      Attribute : ^777777Holy^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[9192] = {
-		unidentifiedDisplayName = "Giant Hornet Egg",
-		unidentifiedResourceName = "풍속성알",
-		unidentifiedDescriptionName = {
-			"Egg containing a Giant Hornet pet. Must be hatched by an Incubator.",
-			"--------------------------",
-			"At Low or Very Low Loyalty:",
-			"^0000ffVariable Casting -2%.^000000",
-			"--------------------------",
-			"At No Loyalty:",
-			"^0000ffVariable Casting -3%.^000000",
-			"--------------------------",
-			"At Normal Loyalty:",
-			"^0000ffVariable Casting -4%.^000000",
-			"^0000ffWind property magic damage +3%.^000000",
-			"--------------------------",
-			"At High Loyalty:",
-			"^0000ffVariable Casting -5%.^000000",
-			"^0000ffWind property magic damage +5%.^000000",
-			"--------------------------",
-			"Type: ^777777Pet Egg^000000",
-			"Food: ^777777Pet Food^000000"
-		},
-		identifiedDisplayName = "Giant Hornet Egg",
-		identifiedResourceName = "풍속성알",
-		identifiedDescriptionName = {
-			"Egg containing a Giant Hornet pet. Must be hatched by an Incubator.",
-			"--------------------------",
-			"At Low or Very Low Loyalty:",
-			"^0000ffVariable Casting -2%.^000000",
-			"--------------------------",
-			"At No Loyalty:",
-			"^0000ffVariable Casting -3%.^000000",
-			"--------------------------",
-			"At Normal Loyalty:",
-			"^0000ffVariable Casting -4%.^000000",
-			"^0000ffWind property magic damage +3%.^000000",
-			"--------------------------",
-			"At High Loyalty:",
-			"^0000ffVariable Casting -5%.^000000",
-			"^0000ffWind property magic damage +5%.^000000",
-			"--------------------------",
-			"Type: ^777777Pet Egg^000000",
-			"Food: ^777777Pet Food^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1001579] = {
-		unidentifiedDisplayName = "Giant Hornet Pet Ticket",
-		unidentifiedResourceName = "쿠폰",
-		unidentifiedDescriptionName = {
-			"^FF0000Untradeable.^000000",
-			"A ticket that can be exchanged for a Giant Hornet Egg with the <NAVI>[Pet Manager]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"Weight: ^7777770^000000"
-		},
-		identifiedDisplayName = "Giant Hornet Pet Ticket",
-		identifiedResourceName = "쿠폰",
-		identifiedDescriptionName = {
-			"^FF0000Untradeable.^000000",
-			"A ticket that can be exchanged for a Giant Hornet Egg with the <NAVI>[Pet Manager]<INFO>prontera,221,209,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107775] = {
-		unidentifiedDisplayName = "August Roulette 1",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #1"
-		},
-		identifiedDisplayName = "August Roulette 1",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #1",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107776] = {
-		unidentifiedDisplayName = "August Roulette 2",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #2"
-		},
-		identifiedDisplayName = "August Roulette 2",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #2",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107777] = {
-		unidentifiedDisplayName = "August Roulette 3",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #3"
-		},
-		identifiedDisplayName = "August Roulette 3",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #3",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107778] = {
-		unidentifiedDisplayName = "August Roulette 4",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #4"
-		},
-		identifiedDisplayName = "August Roulette 4",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #4",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107779] = {
-		unidentifiedDisplayName = "August Roulette 5",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #5"
-		},
-		identifiedDisplayName = "August Roulette 5",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #5",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107780] = {
-		unidentifiedDisplayName = "August Roulette 6",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #6"
-		},
-		identifiedDisplayName = "August Roulette 6",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #6",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107781] = {
-		unidentifiedDisplayName = "August Roulette 7",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #7"
-		},
-		identifiedDisplayName = "August Roulette 7",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #7",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107782] = {
-		unidentifiedDisplayName = "August Roulette 8",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #8"
-		},
-		identifiedDisplayName = "August Roulette 8",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #8",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107783] = {
-		unidentifiedDisplayName = "August Roulette 9",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #9"
-		},
-		identifiedDisplayName = "August Roulette 9",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #9",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[107784] = {
-		unidentifiedDisplayName = "August Roulette 10",
-		unidentifiedResourceName = "Luxurious_Blue_Box",
-		unidentifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #10"
-		},
-		identifiedDisplayName = "August Roulette 10",
-		identifiedResourceName = "Luxurious_Blue_Box",
-		identifiedDescriptionName = {
-			"^ff0000Untradeable^000000",
-			"",
-			"August 2026 Roulette Prize #10",
-			"",
-			"Weight: ^7777770^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[310889] = {
-		unidentifiedDisplayName = "Royal Guardian (Lower)",
-		unidentifiedResourceName = "Paladin_Figure",
-		unidentifiedDescriptionName = {
-			"Per level of [Lunar Spiral]:",
-			"^000000[Spear of Destiny] damage +5%.^000000",
-			"--------------------------",
-			"^fa4e09Set^000000",
-			"^fa4e09Royal Guardian (Cape)^000000",
-			"^000000[Piercing Shot] damage +15%.^000000",
-			"--------------------------",
-			"^fa4e09Set^000000",
-			"^fa4e09Royal Guardian II (Cape)^000000",
-			"^000000Magic damage against all sizes +15%.^000000"
-		},
-		identifiedDisplayName = "Royal Guardian (Lower)",
-		identifiedResourceName = "Paladin_Figure",
-		identifiedDescriptionName = {
-			"Per level of [Lunar Spiral]:",
-			"^000000[Spear of Destiny] damage +5%.^000000",
-			"--------------------------",
-			"^fa4e09Set^000000",
-			"^fa4e09Royal Guardian (Cape)^000000",
-			"^000000[Piercing Shot] damage +15%.^000000",
-			"--------------------------",
-			"^fa4e09Set^000000",
-			"^fa4e09Royal Guardian II (Cape)^000000",
-			"^000000Magic damage against all sizes +15%.^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[310654] = {
-		unidentifiedDisplayName = "ASPD +1 (Dual)",
-		unidentifiedResourceName = "태양신의상징",
-		unidentifiedDescriptionName = {
-			"^0000ffAttack Speed +1.^000000"
-		},
-		identifiedDisplayName = "ASPD +1 (Dual)",
-		identifiedResourceName = "태양신의상징",
-		identifiedDescriptionName = {
-			"^0000ffAttack Speed +1.^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[310662] = {
-		unidentifiedDisplayName = "HP Absorption (Dual)",
-		unidentifiedResourceName = "묘안석",
-		unidentifiedDescriptionName = {
-			"^0000ff1% chance to convert 1% of physical damage dealt into HP.^000000"
-		},
-		identifiedDisplayName = "HP Absorption (Dual)",
-		identifiedResourceName = "묘안석",
-		identifiedDescriptionName = {
-			"^0000ff1% chance to convert 1% of physical damage dealt into HP.^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000520] = {
-		unidentifiedDisplayName = "ASPD +1 (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAttack Speed +1.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "ASPD +1 (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAttack Speed +1.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000526] = {
-		unidentifiedDisplayName = "HP Absorption Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ff1% chance to convert 1% of physical damage dealt into HP.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "HP Absorption Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ff1% chance to convert 1% of physical damage dealt into HP.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000522] = {
-		unidentifiedDisplayName = "Variable Stone -10% (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffVariable cast -5%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Variable -10% (Manteau)^000000",
-			"^0000ffFixed cast -0.5 seconds.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Variable Stone -10% (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffVariable cast -5%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Variable -10% (Manteau)^000000",
-			"^0000ffFixed cast -0.5 seconds.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000524] = {
-		unidentifiedDisplayName = "Body Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffMelee physical damage +4%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Body (Top)^000000",
-			"^0000ffAdditional melee physical damage +2%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Body (Middle)^000000",
-			"^0000ffAdditional melee physical damage +2%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Body (Lower)^000000",
-			"^0000ffAdditional melee physical damage +2%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Body Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffMelee physical damage +4%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Body (Top)^000000",
-			"^0000ffAdditional melee physical damage +2%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Body (Middle)^000000",
-			"^0000ffAdditional melee physical damage +2%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Body (Lower)^000000",
-			"^0000ffAdditional melee physical damage +2%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000527] = {
-		unidentifiedDisplayName = "Property Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAll property magic damage +4%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Property (Top)^000000",
-			"^0000ffAdditional all property magic damage +2%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Property (Middle)^000000",
-			"^0000ffAdditional all property magic damage +2%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Property (Lower)^000000",
-			"^0000ffAdditional all property magic damage +2%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Property Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAll property magic damage +4%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Property (Top)^000000",
-			"^0000ffAdditional all property magic damage +2%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Property (Middle)^000000",
-			"^0000ffAdditional all property magic damage +2%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Property (Lower)^000000",
-			"^0000ffAdditional all property magic damage +2%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000528] = {
-		unidentifiedDisplayName = "Property Stone (Top)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAll property magic damage +3%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Property (Top)^000000",
-			"^fa4e09Property (Middle)^000000",
-			"^0000ffAdditional all property magic damage +6%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Property Stone (Top)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAll property magic damage +3%.^000000",
-			"-",
-			"^fa4e09Set^000000",
-			"^fa4e09Property (Top)^000000",
-			"^fa4e09Property (Middle)^000000",
-			"^0000ffAdditional all property magic damage +6%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000529] = {
-		unidentifiedDisplayName = "Property Stone (Middle)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAll property magic damage +3%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Property Stone (Middle)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAll property magic damage +3%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000530] = {
-		unidentifiedDisplayName = "Property Stone (Lower)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAll property magic damage +3%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Property Stone (Lower)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffAll property magic damage +3%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000675] = {
-		unidentifiedDisplayName = "Post-Cast Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffPost-cast -5%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Post-Cast Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffPost-cast -5%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000676] = {
-		unidentifiedDisplayName = "CRV Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffCRV +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "CRV Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffCRV +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000855] = {
-		unidentifiedDisplayName = "Critical Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffCRIT +10.^000000",
-			"^0000ffCritical damage +10%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Critical Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffCRIT +10.^000000",
-			"^0000ffCritical damage +10%.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000856] = {
-		unidentifiedDisplayName = "CON Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffCON +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "CON Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffCON +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1000921] = {
-		unidentifiedDisplayName = "FEI Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffFEI +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "FEI Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffFEI +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1001055] = {
-		unidentifiedDisplayName = "POD Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffPOD +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "POD Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffPOD +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		slotCount = 0,
-		ClassNum = 0,
-		costume = false
-	},
-	[1001172] = {
-		unidentifiedDisplayName = "Sabsta Stone (Dual)",
-		unidentifiedResourceName = "영혼의조각",
-		unidentifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffSAB and STA +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
-		},
-		identifiedDisplayName = "Sabsta Stone (Dual)",
-		identifiedResourceName = "영혼의조각",
-		identifiedDescriptionName = {
-			"Take this stone to the <NAVI>[Fashion Shop]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
-			"[^CD3278Effect^000000]",
-			"^0000ffSAB and STA +5.^000000",
-			"--------------------------",
-			"Weight: ^77777710^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,

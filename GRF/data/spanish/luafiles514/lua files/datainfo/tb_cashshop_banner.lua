@@ -1,4 +1,3 @@
-
 tb_cashshop_banner = {
 	[1] = {
 		"00_Cashshop_Banner.bmp",

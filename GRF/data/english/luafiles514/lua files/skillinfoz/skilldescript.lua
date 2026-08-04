@@ -4171,7 +4171,7 @@ SKILL_DESCRIPT = {
 		"[Lv 4]: ^777777270%^000000",
 		"[Lv 5]: ^777777310%^000000"
 	},
-	[SKID.BA_FROSTJOKE] = {
+	[SKID.BA_FROSTJOKER] = {
 		"Unbarring Octave",
 		"Max. Lv: 5",
 		"Skill Requirement: ^777777Encore 1^000000",
@@ -18574,7 +18574,7 @@ SKILL_DESCRIPT = {
 		"Target : ^7777771 cell ground target^000000",
 		"Details: ^777777Throws a Huuma Shuriken in a straight line, inflicting long range physical damage to enemies within a 5x13 range in front.",
 		"If there is a [Hidden Weapon Zone] within the AOE, the [Hidden Weapon Zone] explodes and inflicts additional long range physical damage in a 9x9 area centered on that point.",
-		"Deals additional damage depends on level of H.Shuriken - Grasp learned, base level and POW. Attack properties depend on the properties of the equipped kunai.^000000",
+		"Deals additional damage depends on level of Huuma Shuriken - Grasp learned, base level and POW. Attack properties depend on the properties of the equipped kunai.^000000",
 		"^FFFFFF_^000000",
 		"[Lv 1] : ^777777ATK 1000+(Huuma Shuriken - Grasp Lv x30)%",
 		"ATK(Explosion) 1400+(Huuma Shuriken - Grasp Lv x30)%^000000",
@@ -19170,7 +19170,7 @@ SKILL_DESCRIPT = {
 		"Description : ^777777 Changes Homunculus' style from Fighter to Grappler, or from Grappler to Fighter.",
 		"When attacking or getting damaged during Fighter status, gathers Spirit Sphere for certain rate. ^000000"
 	},
-	[SKID.MH_SONIC_CRAW] = {
+	[SKID.MH_SONIC_CLAW] = {
 		"Sonic Claw",
 		"Max. Lv: 5",
 		"Description : ^777777 Can be used while in Fighting Style. Rapidly scratches a target.",

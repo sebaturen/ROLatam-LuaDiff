@@ -10832,15 +10832,15 @@
     },
     "TVNJX01JTlVURQ==": {
         "ko-KR": "분",
-        "en-US": "minute(s)",
-        "pt-BR": "minutos",
-        "es-ES": "minuto(s)"
+        "en-US": "min",
+        "pt-BR": "min",
+        "es-ES": "min"
     },
     "TVNJX1NFQ09ORA==": {
         "ko-KR": "초",
-        "en-US": "second(s)",
-        "pt-BR": "segundos",
-        "es-ES": "segundo(s)"
+        "en-US": "s",
+        "pt-BR": "s",
+        "es-ES": "s"
     },
     "TVNJX1NTSV9GQUlMRURfRU5URVJfVEhFX05BTUVfT0ZfSVRFTQ==": {
         "ko-KR": "아이템 명을 입력해 주세요.",
@@ -21545,27 +21545,27 @@
     },
     "TVNJX0hPVEtFWUdVSURFV05EX0xFRlQ=": {
         "ko-KR": "←",
-        "en-US": "←",
-        "pt-BR": "←",
-        "es-ES": "←"
+        "en-US": "<",
+        "pt-BR": "<",
+        "es-ES": "<"
     },
     "TVNJX0hPVEtFWUdVSURFV05EX1VQ": {
         "ko-KR": "↑",
-        "en-US": "↑",
-        "pt-BR": "↑",
-        "es-ES": "↑"
+        "en-US": "^",
+        "pt-BR": "^",
+        "es-ES": "^"
     },
     "TVNJX0hPVEtFWUdVSURFV05EX1JJR0hU": {
         "ko-KR": "→",
-        "en-US": "→",
-        "pt-BR": "→",
-        "es-ES": "→"
+        "en-US": ">",
+        "pt-BR": ">",
+        "es-ES": ">"
     },
     "TVNJX0hPVEtFWUdVSURFV05EX0RPV04=": {
         "ko-KR": "↓",
-        "en-US": "↓",
-        "pt-BR": "↓",
-        "es-ES": "↓"
+        "en-US": "v",
+        "pt-BR": "v",
+        "es-ES": "v"
     },
     "TVNJX0hPVEtFWUdVSURFV05EX0FQUFM=": {
         "ko-KR": "▤",
@@ -21575,9 +21575,9 @@
     },
     "TVNJX0hPVEtFWUdVSURFV05EX0JBQ0s=": {
         "ko-KR": "←",
-        "en-US": "←",
-        "pt-BR": "←",
-        "es-ES": "←"
+        "en-US": "<-",
+        "pt-BR": "<-",
+        "es-ES": "<-"
     },
     "TVNJX1dBUk5JTkdNU0dfTE9BRElORw==": {
         "ko-KR": "로딩중에는 창을 닫을 수 없습니다.",
@@ -21654,7 +21654,7 @@
     "TVNJX0RFU0NfU1RB": {
         "ko-KR": "스테미나 파라메터\\n^cc0000물리 저항력^ffffff 증가",
         "en-US": "Stamina Parameter\\n^CC0000Tenacity^FFFFFF increased",
-        "pt-BR": "Stamina\\n         Aumenta a Tenacidade",
+        "pt-BR": "Estâmina\\n         Aumenta a Tenacidade",
         "es-ES": "Parámetro de \\n^CC0000Tenacidad Física^FFFFFF aumentaron."
     },
     "TVNJX0RFU0NfV0lT": {
@@ -25477,25 +25477,25 @@
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fQ0FTVF9GSVhFRA==": {
         "ko-KR": "고정 캐스팅",
-        "en-US": "Fixed Casting",
-        "pt-BR": "Conj. Fixa",
-        "es-ES": "Conjuración fija"
+        "en-US": "Fixed",
+        "pt-BR": "Fixa",
+        "es-ES": "Fija"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fQ0FTVF9TVEFU": {
         "ko-KR": "변동 캐스팅",
-        "en-US": "Variable Casting",
-        "pt-BR": "Conj. Var.",
-        "es-ES": "Conjuración variable"
+        "en-US": "Variable",
+        "pt-BR": "Variável",
+        "es-ES": "Variable"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fR0xPQkFMX1BPU1Q=": {
         "ko-KR": "글로벌 쿨타임",
-        "en-US": "Global Cooldown",
-        "pt-BR": "Pós-Conj.",
+        "en-US": "Global Cd",
+        "pt-BR": "Pós",
         "es-ES": "Postconjuración"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fU0lOR0xFX1BPU1Q=": {
         "ko-KR": "스킬 쿨타임",
-        "en-US": "Skill Cooldown",
+        "en-US": "Skill Cd",
         "pt-BR": "Recarga",
         "es-ES": "Recarga"
     },
@@ -25771,9 +25771,9 @@
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fQ09PTFRJTUU=": {
         "ko-KR": "쿨타임",
-        "en-US": "CoolTime",
-        "pt-BR": "Recarga",
-        "es-ES": "Recarga"
+        "en-US": "Cooldown",
+        "pt-BR": "Espera",
+        "es-ES": "Espera"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fTEVWRUw=": {
         "ko-KR": "레벨",
@@ -26185,5 +26185,29 @@
         "en-US": "Return to Sender",
         "pt-BR": "Devolver ao Remetente",
         "es-ES": "Devolver al Enviador"
+    },
+    "TVNJX1NLSUxMX0RFTEFZX0ZMQUdfRElTQUJMRV9GSVhFRENBU1RJTkdfUkVEVUNUSU9O": {
+        "ko-KR": "*해당 스킬의 고정 캐스팅은 아이템 및 스킬의 고정캐스팅 감소 옵션에 영향을 받지 않습니다.",
+        "en-US": "*This skill's fixed cast time is unaffected by fixed cast time reduction effects from items or skills.",
+        "unknown_3": "*A conjuração fixa desta habilidade não é afetada pelos efeitos de redução da conjuração fixa de itens ou habilidades.",
+        "unknown_4": "*La conjuración fija de esta habilidad no se ve afectada por los efectos de reducción de conjuración fija de objetos o habilidades.",
+        "pt-BR": "*A conjuração fixa desta habilidade não é afetada pelos efeitos de redução da conjuração fixa de itens ou habilidades.",
+        "es-ES": "*La conjuración fija de esta habilidad no se ve afectada por los efectos de reducción de conjuración fija de objetos o habilidades."
+    },
+    "TVNJX1NLSUxMX0RFTEFZX0ZMQUdfTk9SRURVQ1Q=": {
+        "ko-KR": "*해당 스킬의 변동 캐스팅은 스테이터스로 감소되지 않으며,\\n아이템 및 스킬의 변동캐스팅 감소 옵션에 영향을 받지 않습니다.",
+        "en-US": "*This skill's variable cast time cannot be reduced by stats,\\nand is unaffected by variable cast time reduction effects from items or skills.",
+        "unknown_3": "*A conjuração variável desta habilidade não é reduzida por atributos\\ne não é afetada pelos efeitos de redução da conjuração variável de itens ou habilidades.",
+        "unknown_4": "*La conjuración variable de esta habilidad no se reduce mediante atributos\\ny no se ve afectada por los efectos de reducción de conjuración variable de objetos o habilidades.",
+        "pt-BR": "*A conjuração variável desta habilidade não é reduzida por atributos\\ne não é afetada pelos efeitos de redução da conjuração variável de itens ou habilidades.",
+        "es-ES": "*La conjuración variable de esta habilidad no se reduce mediante atributos\\ny no se ve afectada por los efectos de reducción de conjuración variable de objetos o habilidades."
+    },
+    "TVNJX1NLSUxMX0RFTEFZX0lORk9fU09fRUxfQUNUSU9O": {
+        "ko-KR": "소환 중인 정령의 레벨x3초의 스킬 쿨타임이 적용됩니다.",
+        "en-US": "The skill cooldown is set to the summoned elemental's level × 3 seconds.",
+        "unknown_3": "O tempo de recarga da habilidade será igual ao nível do elemental invocado × 3 segundos.",
+        "unknown_4": "El tiempo de reutilización de la habilidad será igual al nivel del elemental invocado × 3 segundos.",
+        "pt-BR": "O tempo de recarga da habilidade será igual ao nível do elemental invocado × 3 segundos.",
+        "es-ES": "El tiempo de reutilización de la habilidad será igual al nivel del elemental invocado × 3 segundos."
     }
 }

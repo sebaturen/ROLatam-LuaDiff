@@ -1,4 +1,3 @@
-
 function main()
 	InsertEvolutionRecipeLGU(9001, 9069, 610, 10)
 	InsertEvolutionRecipeLGU(9001, 9069, 619, 3)

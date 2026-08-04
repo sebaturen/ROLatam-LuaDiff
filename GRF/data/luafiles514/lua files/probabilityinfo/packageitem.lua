@@ -51115,6 +51115,44 @@ tbl = {
 			group = 0
 		}
 	},
+	[101041] = {
+		{
+			id = 24674,
+			prob = 1,
+			name = "Escudo Sombrio do Mamute",
+			group = 0
+		},
+		{
+			id = 24670,
+			prob = 1,
+			name = "Greva Sombria do Mamute",
+			group = 0
+		},
+		{
+			id = 24669,
+			prob = 1,
+			name = "Malha Sombria do Mamute",
+			group = 0
+		},
+		{
+			id = 24673,
+			prob = 1,
+			name = "Manopla Sombria do Mamute",
+			group = 0
+		},
+		{
+			id = 24672,
+			prob = 1,
+			name = "Brinco Sombrio do Mamute",
+			group = 0
+		},
+		{
+			id = 24671,
+			prob = 1,
+			name = "Colar Sombrio do Mamute",
+			group = 0
+		}
+	},
 	[101042] = {
 		{
 			id = 24085,
@@ -51680,6 +51718,212 @@ tbl = {
 			id = 23899,
 			prob = 300,
 			name = "[Evento] Bolinho Divino",
+			group = 6
+		}
+	},
+	[101314] = {
+		{
+			id = 400178,
+			prob = 10,
+			name = "Elmo da Fé Arcana [1]",
+			group = 6
+		},
+		{
+			id = 400179,
+			prob = 10,
+			name = "Elmo da Fé Arcana II [1]",
+			group = 6
+		},
+		{
+			id = 400180,
+			prob = 10,
+			name = "Elmo da Fé Guerreira [1]",
+			group = 6
+		},
+		{
+			id = 400181,
+			prob = 10,
+			name = "Elmo da Fé Guerreira II [1]",
+			group = 6
+		},
+		{
+			id = 400189,
+			prob = 10,
+			name = "Elmo da Fé Clerical [1]",
+			group = 6
+		},
+		{
+			id = 400190,
+			prob = 10,
+			name = "Elmo da Fé Clerical II [1]",
+			group = 6
+		},
+		{
+			id = 400191,
+			prob = 10,
+			name = "Elmo da Fé Renegada [1]",
+			group = 6
+		},
+		{
+			id = 400192,
+			prob = 10,
+			name = "Elmo da Fé Renegada II [1]",
+			group = 6
+		},
+		{
+			id = 400198,
+			prob = 10,
+			name = "Elmo da Fé Sentinela [1]",
+			group = 6
+		},
+		{
+			id = 400199,
+			prob = 10,
+			name = "Elmo da Fé Sentinela II [1]",
+			group = 6
+		},
+		{
+			id = 400200,
+			prob = 10,
+			name = "Elmo da Fé Guardiã [1]",
+			group = 6
+		},
+		{
+			id = 400201,
+			prob = 10,
+			name = "Elmo da Fé Guardiã II [1]",
+			group = 6
+		},
+		{
+			id = 400216,
+			prob = 10,
+			name = "Elmo da Fé Mortal [1]",
+			group = 6
+		},
+		{
+			id = 400217,
+			prob = 10,
+			name = "Elmo da Fé Mortal II [1]",
+			group = 6
+		},
+		{
+			id = 400218,
+			prob = 10,
+			name = "Elmo da Fé Elemental [1]",
+			group = 6
+		},
+		{
+			id = 400219,
+			prob = 10,
+			name = "Elmo da Fé Elemental II [1]",
+			group = 6
+		},
+		{
+			id = 400226,
+			prob = 10,
+			name = "Elmo da Fé Valente [1]",
+			group = 6
+		},
+		{
+			id = 400227,
+			prob = 10,
+			name = "Elmo da Fé Valente II [1]",
+			group = 6
+		},
+		{
+			id = 400228,
+			prob = 10,
+			name = "Elmo da Fé Harmoniosa [1]",
+			group = 6
+		},
+		{
+			id = 400229,
+			prob = 10,
+			name = "Elmo da Fé Harmoniosa II [1]",
+			group = 6
+		},
+		{
+			id = 400230,
+			prob = 10,
+			name = "Elmo da Fé Mecânica [1]",
+			group = 6
+		},
+		{
+			id = 400231,
+			prob = 10,
+			name = "Elmo da Fé Mecânica II [1]",
+			group = 6
+		},
+		{
+			id = 400233,
+			prob = 10,
+			name = "Elmo da Fé Científica [1]",
+			group = 6
+		},
+		{
+			id = 400234,
+			prob = 10,
+			name = "Elmo da Fé Científica II [1]",
+			group = 6
+		},
+		{
+			id = 400235,
+			prob = 10,
+			name = "Elmo da Fé Ninja [1]",
+			group = 6
+		},
+		{
+			id = 400236,
+			prob = 10,
+			name = "Elmo da Fé Ninja II [1]",
+			group = 6
+		},
+		{
+			id = 400237,
+			prob = 10,
+			name = "Elmo da Fé Rebelde [1]",
+			group = 6
+		},
+		{
+			id = 400238,
+			prob = 10,
+			name = "Elmo da Fé Rebelde II [1]",
+			group = 6
+		},
+		{
+			id = 400239,
+			prob = 10,
+			name = "Elmo da Fé Espiritual [1]",
+			group = 6
+		},
+		{
+			id = 400240,
+			prob = 10,
+			name = "Elmo da Fé Espiritual II [1]",
+			group = 6
+		},
+		{
+			id = 400241,
+			prob = 10,
+			name = "Elmo da Fé Celestial [1]",
+			group = 6
+		},
+		{
+			id = 400242,
+			prob = 10,
+			name = "Elmo da Fé Celestial II [1]",
+			group = 6
+		},
+		{
+			id = 400243,
+			prob = 10,
+			name = "Elmo da Fé Felina [1]",
+			group = 6
+		},
+		{
+			id = 400244,
+			prob = 10,
+			name = "Elmo da Fé Felina II [1]",
 			group = 6
 		}
 	},
@@ -66603,19 +66847,19 @@ tbl = {
 		{
 			id = 23375,
 			prob = 0,
-			name = "Unknown Item 10",
+			name = "Papiro de Água 10",
 			group = 0
 		},
 		{
 			id = 23374,
 			prob = 0,
-			name = "Unknown Item 10",
+			name = "Papiro de Fogo 10",
 			group = 0
 		},
 		{
 			id = 23377,
 			prob = 0,
-			name = "Unknown Item 10",
+			name = "Papiro de Terra 10",
 			group = 0
 		},
 		{
@@ -79275,7 +79519,7 @@ tbl = {
 		{
 			id = 480801,
 			prob = 10,
-			name = "Bolsa de Mochila Haty Bebe (Traje)",
+			name = "[Visual] Mochila de Hatii",
 			group = 0
 		}
 	},
@@ -79923,6 +80167,514 @@ tbl = {
 			prob = 0,
 			name = "[Evento] Artefato Oval Expandido 2",
 			group = 0
+		}
+	},
+	[107823] = {
+		{
+			id = 1000274,
+			prob = 10,
+			name = "Cupom da Kachua",
+			group = 0
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Evento] Bênção de Tyr 5",
+			group = 6
+		},
+		{
+			id = 23312,
+			prob = 1400,
+			name = "Maleta de Produtos Químicos 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1400,
+			name = "Porta Moedas 2",
+			group = 6
+		},
+		{
+			id = 102547,
+			prob = 1400,
+			name = "Embalagem de Fragmentos 2",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Poção de Ouro 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual & Chiclete",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Evento] Poção Menor de Mana 2",
+			group = 6
+		},
+		{
+			id = 12515,
+			prob = 950,
+			name = "[Evento] Poção Média de Vida 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Estimulante 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitado] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 101047,
+			prob = 600,
+			name = "Bênção do Ferreiro (3)",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 600,
+			name = "Encantador Sombrio 3",
+			group = 6
+		},
+		{
+			id = 23204,
+			prob = 600,
+			name = "Escrituras 2",
+			group = 6
+		},
+		{
+			id = 23115,
+			prob = 600,
+			name = "Cubo Sombrio de Classe",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Caixa de Martelos Sombrios",
+			group = 6
+		},
+		{
+			id = 100512,
+			prob = 500,
+			name = "Cubo Sombrio de Habilidade EX",
+			group = 6
+		},
+		{
+			id = 100198,
+			prob = 500,
+			name = "Cubo Sombrio de Habilidade",
+			group = 6
+		},
+		{
+			id = 102069,
+			prob = 400,
+			name = "Cubo Sombrio Anti-Racial",
+			group = 6
+		},
+		{
+			id = 102067,
+			prob = 400,
+			name = "Cubo Sombrio Caça-Racial",
+			group = 6
+		},
+		{
+			id = 101041,
+			prob = 400,
+			name = "Caixa Sombria do Mamute",
+			group = 6
+		},
+		{
+			id = 101042,
+			prob = 400,
+			name = "Caixa Sombria de Joias",
+			group = 6
+		},
+		{
+			id = 101177,
+			prob = 300,
+			name = "Caderno Tempeste Penetrante",
+			group = 6
+		},
+		{
+			id = 101308,
+			prob = 300,
+			name = "Caderno de Pedras Preciosas",
+			group = 6
+		},
+		{
+			id = 101264,
+			prob = 300,
+			name = "Caderno do Mastodonte",
+			group = 6
+		},
+		{
+			id = 101314,
+			prob = 200,
+			name = "Baú de Elmos da Fé",
+			group = 6
+		},
+		{
+			id = 400134,
+			prob = 200,
+			name = "Gálea Guerreira de Cinzas [1]",
+			group = 6
+		},
+		{
+			id = 400141,
+			prob = 200,
+			name = "Gálea Afiada de Cinzas [1]",
+			group = 6
+		},
+		{
+			id = 400146,
+			prob = 200,
+			name = "Gálea Mágica de Cinzas [1]",
+			group = 6
+		},
+		{
+			id = 400150,
+			prob = 200,
+			name = "Gálea Lutadora de Cinzas [1]",
+			group = 6
+		},
+		{
+			id = 101565,
+			prob = 200,
+			name = "Caixa de Fascículos Selecionáveis",
+			group = 6
+		},
+		{
+			id = 101306,
+			prob = 80,
+			name = "Martelo de Refino Pænitentia",
+			group = 6
+		},
+		{
+			id = 101390,
+			prob = 80,
+			name = "Martelo de Refino do Relógio",
+			group = 6
+		},
+		{
+			id = 460181,
+			prob = 70,
+			name = "Protetor Pænitentia [1]",
+			group = 6
+		},
+		{
+			id = 491084,
+			prob = 70,
+			name = "Amuleto de Lobo Físico [1]",
+			group = 6
+		},
+		{
+			id = 491085,
+			prob = 70,
+			name = "Amuleto de Lobo Mágico [1]",
+			group = 6
+		},
+		{
+			id = 100742,
+			prob = 70,
+			name = "Caixa de Armas Primordiais",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 45,
+			name = "Âmago Dimensional",
+			group = 6
+		},
+		{
+			id = 480136,
+			prob = 45,
+			name = "Espada Mágica de Thanatos [1]",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "Envelope de Alto Refino",
+			group = 6
+		},
+		{
+			id = 470458,
+			prob = 5,
+			name = "Botas da Fonte [1]",
+			group = 6
+		},
+		{
+			id = 470459,
+			prob = 5,
+			name = "Sapato Quimera [1]",
+			group = 6
+		}
+	},
+	[107824] = {
+		{
+			id = 1000274,
+			prob = 10,
+			name = "Cupom da Kachua",
+			group = 0
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Evento] Bênção de Tyr 5",
+			group = 6
+		},
+		{
+			id = 23312,
+			prob = 1400,
+			name = "Maleta de Produtos Químicos 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1400,
+			name = "Porta Moedas 2",
+			group = 6
+		},
+		{
+			id = 102547,
+			prob = 1400,
+			name = "Embalagem de Fragmentos 2",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Poção de Ouro 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual & Chiclete",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Evento] Poção Menor de Mana 2",
+			group = 6
+		},
+		{
+			id = 12515,
+			prob = 950,
+			name = "[Evento] Poção Média de Vida 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Estimulante 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitado] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 101047,
+			prob = 600,
+			name = "Bênção do Ferreiro (3)",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 600,
+			name = "Encantador Sombrio 3",
+			group = 6
+		},
+		{
+			id = 23204,
+			prob = 600,
+			name = "Escrituras 2",
+			group = 6
+		},
+		{
+			id = 23115,
+			prob = 600,
+			name = "Cubo Sombrio de Classe",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Caixa de Martelos Sombrios",
+			group = 6
+		},
+		{
+			id = 100512,
+			prob = 500,
+			name = "Cubo Sombrio de Habilidade EX",
+			group = 6
+		},
+		{
+			id = 100198,
+			prob = 500,
+			name = "Cubo Sombrio de Habilidade",
+			group = 6
+		},
+		{
+			id = 102069,
+			prob = 400,
+			name = "Cubo Sombrio Anti-Racial",
+			group = 6
+		},
+		{
+			id = 102067,
+			prob = 400,
+			name = "Cubo Sombrio Caça-Racial",
+			group = 6
+		},
+		{
+			id = 101041,
+			prob = 400,
+			name = "Caixa Sombria do Mamute",
+			group = 6
+		},
+		{
+			id = 101042,
+			prob = 400,
+			name = "Caixa Sombria de Joias",
+			group = 6
+		},
+		{
+			id = 101177,
+			prob = 300,
+			name = "Caderno Tempeste Penetrante",
+			group = 6
+		},
+		{
+			id = 101308,
+			prob = 300,
+			name = "Caderno de Pedras Preciosas",
+			group = 6
+		},
+		{
+			id = 101264,
+			prob = 300,
+			name = "Caderno do Mastodonte",
+			group = 6
+		},
+		{
+			id = 101314,
+			prob = 200,
+			name = "Baú de Elmos da Fé",
+			group = 6
+		},
+		{
+			id = 400134,
+			prob = 200,
+			name = "Gálea Guerreira de Cinzas [1]",
+			group = 6
+		},
+		{
+			id = 400141,
+			prob = 200,
+			name = "Gálea Afiada de Cinzas [1]",
+			group = 6
+		},
+		{
+			id = 400146,
+			prob = 200,
+			name = "Gálea Mágica de Cinzas [1]",
+			group = 6
+		},
+		{
+			id = 400150,
+			prob = 200,
+			name = "Gálea Lutadora de Cinzas [1]",
+			group = 6
+		},
+		{
+			id = 101565,
+			prob = 200,
+			name = "Caixa de Fascículos Selecionáveis",
+			group = 6
+		},
+		{
+			id = 101306,
+			prob = 80,
+			name = "Martelo de Refino Pænitentia",
+			group = 6
+		},
+		{
+			id = 101390,
+			prob = 80,
+			name = "Martelo de Refino do Relógio",
+			group = 6
+		},
+		{
+			id = 460181,
+			prob = 70,
+			name = "Protetor Pænitentia [1]",
+			group = 6
+		},
+		{
+			id = 491084,
+			prob = 70,
+			name = "Amuleto de Lobo Físico [1]",
+			group = 6
+		},
+		{
+			id = 491085,
+			prob = 70,
+			name = "Amuleto de Lobo Mágico [1]",
+			group = 6
+		},
+		{
+			id = 100742,
+			prob = 70,
+			name = "Caixa de Armas Primordiais",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 45,
+			name = "Âmago Dimensional",
+			group = 6
+		},
+		{
+			id = 480136,
+			prob = 45,
+			name = "Espada Mágica de Thanatos [1]",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "Envelope de Alto Refino",
+			group = 6
+		},
+		{
+			id = 470458,
+			prob = 5,
+			name = "Botas da Fonte [1]",
+			group = 6
+		},
+		{
+			id = 470459,
+			prob = 5,
+			name = "Sapato Quimera [1]",
+			group = 6
 		}
 	},
 	[200001] = {
@@ -82502,6 +83254,236 @@ tbl = {
 			id = 107788,
 			prob = 10,
 			name = "[Evento] Artefato Oval Expandido 85",
+			group = 0
+		}
+	},
+	[201034] = {
+		{
+			id = 16834,
+			prob = 10,
+			name = "Armadura Sombria (30) 2",
+			group = 0
+		},
+		{
+			id = 16836,
+			prob = 10,
+			name = "Armadura Sagrada (30) 2",
+			group = 0
+		},
+		{
+			id = 16851,
+			prob = 10,
+			name = "Amplificação Mística (50) 2",
+			group = 0
+		},
+		{
+			id = 12208,
+			prob = 10,
+			name = "Manual de Combate 10",
+			group = 0
+		},
+		{
+			id = 14606,
+			prob = 10,
+			name = "Manual de Classe 25",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Evento] Artefato Oval das Flores 6",
+			group = 0
+		}
+	},
+	[201035] = {
+		{
+			id = 6909,
+			prob = 10,
+			name = "MiauMiau 50",
+			group = 0
+		},
+		{
+			id = 23375,
+			prob = 10,
+			name = "Papiro de Água 20",
+			group = 0
+		},
+		{
+			id = 23374,
+			prob = 10,
+			name = "Papiro de Fogo 20",
+			group = 0
+		},
+		{
+			id = 23377,
+			prob = 10,
+			name = "Papiro de Terra 20",
+			group = 0
+		},
+		{
+			id = 23376,
+			prob = 10,
+			name = "Papiro de Vento 20",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Evento] Artefato Oval das Flores 6",
+			group = 0
+		}
+	},
+	[201036] = {
+		{
+			id = 200585,
+			prob = 0,
+			name = "Combo Kafra VIP",
+			group = 0
+		},
+		{
+			id = 17921,
+			prob = 0,
+			name = "Caixa da Kafra",
+			group = 0
+		},
+		{
+			id = 17920,
+			prob = 0,
+			name = "Caixa do Ambulante",
+			group = 0
+		}
+	},
+	[201037] = {
+		{
+			id = 7619,
+			prob = 10,
+			name = "Elunium Enriquecido 35",
+			group = 0
+		},
+		{
+			id = 7620,
+			prob = 10,
+			name = "Oridecon Enriquecido 35",
+			group = 0
+		},
+		{
+			id = 6240,
+			prob = 10,
+			name = "Oridecon Perfeito 10",
+			group = 0
+		},
+		{
+			id = 6241,
+			prob = 10,
+			name = "Elunium Perfeito 10",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Evento] Artefato Oval das Flores 6",
+			group = 0
+		}
+	},
+	[201038] = {
+		{
+			id = 101238,
+			prob = 10,
+			name = "[Evento] Manual Kafra (7 dias)",
+			group = 0
+		},
+		{
+			id = 25793,
+			prob = 10,
+			name = "Expansor de Inventário 5",
+			group = 0
+		},
+		{
+			id = 7776,
+			prob = 10,
+			name = "Passe Antigravitacional 5",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Evento] Artefato Oval das Flores 6",
+			group = 0
+		}
+	},
+	[201040] = {
+		{
+			id = 23204,
+			prob = 10,
+			name = "Escrituras 50",
+			group = 0
+		},
+		{
+			id = 14614,
+			prob = 10,
+			name = "Poção de Defesa Especial 20",
+			group = 0
+		},
+		{
+			id = 103272,
+			prob = 10,
+			name = "[Evento] Elixir Celestial 20",
+			group = 0
+		},
+		{
+			id = 103273,
+			prob = 10,
+			name = "[Evento] Estimulante 20",
+			group = 0
+		},
+		{
+			id = 201039,
+			prob = 10,
+			name = "Selecionáveis dos Vencedores",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Evento] Artefato Oval das Flores 6",
+			group = 0
+		}
+	},
+	[201041] = {
+		{
+			id = 12516,
+			prob = 10,
+			name = "[Evento] Poção Menor de Vida 100",
+			group = 0
+		},
+		{
+			id = 12515,
+			prob = 10,
+			name = "[Evento] Poção Média de Vida 100",
+			group = 0
+		},
+		{
+			id = 9610,
+			prob = 10,
+			name = "[Evento] Água Milagrosa 100",
+			group = 0
+		},
+		{
+			id = 101367,
+			prob = 10,
+			name = "[Especial] Poção Menor de Mana 50",
+			group = 0
+		},
+		{
+			id = 201039,
+			prob = 10,
+			name = "Selecionáveis dos Vencedores",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Evento] Artefato Oval das Flores 6",
 			group = 0
 		}
 	}

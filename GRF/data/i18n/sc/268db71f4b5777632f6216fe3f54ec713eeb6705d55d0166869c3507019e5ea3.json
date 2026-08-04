@@ -1177,7 +1177,7 @@
     "i4cB": {
         "en-US": "Santa Goblin",
         "pt-BR": "Goblin Natalino",
-        "es-ES": "Duende de Santa"
+        "es-ES": "Goblin Navideño"
     },
     "jIcB": {
         "en-US": "Cookie",
@@ -14751,5 +14751,59 @@
         "pt-BR": "Sangoon",
         "es-ES": "Señor de la montaña"
     },
-    "J5IB": {}
+    "J5IB": {
+        "en-US": "Giant Hornet",
+        "pt-BR": "Zangão Gigante",
+        "es-ES": "Avispón Gigante"
+    },
+    "KJIB": {
+        "en-US": "Rotten Wood",
+        "pt-BR": "Madeira Podre",
+        "es-ES": "Madera Podrida"
+    },
+    "KZIB": {
+        "en-US": "Melted Poring",
+        "pt-BR": "Poring Derretido",
+        "es-ES": "Poring Derretido"
+    },
+    "KpIB": {
+        "en-US": "Grave Worm",
+        "pt-BR": "Verme do Túmulo",
+        "es-ES": "Gusano de Tumba"
+    },
+    "K5IB": {
+        "en-US": "Brain Sucker",
+        "pt-BR": "Sugador de Cérebros",
+        "es-ES": "Chupacerebros"
+    },
+    "LJIB": {
+        "en-US": "Moskillro",
+        "pt-BR": "Moskillro",
+        "es-ES": "Moskillro"
+    },
+    "LZIB": {
+        "en-US": "Unidentified Creature",
+        "pt-BR": "Criatura Não Identificada",
+        "es-ES": "Criatura No Identificada"
+    },
+    "LpIB": {
+        "en-US": "Unidentified Creature",
+        "pt-BR": "Criatura Não Identificada",
+        "es-ES": "Criatura No Identificada"
+    },
+    "L5IB": {
+        "en-US": "Unidentified Creature",
+        "pt-BR": "Criatura Não Identificada",
+        "es-ES": "Criatura No Identificada"
+    },
+    "MJIB": {
+        "en-US": "Unidentified Creature",
+        "pt-BR": "Criatura Não Identificada",
+        "es-ES": "Criatura No Identificada"
+    },
+    "MZIB": {
+        "en-US": "Unidentified Creature",
+        "pt-BR": "Criatura Não Identificada",
+        "es-ES": "Criatura No Identificada"
+    }
 }

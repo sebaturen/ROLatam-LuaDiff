@@ -7316,6 +7316,726 @@ ReformInfo = {
 			"2) Informações de opções aleatórias: Mantidas",
 			"3) Informações de cartas e encantamentos: Mantidas"
 		}
+	},
+	[523] = {
+		BaseItem = "Poenitentia_Gladius",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Gladius",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[524] = {
+		BaseItem = "Poenitentia_Ligula",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Ligula",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[525] = {
+		BaseItem = "Poenitentia_Orbis",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Orbis",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[526] = {
+		BaseItem = "Poenitentia_Mucro",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Mucro",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[527] = {
+		BaseItem = "Poenitentia_Sol",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Sol",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[528] = {
+		BaseItem = "Poenitentia_Jana",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Jana",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[529] = {
+		BaseItem = "Poenitentia_Hasta",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Hasta",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[530] = {
+		BaseItem = "Poenitentia_Codex",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Codex",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[531] = {
+		BaseItem = "Poenitentia_Liber",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Liber",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[532] = {
+		BaseItem = "Poenitentia_Radius",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Radius",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[533] = {
+		BaseItem = "Poenitentia_Scipio",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Scipio",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[534] = {
+		BaseItem = "Poenitentia_Crystallum",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Crystallum",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[535] = {
+		BaseItem = "Poenitentia_Ramus",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Ramus",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[536] = {
+		BaseItem = "Poenitentia_Planta",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Planta",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[537] = {
+		BaseItem = "Poenitentia_Ferrum",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Ferrum",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[538] = {
+		BaseItem = "Poenitentia_Caestus",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Caestus",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[539] = {
+		BaseItem = "Poenitentia_Ungula",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Ungula",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[540] = {
+		BaseItem = "Poenitentia_Chorda",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Chorda",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[541] = {
+		BaseItem = "Poenitentia_Flagellum",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Flagellum",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[542] = {
+		BaseItem = "Poenitentia_Clava",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Clava",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[543] = {
+		BaseItem = "Poenitentia_Pendulus",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Pendulus",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[544] = {
+		BaseItem = "Poenitentia_Ensis",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Ensis",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[545] = {
+		BaseItem = "Poenitentia_Manus",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Manus",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[546] = {
+		BaseItem = "Poenitentia_Ascia",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Ascia",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[547] = {
+		BaseItem = "Poenitentia_Catapulta",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Catapulta",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[548] = {
+		BaseItem = "Poenitentia_Termes",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Termes",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[549] = {
+		BaseItem = "Poenitentia_Virga",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Virga",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[550] = {
+		BaseItem = "Poenitentia_Tenon",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Tenon",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[551] = {
+		BaseItem = "Poenitentia_Nervus",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Nervus",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[552] = {
+		BaseItem = "Poenitentia_Foramen",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Foramen",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[553] = {
+		BaseItem = "Poenitentia_Penet",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Penet",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[554] = {
+		BaseItem = "Poenitentia_Veloci",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Veloci",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[555] = {
+		BaseItem = "Poenitentia_Ruina",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenitentia_Ruina",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[586] = {
+		BaseItem = "Poenetentia_Vatia",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenetentia_Vatia",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[587] = {
+		BaseItem = "Poenetentia_Attendo",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenetentia_Attendo",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
+	},
+	[588] = {
+		BaseItem = "Poenetentia_Dilacero",
+		Material = {Blacksmith_Blessing = 14},
+		ResultItem = "Poenetentia_Dilacero",
+		NeedRefineMin = 9,
+		NeedRefineMax = 11,
+		NeedOptionNumMin = 0,
+		IsEmptySocket = false,
+		ChangeRefineValue = 1,
+		RandomOptionCode = "",
+		PreserveSocketItem = true,
+		PreserveGrade = true,
+		InformationString = {
+			"<B>Informações do resultado da combinação</B>",
+			"1) Nível de refino : ^4D4DFF+1^000000",
+			"2) Informações das opções aleatórias : Mantidas",
+			"3) Informações de cartas e encantamentos : Mantidas",
+			"4) Informações de grau : Mantidas"
+		}
 	}
 }
 ReformItemList = {
@@ -7708,5 +8428,43 @@ ReformItemList = {
 		953,
 		954,
 		955
+	},
+	Poenitentia_Hammer = {
+		523,
+		524,
+		525,
+		526,
+		527,
+		528,
+		529,
+		530,
+		531,
+		532,
+		533,
+		534,
+		535,
+		536,
+		537,
+		538,
+		539,
+		540,
+		541,
+		542,
+		543,
+		544,
+		545,
+		546,
+		547,
+		548,
+		549,
+		550,
+		551,
+		552,
+		553,
+		554,
+		555,
+		586,
+		587,
+		588
 	}
 }

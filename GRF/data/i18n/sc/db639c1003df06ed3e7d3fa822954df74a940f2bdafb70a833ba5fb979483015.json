@@ -32,7 +32,7 @@
     "ZmALAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[ Voz Ecoante ]\nValente combatente...\nDeseja retornar ao seu lugar de glória?",
-        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
     },
     "Z2ALAg": {
         "en-US": "Go back to your stronghold.",
@@ -201,8 +201,8 @@
     },
     "iGALAg": {
         "en-US": "ssss[{0}] guild has conquered Hohenschwangau in the [{1}] Realm.",
-        "pt-BR": "ssssO clã [{0}] conquistou o castelo de [{ignorei18n_agitName}]",
-        "es-ES": "ssssEl gremio [{0}] conquistó el castillo de [{ignorei18n_agitName}]"
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
     "iWALAg": {
         "en-US": "The Emperium has been destroyed.",
@@ -582,7 +582,7 @@
     "1GALAg": {
         "en-US": "[Butler Chenchenlie]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Chenchenlie]\n...\nA Kafra já foi dispensada como ordenado, Vossa Alteza.",
-        "es-ES": "[Mayordomo Chenchenlie]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Chenchenlie]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
     },
     "1WALAg": {
         "en-US": "[Butler Chenchenlie]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -675,43 +675,27 @@
         "es-ES": "No pasó nada."
     },
     "52ALAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "6GALAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "6WALAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "6mALAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "62ALAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "7GALAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "7WALAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     },
     "7mALAg": {
-        "en-US": "{0} /",
-        "pt-BR": "{0} /",
-        "es-ES": "{0} /"
+        "en-US": "{0} /"
     }
 }

@@ -1,4 +1,3 @@
-
 _pub_cat_effect_version = 2
 _pub_cat_emitterInfo = {
 	[0] = {

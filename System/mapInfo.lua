@@ -1,4 +1,3 @@
-
 mapTbl = {
 	["1@4cdn.rsw"] = {
 		displayName = "Caverna Fantasma",

@@ -1,6 +1,3 @@
-
-
-
 PCJobNameTable = {}
 function ReqPCJobName(JobID)
 	if nil == PCJobNameTable[JobID] then

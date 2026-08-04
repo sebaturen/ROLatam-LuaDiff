@@ -211,7 +211,7 @@
     },
     "iv4CDQ": {
         "en-US": "[Freya Priest]\n<FONT SIZE = 10>Ugh...</FONT>",
-        "pt-BR": "[Sacerdote de Freya]\n<FONT SIZE = 10>Ugh...</FONT>",
+        "pt-BR": "[Sacerdote de Freya]\nUgh...",
         "es-ES": "[Sacerdote de Freya]\n<FONT SIZE = 10>Guh...</FONT>"
     },
     "i/4CDQ": {
@@ -1081,7 +1081,7 @@
     },
     "OP8CDQ": {
         "en-US": "[Maram]\nIf only ^E5555Ea foreign trading company^000000 like Gina would come at a time like this.\n<FONT SIZE = 10>Foreign...</FONT>",
-        "pt-BR": "[Maram]\nNuma hora dessas, seria ótimo se ^E5555Euma caravana comercial estrangeira^000000 com a Gina pudesse vir até aqui.\n<FONT SIZE = 10>Estrangeira...</FONT>",
+        "pt-BR": "[Maram]\nNuma hora dessas, seria ótimo se ^E5555Euma caravana comercial estrangeira^000000 com a Gina pudesse vir até aqui.\nEstrangeira...",
         "es-ES": "[Maram]\nOjalá en un momento así apareciera aunque fuera ^E5555Euna compañía mercante extranjera^000000 Gina.\n<FONT SIZE = 10>Extranjera......</FONT>"
     },
     "Of8CDQ": {
@@ -1216,7 +1216,7 @@
     },
     "U/8CDQ": {
         "en-US": "[Merchant Rensia]\nHmm...\n<FONT SIZE = 10>They don’t look like a merchant?</FONT>",
-        "pt-BR": "[Comerciante Rensia]\nHmm...\n<FONT SIZE = 10>Mas ele não parece um comerciante, não?</FONT>",
+        "pt-BR": "[Comerciante Rensia]\nHmm...\nMas ele não parece um comerciante, não?",
         "es-ES": "[Comerciante Rensia]\nMmm......\n<FONT SIZE = 10>No parece un comerciante, precisamente.</FONT>"
     },
     "VP8CDQ": {
@@ -1236,7 +1236,7 @@
     },
     "V/8CDQ": {
         "en-US": "[Merchant Rensia]\n<FONT SIZE = 10>That’s true.</FONT>",
-        "pt-BR": "[Comerciante Rensia]\n<FONT SIZE = 10>VERDADE.</FONT>",
+        "pt-BR": "[Comerciante Rensia]\nVERDADE.",
         "es-ES": "[Comerciante Rensia]\n<FONT SIZE = 10>Eso es cierto.</FONT>"
     },
     "WP8CDQ": {

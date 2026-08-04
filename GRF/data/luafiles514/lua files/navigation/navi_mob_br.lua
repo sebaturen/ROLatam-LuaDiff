@@ -1,4 +1,3 @@
-
 Navi_Mob = {
 	{
 		"abbey01",

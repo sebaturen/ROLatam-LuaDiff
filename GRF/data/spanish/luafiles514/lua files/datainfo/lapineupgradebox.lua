@@ -1,4 +1,3 @@
-
 tblLapineUpgradeBox = {
 	targets = {
 		Gemstone_Of_Time = {
@@ -705,7 +704,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Thanos Long Range Weapon"
 		},
-		Gray_Charcoal_Mágico = {
+		Gray_Charcoal_Magic = {
 			ItemID = 23677,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -736,7 +735,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Thanos Mágico Weapon"
 		},
-		Gray_Charcoal_Físico = {
+		Gray_Charcoal_Melee = {
 			ItemID = 23676,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -787,7 +786,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Thanos Close Range Weapon"
 		},
-		Geffen_Mágico_Scroll2 = {
+		Geffen_Magic_Scroll2 = {
 			ItemID = 23679,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -805,7 +804,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Geffen Mágico Contest Accessory"
 		},
-		Geffen_Mágico_Scroll = {
+		Geffen_Magic_Scroll = {
 			ItemID = 23675,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -12275,7 +12274,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma OS"
 		},
-		Class_Sha_R_M_Físico = {
+		Class_Sha_R_M_Melee = {
 			ItemID = 100205,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -12645,7 +12644,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Equipamentos Sombrios de Classe"
 		},
-		Class_Sha_R_M_Mágico = {
+		Class_Sha_R_M_Magic = {
 			ItemID = 100206,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -13056,7 +13055,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Egir's Power Box"
 		},
-		Egir_Mágico_Box = {
+		Egir_Magic_Box = {
 			ItemID = 100467,
 			NeedRefineMin = 0,
 			NeedOptionNumMin = 0,
@@ -15689,7 +15688,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Energa del dragn caliente"
 		},
-		Auto_Imp_Físico_1 = {
+		Auto_Imp_Melee_1 = {
 			ItemID = 100164,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -15803,7 +15802,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora intermedia (fsico)"
 		},
-		Auto_Imp_Físico_2 = {
+		Auto_Imp_Melee_2 = {
 			ItemID = 100165,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -15917,7 +15916,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora avanzada (fsico)"
 		},
-		Auto_Imp_Físico_3 = {
+		Auto_Imp_Melee_3 = {
 			ItemID = 100166,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -16031,7 +16030,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora superior (fsico)"
 		},
-		Auto_Imp_Mágico_1 = {
+		Auto_Imp_Magic_1 = {
 			ItemID = 100167,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -16145,7 +16144,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora intermedia (mgico)"
 		},
-		Auto_Imp_Mágico_2 = {
+		Auto_Imp_Magic_2 = {
 			ItemID = 100168,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -16259,7 +16258,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Arma objetivo de mejora avanzada (mgico)"
 		},
-		Auto_Imp_Mágico_3 = {
+		Auto_Imp_Magic_3 = {
 			ItemID = 100169,
 			NeedRefineMin = 0,
 			NeedRefineMax = 20,
@@ -16741,7 +16740,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Capa de los Caballeros Blancos"
 		},
-		Skill_Sha_R_M_Físico = {
+		Skill_Sha_R_M_Melee = {
 			ItemID = 100207,
 			NeedRefineMin = 0,
 			NeedRefineMax = 10,
@@ -17558,7 +17557,7 @@ tblLapineUpgradeBox = {
 			},
 			NeedSource_String = "Sombríos de Habilidad"
 		},
-		Skill_Sha_R_M_Mágico = {
+		Skill_Sha_R_M_Magic = {
 			ItemID = 100208,
 			NeedRefineMin = 0,
 			NeedRefineMax = 10,
@@ -20211,7 +20210,7 @@ tblLapineUpgradeBox = {
 					24746
 				}
 			},
-			NeedSource_String = "Sombra Escudo de Recarga Separada"
+			NeedSource_String = "Escudo Sombrío de Recarga"
 		},
 		M_Blitz_Shadow_Up = {
 			ItemID = 101261,
@@ -20229,7 +20228,7 @@ tblLapineUpgradeBox = {
 					24768
 				}
 			},
-			NeedSource_String = "Sombra Mega Blitz"
+			NeedSource_String = "Sombrío Mega Repente"
 		},
 		Absorb_Shadow_Up = {
 			ItemID = 101262,
@@ -20247,7 +20246,7 @@ tblLapineUpgradeBox = {
 					24686
 				}
 			},
-			NeedSource_String = "Sombra de Absorción"
+			NeedSource_String = "Sombrío de Absorción"
 		},
 		EXPShadow_Up = {
 			ItemID = 101309,
@@ -20265,7 +20264,7 @@ tblLapineUpgradeBox = {
 					24770
 				}
 			},
-			NeedSource_String = "Sombra de Experiencia"
+			NeedSource_String = "Sombrío de EXP"
 		},
 		InfinityShadow_Up = {
 			ItemID = 101311,
@@ -20283,7 +20282,210 @@ tblLapineUpgradeBox = {
 					24386
 				}
 			},
-			NeedSource_String = "Sombra Infinita"
+			NeedSource_String = "Sombrío del Infinito"
+		},
+		MD_Geffen_Rarmor = {
+			ItemID = 100365,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Suits",
+					450149
+				},
+				{
+					"MD_Geffen_Robe",
+					450150
+				}
+			},
+			NeedSource_String = "Accesorio mágico ardiente"
+		},
+		MD_Geffen_Rhood = {
+			ItemID = 100366,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Hood",
+					480065
+				},
+				{
+					"MD_Geffen_Hood2",
+					480066
+				},
+				{
+					"MD_Geffen_Hood3",
+					480067
+				},
+				{
+					"MD_Geffen_Hood4",
+					480068
+				}
+			},
+			NeedSource_String = "Accesorio mágico hundido"
+		},
+		MD_Geffen_Racc = {
+			ItemID = 100367,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Ring",
+					490077
+				},
+				{
+					"MD_Geffen_Ring2",
+					490078
+				}
+			},
+			NeedSource_String = "Accesorio mágico de crecimiento"
+		},
+		MD_Geffen_Rsheild = {
+			ItemID = 100368,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Shield",
+					460005
+				},
+				{
+					"MD_Geffen_Shield2",
+					460006
+				}
+			},
+			NeedSource_String = "Accesorio mágico resplandeciente"
+		},
+		MD_Airboat_Random = {
+			ItemID = 100476,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Airboat_Boots",
+					470071
+				},
+				{
+					"MD_Airboat_Boots2",
+					470072
+				},
+				{
+					"MD_Airboat_Boots3",
+					470073
+				},
+				{
+					"MD_Airboat_Boots4",
+					470074
+				},
+				{
+					"MD_Airboat_Boots5",
+					470076
+				},
+				{
+					"MD_Airboat_Boots6",
+					470077
+				}
+			},
+			NeedSource_String = "Poder mágico desconocido"
+		},
+		Mammoth_Shadow_Up = {
+			ItemID = 101264,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_M_Mammoth_Armor",
+					24679
+				},
+				{
+					"S_M_Mammoth_Shoes",
+					24680
+				},
+				{
+					"S_M_Mammoth_Earring",
+					24681
+				},
+				{
+					"S_M_Mammoth_Pendant",
+					24682
+				}
+			},
+			NeedSource_String = "Mastodonte"
+		},
+		FullPenest_Shadow_Up = {
+			ItemID = 101177,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_FullPene_Earring",
+					24661
+				},
+				{
+					"S_FullPene_Pendant",
+					24662
+				},
+				{
+					"S_FullPene_Armor",
+					24663
+				},
+				{
+					"S_FullPene_Shoes",
+					24664
+				},
+				{
+					"S_FullTemp_Earring",
+					24665
+				},
+				{
+					"S_FullTemp_Shoes",
+					24666
+				},
+				{
+					"S_FullTemp_Armor",
+					24667
+				},
+				{
+					"S_FullTemp_Pendant",
+					24668
+				}
+			},
+			NeedSource_String = "Penetrante/Tempestuosa"
+		},
+		True_GemShadow_Up = {
+			ItemID = 101308,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_TrueGem_Pendant",
+					24678
+				},
+				{
+					"S_TrueGem_Earring",
+					24677
+				},
+				{
+					"S_TrueGem_Shoes",
+					24676
+				},
+				{
+					"S_TrueGem_Armor",
+					24675
+				}
+			},
+			NeedSource_String = "Piedras Preciosas"
 		}
 	},
 	get_lapine_box = function(in_box_id)

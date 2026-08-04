@@ -669,7 +669,7 @@ SkillInfoList_string = {
 	[SKID.BA_DISSONANCE] = {
 		SkillName = "Dissonância"
 	},
-	[SKID.BA_FROSTJOKE] = {
+	[SKID.BA_FROSTJOKER] = {
 		SkillName = "Piada Infame"
 	},
 	[SKID.BA_WHISTLE] = {SkillName = "Assovio"},
@@ -3734,7 +3734,7 @@ SkillInfoList_string = {
 	[SKID.MH_STYLE_CHANGE] = {
 		SkillName = "Estilo de Luta"
 	},
-	[SKID.MH_SONIC_CRAW] = {
+	[SKID.MH_SONIC_CLAW] = {
 		SkillName = "Garra Supersônica"
 	},
 	[SKID.MH_SILVERVEIN_RUSH] = {

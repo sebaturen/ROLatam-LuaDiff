@@ -1,4 +1,3 @@
-
 MapSkyData = {
 	["1@exhn.rsw"] = {
 		BG_Color = {

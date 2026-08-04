@@ -231,7 +231,7 @@
     },
     "zvmLDA": {
         "en-US": "[Yulma]\nThe want to know how much they've degenerated, if they've mutated on their own after their initial experiment, things like that.\n<FONT SIZE = 9>Hmm... These researchers sound dangerous themselves, don't they? Researchers are all pretty much the same, in my opinion.</FONT>",
-        "pt-BR": "[Yulma]\nQuerem saber o quanto perderam a forma original, se isso foi uma mudança espontânea após o experimento, coisas assim.\n<FONT SIZE = 9>Hmm... Esses pesquisadores tem jeito de ser um pouco perigosos também, né? Pra mim, todos os pesquisadores parecem iguais.</FONT>",
+        "pt-BR": "[Yulma]\nQuerem saber o quanto perderam a forma original, se isso foi uma mudança espontânea após o experimento, coisas assim.\nHmm... Esses pesquisadores tem jeito de ser um pouco perigosos também, né? Pra mim, todos os pesquisadores parecem iguais.</FONT>",
         "es-ES": "[Yulma]\nQuieren saber cuánto se han alejado de su forma original, si han cambiado por sí mismos después del experimento, cosas así.\n<FONT SIZE = 9>Mmm... Estos investigadores también suelen ser un poco peligrosos, ¿no? Para mí, todos los investigadores parecen iguales.</FONT>"
     },
     "z/mLDA": {
@@ -301,7 +301,7 @@
     },
     "3PmLDA": {
         "en-US": "[Yulma]\nThe researchers seem really interested in these creatures.\nSo they'd like you to hunt them for them.\n<FONT SIZE = 9>Hm... Why can't us from the Rebellion do it? I think there's something complicated going on behind the scenes. I don't really know what it is, though.</FONT>",
-        "pt-BR": "[Yulma]\nO pesquisadores parecem estar bem interessados neles.\nPor isso, eles querem pedir pra você caçar essas criaturas.\n<FONT SIZE = 9>Hmm... Por que nós da Rebelião não fazemos isso? Parece que tem alguma situação complicada por trás. Mas eu não sei bem o quê.</FONT>",
+        "pt-BR": "[Yulma]\nO pesquisadores parecem estar bem interessados neles.\nPor isso, eles querem pedir pra você caçar essas criaturas.\nHmm... Por que nós da Rebelião não fazemos isso? Parece que tem alguma situação complicada por trás. Mas eu não sei bem o quê.</FONT>",
         "es-ES": "[Yulma]\nLos investigadores parecen estar muy interesados en ellos.\nPor eso quieren pedirte que caces a esas criaturas.\n<FONT SIZE = 9>Mmm... ¿Por qué nosotros de la Rebelión no hacemos eso? Parece que hay alguna situación complicada de fondo. Pero no sé muy bien de qué se trata.</FONT>"
     },
     "3fmLDA": {

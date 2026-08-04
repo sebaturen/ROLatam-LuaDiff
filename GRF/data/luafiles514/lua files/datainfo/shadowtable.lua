@@ -991,5 +991,14 @@ ShadowFactorTable = {
 	[JTtbl.JT_SHIRANUI_RIDING] = 2,
 	[JTtbl.JT_NIGHT_WATCH_RIDING] = 2,
 	[JTtbl.JT_HYPER_NOVICE_RIDING] = 2,
-	[JTtbl.JT_SPIRIT_HANDLER_RIDING] = 1.5
+	[JTtbl.JT_SPIRIT_HANDLER_RIDING] = 1.5,
+	[jobtbl.JT_MD_Airboat_Poring] = 1.2,
+	[jobtbl.JT_MD_Airboat_Tree] = 1.5,
+	[jobtbl.JT_MD_Airboat_Worm] = 2,
+	[jobtbl.JT_MD_Airboat_LEECH] = 1.5,
+	[jobtbl.JT_MD_Airboat_Mos] = 1.5,
+	[jobtbl.JT_MD_Airboat_Boss] = 3.5,
+	[jobtbl.JT_MD_Airboat_Boss2] = 3.5,
+	[jobtbl.JT_MD_Airboat_Boss3] = 3.5,
+	[jobtbl.JT_MD_Airboat_Boss4] = 3.5
 }

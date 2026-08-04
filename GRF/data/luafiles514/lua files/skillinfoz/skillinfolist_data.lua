@@ -6940,8 +6940,8 @@ SkillInfoList_data = {
 			}
 		}
 	},
-	[SKID.BA_FROSTJOKE] = {
-		"BA_FROSTJOKE",
+	[SKID.BA_FROSTJOKER] = {
+		"BA_FROSTJOKER",
 		MaxLv = 5,
 		SpAmount = {
 			12,
@@ -34863,8 +34863,8 @@ SkillInfoList_data = {
 		bSeperateLv = false,
 		AttackRange = {1}
 	},
-	[SKID.MH_SONIC_CRAW] = {
-		"MH_SONIC_CRAW",
+	[SKID.MH_SONIC_CLAW] = {
+		"MH_SONIC_CLAW",
 		MaxLv = 5,
 		SpAmount = {
 			20,

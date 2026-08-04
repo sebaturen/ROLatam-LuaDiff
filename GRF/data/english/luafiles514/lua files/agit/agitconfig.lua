@@ -15,7 +15,7 @@ tbl_AgitInfo = {
 	},
 	["prtg_cas02.gat"] = {
 		Number = 2,
-		Name = "Swanhild",
+		Name = "Hrist",
 		Warp = {
 			TargetPosX = 94,
 			TargetPosY = 56,
@@ -29,7 +29,7 @@ tbl_AgitInfo = {
 	},
 	["prtg_cas03.gat"] = {
 		Number = 3,
-		Name = "Fadhgridh",
+		Name = "Brynhildr",
 		Warp = {
 			TargetPosX = 46,
 			TargetPosY = 97,
@@ -71,7 +71,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas01.gat"] = {
 		Number = 6,
-		Name = "Neuschwanstein",
+		Name = "Sirius",
 		Warp = {
 			TargetPosX = 212,
 			TargetPosY = 175,
@@ -85,7 +85,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas02.gat"] = {
 		Number = 7,
-		Name = "Hohenschwangau",
+		Name = "Astrum",
 		Warp = {
 			TargetPosX = 82,
 			TargetPosY = 71,
@@ -99,7 +99,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas03.gat"] = {
 		Number = 8,
-		Name = "Nuernberg",
+		Name = "Canopus",
 		Warp = {
 			TargetPosX = 109,
 			TargetPosY = 112,
@@ -113,7 +113,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas04.gat"] = {
 		Number = 9,
-		Name = "Wuerzburg",
+		Name = "Rigel",
 		Warp = {
 			TargetPosX = 60,
 			TargetPosY = 116,
@@ -127,7 +127,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas05.gat"] = {
 		Number = 10,
-		Name = "Rothenburg",
+		Name = "Acrux",
 		Warp = {
 			TargetPosX = 61,
 			TargetPosY = 185,
@@ -141,7 +141,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas01.gat"] = {
 		Number = 11,
-		Name = "Repherion",
+		Name = "Arsulf",
 		Warp = {
 			TargetPosX = 40,
 			TargetPosY = 43,
@@ -155,7 +155,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas02.gat"] = {
 		Number = 12,
-		Name = "Eeyorbriggar",
+		Name = "Trapesac",
 		Warp = {
 			TargetPosX = 22,
 			TargetPosY = 66,
@@ -169,7 +169,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas03.gat"] = {
 		Number = 13,
-		Name = "Yesnelph",
+		Name = "Ruaden",
 		Warp = {
 			TargetPosX = 112,
 			TargetPosY = 23,
@@ -183,7 +183,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas04.gat"] = {
 		Number = 14,
-		Name = "Bergel",
+		Name = "Saffran",
 		Warp = {
 			TargetPosX = 58,
 			TargetPosY = 46,
@@ -197,7 +197,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas05.gat"] = {
 		Number = 15,
-		Name = "Mersetzdeitz",
+		Name = "Arima",
 		Warp = {
 			TargetPosX = 66,
 			TargetPosY = 48,
@@ -211,7 +211,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas01.gat"] = {
 		Number = 16,
-		Name = "Bright Arbor",
+		Name = "Dokaebi",
 		Warp = {
 			TargetPosX = 115,
 			TargetPosY = 57,
@@ -225,7 +225,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas02.gat"] = {
 		Number = 17,
-		Name = "Sacred Palace",
+		Name = "Uturi",
 		Warp = {
 			TargetPosX = 26,
 			TargetPosY = 265,
@@ -239,7 +239,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas03.gat"] = {
 		Number = 18,
-		Name = "Holy Shadow",
+		Name = "Guirin",
 		Warp = {
 			TargetPosX = 43,
 			TargetPosY = 264,
@@ -253,7 +253,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas04.gat"] = {
 		Number = 19,
-		Name = "Scarlet Palace",
+		Name = "Haetae",
 		Warp = {
 			TargetPosX = 36,
 			TargetPosY = 272,
@@ -267,7 +267,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas05.gat"] = {
 		Number = 20,
-		Name = "Bamboo Grove Hill",
+		Name = "Gumiho",
 		Warp = {
 			TargetPosX = 274,
 			TargetPosY = 246,

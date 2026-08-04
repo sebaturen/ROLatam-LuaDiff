@@ -23998,7 +23998,7 @@ QuestInfoList = {
 		Summary = "Caza a los monstruos indicados"
 	},
 	[8654] = {
-		Title = "x",
+		Title = "[Espera] Niños con muñecas",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Una misión diaria. Se puede repetir cuando se acabe el tiempo de espera. Dile a <NAVI>[Mila]<INFO>niflheim,164,102,0,101,0</INFO></NAVI> que aceptas."

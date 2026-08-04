@@ -1,5 +1,3 @@
-
-
 GuideMonster.TitleText = "Monster"
 GuideMonster.MainMenuIndex = 2
 GuideMonster.MainMenuTitle = "Monster"

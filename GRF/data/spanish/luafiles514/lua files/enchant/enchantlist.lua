@@ -1,4 +1,3 @@
-
 Table[1] = CreateEnchantInfo()
 Table[1]:SetSlotOrder(3, 2, 1)
 Table[1]:AddTargetItem("Gray_W_Suits")

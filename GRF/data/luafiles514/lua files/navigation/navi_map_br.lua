@@ -1,4 +1,3 @@
-
 Navi_Map = {
 	{
 		"06guild_01",

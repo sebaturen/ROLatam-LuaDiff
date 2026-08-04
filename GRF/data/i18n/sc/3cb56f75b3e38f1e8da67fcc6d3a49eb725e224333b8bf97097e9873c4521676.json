@@ -121,12 +121,12 @@
     },
     "mN1TDQ": {
         "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 10>If the owner posted a request, he could've at least told me!</FONT>\nCould you please wait a moment, dear customer?\nI'll call the owner for...",
-        "pt-BR": "[Funcionário da Carpintaria]\n<FONT SIZE = 10>Ora, se o chefe fez um pedido, podia ao menos ter me avisado!</FONT>\nPoderia aguardar um instante, caro cliente?\nVou chamar o chefe para…",
+        "pt-BR": "[Funcionário da Carpintaria]\nOra, se o chefe fez um pedido, podia ao menos ter me avisado!\nPoderia aguardar um instante, caro cliente?\nVou chamar o chefe para…",
         "es-ES": "[Empleado de carpintería]\n<FONT SIZE = 10>¡Si el jefe había publicado un encargo, al menos podría haberme avisado!</FONT>\n¿Podría esperar un momento, estimado cliente?\nVoy a llamar al jefe…"
     },
     "md1TDQ": {
         "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 14>No, that man has gone out again!!</FONT>\n<FONT SIZE = 10>Don't tell me he went to the forest again!</FONT>\nI can't deal with this!!!",
-        "pt-BR": "[Funcionário da Carpintaria]\n<FONT SIZE = 14>Ora, aquele sujeito saiu de novo!!</FONT>\n<FONT SIZE = 10>Será que foi para a floresta outra vez?</FONT>\nAssim não dá mesmo!!!",
+        "pt-BR": "[Funcionário da Carpintaria]\n<FONT SIZE = 14>Ora, aquele sujeito saiu de novo!!\nSerá que foi para a floresta outra vez?\nAssim não dá mesmo!!!",
         "es-ES": "[Empleado de carpintería]\n<FONT SIZE = 14>¡Pero este hombre ha vuelto a salir!</FONT>\n<FONT SIZE = 10>¿Será que se ha ido otra vez al bosque?</FONT>\n¡¡¡No puedo más, de verdad!!!"
     },
     "mt1TDQ": {
@@ -796,7 +796,7 @@
     },
     "H95TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 10>What?</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 10>O quê?</FONT>",
+        "pt-BR": "[Cheol-ho]\nO quê?",
         "es-ES": "[Cheol-ho]\n<FONT SIZE = 10>¿El qué?</FONT>"
     },
     "IN5TDQ": {

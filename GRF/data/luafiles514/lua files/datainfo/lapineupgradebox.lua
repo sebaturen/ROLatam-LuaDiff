@@ -13346,7 +13346,7 @@ tblLapineUpgradeBox = {
 					24682
 				}
 			},
-			NeedSource_String = "Maximum Mammoth Shadows"
+			NeedSource_String = "Mastodonte"
 		},
 		M_Blitz_Shadow_Up = {
 			ItemID = 101261,
@@ -13490,7 +13490,7 @@ tblLapineUpgradeBox = {
 					24668
 				}
 			},
-			NeedSource_String = "Full Penetration, Tempest Shadows"
+			NeedSource_String = "Tempestivo/Penetrante"
 		},
 		InfinityShadow_Up = {
 			ItemID = 101311,
@@ -13587,7 +13587,7 @@ tblLapineUpgradeBox = {
 			NeedRefineMin = 0,
 			NeedRefineMax = 11,
 			NeedOptionNumMin = 0,
-			NotSocketEnchantItem = true,
+			NotSocketEnchantItem = false,
 			TargetItems = {
 				{
 					"Old_Rune_Circlet",
@@ -15446,7 +15446,7 @@ tblLapineUpgradeBox = {
 		Hero_Refine_Cube_LT = {
 			ItemID = 106431,
 			NeedRefineMin = 0,
-			NeedRefineMax = 8,
+			NeedRefineMax = 7,
 			NeedOptionNumMin = 0,
 			NotSocketEnchantItem = false,
 			TargetItems = {
@@ -19521,14 +19521,6 @@ tblLapineUpgradeBox = {
 				{
 					"Adulter_F_Hall",
 					590022
-				},
-				{
-					"Adulter_F_N_Hall",
-					590105
-				},
-				{
-					"Adulter_F_N_Axe",
-					520049
 				}
 			},
 			NeedSource_String = "Arma da Crença Falsa"
@@ -19695,14 +19687,6 @@ tblLapineUpgradeBox = {
 				{
 					"Adulter_F_Hall",
 					590022
-				},
-				{
-					"Adulter_F_N_Hall",
-					590105
-				},
-				{
-					"Adulter_F_N_Axe",
-					520049
 				}
 			},
 			NeedSource_String = "Arma da Crença Falsa"
@@ -19869,14 +19853,6 @@ tblLapineUpgradeBox = {
 				{
 					"Vivatus_F_Humma",
 					650022
-				},
-				{
-					"Vivatus_F_N_Axe",
-					520050
-				},
-				{
-					"Vivatus_F_N_Hall",
-					590106
 				}
 			},
 			NeedSource_String = "Arma da Crença Purificada"
@@ -20043,14 +20019,6 @@ tblLapineUpgradeBox = {
 				{
 					"Vivatus_F_Humma",
 					650022
-				},
-				{
-					"Vivatus_F_N_Axe",
-					520050
-				},
-				{
-					"Vivatus_F_N_Hall",
-					590106
 				}
 			},
 			NeedSource_String = "Arma da Crença Purificada"
@@ -20701,7 +20669,7 @@ tblLapineUpgradeBox = {
 					24746
 				}
 			},
-			NeedSource_String = "Sombrio Escudo de Recarga Separada"
+			NeedSource_String = "Escudo Sombrio da Recarga"
 		},
 		M_Blitz_Shadow_Up = {
 			ItemID = 101261,
@@ -20719,7 +20687,7 @@ tblLapineUpgradeBox = {
 					24768
 				}
 			},
-			NeedSource_String = "Sombrio Mega Blitz"
+			NeedSource_String = "Sombrio Mega Repente"
 		},
 		Absorb_Shadow_Up = {
 			ItemID = 101262,
@@ -20755,7 +20723,7 @@ tblLapineUpgradeBox = {
 					24770
 				}
 			},
-			NeedSource_String = "Sombrio de Experiência"
+			NeedSource_String = "Sombrio de EXP"
 		},
 		InfinityShadow_Up = {
 			ItemID = 101311,
@@ -20774,6 +20742,141 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Sombrio do Infinito"
+		},
+		MD_Geffen_Rarmor = {
+			ItemID = 100365,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Suits",
+					450149
+				},
+				{
+					"MD_Geffen_Robe",
+					450150
+				}
+			},
+			NeedSource_String = "Acessório de Poder Mágico Ardente"
+		},
+		MD_Geffen_Rhood = {
+			ItemID = 100366,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Hood",
+					480065
+				},
+				{
+					"MD_Geffen_Hood2",
+					480066
+				},
+				{
+					"MD_Geffen_Hood3",
+					480067
+				},
+				{
+					"MD_Geffen_Hood4",
+					480068
+				}
+			},
+			NeedSource_String = "Acessório de Poder Mágico Afundado"
+		},
+		MD_Geffen_Racc = {
+			ItemID = 100367,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Ring",
+					490077
+				},
+				{
+					"MD_Geffen_Ring2",
+					490078
+				}
+			},
+			NeedSource_String = "Acessório de Poder Mágico do Crescimento"
+		},
+		MD_Geffen_Rsheild = {
+			ItemID = 100368,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Geffen_Shield",
+					460005
+				},
+				{
+					"MD_Geffen_Shield2",
+					460006
+				}
+			},
+			NeedSource_String = "Acessório de Poder Mágico Brilhante"
+		},
+		MD_Airboat_Random = {
+			ItemID = 100476,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"MD_Airboat_Boots",
+					470071
+				},
+				{
+					"MD_Airboat_Boots2",
+					470072
+				},
+				{
+					"MD_Airboat_Boots3",
+					470073
+				},
+				{
+					"MD_Airboat_Boots4",
+					470074
+				},
+				{
+					"MD_Airboat_Boots5",
+					470076
+				},
+				{
+					"MD_Airboat_Boots6",
+					470077
+				}
+			},
+			NeedSource_String = "Poder Mágico Desconhecido"
+		},
+		True_GemShadow_Up = {
+			ItemID = 101308,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_TrueGem_Pendant",
+					24678
+				},
+				{
+					"S_TrueGem_Earring",
+					24677
+				},
+				{
+					"S_TrueGem_Shoes",
+					24676
+				},
+				{
+					"S_TrueGem_Armor",
+					24675
+				}
+			},
+			NeedSource_String = "Pedras Preciosas"
 		}
 	},
 	get_lapine_box = function(in_box_id)

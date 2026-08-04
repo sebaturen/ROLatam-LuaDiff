@@ -173,7 +173,7 @@ PCJobNameTableMan = {
 	[JOBID.JT_SKY_EMPEROR] = "Emperador Celestial",
 	[JOBID.JT_SOUL_ASCETIC] = "Asceta de Almas",
 	[JOBID.JT_SHINKIRO] = "Shinkiro",
-	[JOBID.JT_NIGHT_WATCH] = "Vigilante Nocturno",
+	[JOBID.JT_NIGHT_WATCH] = "Guerrillero",
 	[JOBID.JT_HYPER_NOVICE] = "Hiperprincipiante",
 	[JOBID.JT_SPIRIT_HANDLER] = "Animista"
 }
@@ -352,7 +352,7 @@ PCJobNameTableWoman = {
 	[JOBID.JT_SKY_EMPEROR] = "Emperatriz Celestial",
 	[JOBID.JT_SOUL_ASCETIC] = "Asceta de Almas",
 	[JOBID.JT_SHIRANUI] = "Shiranui",
-	[JOBID.JT_NIGHT_WATCH] = "Vigilante Nocturna",
+	[JOBID.JT_NIGHT_WATCH] = "Guerrillera",
 	[JOBID.JT_HYPER_NOVICE] = "Hiperprincipiante",
 	[JOBID.JT_SPIRIT_HANDLER] = "Animista"
 }

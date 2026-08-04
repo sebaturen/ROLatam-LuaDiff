@@ -1,4 +1,3 @@
-
 tbl = {
 	[1] = {
 		unidentifiedDisplayName = "¸Ó¸®¶ì",

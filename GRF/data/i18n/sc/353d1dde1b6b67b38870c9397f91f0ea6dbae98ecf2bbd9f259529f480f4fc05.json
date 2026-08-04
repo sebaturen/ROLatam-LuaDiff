@@ -4821,8 +4821,8 @@
     },
     "BEjTAg": {
         "en-US": "Huuma Thunderstorm",
-        "pt-BR": "[Artisan Tene]\nMudou de ideia? Muito bem. Espero vê-lo mais tarde.",
-        "es-ES": "[Artesano Tene]\n¿Cambiaste de opinión? Muy bien. Espero verte más adelante."
+        "pt-BR": "[Artisan Tene] Mudou de ideia? Muito bem. Espero vê-lo mais tarde.",
+        "es-ES": "[Artesano Tene] ¿Cambiaste de opinión? Muy bien. Espero verte más adelante."
     },
     "BUjTAg": {
         "en-US": "[Artisan Tene]\nChanged your mind? Very well. Hope to see you later.",
@@ -4876,8 +4876,8 @@
     },
     "D0jTAg": {
         "en-US": "Huuma Thunderstorm",
-        "pt-BR": "[Artisan Tene]\nEntão você quer adicionar uma opção à sua armadura. Isso custará ^E14A1E100.000 Zeny por um serviço de 1 vez^000000.",
-        "es-ES": "[Artesano Tene]\nAsí que quieres agregar una opción a tu Armadura. Serían ^E14A1E100 000 zeny por ser tu primera compra^000000."
+        "pt-BR": "[Artisan Tene] Então você quer adicionar uma opção à sua armadura. Isso custará ^E14A1E100.000 Zeny por um serviço de 1 vez^000000.",
+        "es-ES": "[Artesano Tene] Así que quieres agregar una opción a tu Armadura. Serían ^E14A1E100 000 zeny por ser tu primera compra^000000."
     },
     "EEjTAg": {
         "en-US": "[Artisan Tene]\nWhich armor do you want an option attached to?",
@@ -4961,8 +4961,8 @@
     },
     "IEjTAg": {
         "en-US": "Special Ninja Suit [1]",
-        "pt-BR": "[Artisan Tene]\nVocê deseja remover uma opção de seu item. Você não gostou da opção?",
-        "es-ES": "[Artesano Tene]\nQuieres quitar una opción de tu objeto. ¿No te gustó la opción?"
+        "pt-BR": "[Artisan Tene] Você deseja remover uma opção de seu item. Você não gostou da opção?",
+        "es-ES": "[Artesano Tene] Quieres quitar una opción de tu objeto. ¿No te gustó la opción?"
     },
     "IUjTAg": {
         "en-US": "[Artisan Tene]\nSorry. Because I’m still not good enough, you end up paying such an expensive cost again.",

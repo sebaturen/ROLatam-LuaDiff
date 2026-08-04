@@ -51115,6 +51115,44 @@ tbl = {
 			group = 0
 		}
 	},
+	[101041] = {
+		{
+			id = 24674,
+			prob = 1,
+			name = "Mammoth Shadow Shield",
+			group = 0
+		},
+		{
+			id = 24670,
+			prob = 1,
+			name = "Mammoth Shadow Shoes",
+			group = 0
+		},
+		{
+			id = 24669,
+			prob = 1,
+			name = "Mammoth Shadow Armor",
+			group = 0
+		},
+		{
+			id = 24673,
+			prob = 1,
+			name = "Mammoth Shadow Gloves",
+			group = 0
+		},
+		{
+			id = 24672,
+			prob = 1,
+			name = "Mammoth Shadow Earring",
+			group = 0
+		},
+		{
+			id = 24671,
+			prob = 1,
+			name = "Mammoth Shadow Pendant",
+			group = 0
+		}
+	},
 	[101042] = {
 		{
 			id = 24085,
@@ -51680,6 +51718,212 @@ tbl = {
 			id = 23899,
 			prob = 300,
 			name = "[Event] Almighty",
+			group = 6
+		}
+	},
+	[101314] = {
+		{
+			id = 400178,
+			prob = 10,
+			name = "Helm of Faith (Warlock) [1]",
+			group = 6
+		},
+		{
+			id = 400179,
+			prob = 10,
+			name = "Helm of Faith (Warlock) II [1]",
+			group = 6
+		},
+		{
+			id = 400180,
+			prob = 10,
+			name = "Helm of Faith (Sura) [1]",
+			group = 6
+		},
+		{
+			id = 400181,
+			prob = 10,
+			name = "Helm of Faith (Sura) II [1]",
+			group = 6
+		},
+		{
+			id = 400189,
+			prob = 10,
+			name = "Helm of Faith (Archbishop) [1]",
+			group = 6
+		},
+		{
+			id = 400190,
+			prob = 10,
+			name = "Helm of Faith (Archbishop) II [1]",
+			group = 6
+		},
+		{
+			id = 400191,
+			prob = 10,
+			name = "Helm of Faith (Shadow Chaser) [1]",
+			group = 6
+		},
+		{
+			id = 400192,
+			prob = 10,
+			name = "Helm of Faith (Shadow Chaser) II [1]",
+			group = 6
+		},
+		{
+			id = 400198,
+			prob = 10,
+			name = "Helm of Faith (Ranger) [1]",
+			group = 6
+		},
+		{
+			id = 400199,
+			prob = 10,
+			name = "Helm of Faith (Ranger) II [1]",
+			group = 6
+		},
+		{
+			id = 400200,
+			prob = 10,
+			name = "Helm of Faith (Royal Guard) [1]",
+			group = 6
+		},
+		{
+			id = 400201,
+			prob = 10,
+			name = "Helm of Faith (Royal Guard) II [1]",
+			group = 6
+		},
+		{
+			id = 400216,
+			prob = 10,
+			name = "Helm of Faith (Guillotine Cross) [1]",
+			group = 6
+		},
+		{
+			id = 400217,
+			prob = 10,
+			name = "Helm of Faith (Guillotine Cross) II [1]",
+			group = 6
+		},
+		{
+			id = 400218,
+			prob = 10,
+			name = "Helm of Faith (Sorcerer) [1]",
+			group = 6
+		},
+		{
+			id = 400219,
+			prob = 10,
+			name = "Helm of Faith (Sorcerer) II [1]",
+			group = 6
+		},
+		{
+			id = 400226,
+			prob = 10,
+			name = "Helm of Faith (Rune Knight) [1]",
+			group = 6
+		},
+		{
+			id = 400227,
+			prob = 10,
+			name = "Helm of Faith (Rune Knight) II [1]",
+			group = 6
+		},
+		{
+			id = 400228,
+			prob = 10,
+			name = "Helm of Faith (Minstrel & Wanderer) [1]",
+			group = 6
+		},
+		{
+			id = 400229,
+			prob = 10,
+			name = "Helm of Faith (Minstrel & Wanderer) II [1]",
+			group = 6
+		},
+		{
+			id = 400230,
+			prob = 10,
+			name = "Helm of Faith (Mechanic) [1]",
+			group = 6
+		},
+		{
+			id = 400231,
+			prob = 10,
+			name = "Helm of Faith (Mechanic) II [1]",
+			group = 6
+		},
+		{
+			id = 400233,
+			prob = 10,
+			name = "Helm of Faith (Genetic) [1]",
+			group = 6
+		},
+		{
+			id = 400234,
+			prob = 10,
+			name = "Helm of Faith (Genetic) II [1]",
+			group = 6
+		},
+		{
+			id = 400235,
+			prob = 10,
+			name = "Ninja Faith Helm [1]",
+			group = 6
+		},
+		{
+			id = 400236,
+			prob = 10,
+			name = "Ninja Faith Helm II [1]",
+			group = 6
+		},
+		{
+			id = 400237,
+			prob = 10,
+			name = "Rebel Faith Helm [1]",
+			group = 6
+		},
+		{
+			id = 400238,
+			prob = 10,
+			name = "Rebel Faith Helm II [1]",
+			group = 6
+		},
+		{
+			id = 400239,
+			prob = 10,
+			name = "Spiritual Faith Helm [1]",
+			group = 6
+		},
+		{
+			id = 400240,
+			prob = 10,
+			name = "Spiritual Faith Helm II [1]",
+			group = 6
+		},
+		{
+			id = 400241,
+			prob = 10,
+			name = "Celestial Faith Helm [1]",
+			group = 6
+		},
+		{
+			id = 400242,
+			prob = 10,
+			name = "Celestial Faith Helm II [1]",
+			group = 6
+		},
+		{
+			id = 400243,
+			prob = 10,
+			name = "Feline Faith Helm [1]",
+			group = 6
+		},
+		{
+			id = 400244,
+			prob = 10,
+			name = "Feline Faith Helm II [1]",
 			group = 6
 		}
 	},
@@ -56681,13 +56925,13 @@ tbl = {
 		{
 			id = 480802,
 			prob = 150,
-			name = "[Costume] Floating Tao Gunka",
+			name = "[Costume] Joyful Taogunka",
 			group = 6
 		},
 		{
 			id = 480807,
 			prob = 300,
-			name = "[Costume] Mockery Shield",
+			name = "[Costume] Petulant Shield",
 			group = 6
 		},
 		{
@@ -56699,13 +56943,13 @@ tbl = {
 		{
 			id = 31432,
 			prob = 500,
-			name = "[Costume] Loomin's Ice",
+			name = "[Costume] Floating Ice",
 			group = 6
 		},
 		{
 			id = 420775,
 			prob = 650,
-			name = "[Costume] Petal Twin Wig",
+			name = "[Costume] Petal Wig",
 			group = 6
 		},
 		{
@@ -56717,31 +56961,31 @@ tbl = {
 		{
 			id = 31611,
 			prob = 650,
-			name = "[Costume] Dark Snake Lord Stall",
+			name = "[Costume] Dark Snake Lord Stole",
 			group = 6
 		},
 		{
 			id = 20071,
 			prob = 800,
-			name = "[Costume] Worg Puppy",
+			name = "[Costume] Warg in Mouth",
 			group = 6
 		},
 		{
 			id = 31480,
 			prob = 800,
-			name = "[Costume] Sleepy Gioia",
+			name = "[Costume] Floating Gioia",
 			group = 6
 		},
 		{
 			id = 20460,
 			prob = 800,
-			name = "[Costume] Thorny Rose Tiara",
+			name = "[Costume] Thornbush Hairband",
 			group = 6
 		},
 		{
 			id = 400739,
 			prob = 800,
-			name = "[Costume] Marin Beret",
+			name = "[Costume] Archangeling Bread Hat",
 			group = 6
 		},
 		{
@@ -56765,7 +57009,7 @@ tbl = {
 		{
 			id = 20069,
 			prob = 900,
-			name = "[Costume] Gryphon Headband",
+			name = "[Costume] Gryphon Hairband",
 			group = 6
 		}
 	},
@@ -66603,19 +66847,19 @@ tbl = {
 		{
 			id = 23375,
 			prob = 0,
-			name = "Unknown Item 10",
+			name = "Water Armor Scroll 10",
 			group = 0
 		},
 		{
 			id = 23374,
 			prob = 0,
-			name = "Unknown Item 10",
+			name = "Fire Armor Scroll 10",
 			group = 0
 		},
 		{
 			id = 23377,
 			prob = 0,
-			name = "Unknown Item 10",
+			name = "Earth Armor Scroll 10",
 			group = 0
 		},
 		{
@@ -74923,7 +75167,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -75183,7 +75427,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -75673,7 +75917,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -75933,7 +76177,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -76629,7 +76873,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -76889,7 +77133,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -77489,7 +77733,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -77749,7 +77993,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -78383,7 +78627,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -78643,7 +78887,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 9,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -78971,7 +79215,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 45,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -79225,7 +79469,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 45,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -79275,7 +79519,7 @@ tbl = {
 		{
 			id = 480801,
 			prob = 10,
-			name = "Outfit: Haty Bebe Backpack",
+			name = "[Costume] Hatii's Backpack",
 			group = 0
 		}
 	},
@@ -79559,7 +79803,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 45,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -79813,7 +80057,7 @@ tbl = {
 		{
 			id = 7925,
 			prob = 45,
-			name = "Powerful Dimensional Essence",
+			name = "Dimensional Core",
 			group = 6
 		},
 		{
@@ -79923,6 +80167,514 @@ tbl = {
 			prob = 0,
 			name = "[Not for Sale]Expanded Oval Artifact 2",
 			group = 0
+		}
+	},
+	[107823] = {
+		{
+			id = 1000274,
+			prob = 10,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Event] Blessing Of Tyr 5",
+			group = 6
+		},
+		{
+			id = 23312,
+			prob = 1400,
+			name = "Chemical Products Briefcase 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1400,
+			name = "Coin Holder 2",
+			group = 6
+		},
+		{
+			id = 102547,
+			prob = 1400,
+			name = "Amethyst Fragment Box 2",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Golden Potion  3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Event] Small Mana Potion 2",
+			group = 6
+		},
+		{
+			id = 12515,
+			prob = 950,
+			name = "[Event] Medium Life Potion 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Force Booster 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 101047,
+			prob = 600,
+			name = "Box of 3 Blacksmith Blessings",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 600,
+			name = "Shadow Enhancement Box 3",
+			group = 6
+		},
+		{
+			id = 23204,
+			prob = 600,
+			name = "Scriptures 2",
+			group = 6
+		},
+		{
+			id = 23115,
+			prob = 600,
+			name = "Class Shadow Cube",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Shadow Hammer Box",
+			group = 6
+		},
+		{
+			id = 100512,
+			prob = 500,
+			name = "EX Skill Shadow Cube",
+			group = 6
+		},
+		{
+			id = 100198,
+			prob = 500,
+			name = "Skill Shadow Cube",
+			group = 6
+		},
+		{
+			id = 102069,
+			prob = 400,
+			name = "MDEF Piercinge Shadow Cube",
+			group = 6
+		},
+		{
+			id = 102067,
+			prob = 400,
+			name = "DEF Piercing Shadow Cube",
+			group = 6
+		},
+		{
+			id = 101041,
+			prob = 400,
+			name = "Mammoth Shadow Box",
+			group = 6
+		},
+		{
+			id = 101042,
+			prob = 400,
+			name = "Gemstone Shadow Box",
+			group = 6
+		},
+		{
+			id = 101177,
+			prob = 300,
+			name = "Penetrating Tempest Notebook",
+			group = 6
+		},
+		{
+			id = 101308,
+			prob = 300,
+			name = "Precious Stones Notebook",
+			group = 6
+		},
+		{
+			id = 101264,
+			prob = 300,
+			name = "Mastodon Notebook",
+			group = 6
+		},
+		{
+			id = 101314,
+			prob = 200,
+			name = "Helm of Faith Chest",
+			group = 6
+		},
+		{
+			id = 400134,
+			prob = 200,
+			name = "Ash Warrior Helmet [1]",
+			group = 6
+		},
+		{
+			id = 400141,
+			prob = 200,
+			name = "Ash Sharp Helmet [1]",
+			group = 6
+		},
+		{
+			id = 400146,
+			prob = 200,
+			name = "Ash Magic Helmet [1]",
+			group = 6
+		},
+		{
+			id = 400150,
+			prob = 200,
+			name = "Ash Fighter Helmet [1]",
+			group = 6
+		},
+		{
+			id = 101565,
+			prob = 200,
+			name = "Skill Shadow Selectable Spellbook Box",
+			group = 6
+		},
+		{
+			id = 101306,
+			prob = 80,
+			name = "Pænitentia Refine Hammer",
+			group = 6
+		},
+		{
+			id = 101390,
+			prob = 80,
+			name = "Clock Refine Hammer",
+			group = 6
+		},
+		{
+			id = 460181,
+			prob = 70,
+			name = "Pænitentia Protector [1]",
+			group = 6
+		},
+		{
+			id = 491084,
+			prob = 70,
+			name = "Physical Wolf Amulet [1]",
+			group = 6
+		},
+		{
+			id = 491085,
+			prob = 70,
+			name = "Magical Wolf Amulet [1]",
+			group = 6
+		},
+		{
+			id = 100742,
+			prob = 70,
+			name = "Primordial Weapon Box",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 45,
+			name = "Dimensional Core",
+			group = 6
+		},
+		{
+			id = 480136,
+			prob = 45,
+			name = "Magic Sword of Thanatos [1]",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "High Refine Envelope",
+			group = 6
+		},
+		{
+			id = 470458,
+			prob = 5,
+			name = "Fountain Boots [1]",
+			group = 6
+		},
+		{
+			id = 470459,
+			prob = 5,
+			name = "Chimera Shoes [1]",
+			group = 6
+		}
+	},
+	[107824] = {
+		{
+			id = 1000274,
+			prob = 10,
+			name = "Kachua Coupon",
+			group = 0
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Event] Blessing Of Tyr 5",
+			group = 6
+		},
+		{
+			id = 23312,
+			prob = 1400,
+			name = "Chemical Products Briefcase 2",
+			group = 6
+		},
+		{
+			id = 107334,
+			prob = 1400,
+			name = "Coin Holder 2",
+			group = 6
+		},
+		{
+			id = 102547,
+			prob = 1400,
+			name = "Amethyst Fragment Box 2",
+			group = 6
+		},
+		{
+			id = 12684,
+			prob = 1400,
+			name = "Golden Potion  3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Event] Manual & Gum",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Event] Small Mana Potion 2",
+			group = 6
+		},
+		{
+			id = 12515,
+			prob = 950,
+			name = "[Event] Medium Life Potion 2",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Force Booster 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limited] Token of Siegfried 3",
+			group = 6
+		},
+		{
+			id = 101047,
+			prob = 600,
+			name = "Box of 3 Blacksmith Blessings",
+			group = 6
+		},
+		{
+			id = 23720,
+			prob = 600,
+			name = "Shadow Enhancement Box 3",
+			group = 6
+		},
+		{
+			id = 23204,
+			prob = 600,
+			name = "Scriptures 2",
+			group = 6
+		},
+		{
+			id = 23115,
+			prob = 600,
+			name = "Class Shadow Cube",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Shadow Hammer Box",
+			group = 6
+		},
+		{
+			id = 100512,
+			prob = 500,
+			name = "EX Skill Shadow Cube",
+			group = 6
+		},
+		{
+			id = 100198,
+			prob = 500,
+			name = "Skill Shadow Cube",
+			group = 6
+		},
+		{
+			id = 102069,
+			prob = 400,
+			name = "MDEF Piercinge Shadow Cube",
+			group = 6
+		},
+		{
+			id = 102067,
+			prob = 400,
+			name = "DEF Piercing Shadow Cube",
+			group = 6
+		},
+		{
+			id = 101041,
+			prob = 400,
+			name = "Mammoth Shadow Box",
+			group = 6
+		},
+		{
+			id = 101042,
+			prob = 400,
+			name = "Gemstone Shadow Box",
+			group = 6
+		},
+		{
+			id = 101177,
+			prob = 300,
+			name = "Penetrating Tempest Notebook",
+			group = 6
+		},
+		{
+			id = 101308,
+			prob = 300,
+			name = "Precious Stones Notebook",
+			group = 6
+		},
+		{
+			id = 101264,
+			prob = 300,
+			name = "Mastodon Notebook",
+			group = 6
+		},
+		{
+			id = 101314,
+			prob = 200,
+			name = "Helm of Faith Chest",
+			group = 6
+		},
+		{
+			id = 400134,
+			prob = 200,
+			name = "Ash Warrior Helmet [1]",
+			group = 6
+		},
+		{
+			id = 400141,
+			prob = 200,
+			name = "Ash Sharp Helmet [1]",
+			group = 6
+		},
+		{
+			id = 400146,
+			prob = 200,
+			name = "Ash Magic Helmet [1]",
+			group = 6
+		},
+		{
+			id = 400150,
+			prob = 200,
+			name = "Ash Fighter Helmet [1]",
+			group = 6
+		},
+		{
+			id = 101565,
+			prob = 200,
+			name = "Skill Shadow Selectable Spellbook Box",
+			group = 6
+		},
+		{
+			id = 101306,
+			prob = 80,
+			name = "Pænitentia Refine Hammer",
+			group = 6
+		},
+		{
+			id = 101390,
+			prob = 80,
+			name = "Clock Refine Hammer",
+			group = 6
+		},
+		{
+			id = 460181,
+			prob = 70,
+			name = "Pænitentia Protector [1]",
+			group = 6
+		},
+		{
+			id = 491084,
+			prob = 70,
+			name = "Physical Wolf Amulet [1]",
+			group = 6
+		},
+		{
+			id = 491085,
+			prob = 70,
+			name = "Magical Wolf Amulet [1]",
+			group = 6
+		},
+		{
+			id = 100742,
+			prob = 70,
+			name = "Primordial Weapon Box",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 45,
+			name = "Dimensional Core",
+			group = 6
+		},
+		{
+			id = 480136,
+			prob = 45,
+			name = "Magic Sword of Thanatos [1]",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "High Refine Envelope",
+			group = 6
+		},
+		{
+			id = 470458,
+			prob = 5,
+			name = "Fountain Boots [1]",
+			group = 6
+		},
+		{
+			id = 470459,
+			prob = 5,
+			name = "Chimera Shoes [1]",
+			group = 6
 		}
 	},
 	[200001] = {
@@ -82502,6 +83254,236 @@ tbl = {
 			id = 107788,
 			prob = 10,
 			name = "[Not for Sale]Expanded Oval Artifact 85",
+			group = 0
+		}
+	},
+	[201034] = {
+		{
+			id = 16834,
+			prob = 10,
+			name = "Shadow Armor Scroll (30) 2",
+			group = 0
+		},
+		{
+			id = 16836,
+			prob = 10,
+			name = "Holy Armor Scroll (30) 2",
+			group = 0
+		},
+		{
+			id = 16851,
+			prob = 10,
+			name = "Mystical Amplification Scroll (50) 2",
+			group = 0
+		},
+		{
+			id = 12208,
+			prob = 10,
+			name = "Battle Manual 10",
+			group = 0
+		},
+		{
+			id = 14606,
+			prob = 10,
+			name = "Job Manual 25",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Event] Flower Oval Artifact 6",
+			group = 0
+		}
+	},
+	[201035] = {
+		{
+			id = 6909,
+			prob = 10,
+			name = "Nyangvine 50",
+			group = 0
+		},
+		{
+			id = 23375,
+			prob = 10,
+			name = "Water Armor Scroll 20",
+			group = 0
+		},
+		{
+			id = 23374,
+			prob = 10,
+			name = "Fire Armor Scroll 20",
+			group = 0
+		},
+		{
+			id = 23377,
+			prob = 10,
+			name = "Earth Armor Scroll 20",
+			group = 0
+		},
+		{
+			id = 23376,
+			prob = 10,
+			name = "Wind Armor Scroll 20",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Event] Flower Oval Artifact 6",
+			group = 0
+		}
+	},
+	[201036] = {
+		{
+			id = 200585,
+			prob = 0,
+			name = "Premium Special Package",
+			group = 0
+		},
+		{
+			id = 17921,
+			prob = 0,
+			name = "Kafra Storage Bell Box",
+			group = 0
+		},
+		{
+			id = 17920,
+			prob = 0,
+			name = "Tool Merchant Bell Box",
+			group = 0
+		}
+	},
+	[201037] = {
+		{
+			id = 7619,
+			prob = 10,
+			name = "Enriched Elunium 35",
+			group = 0
+		},
+		{
+			id = 7620,
+			prob = 10,
+			name = "Enriched Oridecon 35",
+			group = 0
+		},
+		{
+			id = 6240,
+			prob = 10,
+			name = "HD Oridecon 10",
+			group = 0
+		},
+		{
+			id = 6241,
+			prob = 10,
+			name = "HD Elunium 10",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Event] Flower Oval Artifact 6",
+			group = 0
+		}
+	},
+	[201038] = {
+		{
+			id = 101238,
+			prob = 10,
+			name = "[Event]Kafra Buff (7 Days)",
+			group = 0
+		},
+		{
+			id = 25793,
+			prob = 10,
+			name = "Invent Expand Coupon 5",
+			group = 0
+		},
+		{
+			id = 7776,
+			prob = 10,
+			name = "Gym Pass 5",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Event] Flower Oval Artifact 6",
+			group = 0
+		}
+	},
+	[201040] = {
+		{
+			id = 23204,
+			prob = 10,
+			name = "Scriptures 50",
+			group = 0
+		},
+		{
+			id = 14614,
+			prob = 10,
+			name = "Special Defense Potion 20",
+			group = 0
+		},
+		{
+			id = 103272,
+			prob = 10,
+			name = "[Event] Celestial Elixir 20",
+			group = 0
+		},
+		{
+			id = 103273,
+			prob = 10,
+			name = "[Event] Force Booster 20",
+			group = 0
+		},
+		{
+			id = 201039,
+			prob = 10,
+			name = "Winners' Selectables",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Event] Flower Oval Artifact 6",
+			group = 0
+		}
+	},
+	[201041] = {
+		{
+			id = 12516,
+			prob = 10,
+			name = "[Event] Minor Life Potion 100",
+			group = 0
+		},
+		{
+			id = 12515,
+			prob = 10,
+			name = "[Event] Medium Life Potion 100",
+			group = 0
+		},
+		{
+			id = 9610,
+			prob = 10,
+			name = "[Event] Mysterious Water 100",
+			group = 0
+		},
+		{
+			id = 101367,
+			prob = 10,
+			name = "[Special] Small Mana Potion 50",
+			group = 0
+		},
+		{
+			id = 201039,
+			prob = 10,
+			name = "Winners' Selectables",
+			group = 0
+		},
+		{
+			id = 107824,
+			prob = 10,
+			name = "[Event] Flower Oval Artifact 6",
 			group = 0
 		}
 	}

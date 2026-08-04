@@ -357,7 +357,7 @@ SignBoardList_string = {
 	[971] = {
 		CONTENTS = "  Passe de Batalha"
 	},
-	[972] = {CONTENTS = "  Miss?es"},
+	[972] = {CONTENTS = "  Missões"},
 	[973] = {
 		CONTENTS = "  Materiais"
 	},

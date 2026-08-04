@@ -1,4 +1,3 @@
-
 Config = {StartDate = 20260723, EndDate = 20260817}
 Reward = {
 	{
