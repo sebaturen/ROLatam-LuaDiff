@@ -21,26 +21,22 @@ RecommendedQuestInfoList = {
 			"^ff0000* This page is not the actual Quest page but an introduction for it. It won't be deleted, even if you complete the quest.^000000"
 		}
 	},
-	[2] = {
-		Title = "Episode 17.2: The Sage's Legacy",
-		IconName = "ico_ep.bmp",
-		Summary = "Don't fall behind the vanguard team...",
-		NpcSpr = "4_M_ROOKIE",
-		NpcNavi = "sp_cor",
-		NpcPosX = 255,
-		NpcPosY = 285,
-		BgName = "reco_03.bmp",
+	[10000] = {
+		Title = "Airship Crash Site",
+		IconName = "ico_sc.bmp",
+		Summary = "A story at the site where the airship crashed",
+		NpcSpr = "4_M_FAIRYANG",
+		BgName = "reco_10000.bmp",
 		QuestInfo1 = {
-			"The passage to Varmunt Mansion is finally open!",
-			"Join the Rebellion, the Secret Wing, and Rekenber company to investigate Illusion."
+			"Through the <NAVI>[Dimensional Gap]<INFO>dali02,137,86,0,101,0</INFO></NAVI> discovered by chance by a Laphine,",
+			"adventurers became able to travel to the site where the airship crashed. Explore the now-forgotten cavern discovered there."
 		},
 		QuestInfo2 = {
-			"Pre-Requisites:",
-			"^990000Episode 17.1^000000 completed",
-			"Level ^990000130 or more^000000"
+			"Requirements",
+			"Adventurers of ^990000Level 215 or higher^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000* This is a notice for new content.^000000"
+			"^ff0000* This page is an update introduction, not a quest. Please note that it will not be removed even if you complete the quest.^000000"
 		}
 	},
 	[84] = {

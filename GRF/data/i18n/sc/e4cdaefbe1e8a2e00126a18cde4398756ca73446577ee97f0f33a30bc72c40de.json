@@ -25,7 +25,7 @@
         "es-ES": "Master Guardian"
     },
     "ZZUXAg": {
-        "en-US": "Mersetzdeitz",
+        "en-US": "Arima",
         "pt-BR": "Arima",
         "es-ES": "Arima"
     },
@@ -205,7 +205,7 @@
         "es-ES": "Byotubes"
     },
     "iZUXAg": {
-        "en-US": "ssss[{0}] guild has conquered Mersetzdeitz in the [{1}] Realm.",
+        "en-US": "ssssThe clan [{0}] has conquered the castle [{1}]",
         "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
         "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
@@ -587,7 +587,7 @@
     "1ZUXAg": {
         "en-US": "[Butler Byohre]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Byohre]\n...\nA Kafra já foi dispensada como ordenado, Vossa Alteza.",
-        "es-ES": "[Mayordomo Byohre]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Byohre]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
     },
     "1pUXAg": {
         "en-US": "[Butler Byohre]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -680,27 +680,43 @@
         "es-ES": "No pasó nada."
     },
     "6JUXAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "6ZUXAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "6pUXAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "65UXAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "7JUXAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "7ZUXAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "7pUXAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "75UXAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

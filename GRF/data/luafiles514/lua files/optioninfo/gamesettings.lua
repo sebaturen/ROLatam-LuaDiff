@@ -697,5 +697,13 @@ Insert]],
 		Title = "/taekwon",
 		TipBoxID = 193,
 		Description = "Exibe o ranking Top 10 de Taekwon."
+	},
+	[63] = {
+		ID = TT_SHOW_CARD_ILLUST_ONOFF,
+		Tab = ETC,
+		Type = ONOFF,
+		Title = "/cardillust",
+		Default = true,
+		Description = "Exibe a ilustração da carta na janela de informações detalhadas."
 	}
 }

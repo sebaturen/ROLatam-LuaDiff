@@ -15,14 +15,14 @@
         "es-ES": "Master Guardian"
     },
     "o6IaAg": {
-        "en-US": "Sacred Palace",
-        "pt-BR": "Palácio do Lago Sagrado",
-        "es-ES": "Palácio do Lago Sagrado"
+        "en-US": "Uturi",
+        "pt-BR": "Uturi",
+        "es-ES": "Uturi"
     },
     "pKIaAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[ Voz Ecoante ]\nValente combatente...\nDeseja retornar ao seu lugar de glória?",
-        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
     },
     "paIaAg": {
         "en-US": "Go back to your stronghold.",
@@ -175,7 +175,7 @@
         "es-ES": "Cherieos"
     },
     "w6IaAg": {
-        "en-US": "ssss[{0}] guild has conquered the Sacred Palace in the [{1}] Realm.",
+        "en-US": "ssssThe clan [{0}] has conquered the castle [{1}]",
         "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
         "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
@@ -557,7 +557,7 @@
     "D6MaAg": {
         "en-US": "[Butler Cherieos]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Cherieos]\n...\nFuncionária Kafra dispensada... mas há algo de que você não gostou?",
-        "es-ES": "[Mayordomo Cherieos]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Cherieos]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
     },
     "EKMaAg": {
         "en-US": "[Butler Cherieos]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -650,27 +650,43 @@
         "es-ES": "No pasó nada."
     },
     "IqMaAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "I6MaAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "JKMaAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "JaMaAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "JqMaAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "J6MaAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "KKMaAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "KaMaAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

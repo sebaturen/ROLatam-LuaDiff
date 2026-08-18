@@ -1,0 +1,902 @@
+{
+    "AGJyDQ": {
+        "en-US": "ROUND{0}",
+        "pt-BR": "RODADA {0}",
+        "es-ES": "RONDA{0}"
+    },
+    "AWJyDQ": {
+        "en-US": "ROUND{0}",
+        "pt-BR": "RODADA {0}",
+        "es-ES": "RONDA{0}"
+    },
+    "AmJyDQ": {
+        "en-US": "Archi",
+        "pt-BR": "Alphard",
+        "es-ES": "Archi"
+    },
+    "A2JyDQ": {
+        "en-US": "Ferocious Wild Dog of the Arena",
+        "pt-BR": "Cão Feroz da Arena",
+        "es-ES": "Ferocidad Animalesca"
+    },
+    "BGJyDQ": {
+        "en-US": "Dio Anemos",
+        "pt-BR": "Sirius",
+        "es-ES": "Dio Anemos"
+    },
+    "BWJyDQ": {
+        "en-US": "Cruel Darkness",
+        "pt-BR": "Escuridão Cruel",
+        "es-ES": "Oscuridad Cruel"
+    },
+    "BmJyDQ": {
+        "en-US": "Geffen Thief",
+        "pt-BR": "Gatuna de Geffen",
+        "es-ES": "Ladrona de Geffen"
+    },
+    "B2JyDQ": {
+        "en-US": "Fair-and-Square",
+        "pt-BR": "Honra e Estilo",
+        "es-ES": "Honor y Estilo"
+    },
+    "CGJyDQ": {
+        "en-US": "Geffen Gangster",
+        "pt-BR": "Bandido de Geffen",
+        "es-ES": "Gánster de Geffen"
+    },
+    "CWJyDQ": {
+        "en-US": "Kindest in the World",
+        "pt-BR": "O mais gentil do mundo",
+        "es-ES": "Pura Amabilidad"
+    },
+    "CmJyDQ": {
+        "en-US": "Geffen Thug",
+        "pt-BR": "Valentão de Geffen",
+        "es-ES": "Matón de Geffen"
+    },
+    "C2JyDQ": {
+        "en-US": "Actually Very Softhearted",
+        "pt-BR": "Mais sensível do que parece",
+        "es-ES": "Pura Sensibilidad"
+    },
+    "DGJyDQ": {
+        "en-US": "Pa Monk",
+        "pt-BR": "Mirzam",
+        "es-ES": "Monja Pa"
+    },
+    "DWJyDQ": {
+        "en-US": "Glutton Who Loves Cured Ham",
+        "pt-BR": "Come de tudo e adora presunto",
+        "es-ES": "Gula y Amor al Jamón"
+    },
+    "DmJyDQ": {
+        "en-US": "Ordre",
+        "pt-BR": "Muliphen",
+        "es-ES": "Ordre"
+    },
+    "D2JyDQ": {
+        "en-US": "Nastier Than He Looks",
+        "pt-BR": "Mais perigosa do que aparenta",
+        "es-ES": "Peligro Oculto"
+    },
+    "EGJyDQ": {
+        "en-US": "Blut Hase",
+        "pt-BR": "Wezen",
+        "es-ES": "Blut Hase"
+    },
+    "EWJyDQ": {
+        "en-US": "Dishonorable Murderer",
+        "pt-BR": "Assassina sem Honra",
+        "es-ES": "Letal y Sin Honor"
+    },
+    "EmJyDQ": {
+        "en-US": "Kuro Akuma",
+        "pt-BR": "Wei",
+        "es-ES": "Kuro Akuma"
+    },
+    "E2JyDQ": {
+        "en-US": "Weakest in This Area",
+        "pt-BR": "O mais fraco da região",
+        "es-ES": "Más Débil de la Zona"
+    },
+    "FGJyDQ": {
+        "en-US": "Ipodus",
+        "pt-BR": "Sargas",
+        "es-ES": "Ipodus"
+    },
+    "FWJyDQ": {
+        "en-US": "Absolutely Hates Group Activities",
+        "pt-BR": "Detesta atividades em grupo",
+        "es-ES": "Odia los Grupos"
+    },
+    "FmJyDQ": {
+        "en-US": "Rechenier",
+        "pt-BR": "Shaula",
+        "es-ES": "Rechenier"
+    },
+    "F2JyDQ": {
+        "en-US": "Never Forgives Anyone Who Approaches from Behind",
+        "pt-BR": "Não perdoa quem se aproxima pelas costas",
+        "es-ES": "No Perdona Ataques Cobardes"
+    },
+    "GGJyDQ": {
+        "en-US": "Odorico",
+        "pt-BR": "Ahdara",
+        "es-ES": "Odorico"
+    },
+    "GWJyDQ": {
+        "en-US": "One Who Conceals Their Footsteps",
+        "pt-BR": "Passos Furtivos",
+        "es-ES": "Pasos Furtivos"
+    },
+    "GmJyDQ": {
+        "en-US": "Jew",
+        "pt-BR": "Procyon",
+        "es-ES": "Juu"
+    },
+    "G2JyDQ": {
+        "en-US": "One who lives by the adage, \"Keep your mace closer than your Book.\"",
+        "pt-BR": "Aquele que vive pelo ditado \"Mantenha sua arma mais perto que o livro.\"",
+        "es-ES": "Armas Antes que Libros"
+    },
+    "HGJyDQ": {
+        "en-US": "D.Y",
+        "pt-BR": "Atria",
+        "es-ES": "Dy"
+    },
+    "HWJyDQ": {
+        "en-US": "Finds Everything in the World Bothersome",
+        "pt-BR": "Acha tudo um incômodo",
+        "es-ES": "Todo le Molesta"
+    },
+    "HmJyDQ": {
+        "en-US": "Fei Kanabian",
+        "pt-BR": "Fay Kanavion",
+        "es-ES": "Fei Kanabian"
+    },
+    "H2JyDQ": {
+        "en-US": "A loner who lost a precious Homunculus.",
+        "pt-BR": "Lamenta a perda de seu precioso Homunculus.",
+        "es-ES": "Perdió su Preciado Homúnculo"
+    },
+    "IGJyDQ": {
+        "en-US": "Alphonse",
+        "pt-BR": "Alfonso",
+        "es-ES": "Alphonse"
+    },
+    "IWJyDQ": {
+        "en-US": "A human who wears a Alphonse disguise as a hobby.",
+        "pt-BR": "Alguém que gosta de se fantasiar de Homunculus.",
+        "es-ES": "Se Disfraza de Homúnculo"
+    },
+    "ImJyDQ": {
+        "en-US": "Fenrir",
+        "pt-BR": "Fenris Fenrir",
+        "es-ES": "Fenrir"
+    },
+    "I2JyDQ": {
+        "en-US": "One Shrouded in Veil",
+        "pt-BR": "Envolta em Mistério",
+        "es-ES": "Aura de Misterio"
+    },
+    "JGJyDQ": {
+        "en-US": "mob_db{0}",
+        "pt-BR": "mob_db{0}",
+        "es-ES": "mob_db{0}"
+    },
+    "JWJyDQ": {
+        "en-US": "mob_disp{0}",
+        "pt-BR": "mob_disp{0}",
+        "es-ES": "mob_disp{0}"
+    },
+    "JmJyDQ": {
+        "en-US": "mob_txt{0}",
+        "pt-BR": "mob_txt{0}",
+        "es-ES": "mob_txt{0}"
+    },
+    "J2JyDQ": {
+        "en-US": "mob_hp{0}",
+        "pt-BR": "mob_hp{0}",
+        "es-ES": "mob_hp{0}"
+    },
+    "KGJyDQ": {
+        "en-US": "rel_rnd{0}",
+        "pt-BR": "rel_rnd{0}",
+        "es-ES": "rel_rnd{0}"
+    },
+    "KWJyDQ": {
+        "en-US": "mob_heal{0}",
+        "pt-BR": "mob_heal{0}",
+        "es-ES": "mob_heal{0}"
+    },
+    "KmJyDQ": {
+        "en-US": "mob_atk{0}",
+        "pt-BR": "mob_atk{0}",
+        "es-ES": "mob_atk{0}"
+    },
+    "K2JyDQ": {
+        "en-US": "mob_matk{0}",
+        "pt-BR": "mob_matk{0}",
+        "es-ES": "mob_matk{0}"
+    },
+    "LGJyDQ": {
+        "en-US": "cnt_cert{0}",
+        "pt-BR": "cnt_cert{0}",
+        "es-ES": "cnt_cert{0}"
+    },
+    "LWJyDQ": {
+        "en-US": "cnt_talisman{0}",
+        "pt-BR": "cnt_talisman{0}",
+        "es-ES": "cnt_talisman{0}"
+    },
+    "LmJyDQ": {
+        "en-US": "cnt_coin{0}",
+        "pt-BR": "cnt_coin{0}",
+        "es-ES": "cnt_coin{0}"
+    },
+    "L2JyDQ": {
+        "en-US": "Healing Disabled / HP Fixed at 1,000,000",
+        "pt-BR": "Cura Desativada / HP Fixo em 1.000.000",
+        "es-ES": "Curación Desactivada / HP fijo en 1 000 000"
+    },
+    "MGJyDQ": {
+        "en-US": "Check Match Table",
+        "pt-BR": "Ver Chaveamento",
+        "es-ES": "Consultar emparejamientos"
+    },
+    "MWJyDQ": {
+        "en-US": "Check Prize Money",
+        "pt-BR": "Ver Premiação",
+        "es-ES": "Consultar premios"
+    },
+    "MmJyDQ": {
+        "en-US": "[4th Class Match Table]",
+        "pt-BR": "[Chaveamento da 4ª Classe]",
+        "es-ES": "[Emparejamientos de la 4.ª clase]"
+    },
+    "M2JyDQ": {
+        "en-US": "Move to Arena",
+        "pt-BR": "Ir para a Arena",
+        "es-ES": "Moverse a la Arena"
+    },
+    "NGJyDQ": {
+        "en-US": "Meter ON",
+        "pt-BR": "Medidor LIGADO",
+        "es-ES": "Medidor ACTIVADO"
+    },
+    "NWJyDQ": {
+        "en-US": "Meter OFF",
+        "pt-BR": "Medidor DESLIGADO",
+        "es-ES": "Medidor DESACTIVADO"
+    },
+    "NmJyDQ": {
+        "en-US": "Shuffle Matchups",
+        "pt-BR": "Embaralhar Chaveamento",
+        "es-ES": "Mezclar emparejamientos"
+    },
+    "N2JyDQ": {
+        "en-US": "Start Over",
+        "pt-BR": "Recomeçar",
+        "es-ES": "Empezar otra vez"
+    },
+    "OGJyDQ": {
+        "en-US": "Continue",
+        "pt-BR": "Continuar",
+        "es-ES": "Continuar"
+    },
+    "OWJyDQ": {
+        "en-US": "{0}-{1}-{2}-{3}-{4}-{5}-{6}-{7}-{8}",
+        "pt-BR": "{0}-{1}-{2}-{3}-{4}-{5}-{6}-{7}-{8}",
+        "es-ES": "{0}-{1}-{2}-{3}-{4}-{5}-{6}-{7}-{8}"
+    },
+    "OmJyDQ": {
+        "en-US": "NO-Coin-Certificate-Champion",
+        "pt-BR": "No-Moeda-Certificado-Campeão",
+        "es-ES": "NO-Moneda-Certificado-Campeón"
+    },
+    "O2JyDQ": {
+        "en-US": "{0} - {1} - {2} - {3}",
+        "pt-BR": "{0} - {1} - {2} - {3}",
+        "es-ES": "{0} - {1} - {2} - {3}"
+    },
+    "PGJyDQ": {
+        "en-US": "You appear to be carrying too many types of items or too much weight. Please organize your inventory.",
+        "pt-BR": "Parece que você possui muitos tipos de itens ou está carregando peso demais. Organize seu inventário.",
+        "es-ES": "Parece que tienes demasiados tipos de objetos o demasiado peso. Ordena tu inventario."
+    },
+    "PWJyDQ": {
+        "en-US": "cnt_cert{0}",
+        "pt-BR": "cnt_cert{0}",
+        "es-ES": "cnt_cert{0}"
+    },
+    "PmJyDQ": {
+        "en-US": "cnt_talisman{0}",
+        "pt-BR": "cnt_talisman{0}",
+        "es-ES": "cnt_talisman{0}"
+    },
+    "P2JyDQ": {
+        "en-US": "cnt_coin{0}",
+        "pt-BR": "cnt_coin{0}",
+        "es-ES": "cnt_coin{0}"
+    },
+    "QGJyDQ": {
+        "en-US": "[White Spear Manager]",
+        "pt-BR": "[Gerente dos Lanças Brancas]",
+        "es-ES": "[Gerente de los Lanzas Blancas]"
+    },
+    "QWJyDQ": {
+        "en-US": "Very few people make it this far. On behalf of WS, I offer you my respect.",
+        "pt-BR": "Pouquíssimas pessoas chegam até aqui. Em nome da WS, eu te dou meus parabéns.",
+        "es-ES": "Muy pocos llegan hasta aquí. En nombre de LB, mis respetos."
+    },
+    "QmJyDQ": {
+        "en-US": "Had you advanced just a little farther, you would have reached the finals. What a shame. Still, it was a truly magnificent match.",
+        "pt-BR": "É uma pena. Se tivessem avançado um pouco mais, teriam chegado à final. Ainda assim, foi uma partida realmente magnífica.",
+        "es-ES": "Una pena, con solo avanzar un poco más, habrían llegado a la final. Pero ha sido una gran pelea."
+    },
+    "Q2JyDQ": {
+        "en-US": "That was quite a decent match. Thank you for giving me something enjoyable to watch.",
+        "pt-BR": "Foi uma partida bastante satisfatória. Agradeço por proporcionar um espetáculo tão agradável.",
+        "es-ES": "Ha sido una pelea bastante buena. Gracias por alegrarme con ese espectáculo."
+    },
+    "RGJyDQ": {
+        "en-US": "You did reasonably well. I hope you achieve a better result next time.",
+        "pt-BR": "Até que se saíram razoavelmente bem. Espero que obtenham um resultado melhor na próxima vez.",
+        "es-ES": "No lo hicieron mal. Espero que la próxima vez obtengan un resultado mejor."
+    },
+    "RWJyDQ": {
+        "en-US": "Would it not be a shame to give up here? Then again, knowing when to take the safe path is also a valuable ability.",
+        "pt-BR": "Não seria uma pena desistir agora? Bem, reconhecer o momento certo para parar também é importante.",
+        "es-ES": "Mmm, ¿no sería una pena rendirse aquí? Aunque saber cuándo buscar el camino seguro también es una habilidad."
+    },
+    "RmJyDQ": {
+        "en-US": "Are you certain? Teams that give up here are extremely rare in a different sense. Regardless, I will respect your decision.",
+        "pt-BR": "É sério? Equipes que desistem depois de chegar até aqui são extremamente raras. De qualquer forma, respeitarei sua decisão.",
+        "es-ES": "¿De verdad? Es muy raro que los equipos que se rindan aquí. En cualquier caso, respetaré su elección."
+    },
+    "R2JyDQ": {
+        "en-US": "[White Spear Manager]\nVery well. I will guide you outside. This way, please.",
+        "pt-BR": "[Gerente dos Lanças Brancas]\nMuito bem, vou conduzi-los para fora. Sigam-me.",
+        "es-ES": "[Gerente de los Lanzas Blancas]\nBien, entonces los guiaré al exterior. Por aquí."
+    },
+    "SGJyDQ": {
+        "en-US": "I will look around a little longer.",
+        "pt-BR": "Vou dar mais uma olhada.",
+        "es-ES": "Miraré un poco más."
+    },
+    "SWJyDQ": {
+        "en-US": "I will leave now.",
+        "pt-BR": "Vou sair agora.",
+        "es-ES": "Saldré ahora."
+    },
+    "SmJyDQ": {
+        "en-US": "[White Spear Manager]\nI cannot wait for too long.",
+        "pt-BR": "[Gerente dos Lanças Brancas]\nNão posso esperar por muito tempo.",
+        "es-ES": "[Gerente de los Lanzas Blancas]\nNo puedo esperar demasiado."
+    },
+    "S2JyDQ": {
+        "en-US": "mob_disp{0}",
+        "pt-BR": "mob_disp{0}",
+        "es-ES": "mob_disp{0}"
+    },
+    "TGJyDQ": {
+        "en-US": "[Menacing Host]\nHmm... Unfortunately, every wager placed on you has been awarded as prize money to ^0000FF{0}^000000.",
+        "pt-BR": "[Apresentador Carrancudo]\nHum... Infelizmente, todo o dinheiro apostado em vocês foi entregue como prêmio a ^0000FF{0}^000000.",
+        "es-ES": "[Presentador Ceñudo]\nMmm... Lamentablemente, todas las apuestas hechas en ustedes se han entregado como premio a ^0000FF{0}^000000."
+    },
+    "TWJyDQ": {
+        "en-US": "[Menacing Host]\nDo not be too discouraged. Another good opportunity may come someday. Another match is scheduled, so I must ask you to leave this area.",
+        "pt-BR": "[Apresentador Carrancudo]\nNão fiquem tão desanimados. Vocês terão outra oportunidade no futuro. Peço que deixem o local pois a próxima partida já está agendada.",
+        "es-ES": "[Presentador Ceñudo]\nNo se pongan tristes. Habrá buenas oportunidades más adelante. Les pido que abandonen el lugar. La próxima partida ya está programada."
+    },
+    "TmJyDQ": {
+        "en-US": "[Menacing Host]\nSpeak with the ^0000FFWhite Spear Manager^000000 standing over there regarding the prize payment and exit procedure.",
+        "pt-BR": "[Apresentador Carrancudo]\nPara receber o prêmio e sair da arena, conversem com a ^0000FFGerente dos Lanças Brancas^000000 que está ali.",
+        "es-ES": "[Presentador Ceñudo]\nPara recibir el premio y salir de la arena, hablen con el ^0000FFGerente de los Lanzas Blancas^000000, que está allí."
+    },
+    "T2JyDQ": {
+        "en-US": "[Menacing Host]\nHey, where did your party leader go? We do not have time, so bring them back quickly.",
+        "pt-BR": "[Apresentador Carrancudo]\nEi, onde foi parar o líder do seu grupo? Não temos muito tempo, traga-o de volta logo.",
+        "es-ES": "[Presentador Ceñudo]\nOye, ¿dónde está líder del tu grupo? No tenemos tiempo, así que tráelo rápido."
+    },
+    "UGJyDQ": {
+        "en-US": "[Menacing Host]\nThe numbers do not match. Where did the rest of your party go?",
+        "pt-BR": "[Apresentador Carrancudo]\nO número de participantes não está correto. Onde foram parar os demais?",
+        "es-ES": "[Presentador Ceñudo]\nEl número de participantes no es el correcto. ¿Adónde han ido los demás?"
+    },
+    "UWJyDQ": {
+        "en-US": "[Menacing Host]\nOh, new challengers? Let us check the number of participants first.",
+        "pt-BR": "[Apresentador Carrancudo]\nOh, novos desafiantes? Primeiro, vamos conferir o número de participantes.",
+        "es-ES": "[Presentador Ceñudo]\nOh, ¿nuevos aspirantes? Primero comprobemos el número de participantes."
+    },
+    "UmJyDQ": {
+        "en-US": "[Menacing Host]",
+        "pt-BR": "[Apresentador Carrancudo]",
+        "es-ES": "[Presentador Ceñudo]"
+    },
+    "U2JyDQ": {
+        "en-US": "You came alone. Your courage is admirable, but this will be difficult. We can begin the match immediately, unless you need some time to prepare.",
+        "pt-BR": "Veio sozinho. Sua coragem é admirável, mas não será fácil. A partida pode começar agora mesmo, a não ser que precise de tempo para se preparar.",
+        "es-ES": "Has venido solo. Tu valor es digno de elogio, pero será difícil. La pelea puede empezar ahora mismo. ¿O necesitas algo de tiempo para prepararte?"
+    },
+    "VGJyDQ": {
+        "en-US": "There are {0} of you in total. Shall I register you as you are and begin, or do you need some time to prepare?",
+        "pt-BR": "São {0} pessoas ao todo. Deseja registrar o grupo assim e prosseguir? Ou precisa de um pouco de tempo para se preparar?",
+        "es-ES": "Son {0} personas en total. ¿Quieres registrar así el grupo y continuar? ¿O necesitan algo de tiempo para prepararse?"
+    },
+    "VWJyDQ": {
+        "en-US": "Wait a moment!",
+        "pt-BR": "Espere um pouco!",
+        "es-ES": "¡Espera un momento!"
+    },
+    "VmJyDQ": {
+        "en-US": "Start immediately",
+        "pt-BR": "Comece agora",
+        "es-ES": "Empezar ya"
+    },
+    "V2JyDQ": {
+        "en-US": "[Menacing Host]\nHey! The guests are waiting. Hurry up and get ready.",
+        "pt-BR": "[Apresentador Carrancudo]\nEi! O público está esperando. Andem logo com os preparativos.",
+        "es-ES": "[Presentador Ceñudo]\nOye! Los clientes están esperando. Apúrense con los preparativos."
+    },
+    "WGJyDQ": {
+        "en-US": "[Menacing Host]\nConsider the first match a warm-up. The opponent in the worst condition today will be sent out against you, so take your time and enjoy it.",
+        "pt-BR": "[Apresentador Carrancudo]\nConsidere a primeira partida um aquecimento. O adversário será aquele que está em pior condição hoje. Relaxe e divirta-se.",
+        "es-ES": "[Presentador Ceñudo]\nPiensa en el primer combate como un calentamiento. El rival será el que hoy esté en peor forma. Relájate y diviértete.\n."
+    },
+    "WWJyDQ": {
+        "en-US": "From this moment onward, {0} and his {1} lackeys will entertain the ladies and gentlemen of the Dark Arena!",
+        "pt-BR": "Senhoras e senhores! A partir de agora, {0} e seus {1} seguidores nos proporcionarão um espetáculo nesta Arena das Trevas!",
+        "es-ES": "¡A partir de ahora, {0} y sus {pt_count_all - 1} acompañantes nos van a ofrecer un espectáculo en esta Arena Oscura!"
+    },
+    "WmJyDQ": {
+        "en-US": "There have always been warriors brave enough to challenge this place alone. However, very few have met a favorable end! Introducing the lone challenger, {0}!!!",
+        "pt-BR": "Há tempos, corajosos guerreiros desafiam este lugar sozinhos. No entanto, poucos alcançam um final feliz! Com vocês, o combatente solitário {0}!!!",
+        "es-ES": "Siempre ha habido valientes que desafían este lugar solos. ¡Pero muy pocas veces han tenido un final feliz! Les presento al luchador solitario: ¡¡¡{0}!!!"
+    },
+    "W2JyDQ": {
+        "en-US": "[Menacing Host]\nHa! Well, I never thought I would see the winner of the final match with my own eyes. I will have to write about this in my diary before bed tonight.",
+        "pt-BR": "[Apresentador Carrancudo]\nHá! Ora vejam! Nunca imaginei que veria com meus próprios olhos um vitorioso no último desafio. Hoje terei que escrever sobre isso em meu diário antes de dormir.",
+        "es-ES": "[Presentador Ceñudo]\n¡Ja! No me imaginaba que vería con mis propios ojos al ganador de la final. Hoy tendré que escribirlo en mi diario antes de dormir."
+    },
+    "XGJyDQ": {
+        "en-US": "[Menacing Host]\nYour next opponent will be far stronger than the previous one. Challenge them if you are confident you can defeat them within ^FF00001 minute^000000.",
+        "pt-BR": "[Apresentador Carrancudo]\nO adversário da próxima partida será muito mais poderoso que o anterior. Desafie-o caso tenha confiança de que poderá derrotá-lo em ^FF00001 minuto^000000.",
+        "es-ES": "[Presentador Ceñudo]\nEl rival del próximo combate será mucho más fuerte que el anterior. Si crees que puedes derrotarlo en ^FF00001 minuto^000000, desafíalo."
+    },
+    "XWJyDQ": {
+        "en-US": "Then again, anyone who would give up at this level of difficulty has no right to be here.",
+        "pt-BR": "Bem, alguém que desiste diante de uma dificuldade desse nível provavelmente nem merece estar aqui.",
+        "es-ES": "Aunque, si vas a rendirte con este nivel de dificultad, habría que decir que no tienes derecho a estar aquí."
+    },
+    "XmJyDQ": {
+        "en-US": "You should start planning carefully when to stop. ^FF0000You would not want to leave without earning a single coin, would you?^000000",
+        "pt-BR": "Já está na hora de planejar cuidadosamente quando parar. ^FF0000Você não vai querer sair daqui sem levar nada, não é?^000000",
+        "es-ES": "Ya es hora de pensar bien cuándo parar.\n^FF0000No querrás salir sin ganar nada, ¿verdad?^000000"
+    },
+    "X2JyDQ": {
+        "en-US": "^FF0000Personally, I recommend stopping now and collecting the prize.^000000 It will become truly difficult from this point onward.",
+        "pt-BR": "^FF0000Se quer minha opinião, recomendo parar agora e receber o prêmio.^000000 A partir daqui, ficará realmente difícil.",
+        "es-ES": "^FF0000Si quieres mi opinión, te recomiendo parar y recibir el premio.^000000 \nA partir de ahora, se pondrá realmente difícil."
+    },
+    "YGJyDQ": {
+        "en-US": "I will say no more. ^FF0000Please think carefully so you do not lose all the prize money you have accumulated.^000000",
+        "pt-BR": "Não direi mais nada. ^FF0000Espero que pense bem para não perder todo o prêmio acumulado.^000000",
+        "es-ES": "No diré nada más. ^FF0000Te aconsejo pensar bien para no perder el premio acumulado.^000000"
+    },
+    "YWJyDQ": {
+        "en-US": "^FF0000To be honest, I would advise against it. This difficulty is beyond what you can handle. Your accumulated prize money will disappear in an instant.^000000",
+        "pt-BR": "^FF0000Na verdade, eu gostaria de impedi-lo. Este nível de dificuldade não é adequado para você. Todo o prêmio acumulado desaparecerá em um instante.^000000",
+        "es-ES": "^FF0000La verdad, aconsejo que te detengas. No es una dificultad adecuada para ti. El premio acumulado desaparecerá en un instante.^000000"
+    },
+    "YmJyDQ": {
+        "en-US": "[Menacing Host]\nI will warn you in advance. If you exceed the ^FF00001-minute time limit^000000, you will be declared the loser. ^FF0000If you lose, you will forfeit every reward accumulated so far, so make certain that you defeat your opponent within 1 minute.^000000",
+        "pt-BR": "[Apresentador Carrancudo]\nJá vou avisando: se ultrapassar o ^FF0000limite de 1 minuto da partida^000000, você será considerado derrotado. ^FF0000Em caso de derrota, perderá todas as recompensas acumuladas, portanto derrote o adversário dentro de 1 minuto.^000000",
+        "es-ES": "[Presentador Ceñudo]\nTe lo advierto de antemano: si superas ^FF00001 minuto de tiempo de combate^000000, se considerará que has perdido. ^FF0000Si pierdes, perderás todas las recompensas acumuladas hasta ahora, así que derrota sin falta al rival en menos de 1 minuto^000000."
+    },
+    "Y2JyDQ": {
+        "en-US": "View the next opponent's profile",
+        "pt-BR": "Ver o perfil do próximo adversário",
+        "es-ES": "Ver el perfil del próximo rival"
+    },
+    "ZGJyDQ": {
+        "en-US": "^FF0000Claim the accumulated rewards and give up.^000000",
+        "pt-BR": "^FF0000Receber as recompensas acumuladas e desistir.^000000",
+        "es-ES": "^FF0000Recibir la recompensa acumulada y rendirse^000000"
+    },
+    "ZWJyDQ": {
+        "en-US": "^0000FFChallenge the next round.^000000",
+        "pt-BR": "^0000FFDesafiar a próxima rodada.^000000",
+        "es-ES": "^0000FFDesafiar la siguiente ronda^000000"
+    },
+    "ZmJyDQ": {
+        "en-US": "mob_disp{0}",
+        "pt-BR": "mob_disp{0}",
+        "es-ES": "mob_disp{0}"
+    },
+    "Z2JyDQ": {
+        "en-US": "mob_hp{0}",
+        "pt-BR": "mob_hp{0}",
+        "es-ES": "mob_hp{0}"
+    },
+    "aGJyDQ": {
+        "en-US": "rel_rnd{0}",
+        "pt-BR": "rel_rnd{0}",
+        "es-ES": "rel_rnd{0}"
+    },
+    "aWJyDQ": {
+        "en-US": "mob_heal{0}",
+        "pt-BR": "mob_heal{0}",
+        "es-ES": "mob_heal{0}"
+    },
+    "amJyDQ": {
+        "en-US": "cnt_cert{0}",
+        "pt-BR": "cnt_cert{0}",
+        "es-ES": "cnt_cert{0}"
+    },
+    "a2JyDQ": {
+        "en-US": "cnt_talisman{0}",
+        "pt-BR": "cnt_talisman{0}",
+        "es-ES": "cnt_talisman{0}"
+    },
+    "bGJyDQ": {
+        "en-US": "cnt_coin{0}",
+        "pt-BR": "cnt_coin{0}",
+        "es-ES": "cnt_coin{0}"
+    },
+    "bWJyDQ": {
+        "en-US": "^0000FFROUND {0}^000000, {1}\nEstimated HP: {2}\nEstimated Aura Barrier: {3} Stars",
+        "pt-BR": "^0000FFRODADA {0}^000000, {1}\nHP estimado: {2}\nBarreira de Aura estimada em {3} estrelas",
+        "es-ES": "^0000FFRONDA {0}^000000, {1}\nHP estimado: {2}\nBarrera de Aura estimada en {3} estrellas"
+    },
+    "bmJyDQ": {
+        "en-US": "Accumulated rewards through ^0000FFROUND {0}^000000 ------",
+        "pt-BR": "Recompensas acumuladas até a ^0000FFRODADA {0}^000000 ------",
+        "es-ES": "Recompensas acumuladas hasta el ^0000FFRONDA {0}^000000 ------"
+    },
+    "b2JyDQ": {
+        "en-US": "Geffen Arena Certificate - ^0000FF{0}^000000",
+        "pt-BR": "Item Participante da Arena - ^0000FF{0}^000000",
+        "es-ES": "Certificado de la Arena - ^0000FF{0}^000000"
+    },
+    "cGJyDQ": {
+        "en-US": "Geffen Arena Champion Certificate - ^0000FF{0}^000000",
+        "pt-BR": "Item Vencedor da Arena - ^0000FF{0}^000000",
+        "es-ES": "Objeto Campeón de la Arena - ^0000FF{0}^000000"
+    },
+    "cWJyDQ": {
+        "en-US": "Geffen Arena Coin - ^0000FF{0}^000000",
+        "pt-BR": "Moeda Noturna de Geffen - ^0000FF{0}^000000",
+        "es-ES": "Moneda Nocturna de Geffen - ^0000FF{0}^000000"
+    },
+    "cmJyDQ": {
+        "en-US": "Accumulated rewards upon clearing ^0000FFROUND {0}^000000 ----",
+        "pt-BR": "Recompensas que serão acumuladas ao vencer a ^0000FFRODADA {0}^000000 ----",
+        "es-ES": "Recompensas acumuladas al superar el ^0000FFRONDA {0}^000000 ----"
+    },
+    "c2JyDQ": {
+        "en-US": "Geffen Arena Certificate - ^9900FF{0}^000000",
+        "pt-BR": "Item Participante da Arena - ^9900FF{0}^000000",
+        "es-ES": "Certificado de la Arena - ^9900FF{0}^000000"
+    },
+    "dGJyDQ": {
+        "en-US": "Geffen Arena Champion Certificate - ^9900FF{0}^000000",
+        "pt-BR": "Item Vencedor da Arena - ^9900FF{0}^000000",
+        "es-ES": "Objeto Campeón de la Arena - ^9900FF{0}^000000"
+    },
+    "dWJyDQ": {
+        "en-US": "Geffen Arena Coin - ^9900FF{0}^000000",
+        "pt-BR": "Moeda Noturna de Geffen - ^9900FF{0}^000000",
+        "es-ES": "Moneda Nocturna de Geffen - ^9900FF{0}^000000"
+    },
+    "dmJyDQ": {
+        "en-US": "[Menacing Host]\nYou are quick with calculations. Speak with the ^0000FFWhite Spear Manager^000000 standing beside me regarding the prize payment and exit procedure.",
+        "pt-BR": "[Apresentador Carrancudo]\nVocê faz as contas rápido. Para receber o prêmio e sair da arena, converse com a ^0000FFGerente dos Lanças Brancas^000000 que está ali.",
+        "es-ES": "[Presentador Ceñudo]\nVaya, calculas rápido. Para recibir el premio y salir de la arena, habla con el ^0000FFGerente de los Lanzas Blancas^000000, que está allí."
+    },
+    "d2JyDQ": {
+        "en-US": "[Menacing Host]\nYou insist on taking the difficult path, and I have no intention of stopping you. I look forward to an entertaining spectacle!",
+        "pt-BR": "[Apresentador Carrancudo]\nNão vou impedir quem insiste em seguir pelo caminho difícil. Espero que nos proporcione um bom espetáculo!",
+        "es-ES": "[Presentador Ceñudo]\nNo pienso detenerte si insistes en tomar el camino difícil. ¡Espero un buen espectáculo!"
+    },
+    "eGJyDQ": {
+        "en-US": "You all enjoyed the final match, did you not?!! As expected, {0}'s team is the strongest!!!",
+        "pt-BR": "Todos adoraram assistir a essa final, não é mesmo?!! A equipe de {0} é realmente impressionante!!!",
+        "es-ES": "¡Todos vieron la final, ¿verdad?! ¡¡El equipo de {0} es realmente el más fuerte!!!"
+    },
+    "eWJyDQ": {
+        "en-US": "They lived up to expectations and seized victory to the very end! White Spear Manager! Prepare the rewards for today's champions.",
+        "pt-BR": "Eles não nos decepcionaram e conquistaram a grande vitória até o último momento! Gerente dos Lanças Brancas! Prepare as recompensas para os campeões de hoje.",
+        "es-ES": "¡No defraudaron las expectativas y se alzaron con la victoria! ¡Gerente de los Lanzas Blancas! Prepara las recompensas para los campeones de hoy."
+    },
+    "emJyDQ": {
+        "en-US": "All right, dear customers! The exit door is on the left. Please proceed in an orderly fashion! Slowly! Slowly!",
+        "pt-BR": "Muito bem, caros espectadores! O portão de saída fica à esquerda. Sigam em ordem, um por um! Devagar! Sem empurrar!",
+        "es-ES": "Vamos, vamos. Cliente, la puerta para Naga está a la izquierda. En orden, uno por uno. ¡Despacio! ¡Despacio!"
+    },
+    "e2JyDQ": {
+        "en-US": "The previously undefeated team of {0} has announced its withdrawal here in ROUND {1}!",
+        "pt-BR": "A equipe de {0}, que vinha acumulando vitórias, declarou sua retirada na Rodada {1}!",
+        "es-ES": "¡El equipo de {0}, que avanzaba de victoria en victoria, ha declarado su retirada en esta ronda {1}!"
+    },
+    "fGJyDQ": {
+        "en-US": "That concludes today's matches. White Spear Manager! Prepare rewards for the warriors who fought so hard.",
+        "pt-BR": "A partida de hoje termina aqui. Gerente dos Lanças Brancas! Prepare as recompensas para os guerreiros que lutaram bravamente.",
+        "es-ES": "La pelea de hoy termina aquí. ¡Gerente de los Lanzas Blancas, prepara las recompensas para los guerreros que lucharon con tanto esfuerzo!"
+    },
+    "fWJyDQ": {
+        "en-US": "Stop! Time is over. Every accumulated prize will be awarded to the winner, {0}!",
+        "pt-BR": "Parem! O tempo acabou. Todo o prêmio acumulado será entregue ao vencedor, {0}!",
+        "es-ES": "¡Basta! Se acabó el tiempo. ¡Todo el premio acumulado va para el ganador, {0}!"
+    },
+    "fmJyDQ": {
+        "en-US": "The nameless lackeys have safely cleared ROUND 1. Anyone who cannot manage even this much has no business setting foot in this arena.",
+        "pt-BR": "Os desafiantes desconhecidos conseguiram superar a Rodada 1 em segurança. Bem, quem não consegue fazer isso não deveria nem estar aqui.",
+        "es-ES": "Unos desconocidos han superado la ronda 1 sin problemas. Bueno, si ni siquiera pudieran hacer esto, no deberían pisar esta arena."
+    },
+    "f2JyDQ": {
+        "en-US": "Impressive. They cleared ROUND 2 without any particular difficulty. They may be comparable to the main force of some rural guild.",
+        "pt-BR": "Nada mal. Eles também superaram a Rodada 2 sem grandes dificuldades. Acho q podemos dizer que são do nível de um clã importante de alguma vila pacata por aí.",
+        "es-ES": "Nada mal. También han superado la ronda 2 sin grandes problemas. Podrían ser la fuerza principal de algún gremio de pueblo."
+    },
+    "gGJyDQ": {
+        "en-US": "Oh! What a surprise. I never expected them to breeze through ROUND 3. Even I am impressed.",
+        "pt-BR": "Oh! Mas o que é isso? Até eu estou surpreso por terem passado assim tão facilmente pela Rodada 3.",
+        "es-ES": "¿Pero qué es esto? Me sorprende que hayan superado la ronda 3 con tanta facilidad."
+    },
+    "gWJyDQ": {
+        "en-US": "Having made it this far, we can no longer call them nameless lackeys. Whether they can continue advancing, however, remains uncertain.",
+        "pt-BR": "Já que chegaram até aqui, acho que não podemos mais chamá-los de desconhecidos. No entanto, se vão continuar avançando ou não, só eles poderão nos dizer.",
+        "es-ES": "Si han llegado hasta aquí, ya no podemos considerarlos unos don nadie. Pero no se sabe si podrán seguir avanzando."
+    },
+    "gmJyDQ": {
+        "en-US": "This is unexpected. I never imagined these arena novices would fight their way this far. I can feel the stakes growing higher.",
+        "pt-BR": "Mas que surpresa! Nunca imaginei que esses novatos chegariam tão longe. Dá para sentir o valor das apostas aumentando.",
+        "es-ES": "Es inesperado. No creí que unos principiantes en la arena pudieran llegar a este punto. Se nota que las apuestas crecen cada vez más."
+    },
+    "g2JyDQ": {
+        "en-US": "A team that has completed ROUND 6 and is preparing for ROUND 7. Competitors at this stage would normally be treated as veterans. Will they challenge the next round?",
+        "pt-BR": "Essa equipe completou a Rodada 6 e está se preparando para a Rodada 7. Normalmente, a partir desta etapa, eles já devem ser tratados como veteranos. Será que eles vão encarar a próxima rodada?",
+        "es-ES": "Un equipo que termina la ronda 6 y se prepara para la ronda 7. Normalmente, a partir de esta fase hay que tratarlos como veteranos. ¿Se atreverán a desafiar la siguiente ronda?"
+    },
+    "hGJyDQ": {
+        "en-US": "Their skills appear to be anything but ordinary. Perhaps it is about time they collected their prize money and headed outside.",
+        "pt-BR": "Parece que suas habilidades estão longe de serem comuns. Talvez já esteja na hora de pegar o prêmio e sair.",
+        "es-ES": "Parece que sus habilidades están lejos de lo comun. Quizás ya sea hora de recibir el premio y marcharse."
+    },
+    "hWJyDQ": {
+        "en-US": "Magnificent. Any team that has reached ROUND 8 without a single defeat deserves to be called highly skilled. Will they continue challenging, or harvest the fruits of their labor?",
+        "pt-BR": "Incrível. Essa equipe que chegou à Rodada 8 sem sofrer uma única derrota merece ser chamada de excepcional. Resta saber se escolherão continuar em frente ou colher os frutos obtidos até agora.",
+        "es-ES": "Impresionante. Si un equipo ha llegado hasta la ronda 8 sin perder ni una sola vez, no sería exagerado llamarlos expertos. Está por verse si elegirán continuar con el desafío o cosechar los frutos."
+    },
+    "hmJyDQ": {
+        "en-US": "I cannot believe it. {0}'s team has crossed into territory considered nearly impossible. Would it not be better to collect the rewards and return home now?",
+        "pt-BR": "Não consigo acreditar. A equipe de {0} ultrapassou o limite do que seria considerado impossível. Não seria melhor pegar as recompensas e voltar para casa agora?",
+        "es-ES": "No puedo creerlo. El equipo de {0} ha superado un terreno casi imposible. ¿No sería mejor recoger la recompensa y volver a casa ahora?"
+    },
+    "h2JyDQ": {
+        "en-US": "Good heavens! Can you believe it?! A team has reached the final round! Incredible! We may never see a battle like this again. Let us applaud {0}'s team.",
+        "pt-BR": "Meu Deus! Conseguem acreditar? Uma equipe chegou até a rodada final! Isso é incrível. Não sei se um dia voltaremos a testemunhar uma batalha como esta. Uma salva de palmas para a equipe de {0}.",
+        "es-ES": "¡Por todos los cielos! ¿Pueden creerlo? ¡Un equipo que ha llegado hasta la ronda final! Es impresionante. No sé si volveremos a ver una pelea como esta. Mis aplausos para el equipo de {0}."
+    },
+    "iGJyDQ": {
+        "en-US": "ROUND {0}",
+        "pt-BR": "RODADA {0}",
+        "es-ES": "RONDA {0}"
+    },
+    "iWJyDQ": {
+        "en-US": "mob_txt{0}",
+        "pt-BR": "mob_txt{0}",
+        "es-ES": "mob_txt{0}"
+    },
+    "imJyDQ": {
+        "en-US": "mob_db{0}",
+        "pt-BR": "mob_db{0}",
+        "es-ES": "mob_db{0}"
+    },
+    "i2JyDQ": {
+        "en-US": "mob_hp{0}",
+        "pt-BR": "mob_hp{0}",
+        "es-ES": "mob_hp{0}"
+    },
+    "jGJyDQ": {
+        "en-US": "rel_rnd{0}",
+        "pt-BR": "rel_rnd{0}",
+        "es-ES": "rel_rnd{0}"
+    },
+    "jWJyDQ": {
+        "en-US": "mob_heal{0}",
+        "pt-BR": "mob_heal{0}",
+        "es-ES": "mob_heal{0}"
+    },
+    "jmJyDQ": {
+        "en-US": "mob_atk{0}",
+        "pt-BR": "mob_atk{0}",
+        "es-ES": "mob_atk{0}"
+    },
+    "j2JyDQ": {
+        "en-US": "mob_matk{0}",
+        "pt-BR": "mob_matk{0}",
+        "es-ES": "mob_matk{0}"
+    },
+    "kGJyDQ": {
+        "en-US": "A considerable amount of explosives has been installed around the arena fence for the amusement of our spectators.",
+        "pt-BR": "Uma quantidade considerável de explosivos foi instalada ao redor dos limites da arena para o entretenimento dos espectadores.",
+        "es-ES": "Alrededor de la valla de esta arena hay instalada una gran cantidad de explosivos para diversión del público."
+    },
+    "kWJyDQ": {
+        "en-US": "Please enjoy watching any participant knocked outside the arena burn and writhe in agony during the match.",
+        "pt-BR": "Divirtam-se assistindo aos participantes que forem arremessados para fora da arena queimarem durante a partida.",
+        "es-ES": "Disfruten viendo cómo los participantes que sean empujados fuera de la arena arden y sufren durante el combate."
+    },
+    "kmJyDQ": {
+        "en-US": "Now, let the real match begin!",
+        "pt-BR": "Agora, vamos começar a verdadeira disputa!",
+        "es-ES": "¡Ahora empecemos el juego de verdad!"
+    },
+    "k2JyDQ": {
+        "en-US": "Introducing the opponent for ROUND {0}",
+        "pt-BR": "Apresentamos o adversário da Rodada {0}",
+        "es-ES": "Presentamos al rival de la ronda {0}"
+    },
+    "lGJyDQ": {
+        "en-US": "HP! {0}, Aura Barrier: {1} Stars!",
+        "pt-BR": "HP! {0}, Barreira de Aura de {1} estrelas!",
+        "es-ES": "¡Salud! {0}, ¡barrera de aura de atributo {1}!"
+    },
+    "lWJyDQ": {
+        "en-US": "{0}~{1}!!!!",
+        "pt-BR": "{0}~{1}!!!!",
+        "es-ES": "¡{0}~{1}!!!!"
+    },
+    "lmJyDQ": {
+        "en-US": "{0}: My beloved children! Help me!!!!!!",
+        "pt-BR": "{0}: Meus queridos filhos! Ajudem-me!!!!!!",
+        "es-ES": "{0}: ¡Mis adorables pequeños! ¡¡¡Ayudadme!!!!!!"
+    },
+    "l2JyDQ": {
+        "en-US": "HP - {0} / Effective Hits {1}",
+        "pt-BR": "HP - {0} / Dano efetivo {1}",
+        "es-ES": "Salud - {0} / Golpes efectivos {1}"
+    },
+    "mGJyDQ": {
+        "en-US": "Arena Official: Team {0}~ Where are your registered party members~? A penalty will be imposed until they return.",
+        "pt-BR": "Comissão da Arena: Equipe de {0}~ Onde estão os membros registrados do grupo~? Aplicaremos uma penalidade até que todos retornem.",
+        "es-ES": "Comité de la arena: Equipo {0}~ ¿Dónde están los miembros registrados del grupo~? Aplicaremos una penalización hasta que regresen."
+    },
+    "mWJyDQ": {
+        "en-US": "Arena Official: Team {0}~ Please revive your fallen members quickly~. A penalty will be imposed until they are revived.",
+        "pt-BR": "Comissão da Arena: Equipe de {0}~ Ressuscitem os membros caídos depressa~. Uma penalidade será aplicada até que sejam ressuscitados.",
+        "es-ES": "Comité de la arena: Equipo {0}~ Revivan rápido a los caídos~. Se aplicará una penalización hasta la resurrección."
+    },
+    "mmJyDQ": {
+        "en-US": "20 seconds remain until the end of the match.",
+        "pt-BR": "Faltam 20 segundos para o fim da partida.",
+        "es-ES": "Quedan 20 segundos para el final del combate."
+    },
+    "m2JyDQ": {
+        "en-US": "10 seconds remain until the end of the match.",
+        "pt-BR": "Faltam 10 segundos para o fim da partida.",
+        "es-ES": "Quedan 10 segundos para el final del combate."
+    },
+    "nGJyDQ": {
+        "en-US": "We do not have much time, so let us finish this quickly.",
+        "pt-BR": "Não temos muito tempo, então vamos acabar logo com isso.",
+        "es-ES": "No hay tiempo, acabemos rápido."
+    },
+    "nWJyDQ": {
+        "en-US": "Neither of us has anything to say, do we? Let us begin.",
+        "pt-BR": "Nenhum de nós tem nada a dizer, não é mesmo? Vamos começar.",
+        "es-ES": "No tenemos nada que decirnos, ¿verdad? Empecemos."
+    },
+    "nmJyDQ": {
+        "en-US": "You look familiar. Did I see you at the arena during the day?",
+        "pt-BR": "Seu rosto me parece familiar. Nós nos vimos na arena durante o dia?",
+        "es-ES": "Tu cara me suena. ¿Nos vimos de día en la arena?"
+    },
+    "n2JyDQ": {
+        "en-US": "I do not think we are close enough to exchange friendly greetings...",
+        "pt-BR": "Não acho que tenhamos intimidade suficiente para trocar cumprimentos...",
+        "es-ES": "No creo que tengamos una relación tan cercana como para preguntarnos cómo estamos..."
+    },
+    "oGJyDQ": {
+        "en-US": "Do not worry. I will finish you without pain.",
+        "pt-BR": "Não se preocupe. Vou acabar com isso sem causar dor.",
+        "es-ES": "No te preocupes, acabaré contigo sin dolor."
+    },
+    "oWJyDQ": {
+        "en-US": "I have another appointment after this. Let us begin quickly.",
+        "pt-BR": "Tenho um compromisso depois disto. Vamos começar logo.",
+        "es-ES": "Tengo una cita después de esto. Empecemos rápido."
+    },
+    "omJyDQ": {
+        "en-US": "This will not even take 10 seconds. Do not worry.",
+        "pt-BR": "Não levará nem 10 segundos. Fique tranquilo.",
+        "es-ES": "No tardaré ni 10 segundos. Tranquilo."
+    },
+    "o2JyDQ": {
+        "en-US": "Hmm? Have we met somewhere before? It does not matter.",
+        "pt-BR": "Hum? Já nos vimos em algum lugar? Bem, não importa.",
+        "es-ES": "¿Mmm? ¿Nos hemos visto en algún sitio? Bueno, da igual."
+    },
+    "pGJyDQ": {
+        "en-US": "Ha! Fighting without pretense is much more to my liking. Daytime performances truly do not suit me.",
+        "pt-BR": "Há! Lutar sem fingimento combina muito mais comigo. As apresentações diurnas realmente não fazem meu estilo.",
+        "es-ES": "Ja, como esperaba, luchar sin fingimientos es más de mi gusto. Las funciones diurnas no van nada conmigo."
+    },
+    "pWJyDQ": {
+        "en-US": "May we begin?",
+        "pt-BR": "Podemos começar?",
+        "es-ES": "¿Podemos empezar?"
+    },
+    "pmJyDQ": {
+        "en-US": "Let us take it easy. I am not feeling particularly well today.",
+        "pt-BR": "Vamos pegar leve. Não estou me sentindo muito bem hoje.",
+        "es-ES": "Vayamos con calma. Hoy no estoy en muy buena forma."
+    },
+    "p2JyDQ": {
+        "en-US": "Ha! I did not especially want to participate today.",
+        "pt-BR": "Há! Eu nem queria participar hoje.",
+        "es-ES": "Ja, hoy no tenía muchas ganas de participar."
+    },
+    "qGJyDQ": {
+        "en-US": "How about resolving this like gentlemen? I am not feeling particularly well today.",
+        "pt-BR": "Que tal resolvermos isso de maneira civilizada? Não estou me sentindo muito bem hoje.",
+        "es-ES": "¿Qué tal si lo resolvemos de forma caballerosa? Hoy no estoy en muy buen estado físico."
+    },
+    "qWJyDQ": {
+        "en-US": "I have a bad feeling about this. I should have simply rested today.",
+        "pt-BR": "Estou com um mau pressentimento. Eu deveria ter descansado hoje.",
+        "es-ES": "Tengo un mal presentimiento. Hoy debería haber descansado."
+    },
+    "qmJyDQ": {
+        "en-US": "I will take it easy, so you should take it easy too.",
+        "pt-BR": "Eu pegarei leve, então pegue leve também.",
+        "es-ES": "Yo iré con calma, tú también ve con calma."
+    },
+    "q2JyDQ": {
+        "en-US": "Hey, there is no need to begin so quickly. Let us talk for a while.",
+        "pt-BR": "Ei, por que tanta pressa para começar? Vamos conversar um pouco.",
+        "es-ES": "Oye, ¿qué prisa hay por empezar? Hablemos un poco."
+    },
+    "rGJyDQ": {
+        "en-US": "How about relaxing a little? There is no need to obsess over winning, is there?",
+        "pt-BR": "Que tal relaxarmos um pouco? Não há motivo para ficar tão obcecado com a vitória, não é?",
+        "es-ES": "¿Qué tal si nos lo tomamos con un poco de calma? No hace falta obsesionarse con la victoria, ¿no crees?"
+    },
+    "rWJyDQ": {
+        "en-US": "What? Where is Fei Kanabian? I only perform with them during the day. At night, we each compete independently.",
+        "pt-BR": "O quê? Está perguntando onde está Fay Kanavion? Só nos apresentamos juntos durante o dia. À noite, cada um luta por conta própria.",
+        "es-ES": "¿Qué? ¿Que dónde está Fei Kanabian? Actúo con ella solo de día. De noche cada uno va por libre."
+    },
+    "rmJyDQ": {
+        "en-US": "It is still more comfortable to compete as solo than to perform in awkward coordination with Alphonse.",
+        "pt-BR": "É muito mais tranquilo agir sozinha do que fazer uma apresentação em sintonia com Alphonse, com quem nem sequer combino.",
+        "es-ES": "Es mucho más cómodo actuar como Sol que coordinarme con Alphonse en una combinación que ni siquiera nos pega."
+    },
+    "r2JyDQ": {
+        "en-US": "You are less impressive than I expected.",
+        "pt-BR": "Você é bem menos do que eu esperava.",
+        "es-ES": "No ha sido gran cosa, la verdad."
+    },
+    "sGJyDQ": {
+        "en-US": "{0}:{1}",
+        "pt-BR": "{0}:{1}",
+        "es-ES": "{0}:{1}"
+    },
+    "sWJyDQ": {
+        "en-US": "Alphonse Junior#{0}",
+        "pt-BR": "Alphonse Júnior#{0}",
+        "es-ES": "Alphonse junior#{0}"
+    },
+    "smJyDQ": {
+        "en-US": "Unrelated to Alphonse",
+        "pt-BR": "Sem relação com Alphonse",
+        "es-ES": "Sin relación con Alphonse"
+    },
+    "s2JyDQ": {
+        "en-US": "[Menacing Host]\nOh, new challengers? Let us check the number of participants first.",
+        "pt-BR": "[Apresentador Carrancudo]\nOh, novos desafiantes? Primeiro, vamos conferir o número de participantes.",
+        "es-ES": "[Presentador Ceñudo]\nOh, ¿nuevos aspirantes? Primero comprobemos el número de participantes."
+    }
+}

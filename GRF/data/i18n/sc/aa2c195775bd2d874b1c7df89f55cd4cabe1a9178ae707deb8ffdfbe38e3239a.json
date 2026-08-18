@@ -12,7 +12,7 @@
     "wupWDQ": {
         "en-US": "[Elena Volkova]\nThis place was originally used as a cargo warehouse, but we renovated it for the Night Watch selection test.",
         "pt-BR": "[Elena Bolkova]\nOriginalmente, era usado como depósito de carga, mas foi reformado para o teste de seleção de Guerrilheiro.",
-        "es-ES": "[Elena Bolkova]\nOriginalmente se usaba como almacén de carga, pero lo reacondicionamos para la prueba de selección de Vigilante Nocturno."
+        "es-ES": "[Elena Bolkova]\nOriginalmente se usaba como almacén de carga, pero lo reacondicionamos para la prueba de selección de Guerrillero."
     },
     "w+pWDQ": {
         "en-US": "[Elena Volkova]\nSenior Night Watches often stay here too, so talk to them if there's anything you're curious about.",
@@ -22,7 +22,7 @@
     "xOpWDQ": {
         "en-US": "[Elena Volkova]\nRight, I'm late with the introduction. This is Gerhold, a senior Night Watch who oversees the Night Watch selection test.\nGerhold will explain the test to you. Go talk to him.",
         "pt-BR": "[Elena Bolkova]\nAh, acabei me esquecendo de apresentar. Este é Gerhold, um Guerrilheiro veterano responsável pelo teste de seleção de Guerrilheiros.\nGerhold explicará o teste. Fale com ele.",
-        "es-ES": "[Elena Bolkova]\nAh, olvidé presentarlo. Él es Gerhold, un veterano de la Vigía Nocturna encargado de la prueba de selección de Vigilante Nocturno.\nGerhold te dará las indicaciones sobre la prueba. Habla con él."
+        "es-ES": "[Elena Bolkova]\nAh, olvidé presentarlo. Él es Gerhold, un veterano de la Vigía Nocturna encargado de la prueba de selección de Guerrillero.\nGerhold te dará las indicaciones sobre la prueba. Habla con él."
     },
     "xepWDQ": {
         "en-US": "[Elena Volkova]\nYou did it! I was watching. {0}, I knew you could surpass the level of a Rebellion.",
@@ -37,7 +37,7 @@
     "x+pWDQ": {
         "en-US": "[Elena Volkova]\nOnce you pass the Night Watch selection test, come by and rest here sometimes.\nIt's Clana Nemieri's private back room for Night Watch members. Haha!",
         "pt-BR": "[Elena Bolkova]\nSe passar no teste de seleção de Guerrilheiro, venha descansar aqui de vez em quando.\nÉ uma sala reservada exclusivamente para Guerrilheiro de Clana Nemieri. Haha!",
-        "es-ES": "[Elena Bolkova]\nSi apruebas la prueba de selección de Vigilante Nocturno, ven de vez en cuando a descansar.\nLa sala trasera es exclusiva de los Vigilante Nocturno de Clana Nemieri. ¡Ja, ja!"
+        "es-ES": "[Elena Bolkova]\nSi apruebas la prueba de selección de Guerrillero, ven de vez en cuando a descansar.\nLa sala trasera es exclusiva de los Guerrillero de Clana Nemieri. ¡Ja, ja!"
     },
     "yOpWDQ": {
         "en-US": "Gerhold",
@@ -52,12 +52,12 @@
     "yupWDQ": {
         "en-US": "[Gerhold]\nIf you came to take the Night Watch selection test, speak with Captain Volkova first.\nI will explain the test afterward.",
         "pt-BR": "[Gerhold]\nSe veio fazer o teste de seleção de Guerrilheiro, fale primeiro com a Capitã Bolkova.\nDepois disso, explicarei o teste.",
-        "es-ES": "[Gerhold]\nSi viniste a hacer la prueba de selección de Vigilante Nocturno, habla primero con la capitana Bolkova.\nLuego te doy las indicaciones."
+        "es-ES": "[Gerhold]\nSi viniste a hacer la prueba de selección de Guerrillero, habla primero con la capitana Bolkova.\nLuego te doy las indicaciones."
     },
     "y+pWDQ": {
         "en-US": "[Gerhold]\nSo you heard the explanation. Then I will tell you about the Night Watch selection test.\nThe test consists of two stages.",
         "pt-BR": "[Gerhold]\nEntão você já recebeu a explicação. Nesse caso, falarei sobre o teste de seleção de Guerrilheiro.\nO teste é dividido em duas etapas.",
-        "es-ES": "[Gerhold]\n¿Ya escuchaste la explicación? Entonces te hablaré de la prueba de selección de Vigilante Nocturno.\nLa prueba consta de dos fases."
+        "es-ES": "[Gerhold]\n¿Ya escuchaste la explicación? Entonces te hablaré de la prueba de selección de Guerrillero.\nLa prueba consta de dos fases."
     },
     "zOpWDQ": {
         "en-US": "[Gerhold]\nThe first test checks your qualities as a watcher.\nIt tests your reflexes, agility, and powers of observation.",
@@ -102,7 +102,7 @@
     "1OpWDQ": {
         "en-US": "[Gerhold]\nWell done. You have splendidly proven your qualification to become a Night Watch—a watcher.",
         "pt-BR": "[Gerhold]\nMuito bem. Você provou com excelência que tem as qualificações para se tornar um Guerrilheiro, um vigilante.",
-        "es-ES": "[Gerhold]\nBien hecho. Demostraste de forma excelente que tienes lo necesario para ser un Vigilante Nocturno, un vigilante."
+        "es-ES": "[Gerhold]\nBien hecho. Demostraste de forma excelente que tienes lo necesario para ser un Guerrillero, un vigilante."
     },
     "1epWDQ": {
         "en-US": "[Elena Volkova]\nI believed in you. {0}, I knew you could surpass the level of a Rebellion.",
@@ -112,12 +112,12 @@
     "1upWDQ": {
         "en-US": "[Gerhold]\nYes. And now, as a Night Watch, you will need to prove yourself constantly.\nThat is what it means to be a Night Watch.",
         "pt-BR": "[Gerhold]\nSim. E agora deverá se provar continuamente como Guerrilheiro.\nÉ isso que significa fazer parte dos Guerrilheiros.",
-        "es-ES": "[Gerhold]\nAsí es. Y ahora tendrás que demostrarte constantemente como Vigilante Nocturno.\nPorque eso es lo que significa ser Guardia Nocturna."
+        "es-ES": "[Gerhold]\nAsí es. Y ahora tendrás que demostrarte constantemente como Guerrillero.\nPorque eso es lo que significa ser Guardia Nocturna."
     },
     "1+pWDQ": {
         "en-US": "[Elena Volkova]\nGerhold. Still, let them enjoy it freely for a moment. They just earned their qualification as a Night Watch, didn't they?\nIt's a great achievement.",
         "pt-BR": "[Elena Bolkova]\nGerhold. Mesmo assim, deixe que curta por um momento. Você sabe como alguém se sente ao conquistar a qualificação de Guerrilheiro, não é?\nÉ uma grande conquista.",
-        "es-ES": "[Elena Bolkova]\nGerhold. Deja que disfrute el momento. Acaba de obtener la cualificación de Vigilante Nocturno, ¿no?\nEs algo importante."
+        "es-ES": "[Elena Bolkova]\nGerhold. Deja que disfrute el momento. Acaba de obtener la cualificación de Guerrillero, ¿no?\nEs algo importante."
     },
     "2OpWDQ": {
         "en-US": "[Elena Volkova]\nNow, now, let's leave the test site for now. This place isn't bad, but it's better to change jobs somewhere without an audience, right?",
@@ -142,12 +142,12 @@
     "3OpWDQ": {
         "en-US": "[Elena Volkova]\nGood, our new Night Watch!\nTalk to me again as soon as we leave.",
         "pt-BR": "[Elena Bolkova]\nCerto, mais um pro grupo dos Guerrilheiros!\nAssim que sair, fale comigo novamente.",
-        "es-ES": "[Elena Bolkova]\n¡Muy bien, nuestro nuevo Vigilante Nocturno!\nHabla conmigo otra vez en cuanto salgamos."
+        "es-ES": "[Elena Bolkova]\n¡Muy bien, nuestro nuevo Guerrillero!\nHabla conmigo otra vez en cuanto salgamos."
     },
     "3epWDQ": {
         "en-US": "[Gerhold]\nWhy is a Rebellion who should be taking the Night Watch selection test still here?",
         "pt-BR": "[Gerhold]\nPor que um Insurgente que deveria estar prestando o teste de seleção de Guerrilheiro ainda está aqui?",
-        "es-ES": "[Gerhold]\n¿Por qué sigue aquí un Rebelde que debería estar haciendo la prueba de selección de Vigilante Nocturno?"
+        "es-ES": "[Gerhold]\n¿Por qué sigue aquí un Rebelde que debería estar haciendo la prueba de selección de Guerrillero?"
     },
     "3upWDQ": {
         "en-US": "[Gerhold]\nGo out and take the test seriously from the beginning.",
@@ -157,122 +157,122 @@
     "3+pWDQ": {
         "en-US": "Night Watch",
         "pt-BR": "Guerrilheiro",
-        "es-ES": "Vigilante Nocturno"
+        "es-ES": "Guerrillero"
     },
     "4OpWDQ": {
         "en-US": "[Night Watch]\nHey! You're a new Night Watch. Congratulations!",
         "pt-BR": "[Guerrilheiro]\nEi! Você acaba de se juntar aos Guerrilheiros. Parabéns!",
-        "es-ES": "[Vigilante Nocturno]\n¡Eh! Eres el nuevo Vigilante Nocturno. ¡Enhorabuena!"
+        "es-ES": "[Guerrillero]\n¡Eh! Eres el nuevo Guerrillero. ¡Enhorabuena!"
     },
     "4epWDQ": {
         "en-US": "[Night Watch]\nYou're in for a hard time now. But it'll be fun. Let's work hard together!",
         "pt-BR": "[Guerrilheiro]\nAgora vai passar por dificuldades. Mas vai ser divertido. Vamos nos esforçar juntos!",
-        "es-ES": "[Vigilante Nocturno]\nAhora te tocará sufrir. Pero será divertido. ¡Esforcémonos juntos!"
+        "es-ES": "[Guerrillero]\nAhora te tocará sufrir. Pero será divertido. ¡Esforcémonos juntos!"
     },
     "4upWDQ": {
         "en-US": "[Night Watch]\nHuh? A Rebellion? Aha, I see. You must have come to take the Night Watch promotion test.",
         "pt-BR": "[Guerrilheiro]\nHã? Um Insurgente? Ah, entendi. Parece que você veio prestar o teste de promoção a Guerrilheiro, certo?",
-        "es-ES": "[Vigilante Nocturno]\n¿Eh? ¿Un Rebelde? Ah, ya veo. Has venido a hacer la prueba de ascenso a Vigilante Nocturno, ¿no?"
+        "es-ES": "[Guerrillero]\n¿Eh? ¿Un Rebelde? Ah, ya veo. Has venido a hacer la prueba de ascenso a Guerrillero, ¿no?"
     },
     "4+pWDQ": {
         "en-US": "[Night Watch]\nThen don't get distracted and wander into the warehouse. Go straight to Captain Volkova!",
         "pt-BR": "[Guerrilheiro]\nEntão não se distraia entrando no depósito e vá direto falar com a Capitã Bolkova!",
-        "es-ES": "[Vigilante Nocturno]\nEntonces no te distraigas entrando en el almacén y ve directo a ver a la capitana Bolkova."
+        "es-ES": "[Guerrillero]\nEntonces no te distraigas entrando en el almacén y ve directo a ver a la capitana Bolkova."
     },
     "5OpWDQ": {
         "en-US": "[Night Watch]\nNever mind me. I hid a bottle of liquor somewhere around here...",
         "pt-BR": "[Guerrilheiro]\nNão se preocupe comigo. Eu tinha escondido uma garrafa por aqui em algum lugar...",
-        "es-ES": "[Vigilante Nocturno]\nNo te preocupes por mí. Por aquí había escondido una botella de alcohol..."
+        "es-ES": "[Guerrillero]\nNo te preocupes por mí. Por aquí había escondido una botella de alcohol..."
     },
     "5epWDQ": {
         "en-US": "[Night Watch]\nAre you done with the test? You feel different from before.",
         "pt-BR": "[Guerrilheiro]\nVocê saiu depois de terminar o teste? Está com uma aparência diferente de antes.",
-        "es-ES": "[Vigilante Nocturno]\n¿Ya terminaste la prueba? Tu aire es distinto al de antes."
+        "es-ES": "[Guerrillero]\n¿Ya terminaste la prueba? Tu aire es distinto al de antes."
     },
     "5upWDQ": {
         "en-US": "[Night Watch]\nThis one is still singing, but... Not all Night Watch members are like this. Really.",
         "pt-BR": "[Guerrilheiro]\nEsse aí ainda está cantando, mas... nem todo Guerrilheiro é assim. É sério.",
-        "es-ES": "[Vigilante Nocturno]\nEste todavía sigue cantando, pero... no todos en la Vigía Nocturna somos así."
+        "es-ES": "[Guerrillero]\nEste todavía sigue cantando, pero... no todos en la Vigía Nocturna somos así."
     },
     "5+pWDQ": {
         "en-US": "[Night Watch]\nThere they go again, drinking and singing whenever they want.",
         "pt-BR": "[Guerrilheiro]\nLá vai ele de novo, bebendo e cantando por conta própria.",
-        "es-ES": "[Vigilante Nocturno]\nOtra vez, bebiendo y cantando por su cuenta."
+        "es-ES": "[Guerrillero]\nOtra vez, bebiendo y cantando por su cuenta."
     },
     "6OpWDQ": {
         "en-US": "[Night Watch]\nYou're loud. Just lie down and sleep instead.",
         "pt-BR": "[Guerrilheiro]\nCale a boca. É melhor deitar e dormir logo.",
-        "es-ES": "[Vigilante Nocturno]\nCállate. Mejor túmbate y duerme."
+        "es-ES": "[Guerrillero]\nCállate. Mejor túmbate y duerme."
     },
     "6epWDQ": {
         "en-US": "[Night Watch]\nHuh, you're a Rebellion. How did you get in here?",
         "pt-BR": "[Guerrilheiro]\nHã, você é um Insurgente. Como entrou aqui?",
-        "es-ES": "[Vigilante Nocturno]\nVaya, si eres un Rebelde. ¿Cómo entraste aquí?"
+        "es-ES": "[Guerrillero]\nVaya, si eres un Rebelde. ¿Cómo entraste aquí?"
     },
     "6upWDQ": {
         "en-US": "[Night Watch]\nA~ sweet~ smi~le~",
         "pt-BR": "[Guerrilheiro]\nUm sor~ri~so~ lin~do~",
-        "es-ES": "[Vigilante Nocturno]\nUna~ sonrisa~ ado~rable~"
+        "es-ES": "[Guerrillero]\nUna~ sonrisa~ ado~rable~"
     },
     "6+pWDQ": {
         "en-US": "[Night Watch]\nWel~comes me~",
         "pt-BR": "[Guerrilheiro]\nMe~ dá as boas-vin~das~",
-        "es-ES": "[Vigilante Nocturno]\nMe~ da la bienve~nida~"
+        "es-ES": "[Guerrillero]\nMe~ da la bienve~nida~"
     },
     "7OpWDQ": {
         "en-US": "[Night Watch]\nE~delweiss~ E~delweiss",
         "pt-BR": "[Guerrilheiro]\nE~del weiss~ E~del weiss",
-        "es-ES": "[Vigilante Nocturno]\nE~delweiss~ E~delweiss~"
+        "es-ES": "[Guerrillero]\nE~delweiss~ E~delweiss~"
     },
     "7epWDQ": {
         "en-US": "[Night Watch]\nWet~ with morning dew~",
         "pt-BR": "[Guerrilheiro]\nMo~lhado pelo orvalho da ma~nhã~",
-        "es-ES": "[Vigilante Nocturno]\nMo~jada por el rocío~ de la ma~ñana~"
+        "es-ES": "[Guerrillero]\nMo~jada por el rocío~ de la ma~ñana~"
     },
     "7upWDQ": {
         "en-US": "[Night Watch]\nLooks like you proved your qualifications splendidly. I suppose I shouldn't even call you a rookie anymore.",
         "pt-BR": "[Guerrilheiro]\nParece que você provou sua qualificação com excelência. Acho que nem posso mais lhe chamar de iniciante.",
-        "es-ES": "[Vigilante Nocturno]\nParece que demostraste tu valía de forma excelente. Ya no te consideraré de los novatos."
+        "es-ES": "[Guerrillero]\nParece que demostraste tu valía de forma excelente. Ya no te consideraré de los novatos."
     },
     "7+pWDQ": {
         "en-US": "[Night Watch]\nGood work. Night Watch.",
         "pt-BR": "[Guerrilheiro]\nBom trabalho, Guerrilheiro.",
-        "es-ES": "[Vigilante Nocturno]\nBuen trabajo, Vigilante Nocturno."
+        "es-ES": "[Guerrillero]\nBuen trabajo, Guerrillero."
     },
     "8OpWDQ": {
         "en-US": "[Night Watch]\nWeaklings have no right to enter here.",
         "pt-BR": "[Guerrilheiro]\nOs fracos não têm qualificação para entrar aqui.",
-        "es-ES": "[Vigilante Nocturno]\nLos débiles no tienen derecho a entrar aquí."
+        "es-ES": "[Guerrillero]\nLos débiles no tienen derecho a entrar aquí."
     },
     "8epWDQ": {
         "en-US": "[Night Watch]\nProve your qualifications, rookie.",
         "pt-BR": "[Guerrilheiro]\nProve sua qualificação, iniciante.",
-        "es-ES": "[Vigilante Nocturno]\nDemuestra tu valía o regresa con los novatos."
+        "es-ES": "[Guerrillero]\nDemuestra tu valía o regresa con los novatos."
     },
     "8upWDQ": {
         "en-US": "[Night Watch]\nYou have a different look on your face. Did you pass the test?",
         "pt-BR": "[Guerrilheiro]\nSeu semblante está diferente. Passou no teste?",
-        "es-ES": "[Vigilante Nocturno]\nTienes otra cara. ¿Pasaste la prueba?"
+        "es-ES": "[Guerrillero]\nTienes otra cara. ¿Pasaste la prueba?"
     },
     "8+pWDQ": {
         "en-US": "[Night Watch]\nIf you want some useful stories, I can tell you, so come visit from time to time. Does saying that make me sound like an old-timer?",
         "pt-BR": "[Guerrilheiro]\nSe quiser ouvir algo que possa servir de referência, venha me visitar de vez em quando. Dizer isso também soa meio ultrapassado?",
-        "es-ES": "[Vigilante Nocturno]\nSi necesitas algún consejo, puedo contarte algo útil, ven de vez en cuando. ¿Decir eso suena un poco a viejo cascarrabias?"
+        "es-ES": "[Guerrillero]\nSi necesitas algún consejo, puedo contarte algo útil, ven de vez en cuando. ¿Decir eso suena un poco a viejo cascarrabias?"
     },
     "9OpWDQ": {
         "en-US": "[Night Watch]\n...What? I don't know you. And you're a Rebellion.",
         "pt-BR": "[Guerrilheiro]\n...O que é isso? Você é alguém que não conheço. E é um Insurgente.",
-        "es-ES": "[Vigilante Nocturno]\n...¿Qué? No te conozco. Y eres un Rebelde."
+        "es-ES": "[Guerrillero]\n...¿Qué? No te conozco. Y eres un Rebelde."
     },
     "9epWDQ": {
         "en-US": "[Night Watch]\nSeeing you here, I suppose you've applied for the Night Watch selection test. Well, do your best.",
         "pt-BR": "[Guerrilheiro]\nJá que veio até aqui, parece que se inscreveu no teste de seleção de Guerrilheiro. Bem, faça o seu melhor.",
-        "es-ES": "[Vigilante Nocturno]\nSi viniste hasta aquí, parece que te presentaste a la prueba de selección de Vigilante Nocturno. Bueno, hazlo lo mejor que puedas."
+        "es-ES": "[Guerrillero]\nSi viniste hasta aquí, parece que te presentaste a la prueba de selección de Guerrillero. Bueno, hazlo lo mejor que puedas."
     },
     "9upWDQ": {
         "en-US": "[Night Watch]\nIf more Night Watch members join, the work assigned to us will go down, so that's a relief.",
         "pt-BR": "[Guerrilheiro]\nSe o número de Guerrilheiros aumentar, o trabalho distribuído para nós também vai diminuir. Isso é um alívio.",
-        "es-ES": "[Vigilante Nocturno]\nSi aumenta el número de Vigilantes Nocturnos, bajará la cantidad de trabajo que nos den, así que nos viene bien."
+        "es-ES": "[Guerrillero]\nSi aumenta el número de Vigilantes Nocturnos, bajará la cantidad de trabajo que nos den, así que nos viene bien."
     },
     "9+pWDQ": {
         "en-US": "Gerhold: Then we will begin the first stage of the first test.",
@@ -382,12 +382,12 @@
     "DOtWDQ": {
         "en-US": "[Gerhold]\nGood. It seems you have sufficiently proven your qualities and aptitude.\nYou are worthy of becoming a Night Watch.",
         "pt-BR": "[Gerhold]\nMuito bem. Parece que você provou suficientemente suas qualidades e aptidão.\nVocê merece fazer parte dos Guerrilheiros.",
-        "es-ES": "[Gerhold]\nBien. Parece que demostraste de sobra tus cualidades y aptitud.\nEres apto para convertirte en Vigilante Nocturno."
+        "es-ES": "[Gerhold]\nBien. Parece que demostraste de sobra tus cualidades y aptitud.\nEres apto para convertirte en Guerrillero."
     },
     "DetWDQ": {
         "en-US": "[Gerhold]\nWould you like to go to the lounge and rest for a while?\nWe should give the others the right to welcome a new Night Watch, shouldn't we?",
         "pt-BR": "[Gerhold]\nQuer ir à sala de descanso e repousar um pouco?\nTambém devemos dar aos outros o direito de dar boas-vindas a quem se junta aos Guerrilheiros, não acha?",
-        "es-ES": "[Gerhold]\n¿Quieres ir a la sala de descanso y descansar un momento?\nTambién habrá que dar a los demás el derecho de dar la bienvenida al nuevo Vigilante Nocturno, ¿no?"
+        "es-ES": "[Gerhold]\n¿Quieres ir a la sala de descanso y descansar un momento?\nTambién habrá que dar a los demás el derecho de dar la bienvenida al nuevo Guerrillero, ¿no?"
     },
     "DutWDQ": {
         "en-US": "[Gerhold]\nYou will have to take the test again from the beginning. Unfortunate, but true.",

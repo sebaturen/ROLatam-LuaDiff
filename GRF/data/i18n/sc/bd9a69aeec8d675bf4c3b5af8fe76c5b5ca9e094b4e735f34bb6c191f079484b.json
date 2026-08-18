@@ -25,14 +25,14 @@
         "es-ES": "Outer Castle Soldier Guardian"
     },
     "BecMAg": {
-        "en-US": "Nuenberg",
+        "en-US": "Canopus",
         "pt-BR": "Canopus",
         "es-ES": "Canopus"
     },
     "BucMAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[ Voz Ecoante ]\nValente combatente...\nDeseja retornar ao seu lugar de glória?",
-        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
     },
     "B+cMAg": {
         "en-US": "Go back to your stronghold.",
@@ -200,7 +200,7 @@
         "es-ES": "Nahzarf"
     },
     "KOcMAg": {
-        "en-US": "ssss[{0}] guild has conquered Nuenberg in the [{1}] Realm.",
+        "en-US": "ssssThe clan [{0}] has conquered the castle [{1}]",
         "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
         "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
@@ -582,7 +582,7 @@
     "dOcMAg": {
         "en-US": "[Butler Nahzarf]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Najarf]\n...\nFuncionária Kafra dispensada... */snif*",
-        "es-ES": "[Mayordomo Nahzarf]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Nahzarf]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
     },
     "decMAg": {
         "en-US": "[Butler Nahzarf]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -675,27 +675,43 @@
         "es-ES": "No pasó nada."
     },
     "h+cMAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "iOcMAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "iecMAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "iucMAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "i+cMAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "jOcMAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "jecMAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "jucMAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

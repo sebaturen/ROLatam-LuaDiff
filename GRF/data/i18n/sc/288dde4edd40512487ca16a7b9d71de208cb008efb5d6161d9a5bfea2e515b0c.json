@@ -612,7 +612,7 @@
     "esNNDQ": {
         "en-US": "[Jangseung]\nTell me the truth at once! If you do not, I will drag you to the underworld and make you confess there!",
         "pt-BR": "[Jangseung]\nDiga logo a verdade! Se não disser, arrastarei você ao outro mundo e farei com que confesse!",
-        "es-ES": "[Exorcista]\n¡Dime la verdad de inmediato! ¡Si no lo haces, te arrastraré al inframundo y te haré confesar allí!"
+        "es-ES": "[Jangseung]\n¡Dime la verdad de inmediato! ¡Si no lo haces, te arrastraré al inframundo y te haré confesar allí!"
     },
     "e8NNDQ": {
         "en-US": "[{0}]\nI am, my name is {0}. I came to ask for help through an introduction from Banyak.",
@@ -622,12 +622,12 @@
     "fMNNDQ": {
         "en-US": "[Jangseung]\nBanyak? Banyak... Banyak, you say.",
         "pt-BR": "[Jangseung]\nBanyak? Banyak... Banyak, você diz.",
-        "es-ES": "[Exorcista]\n¿Banyak? Banyak... Banyak, dices."
+        "es-ES": "[Jangseung]\n¿Banyak? Banyak... Banyak, dices."
     },
     "fcNNDQ": {
         "en-US": "[Jangseung]\nYou mean that Soul Ascetic.",
         "pt-BR": "[Jangseung]\nEstá falando daquele Asceta das Almas.",
-        "es-ES": "[Exorcista]\nTe refieres a ese Asceta de Almas."
+        "es-ES": "[Jangseung]\nTe refieres a ese Asceta de Almas."
     },
     "fsNNDQ": {
         "en-US": "[???]\nYou need my help? Hmm...",
@@ -642,7 +642,7 @@
     "gMNNDQ": {
         "en-US": "Jangseung",
         "pt-BR": "Jangseung",
-        "es-ES": "Exorcista"
+        "es-ES": "Jangseung"
     },
     "gcNNDQ": {
         "en-US": "Dog",
@@ -651,7 +651,7 @@
     },
     "gsNNDQ": {
         "en-US": "Pipiii-",
-        "pt-BR": "Pipiii-",
+        "pt-BR": "Pipii-",
         "es-ES": "Pipiii-"
     }
 }

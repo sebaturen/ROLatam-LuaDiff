@@ -21,26 +21,22 @@ RecommendedQuestInfoList = {
 			"^ff0000Esta é uma página permanente de boas vindas.^000000"
 		}
 	},
-	[2] = {
-		Title = "Episódio 17.2: O Legado do Sábio",
-		IconName = "ico_ep.bmp",
-		Summary = "Para não ficar para trás da equipe de vanguarda...",
-		NpcSpr = "4_M_ROOKIE",
-		NpcNavi = "sp_cor",
-		NpcPosX = 255,
-		NpcPosY = 285,
-		BgName = "reco_03.bmp",
+	[10000] = {
+		Title = "Local da Queda da Aeronave",
+		IconName = "ico_sc.bmp",
+		Summary = "Uma história no local onde a aeronave caiu",
+		NpcSpr = "4_M_FAIRYANG",
+		BgName = "reco_10000.bmp",
 		QuestInfo1 = {
-			"A passagem para a Mansão de Varmunt finalmente foi aberta!",
-			"Junte-se à Rebelião, Vento Secreto e Rekenber para investigar a Ilusión."
+			"Por meio do <NAVI>[Espaço Dimensional]<INFO>dali02,137,86,0,101,0</INFO></NAVI> descoberto por acaso por uma Laphine,",
+			"os aventureiros puderam chegar ao local onde a aeronave caiu. Explore a cavidade descoberta ali, agora esquecida."
 		},
 		QuestInfo2 = {
-			"Pré-requisitos:",
-			"Concluir o ^990000Episódio 17.1^000000",
-			"Nível ^990000130 ou mais^000000"
+			"Requisitos de acesso",
+			"Aventureiros de ^990000nível 215 ou superior^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000× Anúncio de atualização.^000000"
+			"^ff0000* Esta página é uma apresentação de atualização, não uma missão. Ela não será excluída mesmo após concluir a missão.^000000"
 		}
 	},
 	[84] = {
@@ -50,7 +46,7 @@ RecommendedQuestInfoList = {
 		BgName = "reco_84.bmp",
 		QuestInfo1 = {
 			"Os segredos da 4ª Classe finalmente foram revelados!!!",
-			"Com a chegada das novas classes, o continente de Midgard começa a se agitar, e aventureiros com diferentes objetivos e destinos iniciam sua jornada.\nProvações e esforço para se tornar mais forte!\nE a sua história começa agora.",
+			"Com a chegada das novas classes, o continente de Midgard começa a se agitar, e aventureiros com diferentes objetivos e destinos iniciam sua jornada.\nProvações e esforço para se tornar mais forte! E a sua história começa agora.",
 			"\t\t\t<TIPBOX>>Guia da 4ª Classe<INFO>9136</INFO></TIPBOX>"
 		},
 		QuestInfo2 = {

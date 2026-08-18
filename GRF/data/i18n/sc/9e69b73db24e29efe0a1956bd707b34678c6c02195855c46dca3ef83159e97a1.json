@@ -6,8 +6,8 @@
     },
     "Ifo8DQ": {
         "en-US": "[Leticia]\nI have been watching you, and your movements are quite impressive. With skill like that, I would not be upset no matter where I introduced you as an acquaintance of mine.",
-        "pt-BR": "[Letícia]\nObservando você, vi que se move muito bem. Bem, com esse nível, eu não ficaria irritada se o apresentasse em qualquer lugar como alguém que conheço.",
-        "es-ES": "[Leticia]\nMientras te observaba, vi que te mueves bastante bien. Bueno, con ese nivel, no me enfadaría aunque te presentara en cualquier lugar como alguien conocido por mí."
+        "pt-BR": "[Letícia]\nObservando você, vi que se move muito bem. Bem, com esse nível, eu não ficaria irritada se apresentasse você em qualquer lugar como alguém que conheço.",
+        "es-ES": "[Leticia]\nEstuve mirándote y vi que tus movimientos son bastante buenos. Con habilidades como esas, no tendría ningún problema en presentarte como alguien que conozco, en cualquier lugar."
     },
     "Ivo8DQ": {
         "en-US": "[Leticia]\nThat aside, was the one you defeated originally residing in this place?",
@@ -17,7 +17,7 @@
     "I/o8DQ": {
         "en-US": "They were the ruler of the tower who occupied the top floor.",
         "pt-BR": "Era o governante da torre que ocupava o andar mais alto.",
-        "es-ES": "Era el señor de la torre que ocupaba la planta superior."
+        "es-ES": "Era el señor de la Torre que ocupaba el último piso."
     },
     "JPo8DQ": {
         "en-US": "I'm not sure.",
@@ -37,56 +37,56 @@
     "J/o8DQ": {
         "en-US": "[^88AA66Oscar's Words^000000]\n[[^88AA66Mr. {0}, did you find something?^000000]]",
         "pt-BR": "[^88AA66Voz de Oscar^000000]\n[[^88AA66{0}. Você encontrou alguma coisa?^000000]]",
-        "es-ES": "[^88AA66Voz de Oscar^000000]\n[[^88AA66Sr. {0}. ¿Ha descubierto algo?^000000]]"
+        "es-ES": "[^88AA66Palabras de Oscar^000000]\n[[^88AA66Sr. {0}, ¿ha descubierto algo?^000000]]"
     },
     "KPo8DQ": {
         "en-US": "Mr. Oscar? Where are you speaking from?",
         "pt-BR": "Sr. Oscar? De onde está falando?",
-        "es-ES": "¿Sr. Oscar? ¿Desde dónde habla?"
+        "es-ES": "¿Sr. Oscar? ¿Desde dónde me está hablando?"
     },
     "Kfo8DQ": {
         "en-US": "[^88AA66Oscar's Words^000000]\n[[^88AA66Ah, I am in what appears to be the top floor of the tower right now. I am sending my thoughts directly into your mind, so please don't worry about it.^000000]]",
         "pt-BR": "[^88AA66Voz de Oscar^000000]\n[[^88AA66Ah, estou agora em um lugar que parece ser o topo da torre. Estou transmitindo meu pensamento diretamente para sua mente, então não se preocupe com isso.^000000]]",
-        "es-ES": "[^88AA66Voz de Oscar^000000]\n[[^88AA66Ah, ahora estoy en lo que parece ser la planta superior de la torre. Le estoy transmitiendo mis pensamientos directamente a la mente, así que no se preocupe.^000000]]"
+        "es-ES": "[^88AA66Palabras de Oscar^000000]\n[[^88AA66Ah, ahora estoy en lo que parece ser el último piso de la Torre. Le estoy transmitiendo mis pensamientos directamente a la mente, así que no se preocupe.^000000]]"
     },
     "Kvo8DQ": {
         "en-US": "[^88AA66Oscar's Words^000000]\n[[^88AA66I sense an incredibly powerful force from the top floor. It would be best to come back after making more preparations. Mr. {0}, you should wrap things up and leave as well.^000000]]",
         "pt-BR": "[^88AA66Voz de Oscar^000000]\n[[^88AA66Sinto uma força muito poderosa vindo do topo. Seria melhor voltar mais preparado. {0}, cuide do que for necessário e saia daí também.^000000]]",
-        "es-ES": "[^88AA66Voz de Oscar^000000]\n[[^88AA66Se percibe una fuerza muy poderosa en la zona de la planta superior. Será mejor que venga con más preparación. Sr. {0}, usted también debería terminar lo justo y salir.^000000]]"
+        "es-ES": "[^88AA66Voz de Oscar^000000]\n[[^88AA66Se percibe una fuerza muy poderosa en la zona del último piso. Será mejor volver con más preparación. Sr. {0}, usted también debería terminar todo y salir.^000000]]"
     },
     "K/o8DQ": {
         "en-US": "[Leticia]\nHmm, judging by the mood, it seems it is about time to wrap things up.",
-        "pt-BR": "[Letícia]\nHmm, pelo clima, parece que está na hora de encerrar, não é?.",
-        "es-ES": "[Leticia]\nMmm, por el ambiente, parece que ya va siendo hora de terminar, ¿no?."
+        "pt-BR": "[Letícia]\nHmm, pelo clima, parece que está na hora de encerrar, não é?",
+        "es-ES": "[Leticia]\nMmm, por cómo está el ambiente, parece que ya va siendo hora de terminar, ¿no?."
     },
     "LPo8DQ": {
         "en-US": "[Leticia]\nYou cannot walk down from here, so take my hand. I will send you out.",
-        "pt-BR": "[Letícia]\nNão dá para descer a pé, então segure minha mão. Vou tirar você daqui.",
-        "es-ES": "[Leticia]\nNo podemos bajar andando, así que tómame la mano. Te sacaré de aquí."
+        "pt-BR": "[Letícia]\nNão dá para descer a pé. Segure minha mão. Vou tirar você daqui.",
+        "es-ES": "[Leticia]\nNo podemos bajar caminando, así que toma mi mano. Te sacaré de aquí."
     },
     "Lfo8DQ": {
         "en-US": "I will look around a little longer before I go.",
         "pt-BR": "Vou dar só mais uma olhada.",
-        "es-ES": "Me quedaré mirando un poco más."
+        "es-ES": "Voy a mirar un poco más antes de irme."
     },
     "Lvo8DQ": {
         "en-US": "Please do.",
         "pt-BR": "Por favor.",
-        "es-ES": "Se lo ruego."
+        "es-ES": "Por favor."
     },
     "L/o8DQ": {
         "en-US": "[Leticia]\nYou are surprisingly carefree.",
         "pt-BR": "[Letícia]\nVocê é mais despreocupado do que eu esperava.",
-        "es-ES": "[Leticia]\nEres más despreocupado de lo que esperaba."
+        "es-ES": "[Leticia]\nSorprendentemente, no tienes grandes preocupaciones."
     },
     "MPo8DQ": {
         "en-US": "[Leticia]\nVery well. The place you want is in front of the docks in Alberta, right?",
         "pt-BR": "[Letícia]\nMuito bem. O lugar que deseja é em frente ao cais de Alberta, certo?",
-        "es-ES": "[Leticia]\nBien, el lugar que quieres es frente al muelle de Alberta, ¿verdad?"
+        "es-ES": "[Leticia]\nEntonces, quieres ir frente al muelle de Alberta, ¿verdad?"
     },
     "Mfo8DQ": {
         "en-US": "[Leticia]\nThis came out of that one's body, but I have no need for it, so I will give it to you.",
-        "pt-BR": "[Letícia]\nIsto saiu do corpo daquele sujeito. Não tenho utilidade para isso, então vou dar a você.",
+        "pt-BR": "[Letícia]\nIsto saiu do corpo daquele sujeito. Não tenho utilidade para isso e vou dar a você.",
         "es-ES": "[Leticia]\nEsto salió del cuerpo de ese tipo, pero no lo necesito, así que te lo daré."
     },
     "Mvo8DQ": {
@@ -96,17 +96,17 @@
     },
     "M/o8DQ": {
         "en-US": "[Leticia]\nIt is strange. There is no way that one could have made such a mess of this tower alone. It would be ridiculous for me to deal with such an insignificant creature myself, so you handle it.",
-        "pt-BR": "[Letícia]\nÉ estranho. Não parece possível que aquele sujeito tenha destruído esta torre sozinho a esse ponto. Seria ridículo eu mesma lidar com alguém tão insignificante, então cuide dele.",
+        "pt-BR": "[Letícia]\nÉ estranho. Não parece possível que aquele sujeito tenha destruído esta torre sozinho a esse ponto. Seria ridículo eu mesma lidar com alguém tão insignificante. Cuide dele.",
         "es-ES": "[Leticia]\nEs extraño. No parece posible que ese tipo haya dejado esta torre tan destrozada él solo. También sería ridículo que yo me enfrentara personalmente a alguien tan insignificante, así que encárgate tú."
     },
     "NPo8DQ": {
         "en-US": "No, that is beyond my ability.",
-        "pt-BR": "Não, com minha habilidade é impossível.",
+        "pt-BR": "Não, com a minha habilidade, é impossível.",
         "es-ES": "No, con mi habilidad es imposible."
     },
     "Nfo8DQ": {
         "en-US": "Let's give it a try!",
-        "pt-BR": "Vamos tentar, então!",
+        "pt-BR": "Vamos tentar!",
         "es-ES": "¡Bah, lo intentaré!"
     },
     "Nvo8DQ": {
@@ -121,13 +121,13 @@
     },
     "OPo8DQ": {
         "en-US": "[Leticia]\nOh? You have quite a bit of spirit. I like you.",
-        "pt-BR": "[Letícia]\nOh~ Você tem bastante coragem. Gostei.",
-        "es-ES": "[Leticia]\nVaya~ Tienes bastante agallas. Me gustas."
+        "pt-BR": "[Letícia]\nAh, você tem bastante coragem. Gostei.",
+        "es-ES": "[Leticia]\nVaya, la verdad que tienes actitud. Me gusta."
     },
     "Ofo8DQ": {
         "en-US": "Oh? You have quite a bit of spirit. I like you.",
-        "pt-BR": "Oh~ Você tem bastante coragem. Gostei.",
-        "es-ES": "Vaya~ Tienes bastante agallas. Me gustas."
+        "pt-BR": "Ah, você tem bastante coragem. Gostei.",
+        "es-ES": "Vaya, la verdad que tienes actitud. Me gusta."
     },
     "Ovo8DQ": {
         "en-US": "^0000FFIt is wounded in places, as if it had already fought a battle somewhere.^000000",
@@ -136,27 +136,27 @@
     },
     "O/o8DQ": {
         "en-US": "Sword... first lizards... and now... red lizards... Is this what I have become... driven back... by such insignificant... creatures? How pathetic...",
-        "pt-BR": "Espada... então, depois de um lagar...to... agora é um lagar...to vermelho... Que situação paté...tica a minha... ser empurrado por criaturas... tão insig...nificantes.",
+        "pt-BR": "Que situação paté...tica a minha... atacar criaturas... tão insig...nificantes.",
         "es-ES": "Espada... tras el lagar...to... ahora un lagar...to rojo... ¿eh? Qué paté...tica es mi situa...ción, haber sido expulsado... por seres tan insig...nificantes."
     },
     "PPo8DQ": {
         "en-US": "Lizards? With no eyes, I suppose you cannot see properly. At least you can still hold a sword.",
-        "pt-BR": "Lagarto? Sem olhos, não consegue nem enxergar direito. Mas até que segura bem essa espada.",
-        "es-ES": "¿Lagarto? Como no tienes ojos, ni siquiera sabes mirar bien. Pero vaya, sí que puedes sostener una espada."
+        "pt-BR": "Insignificantes? Ora, essa!",
+        "es-ES": "¿Lagartos? Como no tienes ojos, supongo que no puedes ver bien. Por lo menos puedes sostener una espada."
     },
     "Pfo8DQ": {
         "en-US": "Even... if it is you... I will take you... with me...",
         "pt-BR": "Vou levar... vocês... comigo... também...",
-        "es-ES": "Aunque sea... os llevaré... conmigo... a voso...tros."
+        "es-ES": "Por lo menos... me los voy a... llevar... conmigo..."
     },
     "Pvo8DQ": {
         "en-US": "Wounded Nacht Sieger",
-        "pt-BR": "Nacht Sieger Ferido",
-        "es-ES": "Nacht Sieger herido"
+        "pt-BR": "Naght Sieger Ferido",
+        "es-ES": "Naght Sieger herido"
     },
     "P/o8DQ": {
         "en-US": "<Fallen Phase>",
-        "pt-BR": "<Aspecto Caído>",
+        "pt-BR": "<Demônio Caído>",
         "es-ES": "<Fase caída>"
     },
     "QPo8DQ": {
@@ -166,12 +166,12 @@
     },
     "Qfo8DQ": {
         "en-US": "Remove Thorns_No Recovery_Set 10,000",
-        "pt-BR": "RemoverEspinhos_ProibirCura_Config10Mil",
+        "pt-BR": "Remover Thorns_No Recovery_Set 10.000",
         "es-ES": "Desactivar espinas_Sin recuperación_Ajuste 10 000"
     },
     "Qvo8DQ": {
         "en-US": "<Ruler's Protective Barrier>",
-        "pt-BR": "<Barreira Guardiã do Governante>",
+        "pt-BR": "<Barreira do Governante>",
         "es-ES": "<Barrera protectora del dominador>"
     }
 }

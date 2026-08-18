@@ -16,7 +16,7 @@
     },
     "I1AXCg": {
         "en-US": "[Piercing Brosnan]\nHi! Bring me some Half-Yelms that have received a slot so I can offer a random enchantment.",
-        "pt-BR": "[Piercing Brosnan]\nOlá! Traga-me alguns half-yelms que receberam um slot para que eu possa oferecer um encantamento aleatório.",
+        "pt-BR": "[Piercing Brosnan]\nOlá! Traga-me alguns Elmos de Meio [1] para que eu possa oferecer um encantamento aleatório.",
         "es-ES": "[Piercing Brosnan]\n¡Hola! Tráeme algunos Medios yelmos que hayan recibido una ranura para que pueda ofrecer un encantamiento al azar."
     },
     "JFAXCg": {
@@ -26,12 +26,12 @@
     },
     "JVAXCg": {
         "en-US": "Enchant (100 000 zeny).",
-        "pt-BR": "Encantar (100.000 Zeny).",
+        "pt-BR": "Encantar (100.000 Zeny)",
         "es-ES": "Encantar (100 000 zeny)."
     },
     "JlAXCg": {
         "en-US": "Restore enchantment.",
-        "pt-BR": "Restaurar encantamento.",
+        "pt-BR": "Resetar Encantos",
         "es-ES": "Restablecer encantamiento."
     },
     "J1AXCg": {
@@ -41,7 +41,7 @@
     },
     "KFAXCg": {
         "en-US": "[Plumber]\nDid you remove your equipment?",
-        "pt-BR": "[Encanador]\nVocê removeu seu equipamento?",
+        "pt-BR": "[Piercing Brosnan]\nVocê removeu seu equipamento?",
         "es-ES": "[Fontanera]\n¿Te quitaste el equipamiento?"
     },
     "KVAXCg": {
@@ -56,7 +56,7 @@
     },
     "K1AXCg": {
         "en-US": "[Piercing Brosnan]\nMy service costs 100 000 zeny.",
-        "pt-BR": "[Piercing Brosnan]\nMeu serviço custa 100 000 Zeny.",
+        "pt-BR": "[Piercing Brosnan]\nMeu serviço custa 100.000 zeny.",
         "es-ES": "[Piercing Brosnan]\nMi servicio cuesta 100 000 zeny."
     },
     "LFAXCg": {
@@ -81,12 +81,12 @@
     },
     "MFAXCg": {
         "en-US": "[Piercing Brosnan]\nThis equipment cannot be enchanted. Try another item or reset its enchantment.",
-        "pt-BR": "[Piercing Brosnan]\nEste equipamento não pode ser encantado. Tente outro item ou redefina seu encantamento.",
+        "pt-BR": "[Piercing Brosnan]\nEste equipamento não pode ser encantado. Tente outro item ou resete seu encantamento.",
         "es-ES": "[Piercing Brosnan]\nEste equipamiento no se puede encantar. Prueba con otro objeto o restablece su encantamiento."
     },
     "MVAXCg": {
         "en-US": "[Piercing Brosnan]\nThis equipment cannot be enchanted. Try another item or reset its enchantment.",
-        "pt-BR": "[Piercing Brosnan]\nEste equipamento não pode ser encantado. Tente outro item ou redefina seu encantamento.",
+        "pt-BR": "[Piercing Brosnan]\nEste equipamento não pode ser encantado. Tente outro item ou resete seu encantamento.",
         "es-ES": "[Piercing Brosnan]\nEste equipamiento no se puede encantar. Prueba con otro objeto o restablece su encantamiento."
     },
     "MlAXCg": {
@@ -106,7 +106,7 @@
     },
     "NVAXCg": {
         "en-US": "^AAAAAAReset (insufficient)^000000",
-        "pt-BR": "^AAAAAAReset (insuficiente)^000000",
+        "pt-BR": "^AAAAAAResetar (insuficiente)^000000",
         "es-ES": "^AAAAAAResetar (insuficiente)^000000"
     },
     "NlAXCg": {
@@ -116,7 +116,7 @@
     },
     "N1AXCg": {
         "en-US": "[Piercing Brosnan]\nAt the price of 1 Silvervine Fruit or 1 Meowfruit, a.\n^0000FF{0}^000000 will have the enchantment removed.",
-        "pt-BR": "[Piercing Brosnan]\nPelo preço de 1 Fruta dos Gatos ou 1 MiauMiau, um.\n^0000FF{0}^000000 terá o encantamento removido.",
+        "pt-BR": "[Piercing Brosnan]\nPelo preço de 1 Fruta dos Gatos ou 1 MiauMiau,\n^0000FF{0}^000000 terá o encantamento removido.",
         "es-ES": "[Piercing Brosnan]\nAl precio de 1 Fruta Silvervine o 1 Miaufruto, a\n^0000FF{0}^000000 se le quitará el encantamiento."
     },
     "OFAXCg": {
@@ -126,12 +126,12 @@
     },
     "OVAXCg": {
         "en-US": "[Piercing Brosnan]\n[Piercing Brosnan] All right.",
-        "pt-BR": "[Piercing Brosnan]\n[Tudo bem.",
+        "pt-BR": "[Piercing Brosnan]\nTudo bem.",
         "es-ES": "[Piercing Brosnan]\nDe acuerdo."
     },
     "OlAXCg": {
         "en-US": "[Piercing Brosnan]\nPlease bring an object that is enchanted, okay?",
-        "pt-BR": "[Piercing Brosnan]\nPor favor, traga um objeto que seja encantado, ok?",
+        "pt-BR": "[Piercing Brosnan]\nPor favor, traga um item que esteja encantado, ok?",
         "es-ES": "[Piercing Brosnan]\nPor favor, trae un objeto que esté encantado, ¿de acuerdo?"
     },
     "O1AXCg": {
@@ -141,7 +141,7 @@
     },
     "PFAXCg": {
         "en-US": "[Piercing Brosnan]\nYou don't have Meowfruit or Silvervine Fruit....",
-        "pt-BR": "[Piercing Brosnan]\nVocê não tem gatos MiauMiau ou Fruta dos Gatos...",
+        "pt-BR": "[Piercing Brosnan]\nVocê não tem MiauMiau ou Fruta dos Gatos...",
         "es-ES": "[Piercing Brosnan]\nNo tienes Miaufrutos ni Fruta Silvervine..."
     },
     "PVAXCg": {
@@ -166,37 +166,37 @@
     },
     "QVAXCg": {
         "en-US": "Elf ears.",
-        "pt-BR": "Orelhas de Elfo.",
+        "pt-BR": "Orelhas de Elfo",
         "es-ES": "Orejas élficas."
     },
     "QlAXCg": {
         "en-US": "Mask of the black devil.",
-        "pt-BR": "Máscara Esquisita.",
+        "pt-BR": "Máscara Esquisita",
         "es-ES": "Máscara del diablo negro."
     },
     "Q1AXCg": {
         "en-US": "Sunglasses.",
-        "pt-BR": "Óculos Escuros.",
+        "pt-BR": "Óculos Escuros",
         "es-ES": "Gafas de sol."
     },
     "RFAXCg": {
         "en-US": "Glasses.",
-        "pt-BR": "Óculos.",
+        "pt-BR": "Óculos",
         "es-ES": "Gafas."
     },
     "RVAXCg": {
         "en-US": "Blush.",
-        "pt-BR": "Candura.",
+        "pt-BR": "Candura",
         "es-ES": "Rubor."
     },
     "RlAXCg": {
         "en-US": "Small loops.",
-        "pt-BR": "Laços pequenos.",
+        "pt-BR": "Lacinhos",
         "es-ES": "Lazos pequeños."
     },
     "R1AXCg": {
         "en-US": "Dark blindfold.",
-        "pt-BR": "Venda escura.",
+        "pt-BR": "Venda Sombria",
         "es-ES": "Venda oscura."
     },
     "SFAXCg": {
@@ -206,17 +206,17 @@
     },
     "SVAXCg": {
         "en-US": "[Master puncher]\nAhh, you got the equipment and a <ITEM>Spiritual punch<INFO>6396</INFO></ITEM>!",
-        "pt-BR": "[Mestre Furacius]\nAhh, você tem o equipamento e um <ITEM>Soco espiritual<INFO>6396</INFO></ITEM>!",
+        "pt-BR": "[Mestre Furacius]\nAhh, você tem o equipamento e um <ITEM>[Perfurador]<INFO>6396</INFO></ITEM>!",
         "es-ES": "[Maestro perforador]\n¡Ahh, tienes el equipamiento y un <ITEM>Punzón espiritual<INFO>6396</INFO></ITEM>!"
     },
     "SlAXCg": {
         "en-US": "[Master Driller]\nI can open a slot in this equipment, but with only a 25% chance of success!",
-        "pt-BR": "[Master Driller]\nPosso abrir um espaço nesse equipamento, mas com apenas 25% de chance de sucesso!",
+        "pt-BR": "[Mestre Furacius]\nPosso abrir um espaço nesse equipamento, mas com apenas 25% de chance de sucesso!",
         "es-ES": "[Maestro perforador]\n¡Puedo abrir una ranura en este equipamiento, pero con tan solo un 25 % de probabilidades de éxito!"
     },
     "S1AXCg": {
         "en-US": "[Master Driller]\nIf you fail, ^FF0000 you will lose your equipment^000000 forever. Do you want to continue?",
-        "pt-BR": "[Mestre Furacius]\nSe falhar, ^FF0000 você perderá seu equipamento^000000 para sempre. Deseja continuar?",
+        "pt-BR": "[Mestre Furacius]\nSe falhar, ^FF0000você perderá seu equipamento^000000 para sempre. Deseja continuar?",
         "es-ES": "[Maestro perforador]\nSi falla, ^FF0000perderás tu equipamiento^000000 para siempre. ¿Quieres continuar?"
     },
     "TFAXCg": {
@@ -226,7 +226,7 @@
     },
     "TVAXCg": {
         "en-US": "Continue.",
-        "pt-BR": "Continue.",
+        "pt-BR": "Continuar com o procedimento.",
         "es-ES": "Continuar."
     },
     "TlAXCg": {
@@ -256,22 +256,22 @@
     },
     "U1AXCg": {
         "en-US": "[Master puncher]\nYou should have the item equipped and a <ITEM>Spiritual punch<INFO>6396</INFO></ITEM>.",
-        "pt-BR": "[Mestre Furacius]\nVocê deve ter o item equipado e um <ITEM>Soco espiritual<INFO>6396</INFO></ITEM>.",
+        "pt-BR": "[Mestre Furacius]\nVocê deve ter o item equipado e um <ITEM>[Perfurador]<INFO>6396</INFO></ITEM>.",
         "es-ES": "[Maestro perforador]\nDeberías tener el objeto equipado y un <ITEM>Punzón espiritual<INFO>6396</INFO></ITEM>."
     },
     "VFAXCg": {
         "en-US": "[Master Driller]\nI can open a slot in this equipment, but with only a 25% chance of success!",
-        "pt-BR": "[Master Driller]\nPosso abrir um espaço nesse equipamento, mas com apenas 25% de chance de sucesso!",
+        "pt-BR": "[Mestre Furacius]\nPosso abrir um espaço nesse equipamento, mas com apenas 25% de chance de sucesso!",
         "es-ES": "[Maestro perforador]\n¡Puedo abrir una ranura en este equipamiento, pero con tan solo un 25 % de probabilidades de éxito!"
     },
     "VVAXCg": {
         "en-US": "[Master Driller]\nIf you fail, ^FF0000 you will lose your equipment^000000 forever. Do you want to continue?",
-        "pt-BR": "[Mestre Furacius]\nSe falhar, ^FF0000 você perderá seu equipamento^000000 para sempre. Deseja continuar?",
+        "pt-BR": "[Mestre Furacius]\nSe falhar, ^FF0000você perderá seu equipamento^000000 para sempre. Deseja continuar?",
         "es-ES": "[Maestro perforador]\nSi falla, ^FF0000perderás tu equipamiento^000000 para siempre. ¿Quieres continuar?"
     },
     "VlAXCg": {
         "en-US": "[Master Driller]\nIf you fail, ^FF0000 you will lose your equipment^000000 forever. Do you want to continue?",
-        "pt-BR": "[Mestre Furacius]\nSe falhar, ^FF0000 você perderá seu equipamento^000000 para sempre. Deseja continuar?",
+        "pt-BR": "[Mestre Furacius]\nSe falhar, ^FF0000você perderá seu equipamento^000000 para sempre. Deseja continuar?",
         "es-ES": "[Maestro perforador]\nSi falla, ^FF0000perderás tu equipamiento^000000 para siempre. ¿Quieres continuar?"
     },
     "V1AXCg": {
@@ -281,7 +281,7 @@
     },
     "WFAXCg": {
         "en-US": "Plumber",
-        "pt-BR": "Encanador",
+        "pt-BR": "Encanadora",
         "es-ES": "Fontanera"
     },
     "WVAXCg": {
@@ -291,7 +291,7 @@
     },
     "WlAXCg": {
         "en-US": "Sigrún handles",
-        "pt-BR": "Alças de Sigrún",
+        "pt-BR": "Asas de Sigrún",
         "es-ES": "Asas de Sigrún"
     },
     "W1AXCg": {
@@ -311,17 +311,17 @@
     },
     "XlAXCg": {
         "en-US": "Bandage",
-        "pt-BR": "Bandagem",
+        "pt-BR": "Venda",
         "es-ES": "Venda"
     },
     "X1AXCg": {
         "en-US": "Alarm Mask",
-        "pt-BR": "Máscara de alarme",
+        "pt-BR": "Máscara de Alarme",
         "es-ES": "Máscara de Alarme"
     },
     "YFAXCg": {
         "en-US": "Opera Mask",
-        "pt-BR": "Máscara de ópera",
+        "pt-BR": "Máscara de Ópera",
         "es-ES": "Máscara de Ópera"
     },
     "YVAXCg": {
@@ -341,52 +341,52 @@
     },
     "ZFAXCg": {
         "en-US": "[Plumber]\nWith the item equipped and a <ITEM>Spiritual Plunger<INFO>25041</INFO></ITEM>, I can open a card slot in a Half helmet.",
-        "pt-BR": "[Encanador]\nCom o item equipado e um <ITEM>Desentupidor<INFO>25041</INFO></ITEM>, posso abrir um slot de cartão em um Meio capacete.",
+        "pt-BR": "[Encanadora]\nCom o item equipado e um <ITEM>[Desentupidor]<INFO>25041</INFO></ITEM>, posso abrir um slot.",
         "es-ES": "[Plomero]\nCon el objeto equipado y un <ITEM>Desatascador espiritual<INFO>25041</INFO></ITEM>, puedo abrir una ranura de carta en un Medio yelmo."
     },
     "ZVAXCg": {
         "en-US": "[Plumber]\n^FF0000The probability of success is 25%^000000. If you fail, ^FF0000you will lose all materials^000000. Do you want to open a slot?",
-        "pt-BR": "[Encanador]\n{A probabilidade de sucesso é de 25%^000000. Se falhar, ^FF0000você perderá todos os materiais^000000. Deseja abrir um slot?",
+        "pt-BR": "[Encanadora]\n^FF0000A probabilidade de sucesso é de 25%^000000. Se falhar, ^FF0000você perderá TUDO^000000. Deseja abrir um slot?",
         "es-ES": "[Plomero]\n^FF0000La probabilidad de éxito es del 25 %.^000000. Si falla, ^FF0000perderás todos los materiales^000000. ¿Quieres abrir una ranura?"
     },
     "ZlAXCg": {
         "en-US": "[Plumber]\nI understand! I would be afraid too.",
-        "pt-BR": "[Encanador]\nEu entendo! Eu também teria medo.",
+        "pt-BR": "[Encanadora]\nEu entendo! Eu também teria medo.",
         "es-ES": "[Plomero]\n¡Entiendo! Yo también tendría miedo."
     },
     "Z1AXCg": {
         "en-US": "[Plumber]\nCome back when you've worked up the courage!",
-        "pt-BR": "[Encanador]\nVolte quando tiver coragem!",
+        "pt-BR": "[Encanadora]\nVolte quando tiver coragem!",
         "es-ES": "[Plomero]\n¡Vuelve cuando te hayas armado de valor!"
     },
     "aFAXCg": {
         "en-US": "[Plumber]\nI don't know how to open a slot in this object.",
-        "pt-BR": "[Encanador]\nNão sei como abrir uma fenda nesse objeto.",
+        "pt-BR": "[Encanadora]\nNão sei como abrir um slot nesse item.",
         "es-ES": "[Plomero]\nNo sé cómo abrir una ranura en este objeto."
     },
     "aVAXCg": {
         "en-US": "[Plumber]\nYou don't have a Spiritual Plunger.",
-        "pt-BR": "[Encanador]\nVocê não tem um Desentupidor Espiritual.",
+        "pt-BR": "[Encanadora]\nVocê não tem um <ITEM>[Desentupidor]<INFO>25041</INFO></ITEM>.",
         "es-ES": "[Plomero]\nNo tienes un Desatascador espiritual."
     },
     "alAXCg": {
         "en-US": "[Plumber]\nDo not remove your equipment during the process.",
-        "pt-BR": "[Encanador]\nNão remova seu equipamento durante o processo.",
+        "pt-BR": "[Encanadora]\nNão remova seu equipamento durante o processo.",
         "es-ES": "[Plomero]\nNo te quites el equipamiento durante el proceso."
     },
     "a1AXCg": {
         "en-US": "[Plumber]\nAh...\nUnfortunately, the procedure went wrong. I'm sorry about your items.",
-        "pt-BR": "[Encanador]\nAh...\nInfelizmente, o procedimento deu errado. Sinto muito por seus itens.",
+        "pt-BR": "[Encanadora]\nAh...\nInfelizmente, o procedimento deu errado. Sinto muito por seus itens.",
         "es-ES": "[Plomero]\nAh...\nPor desgracia, el procedimiento salió mal. Siento lo de tus objetos."
     },
     "bFAXCg": {
         "en-US": "[Plumber]\nLooks like it worked! Come back anytime.",
-        "pt-BR": "[Encanador]\nParece que funcionou! Volte sempre que quiser.",
+        "pt-BR": "[Encanadora]\nParece que funcionou! Volte sempre que quiser.",
         "es-ES": "[Plomero]\n¡Parece que funcionó! Vuelve cuando quieras."
     },
     "bVAXCg": {
         "en-US": "Proceed",
-        "pt-BR": "Aprimorar",
+        "pt-BR": "Abrir um slot",
         "es-ES": "Continuar."
     }
 }

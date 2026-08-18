@@ -25,14 +25,14 @@
         "es-ES": "Outer Castle Soldier Guardian"
     },
     "peBjAg": {
-        "en-US": "Curly Sue",
+        "en-US": "Deborah",
         "pt-BR": "Curly Sue",
         "es-ES": "Curly Sue"
     },
     "puBjAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[Voz Reverberante]\nBravos...\nDesejam voltar para seu lugar de honra?",
-        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
     },
     "p+BjAg": {
         "en-US": "Go back to your stronghold.",
@@ -210,7 +210,7 @@
         "es-ES": "Amperios"
     },
     "yuBjAg": {
-        "en-US": "ssss[{0}] guild has conquered Curly Sue in the [{1}] Realm.",
+        "en-US": "ssssThe clan [{0}] has conquered the castle [{1}]",
         "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
         "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
@@ -597,7 +597,7 @@
     "F+FjAg": {
         "en-US": "[Butler Ampere]\n...\nKafra Employee dismissed... \tbut is there something you didn't \tlike about?",
         "pt-BR": "[Mordomo Ampere]\n...\nFuncionária da Kafra dispensada... mas há algo de que você não gostou?",
-        "es-ES": "[Mayordomo Ampere]\n…\nEmpleada de Kafra despedida… \t¿hay algo que no haya sido \tde tu agrado?"
+        "es-ES": "[Mayordomo Ampere]\n...\nEmpleada de Kafra despedida... \t¿hay algo que no haya sido \tde tu agrado?"
     },
     "GOFjAg": {
         "en-US": "[Butler Ampere]\nWould you like \tto contact \tKafra and hire one of its employees \tfor your stronghold?\n^FF0000\tThat'll be \t10,000 Zeny\t.",
@@ -695,72 +695,118 @@
         "es-ES": "No pasó nada."
     },
     "K+FjAg": {
-        "en-US": "[Kafra\tEmployee]\nWelcome, ^FF0000{0}^000000 guildsmen.\nKafra \tis always \twith you."
+        "en-US": "[Kafra\tEmployee]\nWelcome, ^FF0000{0}^000000 guildsmen.\nKafra \tis always \twith you.",
+        "pt-BR": "[Funcionária da Kafra]\nBem-vindos, membros da guilda ^FF0000{0}^000000.\nA Kafra está sempre com vocês.",
+        "es-ES": "[Empleado de\tKafra]\nLes damos la bienvenida, miembros del gremio ^FF0000{0}^000000.\nKafra \testá siempre \ta tu disposición."
     },
     "LOFjAg": {
-        "en-US": "Teleport."
+        "en-US": "Teleport.",
+        "pt-BR": "Teletransporte.",
+        "es-ES": "Teletransportarse."
     },
     "LeFjAg": {
-        "en-US": "[Kafra\tEmployee]\nI'm sorry, but you don't have \tenough Zeny.\t Please \tcheck your wallet."
+        "en-US": "[Kafra\tEmployee]\nI'm sorry, but you don't have \tenough Zeny.\t Please \tcheck your wallet.",
+        "pt-BR": "[Funcionária da Kafra]\nSinto muito, mas você não tem Zeny suficiente. Por favor, verifique sua carteira.",
+        "es-ES": "[Empleado de\tKafra]\nLo siento, pero no tienes \tsuficientes zeny.\t Por favor, \trevisa tu billetera."
     },
     "LuFjAg": {
-        "en-US": "[Kafra\tEmployee]\nKafra always strives \tto provide you \twith reliable and friendly services.\nThank you \tfor using Kafra."
+        "en-US": "[Kafra\tEmployee]\nKafra always strives \tto provide you \twith reliable and friendly services.\nThank you \tfor using Kafra.",
+        "pt-BR": "[Funcionária da Kafra]\nA Kafra sempre se esforça para lhe oferecer serviços confiáveis e amigáveis.\nObrigada por utilizar os serviços da Corporação Kafra.",
+        "es-ES": "[Empleado de\tKafra]\nKafra siempre se esfuerza \tpor brindarte \tservicios confiables y agradables.\t\nGracias \tpor usar Kafra."
     },
     "L+FjAg": {
-        "en-US": "[Kafra\tEmployee]\nI'm sorry, \tbut I'm here only to serve \tthe members of the ^FF0000{0}^000000 guild. Please ask \ta Kafra Employee \tsomewhere else. I apologize \tfor this inconvenience."
+        "en-US": "[Kafra\tEmployee]\nI'm sorry, \tbut I'm here only to serve \tthe members of the ^FF0000{0}^000000 guild. Please ask \ta Kafra Employee \tsomewhere else. I apologize \tfor this inconvenience.",
+        "pt-BR": "[Funcionária da Kafra]\nLamento, mas estou aqui para servir exclusivamente aos membros da ^FF0000{0}^000000. Desculpe-me pelo inconveniente.",
+        "es-ES": "[Empleado de\tKafra]\nLo siento, \tpero estoy aquí solo para servir \ta los miembros del gremio ^FF0000{0}^000000. Pregúntale \ta un empleado de Kafra \ten otra parte. Disculpa \tlas molestias."
     },
     "MOFjAg": {
-        "en-US": "You've already invested once. Would you like to invest again?\t You need additional ^FF0000{0}^000000 Zeny."
+        "en-US": "You've already invested once. Would you like to invest again?\t You need additional ^FF0000{0}^000000 Zeny.",
+        "pt-BR": "Você já investiu uma vez. Você gostaria de investir novamente? Você precisa de mais ^FF0000{0}^000000 Zeny.",
+        "es-ES": "Ya invertiste una vez. ¿Te gustaría volver a invertir?\tNecesitas ^FF0000{0}^000000zeny más."
     },
     "MeFjAg": {
-        "en-US": "[Butler Ampere]\nBy investing in defense, \tyou can increase the durability of your Guardians and Emperium. \tYou cannot but invest in it \tif you want to protect your stronghold."
+        "en-US": "[Butler Ampere]\nBy investing in defense, \tyou can increase the durability of your Guardians and Emperium. \tYou cannot but invest in it \tif you want to protect your stronghold.",
+        "pt-BR": "[Mordomo Ampere]\nAo investir na Defesa, você estará aumentado a durabilidade de nossos Guardiões e de nosso Emperium. Você não pode deixar de investir nisso se quiser proteger sua fortaleza.",
+        "es-ES": "[Mayordomo Ampere]\nSi inviertes en defensa, \tpodrás aumentar la durabilidad de tus Guardianes y tu Emperium. \tDeberías invertir en defensa \tsi quieres proteger tu fortaleza."
     },
     "MuFjAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "M+FjAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "NOFjAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "NeFjAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "NuFjAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "N+FjAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "OOFjAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "OeFjAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "OuFjAg": {
-        "en-US": "[Butler Ampere]\nWould you like to add a Guardian?\tIt'll fight to the death \tto protect our stronghold \tagainst enemies.\nPlease select \tthe Guardian you want."
+        "en-US": "[Butler Ampere]\nWould you like to add a Guardian?\tIt'll fight to the death \tto protect our stronghold \tagainst enemies.\nPlease select \tthe Guardian you want.",
+        "pt-BR": "[Mordomo Ampere]\nVocê gostaria de adicionar um Guardião? Ele lutará até a morte para proteger nossa fortaleza contra inimigos.\nSelecione o Guardião que você deseja.",
+        "es-ES": "[Mayordomo Ampere]\n¿Te gustaría agregar un Guardián?\tLuchará hasta la muerte \tpara proteger nuestra fortaleza \tcontra los enemigos.\t\nSelecciona \tel Guardián que quieras."
     },
     "O+FjAg": {
-        "en-US": "[Butler Ampere]\nWould you like \tto contact \tKafra and hire one of its employees \tfor your stronghold?\n^FF0000\tThat'll be \t10,000 Zeny\t."
+        "en-US": "[Butler Ampere]\nWould you like \tto contact \tKafra and hire one of its employees \tfor your stronghold?\n^FF0000\tThat'll be \t10,000 Zeny\t.",
+        "pt-BR": "[Mordomo Ampere]\nGostaria de entrar em contato com a Kafra e contratar um de seus funcionários para sua fortaleza?\n^FF0000 Serão 10.000 Zeny.",
+        "es-ES": "[Mayordomo Ampere]\n¿Quieres contactar \tcon Kafra \ty contratar a uno de sus empleados \tpara tu fortaleza?\n^FF0000\tSon \t10000 zeny\t."
     },
     "POFjAg": {
-        "en-US": "[Hired Kafra\t Employee]\nHello. \tI'm from Kafra.\nI'll serve you and your guild to the best of my ability."
+        "en-US": "[Hired Kafra\t Employee]\nHello. \tI'm from Kafra.\nI'll serve you and your guild to the best of my ability.",
+        "pt-BR": "[Funcionária contratada da Kafra]\nOlá. Sou da Kafra.\nServirei a você e à sua guilda com o melhor de minhas capacidades.",
+        "es-ES": "[Empleada de Kafra\tcontratada]\nHola. \tSoy de Kafra.\t\nTe serviré a ti y a tu gremio lo mejor que pueda."
     },
     "PeFjAg": {
-        "en-US": "[Butler Ampere]\nAs you wish. But please keep in mind \tthat a Kafra Employee can make things much more comfortable \tfor your guildsmen."
+        "en-US": "[Butler Ampere]\nAs you wish. But please keep in mind \tthat a Kafra Employee can make things much more comfortable \tfor your guildsmen.",
+        "pt-BR": "[Mordomo Ampere]\nComo quiser. Mas lembre-se de que uma Funcionária da Kafra pode tornar as coisas muito mais confortáveis para seus companheiros de guilda.",
+        "es-ES": "[Mayordomo Ampere]\nComo quieras. Pero ten en cuenta \tque un empleado de Kafra puede hacer las cosas mucho más cómodas \tpara los miembros de tu gremio."
     },
     "PuFjAg": {
-        "en-US": "[Butler Ampere]\nWould you like to go where our precious products are stored?\nOnly you, \tMaster, \thave access to it."
+        "en-US": "[Butler Ampere]\nWould you like to go where our precious products are stored?\nOnly you, \tMaster, \thave access to it.",
+        "pt-BR": "[Mordomo Ampere]\nVocê gostaria de ir até a sala do tesouro?\nSomente Vossa Alteza tem acesso aos tesouros.",
+        "es-ES": "[Mayordomo Ampere]\n¿Te gustaría ver dónde se almacenan nuestros preciados productos?\nSolo tú \tpuedes acceder, \tlíder."
     },
     "P+FjAg": {
-        "en-US": "[Butler Ampere]\nPlease note Treasure Chests may disappear \twhen the stronghold \tfaces unexpected situations\nif you don't open them within a certain amount of time.\nPlease collect them \tas often as you can in consideration \tof our guild's development."
+        "en-US": "[Butler Ampere]\nPlease note Treasure Chests may disappear \twhen the stronghold \tfaces unexpected situations\nif you don't open them within a certain amount of time.\nPlease collect them \tas often as you can in consideration \tof our guild's development.",
+        "pt-BR": "[Mordomo Ampere]\nObserve que os baús de tesouro podem desaparecer quando o castelo enfrentar situações inesperadas\nse você não os abrir em um determinado período de tempo.\nPor favor, colete-os sempre que puder visando o desenvolvimento da nossa guilda.",
+        "es-ES": "[Mayordomo Ampere]\nTen en cuenta que los cofres de tesoro pueden desaparecer \tcuando la fortaleza \tse enfrenta a situaciones inesperadas\t\nsi no los abres en un plazo de tiempo determinado.\nRecoléctalos \ttan a menudo como puedas en consideración \tal desarrollo de nuestro gremio."
     },
     "QOFjAg": {
-        "en-US": "[Reverberating Voice]\nOne \twho overcomes the trial \tof the conqueror \twill find the path to another trial."
+        "en-US": "[Reverberating Voice]\nOne \twho overcomes the trial \tof the conqueror \twill find the path to another trial.",
+        "pt-BR": "[Voz reverberante]\nAquele que superar a provação do conquistador encontrará o caminho para outra provação.",
+        "es-ES": "[Voz reverberante]\nQuien \tsupere la prueba \tdel conquistador \thallará el camino hacia otra prueba."
     },
     "QeFjAg": {
-        "en-US": "[Reverberating Voice]\nOnly \tthe conqueror of the trial\t is worthy of that path."
+        "en-US": "[Reverberating Voice]\nOnly \tthe conqueror of the trial\t is worthy of that path.",
+        "pt-BR": "[Voz reverberante]\nSomente o conquistador da provação é digno desse caminho.",
+        "es-ES": "[Voz reverberante]\nSolo \tel conquistador de la prueba \tes digno de ese camino."
     }
 }

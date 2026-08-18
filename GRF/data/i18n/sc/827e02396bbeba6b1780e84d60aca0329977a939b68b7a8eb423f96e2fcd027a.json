@@ -1,0 +1,442 @@
+{
+    "QG91DQ": {
+        "en-US": "Dr. Serafit#",
+        "pt-BR": "Dr. Serafit#",
+        "es-ES": "Dr. Serafit#"
+    },
+    "QW91DQ": {
+        "en-US": "- You have too many items in your possession to proceed. -",
+        "pt-BR": "- Você possui itens demais para prosseguir. -",
+        "es-ES": "- No puedes continuar porque llevas demasiados objetos. -"
+    },
+    "Qm91DQ": {
+        "en-US": "[Dr. Serafit]\nIt is important to exercise consistently.",
+        "pt-BR": "[Dr. Serafit]\nÉ importante se exercitar sempre!",
+        "es-ES": "[Dr. Serafit]\nEs importante hacer ejercicio de manera constante."
+    },
+    "Q291DQ": {
+        "en-US": "- You cannot proceed with this\n- quest because your level is too low.\n- Required Level: 200",
+        "pt-BR": "- Esta missão não pode ser iniciada\n- porque seu nível é insuficiente.\n- Nível recomendado: 200",
+        "es-ES": "- No puedes continuar con esta\n- misión porque tu nivel es insuficiente.\n- Nivel recomendado: 200"
+    },
+    "RG91DQ": {
+        "en-US": "[Dr. Serafit]\nGreetings. Do you like exercising?",
+        "pt-BR": "[Dr. Serafit]\nComo vai? Você gosta de se exercitar?",
+        "es-ES": "[Dr. Serafit]\n¿Cómo estás? ¿Te gusta hacer ejercicio?"
+    },
+    "RW91DQ": {
+        "en-US": "[Marco Gherita]\nNo, that's not the point right now, is it? Why are you asking that now? Hurry up and ask what you were originally going to ask.",
+        "pt-BR": "[Marco Gherita]\nNão, não é isso que importa agora! Por que está perguntando isso? Fale logo o que você disse que ia dizer.",
+        "es-ES": "[Marco Gherita]\n¡No, no es eso ahora! ¿Por qué preguntas eso ahora? Pregunta de una vez lo que ibas a preguntar originalmente."
+    },
+    "Rm91DQ": {
+        "en-US": "[Dr. Serafit]\nIt was leg day. But for some reason, that day I wanted to try doing lower-body exercises somewhere different.",
+        "pt-BR": "[Dr. Serafit]\nEra dia de treino de pernas. Mas, por algum motivo, naquele dia eu quis fazer o treino em um lugar diferente.",
+        "es-ES": "[Dr. Serafit]\nEra día de entrenamiento de piernas. Pero ese día, de manera extraña, quería hacerlo en un lugar diferente."
+    },
+    "R291DQ": {
+        "en-US": "[Marco Gherita]\nNooo! That's not what's important right now. Ugh, this is frustrating.",
+        "pt-BR": "[Marco Gherita]\nNãooo! Isso não é importante! Ah, que frustração.",
+        "es-ES": "[Marco Gherita]\n¡Nooo! Eso no es importante ahora. Ay, qué desesperación."
+    },
+    "SG91DQ": {
+        "en-US": "[Dr. Serafit]\nWhile searching for somewhere different, I ended up coming here. When I did lower-body exercises in this unusual place, I felt like my workout was going better than usual.",
+        "pt-BR": "[Dr. Serafit]\nProcurei por um lugar diferente e acabei chegando aqui. Quando comecei a fazer meu treino de pernas neste lugar peculiar, logo senti uma melhora nos resultados.",
+        "es-ES": "[Dr. Serafit]\nBusqué un lugar diferente y terminé llegando hasta aquí. Cuando hice el entrenamiento de piernas en este lugar tan peculiar, sentí que rendí mejor que de costumbre."
+    },
+    "SW91DQ": {
+        "en-US": "[Marco Gherita]\nSigh...",
+        "pt-BR": "[Marco Gherita]\nAaah...",
+        "es-ES": "[Marco Gherita]\nAhh..."
+    },
+    "Sm91DQ": {
+        "en-US": "[Dr. Serafit]\nJust then, that human named Marco Gherita pushed me.",
+        "pt-BR": "[Dr. Serafit]\nFoi justamente nesse momento que aquele humano chamado Marco Gherita me empurrou.",
+        "es-ES": "[Dr. Serafit]\nFue justo en ese momento cuando ese humano llamado Marco Gherita me empujó."
+    },
+    "S291DQ": {
+        "en-US": "[Dr. Serafit]\nBecause of that human over there, my small and delicate foot fell into the rift here.",
+        "pt-BR": "[Dr. Serafit]\nPor causa daquele humano, acabei prendendo meu pequeno e frágil pé nesta fenda aqui.",
+        "es-ES": "[Dr. Serafit]\n¡Por culpa de ese humano! Mi pequeño y frágil pie acabó metiéndose en esta grieta."
+    },
+    "TG91DQ": {
+        "en-US": "[Marco Gherita]\nW-wait, I have something to say. I did not push you. I was simply traveling through the rift too.",
+        "pt-BR": "[Marco Gherita]\nEspere aí! Me escute! Eu não empurrei ninguém. Eu só estava de passagem por esta fenda.",
+        "es-ES": "[Marco Gherita]\n¡Espera! Tengo algo que decir. Yo no empujé a nadie. Yo también solo estaba viajando por esta grieta."
+    },
+    "TW91DQ": {
+        "en-US": "[Dr. Serafit]\nI am a Laphine. I am familiar with magic, and I am desperately trying to stop the rift created because of that human from growing larger.",
+        "pt-BR": "[Dr. Serafit]\nEu sou um Laphine. Tenho afinidades mágicas e estou me esforçando ao máximo para impedir que a fenda criada por aquele humano aumente.",
+        "es-ES": "[Dr. Serafit]\nSoy una Laphine. Tengo afinidad con el poder mágico, y estoy haciendo todo lo posible para evitar que la grieta creada por ese humano se expanda."
+    },
+    "Tm91DQ": {
+        "en-US": "[Marco Gherita]\nYes, yes... I'm sure you are. And I was caught without doing anything wrong and forced into labor.",
+        "pt-BR": "[Marco Gherita]\nSim, sim... claro. E eu fui capturado injustamente e estou sendo forçado a fazer trabalho forçado.",
+        "es-ES": "[Marco Gherita]\nSí, sí... claro. Yo estoy aquí atrapado sin culpa y realizando trabajos forzados."
+    },
+    "T291DQ": {
+        "en-US": "[Dr. Serafit]\nAsk that human named Marco Gherita for the details, and if you want to go to the Airship Crash Site, speak to me.",
+        "pt-BR": "[Dr. Serafit]\nPergunte os detalhes ao humano chamado Marco Gherita. Se quiser ir ao Local da Queda do Aeroplano, fale comigo.",
+        "es-ES": "[Dr. Serafit]\nPregúntale los detalles al humano llamado Marco Gherita. Si quieres ir al Lugar del Accidente Aéreo a través de esta grieta, habla conmigo."
+    },
+    "UG91DQ": {
+        "en-US": "[Marco Gherita]\nIf you have any more questions, ask me. Going to the Airship Crash Site will certainly not be a loss for you, Adventurer.",
+        "pt-BR": "[Marco Gherita]\nSe tiver mais dúvidas, pergunte a mim. Ir ao Local da Queda do Aeroplano certamente não será um desperdício para você, aventureiro.",
+        "es-ES": "[Marco Gherita]\nSi tiene más preguntas, pregúnteme a mí. Ir al Lugar de la Caída de la Aeronave tampoco será una pérdida para usted, aventurero."
+    },
+    "UW91DQ": {
+        "en-US": "Airship Crash Site",
+        "pt-BR": "Local da Queda do Aeroplano",
+        "es-ES": "Lugar de la Caída de la Aeronave"
+    },
+    "Um91DQ": {
+        "en-US": "[Dr. Serafit]\nIt looks like you have overcome the aftereffects of the magic that affected your body. You should be able to go to the Airship Crash Site again.",
+        "pt-BR": "[Dr. Serafit]\nParece que os efeitos colaterais do poder mágico já se dissiparam. É possível ir novamente ao Local da Queda do Aeroplano.",
+        "es-ES": "[Dr. Serafit]\nParece que has superado las secuelas del poder mágico que afectó a tu cuerpo. Podrás volver al Lugar de la Caída de la Aeronave."
+    },
+    "U291DQ": {
+        "en-US": "[Dr. Serafit]\nGreetings. Have you come to me because you wish to go to the Airship Crash Site?",
+        "pt-BR": "[Dr. Serafit]\nComo vai? Veio me procurar para ir ao Local da Queda do Aeroplano?",
+        "es-ES": "[Dr. Serafit]\n¿Cómo estás? ¿Has venido a buscarme porque quieres ir al Lugar de la Caída de la Aeronave?"
+    },
+    "VG91DQ": {
+        "en-US": "Apply for entry to the Airship Crash Site.",
+        "pt-BR": "Solicitar entrada para o Local da Queda do Aeroplano.",
+        "es-ES": "Solicitar entrada al Lugar de la Caída de la Aeronave."
+    },
+    "VW91DQ": {
+        "en-US": "Enter the Airship Crash Site.",
+        "pt-BR": "Entrar em Local da Queda do Aeroplano.",
+        "es-ES": "Entrar al Lugar de la Caída de la Aeronave."
+    },
+    "Vm91DQ": {
+        "en-US": "Go home.",
+        "pt-BR": "Sair.",
+        "es-ES": "Ir a casa."
+    },
+    "V291DQ": {
+        "en-US": "[Dr. Serafit]\nYou may not feel it clearly, but you are suffering from the aftereffects of the site's magic. It is dangerous, so wait until it is resolved.",
+        "pt-BR": "[Dr. Serafit]\nTalvez não tenha percebido, mas você está sob efeitos colaterais do poder mágico do local. É perigoso, então aguarde um pouco até normalizar.",
+        "es-ES": "[Dr. Serafit]\nQuizá no lo notes bien, pero estás sufriendo las secuelas del poder mágico. Es peligroso, así que espera hasta que se resuelva."
+    },
+    "WG91DQ": {
+        "en-US": "[Dr. Serafit]\nThe magic of the rift is unstable right now, so I do not think I can send you to the Airship Crash Site. Please wait until the magic stabilizes.",
+        "pt-BR": "[Dr. Serafit]\nNo momento, o poder mágico da fenda está instável, então acho que não consigo enviar você ao Local da Queda do Aeroplano. Aguarde até que o poder mágico se estabilize.",
+        "es-ES": "[Dr. Serafit]\nAhora el poder mágico de la grieta es inestable, así que no creo que pueda enviarte al Lugar de la Caída de la Aeronave. Espera hasta que el poder mágico se estabilice."
+    },
+    "WW91DQ": {
+        "en-US": "[Dr. Serafit]\nYour entry application has been completed. Wait a moment, then enter.",
+        "pt-BR": "[Dr. Serafit]\nA sua solicitação de entrada foi realizada. Aguarde um momento antes de entrar.",
+        "es-ES": "[Dr. Serafit]\nLa solicitud de entrada se ha completado. Espera un momento y luego entra."
+    },
+    "Wm91DQ": {
+        "en-US": "[Dr. Serafit]\nOnly the party leader can apply for entry. The party leader will be responsible for important duties inside, so bring someone trustworthy as the party leader.",
+        "pt-BR": "[Dr. Serafit]\nSomente o líder do grupo pode solicitar a entrada. O líder do grupo assumirá uma função importante lá dentro, então traga alguém confiável como líder.",
+        "es-ES": "[Dr. Serafit]\nSolo el líder del grupo puede solicitar la entrada. El líder del grupo desempeñará una tarea importante dentro, así que trae a alguien de confianza como líder."
+    },
+    "W291DQ": {
+        "en-US": "[Dr. Serafit]\nYou cannot go to the Airship Crash Site right now due to the aftereffects of magic. It is dangerous, so wait!",
+        "pt-BR": "[Dr. Serafit]\nNo momento, você não pode ir ao Local da Queda do Aeroplano devido aos efeitos colaterais do poder mágico. É perigoso, então aguarde um pouco até normalizar.",
+        "es-ES": "[Dr. Serafit]\nAhora no puedes ir al Lugar de la Caída de la Aeronave por las secuelas del poder mágico. ¡Es peligroso, así que espera!"
+    },
+    "XG91DQ": {
+        "en-US": "{1} of party {0} has begun exploring the Airship Crash Site.",
+        "pt-BR": "{1}, do grupo {0}, iniciou a exploração do Local da Queda do Aeroplano.",
+        "es-ES": "{1}, del grupo {0}, inicia la exploración del Lugar de la Caída de la Aeronave."
+    },
+    "XW91DQ": {
+        "en-US": "[Dr. Serafit]\nYour application to enter the Airship Crash Site is still being processed. Wait a moment.",
+        "pt-BR": "[Dr. Serafit]\nA sua solicitação de entrada ao Local da Queda do Aeroplano ainda está sendo processada. Aguarde um momento.",
+        "es-ES": "[Dr. Serafit]\nLa solicitud de entrada al Lugar de la Caída de la Aeronave sigue en curso. Espera un momento."
+    },
+    "Xm91DQ": {
+        "en-US": "[Dr. Serafit]\nOnly those who have joined a party and applied for entry may enter.",
+        "pt-BR": "[Dr. Serafit]\nApenas aqueles que estiverem em um grupo e fizeram a solicitação de entrada podem entrar.",
+        "es-ES": "[Dr. Serafit]\nSolo pueden entrar quienes se hayan unido a un grupo y hayan solicitado la entrada."
+    },
+    "X291DQ": {
+        "en-US": "[Dr. Serafit]\nI have some exercise equipment at home that I bought not long ago. I would like to go home too.",
+        "pt-BR": "[Dr. Serafit]\nRecentemente comprei um novo aparelho de exercícios. Eu queria ir logo para casa também...",
+        "es-ES": "[Dr. Serafit]\nTengo en casa una máquina de ejercicio que compré hace poco. Yo también quiero irme a casa."
+    },
+    "YG91DQ": {
+        "en-US": "Version: 2022-03-02 Update",
+        "pt-BR": "Versão: atualização de 2022-03-02",
+        "es-ES": "Versión: actualización del 02/03/2022"
+    },
+    "YW91DQ": {
+        "en-US": "An operator-only item has been detected. Dimensional Gap Administrator Mode.",
+        "pt-BR": "Item exclusivo de operador detectado. Modo de administrador de Espaço Dimensional.",
+        "es-ES": "Se ha detectado un objeto exclusivo para operadores. Modo de administrador de Grieta dimensional."
+    },
+    "Ym91DQ": {
+        "en-US": "Proceed normally",
+        "pt-BR": "Prosseguir normalmente",
+        "es-ES": "Continuar sin más"
+    },
+    "Y291DQ": {
+        "en-US": "Reset cooldown",
+        "pt-BR": "Redefinir tempo de recarga",
+        "es-ES": "Reiniciar tiempo de reutilización"
+    },
+    "ZG91DQ": {
+        "en-US": "Reset dialogue quest",
+        "pt-BR": "Redefinir missão de diálogo",
+        "es-ES": "Reiniciar misión de diálogo"
+    },
+    "ZW91DQ": {
+        "en-US": "Item support",
+        "pt-BR": "Suporte de item",
+        "es-ES": "Soporte de objetos"
+    },
+    "Zm91DQ": {
+        "en-US": "Reset complete",
+        "pt-BR": "Redefinição concluída",
+        "es-ES": "Reinicio completado"
+    },
+    "Z291DQ": {
+        "en-US": "Magic-Infused Stone",
+        "pt-BR": "Pedra Imbuída de Poder Mágico",
+        "es-ES": "Piedra imbuida de poder mágico"
+    },
+    "aG91DQ": {
+        "en-US": "Nyangvine",
+        "pt-BR": "MiauMiau",
+        "es-ES": "Miaufruto"
+    },
+    "aW91DQ": {
+        "en-US": "Provides <ITEM>[Ymir Fragment]<INFO>1000363</INFO></ITEM>. Enter the quantity needed 1-1000, or other value to cancel.",
+        "pt-BR": "Fornece <ITEM>[Fragmento de Ymir]<INFO>1000363</INFO></ITEM>. Insira a quantidade necessária 1 a 1000, ou outro valor para cancelar.",
+        "es-ES": "Se proporcionará <ITEM>[Fragmento de Ymir]<INFO>1000363</INFO></ITEM>. Introduce la cantidad necesaria 1~1000. Cancelar Otros"
+    },
+    "am91DQ": {
+        "en-US": "Canceled",
+        "pt-BR": "Cancelado",
+        "es-ES": "Cancelado"
+    },
+    "a291DQ": {
+        "en-US": "Granted {0} Ymir Fragment.",
+        "pt-BR": "Foram entregues {0} Fragmento de Ymir.",
+        "es-ES": "Se han entregado {0} Fragmento de Ymir."
+    },
+    "bG91DQ": {
+        "en-US": "Provides <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>. Enter the quantity needed 1-20, or other value to cancel.",
+        "pt-BR": "Fornece <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>. Insira a quantidade necessária 1 a 20, , ou outro valor para cancelar.",
+        "es-ES": "Se proporcionará <ITEM>[Miaufruto]<INFO>6909</INFO></ITEM>. Introduce la cantidad necesaria. 1~20 Cancelar Otros"
+    },
+    "bW91DQ": {
+        "en-US": "Granted {0} Nyangvine.",
+        "pt-BR": "Foram entregues {0} MiauMiau.",
+        "es-ES": "Se han entregado {0} Miaufruto."
+    },
+    "bm91DQ": {
+        "en-US": "Marco Gherita#",
+        "pt-BR": "Marco Gherita#",
+        "es-ES": "Marco Gherita#"
+    },
+    "b291DQ": {
+        "en-US": "[Marco Gherita]\nPlease, sir, do not pay attention to that Laphine. I beg you.",
+        "pt-BR": "[Marco Gherita]\nPor favor, não dê atenção àquele Laphine. Eu imploro.",
+        "es-ES": "[Marco Gherita]\nPor favor, no le preste atención a esa Laphine. Se lo ruego."
+    },
+    "cG91DQ": {
+        "en-US": "[Marco Gherita]\nAdventurer, is there anything you need?",
+        "pt-BR": "[Marco Gherita]\nAventureiro, precisa de alguma coisa?",
+        "es-ES": "[Marco Gherita]\nAventurero, ¿necesita algo?"
+    },
+    "cW91DQ": {
+        "en-US": "Ask a question.",
+        "pt-BR": "Fazer uma pergunta.",
+        "es-ES": "Preguntar."
+    },
+    "cm91DQ": {
+        "en-US": "Exchange rewards.",
+        "pt-BR": "Trocar recompensas.",
+        "es-ES": "Intercambiar recompensas."
+    },
+    "c291DQ": {
+        "en-US": "Leave him alone.",
+        "pt-BR": "Deixa pra lá.",
+        "es-ES": "Dejarlo estar."
+    },
+    "dG91DQ": {
+        "en-US": "[Marco Gherita]\nDo you have a question?\nI do not actually know much either, but I will tell you what I know.",
+        "pt-BR": "[Marco Gherita]\nVocê tem alguma pergunta?\nEu não sei muito, mas o que souber farei o possível para te explicar.",
+        "es-ES": "[Marco Gherita]\n¿Tiene alguna pregunta?\nLa verdad es que yo tampoco sé mucho, pero le contaré lo que sé."
+    },
+    "dW91DQ": {
+        "en-US": "No questions.",
+        "pt-BR": "Não tenho perguntas.",
+        "es-ES": "No tengo preguntas."
+    },
+    "dm91DQ": {
+        "en-US": "Where did you get the rewards you exchange?",
+        "pt-BR": "Onde você conseguiu essas recompensas?",
+        "es-ES": "¿Dónde conseguiste las recompensas que intercambias?"
+    },
+    "d291DQ": {
+        "en-US": "Airship Crash Site?",
+        "pt-BR": "Local da Queda do Aeroplano?",
+        "es-ES": "¿Lugar de la Caída de la Aeronave?"
+    },
+    "eG91DQ": {
+        "en-US": "What do you do?",
+        "pt-BR": "Quem é você?",
+        "es-ES": "¿A qué te dedicas?"
+    },
+    "eW91DQ": {
+        "en-US": "Dr. Serafit?",
+        "pt-BR": "Dr. Serafit?",
+        "es-ES": "¿Dr. Serafit?"
+    },
+    "em91DQ": {
+        "en-US": "Reason for being detained",
+        "pt-BR": "Por que foi capturado?",
+        "es-ES": "Motivo por el que fue capturado"
+    },
+    "e291DQ": {
+        "en-US": "[Marco Gherita]\nUnderstood. If I may offer some advice, that Laphine is wicked, so try not to get too involved.",
+        "pt-BR": "[Marco Gherita]\nEntendido. Se quer um conselho, aquele Laphine é cruel. Não se envolva demais com ele.",
+        "es-ES": "[Marco Gherita]\nDe acuerdo. Si me permite un consejo, esa Laphine es cruel, así que no se relacione demasiado con ella."
+    },
+    "fG91DQ": {
+        "en-US": "[Marco Gherita]\nSigh... It is a long story. At first, I was simply traveling like any ordinary person.",
+        "pt-BR": "[Marco Gherita]\nAah... é uma longa história. No começo, eu estava apenas viajando como qualquer pessoa normal.",
+        "es-ES": "[Marco Gherita]\nAhh... Es una larga historia. Al principio, estaba viajando tranquilamente."
+    },
+    "fW91DQ": {
+        "en-US": "[Marco Gherita]\nAt a place I happened to visit during my travels, I came to a realization. Ah! If I take that and sell it, I can make money!",
+        "pt-BR": "[Marco Gherita]\nEm uma dessas viagens, eu tive uma realização: \"Se eu levar isso e vender, conseguirei muito dinheiro!\"",
+        "es-ES": "[Marco Gherita]\nEn un lugar de viaje al que llegué por casualidad, me di cuenta. ¡Ah! ¡Si llevo eso y lo vendo, ganaré dinero!"
+    },
+    "fm91DQ": {
+        "en-US": "[Marco Gherita]\nWith that thought, I packed up everything I could and was on my way home... but then I met that devilish Laphine... Sob, sob...",
+        "pt-BR": "[Marco Gherita]\nCom essa ideia na cabeça, peguei todas as minhas coisas e já estava voltando para casa... quando encontrei aquele Laphine malicioso... sniff, sniff...",
+        "es-ES": "[Marco Gherita]\nCon esa idea, empaqué todo lo que pude y estaba de regreso a casa, pero... me encontré con esa Laphine demoníaca... Snif, snif..."
+    },
+    "f291DQ": {
+        "en-US": "[Marco Gherita]\nFortunately, it seems fate did not want me dead, because the items obtainable from the Airship Crash Site can sell for high prices among scholars.",
+        "pt-BR": "[Marco Gherita]\nFelizmente, parece que a sorte não me abandonou, pois os itens encontrados no Local da Queda do Aeroplano podem ser negociados por um bom preço entre os estudiosos.",
+        "es-ES": "[Marco Gherita]\nPor suerte, parece que no estaba destinado a morir, porque los objetos que se pueden conseguir en el Lugar de la Caída de la Aeronave podrían venderse a muy buen precio entre los eruditos."
+    },
+    "gG91DQ": {
+        "en-US": "[Marco Gherita]\nThat is how I ended up making a deal that would be good for both me and the adventurers...",
+        "pt-BR": "[Marco Gherita]\nE foi assim que acabei fazendo um bom negócio com aventureiros.",
+        "es-ES": "[Marco Gherita]\nAsí fue como acabamos haciendo un trato que nos beneficia tanto a mí como a los aventureros..."
+    },
+    "gW91DQ": {
+        "en-US": "[Marco Gherita]\nYou know what an airship is, right? You know, those ships that fly through the sky? The ones you can board in Izlude or Juno...",
+        "pt-BR": "[Marco Gherita]\nVocê conhece aquele aeroplano, certo? Aquele navio que voa pelos céus, que dá para pegar em Izlude ou Juno...",
+        "es-ES": "[Marco Gherita]\nConoce esa aeronave, ¿verdad? Ya sabe, esa nave que vuela por el cielo... La que se puede tomar en Izlude o Yuno..."
+    },
+    "gm91DQ": {
+        "en-US": "[Marco Gherita]\nIt seems that airship crashed somewhere around the Mjolnir Mountains. When you enter through this rift, you can reach that place.",
+        "pt-BR": "[Marco Gherita]\nParece que aquele aeroplano caiu na região das montanhas de Mjolnir. Ao entrar por esta fenda, você conseguirá chegar lá.",
+        "es-ES": "[Marco Gherita]\nParece que esa aeronave se estrelló en la zona de las montañas Mjolnir. Al entrar por esta grieta, se puede llegar hasta allí."
+    },
+    "g291DQ": {
+        "en-US": "[Marco Gherita]\nThe airship crashed and was half-destroyed. There were plenty of people injured by the impact of the crash.",
+        "pt-BR": "[Marco Gherita]\nO aeroplano caiu e ficou parcialmente destruído. Há muitas pessoas que se feriram com o impacto do acidente.",
+        "es-ES": "[Marco Gherita]\nLa aeronave se estrelló y quedó semidestruida. Hay muchísimas personas heridas por el impacto del accidente."
+    },
+    "hG91DQ": {
+        "en-US": "[Marco Gherita]\nAmidst all the confusion, there were people making a fuss about conducting research in a cave that was discovered after the accident.",
+        "pt-BR": "[Marco Gherita]\nEm meio ao caos, algumas pessoas causaram uma cena dizendo que iriam investigar uma caverna que foi descoberta após o desabamento.",
+        "es-ES": "[Marco Gherita]\nEn medio del caos, también hay quienes andan alborotando diciendo que van a investigar una cueva descubierta por casualidad al derrumbarse algo."
+    },
+    "hW91DQ": {
+        "en-US": "[Marco Gherita]\nThere were people hiding, survivors who needed to be checked on, and even people who just left on their own. It was complete pandemonium.",
+        "pt-BR": "[Marco Gherita]\nNo meio de toda a confusão, havia gente se escondendo, sobreviventes que precisavam de cuidados e até pessoas que simplesmente foram embora. Foi uma bagunça!",
+        "es-ES": "[Marco Gherita]\nEn pleno caos, hay gente que se esconde por ahí, hay que buscar supervivientes, y hasta hay personas que se marchan por su cuenta. Es un desastre tremendo."
+    },
+    "hm91DQ": {
+        "en-US": "[Marco Gherita]\nYou look like you are wondering how I know so much. I jumped into the rift a few times while trying to escape from that wicked Laphine. I could not just leave the injured behind, so I acted a bit like a rescue worker, though I was caught and dragged back every time...",
+        "pt-BR": "[Marco Gherita]\nÃh? Você quer saber como eu sei de todas essas coisas? É que eu me joguei nessa fenda algumas vezes tentando fugir daquele Laphine odioso. Mas, eu não podia deixar os feridos para trás, então agi como um membro da equipe de resgate por um tempo. Mas daí sempre acabava sendo capturado e arrastado de volta...",
+        "es-ES": "[Marco Gherita]\n¿Pone cara de preguntarse por qué lo sé tan bien? Es que me lancé varias veces por la grieta intentando escapar de esa malvada Laphine. No podía dejar a los heridos abandonados, así que actué un poco como rescatador, aunque siempre me atrapaban y me arrastraban de vuelta..."
+    },
+    "h291DQ": {
+        "en-US": "[Marco Gherita]\nAre you curious about me? What a strange question. Why would you be curious about someone like me, caught by a wicked Laphine and forced to labor?",
+        "pt-BR": "[Marco Gherita]\nEstá curioso sobre mim? Que pergunta estranha. Por que você quer saber sobre alguém como eu, capturado por um Laphine cruel e submetido a trabalho forçado...",
+        "es-ES": "[Marco Gherita]\n¿Tiene curiosidad por mí? Vaya pregunta tan extraña. No sé por qué le interesa alguien como yo, retenido por una cruel Laphine y sometido a trabajos forzados..."
+    },
+    "iG91DQ": {
+        "en-US": "[Marco Gherita]\nThe truth is, I have an incurable disease. Oh, do not worry. It is not a life-threatening disease.",
+        "pt-BR": "[Marco Gherita]\nA verdade é que eu tenho uma doença incurável. Ah, não se preocupe. Não é uma doença que coloque minha vida em risco.",
+        "es-ES": "[Marco Gherita]\nEn realidad, padezco una enfermedad incurable. Ah, no se preocupe. No es una enfermedad que ponga en peligro mi vida."
+    },
+    "iW91DQ": {
+        "en-US": "[Marco Gherita]\nIn any case, I set out on a journey without much thought in order to cure that disease.",
+        "pt-BR": "[Marco Gherita]\nDe qualquer forma, sem pensar duas vezes eu parti em uma jornada para tentar curar essa doença.",
+        "es-ES": "[Marco Gherita]\nEn cualquier caso, emprendí un viaje sin pensarlo demasiado para curar esa enfermedad."
+    },
+    "im91DQ": {
+        "en-US": "[Marco Gherita]\nIn the end, I could not cure it, and while I was on my way home carrying a great pile of goods to sell, I was caught by that wicked Laphine and ended up like this.",
+        "pt-BR": "[Marco Gherita]\nNo fim, não encontrei uma cura e, enquanto voltava para casa levando um monte de mercadorias para vender, fui capturado por aquele Laphine cruel e acabei desse jeito.",
+        "es-ES": "[Marco Gherita]\nBueno, al final no pude curarme y, cuando regresaba a casa cargado de mercancías para vender, aquella cruel Laphine me atrapó, y aquí estoy."
+    },
+    "i291DQ": {
+        "en-US": "[Marco Gherita]\nOh, perhaps?\nMarco Gherita (xx years old/male/unemployed)\nIs that what you want?",
+        "pt-BR": "[Marco Gherita]\nOh! Ou será que o que você quer saber é mais algo do tipo:\nMarco Gherita (xx anos/masculino/desempregado)\nSeria isso?",
+        "es-ES": "[Marco Gherita]\nAh, ¿acaso quiere esto?\nMarco Gherita (xx años/hombre/desempleado)\n¿Algo así?"
+    },
+    "jG91DQ": {
+        "en-US": "[Marco Gherita]\nWhat poor taste you have.",
+        "pt-BR": "[Marco Gherita]\nVocê tem um mau gosto...",
+        "es-ES": "[Marco Gherita]\nQué mal gusto tiene."
+    },
+    "jW91DQ": {
+        "en-US": "[Marco Gherita]\nAh... You may be misled by the name. To get straight to the point, that Dr. is not the kind of doctor you are thinking of.",
+        "pt-BR": "[Marco Gherita]\nAh... o nome pode enganar. Indo direto ao ponto, aquele Dr. não é o tipo de doutor que você está pensando.",
+        "es-ES": "[Marco Gherita]\nAh... Puede que el nombre le engañe. Para ir al grano, ese doctor no es el doctor que usted imagina."
+    },
+    "jm91DQ": {
+        "en-US": "[Marco Gherita]\nHis name is simply Dr. If that Laphine truly completes a doctoral program and obtains a doctorate, he would become Doctor Dr. Serafit. Hahahaha.",
+        "pt-BR": "[Marco Gherita]\nDr. é simplesmente o nome dele. Se aquele Laphine realmente fizer doutorado e obtiver o título de doutor, então ele se tornaria o Doutor Dr. Serafit. Hahahaha.",
+        "es-ES": "[Marco Gherita]\nSimplemente se llama Doctor. Si esa Laphine cursara de verdad un doctorado y obtuviera el título de doctora, sería la doctora Dr. Serafit. Ja, ja, ja, ja."
+    },
+    "j291DQ": {
+        "en-US": "[Marco Gherita]\nI apologize for the lame joke.",
+        "pt-BR": "[Marco Gherita]\nDesculpe pela piada sem graça.",
+        "es-ES": "[Marco Gherita]\nPerdón por el chiste malo."
+    },
+    "kG91DQ": {
+        "en-US": "[Marco Gherita]\nI feel so unfairly accused. That wicked Laphine claims that I pushed him, but why would I push him for no reason? Right?",
+        "pt-BR": "[Marco Gherita]\nEu me sinto injustiçado. Aquele Laphine cruel afirma que eu o empurrei, mas por que eu empurraria alguém sem motivo? Não concorda comigo?",
+        "es-ES": "[Marco Gherita]\nYo soy realmente inocente. Esa cruel Laphine insiste en que yo la empujé, pero ¿por qué iba a empujarla sin motivo? ¿No le parece?"
+    },
+    "kW91DQ": {
+        "en-US": "[Marco Gherita]\nAt first, I ran away because I thougth it was unfair. I have had my share of adventures, and I thought that in a dangerous situation, I could at least get myself out safely.",
+        "pt-BR": "[Marco Gherita]\nNo começo, eu fugi porque achava aquilo errado. Eu já me aventurei bastante e sabia que, se você se deparar com uma situação perigosa, o melhor é ficar longe.",
+        "es-ES": "[Marco Gherita]\nAl principio, como me parecía injusto, huí. Yo también he vivido bastantes aventuras y pensaba que, en una situación peligrosa, al menos podría escapar por mi cuenta."
+    },
+    "km91DQ": {
+        "en-US": "[Marco Gherita]\nBut I do not know what he did, because he caught me every time. I even fled to the Airship Crash Site once, but at some point I was caught, and when I came to my senses, I was here...",
+        "pt-BR": "[Marco Gherita]\nMas não sei que tipos de truques ele usa, porque ele sempre consegue me capturar. Até tentei fugir para o Local da Queda do Aeroplano, mas em algum momento fui capturado. Quando recobrei a consciência, já estava aqui...",
+        "es-ES": "[Marco Gherita]\nPero no sé qué método usaba, que siempre acababa atrapándome. Incluso huí una vez al Lugar de la Caída de la Aeronave, pero en algún momento me capturó y, cuando recuperé el sentido, estaba aquí..."
+    },
+    "k291DQ": {
+        "en-US": "[Marco Gherita]\nPhew... Now I just accept it as fate. He is a frightening Laphine.",
+        "pt-BR": "[Marco Gherita]\nNo fim.. acabei aceitando o meu destino. Ele é um Laphine muito assustador.",
+        "es-ES": "[Marco Gherita]\nUf... Ahora ya lo acepto como mi destino. Es una Laphine temible."
+    },
+    "lG91DQ": {
+        "en-US": "[Marco Gherita]\nIs there anything else you are curious about?",
+        "pt-BR": "[Marco Gherita]\nTem mais alguma coisa que você queira saber?",
+        "es-ES": "[Marco Gherita]\n¿Tiene alguna otra pregunta?"
+    },
+    "lW91DQ": {
+        "en-US": "[Marco Gherita]\nOh my, Adventurer, are there any items you need? Please take your time and have a look.",
+        "pt-BR": "[Marco Gherita]\nOh, aventureiro, está precisando de algum item? Sinta-se à vontade em dar uma olhada.",
+        "es-ES": "[Marco Gherita]\n¡Vaya, aventurero! ¿Necesita algún objeto? Mire con calma."
+    },
+    "lm91DQ": {
+        "en-US": "[Marco Gherita]\nThank you. Thanks to you, I can catch my breath too.",
+        "pt-BR": "[Marco Gherita]\nObrigado. Graças a você, posso respirar um pouco.",
+        "es-ES": "[Marco Gherita]\nGracias. Gracias a usted, yo también podré tomarme un respiro."
+    },
+    "l291DQ": {
+        "en-US": "I came here just in case, but there is no path leading to the Forgotten Cave.",
+        "pt-BR": "Vim aqui por via das dúvidas, mas não vejo o caminho para a Caverna Esquecida.",
+        "es-ES": "He venido por si acaso, pero no se ve ningún camino hacia la Cueva Olvidada."
+    }
+}

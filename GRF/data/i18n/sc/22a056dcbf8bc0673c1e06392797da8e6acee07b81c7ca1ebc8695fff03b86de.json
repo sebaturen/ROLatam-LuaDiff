@@ -6,77 +6,77 @@
     },
     "wUsyDQ": {
         "en-US": "Fairy of the Keys",
-        "pt-BR": "Fada das Chaves",
+        "pt-BR": "Gênio dos Encantos",
         "es-ES": "Hada de las Llaves"
     },
     "wksyDQ": {
         "en-US": "Version Check: M. Alitea Shadow (4 types) & the JINNO series (3 types of Alitea)",
-        "pt-BR": "Verificação de versão: M. Alitea Shadow (4 tipos) & série JINNO (3 tipos de Alitea)",
+        "pt-BR": "[Modo GM ativado]",
         "es-ES": "Comprobación de versión: M. Alitea Shadow (4 tipos) y serie JINNO (3 tipos de Alitea)"
     },
     "w0syDQ": {
         "en-US": "Mad Bunny",
-        "pt-BR": "Coelho Macabro",
+        "pt-BR": "Encantar Coelho Macabro",
         "es-ES": "Conejo Maldito"
     },
     "xEsyDQ": {
         "en-US": "Hero’s Badge",
-        "pt-BR": "Broche Primordial",
+        "pt-BR": "Encantar Broche Primordial",
         "es-ES": "Broche Primordial"
     },
     "xUsyDQ": {
         "en-US": "Great Hero's Boots",
-        "pt-BR": "Bota Primordial",
+        "pt-BR": "Encantar Bota Primordial",
         "es-ES": "Bota Primordial"
     },
     "xksyDQ": {
         "en-US": "Poring Balloon",
-        "pt-BR": "Balão de Poring",
+        "pt-BR": "Encantar Balões de Poring",
         "es-ES": "Globo de Poring"
     },
     "x0syDQ": {
         "en-US": "Temporal Sprout",
-        "pt-BR": "Broto Temporal",
+        "pt-BR": "Encantar Brotos Temporais",
         "es-ES": "Brote Temporal"
     },
     "yEsyDQ": {
         "en-US": "Helm of Faith",
-        "pt-BR": "Elmos da Fé",
+        "pt-BR": "Encantar Elmos da Fé",
         "es-ES": "Yelmos de la Fe"
     },
     "yUsyDQ": {
         "en-US": "Helm of Faith II",
-        "pt-BR": "Elmos da Fé II",
+        "pt-BR": "Encantar Elmos da Fé II",
         "es-ES": "Yelmos de la Fe II"
     },
     "yksyDQ": {
         "en-US": "Master Shadow",
-        "pt-BR": "Sombrio Magistral",
+        "pt-BR": "Encantar Sombrios Magistrais",
         "es-ES": "Sombrio Magistral"
     },
     "y0syDQ": {
         "en-US": "Officer’s Hat",
-        "pt-BR": "Chapéu de Oficial",
+        "pt-BR": "Encantar Chapéu de Oficial-LT",
         "es-ES": "Sombrero de Oficial"
     },
     "zEsyDQ": {
         "en-US": "The Agony of Thanatos",
-        "pt-BR": "Marionete de Thanatos",
+        "pt-BR": "Encantar Marionete de Thanatos-LT",
         "es-ES": "Marioneta de Thanatos"
     },
     "zUsyDQ": {
         "en-US": "[Ziki]\nI am Ziki, the Fairy of the Keys.\nIf the items in the list require a special enchantment, I’ll gladly help you with all my joyful heart.",
-        "pt-BR": "[Ziki]\nEu sou Ziki, a Fada das Chaves.\nSe os itens da lista precisarem de um encantamento especial, te ajudarei de bom grado e com todo o meu coração.",
+        "pt-BR": "[Ziki]\nEu sou Ziki, o Gênio dos Encantos.\nSe você possuir um item no seu inventário, ele deve aparecer no menu a seguir.\nCaso não apareça, significa que você não tem o que eu quero.",
         "es-ES": "[Ziki]\nSoy Ziki, el Hada de las Llaves.\nSi los objetos de la lista requieren un encantamiento especial, te ayudaré con gusto y con toda mi alegría."
     },
     "zksyDQ": {
         "en-US": "[Ziki] No need.",
-        "pt-BR": "[Ziki] Não precisa.",
+        "pt-BR": "Encerrar",
         "es-ES": "[Ziki] No es necesario."
     },
     "z0syDQ": {
         "en-US": "[Ziki]\nThat’s really unfortunate.",
-        "pt-BR": "[Ziki]\nÉ realmente uma pena.",
+        "pt-BR": "[Ziki]\nSeu desejo é uma ordem!",
         "es-ES": "[Ziki]\nQué lástima, de verdad."
     },
     "0EsyDQ": {
@@ -101,27 +101,27 @@
     },
     "1EsyDQ": {
         "en-US": "Goddess of the Keys",
-        "pt-BR": "Deusa das Chaves",
+        "pt-BR": "Gênio dos Encantos",
         "es-ES": "Diosa de las Llaves"
     },
     "1UsyDQ": {
         "en-US": "Version Check: Stardust & Enchant of the Rune Crown of the Heavens & Enchant of the Radiance Rune Circlet",
-        "pt-BR": "Verificação de versão: Stardust & encantamento da Coroa de Runas dos Céus & encantamento da Grinalda de Runas da Claridade",
+        "pt-BR": "[Modo GM ativado]",
         "es-ES": "Comprobación de versión: Stardust y encantamiento de la Corona de Runas Celestiales y encantamiento de la Tiara de Runas de Resplandor"
     },
     "1ksyDQ": {
         "en-US": "[Siki]\nNice to meet you. I am Siki, the Goddess of the Keys.\nI came because I want to see my husband, who can’t come home because of his work. Is there anything I can help you with?",
-        "pt-BR": "[Siki]\nPrazer em conhecê-lo(a). Eu sou Siki, a Deusa das Chaves.\nEu vim, porque quero ver meu marido que não consegue voltar para casa por causa do trabalho. Tem algo em que eu possa ajudar?",
+        "pt-BR": "[Siki]\nPrazer em te conhecer! Eu sou Siki, a Gênio dos Encantos!\nEstou aqui porque meu marido Ziki está muito atarefado.\nTem algo em que eu possa ajudar?",
         "es-ES": "[Siki]\nMucho gusto. Soy Siki, la Diosa de las Llaves.\nHe venido porque quiero ver a mi esposo, que no puede venir a casa debido al trabajo. ¿Puedo ayudarte con algo?"
     },
     "10syDQ": {
         "en-US": "Time Gap Weapon Enchant",
-        "pt-BR": "Encantamento de Arma Time Gap",
+        "pt-BR": "Encantar Arma Dimensional",
         "es-ES": "Encantamiento de Arma Time Gap"
     },
     "2EsyDQ": {
         "en-US": "Stardust & Enchant of the Rune Crown of the Heavens & Enchant of the Radiance Rune Circlet",
-        "pt-BR": "Stardust & encantamento da Coroa de Runas dos Céus & encantamento da Grinalda de Runas da Claridade",
+        "pt-BR": "Encantar Elmos Radiência",
         "es-ES": "Stardust y encantamiento de la Corona de Runas Celestiales y encantamiento de la Tiara de Runas de Resplandor"
     },
     "2UsyDQ": {
@@ -131,7 +131,7 @@
     },
     "2ksyDQ": {
         "en-US": "[Siki]\nMay the results you want be with you..",
-        "pt-BR": "[Siki]\nQue o resultado que você deseja esteja junto..",
+        "pt-BR": "[Siki]\nQue o resultado que você deseja esteja junto...",
         "es-ES": "[Siki]\nQue los resultados que deseas te acompañen.."
     }
 }

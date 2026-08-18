@@ -1,282 +1,282 @@
 {
     "YF0aCg": {
         "en-US": "Refining Researcher",
-        "pt-BR": "Pesquisador de Fundição",
+        "pt-BR": "Mestre do Refino",
         "es-ES": "Investigador de fundición"
     },
     "YV0aCg": {
         "en-US": "[Refining Researcher]\nFinally, you're here.\nI can safely refine your ^006400equipped items\nas many times\nas your Certificate guarantees^000000\nwithout failing.",
-        "pt-BR": "[Pesquisador de Refinação]\nFinalmente você chegou.\nPosso transformar o equipamento ^006400 que você está usando\nno estado refinado ^000000,\nconforme indicado no\nCertificado de Garantia de Refinação.",
+        "pt-BR": "[Mestre do Refino]\nOlha só quem vem!\nEu sou o Mestre do Refino! Meu trabalho é\n^FF0066refinar com 100% de sucesso^000000,\numa Arma ou Equipamento de acordo\ncom o Pergaminho de Refino usado.",
         "es-ES": "[Investigador de fundición]\nPor fin has venido.\nPuedo convertir el ^006400equipo que llevas puesto\nen su estado fundido^000000,\ntal y como aparece en el\nbono de fundición."
     },
     "Yl0aCg": {
         "en-US": "[Refining Researcher]\nPlease note that ^3131FFShadow items^000000 are not included in the refining guarantee list.",
-        "pt-BR": "[Pesquisador de Refinamento]\nNo entanto, ^3131FFitens Shadow^000000 não estão incluídos na lista de garantia de refinamento, por isso, fica atento.",
+        "pt-BR": "[Mestre do Refino]\nApesar de ser bom no que faço, eu NÃO trabalho com ^3131FFEquipamentos Sombrios^000000, Armas de ^3131FFnível 5^000000 e Equipamentos de ^3131FFnível 2^000000.",
         "es-ES": "[Investigador de refinado]\nSin embargo, ten en cuenta que los ^3131FFobjetos de las Sombras^000000 no están incluidos en la lista de garantía de refinado."
     },
     "Y10aCg": {
         "en-US": "I'll do it later.",
-        "pt-BR": "Deixa pra depois.",
+        "pt-BR": "Até logo!",
         "es-ES": "Lo haré más tarde."
     },
     "ZF0aCg": {
         "en-US": "Refine equipment with Refining Guarantee.",
-        "pt-BR": "Refinar o equipamento com o Voucher de Refinamento.",
+        "pt-BR": "Eu tenho um Pergaminho de Refino!",
         "es-ES": "Refinar el equipo con el vale de refinado garantizado."
     },
     "ZV0aCg": {
         "en-US": "[Refining Researcher]\nUnderstood.\nYou are welcome to come back anytime.",
-        "pt-BR": "[Pesquisador de Refinamento]\nEntendi.\nPodes voltar mais tarde.",
+        "pt-BR": "[Mestre do Refino]\nCerto.\nVolte mais tarde.",
         "es-ES": "[Investigador de Refinado]\nEntendido.\nPuedes volver la próxima vez."
     },
     "Zl0aCg": {
         "en-US": "[Refining Researcher]\nWhat would you like to refine?",
-        "pt-BR": "[Pesquisador de Refinamento]\nO que você deseja refinar?",
+        "pt-BR": "[Mestre do Refino]\nO que você deseja refinar?",
         "es-ES": "[Investigador de Refinado]\n¿Qué vas a refinar?"
     },
     "Z10aCg": {
         "en-US": "^404040Head - Upper - [Not Equipped]^000000",
-        "pt-BR": "^404040Cabeça - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Elmo - Topo^000000",
         "es-ES": "^404040Parte superior de la cabeza - [Sin equipo]^000000"
     },
     "aF0aCg": {
         "en-US": "^404040Head - Middle - [Not Equipped]^000000",
-        "pt-BR": "^404040Parte central da cabeça - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Elmo - Meio^000000",
         "es-ES": "^404040Parte media de la cabeza - [Sin equipo]^000000"
     },
     "aV0aCg": {
         "en-US": "^404040Head - Lower - [Not Equipped]^000000",
-        "pt-BR": "^404040Parte inferior da cabeça - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Elmo - Baixo^000000",
         "es-ES": "^404040Parte inferior de la cabeza - [Sin equipo]^000000"
     },
     "al0aCg": {
         "en-US": "^404040Body - [Not Equipped]^000000",
-        "pt-BR": "^404040Corpo - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Armadura^000000",
         "es-ES": "^404040Cuerpo- [Sin equipo]^000000"
     },
     "a10aCg": {
         "en-US": "^404040Left Hand - [Not Equipped]^000000",
-        "pt-BR": "^404040Mão esquerda - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Mão Esquerda^000000",
         "es-ES": "^404040Mano izquierda- [Sin equipo]^000000"
     },
     "bF0aCg": {
         "en-US": "^404040Right Hand - [Not Equipped]^000000",
-        "pt-BR": "^404040Mão direita - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Mão Direita^000000",
         "es-ES": "^404040Mano derecha - [Sin equipo]^000000"
     },
     "bV0aCg": {
         "en-US": "^404040Robe - [Not Equipped]^000000",
-        "pt-BR": "^404040Manto - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Capa^000000",
         "es-ES": "^404040Túnica - [Sin equipo]^000000"
     },
     "bl0aCg": {
         "en-US": "^404040Shoes - [Not Equipped]^000000",
-        "pt-BR": "^404040Sapatos - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Calçado^000000",
         "es-ES": "^404040Zapatos - [Sin equipo]^000000"
     },
     "b10aCg": {
         "en-US": "^404040Accessory 1 - [Not Equipped]^000000",
-        "pt-BR": "^404040Acessório 1 - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Acessório Direito^000000",
         "es-ES": "^404040Accesorio 1 - [Sin equipar]^000000"
     },
     "cF0aCg": {
         "en-US": "^404040Accessory 2 - [Not Equipped]^000000",
-        "pt-BR": "^404040Acessório 2 - [Sem equipamento]^000000",
+        "pt-BR": "^404040[Vazio] Acessório Esquerdo^000000",
         "es-ES": "^404040Accesorio 2 - [Sin equipar]^000000"
     },
     "cV0aCg": {
         "en-US": "[Refining Researcher]\nYou must have equipment\nto perform refining.",
-        "pt-BR": "[Pesquisador de Refinação]\nÉ preciso ter um equipamento\npara poder refinar.",
+        "pt-BR": "[Mestre do Refino]\nÉ preciso ter um equipamento\npara poder refinar.",
         "es-ES": "[Investigador de refinado]\nNecesitas equipo\npara poder refinar."
     },
     "cl0aCg": {
         "en-US": "[Refining Researcher]\nUh-oh, this item\ncan't be refined.",
-        "pt-BR": "[Pesquisador de Refinamento]\nOpa, esse item\nnão pode ser refinado.",
+        "pt-BR": "[Mestre do Refino]\nOpa, esse item\nnão pode ser refinado.",
         "es-ES": "[Investigador de refinamiento]\n¡Ay!, este objeto\nno se puede refinar."
     },
     "c10aCg": {
         "en-US": "[Refining Researcher]\nI'm sorry,\nbut unidentified items\ncan't be refined.",
-        "pt-BR": "[Pesquisador de Refinamento]\nDesculpa, mas\nnão dá pra refinar\nsem que o item tenha sido avaliado.",
+        "pt-BR": "[Mestre do Refino]\nDesculpa, mas\nnão dá pra refinar\nitens desconhecidos.",
         "es-ES": "[Investigador de refinado]\nLo siento,\npero no se puede refinar\nsin haberlo evaluado antes."
     },
     "dF0aCg": {
         "en-US": "[Refining Researcher]\nUh-oh, Refining Certificates can't be used on this armor.",
-        "pt-BR": "[Pesquisador de Refinamento]\nOpa, não dá pra usar o Voucher de Refinamento com essa armadura.",
+        "pt-BR": "[Mestre do Refino]\nNão é possível usar Pergaminho de Armadura neste equipamento.",
         "es-ES": "[Investigador de refinamiento]\n¡Ay!, no puedes usar el cupón de refinamiento garantizado con esta armadura."
     },
     "dV0aCg": {
         "en-US": "[Refining Researcher]\nThis weapon cannot use Refining Certificates.",
-        "pt-BR": "[Pesquisador de Refinamento]\nNão é possível usar o Certificado de Garantia de Refinamento nesta arma.",
+        "pt-BR": "[Mestre do Refino]\nNão é possível usar Pergaminho de Arma neste equipamento.",
         "es-ES": "[Investigador de Refinado]\nNo puedes usar el Cupón de Refinado garantizado con esta arma."
     },
     "dl0aCg": {
         "en-US": "[Refining Researcher]\nTo refine\nyour ^006400armor^000000 through me,\nyou must bring\nan ^006400Armor Refining Certificate^000000.",
-        "pt-BR": "[Pesquisador de Refinamento]\nPara refinar\n^006400armadura^000000 comigo,\nprecisas trazer\n^006400Garantia de Refinamento de Armadura^000000.",
+        "pt-BR": "[Mestre do Refino]\nPara refinar um\n^FF0066Equipamento^000000,\nvocê deve ter um\n^FF0066Pergaminho de Armadura^000000.",
         "es-ES": "[Investigador de Refinado]\nSi quieres refinar\n^006400armadura^000000 conmigo,\ntienes que traer\nun ^006400Bono de Refinado de Armadura^000000."
     },
     "d10aCg": {
         "en-US": "[Refining Researcher]\nPlease select the ^006400Armor Refining Certificate^000000\nyou wish to use.",
-        "pt-BR": "[Pesquisador de Refinamento]\nEscolhe o ^006400Certificado de Garantia de Refinamento de Armadura^000000\nque vais usar.",
+        "pt-BR": "[Mestre do Refino]\nPor favor, escolha o ^FF0066Pergaminho de Armadura^000000\nque deseja usar para refinar.",
         "es-ES": "[Investigador de Refinado]\nElige el ^006400Bono de Refinado de Armadura^000000\nque quieres usar."
     },
     "eF0aCg": {
         "en-US": "Armor 5 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 5",
+        "pt-BR": "Pergaminho de Armadura +5",
         "es-ES": "Bono de refinado de armadura 5"
     },
     "eV0aCg": {
         "en-US": "Armor 6 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de 6 Peças de Armadura",
+        "pt-BR": "Pergaminho de Armadura +6",
         "es-ES": "Garantía de refinado de armadura 6"
     },
     "el0aCg": {
         "en-US": "Armor 7 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 7",
+        "pt-BR": "Pergaminho de Armadura +7",
         "es-ES": "Garantía de refinado de armadura 7"
     },
     "e10aCg": {
         "en-US": "Armor 8 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 8",
+        "pt-BR": "Pergaminho de Armadura +8",
         "es-ES": "Garantía de refinado de armadura 8"
     },
     "fF0aCg": {
         "en-US": "Armor 9 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 9",
+        "pt-BR": "Pergaminho de Armadura +9",
         "es-ES": "Bono de refinado de armadura 9"
     },
     "fV0aCg": {
         "en-US": "Armor 10 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 10",
+        "pt-BR": "Pergaminho de Armadura +10",
         "es-ES": "Garantía de refinado de armadura 10"
     },
     "fl0aCg": {
         "en-US": "Armor 11 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 11",
+        "pt-BR": "Pergaminho de Armadura +11",
         "es-ES": "Garantía de refinado de armadura 11"
     },
     "f10aCg": {
         "en-US": "Armor 12 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 12",
+        "pt-BR": "Pergaminho de Armadura +12",
         "es-ES": "Garantía de refinado de armadura 12"
     },
     "gF0aCg": {
         "en-US": "Armor 13 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 13",
+        "pt-BR": "Pergaminho de Armadura +13",
         "es-ES": "Garantía de refinado de armadura 13"
     },
     "gV0aCg": {
         "en-US": "Armor 14 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 14",
+        "pt-BR": "Pergaminho de Armadura +14",
         "es-ES": "Garantía de refinado de armadura 14"
     },
     "gl0aCg": {
         "en-US": "Armor 15 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 15",
+        "pt-BR": "Pergaminho de Armadura +15",
         "es-ES": "Garantía de refinado de armadura 15"
     },
     "g10aCg": {
         "en-US": "Armor 16 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 16",
+        "pt-BR": "Pergaminho de Armadura +16",
         "es-ES": "Garantía de refinado de armadura 16"
     },
     "hF0aCg": {
         "en-US": "Armor 17 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 17",
+        "pt-BR": "Pergaminho de Armadura +17",
         "es-ES": "Garantía de refinado de armadura 17"
     },
     "hV0aCg": {
         "en-US": "Armor 18 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 18",
+        "pt-BR": "Pergaminho de Armadura +18",
         "es-ES": "Garantía de refinado de armadura 18"
     },
     "hl0aCg": {
         "en-US": "Armor 19 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Armadura 19",
+        "pt-BR": "Pergaminho de Armadura +19",
         "es-ES": "Garantía de refinado de armadura 19"
     },
     "h10aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 5 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 5.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +5.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes\nel cupón de refinado de armadura 5.\n¿Lo guardaste en el almacén?\nCompruébalo\ny vuelve más tarde."
     },
     "iF0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 6 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 6.\nVocê o guardou no baú?\nVerifique e\nvolte depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +6.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de Refinado]\nNo tienes el\nBono de Refinado de Armadura 6.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "iV0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 7 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 7.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +7.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de Refinado]\nNo tienes el\nbono de refinado de armadura 7.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "il0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 8 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 8.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +8.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 8.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "i10aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 9 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 9.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +9.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 9.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "jF0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 10 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 10.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +10.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura de nivel 10.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "jV0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 11 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 11.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +11.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 11.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "jl0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 12 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 12.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +12.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado garantizado para armadura 12.\n¿Lo guardaste en el almacén?\nRevisa eso y\nvuelve más tarde."
     },
     "j10aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 13 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 13.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +13.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 13.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "kF0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 14 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 14.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +14.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 14.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "kV0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 15 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 15.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +15.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 15.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "kl0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 16 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 16.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +16.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 16.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "k10aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 17 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 17.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +17.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 17.\n¿Lo guardaste en el almacén?\nRevisa eso y\nvuelve más tarde."
     },
     "lF0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 18 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nCertificado de Refinamento de Armadura 18.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +18.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armadura 18.\n¿Lo guardaste en el almacén?\nRevisa eso y\nvuelve más tarde."
     },
     "lV0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 19 Armor Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nVoucher de Refinamento de Armadura 19.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Armadura +19.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de Refinado]\nNo tienes el cupón de refinado de armadura 19.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "ll0aCg": {
         "en-US": "[Refining Researcher]\n^8B4513This item is already\nat the level you want or higher.^000000\nPlease bring me\nsomething else at a lower level.",
-        "pt-BR": "[Pesquisador de Refinamento]\n^8B4513Este item já\ntem o nível que você deseja.^000000\nPor favor, traga\num item que ainda não tenha sido refinado.",
+        "pt-BR": "[Mestre do Refino]\nEste item ^8B4513já possui^000000 o\nnível de refino que você deseja.\nPor favor, traga um item\nque ainda ^8B4513não^000000 tenha sido refinado.",
         "es-ES": "[Investigador de Refinado]\n^8B4513Este objeto ya tiene\nel nivel que buscas.^000000\nPor favor, trae un objeto\nque no esté tan refinado."
     },
     "l10aCg": {
         "en-US": "[Refining Researcher]\nUse a ^006400Safe to {0} Armor Certificate^8B4513\nto refine your ^006400{1}^8B4513\nequipment by {0} stages.^000000\nProceed?",
-        "pt-BR": "[Pesquisador de Refinamento]\n^006400Usando o {0} Garantia de Refinamento de Armadura^8B4513,\nrefinamos o equipamento ^006400{1}^8B4513\nem {0} níveis.^000000\nQueres continuar?",
+        "pt-BR": "[Mestre do Refino]\nDeixa eu ver se entendi.\nDevo usar o Pergaminho de Armadura ^FF0066+{0}^000000\nPara refinar ^FF0066{1}^000000\ndiretamente para o ^8B4513+{0}^000000.\nEstá correto?",
         "es-ES": "[Investigador de Refinamiento]\n^006400Utilizando el cupón de refinamiento de armadura {0} ^8B4513,\nrefinaremos el equipo ^006400{1}^8B4513\nen {0} niveles.^000000\n¿Quieres continuar?"
     },
     "mF0aCg": {
@@ -291,217 +291,217 @@
     },
     "ml0aCg": {
         "en-US": "[Refining Researcher]\nYou've changed your mind.\nUnderstood.\nPlease feel free to come back anytime.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê mudou de ideia, não é?\nEntendi.\nPode voltar mais tarde.",
+        "pt-BR": "[Mestre do Refino]\nVocê mudou de ideia, não é?\nEntendi.\nPode voltar mais tarde.",
         "es-ES": "[Investigador de refinado]\nHas cambiado de opinión, ¿no?\nEntendido.\nPuedes volver más tarde."
     },
     "m10aCg": {
         "en-US": "[Refining Researcher]\nAlright.\nI'll begin the refining process.\nI do things a bit differently though...\n.......CRASH!",
-        "pt-BR": "[Pesquisador de Refinamento]\nTudo bem.\nVou começar o refinamento.\nEu faço isso de um jeito um pouco especial...\n.......Kwaaang!",
+        "pt-BR": "[Mestre do Refino]\nTudo bem.\nIniciarei o processo.\nNão se assuste com a explosão...\n.......BUM!",
         "es-ES": "[Investigador de refinado]\nMuy bien.\nVoy a empezar el refinado.\nYo lo hago de una forma un poco especial, pero...\n.......¡Kuaaang!"
     },
     "nF0aCg": {
         "en-US": "Armor Safe Refining Error\nPlease capture an image of this screen and submit it to the Operation Team.",
-        "pt-BR": "Refinamento de Armadura de Defesa contra Erros\nTira uma captura de tela e entra em contato com o GM.",
+        "pt-BR": "Erro no processo de refino com Pergaminho.\nTira uma captura de tela e entra em contato com a Central de Suporte.",
         "es-ES": "Error en la refinería de armadura\nPor favor, toma una captura de pantalla y contacta al GM."
     },
     "nV0aCg": {
         "en-US": "[Refining Researcher]\nThere you go!\nWell, compared to your hard work, ^0000FF{0}^000000,\nthis was easier\nthan falling off a log.\nNow, goodbye!",
-        "pt-BR": "[Pesquisador de Refinamento]\nPronto, está concluído.\nBem, comparado ao esforço de ^0000FF{0}^000000,\nisso não é nada!\nEntão, fica bem~!",
+        "pt-BR": "[Mestre do Refino]\nMinha mais nova obra-prima!\nNada melhor que um trabalho bem feito,\nnão acha, ^0000FF{0}^000000?\nAté a próxima~!",
         "es-ES": "[Investigador de Refinado]\nBueno, ya está listo.\nBueno, comparado con el esfuerzo de ^0000FF{0}^000000,\nesto no es nada.\n¡Que te vaya bien!"
     },
     "nl0aCg": {
         "en-US": "[Refining Researcher]\nTo refine\nyour ^006400weapon^000000 through me,\nyou must bring a ^006400Weapon Refining Certificate^000000.",
-        "pt-BR": "[Pesquisador de Refinamento]\nPara refinar\n^006400Arma^000000 com a minha ajuda,\nprecisas trazer\no ^006400Voucher de Refinamento de Arma^000000.",
+        "pt-BR": "[Mestre do Refino]\nPara refinar uma\n^FF0066Arma^000000,\nvocê deve ter um\n^FF0066Pergaminho de Arma^000000.",
         "es-ES": "[Investigador de Refinado]\nSi quieres refinar\n^006400Arma^000000 a través de mí,\ntienes que traer\nun ^006400Bono de Refinado de Arma^000000."
     },
     "n10aCg": {
         "en-US": "[Refining Researcher]\nPlease select the ^006400Weapon Refining Certificate^000000\nyou wish to use.",
-        "pt-BR": "[Pesquisador de Refinação]\nEscolhe o ^006400Certificado de Garantia de Refinação de Arma^000000\nque você quer usar.",
+        "pt-BR": "[Mestre do Refino]\nPor favor, escolha o ^FF0066Pergaminho de Arma^000000\nque deseja usar para refinar.",
         "es-ES": "[Investigador de refinería]\nElige el ^006400Bono de garantía de refinería de armas^000000\nque vas a usar."
     },
     "oF0aCg": {
         "en-US": "Weapon 5 Refining Certificate",
-        "pt-BR": "Garantia de Refinamento de Arma 5",
+        "pt-BR": "Pergaminho de Arma +5",
         "es-ES": "Bono de refinería de armas 5"
     },
     "oV0aCg": {
         "en-US": "Weapon 6 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 6",
+        "pt-BR": "Pergaminho de Arma +6",
         "es-ES": "Garantía de refinado de 6 armas"
     },
     "ol0aCg": {
         "en-US": "Weapon 7 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 7",
+        "pt-BR": "Pergaminho de Arma +7",
         "es-ES": "Garantía de refinado de armas 7"
     },
     "o10aCg": {
         "en-US": "Weapon 8 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 8",
+        "pt-BR": "Pergaminho de Arma +8",
         "es-ES": "Garantía de refinado de armas 8"
     },
     "pF0aCg": {
         "en-US": "Weapon 9 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 9",
+        "pt-BR": "Pergaminho de Arma +9",
         "es-ES": "Garantía de refinado de arma 9"
     },
     "pV0aCg": {
         "en-US": "Weapon 10 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 10",
+        "pt-BR": "Pergaminho de Arma +10",
         "es-ES": "Garantía de refinado de arma 10"
     },
     "pl0aCg": {
         "en-US": "Weapon 11 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 11",
+        "pt-BR": "Pergaminho de Arma +11",
         "es-ES": "Garantía de refinado de arma 11"
     },
     "p10aCg": {
         "en-US": "Weapon 12 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 12",
+        "pt-BR": "Pergaminho de Arma +12",
         "es-ES": "Garantía de refinado de arma 12"
     },
     "qF0aCg": {
         "en-US": "Weapon 13 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 13",
+        "pt-BR": "Pergaminho de Arma +13",
         "es-ES": "Garantía de refinado de arma 13"
     },
     "qV0aCg": {
         "en-US": "Weapon 14 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 14",
+        "pt-BR": "Pergaminho de Arma +14",
         "es-ES": "Garantía de refinado de arma 14"
     },
     "ql0aCg": {
         "en-US": "Weapon 15 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 15",
+        "pt-BR": "Pergaminho de Arma +15",
         "es-ES": "Garantía de refinado de arma 15"
     },
     "q10aCg": {
         "en-US": "Weapon 16 Refining Guarantee",
-        "pt-BR": "Garantia de Refino de Arma 16",
+        "pt-BR": "Pergaminho de Arma +16",
         "es-ES": "Garantía de refinado de arma 16"
     },
     "rF0aCg": {
         "en-US": "Weapon 17 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 17",
+        "pt-BR": "Pergaminho de Arma +17",
         "es-ES": "Garantía de refinado de arma 17"
     },
     "rV0aCg": {
         "en-US": "Weapon 18 Refining Guarantee",
-        "pt-BR": "Garantia de Refinamento de Arma 18",
+        "pt-BR": "Pergaminho de Arma +18",
         "es-ES": "Garantía de refinado de arma 18"
     },
     "rl0aCg": {
         "en-US": "Weapon 19 Refining Guarantee",
-        "pt-BR": "Garantia de Refinação de Arma 19",
+        "pt-BR": "Pergaminho de Arma +19",
         "es-ES": "Garantía de refinado de arma 19"
     },
     "r10aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 5 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 5.\nVocê o guardou no baú?\nDá uma olhada lá e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +5.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 5.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "sF0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 6 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 6.\nVocê o guardou no baú?\nVerifique e\nvolte depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +6.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 6.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "sV0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 7 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 7.\nVocê o guardou no baú?\nVerifique e\nvolte depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +7.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 7.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "sl0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 8 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 8.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +8.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 8.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "s10aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 9 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 9.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +9.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 9.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "tF0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 10 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma Nível 10.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +10.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 10.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "tV0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 11 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma Nível 11.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +11.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas de nivel 11.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "tl0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 12 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 12.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +12.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado garantizado de armas de nivel 12.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "t10aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 13 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 13.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +13.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 13.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "uF0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 14 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 14.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +14.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 14.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "uV0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 15 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 15.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +15.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 15.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "ul0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 16 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 16.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +16.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 16.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "u10aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Safe to 17 Weapon Certificate.\nDid you leave it in your storage by any chance?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 17.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +17.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 17.\n¿Lo guardaste en el almacén?\nRevísalo y\nvuelve más tarde."
     },
     "vF0aCg": {
         "en-US": "[Refining Researcher]\nYou don't have\na Weapon 18 Refining Guarantee.\nDid you leave it in your storage?\nPlease check\nand come back.",
-        "pt-BR": "[Pesquisador de Refinação]\nVocê não está com o\nCertificado de Refinação de Arma 18.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +18.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el cupón de refinado de armas 18.\n¿Lo guardaste en el almacén?\nRevisa y\nvuelve más tarde."
     },
     "vV0aCg": {
         "en-US": "[Refining Researcher]\nYou do not possess the\nWeapon 19 Refining Guarantee.\nDid you leave it in your warehouse?\nPlease check and\nreturn.",
-        "pt-BR": "[Pesquisador de Refinamento]\nVocê não está com o\nTítulo de Garantia de Refinamento de Arma 19.\nVocê o guardou no baú?\nDá uma olhada e\nvolta depois.",
+        "pt-BR": "[Mestre do Refino]\nVocê não está com o\nPergaminho de Arma +19.\nOnde você guardou?\nDê uma olhada e\nvolte depois.",
         "es-ES": "[Investigador de refinado]\nNo tienes el\nbono de refinado de arma 19.\n¿Lo guardaste en el almacén?\nCompruébalo y\nvuelve más tarde."
     },
     "vl0aCg": {
         "en-US": "[Refining Researcher]\nConsume a ^006400Weapon {0} Refining Guarantee Ticket^8B4513\nto refine ^006400{1}^8B4513\nequipment by {0} stages.^000000\nProceed?",
-        "pt-BR": "[Pesquisador de Refinamento]\n^006400Consumindo o Bilhete de Refinamento Garantido de Arma {0} ^8B4513,\nrefinamos o equipamento ^006400{1}^8B4513\nem {0} níveis.^000000\nQueres continuar?",
+        "pt-BR": "[Mestre do Refino]\nDeixa eu ver se entendi.\nDevo usar o Pergaminho de Arma ^FF0066+{0}^000000\nPara refinar ^FF0066{1}^000000\ndiretamente para o ^8B4513+{0}^000000.\nEstá correto?",
         "es-ES": "[Investigador de refinamiento]\n^006400Consumiré {0} boletos de refinamiento garantizado de armas^8B4513\npara refinar el equipo ^006400{1}^8B4513\nen {0} niveles.^000000\n¿Quieres continuar?"
     },
     "v10aCg": {
         "en-US": "Error Occurred: Weapon Safe Refining",
-        "pt-BR": "Erro: Refinamento Seguro de Armas",
+        "pt-BR": "Erro no processo de refino com Pergaminho de Arma.",
         "es-ES": "Error: Refinado seguro de armas"
     },
     "wF0aCg": {
         "en-US": "[Refining Researcher]\nHello.\nHow may I help you?\nI'm quite skilled\nin equipment-refining matters,\nbut I haven't accepted any work lately.",
-        "pt-BR": "[Pesquisador de Refinamento]\nOlá.\nO que aconteceu?\nSou uma pessoa que se orgulha\nda minha habilidade em refinamento,\nmas, ultimamente, não tenho feito esse trabalho.",
+        "pt-BR": "[Mestre do Refino]\nOlá.\nEm que posso ajudar?\nEu sou um Ferreiro especializado\nem Pergaminhos de Refinamento.\nUltimamente estou sem muitos trabalhos.",
         "es-ES": "[Investigador de refinamiento]\nHola.\n¿Qué pasa?\nAunque tengo mucha confianza\nen mis habilidades de refinamiento,\núltimamente no me dedico a eso."
     },
     "wV0aCg": {
         "en-US": "I'm going my way.",
-        "pt-BR": "Seguir em frente.",
+        "pt-BR": "Ignorar.",
         "es-ES": "Sigo mi camino."
     },
     "wl0aCg": {
         "en-US": "I'll listen some more.",
-        "pt-BR": "Ouvir mais.",
+        "pt-BR": "Conversar.",
         "es-ES": "Escuchar más."
     },
     "w10aCg": {
         "en-US": "[Refining Researcher]\nFarewell, adventurer.",
-        "pt-BR": "[Pesquisador de Refinamento]\nEntão, boa viagem, aventureiro.",
+        "pt-BR": "[Mestre do Refino]\nEntão, boa viagem, viajante.",
         "es-ES": "[Investigador de Refinado]\nEntonces, hasta pronto, aventurero."
     },
     "xF0aCg": {
         "en-US": "[Refining Researcher]\nActually, I do offer refining services on occasion,\nbut I only refine ^006400Safe Refining Certificates^000000 for ^FF0000equipment you can wear^000000.\nTake care ~!",
-        "pt-BR": "[Pesquisador de Refinação]\nNa verdade, às vezes eu faço a refinação para vocês,\nmas só refino ^FF0000equipamentos que possam ser equipados^000000 por quem tem o ^006400Título de Garantia de Refinação^000000.\nEntão, até mais ~!",
+        "pt-BR": "[Mestre do Refino]\nOs ^FF0066Pergaminhos de Refino^000000 são itens muito raros.\nEles pulam todo o processo de refinamento, sem usar minérios.\nLegal, não é?\nObrigado pela conversa~!",
         "es-ES": "[Investigador de fundición]\nLa verdad es que a veces sí que hago fundiciones,\npero solo fundo ^FF0000equipos que se puedan equipar^000000 para quienes tengan un ^006400bono de fundición garantizada^000000.\n¡Adiós entonces!"
     }
 }

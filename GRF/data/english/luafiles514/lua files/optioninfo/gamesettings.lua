@@ -694,5 +694,13 @@ OptionTbl = {
 		Title = "/taekwon",
 		TipBoxID = 193,
 		Description = "Shows Top 10 Taekwon ranking."
+	},
+	[63] = {
+		ID = TT_SHOW_CARD_ILLUST_ONOFF,
+		Tab = ETC,
+		Type = ONOFF,
+		Title = "/cardillust",
+		Default = true,
+		Description = "Displays the card illustration in the item details window."
 	}
 }

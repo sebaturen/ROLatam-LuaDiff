@@ -14285,28 +14285,29 @@ QuestInfoList = {
 		Summary = "Fale com o proprietário da cabine"
 	},
 	[5908] = {
-		Title = "Local da queda do dirigível",
+		Title = "Local da Queda do Aeroplano",
 		Description = {
-			"Vamos ouvir o Dr. Dry Circle Strong falar sobre o incidente do Airship Crash."
+			"Vamos ouvir o Dr. Serafit falar sobre o incidente da Queda do Aeroplano"
 		}
 	},
 	[5909] = {
-		Title = "[Espera] Local da queda do dirigível",
+		Title = "[Espera] Local da Queda do Aeroplano",
 		Description = {
-			"Você pode entrar no local do acidente do dirigível uma vez a cada 3 dias. Fale com <NAVI>[Dr. Dry Circle Strong]<INFO>dali02,137,86,0,101,0</INFO></NAVI> para acessar o local novamente mais tarde."
+			"Você pode entrar no Local da Queda do Aeroplano uma vez a cada 3 dias.",
+			"Fale com [<NAVI>Dr. Serafit<INFO>dali02,137,86,0,101,0</INFO></NAVI>] para acessar o local novamente."
 		},
-		Summary = "Reseta 4 da manhã após 3 dias"
+		Summary = "Reinicia às 04:00 após 3 dias"
 	},
 	[5910] = {
 		Title = "Pesquisa colaborativa esquecida (1)",
 		Description = {
-			"O professor Daeguto pediu ao aluno de pós-graduação Maratha que explicasse o assunto."
+			"O professor Daeguto pediu ao Pós-graduando Marata, também conhecido como *oo*, que explicasse o assunto."
 		}
 	},
 	[5911] = {
 		Title = "Pesquisa colaborativa esquecida (2)",
 		Description = {
-			"Acho que a última explicação deve ser ouvida pelo aluno de pós-graduação Saseong. Vamos ouvir a explicação final."
+			"Acho que a última explicação deve ser ouvida pelo Pós-graduando Saseong, também conhecido como ****. Vamos ouvir a explicação final."
 		}
 	},
 	[5912] = {
@@ -14314,7 +14315,8 @@ QuestInfoList = {
 		Description = {
 			"Recebemos uma solicitação para caçar 50 monstros comuns.",
 			"",
-			"Se o número de membros do grupo registrados no Professor e o número de pessoas dentro do grupo não forem os mesmos, você não poderá receber uma compensação justa.",
+			"Se o número de pessoas dentro do grupo for diferente da informada ao Professor, as recompensas poderão não ser justas.",
+			"",
 			"^FF0000Esta é uma missão que pode ser repetida.^000000"
 		}
 	},
@@ -14323,7 +14325,8 @@ QuestInfoList = {
 		Description = {
 			"Recebemos uma solicitação para caçar 100 monstros comuns.",
 			"",
-			"Se o número de membros do grupo registrados no Professor e o número de pessoas dentro do grupo não forem os mesmos, você não poderá receber uma compensação justa.",
+			"Se o número de pessoas dentro do grupo for diferente da informada ao Professor, as recompensas poderão não ser justas.",
+			"",
 			"^FF0000Esta é uma missão que pode ser repetida.^000000"
 		}
 	},
@@ -14332,14 +14335,15 @@ QuestInfoList = {
 		Description = {
 			"Recebemos uma solicitação para caçar 150 monstros comuns.",
 			"",
-			"Se o número de membros do grupo registrados no Professor e o número de pessoas dentro do grupo não forem os mesmos, você não poderá receber uma compensação justa.",
+			"Se o número de pessoas dentro do grupo for diferente da informada ao Professor, as recompensas poderão não ser justas.",
+			"",
 			"^FF0000Esta é uma missão que pode ser repetida.^000000"
 		}
 	},
 	[5915] = {
 		Title = "Recompensas por ajudar os feridos",
 		Description = {
-			"Pelloch recebeu uma indenização por sua ajuda na descoberta dos ferimentos causados pelo acidente com o dirigível."
+			"Recebi uma recompensa de Ferlock por ajudar a localizar as pessoas feridas no acidente do aeroplano."
 		}
 	},
 	[5916] = {
@@ -36878,19 +36882,19 @@ QuestInfoList = {
 		Summary = "Descanse por 30 minutos."
 	},
 	[12510] = {
-		Title = "Sobre a Arena Oculta",
+		Title = "Sobre a Arena Clandestina",
 		Description = {
-			"Descobrimos que uma arena está sendo operada por meios ilegais além da Fenda Dimensional.",
-			"Não se sabe como convenceram aqueles que já se tornaram existências do passado, mas certamente é algo bastante interessante."
+			"Descobri que uma arena está sendo operada de forma ilegal no Espaço Dimensional.",
+			"Não sei como conseguiram organizar algo assim, mas parece muito interessante."
 		},
 		Summary = "Regras dos Covardes"
 	},
 	[12511] = {
-		Title = "[Espera]Hoje não há partidas",
+		Title = "[Espera] Não há partidas hoje.",
 		Description = {
 			"Dizem que a arena abre uma vez a cada 3 dias. Enquanto não houver partidas, é melhor descansar."
 		},
-		Summary = "Partidas retomadas às 4h da madrugada após 3 dias",
+		Summary = "A Arena se reinicia às 04:00 após 3 dias",
 		CoolTimeQuest = 1
 	},
 	[12512] = {
@@ -36898,57 +36902,57 @@ QuestInfoList = {
 		Description = {
 			"Se você ainda está de pé dentro da arena, e se está vendo este passe de entrada, isso é prova de que você está vivo."
 		},
-		Summary = "Ainda não morreu."
+		Summary = "Ainda não morri."
 	},
 	[12513] = {
 		Title = "Causa da Destruição da Torre",
 		Description = {
-			"Parece que o responsável por esta comoção se instalou dentro da torre meio destruída. Vamos verificar que tipo de existência ele é."
+			"Parece que o responsável por esta comoção se instalou dentro da torre parcialmente destruída. Vamos verificar quem ele é."
 		},
 		Summary = "Novo Dono da Torre"
 	},
 	[12514] = {
-		Title = "Sequelas da Entrada na Torre",
+		Title = "Efeitos por entrar na Torre",
 		Description = {
-			"Entrar e sair deste lugar consome muita energia mental. Mesmo que ainda tenha assuntos pendentes, será melhor voltar depois de 3 dias."
+			"Entrar e sair deste lugar consome muita energia mental. Mesmo que ainda tenha coisas para fazer, é melhor melhor voltar só depois de 3 dias."
 		},
-		Summary = "Reentrada às 4h da madrugada após 3 dias",
+		Summary = "Reinicia às 04:00 após 3 dias",
 		CoolTimeQuest = 1
 	},
 	[12515] = {
-		Title = "Encontro com o Novo Dono da Torre",
+		Title = "Encontrando o novo Dono da Torre",
 		Description = {
-			"O novo dono da torre não matou todos os moradores da torre. Isso é realmente generoso, mas ao ver os monstros sendo expulsos para baixo, é impossível imaginar o quão forte ele é."
+			"O novo dono da torre não matou todos os moradores da torre. Isso foi algo generoso, mas ao ver os monstros vindo de cima, é impossível imaginar o quão forte ele é."
 		},
-		Summary = "Vamos nos resguardar."
+		Summary = "Vamos tomar cuidado."
 	},
 	[12516] = {
 		Title = "Segredo da Fonte 1",
 		Description = {
-			"Amplifique o poder de Betelgeuse em 300% ou mais e vença. Será adicionada a função de usar <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para elevar uma dificuldade específica até o limite."
+			"Aumente o poder de Betelgeuse em 300% ou mais e vença-o. Será adicionada a função de usar <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para aumentar uma dificuldade específica até o limite."
 		},
-		Summary = "Aprimoramento de atributo especificado"
+		Summary = "Aumentar atributo específico"
 	},
 	[12517] = {
 		Title = "Segredo da Fonte 1",
 		Description = {
-			"Amplifique o poder de Betelgeuse em 600% ou mais e vença. Será adicionada a função de usar <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para selar uma dificuldade específica em 0."
+			"Aumente o poder de Betelgeuse em 600% ou mais e vença-o. Será adicionada a função de usar <ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM> para selar uma dificuldade específica em 0."
 		},
-		Summary = "Selamento de atributo especificado"
+		Summary = "Selar atributo específico"
 	},
 	[12518] = {
-		Title = "Existência Expulsa",
+		Title = "O ser expulso",
 		Description = {
-			"É certo que ocorreu uma mudança drástica no ecossistema da torre. Antes de verificar quem é o dono do trono que mudou de mãos, será necessário fazer uma limpeza adequada."
+			"Uma mudança drástica no ecossistema da torre ocorreu. Antes de verificar quem é o novo dono da torre, uma limpeza se faz necessária."
 		},
-		Summary = "Por favor, vá saindo."
+		Summary = "É hora de sair."
 	},
 	[12519] = {
-		Title = "Paradeiro do Dono Original",
+		Title = "Paradeiro do dono original",
 		Description = {
-			"Se a torre ficou assim, a existência que originalmente dominava este lugar também não deve ter saído ilesa."
+			"Pelo estado em que a torre se encontra, o ser que originalmente dominava este lugar não deve ter saído ileso."
 		},
-		Summary = "Talvez agora não reste nada de especial."
+		Summary = "Não há muito a se ver por aqui."
 	},
 	[12520] = {
 		Title = "Mansão da Desilusão",
@@ -46132,7 +46136,7 @@ QuestInfoList = {
 		Title = "Festival do Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Traga 1 Almôndega, 1 Macarrão Gravatinha, 1 Macarrão Parafuso e 1 Macarrão Espaguete para o <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
+			"Traga 1x Almôndega, 1x Macarrão Gravatinha, 1x Macarrão Parafuso e 1x Macarrão Espaguete para o <NAVI>[Gerente do Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Traga os itens"
 	},
@@ -46188,9 +46192,9 @@ QuestInfoList = {
 		Title = "Colheita de Melancia",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Elimine Melancias e traga 10 Leques do Festival para o <NAVI>[Ajudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
+			"Elimine Melancias e traga 10x Leque do Festival para o <NAVI>[Ajudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 Leques do Festival"
+		Summary = "10x Leque do Festival"
 	},
 	[17316] = {
 		Title = "[Espera] Colheita de Melancia",
@@ -46201,12 +46205,12 @@ QuestInfoList = {
 		Summary = "Reinicia às 04:00."
 	},
 	[17317] = {
-		Title = "Macarrão Estragado",
+		Title = "Caça ao Macarrão Estragado",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Traga 10 Macarrão Podre para o <NAVI>[Ajudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>."
+			"Traga 10x Macarrão Podre para o <NAVI>[Ajudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 Macarrão Podre"
+		Summary = "10x Macarrão Podre"
 	},
 	[17318] = {
 		Title = "[Espera] Macarrão Estragado",
@@ -46326,7 +46330,7 @@ QuestInfoList = {
 		Description = {
 			"Você recebeu o visual desse ano!"
 		},
-		Summary = "Feliz festival!"
+		Summary = "Aproveite o festival!"
 	},
 	[17333] = {
 		Title = "O Legado do Sábio",
@@ -47558,18 +47562,18 @@ QuestInfoList = {
 		Summary = "Concluir o treinamento"
 	},
 	[17554] = {
-		Title = "Pato Perdido",
+		Title = "Patolindo Perdido",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Em Lasagna, há um [<NAVI>Pato<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>] perto do local de pesca ao sul. Se o proprietário não vier buscá-lo, leve-o ao Centro de Achados e Perdidos."
+			"Em Lasagna, há um [<NAVI>Patolindo<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>] perto do local de pesca ao sul. Se o proprietário não vier buscá-lo, leve-o ao Centro de Achados e Perdidos."
 		},
-		Summary = "Ao Pato"
+		Summary = "Ao Patolindo "
 	},
 	[17555] = {
 		Title = "Cozinhar Macarrão",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Mestre Macarrão Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, em Lasagna, pediu 5 Macarrão Gravatinha, 5 Macarrão Espaguete, 5 Macarrão Parafuso e 3 Almôndegas."
+			"<NAVI>[Mestre Macarrão Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, em Lasagna, pediu 5x Macarrão Gravatinha, 5x Macarrão Espaguete, 5x Macarrão Parafuso e 1x Almôndega."
 		},
 		Summary = "Traga os itens"
 	},
@@ -47593,33 +47597,33 @@ QuestInfoList = {
 		Title = "Botão de Estrela?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Em algum lugar da caverna, há patos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,74,202,0,101,0,</INFO></NAVI>."
+			"Em algum lugar da caverna, há patolindos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,74,202,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Encontre Patos"
+		Summary = "Encontre Patolindos"
 	},
 	[17559] = {
 		Title = "Botão de Estrela?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Em algum lugar da caverna, há patos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,135,70,0,101,0,</INFO></NAVI>."
+			"Em algum lugar da caverna, há patolindos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,135,70,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Encontre Patos"
+		Summary = "Encontre Patolindos"
 	},
 	[17560] = {
 		Title = "Botão de Estrela?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Em algum lugar da caverna, há patos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,18,51,0,101,0,</INFO></NAVI>."
+			"Em algum lugar da caverna, há patolindos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,18,51,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Encontre Patos"
+		Summary = "Encontre Patolindos"
 	},
 	[17561] = {
 		Title = "Botão de Estrela?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Em algum lugar da caverna, há patos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI>."
+			"Em algum lugar da caverna, há patolindos escondidos. Vamos procurá-los <NAVI>[aqui]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Encontre Patos"
+		Summary = "Encontre Patolindos"
 	},
 	[17562] = {
 		Title = "Botão de Estrela?!",
@@ -47627,13 +47631,13 @@ QuestInfoList = {
 		Description = {
 			"Vamos voltar para <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Encontre Patos"
+		Summary = "Encontre Patolindos"
 	},
 	[17563] = {
 		Title = "Botão de Estrela?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Parece confuso, vamos aguardar o Pato em­ <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+			"Parece confuso, vamos aguardar o Patolindo em­ <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Aguarde"
 	},
@@ -47641,15 +47645,15 @@ QuestInfoList = {
 		Title = "Botão de Estrela?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Converse com o <NAVI>[Pato]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+			"Converse com o <NAVI>[Patolindo]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Fale com Pato­"
+		Summary = "Fale com Pato­lindo"
 	},
 	[17565] = {
 		Title = "Botão de Estrela?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Vá para a Caverna, elimine Estrelitas para conseguir 20 Botões de Estrela e entregue-as para <NAVI>[mim]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+			"Vá para a Caverna, elimine Estrelitas para conseguir 20x Botão de Estrela e entregue-as para <NAVI>[mim]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "20 Botões de Estrela"
 	},
@@ -47668,7 +47672,7 @@ QuestInfoList = {
 		Description = {
 			"Vá para a Caverna, elimine Estrelitas para conseguir 20 Botões de Estrela e entregue-as para <NAVI>[mim]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "20 Botões de Estrela"
+		Summary = "20x Botão de Estrela"
 	},
 	[17568] = {
 		Title = "Caminho do Céu: Ponto Marcado",

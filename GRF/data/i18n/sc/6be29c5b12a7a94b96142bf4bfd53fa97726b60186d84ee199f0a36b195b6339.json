@@ -6,7 +6,7 @@
     },
     "QVXrAQ": {
         "en-US": "[Satana Sallis]\nHey, do you have <ITEM>[Shadowdecon ore]<INFO>25728</INFO></ITEM> or <ITEM>[Zelunium Ore]<INFO>25730</INFO></ITEM>?\nWe exchange it for refined products so that it can be used as smelting products.",
-        "pt-BR": "[Satana Sallis]\nEi, você tem <ITEM>[minério de Shadowdecon]<INFO>25728</INFO></ITEM> ou <ITEM>[minério de Zelunium]<INFO>25730</INFO></ITEM>?\nNós o trocamos por produtos refinados para que ele possa ser usado como produtos de fundição.",
+        "pt-BR": "[Satana]\nEi, você tem [<ITEM>Minério de Sombridecon<INFO>25728</INFO></ITEM>] ou [<ITEM>Minério de Zelunium<INFO>25730</INFO></ITEM>]?\nEu sou capaz de fundir esses minerais para uma pedra bruta.",
         "es-ES": "[Satana Sallis]\nOye, ¿tienes <ITEM>[Sombridecon]<INFO>25728</INFO></ITEM> o <ITEM>[Zelunium]<INFO>25730</INFO></ITEM>?\nLo cambiamos por productos refinados, así se pueden usar como productos de fundición."
     },
     "QlXrAQ": {
@@ -16,7 +16,7 @@
     },
     "Q1XrAQ": {
         "en-US": "[Polinn Polath]\nHey, do you have <ITEM>[Shadowdecon ore]<INFO>25728</INFO></ITEM> or <ITEM>[Zelunium Ore]<INFO>25730</INFO></ITEM>?\nWe exchange it for refined products so that it can be used as smelting products.",
-        "pt-BR": "[Polinn Polath]\nEi, você tem <ITEM>[minério de Shadowdecon]<INFO>25728</INFO></ITEM> ou <ITEM>[minério de Zelunium]<INFO>25730</INFO></ITEM>?\nNós o trocamos por produtos refinados para que ele possa ser usado como produtos de fundição.",
+        "pt-BR": "[Polinn]\nEi, você tem [<ITEM>Minério de Sombridecon<INFO>25728</INFO></ITEM>] ou [<ITEM>Minério de Zelunium<INFO>25730</INFO></ITEM>]?\nEu sou capaz de fundir esses minerais para uma pedra bruta.",
         "es-ES": "[Polinn Polath]\nOye, ¿tienes <ITEM>[Sombridecon]<INFO>25728</INFO></ITEM> o <ITEM>[Zelunium]<INFO>25730</INFO></ITEM>?\nLo cambiamos por productos refinados, así se pueden usar como productos de fundición."
     },
     "RFXrAQ": {
@@ -26,7 +26,7 @@
     },
     "RVXrAQ": {
         "en-US": "[Marik Meloy]\nHey, do you have <ITEM>[Shadowdecon ore]<INFO>25728</INFO></ITEM> or <ITEM>[Zelunium Ore]<INFO>25730</INFO></ITEM>?\nWe exchange it for refined products so that it can be used as smelting products.",
-        "pt-BR": "[Marik Meloy]\nEi, você tem <ITEM>[minério de Shadowdecon]<INFO>25728</INFO></ITEM> ou <ITEM>[minério de Zelunium]<INFO>25730</INFO></ITEM>?\nNós o trocamos por produtos refinados para que ele possa ser usado como produtos de fundição.",
+        "pt-BR": "[Marik]\nEi, você tem [<ITEM>Minério de Sombridecon<INFO>25728</INFO></ITEM>] ou [<ITEM>Minério de Zelunium<INFO>25730</INFO></ITEM>]?\nEu sou capaz de fundir esses minerais para uma pedra bruta.",
         "es-ES": "[Marik Meloy]\nOye, ¿tienes <ITEM>[Sombridecon]<INFO>25728</INFO></ITEM> o <ITEM>[Zelunium]<INFO>25730</INFO></ITEM>?\nLo cambiamos por productos refinados, así se pueden usar como productos de fundición."
     },
     "RlXrAQ": {
@@ -36,7 +36,7 @@
     },
     "R1XrAQ": {
         "en-US": "[Jihu Jeyorr]\nHey, do you have <ITEM>[Shadowdecon ore]<INFO>25728</INFO></ITEM> or <ITEM>[Zelunium Ore]<INFO>25730</INFO></ITEM>?\nWe exchange it for refined products so that it can be used as smelting products.",
-        "pt-BR": "[Jihu Jeyorr]\nEi, você tem <ITEM>[minério de Shadowdecon]<INFO>25728</INFO></ITEM> ou <ITEM>[minério de Zelunium]<INFO>25730</INFO></ITEM>?\nNós o trocamos por produtos refinados para que ele possa ser usado como produtos de fundição.",
+        "pt-BR": "[Jihu]\nEi, você tem [<ITEM>Minério de Sombridecon<INFO>25728</INFO></ITEM>] ou [<ITEM>Minério de Zelunium<INFO>25730</INFO></ITEM>]?\nEu sou capaz de fundir esses minerais para uma pedra bruta.",
         "es-ES": "[Jihu Jeyorr]\nOye, ¿tienes <ITEM>[Sombridecon]<INFO>25728</INFO></ITEM> o <ITEM>[Zelunium]<INFO>25730</INFO></ITEM>?\nLo cambiamos por productos refinados, así se pueden usar como productos de fundición."
     },
     "SFXrAQ": {
@@ -46,17 +46,17 @@
     },
     "SVXrAQ": {
         "en-US": "[Dimille Maar]\nHey, do you have <ITEM>[Shadowdecon ore]<INFO>25728</INFO></ITEM> or <ITEM>[Zelunium Ore]<INFO>25730</INFO></ITEM>?\nWe exchange it for refined products so that it can be used as smelting products.",
-        "pt-BR": "[Dimille Maar]\nEi, você tem <ITEM>[minério de Shadowdecon]<INFO>25728</INFO></ITEM> ou <ITEM>[minério de Zelunium]<INFO>25730</INFO></ITEM>?\nNós o trocamos por produtos refinados para que ele possa ser usado como produtos de fundição.",
+        "pt-BR": "[Dimille]\nEi, você tem [<ITEM>Minério de Sombridecon<INFO>25728</INFO></ITEM>] ou [<ITEM>Minério de Zelunium<INFO>25730</INFO></ITEM>]?\nEu sou capaz de fundir esses minerais para uma pedra bruta.",
         "es-ES": "[Dimille Maar]\nOye, ¿tienes <ITEM>[Sombridecon]<INFO>25728</INFO></ITEM> o <ITEM>[Zelunium]<INFO>25730</INFO></ITEM>?\nLo cambiamos por productos refinados, así se pueden usar como productos de fundición."
     },
     "SlXrAQ": {
         "en-US": "Galan",
-        "pt-BR": "Galã",
+        "pt-BR": "Galan",
         "es-ES": "Galán"
     },
     "S1XrAQ": {
         "en-US": "[Galan Gweniha]\nHey, do you have <ITEM>[Shadowdecon ore]<INFO>25728</INFO></ITEM> or <ITEM>[Zelunium Ore]<INFO>25730</INFO></ITEM>?\nWe exchange it for refined products so that it can be used as smelting products.",
-        "pt-BR": "[Galan Gweniha]\nEi, você tem <ITEM>[minério de Shadowdecon]<INFO>25728</INFO></ITEM> ou <ITEM>[minério de Zelunium]<INFO>25730</INFO></ITEM>?\nNós o trocamos por produtos refinados para que ele possa ser usado como produtos de fundição.",
+        "pt-BR": "[Galan]\nEi, você tem [<ITEM>Minério de Sombridecon<INFO>25728</INFO></ITEM>] ou [<ITEM>Minério de Zelunium<INFO>25730</INFO></ITEM>]?\nEu sou capaz de fundir esses minerais para uma pedra bruta.",
         "es-ES": "[Galan Gweniha]\nOye, ¿tienes <ITEM>[Sombridecon]<INFO>25728</INFO></ITEM> o <ITEM>[Zelunium]<INFO>25730</INFO></ITEM>?\nLo cambiamos por productos refinados, así se pueden usar como productos de fundición."
     },
     "TFXrAQ": {
@@ -66,7 +66,7 @@
     },
     "TVXrAQ": {
         "en-US": "[Nemill Newton]\nHey, do you have <ITEM>[Shadowdecon ore]<INFO>25728</INFO></ITEM> or <ITEM>[Zelunium Ore]<INFO>25730</INFO></ITEM>?\nWe exchange it for refined products so that it can be used as smelting products.",
-        "pt-BR": "[Nemill Newton]\nEi, você tem <ITEM>[minério de Shadowdecon]<INFO>25728</INFO></ITEM> ou <ITEM>[minério de Zelunium]<INFO>25730</INFO></ITEM>?\nNós o trocamos por produtos refinados para que ele possa ser usado como produtos de fundição.",
+        "pt-BR": "[Nemill]\nEi, você tem [<ITEM>Minério de Sombridecon<INFO>25728</INFO></ITEM>] ou [<ITEM>Minério de Zelunium<INFO>25730</INFO></ITEM>]?\nEu sou capaz de fundir esses minerais para uma pedra bruta.",
         "es-ES": "[Nemill Newton]\nOye, ¿tienes <ITEM>[Sombridecon]<INFO>25728</INFO></ITEM> o <ITEM>[Zelunium]<INFO>25730</INFO></ITEM>?\nLo cambiamos por productos refinados, así se pueden usar como productos de fundición."
     }
 }

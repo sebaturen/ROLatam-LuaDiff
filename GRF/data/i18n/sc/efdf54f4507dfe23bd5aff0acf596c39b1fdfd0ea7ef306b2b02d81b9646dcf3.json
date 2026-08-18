@@ -1,17 +1,17 @@
 {
     "IGRVDQ": {
         "en-US": "Giant Winder",
-        "pt-BR": "Mola Gigante",
+        "pt-BR": "Chave Gigante de Corda",
         "es-ES": "Llave de cuerda gigante"
     },
     "IWRVDQ": {
         "en-US": "The winder is firmly fixed in place, perhaps rusted, and does not move.",
-        "pt-BR": "A mola parece estar tão enferrujada que está firmemente presa e não se move.",
+        "pt-BR": "A chave de corda parece estar tão enferrujada que está firmemente presa e não se move.",
         "es-ES": "La llave de cuerda está firmemente fijada, quizá oxidada, y no se mueve."
     },
     "ImRVDQ": {
         "en-US": "It is a giant winder.\nIf you apply force, it seems you could move it.",
-        "pt-BR": "É uma mola gigante.\nSe aplicar força, parece que será possível movê-la.",
+        "pt-BR": "É uma chave gigante de corda.\nSe aplicar força, parece que será possível movê-la.",
         "es-ES": "Es una llave de cuerda gigante.\nParece que, si haces fuerza, podrías moverla."
     },
     "I2RVDQ": {
@@ -26,28 +26,28 @@
     },
     "JWRVDQ": {
         "en-US": "With great effort, you turn the winder to the right. Somewhere..",
-        "pt-BR": "Ao girar a mola com dificuldade para a direita. Para algum lugar..",
+        "pt-BR": "Com muita dificuldade você gira a chave de corda para a direita, para algum lugar...",
         "es-ES": "Al girar con esfuerzo la llave de cuerda hacia la derecha, en algún lugar..."
     },
     "JmRVDQ": {
         "en-US": "With great effort, you turn the winder to the left. Somewhere...",
-        "pt-BR": "Ao girar a mola com dificuldade para a esquerda. Para algum lugar...",
+        "pt-BR": "Com muita dificuldade você gira a chave de corda para a esquerda, para algum lugar...",
         "es-ES": "Al girar con esfuerzo la llave de cuerda hacia la izquierda, en algún lugar..."
     },
     "J2RVDQ": {
         "en-US": "Mysterious Box",
         "pt-BR": "Caixa Misteriosa",
-        "es-ES": "Caja Misteriosa"
+        "es-ES": "Caja misteriosa"
     },
     "KGRVDQ": {
         "en-US": "This does not seem like the kind of box that should be in a place like this.. It is a brightly wrapped box. Could it be a new type of Mimic?",
-        "pt-BR": "Não parece ser uma caixa que deveria estar em um lugar destes.. É uma caixa embrulhada de forma vistosa. Será algum novo tipo de Mímico?",
-        "es-ES": "No parece ser una caja que deba estar en un lugar como este... pero está envuelta de manera llamativa. ¿Será una nueva especie de Mímico?"
+        "pt-BR": "Não parece ser uma caixa que deveria estar em um lugar destes... É uma caixa embrulhada de forma vistosa. Será algum novo tipo de Mímico?",
+        "es-ES": "No parece una caja que deba estar en un lugar como este, pero está envuelta de forma vistosa. ¿Será una nueva especie de Mímico?"
     },
     "KWRVDQ": {
         "en-US": "You want to touch it, but you do not seem strong enough yet to take responsibility for your actions. Try again later.",
         "pt-BR": "Tenho vontade de tocar, mas parece que ainda não fiquei forte o bastante para assumir a responsabilidade pelos meus atos. Vou deixar para depois.",
-        "es-ES": "Me gustaría tocarla, pero parece que aún no soy lo bastante fuerte como para responsabilizarme de mis actos. Lo dejaré para otra ocasión."
+        "es-ES": "Me gustaría tocarla, pero parece que aún no soy tan fuerte como para hacerme responsable. Lo dejaré para otra ocasión."
     },
     "KmRVDQ": {
         "en-US": "Touch it.",
@@ -57,12 +57,12 @@
     "K2RVDQ": {
         "en-US": "Leave it alone.",
         "pt-BR": "Deixar como está.",
-        "es-ES": "Dejarla como está."
+        "es-ES": "Dejarla estar."
     },
     "LGRVDQ": {
         "en-US": "It is a box where a demon sleeps. Wake it?",
         "pt-BR": "É uma caixa onde um demônio está adormecido. Deseja acordá-lo?",
-        "es-ES": "Es una caja en la que duerme un demonio. ¿Quieres despertarlo?"
+        "es-ES": "Es una caja en la que duerme un demonio. ¿Despertarlo?"
     },
     "LWRVDQ": {
         "en-US": "Wake it.",
@@ -72,12 +72,12 @@
     "LmRVDQ": {
         "en-US": "Box Demon: Who dares awaken me?",
         "pt-BR": "Demônio da Caixa: Quem ousa despertar este corpo?",
-        "es-ES": "Demonio de la Caja: ¿Quién se atreve a despertar a este gran ser?"
+        "es-ES": "Demonio de la caja: ¿Quién osa despertar a este gran ser?"
     },
     "L2RVDQ": {
         "en-US": "Box Demon",
         "pt-BR": "Demônio da Caixa",
-        "es-ES": "Demonio de la Caja"
+        "es-ES": "Demonio de la caja"
     },
     "MGRVDQ": {
         "en-US": "GM Check - Version: EXP Distributed Payment",
@@ -121,7 +121,7 @@
     },
     "OGRVDQ": {
         "en-US": "[Standby] Reset Demon's Special Meal",
-        "pt-BR": "[Espera] Redefinir Prato Especial do Demônio",
+        "pt-BR": "[Espera] Redefinir Refeição Especial do Demônio",
         "es-ES": "[Espera] Reiniciar Manjar del demonio"
     },
     "OWRVDQ": {
@@ -131,7 +131,7 @@
     },
     "OmRVDQ": {
         "en-US": "[Standby] Reset Demon's Pet Mimic",
-        "pt-BR": "[Espera] Redefinir Mimic de Estimação do Demônio",
+        "pt-BR": "[Espera] Redefinir Mímico de Estimação do Demônio",
         "es-ES": "[Espera] Reiniciar Mimic mascota del demonio"
     },
     "O2RVDQ": {
@@ -146,23 +146,23 @@
     },
     "PWRVDQ": {
         "en-US": "[1]Cute_Broom(Baba Yaga)",
-        "pt-BR": "[1]Vassoura_Fofa(Baba Yaga)",
-        "es-ES": "[1]Escoba_bonita(Baba Yaga)"
+        "pt-BR": "[1]Vassoura_Fofa(Baba-Yaga)",
+        "es-ES": "[1]Escoba_Bonita(Baba Yaga)"
     },
     "PmRVDQ": {
         "en-US": "[2]Joker's_Wild(Wild Rose)",
-        "pt-BR": "[2]Curinga_Selvagem(Wild Rose)",
+        "pt-BR": "[2]Coringa_Selvagem(Rosa Selvagem)",
         "es-ES": "[2]Joker's_Wild(Wild Rose)"
     },
     "P2RVDQ": {
         "en-US": "[3]Shining_Round_Shell(Butoijo)",
-        "pt-BR": "[3]Casca_Redonda_Brilhante(Buto Ijo)",
-        "es-ES": "[3]Caparazón_redondo_brillante(Buto Ijo)"
+        "pt-BR": "[3]Casca_Redonda_Brilhante(Butoijo)",
+        "es-ES": "[3]Concha_Brillante(Buto Ijo)"
     },
     "QGRVDQ": {
         "en-US": "[4]Fancy_Coral(Uzhas)",
-        "pt-BR": "[4]Coral_Vistoso(Uzhas)",
-        "es-ES": "[4]Coral_vistoso(Uzhas)"
+        "pt-BR": "[4]Coral_Chique(Uzhas)",
+        "es-ES": "[4]Coral_Llamativo(Uzhas)"
     },
     "QWRVDQ": {
         "en-US": "Changed [{0}]",
@@ -196,18 +196,18 @@
     },
     "R2RVDQ": {
         "en-US": "Quest reset complete",
-        "pt-BR": "Redefinição de todas as missões concluída",
-        "es-ES": "Reinicio de todas las misiones completado"
+        "pt-BR": "Redefinição de todas as missões concluídas",
+        "es-ES": "Reinicio de misiones completado"
     },
     "SGRVDQ": {
         "en-US": "Warning: Gives 100, no weight check",
         "pt-BR": "Aviso: entrega 100 unidades, sem checar peso",
-        "es-ES": "Aviso: entrega 100, no comprueba peso"
+        "es-ES": "Aviso: entrega 100, sin comprobar peso"
     },
     "SWRVDQ": {
         "en-US": "Cute_Broom",
         "pt-BR": "Vassoura_Fofa",
-        "es-ES": "Escoba_bonita"
+        "es-ES": "Escoba_Bonita"
     },
     "SmRVDQ": {
         "en-US": "Joker's_Wild",
@@ -217,17 +217,17 @@
     "S2RVDQ": {
         "en-US": "Shining_Round_Shell",
         "pt-BR": "Casca_Redonda_Brilhante",
-        "es-ES": "Caparazón_redondo_brillante"
+        "es-ES": "Concha_Brillante"
     },
     "TGRVDQ": {
         "en-US": "Fancy_Coral",
-        "pt-BR": "Coral_Vistoso",
-        "es-ES": "Coral_vistoso"
+        "pt-BR": "Coral_Chique",
+        "es-ES": "Coral_Llamativo"
     },
     "TWRVDQ": {
         "en-US": "100 items given",
         "pt-BR": "100 itens entregues",
-        "es-ES": "Entrega de 100 objetos completada"
+        "es-ES": "100 objetos entregados"
     },
     "TmRVDQ": {
         "en-US": "- You are carrying too many items to proceed. -",
@@ -247,27 +247,27 @@
     "UWRVDQ": {
         "en-US": "[Box Demon]\nHuh?! What? Where am I? This is..",
         "pt-BR": "[Demônio da Caixa]\nHã?! O quê? Onde estou? Isto é..",
-        "es-ES": "[Demonio de la Caja]\n¡¿Eh?! ¿Qué? ¿Dónde estoy? Esto es..."
+        "es-ES": "[Demonio de la Caja]\n¿Eh? ¿Qué? ¿Dónde estoy? Esto es..."
     },
     "UmRVDQ": {
         "en-US": "[Box Demon]\nHmm.. This place is.. the Clock Tower? Maybe? Well, what matters is that it is not where I was!",
-        "pt-BR": "[Demônio da Caixa]\nHmm.. Isto aqui é.. a Torre do Relógio? Talvez? Bem, o importante é que não é o lugar onde eu estava!",
-        "es-ES": "[Demonio de la Caja]\nMmm... Esto es... ¿la Torre del Reloj? Bueno, lo importante es que no es el lugar donde estaba."
+        "pt-BR": "[Demônio da Caixa]\nHmm... Isto aqui é... a Torre do Relógio? Talvez? Bem, o importante é que não é o lugar onde eu estava!",
+        "es-ES": "[Demonio de la caja]\nHm... Esto es... ¿la Torre del Reloj? Bueno, lo que importa es que no es el lugar donde estaba."
     },
     "U2RVDQ": {
         "en-US": "[Box Demon]\nHmmm...",
-        "pt-BR": "[Demônio da Caixa]\nHmm...",
-        "es-ES": "[Demonio de la Caja]\nMmm..."
+        "pt-BR": "[Demônio da Caixa]\nHumm~",
+        "es-ES": "[Demonio de la caja]\nMmm~"
     },
     "VGRVDQ": {
         "en-US": "[Box Demon]\nOh! A thick scent.. That winder smells like the place I came from. I should go back.",
-        "pt-BR": "[Demônio da Caixa]\nOh! Esse cheiro denso.. Aquela mola tem o cheiro do lugar onde eu estava. Preciso voltar.",
-        "es-ES": "[Demonio de la Caja]\n¡Oh! Un olor denso... Ese resorte huele como el lugar donde estaba. Tengo que volver."
+        "pt-BR": "[Demônio da Caixa]\nOh! Esse cheiro forte... Aquela chave de corda tem o cheiro do lugar onde eu estava. Preciso voltar.",
+        "es-ES": "[Demonio de la Caja]\n¡Oh! Un olor denso... Esa llave de cuerda huele al lugar donde estaba. Tengo que volver."
     },
     "VWRVDQ": {
         "en-US": "[Box Demon]\n.. .. ..",
-        "pt-BR": "[Demônio da Caixa]\n.. .. ..",
-        "es-ES": "[Demonio de la Caja]\n.. .. .."
+        "pt-BR": "[Demônio da Caixa]\n... ... ...",
+        "es-ES": "[Demonio de la Caja]\n... ... ..."
     },
     "VmRVDQ": {
         "en-US": "[Box Demon]\nUrk?! What? Why? Why can't I go in?",
@@ -282,7 +282,7 @@
     "WGRVDQ": {
         "en-US": "Leave it alone.",
         "pt-BR": "Deixar como está.",
-        "es-ES": "Dejarlo estar."
+        "es-ES": "Dejarlo como está."
     },
     "WWRVDQ": {
         "en-US": "Intervene.",
@@ -291,32 +291,32 @@
     },
     "WmRVDQ": {
         "en-US": "[Box Demon]\nNo! This can't be. Judging by this thick scent, that place is definitely where I came from!",
-        "pt-BR": "[Demônio da Caixa]\nNão! Não pode ser. Por esse cheiro denso, aquilo com certeza é o lugar de onde eu vim!",
-        "es-ES": "[Demonio de la Caja]\n¡¡No! No puede ser. Por ese olor tan intenso, ¡ese lugar es sin duda de donde vine!"
+        "pt-BR": "[Demônio da Caixa]\nNão! Não pode ser. Por esse cheiro forte, aquilo com certeza é o lugar de onde eu vim!",
+        "es-ES": "[Demonio de la Caja]\n¡No! No puede ser. Por ese olor denso, estoy seguro de que ahí es el lugar de donde vengo."
     },
     "W2RVDQ": {
         "en-US": "[Box Demon]\nAagh! Why! Why won't it work!",
-        "pt-BR": "[Demônio da Caixa]\nAaah! Por quê! Por que não funciona!",
-        "es-ES": "[Demonio de la Caja]\n¡Aaah! ¡¿Por qué?! ¡¿Por qué no funciona?!"
+        "pt-BR": "[Demônio da Caixa]\nAaah! Por quê!? Por que não funciona!?",
+        "es-ES": "[Demonio de la Caja]\n¡Aaah! ¿Por qué? ¿Por qué no funciona?"
     },
     "XGRVDQ": {
         "en-US": "[Box Demon]\nWhy! Why! Why! Why can't I go in!!!!!",
-        "pt-BR": "[Demônio da Caixa]\nPor quê? Por quê? Por quê? Por que não consigo entrar??!!!",
-        "es-ES": "[Demonio de la Caja]\n¿Por qué? ¿Por qué? ¿Por qué? ¡¡¡¡¡¿Por qué no puedo entrar?!!!!!"
+        "pt-BR": "[Demônio da Caixa]\nPor quê!? Por quê!? Por quê!? Por que não consigo entrar!!!?",
+        "es-ES": "[Demonio de la Caja]\n¿Por qué? ¿Por qué? ¡¡¡¡¡¿Por qué no puedo entrar?!!!!!"
     },
     "XWRVDQ": {
         "en-US": "[Box Demon]\nWhat did I do so wrong?! Please! Let me in..",
-        "pt-BR": "[Demônio da Caixa]\nO que foi que eu fiz de tão errado?! Por favor! Deixe-me entrar..",
-        "es-ES": "[Demonio de la Caja]\n¿Qué he hecho tan mal? Por favor... Déjame entrar..."
+        "pt-BR": "[Demônio da Caixa]\nO que foi que eu fiz de tão errado?! Por favor! Deixe-me entrar...",
+        "es-ES": "[Demonio de la caja]\n¿Qué hice mal? Por favor... Quiero entrar..."
     },
     "XmRVDQ": {
         "en-US": "[Box Demon]\nNow! Let's think carefully. I was walking my pet Mimic like usual...",
-        "pt-BR": "[Demônio da Caixa]\nVamos! Vamos pensar bem. Como sempre, eu estava levando meu Mimic de estimação para passear e...",
-        "es-ES": "[Demonio de la Caja]\n¡Vamos! Pensemos con calma. Como siempre, saqué a pasear a mi Mímico de mascota..."
+        "pt-BR": "[Demônio da Caixa]\nCalma! Vamos pensar direito... Como sempre, eu estava levando meu Mímico de estimação para passear e...",
+        "es-ES": "[Demonio de la Caja]\nBien, pensemos con calma. Como siempre, saqué a pasear a mi Mímico mascota..."
     },
     "X2RVDQ": {
         "en-US": "[Box Demon]\nWhoa.. I can't remember. Why am I here?",
-        "pt-BR": "[Demônio da Caixa]\nCaramba.. Não me lembro. Por que estou aqui?",
+        "pt-BR": "[Demônio da Caixa]\nCaramba... Não me lembro! Por que estou aqui?",
         "es-ES": "[Demonio de la Caja]\nMaldición... No lo recuerdo. ¿Por qué estoy aquí?"
     },
     "YGRVDQ": {
@@ -326,33 +326,33 @@
     },
     "YWRVDQ": {
         "en-US": "[{0}]\nI can see you clearly. Anyway, you look like you're in trouble. Want help?",
-        "pt-BR": "[{0}]\nConsigo ver muito bem. De todo modo, você parece estar em apuros. Quer ajuda?",
-        "es-ES": "[{0}]\nTe veo perfectamente. Y, por cierto, pareces en apuros. ¿Quieres ayuda?"
+        "pt-BR": "[{0}]\nConsigo lhe ver muito bem. Mas, você parece estar em apuros. Quer ajuda?",
+        "es-ES": "[{0}]\nTe veo perfectamente. Y, por cierto, pareces en apuros. ¿Quieres que te ayude?"
     },
     "YmRVDQ": {
         "en-US": "The Box Demon glares with a very suspicious expression.",
         "pt-BR": "O Demônio da Caixa encara você com uma expressão muito suspeita.",
-        "es-ES": "El Demonio de la Caja te mira con una expresión muy desconfiada."
+        "es-ES": "El Demonio de la Caja te mira con una expresión de desconfianza."
     },
     "Y2RVDQ": {
         "en-US": "[Box Demon]\nUrgh.. Mama said I should suspect any being that tries to show kindness for no reason..",
-        "pt-BR": "[Demônio da Caixa]\nUrgh.. Mamãe disse para desconfiar de todos os seres que tentam demonstrar gentileza sem motivo..",
-        "es-ES": "[Demonio de la Caja]\nUgh... Mamá me dijo que desconfiara de cualquiera que trate de ser amable sin ningún motivo..."
+        "pt-BR": "[Demônio da Caixa]\nUrgh... Mamãe disse para desconfiar de todos os seres que tentam demonstrar gentileza sem motivo...",
+        "es-ES": "[Demonio de la Caja]\nUgh... Mi mamá me dijo que desconfiara de los seres que intentan ofrecer buena voluntad sin motivo..."
     },
     "ZGRVDQ": {
         "en-US": "[{0}]\nThat is true.. You were taught well. But doesn't that sound a little strange coming from a demon?",
-        "pt-BR": "[{0}]\nIsso até faz sentido.. Você foi bem educado. Mas não é meio estranho para algo dito por um demônio?",
-        "es-ES": "[{0}]\nEso es verdad... Te educaron bien. Pero ¿no es un poco extraño que un demonio diga algo así?"
+        "pt-BR": "[{0}]\nIsso até faz sentido... Você foi bem educado. Mas não é meio estranho para algo dito por um demônio?",
+        "es-ES": "[{0}]\nEso es verdad... Te educaron bien. Pero para ser algo que dice un demonio, ¿no suena un poco raro?"
     },
     "ZWRVDQ": {
         "en-US": "[Box Demon]\nTch! Treating a great demon like a mere child! Insolent wretch!!",
-        "pt-BR": "[Demônio da Caixa]\nTch! Tratar um grande demônio como uma simples criança, que sujeito insolente!!",
-        "es-ES": "[Demonio de la Caja]\n¡Tch! Tratando a un gran demonio como a un simple niño... ¡Qué tipo tan insolente!"
+        "pt-BR": "[Demônio da Caixa]\nTch! Tratar um grande demônio como uma simples criança, que sujeito insolente!!!",
+        "es-ES": "[Demonio de la Caja]\n¡Tch! ¡Tratar a un gran demonio como a un simple niño! ¡Qué insolencia!"
     },
     "ZmRVDQ": {
         "en-US": "[Box Demon]\nI will let you taste a demon's curse!!",
-        "pt-BR": "[Demônio da Caixa]\nVou mostrar a você o sabor da maldição demoníaca!!",
-        "es-ES": "[Demonio de la Caja]\n¡¡Te haré probar el sabor de una verdadera maldición demoníaca!!"
+        "pt-BR": "[Demônio da Caixa]\nVou mostrar a você o sabor da maldição demoníaca!!!",
+        "es-ES": "[Demonio de la Caja]\n¡¡Haré que pruebes la maldición demoníaca!!"
     },
     "Z2RVDQ": {
         "en-US": "[Box Demon]\n?",
@@ -366,148 +366,148 @@
     },
     "aWRVDQ": {
         "en-US": "Growl-..",
-        "pt-BR": "Ronc-..",
+        "pt-BR": "Ronc-...",
         "es-ES": "Grrr..."
     },
     "amRVDQ": {
         "en-US": "[{0}]\nYou're hungry, aren't you? Sorry, but what do demons eat?",
-        "pt-BR": "[{0}]\nVocê está com fome, não é? Desculpa perguntar, mas o que demônios comem?",
-        "es-ES": "[{0}]\nTienes hambre, ¿verdad? Disculpa que pregunte, pero ¿qué comen los demonios?"
+        "pt-BR": "[{0}]\nVocê está com fome, não está? Desculpa perguntar, mas o que demônios comem?",
+        "es-ES": "[{0}]\n¿Tienes hambre? Perdón, ¿qué comen los demonios?"
     },
     "a2RVDQ": {
         "en-US": "[Box Demon]\nGrr.. How humiliating. If only I were not hungry.. You are insolent, but I am a generous demon, so perhaps I will accept your help.",
-        "pt-BR": "[Demônio da Caixa]\nArgh.. Que humilhação. Se eu não estivesse com fome.. Embora você seja insolente, sou um demônio generoso. Talvez eu aceite sua ajuda.",
-        "es-ES": "[Demonio de la Caja]\nUgh... Qué humillación. Si no tuviera tanto hambre... Aunque eres un insolente, soy un demonio generoso. Quizá acepte tu ayuda."
+        "pt-BR": "[Demônio da Caixa]\nArgh... Que humilhação. Se eu não estivesse com fome... Embora você seja insolente, sou um demônio generoso. Talvez eu aceite sua ajuda.",
+        "es-ES": "[Demonio de la Caja]\nUgh... Qué rabia. Si no tuviera hambre... Eres insolente, pero soy un demonio generoso, así que aceptaré tu ayuda."
     },
     "bGRVDQ": {
         "en-US": "[Box Demon]\nHehe, do not be shocked. This demon eats the fresh scraps of souls.",
         "pt-BR": "[Demônio da Caixa]\nHuhu, não se assuste. Este demônio aqui come restos de almas frescas.",
-        "es-ES": "[Demonio de la Caja]\nJuju, no te asustes. Este demonio de aquí se alimenta de restos de almas frescas."
+        "es-ES": "[Demonio de la Caja]\nJe, je. No te asustes. Este demonio come restos de almas frescas."
     },
     "bWRVDQ": {
         "en-US": "[{0}]\nI see. Fresh scraps of souls.. So I can get them from the place you came from?",
-        "pt-BR": "[{0}]\nEntendi. Restos de almas frescas.. Então basta trazer do lugar de onde você veio?",
-        "es-ES": "[{0}]\nYa veo. Restos de almas frescas... ¿Entonces basta con traerlos del lugar de donde viniste?"
+        "pt-BR": "[{0}]\nEntendi. Restos de almas frescas... Então basta trazê-las do lugar de onde você veio?",
+        "es-ES": "[{0}]\nYa veo. Restos de almas frescas... ¿Entonces hay que conseguirlos en ese lugar del que dices venir?"
     },
     "bmRVDQ": {
         "en-US": "[Box Demon]\nYou are sharper than you look. Once I recover my strength, I will generously let you taste a weak curse.",
         "pt-BR": "[Demônio da Caixa]\nVocê é mais perspicaz do que parece. Quando eu recuperar minhas forças, permitirei generosamente que experimente uma maldição fraca.",
-        "es-ES": "[Demonio de la Caja]\nEres más perspicaz de lo que pareces. Cuando recupere mis fuerzas, te concederé generosamente el honor de probar una maldición débil."
+        "es-ES": "[Demonio de la Caja]\nEres más perspicaz de lo que pareces. Cuando recupere mis fuerzas, te dejaré probar generosamente una maldición débil."
     },
     "b2RVDQ": {
         "en-US": "[{0}]\nYeah, yeah! You handle that yourself. Demons know Give and Take too, right?",
-        "pt-BR": "[{0}]\nCerto, certo! Isso fica por sua conta. E demônios também sabem o que é Give and Take, não sabem?",
-        "es-ES": "[{0}]\n¡Sí, claro! Como tú digas. Y los demonios también saben lo que es un Dar y Recibir, ¿verdad?"
+        "pt-BR": "[{0}]\nCerto, certo! Isso fica por sua conta. E demônios também sabem o que é \"toma lá, dá cá\", não sabem?",
+        "es-ES": "[{0}]\nSí, sí. Eso ya lo decides tú. Los demonios también conocen el \"Give and Take\", ¿no?"
     },
     "cGRVDQ": {
         "en-US": "[Box Demon]\nGive and Take? O-of course I know!",
-        "pt-BR": "[Demônio da Caixa]\nGive and Take? C-claro que sei!",
-        "es-ES": "[Demonio de la Caja]\n¿Dar y Recibir? C-claro que lo sé."
+        "pt-BR": "[Demônio da Caixa]\n\"Toma lá, dá cá\"? C-claro que sei!",
+        "es-ES": "[Demonio de la Caja]\n¿\"Give and Take\"? ¡P... por supuesto que lo conozco!"
     },
     "cWRVDQ": {
         "en-US": "[{0}]\nIt doesn't seem like you do. No, you're a smart demon! Of course you know. Then could you make a proper request for me?",
-        "pt-BR": "[{0}]\nParece que não sabe. Não, você é um demônio inteligente! Claro que sabe. Então poderia me fazer um pedido adequado?",
-        "es-ES": "[{0}]\nParece que no lo sabes. No, ¡eres un demonio inteligente! Obvio que lo sabes. Entonces, ¿podrías darme una recompensa adecuada?"
+        "pt-BR": "[{0}]\nNão parece que você sabe... Não, você é um demônio inteligente! Claro que sabe. Então poderia me fazer um pedido adequado?",
+        "es-ES": "[{0}]\nParece que no lo sabes. No, ¡eres un demonio inteligente! Claro que sabes. Entonces, ¿puedes hacerme un encargo adecuado?"
     },
     "cmRVDQ": {
         "en-US": "[Box Demon]\nUnderstood. Give and Take. I am a smart demon, so of course I know!",
-        "pt-BR": "[Demônio da Caixa]\nEntendi. Give and Take. Eu sou um demônio inteligente, então é claro que sei!",
-        "es-ES": "[Demonio de la Caja]\nEntendido. Dar y Recibir. ¡Soy un demonio inteligente, así que por supuesto que lo sé!"
+        "pt-BR": "[Demônio da Caixa]\nEntendi. \"Toma lá, dá cá\". Eu sou um demônio inteligente, então é claro que sei!",
+        "es-ES": "[Demonio de la Caja]\nEntendido. \"Give and Take\". Soy un demonio inteligente, así que, claro que lo conozco."
     },
     "c2RVDQ": {
         "en-US": "[Box Demon]\nInsolent wretch! Talk to me again and take that request from me!",
         "pt-BR": "[Demônio da Caixa]\nSujeito insolente! Fale comigo de novo e tente pegar de mim esse tal pedido!",
-        "es-ES": "[Demonio de la Caja]\n¡Sujeto insolente! ¡Vuelve a hablar conmigo si te atreves a pedirme esa bendita misión!"
+        "es-ES": "[Demonio de la Caja]\n¡Criatura insolente! ¡Vuelve a hablarme y acepta de mí eso que llamas \"encargo\"!"
     },
     "dGRVDQ": {
         "en-US": "Demon: Is this today's meal? In appreciation of your sincerity, I shall eat it.",
         "pt-BR": "Demônio: Esta é a refeição de hoje? Pela sua dedicação, vou comê-la.",
-        "es-ES": "Demonio: ¿Esta es la comida de hoy? Por tu dedicación, la aceptaré."
+        "es-ES": "Demonio: ¿Esta es la comida de hoy? Apreciaré tu dedicación y me la comeré."
     },
     "dWRVDQ": {
         "en-US": "Demon: Oho, a meal plus a special meal? You know a thing or two.",
         "pt-BR": "Demônio: Oh, refeição + prato especial? Você entende das coisas.",
-        "es-ES": "Demonio: ¡Oh! ¿Comida más un platillo especial? Vaya que sabes lo que haces."
+        "es-ES": "Demonio: Oh, ¿comida y manjar? Sí que sabes."
     },
     "dmRVDQ": {
         "en-US": "Demon: A special meal is always right! Though I would get tired of it if I ate it often..",
-        "pt-BR": "Demônio: Prato especial é sempre certo! Embora eu enjoasse se comesse com frequência..",
-        "es-ES": "Demonio: ¡Un platillo especial nunca falla! Aunque si los comiera a menudo, acabarían cansando..."
+        "pt-BR": "Demônio: Prato especial é sucesso garantido! Embora eu enjoasse se comesse sempre...",
+        "es-ES": "Demonio: ¡Los manjares siempre son correctos! Aunque si los comiera a menudo, acabarían cansando..."
     },
     "d2RVDQ": {
         "en-US": "Demon: While preparing my meal, did you also prepare food for my Mimic? You value efficiency.",
-        "pt-BR": "Demônio: Já que preparou a refeição, também trouxe a comida do Mimic? Você valoriza a eficiência.",
-        "es-ES": "Demonio: Ya que preparaste la comida, ¿también trajiste el alimento del Mímico? Veo que te gusta ser eficiente."
+        "pt-BR": "Demônio: Enquanto preparava a minha refeição, também fez a comida do Mímico? Você valoriza a eficiência.",
+        "es-ES": "Demonio: ¿Ya que preparabas la comida, también trajiste la de mi Mímico? Tu valoras la eficiencia."
     },
     "eGRVDQ": {
         "en-US": "Demon: I am relieved that my pet Mimic is doing well.",
-        "pt-BR": "Demônio: Que bom saber que meu Mimic de estimação está bem.",
-        "es-ES": "Demonio: Qué gusto saber que mi Mímico de mascota está bien."
+        "pt-BR": "Demônio: Que bom saber que meu Mímico de estimação está bem.",
+        "es-ES": "Demonio: Me alegra que mi Mímico mascota esté bien."
     },
     "eWRVDQ": {
         "en-US": "Demon: Feeder! It is mealtime!",
-        "pt-BR": "Demônio: Ó fornecedor de comida! Está na hora da refeição!",
-        "es-ES": "Demonio: ¡Oh, proveedor de comida! ¡Llegó la hora de comer!"
+        "pt-BR": "Demônio: Ô, Chefia! Está na hora da refeição!",
+        "es-ES": "Demonio: ¡Dador de comida! ¡Ha llegado la hora de comer!"
     },
     "emRVDQ": {
         "en-US": "Demon: Come to think of it, it is time for a special meal as well.",
         "pt-BR": "Demônio: Pensando bem, também está na hora do prato especial.",
-        "es-ES": "Demonio: Pensándolo bien, también es hora del platillo especial."
+        "es-ES": "Demonio: Ahora que lo pienso, ya va siendo hora de un manjar."
     },
     "e2RVDQ": {
         "en-US": "Demon: Feeder! It seems about time for a special meal.",
-        "pt-BR": "Demônio: Ó fornecedor de comida! Parece que está quase na hora do prato especial.",
-        "es-ES": "Demonio: ¡Oh, proveedor de comida! Parece que casi es hora del platillo especial."
+        "pt-BR": "Demônio: Ô, Chefia! Parece que está quase na hora do prato especial.",
+        "es-ES": "Demonio: ¡Dador de comida! Parece que pronto será hora de comer un manjar."
     },
     "fGRVDQ": {
         "en-US": "Demon: Meals and snacks are both important.",
         "pt-BR": "Demônio: Refeições e lanches são importantes.",
-        "es-ES": "Demonio: Las comidas y los bocadillos son importantes."
+        "es-ES": "Demonio: Tanto la comida como los aperitivos son importantes."
     },
     "fWRVDQ": {
         "en-US": "Demon: Feeder! Bring me some snacks!",
-        "pt-BR": "Demônio: Ó fornecedor de comida! Traga-me alguns lanches!",
-        "es-ES": "Demonio: ¡Oh, proveedor de comida! ¡Traeme algunos bocadillos!"
+        "pt-BR": "Demônio: Ô, Chefia! Traga-me alguns lanches!",
+        "es-ES": "Demonio: ¡Dador de comida! ¡Tráeme un aperitivo!"
     },
     "fmRVDQ": {
         "en-US": "Demon: It would be troublesome if you forgot my pet Mimic's meal!",
-        "pt-BR": "Demônio: Seria problemático esquecer a refeição do meu Mimic de estimação!",
-        "es-ES": "Demonio: ¡Sería un problema si olvidas la comida de mi Mímico de mascota!"
+        "pt-BR": "Demônio: Seria problemático esquecer a refeição do meu Mímico de estimação!",
+        "es-ES": "Demonio: ¡Sería un problema que olvidaras la comida de mi Mímico mascota!"
     },
     "f2RVDQ": {
         "en-US": "Demon: Feeder! Go feed my pet Mimic!",
-        "pt-BR": "Demônio: Ó fornecedor de comida! Vá alimentar meu Mimic de estimação!",
-        "es-ES": "Demonio: ¡Oh, proveedor de comida! ¡Ve a alimentar a mi Mímico de mascota!"
+        "pt-BR": "Demônio: Ô, Chefia! Vá alimentar meu Mímico de estimação!",
+        "es-ES": "Demonio: ¡Dador de comida! ¡Ve a dar de comer a mi Mímico mascota!"
     },
     "gGRVDQ": {
         "en-US": "What are the extra lumps of lead and gears?",
         "pt-BR": "O que são esses pedaços de chumbo e engrenagens que vêm de brinde?",
-        "es-ES": "¿Qué son estos trozos de plomo y engranajes que vienen de regalo?"
+        "es-ES": "¿Qué son esos lingotes de plomo y engranajes extra?"
     },
     "gWRVDQ": {
         "en-US": "Demon: I do not know either. There are many of them in the box I am in. I was throwing them away little by little to make more room in the box.",
         "pt-BR": "Demônio: Eu também não sei. Havia muitos deles dentro da caixa onde estou. Estou jogando fora aos poucos para deixar a caixa mais espaçosa.",
-        "es-ES": "Demonio: Tampoco lo sé. Había muchísimos dentro de la caja en la que estoy. Los voy tirando poco a poco para que la caja esté más espaciosa."
+        "es-ES": "Demonio: Ni yo lo sé. Había muchísimos en la caja donde estoy. Los estaba tirando poco a poco para dejar la caja con más espacio."
     },
     "gmRVDQ": {
         "en-US": "Why did you call weapon exchange Cancel?",
-        "pt-BR": "Por que você chamou a troca de armas de cancelar?",
-        "es-ES": "¿Por qué llamaste ''Cancelar'' al cambio de armas?"
+        "pt-BR": "Por que você chamou a \"troca de armas\" de \"cancelar\"?",
+        "es-ES": "¿Por qué llamaste \"Cancelar\" al intercambio de armas?"
     },
     "g2RVDQ": {
         "en-US": "Demon: Because I wanted to. If it said Weapon Exchange, you would have kept pressing it and annoyed me, wouldn't you?",
         "pt-BR": "Demônio: Porque eu quis. Se estivesse escrito \"Troca de armas!\", você não ficaria apertando sem parar por curiosidade?",
-        "es-ES": "Demonio: Porque quise. Si dijera ''¡Cambiar armas!'', ¿no estarías presionándolo sin parar por pura curiosidad?"
+        "es-ES": "Demonio: Porque me apetecía. Si pusiera \"Intercambio de armas\", lo pulsarías una y otra vez, ¿no?"
     },
     "hGRVDQ": {
         "en-US": "Well.. that's true..",
-        "pt-BR": "Bem.. Isso é verdade..",
-        "es-ES": "Bueno... La verdad es que sí..."
+        "pt-BR": "Bem... Isso é verdade...",
+        "es-ES": "Bueno... Eso es verdad..."
     },
     "hWRVDQ": {
         "en-US": "Demon: According to Devil Data, people tend not to press buttons labeled Cancel.",
-        "pt-BR": "Demônio: Segundo os dados demoníacos, há uma tendência a não apertar muito botões escritos como cancelar.",
-        "es-ES": "Demonio: Según los datos demoníacos, la gente tiende a no presionar tanto los botones que dicen ''Cancelar''"
+        "pt-BR": "Demônio: Segundo os dados demoníacos, há uma tendência a não apertar muito botões escritos \"cancelar\".",
+        "es-ES": "Demonio: Según los datos demoníacos, la gente tiende a no pulsar botones que dicen \"cancelar\"."
     },
     "hmRVDQ": {
         "en-US": "Where did you get the weapons you exchange?",
@@ -517,21 +517,21 @@
     "h2RVDQ": {
         "en-US": "Demon: This is a secret, but inside the box there is a vending machine that gives weapons when you put in lumps of lead and gears.",
         "pt-BR": "Demônio: Isto é segredo, mas dentro da caixa há uma máquina automática que solta armas quando se coloca pedaços de chumbo e engrenagens.",
-        "es-ES": "Demonio: Esto es un secreto, pero dentro de la caja hay una máquina expendedora que suelta armas cuando le metes trozos de plomo y engranajes."
+        "es-ES": "Demonio: Esto es un secreto, pero dentro de la caja hay una máquina expendedora que saca armas cuando metes lingotes de plomo y engranajes."
     },
     "iGRVDQ": {
         "en-US": "Demon: The generous demon is providing this service despite the trouble, so be grateful!",
         "pt-BR": "Demônio: Este generoso demônio está oferecendo o serviço apesar do incômodo, então agradeça!",
-        "es-ES": "Demonio: ¡Agradece que este generoso demonio te preste este servicio aunque sea molesto!"
+        "es-ES": "Demonio: ¡Agradece que este generoso demonio te preste este servicio a pesar de las molesias!"
     },
     "iWRVDQ": {
         "en-US": "Ah.. yes.. Thank you so much.",
-        "pt-BR": "Ah.. Sim.. Muito obrigado mesmo.",
+        "pt-BR": "Ah... Sim... Muito obrigado mesmo.",
         "es-ES": "Ah... Sí... Muchas gracias."
     },
     "imRVDQ": {
         "en-US": "By the way, what's your name?",
-        "pt-BR": "Pensando bem, qual é o seu nome?",
+        "pt-BR": "Aliás, qual é o seu nome?",
         "es-ES": "Ahora que lo pienso, ¿cómo te llamas?"
     },
     "i2RVDQ": {
@@ -541,13 +541,13 @@
     },
     "jGRVDQ": {
         "en-US": "That's hard?! I'll just call you Demon..",
-        "pt-BR": "É difícil, hein?! Vou chamar você só de demônio..",
-        "es-ES": "¡Qué difícil! Te llamaré demonio y ya..."
+        "pt-BR": "É difícil, hein?! Vou chamar você só de demônio...",
+        "es-ES": "¡Qué difícil! Te llamaré Demonio y ya..."
     },
     "jWRVDQ": {
         "en-US": "Demon: $%^#$#%#$ You wretch worse than a demon!",
-        "pt-BR": "Demônio: $%^#$#%#$ Você é pior que um demônio!",
-        "es-ES": "Demonio: $%^#$#%#$ ¡Criatura peor que un demonio!"
+        "pt-BR": "Demônio: $%@#$#%#$ Você é pior que um demônio!",
+        "es-ES": "Demonio: $%^#$#%#$ ¡Eres peor que un demonio!"
     },
     "jmRVDQ": {
         "en-US": "Why does your appearance change every day?",
@@ -561,18 +561,18 @@
     },
     "kGRVDQ": {
         "en-US": "Uh.. yeah.. I can tell you don't know either..",
-        "pt-BR": "Ah.. Certo.. Pelo visto, nem você sabe..",
-        "es-ES": "Ah... Vale... Se nota que tú tampoco lo sabes..."
+        "pt-BR": "Ah... Certo... Pelo visto, nem você sabe...",
+        "es-ES": "Ah... Bien... Se nota que tú tampoco lo sabes..."
     },
     "kWRVDQ": {
         "en-US": "How did you end up raising a pet Mimic?",
-        "pt-BR": "Como acabou criando um Mimic de estimação?",
-        "es-ES": "¿Cómo acabaste criando un Mimic mascota?"
+        "pt-BR": "Como acabou criando um Mímico de estimação?",
+        "es-ES": "¿Cómo acabaste criando un Mímico mascota?"
     },
     "kmRVDQ": {
         "en-US": "Demon: I found it while playing. It ate anything well, so I ended up raising it.",
         "pt-BR": "Demônio: Encontrei enquanto brincava. Ele comia bem qualquer coisa, então passei a criá-lo.",
-        "es-ES": "Demonio: Lo encontré mientras jugaba. Comía bien de todo, así que acabé criándolo."
+        "es-ES": "Demonio: Lo encontré mientras jugaba. Comía de todo, así que acabé criándolo."
     },
     "k2RVDQ": {
         "en-US": "Demons are kind.",
@@ -596,7 +596,7 @@
     },
     "l2RVDQ": {
         "en-US": "That's true..",
-        "pt-BR": "Faz sentido..",
+        "pt-BR": "Faz sentido...",
         "es-ES": "Eso es verdad..."
     },
     "mGRVDQ": {
@@ -611,17 +611,17 @@
     },
     "mmRVDQ": {
         "en-US": "Demon: And I want to press the buttons in there. Do you have a problem with that? If you feel wronged, come inside the box.",
-        "pt-BR": "Demônio: E se eu quero apertar aqueles botões, tem alguma reclamação? Se acha injusto, entre na caixa.",
-        "es-ES": "Demonio: Y si me apetece pulsar los botones que hay ahí, ¿tienes alguna queja? Si te molesta, entra tú en la caja."
+        "pt-BR": "Demônio: E se eu quiser apertar aqueles botões, tem alguma reclamação? Se acha injusto, entre na caixa.",
+        "es-ES": "Demonio: Y si quiero pulsar esos botones, ¿te molesta? Si te molesta, entra en la caja."
     },
     "m2RVDQ": {
         "en-US": "I'll pass.",
         "pt-BR": "Dispenso.",
-        "es-ES": "Eso no, gracias."
+        "es-ES": "No, gracias."
     },
     "nGRVDQ": {
         "en-US": "Demon: Strange. I feel like I am being tricked..",
-        "pt-BR": "Demônio: Estranho, sinto que estou sendo enganado..",
+        "pt-BR": "Demônio: Estranho, sinto que estou sendo enganado...",
         "es-ES": "Demonio: Qué raro. Siento que me están engañando..."
     },
     "nWRVDQ": {
@@ -641,8 +641,8 @@
     },
     "oGRVDQ": {
         "en-US": "[Daily] Demon's Pet Mimic",
-        "pt-BR": "[Diária] Mímico, O Mascote do Demônio",
-        "es-ES": "[Diaria] Mimic mascota del demonio"
+        "pt-BR": "[Diária] Mímico de Estimação do Demônio",
+        "es-ES": "[Diaria] Mímico mascota del demonio"
     },
     "oWRVDQ": {
         "en-US": "[Daily] Demon's Snack",
@@ -667,11 +667,11 @@
     "pWRVDQ": {
         "en-US": "[Box Demon]\nWhat are you doing here right now? Why have you not gone to bring me my meal? How slow.",
         "pt-BR": "[Demônio da Caixa]\nO que está fazendo aqui agora? Por que não vai logo buscar minha comida? Que lerdeza.",
-        "es-ES": "[Demonio de la Caja]\n¿Qué haces aquí ahora? ¿Por qué no vas rápido a traerme mi comida? Qué lento eres."
+        "es-ES": "[Demonio de la Caja]\n¿Qué haces aquí ahora? ¿Por qué no vas rápido a traerme mi comida? ¡Qué lentitud!"
     },
     "pmRVDQ": {
         "en-US": "[Box Demon]\nIf you defeat the monsters inside, you can obtain soul scraps.\nHehehe! They will become my precious food. How many scraps will you bring to offer me?",
-        "pt-BR": "[Demônio da Caixa]\nSe derrotar os monstros lá dentro, poderá obter restos de almas.\nMuahaha! Isso se tornará meu precioso alimento. Quantos restos você oferecerá a mim!",
+        "pt-BR": "[Demônio da Caixa]\nSe derrotar os monstros lá dentro, poderá obter restos de almas.\nMuahaha! Isso se tornará meu precioso alimento. Quantos restos você oferecerá pra mim!?",
         "es-ES": "[Demonio de la Caja]\nSi derrotas a los monstruos de ahí dentro, podrás obtener restos de almas.\n¡Muajaja! Serán mi preciado alimento. ¡Cuántos restos me ofrecerás!"
     },
     "p2RVDQ": {
@@ -696,48 +696,48 @@
     },
     "q2RVDQ": {
         "en-US": "[Box Demon]\nThis amount is about breakfast size..\nA light meal is fine. Now hurry and go hunt them!",
-        "pt-BR": "[Demônio da Caixa]\nEssa quantidade é mais ou menos um café da manhã..\nUma refeição leve também é boa. Vá logo caçá-los!",
-        "es-ES": "[Demonio de la Caja]\nEsto sería una cantidad de desayuno...\nSerá algo ligero, pero bueno. ¡Ve rápido a cazarlos!"
+        "pt-BR": "[Demônio da Caixa]\nEssa quantidade é mais ou menos um café da manhã...\nPra uma refeição leve também é uma boa. Vá logo caçá-los!",
+        "es-ES": "[Demonio de la Caja]\nEsto sería una cantidad de desayuno...\nSerá algo ligero, pero bueno. ¡Ve rápido!"
     },
     "rGRVDQ": {
         "en-US": "[Box Demon]\nThis amount is about lunch size..\nLunch is just right when it leaves you slightly full. Now hurry and go hunt them!",
-        "pt-BR": "[Demônio da Caixa]\nEssa quantidade é mais ou menos um almoço..\nO ideal para o almoço é ficar levemente satisfeito. Vá logo caçá-los!",
-        "es-ES": "[Demonio de la Caja]\nEsto sería una cantidad de almuerzo...\nLo ideal del almuerzo es quedar un poco lleno. ¡Ve rápido a cazarlos!"
+        "pt-BR": "[Demônio da Caixa]\nEssa quantidade é mais ou menos um almoço...\nO ideal para o almoço é ficar levemente satisfeito. Vá logo caçá-los!",
+        "es-ES": "[Demonio de la Caja]\nEsto sería una cantidad de almuerzo...\nLo ideal del almuerzo es quedar un poco lleno. ¡Ve rápido!"
     },
     "rWRVDQ": {
         "en-US": "[Box Demon]\nThis amount is about dinner size..\nYou need a hearty dinner to sleep well. Now hurry and go hunt them!",
-        "pt-BR": "[Demônio da Caixa]\nEssa quantidade é mais ou menos um jantar..\nNo jantar, é preciso comer bem para dormir melhor. Vá logo caçá-los!",
-        "es-ES": "[Demonio de la Caja]\nEsto sería una cantidad de cena...\nHay que cenar bien para dormir a gusto. ¡Ve rápido a cazarlos!"
+        "pt-BR": "[Demônio da Caixa]\nEssa quantidade é mais ou menos um jantar...\nNo jantar, é preciso comer bem para dormir melhor. Vá logo caçá-los!",
+        "es-ES": "[Demonio de la Caja]\nEsto sería una cantidad de cena...\nHay que cenar bien para dormir a gusto. ¡Ve rápido!"
     },
     "rmRVDQ": {
         "en-US": "[Box Demon]\nGraah! How petty over food!",
         "pt-BR": "[Demônio da Caixa]\nGraaah! Que mesquinharia com comida!",
-        "es-ES": "[Demonio de la Caja]\n¡Graaah! ¡Qué tacaño eres con la comida!"
+        "es-ES": "[Demonio de la Caja]\n¡Graaah! ¡Cuánta tacañería con la comida!"
     },
     "r2RVDQ": {
         "en-US": "[Box Demon]\nI am relieved that my pet Mimic is safe. If you are not busy, take care of it tomorrow as well.",
-        "pt-BR": "[Demônio da Caixa]\nFico aliviado em saber que meu Mimic de estimação está a salvo. Se não estiver ocupado, cuide dele amanhã também.",
-        "es-ES": "[Demonio de la Caja]\nMe tranquiliza saber que mi Mimic mascota está a salvo. Si no estás ocupado, cuídalo también mañana."
+        "pt-BR": "[Demônio da Caixa]\nFico aliviado em saber que meu Mímico de estimação está a salvo. Se tiver disponibilidade, cuide dele amanhã também.",
+        "es-ES": "[Demonio de la Caja]\nMe tranquiliza saber que mi Mímico mascota está a salvo. Si no tienes nada que hacer, cuidalo también mañana."
     },
     "sGRVDQ": {
         "en-US": "[Box Demon]\nMy poor Mimic must be wandering all over inside there, trembling in fear. Oh, poor thing. It met the wrong owner..",
-        "pt-BR": "[Demônio da Caixa]\nMeu pobre Mimic deve estar vagando por lá, tremendo de medo. Ah, pobre criatura. Foi encontrar logo um dono como eu..",
-        "es-ES": "[Demonio de la Caja]\nMi pobre Mimic debe de estar vagando por ahí dentro, temblando de miedo. Ay, pobre criatura. Le tocó un mal amo..."
+        "pt-BR": "[Demônio da Caixa]\nMeu pobre Mímico deve estar vagando por lá, tremendo de medo. Ah, pobre criatura. Foi encontrar logo um dono como eu...",
+        "es-ES": "[Demonio de la Caja]\nMi pobre Mímico debe de estar vagando por ahí dentro, temblando de miedo. Ay, pobre criatura. Le tocó un mal amo..."
     },
     "sWRVDQ": {
         "en-US": "[Box Demon]\nI am worried because my pet Mimic is alone inside there. Is it eating properly? Is anyone bullying it?",
-        "pt-BR": "[Demônio da Caixa]\nMeu Mimic de estimação está sozinho lá dentro, e isso me preocupa. Será que está se alimentando bem? Será que ninguém o está importunando?",
-        "es-ES": "[Demonio de la Caja]\nMe preocupa que mi Mimic mascota esté solo ahí dentro. Si habrá comido bien. Si no habrá nadie que lo moleste."
+        "pt-BR": "[Demônio da Caixa]\nMeu Mímico de estimação está sozinho lá dentro, e isso me preocupa. Será que está se alimentando bem? Será que ninguém o está importunando?",
+        "es-ES": "[Demonio de la Caja]\nMe preocupa que mi Mímico mascota esté solo ahí dentro. Si habrá comido bien. Si no hay nadie molestándolo..."
     },
     "smRVDQ": {
         "en-US": "[Box Demon]\nI will give you something it can eat, so would you go take care of it?",
         "pt-BR": "[Demônio da Caixa]\nVou lhe dar algo que ele possa comer. Poderia ir cuidar dele?",
-        "es-ES": "[Demonio de la Caja]\nTe daré algo que pueda comer, así que ¿irás a cuidarlo un poco?"
+        "es-ES": "[Demonio de la Caja]\nTe daré algo que pueda comer, así que ¿vas a ir a cuidarlo?"
     },
     "s2RVDQ": {
         "en-US": "Sure.",
         "pt-BR": "Tudo bem.",
-        "es-ES": "De acuerdo."
+        "es-ES": "Claro."
     },
     "tGRVDQ": {
         "en-US": "Too much trouble.",
@@ -746,28 +746,28 @@
     },
     "tWRVDQ": {
         "en-US": "[Box Demon]\nMy poor Mimic must be wandering all over inside there, trembling in fear. Feed it this so it does not go hungry.",
-        "pt-BR": "[Demônio da Caixa]\nMeu pobre Mimic deve estar vagando por lá, tremendo de medo. Para que ele não fique com fome, dê isto a ele.",
-        "es-ES": "[Demonio de la Caja]\nMi pobre Mimic debe de estar vagando por ahí dentro, temblando de miedo. Dale esto para que no pase hambre."
+        "pt-BR": "[Demônio da Caixa]\nMeu pobre Mímico deve estar vagando por lá, tremendo de medo. Para que ele não fique com fome, dê isto a ele.",
+        "es-ES": "[Demonio de la Caja]\nMi pobre Mímico debe de estar vagando por ahí dentro, temblando de miedo. Dale esto para que no pase hambre."
     },
     "tmRVDQ": {
         "en-US": "[Box Demon]\nGraah! You bloodless, tearless wretch!!! Do you not pity my pet Mimic?",
-        "pt-BR": "[Demônio da Caixa]\nGraaah! Criatura sem sangue nem lágrimas!!! Não sente pena do meu Mimic de estimação?!",
-        "es-ES": "[Demonio de la Caja]\n¡Graaah! ¡¡¡Criatura sin sangre ni lágrimas!!! ¿No te da pena mi Mimic mascota?"
+        "pt-BR": "[Demônio da Caixa]\nGraaah! Criatura sem sangue nem lágrimas!!! Não sente pena do meu Mímico de estimação?!",
+        "es-ES": "[Demonio de la Caja]\n¡Graaah! ¡¡¡Criatura sin sangre ni lágrimas!!! ¿No te da pena mi Mímico mascota?"
     },
     "t2RVDQ": {
         "en-US": "[Box Demon]\nDid you not already bring today's snack? Are you trying to turn me into a pig demon? Regrettably, I must refuse.",
         "pt-BR": "[Demônio da Caixa]\nVocê já não trouxe o lanche de hoje? Pretende me transformar em um demônio porco? Infelizmente, recusarei.",
-        "es-ES": "[Demonio de la Caja]\n¿No me trajiste ya el aperitivo de hoy? ¿Piensas convertirme en un demonio cerdo? Es una pena, pero lo rechazaré."
+        "es-ES": "[Demonio de la Caja]\n¿Que no ya me habías traído el aperitivo de hoy? ¿Piensas convertirme en un demonio cerdo? Es una pena, pero lo rechazaré."
     },
     "uGRVDQ": {
         "en-US": "[Box Demon]\nHow could a demon live on meals alone? One must eat snacks from time to time as well.",
         "pt-BR": "[Demônio da Caixa]\nComo um demônio poderia viver só de refeições? De vez em quando, também é preciso comer lanches.",
-        "es-ES": "[Demonio de la Caja]\n¿Cómo va a vivir un demonio solo comiendo? A veces también hay que tomar aperitivos."
+        "es-ES": "[Demonio de la caja]\n¿Cómo va a vivir un demonio solo comiendo? A veces también hay que tomar aperitivos."
     },
     "uWRVDQ": {
         "en-US": "[Box Demon]\nOho, did you bring <ITEM>[Cute Broom]<INFO>25506</INFO></ITEM>?",
-        "pt-BR": "[Demônio da Caixa]\nOh, trouxe <ITEM>[Vassoura Fofa]<INFO>25506</INFO></ITEM>?",
-        "es-ES": "[Demonio de la Caja]\nOh, ¿has traído <ITEM>[Escoba bonita]<INFO>25506</INFO></ITEM>?"
+        "pt-BR": "[Demônio da Caixa]\nOh, trouxe <ITEM>[Vassoura Fofinha]<INFO>25506</INFO></ITEM>?",
+        "es-ES": "[Demonio de la Caja]\nOh, ¿trajiste <ITEM>[Escoba Bonita]<INFO>25506</INFO></ITEM>?"
     },
     "umRVDQ": {
         "en-US": "Yeah, it's yours.",
@@ -786,38 +786,38 @@
     },
     "vWRVDQ": {
         "en-US": "[Box Demon]\nYes, today's snack shall be <ITEM>[Cute Broom]<INFO>25506</INFO></ITEM>.",
-        "pt-BR": "[Demônio da Caixa]\nCerto, o lanche de hoje será <ITEM>[Vassoura Fofa]<INFO>25506</INFO></ITEM>.",
-        "es-ES": "[Demonio de la Caja]\nBien. El aperitivo de hoy será <ITEM>[Escoba bonita]<INFO>25506</INFO></ITEM>."
+        "pt-BR": "[Demônio da Caixa]\nCerto, o lanche de hoje será <ITEM>[Vassoura Fofinha]<INFO>25506</INFO></ITEM>.",
+        "es-ES": "[Demonio de la Caja]\nBien. El aperitivo de hoy será <ITEM>[Escoba Bonita]<INFO>25506</INFO></ITEM>."
     },
     "vmRVDQ": {
         "en-US": "[{0}]\nWhoa? You eat brooms?",
         "pt-BR": "[{0}]\nCaramba? Você come vassouras?",
-        "es-ES": "[{0}]\n¿Eh? ¿Te comes escobas?"
+        "es-ES": "[{0}]\n¿Eh? ¿Comes escobas?"
     },
     "v2RVDQ": {
         "en-US": "[Box Demon]\nHoho, if you remove the handle and use it as firewood, then lightly fry the remaining part, there is no delicacy in the world quite like it.. How pitiful that you do not know the deliciousness of brooms..",
-        "pt-BR": "[Demônio da Caixa]\nOra, se arrancar a parte do cabo para usar como lenha e fritar levemente o restante, não existe iguaria melhor neste mundo.. Que pena você não conhecer o sabor delicioso das vassouras..",
+        "pt-BR": "[Demônio da Caixa]\nOra, se arrancar a parte do cabo para usar como lenha e fritar levemente o restante, não existe iguaria melhor neste mundo! Que pena que você não conhece o sabor delicioso das vassouras...",
         "es-ES": "[Demonio de la Caja]\nJa, ja. Si separas el mango para usarlo como leña y fríes ligeramente la parte restante, no hay manjar igual en el mundo... Qué lástima que no conozcas lo deliciosa que es una escoba..."
     },
     "wGRVDQ": {
         "en-US": "[Box Demon]\nBring me 100 <ITEM>[Cute Broom]<INFO>25506</INFO></ITEM>, and I will personally eat them as a snack.",
-        "pt-BR": "[Demônio da Caixa]\nSe trouxer 100 <ITEM>[Vassoura Fofa]<INFO>25506</INFO></ITEM>, eu mesmo as comerei como lanche.",
-        "es-ES": "[Demonio de la Caja]\nSi traes 100 <ITEM>[Escoba bonita]<INFO>25506</INFO></ITEM>, me dignaré a comerlas como aperitivo."
+        "pt-BR": "[Demônio da Caixa]\nSe trouxer 100 <ITEM>[Vassouras Fofinhas]<INFO>25506</INFO></ITEM>, eu mesmo as comerei como lanche.",
+        "es-ES": "[Demonio de la Caja]\nSi traes 100 <ITEM>[Escoba Bonita]<INFO>25506</INFO></ITEM>, me dignaré a comerlas como aperitivo."
     },
     "wWRVDQ": {
         "en-US": "[Box Demon]\nOho, did you bring <ITEM>[Joker's Wild]<INFO>25505</INFO></ITEM>?",
-        "pt-BR": "[Demônio da Caixa]\nOh, trouxe <ITEM>[Curinga Selvagem]<INFO>25505</INFO></ITEM>?",
-        "es-ES": "[Demonio de la Caja]\nOh, ¿has traído <ITEM>[Joker's Wild]<INFO>25505</INFO></ITEM>?"
+        "pt-BR": "[Demônio da Caixa]\nOh, trouxe <ITEM>[Coringa Dourado]<INFO>25505</INFO></ITEM>?",
+        "es-ES": "[Demonio de la caja]\nOh, ¿trajiste <ITEM>[Carta de Comodín]<INFO>25505</INFO></ITEM>?"
     },
     "wmRVDQ": {
         "en-US": "[Box Demon]\nYes, today's snack shall be <ITEM>[Joker's Wild]<INFO>25505</INFO></ITEM>.",
-        "pt-BR": "[Demônio da Caixa]\nCerto, o lanche de hoje será <ITEM>[Curinga Selvagem]<INFO>25505</INFO></ITEM>.",
-        "es-ES": "[Demonio de la Caja]\nBien. El aperitivo de hoy será <ITEM>[Joker's Wild]<INFO>25505</INFO></ITEM>."
+        "pt-BR": "[Demônio da Caixa]\nCerto, o lanche de hoje será <ITEM>[Coringa Dourado]<INFO>25505</INFO></ITEM>.",
+        "es-ES": "[Demonio de la Caja]\nBien. El aperitivo de hoy será <ITEM>[Carta de Comodín]<INFO>25505</INFO></ITEM>."
     },
     "w2RVDQ": {
         "en-US": "[{0}]\nHuh? Isn't this a card? Do demons eat cards too?",
         "pt-BR": "[{0}]\nHã? Isso não é uma carta? Demônios também comem cartas?",
-        "es-ES": "[{0}]\n¿Eh? ¿Esto no es una carta? ¿Los demonios también comen cartas?"
+        "es-ES": "[{0}]\n¿Eh? ¡Eso es una carta! ¿Los demonios también comen cartas?"
     },
     "xGRVDQ": {
         "en-US": "[Box Demon]\nYou are curious about useless things. Useless curiosity only hastens death!",
@@ -826,18 +826,18 @@
     },
     "xWRVDQ": {
         "en-US": "[Box Demon]\nBring me 100 <ITEM>[Joker's Wild]<INFO>25505</INFO></ITEM>, and I will personally eat them as a snack.",
-        "pt-BR": "[Demônio da Caixa]\nSe trouxer 100 <ITEM>[Curinga Selvagem]<INFO>25505</INFO></ITEM>, eu mesmo as comerei como lanche.",
-        "es-ES": "[Demonio de la Caja]\nSi traes 100 <ITEM>[Joker's Wild]<INFO>25505</INFO></ITEM>, me dignaré a comerlas como aperitivo."
+        "pt-BR": "[Demônio da Caixa]\nSe trouxer 100 <ITEM>[Coringas Dourados]<INFO>25505</INFO></ITEM>, eu mesmo os comerei como lanche.",
+        "es-ES": "[Demonio de la Caja]\nSi traes 100 <ITEM>[Carta de Comodín]<INFO>25505</INFO></ITEM>, me dignaré a comerlas como aperitivo."
     },
     "xmRVDQ": {
         "en-US": "[Box Demon]\nOho, did you bring <ITEM>[Shining Round Shell]<INFO>25509</INFO></ITEM>?",
-        "pt-BR": "[Demônio da Caixa]\nOh, trouxe <ITEM>[Casca Redonda Brilhante]<INFO>25509</INFO></ITEM>?",
-        "es-ES": "[Demonio de la Caja]\nOh, ¿has traído <ITEM>[Caparazón redondo brillante]<INFO>25509</INFO></ITEM>?"
+        "pt-BR": "[Demônio da Caixa]\nOh, trouxe <ITEM>[Casca Arredondada Brilhante]<INFO>25509</INFO></ITEM>?",
+        "es-ES": "[Demonio de la Caja]\nOh, ¿trajiste <ITEM>[Concha Brillante]<INFO>25509</INFO></ITEM>?"
     },
     "x2RVDQ": {
         "en-US": "[Box Demon]\nYes, today's snack shall be <ITEM>[Shining Round Shell]<INFO>25509</INFO></ITEM>.",
-        "pt-BR": "[Demônio da Caixa]\nCerto, o lanche de hoje será <ITEM>[Casca Redonda Brilhante]<INFO>25509</INFO></ITEM>.",
-        "es-ES": "[Demonio de la Caja]\nBien. El aperitivo de hoy será <ITEM>[Caparazón redondo brillante]<INFO>25509</INFO></ITEM>."
+        "pt-BR": "[Demônio da Caixa]\nCerto, o lanche de hoje será <ITEM>[Casca Arredondada Brilhante]<INFO>25509</INFO></ITEM>.",
+        "es-ES": "[Demonio de la caja]\nBien. El aperitivo de hoy será <ITEM>[Concha Brillante]<INFO>25509</INFO></ITEM>."
     },
     "yGRVDQ": {
         "en-US": "[{0}]\nIsn't it a little hard?",
@@ -846,43 +846,43 @@
     },
     "yWRVDQ": {
         "en-US": "[Box Demon]\nDear me, dear me.. You know nothing of taste.. Then again, for beings like you with such frail teeth, it may be hard to eat. I failed to consider that.",
-        "pt-BR": "[Demônio da Caixa]\nOra, ora.. Vocês não entendem nada de sabor.. Pensando bem, para existências com dentes frágeis como vocês, pode mesmo ser duro. Eu não considerei isso.",
-        "es-ES": "[Demonio de la Caja]\nVaya, vaya... Qué poco gusto tenéis... Aunque supongo que para seres con dientes tan frágiles como vosotros puede resultar duro. No me había dado cuenta."
+        "pt-BR": "[Demônio da Caixa]\nOra, ora... Você não entende nada de sabor... Pensando bem, para criaturas com dentes frágeis como você, pode mesmo ser duro. Eu não considerei isso.",
+        "es-ES": "[Demonio de la Caja]\nVaya, vaya... Qué poco gusto tienes... Aunque supongo que para seres con dientes tan frágiles como ustedes puede ser duro. No me había dado cuenta."
     },
     "ymRVDQ": {
         "en-US": "[Box Demon]\nHowever! You are not the one eating it, are you? Bring me 100 <ITEM>[Shining Round Shell]<INFO>25509</INFO></ITEM>. I will personally eat them as a snack.",
-        "pt-BR": "[Demônio da Caixa]\nPorém! Não é você quem vai comer, é? Traga 100 <ITEM>[Casca Redonda Brilhante]<INFO>25509</INFO></ITEM>. Eu mesmo as comerei como lanche.",
-        "es-ES": "[Demonio de la Caja]\n¡Pero! No eres tú quien va a comerlo, ¿verdad? Trae 100 <ITEM>[Caparazón redondo brillante]<INFO>25509</INFO></ITEM>. Me dignaré a comerlos como aperitivo."
+        "pt-BR": "[Demônio da Caixa]\nPorém! Não é você quem vai comer, é? Traga 100 <ITEM>[Cascas Arredondadas Brilhantes]<INFO>25509</INFO></ITEM>. Eu mesmo as comerei como lanche.",
+        "es-ES": "[Demonio de la Caja]\nPero tú no te lo vas a comer, ¿verdad? Trae 100 <ITEM>[Concha Brillante]<INFO>25509</INFO></ITEM>. Me dignaré a comerlas como aperitivo."
     },
     "y2RVDQ": {
         "en-US": "[Box Demon]\nOho, did you bring <ITEM>[Fancy Coral]<INFO>25507</INFO></ITEM>?",
-        "pt-BR": "[Demônio da Caixa]\nOh, trouxe <ITEM>[Coral Vistoso]<INFO>25507</INFO></ITEM>?",
-        "es-ES": "[Demonio de la Caja]\nOh, ¿has traído <ITEM>[Coral vistoso]<INFO>25507</INFO></ITEM>?"
+        "pt-BR": "[Demônio da Caixa]\nOh, trouxe <ITEM>[Coral Colorido]<INFO>25507</INFO></ITEM>?",
+        "es-ES": "[Demonio de la Caja]\nOh, ¿trajiste <ITEM>[Coral Llamativo]<INFO>25507</INFO></ITEM>?"
     },
     "zGRVDQ": {
         "en-US": "[Box Demon]\nYes, today's snack shall be <ITEM>[Fancy Coral]<INFO>25507</INFO></ITEM>.",
-        "pt-BR": "[Demônio da Caixa]\nCerto, o lanche de hoje será <ITEM>[Coral Vistoso]<INFO>25507</INFO></ITEM>.",
-        "es-ES": "[Demonio de la Caja]\nBien. El aperitivo de hoy será <ITEM>[Coral vistoso]<INFO>25507</INFO></ITEM>."
+        "pt-BR": "[Demônio da Caixa]\nCerto, o lanche de hoje será <ITEM>[Coral Colorido]<INFO>25507</INFO></ITEM>.",
+        "es-ES": "[Demonio de la Caja]\nBien. El aperitivo de hoy será <ITEM>[Coral Llamativo]<INFO>25507</INFO></ITEM>."
     },
     "zWRVDQ": {
         "en-US": "[{0}]\nAt least today's ingredient seems edible?",
         "pt-BR": "[{0}]\nAo menos hoje parece ser um ingrediente que dá para comer, não?",
-        "es-ES": "[{0}]\nAl menos hoy parece un ingrediente comestible, ¿no?"
+        "es-ES": "[{0}]\nAl menos hoy parece algo comestible, ¿no?"
     },
     "zmRVDQ": {
         "en-US": "[Box Demon]\nOho, it seems your kind eats coral at least. I thought you knew nothing of taste, but you can enjoy flavor fairly well, can you?",
-        "pt-BR": "[Demônio da Caixa]\nOh, então vocês também comem ao menos coral. Achei que não conhecessem sabor algum, mas até sabem apreciar um pouco?",
-        "es-ES": "[Demonio de la Caja]\nOh, parece que vosotros también coméis coral. Creía que no entendíais de sabores, pero sabéis disfrutar bastante del gusto, ¿eh?"
+        "pt-BR": "[Demônio da Caixa]\nAh, então vocês também comem coral? Pelo menos isso! Achei que não conhecessem sabor algum, mas até que sabem apreciar um pouco, hein?",
+        "es-ES": "[Demonio de la Caja]\nOh, parece que ustedes también comen corales. Creía que no entendían de sabores, pero saben disfrutar, ¿eh?"
     },
     "z2RVDQ": {
         "en-US": "[Box Demon]\nBring me 100 <ITEM>[Fancy Coral]<INFO>25507</INFO></ITEM>. The fancier it is, the better it tastes, so choose well, and I will personally eat it as a snack.",
-        "pt-BR": "[Demônio da Caixa]\nTraga 100 <ITEM>[Coral Vistoso]<INFO>25507</INFO></ITEM>. Quanto mais vistoso, melhor o sabor. Se escolher bem, eu mesmo os comerei como lanche.",
-        "es-ES": "[Demonio de la Caja]\nTrae 100 <ITEM>[Coral vistoso]<INFO>25507</INFO></ITEM>. Cuanto más vistoso, más sabroso, así que elígelos bien, y me dignaré a comerlos como aperitivo."
+        "pt-BR": "[Demônio da Caixa]\nTraga 100 <ITEM>[Corais Coloridos]<INFO>25507</INFO></ITEM>. Quanto mais vistoso, melhor o sabor. Se escolher bem, eu mesmo os comerei como lanche.",
+        "es-ES": "[Demonio de la Caja]\nTrae 100 <ITEM>[Coral Llamativo]<INFO>25507</INFO></ITEM>. Cuanto más llamativo, más sabroso, así que elígelos bien, y me dignaré a comerlos como aperitivo."
     },
     "0GRVDQ": {
         "en-US": "[Box Demon]\nMy tastes have changed. Bring me a snack with the changed item!",
         "pt-BR": "[Demônio da Caixa]\nMeu gosto mudou. Traga o lanche com o item alterado!",
-        "es-ES": "[Demonio de la Caja]\nMis gustos han cambiado. ¡Trae el aperitivo con el objeto cambiado!"
+        "es-ES": "[Demonio de la Caja]\nMis gustos cambiaron. ¡Trae el aperitivo con el objeto cambiado!"
     },
     "0WRVDQ": {
         "en-US": "[Box Demon]\nToday, in recognition of the sincerity you showed by bringing a snack, I shall make a special exception and eat it.",
@@ -897,11 +897,11 @@
     "02RVDQ": {
         "en-US": "[Box Demon]\nHehehe, it is a special meal because it is eaten occasionally! If you eat it often, it is not special!",
         "pt-BR": "[Demônio da Caixa]\nHuhuhu, prato especial é algo para comer de vez em quando! Se comer com frequência, deixa de ser especial!",
-        "es-ES": "[Demonio de la Caja]\nJe, je, je. ¡Un manjar lo es porque se come de vez en cuando! ¡Si se come a menudo, deja de ser un manjar!"
+        "es-ES": "[Demonio de la Caja]\nJe, je, je. ¡Lo que hace a un manjar ser un manjar es comerlo de vez en cuando! ¡Si se come a menudo, deja de ser un manjar!"
     },
     "1GRVDQ": {
         "en-US": "[Box Demon]\nFeeder of mine, do you not think I need a special meal about once a week?",
-        "pt-BR": "[Demônio da Caixa]\nÓ fornecedor de comida, não acha que preciso de um prato especial cerca de uma vez por semana?",
+        "pt-BR": "[Demônio da Caixa]\nÔ, Chefia, não acha que preciso de um prato especial cerca de uma vez por semana?",
         "es-ES": "[Demonio de la Caja]\nDador de comida, ¿no crees que necesito un manjar más o menos una vez por semana?"
     },
     "1WRVDQ": {
@@ -916,7 +916,7 @@
     },
     "12RVDQ": {
         "en-US": "[Box Demon]\nThey say demons are having serious trouble finding jobs these days, and now I see why.",
-        "pt-BR": "[Demônio da Caixa]\nDizem que a dificuldade de emprego dos demônios anda grave ultimamente, e agora entendo o motivo.",
+        "pt-BR": "[Demônio da Caixa]\nDizem que a dificuldade de achar emprego dos demônios anda grave ultimamente, e agora entendo o motivo.",
         "es-ES": "[Demonio de la Caja]\nDicen que últimamente los demonios sufren una grave crisis laboral, y ahora entiendo por qué."
     },
     "2GRVDQ": {
@@ -926,68 +926,68 @@
     },
     "2WRVDQ": {
         "en-US": "Demon: Tch!! You finally noticed, annoyingly enough?",
-        "pt-BR": "Demônio: Tch!! No fim, você percebeu, que incômodo.",
-        "es-ES": "Demonio: ¡Tch! ¡Al final te diste cuenta, qué molesto!"
+        "pt-BR": "Demônio: Tch!!! Finalmente você percebeu, que incômodo.",
+        "es-ES": "Demonio: ¡Tch! ¡Al final te diste cuenta, qué incómodo!"
     },
     "2mRVDQ": {
         "en-US": "Demon: Good timing!! I wanted to press this button here anyway..",
-        "pt-BR": "Demônio: Que bom!! Eu justamente queria apertar os botões daqui..",
+        "pt-BR": "Demônio: Que bom!!! Eu justamente queria apertar os botões daqui...",
         "es-ES": "Demonio: ¡Me viene bien! Justo quería probar a pulsar este botón de aquí..."
     },
     "22RVDQ": {
         "en-US": "Demon: Since you feed me and are asking, I will specially press the button labeled Solid.",
-        "pt-BR": "Demônio: Bem, como você, que me alimenta, está pedindo, apertarei especialmente o botão escrito Solid.",
-        "es-ES": "Demonio: Bueno, como tú, que me das comida, me lo pides, pulsaré especialmente el botón que pone Solid."
+        "pt-BR": "Demônio: Bem, como você, que me alimenta, está pedindo, apertarei especialmente o botão escrito \"Sólido\".",
+        "es-ES": "Demonio: Bueno, como tú, que me das comida, me lo pides, pulsaré especialmente el botón que dice \"Solidificado\"."
     },
     "3GRVDQ": {
         "en-US": "Demon: I just felt like pressing the button labeled Wicked, so watch if you want.",
-        "pt-BR": "Demônio: Acabei ficando com vontade de apertar o botão escrito Wicked, então fique olhando se quiser.",
-        "es-ES": "Demonio: Justo me han entrado ganas de pulsar el botón que pone Wicked, así que mira si quieres."
+        "pt-BR": "Demônio: Deu vontade de apertar o botão escrito \"Perverso\", então fique olhando se quiser.",
+        "es-ES": "Demonio: Justo me entraron ganas de pulsar el botón que dice \"Malevolente\", así que mira si quieres."
     },
     "3WRVDQ": {
         "en-US": "Demon: Oho, I was just wanting to press the button labeled Precision.",
-        "pt-BR": "Demônio: Oh, eu estava justamente com vontade de apertar o botão escrito Precision.",
-        "es-ES": "Demonio: Oh, justo tenía ganas de pulsar el botón que pone Precision."
+        "pt-BR": "Demônio: Oh, eu estava justamente com vontade de apertar o botão escrito \"Precisão\".",
+        "es-ES": "Demonio: Oh, justo tenía ganas de pulsar el botón que dice \"Reajustado\"."
     },
     "3mRVDQ": {
         "en-US": "Pet Mimic",
-        "pt-BR": "Mimic de Estimação",
-        "es-ES": "Mimic mascota"
+        "pt-BR": "Mímico de Estimação",
+        "es-ES": "Mímico mascota"
     },
     "32RVDQ": {
         "en-US": "This is the pet Mimic the demon outside the dungeon asked you to take care of.",
-        "pt-BR": "É o Mimic de estimação que o demônio fora do calabouço pediu para cuidar.",
-        "es-ES": "Es el Mimic mascota que el demonio de fuera de la mazmorra pidió cuidar."
+        "pt-BR": "É o Mímico de estimação que o demônio fora do calabouço pediu para cuidar.",
+        "es-ES": "Es el Mímico mascota que el demonio pidió cuidar."
     },
     "4GRVDQ": {
         "en-US": "Well.. you brought food, so it should be fine, right?",
-        "pt-BR": "Bem.. Trouxe a comida, então deve ficar tudo bem, não?",
-        "es-ES": "Bueno... Como he traído comida, no debería haber problema, ¿no?"
+        "pt-BR": "Bem... Trouxe a comida, então deve ficar tudo bem, não?",
+        "es-ES": "Bueno... Como traje, no debería haber problema, ¿no?"
     },
     "4WRVDQ": {
         "en-US": "This is the pet Mimic raised by the demon outside the dungeon. When did it get all the way here?",
-        "pt-BR": "É o Mimic de estimação criado pelo demônio fora do calabouço. Quando foi que ele chegou até aqui?",
-        "es-ES": "Es el Mimic mascota que cría el demonio de fuera de la mazmorra. ¿Cuándo ha llegado hasta aquí?"
+        "pt-BR": "É o Mímico de estimação criado pelo demônio fora do calabouço. Quando foi que ele chegou aqui?",
+        "es-ES": "Es el Mímico mascota que cría el demonio. ¿Cuándo llegó hasta aquí?"
     },
     "4mRVDQ": {
         "en-US": "A Mimic in a place like this?",
-        "pt-BR": "Um Mimic em um lugar destes?",
-        "es-ES": "¿Un Mimic en un lugar como este?"
+        "pt-BR": "Um Mímico em um lugar destes?",
+        "es-ES": "¿Un Mímico en un lugar como este?"
     },
     "42RVDQ": {
         "en-US": "[Box Demon]\nThe current pet Mimic has Mimic number [ {0} ] turned on.",
-        "pt-BR": "[Demônio da Caixa]\nAtualmente, o Mimic de estimação ativado é o Mimic número [ {0} ].",
-        "es-ES": "[Demonio de la Caja]\nActualmente, el Mimic mascota activo es el Mimic número [ {0} ]."
+        "pt-BR": "[Demônio da Caixa]\nAtualmente, o Mímico de estimação ativado é o Mímico número [ {0} ].",
+        "es-ES": "[Demonio de la Caja]\nActualmente, el Mímico mascota activo es el Mimic número [ {0} ]."
     },
     "5GRVDQ": {
         "en-US": "Randomly turn on Mimic 0-4",
-        "pt-BR": "Ativar aleatoriamente Mimic de 0 a 4",
-        "es-ES": "Activar aleatoriamente un Mimic del 0 al 4"
+        "pt-BR": "Ativar aleatoriamente Mímico de 0 a 4",
+        "es-ES": "Activar aleatoriamente un Mímico del 0 al 4"
     },
     "5WRVDQ": {
         "en-US": "Randomly turn on Mimic 5-9",
-        "pt-BR": "Ativar aleatoriamente Mimic de 5 a 9",
-        "es-ES": "Activar aleatoriamente un Mimic del 5 al 9"
+        "pt-BR": "Ativar aleatoriamente Mímico de 5 a 9",
+        "es-ES": "Activar aleatoriamente un Mímico del 5 al 9"
     },
     "5mRVDQ": {
         "en-US": "[Box Demon]\nProcessing complete",

@@ -21,12 +21,12 @@
     },
     "hBoG": {
         "en-US": "^FF0000Skill Redistribution?^000000",
-        "pt-BR": "^FF0000Redistribuição de Habilidades^000000",
+        "pt-BR": "^FF0000Redefinição de habilidades?^000000",
         "es-ES": "^FF0000Redistribución de habilidades^000000"
     },
     "hRoG": {
         "en-US": "^FF0000Reset Skills^000000",
-        "pt-BR": "^FF0000Resetar Habilidades^000000",
+        "pt-BR": "^FF0000Resetar habilidades^000000",
         "es-ES": "^FF0000Restablecer habilidades^000000"
     },
     "hhoG": {

@@ -14326,17 +14326,18 @@ QuestInfoList = {
 		Title = "Airship Crash Site",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Let's hear about the Airship Crash incident from Dr. Dry Circle Strong."
+			"Let's hear about the Airship Crash incident from Dr. Serafit."
 		},
 		Summary = ""
 	},
 	[5909] = {
-		Title = "[Cooldown] Airship Crash Site",
+		Title = "[Waiting] Airship Crash Site",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"You can enter the airship crash site once every 3 days. Talk to <NAVI>[Dr. Dry Circle Strong]<INFO>dali02,137,86,0,101,0</INFO></NAVI> to access the site again later."
+			"You can enter the airship crash site once every 3 days.",
+			"Talk to [<NAVI>Dr. Serafit<INFO>dali02,137,86,0,101,0</INFO></NAVI>] to access the site again later."
 		},
-		Summary = "Reset at 04.00 after 3 days",
+		Summary = "Resets at 04:00 after 3 days",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_FAIRYANG",
 		NpcNavi = "dali02",
@@ -14347,7 +14348,7 @@ QuestInfoList = {
 		Title = "Forgotten Collaborative Research (1)",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Professor Daeguto asked graduate student Maratha to explain the matter."
+			"Professor Daeguto asked Graduate Student Marata -- also known as *oo* -- to explain the matter."
 		},
 		Summary = ""
 	},
@@ -14355,7 +14356,7 @@ QuestInfoList = {
 		Title = "Forgotten Collaborative Research (2)",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"I think the last explanation should be heard from graduate student Saseong. Let's listen to the final explanation."
+			"I think the last explanation should be heard from Graduate Student Saseong -- also known as ****. Let's listen to the final explanation."
 		},
 		Summary = ""
 	},
@@ -14365,7 +14366,8 @@ QuestInfoList = {
 		Description = {
 			"We received a request to hunt 50 common monsters.",
 			"",
-			"If the number of party members registered with Professor and the number of people inside are not the same, you will not be able to receive fair compensation.",
+			"If the number of party members is different from what was informed to the Professor, the rewards may not be fair.",
+			"",
 			"^FF0000This is a repeatable quest.^000000"
 		},
 		Summary = ""
@@ -14376,7 +14378,8 @@ QuestInfoList = {
 		Description = {
 			"We received a request to hunt 100 common monsters.",
 			"",
-			"If the number of party members registered with Professor and the number of people inside are not the same, you will not be able to receive fair compensation.",
+			"If the number of party members is different from what was informed to the Professor, the rewards may not be fair.",
+			"",
 			"^FF0000This is a repeatable quest.^000000"
 		},
 		Summary = ""
@@ -14387,7 +14390,8 @@ QuestInfoList = {
 		Description = {
 			"We received a request to hunt 150 common monsters.",
 			"",
-			"If the number of party members registered with Professor and the number of people inside are not the same, you will not be able to receive fair compensation.",
+			"If the number of party members is different from what was informed to the Professor, the rewards may not be fair.",
+			"",
 			"^FF0000This is a repeatable quest.^000000"
 		},
 		Summary = ""
@@ -14396,7 +14400,7 @@ QuestInfoList = {
 		Title = "Rewards for helping the injured",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Pelloch received compensation for his help in finding the injuries caused by the airship crash."
+			"I received a reward from Ferlock for helping to locate the people injured in the airship crash."
 		},
 		Summary = ""
 	},
@@ -37032,19 +37036,19 @@ QuestInfoList = {
 		Summary = "Rest for 30 min."
 	},
 	[12510] = {
-		Title = "About the hidden arena",
+		Title = "About the Clandestine Arena",
 		Description = {
-			"I found out that the arena is being operated in an illegal way beyond the dimensional rift.",
-			"I dont know how they manage to do illegal Tournament, but it's definitely a lot of fun."
+			"I found out that the arena is being operated in an illegal way beyond the Dimensional Gap.",
+			"I dont know how they manage to do an illegal Tournament, but it's definitely a lot of fun."
 		},
 		Summary = "Cowardly Rules"
 	},
 	[12511] = {
-		Title = "Cooldown - No Arena today",
+		Title = "[Waiting] No Arena matches today.",
 		Description = {
-			"The arena opens once every 3 days. It's better to take a break when there's no game."
+			"The arena opens once every 3 days. It's better to take a break when there's no match."
 		},
-		Summary = "Arena resumes at 4:00 AM 3 days later",
+		Summary = "Arena resets at 04:00 after 3 days",
 		CoolTimeQuest = 1
 	},
 	[12512] = {
@@ -37066,7 +37070,7 @@ QuestInfoList = {
 		Description = {
 			"Entering and leaving this place consumes a great deal of mental strength. Even if you still have business here, it would be best to return after 3 days have passed."
 		},
-		Summary = "Reentry after 3 days at 4:00 AM",
+		Summary = "Resets at 04:00 after 3 days",
 		CoolTimeQuest = 1
 	},
 	[12515] = {
@@ -46408,7 +46412,7 @@ QuestInfoList = {
 		Title = "Noodle Festival",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Bring 1 Meatball, 1 Bowtie Pasta, 1 Thin Noodle, and 1 Spaghetti Pasta to the <NAVI>[Festival Director]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
+			"Bring 1x Meatball, 1x Bowtie Pasta, 1x Thin Noodle, and 1x Spaghetti Pasta to the <NAVI>[Festival Manager]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Bring the items"
 	},
@@ -46464,9 +46468,9 @@ QuestInfoList = {
 		Title = "Watermelon Harvest",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Defeat Watermelons and bring 10 Festival Fans to <NAVI>[Helper Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
+			"Defeat Watermelons and bring 10x Festival Fan to <NAVI>[Helper Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 Festival Fans"
+		Summary = "10x Festival Fan"
 	},
 	[17316] = {
 		Title = "[Waiting] Watermelon Harvest",
@@ -46480,9 +46484,9 @@ QuestInfoList = {
 		Title = "Bad Noodle Hunt",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Bring 10 Rotten Noodle to <NAVI>[Helper Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>."
+			"Bring 10x Rotten Noodle to <NAVI>[Helper Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 Rotten Noodle"
+		Summary = "10x Rotten Noodle"
 	},
 	[17318] = {
 		Title = "[Wait] Bad Noodle Hunt",
@@ -47849,7 +47853,7 @@ QuestInfoList = {
 		Title = "Cooking Pasta",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Noodle Artisan Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, in Lasagna, asked for 5 Bowtie Pasta, 5 Spaghetti Pasta, 5 Thin Noodle, and 3 Meatballs."
+			"<NAVI>[Noodle Artisan Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, in Lasagna, asked for 5x Bowtie Pasta, 5x Spaghetti Pasta, 5x Thin Noodle, and 1x Meatball."
 		},
 		Summary = "Bring the items"
 	},
@@ -47873,33 +47877,33 @@ QuestInfoList = {
 		Title = "Star Button?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Somewhere in the cave, there are hidden ducks. Let's look for them <NAVI>[here]<INFO>lasa_sea,74,202,0,101,0,</INFO></NAVI>."
+			"Somewhere in the cave, there are hidden ducklings. Let's look for them <NAVI>[here]<INFO>lasa_sea,74,202,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Find Ducks"
+		Summary = "Find Ducklings"
 	},
 	[17559] = {
 		Title = "Star Button?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Somewhere in the cave, there are hidden ducks. Let's look for them <NAVI>[here]<INFO>lasa_sea,135,70,0,101,0,</INFO></NAVI>."
+			"Somewhere in the cave, there are hidden ducklings. Let's look for them <NAVI>[here]<INFO>lasa_sea,135,70,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Find Ducks"
+		Summary = "Find Ducklings"
 	},
 	[17560] = {
 		Title = "Star Button?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Somewhere in the cave, there are hidden ducks. Let's look for them <NAVI>[here]<INFO>lasa_sea,18,51,0,101,0,</INFO></NAVI>."
+			"Somewhere in the cave, there are hidden ducklings. Let's look for them <NAVI>[here]<INFO>lasa_sea,18,51,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Find Ducks"
+		Summary = "Find Ducklings"
 	},
 	[17561] = {
 		Title = "Star Button?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Somewhere in the cave, there are hidden ducks. Let's look for them <NAVI>[here]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI>."
+			"Somewhere in the cave, there are hidden ducklings. Let's look for them <NAVI>[here]<INFO>lasa_sea,197,67,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Find Ducks"
+		Summary = "Find Ducklings"
 	},
 	[17562] = {
 		Title = "Star Button?!",
@@ -47907,13 +47911,13 @@ QuestInfoList = {
 		Description = {
 			"Let's go back to <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Find Ducks"
+		Summary = "Find Ducklings"
 	},
 	[17563] = {
 		Title = "Star Button?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"It seems confusing, let's wait for the Duck in­ <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+			"It seems confusing, let's wait for the Duckling in­ <NAVI>[Lasagna]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "Wait"
 	},
@@ -47921,15 +47925,15 @@ QuestInfoList = {
 		Title = "Star Button?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Talk to the <NAVI>[Duck]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+			"Talk to the <NAVI>[Duckling]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "Talk to Duck­"
+		Summary = "Talk to Duck­ling"
 	},
 	[17565] = {
 		Title = "Star Button?!",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Go to the Cave, defeat Starlings to get 20 Star Buttons and deliver them to <NAVI>[me]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+			"Go to the Cave, defeat Starlings to get 20x Star Button and deliver them to <NAVI>[me]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "20 Star Buttons"
 	},
@@ -47948,7 +47952,7 @@ QuestInfoList = {
 		Description = {
 			"Go to the Cave, defeat Starlings to get 20 Star Buttons and deliver them to <NAVI>[me]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "20 Star Buttons"
+		Summary = "20x Star Button"
 	},
 	[17568] = {
 		Title = "Path of Sky: Marked Spot",

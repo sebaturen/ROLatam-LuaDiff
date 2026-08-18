@@ -26,7 +26,7 @@
     },
     "xbVKDQ": {
         "en-US": "Marquis of Regret : A flow of magic leading to the princess has appeared at the 12 o'clock direction.",
-        "pt-BR": "Marquês das Mágoas: Um fluxo mágico foi criado na direção das 12 horas, rumo à princesa.",
+        "pt-BR": "Marquês das Mágoas: Um fluxo mágico foi criado à sua frente, rumo à princesa.",
         "es-ES": "Marqués del Remordimiento : Se ha generado un flujo mágico que conduce hacia la princesa en dirección a las 12."
     },
     "xrVKDQ": {
@@ -76,8 +76,8 @@
     },
     "z7VKDQ": {
         "en-US": "Magic Sword Tartanos : Oh! Is that not the brat from back then? Indeed... you have ripened quite splendidly.",
-        "pt-BR": "Espada Mágica Tartanos: Ah! Não é aquela criança insolente? De fato… Você amadureceu esplendidamente.",
-        "es-ES": "Espada mágica Tartanos : ¡Oh! ¿No eres el mocoso de entonces? Ya veo…… has madurado mucho mejor."
+        "pt-BR": "Espada Mágica Tartanos: Ah! Não é aquela criança insolente? De fato... Você amadureceu esplendidamente.",
+        "es-ES": "Espada mágica Tartanos : ¡Oh! ¿No eres el mocoso de entonces? Ya veo...... has madurado mucho mejor."
     },
     "0LVKDQ": {
         "en-US": "Magic Sword Tartanos : Sakray. Hurry and offer me that one's blood! Feed me plenty of that blood!",
@@ -86,8 +86,8 @@
     },
     "0bVKDQ": {
         "en-US": "Magic Swordsman Sakray : Before that... I must find the princess...",
-        "pt-BR": "Espadachim Mágico Sakray: Antes disso… preciso encontrar a princesa…",
-        "es-ES": "Espadachín Mágico Sakray : Antes de eso…… debo encontrar a la princesa……"
+        "pt-BR": "Espadachim Mágico Sakray: Antes disso... preciso encontrar a princesa...",
+        "es-ES": "Espadachín Mágico Sakray : Antes de eso...... debo encontrar a la princesa......"
     },
     "0rVKDQ": {
         "en-US": "Magic Sword Tartanos : Do you not know why that one is here? Surely this is that one's doing! Honor the contract, Sakray!",
@@ -96,8 +96,8 @@
     },
     "07VKDQ": {
         "en-US": "Magic Swordsman Sakray : I see... Is it as Tartanos says? In any case, I cannot escape the magic sword...",
-        "pt-BR": "Espadachim Mágico Sakray: Entendo… Tartanos está dizendo a verdade? De qualquer forma, não posso me libertar da espada mágica……",
-        "es-ES": "Espadachín Mágico Sakray : Ya veo…… ¿es como dice Tartanos? De todos modos, no puedo escapar de la espada mágica……."
+        "pt-BR": "Espadachim Mágico Sakray: Entendo... Tartanos está dizendo a verdade? De qualquer forma, não posso me libertar da espada mágica......",
+        "es-ES": "Espadachín Mágico Sakray : Ya veo...... ¿es como dice Tartanos? De todos modos, no puedo escapar de la espada mágica......."
     },
     "1LVKDQ": {
         "en-US": "Magic Swordsman Sakray : There is no need for lengthy words. Come at me, brat. Become food for the magic sword!",
@@ -131,18 +131,18 @@
     },
     "2rVKDQ": {
         "en-US": "Magic Swordsman Sakray : I swore... that I would never return here again...",
-        "pt-BR": "Espadachim Mágico Sakray: Eu jurei… que nunca mais voltaria a este lugar……",
-        "es-ES": "Espadachín Mágico Sakray : Había jurado…… que no volvería nunca más a este lugar……."
+        "pt-BR": "Espadachim Mágico Sakray: Eu jurei... que nunca mais voltaria a este lugar......",
+        "es-ES": "Espadachín Mágico Sakray : Había jurado...... que no volvería nunca más a este lugar......."
     },
     "27VKDQ": {
         "en-US": "Magic Swordsman Sakray : I only came running now, after learning that this place had become like this.",
-        "pt-BR": "Espadachim Mágico Sakray: Só agora descobri… que ele havia ficado assim, e vim correndo.",
-        "es-ES": "Espadachín Mágico Sakray : Acudí corriendo al enterarme por fin…… de que había terminado así."
+        "pt-BR": "Espadachim Mágico Sakray: Só agora descobri... que ele havia ficado assim, e vim correndo.",
+        "es-ES": "Espadachín Mágico Sakray : Acudí corriendo al enterarme por fin...... de que había terminado así."
     },
     "3LVKDQ": {
         "en-US": "Magic Swordsman Sakray : If it was not you... then who... could have... done this?",
-        "pt-BR": "Espadachim Mágico Sakray: Se não foi você… Então quem… fez isto?",
-        "es-ES": "Espadachín Mágico Sakray : Si no fuiste tú…… entonces quién…… hizo……. algo así."
+        "pt-BR": "Espadachim Mágico Sakray: Se não foi você... Então quem... fez isto?",
+        "es-ES": "Espadachín Mágico Sakray : Si no fuiste tú...... entonces quién...... hizo....... algo así."
     },
     "3bVKDQ": {
         "en-US": "[Marquis of Regret]\nWait, do we not have a debt or favor to settle?\nFragmented Memories and fragments cannot be taken outside. Hand them over here before you leave.",
@@ -191,7 +191,7 @@
     },
     "5rVKDQ": {
         "en-US": "Fragmented Memories",
-        "pt-BR": "Memórias Fragmentadas",
+        "pt-BR": "Memórias Estilhaçadas",
         "es-ES": "Recuerdo fragmentado"
     },
     "57VKDQ": {
@@ -246,13 +246,13 @@
     },
     "8bVKDQ": {
         "en-US": "[Marquis of Regret]\n...The memories in these fragments cannot be taken outside this place.\nI do not know the reason myself.",
-        "pt-BR": "[Marquês das Mágoas]\n…As memórias destes fragmentos não podem ser levadas para fora daqui.\nNem eu sei bem por quê.",
-        "es-ES": "[Marqués del Remordimiento]\n…Los recuerdos de estos fragmentos no pueden sacarse de este lugar.\nNi siquiera yo sé bien por qué."
+        "pt-BR": "[Marquês das Mágoas]\n...As memórias destes fragmentos não podem ser levadas para fora daqui.\nNem eu sei bem por quê.",
+        "es-ES": "[Marqués del Remordimiento]\n...Los recuerdos de estos fragmentos no pueden sacarse de este lugar.\nNi siquiera yo sé bien por qué."
     },
     "8rVKDQ": {
         "en-US": "[Marquis of Regret]\nOnce you leave, they will melt away like glass candy, leaving no trace...\nHand them all over to me now before you go.",
-        "pt-BR": "[Marquês das Mágoas]\nQuando saem, derretem como balas de vidro e não deixam vestígio…\nEntregue tudo a mim agora, antes de ir.",
-        "es-ES": "[Marqués del Remordimiento]\nAl salir, se derretirían como caramelos de cristal sin dejar rastro…\nAsí que entrégamelos todos ahora."
+        "pt-BR": "[Marquês das Mágoas]\nQuando saem, derretem como balas de vidro e não deixam vestígio...\nEntregue tudo a mim agora, antes de ir.",
+        "es-ES": "[Marqués del Remordimiento]\nAl salir, se derretirían como caramelos de cristal sin dejar rastro...\nAsí que entrégamelos todos ahora."
     },
     "87VKDQ": {
         "en-US": "[Marquis of Regret]\nThat is your reward. It is small, but it is all I can give. A crystal of regret shaped by the princess.",
@@ -266,8 +266,8 @@
     },
     "9bVKDQ": {
         "en-US": "[Marquis of Regret]\n...These small fragments of the past cannot be taken outside this place.\nHand them all over to me now before you go.",
-        "pt-BR": "[Marquês das Mágoas]\n…Estes pequenos fragmentos do passado não podem ser levados para fora daqui.\nEntregue tudo a mim agora, antes de ir.",
-        "es-ES": "[Marqués del Remordimiento]\n…Estos pequeños fragmentos del pasado no pueden sacarse de este lugar.\nEntrégamelos todos ahora."
+        "pt-BR": "[Marquês das Mágoas]\n...Estes pequenos fragmentos do passado não podem ser levados para fora daqui.\nEntregue tudo a mim agora, antes de ir.",
+        "es-ES": "[Marqués del Remordimiento]\n...Estos pequeños fragmentos del pasado no pueden sacarse de este lugar.\nEntrégamelos todos ahora."
     },
     "9rVKDQ": {
         "en-US": "[Marquis of Regret]\nI thought old bonds and memories were futile, but seeing them again makes me feel lonely.\nI want to gather these memories so that this place will not be forgotten.",
@@ -336,8 +336,8 @@
     },
     "A7ZKDQ": {
         "en-US": "Marquis of Regret : This is the royal tomb. In the past, it was a peaceful place where the royal bloodline slept, but...",
-        "pt-BR": "Marquês das Mágoas: Este lugar é o túmulo da família real. No passado, era um local pacífico onde repousava a linhagem real, mas…",
-        "es-ES": "Marqués del Remordimiento : Este lugar es la tumba de la familia real. En el pasado era un lugar pacífico donde descansaba la sangre real, pero……"
+        "pt-BR": "Marquês das Mágoas: Este lugar é o túmulo da família real. No passado, era um local pacífico onde repousava a linhagem real, mas...",
+        "es-ES": "Marqués del Remordimiento : Este lugar es la tumba de la familia real. En el pasado era un lugar pacífico donde descansaba la sangre real, pero......"
     },
     "BLZKDQ": {
         "en-US": "Marquis of Regret : Not only the tomb keepers who lost their lives, but even the old corpses in the tomb rose up, turning it into a scene of utter chaos.",
@@ -396,13 +396,13 @@
     },
     "D7ZKDQ": {
         "en-US": "[Knight]\nI will... always remain by your side and serve you, princess.",
-        "pt-BR": "[Cavaleiro]\nEu… sempre servirei ao seu lado, princesa.",
-        "es-ES": "[Caballero]\nYo…… siempre estaré junto a vos para serviros, princesa."
+        "pt-BR": "[Cavaleiro]\nEu... sempre servirei ao seu lado, princesa.",
+        "es-ES": "[Caballero]\nYo...... siempre estaré junto a vos para serviros, princesa."
     },
     "ELZKDQ": {
         "en-US": "Knight : I will... always remain by your side and serve you, princess.",
-        "pt-BR": "Cavaleiro: Eu… sempre servirei ao seu lado, princesa.",
-        "es-ES": "Caballero : Yo…… siempre estaré junto a vos para serviros, princesa."
+        "pt-BR": "Cavaleiro: Eu... sempre servirei ao seu lado, princesa.",
+        "es-ES": "Caballero : Yo...... siempre estaré junto a vos para serviros, princesa."
     },
     "EbZKDQ": {
         "en-US": "[Princess]\nYes. You will always be by my side.",
@@ -416,13 +416,13 @@
     },
     "E7ZKDQ": {
         "en-US": "[Knight]\n.......",
-        "pt-BR": "[Cavaleiro]\n…….",
-        "es-ES": "[Caballero]\n……."
+        "pt-BR": "[Cavaleiro]\n.......",
+        "es-ES": "[Caballero]\n......."
     },
     "FLZKDQ": {
         "en-US": "Knight : .......",
-        "pt-BR": "Cavaleiro : …….",
-        "es-ES": "Caballero : ……."
+        "pt-BR": "Cavaleiro : .......",
+        "es-ES": "Caballero : ......."
     },
     "FbZKDQ": {
         "en-US": "[Princess]\nSakray, I think I shall speak to myself for a while.",
@@ -506,13 +506,13 @@
     },
     "JbZKDQ": {
         "en-US": "[Princess]\n.......",
-        "pt-BR": "[Princesa]\n…….",
-        "es-ES": "[Princesa]\n……."
+        "pt-BR": "[Princesa]\n.......",
+        "es-ES": "[Princesa]\n......."
     },
     "JrZKDQ": {
         "en-US": "Princess : .......",
-        "pt-BR": "Princesa : …….",
-        "es-ES": "Princesa : ……."
+        "pt-BR": "Princesa : .......",
+        "es-ES": "Princesa : ......."
     },
     "J7ZKDQ": {
         "en-US": "[Princess]\nI should not let my soliloquy grow too long.\nSakray.",
@@ -556,13 +556,13 @@
     },
     "L7ZKDQ": {
         "en-US": "[Princess]\nSakray.......",
-        "pt-BR": "[Princesa]\nSakray…….",
-        "es-ES": "[Princesa]\nSakray……."
+        "pt-BR": "[Princesa]\nSakray.......",
+        "es-ES": "[Princesa]\nSakray......."
     },
     "MLZKDQ": {
         "en-US": "Princess : Sakray.......",
-        "pt-BR": "Princesa: Sakray…….",
-        "es-ES": "Princesa : Sakray……."
+        "pt-BR": "Princesa: Sakray.......",
+        "es-ES": "Princesa : Sakray......."
     },
     "MbZKDQ": {
         "en-US": "[???]\nWhen the old, broken piano key was pressed, it sadly produced a dull sound.",
@@ -691,13 +691,13 @@
     },
     "SrZKDQ": {
         "en-US": "[Magic Swordsman]\n...How noisy. I will return as you wish.",
-        "pt-BR": "[Espadachim Mágico]\n…Quanto barulho. Voltarei como deseja.",
-        "es-ES": "[Espadachín mágico]\n……Qué ruidosa eres. Volveré como deseas."
+        "pt-BR": "[Espadachim Mágico]\n...Quanto barulho. Voltarei como deseja.",
+        "es-ES": "[Espadachín mágico]\n......Qué ruidosa eres. Volveré como deseas."
     },
     "S7ZKDQ": {
         "en-US": "Magic Swordsman : ...How noisy. I will return as you wish.",
-        "pt-BR": "Espadachim Mágico : …Quanto barulho. Voltarei como deseja.",
-        "es-ES": "Espadachín mágico : ……Qué ruidosa eres. Volveré como deseas."
+        "pt-BR": "Espadachim Mágico : ...Quanto barulho. Voltarei como deseja.",
+        "es-ES": "Espadachín mágico : ......Qué ruidosa eres. Volveré como deseas."
     },
     "TLZKDQ": {
         "en-US": "[???]\nHmm~ I saw the contractor of the magic sword Tartanos and followed him, but is this an interesting matter?",
@@ -721,13 +721,13 @@
     },
     "ULZKDQ": {
         "en-US": "[???]\nTo use it in creating a new Amdarais... not quite.",
-        "pt-BR": "[???]\nPara usar na criação de um novo Amdarais… não serve muito.",
-        "es-ES": "[???]\nPara usarlo en la creación de un nuevo Amdarais…… no mucho."
+        "pt-BR": "[???]\nPara usar na criação de um novo Amdarais... não serve muito.",
+        "es-ES": "[???]\nPara usarlo en la creación de un nuevo Amdarais...... no mucho."
     },
     "UbZKDQ": {
         "en-US": "??? : To use it in creating a new Amdarais... not quite.",
-        "pt-BR": "??? : Para usar na criação de um novo Amdarais… não serve muito.",
-        "es-ES": "??? : Para usarlo en la creación de un nuevo Amdarais…… no mucho."
+        "pt-BR": "??? : Para usar na criação de um novo Amdarais... não serve muito.",
+        "es-ES": "??? : Para usarlo en la creación de un nuevo Amdarais...... no mucho."
     },
     "UrZKDQ": {
         "en-US": "[???]\nBut as a Valkyrie of the dead, it would be no fun to simply leave, so shall I give the dead a gift~",
@@ -776,13 +776,13 @@
     },
     "W7ZKDQ": {
         "en-US": "[Princess]\n...This is the underground tomb of the royal palace? My body... Why, ugh. My memory...",
-        "pt-BR": "[Princesa]\n…Aqui é a tumba subterrânea do palácio? Meu corpo… Por quê, ugh. Minhas memórias…",
-        "es-ES": "[Princesa]\n……¿Esto es la tumba subterránea del palacio? Mi cuerpo…… ¿por qué? Uf. Mis recuerdos……."
+        "pt-BR": "[Princesa]\n...Aqui é a tumba subterrânea do palácio? Meu corpo... Por quê, ugh. Minhas memórias...",
+        "es-ES": "[Princesa]\n......¿Esto es la tumba subterránea del palacio? Mi cuerpo...... ¿por qué? Uf. Mis recuerdos......."
     },
     "XLZKDQ": {
         "en-US": "Princess : ...This is the underground tomb of the royal palace? My body... Why, ugh. My memory...",
-        "pt-BR": "Princesa: …Aqui é a tumba subterrânea do palácio? Meu corpo… Por quê, ugh. Minhas memórias…",
-        "es-ES": "Princesa : ……¿Esto es la tumba subterránea del palacio? Mi cuerpo…… ¿por qué? Uf. Mis recuerdos……."
+        "pt-BR": "Princesa: ...Aqui é a tumba subterrânea do palácio? Meu corpo... Por quê, ugh. Minhas memórias...",
+        "es-ES": "Princesa : ......¿Esto es la tumba subterránea del palacio? Mi cuerpo...... ¿por qué? Uf. Mis recuerdos......."
     },
     "XbZKDQ": {
         "en-US": "[Marquis]\nYour Highness? Ho, you have regained your senses.",
@@ -826,13 +826,13 @@
     },
     "ZbZKDQ": {
         "en-US": "[Marquis]\nMost... no, everyone except you and me has lost their reason and is attacking one another.",
-        "pt-BR": "[Marquês]\nA maioria… Não, todos, exceto eu e a senhorita, princesa, perderam a razão e estão atacando uns aos outros.",
-        "es-ES": "[Marqués]\nLa mayoría…… no, todos excepto vos y yo hemos perdido la razón y nos atacamos entre nosotros."
+        "pt-BR": "[Marquês]\nA maioria... Não, todos, exceto eu e a senhorita, princesa, perderam a razão e estão atacando uns aos outros.",
+        "es-ES": "[Marqués]\nLa mayoría...... no, todos excepto vos y yo hemos perdido la razón y nos atacamos entre nosotros."
     },
     "ZrZKDQ": {
         "en-US": "Marquis : Most... no, everyone except you and me has lost their reason and is attacking one another.",
-        "pt-BR": "Marquês : A maioria… Não, todos, exceto eu e a senhorita, princesa, perderam a razão e estão atacando uns aos outros.",
-        "es-ES": "Marqués : La mayoría…… no, todos excepto vos y yo hemos perdido la razón y nos atacamos entre nosotros."
+        "pt-BR": "Marquês : A maioria... Não, todos, exceto eu e a senhorita, princesa, perderam a razão e estão atacando uns aos outros.",
+        "es-ES": "Marqués : La mayoría...... no, todos excepto vos y yo hemos perdido la razón y nos atacamos entre nosotros."
     },
     "Z7ZKDQ": {
         "en-US": "[Princess]\nWhy? Why have we died, yet cannot even find rest?",
@@ -866,23 +866,23 @@
     },
     "bbZKDQ": {
         "en-US": "[Princess]\n...Sakray... He is not at fault.",
-        "pt-BR": "[Princesa]\n…Sakray… Ele não tem culpa.",
-        "es-ES": "[Princesa]\n……Sakray…… él no tiene la culpa."
+        "pt-BR": "[Princesa]\n...Sakray... Ele não tem culpa.",
+        "es-ES": "[Princesa]\n......Sakray...... él no tiene la culpa."
     },
     "brZKDQ": {
         "en-US": "Princess : ...Sakray... He is not at fault.",
-        "pt-BR": "Princesa: …Sakray… Ele não tem culpa.",
-        "es-ES": "Princesa : ……Sakray…… él no tiene la culpa."
+        "pt-BR": "Princesa: ...Sakray... Ele não tem culpa.",
+        "es-ES": "Princesa : ......Sakray...... él no tiene la culpa."
     },
     "b7ZKDQ": {
         "en-US": "[Marquis]\nHaha! What a joke. ...Well, I understand your position, princess.",
-        "pt-BR": "[Marquês]\nHaha! Que piada. …Bem, entendo a posição da senhorita.",
-        "es-ES": "[Marqués]\n¡Ja, ja! Vaya broma. ……Bueno, comprendo vuestra postura, princesa."
+        "pt-BR": "[Marquês]\nHaha! Que piada. ...Bem, entendo a posição da senhorita.",
+        "es-ES": "[Marqués]\n¡Ja, ja! Vaya broma. ......Bueno, comprendo vuestra postura, princesa."
     },
     "cLZKDQ": {
         "en-US": "Marquis : Haha! What a joke. ...Well, I understand your position, princess.",
-        "pt-BR": "Marquês: Haha! Que piada. …Bem, entendo a posição da senhorita.",
-        "es-ES": "Marqués : ¡Ja, ja! Vaya broma. ……Bueno, comprendo vuestra postura, princesa."
+        "pt-BR": "Marquês: Haha! Que piada. ...Bem, entendo a posição da senhorita.",
+        "es-ES": "Marqués : ¡Ja, ja! Vaya broma. ......Bueno, comprendo vuestra postura, princesa."
     },
     "cbZKDQ": {
         "en-US": "[Princess]\nMarquis, I intend to go ask someone for help.",
@@ -906,13 +906,13 @@
     },
     "dbZKDQ": {
         "en-US": "[Princess]\nEven if this repeats endlessly... I will continue searching endlessly.",
-        "pt-BR": "[Princesa]\nMesmo que isso se repita sem fim… continuarei procurando sem parar.",
-        "es-ES": "[Princesa]\nAunque esto se repita sin fin…… seguiré buscando ayuda sin descanso."
+        "pt-BR": "[Princesa]\nMesmo que isso se repita sem fim... continuarei procurando sem parar.",
+        "es-ES": "[Princesa]\nAunque esto se repita sin fin...... seguiré buscando ayuda sin descanso."
     },
     "drZKDQ": {
         "en-US": "Princess : Even if this repeats endlessly... I will continue searching endlessly.",
-        "pt-BR": "Princesa: Mesmo que isso se repita sem fim… continuarei procurando sem parar.",
-        "es-ES": "Princesa : Aunque esto se repita sin fin…… seguiré buscando ayuda sin descanso."
+        "pt-BR": "Princesa: Mesmo que isso se repita sem fim... continuarei procurando sem parar.",
+        "es-ES": "Princesa : Aunque esto se repita sin fin...... seguiré buscando ayuda sin descanso."
     },
     "d7ZKDQ": {
         "en-US": "[Marquis]\nThe previous you said the same thing, princess. It seems you truly intend to keep searching endlessly.",
@@ -926,13 +926,13 @@
     },
     "ebZKDQ": {
         "en-US": "[Princess]\nSo, Marquis, if I harm you again, then... you understand, yes?",
-        "pt-BR": "[Princesa]\nEntão, marquês, se eu voltar a causar mal a você… sabe o que fazer, certo?",
-        "es-ES": "[Princesa]\nAsí que, marqués, si vuelvo a haceros daño otra vez, ……sabéis qué hacer, ¿verdad?"
+        "pt-BR": "[Princesa]\nEntão, marquês, se eu voltar a causar mal a você... sabe o que fazer, certo?",
+        "es-ES": "[Princesa]\nAsí que, marqués, si vuelvo a haceros daño otra vez, ......sabéis qué hacer, ¿verdad?"
     },
     "erZKDQ": {
         "en-US": "Princess : So, Marquis, if I harm you again, then... you understand, yes?",
-        "pt-BR": "Princesa: Então, marquês, se eu voltar a causar mal a você… sabe o que fazer, certo?",
-        "es-ES": "Princesa : Así que, marqués, si vuelvo a haceros daño otra vez, ……sabéis qué hacer, ¿verdad?"
+        "pt-BR": "Princesa: Então, marquês, se eu voltar a causar mal a você... sabe o que fazer, certo?",
+        "es-ES": "Princesa : Así que, marqués, si vuelvo a haceros daño otra vez, ......sabéis qué hacer, ¿verdad?"
     },
     "e7ZKDQ": {
         "en-US": "[Marquis]\nI will help you find rest, however brief it may be.",

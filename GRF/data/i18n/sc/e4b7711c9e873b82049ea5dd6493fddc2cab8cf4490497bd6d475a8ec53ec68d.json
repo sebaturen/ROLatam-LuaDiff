@@ -55,6 +55,8 @@
         "es-ES": "[Macaron]\n¡Vuelve pronto!\nNo estaré aquí para siempre."
     },
     "q87pAQ": {
-        "en-US": "- You have too many items, -\nPlease organize your items and try again."
+        "en-US": "- You have too many items, -\nPlease organize your items and try again.",
+        "pt-BR": "- Reorganize seu inventário e -\n- tente novamente mais tarde -",
+        "es-ES": "Tienes demasiados objetos y no puedo darte más.\n¡Vuelve cuando tengas espacio!"
     }
 }

@@ -22,26 +22,22 @@ RecommendedQuestInfoList = {
 			"^ff0000 Esta no es la página de misiones en sí, sino una introducción a la misma. No se borrará, incluso si completas la misión.^000000"
 		}
 	},
-	[2] = {
-		Title = "Episodio 17.2: El Legado del Sabio",
-		IconName = "ico_ep.bmp",
-		Summary = "Para no quedarte atrás del grupo de avanzada...",
-		NpcSpr = "4_M_ROOKIE",
-		NpcNavi = "sp_cor",
-		NpcPosX = 255,
-		NpcPosY = 285,
-		BgName = "reco_03.bmp",
+	[10000] = {
+		Title = "Lugar del accidente de la aeronave",
+		IconName = "ico_sc.bmp",
+		Summary = "Historia del lugar donde se estrelló la aeronave",
+		NpcSpr = "4_M_FAIRYANG",
+		BgName = "reco_10000.bmp",
 		QuestInfo1 = {
-			"¡Por fin se ha abierto el paso a la mansión Varmunt!",
-			"Únete a la Rebelión, Viento Secreto y Rekenber para investigar a Ilusión."
+			"A través de <NAVI>[Grieta dimensional]<INFO>dali02,137,86,0,101,0</INFO></NAVI> que un Laphine encontró por casualidad,",
+			"los aventureros pudieron llegar al lugar donde se estrelló la aeronave. Exploremos la cavidad ahora olvidada que se descubrió allí."
 		},
 		QuestInfo2 = {
-			"Requisitos:",
-			"Completar el ^990000Episodio 17.1^000000",
-			"Nivel ^990000130 o superior^000000"
+			"Condiciones de acceso",
+			"Aventureros de ^990000nivel 215 o superior^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000× Anuncio de actualización.^000000"
+			"^ff0000* Esta página es una presentación de la actualización, no una misión. Ten en cuenta que no se eliminará aunque completes la misión.^000000"
 		}
 	},
 	[84] = {

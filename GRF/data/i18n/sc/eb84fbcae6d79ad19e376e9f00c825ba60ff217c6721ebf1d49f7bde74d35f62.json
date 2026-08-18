@@ -1,23 +1,23 @@
 {
     "QJtEDQ": {
         "en-US": "Box Open - Move",
-        "pt-BR": "Abrir caixa - mover",
-        "es-ES": "Apertura de caja - movimiento"
+        "pt-BR": "Abrir baú",
+        "es-ES": "Apertura de Caja - Movimiento"
     },
     "QZtEDQ": {
         "en-US": "Floor 75 Developer Mode ver3.1",
         "pt-BR": "Modo de desenvolvedor do 75º andar ver. 3.1",
-        "es-ES": "Modo desarrollador planta 75 ver. 3.1"
+        "es-ES": "Modo Desarrollador piso 75 ver3.1"
     },
     "QptEDQ": {
         "en-US": "Floor 75 Test Mode",
         "pt-BR": "Modo de teste do 75º andar",
-        "es-ES": "Modo de prueba planta 75"
+        "es-ES": "Modo de Prueba piso 75"
     },
     "Q5tEDQ": {
         "en-US": "Difficulty Score - ^FFFFFF\nHP - ^FFFFFF\nPower - ^FFFFFF\nRecovery - ^FFFFFF\nBarrier - ^FFFFFF\nTrap - ^FFFFFF",
         "pt-BR": "Pontuação de dificuldade - ^FFFFFF\nHP - ^FFFFFF\nForça - ^FFFFFF\nRecuperação - ^FFFFFF\nBarreira - ^FFFFFF\nArmadilha - ^FFFFFF",
-        "es-ES": "Puntuación de dificultad - ^FFFFFF\nVida - ^FFFFFF\nFuerza - ^FFFFFF\nRecuperación - ^FFFFFF\nBarrera - ^FFFFFF\nTrampas - ^FFFFFF"
+        "es-ES": "Puntuación de dificultad - ^FFFFFF\nVida - ^FFFFFF\nFuerza - ^FFFFFF\nRecuperación - ^FFFFFF\nBarrera - ^FFFFFF\nTrampa - ^FFFFFF"
     },
     "RJtEDQ": {
         "en-US": "HP",
@@ -42,7 +42,7 @@
     "SJtEDQ": {
         "en-US": "Trap",
         "pt-BR": "Armadilha",
-        "es-ES": "Trampas"
+        "es-ES": "Trampa"
     },
     "SZtEDQ": {
         "en-US": "Move to Fountain",
@@ -52,7 +52,7 @@
     "SptEDQ": {
         "en-US": "That was not bad for warming up. Not bad at all.",
         "pt-BR": "Não foi ruim para aquecer. Você é bastante capaz.",
-        "es-ES": "No ha estado mal para calentar. Lo habéis hecho bastante bien."
+        "es-ES": "No ha estado mal para calentar. Bastante bien."
     },
     "S5tEDQ": {
         "en-US": "betel_0",
@@ -72,37 +72,37 @@
     "TptEDQ": {
         "en-US": "[Leticia]\nI wondered who it was, and it was you, rude little one.",
         "pt-BR": "[Letícia]\nEntão era você, seu sujeitinho insolente.",
-        "es-ES": "[Leticia]\nMe preguntaba quién era, y eras tú, ser maleducado."
+        "es-ES": "[Leticia]\nMe preguntaba quién era, y eras tú, pequeña maleducado."
     },
     "T5tEDQ": {
         "en-US": "[Betelgeuse]\nWell, who do we have here? You still have not broken that habit of appearing whenever my mood is less than pleasant, Leticia.",
         "pt-BR": "[Betelgeuse]\nOra, quem diria. Você ainda não perdeu o hábito de aparecer sempre que meu humor está péssimo, Letícia.",
-        "es-ES": "[Betelgeuse]\nVaya, mira quién está aquí. Sigues sin corregir esa costumbre de aparecer cada vez que mi humor no es precisamente agradable, Leticia."
+        "es-ES": "[Betelgeuse]\nVaya, mira quién está aquí. Sigues sin corregir esa costumbre de aparecer cada vez que no estoy particularmente de buen humor, Leticia."
     },
     "UJtEDQ": {
         "en-US": "[Leticia]\nHa~ I see. And what could have made such an esteemed person, whom I have not seen in so long, so displeased?",
         "pt-BR": "[Letícia]\nAh~ é mesmo? E por que será que uma pessoa tão ilustre, que vejo depois de tanto tempo, está de tão mau humor?",
-        "es-ES": "[Leticia]\nAh~ conque era eso. Me pregunto por qué una persona tan distinguida, a quien hacía tanto que no veía, estará de tan mal humor."
+        "es-ES": "[Leticia]\nAh, eso era. Me pregunto por qué una persona tan distinguida, a quien hacía tanto que no veía, estará de tan mal humor."
     },
     "UZtEDQ": {
         "en-US": "[Betelgeuse]\nI would prefer that our red outsider concern herself less with my mood and quietly leave~",
-        "pt-BR": "[Betelgeuse]\nSeria melhor que nossa forasteira vermelha não se preocupasse tanto com meu humor e se retirasse em silêncio~",
-        "es-ES": "[Betelgeuse]\nMe gustaría que nuestra forastera roja no se interesara tanto por el humor de uno y se retirara en silencio~"
+        "pt-BR": "[Betelgeuse]\nSeria melhor que nossa estrangeira vermelha não se preocupasse tanto com meu humor e saísse em silêncio~",
+        "es-ES": "[Betelgeuse]\nMe gustaría que nuestra forastera roja no se interesara tanto por el humor de uno y se retirara en silencio."
     },
     "UptEDQ": {
         "en-US": "[Leticia]\nOh my~ Of course. You had a contest of strength with a mere ^0000FFhuman^000000 and lost, so no wonder.",
         "pt-BR": "[Letícia]\nNossa~ claro que sim. Afinal, você disputou força com nada menos que um ^0000FFhumano^000000 e perdeu. Deve estar inconsolável.",
-        "es-ES": "[Leticia]\nAy~ claro que sí. Después de forcejear nada menos que con ^0000FFhumanos^000000 y perder, normal que esté así."
+        "es-ES": "[Leticia]\nAy, claro, ahora entiendo. Tuviste un enfrentamiento con simples ^0000FFhumanos^000000 y perdiste. Entiendo que estés así."
     },
     "U5tEDQ": {
         "en-US": "[Betelgeuse]\nI was simply a little tired from making a lair here. Naturally, I was going easy on them. I cannot let that remark pass, even as a joke.",
         "pt-BR": "[Betelgeuse]\nEu só estava um pouco cansado por criar um covil aqui. É claro que peguei leve. Nem como piada dá para deixar passar o que você acabou de dizer.",
-        "es-ES": "[Betelgeuse]\nSolo estaba un poco cansado de preparar una guarida aquí. Por supuesto, les di ventaja. Eso que acabas de decir no puedo pasarlo por alto ni como broma."
+        "es-ES": "[Betelgeuse]\nSolo estaba un poco cansado de preparar un escondite aquí. Por supuesto, les di ventaja. Eso que acabas de decir no puedo pasarlo por alto ni como broma."
     },
     "VJtEDQ": {
         "en-US": "[Leticia]\nDid I hear that correctly? Did you just say you were making a lair?",
         "pt-BR": "[Letícia]\nEu ouvi direito? Você disse que estava criando um covil?",
-        "es-ES": "[Leticia]\n¿He oído bien? ¿Acabas de decir que estabas preparando una guarida?"
+        "es-ES": "[Leticia]\n¿He oído bien? ¿Acabas de decir que estabas preparando un escondite?"
     },
     "VZtEDQ": {
         "en-US": "[Betelgeuse]\nYou heard correctly. I am glad your ears still seem to be working.",
@@ -117,17 +117,17 @@
     "V5tEDQ": {
         "en-US": "[Betelgeuse]\nIs that something I absolutely need to know? You know I dislike troublesome matters.",
         "pt-BR": "[Betelgeuse]\nIsso é algo que eu preciso mesmo saber? Você sabe que eu odeio coisas incômodas, não sabe?",
-        "es-ES": "[Betelgeuse]\n¿Es algo que deba saber necesariamente? Sabes que no me gustan las molestias, ¿verdad?"
+        "es-ES": "[Betelgeuse]\n¿Es algo que deba saber necesariamente? Sabes que no me gusta andar buscando problemas, ¿verdad?"
     },
     "WJtEDQ": {
         "en-US": "[Oscar]\nI see. So our Bebe truly did hate troublesome matters. That is why you did not contact me for over 400 years. I never realized you were such a troublesome child.",
-        "pt-BR": "[Oscar]\nEntendo. Então nosso Bebê realmente detestava coisas incômodas. Por isso passou mais de 400 anos sem entrar em contato. Eu não sabia que você era uma criança tão cheia de preguiça.",
-        "es-ES": "[Oscar]\nYa veo. Nuestro Bebe odiaba de verdad las molestias. Por eso no se puso en contacto conmigo en más de 400 años. No me había dado cuenta de que era un niño tan perezoso."
+        "pt-BR": "[Oscar]\nEntendo. Então nosso Bebê realmente detestava coisas incômodas. Por isso passou mais de 400 anos sem entrar em contato. Eu não sabia que você era uma criança tão problemática.",
+        "es-ES": "[Oscar]\nYa veo. Así que nuestro Bebe de verdad odiaba andar buscando problemas. Por eso no te pusiste en contacto conmigo por más de 400 años. No me había dado cuenta de que eras un niño tan problemático."
     },
     "WZtEDQ": {
         "en-US": "[Betelgeuse]\nWho is it? Who dares call this body's childhood name so fearlessly... It has been centuries since I felt such bewilderment.",
         "pt-BR": "[Betelgeuse]\nQuem é? Quem ousa chamar este corpo pelo nome de infância sem medo... Faz séculos que não sinto tamanho constrangimento.",
-        "es-ES": "[Betelgeuse]\n¿Quién es? ¿Quién se atreve a llamar sin miedo a este cuerpo por su nombre de infancia...? Hacía siglos que no sentía este desconcierto."
+        "es-ES": "[Betelgeuse]\n¿Quién es? ¿Quién se atreve a llamar sin miedo a este cuerpo por su nombre de infancia...? Hacía siglos que no me pasaba esto."
     },
     "WptEDQ": {
         "en-US": "[Oscar]\nI know. After so much time, I am touched that you still remember your childhood name, regardless of all the years spent without contact.",
@@ -137,7 +137,7 @@
     "W5tEDQ": {
         "en-US": "[Betelgeuse]\n[^774477What is this? This familiar voice. The fear my body instinctively senses. This awe. Why is this happening? After countless ages, had I not forgotten the emotion called fear?^000000]",
         "pt-BR": "[Betelgeuse]\n[^774477O que é isso? Essa voz familiar. O medo que meu corpo sente instintivamente. Reverência. Por que estou assim? Depois de eras incontáveis, eu não havia esquecido a emoção chamada medo?^000000]",
-        "es-ES": "[Betelgeuse]\n[^774477¿Qué es esto? Esa voz familiar. Este miedo que mi cuerpo percibe por instinto. Esta reverencia. ¿Por qué me ocurre esto? ¿Acaso no había olvidado el sentimiento del miedo tras pasar eras incontables?^000000]"
+        "es-ES": "[Betelgeuse]\n[^774477¿Qué es esto? Esa voz familiar. Este miedo que mi cuerpo percibe por instinto. Esta reverencia. ¿Por qué me ocurre esto? ¿Acaso no había olvidado el sentimiento del miedo después de incontables eras?^000000]"
     },
     "XJtEDQ": {
         "en-US": "[Leticia]\nYou are saying exactly what you are thinking out loud.",
@@ -162,12 +162,12 @@
     "YJtEDQ": {
         "en-US": "[Leticia]\nLord Oscar... Please... do not be too angry and hear him out. It seems Betelgeuse wants to make his new lair here. Haha... Well, since he has nowhere else to go, perhaps it cannot be helped?",
         "pt-BR": "[Letícia]\nSenhor Oscar... é... por favor, não fique tão furioso e escute. Parece que Betelgeuse quer fazer seu novo covil aqui. Haha... bem, ele não tem para onde ir, então talvez não tenha jeito?",
-        "es-ES": "[Leticia]\nSeñor Oscar... esto... escúcheme sin enfadarse demasiado. Parece que Betelgeuse quería hacer aquí su nueva guarida. Ja, ja... bueno, como no tiene adónde ir, quizá no podía evitarlo."
+        "es-ES": "[Leticia]\nSeñor Oscar... esto... escúcheme sin enfadarse demasiado. Parece que Betelgeuse quería hacer aquí su nuevo escondite. Ja, ja... bueno, como no tiene adónde ir, quizá no podía evitarlo."
     },
     "YZtEDQ": {
         "en-US": "[Oscar]\nWhat? A lair here?... Are you serious, Betelgeuse?",
         "pt-BR": "[Oscar]\nO quê? Um covil aqui?... Você está falando sério, Betelgeuse?",
-        "es-ES": "[Oscar]\n¿Qué? ¿Una guarida aquí?... ¿Lo dices en serio, Betelgeuse?"
+        "es-ES": "[Oscar]\n¿Qué? ¿Un escondite aquí?... ¿Lo dices en serio, Betelgeuse?"
     },
     "YptEDQ": {
         "en-US": "[Betelgeuse]\n^888888I am doomed. That is definitely Lord Oscar's face when he is absolutely furious. How many thousands of years will I be punished by having my age turned back? Three thousand? Four thousand??^000000",
@@ -196,7 +196,7 @@
     },
     "Z5tEDQ": {
         "en-US": "[Leticia]\nLord Oscar, then are you simply going to forgive what Betelgeuse has done?",
-        "pt-BR": "[Letícia]\nSenhor Oscar, então vai simplesmente perdoar o que Betelgeuse fez?",
+        "pt-BR": "[Letícia]\nSenhor Oscar, vai simplesmente perdoar o que Betelgeuse fez?",
         "es-ES": "[Leticia]\nSeñor Oscar, entonces ¿va a perdonar sin más lo que ha hecho Betelgeuse?"
     },
     "aJtEDQ": {
@@ -206,13 +206,13 @@
     },
     "aZtEDQ": {
         "en-US": "[Betelgeuse]\nOf course. Say anything you wish. I will gladly accept anything... as long as it does not involve turning back my age!",
-        "pt-BR": "[Betelgeuse]\nComo eu poderia recusar? Diga o que quiser. Eu aceitarei qualquer coisa de bom grado, desde que... não volte minha idade para trás!",
-        "es-ES": "[Betelgeuse]\n¿Cómo podría negarme? Dígame lo que quiera. Mientras no sea devolver mi edad hacia atrás, ¡aceptaré cualquier cosa con gusto!"
+        "pt-BR": "[Betelgeuse]\nComo eu poderia recusar? Diga o que quiser. Eu aceitarei qualquer coisa de bom grado, desde que... não volte minha idade!",
+        "es-ES": "[Betelgeuse]\n¿Cómo podría negarme? Dígame lo que quiera. Mientras no sea hacerme perder años de edad, ¡aceptaré cualquier cosa con gusto!"
     },
     "aptEDQ": {
         "en-US": "[Oscar]\nGood. Then for now, I will acknowledge this place as your lair. In return, make sure the monsters here are kept bound so they do not flee outside and reach human villages.",
         "pt-BR": "[Oscar]\nÓtimo. Então, por enquanto, vou reconhecer este lugar como seu covil. Em troca, mantenha os monstros daqui bem contidos para que não fujam para fora e cheguem às cidades humanas.",
-        "es-ES": "[Oscar]\nBien. Entonces, de momento, reconoceré este lugar como tu guarida. A cambio, asegúrate de mantener bien atados a los monstruos de aquí para que no escapen al exterior ni lleguen a las aldeas humanas."
+        "es-ES": "[Oscar]\nBien. Entonces, de momento, reconoceré este lugar como tu escondite. A cambio, asegúrate de mantener bien atados a los monstruos de aquí para que no escapen al exterior ni lleguen a las aldeas humanas."
     },
     "a5tEDQ": {
         "en-US": "[Betelgeuse]\nIf that is all, I can certainly do it!",
@@ -227,21 +227,21 @@
     "bZtEDQ": {
         "en-US": "[Betelgeuse]\nTh... that is... No, I accept, Lord Oscar. However, I have one request as well.",
         "pt-BR": "[Betelgeuse]\nI-isso... Não, eu aceito, senhor Oscar. Porém, também tenho um pedido.",
-        "es-ES": "[Betelgeuse]\nE... eso... No, lo aceptaré, señor Oscar. Pero yo también tengo una petición."
+        "es-ES": "[Betelgeuse]\nE... eso... Está bien, lo aceptaré, señor Oscar. Pero yo también tengo una petición."
     },
     "bptEDQ": {
         "en-US": "[Oscar]\nVery well. Say anything, as long as it does not anger me.",
         "pt-BR": "[Oscar]\nCerto, diga o que quiser. Desde que não me deixe furioso.",
-        "es-ES": "[Oscar]\nBien, di lo que quieras. Siempre que no me hagas enfadar."
+        "es-ES": "[Oscar]\nBien, dime qué quieres. Siempre que no me hagas enfadar."
     },
     "b5tEDQ": {
         "en-US": "[Betelgeuse]\nWould you allow me to occasionally compete with the adventurers who visit this place? It would be a great amusement for me...",
-        "pt-BR": "[Betelgeuse]\nPoderia permitir que eu, de vez em quando, enfrentasse os aventureiros que vierem aqui? Para mim, isso seria uma grande diversão...",
-        "es-ES": "[Betelgeuse]\n¿Podría pasar por alto que de vez en cuando me mida con los aventureros que vengan aquí? Para mí, eso sería un gran entretenimiento..."
+        "pt-BR": "[Betelgeuse]\nPoderia permitir que eu, de vez em quando, enfrentasse os viajantes que vierem aqui? Para mim, isso seria uma grande diversão...",
+        "es-ES": "[Betelgeuse]\n¿Podría pasar por alto que de vez en cuando me enfrente con los aventureros que vengan aquí? Para mí, eso sería un gran entretenimiento..."
     },
     "cJtEDQ": {
         "en-US": "[Oscar]\nI do not think that is for me to decide. Since an adventurer representative is here, let us ask. What do you think, Mr. {0}?",
-        "pt-BR": "[Oscar]\nAcho que isso não cabe a mim decidir. Já que temos aqui um representante dos aventureiros, vamos perguntar. O que você acha, {0}?",
+        "pt-BR": "[Oscar]\nAcho que isso não cabe a mim decidir. Já que temos aqui um representante dos viajantes, vamos perguntar. O que você acha, {0}?",
         "es-ES": "[Oscar]\nCreo que eso no me corresponde decidirlo a mí. Ya que tenemos aquí a alguien que representa a los aventureros, preguntémosle. ¿Qué opina, Sr. {0}?"
     },
     "cZtEDQ": {
@@ -251,13 +251,13 @@
     },
     "cptEDQ": {
         "en-US": "If we beat him down, he will give us a reward, right?",
-        "pt-BR": "Se derrubarmos esse sujeito, vamos receber recompensa, certo?",
-        "es-ES": "Si derribamos a ese tipo, recibiremos una recompensa, ¿verdad?"
+        "pt-BR": "Se derrubarmos esse sujeito, vamos receber uma recompensa, certo?",
+        "es-ES": "Si le ganamos a ese tipo, recibiremos una recompensa, ¿verdad?"
     },
     "c5tEDQ": {
         "en-US": "[Betelgeuse]\nOf course, I will give you humans a suitable reward for enjoying this amusement with me. That is, if you defeat me. Heh heh.",
-        "pt-BR": "[Betelgeuse]\nClaro. Darei uma recompensa justa por se divertirem comigo. Isso se conseguirem vencer de mim. Hehehe.",
-        "es-ES": "[Betelgeuse]\nPor supuesto, recompensaré debidamente el entretenimiento que disfrute con vosotros, humanos. Aunque será cuando logréis vencerme, je, je."
+        "pt-BR": "[Betelgeuse]\nClaro. Darei uma recompensa justa por se divertirem comigo. Isso se conseguirem me vencer. Hehehe.",
+        "es-ES": "[Betelgeuse]\nPor supuesto, recompensaré debidamente el entretenimiento que disfrute con ustedes, humanos. Aunque será cuando logren vencerme, je, je."
     },
     "dJtEDQ": {
         "en-US": "[Oscar]\nNeedless to say, whenever Mr. {0} visits, I will also attend to make sure you are not running wild, Betelgeuse. Keep that in mind.",
@@ -271,43 +271,43 @@
     },
     "dptEDQ": {
         "en-US": "[Oscar]\nNow then. It seems things are roughly settled, so I should return to town and calm things down. I will go ahead, so let us meet again next time. See you next time as well, Mr. {0}.",
-        "pt-BR": "[Oscar]\nEntão pronto. Parece que tudo foi mais ou menos resolvido, então vou voltar à cidade e acalmar as coisas. Vou indo primeiro. Nos vemos outra vez. Até a próxima, {0}.",
-        "es-ES": "[Oscar]\nBien, entonces. Parece que todo ha quedado más o menos resuelto, así que volveré a la ciudad y calmaré un poco las cosas. Iré por delante; nos vemos la próxima vez. Sr. {0}, nos veremos también."
+        "pt-BR": "[Oscar]\nEntão pronto. Parece que tudo foi mais ou menos resolvido. Vou voltar à cidade e acalmar as coisas. Vou na frente. Nós nos veremos outra vez. Até a próxima, {0}.",
+        "es-ES": "[Oscar]\nBien, entonces. Parece que todo ha quedado más o menos resuelto, así que volveré a la ciudad y calmaré un poco las cosas. Me voy a ir yo primero, así nos vemos la próxima vez. Sr. {0}, nos veremos también."
     },
     "d5tEDQ": {
         "en-US": "[Leticia]\nYou did quite well earlier. I liked you, human. We shall meet again.",
-        "pt-BR": "[Letícia]\nVocê foi muito bem agora há pouco. Gostei de você, humano. Nos veremos outra vez.",
-        "es-ES": "[Leticia]\nAntes lo has hecho bastante bien, humano. Me has gustado. Nos veremos de nuevo."
+        "pt-BR": "[Letícia]\nVocê foi muito bem agora há pouco. Gostei de você, humano. Nós nos veremos outra vez.",
+        "es-ES": "[Leticia]\nAntes lo has hecho bastante bien, humano. Me ha gustado. Nos veremos de nuevo."
     },
     "eJtEDQ": {
         "en-US": "^FF0000 You are carrying too many items to receive the reward. Reduce the items you are carrying, then speak again.^000000",
         "pt-BR": "^FF0000 Você está carregando itens demais para receber a recompensa. Reduza a quantidade de itens carregados e fale novamente.^000000",
-        "es-ES": "^FF0000 Llevas demasiados objetos que deberías recibir como recompensa. Reduce los objetos que llevas y vuelve a hablar.^000000"
+        "es-ES": "^FF0000 Llevas demasiados objetos para recibir la recompensa. Reduce los objetos que llevas y vuelve a hablar.^000000"
     },
     "eZtEDQ": {
         "en-US": "[Betelgeuse]\nThe exit is behind you.",
-        "pt-BR": "[Betelgeuse]\nA saída fica atrás.",
+        "pt-BR": "[Betelgeuse]\nA saída fica atrás de mim.",
         "es-ES": "[Betelgeuse]\nLa salida está al fondo."
     },
     "eptEDQ": {
         "en-US": "[Betelgeuse]\nYou are not a human I saw during the battle earlier. Were you hiding somewhere? The exit is behind you, so follow your companions.",
-        "pt-BR": "[Betelgeuse]\nNão vi você durante a batalha de antes. Estava escondido em algum lugar? A saída fica atrás, então siga seus companheiros.",
+        "pt-BR": "[Betelgeuse]\nNão vi você durante a batalha de antes. Estava escondido em algum lugar? A saída fica atrás de você, siga seus companheiros.",
         "es-ES": "[Betelgeuse]\n¿Un humano al que no vi durante el combate de antes? ¿Estabas escondido en algún sitio? La salida está al fondo, así que sigue a tus compañeros."
     },
     "e5tEDQ": {
         "en-US": "[Betelgeuse]\nThere should be a reward equal to the amusement you provided me. I have prepared something worthy of the trial you overcame, so take it.",
-        "pt-BR": "[Betelgeuse]\nDevo recompensá-lo por ter participado da minha diversão. Preparei algo digno das provações que você superou, então aceite.",
+        "pt-BR": "[Betelgeuse]\nDevo recompensá-lo por ter participado da minha diversão. Preparei algo digno das provações que você superou, aceite.",
         "es-ES": "[Betelgeuse]\nDebo recompensarte por haber participado en mi entretenimiento. He preparado algo acorde a la prueba que superaste, así que tómalo."
     },
     "fJtEDQ": {
         "en-US": "You are strong enough to be compared to my soul. I have prepared 3 souls, so take them.",
-        "pt-BR": "Você é forte o bastante para ser comparado à minha alma. Preparei 3 almas, então aceite-as.",
+        "pt-BR": "Você é forte o bastante para ser comparado à minha alma. Preparei 3 almas, aceite-as.",
         "es-ES": "Eres lo bastante fuerte como para compararte con mi alma. He preparado 3 almas, así que tómalas."
     },
     "fZtEDQ": {
         "en-US": "You entertained me enough for me to share about 2 of my souls with you. Continue to visit from time to time.",
-        "pt-BR": "Você me divertiu o bastante para que eu compartilhe umas 2 de minhas almas. Continue vindo me visitar de vez em quando.",
-        "es-ES": "Me has divertido lo suficiente como para compartir contigo unas 2 de mis almas. Ven a verme de vez en cuando."
+        "pt-BR": "Você me divertiu o bastante para que eu compartilhe umas 2 de minhas almas. Continue a me visitar de vez em quando.",
+        "es-ES": "Me has divertido lo suficiente como para compartir contigo 2 de mis almas. Ven a verme de vez en cuando."
     },
     "fptEDQ": {
         "en-US": "Hmm, I am in quite a pleasant mood, so I will give you 1 more soul than usual.",
@@ -321,7 +321,7 @@
     },
     "gJtEDQ": {
         "en-US": "Hmm, this is not normally allowed, but I am in a good mood today, so I will share one extra soul with you.",
-        "pt-BR": "Hmm, normalmente isso não seria permitido, mas hoje estou de bom humor, então compartilharei mais uma alma como bônus.",
+        "pt-BR": "Hmm, normalmente isso não seria permitido, mas hoje estou de bom humor e compartilharei mais uma alma como bônus.",
         "es-ES": "Mmm, normalmente no debería hacerlo, pero hoy estoy de buen humor, así que te daré un alma adicional."
     },
     "gZtEDQ": {
@@ -367,6 +367,6 @@
     "iZtEDQ": {
         "en-US": "Clear Count-{0} Stretched Betel-{1} Black Flame Lightning-{2} Wig-{3}",
         "pt-BR": "Conquistas-{0} Betel caído-{1} Raio Negro Flamejante-{2} Peruca-{3}",
-        "es-ES": "Veces completado-{0} Betel alargado-{1} Rayo de llamas negras-{2} Peluca-{3}"
+        "es-ES": "{0}-Veces completado Betel alargado-{1} Rayo de Llamas Negras-{2} Peluca-{3}"
     }
 }

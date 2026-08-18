@@ -461,7 +461,7 @@
     },
     "3NTh": {
         "en-US": "<<Assassin's Handcuffs[1]>>\nMSP + 20, CRI + 3. When equipping with Krishna, ATK + 50, ATK power from 'Sonic Blow' 50% increased, FLEE - 30. When equipping with Cakram CRI + 4, Critical ATK power 40% increased, MHP - 10%.\nAccessory / Def 3 / Weight 40 / Required Lv 100 / Socket 1 / for Guillotine Cross",
-        "pt-BR": "<<Algemas de Assassino[1]>>\nMSP + 20, CRI + 3. Ao equipar com Krishna, ATQ + 50, poder de ATQ do ''Golpe Sônico'' aumentado em 50%, FUGIR - 30. Ao equipar com Cakram, CRI + 4, poder de ATQ crítico aumentado em 40%, HPM - 10%.\nAcessório / Def 3 / Peso 40 / Requer Nv. 100 / Espaço 1 / para Sicário",
+        "pt-BR": "<<Algemas de Assassino[1]>>\nMSP + 20, CRI + 3. Ao equipar com Krishna, ATQ + 50, poder de ATQ de ''Lâminas Destruidoras'' aumentado em 50%, FUGIR - 30. Ao equipar com Cakram, CRI + 4, poder de ATQ crítico aumentado em 40%, HPM - 10%.\nAcessório / Def 3 / Peso 40 / Requer Nv. 100 / Espaço 1 / para Sicário",
         "es-ES": "<<Assassin's Handcuffs[1]>>\nPMM +20, CRÍT +3. Al equipar Krishna, ATQ +50, poder ATQ de Impacto sónico aumentado un 50 %, EVA -30. Al equipar Cakram, CRÍT +4, el poder de ATQ crítico aumenta un 40 %, HPM -10 %.\nAccesorio / Def 3 / Peso 40 / Nv. requerido 100 / Encaje 1 / para Cortador de cruces"
     },
     "3dTh": {
@@ -481,7 +481,7 @@
     },
     "4NTh": {
         "en-US": "<<Ancient Gold Decoration[1]>>\nIf the base Lv is 150, All State + 2. for Swordman, Merchant, Thief classes ATK + 8%, for Magician, Acolyte classes MATK + 8%, Heal Power + 7%, for Archer classes DEX + 3, Long Distance ATK power + 10%.\nHelm / Def 7 / Location - Upper / Weight 40 / Required Lv 100 / Socket 1 / for 3rd Job Classes",
-        "pt-BR": "<<Decoração de Ouro Antiga[1]>>\nSe o Nv. base for 150, Todas Estatísticas + 2. Para as classes Espadachim, Mercador, Ladrão ATQ + 8%, para as classes Mágico, Acólito ATQM + 8%, Poder de Cura + 7%, para as classes Arqueiro DES + 3, Poder de ATQ de Longa Distância + 10%.\nCapacete / Def 7 / Localização - Topo / Peso 40 / Requer Nv. 100 / Espaço 1 / para classes de 3º ofício",
+        "pt-BR": "<<Decoração de Ouro Antiga[1]>>\nSe o Nv. base for 150, Todas Estatísticas + 2. Para as classes Espadachim, Mercador, Ladrão ATQ + 8%, para as classes Mágico, Noviço ATQM + 8%, Poder de Cura + 7%, para as classes Arqueiro DES + 3, Poder de ATQ de Longa Distância + 10%.\nCapacete / Def 7 / Localização - Topo / Peso 40 / Requer Nv. 100 / Espaço 1 / para classes de 3º ofício",
         "es-ES": "<<Ancient Gold Decoration[1]>>\nSi el Nv. base es 150, Estado general +2. para los personajes del tipo Espadachín, Comerciante y Ladrón ATQ +8 %, para los personajes del tipo Mago, Acólito ATQM +8 %, Poder de curación +7 %, para los personajes del tipo Arquero DES +3, Poder ATQ a larga distancia +10 %.\nYelmo / Def 7 / Posición - Superior / Peso 40 / Nv. requerido 100 / Encaje 1 / para trabajos de tercera clase"
     },
     "4dTh": {
@@ -576,7 +576,7 @@
     },
     "89Th": {
         "en-US": "<<Bloody Cross[0]>>\nFor Physical Melee Attack, autocast 'Hell Inferno'(Lv 1) with a certain chance. The chance is affected by Refine Lv.\nMace / ATK 170 / Weight 150 / Darkness Property / Weapon Lv 4 / Required Lv 100 / Socket 0 / for High Acolyte Classes",
-        "pt-BR": "<<Cruz Sangrenta[0]>>\nPara ataques físicos corpo a corpo, conjura automaticamente ''Inferno Escaldante'' (Nv. 1) com uma certa chance. A chance é afetada pelo Nv. de Refinamento.\nMaça / ATQ 170 / Peso 150 / Propriedade Escuridão / Arma Nv. 4 / Requer Nv. 100 / Espaço 0 / para Acólito Nobre",
+        "pt-BR": "<<Cruz Sangrenta[0]>>\nPara ataques físicos corpo a corpo, conjura automaticamente ''Inferno Escaldante'' (Nv. 1) com uma certa chance. A chance é afetada pelo Nv. de Refinamento.\nMaça / ATQ 170 / Peso 150 / Propriedade Escuridão / Arma Nv. 4 / Requer Nv. 100 / Espaço 0 / para Noviço Nobre",
         "es-ES": "<<Bloody Cross[0]>>\nAl realizar un ataque físico cuerpo a cuerpo, lanza automáticamente Infierno abismal (Nv. 1) con una cierta probabilidad. La probabilidad depende del nivel de refinamiento.\nMaza / ATQ 170 / Peso 150 / Propiedad de Oscuridad / Arma Nv. 4 / Nv. 100 requerido / Encaje 0 / para Acólito superior"
     },
     "9NTh": {

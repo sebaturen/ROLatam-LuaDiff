@@ -1,0 +1,52 @@
+{
+    "YNtwDQ": {
+        "en-US": "Abandoned Vending Machine",
+        "pt-BR": "Máquina Abandonada",
+        "es-ES": "Máquina Abandonada"
+    },
+    "YdtwDQ": {
+        "en-US": "^FF0000It seems you are carrying too many types of items or too much weight to use the vending machine. Please organize your inventory.^000000",
+        "pt-BR": "^FF0000Parece que você possui muitos tipos de itens ou peso demais para usar a máquina. Organize seu inventário.^000000",
+        "es-ES": "^FF0000Parece que tienes demasiados tipos de objetos o demasiado peso para usar la máquina expendedora. Organiza tu inventario.^000000"
+    },
+    "YttwDQ": {
+        "en-US": "^9900FFIt is a vending machine crackling with static, looking as if it could shut down at any moment. It seems someone abandoned it.^000000",
+        "pt-BR": "^9900FFÉ uma máquina com chiados, parece que pode se quebrar a qualquer momento. Parece que alguém a abandonou.^000000",
+        "es-ES": "^9900FFEs una máquina expendedora que hace ruidos y parece a punto de apagarse en cualquier momento. Parece que alguien la abandonó.^000000"
+    },
+    "Y9twDQ": {
+        "en-US": "Do not touch it.",
+        "pt-BR": "Não tocar.",
+        "es-ES": "No tocarla."
+    },
+    "ZNtwDQ": {
+        "en-US": "Basic Product List",
+        "pt-BR": "Lista de produtos básicos",
+        "es-ES": "Lista de productos básicos"
+    },
+    "ZdtwDQ": {
+        "en-US": "Special Product List",
+        "pt-BR": "Lista de produtos especiais",
+        "es-ES": "Lista de productos especiales"
+    },
+    "ZttwDQ": {
+        "en-US": "Card Product List",
+        "pt-BR": "Lista de produtos de cartas",
+        "es-ES": "Lista de productos de cartas"
+    },
+    "Z9twDQ": {
+        "en-US": "^9900FFThe vending machine's lamp flickers nervously.^000000",
+        "pt-BR": "^9900FFA lâmpada da máquina pisca incessantemente.^000000",
+        "es-ES": "^9900FFLa lámpara de la máquina expendedora parpadea incesantemente.^000000"
+    },
+    "aNtwDQ": {
+        "en-US": "^003355It is a vending machine crackling with static, looking as if it could shut down at any moment. It seems someone abandoned it.^000000",
+        "pt-BR": "^003355É uma máquina com chiados, parece que pode se quebrar a qualquer momento. Parece que alguém a abandonou.^000000",
+        "es-ES": "^003355Es una máquina expendedora que hace ruidos y parece a punto de apagarse en cualquier momento. Parece que alguien la abandonó.^000000"
+    },
+    "adtwDQ": {
+        "en-US": "^003355The vending machine's lamp flickers nervously.^000000",
+        "pt-BR": "^003355A lâmpada da máquina pisca incessantemente.^000000",
+        "es-ES": "^003355La lámpara de la máquina expendedora parpadea incesantemente.^000000"
+    }
+}

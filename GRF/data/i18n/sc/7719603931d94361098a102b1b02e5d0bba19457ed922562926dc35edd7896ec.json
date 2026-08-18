@@ -1,0 +1,298 @@
+{
+    "wFRvDQ": {
+        "en-US": "[Gap Manager]\nRemove Cooldown + Set Re-entry",
+        "pt-BR": "[Administrador da Fenda]\nRemover tempo de espera + configurar reentrada",
+        "es-ES": "[Administrador de la Grieta]\nEliminar tiempo de espera + configurar reentrada"
+    },
+    "wVRvDQ": {
+        "en-US": "Remove Cooldown",
+        "pt-BR": "Remover tempo de espera",
+        "es-ES": "Eliminar tiempo de espera"
+    },
+    "wlRvDQ": {
+        "en-US": "Set Prerequisite Dialogue",
+        "pt-BR": "Definir diálogo inicial",
+        "es-ES": "Establecer conversación inicial"
+    },
+    "w1RvDQ": {
+        "en-US": "Reset Prerequisite Dialogue",
+        "pt-BR": "Redefinir diálogo inicial",
+        "es-ES": "Restablecer conversación inicial"
+    },
+    "xFRvDQ": {
+        "en-US": "Warning",
+        "pt-BR": "Aviso",
+        "es-ES": "Advertencia"
+    },
+    "xVRvDQ": {
+        "en-US": "Remove Cooldown + Set Re-entry",
+        "pt-BR": "Remover tempo de espera + configurar reentrada",
+        "es-ES": "Eliminar tiempo de espera + configurar reentrada"
+    },
+    "xlRvDQ": {
+        "en-US": "^FF0000[Scheduled for removal. Do not touch or use the portal.]^000000",
+        "pt-BR": "^FF0000[Previsto para remoção. Não toque ou utlize o portal]^000000",
+        "es-ES": "^FF0000[Programado para retirada. Prohibido tocar o usar el portal]^000000"
+    },
+    "x1RvDQ": {
+        "en-US": "Abandoned Portal",
+        "pt-BR": "Portal Abandonado",
+        "es-ES": "Portal Abandonado"
+    },
+    "yFRvDQ": {
+        "en-US": "^FF0000This portal is far too dangerous for you to touch. Step back.^000000",
+        "pt-BR": "^FF0000Este portal é perigoso demais para você tocar. Afaste-se.^000000",
+        "es-ES": "^FF0000Es un portal demasiado peligroso para que lo toques. Aléjate.^000000"
+    },
+    "yVRvDQ": {
+        "en-US": "^0000FFThis portal is sparking here and there. It is unclear whether it works.^000000",
+        "pt-BR": "^0000FFÉ um portal soltando faíscas aqui e ali. Não dá pra saber se está funcionando.^000000",
+        "es-ES": "^0000FFEs un portal del que saltan chispas por todas partes. No se sabe si funciona.^000000"
+    },
+    "ylRvDQ": {
+        "en-US": "This seems to be the unauthorized portal the gruff-looking man told you about. ^990000Interacting with this portal means implicitly agreeing to an illegal act.^000000 What will you do?",
+        "pt-BR": "Parece que este é o portal não autorizado que o Homem Carrancudo mencionou. ^990000Interagir com este portal significa estar ciente de que cometerá um ato ilegal.^000000 O que deseja fazer?",
+        "es-ES": "Parece que este es el portal no autorizado del que habló el Hombre Ceñudo. ^990000Interactuar con este portal implica aceptar tácitamente una actividad ilegal.^000000 ¿Qué harás?"
+    },
+    "y1RvDQ": {
+        "en-US": "Leave it alone.",
+        "pt-BR": "Deixar como está.",
+        "es-ES": "Dejarlo como está."
+    },
+    "zFRvDQ": {
+        "en-US": "Touch it.",
+        "pt-BR": "Tocar.",
+        "es-ES": "Tocarlo."
+    },
+    "zVRvDQ": {
+        "en-US": "You step back without even touching the portal.",
+        "pt-BR": "Você se afasta sem sequer tocar no portal.",
+        "es-ES": "Te alejas sin siquiera tocar el portal."
+    },
+    "zlRvDQ": {
+        "en-US": "With a click, you hear the low sound of an energy field around you. It seems the dimension the man illegally established has been activated.",
+        "pt-BR": "Com um clique, ouve-se o som baixo de um campo de energia ao seu redor. Parece que a dimensão construída ilegalmente pelo homem foi ativada.",
+        "es-ES": "Con un clic, se oye un sonido grave de un campo de energía a tu alrededor. Parece que la dimensión que el hombre creó ilegalmente se ha activado."
+    },
+    "z1RvDQ": {
+        "en-US": "Night Arena",
+        "pt-BR": "Arena Noturna",
+        "es-ES": "Arena Nocturna"
+    },
+    "0FRvDQ": {
+        "en-US": "^0000FF{0}^000000 Dimension Creation",
+        "pt-BR": "^0000FFCriação da dimensão {0}^000000",
+        "es-ES": "^0000FFCreación de la dimensión {0}^000000"
+    },
+    "0VRvDQ": {
+        "en-US": "^0000FFPlease form a party of at least 1 member before proceeding.^000000",
+        "pt-BR": "^0000FFForme um grupo com pelo menos 1 integrante para prosseguir.^000000",
+        "es-ES": "^0000FFForma un grupo de al menos 1 persona para seguir.^000000"
+    },
+    "0lRvDQ": {
+        "en-US": "^0000FFThe aftereffects of entering the dungeon have not disappeared. You cannot enter the dungeon during this time.",
+        "pt-BR": "^0000FFOs efeitos da entrada no calabouço ainda não se dissiparam. Você não poderá entrar no calabouço enquanto isso.",
+        "es-ES": "^0000FFLos efectos de la entrada a la mazmorra aún no han desaparecido. Durante este tiempo, no se puede acceder a la mazmorra."
+    },
+    "01RvDQ": {
+        "en-US": "^0000FFAll aftereffects of entering the dungeon have disappeared. You can now interact normally.^000000",
+        "pt-BR": "^0000FFTodas os efeitos da entrada no calabouço se dissiparam. Agora é possível interagir normalmente.^000000",
+        "es-ES": "^0000FFLos efectos de la entrada a la mazmorra han desaparecido. Ahora puedes interactuar con normalidad.^000000"
+    },
+    "1FRvDQ": {
+        "en-US": "--- Danger ---\nThis is a type of dungeon where the dimension collapses if all party members do not enter.",
+        "pt-BR": "--- Perigo ---\nEsta é uma instância em que a dimensão entra em colapso se alguém do grupo nãp emtrar.",
+        "es-ES": "--- Peligro ---\nEs una mazmorra de tipo dimensión que colapsa si no entran todos los miembros del grupo."
+    },
+    "1VRvDQ": {
+        "en-US": "Enter",
+        "pt-BR": "Entrar",
+        "es-ES": "Entrar"
+    },
+    "1lRvDQ": {
+        "en-US": "^FF0000An unknown error has occurred.^000000",
+        "pt-BR": "^FF0000Ocorreu um erro desconhecido.^000000",
+        "es-ES": "^FF0000Ha ocurrido un error desconocido.^000000"
+    },
+    "11RvDQ": {
+        "en-US": "^0000FFIt appears that the dungeon has not been created, or you are attempting to enter a different dungeon from the party leader.^000000",
+        "pt-BR": "^0000FFParece que o calabouço não foi criado ou você está tentando entrar em um calabouço diferente do líder do grupo.^000000",
+        "es-ES": "^0000FFParece que la mazmorra no se ha creado o que intentas entrar en una mazmorra distinta a la del líder del grupo.^000000"
+    },
+    "2FRvDQ": {
+        "en-US": "^FF0000You cannot enter unless you are in a party.^000000",
+        "pt-BR": "^FF0000Não é possível entrar se você não estiver em um grupo.^000000",
+        "es-ES": "^FF0000No puedes entrar si no estás en un grupo.^000000"
+    },
+    "2VRvDQ": {
+        "en-US": "It seems a member of {0}'s party has used an illegal portal leading to {1}.",
+        "pt-BR": "Parece que um integrante do grupo de {0} usou o portal ilegal para {1}.",
+        "es-ES": "Parece que un miembro del grupo de {0} ha usado el portal ilegal que lleva a {1}."
+    },
+    "2lRvDQ": {
+        "en-US": "^0000FFOnly the party leader can open the portal.^000000",
+        "pt-BR": "^0000FFSomente o líder do grupo pode abrir o portal.^000000",
+        "es-ES": "^0000FFSi no eres el líder del grupo, no puedes abrir el portal.^000000"
+    },
+    "21RvDQ": {
+        "en-US": "^0000FF{0} ^000000- Reservation Failed",
+        "pt-BR": "^0000FF{0} ^000000- Falha na reserva",
+        "es-ES": "^0000FF{0} ^000000- Reserva fallida"
+    },
+    "3FRvDQ": {
+        "en-US": "Gruff-Looking Man",
+        "pt-BR": "Homem Carrancudo",
+        "es-ES": "Hombre Ceñudo"
+    },
+    "3VRvDQ": {
+        "en-US": "^0000FFGruff-Looking Man does not seem interested in you.^000000",
+        "pt-BR": "^0000FFHomem Carrancudo não parece interessado em você.^000000",
+        "es-ES": "^0000FFHombre Ceñudo no parece interesado en ti.^000000"
+    },
+    "3lRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nAh, have you been to the place I introduced to you? Heh heh heh. Your expression looks much better now.",
+        "pt-BR": "[Homem Carrancudo]\nAh, você foi àquele lugar que eu te falei? Hehehe. Parece que a sua expressão está melhor.",
+        "es-ES": "[Hombre Ceñudo]\nAh, ¿has ido ya a ese lugar que te presenté? Je, je, je. Parece que tu expresión ha mejorado bastante."
+    },
+    "31RvDQ": {
+        "en-US": "[Gruff-Looking Man]\nYou, I used to see you often at the Magic Tournament. You even won fairly often, didn't you?",
+        "pt-BR": "[Homem Carrancudo]\nJá vi você muitas vezes no Torneio Mágico. Acho que até venceu algumas vezes.",
+        "es-ES": "[Hombre Ceñudo]\nA ti te vi a menudo en el Torneo Mágico hace tiempo. Incluso ganaste varias veces, ¿no?"
+    },
+    "4FRvDQ": {
+        "en-US": "This is the first time we've met. Do you know me?",
+        "pt-BR": "Nunca te vi antes. Você me conhece?",
+        "es-ES": "Nunca te había visto antes. ¿Tú me conoces?"
+    },
+    "4VRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nI know you very well. I watched quite a few of your matches, too. So, how did you feel? The fights in the Magic Tournament, I mean. Were they difficult? Or manageable?",
+        "pt-BR": "[Homem Carrancudo]\nEu te conheço muito bem. Até assisti a várias de suas lutas. Então, o que achou? As batalhas no Torneio Mágico eram difíceis? Ou dava para encarar?",
+        "es-ES": "[Hombre Ceñudo]\nTe conozco muy bien. También he visto muchos combates tuyos. Entonces, ¿qué te pareció? Me refiero a luchar en el Torneo Mágico. ¿Fue difícil? ¿O manejable?"
+    },
+    "4lRvDQ": {
+        "en-US": "Aside from a few, weren't they all small fry?",
+        "pt-BR": "Com exceção de alguns, não eram todos uns fracotes?",
+        "es-ES": "Excepto algunos, ¿no eran todos muy flojos?"
+    },
+    "41RvDQ": {
+        "en-US": "There weren't any particularly strong ones.",
+        "pt-BR": "Não havia ninguém especialmente forte.",
+        "es-ES": "No había nadie especialmente fuerte."
+    },
+    "5FRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nTsk. That attitude is better than lacking confidence. Let's continue talking business. In the world of the Magic Tournament, your first-round opponent is set to be Archi, right?",
+        "pt-BR": "[Homem Carrancudo]\nTsc. Mas é melhor isso do que falta de confiança. Vamos continuar falando de negócios. No mundo do Torneio Mágico, seu primeiro oponente é o Alphard, certo?",
+        "es-ES": "[Hombre Ceñudo]\nPrefiero esa actitud a verte sin confianza. Sigamos hablando de negocios. En el mundo del Torneo Mágico, tu rival de la primera ronda está fijado como Archi, ¿verdad?"
+    },
+    "5VRvDQ": {
+        "en-US": "That's right.",
+        "pt-BR": "Isso mesmo.",
+        "es-ES": "Así es."
+    },
+    "5lRvDQ": {
+        "en-US": "No.",
+        "pt-BR": "Não.",
+        "es-ES": "No."
+    },
+    "51RvDQ": {
+        "en-US": "[Gruff-Looking Man]\nNo? Hm. Have you perhaps never participated in the Magic Tournament? No, that can't be. Is there some error in the records?",
+        "pt-BR": "[Homem Carrancudo]\nNão? Hmm. Será que você nunca participou do Torneio Mágico? Não, isso não faz sentido. Será que há algum erro nos registros?",
+        "es-ES": "[Hombre Ceñudo]\n¿No? Mmm. ¿Acaso nunca participaste en el Torneo Mágico? No, eso no puede ser. ¿Habrá algún error en los registros?"
+    },
+    "6FRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nYes, that one who pretends to be a beginner. In reality, he's quite strong. His specialty is cosplaying as a Super Novice and stabbing people in the back.",
+        "pt-BR": "[Homem Carrancudo]\nIsso, aquele sujeito que finge ser um novato. Na verdade, ele é bem forte. A especialidade dele é fingir ser um Superaprendiz e te atacar pelas costas.",
+        "es-ES": "[Hombre Ceñudo]\nSí, ese que finge ser principiante. En realidad es bastante fuerte. Su especialidad es disfrazarse de Superprincipiante y atacar por la espalda."
+    },
+    "6VRvDQ": {
+        "en-US": "No way. You have quite a sense of humor.",
+        "pt-BR": "Impossível. Que piada engraçada.",
+        "es-ES": "Imposible. ¡Qué chistoso eres!"
+    },
+    "6lRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nIt isn't a joke. Appearing as the first opponent in the Magic Tournament and playing the role of a trembling beginner. That was the condition he accepted.",
+        "pt-BR": "[Homem Carrancudo]\nNão é piada. Aparecer como o primeiro oponente do Torneio Mágico e fingir ser um novato tremendo de medo. Essa foi a condição para participar.",
+        "es-ES": "[Hombre Ceñudo]\nNo es una broma. Aparecer como primer rival del Torneo Mágico y hacer el papel de principiante tembloroso. Esa fue la condición que aceptó."
+    },
+    "61RvDQ": {
+        "en-US": "Did that guy borrow dirty money somewhere?",
+        "pt-BR": "Aquele cara fez negócios ilícitos em algum lugar?",
+        "es-ES": "¿Ese tipo pidió dinero sucio en alguna parte?"
+    },
+    "7FRvDQ": {
+        "en-US": "On the condition that he does that insane thing every day?",
+        "pt-BR": "Essa foi a condição para fazer uma loucura daquelas todos os dias?",
+        "es-ES": "¿A cambio de hacer esa locura todos los días?"
+    },
+    "7VRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nHe volunteered to play the clown as a condition for entering the underworld, all while hiding his own strength. And he isn't the only one. Dio Anemos, Geffen Thug, Pa Monk... They're all playing the role of pathetic losers.",
+        "pt-BR": "[Homem Carrancudo]\nEle se ofereceu para fazer o papel de bobo como condição para entrar no submundo. Escondendo a sua própria força. E não é só ele. Sirius, o Valentão de Geffen, Mirzam... todos interpretam perdedores patéticos.",
+        "es-ES": "[Hombre Ceñudo]\nÉl sofreció hacerse el payaso a cambio de entrar en el mundo clandestino, ocultando incluso su propia fuerza. Y no solo él. Dio Anemos, Matón de Geffen, Monja Pa... Todos interpretan el papel de perdedores patéticos."
+    },
+    "7lRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nWhy do you think they accepted that kind of work? It's all because of money. Heh heh heh.",
+        "pt-BR": "[Homem Carrancudo]\nPor que acha que aceitaram fazer isso? Tudo pela grana. Hehehe.",
+        "es-ES": "[Hombre Ceñudo]\n¿Por qué crees que aceptaron hacer algo así? Todo por dinero. Je, je, je."
+    },
+    "71RvDQ": {
+        "en-US": "[Gruff-Looking Man]\nBut their appearance in the Magic Tournament is only a mask for the bright world. In truth, they are renowned fighters of the night. You'll probably think I'm insane, but it doesn't matter. I only need to get paid and pass along the message.",
+        "pt-BR": "[Homem Carrancudo]\nMas a aparência deles no Torneio Mágico é apenas uma máscara neste mundo iluminado. Na verdade, eles são lutadores noturnos de renome. Você pode pensar que é papo de louco, mas não ligo. Eu só preciso transmitir a mensagem para receber a grana.",
+        "es-ES": "[Hombre Ceñudo]\nPero su apariencia en el Torneo Mágico no es más que una máscara para el mundo de la luz. En realidad, son famosos luchadores de la noche. Seguramente pensarás que estoy loco, pero no importa. Yo solo cobro por transmitir el mensaje."
+    },
+    "8FRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nThere is a tournament that skilled fighters like Archi and Pa Monk wanted to enter badly enough to hide their true colors. It is a match watched by real tycoons at the Geffen Night Arena.",
+        "pt-BR": "[Homem Carrancudo]\nHá um torneio em que combatentes habilidosos como Alphard e Mirzam queriam participar mesmo escondendo sua verdadeira natureza. São as lutas na Arena Noturna de Geffen, assistidas por magnatas de verdade.",
+        "es-ES": "[Hombre Ceñudo]\nHay un torneo al que expertos como Archi y Monja Pa querían entrar incluso ocultando su verdadera naturaleza. Son combates que los verdaderos magnates observan en la Arena Nocturna de Geffen."
+    },
+    "8VRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nFair and square, one-on-one duels... There are no soft rules like that. It is a place where you fight by instinct and are rewarded according to your skill. We would like to invite you there. What do you say? Interested?",
+        "pt-BR": "[Homem Carrancudo]\nLuta justa, duelo um contra um... Não existem regras frouxas assim. É um lugar onde se luta por instinto e a recompensa só depende da habilidade. Queremos convidar você para participar. E então? Tem algum interesse?",
+        "es-ES": "[Hombre Ceñudo]\nJuego limpio, duelo uno contra uno... Allí no hay reglas blandas como esas. Es un lugar donde luchas según tu instinto y recibes recompensas según tu habilidad. Queremos invitarte allí. ¿Qué dices? ¿Te interesa?"
+    },
+    "8lRvDQ": {
+        "en-US": "That sounds tempting.",
+        "pt-BR": "Parece tentador.",
+        "es-ES": "Suena tentador."
+    },
+    "81RvDQ": {
+        "en-US": "Not really. I'll follow the law.",
+        "pt-BR": "Não, prefiro seguir as leis.",
+        "es-ES": "No, prefiero respetar la ley."
+    },
+    "9FRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nYou're more of a prude than you look. Heh heh heh.",
+        "pt-BR": "[Homem Carrancudo]\nVocê é mais certinho do que parece. Kkkk.",
+        "es-ES": "[Hombre Ceñudo]\nEres más santurrón de lo que aparentas. Je, je, je."
+    },
+    "9VRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nGood. I'm glad we understand each other. First, leave this place and go to the Dimensional Gap.",
+        "pt-BR": "[Homem Carrancudo]\nÓtimo, fico feliz que nos entendemos. Primeiro, saia daqui e vá até o Espaço Dimensional.",
+        "es-ES": "[Hombre Ceñudo]\nBien, me alegra que nos entendamos. Primero sal de aquí y ve a la Grieta Dimensional."
+    },
+    "9lRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nAnd there, find the portal scheduled for removal. You can ignore the warning notices attached to it. It is a place where we took over a discarded dimension and changed it to our liking.",
+        "pt-BR": "[Homem Carrancudo]\nLá procure pelo portal previsto para remoção. Pode ignorar os avisos colados nele. Nós nos apossamos de uma dimensão abandonada e a modificamos como bem entendemos.",
+        "es-ES": "[Hombre Ceñudo]\nY allí busca el portal programado para retirada. Puedes ignorar los avisos pegados allí. Es una dimensión abandonada que nosotros ocupamos y modificamos a nuestro gusto."
+    },
+    "91RvDQ": {
+        "en-US": "Isn't the other side of the dimension a past world?",
+        "pt-BR": "Do outro lado da dimensão não fica um mundo do passado?",
+        "es-ES": "¿No es el otro lado de la dimensión un mundo del pasado?"
+    },
+    "+FRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nExactly. That's why it was a bit tricky to recruit people beyond the dimension who are living inside events that have already happened. But as you can see, we succeeded. The problem is recruiting people from this world, like you.",
+        "pt-BR": "[Homem Carrancudo]\nExatamente. Por isso foi um pouco complicado recrutar pessoas do outro lado da dimensão, que vivem dentro de acontecimentos que já ocorreram. Mas, como pode ver, nós conseguimos. O problema é recrutar pessoas deste mundo, como você.",
+        "es-ES": "[Hombre Ceñudo]\nExacto. Por eso fue algo complicado reclutar a los habitantes del otro lado de la dimensión, que viven dentro de sucesos que ya ocurrieron. Pero, como ves, lo conseguimos. El problema es reclutar a personas de este mundo, como tú."
+    },
+    "+VRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nA stage alone does not complete a play. You need actors to perform with. And I came to cast you.",
+        "pt-BR": "[Homem Carrancudo]\nUm palco sozinho não faz um espetáculo. Precisamos de atores para dar vida à peça. E eu vim recrutar você.",
+        "es-ES": "[Hombre Ceñudo]\nCon solo tener un escenario, la obra no se completa. Hacen falta actores. Y yo he venido a contratarte."
+    },
+    "+lRvDQ": {
+        "en-US": "[Gruff-Looking Man]\nTo get to the point, just this once, I will send you there with a personal scroll. Get ready. If you have companions, don't forget to introduce them to me.",
+        "pt-BR": "[Homem Carrancudo]\nDeixando os detalhes de lado, apenas desta vez vou enviá-lo para lá com um pergaminho. Prepare-se. Se tiver companheiros, não se esqueça de apresentá-los a mim.",
+        "es-ES": "[Hombre Ceñudo]\nEn resumen, solo por esta vez te enviaré allí con un pergamino personal. Prepárate. Si tienes compañeros, no olvides presentármelos."
+    },
+    "+1RvDQ": {}
+}

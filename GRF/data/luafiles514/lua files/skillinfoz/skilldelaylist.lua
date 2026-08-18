@@ -12590,36 +12590,6 @@ SKILL_DELAY_LIST = {
 			1000
 		}
 	},
-	[SKID.LG_EARTHDRIVE] = {
-		SkillCastStatDelay = {
-			1000,
-			1000,
-			1000,
-			1000,
-			1000
-		},
-		SkillSinglePostDelay = {
-			6500,
-			5500,
-			4500,
-			3500,
-			2500
-		},
-		SkillGlobalPostDelay = {
-			1000,
-			1000,
-			1000,
-			1000,
-			1000
-		},
-		SkillCastFixedDelay = {
-			0,
-			0,
-			0,
-			0,
-			0
-		}
-	},
 	[SKID.LG_HESPERUSLIT] = {
 		SkillCastStatDelay = {
 			0,
@@ -23150,6 +23120,36 @@ SKILL_DELAY_LIST = {
 			0,
 			0,
 			0
+		}
+	},
+	[SKID.LG_EARTHDRIVE] = {
+		SkillGlobalPostDelay = {
+			1000,
+			1000,
+			1000,
+			1000,
+			1000
+		},
+		SkillCastFixedDelay = {
+			0,
+			0,
+			0,
+			0,
+			0
+		},
+		SkillSinglePostDelay = {
+			6500,
+			5500,
+			4500,
+			3500,
+			2500
+		},
+		SkillCastStatDelay = {
+			1000,
+			1000,
+			1000,
+			1000,
+			1000
 		}
 	},
 	[SKID.CD_PETITIO] = {

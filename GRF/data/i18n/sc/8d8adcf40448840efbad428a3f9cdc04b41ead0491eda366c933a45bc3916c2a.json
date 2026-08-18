@@ -1,0 +1,237 @@
+{
+    "IAN6DQ": {
+        "en-US": "Transfericat",
+        "pt-BR": "Transferigato",
+        "es-ES": "Transferigato"
+    },
+    "IQN6DQ": {
+        "en-US": "- You have too many items in your inventory to proceed. -",
+        "pt-BR": "- Você tem muitos itens no inventário para prosseguir. -",
+        "es-ES": "- Tienes demasiados artículos en tu inventario para continuar. -"
+    },
+    "IgN6DQ": {
+        "en-US": "[GM Mode] Test Item",
+        "pt-BR": "[Modo GM] Testar Item",
+        "es-ES": "[Modo GM] Probar Ítem"
+    },
+    "IwN6DQ": {
+        "en-US": "[Transfericat]\nMeow! Meow meow!\nI loved your style! You really know how to mix and match looks!\nHave you ever tried combining an Enchant Stone with a look that didn't match your personality?",
+        "pt-BR": "[Transferigato]\nMiau! Miau miau!\nAdorei seu estilo! Você sabe combinar os visuais!\nJá tentou combinar uma Pedra de Encanto em um visual que não se encaixava com a sua personalidade?",
+        "es-ES": "[Transferigato]\n¡Miau! ¡Miau miau!\n¡Me encantó tu estilo! ¡Sabes combinar muy bien los atuendos!\n¿Has intentado alguna vez combinar una Piedra de Encanto en un atuendo que no encajaba con tu personalidad?"
+    },
+    "JAN6DQ": {
+        "en-US": "[Transfericat]\nI understand you!\nAnd that's why I'm here to show you the new Enchant Transfer System!\nBring me the Costume you want and 1x Enchant Transferrer.\nThat way, you transfer the enchant from Costume A to Costume B.\nDo you want to start the transfer now?",
+        "pt-BR": "[Transferigato]\nEu te entendo!\nE é por isso que estou aqui para te mostrar o novo Sistema de Transferência de Encantos!\nMe traga o Visual desejado e 1x Transferidor de Encanto. \nAssim, você transfere o encanto do Visual A para o Visual B.\nDeseja iniciar a transferência agora?",
+        "es-ES": "[Transferigato]\n¡Te entiendo!\n¡Y por eso estoy aquí para mostrarte el nuevo Sistema de Transferencia de Encantos!\n¡Tráeme el Disfraz que deseas y 1x Transferidor de Encanto.\nAsí, transfieres el encanto del Disfraz A al Disfraz B.\n¿Deseas iniciar la transferencia ahora?"
+    },
+    "JQN6DQ": {
+        "en-US": "I want to transfer my costume enchantments.",
+        "pt-BR": "Quero transferir meus encantos visuais.",
+        "es-ES": "Quiero transferir mis encantos de disfraces."
+    },
+    "JgN6DQ": {
+        "en-US": "End conversation",
+        "pt-BR": "Encerrar a conversa",
+        "es-ES": "Terminar conversación"
+    },
+    "JwN6DQ": {
+        "en-US": "[Transfericat]\nYou need to have 1 enchanted Costume equipped. Where is the enchanted Costume located?",
+        "pt-BR": "[Transferigato]\nVocê precisa estar equipado com 1 Visual encantado. Qual a localização do Visual que está encantado?",
+        "es-ES": "[Transferigato]\nNecesitas tener equipado 1 Disfraz encantado. ¿En qué ubicación está el Disfraz encantado?"
+    },
+    "KAN6DQ": {
+        "en-US": "Top",
+        "pt-BR": "Topo",
+        "es-ES": "Parte Superior"
+    },
+    "KQN6DQ": {
+        "en-US": "Middle",
+        "pt-BR": "Meio",
+        "es-ES": "Parte Media"
+    },
+    "KgN6DQ": {
+        "en-US": "Bottom",
+        "pt-BR": "Baixo",
+        "es-ES": "Parte Inferior"
+    },
+    "KwN6DQ": {
+        "en-US": "Cape",
+        "pt-BR": "Capa",
+        "es-ES": "Capa"
+    },
+    "LAN6DQ": {
+        "en-US": "[Transfericat]\nThere is no Costume in that slot. Equip one and try again.",
+        "pt-BR": "[Transferigato]\nNão há Visual nesta localização. Equipe um e tente novamente.",
+        "es-ES": "[Transferigato]\nNo hay ningún Disfraz en esa ubicación. Equipa uno e intenta de nuevo."
+    },
+    "LQN6DQ": {
+        "en-US": "Cape",
+        "pt-BR": "Capa",
+        "es-ES": "Capa"
+    },
+    "LgN6DQ": {
+        "en-US": "Top, Middle and Bottom",
+        "pt-BR": "Topo, Meio e Baixo",
+        "es-ES": "Parte Superior, Media e Inferior"
+    },
+    "LwN6DQ": {
+        "en-US": "Top and Middle",
+        "pt-BR": "Top e Meio",
+        "es-ES": "Parte Superior y Media"
+    },
+    "MAN6DQ": {
+        "en-US": "Top and Bottom",
+        "pt-BR": "Topo e Baixo",
+        "es-ES": "Parte Superior e Inferior"
+    },
+    "MQN6DQ": {
+        "en-US": "Middle and Bottom",
+        "pt-BR": "Meio e Baixo",
+        "es-ES": "Parte Media e Inferior"
+    },
+    "MgN6DQ": {
+        "en-US": "Top",
+        "pt-BR": "Topo",
+        "es-ES": "Parte Superior"
+    },
+    "MwN6DQ": {
+        "en-US": "Middle",
+        "pt-BR": "Meio",
+        "es-ES": "Parte Media"
+    },
+    "NAN6DQ": {
+        "en-US": "Bottom",
+        "pt-BR": "Baixo",
+        "es-ES": "Parte Inferior"
+    },
+    "NQN6DQ": {
+        "en-US": "[Transfericat]\nThis Costume cannot have its enchantments transferred.",
+        "pt-BR": "[Transferigato]\nEste Visual não pode ter seus encantos transferidos.",
+        "es-ES": "[Transferigato]\nEste Disfraz no puede tener sus encantos transferidos."
+    },
+    "NgN6DQ": {
+        "en-US": "[Transfericat]\nThis Costume is not allowed for transfer.",
+        "pt-BR": "[Transferigato]\nEste Visual não está permitido para a transferência.",
+        "es-ES": "[Transferigato]\nEste Disfraz no está permitido para la transferencia."
+    },
+    "NwN6DQ": {
+        "en-US": "[Transfericat]\nThis Costume has no enchantment.",
+        "pt-BR": "[Transferigato]\nEste Visual não possui encantamento.",
+        "es-ES": "[Transferigato]\nEste Disfraz no posee encantamiento."
+    },
+    "OAN6DQ": {
+        "en-US": "[Transfericat]\nEquipment: {0}\nLocation: {1}\nCost: 1 Enchant Transferrer\nI'll hold onto the Costume and the Coupon for a moment.",
+        "pt-BR": "[Transferigato]\nEquipamento: {0}\nLocalização: {1}\nCusto: 1 Transferidor de Encanto\nVou guardar o Visual e o Cupom por um momento.",
+        "es-ES": "[Transferigato]\nEquipo: {0}\nUbicación: {1}\nCosto: 1 Transferidor de Encanto\nVoy a guardar el Disfraz y el Cupón por un momento."
+    },
+    "OQN6DQ": {
+        "en-US": "[Transfericat]\nNow, equip 1 unenchanted Costume in the same slot as the previous Costume.\nIf you've changed your mind, you can cancel and get back the items I'm holding.\nDo you wish to proceed with the transfer?",
+        "pt-BR": "[Transferigato]\nAgora, equipe 1 Visual sem encanto e que seja do mesmo local do Visual anterior.\nSe você se arrependeu, pode cancelar e recuperar os itens que guardei comigo.\nDeseja prosseguir com a transferência?",
+        "es-ES": "[Transferigato]\nAhora, equipa 1 Disfraz sin encanto y que sea de la misma ubicación que el Disfraz anterior.\nSi te arrepentiste, puedes cancelar y recuperar los artículos que guardé conmigo.\n¿Deseas continuar con la transferencia?"
+    },
+    "OgN6DQ": {
+        "en-US": "Yes",
+        "pt-BR": "Sim",
+        "es-ES": "Sí"
+    },
+    "OwN6DQ": {
+        "en-US": "No",
+        "pt-BR": "Não",
+        "es-ES": "No"
+    },
+    "PAN6DQ": {
+        "en-US": "[Transfericat]\nYou don't have enough Enchant Transferrers.",
+        "pt-BR": "[Transferigato]\nVocê não tem Transferidores de Encanto suficientes.",
+        "es-ES": "[Transferigato]\nNo tienes suficientes Transferidores de Encanto."
+    },
+    "PQN6DQ": {
+        "en-US": "[Transfericat]\nA problem occurred during the exchange!\nPlease contact our Support Center!",
+        "pt-BR": "[Transferigato]\nOcorreu um problema durante a troca!\nPor favor, entre em contato com a nossa Central de Suporte!",
+        "es-ES": "[Transferigato]\n¡Ocurrió un problema durante el intercambio!\n¡Por favor, contacta a nuestro Centro de Soporte!"
+    },
+    "PgN6DQ": {
+        "en-US": "[Transfericat]\nI'll proceed with the exchange!\nI'll hold onto the Costume for now.",
+        "pt-BR": "[Transferigato]\nVou prosseguir com a troca!\nVou guardar o Visual por enquanto.",
+        "es-ES": "[Transferigato]\n¡Voy a continuar con el intercambio!\nVoy a guardar el Disfraz por ahora."
+    },
+    "PwN6DQ": {
+        "en-US": "[Transfericat]\nNow, equip 1 unenchanted Costume in the same slot as the previous Costume. If you've changed your mind, you can cancel and get back the items I'm holding.",
+        "pt-BR": "[Transferigato]\nAgora, equipe 1 Visual sem encanto e que seja do mesmo local do Visual anterior. Se você se arrependeu, pode cancelar e recuperar os itens que guardei comigo.",
+        "es-ES": "[Transferigato]\nAhora, equipa 1 Disfraz sin encanto y que sea de la misma ubicación que el Disfraz anterior. Si te arrepentiste, puedes cancelar y recuperar los artículos que guardé conmigo."
+    },
+    "QAN6DQ": {
+        "en-US": "[Transfericat]\nCostume I'm holding: {0}\nLocation: {1}\nTo continue the enchantment transfer, you need to equip an unenchanted Costume in the same slot.\nWhat would you like to do?",
+        "pt-BR": "[Transferigato]\nVisual que eu guardei: {0}\nLocalização: {1}\nPara continuar a transferência do encantamento, você precisa equipar um Visual não encantado na mesma localização.\nO que você gostaria de fazer?",
+        "es-ES": "[Transferigato]\nDisfraz que guardé: {0}\nUbicación: {1}\nPara continuar con la transferencia del encantamiento, necesitas equipar un Disfraz sin encanto en la misma ubicación.\n¿Qué te gustaría hacer?"
+    },
+    "QQN6DQ": {
+        "en-US": "Transfer the enchantment",
+        "pt-BR": "Transferir o encanto",
+        "es-ES": "Transferir el encanto"
+    },
+    "QgN6DQ": {
+        "en-US": "Cancel and recover items",
+        "pt-BR": "Cancelar e recuperar itens",
+        "es-ES": "Cancelar y recuperar artículos"
+    },
+    "QwN6DQ": {
+        "en-US": "[Transfericat]\nHere are your items back.",
+        "pt-BR": "[Transferigato]\nAqui estão seus itens de volta.",
+        "es-ES": "[Transferigato]\nAquí tienes tus artículos de vuelta."
+    },
+    "RAN6DQ": {
+        "en-US": "[Transfericat]\nThe new Costume is not in the same slot as the one I'm holding!",
+        "pt-BR": "[Transferigato]\nO visual novo não está na mesma localização do visual guardado!",
+        "es-ES": "[Transferigato]\n¡El Disfraz nuevo no está en la misma ubicación que el Disfraz guardado!"
+    },
+    "RQN6DQ": {
+        "en-US": "[Transfericat]\nOnly unenchanted Costumes can be exchanged.",
+        "pt-BR": "[Transferigato]\nApenas Visuais não encantados podem ser trocados.",
+        "es-ES": "[Transferigato]\nSolo se pueden intercambiar Disfraces sin encanto."
+    },
+    "RgN6DQ": {
+        "en-US": "[Transfericat]\nIt's not possible to transfer enchantments between identical Costumes.",
+        "pt-BR": "[Transferigato]\nNão é possível transferir encantos entre Visuais idênticos.",
+        "es-ES": "[Transferigato]\nNo es posible transferir encantos entre Disfraces idénticos."
+    },
+    "RwN6DQ": {
+        "en-US": "[Transfericat]\nEnchanted Costume: {0}\n  ›››››\nUnenchanted Costume: {1}\nAre you sure you want to proceed with the enchantment transfer?",
+        "pt-BR": "[Transferigato]\nVisual com encanto: {0}\n  ›››››\nVisual sem encanto: {1}\nTem certeza que deseja prosseguir com a transferência do encantamento?",
+        "es-ES": "[Transferigato]\nDisfraz con encanto: {0}\n  ›››››\nDisfraz sin encanto: {1}\n¿Estás seguro de que deseas continuar con la transferencia del encantamiento?"
+    },
+    "SAN6DQ": {
+        "en-US": "I've changed my mind!",
+        "pt-BR": "Mudei de ideia!",
+        "es-ES": "¡Cambié de opinión!"
+    },
+    "SQN6DQ": {
+        "en-US": "Proceed with the transfer.",
+        "pt-BR": "Prosseguir com a transferência.",
+        "es-ES": "Continuar con la transferencia."
+    },
+    "SgN6DQ": {
+        "en-US": "[Transfericat]\nLet me ask again!\nDo you accept all outcomes, even if unexpected issues occur?",
+        "pt-BR": "[Transferigato]\nVou perguntar de novo!\nVocê aceita todos os resultados, mesmo que ocorram problemas inesperados?",
+        "es-ES": "[Transferigato]\n¡Te preguntaré de nuevo!\n¿Aceptas todos los resultados, incluso si ocurren problemas inesperados?"
+    },
+    "SwN6DQ": {
+        "en-US": "[Transfericat]\nAlright!\nSo I'll start the transfer now, okay?",
+        "pt-BR": "[Transferigato]\nCerto!\nEntão vou começar a transferência agora, pode ser?",
+        "es-ES": "[Transferigato]\n¡Correcto!\nEntonces, ¿puedo comenzar la transferencia ahora?"
+    },
+    "TAN6DQ": {
+        "en-US": "Okay, go ahead.",
+        "pt-BR": "Ok, pode começar.",
+        "es-ES": "Ok, puedes comenzar."
+    },
+    "TQN6DQ": {
+        "en-US": "[Transfericat]\nThe transfer is complete!",
+        "pt-BR": "[Transferigato]\nA transferência foi concluída!",
+        "es-ES": "[Transferigato]\n¡La transferencia se ha completado!"
+    },
+    "TgN6DQ": {
+        "en-US": "[Transfericat]\nCostume I'm holding: {0}\nLocation: {1}\nTo continue the enchantment transfer, you need to equip an unenchanted Costume in the same slot.\nWhat would you like to do?",
+        "pt-BR": "[Transferigato]\nVisual que eu guardei: {0}\nLocalização: {1}\nPara continuar a transferência do encantamento, você precisa equipar um Visual não encantado na mesma localização.\nO que você gostaria de fazer?",
+        "es-ES": "[Transferigato]\nDisfraz que guardé: {0}\nUbicación: {1}\nPara continuar con la transferencia del encantamiento, necesitas equipar un Disfraz sin encanto en la misma ubicación.\n¿Qué te gustaría hacer?"
+    }
+}

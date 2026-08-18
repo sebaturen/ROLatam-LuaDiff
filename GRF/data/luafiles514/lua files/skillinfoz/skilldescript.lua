@@ -3237,7 +3237,8 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Libera as habilidades relacionadas aos",
 		"homunculus, podendo investir pontos em",
-		"Criar Homunculus, Ressuscitar e Vaporizar.^000000"
+		"Despertar Homunculus, Vaporizar e",
+		"Ressuscitar Homunculus.^000000"
 	},
 	[SKID.AM_BIOTECHNOLOGY] = {
 		"Biotecnologia",
@@ -19621,7 +19622,7 @@ SKILL_DESCRIPT = {
 		"Tipo: ^777777Passiva^000000",
 		"Descrição:",
 		"^777777Constrói uma comunhão com Cheol-ho.",
-		"Melhora habilidades relacionadas à Onça:",
+		"Melhora habilidades relacionadas ao Tigre:",
 		"Unhas de Tigre",
 		"Rugido do Tigre",
 		"Patada Felina^000000"
@@ -20035,7 +20036,7 @@ SKILL_DESCRIPT = {
 		"    Esquife Congelante, Zona Gravitacional",
 		"    e Tempestade de Júpiter.",
 		"Aumenta ainda mais o Espectro Napalm.^000000",
-		"Nível l P.ATQ l Dano l Dano (Choque)",
+		"Nível l S.ATQM l Dano l Dano (Napalm)",
 		"[Nv 1]: ^777777+1^000000 l ^777777+1%^000000 l ^777777+2%^000000",
 		"[Nv 2]: ^777777+2^000000 l ^777777+2%^000000 l ^777777+4%^000000",
 		"[Nv 3]: ^777777+3^000000 l ^777777+3%^000000 l ^777777+6%^000000",
@@ -20220,7 +20221,7 @@ SKILL_DESCRIPT = {
 		"Descrição:",
 		"^777777Cria uma esfera de gelo no chão, causando",
 		"dano mágico de propriedade Água na área.",
-		"A esfera explode em um segundo ataque,",
+		"A esfera explode em 1 segundo,",
 		"causando dano a cada 0,3 segundos e",
 		"infligindo o estado de [Geladinho].^000000",
 		"Geladinho: ^777777Resist. à prop. Água -15%.",
@@ -20357,7 +20358,7 @@ SKILL_DESCRIPT = {
 		"Lâminas Devastadoras: ^777777+100%^000000"
 	},
 	[SKID.HN_RULEBREAK] = {
-		"Anjo da MagiaRule Break",
+		"Anjo da Magia",
 		"Nível máximo: ^7777771^000000",
 		"Pré-requisitos: ^777777Chuva de Meteoritos 5",
 		"    Ira da Terra 5, Espectro Napalm 5",
@@ -21223,7 +21224,7 @@ SKILL_DESCRIPT = {
 		"[Nv 5]: ^777777+10%^000000 l ^777777+20^000000 l ^777777+25%^000000"
 	},
 	[SKID.HAMI_BLOODLUST] = {
-		"Desejo por Sangue",
+		"Desejo de Sangue",
 		"Nível máximo: ^7777773^000000",
 		"Pré-requisitos: ^CD3278Lealdade alta na 2ª forma^000000",
 		"Tipo: ^777777Suporte^000000",

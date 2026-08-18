@@ -10,9 +10,9 @@
         "es-ES": "- No se puede proceder con el trabajo -"
     },
     "orNnDQ": {
-        "en-US": "[Mission Board]\nA guide is required to use this Mission Board.",
-        "pt-BR": "[Quadro de Missões]\nPara usar este Quadro de Missões, você precisa de um guia.",
-        "es-ES": "[Tablero de Misiones]\nPara usar este Tablero de Misiones, se necesita una guía."
+        "en-US": "[Mission Board]\nA Pass is required to use this Mission Board.",
+        "pt-BR": "[Quadro de Missões]\nPara usar este Quadro de Missões, você precisa de um Passe.",
+        "es-ES": "[Tablero de Misiones]\nPara usar este Tablero de Misiones, se necesita un Pase."
     },
     "o7NnDQ": {
         "en-US": "[Mission Board]\nPlease read the Mission Board usage rules carefully before use.",
@@ -21,8 +21,8 @@
     },
     "pLNnDQ": {
         "en-US": "[Mission Board]\nHow to Use\n1. There are two types of missions on the Mission Board: Daily Quests and Full Time Event Quests.\n2. Daily Quests reset every day at 04:00.\n3. The EXP Battle Pass earned from each quest may vary, so please check the quest window for details.",
-        "pt-BR": "[Quadro de Missões]\nComo usar\n1. O Quadro de Missões possui dois tipos de missões: Missões Diárias e Missões de Evento de Tempo Integral.\n2. As Missões Diárias são reiniciadas todos os dias às 04:00.\n3. O Passe de Batalha EXP adquirido em cada missão pode variar. Verifique os detalhes na janela de missões.",
-        "es-ES": "[Tablero de Misiones]\nCómo usar\n1. En el Tablero de Misiones hay dos tipos de misiones: Misiones Diarias y Misiones de Evento de Tiempo Completo.\n2. Las Misiones Diarias se reinician cada día a las 04:00.\n3. El EXP del Pase que se obtiene en cada misión puede variar, así que revísalo en detalle en la ventana de misiones."
+        "pt-BR": "[Quadro de Missões]\nComo usar\n1. O Quadro de Missões possui dois tipos de missões: Missões Diárias e Missões de Evento.\n2. As Missões Diárias são reiniciadas todos os dias às 04:00.\n3. Os pontos de experiência do Passe de Batalha adquirido em cada missão pode variar. Verifique os detalhes na janela de missões.",
+        "es-ES": "[Tablero de Misiones]\nCómo usar\n1. En el Tablero de Misiones hay dos tipos de misiones: Misiones Diarias y Misiones de Evento.\n2. Las Misiones Diarias se reinician cada día a las 04:00.\n3. El EXP del Pase que se obtiene en cada misión puede variar, así que revísalo en detalle en la ventana de misiones."
     },
     "pbNnDQ": {
         "en-US": "[Mission Board]\nPlease select a mission to proceed.",
@@ -31,7 +31,7 @@
     },
     "prNnDQ": {
         "en-US": "Accept/Complete Quest",
-        "pt-BR": "Receber/Concluir Missão",
+        "pt-BR": "Aceitar/Concluir Missão",
         "es-ES": "Recibir/Completar misión"
     },
     "p7NnDQ": {
@@ -145,24 +145,24 @@
         "es-ES": "Derrota a Pimiento Rojo Senior (Misión completada)"
     },
     "vbNnDQ": {
-        "en-US": "^BDBDBDDefeat Thanatos Phantom or Broken Thanatos (Pending)^000000",
-        "pt-BR": "^BDBDBDDerrotar Fantasma de Thanatos ou Thanatos Quebrado (Espera)^000000",
-        "es-ES": "^BDBDBDDerrota a Fantasma de Thanatos o Thanatos Roto (En espera)^000000"
+        "en-US": "^BDBDBDDefeat Thanatos or Fragment of Broken Thanatos (Pending)^000000",
+        "pt-BR": "^BDBDBDDerrotar Thanatos ou Fragmento de Thanatos (Espera)^000000",
+        "es-ES": "^BDBDBDDerrota a Thanatos o Fragmento de Thanatos (En espera)^000000"
     },
     "vrNnDQ": {
-        "en-US": "Defeat Thanatos Phantom or Broken Thanatos (Accept Quest)",
-        "pt-BR": "Derrotar Fantasma de Thanatos ou Thanatos Quebrado (Aceitar Missão)",
-        "es-ES": "Derrota a Fantasma de Thanatos o Thanatos Roto (Aceptar misión)"
+        "en-US": "Defeat Thanatos or Fragment of Broken Thanatos (Accept Quest)",
+        "pt-BR": "Derrotar Thanatos ou Fragmento de Thanatos (Aceitar Missão)",
+        "es-ES": "Derrota a Thanatos o Fragmento de Thanatos (Aceptar misión)"
     },
     "v7NnDQ": {
-        "en-US": "^BDBDBDDefeat Thanatos Phantom or Broken Thanatos (In Progress)^000000",
-        "pt-BR": "^BDBDBDDerrotar Fantasma de Thanatos ou Thanatos Quebrado (Em andamento)^000000",
-        "es-ES": "^BDBDBDDerrota a Fantasma de Thanatos o Thanatos Roto (En curso)^000000"
+        "en-US": "^BDBDBDDefeat Thanatos or Fragment of Broken Thanatos (In Progress)^000000",
+        "pt-BR": "^BDBDBDDerrotar Thanatos ou Fragmento de Thanatos (Em andamento)^000000",
+        "es-ES": "^BDBDBDDerrota a Thanatos o Fragmento de Thanatos (En curso)^000000"
     },
     "wLNnDQ": {
-        "en-US": "Defeat Thanatos Phantom or Broken Thanatos (Complete Quest)",
-        "pt-BR": "Derrotar Fantasma de Thanatos ou Thanatos Quebrado (Missão Concluída)",
-        "es-ES": "Derrota a Fantasma de Thanatos o Thanatos Roto (Misión completada)"
+        "en-US": "Defeat Thanatos or Fragment of Broken Thanatos (Complete Quest)",
+        "pt-BR": "Derrotar Thanatos ou Fragmento de Thanatos (Missão Concluída)",
+        "es-ES": "Derrota a Thanatos o Fragmento de Thanatos (Misión completada)"
     },
     "wbNnDQ": {
         "en-US": "[Mission Board]\nWaiting for quest reset at 04:00.",
@@ -170,29 +170,29 @@
         "es-ES": "[Tablero de Misiones]\nEsperando el reinicio de misiones a las 04:00."
     },
     "wrNnDQ": {
-        "en-US": "[Mission Board]\nDefeat 40 Pitaya (Red) and (Yellow) each.",
-        "pt-BR": "[Quadro de Missões]\nDerrote 40 Pitaya (Vermelha) e (Amarela) cada.",
-        "es-ES": "[Tablero de Misiones]\nDerrota 40 de cada Pitaya (Roja) y (Amarilla)"
+        "en-US": "[Mission Board]\nDefeat 40x Pitaya (Red) and (Yellow) each.",
+        "pt-BR": "[Quadro de Missões]\nDerrote 40x Pitaya (Vermelha) e (Amarela) cada.",
+        "es-ES": "[Tablero de Misiones]\nDerrota 40x de cada Pitaya (Roja) y (Amarilla)"
     },
     "w7NnDQ": {
-        "en-US": "[Mission Board]\nDefeat 40 Pitaya (Blue) and (Purple) each.",
-        "pt-BR": "[Quadro de Missões]\nDerrote 40 Pitaya (Azul) e (Violeta) cada.",
-        "es-ES": "[Tablero de Misiones]\nDerrota 40 de cada Pitaya (Azul) y (Violeta)"
+        "en-US": "[Mission Board]\nDefeat 40xPitaya (Blue) and (Purple) each.",
+        "pt-BR": "[Quadro de Missões]\nDerrote 40x Pitaya (Azul) e (Violeta) cada.",
+        "es-ES": "[Tablero de Misiones]\nDerrota 40x de cada Pitaya (Azul) y (Violeta)"
     },
     "xLNnDQ": {
-        "en-US": "[Mission Board]\nDefeat 40 Pitaya (Green), and defeat 10 of each Pitaya (Red, Yellow, Blue, Purple).",
-        "pt-BR": "[Quadro de Missões]\nDerrote 40 Pitaya (Verde)\ne 10 Pitaya (Vermelha, Amarela, Azul, Violeta) cada.",
-        "es-ES": "[Tablero de Misiones]\nDerrota 40 Pitaya (Verde)\ny 10 de cada Pitaya (Roja, Amarilla, Azul, Violeta)"
+        "en-US": "[Mission Board]\nDefeat 40x Pitaya (Green), and defeat 10x Pitaya (Red, Yellow, Blue, Purple).",
+        "pt-BR": "[Quadro de Missões]\nDerrote 40x Pitaya (Verde)\ne 10x Pitaya (Vermelha, Amarela, Azul, Violeta) cada.",
+        "es-ES": "[Tablero de Misiones]\nDerrota 40x Pitaya (Verde)\ny 10x de cada Pitaya (Roja, Amarilla, Azul, Violeta)"
     },
     "xbNnDQ": {
         "en-US": "[Mission Board]\nThis quest is in progress.",
-        "pt-BR": "[Quadro de Missões]\nEsta é uma missão em andamento.",
+        "pt-BR": "[Quadro de Missões]\nEsta missão está em andamento.",
         "es-ES": "[Tablero de Misiones]\nEsta es una misión en curso."
     },
     "xrNnDQ": {
         "en-US": "[Mission Board]\nQuest Complete\nObtained EXP Pass 6\nObtained Varmeal Ticket x2",
-        "pt-BR": "[Quadro de Missões]\nMissão concluída\nEXP do Passe 6 adquirido\n2x Vale Varmida",
-        "es-ES": "[Tablero de Misiones]\nMisión completada\nObtienes 6 EXP del Pase\n2 Vale Varmida"
+        "pt-BR": "[Quadro de Missões]\nMissão concluída\n6 EXP do Passe adquirido\n2x Vale Varmida",
+        "es-ES": "[Tablero de Misiones]\nMisión completada\nObtienes 6 EXP del Pase\n2x Vale Varmida"
     },
     "x7NnDQ": {
         "en-US": "[Mission Board]\nCollect Memory Fragments in Thanatos Tower.\nFragment of Agony\nFragment of Misery\nFragment of Despair\nFragment of Hatred\n^0000FF3 of each^000000",
@@ -200,19 +200,19 @@
         "es-ES": "[Tablero de Misiones]\nRecoge fragmentos de recuerdo en la Torre de Thanatos.\nFragmento de la agonía\nFragmento de la miseria\nFragmento del odio\nFragmento de la desesperación\n^0000FF3 de cada uno^000000"
     },
     "yLNnDQ": {
-        "en-US": "[Mission Board]\nDefeat 1 Sweety",
-        "pt-BR": "[Quadro de Missões]\nDerrote 1 Sweety",
-        "es-ES": "[Tablero de Misiones]\nDerrota 1 Sweety"
+        "en-US": "[Mission Board]\nDefeat 1x Sweety",
+        "pt-BR": "[Quadro de Missões]\nDerrote 1x Sweety",
+        "es-ES": "[Tablero de Misiones]\nDerrota 1x Sweety"
     },
     "ybNnDQ": {
-        "en-US": "[Mission Board]\nDefeat 1 Silva Papilia",
-        "pt-BR": "[Quadro de Missões]\nDerrote 1 Papilia Violeta",
-        "es-ES": "[Tablero de Misiones]\nDerrota 1 Silva Papilia"
+        "en-US": "[Mission Board]\nDefeat 1x Silva Papilia",
+        "pt-BR": "[Quadro de Missões]\nDerrote 1x Papilia Violeta",
+        "es-ES": "[Tablero de Misiones]\nDerrota 1x Silva Papilia"
     },
     "yrNnDQ": {
-        "en-US": "[Mission Board]\nDefeat 1 Pitaya Boss",
-        "pt-BR": "[Quadro de Missões]\nDerrote 1 Chefe Pitaya",
-        "es-ES": "[Tablero de Misiones]\nDerrota 1 Jefe Pitaya"
+        "en-US": "[Mission Board]\nDefeat 1x Pitaya Boss",
+        "pt-BR": "[Quadro de Missões]\nDerrote 1x Chefe Pitaya",
+        "es-ES": "[Tablero de Misiones]\nDerrota 1x Jefe Pitaya"
     },
     "y7NnDQ": {
         "en-US": "[Mission Board]\nQuest Complete\nObtained EXP Pass 7\nObtained Varmeal Ticket x2",
@@ -220,24 +220,24 @@
         "es-ES": "[Tablero de Misiones]\nMisión completada\nObtienes 7 EXP del Pase\n2 Vale Varmida"
     },
     "zLNnDQ": {
-        "en-US": "[Mission Board]\nDefeat 5 Void Mimic and 5 Book of Death each",
-        "pt-BR": "[Quadro de Missões]\nDerrote 5 Mímico do Vazio e 5 Livro da Morte cada",
-        "es-ES": "[Tablero de Misiones]\nDerrota 5 \nMímico del Vacío y 5 Libro Muerto"
+        "en-US": "[Mission Board]\nDefeat 5x Void Mimic and 5x Book of Death each",
+        "pt-BR": "[Quadro de Missões]\nDerrote 5x Mímico do Vazio e 5x Livro da Morte cada",
+        "es-ES": "[Tablero de Misiones]\nDerrota 5x Mímico del Vacío y 5x Libro Muerto"
     },
     "zbNnDQ": {
-        "en-US": "[Mission Board]\nDefeat 5 Eldest and 10 Crow Duke",
-        "pt-BR": "[Quadro de Missões]\nDerrote 5 Ancião Primitivo e 10 Duque Corvo",
-        "es-ES": "[Tablero de Misiones]\nDerrota 5 Anciano Primitivo y 10 Duque Cuervo"
+        "en-US": "[Mission Board]\nDefeat 5x Eldest and 10x Crow Duke",
+        "pt-BR": "[Quadro de Missões]\nDerrote 5x Ancião Primitivo e 10x Duque Corvo",
+        "es-ES": "[Tablero de Misiones]\nDerrota 5x Anciano Primitivo y 10x Duque Cuervo"
     },
     "zrNnDQ": {
-        "en-US": "[Mission Board]\nDefeat 15 Crow Baron",
-        "pt-BR": "[Quadro de Missões]\nDerrote 15 Barão Corvo",
-        "es-ES": "[Tablero de Misiones]\nDerrota 15 Barón Cuervo"
+        "en-US": "[Mission Board]\nDefeat 15x Crow Baron",
+        "pt-BR": "[Quadro de Missões]\nDerrote 15x Barão Corvo",
+        "es-ES": "[Tablero de Misiones]\nDerrota 15x Barón Cuervo"
     },
     "z7NnDQ": {
-        "en-US": "Defeat 1 Senior Red Pepper",
-        "pt-BR": "Derrote 1 Pimenta Vermelha Sênior",
-        "es-ES": "Derrota 1 Pimiento Rojo Senior"
+        "en-US": "Defeat 1x Senior Red Pepper",
+        "pt-BR": "Derrote 1x Pimentão",
+        "es-ES": "Derrota 1x Gran Pimiento Rojo"
     },
     "0LNnDQ": {
         "en-US": "[Mission Board]\nQuest Complete\nObtained EXP Pass 12\nObtained Varmeal Ticket x6",
@@ -245,18 +245,18 @@
         "es-ES": "[Tablero de Misiones]\nMisión completada\nObtienes 12 EXP del Pase\n6 Vale Varmida"
     },
     "0bNnDQ": {
-        "en-US": "Defeat 1 Thanatos Phantom or Broken Thanatos",
-        "pt-BR": "Derrote 1 Fantasma de Thanatos ou Thanatos Quebrado",
-        "es-ES": "Derrota 1 Fantasma de Thanatos o Thanatos Roto"
+        "en-US": "Defeat 1 Thanatos or Fragment of Broken Thanatos",
+        "pt-BR": "Derrote 1x Thanatos ou Fragmento de Thanatos",
+        "es-ES": "Derrota 1x Thanatos o Fragmento de Thanatos"
     },
     "0rNnDQ": {
-        "en-US": "[Mission Board]\nQuest Complete\nObtained EXP Pass 12\nObtained Fragment of Sin and Fragment of Goodwill x1 each",
-        "pt-BR": "[Quadro de Missões]\nMissão concluída\nEXP do Passe 12 adquirido\n1x Fragmento do Pecado e 1x Fragmento da Boa Vontade",
-        "es-ES": "[Tablero de Misiones]\nMisión completada\nObtienes 12 EXP del Pase\n1 Fragmento de Pecado y 1 Fragmento de Buena Voluntad"
+        "en-US": "[Mission Board]\nQuest Complete\nObtained EXP Pass 12\nObtained Sin Fragment and Virtue Fragment x1 each",
+        "pt-BR": "[Quadro de Missões]\nMissão concluída\nEXP do Passe 12 adquirido\n1x Fragmento de Pecado e 1x Fragmento de Virtude",
+        "es-ES": "[Tablero de Misiones]\nMisión completada\nObtienes 12 EXP del Pase\n1 Fragmento de Pecado y 1 Fragmento de Virtud"
     },
     "07NnDQ": {
         "en-US": "[Mission Board]\nSeason Quest\nComplete 444 cumulative daily quests for\nBattle Pass Season 2.",
-        "pt-BR": "[Quadro de Missões]\nMissão Sazonal\nConclua 444 Missões Diárias acumuladas\ndo Passe de Batalha Temporada 2.",
+        "pt-BR": "[Quadro de Missões]\nMissão Sazonal\nConclua 444 Missões Diárias\ndo Passe de Batalha Temporada 2.",
         "es-ES": "[Tablero de Misiones]\nMisión de temporada\nCompletar 444 misiones diarias acumuladas de la\nTemporada 2 del Pase de Batalla."
     },
     "1LNnDQ": {
@@ -276,17 +276,17 @@
     },
     "17NnDQ": {
         "en-US": "[Mission Board]\nA connection error has occurred.\n^FF0000Please contact the game staff^000000",
-        "pt-BR": "[Quadro de Missões]\nOcorreu um erro de conexão não encontrada.\n^FF0000Contate a equipe de suporte^000000",
+        "pt-BR": "[Quadro de Missões]\nOcorreu um erro de conexão.\n^FF0000Entre em contato com a equipe de suporte.^000000",
         "es-ES": "[Tablero de Misiones]\nHa ocurrido un error de conexión no encontrado.\n^FF0000Contacta al equipo de operaciones^000000"
     },
     "2LNnDQ": {
         "en-US": "[Mission Board]\nCumulative daily quests completed: {0}\nProgress: {1}%",
-        "pt-BR": "[Quadro de Missões]\nNúmero de Missões Diárias acumuladas concluídas: {0}\nAndamento: {1}%",
+        "pt-BR": "[Quadro de Missões]\nNúmero de Missões Diárias concluídas: {0}\nAndamento: {1}%",
         "es-ES": "[Tablero de Misiones]\nEl número de misiones diarias completadas acumuladas es {0}\nEl progreso es {1}%"
     },
     "2bNnDQ": {
         "en-US": "[Mission Board]\nQuest Complete\nObtained EXP Pass 500",
-        "pt-BR": "[Quadro de Missões]\nMissão concluída\nEXP do Passe 500 adquirido",
+        "pt-BR": "[Quadro de Missões]\nMissão concluída\n500 EXP do Passe adquirido",
         "es-ES": "[Tablero de Misiones]\nMisión completada\nObtienes 500 EXP del Pase"
     }
 }

@@ -11,8 +11,8 @@
     },
     "4uw5DQ": {
         "en-US": "Move Floors",
-        "pt-BR": "Mover de andar",
-        "es-ES": "Mover de planta"
+        "pt-BR": "Mudar de andar",
+        "es-ES": "Mover de Piso"
     },
     "4+w5DQ": {
         "en-US": "Shuffle",
@@ -22,7 +22,7 @@
     "5Ow5DQ": {
         "en-US": "Display Monsters",
         "pt-BR": "Exibir monstros",
-        "es-ES": "Mostrar monstruos"
+        "es-ES": "Mostrar Monstruos"
     },
     "5ew5DQ": {
         "en-US": "Actual Progress",
@@ -32,12 +32,12 @@
     "5uw5DQ": {
         "en-US": "[Constellation's Whisper]\nWhere did the rest of your companions go? Tell them all to come in instead of running away.",
         "pt-BR": "[Sussurro da Constelação]\nOnde estão seus outros companheiros? Não fujam. Diga a todos para entrarem.",
-        "es-ES": "[Susurro de la constelación]\n¿Dónde están tus demás compañeros? Diles que dejen de huir y entren todos."
+        "es-ES": "[Susurro de la Constelación]\n¿Dónde están tus demás compañeros? Diles que dejen de huir y entren todos."
     },
     "5+w5DQ": {
         "en-US": "[Constellation's Whisper]\nNow go forth. I will watch your progress.",
-        "pt-BR": "[Sussurro da Constelação]\nAgora, avance. Observarei seus passos.",
-        "es-ES": "[Susurro de la constelación]\nAhora avanza. Observaré tus pasos."
+        "pt-BR": "[Sussurro da Constelação]\nAgora, avancem. Observarei seus passos.",
+        "es-ES": "[Susurro de la Constelación]\nAhora avanza. Observaré tus pasos."
     },
     "6Ow5DQ": {
         "en-US": "^0000FFThe brazier wants an offering.^000000",
@@ -46,8 +46,8 @@
     },
     "6ew5DQ": {
         "en-US": "Offer {0} Meteor Dust and move to floor {1}",
-        "pt-BR": "Oferecer {0} Pó de Meteorito e ir para o {1}º andar",
-        "es-ES": "Ofrecer {0} uds. de Polvo de meteorito y moverse a la planta {1}"
+        "pt-BR": "Oferecer {0}x Pó de Meteorito e ir para o {1}º andar",
+        "es-ES": "Ofrecer {0} uds. de Polvo de Meteorito y moverse al piso {1}"
     },
     "6uw5DQ": {
         "en-US": "Cancel",
@@ -57,32 +57,32 @@
     "6+w5DQ": {
         "en-US": "^0000FFThe brazier loses its light, as if disappointed.^000000",
         "pt-BR": "^0000FFO braseiro perde o brilho, como se estivesse decepcionado.^000000",
-        "es-ES": "^0000FFEl brasero pierde su brillo, como decepcionado.^000000"
+        "es-ES": "^0000FFLa luz del brasero pierde fuerza, como decepcionado.^000000"
     },
     "7Ow5DQ": {
         "en-US": "^0000FF{0} Meteor Dust is required.^000000",
-        "pt-BR": "^0000FFSão necessários {0} Pó de Meteorito.^000000",
-        "es-ES": "^0000FFSe necesitan {0} uds. de Polvo de meteorito.^000000"
+        "pt-BR": "^0000FFSão necessários {0}x Pó de Meteorito.^000000",
+        "es-ES": "^0000FFSe necesitan {0} uds. de Polvo de Meteorito.^000000"
     },
     "7ew5DQ": {
         "en-US": "Offer {0} Meteor Dust as an offering and warp the party to floor {1}",
-        "pt-BR": "Oferecer {0} Pó de Meteorito como oferenda e teleportar o grupo para o {1}º andar",
-        "es-ES": "Ofrecer {0} uds. de Polvo de meteorito y teletransportar al grupo a la planta {1}"
+        "pt-BR": "Dê {0}x Pó de Meteorito como oferenda e teleporte o grupo para o {1}º andar",
+        "es-ES": "Ofrecer {0} uds. de Polvo de Meteorito y teletransportar al grupo al piso {1}"
     },
     "7uw5DQ": {
         "en-US": "To Betel",
         "pt-BR": "Para Betel",
-        "es-ES": "Hacia Betel"
+        "es-ES": "Ve con Betelgeuse"
     },
     "7+w5DQ": {
         "en-US": "Direct to Nacht Sieger",
-        "pt-BR": "Direto para Nacht Sieger",
-        "es-ES": "Directo a Nacht Sieger"
+        "pt-BR": "Direto para Naght Sieger",
+        "es-ES": "Directo a Naght Sieger"
     },
     "8Ow5DQ": {
         "en-US": "[Oscar]\nAre you fully prepared? If you are ready, shall we begin climbing the tower?",
         "pt-BR": "[Oscar]\nVocê já está preparado? Se estiver, vamos subir a torre agora?",
-        "es-ES": "[Oscar]\n¿Ya estáis preparados? Si estáis listos, ¿subimos directamente a la torre?"
+        "es-ES": "[Oscar]\n¿Está todo preparado? Si está todo listo, ¿subimos directamente a la Torre?"
     },
     "8ew5DQ": {
         "en-US": "Please wait a moment!",
@@ -91,53 +91,53 @@
     },
     "8uw5DQ": {
         "en-US": "Let's depart now.",
-        "pt-BR": "Vamos partir agora",
-        "es-ES": "Partamos ya"
+        "pt-BR": "Vamos partir agora.",
+        "es-ES": "Partamos ya."
     },
     "8+w5DQ": {
         "en-US": "[Oscar]\nWe do not have much time. Please hurry.",
         "pt-BR": "[Oscar]\nNão temos muito tempo. Por favor, apresse-se.",
-        "es-ES": "[Oscar]\nNo tenemos mucho tiempo. Daos prisa."
+        "es-ES": "[Oscar]\nNo tenemos mucho tiempo. Hay que apurarse."
     },
     "9Ow5DQ": {
         "en-US": "[Oscar]\nWhere are your other companions? Tell them all to come in.",
         "pt-BR": "[Oscar]\nOnde estão os outros companheiros? Diga a todos para entrarem.",
-        "es-ES": "[Oscar]\n¿Dónde están los demás compañeros? Decidles que entren todos."
+        "es-ES": "[Oscar]\n¿Dónde está el resto del grupo? Diles que entren todos."
     },
     "9ew5DQ": {
         "en-US": "[Oscar]\nI will go on ahead to the upper floors of this tower. Please handle the cleanup.",
         "pt-BR": "[Oscar]\nVou subir primeiro para o topo desta torre. Cuide da limpeza, por favor.",
-        "es-ES": "[Oscar]\nYo subiré primero a la parte superior de esta torre. Os dejo que os ocupéis de esto."
+        "es-ES": "[Oscar]\nYo subiré primero a los pisos superiores de esta Torre. Por favor, ocúpense de esto."
     },
     "9uw5DQ": {
         "en-US": "Oscar: Oh, the monsters gathered on the lower floors are already near death. It seems the higher up we go, the more of their original power they have preserved.",
-        "pt-BR": "Oscar: Ah, os monstros reunidos nos andares inferiores já estão à beira da morte. Parece que, quanto mais alto subimos, mais eles preservam sua força original.",
-        "es-ES": "Oscar: Oh, los monstruos concentrados en las plantas inferiores ya están moribundos. Parece que, cuanto más se asciende, más conservan su fuerza original."
+        "pt-BR": "Oscar: Ah, quanto mais sobe, mais fortes os monstros ficam.",
+        "es-ES": "Oscar: Oh, los monstruos concentrados en los pisos inferiores ya están moribundos. Parece que, cuanto más subimos, más conservan su fuerza original."
     },
     "9+w5DQ": {
         "en-US": "Oscar: I suspect they were severely attacked by someone on the upper floors of the tower and driven down.",
-        "pt-BR": "Oscar: Talvez tenham recebido um ataque intenso de alguém nos andares superiores da torre e tenham sido expulsos para baixo.",
-        "es-ES": "Oscar: Supongo que alguien los atacó con dureza en las plantas superiores de la torre y los obligó a bajar."
+        "pt-BR": "Oscar: Acho que alguém no topo está fortalecendo eles.",
+        "es-ES": "Oscar: Supongo que alguien los atacó con fuerza en los pisos superiores de la Torre y los obligó a bajar."
     },
     "+Ow5DQ": {
         "en-US": "Oscar: In any case, be careful. I will be releasing the barriers blocking the floors.",
-        "pt-BR": "Oscar: De qualquer forma, tenha cuidado. Vou desfazer as barreiras que bloqueiam os andares.",
-        "es-ES": "Oscar: En cualquier caso, tened cuidado. Yo iré deshaciendo las barreras que bloquean las plantas."
+        "pt-BR": "Oscar: Enfim, tenha cuidado. Vou desfazer as barreiras que bloqueiam os andares.",
+        "es-ES": "Oscar: En cualquier caso, tengan cuidado. Yo iré deshaciendo las barreras que bloquean los pisos."
     },
     "+ew5DQ": {
         "en-US": "Constellation's Whisper: One of your companions has fled like a coward. Call them here at once.",
         "pt-BR": "Sussurro da Constelação: Há um covarde entre seus companheiros que fugiu. Traga-o para cá imediatamente.",
-        "es-ES": "Susurro de la constelación: Uno de tus compañeros ha huido cobardemente. Llámalo aquí de inmediato."
+        "es-ES": "Susurro de la Constelación: Uno de tus compañeros ha huido cobardemente. Llámalo aquí de inmediato."
     },
     "+uw5DQ": {
         "en-US": "Constellation's Whisper: Do you intend to abandon a fallen companion? How pathetic.",
-        "pt-BR": "Sussurro da Constelação: Pretende abandonar um companheiro caído? Que patético.",
-        "es-ES": "Susurro de la constelación: ¿Vas a abandonar a un compañero caído? Qué despreciable."
+        "pt-BR": "Sussurro da Constelação: Pretende abandonar um companheiro morto? Patético.",
+        "es-ES": "Susurro de la Constelación: ¿Vas a abandonar a un compañero caído? Qué mala persona."
     },
     "++w5DQ": {
         "en-US": "Constellation's Whisper: There are still living beings remaining. Surely you are not running away?",
-        "pt-BR": "Sussurro da Constelação: Ainda há seres vivos restantes. Não vai me dizer que está fugindo, vai?",
-        "es-ES": "Susurro de la constelación: Aún queda un ser con vida. ¿Acaso piensas huir?"
+        "pt-BR": "Sussurro da Constelação: Ainda há monstros vivos. Perdeu de vista?",
+        "es-ES": "Susurro de la Constelación: Aún quedan seres con vida. ¿Acaso piensas huir?"
     },
     "/Ow5DQ": {
         "en-US": "ROUND{0}",
@@ -311,8 +311,8 @@
     },
     "Hu05DQ": {
         "en-US": "Wanderer",
-        "pt-BR": "Musa",
-        "es-ES": "Nómada"
+        "pt-BR": "Andarilho",
+        "es-ES": "Vagabundo"
     },
     "H+05DQ": {
         "en-US": "Clock",
@@ -826,8 +826,8 @@
     },
     "he05DQ": {
         "en-US": "Wanderer",
-        "pt-BR": "Musa",
-        "es-ES": "Nómada"
+        "pt-BR": "Andarilho",
+        "es-ES": "Vagabundos"
     },
     "hu05DQ": {
         "en-US": "Bloody Murderer",
@@ -906,8 +906,8 @@
     },
     "le05DQ": {
         "en-US": "Thoughts of floor {0}",
-        "pt-BR": "Memória do {0}º andar",
-        "es-ES": "Rencor de la planta {0}"
+        "pt-BR": "{0}º andar",
+        "es-ES": "Reflexiones del piso {0}"
     },
     "lu05DQ": {
         "en-US": "{0}#{1}",

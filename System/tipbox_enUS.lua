@@ -6331,5 +6331,92 @@ tbl_string = {
 				[10] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
 			}
 		}
+	},
+	[5001] = {
+		Title = "MD Geffen Night Arena(210)#GeffenNightArenaTournamentHero'sTraceMagic",
+		Page = {
+			[1] = {
+				[1] = "There is intelligence that there is a place where the fighters who were active in the Magic Tournament take off their masks and brawl. Perhaps if you ask the gruff-looking man, you can get some useful information?",
+				[2] = "",
+				[3] = "» Dungeon Layout",
+				[4] = "§ Can be challenged repeatedly once every 3 days",
+				[5] = "§ Time limit: 60 minutes",
+				[6] = "(However, each round has a 1-minute time limit)",
+				[7] = "§ Level 210 or higher",
+				[8] = "",
+				[9] = "Initial Starting Point",
+				[10] = "<NAVI>[Gruff-Looking Man]<INFO>geffen_in,78,62,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "Dungeon Entrance Location",
+				[13] = "<NAVI>[Abandoned Portal]<INFO>dali02,80,61,0,101,0</INFO></NAVI>",
+				[14] = "",
+				[15] = "Equipment Exchange Location",
+				[16] = "<NAVI>[Abandoned Vending Machine]<INFO>dali02,83,67,0,101,0</INFO></NAVI>",
+				[17] = "",
+				[18] = "<TIPBOX>»Previous Page<INFO>7129</INFO></TIPBOX>",
+				[19] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6095] = {
+		Title = "Airship Crash Site#Airship#Crash Site#Memorial#Side Story#Hero's Trail#",
+		Page = {
+			[1] = {
+				[1] = "Hero's Trail Side Story! Airship Crash Site",
+				[2] = "A Dimensional Gap leading to the Mjolnir Mountains, where the airship crashed, was discovered by a Laphine. Explore the hollow found at the crash site.",
+				[3] = "<NAVI>[Dr. Dry Circle Strong]<INFO>dali02,137,86,0,101,0</INFO></NAVI>",
+				[4] = "",
+				[5] = "» Quest Requirements",
+				[6] = "^663399§ Level 200^000000",
+				[7] = "",
+				[8] = "<TIPBOX>»View Airship Crash Site Rewards<INFO>6096</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6096] = {
+		Title = "Airship Crash Site Rewards#Airship#Crash Site#Memorial#Side Story#Hero's Trail#Rewards#",
+		Page = {
+			[1] = {
+				[1] = "<ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM>, obtainable from Airship Crash Site, can be exchanged for various rewards.",
+				[2] = "» Elixirs & Storage Devices",
+				[3] = "<ITEM>[Purified Growth Potion]<INFO>100460</INFO></ITEM>",
+				[4] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x5",
+				[5] = "",
+				[6] = "<ITEM>[Purple Special Storage Device]<INFO>100475</INFO></ITEM>",
+				[7] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x25",
+				[8] = "§ <ITEM>[Purified Growth Potion]<INFO>100460</INFO></ITEM> x10",
+				[9] = "",
+				[10] = "» Unknown Boots & Enhancement Items",
+				[11] = "<ITEM>[Unknown Power Boots]<INFO>470071</INFO></ITEM>",
+				[12] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x25",
+				[13] = "",
+				[14] = "<ITEM>[Unknown Dexterity Boots]<INFO>470072</INFO></ITEM>",
+				[15] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x25",
+				[16] = "",
+				[17] = "<ITEM>[Unknown Vitality Boots]<INFO>470073</INFO></ITEM>",
+				[18] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x25",
+				[19] = "",
+				[20] = "<ITEM>[Unknown Magic Boots]<INFO>470074</INFO></ITEM>",
+				[21] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x25",
+				[22] = "",
+				[23] = "<ITEM>[Unknown Agility Boots]<INFO>470076</INFO></ITEM>",
+				[24] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x25",
+				[25] = "",
+				[26] = "<ITEM>[Unknown Luck Boots]<INFO>470077</INFO></ITEM>",
+				[27] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x25",
+				[28] = "",
+				[29] = "<ITEM>[Magic-Charged Orb]<INFO>100476</INFO></ITEM>",
+				[30] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x5",
+				[31] = "§ 30,000 Zeny",
+				[32] = "",
+				[33] = "» Card Albums",
+				[34] = "<ITEM>[Contaminated Card Album]<INFO>100462</INFO></ITEM>",
+				[35] = "§ <ITEM>[Magic-Infused Stone]<INFO>1000363</INFO></ITEM> x50",
+				[36] = "",
+				[37] = "<TIPBOX>»View Airship Crash Site<INFO>6095</INFO></TIPBOX>",
+				[38] = "<TIPBOX>»View Tip List<INFO>1000</INFO></TIPBOX>"
+			}
+		}
 	}
 }

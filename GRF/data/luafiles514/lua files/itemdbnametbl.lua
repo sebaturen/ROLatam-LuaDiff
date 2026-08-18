@@ -1481,7 +1481,32 @@ ItemDBNameTbl = {
 	S_KingbirdAncient_Armor = 24401,
 	Hero_Up_Cube_11 = 102224,
 	Clock_Tower_W_Hammer = 101390,
-	Poenitentia_Hammer = 101306
+	Poenitentia_Hammer = 101306,
+	Thanos_Refine_Hammer = 100619,
+	Freedom_Stick_LT = 550082,
+	Blessed_Knife_LT = 510072,
+	Humma_Clear_LT = 650024,
+	Fog_Dew_Sword_LT = 510060,
+	Crimson_Rose_LT = 800013,
+	Master_Soul_Rifle_LT = 810009,
+	Demon_S_Shot_LT = 820007,
+	The_Black_Gatling_LT = 830012,
+	Golden_L_Launcher_LT = 840008,
+	MeawFoxtail_LT = 550067,
+	OneSkyOneSun_LT = 540048,
+	SoulWeight_LT = 550068,
+	Hero_Weapon_Up_Box_6 = 101190,
+	Hero_Weapon_Hammer_6 = 101189,
+	Thanos_Upgrade_Box = 100817,
+	Thanos_Helm_1 = 400134,
+	Thanos_Helm1_LT = 400135,
+	Thanos_Helm_2 = 400141,
+	Thanos_Helm2_LT = 400142,
+	Thanos_Helm_3 = 400146,
+	Thanos_Helm3_LT = 400145,
+	Thanos_Helm_4 = 400150,
+	Thanos_Helm4_LT = 400151,
+	Adulter_Weapon_Up_Box = 101078
 }
 function ItemDB_To_ItemID(in_ItemDB)
 	if nil == ItemDBNameTbl[in_ItemDB] then

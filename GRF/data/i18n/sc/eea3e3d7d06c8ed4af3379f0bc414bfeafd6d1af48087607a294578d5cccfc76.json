@@ -1,47 +1,47 @@
 {
     "gADmDA": {
         "en-US": "[Equipment Modification Promoter]",
-        "pt-BR": "Promotor de Modificação de Equipamentos",
+        "pt-BR": "Promotora de Reformas",
         "es-ES": "Promotor de Modificación de Equipos"
     },
     "gQDmDA": {
         "en-US": "Hello, Adventurer!\nAre you dissatisfied with your current equipment?\nWouldn't you like to try a brand-new modification method unlike any other?\nJoin the Regenschirm Laboratory!\"",
-        "pt-BR": "[Promotor de Modificação de Equipamentos]\nOlá, Aventureiro!\nVocê está insatisfeito com seu equipamento atual?\nNão gostaria de experimentar um novo método de modificação como nenhum outro?\nJunte-se ao Laboratório Regenschirm!",
+        "pt-BR": "[Promotora de Reformas]\nOlá, viajante!\nVocê está triste com seu equipamento atual?\nNão gostaria de experimentar um novo método de modificação como nenhum outro?\nVenha conhecer o Laboratório Regenschirm!",
         "es-ES": "[Promotor de Modificación de Equipos]\n¡Hola, Trotamundo!\n¿Estás insatisfecho con tu equipo actual?\n¿No te gustaría probar un nuevo método de modificación como ningún otro?\n¡Únete al Laboratorio Regenschirm!"
     },
     "ggDmDA": {
         "en-US": "I'll check it out.",
-        "pt-BR": "Vou dar uma olhada.",
+        "pt-BR": "Me leve até lá.",
         "es-ES": "Voy a echar un vistazo."
     },
     "gwDmDA": {
         "en-US": "Listen to the explanation.",
-        "pt-BR": "Ouvir a explicação.",
+        "pt-BR": "Explique melhor.",
         "es-ES": "Escuchar la explicación."
     },
     "hADmDA": {
         "en-US": "Move on.",
-        "pt-BR": "Passar.",
+        "pt-BR": "Ignorar.",
         "es-ES": "Pasar."
     },
     "hQDmDA": {
         "en-US": "[Equipment Modification Promoter]\nGreat! Since other facilities in the laboratory are classified and restricted, I will guide you through a special route accessible to outsiders!",
-        "pt-BR": "[Promotor de Modificação de Equipamentos]\nÓtimo! Como outras instalações do laboratório são confidenciais e de acesso restrito, vou guiá-lo por um caminho especial acessível a visitantes!",
+        "pt-BR": "[Promotora de Reformas]\nÓtimo! Como laboratório é de acesso restrito, vou te levar por um caminho especial de visitantes!",
         "es-ES": "[Promotor de Modificación de Equipos]\n¡Excelente! Como otras instalaciones del laboratorio son confidenciales y de acceso restringido, te guiaré por una ruta especial accesible para visitantes!"
     },
     "hgDmDA": {
         "en-US": "[Equipment Modification Promoter]\nAll equipment in the world! Weapons, armor, accessories, and more can be modified through ongoing research at the Regenschirm Laboratory...\nWe are still collecting data alongside research and modifications, so we need many adventurers' modification results.",
-        "pt-BR": "[Promotor de Modificação de Equipamentos]\nTodos os equipamentos do mundo! Armas, armaduras, acessórios e muito mais podem ser modificados através das pesquisas em andamento no Laboratório Regenschirm...\nAinda estamos coletando dados junto com a pesquisa e as modificações, então precisamos dos resultados de muitos aventureiros.",
+        "pt-BR": "[Promotora de Reformas]\nTemos equipes especializadas trabalhando em Armas e Armaduras reformáveis. \nComo precisamos coletar dados, toda contribuição é bem-vinda!",
         "es-ES": "[Promotor de Modificación de Equipos]\n¡Todos los equipos del mundo! Armas, armaduras, accesorios y más pueden ser modificados mediante investigaciones en curso en el Laboratorio Regenschirm...\nAún estamos recopilando datos junto con la investigación y las modificaciones, por lo que necesitamos los resultados de muchos aventureros."
     },
     "hwDmDA": {
         "en-US": "[Equipment Modification Promoter]\nResearch is ongoing, and more equipment will be added as it is completed, so please look forward to it!",
-        "pt-BR": "[Promotor de Modificação de Equipamentos]\nA pesquisa continua em andamento, e mais equipamentos serão adicionados assim que estiverem prontos, então aguarde!",
+        "pt-BR": "[Promotora de Reformas]\nReformar um equipamento é mais intuitivo que você imagina! Preparamos um dispositivo especial para instruir melhor.",
         "es-ES": "[Promotor de Modificación de Equipos]\nLa investigación continúa, y se añadirán más equipos a medida que se completen, ¡así que espéralo con ansias!"
     },
     "iADmDA": {
         "en-US": "[Equipment Modification Promoter]\nIf you become interested later, feel free to come back!",
-        "pt-BR": "[Promotor de Modificação de Equipamentos]\nSe tiver interesse depois, volte novamente!",
+        "pt-BR": "[Promotora de Reformas]\nSe tiver interesse, volte novamente!",
         "es-ES": "[Promotor de Modificación de Equipos]\nSi más adelante te interesa, ¡vuelve de nuevo!"
     },
     "iQDmDA": {
@@ -51,7 +51,7 @@
     },
     "igDmDA": {
         "en-US": "[Exit Guard]\nHave you finished your business?\nWould you like to return to ^FF0000Lighthalzen^000000?",
-        "pt-BR": "[Guarda de Saída]\nVocê terminou seus assuntos?\nDeseja retornar para ^FF0000Lighthalzen^000000?",
+        "pt-BR": "[Guarda de Saída]\nVocê terminou por aqui?\nDeseja retornar para ^FF0000Lighthalzen^000000?",
         "es-ES": "[Guardia de Salida]\n¿Has terminado tus asuntos?\n¿Deseas regresar a ^FF0000Lighthalzen^000000?"
     },
     "iwDmDA": {
@@ -66,7 +66,7 @@
     },
     "jQDmDA": {
         "en-US": "[Exit Guard]\nI will guide you to the exit.",
-        "pt-BR": "[Guarda de Saída]\nVou guiá-lo até a saída.",
+        "pt-BR": "[Guarda de Saída]\nVou te mostrar a saída.",
         "es-ES": "[Guardia de Salida]\nTe guiaré hacia la salida."
     },
     "jgDmDA": {
@@ -76,7 +76,7 @@
     },
     "jwDmDA": {
         "en-US": "[Exit Guard]\nHave you finished your business?\nWould you like to return to ^FF0000Item Mall^000000?",
-        "pt-BR": "[Guarda de Saída]\nVocê terminou seus assuntos?\nDeseja retornar para ^FF0000Loja de Itens^000000?",
+        "pt-BR": "[Guarda de Saída]\nVocê terminou por aqui?\nDeseja retornar para o ^FF0000Shopping^000000?",
         "es-ES": "[Guardia de Salida]\n¿Has terminado tus asuntos?\n¿Deseas regresar a ^FF0000Centro Comercial de Objetos^000000?"
     },
     "kADmDA": {
@@ -86,17 +86,17 @@
     },
     "kQDmDA": {
         "en-US": "[Head of Laboratory]\n...Welcome.\nYou must have heard the explanation on your way here, but to briefly introduce this place, we are conducting research to modify as many weapons, armors, and accessories as possible into something from another dimension, although there is still a long way to go.",
-        "pt-BR": "[Chefe do Laboratório]\n...Bem-vindo.\nVocê já deve ter ouvido a explicação ao chegar, mas para resumir, estamos pesquisando formas de modificar armas, armaduras e acessórios em algo de outra dimensão, embora ainda haja um longo caminho.",
+        "pt-BR": "[Chefe do Laboratório]\n...Boas-vindas.\nVocê já deve ter ouvido a explicação ao chegar, mas para resumir, estamos pesquisando formas de modificar armas, armaduras e acessórios em algo de outra dimensão, embora ainda haja um longo caminho.",
         "es-ES": "[Jefe del Laboratorio]\n...Bienvenido.\nSeguro ya escuchaste la explicación, pero en resumen, investigamos cómo modificar armas, armaduras y accesorios en algo de otra dimensión, aunque aún queda mucho camino."
     },
     "kgDmDA": {
         "en-US": "[Head of Laboratory]\nThe refinement level of the equipment will inevitably decrease, but you can consider it as a necessary effort for greater power.",
-        "pt-BR": "[Chefe do Laboratório]\nO nível de refino do equipamento será reduzido, mas considere isso um esforço necessário para um poder maior.",
+        "pt-BR": "[Chefe do Laboratório]\nAo reformar, preste atenção nas perdas de refinamento ou qualquer outro efeito colateral.",
         "es-ES": "[Jefe del Laboratorio]\nEl nivel de refinamiento disminuirá, pero considéralo un esfuerzo necesario para mayor poder."
     },
     "kwDmDA": {
         "en-US": "[Head of Laboratory]\nResearch is still ongoing, so we cannot say when or what will suddenly be completed and provided to adventurers.\nWell... things will work out as data continues to be collected.",
-        "pt-BR": "[Chefe do Laboratório]\nA pesquisa ainda está em andamento, então não sabemos quando ou o que será concluído e disponibilizado aos aventureiros.\nBem... tudo vai se resolver conforme os dados forem coletados.",
+        "pt-BR": "[Chefe do Laboratório]\nO dispositivo de reforma é bem intuitivo, você consegue se informar até dos materiais necessários.\nBem... tudo vai se resolver conforme os dados forem coletados.",
         "es-ES": "[Jefe del Laboratorio]\nLa investigación sigue en curso, así que no sabemos cuándo ni qué estará disponible.\nBueno... todo dependerá de los datos recopilados."
     },
     "lADmDA": {
@@ -116,7 +116,7 @@
     },
     "lwDmDA": {
         "en-US": "[Geffra]\nWelcome.\nSince our lab is always short on budget, we ended up setting up something like this.\nThe ores used in this lab are refined by me and my assistants, for a fee.",
-        "pt-BR": "[Geffra]\nBem-vindo.\nComo nosso laboratório sempre tem pouco orçamento, acabamos montando algo assim.\nOs minérios usados aqui são refinados por mim e meus assistentes, mediante taxa.",
+        "pt-BR": "[Geffra]\nBoas-vindas.\nComo nosso laboratório sempre tem pouco orçamento, acabamos montando algo assim.\nOs minérios usados aqui são refinados por mim e meus assistentes, mediante taxa.",
         "es-ES": "[Geffra]\nBienvenido.\nComo el laboratorio siempre tiene poco presupuesto, instalamos esto.\nLos minerales son refinados por mí y mis asistentes, con tarifa."
     },
     "mADmDA": {
@@ -171,7 +171,7 @@
     },
     "ogDmDA": {
         "en-US": "[Geffra]\nAre you short on ores? Then I have something I'm collecting...\nDo you happen to have Shadowdeocon?",
-        "pt-BR": "[Geffra]\nFaltando minérios? Tenho algo que estou coletando...\nVocê tem Shadowdeocon?",
+        "pt-BR": "[Geffra]\nFaltando minérios? Tenho algo que estou coletando...\nVocê tem Sombridecon?",
         "es-ES": "[Geffra]\n¿Faltan minerales? Hay algo que estoy recolectando algo...\n¿Tienes Shadowdeocon?"
     },
     "owDmDA": {
@@ -251,12 +251,12 @@
     },
     "sgDmDA": {
         "en-US": "[Phase]\nLet's see... a guest.\nI like people who know what they want.\nCheck the modifiable items in <TIPBOX>[List]<INFO>9163</INFO></TIPBOX>.\nFor anything else, just tell me what you want.",
-        "pt-BR": "[Fase]\nVamos ver... um visitante.\nGosto de pessoas decididas.\nVeja os itens modificáveis em <TIPBOX>[Lista]<INFO>9163</INFO></TIPBOX>.\nCaso contrário, diga o que deseja.",
+        "pt-BR": "[Paze]\nOh... olá!\nQuer olhar meus <TIPBOX>[Itens]<INFO>9163</INFO></TIPBOX>?\nSe um item termina com -AD, fomos nós que reformamos!\nEm que posso ajudar?",
         "es-ES": "[Fase]\nVeamos... un visitante.\nMe gustan las personas decididas.\nConsulta los objetos en <TIPBOX>[Lista]<INFO>9163</INFO></TIPBOX>.\nSi no, dime qué necesitas."
     },
     "swDmDA": {
         "en-US": "Thanatos Weapons",
-        "pt-BR": "Armas Thanatos",
+        "pt-BR": "Armas de Cinzas",
         "es-ES": "Armas Thanatos"
     },
     "tADmDA": {
@@ -266,47 +266,47 @@
     },
     "tQDmDA": {
         "en-US": "[Phase]\nFor ^0000FFThanatos Weapons^000000, there are basic and intermediate modification methods.",
-        "pt-BR": "[Fase]\nPara ^0000FFArmas Thanatos^000000, existem modificações básica e intermediária.",
+        "pt-BR": "[Paze]\nPara ^0000FFArmas de Cinzas^000000, temos a Reforma Inferior e Comum.",
         "es-ES": "[Fase]\nPara ^0000FFArmas Thanatos^000000, hay modificaciones básica e intermedia."
     },
     "tgDmDA": {
         "en-US": "Basic Modification",
-        "pt-BR": "Modificação Básica",
+        "pt-BR": "Reforma Inferior",
         "es-ES": "Modificación Básica"
     },
     "twDmDA": {
         "en-US": "Intermediate Modification",
-        "pt-BR": "Modificação Intermediária",
+        "pt-BR": "Reforma Comum",
         "es-ES": "Modificación Intermedia"
     },
     "uADmDA": {
         "en-US": "[Phase]\nBasic modification for Thanatos weapons.\n^FF0000Refinement decreases by 5^000000, but requires fewer materials.\nAlso, the weapon must be refined to +9 or higher.",
-        "pt-BR": "[Fase]\nModificação básica das armas Thanatos.\n^FF0000Refino reduz em 5^000000, mas requer menos materiais.\nÉ necessário refino +9 ou mais.",
+        "pt-BR": "[Paze]\nReforma Inferior das Armas de Cinzas.\n^FF0000Refino reduz em 5^000000, mas requer menos materiais.\nÉ necessário refino +9 ou mais.",
         "es-ES": "[Fase]\nModificación básica de armas Thanatos.\n^FF0000Reduce 5 de refino^000000, pero requiere menos materiales.\nNecesita +9 o más."
     },
     "uQDmDA": {
         "en-US": "[Phase]\nIntermediate modification for Thanatos weapons.\n^FF0000Refinement decreases by 1^000000, but requires more materials.\nAlso, the weapon must be refined to +9 or higher.",
-        "pt-BR": "[Fase]\nModificação intermediária das armas Thanatos.\n^FF0000Refino reduz em 1^000000, mas requer mais materiais.\nÉ necessário refino +9 ou mais.",
+        "pt-BR": "[Paze]\nReforma Comum das Armas de Cinzas.\n^FF0000Refino reduz em 1^000000, mas requer mais materiais.\nÉ necessário refino +9 ou mais.",
         "es-ES": "[Fase]\nModificación intermedia de armas Thanatos.\n^FF0000Reduce 1 de refino^000000, pero requiere más materiales.\nNecesita +9 o más."
     },
     "ugDmDA": {
         "en-US": "[Phase]\nCome back when you need modifications.\nWe always welcome those who support our research.",
-        "pt-BR": "[Fase]\nVolte quando precisar.\nAjudantes da pesquisa são sempre bem-vindos.",
+        "pt-BR": "[Paze]\nVolte quando precisar.\nAjudantes da pesquisa são sempre bem-vindos.",
         "es-ES": "[Fase]\nVuelve cuando lo necesites.\nSiempre damos la bienvenida a quienes ayudan."
     },
     "uwDmDA": {
         "en-US": "[Phase]\nAs for ^0000FFOS Weapons^000000...\nFor modification, refinement must be +7 or higher.\nIt does not decrease.\nDid you bring the item?",
-        "pt-BR": "[Fase]\nQuanto às ^0000FFArmas OS^000000...\nÉ necessário refino +7 ou mais.\nNão há redução.\nTrouxe o item?",
+        "pt-BR": "[Paze]\nQuanto às ^0000FFArmas OS^000000...\nÉ necessário refino +7 ou mais.\nNão há redução do refino.\nTrouxe o item?",
         "es-ES": "[Fase]\nSobre las ^0000FFArmas OS^000000...\nRequiere refino +7 o más.\nNo se reduce.\n¿Trajiste el objeto?"
     },
     "vADmDA": {
         "en-US": "Modify",
-        "pt-BR": "Modificar",
+        "pt-BR": "Reformar",
         "es-ES": "Modificar"
     },
     "vQDmDA": {
         "en-US": "[Phase]\nLet's see what you've brought.",
-        "pt-BR": "[Fase]\nVamos ver o que você trouxe.",
+        "pt-BR": "[Paze]\nVamos ver o que você trouxe.",
         "es-ES": "[Fase]\nVeamos qué trajiste."
     }
 }

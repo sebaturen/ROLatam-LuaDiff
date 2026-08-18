@@ -25,7 +25,7 @@
         "es-ES": "Master Guardian"
     },
     "xQ4WAg": {
-        "en-US": "Bergel",
+        "en-US": "Saffran",
         "pt-BR": "Saffran",
         "es-ES": "Saffran"
     },
@@ -205,7 +205,7 @@
         "es-ES": "Kellvahni"
     },
     "6Q4WAg": {
-        "en-US": "ssss[{0}] guild has conquered Bergel in the [{1}] Realm.",
+        "en-US": "ssssThe clan [{0}] has conquered the castle [{1}]",
         "pt-BR": "ssssO clã [{0}] conquistou o castelo [{1}]",
         "es-ES": "ssssEl gremio [{0}] conquistó el castillo [{1}]"
     },
@@ -587,7 +587,7 @@
     "NQ8WAg": {
         "en-US": "[Butler Kellvahni]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Kellvahni]\n...\nFuncionária Kafra dispensada... mas há algo de que você não gostou?",
-        "es-ES": "[Mayordomo Kellvahni]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Kellvahni]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
     },
     "Ng8WAg": {
         "en-US": "[Butler Kellvahni]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -680,27 +680,43 @@
         "es-ES": "No pasó nada."
     },
     "SA8WAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "SQ8WAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "Sg8WAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "Sw8WAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "TA8WAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "TQ8WAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "Tg8WAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     },
     "Tw8WAg": {
-        "en-US": "{0} /"
+        "en-US": "{0} /",
+        "pt-BR": "{0} /",
+        "es-ES": "{0} /"
     }
 }

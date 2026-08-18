@@ -20877,6 +20877,76 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Pedras Preciosas"
+		},
+		SpellCaster_Shadow_Up = {
+			ItemID = 101179,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_SpellCaster_Armor",
+					24747
+				},
+				{
+					"S_SpellCaster_Shoes",
+					24748
+				},
+				{
+					"S_SpellCaster_Earring",
+					24749
+				},
+				{
+					"S_SpellCaster_Pendant",
+					24750
+				}
+			},
+			NeedSource_String = "Sombrio do Conjurador"
+		},
+		MajorAutoSpell_Up = {
+			ItemID = 101359,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_M_AutoSpell_Armor",
+					24728
+				},
+				{
+					"S_M_AutoSpell_Shoes",
+					24729
+				},
+				{
+					"S_M_AutoSpell_Earring",
+					24730
+				},
+				{
+					"S_M_AutoSpell_Pendant",
+					24731
+				}
+			},
+			NeedSource_String = "Sombrio de Auto Conjuração Maior"
+		},
+		Hasty_Up = {
+			ItemID = 101360,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Hasty_Weapon",
+					24439
+				},
+				{
+					"S_Hasty_Shield",
+					24732
+				}
+			},
+			NeedSource_String = "Sombrio Ágil"
 		}
 	},
 	get_lapine_box = function(in_box_id)

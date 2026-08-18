@@ -6,7 +6,7 @@
     },
     "QWY4DQ": {
         "en-US": "^FF0000It seems you are carrying too many types of items or too much weight to use the vending machine. Please organize your inventory.^000000",
-        "pt-BR": "^FF0000Parece que você está carregando muitos tipos de itens ou peso demais para usar a máquina de vendas. Organize seu inventário.^000000",
+        "pt-BR": "^FF0000Parece que você está carregando muitos tipos de itens ou peso demais para usar a máquina. Organize seu inventário.^000000",
         "es-ES": "^FF0000Parece que tienes demasiados tipos de objetos o demasiado peso para usar la máquina expendedora. Organiza tu inventario.^000000"
     },
     "QmY4DQ": {
@@ -16,37 +16,37 @@
     },
     "Q2Y4DQ": {
         "en-US": "Power Nebula Armor",
-        "pt-BR": "Armadura da Nebulosa da Força",
-        "es-ES": "Armadura de nebulosa de fuerza"
+        "pt-BR": "Encantar Armadura Nebulosa POD",
+        "es-ES": "Armadura Nebulosa de Fuerza"
     },
     "RGY4DQ": {
         "en-US": "Vitality Nebula Armor",
-        "pt-BR": "Armadura da Nebulosa da Vitalidade",
-        "es-ES": "Armadura de nebulosa de vitalidad"
+        "pt-BR": "Encantar Armadura Nebulosa STA",
+        "es-ES": "Armadura Nebulosa de Vitalidad"
     },
     "RWY4DQ": {
         "en-US": "Agility Nebula Suit",
-        "pt-BR": "Traje da Nebulosa da Agilidade",
-        "es-ES": "Traje de nebulosa de agilidad"
+        "pt-BR": "Encantar Túnica Nebulosa CON",
+        "es-ES": "Traje Nebuloso de Agilidad"
     },
     "RmY4DQ": {
         "en-US": "Luck Nebula Suit",
-        "pt-BR": "Traje da Nebulosa da Sorte",
-        "es-ES": "Traje de nebulosa de suerte"
+        "pt-BR": "Encantar Túnica Nebulosa CRV",
+        "es-ES": "Traje Nebuloso de Suerte"
     },
     "R2Y4DQ": {
         "en-US": "Wisdom Nebula Robe",
-        "pt-BR": "Robe da Nebulosa da Sabedoria",
-        "es-ES": "Robe de nebulosa de sabiduría"
+        "pt-BR": "Encantar Veste Nebulosa FEI",
+        "es-ES": "Túnica Nebulosa de Sabiduría"
     },
     "SGY4DQ": {
         "en-US": "Spirit Nebula Robe",
-        "pt-BR": "Robe da Nebulosa do Espírito",
-        "es-ES": "Robe de nebulosa de espíritu"
+        "pt-BR": "Encantar Veste Nebulosa SAB",
+        "es-ES": "Túnica Nebulosa Espiritual"
     },
     "SWY4DQ": {
         "en-US": "Accessory",
-        "pt-BR": "Acessório",
+        "pt-BR": "Encantar Sinete Estelar",
         "es-ES": "Accesorio"
     },
     "SmY4DQ": {
@@ -56,8 +56,8 @@
     },
     "S2Y4DQ": {
         "en-US": "^0000AAIt appears to be Oscar's new product vending machine.^000000",
-        "pt-BR": "^0000AAParece ser a máquina de vendas de novos produtos de Oscar.^000000",
-        "es-ES": "^0000AAParece que es una nueva máquina expendedora de Oscar.^000000"
+        "pt-BR": "^0000AAParece ser a máquina de novos produtos do Oscar.^000000",
+        "es-ES": "^0000AAParece que es la nueva máquina expendedora de Oscar.^000000"
     },
     "TGY4DQ": {
         "en-US": "Do Not Touch",
@@ -66,28 +66,28 @@
     },
     "TWY4DQ": {
         "en-US": "Sale Items (Armor)",
-        "pt-BR": "Itens à venda (Armaduras)",
-        "es-ES": "Productos en venta (armaduras)"
+        "pt-BR": "Ver Armaduras Nebulosas",
+        "es-ES": "Productos en venta (Armaduras)"
     },
     "TmY4DQ": {
         "en-US": "Sale Items (Insignia)",
-        "pt-BR": "Itens à venda (Insígnias)",
-        "es-ES": "Productos en venta (insignias)"
+        "pt-BR": "Ver Sinetes Estelares",
+        "es-ES": "Productos en venta (Insignias)"
     },
     "T2Y4DQ": {
         "en-US": "Dismantle Meteor Fragment",
         "pt-BR": "Desmontar Fragmento de Meteorito",
-        "es-ES": "Descomposición de Fragmento de meteorito"
+        "es-ES": "Fragmento de Meteorito"
     },
     "UGY4DQ": {
         "en-US": "^0000AAYou decide to check the vending machine's product list next time.^000000",
-        "pt-BR": "^0000AAVocê deixa para ver a lista de produtos da máquina de vendas depois.^000000",
-        "es-ES": "^0000AAVerás la lista de productos de la máquina expendedora en otra ocasión.^000000"
+        "pt-BR": "^0000AAVocê deixa para ver a lista para depois.^000000",
+        "es-ES": "^0000AADecidiste ver la lista de productos de la máquina expendedora en otra ocasión.^000000"
     },
     "UWY4DQ": {
         "en-US": "Would you like to dismantle\n[<ITEM>Meteor Fragment<INFO>1000373</INFO></ITEM>] x1\ninto [<ITEM>Meteor Dust<INFO>1000372</INFO></ITEM>] x40?\n----------\nRemaining Meteor Fragment - ^0000FF{0}^000000",
-        "pt-BR": "[<ITEM>Fragmento de Meteorito<INFO>1000373</INFO></ITEM>] 1 unidade será\ndesmontada em 40 unidades de\n[<ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM>].\nDeseja prosseguir?\n----------\nFragmento de Meteorito restante - ^0000FF{0}^000000 unidades",
-        "es-ES": "[<ITEM>Fragmento de meteorito<INFO>1000373</INFO></ITEM>] x1\nen\n[<ITEM>Polvo de meteorito<INFO>1000372</INFO></ITEM>] x40.\n¿Quieres descomponerlo?\n----------\nFragmento de meteorito restante - ^0000FF{0}^000000"
+        "pt-BR": "1x [<ITEM>Fragmento de Meteorito<INFO>1000373</INFO></ITEM>] será\ndesmontado em 40x [<ITEM>Pó de Meteorito<INFO>1000372</INFO></ITEM>].\nDeseja prosseguir?\n----------\nResta ^0000FF{0}^000000 Fragmento de Meteorito",
+        "es-ES": "¿Quieres descomponer [<ITEM>Fragmento de Meteorito<INFO>1000373</INFO></ITEM>] x1\nen\n[<ITEM>Polvo de Meteorito<INFO>1000372</INFO></ITEM>] x40?\n----------\nFragmento de Meteorito restante - ^0000FF{0}^000000"
     },
     "UmY4DQ": {
         "en-US": "Dismantle",
@@ -101,7 +101,7 @@
     },
     "VGY4DQ": {
         "en-US": "Dismantling requires\n[<ITEM>Meteor Fragment<INFO>1000373</INFO></ITEM>] x1.",
-        "pt-BR": "Para realizar a desmontagem,\né necessário ter 1 unidade de\n[<ITEM>Fragmento de Meteorito<INFO>1000373</INFO></ITEM>].",
+        "pt-BR": "Para realizar a desmontagem, é\nnecessário ter 1x [<ITEM>Fragmento de Meteorito<INFO>1000373</INFO></ITEM>].",
         "es-ES": "La descomposición requiere\n[<ITEM>Fragmento de meteorito<INFO>1000373</INFO></ITEM>] x1."
     },
     "VWY4DQ": {

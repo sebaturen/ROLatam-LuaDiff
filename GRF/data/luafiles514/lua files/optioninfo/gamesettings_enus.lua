@@ -246,5 +246,9 @@ OptionTbl_string = {
 	[62] = {
 		Title = "/taekwon",
 		Description = "Shows Top 10 Taekwon ranking."
+	},
+	[63] = {
+		Title = "/cardillust",
+		Description = "Displays the card illustration in the item details window."
 	}
 }

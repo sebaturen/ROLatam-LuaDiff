@@ -2,37 +2,37 @@
     "oN82DQ": {
         "en-US": "[Time Manager]\nScenario Mode Input 430",
         "pt-BR": "[Administrador do Tempo]\nEntrada do modo de cenário 430",
-        "es-ES": "[Administrador del tiempo]\nEntrada de modo escenario 430"
+        "es-ES": "[Administrador del Tiempo]\nEntrada de modo escenario 430"
     },
     "od82DQ": {
         "en-US": "Delete Cooldown",
         "pt-BR": "Excluir recarga",
-        "es-ES": "Eliminar enfriamiento"
+        "es-ES": "Eliminar Recarga"
     },
     "ot82DQ": {
         "en-US": "Reset Pre-Dialogue",
-        "pt-BR": "Resetar conversa prévia",
-        "es-ES": "Inicializar diálogo previo"
+        "pt-BR": "Redefinir conversa prévia",
+        "es-ES": "Reiniciar diálogo previo"
     },
     "o982DQ": {
         "en-US": "Reset Internal Mission",
-        "pt-BR": "Resetar missão interna",
-        "es-ES": "Inicializar misión interna"
+        "pt-BR": "Redefinir missão interna",
+        "es-ES": "Reiniciar misión interna"
     },
     "pN82DQ": {
         "en-US": "Reset Hunting",
-        "pt-BR": "Resetar caça",
-        "es-ES": "Inicializar caza"
+        "pt-BR": "Redefinir caça",
+        "es-ES": "Reiniciar caza"
     },
     "pd82DQ": {
         "en-US": "Giant Vortex",
         "pt-BR": "Grande Redemoinho",
-        "es-ES": "Gran remolino"
+        "es-ES": "Vórtice Gigante"
     },
     "pt82DQ": {
         "en-US": "It seems adventurer [ {0} ] has been caught in a giant vortex.",
-        "pt-BR": "Parece que o aventureiro [ {0} ] foi tragado por um enorme redemoinho.",
-        "es-ES": "Parece que el aventurero [ {0} ] ha quedado atrapado en un gran remolino."
+        "pt-BR": "Parece que o viajante [ {0} ] foi tragado por um enorme redemoinho.",
+        "es-ES": "Parece que el trotamundos [ {0} ] ha quedado atrapado en un vórtice gigante."
     },
     "p982DQ": {
         "en-US": "Captain Janssen",
@@ -46,8 +46,8 @@
     },
     "qd82DQ": {
         "en-US": "[Captain Janssen]\nSorry, but anyone below level {0} is prohibited from entering Misty Island from now on. It is a measure imposed by the local fishermen's association because of the meteor that fell recently.",
-        "pt-BR": "[Capitão Janssen]\nSinto muito, mas quem estiver abaixo do nível {0} está proibido de entrar na Ilha Nebulosa. É uma medida tomada pela associação de pescadores local por causa do meteoro que caiu recentemente.",
-        "es-ES": "[Capitán Janssen]\nLo siento, pero los menores de nivel {0} tienen prohibido entrar en Isla de la Niebla. Es una medida tomada por la asociación de pescadores de aquí a causa del meteorito que cayó hace poco."
+        "pt-BR": "[Capitão Janssen]\nSinto muito, mas quem estiver abaixo do nível {0} está proibido de entrar na Ilha Misty. É uma medida tomada pela associação de pescadores local por causa do meteoro que caiu recentemente.",
+        "es-ES": "[Capitán Janssen]\nDisculpa, pero cualquiera con un nivel menor a {0} tiene prohibido entrar en la Isla de la Niebla. Es una medida tomada por la Asociación de Pescadores local a causa del meteorito que cayó hace poco."
     },
     "qt82DQ": {
         "en-US": "It cannot be helped.",
@@ -61,63 +61,63 @@
     },
     "rN82DQ": {
         "en-US": "[Captain Janssen]\nYou are a reasonable young one. It is best to value your life.",
-        "pt-BR": "[Capitão Janssen]\nVocê é um jovem bem sensato. É melhor valorizar sua vida.",
-        "es-ES": "[Capitán Janssen]\nEres un joven razonable. Es mejor valorar la vida."
+        "pt-BR": "[Capitão Janssen]\nVocê é uma pessoa bem sensata. É melhor valorizar sua vida.",
+        "es-ES": "[Capitán Janssen]\nEres un joven razonable. Es mejor valorar tu vida."
     },
     "rd82DQ": {
         "en-US": "[Captain Janssen]\nAh. Is this your first time? Misty Island is the island where an old tower called ^0000FFEndless Tower^000000 once stood.",
-        "pt-BR": "[Capitão Janssen]\nAh. Por acaso é sua primeira vez? Ilha Nebulosa é uma ilha onde antigamente havia uma torre antiga chamada ^0000FFTorre Sem Fim^000000.",
-        "es-ES": "[Capitán Janssen]\nAh. ¿Es tu primera vez, quizá? Isla de la Niebla es una isla donde antes se alzaba una antigua torre llamada ^0000FFTorre Infinita^000000."
+        "pt-BR": "[Capitão Janssen]\nAh. Por acaso é sua primeira vez? A Ilha Misty é uma ilha onde antigamente havia uma torre chamada ^0000FFTorre Sem Fim^000000.",
+        "es-ES": "[Capitán Janssen]\nAh. ¿Es tu primera vez, quizá? La Isla de la Niebla es donde antes se alzaba una antigua torre, la ^0000FFTorre Infinita^000000."
     },
     "rt82DQ": {
         "en-US": "[Captain Janssen]\nIt seems the owner has changed now, and the name has changed as well. I have not dared venture deeper into the island myself.",
-        "pt-BR": "[Capitão Janssen]\nAgora parece que o dono mudou, e o nome também. Eu não tive coragem de entrar até o interior da ilha.",
+        "pt-BR": "[Capitão Janssen]\nAgora parece que o dono mudou, e o nome também. Eu não tive coragem de ir até o interior da ilha.",
         "es-ES": "[Capitán Janssen]\nAhora parece que, con el cambio de dueño, también ha cambiado de nombre. Yo no he tenido valor para adentrarme en la isla."
     },
     "r982DQ": {
         "en-US": "[Captain Janssen]\nWith your current ability, even if you go there, it will be difficult to come back alive. I do not want to see young people die from pointless bravado.",
-        "pt-BR": "[Capitão Janssen]\nCom suas habilidades atuais, mesmo que fosse para lá, seria difícil voltar vivo. Não quero ver jovens morrendo por uma coragem inútil.",
-        "es-ES": "[Capitán Janssen]\nCon tus habilidades actuales, aunque fueras allí, te costaría volver con vida. No quiero ver morir a jóvenes por una valentía inútil."
+        "pt-BR": "[Capitão Janssen]\nCom suas habilidades atuais, mesmo que fosse para lá, seria difícil voltar com vida. Não quero ver jovens morrendo por uma coragem inútil.",
+        "es-ES": "[Capitán Janssen]\nCon tus habilidades actuales, aunque pudieras ir hasta allá, te costaría volver con vida. No quiero ver morir a jóvenes por una valentía inútil."
     },
     "sN82DQ": {
         "en-US": "[Captain Janssen]\nHmm. The cost to go to Misty Island is 10,000 Zeny. Are you ready to depart?",
-        "pt-BR": "[Capitão Janssen]\nHmm, a viagem para Ilha Nebulosa custa 10.000 zenys. Está pronto para partir?",
-        "es-ES": "[Capitán Janssen]\nMmm, el viaje a Isla de la Niebla cuesta 10 000 zenis. ¿Estás listo para partir?"
+        "pt-BR": "[Capitão Janssen]\nHmm, a viagem para a Ilha Misty custa 10.000 zenys. Está pronto para partir?",
+        "es-ES": "[Capitán Janssen]\nMmm, el viaje a la Isla de la Niebla cuesta 10,000 zenis. ¿Todo listo para partir?"
     },
     "sd82DQ": {
         "en-US": "Misty Island?",
-        "pt-BR": "Ilha Nebulosa?",
-        "es-ES": "¿Isla de la Niebla?"
+        "pt-BR": "Ilha Misty?",
+        "es-ES": "¿La Isla de la Niebla?"
     },
     "st82DQ": {
         "en-US": "Let's depart.",
         "pt-BR": "Vamos partir.",
-        "es-ES": "Partamos."
+        "es-ES": "Vamos a partir."
     },
     "s982DQ": {
         "en-US": "[Captain Janssen]\nAh. Is this your first time? It is the island where an old tower called ^0000FFEndless Tower^000000 once stood.",
-        "pt-BR": "[Capitão Janssen]\nAh. Por acaso é sua primeira vez? É a ilha onde antigamente havia uma torre antiga chamada ^0000FFTorre Sem Fim^000000.",
+        "pt-BR": "[Capitão Janssen]\nAh. Por acaso é sua primeira vez? É a ilha onde antigamente havia uma torre chamada ^0000FFTorre Sem Fim^000000.",
         "es-ES": "[Capitán Janssen]\nAh. ¿Es tu primera vez, quizá? Es la isla donde antes se alzaba una antigua torre llamada ^0000FFTorre Infinita^000000."
     },
     "tN82DQ": {
         "en-US": "[Captain Janssen]\nIt seems the owner of the place has changed now, and the name has changed as well. I have not dared venture deeper into the island myself.",
-        "pt-BR": "[Capitão Janssen]\nAgora parece que o dono de lá mudou, e o nome também. Eu não tive coragem de entrar até o interior da ilha.",
-        "es-ES": "[Capitán Janssen]\nAhora parece que, con el cambio de dueño del lugar, también ha cambiado de nombre. Yo no he tenido valor para adentrarme en la isla."
+        "pt-BR": "[Capitão Janssen]\nAgora parece que o dono de lá mudou, e o nome também. Eu não tive coragem de ir até o interior da ilha.",
+        "es-ES": "[Capitán Janssen]\nAhora parece que el lugar ha cambiado de dueño y también de nombre. Yo mismo no he tenido valor para adentrarme en la isla."
     },
     "td82DQ": {
         "en-US": "[Captain Janssen]\nIf you intend to explore that place, you should prepare thoroughly before you go. I heard it is incomparably more dangerous than Endless Tower.",
-        "pt-BR": "[Capitão Janssen]\nSe está pensando em explorar aquele lugar, é melhor ir muito bem preparado. Ouvi dizer que é incomparavelmente mais perigoso que a Torre Sem Fim.",
-        "es-ES": "[Capitán Janssen]\nSi tienes intención de explorarla, será mejor que vayas bien preparado. He oído que es incomparablemente más peligrosa que Torre Infinita."
+        "pt-BR": "[Capitão Janssen]\nSe está pensando em explorar aquele lugar, é melhor se preparar muito bem. Ouvi dizer que é incomparavelmente mais perigoso que a Torre Sem Fim.",
+        "es-ES": "[Capitán Janssen]\nSi tienes intención de explorarla, será mejor que vayas bien preparado. He oído que es incomparablemente más peligrosa que la Torre Infinita."
     },
     "tt82DQ": {
         "en-US": "[Captain Janssen]\nHmm. The money you have will not be enough. With that amount, I cannot finish preparing for departure.",
-        "pt-BR": "[Capitão Janssen]\nHmm. Com o dinheiro que você tem, não vai dar. Não consigo concluir os preparativos para zarpar com essa quantia.",
-        "es-ES": "[Capitán Janssen]\nMmm. Con el dinero que tienes no bastará. Con eso no puedo terminar los preparativos para zarpar."
+        "pt-BR": "[Capitão Janssen]\nHmm. Com o dinheiro que você tem, não vai dar. Não consigo zarpar com essa quantia.",
+        "es-ES": "[Capitán Janssen]\nMmm. Con el dinero que tienes no te alcanzará. Con ese monto no alcanzo a terminar los preparativos para zarpar."
     },
     "t982DQ": {
         "en-US": "[Captain Janssen]\nGood! Preparations for departure are complete. Then let us set off right now!",
-        "pt-BR": "[Capitão Janssen]\nÓtimo! Os preparativos para zarpar estão perfeitos. Então vamos partir agora mesmo!",
-        "es-ES": "[Capitán Janssen]\n¡Bien! Los preparativos para zarpar están completos. ¡Entonces partamos ahora mismo!"
+        "pt-BR": "[Capitão Janssen]\nÓtimo! Vamos partir agora mesmo!",
+        "es-ES": "[Capitán Janssen]\n¡Bien! Los preparativos para zarpar están completos. ¡Así que partamos ahora mismo!"
     },
     "uN82DQ": {
         "en-US": "^0000FFThe safety barrier placed by Oscar activates. It moves the user to Alberta.^000000",
@@ -142,22 +142,22 @@
     "vN82DQ": {
         "en-US": "^0000FFOscar looks at you with a flustered expression and casts Warp.^000000",
         "pt-BR": "^0000FFOscar olha para você com uma expressão perplexa e conjura um teleporte.^000000",
-        "es-ES": "^0000FFOscar te mira con expresión desconcertada y lanza una urdimbre.^000000"
+        "es-ES": "^0000FFOscar te mira, confundido, y lanza Teletransportación.^000000"
     },
     "vd82DQ": {
         "en-US": "^0000FFYou can see Oscar speaking with someone.^000000",
         "pt-BR": "^0000FFVocê vê Oscar conversando com alguém.^000000",
-        "es-ES": "^0000FFSe ve a Oscar hablando con alguien.^000000"
+        "es-ES": "^0000FFPuedes ver a Oscar hablando con alguien.^000000"
     },
     "vt82DQ": {
         "en-US": "Stop and step back.",
-        "pt-BR": "Desistir e recuar",
-        "es-ES": "Dejarlo y retirarse"
+        "pt-BR": "Desistir.",
+        "es-ES": "Detente y retírate."
     },
     "v982DQ": {
         "en-US": "Quietly listen from the side.",
-        "pt-BR": "Escutar discretamente ao lado.",
-        "es-ES": "Escuchar a escondidas desde un lado."
+        "pt-BR": "Escutar.",
+        "es-ES": "Escuchar en silencio desde un costado."
     },
     "wN82DQ": {
         "en-US": "^0000FFIt still feels wrong to eavesdrop.^000000",
@@ -171,78 +171,78 @@
     },
     "wt82DQ": {
         "en-US": "[Leticia]\nJust how violent of a Constellation do you think I am? Such prejudice does nothing to help our relationship!",
-        "pt-BR": "[Letícia]\nO senhor pensa que tipo de Constelação violenta eu sou? Esse preconceito não ajuda em nada a nossa relação!",
-        "es-ES": "[Leticia]\n¿Por qué me considera una constelación tan violenta? ¡Ese tipo de prejuicios no ayuda en nada a nuestra relación!"
+        "pt-BR": "[Letícia]\nQue tipo de Constelação violenta acha que sou? Esse preconceito não ajuda em nada a nossa relação!",
+        "es-ES": "[Leticia]\n¿Por qué me consideras una constelación tan violenta? ¡Ese tipo de prejuicios no ayuda en nada a nuestra relación!"
     },
     "w982DQ": {
         "en-US": "[Oscar]\nI thought you destroyed this place just to warm up. And I never thought you were violent. I only think of you as something like a slightly rough local Kiddo.",
-        "pt-BR": "[Oscar]\nEu pensei que você tivesse destruído este lugar para se aquecer. E nunca pensei em você como violenta. Talvez só como uma Garotinha de uma vizinhança um pouco agressiva.",
-        "es-ES": "[Oscar]\nPensé que habías destrozado este lugar para estirar un poco el cuerpo. Y nunca he pensado que seas violenta. Tal vez una especie de Niñita de barrio un poco brusca."
+        "pt-BR": "[Oscar]\nEu pensei que você tivesse destruído este lugar para se aquecer. E nunca pensei em você como alguém violento. Talvez só como uma garotinha agressiva.",
+        "es-ES": "[Oscar]\nPensé que habías destrozado este lugar solo para calentar un poco. Y nunca he pensado que seas violenta. Siempre he pensado en ti como una chica del barrio un poco ruda."
     },
     "xN82DQ": {
         "en-US": "[Leticia]\nI may be hot-blooded, but I am not bold enough to do such a thing in a region where you are present, Lord Oscar.",
         "pt-BR": "[Letícia]\nPor mais temperamental que eu seja, não sou ousada a ponto de fazer algo assim numa região onde o senhor Oscar está.",
-        "es-ES": "[Leticia]\nPor muy temperamental que sea, no tengo tanto valor como para hacer algo así en una zona donde está usted, señor Oscar."
+        "es-ES": "[Leticia]\nPor muy temperamental que sea, no me animaría a hacer algo así en una zona donde está usted, señor Oscar."
     },
     "xd82DQ": {
         "en-US": "[Oscar]\nHmm, yes. You were certainly the kind of child who at least looked where to lie down before stretching out your legs.",
-        "pt-BR": "[Oscar]\nHmm, sim, de fato você era o tipo de criança que pelo menos olhava onde ia se deitar antes de esticar as pernas.",
-        "es-ES": "[Oscar]\nMmm, sí, es cierto que al menos eras de las que miraban dónde tumbarse antes de estirar las piernas."
+        "pt-BR": "[Oscar]\nHmm, sim, de fato, você era o tipo de criança que pelo menos olhava onde ia se deitar antes de esticar as pernas.",
+        "es-ES": "[Oscar]\nMmm, sí. La verdad es que siempre fuiste el tipo de chico que sabía adónde se metía."
     },
     "xt82DQ": {
         "en-US": "[Leticia]\nOf course~! And about cleaning up the rest. Whoever it was, they half-destroyed this hideous tower, so if I use this chance to cleanly destroy the rest...",
-        "pt-BR": "[Letícia]\nClarooo~! E quanto ao resto da limpeza, já que alguém, seja lá quem for, destruiu metade desta torre horrenda, se eu aproveitasse e destruísse o resto de forma bem limpa...",
-        "es-ES": "[Leticia]\n¡Claro que sííí~! Y sobre el resto de la limpieza... ya que alguien, sea quien sea, ha destruido a medias esta torre monstruosa, si aprovecho y termino de demolerla limpiamente..."
+        "pt-BR": "[Letícia]\nClarooo~! E, quanto ao resto da limpeza, já que alguém, seja lá quem for, destruiu metade desta torre horrenda, se eu aproveitasse e destruísse o resto de forma bem limpa...",
+        "es-ES": "[Leticia]\n¡Por supuesto! Y sobre limpiar lo que queda. Quien sea que haya sido, casi ha destruido esta torre monstruosa, así que si yo aprovecho y termino de destruiarla limpiamente..."
     },
     "x982DQ": {
         "en-US": "[Oscar]\nSo Leticia did want to destroy this place after all? Thank you for honestly confessing your preference, even now.",
         "pt-BR": "[Oscar]\nEntão Letícia realmente queria destruir este lugar, não é? Obrigado por confessar honestamente seu gosto pessoal, mesmo que só agora.",
-        "es-ES": "[Oscar]\nAsí que, después de todo, Leticia quería destruir este lugar, ¿verdad? Gracias por confesar sinceramente tus gustos, aunque sea ahora."
+        "es-ES": "[Oscar]\nAsí que, después de todo, Leticia quería destruir este lugar, ¿verdad? Gracias por confesar tus deseos, aunque sea recién ahora."
     },
     "yN82DQ": {
         "en-US": "[Leticia]\nPreference? That is a misunderstanding!",
         "pt-BR": "[Letícia]\nGosto pessoal? Isso é um mal-entendido!",
-        "es-ES": "[Leticia]\n¿Gustos? ¡Eso es un malentendido!"
+        "es-ES": "[Leticia]\n¿Deseos? ¡Eso es un malentendido!"
     },
     "yd82DQ": {
         "en-US": "(I think I saw something I should not have seen.)",
         "pt-BR": "(Acho que vi uma cena que não deveria.)",
-        "es-ES": "(Creo que he visto una escena que no debía ver)"
+        "es-ES": "(Creo que he visto algo que no debía ver)."
     },
     "yt82DQ": {
         "en-US": "[Oscar]\nAh, Mr. {0}. You finally came. With this much commotion, I knew you would come.",
-        "pt-BR": "[Oscar]\nAh, {0}. Você finalmente chegou. Com uma confusão desse tamanho, eu acreditava que você viria, é claro.",
-        "es-ES": "[Oscar]\nAh, Sr. {0}. Por fin ha llegado. Como se ha producido un alboroto de este calibre, confiaba en que vendría."
+        "pt-BR": "[Oscar]\nAh, {0}. Você finalmente chegou. Com uma confusão desse tamanho, eu sabia que você viria.",
+        "es-ES": "[Oscar]\nAh, Sr. {0}. Por fin ha llegado. Como se ha producido un alboroto de este calibre, sabía que usted llegaría."
     },
     "y982DQ": {
         "en-US": "Were you waiting for me?",
-        "pt-BR": "Por acaso estava esperando por mim?",
-        "es-ES": "¿Acaso me estaba esperando?"
+        "pt-BR": "Por acaso estava me esperando?",
+        "es-ES": "¿Usted me estaba esperando?"
     },
     "zN82DQ": {
         "en-US": "[Leticia]\nLord Oscar. What is this creature here? Why is it speaking with you as an equal?",
-        "pt-BR": "[Letícia]\nSenhor Oscar. O que é esta criatura? Por que está conversando com o senhor Oscar de igual para igual?",
+        "pt-BR": "[Letícia]\nSenhor Oscar. O que é esta criatura? Por que está conversando com você de igual para igual?",
         "es-ES": "[Leticia]\nSeñor Oscar. ¿Qué es esta criatura? ¿Por qué conversa con usted de igual a igual?"
     },
     "zd82DQ": {
         "en-US": "[Oscar]\nLady Leticia, you must speak politely. This is an adventurer whose help I have sought many times.",
-        "pt-BR": "[Oscar]\nSenhora Letícia, tenha modos ao falar. Este é o aventureiro a quem pedi ajuda várias vezes.",
-        "es-ES": "[Oscar]\nSeñora Leticia, debe hablar con cortesía. Es un aventurero a quien he pedido ayuda en varias ocasiones."
+        "pt-BR": "[Oscar]\nSenhora Letícia, tenha modos ao falar. Este é o viajante a quem pedi ajuda várias vezes.",
+        "es-ES": "[Oscar]\nSeñora Leticia, debe hablar con cortesía. Es un trotamundos a quien le he pedido ayuda en varias ocasiones."
     },
     "zt82DQ": {
         "en-US": "(He suddenly changed his tone?!)",
         "pt-BR": "(Ele mudou o tom de repente?!)",
-        "es-ES": "(¡¿Ha cambiado de forma de hablar de repente?!)"
+        "es-ES": "(¡¿Ha cambiado de forma de hablar de repente?!)."
     },
     "z982DQ": {
         "en-US": "[^88AA66Oscar's Words^000000]\n[[^88AA66Leticia! I told you so many times to watch your words and behavior while on the surface. Were my lectures not enough?^000000]]",
         "pt-BR": "[^88AA66Voz de Oscar^000000]\n[[^88AA66Letícia! Eu disse tantas vezes que você deve tomar cuidado com suas palavras e atitudes quando está na superfície. Será que minhas broncas não foram suficientes?^000000]]",
-        "es-ES": "[^88AA66Voz de Oscar^000000]\n[[^88AA66¡Leticia! Te he dicho una y otra vez que debes cuidar tus palabras y tu conducta cuando estás en la superficie. ¿Acaso no te he regañado lo suficiente?^000000]]"
+        "es-ES": "[^88AA66Palabras de Oscar^000000]\n[[^88AA66¡Leticia! Te he dicho una y otra vez que debes cuidar tus palabras y tu conducta cuando estás en la superficie. ¿No te alcanzó con lo que te dije?^000000]]"
     },
     "0N82DQ": {
         "en-US": "[Leticia]\nAh... Aah!! So this is that adventurer. I know of you. I have heard much about you.",
-        "pt-BR": "[Letícia]\nAh... aaaah!! Então é aquele aventureiro. Eu sei. Já ouvi falar muito.",
-        "es-ES": "[Leticia]\nAh... ¡Aaah! Es ese aventurero. Lo sé. He oído hablar mucho de él."
+        "pt-BR": "[Letícia]\nAh... aaaah!! Então é aquele viajante. Eu sei. Já ouvi falar muito.",
+        "es-ES": "[Leticia]\nAh... ¡Aaah! Ese trotamundos. Ya sé quién eres. He oído hablar mucho de ti."
     },
     "0d82DQ": {
         "en-US": "Lady Leticia, it is an honor to see you again.",
@@ -252,22 +252,22 @@
     "0t82DQ": {
         "en-US": "It is nice to meet you, Lady Leticia.",
         "pt-BR": "Prazer em conhecê-la, senhora Letícia.",
-        "es-ES": "Encantado de conocerla, señora Leticia."
+        "es-ES": "Es un placer conocerla, señora Leticia."
     },
     "0982DQ": {
         "en-US": "[^B20213Leticia's Words^000000]\n[[^B20213Ahh~ Now that I look, that face is familiar. So you were still alive and well.^000000]]",
         "pt-BR": "[^B20213Voz de Letícia^000000]\n[[^B20213Ahh~ agora que vejo melhor, esse rosto é familiar. Então você ainda está vivo e bem.^000000]]",
-        "es-ES": "[^B20213Voz de Leticia^000000]\n[[^B20213Ah~ Ahora que te veo bien, esa cara me resulta familiar. Veo que sigues con vida y en buen estado.^000000]]"
+        "es-ES": "[^B20213Palabras de Leticia^000000]\n[[^B20213Ah... Ahora que te veo bien, esa cara me resulta familiar. Veo que sigues con vida y en buen estado.^000000]]"
     },
     "1N82DQ": {
         "en-US": "[^B20213Leticia's Words^000000]\n[[^B20213Since we are before Lord Oscar, I will show at least the minimum courtesy. But when it is just the two of us, do not expect such kindness from me.^000000]]",
-        "pt-BR": "[^B20213Voz de Letícia^000000]\n[[^B20213Como estamos diante do senhor Oscar, vou manter o mínimo de cortesia. Mas, quando estivermos só nós dois, não espere que eu demonstre gentileza.^000000]]",
-        "es-ES": "[^B20213Voz de Leticia^000000]\n[[^B20213Como estoy ante el señor Oscar, te mostraré un mínimo de cortesía. Pero cuando estemos solo tú y yo, no esperes esa cortesía de mí.^000000]]"
+        "pt-BR": "[^B20213Voz de Letícia^000000]\n[[^B20213Como estamos diante do senhor Oscar, vou manter o mínimo de cortesia. Mas, quando estivermos só nós dois, não espere que eu a demonstre.^000000]]",
+        "es-ES": "[^B20213Palabras de Leticia^000000]\n[[^B20213Como estoy ante el señor Oscar, te mostraré un mínimo de cortesía. Pero cuando estemos solo tú y yo, no esperes tanta cortesía de mi parte.^000000]]"
     },
     "1d82DQ": {
         "en-US": "[Oscar]\nI sense an unfamiliar yet familiar energy from where the tower was destroyed. It seems I will have to see it for myself. Lady Leticia, you have time now, correct?",
         "pt-BR": "[Oscar]\nNo local onde a torre foi destruída, sinto uma energia estranha, mas familiar. Parece que terei que ver pessoalmente. Senhora Letícia, você tem tempo agora, certo?",
-        "es-ES": "[Oscar]\nEn el lugar donde la torre fue destruida se percibe una energía extraña, pero familiar. Parece que tendré que verlo en persona. Señora Leticia, tiene tiempo ahora, ¿verdad?"
+        "es-ES": "[Oscar]\nSiento una energía extraña, pero familiar, que viene del lugar donde la torre fue destruida. Parece que tendré que ir a verlo en persona. Señora Leticia, usted tiene tiempo ahora, ¿correcto?"
     },
     "1t82DQ": {
         "en-US": "[Leticia]\nOf course! Shall I destroy the remaining part as well?",
@@ -276,62 +276,62 @@
     },
     "1982DQ": {
         "en-US": "[Oscar]\nI am not telling you to destroy it. Lady Leticia, please search the middle section of the remaining tower for now. I will escort the adventurer to the entrance and look around the area.",
-        "pt-BR": "[Oscar]\nNão estou dizendo para destruir. Senhora Letícia, por enquanto, investigue a parte central da torre que ainda restou. Eu levarei o aventureiro até a entrada e darei uma volta pelos arredores.",
-        "es-ES": "[Oscar]\nNo le estoy diciendo que la destruya. Señora Leticia, explore primero la parte intermedia de la torre que sigue en pie. Yo acompañaré al aventurero hasta la entrada y revisaré los alrededores."
+        "pt-BR": "[Oscar]\nNão estou dizendo para destruir. Senhora Letícia, por enquanto, investigue a parte central da torre que ainda restou. Eu levarei o viajante até a entrada e darei uma volta pelos arredores.",
+        "es-ES": "[Oscar]\nNo le estoy diciendo que la destruya. Señora Leticia, explore primero la parte intermedia de la torre que sigue en pie. Yo acompañaré al trotamundos hasta la entrada y revisaré los alrededores."
     },
     "2N82DQ": {
         "en-US": "Am I going in too?",
         "pt-BR": "Eu também vou entrar?",
-        "es-ES": "¿Yo también entro?"
+        "es-ES": "¿Yo también voy a entrar?"
     },
     "2d82DQ": {
         "en-US": "[Oscar]\nOf course. You are the only one with the causality needed to resolve this situation, Mr. {0}. There are no other options.",
-        "pt-BR": "[Oscar]\nMas é claro. {0}, você é a única pessoa que possui a causalidade capaz de superar esta situação. Não há outra opção.",
+        "pt-BR": "[Oscar]\nMas é claro. {0}, você é a única pessoa que tem a causalidade capaz de superar esta situação. Não há outra opção.",
         "es-ES": "[Oscar]\nPor supuesto. Usted, Sr. {0}, es la única persona con la causalidad necesaria para resolver esta situación. No hay otra opción."
     },
     "2t82DQ": {
         "en-US": "[Leticia]\nThen I will go up first!",
         "pt-BR": "[Letícia]\nEntão vou subir primeiro!",
-        "es-ES": "[Leticia]\n¡Entonces subiré primero!"
+        "es-ES": "[Leticia]\n¡Entonces yo voy a subir primero!"
     },
     "2982DQ": {
         "en-US": "[Oscar]\nFor now, I will try to release the seal on this closed entrance. You should prepare to depart in the meantime.",
         "pt-BR": "[Oscar]\nPrimeiro, vou tentar desfazer o selo desta entrada fechada. Enquanto isso, é melhor você se preparar para partir.",
-        "es-ES": "[Oscar]\nPor ahora intentaré romper el sello de esta entrada cerrada. Mientras tanto, será mejor que vaya preparándose para partir."
+        "es-ES": "[Oscar]\nPor ahora intentaré romper el sello de esta entrada cerrada. Mientras tanto, debería prepararse para partir."
     },
     "3N82DQ": {
         "en-US": "Tower of the Constellations",
-        "pt-BR": "Torre das Constelações",
-        "es-ES": "Torre de las Constelaciones"
+        "pt-BR": "Gerar Torre da Constelação",
+        "es-ES": "Torre de la Constelación"
     },
     "3d82DQ": {
         "en-US": "^0000FF{0}^000000 Created",
         "pt-BR": "^0000FF{0}^000000 criado",
-        "es-ES": "Creación de ^0000FF{0}^000000"
+        "es-ES": "^0000FF{0}^000000 Creado"
     },
     "3t82DQ": {
         "en-US": "^0000FFPlease proceed after forming a party of at least 1 member.^000000",
         "pt-BR": "^0000FFForme um grupo com pelo menos 1 pessoa e prossiga.^000000",
-        "es-ES": "^0000FFForma un grupo de al menos 1 miembro antes de continuar.^000000"
+        "es-ES": "^0000FFPor favor, forma un grupo de al menos 1 miembro antes de continuar.^000000"
     },
     "3982DQ": {
         "en-US": "^0000FFThe aftereffects of entering the dungeon have not disappeared. You cannot enter the dungeon during this time.",
-        "pt-BR": "^0000FFOs efeitos colaterais da entrada na masmorra ainda não desapareceram. Durante este período, não será possível entrar na masmorra.",
+        "pt-BR": "^0000FFOs efeitos colaterais da entrada na instância ainda não desapareceram. Durante este período, não será possível entrar na instância.",
         "es-ES": "^0000FFLos efectos secundarios de entrada a la mazmorra aún no han desaparecido. Durante este tiempo no puedes entrar en la mazmorra."
     },
     "4N82DQ": {
         "en-US": "^0000FFAll aftereffects of entering the dungeon have disappeared. You can now speak normally.^000000",
-        "pt-BR": "^0000FFTodos os efeitos colaterais da entrada na masmorra desapareceram. Agora é possível conversar normalmente.^000000",
+        "pt-BR": "^0000FFTodos os efeitos colaterais da entrada na instância desapareceram. Agora é possível conversar normalmente.^000000",
         "es-ES": "^0000FFTodos los efectos secundarios de entrada a la mazmorra han desaparecido. Ahora puedes conversar con normalidad.^000000"
     },
     "4d82DQ": {
         "en-US": "[Oscar]\nYou are fully prepared to enter the tower, correct? Hold my hand and focus your mind.",
-        "pt-BR": "[Oscar]\nOs preparativos para entrar na torre já estão todos prontos, certo? Segure minha mão e concentre sua mente.",
-        "es-ES": "[Oscar]\nYa está todo listo para entrar en la torre, ¿verdad? Tómeme de la mano y concentre su mente."
+        "pt-BR": "[Oscar]\nOs preparativos para entrar na torre já estão todos prontos, certo? Segure minha mão e concentre a mente.",
+        "es-ES": "[Oscar]\nYa está todo listo para entrar en la torre, ¿correcto? Toma mi mano y concéntrate."
     },
     "4t82DQ": {
         "en-US": "Enter",
-        "pt-BR": "Entrar",
+        "pt-BR": "Entrar na Torre da Constelação",
         "es-ES": "Entrar"
     },
     "4982DQ": {
@@ -341,7 +341,7 @@
     },
     "5N82DQ": {
         "en-US": "^0000FFThe dungeon has not been created, or you are attempting to enter a different dungeon from the party leader.^000000",
-        "pt-BR": "^0000FFA masmorra não foi criada ou você está tentando entrar em uma masmorra diferente da do líder do grupo.^000000",
+        "pt-BR": "^0000FFA instância não foi criada ou você está tentando entrar em uma instância diferente da do líder do grupo.^000000",
         "es-ES": "^0000FFParece que la mazmorra no se ha creado o que intentas entrar en una mazmorra distinta a la del líder del grupo.^000000"
     },
     "5d82DQ": {
@@ -356,13 +356,13 @@
     },
     "5982DQ": {
         "en-US": "A member of {0}'s party joins the attempt to clear the {1} dungeon.",
-        "pt-BR": "Um membro do grupo de {0} participa da exploração da masmorra {1}.",
+        "pt-BR": "Um membro do grupo de {0} participa da exploração da instância {1}.",
         "es-ES": "Un miembro del grupo de {0} participa en la conquista de la mazmorra {1}."
     },
     "6N82DQ": {
         "en-US": "^0000FFOnly the party leader can create the dungeon.^000000",
-        "pt-BR": "^0000FFSe você não for o líder do grupo, não poderá criar a masmorra.^000000",
-        "es-ES": "^0000FFSi no eres el líder del grupo, no puedes crear la mazmorra.^000000"
+        "pt-BR": "^0000FFSomente o líder do grupo pode criar a instância.^000000",
+        "es-ES": "^0000FFSi no eres líder del grupo, no puedes crear la mazmorra.^000000"
     },
     "6d82DQ": {
         "en-US": "^0000FF{0} ^000000- Reservation Failed",
@@ -370,5 +370,7 @@
         "es-ES": "^0000FF{0} ^000000- Reserva fallida"
     },
     "6t82DQ": {},
-    "6982DQ": {}
+    "6982DQ": {
+        "pt-BR": "^0000FFForme um grupo com pelo menos 1 pessoa e prossiga.^000000"
+    }
 }

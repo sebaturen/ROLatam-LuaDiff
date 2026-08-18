@@ -22,7 +22,7 @@
     "xIFrAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[Voz reverberante]\nBravos...\nDesejam voltar para seu lugar de honra?",
-        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
     },
     "xYFrAg": {
         "en-US": "Go back to your stronghold.",
@@ -577,7 +577,7 @@
     "M4JrAg": {
         "en-US": "[Butler Pisaro]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Pisaro]\n...\nFuncionária da Kafra dispensada... mas há algo de que você não tenha gostado?",
-        "es-ES": "[Mayordomo Pisaro]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Pisaro]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
     },
     "NIJrAg": {
         "en-US": "[Butler Pisaro]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -708,5 +708,13 @@
         "en-US": "{0} /",
         "pt-BR": "{0} /",
         "es-ES": "{0} /"
+    },
+    "ToJrAg": {
+        "en-US": "ssssThe clan [{0}] has conquered the castle [Nerius]",
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo [Nerius]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [Nerius]"
+    },
+    "T4JrAg": {
+        "en-US": "ssssThe clan [{0}] has conquered the castle [{1}]"
     }
 }

@@ -295,7 +295,7 @@ SignBoardList_string = {
 	},
 	[934] = {CONTENTS = "  Encanto"},
 	[935] = {CONTENTS = "  Shopping"},
-	[936] = {CONTENTS = "  Fus?o"},
+	[936] = {CONTENTS = "  Fusão"},
 	[941] = {CONTENTS = "  Reforma"},
 	[942] = {CONTENTS = "  Minérios"},
 	[944] = {

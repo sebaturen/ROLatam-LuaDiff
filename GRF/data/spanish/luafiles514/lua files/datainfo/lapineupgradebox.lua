@@ -20486,6 +20486,138 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "Piedras Preciosas"
+		},
+		SpellCaster_Shadow_Up = {
+			ItemID = 101179,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_SpellCaster_Armor",
+					24747
+				},
+				{
+					"S_SpellCaster_Shoes",
+					24748
+				},
+				{
+					"S_SpellCaster_Earring",
+					24749
+				},
+				{
+					"S_SpellCaster_Pendant",
+					24750
+				}
+			},
+			NeedSource_String = "Sombra del Conjurador"
+		},
+		R_Bearers_Shadow_Up = {
+			ItemID = 101260,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_R_Bearers_Armor",
+					24764
+				},
+				{
+					"S_R_Bearers_Shoes",
+					24763
+				},
+				{
+					"S_R_Bearers_Earring",
+					24766
+				},
+				{
+					"S_R_Bearers_Pendant",
+					24765
+				}
+			},
+			NeedSource_String = "Sombra del Portador"
+		},
+		MagicalShadow_Up = {
+			ItemID = 101310,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Clever_Shield",
+					24737
+				},
+				{
+					"S_Clever_Weapon",
+					24736
+				}
+			},
+			NeedSource_String = "Sombra Astuta"
+		},
+		MajorAutoSpell_Up = {
+			ItemID = 101359,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_M_AutoSpell_Armor",
+					24728
+				},
+				{
+					"S_M_AutoSpell_Shoes",
+					24729
+				},
+				{
+					"S_M_AutoSpell_Earring",
+					24730
+				},
+				{
+					"S_M_AutoSpell_Pendant",
+					24731
+				}
+			},
+			NeedSource_String = "Sombra de Autohechizo Mayor"
+		},
+		Hasty_Up = {
+			ItemID = 101360,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Hasty_Weapon",
+					24439
+				},
+				{
+					"S_Hasty_Shield",
+					24732
+				}
+			},
+			NeedSource_String = "Sombra Veloz"
+		},
+		PhysicalShadow_Up = {
+			ItemID = 101361,
+			NeedRefineMin = 0,
+			NeedRefineMax = 10,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"S_Durable_Shield",
+					24735
+				},
+				{
+					"S_Durable_Weapon",
+					24734
+				}
+			},
+			NeedSource_String = "Sombra Duradera"
 		}
 	},
 	get_lapine_box = function(in_box_id)

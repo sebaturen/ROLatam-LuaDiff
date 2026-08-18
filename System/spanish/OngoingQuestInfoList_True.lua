@@ -14082,17 +14082,18 @@ QuestInfoList = {
 		Title = "Lugar del accidente aéreo",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Oigamos al Dr. Círculo Seco Fuerte hablar del accidente aéreo."
+			"Oigamos al Dr. Serafit hablar del Caída de la Aeronave."
 		},
 		Summary = ""
 	},
 	[5909] = {
-		Title = "[Tiempo de espera] Lugar del accidente aéreo",
+		Title = "[Espera] Lugar de la Caída de la Aeronave",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Puedes entrar al lugar del accidente aéreo una vez cada 3 días. Habla con <NAVI>[Dr. Círculo Seco Fuerte]<INFO>dali02,137,86,0,101,0</INFO></NAVI> para volver a acceder al sitio más tarde."
+			"Puedes entrar al Lugar de la Caída de la Aeronave una vez cada 3 días.",
+			"Habla con [<NAVI>Dr. Serafit<INFO>dali02,137,86,0,101,0</INFO></NAVI>] para volver a acceder al sitio más tarde."
 		},
-		Summary = "Se reinicia a las 4:00 después de 3 días.",
+		Summary = "Reinicio a las 04:00 después de 3 días",
 		CoolTimeQuest = 1,
 		NpcSpr = "4_M_FAIRYANG",
 		NpcNavi = "dali02",
@@ -14103,7 +14104,7 @@ QuestInfoList = {
 		Title = "Investigación colaborativa olvidada 1",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"El profesor Daeguto pidió a la estudiante de posgrado Maratha que explicara el asunto."
+			"El profesor Daeguto pidió a la estudiante de posgrado Marata, también conocido como *oo*, que explicara el asunto."
 		},
 		Summary = ""
 	},
@@ -14111,7 +14112,7 @@ QuestInfoList = {
 		Title = "Investigación colaborativa olvidada 2",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Creo que la última explicación debería darla el estudiante graduado Saseong. Escuchemos la explicación final."
+			"Creo que la última explicación debería darla el estudiante graduado Saseong, también conocido como ****. Escuchemos la explicación final."
 		},
 		Summary = ""
 	},
@@ -14149,10 +14150,10 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5915] = {
-		Title = "Premios por ayudar a los heridos",
+		Title = "Recompensa por ayudar a los heridos",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"Pelloch recibió una compensación por ayudar en la búsqueda de los heridos del accidente aéreo."
+			"Recibí una recompensa de Ferlock por ayudar a localizar a las personas heridas del accidente de la aeronave."
 		},
 		Summary = ""
 	},
@@ -36786,27 +36787,27 @@ QuestInfoList = {
 		Summary = "Descansa 30 minutos"
 	},
 	[12510] = {
-		Title = "Sobre la Arena oculta",
+		Title = "Sobre la Arena Clandestina",
 		Description = {
-			"Descubrí que la Arena se explota de forma ilegal más allá de la grieta dimensional.",
-			"No sé cómo logran hacer un torneo ilegal, pero sin duda es muy divertido."
+			"Descubrimos que hay una arena que opera de manera ilegal en la Grieta Dimensional.",
+			"No se sabe cómo lograron realizar un torneo, pero parece muy interesante."
 		},
-		Summary = "Reglas de los cobardes."
+		Summary = "Reglas de los cobardes"
 	},
 	[12511] = {
-		Title = "[Tiempo de espera] Hoy no hay Arena",
+		Title = "[Espera] Hoy no hay enfrentamientos",
 		Description = {
 			"La Arena abre una vez cada 3 días. Es mejor descansar un poco cuando no hay partidas."
 		},
-		Summary = "La Arena se reanuda a las 4:00, 3 días después.",
+		Summary = "La Arena se restablece 3 días después, a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[12512] = {
 		Title = "Prueba de supervivencia",
 		Description = {
-			"Si sigues de pie en la Arena. Y si estás viendo este pase, eso prueba que sigues con vida."
+			"Si sigues de pie en la Arena, y si estás viendo este pase de entrada, eso prueba que sigues con vida."
 		},
-		Summary = "Sigue con vida."
+		Summary = "Aún no morí"
 	},
 	[12513] = {
 		Title = "Causa de la destrucción de la torre",
@@ -36816,47 +36817,47 @@ QuestInfoList = {
 		Summary = "Nuevo Señor de la Torre"
 	},
 	[12514] = {
-		Title = "Secuelas del Acceso a la Torre",
+		Title = "Consecuencias del acceso a la torre",
 		Description = {
 			"Entrar y salir de este lugar consume mucha energía mental. Aunque quede algo por hacer, será mejor volver dentro de 3 días."
 		},
-		Summary = "Reingreso después de 3 días a las 4:00 AM",
+		Summary = "Reinicio a las 04:00 después de 3 días",
 		CoolTimeQuest = 1
 	},
 	[12515] = {
-		Title = "Encuentro con el Nuevo Señor de la Torre",
+		Title = "Encuentro con el nuevo Señor de la Torre",
 		Description = {
-			"El nuevo señor de la torre no ha matado a todos sus habitantes. Es realmente generoso, pero al ver a los monstruos expulsados hacia abajo resulta imposible imaginar lo poderoso que es."
+			"El nuevo Señor de la Torre no ha matado a todos sus habitantes. Eso es realmente generoso, pero, al ver a los monstruos expulsados hacia abajo, resulta imposible imaginar lo poderoso que es."
 		},
-		Summary = "Será mejor protegernos."
+		Summary = "Tengamos cuidado"
 	},
 	[12516] = {
-		Title = "Secreto de la fuente 1",
+		Title = "Secreto de la Fuente 1",
 		Description = {
-			"Derrota a Betelgeuse tras amplificar su poder en un 300% o más. Se añadirá la función que permite aumentar una dificultad específica hasta el límite usando <ITEM>Polvo de meteorito<INFO>1000372</INFO></ITEM>."
+			"Derrota a Betelgeuse tras amplificar su poder en un 300% o más. Se añadirá la función que permite aumentar una dificultad específica hasta el límite usando <ITEM>Polvo de Meteorito<INFO>1000372</INFO></ITEM>."
 		},
-		Summary = "Refuerzo de atributo designado"
+		Summary = "Aumentar atributo específico"
 	},
 	[12517] = {
-		Title = "Secreto de la fuente 1",
+		Title = "Secreto de la Fuente 1",
 		Description = {
-			"Derrota a Betelgeuse tras amplificar su poder en un 600% o más. Se añadirá la función que permite sellar una dificultad específica en 0 usando <ITEM>Polvo de meteorito<INFO>1000372</INFO></ITEM>."
+			"Derrota a Betelgeuse tras amplificar su poder en un 600% o más. Se añadirá la función que permite sellar una dificultad específica en 0 usando <ITEM>Polvo de Meteorito<INFO>1000372</INFO></ITEM>."
 		},
-		Summary = "Sellado de atributo designado"
+		Summary = "Sellar atributo específico"
 	},
 	[12518] = {
-		Title = "Ser expulsado",
+		Title = "El ser expulsado",
 		Description = {
 			"Está claro que se ha producido una transformación drástica en el ecosistema de la torre. Antes de comprobar quién es el nuevo dueño del trono, habrá que hacer una buena limpieza."
 		},
-		Summary = "Vayan saliendo ya, por favor."
+		Summary = "Sale, por favor"
 	},
 	[12519] = {
-		Title = "Paradero del señor original",
+		Title = "Paradero del Señor original",
 		Description = {
-			"Si la torre ha acabado así, el ser que la gobernaba originalmente tampoco debe de estar intacto."
+			"Si la torre ha acabado así, el ser que la gobernaba originalmente tampoco debe haber salido intacto."
 		},
-		Summary = "Quizá ya no tenga nada de especial."
+		Summary = "Puede que ya no haya mucho que ver"
 	},
 	[12520] = {
 		Title = "Mansión de la Desilusión",
@@ -44829,102 +44830,102 @@ QuestInfoList = {
 		Summary = "Cambio de clase a Inquisidor"
 	},
 	[16461] = {
-		Title = "Tumba del Arrepentimiento",
+		Title = "Mausoleo Fantasma",
 		IconName = "ico_nq.bmp",
 		Description = {
 			"La <NAVI>[princesa]<INFO>dali,124,88,0,101,0</INFO></NAVI> de un reino desconocido parece querer pedirle algo al trotamundos."
 		},
-		Summary = "Habla con Princesa del Arrepentimiento"
+		Summary = "Habla con Princesa del Remordimiento"
 	},
 	[16462] = {
-		Title = "Tumba del Arrepentimiento",
+		Title = "Mausoleo Fantasma",
 		IconName = "ico_nq.bmp",
 		Description = {
 			"Para escuchar más de la historia de la princesa, sigámosla <NAVI>[por detrás]<INFO>dali,79,112,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Princesa del Arrepentimiento"
+		Summary = "Habla con Princesa del Remordimiento"
 	},
 	[16463] = {
-		Title = "Tumba del Arrepentimiento",
+		Title = "Mausoleo Fantasma",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Tras escuchar la historia de la <NAVI>[Princesa]<INFO>dali02,78,116,0,101,0</INFO></NAVI>, dirígete a Tumba del Arrepentimiento."
 		},
-		Summary = "Habla con Princesa del Arrepentimiento"
+		Summary = "Habla con Princesa del Remordimiento"
 	},
 	[16464] = {
-		Title = "Tumba del Arrepentimiento",
+		Title = "Mausoleo Fantasma",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. Puedes aceptar la misión a través de <NAVI>[Princesa del Arrepentimiento]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. Puedes aceptar la misión a través de <NAVI>[Princesa del Remordimiento]<INFO>dali02,78,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[16465] = {
-		Title = "Hilo del Vínculo Roto",
+		Title = "Hilo de un Vínculo Roto",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea expulsar del palacio a Sakray Maldito, quien ya no posee ningún vínculo restante con la princesa."
+			"<NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea expulsar del palacio a Sakray Maldito, quien ya no posee ningún vínculo restante con la princesa."
 		},
 		Summary = ""
 	},
 	[16466] = {
-		Title = "[Espera] Hilo del Vínculo Roto",
+		Title = "[Espera] Hilo de un Vínculo Roto",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[16467] = {
-		Title = "Segar entre lágrimas",
+		Title = "Atravesando las Lágrimas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> siguiendo las órdenes de la princesa, quiere que tranquilices a la princesa, quien ha perdido la razón y está atacando."
+			"<NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> siguiendo las órdenes de la princesa, quiere que tranquilices a la princesa, quien ha perdido la razón y está atacando."
 		},
 		Summary = ""
 	},
 	[16468] = {
-		Title = "[Espera] Segar entre lágrimas",
+		Title = "[Espera] Atravesando las Lágrimas",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[16469] = {
-		Title = "Memoria Fragmentada",
+		Title = "Recuerdos Fragmentados",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea que reúnas 3 fragmentos de memoria para conocer toda la verdad del incidente."
+			"<NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea que reúnas 3 fragmentos de memoria para conocer toda la verdad del incidente."
 		},
 		Summary = ""
 	},
 	[16470] = {
-		Title = "[Espera] Memoria Fragmentada",
+		Title = "[Espera] Recuerdos Fragmentados",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
 	},
 	[16471] = {
-		Title = "Pasado en Fragmentos",
+		Title = "Pasado hecho Fragmentos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea que reúnas 10 fragmentos del pasado para que no se olvide que ellos existieron."
+			"<NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI> desea que reúnas 10 fragmentos del pasado para que no se olvide que ellos existieron."
 		},
 		Summary = ""
 	},
 	[16472] = {
-		Title = "[Espera] Pasado en Fragmentos",
+		Title = "[Espera] Pasado hecho Fragmentos",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Arrepentimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
+			"Esta misión es diaria y puede aceptarse y realizarse nuevamente cuando el tiempo de espera termine. La misión puede aceptarse a través del <NAVI>[Marqués del Remordimiento]<INFO>dali02,78,112,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicia a las 04:00",
 		CoolTimeQuest = 1
@@ -46188,7 +46189,7 @@ QuestInfoList = {
 		Title = "Festival de los Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Trae 1 Albóndiga, 1 Fideo Corbata, 1 Fideo Tirabuzón y 1 Fideo Espagueti al <NAVI>[Director del Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
+			"Trae 1x Albóndiga, 1x Fideo Corbata, 1x Fideo Tirabuzón y 1x Fideo Espagueti al <NAVI>[Director del Festival]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "Trae los objetos"
 	},
@@ -46244,9 +46245,9 @@ QuestInfoList = {
 		Title = "Cosecha de Sandía",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Elimina Sandías y trae 10 Abanicos del Festival al <NAVI>[Ayudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
+			"Elimina Sandías y trae 10x Abanico del Festival al <NAVI>[Ayudante Rami]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 Abanicos del Festival"
+		Summary = "10x Abanico del Festival"
 	},
 	[17316] = {
 		Title = "[Espera] Cosecha de Sandía",
@@ -46260,9 +46261,9 @@ QuestInfoList = {
 		Title = "Fideos Podridos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Trae 10 Fideos Podridos al <NAVI>[Ayudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>."
+			"Trae 10x Fideos Podridos al <NAVI>[Ayudante Domi]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "10 Fideos Podridos"
+		Summary = "10x Fideos Podridos"
 	},
 	[17318] = {
 		Title = "[Espera] Fideos Podridos",
@@ -47635,7 +47636,7 @@ QuestInfoList = {
 		Title = "Cocinar Fideos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Maestro Fideo Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, en Lasagna, pidió 5 Fideos Corbata, 5 Fideos Espagueti, 5 Fideos Tornillo y 3 Albóndigas."
+			"<NAVI>[Maestro Fideo Orzo]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>, en Lasagna, pidió 5x Fideos Corbata, 5x Fideos Espagueti, 5x Fideos Tornillo y 1x Albóndiga."
 		},
 		Summary = "Trae los objetos"
 	},
@@ -47715,7 +47716,7 @@ QuestInfoList = {
 		Title = "¿¡Botón de Estrella!?",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Ve a la Cueva, elimina Estrellitas para conseguir 20 Botones de Estrella y entrégaselos a <NAVI>[mí]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
+			"Ve a la Cueva, elimina Estrellitas para conseguir 20x Botones de Estrella y entrégaselos a <NAVI>[mí]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
 		Summary = "20 Botones de Estrella"
 	},
@@ -47734,7 +47735,7 @@ QuestInfoList = {
 		Description = {
 			"Ve a la Cueva, elimina Estrellitas para conseguir 20 Botones de Estrella y entrégaselos a <NAVI>[mí]<INFO>lasagna,224,111,0,101,0,</INFO></NAVI>."
 		},
-		Summary = "20 Botones de Estrella"
+		Summary = "20x Botones de Estrella"
 	},
 	[17568] = {
 		Title = "Senda del Cielo: Punto marcado",

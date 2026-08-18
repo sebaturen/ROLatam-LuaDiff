@@ -17,7 +17,7 @@
     "Q0TTAg": {
         "en-US": "[Mysterious Voice A]\nThat’s the rumor. You sent them on a mission to a foreign land with terrible air, and now you’re bothering them by making them think about this place...",
         "pt-BR": "[Voz Desconhecida A]\nMúsica para meus ouvidos. Mandar você para um país estrangeiro com poluição atmosférica já era ruim o suficiente, agora as assombrações das lembranças desse lugar...",
-        "es-ES": "[Voz desconocida A]\nAh, música para mis oídos. Ya era bastante malo que me enviasen a una tierra extranjera con aire contaminado y ahora me atormentan los recuerdos de este lugar…"
+        "es-ES": "[Voz desconocida A]\nAh, música para mis oídos. Ya era bastante malo que me enviasen a una tierra extranjera con aire contaminado y ahora me atormentan los recuerdos de este lugar..."
     },
     "RETTAg": {
         "en-US": "[Mysterious Voice A]\nSo how is it? Are you starting to swap shifts soon?",
@@ -42,7 +42,7 @@
     "SETTAg": {
         "en-US": "[Mysterious Voice A]\nYour stubbornness hasn’t changed, not then and not now. That lousy wall...!",
         "pt-BR": "[Voz Desconhecida A]\nEssa teimosia nunca mudou em você. É só uma parede por aí...",
-        "es-ES": "[Voz desconocida A]\nVeo que la terquedad no te la quita nadie. Es solo una pared en algún lugar…"
+        "es-ES": "[Voz desconocida A]\nVeo que la terquedad no te la quita nadie. Es solo una pared en algún lugar..."
     },
     "SUTTAg": {
         "en-US": "[Mysterious Voice B]\nShh! Someone seems to be listening. Hurry back to your assignment.",
@@ -162,22 +162,22 @@
     "YETTAg": {
         "en-US": "[{0}]\nUm...",
         "pt-BR": "[{0}]\nCom licença...",
-        "es-ES": "[{0}]\nDisculpe…"
+        "es-ES": "[{0}]\nDisculpe..."
     },
     "YUTTAg": {
         "en-US": "^1A95E6I tried talking to the old man, but he didn’t respond. Just as I was about to give up and turn away...^000000",
         "pt-BR": "^1A95E6Você tentou falar com o velho, mas não obteve resposta. Justamente quando estava prestes a se afastar...^000000",
-        "es-ES": "^1A95E6Intentaste hablar con el anciano, pero no obtuviste respuestas. Justo cuando estás a punto de darte la vuelta…^000000"
+        "es-ES": "^1A95E6Intentaste hablar con el anciano, pero no obtuviste respuestas. Justo cuando estás a punto de darte la vuelta...^000000"
     },
     "YkTTAg": {
         "en-US": "[Mysterious Old Man]\nAt last, a visitor has come to this place. Hmm... and especially a living person—it’s been ages.",
         "pt-BR": "[Velho]\nFinalmente, um cliente! Hmm... e um vivo, também!",
-        "es-ES": "[Anciano]\n¡Cliente! ¡Por fin! Mmm…, ¡y por lo visto es real!"
+        "es-ES": "[Anciano]\n¡Cliente! ¡Por fin! Mmm..., ¡y por lo visto es real!"
     },
     "Y0TTAg": {
         "en-US": "Um... where is this place?",
         "pt-BR": "Com licença... mas onde estou?",
-        "es-ES": "Disculpe… ¿dónde estoy?"
+        "es-ES": "Disculpe... ¿dónde estoy?"
     },
     "ZETTAg": {
         "en-US": "^1A95E6The old man didn’t even look at you and kept talking.^000000",
@@ -202,17 +202,17 @@
     "aETTAg": {
         "en-US": "[Mysterious Old Man]\n... a dependable clan...",
         "pt-BR": "[Velho]\n...uma família muito confiável...",
-        "es-ES": "[Anciano]\nUna familia muy confiable…"
+        "es-ES": "[Anciano]\nUna familia muy confiable..."
     },
     "aUTTAg": {
         "en-US": "[Mysterious Old Man]\n.... a loyal clan...",
         "pt-BR": "[Velho]\n.... leal em sua essência...",
-        "es-ES": "[Anciano]\n…leal hasta lo más profundo…"
+        "es-ES": "[Anciano]\n...leal hasta lo más profundo..."
     },
     "akTTAg": {
         "en-US": "[Mysterious Old Man]\n..... a disciplined clan....",
         "pt-BR": "[Velho]\n...uma família de integridade...",
-        "es-ES": "[Anciano]\n…Una familia íntegra…"
+        "es-ES": "[Anciano]\n...Una familia íntegra..."
     },
     "a0TTAg": {
         "en-US": "What happened to them?",
@@ -367,7 +367,7 @@
     "iUTTAg": {
         "en-US": "[Guide Gion]\nGuidance...\nWhat an old word—I haven’t heard it in ages...",
         "pt-BR": "[Guia Gion]\nEnsinar...\nFaz muito tempo desde a última vez que ouvi essa palavra.",
-        "es-ES": "[Guía Gion]\nEnseñar…\nHace mucho que no escuchaba esa palabra."
+        "es-ES": "[Guía Gion]\nEnseñar...\nHace mucho que no escuchaba esa palabra."
     },
     "ikTTAg": {
         "en-US": "[Guide Gion]\nWell... the fact you came to find me must mean a small thread of fate didn’t break, but carried on.",
@@ -522,7 +522,7 @@
     "qETTAg": {
         "en-US": "[Guide Gion]\nThe battle test is only for those who have passed the knowledge, survival, and weapon tests. So yes—this will be the final test!",
         "pt-BR": "[Guia Gion]\nO teste de batalha é apenas para quem passa nos testes de conhecimento, sobrevivência e armas. Portanto, é o último teste.",
-        "es-ES": "[Guía Gion]\nSolo quienes pasan las pruebas de conocimientos, supervivencia y armas pueden participar en la prueba de combate. Así que… Es la última prueba."
+        "es-ES": "[Guía Gion]\nSolo quienes pasan las pruebas de conocimientos, supervivencia y armas pueden participar en la prueba de combate. Así que... Es la última prueba."
     },
     "qUTTAg": {
         "en-US": "[Guide Gion]\nUnlike the other three tests you do by yourself, you’ll have to compete with other people in this last test.",
@@ -692,7 +692,7 @@
     "ykTTAg": {
         "en-US": "[Guide Gion]\nIf you don’t tell the story quickly, it’ll be a big problem. Where was I up to? Ah! That’s right—we were here.",
         "pt-BR": "[Guia Gion]\nParece que você quer muito ouvir mais. Onde eu parei...? Ah! Lembrei.",
-        "es-ES": "[Guía Gion]\nParece que tienes muchas ganas de escuchar el resto de la historia. ¿Dónde me quedé…? ¡Ah! Ya lo recuerdo."
+        "es-ES": "[Guía Gion]\nParece que tienes muchas ganas de escuchar el resto de la historia. ¿Dónde me quedé...? ¡Ah! Ya lo recuerdo."
     },
     "y0TTAg": {
         "en-US": "[Guide Gion]\nKagerou, warrior like the dancing flames of the sun",
@@ -872,7 +872,7 @@
     "7kTTAg": {
         "en-US": "[Guide Gion]\nHmm... I don’t know why even such small things are remembered—but it seems he wanted to connect the two warriors.",
         "pt-BR": "[Guia Gion]\nHmm... Não sei por que esta parte da história foi mantida viva durante todos esses anos, mas esse homem queria reunir os dois guerreiros.",
-        "es-ES": "[Guía Gion]\nMmm… No sé por qué esta parte de la historia perduró todos estos años, pero este hombre quería unir a estos dos guerreros."
+        "es-ES": "[Guía Gion]\nMmm... No sé por qué esta parte de la historia perduró todos estos años, pero este hombre quería unir a estos dos guerreros."
     },
     "70TTAg": {
         "en-US": "[Guide Gion]\nThey did travel together after the war, but they still kept an awkward distance from each other.",
@@ -1032,7 +1032,7 @@
     "DkXTAg": {
         "en-US": "Ah... No.",
         "pt-BR": "Ah... não.",
-        "es-ES": "Ah… no."
+        "es-ES": "Ah... no."
     },
     "D0XTAg": {
         "en-US": "[Guide Gion]\nThe battle test site is this way.",
@@ -1050,62 +1050,62 @@
         "es-ES": "[Guía Gion]\nNo creo que debas estar aquí ahora. Lo siento, pero lárgate de aquí."
     },
     "EkXTAg": {
-        "en-US": "Kuuga-gai",
+        "en-US": "Cougar",
         "pt-BR": "Puma",
         "es-ES": "Chico puma"
     },
     "E0XTAg": {
-        "en-US": "[Kuuga-gai]\nYou’re not one of our clan. Was it our side’s mistake? I’m sorry.",
+        "en-US": "[Cougar]\nYou’re not one of our clan. Was it our side’s mistake? I’m sorry.",
         "pt-BR": "[Puma]\nVocê não é um de nós. A culpa foi nossa? Sinto muito.",
         "es-ES": "[Chico puma]\nNo eres de los nuestros. ¿Fue culpa nuestra? Lo siento."
     },
     "FEXTAg": {
-        "en-US": "[Kuuga-gai]\nHow did you get into this place?",
+        "en-US": "[Cougar]\nHow did you get into this place?",
         "pt-BR": "[Puma]\nComo você entrou aqui?",
         "es-ES": "[Chico puma]\n¿Cómo entraste?"
     },
     "FUXTAg": {
-        "en-US": "[Kuuga-gai]\nIf it were according to the rules, I would have shut your mouth right here... \n^000099(A man who stays silent for a moment)^000000\nBut for now, I’ll just send you back.",
+        "en-US": "[Cougar]\nIf it were according to the rules, I would have shut your mouth right here... \n^000099(A man who stays silent for a moment)^000000\nBut for now, I’ll just send you back.",
         "pt-BR": "[Puma]\nNo meu tempo, já teriam dado um jeito em você.\n^000099(Homem em silêncio)^000000\nVou aliviar para você por enquanto.",
         "es-ES": "[Chico puma]\nYa se habrían ocupado de ti si nos rigiéramos por las antiguas normas.\n^000099(Hombre silencioso)^000000\nTe dejaré libre por ahora."
     },
     "FkXTAg": {
-        "en-US": "[Kuuga-gai]\nThis is a test where only what you know matters. So what are you carrying all that for?",
+        "en-US": "[Cougar]\nThis is a test where only what you know matters. So what are you carrying all that for?",
         "pt-BR": "[Puma]\nVocê só precisa de bom senso para fazer o teste. Por que está carregando tanta coisa?",
         "es-ES": "[Chico puma]\nSolo necesitas sentido común para hacer la prueba. ¿Por qué llevas tanta carga?"
     },
     "F0XTAg": {
-        "en-US": "[Kuuga-gai]\nIt’s been ages...",
+        "en-US": "[Cougar]\nIt’s been ages...",
         "pt-BR": "[Puma]\nJá faz algum tempo.",
         "es-ES": "[Chico puma]\nHace mucho que no nos vemos."
     },
     "GEXTAg": {
         "en-US": "You’re the one...",
         "pt-BR": "Você não é...",
-        "es-ES": "¿No eres…?"
+        "es-ES": "¿No eres...?"
     },
     "GUXTAg": {
-        "en-US": "[Kuuga-gai]\nYou came looking for me not long ago, saying you were searching for the ninja’s path.",
+        "en-US": "[Cougar]\nYou came looking for me not long ago, saying you were searching for the ninja’s path.",
         "pt-BR": "[Puma]\nEu me lembro de você, de antes de procurar o caminho do ninja.",
         "es-ES": "[Chico puma]\nTe recuerdo, eres quien buscaba el camino del Ninja."
     },
     "GkXTAg": {
-        "en-US": "[Kuuga-gai]\nSo you’re already at this level?",
+        "en-US": "[Cougar]\nSo you’re already at this level?",
         "pt-BR": "[Puma]\nVocê já está tão forte assim?",
         "es-ES": "[Chico puma]\n¿Tan fuerte te volviste?"
     },
     "G0XTAg": {
-        "en-US": "[Kuuga-gai]\nHahahahaha—\nSo you really were tough-minded. I like that.",
+        "en-US": "[Cougar]\nHahahahaha—\nSo you really were tough-minded. I like that.",
         "pt-BR": "[Puma]\nHa ha ha!\nUma pessoa realmente determinada! Eu gosto disso.",
-        "es-ES": "[Chico puma]\nJa, ja, ja…\n¡Veo que eres una persona joven muy decidida! Eso me gusta."
+        "es-ES": "[Chico puma]\nJa, ja, ja...\n¡Veo que eres una persona joven muy decidida! Eso me gusta."
     },
     "HEXTAg": {
-        "en-US": "[Kuuga-gai]\nGood! The test you’re going to take right now is the ^339CCCKnowledge Test^000000.",
+        "en-US": "[Cougar]\nGood! The test you’re going to take right now is the ^339CCCKnowledge Test^000000.",
         "pt-BR": "[Puma]\nMuito bem! O teste que você está prestes a fazer é o ^339CCCTeste de Conhecimento^000000.",
         "es-ES": "[Chico puma]\n¡Bien! La prueba que estás por realizar es la ^339CCCprueba de conocimientos^000000."
     },
     "HUXTAg": {
-        "en-US": "[Kuuga-gai]\nWhile you were busy focusing on getting stronger, you didn’t neglect your studies, did you?",
+        "en-US": "[Cougar]\nWhile you were busy focusing on getting stronger, you didn’t neglect your studies, did you?",
         "pt-BR": "[Puma]\nEspero que você não tenha tido preguiça com seus estudos enquanto se concentrava em ficar mais forte.",
         "es-ES": "[Chico puma]\nEspero que también hayas estudiado mientras te concentrabas en volverte más fuerte."
     },
@@ -1120,37 +1120,37 @@
         "es-ES": "No."
     },
     "IEXTAg": {
-        "en-US": "[Kuuga-gai]\nGood for you. Then start the test—talk to me.",
+        "en-US": "[Cougar]\nGood for you. Then start the test—talk to me.",
         "pt-BR": "[Puma]\nIsso é um alívio. Avise-me quando estiver tudo pronto para começar o teste.",
         "es-ES": "[Chico Puma]\nQué alivio. Avísame cuando tengas todo preparado para comenzar la prueba."
     },
     "IUXTAg": {
-        "en-US": "[Kuuga-gai]\nWere you only tough-minded? Oh well. When you’re ready, talk to me.",
+        "en-US": "[Cougar]\nWere you only tough-minded? Oh well. When you’re ready, talk to me.",
         "pt-BR": "[Puma]\nEntão era só conversa? Bem, avise-me quando estiver tudo pronto.",
         "es-ES": "[Chico puma]\n¿Así que todo era mera palabrería? Bueno, avísame cuando tengas todo preparado."
     },
     "IkXTAg": {
-        "en-US": "[Kuuga-gai]\nI’m ready. Are you fully prepared for the test?",
+        "en-US": "[Cougar]\nI’m ready. Are you fully prepared for the test?",
         "pt-BR": "[Puma]\nDa minha parte, está tudo pronto. Você está pronto para o teste?",
         "es-ES": "[Chico puma]\nTodo listo por aquí. ¿Todo listo para la prueba?"
     },
     "I0XTAg": {
-        "en-US": "[Kuuga-gai]\nNot much I can do. Wait a little longer.",
+        "en-US": "[Cougar]\nNot much I can do. Wait a little longer.",
         "pt-BR": "[Puma]\nBem, só o que posso fazer é esperar você.",
         "es-ES": "[Chico puma]\nBueno, solo me queda esperarte."
     },
     "JEXTAg": {
-        "en-US": "[Kuuga-gai]\nThis isn’t your first time seeing the test, right?",
+        "en-US": "[Cougar]\nThis isn’t your first time seeing the test, right?",
         "pt-BR": "[Puma]\nEste não é seu primeiro teste, é?",
         "es-ES": "[Chico puma]\nNo es tu primera prueba, ¿verdad?"
     },
     "JUXTAg": {
-        "en-US": "[Kuuga-gai]\nJust choose what you think is the correct answer to the questions I ask.",
+        "en-US": "[Cougar]\nJust choose what you think is the correct answer to the questions I ask.",
         "pt-BR": "[Puma]\nVocê só precisa escolher a resposta correta para as minhas perguntas.",
         "es-ES": "[Chico puma]\nSolo tienes que elegir la respuesta correcta a mis preguntas."
     },
     "JkXTAg": {
-        "en-US": "[Kuuga-gai]\nThen I’ll begin the test.",
+        "en-US": "[Cougar]\nLet's start.",
         "pt-BR": "[Puma]\nVamos começar.",
         "es-ES": "[Chico puma]\nEmpecemos."
     },
@@ -1200,12 +1200,12 @@
         "es-ES": "Pregunta 9"
     },
     "MEXTAg": {
-        "en-US": "Final Question",
+        "en-US": "Last Question",
         "pt-BR": "Última pergunta",
         "es-ES": "Última pregunta"
     },
     "MUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}!!!\nWhich of the following jobs cannot a Swordsman class-transfer into?",
+        "en-US": "[Cougar]\n{0}!!\nWhat is the DEX + LUK total for a Job Master?",
         "pt-BR": "[Puma]\n{0}!!!\nQual é o total de DES + SOR para um Mestre de Classe?",
         "es-ES": "[Chico puma]\n¡¡{0}!!\n¿Cuál es el total de DES+SUE de una maestría de clase?"
     },
@@ -1230,12 +1230,12 @@
         "es-ES": "14"
     },
     "NkXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich of the following jobs cannot a Mage class-transfer into?",
+        "en-US": "[Cougar]\n{0}\nWhat is the highest job level for a ninja?",
         "pt-BR": "[Puma]\n{0}\nQual é o nível de classe mais alto para um ninja?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es el nivel de clase más alto de un Ninja?"
     },
     "N0XTAg": {
-        "en-US": "Swordsman",
+        "en-US": "70",
         "pt-BR": "70",
         "es-ES": "70"
     },
@@ -1245,7 +1245,7 @@
         "es-ES": "50"
     },
     "OUXTAg": {
-        "en-US": "Professor",
+        "en-US": "99",
         "pt-BR": "99",
         "es-ES": "99"
     },
@@ -1255,12 +1255,12 @@
         "es-ES": "100"
     },
     "O0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich of the following is NOT required when creating a Guild?",
+        "en-US": "[Cougar]\n{0}\nHow many skill points do you need to master the Throw Coins skill?",
         "pt-BR": "[Puma]\n{0}\nQuantos pontos de habilidade você precisa para dominar a habilidade Chuva de Moedas?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuántos puntos de habilidad necesitas para dominar la habilidad Arrojar monedas?"
     },
     "PEXTAg": {
-        "en-US": "Emperium",
+        "en-US": "25",
         "pt-BR": "25",
         "es-ES": "25"
     },
@@ -1270,22 +1270,22 @@
         "es-ES": "30"
     },
     "PkXTAg": {
-        "en-US": "Guarantor",
+        "en-US": "35",
         "pt-BR": "35",
         "es-ES": "35"
     },
     "P0XTAg": {
-        "en-US": "Guild Master",
+        "en-US": "37",
         "pt-BR": "37",
         "es-ES": "37"
     },
     "QEXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhat is the capital city of the Rune-Midgarts Kingdom?",
+        "en-US": "[Cougar]\n{0}\nWhich of the following is the correct number of Evasion and effect duration for Mirror Image level 10?",
         "pt-BR": "[Puma]\n{0}\nQual das opções a seguir é o número correto de Evasão e a duração do efeito de Imagem Falsa de nível 10?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es el número correcto de evasión y de duración del efecto Reflejo de nivel 10?"
     },
     "QUXTAg": {
-        "en-US": "Alberta",
+        "en-US": "Up to 7 and 200 seconds",
         "pt-BR": "Até 7 e 200 segundos",
         "es-ES": "Hasta 7 y 200 segundos."
     },
@@ -1295,17 +1295,17 @@
         "es-ES": "Hasta 5 y 220 segundos."
     },
     "Q0XTAg": {
-        "en-US": "Izlude",
+        "en-US": "Up to 6 and 240 seconds",
         "pt-BR": "Até 6 e 240 segundos",
         "es-ES": "Hasta 6 y 240 segundos."
     },
     "REXTAg": {
-        "en-US": "Prontera",
+        "en-US": "Up to 5 and 240 seconds",
         "pt-BR": "Até 5 e 240 segundos",
         "es-ES": "Hasta 5 y 240 segundos."
     },
     "RUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhat is the capital city of the Schwarzvald Republic?",
+        "en-US": "[Cougar]\n{0}\nHow many skill points do you need to master the Cicada Skin Shed?",
         "pt-BR": "[Puma]\n{0}\nQuantos pontos de habilidade você precisa para dominar a Troca de Pele?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuántos puntos de habilidad necesitas para dominar la habilidad Muda de cigarra?"
     },
@@ -1330,7 +1330,7 @@
         "es-ES": "4"
     },
     "SkXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhat is the capital city of the Arunafelt Church?",
+        "en-US": "[Cougar]\n{0}\nIf Dagger Throwing Practice is at 7, how much ATK is added to Shuriken attacks?",
         "pt-BR": "[Puma]\n{0}\nSe a Perícia com Shuriken estiver em 7, quanto ATQ é adicionado aos ataques com Shuriken?",
         "es-ES": "[Chico puma]\n{0}\nSi la Práctica de lanzamiento de daga está en nivel 7, ¿cuánto ATQ se agrega a los ataques con Shuriken?"
     },
@@ -1345,12 +1345,12 @@
         "es-ES": "21"
     },
     "TUXTAg": {
-        "en-US": "Rag",
+        "en-US": "27",
         "pt-BR": "27",
         "es-ES": "27"
     },
     "TkXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich skill must you select to participate in a Guild Siege War?",
+        "en-US": "[Cougar]\n{0}\nWhat is the basic attack range for Throw Shuriken?",
         "pt-BR": "[Puma]\n{0}\nQual é o alcance do ataque básico de Arremessar Shuriken?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es el alcance del ataque básico de Arrojar Shuriken?"
     },
@@ -1370,22 +1370,22 @@
         "es-ES": "9 bloques."
     },
     "UkXTAg": {
-        "en-US": "Emergency Call",
+        "en-US": "10 blocks",
         "pt-BR": "10 blocos",
         "es-ES": "10 bloques."
     },
     "U0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich one is NOT a Homunculus?",
+        "en-US": "[Cougar]\n{0}\nWhat is the maximum moving range of Shadow Leap?",
         "pt-BR": "[Puma]\n{0}\nQual é o alcance máximo de movimento do Salto das Sombras?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es el alcance máximo de movimiento de Salto sombrío?"
     },
     "VEXTAg": {
-        "en-US": "Philir",
+        "en-US": "6 blocks",
         "pt-BR": "6 blocos",
         "es-ES": "6 bloques."
     },
     "VUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich of the following jobs cannot a male archer class-transfer into?",
+        "en-US": "[Cougar]\n{0}\nHow much money is used for Throw Coins level 6?",
         "pt-BR": "[Puma]\n{0}\nQuanto dinheiro é usado para a Chuva de Moedas de nível 6?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuánto dinero se usa en Arrojar monedas de nivel 6?"
     },
@@ -1410,7 +1410,7 @@
         "es-ES": "Entre 3000 y 6000."
     },
     "WkXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich of the following jobs cannot a female archer class-transfer into?",
+        "en-US": "[Cougar]\n{0}\nWhat is the most important aspect of increasing ATK for the Killing Strike skill?",
         "pt-BR": "[Puma]\n{0}\nQual é o aspecto mais importante do aumento do ATQ para a habilidade Ataque Mortal?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es el aspecto más importante del aumento de ATQ para la habilidad Golpe letal?"
     },
@@ -1435,67 +1435,67 @@
         "es-ES": "SP máx."
     },
     "X0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich one is NOT an effect you get when you invest in STR Steatner?",
+        "en-US": "[Cougar]\n{0}\nWhat is not the effect you get after reaching the STR status?",
         "pt-BR": "[Puma]\n{0}\nQual não é o efeito obtido após atingir o atributo FOR?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué efecto no obtienes tras alcanzar el estado FUE?"
     },
     "YEXTAg": {
-        "en-US": "Increase melee attack power",
+        "en-US": "Close range attack increase",
         "pt-BR": "Aumento do ataque em curta distância",
         "es-ES": "Aumento de ataque de corto alcance."
     },
     "YUXTAg": {
-        "en-US": "Increase carrying weight",
+        "en-US": "Weight limit increase",
         "pt-BR": "Aumento do limite de peso",
         "es-ES": "Aumento de límite de peso."
     },
     "YkXTAg": {
-        "en-US": "Increase magic attack power",
+        "en-US": "Magic attack increase",
         "pt-BR": "Aumento do ataque mágico",
         "es-ES": "Aumento de ataque mágico."
     },
     "Y0XTAg": {
-        "en-US": "Increase weapon attack power",
+        "en-US": "Weapon attack increase",
         "pt-BR": "Aumento do ataque da arma",
         "es-ES": "Aumento de ataque con arma."
     },
     "ZEXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich one is NOT an effect you get when you invest in INT Steatner?",
+        "en-US": "[Cougar]\n{0}\nWhat is not the effect you get after reaching the INT status?",
         "pt-BR": "[Puma]\n{0}\nQual não é o efeito obtido após atingir o atributo INT?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué efecto no obtienes tras alcanzar el estado INT?"
     },
     "ZUXTAg": {
-        "en-US": "Increase MAXSP",
+        "en-US": "MAXSP increase",
         "pt-BR": "Aumento de MÁXPF",
         "es-ES": "Aumento de SP máx."
     },
     "ZkXTAg": {
-        "en-US": "Increase MATK",
+        "en-US": "MATK increase",
         "pt-BR": "Aumento do ATQM",
         "es-ES": "Aumento de ATQM."
     },
     "Z0XTAg": {
-        "en-US": "Increase magic damage",
+        "en-US": "Magic damage increase",
         "pt-BR": "Aumento do dano mágico",
         "es-ES": "Aumento de daño mágico."
     },
     "aEXTAg": {
-        "en-US": "Increase staff attack power",
+        "en-US": "Staff attack increase",
         "pt-BR": "Aumento do ataque do cajado",
         "es-ES": "Aumento de ataque con Báculo."
     },
     "aUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich one is NOT an effect you get when you invest in DEX Steatner?",
+        "en-US": "[Cougar]\n{0}\nWhat is not the effect you get after reaching the DEX status?",
         "pt-BR": "[Puma]\n{0}\nQual não é o efeito obtido após atingir o atributo DES?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué efecto no obtienes tras alcanzar el estado DES?"
     },
     "akXTAg": {
-        "en-US": "Decrease casting time",
+        "en-US": "Casting time decrease",
         "pt-BR": "Redução do tempo de lançamento",
         "es-ES": "Disminución de tiempo de lanzamiento."
     },
     "a0XTAg": {
-        "en-US": "Increase evasion",
+        "en-US": "Evasion increase",
         "pt-BR": "Aumento da evasão",
         "es-ES": "Aumento de evasión."
     },
@@ -1505,102 +1505,102 @@
         "es-ES": "Aumento de precisión."
     },
     "bUXTAg": {
-        "en-US": "Increase ranged attack power",
+        "en-US": "Long range attack increase",
         "pt-BR": "Aumento do ataque de longo alcance",
         "es-ES": "Aumento de ataque de largo alcance."
     },
     "bkXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich one is NOT an effect you get when you invest in AGI Steatner?",
+        "en-US": "[Cougar]\n{0}\nWhat is not the effect you get after reaching the AGI status?",
         "pt-BR": "[Puma]\n{0}\nQual não é o efeito obtido após atingir o atributo AGI?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué efecto no obtienes tras alcanzar el estado AGI?"
     },
     "b0XTAg": {
-        "en-US": "Improve evasion rate",
+        "en-US": "Flee increase",
         "pt-BR": "Aumento da esquiva",
         "es-ES": "Aumento de EVA."
     },
     "cEXTAg": {
-        "en-US": "Increase attack speed",
+        "en-US": "Attack speed increase",
         "pt-BR": "Aumento da velocidade de ataque",
         "es-ES": "Aumento de velocidad de ataque."
     },
     "cUXTAg": {
-        "en-US": "Reduce attack after-delay",
+        "en-US": "Delay after attack decrease",
         "pt-BR": "Atraso após a diminuição do ataque",
         "es-ES": "Retraso después de disminución de ataque."
     },
     "ckXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich one is NOT an effect you get when you invest in VIT Steatner?",
+        "en-US": "[Cougar]\n{0}\nWhat is not the effect you get after reaching the VIT status?",
         "pt-BR": "[Puma]\n{0}\nQual não é o efeito obtido após atingir o atributo VIT?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué efecto no obtienes tras alcanzar el estado VIT?"
     },
     "c0XTAg": {
-        "en-US": "Increase physical defense",
+        "en-US": "Weapon defense increase",
         "pt-BR": "Aumento da defesa da arma",
         "es-ES": "Aumento de defensa de arma."
     },
     "dEXTAg": {
-        "en-US": "Increase MAXHP",
+        "en-US": "MAXHP increase",
         "pt-BR": "Aumento de HP max",
         "es-ES": "Aumento de HP máx."
     },
     "dUXTAg": {
-        "en-US": "Increase magic defense",
+        "en-US": "Magic defense increase",
         "pt-BR": "Aumento da defesa mágica",
         "es-ES": "Aumento de DEFM."
     },
     "dkXTAg": {
-        "en-US": "Increase attack power",
+        "en-US": "Attack increase",
         "pt-BR": "Aumento do ataque",
         "es-ES": "Aumento de ataque."
     },
     "d0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich one is NOT an effect you get when you invest in LUK Steatner?",
+        "en-US": "[Cougar]\n{0}\nWhat is not the effect you get after reaching the LUK status?",
         "pt-BR": "[Puma]\n{0}\nQual não é o efeito obtido após atingir o atributo SOR?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué efecto no obtienes tras alcanzar el estado SUE?"
     },
     "eEXTAg": {
-        "en-US": "Improve perfect evasion",
+        "en-US": "Complete evasion increase",
         "pt-BR": "Aumento da evasão total",
         "es-ES": "Aumento de evasión completa."
     },
     "eUXTAg": {
-        "en-US": "Decrease magic damage",
+        "en-US": "Magic damage decrease",
         "pt-BR": "Diminuição do dano mágico",
         "es-ES": "Disminución de daño mágico."
     },
     "ekXTAg": {
-        "en-US": "Increase critical chance",
+        "en-US": "Critical rate increase",
         "pt-BR": "Aumento de taxa de crítico",
         "es-ES": "Aumento de índice de críticos."
     },
     "e0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich monster cannot be found in the Geffen underground dungeon?",
+        "en-US": "[Cougar]\n{0}\nYou need to equip a card to your shoes to enhance Killing Strike attack. Which of the following is the appropriate card to equip?",
         "pt-BR": "[Puma]\n{0}\nVocê precisa equipar uma carta nos sapatos para melhorar o Ataque Mortal. Qual das cartas a seguir é a mais adequada para equipar?",
         "es-ES": "[Chico puma]\n{0}\nNecesitas equipar una carta en tu calzado para mejorar el ataque Golpe letal. ¿Cuál de las siguientes cartas es la adecuada para equipar?"
     },
     "fEXTAg": {
-        "en-US": "Poison Spores",
+        "en-US": "Gold Acidus Card",
         "pt-BR": "Carta Acidus Dourado",
         "es-ES": "Carta de Ácido dorado."
     },
     "fUXTAg": {
-        "en-US": "Gaias",
+        "en-US": "Matyr Card",
         "pt-BR": "Carta Matyr",
         "es-ES": "Carta de Matyr."
     },
     "fkXTAg": {
-        "en-US": "Nightmare",
+        "en-US": "Odium of Thantos Card",
         "pt-BR": "Carta Odium de Thantos",
         "es-ES": "Carta de Odio de Thanatos."
     },
     "f0XTAg": {
-        "en-US": "Marionette",
+        "en-US": "Eddga Card",
         "pt-BR": "Carta Eddga",
         "es-ES": "Carta de Eddga."
     },
     "gEXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhen fighting a fire-property monster, what armor attribute is appropriate?",
+        "en-US": "[Cougar]\n{0}\nYou need a catalyst to use ninja skills. Which of the following skills does not need a catalyst?",
         "pt-BR": "[Puma]\n{0}\nVocê precisa de um catalisador para usar as habilidades de ninja. Qual das seguintes habilidades não precisa de um catalisador?",
         "es-ES": "[Chico puma]\n{0}\nNecesitas un catalizador para usar las habilidades de Ninja. ¿Cuál de las siguientes habilidades no necesita un catalizador?"
     },
@@ -1625,7 +1625,7 @@
         "es-ES": "Ráfaga de copos de nieve."
     },
     "hUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich cave is NOT located around the beach city of Comodo?",
+        "en-US": "[Cougar]\n{0}\nHow much does STR/INT go up when Ninja Aura level 5 is used?",
         "pt-BR": "[Puma]\n{0}\nQuanto aumentam FOR e INT quando a Aura Ninja de nível 5 é usada?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es el aumento de FUE/INT cuando se usa Aura de Ninja de nivel 5?"
     },
@@ -1640,7 +1640,7 @@
         "es-ES": "7"
     },
     "iEXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nI’m going to hunt Orc Warriors. Which Kunai should I use?",
+        "en-US": "[Cougar]\n{0}\nYou are hunting the Orc Warrior. Which Kunai would you use?",
         "pt-BR": "[Puma]\n{0}\nVocê está caçando o Guerreiro Orc. Qual Kunai você usaria?",
         "es-ES": "[Chico puma]\n{0}\nTu objetivo es cazar al Guerrero orco. ¿Qué Kunai usarías?"
     },
@@ -1665,7 +1665,7 @@
         "es-ES": "Kunai de viento fuerte."
     },
     "jUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhat is the name of the town where there’s a ninja class-transfer office?",
+        "en-US": "[Cougar]\n{0}\nWhich village is the Ninja Guild located in?",
         "pt-BR": "[Puma]\n{0}\nEm que aldeia está localizada a Guilda Ninja?",
         "es-ES": "[Cougar]\n{0}\n¿En qué aldea se encuentra el gremio de Ninjas?"
     },
@@ -1690,7 +1690,7 @@
         "es-ES": "Comodo."
     },
     "kkXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nHow do ninjas get promoted?",
+        "en-US": "[Cougar]\n{0}\nHow do Ninjas get promoted?",
         "pt-BR": "[Puma]\n{0}\nComo os ninjas são promovidos?",
         "es-ES": "[Chico puma]\n{0}\n¿Cómo ascienden los Ninjas?"
     },
@@ -1715,72 +1715,72 @@
         "es-ES": "Por Valkiria."
     },
     "l0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhat was the item that was next to you when you first met?",
+        "en-US": "[Cougar]\n{0}\nWhat was next to me when you first met me?",
         "pt-BR": "[Puma]\n{0}\nO que estava ao meu lado quando você me conheceu?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué había a mi lado cuando me conociste?"
     },
     "mEXTAg": {
-        "en-US": "Cushion",
+        "en-US": "A cushion",
         "pt-BR": "Uma almofada",
         "es-ES": "Un cojín."
     },
     "mUXTAg": {
-        "en-US": "Folding screen",
+        "en-US": "A folding screen",
         "pt-BR": "Uma tela dobrável",
         "es-ES": "Un biombo."
     },
     "mkXTAg": {
-        "en-US": "Flower pot",
+        "en-US": "A flowerpot",
         "pt-BR": "Um vaso de flores",
         "es-ES": "Una maceta."
     },
     "m0XTAg": {
-        "en-US": "Brazier",
+        "en-US": "A brazier",
         "pt-BR": "Um braseiro",
         "es-ES": "Un brasero."
     },
     "nEXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nIn Izlude’s underwater cave dungeon, how many floors does it have in total?",
+        "en-US": "[Cougar]\n{0}\nWhat is the level of Dagger Throwin Practice you have to reach to learn the Killing Strike skill?",
         "pt-BR": "[Puma]\n{0}\nQual é o nível de Perícia com Shuriken que você precisa atingir para aprender a habilidade Ataque Mortal?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué nivel debes alcanzar en Práctica de lanzamiento de dagas para aprender la habilidad Golpe letal?"
     },
     "nUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich monster can only be found in the Aldebaran Clock Tower dungeon?",
+        "en-US": "[Cougar]\n{0}\nHow many hits does a Throw Kunai give to a monster?",
         "pt-BR": "[Puma]\n{0}\nQuantos golpes um Arremessar Kunai dá em um monstro?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuántos golpes puede asestar la habilidad Arrojar Kunai contra un monstruo?"
     },
     "nkXTAg": {
-        "en-US": "Drainerear",
+        "en-US": "2",
         "pt-BR": "2",
         "es-ES": "2"
     },
     "n0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nIn the boss of the Prontera underground waterway dungeon, what is its name?",
+        "en-US": "[Cougar]\n{0}\nWhen your First Wind is at level 4, what will go with the MATK and range?",
         "pt-BR": "[Puma]\n{0}\nQuando Brisa Cortante estiver no nível 4, o que acontecerá com o ATQM e o alcance?",
         "es-ES": "[Chico puma]\n{0}\nCuando Primer viento alcanza el nivel 4, ¿qué acompaña el ATQM y el alcance?"
     },
     "oEXTAg": {
-        "en-US": "Plated Thief Bug",
+        "en-US": "MATK400, 8 blocks",
         "pt-BR": "ATQM400, 8 blocos",
         "es-ES": "ATQM 400, 8 bloques."
     },
     "oUXTAg": {
-        "en-US": "Platinum Thief Bug",
+        "en-US": "MATK500, 7 blocks",
         "pt-BR": "ATQM500, 7 blocos",
         "es-ES": "ATQM 500, 7 bloques."
     },
     "okXTAg": {
-        "en-US": "Golden Thief Bug",
+        "en-US": "MATK500, 8 blocks",
         "pt-BR": "ATQM500, 8 blocos",
         "es-ES": "ATQM 500, 8 bloques."
     },
     "o0XTAg": {
-        "en-US": "Gold Sand Thief Bug",
+        "en-US": "MATK400, 7 blocks",
         "pt-BR": "ATQM400, 7 blocos",
         "es-ES": "ATQM 400, 7 bloques."
     },
     "pEXTAg": {
-        "en-US": "[Kuuga-gai]\nWhich of the following is NOT a city belonging to the Schwarzvald Republic?",
+        "en-US": "[Cougar]\n{0}\nWhich of the following skills can't you learn at Dagger Throwing Practice level 7?",
         "pt-BR": "[Puma]\n{0}\nQual das seguintes habilidades você não pode aprender no nível 7 de Perícia com Shuriken?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál de las siguientes habilidades no puedes aprender con Práctica de lanzamiento de dagas de nivel 7?"
     },
@@ -1805,42 +1805,42 @@
         "es-ES": "Arrojar monedas."
     },
     "qUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich of the following is NOT a dungeon located around the desert city of Morroc?",
+        "en-US": "[Cougar]\n{0}\nWhat level do you have to be in Dagger Throwing Practice in order to learn the Throw Coins skill?",
         "pt-BR": "[Puma]\n{0}\nQue nível você precisa ter em Perícia com Shuriken para aprender a habilidade Chuva de Moedas?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué nivel debes tener de Práctica de lanzamiento de dagas para aprender la habilidad Arrojar monedas?"
     },
     "qkXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich monster is NOT found in the Alberta sinking ship?",
+        "en-US": "[Cougar]\n{0}\nWhat is the attack range for the Exploding Dragon?",
         "pt-BR": "[Puma]\n{0}\nQual é o alcance do ataque de Dragão Explosivo?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es el alcance del ataque de Dragón explosivo?"
     },
     "q0XTAg": {
-        "en-US": "Hydra",
+        "en-US": "3*3",
         "pt-BR": "3*3",
         "es-ES": "3 x 3."
     },
     "rEXTAg": {
-        "en-US": "Drake",
+        "en-US": "4*4",
         "pt-BR": "4*4",
         "es-ES": "4 x 4."
     },
     "rUXTAg": {
-        "en-US": "Dracula",
+        "en-US": "5*5",
         "pt-BR": "5*5",
         "es-ES": "5 x 5."
     },
     "rkXTAg": {
-        "en-US": "Firebat Skull",
+        "en-US": "6*6",
         "pt-BR": "6*6",
         "es-ES": "6 x 6."
     },
     "r0XTAg": {
-        "en-US": "[Kuuga-gai]\nWhere is the town that houses the head office of the Kafra Center?",
+        "en-US": "[Cougar]\n{0}\nHow long is the effect time for the Watery Evasion level 7 skill?",
         "pt-BR": "[Puma]\n{0}\nQuanto tempo dura o efeito da habilidade Evasão Aquática de nível 7?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuánto dura el efecto de la habilidad Evasión acuática de nivel 7?"
     },
     "sEXTAg": {
-        "en-US": "Mountain City Payon",
+        "en-US": "40 seconds",
         "pt-BR": "40 segundos",
         "es-ES": "40 segundos."
     },
@@ -1855,62 +1855,62 @@
         "es-ES": "50 segundos."
     },
     "s0XTAg": {
-        "en-US": "Port City Alberta",
+        "en-US": "55 seconds",
         "pt-BR": "55 segundos",
         "es-ES": "55 segundos."
     },
     "tEXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich monster cannot be encountered in the Payon Cave?",
+        "en-US": "[Cougar]\n{0}\nWhat is the attack effect for Haze Slasher level 4?",
         "pt-BR": "[Puma]\n{0}\nQual é o efeito do ataque Corte da Névoa de nível 4?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es el efecto de ataque de Tajo de niebla de nivel 4?"
     },
     "tUXTAg": {
-        "en-US": "Hyegun",
+        "en-US": "140%",
         "pt-BR": "140%",
         "es-ES": "140 %."
     },
     "tkXTAg": {
-        "en-US": "Sohi",
+        "en-US": "150%",
         "pt-BR": "150%",
         "es-ES": "150 %."
     },
     "t0XTAg": {
-        "en-US": "Kumiho",
+        "en-US": "160%",
         "pt-BR": "160%",
         "es-ES": "160 %."
     },
     "uEXTAg": {
-        "en-US": "Bongun",
+        "en-US": "170%",
         "pt-BR": "170%",
         "es-ES": "170 %."
     },
     "uUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich of the following is NOT a job you can do after promotion?",
+        "en-US": "[Cougar]\n{0}\nHow much power is in the Huuma Blaze Shuriken weapon?",
         "pt-BR": "[Puma]\n{0}\nQual é o poder da arma Shuriken de Fogo Huuma?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuánto poder tiene el arma Shuriken Huuma ardiente?"
     },
     "ukXTAg": {
-        "en-US": "Fireball 5, DEX-2",
+        "en-US": "Fireball 5 , DEX-2",
         "pt-BR": "Bola de Fogo 5 , DES-2",
         "es-ES": "Bola de fuego 5, DES -2."
     },
     "u0XTAg": {
-        "en-US": "White Smith",
+        "en-US": "Fireball 5 , DEX-3",
         "pt-BR": "Bola de Fogo 5 , DES-3",
         "es-ES": "Bola de fuego 5, DES -3."
     },
     "vEXTAg": {
-        "en-US": "Fireball 4, DEX-2",
+        "en-US": "Fireball 4 , DEX-2",
         "pt-BR": "Bola de Fogo 4 , DES-2",
         "es-ES": "Bola de fuego 4, DES -2."
     },
     "vUXTAg": {
-        "en-US": "Fireball 4, DEX-3",
+        "en-US": "Fireball 4 , DEX-3",
         "pt-BR": "Bola de Fogo 4 , DES-3",
         "es-ES": "Bola de fuego 4, DES -3."
     },
     "vkXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich of the following is NOT a job that merchants can choose?",
+        "en-US": "[Cougar]\n{0}\nHow much power is in the Murasame weapon?",
         "pt-BR": "[Puma]\n{0}\nQual é a potência da arma Murasame?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuánto poder tiene el arma Murasame?"
     },
@@ -1925,17 +1925,17 @@
         "es-ES": "Crítico humano +10."
     },
     "wUXTAg": {
-        "en-US": "Creator",
+        "en-US": "Demon attack 10%",
         "pt-BR": "Ataque de demônio 10%",
         "es-ES": "Ataque demoníaco 10 %."
     },
     "wkXTAg": {
-        "en-US": "Alchemist",
+        "en-US": "Demon critical +10",
         "pt-BR": "Crítico de demônio +10",
         "es-ES": "Demonio crítico +10."
     },
     "w0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich of the following is NOT a job that a Crusader can choose?",
+        "en-US": "[Cougar]\n{0}\nWhat is the maximum hit number for Blaze Shield level 10?",
         "pt-BR": "[Puma]\n{0}\nQual é o número máximo de acerto do Escudo de Chamas de nível 10?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es la cantidad máxima de golpes de Escudo de brasas de nivel 10?"
     },
@@ -1945,32 +1945,32 @@
         "es-ES": "9"
     },
     "xUXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich skill is NOT related to HP recovery?",
+        "en-US": "[Cougar]\n{0}\nWhat is the property of the Lightning Jolt?",
         "pt-BR": "[Puma]\n{0}\nQual é a propriedade de Descarga Elétrica?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es la propiedad de Descarga relámpago?"
     },
     "xkXTAg": {
-        "en-US": "Increase HP recovery amount",
+        "en-US": "Fire",
         "pt-BR": "Fogo",
         "es-ES": "Fuego."
     },
     "x0XTAg": {
-        "en-US": "Heal",
+        "en-US": "Water",
         "pt-BR": "Água",
         "es-ES": "Agua."
     },
     "yEXTAg": {
-        "en-US": "Santuary",
+        "en-US": "Ground",
         "pt-BR": "Terra",
         "es-ES": "Tierra."
     },
     "yUXTAg": {
-        "en-US": "Belief",
+        "en-US": "Wind",
         "pt-BR": "Vento",
         "es-ES": "Viento."
     },
     "ykXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nYou’re making a weapon specifically for small monsters. Which card is the best?",
+        "en-US": "[Cougar]\n{0}\nYou are creating a weapon for small monsters. What is the best card to use?",
         "pt-BR": "[Puma]\n{0}\nVocê está criando uma arma para monstros pequenos. Qual é a melhor carta a ser usada?",
         "es-ES": "[Chico puma]\n{0}\nQuieres crear un arma para derrotar monstruos pequeños. ¿Cuál es la mejor carta que deberías usar?"
     },
@@ -1985,7 +1985,7 @@
         "es-ES": "Carta de Minorous."
     },
     "zUXTAg": {
-        "en-US": "Skeleton Worker Card",
+        "en-US": "Skel Woker Card",
         "pt-BR": "Carta Esqueleto Operário",
         "es-ES": "Carta de Esqueleto trabajador."
     },
@@ -1995,17 +1995,17 @@
         "es-ES": "Carta de Lobo del desierto."
     },
     "z0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nYou’re making a weapon specifically for medium monsters. Which card is the best?",
+        "en-US": "[Cougar]\n{0}\nYou are creating a weapon for mid-sized monsters. What is the best card to use?",
         "pt-BR": "[Puma]\n{0}\nVocê está criando uma arma para monstros de tamanho médio. Qual é a melhor carta a ser usada?",
         "es-ES": "[Chico puma]\n{0}\nQuieres crear un arma para derrotar monstruos medianos. ¿Cuál es la mejor carta que deberías usar?"
     },
     "0EXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nYou’re making a weapon specifically for large monsters. Which card is the best?",
+        "en-US": "[Cougar]\n{0}\nYou are creating a weapon for huge monsters. What is the best card to use?",
         "pt-BR": "[Puma]\n{0}\nVocê está criando uma arma para monstros enormes. Qual é a melhor carta a ser usada?",
         "es-ES": "[Chico puma]\n{0}\nQuieres crear un arma para derrotar monstruos enormes. ¿Cuál es la mejor carta que deberías usar?"
     },
     "0UXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhat is the name of the NPC who performs the promotion?",
+        "en-US": "[Cougar]\n{0}\nWhich NPC promotes you?",
         "pt-BR": "[Puma]\n{0}\nQual NPC promove você?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué NPC te asciende?"
     },
@@ -2020,7 +2020,7 @@
         "es-ES": "Val Kiwi."
     },
     "1EXTAg": {
-        "en-US": "Valhiri",
+        "en-US": "Balp Hiri",
         "pt-BR": "Balp Hiri",
         "es-ES": "BaHP Hiri."
     },
@@ -2030,87 +2030,87 @@
         "es-ES": "Elefante."
     },
     "1kXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich of the following potions restores the most HP?",
+        "en-US": "[Cougar]\n{0}\nWhich catalyst do you need to use the Blaze Shield skill?",
         "pt-BR": "[Puma]\n{0}\nDe qual catalisador você precisa para usar a habilidade Escudo de Chamas?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué catalizador necesitas para usar la habilidad Escudo de brasas?"
     },
     "10XTAg": {
-        "en-US": "Red Potion",
+        "en-US": "Ice Stone",
         "pt-BR": "Pedra do Gelo",
         "es-ES": "Piedra de hielo."
     },
     "2EXTAg": {
-        "en-US": "Yellow Potion",
+        "en-US": "Flame Stone",
         "pt-BR": "Pedra do Fogo",
         "es-ES": "Piedra ardiente."
     },
     "2UXTAg": {
-        "en-US": "Scarlet Potion",
+        "en-US": "Wind Stone",
         "pt-BR": "Pedra do Vento",
         "es-ES": "Piedra del viento."
     },
     "2kXTAg": {
-        "en-US": "Blue Potion",
+        "en-US": "Earth Stone",
         "pt-BR": "Pedra da Terra",
         "es-ES": "Piedra de Tierra."
     },
     "20XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich status ailments cannot be recovered with a green potion?",
+        "en-US": "[Cougar]\n{0}\nWhich of the following is not an effect of the Watery Evasion skill?",
         "pt-BR": "[Puma]\n{0}\nQual das opções a seguir não é um efeito da habilidade Evasão Aquática?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál de los siguientes no es un efecto de la habilidad Evasión acuática?"
     },
     "3EXTAg": {
-        "en-US": "Poison",
+        "en-US": "Movement speed decrease",
         "pt-BR": "Diminuição da velocidade de movimento",
         "es-ES": "Disminución de la velocidad de movimiento."
     },
     "3UXTAg": {
-        "en-US": "Silence",
+        "en-US": "Waterball availability",
         "pt-BR": "Disponibilidade de Esfera d'Água (Waterball)",
         "es-ES": "Disponibilidad de Bola de agua."
     },
     "3kXTAg": {
-        "en-US": "Darkness",
+        "en-US": "Holy Water craftability",
         "pt-BR": "Capacidade de criação de Água Benta",
         "es-ES": "Posibilidad de fabribrar Agua bendita."
     },
     "30XTAg": {
-        "en-US": "Bleeding",
+        "en-US": "VIT decrease",
         "pt-BR": "Diminuição da VIT",
         "es-ES": "Disminución de la VIT."
     },
     "4EXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich job cannot use a Berserk potion?",
+        "en-US": "[Cougar]\n{0}\nWhich of the following matches are incorrect for skill and property?",
         "pt-BR": "[Puma]\n{0}\nQuais das seguintes combinações estão incorretas para habilidade e propriedade?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál de los siguientes pares es incorrecto con respecto a la habilidad y su propiedad?"
     },
     "4UXTAg": {
-        "en-US": "Flaming Petals - Fire",
+        "en-US": "Flaming Petals-Fire",
         "pt-BR": "Pétalas Flamejantes - Fogo",
         "es-ES": "Pétalos de fuego y Fuego."
     },
     "4kXTAg": {
-        "en-US": "Snow Flake Draft - Water",
+        "en-US": "Snow Flake Draft-Water",
         "pt-BR": "Grande Floco de Neve - Água",
         "es-ES": "Ráfaga de copos de nieve y Agua."
     },
     "40XTAg": {
-        "en-US": "Freezing Spear - Ground",
+        "en-US": "Freezing Spear-Ground",
         "pt-BR": "Lança Congelante - Terra",
         "es-ES": "Lanza gélida y Tierra."
     },
     "5EXTAg": {
-        "en-US": "Lightning Jolt - Wind",
+        "en-US": "Lightning Jolt-Wind",
         "pt-BR": "Descarga Elétrica - Vento",
         "es-ES": "Descarga relámpago y Viento."
     },
     "5UXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich job can use the Awakening Potion?",
+        "en-US": "[Cougar]\n{0}\nWhich of the following is the best skill to use when attacking a ground property enemy?",
         "pt-BR": "[Puma]\n{0}\nQual das seguintes é a melhor habilidade a ser usada ao atacar um inimigo de propriedade terra?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál de las siguientes habilidades es la mejor para atacar a un enemigo de propiedad Tierra?"
     },
     "5kXTAg": {
-        "en-US": "Cleric",
+        "en-US": "First Wind",
         "pt-BR": "Brisa Cortante",
         "es-ES": "Primer viento."
     },
@@ -2125,17 +2125,17 @@
         "es-ES": "Espada de viento."
     },
     "6UXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich town cannot be reached by the airship route?",
+        "en-US": "[Cougar]\n{0}\nWhich Ninja Mastery skill level do you need to learn the Exploding Dragon skill?",
         "pt-BR": "[Puma]\n{0}\nQual nível de habilidade de Perícia Ninja você precisa para aprender a habilidade Dragão Explosivo?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué nivel de Maestría de Ninja necesitas para aprender la habilidad Dragón explosivo?"
     },
     "6kXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich Kunai can deal the highest damage when hunting fire-property monsters?",
+        "en-US": "[Cougar]\n{0}\nWhat is the attack range when you master Flip Tatami?",
         "pt-BR": "[Puma]\n{0}\nQual é o alcance do ataque quando você domina Virar Tatami?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál es el alcance de ataque cuando dominas Voltear tatami?"
     },
     "60XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich Kunai can deal the highest damage when hunting water-property monsters?",
+        "en-US": "[Cougar]\n{0}\nWhat weapon cannot be made by the blacksmith Khaibara?",
         "pt-BR": "[Puma]\n{0}\nQue arma não pode ser fabricada pelo ferreiro Khaibara?",
         "es-ES": "[Chico puma]\n{0}\n¿Qué arma no puede fabricar el Herrero Kaibara?"
     },
@@ -2160,7 +2160,7 @@
         "es-ES": "Shuriken Huuma alado."
     },
     "8EXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhen fighting water-property monsters, what armor attribute is appropriate?",
+        "en-US": "[Cougar]\n{0}\nWhich of the following correctly matches material needed to make a Icicle Kunai?",
         "pt-BR": "[Puma]\n{0}\nQual das opções a seguir corresponde corretamente ao material necessário para fazer uma Kunai Nevasca?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál de los siguientes pares corresponde al material necesario para hacer un Kunai carámbano?"
     },
@@ -2185,12 +2185,12 @@
         "es-ES": "Shuriken nimbo 1, Piedra de hielo 2."
     },
     "9UXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhich Kunai can deal the highest damage when hunting water-property monsters?",
+        "en-US": "[Cougar]\n{0}\nWhich of the following Kunai will give the most damage to the ground property monster, Porcellio?",
         "pt-BR": "[Puma]\n{0}\nQual das seguintes Kunais causará o maior dano ao monstro de propriedade da terra, Porcellio?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál de los siguientes Kunai causará más daño a Porcellio, el monstruo de propiedad Tierra?"
     },
     "9kXTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nWhen fighting water-property monsters, what armor attribute is appropriate?",
+        "en-US": "[Cougar]\n{0}\nWhich of the following blacksmiths do not create ninja items?",
         "pt-BR": "[Puma]\n{0}\nQuais dos seguintes ferreiros não cria itens de ninja?",
         "es-ES": "[Chico puma]\n{0}\n¿Cuál de los siguientes Herreros no crea objetos Ninja?"
     },
@@ -2215,82 +2215,82 @@
         "es-ES": "Toshu."
     },
     "+0XTAg": {
-        "en-US": "[Kuuga-gai]\n{0}\nIn Amatsu Touko City, how many cherry blossom trees are planted inside the premises?",
+        "en-US": "[Cougar]\n{0}\nWhat is the name of the suspicious man you can meet during the Ninja job change quest?",
         "pt-BR": "[Puma]\n{0}\nQual é o nome do homem suspeito que você pode encontrar durante a missão de Mudança de Classe de Ninja?",
         "es-ES": "[Chico puma]\n{0}\n¿Cómo se llama el hombre sospechoso con el que te puedes encontrar durante la misión de cambio de clase a Ninja?"
     },
     "/EXTAg": {
-        "en-US": "Seven trees",
+        "en-US": "Red Leopard Jack",
         "pt-BR": "Leopardo Vermelho Jack",
         "es-ES": "Leopardo rojo Jack."
     },
     "/UXTAg": {
-        "en-US": "Eight trees",
+        "en-US": "Black Leopard Jack",
         "pt-BR": "Leopardo Preto Jack",
         "es-ES": "Leopardo negro Jack."
     },
     "/kXTAg": {
-        "en-US": "Nine trees",
+        "en-US": "Red Leopard Joe",
         "pt-BR": "Leopardo Vermelho Joe",
         "es-ES": "Leopardo rojo Joe."
     },
     "/0XTAg": {
-        "en-US": "Ten trees",
+        "en-US": "Black Leopard Joe",
         "pt-BR": "Leopardo Preto Joe",
         "es-ES": "Leopardo negro Joe."
     },
     "AEbTAg": {
-        "en-US": "[Kuuga-gai]\nThere’s a problem with the question.\nIf the same error happens again, please contact the support team.",
+        "en-US": "[Cougar]\nThere’s a problem with the question.\nIf the same error happens again, please contact the support team.",
         "pt-BR": "[Puma]\nHá um problema com a pergunta.\nSe o mesmo erro ocorrer novamente, entre em contato com a equipe de atendimento.",
         "es-ES": "[Chico puma]\nHubo un problema con la pregunta.\nSi este mismo error vuelve a ocurrir, comunícate con el equipo de servicio al cliente."
     },
     "AUbTAg": {
-        "en-US": "[Kuuga-gai]\nYou solved all 10 questions. It wasn’t that bad! The important part starts now.",
+        "en-US": "[Cougar]\nYou solved all 10 questions. It wasn’t that bad! The important part starts now.",
         "pt-BR": "[Puma]\nVocê passou por todas as 10 perguntas. Não foi tão ruim! A parte importante começa agora.",
         "es-ES": "[Chico puma]\nCompletaste las 10 preguntas. ¡No estuvo nada mal! Lo importante empieza ahora."
     },
     "AkbTAg": {
-        "en-US": "[Kuuga-gai]\n... ... ...",
+        "en-US": "[Cougar]\n... ... ...",
         "pt-BR": "[Puma]\n... ... ...",
         "es-ES": "[Chico puma]\n... ... ..."
     },
     "A0bTAg": {
-        "en-US": "[Kuuga-gai]\nYou fool!!!\nYou couldn’t even figure out this?",
+        "en-US": "[Cougar]\nYou fool!!!\nYou couldn’t even figure out this?",
         "pt-BR": "[Puma]\nSeu tolo!!!\nVocê não conseguiu nem solucionar isso?",
         "es-ES": "[Chico puma]\n¡Idiota!\n¿Ni siquiera pudiste resolver esto?"
     },
     "BEbTAg": {
-        "en-US": "[Kuuga-gai]\nI can’t believe someone taking a new path could be this stupid.",
+        "en-US": "[Cougar]\nI can’t believe someone taking a new path could be this stupid.",
         "pt-BR": "[Puma]\nNão acredito que alguém que está tomando um novo caminho possa ser tão idiota.",
         "es-ES": "[Chico puma]\nNo puedo creer que una persona que busca un nuevo camino sea tan patética."
     },
     "BUbTAg": {
-        "en-US": "[Kuuga-gai]\nI’ll give you another chance.\nYou’ll take the test again with new questions. It’s better to pass this time.",
+        "en-US": "[Cougar]\nI’ll give you another chance.\nYou’ll take the test again with new questions. It’s better to pass this time.",
         "pt-BR": "[Puma]\nVou lhe dar outra chance.\nVocê fará o teste novamente com novas perguntas. É melhor passar dessa vez.",
         "es-ES": "[Chico puma]\nTe daré otra oportunidad.\nVolverás a hacer la prueba con nuevas preguntas. Más te vale que la pases."
     },
     "BkbTAg": {
-        "en-US": "[Kuuga-gai]\nHmm. {0}?\nWell, you didn’t seem lazy about your studies.",
+        "en-US": "[Cougar]\nHmm. {0}?\nWell, you didn’t seem lazy about your studies.",
         "pt-BR": "[Puma]\nHmm. {0}?\nBem, parece que você não teve preguiça com seus estudos.",
         "es-ES": "[Chico puma]\nMmm. ¿{0}?\nBueno, parece que sí te tomaste los estudios en serio."
     },
     "B0bTAg": {
-        "en-US": "[Kuuga-gai]\nWhat? You’re proud you solved these questions?",
+        "en-US": "[Cougar]\nWhat? You’re proud you solved these questions?",
         "pt-BR": "[Puma]\nO quê? Tem orgulho de ter solucionado essas perguntas?",
         "es-ES": "[Chico puma]\n¿Qué? ¿Sientes orgullo por resolver estas preguntas?"
     },
     "CEbTAg": {
-        "en-US": "[Kuuga-gai]\nYou still have a long road ahead, and this is only a small part of it.",
+        "en-US": "[Cougar]\nYou still have a long road ahead, and this is only a small part of it.",
         "pt-BR": "[Puma]\nVocê ainda tem um longo caminho a percorrer e isso é apenas uma pequena fração dele.",
         "es-ES": "[Chico puma]\nTe queda un camino muy largo por recorrer; esto es solo una pequeña parte."
     },
     "CUbTAg": {
-        "en-US": "[Kuuga-gai]\nWell... I’m curious how far your determination will take you in other tests.",
+        "en-US": "[Cougar]\nWell... I’m curious how far your determination will take you in other tests.",
         "pt-BR": "[Puma]\nBem... Estou curioso para saber até onde sua força de vontade poderá levar você em outros testes.",
-        "es-ES": "[Chico puma]\nBueno… Quiero saber hasta dónde te llevará tu fuerza de voluntad durante las otras pruebas."
+        "es-ES": "[Chico puma]\nBueno... Quiero saber hasta dónde te llevará tu fuerza de voluntad durante las otras pruebas."
     },
     "CkbTAg": {
-        "en-US": "[Kuuga-gai]\nI’ll let you go for now. Report your results to Guide Gion.",
+        "en-US": "[Cougar]\nI’ll let you go for now. Report your results to Guide Gion.",
         "pt-BR": "[Puma]\nVou deixar que vá agora, informe o Guia Gion sobre seus resultados.",
         "es-ES": "[Chico puma]\nTe dejaré ir, así que ve a informarle tus resultados al guía Gion."
     },
@@ -2827,7 +2827,7 @@
     "dUbTAg": {
         "en-US": "If you get the same number, you can move to block 30; if they’re different, consume 2 ^FD0260LP^000000 to roll again... until you get the same numbers.",
         "pt-BR": "Se obtiver o mesmo número, você poderá passar para o bloco 30; se os números forem diferentes, consuma 2 ^FD0260LP^000000 para rolar novamente... até obter os mesmos números.",
-        "es-ES": "Si obtienes el mismo número, puedes avanzar al bloque 30. Si los números son diferentes, consume 2^FD0260HP^000000 para volver a tirar… hasta que obtengas los mismos números."
+        "es-ES": "Si obtienes el mismo número, puedes avanzar al bloque 30. Si los números son diferentes, consume 2^FD0260HP^000000 para volver a tirar... hasta que obtengas los mismos números."
     },
     "dkbTAg": {
         "en-US": "Location: 16\nCurrent LP: {0}\nTo roll the dice, you must consume 2 ^FD0260LP^000000.",
@@ -3442,7 +3442,7 @@
     "8EbTAg": {
         "en-US": "For those preparing for a new turning point...\nA good start is halfway.\nBut always remember—this isn’t the end.",
         "pt-BR": "Para aqueles que estão se preparando para uma nova virada...\nUm bom começo é meio caminho andado. Entretanto, lembre-se sempre de que isso não é o fim.",
-        "es-ES": "A aquellos que buscan dar un nuevo giro…\nLo bien empezado está a medio hacer. Sin embargo, recuerda que este no es el final."
+        "es-ES": "A aquellos que buscan dar un nuevo giro...\nLo bien empezado está a medio hacer. Sin embargo, recuerda que este no es el final."
     },
     "8UbTAg": {
         "en-US": "Read everything written on the signboard.\nYou feel like you’ve been taken to another place.",
@@ -3467,7 +3467,7 @@
     "9UbTAg": {
         "en-US": "[Red Leopard Joe]\nYou’re not supposed to be here...\nGai must have told you something else...\nBut I’ll let you go for now.",
         "pt-BR": "[Leopardo Vermelho Joe]\nVocê não deveria estar aqui...\nGai deve ter lhe dito algo mais...\nMas vou deixá-lo ir.",
-        "es-ES": "[Leopardo rojo Joe]\nNo deberías estar aquí…\nGai debe haberte dicho algo más…\nPero te dejaré ir."
+        "es-ES": "[Leopardo rojo Joe]\nNo deberías estar aquí...\nGai debe haberte dicho algo más...\nPero te dejaré ir."
     },
     "9kbTAg": {
         "en-US": "Kagerou",
@@ -3490,7 +3490,7 @@
         "es-ES": "Así es, Joe."
     },
     "+kbTAg": {
-        "en-US": "[Red Leopard Joe]\nI’m here, and you don’t seem very surprised. Did you meet ^0237FDKuuga-gai^000000 first before coming here?",
+        "en-US": "[Red Leopard Joe]\nI’m here, and you don’t seem very surprised. Did you meet ^0237FDCougar^000000 first before coming here?",
         "pt-BR": "[Leopardo Vermelho Joe]\nVocê não está surpreso por eu estar aqui. Você encontrou o ^0237FDPuma^000000 antes de vir para cá?",
         "es-ES": "[Leopardo rojo Joe]\nNo te sorprende que esté aquí. ¿Te reuniste con ^0237FDChico puma^000000 antes de venir aquí?"
     },
@@ -3602,7 +3602,7 @@
     "EEfTAg": {
         "en-US": "[Red Leopard Joe]\nHmm... Did I expect too much? Let me explain.",
         "pt-BR": "[Leopardo Vermelho Joe]\nHmm... Acho que eu esperava demais? Deixe-me explicar.",
-        "es-ES": "[Leopardo rojo Joe]\nMmm… ¿Acaso te tenía muchas expectativas? Te lo explicaré."
+        "es-ES": "[Leopardo rojo Joe]\nMmm... ¿Acaso te tenía muchas expectativas? Te lo explicaré."
     },
     "EUfTAg": {
         "en-US": "[Red Leopard Joe]\nFirst, you need to melt the ore to use it for the weapon. The best way to obtain high-purity metal is to melt materials of the same type.",
@@ -3647,7 +3647,7 @@
     "GUfTAg": {
         "en-US": "[Red Leopard Joe]\nHmm... Interesting... A dagger shaped like a Kunai?",
         "pt-BR": "[Leopardo Vermelho Joe]\nHmm... Interessante... É uma adaga no formato de uma Kunai?",
-        "es-ES": "[Leopardo rojo Joe]\nMmm… Interesante… ¿Es una Daga con forma de Kunai?"
+        "es-ES": "[Leopardo rojo Joe]\nMmm... Interesante... ¿Es una Daga con forma de Kunai?"
     },
     "GkfTAg": {
         "en-US": "[Red Leopard Joe]\nVery creative. I can see room for improvement, but the weapon itself might become useful after smoothing it a little.",
@@ -3687,7 +3687,7 @@
     "IUfTAg": {
         "en-US": "[Red Leopard Joe]\nAh! Just in case, if you take the prototype to blacksmiths outside and ‘ruin it,’ a bunch of problems will happen—so don’t ‘ruin it’ like that.^000000",
         "pt-BR": "[Leopardo Vermelho Joe]\nAh... Mas, por via das dúvidas,\n^FF0000tenha cuidado para não causar problemas ao mostrar isso para as ferreiras fora daqui.^000000",
-        "es-ES": "[Leopardo rojo Joe]\nAh… Pero, por si acaso,\n^FF0000no se las muestres a los Herreros de otros lugares para no tener problemas.^000000"
+        "es-ES": "[Leopardo rojo Joe]\nAh... Pero, por si acaso,\n^FF0000no se las muestres a los Herreros de otros lugares para no tener problemas.^000000"
     },
     "IkfTAg": {
         "en-US": "[Red Leopard Joe]\nDid you achieve a satisfactory result?",
@@ -3707,7 +3707,7 @@
     "JUfTAg": {
         "en-US": "Actually... by mistake...",
         "pt-BR": "Na verdade...",
-        "es-ES": "En realidad…"
+        "es-ES": "En realidad..."
     },
     "JkfTAg": {
         "en-US": "[Red Leopard Joe]\nYou can’t easily get a satisfactory result, even if I warned you.",
@@ -3737,7 +3737,7 @@
     "K0fTAg": {
         "en-US": "[Red Leopard Joe]\nThis... I worried it might happen, but it really looks like you forgot it.",
         "pt-BR": "[Leopardo Vermelho Joe]\nOh não... Eu estava preocupado, mas você realmente perdeu o controle.",
-        "es-ES": "[Leopardo rojo Joe]\nAy, no… Estaba preocupado, pero de verdad la perdiste."
+        "es-ES": "[Leopardo rojo Joe]\nAy, no... Estaba preocupado, pero de verdad la perdiste."
     },
     "LEfTAg": {
         "en-US": "[Red Leopard Joe]\nAlright. Then start by making the prototype again.",
@@ -3782,7 +3782,7 @@
     "NEfTAg": {
         "en-US": "[Red Leopard Joe]\nHmm... Is this your limit?\nYou got so close to passing. I’ll ask again—are you satisfied with this?",
         "pt-BR": "[Leopardo Vermelho Joe]\nHmm... Esse é seu limite?\nVocê acabou de chegar tão perto de passar. Vou perguntar mais uma vez: você está satisfeito?",
-        "es-ES": "[Leopardo rojo Joe]\nMmm… ¿Este es tu límite?\nEstuviste muy cerquita de aprobar. Te lo preguntaré una vez más, ¿estás feliz con el resultado?"
+        "es-ES": "[Leopardo rojo Joe]\nMmm... ¿Este es tu límite?\nEstuviste muy cerquita de aprobar. Te lo preguntaré una vez más, ¿estás feliz con el resultado?"
     },
     "NUfTAg": {
         "en-US": "[Red Leopard Joe]\nYou’re still here. Why?",
@@ -3797,7 +3797,7 @@
     "N0fTAg": {
         "en-US": "[Red Leopard Joe]\nHmm... Just as I expected.\nBut I have a feeling you won’t stop here.",
         "pt-BR": "[Leopardo Vermelho Joe]\nHmm... Exatamente como eu esperava.\nMas tenho a sensação de que você não vai parar por aqui.",
-        "es-ES": "[Leopardo rojo Joe]\nMmm… Tal y como esperaba.\nPero tengo la sensación de que no te detendrás aquí."
+        "es-ES": "[Leopardo rojo Joe]\nMmm... Tal y como esperaba.\nPero tengo la sensación de que no te detendrás aquí."
     },
     "OEfTAg": {
         "en-US": "I’ll stop.",
@@ -4132,7 +4132,7 @@
     "ekfTAg": {
         "en-US": "Don’t have rough elunium...",
         "pt-BR": "Não possui minério de elunium...",
-        "es-ES": "No tienes Elunium en bruto…"
+        "es-ES": "No tienes Elunium en bruto..."
     },
     "e0fTAg": {
         "en-US": "Refining equipment",
@@ -4187,7 +4187,7 @@
     "hUfTAg": {
         "en-US": "[Red Leopard Joe]\nWait... this weapon doesn’t seem to be one that was directly crafted.",
         "pt-BR": "[Leopardo Vermelho Joe]\nEspere... essa arma não é uma arma personalizada.",
-        "es-ES": "[Leopardo rojo Joe]\nMomento… esta arma no es personalizada."
+        "es-ES": "[Leopardo rojo Joe]\nMomento... esta arma no es personalizada."
     },
     "hkfTAg": {
         "en-US": "[Red Leopard Joe]\nWhy don’t you refine it with those hot-headed blacksmiths over there?",
@@ -4262,7 +4262,7 @@
     "lEfTAg": {
         "en-US": "[Guide Gion]\nIt looks like you dealt with the target. Hmm...",
         "pt-BR": "[Guia Gion]\nParece que você já cuidou do alvo. Hmm...",
-        "es-ES": "[Guía Gion]\nParece que ya te ocupaste del objetivo. Mmm…"
+        "es-ES": "[Guía Gion]\nParece que ya te ocupaste del objetivo. Mmm..."
     },
     "lUfTAg": {
         "en-US": "[Guide Gion]\nBut I’m having a hard time talking with you. Could you get off that frog first?",
@@ -4325,17 +4325,17 @@
         "es-ES": "[Guía Gion]\nLo siento, casi me olvido de ustedes dos. ¿Tienen algo que compartir con {0}?"
     },
     "oUfTAg": {
-        "en-US": "[Kuuga-gai]\nHmm... it’s just... it’s suddenly...",
+        "en-US": "[Cougar]\nHmm... it’s just... it’s suddenly...",
         "pt-BR": "[Puma]\nHmm... Embaraçoso... falar tão de repente...",
-        "es-ES": "[Chico puma]\nMmm… Es vergonzoso… hablar de repente…"
+        "es-ES": "[Chico puma]\nMmm... Es vergonzoso... hablar de repente..."
     },
     "okfTAg": {
-        "en-US": "[Kuuga-gai]\n{0}, you’re a proud member of our clan. No matter where you are, don’t lower your head and...",
+        "en-US": "[Cougar]\n{0}, you’re a proud member of our clan. No matter where you are, don’t lower your head and...",
         "pt-BR": "[Puma]\n{0}, agora você é um orgulhoso membro de nossa família. Mantenha sua cabeça sempre erguida e...",
-        "es-ES": "[Chico puma]\nEs un orgullo decir que {0} ahora es miembro de nuestra familia. Siempre mantén la cabeza en alto y…"
+        "es-ES": "[Chico puma]\nEs un orgullo decir que {0} ahora es miembro de nuestra familia. Siempre mantén la cabeza en alto y..."
     },
     "o0fTAg": {
-        "en-US": "[Kuuga-gai]\n^777777(Gai’s voice fades.)^000000\nSorry for choking you when we first met.",
+        "en-US": "[Cougar]\n^777777(Gai’s voice fades.)^000000\nSorry for choking you when we first met.",
         "pt-BR": "[Puma]\n^777777(A voz de Gai se desvanece.) ^000000\nDesculpe-me por tê-lo estrangulado quando nos conhecemos.",
         "es-ES": "[Chico puma]\n^777777(La voz de Gai se apaga).^000000\nSiento haberte estrangulado cuando nos conocimos."
     },
@@ -4395,7 +4395,7 @@
         "es-ES": "[Guía Gion]\nY espero que las bendiciones de Kagerou, sol danzante, y Oboro, luz de luna brumosa, te acompañen en tu viaje."
     },
     "r0fTAg": {
-        "en-US": "[Kuuga-gai]\nFirst, congratulate your teammate for choosing a new path.",
+        "en-US": "[Cougar]\nFirst, congratulate your teammate for choosing a new path.",
         "pt-BR": "[Puma]\nPrimeiro, vamos parabenizar nosso amigo por seu novo caminho.",
         "es-ES": "[Chico puma]\nPrimero, felicitemos a quien le espera un nuevo camino."
     },
@@ -4767,12 +4767,12 @@
     "+UfTAg": {
         "en-US": "For weapons...",
         "pt-BR": "Arma...",
-        "es-ES": "Arma…"
+        "es-ES": "Arma..."
     },
     "+kfTAg": {
         "en-US": "For armors...",
         "pt-BR": "Armadura...",
-        "es-ES": "Armadura…"
+        "es-ES": "Armadura..."
     },
     "+0fTAg": {
         "en-US": "[Artisan Tene]\nYou want to attach an option to a weapon.\nThe cost for attaching an option to a weapon is ^E14A1E100,000 Zeny^000000 per one-time service.",
@@ -4797,7 +4797,7 @@
     "/0fTAg": {
         "en-US": "Later...",
         "pt-BR": "Mais tarde...",
-        "es-ES": "Más adelante…"
+        "es-ES": "Más adelante..."
     },
     "AEjTAg": {
         "en-US": "Mikatsuki",

@@ -574,6 +574,12 @@ OptionTbl_data = {
 		Tab = ETC,
 		Type = EXE,
 		TipBoxID = 193
+	},
+	[63] = {
+		ID = TT_SHOW_CARD_ILLUST_ONOFF,
+		Tab = ETC,
+		Type = ONOFF,
+		Default = true
 	}
 }
 local function MergeTables(dest, src)

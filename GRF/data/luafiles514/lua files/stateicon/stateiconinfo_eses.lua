@@ -7766,10 +7766,10 @@ StateIconList_string = {
 	},
 	[EFST_IDs.EFST_HOGOGONG] = {
 		descript = {
-			{"Hogogong"},
+			{"Mareo"},
 			{"%s"},
 			{
-				"Estado de Hogogong"
+				"Estás mareado."
 			}
 		}
 	},

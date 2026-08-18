@@ -3515,16 +3515,16 @@ SkillInfoList_string = {
 		SkillName = "Exorcismo de Almas"
 	},
 	[SKID.SOA_TALISMAN_OF_BLUE_DRAGON] = {
-		SkillName = "Talismán del Dragón Azul"
+		SkillName = "Talismán del Dragón"
 	},
 	[SKID.SOA_TALISMAN_OF_WHITE_TIGER] = {
-		SkillName = "Talismán del Tigre Blanco"
+		SkillName = "Talismán del Tigre"
 	},
 	[SKID.SOA_TALISMAN_OF_RED_PHOENIX] = {
-		SkillName = "Talismán del Fénix Rojo"
+		SkillName = "Talismán del Fénix"
 	},
 	[SKID.SOA_TALISMAN_OF_BLACK_TORTOISE] = {
-		SkillName = "Talismán de la Tortuga Negra"
+		SkillName = "Talismán de la Tortuga"
 	},
 	[SKID.SOA_TALISMAN_OF_FOUR_BEARING_GOD] = {
 		SkillName = "Talismán de las Divinidades"

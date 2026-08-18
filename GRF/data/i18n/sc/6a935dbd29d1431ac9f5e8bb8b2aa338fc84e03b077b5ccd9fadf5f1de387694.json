@@ -46,7 +46,7 @@
     },
     "CaolAw": {
         "en-US": "[Kiltin]\nTwo techniques have been newly developed..\nThe first is an improved form of Sonic Blow,\nand the second is a long-range attack technique called '^990099Venom Knife^000000'.\nAren't you curious what kind of techniques they are?",
-        "pt-BR": "[Kiltin]\nDuas técnicas foram desenvolvidas recentemente..\nA primeira é uma forma melhorada do Golpe Sônico,\ne a segunda é uma técnica de ataque de longo alcance chamada '^990099Faca Venenosa^000000'.\nVocê não está curioso sobre que tipo de técnicas são?",
+        "pt-BR": "[Kiltin]\nDuas técnicas foram desenvolvidas recentemente..\nA primeira é uma forma melhorada de Lâminas Destruidoras,\ne a segunda é uma técnica de ataque de longo alcance chamada '^990099Faca Envenenada^000000'.\nVocê não está curioso sobre que tipo de técnicas são?",
         "es-ES": "[Kiltin]\nSe han desarrollado dos técnicas recientemente...\nLa primera es una forma mejorada del Golpe Sónico,\ny la segunda es una técnica de ataque de largo alcance llamada '^990099Daga Venenosa^000000'.\n¿No tienes curiosidad sobre qué tipo de técnicas son?"
     },
     "CqolAw": {
@@ -56,12 +56,12 @@
     },
     "C6olAw": {
         "en-US": "^0000FFImproved Form of Sonic Blow^000000",
-        "pt-BR": "^0000FFForma Melhorada do Golpe Sônico^000000",
+        "pt-BR": "^0000FFForma Melhorada de Lâminas Destruidoras^000000",
         "es-ES": "^0000FFForma Mejorada del Golpe Sónico^000000"
     },
     "DKolAw": {
         "en-US": "^990099Venom Knife^000000",
-        "pt-BR": "^990099Faca Venenosa^000000",
+        "pt-BR": "^990099Faca Envenenada^000000",
         "es-ES": "^990099Daga Venenosa^000000"
     },
     "DaolAw": {
@@ -71,12 +71,12 @@
     },
     "DqolAw": {
         "en-US": "[Kiltin]\nAmong the techniques we prominently teach in our guild..\nthere is something called 'Sonic Blow'.",
-        "pt-BR": "[Kiltin]\nEntre as técnicas que ensinamos com destaque em nossa guilda..\nexiste algo chamado 'Golpe Sônico'.",
+        "pt-BR": "[Kiltin]\nEntre as técnicas que ensinamos com destaque em nossa guilda..\nexiste algo chamado 'Lâminas Destruidoras'.",
         "es-ES": "[Kiltin]\nEntre las técnicas que enseñamos prominentemente en nuestro gremio...\nexiste algo llamado 'Golpe Sónico'."
     },
     "D6olAw": {
         "en-US": "[Kiltin]\nAs you know, the Sonic Blow technique\nattacks the opponent with 8 consecutive hits in an instant.\nBut.. because it requires high concentration and dexterity,\nit's very difficult to hit agile enemies.",
-        "pt-BR": "[Kiltin]\nComo você sabe, a técnica Golpe Sônico\nataca o oponente com 8 golpes consecutivos em um instante.\nMas.. porque requer alta concentração e destreza,\né muito difícil acertar inimigos ágeis.",
+        "pt-BR": "[Kiltin]\nComo você sabe, a técnica Lâminas Destruidoras\nataca o oponente com 8 golpes consecutivos em um instante.\nMas.. porque requer alta concentração e destreza,\né muito difícil acertar inimigos ágeis.",
         "es-ES": "[Kiltin]\nComo sabes, la técnica Golpe Sónico\nataca al oponente con 8 golpes consecutivos en un instante.\nPero... debido a que requiere alta concentración y destreza,\nes muy difícil golpear a enemigos ágiles."
     },
     "EKolAw": {
@@ -86,32 +86,32 @@
     },
     "EaolAw": {
         "en-US": "[Kiltin]\nThe solution is a skill called ^0000FFSonic Acceleration^000000,\ndeveloped by the Guild Master himself.\n^0000FFSonic Acceleration^000000..\nis about imbuing your body with sharp eyes that allow you to better grasp\nthe moving attack motions and the enemy's weaknesses and openings when using Sonic Blow.",
-        "pt-BR": "[Kiltin]\nA solução é uma habilidade chamada ^0000FFAceleração Sônica^000000,\ndesenvolvida pelo próprio Mestre da Guilda.\n{Aceleração Sônica^000000..\ntrata-se de imbuir seu corpo com olhos afiados que permitem compreender melhor\nos movimentos de ataque em andamento e as fraquezas e aberturas do inimigo ao usar o Golpe Sônico.",
+        "pt-BR": "[Kiltin]\nA solução é uma habilidade chamada ^0000FFLâminas Aceleradas^000000,\ndesenvolvida pelo próprio Mestre da Guilda.\n{Lâminas Aceleradas^000000..\ntrata-se de imbuir seu corpo com olhos afiados que permitem compreender melhor\nos movimentos de ataque em andamento e as fraquezas e aberturas do inimigo ao usar o golpe Lâminas Destruidoras.",
         "es-ES": "[Kiltin]\nLa solución es una habilidad llamada ^0000FFAceleración Sónica^000000,\ndesarrollada por el mismo Maestro del Gremio.\n{Aceleración Sónica^000000...\nse trata de imbuir tu cuerpo con ojos agudos que te permiten comprender mejor\nlos movimientos de ataque en curso y las debilidades y aperturas del enemigo al usar Golpe Sónico."
     },
     "EqolAw": {
         "en-US": "[Kiltin]\nFirst.\n^0000FFSonic Acceleration^000000 is a technique that, when using the existing Sonic Blow,\nallows you to identify faster and more accurate critical hit locations.",
-        "pt-BR": "[Kiltin]\nPrimeiro.\n{Aceleração Sônica^000000 é uma técnica que, ao usar o Golpe Sônico existente,\npermite identificar locais de acerto crítico mais rápidos e precisos.",
+        "pt-BR": "[Kiltin]\nPrimeiro.\n{Lâminas Aceleradas^000000 é uma técnica que, ao usar Lâminas Destruidoras,\npermite identificar locais de acerto crítico mais rápidos e precisos.",
         "es-ES": "[Kiltin]\nPrimero.\n{Aceleración Sónica^000000 es una técnica que, al usar el Golpe Sónico existente,\nte permite identificar ubicaciones de golpe crítico más rápidas y precisas."
     },
     "E6olAw": {
         "en-US": "[Kiltin]\nSecond.\n^0000FFSonic Acceleration^000000 is not a technique used on enemies,\nbut rather a technique that prepares your own body\ninto the optimal condition for using the Sonic Blow skill.",
-        "pt-BR": "[Kiltin]\nSegundo.\n{Aceleração Sônica^000000 não é uma técnica usada em inimigos,\nmas sim uma técnica que prepara seu próprio corpo\nna condição ideal para usar a habilidade Golpe Sônico.",
+        "pt-BR": "[Kiltin]\nSegundo.\n{Lâminas Aceleradas^000000 não é uma técnica usada em inimigos,\nmas sim uma técnica que prepara seu próprio corpo\nna condição ideal para usar a habilidade Lâminas Destruidoras.",
         "es-ES": "[Kiltin]\nSegundo.\n{Aceleración Sónica^000000 no es una técnica usada en enemigos,\nsino una técnica que prepara tu propio cuerpo\nen la condición óptima para usar la habilidad Golpe Sónico."
     },
     "FKolAw": {
         "en-US": "[Kiltin]\nAfter learning ^0000FFSonic Acceleration^000000,\nthe effect when using Sonic Blow will be doubled..",
-        "pt-BR": "[Kiltin]\nDepois de aprender ^0000FFAceleração Sônica^000000,\no efeito ao usar o Golpe Sônico será duplicado..",
+        "pt-BR": "[Kiltin]\nDepois de aprender ^0000FFLâminas Aceleradas^000000,\no efeito ao usar Lâminas Destruidoras será duplicado..",
         "es-ES": "[Kiltin]\nDespués de aprender ^0000FFAceleración Sónica^000000,\nel efecto al usar Golpe Sónico se duplicará..."
     },
     "FaolAw": {
         "en-US": "[Kiltin]\nIf you want to receive the teaching,\nafter learning ^990099Venom Knife^000000, go talk to\nthe beautiful Assassin Cross?.. 'Ismil' over there.",
-        "pt-BR": "[Kiltin]\nSe você quiser receber o ensinamento,\ndepois de aprender ^990099Faca Venenosa^000000, vá falar com\na bela Algoz?.. 'Ismil' ali.",
+        "pt-BR": "[Kiltin]\nSe você quiser receber o ensinamento,\ndepois de aprender ^990099Faca Envenenada^000000, vá falar com\na bela Algoz?.. 'Ismil' ali.",
         "es-ES": "[Kiltin]\nSi quieres recibir la enseñanza,\ndespués de aprender ^990099Daga Venenosa^000000, ve y habla con\nla hermosa Asesina... 'Ismil' de allí."
     },
     "FqolAw": {
         "en-US": "[Kiltin]\nAlright. So about ^990099Venom Knife^000000.\nIt was developed as a skill that can somewhat compensate for\nthe long-range attack weakness of us Assassins.",
-        "pt-BR": "[Kiltin]\nMuito bem. Então sobre a ^990099Faca Venenosa^000000.\nEla foi desenvolvida como uma habilidade que pode compensar um pouco\na fraqueza de ataque de longo alcance de nós, Assassinos.",
+        "pt-BR": "[Kiltin]\nMuito bem. Então sobre a ^990099Faca Envenenada^000000.\nEla foi desenvolvida como uma habilidade que pode compensar um pouco\na fraqueza de ataque de longo alcance de nós, Assassinos.",
         "es-ES": "[Kiltin]\nMuy bien. Entonces, sobre la ^990099Daga Venenosa^000000.\nFue desarrollada como una habilidad que puede compensar un poco\nla debilidad de ataque de largo alcance de nosotros, los Asesinos."
     },
     "F6olAw": {
@@ -131,7 +131,7 @@
     },
     "GqolAw": {
         "en-US": "[Kiltin]\nNow.. which skill do you want to learn?\nI can only teach you '^990099Venom Knife^000000'.\nThis technique just requires knowing how to ^666666infuse Envenom^666666 into a ^666666knife^666666,\nso I can teach you right now...\nHow about it?",
-        "pt-BR": "[Kiltin]\nAgora.. qual habilidade você quer aprender?\nEu só posso lhe ensinar '^990099Faca Venenosa^000000'.\nEsta técnica requer apenas saber como ^666666infundir Envenenar^666666 em uma ^666666faca^666666,\nentão posso ensiná-lo agora mesmo...\nQue tal?",
+        "pt-BR": "[Kiltin]\nAgora.. qual habilidade você quer aprender?\nEu só posso lhe ensinar '^990099Faca Envenenada^000000'.\nEsta técnica requer apenas saber como ^666666infundir Envenenar^666666 em uma ^666666faca^666666,\nentão posso ensiná-lo agora mesmo...\nQue tal?",
         "es-ES": "[Kiltin]\nAhora... ¿qué habilidad quieres aprender?\nSolo puedo enseñarte '^990099Daga Venenosa^000000'.\nEsta técnica solo requiere saber cómo ^666666infundir Envenenar^666666 en una ^666666daga^666666,\nasí que puedo enseñarte ahora mismo...\n¿Qué tal?"
     },
     "G6olAw": {
@@ -146,7 +146,7 @@
     },
     "HaolAw": {
         "en-US": "[Kiltin]\nExcellent!\nListen carefully, I'll teach you.\nFirst, before using the Venom Knife skill, you must be holding a poison knife.\nThen..",
-        "pt-BR": "[Kiltin]\nExcelente!\nOuça com atenção, eu vou ensiná-lo.\nPrimeiro, antes de usar a habilidade Faca Venenosa, você deve estar segurando uma faca envenenada.\nEntão..",
+        "pt-BR": "[Kiltin]\nExcelente!\nOuça com atenção, eu vou ensiná-lo.\nPrimeiro, antes de usar a habilidade Faca Envenenada, você deve estar segurando uma faca envenenada.\nEntão..",
         "es-ES": "[Kiltin]\n¡Excelente!\nEscucha con atención, te enseñaré.\nPrimero, antes de usar la habilidad Daga Venenosa, debes estar sosteniendo una daga envenenada.\nEntonces..."
     },
     "HqolAw": {
@@ -176,7 +176,7 @@
     },
     "I6olAw": {
         "en-US": "[Kiltin]\nHmm.. is that so?\nThen, do I have anything more to say?\nShould I explain ^990099Venom Knife^000000 again?\nWhen I teach you, you should learn.\nHuh?",
-        "pt-BR": "[Kiltin]\nHmm.. é mesmo?\nEntão, tenho mais algo a dizer?\nDevo explicar ^990099Faca Venenosa^000000 novamente?\nQuando eu ensino, você deve aprender.\nHein?",
+        "pt-BR": "[Kiltin]\nHmm.. é mesmo?\nEntão, tenho mais algo a dizer?\nDevo explicar ^990099Faca Envenenada^000000 novamente?\nQuando eu ensino, você deve aprender.\nHein?",
         "es-ES": "[Kiltin]\nHmm... ¿es así?\nEntonces, ¿tengo algo más que decir?\n¿Debería explicar ^990099Daga Venenosa^000000 de nuevo?\nCuando enseño, debes aprender.\n¿Eh?"
     },
     "JKolAw": {
@@ -186,7 +186,7 @@
     },
     "JaolAw": {
         "en-US": "[Kiltin]\nHmm.. I think I've seen you before..\nHmm.. yes, you definitely learned ^990099Venom Knife^000000 from me..\nBut what's the matter..",
-        "pt-BR": "[Kiltin]\nHmm.. Acho que já vi você antes..\nHmm.. sim, você definitivamente aprendeu ^990099Faca Venenosa^000000 comigo..\nMas qual é o problema..",
+        "pt-BR": "[Kiltin]\nHmm.. Acho que já vi você antes..\nHmm.. sim, você definitivamente aprendeu ^990099Faca Envenenada^000000 comigo..\nMas qual é o problema..",
         "es-ES": "[Kiltin]\nHmm... Creo que te he visto antes...\nHmm... sí, definitivamente aprendiste ^990099Daga Venenosa^000000 de mí...\nPero, ¿cuál es el problema...?"
     },
     "JqolAw": {
@@ -196,7 +196,7 @@
     },
     "J6olAw": {
         "en-US": "[Kiltin]\nFirst, before using the ^990099Venom Knife^000000 skill, you must be holding a knife.\nThen..",
-        "pt-BR": "[Kiltin]\nPrimeiro, antes de usar a habilidade ^990099Faca Venenosa^000000, você deve estar segurando uma faca.\nEntão..",
+        "pt-BR": "[Kiltin]\nPrimeiro, antes de usar a habilidade ^990099Faca Envenenada^000000, você deve estar segurando uma faca.\nEntão..",
         "es-ES": "[Kiltin]\nPrimero, antes de usar la habilidad ^990099Daga Venenosa^000000, debes estar sosteniendo una daga.\nEntonces..."
     },
     "KKolAw": {
@@ -231,7 +231,7 @@
     },
     "LqolAw": {
         "en-US": "[Kiltin]\nHow is it, is ^990099Venom Knife^000000 useful?\nBe careful when using it.\nBecause you can't use it without a poison knife..\nAnd I hope you don't throw it carelessly and create unnecessary victims.",
-        "pt-BR": "[Kiltin]\nComo está, a ^990099Faca Venenosa^000000 é útil?\nTenha cuidado ao usá-la.\nPorque você não pode usá-la sem uma faca envenenada..\nE espero que não a jogue descuidadamente e crie vítimas desnecessárias.",
+        "pt-BR": "[Kiltin]\nComo está, a ^990099Faca Envenenada^000000 é útil?\nTenha cuidado ao usá-la.\nPorque você não pode usá-la sem uma faca envenenada..\nE espero que não a jogue descuidadamente e crie vítimas desnecessárias.",
         "es-ES": "[Kiltin]\n¿Cómo está? ¿Es útil la ^990099Daga Venenosa^000000?\nTen cuidado al usarla.\nPorque no puedes usarla sin una daga envenenada...\nY espero que no la lances descuidadamente y crees víctimas innecesarias."
     },
     "L6olAw": {
@@ -266,7 +266,7 @@
     },
     "NaolAw": {
         "en-US": "[Ismil]\nNow then..\nMr. {0}?\nI trust you've heard the basic explanation of ^0000FFSonic Acceleration^000000 from 'Kiltin'.",
-        "pt-BR": "[Ismil]\nAgora então..\nSr. {0}?\nAcredito que você tenha ouvido a explicação básica sobre ^0000FFAceleração Sônica^000000 de 'Kiltin'.",
+        "pt-BR": "[Ismil]\nAgora então..\nSr. {0}?\nAcredito que você tenha ouvido a explicação básica sobre ^0000FFLâminas Aceleradas^000000 de 'Kiltin'.",
         "es-ES": "[Ismil]\nAhora entonces...\n¿Sr. {0}?\nConfío en que hayas escuchado la explicación básica sobre ^0000FFAceleración Sónica^000000 de 'Kiltin'."
     },
     "NqolAw": {
@@ -286,12 +286,12 @@
     },
     "OaolAw": {
         "en-US": "[Ismil]\nAlright....\nLet me explain again..\n^0000FFSonic Acceleration^000000 can be said to be a ^FF0000support skill that makes the Sonic Blow skill stronger^000000...",
-        "pt-BR": "[Ismil]\nMuito bem....\nDeixe-me explicar novamente..\n{Aceleração Sônica^000000 pode ser considerada uma ^FF0000habilidade de suporte que torna a habilidade Golpe Sônico mais forte^000000...",
+        "pt-BR": "[Ismil]\nMuito bem....\nDeixe-me explicar novamente..\n{Lâminas Aceleradas^000000 pode ser considerada uma ^FF0000habilidade de suporte que torna a habilidade Lâminas Destruidoras mais forte^000000...",
         "es-ES": "[Ismil]\nMuy bien....\nDéjame explicarte de nuevo...\n{Aceleración Sónica^000000 puede considerarse una ^FF0000habilidad de apoyo que hace que la habilidad Golpe Sónico sea más fuerte^000000..."
     },
     "OqolAw": {
         "en-US": "[Ismil]\nIf you've used the existing Sonic Blow, you'll know..\nLanding a critical hit on an enemy is quite difficult.\nMoreover, the fact that you have to land 8 hits quickly\nmade the accuracy rate quite low.",
-        "pt-BR": "[Ismil]\nSe você já usou o Golpe Sônico existente, saberá..\nAcertar um golpe crítico em um inimigo é bastante difícil.\nAlém disso, o fato de ter que acertar 8 golpes rapidamente\ntornava a taxa de precisão bastante baixa.",
+        "pt-BR": "[Ismil]\nSe você já usou Lâminas Destruidoras, saberá..\nAcertar um golpe crítico em um inimigo é bastante difícil.\nAlém disso, o fato de ter que acertar 8 golpes rapidamente\ntornava a taxa de precisão bastante baixa.",
         "es-ES": "[Ismil]\nSi has usado el Golpe Sónico existente, sabrás...\nAcertar un golpe crítico a un enemigo es bastante difícil.\nAdemás, el hecho de tener que acertar 8 golpes rápidamente\nhacía que la tasa de precisión fuera bastante baja."
     },
     "O6olAw": {
@@ -306,7 +306,7 @@
     },
     "PaolAw": {
         "en-US": "[Ismil]\nTo compensate for that weakness... now.\nBy learning ^0000FFSonic Acceleration^000000, a new attack method for Sonic Blow,\nyou will be able to inflict fatal damage on your opponents\nwith a much stronger and more precise Sonic Blow.",
-        "pt-BR": "[Ismil]\nPara compensar essa fraqueza... agora.\nAo aprender ^0000FFAceleração Sônica^000000, um novo método de ataque para o Golpe Sônico,\nvocê será capaz de infligir dano fatal em seus oponentes\ncom um Golpe Sônico muito mais forte e preciso.",
+        "pt-BR": "[Ismil]\nPara compensar essa fraqueza... agora.\nAo aprender ^0000FFLâminas Aceleradas^000000, um novo método de ataque para Lâminas Destruidoras,\nvocê será capaz de infligir dano fatal em seus oponentes\ncom Lâminas Destruidoras muito mais fortes e precisas.",
         "es-ES": "[Ismil]\nPara compensar esa debilidad... ahora.\nAl aprender ^0000FFAceleración Sónica^000000, un nuevo método de ataque para el Golpe Sónico,\nserás capaz de infligir daño fatal a tus oponentes\ncon un Golpe Sónico mucho más fuerte y preciso."
     },
     "PqolAw": {
@@ -321,7 +321,7 @@
     },
     "QKolAw": {
         "en-US": "[Ismil]\nThen, I will proceed with your completion process for ^0000FFSonic Acceleration^000000.",
-        "pt-BR": "[Ismil]\nEntão, prosseguirei com o processo de conclusão da sua ^0000FFAceleração Sônica^000000.",
+        "pt-BR": "[Ismil]\nEntão, prosseguirei com o processo de conclusão de ^0000FFLâminas Aceleradas^000000.",
         "es-ES": "[Ismil]\nEntonces, procederé con tu proceso de finalización de ^0000FFAceleración Sónica^000000."
     },
     "QaolAw": {
@@ -341,7 +341,7 @@
     },
     "RKolAw": {
         "en-US": "[Ismil]\nWait.....\nYou haven't even learned 'Sonic Blow', the main skill of Assassins yet!\nYou can't learn Acceleration without Sonic Blow..",
-        "pt-BR": "[Ismil]\nEspere.....\nVocê nem aprendeu o 'Golpe Sônico', a principal habilidade dos Assassinos ainda!\nVocê não pode aprender Aceleração sem o Golpe Sônico..",
+        "pt-BR": "[Ismil]\nEspere.....\nVocê nem aprendeu 'Lâminas Destruidoras', a principal habilidade dos Assassinos ainda!\nVocê não pode aprender Aceleração sem o Lâminas Destruidoras..",
         "es-ES": "[Ismil]\nEspera.....\n¡Ni siquiera has aprendido 'Golpe Sónico', la principal habilidad de los Asesinos todavía!\nNo puedes aprender Aceleración sin Golpe Sónico..."
     },
     "RaolAw": {
@@ -381,7 +381,7 @@
     },
     "TKolAw": {
         "en-US": "[Ismil]\nI'll be watching to see if you can do this as an Assassin.\nI'll decide whether to teach you ^0000FFSonic Acceleration^000000 after that.\nOo hoo~ Please hurry.",
-        "pt-BR": "[Ismil]\nEstarei observando para ver se você consegue fazer isso como um Assassino.\nDecidirei se vou lhe ensinar ^0000FFAceleração Sônica^000000 depois disso.\nOo hoo~ Por favor, apresse-se.",
+        "pt-BR": "[Ismil]\nEstarei observando para ver se você consegue fazer isso como um Assassino.\nDecidirei se vou lhe ensinar ^0000FFLâminas Aceleradas^000000 depois disso.\nOo hoo~ Por favor, apresse-se.",
         "es-ES": "[Ismil]\nEstaré observando para ver si puedes hacer esto como un Asesino.\nDecidiré si enseñarte ^0000FFAceleración Sónica^000000 después de eso.\nOo joo~ Por favor, date prisa."
     },
     "TaolAw": {
@@ -416,7 +416,7 @@
     },
     "U6olAw": {
         "en-US": "[Ismil]\nActually, there was no such task handed down from the guild.\nI just wanted to see your ability.\nYou've already shown it to me, so I don't need the treasure.\nThen, as promised, I'll teach you ^0000FFSonic Acceleration^000000 right now.",
-        "pt-BR": "[Ismil]\nNa verdade, não havia tal tarefa transmitida pela guilda.\nEu só queria ver sua habilidade.\nVocê já a mostrou para mim, então não preciso do tesouro.\nEntão, conforme prometido, vou lhe ensinar ^0000FFAceleração Sônica^000000 agora mesmo.",
+        "pt-BR": "[Ismil]\nNa verdade, não havia tal tarefa transmitida pela guilda.\nEu só queria ver sua habilidade.\nVocê já a mostrou para mim, então não preciso do tesouro.\nEntão, conforme prometido, vou lhe ensinar ^0000FFLâminas Aceleradas^000000 agora mesmo.",
         "es-ES": "[Ismil]\nEn realidad, no existía tal tarea transmitida por el gremio.\nSolo quería ver tu habilidad.\nYa me la has mostrado, así que no necesito el tesoro.\nEntonces, como prometí, te enseñaré ^0000FFAceleración Sónica^000000 ahora mismo."
     },
     "VKolAw": {
@@ -431,7 +431,7 @@
     },
     "VqolAw": {
         "en-US": "[Ismil]\nFirst, before using Sonic Blow,\n. . . . . . . . . . . . . .\n. . . . . . . .place your feet like this. . . . .\n. . . . . .and then like that. . . . . . .",
-        "pt-BR": "[Ismil]\nPrimeiro, antes de usar o Golpe Sônico,\n. . . . . . . . . . . . . .\n. . . . . . . .coloque os pés assim. . . . .\n. . . . . .e então assim. . . . . . .",
+        "pt-BR": "[Ismil]\nPrimeiro, antes de usar Lâminas Destruidoras,\n. . . . . . . . . . . . . .\n. . . . . . . .coloque os pés assim. . . . .\n. . . . . .e então assim. . . . . . .",
         "es-ES": "[Ismil]\nPrimero, antes de usar Golpe Sónico,\n. . . . . . . . . . . . . .\n. . . . . . . .coloca los pies así. . . . .\n. . . . . .y luego así. . . . . . ."
     },
     "V6olAw": {
@@ -496,7 +496,7 @@
     },
     "Y6olAw": {
         "en-US": "[Ismil]\nFirst, before using Sonic Blow,\n. . . . . . . . . . . . . . . . . .\n. . . . . . . .place your feet like this. . . . .\n. . . . . . . .and then like that. . . . . . .",
-        "pt-BR": "[Ismil]\nPrimeiro, antes de usar o Golpe Sônico,\n. . . . . . . . . . . . . . . . . .\n. . . . . . . .coloque os pés assim. . . . .\n. . . . . . . .e então assim. . . . . . .",
+        "pt-BR": "[Ismil]\nPrimeiro, antes de usar Lâminas Destruidoras,\n. . . . . . . . . . . . . . . . . .\n. . . . . . . .coloque os pés assim. . . . .\n. . . . . . . .e então assim. . . . . . .",
         "es-ES": "[Ismil]\nPrimero, antes de usar Golpe Sónico,\n. . . . . . . . . . . . . . . . . .\n. . . . . . . .coloca los pies así. . . . .\n. . . . . . . .y luego así. . . . . . ."
     },
     "ZKolAw": {
@@ -506,17 +506,17 @@
     },
     "ZaolAw": {
         "en-US": "[Ismil]\nAh...\nRe-education for ^0000FFSonic Acceleration^000000\n. . . . . . . . . . . . . .\nAlright.\nThat can happen.",
-        "pt-BR": "[Ismil]\nAh...\nReeducação para ^0000FFAceleração Sônica^000000\n. . . . . . . . . . . . . .\nMuito bem.\nIsso pode acontecer.",
+        "pt-BR": "[Ismil]\nAh...\nReeducação para ^0000FFLâminas Aceleradas^000000\n. . . . . . . . . . . . . .\nMuito bem.\nIsso pode acontecer.",
         "es-ES": "[Ismil]\nAh...\nReeducación para ^0000FFAceleración Sónica^000000\n. . . . . . . . . . . . . .\nMuy bien.\nEso puede pasar."
     },
     "ZqolAw": {
         "en-US": "[Ismil]\nBut....!! Wait.....\nYou haven't even learned 'Sonic Blow', the main skill of Assassins yet!\nYou can't learn Acceleration without Sonic Blow..",
-        "pt-BR": "[Ismil]\nMas....!! Espere.....\nVocê nem aprendeu o 'Golpe Sônico', a principal habilidade dos Assassinos ainda!\nVocê não pode aprender Aceleração sem o Golpe Sônico..",
+        "pt-BR": "[Ismil]\nMas....!! Espere.....\nVocê nem aprendeu 'Lâminas Destruidoras', a principal habilidade dos Assassinos ainda!\nVocê não pode aprender Aceleração sem Lâminas Destruidoras..",
         "es-ES": "[Ismil]\n¡¡Pero....!! Espera.....\n¡Ni siquiera has aprendido 'Golpe Sónico', la principal habilidad de los Asesinos todavía!\nNo puedes aprender Aceleración sin Golpe Sónico..."
     },
     "Z6olAw": {
         "en-US": "[Ismil]\nFirst, before using Sonic Blow,\n. . . . . . . . . . . . . . . . . . .\n. . . . . . . .place your feet like this. . . . . .\n. . . . . . . .and then like that. . . . . . . .",
-        "pt-BR": "[Ismil]\nPrimeiro, antes de usar o Golpe Sônico,\n. . . . . . . . . . . . . . . . . . .\n. . . . . . . .coloque os pés assim. . . . . .\n. . . . . . . .e então assim. . . . . . . .",
+        "pt-BR": "[Ismil]\nPrimeiro, antes de usar Lâminas Destruidoras,\n. . . . . . . . . . . . . . . . . . .\n. . . . . . . .coloque os pés assim. . . . . .\n. . . . . . . .e então assim. . . . . . . .",
         "es-ES": "[Ismil]\nPrimero, antes de usar Golpe Sónico,\n. . . . . . . . . . . . . . . . . . .\n. . . . . . . .coloca los pies así. . . . . .\n. . . . . . . .y luego así. . . . . . . ."
     },
     "aKolAw": {
@@ -536,7 +536,7 @@
     },
     "a6olAw": {
         "en-US": "[Ismil]\n^0000FFSonic Acceleration^000000...\nHave you tried using it?\nSo that the time you spent with me wasn't wasted..",
-        "pt-BR": "[Ismil]\n{Aceleração Sônica^000000...\nVocê já tentou usá-la?\nPara que o tempo que passou comigo não tenha sido desperdiçado..",
+        "pt-BR": "[Ismil]\n{Lâminas Aceleradas^000000...\nVocê já tentou usá-las?\nPara que o tempo que passou comigo não tenha sido desperdiçado..",
         "es-ES": "[Ismil]\n{Aceleración Sónica^000000...\n¿Has intentado usarla?\nPara que el tiempo que pasaste conmigo no haya sido en vano..."
     },
     "bKolAw": {

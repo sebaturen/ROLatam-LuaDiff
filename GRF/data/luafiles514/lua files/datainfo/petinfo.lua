@@ -137,7 +137,8 @@ PetNameTable = {
 	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "KNIGHT_OF_ABYSS2",
 	[jobtbl.JT_EDDGA3] = "EDDGA3",
 	[jobtbl.JT_C_TOWER_MANAGER2] = "C_Tower_Manager",
-	[jobtbl.JT_SKEGGIOLD] = "SKEGGIOLD"
+	[jobtbl.JT_SKEGGIOLD] = "SKEGGIOLD",
+	[jobtbl.JT_GIANT_HONET2] = "GIANT_HONET"
 }
 PetIllustNameTable = {
 	[jobtbl.JT_BAPHOMET_] = "펫_바포메트.bmp",
@@ -282,7 +283,8 @@ PetIllustNameTable = {
 	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "KNIGHT_OF_ABYSS2",
 	[jobtbl.JT_EDDGA3] = "pet_eddga.bmp",
 	[jobtbl.JT_C_TOWER_MANAGER2] = "Pet_C_Tower_Manager.bmp",
-	[jobtbl.JT_SKEGGIOLD] = "Pet_SKEGGIOLD.bmp"
+	[jobtbl.JT_SKEGGIOLD] = "Pet_SKEGGIOLD.bmp",
+	[jobtbl.JT_GIANT_HONET2] = "Pet_GIANT_HONET.bmp"
 }
 PetIllustNameTable_Eng = {
 	[jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
@@ -426,7 +428,8 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "pet_knight_of_abyss.bmp",
 	[jobtbl.JT_EDDGA3] = "pet_eddga.bmp",
 	[jobtbl.JT_C_TOWER_MANAGER2] = "Pet_C_Tower_Manager.bmp",
-	[jobtbl.JT_SKEGGIOLD] = "Pet_SKEGGIOLD.bmp"
+	[jobtbl.JT_SKEGGIOLD] = "Pet_SKEGGIOLD.bmp",
+	[jobtbl.JT_GIANT_HONET2] = "Pet_GIANT_HONET.bmp"
 }
 PetAccIDs = {
 	ACC_FIRST = 10000,
@@ -715,7 +718,8 @@ PetStringTable = {
 	[jobtbl.JT_KNIGHT_OF_ABYSS2] = "심연의 기사",
 	[jobtbl.JT_EDDGA3] = "에드가",
 	[jobtbl.JT_C_TOWER_MANAGER2] = "시계탑 관리자",
-	[jobtbl.JT_SKEGGIOLD] = "스케골트"
+	[jobtbl.JT_SKEGGIOLD] = "스케골트",
+	[jobtbl.JT_GIANT_HONET2] = "자이언트 호넷"
 }
 PetEggItemID_PetJobID = {
 	[9001] = jobtbl.JT_PORING,
@@ -858,7 +862,8 @@ PetEggItemID_PetJobID = {
 	[9132] = jobtbl.JT_KNIGHT_OF_ABYSS2,
 	[9142] = jobtbl.JT_EDDGA3,
 	[9169] = jobtbl.JT_C_TOWER_MANAGER2,
-	[9187] = jobtbl.JT_SKEGGIOLD
+	[9187] = jobtbl.JT_SKEGGIOLD,
+	[9192] = jobtbl.JT_GIANT_HONET2
 }
 PetFoodTable = {
 	[jobtbl.JT_PORING] = 531,
@@ -1003,5 +1008,6 @@ PetFoodTable = {
 	[jobtbl.JT_KNIGHT_OF_ABYSS2] = 537,
 	[jobtbl.JT_EDDGA3] = 25377,
 	[jobtbl.JT_SKEGGIOLD] = 6105,
-	[jobtbl.JT_C_TOWER_MANAGER2] = 537
+	[jobtbl.JT_C_TOWER_MANAGER2] = 537,
+	[jobtbl.JT_GIANT_HONET2] = 537
 }

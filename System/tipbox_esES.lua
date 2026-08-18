@@ -6329,5 +6329,92 @@ tbl_string = {
 				[10] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
 			}
 		}
+	},
+	[5001] = {
+		Title = "MD Arena nocturna de Geffen(210)#ArenaNocturnaGeffenTorneoRastroDelHéroeMagia",
+		Page = {
+			[1] = {
+				[1] = "Hay informes de que existe un lugar donde los luchadores que destacaron en el Torneo Mágico se quitan las máscaras y participan en peleas campales. Quizá si preguntas al Hombre de aspecto feroz, puedas obtener información adecuada.",
+				[2] = "",
+				[3] = "» Estructura de la mazmorra",
+				[4] = "§ Puede repetirse una vez cada 3 días",
+				[5] = "§ Tiempo límite: 60 minutos",
+				[6] = "(aunque cada ronda tiene un tiempo límite de 1 minuto)",
+				[7] = "§ Nivel 210 o superior",
+				[8] = "",
+				[9] = "Punto inicial",
+				[10] = "<NAVI>[Hombre de aspecto feroz]<INFO>geffen_in,78,62,0,101,0</INFO></NAVI>",
+				[11] = "",
+				[12] = "Ubicación de acceso a la mazmorra",
+				[13] = "<NAVI>[Portal abandonado]<INFO>dali02,80,61,0,101,0</INFO></NAVI>",
+				[14] = "",
+				[15] = "Lugar de intercambio de equipo",
+				[16] = "<NAVI>[Máquina expendedora abandonada]<INFO>dali02,83,67,0,101,0</INFO></NAVI>",
+				[17] = "",
+				[18] = "<TIPBOX>»Volver a la página anterior<INFO>7129</INFO></TIPBOX>",
+				[19] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6095] = {
+		Title = "Lugar del accidente de la aeronave#Aeronave#Lugar del accidente#Memorial#Historia paralela#Rastros de los héroes#",
+		Page = {
+			[1] = {
+				[1] = "¡Historia paralela de Rastros de los Héroes! Lugar del accidente de la aeronave",
+				[2] = "Un Laphine descubrió una Grieta Dimensional que conduce a las montañas de Mjolnir, donde se estrelló la aeronave. Explora la cavidad descubierta en el lugar del accidente.",
+				[3] = "<NAVI>[Grieta dimensional]<INFO>dali02,137,86,0,101,0</INFO></NAVI>",
+				[4] = "",
+				[5] = "» Requisitos de la misión",
+				[6] = "^663399§Nivel 200^000000",
+				[7] = "",
+				[8] = "<TIPBOX>»Ver recompensas del lugar del accidente de la aeronave<INFO>6096</INFO></TIPBOX>",
+				[9] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
+	},
+	[6096] = {
+		Title = "Recompensas del lugar del accidente de la aeronave#Aeronave#Lugar del accidente#Memorial#Historia paralela#Rastros de los héroes#Recompensas#",
+		Page = {
+			[1] = {
+				[1] = "Las <ITEM>[Piedras imbuidas de poder mágico]<INFO>1000363</INFO></ITEM> obtenidas en el lugar del accidente de la aeronave pueden intercambiarse por diversas recompensas.",
+				[2] = "» Elixires y dispositivos de almacenamiento",
+				[3] = "<ITEM>[Elixir de crecimiento purificado]<INFO>100460</INFO></ITEM>",
+				[4] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 5 unidades",
+				[5] = "",
+				[6] = "<ITEM>[Dispositivo especial de almacenamiento morado]<INFO>100475</INFO></ITEM>",
+				[7] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[8] = "§ <ITEM>[Elixir de crecimiento purificado]<INFO>100460</INFO></ITEM> 10 unidades",
+				[9] = "",
+				[10] = "» Botas desconocidas y objetos de mejora",
+				[11] = "<ITEM>[Botas de fuerza desconocida]<INFO>470071</INFO></ITEM>",
+				[12] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[13] = "",
+				[14] = "<ITEM>[Botas de destreza desconocida]<INFO>470072</INFO></ITEM>",
+				[15] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[16] = "",
+				[17] = "<ITEM>[Botas de vitalidad desconocida]<INFO>470073</INFO></ITEM>",
+				[18] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[19] = "",
+				[20] = "<ITEM>[Botas de poder mágico desconocido]<INFO>470074</INFO></ITEM>",
+				[21] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[22] = "",
+				[23] = "<ITEM>[Botas de agilidad desconocida]<INFO>470076</INFO></ITEM>",
+				[24] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[25] = "",
+				[26] = "<ITEM>[Botas de suerte desconocida]<INFO>470077</INFO></ITEM>",
+				[27] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 25 unidades",
+				[28] = "",
+				[29] = "<ITEM>[Orbe imbuido de poder mágico]<INFO>100476</INFO></ITEM>",
+				[30] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 5 unidades",
+				[31] = "§ 30.000 Zeny",
+				[32] = "",
+				[33] = "» Álbumes de cartas",
+				[34] = "<ITEM>[Álbum de cartas contaminado]<INFO>100462</INFO></ITEM>",
+				[35] = "§ <ITEM>[Piedra imbuida de poder mágico]<INFO>1000363</INFO></ITEM> 50 unidades",
+				[36] = "",
+				[37] = "<TIPBOX>»Ver lugar del accidente de la aeronave<INFO>6095</INFO></TIPBOX>",
+				[38] = "<TIPBOX>»Ver lista de consejos<INFO>1000</INFO></TIPBOX>"
+			}
+		}
 	}
 }

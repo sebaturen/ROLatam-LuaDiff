@@ -7135,72 +7135,72 @@
         "es-ES": "Perro guardián"
     },
     "M4wB": {
-        "en-US": "Geffen Mage1",
+        "en-US": "Archi",
         "pt-BR": "Alphard",
         "es-ES": "Archi"
     },
     "NIwB": {
-        "en-US": "Geffen Mage2",
+        "en-US": "Dio Anemos",
         "pt-BR": "Sirius",
         "es-ES": "Dio Anemos"
     },
     "NYwB": {
-        "en-US": "Geffen Mage3_1",
+        "en-US": "Geffen Thief",
         "pt-BR": "Gatuna de Geffen",
         "es-ES": "Ladrona de Geffen"
     },
     "NowB": {
-        "en-US": "Geffen Mage3_2",
+        "en-US": "Geffen Thug",
         "pt-BR": "Valentão de Geffen",
         "es-ES": "Matón de Geffen"
     },
     "N4wB": {
-        "en-US": "Geffen Mage3_3",
+        "en-US": "Geffen Gangster",
         "pt-BR": "Bandido de Geffen",
         "es-ES": "Gánster de Geffen"
     },
     "OIwB": {
-        "en-US": "Geffen Mage4",
+        "en-US": "Pa Monk",
         "pt-BR": "Mirzam",
         "es-ES": "Monja Pa"
     },
     "OYwB": {
-        "en-US": "Geffen Mage5",
+        "en-US": "Ordre",
         "pt-BR": "Muliphen",
         "es-ES": "Ordre"
     },
     "OowB": {
-        "en-US": "Geffen Mage6",
+        "en-US": "Blut Hase",
         "pt-BR": "Wezen",
         "es-ES": "Blut Hase"
     },
     "O4wB": {
-        "en-US": "Geffen Mage7",
+        "en-US": "Kuro Akuma",
         "pt-BR": "Wei",
         "es-ES": "Kuro Akuma"
     },
     "PIwB": {
-        "en-US": "Geffen Mage8",
+        "en-US": "Ipodus",
         "pt-BR": "Sargas",
-        "es-ES": "Hipermuerte"
+        "es-ES": "Ipodus"
     },
     "PYwB": {
-        "en-US": "Geffen Mage9",
+        "en-US": "Rechenier",
         "pt-BR": "Shaula",
         "es-ES": "Rechenier"
     },
     "PowB": {
-        "en-US": "Geffen Mage10",
+        "en-US": "Odorico",
         "pt-BR": "Ahdara",
         "es-ES": "Odorico"
     },
     "P4wB": {
-        "en-US": "Geffen Mage11",
+        "en-US": "Jew",
         "pt-BR": "Procyon",
         "es-ES": "Juu"
     },
     "QIwB": {
-        "en-US": "Geffen Mage12",
+        "en-US": "D.Y",
         "pt-BR": "Atria",
         "es-ES": "Dy"
     },
@@ -7225,17 +7225,17 @@
         "es-ES": "Alphonse Júnior"
     },
     "RYwB": {
-        "en-US": "Geffen Mage3_1",
+        "en-US": "Geffen Thief",
         "pt-BR": "Gatuna de Geffen",
         "es-ES": "Ladrona de Geffen"
     },
     "RowB": {
-        "en-US": "Geffen Mage3_2",
+        "en-US": "Geffen Thug",
         "pt-BR": "Valentão de Geffen",
         "es-ES": "Matón de Geffen"
     },
     "R4wB": {
-        "en-US": "Geffen Mage3_3",
+        "en-US": "Geffen Gangster",
         "pt-BR": "Bandido de Geffen",
         "es-ES": "Gánster de Geffen"
     },
@@ -12630,7 +12630,7 @@
         "es-ES": "Pitaya Roja"
     },
     "fpAB": {
-        "en-US": "Purple Pitaya",
+        "en-US": "Violet Pitaya",
         "pt-BR": "Pitaya Violeta",
         "es-ES": "Pitaya Violeta"
     },
@@ -12845,7 +12845,7 @@
         "es-ES": "Pimiento rojo"
     },
     "qZAB": {
-        "en-US": "Red Pepper",
+        "en-US": "Senior Red Pepper",
         "pt-BR": "Pimentão",
         "es-ES": "Gran Pimiento Rojo"
     },
@@ -14758,52 +14758,137 @@
     },
     "KJIB": {
         "en-US": "Rotten Wood",
-        "pt-BR": "Madeira Podre",
-        "es-ES": "Madera Podrida"
+        "pt-BR": "Árvore Decaída",
+        "es-ES": "Árbol Decaído"
     },
     "KZIB": {
         "en-US": "Melted Poring",
-        "pt-BR": "Poring Derretido",
-        "es-ES": "Poring Derretido"
+        "pt-BR": "Derreting",
+        "es-ES": "Derreting"
     },
     "KpIB": {
         "en-US": "Grave Worm",
         "pt-BR": "Verme do Túmulo",
-        "es-ES": "Gusano de Tumba"
+        "es-ES": "Gusano Sepulcral"
     },
     "K5IB": {
         "en-US": "Brain Sucker",
-        "pt-BR": "Sugador de Cérebros",
+        "pt-BR": "Suga-Mentes",
         "es-ES": "Chupacerebros"
     },
     "LJIB": {
-        "en-US": "Moskillro",
-        "pt-BR": "Moskillro",
-        "es-ES": "Moskillro"
+        "en-US": "Moskillto",
+        "pt-BR": "Ferroador",
+        "es-ES": "Aguijonador"
     },
     "LZIB": {
         "en-US": "Unidentified Creature",
-        "pt-BR": "Criatura Não Identificada",
-        "es-ES": "Criatura No Identificada"
+        "pt-BR": "Criatura Desconhecida",
+        "es-ES": "Criatura Desconocida"
     },
     "LpIB": {
         "en-US": "Unidentified Creature",
-        "pt-BR": "Criatura Não Identificada",
-        "es-ES": "Criatura No Identificada"
+        "pt-BR": "Criatura Desconhecida",
+        "es-ES": "Criatura Desconocida"
     },
     "L5IB": {
         "en-US": "Unidentified Creature",
-        "pt-BR": "Criatura Não Identificada",
-        "es-ES": "Criatura No Identificada"
+        "pt-BR": "Criatura Desconhecida",
+        "es-ES": "Criatura Desconocida"
     },
     "MJIB": {
         "en-US": "Unidentified Creature",
-        "pt-BR": "Criatura Não Identificada",
-        "es-ES": "Criatura No Identificada"
+        "pt-BR": "Criatura Desconhecida",
+        "es-ES": "Criatura Desconocida"
     },
     "MZIB": {
         "en-US": "Unidentified Creature",
-        "pt-BR": "Criatura Não Identificada",
-        "es-ES": "Criatura No Identificada"
+        "pt-BR": "Criatura Desconhecida",
+        "es-ES": "Criatura Desconocida"
+    },
+    "MpIB": {
+        "en-US": "Alphonse",
+        "pt-BR": "Alfonso",
+        "es-ES": "Alphonse"
+    },
+    "M5IB": {
+        "en-US": "Fenrir",
+        "pt-BR": "Fenris Fenrir",
+        "es-ES": "Fenrir"
+    },
+    "NJIB": {
+        "en-US": "Fei Kanabian",
+        "pt-BR": "Fay Kanavion",
+        "es-ES": "Fei Kanabian"
+    },
+    "NZIB": {
+        "en-US": "Archi",
+        "pt-BR": "Alphard",
+        "es-ES": "Archi"
+    },
+    "NpIB": {
+        "en-US": "Odorico",
+        "pt-BR": "Ahdara",
+        "es-ES": "Odorico"
+    },
+    "N5IB": {
+        "en-US": "Jew",
+        "pt-BR": "Procyon",
+        "es-ES": "Juu"
+    },
+    "OJIB": {
+        "en-US": "D.Y.",
+        "pt-BR": "Atria",
+        "es-ES": "Dy"
+    },
+    "OZIB": {
+        "en-US": "Dio Anemos",
+        "pt-BR": "Sirius",
+        "es-ES": "Dio Anemos"
+    },
+    "OpIB": {
+        "en-US": "Geffen Thief",
+        "pt-BR": "Gatuna de Geffen",
+        "es-ES": "Ladrona de Geffen"
+    },
+    "O5IB": {
+        "en-US": "Geffen Thug",
+        "pt-BR": "Valentão de Geffen",
+        "es-ES": "Matón de Geffen"
+    },
+    "PJIB": {
+        "en-US": "Geffen Gangster",
+        "pt-BR": "Bandido de Geffen",
+        "es-ES": "Gánster de Geffen"
+    },
+    "PZIB": {
+        "en-US": "Pa Monk",
+        "pt-BR": "Mirzam",
+        "es-ES": "Monja Pa"
+    },
+    "PpIB": {
+        "en-US": "Ordre",
+        "pt-BR": "Muliphen",
+        "es-ES": "Ordre"
+    },
+    "P5IB": {
+        "en-US": "Blut Hase",
+        "pt-BR": "Wezen",
+        "es-ES": "Blut Hase"
+    },
+    "QJIB": {
+        "en-US": "Kuro Akuma",
+        "pt-BR": "Wei",
+        "es-ES": "Kuro Akuma"
+    },
+    "QZIB": {
+        "en-US": "Ipodus",
+        "pt-BR": "Sargas",
+        "es-ES": "Ipodus"
+    },
+    "QpIB": {
+        "en-US": "Rechenier",
+        "pt-BR": "Shaula",
+        "es-ES": "Rechenier"
     }
 }

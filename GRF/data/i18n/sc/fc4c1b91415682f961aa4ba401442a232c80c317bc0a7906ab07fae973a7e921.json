@@ -1,7 +1,7 @@
 {
     "wIA+DQ": {
         "en-US": "This is the goddess's altar. We should check whether it works.",
-        "pt-BR": "É um altar da deusa. Seria bom verificar se ele funciona.",
+        "pt-BR": "É o altar da deusa. Seria bom verificar se ele funciona.",
         "es-ES": "Es el altar de la diosa. Será mejor comprobar si funciona."
     },
     "wYA+DQ": {
@@ -11,7 +11,7 @@
     },
     "woA+DQ": {
         "en-US": "[Oscar]\nThis goddess's altar somehow has not been destroyed.",
-        "pt-BR": "[Oscar]\nEste altar da deusa conseguiu não ser destruído.",
+        "pt-BR": "[Oscar]\nEste Altar da Deusa não foi destruído.",
         "es-ES": "[Oscar]\nEste altar de la diosa no se ha destruido, qué suerte."
     },
     "w4A+DQ": {
@@ -21,8 +21,8 @@
     },
     "xIA+DQ": {
         "en-US": "[Oscar]\nAh. A healing spring. It did have that ability as well. Perhaps that was its only function because the altar was not fully unsealed.",
-        "pt-BR": "[Oscar]\nAh. A fonte de cura. Ele também tinha essa capacidade. Talvez essa fosse a única função, porque o altar ainda não teve todos os selos removidos.",
-        "es-ES": "[Oscar]\nAh, un manantial curativo. También tenía esa capacidad. Quizá esa era su única función porque el altar no tenía todos sus sellos liberados."
+        "pt-BR": "[Oscar]\nAh, uma fonte de cura. Ele também tinha essa capacidade. Talvez essa fosse a única função, porque o altar ainda não teve todos os selos removidos.",
+        "es-ES": "[Oscar]\nAh, un manantial curativo. Solía tener esa capacidad. Quizá esa era su única función, porque el altar no tenía todos sus sellos liberados."
     },
     "xYA+DQ": {
         "en-US": "Does it have other abilities?",
@@ -31,13 +31,13 @@
     },
     "xoA+DQ": {
         "en-US": "[Oscar]\nGoddess's altars are hidden throughout the world in many forms. This altar controls various causalities through the goddess's blessing.",
-        "pt-BR": "[Oscar]\nOs altares da deusa estão escondidos de várias formas pelo mundo. Este altar controla várias causalidades com a bênção da deusa.",
+        "pt-BR": "[Oscar]\nOs altares da Deusa estão escondidos de várias formas pelo mundo. Este altar controla várias causalidades com a bênção da Deusa.",
         "es-ES": "[Oscar]\nLos altares de la diosa están ocultos por todo el mundo bajo distintas formas. Este altar controla diversas causalidades mediante la bendición de la diosa."
     },
     "x4A+DQ": {
         "en-US": "[Oscar]\nFor example, miracles such as sealing the stats of the one who currently occupies this tower are possible.",
         "pt-BR": "[Oscar]\nPor exemplo, seria possível realizar um milagre como selar os atributos daquele que tomou esta torre.",
-        "es-ES": "[Oscar]\nPor ejemplo, puede obrar milagros como sellar las estadísticas de quien ocupa ahora esta torre."
+        "es-ES": "[Oscar]\nPor ejemplo, puede obrar milagros como sellar las estadísticas de quien ocupa ahora esta Torre."
     },
     "yIA+DQ": {
         "en-US": "Their stats have been sealed?",
@@ -47,27 +47,27 @@
     "yYA+DQ": {
         "en-US": "[Oscar]\nHaha, Mr. {0}. Do you really think this tower would remain intact if someone powerful enough to occupy it fought at full strength?",
         "pt-BR": "[Oscar]\nHaha, {0}. Você acha mesmo que esta torre ficaria intacta se alguém poderoso o bastante para tomá-la lutasse com toda a sua força?",
-        "es-ES": "[Oscar]\nJa, ja, Sr. {0}. Si alguien con el poder suficiente para ocupar esta torre luchara en serio con todas sus fuerzas, ¿cree que esta torre seguiría intacta?"
+        "es-ES": "[Oscar]\nJa, ja, Sr. {0}. Si alguien con el poder suficiente luchara para ocupar esta Torre con todas sus fuerzas, ¿cree que seguiría intacta?"
     },
     "yoA+DQ": {
         "en-US": "[Oscar]\nThe one occupying this place now has probably been weakened to about 1/100 of their true strength. That is because the goddess's altar is protecting this tower.",
-        "pt-BR": "[Oscar]\nProvavelmente, aquele que tomou este lugar agora está enfraquecido a cerca de 1/100 de seu verdadeiro poder. Isso porque o altar da deusa protege esta torre.",
+        "pt-BR": "[Oscar]\nProvavelmente, aquele que tomou este lugar agora está enfraquecido a cerca de 0,1% de seu verdadeiro poder. Isso porque o altar da Deusa protege esta torre.",
         "es-ES": "[Oscar]\nProbablemente quien ocupa ahora este lugar se haya debilitado hasta una centésima parte de su verdadero poder. Es porque el altar de la diosa protege esta torre."
     },
     "y4A+DQ": {
         "en-US": "[Oscar]\nHowever... by offering tribute to the goddess, the seal can be lifted to some extent. The effect will differ depending on the amount of the offering and how it is offered.",
-        "pt-BR": "[Oscar]\nNo entanto... é possível oferecer oferendas à deusa para remover parte do selo. O efeito deve variar conforme a quantidade da oferenda e a forma como ela é oferecida.",
+        "pt-BR": "[Oscar]\nNo entanto... é possível dar oferendas à Deusa para remover parte do selo. O efeito deve variar conforme a quantidade da oferenda e a forma como ela é oferecida.",
         "es-ES": "[Oscar]\nSin embargo... si se ofrece un tributo a la diosa, es posible liberar el sello hasta cierto punto. El efecto variará según la cantidad del tributo y la forma de ofrecerlo."
     },
     "zIA+DQ": {
         "en-US": "If it is a goddess... Freyja?",
-        "pt-BR": "Se é uma deusa... Freyja?",
-        "es-ES": "Si dice diosa... ¿Freya?"
+        "pt-BR": "Se a Deusa... Freya?",
+        "es-ES": "Si es una diosa... ¿Freya?"
     },
     "zYA+DQ": {
         "en-US": "[Oscar]\nI cannot speak her name directly. For now, it is not the one you mentioned, Mr. {0}.",
-        "pt-BR": "[Oscar]\nNão posso pronunciar o nome dela diretamente. De todo modo, não é a pessoa que você mencionou, {0}.",
-        "es-ES": "[Oscar]\nNo puedo pronunciar su nombre con mi propia boca. En cualquier caso, no es la persona que ha mencionado, Sr. {0}."
+        "pt-BR": "[Oscar]\nNão posso pronunciar o nome dela diretamente. De todo modo, não é quem que você mencionou, {0}.",
+        "es-ES": "[Oscar]\nNo puedo pronunciar su nombre. Digamos que no es la persona que usted ha mencionado, Sr. {0}."
     },
     "zoA+DQ": {
         "en-US": "[Oscar]\nIn any case, seeing that the altar is intact is a relief. It seems even the being that occupies this place could not touch it.",
@@ -76,38 +76,38 @@
     },
     "z4A+DQ": {
         "en-US": "[Oscar]\nHowever, this floor is too low, so the goddess's power does not seem to have much effect here. It can only be used as a simple healing spring.",
-        "pt-BR": "[Oscar]\nMas este andar é baixo demais, então a força da deusa não parece atuar muito aqui. Só poderá ser usado como uma simples fonte de recuperação.",
-        "es-ES": "[Oscar]\nPero esta planta es demasiado baja, así que parece que el poder de la diosa no actúa con mucha fuerza. No queda más remedio que usarlo como un simple manantial curativo."
+        "pt-BR": "[Oscar]\nMas este andar é baixo demais e a força da Deusa não parece atuar muito aqui. Só poderá ser usado como uma simples fonte de cura.",
+        "es-ES": "[Oscar]\nComo sea, este piso es demasiado bajo, así que parece que el poder de la diosa no actúa con mucha fuerza. No queda más remedio que usarlo como un simple manantial curativo."
     },
     "0IA+DQ": {
         "en-US": "[Oscar]\nIt seems the goddess's blessing applies from here onward, so how about making a suitable offering and testing it?",
-        "pt-BR": "[Oscar]\nA partir daqui, parece que a bênção da deusa se aplica. Que tal oferecer uma oferenda adequada e fazer um teste?",
+        "pt-BR": "[Oscar]\nA partir daqui, parece que a bênção da Deusa se aplica. Que tal dar uma oferenda adequada e fazer um teste?",
         "es-ES": "[Oscar]\nA partir de aquí parece aplicarse la bendición de la diosa, así que ¿qué le parece ofrecer un tributo adecuado y probarlo?"
     },
     "0YA+DQ": {
         "en-US": "^0000FFLv.1^000000",
-        "pt-BR": "^0000FFNível 1^000000",
-        "es-ES": "^0000FFNivel 1^000000"
+        "pt-BR": "^0000FF•^000000",
+        "es-ES": "^0000FF•^000000"
     },
     "0oA+DQ": {
         "en-US": "^0000FFLv.2^000000",
-        "pt-BR": "^0000FFNível 2^000000",
-        "es-ES": "^0000FFNivel 2^000000"
+        "pt-BR": "^0000FF••^000000",
+        "es-ES": "^0000FF••^000000"
     },
     "04A+DQ": {
         "en-US": "^0000FFLv.3^000000",
-        "pt-BR": "^0000FFNível 3^000000",
-        "es-ES": "^0000FFNivel 3^000000"
+        "pt-BR": "^0000FF•••^000000",
+        "es-ES": "^0000FF•••^000000"
     },
     "1IA+DQ": {
         "en-US": "^0000FFLv.4^000000",
-        "pt-BR": "^0000FFNível 4^000000",
-        "es-ES": "^0000FFNivel 4^000000"
+        "pt-BR": "^0000FF••••^000000",
+        "es-ES": "^0000FF••••^000000"
     },
     "1YA+DQ": {
         "en-US": "^0000FFLv.5^000000",
-        "pt-BR": "^0000FFNível 5^000000",
-        "es-ES": "^0000FFNivel 5^000000"
+        "pt-BR": "^0000FF•••••^000000",
+        "es-ES": "^0000FF•••••^000000"
     },
     "1oA+DQ": {
         "en-US": "Sealed",
@@ -121,12 +121,12 @@
     },
     "2IA+DQ": {
         "en-US": "Set Specified Stat to Maximum",
-        "pt-BR": "Maximizar atributo selecionado",
+        "pt-BR": "Maximizar atributo",
         "es-ES": "Maximizar estadística designada"
     },
     "2YA+DQ": {
         "en-US": "Seal Specified Stat",
-        "pt-BR": "Selar atributo selecionado",
+        "pt-BR": "Selar atributo",
         "es-ES": "Sellar estadística designada"
     },
     "2oA+DQ": {
@@ -136,42 +136,42 @@
     },
     "24A+DQ": {
         "en-US": "No offering has been made to the goddess. The Constellation has most of its power sealed and will not put much effort into facing you.\n-------------------\n^FF0000No additional special costume chance^000000",
-        "pt-BR": "Nenhuma oferenda foi oferecida à deusa. A Constelação está com a maior parte de seu poder selada e não se empenhará ao enfrentar você.\n-------------------\n^FF0000Sem chance de traje especial adicional^000000",
-        "es-ES": "No has ofrecido ningún tributo a la diosa. La constelación tiene la mayor parte de su poder sellado y no se esforzará al enfrentarse a ti.\n-------------------\n^FF0000Sin probabilidad de atuendo especial adicional^000000"
+        "pt-BR": "Nenhuma oferenda foi feita à Deusa. A Constelação está com a maior parte de seu poder selada e não se empenhará ao enfrentar você.\n-------------------\n^FF0000Sem chance de encontrar um Visual^000000",
+        "es-ES": "No has ofrecido ningún tributo a la diosa. La Constelación tiene la mayor parte de su poder sellado y no necesitará mucho esfuerzo para enfrentarte.\n-------------------\n^FF0000Sin probabilidad de atuendo especial adicional^000000"
     },
     "3IA+DQ": {
         "en-US": "The Constellation's stats are ^FF0000{0}%^000000 higher than when fully sealed.\n-------------------",
-        "pt-BR": "Os atributos da Constelação estão ^FF0000{0}%^000000 maiores do que no estado totalmente selado.\n-------------------",
+        "pt-BR": "A pontuação está em ^FF0000{0}^000000.\n-------------------",
         "es-ES": "Las estadísticas de la constelación han aumentado un ^FF0000{0}%^000000 respecto a su estado completamente sellado.\n-------------------"
     },
     "3YA+DQ": {
         "en-US": "^FF0000No additional special costume chance^000000",
-        "pt-BR": "^FF0000Sem chance de traje especial adicional^000000",
+        "pt-BR": "^FF0000Sem chance de encontrar um Visual^000000",
         "es-ES": "^FF0000Sin probabilidad de atuendo especial adicional^000000"
     },
     "3oA+DQ": {
         "en-US": "<ITEM>[Special Additional Costume 1]<INFO>400147</INFO></ITEM> appears (Rare)",
-        "pt-BR": "<ITEM>[Traje Especial Adicional 1]<INFO>400147</INFO></ITEM> aparece (raríssimo)",
+        "pt-BR": "<ITEM>[Boneco de Betelgeuse]<INFO>400147</INFO></ITEM> aparece (raro)",
         "es-ES": "Aparición de <ITEM>[Atuendo especial adicional 1]<INFO>400147</INFO></ITEM> (muy rara)"
     },
     "34A+DQ": {
         "en-US": "<ITEM>[Special Additional Costume 1]<INFO>400147</INFO></ITEM> appears (Low)\n<ITEM>[Special Additional Costume 2]<INFO>400149</INFO></ITEM> appears (Rare)\n<ITEM>[Special Additional Costume 3]<INFO>400148</INFO></ITEM> appears (Rare)",
-        "pt-BR": "<ITEM>[Traje Especial Adicional 1]<INFO>400147</INFO></ITEM> aparece (baixo)\n<ITEM>[Traje Especial Adicional 2]<INFO>400149</INFO></ITEM> aparece (raríssimo)\n<ITEM>[Traje Especial Adicional 3]<INFO>400148</INFO></ITEM> aparece (raríssimo)",
+        "pt-BR": "<ITEM>[Boneco de Betelgeuse]<INFO>400147</INFO></ITEM> aparece (baixo)\n<ITEM>[Aura de Betelgeuse]<INFO>400149</INFO></ITEM> aparece (raro)\n<ITEM>[Cabelos de Betelgeuse]<INFO>400148</INFO></ITEM> aparece (raro)",
         "es-ES": "Aparición de <ITEM>[Atuendo especial adicional 1]<INFO>400147</INFO></ITEM> (baja)\nAparición de <ITEM>[Atuendo especial adicional 2]<INFO>400149</INFO></ITEM> (muy rara)\nAparición de <ITEM>[Atuendo especial adicional 3]<INFO>400148</INFO></ITEM> (muy rara)"
     },
     "4IA+DQ": {
         "en-US": "<ITEM>[Special Additional Costume 1]<INFO>400147</INFO></ITEM> appears (Slightly Low)\n<ITEM>[Special Additional Costume 2]<INFO>400149</INFO></ITEM> appears (Low)\n<ITEM>[Special Additional Costume 3]<INFO>400148</INFO></ITEM> appears (Rare)",
-        "pt-BR": "<ITEM>[Traje Especial Adicional 1]<INFO>400147</INFO></ITEM> aparece (um pouco baixo)\n<ITEM>[Traje Especial Adicional 2]<INFO>400149</INFO></ITEM> aparece (baixo)\n<ITEM>[Traje Especial Adicional 3]<INFO>400148</INFO></ITEM> aparece (raríssimo)",
+        "pt-BR": "<ITEM>[Boneco de Betelgeuse]<INFO>400147</INFO></ITEM> aparece (médio)\n<ITEM>[Aura de Betelgeuse]<INFO>400149</INFO></ITEM> aparece (baixo)\n<ITEM>[Cabelos de Betelgeuse]<INFO>400148</INFO></ITEM> aparece (raro)",
         "es-ES": "Aparición de <ITEM>[Atuendo especial adicional 1]<INFO>400147</INFO></ITEM> (algo baja)\nAparición de <ITEM>[Atuendo especial adicional 2]<INFO>400149</INFO></ITEM> (baja)\nAparición de <ITEM>[Atuendo especial adicional 3]<INFO>400148</INFO></ITEM> (muy rara)"
     },
     "4YA+DQ": {
         "en-US": "<ITEM>[Special Additional Costume 1]<INFO>400147</INFO></ITEM> appears (Normal)\n<ITEM>[Special Additional Costume 2]<INFO>400149</INFO></ITEM> appears (Slightly Low)\n<ITEM>[Special Additional Costume 3]<INFO>400148</INFO></ITEM> appears (Low)",
-        "pt-BR": "<ITEM>[Traje Especial Adicional 1]<INFO>400147</INFO></ITEM> aparece (normal)\n<ITEM>[Traje Especial Adicional 2]<INFO>400149</INFO></ITEM> aparece (um pouco baixo)\n<ITEM>[Traje Especial Adicional 3]<INFO>400148</INFO></ITEM> aparece (baixo)",
+        "pt-BR": "<ITEM>[Boneco de Betelgeuse]<INFO>400147</INFO></ITEM> aparece (normal)\n<ITEM>[Aura de Betelgeuse]<INFO>400149</INFO></ITEM> aparece (médio)\n<ITEM>[Cabelos de Betelgeuse]<INFO>400148</INFO></ITEM> aparece (baixo)",
         "es-ES": "Aparición de <ITEM>[Atuendo especial adicional 1]<INFO>400147</INFO></ITEM> (normal)\nAparición de <ITEM>[Atuendo especial adicional 2]<INFO>400149</INFO></ITEM> (algo baja)\nAparición de <ITEM>[Atuendo especial adicional 3]<INFO>400148</INFO></ITEM> (baja)"
     },
     "4oA+DQ": {
         "en-US": "<ITEM>[Special Additional Costume 1]<INFO>400147</INFO></ITEM> appears (Slightly High)\n<ITEM>[Special Additional Costume 2]<INFO>400149</INFO></ITEM> appears (Normal)\n<ITEM>[Special Additional Costume 3]<INFO>400148</INFO></ITEM> appears (Slightly Low)",
-        "pt-BR": "<ITEM>[Traje Especial Adicional 1]<INFO>400147</INFO></ITEM> aparece (um pouco alto)\n<ITEM>[Traje Especial Adicional 2]<INFO>400149</INFO></ITEM> aparece (normal)\n<ITEM>[Traje Especial Adicional 3]<INFO>400148</INFO></ITEM> aparece (um pouco baixo)",
+        "pt-BR": "<ITEM>[Boneco de Betelgeuse]<INFO>400147</INFO></ITEM> aparece (alto)\n<ITEM>[Aura de Betelgeuse]<INFO>400149</INFO></ITEM> aparece (normal)\n<ITEM>[Cabelos de Betelgeuse]<INFO>400148</INFO></ITEM> aparece (médio)",
         "es-ES": "Aparición de <ITEM>[Atuendo especial adicional 1]<INFO>400147</INFO></ITEM> (algo alta)\nAparición de <ITEM>[Atuendo especial adicional 2]<INFO>400149</INFO></ITEM> (normal)\nAparición de <ITEM>[Atuendo especial adicional 3]<INFO>400148</INFO></ITEM> (algo baja)"
     },
     "44A+DQ": {
@@ -181,7 +181,7 @@
     },
     "5IA+DQ": {
         "en-US": "Set All Stats Randomly",
-        "pt-BR": "Definir todos os atributos aleatoriamente",
+        "pt-BR": "Atributos aleatórios",
         "es-ES": "Configurar todas las estadísticas al azar"
     },
     "5YA+DQ": {
@@ -202,21 +202,21 @@
     "6IA+DQ": {
         "en-US": "Meteor Dust",
         "pt-BR": "Pó de Meteorito",
-        "es-ES": "Polvo de meteorito"
+        "es-ES": "Polvo de Meteorito"
     },
     "6YA+DQ": {
         "en-US": "The specified Constellation stat will rise to the ^FF0000maximum value available on the current floor.^000000 Other stats will not change.",
-        "pt-BR": "O atributo selecionado da Constelação aumentará até o ^FF0000valor máximo que pode ser manifestado no andar atual.^000000 Os outros atributos não serão alterados.",
-        "es-ES": "La estadística designada de la constelación aumentará hasta el ^FF0000valor máximo que puede desplegarse en la planta actual.^000000 Las demás estadísticas no cambiarán."
+        "pt-BR": "O atributo aumentará até o ^FF0000máximo disponível no andar atual.^000000 Os outros atributos não serão alterados.",
+        "es-ES": "La estadística designada de la Constelación aumentará hasta el ^FF0000valor máximo que puede desplegarse en el piso actual.^000000 Las demás estadísticas no cambiarán."
     },
     "6oA+DQ": {
         "en-US": "The specified Constellation stat will be ^0000FFsealed to its complete default value^000000. Other stats will not change.",
-        "pt-BR": "O atributo selecionado da Constelação será ^0000FFselado no valor básico completo^000000. Os outros atributos não serão alterados.",
-        "es-ES": "La estadística designada de la constelación quedará ^0000FFsellada a su valor básico completo^000000. Las demás estadísticas no cambiarán."
+        "pt-BR": "O atributo reduzirá até o ^0000FFmínimo disponível no andar atual^000000. Os outros atributos não serão alterados.",
+        "es-ES": "La estadística designada de la Constelación quedará ^0000FFsellada a su valor básico completo^000000. Las demás estadísticas no cambiarán."
     },
     "64A+DQ": {
         "en-US": "HP",
-        "pt-BR": "HP",
+        "pt-BR": "Saúde",
         "es-ES": "Vida"
     },
     "7IA+DQ": {
@@ -226,7 +226,7 @@
     },
     "7YA+DQ": {
         "en-US": "Recovery",
-        "pt-BR": "Recuperação",
+        "pt-BR": "Regeneração",
         "es-ES": "Recuperación"
     },
     "7oA+DQ": {
@@ -237,7 +237,7 @@
     "74A+DQ": {
         "en-US": "Trap",
         "pt-BR": "Armadilha",
-        "es-ES": "Trampas"
+        "es-ES": "Trampa"
     },
     "8IA+DQ": {
         "en-US": "lv_hp",
@@ -246,7 +246,7 @@
     },
     "8YA+DQ": {
         "en-US": "HP",
-        "pt-BR": "HP",
+        "pt-BR": "Saúde",
         "es-ES": "Vida"
     },
     "8oA+DQ": {
@@ -266,7 +266,7 @@
     },
     "9YA+DQ": {
         "en-US": "Recovery",
-        "pt-BR": "Recuperação",
+        "pt-BR": "Regeneração",
         "es-ES": "Recuperación"
     },
     "9oA+DQ": {
@@ -287,7 +287,7 @@
     "+YA+DQ": {
         "en-US": "Trap",
         "pt-BR": "Armadilha",
-        "es-ES": "Trampas"
+        "es-ES": "Trampa"
     },
     "+oA+DQ": {
         "en-US": "{0}",
@@ -301,43 +301,45 @@
     },
     "/IA+DQ": {
         "en-US": "To make this miracle happen,\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM> x{2} is required.\nOfferings that have been consumed cannot be returned. Are you sure you want to make the offering?",
-        "pt-BR": "Para realizar este milagre,\nsão necessárias {2} unidades de\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>.\nAs oferendas consumidas não poderão ser devolvidas. Tem certeza de que deseja oferecê-las?",
-        "es-ES": "Para realizar este milagro, se necesitan\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM> x{2}\nLos tributos consumidos no se pueden recuperar. ¿Seguro que quieres ofrecer el tributo?"
+        "pt-BR": "Para realizar este milagre,\npreciso de {2}x <ITEM>[{0}]<INFO>{1}</INFO></ITEM>.\nAs oferendas consumidas não poderão ser devolvidas. Tem certeza de que deseja oferecê-las?",
+        "es-ES": "Para realizar este milagro, se necesitan\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM> x{2}.\nLos tributos consumidos no se pueden recuperar. ¿Seguro que quieres ofrecer el tributo?"
     },
     "/YA+DQ": {
         "en-US": "Never mind.",
-        "pt-BR": "Melhor desistir",
-        "es-ES": "Mejor lo dejo"
+        "pt-BR": "Desistir.",
+        "es-ES": "No te preocupes."
     },
     "/oA+DQ": {
         "en-US": "Make the Offering",
-        "pt-BR": "Oferecer oferenda",
+        "pt-BR": "Fazer oferenda.",
         "es-ES": "Ofrecer el tributo"
     },
     "/4A+DQ": {
         "en-US": "There are not enough offerings to perform the miracle.\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM> x{2} is required.",
-        "pt-BR": "As oferendas para realizar o milagre são insuficientes.\nSão necessárias {2} unidades de\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>.",
-        "es-ES": "No tienes suficientes tributos para obrar el milagro.\nSe necesitan <ITEM>[{0}]<INFO>{1}</INFO></ITEM> x{2}"
+        "pt-BR": "As oferendas para realizar o milagre são insuficientes.\nPreciso de {2} unidades de\n<ITEM>[{0}]<INFO>{1}</INFO></ITEM>.",
+        "es-ES": "No tienes suficientes tributos para obrar el milagro.\nSe necesitan <ITEM>[{0}]<INFO>{1}</INFO></ITEM> x{2}."
     },
     "AIE+DQ": {
         "en-US": "Some of the Constellation's stat seals have been released.",
         "pt-BR": "Parte do selo dos atributos da Constelação foi removida.",
-        "es-ES": "Se ha liberado el sello de algunas estadísticas de la constelación."
+        "es-ES": "Se ha liberado el sello de algunas estadísticas de la Constelación."
     },
     "AYE+DQ": {
         "en-US": "The Constellation's ^0000FF{0}^000000 stat has been changed.",
-        "pt-BR": "O atributo ^0000FF{0}^000000 da Constelação foi alterado.",
-        "es-ES": "La estadística ^0000FF{0}^000000 de la constelación ha cambiado."
+        "pt-BR": "O atributo ^0000FF{0}^000000 foi alterado.",
+        "es-ES": "La estadística ^0000FF{0}^000000 de la Constelación ha cambiado."
     },
     "AoE+DQ": {
         "en-US": "Strange Whisper: One of your companions has fled like a coward. Call them here at once.",
         "pt-BR": "Sussurro desconhecido: Há um covarde entre seus companheiros que fugiu. Traga-o para cá imediatamente.",
-        "es-ES": "Susurro desconocido: Uno de tus compañeros ha huido cobardemente. Llámalo aquí de inmediato."
+        "es-ES": "Susurro desconocido: Alguien de tu grupo ha huido cobardemente. Llámalo aquí de inmediato."
     },
     "A4E+DQ": {
         "en-US": "Strange Whisper: Do you intend to abandon a fallen companion? How pathetic.",
-        "pt-BR": "Sussurro desconhecido: Pretende abandonar um companheiro caído? Que patético.",
-        "es-ES": "Susurro desconocido: ¿Vas a abandonar a un compañero caído? Qué despreciable."
+        "pt-BR": "Sussurro desconhecido: Pretende abandonar um companheiro morto? Que patético.",
+        "es-ES": "Susurro desconocido: ¿Vas a abandonar a un compañero caído? Qué mala persona."
     },
-    "BIE+DQ": {}
+    "BIE+DQ": {
+        "pt-BR": "[Estatísticas Atuais]\nSaúde - {0}\nAtaque - {1}\nRegeneração - {2}\nDefesa - {3}\nArmadilha - {4}"
+    }
 }

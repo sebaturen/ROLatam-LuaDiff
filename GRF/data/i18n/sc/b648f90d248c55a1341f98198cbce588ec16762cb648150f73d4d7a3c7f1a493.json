@@ -21,7 +21,7 @@
     },
     "ZKZkDQ": {
         "en-US": "Enchant Headgear",
-        "pt-BR": "Encantar Elmo",
+        "pt-BR": "Encantar Equipamento para Cabeça",
         "es-ES": "Encantar casco"
     },
     "ZaZkDQ": {
@@ -36,17 +36,17 @@
     },
     "Z6ZkDQ": {
         "en-US": "[Neowmus Andersoon]\nIt might be dangerous to remove the gear you currently have equipped.",
-        "pt-BR": "[Neowmus Andersoon]\nTirar o equipamento que está usando pode ser perigoso.",
+        "pt-BR": "[Neowmus Andersoon]\nDesequipar o equipamento pode ser perigoso.",
         "es-ES": "[Neowmus Andersoon]\nQuitarte el equipo que llevas puesto podría ser peligroso"
     },
     "aKZkDQ": {
-        "en-US": "Thanatos Dolor Mask",
+        "en-US": "Mask of Grief",
         "pt-BR": "Máscara de Thanatos Dolor",
-        "es-ES": "Máscara de Thanatos Dolor"
+        "es-ES": "Máscara de Pesar"
     },
     "aaZkDQ": {
         "en-US": "[Neowmus Andersoon]\nThis is not the equipment I handle.",
-        "pt-BR": "[Neowmus Andersoon]\nEsse não é um equipamento que eu possa manusear.",
+        "pt-BR": "[Neowmus Andersoon]\nEu não consigo manusear este equipamento.",
         "es-ES": "[Neowmus Andersoon]\nEse no es un equipo que yo pueda procesar"
     },
     "aqZkDQ": {
@@ -86,12 +86,12 @@
     },
     "caZkDQ": {
         "en-US": "[Neowmus Andersoon]\nThe upgrade for Enchant Slot4 has already reached its maximum. No further additions are possible.",
-        "pt-BR": "[Neowmus Andersoon]\nO upgrade do Slot de Encantamento 4 já atingiu o máximo. Não é possível adicionar mais",
+        "pt-BR": "[Neowmus Andersoon]\nA melhoria de encantamento no slot 4 já atingiu o valor máximo. Não é possível adicionar mais melhorias.",
         "es-ES": "[Neowmus Andersoon]\nLa mejora del Slot de Encantamiento 4 ya ha alcanzado su máximo. No se puede agregar más"
     },
     "cqZkDQ": {
         "en-US": "[Neowmus Andersoon]\nThere is something strange with Enchant Slot4.\nPlease contact the staff in charge.",
-        "pt-BR": "[Neowmus Andersoon]\nHá algo estranho no Slot de Encantamento 4.\nPor favor, contate o suporte.",
+        "pt-BR": "[Neowmus Andersoon]\nHá algo estranho no slot 4 para encantamentos.\nPor favor, entre em contato com o suporte.",
         "es-ES": "[Neowmus Andersoon]\nHay algo extraño en el Slot de Encantamiento 4\nPor favor, contacta al personal encargado"
     },
     "c6ZkDQ": {
@@ -100,13 +100,13 @@
         "es-ES": "Ninguno"
     },
     "dKZkDQ": {
-        "en-US": "Skill_Delay1",
-        "pt-BR": "Skill_Delay1",
-        "es-ES": "Skill_Delay1"
+        "en-US": "After-skill delay 1",
+        "pt-BR": "Anti-Horário 1",
+        "es-ES": "Posconjuración Nv. 1"
     },
     "daZkDQ": {
         "en-US": "[Neowmus Andersoon]\nProceeding with Enchant Slot4.\nCurrent status is {0}.\nOn success, it will be enhanced to the next stage: {1}.\nOn failure, it will decrease by 1 stage.",
-        "pt-BR": "[Neowmus Andersoon]\nVou prosseguir com o Slot de Encantamento 4.\nO estado atual é {0}\nSe bem-sucedido, avançará para o próximo nível: {1}\nSe falhar, cairá 1 nível.",
+        "pt-BR": "[Neowmus Andersoon]\nVou prosseguir com o Encantamento de Slot 4.\nO estado atual é {0}\nSe bem-sucedido, avançará para o próximo nível: {1}\nSe falhar, perderá 1 nível.",
         "es-ES": "[Neowmus Andersoon]\nProcederé con el Slot de Encantamiento 4\nEl estado actual es {0}\nSi tiene éxito, mejorará a la siguiente fase: {1}\nSi falla, bajará 1 nivel"
     },
     "dqZkDQ": {
@@ -121,7 +121,7 @@
     },
     "eKZkDQ": {
         "en-US": "[Neowmus Andersoon]\nSomething is still missing. Please check again.\nPlease make sure you have prepared all the required items and zeny.\n{0} {1}\n{2} {3}\n{4} {5}\nZeny: {6}",
-        "pt-BR": "[Neowmus Andersoon]\nEstá faltando alguma coisa. Verifique novamente.\nVeja se providenciou todos os itens necessários e zeny.\n{0}{1}\n{2}{3}\n{4}{5}\nZeny {6}",
+        "pt-BR": "[Neowmus Andersoon]\nEstá faltando alguma coisa. Verifique novamente.\nVeja se providenciou todos os itens necessários e o zeny.\n{0}{1}\n{2}{3}\n{4}{5}\nZeny {6}",
         "es-ES": "[Neowmus Andersoon]\nFalta alguno de los costos. Revísalo nuevamente\nAsegúrate de tener todos los siguientes costos:\n{0} {1}\n{2} {3}\n{4} {5}\nZeny: {6}"
     },
     "eaZkDQ": {
@@ -131,52 +131,52 @@
     },
     "eqZkDQ": {
         "en-US": "[Neowmus Andersoon]\nSuccess!\nHow was that? I told you I could do it.",
-        "pt-BR": "[Neowmus Andersoon]\nSucesso!\nO que achou? Eu falei que era capaz.",
+        "pt-BR": "[Neowmus Andersoon]\nSucesso!\nO que achou? Eu falei que ia conseguir.",
         "es-ES": "[Neowmus Andersoon]\n¡Éxito!\n¿Qué tal? Te dije que podía hacerlo"
     },
     "e6ZkDQ": {
-        "en-US": "Battle Pass Modification Orb (ATK)",
+        "en-US": "Attack Enchant",
         "pt-BR": "Encanto de Ataque",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (ATQ)"
+        "es-ES": "Encanto de Ataque"
     },
     "fKZkDQ": {
-        "en-US": "Battle Pass Modification Orb (MATK)",
+        "en-US": "Power Enchant",
         "pt-BR": "Encanto de Poder",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (ATQM)"
+        "es-ES": "Encanto de Poder"
     },
     "faZkDQ": {
-        "en-US": "Battle Pass Modification Orb (Magical Force)",
+        "en-US": "P-Magic",
         "pt-BR": "P-Mágico",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Fuerza Mágica)"
+        "es-ES": "P-Mágico"
     },
     "fqZkDQ": {
-        "en-US": "Battle Pass Modification Orb (Attacker Force)",
+        "en-US": "Cast Enchant",
         "pt-BR": "Encanto de Conjuração",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Fuerza de Atacante)"
+        "es-ES": "Encanto de Lanzamiento"
     },
     "f6ZkDQ": {
-        "en-US": "Battle Pass Modification Orb (Range Force)",
+        "en-US": "Talent Enchant",
         "pt-BR": "Encanto de Talento",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Fuerza a Distancia)"
+        "es-ES": "Encanto de Talento"
     },
     "gKZkDQ": {
-        "en-US": "Battle Pass Modification Orb (Critical Force)",
+        "en-US": "Decadent Enchant",
         "pt-BR": "Encanto Decadente",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Fuerza Crítica)"
+        "es-ES": "Encanto Decadente"
     },
     "gaZkDQ": {
-        "en-US": "Battle Pass Modification Orb (Global Cooldown)",
+        "en-US": "Fortified Enchant",
         "pt-BR": "Encanto Fortificado",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Enfriamiento Global)"
+        "es-ES": "Encanto Fortificado"
     },
     "gqZkDQ": {
         "en-US": "[Neowmus Andersoon]\nHeadgear enchant!?\nYou've come to the right person. That old man can't do that.",
-        "pt-BR": "[Neowmus Andersoon]\nEncantar Headgear!?\nVocê veio à pessoa certa. Aquele velho não sabe fazer isso.",
+        "pt-BR": "[Neowmus Andersoon]\nEncantar Equipamento para Cabeça!?\nVocê veio à pessoa certa. Aquele velho não sabe fazer isso.",
         "es-ES": "[Neowmus Andersoon]\n¿¡Encantar un casco!?\nViniste a la persona indicada. Ese viejo no sabe hacer eso"
     },
     "g6ZkDQ": {
         "en-US": "[Neowmus Andersoon]\nExcellent. Please choose the option you desire, and I'll let you know exactly what needs to be prepared.",
-        "pt-BR": "[Neowmus Andersoon]\nCerto. Escolha a opção desejada. Já vou lhe dizer o que precisa preparar.",
+        "pt-BR": "[Neowmus Andersoon]\nÓtimo! Escolha a opção desejada e eu te direi o que será necessário para o processo.",
         "es-ES": "[Neowmus Andersoon]\nPerfecto. Elige la opción que desees. Te diré de inmediato qué necesito preparar"
     },
     "hKZkDQ": {
@@ -186,18 +186,18 @@
     },
     "haZkDQ": {
         "en-US": "Relapse Helmet",
-        "pt-BR": "Relapse Helmet",
-        "es-ES": "Casco Recaída"
+        "pt-BR": "Capacete Decadente",
+        "es-ES": "Casco Decadente"
     },
     "hqZkDQ": {
         "en-US": "Fortified Helmet",
-        "pt-BR": "Fortified Helmet",
+        "pt-BR": "Capacete Fortificado",
         "es-ES": "Casco Fortificado"
     },
     "h6ZkDQ": {
         "en-US": "Scrap Helmet",
-        "pt-BR": "Scrap Helmet",
-        "es-ES": "Casco Chatarrero"
+        "pt-BR": "Capacete Descartado",
+        "es-ES": "Casco Descartado"
     },
     "iKZkDQ": {
         "en-US": "[Neowmus Andersoon]\nThis Module's ability can be replicated (retried) up to {0} times.",
@@ -221,17 +221,17 @@
     },
     "jKZkDQ": {
         "en-US": "[Neowmus Andersoon]\nInsufficient funds for the enchant. Please check your inventory again.",
-        "pt-BR": "[Neowmus Andersoon]\nSaldo insuficiente para o encantamento. Verifique seu inventário novamente.",
+        "pt-BR": "[Neowmus Andersoon]\nSaldo insuficiente para o encantamento. Verifique seu inventário.",
         "es-ES": "[Neowmus Andersoon]\nFalta el costo necesario para el Encantamiento. Revisa tu inventario nuevamente."
     },
     "jaZkDQ": {
         "en-US": "[Neowmus Andersoon]\nProcessing complete. Please check your received equipment again.",
-        "pt-BR": "[Neowmus Andersoon]\nProcesso concluído. Verifique o equipamento recebido novamente.",
+        "pt-BR": "[Neowmus Andersoon]\nProcesso concluído. Verifique o equipamento recebido.",
         "es-ES": "[Neowmus Andersoon]\nProcesamiento completado. Verifica nuevamente el equipo recibido"
     },
     "jqZkDQ": {
         "en-US": "Thesis401",
-        "pt-BR": "Thesis401",
+        "pt-BR": "Tese401",
         "es-ES": "Tesis401"
     },
     "j6ZkDQ": {
@@ -241,28 +241,28 @@
     },
     "kKZkDQ": {
         "en-US": "Basic Research",
-        "pt-BR": "Pesquisa Básica (Basic Research)",
+        "pt-BR": "Pesquisa Básica",
         "es-ES": "Investigación Básica"
     },
     "kaZkDQ": {
-        "en-US": "Advanced Thesis",
-        "pt-BR": "Pesquisa Avançada (Advanced Research)",
+        "en-US": "Advanced Research",
+        "pt-BR": "Pesquisa Avançada",
         "es-ES": "Investigación Avanzada"
     },
     "kqZkDQ": {
         "en-US": "Professional Research",
-        "pt-BR": "Pesquisa Profissional (Professional Research)",
+        "pt-BR": "Pesquisa Profissional",
         "es-ES": "Investigación Profesional"
     },
     "k6ZkDQ": {
         "en-US": "Basic Research\nRequires the use of:\n<ITEM>Basic Research<INFO>1001678</INFO></ITEM>\n1 is needed for the research, which takes 180 seconds.\nPlease do not move until the research is complete.",
-        "pt-BR": "Pesquisa Básica (Basic Research)\nÉ necessário usar:\n<ITEM>Pesquisa Básica<INFO>1001678</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 180 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
+        "pt-BR": "Pesquisa Básica (Basic Research)\nRequer o uso de:\n<ITEM>Pesquisa Básica<INFO>1001678</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 180 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
         "es-ES": "Investigación Básica\nDebes usar lo siguiente:\n<ITEM>Investigación Básica<INFO>1001678</INFO></ITEM>\nSe necesita 1 para investigar, y el tiempo de investigación es de 180 segundos\nDurante ese tiempo, no te muevas hasta que termine la investigación"
     },
     "lKZkDQ": {
-        "en-US": "On success, randomly obtain one of the following with a certain chance:\nVarmeal Ticket 1x\nMD Thanatos Fragment Material 1x\nGreen Radiation 1x\nRed Radiation 1x\nBlue Radiation 1x\nSealed Low Guarantee Ticket 1x",
-        "pt-BR": "Se bem-sucedido, você pode receber aleatoriamente:\n1x Vale Varmida\n1x Fragmento de Material MD Thanatos\n1x Radiação Verde\n1x Radiação Vermelha\n1 Radiação Azul\n1x Bilhete de Garantia Selado de Baixo Nível",
-        "es-ES": "Si tiene éxito, con cierta probabilidad obtendrás aleatoriamente:\n1 Vale Varmida\n1 Fragmento de material de MD Thanatos\n1 Radiación Verde\n1 Radiación Roja\n1 Radiación Azul\n1 Ticket Sellado de Garantía Baja"
+        "en-US": "On success, randomly obtain one of the following with a certain chance:\n1x Varmeal Ticket\n1x Sin Fragment\n1x Virtue Fragment\n1x Green Radiation\n1x Red Radiation\n1x Blue Radiation\n1x Low Refine Box",
+        "pt-BR": "Caso tenha sucesso, você poderá receber aleatoriamente:\n1x Vale Varmida\n1x Fragmento de Pecado\n1x Fragmento de Virtude\n1x Radiação Verde\n1x Radiação Vermelha\n1x Radiação Azul\n1x Caixa de Baixo Refino",
+        "es-ES": "Si tiene éxito, con cierta probabilidad obtendrás aleatoriamente:\n1x Vale Varmida\n1x Fragmento de Pecado\n1x Fragmento de Virtud\n1x Radiación Verde\n1x Radiación Roja\n1x Radiación Azul\n1x Caja de Bajo Refinamiento"
     },
     "laZkDQ": {
         "en-US": "Start the research now?",
@@ -281,7 +281,7 @@
     },
     "mKZkDQ": {
         "en-US": "Basic Research is required.",
-        "pt-BR": "É necessário Pesquisa Básica (Basic Research)",
+        "pt-BR": "Pesquisa Básica (Basic Research) é requerida.",
         "es-ES": "Se necesita Investigación Básica"
     },
     "maZkDQ": {
@@ -291,7 +291,7 @@
     },
     "mqZkDQ": {
         "en-US": "Insufficient Basic Research items. Please check your inventory.",
-        "pt-BR": "Falta quantidade de Pesquisa Básica (Basic Research). Verifique seu inventário novamente.",
+        "pt-BR": "Quantidade de Pesquisa Básica (Basic Research) é insuficiente. Verifique seu inventário.",
         "es-ES": "Cantidad insuficiente de Investigación Básica. Revisa tu inventario nuevamente"
     },
     "m6ZkDQ": {
@@ -301,27 +301,27 @@
     },
     "nKZkDQ": {
         "en-US": "Advanced Research\nRequires the use of:\n<ITEM>Advanced Research<INFO>1001679</INFO></ITEM>\n1 is needed for the research, which takes 60 seconds.\nPlease do not move until the research is complete.",
-        "pt-BR": "Pesquisa Avançada\nÉ necessário usar:\n<ITEM>Pesquisa Avançada<INFO>1001679</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 60 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
+        "pt-BR": "Pesquisa Avançada\nRequer o uso de:\n<ITEM>Pesquisa Avançada<INFO>1001679</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 60 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
         "es-ES": "Investigación Avanzada\nDebes usar lo siguiente:\n<ITEM>Investigación Avanzada<INFO>1001679</INFO></ITEM>\nSe necesita 1 para investigar, y el tiempo de investigación es de 60 segundos\nDurante ese tiempo, no te muevas hasta que termine la investigación"
     },
     "naZkDQ": {
-        "en-US": "On success, randomly obtain one of the following with a certain chance:\nVarmeal Ticket 3x\nMD Thanatos Fragment Material 2x\nGreen Radiation 3x\nRed Radiation 3x\nBlue Radiation 3x\nSealed Low Guarantee Ticket 1x",
-        "pt-BR": "Se bem-sucedido, você pode receber aleatoriamente:\n3x Vale Varmida\n2x Fragmento de Material MD Thanatos\n3x Radiação Verde\n3x Radiação Vermelha\n3x Radiação Azul\n1x Bilhete de Garantia Selado de Baixo Nível",
-        "es-ES": "Si tiene éxito, con cierta probabilidad obtendrás aleatoriamente:\n3 Vale Varmida\n2 Fragmentos de material de MD Thanatos\n3 Radiación Verde\n3 Radiación Roja\n3 Radiación Azul\n1 Ticket Sellado de Garantía Baja"
+        "en-US": "On success, randomly obtain one of the following with a certain chance:\n3x Varmeal Ticket\n2x Sin Fragment\n2x Virtue Fragment\n3x Green Radiation\n3x Red Radiation\n3x Blue Radiation\n1x Low Refine Box",
+        "pt-BR": "Caso tenha sucesso, você poderá receber aleatoriamente:\n3x Vale Varmida\n2x Fragmento de Pecado\n2x Fragmento de Virtude\n3x Radiação Verde\n3x Radiação Vermelha\n3x Radiação Azul\n1x Caixa de Baixo Refino",
+        "es-ES": "Si tiene éxito, con cierta probabilidad obtendrás aleatoriamente:\n3x Vale Varmida\n2x Fragmento de Pecado\n2x Fragmento de Virtud\n3x Radiación Verde\n3x Radiación Roja\n3x Radiación Azul\n1x Caja de Bajo Refinamiento"
     },
     "nqZkDQ": {
         "en-US": "Please prepare an Advanced Research.",
-        "pt-BR": "Prepare a Pesquisa Avançada",
+        "pt-BR": "Conduza a Pesquisa Avançada",
         "es-ES": "Prepara Investigación Avanzada"
     },
     "n6ZkDQ": {
         "en-US": "Conducting Advanced Research for 60 seconds.",
-        "pt-BR": "Estudando Pesquisa Avançada por 60 segundos",
+        "pt-BR": "Conduzindo Pesquisa Avançada por 60 segundos",
         "es-ES": "Investigando Investigación Avanzada durante 60 segundos"
     },
     "oKZkDQ": {
         "en-US": "Insufficient Advanced Research items. Please check your inventory.",
-        "pt-BR": "Falta quantidade de Pesquisa Avançada. Verifique seu inventário novamente.",
+        "pt-BR": "Quantidade de Pesquisa Avançada é insuficiente. Verifique seu inventário.",
         "es-ES": "Cantidad insuficiente de Investigación Avanzada. Revisa tu inventario"
     },
     "oaZkDQ": {
@@ -330,13 +330,13 @@
         "es-ES": "<ITEM>Investigación Profesional<INFO>1001680</INFO></ITEM>\nSe necesita 1 para investigar, y el tiempo de investigación es de 3 segundos\nDurante ese tiempo, no te muevas hasta que termine la investigación"
     },
     "oqZkDQ": {
-        "en-US": "On success, randomly obtain one of the following with a certain chance:\nVarmeal Ticket 5x\nMD Thanatos Fragment Material 3x\nGreen Radiation 5x\nRed Radiation 5x\nBlue Radiation 5x\nSealed Low Guarantee Ticket 1x\nSealed High Guarantee Ticket 1x",
-        "pt-BR": "Se bem-sucedido, você pode receber aleatoriamente:\n5x Vale Varmida\n3x Fragmento de Material MD Thanatos\n5x Radiação Verde\n5x Radiação Vermelha\n5x Radiação Azul\n1x Bilhete de Garantia Selado de Baixo Nível\n1x Bilhete de Garantia Selado de Alto Nível",
-        "es-ES": "Si tiene éxito, con cierta probabilidad obtendrás aleatoriamente:\n5 Vale Varmida\n3 Fragmentos de material de MD Thanatos\n5 Radiación Verde\n5 Radiación Roja\n5 Radiación Azul\n1 Ticket Sellado de Garantía Baja\n1 Ticket Sellado de Garantía Alta"
+        "en-US": "On success, randomly obtain one of the following with a certain chance:\n3x Varmeal Ticket\n3x Sin Fragment\n3x Virtue Fragment\n5x Green Radiation\n5x Red Radiation\n5x Blue Radiation\n1x Low Refine Box\n1x High Refine Box",
+        "pt-BR": "Caso tenha sucesso, você poderá receber aleatoriamente:\n3x Vale Varmida\n3x Fragmento de Pecado\n3x Fragmento de Virtude\n5x Radiação Verde\n5x Radiação Vermelha\n5x Radiação Azul\n1x Caixa de Baixo Refino\n1x Caixa de Alto Refino",
+        "es-ES": "Si tiene éxito, con cierta probabilidad obtendrás aleatoriamente:\n3x Vale Varmida\n3x Fragmento de Pecado\n3x Fragmento de Virtud\n5x Radiación Verde\n5x Radiación Roja\n5x Radiación Azul\n1x Caja de Bajo Refinamiento\n1x Caja de Alto Refinamiento"
     },
     "o6ZkDQ": {
         "en-US": "Please prepare a Professional Research.",
-        "pt-BR": "Prepare a Pesquisa Profissional",
+        "pt-BR": "Conduza a Pesquisa Profissional",
         "es-ES": "Prepara Investigación Profesional"
     },
     "pKZkDQ": {
@@ -346,12 +346,12 @@
     },
     "paZkDQ": {
         "en-US": "Insufficient Professional Research items. Please check your inventory.",
-        "pt-BR": "Faltam itens de Pesquisa Profissional. Verifique seu inventário novamente.",
+        "pt-BR": "Quantidade de Pesquisa Profissional insuficiente. Verifique seu inventário.",
         "es-ES": "Cantidad insuficiente de Investigación Profesional. Revisa tu inventario"
     },
     "pqZkDQ": {
         "en-US": "Thesis402",
-        "pt-BR": "Thesis402",
+        "pt-BR": "Tese402",
         "es-ES": "Tesis402"
     },
     "p6ZkDQ": {
@@ -361,7 +361,7 @@
     },
     "qKZkDQ": {
         "en-US": "Insufficient Basic Research items.",
-        "pt-BR": "Falta a tese de pesquisa básica.",
+        "pt-BR": "Quantidade de Pesquisa Básica insuficiente.",
         "es-ES": "Falta el documento de investigación básica."
     },
     "qaZkDQ": {
@@ -371,13 +371,13 @@
     },
     "qqZkDQ": {
         "en-US": "Advanced Research\nTo conduct research, you need:\n<ITEM>Advanced Research<INFO>1001679</INFO></ITEM>\n1 is required, and the research time is 60 seconds.\nIt is recommended not to move until the research is complete.",
-        "pt-BR": "Pesquisa Avançada\nPara realizar a pesquisa, é necessário:\n<ITEM>Pesquisa Avançada<INFO>1001679</INFO></ITEM>\n1 unidade, e o tempo de pesquisa é de 60 segundos.\nÉ recomendável não se mover até que a pesquisa termine.",
+        "pt-BR": "Pesquisa Avançada\nPara realizar a pesquisa, é necessário:\n<ITEM>Pesquisa Avançada<INFO>1001679</INFO></ITEM>\n1 unidade, e o tempo de pesquisa é de 60 segundos.\nRecomenda-se não se mover até que a pesquisa termine.",
         "es-ES": "Investigación Avanzada\nPara realizar la investigación necesitas:\n<ITEM>Investigación Avanzada<INFO>1001679</INFO></ITEM>\n1 pieza, y el tiempo de investigación es de 60 segundos.\nEs recomendable no moverte hasta que termine la investigación."
     },
     "q6ZkDQ": {
-        "en-US": "Upon success, you can obtain some of the following items:\nVarmeal Ticket 3x\nMD Thanatos Fragment Material 2x\nGreen Radiation 3x\nRed Radiation 3x\nBlue Radiation 3x\nSealed Low Guarantee Ticket 1x",
-        "pt-BR": "Em caso de sucesso, você pode receber alguns dos seguintes itens:\n3x Vale Varmida\n2x Fragmento de Material MD Thanatos\n3x Radiação Verde\n3x Radiação Vermelha\n3x Radiação Azul\n1x Bilhete de Garantia Selado de Baixo Nível",
-        "es-ES": "Si tiene éxito, podrás obtener algunos de los siguientes objetos:\n3 Vale Varmida\n2 Fragmentos de material de MD Thanatos\n3 Radiación Verde\n3 Radiación Roja\n3 Radiación Azul\n1 Ticket Sellado de Garantía Baja"
+        "en-US": "Upon success, you can obtain some of the following items:\n3x Varmeal Ticket\n2x Sin Fragment\n2x Virtue Fragment\n3x Green Radiation\n3x Red Radiation\n3x Blue Radiation\n1x Low Refine Box",
+        "pt-BR": "Em caso de sucesso, você poderá receber um dos seguintes itens:\n3x Vale Varmida\n2x Fragmento de Pecado\n2x Fragmento de Virtude\n3x Radiação Verde\n3x Radiação Vermelha\n3x Radiação Azul\n1x Caixa de Baixo Refino",
+        "es-ES": "Si tiene éxito, podrás obtener algunos de los siguientes objetos:\n3x Vale Varmida\n2x Fragmento de Pecado\n2x Fragmento de Virtud\n3x Radiación Verde\n3x Radiación Roja\n3x Radiación Azul\n1x Caja de Bajo Refinamiento"
     },
     "rKZkDQ": {
         "en-US": "Start the research?",
@@ -396,7 +396,7 @@
     },
     "r6ZkDQ": {
         "en-US": "Advanced Research is required.",
-        "pt-BR": "É necessário a Pesquisa Avançada.",
+        "pt-BR": "Pesquisa Avançada é requerida.",
         "es-ES": "Se necesita Investigación Avanzada."
     },
     "sKZkDQ": {
@@ -406,22 +406,22 @@
     },
     "saZkDQ": {
         "en-US": "Insufficient Advanced Research items.",
-        "pt-BR": "Faltam itens da Pesquisa Avançada.",
+        "pt-BR": "Quantidade de Pesquisa Avançada insuficiente.",
         "es-ES": "Falta Investigación Avanzada."
     },
     "sqZkDQ": {
         "en-US": "Professional Research\nTo conduct research, you need:\n<ITEM>Professional Research<INFO>1001680</INFO></ITEM>\n1 is required, and the research time is 3 seconds.\nIt is recommended not to move until the research is complete.",
-        "pt-BR": "Pesquisa Profissional\nPara realizar a pesquisa, é necessário:\n<ITEM>Pesquisa Profissional<INFO>1001680</INFO></ITEM>\n1 unidade, e o tempo de pesquisa é de 3 segundos.\nÉ recomendável não se mover até que a pesquisa termine.",
+        "pt-BR": "Pesquisa Profissional\nPara realizar a pesquisa, é necessário:\n<ITEM>Pesquisa Profissional<INFO>1001680</INFO></ITEM>\n1 unidade, e o tempo de pesquisa é de 3 segundos.\nRecomenda-se não se mover até que a pesquisa termine.",
         "es-ES": "Investigación Profesional\nPara realizar la investigación necesitas:\n<ITEM>Investigación Profesional<INFO>1001680</INFO></ITEM>\n1 pieza, y el tiempo de investigación es de 3 segundos.\nEs recomendable no moverte hasta que termine la investigación."
     },
     "s6ZkDQ": {
-        "en-US": "Upon success, you can obtain some of the following items:\nVarmeal Ticket 5x\nMD Thanatos Fragment Material 3x\nGreen Radiation 5x\nRed Radiation 5x\nBlue Radiation 5x\nSealed Low Guarantee Ticket 1x\nSealed High Guarantee Ticket 1x",
-        "pt-BR": "Em caso de sucesso, você pode receber alguns dos seguintes itens:\n5x Vale Varmida\n3x Fragmento de Material MD Thanatos\n5x Radiação Verde\n5x Radiação Vermelha\n5 Radiação Azul\n1x Bilhete de Garantia Selado de Baixo Nível\n1x Bilhete de Garantia Selado de Alto Nível",
-        "es-ES": "Si tiene éxito, podrás obtener algunos de los siguientes objetos:\n5 Vale Varmida\n3 Fragmentos de material de MD Thanatos\n5 Radiación Verde\n5 Radiación Roja\n5 Radiación Azul\n1 Ticket Sellado de Garantía Baja\n1 Ticket Sellado de Garantía Alta"
+        "en-US": "Upon success, you can obtain some of the following items:\n3x Varmeal Ticket\n3x Sin Fragment\n3x Virtue Fragment\n5x Green Radiation\n5x Red Radiation\n5x Blue Radiation\n1x Low Refine Box\n1x High Refine Box",
+        "pt-BR": "Em caso de sucesso, você poderá receber alguns dos seguintes itens:\n3x Vale Varmida\n3x Fragmento de Pecado\n3x Fragmento de Virtude\n5x Radiação Verde\n5x Radiação Vermelha\n5x Radiação Azul\n1x Caixa de Baixo Refino\n1x Caixa de Alto Refino",
+        "es-ES": "Si tiene éxito, podrás obtener algunos de los siguientes objetos:\n3x Vale Varmida\n3x Fragmento de Pecado\n3x Fragmento de Virtud\n5x Radiación Verde\n5x Radiación Roja\n5x Radiación Azul\n1x Caja de Bajo Refinamiento\n1x Caja de Alto Refinamiento"
     },
     "tKZkDQ": {
         "en-US": "Please prepare a Professional Research.",
-        "pt-BR": "Por favor, prepare a Pesquisa Profissional.",
+        "pt-BR": "Por favor, conduza a Pesquisa Profissional.",
         "es-ES": "Prepara Investigación Profesional."
     },
     "taZkDQ": {
@@ -431,12 +431,12 @@
     },
     "tqZkDQ": {
         "en-US": "Insufficient Professional Research items. Please check your inventory.",
-        "pt-BR": "Falta a Pesquisa Profissional. Verifique seu inventário.",
+        "pt-BR": "Quantidade de Pesquisa Profissional insuficiente. Verifique seu inventário.",
         "es-ES": "Falta Investigación Profesional. Revisa tu inventario."
     },
     "t6ZkDQ": {
         "en-US": "Thesis403",
-        "pt-BR": "Thesis403",
+        "pt-BR": "Tese403",
         "es-ES": "Tesis403"
     },
     "uKZkDQ": {
@@ -446,11 +446,11 @@
     },
     "uaZkDQ": {
         "en-US": "Basic Research",
-        "pt-BR": "Basic Research",
+        "pt-BR": "Pesquisa Básica",
         "es-ES": "Investigación Básica"
     },
     "uqZkDQ": {
-        "en-US": "Advanced Thesis",
+        "en-US": "Advanced Research",
         "pt-BR": "Pesquisa Avançada",
         "es-ES": "Investigación Avanzada"
     },
@@ -461,17 +461,17 @@
     },
     "vKZkDQ": {
         "en-US": "Basic Research\nTo conduct research, you need:\n<ITEM>Basic Research<INFO>1001678</INFO></ITEM>\n1 is required, and the research time is 180 seconds.\nIt is recommended not to move until the research is complete.",
-        "pt-BR": "Basic Research\nPara realizar a pesquisa, é necessário:\n<ITEM>Pesquisa Básica.<INFO>1001678</INFO></ITEM>\n1 unidade, e o tempo de pesquisa é de 180 segundos.\nÉ recomendável não se mover até que a pesquisa termine.",
+        "pt-BR": "Pesquisa Básica\nPara realizar a pesquisa, é necessário:\n<ITEM>Pesquisa Básica.<INFO>1001678</INFO></ITEM>\n1 unidade, e o tempo de pesquisa é de 180 segundos.\nRecomenda-se não se mover até que a pesquisa termine.",
         "es-ES": "Investigación Básica\nPara realizar la investigación necesitas:\n<ITEM>Investigación Básica<INFO>1001678</INFO></ITEM>\n1 pieza, y el tiempo de investigación es de 180 segundos.\nEs recomendable no moverte hasta que termine la investigación."
     },
     "vaZkDQ": {
-        "en-US": "Upon success, you can obtain some of the following items:\nVarmeal Ticket 1x\nMD Thanatos Fragment Material 1x\nGreen Radiation 1x\nRed Radiation 1x\nBlue Radiation 1x\nSealed Low Guarantee Ticket 1x",
-        "pt-BR": "Em caso de sucesso, você pode receber alguns dos seguintes itens:\n1x Vale Varmida\n1x Fragmento de Material MD Thanatos\n5x Radiação Verde\n5x Radiação Vermelha\n5x Radiação Azul\n1x Bilhete de Garantia Selado de Baixo Nível",
-        "es-ES": "Si tiene éxito, podrás obtener algunos de los siguientes objetos:\n1 Vale Varmida\n1 Fragmento de material de MD Thanatos\n1 Radiación Verde\n1 Radiación Roja\n1 Radiación Azul\n1 Ticket Sellado de Garantía Baja"
+        "en-US": "Upon success, you can obtain some of the following items:\n1x Varmeal Ticket\n1x Sin Fragment\n1x Virtue Fragment\n1x Green Radiation\n1x Red Radiation\n1x Blue Radiation\n1x Low Refine Box",
+        "pt-BR": "Em caso de sucesso, você poderá receber alguns dos seguintes itens:\n1x Vale Varmida\n1x Fragmento de Pecado\n1x Fragmento de Virtude\n1x Radiação Verde\n1x Radiação Vermelha\n1x Radiação Azul\n1x Caixa de Baixo Refino",
+        "es-ES": "Si tiene éxito, podrás obtener algunos de los siguientes objetos:\n1x Vale Varmida\n1x Fragmento de Pecado\n1x Fragmento de Virtud\n1x Radiación Verde\n1x Radiación Roja\n1x Radiación Azul\n1x Caja de Bajo Refinamiento"
     },
     "vqZkDQ": {
         "en-US": "Please prepare a Basic Research item.",
-        "pt-BR": "Por favor, prepare a Pesquisa Básica.",
+        "pt-BR": "Por favor, conduza a Pesquisa Básica.",
         "es-ES": "Prepara Investigación Básica."
     },
     "v6ZkDQ": {
@@ -481,37 +481,37 @@
     },
     "wKZkDQ": {
         "en-US": "Insufficient Basic Research items.",
-        "pt-BR": "Falta a tese de Pesquisa Básica.",
+        "pt-BR": "Quantidade de Pesquisa Básica insuficente.",
         "es-ES": "Falta Investigación Básica."
     },
     "waZkDQ": {
-        "en-US": "Advanced Thesis\nTo conduct research, you need:\n<ITEM>Advanced Thesis<INFO>1001679</INFO></ITEM>\n1 is required, and the research time is 60 seconds.\nIt is recommended not to move until the research is complete.",
-        "pt-BR": "Pesquisa Avançada\nPara realizar a pesquisa, é necessário:\n<ITEM>Pesquisa Avançada<INFO>1001679</INFO></ITEM>\n1 unidade, e o tempo de pesquisa é de 60 segundos.\nÉ recomendável não se mover até que a pesquisa termine.",
+        "en-US": "Advanced Research\nTo conduct research, you need:\n<ITEM>Advanced Research<INFO>1001679</INFO></ITEM>\n1 is required, and the research time is 60 seconds.\nIt is recommended not to move until the research is complete.",
+        "pt-BR": "Pesquisa Avançada\nPara realizar a pesquisa, é necessário:\n<ITEM>Pesquisa Avançada<INFO>1001679</INFO></ITEM>\n1 unidade, e o tempo de pesquisa é de 60 segundos.\nRecomenda-se não se mover até que a pesquisa termine.",
         "es-ES": "Investigación Avanzada\nPara realizar la investigación necesitas:\n<ITEM>Investigación Avanzada<INFO>1001679</INFO></ITEM>\n1 pieza, y el tiempo de investigación es de 60 segundos.\nEs recomendable no moverte hasta que termine la investigación."
     },
     "wqZkDQ": {
-        "en-US": "Please prepare an Advanced Thesis.",
-        "pt-BR": "Por favor, prepare a Pesquisa Avançada.",
+        "en-US": "Please prepare an Advanced Research.",
+        "pt-BR": "Por favor, conduza a Pesquisa Avançada.",
         "es-ES": "Prepara Investigación Avanzada."
     },
     "w6ZkDQ": {
-        "en-US": "Starting Advanced Thesis research for 60 seconds.",
+        "en-US": "Starting Advanced Research for 60 seconds.",
         "pt-BR": "Iniciando a Pesquisa Avançada por 60 segundos.",
         "es-ES": "Iniciando investigación de Investigación Avanzada durante 60 segundos."
     },
     "xKZkDQ": {
-        "en-US": "Insufficient Advanced Thesis items.",
-        "pt-BR": "Falta a tese de Pesquisa Avançada.",
+        "en-US": "Insufficient Advanced Research items.",
+        "pt-BR": "Quantidade de Pesquisa Avançada insuficiente.",
         "es-ES": "Falta Investigación Avanzada."
     },
     "xaZkDQ": {
         "en-US": "Insufficient Professional Research items.",
-        "pt-BR": "Falta a tese de Pesquisa Profissional.",
+        "pt-BR": "Quantidade de Pesquisa Profissional insuficiente.",
         "es-ES": "Falta Investigación Profesional."
     },
     "xqZkDQ": {
         "en-US": "Thesis404",
-        "pt-BR": "Thesis404",
+        "pt-BR": "Tese404",
         "es-ES": "Tesis404"
     },
     "x6ZkDQ": {
@@ -520,13 +520,13 @@
         "es-ES": "Selecciona la investigación a realizar."
     },
     "yKZkDQ": {
-        "en-US": "Insufficient Advanced Thesis items.",
-        "pt-BR": "Falta a tese de Pesquisa Avançada.",
+        "en-US": "Insufficient Advanced Research items.",
+        "pt-BR": "Quantidade de Pesquisa Avançada insuficiente.",
         "es-ES": "Falta Investigación Avanzada."
     },
     "yaZkDQ": {
         "en-US": "Thesis405",
-        "pt-BR": "Thesis405",
+        "pt-BR": "Tese405",
         "es-ES": "Tesis405"
     },
     "yqZkDQ": {
@@ -536,7 +536,7 @@
     },
     "y6ZkDQ": {
         "en-US": "Basic Research\nRequires the use of:\n<ITEM>Basic Research<INFO>1001678</INFO></ITEM>\n1 is needed for the research, which takes 180 seconds.\nPlease do not move until the research is complete.",
-        "pt-BR": "Pesquisa Básica (Basic Research)\nÉ necessário usar:\n<ITEM>Pesquisa Básica<INFO>1001678</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 180 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
+        "pt-BR": "Pesquisa Básica\nRequer o uso de:\n<ITEM>Pesquisa Básica<INFO>1001678</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 180 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
         "es-ES": "Investigación Básica\nDebes usar lo siguiente:\n<ITEM>Investigación Básica<INFO>1001678</INFO></ITEM>\nSe necesita 1 para investigar, y el tiempo de investigación es de 180 segundos\nDurante ese tiempo, no te muevas hasta que termine la investigación"
     },
     "zKZkDQ": {
@@ -545,23 +545,23 @@
         "es-ES": "Procediendo con Investigación Básica durante 180 segundos"
     },
     "zaZkDQ": {
-        "en-US": "Advanced Thesis\nRequires the use of:\n<ITEM>Advanced Thesis<INFO>1001679</INFO></ITEM>\n1 is needed for the research, which takes 60 seconds.\nPlease do not move until the research is complete.",
-        "pt-BR": "Pesquisa Avançada (Advanced Research)\nÉ necessário usar:\n<ITEM>Pesquisa Avançada<INFO>1001679</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 60 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
+        "en-US": "Advanced Research\nRequires the use of:\n<ITEM>Advanced Research<INFO>1001679</INFO></ITEM>\n1 is needed for the research, which takes 60 seconds.\nPlease do not move until the research is complete.",
+        "pt-BR": "Pesquisa Avançada\nRequer o uso de:\n<ITEM>Pesquisa Avançada<INFO>1001679</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 60 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
         "es-ES": "Investigación Avanzada\nDebes usar lo siguiente:\n<ITEM>Investigación Avanzada<INFO>1001679</INFO></ITEM>\nSe necesita 1 para investigar, y el tiempo de investigación es de 60 segundos\nDurante ese tiempo, no te muevas hasta que termine la investigación"
     },
     "zqZkDQ": {
-        "en-US": "Advanced Thesis is required.",
-        "pt-BR": "É necessário a Pesquisa Avançada.",
+        "en-US": "Advanced Research is required.",
+        "pt-BR": "Pesquisa Avançada é requerida.",
         "es-ES": "Se necesita Investigación Avanzada"
     },
     "z6ZkDQ": {
         "en-US": "Professional Research\nRequires the use of:\n<ITEM>Professional Research<INFO>1001680</INFO></ITEM>\n1 is needed for the research, which takes 3 seconds.\nPlease do not move until the research is complete.",
-        "pt-BR": "Pesquisa Profissional\nÉ necessário usar:\n<ITEM>Pesquisa Profissional<INFO>1001680</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 3 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
+        "pt-BR": "Pesquisa Profissional\nRequer o uso de:\n<ITEM>Pesquisa Profissional<INFO>1001680</INFO></ITEM>\n1 unidade é necessária para a pesquisa, e o tempo de pesquisa é de 3 segundos.\nDurante esse período, não se mova até que a pesquisa termine.",
         "es-ES": "Investigación Profesional\nDebes usar lo siguiente:\n<ITEM>Investigación Profesional<INFO>1001680</INFO></ITEM>\nSe necesita 1 para investigar, y el tiempo de investigación es de 3 segundos\nDurante ese tiempo, no te muevas hasta que termine la investigación"
     },
     "0KZkDQ": {
         "en-US": "Professional Research is required.",
-        "pt-BR": "É necessário a Pesquisa Profissional (Professional Research).",
+        "pt-BR": "Pesquisa Profissional é requerida.",
         "es-ES": "Se necesita Investigación Profesional"
     },
     "0aZkDQ": {
@@ -575,9 +575,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "06ZkDQ": {
-        "en-US": "Automatic Modification Module (Defense)",
+        "en-US": "Automodule B-DEF",
         "pt-BR": "Automódulo B-DEF",
-        "es-ES": "Módulo de Modificación Automática (Defensa)"
+        "es-ES": "Automódulo B-DEF"
     },
     "1KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -585,9 +585,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "1aZkDQ": {
-        "en-US": "Automatic Modification Module (Magic Defense)",
+        "en-US": "Automodule B-MDEF",
         "pt-BR": "Automódulo B-DEFM",
-        "es-ES": "Módulo de Modificación Automática (Defensa Mágica)"
+        "es-ES": "Automódulo B-DEFM"
     },
     "1qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -595,9 +595,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "16ZkDQ": {
-        "en-US": "Automatic Modification Module (Vit)",
+        "en-US": "Automodule B-VIT",
         "pt-BR": "Automódulo B-VIT",
-        "es-ES": "Módulo de Modificación Automática (Vit)"
+        "es-ES": "Automódulo B-VIT"
     },
     "2KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -605,9 +605,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "2aZkDQ": {
-        "en-US": "Automatic Modification Module (Luk)",
+        "en-US": "Automodule B-LUK",
         "pt-BR": "Automódulo B-SOR",
-        "es-ES": "Módulo de Modificación Automática (Luk)"
+        "es-ES": "Automódulo B-SUE"
     },
     "2qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -615,9 +615,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "26ZkDQ": {
-        "en-US": "Automatic Modification Module (Str)",
+        "en-US": "Automodule B-STR",
         "pt-BR": "Automódulo B-FOR",
-        "es-ES": "Módulo de Modificación Automática (Fza)"
+        "es-ES": "Automódulo B-FUE"
     },
     "3KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -625,9 +625,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "3aZkDQ": {
-        "en-US": "Automatic Modification Module (Agi)",
+        "en-US": "Automodule B-AGI",
         "pt-BR": "Automódulo B-AGI",
-        "es-ES": "Módulo de Modificación Automática (Agi)"
+        "es-ES": "Automódulo B-AGI"
     },
     "3qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -635,9 +635,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "36ZkDQ": {
-        "en-US": "Automatic Modification Module (Int)",
+        "en-US": "Automodule B-INT",
         "pt-BR": "Automódulo B-INT",
-        "es-ES": "Módulo de Modificación Automática (Int)"
+        "es-ES": "Automódulo B-INT"
     },
     "4KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -645,9 +645,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "4aZkDQ": {
-        "en-US": "Automatic Modification Module (Dex)",
+        "en-US": "Automodule B-DEX",
         "pt-BR": "Automódulo B-DES",
-        "es-ES": "Módulo de Modificación Automática (Dex)"
+        "es-ES": "Automódulo B-DES"
     },
     "4qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -655,9 +655,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "46ZkDQ": {
-        "en-US": "Automatic Modification Module (HP Recovery)",
+        "en-US": "Automodule M-HPR",
         "pt-BR": "Automódulo M-HPR",
-        "es-ES": "Módulo de Modificación Automática (Recuperación de HP)"
+        "es-ES": "Automódulo M-HPR"
     },
     "5KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -665,9 +665,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "5aZkDQ": {
-        "en-US": "Automatic Modification Module (SP Recovery)",
+        "en-US": "Automodule M-SPR",
         "pt-BR": "Automódulo M-SPR",
-        "es-ES": "Módulo de Modificación Automática (Recuperación de SP)"
+        "es-ES": "Automódulo M-SPR"
     },
     "5qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -675,9 +675,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "56ZkDQ": {
-        "en-US": "Automatic Modification Module (Spell)",
+        "en-US": "Automodule M-Charm",
         "pt-BR": "Automódulo M-Encanto",
-        "es-ES": "Módulo de Modificación Automática (Hechizo)"
+        "es-ES": "Automódulo M-Encanto"
     },
     "6KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -685,9 +685,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "6aZkDQ": {
-        "en-US": "Automatic Modification Module (Attack Speed)",
+        "en-US": "Automodule M-Delay",
         "pt-BR": "Automódulo M-Atraso",
-        "es-ES": "Módulo de Modificación Automática (Velocidad de Ataque)"
+        "es-ES": "Automódulo M-Retraso"
     },
     "6qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -695,9 +695,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "66ZkDQ": {
-        "en-US": "Automatic Modification Module (Fatal)",
+        "en-US": "Automodule M-Fatal",
         "pt-BR": "Automódulo M-Fatal",
-        "es-ES": "Módulo de Modificación Automática (Fatal)"
+        "es-ES": "Automódulo M-Fatal"
     },
     "7KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -705,9 +705,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "7aZkDQ": {
-        "en-US": "Automatic Modification Module (Expert Archer)",
+        "en-US": "Automodule M-Sight",
         "pt-BR": "Automódulo M-Mira",
-        "es-ES": "Módulo de Modificación Automática (Arquero Experto)"
+        "es-ES": "Automódulo M-Puntería"
     },
     "7qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -715,9 +715,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "76ZkDQ": {
-        "en-US": "Automatic Modification Module (Health)",
+        "en-US": "Automodule M-MaxHP",
         "pt-BR": "Automódulo M-HPMax",
-        "es-ES": "Módulo de Modificación Automática (Salud)"
+        "es-ES": "Automódulo M-HPMax"
     },
     "8KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -725,9 +725,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "8aZkDQ": {
-        "en-US": "Automatic Modification Module (SPR)",
+        "en-US": "Automodule M-MaxSP",
         "pt-BR": "Automódulo M-SPMax",
-        "es-ES": "Módulo de Modificación Automática (SPR)"
+        "es-ES": "Automódulo M-SPMax"
     },
     "8qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -735,9 +735,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "86ZkDQ": {
-        "en-US": "Automatic Modification Module (Heal)",
+        "en-US": "Automodule M-Heal",
         "pt-BR": "Automódulo M-Cura",
-        "es-ES": "Módulo de Modificación Automática (Curación)"
+        "es-ES": "Automódulo M-Cura"
     },
     "9KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -745,9 +745,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "9aZkDQ": {
-        "en-US": "Automatic Modification Module (ATK)",
+        "en-US": "Automodule M-ATK",
         "pt-BR": "Automódulo M-ATQ",
-        "es-ES": "Módulo de Modificación Automática (ATQ)"
+        "es-ES": "Automódulo M-ATQ"
     },
     "9qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -755,9 +755,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "96ZkDQ": {
-        "en-US": "Automatic Modification Module (MATK)",
+        "en-US": "Automodule M-MATK",
         "pt-BR": "Automódulo M-ATQM",
-        "es-ES": "Módulo de Modificación Automática (ATQM)"
+        "es-ES": "Automódulo M-ATQM"
     },
     "+KZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -785,9 +785,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "/aZkDQ": {
-        "en-US": "Automatic Modification Module (Caster)",
+        "en-US": "Automodule M-Magic",
         "pt-BR": "Automódulo M-Magia",
-        "es-ES": "Módulo de Modificación Automática (Lanzador)"
+        "es-ES": "Automódulo M-Magia"
     },
     "/qZkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -795,9 +795,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "/6ZkDQ": {
-        "en-US": "Automatic Modification Module (Critical)",
+        "en-US": "Automodule M-CRIT",
         "pt-BR": "Automódulo M-CRIT",
-        "es-ES": "Módulo de Modificación Automática (Crítico)"
+        "es-ES": "Automódulo M-CRÍT"
     },
     "AKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -805,9 +805,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "AadkDQ": {
-        "en-US": "Automatic Modification Module (Magical Force)",
+        "en-US": "Automodule P-Magic",
         "pt-BR": "Automódulo P-Mágico",
-        "es-ES": "Módulo de Modificación Automática (Fuerza Mágica)"
+        "es-ES": "Automódulo P-Mágico"
     },
     "AqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -815,9 +815,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "A6dkDQ": {
-        "en-US": "Automatic Modification Module (Attacker Force)",
+        "en-US": "Automodule P-Barbarian",
         "pt-BR": "Automódulo P-Bárbaro",
-        "es-ES": "Módulo de Modificación Automática (Fuerza de Atacante)"
+        "es-ES": "Automódulo P-Bárbaro"
     },
     "BKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -825,9 +825,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "BadkDQ": {
-        "en-US": "Automatic Modification Module (Range Force)",
+        "en-US": "Automodule P-Gunner",
         "pt-BR": "Automódulo P-Artilheiro",
-        "es-ES": "Módulo de Modificación Automática (Fuerza a Distancia)"
+        "es-ES": "Automódulo P-Artillero"
     },
     "BqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -835,9 +835,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "B6dkDQ": {
-        "en-US": "Automatic Modification Module (Critical Force)",
+        "en-US": "Automodule P-Critical",
         "pt-BR": "Automódulo P-Crítico",
-        "es-ES": "Módulo de Modificación Automática (Fuerza Crítica)"
+        "es-ES": "Automódulo P-Crítico"
     },
     "CKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -845,9 +845,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "CadkDQ": {
-        "en-US": "Automatic Modification Module (Recovery Force)",
+        "en-US": "Automodule P-Healer",
         "pt-BR": "Automódulo P-Curandeiro",
-        "es-ES": "Módulo de Modificación Automática (Fuerza de Recuperación)"
+        "es-ES": "Automódulo P-Curandero"
     },
     "CqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -855,9 +855,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "C6dkDQ": {
-        "en-US": "Automatic Modification Module (Mirror Counter)",
+        "en-US": "Automodule P-Mirror",
         "pt-BR": "Automódulo P-Espelho",
-        "es-ES": "Módulo de Modificación Automática (Contraataque de Espejo)"
+        "es-ES": "Automódulo P-Espejo"
     },
     "DKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -865,9 +865,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "DadkDQ": {
-        "en-US": "Automatic Modification Module (Global Cooldown)",
+        "en-US": "Automodule P-Cast",
         "pt-BR": "Automódulo P-Pós",
-        "es-ES": "Módulo de Modificación Automática (Enfriamiento Global)"
+        "es-ES": "Automódulo P-Post"
     },
     "DqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -875,9 +875,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "D6dkDQ": {
-        "en-US": "Automatic Modification Module (Fixed Casting)",
+        "en-US": "Automodule P-Fixed",
         "pt-BR": "Automódulo P-Fixa",
-        "es-ES": "Módulo de Modificación Automática (Lanzamiento Fijo)"
+        "es-ES": "Automódulo P-Conjuración"
     },
     "EKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -885,9 +885,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "EadkDQ": {
-        "en-US": "Automatic Modification Module (Above All)",
+        "en-US": "Automodule P-Total",
         "pt-BR": "Automódulo P-Total",
-        "es-ES": "Módulo de Modificación Automática (Sobre Todo)"
+        "es-ES": "Automódulo P-Total"
     },
     "EqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -895,9 +895,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "E6dkDQ": {
-        "en-US": "Automatic Modification Module (Drain Life)",
+        "en-US": "Automodule P-Life",
         "pt-BR": "Automódulo P-Vida",
-        "es-ES": "Módulo de Modificación Automática (Absorber Vida)"
+        "es-ES": "Automódulo P-Vida"
     },
     "FKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -905,9 +905,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "FadkDQ": {
-        "en-US": "Automatic Modification Module (Drain Soul)",
+        "en-US": "Automodule P-Soul",
         "pt-BR": "Automódulo P-Alma",
-        "es-ES": "Módulo de Modificación Automática (Absorber Alma)"
+        "es-ES": "Automódulo P-Alma"
     },
     "FqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -915,9 +915,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "F6dkDQ": {
-        "en-US": "Automatic Modification Module (Magic Healing)",
+        "en-US": "Automodule P-Mental",
         "pt-BR": "Automódulo P-Mental",
-        "es-ES": "Módulo de Modificación Automática (Curación Mágica)"
+        "es-ES": "Automódulo P-Mental"
     },
     "GKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -925,9 +925,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "GadkDQ": {
-        "en-US": "Automatic Modification Module (Magic Soul)",
+        "en-US": "Automodule P-Mana",
         "pt-BR": "Automódulo P-Mana",
-        "es-ES": "Módulo de Modificación Automática (Alma Mágica)"
+        "es-ES": "Automódulo P-Maná"
     },
     "GqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -935,9 +935,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "G6dkDQ": {
-        "en-US": "Automatic Modification Module (Power Force)",
+        "en-US": "Automodule P-Hybrid",
         "pt-BR": "Automódulo P-Híbrido",
-        "es-ES": "Módulo de Modificación Automática (Fuerza Poderosa)"
+        "es-ES": "Automódulo P-Híbrido"
     },
     "HKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -945,9 +945,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "HadkDQ": {
-        "en-US": "Automatic Modification Module (Robust)",
+        "en-US": "Automodule P-Robust",
         "pt-BR": "Automódulo P-Robusto",
-        "es-ES": "Módulo de Modificación Automática (Robusto)"
+        "es-ES": "Automódulo P-Robusto"
     },
     "HqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -955,9 +955,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "H6dkDQ": {
-        "en-US": "Automatic Modification Module (Powerful)",
+        "en-US": "Automodule P-Damage",
         "pt-BR": "Automódulo P-Dano",
-        "es-ES": "Módulo de Modificación Automática (Potente)"
+        "es-ES": "Automódulo P-Daño"
     },
     "IKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -965,9 +965,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "IadkDQ": {
-        "en-US": "Automatic Modification Module (All Force)",
+        "en-US": "Automodule P-General",
         "pt-BR": "Automódulo P-Geral",
-        "es-ES": "Módulo de Modificación Automática (Todas las Fuerzas)"
+        "es-ES": "Automódulo P-General"
     },
     "IqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -975,9 +975,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "I6dkDQ": {
-        "en-US": "Automatic Modification Module (Reflection Reject)",
+        "en-US": "Automodule P-Reflector",
         "pt-BR": "Automódulo P-Refletor",
-        "es-ES": "Módulo de Modificación Automática (Rechazo de Reflejo)"
+        "es-ES": "Automódulo P-Reflector"
     },
     "JKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -985,9 +985,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "JadkDQ": {
-        "en-US": "Automatic Module (Unlimited Vitality)",
+        "en-US": "Automodule F-Eternity",
         "pt-BR": "Automódulo F-Eternidade",
-        "es-ES": "Módulo Automático (Vitalidad Ilimitada)"
+        "es-ES": "Automódulo F-Eternidad"
     },
     "JqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -995,9 +995,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "J6dkDQ": {
-        "en-US": "Automatic Module (Spell Buster)",
+        "en-US": "Automodule F-Sorcery",
         "pt-BR": "Automódulo F-Sortilégio",
-        "es-ES": "Módulo Automático (Rompehechizos)"
+        "es-ES": "Automódulo F-Hechicería"
     },
     "KKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1005,9 +1005,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "KadkDQ": {
-        "en-US": "Automatic Module (Firing Shot)",
+        "en-US": "Automodule F-Cunning",
         "pt-BR": "Automódulo F-Astúcia",
-        "es-ES": "Módulo Automático (Disparo Fusilero)"
+        "es-ES": "Automódulo F-Astucia"
     },
     "KqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1015,9 +1015,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "K6dkDQ": {
-        "en-US": "Automatic Module (Overpower)",
+        "en-US": "Automodule F-Superpower",
         "pt-BR": "Automódulo F-Superpoder",
-        "es-ES": "Módulo Automático (Avasallar)"
+        "es-ES": "Automódulo F-Superpoder"
     },
     "LKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1025,9 +1025,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "LadkDQ": {
-        "en-US": "Automatic Module (Fatal Flash)",
+        "en-US": "Automodule F-Flash",
         "pt-BR": "Automódulo F-Lampejo",
-        "es-ES": "Módulo Automático (Destello Mortal)"
+        "es-ES": "Automódulo F-Destello"
     },
     "LqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1035,9 +1035,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "L6dkDQ": {
-        "en-US": "Automatic Module (Lucky Strike)",
+        "en-US": "Automodule F-Fortune",
         "pt-BR": "Automódulo F-Fortuna",
-        "es-ES": "Módulo Automático (Golpe de Suerte)"
+        "es-ES": "Automódulo F-Fortuna"
     },
     "MKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1045,9 +1045,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "MadkDQ": {
-        "en-US": "Automatic Module (Dragonic Breath)",
+        "en-US": "Automodule H-Dragon",
         "pt-BR": "Automódulo H-Dragão",
-        "es-ES": "Módulo Automático (Aliento de Dragón)"
+        "es-ES": "Automódulo H-Dragón"
     },
     "MqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1055,9 +1055,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "M6dkDQ": {
-        "en-US": "Automatic Module (Wave Break)",
+        "en-US": "Automodule H-Runic",
         "pt-BR": "Automódulo H-Rúnico",
-        "es-ES": "Módulo Automático (Rompeolas)"
+        "es-ES": "Automódulo H-Rúnico"
     },
     "NKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1065,9 +1065,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "NadkDQ": {
-        "en-US": "Automatic Module (Hundred Spiral)",
+        "en-US": "Automodule H-Spear",
         "pt-BR": "Automódulo H-Lança",
-        "es-ES": "Módulo Automático (Espiral Cien)"
+        "es-ES": "Automódulo H-Lanza"
     },
     "NqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1075,9 +1075,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "N6dkDQ": {
-        "en-US": "Automatic Module (Drive Press)",
+        "en-US": "Automodule H-Shield",
         "pt-BR": "Automódulo H-Escudo",
-        "es-ES": "Módulo Automático (Prensa Motriz)"
+        "es-ES": "Automódulo H-Escudo"
     },
     "OKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1085,9 +1085,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "OadkDQ": {
-        "en-US": "Automatic Module (Banishing Cannon)",
+        "en-US": "Automodule H-Hoplite",
         "pt-BR": "Automódulo H-Hoplita",
-        "es-ES": "Módulo Automático (Cañón Desterrador)"
+        "es-ES": "Automódulo H-Hoplita"
     },
     "OqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1095,9 +1095,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "O6dkDQ": {
-        "en-US": "Automatic Module (Genesis Pressure)",
+        "en-US": "Automodule H-Domini",
         "pt-BR": "Automódulo H-Domini",
-        "es-ES": "Módulo Automático (Presión del Génesis)"
+        "es-ES": "Automódulo H-Domini"
     },
     "PKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1105,9 +1105,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "PadkDQ": {
-        "en-US": "Automatic Module (Boost Cannon)",
+        "en-US": "Automodule H-Cannon",
         "pt-BR": "Automódulo H-Canhão",
-        "es-ES": "Módulo Automático (Cañón Impulsor)"
+        "es-ES": "Automódulo H-Cañón"
     },
     "PqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1115,9 +1115,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "P6dkDQ": {
-        "en-US": "Automatic Module (Cold Flare)",
+        "en-US": "Automodule H-Robot",
         "pt-BR": "Automódulo H-Robô",
-        "es-ES": "Módulo Automático (Llama Fría)"
+        "es-ES": "Automódulo H-Robot"
     },
     "QKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1125,9 +1125,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "QadkDQ": {
-        "en-US": "Automatic Module (Tornado Swing)",
+        "en-US": "Automodule H-Axe",
         "pt-BR": "Automódulo H-Machado",
-        "es-ES": "Módulo Automático (Giro Tornado)"
+        "es-ES": "Automódulo H-Hacha"
     },
     "QqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1135,9 +1135,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "Q6dkDQ": {
-        "en-US": "Automatic Module (Cannon Tornado)",
+        "en-US": "Automodule H-Cart",
         "pt-BR": "Automódulo H-Carrinho",
-        "es-ES": "Módulo Automático (Cañón Tornado)"
+        "es-ES": "Automódulo H-Carreta"
     },
     "RKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1145,9 +1145,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "RadkDQ": {
-        "en-US": "Automatic Module (Crazy Mandragora)",
+        "en-US": "Automodule H-Plant",
         "pt-BR": "Automódulo H-Planta",
-        "es-ES": "Módulo Automático (Mandrágora Loca)"
+        "es-ES": "Automódulo H-Planta"
     },
     "RqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1155,9 +1155,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "R6dkDQ": {
-        "en-US": "Automatic Module (Acid Explosion)",
+        "en-US": "Automodule H-Chemistry",
         "pt-BR": "Automódulo H-Química",
-        "es-ES": "Módulo Automático (Explosión Ácida)"
+        "es-ES": "Automódulo H-Química"
     },
     "SKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1165,9 +1165,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "SadkDQ": {
-        "en-US": "Automatic Module (Sonic Impact)",
+        "en-US": "Automodule H-Blades",
         "pt-BR": "Automódulo H-Lâminas",
-        "es-ES": "Módulo Automático (Impacto Sónico)"
+        "es-ES": "Automódulo H-Hojas"
     },
     "SqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1175,9 +1175,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "S6dkDQ": {
-        "en-US": "Automatic Module (Cutter Slasher)",
+        "en-US": "Automodule H-Cutter",
         "pt-BR": "Automódulo H-Loki",
-        "es-ES": "Módulo Automático (Cuchillada Cortante)"
+        "es-ES": "Automódulo H-Espiral"
     },
     "TKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1185,9 +1185,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "TadkDQ": {
-        "en-US": "Automatic Module (Berserk Slash)",
+        "en-US": "Automodule H-Duelist",
         "pt-BR": "Automódulo H-Duelista",
-        "es-ES": "Módulo Automático (Tajo Berserker)"
+        "es-ES": "Automódulo H-Duelista"
     },
     "TqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1195,9 +1195,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "T6dkDQ": {
-        "en-US": "Automatic Module (Fatal Raid)",
+        "en-US": "Automodule H-Menace",
         "pt-BR": "Automódulo H-Ofensiva",
-        "es-ES": "Módulo Automático (Incursión Mortal)"
+        "es-ES": "Automódulo H-Amenaza"
     },
     "UKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1205,9 +1205,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "UadkDQ": {
-        "en-US": "Automatic Module (Shadow Spell)",
+        "en-US": "Automodule H-Desire",
         "pt-BR": "Automódulo H-Desejo",
-        "es-ES": "Módulo Automático (Hechizo Sombrío)"
+        "es-ES": "Automódulo H-Deseo"
     },
     "UqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1215,9 +1215,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "U6dkDQ": {
-        "en-US": "Automatic Module (Angle Shot)",
+        "en-US": "Automodule H-Triple",
         "pt-BR": "Automódulo H-Triplo",
-        "es-ES": "Módulo Automático (Disparo Angulado)"
+        "es-ES": "Automódulo H-Triple"
     },
     "VKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1225,9 +1225,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "VadkDQ": {
-        "en-US": "Automatic Module (Crimson Strain)",
+        "en-US": "Automodule H-Mystic",
         "pt-BR": "Automódulo H-Místico",
-        "es-ES": "Módulo Automático (Tensión Carmesí)"
+        "es-ES": "Automódulo H-Místico"
     },
     "VqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1235,9 +1235,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "V6dkDQ": {
-        "en-US": "Automatic Module (Jack Lightning)",
+        "en-US": "Automodule H-Arcanist",
         "pt-BR": "Automódulo H-Arcanista",
-        "es-ES": "Módulo Automático (Jack Relámpago)"
+        "es-ES": "Automódulo H-Arcanista"
     },
     "WKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1245,9 +1245,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "WadkDQ": {
-        "en-US": "Automatic Module (Comet Vortex)",
+        "en-US": "Automodule H-Neutral",
         "pt-BR": "Automódulo H-Neutral",
-        "es-ES": "Módulo Automático (Vórtice Cometa)"
+        "es-ES": "Automódulo H-Neutral"
     },
     "WqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1255,9 +1255,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "W6dkDQ": {
-        "en-US": "Automatic Module (Double Bolt)",
+        "en-US": "Automodule H-Elemental",
         "pt-BR": "Automódulo H-Elemental",
-        "es-ES": "Módulo Automático (Doble Rayo)"
+        "es-ES": "Automódulo H-Elemental"
     },
     "XKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1265,9 +1265,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "XadkDQ": {
-        "en-US": "Automatic Module (Warm Wave)",
+        "en-US": "Automodule H-Psychic",
         "pt-BR": "Automódulo H-Psíquico",
-        "es-ES": "Módulo Automático (Ola Cálida)"
+        "es-ES": "Automódulo H-Psíquico"
     },
     "XqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1275,9 +1275,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "X6dkDQ": {
-        "en-US": "Automatic Module (Diamond Dust)",
+        "en-US": "Automodule H-Spell",
         "pt-BR": "Automódulo H-Feitiço",
-        "es-ES": "Módulo Automático (Tumba de Diamante)"
+        "es-ES": "Automódulo H-Hechizo"
     },
     "YKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1285,9 +1285,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "YadkDQ": {
-        "en-US": "Automatic Module (Magnusmus)",
+        "en-US": "Automodule H-Exorcism",
         "pt-BR": "Automódulo H-Exorcismo",
-        "es-ES": "Módulo Automático (Magnusmus)"
+        "es-ES": "Automódulo H-Exorcismo"
     },
     "YqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1295,9 +1295,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "Y6dkDQ": {
-        "en-US": "Automatic Module (Holy Judex)",
+        "en-US": "Automodule H-Sacred",
         "pt-BR": "Automódulo H-Sagrado",
-        "es-ES": "Módulo Automático (Holy Judex)"
+        "es-ES": "Automódulo H-Sagrado"
     },
     "ZKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1305,9 +1305,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "ZadkDQ": {
-        "en-US": "Automatic Module (Duple Lica)",
+        "en-US": "Automodule H-Saint",
         "pt-BR": "Automódulo H-Santo",
-        "es-ES": "Módulo Automático (Duple Lica)"
+        "es-ES": "Automódulo H-Santo"
     },
     "ZqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1315,9 +1315,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "Z6dkDQ": {
-        "en-US": "Automatic Module (Tiger Empire)",
+        "en-US": "Automodule H-Fighter",
         "pt-BR": "Automódulo H-Lutador",
-        "es-ES": "Módulo Automático (Imperio Tigre)"
+        "es-ES": "Automódulo H-Luchador"
     },
     "aKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1325,9 +1325,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "aadkDQ": {
-        "en-US": "Automatic Module (Rampage Arrow)",
+        "en-US": "Automodule H-Corporeal",
         "pt-BR": "Automódulo H-Corporal",
-        "es-ES": "Módulo Automático (Flecha Arrasadora)"
+        "es-ES": "Automódulo H-Corporal"
     },
     "aqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1335,9 +1335,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "a6dkDQ": {
-        "en-US": "Automatic Module (Raging Combo)",
+        "en-US": "Automodule H-Combo",
         "pt-BR": "Automódulo H-Combo",
-        "es-ES": "Módulo Automático (Combo Furioso)"
+        "es-ES": "Automódulo H-Combo"
     },
     "bKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1345,9 +1345,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "badkDQ": {
-        "en-US": "Automatic Module (Cluster)",
+        "en-US": "Automodule H-Bomb",
         "pt-BR": "Automódulo H-Bomba",
-        "es-ES": "Módulo Automático (Cluster)"
+        "es-ES": "Automódulo H-Bomba"
     },
     "bqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1355,9 +1355,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "b6dkDQ": {
-        "en-US": "Automatic Module (Breeze Shooting)",
+        "en-US": "Automodule H-Sniper",
         "pt-BR": "Automódulo H-Atirador",
-        "es-ES": "Módulo Automático (Disparo Brisa)"
+        "es-ES": "Automódulo H-Tirador"
     },
     "cKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1365,9 +1365,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "cadkDQ": {
-        "en-US": "Automatic Module (Aimed Storm)",
+        "en-US": "Automodule H-Arrow",
         "pt-BR": "Automódulo H-Flecha",
-        "es-ES": "Módulo Automático (Tormenta Apuntada)"
+        "es-ES": "Automódulo H-Flecha"
     },
     "cqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1375,9 +1375,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "c6dkDQ": {
-        "en-US": "Automatic Module (Metal Echo)",
+        "en-US": "Automodule H-Song",
         "pt-BR": "Automódulo H-Canção",
-        "es-ES": "Módulo Automático (Eco Metálico)"
+        "es-ES": "Automódulo H-Canción"
     },
     "dKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1385,9 +1385,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "dadkDQ": {
-        "en-US": "Automatic Module (Reverberation)",
+        "en-US": "Automodule H-Musical",
         "pt-BR": "Automódulo H-Musical",
-        "es-ES": "Módulo Automático (Reverberación)"
+        "es-ES": "Automódulo H-Musical"
     },
     "dqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1395,9 +1395,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "d6dkDQ": {
-        "en-US": "Automatic Module (Vulcan Severe)",
+        "en-US": "Automodule H-Rainstorm",
         "pt-BR": "Automódulo H-Temporal",
-        "es-ES": "Módulo Automático (Vulcano Severo)"
+        "es-ES": "Automódulo H-Tormenta"
     },
     "eKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1405,9 +1405,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "eadkDQ": {
-        "en-US": "Automatic Module (Prominence Burst)",
+        "en-US": "Automodule H-Solar",
         "pt-BR": "Automódulo H-Solar",
-        "es-ES": "Módulo Automático (Estallido de Prominencia)"
+        "es-ES": "Automódulo H-Solar"
     },
     "eqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1415,9 +1415,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "e6dkDQ": {
-        "en-US": "Automatic Module (Moon Kick)",
+        "en-US": "Automodule H-Lunar",
         "pt-BR": "Automódulo H-Lunar",
-        "es-ES": "Módulo Automático (Patada Lunar)"
+        "es-ES": "Automódulo H-Lunar"
     },
     "fKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1425,9 +1425,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "fadkDQ": {
-        "en-US": "Automatic Module (Flash Falling)",
+        "en-US": "Automodule H-Stellar",
         "pt-BR": "Automódulo H-Estelar",
-        "es-ES": "Módulo Automático (Caída Relámpago)"
+        "es-ES": "Automódulo H-Estelar"
     },
     "fqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1435,9 +1435,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "f6dkDQ": {
-        "en-US": "Automatic Module (Eswhoo)",
+        "en-US": "Automodule H-Souls",
         "pt-BR": "Automódulo H-Almas",
-        "es-ES": "Módulo Automático (Eswhoo)"
+        "es-ES": "Automódulo H-Almas"
     },
     "gKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1445,9 +1445,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "gadkDQ": {
-        "en-US": "Automatic Module (Espa)",
+        "en-US": "Automodule H-Spirit",
         "pt-BR": "Automódulo H-Espírito",
-        "es-ES": "Módulo Automático (Espa)"
+        "es-ES": "Automódulo H-Espíritu"
     },
     "gqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1455,9 +1455,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "g6dkDQ": {
-        "en-US": "Automatic Module (Curse Explosion)",
+        "en-US": "Automodule H-Necro",
         "pt-BR": "Automódulo H-Necro",
-        "es-ES": "Módulo Automático (Explosión Maldita)"
+        "es-ES": "Automódulo H-Maldición"
     },
     "hKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1465,9 +1465,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "hadkDQ": {
-        "en-US": "Automatic Module (Des Hammer Dance)",
+        "en-US": "Automodule H-Revolver",
         "pt-BR": "Automódulo H-Revólver",
-        "es-ES": "Módulo Automático (Danza del Martillo Des)"
+        "es-ES": "Automódulo H-Revólver"
     },
     "hqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1475,9 +1475,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "h6dkDQ": {
-        "en-US": "Automatic Module (Fire Howling Tail)",
+        "en-US": "Automodule H-Grenade",
         "pt-BR": "Automódulo H-Granada",
-        "es-ES": "Módulo Automático (Cola Aullante de Fuego)"
+        "es-ES": "Automódulo H-Granada"
     },
     "iKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1485,9 +1485,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "iadkDQ": {
-        "en-US": "Automatic Module (Storm Buster Trip)",
+        "en-US": "Automodule H-Shotgun",
         "pt-BR": "Automódulo H-Espingarda",
-        "es-ES": "Módulo Automático (Viaje Tormenta Buster)"
+        "es-ES": "Automódulo H-Escopeta"
     },
     "iqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1495,9 +1495,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "i6dkDQ": {
-        "en-US": "Automatic Module (Flame Ice Wind)",
+        "en-US": "Automodule H-Ninpou",
         "pt-BR": "Automódulo H-Ninpou",
-        "es-ES": "Módulo Automático (Viento de Hielo Llameante)"
+        "es-ES": "Automódulo H-Ninpou"
     },
     "jKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1505,9 +1505,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "jadkDQ": {
-        "en-US": "Automatic Module (Cross Slash)",
+        "en-US": "Automodule H-Taijutsu",
         "pt-BR": "Automódulo H-Taijutsu",
-        "es-ES": "Módulo Automático (Corte Cruzado)"
+        "es-ES": "Automódulo H-Taijutsu"
     },
     "jqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1515,9 +1515,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "j6dkDQ": {
-        "en-US": "Automatic Module (Exploding Flake Wind)",
+        "en-US": "Automodule H-Mahou",
         "pt-BR": "Automódulo H-Mahou",
-        "es-ES": "Módulo Automático (Viento de Copo Explosivo)"
+        "es-ES": "Automódulo H-Mahou"
     },
     "kKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1525,9 +1525,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "kadkDQ": {
-        "en-US": "Automatic Module (Power of Sea)",
+        "en-US": "Automodule H-Tide",
         "pt-BR": "Automódulo H-Maré",
-        "es-ES": "Módulo Automático (Poder del Mar)"
+        "es-ES": "Automódulo H-Marea"
     },
     "kqdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1535,9 +1535,9 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "k6dkDQ": {
-        "en-US": "Automatic Module (Power of Land)",
+        "en-US": "Automodule H-Jungle",
         "pt-BR": "Automódulo H-Selva",
-        "es-ES": "Módulo Automático (Poder de la Tierra)"
+        "es-ES": "Automódulo H-Selva"
     },
     "lKdkDQ": {
         "en-US": "^AAAAAA(Number of Modules held: 0)^000000",
@@ -1545,18 +1545,18 @@
         "es-ES": "^AAAAAA(Módulos en posesión: 0)^000000"
     },
     "ladkDQ": {
-        "en-US": "Automatic Module (Power of Life)",
+        "en-US": "Automodule H-Fauna",
         "pt-BR": "Automódulo H-Fauna",
-        "es-ES": "Módulo Automático (Poder de la Vida)"
+        "es-ES": "Automódulo H-Fauna"
     },
     "lqdkDQ": {
-        "en-US": "[Orange Cat]\nI can exchange Module 17.2 for Material Battle Pass.\nOne material is randomly selected from the list below to receive.\n<ITEM>Red Radiation<INFO>1001676</INFO></ITEM>\n<ITEM>Green Radiation<INFO>1001675</INFO></ITEM>\n<ITEM>Blue Radiation<INFO>1001677</INFO></ITEM>",
-        "pt-BR": "[Gato Laranja]\nEu posso trocar Módulos 17.2 por Material do Passe de Batalha.\nUm dos materiais da lista abaixo será escolhido aleatoriamente:\n<ITEM>Radiação Vermelha<INFO>1001676</INFO></ITEM>\n<ITEM>Radiação Verde<INFO>1001675</INFO></ITEM>\n<ITEM>Radiação Azul<INFO>1001677</INFO></ITEM>",
-        "es-ES": "[Gato Naranja]\nPuedo cambiar Módulos 17.2 por Materiales del Pase de Batalla\nDe la lista a continuación, se elige al azar 1 material:\n<ITEM>Radiación Roja<INFO>1001676</INFO></ITEM>\n<ITEM>Radiación Verde<INFO>1001675</INFO></ITEM>\n<ITEM>Radiación Azul<INFO>1001677</INFO></ITEM>"
+        "en-US": "[Orange Cat]\nI can exchange Modules for Battle Pass Material.\nOne material is randomly selected from the list below to receive.\n<ITEM>Red Radiation<INFO>1001676</INFO></ITEM>\n<ITEM>Green Radiation<INFO>1001675</INFO></ITEM>\n<ITEM>Blue Radiation<INFO>1001677</INFO></ITEM>",
+        "pt-BR": "[Gato Laranja]\nEu posso trocar Módulos por Material do Passe de Batalha.\nUm dos materiais da lista abaixo será escolhido aleatoriamente:\n<ITEM>Radiação Vermelha<INFO>1001676</INFO></ITEM>\n<ITEM>Radiação Verde<INFO>1001675</INFO></ITEM>\n<ITEM>Radiação Azul<INFO>1001677</INFO></ITEM>",
+        "es-ES": "[Gato Naranja]\nPuedo cambiar Módulos por Materiales del Pase de Batalla\nDe la lista a continuación, se elige al azar 1 material:\n<ITEM>Radiación Roja<INFO>1001676</INFO></ITEM>\n<ITEM>Radiación Verde<INFO>1001675</INFO></ITEM>\n<ITEM>Radiación Azul<INFO>1001677</INFO></ITEM>"
     },
     "l6dkDQ": {
         "en-US": "[Orange Cat]\nPlease select the Module to proceed.",
-        "pt-BR": "[Gato Laranja]\nPor favor, selecione o Módulo a ser processado.",
+        "pt-BR": "[Gato Laranja]\nPor favor, selecione o Módulo para continuar.",
         "es-ES": "[Gato Naranja]\nSelecciona el Módulo a procesar"
     },
     "mKdkDQ": {
@@ -1600,444 +1600,444 @@
         "es-ES": "[Gato Naranja]\nCerrando conversación"
     },
     "oKdkDQ": {
-        "en-US": "Automatic Modification Module (Defense)",
+        "en-US": "Automodule B-DEF",
         "pt-BR": "Automódulo B-DEF",
-        "es-ES": "Módulo de Modificación Automática (Defensa)"
+        "es-ES": "Automódulo B-DEF"
     },
     "oadkDQ": {
-        "en-US": "Automatic Modification Module (Magic Defense)",
+        "en-US": "Automodule B-MDEF",
         "pt-BR": "Automódulo B-DEFM",
-        "es-ES": "Módulo de Modificación Automática (Defensa Mágica)"
+        "es-ES": "Automódulo B-DEFM"
     },
     "oqdkDQ": {
-        "en-US": "Automatic Modification Module (Vit)",
+        "en-US": "Automodule B-VIT",
         "pt-BR": "Automódulo B-VIT",
-        "es-ES": "Módulo de Modificación Automática (Vit)"
+        "es-ES": "Automódulo B-VIT"
     },
     "o6dkDQ": {
-        "en-US": "Automatic Modification Module (Luk)",
+        "en-US": "Automodule B-LUK",
         "pt-BR": "Automódulo B-SOR",
-        "es-ES": "Módulo de Modificación Automática (Luk)"
+        "es-ES": "Automódulo B-SUE"
     },
     "pKdkDQ": {
-        "en-US": "Automatic Modification Module (Str)",
+        "en-US": "Automodule B-STR",
         "pt-BR": "Automódulo B-FOR",
-        "es-ES": "Módulo de Modificación Automática (Fza)"
+        "es-ES": "Automódulo B-FUE"
     },
     "padkDQ": {
-        "en-US": "Automatic Modification Module (Agi)",
+        "en-US": "Automodule B-AGI",
         "pt-BR": "Automódulo B-AGI",
-        "es-ES": "Módulo de Modificación Automática (Agi)"
+        "es-ES": "Automódulo B-AGI"
     },
     "pqdkDQ": {
-        "en-US": "Automatic Modification Module (Int)",
+        "en-US": "Automodule B-INT",
         "pt-BR": "Automódulo B-INT",
-        "es-ES": "Módulo de Modificación Automática (Int)"
+        "es-ES": "Automódulo B-INT"
     },
     "p6dkDQ": {
-        "en-US": "Automatic Modification Module (Dex)",
+        "en-US": "Automodule B-DEX",
         "pt-BR": "Automódulo B-DES",
-        "es-ES": "Módulo de Modificación Automática (Dex)"
+        "es-ES": "Automódulo B-DES"
     },
     "qKdkDQ": {
-        "en-US": "Automatic Modification Module (HP Recovery)",
+        "en-US": "Automodule M-HPR",
         "pt-BR": "Automódulo M-HPR",
-        "es-ES": "Módulo de Modificación Automática (Recuperación de HP)"
+        "es-ES": "Automódulo M-HPR"
     },
     "qadkDQ": {
-        "en-US": "Automatic Modification Module (SP Recovery)",
+        "en-US": "Automodule M-SPR",
         "pt-BR": "Automódulo M-SPR",
-        "es-ES": "Módulo de Modificación Automática (Recuperación de SP)"
+        "es-ES": "Automódulo M-SPR"
     },
     "qqdkDQ": {
-        "en-US": "Automatic Modification Module (Spell)",
+        "en-US": "Automodule M-Charm",
         "pt-BR": "Automódulo M-Encanto",
-        "es-ES": "Módulo de Modificación Automática (Hechizo)"
+        "es-ES": "Automódulo M-Encanto"
     },
     "q6dkDQ": {
-        "en-US": "Automatic Modification Module (Attack Speed)",
+        "en-US": "Automodule M-Delay",
         "pt-BR": "Automódulo M-Atraso",
-        "es-ES": "Módulo de Modificación Automática (Velocidad de Ataque)"
+        "es-ES": "Automódulo M-Retraso"
     },
     "rKdkDQ": {
-        "en-US": "Automatic Modification Module (Fatal)",
+        "en-US": "Automodule M-Fatal",
         "pt-BR": "Automódulo M-Fatal",
-        "es-ES": "Módulo de Modificación Automática (Fatal)"
+        "es-ES": "Automódulo M-Fatal"
     },
     "radkDQ": {
-        "en-US": "Automatic Modification Module (Expert Archer)",
+        "en-US": "Automodule M-Sight",
         "pt-BR": "Automódulo M-Mira",
-        "es-ES": "Módulo de Modificación Automática (Arquero Experto)"
+        "es-ES": "Automódulo M-Puntería"
     },
     "rqdkDQ": {
-        "en-US": "Automatic Modification Module (Health)",
+        "en-US": "Automodule M-MaxHP",
         "pt-BR": "Automódulo M-HPMax",
-        "es-ES": "Módulo de Modificación Automática (Salud)"
+        "es-ES": "Automódulo M-HPMax"
     },
     "r6dkDQ": {
-        "en-US": "Automatic Modification Module (SPR)",
+        "en-US": "Automodule M-MaxSP",
         "pt-BR": "Automódulo M-SPMax",
-        "es-ES": "Módulo de Modificación Automática (SPR)"
+        "es-ES": "Automódulo M-SPMax"
     },
     "sKdkDQ": {
-        "en-US": "Automatic Modification Module (Heal)",
+        "en-US": "Automodule M-Heal",
         "pt-BR": "Automódulo M-Cura",
-        "es-ES": "Módulo de Modificación Automática (Curación)"
+        "es-ES": "Automódulo M-Cura"
     },
     "sadkDQ": {
-        "en-US": "Automatic Modification Module (ATK)",
+        "en-US": "Automodule M-ATK",
         "pt-BR": "Automódulo M-ATQ",
-        "es-ES": "Módulo de Modificación Automática (ATQ)"
+        "es-ES": "Automódulo M-ATQ"
     },
     "sqdkDQ": {
-        "en-US": "Automatic Modification Module (MATK)",
+        "en-US": "Automodule M-MATK",
         "pt-BR": "Automódulo M-ATQM",
-        "es-ES": "Módulo de Modificación Automática (ATQM)"
+        "es-ES": "Automódulo M-ATQM"
     },
     "s6dkDQ": {
-        "en-US": "Automatic Modification Module (Sharpshooter)",
+        "en-US": "Automodule M-Shoot",
         "pt-BR": "Automódulo M-Tiro",
-        "es-ES": "Módulo de Modificación Automática (Tirador)"
+        "es-ES": "Automódulo M-Tiro"
     },
     "tKdkDQ": {
-        "en-US": "Automatic Modification Module (Fast)",
+        "en-US": "Automodule M-Aspd",
         "pt-BR": "Automódulo M-Rapidez",
-        "es-ES": "Módulo de Modificación Automática (Rápido)"
+        "es-ES": "Automódulo M-Rapidez"
     },
     "tadkDQ": {
-        "en-US": "Automatic Modification Module (Caster)",
+        "en-US": "Automodule M-Magic",
         "pt-BR": "Automódulo M-Magia",
-        "es-ES": "Módulo de Modificación Automática (Lanzador)"
+        "es-ES": "Automódulo M-Magia"
     },
     "tqdkDQ": {
-        "en-US": "Automatic Modification Module (Critical)",
+        "en-US": "Automodule M-CRIT",
         "pt-BR": "Automódulo M-CRIT",
-        "es-ES": "Módulo de Modificación Automática (Crítico)"
+        "es-ES": "Automódulo M-CRÍT"
     },
     "t6dkDQ": {
-        "en-US": "Automatic Modification Module (Magical Force)",
+        "en-US": "Automodule P-Magic",
         "pt-BR": "Automódulo P-Mágico",
-        "es-ES": "Módulo de Modificación Automática (Fuerza Mágica)"
+        "es-ES": "Automódulo P-Mágico"
     },
     "uKdkDQ": {
-        "en-US": "Automatic Modification Module (Attacker Force)",
+        "en-US": "Automodule P-Barbarian",
         "pt-BR": "Automódulo P-Bárbaro",
-        "es-ES": "Módulo de Modificación Automática (Fuerza de Atacante)"
+        "es-ES": "Automódulo P-Bárbaro"
     },
     "uadkDQ": {
-        "en-US": "Automatic Modification Module (Range Force)",
+        "en-US": "Automodule P-Gunner",
         "pt-BR": "Automódulo P-Artilheiro",
-        "es-ES": "Módulo de Modificación Automática (Fuerza a Distancia)"
+        "es-ES": "Automódulo P-Artillero"
     },
     "uqdkDQ": {
-        "en-US": "Automatic Modification Module (Critical Force)",
+        "en-US": "Automodule P-Critical",
         "pt-BR": "Automódulo P-Crítico",
-        "es-ES": "Módulo de Modificación Automática (Fuerza Crítica)"
+        "es-ES": "Automódulo P-Crítico"
     },
     "u6dkDQ": {
-        "en-US": "Automatic Modification Module (Recovery Force)",
+        "en-US": "Automodule P-Healer",
         "pt-BR": "Automódulo P-Curandeiro",
-        "es-ES": "Módulo de Modificación Automática (Fuerza de Recuperación)"
+        "es-ES": "Automódulo P-Curandero"
     },
     "vKdkDQ": {
-        "en-US": "Automatic Modification Module (Mirror Counter)",
+        "en-US": "Automodule P-Mirror",
         "pt-BR": "Automódulo P-Espelho",
-        "es-ES": "Módulo de Modificación Automática (Contraataque de Espejo)"
+        "es-ES": "Automódulo P-Espejo"
     },
     "vadkDQ": {
-        "en-US": "Automatic Modification Module (Global Cooldown)",
+        "en-US": "Automodule P-Cast",
         "pt-BR": "Automódulo P-Pós",
-        "es-ES": "Módulo de Modificación Automática (Enfriamiento Global)"
+        "es-ES": "Automódulo P-Post"
     },
     "vqdkDQ": {
-        "en-US": "Automatic Modification Module (Fixed Casting)",
+        "en-US": "Automodule P-Fixed",
         "pt-BR": "Automódulo P-Fixa",
-        "es-ES": "Módulo de Modificación Automática (Lanzamiento Fijo)"
+        "es-ES": "Automódulo P-Conjuración"
     },
     "v6dkDQ": {
-        "en-US": "Automatic Modification Module (Above All)",
+        "en-US": "Automodule P-Total",
         "pt-BR": "Automódulo P-Total",
-        "es-ES": "Módulo de Modificación Automática (Sobre Todo)"
+        "es-ES": "Automódulo P-Total"
     },
     "wKdkDQ": {
-        "en-US": "Automatic Modification Module (Drain Life)",
+        "en-US": "Automodule P-Life",
         "pt-BR": "Automódulo P-Vida",
-        "es-ES": "Módulo de Modificación Automática (Absorber Vida)"
+        "es-ES": "Automódulo P-Vida"
     },
     "wadkDQ": {
-        "en-US": "Automatic Modification Module (Drain Soul)",
+        "en-US": "Automodule P-Soul",
         "pt-BR": "Automódulo P-Alma",
-        "es-ES": "Módulo de Modificación Automática (Absorber Alma)"
+        "es-ES": "Automódulo P-Alma"
     },
     "wqdkDQ": {
-        "en-US": "Automatic Modification Module (Magic Healing)",
+        "en-US": "Automodule P-Mental",
         "pt-BR": "Automódulo P-Mental",
-        "es-ES": "Módulo de Modificación Automática (Curación Mágica)"
+        "es-ES": "Automódulo P-Mental"
     },
     "w6dkDQ": {
-        "en-US": "Automatic Modification Module (Magic Soul)",
+        "en-US": "Automodule P-Mana",
         "pt-BR": "Automódulo P-Mana",
-        "es-ES": "Módulo de Modificación Automática (Alma Mágica)"
+        "es-ES": "Automódulo P-Maná"
     },
     "xKdkDQ": {
-        "en-US": "Automatic Modification Module (Power Force)",
+        "en-US": "Automodule P-Hybrid",
         "pt-BR": "Automódulo P-Híbrido",
-        "es-ES": "Módulo de Modificación Automática (Fuerza Poderosa)"
+        "es-ES": "Automódulo P-Híbrido"
     },
     "xadkDQ": {
-        "en-US": "Automatic Modification Module (Robust)",
+        "en-US": "Automodule P-Robust",
         "pt-BR": "Automódulo P-Robusto",
-        "es-ES": "Módulo de Modificación Automática (Robusto)"
+        "es-ES": "Automódulo P-Robusto"
     },
     "xqdkDQ": {
-        "en-US": "Automatic Modification Module (Powerful)",
+        "en-US": "Automodule P-Damage",
         "pt-BR": "Automódulo P-Dano",
-        "es-ES": "Módulo de Modificación Automática (Potente)"
+        "es-ES": "Automódulo P-Daño"
     },
     "x6dkDQ": {
-        "en-US": "Automatic Modification Module (All Force)",
+        "en-US": "Automodule P-General",
         "pt-BR": "Automódulo P-Geral",
-        "es-ES": "Módulo de Modificación Automática (Todas las Fuerzas)"
+        "es-ES": "Automódulo P-General"
     },
     "yKdkDQ": {
-        "en-US": "Automatic Modification Module (Reflection Reject)",
+        "en-US": "Automodule P-Reflector",
         "pt-BR": "Automódulo P-Refletor",
-        "es-ES": "Módulo de Modificación Automática (Rechazo de Reflejo)"
+        "es-ES": "Automódulo P-Reflector"
     },
     "yadkDQ": {
-        "en-US": "Automatic Module (Unlimited Vitality)",
+        "en-US": "Automodule F-Eternity",
         "pt-BR": "Automódulo F-Eternidade",
-        "es-ES": "Módulo Automático (Vitalidad Ilimitada)"
+        "es-ES": "Automódulo F-Eternidad"
     },
     "yqdkDQ": {
-        "en-US": "Automatic Module (Spell Buster)",
+        "en-US": "Automodule F-Sorcery",
         "pt-BR": "Automódulo F-Sortilégio",
-        "es-ES": "Módulo Automático (Rompehechizos)"
+        "es-ES": "Automódulo F-Hechicería"
     },
     "y6dkDQ": {
-        "en-US": "Automatic Module (Firing Shot)",
+        "en-US": "Automodule F-Cunning",
         "pt-BR": "Automódulo F-Astúcia",
-        "es-ES": "Módulo Automático (Disparo Fusilero)"
+        "es-ES": "Automódulo F-Astucia"
     },
     "zKdkDQ": {
-        "en-US": "Automatic Module (Overpower)",
+        "en-US": "Automodule F-Superpower",
         "pt-BR": "Automódulo F-Superpoder",
-        "es-ES": "Módulo Automático (Avasallar)"
+        "es-ES": "Automódulo F-Superpoder"
     },
     "zadkDQ": {
-        "en-US": "Automatic Module (Fatal Flash)",
+        "en-US": "Automodule F-Flash",
         "pt-BR": "Automódulo F-Lampejo",
-        "es-ES": "Módulo Automático (Destello Mortal)"
+        "es-ES": "Automódulo F-Destello"
     },
     "zqdkDQ": {
-        "en-US": "Automatic Module (Lucky Strike)",
+        "en-US": "Automodule F-Fortune",
         "pt-BR": "Automódulo F-Fortuna",
-        "es-ES": "Módulo Automático (Golpe de Suerte)"
+        "es-ES": "Automódulo F-Fortuna"
     },
     "z6dkDQ": {
-        "en-US": "Automatic Module (Dragonic Breath)",
+        "en-US": "Automodule H-Dragon",
         "pt-BR": "Automódulo H-Dragão",
-        "es-ES": "Módulo Automático (Aliento de Dragón)"
+        "es-ES": "Automódulo H-Dragón"
     },
     "0KdkDQ": {
-        "en-US": "Automatic Module (Wave Break)",
+        "en-US": "Automodule H-Runic",
         "pt-BR": "Automódulo H-Rúnico",
-        "es-ES": "Módulo Automático (Rompeolas)"
+        "es-ES": "Automódulo H-Rúnico"
     },
     "0adkDQ": {
-        "en-US": "Automatic Module (Hundred Spiral)",
+        "en-US": "Automodule H-Spear",
         "pt-BR": "Automódulo H-Lança",
-        "es-ES": "Módulo Automático (Espiral Cien)"
+        "es-ES": "Automódulo H-Lanza"
     },
     "0qdkDQ": {
-        "en-US": "Automatic Module (Drive Press)",
+        "en-US": "Automodule H-Shield",
         "pt-BR": "Automódulo H-Escudo",
-        "es-ES": "Módulo Automático (Prensa Motriz)"
+        "es-ES": "Automódulo H-Escudo"
     },
     "06dkDQ": {
-        "en-US": "Automatic Module (Banishing Cannon)",
+        "en-US": "Automodule H-Hoplite",
         "pt-BR": "Automódulo H-Hoplita",
-        "es-ES": "Módulo Automático (Cañón Desterrador)"
+        "es-ES": "Automódulo H-Hacha"
     },
     "1KdkDQ": {
-        "en-US": "Automatic Module (Genesis Pressure)",
+        "en-US": "Automodule H-Domini",
         "pt-BR": "Automódulo H-Domini",
-        "es-ES": "Módulo Automático (Presión del Génesis)"
+        "es-ES": "Automódulo H-Carreta"
     },
     "1adkDQ": {
-        "en-US": "Automatic Module (Boost Cannon)",
+        "en-US": "Automodule H-Cannon",
         "pt-BR": "Automódulo H-Canhão",
-        "es-ES": "Módulo Automático (Cañón Impulsor)"
+        "es-ES": "Automódulo H-Planta"
     },
     "1qdkDQ": {
-        "en-US": "Automatic Module (Cold Flare)",
+        "en-US": "Automodule H-Robot",
         "pt-BR": "Automódulo H-Robô",
-        "es-ES": "Módulo Automático (Llama Fría)"
+        "es-ES": "Automódulo H-Química"
     },
     "16dkDQ": {
-        "en-US": "Automatic Module (Tornado Swing)",
+        "en-US": "Automodule H-Axe",
         "pt-BR": "Automódulo H-Machado",
-        "es-ES": "Módulo Automático (Giro Tornado)"
+        "es-ES": "Automódulo H-Hojas"
     },
     "2KdkDQ": {
-        "en-US": "Automatic Module (Cannon Tornado)",
+        "en-US": "Automodule H-Cart",
         "pt-BR": "Automódulo H-Carrinho",
-        "es-ES": "Módulo Automático (Cañón Tornado)"
+        "es-ES": "Automódulo H-Espiral"
     },
     "2adkDQ": {
-        "en-US": "Automatic Module (Crazy Mandragora)",
+        "en-US": "Automodule H-Plant",
         "pt-BR": "Automódulo H-Planta",
-        "es-ES": "Módulo Automático (Mandrágora Loca)"
+        "es-ES": "Automódulo H-Duelista"
     },
     "2qdkDQ": {
-        "en-US": "Automatic Module (Acid Explosion)",
+        "en-US": "Automodule H-Chemistry",
         "pt-BR": "Automódulo H-Química",
-        "es-ES": "Módulo Automático (Explosión Ácida)"
+        "es-ES": "Automódulo H-Amenaza"
     },
     "26dkDQ": {
-        "en-US": "Automatic Module (Sonic Impact)",
+        "en-US": "Automodule H-Blades",
         "pt-BR": "Automódulo H-Lâminas",
-        "es-ES": "Módulo Automático (Impacto Sónico)"
+        "es-ES": "Automódulo H-Deseo"
     },
     "3KdkDQ": {
-        "en-US": "Automatic Module (Cutter Slasher)",
+        "en-US": "Automodule H-Cutter",
         "pt-BR": "Automódulo H-Loki",
-        "es-ES": "Módulo Automático (Cuchillada Cortante)"
+        "es-ES": "Automódulo H-Triple"
     },
     "3adkDQ": {
-        "en-US": "Automatic Module (Berserk Slash)",
+        "en-US": "Automodule H-Duelist",
         "pt-BR": "Automódulo H-Duelista",
-        "es-ES": "Módulo Automático (Tajo Berserker)"
+        "es-ES": "Automódulo H-Místico"
     },
     "3qdkDQ": {
-        "en-US": "Automatic Module (Fatal Raid)",
+        "en-US": "Automodule H-Menace",
         "pt-BR": "Automódulo H-Ofensiva",
-        "es-ES": "Módulo Automático (Incursión Mortal)"
+        "es-ES": "Automódulo H-Arcanista"
     },
     "36dkDQ": {
-        "en-US": "Automatic Module (Shadow Spell)",
+        "en-US": "Automodule H-Desire",
         "pt-BR": "Automódulo H-Desejo",
-        "es-ES": "Módulo Automático (Hechizo Sombrío)"
+        "es-ES": "Automódulo H-Neutral"
     },
     "4KdkDQ": {
-        "en-US": "Automatic Module (Angle Shot)",
+        "en-US": "Automodule H-Triple",
         "pt-BR": "Automódulo H-Triplo",
-        "es-ES": "Módulo Automático (Disparo Angulado)"
+        "es-ES": "Automódulo H-Elemental"
     },
     "4adkDQ": {
-        "en-US": "Automatic Module (Crimson Strain)",
+        "en-US": "Automodule H-Mystic",
         "pt-BR": "Automódulo H-Místico",
-        "es-ES": "Módulo Automático (Tensión Carmesí)"
+        "es-ES": "Automódulo H-Psíquico"
     },
     "4qdkDQ": {
-        "en-US": "Automatic Module (Jack Lightning)",
+        "en-US": "Automodule H-Arcanist",
         "pt-BR": "Automódulo H-Arcanista",
-        "es-ES": "Módulo Automático (Jack Relámpago)"
+        "es-ES": "Automódulo H-Hechizo"
     },
     "46dkDQ": {
-        "en-US": "Automatic Module (Comet Vortex)",
+        "en-US": "Automodule H-Neutral",
         "pt-BR": "Automódulo H-Neutral",
-        "es-ES": "Módulo Automático (Vórtice Cometa)"
+        "es-ES": "Automódulo H-Exorcismo"
     },
     "5KdkDQ": {
-        "en-US": "Automatic Module (Double Bolt)",
+        "en-US": "Automodule H-Elemental",
         "pt-BR": "Automódulo H-Elemental",
-        "es-ES": "Módulo Automático (Doble Rayo)"
+        "es-ES": "Automódulo H-Sagrado"
     },
     "5adkDQ": {
-        "en-US": "Automatic Module (Warm Wave)",
+        "en-US": "Automodule H-Psychic",
         "pt-BR": "Automódulo H-Psíquico",
-        "es-ES": "Módulo Automático (Ola Cálida)"
+        "es-ES": "Automódulo H-Santo"
     },
     "5qdkDQ": {
-        "en-US": "Automatic Module (Diamond Dust)",
+        "en-US": "Automodule H-Spell",
         "pt-BR": "Automódulo H-Feitiço",
-        "es-ES": "Módulo Automático (Tumba de Diamante)"
+        "es-ES": "Automódulo H-Luchador"
     },
     "56dkDQ": {
-        "en-US": "Automatic Module (Magnusmus)",
+        "en-US": "Automodule H-Exorcism",
         "pt-BR": "Automódulo H-Exorcismo",
-        "es-ES": "Módulo Automático (Magnusmus)"
+        "es-ES": "Automódulo H-Corporal"
     },
     "6KdkDQ": {
-        "en-US": "Automatic Module (Holy Judex)",
+        "en-US": "Automodule H-Sacred",
         "pt-BR": "Automódulo H-Sagrado",
-        "es-ES": "Módulo Automático (Holy Judex)"
+        "es-ES": "Automódulo H-Combo"
     },
     "6adkDQ": {
-        "en-US": "Automatic Module (Duple Lica)",
+        "en-US": "Automodule H-Saint",
         "pt-BR": "Automódulo H-Santo",
-        "es-ES": "Módulo Automático (Duple Lica)"
+        "es-ES": "Automódulo H-Bomba"
     },
     "6qdkDQ": {
-        "en-US": "Automatic Module (Tiger Empire)",
+        "en-US": "Automodule H-Fighter",
         "pt-BR": "Automódulo H-Lutador",
-        "es-ES": "Módulo Automático (Imperio Tigre)"
+        "es-ES": "Automódulo H-Tirador"
     },
     "66dkDQ": {
-        "en-US": "Automatic Module (Rampage Arrow)",
+        "en-US": "Automodule H-Corporeal",
         "pt-BR": "Automódulo H-Corporal",
-        "es-ES": "Módulo Automático (Flecha Arrasadora)"
+        "es-ES": "Automódulo H-Flecha"
     },
     "7KdkDQ": {
-        "en-US": "Automatic Module (Raging Combo)",
+        "en-US": "Automodule H-Combo",
         "pt-BR": "Automódulo H-Combo",
-        "es-ES": "Módulo Automático (Combo Furioso)"
+        "es-ES": "Automódulo H-Canción"
     },
     "7adkDQ": {
-        "en-US": "Automatic Module (Cluster)",
+        "en-US": "Automodule H-Bomb",
         "pt-BR": "Automódulo H-Bomba",
-        "es-ES": "Módulo Automático (Cluster)"
+        "es-ES": "Automódulo H-Musical"
     },
     "7qdkDQ": {
-        "en-US": "Automatic Module (Breeze Shooting)",
+        "en-US": "Automodule H-Sniper",
         "pt-BR": "Automódulo H-Atirador",
-        "es-ES": "Módulo Automático (Disparo Brisa)"
+        "es-ES": "Automódulo H-Tormenta"
     },
     "76dkDQ": {
-        "en-US": "Automatic Module (Aimed Storm)",
+        "en-US": "Automodule H-Arrow",
         "pt-BR": "Automódulo H-Flecha",
-        "es-ES": "Módulo Automático (Tormenta Apuntada)"
+        "es-ES": "Automódulo H-Solar"
     },
     "8KdkDQ": {
-        "en-US": "Automatic Module (Metal Echo)",
+        "en-US": "Automodule H-Song",
         "pt-BR": "Automódulo H-Canção",
-        "es-ES": "Módulo Automático (Eco Metálico)"
+        "es-ES": "Automódulo H-Lunar"
     },
     "8adkDQ": {
-        "en-US": "Automatic Module (Reverberation)",
+        "en-US": "Automodule H-Musical",
         "pt-BR": "Automódulo H-Musical",
-        "es-ES": "Módulo Automático (Reverberación)"
+        "es-ES": "Automódulo H-Estelar"
     },
     "8qdkDQ": {
-        "en-US": "Automatic Module (Vulcan Severe)",
+        "en-US": "Automodule H-Rainstorm",
         "pt-BR": "Automódulo H-Temporal",
-        "es-ES": "Módulo Automático (Vulcano Severo)"
+        "es-ES": "Automódulo H-Almas"
     },
     "86dkDQ": {
-        "en-US": "Automatic Module (Prominence Burst)",
+        "en-US": "Automodule H-Solar",
         "pt-BR": "Automódulo H-Solar",
-        "es-ES": "Módulo Automático (Estallido de Prominencia)"
+        "es-ES": "Automódulo H-Espíritu"
     },
     "9KdkDQ": {
-        "en-US": "Automatic Module (Moon Kick)",
+        "en-US": "Automodule H-Lunar",
         "pt-BR": "Automódulo H-Lunar",
-        "es-ES": "Módulo Automático (Patada Lunar)"
+        "es-ES": "Automódulo H-Maldición"
     },
     "9adkDQ": {
-        "en-US": "Automatic Module (Flash Falling)",
+        "en-US": "Automodule H-Stellar",
         "pt-BR": "Automódulo H-Estelar",
-        "es-ES": "Módulo Automático (Caída Relámpago)"
+        "es-ES": "Automódulo H-Revólver"
     },
     "9qdkDQ": {
-        "en-US": "Automatic Module (Eswhoo)",
+        "en-US": "Automodule H-Souls",
         "pt-BR": "Automódulo H-Almas",
-        "es-ES": "Módulo Automático (Eswhoo)"
+        "es-ES": "Automódulo H-Granada"
     },
     "96dkDQ": {
-        "en-US": "Automatic Module (Espa)",
+        "en-US": "Automodule H-Spirit",
         "pt-BR": "Automódulo H-Espírito",
-        "es-ES": "Módulo Automático (Espa)"
+        "es-ES": "Automódulo H-Escopeta"
     },
     "+KdkDQ": {
         "en-US": "Automatic Module (Curse Explosion)",
@@ -2060,38 +2060,38 @@
         "es-ES": "Módulo Automático (Viaje Tormenta Buster)"
     },
     "/KdkDQ": {
-        "en-US": "Automatic Module (Flame Ice Wind)",
+        "en-US": "Automodule H-Ninpou",
         "pt-BR": "Automódulo H-Ninpou",
-        "es-ES": "Módulo Automático (Viento de Hielo Llameante)"
+        "es-ES": "Automódulo H-Ninpou"
     },
     "/adkDQ": {
-        "en-US": "Automatic Module (Cross Slash)",
+        "en-US": "Automodule H-Taijutsu",
         "pt-BR": "Automódulo H-Taijutsu",
-        "es-ES": "Módulo Automático (Corte Cruzado)"
+        "es-ES": "Automódulo H-Taijutsu"
     },
     "/qdkDQ": {
-        "en-US": "Automatic Module (Exploding Flake Wind)",
+        "en-US": "Automodule H-Mahou",
         "pt-BR": "Automódulo H-Mahou",
-        "es-ES": "Módulo Automático (Viento de Copo Explosivo)"
+        "es-ES": "Automódulo H-Mahou"
     },
     "/6dkDQ": {
-        "en-US": "Automatic Module (Power of Sea)",
+        "en-US": "Automodule H-Tide",
         "pt-BR": "Automódulo H-Maré",
-        "es-ES": "Módulo Automático (Poder del Mar)"
+        "es-ES": "Automódulo H-Marea"
     },
     "AKhkDQ": {
-        "en-US": "Automatic Module (Power of Land)",
+        "en-US": "Automodule H-Jungle",
         "pt-BR": "Automódulo H-Selva",
-        "es-ES": "Módulo Automático (Poder de la Tierra)"
+        "es-ES": "Automódulo H-Selva"
     },
     "AahkDQ": {
-        "en-US": "Automatic Module (Power of Life)",
+        "en-US": "Automodule H-Fauna",
         "pt-BR": "Automódulo H-Fauna",
-        "es-ES": "Módulo Automático (Poder de la Vida)"
+        "es-ES": "Automódulo H-Fauna"
     },
     "AqhkDQ": {
         "en-US": "[Orange Cat]\nThe currently selected Module is {0}.\nNumber of obtainable materials:\nMinimum: {1}\nMaximum: {2}\nProceed?",
-        "pt-BR": "[Gato Laranja]\nO módulo atual em processamento é: {0}\nQuantidade mínima de materiais obtidos: {1}\nQuantidade máxima de materiais obtidos: {2}\nDeseja continuar?",
+        "pt-BR": "[Gato Laranja]\nO módulo selecionado é: {0}\nQuantidade mínima de materiais obtíveis: {1}\nQuantidade máxima de materiais obtíveis: {2}\nDeseja continuar?",
         "es-ES": "[Gato Naranja]\nEl Módulo actual en proceso es {0}\nCantidad de materiales obtenibles:\nMínimo: {1}\nMáximo: {2}\n¿Deseas continuar?"
     },
     "A6hkDQ": {
@@ -2101,12 +2101,12 @@
     },
     "BKhkDQ": {
         "en-US": "[Orange Cat]\nThe Module to proceed is not in your inventory. Please check again.",
-        "pt-BR": "[Gato Laranja]\nO módulo para processamento não está no inventário. Verifique novamente.",
+        "pt-BR": "[Gato Laranja]\nO módulo necessário não está no seu inventário. Verifique e tente novamenbte.",
         "es-ES": "[Gato Naranja]\nEl Módulo a procesar no está en el inventario. Revísalo nuevamente"
     },
     "BahkDQ": {
         "en-US": "[Orange Cat]\nThank you for using this service.\nPlease come again anytime if you need additional materials.",
-        "pt-BR": "[Gato Laranja]\nObrigado por usar meus serviços.\nSe precisar de mais materiais, volte sempre.",
+        "pt-BR": "[Gato Laranja]\nObrigado por usar meus serviços.\nVolte sempre que precisar de mais materiais.",
         "es-ES": "[Gato Naranja]\nGracias por usar el servicio.\nSi necesitas más materiales, vuelve cuando quieras"
     },
     "BqhkDQ": {
@@ -2155,28 +2155,28 @@
         "es-ES": "P-Mágico"
     },
     "D6hkDQ": {
-        "en-US": "Battle Pass Modification Orb (Magical Force)",
-        "pt-BR": "P-Mágico",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Fuerza Mágica)"
+        "en-US": "Cast Enchant",
+        "pt-BR": "Encanto de Conjuração",
+        "es-ES": "Encanto de Lanzamiento"
     },
     "EKhkDQ": {
-        "en-US": "Battle Pass Modification Orb (Attacker Force)",
-        "pt-BR": "Encanto de Conjuração",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Fuerza de Atacante)"
+        "en-US": "Talent Enchant",
+        "pt-BR": "Encanto de Talento",
+        "es-ES": "Encanto de Talento"
     },
     "EahkDQ": {
-        "en-US": "Battle Pass Modification Orb (Range Force)",
-        "pt-BR": "Encanto de Talento",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Fuerza a Distancia)"
+        "en-US": "Decadent Enchant",
+        "pt-BR": "Encanto Decadente",
+        "es-ES": "Encanto Decadente"
     },
     "EqhkDQ": {
-        "en-US": "Battle Pass Modification Orb (Critical Force)",
-        "pt-BR": "Encanto Decadente",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Fuerza Crítica)"
+        "en-US": "Fortified Enchant",
+        "pt-BR": "Encanto Fortificado",
+        "es-ES": "Encanto Fortificado"
     },
     "E6hkDQ": {
-        "en-US": "Battle Pass Modification Orb (Global Cooldown)",
-        "pt-BR": "Encanto Fortificado",
-        "es-ES": "Orbe de Modificación de Pase de Batalla (Enfriamiento Global)"
+        "en-US": "Scrap Enchant",
+        "pt-BR": "Encanto de Sucata",
+        "es-ES": "Encanto de Desecho"
     }
 }

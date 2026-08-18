@@ -246,7 +246,7 @@
     },
     "8cM8CA": {
         "en-US": "First Aid, Pick up Stone, Throw Stone, Back Sliding, Sprinkle Sand, Sonic Acceleration, Venom Knife",
-        "pt-BR": "Primeiros Socorros, Pegar Pedra, Jogar Pedra, Back Sliding, Espalhar Areia, Aceleração Sônica, Faca de Venen",
+        "pt-BR": "Primeiros Socorros, Pegar Pedra, Jogar Pedra, Back Sliding, Espalhar Areia, Lâminas Aceleradas, Faca Envenenada",
         "es-ES": "Primeiros Socorros, Pegar Pedra, Jogar Pedra, Back Sliding, Espalhar Areia, Aceleração Sônica, Faca de Venen"
     },
     "8sM8CA": {
@@ -1760,6 +1760,7 @@
         "es-ES": "Recibir buff: Todas las Stats+6, ATAQ+24, MATK+24"
     },
     "IMU8CA": {
+        "en-US": "Receive Monthly Premium Service Box",
         "pt-BR": "Receber Caixa do Servico Premium Mensal",
         "es-ES": "Recibir Caja del Servicio Premium Mensual"
     },

@@ -60,9 +60,9 @@
         "es-ES": "[Valquiria]\n¡Soy quien se ha manifestado para responder a tu deseo!\nSi quieres verme como es debido, demuestra un poco más de sinceridad."
     },
     "TKxcDA": {
-        "en-US": "[Valkyrie]\nThat is... erm...\nOh, yes! By paying <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>, just ^4D4DFF100^000000 pieces.",
-        "pt-BR": "[Valquíria]\nÉ... quero dizer...\nIsso mesmo! <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>, basta oferecer ^4D4DFF100 unidades^000000.",
-        "es-ES": "[Valquiria]\nEh... es decir...\n¡Sí! <ITEM>[Miaufruto]<INFO>6909</INFO></ITEM>, solo tienes que ofrecerme ^4D4DFF100 unidades^000000."
+        "en-US": "[Valkyrie]\nThat is... erm...\nOh, yes! By paying <ITEM>[Nyangvine]<INFO>6909</INFO></ITEM>, just ^4D4DFF40^000000 pieces.",
+        "pt-BR": "[Valquíria]\nÉ... quero dizer...\nIsso mesmo! <ITEM>[MiauMiau]<INFO>6909</INFO></ITEM>, basta oferecer ^4D4DFF40 unidades^000000.",
+        "es-ES": "[Valquiria]\nEh... es decir...\n¡Sí! <ITEM>[Miaufruto]<INFO>6909</INFO></ITEM>, solo tienes que ofrecerme ^4D4DFF40 unidades^000000."
     },
     "TaxcDA": {
         "en-US": "[Valkyrie]\nIf you get it for me, I'll instantly transform you into the job you want.",
@@ -130,9 +130,9 @@
         "es-ES": "[Valquiria]\nUf... Me cuesta mucho ganarme la vida, incluso recurriendo a cosas como esta.\nAsí que, dime... ¿no crees que deberías respetar el número de Miaufrutos?"
     },
     "WqxcDA": {
-        "en-US": "[Valkyrie]\nWe both want to get this done easily, right?\nThen, please bring me exactly 100 Nyangvine.",
-        "pt-BR": "[Valquíria]\nAmbos queremos que seja fácil, né?\nEntão, não esqueça de trazer 100 MiauMiau.",
-        "es-ES": "[Valquiria]\nLos dos queremos que esto sea fácil, ¿no?\nEntonces, asegúrate de traer 100 Miaufrutos."
+        "en-US": "[Valkyrie]\nWe both want to get this done easily, right?\nThen, please bring me exactly 40 Nyangvine.",
+        "pt-BR": "[Valquíria]\nAmbos queremos que seja fácil, né?\nEntão, não esqueça de trazer 40 MiauMiau.",
+        "es-ES": "[Valquiria]\nLos dos queremos que esto sea fácil, ¿no?\nEntonces, asegúrate de traer 40 Miaufrutos."
     },
     "W6xcDA": {
         "en-US": "[Valkyrie]\nAlright, everything's ready!\nI knew you were reliable.",

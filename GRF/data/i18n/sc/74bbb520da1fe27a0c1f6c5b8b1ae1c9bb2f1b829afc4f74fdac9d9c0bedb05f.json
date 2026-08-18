@@ -1,0 +1,122 @@
+{
+    "oOhzDQ": {
+        "en-US": "It says use of this area is prohibited during nighttime maintenance hours... So what are these guys doing here? Are they gambling addicts?",
+        "pt-BR": "Está escrito que o uso desta área é proibido durante a manutenção noturna... Então o que esses caras estão fazendo aqui? São apostadores?",
+        "es-ES": "Durante el mantenimiento nocturno está prohibido usar esta zona... Eso dice aquí. Entonces, ¿qué son todos estos tipos que han venido? ¿Están locos por apostar?"
+    },
+    "oehzDQ": {
+        "en-US": "GUEST{0}",
+        "pt-BR": "GUEST{0}",
+        "es-ES": "GUEST{0}"
+    },
+    "ouhzDQ": {
+        "en-US": "GUEST{0}",
+        "pt-BR": "GUEST{0}",
+        "es-ES": "GUEST{0}"
+    },
+    "o+hzDQ": {
+        "en-US": "#guest{0}",
+        "pt-BR": "#guest{0}",
+        "es-ES": "#guest{0}"
+    },
+    "pOhzDQ": {
+        "en-US": "mob_disp{0}",
+        "pt-BR": "mob_disp{0}",
+        "es-ES": "mob_disp{0}"
+    },
+    "pehzDQ": {
+        "en-US": "Do it properly.",
+        "pt-BR": "Lute direito!",
+        "es-ES": "Hazlo bien"
+    },
+    "puhzDQ": {
+        "en-US": "Hang in there.",
+        "pt-BR": "Força!",
+        "es-ES": "Ánimo"
+    },
+    "p+hzDQ": {
+        "en-US": "Fight well.",
+        "pt-BR": "Boa luta!",
+        "es-ES": "Pelea bien"
+    },
+    "qOhzDQ": {
+        "en-US": "I'm counting on you.",
+        "pt-BR": "Estou contando com você!",
+        "es-ES": "Confío en ti"
+    },
+    "qehzDQ": {
+        "en-US": "Win.",
+        "pt-BR": "Vença!",
+        "es-ES": "Gana"
+    },
+    "quhzDQ": {
+        "en-US": "Do it right!",
+        "pt-BR": "Faça direito!",
+        "es-ES": "¡Hazlo como es debido!"
+    },
+    "q+hzDQ": {
+        "en-US": "Do a little better.",
+        "pt-BR": "Faça melhor que isso!",
+        "es-ES": "Esfuérzate un poco"
+    },
+    "rOhzDQ": {
+        "en-US": "I bet everything on you!!",
+        "pt-BR": "Apostei tudo em você!!",
+        "es-ES": "¡¡He apostado todo mi dinero por ti!!"
+    },
+    "rehzDQ": {
+        "en-US": "If you lose this time, I'll go down there myself and snap your neck!",
+        "pt-BR": "Se perder desta vez, eu mesmo vou descer aí e quebrar seu pescoço!",
+        "es-ES": "¡Si pierdes esta vez, bajaré yo mismo y te romperé el cuello!"
+    },
+    "ruhzDQ": {
+        "en-US": "Just win! Half my stake is yours!",
+        "pt-BR": "Apenas vença! Metade da minha aposta será sua!",
+        "es-ES": "¡Solo gana! ¡La mitad de mi apuesta será para ti!"
+    },
+    "r+hzDQ": {
+        "en-US": "I came all the way here by boat to see you!",
+        "pt-BR": "Vim de longe de barco só para ver você!",
+        "es-ES": "¡He venido desde lejos en barco solo para verte!"
+    },
+    "sOhzDQ": {
+        "en-US": "If I win this round, my life will turn around too!",
+        "pt-BR": "Se vencer esta rodada, minha vida também vai mudar!",
+        "es-ES": "¡Si ganas esta ronda, yo también cambiaré mi vida!"
+    },
+    "sehzDQ": {
+        "en-US": "Let's finish this quickly and go home.",
+        "pt-BR": "Acabe logo com isso e vamos para casa.",
+        "es-ES": "Acabemos rápido y vámonos a casa."
+    },
+    "suhzDQ": {
+        "en-US": "If you don't do this properly, I'll finish you off myself!",
+        "pt-BR": "Se não lutar direito, eu mesmo vou acabar com você!",
+        "es-ES": "¡Si no lo haces bien, yo mismo acabaré contigo!"
+    },
+    "s+hzDQ": {
+        "en-US": "I'm your fan! Don't disappoint me!",
+        "pt-BR": "Sou seu fã! Não me decepcione!",
+        "es-ES": "¡Soy tu fan! ¡No me decepciones!"
+    },
+    "tOhzDQ": {
+        "en-US": "I put quite a lot of my fortune on this match.",
+        "pt-BR": "Apostei uma boa parte da minha fortuna nesta luta.",
+        "es-ES": "He apostado bastante de mi fortuna en este combate."
+    },
+    "tehzDQ": {
+        "en-US": "Timid Gambler: Keep it down! Don't you know this is an illegal match? What are you going to do if the guards come?",
+        "pt-BR": "Apostador tímido: Ei, façam silêncio! Não sabem que esta luta é ilegal? E se os guardas aparecerem?",
+        "es-ES": "Apostador tímido: ¡Oigan, hagan un poco de silencio! ¿No saben que este combate es ilegal? ¿Qué harán si vienen los guardias?"
+    },
+    "tuhzDQ": {
+        "en-US": "Nervous Gambler: Shh! Be quiet! Do you want us all to get arrested?",
+        "pt-BR": "Apostador nervoso: Shh! Calado! Quer que todos nós sejamos presos?",
+        "es-ES": "Apostador nervioso: ¡Shh! ¡Silencio! ¿Quieren que nos arresten a todos?"
+    },
+    "t+hzDQ": {
+        "en-US": "Excited Gambler: {0} {1}!!!! {2}",
+        "pt-BR": "Apostador animado: {0} {1}!!!! {2}",
+        "es-ES": "Apostador emocionado: {0} ¡¡¡¡{1}!!!! {2}"
+    }
+}

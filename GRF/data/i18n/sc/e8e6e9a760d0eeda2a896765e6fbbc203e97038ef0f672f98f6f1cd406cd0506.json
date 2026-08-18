@@ -6,12 +6,12 @@
     },
     "AdKhCQ": {
         "en-US": "<The Grave of the Warrior>",
-        "pt-BR": "<The Grave of the Warrior>",
+        "pt-BR": "<Tumba da Honra>",
         "es-ES": "<The Grave of the Warrior>"
     },
     "AtKhCQ": {
         "en-US": "The Grave of the Warrior",
-        "pt-BR": "A Tumba do Guerreiro",
+        "pt-BR": "Memoráveis",
         "es-ES": "La tumba del guerrero"
     },
     "A9KhCQ": {
@@ -21,72 +21,72 @@
     },
     "BNKhCQ": {
         "en-US": "I think there are too many kinds of things or weights. Please clean up your inventory.",
-        "pt-BR": "Acho que há muitos tipos de coisas ou pesos. Libere seu inventário.",
+        "pt-BR": "Por favor, reorganize seu inventário.",
         "es-ES": "Creo que hay demasiados tipos de objetos o peso. Aligera tu inventario."
     },
     "BdKhCQ": {
         "en-US": "^003366A very suspicious vending machine, which has no idea who installed it, is waiting for a touch with the screen lit up. The manufacturer's mark is worn out, so it's hard to see.^000000",
-        "pt-BR": "^003366Uma máquina de venda automática muito suspeita, que não se faz ideia de quem instalou, está esperando por um toque com a tela acesa. A marca do fabricante está desgastada, por isso é difícil de ver.^000000",
+        "pt-BR": "^003366Uma máquina suspeita está com a tela acesa. Ninguém sabe como veio parar aqui e a marca do fabricante está manchada.^000000",
         "es-ES": "^003366Una máquina expendedora de aspecto sospechoso, que no sabe quién la ha instalado, espera un toque con la pantalla encendida. La marca del fabricante está desgastada, por lo que es difícil de distinguir.^000000"
     },
     "BtKhCQ": {
         "en-US": "{0}on",
-        "pt-BR": "{0}em",
+        "pt-BR": "Ver itens {0}",
         "es-ES": "Encantamiento garantizado de {0}"
     },
     "B9KhCQ": {
         "en-US": "{0} guarenteed enchant.",
-        "pt-BR": "{0} encantamento garantido.",
+        "pt-BR": "Encantar itens {0}",
         "es-ES": "en {0}"
     },
     "CNKhCQ": {
         "en-US": "[Hot Air Machine]\nNice to meet you. I'm G-3380, Hot Air Machine. We provide enchantment support for the equipment listed below.",
-        "pt-BR": "[Máquina de Ar Quente]\nPrazer em conhecer você. Sou G-3380, Máquina de Ar Quente. Fornecemos suporte de encantamento para os equipamentos listados abaixo.",
+        "pt-BR": "[Máquina de Ar Quente]\nPrazer em conhecer você. Sou G-3380, a Máquina de Ar Quente. Forneço suporte de encantamento para os equipamentos listados a seguir.",
         "es-ES": "[Máquina de Aire Caliente]\nUn placer conocerte. Soy la Máquina de Aire Caliente G-3380. Nos encargamos de ofrecer soporte de encantamiento para el equipamiento que se enumera a continuación."
     },
     "CdKhCQ": {
         "en-US": "[<ITEM>Old Rune Circlet<INFO>18971</INFO></ITEM>]\n[<ITEM>Old Mitra<INFO>18972</INFO></ITEM>]\n[<ITEM>Old Driver Band<INFO>18973</INFO></ITEM>]\n[<ITEM>Old Driver Band(Yellow)<INFO>18974</INFO></ITEM>]\n[<ITEM>Old Shadow Handicraft<INFO>18975</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Memorável Poder das Runas<INFO>18971</INFO></ITEM>]\n[<ITEM>Memorável Desejo dos Deuses<INFO>18972</INFO></ITEM>]\n[<ITEM>Memorável Talento do Piloto<INFO>18973</INFO></ITEM>]\n[<ITEM>Memorável Talento do Piloto (Amarelo)<INFO>18974</INFO></ITEM>]\n[<ITEM>Memorável Artifício das Sombras<INFO>18975</INFO></ITEM>]",
+        "pt-BR": "[<ITEM>Memorável Poder das Runas<INFO>18971</INFO></ITEM>]\n[<ITEM>Memorável Desejo dos Deuses<INFO>18972</INFO></ITEM>]\n[<ITEM>Memorável Talento do Piloto<INFO>18973</INFO></ITEM>]\n[<ITEM>Memorável Talento do Mecânico<INFO>18974</INFO></ITEM>]\n[<ITEM>Memorável Artifício das Sombras<INFO>18975</INFO></ITEM>]",
         "es-ES": "[<ITEM>Diadema rúnica antigua<INFO>18971</INFO></ITEM>]\n[<ITEM>Mitra antigua<INFO>18972</INFO></ITEM>]\n[<ITEM>Vincha de conductor antigua<INFO>18973</INFO></ITEM>]\n[<ITEM>Vincha de conductor antigua (amarilla)<INFO>18974</INFO></ITEM>]\n[<ITEM>Artesanía sombría antigua<INFO>18975</INFO></ITEM>]"
     },
     "CtKhCQ": {
         "en-US": "[<ITEM>Old Minstrel Song Hat<INFO>18976</INFO></ITEM>]\n[<ITEM>Old Midas Whisper<INFO>18977</INFO></ITEM>]\n[<ITEM>Old Magic Stone Hat<INFO>18978</INFO></ITEM>]\n[<ITEM>Old Blazing Soul<INFO>18979</INFO></ITEM>]\n[<ITEM>Old Wind Whisper<INFO>18980</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Memorável Canção do Trovador<INFO>18976</INFO></ITEM>]\n[<ITEM>Memorável Toque de Midas<INFO>18977</INFO></ITEM>]\n[<ITEM>Memorável Mistério da Magia<INFO>18978</INFO></ITEM>]\n[<ITEM>Memorável Disciplina do Espírito<INFO>18979</INFO></ITEM>]\n[<ITEM>Memorável Sussurro dos Elementos<INFO>18980</INFO></ITEM>]",
+        "pt-BR": "[<ITEM>Memorável Inspiração do Artista<INFO>18976</INFO></ITEM>]\n[<ITEM>Memorável Toque de Midas<INFO>18977</INFO></ITEM>]\n[<ITEM>Memorável Mistério da Magia<INFO>18978</INFO></ITEM>]\n[<ITEM>Memorável Disciplina do Espírito<INFO>18979</INFO></ITEM>]\n[<ITEM>Memorável Sussurro do Elemento<INFO>18980</INFO></ITEM>]",
         "es-ES": "[<ITEM>Sombrero de la canción del Juglar antiguo<INFO>18976</INFO></ITEM>]\n[<ITEM>Susurro de Midas antiguo<INFO>18977</INFO></ITEM>]\n[<ITEM>Sombrero de piedra mágica antiguo<INFO>18978</INFO></ITEM>]\n[<ITEM>Alma llameante antigua<INFO>18979</INFO></ITEM>]\n[<ITEM>Susurro del viento antiguo<INFO>18980</INFO></ITEM>]"
     },
     "C9KhCQ": {
         "en-US": "[<ITEM>Old Dying Swan<INFO>18981</INFO></ITEM>]\n[<ITEM>Old Circlet of Bone<INFO>18982</INFO></ITEM>]\n[<ITEM>Old Protect of Crown<INFO>18983</INFO></ITEM>]\n[<ITEM>Old Camo RabbitHood<INFO>18984</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Memorável Súplica do Cisne<INFO>18981</INFO></ITEM>]\n[<ITEM>Memorável Tiara de Ossos<INFO>18982</INFO></ITEM>]\n[<ITEM>Memorável Proteção da Coroa<INFO>18983</INFO></ITEM>]\n[<ITEM>Memorável Camuflagem do Coelho<INFO>18984</INFO></ITEM>]",
+        "pt-BR": "[<ITEM>Memorável Súplica do Cisne<INFO>18981</INFO></ITEM>]\n[<ITEM>Memorável Vingança dos Mortos<INFO>18982</INFO></ITEM>]\n[<ITEM>Memorável Sacrifício do Protetor<INFO>18983</INFO></ITEM>]\n[<ITEM>Memorável Sentido de Caça<INFO>18984</INFO></ITEM>]",
         "es-ES": "[<ITEM>Cisne agonizante antiguo<INFO>18981</INFO></ITEM>]\n[<ITEM>Diadema ósea antigua<INFO>18982</INFO></ITEM>]\n[<ITEM>Corona de protección antigua<INFO>18983</INFO></ITEM>]\n[<ITEM>Capucha de conejo camuflada antigua<INFO>18984</INFO></ITEM>]"
     },
     "DNKhCQ": {
         "en-US": "[Hot Air Machine]\n2nd slot option may be selected when 3,4 slots are already enchanted.",
-        "pt-BR": "[Máquina de Ar Quente]\nA opção do 2º espaço pode ser selecionada quando 3 ou 4 espaços já estiverem encantados.",
+        "pt-BR": "[Máquina de Ar Quente]\nVocê só poderá encantar o 2º slot se o 3º ou 4º slots já estiverem encantados.",
         "es-ES": "[Máquina de Aire Caliente]\nSe puede seleccionar la opción de ranura2 cuando las ranuras3 y4 ya están encantadas."
     },
     "DdKhCQ": {
         "en-US": "[Hot Air Machine]\nIf special option is applied on 2nd slot, 1 level can be upgraded.",
-        "pt-BR": "[Máquina de Ar Quente]\nSe a opção especial for aplicada no 2º espaço, 1 nível poderá ser melhorado.",
+        "pt-BR": "[Máquina de Ar Quente]\nSe um encanto especial for aplicado no 2º slot, você pode subir 1 nível do encanto.",
         "es-ES": "[Máquina de Aire Caliente]\nSi se aplica la opción especial en la ranura2, se puede subir 1nivel."
     },
     "DtKhCQ": {
         "en-US": "[Hot Air Machine]\nUnfortunately, if you already have a normal option in the second slot, you can't do a guarenteed upgrade, so it's a good idea to reset it.",
-        "pt-BR": "[Máquina de Ar Quente]\nInfelizmente, se você já tiver uma opção normal no segundo espaço, não será possível fazer uma melhoria garantida, portanto, é uma boa ideia redefini-la.",
+        "pt-BR": "[Máquina de Ar Quente]\nEntretanto, se o encanto do 2º slot não for especial, não será possível subir o nível de forma garantida.",
         "es-ES": "[Máquina de Aire Caliente]\nPor desgracia, si ya tienes una opción normal en la segunda ranura, no puedes hacer una mejora garantizada, por lo que es buena idea restablecerla."
     },
     "D9KhCQ": {
         "en-US": "[Hot Air Machine]\nWe will inform you of the service fee through this device during the enchant. Good luck.",
-        "pt-BR": "[Máquina de Ar Quente]\nNós te informaremos sobre a taxa de serviço por meio desse dispositivo durante o encantamento. Boa sorte.",
+        "pt-BR": "[Máquina de Ar Quente]\nEste dispositivo informará a taxa de serviço durante o processo de encanto. Boa sorte.",
         "es-ES": "[Máquina de Aire Caliente]\nTe informaremos la tarifa de servicio en este dispositivo durante el encantamiento. Buena suerte."
     },
     "ENKhCQ": {
         "en-US": "[Hot Air Machine]\nYou are unequipped",
-        "pt-BR": "[Máquina de Ar Quente]\nVocê não tem nada equipado",
+        "pt-BR": "[Máquina de Ar Quente]\nVocê não tem nada equipado.",
         "es-ES": "[Máquina de Aire Caliente]\nNo tienes equipado ningún objeto."
     },
     "EdKhCQ": {
         "en-US": "^FF0000The random option is checked. You cannot work on this equipment.^000000",
-        "pt-BR": "^FF0000A opção aleatória está marcada. Você não pode trabalhar nesse equipamento.^000000",
+        "pt-BR": "^FF0000Há um bônus aleatório neste item. Não posso trabalhar nesse equipamento.^000000",
         "es-ES": "^FF0000Se marcó la opción aleatoria. No puedes trabajar sobre este equipamiento.^000000"
     },
     "EtKhCQ": {
@@ -111,7 +111,7 @@
     },
     "FtKhCQ": {
         "en-US": "Old Driver Band(Yellow)",
-        "pt-BR": "Memorável Talento do Piloto (Amarelo)",
+        "pt-BR": "Memorável Talento do Mecânico",
         "es-ES": "Vincha de conductor antigua (amarilla)"
     },
     "F9KhCQ": {
@@ -121,7 +121,7 @@
     },
     "GNKhCQ": {
         "en-US": "Old Minstrel Song Hat",
-        "pt-BR": "Memorável Canção do Trovador",
+        "pt-BR": "Memorável Inspiração do Artista",
         "es-ES": "Sombrero de la canción del Juglar antiguo"
     },
     "GdKhCQ": {
@@ -151,32 +151,32 @@
     },
     "HtKhCQ": {
         "en-US": "Old Circlet of Bone",
-        "pt-BR": "Memorável Tiara de Ossos",
+        "pt-BR": "Memorável Vingança dos Mortos",
         "es-ES": "Diadema ósea antigua"
     },
     "H9KhCQ": {
         "en-US": "Old Protect of Crown",
-        "pt-BR": "Memorável Proteção da Coroa",
+        "pt-BR": "Memorável Sacrifício do Protetor",
         "es-ES": "Corona de protección antigua"
     },
     "INKhCQ": {
         "en-US": "Old Camo RabbitHood",
-        "pt-BR": "Memorável Camuflagem do Coelho",
+        "pt-BR": "Memorável Sentido de Caça",
         "es-ES": "Capucha de conejo camuflada antigua"
     },
     "IdKhCQ": {
         "en-US": "[Hot Air Machine]\nThe equipment you showed me is not guarenteed upgradable item.",
-        "pt-BR": "[Máquina de Ar Quente]\nO equipamento que você me mostrou não é um item de melhoria garantida.",
+        "pt-BR": "[Máquina de Ar Quente]\nSeu item não está apto para encanto. Por favor, veja a lista de itens.",
         "es-ES": "[Máquina de Aire Caliente]\nEl equipamiento que me mostraste no es un objeto apto para un encantamiento garantizado."
     },
     "ItKhCQ": {
         "en-US": "Piece of Grudge",
-        "pt-BR": "Pedaço de Rancor",
+        "pt-BR": "Fragmento Ominoso",
         "es-ES": "Pieza de rencor"
     },
     "I9KhCQ": {
         "en-US": "[Hot Air Machine]\nThis {0} item's 3rd and 4th are already upgraded. You can select 1 special option. It's guarenteed 100%.",
-        "pt-BR": "[Máquina de Ar Quente]\nO 3º e 4º espaço do item {0} já foram melhorados. Você pode selecionar 1 opção especial. Garantido 100%.",
+        "pt-BR": "[Máquina de Ar Quente]\nO item [{0}] pode receber um encanto especial, 100% garantido.",
         "es-ES": "[Máquina de Aire Caliente]\nLas ranuras3 y4 del objeto {0} ya están mejoradas. Puedes seleccionar 1opción especial. Está garantizado al 100%."
     },
     "JNKhCQ": {
@@ -186,57 +186,57 @@
     },
     "JdKhCQ": {
         "en-US": "Mettle1Lv",
-        "pt-BR": "Mettle1Lv",
+        "pt-BR": "Insígnia da Potência 1",
         "es-ES": "Fortaleza de nivel1."
     },
     "JtKhCQ": {
         "en-US": "MagicEssence1Lv",
-        "pt-BR": "MagicEssence1Lv",
+        "pt-BR": "Insígnia da Virtude 1",
         "es-ES": "Esencia mágica de nivel1."
     },
     "J9KhCQ": {
         "en-US": "Acute1Lv",
-        "pt-BR": "Acute1Lv",
+        "pt-BR": "Insígnia do Talento 1",
         "es-ES": "Perspicacia de nivel1."
     },
     "KNKhCQ": {
         "en-US": "MasterArcher1Lv",
-        "pt-BR": "MasterArcher1Lv",
+        "pt-BR": "Insígnia da Maestria 1",
         "es-ES": "Maestro Arquero de nivel1."
     },
     "KdKhCQ": {
         "en-US": "Adamantine1Lv",
-        "pt-BR": "Adamantine1Lv",
+        "pt-BR": "Insígnia da Resiliência 1",
         "es-ES": "Adamantino de nivel1."
     },
     "KtKhCQ": {
         "en-US": "Affection1Lv",
-        "pt-BR": "Affection1Lv",
+        "pt-BR": "Insígnia da Afeição 1",
         "es-ES": "Afecto de nivel1."
     },
     "K9KhCQ": {
         "en-US": "Tenacity1Lv",
-        "pt-BR": "Tenacity1Lv",
+        "pt-BR": "Insígnia da Dedicação 1",
         "es-ES": "Tenacidad de nivel1."
     },
     "LNKhCQ": {
         "en-US": "[Hot Air Machine]\n[<ITEM>Mettle1Lv<INFO>29061</INFO></ITEM>]\n[<ITEM>MagicEssence1Lv<INFO>29071</INFO></ITEM>]\n[<ITEM>Acute1Lv<INFO>29081</INFO></ITEM>]\n[<ITEM>MasterArcher1Lv<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantine1Lv<INFO>29101</INFO></ITEM>]\n[<ITEM>Affection1Lv<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacity1Lv<INFO>29706</INFO></ITEM>]\ncan be selected.",
-        "pt-BR": "[Máquina de Ar Quente]\n[<ITEM>Mettle1Lv<INFO>29061</INFO></ITEM>]\n[<ITEM>MagicEssence1Lv<INFO>29071</INFO></ITEM>]\n[<ITEM>Acute1Lv<INFO>29081</INFO></ITEM>]\n[<ITEM>MasterArcher1Lv<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantine1Lv<INFO>29101</INFO></ITEM>]\n[<ITEM>Affection1Lv<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacity1Lv<INFO>29706</INFO></ITEM>]\npode ser selecionado.",
+        "pt-BR": "[Máquina de Ar Quente]\nVocê pode escolher entre\n[<ITEM>Insígnia da Potência 1<INFO>29061</INFO></ITEM>]\n[<ITEM>Insígnia da Virtude 1<INFO>29071</INFO></ITEM>]\n[<ITEM>Insígnia do Talento 1<INFO>29081</INFO></ITEM>]\n[<ITEM>Insígnia da Maestria 1<INFO>29091</INFO></ITEM>]\n[<ITEM>Insígnia da Resiliência 1<INFO>29101</INFO></ITEM>]\n[<ITEM>Insígnia da Afeição 1<INFO>29111</INFO></ITEM>]\n[<ITEM>Insígnia da Dedicação 1<INFO>29706</INFO></ITEM>]",
         "es-ES": "[Máquina de Aire Caliente]\n[<ITEM>Fortaleza de nivel1<INFO>29061</INFO></ITEM>]\n[<ITEM>Esencia mágica de nivel1<INFO>29071</INFO></ITEM>]\n[<ITEM>Perspicacia de nivel1<INFO>29081</INFO></ITEM>]\n[<ITEM>Maestro Arquero de nivel1<INFO>29091</INFO></ITEM>]\n[<ITEM>Adamantino de nivel1<INFO>29101</INFO></ITEM>]\n[<ITEM>Afecto de nivel1<INFO>29111</INFO></ITEM>]\n[<ITEM>Tenacidad de nivel1<INFO>29706</INFO></ITEM>]\nson las opciones seleccionables."
     },
     "LdKhCQ": {
         "en-US": "[Hot Air Machine]\nThe equipment has been reinforced to the limits supported by Hot Air Machine. No further reinforcement is possible here.",
-        "pt-BR": "[Máquina de Ar Quente]\nO equipamento foi reforçado até os limites suportados pela Máquina de Ar Quente. Nenhum reforço adicional é possível aqui.",
+        "pt-BR": "[Máquina de Ar Quente]\nEsse equipamento já está encantado até o máximo. Este dispositivo não pode fazer nada.",
         "es-ES": "[Máquina de Aire Caliente]\nEl equipamiento se reforzó hasta los límites que admite la Máquina de Aire Caliente. Ya no es posible ningún refuerzo más."
     },
     "LtKhCQ": {
         "en-US": "[Hot Air Machine]\nI don't think the equipment has been strengthened enough to get a guarenteed upgrade.",
-        "pt-BR": "[Máquina de Ar Quente]\nNão acho que o equipamento tenha sido reforçado o suficiente para receber uma melhoria garantida.",
+        "pt-BR": "[Máquina de Ar Quente]\nSeu equipamento precisa ter sido encantado corretamente. Verifique os slots e o encanto.",
         "es-ES": "[Máquina de Aire Caliente]\nNo creo que el equipamiento se haya reforzado lo suficiente como para obtener una mejora garantizada."
     },
     "L9KhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3}level^000000 upgrade",
-        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> melhoria de {3}nível^000000",
+        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FFDo nível {2} para o nível {3}^000000",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2}: {3}mejora de nivel ^000000"
     },
     "MNKhCQ": {
@@ -246,7 +246,7 @@
     },
     "MdKhCQ": {
         "en-US": "====[Requirement]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
-        "pt-BR": "====[Requisito]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
+        "pt-BR": "====[Requisito]====\n{0} Zeny\n{3}x [<ITEM>{1}<INFO>{2}</INFO></ITEM>]",
         "es-ES": "====[Requisito]====\n{0}zeny\n{3}[<ITEM>{1}<INFO>{2}</INFO></ITEM>]"
     },
     "MtKhCQ": {
@@ -256,17 +256,17 @@
     },
     "M9KhCQ": {
         "en-US": "Upgrade",
-        "pt-BR": "Melhorar",
+        "pt-BR": "Encantar de forma garantida",
         "es-ES": "Mejorar."
     },
     "NNKhCQ": {
         "en-US": "[Hot Air Machine]\nCome back when you want to upgrade.",
-        "pt-BR": "[Máquina de Ar Quente]\nVolte quando quiser melhorar.",
+        "pt-BR": "[Máquina de Ar Quente]\nVolte quando quiser subir o nível do seu encanto.",
         "es-ES": "[Máquina de Aire Caliente]\nVuelve cuando quieras realizar la mejora."
     },
     "NdKhCQ": {
         "en-US": "^FF0000Not enough!^000000\n===[Requirement]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
-        "pt-BR": "^FF0000Insuficiente!^000000\n===[Requisito]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
+        "pt-BR": "^FF0000Insuficiente!^000000\n===[Requisito]====\n{0} Zeny\n{3}x [<ITEM>{1}<INFO>{2}</INFO></ITEM>]",
         "es-ES": "^FF0000¡No es suficiente!^000000\n===[Requisito]===\n{0}zeny\n{3}[<ITEM>{1}<INFO>{2}</INFO></ITEM>]"
     },
     "NtKhCQ": {
@@ -286,37 +286,37 @@
     },
     "OdKhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nUpgrade Done.",
-        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nMelhoria Concluída.",
+        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nProcesso concluído.",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nMejora realizada."
     },
     "OtKhCQ": {
         "en-US": "<Glastheim Boots>",
-        "pt-BR": "<Botas de Glastheim>",
+        "pt-BR": "<Botas Temporais>",
         "es-ES": "<Botas de Glastheim>"
     },
     "O9KhCQ": {
         "en-US": "Glastheim Boots",
-        "pt-BR": "Botas de Glastheim",
+        "pt-BR": "Temporais",
         "es-ES": "Botas de Glastheim"
     },
     "PNKhCQ": {
         "en-US": "I think there are too many kinds of things or weights. Please organize your inventory.",
-        "pt-BR": "Acho que há muitos tipos de coisas ou pesos. Organize seu inventário.",
+        "pt-BR": "Por favor, reorganize seu inventário.",
         "es-ES": "Creo que hay demasiados tipos de objetos o pesos. Organiza tu inventario."
     },
     "PdKhCQ": {
         "en-US": "^003366A very suspicious vending machine, which has no idea who installed it, is waiting for a touch with the screen lit up. The manufacturer's mark is old, so it's hard to see.^000000",
-        "pt-BR": "^003366Uma máquina de venda automática muito suspeita, que não se faz ideia de quem instalou, está esperando por um toque com a tela acesa. A marca do fabricante é antiga, portanto, é difícil de ver.^000000",
+        "pt-BR": "^003366Uma máquina suspeita está com a tela acesa. Ninguém sabe como veio parar aqui e a marca do fabricante está manchada.^000000",
         "es-ES": "^003366Una máquina expendedora de aspecto sospechoso, que no sabe quién la ha instalado, espera un toque con la pantalla encendida. La marca del fabricante es antigua, por lo que es difícil de distinguir.^000000"
     },
     "PtKhCQ": {
         "en-US": "About enchantment of {0}'s",
-        "pt-BR": "Sobre encantamento de {0}",
+        "pt-BR": "Ver itens {0}",
         "es-ES": "Sobre encantamiento de {0}"
     },
     "P9KhCQ": {
         "en-US": "[Hot Air Machine]\nNice to meet you. I'm G-3425, the hot air machine for you. We provide reinforcement support for the equipment listed below.",
-        "pt-BR": "[Máquina de Ar Quente]\nPrazer em conhecer você. Sou G-3425, a máquina de ar quente para você. Fornecemos suporte de reforço para os equipamentos listados abaixo.",
+        "pt-BR": "[Máquina de Ar Quente]\nPrazer em conhecer você. Sou G-3425, a Máquina de Ar Quente. Forneço suporte de encantamento para os equipamentos listados a seguir.",
         "es-ES": "[Máquina de Aire Caliente]\nUn placer conocerte. Soy G-3425, la máquina de aire caliente, a tu servicio. Nos encargamos de ofrecer soporte de refuerzo para el equipamiento que se enumera a continuación."
     },
     "QNKhCQ": {
@@ -331,27 +331,27 @@
     },
     "QtKhCQ": {
         "en-US": "[<ITEM>Temporal Str Boots [1]<INFO>22006</INFO></ITEM>]\n[<ITEM>Temporal Agi Boots [1]<INFO>22010</INFO></ITEM>]\n[<ITEM>Temporal Vit Boots [1]<INFO>22007</INFO></ITEM>]\n[<ITEM>Temporal Int Boots [1]<INFO>22009</INFO></ITEM>]\n[<ITEM>Temporal Dex Boots [1]<INFO>22008</INFO></ITEM>]\n[<ITEM>Temporal Luk Boots [1]<INFO>22011</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Bota Temporal FOR [1]<INFO>22006</INFO></ITEM>]\n[<ITEM>Bota Temporal AGI [1]<INFO>22010</INFO></ITEM>]\n[<ITEM>Bota Temporal VIT [1]<INFO>22007</INFO></ITEM>]\n[<ITEM>Bota Temporal INT [1]<INFO>22009</INFO></ITEM>]\n[<ITEM>Bota Temporal DES [1]<INFO>22008</INFO></ITEM>]\n[<ITEM>Bota Temporal SOR [1]<INFO>22011</INFO></ITEM>]",
+        "pt-BR": "[<ITEM>Bota Temporal FOR<INFO>22006</INFO></ITEM>] [1]\n[<ITEM>Bota Temporal AGI<INFO>22010</INFO></ITEM>] [1]\n[<ITEM>Bota Temporal VIT<INFO>22007</INFO></ITEM>] [1]\n[<ITEM>Bota Temporal INT<INFO>22009</INFO></ITEM>] [1]\n[<ITEM>Bota Temporal DES<INFO>22008</INFO></ITEM>] [1]\n[<ITEM>Bota Temporal SOR<INFO>22011</INFO></ITEM>] [1]",
         "es-ES": "[<ITEM>Botas Temporales de FUE [1]<INFO>22006</INFO></ITEM>]\n[<ITEM>Botas Temporales de AGI [1]<INFO>22010</INFO></ITEM>]\n[<ITEM>Botas Temporales de VIT [1]<INFO>22007</INFO></ITEM>]\n[<ITEM>Botas Temporales de INT [1]<INFO>22009</INFO></ITEM>]\n[<ITEM>Botas Temporales de DES [1]<INFO>22008</INFO></ITEM>]\n[<ITEM>Botas Temporales de SUE [1]<INFO>22011</INFO></ITEM>]"
     },
     "Q9KhCQ": {
         "en-US": "[<ITEM>Modified Str Boots [1]<INFO>22113</INFO></ITEM>]\n[<ITEM>Modified Agi Boots [1]<INFO>22115</INFO></ITEM>]\n[<ITEM>Modified Vit Boots [1]<INFO>22116</INFO></ITEM>]\n[<ITEM>Modified Int Boots [1]<INFO>22114</INFO></ITEM>]\n[<ITEM>Modified Dex Boots [1]<INFO>22117</INFO></ITEM>]\n[<ITEM>Modified Luk Boots [1]<INFO>22118</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Bota Temporal FOR [1]<INFO>22113</INFO></ITEM>]\n[<ITEM>Bota Temporal AGI [1]<INFO>22115</INFO></ITEM>]\n[<ITEM>Bota Temporal VIT [1]<INFO>22116</INFO></ITEM>]\n[<ITEM>Bota Temporal INT [1]<INFO>22114</INFO></ITEM>]\n[<ITEM>Bota Temporal DES [1]<INFO>22117</INFO></ITEM>]\n[<ITEM>Bota Temporal SOR [1]<INFO>22118</INFO></ITEM>]",
+        "pt-BR": "[<ITEM>Botas Modificadas FOR<INFO>22113</INFO></ITEM>] [1]\n[<ITEM>Botas Modificadas AGI<INFO>22115</INFO></ITEM>] [1]\n[<ITEM>Botas Modificadas VIT<INFO>22116</INFO></ITEM>] [1]\n[<ITEM>Botas Modificadas INT<INFO>22114</INFO></ITEM>] [1]\n[<ITEM>Botas Modificadas DES<INFO>22117</INFO></ITEM>] [1]\n[<ITEM>Botas Modificadas SOR<INFO>22118</INFO></ITEM>] [1]",
         "es-ES": "[<ITEM>Botas Modificadas FUE [1]<INFO>22113</INFO></ITEM>]\n[<ITEM>Botas Modificadas AGI [1]<INFO>22115</INFO></ITEM>\n[<ITEM>Botas Modificadas VIT [1]<INFO>22116</INFO></ITEM>]\n[<ITEM>Botas Modificadas INT [1]<INFO>22114</INFO></ITEM>]\n[<ITEM>Botas Modificadas DES [1]<INFO>22117</INFO></ITEM>]\n[<ITEM>Botas Modificadas SUE [1]<INFO>22118</INFO></ITEM>]"
     },
     "RNKhCQ": {
         "en-US": "[Hot Air Machine]\nIf any of the options listed below is enchanted on 4th slot, you can select 3rd slot option.\n[<ITEM>Fighting Spirit 7<INFO>4822</INFO></ITEM>]\n[<ITEM>Expert Archer 4<INFO>4835</INFO></ITEM>]\n[<ITEM>Enchant 5<INFO>4826</INFO></ITEM>]\n[<ITEM>Max HP + 2%<INFO>4862</INFO></ITEM>]\n[<ITEM>ASPD 4<INFO>4881</INFO></ITEM>]\n[<ITEM>LUK + 6<INFO>4755</INFO></ITEM>]",
-        "pt-BR": "[Máquina de Ar Quente]\nSe alguma das opções listadas abaixo estiver encantada no 4º espaço, você poderá selecionar a opção do 3º espaço.\n[<ITEM>Espírito do Lutador 7<INFO>4822</INFO></ITEM>]\n[<ITEM>Mira Apurada 4<INFO>4835</INFO></ITEM>]\n[<ITEM>Pedra de Encantamento 5<INFO>4826</INFO></ITEM>]\n[<ITEM>HP +2%<INFO>4862</INFO></ITEM>]\n[<ITEM>Anti-Atraso 4<INFO>4881</INFO></ITEM>]\n[<ITEM>SOR+6<INFO>4755</INFO></ITEM>]",
+        "pt-BR": "[Máquina de Ar Quente]\nVocê só poderá encantar o 3º se os encantos abaixo estiverem no 4º slot.\n[<ITEM>Espírito do Lutador 7<INFO>4822</INFO></ITEM>]\n[<ITEM>Mira Apurada 4<INFO>4835</INFO></ITEM>]\n[<ITEM>Pedra de Encantamento 5<INFO>4826</INFO></ITEM>]\n[<ITEM>HP +2%<INFO>4862</INFO></ITEM>]\n[<ITEM>Anti-Atraso 4<INFO>4881</INFO></ITEM>]\n[<ITEM>SOR+6<INFO>4755</INFO></ITEM>]",
         "es-ES": "[Máquina de Aire Caliente]\nSi alguna de las opciones enumeradas a continuación está encantada en la ranura4, puedes seleccionar la opción de la ranura3.\n[<ITEM>Espíritu de Lucha 7<INFO>4822</INFO></ITEM>]\n[<ITEM>Arquero Experto 4<INFO>4835</INFO></ITEM>]\n[<ITEM>Piedra de Encantamiento 5<INFO>4826</INFO></ITEM>]\n[<ITEM>HP máx. +2 %<INFO>4862</INFO></ITEM>]\n[<ITEM>VelAtq 4<INFO>4881</INFO></ITEM>]\n[<ITEM>SUE+6<INFO>4755</INFO></ITEM>]"
     },
     "RdKhCQ": {
         "en-US": "[Hot Air Machine]\nService fee will be guided when you enchant. Good luck.",
-        "pt-BR": "[Máquina de Ar Quente]\nA taxa de serviço será orientada quando você se encantar. Boa sorte.",
+        "pt-BR": "[Máquina de Ar Quente]\nEste dispositivo informará a taxa de serviço durante o processo de encanto. Boa sorte.",
         "es-ES": "[Máquina de Aire Caliente]\nLa tarifa de servicio se indicará cuando inicies el encantamiento. Buena suerte."
     },
     "RtKhCQ": {
         "en-US": "^FF0000Random option is checked. You cannot proceed.^000000",
-        "pt-BR": "^FF0000Opção aleatória verificada. Você não pode prosseguir.^000000",
+        "pt-BR": "^FF0000Há um bônus aleatório neste item. Não posso trabalhar nesse equipamento.^000000",
         "es-ES": "^FF0000Se seleccionó la opción aleatoria. No puedes continuar.^000000"
     },
     "R9KhCQ": {
@@ -481,7 +481,7 @@
     },
     "YNKhCQ": {
         "en-US": "[Hot Air Machine]\nItem you showed me is not guarenteed upgradable item.",
-        "pt-BR": "[Máquina de Ar Quente]\nO item que você me mostrou não é um item de melhoria garantida.",
+        "pt-BR": "[Máquina de Ar Quente]\nEste equipamento não pode ser processado por mim.",
         "es-ES": "[Máquina de Aire Caliente]\nEl objeto que me mostraste no es apto para una mejora garantizada."
     },
     "YdKhCQ": {
@@ -506,7 +506,7 @@
     },
     "ZdKhCQ": {
         "en-US": "[Hot Air Machine]\nThis {0} 4th slot is upgraded to limit. You can select one special option for 100%.",
-        "pt-BR": "[Máquina de Ar Quente]\nO 4º espaço deste item {0} foi melhorado até o limite. Você pode selecionar um encantamento com 100% de chance de sucesso.",
+        "pt-BR": "[Máquina de Ar Quente]\nO item [{0}] pode receber um encanto especial, 100% garantido.",
         "es-ES": "[Máquina de Aire Caliente]\nLa ranura4 del objeto {0} está actualizada al límite. Puedes seleccionar una opción especial para el 100%."
     },
     "ZtKhCQ": {
@@ -541,37 +541,37 @@
     },
     "bNKhCQ": {
         "en-US": "Look at the options",
-        "pt-BR": "Veja as opções",
+        "pt-BR": "Leia as descrições",
         "es-ES": "Ver las opciones."
     },
     "bdKhCQ": {
         "en-US": "[Hot Air Machine]\n[<ITEM>Bear's Power<INFO>4875</INFO></ITEM>]\n[<ITEM>Hawkeye<INFO>4879</INFO></ITEM>]\n[<ITEM>Runaway Magic<INFO>4876</INFO></ITEM>]\n[<ITEM>Speed of Light<INFO>4877</INFO></ITEM>]\n[<ITEM>Muscle Fool<INFO>4878</INFO></ITEM>]\n[<ITEM>Lucky Day<INFO>4880</INFO></ITEM>]\nThe list of choices is as above.",
-        "pt-BR": "[Máquina de Ar Quente]\n[<ITEM>Poder do Urso<INFO>4875</INFO></ITEM>]\n[<ITEM>Olhos de Águia<INFO>4879</INFO></ITEM>]\n[<ITEM>Mágica de Fuga<INFO>4876</INFO></ITEM>]\n[<ITEM>Velocidade da Luz<INFO>4877</INFO></ITEM>]\n[<ITEM>Musculoso<INFO>4878</INFO></ITEM>]\n[<ITEM>Euforia<INFO>4880</INFO></ITEM>]\nA lista de opções é a mesma acima.",
+        "pt-BR": "[Máquina de Ar Quente]\nEsses são os encantos\n[<ITEM>Delírio<INFO>4875</INFO></ITEM>]\n[<ITEM>Instinto<INFO>4879</INFO></ITEM>]\n[<ITEM>Epifania<INFO>4876</INFO></ITEM>]\n[<ITEM>Ânimo<INFO>4877</INFO></ITEM>]\n[<ITEM>Histeria<INFO>4878</INFO></ITEM>]\n[<ITEM>Euforia<INFO>4880</INFO></ITEM>]",
         "es-ES": "[Máquina de Aire Caliente]\n[<ITEM>Delirio<INFO>4875</INFO></ITEM>]\n[<ITEM>Instinto<INFO>4879</INFO></ITEM>]\n[<ITEM>Epifanía<INFO>4876</INFO></ITEM>]\n[<ITEM>Animación<INFO>4877</INFO></ITEM>]\n[<ITEM>Histeria<INFO>4878</INFO></ITEM>]\n[<ITEM>Euforia<INFO>4880</INFO></ITEM>]\nLa lista de opciones es la que ves arriba."
     },
     "btKhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3}ready to enchant to level^000000",
-        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3}pronto para melhorar para o nível^000000",
+        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FFDo nível {2} para o nível {3}^000000",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2}: {3}listo para encantar a nivel ^000000"
     },
     "b9KhCQ": {
         "en-US": "====[Requirement]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
-        "pt-BR": "====[Requisito]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
+        "pt-BR": "====[Requisito]====\n{0} Zeny\n{3}x [<ITEM>{1}<INFO>{2}</INFO></ITEM>]",
         "es-ES": "====[Requisito]====\n{0}zeny\n{3}[<ITEM>{1}<INFO>{2}</INFO></ITEM>]"
     },
     "cNKhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}s\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}s",
-        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>] {2}s\n[<ITEM>{3}<INFO>{4}</INFO></ITEM>] {5}s",
+        "pt-BR": "{2}x [<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n{5}x [<ITEM>{3}<INFO>{4}</INFO></ITEM>]",
         "es-ES": "{drop_disp1}{2}[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n{5}[<ITEM>{3}<INFO>{4}</INFO></ITEM>]"
     },
     "cdKhCQ": {
         "en-US": "[Hot Air Machine]\nPlease come back when you want to upgrade.",
-        "pt-BR": "[Máquina de Ar Quente]\nPor favor, volte quando quiser fazer um upgrade.",
+        "pt-BR": "[Máquina de Ar Quente]\nPor favor, volte quando quiser.",
         "es-ES": "[Máquina de Aire Caliente]\nVuelve cuando quieras realizar la mejora."
     },
     "ctKhCQ": {
         "en-US": "^FF0000Not enough!^000000\n===[Requirement]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
-        "pt-BR": "^FF0000Insuficiente!^000000\n===[Requisito]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
+        "pt-BR": "^FF0000Insuficiente!^000000\n===[Requisito]====\n{0} Zeny\n{3}x [<ITEM>{1}<INFO>{2}</INFO></ITEM>]",
         "es-ES": "^FF0000¡No es suficiente!^000000\n===[Requisito]===\n{0}zeny\n{3}[<ITEM>{1}<INFO>{2}</INFO></ITEM>]"
     },
     "c9KhCQ": {
@@ -581,7 +581,7 @@
     },
     "dNKhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nUpgrade completed.",
-        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nMelhoria concluída.",
+        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nProcesso concluído.",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nMejora completada."
     },
     "ddKhCQ": {
@@ -966,187 +966,187 @@
     },
     "wdKhCQ": {
         "en-US": "<Racing Cap>",
-        "pt-BR": "<Racing Cap>",
+        "pt-BR": "<Boné Maratonista>",
         "es-ES": "<Racing Cap>"
     },
     "wtKhCQ": {
         "en-US": "Racing Cap",
-        "pt-BR": "Racing Cap",
+        "pt-BR": "Maratonistas",
         "es-ES": "Racing Cap"
     },
     "w9KhCQ": {
         "en-US": "{0} Guarenteed Enchant",
-        "pt-BR": "{0} encantamento garantido",
+        "pt-BR": "Encantar Bonés {0}",
         "es-ES": "{0} encantamiento garantizado"
     },
     "xNKhCQ": {
         "en-US": "[Hot Air Machine]\nNice to meet you. I'm G-3381, the hot air machine for you. We provide reinforcement support for the equipment listed below.",
-        "pt-BR": "[Máquina de Ar Quente]\nPrazer em conhecer. Eu sou o G-3381, a máquina de ar quente para você. Oferecemos suporte de reforço para os equipamentos listados abaixo.",
+        "pt-BR": "[Máquina de Ar Quente]\nPrazer em conhecer você. Sou G-3381, a Máquina de Ar Quente. Forneço suporte de encantamento para os equipamentos listados a seguir.",
         "es-ES": "[Máquina de Aire Caliente]\nEncantado(a). Soy el G-3381, la máquina de aire caliente para usted. Brindamos soporte de refuerzo para los equipos que se muestran a continuación."
     },
     "xdKhCQ": {
         "en-US": "[<ITEM>Racing Cap(Michenic)<INFO>19189</INFO></ITEM>]\n[<ITEM>Racing Cap(Generic)<INFO>19190</INFO></ITEM>]\n[<ITEM>Racing Cap(GuillotineCross)<INFO>19191</INFO></ITEM>]\n[<ITEM>Racing Cap(ShadowChaser)<INFO>19192</INFO></ITEM>]\n[<ITEM>Racing Cap(Warlock)<INFO>19193</INFO></ITEM>]\n[<ITEM>Racing Cap(Socerer)<INFO>19194</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Racing Cap(Michenic)<INFO>19189</INFO></ITEM>]\n[<ITEM>Racing Cap(Generic)<INFO>19190</INFO></ITEM>]\n[<ITEM>Racing Cap(GuillotineCross)<INFO>19191</INFO></ITEM>]\n[<ITEM>Racing Cap(ShadowChaser)<INFO>19192</INFO></ITEM>]\n[<ITEM>Racing Cap(Warlock)<INFO>19193</INFO></ITEM>]\n[<ITEM>Racing Cap(Socerer)<INFO>19194</INFO></ITEM>",
+        "pt-BR": "[<ITEM>Boné Maratonista Mecânico<INFO>19189</INFO></ITEM>]\n[<ITEM>Boné Maratonista Químico<INFO>19190</INFO></ITEM>]\n[<ITEM>Boné Maratonista Mortal<INFO>19191</INFO></ITEM>]\n[<ITEM>Boné Maratonista Renegado<INFO>19192</INFO></ITEM>]\n[<ITEM>Boné Maratonista Arcano<INFO>19193</INFO></ITEM>]\n[<ITEM>Boné Maratonista Mágico<INFO>19194</INFO></ITEM>]",
         "es-ES": "[<ITEM>Racing Cap(Michenic)<INFO>19189</INFO></ITEM>]\n[<ITEM>Racing Cap(Generic)<INFO>19190</INFO></ITEM>]\n[<ITEM>Racing Cap(GuillotineCross)<INFO>19191</INFO></ITEM>]\n[<ITEM>Racing Cap(ShadowChaser)<INFO>19192</INFO></ITEM>]\n[<ITEM>Racing Cap(Warlock)<INFO>19193</INFO></ITEM>]\n[<ITEM>Racing Cap(Socerer)<INFO>19194</INFO></ITEM>"
     },
     "xtKhCQ": {
         "en-US": "[<ITEM>Racing Cap(RuneKnight)<INFO>19195</INFO></ITEM>]\n[<ITEM>Racing Cap(RoyalGuard)<INFO>19196</INFO></ITEM>]\n[<ITEM>Racing Cap(ArchBishop)<INFO>19197</INFO></ITEM>]\n[<ITEM>Racing Cap(Sura)<INFO>19198</INFO></ITEM>]\n[<ITEM>Racing Cap(Ranger)<INFO>19199</INFO></ITEM>]\n[<ITEM>Racing Cap(Minstrel)<INFO>19200</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Racing Cap(RuneKnight)<INFO>19195</INFO></ITEM>]\n[<ITEM>Racing Cap(RoyalGuard)<INFO>19196</INFO></ITEM>]\n[<ITEM>Racing Cap(ArchBishop)<INFO>19197</INFO></ITEM>]\n[<ITEM>Racing Cap(Sura)<INFO>19198</INFO></ITEM>]\n[<ITEM>Racing Cap(Ranger)<INFO>19199</INFO></ITEM>]\n[<ITEM>Racing Cap(Minstrel)<INFO>19200</INFO></ITEM>",
+        "pt-BR": "[<ITEM>Boné Maratonista Rúnico<INFO>19195</INFO></ITEM>]\n[<ITEM>Boné Maratonista Real<INFO>19196</INFO></ITEM>]\n[<ITEM>Boné Maratonista Sagrado<INFO>19197</INFO></ITEM>]\n[<ITEM>Boné Maratonista Lutador<INFO>19198</INFO></ITEM>]\n[<ITEM>Boné Maratonista Atirador<INFO>19199</INFO></ITEM>]\n[<ITEM>Boné Maratonista Musical<INFO>19200</INFO></ITEM>]",
         "es-ES": "[<ITEM>Racing Cap(RuneKnight)<INFO>19195</INFO></ITEM>]\n[<ITEM>Racing Cap(RoyalGuard)<INFO>19196</INFO></ITEM>]\n[<ITEM>Racing Cap(ArchBishop)<INFO>19197</INFO></ITEM>]\n[<ITEM>Racing Cap(Sura)<INFO>19198</INFO></ITEM>]\n[<ITEM>Racing Cap(Ranger)<INFO>19199</INFO></ITEM>]\n[<ITEM>Racing Cap(Minstrel)<INFO>19200</INFO></ITEM>"
     },
     "x9KhCQ": {
         "en-US": "[<ITEM>Racing Cap(Wanderer)<INFO>19201</INFO></ITEM>]\n[<ITEM>Racing Cap(Gunslinger)<INFO>19202</INFO></ITEM>]\n[<ITEM>Racing Cap(Ninja)<INFO>19203</INFO></ITEM>]\n[<ITEM>Racing Cap(SuperNovice)<INFO>19204</INFO></ITEM>]\n[<ITEM>Racing Cap(Summoner)<INFO>19205</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Racing Cap(Wanderer)<INFO>19201</INFO></ITEM>]\n[<ITEM>Racing Cap(Gunslinger)<INFO>19202</INFO></ITEM>]\n[<ITEM>Racing Cap(Ninja)<INFO>19203</INFO></ITEM>]\n[<ITEM>Racing Cap(SuperNovice)<INFO>19204</INFO></ITEM>]\n[<ITEM>Racing Cap(Summoner)<INFO>19205</INFO></ITEM>",
+        "pt-BR": "[<ITEM>Boné Maratonista Dançante<INFO>19201</INFO></ITEM>]\n[<ITEM>Boné Maratonista Rebelde<INFO>19202</INFO></ITEM>]\n[<ITEM>Boné Maratonista Ninja<INFO>19203</INFO></ITEM>]\n[<ITEM>Boné Maratonista Aprendiz<INFO>19204</INFO></ITEM>]\n[<ITEM>Boné Maratonista Doram<INFO>19205</INFO></ITEM>]",
         "es-ES": "[<ITEM>Racing Cap(Wanderer)<INFO>19201</INFO></ITEM>]\n[<ITEM>Racing Cap(Gunslinger)<INFO>19202</INFO></ITEM>]\n[<ITEM>Racing Cap(Ninja)<INFO>19203</INFO></ITEM>]\n[<ITEM>Racing Cap(SuperNovice)<INFO>19204</INFO></ITEM>]\n[<ITEM>Racing Cap(Summoner)<INFO>19205</INFO></ITEM>"
     },
     "yNKhCQ": {
         "en-US": "[<ITEM>Racing Cap(StarEmperor)<INFO>19396</INFO></ITEM>]\n[<ITEM>Racing Cap(SoulLinker)<INFO>19397</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Racing Cap(StarEmperor)<INFO>19396</INFO></ITEM>]\n[<ITEM>Racing Cap(SoulLinker)<INFO>19397</INFO></ITEM>",
+        "pt-BR": "[<ITEM>Boné Maratonista Estelar<INFO>19396</INFO></ITEM>]\n[<ITEM>Boné Maratonista Xamânico<INFO>19397</INFO></ITEM>]",
         "es-ES": "[<ITEM>Racing Cap(StarEmperor)<INFO>19396</INFO></ITEM>]\n[<ITEM>Racing Cap(SoulLinker)<INFO>19397</INFO></ITEM>"
     },
     "ydKhCQ": {
         "en-US": "[Hot Air Machine]\nYou are unequipped.",
-        "pt-BR": "[Máquina Caliente]\nNo tienes equipo.",
+        "pt-BR": "[Máquina de Ar Quente]\nVocê não tem nada equipado.",
         "es-ES": "[Máquina de Aire Caliente]\nNo tienes equipo."
     },
     "ytKhCQ": {
         "en-US": "^FF0000The random option is checked. You are not allowed to work on this equipment.^000000",
-        "pt-BR": "^FF0000A opção aleatória está marcada. Você não tem permissão para trabalhar neste equipamento.^000000",
+        "pt-BR": "^FF0000Há um bônus aleatório neste item. Não posso trabalhar nesse equipamento.^000000",
         "es-ES": "^FF0000La opción aleatoria está marcada. No se le permite trabajar con este equipo.^000000"
     },
     "y9KhCQ": {
         "en-US": "Racing Cap(Mechanic)",
-        "pt-BR": "Racing Cap(Mechanic)",
+        "pt-BR": "Boné Maratonista Mecânico",
         "es-ES": "Racing Cap(Mechanic)"
     },
     "zNKhCQ": {
         "en-US": "Racing Cap(Generic)",
-        "pt-BR": "Racing Cap(Generic)",
+        "pt-BR": "Boné Maratonista Químico",
         "es-ES": "Racing Cap(Generic)"
     },
     "zdKhCQ": {
         "en-US": "Racing Cap(Guillotine Cross)",
-        "pt-BR": "Racing Cap(Guillotine Cross)",
+        "pt-BR": "Boné Maratonista Mortal",
         "es-ES": "Racing Cap(Guillotine Cross)"
     },
     "ztKhCQ": {
         "en-US": "Racing Cap(Shadow Chaser)",
-        "pt-BR": "Racing Cap(Shadow Chaser)",
+        "pt-BR": "Boné Maratonista Renegado",
         "es-ES": "Racing Cap(Shadow Chaser)"
     },
     "z9KhCQ": {
         "en-US": "Racing Cap(Warlock)",
-        "pt-BR": "Racing Cap(Warlock)",
+        "pt-BR": "Boné Maratonista Arcano",
         "es-ES": "Racing Cap(Warlock)"
     },
     "0NKhCQ": {
         "en-US": "Racing Cap(Socerer)",
-        "pt-BR": "Racing Cap(Socerer)",
+        "pt-BR": "Boné Maratonista Mágico",
         "es-ES": "Racing Cap(Socerer)"
     },
     "0dKhCQ": {
         "en-US": "Racing Cap(Rune Knight)",
-        "pt-BR": "Racing Cap(Rune Knight)",
+        "pt-BR": "Boné Maratonista Rúnico",
         "es-ES": "Racing Cap(Rune Knight)"
     },
     "0tKhCQ": {
         "en-US": "Racing Cap(Royal Guard)",
-        "pt-BR": "Racing Cap(Royal Guard)",
+        "pt-BR": "Boné Maratonista Real",
         "es-ES": "Racing Cap(Royal Guard)"
     },
     "09KhCQ": {
         "en-US": "Racing Cap(Arch Bishop)",
-        "pt-BR": "Racing Cap(Arch Bishop)",
+        "pt-BR": "Boné Maratonista Sagrado",
         "es-ES": "Racing Cap(Arch Bishop)"
     },
     "1NKhCQ": {
         "en-US": "Racing Cap(Sura)",
-        "pt-BR": "Racing Cap(Sura)",
+        "pt-BR": "Boné Maratonista Lutador",
         "es-ES": "Racing Cap(Sura)"
     },
     "1dKhCQ": {
         "en-US": "Racing Cap(Ranger)",
-        "pt-BR": "Racing Cap(Ranger)",
+        "pt-BR": "Boné Maratonista Atirador",
         "es-ES": "Racing Cap(Ranger)"
     },
     "1tKhCQ": {
         "en-US": "Racing Cap(Minstrel)",
-        "pt-BR": "Racing Cap(Minstrel)",
+        "pt-BR": "Boné Maratonista Musical",
         "es-ES": "Racing Cap(Minstrel)"
     },
     "19KhCQ": {
         "en-US": "Racing Cap(Wanderer)",
-        "pt-BR": "Racing Cap(Wanderer)",
+        "pt-BR": "Boné Maratonista Dançante",
         "es-ES": "Racing Cap(Wanderer)"
     },
     "2NKhCQ": {
         "en-US": "Racing Cap(Gunslinger)",
-        "pt-BR": "Racing Cap(Gunslinger)",
+        "pt-BR": "Boné Maratonista Rebelde",
         "es-ES": "Racing Cap(Gunslinger)"
     },
     "2dKhCQ": {
         "en-US": "Racing Cap(Ninja)",
-        "pt-BR": "Racing Cap(Ninja)",
+        "pt-BR": "Boné Maratonista Ninja",
         "es-ES": "Racing Cap(Ninja)"
     },
     "2tKhCQ": {
         "en-US": "Racing Cap(Super Novice)",
-        "pt-BR": "Racing Cap(Super Novice)",
+        "pt-BR": "Boné Maratonista Aprendiz",
         "es-ES": "Racing Cap(Super Novice)"
     },
     "29KhCQ": {
         "en-US": "Racing Cap(Summoner)",
-        "pt-BR": "Racing Cap(Summoner)",
+        "pt-BR": "Boné Maratonista Doram",
         "es-ES": "Racing Cap(Summoner)"
     },
     "3NKhCQ": {
         "en-US": "Racing Cap(Star Emperor)",
-        "pt-BR": "Racing Cap(Star Emperor)",
+        "pt-BR": "Boné Maratonista Estelar",
         "es-ES": "Racing Cap(Star Emperor)"
     },
     "3dKhCQ": {
         "en-US": "Racing Cap(Soul Linker)",
-        "pt-BR": "Racing Cap(Soul Linker)",
+        "pt-BR": "Boné Maratonista Xamânico",
         "es-ES": "Racing Cap(Soul Linker)"
     },
     "3tKhCQ": {
         "en-US": "Racing Thanks Ticket",
-        "pt-BR": "Racing Thanks Ticket",
+        "pt-BR": "Bilhete de Corrida",
         "es-ES": "Racing Thanks Ticket"
     },
     "39KhCQ": {
         "en-US": "[Hot Air Machine]\nThe equipment is an equipment that has an effect that can no longer be upgraded. Please reset everything and bring it back.",
-        "pt-BR": "[Máquina de Ar Quente]\nEste equipamento é um item cujo efeito não pode mais ser aprimorado. Por favor, restaure tudo e traga-o de volta.",
+        "pt-BR": "[Máquina de Ar Quente]\nEsse item já está encantado ao máximo. Por favor, traga outro item ou resete os encantos.",
         "es-ES": "[Máquina de Aire Caliente]\nEl equipo es uno cuyo efecto ya no puede mejorarse. Restablezca todo y tráigalo de vuelta."
     },
     "4NKhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3}to level^000000",
-        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3} para o nível^000000",
+        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FFDo nível {2} para o nível {3}^000000",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3} al nivel^000000"
     },
     "4dKhCQ": {
         "en-US": "====[Requirement]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}°³",
-        "pt-BR": "====[Requisito]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}°³",
+        "pt-BR": "====[Requisito]====\n{0} Zeny\n{3}x [<ITEM>{1}<INFO>{2}</INFO></ITEM>]",
         "es-ES": "====[Requisitos]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}°³"
     },
     "4tKhCQ": {
         "en-US": "^FF0000Not enough materials!^000000\n===[Requirement]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
-        "pt-BR": "^FF0000Materiais insuficientes!^000000\n===[Requisito]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s",
+        "pt-BR": "^FF0000Materiais insuficientes!^000000\n===[Requisito]===\n{0} Zeny\n{3}x [<ITEM>{1}<INFO>{2}</INFO></ITEM>]",
         "es-ES": "^FF0000¡No hay materiales suficientes!^000000\n===[Requisitos]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s"
     },
     "49KhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nItem is now upgraded.",
-        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nO item foi melhorado agora.",
+        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nO processo foi concluído.",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\nEl objeto ya está mejorado."
     },
     "5NKhCQ": {
         "en-US": "<Schmidt Insignia>",
-        "pt-BR": "<Schmidt Insignia>",
+        "pt-BR": "<Brasão de Schmidt>",
         "es-ES": "<Schmidt Insignia>"
     },
     "5dKhCQ": {
         "en-US": "Schmidt Insignia",
-        "pt-BR": "Schmidt Insignia",
+        "pt-BR": "Brasão de Schmidt",
         "es-ES": "Schmidt Insignia"
     },
     "5tKhCQ": {
@@ -1156,87 +1156,87 @@
     },
     "59KhCQ": {
         "en-US": "{0} guarenteed enchant",
-        "pt-BR": "{0} encantamento garantido",
+        "pt-BR": "Encantar {0}",
         "es-ES": "{0} encantamiento garantizado"
     },
     "6NKhCQ": {
         "en-US": "[Hot Air Machine]\nNice to meet you. I'm G-3383, a hot machine that's very hot. We provide reinforcement support for the equipment listed below.",
-        "pt-BR": "[Máquina de Ar Quente]\nEncantado(a). Eu sou o G-3383, uma Máquina de Ar Quente que esquenta muito. Oferecemos suporte de reforço para os equipamentos listados abaixo.",
+        "pt-BR": "[Máquina de Ar Quente]\nPrazer em conhecer você. Sou G-3381, a Máquina de Ar Quente. Forneço suporte de encantamento para os equipamentos listados a seguir.",
         "es-ES": "[Máquina de Aire Caliente]\nEncantado(a). Soy el G-3383, una Máquina de Aire Caliente que está muy caliente. Brindamos soporte de refuerzo para los equipos que se muestran a continuación."
     },
     "6dKhCQ": {
         "en-US": "[<ITEM>Schmidt Str Insignia<INFO>32228</INFO></ITEM>]\n[<ITEM>Schmidt Int Insignia<INFO>32229</INFO></ITEM>]\n[<ITEM>Schmidt Luk Insignia<INFO>32230</INFO></ITEM>]\n[<ITEM>Schmidt Vit Insignia<INFO>32231</INFO></ITEM>]\n[<ITEM>Schmidt Agi Insignia<INFO>32232</INFO></ITEM>]\n[<ITEM>Schmidt Dex Insignia<INFO>32233</INFO></ITEM>]",
-        "pt-BR": "[<ITEM>Schmidt Str Insignia<INFO>32228</INFO></ITEM>]\n[<ITEM>Schmidt Int Insignia<INFO>32229</INFO></ITEM>]\n[<ITEM>Schmidt Luk Insignia<INFO>32230</INFO></ITEM>]\n[<ITEM>Schmidt Vit Insignia<INFO>32231</INFO></ITEM>]\n[<ITEM>Schmidt Agi Insignia<INFO>32232</INFO></ITEM>]\n[<ITEM>Schmidt Dex Insignia<INFO>32233</INFO></ITEM>",
+        "pt-BR": "[<ITEM>Brasão de Schmidt FOR<INFO>32228</INFO></ITEM>]\n[<ITEM>Brasão de Schmidt INT<INFO>32229</INFO></ITEM>]\n[<ITEM>Brasão de Schmidt SOR<INFO>32230</INFO></ITEM>]\n[<ITEM>Brasão de Schmidt VIT<INFO>32231</INFO></ITEM>]\n[<ITEM>Brasão de Schmidt AGI<INFO>32232</INFO></ITEM>]\n[<ITEM>Brasão de Schmidt DES<INFO>32233</INFO></ITEM>]",
         "es-ES": "[<ITEM>Schmidt Str Insignia<INFO>32228</INFO></ITEM>]\n[<ITEM>Schmidt Int Insignia<INFO>32229</INFO></ITEM>]\n[<ITEM>Schmidt Luk Insignia<INFO>32230</INFO></ITEM>]\n[<ITEM>Schmidt Vit Insignia<INFO>32231</INFO></ITEM>]\n[<ITEM>Schmidt Agi Insignia<INFO>32232</INFO></ITEM>]\n[<ITEM>Schmidt Dex Insignia<INFO>32233</INFO></ITEM>"
     },
     "6tKhCQ": {
         "en-US": "[Hot Air Machine]\nSpecial option can be enchanted to 2nd slot when 3rd and 4th slot are already enchanted.",
-        "pt-BR": "[Máquina de Ar Quente]\nA opção especial pode ser encantada no 2º slot quando o 3º e 4º slots já estiverem encantados.",
+        "pt-BR": "[Máquina de Ar Quente]\nVocê só poderá usar meu serviço se o Brasão possuir o 3º e 4º slots encantados.",
         "es-ES": "[Máquina de Aire Caliente]\nLa opción especial se puede encantar en la 2.ª ranura cuando la 3.ª y 4.ª ranura ya estén encantadas."
     },
     "69KhCQ": {
         "en-US": "[Hot Air Machine]\nService fee will be guided when you enchant. Good Luck.",
-        "pt-BR": "[Máquina de Ar Quente]\nA taxa de serviço será informada ao encantar. Boa sorte.",
+        "pt-BR": "[Máquina de Ar Quente]\nEste dispositivo informará a taxa de serviço durante o processo de encanto. Boa sorte.",
         "es-ES": "[Máquina de Aire Caliente]\nLa tarifa del servicio se indicará al encantar. ¡Buena suerte!"
     },
     "7NKhCQ": {
         "en-US": "^FF0000Random option is chekced. You cannot proceed.^000000",
-        "pt-BR": "^FF0000A opção aleatória está marcada. Você não pode continuar.^000000",
+        "pt-BR": "^FF0000Há um bônus aleatório neste item. Não posso trabalhar nesse equipamento.^000000",
         "es-ES": "^FF0000La opción aleatoria está marcada. No puede continuar.^000000"
     },
     "7dKhCQ": {
         "en-US": "Schmidt Insignia Str",
-        "pt-BR": "Schmidt Insignia Str",
+        "pt-BR": "Brasão de Schmidt FOR",
         "es-ES": "Schmidt Insignia Str"
     },
     "7tKhCQ": {
         "en-US": "Schmidt Insignia Int",
-        "pt-BR": "Schmidt Insignia Int",
+        "pt-BR": "Brasão de Schmidt INT",
         "es-ES": "Schmidt Insignia Int"
     },
     "79KhCQ": {
         "en-US": "Schmidt Insignia Luk",
-        "pt-BR": "Schmidt Insignia Luk",
+        "pt-BR": "Brasão de Schmidt SOR",
         "es-ES": "Schmidt Insignia Luk"
     },
     "8NKhCQ": {
         "en-US": "Schmidt Insignia Vit",
-        "pt-BR": "Schmidt Insignia Vit",
+        "pt-BR": "Brasão de Schmidt VIT",
         "es-ES": "Schmidt Insignia Vit"
     },
     "8dKhCQ": {
         "en-US": "Schmidt Insignia Agi",
-        "pt-BR": "Schmidt Insignia Agi",
+        "pt-BR": "Brasão de Schmidt AGI",
         "es-ES": "Schmidt Insignia Agi"
     },
     "8tKhCQ": {
         "en-US": "Schmidt Insignia Dex",
-        "pt-BR": "Schmidt Insignia Dex",
+        "pt-BR": "Brasão de Schmidt DES",
         "es-ES": "Schmidt Insignia Dex"
     },
     "89KhCQ": {
         "en-US": "[Hot Air Machine]\nItem you showed me is not guarenteed upgradable item",
-        "pt-BR": "[Máquina de Ar Quente]\nO item que você me mostrou não é um item com aprimoramento garantido.",
+        "pt-BR": "[Máquina de Ar Quente]\nEu não trabalho com esse item..",
         "es-ES": "[Máquina de Aire Caliente]\nEl objeto que me mostró no es un objeto con mejora garantizada."
     },
     "9NKhCQ": {
         "en-US": "Cursed Gemstone",
-        "pt-BR": "Gema Maldita",
+        "pt-BR": "Gema Corrompida",
         "es-ES": "Gema Maldita"
     },
     "9dKhCQ": {
         "en-US": "Polluted Spell",
-        "pt-BR": "Hechizo Poluído",
+        "pt-BR": "Mana Sombria",
         "es-ES": "Hechizo Corrompido"
     },
     "9tKhCQ": {
         "en-US": "Dimension Essence",
-        "pt-BR": "Essência da Dimensão",
+        "pt-BR": "Âmago Dimensional",
         "es-ES": "Esencia de la Dimensión"
     },
     "99KhCQ": {
         "en-US": "[Hot Air Machine]\nThis {0} 's 3rd and 4th slot upgrade is finished. You can select one special option now.",
-        "pt-BR": "[Máquina de Ar Quente]\nA atualização dos 3º e 4º slots de {0} está concluída. Agora você pode escolher uma opção especial.",
+        "pt-BR": "[Máquina de Ar Quente]\nO item [{0}] pode receber um encanto especial, 100% garantido.",
         "es-ES": "[Máquina de Aire Caliente]\nLa mejora de las ranuras 3.ª y 4.ª de {0} ha finalizado. Ahora puede seleccionar una opción especial."
     },
     "+NKhCQ": {
@@ -1271,27 +1271,27 @@
     },
     "/tKhCQ": {
         "en-US": "¼±ÅÃ°¡´ÉÇÑ Ç°¸ñ",
-        "pt-BR": "Lista de opções",
+        "pt-BR": "Ler descrições",
         "es-ES": "Lista de opciones"
     },
     "/9KhCQ": {
         "en-US": "[Hot Machine]\n[<ITEM>Agi<INFO>29587</INFO></ITEM>]\n[<ITEM>Tenacity<INFO>29588</INFO></ITEM>]\n[<ITEM>Dex<INFO>29589</INFO></ITEM>]\n[<ITEM>Magic<INFO>29590</INFO></ITEM>]\n[<ITEM>Vit<INFO>29591</INFO></ITEM>]\n[<ITEM>Luk<INFO>29592</INFO></ITEM>]\n¼±ÅÃ °¡´ÉÇÑ ¸ñ·ÏÀº À§¿Í °°½À´Ï´Ù.",
-        "pt-BR": "[Hot Machine]\nLista de opções:\n[<ITEM>Desânimo<INFO>29587</INFO></ITEM>]\n[<ITEM>Lucidez<INFO>29588</INFO></ITEM>]\n[<ITEM>Êxtase<INFO>29589</INFO></ITEM>]\n[<ITEM>Síncope<INFO>29590</INFO></ITEM>]\n[<ITEM>Calmaria<INFO>29591</INFO></ITEM>]\n[<ITEM>Melancolia<INFO>29592</INFO></ITEM>]",
+        "pt-BR": "[Máquina de Ar Quente]\nEstes são os encantos disponíveis\n[<ITEM>Desânimo<INFO>29587</INFO></ITEM>]\n[<ITEM>Lucidez<INFO>29588</INFO></ITEM>]\n[<ITEM>Êxtase<INFO>29589</INFO></ITEM>]\n[<ITEM>Síncope<INFO>29590</INFO></ITEM>]\n[<ITEM>Calmaria<INFO>29591</INFO></ITEM>]\n[<ITEM>Melancolia<INFO>29592</INFO></ITEM>]",
         "es-ES": "[Hot Machine]\nLista de opciones:\n[<ITEM>Destello<INFO>29587</INFO></ITEM>]\n[<ITEM>Fortaleza<INFO>29588</INFO></ITEM>]\n[<ITEM>Arco Celestial<INFO>29589</INFO></ITEM>]\n[<ITEM>Poder Divino<INFO>29590</INFO></ITEM>]\n[<ITEM>Cuerpo Fuerte<INFO>29591</INFO></ITEM>]\n[<ITEM>Perla Celestial<INFO>29592</INFO></ITEM>]"
     },
     "ANOhCQ": {
         "en-US": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3}level^000000 ready",
-        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3} nível^000000 pronto",
+        "pt-BR": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FFDo nível {2} para o nível {3}^000000",
         "es-ES": "[<ITEM>{0}<INFO>{1}</INFO></ITEM>]\n^0000FF{2} -> {3} nivel^000000 listo"
     },
     "AdOhCQ": {
         "en-US": "====[Requirement]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}°³\n[<ITEM>{4}<INFO>{5}</INFO></ITEM>] {6}°³\n[<ITEM>{7}<INFO>{8}</INFO></ITEM>] {9}°³",
-        "pt-BR": "====[Requisito]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}°³\n[<ITEM>{4}<INFO>{5}</INFO></ITEM>] {6}°³\n[<ITEM>{7}<INFO>{8}</INFO></ITEM>] {9}°³",
+        "pt-BR": "====[Requisito]====\n{0} Zeny\n{3}x [<ITEM>{1}<INFO>{2}</INFO></ITEM>]\n{6}x [<ITEM>{4}<INFO>{5}</INFO></ITEM>]\n{9}x [<ITEM>{7}<INFO>{8}</INFO></ITEM>]",
         "es-ES": "====[Requisitos]====\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}°³\n[<ITEM>{4}<INFO>{5}</INFO></ITEM>] {6}°³\n[<ITEM>{7}<INFO>{8}</INFO></ITEM>] {9}°³"
     },
     "AtOhCQ": {
         "en-US": "^FF0000Not enough!^000000\n===[Requirement]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s\n[<ITEM>{4}<INFO>{5}</INFO></ITEM>] {6}s\n[<ITEM>{7}<INFO>{8}</INFO></ITEM>] {9}s",
-        "pt-BR": "^FF0000Não é o suficiente!^000000\n===[Requisito]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s\n[<ITEM>{4}<INFO>{5}</INFO></ITEM>] {6}s\n[<ITEM>{7}<INFO>{8}</INFO></ITEM>] {9}s",
+        "pt-BR": "^FF0000Não é o suficiente!^000000\n===[Requisito]===\n{0} Zeny\n{3}x [<ITEM>{1}<INFO>{2}</INFO></ITEM>]\n{6}x [<ITEM>{4}<INFO>{5}</INFO></ITEM>]\n{9}x [<ITEM>{7}<INFO>{8}</INFO></ITEM>]",
         "es-ES": "^FF0000¡No es suficiente!^000000\n===[Requisitos]===\n{0} Zeny\n[<ITEM>{1}<INFO>{2}</INFO></ITEM>] {3}s\n[<ITEM>{4}<INFO>{5}</INFO></ITEM>] {6}s\n[<ITEM>{7}<INFO>{8}</INFO></ITEM>] {9}s"
     },
     "A9OhCQ": {
@@ -1326,12 +1326,12 @@
     },
     "CdOhCQ": {
         "en-US": "Enchant Info",
-        "pt-BR": "Lista de opções",
+        "pt-BR": "Ler descrições",
         "es-ES": "Lista de opciones"
     },
     "CtOhCQ": {
         "en-US": "[Hot Air Machine]\n[<ITEM>Flash<INFO>29587</INFO></ITEM>]\n[<ITEM>Strong<INFO>29588</INFO></ITEM>]\n[<ITEM>Celestial Bow<INFO>29589</INFO></ITEM>]\n[<ITEM>Divine Power<INFO>29590</INFO></ITEM>]\n[<ITEM>Rigid<INFO>29591</INFO></ITEM>]\n[<ITEM>White Cloud<INFO>29592</INFO></ITEM>]\nYou can choose these upgrades above.",
-        "pt-BR": "[Máquina de Ar Quente]\nLista de opções:\n[<ITEM>Desânimo<INFO>29587</INFO></ITEM>]\n[<ITEM>Lucidez<INFO>29588</INFO></ITEM>]\n[<ITEM>Êxtase<INFO>29589</INFO></ITEM>]\n[<ITEM>Síncope<INFO>29590</INFO></ITEM>]\n[<ITEM>Calmaria<INFO>29591</INFO></ITEM>]\n[<ITEM>Melancolia<INFO>29592</INFO></ITEM>]",
+        "pt-BR": "[Máquina de Ar Quente]\nEstes são os encantos disponíveis\n[<ITEM>Desânimo<INFO>29587</INFO></ITEM>]\n[<ITEM>Lucidez<INFO>29588</INFO></ITEM>]\n[<ITEM>Êxtase<INFO>29589</INFO></ITEM>]\n[<ITEM>Síncope<INFO>29590</INFO></ITEM>]\n[<ITEM>Calmaria<INFO>29591</INFO></ITEM>]\n[<ITEM>Melancolia<INFO>29592</INFO></ITEM>]",
         "es-ES": "[Máquina de Aire Caliente]\nLista de opciones:\n[<ITEM>Destello<INFO>29587</INFO></ITEM>]\n[<ITEM>Fortaleza<INFO>29588</INFO></ITEM>]\n[<ITEM>Arco Celestial<INFO>29589</INFO></ITEM>]\n[<ITEM>Poder Divino<INFO>29590</INFO></ITEM>]\n[<ITEM>Cuerpo Fuerte<INFO>29591</INFO></ITEM>]\n[<ITEM>Perla Celestial<INFO>29592</INFO></ITEM>]"
     }
 }

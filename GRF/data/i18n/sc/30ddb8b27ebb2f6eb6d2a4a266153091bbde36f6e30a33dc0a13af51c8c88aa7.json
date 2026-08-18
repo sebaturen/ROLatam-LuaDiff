@@ -20,13 +20,13 @@
         "es-ES": "Deseo participar en la Temporada 2 del Pase de Batalla"
     },
     "BC1mDQ": {
-        "en-US": "Nothing, just came to say hello",
-        "pt-BR": "Nada não, só vim cumprimentar",
+        "en-US": "Nothing, just came to say hello.",
+        "pt-BR": "Nada não, só vim dizer 'oi'.",
         "es-ES": "Nada, solo vine a saludar"
     },
     "BS1mDQ": {
         "en-US": "[Ascundaiga]\nPlease allow me a moment to verify.",
-        "pt-BR": "[Ascundaiga]\nDeixe-me verificar rapidamente.",
+        "pt-BR": "[Ascundaiga]\nUm momento para eu verificar.",
         "es-ES": "[Ascundaiga]\nDame un momento para verificarlo."
     },
     "Bi1mDQ": {
@@ -41,13 +41,13 @@
     },
     "CC1mDQ": {
         "en-US": "[Ascundaiga]\nYour eligibility has been confirmed.\nThank you for participating in Battle Pass Season 2.",
-        "pt-BR": "[Ascundaiga]\nCondições confirmadas.\nObrigado por participar do Passe de Batalha Temporada 2.",
+        "pt-BR": "[Ascundaiga]\nCondições atendidas.\nObrigado por participar do Passe de Batalha Temporada 2.",
         "es-ES": "[Ascundaiga]\nSe han verificado las condiciones.\nGracias por participar en la Temporada 2 del Pase de Batalla."
     },
     "CS1mDQ": {
-        "en-US": "[Ascundaiga]\nHere you are.\n[Normal] Battle Pass Season 2\nPlease accept it.",
-        "pt-BR": "[Ascundaiga]\nAqui está.\n[Normal] Passe de Batalha Temporada 2\nPor favor, aceite.",
-        "es-ES": "[Ascundaiga]\nAquí tienes.\n[Normal] Pase de Batalla Temporada 2\nRecíbelo, por favor."
+        "en-US": "[Ascundaiga]\nHere you are.\nBasic Battle Pass Season 2\nPlease accept it.",
+        "pt-BR": "[Ascundaiga]\nAqui está.\nPasse de Batalha Básico Temporada 2\nPor favor, aceite.",
+        "es-ES": "[Ascundaiga]\nAquí tienes.\nPase de Batalla Básico Temporada 2\nRecíbelo, por favor."
     },
     "Ci1mDQ": {
         "en-US": "[Ascundaiga]\nEnjoy Battle Pass Season 2.",
@@ -76,7 +76,7 @@
     },
     "Dy1mDQ": {
         "en-US": "[Ascundaiga]\nI am Ascundaiga, the Battle Pass Officer.\nPlease let me know if you have any inquiries or need to collect rewards.",
-        "pt-BR": "[Ascundaiga]\nSou Ascundaiga, responsável pelo Passe de Batalha.\nSe precisar de informações ou resgatar recompensas, é só falar.",
+        "pt-BR": "[Ascundaiga]\nSou Ascundaiga, responsável pelo Passe de Batalha.\nSe precisar de informações ou resgate de recompensas, é só falar comigo.",
         "es-ES": "[Ascundaiga]\nSoy Ascundaiga, la encargada del Pase de Batalla.\nSi necesitas consultas o recibir recompensas, dímelo."
     },
     "EC1mDQ": {
@@ -110,9 +110,9 @@
         "es-ES": "[Ascundaiga]\nSelecciona la opción que desees."
     },
     "Fi1mDQ": {
-        "en-US": "Exchange Normal Battle Pass Rewards",
-        "pt-BR": "Trocar Recompensas do Passe de Batalha Normal",
-        "es-ES": "Canjear recompensas del Pase de Batalla Normal"
+        "en-US": "Exchange Basic Battle Pass Rewards",
+        "pt-BR": "Trocar Recompensas do Passe de Batalha Básico",
+        "es-ES": "Canjear recompensas del Pase de Batalla Básico"
     },
     "Fy1mDQ": {
         "en-US": "Exchange Premium Battle Pass Rewards",
@@ -120,9 +120,9 @@
         "es-ES": "Canjear recompensas del Pase de Batalla Premium"
     },
     "GC1mDQ": {
-        "en-US": "[Ascundaiga]\nYou need a Normal Battle Pass.",
-        "pt-BR": "[Ascundaiga]\nVocê precisa de Passe de Batalha Normal.",
-        "es-ES": "[Ascundaiga]\nNecesitas el Pase de Batalla Normal."
+        "en-US": "[Ascundaiga]\nYou need a Basic Battle Pass.",
+        "pt-BR": "[Ascundaiga]\nVocê precisa de Passe de Batalha Básico.",
+        "es-ES": "[Ascundaiga]\nNecesitas el Pase de Batalla Básico."
     },
     "GS1mDQ": {
         "en-US": "[Ascundaiga]\nReward Collection\n^FF0000 Player must have at least 20 free slots in the character's inventory ^000000\nIf you are not prepared, you may encounter issues receiving items.",
@@ -131,7 +131,7 @@
     },
     "Gi1mDQ": {
         "en-US": "[Ascundaiga]\nProceed?\n^FF0000 You must also have at least 20 free slots in storage ^000000\nWe are not responsible for any problems arising from lack of preparation.",
-        "pt-BR": "[Ascundaiga]\nDeseja continuar?\n^FF0000 Você também deve ter pelo menos 20 espaços livres no inventário de armazenamento ^000000\nSe não estiver preparado e ocorrer algum problema, não nos responsabilizamos.",
+        "pt-BR": "[Ascundaiga]\nDeseja continuar?\n^FF0000 Você deve ter pelo menos 20 espaços livres no inventário.^000000\nSe não estiver preparado e ocorrer algum problema, não nos responsabilizaremos.",
         "es-ES": "[Ascundaiga]\n¿Deseas continuar?\n^FF0000 También debes tener al menos 20 espacios en el slot de almacenamiento ^000000\nSi no te preparas y surge algún problema, no nos hacemos responsables"
     },
     "Gy1mDQ": {},
@@ -156,9 +156,9 @@
         "es-ES": "[Ascundaiga]\nEntregando recompensas."
     },
     "IC1mDQ": {
-        "en-US": "[Ascundaiga]\nAll available rewards have been sent.\nFor the Normal Battle Pass, rewards can only be collected up to the maximum level of 100.",
-        "pt-BR": "[Ascundaiga]\nTodas as recompensas disponíveis já foram enviadas.\nPara o Passe de Batalha Normal, as recompensas só podem ser resgatadas até o nível máximo 100.",
-        "es-ES": "[Ascundaiga]\nTodas las recompensas disponibles ya han sido enviadas\nPara el Pase de Batalla Normal, solo se pueden recibir recompensas hasta el nivel 100 inclusive"
+        "en-US": "[Ascundaiga]\nAll available rewards have been sent.\nFor the Basic Battle Pass, rewards can only be collected up to the maximum level of 100.",
+        "pt-BR": "[Ascundaiga]\nTodas as recompensas disponíveis já foram enviadas.\nPara o Passe de Batalha Básico, as recompensas só podem ser resgatadas até o nível máximo 100.",
+        "es-ES": "[Ascundaiga]\nTodas las recompensas disponibles ya han sido enviadas\nPara el Pase de Batalla Básico, solo se pueden recibir recompensas hasta el nivel 100 inclusive"
     },
     "IS1mDQ": {
         "en-US": "[Ascundaiga]\nTo receive additional rewards, you must first upgrade to the Premium Battle Pass.",
@@ -187,12 +187,12 @@
     },
     "Ji1mDQ": {
         "en-US": "[Ascundaiga]\nProcessing complete.\nYou can now select Premium options to claim additional rewards.",
-        "pt-BR": "[Ascundaiga]\nProcesso concluído.\nAgora você pode selecionar itens Premium para receber recompensas adicionais.",
+        "pt-BR": "[Ascundaiga]\nProcesso concluído.\nAgora você pode selecionar a opção Premium para receber recompensas adicionais.",
         "es-ES": "[Ascundaiga]\nProcesamiento completado.\nAhora puedes seleccionar la opción Premium para recibir recompensas adicionales"
     },
     "Jy1mDQ": {
         "en-US": "[Ascundaiga]\nYou are already a Premium Pass member.\nYou can select the Premium reward options to check your extra rewards.",
-        "pt-BR": "[Ascundaiga]\nVocê já é membro da categoria Premium.\nSelecione itens Premium para verificar recompensas adicionais.",
+        "pt-BR": "[Ascundaiga]\nVocê já é membro da categoria Premium.\nSelecione a opção de recompensas Premium para verificar recompensas adicionais.",
         "es-ES": "[Ascundaiga]\nYa eres miembro de categoría Premium\nPuedes seleccionar la opción de recompensas Premium para ver las recompensas adicionales"
     },
     "KC1mDQ": {
@@ -212,7 +212,7 @@
     },
     "Ky1mDQ": {
         "en-US": "[Ascundaiga]\nProceed?\n^FF0000 You must also have at least 20 free slots in storage ^000000\nWe are not responsible for any problems arising from lack of preparation.",
-        "pt-BR": "[Ascundaiga]\nDeseja continuar?\n^FF0000 Você também deve ter pelo menos 20 slots livres no inventário de armazenamento ^000000\nSe não estiver preparado e ocorrer algum problema, não nos responsabilizamos",
+        "pt-BR": "[Ascundaiga]\nDeseja continuar?\n^FF0000 Você deve ter pelo menos 20 slots livres no inventário.^000000\nSe não estiver preparado e ocorrer algum problema, não nos responsabilizaremos.",
         "es-ES": "[Ascundaiga]\n¿Deseas continuar?\n^FF0000 También debes tener al menos 20 espacios en el slot de almacenamiento ^000000\nSi no te preparas y surge algún problema, no nos hacemos responsables"
     },
     "LC1mDQ": {
@@ -221,54 +221,54 @@
         "es-ES": "[Ascundaiga]\nSi necesitas ayuda, vuelve a buscarme"
     },
     "LS1mDQ": {
-        "en-US": "[Ascundaiga]\nYou have already received a Sealed Low Guarantee Ticket.",
-        "pt-BR": "[Ascundaiga]\nVocê já recebeu o Bilhete de Garantia Selado de Baixo Nível.",
-        "es-ES": "[Ascundaiga]\nYa has recibido el Boleto Sellado de Garantía Baja."
+        "en-US": "[Ascundaiga]\nYou have already received a Low Refine Box.",
+        "pt-BR": "[Ascundaiga]\nVocê já recebeu o Caixa de Baixo Refino.",
+        "es-ES": "[Ascundaiga]\nYa has recibido el Caja de Bajo Refinamiento."
     },
     "Li1mDQ": {
-        "en-US": "[Ascundaiga]\nYou have already received 30 Treasure Box I (Battle Pass) items.",
-        "pt-BR": "[Ascundaiga]\nVocê já recebeu 30x Baú do Tesouro I (Passe de Batalha).",
-        "es-ES": "[Ascundaiga]\nYa has recibido 30 Cofres Tesoro I (Pase de Batalla)."
+        "en-US": "[Ascundaiga]\nYou have already received 30x Basic Research.",
+        "pt-BR": "[Ascundaiga]\nVocê já recebeu 30x Pesquisa Básica.",
+        "es-ES": "[Ascundaiga]\nYa has recibido 30x Investigación Básica."
     },
     "Ly1mDQ": {
-        "en-US": "[Ascundaiga]\nYou have already received Mask of Sin Fate [1].",
-        "pt-BR": "[Ascundaiga]\nVocê já recebeu a Máscara do Destino Pecaminoso [1].",
-        "es-ES": "[Ascundaiga]\nYa has recibido la Máscara de pecado fatal [1]."
+        "en-US": "[Ascundaiga]\nYou have already received 1x [Costume] Vine Backpack.",
+        "pt-BR": "[Ascundaiga]\nVocê já recebeu 1x [Visual] Mochila de Vinha",
+        "es-ES": "[Ascundaiga]\nYa has recibido 1x [Disfraz] Mochila de Vid."
     },
     "MC1mDQ": {
-        "en-US": "[Ascundaiga]\nYou have already received 30 Treasure Box II (Battle Pass) items.",
-        "pt-BR": "[Ascundaiga]\nVocê já recebeu 30x Baú do Tesouro II (Passe de Batalha).",
-        "es-ES": "[Ascundaiga]\nYa has recibido 30 Cofres Tesoro II (Pase de Batalla)."
+        "en-US": "[Ascundaiga]\nYou have already received 30x Advanced Research.",
+        "pt-BR": "[Ascundaiga]\nVocê já recebeu 30x Pesquisa Avançada.",
+        "es-ES": "[Ascundaiga]\nYa has recibido 30x Investigación Avanzada."
     },
     "MS1mDQ": {
-        "en-US": "[Ascundaiga]\nYou have already received a Costume Twin Edge.",
-        "pt-BR": "[Ascundaiga]\nVocê já recebeu a [Visual] Gema Gêmea do Destino.",
-        "es-ES": "[Ascundaiga]\nYa has recibido el Atuendo Filo Gemelo."
+        "en-US": "[Ascundaiga]\nYou have already received 1x [Costume] Leticia's Wings.",
+        "pt-BR": "[Ascundaiga]\nVocê já recebeu 1x [Visual] Asas de Letícia.",
+        "es-ES": "[Ascundaiga]\nYa has recibido 1x [Disfraz] Alas de Leticia."
     },
     "Mi1mDQ": {
-        "en-US": "[Ascundaiga]\nYou have already received 30 Treasure Box III (Battle Pass) items.",
-        "pt-BR": "[Ascundaiga]\nVocê já recebeu 30x Baú do Tesouro III (Passe de Batalha).",
-        "es-ES": "[Ascundaiga]\nYa has recibido 30 Cofres Tesoro III (Pase de Batalla)."
+        "en-US": "[Ascundaiga]\nYou have already received 30x Professional Research.",
+        "pt-BR": "[Ascundaiga]\nVocê já recebeu 30x Pesquisa Profissional.",
+        "es-ES": "[Ascundaiga]\nYa has recibido 30x Investigación Profesional."
     },
     "My1mDQ": {
-        "en-US": "[Ascundaiga]\nYou have already received 1 Guarantee Weapon 12 Up Pack.",
-        "pt-BR": "[Ascundaiga]\nVocê já recebeu 1x Pacote de Melhoria +12 de Arma Garantida.",
-        "es-ES": "[Ascundaiga]\nYa has recibido 1 Paquete de Mejora de Arma Garantizada 12."
+        "en-US": "[Ascundaiga]\nYou have already received 1x Weapon +12 Refine Ticket.",
+        "pt-BR": "[Ascundaiga]\nVocê já recebeu 1x Caixa de Arma +12.",
+        "es-ES": "[Ascundaiga]\nYa has recibido 1x Caja de Arma +12."
     },
     "NC1mDQ": {
-        "en-US": "[Ascundaiga]\nYou have already received 1 Guarantee Armor 12 Up Pack.",
-        "pt-BR": "[Ascundaiga]\nVocê já recebeu 1x Pacote de Melhoria +12 de Armadura Garantida.",
-        "es-ES": "[Ascundaiga]\nYa has recibido 1 Paquete de Mejora de Armadura Garantizada 12."
+        "en-US": "[Ascundaiga]\nYou have already received 1x Armor +12 Refine Ticket.",
+        "pt-BR": "[Ascundaiga]\nVocê já recebeu 1x Caixa de Armadura +12",
+        "es-ES": "[Ascundaiga]\nYa has recibido 1x Caja de Armadura +12."
     },
     "NS1mDQ": {
-        "en-US": "[Ascundaiga]\nYou have already received 1 Guarantee Weapon 12 Up Pack\n??? 1 Guarantee Armor 12 Up Pack.",
-        "pt-BR": "[Ascundaiga]\nVocê já recebeu 1x Pacote de Melhoria +12 de Arma Garantida\ne 1x Pacote de Melhoria +12 de Armadura Garantida.",
-        "es-ES": "[Ascundaiga]\nYa has recibido 1 Paquete de Mejora de Arma Garantizada 12\n??? y 1 Paquete de Mejora de Armadura Garantizada 12."
+        "en-US": "[Ascundaiga]\nYou have already received 1x Weapon +12 Refine Ticket and 1x Armor +12 Refine Ticket.",
+        "pt-BR": "[Ascundaiga]\nVocê já recebeu 1x Caixa de Arma +12\ne 1x Caixa de Armadura +12",
+        "es-ES": "[Ascundaiga]\nYa has recibido 1x Caja de Arma +12 y 1x Caja de Armadura +12."
     },
     "Ni1mDQ": {
-        "en-US": "[Ascundaiga]\nCalculating Treasure Box rewards for levels beyond 100.",
-        "pt-BR": "[Ascundaiga]\nCalculando recompensas do Baú do Tesouro após o nível 100.",
-        "es-ES": "[Ascundaiga]\nProcediendo al cálculo de recompensas de Cofres Tesoro después del nivel 100."
+        "en-US": "[Ascundaiga]\nCalculating Research rewards for levels beyond 100.",
+        "pt-BR": "[Ascundaiga]\nCalculando recompensas de Pesquisa por nível de Passe.",
+        "es-ES": "[Ascundaiga]\nProcediendo al cálculo de recompensas de Investigación después del nivel 100."
     },
     "Ny1mDQ": {
         "en-US": "[Ascundaiga]\nAll rewards have been distributed.\nRewards have been sent for your current level up to {0}.\nThe points remaining until the next level are {1}.",
@@ -286,9 +286,9 @@
         "es-ES": "Mejorar nivel del Pase"
     },
     "Oi1mDQ": {
-        "en-US": "[Ascundaiga]\nCannot proceed because you do not have a Basic Manual.",
-        "pt-BR": "[Ascundaiga]\nNão é possível prosseguir porque você não tem o Manual Normal.",
-        "es-ES": "[Ascundaiga]\nNo se puede continuar porque no tienes el manual común"
+        "en-US": "[Ascundaiga]\nCannot proceed because you do not have a Basic Pass.",
+        "pt-BR": "[Ascundaiga]\nNão é possível prosseguir porque você não tem o Passe Básico.",
+        "es-ES": "[Ascundaiga]\nNo se puede continuar porque no tienes el Pase Básico."
     },
     "Oy1mDQ": {
         "en-US": "[Ascundaiga]\nYour Battle Pass is already Premium.",
@@ -296,29 +296,29 @@
         "es-ES": "[Ascundaiga]\nEl Pase de Batalla ya es de categoría Premium"
     },
     "PC1mDQ": {
-        "en-US": "[Ascundaiga]\nSpecial Promotion Upgrade applies only to one upgrade.\nUpgrading along with levels is cheaper.\nPlease select the option you desire. Proceed",
-        "pt-BR": "[Ascundaiga]\nA melhoria por promoção especial se aplica apenas a uma única melhoria.\nMelhorar junto com o nível sai mais barato.\nSelecione a opção desejada. Continuar",
-        "es-ES": "[Ascundaiga]\nLa mejora con promoción especial aplica solo para una mejora\nMejorar junto con el nivel resulta más económico\nSelecciona la opción que desees. Continuar"
+        "en-US": "[Ascundaiga]\nSpecial Promotion Upgrade applies only to one upgrade.\nUpgrading along with levels is cheaper.\nPlease select the option you desire.",
+        "pt-BR": "[Ascundaiga]\nA melhoria por promoção especial se aplica a apenas uma única melhoria.\nMelhorar junto com o nível sai mais barato.\nSelecione a opção desejada.",
+        "es-ES": "[Ascundaiga]\nLa mejora con promoción especial aplica solo para una mejora\nMejorar junto con el nivel resulta más económico\nSelecciona la opción que desees."
     },
     "PS1mDQ": {
-        "en-US": "Upgrade (49 Nyangvine)",
-        "pt-BR": "Melhorar (49 MiauMiau)",
-        "es-ES": "Mejorar (49 Miaufruto)"
+        "en-US": "Upgrade (49x Nyangvine)",
+        "pt-BR": "Melhorar (49x MiauMiau)",
+        "es-ES": "Mejorar (49x Miaufruto)"
     },
     "Pi1mDQ": {
-        "en-US": "Upgrade to Level 25 (115 Nyangvine)",
-        "pt-BR": "Melhorar para Nível 25 (115 MiauMiau)",
-        "es-ES": "Mejorar al nivel 25 (115 Miaufruto)"
+        "en-US": "Upgrade to Level 25 (115x Nyangvine)",
+        "pt-BR": "Melhorar para Nível 25 (115x MiauMiau)",
+        "es-ES": "Mejorar al nivel 25 (115x Miaufruto)"
     },
     "Py1mDQ": {
-        "en-US": "Upgrade to Level 100 (295 Nyangvine)",
-        "pt-BR": "Melhorar para Nível 100 (295 MiauMiau)",
-        "es-ES": "Mejorar al nivel 100 (295 Miaufruto)"
+        "en-US": "Upgrade to Level 100 (295x Nyangvine)",
+        "pt-BR": "Melhorar para Nível 100 (295x MiauMiau)",
+        "es-ES": "Mejorar al nivel 100 (295x Miaufruto)"
     },
     "QC1mDQ": {
-        "en-US": "[Ascundaiga]\nYou need 49 Nyangvine. It seems you do not have enough.",
-        "pt-BR": "[Ascundaiga]\nPrecisa de 49 MiauMiau. Parece que você não tem o suficiente.",
-        "es-ES": "[Ascundaiga]\nSe necesitan 49 Miaufruto. Parece que no tienes suficientes"
+        "en-US": "[Ascundaiga]\nYou need 49x Nyangvine. It seems you do not have enough.",
+        "pt-BR": "[Ascundaiga]\nÉ necessário ter 49x MiauMiau. Parece que você não tem o suficiente.",
+        "es-ES": "[Ascundaiga]\nSe necesitan 49x Miaufruto. Parece que no tienes suficientes"
     },
     "QS1mDQ": {
         "en-US": "[Ascundaiga]\nProcessing complete.\nYou can now select Premium options to claim additional rewards.",
@@ -326,24 +326,24 @@
         "es-ES": "[Ascundaiga]\nProcesamiento completado.\nAhora puedes seleccionar la opción Premium para recibir recompensas adicionales"
     },
     "Qi1mDQ": {
-        "en-US": "[Ascundaiga]\nYou need 115 Nyangvine. It seems you do not have enough.",
-        "pt-BR": "[Ascundaiga]\nPrecisa de 115 MiauMiau. Parece que você não tem quantidade suficiente.",
-        "es-ES": "[Ascundaiga]\nSe necesitan 115 Miaufruto. Parece que no tienes suficientes"
+        "en-US": "[Ascundaiga]\nYou need 115x Nyangvine. It seems you do not have enough.",
+        "pt-BR": "[Ascundaiga]\nPrecisa de 115x MiauMiau. Parece que você não tem quantidade suficiente.",
+        "es-ES": "[Ascundaiga]\nSe necesitan 115x Miaufruto. Parece que no tienes suficientes"
     },
     "Qy1mDQ": {
-        "en-US": "[Ascundaiga]\nYou need 295 Nyangvine. It seems you do not have enough.",
-        "pt-BR": "[Ascundaiga]\nPrecisa de 295 MiauMiau. Parece que você não tem quantidade suficiente.",
-        "es-ES": "[Ascundaiga]\nSe necesitan 295 Miaufruto. Parece que no tienes suficientes"
+        "en-US": "[Ascundaiga]\nYou need 295x Nyangvine. It seems you do not have enough.",
+        "pt-BR": "[Ascundaiga]\nÉ necessário ter 295x MiauMiau. Parece que você não tem quantidade suficiente.",
+        "es-ES": "[Ascundaiga]\nSe necesitan 295x Miaufruto. Parece que no tienes suficientes"
     },
     "RC1mDQ": {
-        "en-US": "[Ascundaiga]\nPlease review the terms of use.\n1. Upgrading the Battle Pass level costs 3 Nyangvine per level, or you can use a special ticket.\n2. Upgraded levels apply to both the Normal and Premium systems.\n3. Gaining 1 level earns you 10 Battle Pass EXP.",
-        "pt-BR": "[Ascundaiga]\nPor favor, verifique as regras de uso.\n1. Melhorar o nível do Passe de Batalha requer 3 MiauMiau por nível,\n   ou pode ser substituído por um ticket especial.\n2. Os níveis melhorados se aplicam a todo o sistema Normal e Premium.\n3. Ao ganhar 1 nível, você adquire 10 de EXP do Passe de Batalha.",
-        "es-ES": "[Ascundaiga]\nRevisa las reglas de uso.\n1. Mejorar un nivel del Pase de Batalla cuesta 3 Miaufruto por nivel\n   o se puede sustituir con un boleto especial\n2. Los niveles mejorados se aplican a todo el sistema Normal y Premium\n3. Al obtener 1 nivel, obtienes 10 EXP de Pase de Batalla"
+        "en-US": "[Ascundaiga]\nPlease review the terms of use.\n1. Upgrading the Battle Pass level costs 3x Nyangvine per level, or you can use a special ticket.\n2. Upgraded levels apply to both the Basic and Premium systems.\n3. Gaining 1 level earns you 10 Battle Pass EXP.",
+        "pt-BR": "[Ascundaiga]\nPor favor, verifique as regras de uso.\n1. Melhorar o nível do Passe de Batalha requer 3x MiauMiau por nível,\n   ou pode ser substituído por um ticket especial.\n2. Os níveis melhorados se aplicam para o Básico e para o Premium.\n3. Ao ganhar 1 nível, você adquire 10 de EXP do Passe de Batalha.",
+        "es-ES": "[Ascundaiga]\nRevisa las reglas de uso.\n1. Mejorar un nivel del Pase de Batalla cuesta 3x Miaufruto por nivel\n   o se puede sustituir con un boleto especial\n2. Los niveles mejorados se aplican a todo el sistema Básico y Premium\n3. Al obtener 1 nivel, obtienes 10 EXP de Pase de Batalla"
     },
     "RS1mDQ": {
-        "en-US": "[Ascundaiga]\nPlease select the option you desire. Proceed",
-        "pt-BR": "[Ascundaiga]\nSelecione a opção desejada. Continuar",
-        "es-ES": "[Ascundaiga]\nSelecciona la opción que desees. Continuar"
+        "en-US": "[Ascundaiga]\nPlease select the option you desire.",
+        "pt-BR": "[Ascundaiga]\nSelecione a opção desejada.",
+        "es-ES": "[Ascundaiga]\nSelecciona la opción que desees."
     },
     "Ri1mDQ": {
         "en-US": "1 Level",
@@ -371,19 +371,19 @@
         "es-ES": "500 Niveles"
     },
     "Sy1mDQ": {
-        "en-US": "??????",
-        "pt-BR": "??????",
-        "es-ES": "??????"
+        "en-US": "Nevermind...",
+        "pt-BR": "Deixa pra lá...",
+        "es-ES": "No me interesa..."
     },
     "TC1mDQ": {
-        "en-US": "[Ascundaiga]\n????? Battle Pass ???????????????? 3000",
-        "pt-BR": "[Ascundaiga]\n????? Passe de Batalha ???????????????? 3000",
-        "es-ES": "[Ascundaiga]\n????? Pase de Batalla ???????????????? 3000"
+        "en-US": "[Ascundaiga]\nThe Battle Pass level cannot exceed 3000.",
+        "pt-BR": "[Ascundaiga]\nO nível do Passe de Batalha não pode exceder 3000.",
+        "es-ES": "[Ascundaiga]\nEl nivel del Pase de Batalla no puede exceder 3000."
     },
     "TS1mDQ": {
-        "en-US": "[Ascundaiga]\nThe processing fee is 3 Nyangvine or 1 Special Ticket.\nHow would you like to pay?",
-        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 3 MiauMiau ou 1 ticket especial.\nComo deseja pagar?",
-        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 3 Miaufruto o 1 boleto especial\n¿Con qué deseas pagar?"
+        "en-US": "[Ascundaiga]\nThe processing fee is 3x Nyangvine or 1x Special Ticket.\nHow would you like to pay?",
+        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 3x MiauMiau ou 1x bilhete especial.\nComo deseja pagar?",
+        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 3x Miaufruto o 1x boleto especial\n¿Con qué deseas pagar?"
     },
     "Ti1mDQ": {
         "en-US": "Nyangvine",
@@ -392,7 +392,7 @@
     },
     "Ty1mDQ": {
         "en-US": "Special Ticket",
-        "pt-BR": "Ticket Especial",
+        "pt-BR": "Bilhete Especial",
         "es-ES": "Boleto especial"
     },
     "UC1mDQ": {
@@ -412,7 +412,7 @@
     },
     "Uy1mDQ": {
         "en-US": "[Ascundaiga]\nPlease obtain the required ticket.",
-        "pt-BR": "[Ascundaiga]\nTraga o ticket necessário.",
+        "pt-BR": "[Ascundaiga]\nTraga o bilhete necessário.",
         "es-ES": "[Ascundaiga]\nTrae el boleto necesario"
     },
     "VC1mDQ": {
@@ -421,9 +421,9 @@
         "es-ES": "[Ascundaiga]\nEl nivel del Pase de Batalla no puede superar 3000"
     },
     "VS1mDQ": {
-        "en-US": "[Ascundaiga]\nThe processing fee is 30 Nyangvine or 10 Special Tickets.\nHow would you like to pay?",
-        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 30 MiauMiau ou 10 tickets especiais.\nComo deseja pagar?",
-        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 30 Miaufruto o 10 boletos especiales\n¿Con qué deseas pagar?"
+        "en-US": "[Ascundaiga]\nThe processing fee is 30x Nyangvine or 10x Special Tickets.\nHow would you like to pay?",
+        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 30x MiauMiau ou 10x bilhetes especiais.\nComo deseja pagar?",
+        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 30x Miaufruto o 10x boletos especiales\n¿Con qué deseas pagar?"
     },
     "Vi1mDQ": {
         "en-US": "[Ascundaiga]\nPlease prepare enough Nyangvine.",
@@ -436,9 +436,9 @@
         "es-ES": "[Ascundaiga]\nPrepara suficientes boletos especiales"
     },
     "WC1mDQ": {
-        "en-US": "[Ascundaiga]\nThe processing fee is 150 Nyangvine or 50 Special Tickets.\nHow would you like to pay?",
-        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 150 MiauMiau ou 50 tickets especiais.\nComo deseja pagar?",
-        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 150 Miaufruto o 50 boletos especiales\n¿Con qué deseas pagar?"
+        "en-US": "[Ascundaiga]\nThe processing fee is 150x Nyangvine or 50x Special Tickets.\nHow would you like to pay?",
+        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 150x MiauMiau ou 50x bilhetes especiais.\nComo deseja pagar?",
+        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 150x Miaufruto o 50x boletos especiales\n¿Con qué deseas pagar?"
     },
     "WS1mDQ": {
         "en-US": "[Ascundaiga]\nProcessing complete\nBattle Pass EXP increased by 500",
@@ -446,9 +446,9 @@
         "es-ES": "[Ascundaiga]\nProcesamiento completado\nEXP del Pase de Batalla aumentada en 500"
     },
     "Wi1mDQ": {
-        "en-US": "[Ascundaiga]\nThe processing fee is 600 Nyangvine or 200 Special Tickets.\nHow would you like to pay?",
-        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 600 MiauMiau ou 200 tickets especiais.\nComo deseja pagar?",
-        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 600 Miaufruto o 200 boletos especiales\n¿Con qué deseas pagar?"
+        "en-US": "[Ascundaiga]\nThe processing fee is 600x Nyangvine or 200x Special Tickets.\nHow would you like to pay?",
+        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 600x MiauMiau ou 200x bilhetes especiais.\nComo deseja pagar?",
+        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 600x Miaufruto o 200x boletos especiales\n¿Con qué deseas pagar?"
     },
     "Wy1mDQ": {
         "en-US": "[Ascundaiga]\nProcessing complete\nBattle Pass EXP increased by 2000",
@@ -456,9 +456,9 @@
         "es-ES": "[Ascundaiga]\nProcesamiento completado\nEXP del Pase de Batalla aumentada en 2000"
     },
     "XC1mDQ": {
-        "en-US": "[Ascundaiga]\nThe processing fee is 1500 Nyangvine or 500 Special Tickets.\nHow would you like to pay?",
-        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 1500 MiauMiau ou 500 tickets especiais.\nComo deseja pagar?",
-        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 1500 Miaufruto o 500 boletos especiales\n¿Con qué deseas pagar?"
+        "en-US": "[Ascundaiga]\nThe processing fee is 1500x Nyangvine or 500x Special Tickets.\nHow would you like to pay?",
+        "pt-BR": "[Ascundaiga]\nA taxa de processamento é de 1500x MiauMiau ou 500x bilhetes especiais.\nComo deseja pagar?",
+        "es-ES": "[Ascundaiga]\nEl costo de procesamiento es 1500x Miaufruto o 500x boletos especiales\n¿Con qué deseas pagar?"
     },
     "XS1mDQ": {
         "en-US": "[Ascundaiga]\nProcessing complete\nBattle Pass EXP increased by 5000",

@@ -23894,21 +23894,21 @@
     },
     "TVNJX0RBTUFHRV9ESVJfTEVGVA==": {
         "ko-KR": "↖",
-        "en-US": "↖",
-        "pt-BR": "↖",
-        "es-ES": "↖"
+        "en-US": "<",
+        "pt-BR": "<",
+        "es-ES": "<"
     },
     "TVNJX0RBTUFHRV9ESVJfQ0VOVEVS": {
         "ko-KR": "↑",
-        "en-US": "↑",
-        "pt-BR": "↑",
-        "es-ES": "↑"
+        "en-US": "^",
+        "pt-BR": "^",
+        "es-ES": "^"
     },
     "TVNJX0RBTUFHRV9ESVJfUklHSFQ=": {
         "ko-KR": "↗",
-        "en-US": "↗",
-        "pt-BR": "↗",
-        "es-ES": "↗"
+        "en-US": ">",
+        "pt-BR": ">",
+        "es-ES": ">"
     },
     "TVNJX0RBTUFHRV9ESVJfREVGQVVMVA==": {
         "ko-KR": "Default",
@@ -25491,7 +25491,7 @@
         "ko-KR": "글로벌 쿨타임",
         "en-US": "Global Cd",
         "pt-BR": "Pós",
-        "es-ES": "Postconjuración"
+        "es-ES": "Posconjuración"
     },
     "TVNJX1NLSUxMX0RFTEFZX0lORk9fU0lOR0xFX1BPU1Q=": {
         "ko-KR": "스킬 쿨타임",

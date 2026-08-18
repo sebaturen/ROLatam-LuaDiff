@@ -15,14 +15,14 @@
         "es-ES": "Master Guardian"
     },
     "QykcAg": {
-        "en-US": "Holy Shadow Palace",
-        "pt-BR": "Palácio da Sombra",
-        "es-ES": "Palacio de las Sombras"
+        "en-US": "Guirin",
+        "pt-BR": "Guirin",
+        "es-ES": "Guirin"
     },
     "RCkcAg": {
         "en-US": "[Reverberating Voice]\nBrave ones...\nDo you wish to go back to your honorable place?",
         "pt-BR": "[ Voz Ecoante ]\nValente combatente...\nDeseja retornar ao seu lugar de glória?",
-        "es-ES": "[Voz reverberante]\nValientes…\n¿Desean volver a su honorable lugar?"
+        "es-ES": "[Voz reverberante]\nValientes...\n¿Desean volver a su honorable lugar?"
     },
     "RSkcAg": {
         "en-US": "Go back to your stronghold.",
@@ -557,7 +557,7 @@
     "rykcAg": {
         "en-US": "[Butler Gheriot]\n...\nKafra Employee dismissed... but is there something you didn't like about?",
         "pt-BR": "[Mordomo Gheriot]\n...\nFuncionária Kafra dispensada... mas há algo de que você não gostou?",
-        "es-ES": "[Mayordomo Gheriot]\n…\nEmpleada de Kafra despedida… ¿hay algo que no haya sido de tu agrado?"
+        "es-ES": "[Mayordomo Gheriot]\n...\nEmpleada de Kafra despedida... ¿hay algo que no haya sido de tu agrado?"
     },
     "sCkcAg": {
         "en-US": "[Butler Gheriot]\nWould you like to contact Kafra and hire one of its employees for your stronghold?\n^FF0000That'll be 10,000 Zeny.",
@@ -688,5 +688,15 @@
         "en-US": "{0} /",
         "pt-BR": "{0} /",
         "es-ES": "{0} /"
+    },
+    "yikcAg": {
+        "en-US": "test ** ssss[{0}] guild has conquered the Holy Shadow Palace in the [ Holy Shadow ] Realm.",
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo [ Holy Shadow ]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [ Holy Shadow ]"
+    },
+    "yykcAg": {
+        "en-US": "ssssThe clan [{0}] has conquered the castle [Guirin]",
+        "pt-BR": "ssssO clã [{0}] conquistou o castelo [Guirin]",
+        "es-ES": "ssssEl gremio [{0}] conquistó el castillo [Guirin]"
     }
 }

@@ -96,13 +96,13 @@
     },
     "k91TDQ": {
         "en-US": "[Carpentry Shop Employee]\nThe request posted by our carpentry shop...\nHmm...",
-        "pt-BR": "[Funcionário da Carpintaria]\nO pedido feito pela carpintaria…\nHmm…",
-        "es-ES": "[Empleado de carpintería]\nUn encargo de la carpintería…\nMmm…"
+        "pt-BR": "[Funcionário da Carpintaria]\nO pedido feito pela carpintaria...\nHmm...",
+        "es-ES": "[Empleado de carpintería]\nUn encargo de la carpintería...\nMmm..."
     },
     "lN1TDQ": {
         "en-US": "Let's see...",
-        "pt-BR": "Vejamos…",
-        "es-ES": "A ver…"
+        "pt-BR": "Vejamos...",
+        "es-ES": "A ver..."
     },
     "ld1TDQ": {
         "en-US": "[Carpentry Shop Employee]\nI'm sorry, dear customer, but it appears that our carpentry shop did not post any request.\nMay I ask which request you saw, dear customer~?",
@@ -121,8 +121,8 @@
     },
     "mN1TDQ": {
         "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 10>If the owner posted a request, he could've at least told me!</FONT>\nCould you please wait a moment, dear customer?\nI'll call the owner for...",
-        "pt-BR": "[Funcionário da Carpintaria]\nOra, se o chefe fez um pedido, podia ao menos ter me avisado!\nPoderia aguardar um instante, caro cliente?\nVou chamar o chefe para…",
-        "es-ES": "[Empleado de carpintería]\n<FONT SIZE = 10>¡Si el jefe había publicado un encargo, al menos podría haberme avisado!</FONT>\n¿Podría esperar un momento, estimado cliente?\nVoy a llamar al jefe…"
+        "pt-BR": "[Funcionário da Carpintaria]\nOra, se o chefe fez um pedido, podia ao menos ter me avisado!\nPoderia aguardar um instante, caro cliente?\nVou chamar o chefe para...",
+        "es-ES": "[Empleado de carpintería]\n<FONT SIZE = 10>¡Si el jefe había publicado un encargo, al menos podría haberme avisado!</FONT>\n¿Podría esperar un momento, estimado cliente?\nVoy a llamar al jefe..."
     },
     "md1TDQ": {
         "en-US": "[Carpentry Shop Employee]\n<FONT SIZE = 14>No, that man has gone out again!!</FONT>\n<FONT SIZE = 10>Don't tell me he went to the forest again!</FONT>\nI can't deal with this!!!",
@@ -167,12 +167,12 @@
     "od1TDQ": {
         "en-US": "[Carpenter Firewood]\nOh dear~~\nAnother complete waste of a day! A waste!!!",
         "pt-BR": "[Carpinteiro Carvalho]\nAi, ai~~\nHoje também não consegui nada! Nadinha!!!",
-        "es-ES": "[Carpintero Robles]\nAy, ay…\n¡Hoy tampoco he conseguido nada! ¡Nada de nada!"
+        "es-ES": "[Carpintero Robles]\nAy, ay...\n¡Hoy tampoco he conseguido nada! ¡Nada de nada!"
     },
     "ot1TDQ": {
         "en-US": "Waaah...",
-        "pt-BR": "Uaaah…",
-        "es-ES": "Uaaah…"
+        "pt-BR": "Uaaah...",
+        "es-ES": "Uaaah..."
     },
     "o91TDQ": {
         "en-US": "Mr. Firewood?",
@@ -181,8 +181,8 @@
     },
     "pN1TDQ": {
         "en-US": "[Carpenter Firewood]\nWho are you?\n......\n......Did Lord I send you?",
-        "pt-BR": "[Carpinteiro Carvalho]\nQuem é?\n…\n…O Senhor Lee mandou você?",
-        "es-ES": "[Carpintero Robles]\n¿Quién eres?\n……\n……¿Te ha enviado Lord Lee?"
+        "pt-BR": "[Carpinteiro Carvalho]\nQuem é?\n...\n...O Senhor Lee mandou você?",
+        "es-ES": "[Carpintero Robles]\n¿Quién eres?\n......\n......¿Te ha enviado Lord Lee?"
     },
     "pd1TDQ": {
         "en-US": "[Carpenter Firewood]\nHe only just finished pestering me, and now he's sent someone again?!\nJust nagging at me won't make the work get done!",
@@ -196,8 +196,8 @@
     },
     "p91TDQ": {
         "en-US": "[Carpenter Firewood]\nUh...\n<FONT SIZE = 14>Ah......</FONT>\n<FONT SIZE = 18><B>Ah!!!!!!!!!</B></FONT>",
-        "pt-BR": "[Carpinteiro Carvalho]\nAh…\n<FONT SIZE = 14>A...</FONT>\n<FONT SIZE = 18><B>A!!!!!!!!!</B></FONT>",
-        "es-ES": "[Carpintero Robles]\nEh…\n<FONT SIZE = 14>Ah…</FONT>\n<FONT SIZE = 18><B>¡¡¡¡¡Ah!!!!!</B></FONT>"
+        "pt-BR": "[Carpinteiro Carvalho]\nAh...\n<FONT SIZE = 14>A...</FONT>\n<FONT SIZE = 18><B>A!!!!!!!!!</B></FONT>",
+        "es-ES": "[Carpintero Robles]\nEh...\n<FONT SIZE = 14>Ah...</FONT>\n<FONT SIZE = 18><B>¡¡¡¡¡Ah!!!!!</B></FONT>"
     },
     "qN1TDQ": {
         "en-US": "Aaah!!!!!!!",
@@ -236,8 +236,8 @@
     },
     "r91TDQ": {
         "en-US": "[Carpenter Firewood]\nJudging by the footprints, they seem to be hoofed creatures, like deer or boars...\nWhy are those grass-eating forest critters so ferocious?!",
-        "pt-BR": "[Carpinteiro Carvalho]\nPelo formato das pegadas, parecem ser criaturas com cascos, como cervos ou javalis…\nMas por que bichos que só pastam na floresta estão tão ferozes assim?",
-        "es-ES": "[Carpintero Robles]\nPor la forma de las huellas, parecen animales con pezuñas, como ciervos o jabalíes…\n¡Pero no entiendo cómo pueden ser tan feroces unas criaturas que solo pastan en el bosque!"
+        "pt-BR": "[Carpinteiro Carvalho]\nPelo formato das pegadas, parecem ser criaturas com cascos, como cervos ou javalis...\nMas por que bichos que só pastam na floresta estão tão ferozes assim?",
+        "es-ES": "[Carpintero Robles]\nPor la forma de las huellas, parecen animales con pezuñas, como ciervos o jabalíes...\n¡Pero no entiendo cómo pueden ser tan feroces unas criaturas que solo pastan en el bosque!"
     },
     "sN1TDQ": {
         "en-US": "Just wait until I catch them! I'll make stew out of them!!",
@@ -271,8 +271,8 @@
     },
     "tt1TDQ": {
         "en-US": "[Carpenter Firewood]\nWell, I'm glad the wild animals ate something, at least......",
-        "pt-BR": "[Carpinteiro Carvalho]\nBom, pelo menos os animais selvagens comeram a comida…",
-        "es-ES": "[Carpintero Robles]\nBueno, al menos los animales salvajes comieron algo……"
+        "pt-BR": "[Carpinteiro Carvalho]\nBom, pelo menos os animais selvagens comeram a comida...",
+        "es-ES": "[Carpintero Robles]\nBueno, al menos los animales salvajes comieron algo......"
     },
     "t91TDQ": {
         "en-US": "[Carpenter Firewood]\nThen could the wild animals have come all the way here while picking that up and eating it?",
@@ -281,13 +281,13 @@
     },
     "uN1TDQ": {
         "en-US": "[Carpenter Firewood]\nWho in the world would do such a strange thing...",
-        "pt-BR": "[Carpinteiro Carvalho]\nQuem diabos faria uma coisa estranha dessas…",
-        "es-ES": "[Carpintero Robles]\nPero ¿quién haría algo tan raro…?"
+        "pt-BR": "[Carpinteiro Carvalho]\nQuem diabos faria uma coisa estranha dessas...",
+        "es-ES": "[Carpintero Robles]\nPero ¿quién haría algo tan raro...?"
     },
     "ud1TDQ": {
         "en-US": "[Carpenter Firewood]\nAnyway, thanks to you taking the job, adventurer, we're starting to see at least a little clue!\nAt this rate, let's solve this before Lord Ijotu comes making a fuss agai...",
-        "pt-BR": "[Carpinteiro Carvalho]\nDe todo modo, graças a você ter aceitado o trabalho, já parece haver uma pista!\nVamos aproveitar esse embalo e resolver isso antes que o Senhor Lee venha fazer outro escândalo…",
-        "es-ES": "[Carpintero Robles]\nEn fin, gracias a que te has encargado del asunto, aventurero, ya empieza a verse alguna pista.\nA este ritmo, podremos resolverlo antes de que Lord Lee vuelva a montar otro escánd…"
+        "pt-BR": "[Carpinteiro Carvalho]\nDe todo modo, graças a você ter aceitado o trabalho, já parece haver uma pista!\nVamos aproveitar esse embalo e resolver isso antes que o Senhor Lee venha fazer outro escândalo...",
+        "es-ES": "[Carpintero Robles]\nEn fin, gracias a que te has encargado del asunto, aventurero, ya empieza a verse alguna pista.\nA este ritmo, podremos resolverlo antes de que Lord Lee vuelva a montar otro escánd..."
     },
     "ut1TDQ": {
         "en-US": "[???]\n<FONT SIZE = 16>Ahem!</FONT>\n<FONT SIZE = 14>Is Master Jang here~?</FONT>",
@@ -301,8 +301,8 @@
     },
     "vN1TDQ": {
         "en-US": "[Carpenter Firewood]\nUrgh....\nSpeak of Eddga and he appears...",
-        "pt-BR": "[Carpinteiro Carvalho]\nUrgh....\nFalando em Eddga, ele aparece…",
-        "es-ES": "[Carpintero Robles]\nUgh…\nHablando de Edgar, aparece Edgar…"
+        "pt-BR": "[Carpinteiro Carvalho]\nUrgh....\nFalando em Eddga, ele aparece...",
+        "es-ES": "[Carpintero Robles]\nUgh...\nHablando de Edgar, aparece Edgar..."
     },
     "vd1TDQ": {
         "en-US": "I'd rather have Eddga.",
@@ -326,8 +326,8 @@
     },
     "wd1TDQ": {
         "en-US": "[Carpenter Firewood]\nIf you keep showing up at all hours like this, even work that could get done won't get done...",
-        "pt-BR": "[Carpinteiro Carvalho]\nSe vier aqui a toda hora assim, nem o que poderia dar certo vai dar…",
-        "es-ES": "[Carpintero Robles]\nSi aparece a todas horas sin avisar, ni lo que podría salir bien saldrá bien…"
+        "pt-BR": "[Carpinteiro Carvalho]\nSe vier aqui a toda hora assim, nem o que poderia dar certo vai dar...",
+        "es-ES": "[Carpintero Robles]\nSi aparece a todas horas sin avisar, ni lo que podría salir bien saldrá bien..."
     },
     "wt1TDQ": {
         "en-US": "[Lord Ijotu]\nTsk~\nFrom the looks of it, it's not much different from yesterday.\nYou haven't even started the work, and yet you talk so big~",
@@ -336,8 +336,8 @@
     },
     "w91TDQ": {
         "en-US": "[Carpenter Firewood]\n<FONT SIZE = 14>Argh... you... you...!!!</FONT>\n<FONT SIZE = 14>I'm already unable to work because the tools keep getting wrecked!!!</FONT>\n<FONT SIZE = 14>If you came here to get on my nerves, you're only getting in the way, so go on home!</FONT>",
-        "pt-BR": "[Carpinteiro Carvalho]\n<FONT SIZE = 14>Aaah… esse… esse…!!!</FONT>\n<FONT SIZE = 14>Minhas ferramentas continuam quebrando, então nem consigo trabalhar!!!</FONT>\n<FONT SIZE = 14>Se veio só para provocar, está atrapalhando, então vá embora!</FONT>",
-        "es-ES": "[Carpintero Robles]\n<FONT SIZE = 14>Uf… ¡Tú… tú…!</FONT>\n<FONT SIZE = 14>¡¡¡Ya de por sí no puedo trabajar porque las herramientas no paran de romperse!!!</FONT>\n<FONT SIZE = 14>¡Si has venido a provocarme, solo estorbas, así que vete ya!</FONT>"
+        "pt-BR": "[Carpinteiro Carvalho]\n<FONT SIZE = 14>Aaah... esse... esse...!!!</FONT>\n<FONT SIZE = 14>Minhas ferramentas continuam quebrando, então nem consigo trabalhar!!!</FONT>\n<FONT SIZE = 14>Se veio só para provocar, está atrapalhando, então vá embora!</FONT>",
+        "es-ES": "[Carpintero Robles]\n<FONT SIZE = 14>Uf... ¡Tú... tú...!</FONT>\n<FONT SIZE = 14>¡¡¡Ya de por sí no puedo trabajar porque las herramientas no paran de romperse!!!</FONT>\n<FONT SIZE = 14>¡Si has venido a provocarme, solo estorbas, así que vete ya!</FONT>"
     },
     "xN1TDQ": {
         "en-US": "[Lord Ijotu]\nOh my, you startled me!\nI was going to leave even without you shouting like that!\n<FONT SIZE = 18>Hmph!</FONT>",
@@ -391,8 +391,8 @@
     },
     "zt1TDQ": {
         "en-US": "[Carpenter Firewood]\nAnd while all that's going on, he comes by every single day to get on my nerves...\nIf we can't solve it this time either, I may as well quit. Tsk...",
-        "pt-BR": "[Carpinteiro Carvalho]\nE no meio disso tudo ele vem aqui praticamente todo dia para me provocar…\nSe eu não resolver isto desta vez, vou largar tudo, hmph…",
-        "es-ES": "[Carpintero Robles]\nY encima viene casi todos los días a provocarme de esa manera…\nSi esta vez tampoco consigo resolverlo, tendré que mandarlo todo al diablo, bah…"
+        "pt-BR": "[Carpinteiro Carvalho]\nE no meio disso tudo ele vem aqui praticamente todo dia para me provocar...\nSe eu não resolver isto desta vez, vou largar tudo, hmph...",
+        "es-ES": "[Carpintero Robles]\nY encima viene casi todos los días a provocarme de esa manera...\nSi esta vez tampoco consigo resolverlo, tendré que mandarlo todo al diablo, bah..."
     },
     "z91TDQ": {
         "en-US": "[Carpenter Firewood]\nThen I'll be organizing the cargo in the cart,\nso please take a closer look at the ^DD5555broken tools^000000.",
@@ -402,22 +402,22 @@
     "0N1TDQ": {
         "en-US": "Oh dear~ What a life!",
         "pt-BR": "Ai~ que sina, a minha!",
-        "es-ES": "Ay… ¡Qué mala suerte la mía!"
+        "es-ES": "Ay... ¡Qué mala suerte la mía!"
     },
     "0d1TDQ": {
         "en-US": "[Carpenter Firewood]\nAh... oh dear...\nHow could such a thing happen...",
-        "pt-BR": "[Carpinteiro Carvalho]\nAh… ai, ai…\nComo uma coisa dessas pôde acontecer…",
-        "es-ES": "[Carpintero Robles]\nAh… Ay, ay…\n¿Cómo puede haber pasado algo así…?"
+        "pt-BR": "[Carpinteiro Carvalho]\nAh... ai, ai...\nComo uma coisa dessas pôde acontecer...",
+        "es-ES": "[Carpintero Robles]\nAh... Ay, ay...\n¿Cómo puede haber pasado algo así...?"
     },
     "0t1TDQ": {
         "en-US": "[Carpenter Firewood]\nHe was a nasty-tempered man, but he wasn't so bad as to deserve that. How did this...\nOh dear...",
-        "pt-BR": "[Carpinteiro Carvalho]\nEle era um sujeito de gênio ruim, mas não era uma pessoa tão má assim. Como foi que…\nAi, meu Deus…",
-        "es-ES": "[Carpintero Robles]\nEra un hombre de mal carácter, pero tampoco era tan mala persona como para acabar así…\nAy, ay…"
+        "pt-BR": "[Carpinteiro Carvalho]\nEle era um sujeito de gênio ruim, mas não era uma pessoa tão má assim. Como foi que...\nAi, meu Deus...",
+        "es-ES": "[Carpintero Robles]\nEra un hombre de mal carácter, pero tampoco era tan mala persona como para acabar así...\nAy, ay..."
     },
     "091TDQ": {
         "en-US": "Oh dear...",
-        "pt-BR": "Ai, ai…",
-        "es-ES": "Ay…"
+        "pt-BR": "Ai, ai...",
+        "es-ES": "Ay..."
     },
     "1N1TDQ": {
         "en-US": "Cheol-ho",
@@ -552,7 +552,7 @@
     "7t1TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Anyone who would trick me with a delicious smell is surely a very nasty fellow.</FONT>",
         "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Enganar-me com um cheiro gostoso é certamente obra de alguém muito mal-intencionado.</FONT>",
-        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Engañarme con un olor delicioso… seguro que ha sido obra de alguien con muy malas intenciones.</FONT>"
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>Engañarme con un olor delicioso... seguro que ha sido obra de alguien con muy malas intenciones.</FONT>"
     },
     "791TDQ": {
         "en-US": "Disordered Traces",
@@ -726,8 +726,8 @@
     },
     "Ed5TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Here, here!</FONT>\n<FONT SIZE = 14>The smell is coming from here!</FONT>\n<FONT SIZE = 16>Slurp...</FONT>",
-        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Aqui, aqui!</FONT>\n<FONT SIZE = 14>Vem muito cheiro daqui!</FONT>\n<FONT SIZE = 16>Slurp…</FONT>",
-        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Aquí, aquí!</FONT>\n<FONT SIZE = 14>¡Aquí huele muchísimo!</FONT>\n<FONT SIZE = 16>Ñam…</FONT>"
+        "pt-BR": "[Cheol-ho]\n<FONT SIZE = 14>Aqui, aqui!</FONT>\n<FONT SIZE = 14>Vem muito cheiro daqui!</FONT>\n<FONT SIZE = 16>Slurp...</FONT>",
+        "es-ES": "[Cheol-ho]\n<FONT SIZE = 14>¡Aquí, aquí!</FONT>\n<FONT SIZE = 14>¡Aquí huele muchísimo!</FONT>\n<FONT SIZE = 16>Ñam...</FONT>"
     },
     "Et5TDQ": {
         "en-US": "[???]\n<FONT SIZE = 14>Hey!</FONT>\nYou rascal!\nWhat did I tell you happens if you covet other people's things in the village?",
@@ -771,8 +771,8 @@
     },
     "Gt5TDQ": {
         "en-US": "[Cheol-ho]\n...",
-        "pt-BR": "[Cheol-ho]\n…",
-        "es-ES": "[Cheol-ho]\n…"
+        "pt-BR": "[Cheol-ho]\n...",
+        "es-ES": "[Cheol-ho]\n..."
     },
     "G95TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 18>So kind!</FONT>",
@@ -831,8 +831,8 @@
     },
     "Jt5TDQ": {
         "en-US": "[Lord I's Servant]\nThe... um... food that was stored in the barn has all disappeared!",
-        "pt-BR": "[Servo do Senhor Lee]\nAquelas… comidas… que deixamos no celeiro desapareceram todas!",
-        "es-ES": "[Sirviente de Lord Lee]\nLa… la comida que guardamos en el granero ha desaparecido toda, señor."
+        "pt-BR": "[Servo do Senhor Lee]\nAquelas... comidas... que deixamos no celeiro desapareceram todas!",
+        "es-ES": "[Sirviente de Lord Lee]\nLa... la comida que guardamos en el granero ha desaparecido toda, señor."
     },
     "J95TDQ": {
         "en-US": "[Lord Ijotu]\n<FONT SIZE = 14>What!?</FONT>\nWhere did all that food go?!",
@@ -887,7 +887,7 @@
     "Md5TDQ": {
         "en-US": "[Lord Ijotu]\n<FONT SIZE = 14>Whoever it was, stealing from my barn... just wait until I catch you!!!</FONT>",
         "pt-BR": "[Senhor Lee]\n<FONT SIZE = 14>Não sei quem foi, mas se eu pegar o ladrão que roubou meu celeiro...!!!</FONT>",
-        "es-ES": "[Lord Lee Jotu]\n<FONT SIZE = 14>¡No sé quién habrá sido, pero como atrape al que robó mi granero…!</FONT>"
+        "es-ES": "[Lord Lee Jotu]\n<FONT SIZE = 14>¡No sé quién habrá sido, pero como atrape al que robó mi granero...!</FONT>"
     },
     "Mt5TDQ": {
         "en-US": "I'll break your legs!!!",
@@ -931,8 +931,8 @@
     },
     "Ot5TDQ": {
         "en-US": "[Lord Ijotu]\nSo catching the culprit is one thing, but it looks like we'll need to make new food to use right away...",
-        "pt-BR": "[Senhor Lee]\nEntão, além de pegar o culpado, parece que precisaremos preparar uma nova leva de comida para usar de imediato…",
-        "es-ES": "[Lord Lee Jotu]\nAsí que habrá que atrapar al culpable, sí, pero parece que antes tendremos que preparar comida nueva para usar de inmediato…"
+        "pt-BR": "[Senhor Lee]\nEntão, além de pegar o culpado, parece que precisaremos preparar uma nova leva de comida para usar de imediato...",
+        "es-ES": "[Lord Lee Jotu]\nAsí que habrá que atrapar al culpable, sí, pero parece que antes tendremos que preparar comida nueva para usar de inmediato..."
     },
     "O95TDQ": {
         "en-US": "[Master Gwang]\nUnderstood.\nI'll prepare the medicine.",
@@ -941,8 +941,8 @@
     },
     "PN5TDQ": {
         "en-US": "[Master Gwang]\nBut...\nSince you're asking, Lord I, I will prepare the ^123456medicine^000000, but weren't you the one who personally asked Master Jang to do the forest construction?\nWhy are you trying to prevent the work from getting done?",
-        "pt-BR": "[Mestre Gwang]\nMas…\nEu estou preparando o ^123456remédio^000000 porque o Senhor Lee pediu, mas quanto às obras na floresta, não foi o próprio Senhor Lee que pediu isso diretamente ao Mestre Carvalho?\nPor que ele estaria tentando impedir o trabalho agora?",
-        "es-ES": "[Maestro Gwang]\nSin embargo…\nYo prepararé la ^123456medicina^000000 porque usted me lo pide, Lord Lee, pero ¿no fue usted quien pidió directamente al Maestro Jang que construyera en el bosque?\n¿Por qué intenta impedir que pueda trabajar?"
+        "pt-BR": "[Mestre Gwang]\nMas...\nEu estou preparando o ^123456remédio^000000 porque o Senhor Lee pediu, mas quanto às obras na floresta, não foi o próprio Senhor Lee que pediu isso diretamente ao Mestre Carvalho?\nPor que ele estaria tentando impedir o trabalho agora?",
+        "es-ES": "[Maestro Gwang]\nSin embargo...\nYo prepararé la ^123456medicina^000000 porque usted me lo pide, Lord Lee, pero ¿no fue usted quien pidió directamente al Maestro Jang que construyera en el bosque?\n¿Por qué intenta impedir que pueda trabajar?"
     },
     "Pd5TDQ": {
         "en-US": "[Lord Ijotu]\nIf you want to buy good land cheaply, effort is required.",
@@ -1171,8 +1171,8 @@
     },
     "at5TDQ": {
         "en-US": "[Hyunrok's Letter]\nThey say even brushing sleeves is fate...\nSurely your entering this forest, and our meeting one another, were all bonds ordained by the heavens.",
-        "pt-BR": "[Carta de Hyunrok]\nDizem que até um simples roçar de mangas cria um vínculo…\nO fato de você ter entrado nesta floresta e de termos nos encontrado certamente também foi um vínculo determinado pelos céus.",
-        "es-ES": "[Carta de Hyunrok]\nDicen que incluso el más leve roce de mangas es fruto del destino…\nQue hayas entrado en este bosque y que nos hayamos conocido debe de ser también un vínculo dispuesto por los cielos."
+        "pt-BR": "[Carta de Hyunrok]\nDizem que até um simples roçar de mangas cria um vínculo...\nO fato de você ter entrado nesta floresta e de termos nos encontrado certamente também foi um vínculo determinado pelos céus.",
+        "es-ES": "[Carta de Hyunrok]\nDicen que incluso el más leve roce de mangas es fruto del destino...\nQue hayas entrado en este bosque y que nos hayamos conocido debe de ser también un vínculo dispuesto por los cielos."
     },
     "a95TDQ": {
         "en-US": "[Hyunrok's Letter]\nEven though I failed to recognize that bond properly and committed discourtesy while my mind was clouded by what was before me, I will never forget the grace you showed by helping us in our hour of danger.",
@@ -1196,8 +1196,8 @@
     },
     "b95TDQ": {
         "en-US": "[Hyunrok's Letter]\nUntil the day we meet again, farewell...",
-        "pt-BR": "[Carta de Hyunrok]\nEntão, na esperança de nos encontrarmos novamente algum dia, despeço-me…",
-        "es-ES": "[Carta de Hyunrok]\nEntonces, esperando el día en que volvamos a encontrarnos, me despido…"
+        "pt-BR": "[Carta de Hyunrok]\nEntão, na esperança de nos encontrarmos novamente algum dia, despeço-me...",
+        "es-ES": "[Carta de Hyunrok]\nEntonces, esperando el día en que volvamos a encontrarnos, me despido..."
     },
     "cN5TDQ": {
         "en-US": "[Cheol-ho]\n<FONT SIZE = 14>Have you finished reading the letter?</FONT>\n<FONT SIZE = 14>What did it say?</FONT>",

@@ -145,9 +145,9 @@
         "es-ES": "[Blizzardris]\nPor eso, viene con varias\ncondiciones estrictas.\nPrimero, necesitarás\nalgunos objetos especiales."
     },
     "HS6TAg": {
-        "en-US": "[Blizzardris]\nBring me 3 ^3355FFGlass Beads^000000,\n1 ^3355FF1 Carat Diamond^000000,\n5 ^3355FFSolid Shells^000000,\nand 1 ^3355FFVery Tough Shell^000000.",
-        "pt-BR": "[Blizzardris]\nTraga 3 ^3355FFContas de Cristal^000000,\n1 ^3355FFDiamante de 1 quilate^000000,\n5 ^3355FFCarapaças Sólidas^000000\ne 1 ^3355FFCarapaça Muito Sólida^000000.",
-        "es-ES": "[Blizzardris]\nTráeme 3 ^3355FFCuentas de Cristal^000000,\n1 ^3355FFDiamante de 1 quilate^000000,\n5 ^3355FFCaparazones Sólidos^000000,\ny 1 ^3355FFCaparazón Muy Sólido^000000."
+        "en-US": "[Blizzardris]\nBring me 3 ^3355FFGlass Beads^000000,\n1 ^3355FF1 Carat Diamond^000000,\n5 ^3355FFShells^000000,\nand 1 ^3355FFSolid Shell^000000.",
+        "pt-BR": "[Blizzardris]\nTraga 3 ^3355FFBolinha de Gude^000000,\n1 ^3355FFDiamante de 1 quilate^000000,\n5 ^3355FFCasca^000000\ne 1 ^3355FFCasca Rija^000000.",
+        "es-ES": "[Blizzardris]\nTráeme 3 ^3355FFCuentas de Cristal^000000,\n1 ^3355FFDiamante de 1 quilate^000000,\n5 ^3355FFCaparazones^000000,\ny 1 ^3355FFCaparazón Sólido^000000."
     },
     "Hi6TAg": {
         "en-US": "[Blizzardris]\nAnd one more thing.\nYour body must be strong enough\nto endure the spell.\nIn other words, you must be\na Mage with Job Level 35 or higher,\nor already be a Wizard.",

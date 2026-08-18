@@ -1,8 +1,8 @@
 {
     "oBRDDQ": {
         "en-US": "Power Chest#",
-        "pt-BR": "Caixa da Força#",
-        "es-ES": "Cofre de fuerza#"
+        "pt-BR": "Baú do Poder#",
+        "es-ES": "Cofre de Fuerza#"
     },
     "oRRDDQ": {
         "en-US": "^FF0000Only the party leader has the right to open it.^000000",
@@ -21,8 +21,8 @@
     },
     "pBRDDQ": {
         "en-US": "Advanced Power Chest#",
-        "pt-BR": "Caixa da Força Superior#",
-        "es-ES": "Cofre de fuerza superior#"
+        "pt-BR": "Baú do Poder II#",
+        "es-ES": "Cofre de Fuerza Avanzada#"
     },
     "pRRDDQ": {
         "en-US": "atk_2",
@@ -31,8 +31,8 @@
     },
     "phRDDQ": {
         "en-US": "HP Chest#",
-        "pt-BR": "Caixa da Vitalidade#",
-        "es-ES": "Cofre de vida#"
+        "pt-BR": "Baú de Stamina#",
+        "es-ES": "Cofre de Vida#"
     },
     "pxRDDQ": {
         "en-US": "hp_1",
@@ -41,8 +41,8 @@
     },
     "qBRDDQ": {
         "en-US": "Advanced HP Chest#",
-        "pt-BR": "Caixa da Vitalidade Superior#",
-        "es-ES": "Cofre de vida superior#"
+        "pt-BR": "Baú de Stamina II#",
+        "es-ES": "Cofre de Vida Avanzada#"
     },
     "qRRDDQ": {
         "en-US": "hp_2",
@@ -51,8 +51,8 @@
     },
     "qhRDDQ": {
         "en-US": "Spirit Chest#",
-        "pt-BR": "Caixa do Espírito#",
-        "es-ES": "Cofre de espíritu#"
+        "pt-BR": "Baú da Concentração#",
+        "es-ES": "Cofre Espiritual#"
     },
     "qxRDDQ": {
         "en-US": "rel_1",
@@ -61,8 +61,8 @@
     },
     "rBRDDQ": {
         "en-US": "Advanced Spirit Chest#",
-        "pt-BR": "Caixa do Espírito Superior#",
-        "es-ES": "Cofre de espíritu superior#"
+        "pt-BR": "Baú da Concentração II#",
+        "es-ES": "Cofre Espiritual Avanzado#"
     },
     "rRRDDQ": {
         "en-US": "rel_2",
@@ -71,8 +71,8 @@
     },
     "rhRDDQ": {
         "en-US": "Wisdom Chest#",
-        "pt-BR": "Caixa da Sabedoria#",
-        "es-ES": "Cofre de sabiduría#"
+        "pt-BR": "Baú da Sabedoria#",
+        "es-ES": "Cofre de Sabiduría#"
     },
     "rxRDDQ": {
         "en-US": "heal_1",
@@ -81,8 +81,8 @@
     },
     "sBRDDQ": {
         "en-US": "Advanced Wisdom Chest#",
-        "pt-BR": "Caixa da Sabedoria Superior#",
-        "es-ES": "Cofre de sabiduría superior#"
+        "pt-BR": "Baú da Sabedoria II#",
+        "es-ES": "Cofre de Sabiduría Avanzada#"
     },
     "sRRDDQ": {
         "en-US": "heal_2",
@@ -91,8 +91,8 @@
     },
     "shRDDQ": {
         "en-US": "Agility Chest#",
-        "pt-BR": "Caixa da Agilidade#",
-        "es-ES": "Cofre de agilidad#"
+        "pt-BR": "Baú da Criatividade#",
+        "es-ES": "Cofre de Agilidad#"
     },
     "sxRDDQ": {
         "en-US": "trap_1",
@@ -101,8 +101,8 @@
     },
     "tBRDDQ": {
         "en-US": "Advanced Agility Chest#",
-        "pt-BR": "Caixa da Agilidade Superior#",
-        "es-ES": "Cofre de agilidad superior#"
+        "pt-BR": "Baú da Criatividade II#",
+        "es-ES": "Cofre de Agilidad Avanzada#"
     },
     "tRRDDQ": {
         "en-US": "trap_2",
@@ -111,8 +111,8 @@
     },
     "thRDDQ": {
         "en-US": "Satisfaction Chest#",
-        "pt-BR": "Caixa da Satisfação#",
-        "es-ES": "Cofre de satisfacción#"
+        "pt-BR": "Baú de Recompensa#",
+        "es-ES": "Cofre de Satisfacción#"
     },
     "txRDDQ": {
         "en-US": "spc_2",
@@ -121,8 +121,8 @@
     },
     "uBRDDQ": {
         "en-US": "Secret Chest#",
-        "pt-BR": "Caixa Secreta#",
-        "es-ES": "Cofre secreto#"
+        "pt-BR": "Baú Secreto#",
+        "es-ES": "Cofre Secreto#"
     },
     "uRRDDQ": {
         "en-US": "spc_1",
@@ -131,8 +131,8 @@
     },
     "uhRDDQ": {
         "en-US": "Mysterious Chest#",
-        "pt-BR": "Caixa Misteriosa#",
-        "es-ES": "Cofre misterioso#"
+        "pt-BR": "Baú Misterioso#",
+        "es-ES": "Cofre Misterioso#"
     },
     "uxRDDQ": {
         "en-US": "{0} {1} {2} {3} {4}",
